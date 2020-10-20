@@ -1,0 +1,10 @@
+log/
+obj/
+_site/
+.optemp/
+.vs/
+_themes/
+_themes.MSDN.Modern/
+_themes.VS.Modern/
+
+.openpublishing.buildcore.ps1
