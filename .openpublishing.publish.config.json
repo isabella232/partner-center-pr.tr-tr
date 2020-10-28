@@ -4,7 +4,7 @@
       "docset_name": "marketplace",
       "build_source_folder": "marketplace",
       "build_output_subfolder": "marketplace",
-      "locale": "tr-tr",
+      "locale": "tr-TR",
       "monikers": [],
       "moniker_ranges": [],
       "open_to_public_contributors": false,
@@ -18,7 +18,7 @@
       "docset_name": "partner-center-china-dynamic",
       "build_source_folder": "china",
       "build_output_subfolder": "partner-center-china-dynamic",
-      "locale": "tr-tr",
+      "locale": "tr-TR",
       "monikers": [],
       "moniker_ranges": [],
       "open_to_public_contributors": false,
@@ -34,7 +34,7 @@
       "docset_name": "partner-center-pr",
       "build_source_folder": "partner-center",
       "build_output_subfolder": "partner-center",
-      "locale": "tr-tr",
+      "locale": "tr-TR",
       "monikers": [],
       "moniker_ranges": [],
       "open_to_public_contributors": false,
@@ -49,11 +49,15 @@
       "version": 0
     }
   ],
+  "sync_notification_subscribers": [
+    "ceicnotifications@microsoft.com"
+  ],
   "notification_subscribers": [
     ""
   ],
   "branches_to_filter": [
-    "live-sxs",
+    "live",
+    "master",
     "master-sxs"
   ],
   "continue_with_document_error": true,
@@ -62,7 +66,7 @@
   "dependent_repositories": [
     {
       "path_to_root": "_themes.MSDN.PartnerCenter",
-      "url": "https://github.com/Microsoft/templates.msdn.partnercenter.tr-tr",
+      "url": "https://github.com/Microsoft/templates.msdn.partnercenter",
       "branch": "master",
       "branch_mapping": {}
     },
@@ -74,7 +78,7 @@
     },
     {
       "path_to_root": "_themes",
-      "url": "https://github.com/Microsoft/templates.docs.msft.tr-tr",
+      "url": "https://github.com/Microsoft/templates.docs.msft.tr-TR",
       "branch": "master",
       "branch_mapping": {}
     },
