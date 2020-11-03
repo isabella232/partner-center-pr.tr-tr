@@ -710,13 +710,10 @@
       displayName: 'tenant id, object id, domain name, azure ad tenant, tenantguid, Microsoft ID, directory id'
 - name: Güvenlik gereksinimleri
   items:
-    - name: Genel Bakış
+    - name: Güvenliğe genel bakış
       href: partner-security-requirements.md
     - name: İş ortağı kiracınız için MFA'yı zorunlu tutma
       href: partner-security-requirements-mandating-mfa.md
-      displayName: csp
-    - name: Kullanıcılarınız için çok faktörlü kimlik doğrulaması ayarlama
-      href: mfa-for-users.md
       displayName: csp
     - name: Gereksinim durumu
       href: partner-security-compliance.md

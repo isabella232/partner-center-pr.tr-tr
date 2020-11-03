@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 10/27/2020
-ms.openlocfilehash: 4877c3c21449c8b5cc4224973d159d70635d9262
-ms.sourcegitcommit: 4bff85c6a13a990d5eb6c4a4ef44e1013d06948e
+ms.openlocfilehash: f90c9ae32e68d6e772c51cede28237f500a0a7b9
+ms.sourcegitcommit: 1840767efa4c5de41889bc9245567cf286a084c8
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "92903046"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "92917271"
 ---
 # <a name="october-2020-announcements"></a>Ekim 2020 duyuruları
 
@@ -23,6 +23,38 @@ Bu sayfa, 2020 Ekim 'e yönelik Microsoft Iş Ortağı Merkezi bildirilerini ayr
 2020 Duyurular: [March](2020-march.md)  |  [Nisan](2020-april.md)Mart  |  [,](2020-may.md)  |  Eylül ayında[Haziran](2020-june.md)  |  [ayı](2020-july.md)  |  [August](2020-august.md)  |  [September](2020-september.md) | 'Den
 
 ______________
+
+## <a name="refreshed-cloud-solution-provider-csp-digital-experience-now-available"></a><a name="15"></a>Yenilenen bulut çözümü sağlayıcısı (CSP) dijital deneyimi artık kullanılabilir
+
+### <a name="categories"></a>Kategoriler
+
+- Tarih: 2020-10-28
+- Özellikler
+
+### <a name="impacted-audience"></a>Etkilenen hedef kitle
+
+CSP Iş ortakları
+
+### <a name="details"></a>Ayrıntılar
+
+Microsoft, iş ortaklarımızın potansiyelini en üst düzeye çıkarmasına, yenilikçi çözümler oluşturmasına ve Microsoft İş Ortağı Ağı daha fazla müşteri başarısı sağlamanıza yardımcı olmaya kararlıdır. Bulut çözümü sağlayıcısı (CSP) programı, 90.000 ' den fazla katılan şirkete sahip en hızlı büyüyen programlarınızdan biridir.
+Bulut çözüm sağlayıcısı programındaki iş ortaklarının iş artışını hızlandırmaya yardımcı olmak için, Microsoft İş Ortağı Ağı web sitesinde ve yeni bir CSP kılavuz kitabı üzerinde yenilenmiş bir bulut çözümü programı (CSP) dijital deneyimi sunuyoruz. Bu yeniden kullanıma yönelik bu deneyim ve yeni kaynaklar, iş ortaklarının yeni fırsatların kilidini açma ve CSP programında işlerini daha etkili bir şekilde büyütmesine yardımcı olur.
+
+Bu yeni dijital deneyim şunları içerir:
+
+- İş ortağı iş artışını hızlandırmaya yardımcı olmak için CSP dijital deneyimi yenilendi: yenilenen CSP sayfası, iş ortağının kaydetme, derleme uygulamaları, pazara ulaşma ve satış arasındaki yolculuğun yolculuğuna kılavuzluk eden kolaylaştırılmış bir deneyim sunar. İş ortakları, satış yürütme kampanyaları ve pazara karşı pazarlama kaynakları ile gelir fırsatlarını büyüyebilir. Diğer tümleşik kaynaklar, CSP programında iş ortaklarının güncel ve kolay bir şekilde güncelleştirilmesini sağlar.
+- İş ortaklarının yeni fırsatları belirlemesine yardımcı olmak için yeni bulut çözümü sağlayıcısı program rehberi kitabı: Bu adım adım kılavuzda, iş ortakları, programda bulut iş büyümesinin hızlandırmasına ve gelir fırsatlarınızı genişletmenize kılavuzluk eder.
+- Çözüm çalışma alanındaki CSP program içeriği: çözüm çalışma alanı, fikirlerinizi pazara daha hızlı hale getirmek için size, isteğe bağlı kaynaklar için tek bir hedef sunan dijital bir deneyimdir. Artık hizmet sağlayıcıları, çözüm çalışma alanında CSP programına özgü içerik ve kaynakları bulabilir.
+
+### <a name="additional-resources"></a>Ek kaynaklar
+
+- [Yenılenen CSP sayfasını](https://aka.ms/CSP) ziyaret edin 
+- [Yenı CSP program kılavuzu kitabı](https://aka.ms/cspguidebook) ' nı gözden geçirin ve büyüme fırsatları hakkında daha fazla bilgi edinin
+- Uygulamalarınızı derlemek ve adımlarınızı basitleştirmek için çözüm çalışma alanını kullanmaya başlayın
+- Satış özellikli kaynaklar ile daha fazla kampanya sürücüsü 
+- Lütfen iş arkadaşlarınızı CSP sayfasını ziyaret edin ve kuruluşunuzdaki kaynakları paylaşın. Dolaylı sağlayıcılarınız varsa, lütfen kaynakları dolaylı satıcılarınızla paylaşabilirsiniz.
+
+________________
 
 ## <a name="october-2020-cloud-solution-provider-csp-software-subscriptions-price-list-updates"></a><a name="14"></a>2020 Ekim bulut çözümü sağlayıcısı (CSP) yazılım abonelikleri fiyat listesi güncelleştirmeleri
 
