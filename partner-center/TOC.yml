@@ -6,8 +6,10 @@
   items:
     - name: Microsoft ile iş ortaklığı yapma
       href: mpn-overview.md
+      displayName: mpn
     - name: İş Ortağı Merkezi hesabı oluşturma
       href: mpn-create-a-partner-center-account.md
+      displayName: mpn
     - name: İş e-posta adresi alma
       href: buy-email-domain.md
     - name: Hesap kurulumu sorunlarını giderme
@@ -24,6 +26,7 @@
       items:
         - name: PMC'den geçiş yapmaya hazırlanma
           href: prepare-pmc-pc-migration.md
+          displayName: 'role, roles, ro, mpn'
         - name: PMC'den geçiş yapma kılavuzu
           href: guide-to-migration.md
         - name: PMC ve PC'yi karşılaştırma
@@ -34,34 +37,44 @@
           href: consolidate-accounts.md
         - name: PMC için avantajları etkinleştirme
           href: partner-membership-center-tech-benefits-activate.md
+          displayName: mpn
     - name: Üyelik teklifleri
       items:
         - name: Eylem Paketi
           href: mpn-get-action-pack.md
+          displayName: 'renew, mpn'
         - name: Tekliflerinizi yenileme
           href: renew-mpn-offers.md
+          displayName: mpn
         - name: MPN avantajlarınızı bulma
           href: mpn-find-benefits.md
+          displayName: mpn
     - name: Yetkinlikler
       items:
         - name: Yetkinlikler hakkında bilgi edinin
           href: learn-about-competencies.md
+          displayName: mpn
         - name: Yetkinlikler hakkında SSS
           href: competencies-faq.md
+          displayName: 'renew, mpn'
         - name: Uygulama Geliştirme yetkinlik istisnası
           href: app-dev-isv.md
     - name: Gelişmiş uzmanlıklar
       href: advanced-specializations.md
+      displayName: mpn
     - name: Azure Uzman MSP olma
       href: azure-expert-msp.md
-    - name: Avantajlar
+    - name: Yararları
       items:
         - name: Avantajlara genel bakış
           href: manage-your-partner-network-benefits.md
+          displayName: mpn
         - name: Pazara çıkış avantajları
           href: mpn-learn-about-go-to-market-benefits.md
+          displayName: mpn
         - name: Avantajlar hakkında SSS'ler
           href: benefits-faq.md
+          displayName: 'renew, license, mpn'
     - name: Marketplace Rewards
       href: marketplace-rewards.md
     - name: Yazılım Güvencesi
@@ -77,35 +90,47 @@
               href: software-assurance-dps-requirements.md
     - name: Faturalar ve vergiler
       href: mpn-view-print-maps-invoice.md
+      displayName: 'invoice, mpn'
     - name: Yeni özellikleri deneme
       href: test-drive-new-features.md
 - name: Bulut Çözümü Sağlayıcısı (CSP)
   href: csp-overview.md
+  displayName: csp
   items:
     - name: CSP programına kaydolma
       href: enrolling-in-the-csp-program.md
+      displayName: 'indirect, reseller, csp'
     - name: Microsoft İş Ortağı Sözleşmesi - CSP'ler
       href: microsoft-partner-agreement.md
+      displayName: 'csp, mpn'
     - name: CSP doğrudan iş ortağı gereksinimleri
       href: direct-partner-new-requirements.md
+      displayName: 'indirect, reseller, csp'
     - name: 'Microsoft Müşteri Sözleşmeleri (bölgeye, dile göre)'
       href: agreements.md
+      displayName: 'regio, region'
     - name: Kısıtlanmış doğrudan fatura erişimi
       href: restricted-direct-bill-capabilities.md
+      displayName: 'indirect, reseller'
     - name: CSP doğrudan faturayı dolaylı kurumsal bayiye geçirme
       href: transition-direct-to-indirect.md
+      displayName: csp
     - name: 'CSP sözleşmeleri, fiyat listeleri, teklifler'
       href: csp-documents-and-learning-resources.md
+      displayName: csp
     - name: CSP'ler için Cloudyn'in sunduğu Azure Maliyet Yönetimi
       href: azure-cost-management-app-for-csp-partners.md
     - name: 'CSP bölgesel pazarlar, para birimleri'
       href: regional-authorization-overview.md
+      displayName: 'regio, region, csp'
     - name: CSP bölgesel yetkilendirme kiracı birleştirme yönergeleri
       href: csp-regional-authorization-tenant-consolidation.md
+      displayName: 'regio, region, csp'
     - name: Microsoft Müşteri Sözleşmesi'nin kabul edildiğini onaylama yöntemini güncelleştirme
       href: confirm-consent.md
     - name: Microsoft Müşteri Sözleşmesi'nin kabul edildiğini onaylama
       href: confirm-customer-agreement.md
+      displayName: csp
     - name: Müşteri adına Müşteri Sözleşmesi'nin kabul edildiğini onaylama zamanı
       href: attest-acceptance-customer-agreement.md
     - name: Ulusal bulutlarda satış için başvurma
@@ -115,12 +140,15 @@
           href: partner-center-for-microsoft-us-govt-cloud.md
         - name: SSS'ler - Microsoft Cloud for US Government
           href: faq-for-us-govt-cloud.md
+          displayName: csp
         - name: Microsoft Bulut Almanya için İş Ortağı Merkezi
           href: partner-center-for-microsoft-cloud-germany.md
         - name: Microsoft Cloud for US Government için CSP'ye kaydolma
           href: enroll-in-csp-for-microsoft-us-govt-cloud.md
+          displayName: csp
         - name: CSP için Office 365 Kamu GCC satışı
           href: csp-gcc-overview.md
+          displayName: csp
         - name: Office 365 Kamu GCC iş ortağı ve müşteri uygunluk kriterleri
           href: csp-gcc-validate.md
         - name: Microsoft Bulut Almanya için kullanıcı ve lisans yönetimi
@@ -133,8 +161,10 @@
       items:
         - name: Hesabınız hakkında
           href: partner-center-account-setup.md
+          displayName: 'mpn, csp'
         - name: Hesap yapısı hakkında
           href: account-structure.md
+          displayName: mpn
         - name: İş hesabınızı bağlama
           href: azure-active-directory-tenants-and-partner-center.md
         - name: Etki alanı sahipliğini doğrulama
@@ -143,14 +173,18 @@
           href: verification-responses.md
         - name: İş ortağı hesaplarını birleştirme
           href: merge-accounts.md
+          displayName: 'mpn, renew'
         - name: Daha fazla Azure AD kiracısı ekleme
           href: multi-tenant-account.md
         - name: İş ortağı profilinizi güncelleştirme
           href: update-your-partner-profile.md
+          displayName: mpn
         - name: Konumları yönetme
           href: manage-locations.md
+          displayName: 'mpn, csp'
         - name: Denetim Paneli Satıcısı olma
           href: enroll-as-cpv.md
+          displayName: csp
         - name: Askıya alınan hesapları geri yükleme
           href: suspended-partner-center-account.md
         - name: Azure AD uygulamaları ekleme
@@ -163,8 +197,10 @@
           href: create-user-accounts-and-set-permissions.md
         - name: Kullanıcılara rol atama
           href: permissions-overview.md
+          displayName: 'role, ro, roles, mpn'
         - name: Rolünüzü bulma
           href: find-your-role.md
+          displayName: 'role, roles, ro'
         - name: Denetim Paneli Satıcısı olma
           href: enroll-as-cpv.md
         - name: Kullanıcı parolasını sıfırlama
@@ -175,16 +211,20 @@
           href: unable-to-sign-in.md
         - name: Kullanıcının MPN yöneticisi yok
           href: no-mpn-admin.md
+          displayName: mpn
     - name: İşinizi yönetme
       items:
         - name: Azure İş Ortağı Paylaşılan Hizmetleri
           href: shared-services.md
+          displayName: csp
         - name: Fiyatlandırma ve teklifler
           href: pricing-and-offers.md
+          displayName: csp
 - name: Referanslar
   items:
     - name: İşlerinizi büyütme
       href: grow-your-business.md
+      displayName: 'trial, csp'
     - name: Referanslara genel bakış
       href: referrals.md
     - name: İş profilini yönetme
@@ -205,18 +245,21 @@
           href: connectors-troubleshoot.md
         - name: Ortak satış - PSC'den PC'ye geçiş
           href: psc-to-pc.md
+          displayName: mpn
     - name: Anlaşmalarınızı kaydetme
       href: register-deals.md
     - name: Referans içgörüleri alma
       href: referral-insights.md
     - name: İş profilinizi analiz etme
       href: analyze-your-marketing-profile.md
+      displayName: mpn
 - name: Teşvikler
   items:
     - name: Teşviklerle çalışmaya başlama
       items:
         - name: Teşvikler hakkında SSS
           href: incentives-faq.md
+          displayName: mpn
         - name: Teşviklerle çalışmaya başlama
           href: incentives-get-started-intro.md
         - name: Teşvikler için 10 temel bilgi
@@ -237,7 +280,7 @@
           displayName: incentives
         - name: Ödemeleri ve programları görüntüleme
           href: understand-incentive-payouts.md
-          displayName: incentives
+          displayName: 'mpn, incentives'
         - name: Ödemeler sayfanıza erişme
           href: incentives-unified-user-guide.md
           displayName: incentives
@@ -254,7 +297,7 @@
           displayName: incentives
         - name: Yürütme kanıtı olarak vergi faturası gönderme
           href: incentives-tax-invoice-poe.md
-          displayName: incentives
+          displayName: 'incentives, invoice'
     - name: Teşvikler ortak kullanım talepleri
       items:
         - name: Teşvik ortak kullanım talepleri
@@ -280,29 +323,35 @@
           displayName: incentives
         - name: Müşteri ilişkilendirme sorunları
           href: incentives-customer-association-issues.md
-          displayName: incentives
+          displayName: 'incentives, mpn'
     - name: Ödemeler ve kazançlarla ilgili sorunları giderme
       href: incentives-payment-issues.md
       displayName: incentives
 - name: Faturalama ve vergiler
   href: billing.md
+  displayName: trial
   items:
     - name: Fatura temel bilgileri
       href: billing-basics.md
+      displayName: invoice
     - name: İş Ortağı Merkezi'ndeki faturalama türleri
       href: billing-different-types.md
     - name: Faturanızı anlama
       href: read-your-bill.md
+      displayName: invoice
     - name: Mutabakat dosyalarını kullanma
       href: use-the-reconciliation-files.md
+      displayName: 'reseller, mpn'
     - name: Mutabakat dosya ücreti türleri
       href: recon-file-charge-types.md
+      displayName: 'cancel, invoice'
     - name: Günlük ücretlendirilen kullanım mutabakatı dosyaları
       href: daily-rated-usage-recon-files.md
     - name: Lisansa dayalı mutabakat dosyaları
       href: license-based-recon-files.md
     - name: Yaygın fatura senaryoları
       href: common-billing-scenarios.md
+      displayName: 'trial, subscription'
       items:
         - name: Aylık faturalama senaryoları
           href: common-billing-scenarios-monthly.md
@@ -312,37 +361,47 @@
           href: common-billing-scenarios-onetime-recurring.md
         - name: Faturalamayı anlama
           href: invoice-file.md
+          displayName: invoice
         - name: Lisans tabanlı faturalama
           href: license-based-billing.md
         - name: Cep telefonu operatörü faturalaması
           href: mobile-operator-billing.md
         - name: Lisans tabanlı SaaS abonelikleri senaryoları
           href: common-billing-scenarios-saas.md
+          displayName: cancel
     - name: Market teklifleri faturalaması
       href: csp-commercial-marketplace-billing.md
+      displayName: 'invoice, csp'
     - name: Dijital imzaları görüntüleme - İş Ortağı Merkezi Hindistan
       href: digital-signature.md
+      displayName: invoice
     - name: Vergi ve vergi muafiyetleri
       href: tax-and-tax-exemptions.md
+      displayName: 'region, regio'
       items:
         - name: Şirket KDV bilgileri
           href: organization-tax-info.md
         - name: İş Ortağı Merkezi kaydında katma değer vergisi (KDV) bilgileri
           href: vat-info.md
+          displayName: 'region, regio'
         - name: Vergi stopajı için kredi alma
           href: withholding-tax-credit-form.md
         - name: Ses hizmetleri bölgesel vergileri
           href: tax-and-fees-voice-services.md
+          displayName: 'csp, regio, region'
         - name: Ticari market yayıncıları için vergi bilgileri
           href: tax-details-marketplace.md
+          displayName: 'region, regio, reseller'
         - name: Microsoft tarafından verilen IRS vergi formlarını anlama
           href: understand-irs-tax-forms.md
         - name: Ödeme hesabınızı ve vergi formlarınızı ayarlama
           href: set-up-your-payout-account.md
+          displayName: 'region, regio'
         - name: Microsoft'tan SLA iade isteğinde bulunma
           href: request-credit.md
     - name: Müşterileriniz için Azure harcama bütçesi ayarlama
       href: set-an-azure-spending-budget-for-your-customers.md
+      displayName: csp
 - name: Ödeme alma
   items:
     - name: 'Ödeme yapılmaması, sahtekarlık veya suistimal durumlarını yönetme'
@@ -359,12 +418,14 @@
           href: payment-thresholds-methods-timeframes.md
         - name: Ödeme deyimleri
           href: payout-statement.md
+          displayName: invoice
         - name: Ödemeler hakkında SSS
           href: payout-faq.md
 - name: Müşterilerle bağlantı kurma
   items:
     - name: Müşterilerinizle bağlantı kurma
       href: connect-with-your-customers.md
+      displayName: 'indirect, reseller'
     - name: Yeni müşteri ekleme
       href: add-a-new-customer.md
     - name: Bir müşteriyle kurumsal bayi ilişkisi isteme
@@ -375,35 +436,44 @@
       href: customers-revoke-admin-privileges.md
     - name: Müşteri listenizi görüntüleme
       href: see-your-customer-list.md
+      displayName: reseller
     - name: Müşteri etkinlik günlüklerini görüntüleme
       href: activity-logs.md
     - name: Müşteri hesap bilgilerini güncelleştirme
       href: update-customer-account-info.md
     - name: Müşterilerin kendi hizmetlerini satın almasına izin verme
       href: give-customers-permission.md
+      displayName: csp
     - name: Bir müşteri için birden fazla kullanıcı ekleme
       href: adding-multiple-users-to-a-customer-account.md
     - name: Birden fazla kullanıcıyı içeri aktarma
       href: file-customer-users.md
     - name: Destek kişileri atama
       href: assign-support-contacts.md
+      displayName: 'indirect, reseller'
 - name: CSP teklifleri
   href: csp-offers.md
+  displayName: csp
   items:
     - name: Ticari market
       items:
         - name: Ticari markete genel bakış
           href: csp-commercial-marketplace-overview.md
+          displayName: csp
         - name: Market tekliflerini keşfetme
           href: csp-commercial-marketplace-discover.md
+          displayName: csp
         - name: Market tekliflerini satın alma
           href: csp-commercial-marketplace-purchase.md
+          displayName: csp
         - name: Bağımsız Yazılım Satıcılarından markete özel teklifler
           href: isv-opt-in.md
         - name: Market tekliflerini yönetme
           href: csp-commercial-marketplace-manage.md
+          displayName: 'cancel, renew'
         - name: Market teklifleri için destek
           href: csp-commercial-marketplace-support.md
+          displayName: csp
         - name: Markette satın alma işlemleri için sözleşmeler
           href: csp-commercial-marketplace-contracting.md
     - name: Azure rezervasyonları
@@ -415,10 +485,13 @@
           href: azure-reservations-buying.md
         - name: Müşterileriniz adına Microsoft Azure ayırmalarını yönetme
           href: azure-reservations-manage.md
+          displayName: cancel
         - name: Azure ayrılmış VM örnekleri (RI) + sunucu abonelikleri
           href: azure-ri-server-subscriptions.md
+          displayName: csp
     - name: Azure CSP’de sağlanan Azure hizmetleri
       href: azure-plan-available.md
+      displayName: csp
     - name: Azure planı
       href: azure-plan-lp.md
       items:
@@ -428,39 +501,53 @@
           href: purchase-azure-plan.md
         - name: Azure tekliflerini karşılaştırma
           href: compare-azure-offers.md
+          displayName: 'csp, invoice'
         - name: Müşterilerinizi Azure planına geçirin
           href: azure-plan-transition.md
+          displayName: csp
         - name: İş ortağı kazanılmış kredisi
           href: partner-earned-credit.md
+          displayName: csp
         - name: İş ortağı kazanılmış kredisinin hesaplanması ve ödenmesi
           href: partner-earned-credit-explanation.md
+          displayName: csp
         - name: İş ortağı kazanılmış kredisi için roller ve izinler
           href: azure-roles-perms-pec.md
+          displayName: 'role, roles, ro'
         - name: CSP'de yeni ticari deneyim - Azure faturalama
           href: azure-plan-billing.md
+          displayName: invoice
         - name: Azure için CSP'de yeni ticari deneyim için fiyat listesi
           href: azure-plan-price-list.md
         - name: Azure planı kapsamındaki abonelikleri ve kaynakları yönetme
           href: azure-plan-manage.md
+          displayName: csp
         - name: Azure CSP abonelikleri için yönetici ayrıcalıklarını yeniden devreye sokma
           href: revoke-reinstate-csp.md
+          displayName: csp
         - name: Azure aboneliklerini aktarma
           href: switch-azure-subscriptions-to-a-different-partner.md
+          displayName: csp
     - name: Yazılım abonelikleri
       href: csp-software-subscriptions.md
+      displayName: 'subscription, cancel'
     - name: CSP programı aracılığıyla şirket içi yazılım satma
       href: csp-on-premise-software.md
+      displayName: 'cancel, csp'
     - name: Çevrimiçi hizmet (Abonelikler)
       href: customer-subscriptions.md
+      displayName: csp
       items:
         - name: 'Müşteri aboneliklerini oluşturma, askıya alma veya iptal etme'
           href: create-a-new-subscription.md
+          displayName: 'trial, renew, cancel, csp'
         - name: Yeni müşterileri çekmek için promosyonları kullanma
           href: promotions.md
         - name: Müşterilerinize Microsoft ürünü denemeleri teklif etme
           href: offer-your-customers-trials-of-microsoft-products.md
         - name: Ticari market ürünlerine abonelik satışı
           href: sell-marketplace-products.md
+          displayName: csp
         - name: İş Ortağı Merkezi'nde Azure abonelikleri atama
           href: assign-azure-subscriptions.md
         - name: Kullanıcıları ve lisansları yönetme
@@ -517,13 +604,14 @@
       items:
         - name: İçgörüler hakkında
           href: partner-center-insights.md
+          displayName: mpn
         - name: İçgörüler rol tabanlı erişimi
           href: pci-roles.md
         - name: İçgörüler raporları
           items:
             - name: Azure kullanımı
               href: pci-azure-usage-report.md
-            - name: Avantajlar
+            - name: Yararları
               href: pci-benefits-report.md
             - name: CloudAscent eğilimi
               href: pci-customer-opportunities.md
@@ -541,6 +629,7 @@
               href: pci-product-subscriptions-report.md
             - name: Kurumsal bayi performansı
               href: pci-resellers-performance.md
+              displayName: 'indirect, reseller'
             - name: Eğitim
               href: pci-training-dashboard.md
         - name: Bilinen sorunlar
@@ -549,30 +638,39 @@
           href: pci-download-reports.md
     - name: İş Ortağı Katkısı Göstergeleri
       href: partner-contribution-indicators.md
+      displayName: mpn
     - name: Diğer verileri analiz etme
       items:
         - name: Müşteri Azure kullanımı
           href: analyze-azure-usage.md
         - name: Dolaylı kurumsal bayi performansı
           href: analyze-indirect-resellers.md
+          displayName: 'indirect, reseller, subscription'
         - name: Abonelikler ve lisanslar
           href: analyze-subscriptions-licenses.md
+          displayName: 'subscription, license, trial'
 - name: Diğer iş ortaklarıyla çalışma
   items:
     - name: İş ortağı bulun
       href: find-a-partner.md
+      displayName: csp
     - name: Diğer iş ortaklarıyla çalışma
       href: work-with-other-partners.md
+      displayName: 'indirect, reseller, csp'
     - name: Dolaylı sağlayıcı görevleri
       href: indirect-provider-tasks-in-partner-center.md
+      displayName: 'indirect, reseller, csp'
     - name: Dolaylı kurumsal bayi görevleri
       href: indirect-reseller-tasks-in-partner-center.md
+      displayName: 'indirect, reseller, csp'
     - name: Desteklenen CSP iş ortağı ilişkileri
       href: csp-supported-partner-relationships.md
+      displayName: 'indirect, reseller, csp'
     - name: Çok kanallı destek
       href: multichannel.md
     - name: Çoklu iş ortağı desteği
       href: multipartner.md
+      displayName: csp
 - name: Microsoft’tan destek alma
   href: support-from-microsoft.md
   items:
@@ -584,13 +682,16 @@
       href: get-automated-service-notifications-with-our-apis.md
 - name: Müşterilerinize destek sağlama
   href: customer-support.md
+  displayName: csp
   items:
     - name: Hizmet durumunu kontrol etme
       href: check-service-health.md
     - name: Faturalama desteği sağlama
       href: provide-billing-support.md
+      displayName: csp
     - name: Teknik destek sağlama
       href: provide-technical-support.md
+      displayName: csp
     - name: Microsoft'tan müşteri iletişimi
       href: customer-communication-from-microsoft.md
     - name: Müşteri kendi kendine desteği
@@ -601,17 +702,23 @@
   items:
     - name: Lisanslama kaynakları
       href: support-resources-licensing.md
+      displayName: 'mpn, csp'
     - name: ID ve etki alanı adlarını bulma
       href: find-ids-and-domain-names.md
+      displayName: 'tenant id, object id, domain name, azure ad tenant, tenantguid, Microsoft ID, directory id'
 - name: Güvenlik gereksinimleri
   items:
     - name: Genel Bakış
       href: partner-security-requirements.md
     - name: İş ortağı kiracınız için MFA'yı zorunlu tutma
       href: partner-security-requirements-mandating-mfa.md
+      displayName: csp
     - name: Kullanıcılarınız için çok faktörlü kimlik doğrulaması ayarlama
       href: mfa-for-users.md
+      displayName: csp
     - name: Gereksinim durumu
       href: partner-security-compliance.md
+      displayName: csp
     - name: Sık sorulan sorular
       href: partner-security-requirements-faq.md
+      displayName: 'sandbox, csp'

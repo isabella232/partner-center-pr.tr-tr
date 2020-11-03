@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 10/14/2020
-ms.openlocfilehash: 453d6e130a6c563e7aac23cef1c7a91f8125fd9c
-ms.sourcegitcommit: 13248a782fe6854909a2f1ed3eb6d9d0f2cb5a67
+ms.openlocfilehash: 4e78743c8dd03dd4540077aaa9f9d17799d1af80
+ms.sourcegitcommit: b4771fd0781d95551e65baa481a572291c729d7d
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/27/2020
-ms.locfileid: "92749731"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "92795823"
 ---
 # <a name="october-2020-announcements"></a>Ekim 2020 duyuruları
 
@@ -57,7 +57,7 @@ Bu yeni gelir gereksinimi, bulut çözümü sağlayıcısı programındaki iş o
 
 ### <a name="direct-bill-partner-requirements"></a>Doğrudan fatura ortağı gereksinimleri
 
-[Güncelleştirilmiş doğrudan fatura ortağı gereksinimlerini](https://docs.microsoft.com/partner-center/direct-partner-new-requirements#minimum-requirements) ve önerilerini Inceleyerek, bulut çözümü sağlayıcısı programında doğru modelle nasıl daha fazla karlı bir iş oluşturabileceğiniz ve genişletebilirsiniz:
+[Güncelleştirilmiş doğrudan fatura ortağı gereksinimlerini](../direct-partner-new-requirements.md#minimum-requirements) ve önerilerini Inceleyerek, bulut çözümü sağlayıcısı programında doğru modelle nasıl daha fazla karlı bir iş oluşturabileceğiniz ve genişletebilirsiniz:
 
 1. **yeni gelir performansı gereksinimi**
 
@@ -80,11 +80,11 @@ Bulut çözümü sağlayıcısı programına kaydolan yeni iş ortakları, **202
 
 Doğrudan fatura programını desteklemek için gereken altyapı hakkında daha fazla bilgi sahibi olduğunuzdan emin olmak için bazı ek önerilere ihtiyacımız var. En az bir yönetilen hizmet, IP hizmeti veya müşteri çözümü uygulaması sağlabileceğinizi gösterir. İş ortakları, yalnızca hizmetlerimizin doğrudan yeniden satılması için Microsoft Bulut hizmetlerin üzerine değer eklemektir. Bu, ortağın pazara Alım stratejisinin önemli bir parçasıdır. Yönetilen hizmetler ekleme hakkında [daha fazla bilgi edinin](https://partner.microsoft.com/solutions/managed-services) . Faturalandırma ve sağlama gibi en düşük altyapı yeteneklerini karşılamanızı öneririz. 
 
-CSP programındaki yeni gereksinimleri karşılamayan doğrudan fatura ortakları, Microsoft İş Ortağı Ağı programda dolaylı satıcılar olarak yeniden kaydolmanız gerekecektir. Doğrudan bir fatura ortağından dolaylı bir satıcıya geçiş yapma hakkında [daha fazla bilgi edinin](https://docs.microsoft.com/partner-center/transition-direct-to-indirect) .  
+CSP programındaki yeni gereksinimleri karşılamayan doğrudan fatura ortakları, Microsoft İş Ortağı Ağı programda dolaylı satıcılar olarak yeniden kaydolmanız gerekecektir. Doğrudan bir fatura ortağından dolaylı bir satıcıya geçiş yapma hakkında [daha fazla bilgi edinin](../transition-direct-to-indirect.md) .  
 
 ### <a name="next-steps"></a>Sonraki adımlar
 
-- [Güncelleştirilmiş doğrudan fatura ortağı gereksinimlerini](https://docs.microsoft.com/partner-center/direct-partner-new-requirements#minimum-requirements)gözden geçirin.
+- [Güncelleştirilmiş doğrudan fatura ortağı gereksinimlerini](../direct-partner-new-requirements.md#minimum-requirements)gözden geçirin.
 - [Microsoft iş ortağı web sitesinde bulunan Operations Resource Gallery](https://partner.microsoft.com/resources/collection/new-performance-standard-for-direct-bill-partner-requirements-in-csp#/)hakkında SSS ve diğer bilgileri gözden geçirin.
 - Dolaylı satıcı seçeneği iş gereksinimlerinize göre daha iyi uyum [sağladıysanız, birlikte çalışmak üzere dolaylı bir sağlayıcı](https://partner.microsoft.com/membership/cloud-solution-provider/find-a-provider) bulun.
 ________________________________
@@ -232,7 +232,7 @@ Bu yükseltmeler aşağıdaki müşterileri etkiler:
 #### <a name="additional-resources"></a>Ek kaynaklar
 
 - Iş sesi hakkında daha fazla bilgi edinmek için [Microsoft 365 iş sesli Iş ortağı sayfasını](https://www.microsoft.com/microsoft-365/partners/businessvoice) ziyaret edin. 
-- Daha fazla bilgi edinmek için Microsoft 365 ['de ses konferansı](https://docs.microsoft.com/microsoftteams/audio-conferencing-in-office-365)bölümüne bakın.
+- Daha fazla bilgi edinmek için Microsoft 365 ['de ses konferansı](/microsoftteams/audio-conferencing-in-office-365)bölümüne bakın.
 - İlgili [Iş ortağı SSS](https://www.microsoft.com/microsoft-365/partners/resources/faq-business-voice-audio-conferencing-promo)bölümünde Bu promosyonlar hakkında daha fazla bilgi edinin.
 
 ### <a name="next-steps"></a>Sonraki adımlar
@@ -273,7 +273,7 @@ Azure portal yenilikler aşağıda verilmiştir:
 
 - Önceki bölümü tamamlamaya gerek kalmadan herhangi bir bölümde bilgileri görüntülemenizi, düzenlemenizi ve kaydetmenizi sağlayan esnek gezinme.
 - Birden çok iç içe düzey içermeyen yeni tam sayfa görünümü.
-- Azure kaynaklarını etiketlemek ve düzenlemek için yeni işlevsellik. Etiketleme hakkında daha fazla bilgi edinmek için bkz. [Azure kaynaklarınızı düzenlemek için etiketleri kullanma](https://docs.microsoft.com/azure/azure-resource-manager/management/tag-resources).
+- Azure kaynaklarını etiketlemek ve düzenlemek için yeni işlevsellik. Etiketleme hakkında daha fazla bilgi edinmek için bkz. [Azure kaynaklarınızı düzenlemek için etiketleri kullanma](/azure/azure-resource-manager/management/tag-resources).
 
 Bu değişiklikler hakkında sorularınız varsa [destek ekibimize](https://aka.ms/marketplacepublishersupport)başvurun.
 
@@ -490,7 +490,7 @@ Microsoft, 1 Kasım 2020 ' de, CSP programı için aşağıdaki yeni ve güncell
 
 - Teklif KIMLIĞI ayrıntıları için [DYNAMICS CSP Offers-November 2020](https://partner.microsoft.com/resources/detail/dynamics-csp-offers-november-2020-xls) Excel belgesinde proje işlemleri sekmesini gözden geçirin.
 - [Microsoft Dynamics 365 müşteri ses giriş sayfası](https://dynamics.microsoft.com/customer-voice/overview/)hakkında daha fazla bilgi edinin.
-- Eylül [Dynamics yeni teklifleri duyurusunu](https://docs.microsoft.com/partner-center/announcements/2020-september#3)görüntüleyin.
+- Eylül [Dynamics yeni teklifleri duyurusunu](2020-september.md#3)görüntüleyin.
 
 ________________
 

@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 06/24/2020
-ms.openlocfilehash: 94403cddbfa2f316b7ade84af1d9a1d233544fb4
-ms.sourcegitcommit: 13248a782fe6854909a2f1ed3eb6d9d0f2cb5a67
+ms.date: 10/27/2020
+ms.openlocfilehash: 4df4e473ea31ad5a9f0da52ab45f65000db344d9
+ms.sourcegitcommit: 1840767efa4c5de41889bc9245567cf286a084c8
 ms.translationtype: HT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/27/2020
-ms.locfileid: "92749702"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "92917221"
 ---
 # <a name="partner-center-announcements"></a>İş Ortağı Merkezi duyuruları
 
@@ -22,7 +22,9 @@ ms.locfileid: "92749702"
 
 | **Kategori** | **Ekim 2020 duyuruları** | **Duyurulan** |
 |---------|:---------|:---------|
+|Özellikler|[Yenilenen Bulut Çözümü Sağlayıcısı (CSP) dijital deneyimi kullanıma sunuldu](2020-october.md#15)|28 Ekim|
 |Özellikler|[Bulut Çözümü Sağlayıcısı (CSP) programında doğrudan fatura iş ortağı gereksinimleri için performans standardı belirleme](2020-october.md#13)|27 Ekim|
+|Teklifler/Pazarlar|[Ekim 2020 Bulut Çözümü Sağlayıcısı (CSP) yazılım abonelikleri fiyat listesi güncelleştirmeleri](2020-october.md#14)|26 Ekim|
 |Teklifler/Pazarlar|[Microsoft 365 Küçük İşletmeler için Ses Teklifi Güncelleştirmeleri](2020-october.md#12)|16 Ekim|
 |Özellikler|[Kasım 2020 Güncelleştirmesi: Çevrimiçi Hizmetler ve Yazılım Kanal Yetkilendirme Kılavuzu](2020-october.md#11)|14 Ekim|
 |Teklifler/Pazarlar|[Kâr amacı gütmeyen kuruluşlar için Microsoft 365 Küçük İşletmeler için Ses Tanıtımı](2020-october.md#10)|12 Ekim|
@@ -45,7 +47,7 @@ ms.locfileid: "92749702"
 |Özellikler|[.NET Standart v1.16.2 üzerinde SDK Sürümü](2020-september.md#11)|22 Eylül|
 |Özellikler|[İş Ortağı Merkezi İçgörüleri – Microsoft'la işinizi anlamak için tek raporlama kaynağınız.](2020-september.md#10)|23 Eylül|
 |Teklifler/Pazarlar|[Azure SQL Edge genel kullanılabilirlik duyurusu](2020-september.md#9)|22 Eylül|
-|Özellikler|[30 Eylül 2020'de CSP O365 kullanım API'leri ve CSP Lisans kullanımı raporlarında yapılacak değişiklikler.](2020-september.md#8)|17 Eylül|
+|Özellikler|[30 Eylül 2020’de CSP O365 kullanım API’leri ve CSP Lisans kullanımı raporlarında yapılacak değişiklikler.](2020-september.md#8)|17 Eylül|
 |Özellikler|[Dolaylı kurumsal bayi MPA güncelleştirmesi. MPA API ve yeni MPA raporlaması kullanıcıları için eylem gerekiyor](2020-september.md#7)|16 Eylül|
 |Teklifler/Pazarlar|[Microsoft Project ve Microsoft Visio için self-servis satın alma özelliği kullanıma sunuldu](2020-september.md#6)|15 Eylül|
 |Teklifler/Pazarlar|[Yeni SKU'lar Cortex Projesi'nin gücünü ve daha fazlasını müşterilere sunar](2020-september.md#5)|8 Eylül|
