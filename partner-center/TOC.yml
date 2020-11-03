@@ -295,9 +295,6 @@
         - name: Yürütme kanıtınızı oluşturma
           href: incentives-prepare-your-proof-of-execution.md
           displayName: incentives
-        - name: Yürütme kanıtı olarak vergi faturası gönderme
-          href: incentives-tax-invoice-poe.md
-          displayName: 'incentives, invoice'
     - name: Teşvikler ortak kullanım talepleri
       items:
         - name: Teşvik ortak kullanım talepleri
