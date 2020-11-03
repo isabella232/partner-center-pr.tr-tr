@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 10/27/2020
-ms.openlocfilehash: f90c9ae32e68d6e772c51cede28237f500a0a7b9
-ms.sourcegitcommit: 1840767efa4c5de41889bc9245567cf286a084c8
+ms.openlocfilehash: d41ec7b7ce3c8f7140b0944b4d39150ef34a9d83
+ms.sourcegitcommit: 3cca87a10e8aebbf5be144ef525217509f0521ec
 ms.translationtype: MT
 ms.contentlocale: tr-TR
 ms.lasthandoff: 10/29/2020
-ms.locfileid: "92917271"
+ms.locfileid: "93027916"
 ---
 # <a name="october-2020-announcements"></a>Ekim 2020 duyuruları
 
@@ -23,6 +23,42 @@ Bu sayfa, 2020 Ekim 'e yönelik Microsoft Iş Ortağı Merkezi bildirilerini ayr
 2020 Duyurular: [March](2020-march.md)  |  [Nisan](2020-april.md)Mart  |  [,](2020-may.md)  |  Eylül ayında[Haziran](2020-june.md)  |  [ayı](2020-july.md)  |  [August](2020-august.md)  |  [September](2020-september.md) | 'Den
 
 ______________
+
+## <a name="windows-10-education-upgrade-is-now-available-to-qualified-cloud-solution-provider-csp-education-customers"></a><a name="16"></a>Windows 10 eğitim yükseltmesi artık nitelikli bulut çözümü sağlayıcısı (CSP) Eğitim müşterileri tarafından kullanılabilir
+
+### <a name="categories"></a>Kategoriler
+
+- Tarih: 2020-10-28
+- Özellikler
+
+### <a name="summary"></a>Özet
+
+Eğitim müşterileri için Microsoft 365 a3/a5 veya Windows 10 Enterprise a3/a5 abonelikleri satın almış CSP Iş ortakları artık Windows 10 ana cihazlarını Windows 10 eğitimde yükseltmesine yardımcı olabilir.
+
+### <a name="impacted-audience"></a>Etkilenen hedef kitle
+
+Eğitim müşterileri için Microsoft 365 a3/a5 veya Windows 10 Enterprise a3/a5 abonelikleri satın almış CSP Iş ortakları
+
+### <a name="details"></a>Ayrıntılar
+
+1 Kasım 2020 ' ten itibaren, Microsoft 365 a3/a5 veya Windows 10 Enterprise a3/a5 abonelikleri satın almış olan CSP 'Ler, eğitim müşterilerinin Windows 10 Home 'dan hem sınıf hem de uzaktan öğrenme için tasarlanan Windows 10 eğitime yükseltmesine yardımcı olabilir.
+
+1 Kasım 2020 ' den itibaren Windows 10 Home, Microsoft Bulut Sözleşmesi (CSP aracılığıyla) aracılığıyla lisanslanan eğitim müşterilerine uygun bir işletim sistemi olacaktır. Artık toplu lisanslama (VL) eğitim programlarında kullanılabilir olana kadar bu uygunluk, Microsoft 365 Yönetici portalı desteği aracılığıyla etkinleştirilmiştir. 
+
+#### <a name="how-the-upgrade-process-works"></a>Yükseltme işlemi nasıl işler?
+
+CSP Iş ortakları, kendi adına bir destek isteği göndererek müşterilerinin yükseltmesine yardımcı olabilir. Microsoft Desteği, müşterinizin uygun olduğundan emin olmak için isteği gözden geçilecektir; istek onaylandıktan sonra, bu, müşteriye Windows 10 Pro eğitim anahtarını sağlayacaktır.
+
+Müşteri, anahtarı yüklediğinde ve cihaz kiracı etki alanına Azure Active Directory (AAD) aracılığıyla katıldığında cihaz otomatik olarak Windows 10 eğitim (abonelik) sürümüne yükseltilir.   
+
+Müşterilerin nasıl yükseltileceğiyle ilgili ayrıntılar [adım adım Kılavuzu ve sık sorulan sorular konusunda](../upgrade-windows-to-education.md)bulunabilir.
+
+### <a name="next-steps"></a>Sonraki adımlar
+
+- Uygun müşterilerinize bildirme ve adım adım işlemler aracılığıyla rehberlik edin.
+- Bu bilgileri kuruluşunuzdaki uygun kişilerle paylaşabilirsiniz.  
+
+________________
 
 ## <a name="refreshed-cloud-solution-provider-csp-digital-experience-now-available"></a><a name="15"></a>Yenilenen bulut çözümü sağlayıcısı (CSP) dijital deneyimi artık kullanılabilir
 
