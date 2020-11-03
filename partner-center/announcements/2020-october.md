@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 10/27/2020
-ms.openlocfilehash: d41ec7b7ce3c8f7140b0944b4d39150ef34a9d83
-ms.sourcegitcommit: 3cca87a10e8aebbf5be144ef525217509f0521ec
+ms.date: 10/30/2020
+ms.openlocfilehash: ae27f193839d5456457afc923fd7834a8ff106f9
+ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "93027916"
+ms.lasthandoff: 10/31/2020
+ms.locfileid: "93132836"
 ---
 # <a name="october-2020-announcements"></a>Ekim 2020 duyuruları
 
@@ -23,6 +23,28 @@ Bu sayfa, 2020 Ekim 'e yönelik Microsoft Iş Ortağı Merkezi bildirilerini ayr
 2020 Duyurular: [March](2020-march.md)  |  [Nisan](2020-april.md)Mart  |  [,](2020-may.md)  |  Eylül ayında[Haziran](2020-june.md)  |  [ayı](2020-july.md)  |  [August](2020-august.md)  |  [September](2020-september.md) | 'Den
 
 ______________
+
+## <a name="windows-server-software-subscriptions-feature-updates"></a><a name="17"></a>Windows Server yazılım abonelikleri özellik güncelleştirmeleri
+
+### <a name="categories"></a>Kategoriler
+
+- Tarih: 2020-10-29
+- Özellikler
+
+### <a name="impacted-audience"></a>Etkilenen hedef kitle
+
+Daha önce Windows Server Standard yazılım abonelikleri satın almış olan bulut çözümü sağlayıcısı (CSP) iş ortakları
+
+### <a name="details"></a>Ayrıntılar
+
+Microsoft, Windows Server yazılım abonelikleri için 30 Ekim 2020 ' de yeni bir özellik güncelleştirmesi yayını duyurur. Güncelleştirme Windows Server yazılım aboneliği ürünlerini içerir: Windows Server Standard, **Sürüm 20H2** (CSP ürün KIMLIĞI: DG7GMGF0DVT9). Güncelleştirilmiş indirme dosyası artık bu ürün için kullanılabilir. İş ortakları, yeni özellikleri almak için en son dosyayı indirmeyi seçebilir.
+
+### <a name="next-steps"></a>Sonraki adımlar
+
+- Lütfen bu bilgileri kuruluşunuzdaki uygun kişilerle paylaşabilirsiniz.
+- [Windows Server sürüm 20H2 belgelerini](/windows/release-information/status-windows-10-20h2) gözden geçirin
+
+________________
 
 ## <a name="windows-10-education-upgrade-is-now-available-to-qualified-cloud-solution-provider-csp-education-customers"></a><a name="16"></a>Windows 10 eğitim yükseltmesi artık nitelikli bulut çözümü sağlayıcısı (CSP) Eğitim müşterileri tarafından kullanılabilir
 
