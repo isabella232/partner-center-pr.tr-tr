@@ -1,70 +1,57 @@
 ---
-title: İş ortağı güvenlik gereksinimlerinin durumu
-ms.date: 05/26/2020
+title: Güvenlik gereksinimleri durum raporu
+ms.date: 10/30/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Bulut çözümü sağlayıcısı programındaki danışmanların, Denetim Masası satıcılarının ve iş ortaklarının güvenliğini artıran yeni zorunlu gereksinimler hakkında bilgi edinin.
+description: Güvenlik gereksinimleri durum raporu ve Iş Ortağı Merkezi MFA raporuyla güvenlik gereksinimlerinizin uyumluluğunu nasıl denetleyeceğinizi öğrenin
 author: isaiahwilliams
 ms.author: iswillia
 ms.localizationpriority: high
 ms.topic: conceptual
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1b6c2d56a0747ddf2bd1a821886e371ed698a4a1
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 673728ad03d6617fa60ba4119f0ebbbaaa4ce328
+ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92531591"
+ms.lasthandoff: 10/31/2020
+ms.locfileid: "93132988"
 ---
-# <a name="partner-security-requirements-status---get-answers-and-check-reports-about-current-status"></a>İş ortağı güvenlik gereksinimleri durumu-geçerli durumla ilgili yanıtları al ve raporları denetle
+# <a name="security-requirements-status-report"></a>Güvenlik gereksinimleri durum raporu
 
-**Uygulama hedefi**
+**Şunlara uygulanır**
 
 - Bulut çözümü sağlayıcısı programındaki tüm iş ortakları
-  - Doğrudan fatura
-  - Dolaylı sağlayıcı
-  - Dolaylı satıcı
 - Tüm Denetim Masası satıcıları
 - Tüm danışmanları
 
 **Uygun kullanıcılar**
 - Konuk kullanıcılar dahil tüm etkin kullanıcılar
 
-Büyük gizlilik korumaları ve güvenlik, en iyi önceliklerimiz arasındadır. En iyi savunması önleme olduğunu ve yalnızca zayıf bağlantımız kadar güçlü olduğunu biliyoruz. Bu nedenle, ekosistemimizde herkese uygun güvenlik korumalarının gerçekleşmesini ve uygun güvenlik korumalarının yapıldığından emin olmamız gerekir. İş ortaklarının ve müşterilerin korunmasına yardımcı olmak için, danışmanları, Denetim Masası satıcıları ve bulut çözümü sağlayıcısı programına katılan iş ortakları için bir dizi zorunlu güvenlik gereksinimi sunuyoruz.
+Bu makalede, Iş Ortağı Merkezi 'nde güvenlik gereksinimleri durum raporu açıklanır. Bu rapor, iş ortağı kiracınızdaki kullanıcılar için Multi-Factor Authentication (MFA) için [iş ortağı güvenlik gereksinimleriyle](partner-security-requirements.md) uyumluluk için ölçümler sunar.
 
-1 Ağustos 2019 ' den itibaren, tüm iş ortakları, hizmet hesapları da dahil olmak üzere tüm kullanıcılar için iş ortağı kiracılarında Multi-Factor Authentication 'ı zorlamak için gereklidir. Yeni güvenlik ilkeleri hakkında daha ayrıntılı bilgi için [Iş ortağı güvenlik gereksinimlerini](partner-security-requirements.md)okuyun.
-
-Her bir kullanıcının her tek kimlik doğrulaması için MFA sınamasına sahip olduğundan emin olmak istiyoruz. Bu deneyim aşağıdaki yollarla gerçekleştirilebilir:
-
-- Her Kullanıcı için MFA 'nın uygulanmasını sağlamak üzere Azure AD Premium uygulama
-- [Azure AD güvenlik varsayılanlarını](/azure/active-directory/conditional-access/concept-conditional-access-security-defaults) uygulama
-- Her Kullanıcı için MFA 'nın uygulanmasını sağlamak için üçüncü taraf bir çözüm uygulama
-
-## <a name="partner-security-requirements-status"></a>İş ortağı güvenlik gereksinimlerinin durumu
-
-Bu rapor, kısa süre düşerek nerede olabileceğini görmeniz için bir yol sağlayarak güvenlik gereksinimlerinin durumunu doğrulamanıza yardımcı olabilir. İzleme düzenli olarak güncelleştirilir.
+[İş ortağı merkezi](https://partner.microsoft.com/dashboard)'nde bu rapora erişmek için **Ayarlar**  >  **iş ortağı ayarları**  >  **güvenlik gereksinimleri durum** ' a gidin. Rapor günlük olarak güncelleştirilir ve son yedi gündeki oturum açma verilerini yansıtır.
 
 >[!NOTE]
->Iş ortağı güvenlik gereksinimlerinin durum raporu yalnızca Iş Ortağı Merkezi 'nde desteklenir. ABD devlet veya Microsoft Bulut Almanya için Microsoft Bulut kullanılamaz. Bir sogeign bulutu (21Vianet, ABD kamu ve Almanya) üzerinden deneyimidir tüm iş ortaklarının bu yeni güvenlik gereksinimlerini hemen benimsemesini önemle öneririz. Ancak, bu iş ortakları 1 Ağustos 2019 ' den itibaren geçerli olan yeni güvenlik gereksinimlerini karşılamak için gerekli değildir. Microsoft, daha sonra da bu güvenlik gereksinimlerinin zorlanmasıyla ilgili ek ayrıntılar sağlar.
+>Güvenlik gereksinimleri durum raporu yalnızca Iş Ortağı Merkezi 'nde desteklenir. ABD devlet veya Microsoft Bulut Almanya için Microsoft Bulut kullanılamaz. Bir sogeign bulutu üzerinden deneyimidir tüm iş ortaklarının (ABD devlet ve Almanya) bu yeni güvenlik gereksinimlerini hemen benimsemesini önemle öneririz. Ancak, bu iş ortaklarının yeni güvenlik gereksinimlerini karşılamak için şu anda gerekli değildir. Microsoft, daha sonra da bu güvenlik gereksinimlerinin zorlanmasıyla ilgili ek ayrıntılar sağlar.
 
-## <a name="multi-factor-authentication-mfa-report"></a>Multi-Factor Authentication ("MFA") raporu
+## <a name="security-status-metrics"></a>Güvenlik durumu ölçümleri
 
-Iş Ortağı Merkezi MFA raporu, CSP kiracısının MFA yapılandırmasına ve Iş Ortağı Merkezi etkinliklerine göre iki tür ölçüm sağlayarak iş ortağı MFA uygulamasıyla ilgili öngörüler sunar: 
+Güvenlik gereksinimleri durum raporu, iş ortağı MFA uygulamasıyla ilgili öngörüler sunar ve iş ortağı kiracılarında MFA yapılandırması ve Iş Ortağı Merkezi etkinlikleri hakkında ölçümler sağlar. Aşağıdaki bölümlerde bu ölçümler daha ayrıntılı olarak açıklanmaktadır.
 
-### <a name="mfa-configuration-on-a-csp-tenant"></a>CSP kiracısında MFA yapılandırması
+### <a name="mfa-configuration-on-a-partner-tenant"></a>Bir iş ortağı kiracısında MFA yapılandırması
 
-Bu ölçüm, günlük olarak yakalanan ve rapor veren bir CSP kiracısındaki MFA yapılandırmasıyla ilgilidir. Bu, MFA [seçeneklerinin](/azure/active-directory/fundamentals/concept-fundamentals-mfa-get-started)herhangi birini kullanarak, MFA Zorlanmış olan etkin kullanıcı hesaplarının yüzdesini ölçer. Örneğin:
+**MFA ile etkinleştirilen kullanıcı hesaplarının ölçüm yüzdesi, burada listelenen seçenekler kullanılarak zorlandı:** iş ortağı kiracınızda MFA 'ya zorlanan etkin kullanıcı hesaplarının yüzdesini gösterir. Uyumluluk elde etmek için bu [MFA seçeneklerinden](/azure/active-directory/fundamentals/concept-fundamentals-mfa-get-started) birini kullanabilirsiniz. Bu veriler, günlük olarak yakalanır ve raporlanır. Örneğin:
 
 - Contoso, kiracıda 110 Kullanıcı hesabı olan bir CSP iş ortağıdır, bu kullanıcı hesaplarının 10 ' u devre dışı bırakılır. 
 - 100 Kullanıcı hesabının geri kalanında 90, sunulan [MFA seçenekleri](/azure/active-directory/fundamentals/concept-fundamentals-mfa-get-started)kullanılarak MFA 'ya zorlanır. Bu nedenle, ölçüm %90 gösterir. 
 
-### <a name="partner-center-activities-with-mfa"></a>MFA ile iş ortağı Merkezi Etkinlikleri
+### <a name="partner-center-requests-with-mfa"></a>MFA ile iş ortağı merkezi istekleri
 
-Çalışanlarınıza iş ortağı merkezi 'nde çalışan veya API 'Ler aracılığıyla veri gönderen her oturum açışınızda, güvenlik durumu ne olur ve izlenir. Güvenlik-durum izlemeye de dahil olmak üzere, uygulamalarınız ve tüm Denetim Masası satıcı uygulamalarınız. Görünen durum, önceki yedi güne yöneliktir.
+Çalışanlarınıza iş ortağı merkezi 'nde çalışan veya API 'Ler aracılığıyla veri gönderen her oturum açışınızda, güvenlik durumu ne olur ve izlenir. Ayrıca, güvenlik-durum izlemede de yer alan Uygulamalarınız ve tüm Denetim Masası satıcı uygulamalardır. Bu veriler, **MFA Ile Iş Ortağı Merkezi 'ne yapılan Isteklerin yüzdesi** altında ölçümler bölümünde gösterilir ve son yedi günü yansıtır.
 
-#### <a name="mfa-verification-completed-by-users"></a>MFA doğrulaması kullanıcılar tarafından tamamlandı
+#### <a name="dashboard-mfa-verification"></a>Pano MFA doğrulaması
 
-Bu ölçüm, Iş Ortağı Merkezi panosu dahilinde etkinliklerle ilgilidir. MFA doğrulamasını tamamlayan kullanıcılar tarafından yapılan işlemlerin yüzdesini ölçer. Örneğin:
+**Iş Ortağı Merkezi portalındaki** ölçüm, Iş Ortağı Merkezi panosu dahilinde etkinliklerle ilgilidir. MFA doğrulamasını tamamlayan kullanıcılar tarafından yapılan işlemlerin yüzdesini ölçer. Örneğin:
 
 - Contoso, kemal ve John olmak üzere iki yönetici aracısına sahip bir CSP iş ortağıdır.
 - İlk gün, Gamze doğrulaması olmadan Iş Ortağı Merkezi panosunda oturum açtı ve üç işlem yaptı.
@@ -75,9 +62,9 @@ Bu ölçüm, Iş Ortağı Merkezi panosu dahilinde etkinliklerle ilgilidir. MFA 
 
 Iş Ortağı Merkezi panosunda MFA doğrulaması yapmadan hangi kullanıcının oturum açtığını ve raporlama penceresi sırasında en son ziyaret zamanını anlamak için **MFA olmadan dosya portalı isteklerini** kullanın.
 
-#### <a name="appuser-authentication"></a>Uygulama + kullanıcı kimlik doğrulaması
+#### <a name="appuser-mfa-verification"></a>Uygulama + Kullanıcı MFA doğrulaması
 
-Bu ölçüm, uygulama + kullanıcı kimlik doğrulaması kullanılarak yapılan Iş Ortağı Merkezi API 'SI isteklerinin kullanımıyla ilgilidir. MFA talebine sahip bir erişim belirteci kullanılarak yapılan API isteklerinin yüzdesini ölçer. Örneğin:
+**API veya SDK aracılığıyla** ölçüm, Iş Ortağı Merkezi API Istekleri aracılığıyla App + kullanıcı kimlik doğrulaması ile ilgilidir. MFA talebine sahip bir erişim belirteci kullanılarak yapılan API isteklerinin yüzdesini ölçer. Örneğin:
 
 - Fabrikam bir CSP iş ortağıdır ve App + kullanıcı kimlik doğrulaması ve yalnızca uygulama kimlik doğrulama yöntemlerinin bir karışımını kullanan bir CSP uygulamasına sahiptir.
 - İlk günde uygulama, MFA doğrulaması olmadan uygulama + kullanıcı kimlik doğrulama yöntemi aracılığıyla elde edilen bir erişim belirteciyle desteklenen üç API isteği yaptı.
@@ -91,33 +78,32 @@ Bu ölçüm üzerinde %100 olmayan bir uygulama ve Kullanıcı etkinliği olduğ
 - API, uygulamanın genel MFA durumunu anlamak için **Özet ister** .
 - **Tüm API** istekleri kiracınızın kullanıcıları tarafından YAPıLAN her API isteğinin ayrıntılarını anlamak için, sonuç daha iyi indirme deneyimi için en çok 10.000 en son istek ile sınırlıdır.
 
-## <a name="what-should-i-do-if-the-metrics-under-mfa-report-arent-100"></a>MFA raporundaki ölçümler %100 değilse ne yapmam gerekir
+## <a name="actions-for-mfa-status-below-100"></a>MFA durumu eylemleri %100 altında
 
-Iş Ortağı Merkezi MFA raporu kapsamındaki ölçümler, MFA uygulamış olan iş ortakları için %100 olmayabilir. Nedenini anlamak için göz önünde bulundurmanız gereken bazı etmenler aşağıda verilmiştir.
+MFA 'yı uygulayan bazı iş ortakları rapor ölçümlerini %100 oranında görebilirler. Nedenini anlamak için göz önünde bulundurmanız gereken bazı etmenler aşağıda verilmiştir.
 
 > [!NOTE]
 > Kuruluşunuz tarafından iş ortağı kiracınızın kimlik yönetimi ve MFA uygulamasıyla ilgili bilgi sahibi olan bir kişi ile çalışmanız gerekir.
 
-### <a name="have-you-implemented-mfa-for-your-partner-tenant"></a>İş ortağı kiracınız için MFA uyguladık mı?
+### <a name="implemented-mfa-for-your-partner-tenant"></a>İş ortağı kiracınız için MFA uygulandı
 
-Aksi takdirde, önce iş ortağı kiracınız için MFA 'yı uygulamanız gerekir. MFA 'yı uygulama hakkında daha fazla bilgi için, makale [ortağı güvenlik gereksinimi](partner-security-requirements.md)bölümüne bakın.
+Uyumluluğa ulaşmak için iş ortağı kiracınız için MFA 'yı uygulamanız gerekir. MFA 'yı uygulama hakkında daha fazla bilgi için bkz. [Iş ortağı merkezi veya Iş Ortağı Merkezi API 'leri kullanma Için güvenlik gereksinimleri](partner-security-requirements.md).
 
-### <a name="have-you-only-recently-completed-mfa-implementation"></a>Yalnızca son zamanlarda MFA uygulamasını tamamladınız mı?
+>[!NOTE]
+> MFA ölçümleri günlük olarak hesaplanır ve son yedi gün içinde gerçekleştirilen hesap işlemlerini alır. İş ortağı kiracınız için yalnızca en son MFA uygulamasını tamamladıysanız ölçümler henüz %100 ' ı gösteremeyebilir.
 
-Ölçümler günlük olarak hesaplanır ve son yedi gün içinde gerçekleştirilen hesap işlemlerini alır. İş ortağı kiracınız için yalnızca en son MFA uygulamasını tamamladıysanız ölçümler %100 olmayabilir.
+### <a name="verify-mfa-on-all-user-accounts"></a>Tüm Kullanıcı hesaplarında MFA 'yı doğrula
 
-### <a name="have-some-user-accounts-been-excluded-from-mfa-implementation"></a>MFA uygulamasından bazı Kullanıcı hesapları hariç tutuldu mı?
+Geçerli MFA uygulamanızın tüm Kullanıcı hesaplarını mı yoksa yalnızca bazılarını mı kapsamadığını anlayın. Bazı MFA çözümleri ilke tabanlıdır ve Kullanıcı dışlamasını destekler, diğerleri ise Kullanıcı başına MFA 'yı açıkça etkinleştirmenizi isteyebilir. Geçerli MFA uygulamanızdan herhangi bir kullanıcıyı dışmadığından emin olun. Tüm CSP, CPV veya danışman ile ilgili etkinlikleri gerçekleştirmek üzere Iş Ortağı Merkezi 'nde dışlanan ve oturum açan herhangi bir kullanıcı hesabı ölçümlerin %100 olmasına neden olabilir.
 
-Geçerli MFA uygulamanızın tüm Kullanıcı hesaplarını mı yoksa yalnızca bazılarını mı kapsamadığını anlayın. Bazı MFA çözümleri ilke tabanlıdır ve Kullanıcı dışlamasını destekler, diğerleri ise Kullanıcı başına MFA 'yı açıkça etkinleştirmenizi isteyebilir. Geçerli MFA uygulamanızdan herhangi bir kullanıcıyı dışmadığından emin olun. Dahil edilen ve CSP ile ilgili herhangi bir etkinliği gerçekleştirmek üzere Iş Ortağı Merkezi 'nde oturum açan herhangi bir kullanıcı hesabı, ölçümlerin %100 olmasına neden olabilir.
-
-### <a name="is-mfa-only-required-when-certain-conditions-are-met"></a>MFA yalnızca belirli koşullar karşılandığında gereklidir mi?
+### <a name="review-your-mfa-conditions"></a>MFA koşullarınızı gözden geçirin
 
 Geçerli uygulamanızın yalnızca belirli koşullar altında MFA 'ya uygulanıp zormadığını anlayın. Bazı MFA çözümleri, yalnızca belirli koşullar karşılandığında MFA 'yı zorlamak için esneklik sağlar. Örneğin, Kullanıcı bilinmeyen cihazdan veya bilinmeyen bir konumdan erişiyor. MFA için etkinleştirilen ancak Iş Ortağı Merkezi 'ne erişirken MFA doğrulamasını tamamlamaya gerek duyulmayan bir Kullanıcı, ölçümlerin %100 olmaması halinde neden olabilir.
 
 >[!NOTE]
 >Azure AD güvenlik varsayılanlarını kullanarak MFA uygulamış olan iş ortakları için yönetici olmayan kullanıcı hesapları için çok faktörlü kimlik doğrulamasının risk temelinde zorlanacağını unutmayın. Kullanıcılardan yalnızca riskli oturum açma girişimleri (örneğin, Kullanıcı farklı bir konumdan oturum açması) sırasında MFA sorulur. Ayrıca, kullanıcıların MFA 'ya kaydolması 14 güne kadar olacaktır. MFA kaydını tamammayan kullanıcılara, 14 günlük süre boyunca MFA doğrulaması uygulanmaz. Bu nedenle, Azure AD güvenlik varsayılanlarını kullanarak MFA uygulamış olan iş ortakları için ölçümlerin %100 olmaması beklenmektedir.
 
-### <a name="are-you-using-third-party-mfa-solution"></a>Üçüncü taraf MFA çözümünü mi kullanıyorsunuz?
+### <a name="review-third-party-mfa-configurations"></a>Üçüncü taraf MFA yapılandırmasını gözden geçirme
 
 Üçüncü taraf MFA çözümünü kullanıyorsanız, bunu Azure AD ile nasıl tümleştirirsiniz. Genel olarak, Federasyon ve özel denetimler dahil olmak üzere iki yöntem vardır:
 
@@ -125,7 +111,7 @@ Geçerli uygulamanızın yalnızca belirli koşullar altında MFA 'ya uygulanıp
 
 * **Özel denetim** -Azure AD özel denetimi, bir kullanıcının bir üçüncü taraf MFA çözümü aracılığıyla MFA doğrulamasını tamamlayıp tamamlamadığınızı belirlemek için kullanılamaz. Sonuç olarak, özel bir denetim aracılığıyla MFA doğrulamasını tamamlamış olan tüm kullanıcılar, her zaman Azure AD 'ye (ve Iş Ortağı Merkezi 'nde), MFA doğrulaması tamamlanmayacak şekilde görünür. Mümkün olduğunda, Azure AD ile tümleştirilirken özel denetim yerine Kimlik Federasyonu kullanmaya geçmeniz önerilir.
 
-### <a name="identify-which-users-have-logged-into-partner-center-without-mfa"></a>MFA olmadan Iş Ortağı Merkezi 'Nde oturum açan kullanıcıları belirler
+### <a name="identify-which-users-have-signed-in-to-partner-center-without-mfa"></a>MFA olmadan Iş Ortağı Merkezi 'nde oturum açan kullanıcıları belirler
 
 MFA doğrulaması olmadan Iş Ortağı Merkezi 'nde oturum açan kullanıcıları belirlemek ve bunları geçerli MFA uygulamanıza karşı doğrulamak faydalı olabilir. [Azure AD oturum açma raporunu](/azure/active-directory/reports-monitoring/concept-sign-ins) , BIR kullanıcının MFA doğrulamasını tamamlayıp tamamlamadığınızı öğrenmek için kullanabilirsiniz. Azure AD oturum açma raporu şu anda yalnızca Azure AD Premium abone olan iş ortakları veya Azure AD Premium (örneğin, EMS) içeren O365 SKU 'sunda kullanılabilir.
 

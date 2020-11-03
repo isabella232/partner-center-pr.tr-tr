@@ -1,7 +1,7 @@
 ---
 title: Teşvikleri Co-op ve taleplere genel bakış
 ms.topic: article
-ms.date: 09/18/2020
+ms.date: 10/29/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 description: Doğru belgeler, faturalar, deyimler ve yürütme kanıtı 'nı düzenleyerek teşvikleri için başarılı bir ortak op talebi göndermeyi öğrenin.
@@ -9,16 +9,16 @@ author: kaushikgMSFT
 ms.author: kaushikg
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: a79ca29d3bf097d9248c596d54d21ea4222a62ab
-ms.sourcegitcommit: 561db5fabdebcd369f456007e5061f15d4ab781d
+ms.openlocfilehash: a415c62619a486361168adb07d0d2e2cb94c5cf1
+ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92531526"
+ms.lasthandoff: 10/31/2020
+ms.locfileid: "93133091"
 ---
 # <a name="earn-cooperative-marketing-funds"></a>İşbirlikçi pazarlama fonlarını kazanma
 
-**Uygulama hedefi**
+**Şunlara uygulanır**
 
 - İş Ortağı Merkezi
 
@@ -41,6 +41,9 @@ Ortak çalışma fonları, marka tanıma ve sürücü satışları işlem hattı
 Microsoft, bölünmüş bir yüzde (%60 indirimi-40% Co-op) kullanarak uygun teşvik kazançlarını hesaplar. Tek tek programınız için mevcut olan ödeme temposunda kullanarak indirim bölümünü alırsınız, Microsoft, bu da, teşvik kazanın ortak op bölümünü tahakkuk edecektir.
 
 Teşvikleri program kılavuzumuzun ödeme temposunda ve bölünmüş yüzdesi hakkında daha fazla bilgi edinebilirsiniz. Program kılavuzınıza erişmek için [Bu yordamı](incentives-determined-your-program-eligibility.md) kullanın.
+
+>[!NOTE]
+>Ortak işletim geliriniz, ortak işlem getirisi dönemindeki eşiğin altındaysa, ortak op gelirleri Semester 'ın sonunda bir indirimin içine dönüştürülür. Daha fazla ayrıntı veya eşik tutarını belirleme hakkında daha fazla bilgi için bkz. özenli Program Kılavuzu.
 
 ## <a name="when-to-claim-your-funds"></a>Fonlarınızı talep etmek için
 
@@ -75,4 +78,4 @@ Aşağıdaki kaynaklar, birlikte çalışma taleplerini kullanmaya başlamanıza
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-- [Teşvikleri kullanmaya başlama](incentives-get-started-intro.md)
+- [Teşviklerle çalışmaya başlama](incentives-get-started-intro.md)

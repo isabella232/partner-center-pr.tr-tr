@@ -1,7 +1,7 @@
 ---
 title: İş ortağı kiracınız için MFA'yı zorunlu tutma
 ms.topic: article
-ms.date: 05/26/2020
+ms.date: 10/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: İş ortağı kiracılarınız için Mandating MFA 'nın müşteri kaynaklarına erişiminizi güvenli hale getirmenize nasıl yardımcı olacağını öğrenin. Örnek senaryolar içerir.
@@ -9,12 +9,12 @@ author: isaiahwilliams
 ms.author: iswillia
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4a85a7e415eac7f54ccd52302e350ce20de9856d
-ms.sourcegitcommit: 0cea15df24a6a1b310535eb1cb5e167dc2248a95
+ms.openlocfilehash: 01122e81254a8e63f9bbf8d6bc3d3271accac74a
+ms.sourcegitcommit: 2847efac28d3bff24ed37cdfaa88ff4be06705c8
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/16/2020
-ms.locfileid: "92531982"
+ms.lasthandoff: 10/27/2020
+ms.locfileid: "92680402"
 ---
 # <a name="mandating-multi-factor-authentication-mfa-for-your-partner-tenant"></a>İş ortağı kiracınız için Mandating Multi-Factor Authentication (MFA)
 
@@ -43,9 +43,7 @@ Bu özelliğin amacı, iş ortaklarının, kimlik bilgilerinin güvenliğinin a�
 
 Daha büyük ve sürekli güvenlik ve gizlilik korumaları, popüler önceliklerimiz arasında olduğundan iş ortaklarının müşterileri ve kiracılarını korumalarına yardımcı olmaya devam ediyoruz. Bulut çözümü sağlayıcısı (CSP) programına katılan tüm iş ortakları, Denetim Masası satıcıları (CPVs) ve danışmanları uyumlu kalmak için [Iş ortağı güvenlik gereksinimlerini](partner-security-requirements.md) uygulamalıdır.
 
-Microsoft, iş ortağı kiracılar için ek güvenlik önlemlerinin etkinleştirilmesini başlamıştır. Bu korumalar etkinleştirildiğinde, iş ortaklarının kiracılarının ve müşterilerinin, yetkisiz erişimi önlemek için Mandating Multi-Factor Authentication (MFA) doğrulamasına göre Güvenliği sağlanmasına yardımcı olur.
-
-İş ortağı tarafından sunulan yönetim olanaklarına yönelik etkinleştirmeyi tüm iş ortağı kiracılarına başarıyla tamamladınız. İş ortakları ve müşterilerin korunmasına daha fazla yardımcı olmak için, 1 Mayıs 2020 ' den itibaren, iş ortaklarının iş ve müşterilerinin kimlik hırsızlığı ile ilgili olaylardan korunmasına yardımcı olmak için CSP 'de Iş Ortağı Merkezi işlemlerine yönelik etkinleştirmeye başlayacağız.
+İş ortaklarının şirket ve müşterilerinin kimlik hırsızlığına ilişkin olayları korumalarına yardımcı olmak için iş ortakları için ek güvenlik korumalarını etkinleştirdik. Bu, iş ortaklarının kiracılarını ve müşterilerinin, yetkisiz erişimi önlemek için Mandating Multi-Factor Authentication (MFA) doğrulamasına erişmesini sağlamanıza yardımcı olabilir. 
 
 Bu belge, güvenlik önlemlerinin etkinleştirilmesiyle ilgili ayrıntılı deneyim ve kılavuza sahip iş ortakları sağlar.
 

@@ -9,16 +9,16 @@ author: isaiahwilliams
 ms.author: iswillia
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: fe0cb6ce028049ae8e9b911608d649d09f0d9217
-ms.sourcegitcommit: c65b9d2856a9f015f83850fcfc2dc40fd0f51b22
+ms.openlocfilehash: 9f60b6e2624bd4f9020181a936842bdb46db8aa9
+ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/28/2020
-ms.locfileid: "92531794"
+ms.lasthandoff: 10/31/2020
+ms.locfileid: "93133057"
 ---
-# <a name="frequently-asked-questions-about-the-partner-security-requirements"></a>İş ortağı güvenlik gereksinimleriyle ilgili sık sorulan sorular
+# <a name="common-questions-about-partner-security-requirements"></a>İş ortağı güvenlik gereksinimleriyle ilgili sık sorulan sorular
 
-**Uygulama hedefi**
+**Şunlara uygulanır**
 
 - İş Ortağı Merkezi
 
@@ -26,17 +26,16 @@ ms.locfileid: "92531794"
 
 - Konuk kullanıcılar dahil tüm etkin kullanıcılar
 
-## <a name="partner-security-requirements"></a>İş ortağı güvenlik gereksinimleri
 
-Bu makale, [iş ortağı güvenlik gereksinimleri](partner-security-requirements.md)için sık sorulan bazı sorular içerir.
+Bu makalede, [iş ortağı güvenlik gereksinimleriyle](partner-security-requirements.md)ilgili bazı yaygın sorular yanıtlanmaktadır.
 
-### <a name="what-are-the-partner-security-requirements-and-why-should-partners-implement"></a>İş ortağı güvenlik gereksinimleri nelerdir ve iş ortakları neden kullanılmalıdır?
+### <a name="what-are-the-partner-security-requirements-and-why-should-partners-implement-them"></a>İş ortağı güvenlik gereksinimleri nelerdir ve iş ortaklarının bunları neden uygulamalıdır?
 
-Daha büyük ve sürekli güvenlik ve gizlilik korumaları, popüler önceliklerimiz arasında olduğundan iş ortaklarının müşterileri ve kiracılarını korumalarına yardımcı olmaya devam ediyoruz. Birincil olarak kimlik güvenliği çözme olayları ile ilgili daha gelişmiş, artan güvenlik saldırılarına karşı daha fazla bilgi görmeye devam ediyoruz. Engelleyici denetimler, güvenlik saldırılarına karşı genel savunma stratejisinde önemli bir rol oynadığında, 2019 ' de [zorunlu güvenlik gereksinimleri](partner-security-requirements.md) sunuyoruz. Bulut çözümü sağlayıcısı (CSP) programına, Denetim Masası satıcılarına ve danışmanlarına katılan tüm iş ortakları uyumlu kalmak için gereksinimleri uygulamalıdır.
+Daha büyük ve sürekli güvenlik ve gizlilik korumaları, popüler önceliklerimiz arasında olduğundan iş ortaklarının müşterileri ve kiracılarını korumalarına yardımcı olmaya devam ediyoruz. Birincil olarak kimlik güvenliği çözme olayları ile ilgili daha gelişmiş, artan güvenlik saldırılarına karşı daha fazla bilgi görmeye devam ediyoruz. Engelleyici denetimler, güvenlik saldırılarına karşı genel savunma stratejisinde önemli bir rol oynadığında, 2019 ' de [zorunlu güvenlik gereksinimleri](partner-security-requirements.md) sunuyoruz. Bulut çözümü sağlayıcısı (CSP) programına, Denetim Masası satıcılarına ve danışmanlarına katılan tüm iş ortakları uyumlu kalmak için gereksinimleri gerçekleştirmelidir.
 
 ### <a name="what-are-the-key-timelines-and-milestones"></a>Anahtar zaman çizelgeleri ve kilometre taşları nelerdir?
 
-Zaman çizelgeleri ve kilometre taşları dahil olmak üzere bu güvenlik gereksinimleriyle ilişkili koşullar, 2019 sürümündeki [Microsoft Iş ortağı sözleşmesi](microsoft-partner-agreement.md) 'ne dahildir. CSP programına katılımınız ile uyumlu kalmak için, bu güvenlik gereksinimlerini en kısa sürede uygulamanız gerekir.
+Zaman çizelgeleri ve kilometre taşları dahil olmak üzere bu güvenlik gereksinimleriyle ilişkili koşullar, [Microsoft Iş ortağı sözleşmesi](microsoft-partner-agreement.md)'ne dahildir. CSP programına katılımınız ile uyumlu kalmak için, bu güvenlik gereksinimlerini en kısa sürede uygulamanız gerekir.
 
 ### <a name="what-will-happen-if-i-dont-implement-these-partner-security-requirements"></a>Bu iş ortağı güvenlik gereksinimlerini uygulamadığımda ne olur?
 
@@ -46,11 +45,11 @@ Bu güvenlik uygulamalarında olmayan iş ortakları, CSP programını Transact 
 
 ### <a name="do-the-security-requirements-apply-to-all-geographies"></a>Güvenlik gereksinimleri tüm coğrafi lıklar için geçerlidir mi?
 
-Evet, güvenlik gereksinimleri tüm coğrafi lıklar için geçerlidir. Bir evereign bulutu (21Vianet, ABD kamu ve Almanya) üzerinden deneyimidir tüm iş ortaklarının bu yeni güvenlik gereksinimlerini hemen benimsemesini ve benimsemesini önemle öneririz. Ancak, bu iş ortakları 1 Ağustos 'Tan geçerli olan yeni güvenlik gereksinimlerini karşılamak için gerekli değildir. Microsoft, daha sonra da bu güvenlik gereksinimlerinin zorlanmasıyla ilgili ek ayrıntılar sağlar.
+Evet, güvenlik gereksinimleri tüm coğrafi lıklar için geçerlidir. Bir sogeign bulutu (ABD devlet ve Almanya) üzerinden deneyimidir tüm iş ortaklarının bu yeni güvenlik gereksinimlerini hemen benimsemesini ve benimsemesini önemle öneririz. Ancak, bu iş ortakları Şu anda güvenlik gereksinimlerini karşılamak için gerekli değildir. Microsoft, daha sonra da bu güvenlik gereksinimlerinin zorlanmasıyla ilgili ek ayrıntılar sağlar.
 
 ### <a name="is-it-possible-to-get-an-exclusion-for-an-account"></a>Bir hesap için dışlama almak mümkün midir?
 
-Hayır, MFA 'nın zorlanmasına sahip olma gereksiniminden herhangi bir kullanıcı hesabını dışlamak mümkün değildir. İş ortağı olmak üzere yüksek ayrıcalıklı bir doğası verildiğinde, Microsoft Iş ortağı sözleşmesi, iş ortağı kiracınızdaki her bir kullanıcı hesabı için Multi-Factor Authentication 'ın uygulanmasını gerektirir.
+Hayır, çok faktörlü kimlik doğrulamasının (MFA) zorlanmasına sahip olma gereksiniminden herhangi bir kullanıcı hesabını dışlamak mümkün değildir. İş ortağı olmak üzere yüksek ayrıcalıklı bir doğası verildiğinde, Microsoft Iş ortağı sözleşmesi, iş ortağı kiracınızdaki her bir kullanıcı hesabı için Multi-Factor Authentication 'ın uygulanmasını gerektirir.
 
 ### <a name="how-do-i-know-if-i-have-met-the-partner-security-requirements"></a>Nasıl yaparım? iş ortağı güvenlik gereksinimlerini karşıladığım hakkında bilgi sahibi misiniz?
 
@@ -59,7 +58,7 @@ Aşağıdaki adımları gerçekleştirmeniz gerekir:
 - [İş ortağı güvenlik gereksinimlerinde](partner-security-requirements.md)özetlenen tüm gereksinimleri karşılamanız gerekir.
 - İş ortağı kiracınızdaki tüm Kullanıcı hesaplarının Multi-Factor Authentication 'ı zordığından emin olmanız gerekir.
 
-Eylem gerçekleştirebileceğiniz önemli alanların tanımlanmasına yardımcı olmak için Iş Ortağı Merkezi aracılığıyla kullanılabilen [güvenlik gereksinimleri durum](https://partner.microsoft.com/commerce/security/compliance) raporunu sunuyoruz.
+Eylem gerçekleştirebileceğiniz önemli alanların tanımlanmasına yardımcı olmak için Iş Ortağı Merkezi aracılığıyla kullanılabilen [güvenlik gereksinimleri durum raporunu](https://partner.microsoft.com/commerce/security/compliance) sunuyoruz.
 
 Durum raporu hakkında daha fazla bilgi için bkz. [iş ortağı güvenlik gereksinimleri durumu](partner-security-compliance.md) .
 
@@ -95,7 +94,7 @@ CSP programındaki tüm iş ortakları (doğrudan fatura, dolaylı sağlayıcı 
 
     Denetim Masası satıcıları, Iş Ortağı Merkezi 'ne Denetim Masası satıcısı olarak eklemek ve bu gereksinimi hemen uygulamaya [başlamak için gereklidir](enroll-as-cpv.md) . [Iş Ortağı Merkezi: güvenli uygulama modeli çerçevesi](https://assetsprod.microsoft.com/secure-application-model-guide.pdf)' ne bakın. Denetim Masası satıcıları kimlik bilgileri yerine CSP iş ortaklarının onayını kabul edip Yönetmeli ve tüm mevcut CSP iş ortaklarının kimlik bilgilerini temizlemelidir.
 
-## <a name="multi-factor-authentication"></a>Multi-Factor Authentication
+## <a name="multi-factor-authentication"></a>Multi-factor authentication
 
 ### <a name="what-is-multi-factor-authentication-mfa"></a>Multi-Factor Authentication (MFA) nedir?
 
@@ -308,7 +307,7 @@ Kimliği doğrulanmış hesap çok faktörlü kimlik doğrulaması için gereki�
 
 Azure Active Directory (Azure AD) ["taban çizgisi" ilkeleri kaldırılıyor ve](/azure/active-directory/fundamentals/whats-new#replacement-of-baseline-policies-with-security-defaults) siz ve müşterileriniz için daha kapsamlı bir koruma ilkeleri kümesi olan "güvenlik Varsayılanları" ile değiştiriliyor. [Güvenlik Varsayılanları](/azure/active-directory/fundamentals/concept-fundamentals-security-defaults) , kuruluşunuzun kimlik hırsızlığı ile ilgili güvenlik saldırılarına karşı korunmasına yardımcı olabilir.
 
-Çok faktörlü kimlik doğrulaması (MFA) uygulamanız, temel ilkelerden güvenlik Varsayılanları ilkesine veya [DIĞER MFA uygulama seçeneklerine](partner-security-requirements.md#actions-that-you-need-to-take)geçiş yapmadığınız takdirde, ana hat ilkeleri kullanımdan kaldırılmasının nedeniyle kaldırılır. İş ortağı Kiracılarınızın MFA korumalı işlemleri gerçekleştirdiği tüm kullanıcılara MFA doğrulamasının tamamlanabilmesi istenecektir. Daha ayrıntılı Kılavuzu [burada](partner-security-requirements-mandating-mfa.md)gözden geçirin.
+Çok faktörlü kimlik doğrulaması (MFA) uygulamanız, temel ilkelerden güvenlik Varsayılanları ilkesine veya [DIĞER MFA uygulama seçeneklerine](partner-security-requirements.md#implementing-multi-factor-authentication)geçiş yapmadığınız takdirde, ana hat ilkeleri kullanımdan kaldırılmasının nedeniyle kaldırılır. İş ortağı Kiracılarınızın MFA korumalı işlemleri gerçekleştirdiği tüm kullanıcılara MFA doğrulamasının tamamlanabilmesi istenecektir. Daha ayrıntılı Kılavuzu [burada](partner-security-requirements-mandating-mfa.md)gözden geçirin.
 Uyumlu kalmak ve kesintilerini en aza indirmek için aşağıdaki eylemlerden birini gerçekleştirin:
 
 - Güvenlik varsayılanlarına geçiş

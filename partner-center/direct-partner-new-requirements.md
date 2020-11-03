@@ -8,13 +8,13 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.date: 04/27/2020
-ms.openlocfilehash: c5b07e353ebbeeb53de3d90abf229a8ce79ade8f
-ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
+ms.date: 10/09/2020
+ms.openlocfilehash: 98c9cdd96af037e8543828e3a6f2e93c5b0fcbcd
+ms.sourcegitcommit: b4771fd0781d95551e65baa481a572291c729d7d
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "92531362"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "92795789"
 ---
 # <a name="requirements-to-enroll-as-a-csp-direct-bill-partner"></a>CSP Doğrudan Fatura Ortağı olarak kaydolma gereksinimleri
 
@@ -32,9 +32,10 @@ Doğrudan bir fatura ortağı olarak, müşterinizin ve Microsoft ile uçtan uca
 |--------------------------------|--------------------------------------------------------------|
 |**MPN Kimliği**   |İş konumunuz için etkin bir Microsoft İş Ortağı Ağı (MPN) KIMLIĞI.    |
 |**Onay anahtarı**   |Kuruluşunuz adına yasal sözleşmeleri kabul etme ve imzalama yetkisi.|
+|**Gelirleri**|2021 Ocak itibariyle, doğrudan fatura ortakları olarak kaydedilen iş ortaklarının, önceki 12 aya göre ortak küresel hesap düzeyinde, bulut çözümü sağlayıcısı program gelirinde en az ABD Doları $300K işlem yapması gerekir.| 
 |**Destek**   |Müşterilerinize bulut ürün desteğinin ilk düzeyini sağlama özelliği. <br/>Gereksinimlerinize bağlı olarak Iş ortakları için gelişmiş destek (ASfP) veya Iş ortakları için Premier Destek (PSfP) için bir Microsoft destek planı. [Destek planlarını karşılaştırın](https://partner.microsoft.com/support/partnersupport).<br/> ÖNEMLI: bir destek planı satın alabilmek için önce bir kredi denetimi geçirmeniz gerekir. Kredi denetimini geçtiğinde size e-posta göndereceğiz. |
 |**Yönetilen hizmet**   |En az bir yönetilen hizmet, IP hizmeti veya müşteri çözümü uygulaması. [Yönetilen hizmetler](https://partner.microsoft.com/business-opportunities/managed-services-provider)ekleme hakkında daha fazla bilgi edinin.|
-|**Alacak hesaplar** |Müşteri faturalandırma ve sağlamayı yönetmek için yer aldığı kurumsal altyapı.
+|**Alacak hesaplar** |Müşteri faturalandırma ve sağlamayı yönetmek için yer aldığı kurumsal altyapı.|
 
 ### <a name="verify-direct-bill-eligibility"></a>Doğrudan fatura uygunluğunu doğrulama
 

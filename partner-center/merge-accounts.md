@@ -6,12 +6,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.custom: seodec18
 ms.date: 06/12/2020
-ms.openlocfilehash: d38c11e564d6776a5755f8df40ba6ad2dca27d12
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 26912daeae6648d49d1fda3ee148d46c8a3d6705
+ms.sourcegitcommit: b4771fd0781d95551e65baa481a572291c729d7d
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92532034"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "92795840"
 ---
 # <a name="merge-your-partner-account-with-another-partner-account"></a>İş ortağı hesabınızı başka bir iş ortağı hesabıyla birleştirme
 
@@ -89,7 +89,27 @@ Hesapları birleştirme davetini kabul etme kararı verirseniz: · MPN KIMLIĞIN
 3. Sizinle birleştirmek üzere davet etmek istediğiniz hesabın **Iş ortağı profilinde** bulunan MPN kimliğini ekleyin. Iş ortağı küresel MPN KIMLIĞINI kullanmanız gerekir. MPN KIMLIĞI konumunu kullanamazsınız.
 
 4. **Birleştir** ' i seçtiğinizde, iş ortağı şirketine bir davetiye gönderilir. İsteğinizi kabul ettiğinde, Iş Ortağı Merkezi 'nde hesap birleştirmeyi başlatabilirsiniz. Şirket, hesapları birleştirme isteğinizi reddettiğinde, isteği reddettikleri nedenleri açıklayabilirler. Tüm hesap birleştirmelerinde, **birleştirme geçmişi** altında kullanabileceğiniz bir liste vardır.
+ 
+### <a name="example-of-two-companies-merging-accounts"></a>Hesapları birleştiren iki şirket örneği
 
+1. Contoso, 
+
+    a. [küresel BIR MPN kimliği, 1111111](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile) ve bir alt [konum mpn kimliği 2222222](https://partner.microsoft.com/pcv/accountsettings/locationsprofile).
+  
+    b. bir Azure AD kiracısı = @contoso.com
+ 
+    c. 1. Ekim 2020 ' de sona erecek bir altın uzmanlık
+2. Fabrichar
+ 
+    a.  Genel MPN KIMLIĞI 3333333 ve iki alt konum MPN kimliği 4444444 ve 5555555
+
+    b.  bir AAD kiracısı = @fabricam.com
+
+    c.  1 Aralık 2020 ' de sona ermek üzere iki adet altın uzmanlık
+3.  Contoso, Fabricm 'yi satın alarak birleştirme isteği başlatmak için [buraya](https://partner.microsoft.com/dashboard/account/merger) gider
+4.  Fabricm, Iş Ortağı Merkezi 'nde oturum açar ve contoso isteğini onaylamak için #3 adımında contoso ile aynı sayfaya gider.
+5.  Contoso, birleştirme ayrıntılarını aynı sayfada inceler ve hesap birleşmesine devam etmek için onay sağlar.
+    
 ## <a name="next-steps"></a>Sonraki adımlar
 
 - [Kullanıcı rollerini ve izinlerini atama](permissions-overview.md)

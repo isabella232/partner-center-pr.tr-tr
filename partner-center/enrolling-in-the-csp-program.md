@@ -1,7 +1,7 @@
 ---
 title: Bulut Çözümü Sağlayıcısı programına kaydolma
 ms.topic: how-to
-ms.date: 10/06/2020
+ms.date: 10/28/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Bulut çözümü sağlayıcısı (CSP) için en iyisi olan, dolaylı satıcı veya doğrudan fatura iş ortağı gibi bulut çözümü sağlayıcısı (CSP) program satış modelinde nasıl kayıt yapılacağını öğrenin.
@@ -9,18 +9,18 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: caa1442e5775a1617aa483a3cef675a6bd09eb17
-ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
+ms.openlocfilehash: 1074b25ef90495db82600fc5c18b335a91970d84
+ms.sourcegitcommit: 1840767efa4c5de41889bc9245567cf286a084c8
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92532130"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "92917170"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>Bulut Çözümü Sağlayıcısı programına kaydolma
 
 **Uygulama hedefi**
 
-- Bulut çözümü sağlayıcısı programı  
+- İş Ortağı Merkezi  
 
 **Uygun roller**
 
@@ -73,6 +73,7 @@ Doğrudan bir fatura ortağı olarak, müşterinizin ve Microsoft ile uçtan uca
 |**MPN Kimliği**   |İş konumunuz için etkin bir Microsoft İş Ortağı Ağı (MPN) KIMLIĞI.    |
 |**Onay anahtarı**   |Kuruluşunuz adına yasal sözleşmeleri kabul etme ve imzalama yetkisi.|
 |**Destek**   |Müşterilerinize bulut ürün desteğinin ilk düzeyini sağlama özelliği. <br>Gereksinimlerinize bağlı olarak Iş ortakları için gelişmiş destek (ASfP) veya Iş ortakları için Premier Destek (PSfP) için bir Microsoft destek planı. [Destek planlarını karşılaştırın](https://partner.microsoft.com/support/partnersupport).<br> ÖNEMLI: bir destek planı satın almadan önce bir kredi denetimi geçirmeniz gerekir. Kredi denetimini geçtiğinde size e-posta göndereceğiz. |
+|**Gelir gereksinimi**|Dolaylı bir satıcı olarak önceki on iki ay boyunca en az USD300K bulut çözümü sağlayıcısı program yıllık geliri ile Buluşmalıdır. İş ortakları, son on iki aylık gelir Iş Ortağı Merkezi 'nde gözden geçirebilir. en on iki aylık geliri oluşturan Sales, Microsoft tarafından incelenmek ve doğrulanmalıdır ve ek bilgi sağlamanız istenebilir. USD300K gelir gereksinimi, bulut gelirine göre hesaplanır ve CSP 'de kalıcı yazılımları hariç bırakır.|
 |**Yönetilen hizmet**   |En az bir yönetilen hizmet, IP hizmeti veya müşteri çözümü uygulaması. [Yönetilen hizmetler](https://partner.microsoft.com/business-opportunities/managed-services-provider)ekleme hakkında daha fazla bilgi edinin.|
 |**Alacak hesaplar** |Müşteri faturalandırma ve sağlamayı yönetmek için yer aldığı kurumsal altyapı.
 

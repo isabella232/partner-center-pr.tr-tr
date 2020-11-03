@@ -1,5 +1,5 @@
 ---
-title: Ortak op taleplerini yönetme
+title: Ortak kullanım taleplerini yönetme
 description: Son tarihler, para birimi sorunları ve reddedilen bir ortak op talebini nasıl ele almak dahil olmak üzere ortak op talep sürecini anlayın.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
@@ -7,17 +7,17 @@ author: Karthic83
 ms.author: kashanum
 ms.topic: article
 ms.localizationpriority: medium
-ms.date: 10/02/2020
-ms.openlocfilehash: 27b269016822157b8f3a20541fd027bd2c03ee75
-ms.sourcegitcommit: d9c7890520ecd37a7651e976d540cfe65c51be54
+ms.date: 10/29/2020
+ms.openlocfilehash: 54c90cce33a1eabc87357048c348ffa2cc03de19
+ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/02/2020
-ms.locfileid: "92531818"
+ms.lasthandoff: 10/31/2020
+ms.locfileid: "93133159"
 ---
 # <a name="manage-incentives-co-op-claims"></a>Teşvikleri Co-op taleplerini yönetme
 
-**Aşağıdakiler cihazlar için geçerlidir:**
+**Uygulama hedefi:**
 
 - İş Ortağı Merkezi
 
@@ -65,16 +65,14 @@ Ortak çalışma talebinizle birlikte sağladığınız malzemelerin yetersiz ol
 
 1. [İş Ortağı Merkezi panosunda](https://partner.microsoft.com/dashboard/) oturum açın.
 
-2. **Teşvikleri** altında **planlar yönetimi** ' ni seçin.
+2. **Teşvikleri** altında **ortak işlem yönetimi** ' ni seçin.
 
-3. **Ortak op yönetimi** ' ni seçin.
+3. İtiraz etmek istediğiniz ortak çalışma talebini seçin. Ortak işlem talebi sayfası açılır.
 
-4. İtiraz etmek istediğiniz ortak çalışma talebini seçin. Ortak işlem talebi sayfası açılır.
-
-5. Sayfanın alt kısmındaki **İtiraz Et** ’i seçin.
+4. Sayfanın alt kısmındaki **İtiraz Et** ’i seçin.
 
 Ortak çalışma talebi doğrulama ekibi, talebi beş iş günü içinde yeniden gözden geçirecektir. Bu sürede durumu **İtiraz edildi** olarak görünür. Ek bilgi almak için sizinle iletişime geçebiliriz. Gözden geçirme tamamlandığında doğrulama ekibi durumu **Onaylandı** , **Reddedildi** veya **İş Ortağı Eylemi Gerekiyor** olarak güncelleştirir.
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-- [Teşvikleri kullanmaya başlama](incentives-get-started-intro.md)
+- [Teşviklerle çalışmaya başlama](incentives-get-started-intro.md)

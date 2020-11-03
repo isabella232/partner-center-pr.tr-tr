@@ -6,12 +6,12 @@ ms.topic: conceptual
 ms.date: 09/28/2020
 author: eunjkim520
 ms.author: eunjkim
-ms.openlocfilehash: db347387df29dc36e256881546e632bd321dfde5
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 61730eec204674d7ad095d1fffcd997f65d135ea
+ms.sourcegitcommit: 7f595faf952bf2d6cdc229da38bd67ee701b2083
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92532042"
+ms.lasthandoff: 11/02/2020
+ms.locfileid: "93189739"
 ---
 # <a name="getting-paid-in-the-commercial-marketplace"></a>Ticari markette ödeme alma
 
@@ -35,7 +35,7 @@ Bu makalede teklifler, eklentiler ve reklam gelirleri için ödeme alma hakkınd
 
 Varsayılan olarak, yukarıda açıklandığı gibi ödemeleri aylık olarak göndereceğiz. Ancak, ücretlerinizi bir program için bir beklemeye koyabilirsiniz ve Microsoft bu ödemeleri hesabınıza yayınlamaz. Ödelerinizi beklemeye almaya tercih ederseniz, **ödemeler** sayfasında kazanç kaydetmeye devam edeceğiz. Ancak, tutmayı kaldırana kadar hesabınıza herhangi bir ödeme gönderemeyiz.
 
-Ödemelere beklemeye koymak için **Hesap ayarları** ' na gidin. Ödeme **ve vergi '** ın altında, ödeme **ve vergi profili ataması** bölümünde, ödemeleri istediğiniz programı bulun. Bu program için ödemeleri tutmak üzere **ödemi tut** onay kutusunu seçin. Ödeme tutma durumunuzu dilediğiniz zaman değiştirebilirsiniz, ancak kararınız sonraki aylık ödemenin etkisini etkiler. Örneğin, Nisan 'un payından birini tutmak istiyorsanız, Mart 'un sonundan önce, ödeme tutma durumunuzu **Açık** olarak ayarladığınızdan emin olun.
+Ödemelerinizi beklemeye koymak için sağ üst köşedeki **Ayarlar** dişli simgesini ve ardından **Geliştirici ayarları** ' nı seçin. Sol taraftaki menüden **ödeme ve vergi** ' ı seçin ve **ödeme ve vergi profili ataması** bölümünde, ödemeleri istediğiniz programı bulun. Bu program için ödemeleri tutmak üzere **ödemi tut** onay kutusunu seçin. Ödeme tutma durumunuzu dilediğiniz zaman değiştirebilirsiniz, ancak kararınız sonraki aylık ödemenin etkisini etkiler. Örneğin, Nisan 'un payından birini tutmak istiyorsanız, Mart 'un sonundan önce, ödeme tutma durumunuzu **Açık** olarak ayarladığınızdan emin olun.
 
 Ödeme bekletme durumunuzu **Açık** olarak ayarladıktan sonra, onay kutusunun işaretini kaldırana kadar bu program için tüm ödemeler beklemeye **alınır.** Bunu yaptığınızda, bir sonraki aylık ödeme çevrimi (ödeme eşiği karşılandığında) sırasında dahil edersiniz. Ödeyinizi beklemeye aldıysanız, Haziran ayında üretilmiş bir ödeme sahip olmak istiyorsanız, başlamadan önce **devre dışı** bırakmak için onay kutusunun işaretini kaldırın.
 

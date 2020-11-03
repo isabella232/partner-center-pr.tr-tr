@@ -1,7 +1,7 @@
 ---
 title: Kullanıcılara roller & izinleri atama
 ms.topic: article
-ms.date: 09/04/2020
+ms.date: 10/30/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Iş Ortağı Merkezi 'nde ticari işlemleri, başvuruları, teşvikleri veya MPN üyeliklerini yöneten şirketinizin kullanıcılarına en uygun rolleri öğrenin.
@@ -9,12 +9,12 @@ author: hemas
 ms.author: hemas
 ms.localizationpriority: high
 ms.custom: SEOMAY.20, contperfq1
-ms.openlocfilehash: 32df86887ccbea5d18d1bd8c7c34add2b1ab60e4
-ms.sourcegitcommit: 940dad4527f51781f6f966e196b3aa08389613a2
+ms.openlocfilehash: 6707ede563d07b6b96d2133bd75f8fbd53531875
+ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "92531859"
+ms.lasthandoff: 10/31/2020
+ms.locfileid: "93133040"
 ---
 # <a name="assign-users-roles-and-permissions-for-a-companys-users-needing-to-work-in-partner-center"></a>Şirket kullanıcılarının iş ortağı merkezi 'nde çalışması gereken kullanıcı rollerini ve izinlerini atama
 
@@ -52,7 +52,7 @@ Kullanıcılarınıza verdiğiniz roller ve izinler tarafından Iş Ortağı Mer
 ||* Iş Ortağı Merkezi için destek biletleri oluşturma
 ||* Oluşturduğunuz iş ortağı destek biletlerini görüntüle
 |Varsayılan Kullanıcı|  Profilimi görüntüle   |[Parolanızı sıfırlama](reset-my-pasword.md)
-|Yönetim Aracısı | * Müşteri yönetimi|[Müşterilerinizle bağlantı kurmak](connect-with-your-customers.md)
+|Yönetim Aracısı | * Müşteri yönetimi|[Müşterilerinizle bağlantı kurma](connect-with-your-customers.md)
 ||* Iş Ortağı Merkezi 'ne cihaz listesi ekleme
 ||* Cihazlara profiller oluşturma ve uygulama
 ||* Abonelik yönetimi
@@ -97,8 +97,6 @@ CPVs, bulut çözümü sağlayıcısı (CSP) iş ortakları tarafından, sisteml
 |**Konuk Kullanıcı**   | **Roller**|
 |---------------------------|:--------------------|
 ||MPN iş ortağı Yöneticisi|
-||Hesap Yöneticisi|
-||Teşvikleri Yöneticisi|
 ||İş profili Yöneticisi|
 ||Başvuru Yöneticisi|
 

@@ -1,7 +1,7 @@
 ---
 title: İş ortağı güvenlik gereksinimleri
 ms.topic: article
-ms.date: 10/05/2020
+ms.date: 10/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Multi-Factor Authentication 'ı (MFA) etkinleştirmek ve güvenli uygulama modeli çerçevesini benimsemek için iş ortağı gereksinimlerini tanıtır.
@@ -9,12 +9,12 @@ author: vijvala
 ms.author: vijvala
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 361a36adf40af67769a9a24ba1c485f2ad95b98c
-ms.sourcegitcommit: 8a4a3de728532533276a88b1fd40c82b7a4ebb15
+ms.openlocfilehash: c92e8c9a9a08582d89ef478a4600f737a548b787
+ms.sourcegitcommit: 2847efac28d3bff24ed37cdfaa88ff4be06705c8
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/06/2020
-ms.locfileid: "92531831"
+ms.lasthandoff: 10/27/2020
+ms.locfileid: "92680381"
 ---
 # <a name="partner-security-requirements-for-partners-using-partner-center-or-partner-center-apis"></a>Ortak Merkezi veya Iş Ortağı Merkezi API 'Leri kullanan iş ortakları için iş ortağı güvenlik gereksinimleri
 
@@ -58,7 +58,7 @@ Multi-Factor Authentication (MFA) ve güvenli uygulama modeli çerçevesini beni
 
 - Her Kullanıcı hesabı için Azure Active Directory Premium satın alma. Daha fazla bilgi için bkz. [bulut tabanlı Azure Multi-Factor Authentication dağıtımı planlama](/azure/active-directory/authentication/howto-mfa-getstarted).
 
-- İş ortağı kiracınızdaki her kullanıcı hesabı için Multi-Factor Authentication 'ı zorlamak üzere bir üçüncü taraf çözümü kullanma. Çözümün beklenen çözümü sağlayacağız emin olmak için, bkz. [güvenlik gereksinimlerinin nasıl zorlanacağını](#how-the-requirements-will-be-enforced).
+- İş ortağı kiracınızdaki her kullanıcı hesabı için Multi-Factor Authentication 'ı zorlamak üzere bir üçüncü taraf çözümü kullanma. Çözümün beklenen çözümü sağlayacağız emin olmak için, bkz. [güvenlik gereksinimlerinin nasıl zorlanacağını](#how-the-requirements-are-enforced).
 
 > [!NOTE]
 > Bir sogeign bulutu (21Vianet, ABD kamu ve Almanya) için çok faktörlü kimlik doğrulaması sözleşmeye dayalı olmasa da bu güvenlik gereksinimlerini benimsemeniz önemle önerilir.
@@ -92,7 +92,7 @@ Temel ilkelerden güvenlik varsayılanlarına geçiş yapmak için, [güvenlik v
 
 Bu gereksinimler iş ortağı kiracınızdaki tüm kullanıcı hesaplarına uygulandığından, çok faktörlü kimlik doğrulaması gerçekleştiremediği Azure Active Directory Kullanıcı hesaplarını belirleme ve kuruluşunuz tarafından modern kimlik doğrulamayı desteklemeyen uygulamalar ve cihazlar gibi bir kesintisiz dağıtım sağlamak için birkaç şeyi göz önünde bulundurmanız gerekir.
 
-Herhangi bir işlem gerçekleştirmeden önce aşağıdakileri tanımlamanızı öneririz:
+Herhangi bir işlem gerçekleştirmeden önce aşağıdaki doğrulamaları tamamlamanızı öneririz: 
 
 #### <a name="do-you-have-an-application-or-device-that-does-not-support-the-use-of-modern-authentication"></a>Modern kimlik doğrulaması kullanımını desteklemeyen bir uygulama veya cihazınız mı var?
 
@@ -100,9 +100,9 @@ Multi-Factor Authentication 'ı zorunlu kılabilirsiniz, çok faktörlü kimlik 
 
 #### <a name="do-you-have-users-using-office-365-provided-by-licenses-associated-with-your-partner-tenant"></a>İş ortağı kiracınızla ilişkili lisanslar tarafından sunulan Office 365 kullanan kullanıcılarınız var mı?
 
-Herhangi bir çözümü uygulamadan önce, iş ortağı kiracınızdaki kullanıcılar tarafından hangi Microsoft Office sürümünün kullanıldığını belirlemenizi öneririz. Kullanıcılarınız Outlook gibi uygulamalarla bağlantı sorunlarıyla karşılaşacaktır. Multi-Factor Authentication 'ı uygulamadan önce, Outlook 2013 SP1, veya sonraki bir sürümünün kullanıldığından ve kuruluşunuzun modern kimlik doğrulamasının etkin olduğundan emin olmak önemlidir. Daha fazla bilgi için bkz. [Exchange Online 'da modern kimlik doğrulamasını etkinleştirme](/exchange/clients-and-mobile-in-exchange-online/enable-or-disable-modern-authentication-in-exchange-online) .
+Herhangi bir çözümü uygulamadan önce, iş ortağı kiracınızdaki kullanıcılar tarafından hangi Microsoft Office sürümünün kullanıldığını belirlemenizi öneririz. Kullanıcılarınız Outlook gibi uygulamalarla bağlantı sorunlarıyla karşılaşacaktır. Multi-Factor Authentication 'ı uygulamadan önce, Outlook 2013 SP1, veya sonraki bir sürümünün kullanıldığından ve kuruluşunuzun modern kimlik doğrulamasının etkin olduğundan emin olmak önemlidir. Daha fazla bilgi için bkz. [Exchange Online 'da modern kimlik doğrulamayı etkinleştirme](/exchange/clients-and-mobile-in-exchange-online/enable-or-disable-modern-authentication-in-exchange-online). 
 
-Microsoft Office 2013 yüklü olan Windows çalıştıran tüm cihazlarda modern kimlik doğrulamayı etkinleştirmek için, iki kayıt defteri anahtarı oluşturmanız gerekecektir. Bkz. [Windows cihazlarda Office 2013 Için modern kimlik doğrulamasını etkinleştirme](/office365/admin/security-and-compliance/enable-modern-authentication).
+Microsoft Office 2013 yüklü olan Windows çalıştıran tüm cihazlarda modern kimlik doğrulamayı etkinleştirmek için iki kayıt defteri anahtarı oluşturmanız gerekecektir. Bkz. [Windows cihazlarda Office 2013 Için modern kimlik doğrulamasını etkinleştirme](/office365/admin/security-and-compliance/enable-modern-authentication).
 
 #### <a name="is-there-a-policy-preventing-any-of-your-users-from-using-their-mobile-devices-while-working"></a>Kullanıcılarınız çalışırken kullanıcılarınızın mobil cihazlarını kullanmasını engellemiş bir ilke var mı?
 
@@ -124,21 +124,23 @@ Gereksinim, hizmet hesapları da dahil olmak üzere her bir kullanıcı için MF
 
 - Az, AzureRM, Azure AD, MS Online, vb. modülleri kullanan PowerShell betikleri
 
-Yukarıdaki liste kapsamlı değildir. Bu nedenle, ortamınızda kimlik doğrulaması için Kullanıcı kimlik bilgilerini kullanan herhangi bir uygulamayı veya hizmeti bir bütün olarak değerlendirmenizi öneririz. Multi-Factor Authentication gereksinimini karşılamak için, Kılavuzu mümkün olduğunda [güvenli uygulama modeli çerçevesinde](/partner-center/develop/enable-secure-app-model) uygulamanız gerekir.
+Yukarıdaki liste kapsamlı değildir. Bu nedenle, ortamınızda kimlik doğrulaması için Kullanıcı kimlik bilgilerini kullanan her türlü uygulamayı veya hizmeti bir değerlendirme gerçekleştirmeniz önemlidir. Multi-Factor Authentication gereksinimini karşılamak için, Kılavuzu mümkün olduğunda [güvenli uygulama modeli çerçevesinde](/partner-center/develop/enable-secure-app-model) uygulamanız gerekir.
 
 ## <a name="accessing-your-environment"></a>Ortamınıza erişme
 
-Multi-Factor Authentication için istemeden kimlik doğrulaması yapan ne olduğunu daha iyi anlamak için oturum açma etkinliğini incelemenizi öneririz. Azure Active Directory Premium aracılığıyla, oturum açma raporundan yararlanabilirsiniz. Daha fazla bilgi için [Azure Active Directory portalındaki oturum açma etkinlik raporları '](/azure/active-directory/reports-monitoring/concept-sign-ins) na bakın. Azure Active Directory Premium yoksa veya PowerShell aracılığıyla bunu elde etmek istiyorsanız, [Iş Ortağı Merkezi PowerShell](https://www.powershellgallery.com/packages/PartnerCenter/) modülünden [Get-PartnerUserSignActivity](/powershell/module/partnercenter/get-partnerusersigninactivity) cmdlet 'ini kullanmanız gerekir.
+Multi-Factor Authentication için istemeden kimlik doğrulaması yapan ne olduğunu daha iyi anlamak için oturum açma etkinliğini incelemenizi öneririz. Azure Active Directory Premium aracılığıyla, oturum açma raporundan yararlanabilirsiniz. Bu konu hakkında daha fazla bilgi için [Azure Active Directory portalındaki oturum açma etkinlik raporlarına](/azure/active-directory/reports-monitoring/concept-sign-ins)bakın. Azure Active Directory Premium yoksa veya PowerShell aracılığıyla bu oturum açma etkinliğini elde etmek istiyorsanız, [Iş Ortağı Merkezi PowerShell](https://www.powershellgallery.com/packages/PartnerCenter/) modülünden [Get-PartnerUserSignActivity](/powershell/module/partnercenter/get-partnerusersigninactivity) cmdlet 'ini kullanmanız gerekir.
 
-## <a name="how-the-requirements-will-be-enforced"></a>Gereksinimlerin nasıl zorlanacaktır
+## <a name="how-the-requirements-are-enforced"></a>Gereksinimler nasıl zorlanır
 
-İş ortağı güvenlik gereksinimleri, çok faktörlü kimlik doğrulaması doğrulamasının gerçekleştiğine ilişkin MFA talebinin varlığını denetleyerek Azure Active Directory ve Iş Ortağı Merkezi ' nde zorlanır. Microsoft, 18 Kasım 2019 ' den itibaren iş ortağı kiracılarına ek güvenlik korumalarını (daha önce "teknik uygulama" olarak bilinir) etkinleşdirecek. 
+İş ortağı güvenlik gereksinimleri Azure Active Directory tarafından zorlanır ve bu, Multi-Factor Authentication doğrulamasının gerçekleştiğine ilişkin MFA talebinin varlığını denetleyerek, Iş Ortağı Merkezi ' nde zorlanır. 18 Kasım 2019 tarihinde, Microsoft, iş ortağı kiracılarına ek güvenlik korumalarını (daha önce "teknik uygulama" olarak bilinir) etkinleştirdi.
 
-Etkinleştirme sonrasında, iş ortağı kiracısındaki kullanıcılar, (AOBO) işlemleri üzerinde herhangi bir yönetici gerçekleştirirken Multi-Factor Authentication (MFA) doğrulamasının tamamlanmasını talep eder. Güvenlik önlemlerinin kapsamını ek senaryolar ve Kullanıcı rollerine genişletmeye devam edeceğiz ve bu iş ortakları, ön bildirim sağlar. Daha fazla bilgi için lütfen bu belgeye başvurun. Bu, sık olarak güncelleştirilecektir. Gereksinimleri karşılamayan iş ortakları, herhangi bir iş kesintilerini önlemek için bu ölçüleri en kısa sürede uygulamalıdır. 
+Etkinleştirme sonrasında, iş ortağı kiracısındaki kullanıcılar, (AOBO) işlemleri üzerinde herhangi bir yönetici gerçekleştirirken, Iş Ortağı Merkezi portalına erişirken veya Iş Ortağı Merkezi API 'sini çağırarak Multi-Factor Authentication (MFA) doğrulamasının tamamlanmasını talep eder. Daha ayrıntılı bilgi için bkz. [iş ortağı kiracınız Için Mandating Multi-Factor Authentication (MFA)](partner-security-requirements-mandating-mfa.md). 
+
+Gereksinimleri karşılamayan iş ortakları, herhangi bir iş kesintilerini önlemek için bu ölçüleri en kısa sürede uygulamalıdır. 
 
 Azure Multi-Factor Authentication veya Azure AD güvenlik varsayılanlarını kullanıyorsanız, uygulamanız gereken başka bir eylem yoktur.
 
-Üçüncü taraf bir Multi-Factor Authentication çözümü kullanırken, MFA talebinin verilmeyebilir bir şansınız vardır. Bu talep eksikse Azure Active Directory, kimlik doğrulama isteğinin Multi-Factor Authentication tarafından mı öncelikli olduğunu belirleyemeyecektir. Çözümünüzün beklenen talebi verme hakkında daha fazla bilgi için, [Iş ortağı güvenlik gereksinimlerini test](/powershell/partnercenter/test-partner-security-requirements)edin. 
+üçüncü taraf bir Multi-Factor Authentication çözümü kullanıyorsanız, MFA talebinin verilmeyebilir bir şansınız vardır. Bu talep eksikse Azure Active Directory, kimlik doğrulama isteğinin Multi-Factor Authentication tarafından mı öncelikli olduğunu belirleyemeyecektir. Çözümünüzün beklenen talebi verme hakkında daha fazla bilgi için, [Iş ortağı güvenlik gereksinimlerini test](/powershell/partnercenter/test-partner-security-requirements)edin. 
 
 > [!IMPORTANT]
 > Üçüncü taraf çözümünüz beklenen talebi yayınleyemiyorsa, hangi eylemlerin alınacağını belirlemek için çözümü geliştiren satıcıyla çalışmanız gerekir.

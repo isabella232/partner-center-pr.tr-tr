@@ -1,7 +1,7 @@
 ---
 title: Bulut çözümü sağlayıcısı programına genel bakış
 ms.topic: article
-ms.date: 05/05/2020
+ms.date: 10/28/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: İşletmenizin yeni müşterilerle ve yeni uzmanlığa karşı büyümesini sağlamak için bulut çözümü sağlayıcısı (CSP) programındaki avantajlar ve farklı modeller hakkında daha fazla bilgi edinin.
@@ -9,19 +9,19 @@ author: billlinzbach
 ms.author: billLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e1f85f670de583052807c9ff2edfa84a50bd7daf
-ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
+ms.openlocfilehash: 9780fe0b90a4889fca1f3a887c445a75b1549eaa
+ms.sourcegitcommit: 1840767efa4c5de41889bc9245567cf286a084c8
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92532102"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "92917204"
 ---
 # <a name="cloud-solution-provider-program"></a>Bulut çözümü sağlayıcısı programı 
 
 **Uygulama hedefi**
 
 - İş Ortağı Merkezi
-- CSP programındaki iş ortakları
+
 
 Bu makale, bulut çözümü sağlayıcısı (CSP) programına genel bir bakış sağlar ve farklı işlem modellerinin ve gereksinimlerinin yanı sıra bu programda satıma hakkında diğer ayrıntıları da açıklar.  CSP programı, müşterilerinizin işletmelerinde, lisansların yeniden satılmasının ötesinde daha fazla bilgi almanıza yardımcı olur ve aşağıdaki avantajları de içerebilir: 
 
@@ -41,6 +41,10 @@ Bu makale, bulut çözümü sağlayıcısı (CSP) programına genel bir bakış 
 Destek
 
 - Microsoft 'un gelişmiş destek ortağı paketi ile tek bir, öncelikli bir bulut desteği satın alarak destek yeteneklerinizi genişletin. Ya da, proaktif hizmetlerin tam kataloğuna, 24/7 yükseltilmiş kesme/onarım desteğine ve bulut, karma ve şirket içinde teknik hesap yönetimine erişmek için bir Microsoft Premier Destek Iş ortağı paketi seçin.
+
+Gelir
+
+- Dolaylı bir satıcı olarak önceki on iki ay boyunca en az USD300K bulut çözümü sağlayıcısı program yıllık geliri ile Buluşmalıdır. İş ortakları, son on iki aylık gelir Iş Ortağı Merkezi 'nde gözden geçirebilir. en on iki aylık geliri oluşturan Sales, Microsoft tarafından incelenmek ve doğrulanmalıdır ve ek bilgi sağlamanız istenebilir. USD300K gelir gereksinimi, bulut gelirine göre hesaplanır ve CSP 'de kalıcı yazılımları hariç bırakır.
 
 Hizmetler
 

@@ -9,21 +9,25 @@ author: aarzh-AaronZhang
 ms.author: v-aarzh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e9ffa6ef8145099a90fde16e4ce8d6a3453973e0
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: e3cd791f5f9f781980d73c79f0ec18627585372a
+ms.sourcegitcommit: b4771fd0781d95551e65baa481a572291c729d7d
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92531735"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "92795874"
 ---
 # <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>Bulut Çözümü Sağlayıcısı (CSP) doğrudan faturalanan iş ortağından CSP dolaylı kurumsal bayiye geçiş
 
 **Aşağıdakiler cihazlar için geçerlidir:**
+- İş Ortağı Merkezi
 
-- CSP iş ortakları
+**Uygun roller**
+
+- Tüm CSP doğrudan fatura ortakları
 
 >[!Note]
 >Bu makale, dolaylı satıcılara geçişe karar veren doğrudan fatura ortakları için tasarlanmıştır. Ancak dolaylı bir satıcı olarak kaydolmak üzere açık bir karar vermemiş olsanız bile, doğrudan [Fatura özellikleri kısıtlandıktan](restricted-direct-bill-capabilities.md)sonra CSP doğrudan fatura ortağı programı için yeni [gereksinimleri](direct-partner-new-requirements.md) karşılamayan doğrudan fatura iş ortakları Microsoft tarafından bilgilendirilir.
+<br>2021 Ocak itibariyle yeni bir gelir gereksinimi eklenecektir. Doğrudan bir fatura ortağı olarak kaydedilen iş ortaklarının, önceki 12 aya göre ortak küresel hesap düzeyinde bulut çözümü sağlayıcısı program gelirinde en az ABD Doları $300K ' a kadar işlem yapması gerekir.
 
 Mevcut doğrudan fatura kiracınızı kullanarak dolaylı satıcı programına kayıt yapabileceksiniz.
 

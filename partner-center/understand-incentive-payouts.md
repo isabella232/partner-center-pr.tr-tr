@@ -9,16 +9,16 @@ author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 11a37c0f0ac9218ec488441948faaa7b665bf0f3
-ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
+ms.openlocfilehash: ca06b4574d90993f62e6d8d018657e6bd81eb5e1
+ms.sourcegitcommit: 398e8361ae4b43a22d4015ad71bb724b2bf1b1a9
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92532135"
+ms.lasthandoff: 11/03/2020
+ms.locfileid: "93244072"
 ---
 # <a name="view-manage-and-export-your-incentives-program-details"></a>Teşvikleri programınızın ayrıntılarını görüntüleyin, yönetin ve dışarı aktarın
 
-**Uygulama hedefi**
+**Şunlara uygulanır**
 
 - İş Ortağı Merkezi
 
@@ -106,6 +106,61 @@ Bir atma hakkında daha fazla ayrıntı görmek için sayfanın sağ tarafındak
 
 Bu sayfadaki herhangi bir işlem verisini dışarı aktarmak için **dışarı aktar** ' ı seçin ve ardından verileri dışarı aktar sayfasındaki yönergeleri izleyin. Işlem geçmişi sayfasından içe aktarılmış dosyalar, işlem para birimi, hem işlem para birimi, ABD Doları için kazanç, hem de para birimi cinsinden ödenen ödeme değeri gibi verileri gösterir.
 
+### <a name="submit-your-tax-invoice-as-proof-of-execution-poe"></a>Vergi faturanızı yürütme kanıtı (PoE) olarak gönderme
+
+>[!NOTE]
+>Bu içerik **yalnızca** Hindistan, Çin, Italya, Kore, Meksika ve Tayvan 'daki iş ortaklarıyla ilgilidir. <br><br>Hindistan 'daki iş ortakları, vergi faturasının sabit bir kopyasını göndermek için gereklidir.
+
+#### <a name="submit-a-tax-invoice"></a>Vergi faturası gönderme
+
+Yukarıda listelenen ülkelerden birinde bir iş ortağıysanız, Microsoft size, ister kazanç kazandığınızı talep etmek için bir vergi faturası göndermeniz gerektiğini bildiren bir e-posta ile sizi bilgilendirir. Aldığınız e-posta, vergi faturanızı göndermek için yönergeler sağlar ve gereken ek bilgileri de listeler.
+
+Hindistan 'daki iş ortakları Vergi faturasını sabit kopyada göndermek için gereklidir. Diğer ülkelerdeki iş ortakları da sabit veya geçici bir kopya gönderebilir.
+
+Vergi faturanızı, talep ettiğiniz 180 gün içinde göndermeniz gerekir. Faturanızı aldıktan ve doğrulandıktan sonra, yaptığınız ödemeleri ödememiz için işlem yapacağız.
+
+Aşağıdaki bilgileri vergi faturanızla birlikte göndermeniz gerekir:
+
+- Fatura numarası (Bu, oluşturduğunuz bir sayıdır) 
+
+- Channel teşvikleri (CI) başvuru numarası (Microsoft tarafından sağlanmaktadır) 
+
+- Özensiz programınızın adı
+
+- İş ortağı profilinizde yasal ad ve fatura adresi 
+
+- Kazanç tutarı
+
+- Vergi tutarı
+
+Channel teşvikleri (CI) başvuru numaranızı bilmiyorsanız, aşağıdaki üç yerde bulabilirsiniz: 
+
+- Microsoft 'un özensiz yöneticinize gönderdiği e-posta bildirimi. 
+
+- Hem **ücretli** hem de **bekleyen** sekmesinde [iş ortağı merkezi panosu](https://partner.microsoft.com/dashboard/) (oturum açma gerekir).  
+
+- Ödeme raporunuz, [ödeme karşıdan yükleme dışa aktarma sayfanızda](/partner-center/understand-incentive-payouts#payment-download-export)bulunur. 
+
+#### <a name="if-your-submission-is-rejected"></a>Gönderiminiz reddedilirse
+
+Reddedilen bir gönderimin en olası nedeni, vergi faturasındaki bilgilerin kayıtlarımızda bulunan bilgilerle eşleşmemesi olabilir. Eksik veya hatalı veri örnekleri şunlardır: 
+
+- Şirketinizin mal ve hizmet vergi (GST) numarası
+
+- Uyumlanmış sistem terminolojisi (HSN) ve hizmet hesabı kodu (SAC) numaraları
+
+- Fatura numarası (16 basamağı aşmamalıdır)
+
+- Fatura tarihi
+
+- Vergi değeri (dahil ve dışlamalı)
+
+- Şirketiniz Microsoft ile aynı durumdaysa, merkezi mal ve hizmet vergisinin (CGST) vergi yüzdeleri ve eyalet malları ve hizmet vergisinin (SGST) hizalanması gerekir.
+
+- Şirketiniz Microsoft 'tan farklı bir durumdaysa, tümleşik mallar ve hizmet vergisinin (ıGST) yüzdesini sağlamalısınız.
+
+Gönderimler, talep sonrasında 180 günden daha uzun bir süre sağlanıyorsa, fatura geçersizse veya veriler yanlış girildiyse de reddedilebilir.
+
 ### <a name="estimated-payment-month"></a>Tahmini ödeme ayı
 
 Işlem geçmişi sayfası artık, önümüzdeki birkaç aya ait tahmini ödeme tutarlarınızı gösteren bir tablo içerir. Ayrıca, bu bilgileri Işlem geçmişi ve Özet raporu dışarı aktarmaları ' nde görüntüleyebilir ve indirebilirsiniz. Bu bilgiler mutabakatları ve ödeme projeksiyonlarını kolaylaştırır.
@@ -140,18 +195,18 @@ Tahmini miktar, çeşitli nedenlerle gerçek miktardan farklı olabilir:
 
 |**Kazanç durumu** |**Nedeni** |**İş ortağı eylemi gerekli mi?**       |
 |------------------|:-------------------------------------|:-------------------------------------|
-|İşlenmemiş        | Kazanç ödeme için uygun. Bu durum, bir soğutma dönemi için, ister program kılavuzunda, ister program kılavuzumuza göre tanımlanan bu durumda kalır.       |Hayır        |
-|İlerideki      |Ödeme siparişi, ödeme işlenmeden önce bekleyen dahili incelemeler için üretildi.       |Hayır       |
+|İşlenmemiş        | Kazanç ödeme için uygun. Bu durum, bir soğutma dönemi için, ister program kılavuzunda, ister program kılavuzumuza göre tanımlanan bu durumda kalır.       |No        |
+|İlerideki      |Ödeme siparişi, ödeme işlenmeden önce bekleyen dahili incelemeler için üretildi.       |No       |
 |Bekleyen vergi faturası      |Vergi faturanızda eksik veya geçersiz.          |Ödeme yapabilmeniz için vergi faturanızı güncelleştirmeniz gerekir         |
 |İnceleme sırasında reddedildi        |Ödeme, gözden geçirme sırasında reddedildi.          |Ayrıntılar için Microsoft destek 'e başvurun         |
 |Başarısız        |Ödeme, bir Microsoft Sistem hatası nedeniyle başarısız oldu.         |Ayrıntılar için Microsoft destek 'e başvurun         |
-|Sürüyor     |Ödeme devam ediyor.         |Hayır         |
-|Yanlış ödeme        |Ödeme kurtarma devam ediyor.          |Hayır        |
-|Gönderilen        |Ödeme, bankanızla gönderilmiştir.          |Hayır       |
-|Yeniden işleme       |Ödeme bir Microsoft sistem hatasıyla karşılaştı ve yeniden işleniyor.           |Hayır         |
-|Reversed        |Ödeme, bankanızla ters çevrildi ve bir sonraki ödeme aşamasında yeniden gönderilecek.          |Hayır        |
+|Sürüyor     |Ödeme devam ediyor.         |No         |
+|Yanlış ödeme        |Ödeme kurtarma devam ediyor.          |No        |
+|Gönderilen        |Ödeme, bankanızla gönderilmiştir.          |No       |
+|Yeniden işleme       |Ödeme bir Microsoft sistem hatasıyla karşılaştı ve yeniden işleniyor.           |No         |
+|Reversed        |Ödeme, bankanızla ters çevrildi ve bir sonraki ödeme aşamasında yeniden gönderilecek.          |No        |
 |Vergi faturası reddedildi       |Vergi faturanızda gözden geçirme sırasında reddedildi. Tüm bekleyen ödemeler, vergi faturası incelemesi tamamlanana kadar beklemeye alınacaktır.          |Ayrıntılar için Microsoft destek 'e başvurun         |
-|Gözden geçirme kapsamında vergi faturası        |Vergi faturanızda İnceleme uygulanıyor. Vergi faturası onaylandıktan sonra ödeme serbest bırakılır.           |Hayır        |
+|Gözden geçirme kapsamında vergi faturası        |Vergi faturanızda İnceleme uygulanıyor. Vergi faturası onaylandıktan sonra ödeme serbest bırakılır.           |No        |
 |Reddedildi        |Ödeme, bankanızla reddedildi.           |Ayrıntılar için bankanızla görüşün.  |
 
 ## <a name="export-data-page"></a>Verileri dışarı aktarma sayfası

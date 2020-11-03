@@ -1,7 +1,7 @@
 ---
 title: CSP programındaki dolaylı sağlayıcılarla çalışma
 ms.topic: how-to
-ms.date: 04/27/2020
+ms.date: 10/09/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Müşteri desteği ve faturalandırmayla ilgili yardım almak için dolaylı satıcıların Microsoft dolaylı sağlayıcıları (veya dağıtımlarıyla) ile nasıl çalışacağınızı öğrenin.
@@ -10,20 +10,23 @@ ms.custom: contperfq2
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
-ms.openlocfilehash: 1b8b6f3c094471e67d43701a83da46d7dd1372a0
-ms.sourcegitcommit: 940dad4527f51781f6f966e196b3aa08389613a2
+ms.openlocfilehash: 74edfbfd766e6969b278c9ad83b3a12b7ef95abd
+ms.sourcegitcommit: b4771fd0781d95551e65baa481a572291c729d7d
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "92531882"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "92795857"
 ---
 # <a name="learn-how-to-partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Bulut çözümü sağlayıcısı programındaki dolaylı sağlayıcılarla iş ortağı hakkında bilgi edinin
 
+**Uygulama hedefi**
+
+- İş Ortağı Merkezi
+
 **Uygun roller**
 
-- Genel yönetici
-- Kullanıcı yöneticisi
-- Yönetim Aracısı
+
+- Bulut çözümü sağlayıcısı programına kaydolmakla ilgilenen tüm Microsoft iş ortakları
 
 
 Bulut tabanlı çözümler ve hizmetler için hızla büyüyen talepler, her boyuttaki Microsoft iş ortakları için, karlı bulut çözümü işletmeleri oluşturmaya yönelik birçok fırsat sağlar. Pazara girmeye, ancak birden çok satıcıyı yönetmek zorunda olan veya uçtan uca bir müşteri ilişkisi yönetim altyapısına sahip olmayan iş ortakları, Microsoft 'un bulut çözümü sağlayıcısı (CSP) programına dolaylı satıcılar olarak kaydedilebilir.
@@ -47,7 +50,7 @@ CSP programında dolaylı bir satıcı olarak satış için gerekenler hakkında
 
 ### <a name="before-you-begin"></a>Başlamadan önce
 
-CSP 'yi yeni kullanıyorsanız, programda dolaylı bir satıcı olarak kayıt yapmanız gerekir. Daha sonra Iş Ortağı Merkezi 'nde bir hesap oluşturmanız gerekir. Bunu yapmak için kayıt işlemi sırasında aşağıdaki bilgileri sağlamanız gerekir. Başlamadan önce bu öğelerin toplanması birkaç dakika geçmesi gerekebilir:
+2020 Ekim itibariyle, CSP ile yeni olan tüm Microsoft iş ortakları, CSP programına dolaylı bir satıcı olarak kaydolacaktır. Daha sonra Iş Ortağı Merkezi 'nde bir hesap oluşturmanız gerekir. Bunu yapmak için kayıt işlemi sırasında aşağıdaki bilgileri sağlarsınız. Başlamadan önce bu öğelerin toplanması birkaç dakika geçmesi gerekebilir:
 
 - **İş hesabınız için genel yönetici kimlik bilgileri**
 
@@ -65,7 +68,7 @@ CSP 'yi yeni kullanıyorsanız, programda dolaylı bir satıcı olarak kayıt ya
 
 ### <a name="get-started"></a>başlarken
 
-1. İşlemi kapatmak için, kaydolmak üzere [**hoş geldiniz sayfasına**](https://partnercenter.microsoft.com/pcv/register/joinnow/enrollmentwelcome/valueaddedreseller) gidin.
+1. Kayıt işlemini hemen kapatmak için, kaydolmak üzere [**hoş geldiniz sayfasına**](https://partnercenter.microsoft.com/pcv/register/joinnow/enrollmentwelcome/valueaddedreseller) gidin.
 
 2. Kaydolmak için gereken bilgilere sahip olduğunuzdan emin olmak için **hoş geldiniz sayfasını** gözden geçirin ve ardından **İleri** ' yi seçin.
 
@@ -99,6 +102,16 @@ CSP 'yi yeni kullanıyorsanız, programda dolaylı bir satıcı olarak kayıt ya
 
    2. Kullanıcı listesinden adınızı seçin. Daha sonra seçili değilse **yönetici Aracısı** ' nı seçin. **Güncelleştir** ’i seçin.
 
+## <a name="all-indirect-resellers-need-to-sign-the-microsoft-partner-agreement"></a>Tüm dolaylı satıcıların Microsoft Iş ortağı sözleşmesi 'ni imzalaması gerekir
+
+1.  Henüz Iş ortağı üyeliği merkezinden Iş Ortağı Merkezi 'ne Taşınmadıysanız, şimdi bunu yapın. Iş Ortağı Merkezi 'ne geçme hakkında yardım için, [PMC 'Den Iş Ortağı Merkezi 'ne geçiş kılavuzunu](guide-to-migration.md)okuyun. 
+
+2.  Bir Iş Ortağı Merkezi Üyelik hesabınız (MPN KIMLIĞI) varsa, yine de bulut çözümü sağlayıcısı programına resmi olarak kayıt yapmanız gerekir. Üyelik durumunuzu denetlemek için [**Iş ortağı profilinize**](https://partner.microsoft.com/pcv/accountsettings/partnerprofile) gidin ve hesap türünü onaylayın. Ardından [, CSP 'de dolaylı bir satıcı olarak kaydolun](enrolling-in-the-csp-program.md). Dolaylı bir satıcı olarak kaydolduktan sonra, [dolaylı SAĞLAYıCııNıZDAN CSP ilişki isteğini kabul edin](indirect-reseller-tasks-in-partner-center.md).
+
+3.  Iş Ortağı Merkezi 'ne dolaylı bir satıcı olarak kaydolduysanız, genel yönetici kimlik bilgilerini kullanarak [Iş Ortağı Merkezi panosuna genel bakış](https://partner.microsoft.com/pcv/dashboard/overview) ' da Microsoft Iş ortağı Sözleşmesi ' ni kabul edin. Iş ortağı profilinin **Program bilgileri** bölümünde Microsoft Iş ortağı Sözleşmesi ' ni imzaladığınızı doğrulayın. Ayrıca, CSP Genel Bakış sayfasında bir onay başlığı bildirimi görürsünüz. 
+
+:::image type="content" source="images/mpagreen.png" alt-text="Yeşil kabul edilen başlık":::
+
 
 ## <a name="connect-with-an-indirect-provider"></a>Dolaylı sağlayıcıyla bağlantı kurma
 
@@ -128,6 +141,8 @@ Dolaylı bir sağlayıcı Iş Ortağı Merkezi 'nde sizinle bağlantı kurmak is
 
 
 ## <a name="next-steps"></a>Sonraki adımlar
+
+- [Hesap doğrulama işlemi](verification-responses.md)
 
 - [İş Ortağı Merkezi hesabınızı yönetme](partner-center-account-setup.md)
 

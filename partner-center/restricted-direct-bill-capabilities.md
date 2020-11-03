@@ -1,7 +1,7 @@
 ---
 title: Kısıtlanmış doğrudan fatura özellikleri
 ms.topic: article
-ms.date: 06/05/2020
+ms.date: 10/09/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: CSP doğrudan fatura ortağı gereksinimleri hakkında bilgi edinin ve yeteneklerin kısıtlanmasını önlemek için ne yapmanız gerektiğini öğrenin. Olanaklarınızın kısıtlanıp kısıtlanmayacağını öğrenin.
@@ -9,12 +9,12 @@ author: billLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 46506548ec1848c983bfeabf44be74018e80be5e
-ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
+ms.openlocfilehash: 7ee6f4fdb537752cccbceb68716ed22bb8c5fb3a
+ms.sourcegitcommit: b4771fd0781d95551e65baa481a572291c729d7d
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "92531091"
+ms.lasthandoff: 10/28/2020
+ms.locfileid: "92795788"
 ---
 # <a name="restricted-direct-bill-capabilities-and-the-requirements-needed-for-csp-direct-bill-partners"></a>Kısıtlanmış doğrudan fatura özellikleri ve CSP doğrudan fatura ortakları için gereken gereksinimler  
 
@@ -51,7 +51,7 @@ Doğrudan fatura olanaklarınız kısıtlanmışsa, Iş Ortağı Merkezi 'nde m�
 
 Ayrıca, CSP programı kapsamındaki [Azure iş ortağı paylaşılan hizmetleri teklifini](shared-services.md) kullanarak kendi kullanım Için yeni Azure abonelikleri satın alabilirsiniz.
 
-Mevcut doğrudan fatura abonelikleri etkilenmez. Bunlar geçerli kalırlar ve autorenewed ' dir. İptal edilene kadar doğrudan Microsoft tarafından faturalandırılmaya devam edersiniz. Mevcut abonelikleri şu yollarla yönetmeye devam edebilirsiniz:
+Mevcut doğrudan fatura abonelikleri etkilenmez. Bunlar geçerli kalır ve otomatik olarak yenilenir. İptal edilene kadar doğrudan Microsoft tarafından faturalandırılmaya devam edersiniz. Mevcut abonelikleri şu yollarla yönetmeye devam edebilirsiniz:
 
 - Mevcut abonelikleri askıya al
 

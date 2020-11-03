@@ -1,7 +1,7 @@
 ---
 title: Müşteri ilişkilendirmesi oluşturma
 ms.topic: article
-ms.date: 09/11/2020
+ms.date: 10/28/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 description: Kayıt (CPOR) modelinin talep ortağı ile müşteri ilişkilendirmeleri oluşturun. Microsoft 365 & Dynamics 365 müşterileri için Sales, Usage, teşvikleri yönetimine yardımcı olur.
@@ -9,12 +9,12 @@ author: MalloryPrincipe
 ms.author: mallp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e34698b51a159445f4354e366f79f510533e6f30
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: fec01e6c4554421593de4135ccd1af5c5e7ce13b
+ms.sourcegitcommit: 1840767efa4c5de41889bc9245567cf286a084c8
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92531999"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "92917272"
 ---
 # <a name="customer-associations-via-the-claimed-partner-of-record-cpor-model-for-microsoft-365-and-dynamics-365"></a>Microsoft 365 ve Dynamics 365 için Istenen kayıt ortağı (CPOR) modeli aracılığıyla müşteri ilişkilendirmeleri
 
@@ -35,9 +35,9 @@ Bir talebi tamamlayabilmeniz için aşağıdaki bilgilere ihtiyacınız vardır:
 
 - Varlığınızın, talebi yapan **MPN kimliği**
 
-- Müşterinin **etki alanı adı** [bunu bulun](find-domain-name.md)
+- Müşterinin **etki alanı adı** [bunu bulun](find-ids-and-domain-names.md)
 
-- Müşterinin **DIZIN kimliği** veya **Kiracı kimliği** şunu [bulun](find-domain-name.md)
+- Müşterinin **DIZIN kimliği** veya **Kiracı kimliği** şunu [bulun](find-ids-and-domain-names.md)
 
 - Business Applications veya Microsoft 365 gibi **çözüm alanı**
 
@@ -73,7 +73,7 @@ Ayrıca aşağıdaki noktaları da anlamanız gerekir:
 
 3. Müşteri ilişkilendirmeleri sayfasının en üstünde **+ müşteri ilişkisi** ' nı seçin.
 
-4. Müşteriyle ilişkilendirilecek iş ortağı konumunun **MPN kimliğini** seçip müşterinin etki alanı adını ve dizin kimliğini ekleyin. [Bunu bulun](find-domain-name.md)
+4. Müşteriyle ilişkilendirilecek iş ortağı konumunun **MPN kimliğini** seçip müşterinin etki alanı adını ve dizin kimliğini ekleyin. [Bunu bulun](find-ids-and-domain-names.md)
 
 5. **Devam** ’ı seçin.
 
