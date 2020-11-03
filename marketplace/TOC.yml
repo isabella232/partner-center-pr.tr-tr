@@ -1,0 +1,5 @@
+- name: Microsoft market müşteri belgeleri
+  href: index.yml
+  items:
+    - name: Azure Özel Market oluşturma
+      href: create-manage-private-azure-marketplace.md
