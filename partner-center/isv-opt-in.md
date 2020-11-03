@@ -1,0 +1,51 @@
+---
+title: ISV 'lerden gelen Market özel teklifleri
+ms.topic: article
+ms.date: 05/18/2020
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
+description: Bağımsız yazılım satıcısının (ISV) belirli teklifleri dışlamalı ve yalnızca belirli CSP iş ortakları için kullanılabilir hale getirme hakkında bilgi edinin.
+author: rbars
+ms.author: rbars
+ms.localizationpriority: medium
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 87863efd5c4d15c560a488f3cf6ec817c5e34ddc
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.translationtype: MT
+ms.contentlocale: tr-TR
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "92531611"
+---
+# <a name="marketplace-exclusive-offers-from-independent-software-vendors"></a><span data-ttu-id="bcdba-103">Bağımsız yazılım satıcılarından Market özel teklifleri</span><span class="sxs-lookup"><span data-stu-id="bcdba-103">Marketplace exclusive offers from Independent Software Vendors</span></span>
+
+<span data-ttu-id="bcdba-104">**Uygun roller**</span><span class="sxs-lookup"><span data-stu-id="bcdba-104">**Appropriate roles**</span></span>
+
+- <span data-ttu-id="bcdba-105">Genel yönetici</span><span class="sxs-lookup"><span data-stu-id="bcdba-105">Global admin</span></span>
+- <span data-ttu-id="bcdba-106">Kullanıcı yöneticisi</span><span class="sxs-lookup"><span data-stu-id="bcdba-106">User admin</span></span>
+- <span data-ttu-id="bcdba-107">Yönetim Aracısı</span><span class="sxs-lookup"><span data-stu-id="bcdba-107">Admin agent</span></span>
+- <span data-ttu-id="bcdba-108">Satış Aracısı</span><span class="sxs-lookup"><span data-stu-id="bcdba-108">Sales agent</span></span>
+
+<span data-ttu-id="bcdba-109">Bağımsız bir yazılım satıcısı (ISV) yalnızca belirli CSP iş ortakları tarafından kullanılabilen özel teklifleri yapma seçeneğine sahiptir.</span><span class="sxs-lookup"><span data-stu-id="bcdba-109">An Independent Software Vendor (ISV) has the option to make exclusive offers that are only available to certain CSP partners.</span></span>
+
+<span data-ttu-id="bcdba-110">CSP iş ortakları, Iş ortağı merkezi ticari Market 'teki tüm ISV tekliflerini görüntüleyebilir.</span><span class="sxs-lookup"><span data-stu-id="bcdba-110">CSP partners can view all ISV offers in the Partner Center commercial marketplace.</span></span> <span data-ttu-id="bcdba-111">Ancak **özel** olarak işaretlenmiş teklifler, yalnızca ISV tarafından seçilen belirli iş ortakları tarafından satın alınabilir.</span><span class="sxs-lookup"><span data-stu-id="bcdba-111">Offers marked **Exclusive** , however, can only be purchased by specific partners selected by the ISV.</span></span> <span data-ttu-id="bcdba-112">Bir teklif **özel** olarak işaretlenmediğinde, tüm iş ortakları bunu satın alabilir.</span><span class="sxs-lookup"><span data-stu-id="bcdba-112">If an offer is not marked **Exclusive** , all partners can purchase it.</span></span>
+
+<span data-ttu-id="bcdba-113">Bir ISV tarafından tanımlanan belirli CSP iş ortakları şunları yapabilir:</span><span class="sxs-lookup"><span data-stu-id="bcdba-113">Specific CSP partners identified by an ISV can:</span></span>
+
+- <span data-ttu-id="bcdba-114">Iş ortağı merkezi ticari Marketi aracılığıyla bu ISV 'den özel teklifler satın alın</span><span class="sxs-lookup"><span data-stu-id="bcdba-114">Purchase exclusive offers from that ISV through the Partner Center commercial marketplace</span></span>
+- <span data-ttu-id="bcdba-115">Fiyat listesini dışarı aktar</span><span class="sxs-lookup"><span data-stu-id="bcdba-115">Export price list</span></span>
+
+## <a name="how-do-you-gain-access-to-exclusive-offers"></a><span data-ttu-id="bcdba-116">Özel tekliflere nasıl erişim elde edersiniz?</span><span class="sxs-lookup"><span data-stu-id="bcdba-116">How do you gain access to exclusive offers?</span></span>
+
+<span data-ttu-id="bcdba-117">Bir ISV Market 'te bir teklif yayımladığında, kimin kimlerin satın aldıklarını belirten bir fırsata sahip olurlar.</span><span class="sxs-lookup"><span data-stu-id="bcdba-117">When an ISV publishes an offer on the Marketplace, they have the opportunity to indicate who can purchase it.</span></span>
+
+<span data-ttu-id="bcdba-118">Seçenekleri şunlardır:</span><span class="sxs-lookup"><span data-stu-id="bcdba-118">Their options are:</span></span>
+
+- <span data-ttu-id="bcdba-119">Tüm CSP iş ortakları satın alabilir</span><span class="sxs-lookup"><span data-stu-id="bcdba-119">All CSP partners can purchase</span></span>
+- <span data-ttu-id="bcdba-120">Hangi iş ortaklarının satın kullanabileceğini belirleme</span><span class="sxs-lookup"><span data-stu-id="bcdba-120">Determine which partners can purchase</span></span>
+- <span data-ttu-id="bcdba-121">CSP iş ortakları için kullanılamaz</span><span class="sxs-lookup"><span data-stu-id="bcdba-121">Not available to CSP partners</span></span>
+
+## <a name="next-steps"></a><span data-ttu-id="bcdba-122">Sonraki adımlar</span><span class="sxs-lookup"><span data-stu-id="bcdba-122">Next steps</span></span>
+
+- <span data-ttu-id="bcdba-123">Ticari Market 'teki ISV deneyimi hakkında daha fazla bilgi edinmek için, [bulut çözümü sağlayıcılarını](/azure/marketplace/cloud-solution-providers)okuyun.</span><span class="sxs-lookup"><span data-stu-id="bcdba-123">To learn more about the ISV experience in the commercial marketplace, read [Cloud Solution Providers](/azure/marketplace/cloud-solution-providers).</span></span>
+
+- <span data-ttu-id="bcdba-124">Ticari Market hakkında daha fazla bilgi için, [bulut çözümü sağlayıcıları Için ticari Market 'e genel bakış](csp-commercial-marketplace-overview.md)makalesini okuyun.</span><span class="sxs-lookup"><span data-stu-id="bcdba-124">For more information on the commercial marketplace, read [Commercial marketplace overview for Cloud Solution Providers](csp-commercial-marketplace-overview.md).</span></span>

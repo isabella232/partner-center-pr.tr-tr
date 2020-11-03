@@ -1,0 +1,71 @@
+---
+title: SSS-Power BI için Iş ortağı merkezi analizi
+ms.topic: article
+ms.date: 05/19/2020
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
+description: Power BI için Iş ortağı merkezi analizi uygulamasıyla ilgili bu genel bakışı ve sık sorulan soruları inceleyin.
+fwlink: https://go.microsoft.com/fwlink/?linkid=852582
+author: v-sumukh
+ms.author: v-sumukh
+ms.localizationpriority: medium
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 2e58c8ed68e40e9ffb4f2ed5555dc780e21570a7
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.translationtype: MT
+ms.contentlocale: tr-TR
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "92531602"
+---
+# <a name="overview-and-faqs-for-the-partner-center-analytics-app-for-power-bi-direct-partners-in-csp"></a><span data-ttu-id="05842-103">Power BI için Partner Center Analytics uygulamasına genel bakış ve SSS (CSP 'de doğrudan iş ortakları)</span><span class="sxs-lookup"><span data-stu-id="05842-103">Overview and FAQs for the Partner Center Analytics app for Power BI (direct partners in CSP)</span></span>
+
+<span data-ttu-id="05842-104">**Uygulama hedefi**</span><span class="sxs-lookup"><span data-stu-id="05842-104">**Applies to**</span></span>
+
+- <span data-ttu-id="05842-105">İş Ortağı Merkezi</span><span class="sxs-lookup"><span data-stu-id="05842-105">Partner Center</span></span>
+
+<span data-ttu-id="05842-106">**Uygun roller**</span><span class="sxs-lookup"><span data-stu-id="05842-106">**Appropriate roles**</span></span>
+
+- <span data-ttu-id="05842-107">Genel yönetici</span><span class="sxs-lookup"><span data-stu-id="05842-107">Global admin</span></span>
+- <span data-ttu-id="05842-108">Kullanıcı yöneticisi</span><span class="sxs-lookup"><span data-stu-id="05842-108">User admin</span></span>
+- <span data-ttu-id="05842-109">Satış Aracısı</span><span class="sxs-lookup"><span data-stu-id="05842-109">Sales agent</span></span>
+- <span data-ttu-id="05842-110">Yönetim Aracısı</span><span class="sxs-lookup"><span data-stu-id="05842-110">Admin agent</span></span>
+
+<span data-ttu-id="05842-111">Power BI için Partner Center Analytics uygulamasıyla iş verilerinizin görsel bir temsilini alın.</span><span class="sxs-lookup"><span data-stu-id="05842-111">Get a visual representation of your business data with the Partner Center Analytics app for Power BI.</span></span> <span data-ttu-id="05842-112">Bulut çözüm sağlayıcısı programı 'nda (CSP) doğrudan iş ortakları için tasarlanan uygulama tanıdık Power BI çerçevesine takar.</span><span class="sxs-lookup"><span data-stu-id="05842-112">The app, designed for direct partners in the Cloud Solution Provider program (CSP), plugs in to the familiar Power BI framework.</span></span>
+
+> [!NOTE]  
+> <span data-ttu-id="05842-113">Doğrudan Microsoft ve müşterilerle iş yapıyorsanız doğrudan bir iş ortağıyız.</span><span class="sxs-lookup"><span data-stu-id="05842-113">You're a direct partner if you do business directly with Microsoft and with customers.</span></span>
+
+<span data-ttu-id="05842-114">Grafik görünümlerini almak için uygulamayı yüklemek:</span><span class="sxs-lookup"><span data-stu-id="05842-114">Install the app to get graphic views of:</span></span>
+
+- <span data-ttu-id="05842-115">Müşteri tabanınız, abonelikleriniz ve lisanslarınızın büyümesi</span><span class="sxs-lookup"><span data-stu-id="05842-115">Growth of your customer base, subscriptions, and licenses</span></span>
+
+- <span data-ttu-id="05842-116">Office 365, Microsoft Dynamics ve Microsoft Azure ürünlerinin kullanımı</span><span class="sxs-lookup"><span data-stu-id="05842-116">Usage of Office 365, Microsoft Dynamics, and Microsoft Azure products</span></span>
+
+- <span data-ttu-id="05842-117">Son 60 güne ait her bir Azure aboneliğinde ölçülen her kaynak için günlük tüketim birimleri</span><span class="sxs-lookup"><span data-stu-id="05842-117">Daily consumption units for each metered resource in each Azure subscription for the last 60 days</span></span>
+
+- <span data-ttu-id="05842-118">En son fiyat kartına göre tahmini maliyet</span><span class="sxs-lookup"><span data-stu-id="05842-118">Estimated cost based on latest rate card</span></span>
+
+- <span data-ttu-id="05842-119">Veri kümelerini dışarı aktarma ve müşteri başına dahil özel raporlar oluşturma özelliği</span><span class="sxs-lookup"><span data-stu-id="05842-119">Ability to export data sets and create custom reports, including per customer</span></span>
+
+## <a name="frequently-asked-questions"></a><span data-ttu-id="05842-120">Sık sorulan sorular</span><span class="sxs-lookup"><span data-stu-id="05842-120">Frequently asked questions</span></span>
+
+<span data-ttu-id="05842-121">Uygulamayı yüklemeden önce sık sorulan soruların yanıtlarını incelemenizi öneririz.</span><span class="sxs-lookup"><span data-stu-id="05842-121">We recommend that you review our answers to frequently asked questions before you install the app.</span></span>
+
+| <span data-ttu-id="05842-122">**Soru**</span><span class="sxs-lookup"><span data-stu-id="05842-122">**Question**</span></span> | <span data-ttu-id="05842-123">**Yanıt**</span><span class="sxs-lookup"><span data-stu-id="05842-123">**Answer**</span></span> |
+| --- | ---------- |
+| <span data-ttu-id="05842-124">Uygulamanın maliyeti nedir?</span><span class="sxs-lookup"><span data-stu-id="05842-124">What does the app cost?</span></span> | <span data-ttu-id="05842-125">Uygulamanın kendisi ücretsizdir.</span><span class="sxs-lookup"><span data-stu-id="05842-125">The app itself is free.</span></span> <span data-ttu-id="05842-126">Uygulamayı önizlemek için, [ücretsiz Power BI hizmeti kaydolabilir](https://go.microsoft.com/fwlink/p/?linkid=845347) ve panoları ve raporları özelleştirmek için kullanabilirsiniz.</span><span class="sxs-lookup"><span data-stu-id="05842-126">To preview the app, you can [sign up for the free Power BI service](https://go.microsoft.com/fwlink/p/?linkid=845347) and use it to customize dashboards and reports.</span></span> <span data-ttu-id="05842-127">Şirketinizdeki başkalarının uygulamayı kullanmasına izin vermek için, Microsoft Power BI Professional veya Microsoft Power BI Premium için etkin bir aboneliğiniz olması gerekir.</span><span class="sxs-lookup"><span data-stu-id="05842-127">To allow others in your company to use the app, you need to have an active subscription to either Microsoft Power BI Professional or Microsoft Power BI Premium.</span></span> |
+| <span data-ttu-id="05842-128">Iş Ortağı Merkezi Analytics uygulamasına kimler bağlanabilir?</span><span class="sxs-lookup"><span data-stu-id="05842-128">Who can connect to the Partner Center Analytics app?</span></span> | <span data-ttu-id="05842-129">Uygulamanın bu sürümü, bulut çözümü sağlayıcısı programındaki doğrudan iş ortakları (Katman 1) için tasarlanmıştır.</span><span class="sxs-lookup"><span data-stu-id="05842-129">This version of the app is designed for direct partners (tier 1) in the Cloud Solution Provider program.</span></span> <span data-ttu-id="05842-130">Doğrudan Microsoft ve müşterilerle iş yapıyorsanız doğrudan bir iş ortağıyız.</span><span class="sxs-lookup"><span data-stu-id="05842-130">You're a direct partner if you do business directly with Microsoft and with customers.</span></span> <span data-ttu-id="05842-131">Uygulamayı yüklemek için şirketinizin hesabı için bir genel yönetici, yönetici Aracısı veya faturalama yöneticisi olmanız gerekir.</span><span class="sxs-lookup"><span data-stu-id="05842-131">To install the app, you must be a global admin, admin agent, or billing admin for your company's account.</span></span> |
+| <span data-ttu-id="05842-132">Bir dolaylı sağlayıcıyım; uygulamayı kullanabilir miyim?</span><span class="sxs-lookup"><span data-stu-id="05842-132">I am an indirect provider; can I use the app?</span></span> | <span data-ttu-id="05842-133">Evet.</span><span class="sxs-lookup"><span data-stu-id="05842-133">Yes.</span></span> <span data-ttu-id="05842-134">Genel yönetici, yönetici Aracısı veya faturalandırma yöneticiniz uygulamayı yükleyebilir ve doğrudan müşterilerinizle ilgili verileri görebilir.</span><span class="sxs-lookup"><span data-stu-id="05842-134">Your global admin, admin agent, or billing admin can install the app and see data about your direct customers.</span></span> <span data-ttu-id="05842-135">Gelecekteki yayınlar, dolaylı satıcılarınız hakkındaki verileri de görmenizi sağlayacak özellikler içerebilir.</span><span class="sxs-lookup"><span data-stu-id="05842-135">Future releases may include features that would allow you to see data about your indirect resellers as well.</span></span> |
+| <span data-ttu-id="05842-136">Gelecek sürümler hakkında nasıl bilgi edinebilirim?</span><span class="sxs-lookup"><span data-stu-id="05842-136">How can I learn about future releases?</span></span> | <span data-ttu-id="05842-137">Duyurular ve önizleme sürümleri Iş Ortağı Merkezi erken benimseyen programı aracılığıyla sunulur.</span><span class="sxs-lookup"><span data-stu-id="05842-137">Announcements and preview releases are made available through the Partner Center early adopter program.</span></span> <span data-ttu-id="05842-138">Geri bildiriminizi erken benimseyen programı aracılığıyla da paylaşabilirsiniz.</span><span class="sxs-lookup"><span data-stu-id="05842-138">You can also share your feedback through the early adopter program.</span></span> <span data-ttu-id="05842-139">Zaten programa katılmadıysanız, nasıl katılacağınızı öğrenin.</span><span class="sxs-lookup"><span data-stu-id="05842-139">If you're not already participating in the program, learn how to join.</span></span> <span data-ttu-id="05842-140">Bkz. [Iş Ortağı Merkezi API 'si ve SDK erken benimseyen programına ekleme](/partner-center/develop/early-adopter-program).</span><span class="sxs-lookup"><span data-stu-id="05842-140">See [Join the Partner Center API and SDK Early Adopter Program](/partner-center/develop/early-adopter-program).</span></span>  |
+| <span data-ttu-id="05842-141">Uygulamadaki panoları ve raporları kimler özelleştirebilir?</span><span class="sxs-lookup"><span data-stu-id="05842-141">Who can customize the dashboards and reports in the app?</span></span> | <span data-ttu-id="05842-142">Yalnızca uygulamayı yükleyen genel yönetici, yönetici Aracısı veya faturalandırma Yöneticisi panoyu özelleştirebilir veya Power BI web arabiriminde yeni raporlar oluşturabilir.</span><span class="sxs-lookup"><span data-stu-id="05842-142">Only the global admin, admin agent, or billing admin who installed the app can customize the dashboard or create new reports in the Power BI web interface.</span></span> |
+| <span data-ttu-id="05842-143">Uygulamada panoları ve raporları kim görebilir?</span><span class="sxs-lookup"><span data-stu-id="05842-143">Who can view the dashboards and reports in the app?</span></span> | <span data-ttu-id="05842-144">Uygulamayı yükleyen genel yönetici, yönetici Aracısı veya faturalandırma Yöneticisi, uygulamanın verilerini Microsoft Power BI Professional veya Microsoft Power BI Premium etkin aboneliğine sahip herkesle paylaşabilir.</span><span class="sxs-lookup"><span data-stu-id="05842-144">The global admin, admin agent, or billing admin who installed the app can share the app's data with anyone who has an active subscription to either Microsoft Power BI Professional or Microsoft Power BI Premium.</span></span> |
+| <span data-ttu-id="05842-145">Birden çok Azure AD kiracısından gelen verileri konumlar arasında görüntülemek için uygulamayı kullanabilir miyim?</span><span class="sxs-lookup"><span data-stu-id="05842-145">Can I use the app to view data from multiple Azure AD tenants, across locations?</span></span> | <span data-ttu-id="05842-146">Bu sürümle birlikte, yalnızca genel yönetici veya yönetici aracılarınızın ' de oturum açmış olduğu Azure AD kiracısındaki verileri görüntüleyebilirsiniz.</span><span class="sxs-lookup"><span data-stu-id="05842-146">With this release, you can view only data from the Azure AD tenant your global admin or admin agent signed in to.</span></span> | 
+| <span data-ttu-id="05842-147">Uygulama ne zaman ek dillerde kullanılabilir olacaktır?</span><span class="sxs-lookup"><span data-stu-id="05842-147">When will the app be available in additional languages?</span></span> | <span data-ttu-id="05842-148">Yol haritası duyuruları Iş Ortağı Merkezi erken benimseyen programı aracılığıyla serbest bırakılır.</span><span class="sxs-lookup"><span data-stu-id="05842-148">Roadmap announcements are released through the Partner Center early adopter program.</span></span> <span data-ttu-id="05842-149">Zaten programa katılmadıysanız, şimdi ' de kaydolun [https://partnercenter.microsoft.com/partner/early-adopter-program](https://partnercenter.microsoft.com/partner/early-adopter-program) .</span><span class="sxs-lookup"><span data-stu-id="05842-149">If you're not already participating in the program, sign up for it now at [https://partnercenter.microsoft.com/partner/early-adopter-program](https://partnercenter.microsoft.com/partner/early-adopter-program).</span></span> <span data-ttu-id="05842-150">Geri bildiriminizi erken benimseyen programı aracılığıyla da paylaşabilirsiniz.</span><span class="sxs-lookup"><span data-stu-id="05842-150">You can also share your feedback through the early adopter program.</span></span> | 
+
+
+
+## <a name="next-steps"></a><span data-ttu-id="05842-151">Sonraki adımlar</span><span class="sxs-lookup"><span data-stu-id="05842-151">Next steps</span></span>
+
+[<span data-ttu-id="05842-152">Microsoft Power BI için İş Ortağı Merkezi Analizi uygulamasını yükleme ve önizleme</span><span class="sxs-lookup"><span data-stu-id="05842-152">Install and preview the Partner Center Analytics app for Microsoft Power BI</span></span>](power-bi-app-for-direct-partners-install.md)
+
+[<span data-ttu-id="05842-153">İş verilerinizi Microsoft için Partner Center Analytics uygulaması ile görüntüleyin Power BI</span><span class="sxs-lookup"><span data-stu-id="05842-153">View your business data with the Partner Center Analytics app for Microsoft Power BI</span></span>](power-bi-app-for-direct-partners-use.md)
