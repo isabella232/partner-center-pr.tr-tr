@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 10/14/2020
-ms.openlocfilehash: 4e78743c8dd03dd4540077aaa9f9d17799d1af80
-ms.sourcegitcommit: b4771fd0781d95551e65baa481a572291c729d7d
+ms.date: 10/27/2020
+ms.openlocfilehash: 4877c3c21449c8b5cc4224973d159d70635d9262
+ms.sourcegitcommit: 4bff85c6a13a990d5eb6c4a4ef44e1013d06948e
 ms.translationtype: MT
 ms.contentlocale: tr-TR
 ms.lasthandoff: 10/28/2020
-ms.locfileid: "92795823"
+ms.locfileid: "92903046"
 ---
 # <a name="october-2020-announcements"></a>Ekim 2020 duyuruları
 
@@ -22,7 +22,44 @@ Bu sayfa, 2020 Ekim 'e yönelik Microsoft Iş Ortağı Merkezi bildirilerini ayr
 
 2020 Duyurular: [March](2020-march.md)  |  [Nisan](2020-april.md)Mart  |  [,](2020-may.md)  |  Eylül ayında[Haziran](2020-june.md)  |  [ayı](2020-july.md)  |  [August](2020-august.md)  |  [September](2020-september.md) | 'Den
 
-________________________________
+______________
+
+## <a name="october-2020-cloud-solution-provider-csp-software-subscriptions-price-list-updates"></a><a name="14"></a>2020 Ekim bulut çözümü sağlayıcısı (CSP) yazılım abonelikleri fiyat listesi güncelleştirmeleri
+
+### <a name="categories"></a>Kategoriler
+
+- Tarih: 2020-10-26
+- Teklifler/Pazarlar
+ 
+### <a name="summary"></a>Özet
+
+2020 Ekim için yazılım abonelikleri fiyat listesi güncelleştirildi.
+
+### <a name="impacted-audience"></a>Etkilenen hedef kitle
+
+Tüm iş ortakları bulut çözümü sağlayıcısı (CSP) programı üzerinden deneyimidir
+
+### <a name="details"></a>Ayrıntılar
+
+Ekim 2020, yazılım abonelikleri fiyat listesi, daha önce atlanan iki ürünü içerecek şekilde güncelleştirilmiştir.
+
+[Windows 7 Year 2 ESU](#3) , Ekim 2020 ' de kullanıma sunuldu. 2. yıl fiyatlandırma, artık yazılım abonelikleri fiyat listesinde sunulmaktadır.
+- Ürün KIMLIĞI: DG7GMGF0FL73
+- SKU KIMLIĞI: 0003
+
+[Azure SQL Edge](2020-september.md#9) , geç Eylül 2020 ' de kullanıma sunuldu. Artık geçerli Iş ortağı merkezi fiyat listesinde kullanılabilir. 
+- Ürün KIMLIĞI: DG7GMGF0GJC2
+
+Tüm CSP Iş ortağı merkezi fiyat listeleri, Iş Ortağı Merkezi 'Nde oturum açarak ve satış/tekliflere ve fiyatlandırmaya gidilerek kullanılabilir.
+
+### <a name="additional-resources"></a>Ek kaynaklar
+
+- [Windows 7 Destek SSS sayfası](/troubleshoot/windows-client/windows-7-eos-faq/windows-7-end-support-faq)
+- [Windows 7 desteği ve Microsoft 365 uygulamaları](/deployoffice/endofsupport/windows-7-support)
+- [Windows 7 ESU kaynak Galerisi](https://partner.microsoft.com/resources/collection/windows-esu-csp#/)
+- [Azure SQL Edge sitesi](https://aka.ms/sqledge)
+
+________________
 
 ## <a name="introducing-a-performance-standard-for-direct-bill-partner-requirements-in-the-cloud-solution-provider-csp-program"></a><a name="13"></a>Bulut çözümü sağlayıcısı (CSP) programındaki doğrudan fatura ortağı gereksinimleri için bir performans standardı tanıtma
 
@@ -45,7 +82,7 @@ Microsoft Bulut çözüm sağlayıcısı programını büyüyen ve en iyi duruma
 
 Bugün, bulut çözümü sağlayıcısı programındaki doğrudan fatura ortakları için gereksinimlerde yapılan birkaç değişikliği paylaşıyoruz.
 
-İlk olarak, **doğrudan fatura ortağı gereksinimlerinin bir parçası olarak bir performans standardı tanıtıyoruz** . Bulut çözümü sağlayıcısı programına doğrudan fatura ortakları olarak kaydetmek isteyen iş ortakları, [gerekli destek sözleşmesi](https://partner.microsoft.com/support/partnersupport) yenileme tarihinden önce 12 ay boyunca bulut çözümü sağlayıcısı program gelirine en az USD300K karşılamalıdır.
+İlk olarak, **doğrudan fatura ortağı gereksinimlerinin bir parçası olarak bir performans standardı tanıtıyoruz**. Bulut çözümü sağlayıcısı programına doğrudan fatura ortakları olarak kaydetmek isteyen iş ortakları, [gerekli destek sözleşmesi](https://partner.microsoft.com/support/partnersupport) yenileme tarihinden önce 12 ay boyunca bulut çözümü sağlayıcısı program gelirine en az USD300K karşılamalıdır.
 
 Bu performans standardı, geçerli doğrudan fatura ortakları için Ocak 2021 ' de yürürlüğe girer ve iş ortağı destek planı yenileme tarihi ile ilgili gereksinimleri karşılamanız gerekecektir.
 
@@ -94,7 +131,7 @@ ________________________________
 ### <a name="categories"></a>Kategoriler
 
 - Tarih: 2020-10-16
-- Teklifler/pazarlar
+- Teklifler/Pazarlar
  
 ### <a name="summary"></a>Özet
 
@@ -160,7 +197,7 @@ ________________
 ### <a name="categories"></a>Kategoriler
 
 - Tarih: 2020-10-12
-- Teklifler/pazarlar
+- Teklifler/Pazarlar
  
 ### <a name="summary"></a>Özet 
 
@@ -196,7 +233,7 @@ ________________
 ### <a name="categories"></a>Kategoriler
 
 - Tarih: 2020-10-09
-- Teklifler/pazarlar
+- Teklifler/Pazarlar
 
 ### <a name="impacted-audience"></a>Etkilenen hedef kitle
 
@@ -288,7 +325,7 @@ ________________
 ### <a name="categories"></a>Kategoriler
 
 - Tarih: 2020-10-05
-- Teklifler/pazarlar
+- Teklifler/Pazarlar
  
 ### <a name="summary"></a>Özet 
 
@@ -353,7 +390,7 @@ ________________
 ### <a name="categories"></a>Kategoriler
 
 - Tarih: 2020-10-02
-- Teklifler/pazarlar
+- Teklifler/Pazarlar
 
 ### <a name="summary"></a>Özet
 
@@ -409,7 +446,7 @@ ________________
 ### <a name="categories"></a>Kategoriler
 
 - Tarih: 2020-10-02
-- Teklifler/pazarlar
+- Teklifler/Pazarlar
  
 ### <a name="summary"></a>Özet
 
@@ -473,7 +510,7 @@ ________________
 ### <a name="categories"></a>Kategoriler
 
 - Tarih: 2020-10-02
-- Teklifler/pazarlar
+- Teklifler/Pazarlar
  
 ### <a name="impacted-audience"></a>Etkilenen hedef kitle
 
@@ -499,7 +536,7 @@ ________________
 ### <a name="categories"></a>Kategoriler
 
 - Tarih: 2020-10-01
-- Teklifler/pazarlar
+- Teklifler/Pazarlar
  
 ### <a name="impacted-audience"></a>Etkilenen hedef kitle
 
@@ -531,7 +568,7 @@ ________________
 ### <a name="categories"></a>Kategoriler
 
 - Tarih: 2020-10-01
-- Teklifler/pazarlar
+- Teklifler/Pazarlar
 
 ### <a name="summary"></a>Özet
 

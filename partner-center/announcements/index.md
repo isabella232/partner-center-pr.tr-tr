@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 10/27/2020
-ms.openlocfilehash: 4df4e473ea31ad5a9f0da52ab45f65000db344d9
-ms.sourcegitcommit: 1840767efa4c5de41889bc9245567cf286a084c8
+ms.openlocfilehash: f52caa9b536f289025a61ae245bb1f63d65a5698
+ms.sourcegitcommit: 3cca87a10e8aebbf5be144ef525217509f0521ec
 ms.translationtype: HT
 ms.contentlocale: tr-TR
 ms.lasthandoff: 10/29/2020
-ms.locfileid: "92917221"
+ms.locfileid: "93027899"
 ---
 # <a name="partner-center-announcements"></a>İş Ortağı Merkezi duyuruları
 
@@ -22,6 +22,7 @@ ms.locfileid: "92917221"
 
 | **Kategori** | **Ekim 2020 duyuruları** | **Duyurulan** |
 |---------|:---------|:---------|
+|Özellikler|[Windows 10 Education yükseltmesi, koşullara uyan Bulut Çözümü Sağlayıcısı (CSP) Eğitim müşterilerinin kullanımına sunuldu](2020-october.md#16)|28 Ekim|
 |Özellikler|[Yenilenen Bulut Çözümü Sağlayıcısı (CSP) dijital deneyimi kullanıma sunuldu](2020-october.md#15)|28 Ekim|
 |Özellikler|[Bulut Çözümü Sağlayıcısı (CSP) programında doğrudan fatura iş ortağı gereksinimleri için performans standardı belirleme](2020-october.md#13)|27 Ekim|
 |Teklifler/Pazarlar|[Ekim 2020 Bulut Çözümü Sağlayıcısı (CSP) yazılım abonelikleri fiyat listesi güncelleştirmeleri](2020-october.md#14)|26 Ekim|
