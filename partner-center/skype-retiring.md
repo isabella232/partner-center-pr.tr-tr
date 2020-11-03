@@ -1,0 +1,82 @@
+---
+title: Bazı Skype Kurumsal abonelikleri geçirin
+description: Süresi dolan Skype Kurumsal Çevrimiçi sürüm planı 1 abonelikleriyle belirli müşterileri yeni Office 365 sürümlerine nasıl ve ne zaman geçirebileceğinizi öğrenin.
+ms.topic: article
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
+author: BrentSerbus
+ms.author: brserbus
+ms.localizationpriority: medium
+ms.custom: SEOMAY.20
+ms.date: 06/03/2020
+ms.openlocfilehash: c9ad5b1c0671ff1d27d25c6f92499b72d77e6c22
+ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
+ms.translationtype: MT
+ms.contentlocale: tr-TR
+ms.lasthandoff: 09/02/2020
+ms.locfileid: "92531382"
+---
+# <a name="migrate-skype-for-business-online-plan-1-subscriptions-to-newer-office-365-versions"></a>Skype Kurumsal Çevrimiçi Plan 1 aboneliklerini yeni Office 365 sürümlerine geçirme
+
+**Uygulama hedefi**
+
+- İş Ortağı Merkezi
+
+Skype Kurumsal Çevrimiçi kullanım planı 1, 1 Ağustos 2018 ' ten itibaren kullanımdan kaldırılacaktır. Bu tarihten sonra müşteriler artık yeni Skype Kurumsal plan 1 abonelikleri satın almayabilir ve mevcut abonelikler, süreleri dolduğunda otomatik olarak yenilenmez ve bir yenileme seçeneği sağlamacaktır. Aboneliğin ayrıntı sayfasında, Skype Kurumsal Çevrimiçi kullanım planı 1 abonelik durumu "otomatik yenilemede [Tarih]" içinde "süresi doluyor" olarak değiştirilmiştir.  
+
+Müşterilerin devamlılığını sağlamak için, süresi dolan Skype Kurumsal çevrimiçi çalışma planı 1 aboneliklerine, aşağıda listelenen desteklenen bir SKU seçeneğine geçiş yapmanız gerekir. Müşterilerin hizmet kesintilerinden kaçınmak için, aboneliğin yıllık bitiş tarihinden önce müşterileri yeni aboneliklere taşımayı öneririz. 
+
+>[!NOTE]
+>Hem Skype Kurumsal Çevrimiçi kullanım planı 1 ticari hem de kamu SKU 'Ları devre dışı bırakıldı.
+
+API 'YI (CREST veya Partner Center) kullanıyorsanız, Otomatik Yenile = false özelliğiyle birlikte Aboneliğin bitiş tarihini değerlendirerek süresi dolan abonelikleri bulun. Skype Kurumsal çevrimiçi çalışma planı 1 abonelikleri, 1 Eylül 2018 ' de otomatik yenileme = false olarak ayarlanacak. Müşterileri dilediğiniz zaman yeni bir plana taşıyabilirsiniz. 
+
+## <a name="skype-for-business-online-plan-1-replacement-plans"></a>Skype Kurumsal Çevrimiçi için plan 1 yenileme planları
+
+Yeni planlarla, müşterileriniz Office 365 ' deki yeni özelliklerden ve işlevlerden yararlanabilir. Fiyatlandırma ayrıntıları, Iş Ortağı Merkezi 'nde fiyat listesi ve teklif listesi matrisinde bulunur. 
+
+- Seçenek 1: Office 365 Kurumsal F1
+- Seçenek 2: F1 Microsoft 365 Kurumsal
+- Seçenek 3: diğer Office 365 planları
+
+|**Özellik**    |**1\. Seçenek**   |**2\. Seçenek**   |**Seçenek 3**   |
+|:-----------------|:-----------------|:-------------|:------------|
+|Skype Kurumsal çevrimiçi çalışma planı 1 ' de bulunan tüm özellikleri alın|Evet   |Evet   |Evet   |
+|Anlık ileti ve varlık |Evet   |Evet   |Evet   |
+|Uçtan uca ses ve IP üzerinden video|Evet   |Evet   |Evet   
+|Toplantıları kimliği doğrulanmış bir kullanıcı olarak birleştirin| Evet   |Evet   |Evet   |
+
+## <a name="transition-customers-to-new-product-plans"></a>Müşterilerin yeni ürün planlarına geçişini sağlar
+
+Microsoft, iş ortaklarımız için sürekli olarak yeni ürün ve hizmetler sunar. Bu gibi durumlarda, müşterileri yeni hizmetlere yükseltmeniz veya sonunda kapatılacak SKU 'lardan aboneliklerini geçirmeniz gerekebilir. Müşterilerin Kullanımdan kaldırılmış SKU 'lardan daha yeni bir sürümüne geçirilmesi aşağıdaki adımları gerektirir:
+
+- Yeni aboneliği satın alın
+- Geçerli kullanıcı lisanslarını yeniden ata
+- Eski aboneliği iptal et
+
+### <a name="migrate-your-customers-to-new-plans"></a>Müşterilerinizi yeni planlara geçirin
+
+1. Yeni aboneliği satın almak için **Iş Ortağı Merkezi menüsünden** **müşteriler** ' i seçin, taşımak istediğiniz müşteriyi seçin ve ardından **Abonelik Ekle** ' yi seçin.
+
+2. Katalogdan satın almak istediğiniz aboneliği seçin (Bu durumda yukarıdaki seçeneklerden biri), lisansların sayısını girin ve ardından **Gönder** ' i seçin. 
+
+Müşterinizin artık eski ve yeni abonelikleri, eski Skype Kurumsal Çevrimiçi plan 1 aboneliğiniz ve yeni ' Target ' aboneliği olması gerekir. Örneğin, 1-Office 365 Kurumsal F1.
+
+3. Müşterinin kullanıcılarının lisanslarını yeniden atamak için **Iş Ortağı Merkezi** menüsünden **müşteriler** ' i seçin, taşıdığınız müşteriyi seçin ve ardından **Kullanıcılar ve lisanslar** ' ı seçin. Müşterinin kullanıcılar ve lisanslar sayfası açılır.
+
+4. Kullanıcı lisansını yeniden atamak için, yeniden atanacak kullanıcıyı seçin ve ardından **Lisansları Yönet** ' i seçin.
+
+5. **Lisansları Yönet** sayfasında, Skype Kurumsal Çevrimiçi plan 1 Lisansı onay kutusunu temizleyin ve müşterinin hareket ettirilmesi için kullanılacak abonelik için yeni bir hizmet planı seçin.
+
+6. **Gönder** ’i seçin. Bir onay sayfası yeni lisans atamalarını listeler. Lisans atamaları gerektiren diğer kullanıcılar için aynı işleme devam edin.
+
+Kullanıcı lisansını yeni hizmete taşıdıktan sonra, kullanımdan kaldırılan aboneliği müşteri düzeyinde güvenle iptal edebilirsiniz.
+
+7. **Iş Ortağı Merkezi** menüsünde **müşteriler** ' i seçin. Aboneliğini iptal ettiğiniz müşteriyi seçin.
+
+8. Abonelik Ayrıntıları sayfasında, aboneliği **askıya alındı** olarak ayarlayın.
+
+9. Gönder ' i seçin **.**
+
+Eski abonelik askıya alındı ve yeni abonelik etkin. Askıya alınan abonelik 120 gün sonra otomatik olarak sağlanacaktır. Müşteri, eski abonelik için ek maliyet içermez.
+

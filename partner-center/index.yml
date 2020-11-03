@@ -1,0 +1,113 @@
+### YamlMime:Landing
+title: İş Ortağı Merkezi Belgeleri
+summary: Microsoft İş Ortağı Ağı (MPN), Bulut Çözümü Sağlayıcısı (CSP) programı ve daha fazlasıyla işinizi İş Ortağı Merkezi'nde büyütün.
+metadata:
+  title: İş Ortağı Merkezi belgeleri
+  description: Microsoft İş Ortağı Ağı (MPN), Bulut Çözümü Sağlayıcısı (CSP) programı ve daha fazlasıyla işinizi İş Ortağı Merkezi'nde büyütün.
+  ms.service: partner-dashboard
+  ms.subservice: partnercenter-csp
+  ms.topic: landing-page
+  author: LauraBrenner
+  ms.author: labrenne
+  ms.date: 10/16/2020
+  ms.openlocfilehash: a10616a60e74de88c2f4fda37062275e47fb59bc
+  ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
+  ms.translationtype: HT
+  ms.contentlocale: tr-TR
+  ms.lasthandoff: 10/19/2020
+  ms.locfileid: "92526834"
+landingContent:
+- title: İş Ortağı Merkezi'ni kullanmaya başlama
+  linkLists:
+  - linkListType: get-started
+    links:
+    - text: İş Ortağı Merkezi duyuruları
+      url: announcements/index.md
+    - text: Microsoft ile iş ortaklığı yapma
+      url: mpn-overview.md
+    - text: İş Ortağı Merkezi hesabı oluşturma
+      url: mpn-create-a-partner-center-account.md
+    - text: MPN üyelik avantajlarınızı ve tekliflerinizi yönetme
+      url: manage-your-partner-network-benefits.md
+    - text: Yetkinlikler hakkında bilgi edinin
+      url: learn-about-competencies.md
+- title: İşlerinizi büyütme
+  linkLists:
+  - linkListType: concept
+    links:
+    - text: Müşterilerinizle bağlantı kurma
+      url: connect-with-your-customers.md
+    - text: Bulut Çözümü Sağlayıcısı (CSP) programı
+      url: csp-overview.md
+    - text: Müşteri referansları alma
+      url: manage-leads.md
+    - text: Teşvikler programları
+      url: incentives-get-started-intro.md
+    - text: Ortak satış fırsatlarını yönetme
+      url: manage-co-sell-opportunities.md
+    - text: Gelişmiş uzmanlaşma kazanma
+      url: advanced-specializations.md
+- title: Temel kavramlar ve görevler
+  linkLists:
+  - linkListType: concept
+    links:
+    - text: İş Ortağı Merkezi güvenlik gereksinimleri
+      url: partner-security-requirements.md
+    - text: İş profili oluşturma
+      url: create-a-marketing-profile.md
+    - text: Azure planına giriş
+      url: azure-plan-lp.md
+    - text: Microsoft’tan destek alma
+      url: support-from-microsoft.md
+  - linkListType: how-to-guide
+    links:
+    - text: MPN hesap konumlarınızı yönetme
+      url: manage-locations.md
+    - text: MPN tekliflerinizi yenileme
+      url: renew-mpn-offers.md
+    - text: MPN avantajlarınızı bulma
+      url: mpn-find-benefits.md
+    - text: Rolünüzü bulma
+      url: find-your-role.md
+- title: Hesaplar ve faturalandırma
+  linkLists:
+  - linkListType: how-to-guide
+    links:
+    - text: İş Ortağı Merkezi hesabınızı yönetme
+      url: partner-center-account-setup.md
+    - text: Kullanıcılara rol ve izin atama
+      url: permissions-overview.md
+    - text: Kullanıcıları ve kullanıcı lisanslarını yönetme
+      url: assign-licenses-to-users.md
+    - text: Fatura temel bilgileri
+      url: billing-basics.md
+    - text: Ödeme hesabınızı ve vergi formlarınızı ayarlama
+      url: set-up-your-payout-account.md
+    - text: Faturanızı anlama
+      url: read-your-bill.md
+- title: Geliştirici kaynakları
+  linkLists:
+  - linkListType: reference
+    links:
+    - text: İş Ortağı Merkezi API'si ve SDK Erken Benimseyen Programı'na katılma
+      url: /partner-center/develop/early-adopter-program
+    - text: İş Ortağı Merkezi geliştirici belgeleri
+      url: /partner-center/develop
+    - text: İş Ortağı Merkezi REST API'si referansı
+      url: /partner-center/develop/partner-center-rest-api-reference
+    - text: İş Ortağı Merkezi .NET API'si referansı
+      url: /dotnet/api/?view=partnercenter-dotnet-latest&preserve-view=true
+    - text: Java için İş Ortağı Merkezi SDK'sı
+      url: /java/partnercenter/overview
+    - text: İş Ortağı Merkezi PowerShell
+      url: /powershell/partnercenter/overview
+- title: Ticari markette (ISV'ler) satış yapma
+  linkLists:
+  - linkListType: concept
+    links:
+    - text: Ticari market belgeleri
+      url: /azure/marketplace
+    - text: Microsoft ticari market nedir?
+      url: /azure/marketplace/overview
+    - text: Yayımlama seçeneklerinizi belirleme
+      url: /azure/marketplace/determine-your-listing-type

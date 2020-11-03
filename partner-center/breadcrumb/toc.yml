@@ -1,0 +1,7 @@
+- name: İş Ortağı Merkezi Belgeleri
+  tocHref: /partner-center/
+  topicHref: /partner-center/index
+  items:
+    - name: Duyurular
+      tocHref: /partner-center/announcements/
+      topicHref: /partner-center/announcements/

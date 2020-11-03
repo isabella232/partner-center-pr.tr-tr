@@ -1,0 +1,114 @@
+---
+title: Müşterileri geçerli Azure tekliflerden Azure planına taşıyın
+ms.topic: how-to
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
+description: CSP iş ortaklarının, müşterileri mevcut CSP Azure tekliflerden Azure planı kapsamındaki Azure hizmetlerine taşımak için Iş Ortağı Merkezi 'ni nasıl kullanabileceğinizi öğrenin.
+author: mowree
+ms.author: mowrim
+ms.localizationpriority: high
+ms.custom: SEOMAY.20
+ms.date: 06/16/2020
+ms.openlocfilehash: 5390e950689e930b246aaaddcb1a9ef1b1ab6d46
+ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.translationtype: MT
+ms.contentlocale: tr-TR
+ms.lasthandoff: 09/22/2020
+ms.locfileid: "92531634"
+---
+# <a name="transition-customers-to-azure-plan-from-existing-csp-azure-offers"></a>Mevcut CSP Azure tekliflerden müşterilerin Azure planına geçiş yapın
+
+**Uygun roller**
+
+- Yönetim Aracısı
+- Faturalama yöneticisi
+- Genel yönetici
+- Yardım Masası Aracısı
+- Satış Aracısı
+- Kullanıcı Yönetimi Yöneticisi
+
+Dolaylı sağlayıcılar ve doğrudan fatura ortakları, Azure için Microsoft Bulut Service Provider programında (CSP) bulunan yeni ticari deneyime geçiş yapabilir. (Dolaylı satıcıların dolaylı sağlayıcıları aracılığıyla çalışması gerekir.) Müşteriler, iş ortakları, Microsoft satıcıları veya doğrudan Web üzerinden satın alma, bulut hizmetleri satın almak için kolaylaştırılmış bir yönteme sahip olacaktır.
+
+Geçiş özelliği yalnızca Azure için yeni ticari deneyim ve Microsoft Müşteri anlaşmasını imzalayan ve Office 365 ya da Dynamics 365 gibi CSP 'deki diğer teklifleri içermeyen müşteriler içindir.
+
+## <a name="transition-existing-csp-offers-to-an-azure-plan"></a>Mevcut CSP tekliflerinin bir Azure planına geçişini sağlar
+
+Mevcut CSP Azure tekliflerinden bir müşteriyi, Iş Ortağı Merkezi ' nden CSP programındaki yeni ticaret deneyiminde Azure planı kapsamındaki Azure Hizmetleri ' ne getirebilirsiniz. Bunu yapmak için iş ortağı ve müşterinin Iş Ortağı Merkezi aracılığıyla kurulu bir satıcı ilişkisi olması ve müşterinin Microsoft Müşteri anlaşmasını imzalamış olması gerekir.
+
+### <a name="select-transition-to-azure-plan"></a>Azure planına geçişi seçin
+
+1. Müşteriniz için Azure planı ' nı seçin.
+
+2. **Azure planına geçiş faturalandırma** ' i seçin.
+
+   :::image type="content" source="images/azure/transition1.png" alt-text="Kullanım tabanlı abonelikler rapor bilgilerini, seçilebilir bir seçenekle gösteren ekran görüntüsü: Azure aboneliği ile Azure planına geçiş geçişi.":::
+
+3. **Devam** 'ı seçin
+
+   :::image type="content" source="images/azure/transition2.png" alt-text="Kullanım tabanlı abonelikler rapor bilgilerini, seçilebilir bir seçenekle gösteren ekran görüntüsü: Azure aboneliği ile Azure planına geçiş geçişi.":::
+
+   Müşteriniz Azure planına geçirilir.
+
+   **Geçiş iş akışı, önkoşul adımlarını otomatik hale getirir** :
+
+   - Azure planı satın alma
+   - Doğrudan CSP senaryolarında müşteri başına bir plan  
+   - Satıcı başına bir plan  
+
+   Bir örnek için, bir iş ortağı iki Microsoft Azure teklifi satın almış ve satın alma sırasında iki ayrı POR içerir. Bu durumda, geçiş iş akışı iki Azure planı (satıcı başına bir tane) satın alacak ve Azure planlarındaki ilgili Azure aboneliklerini otomatik olarak eşleyebilir.  
+
+   **Azure aboneliğini Azure planına eşleme**
+
+   Azure planı satın aldıktan sonra sistemimiz mevcut Azure aboneliklerini Azure planlarına eşleyebilir. İlerleme, Iş Ortağı Merkezi 'nin yanı sıra Azure portal de görüntülenebilir.
+
+4. Kendi yerel para birimini kullanarak bütçe limitini güncelleştirmek için müşterinizin Iş Ortağı Merkezi **abonelikleri** sayfasına dönün.
+
+   :::image type="content" source="images/azure/transition3.png" alt-text="Kullanım tabanlı abonelikler rapor bilgilerini, seçilebilir bir seçenekle gösteren ekran görüntüsü: Azure aboneliği ile Azure planına geçiş geçişi.":::
+
+   >[!NOTE]
+   >Iş Ortağı Merkezi 'nde ayarladığınız bütçe Azure portal üzerinden taşınmaz. Ayrıca, Azure portal de bütçesini ve uyarıyı ayarlamanız gerekir.
+
+   Azure planına geçtiğinizde, artık bu müşteri için Azure abonelikleri satın alınmaz. Abonelikleri Azure portal Azure planı altında oluşturursunuz.
+
+   >[!NOTE]
+   > Azure planı kapsamındaki RBAC aracılığıyla satın alınan tüm Azure abonelikleri, yerel para birimiyle fiyatlandırılır ve faturalandırılır. FX ücretleri kullanılmaz.
+
+### <a name="track-your-transition-details"></a>Geçiş ayrıntılarınızı izleyin
+
+Azure portal ve Iş Ortağı Merkezi 'nde geçiş ilerlemesini izleyin.
+
+:::image type="content" source="images/azure/details1.png" alt-text="Kullanım tabanlı abonelikler rapor bilgilerini, seçilebilir bir seçenekle gösteren ekran görüntüsü: Azure aboneliği ile Azure planına geçiş geçişi.":::
+
+### <a name="billing-impact-to-partners"></a>İş ortaklarına faturalandırma etkisi
+
+Bir müşteriyi mevcut bir CSP Azure teklifinden geçirirsiniz, aşağıdaki faturalandırma etkileri olur:
+
+- Özgün CSP Azure aboneliğinden çıkma noktasına kadar tüm kullanımlar için mevcut CSP faturanızda faturalandırılırsınız.
+
+- Mevcut CSP aboneliğine yönetici erişimi haklarınız varsa, bu abonelik geçirildiğinde erişime sahip olmaya devam edersiniz.
+
+Doğrudan kurumsal sözleşmeleri CSP 'ye ve sunucu ve bulut kayıtlarını Azure hizmetlerine geçirmeye yönelik olarak, [Microsoft Iş ortağı sözleşmesi Için Azure aboneliklerinin fatura sahipliğini alma](/azure/billing/mpa-request-ownership) konusunu okuyun
+
+### <a name="audit-log"></a>Denetim günlüğü
+
+Faturalandırmayı mutabık kılmak için **abonelikler** sayfasında "Microsoft Azure" (0145P) aboneliklerinizin geçmişini görüntüleyin.
+
+"Microsoft Azure" (0145P) abonelik iki bölümden oluşur:
+
+1. Ticari abonelik
+2. Azure aboneliği (yetkilendirme)
+
+Geçiş tamamlandığında, Azure aboneliği yeni Azure planı altına taşınır ve daha fazla kullanım raporlanmayacak şekilde ticari abonelik askıya alınır.  
+
+>[!NOTE]
+>CSP 'de Microsoft Azure (0145P) aboneliği satın alındığında hem ticari abonelik hem de Azure aboneliği (yetkilendirme) aynı değere sahiptir. Yalnızca faturalandırma sahipliği değişiklikleri veya aktarımları söz konusu olduğunda değerler farklılık gösterir.
+
+### <a name="transition-issues"></a>Geçiş sorunları
+
+Geçiş sırasında herhangi bir sorunu tahmin etmedik. Bir durum oluşursa, sizi geçiş iş akışının kendisinde güncelleştireceğiz. Azure kullanımına yönelik bir sorun olmayacaktır.  
+
+## <a name="next-steps"></a>Sonraki adımlar
+
+- [Azure planı kapsamındaki abonelikleri ve kaynakları yönetme](azure-plan-manage.md)
+
+- [İş ortağı kazanılmış kredi-genel bakış](partner-earned-credit.md)
