@@ -6,12 +6,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.custom: seodec18
 ms.date: 06/12/2020
-ms.openlocfilehash: 26912daeae6648d49d1fda3ee148d46c8a3d6705
-ms.sourcegitcommit: b4771fd0781d95551e65baa481a572291c729d7d
+ms.openlocfilehash: 47827b6aa3bb9853355a6e2fa4f8816e1dd701a1
+ms.sourcegitcommit: 7f595faf952bf2d6cdc229da38bd67ee701b2083
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "92795840"
+ms.lasthandoff: 11/02/2020
+ms.locfileid: "93189756"
 ---
 # <a name="merge-your-partner-account-with-another-partner-account"></a>İş ortağı hesabınızı başka bir iş ortağı hesabıyla birleştirme
 
@@ -98,18 +98,28 @@ Hesapları birleştirme davetini kabul etme kararı verirseniz: · MPN KIMLIĞIN
   
     b. bir Azure AD kiracısı = @contoso.com
  
-    c. 1. Ekim 2020 ' de sona erecek bir altın uzmanlık
+    c. 1 Ekim 2020 ' de sona erecek bir altın uzmanlık
 2. Fabrichar
  
     a.  Genel MPN KIMLIĞI 3333333 ve iki alt konum MPN kimliği 4444444 ve 5555555
 
-    b.  bir AAD kiracısı = @fabricam.com
+    b.  bir Azure AD kiracısı = @fabricam.com
 
     c.  1 Aralık 2020 ' de sona ermek üzere iki adet altın uzmanlık
-3.  Contoso, Fabricm 'yi satın alarak birleştirme isteği başlatmak için [buraya](https://partner.microsoft.com/dashboard/account/merger) gider
+3.  Contoso, Fabricm 'yi satın alarak birleştirme isteği başlatmak için [buraya](https://partner.microsoft.com/dashboard/account/merger) gider.
 4.  Fabricm, Iş Ortağı Merkezi 'nde oturum açar ve contoso isteğini onaylamak için #3 adımında contoso ile aynı sayfaya gider.
 5.  Contoso, birleştirme ayrıntılarını aynı sayfada inceler ve hesap birleşmesine devam etmek için onay sağlar.
+6.  Merkli sonrasında şirket hesabı şöyle görüntülenecektir:
+
+    a.  1111111, 2222222, 3333333, 4444444 ve 5555555 genel MPN KIMLIĞINE sahip contoso adlı bir şirket, ve 4 alt konum MPN kimliği
     
+    b.  @contoso.com @fabricam.com Aynı Iş Ortağı Merkezi hesabına erişimi olan ıkı Azure AD kiracısından (+) sahip olacaktır
+    
+    c.  1 Ekim 2020 ' de süresi dolan diğeri 1 Aralık 2020 süresi dolan iki uzmanlık avantajı paketine sahip olacaktır. 1 Aralık 2020 ' de tek bir uzmanlık avantajları paketi olarak yenileyebilecektir. Her yenilediklerinde, contoso yalnızca tek bir avantaj paketini koruyabilse de üç uzmanlığın tümünü korur.
+    
+7.  Contoso yöneticileri, kullanıcıları için Iş Ortağı Merkezi rollerini yönetmeye devam edecektir @contoso.com . Fabricm 'nin yöneticileri, Iş Ortağı Merkezi rollerini kullanıcıları için yönetmeye devam edecektir @fabricam.com . Contoso yöneticileri, yalnızca fabric's kiracısına Konuk olarak davet edildiklerinde Fabric's kullanıcılarını yönetebilir.
+8.  Contoso, kiracıyı yok saymaya karar verebilir @fabricam.com ve @contoso.com Yeni roller ve izinlerle Fabric, çalışanlar yeni kimlik bilgilerini yeniden verebilir.
+
 ## <a name="next-steps"></a>Sonraki adımlar
 
 - [Kullanıcı rollerini ve izinlerini atama](permissions-overview.md)

@@ -1,19 +1,19 @@
 ---
 title: Teşvikleri ödeme ve vergi profili SSS
 ms.topic: article
-ms.date: 10/22/2020
+ms.date: 10/27/2020
 description: Teşvikleri ödeme ve vergi profilleri hakkında sık sorulan sorular. Sorular, ödeme ve vergi profillerinizi neden göremediğiniz ve bunun hakkında ne yapacaklarınızın yanı sıra bu nedir?
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: f4335bc77acf0e73092de0441cc6254b11c62bb3
-ms.sourcegitcommit: a46ab876baf681c2fa4f9a2876d29c2ba4aad648
+ms.openlocfilehash: 7fae97fb1a527ab557d76bd3b5fd738315271899
+ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/23/2020
-ms.locfileid: "92532230"
+ms.lasthandoff: 10/31/2020
+ms.locfileid: "93133142"
 ---
 # <a name="frequently-asked-questions-regarding-incentives-payout-and-tax-profiles"></a>Teşvikleri ödeme ve vergi profilleri hakkında sık sorulan sorular
 
@@ -26,32 +26,6 @@ Uygun roller:
 - Teşvikleri Yöneticisi
 - Hesap yöneticisi
 - Genel yönetici
-
-## <a name="my-tax-profile-has-expired-how-do-i-fix-this"></a>Vergi Profilimin süresi doldu. Bu Nasıl yaparım? düzeltilsin mi?
-
-Bir vergi profilinin kullanım süresini dolmuşsa veya kullanım süreleri dolarsa, Microsoft 'a verdiğiniz vergi formunun güncelleştirilmesi gerekir. Vergi profillerini düzenlemek için aşağıdaki yordamı kullanın:
-
-1. [İş Ortağı Merkezi panosunda](https://partner.microsoft.com/dashboard/) oturum açın.
-
-2. Dişli simgesini seçerek **Ayarlar** menüsünü açın.
-
-3. **Hesap ayarları** ’nın altında **Ödeme ve vergi** ’yi seçin ve sonra da **Ödeme ve vergi profili** ’ni seçin.
-
-4. **Vergi profilini** seçin.
-
-5. **Sona erme tarihi** sütununu seçin ve ardından süresi dolan veya süresi dolan vergi profiline gidin.
-
-6. Vergi profili düzenleme işlemini başlatmak için **Düzenle** ' yi seçin.
-
-7. Gerekli ayrıntıları sağlayarak vergi formlarını güncelleştirin.
-
-## <a name="how-does-microsoft-ensure-that-the-bank-information-is-indeed-that-of-the-company-and-not-a-personal-bank-account-for-an-employee"></a>Microsoft, banka bilgilerinin bir çalışana ait kişisel banka hesabı değil, şirketin şirket için mi olduğunu nasıl güvence altına veriyor?
-
-Bu bilgileri düzenleme izinlerine sahip olan teşvikleri admin-bu rolün yalnızca uygun çalışanlara verilmemesini sağlamak şirketin sorumluluğundadır.
-
-## <a name="can-i-use-the-same-bank-and-tax-details-for-all-incentive-programs-at-microsoft"></a>Microsoft 'un tüm teşvik programları için aynı banka ve vergi ayrıntılarını kullanabilir miyim?
-
-Şirketiniz birden çok teşvik programı için davet edilse, tüm teşvik programları için aynı ödeme hesabını kullanabilir veya farklı programlar için farklı ödeme hesapları seçebilirsiniz.
 
 ## <a name="why-do-i-need-to-provide-my-payout-andor-tax-details"></a>Neden ödeme ve/veya vergi ayrıntılarımı sağlamam gerekir?
 
@@ -94,6 +68,32 @@ Bir MPN konumu için oluşturulan vergi profilleri, aynı MPN konumu başka bir 
 ## <a name="im-only-able-to-sign-in-with-my-onmicrosoftcom-domain-what-should-i-do"></a>Yalnızca etki alanım ile oturum açabiliyorum @onmicrosoft.com . Ne yapmalıyım?
 
 AAD hesabına başka etki alanları eklemek için Hesap yöneticinize başvurun.
+
+## <a name="my-tax-profile-has-expired-how-do-i-fix-this"></a>Vergi Profilimin süresi doldu. Bu Nasıl yaparım? düzeltilsin mi?
+
+Bir vergi profilinin kullanım süresini dolmuşsa veya kullanım süreleri dolarsa, Microsoft 'a verdiğiniz vergi formunun güncelleştirilmesi gerekir. Vergi profillerini düzenlemek için aşağıdaki yordamı kullanın:
+
+1. [İş Ortağı Merkezi panosunda](https://partner.microsoft.com/dashboard/) oturum açın.
+
+2. Dişli simgesini seçerek **Ayarlar** menüsünü açın.
+
+3. **Hesap ayarları** ’nın altında **Ödeme ve vergi** ’yi seçin ve sonra da **Ödeme ve vergi profili** ’ni seçin.
+
+4. **Vergi profilini** seçin.
+
+5. **Sona erme tarihi** sütununu seçin ve ardından süresi dolan veya süresi dolan vergi profiline gidin.
+
+6. Vergi profili düzenleme işlemini başlatmak için **Düzenle** ' yi seçin.
+
+7. Gerekli ayrıntıları sağlayarak vergi formlarını güncelleştirin.
+
+## <a name="how-does-microsoft-ensure-that-the-bank-information-is-indeed-that-of-the-company-and-not-a-personal-bank-account-for-an-employee"></a>Microsoft, banka bilgilerinin bir çalışana ait kişisel banka hesabı değil, şirketin şirket için mi olduğunu nasıl güvence altına veriyor?
+
+Bu bilgileri düzenleme izinlerine sahip olan teşvikleri admin-bu rolün yalnızca uygun çalışanlara verilmemesini sağlamak şirketin sorumluluğundadır.
+
+## <a name="can-i-use-the-same-bank-and-tax-details-for-all-incentive-programs-at-microsoft"></a>Microsoft 'un tüm teşvik programları için aynı banka ve vergi ayrıntılarını kullanabilir miyim?
+
+Şirketiniz birden çok teşvik programı için davet edilse, tüm teşvik programları için aynı ödeme hesabını kullanabilir veya farklı programlar için farklı ödeme hesapları seçebilirsiniz.
 
 ## <a name="next-steps"></a>Sonraki adımlar
 

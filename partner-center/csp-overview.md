@@ -1,7 +1,7 @@
 ---
 title: Bulut çözümü sağlayıcısı programına genel bakış
 ms.topic: article
-ms.date: 10/28/2020
+ms.date: 10/29/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: İşletmenizin yeni müşterilerle ve yeni uzmanlığa karşı büyümesini sağlamak için bulut çözümü sağlayıcısı (CSP) programındaki avantajlar ve farklı modeller hakkında daha fazla bilgi edinin.
@@ -9,21 +9,20 @@ author: billlinzbach
 ms.author: billLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9780fe0b90a4889fca1f3a887c445a75b1549eaa
-ms.sourcegitcommit: 1840767efa4c5de41889bc9245567cf286a084c8
+ms.openlocfilehash: f72a4cffaa8557e7e8f56dd2253c99449e3a696d
+ms.sourcegitcommit: 7dd8aa793922160102a7a6aaca2c7e8f9a49b8a9
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "92917204"
+ms.lasthandoff: 10/30/2020
+ms.locfileid: "93045407"
 ---
 # <a name="cloud-solution-provider-program"></a>Bulut çözümü sağlayıcısı programı 
 
-**Uygulama hedefi**
+**Şunlara uygulanır**
 
 - İş Ortağı Merkezi
 
-
-Bu makale, bulut çözümü sağlayıcısı (CSP) programına genel bir bakış sağlar ve farklı işlem modellerinin ve gereksinimlerinin yanı sıra bu programda satıma hakkında diğer ayrıntıları da açıklar.  CSP programı, müşterilerinizin işletmelerinde, lisansların yeniden satılmasının ötesinde daha fazla bilgi almanıza yardımcı olur ve aşağıdaki avantajları de içerebilir: 
+Bu makale, bulut çözümü sağlayıcısı (CSP) programına genel bir bakış sağlar ve farklı işlem modellerinin ve gereksinimlerinin yanı sıra bu programda satıma hakkında diğer ayrıntıları da açıklar.  CSP programı, müşterilerinizin işletmelerinde daha fazla yer sağlamanıza yardımcı olur ve lisansları yeniden satmadan, ve aşağıdaki avantajları içerebilir: 
 
 - Daha derin müşteri görevlendirmeleri: müşterilerinizle düzenli olarak toplantı, iş ve ihtiyaçlarını daha iyi anlayabileceğiniz anlamına gelir.
 - Daha fazla kazanç: kendi kendinize veya dolaylı bir sağlayıcı aracılığıyla daha fazla destek ve faturalandırma hizmeti sunma, yeni gelir akışları açar.  
@@ -32,35 +31,33 @@ Bu makale, bulut çözümü sağlayıcısı (CSP) programına genel bir bakış 
 
 ## <a name="which-csp-model-is-best-for-me"></a>Benim için hangi CSP modeli en iyisidir?
 
-### <a name="direct-bill-model"></a>Doğrudan fatura modeli
-
- Doğrudan fatura modelinde, iş ortakları Microsoft ürünlerini ve aboneliklerini doğrudan Microsoft 'tan satın alabilir ve şirket içi satış personeli aracılığıyla müşterilerine doğrudan müşterilere satış sağlar. Zaten çalışan veya geliştirmeye yönelik iş ortakları, uygun satış, faturalandırma ve destek altyapısı, CSP doğrudan modelini seçebilirler. Yakın zamanda iş ortağı olmaya yönelik gereksinimler değiştirilmiştir ve 31 Ağustos 2018 itibariyle devreye girer. Doğrudan iş ortaklarının, 31 Ağustos 2018 ' den sonraki kayıt dönemlerinden itibaren yeni gereksinimleri karşılaması gerekir.
-
-#### <a name="new-expanded-requirements"></a>Yeni genişletilmiş gereksinimler
-
-Destek
-
-- Microsoft 'un gelişmiş destek ortağı paketi ile tek bir, öncelikli bir bulut desteği satın alarak destek yeteneklerinizi genişletin. Ya da, proaktif hizmetlerin tam kataloğuna, 24/7 yükseltilmiş kesme/onarım desteğine ve bulut, karma ve şirket içinde teknik hesap yönetimine erişmek için bir Microsoft Premier Destek Iş ortağı paketi seçin.
-
-Gelir
-
-- Dolaylı bir satıcı olarak önceki on iki ay boyunca en az USD300K bulut çözümü sağlayıcısı program yıllık geliri ile Buluşmalıdır. İş ortakları, son on iki aylık gelir Iş Ortağı Merkezi 'nde gözden geçirebilir. en on iki aylık geliri oluşturan Sales, Microsoft tarafından incelenmek ve doğrulanmalıdır ve ek bilgi sağlamanız istenebilir. USD300K gelir gereksinimi, bulut gelirine göre hesaplanır ve CSP 'de kalıcı yazılımları hariç bırakır.
-
-Hizmetler
-
-- En az bir yönetilen hizmet, IP hizmeti veya müşteri çözümü uygulaması sağlabileceğinizi gösterir. 
-
-- Faturalandırma ve sağlama gibi en düşük altyapı yeteneklerini karşılayın. Bu gereksinimleri karşılayan doğrudan fatura iş ortaklarının sürekli iş büyümesini yönlendirdiğini onaylamak için yıllık performansı izliyoruz. Şu anda belirli bir performans hedefi yoktur, ancak Microsoft bir performans çubuğunu gelecekte uygulayabilir.
-
-- Satmak istediğiniz konum için etkin bir Microsoft İş Ortağı Ağı (MPN) KIMLIĞI
-
 ### <a name="indirect-model"></a>Dolaylı model
 
-Dolaylı modelde, (dağıtıcılar olarak da bilinir) sağlayıcılar, Microsoft ürünlerini ve aboneliklerini doğrudan Microsoft 'tan satın alabilir, ancak dolaylı satıcıların bir ağı aracılığıyla müşterilere satış sağlar. CSP 'de dolaylı bir satıcı olarak kaydolma önkoşulları şunlardır:
+Microsoft, bulut çözümü sağlayıcısı programına katılan tüm iş ortaklarının, işletmelerini büyütmeye yönelik en iyi modeli bulmasına yardımcı olur. Microsoft, iş ortaklarının bulut işletmelerini bulut çözümü sağlayıcısı programında başarıyla büyütmesine yardımcı olan bir genel dolaylı sağlayıcılar ağı oluşturdu. Dolaylı bir satıcı olarak katılarak, en aza küçültülmüş işlemsel karmaşıklık sayesinde pazara hazır olursunuz. 
 
-- Satmak istediğiniz konum için etkin bir Microsoft İş Ortağı Ağı (MPN) KIMLIĞI
+Dolaylı bir satıcı olarak, müşteri ilişkinizi yönetmenize yardımcı olacak araçlar ve kaynaklar sağlayabilen dolaylı sağlayıcılarla çalışabilirsiniz. Dolaylı modelle, müşteri desteği ve faturalandırma için sizinle işbirliği yapabileceğiniz bir dolaylı sağlayıcıdan satın alabilirsiniz.
+İhtiyacınız olacak: 
+
+- Microsoft İş Ortağı Ağı ve MPN KIMLIĞINDE, satmak istediğiniz konum için etkin bir üyelik.
 - Kuruluşunuz adına yasal sözleşmeleri imzalama özelliği
-- [Resmi Microsoft sağlayıcısıyla](https://partnercenter.microsoft.com/partner/find-a-provider) ilişki
+- Bulut çözümü sağlayıcısı programındaki [Resmi Microsoft dolaylı sağlayıcısıyla](https://partnercenter.microsoft.com/partner/find-a-provider) ilişki
+
+### <a name="direct-bill-model"></a>Doğrudan fatura modeli
+
+Doğrudan fatura modelinde, iş ortakları Microsoft ürünlerini ve aboneliklerini doğrudan Microsoft 'tan satın alabilir ve şirket içi satış personeli aracılığıyla müşterilerine doğrudan müşterilere satış sağlar. Zaten çalışan veya geliştirmeye yönelik iş ortakları, uygun satış, faturalandırma ve destek altyapısı doğrudan modeli seçebilir. 27 Ekim 2020 itibariyle doğrudan fatura ortakları için kayıt gereksinimlerini güncelleştirdik.
+
+#### <a name="requirements"></a>Gereksinimler
+
+Bulut çözümü sağlayıcısı programında doğru model ile daha fazla karlı bir işi nasıl oluşturup genişletebileceğiniz hakkında daha fazla bilgi için güncelleştirilmiş doğrudan fatura kayıt gereksinimlerini ve önerilerini gözden geçirin:  
+
+- **Destek:** Microsoft 'un gelişmiş destek ortağı paketi ile tek bir, öncelikli bir bulut desteği satın alarak destek yeteneklerinizi genişletin. Ya da, proaktif hizmetlerin tam kataloğuna, 24/7 yükseltilmiş kesme/onarım desteğine ve bulut, karma ve şirket içinde teknik hesap yönetimine erişmek için bir Microsoft Premier Destek Iş ortağı paketi seçin. Destek yükümlülüğünüzü anlamak için Microsoft Iş ortağı Sözleşmesi ' ni gözden geçirin
+- **Performans gereksinimi:** Önceki on iki ay boyunca dolaylı bir satıcı olarak en az USD300K bulut çözümü sağlayıcısı programı yıllık gelir içerdiğinden emin olun. İş ortakları, izleyen on iki aylık geliri Iş Ortağı Merkezi 'nde gözden geçirebilir. USD300K son on iki aylık geliri oluşturan satış, Microsoft tarafından incelenmek ve doğrulanmasıdır ve ek bilgi sağlamanız istenebilir. USD300K gelir gereksinimi, bulut gelirine göre hesaplanır ve CSP 'de kalıcı yazılımları hariç bırakır.
+- Faturalandırma ve sağlama gibi en düşük altyapı yeteneklerini karşılayın
+- Microsoft İş Ortağı Ağı ve MPN KIMLIĞINDE, satmak istediğiniz konum için etkin bir üyelik.
+
+#### <a name="recommendations"></a>Öneriler
+
+- **Temel özellikleri gösterir:** En az bir yönetilen hizmet, IP hizmeti veya müşteri çözümü uygulaması sağlabileceğinizi gösterir. [Yönetilen hizmetler ekleme hakkında daha fazla bilgi edinin](https://partner.microsoft.com/solutions/managed-services). 
 
 ## <a name="where-can-i-sell-through-the-csp-program"></a>CSP programını nereden satabilirim?
 

@@ -46,13 +46,15 @@
       items:
         - name: Yetkinlikler hakkında bilgi edinin
           href: learn-about-competencies.md
+        - name: Yetkinlikler hakkında SSS
+          href: competencies-faq.md
         - name: Uygulama Geliştirme yetkinlik istisnası
           href: app-dev-isv.md
     - name: Gelişmiş uzmanlıklar
       href: advanced-specializations.md
     - name: Azure Uzman MSP olma
       href: azure-expert-msp.md
-    - name: Yararları
+    - name: Avantajlar
       items:
         - name: Avantajlara genel bakış
           href: manage-your-partner-network-benefits.md
@@ -521,7 +523,7 @@
           items:
             - name: Azure kullanımı
               href: pci-azure-usage-report.md
-            - name: Yararları
+            - name: Avantajlar
               href: pci-benefits-report.md
             - name: CloudAscent eğilimi
               href: pci-customer-opportunities.md

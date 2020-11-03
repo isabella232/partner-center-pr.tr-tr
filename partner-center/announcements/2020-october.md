@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 10/14/2020
-ms.openlocfilehash: 144ca69d3ea52921351d84dae40d007a976ddf73
-ms.sourcegitcommit: f5aebd9f8b56f79f758c97048f298a04d8fb55be
+ms.openlocfilehash: 453d6e130a6c563e7aac23cef1c7a91f8125fd9c
+ms.sourcegitcommit: 13248a782fe6854909a2f1ed3eb6d9d0f2cb5a67
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/22/2020
-ms.locfileid: "92532226"
+ms.lasthandoff: 10/27/2020
+ms.locfileid: "92749731"
 ---
 # <a name="october-2020-announcements"></a>Ekim 2020 duyuruları
 
@@ -22,6 +22,71 @@ Bu sayfa, 2020 Ekim 'e yönelik Microsoft Iş Ortağı Merkezi bildirilerini ayr
 
 2020 Duyurular: [March](2020-march.md)  |  [Nisan](2020-april.md)Mart  |  [,](2020-may.md)  |  Eylül ayında[Haziran](2020-june.md)  |  [ayı](2020-july.md)  |  [August](2020-august.md)  |  [September](2020-september.md) | 'Den
 
+________________________________
+
+## <a name="introducing-a-performance-standard-for-direct-bill-partner-requirements-in-the-cloud-solution-provider-csp-program"></a><a name="13"></a>Bulut çözümü sağlayıcısı (CSP) programındaki doğrudan fatura ortağı gereksinimleri için bir performans standardı tanıtma
+
+### <a name="categories"></a>Kategoriler
+
+- Tarih: 2020-10-27
+- Özellikler
+ 
+### <a name="summary"></a>Özet
+
+Bulut çözümü sağlayıcısı programındaki doğrudan fatura ortağı gereksinimlerinin bir parçası olarak bir performans standardı tanıtıyoruz.
+
+### <a name="impacted-audience"></a>Etkilenen hedef kitle
+
+Bulut çözümü sağlayıcısı programında doğrudan fatura ortakları.
+
+### <a name="details"></a>Ayrıntılar
+
+Microsoft Bulut çözüm sağlayıcısı programını büyüyen ve en iyi duruma getirmek, iş ortakları ve müşteriler için yeni bir ticari deneyime giden yolculuğun önemli bir parçasıdır. Bu nedenle, programın müşterilerin değişen ihtiyaçlarını karşılayacak şekilde gelişmeye devam edeceğiz ve iş ortaklarımız için en verimli ve karlı bir deneyim sağlar.
+
+Bugün, bulut çözümü sağlayıcısı programındaki doğrudan fatura ortakları için gereksinimlerde yapılan birkaç değişikliği paylaşıyoruz.
+
+İlk olarak, **doğrudan fatura ortağı gereksinimlerinin bir parçası olarak bir performans standardı tanıtıyoruz** . Bulut çözümü sağlayıcısı programına doğrudan fatura ortakları olarak kaydetmek isteyen iş ortakları, [gerekli destek sözleşmesi](https://partner.microsoft.com/support/partnersupport) yenileme tarihinden önce 12 ay boyunca bulut çözümü sağlayıcısı program gelirine en az USD300K karşılamalıdır.
+
+Bu performans standardı, geçerli doğrudan fatura ortakları için Ocak 2021 ' de yürürlüğe girer ve iş ortağı destek planı yenileme tarihi ile ilgili gereksinimleri karşılamanız gerekecektir.
+
+Güncelleştirilmiş doğrudan fatura ortağı gereksinimlerini karşılayamaz veya bunu tercih edemediyseniz, bulut çözümü sağlayıcısı programında dolaylı bir satıcı olarak yeniden kaydetmeniz gerekir. 
+
+Bu yeni gelir gereksinimi, bulut çözümü sağlayıcısı programındaki iş ortaklarının, daha net bir performans standardı ile doğru model aracılığıyla daha fazla bir iş oluşturmasını ve müşterilere daha az altyapı ve işlem yükü sunan daha büyük bir değer sunmaya odaklanmaya yardımcı olur.
+
+İkincisi, Ağustos 2018 ' de, tam bir iş ortağı destek planı satın almak üzere iş ortaklarının yeni ölçütlerine sahip doğrudan fatura ortağı gereksinimlerini güncelleştirdik. Bu, bulut çözümü sağlayıcısı programındaki tüm doğrudan fatura ortakları için gerekli olan önem derecesini yeniden vurgularız.
+
+### <a name="direct-bill-partner-requirements"></a>Doğrudan fatura ortağı gereksinimleri
+
+[Güncelleştirilmiş doğrudan fatura ortağı gereksinimlerini](https://docs.microsoft.com/partner-center/direct-partner-new-requirements#minimum-requirements) ve önerilerini Inceleyerek, bulut çözümü sağlayıcısı programında doğru modelle nasıl daha fazla karlı bir iş oluşturabileceğiniz ve genişletebilirsiniz:
+
+1. **yeni gelir performansı gereksinimi**
+
+Şu anda bulut çözümü sağlayıcısı programına doğrudan fatura ortakları olarak kayıtlı **olan mevcut iş ortaklarının** , 2021 Ocak 'tan itibaren yeni performans standardını karşılaması gerekir. Bir sonraki iş ortağınızdan, gereksinimleri karşılamak için yenileme tarihine kadar bir süre olacaktır. [Bu kılavuzu](https://partner.microsoft.com/resources/detail/new-subscription-analytics-report-on-partner-center-guide-pdf)izleyerek, son on iki aylık gelirinizi Iş ortağı merkezinde inceleyebilirsiniz.
+
+Bulut çözümü sağlayıcısı programına kaydolan yeni iş ortakları, **2020 Ekim tarihinde** geçerli olan dolaylı satıcılar olarak başlayacak. Yukarıdaki 12 ay boyunca en az USD300K CSP gelir olmalıdır. [Bu kılavuzu](https://partner.microsoft.com/resources/detail/new-subscription-analytics-report-on-partner-center-guide-pdf)izleyerek, son 12 aylık gelirinizi Iş Ortağı Merkezi 'nde inceleyebilirsiniz. 
+
+2. **destek sözleşmesi gereksinimi** 
+
+İki destek sözleşmesi seçeneğinden birini satın alarak destek yeteneklerinizi genişletin:  
+
+   - Iş ortakları için Microsoft Gelişmiş desteği (ASfP): bire bir, öncelikli bulut desteği  
+   - Iş ortakları için Microsoft Premier Destek (PSfP): proaktif hizmetlerin tam kataloğuna, 24/7 yükseltilmiş kesme/onarım desteğine ve bulut, karma ve şirket içi teknik hesap yönetimine erişin. 
+
+[Destek sözleşmesi seçeneklerini](https://partner.microsoft.com/support/partnersupport) uygun bir plan satın alarak karşılaştırın.
+
+### <a name="direct-bill-partner-recommendations"></a>Doğrudan fatura ortağı önerileri
+
+**Temel özellikleri gösterir**
+
+Doğrudan fatura programını desteklemek için gereken altyapı hakkında daha fazla bilgi sahibi olduğunuzdan emin olmak için bazı ek önerilere ihtiyacımız var. En az bir yönetilen hizmet, IP hizmeti veya müşteri çözümü uygulaması sağlabileceğinizi gösterir. İş ortakları, yalnızca hizmetlerimizin doğrudan yeniden satılması için Microsoft Bulut hizmetlerin üzerine değer eklemektir. Bu, ortağın pazara Alım stratejisinin önemli bir parçasıdır. Yönetilen hizmetler ekleme hakkında [daha fazla bilgi edinin](https://partner.microsoft.com/solutions/managed-services) . Faturalandırma ve sağlama gibi en düşük altyapı yeteneklerini karşılamanızı öneririz. 
+
+CSP programındaki yeni gereksinimleri karşılamayan doğrudan fatura ortakları, Microsoft İş Ortağı Ağı programda dolaylı satıcılar olarak yeniden kaydolmanız gerekecektir. Doğrudan bir fatura ortağından dolaylı bir satıcıya geçiş yapma hakkında [daha fazla bilgi edinin](https://docs.microsoft.com/partner-center/transition-direct-to-indirect) .  
+
+### <a name="next-steps"></a>Sonraki adımlar
+
+- [Güncelleştirilmiş doğrudan fatura ortağı gereksinimlerini](https://docs.microsoft.com/partner-center/direct-partner-new-requirements#minimum-requirements)gözden geçirin.
+- [Microsoft iş ortağı web sitesinde bulunan Operations Resource Gallery](https://partner.microsoft.com/resources/collection/new-performance-standard-for-direct-bill-partner-requirements-in-csp#/)hakkında SSS ve diğer bilgileri gözden geçirin.
+- Dolaylı satıcı seçeneği iş gereksinimlerinize göre daha iyi uyum [sağladıysanız, birlikte çalışmak üzere dolaylı bir sağlayıcı](https://partner.microsoft.com/membership/cloud-solution-provider/find-a-provider) bulun.
 ________________________________
 
 ## <a name="microsoft-365-business-voice-offer-updates"></a><a name="12"></a>Microsoft 365 İş sesli teklif güncelleştirmeleri
@@ -73,7 +138,7 @@ ________________
 ### <a name="categories"></a>Kategoriler
 
 - Tarih: 2020-10-14
-- Özellik
+- Yetenek
  
 ### <a name="summary"></a>Özet 
 MPA yetkilendirme kılavuzundaki güncelleştirmeler.
@@ -187,7 +252,7 @@ ________________
 ### <a name="categories"></a>Kategoriler
 
 - Tarih: 2020-10-07
-- Özellik
+- Yetenek
  
 ### <a name="summary"></a>Özet 
 

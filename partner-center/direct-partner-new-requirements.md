@@ -8,13 +8,13 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.date: 10/09/2020
-ms.openlocfilehash: 98c9cdd96af037e8543828e3a6f2e93c5b0fcbcd
-ms.sourcegitcommit: b4771fd0781d95551e65baa481a572291c729d7d
+ms.date: 10/28/2020
+ms.openlocfilehash: 760e0157437dbad74c779100123b4239083ca6b7
+ms.sourcegitcommit: 1840767efa4c5de41889bc9245567cf286a084c8
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "92795789"
+ms.lasthandoff: 10/29/2020
+ms.locfileid: "92917153"
 ---
 # <a name="requirements-to-enroll-as-a-csp-direct-bill-partner"></a>CSP Doğrudan Fatura Ortağı olarak kaydolma gereksinimleri
 
@@ -28,11 +28,11 @@ Doğrudan bir fatura ortağı olarak, müşterinizin ve Microsoft ile uçtan uca
 
 ### <a name="minimum-requirements"></a>Minimum gereksinimler
 
-|**Gereksinim**|                             |
+|**Gereksinim**| **Açıklama**|
 |--------------------------------|--------------------------------------------------------------|
 |**MPN Kimliği**   |İş konumunuz için etkin bir Microsoft İş Ortağı Ağı (MPN) KIMLIĞI.    |
 |**Onay anahtarı**   |Kuruluşunuz adına yasal sözleşmeleri kabul etme ve imzalama yetkisi.|
-|**Gelirleri**|2021 Ocak itibariyle, doğrudan fatura ortakları olarak kaydedilen iş ortaklarının, önceki 12 aya göre ortak küresel hesap düzeyinde, bulut çözümü sağlayıcısı program gelirinde en az ABD Doları $300K işlem yapması gerekir.| 
+|**Gelirleri**|Dolaylı bir satıcı olarak önceki on iki ay boyunca en az USD300K bulut çözümü sağlayıcısı program yıllık geliri ile Buluşmalıdır. İş ortakları, son on iki aylık gelir Iş Ortağı Merkezi 'nde gözden geçirebilir. en on iki aylık geliri oluşturan Sales, Microsoft tarafından incelenmek ve doğrulanmalıdır ve ek bilgi sağlamanız istenebilir. USD300K gelir gereksinimi, bulut gelirine göre hesaplanır ve CSP 'de kalıcı yazılımları hariç bırakır. Önceki 12 aylık gelirin ayrıntıları için [abonelik Analizi](https://partner.microsoft.com/dashboard/analytics/licenseanalytics) ' ne bakın.|
 |**Destek**   |Müşterilerinize bulut ürün desteğinin ilk düzeyini sağlama özelliği. <br/>Gereksinimlerinize bağlı olarak Iş ortakları için gelişmiş destek (ASfP) veya Iş ortakları için Premier Destek (PSfP) için bir Microsoft destek planı. [Destek planlarını karşılaştırın](https://partner.microsoft.com/support/partnersupport).<br/> ÖNEMLI: bir destek planı satın alabilmek için önce bir kredi denetimi geçirmeniz gerekir. Kredi denetimini geçtiğinde size e-posta göndereceğiz. |
 |**Yönetilen hizmet**   |En az bir yönetilen hizmet, IP hizmeti veya müşteri çözümü uygulaması. [Yönetilen hizmetler](https://partner.microsoft.com/business-opportunities/managed-services-provider)ekleme hakkında daha fazla bilgi edinin.|
 |**Alacak hesaplar** |Müşteri faturalandırma ve sağlamayı yönetmek için yer aldığı kurumsal altyapı.|
@@ -55,6 +55,9 @@ Geçerli doğrudan fatura ortakları, CSP doğrudan fatura ortağı programında
 Doğrudan bir fatura işletmeden dolaylı Bayi işletmeye taşımaya karar verirseniz, uygulamanız gereken birkaç adım vardır. Geçiş hakkında daha fazla bilgi edinmek için, [bulut çözümü sağlayıcısı (CSP) doğrudan ORTAĞıNDAN CSP dolaylı satıcısına kadar geçiş](transition-direct-to-indirect.md)yapın.
 
 ## <a name="next-steps"></a>Sonraki adımlar
+
+- [Doğrudan fatura ortakları için yeni gelir gereksinimi](https://docs.microsoft.com/partner-center/announcements/2020-october#13)
+ 
 
 - [Dolaylı satıcı olma hakkında ek bilgiler](https://assetsprod.microsoft.com/csp-directbill-to-indirect-transition.pdf)
 

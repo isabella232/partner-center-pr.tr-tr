@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/24/2020
-ms.openlocfilehash: 99b688cae786f1abcb3059c706345c4089fa129a
-ms.sourcegitcommit: f5aebd9f8b56f79f758c97048f298a04d8fb55be
+ms.openlocfilehash: 94403cddbfa2f316b7ade84af1d9a1d233544fb4
+ms.sourcegitcommit: 13248a782fe6854909a2f1ed3eb6d9d0f2cb5a67
 ms.translationtype: HT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/22/2020
-ms.locfileid: "92526824"
+ms.lasthandoff: 10/27/2020
+ms.locfileid: "92749702"
 ---
 # <a name="partner-center-announcements"></a>İş Ortağı Merkezi duyuruları
 
@@ -22,6 +22,7 @@ ms.locfileid: "92526824"
 
 | **Kategori** | **Ekim 2020 duyuruları** | **Duyurulan** |
 |---------|:---------|:---------|
+|Özellikler|[Bulut Çözümü Sağlayıcısı (CSP) programında doğrudan fatura iş ortağı gereksinimleri için performans standardı belirleme](2020-october.md#13)|27 Ekim|
 |Teklifler/Pazarlar|[Microsoft 365 Küçük İşletmeler için Ses Teklifi Güncelleştirmeleri](2020-october.md#12)|16 Ekim|
 |Özellikler|[Kasım 2020 Güncelleştirmesi: Çevrimiçi Hizmetler ve Yazılım Kanal Yetkilendirme Kılavuzu](2020-october.md#11)|14 Ekim|
 |Teklifler/Pazarlar|[Kâr amacı gütmeyen kuruluşlar için Microsoft 365 Küçük İşletmeler için Ses Tanıtımı](2020-october.md#10)|12 Ekim|
