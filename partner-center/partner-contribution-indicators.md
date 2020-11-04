@@ -1,7 +1,7 @@
 ---
 title: İş ortağı katkı göstergeleri
 ms.topic: article
-ms.date: 09/16/2020
+ms.date: 11/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Dynamics 365 müşteri katılımı veya Dynamics 365 finans ve Işlemlerini nasıl gerçekleştireceğinizi gösteren yedi Iş ortağı katkı göstergeleri (PCI) hakkında bilgi edinin.
@@ -9,12 +9,12 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 198e73432bd4ed14aa56a2df9bd7f43af6e12cbd
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: e5e3c0ad1a1abae49b05394d569b67840a01ecca
+ms.sourcegitcommit: fc4d94b2a9575808745f8fb8c7ee5ae88be6803c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92532003"
+ms.lasthandoff: 11/04/2020
+ms.locfileid: "93344400"
 ---
 # <a name="partner-contribution-indicators-pci-show-partner-impact-on-seven-key-measures-of-customer-success"></a>İş ortağı katkı göstergeleri (PCI) müşteri başarısı için yedi anahtar ölçülerde iş ortağı etkisini gösterir
 
@@ -89,7 +89,7 @@ Her gösterge toplam 'a eklenen bir puan getirir. Her gösterge için en fazla p
 |Müşteri başarısı-aylık etkin kullanıcı büyümesi  | 25 punto |
 
 Aşağıdaki görüntüde hızlı ve görsel bir başvuru sunulmaktadır.
-:::image type="content" source="images/pci/perfnew.png" alt-text="Gümüş veya altın uzmanlık düzeyine ulaşmak için PCI puanlarını gösterir." border="false":::
+:::image type="content" source="images/pci/perfnew.png" alt-text="Yedi Iş ortağı katkı göstergelerinin (PCI) her biri için mümkün olan en fazla puan içeren bir grafik gösterir." border="false":::
 
 ## <a name="thresholds-for-each-pci-metric"></a>Her PCI ölçümü için eşikler
 
@@ -111,8 +111,8 @@ Ayrıntılar için aşağıdaki tablolara bakın:
 | PCI ölçümü | Performans göstergesi: net yeni gelir | Performans göstergesi: yeni müşteri eklemeleri | Yetenek göstergesi: Işlevsel danışmanları | Yetenek göstergesi: Işlevsel danışman büyüme | Yetenek göstergesi: geliştiriciler | Müşteri başarı göstergesi: yeni büyük dağıtımlar | Müşteri başarı göstergesi: aylık etkin kullanıcı büyümesi |
 |---|---|---|---|---|---|---|---|
 | **En fazla işaret** | 10 noktası | 10 noktası | 15 punto | 15 punto | 5 işaret | 20 punto | 25 punto |
-| **Geliştirildi** | $300.000 | 10 noktası | 10 noktası | *\* Bkz. nota* | 5 işaret | 5 işaret | 25% |
-| **Geliştiriyorsanız** | $150.000 | 5 işaret | 5 işaret |*\* Bkz. nota* | 2 işaret | 1 nokta | 25% |
+| **Geliştirildi** | $300.000 | 10 | 10 | *\* Bkz. nota* | 5 | 5 | 25% |
+| **Geliştiriyorsanız** | $150.000 | 5  | 5  |*\* Bkz. nota* | 2 | 1 | 25% |
 
 *\* Note: büyüme hedefleri, temel danışmanların sayısına göre farklılık gösterir. Bkz. büyüme hedefleri için [Tablo 3](partner-contribution-indicators.md#table-3-functional-consultant-growth) .*
 
@@ -122,8 +122,8 @@ Ayrıntılar için aşağıdaki tablolara bakın:
 | PCI ölçümü | Performans göstergesi: net yeni gelir | Performans göstergesi: yeni müşteri eklemeleri | Yetenek göstergesi: Işlevsel danışmanları | Yetenek göstergesi: Işlevsel danışman büyüme | Yetenek göstergesi: geliştiriciler | Müşteri başarı göstergesi: yeni büyük dağıtımlar | Müşteri başarı göstergesi: aylık etkin kullanıcı büyümesi |
 |---|---|---|---|---|---|---|---|
 | **En fazla işaret** | 10 noktası | 10 noktası | 15 punto | 15 punto | 5 işaret | 20 punto | 25 punto |
-| **Geliştirildi** | $300.000 | 3 noktası | 15 punto | *\* Bkz. nota* | 5 işaret | 3 noktası | 25% |
-| **Geliştiriyorsanız** | $150.000 | 1 nokta | 5 işaret |*\* Bkz. nota* | 2 işaret | 1 nokta | 25% |
+| **Geliştirildi** | $300.000 | 3 | 15 | *\* Bkz. nota* | 5  | 3 | 25% |
+| **Geliştiriyorsanız** | $150.000 | 1 | 5 |*\* Bkz. nota* | 2 | 1 | 25% |
 
 *\* Note: büyüme hedefleri, temel danışmanların sayısına göre farklılık gösterir. Bkz. büyüme hedefleri için [Tablo 3](partner-contribution-indicators.md#table-3-functional-consultant-growth) .*
 
@@ -313,7 +313,7 @@ Aşağıdaki görüntüde, Iş Ortağı Merkezi 'nde Iş ortağı katkı göster
 
 Bu alanı kullanma hakkında daha fazla bilgi için bu makalenin sonunda bulunan kaynak ve videoların toplanması bölümüne bakın.
 
-   :::image type="content" source="images/pci/howto.png" alt-text="Gümüş veya altın uzmanlık düzeyine ulaşmak için PCI puanlarını gösterir.":::
+   :::image type="content" source="images/pci/howto.png" alt-text="Grafiği okuma":::
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
