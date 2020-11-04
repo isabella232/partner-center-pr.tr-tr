@@ -8,20 +8,25 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 10/27/2020
-ms.openlocfilehash: a96dd7849b678357aaa28b8a35f113ead6f807ab
-ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
+ms.date: 11/02/2020
+ms.openlocfilehash: 1d514dd64cdb4dc3e7c599472a851b6877048568
+ms.sourcegitcommit: 04472887a8ea145b95c2774da06fc749ed8129de
 ms.translationtype: HT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "93133023"
+ms.lasthandoff: 11/04/2020
+ms.locfileid: "93327252"
 ---
 # <a name="partner-center-announcements"></a>İş Ortağı Merkezi duyuruları
 
 Önemli İş Ortağı Merkezi güncelleştirmeleri hakkında bilgi edinin. Bu bilgileri sık sık güncelleştirdiğimizden burayı sık sık kontrol edin!
 
-| **Kategori** | **Ekim 2020 duyuruları** | **Duyurulan** |
+| **Kategori** | **Kasım 2020 duyuruları** | **Duyurulan** |
 |---------|:---------|:---------|
+|Teklifler/Pazarlar|[Windows 10 Education yükseltmesi, koşullara uyan Bulut Çözümü Sağlayıcısı (CSP) Eğitim müşterilerinin kullanımına sunuldu](2020-november.md#4)|2 Kasım|
+|Teklifler/Pazarlar|[Yenilenen Bulut Çözümü Sağlayıcısı (CSP) dijital deneyimi kullanıma sunuldu. Ekim 2020 tarihli Bulut Çözümü Sağlayıcısı (CSP) yazılım abonelikleri fiyat listesi güncelleştirmeleri](2020-november.md#3)|2 Kasım|
+|Teklifler/Pazarlar|[Ekim 2020 Bulut Çözümü Sağlayıcısı (CSP) yazılım abonelikleri fiyat listesi güncelleştirmeleri](2020-november.md#2)|2 Kasım|
+|Teklifler/Pazarlar|[Bulut Çözümü Sağlayıcısı (CSP) programında doğrudan fatura iş ortağı gereksinimleri için performans standardı belirleme](2020-november.md#1)|2 Kasım|
+| **Kategori** | **Ekim 2020 duyuruları** | **Date** |
 |Özellikler|[Microsoft Server yazılım abonelikleri için özellik güncelleştirmeleri](2020-october.md#17)|29 Ekim|
 |Özellikler|[Windows 10 Education yükseltmesi, koşullara uyan Bulut Çözümü Sağlayıcısı (CSP) Eğitim müşterilerinin kullanımına sunuldu](2020-october.md#16)|28 Ekim|
 |Özellikler|[Yenilenen Bulut Çözümü Sağlayıcısı (CSP) dijital deneyimi kullanıma sunuldu](2020-october.md#15)|28 Ekim|
