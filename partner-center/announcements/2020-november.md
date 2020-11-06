@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 11/02/2020
-ms.openlocfilehash: 2f82caf36171a1757d8e1f2d016c82f7f2dedecf
-ms.sourcegitcommit: 04472887a8ea145b95c2774da06fc749ed8129de
+ms.openlocfilehash: 2d4fc0aef733b8086e550695e2b2e4065930a4a1
+ms.sourcegitcommit: af2787e516ecfb5f6cf1acdb8179f2337bfa856a
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 11/04/2020
-ms.locfileid: "93328057"
+ms.lasthandoff: 11/06/2020
+ms.locfileid: "94333904"
 ---
 # <a name="november-2020-announcements"></a>Kasım 2020 duyuruları
 
@@ -23,6 +23,97 @@ Bu sayfada, Kasım 2020 ' de Microsoft Iş Ortağı Merkezi duyuruları ayrınt�
 2020 Duyuruları: [Nisan](2020-april.md)  |  [May](2020-may.md)  |  [June](2020-june.md)  |  [July](2020-july.md)  |  [August](2020-august.md)  |  [ayında Eylül](2020-september.md)ayında Haziran ayı  |  [October](2020-October.md) | Kasım
 
 ______________
+
+## <a name="expanding-commercial-licensing-partner-content-on-the-operations-readiness-gallery"></a><a name="6"></a>Işlem hazırlığı galerisinde ticari lisanslama iş ortağı içeriğini genişletme
+
+### <a name="categories"></a>Kategoriler
+
+- Tarih: 2020-11-5
+- Özellikler
+
+### <a name="summary"></a>Özet
+
+5 2020 Kasım 'dan itibaren Iş ortağı University 'den ticari lisanslama iş ortağı içeriği de Işlem hazırlığı galerisinde kullanılabilir olacaktır.
+
+### <a name="impacted-audience"></a>Etkilenen hedef kitle
+
+Ticari iş ortakları
+
+### <a name="details"></a>Ayrıntılar
+
+5 Kasım 2020 ' den itibaren, Iş ortağı University 'den ticari lisanslama iş ortağı içeriği de, Işlem hazırlığı galerisinde kullanılabilir olacaktır. Bu, Iş hazırlığı galerisindeki zaten mevcut olan operasyonel ve ticari lisanslama iş ortağı başlangıç içeriğini ortak University 'den ticari lisanslama iş ortağı içeriği olarak birleştirir. Böylece iş ortakları daha sorunsuz bir hazırlık deneyimi sağlar. Aşağıdaki koleksiyonlar, Işlem hazırlığı galerisine eklenmiştir:
+
+- [Microsoft Azure-teklifler ve lisanslama](https://partner.microsoft.com/resources/collection/microsoft-azure-offers-and-licensing#/)
+- [Ticari lisanslama-CSP Spotlight çağrısı](https://partner.microsoft.com/resources/collection/commercial-licensing-csp-spotlight-call#/)
+- [Ticari lisanslama-lisanslama güncelleştirmeleri çağrısı](https://partner.microsoft.com/resources/collection/commercial-licensing-licensing-updates-call#/)
+
+### <a name="next-steps"></a>Sonraki adımlar
+
+Bu bilgileri kuruluşunuzdaki ilgili tüm kişilerle paylaşabilirsiniz.
+
+________________
+
+## <a name="microsoft-teams-rooms-premium-sku-launch"></a><a name="5"></a>Microsoft ekipleri Odalar Premium SKU başlatması
+
+### <a name="categories"></a>Kategoriler
+
+- Tarih: 2020-11-3
+- Teklifler/Pazarlar
+
+### <a name="summary"></a>Özet
+
+Bulut çözümü sağlayıcısı (CSP) programı aracılığıyla Microsoft ekipleri için Microsoft ekipleri Odalar Premium SKU 'SU artık kullanılabilir.
+
+### <a name="impacted-audience"></a>Etkilenen hedef kitle
+
+Tüm iş ortakları bulut çözümü sağlayıcısı (CSP) programı üzerinden deneyimidir
+
+### <a name="details"></a>Ayrıntılar
+
+Microsoft ekipleri için yeni Microsoft ekipleri Odalar Premium SKU 'SU, Microsoft ekipleri için ücretsiz olarak size bir cihaz başına USD50 aracılığıyla CSP satın alma ile sunulmaktadır. Microsoft ekipleri Odalar Premium SKU 'SU, Microsoft ekipleri oda standart SKU 'sunun (daha önce toplantı odası lisansı olarak adlandırılır) bir alternatifidir. Bu SKU, standart sunumdaki, Microsoft ekipleri için gerekli lisanslar, Skype Kurumsal Çevrimiçi ve Intune yönetimi gibi her şeyi içerir. Sunum Ayrıca, kullanılabilir olduğunda, genel anahtarlı telefon ağı (PSTN) tümleştirmesi ve ses konferansı için gereken telefon sistemine da izin vermez. 
+
+Premium teklifle, müşteriler, uzmanların müşteri adına toplantı odalarına yönelik yönetimi ve işlemleri işleyeceği, yeni yayınlanan Microsoft ekiplerine göre yönetilen hizmetlere erişimi vardır. Bu bulut tabanlı BT yönetimi ve izleme hizmeti, Microsoft ekiplerinin cihazlarını ve bunların çevre birimlerini güncel ve güvenli tutar. Ayrıca, daha iyi bir şekilde izlenir ve yönetilir, böylece harika bir yerinde deneyim için iyileştirilmiş bir ortam vardır.
+
+#### <a name="released-at-launch"></a>Başlatma sırasında yayınlandı
+
+   |****|**Microsoft ekipleri Odalar Standart USD15 cihaz/ay**|**Microsoft ekipleri her ay Premium USD50 cihaz**|
+   |-------------------|:------|:------|
+   |Skype Kurumsal|Yes| |
+   |Microsoft Teams|Yes|Yes|
+   |Telefon sistemi|Yes|Yes|
+   |Ses konferansı|Yes|Yes|
+   |Microsoft Intune|Yes|Yes|
+   | |Microsoft ekipleri her ay cihaz başına standart USD15 Odalar|Microsoft ekipleri, her ay cihaz başına Premium USD50|
+   |Microsoft ekipleri Oda Yönetimli hizmetler| |Yes|
+   |Dünya çapında kullanılabilirlik|Yes|Pazarların Seç bölümünde|
+
+#### <a name="microsoft-teams-rooms-managed-services"></a>Microsoft ekipleri Oda Yönetimli hizmetler
+
+- Proaktif Yönetim: ek düzeltme, yapılandırma yönetimi ve daha fazlasını içeren oda sistemlerinizde 24x7x365 yönetimi.
+• Gerçek zamanlı izleme ve kök neden analizi: Microsoft tarafından, gerektiğinde müşteriyle koordine ederek düzenlenmiş olay yönetimi yanıtı ile Izleme ve algılama. Mobil uygulama,-go 'da uyarı almanıza olanak sağlar.
+- Yönetilen güncelleştirmeler: uygulama, Windows KB ve bellenim güncelleştirmelerinin yönetimi ve teslimi.
+- Güvenlik tehdit koruması: Microsoft Defender Gelişmiş tehdit koruması aracılığıyla güvenlik tehdidi koruması.
+- Müşteri desteği: otomatik olmayan durumlar için yardımlı olay düzeltme ile adanmış hizmet işlem merkezimiz aracılığıyla 24x7x365 bilet desteği. Ayrıntılı rol tabanlı erişim denetimi.
+- İçgörüler ve öneriler: oda sistem durumu, envanter, kullanım, çevrimiçi toplantılar ve olay eğilimleri hakkında müşteriler ve raporlar hakkında toplu Öngörüler.
+
+#### <a name="offer-details"></a>Teklif Ayrıntıları
+
+   |**Teklif adı**|**Teklif Kimliği**|**Malzeme KIMLIĞI**|
+   |-------------------|:------|:------|
+   |Takımlar Odalar Premium|5db9aa31-f039-4740-B122-a33514e4c492|6XB-00007|
+   |Takımlar Odalar Premium (ABD ve CAN)|03070f91-cc77-4c2e-B269-4a214b3698ab|6XB-00008|
+   |Fakülteler için takımlar Odalar Premium|d0c9a9a9-c9b6-41d7-9148-b60115c36c95|6Yı5-00005|
+
+### <a name="next-steps"></a>Sonraki adımlar
+
+- Yeni teklif ve coğrafi kullanılabilirliğini öğrenmek için [sık sorulan soruları (SSS)]()ziyaret edin.
+- Yeni teklif ve onun coğrafi kullanılabilirliği hakkında bilgi sahibi olun. 
+- Microsoft odaları ve ilgili teklifler hakkında daha fazla bilgi [edinin.](https://rooms.microsoft.com/)
+- Ekiplerle toplantı odalarını geliştirmek için [takımlar Iş ortağı kılavuzunu](https://aka.ms/teamscallingmeetingsguide) kullanın ve ortak satış için sunulan bir teklif oluşturun.
+- Ürün çözümü ve hizmetleri hakkında daha fazla bilgi edinmek için [Microsoft ekipleri Odalar SSS](https://aka.ms/PartnerMTRFAQ) makalesini gözden geçirin. 
+- Bu bilgileri kuruluşunuzdaki ilgili tüm kişilerle paylaşmak için, büyük satış ve çapraz satış fırsatlarını anlayın.
+
+________________
 
 ## <a name="new-microsoft-teams-advanced-communications-skus-for-government-community-cloud-gcc-coming-soon"></a><a name="4"></a>Kamu topluluk bulutu (GCC) için yeni Microsoft ekipleri gelişmiş Iletişim SKU 'Ları yakında geliyor
 
