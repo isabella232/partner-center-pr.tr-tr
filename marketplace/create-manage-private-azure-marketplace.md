@@ -1,18 +1,17 @@
 ---
 title: Azure portal 'de özel Azure Marketi oluşturun ve yönetin
 description: Azure portal özel Azure Marketi (Önizleme) oluşturma ve yönetme hakkında bilgi edinin.
-ms.service: marketplace
-ms.subservice: partnercenter-marketplace-publisher
+ms.prod: marketplace-customer
 ms.topic: article
 author: keferna
 ms.author: keferna
 ms.date: 09/18/2020
-ms.openlocfilehash: c0a395a7c5bfe926cdc56d7386aaaebb0305fb68
-ms.sourcegitcommit: d31c06022624ca2d1db12b3c60ef1d0a3861f763
+ms.openlocfilehash: 31179d9fd4068348e689d8b426b7a0307112501a
+ms.sourcegitcommit: af4726de429d2b9b7c3656d5cac7d542b0d4af74
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/19/2020
-ms.locfileid: "92531486"
+ms.lasthandoff: 11/06/2020
+ms.locfileid: "93414867"
 ---
 # <a name="create-and-manage-private-azure-marketplace-preview-in-the-azure-portal"></a>Azure portal özel Azure Marketi (Önizleme) oluşturma ve yönetme
 
@@ -32,7 +31,7 @@ Kiracı Genel Yöneticisi, **Market yönetici** rolünü özel mağazayı yönet
 >[!IMPORTANT]
 > Özel Azure Marketi yönetimine erişim yalnızca Market yönetici rolü atanmış BT yöneticileri tarafından kullanılabilir.
 
-### <a name="prerequisites"></a>Önkoşullar
+### <a name="prerequisites"></a>Ön koşullar
 
 Kiracı kapsamındaki bir kullanıcıya Market yönetici rolünü atayabilmeniz için önce bu önkoşulları karşılamanız gerekir:
 
@@ -136,17 +135,17 @@ Az. Portal PowerShell modülünde bulunan cmdlet 'ler hakkında daha fazla bilgi
 
 3. Soldaki seçeneklerden **özel Market** ' i seçin.
 
-    :::image type="content" source="media/private-azure/private-marketplace.png" alt-text="Ana pencere Azure portal.":::
+    :::image type="content" source="media/private-azure/private-marketplace.png" alt-text="Azure portal ana penceresinde özel Market seçme.":::
 
 4. Özel Azure Marketi oluşturmak için **başlayın** ' ı seçin (bunu yalnızca bir kez yapmanız gerekir).
 
-    :::image type="content" source="media/private-azure/private-marketplace-get-started.png" alt-text="Ana pencere Azure portal.":::
+    :::image type="content" source="media/private-azure/private-marketplace-get-started.png" alt-text="Azure portal ana penceresinde Başlarken ' i seçin.":::
 
     Bu kiracı için özel Azure Marketi zaten mevcutsa Market 'i **Yönet** varsayılan olarak seçilidir.
 
 5. Tamamlandıktan sonra boş ve devre dışı bir özel Azure Marketi olur.
 
-    :::image type="content" source="media/private-azure/new-private-marketplace.png" alt-text="Ana pencere Azure portal.":::
+    :::image type="content" source="media/private-azure/new-private-marketplace.png" alt-text="Boş özel Azure Marketi ekranı.":::
 
 ## <a name="add-items-from-gallery"></a>Galeriden öğe Ekle
 
@@ -156,11 +155,11 @@ Bir öğe, teklifin ve planın bir birleşimidir. Market 'i Yönet sayfasında �
 
 2. **Galeriye** gözatıp istediğiniz öğeyi bulmak için arama alanını kullanın.
 
-    :::image type="content" source="media/private-azure/marketplace-gallery.png" alt-text="Ana pencere Azure portal.":::
+    :::image type="content" source="media/private-azure/marketplace-gallery.png" alt-text="Galeriye göz atma veya arama alanını kullanma.":::
 
 3. Varsayılan olarak, yeni bir teklif eklenirken, tüm geçerli planlar izin verilenler listesine eklenir. Seçilen öğeleri eklemeden önce plan seçimini değiştirmek için, teklifin kutucuğunda açılan menüyü seçin ve gerekli planları güncelleştirin.
 
-    :::image type="content" source="media/private-azure/update-plans-400.png" alt-text="Ana pencere Azure portal.":::
+    :::image type="content" source="media/private-azure/update-plans-400.png" alt-text="Gerekli planları güncelleştirin.":::
 
 4. Seçimlerinizi yaptıktan sonra sol alttaki **bitti** ' yi seçin.
 
@@ -174,7 +173,7 @@ Market 'i Yönet sayfasında bir öğenin planlarını düzenleyebilirsiniz.
 1. **Planlar** sütununda, bu öğenin açılan menüsünden kullanılabilir planları gözden geçirin.
 2. Kullanıcılarınız için hangi planların kullanılabilir olduğunu seçmek için onay kutularını işaretleyin veya temizleyin.
 
-    :::image type="content" source="media/private-azure/edit-items.png" alt-text="Ana pencere Azure portal.":::
+    :::image type="content" source="media/private-azure/edit-items.png" alt-text="Gerekli öğe için onay kutusunu seçme veya temizleme.":::
 
 > [!NOTE]
 > Her teklifin, güncelleştirmenin gerçekleşmesi için en az bir plan seçilmiş olması gerekir. Bir teklifle ilgili tüm planları kaldırmak için teklifin tamamını silin (sonraki bölüme bakın).
@@ -187,9 +186,9 @@ Market 'i Yönet sayfasında, teklif adının yanındaki onay kutusunu işaretle
 
 Market 'i Yönet sayfasında, özel Azure Marketi 'nin geçerli durumunu gösteren bu başlık sayfasından birini görürsünüz:
 
-:::image type="content" source="media/private-azure/state-disable.png" alt-text="Ana pencere Azure portal.":::
+:::image type="content" source="media/private-azure/state-disable.png" alt-text="Durum başlığını devre dışı bırak":::
 
-:::image type="content" source="media/private-azure/state-enable.png" alt-text="Ana pencere Azure portal.":::
+:::image type="content" source="media/private-azure/state-enable.png" alt-text="Durum başlığını etkinleştir":::
 
 Özel Azure Marketi 'ni gerektiği şekilde etkinleştirebilir veya devre dışı bırakabilirsiniz.
 
@@ -205,7 +204,7 @@ Market 'i Yönet sayfasında, özel Azure Marketi 'nin geçerli durumunu göster
 
 Kullanıcılar, ve izin verilmeyen teklifler arasında filtre uygulayabilir:
 
-:::image type="content" source="media/private-azure/filter-option.png" alt-text="Ana pencere Azure portal.":::
+:::image type="content" source="media/private-azure/filter-option.png" alt-text="Filtreleme seçeneği.":::
 
 ## <a name="buy-or-deploy-in-private-azure-marketplace"></a>Özel Azure Marketi 'nde satın alın veya dağıtın
 
@@ -213,15 +212,15 @@ Kullanıcılar, ve izin verilmeyen teklifler arasında filtre uygulayabilir:
 
 - Kullanıcı izin verilen bir planı seçtiğinde **Oluştur** düğmesi etkinleştirilir:
 
-    :::image type="content" source="media/private-azure/button-create-enabled.png" alt-text="Ana pencere Azure portal.":::
+    :::image type="content" source="media/private-azure/button-create-enabled.png" alt-text="Bir planın oluşturulabileceği teklif başlığı.":::
 
 - Kullanıcı izin verilmeyen bir plan seçtiğinde, plana izin verilmeyen bir başlık ve **Oluştur** düğmesi devre dışı bırakılır.
 
-   :::image type="content" source="media/private-azure/button-create-disabled.png" alt-text="Ana pencere Azure portal.":::
+   :::image type="content" source="media/private-azure/button-create-disabled.png" alt-text="Bir plana dikkat eden teklif başlığı oluşturulamıyor.":::
 
 - Ürün planı seçimi ürün ayrıntıları sayfasında görünmezse, ancak yönetici bir veya daha fazla planı onayladıysa, bir başlık, planlara izin verilen ve **Oluştur** düğmesi etkin olur:
 
-    :::image type="content" source="media/private-azure/button-create-enabled-and-plans.png" alt-text="Ana pencere Azure portal.":::
+    :::image type="content" source="media/private-azure/button-create-enabled-and-plans.png" alt-text="Bir planın oluşturulup kullanılabilir planları göstermediğini gösteren teklif başlığı.":::
 
 ## <a name="contact-support"></a>Desteğe başvurun
 
