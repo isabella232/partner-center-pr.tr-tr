@@ -9,12 +9,12 @@ author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: ca06b4574d90993f62e6d8d018657e6bd81eb5e1
-ms.sourcegitcommit: 398e8361ae4b43a22d4015ad71bb724b2bf1b1a9
+ms.openlocfilehash: 8dcd559e9e52c246b720678f05dec9128a6ca366
+ms.sourcegitcommit: fdc32c0afce88f8266f75746ec15bf04745590ad
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 11/03/2020
-ms.locfileid: "93244072"
+ms.lasthandoff: 11/07/2020
+ms.locfileid: "94360063"
 ---
 # <a name="view-manage-and-export-your-incentives-program-details"></a>Teşvikleri programınızın ayrıntılarını görüntüleyin, yönetin ve dışarı aktarın
 
@@ -139,7 +139,7 @@ Channel teşvikleri (CI) başvuru numaranızı bilmiyorsanız, aşağıdaki üç
 
 - Hem **ücretli** hem de **bekleyen** sekmesinde [iş ortağı merkezi panosu](https://partner.microsoft.com/dashboard/) (oturum açma gerekir).  
 
-- Ödeme raporunuz, [ödeme karşıdan yükleme dışa aktarma sayfanızda](/partner-center/understand-incentive-payouts#payment-download-export)bulunur. 
+- Ödeme raporunuz, [ödeme karşıdan yükleme dışa aktarma sayfanızda](#payment-download-export)bulunur. 
 
 #### <a name="if-your-submission-is-rejected"></a>Gönderiminiz reddedilirse
 
@@ -339,7 +339,7 @@ Yukarıdaki tabloya ek olarak, bu Işlem geçmişi alanları program için geçe
 >[!NOTE]
 >İşlem Özeti raporu, 60 günden daha yeni abonelikler için müşteri ve abonelik bilgilerini içermez ya da tüketim geliri bir sent 'tan az olursa.
 
-|Sütun adı |Açıklama |
+|Sütun adı |Description |
 |------ |:-----------|
 |  Eardokgıd | Her bir atma için benzersiz tanımlayıcı  |
 |  participantId | İş ortağının birincil kimliği program altında  |

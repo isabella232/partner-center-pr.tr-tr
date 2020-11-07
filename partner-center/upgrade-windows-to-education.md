@@ -9,12 +9,12 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1a4bb8eb1d3dbd24f4e18e96fb7b67c6e7332186
-ms.sourcegitcommit: 3cca87a10e8aebbf5be144ef525217509f0521ec
+ms.openlocfilehash: a65dcceea688094089ad06dacfd2abf13173ca5c
+ms.sourcegitcommit: fdc32c0afce88f8266f75746ec15bf04745590ad
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "93028795"
+ms.lasthandoff: 11/07/2020
+ms.locfileid: "94360012"
 ---
 # <a name="upgrade-windows-10-home-customers-to-windows-10-education"></a>Windows 10 Home müşterilerini Windows 10 eğitimi 'ne yükseltme
 
@@ -63,7 +63,7 @@ Müşteri, anahtarı yüklediğinde ve cihaz kiracı etki alanına Azure Active 
 - **Açıklama:** Windows 10 eğitimi 'ne yükseltmeyi etkinleştirmek için [ekleme numarası] anahtarları isteniyor. (İstenen anahtar sayısının Microsoft 365 a3/a5 veya Windows 10 Enterprise a3/a5 abonelik lisanslarınızdan büyük olmaması gerektiğini unutmayın.) Müşterinin abonelik KIMLIĞI [Microsoft 365 a3/a5 veya Windows 10 Enterprise a3/a5 aboneliği için müşteri abonelik KIMLIĞI GUID 'ı ekleyin.]
 - **Kişi numarası:** Bu, önceden doldurulacak; onaylamak veya güncelleştirmek için gözden geçirin.
 - **E-posta:** Bu, önceden doldurulacak ve Microsoft Portal Yöneticisi (yalnızca genel yönetici veya faturalama yöneticisi) olarak kullandığınız e-posta olmalıdır.
-- **Tercih edilen iletişim yöntemi** : **Telefon** seçin veya **geri arama zamanlayın** .
+- **Tercih edilen iletişim yöntemi** : **Telefon** seçin veya **geri arama zamanlayın**.
 
 8. **Benimle Iletişim kurun** ' ı seçin. Beklenen bekleme süresi, **Yardım gerekiyor?** bölmesinde belirtilir.
 
@@ -100,4 +100,4 @@ Windows 10 eğitim yükseltmesi, müşterinin Active Microsoft 365 a3/a5 veya Wi
 Bu bağlantıları izleyerek daha fazla bilgi edinin:
 
 - [Windows eğitime özellikleri](https://www.microsoft.com/education/products/windows/features)
-- [Windows Eğitim Merkezi](https://docs.microsoft.com/education/windows/)
+- [Windows Eğitim Merkezi](/education/windows/)
