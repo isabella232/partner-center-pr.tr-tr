@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 11/02/2020
-ms.openlocfilehash: 1d514dd64cdb4dc3e7c599472a851b6877048568
-ms.sourcegitcommit: 04472887a8ea145b95c2774da06fc749ed8129de
+ms.openlocfilehash: bf5204acd9783081ec91f3372cde0269891ff9de
+ms.sourcegitcommit: af2787e516ecfb5f6cf1acdb8179f2337bfa856a
 ms.translationtype: HT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 11/04/2020
-ms.locfileid: "93327252"
+ms.lasthandoff: 11/06/2020
+ms.locfileid: "94333921"
 ---
 # <a name="partner-center-announcements"></a>İş Ortağı Merkezi duyuruları
 
@@ -22,10 +22,12 @@ ms.locfileid: "93327252"
 
 | **Kategori** | **Kasım 2020 duyuruları** | **Duyurulan** |
 |---------|:---------|:---------|
-|Teklifler/Pazarlar|[Windows 10 Education yükseltmesi, koşullara uyan Bulut Çözümü Sağlayıcısı (CSP) Eğitim müşterilerinin kullanımına sunuldu](2020-november.md#4)|2 Kasım|
-|Teklifler/Pazarlar|[Yenilenen Bulut Çözümü Sağlayıcısı (CSP) dijital deneyimi kullanıma sunuldu. Ekim 2020 tarihli Bulut Çözümü Sağlayıcısı (CSP) yazılım abonelikleri fiyat listesi güncelleştirmeleri](2020-november.md#3)|2 Kasım|
-|Teklifler/Pazarlar|[Ekim 2020 Bulut Çözümü Sağlayıcısı (CSP) yazılım abonelikleri fiyat listesi güncelleştirmeleri](2020-november.md#2)|2 Kasım|
-|Teklifler/Pazarlar|[Bulut Çözümü Sağlayıcısı (CSP) programında doğrudan fatura iş ortağı gereksinimleri için performans standardı belirleme](2020-november.md#1)|2 Kasım|
+|Özellikler|[İşlem Hazırlığı Galerisi’nde Ticari Lisanslama iş ortağı içeriklerini genişletme](2020-november.md#6)|2 Kasım|
+|Teklifler/Pazarlar|[Microsoft Teams Odaları Premium SKU başlatılıyor](2020-november.md#5)|2 Kasım|
+|Teklifler/Pazarlar|[Government Community Cloud (GCC) için yeni Microsoft Teams Gelişmiş Topluluklar SKU’su yakında kullanıma sunulacak](2020-november.md#4)|2 Kasım|
+|Teklifler/Pazarlar|[Dynamics 365: Yeni yayınlanan ve yakında sunulacak yeni teklifler ve ürünler](2020-november.md#3)|2 Kasım|
+|Teklifler/Pazarlar|[Kar amacı gütmeyen kuruluşlara yönelik Microsoft 365 Küçük İşletmeler için Ses kullanıma sunuldu](2020-november.md#2)|2 Kasım|
+|Teklifler/Pazarlar|[Microsoft 365 Küçük İşletmeler için Ses’e yönelik Bulut Çözümü Sağlayıcısı (CSP) tanıtımı kullanıma sunuldu](2020-november.md#1)|2 Kasım|
 | **Kategori** | **Ekim 2020 duyuruları** | **Date** |
 |Özellikler|[Microsoft Server yazılım abonelikleri için özellik güncelleştirmeleri](2020-october.md#17)|29 Ekim|
 |Özellikler|[Windows 10 Education yükseltmesi, koşullara uyan Bulut Çözümü Sağlayıcısı (CSP) Eğitim müşterilerinin kullanımına sunuldu](2020-october.md#16)|28 Ekim|
