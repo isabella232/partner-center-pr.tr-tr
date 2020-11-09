@@ -1,24 +1,24 @@
 ---
 title: Iş ortağı satış bağlantısı 'ndan (PSC) geçiş
-ms.topic: article
-ms.date: 08/27/2020
-ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
 description: Microsoft iş ortaklarının iş ortağı satış Connect 'ten (PSC) iş ortağı merkezi 'ne nasıl geçirebileceğini ve Microsoft satıcıları tarafından gönderilen anlaşmalar oluşturma veya yönetme hakkında bilgi edinin.
+ms.topic: article
 author: vikramb
 ms.author: vikramb
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: dc131991826a6428d613aa34e2e99c19e3efde05
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.date: 11/06/2020
+ms.openlocfilehash: 1f352234f47ea8b2745c649401603f931ec68957
+ms.sourcegitcommit: 0e142b4fbb044fe8dd2dbc7d13ab70a1a91b9f60
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92531547"
+ms.lasthandoff: 11/09/2020
+ms.locfileid: "94381450"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>İş ortağı satış bağlantısı (PSC) üzerinden geçiş yapan iş ortakları için Iş Ortağı Merkezi 'nde (PC) ortak satış ile ilgili kılavuz
 
-**Uygulama hedefi**
+**Şunlara uygulanır**
 
 - İş Ortağı Merkezi
 
@@ -30,7 +30,7 @@ ms.locfileid: "92531547"
 - İş ortağı Sales Connect (PSC) Yöneticisi
 - İş ortağı Sales Connect (PSC) anlaşma Yöneticisi
 
-Siz bildiğiniz gibi şirketiniz, 31 Aralık 2020 ' e kadar PSC 'ye erişimi kaybedecektir. Bununla birlikte, ortak satış anlaşmaları oluşturmak, anlaşmaları yönetmek ve Iş Ortağı Merkezi 'nde size Microsoft satıcıları tarafından gönderilen anlaşmalar için işlem yapmak istediğiniz her şeyi bulacaksınız. Bununla birlikte farklar vardır ve aşağıdaki kılavuz, Iş Ortağı Merkezi 'ne geçişinizi daha yumuşak ve sorunsuz bir şekilde yapmanıza yardımcı olur.
+Bildiğiniz gibi şirketiniz, 31 Mart 2021 ' de PSC posta erişimini kaybedecektir. Bununla birlikte, ortak satış anlaşmaları oluşturmak, anlaşmaları yönetmek ve Iş Ortağı Merkezi 'nde size Microsoft satıcıları tarafından gönderilen anlaşmalar için işlem yapmak istediğiniz her şeyi bulacaksınız. Bununla birlikte farklar vardır ve aşağıdaki kılavuz, Iş Ortağı Merkezi 'ne geçişinizi daha yumuşak ve sorunsuz bir şekilde yapmanıza yardımcı olur.
 
 >[!Important]
 > Buradan geçiş hakkında PSC 'de bir başlık gördüğünüz için doğru yerde olursunuz. Bu kılavuz, PSC 'de anlaşmalar yöneten çözüm değerlendirmesi (SA) ve OEM ıOT iş ortakları için geçerli değildir.
@@ -47,7 +47,7 @@ Siz bildiğiniz gibi şirketiniz, 31 Aralık 2020 ' e kadar PSC 'ye erişimi kay
 >[!Important]
 > PSC başlığında gösterilen MPN KIMLIĞININ Iş Ortağı Merkezi 'nde MPN konumları listesinde bulunduğundan emin olun. İş Ortağı Merkezi 'nde "hesap ayarları" ve "[konumlar](manage-locations.md)" a giderek iş ortağı merkezi hesabıyla Ilişkili tüm MPNS listesini bulmak için bunu doğrulayabilirsiniz.
 
- :::image type="content" source="images/pscmigration/mpnidcheck.png" alt-text="İş ortaklarının MPN KIMLIĞINI bulabileceği PSC başlığını gösteren resim.":::
+:::image type="content" source="images/pscmigration/mpnidcheck.png" alt-text="İş ortaklarının MPN KIMLIĞINI bulabileceği PSC başlığını gösteren resim.":::
 
 ### <a name="if-you-are-psc-deal-manager-or-seller"></a>PSC Yöneticisi veya satıcı kullanıyorsanız
 
@@ -63,14 +63,55 @@ Başvurular sekmesini görmüyorsanız:
 
 - Şirketinizin [genel Yöneticisi](permissions-overview.md) , başvurular sekmesine erişim izni verebilir. Genel yöneticinizle ilgili bilgi edinmek için iş ortağı merkezi 'nin sağ üst tarafındaki dişli simgesine ait Iş ortağı ayarları ' na gidin. Sol gezinti çubuğunun ikinci düzeyindeki Kullanıcı Yönetimi sayfasını seçin. Sayfanın sağ üst kısmındaki "tüm kullanıcılar" ı ve "Genel Yöneticiler" olarak değiştirin açılan listesine tıklayın. Bu sayfada, tüm genel Yöneticiler ilgili e-posta kimlikleriyle birlikte görüntülenir. İş hesabınız için "başvuru Yöneticisi" erişimi almak üzere bunlarla iletişim kurun.
 
->[!Important]
-> Rolünüzün yalnızca PSC 'deki kullanıcıları yönetmesi durumunda, Iş Ortağı Merkezi 'nde [hesap yönetici](permissions-overview.md#manage-mpn-membership-and-your-company) rolü olursunuz. Rolünüzde ortak satış fırsatlarını yönetme de varsa, [başvuruları yönetici](permissions-overview.md#manage-referrals) rolü almalısınız. Ayrıca, aynı zamanda PC 'deki hesap yöneticilerine tek tek ulaşan tüm PSC yöneticileri yerine iş ortağı merkezi hesap yöneticisi ile çalışmak üzere PSC yöneticileri arasında tek bir değişiklik yönetimi liderine aday olun.
+  >[!Important]
+  > Rolünüzün yalnızca PSC 'deki kullanıcıları yönetmesi durumunda, Iş Ortağı Merkezi 'nde [hesap yönetici](permissions-overview.md#manage-mpn-membership-and-your-company) rolü olursunuz. Rolünüzde ortak satış fırsatlarını yönetme de varsa, [başvuruları yönetici](permissions-overview.md#manage-referrals) rolü almalısınız. Ayrıca, aynı zamanda PC 'deki hesap yöneticilerine tek tek ulaşan tüm PSC yöneticileri yerine iş ortağı merkezi hesap yöneticisi ile çalışmak üzere PSC yöneticileri arasında tek bir değişiklik yönetimi liderine aday olun.
 
- :::image type="content" source="images/pscmigration/accountadmin.png" alt-text="İş ortaklarının MPN KIMLIĞINI bulabileceği PSC başlığını gösteren resim." olarak değiştirin açılan listesine tıklayın.
-- Genel yönetici, Azure AD kiracınızda yeni bir kullanıcı hesabı oluşturabilir ya da diğer etki alanı hesabı kullanıcılarına Konuk Kullanıcı erişimi atayabilir.
-- Tüm PSC anlaşma yöneticileri ve kullanıcıları için hesaplar kurulduktan sonra, Iş Ortağı Merkezi ' nde oturum açması, sol gezinti bölmesinde başvuru sekmesine gitmeniz ve başvurular sayfasını görebilecekleri konusunda emin olmak gerekir.
+  :::image type="content" source="images/pscmigration/accountadmin.png" alt-text="İş ortağı ayarları Kullanıcı Yönetimi sayfasında hesap yöneticileri 'ni gösteren resim.":::
+
+- Sol gezinti bölmesindeki başvurular sekmesine gidin ve sayfalara erişip erişe, göz atın.
+
+  >[!Note]
+  > Iş Ortağı Merkezi oturumunuzu kapatıp başvuru sayfalarına erişim için kimlik bilgilerinizi yenilemek üzere yeniden oturum açmanız gerekebilir.
+
+## <a name="user-migration"></a>Kullanıcı geçişi
+
+Iş Ortağı Merkezi 'nde hesabınızı ayarladıktan sonra, ortak satış fırsatları sayfasında şirket çalışanları için Iş Ortağı Merkezi rollerini otomatik olarak atamak için Kullanıcı Geçiş Sihirbazı 'nı kullanın.
+
+>[!Note]
+> Kullanıcı geçişi yalnızca, şirketinizin [hesap yöneticileri](permissions-overview.md#manage-mpn-membership-and-your-company) tarafından gerçekleştirilebilir. Hesap Yöneticisi rolüne sahip değilseniz, Kullanıcı Geçiş Sihirbazı 'nın yardımıyla Kullanıcı hesaplarını ayarlamaya yardımcı olabilecek bir hesap yöneticisi bulun. Kullanıcı geçiş işlevi, 16 Kasım 2020 ' den itibaren kullanılabilir olacaktır.
+
+:::image type="content" source="images/pscmigration/psc-user-migration.png" alt-text="Kullanıcı Geçiş Sihirbazı 'nı gösteren resim.":::
+
+Hesap yöneticileri, referanslar kılavuzunun yanındaki ortak satış fırsatları sayfasında bir PSC Kullanıcı Geçiş Sihirbazı bağlantısı alır. Bağlantıya tıklayarak Kullanıcı geçişini başlatabilirler. Bu eylem, şirketin geçirmek istediği tüm kullanıcılara Iş Ortağı Merkezi 'nde uygun roller atanıncaya kadar birden çok kez gerçekleştirilebilir.
+
+Kullanıcı geçiş tablosunda aşağıdaki ayrıntılar bulunur
+
+- Kullanıcı hesabı-çalışanın e-posta KIMLIĞI
+- PSC iş ortağı hesabı-çalışanın PSC içinde ilişkilendirildiği hesap
+- PSC Kullanıcı rolü-PSC içinde öğesine atanan üç rolden biridir.
+- BILGISAYAR MPN konumu-kullanıcıya ilgili bılgısayar rolleri verilecek konum. PSC iş ortağı hesabı MPN, izin atamak üzere Iş Ortağı Merkezi 'nde eşdeğer MPN konumunu bulmak için kullanılır. Kuruluşun tamamı, vOrg MPN KIMLIĞINI gösterir.
+- BILGISAYAR Kullanıcı rolü-çalışanlar, PSC Kullanıcı rollerine göre rollere atanır. PSC 'deki yöneticiye, bılgısayarda başvuru yöneticisi rolleri atanacaktır. Satıcı, bılgısayarda başvuru Kullanıcı rolüne atanır. BILGISAYAR rolleri ve bu rollerin bulunduğu kullanıcılar iş [Ortağı Merkezi 'nde](permissions-overview.md#manage-referrals) neler yapabileceğini öğrenin
+- BILGISAYAR AAD kiracısı-kullanıcıların Iş Ortağı Merkezi 'nde atandığı kiracı
+- Durum-geçiş durumunun üç olası durumu vardır
+    - Geçirilmedi-kullanıcıya herhangi bir BILGISAYAR başvuruları rolü atanmamış
+    - Geçirilmiş-kullanıcı, tabloda gösterildiği gibi atanan ilgili rolle başarıyla geçirildi
+    - Hata-bir hata nedeniyle geçiş tamamlanamıyor
+
+Geçiş başarısız olabilir ve aşağıdaki çözümlerin sağlandığı bazı koşullarda hatalara neden olabilir
+
+1. PSC kullanıcıları iş dışı bir hesap kullanıyor olabilir.
+
+2. PSC kullanıcıları, Iş Ortağı Merkezi 'nde kullandığınızdan farklı bir etki alanından bir hesap kullanıyor olabilir.
+
+   - 1 ve 2 senaryolarıyla ilgili hataları gidermek için, tüm kullanıcıların Azure AD kiracınıza bağlı iş hesabını kullanarak iş ortağı merkezi 'Nde oturum açması gerekir. [Genel yöneticiniz](permissions-overview.md#manage-commercial-transactions-in-partner-center-azure-ad-and-csp-roles) bu konuda yardımcı olabilir. Genel yöneticinizle ilgili bilgi edinmek için iş ortağı merkezi 'nin sağ üst tarafındaki dişli simgesine ait Iş ortağı ayarları ' na gidin. Sol gezinti çubuğunun ikinci düzeyindeki Kullanıcı yönetimi sayfasına tıklayın. Sayfanın sağ üst kısmındaki "tüm kullanıcılar" ı ve "Genel Yöneticiler" olarak değiştirin açılan listesine tıklayın. Genel yönetici, Azure AD kiracınızda yeni bir kullanıcı hesabı oluşturabilir ya da diğer etki alanı hesabı kullanıcılarına Konuk Kullanıcı erişimi atayabilir. Tüm PSC anlaşma yöneticileri ve kullanıcıları için hesaplar kurulduktan sonra, Iş Ortağı Merkezi ' nde oturum açması, sol gezinti bölmesinde başvuru sekmesine gitmeniz ve başvurular sayfasını görebilecekleri konusunda emin olmak gerekir.
+
+3. Kullanıcının Iş Ortağı Merkezi 'ne atanmış bir başvuru rolü zaten var.
+    - Kullanıcının var olan rolünü hesap ayarlarındaki Kullanıcı yönetimi sayfasından doğrulayabilirsiniz ve gerektiğinde aynı şekilde değişiklik yapabilirsiniz.
+
+Kullanıcı geçişini tamamladıktan sonra, geçiş stratejisine karar vermek için aşağıdaki kılavuzu kullanın: 
 
 Şirketinizde bir PDM varsa-Iş Ortağı Merkezi hesabınız ayarlandığında ve kullanıcılarınız üzerine taşınır ve roller ve izinler varsa, ortak satış etkinliklerinizi Iş Ortağı Merkezi 'ne taşıyabilirsiniz. Geçiş tamamlanma son tarihine kadar beklemek yerine PDM, tüm yeni anlaşmalarınızın Iş Ortağı Merkezi 'ne akmasını sağlayan bir anahtar yapmasını bildirin.
+
 >[!Note]
 >Bu anahtarı yaptıktan sonra, yalnızca PSC 'deki mevcut etkin anlaşmalar üzerinde işlem yapabilirsiniz. Yeni anlaşmalar oluşturmayabilir veya PSC 'de Microsoft satıcılarından herhangi bir anlaşmalar alamazsınız.
 
@@ -108,7 +149,7 @@ Bu bölüm, PSC ve Iş ortağı merkezi arasındaki özniteliklerin tam eşlemes
 
 **Iş Ortağı Merkezi 'nde ortak satış fırsatlarının ana sayfası ve varsayılan görünümü**
 
- :::image type="content" source="images/pscmigration/homepage.png" alt-text="İş ortaklarının MPN KIMLIĞINI bulabileceği PSC başlığını gösteren resim.":::
+ :::image type="content" source="images/pscmigration/homepage.png" alt-text="Iş ortağı satış bağlantısı 'nın ana sayfası ve Iş Ortağı Merkezi 'nde ortak satış fırsatlarını varsayılan görünümü arasındaki alan eşlemelerini gösteren resim.":::
 
 **PSC Grid görünümü ve Iş ortağı merkezi işlem görünümü**
 
@@ -116,7 +157,7 @@ Bu bölüm, PSC ve Iş ortağı merkezi arasındaki özniteliklerin tam eşlemes
 - Anlaşma rolü, BILGISAYARıNDA gerekli bir alan değildir. Hiçbir iş akışının hiçbirinde gösterilmez veya yakalanmaz. Microsoft satıcı tarafında, başa eklenen çözümlere göre otomatik olarak türetilir.
 - Son değiştirilme tarihi, BILGISAYARDAKI başvuru ayrıntıları sayfasında gösterilmez. İş ortakları, son güncelleme tarihine göre anlaşmaları sıralamak için sıralama işlevini kullanabilir.
 
- :::image type="content" source="images/pscmigration/gridview.png" alt-text="İş ortaklarının MPN KIMLIĞINI bulabileceği PSC başlığını gösteren resim.":::
+:::image type="content" source="images/pscmigration/gridview.png" alt-text="Iş ortağı Sales Connect (PSC) kılavuz görünümü ve Iş Ortağı Merkezi anlaşma görünümü arasındaki alan eşlemelerini gösteren resim.":::
 
 **PSC ve Iş Ortağı Merkezi 'nde anlaşma Ayrıntıları görünümü**
 
@@ -129,26 +170,26 @@ Bu bölüm, PSC ve Iş ortağı merkezi arasındaki özniteliklerin tam eşlemes
 >[!Note]
 >Kazanıldı veya kaybedildi olarak işaretlenen herhangi bir anlaşma, bu gönderiyi düzenleyemezsiniz. Bu Terminal durumlarından birine bir anlaşma taşırken dikkatli olun.
 
- :::image type="content" source="images/pscmigration/dealdetails.png" alt-text="İş ortaklarının MPN KIMLIĞINI bulabileceği PSC başlığını gösteren resim.":::
+:::image type="content" source="images/pscmigration/dealdetails.png" alt-text="Iş ortağı Sales Connect (PSC) anlaşma Ayrıntıları görünümü ve Iş Ortağı Merkezi anlaşma Ayrıntıları görünümü arasındaki alan eşlemelerini gösteren resim.":::
 
 **PSC ' ürün ekleme ' görünümü ve Iş Ortağı Merkezi ' çözüm Ekle ' görünümü**
 
- :::image type="content" source="images/pscmigration/products.png" alt-text="İş ortaklarının MPN KIMLIĞINI bulabileceği PSC başlığını gösteren resim.":::
+:::image type="content" source="images/pscmigration/products.png" alt-text="Ortak satış bağlantısı (PSC) ürün ekleme görünümü ve Iş Ortağı Merkezi çözüm ekleme görünümü arasındaki alan eşlemelerini gösteren resim.":::
 
 **PSC ve Iş Ortağı Merkezi 'nde Kullanıcı Yönetimi**
 
- :::image type="content" source="images/pscmigration/usermanagement.png" alt-text="İş ortaklarının MPN KIMLIĞINI bulabileceği PSC başlığını gösteren resim.":::
+ :::image type="content" source="images/pscmigration/usermanagement.png" alt-text="Iş ortağı satış bağlantısı (PSC) Kullanıcı Yönetimi ana sayfası ve hesap ayarları görünümünde Iş Ortağı Merkezi Kullanıcı Yönetimi arasındaki alan eşlemelerini gösteren resim.":::
 
 **PSC ve Iş Ortağı Merkezi 'nde Kullanıcı rolü ataması**
 
 - PSC Yöneticisi için eşdeğer rol, Iş Ortağı Merkezi ' nde Hesap Yöneticisi rolüdür.
 - Iş Ortağı Merkezi 'nde, referans yönetici rolü olan ortak satış anlaşma yönetimi için yalnızca bir rol vardır.
 
- :::image type="content" source="images/pscmigration/roles.png" alt-text="İş ortaklarının MPN KIMLIĞINI bulabileceği PSC başlığını gösteren resim.":::
+:::image type="content" source="images/pscmigration/roles.png" alt-text="Iş ortağı Sales Connect (PSC) rol atama görünümü ve Iş ortağı merkezi rolü atama görünümü arasındaki alan eşlemelerini gösteren resim.":::
 
 **PSC ve Iş ortağı merkezindeki bildirimler**
 
- :::image type="content" source="images/pscmigration/notifications.png" alt-text="İş ortaklarının MPN KIMLIĞINI bulabileceği PSC başlığını gösteren resim.":::
+:::image type="content" source="images/pscmigration/notifications.png" alt-text="Ortak satış bağlantısı (PSC) bildirimleri ve Iş Ortağı Merkezi bildirimleri görünümü arasındaki eşlemeyi gösteren resim.":::
 
 ## <a name="moving-from-psc-to-partner-center---frequently-asked-questions"></a>PSC 'den Iş Ortağı Merkezi 'ne geçme-sık sorulan sorular
 
@@ -156,7 +197,39 @@ Bu bölüm, PSC ve Iş ortağı merkezi arasındaki özniteliklerin tam eşlemes
 
 Atanan rolleri almak için, "erişim yok" sayfasında listelenen yöneticilerinize başvurabilirsiniz. Başvurular bölümünde okuma ve yazma izni için "[başvuru Yöneticisi](permissions-overview.md#manage-referrals)" rolüne ihtiyacınız olacaktır. Yalnızca iş profillerini yönetiyorsanız, iş ortağı merkezi 'nde "Iş profili Yöneticisi" rolüne ihtiyacınız olacaktır.
 
-:::image type="content" source="images/pscmigration/noaccess.png" alt-text="İş ortaklarının MPN KIMLIĞINI bulabileceği PSC başlığını gösteren resim." yalnızca ISV Connect programına kayıtlı iş ortakları tarafından, Iş Ortağı Merkezi 'nde ilgili ortak satış fırsatı olmadan bir anlaşma kaydetmek için kullanılır. Bir ortak satış fırsatıyla anlaşmalar kaydettirmek için, anlaşma Kazanıldı olarak işaretlendiğinde ve anlaşma kaydı ölçütlerini karşılıyorsa bir açılır pencere görüntülenir.
+:::image type="content" source="images/pscmigration/noaccess.png" alt-text="Iş Ortağı Merkezi 'nde erişim deneyimi olmadığını gösteren resim.":::
+
+**Üç. Iş Ortağı Merkezi 'ndeki referanslar bölümüne kimler erişebilir?**
+
+[Hesap yöneticiniz](permissions-overview.md#manage-mpn-membership-and-your-company) , başvurular sekmesine erişim izni verebilir. Hesap yöneticinizle ilgili bilgi edinmek için Iş Ortağı Merkezi 'nin sağ üst tarafındaki dişli simgesine ait Iş ortağı ayarları ' na gidin. Sol gezinti çubuğunun ikinci düzeyindeki Kullanıcı yönetimi sayfasına tıklayın. Sayfanın sağ üst kısmındaki "tüm kullanıcılar" ı ve "hesap yöneticileri" olarak değiştirin açılan listesine tıklayın. Daha sonra sayfa, tüm hesap yöneticilerini ilgili e-posta kimlikleriyle birlikte görüntüler. İş hesabınız için "başvuru Yöneticisi" erişimi almak üzere bunlarla iletişim kurun.
+
+**S3. Hesabım için + yeni anlaşma düğmesi gri değildir. Anlaşmalar oluşturmaya başlamak için ne yapmam gerekir?**
+
+Bu yalnızca, Iş Ortağı Merkezi 'nde kullandığınız MPN kuruluşuna iliştirilmiş ortak satış için ücretsiz çözüm olmadığında gerçekleşir. Çözümlerinizin MPN KIMLIĞINI bir şekilde düzeltti veya bir destek bileti oluşturmak için PDM ile iletişime geçerek "yeni anlaşma düğmesi, PSC geçişten sonra gri
+
+**Ç. PSC gibi kuruluşumdan belirli bir kişiye anlaşmalar atayabilir miyim?**
+
+Takım üyelerini belirli bir anlaşmayı atayabilirsiniz. Diğer başvuru yöneticilerinin bu anlaşmaları görüntülemesini veya bu anlaşmalar üzerinde hareket etmalarını engellemez. 
+
+**Q5. Bana atanan tüm anlaşmalar için bir görünüm var mı?**
+
+Bir Kullanıcı düzeyi sekmesi olan Sık Kullanılanlar özelliğini kullanabilirsiniz. Bu anlaşmalar için hızlı bir erişim sağlamak üzere size atanan tüm anlaşmaları sık kullanılanlar olarak işaretleyebilirsiniz.
+
+**Q6. Anlaşmalar için salt okunurdur bir görünüm var mı?**
+
+Hayır, başvurular bölümünde anlaşmalar için salt okuma görünümü yoktur. Tüm başvuru yöneticilerinin tüm anlaşmalar için tam okuma ve yazma erişimi olur.
+
+**Q7. Kazandıktan sonra bir anlaşmayı nasıl kaydedebilirim?**
+
+Anlaşma aşağıdaki ölçütleri karşılıyorsa, [anlaşmayı](./register-deals.md)başlatmak için bir açılır pencere görüntüleriz.
+
+- Ele uygun bir çözüm vardır.
+- Microsoft satıcı, başa katılmaya davet edilir veya sizi ele davet ederler.
+- Microsoft kartı, Iş Ortağı Merkezi 'nde kabul edilen veya kazanıldı durumunda.
+
+**S8. Anlaşma kaydı bölümünde "+ yeni anlaşma kaydı" düğmesine tıkladığımda bir hata mesajı alıyorum. Nasıl anlaşmalar kaydedebilirim?**
+
+"+ Yeni anlaşma kaydı" yalnızca ISV Connect programına kayıtlı iş ortakları tarafından, Iş Ortağı Merkezi 'nde ilgili ortak satış fırsatı olmadan bir anlaşma kaydetmek için kullanılır. Bir ortak satış fırsatıyla anlaşmalar kaydettirmek için, anlaşma Kazanıldı olarak işaretlendiğinde ve anlaşma kaydı ölçütlerini karşılıyorsa bir açılır pencere görüntülenir.
 
 **Q9. Bir müşteri kuruluşu zorunlu mi ekliyor?**
 
@@ -202,7 +275,9 @@ Ortak satış yardım konularını henüz okumadıysanız, aşağıdaki kaynakla
 |İş profili oluşturma ve yönetme|[İş profilini yönetme](./create-a-marketing-profile.md)
 |İş profiliniz için müşteri adaylarını yönetme |[Müşteri adaylarını yönetme](./manage-leads.md)|
 
-## <a name="additional-resources"></a>Ek kaynaklar
+## <a name="next-steps"></a>Sonraki adımlar
+
+Şu ek kaynakları izleyin:
 
 - İş ortağı satışları iş ortağı [Merkezi çalışma kitabına bağlanır](https://partner.microsoft.com/resources/detail/partner-sales-connect-to-partner-center-transition-workbook-pptx) -iş ortaklarının satış süreçlerini ve rollerini Iş Ortağı Merkezi Ile Iş ortağı Sales Connect aracılığıyla yeni satış süreçleriyle hizalayın.
 - [Iş Ortağı Merkezi ortak satış çalışma kılavuzu](https://partner.microsoft.com/resources/detail/co-sell-operating-model-guide-pptx) -müşteri adaylarını yönetmek Için Iş Ortağı Merkezi aracılığıyla bir işletim modelini belirlemek için bir iş modeli veya ortak satış fırsatları ve anlaşmaları kaydetme.
