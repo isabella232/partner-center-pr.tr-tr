@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 10/30/2020
-ms.openlocfilehash: ae27f193839d5456457afc923fd7834a8ff106f9
-ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
+ms.openlocfilehash: 37b8072742db0a9f8eb6bda3b74bf2db66b32e3d
+ms.sourcegitcommit: 146964ce0cc72bd821692f73f9c0b55e6fefb0fc
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "93132836"
+ms.lasthandoff: 11/10/2020
+ms.locfileid: "94433317"
 ---
 # <a name="october-2020-announcements"></a>Ekim 2020 duyuruları
 
@@ -23,6 +23,27 @@ Bu sayfa, 2020 Ekim 'e yönelik Microsoft Iş Ortağı Merkezi bildirilerini ayr
 2020 Duyurular: [March](2020-march.md)  |  [Nisan](2020-april.md)Mart  |  [,](2020-may.md)  |  Eylül ayında[Haziran](2020-june.md)  |  [ayı](2020-july.md)  |  [August](2020-august.md)  |  [September](2020-september.md) | 'Den
 
 ______________
+
+## <a name="correction-to-calling-plan-expansion"></a><a name="18"></a>Plan genişletmeyi çağırma düzeltmesi 
+
+### <a name="categories"></a>Kategoriler
+
+- Tarih: 2020-10-29
+- Teklifler/Pazarlar
+
+### <a name="impacted-audience"></a>Etkilenen hedef kitle
+
+Doğrudan sağlayıcılar, dolaylı sağlayıcılar ve dolaylı satıcılar
+
+### <a name="details"></a>Ayrıntılar
+
+1 Ekim 2020 ' de, [yeni pazarlarda Office 365 çağrı planının kullanılabilirliğini](2020-september.md#2)duyurduk. Bu duyuru doğru değil ve yurtiçi planları için Kullanıcı başına aylık 240 dakika, daha önce belirtildiği gibi kullanılamaz. 
+
+
+Çağırma planlarının ayrıntıları için, Microsoft ekipleri [ürün belgelerine](/microsoftteams/calling-plan-landing-page)bakın.
+
+
+________________
 
 ## <a name="windows-server-software-subscriptions-feature-updates"></a><a name="17"></a>Windows Server yazılım abonelikleri özellik güncelleştirmeleri
 
@@ -174,7 +195,7 @@ Bugün, bulut çözümü sağlayıcısı programındaki doğrudan fatura ortakla
 
 İlk olarak, **doğrudan fatura ortağı gereksinimlerinin bir parçası olarak bir performans standardı tanıtıyoruz**. Bulut çözümü sağlayıcısı programına doğrudan fatura ortakları olarak kaydetmek isteyen iş ortakları, [gerekli destek sözleşmesi](https://partner.microsoft.com/support/partnersupport) yenileme tarihinden önce 12 ay boyunca bulut çözümü sağlayıcısı program gelirine en az USD300K karşılamalıdır.
 
-Bu performans standardı, geçerli doğrudan fatura ortakları için Ocak 2021 ' de yürürlüğe girer ve iş ortağı destek planı yenileme tarihi ile ilgili gereksinimleri karşılamanız gerekecektir.
+Bu performans standardı, geçerli doğrudan fatura iş ortakları için Ocak 2021'de yürürlüğe girecektir ve iş ortağı destek planı yenileme tarihinize kadar ilgili gereksinimleri karşılamanız beklenmektedir.
 
 Güncelleştirilmiş doğrudan fatura ortağı gereksinimlerini karşılayamaz veya bunu tercih edemediyseniz, bulut çözümü sağlayıcısı programında dolaylı bir satıcı olarak yeniden kaydetmeniz gerekir. 
 
@@ -265,7 +286,7 @@ ________________
 ### <a name="categories"></a>Kategoriler
 
 - Tarih: 2020-10-14
-- Yetenek
+- Özellik
  
 ### <a name="summary"></a>Özet 
 MPA yetkilendirme kılavuzundaki güncelleştirmeler.
@@ -379,7 +400,7 @@ ________________
 ### <a name="categories"></a>Kategoriler
 
 - Tarih: 2020-10-07
-- Yetenek
+- Özellik
  
 ### <a name="summary"></a>Özet 
 

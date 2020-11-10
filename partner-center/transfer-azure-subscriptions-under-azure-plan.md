@@ -9,16 +9,16 @@ ms.localizationpriority: medium
 author: mckennaville
 ms.author: mcville
 ms.date: 07/29/2020
-ms.openlocfilehash: 4213658fc131d83d6c0640552d862f4de9b5ad86
-ms.sourcegitcommit: e10d2a19dea7e317d227d7fbdcf1bbc3dc4f6257
+ms.openlocfilehash: 81f64e117f9e0a4abc817746d11dc9acae887577
+ms.sourcegitcommit: 146964ce0cc72bd821692f73f9c0b55e6fefb0fc
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "92531842"
+ms.lasthandoff: 11/10/2020
+ms.locfileid: "94433356"
 ---
 # <a name="transfer-a-customers-azure-plan-subscriptions-to-a-different-partner"></a>Müşterinin Azure planı aboneliklerini farklı bir ortağa aktarma
 
-## <a name="applies-to"></a>Şunlara uygulanır
+**Uygun roller**
 
 - Bulut çözümü sağlayıcısı (CSP) programındaki iş ortakları
 
@@ -75,19 +75,22 @@ Aboneliğin gelecek iş ortağının, abonelik aktarımı istemek için Iş Orta
 
 5.  **Yeni aktarım isteği** formunu doldurun.
 
-6.  **Gönderme aktarım isteği** Gönder ' i seçin  >  **Send** .
+6.  **Gönderme aktarım isteği** Gönder ' i seçin  >  **Send**.
 
-    :::image type="content" source="images/modernazuretransfers/CompleteTrnasferRequestForm.png" alt-text="Aktarımlar bölümü":::
+    :::image type="content" source="images/modernazuretransfers/CompleteTrnasferRequestForm.png" alt-text="Aktarım isteği formunu doldurun":::
 
 7.  Aktarım isteği onayını gözden geçirme
 
-    :::image type="content" source="images/modernazuretransfers/TransferPending.png" alt-text="Aktarımlar bölümü" olduktan sonra, iptaller mümkün olmayacaktır.
+    :::image type="content" source="images/modernazuretransfers/TransferPending.png" alt-text="Bekleyen aktarımı gözden geçirme":::
+
+    >[!Note]
+    >Gelecekteki iş ortağı, yalnızca aktarım isteği durumu "bekliyor" olduğunda sağ üst köşede bulunan **isteği iptal** et ' i seçerek aktarım isteğini iptal edebilir. Aktarım isteği durumu "sürüyor" veya "Tamam" olduktan sonra, iptaller mümkün olmayacaktır.
 
 ## <a name="current-partner-tasks-to-be-completed"></a>Tamamlanacak geçerli iş ortağı görevleri
 
 Geçerli iş ortağının müşterinin Yönetim Aracısı, müşterilerinin aboneliklerinin aktarımını istediğini belirten bir e-posta alır:
 
-:::image type="content" source="images/modernazuretransfers/SourceReviewEmail.png" alt-text="Aktarımlar bölümü":::
+:::image type="content" source="images/modernazuretransfers/SourceReviewEmail.png" alt-text="Gözden geçirme":::
 
 Abonelik aktarımını gerçekleştirmek için Iş Ortağı Merkezi 'nden aktarma isteği formunu gözden geçirin ve kabul edin.
 
@@ -100,7 +103,7 @@ Abonelik aktarımını gerçekleştirmek için Iş Ortağı Merkezi 'nden aktarm
 3.  **Aktarım isteği** bölümünü seçin.
 4.  **Alınan istekler** altında seçilen **aktarım isteği kimliğini** seçerek aktarım bilgilerini genişletin
 
-:::image type="content" source="images/modernazuretransfers/ReviewRequest.png" alt-text="Aktarımlar bölümü":::
+:::image type="content" source="images/modernazuretransfers/ReviewRequest.png" alt-text="Kaynak İncelemeleri aktarma isteği":::
 
 5.  Aktarım isteğini gözden geçirin. Aktarılacak istenen Azure aboneliklerini seçin.
 
@@ -111,7 +114,7 @@ Abonelik aktarımını gerçekleştirmek için Iş Ortağı Merkezi 'nden aktarm
 
 6.  Ardından, aktarma işlemini gerçekleştirmek için **kabul et ve Aktar '** ı seçin.
 
-:::image type="content" source="images/modernazuretransfers/SelectSubs.png" alt-text="Aktarımlar bölümü":::
+:::image type="content" source="images/modernazuretransfers/SelectSubs.png" alt-text="Azure planlarınız kapsamında aktarılacak abonelikleri seçin":::
 
 7.  Aktarım kabulü onayını görüntüleyin.
 
