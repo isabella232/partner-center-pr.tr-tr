@@ -324,6 +324,25 @@
     - name: Ödemeler ve kazançlarla ilgili sorunları giderme
       href: incentives-payment-issues.md
       displayName: incentives
+    - name: Channel Incentives Platform’da (CHIP) çalışma
+      items:
+        - name: CHIP’te gezinme
+          href: chip-intro.md
+          displayName: chip
+        - name: CHIP hesabınıza kullanıcı ekleme
+          href: chip-users.md
+        - name: CHIP’te kazançları görüntüleme
+          href: chip-earnings.md
+        - name: CHIP’te ödeme durumunu denetleme
+          href: chip-payment-status.md
+        - name: Bir sözleşmenin masaüstü cihaz sayısını ve ücret düzeyini bulma
+          href: chip-locate-agreement.md
+        - name: Çözüm Değerlendirmesine Uygunluk
+          href: chip-solution-assessment.md
+        - name: Çözüm Değerlendirmesi ödeme durumu
+          href: chip-solution-assessment-payment.md
+        - name: CHIP’e erişim sorunları
+          href: chip-access-trouble.md
 - name: Faturalama ve vergiler
   href: billing.md
   displayName: trial

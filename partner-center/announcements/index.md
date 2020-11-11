@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 11/02/2020
-ms.openlocfilehash: bf5204acd9783081ec91f3372cde0269891ff9de
-ms.sourcegitcommit: af2787e516ecfb5f6cf1acdb8179f2337bfa856a
+ms.date: 11/10/2020
+ms.openlocfilehash: 4afc08135ee84792d62391251fdb87ec0ddd9ce6
+ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
 ms.translationtype: HT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 11/06/2020
-ms.locfileid: "94333921"
+ms.lasthandoff: 11/11/2020
+ms.locfileid: "94488145"
 ---
 # <a name="partner-center-announcements"></a>İş Ortağı Merkezi duyuruları
 
@@ -22,6 +22,7 @@ ms.locfileid: "94333921"
 
 | **Kategori** | **Kasım 2020 duyuruları** | **Duyurulan** |
 |---------|:---------|:---------|
+|Özellikler|[Test kullanılabilir: Eğitim müşterisi doğrulama sürecine yönelik İş Ortağı Merkezi API güncelleştirmeleri ve kullanıcı arabirimi (UI) geliştirmeleri](2020-november.md#7)|10 Kasım|
 |Özellikler|[İşlem Hazırlığı Galerisi’nde Ticari Lisanslama iş ortağı içeriklerini genişletme](2020-november.md#6)|2 Kasım|
 |Teklifler/Pazarlar|[Microsoft Teams Odaları Premium SKU başlatılıyor](2020-november.md#5)|2 Kasım|
 |Teklifler/Pazarlar|[Government Community Cloud (GCC) için yeni Microsoft Teams Gelişmiş Topluluklar SKU’su yakında kullanıma sunulacak](2020-november.md#4)|2 Kasım|
@@ -29,6 +30,7 @@ ms.locfileid: "94333921"
 |Teklifler/Pazarlar|[Kar amacı gütmeyen kuruluşlara yönelik Microsoft 365 Küçük İşletmeler için Ses kullanıma sunuldu](2020-november.md#2)|2 Kasım|
 |Teklifler/Pazarlar|[Microsoft 365 Küçük İşletmeler için Ses’e yönelik Bulut Çözümü Sağlayıcısı (CSP) tanıtımı kullanıma sunuldu](2020-november.md#1)|2 Kasım|
 | **Kategori** | **Ekim 2020 duyuruları** | **Date** |
+|Teklifler/Pazarlar|[Arama Planı genişletmesinde düzeltme](2020-october.md#18)|29 Ekim|
 |Özellikler|[Microsoft Server yazılım abonelikleri için özellik güncelleştirmeleri](2020-october.md#17)|29 Ekim|
 |Özellikler|[Windows 10 Education yükseltmesi, koşullara uyan Bulut Çözümü Sağlayıcısı (CSP) Eğitim müşterilerinin kullanımına sunuldu](2020-october.md#16)|28 Ekim|
 |Özellikler|[Yenilenen Bulut Çözümü Sağlayıcısı (CSP) dijital deneyimi kullanıma sunuldu](2020-october.md#15)|28 Ekim|
