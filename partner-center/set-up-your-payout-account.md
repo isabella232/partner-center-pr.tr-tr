@@ -6,12 +6,12 @@ ms.service: marketplace
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 12/10/2019
-ms.openlocfilehash: 38fa2943815a71c93bba7165ea970baefc992ed9
-ms.sourcegitcommit: e73a8a926476c47ea280735d1939b8a366982d33
+ms.openlocfilehash: 8907d9a394c5679dad5115e03d4ee697d7a07e0f
+ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92531750"
+ms.lasthandoff: 11/11/2020
+ms.locfileid: "94488150"
 ---
 # <a name="set-up-your-payout-account-and-tax-forms"></a>Ödeme hesabınızı ve vergi formlarınızı ayarlama
 
@@ -28,7 +28,7 @@ Hesabınızı ayarladıktan sonra, ticari Market 'te teklif (veya eklentiler) sa
 - [Ödeme hesabınızı ayarlama](#payout-account)
 
 > [!NOTE]
-> Teklifinizin nasıl ve ne zaman ödeneceği hakkında daha fazla bilgi için bkz. [ücretli alma](/azure/marketplace/marketplace-payout-account-setup).
+> Teklifinizin nasıl ve ne zaman ödeneceği hakkında daha fazla bilgi için bkz. [ticari Market 'te ücretli alma](marketplace-get-paid.md).
 
 ## <a name="tax-forms"></a>Vergi formları
 
@@ -77,7 +77,7 @@ Birleşik Devletler dışındaysanız, vergi anlaşmalar avantajlarından yararl
 Bir ödeme hesabı, satışınızdan devam eden bir banka hesabıdır. Profil sayfasında, girdiğiniz tüm ödeme hesaplarını görüntüleyebilirsiniz.
 
 > [!NOTE]
-> Bazı pazarlarda PayPal, ödeme hesabınız için kullanılabilir. PayPal 'in belirli bir pazar için desteklenip desteklenmediğini öğrenmek için, daha fazla ayrıntı için [ödeme eşikleri, Yöntemler ve süreleri](/azure/marketplace/payment-thresholds-methods-timeframes) ve aşağıdaki [PayPal bilgilerine](#paypal-info) bakın.
+> Bazı pazarlarda PayPal, ödeme hesabınız için kullanılabilir. PayPal 'in belirli bir pazar için desteklenip desteklenmediğini öğrenmek için, daha fazla ayrıntı için [ödeme eşikleri, Yöntemler ve süreleri](payment-thresholds-methods-timeframes.md) ve aşağıdaki [PayPal bilgilerine](#paypal-info) bakın.
 
 ### <a name="create-a-payment-profile"></a>Ödeme profili oluşturma
 
@@ -131,20 +131,20 @@ Değişiklik yapmanız veya yanlış bilgileri düzeltmeniz gerekiyorsa, mevcut 
 3. Ödeme profilleriniz, durumları ile birlikte listelenir. Düzenlemek istediğiniz profili bulun ve en sağdaki **Düzenle** ' ye tıklayın
 
 > [!IMPORTANT]
-> Ödeme hesabınızı değiştirmek, ödemenizi tek bir ödeme döngüsüne erteleyebilir. Bu gecikme, hesap değişikliğini doğrulamanız gerektiğinden, yalnızca ödeme hesabını ilk ayarlarken yaptığımız için oluşur. Hesabınız doğrulandıktan sonra da tam miktar için ücret ödeirsiniz; geçerli ödeme döngüsünün süresi dolan tüm ödemeler bir sonrakine eklenecektir. Daha fazla bilgi için bkz. [ücretli alma](/azure/marketplace/marketplace-payout-account-setup) .
+> Ödeme hesabınızı değiştirmek, ödemenizi tek bir ödeme döngüsüne erteleyebilir. Bu gecikme, hesap değişikliğini doğrulamanız gerektiğinden, yalnızca ödeme hesabını ilk ayarlarken yaptığımız için oluşur. Hesabınız doğrulandıktan sonra da tam miktar için ücret ödeirsiniz; geçerli ödeme döngüsünün süresi dolan tüm ödemeler bir sonrakine eklenecektir. Daha fazla bilgi için bkz. [ticari Market 'te ücretli alma](marketplace-get-paid.md).
 
 ### <a name="paypal-info"></a>PayPal bilgisi
 
 Ülkeleri ve bölgeleri seçin ' de, PayPal bilgilerinizi girerek bir ödeme hesabı oluşturabilirsiniz. Bununla birlikte, bir ödeme hesabı olarak PayPal seçeneğini seçmeden önce:
 
-- PayPal 'in ülkenizde veya bölgenizde desteklenen bir ödeme yöntemi olup olmadığını doğrulamak için [ödeme eşiklerini, yöntemleri ve zaman çerçevelerini](/azure/marketplace/payment-thresholds-methods-timeframes) kontrol edin.
+- PayPal 'in ülkenizde veya bölgenizde desteklenen bir ödeme yöntemi olup olmadığını doğrulamak için [ödeme eşiklerini, yöntemleri ve zaman çerçevelerini](payment-thresholds-methods-timeframes.md) kontrol edin.
 - Aşağıdaki SSS 'yi gözden geçirin. Durumunuza bağlı olarak, PayPal sizin için en iyi ödeme hesabı seçeneği olmayabilir ve bir banka hesabı tercih edilebilir.
 
 Bir ödeme yöntemi olarak PayPal kullanımıyla ilgili yaygın sorular:
 
 - **Ödemeleri almak için hangi PayPal ayarlarına sahip olmam gerekir?** PayPal hesabınızın eCheck ödemelerini engellemediğinden emin olun. Bu ayar PayPal 'in ödeme alma tercihleri sayfasında yönetilir. Daha fazla bilgi için [PayPal 'in hesap kurulum sayfasına](https://go.microsoft.com/fwlink/p/?linkid=513139) bakın.
 
-- **Ülkeniz/bölgem destekleniyor mu?** PayPal 'in desteklenen bir ödeme yöntemi olduğunu öğrenmek için [ödeme eşikleri, Yöntemler ve zaman çerçevelerine](/azure/marketplace/payment-thresholds-methods-timeframes) bakın.
+- **Ülkeniz/bölgem destekleniyor mu?** PayPal 'in desteklenen bir ödeme yöntemi olduğunu öğrenmek için [ödeme eşikleri, Yöntemler ve zaman çerçevelerine](payment-thresholds-methods-timeframes.md) bakın.
 
 - **PayPal hesabımın Iş Ortağı Merkezi hesabımın aynı ülkede/bölgede kayıtlı olması gerekir mi?** Hayır. Bir PayPal hesabı ayarladığınızda, varsayılan yapılandırmayı kabul edebilirsiniz. Bazı para birimlerindeki ödemeyi bloke etmezseniz, başka ülkelerde/bölgelerde ve para birimleriyle ilgili herhangi bir sorununuz olması gerekmez. Bu ayar PayPal 'in ödeme alma tercihleri sayfasında yönetilir.
 
@@ -205,4 +205,4 @@ Microsoft, ilk ödeme denendiğinde üç belgeyi de sağlar. Sonraki ödemelerde
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-[Ticari market faturalaması](/azure/marketplace/billing-details)
+[Ticari markette ödeme alma](marketplace-get-paid.md)

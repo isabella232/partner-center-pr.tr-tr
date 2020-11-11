@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 11/02/2020
-ms.openlocfilehash: 2d4fc0aef733b8086e550695e2b2e4065930a4a1
-ms.sourcegitcommit: af2787e516ecfb5f6cf1acdb8179f2337bfa856a
+ms.openlocfilehash: 9702bef0a2fa753e37cfe305bc766ea64f0d0b3f
+ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 11/06/2020
-ms.locfileid: "94333904"
+ms.lasthandoff: 11/11/2020
+ms.locfileid: "94488155"
 ---
 # <a name="november-2020-announcements"></a>Kasım 2020 duyuruları
 
@@ -23,6 +23,56 @@ Bu sayfada, Kasım 2020 ' de Microsoft Iş Ortağı Merkezi duyuruları ayrınt�
 2020 Duyuruları: [Nisan](2020-april.md)  |  [May](2020-may.md)  |  [June](2020-june.md)  |  [July](2020-july.md)  |  [August](2020-august.md)  |  [ayında Eylül](2020-september.md)ayında Haziran ayı  |  [October](2020-October.md) | Kasım
 
 ______________
+
+
+## <a name="testing-available-partner-center-api-updates-and-user-interface-ui-enhancements-for-the-education-customer-validation-process"></a><a name="7"></a>Test kullanılabilir: eğitim müşterisi doğrulama işlemi için Iş Ortağı Merkezi API Güncellemeleri ve Kullanıcı arabirimi (UI) geliştirmeleri
+
+### <a name="categories"></a>Kategoriler
+
+- Tarih 2020-11-10
+- Yetenekler | Sürücü verimliliği & ölçeği
+
+### <a name="impacted-audience"></a>Etkilenen hedef kitle
+
+Akademik, bulut çözümü sağlayıcısı (CSP) programı aracılığıyla akademik teklifler satan iş ortakları.
+
+### <a name="summary"></a>Özet
+
+Test artık eğitim müşteri doğrulama işlemi için Iş Ortağı Merkezi API Güncellemeleri ve Kullanıcı arabirimi geliştirmeleri için kullanılabilir.
+
+### <a name="details"></a>Ayrıntılar
+
+Microsoft, güvende çalışır. CSP programındaki deneyimidir akademik teklifleri için uyumlu, güvenli ve güvenli bir müşteri doğrulama yöntemi sağlamayı taahhüt ediyoruz. Bunun bir parçası olarak, bu mali yılın (FY21 S2) ikinci çeyreğinde Iş Ortağı Merkezi API 'SI ve Kullanıcı arabirimi geliştirmeleri sunuyoruz. Bu geliştirmeler, müşteri doğrulama işlemine netlik ve görünürlük ekleyecek ve daha doğru veri girişi yapabilme olanağıdır ve bu da geliştirilmiş müşteri doğrulama başarısını de sağlar.
+
+**İş ortağı merkezi geliştirmeleri**
+
+- Yeni GET ve POST nitelikleri API 'Leri, doğru veri girişini destekler ve Microsoft tarafından eğitim müşteri doğrulama sürecini geliştirir.
+
+- Doğru veri girişini desteklemek ve Microsoft tarafından eğitim müşteri doğrulama işlemini geliştirmek için Kullanıcı arabirimi geliştirmeleri.
+
+**Test etme**
+
+Başarılı müşteri doğrulaması için gereken API 'Leri ve veri girişini daha iyi anlamak için, iş ortakları bu geliştirmeleri 2020 Ekim 'den test edebilir. Tam zamanlamaya göre yakında daha fazla ayrıntı vereceğiz ve nasıl katılacağız. FY21 S2 'in sonundan önce mevcut Iş Ortağı Merkezi API 'Leri kullanımdan kaldırılacak. Bu sırada, yeni Iş Ortağı Merkezi API 'Lerine geçiş yapmanız gerekir.
+
+   - Test, iş ortağı test tarihleri 2 Ekim 2 ile 2 Aralık 2020 arasında. Katılmak isteyen iş ortakları için Iş ortağı merkezi eğitim müşteri test Kılavuzu ' nu nasıl hazırlayacağınız, nasıl kaydolmak ve test aşamasında beklenmek üzere indirmesi gerekir.
+
+**Kitaplık ve Museum müşterileri**
+
+Bu geliştirmelere ek olarak, FY21 S2 'de bunu duyurmaktan mutluluk duyuyoruz, kitaplık ve Museum müşterileri için akademik fiyatlı teklifleri etkinleştireceğiz ve bu müşterilere Transact CSP teklifleri sağlayan eğitim müşterilerini genişleteceğiz.
+
+Microsoft, herhangi bir müşterinin veya önerilen müşterinin durumunu tam eğitim kullanıcısı olarak gözden geçirme hakkını saklı tutar. Tüm ayrıntılar için [akademik nitelikli eğitim Kullanıcı gereksinimlerine](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7) bakın.
+
+## <a name="next-steps"></a>Sonraki adımlar
+
+Yeni Iş Ortağı Merkezi kullanıcı arabirimi ve API değişikliklerinin yanı sıra [Iş Ortağı Merkezi eğitimi müşteri doğrulama işlemi geliştirmeleri içerik koleksiyonundaki](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/) test Kılavuzu ' nu gözden geçirin.
+
+• Teste katılmak için kaydolun. (Ayrıntılar için bkz. [Test Kılavuzu](https://partner.microsoft.com/resources/detail/partner-center-edu-testing-guide-pdf) .) 
+
+• Kuruluşunuzun [akademik eğitim Kullanıcı gereksinimlerine uygun](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7)olduğundan emin olun. 
+
+• Bu bilgileri, bu değişikliklere hazırlanmalarına yardımcı olmak için satıcılarınızla birlikte kuruluşunuzun içindeki uygun ekiplerle birlikte paylaşabilirsiniz.
+
+
 
 ## <a name="expanding-commercial-licensing-partner-content-on-the-operations-readiness-gallery"></a><a name="6"></a>Işlem hazırlığı galerisinde ticari lisanslama iş ortağı içeriğini genişletme
 

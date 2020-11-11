@@ -9,19 +9,19 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 98bfd9a9ce6f03ad62a830f05ba82f9b90268326
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: d09c1e57d16937c5656579f3932e9c8feb3ecf24
+ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92531582"
+ms.lasthandoff: 11/11/2020
+ms.locfileid: "94488101"
 ---
 # <a name="learn-how-to-read-the-line-items-in-your-partner-center-reconciliation-files"></a>Iş Ortağı Merkezi mutabakatı dosyalarınızda satır öğelerini okumayı öğrenin
 
 Aşağıdakiler cihazlar için geçerlidir:
 
 - İş Ortağı Merkezi
-- ABD kamu için Microsoft Bulut iş ortağı Merkezi
+- Microsoft Cloud for US Government için İş Ortağı Merkezi
 
 Bir fatura döngüsündeki her bir ücret için ayrıntılı, satır öğesi görünümü için Iş Ortağı Merkezi ' nden mutabakat dosyalarınızı indirebilirsiniz. Satır öğesi ayrıntıları, her bir müşterinin aboneliğine ilişkin ücretleri ve ayrıntılı olayları (bir aboneliğe yönelik bir abonelik için orta dönem ekleme gibi) içerir.
 
@@ -37,6 +37,7 @@ Uygun roller:
 - [Lisans tabanlı mutabakat dosya alanları](license-based-recon-files.md)
 - [Kullanım tabanlı mutabakat dosya alanları](usage-based-recon-files.md)
 - [Günlük olarak derecelendirilen kullanım mutabakatı dosya alanları](daily-rated-usage-recon-files.md)
+- [Bir kerelik satın alma CSP 'si mutabakatı dosya alanları](modern-invoice-reconciliation-file.md)
 
 ## <a name="understand-charge-types-in-reconciliation-files"></a>Mutabakat dosyalarındaki ücretlendirme türlerini anlama
 

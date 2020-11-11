@@ -6,14 +6,14 @@ ms.service: marketplace
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 05/04/2020
-ms.openlocfilehash: 161c524cb3c20b2d17e4bb265cc676acc1af2702
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 89b014b87dd37cc2d38a5931b2f5433394f369c9
+ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92532010"
+ms.lasthandoff: 11/11/2020
+ms.locfileid: "94488206"
 ---
-# <a name="tax-details-for-commercial-marketplace-publishers"></a>Ticari Market yayımcıları için vergi ayrıntıları
+# <a name="tax-details-for-commercial-marketplace-publishers"></a>Ticari market yayıncıları için vergi bilgileri
 
 Fiyat seçimine ilişkin vergi ve ticari sorumluluğun [Microsoft Azure Market Yayımcı Sözleşmesi](https://go.microsoft.com/fwlink/p/?LinkID=699560) veya modern Yayımcı Sözleşmesi kapsamında olduğunu anlamak için, aşağıdaki tablolarda yer alarak bulunan ülkelere/dağıtım Bölgelerinizle ilgili bilgi edinin.
 
@@ -269,7 +269,7 @@ Aşağıdakiler yalnızca Azure Marketi yayımcıları için geçerlidir ve yuka
 
 ## <a name="mixed-remittance-countriesregions-for-publishers"></a>Yayımcılar için karışık havale ülkeleri/bölgeleri
 
-Belirli Microsoft faturalandırma ortakları, satış, kullanım, mal ve hizmet, katma değer veya benzer vergiler (varsa), bir veya daha sonra listelenen ülkelerde/bölgelerde mağaza aracılığıyla uygulama In-App veya ürün (ler) satın almak için geçerlidir. Microsoft 'un sizin için kullanılabilir hale getiren [raporlar](/azure/marketplace/payout-summary-overview) , bir faturalandırma ortağının satışları, kullanımı, malları ve Hizmetleri, eklenen değer ya da uygulama için mağaza In-App veya ürün (ler) satın alma işlemleri için geçerli olan satış, kullanım, mal ve hizmet, katma değer ya da benzer vergiler toplamıştır. Bu tür raporlamada açıklanan işlemler hariç, Microsoft ve faturalandırma hizmetleri sağlayıcıları hiçbir satış, kullanım, mal ve hizmet, bu ülkede/bölgedeki uygulama veya In-App ürün (ler) ile bağlantılı olarak herhangi bir satış, kullanım, mal ve hizmet, değer eklenmiş veya başka bir vergi olarak havale edecektir. Sizin için sunulan raporlamayı gözden geçirmekten ve yükümlülüklerinizi belirlemekten ve bunlarla uyumlu olacak şekilde, varsa uygulama veya In-App ürün (ler) ile bağlantılı olarak vergileri kaydetme, toplama ve havale etme sorumluluğunuz vardır.
+Belirli Microsoft faturalandırma ortakları, satış, kullanım, mal ve hizmet, katma değer veya benzer vergiler (varsa), bir veya daha sonra listelenen ülkelerde/bölgelerde mağaza aracılığıyla uygulama In-App veya ürün (ler) satın almak için geçerlidir. [Ödeme deyiminizdeki](payout-statement.md) Microsoft 'un sizin için kullanıma sunduğu raporlar, bir faturalandırma ortağının satış, kullanım, mal ve hizmet, müşteri veya mağaza aracılığıyla uygulama alımı veya In-App ürünleri için geçerli olan satış, kullanım, mal ve Hizmetleri, katma değer veya benzer vergileri topladıkları işlemleri tanımlayacaktır. Bu tür raporlamada açıklanan işlemler hariç, Microsoft ve faturalandırma hizmetleri sağlayıcıları hiçbir satış, kullanım, mal ve hizmet, bu ülkede/bölgedeki uygulama veya In-App ürün (ler) ile bağlantılı olarak herhangi bir satış, kullanım, mal ve hizmet, değer eklenmiş veya başka bir vergi olarak havale edecektir. Sizin için sunulan raporlamayı gözden geçirmekten ve yükümlülüklerinizi belirlemekten ve bunlarla uyumlu olacak şekilde, varsa uygulama veya In-App ürün (ler) ile bağlantılı olarak vergileri kaydetme, toplama ve havale etme sorumluluğunuz vardır.
 
 | Karışık havale ülkeleri/bölgeleri |
 |------------------------------------|
@@ -289,4 +289,4 @@ Aşağıdakiler yalnızca Azure Marketi yayımcıları için geçerlidir:
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-[Ödeme hesabınızı ve vergi formlarınızı ayarlama](/azure/marketplace/marketplace-payout-account-setup)
+[Ödeme hesabınızı ve vergi formlarınızı ayarlama](set-up-your-payout-account.md)

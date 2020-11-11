@@ -1,19 +1,19 @@
 ---
-title: Microsoft tarafından verilen ıRS vergi formlarını anlayın
+title: Microsoft tarafından verilen IRS vergi formlarını anlama
 description: Microsoft tarafından verilen ve ne zaman kullanılabilir hale getirildikleri dahil olmak üzere vergi formları hakkında bilgi edinin.
 ms.topic: article
 author: mingshen-ms
 ms.author: mingshen
 ms.localizationpriority: medium
 ms.date: 09/30/2020
-ms.openlocfilehash: 18ebd0a82802e26295ed985084585306da464079
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: 5543ec62397a72a042c5aa64c6c8f77ce7286f4c
+ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92531951"
+ms.lasthandoff: 11/11/2020
+ms.locfileid: "94487882"
 ---
-# <a name="understand-irs-tax-forms-issued-by-microsoft"></a>Microsoft tarafından verilen ıRS vergi formlarını anlayın
+# <a name="understand-irs-tax-forms-issued-by-microsoft"></a>Microsoft tarafından verilen IRS vergi formlarını anlama
 
 Her yıl Microsoft 'tan bir veya daha fazla vergi formu alabilirsiniz. Bu, konumunuza ve aldığınız satış veya ödeme miktarına bağlıdır. Microsoft 'un bu formları vermesi ve bunları dahili gelir hizmeti (ıRS) ile dosyaları için yapması gerekir.
 
@@ -27,7 +27,7 @@ Bu makalede, bu formlar hakkında daha fazla bilgi sağlanır.
 |1042-S | Birleşik Devletler stopaj vergisine tabi olan ve size yapılan ödemeler ile ilgili | Yazdırılan formlar, **15 Mart** tarihinde veya daha önce işaretlenir ve. PDF kopyaları Iş Ortağı Merkezi 'Nde ( **ödeyen ve vergi > ödeme** kapsamındaki **iş ortağı Merkezi geliştirici ayarları** ) aynı anda kullanılabilir olacaktır  |
 
 > [!NOTE]
-> IRS vergi formlarında kullandığımız adres, [vergi profilinizdeki](/azure/marketplace/marketplace-payout-account-setup)adresten gelir. Adresiniz değiştiyse, **vergi profilinizde** adresi güncelleştirdiğinizden emin olun.
+> IRS vergi formlarında kullandığımız adres, [ödeme hesabınızı ve vergi formlarınızı ayarlarken](set-up-your-payout-account.md)vergi profilinizdeki adresten gelir. Adresiniz değiştiyse, **vergi profilinizde** adresi güncelleştirdiğinizden emin olun.
 
 Vergi formları şu adreslerden size gönderilecektir:
 
@@ -55,10 +55,10 @@ Vergi formları şu adreslerden size gönderilecektir:
 |------------------------|-----------------------|
 | Geçerli vergi yılında **200** **ABD Doları $20.000 'den** büyük bir toplam satın alma miktarı (Windows 10 ' da Microsoft Store ile Brezilya ve Çin 'de yapılan satışları **saymıyor** .)| **1099-K:**<br/>Filer: Microsoft Corporation<br/>EIN: \* \* \* \* \* 4442<br/><br/>**Önemli:** Form 1099-K, size yapılan ödemeleri değil, **Brüt satın alma** tutarlarını içerir.| 
 | Minecrampamarket 'teki Windows 10 veya (II) satışları Microsoft Store, Brezilya ve Çin 'de gerçekleştirilen, (i) uygulama satışları için **en az $10 ödedim** .<br/><br/>**OR**<br/><br/>İlgili vergi yılında Microsoft 'un uygulama satışlarına yönelik olarak en az $600 ödedim (örneğin, bir yarışmaya veya promosyondan ödemeleri veya ödemeleri teşvik edin)| **1099-ÇEŞITLI:**<br/>Ödeyen: Microsoft Corporation<br/>EIN: \* \* \* \* \* 4442<br/><br/>**Önemli:** Belirli iş varlıkları, Microsoft 'tan alınan ödeme tutarlarından bağımsız olarak 1099-MISC formlar almaz.  Daha fazla bilgi için vergi uzmanınıza başvurun.| 
-| Yukarıdakilerin hiçbiri uygulanmaz.| Yok |
+| Yukarıdakilerin hiçbiri uygulanmaz.| Hiçbiri |
 | <br/><br/>**Uygulamalarım, uygulamalar ve... için reklamları satan Birleşik Devletler geliştirici.** |<br/><br/>**Şu formu almam gerekir:** |
 |Geçerli vergi yılında uygulamalarda reklamları **en az $600 oranında** aldım. | **1099-ÇEŞITLI:**<br/>Ödeyen: Microsoft Online Inc<br/>EIN: \* \* \* \* \* 0505<br/><br/>**Önemli:** Belirli iş varlıkları, Microsoft 'tan alınan ödeme tutarlarından bağımsız olarak 1099-MISC formlar almaz.  Daha fazla bilgi için vergi uzmanınıza başvurun. |
-| Geçerli vergi yılında uygulamalardaki reklamları **$600 ' den az ödedim** . | Yok |
+| Geçerli vergi yılında uygulamalardaki reklamları **$600 ' den az ödedim** . | Hiçbiri |
 
 
 ## <a name="for-developers-located-outside-of-the-united-states"></a>Birleşik Devletler dışında bulunan geliştiriciler için
