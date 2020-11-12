@@ -337,10 +337,12 @@
           href: chip-payment-status.md
         - name: Bir sözleşmenin masaüstü cihaz sayısını ve ücret düzeyini bulma
           href: chip-locate-agreement.md
-        - name: Çözüm Değerlendirmesine Uygunluk
-          href: chip-solution-assessment.md
+        - name: Çözüm Değerlendirmesine uygunluk
+          href: chip-solutions-assessment-eligible.md
         - name: Çözüm Değerlendirmesi ödeme durumu
           href: chip-solution-assessment-payment.md
+        - name: Çözüm Değerlendirmesi hakkında SSS
+          href: chip-faq.md
         - name: CHIP’e erişim sorunları
           href: chip-access-trouble.md
 - name: Faturalama ve vergiler
@@ -365,6 +367,10 @@
       href: daily-rated-usage-recon-files.md
     - name: Lisansa dayalı mutabakat dosyaları
       href: license-based-recon-files.md
+    - name: Tek seferlik satın alma CSP keşfi dosyaları
+      href: modern-invoice-reconciliation-file.md
+    - name: Geçerli birim fiyat hesaplaması
+      href: effective-unit-price-calculation.md
     - name: Yaygın fatura senaryoları
       href: common-billing-scenarios.md
       displayName: 'trial, subscription'
