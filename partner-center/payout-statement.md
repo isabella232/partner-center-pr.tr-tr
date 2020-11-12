@@ -4,15 +4,15 @@ description: Ödeme deyimleri ve özetler hakkında bilgi edinin ve ticari Marke
 ms.subservice: partnercenter-marketplace-publisher
 ms.service: marketplace
 ms.topic: article
-author: mingshen-ms
-ms.author: mingshen
+author: eunjkim520
+ms.author: eunjkim
 ms.date: 09/23/2020
-ms.openlocfilehash: 460a7b1992d7db40e0f45d3aeb7e2236e9495e07
-ms.sourcegitcommit: a84812b650ec8b6d0513c46c04840e4bbb0c8460
+ms.openlocfilehash: 34d7d162673992601267db03beaddda1573b73c0
+ms.sourcegitcommit: cc30a06abe55b9da32177a24e74bfd6fc7d8bbb9
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "92531771"
+ms.lasthandoff: 11/12/2020
+ms.locfileid: "94532064"
 ---
 # <a name="payout-statements"></a>Ödeme deyimleri
 
@@ -50,7 +50,7 @@ Ayrıca, [Iş ortağı ödeme API](https://apidocs.microsoft.com/services/partne
 
 **İşlem geçmişi** sayfasında, son 36 aya göre kazanç, tahmini bir sonraki ödeme ve kazanç ve ödemeler eğilimi gösterilir. Ayrıca, bu bölümden işlem ayrıntılarını indirebilirsiniz.
 
-:::image type="content" source="images/payouts/transaction-overview.png" alt-text="Iş Ortağı Merkezi portalının sağ üst köşesindeki ödeme simgesini gösterir":::
+:::image type="content" source="images/payouts/transaction-overview.png" alt-text="İşleme genel bakış.":::
 
 - **Bu yıla gönderilen kazançlar** – ödenen ve gelecek ayda ödenen toplam kazanç ve döküm dökümü.
 - **Tahmini ödeme ayı** – yaklaşan aylarda beklenen toplam kazanç.
@@ -59,13 +59,13 @@ Ayrıca, [Iş ortağı ödeme API](https://apidocs.microsoft.com/services/partne
 
 Son 3, 6, 12 veya 36 ayı göstermek için sayfanın çıktısını filtrelemek üzere sayfanın sağ üst köşesindeki tarih aralığı seçimini kullanın. Ya da 36 aya kadar bir özel tarih aralığı seçin. Varsayılan tarih aralığı 12 aydır.
 
-:::image type="content" source="images/payouts/search-filter.png" alt-text="Iş Ortağı Merkezi portalının sağ üst köşesindeki ödeme simgesini gösterir":::
+:::image type="content" source="images/payouts/search-filter.png" alt-text="Sayfanın sağ üst kısmındaki arama filtresi.":::
 
 ### <a name="transaction-history-summary"></a>İşlem geçmişi Özeti
 
 Bu, ürünün sunduğu ve tahmin edilen tarihleri, durumu ve tahmini ödeme ayını kazanmanın kaynağı dahil olmak üzere, ayrıntıları gösterir.
 
-:::image type="content" source="images/payouts/transaction-history.png" alt-text="Iş Ortağı Merkezi portalının sağ üst köşesindeki ödeme simgesini gösterir":::
+:::image type="content" source="images/payouts/transaction-history.png" alt-text="İşlem geçmişi.":::
 
 - **Kazanılan tarih** : satın alma tarihi.
 - **Kazanç türü** : satış, Indirim veya ortak işlem gibi kazanç türü.
@@ -171,7 +171,7 @@ Bir atma hakkında daha fazla ayrıntı görmek için sayfanın en üstünde **�
 >[!Note]
 > Ödemenizin uygun olması için, devam eden $50 [ödeme eşiğine](payment-thresholds-methods-timeframes.md) ulaşmalıdır. Daha fazla bilgi için bkz. [Microsoft Publisher sözleşmesi](https://go.microsoft.com/fwlink/?LinkID=699560).
 
-:::image type="content" source="images/payouts/payments-overview.png" alt-text="Iş Ortağı Merkezi portalının sağ üst köşesindeki ödeme simgesini gösterir":::
+:::image type="content" source="images/payouts/payments-overview.png" alt-text="Ödemeler genel bakış ekranı.":::
 
 - **Toplam ödenen bu yıl** – tüm programlarınız için ABD Doları cinsinden bu yıla kadar ödenen toplam miktar.
 - **Sonraki tahmini ödeme** : ABD Doları cinsinden size gelen tek bir sonraki ödeme (çok yakında geliyor olsa bile).
@@ -182,7 +182,7 @@ Bir atma hakkında daha fazla ayrıntı görmek için sayfanın en üstünde **�
 
 **Ödemeler tablosunun listesi** ücretli ve bekleyen ödemeleri gösterir. Hizmet ücreti vergi bilgilerini PDF biçiminde indirebilir ve belirli bir ödemenin kazanç ayrıntılarını görüntüleyebilirsiniz.
 
-:::image type="content" source="images/payouts/list-of-payments.png" alt-text="Iş Ortağı Merkezi portalının sağ üst köşesindeki ödeme simgesini gösterir":::
+:::image type="content" source="images/payouts/list-of-payments.png" alt-text="İşlem geçmişini dışarı aktar":::
 
 - **Ücretli** – tüm ödemeler başarıyla gönderildi. Bu yıl içinde Yayınlanan ödemeleri filtrelemek için açılan menüdeki yılı seçin.
 - **Bekleyen** – yaklaşan ödemeler.
@@ -244,7 +244,7 @@ Filtreniz **veri kullanılabilir** hatasıyla sonuçlanabilir. Bu, varsayılan z
 
 Örnek ödemeler dışarı aktarma işlemi aşağıda verilmiştir:
 
-:::image type="content" source="images/payouts/pc-export-payments.png" alt-text="Iş Ortağı Merkezi portalının sağ üst köşesindeki ödeme simgesini gösterir":::
+:::image type="content" source="images/payouts/pc-export-payments.png" alt-text="Ödemeler raporunu dışarı aktarın.":::
 
 ### <a name="historical-statements"></a>Geçmiş deyimleri
 
@@ -253,7 +253,10 @@ Filtreniz **veri kullanılabilir** hatasıyla sonuçlanabilir. Bu, varsayılan z
 > [!NOTE]
 > Geçmiş bir ifade bir anlık görüntüdür ve yenilenmez. Lütfen [desteğe](https://partner.microsoft.com/support/v2/?stage=1) başvurun ve gerekirse en son verileri isteyin.
 
-:::image type="content" source="images/payouts/pc-export-statements.png" alt-text="Iş Ortağı Merkezi portalının sağ üst köşesindeki ödeme simgesini gösterir" durumuna eşit olan tüm kazançları hariç saklayan bir sütun içerir.
+:::image type="content" source="images/payouts/pc-export-statements.png" alt-text="Geçmiş deyimlerini dışarı aktarın.":::
+
+- 1 Temmuz 2019 tarihinden önceki işlem geçmişi ayrı olarak işlenir ve sonraki geçmiş raporlarından farklı alanlar kullanır.
+- Eski işlem geçmişi, "ayrılmış" adlı, modern geçmişteki "kazanç" sütununa karşılık gelen ve "ödeme gönderildi" durumuna eşit olan tüm kazançları hariç saklayan bir sütun içerir.
 - 3K, 6k veya 12D gibi filtreler geçmiş deyimler bölümüne uygulanmaz.
 
 ### <a name="historical-statement-downloads"></a>Geçmiş ekstresi İndirmeleri

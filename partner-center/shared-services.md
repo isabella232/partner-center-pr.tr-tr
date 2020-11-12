@@ -8,19 +8,16 @@ author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.date: 06/03/2020
-ms.openlocfilehash: 49b5bd1c9a7cd4c56f2fac28a45cc8a4b922b9b0
-ms.sourcegitcommit: 2d11dbdcc2b1e64ad16d29182824984517470a63
+ms.date: 11/11/2020
+ms.openlocfilehash: 93ee3e142bf11c3b329fd27ec7320b93aea780b8
+ms.sourcegitcommit: cc30a06abe55b9da32177a24e74bfd6fc7d8bbb9
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/24/2020
-ms.locfileid: "92531755"
+ms.lasthandoff: 11/12/2020
+ms.locfileid: "94532047"
 ---
 # <a name="add-azure-partner-shared-services-so-partners-can-buy-azure-subscriptions-for-their-own-use"></a>Azure Iş ortağı paylaşılan hizmetleri 'ni ekleyerek iş ortaklarının kendi kullanımları için Azure abonelikleri satın alabilir
 
-**Uygulama hedefi**
-
-- İş Ortağı Merkezi
  
 **Uygun roller**
 
@@ -38,17 +35,17 @@ Azure Iş ortağı paylaşılan hizmetleri, iş ortaklarının Azure abonelikler
 
 2. Zaten bir paylaşılan hizmetler kiracınız yoksa, **paylaşılan hizmetler oluştur** ' a tıklayın.
 
-   :::image type="content" source="images/sharedservices3.png" alt-text="Hesap ayarları > paylaşılan hizmetler":::
+   :::image type="content" source="images/sharedservices3.png" alt-text="Paylaşılan hizmetler oluştur":::
 
 3. Bu, paylaşılan kaynaklar ve iç iş yükü için kullanılmak üzere paylaşılan bir hizmet kiracısı oluşturur ve Azure CSP paylaşılan hizmetleri aboneliğini satın alır.
 
-   :::image type="content" source="images/sharedservices5.png" alt-text="Hesap ayarları > paylaşılan hizmetler":::
+   :::image type="content" source="images/sharedservices5.png" alt-text="Kiracıyı oluşturma ve aboneliği satın alma":::
 
 ## <a name="about-the-azure--internalshared-services-offer"></a>Azure Dahili/Paylaşılan Hizmetler teklifi hakkında
 
 - Azure Dahili/Paylaşılan Hizmetler aboneliği, iş ortaklarının kendi Azure kullanımlarını aldığı Iş Ortağı Merkezi aracılığıyla erişilebilen CSP 'de yeni bir Azure teklif türüdür.
 
-- Azure Dahili/Paylaşılan Hizmetler teklif, indirimler ve teşvikleri için uygun değildir.
+- Azure Dahili/Paylaşılan Hizmetler teklif, indirimler ve teşvikleri için uygundur.  Azure Iş ortağı paylaşılan hizmetleri abonelikleri uygun ve RIS satın almak için kullanılabilir.
 
 - Azure Dahili/Paylaşılan Hizmetler teklif yalnızca paylaşılan hizmetler kiracısına uygulanabilir.
 
@@ -70,7 +67,7 @@ Azure Iş ortağı paylaşılan hizmetleri (APSS), 1 Mart 2019 itibariyle artık
 
 |**Market desteği**   |**APSS, 1 Mart 2019 ' den önce destekleniyor**|**1 Mart 2019 ' den sonra**|
 |---------------------------|:----------------------------|:-------------------|
-|Kendi lisansınızı getirin (KLG) ve ücretsiz hizmetler   | Evet   | Hayır|
+|Kendi lisansınızı getirin (KLG) ve ücretsiz hizmetler   | Yes   | Hayır|
 |Diğer üçüncü taraf Market teklifleri   | Hayır   |Hayır|
 
 APSS kullanılarak dağıtılan KLG veya ücretsiz hizmetleri olan iş ortakları bundan etkilenmez; Ancak, 1 Mart 2019 ' den sonra yeni KLG veya ücretsiz hizmetler satın amazlar.
@@ -78,3 +75,7 @@ APSS kullanılarak dağıtılan KLG veya ücretsiz hizmetleri olan iş ortaklar�
 Market tekliflerinin (yalnızca KLG ve ücretsiz hizmetler değil) tam kataloğundan faydalanmak için, CSP iş ortaklarının Web doğrudan Azure abonelikleri kullanarak paylaşılan hizmetleri dağıtmalarını öneririz.  Daha önce Market 'ten üçüncü taraf KLG ve ücretsiz hizmet kaynakları dağıtmış olan CSP iş ortakları ve bunları kullanmaya devam etmek ve daha fazla üçüncü taraf teklifi dağıtmak, APSS aboneliğini [mevcut Azure aboneliklerinin doğrudan geçişine](/azure/cloud-solution-provider/migration/migration#migrating-existing-azure-subscriptions)Web 'e geçirmeye önerilir.
 
 İş ortakları, 1 Mart 2019 ' den sonra APSS aboneliğini kullanmaya devam etmeyi planlıyor ve yeni üçüncü taraf [KLG hizmetlerini](https://azuremarketplace.microsoft.com/marketplace/apps?filters=byol) veya ücretsiz hizmetleri dağıtmak istiyor. BUNLARı APSS aboneliklerine dağıtmak için ISV 'lerden gelen yönergeleri uygulayabilir.
+
+## <a name="next-steps"></a>Sonraki adımlar
+
+- [CSP üzerinden yazılım aboneliği satma](csp-software-subscriptions.md)

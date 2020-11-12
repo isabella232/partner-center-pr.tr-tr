@@ -4,15 +4,15 @@ description: Ticari Market 'teki ödemeler hakkında sık sorulan soruların yan
 ms.service: marketplace
 ms.subservice: partnercenter-marketplace-publisher
 ms.topic: article
-author: keferna
-ms.author: keferna
+author: eunjkim520
+ms.author: eunjkim
 ms.date: 09/11/2020
-ms.openlocfilehash: 44bd7f488e3d4e79c45cb2746c7e2a6da449a310
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 5775eb497940870344e0d3da85def7c3e717c65f
+ms.sourcegitcommit: cc30a06abe55b9da32177a24e74bfd6fc7d8bbb9
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92532067"
+ms.lasthandoff: 11/12/2020
+ms.locfileid: "94532030"
 ---
 # <a name="common-questions-about-commercial-marketplace-payouts"></a>Ticari Market ödeimiyle ilgili sık sorulan sorular
 
