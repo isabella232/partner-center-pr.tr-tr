@@ -9,19 +9,19 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 58aaf94c06be233d9b12fce23a86b25078c3fd9b
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 1db695179915f8ee803ad4dfdcfd6278ce49238b
+ms.sourcegitcommit: a2ea54f814fdbd619421a83482831b22f49416f6
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92532054"
+ms.lasthandoff: 11/12/2020
+ms.locfileid: "94567099"
 ---
 # <a name="how-to-report-problems-with-partner-center-and-submit-any-log-or-diagnostics-information"></a>Iş Ortağı Merkezi ile ilgili sorunları bildirme ve günlük veya tanılama bilgilerini gönderme
 
-**Uygulama hedefi**
+**Şunlara uygulanır**
 
 - İş Ortağı Merkezi
-- ABD kamu için Microsoft Bulut iş ortağı Merkezi
+- Microsoft Cloud for US Government için İş Ortağı Merkezi
 
 Sorun bulursanız veya Iş Ortağı Merkezi ile ilgili yardıma ihtiyaç duyuyorsanız Iş ortağı merkezi desteği 'ne başvurun.
 
@@ -33,13 +33,31 @@ Tüm oturum açan Iş Ortağı Merkezi kullanıcıları, iş ortağı destek ist
 
 1. **Iş Ortağı Merkezi** panonuzdan **destek** ' i seçin ve ardından **iş ortağı destek istekleri** ' ni seçin.
 
-2. **Yeni istek** ' ı seçin ve ardından sorununuzu en iyi açıklayan sorun türünü arayın. Sorun türünü seçin ve **çözümleri gözden geçirin** .
+2. **Yeni istek** ' ı seçin ve ardından sorununuzu en iyi açıklayan sorun türünü arayın. Sorun türünü seçin ve **çözümleri gözden geçirin**.
 
 3. Sorunu çözmenize yardımcı olabilecek adımlar veya ilgili belgeler için **önerilen çözümler** sayfasını gözden geçirin.
 
-4. **Önerilen çözümler** sorununuzu çözülemezse **panoya geri dön** seçeneğini belirleyebilirsiniz. Hala yardıma ihtiyacınız varsa devam edebilir ve **Sorun ayrıntılarını sağlayabilirsiniz** .
+4. **Önerilen çözümler** sorununuzu çözülemezse **panoya geri dön** seçeneğini belirleyebilirsiniz. Hala yardıma ihtiyacınız varsa devam edebilir ve **Sorun ayrıntılarını sağlayabilirsiniz**.
 
-5. **Sorun ayrıntılarını** tamamlayıp **gönderin** . Iş ortağı destek temsilcisi sizinle birlikte olacaktır.
+5. **Sorun ayrıntılarını** tamamlayıp **gönderin**. Iş ortağı destek temsilcisi sizinle birlikte olacaktır.
+
+## <a name="schedule-a-support-appointment"></a>Destek randevusu Zamanlama 
+
+**Şu anda önizleme aşamasındadır*
+
+Sorununuz Destek Danışmanı ile ilgili bir konuşma gerektiriyorsa, randevuyu bilet ayrıntılarından zamanlayabilirsiniz.
+
+:::image type="content" source="images/support/ticket.png" alt-text="Destek randevusu Zamanlama":::
+
+1.  Iş Ortağı Merkezi 'nin bilet ayrıntıları sayfasında, destek için bir tarih ve saat seçin. Yerel saat diliminizde yalnızca kullanılabilir tarihler ve saatler görüntülenir.
+
+:::image type="content" source="images/support/ticket2.png" alt-text="Randevu zamanla":::
+
+2. İş Ortağı Merkezi, kullanılabilirlik için destek al takvimini denetler.
+
+1. Bir randevuyu zamanladığınızda, iş ortağı Merkezi size destek ekibi ile nasıl iletişim kuracaksınız hakkında bilgi içeren bir takvim daveti gönderir ve bu randevuyu kendi iş takviminizde izleyebilirsiniz.
+
+:::image type="content" source="images/support/ticket3.png" alt-text="Tarih ve saat":::
 
 ## <a name="send-diagnostics"></a>Tanılama gönder
 
@@ -65,3 +83,6 @@ Tanılama bilgilerini önizleyebilir ve ardından, destek isteğinize ekleyebile
 
 İş ortağı desteği, en güncel bilgileri alabilmek için bu aracı birkaç kez çalıştırmanızı isteyebilir.
 
+## <a name="next-steps"></a>Sonraki adımlar
+
+- [Bir müşteri adına bir hizmet sorunu bildirin](report-problems-on-behalf-of-a-customer.md)

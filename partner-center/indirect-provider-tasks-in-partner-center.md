@@ -9,12 +9,12 @@ ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
 ms.date: 07/01/2020
-ms.openlocfilehash: 21a21bc363856ee041ff9e3f9f41b0bcf9796467
-ms.sourcegitcommit: 940dad4527f51781f6f966e196b3aa08389613a2
+ms.openlocfilehash: 12b902f8134a4fcf6d93439658da95fff6d80c4f
+ms.sourcegitcommit: a2ea54f814fdbd619421a83482831b22f49416f6
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "92531878"
+ms.lasthandoff: 11/12/2020
+ms.locfileid: "94567058"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>Bulut Çözümü Sağlayıcısı programında dolaylı kurumsal bayilerle iş ortaklığı yapma
 
@@ -55,7 +55,7 @@ Dolaylı satıcılarla ve müşterilerle iş ortaklarınızı oluşturmak ve yö
 
    - Satıcılarla etkileşim kurup bunlarla Transact, Iş Ortağı Merkezi 'nde bu kişilerle ortaklıklar oluşturmanız gerekir.
 
-3. Müşterilerle bağlanma
+3. Müşterilerle bağlantı kurma
 
    - Yeni müşterileri ve abonelikleri satıcılarla ilişkilendirin
 
@@ -124,7 +124,7 @@ Mevcut dolaylı satıcıyla ortaklığı kaldırmak için aşağıdaki adımlar�
 Erişim ve katılımın düzeyine bağlı olarak, bu değişiklik hakkındaki dolaylı satıcıdan ve son müşteriyle iletişim kurmak isteyebilirsiniz.
 
 
-## <a name="connect-with-customers"></a>Müşterilerle bağlanma
+## <a name="connect-with-customers"></a>Müşterilerle bağlantı kurma
 
 Yeni müşterileri aldığınızda, Iş Ortağı Merkezi 'nde bu hesaplar için hesap oluşturmanız gerekir. Yeni bir müşteri hesabı eklediğinizde, hesabı yönetmek ve müşterilerin aboneliklerini ve hizmetlerini kendi adına yönetmek için belirli bir bayi atayabilirsiniz.
 
@@ -138,7 +138,7 @@ Yeni bir müşteri hesabıyla bir satıcı ilişkilendirdiğinizde, satıcıya h
 
 3. **Yeni abonelik** sayfasında, müşterinin satın almak istediği abonelikleri seçin ve ardından müşterinin ihtiyacı olan lisans sayısını girin.
 
-4. Şunu seçin: **İleri: Gözden Geçir** .
+4. Şunu seçin: **İleri: Gözden Geçir**.
 
 5. Sıra doğruysa **Gönder** ' i seçin. Sıra yanlışsa, tüm işlemi iptal etmek ve baştan başlamak için **Iptal 'i** seçin.
 
@@ -147,11 +147,11 @@ Yeni bir müşteri hesabıyla bir satıcı ilişkilendirdiğinizde, satıcıya h
     > [!IMPORTANT]  
     > Bu sayfayı kapattıktan sonra bu bilgilere erişemiyoruz, Kullanıcı hesabı adını ve parolayı bir yere göz önünde olduğunuzdan emin olun.
 
-7. **Bitti** seçeneğini belirleyin. Yeni müşteri, müşteri listenizde, dolaylı satıcıyla ilişkili olarak görünür. Satıcının artık müşterinin hesap bilgilerine ve aboneliklerine yönetici erişimi vardır ve bu abonelikleri müşterinin adına yönetebilir.
+7. **Bitti** 'yi seçin. Yeni müşteri, müşteri listenizde, dolaylı satıcıyla ilişkili olarak görünür. Satıcının artık müşterinin hesap bilgilerine ve aboneliklerine yönetici erişimi vardır ve bu abonelikleri müşterinin adına yönetebilir.
 
 ### <a name="add-new-subscriptions-to-customer-accounts"></a>Müşteri hesaplarına yeni abonelikler ekleme
 
-Müşteriler yeni abonelikler satın almak, mevcut olanları yükseltmek veya ek lisanslar satın almak istediğinizde, bu değişiklikleri müşterinin hesabında yaparsınız.
+Müşteriler yeni abonelikler satın almak, mevcut olanları yükseltmek veya ek lisanslar satın almak istediğinizde, bu değişiklikleri müşterinin hesabında M365 portalı aracılığıyla yaparsınız. Azure portal bunu yapamazsınız.
 
 1. **Iş Ortağı Merkezi** menünüzden **müşteriler** ' i seçin.
 
@@ -163,7 +163,7 @@ Müşteriler yeni abonelikler satın almak, mevcut olanları yükseltmek veya ek
 
 5. Yeni abonelik (ler) müşterinin abonelikler listesinde görünür.
 
-6. Satıcının yeni abonelik için müşteri destek taleplerini işlemesini istiyorsanız, aboneliği seçin ve ardından **belirlenen destek kişisi** listesinden satıcı ' yı seçin.
+6. Satıcının yeni abonelik için müşteri destek taleplerini işlemesini istiyorsanız, aboneliği seçin ve ardından **belirlenen destek kişisi** listesinden satıcı ' yı seçin. 
 
 7. Bittiğinde **Gönder** ' i seçin.
 
