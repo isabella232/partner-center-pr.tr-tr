@@ -3,3 +3,7 @@
   items:
     - name: Azure Özel Market oluşturma
       href: create-manage-private-azure-marketplace.md
+- name: Başvuru
+  items:
+    - name: Azure PowerShell
+      href: /powershell/module/az.marketplace
