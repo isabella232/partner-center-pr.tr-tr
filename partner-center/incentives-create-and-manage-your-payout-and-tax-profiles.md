@@ -1,30 +1,30 @@
 ---
 title: İş Ortağı Merkezi'ndeki ödeme ve vergi profilleri
 ms.topic: how-to
-ms.date: 09/11/2020
+ms.date: 11/12/2020
 description: Teşvikleri çalışmanız için ödeme yapabilmeniz için ödeme ve vergi profilinizi oluşturun ve yönetin. Farklı profillerin oluşturulmasını, yönetilmesini ve kullanılmasını içerir.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: ca2ffe992ff92b98546934f4a249779f39179acb
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 66177c6e3cd0091081866e1508d28346f49ec713
+ms.sourcegitcommit: bfc9e6f6476766cf10ba714f03ca2e96560003b1
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92532087"
+ms.lasthandoff: 11/14/2020
+ms.locfileid: "94626040"
 ---
 # <a name="create-and-manage-incentives-payout-and-tax-profiles-in-partner-center"></a>Iş Ortağı Merkezi 'nde teşvikleri ödeme ve vergi profilleri oluşturma ve yönetme
 
-**Aşağıdakiler cihazlar için geçerlidir:**
+**Uygulama hedefi:**
 
 - İş Ortağı Merkezi
 
 **Uygun roller:**
 
 - Teşvikleri Yöneticisi
-- Faturalama yöneticisi
+- Hesap yöneticisi
 - Genel yönetici
 
 Belirli bir MPN konumuna ilişkin teşvik programlarınızda ödeme alabilmeniz için önce geçerli bir ödeme ve vergi profilini programla ve MPN konumuyla ilişkilendirerek kaydınızı tamamlamanız gerekir. Microsoft ödemeleri yapmak için bu ödeme ve vergi profilini kullanacaktır. Teşvik programının kurallarına bağlı olarak ödeme için elektronik banka transferi veya alacak dekontu kullanmanıza izin verilebilir. 
@@ -43,15 +43,11 @@ Teşvikleri kullanıcılar, teşvik kazanç ve ödeme ayrıntılarını ve rapor
 
 ### <a name="choose-your-disbursement-currency"></a>Tediye para birimini seçin
 
-Varsayılan olarak, teşvikleri ödemeleri ilgili varlıkların yerel para birimiyle yapılır. Profil kurulumu sırasında farklı bir para birimi belirtebilirsiniz. Ödemeler, Microsoft tarafından aylık olarak ayarlanan bir döviz kuru kullanılarak hesaplanır. Seçilen para birimi nedeniyle, değerde yapılan değişikliklerden sorumlu olacaksınız.
-
-### <a name="bank-and-tax-information-and-other-programs"></a>Banka ve vergi bilgileri ve diğer programlar
-
-Microsoft, ödeme için banka verilerinizi zaten kullanıyor olsa da, aşağıda açıklanan bilgileri sağlayın. Bu, profilinizi yeni araca kopyalarken hassas bilgileri kullanıma sunabileceğinden, şirketinizin verilerinin gizliliğini ve güvenliğini sağlamaya yardımcı olur. Bu işlemin ardından, verilerin eksiksiz ve doğru olduğundan emin olmak için de iyi bir fırsattır.
+Ödemeler, ödeme profilinizi ayarlarken seçtiğiniz para birimiyle yapılır. Ödemeler, Microsoft tarafından aylık olarak ayarlanan bir döviz kuru kullanılarak hesaplanır. Seçilen para birimi nedeniyle, değerde yapılan değişikliklerden sorumlu olacaksınız.
 
 ### <a name="using-different-profiles-for-different-microsoft-programs"></a>Farklı Microsoft programları için farklı profiller kullanma
 
-Perakende olarak, beş perakende teşvik programının her birine yönelik ödemeler aynı banka hesabına gidebilir. Alternatif olarak, Retail Xbox ödemelerinin bir banka hesabına gitmesini, perakende ofis farklı bir banka hesabına ödeme yaparken de seçebilirsiniz.
+Şirketiniz birden çok teşvik programında kaydedildiyse, hepsi için aynı ödeme hesabını kullanabilir veya farklı programlar için farklı ödeme hesapları kullanmayı tercih edebilirsiniz.
 
 ## <a name="create-and-manage-payout-and-tax-profiles-in-partner-center"></a>Iş Ortağı Merkezi 'nde ödeme ve vergi profilleri oluşturma ve yönetme
 

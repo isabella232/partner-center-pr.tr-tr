@@ -1,7 +1,7 @@
 ---
-title: Müşteri öngörüleri için Analizi kullanma
+title: Abonelik öngörüleri için Analizi kullanma
 ms.topic: article
-ms.date: 05/15/2020
+ms.date: 11/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: İşletmenizi ve müşterilerinizin satın aldığınız lisansları nasıl kullandığını daha iyi anlamak için iş ortağı merkezi 'nde analizler kullanmayı öğrenin.
@@ -9,50 +9,71 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 176f09a2acfeab7566f58f3177f1b052d9cb5968
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 19e7cf9442660a24d36b5f7c20fab156fdc0d59a
+ms.sourcegitcommit: bfc9e6f6476766cf10ba714f03ca2e96560003b1
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "92530967"
+ms.lasthandoff: 11/14/2020
+ms.locfileid: "94626081"
 ---
-# <a name="use-analytics-to-learn-more-about-customer-license-use-and-how-you-can-help-meet-their-needs"></a>Müşteri lisansı kullanımı hakkında daha fazla bilgi edinmek ve ihtiyaçlarını karşılamak için analiz özelliklerini kullanın
+# <a name="use-analytics-to-learn-more-about-subscription-revenue"></a>Abonelik geliri hakkında daha fazla bilgi edinmek için analiz kullanın
 
-**Uygulama hedefi**
+**Uygun roller**
 
-- İş Ortağı Merkezi
-- MPN iş ortakları
-- CSP programındaki iş ortakları
-
-**Uygun rol**
-
+- Genel yönetici
 - MPN Iş ortağı Yöneticisi
 
-CSP işinizi geliştirmenin yollarını planlarken müşterilerinizin Microsoft ürünlerini nasıl kullandığını anlamalısınız. İş Ortağı Merkezi 'nde veri toplamaya yönelik çeşitli seçenekleriniz vardır ve hem işiniz hem de müşterilerinizin satın aldıkları lisansları nasıl kullandığı hakkında veri toplayabilirsiniz. CSP doğrudan modelinde çalışıyorsanız, ek veri toplamak için Power BI için Iş ortağı merkezi analizi uygulamasını yükleyip kullanabilirsiniz.
+CSP işinizi geliştirmenin yollarını planlarken müşterilerinizin Microsoft ürünlerini nasıl kullandığını anlamalısınız. İş Ortağı Merkezi 'nde veri toplamaya yönelik çeşitli seçenekleriniz vardır ve hem işiniz hem de müşterilerinizin satın aldıkları lisansları nasıl kullandığı hakkında veri toplayabilirsiniz. CSP doğrudan modelinde çalışıyorsanız, ek veri toplamak için Power BI için Partner Center Analytics uygulamasını yükleyip kullanabilirsiniz.
 
-## <a name="access-to-user-analytics"></a>Kullanıcı analizinden erişim
+## <a name="access-to-the-subscription-analytics"></a>Abonelik analizinden erişim
 
-Iş Ortağı Merkezi 'nde, yalnızca MPN iş ortağı yöneticisinin Kullanıcı analizinize erişimi vardır. Şirketinizdeki birisinin bu erişime ihtiyacı varsa (örneğin, bir faturalandırma Yöneticisi), bu kişiye MPN Iş ortağı yönetici rolü atayarak izin verebilirsiniz.
+1. Iş Ortağı Merkezi [panosunda](https://partner.microsoft.com/dashboard/home)oturum açın.
+1. Iş Ortağı Merkezi menüsünde, **analiz** ' i seçin ve ardından **abonelik Analizi** ' ni seçin.
+
+1. Son on iki aylık CSP geliri sayfanın en üstünde görüntülenir
+
+:::image type="content" source="images/analytics/subscription1.png" alt-text="Abonelik ekranı":::
+
+## <a name="trailing-twelve-month-ttm-csp-revenue"></a>Sondaki Twelve-Month (TTD) CSP geliri
+
+Son 12 aylık CSP geliri, Iş ortağı küresel hesap düzeyinde ABD Doları cinsinden sondaki bulut çözümü sağlayıcısı programı gelirini temsil eder. Veriler, önceki aya kadar son on iki aylık geliri göstermek için her ayın 8. gününde yenilenir. Örneğin, 9 Eylül 2020 ' de, 2019 Eylül-2020 Ağustos 'a kadar olan sabit dönem için TTı 'yi görmeniz gerekir.
+
+Iş Ortağı Merkezi 'nde görüntülenecek gelir, iki ayda bir sabit zaman aralığı için hesaplanır ve daha kısa bir zaman dilimine değiştirilemez.
+
+Gelirin bir dökümünü Iş ortağı konum hesap düzeyinize görmek için:
+
+- ' Karşıdan yükleme ayrıntıları ' bağlantısını seçin ve tüm konumlarınızdaki TTı gelirini görüntüleyen bir. tsv dosyasını indirin.
 
 >[!NOTE] 
->Erişim vermek için bir MPN iş ortağı yöneticisi olmanız gerekir.
+>. Tsv dosyasındaki MPN kimliklerine ait her bir TTK gelir numarasını toplamak, Iş Ortağı Merkezi 'nde görüntülenen genel TTK gelirinden daha büyük olabilir. Bunun nedeni, gelir, indirilen dosyada birden çok iş ortağı attribukatındaki abonelikler için Double olarak sayılır.
 
-**Iş Ortağı Merkezi 'nde Kullanıcı analizlere erişim izni verme** 
+## <a name="subscription-summary"></a>Abonelik Özeti
 
-1. Iş Ortağı Merkezi [panosunda](https://partner.microsoft.com/dashboard)oturum açın.
+Ekranın alt yarısında, aboneliklerin bir özeti görüntülenir. Gerekli abonelik ayrıntılarını görmek için aşağıdaki filtreleri kullanın:  
 
-2. İş Ortağı Merkezi menüsünde, Iş Ortağı Merkezi **Kullanıcı yönetimi** sayfasında, erişmesi gereken kişiyi bulmak için arama kutusunu kullanın.
-2.  Arama sonuçlarında, **kullanıcı ayrıntıları** sayfasını açmak için kişinin adını seçin.
-3.  **Roller ve izinler** altında **MPN iş ortağı Yöneticisi** ' ni seçin ve ardından **Güncelleştir** ' i seçin.
+1. **Süre** : abonelik özetini görmeyi tercih edebilirsiniz 
+
+- 30D – son 30 gün
+- 3Dk – son 3 ay
+- 6Dk – son 6 ay
+- 12D – son 12 ay
+
+2. **Ürün türü** :
+ 
+- Office 365
+- Microsoft 365
+- Dynamics 365
+- EMS
+
+Bu filtrelerin uygulanması, bu raporun en üstünde yer alacak olan TTD gelir ölçümünü etkilemez.
+
 
  
-## <a name="access-data-in-partner-center"></a>Iş Ortağı Merkezi 'nde verilere erişin
+## <a name="next-steps"></a>Sonraki adımlar
 
-|**Verileri almak için**   |**Bunu indirin**   |**Bunu okuyun**   | **Uygulama hedefi**    |
-|---------------------|:-----------------------|:---------------|:--------------|
-|Müşterileriniz satın aldıkları lisansları nasıl kullanıyor?   |Iş Ortağı Merkezi 'nden dağıtım ve kullanım verileri => ürün analizi   |[Benimseme ve memnuniyet artırma](increasing-adoption-and-satisfaction.md)|CSP iş ortakları|
-|Aboneliklerle ilgili müşteri etkinliği   |Etkinlik günlükleri   |[Müşteri etkinlik günlüklerini görüntüle](activity-logs.md)|CSP iş ortakları   |
-|Müşteri tabanı, kullanım, Azure tüketimi ve daha fazlası için büyüme   |Power BI için iş ortağı Merkezi uygulaması   |[Power BI için İş Ortağı Merkezi Analiz uygulaması (CSP’de doğrudan iş ortakları)](power-bi-app-for-direct-partners.md)|CSP doğrudan iş ortakları|
+- [Müşterilerinizin satın aldıkları lisansları nasıl kullandığını çözümleyin](increasing-adoption-and-satisfaction.md)  
+- [Müşteri etkinlik günlüklerini görüntüleme](activity-logs.md)
+- [Power BI için iş ortağı merkezi analizi uygulaması](power-bi-app-for-direct-partners.md)
 
 
 

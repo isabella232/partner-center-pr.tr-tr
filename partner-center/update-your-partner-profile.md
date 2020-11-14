@@ -1,20 +1,20 @@
 ---
 title: İş ortağı profilinizi doğrulama
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-mpn
 description: Birincil iletişim, adres ve program bilgileri gibi şirketinizin ayrıntılarını nasıl doğrulayacağınızı öğrenin. Yasal ve fatura adreslerinizi de güncelleştirebilirsiniz.
 author: parthpandyaMSFT
 ms.author: parthp
 ms.topic: how-to
 ms.localizationpriority: high
-ms.date: 07/10/2020
+ms.date: 11/13/2020
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 22696ba1a2ecde3374357ee8489f466b2b366098
-ms.sourcegitcommit: bcd0c09d3acd5eae4fbfca7ea6614a54d203eff6
+ms.openlocfilehash: 9e2fbef36bcc4a191235570a0d1735bd755ad317
+ms.sourcegitcommit: bfc9e6f6476766cf10ba714f03ca2e96560003b1
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/04/2020
-ms.locfileid: "92531398"
+ms.lasthandoff: 11/14/2020
+ms.locfileid: "94626006"
 ---
 # <a name="verify-your-partner-profile-information-in-partner-center"></a>İş Ortağı Merkezi 'nde iş ortağı profili bilgilerinizi doğrulayın
 
@@ -69,9 +69,17 @@ CSP hesabınızla ilişkili MPN KIMLIĞINI güncelleştirmek için:
 
 ## <a name="update-your-billing-address"></a>Faturalandırma adresinizi güncelleştirin
 
-Genel yönetici, faturalandırma Yöneticisi veya yönetim aracısıdır faturanızda fatura **profilinizde** görüntülenen adresi değiştirebilirsiniz. Ancak fatura sisteminin koyduğu sınırlamalar nedeniyle faturanızdaki şirket adını değiştiremezsiniz.
+Genel yönetici, faturalandırma Yöneticisi veya yönetici aracıyöneticisiyseniz şunları güncelleştirebilirsiniz:
 
- 
+- Fatura **profilinizde** faturanızda görünen adres
+- PO numaranız
+
+Değiştiremezsiniz:
+ 
+- Şirket adı
+- Ülke
+- Faturalama tarihi
+ 
 ## <a name="next-steps"></a>Sonraki adımlar
 
 - [Konumları yönetme](manage-locations.md)
