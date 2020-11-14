@@ -1,7 +1,7 @@
 ---
-title: Müşteri öngörüleri için Analizi kullanma
+title: Abonelik öngörüleri için Analizi kullanma
 ms.topic: article
-ms.date: 05/15/2020
+ms.date: 11/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: İşletmenizi ve müşterilerinizin satın aldığınız lisansları nasıl kullandığını daha iyi anlamak için iş ortağı merkezi 'nde analizler kullanmayı öğrenin.
@@ -9,50 +9,71 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 176f09a2acfeab7566f58f3177f1b052d9cb5968
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 19e7cf9442660a24d36b5f7c20fab156fdc0d59a
+ms.sourcegitcommit: bfc9e6f6476766cf10ba714f03ca2e96560003b1
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "92530967"
+ms.lasthandoff: 11/14/2020
+ms.locfileid: "94626081"
 ---
-# <a name="use-analytics-to-learn-more-about-customer-license-use-and-how-you-can-help-meet-their-needs"></a><span data-ttu-id="0095a-103">Müşteri lisansı kullanımı hakkında daha fazla bilgi edinmek ve ihtiyaçlarını karşılamak için analiz özelliklerini kullanın</span><span class="sxs-lookup"><span data-stu-id="0095a-103">Use analytics to learn more about customer license use and how you can help meet their needs</span></span>
+# <a name="use-analytics-to-learn-more-about-subscription-revenue"></a><span data-ttu-id="902ce-103">Abonelik geliri hakkında daha fazla bilgi edinmek için analiz kullanın</span><span class="sxs-lookup"><span data-stu-id="902ce-103">Use analytics to learn more about subscription revenue</span></span>
 
-<span data-ttu-id="0095a-104">**Uygulama hedefi**</span><span class="sxs-lookup"><span data-stu-id="0095a-104">**Applies to**</span></span>
+<span data-ttu-id="902ce-104">**Uygun roller**</span><span class="sxs-lookup"><span data-stu-id="902ce-104">**Appropriate roles**</span></span>
 
-- <span data-ttu-id="0095a-105">İş Ortağı Merkezi</span><span class="sxs-lookup"><span data-stu-id="0095a-105">Partner Center</span></span>
-- <span data-ttu-id="0095a-106">MPN iş ortakları</span><span class="sxs-lookup"><span data-stu-id="0095a-106">MPN partners</span></span>
-- <span data-ttu-id="0095a-107">CSP programındaki iş ortakları</span><span class="sxs-lookup"><span data-stu-id="0095a-107">Partners in the CSP program</span></span>
+- <span data-ttu-id="902ce-105">Genel yönetici</span><span class="sxs-lookup"><span data-stu-id="902ce-105">Global admin</span></span>
+- <span data-ttu-id="902ce-106">MPN Iş ortağı Yöneticisi</span><span class="sxs-lookup"><span data-stu-id="902ce-106">MPN Partner admin</span></span>
 
-<span data-ttu-id="0095a-108">**Uygun rol**</span><span class="sxs-lookup"><span data-stu-id="0095a-108">**Appropriate role**</span></span>
+<span data-ttu-id="902ce-107">CSP işinizi geliştirmenin yollarını planlarken müşterilerinizin Microsoft ürünlerini nasıl kullandığını anlamalısınız.</span><span class="sxs-lookup"><span data-stu-id="902ce-107">Planning ways to develop your CSP business includes understanding how your customers use their Microsoft products.</span></span> <span data-ttu-id="902ce-108">İş Ortağı Merkezi 'nde veri toplamaya yönelik çeşitli seçenekleriniz vardır ve hem işiniz hem de müşterilerinizin satın aldıkları lisansları nasıl kullandığı hakkında veri toplayabilirsiniz.</span><span class="sxs-lookup"><span data-stu-id="902ce-108">You have several options for gathering data in Partner Center, and you can gather data on both your business and on if and how your customers are using the licenses they've purchased.</span></span> <span data-ttu-id="902ce-109">CSP doğrudan modelinde çalışıyorsanız, ek veri toplamak için Power BI için Partner Center Analytics uygulamasını yükleyip kullanabilirsiniz.</span><span class="sxs-lookup"><span data-stu-id="902ce-109">If you are in the CSP direct model, you also have the opportunity to install and use the Partner Center Analytics app for Power BI to gather additional data.</span></span>
 
-- <span data-ttu-id="0095a-109">MPN Iş ortağı Yöneticisi</span><span class="sxs-lookup"><span data-stu-id="0095a-109">MPN Partner admin</span></span>
+## <a name="access-to-the-subscription-analytics"></a><span data-ttu-id="902ce-110">Abonelik analizinden erişim</span><span class="sxs-lookup"><span data-stu-id="902ce-110">Access to the Subscription Analytics</span></span>
 
-<span data-ttu-id="0095a-110">CSP işinizi geliştirmenin yollarını planlarken müşterilerinizin Microsoft ürünlerini nasıl kullandığını anlamalısınız.</span><span class="sxs-lookup"><span data-stu-id="0095a-110">Planning ways to develop your CSP business includes understanding how your customers use their Microsoft products.</span></span> <span data-ttu-id="0095a-111">İş Ortağı Merkezi 'nde veri toplamaya yönelik çeşitli seçenekleriniz vardır ve hem işiniz hem de müşterilerinizin satın aldıkları lisansları nasıl kullandığı hakkında veri toplayabilirsiniz.</span><span class="sxs-lookup"><span data-stu-id="0095a-111">You have several options for gathering data in Partner Center, and you can gather data on both your business and on if and how your customers are using the licenses they've purchased.</span></span> <span data-ttu-id="0095a-112">CSP doğrudan modelinde çalışıyorsanız, ek veri toplamak için Power BI için Iş ortağı merkezi analizi uygulamasını yükleyip kullanabilirsiniz.</span><span class="sxs-lookup"><span data-stu-id="0095a-112">If you are in the CSP direct model, you have the opportunity to install and use the Partner Center Analytics app for Power BI to gather additional data.</span></span>
+1. <span data-ttu-id="902ce-111">Iş Ortağı Merkezi [panosunda](https://partner.microsoft.com/dashboard/home)oturum açın.</span><span class="sxs-lookup"><span data-stu-id="902ce-111">Sign into the Partner Center [dashboard](https://partner.microsoft.com/dashboard/home).</span></span>
+1. <span data-ttu-id="902ce-112">Iş Ortağı Merkezi menüsünde, **analiz** ' i seçin ve ardından **abonelik Analizi** ' ni seçin.</span><span class="sxs-lookup"><span data-stu-id="902ce-112">From CSP in the Partner Center menu, select **Analyze** , and then select **Subscription analytics**.</span></span>
 
-## <a name="access-to-user-analytics"></a><span data-ttu-id="0095a-113">Kullanıcı analizinden erişim</span><span class="sxs-lookup"><span data-stu-id="0095a-113">Access to user analytics</span></span>
+1. <span data-ttu-id="902ce-113">Son on iki aylık CSP geliri sayfanın en üstünde görüntülenir</span><span class="sxs-lookup"><span data-stu-id="902ce-113">The trailing twelve-month CSP revenue will be displayed at the top of the page</span></span>
 
-<span data-ttu-id="0095a-114">Iş Ortağı Merkezi 'nde, yalnızca MPN iş ortağı yöneticisinin Kullanıcı analizinize erişimi vardır.</span><span class="sxs-lookup"><span data-stu-id="0095a-114">In Partner Center, only the MPN partner admin has access to user analytics.</span></span> <span data-ttu-id="0095a-115">Şirketinizdeki birisinin bu erişime ihtiyacı varsa (örneğin, bir faturalandırma Yöneticisi), bu kişiye MPN Iş ortağı yönetici rolü atayarak izin verebilirsiniz.</span><span class="sxs-lookup"><span data-stu-id="0095a-115">If someone in your company needs this access (for example, a billing admin), you can grant it by assigning that person the MPN Partner Admin role.</span></span>
+:::image type="content" source="images/analytics/subscription1.png" alt-text="Abonelik ekranı":::
+
+## <a name="trailing-twelve-month-ttm-csp-revenue"></a><span data-ttu-id="902ce-115">Sondaki Twelve-Month (TTD) CSP geliri</span><span class="sxs-lookup"><span data-stu-id="902ce-115">Trailing Twelve-Month (TTM) CSP Revenue</span></span>
+
+<span data-ttu-id="902ce-116">Son 12 aylık CSP geliri, Iş ortağı küresel hesap düzeyinde ABD Doları cinsinden sondaki bulut çözümü sağlayıcısı programı gelirini temsil eder.</span><span class="sxs-lookup"><span data-stu-id="902ce-116">Trailing 12-month CSP revenue represents the trailing Cloud Solution Provider program revenue in USD at a Partner Global Account level.</span></span> <span data-ttu-id="902ce-117">Veriler, önceki aya kadar son on iki aylık geliri göstermek için her ayın 8. gününde yenilenir.</span><span class="sxs-lookup"><span data-stu-id="902ce-117">The data is refreshed on the 8th of every month, to display the trailing twelve-month revenue until the prior month.</span></span> <span data-ttu-id="902ce-118">Örneğin, 9 Eylül 2020 ' de, 2019 Eylül-2020 Ağustos 'a kadar olan sabit dönem için TTı 'yi görmeniz gerekir.</span><span class="sxs-lookup"><span data-stu-id="902ce-118">For example, on 9th September 2020, you should be able to see the TTM for the fixed period of September 2019 to August 2020.</span></span>
+
+<span data-ttu-id="902ce-119">Iş Ortağı Merkezi 'nde görüntülenecek gelir, iki ayda bir sabit zaman aralığı için hesaplanır ve daha kısa bir zaman dilimine değiştirilemez.</span><span class="sxs-lookup"><span data-stu-id="902ce-119">The revenue displayed on Partner Center is calculated for a fixed time interval of twelve-months, and cannot be modified to a shorter time frame.</span></span>
+
+<span data-ttu-id="902ce-120">Gelirin bir dökümünü Iş ortağı konum hesap düzeyinize görmek için:</span><span class="sxs-lookup"><span data-stu-id="902ce-120">To see a breakdown of the revenue at your Partner Location Account level:</span></span>
+
+- <span data-ttu-id="902ce-121">' Karşıdan yükleme ayrıntıları ' bağlantısını seçin ve tüm konumlarınızdaki TTı gelirini görüntüleyen bir. tsv dosyasını indirin.</span><span class="sxs-lookup"><span data-stu-id="902ce-121">Select the ‘Download Details’ link and download a .tsv file that displays the TTM revenue across all your locations.</span></span>
 
 >[!NOTE] 
-><span data-ttu-id="0095a-116">Erişim vermek için bir MPN iş ortağı yöneticisi olmanız gerekir.</span><span class="sxs-lookup"><span data-stu-id="0095a-116">To grant access, you must be an MPN partner admin.</span></span>
+><span data-ttu-id="902ce-122">. Tsv dosyasındaki MPN kimliklerine ait her bir TTK gelir numarasını toplamak, Iş Ortağı Merkezi 'nde görüntülenen genel TTK gelirinden daha büyük olabilir.</span><span class="sxs-lookup"><span data-stu-id="902ce-122">Summing up the individual TTM Revenue numbers across MPN IDs in the .tsv file may appear to be greater than the overall TTM revenue you see displayed on Partner Center.</span></span> <span data-ttu-id="902ce-123">Bunun nedeni, gelir, indirilen dosyada birden çok iş ortağı attribukatındaki abonelikler için Double olarak sayılır.</span><span class="sxs-lookup"><span data-stu-id="902ce-123">This is because the revenue may be double counted for subscriptions with multiple partner attributions in the downloaded file.</span></span>
 
-<span data-ttu-id="0095a-117">**Iş Ortağı Merkezi 'nde Kullanıcı analizlere erişim izni verme**</span><span class="sxs-lookup"><span data-stu-id="0095a-117">**Grant access to user analytics in Partner Center**</span></span> 
+## <a name="subscription-summary"></a><span data-ttu-id="902ce-124">Abonelik Özeti</span><span class="sxs-lookup"><span data-stu-id="902ce-124">Subscription Summary</span></span>
 
-1. <span data-ttu-id="0095a-118">Iş Ortağı Merkezi [panosunda](https://partner.microsoft.com/dashboard)oturum açın.</span><span class="sxs-lookup"><span data-stu-id="0095a-118">Sign into the Partner Center [dashboard](https://partner.microsoft.com/dashboard).</span></span>
+<span data-ttu-id="902ce-125">Ekranın alt yarısında, aboneliklerin bir özeti görüntülenir.</span><span class="sxs-lookup"><span data-stu-id="902ce-125">The lower half of the screen displays a summary of the subscriptions.</span></span> <span data-ttu-id="902ce-126">Gerekli abonelik ayrıntılarını görmek için aşağıdaki filtreleri kullanın:</span><span class="sxs-lookup"><span data-stu-id="902ce-126">Use the following filters to see the necessary subscription details:</span></span>  
 
-2. <span data-ttu-id="0095a-119">İş Ortağı Merkezi menüsünde, Iş Ortağı Merkezi **Kullanıcı yönetimi** sayfasında, erişmesi gereken kişiyi bulmak için arama kutusunu kullanın.</span><span class="sxs-lookup"><span data-stu-id="0095a-119">From the Partner Center menu, On the Partner Center **User management** page, use the Search box to find the person who needs access.</span></span>
-2.  <span data-ttu-id="0095a-120">Arama sonuçlarında, **kullanıcı ayrıntıları** sayfasını açmak için kişinin adını seçin.</span><span class="sxs-lookup"><span data-stu-id="0095a-120">In the search results, select the person's name to open the **User details** page.</span></span>
-3.  <span data-ttu-id="0095a-121">**Roller ve izinler** altında **MPN iş ortağı Yöneticisi** ' ni seçin ve ardından **Güncelleştir** ' i seçin.</span><span class="sxs-lookup"><span data-stu-id="0095a-121">Under **Roles and permissions** , select **MPN partner admin** and then select **Update** .</span></span>
+1. <span data-ttu-id="902ce-127">**Süre** : abonelik özetini görmeyi tercih edebilirsiniz</span><span class="sxs-lookup"><span data-stu-id="902ce-127">**Duration** : You may opt to see the subscription summary for</span></span> 
+
+- <span data-ttu-id="902ce-128">30D – son 30 gün</span><span class="sxs-lookup"><span data-stu-id="902ce-128">30D – Last 30 days</span></span>
+- <span data-ttu-id="902ce-129">3Dk – son 3 ay</span><span class="sxs-lookup"><span data-stu-id="902ce-129">3M – Last 3 months</span></span>
+- <span data-ttu-id="902ce-130">6Dk – son 6 ay</span><span class="sxs-lookup"><span data-stu-id="902ce-130">6M – Last 6 months</span></span>
+- <span data-ttu-id="902ce-131">12D – son 12 ay</span><span class="sxs-lookup"><span data-stu-id="902ce-131">12M – Last 12 months</span></span>
+
+2. <span data-ttu-id="902ce-132">**Ürün türü** :</span><span class="sxs-lookup"><span data-stu-id="902ce-132">**Product Type** :</span></span>
+ 
+- <span data-ttu-id="902ce-133">Office 365</span><span class="sxs-lookup"><span data-stu-id="902ce-133">Office 365</span></span>
+- <span data-ttu-id="902ce-134">Microsoft 365</span><span class="sxs-lookup"><span data-stu-id="902ce-134">Microsoft 365</span></span>
+- <span data-ttu-id="902ce-135">Dynamics 365</span><span class="sxs-lookup"><span data-stu-id="902ce-135">Dynamics 365</span></span>
+- <span data-ttu-id="902ce-136">EMS</span><span class="sxs-lookup"><span data-stu-id="902ce-136">EMS</span></span>
+
+<span data-ttu-id="902ce-137">Bu filtrelerin uygulanması, bu raporun en üstünde yer alacak olan TTD gelir ölçümünü etkilemez.</span><span class="sxs-lookup"><span data-stu-id="902ce-137">Applying these filters will not impact the TTM revenue metric at the top of this report.</span></span>
+
 
  
-## <a name="access-data-in-partner-center"></a><span data-ttu-id="0095a-122">Iş Ortağı Merkezi 'nde verilere erişin</span><span class="sxs-lookup"><span data-stu-id="0095a-122">Access data in Partner Center</span></span>
+## <a name="next-steps"></a><span data-ttu-id="902ce-138">Sonraki adımlar</span><span class="sxs-lookup"><span data-stu-id="902ce-138">Next steps</span></span>
 
-|<span data-ttu-id="0095a-123">**Verileri almak için**</span><span class="sxs-lookup"><span data-stu-id="0095a-123">**To get data on**</span></span>   |<span data-ttu-id="0095a-124">**Bunu indirin**</span><span class="sxs-lookup"><span data-stu-id="0095a-124">**Download this**</span></span>   |<span data-ttu-id="0095a-125">**Bunu okuyun**</span><span class="sxs-lookup"><span data-stu-id="0095a-125">**Read this**</span></span>   | <span data-ttu-id="0095a-126">**Uygulama hedefi**</span><span class="sxs-lookup"><span data-stu-id="0095a-126">**Applies to**</span></span>    |
-|---------------------|:-----------------------|:---------------|:--------------|
-|<span data-ttu-id="0095a-127">Müşterileriniz satın aldıkları lisansları nasıl kullanıyor?</span><span class="sxs-lookup"><span data-stu-id="0095a-127">How your customers are using the licenses they purchased</span></span>   |<span data-ttu-id="0095a-128">Iş Ortağı Merkezi 'nden dağıtım ve kullanım verileri => ürün analizi</span><span class="sxs-lookup"><span data-stu-id="0095a-128">Deployment and usage data from Partner Center => Product analytics</span></span>   |[<span data-ttu-id="0095a-129">Benimseme ve memnuniyet artırma</span><span class="sxs-lookup"><span data-stu-id="0095a-129">Increase adoption and satisfaction</span></span>](increasing-adoption-and-satisfaction.md)|<span data-ttu-id="0095a-130">CSP iş ortakları</span><span class="sxs-lookup"><span data-stu-id="0095a-130">CSP partners</span></span>|
-|<span data-ttu-id="0095a-131">Aboneliklerle ilgili müşteri etkinliği</span><span class="sxs-lookup"><span data-stu-id="0095a-131">Customer activity regarding subscriptions</span></span>   |<span data-ttu-id="0095a-132">Etkinlik günlükleri</span><span class="sxs-lookup"><span data-stu-id="0095a-132">Activity logs</span></span>   |[<span data-ttu-id="0095a-133">Müşteri etkinlik günlüklerini görüntüle</span><span class="sxs-lookup"><span data-stu-id="0095a-133">View customer activity logs</span></span>](activity-logs.md)|<span data-ttu-id="0095a-134">CSP iş ortakları</span><span class="sxs-lookup"><span data-stu-id="0095a-134">CSP partners</span></span>   |
-|<span data-ttu-id="0095a-135">Müşteri tabanı, kullanım, Azure tüketimi ve daha fazlası için büyüme</span><span class="sxs-lookup"><span data-stu-id="0095a-135">Growth of customer base, usage, Azure consumption and more</span></span>   |<span data-ttu-id="0095a-136">Power BI için iş ortağı Merkezi uygulaması</span><span class="sxs-lookup"><span data-stu-id="0095a-136">Partner Center app for Power BI</span></span>   |[<span data-ttu-id="0095a-137">Power BI için İş Ortağı Merkezi Analiz uygulaması (CSP’de doğrudan iş ortakları)</span><span class="sxs-lookup"><span data-stu-id="0095a-137">Partner Center Analytics app for Power BI (direct partners in CSP)</span></span>](power-bi-app-for-direct-partners.md)|<span data-ttu-id="0095a-138">CSP doğrudan iş ortakları</span><span class="sxs-lookup"><span data-stu-id="0095a-138">CSP direct partners</span></span>|
+- [<span data-ttu-id="902ce-139">Müşterilerinizin satın aldıkları lisansları nasıl kullandığını çözümleyin</span><span class="sxs-lookup"><span data-stu-id="902ce-139">Analyze how your customers are using the licenses they purchased</span></span>](increasing-adoption-and-satisfaction.md)  
+- [<span data-ttu-id="902ce-140">Müşteri etkinlik günlüklerini görüntüleme</span><span class="sxs-lookup"><span data-stu-id="902ce-140">View customer activity logs</span></span>](activity-logs.md)
+- [<span data-ttu-id="902ce-141">Power BI için iş ortağı merkezi analizi uygulaması</span><span class="sxs-lookup"><span data-stu-id="902ce-141">Partner Center Analytics app for Power BI</span></span>](power-bi-app-for-direct-partners.md)
 
 
 
