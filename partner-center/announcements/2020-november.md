@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 11/02/2020
-ms.openlocfilehash: 9702bef0a2fa753e37cfe305bc766ea64f0d0b3f
-ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
+ms.openlocfilehash: 88d216f9e55b98f3c4818dd718c68f843c4098f0
+ms.sourcegitcommit: 6ed7268356445939db8613f2af96016707c55d64
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 11/11/2020
-ms.locfileid: "94488155"
+ms.lasthandoff: 11/17/2020
+ms.locfileid: "94691308"
 ---
 # <a name="november-2020-announcements"></a>Kasım 2020 duyuruları
 
@@ -23,6 +23,128 @@ Bu sayfada, Kasım 2020 ' de Microsoft Iş Ortağı Merkezi duyuruları ayrınt�
 2020 Duyuruları: [Nisan](2020-april.md)  |  [May](2020-may.md)  |  [June](2020-june.md)  |  [July](2020-july.md)  |  [August](2020-august.md)  |  [ayında Eylül](2020-september.md)ayında Haziran ayı  |  [October](2020-October.md) | Kasım
 
 ______________
+## <a name="euefta-change-of-partner-billing-currency-for-new-commerce-offers"></a><a name="10"></a>Yeni ticaret teklifleri için Iş ortağı faturalandırma para birimi AB/EFTA değişikliği.  
+
+### <a name="categories"></a>Kategoriler
+- Tarih 2020-11-17
+- Özellikler
+
+### <a name="impacted-audience"></a>Etkilenen hedef kitle  
+
+Deneyimidir iş ortakları, AB/EFTA bölgesindeki bulut çözümü sağlayıcısı programı aracılığıyla 
+
+### <a name="summary"></a>Özet 
+
+Avrupa Birliği (AB)/Avrupa Serbest Ticaret Birliği (EFTA) bölgesinde, bulut çözümü sağlayıcısı programındaki tüm yeni ticari teklifler, müşteri faturalandırma konumu yerine iş ortağı faturalandırma konumunu kullanır. Bu, iş ortaklarının Microsoft tarafından müşterilerin konum para birimine değil, konum para birimine göre faturalandırılacağı anlamına gelir. Bu, iki aşamada yapılır: 
+
+- **1. Aşama: CSP 'de yeni bir ticari teklif satın alan yeni müşteriler**
+
+2021 Ocak 'tan başlayarak yeni ticaret teklifleri satın alan iş ortakları, iş ortağı konumu para birimi 'nde bu Satınalmalar için faturalandırılır. CSP 'de zaten yeni ticaret teklifleri satın almış mevcut müşterileri olan iş ortakları, bu aşamada müşterinin faturalandırma konumunun para birimi cinsinden faturalandırılmaya devam edecektir. 
+
+ 
+
+- **2. Aşama: CSP 'de Ocak 2021 ' den önce yeni bir ticaret teklifi satın alan mevcut müşteriler** 
+
+Aşağıdaki 1. aşama ve takvim yılı 2021 sırasında, Microsoft, 2021 CSP 'de, müşteri konumu para biriminden iş ortağı konum para birimine kadar olan yeni bir ticaret teklifi satın alan mevcut müşterilerle iş ortakları için yeni ticaret tekliflerinin faturalandırmasını geçirmeye çalışacak. Bu değişiklik uygulanmadan önce iş ortaklarına önceden bildirim alınacaktır.  
+
+>Notun Bu değişiklik, CSP 'deki yeni ticaret tekliflerinin Fiyatlandırmasını değil, yalnızca iş ortağı faturalandırma para birimini etkiler. 
+
+Bu değişiklik için kapsamdaki yeni ticaret teklifleri şunlardır: Azure planının bir parçası olan Azure abonelikleri, Azure ayırmaları, sunucu abonelikleri, kalıcı yazılımlar ve Microsoft ticari Market satın alımlarının bulut çözümü sağlayıcısı programı.
+
+### <a name="partner-benefits"></a>İş ortağı avantajları  
+
+- Bu güncelleştirme, yeni ticaret deneyimi için AB/EFTA bölgesinde çoklu para birimi faturalaması ile karmaşıklığı ve ek yükü azaltır.  
+
+- İş ortakları, birleştirilmiş bir faturayı tek bir para birimiyle alacak ve artık her müşteri konumu para birimi için bir fatura almamayacaktır. 
+
+- Teşvik eden ödemeler, ortağın fatura para birimiyle aynı para birimiyle olacaktır.
+
+- İş ortakları, birden çok para birimi faturalaması nedeniyle oluşan faturalandırma karmaşıklığını azaltacaktır ve bu, şu anda mutabakat olan hesaplarla ilişkili zaman ve kaynakları boşaltacaktır. 
+
+- Yeni ticaret tekliflerini henüz benimsememiş olan iş ortakları için, bu değişiklik önceki iş ortağı faturalama modeliyle hizalanır ve iş ortaklarının CSP 'de yeni ticaret deneyimine daha kolay geçişe olanak tanır. 
+
+### <a name="resources"></a>Kaynaklar 
+
+[Operations Gallery] ( https://partner.microsoft.com/resources/collection/eu-efta-changes-collection#/ Microsoft iş ortağı web sitesinde) bu konuyla ilgili bilgileri gözden geçirin.  
+
+## <a name="api-throttling-to-partners-calling-partner-center-apis"></a><a name="9"></a>Iş Ortağı Merkezi API 'Lerini çağıran iş ortaklarına API daraltma
+
+### <a name="categories"></a>Kategoriler
+
+- Tarih 2020-11-17
+- Özellikler
+
+### <a name="summary"></a>Özet
+
+Microsoft, belirli bir süre içinde daha tutarlı bir performans için Iş Ortağı Merkezi API 'Lerini çağıran iş ortaklarına API daraltma özelliği sunuyor.
+
+### <a name="impacted-audience"></a>Etkilenen hedef kitle
+
+Bulut çözüm sağlayıcısı programı aracılığıyla iş ortakları deneyimidir
+
+### <a name="details"></a>Ayrıntılar
+
+Microsoft, Iş Ortağı Merkezi API 'Lerini çağıran iş ortakları için bir zaman dilimi içinde daha tutarlı bir performansa izin vermek üzere S1 2021 ' de API daraltma işlemi yapıyor. Azaltma, kaynakların aşırı kullanımını engellemek için belirli bir zaman aralığı içinde bir hizmete yönelik isteklerin sayısını sınırlar. Bir azaltma eşiği aşıldığında, Iş ortağı merkezi bir süre için o istemciden gelen diğer istekleri sınırlandırır.  
+
+### <a name="partner-benefits"></a>İş ortağı avantajları 
+
+İş Ortağı Merkezi, yüksek hacimli istekleri işlemek için tasarlanmıştır, ancak birkaç iş ortağı tarafından çok sayıda istek yapılırsa, kısıtlama tüm iş ortakları için en iyi performansı ve güvenilirliği korumanıza yardımcı olur. En az kapalı kalma süresi sağlar. İsteklerin yüksek hacimleriyle, tüm iş ortakları için tutarlı bir performans sağlayabilirsiniz. 
+
+
+### <a name="apis-to-be-throttled"></a>Kısıtlanacak API 'Ler
+
+|**İşlem**|**İş Ortağı Merkezi belgeleri**|
+|-------------------------|----------------------------------|
+|{baseURL}/v1/Customers/{customer_id}/abonelikler|[Müşterinin aboneliklerinin tümünü alın](https://docs.microsoft.com/partner-center/develop/get-all-of-a-customer-s-subscriptions)|  
+|{baseURL}/v1/Customers/{customer_id}/Subscriptions/{subscription_id}|[KIMLIĞE göre abonelik al](https://docs.microsoft.com/partner-center/develop/get-a-subscription-by-id) | 
+|{baseURL}/v1/Customers/{customer_id}/Orders||[Müşterinin siparişlerinin tümünü alın](https://docs.microsoft.com/artner-center/develop/get-all-of-a-customer-s-orders)|  
+|{baseURL}/v1/Customers/{customer_id}/Orders/{order_id}|[Bir siparişi KIMLIĞE göre al](https://docs.microsoft.com/partner-center/develop/get-an-order-by-id)|  
+|{baseURL}/v1/Customers/{customer_id}/Orders/{order_id}/provisioningstatus|[Abonelik sağlama durumunu al](https://docs.microsoft.com/partner-center/develop/get-subscription-provisioning-status)|  
+|{baseURL}/v1/Customers/{customer_id}/Subscriptions/{subscription_id}|[Siparişleri yönetme ve bir aboneliği yönetme](https://docs.microsoft.com/partner-center/develop/manage-orders#manage-a-subscription)| 
+|{baseURL}/v1/Customers/{customer_id}/Subscriptions/{subscription_id}/addons|[Bir abonelik için eklentilerin listesini alın](https://docs.microsoft.com/partner-center/develop/get-a-list-of-add-ons-for-a-subscription)| 
+|{baseURL}/v1/Customers/{customer_id}/Subscriptions/{subscription_id}/azureEntitlements|[Bir abonelik için Azure yetkilendirmeleri listesini alın](https://docs.microsoft.com/partner-center/develop/get-a-list-of-azure-entitlements-for-subscription)|  
+|{baseURL}/v1/Customers/{customer_id}/Subscriptions/{subscription_id}/registrationstatus|[Abonelik kayıt durumunu al](https://docs.microsoft.com/partner-center/develop/get-subscription-registration-status)| 
+|{baseURL}/v1/Customers/{Customer-Tenant-ID}/aktarmaları|[Müşterinin tüm aktarımlarını al](https://docs.microsoft.com/partner-center/develop/get-subscription-registration-status)| 
+|{baseURL}/v1/productUpgrades/{upgrade-id}/status|[Ürün yükseltme durumunu al](https://docs.microsoft.com/partner-center/develop/get-all-of-a-customer-s-transfers)| 
+|{baseURL}/v1/Customers/{Customer-id}/Subscriptions/{Subscription-ID}/dönüşümler|[Deneme dönüştürme tekliflerinin bir listesini alın](https://docs.microsoft.com/partner-center/develop/get-all-of-a-customer-s-transfers) 
+  
+
+Bu duyuru, gelecekteki değişikliklerin önceden farkında olmadan iş ortakları sağlamaya ve bu sayede hazırlamasına olanak tanımak için tasarlanmıştır. İş ortaklarının bu API 'Leri öğrenmesini ve etkinlik günlüğü API 'sini daha fazla verimlilik ve azaltmayı önlemek için kullanmayı düşünmemiz önerilir. Bu özellik hakkında daha fazla bilgi için [API azaltma Kılavuzu](https://docs.microsoft.com/partner-center/develop/api-throttling-guidance)' nda ayrıntılara bakın. 
+
+### <a name="next-steps"></a>Sonraki adımlar
+
+[API azaltma kılavuzunu](https://docs.microsoft.com/partner-center/develop/api-throttling-guidance)gözden geçirin ve gerekli adımları uygulayın. 
+
+
+
+## <a name="409-errors-due-to-duplicate-mca-requests"></a><a name="8"></a>Yinelenen MCA istekleri nedeniyle 409 hata oluştu
+
+### <a name="categories"></a>Kategoriler
+
+- Tarih 2020-11-16
+- Özellikler
+
+### <a name="context"></a>Bağlam
+
+- Şubat ayında bu iş ortaklarının Microsoft Müşteri Sözleşmesi 'Ni (MCuA) imzalaması istendi. Bu, önceki Microsoft Bulut anlaşmasından (MCA) geçişiydi. 
+- Bu değişiklik ortağının bir parçası olarak, iş ortaklarının [burada](https://docs.microsoft.com/partner-center/develop/get-confirmation-of-customer-agreement)belgelenen anlaşma türü parametresini içermesi istenmiştir.
+
+### <a name="what-happened-next"></a>Daha sonra ne oldu:
+
+- Tüm iş ortakları, uygulama içinde parametre isteğini dahil etmez. Microsoft bu iş ortaklarına MCA döndürdü.
+- İş ortağı daha sonra imzalama isteğini müşteriye yeniden gönderecektir ve MCA 'yi Microsoft 'a yeniden gönderecektir. 
+- Çoğaltma, Microsoft 'un iş ortakları için hizmet sağlama yeteneğini etkilemiş.
+- Eylül ayında 2020, birden çok forumdaki Yammer aracılığıyla iş ortakları için bir bildirim gönderdik ve bu iş ortaklarının parametreyi düzeltmesini istiyor. Microsoft artık yinelenenleri kabul edemiyor ve 409 hata alıyor.
+
+>[Not] Bu, iş ortakları için yeni bir sözleşme/API değişikliği değildi.
+
+- Ekim 'de, sorunu gidermeye yönelik en fazla yinelenen istek olan iş ortaklarıyla yakından çalıştık.
+- Şu anda, iş ortaklarının yanı sıra en iyi 10 offenders kişisel e-postaları göndererek, isteklerini inceleyerek ve sorunu çözmenize yardımcı olmak için bize ulaşacak.
+- 10 Kasım 2020 ' de, yinelemeleri kabul etmeyi durdurduk ve parametreleri düzeltmemiş olan iş ortakları, 409 hata yaşadı.
+- Bu yana değişikliği yinelemeleri kabul etmeyecek şekilde geri almıştır. 
+- Ancak, 14 Ocak 2021 ' de artık yinelenen öğeleri kabul etmeyecektir. Bu, iş ortaklarının sonunda herhangi bir değişiklik yapmasına olanak sağlar. Bir iş ortağından, 11/16 üzerinde bir güncelleştirme dağıtmayı planladığımız ve bunlarla yakından çalışacağız bir bildirim aldık.
+- İş ortaklarının bizimle iletişime geçebilmesini, böylece çözüm güncelleştirmesinin beklendiği gibi çalıştığından emin olmak için kiracılarını değişikliklerle birlikte ekleyerek test etmenize yardımcı olabiliriz.
+
 
 
 ## <a name="testing-available-partner-center-api-updates-and-user-interface-ui-enhancements-for-the-education-customer-validation-process"></a><a name="7"></a>Test kullanılabilir: eğitim müşterisi doğrulama işlemi için Iş Ortağı Merkezi API Güncellemeleri ve Kullanıcı arabirimi (UI) geliştirmeleri

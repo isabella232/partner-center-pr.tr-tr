@@ -1,7 +1,7 @@
 ---
 title: Gelişmiş specialmeler kazanın
 ms.topic: article
-ms.date: 10/15/2020
+ms.date: 11/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: İş profilinizi Microsoft iş ortağı dizininde güçlendirin. Altın ve gümüş uzmanlıklarınızla birlikte Gelişmiş Uzmanlıklar elde etme hakkında bilgi edinin.
@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5dd5866a5ea9a87f0cd61cd863a6cd72ec070a10
-ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
+ms.openlocfilehash: 3b655b5cbd9a8ae2cc907af3ab4da561650e8aa1
+ms.sourcegitcommit: 6ed7268356445939db8613f2af96016707c55d64
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92532131"
+ms.lasthandoff: 11/17/2020
+ms.locfileid: "94691393"
 ---
 # <a name="earn-an-advanced-specialization-to-showcase-expertise"></a>Uzmanlığı göstermek için gelişmiş bir özelleşme kazanın
 
@@ -32,24 +32,25 @@ Gelişmiş Uzmanlıklar, kendinizi müşterilere ayırmanızı de sağlar. Geli�
 Uzmanlığın iki ana alanında gelişmiş uzmanlık kazanılabilecek:
 
 - Azure
-- Modern çalışma alanı ve güvenlik
+- Modern Iş ve güvenlik
 
 **Azure** gelişmiş specialmeler şunlardır:
 
-- Microsoft Azure SQL Server Windows Server ve geçiş 
-- Microsoft Windows sanal masaüstü
-- Linux ve açık kaynak veritabanları Microsoft Azure 'e geçiş
-- Microsoft Azure Kubernetes
 - Microsoft Azure için veri ambarı geçişi
-- Microsoft Azure’da SAP
+- Microsoft Azure Kubernetes
+- Linux ve açık kaynak veritabanları Microsoft Azure 'e geçiş
+- Microsoft Windows sanal masaüstü
 - Microsoft Azure Web uygulamalarını modernleştirme
+- Microsoft Azure’da SAP
+- Microsoft Azure SQL Server Windows Server ve geçiş
  
-**Modern çalışma alanı ve güvenlik** gelişmiş specialmeler şunlardır:
+**Modern iş ve güvenlik** gelişmiş Uzmanlıkları şunlardır:
 
-- Microsoft ekipleri için toplantılar ve toplantı odaları
 - Benimseme ve değişiklik yönetimi
-- Teamwork dağıtımı
 - Microsoft ekipleri için çağırma
+- Microsoft ekipleri için toplantılar ve toplantı odaları
+- Teamwork dağıtımı
+- Kimlik ve Erişim Yönetimi
 - Tehdit Koruması
  
 > [!NOTE]
@@ -63,7 +64,7 @@ Bu alana Iş Ortağı Merkezi 'nden erişmek için:
 
 1. Iş Ortağı Merkezi [panosunda](https://partner.microsoft.com/dashboard/home)oturum açın.
 
-2. Iş Ortağı Merkezi menüsündeki MPN bölümünde, **adv. specialtıslar** ' ı seçin. Menü, size sunulan tüm gelişmiş uzmanlık özelliklerini gösterecek şekilde genişler.
+2. Iş Ortağı Merkezi menüsündeki MPN bölümünde, **adv. specialtıslar**' ı seçin. Menü, size sunulan tüm gelişmiş uzmanlık özelliklerini gösterecek şekilde genişler.
 
 3. Ayrıntıları görüntülemek için gelişmiş özelleşmenin adını seçin. Belirli gereksinimler ve adımlar, geçerli durumunuz ve diğer adımların veya kaynakların bağlantılarını görürsünüz.
 
@@ -79,12 +80,12 @@ Tüm gelişmiş specialmeler, diğer önkoşullara göre hizalı bir altın uzma
 
 Aşağıdaki Azure Gelişmiş Uzmanlıklar için, üçüncü taraf bir denetçi ile bir denetim gerçekleştirmeniz gerekir:
 
-- Microsoft Azure SQL Server Windows Server ve geçiş
-- Microsoft Azure için Linux ve açık kaynak veritabanı geçişi
 - Microsoft Azure için veri ambarı geçişi
 - Microsoft Azure Kubernetes
-- Microsoft Azure Web uygulamalarını modernleştirme
+- Microsoft Azure için Linux ve açık kaynak veritabanı geçişi
 - Microsoft Windows sanal masaüstü
+- Microsoft Azure Web uygulamalarını modernleştirme
+- Microsoft Azure SQL Server Windows Server ve geçiş
 
 ### <a name="audit-example-in-partner-center"></a>Iş Ortağı Merkezi 'nde denetim örneği
 
@@ -101,11 +102,13 @@ Tüm gereksinimleri tamamladıktan sonra durumunuz **etkin** olarak değişir. E
 
 Aşağıdaki gelişmiş specialmeler için müşteri başvurularına ihtiyacınız vardır:
 
-- Azure’da SAP
+
 - Benimseme ve değişiklik yönetimi
-- Teamwork dağıtımı
 - Microsoft ekipleri için çağırma
 - Toplantılar ve toplantı odaları
+- Azure’da SAP
+- Teamwork dağıtımı
+- Kimlik ve Erişim Yönetimi
 - Tehdit Koruması
 
 ### <a name="customer-reference-example-in-partner-center"></a>Iş Ortağı Merkezi 'nde müşteri başvurusu örneği
@@ -114,7 +117,7 @@ Müşteri başvuruları gerektiren gelişmiş bir özelleşmenin örneği, **Mic
 
 Gold uzmanlığına, sertifikalarına ve bir performans gereksinimine ek olarak, dağıtma ve yönetme yeteneğinizi gösteren üç müşteri başvurusu sağlamanız gerekir.
 
-:::image type="content" source="images/advancedspecializations/as-2.png" alt-text="Etkin bir Gold bulut platformu uzmanlığına sahip olmak için gereksinimleri gösteren örnek ön koşullar sayfası.":::
+:::image type="content" source="images/advancedspecializations/as-2.png" alt-text="Müşteri başvuruları gerektiren örnek gelişmiş specialmeler önkoşulları sayfası.":::
 
 Tüm önkoşulları karşılaana kadar durumunuz **başlatılmamalıdır.** Tüm gereksinimleri tamamladıktan sonra durumunuz **etkin** olarak değişir. Etkin durum otomatik olarak **iş profilinizde** gelişmiş bir özelleştirme etiketi sunar. Bu profil, [bir çözüm sağlayıcısı bulmaya](https://www.microsoft.com/solution-providers/home)çalışan tüm müşteriler tarafından görülebilir.
 

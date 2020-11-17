@@ -1,7 +1,7 @@
 ---
-title: Benimseme ve memnuniyet artırma
+title: Benimsemeyi ve memnuniyeti artırma
 ms.topic: how-to
-ms.date: 07/21/2020
+ms.date: 11/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Iş Ortağı Merkezi 'nde ölçümleri nasıl kullanacağınızı öğrenin. Ölçümler, işletmenizin büyüdüğünü, müşterilerin lisanslarını nasıl kullandığını ve yatırımın nerede odaklandığını gösterebilir.
@@ -9,19 +9,19 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d995d72f6b5f9fb3beafff91eee7518ee999bf6c
-ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
+ms.openlocfilehash: 494c9d7ff8e726e8bd183456926761c3cebf10ee
+ms.sourcegitcommit: 6ed7268356445939db8613f2af96016707c55d64
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "92531190"
+ms.lasthandoff: 11/17/2020
+ms.locfileid: "94691376"
 ---
 # <a name="use-metrics-in-partner-center-to-increase-adoption-and-satisfaction"></a>Benimseme ve memnuniyet düzeyini artırmak için Iş Ortağı Merkezi 'nde ölçümleri kullanın
 
-**Uygulama hedefi**
+**Şunlara uygulanır**
 
 - İş Ortağı Merkezi
-- Bulut çözümü sağlayıcısı programı
+- Bulut Çözümü Sağlayıcısı programı
 
 **Uygun roller**
 
@@ -55,7 +55,7 @@ Tek bir müşteri veya portföyünüzün lisans ve Kullanıcı verilerini bulabi
 
 1. Iş Ortağı Merkezi [panosunda](https://partner.microsoft.com/dashboard)oturum açın.
 
-2. **Çözümle** ' yi seçin ve menüdeki analiz seçeneklerinden herhangi birini seçin.
+2. **Çözümle**' yi seçin ve menüdeki analiz seçeneklerinden herhangi birini seçin.
 
 3. Dağıtım ve kullanım verilerini tüm müşteri kümesi genelinde indirmek için **dışarı aktar** (aşağı ok) seçeneğini belirleyin.
 
@@ -67,7 +67,7 @@ Terminoloji:
 
 - **Dağıtım%** = atanan lisanslar/satılan lisanslar
 
-- **Kullanım%** = etkin yetkilendirmeler/toplam yetkilendirmeler
+- **Kullanım%** = etkin kullanıcılar/Toplam Kullanıcı sayısı
 
    Bazen%% kullanım veya %100 ' den büyük olabilir. Bu durum çeşitli nedenlerle oluşabilir:
 
@@ -85,17 +85,17 @@ Birçok yardım ve nasıl yapılır sorusunu tercih ediyorsanız, hesabınızdak
 
 ### <a name="considering-how-to-improve-customer-adoption-and-usage---a-couple-scenarios"></a>Müşteri benimseme ve kullanımının nasıl geliştirileceğine göz önünde bulundurarak, birkaç senaryo
 
-**Sorun** : Kullanıcı benimseme oranı düşük, çok sayıda lisans kullanılmıyor.
+**Sorun**: Kullanıcı benimseme oranı düşük, çok sayıda lisans kullanılmıyor.
 
-**Göz önüne almanız gerekenler** : müşteriler, yazılımın sağlayabilecekleri değeri anlamayabilir. Bunlar, zaten yapmakta oldukları görevleri basitleştirmek veya yeni üretkenlik türlerini etkinleştirmek için, bu kişilerin kendi gününe dahil edebilmeleri için yardım planlama gerekir.
+**Göz önüne almanız gerekenler**: müşteriler, yazılımın sağlayabilecekleri değeri anlamayabilir. Bunlar, zaten yapmakta oldukları görevleri basitleştirmek veya yeni üretkenlik türlerini etkinleştirmek için, bu kişilerin kendi gününe dahil edebilmeleri için yardım planlama gerekir.
 
-**Deneyebileceğiniz şeyler** : örnek olay incelemeleri, Kullanıcı referansları belirli senaryolar, öğretici Bloglar veya videolar hakkında bilgi sağlar.
+**Deneyebileceğiniz şeyler**: örnek olay incelemeleri, Kullanıcı referansları belirli senaryolar, öğretici Bloglar veya videolar hakkında bilgi sağlar.
 
-**Sorun** : yardım ve nasıl yapılır soruları için yüksek hacimli destek çağrıları vardır.
+**Sorun**: yardım ve nasıl yapılır soruları için yüksek hacimli destek çağrıları vardır.
 
-**Göz önüne almanız gerekenler** : müşteriler yazılım için, ürün sürümüne veya onların görevine göre yeni olabilir.
+**Göz önüne almanız gerekenler**: müşteriler yazılım için, ürün sürümüne veya onların görevine göre yeni olabilir.
 
-**Deneyebileceğiniz şeyler** : müşterilerin genel uzmanlığını artırmak ve ayrıca müşterilere sunulan bazı self servis seçenekleri de yükseltmek için eğitim sunumu (kişi veya çevrimiçi) sunan iki stratejiyi kullanabilirsiniz.
+**Deneyebileceğiniz şeyler**: müşterilerin genel uzmanlığını artırmak ve ayrıca müşterilere sunulan bazı self servis seçenekleri de yükseltmek için eğitim sunumu (kişi veya çevrimiçi) sunan iki stratejiyi kullanabilirsiniz.
 
 Destek sitenizi, destek iletişim bilgilerinizin yanı sıra [müşterinin kendi kendine destek](customer-self-support.md) bölümünde açıklanan self servis seçeneklerini de içerecek şekilde yeniden tasarlayabilmeniz gerekebilir.
 

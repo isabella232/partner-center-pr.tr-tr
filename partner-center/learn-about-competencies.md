@@ -1,7 +1,7 @@
 ---
 title: Microsoft Gold, Gümüş uzmanlık gereksinimleri
 ms.topic: article
-ms.date: 10/15/2020
+ms.date: 11/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Microsoft iş ortağı durumunu nasıl edineceğinizi ve yeni müşteriler sunarak altın ve gümüş üyelik düzeylerini kazanmanıza yönelik uzmanlığa yönelik gereksinimleri karşılamayı öğrenin.
@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1392a4c4a0147af3ffe18564da08061cd10cbc06
-ms.sourcegitcommit: 1719ff11409cd6953602b7798f8cfe821b8ea15e
+ms.openlocfilehash: 51a0e1d1e726444597d99a55e8c62b6788549073
+ms.sourcegitcommit: 6ed7268356445939db8613f2af96016707c55d64
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/15/2020
-ms.locfileid: "92531974"
+ms.lasthandoff: 11/17/2020
+ms.locfileid: "94691342"
 ---
 # <a name="differentiate-your-business-by-attaining-microsoft-competencies"></a>Microsoft Uzmanlıklar sunarak işletmenizi farklılaştırın
 
@@ -40,7 +40,7 @@ Gereksinimleri ve şirketinizin Iş Ortağı Merkezi panonuzun uzmanlık alanın
 
 1. Iş Ortağı Merkezi [panosunda](https://partner.microsoft.com/dashboard/home)oturum açın.
 
-2. İş Ortağı Merkezi menüsündeki MPN bölümünün altında **Yetkinlikler** ’i seçin.
+2. İş Ortağı Merkezi menüsündeki MPN bölümünün altında **Yetkinlikler**’i seçin.
 
 3. Ayrıntılarını görmek için yetkinlik adını ve belirli bir yetkinlik seçeneğini belirtin. Tamamladığınız şeyi görebilir ve belirli sınavların ve kullanımdan kaldırılan sınavların doğrulama tarihlerinin tam gereksinimlerini ve bağlantılarını görebilirsiniz.
 
@@ -65,6 +65,10 @@ Gümüş ve altın uzmanlık becerilerine ulaşmak için gerekenler hakkında da
 
 - Bir veya daha fazla [Gelişmiş uzmanlığa](advanced-specializations.md)sahip bir gold uzmanlığını eşleştirerek uzmanlığınızı nasıl daha ayrıntılı olarak sergiletireceğinizi öğrenin.
 
-- Uzmanlıklar kapsamında [sunulan belirli pazara karşı avantajlar](mpn-learn-about-go-to-market-benefits.md) hakkında bilgi edinin.
+- Uzmanlıklar kapsamında yer alan belirli [pazara yönelik belirli kaynaklar](mpn-learn-about-go-to-market-benefits.md) hakkında bilgi edinin.
 
 - [Uzmanlıklar için faturalar ve vergiler](mpn-view-print-maps-invoice.md)hakkında bilgi edinin.
+
+- Uzmanlarınızın geçerli durumunu gösteren bir Iş Ortağı Merkezi Öngörüler [uzmanıyları raporunu](pci-competencies-report.md) görüntüleyin.
+
+- Uzmanlıklar hakkında [sık sorulan soruların](competencies-faq.md) yanıtlarını alın.
