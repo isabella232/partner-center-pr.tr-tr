@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 11/02/2020
-ms.openlocfilehash: 88d216f9e55b98f3c4818dd718c68f843c4098f0
-ms.sourcegitcommit: 6ed7268356445939db8613f2af96016707c55d64
+ms.openlocfilehash: 1e6002354323d2c528cbf32271144bbf61d40ac8
+ms.sourcegitcommit: 4fd1ff569e22e5e10ba9896b4e63eead7dcc5f1e
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "94691308"
+ms.lasthandoff: 11/18/2020
+ms.locfileid: "94845348"
 ---
 # <a name="november-2020-announcements"></a>Kasım 2020 duyuruları
 
@@ -23,6 +23,128 @@ Bu sayfada, Kasım 2020 ' de Microsoft Iş Ortağı Merkezi duyuruları ayrınt�
 2020 Duyuruları: [Nisan](2020-april.md)  |  [May](2020-may.md)  |  [June](2020-june.md)  |  [July](2020-july.md)  |  [August](2020-august.md)  |  [ayında Eylül](2020-september.md)ayında Haziran ayı  |  [October](2020-October.md) | Kasım
 
 ______________
+
+## <a name="partner-center-api-updates-and-user-interface-ui-enhancements-to-strengthen-customer-screening-in-certain-countries"></a><a name="11"></a>Belirli ülkelerde müşteri filtrelemelerine karşı iş ortağı merkezi API güncelleştirmeleri ve Kullanıcı arabirimi (UI) geliştirmeleri
+
+### <a name="categories"></a>Kategoriler
+
+- Tarih 2020-11-17
+- Yetenekler | Gelişmiş müşteri filtreleme
+
+### <a name="impacted-audience"></a>Etkilenen hedef kitle
+
+Aşağıdaki ülkelerde yeni veya mevcut müşteriler bulunan bulut çözümü sağlayıcısı (CSP) programına katılan doğrudan fatura ortakları veya dolaylı sağlayıcılar:
+
+- Ermenistan (Har)
+- Azerbaycan (AZ)
+- Belarus (BY)
+- Macaristan (HU)
+- Kazakistan (KZ)
+- Kırgızistan (KG)
+- Moldova (MD)
+- Rusya (RU)
+- Tacikistan (TJ)
+- Özbekistan (UZ)
+- Ukrayna (UA)
+
+### <a name="summary"></a>Özet
+
+Microsoft 'un, uyumlu iş uygulamalarında müşteriler ve iş ortakları taahhüdünün bir parçası olarak, belirli ülkelerde müşterilerle ilgili bazı iş ortakları, artık iş ortağı bir sonraki mevcut müşteri aboneliğini güncelleştirmeyi veya yeni bir müşteri için yeni bir abonelik oluşturmayı denediğinde Bu müşterilerle ilgili birkaç fazla veri alanını tamamlamalıdır. 
+
+### <a name="details"></a>Ayrıntılar
+
+Microsoft, güvende çalışır. CSP programında deneyimidir müşteri abonelikleri için uyumlu, güvenli ve güvenli bir müşteri doğrulama yöntemi sağlamayı taahhüt ediyoruz. Bu çaba kapsamında, aşağıdaki ölçütlerin tümünü karşılayan iş ortaklarını etkileyecek Iş Ortağı Merkezi API 'SI ve Kullanıcı arabirimi geliştirmeleri sunuyoruz: 
+
+- İş ortağı, Microsoft ile doğrudan faturalandırma ilişkisine sahiptir (örneğin, doğrudan fatura ortağı veya dolaylı sağlayıcı); '
+
+- İş ortağı şu ülkelerdeki yeni veya mevcut müşterilerle iş yapar: Ermenistan (Har), Azerbaycan (AZ), Belarus (BY), Macaristan (HU), Kazakistan (KZ), Kırgızistan (KG), Moldova (MD), Rusya (RU), Tacikistan (TJ), Özbekistan (UZ) ve Ukrayna (UA) 
+
+Bu ülkelerde bir müşteriye sahip bu tür iş ortakları için, iş ortağının bir sonraki güncelleştirmeyi güncelleştirmeye veya bir abonelik oluşturmaya çalıştığında müşterinin kendi **yasal tanımlayıcısını** (müşterinin **organizasyonu** olarak da bilinir) ve müşterinin **telefon numarasını** göndermesi gerekecektir. Bu iş ortakları artık müşteri için isteğe bağlı, orta bir **ad** girmeyi de tercih edebilir.
+
+### <a name="partner-center-enhancements"></a>İş ortağı merkezi geliştirmeleri
+
+- Belirli ülkelerde müşterilerin doğrulanmasını iyileştirecek iş ortağı Merkezi kullanıcı arabirimi geliştirmeleri
+
+- Belirli ülkelerde müşterilerin daha iyi doğrulanmasını destekleyen yeni API 'Ler
+
+**Iş Ortağı Merkezi Kullanıcı arabirimindeki değişiklikler-müşteri hesabı sayfası**
+
+Iş ortağı merkezi müşteri hesabı sayfası aşağıdaki şekilde güncelleştirilmiştir:
+
+1. **Kuruluş Inn** (yasal tanımlayıcı olarak da bilinir). Bu alan artık belirli ülkelerdeki müşteriler için gereklidir. 
+
+   > [!NOTE]
+   > Verilerin yalnızca alfasayısal karakterleri, özel karakterler veya boşluklar olmadan alfasayısal karakterlere girilmesi gerekir. İş ortaklarının, vergi KIMLIĞI veya INN numarası gibi yasal tanımlayıcı durumunu onaylamak için bu ülkelerde müşteri ilgili bilgileriyle çalışması gerekir. Ülkeye özgü daha fazla bilgi için aşağıdaki tabloya bakın.  
+
+2. **Göbek adı.** Bu alan tüm müşteriler için isteğe bağlıdır. Müşterinin ikinci adını veya ilk adı biliyorsanız, iş ortağı buraya girebilir.
+
+3. **Telefon numarası.** Bu alan daha önce isteğe bağlıdır, ancak artık belirli ülkelerde müşteriler için gereklidir.  
+
+Ülkeye özgü **kuruluş Inn** (yasal tanımlayıcı) alanı gereksinimleri aşağıda gösterilir.
+
+| Ülke | A14-Area | ISO ülke kodu | Alan karakteri gereksinimleri | Yerel dilde ülkeye özgü alan adı | İngilizce çevirisi veya açıklamalar |
+|---------|----------|------------------|------------------------|--------------------|--------------------------------------|
+| Ermenistan | CEE      | AM               | 8 veya 10 basamak         | :::no-loc text="УНН/NZOU/НЗОУ/ հանրային ծառայության համարանիշը"::: | UNN/genel hizmet numarası                     |
+| Azerbaycan| CEE      | AZ               | 7 veya 10 basamak         | :::no-loc text="ИНН/VOEN/ПИК"::: | TıN/ıNN/PıC              |
+| Belarus | CEE      | BY               | 9 basamak         | :::no-loc text="УНП"::: | UNP (Bu, vergi KIMLIĞI anlamına gelir)                    |
+| Macaristan | CEE      | HU               | 10 veya 11 basamak         | :::no-loc text="TIN"::: | TIN (vergi KIMLIĞI)                     |
+| Kazakistan | CEE      | KZ              | 12 basamak         | :::no-loc text="БИН/ИИН"::: | BIN/ııN                     |
+| Kırgızistan | CEE      | KG               | 14 basamak         | :::no-loc text="ИНН"::: | UNN/genel hizmet numarası                     |
+| Moldova  | CEE        | MD               | 6, 7, 8 veya 13 basamak         | :::no-loc text="IDNO/IDNP"::: | Yasal varlığa atanan benzersiz eyalet kimlik numarası (ıDNO), mali kod olarak da eklenir. \"Açık Data data.gov.md 'ın kamu portalındaki bilgi ve Iletişim teknolojisinin Miniliyet 'i tarafından yayımlanan, Moldova Cumhuriyeti 'nde kayıtlı olan şirketler ile ilgili hukuk birimlerinin durum kaydı.\"                    |
+| Rusya | CEE      | RU               | 9, 10 veya 12 basamak         | :::no-loc text="ИНН"::: | INN                     |
+| Tacikistan | CEE      | TJ               | 9, 10 veya 12 basamak     | :::no-loc text="ИНН/ЕИН/КПП"::: | ıNN/EIN/KPP                     |
+| Özbekistan | CEE     | UZ               | 9 basamak                 | :::no-loc text="INN":::         | INN                               |
+| Ukrayna   | CEE      | UA               | 8, 10 veya 12 basamak      | :::no-loc text="EGRPOU/EDRPOU":::        | Yasal bir varlığın kimlik kodu                             | 
+
+**Iş Ortağı Merkezi API 'sindeki değişiklikler**
+
+Aşağıdaki sözleşme değişiklikleri Iş Ortağı Merkezi API 'sinde yapılır. Bu değişiklikler, daha önce bahsedilen ülkelerdeki müşteri hesaplarını yöneten iş ortaklarıyla sınırlıdır.
+
+> [!NOTE]
+> Iş Ortağı Merkezi 'nden JSON yanıtının katı yorumunu kullanarak bir iş ortağıysanız, güncelleştirme sonunda güncelleştirmeler tamamlanmazsa Bu değişikliklerden etkilenmiş olabilirsiniz. JSON, Iş Ortağı Merkezi API 'Leri ile önerilen bir tümleştirme değildir.
+
+| REST kaynaklarına yönelik güncelleştirmeler | İlgili Iş Ortağı Merkezi belgeleri |
+|---------------------------|-----------------------|
+| Yeni gerekli alan: organizationRegistrationNumber | - [Müşteri oluşturma](/partner-center/develop/create-a-customer#company-profile)<br/>- [Dolaylı satıcı için müşteri oluşturma](/partner-center/develop/create-a-customer-for-an-indirect-reseller#request-headers)  <br/>- [Müşteri kaynakları](/partner-center/develop/customer-resources#customercompanyprofile) |
+| Güncelleştirilmiş alan artık gereklidir: PhoneNumber<br/>İsteğe bağlı alan: MiddleName | - [Yardımcı program kaynakları](/partner-center/develop/utility-resources#address) |
+| Yeni rozet Isteği REST hata kodları: 600002, 600049, 600050, 600051 | - [İş Ortağı Merkezi REST hata kodları](/partner-center/develop/error-codes#error-codes) |
+
+*Müşteriler için önerilen dış sözleşme:*
+
+```
+public class CustomerCompanyProfile : ResourceBaseWithLinks
+{
+               public string TenantId { get; set; }
+               public string Domain { get; set; }
+               public string CompanyName { get; set; }
+               public Address Address { get; set; }
+               public string Email { get; set; }
+ 
+                // Newly added fields
+               public string OrganizationRegistrationNumber { get; set; }
+}
+ 
+public class Address
+{
+                public string Id { get; set; }
+                public string Country { get; set; }
+                public string Region { get; set; }
+                public string City { get; set; }
+                public string PostalCode { get; set; }
+                public string AddressLine1 { get; set; }
+                public string AddressLine2 { get; set; }
+                public string AddressLine3 { get; set; }
+                public string FirstName { get; set; }
+                public string LastName { get; set; }
+                public string PhoneNumber { get; set; }
+                public string EmailAddress { get; set; }
+ 
+                // Newly added fields
+                public string MiddleName { get; set; }
+}
+```
+
+
 ## <a name="euefta-change-of-partner-billing-currency-for-new-commerce-offers"></a><a name="10"></a>Yeni ticaret teklifleri için Iş ortağı faturalandırma para birimi AB/EFTA değişikliği.  
 
 ### <a name="categories"></a>Kategoriler
@@ -146,8 +268,15 @@ Bu duyuru, gelecekteki değişikliklerin önceden farkında olmadan iş ortaklar
 - İş ortaklarının bizimle iletişime geçebilmesini, böylece çözüm güncelleştirmesinin beklendiği gibi çalıştığından emin olmak için kiracılarını değişikliklerle birlikte ekleyerek test etmenize yardımcı olabiliriz.
 
 
+### <a name="next-steps-for-partners"></a>İş ortakları için sonraki adımlar
 
-## <a name="testing-available-partner-center-api-updates-and-user-interface-ui-enhancements-for-the-education-customer-validation-process"></a><a name="7"></a>Test kullanılabilir: eğitim müşterisi doğrulama işlemi için Iş Ortağı Merkezi API Güncellemeleri ve Kullanıcı arabirimi (UI) geliştirmeleri
+- Bu yeni Iş Ortağı Merkezi Kullanıcı arabirimini ve API değişikliklerini gözden geçirin. Bir müşteri aboneliği oluşturmayı veya bu ülkelerden birindeki bir müşteri için var olan bir aboneliği güncelleştirmeyi denediğinizde müşterinin hesap bilgilerini denetleyerek müşteri için gereken iki yeni alana veri eklediğinizden emin olun: kuruluş ıNN (yasal tanımlayıcı) ve telefon numarası. Bu bilgileri Iş Ortağı Merkezi [panosu](https://partner.microsoft.com/dashboard) aracılığıyla veya Iş Ortağı Merkezi [API 'leri](/partner-center/develop/create-a-customer#company-profile)aracılığıyla güncelleştirebilirsiniz.
+
+- Bu bilgileri, bu değişikliklere hazırlanmalarına yardımcı olmak için kuruluşunuzdaki uygun ekiplerle paylaşabilirsiniz.
+
+
+
+## <a name="testing-available-partner-center-api-and-user-interface-ui-enhancements-for-the-education-customer-validation-process"></a><a name="7"></a>Test kullanılabilir: eğitim müşterisi doğrulama işlemi için Iş Ortağı Merkezi API 'SI ve Kullanıcı arabirimi (UI) geliştirmeleri
 
 ### <a name="categories"></a>Kategoriler
 
