@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 11/02/2020
-ms.openlocfilehash: 1e6002354323d2c528cbf32271144bbf61d40ac8
-ms.sourcegitcommit: 4fd1ff569e22e5e10ba9896b4e63eead7dcc5f1e
+ms.openlocfilehash: 495ea6df347a5c2f6cf05a9f9efddaf33113e0b4
+ms.sourcegitcommit: 992b9e57e1abc26d2b835414278c96b3de61dd2b
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 11/18/2020
-ms.locfileid: "94845348"
+ms.lasthandoff: 11/19/2020
+ms.locfileid: "94885603"
 ---
 # <a name="november-2020-announcements"></a>Kasım 2020 duyuruları
 
@@ -22,6 +22,34 @@ Bu sayfada, Kasım 2020 ' de Microsoft Iş Ortağı Merkezi duyuruları ayrınt�
 
 2020 Duyuruları: [Nisan](2020-april.md)  |  [May](2020-may.md)  |  [June](2020-june.md)  |  [July](2020-july.md)  |  [August](2020-august.md)  |  [ayında Eylül](2020-september.md)ayında Haziran ayı  |  [October](2020-October.md) | Kasım
 
+______________
+
+## <a name="office-365-e1-for-mid-market-promo-latam-apac-and-india"></a><a name="12"></a>Orta ölçekli promosyon için Office 365 E1 (LATAM, APAC ve Hindistan)
+
+### <a name="categories"></a>Kategoriler
+- Tarih 2020-11-18
+- Teklifler/Pazarlar
+
+### <a name="summary"></a>Özet
+Orta Pazar için yeni bir Office 365 E1 promosyon sunuyoruz. Bu, LATAM, Hindistan ve APAC 'nin gelişen pazarlarına (APAC içinde geliştirilen pazarlar hariç) yöneliktir.
+
+### <a name="impacted-audience"></a>Etkilenen hedef kitle
+Tüm iş ortakları, yukarıda listelenen katılım pazarlarındaki bulut çözümü sağlayıcısı (CSP) programı üzerinden deneyimidir.
+
+### <a name="details"></a>Ayrıntılar
+Promosyon, CSP için Office 365 E1 ' de %30 oranında indirimden oluşur. 1 Aralık 2020 ' de başlatılır ve 31 Mayıs 2020 ' ye kadar 6 ay boyunca kullanılabilir. Bu promosyon yalnızca, MW buluta yeni eklenen ve 500 adede kadar bilgisayar bulunan müşteriler tarafından kullanılabilir. Bu, buluta geçişi etkinleştirmek için lütfen bu, LATAM, Hindistan ve APAC pazarlarına yönelik olarak kısıtlanmış olduğunu unutmayın. 
+
+#### <a name="offer-details"></a>Teklif Ayrıntıları
+
+   |**Teklif adı**|**Teklif Kimliği**|
+   |-------------------|:------|
+   |Orta Pazar için Office 365 E1|d20fdad5-f524-45e4-97b1-59a94c21778f|
+
+### <a name="next-steps"></a>Sonraki adımlar
+Bu işlem 1 Aralık 'ta kullanılabilir. Bu arada, lütfen bu bilgileri kuruluşunuzdaki tüm ilgili kişilerle (katılımcı bölgelerde) paylaşabilirsiniz. Henüz katılan bölgelerde bulutta olmayan müşterilerle ilgi çekici bir başlangıç yapın. 
+
+### <a name="questions"></a>Sorularınız mı var?
+Lütfen herhangi bir soru, sorgu veya daha fazla bilgi için [Iş Ortağı Merkezi desteğiyle](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?category=csp) iletişime geçin.
 ______________
 
 ## <a name="partner-center-api-updates-and-user-interface-ui-enhancements-to-strengthen-customer-screening-in-certain-countries"></a><a name="11"></a>Belirli ülkelerde müşteri filtrelemelerine karşı iş ortağı merkezi API güncelleştirmeleri ve Kullanıcı arabirimi (UI) geliştirmeleri
