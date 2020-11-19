@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 11/10/2020
-ms.openlocfilehash: 4afc08135ee84792d62391251fdb87ec0ddd9ce6
-ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
+ms.openlocfilehash: 183ee0fe5e14608b0b43024e5c07e5ee95d608cd
+ms.sourcegitcommit: 6ed7268356445939db8613f2af96016707c55d64
 ms.translationtype: HT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 11/11/2020
-ms.locfileid: "94488145"
+ms.lasthandoff: 11/17/2020
+ms.locfileid: "94691325"
 ---
 # <a name="partner-center-announcements"></a>İş Ortağı Merkezi duyuruları
 
@@ -22,6 +22,9 @@ ms.locfileid: "94488145"
 
 | **Kategori** | **Kasım 2020 duyuruları** | **Duyurulan** |
 |---------|:---------|:---------|
+|Özellikler|[Yeni ticari teklifler için AB/EFTA İş Ortağı Fatura Para Birimi Değişikliği](2020-november.md#10)|17 Kasım|
+|Özellikler|[İş Ortağı Merkezi API’leri için API azaltması](2020-november.md#9)|17 Kasım|
+|Özellikler|[Yinelenen MCA istekleri nedeniyle 409 hataları oluştu](2020-november.md#8)|16 Kasım|
 |Özellikler|[Test kullanılabilir: Eğitim müşterisi doğrulama sürecine yönelik İş Ortağı Merkezi API güncelleştirmeleri ve kullanıcı arabirimi (UI) geliştirmeleri](2020-november.md#7)|10 Kasım|
 |Özellikler|[İşlem Hazırlığı Galerisi’nde Ticari Lisanslama iş ortağı içeriklerini genişletme](2020-november.md#6)|2 Kasım|
 |Teklifler/Pazarlar|[Microsoft Teams Odaları Premium SKU başlatılıyor](2020-november.md#5)|2 Kasım|
