@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 11/02/2020
-ms.openlocfilehash: 495ea6df347a5c2f6cf05a9f9efddaf33113e0b4
-ms.sourcegitcommit: 992b9e57e1abc26d2b835414278c96b3de61dd2b
+ms.openlocfilehash: 4524514177c636fbb2b613ed50323fd8f586c56d
+ms.sourcegitcommit: 511c21ae664bd438dc9d11f880cd58400a5d9eea
 ms.translationtype: MT
 ms.contentlocale: tr-TR
 ms.lasthandoff: 11/19/2020
-ms.locfileid: "94885603"
+ms.locfileid: "94932829"
 ---
 # <a name="november-2020-announcements"></a>Kasım 2020 duyuruları
 
@@ -23,6 +23,43 @@ Bu sayfada, Kasım 2020 ' de Microsoft Iş Ortağı Merkezi duyuruları ayrınt�
 2020 Duyuruları: [Nisan](2020-april.md)  |  [May](2020-may.md)  |  [June](2020-june.md)  |  [July](2020-july.md)  |  [August](2020-august.md)  |  [ayında Eylül](2020-september.md)ayında Haziran ayı  |  [October](2020-October.md) | Kasım
 
 ______________
+## <a name="new-unified-account-management-experience"></a><a name="13"></a>Yeni, Birleşik hesap yönetimi deneyimi
+
+### <a name="categories"></a>Kategoriler
+
+- Tarih: 2020-11-18
+- Özellikler
+
+## <a name="summary"></a>Özet
+
+18 Kasım 'Dan itibaren Iş Ortağı Merkezi, iş ortakları için Kullanıcı deneyimini geliştiren yeni hesap yönetimi deneyimini kullanıma sunulacaktır. Artık iş ortakları, tüm programlar hesabını ayarlar-> hesap ayarlarından yönetebilecektir.
+
+### <a name="impacted-audience"></a>Etkilenen hedef kitle
+
+Tüm iş ortakları
+
+### <a name="details"></a>Ayrıntılar
+
+Hesap yönetiminde anahtar değişikliği, ticari programlara (Microsoft İş Ortağı Ağı, bulut çözümü sağlayıcısı, başvurular, vb.) kayıtlı iş ortakları için önceden ayrı **Iş ortağı ayarları** görünümü ve geliştirici programlarına (ticari Market, Windows & Xbox vb.) kayıtlı iş ortakları Için de **Geliştirici ayarları** görünümü Birleşik bir **Hesap ayarları** görünümünde tümleştirmedir.
+
+### <a name="entry-point"></a>Giriş noktası
+
+Iş Ortağı Merkezi panosunda oturum açın ve ardından  **Ayarlar**   simgesini seçin ve **Hesap ayarları**' na tıklayın. Artık tüm profiller ve ayarlar birleştirildiğinden Iş ortağı ve geliştirici arasında seçim yapmanız gerekmez.
+
+### <a name="left-navigation-hierarchy"></a>Sol Gezinti hiyerarşisi
+
+- Kuruluş profili
+   - Yasal iş profilinizi, iş ortağı profilinizi ve şirket konumlarını yasal olarak yönetin.
+   - Kiracılar-Azure AD kiracılar, ticari ve geliştirici hakkında tüm bilgileriniz burada izlenir.
+   - Tanımlayıcılar-şirketiniz için Iş Ortağı Merkezi kimlikleri-MPNıD 'nizin, publisherID 'nin vb.
+- Kullanıcı yönetimi-kullanıcılarınızı yönetin ve bunları tek bir yerden ticari ve geliştirici rollerine atayın. Ayrıca, grupları ve Azure AD uygulamalarını buradan da yönetebilirsiniz.
+
+### <a name="next-steps"></a>Sonraki adımlar
+
+Bu bilgileri şirketinizdeki ilgili tüm kişilerle paylaşabilirsiniz.
+
+
+
 
 ## <a name="office-365-e1-for-mid-market-promo-latam-apac-and-india"></a><a name="12"></a>Orta ölçekli promosyon için Office 365 E1 (LATAM, APAC ve Hindistan)
 
@@ -303,6 +340,7 @@ Bu duyuru, gelecekteki değişikliklerin önceden farkında olmadan iş ortaklar
 - Bu bilgileri, bu değişikliklere hazırlanmalarına yardımcı olmak için kuruluşunuzdaki uygun ekiplerle paylaşabilirsiniz.
 
 
+>>>>>>> b9adba1905026516f3b9d15ff488d1c383af219b
 
 ## <a name="testing-available-partner-center-api-and-user-interface-ui-enhancements-for-the-education-customer-validation-process"></a><a name="7"></a>Test kullanılabilir: eğitim müşterisi doğrulama işlemi için Iş Ortağı Merkezi API 'SI ve Kullanıcı arabirimi (UI) geliştirmeleri
 
