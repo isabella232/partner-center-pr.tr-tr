@@ -1,20 +1,20 @@
 ---
 title: İş Ortağı Merkezi'nde raporlama sorunları
 ms.topic: how-to
-ms.date: 06/05/2020
+ms.date: 11/19/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-mpn
 description: Iş Ortağı Merkezi ile ilgili sorunları nasıl bildirebileceğinizi ve Iş ortağı destek ekibi için tanılama bilgilerini nasıl toplayacağınızı öğrenin.
 author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1db695179915f8ee803ad4dfdcfd6278ce49238b
-ms.sourcegitcommit: a2ea54f814fdbd619421a83482831b22f49416f6
+ms.openlocfilehash: 7d978ca3c48ccadaabb7d714ea9a5d2900bef819
+ms.sourcegitcommit: 7dff27bd799951c28bd1ef2665aa564cce71aff0
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 11/12/2020
-ms.locfileid: "94567099"
+ms.lasthandoff: 11/20/2020
+ms.locfileid: "94983350"
 ---
 # <a name="how-to-report-problems-with-partner-center-and-submit-any-log-or-diagnostics-information"></a>Iş Ortağı Merkezi ile ilgili sorunları bildirme ve günlük veya tanılama bilgilerini gönderme
 
@@ -23,15 +23,13 @@ ms.locfileid: "94567099"
 - İş Ortağı Merkezi
 - Microsoft Cloud for US Government için İş Ortağı Merkezi
 
-Sorun bulursanız veya Iş Ortağı Merkezi ile ilgili yardıma ihtiyaç duyuyorsanız Iş ortağı merkezi desteği 'ne başvurun.
-
-**Kullanıcı rolleri**
+**Uygun roller**
 
 Tüm oturum açan Iş Ortağı Merkezi kullanıcıları, iş ortağı destek istekleri oluşturabilir. Kullanıcılar yalnızca, Iş Ortağı Merkezi 'Nde oturum açtıktan sonra gönderdikleri destek isteklerini görüntüleyebilir.
 
 ## <a name="report-a-problem-with-the-partner-center"></a>Iş Ortağı Merkezi ile ilgili sorun bildirme
 
-1. **Iş Ortağı Merkezi** panonuzdan **destek** ' i seçin ve ardından **iş ortağı destek istekleri** ' ni seçin.
+1. **Iş Ortağı Merkezi** panonuzdan **destek** ' i seçin ve ardından **iş ortağı destek istekleri**' ni seçin.
 
 2. **Yeni istek** ' ı seçin ve ardından sorununuzu en iyi açıklayan sorun türünü arayın. Sorun türünü seçin ve **çözümleri gözden geçirin**.
 
@@ -58,6 +56,12 @@ Sorununuz Destek Danışmanı ile ilgili bir konuşma gerektiriyorsa, randevuyu 
 1. Bir randevuyu zamanladığınızda, iş ortağı Merkezi size destek ekibi ile nasıl iletişim kuracaksınız hakkında bilgi içeren bir takvim daveti gönderir ve bu randevuyu kendi iş takviminizde izleyebilirsiniz.
 
 :::image type="content" source="images/support/ticket3.png" alt-text="Tarih ve saat":::
+
+## <a name="hours-of-operation"></a>İşlem saatleri
+
+**İş ortağı desteği**
+
+:::image type="content" source="images/support/hoop.png" alt-text="İşlem destek saatleri":::
 
 ## <a name="send-diagnostics"></a>Tanılama gönder
 
