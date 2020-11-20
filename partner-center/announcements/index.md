@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 11/10/2020
-ms.openlocfilehash: 183ee0fe5e14608b0b43024e5c07e5ee95d608cd
-ms.sourcegitcommit: 6ed7268356445939db8613f2af96016707c55d64
+ms.date: 11/17/2020
+ms.openlocfilehash: d8bd7be9d77f9c8d59af5d45821b9c0728457e52
+ms.sourcegitcommit: 992b9e57e1abc26d2b835414278c96b3de61dd2b
 ms.translationtype: HT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "94691325"
+ms.lasthandoff: 11/19/2020
+ms.locfileid: "94885620"
 ---
 # <a name="partner-center-announcements"></a>İş Ortağı Merkezi duyuruları
 
@@ -22,6 +22,8 @@ ms.locfileid: "94691325"
 
 | **Kategori** | **Kasım 2020 duyuruları** | **Duyurulan** |
 |---------|:---------|:---------|
+|Teklifler/Pazarlar|[Orta ölçekli pazarda (LATAM, APAC ve Hindistan) tanıtım için Office 365 E1](2020-november.md#12)|18 Kasım|
+|Özellikler|[Belirli ülkelerde müşteri izlemeyi güçlendirmek için yapılan İş Ortağı Merkezi API’si güncelleştirmeleri ve kullanıcı arabirimi (UI) iyileştirmeleri](2020-november.md#11)|17 Kasım|
 |Özellikler|[Yeni ticari teklifler için AB/EFTA İş Ortağı Fatura Para Birimi Değişikliği](2020-november.md#10)|17 Kasım|
 |Özellikler|[İş Ortağı Merkezi API’leri için API azaltması](2020-november.md#9)|17 Kasım|
 |Özellikler|[Yinelenen MCA istekleri nedeniyle 409 hataları oluştu](2020-november.md#8)|16 Kasım|
