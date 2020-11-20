@@ -8,12 +8,12 @@ description: Iş ortağı merkezindeki başvurularınızı Dynamics 365 CRM içi
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: 8ea803e675ce7c2d21d680491bbdaedf792e631f
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: c92938bbb4ffa6875419d06a9bbf23010ee60724
+ms.sourcegitcommit: 7e32544cf91f932cbeb053c9de506ba9ee773fe2
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92531895"
+ms.lasthandoff: 11/20/2020
+ms.locfileid: "94947824"
 ---
 # <a name="co-sell-connector-for-dynamics-365-crm--overview"></a>Dynamics 365 CRM için ortak satış Bağlayıcısı – genel bakış
 
@@ -46,29 +46,21 @@ ms.locfileid: "92531895"
 
 4. Üstteki menüde **AppSource aç** bağlantısına tıklayın.
 
-   :::image type="content" source="images/cosellconnectors/openappsource.png" alt-text="AppSource 'u aç&quot;:::
+   :::image type="content" source="images/cosellconnectors/openappsource.png" alt-text="AppSource 'u aç":::
 
 5. Açılır ekranda **Dynamics365 Için Iş Ortağı Merkezi başvuruları bağlayıcıları** aratın.  
 
-6. **Şimdi al** düğmesine tıklayın ve ardından **devam edin** .
+6. **Şimdi al** düğmesine tıklayın ve ardından **devam edin**.
 
 7. Bu, uygulamayı yüklemek için CRM (Dynamics 365) ortamını seçebileceğiniz sayfayı açar.  Hüküm ve koşulları kabul edin.
 
-8. Daha sonra **çözümlerinizi yönetme** sayfasına yönlendirilirsiniz.  Sayfanın alt kısmındaki ok düğmelerini kullanarak &quot;Iş Ortağı Merkezi başvuruları" na gidin. **Yükleme zamanlandı** , Iş Ortağı Merkezi başvuruları çözümünün yanında görünmelidir. Yükleme, 10-15 dakika sürer. 
+8. Daha sonra **çözümlerinizi yönetme** sayfasına yönlendirilirsiniz.  Sayfanın alt kısmındaki ok düğmelerini kullanarak "Iş Ortağı Merkezi başvuruları" na gidin. **Yükleme zamanlandı** , Iş Ortağı Merkezi başvuruları çözümünün yanında görünmelidir. Yükleme, 10-15 dakika sürer. 
 
 9. Yükleme tamamlandıktan sonra [Power otomatikleştirmeye](https://flow.microsoft.com) dönün ve sol gezinti alanından **çözümler** ' i seçin. **Dynamics 365 Için Iş Ortağı Merkezi başvuruları** , çözümler listesinden kullanılabilir olduğuna dikkat edin.
 
 10. **Dynamics 365 Için Iş Ortağı Merkezi başvuruları eşitlemesini** seçin. Aşağıdaki güç otomatikleşme akışları ve varlıkları mevcuttur:
 
-    :::image type="content" source="images/cosellconnectors/dynamics-available-crms.png" alt-text="AppSource 'u aç&quot;:::
-
-5. Açılır ekranda **Dynamics365 Için Iş Ortağı Merkezi başvuruları bağlayıcıları** aratın.  
-
-6. **Şimdi al** düğmesine tıklayın ve ardından **devam edin** .
-
-7. Bu, uygulamayı yüklemek için CRM (Dynamics 365) ortamını seçebileceğiniz sayfayı açar.  Hüküm ve koşulları kabul edin.
-
-8. Daha sonra **çözümlerinizi yönetme** sayfasına yönlendirilirsiniz.  Sayfanın alt kısmındaki ok düğmelerini kullanarak &quot;Iş Ortağı Merkezi başvuruları":::
+    :::image type="content" source="images/cosellconnectors/dynamics-available-crms.png" alt-text="Kullanılabilir CRMS 'ler":::
 
 ## <a name="best-practice-test-before-you-go-live"></a>En iyi yöntem: canlı çalışmadan önce test edin
 
@@ -83,6 +75,7 @@ ms.locfileid: "92531895"
 
 1. Çözümü CRM Örneğinizde yükledikten sonra [Power otomatikleştirmek](https://flow.microsoft.com/)' a geri gidin.
 
+
 2. Sağ üst köşedeki **ortamlar** açılan penceresinden, Power otomatikleştir çözümünü yüklediğiniz CRM örneğini seçin.
 
 3. Üç Kullanıcı hesabını ilişkilendiren bağlantılar oluşturmanız gerekir:
@@ -95,17 +88,9 @@ ms.locfileid: "92531895"
 
       1. Sol gezinti çubuğundan **Bağlantılar** ' ı seçin ve listeden "Iş Ortağı Merkezi başvuruları" çözümünü seçin.
 
-      2. **Bağlantı oluştur** ' a tıklayarak bir bağlantı oluşturun.
+      2. **Bağlantı oluştur**' a tıklayarak bir bağlantı oluşturun.
 
-         :::image type="content" source="images/cosellconnectors/createconnection.png" alt-text="AppSource 'u aç&quot;:::
-
-5. Açılır ekranda **Dynamics365 Için Iş Ortağı Merkezi başvuruları bağlayıcıları** aratın.  
-
-6. **Şimdi al** düğmesine tıklayın ve ardından **devam edin** .
-
-7. Bu, uygulamayı yüklemek için CRM (Dynamics 365) ortamını seçebileceğiniz sayfayı açar.  Hüküm ve koşulları kabul edin.
-
-8. Daha sonra **çözümlerinizi yönetme** sayfasına yönlendirilirsiniz.  Sayfanın alt kısmındaki ok düğmelerini kullanarak &quot;Iş Ortağı Merkezi başvuruları":::
+         :::image type="content" source="images/cosellconnectors/dynamics1.png" alt-text="Bağlantı oluşturma":::
 
       3. Sağ üst köşedeki arama çubuğunda **Iş Ortağı Merkezi başvurularını (Önizleme)** arayın.
 
@@ -114,10 +99,31 @@ ms.locfileid: "92531895"
       5. Daha sonra, Iş Ortağı Merkezi kullanıcılarınız için, referanslar yöneticisinin kimlik bilgileriyle bir Iş Ortağı Merkezi olaylar bağlantısı oluşturun.
 
       6. CRM yönetici kullanıcısı için Common Data Service (geçerli ortam) bağlantısı oluşturun.
+       
+     
+      7. Tüm bağlantılar eklendikten sonra ortamınızda aşağıdaki bağlantıları görmeniz gerekir:
 
-4. Power otomatikleştir akışlarını bağlantılarla ilişkilendirmek için, Common Data Service ve Iş Ortağı Merkezi başvurularına bağlanmak üzere her güç otomatikleştirme akışını düzenleyin. Değişiklikleri kaydedin.
+:::image type="content" source="images/cosellconnectors/dynamics2.png" alt-text="Bağlantılar":::
+   
+## <a name="edit-the-connections"></a>Bağlantıları düzenleme
 
-5. Power otomatikleştir akışlarını **açın** .
+1. **Çözümler** sayfasına dönün ve **Varsayılan çözüm**' ı seçin. **Tüm**' a tıklayarak **Bağlantı başvurusunu (Önizleme)** seçin.
+
+:::image type="content" source="images/cosellconnectors/dynamics3.png" alt-text="Bağlan":::
+
+2. Üç nokta simgesini seçerek bağlantıların her birini tek tek düzenleyin. İlgili bağlantıları ekleyin.
+
+:::image type="content" source="images/cosellconnectors/dynamics4.png" alt-text="Listelenen bağlantılar"::: 
+
+3.  Akışları aşağıdaki sırada açın:
+- İş Ortağı Merkezi Web kancası kaydı (Insider Preview)
+- Ortak satış başvurusu oluşturma – Dynamics 365-Iş Ortağı Merkezi (Insider Preview)
+- İş Ortağı Merkezi Microsoft ortak satış başvuruları Dynamics 365 'a (Insider Preview)
+- İş Ortağı Merkezi-Dynamics 365 (Insider Preview)
+- Dynamics 365-Iş Ortağı Merkezi (Insider Preview)
+- Dynamics 365 Iş Ortağı Merkezi (Insider Preview) fırsatı
+- Dynamics 365 Microsoft Solutions for Partner Center (Insider Preview)
+ 
 
 ## <a name="use-webhook-apis-to-register-for-resource-change-events"></a>Kaynak değişikliği olaylarına kaydolmak için Web kancası API 'Lerini kullanma
 
@@ -127,27 +133,11 @@ Iş Ortağı Merkezi Web kancası API 'Leri, kaynak değişiklik olaylarına kay
 
 2. (A.) Iş Ortağı Merkezi kullanıcısına, aşağıdaki vurgulanmış şekilde, başvuru Yöneticisi kimlik bilgileri (b.) Iş Ortağı Merkezi etkinliklerine yönelik bağlantılar ekleyin
 
-   :::image type="content" source="images/cosellconnectors/triggerflow.png" alt-text="AppSource 'u aç&quot;:::
-
-5. Açılır ekranda **Dynamics365 Için Iş Ortağı Merkezi başvuruları bağlayıcıları** aratın.  
-
-6. **Şimdi al** düğmesine tıklayın ve ardından **devam edin** .
-
-7. Bu, uygulamayı yüklemek için CRM (Dynamics 365) ortamını seçebileceğiniz sayfayı açar.  Hüküm ve koşulları kabul edin.
-
-8. Daha sonra **çözümlerinizi yönetme** sayfasına yönlendirilirsiniz.  Sayfanın alt kısmındaki ok düğmelerini kullanarak &quot;Iş Ortağı Merkezi başvuruları":::
+   :::image type="content" source="images/cosellconnectors/triggerflow.png" alt-text="Tetikleyici":::
 
 3. Bu güncelleştirmeleri yaptığınızda şunu görürsünüz:
 
-   :::image type="content" source="images/cosellconnectors/webhook1.png" alt-text="AppSource 'u aç&quot;:::
-
-5. Açılır ekranda **Dynamics365 Için Iş Ortağı Merkezi başvuruları bağlayıcıları** aratın.  
-
-6. **Şimdi al** düğmesine tıklayın ve ardından **devam edin** .
-
-7. Bu, uygulamayı yüklemek için CRM (Dynamics 365) ortamını seçebileceğiniz sayfayı açar.  Hüküm ve koşulları kabul edin.
-
-8. Daha sonra **çözümlerinizi yönetme** sayfasına yönlendirilirsiniz.  Sayfanın alt kısmındaki ok düğmelerini kullanarak &quot;Iş Ortağı Merkezi başvuruları":::
+   :::image type="content" source="images/cosellconnectors/webhook1.png" alt-text="Web Kancaları":::
 
 4. Değişikliklerinizi kaydedin ve **Aç '** ı seçin.
 
@@ -159,17 +149,19 @@ Iş Ortağı Merkezi Web kancası API 'Leri, kaynak değişiklik olaylarına kay
 
 7. Belirtilen HTTP POST URL 'sini kopyalamak için **Kopyala** simgesini seçin.
 
-   :::image type="content" source="images/cosellconnectors/copyurl.png" alt-text="AppSource 'u aç&quot;:::
+   :::image type="content" source="images/cosellconnectors/copyurl.png" alt-text="URL'yi Kopyala":::
 
-5. Açılır ekranda **Dynamics365 Için Iş Ortağı Merkezi başvuruları bağlayıcıları** aratın.  
+8. Şimdi "Iş Ortağı Merkezi Web kancası kaydı 'nı (Insider Preview)" Power otomatikleştirmeyi seçin ve **Çalıştır**' ı seçin.
 
-6. **Şimdi al** düğmesine tıklayın ve ardından **devam edin** .
+9. Sağ bölmede "akış Çalıştır" penceresinin açık olduğundan emin olun ve **devam**' a tıklayın.
 
-7. Bu, uygulamayı yüklemek için CRM (Dynamics 365) ortamını seçebileceğiniz sayfayı açar.  Hüküm ve koşulları kabul edin.
+10. Şu ayrıntıları girin:
 
-8. Daha sonra **çözümlerinizi yönetme** sayfasına yönlendirilirsiniz.  Sayfanın alt kısmındaki ok düğmelerini kullanarak &quot;Iş Ortağı Merkezi başvuruları"
+    1. **Http tetikleyici uç noktası**: önceki adımdan kopyalanmış URL
 
-    3. Varsa **var olan tetikleyici uç noktalarının üzerine yaz** : Evet (Bu, mevcut tüm uç noktaların üzerine yazar.)
+    2. **Kaydolmak Için olaylar**: "başvuru oluşturuldu" ve "başvuru-güncelleştirildi"
+
+    3. Varsa **var olan tetikleyici uç noktalarının üzerine yaz**: Evet (Bu, mevcut tüm uç noktaların üzerine yazar.)
 
 11. **Çalıştır** ' ı seçin ve **bitti** ' yi seçin.
 
@@ -191,11 +183,11 @@ Her bir güç otomatikleştirme akışının birden çok adımı gereksinimlerin
 
     c. **Müşteri adayını veya fırsatı eşitlemeyi (kapsam)** seçin.
 
-2. Olay oluşturma için CRM alan eşlemelerini (alan eşlemeleri kılavuzuna göre) özelleştirmek için, **Yeni paylaşılan fırsat ' ı seçin ve ardından** . **Evet ise** alt adımı seçin ve ardından **CRM 'de yeni fırsat oluşturma** ' yı genişletin. Bu bölümdeki eşlemeleri alan eşleme kılavuzunu kullanarak düzenleyebilirsiniz.
+2. Olay oluşturma için CRM alan eşlemelerini (alan eşlemeleri kılavuzuna göre) özelleştirmek için, **Yeni paylaşılan fırsat ' ı seçin ve ardından**. **Evet ise** alt adımı seçin ve ardından **CRM 'de yeni fırsat oluşturma**' yı genişletin. Bu bölümdeki eşlemeleri alan eşleme kılavuzunu kullanarak düzenleyebilirsiniz.
 
     d. Güncelleştirme olayları için CRM alan eşlemelerini özelleştirmek için (alan eşlemeleri kılavuzuna göre), "(kapsam) müşteri adayını veya fırsatı eşitlemeyi" adımına tıklayın.
 
-    e. Bir **fırsata yönelik güncelleştirme olup olmadığını seçin, sonra** . **Evet ise** alt adımı seçin ve ardından **iş ortağı merkezi ve CRM 'deki fırsat nesneleri arasında fark olursa** öğesini genişletin.  
+    e. Bir **fırsata yönelik güncelleştirme olup olmadığını seçin, sonra**. **Evet ise** alt adımı seçin ve ardından **iş ortağı merkezi ve CRM 'deki fırsat nesneleri arasında fark olursa** öğesini genişletin.  
 
     f. **Mevcut fırsatı Güncelleştir** ' in ardından **Evet** ' i seçin
 
@@ -217,9 +209,19 @@ Her bir güç otomatikleştirme akışının birden çok adımı gereksinimlerin
 
    b. **Başvuruları eşitleme (kapsam)** seçeneğini belirleyin.
 
-   c. Olay oluşturma için CRM alan eşlemelerini özelleştirmek için (alan eşlemeleri kılavuzuna göre) **Microsoft başvurusu oluştur** ' u seçin.
+   c. Olay oluşturma için CRM alan eşlemelerini özelleştirmek için (alan eşlemeleri kılavuzuna göre) **Microsoft başvurusu oluştur**' u seçin.
 
    Bu bölümdeki eşlemeleri alan eşleme kılavuzuna göre düzenleyebilirsiniz.
+
+Oluşturulan iki ortam değişkeni vardır:
+
+- Onay işareti: Iş ortağı merkezi ve Dynamics 365 CRM arasında çift yönlü olarak eşitlenen fırsatların yanı sıra onay işareti simgesi gerekip gerekmediğini belirtir.
+
+- Yalnızca ortak satış fırsatlarını eşitleyin: yalnızca ortak satış fırsatlarını eşitlemek isteyip istemediğinizi belirtir.
+
+Ortam değişkenleri için varsayılan değeri düzenlemeyi seçebilirsiniz.
+
+:::image type="content" source="images/cosellconnectors/dynamics5.png" alt-text="Varsayılan değerler için düzenleme kutusu":::
 
 ## <a name="end-to-end-bi-directional-co-sell-referral-synchronization"></a>Uçtan uca iki yönlü ortak satış başvuru eşitlemesi
 
@@ -233,17 +235,23 @@ Iş ortağı merkezi ve Dynamics 365 CRM arasındaki başvuruları eşleştirmek
 
 Aşağıdaki özel alanlar CRM bölümünün bir parçası olmalıdır:
 
-- **Iş Ortağı Merkezi Ile Eşitle** : fırsatın Microsoft Iş Ortağı Merkezi ile eşitlenmeyeceğini belirtir
+- **Iş Ortağı Merkezi Ile Eşitle**: fırsatın Microsoft Iş Ortağı Merkezi ile eşitlenmeyeceğini belirtir
 
-- **Başvuru tanımlayıcısı** : Microsoft Iş Ortağı Merkezi başvurusu için salt okunurdur bir tanımlayıcı alanı
+- **Başvuru tanımlayıcısı**: Microsoft Iş Ortağı Merkezi başvurusu için salt okunurdur bir tanımlayıcı alanı
 
-- **Başvuru bağlantısı** : Microsoft Iş Ortağı Merkezi 'nde başvuruya yönelik salt okunurdur bir bağlantı
+- **Başvuru bağlantısı**: Microsoft Iş Ortağı Merkezi 'nde başvuruya yönelik salt okunurdur bir bağlantı
 
-- **Microsoft nasıl yardım edebilir?** : başvuru için Microsoft 'un gerekli olduğu yardım
+- **Microsoft nasıl yardım edebilir?**: başvuru için Microsoft 'un gerekli olduğu yardım
 
-- **Ürünler** : Bu fırsatla ilişkili ürünlerin listesi
+- **Ürünler**: Bu fırsatla ilişkili ürünlerin listesi
 
-- **Denetim** : Iş Ortağı Merkezi başvurularına eşitleme için salt okunurdur bir denetim izi
+- **Denetim**: Iş Ortağı Merkezi başvurularına eşitleme için salt okunurdur bir denetim izi
+
+Dynamics 365 CRM 'deki fırsat formunu ürün çözümlerini içerecek şekilde güncelleştirin.
+
+:::image type="content" source="images/cosellconnectors/dynamics6.png" alt-text="Fırsat formu":::
+
+:::image type="content" source="images/cosellconnectors/dynamics7.png" alt-text="{alternatif-metin}":::
 
 ### <a name="scenarios"></a>LARLA
 
@@ -253,31 +261,31 @@ Aşağıdaki özel alanlar CRM bölümünün bir parçası olmalıdır:
 
    2. Dynamics 365 ortamında "yeni fırsat" oluşturduğunuzda aşağıdaki bölümün mevcut olduğundan emin olun.
 
-      :::image type="content" source="images/cosellconnectors/opportunity.png" alt-text="AppSource 'u aç&quot;:::
-
-5. Açılır ekranda **Dynamics365 Için Iş Ortağı Merkezi başvuruları bağlayıcıları** aratın.  
-
-6. **Şimdi al** düğmesine tıklayın ve ardından **devam edin** .
-
-7. Bu, uygulamayı yüklemek için CRM (Dynamics 365) ortamını seçebileceğiniz sayfayı açar.  Hüküm ve koşulları kabul edin.
-
-8. Daha sonra **çözümlerinizi yönetme** sayfasına yönlendirilirsiniz.  Sayfanın alt kısmındaki ok düğmelerini kullanarak &quot;Iş Ortağı Merkezi başvuruları":::
+      :::image type="content" source="images/cosellconnectors/opportunity.png" alt-text="Dynamics 365 ' de Microsoft Iş Ortağı Merkezi bilgilerini gösteren örnek fırsat bölümü.":::
 
    3. Bu fırsatı Microsoft Iş Ortağı Merkezi ile eşleştirmek için, kart görünümünde aşağıdaki alanları ayarlamış olduğunuzdan emin olun:
 
-      - **Iş Ortağı Merkezi Ile Eşitle** : Evet
+      - **Iş Ortağı Merkezi Ile Eşitle**: Evet
 
-      - **Microsoft nasıl yardım edebilir?** : aşağıdakilerden seçim yapın:
+      - **Microsoft nasıl yardım edebilir?**: aşağıdakilerden seçim yapın:
 
-         :::image type="content" source="images/cosellconnectors/help.png" alt-text="AppSource 'u aç&quot;:::
+         :::image type="content" source="images/cosellconnectors/help.png" alt-text="Dynamics 365 ' de, Microsoft 'un nasıl yardım edebilir adlı bir alanın yanında Microsoft Iş Ortağı Merkezi yardım seçeneklerini gösteren örnek fırsat bölümü.":::
 
-5. Açılır ekranda **Dynamics365 Için Iş Ortağı Merkezi başvuruları bağlayıcıları** aratın.  
+      - **Ürünler**: ürünün çözüm kimlikleri
 
-6. **Şimdi al** düğmesine tıklayın ve ardından **devam edin** .
+   4. Fırsat Dynamics 365 ' de **Iş Ortağı Merkezi Ile Eşitle** seçeneği **Evet** olarak ayarlandığında, 10 dakika bekleyin ve ardından iş ortağı Merkezi hesabınızda oturum açın. Başvurularınız Dynamics 365 ile eşitlenir.
 
-7. Bu, uygulamayı yüklemek için CRM (Dynamics 365) ortamını seçebileceğiniz sayfayı açar.  Hüküm ve koşulları kabul edin.
+   5. Benzer şekilde, "Partner Center ile eşitleme" seçeneği "Evet" olarak ayarlanmış bir fırsat için, Dynamics 365 CRM 'de fırsatı güncelleştirirseniz değişiklikler Iş Ortağı Merkezi hesabınızda eşitlenir.
 
-8. Daha sonra **çözümlerinizi yönetme** sayfasına yönlendirilirsiniz.  Sayfanın alt kısmındaki ok düğmelerini kullanarak &quot;Iş Ortağı Merkezi başvuruları" seçeneğine tıklayarak Iş Ortağı Merkezi 'nden yeni bir ortak satış başvurusu oluşturun.
+   6. Iş Ortağı Merkezi ile başarıyla eşitlenen fırsatlar, Dynamics 365 ' de ✔ simgesiyle tanımlanır.
+
+2. Microsoft Iş Ortağı Merkezi 'nde başvuru oluşturulduğunda veya güncelleştirilirken ve Dynamics 365 ortamında eşitlendiğinde başvuru eşitlemesi:
+
+   1. Iş Ortağı Merkezi [panonuzda](https://partner.microsoft.com/dashboard/home)oturum açın.
+
+   2. Sol taraftaki menüden **referanslar** ' ı seçin.
+
+   3. "Yeni anlaşma" seçeneğine tıklayarak Iş Ortağı Merkezi 'nden yeni bir ortak satış başvurusu oluşturun.
 
    4. Dynamics 365 CRM ortamınızda oturum açın.
 

@@ -8,12 +8,12 @@ description: Iş ortağı merkezindeki başvurularınızı Salesforce CRM 'niz i
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: 4b3817dafbd05edf0c50b062b52ac4814c767d04
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: b73f0b24538daa18b93fa206fce5eda1ab9bc9b9
+ms.sourcegitcommit: 7e32544cf91f932cbeb053c9de506ba9ee773fe2
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92531894"
+ms.lasthandoff: 11/20/2020
+ms.locfileid: "94947860"
 ---
 # <a name="co-sell-connector-for-salesforce-crm---overview"></a>Salesforce için ortak satış Bağlayıcısı CRM-genel bakış
 
@@ -84,19 +84,21 @@ Note: bir korumalı alana yüklüyorsanız, URL 'nin başlangıçtaki bölümün
 
 5. Açılır ekranda **Salesforce Için Iş Ortağı Merkezi başvuruları bağlayıcıları** arayın.  
 
-   :::image type="content" source="images/salesforce/salesforce1.png" alt-text="AppSource 'u aç":::
+   :::image type="content" source="images/salesforce/salesforce1.png" alt-text="Salesforce":::
 
-6. **Şimdi al** düğmesine tıklayın ve ardından **devam edin** .
+6. **Şimdi al** düğmesine tıklayın ve ardından **devam edin**.
 
 7. Bu, uygulamayı yüklemek için Salesforce CRM ortamını seçebileceğiniz sayfayı açar.  Hüküm ve koşulları kabul edin.
 
-   :::image type="content" source="images/salesforce/available-crm.png" alt-text="AppSource 'u aç" na gidin. **Yükleme zamanlandı** , Iş Ortağı Merkezi başvuruları çözümünün yanında görünmelidir. Yükleme, 10-15 dakika sürer.
+   :::image type="content" source="images/salesforce/available-crm.png" alt-text="Kullanılabilir CRMS 'ler":::
+
+8. Daha sonra **çözümlerinizi yönetme** sayfasına yönlendirilirsiniz.  Sayfanın alt kısmındaki ok düğmelerini kullanarak "Iş Ortağı Merkezi başvuruları" na gidin. **Yükleme zamanlandı** , Iş Ortağı Merkezi başvuruları çözümünün yanında görünmelidir. Yükleme, 10-15 dakika sürer.
 
 9. Yükleme tamamlandıktan sonra [Power otomatikleştirmeye](https://flow.microsoft.com) dönün ve sol gezinti alanından **çözümler** ' i seçin. **Salesforce Için Iş Ortağı Merkezi başvuruları** , çözümler listesinden kullanılabilir olduğuna dikkat edin.
 
 10. **Salesforce Için Iş Ortağı Merkezi başvuruları eşitlemesini** seçin. Aşağıdaki güç otomatikleşme akışları ve varlıkları mevcuttur:
 
-    :::image type="content" source="images/cosellconnectors/salesforce10.png" alt-text="AppSource 'u aç":::
+    :::image type="content" source="images/cosellconnectors/salesforce10.png" alt-text="Salesforce akışları":::
 
 
 
@@ -111,9 +113,9 @@ Note: bir korumalı alana yüklüyorsanız, URL 'nin başlangıçtaki bölümün
     - Çözüm içindeki Power otomatikleştirmede CRM Yöneticisi.
 4. Sol gezinti çubuğundan **Bağlantılar** ' ı seçin ve listeden "Iş Ortağı Merkezi başvuruları" çözümünü seçin.
 
-5. **Bağlantı oluştur** ' a tıklayarak bir bağlantı oluşturun.
+5. **Bağlantı oluştur**' a tıklayarak bir bağlantı oluşturun.
 
-:::image type="content" source="images/cosellconnectors/salesforce12.png" alt-text="AppSource 'u aç":::
+:::image type="content" source="images/cosellconnectors/salesforce12.png" alt-text="Bağlantı oluşturma":::
 
 - Sağ üst köşedeki arama çubuğunda Iş Ortağı Merkezi başvurularını (Önizleme) arayın.
 
@@ -121,21 +123,21 @@ Note: bir korumalı alana yüklüyorsanız, URL 'nin başlangıçtaki bölümün
 
 -  Daha sonra, Iş Ortağı Merkezi kullanıcılarınız için, referanslar yöneticisinin kimlik bilgileriyle bir Iş Ortağı Merkezi olaylar bağlantısı oluşturun.
 
-- CRM yönetici kullanıcısı için Common Data Service (geçerli ortam) bağlantısı oluşturun.
+- CRM yönetici kullanıcısı için Salesforce bağlantısı oluşturun.
 
 -  Tüm bağlantılar eklendikten sonra ortamınızda aşağıdaki bağlantıları görmeniz gerekir:
 
- :::image type="content" source="images/cosellconnectors/salesforce13.png" alt-text="AppSource 'u aç":::
+ :::image type="content" source="images/cosellconnectors/salesforce13.png" alt-text="Bağlantıları gözlemleyin":::
 
 ### <a name="edit-the-connections"></a>Bağlantıları düzenleme
 
-1. Çözümler sayfasına dönün ve **Varsayılan çözüm** ' ı seçin.  **Tüm** ' a tıklayarak **Bağlantı başvurusunu (Önizleme)** seçin.
+1. Çözümler sayfasına dönün ve **Varsayılan çözüm**' ı seçin.  **Tüm**' a tıklayarak **Bağlantı başvurusunu (Önizleme)** seçin.
  
-:::image type="content" source="images/cosellconnectors/salesforce14.png" alt-text="AppSource 'u aç":::
+:::image type="content" source="images/cosellconnectors/salesforce14.png" alt-text="Bağlayıcı düzenlemeyi Başlat":::
 
 2. Üç nokta simgesini seçerek bağlantıların her birini tek tek düzenleyin. İlgili bağlantıları ekleyin.
 
-:::image type="content" source="images/cosellconnectors/salesforce15.png" alt-text="AppSource 'u aç":::
+:::image type="content" source="images/cosellconnectors/salesforce15.png" alt-text="Bağlayıcıları Düzenle":::
 
 3. Akışları aşağıdaki sırada açın:
 
@@ -155,11 +157,11 @@ Iş Ortağı Merkezi Web kancası API 'Leri, kaynak değişiklik olaylarına kay
 
 2. (A.) Iş Ortağı Merkezi kullanıcısına, aşağıdaki vurgulanmış şekilde, başvuru Yöneticisi kimlik bilgileri (b.) Iş Ortağı Merkezi etkinliklerine yönelik bağlantılar ekleyin
 
-   :::image type="content" source="images/cosellconnectors/triggerflow.png" alt-text="AppSource 'u aç":::
+   :::image type="content" source="images/cosellconnectors/triggerflow.png" alt-text="Tetikleyici":::
 
 3. Bu güncelleştirmeleri yaptığınızda şunu görürsünüz:
 
-   :::image type="content" source="images/cosellconnectors/webhook1.png" alt-text="AppSource 'u aç":::
+   :::image type="content" source="images/cosellconnectors/webhook1.png" alt-text="Web Kancaları":::
 
 4. Değişikliklerinizi kaydedin ve **Aç '** ı seçin.
 
@@ -171,9 +173,19 @@ Iş Ortağı Merkezi Web kancası API 'Leri, kaynak değişiklik olaylarına kay
 
 7. Belirtilen HTTP POST URL 'sini kopyalamak için **Kopyala** simgesini seçin.
 
-   :::image type="content" source="images/salesforce/copy-url.png" alt-text="AppSource 'u aç"
+   :::image type="content" source="images/salesforce/copy-url.png" alt-text="URL'yi Kopyala":::
 
-    3. Varsa **var olan tetikleyici uç noktalarının üzerine yaz** : Evet (Bu, mevcut tüm uç noktaların üzerine yazar.)
+8. Şimdi "Iş Ortağı Merkezi Web kancası kaydı 'nı (Insider Preview)" Power otomatikleştirmeyi seçin ve **Çalıştır**' ı seçin.
+
+9. Sağ bölmede "akış Çalıştır" penceresinin açık olduğundan emin olun ve **devam**' a tıklayın.
+
+10. Şu ayrıntıları girin:
+
+    1. **Http tetikleyici uç noktası**: önceki adımdan kopyalanmış URL
+
+    2. **Kaydolmak Için olaylar**: "başvuru oluşturuldu" ve "başvuru-güncelleştirildi"
+
+    3. Varsa **var olan tetikleyici uç noktalarının üzerine yaz**: Evet (Bu, mevcut tüm uç noktaların üzerine yazar.)
 
 11. **Çalıştır** ' ı seçin ve **bitti** ' yi seçin.
 
@@ -195,11 +207,11 @@ Her bir güç otomatikleştirme akışının birden çok adımı gereksinimlerin
 
    3. **Müşteri adayını veya fırsatı eşitlemeyi (kapsam)** seçin.
 
-2. Olay oluşturma için CRM alan eşlemelerini özelleştirmek için, **Yeni paylaşılan fırsat ' ı seçin ve ardından** . **Evet ise** alt adımı seçin ve ardından **CRM 'de yeni fırsat oluşturma** ' yı genişletin. Bu bölümdeki eşlemeleri alan eşleme kılavuzunu kullanarak düzenleyebilirsiniz.
+2. Olay oluşturma için CRM alan eşlemelerini özelleştirmek için, **Yeni paylaşılan fırsat ' ı seçin ve ardından**. **Evet ise** alt adımı seçin ve ardından **CRM 'de yeni fırsat oluşturma**' yı genişletin. Bu bölümdeki eşlemeleri alan eşleme kılavuzunu kullanarak düzenleyebilirsiniz.
 
    1. Güncelleştirme olayları için CRM alan eşlemelerini özelleştirmek için "(kapsam) müşteri adayını veya fırsatı eşitlemeyi" adımına tıklayın.
 
-   2. Bir **fırsata yönelik güncelleştirme olup olmadığını seçin, sonra** . **Evet ise** alt adımı seçin ve ardından **iş ortağı merkezi ve CRM 'deki fırsat nesneleri arasında fark olursa** öğesini genişletin.  
+   2. Bir **fırsata yönelik güncelleştirme olup olmadığını seçin, sonra**. **Evet ise** alt adımı seçin ve ardından **iş ortağı merkezi ve CRM 'deki fırsat nesneleri arasında fark olursa** öğesini genişletin.  
 
    3. **Mevcut fırsatı Güncelleştir** ' in ardından **Evet** ' i seçin
 
@@ -221,7 +233,7 @@ Her bir güç otomatikleştirme akışının birden çok adımı gereksinimlerin
 
    2. **Başvuruları eşitleme (kapsam)** seçeneğini belirleyin.
 
-   3. Olay oluşturma için CRM alan eşlemelerini özelleştirmek için (alan eşlemeleri kılavuzuna göre) **Microsoft başvurusu oluştur** ' u seçin.
+   3. Olay oluşturma için CRM alan eşlemelerini özelleştirmek için (alan eşlemeleri kılavuzuna göre) **Microsoft başvurusu oluştur**' u seçin.
 
 Bu bölümdeki eşlemeleri alan eşleme kılavuzuna göre düzenleyebilirsiniz.
 
@@ -238,17 +250,17 @@ Bir dizi özel alan, Salesforce CRM çözümü **fırsat** varlığı Için Iş 
 
 Aşağıdaki özel alanlar CRM bölümünün bir parçası olmalıdır:
 
-- **Iş Ortağı Merkezi Ile Eşitle** : fırsatın Microsoft Iş Ortağı Merkezi ile eşitlenmeyeceğini belirtir
+- **Iş Ortağı Merkezi Ile Eşitle**: fırsatın Microsoft Iş Ortağı Merkezi ile eşitlenmeyeceğini belirtir
 
-- **Başvuru tanımlayıcısı** : Microsoft Iş Ortağı Merkezi başvurusu için salt okunurdur bir tanımlayıcı alanı
+- **Başvuru tanımlayıcısı**: Microsoft Iş Ortağı Merkezi başvurusu için salt okunurdur bir tanımlayıcı alanı
 
-- **Başvuru bağlantısı** : Microsoft Iş Ortağı Merkezi 'nde başvuruya yönelik salt okunurdur bir bağlantı
+- **Başvuru bağlantısı**: Microsoft Iş Ortağı Merkezi 'nde başvuruya yönelik salt okunurdur bir bağlantı
 
-- **Microsoft 'un yardımı** : başvuru için Microsoft 'un gerekli yardımı
+- **Microsoft 'un yardımı**: başvuru için Microsoft 'un gerekli yardımı
 
-- **Ürünler** : Bu fırsatla ilişkili ürünlerin listesi
+- **Ürünler**: Bu fırsatla ilişkili ürünlerin listesi
 
-- **Denetim** : Iş Ortağı Merkezi başvurularına eşitleme için salt okunurdur bir denetim izi
+- **Denetim**: Iş Ortağı Merkezi başvurularına eşitleme için salt okunurdur bir denetim izi
 
 ### <a name="scenarios"></a>LARLA
 
@@ -258,13 +270,33 @@ Aşağıdaki özel alanlar CRM bölümünün bir parçası olmalıdır:
 
    2. Salesforce CRM ortamında "yeni fırsat" oluşturduğunuzda aşağıdaki bölümün mevcut olduğundan emin olun.
 
-      :::image type="content" source="images/salesforce/salesforce-scenario-1.png" alt-text="AppSource 'u aç" seçeneğine tıklayarak Iş Ortağı Merkezi 'nden yeni bir ortak satış başvurusu oluşturun.
+      :::image type="content" source="images/salesforce/salesforce-scenario-1.png" alt-text="Salesforce ortamı":::
+
+   3. Bu fırsatı Microsoft Iş Ortağı Merkezi ile eşleştirmek için, kart görünümünde aşağıdaki alanları ayarlamış olduğunuzdan emin olun:
+
+       - "Iş Ortağı Merkezi ile Eşitle": Evet
+       - "Microsoft nasıl yardım edebilir?": aşağıdaki seçeneklerden seçim yapın:
+       - Ürünler: ürünün çözüm kimlikleri
+
+   4. **Iş Ortağı Merkezi ile fırsat eşitlemesi** seçeneğini **Evet** olarak ayarladıktan sonra 10 dakika bekleyin, iş ortağı Merkezi hesabınızda oturum açın. Başvurularınız Salesforce CRM ile eşitlenecek.
+
+   5. "Iş Ortağı Merkezi ile Eşitle" seçeneği "Evet" olarak ayarlandığında, fırsatı Salesforce CRM 'de güncelleştirirseniz, değişiklikler Iş Ortağı Merkezi hesabınızla eşitlenir.
+
+   6. Iş Ortağı Merkezi ile başarıyla eşitlenen fırsatlar, Salesforce CRM 'de ✔ simgesiyle tanımlanır.
+
+2. Microsoft Iş Ortağı Merkezi 'nde başvuru oluşturulduğunda veya güncelleştirilirken ve Salesforce CRM ortamında eşitlendiğinde başvuru eşitlemesi:
+
+    1. Iş Ortağı Merkezi [panonuzda](https://partner.microsoft.com/dashboard/home)oturum açın.
+
+    2. Sol taraftaki menüden **referanslar** ' ı seçin.
+
+    3. "Yeni anlaşma" seçeneğine tıklayarak Iş Ortağı Merkezi 'nden yeni bir ortak satış başvurusu oluşturun.
 
     4. Salesforce CRM ortamınızda oturum açın.
 
     5. **Açık fırsatlara** gidin. Microsoft Iş Ortağı Merkezi 'nde oluşturulan başvuru artık Salesforce CRM 'de eşitlendi.
 
-       :::image type="content" source="images/salesforce/salesforce-casino-e.png" alt-text="AppSource 'u aç":::
+       :::image type="content" source="images/salesforce/salesforce-casino-e.png" alt-text="Salesforce fırsat ekranı":::
 
     6. Eşitlenmiş bir başvuruyu seçtiğinizde, kart Görünümü ayrıntıları doldurulur.
 

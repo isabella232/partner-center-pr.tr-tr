@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 11/02/2020
-ms.openlocfilehash: 4524514177c636fbb2b613ed50323fd8f586c56d
-ms.sourcegitcommit: 511c21ae664bd438dc9d11f880cd58400a5d9eea
+ms.openlocfilehash: 2b089a666fdb312d49f26be0f9a47da8daad2715
+ms.sourcegitcommit: 7e32544cf91f932cbeb053c9de506ba9ee773fe2
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 11/19/2020
-ms.locfileid: "94932829"
+ms.lasthandoff: 11/20/2020
+ms.locfileid: "94947707"
 ---
 # <a name="november-2020-announcements"></a>Kasım 2020 duyuruları
 
@@ -51,7 +51,7 @@ Iş Ortağı Merkezi panosunda oturum açın ve ardından  **Ayarlar**   sim
 - Kuruluş profili
    - Yasal iş profilinizi, iş ortağı profilinizi ve şirket konumlarını yasal olarak yönetin.
    - Kiracılar-Azure AD kiracılar, ticari ve geliştirici hakkında tüm bilgileriniz burada izlenir.
-   - Tanımlayıcılar-şirketiniz için Iş Ortağı Merkezi kimlikleri-MPNıD 'nizin, publisherID 'nin vb.
+   - Tanımlayıcılar-şirketiniz için Iş Ortağı Merkezi kimlikleri-Mpnıds, Publisherıds, vb.
 - Kullanıcı yönetimi-kullanıcılarınızı yönetin ve bunları tek bir yerden ticari ve geliştirici rollerine atayın. Ayrıca, grupları ve Azure AD uygulamalarını buradan da yönetebilirsiniz.
 
 ### <a name="next-steps"></a>Sonraki adımlar

@@ -7,12 +7,12 @@ ms.topic: conceptual
 author: eunjkim520
 ms.author: eunjkim
 ms.date: 11/06/2020
-ms.openlocfilehash: 9c03878ec69b9df06795054464ef7f76e038e780
-ms.sourcegitcommit: cc30a06abe55b9da32177a24e74bfd6fc7d8bbb9
+ms.openlocfilehash: cbd849001d128db1912a9bb61ef4c5217a5932ce
+ms.sourcegitcommit: 7e32544cf91f932cbeb053c9de506ba9ee773fe2
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 11/12/2020
-ms.locfileid: "94531996"
+ms.lasthandoff: 11/20/2020
+ms.locfileid: "94947673"
 ---
 # <a name="payout-schedules-and-policy-details"></a>Ödeme zamanlamaları ve ilke ayrıntıları
 
@@ -28,13 +28,13 @@ Bir müşteri, mevcut Microsoft Kurumsal Anlaşma işlemler için kullanarak Mic
 
 Bir ödeme genellikle Microsoft 'un müşteriden ödeme toplamasından önce meydana gelir. Müşteri Microsoft 'a ödeme yapdığımızda, ancak zaten bir ödeme yapmış olduğumuz eylemler için aşağıdaki [Müşteri ödemesiz işleme](#process-for-customer-non-payment) ' ya bakın.
 
-| Olay | Açıklama | Raporlama görünürlüğü | Zaman |
+| Olay | Description | Raporlama görünürlüğü | Zaman |
 | --- | --- | --- | --- |
 | Işlemin kullanımı veya ayı | Müşteri bir hizmeti kullanır veya satın alarak. | [Kullanım](/azure/marketplace/partner-center-portal/usage-dashboard) veya [sıralama](/azure/marketplace/partner-center-portal/orders-dashboard) panosu | **Ay 1** |
 | Satınalma siparişi oluşturuldu | Toplam kullanımı belirleme, toplam işlem | [Kullanım](/azure/marketplace/partner-center-portal/usage-dashboard) veya [sıralama](/azure/marketplace/partner-center-portal/orders-dashboard) panosu | **Ay 2** |
-| ISV ödeme Işitme oluşturuldu | Ajantı ücretini ve ödeme kazançlarını belirleme | Ödeme bildiriminde Işlem geçmişinde Işlenmemiş olarak işaretlendi | **Ay 3 (1 hafta)** |
-| Ödeme hazırlığı | Kazançlar aylık ödeme için hazırlandı | Ödeme bildiriminde Işlem geçmişinde yakında çıkacak şekilde işaretlendi | **Ay 3 (1 hafta)** |
-| **Ödeme tarihi** | **Ödeme, yayımcıya gönderilir** | **Işlem geçmişinde ve ödeme bildiriminin ödemeler bölümünde gönderildi olarak işaretlendi** | **3. ay (15 ' ten sonra değil)** |
+| ISV ödeme Işitme oluşturuldu | Ajantı ücretini ve ödeme kazançlarını belirleme | [Ödeme bildiriminde](payout-statement.md) Işlem geçmişinde işlenmemiş olarak işaretlendi | **Ay 3 (1 hafta)** |
+| Ödeme hazırlığı | Kazançlar aylık ödeme için hazırlandı | [Ödeme bildiriminde](payout-statement.md) Işlem geçmişinde yakında çıkacak şekilde işaretlendi | **Ay 3 (1 hafta)** |
+| **Ödeme tarihi** | **Ödeme, yayımcıya gönderilir** | **Işlem geçmişinde ve ödeme [bildiriminin](payout-statement.md) ödemeler bölümünde gönderildi olarak işaretlendi** | **3. ay (15 ' ten sonra değil)** |
 | Müşteriye göre ödenen fatura | Microsoft müşteriden ödeme toplar | düzeltme sınıfı, | **Ay 4 ila 12** |
 |
 
@@ -44,14 +44,14 @@ Bir ödeme genellikle Microsoft 'un müşteriden ödeme toplamasından önce mey
 
 Kredi kartına veya aylık faturaya sahip tüm satın alımlarda, müşteri üzerinden fon toplandığından emin olmak için 30 günlük bir bekleme süresi bulunur.
 
-| Olay | Açıklama | Raporlama görünürlüğü | Zaman |
+| Olay | Description | Raporlama görünürlüğü | Zaman |
 | --- | --- | --- | --- |
 | Işlemin kullanımı veya ayı | Müşteri bir hizmeti kullanır veya satın alarak. | [Kullanım](/azure/marketplace/partner-center-portal/usage-dashboard) veya [sıralama](/azure/marketplace/partner-center-portal/orders-dashboard) panosu | **Ay 1** |
 | Müşteriye göre ödenen fatura | Toplam kullanımı, toplam işlem değerini ve müşterinin ödediği faturayı belirleme | [Kullanım](/azure/marketplace/partner-center-portal/usage-dashboard) veya [sıralama](/azure/marketplace/partner-center-portal/orders-dashboard) panosu | **Ay 2** |
-| ISV ödeme Işitme oluşturuldu | Ajantı ücretini ve ödeme kazançlarını belirleme | Ödeme bildiriminde Işlem geçmişinde Işlenmemiş olarak işaretlendi | **Ay 2** |
-| 30 günlük tutma dönemi | Fonların toplanması, olası geri ödeme ve iade isteklerinin yapıldığından emin olun | Ödeme bildiriminde Işlem geçmişinde Işlenmemiş olarak işaretlendi | **Ay 3** |
-| Ödeme hazırlığı | Kazançlar aylık ödeme için hazırlandı | Ödeme bildiriminde Işlem geçmişinde yakında çıkacak şekilde işaretlendi | **Ayın ilk haftası 4** |
-| **Ödeme tarihi** | **Ödeme, yayımcıya gönderilir** | **Işlem geçmişinde ve ödeme bildiriminin ödemeler bölümünde gönderildi olarak işaretlendi** | **4. ay (15. günden sonra değil)** |
+| ISV ödeme Işitme oluşturuldu | Ajantı ücretini ve ödeme kazançlarını belirleme | [Ödeme bildiriminde](payout-statement.md) Işlem geçmişinde işlenmemiş olarak işaretlendi | **Ay 2** |
+| 30 günlük tutma dönemi | Fonların toplanması, olası geri ödeme ve iade isteklerinin yapıldığından emin olun | [Ödeme bildiriminde](payout-statement.md) Işlem geçmişinde işlenmemiş olarak işaretlendi | **Ay 3** |
+| Ödeme hazırlığı | Kazançlar aylık ödeme için hazırlandı | [Ödeme bildiriminde](payout-statement.md) Işlem geçmişinde yakında çıkacak şekilde işaretlendi | **Ay 4 (1 hafta)** |
+| **Ödeme tarihi** | **Ödeme, yayımcıya gönderilir** | **Işlem geçmişinde ve ödeme [bildiriminin](payout-statement.md) ödemeler bölümünde gönderildi olarak işaretlendi** | **4. ay (15. günden sonra değil)** |
 |
 
 \* Ödeme tarihi, Pasifik Standart Saati (PST) olarak belirlenir.
@@ -97,4 +97,4 @@ Genellikle söz konusu ayın 15. gününde belirli bir ay boyunca herhangi bir �
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-[Vergi ayrıntıları](tax-details-marketplace.md)hakkında bilgi edinin.
+- [Vergi ayrıntıları](tax-details-marketplace.md)

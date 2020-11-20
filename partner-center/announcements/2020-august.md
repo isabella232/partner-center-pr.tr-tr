@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 08/14/2020
-ms.openlocfilehash: e469f3a99a07715ebadf3b6bcca7b1cf1db46c44
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: f3503e4edf9b5e9081eb53b80a32f451db861a70
+ms.sourcegitcommit: 7e32544cf91f932cbeb053c9de506ba9ee773fe2
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92531942"
+ms.lasthandoff: 11/20/2020
+ms.locfileid: "94947690"
 ---
 # <a name="august-2020-announcements"></a>Ağustos 2020 duyuruları
 
@@ -44,7 +44,7 @@ Microsoft, güvende çalışır ve bulut çözümü sağlayıcısı programında
 - Yeni GET ve POST nitelikleri API 'Leri, doğru veri girişini destekler ve Microsoft tarafından eğitim müşteri doğrulama sürecini geliştirir.
 - Doğru veri girişini desteklemeye yönelik kullanıcı arabirimi geliştirmeleri ve Microsoft 'un eğitim müşteri doğrulama sürecini geliştirir.
 
-#### <a name="testing"></a>Sınama
+#### <a name="testing"></a>Test Etme
 
 İş ortakları, Ekim 'den itibaren bu geliştirmeleri test etme fırsatına sahip olacaktır. Başarılı müşteri için gereken API 'Ler ve veri girişi hakkında daha iyi bir anlayışını elde etmek için bu fırsattan yararlanmanızı önemle öneririz. Tam zamanlamaya göre yakında daha fazla ayrıntı vereceğiz ve nasıl katılacağız. Mevcut Iş Ortağı Merkezi API 'Leri, tüm ortakların yeni Iş Ortağı Merkezi API 'Lerini kullanmaya geçiş yapması gereken FY21 S2 sonundan önce kullanımdan kaldırılacaktır.
 
@@ -68,7 +68,7 @@ ________________
 ### <a name="categories"></a>Kategoriler
 
 - Tarih: 2020-08-14
-- Teklifler/pazarlar
+- Teklifler/Pazarlar
 
 ### <a name="details"></a>Ayrıntılar
 
@@ -149,7 +149,7 @@ ________________
 ### <a name="categories"></a>Kategoriler
 
 - Tarih: 2020-08-04
-- Teklifler/pazarlar
+- Teklifler/Pazarlar
 
 ### <a name="summary"></a>Özet
 
@@ -167,8 +167,6 @@ Microsoft ekipleri için yeni gelişmiş Iletişim eklentisi artık kullanıcı/
 
 Başlatma sırasında yayınlandı
 - 20 K katılımcı için canlı etkinlik limitleri (50 eşzamanlı, 16 saat)
-- Uyumluluk kaydı tümleştirmesi (ISV) 
-- İletişim Merkezi çözüm tümleştirmesi (ISV) 
 
 Daha sonra CY2020 içinde yayınlandı
 - 1.000-kişi etkileşimli takımlar toplantısı 
@@ -203,7 +201,7 @@ ________________
 ### <a name="categories"></a>Kategoriler
 
 - Tarih: 2020-08-04
-- Teklifler/pazarlar
+- Teklifler/Pazarlar
 
 ### <a name="impacted-audience"></a>Etkilenen hedef kitle
 
@@ -229,7 +227,7 @@ ________________
 ### <a name="categories"></a>Kategoriler
 
 - Tarih: 2020-08-03
-- Teklifler/pazarlar
+- Teklifler/Pazarlar
 
 ### <a name="impacted-audience"></a>Etkilenen hedef kitle
 
@@ -261,7 +259,7 @@ ________________
 ### <a name="categories"></a>Kategoriler
 
 - Tarih: 2020-08-03
-- Teklifler/pazarlar
+- Teklifler/Pazarlar
 
 ### <a name="impacted-audience"></a>Etkilenen hedef kitle
 
