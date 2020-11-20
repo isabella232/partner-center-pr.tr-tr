@@ -1,8 +1,11 @@
 - name: Microsoft market müşteri belgeleri
   href: index.yml
+- name: Azure Market
   items:
     - name: Azure Özel Market oluşturma
       href: create-manage-private-azure-marketplace.md
+    - name: Azure Market iş ortağı tümleştirmeleri
+      href: partner-integrations.md
 - name: Başvuru
   items:
     - name: Azure PowerShell
