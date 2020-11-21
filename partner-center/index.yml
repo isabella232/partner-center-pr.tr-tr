@@ -9,13 +9,13 @@ metadata:
   ms.topic: landing-page
   author: LauraBrenner
   ms.author: labrenne
-  ms.date: 10/16/2020
-  ms.openlocfilehash: a10616a60e74de88c2f4fda37062275e47fb59bc
-  ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
+  ms.date: 11/19/2020
+  ms.openlocfilehash: 90f63b0411935c560ca4693cf372c3d2a3e1fafd
+  ms.sourcegitcommit: 7dff27bd799951c28bd1ef2665aa564cce71aff0
   ms.translationtype: HT
   ms.contentlocale: tr-TR
-  ms.lasthandoff: 10/19/2020
-  ms.locfileid: "92526834"
+  ms.lasthandoff: 11/20/2020
+  ms.locfileid: "94983326"
 landingContent:
 - title: İş Ortağı Merkezi'ni kullanmaya başlama
   linkLists:
@@ -85,22 +85,6 @@ landingContent:
       url: set-up-your-payout-account.md
     - text: Faturanızı anlama
       url: read-your-bill.md
-- title: Geliştirici kaynakları
-  linkLists:
-  - linkListType: reference
-    links:
-    - text: İş Ortağı Merkezi API'si ve SDK Erken Benimseyen Programı'na katılma
-      url: /partner-center/develop/early-adopter-program
-    - text: İş Ortağı Merkezi geliştirici belgeleri
-      url: /partner-center/develop
-    - text: İş Ortağı Merkezi REST API'si referansı
-      url: /partner-center/develop/partner-center-rest-api-reference
-    - text: İş Ortağı Merkezi .NET API'si referansı
-      url: /dotnet/api/?view=partnercenter-dotnet-latest&preserve-view=true
-    - text: Java için İş Ortağı Merkezi SDK'sı
-      url: /java/partnercenter/overview
-    - text: İş Ortağı Merkezi PowerShell
-      url: /powershell/partnercenter/overview
 - title: Ticari markette (ISV'ler) satış yapma
   linkLists:
   - linkListType: concept
