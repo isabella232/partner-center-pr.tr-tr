@@ -3,15 +3,15 @@ title: Azure Market iş ortağı tümleştirmeleri
 description: Azure ortamınız ile tümleştirilen Azure Market çözümleri hakkında bilgi edinin ve Microsoft iş ortaklarından dağıtım kılavuzlarının bağlantısını alın.
 ms.service: partner-services
 ms.topic: conceptual
-author: dsindona
-ms.author: dsindona
+author: JasonWHowell
+ms.author: jasonh
 ms.date: 11/16/2020
-ms.openlocfilehash: 7c97936e7764361c21503eca174433029707cf69
-ms.sourcegitcommit: 6ed7268356445939db8613f2af96016707c55d64
+ms.openlocfilehash: b31486000e59f3d85ee30019ecea000252b297a8
+ms.sourcegitcommit: 1aa43438ad181278052788f15e017f9ae7777943
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "94691697"
+ms.lasthandoff: 11/21/2020
+ms.locfileid: "95006914"
 ---
 # <a name="azure-marketplace-partner-integrations"></a>Azure Market iş ortağı tümleştirmeleri
 

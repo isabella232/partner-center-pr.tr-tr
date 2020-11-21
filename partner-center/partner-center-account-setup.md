@@ -1,130 +1,138 @@
 ---
 title: İş Ortağı Merkezi hesabınızı yönetme
-description: Şirketinizin profilini, kataloğunu, banka ve vergi bilgilerini, rolleri, izinleri ve daha fazlasını Iş Ortağı Merkezi 'nde yönetmeyi öğrenin.
-ms.topic: article
+ms.topic: conceptual
+ms.date: 11/20/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
-author: parthpandyaMSFT
-ms.author: parthp
+ms.subservice: partnercenter-mpn
+description: Şirketinizin profilini, banka ve vergi bilgilerini ve Iş Ortağı Merkezi 'nde daha fazlasını yönetmeyi öğrenin.
+author: varsha-sarah
+ms.author: vavargh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.date: 10/19/2020
-ms.openlocfilehash: 05cc8a07b3b2f388be201fa1a4065bddcd4b7f99
-ms.sourcegitcommit: a7376c0ba8f4f3d01361bc227640311b486b3b6e
+ms.openlocfilehash: 4cdaa7f8a2a6c8643b86f3e34569c2140ecd7450
+ms.sourcegitcommit: 1aa43438ad181278052788f15e017f9ae7777943
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/21/2020
-ms.locfileid: "92532174"
+ms.lasthandoff: 11/21/2020
+ms.locfileid: "95007066"
 ---
-# <a name="manage-your-partner-center-account---company-profiles-bank-information-roles-permissions--more"></a>Iş Ortağı Merkezi hesabınızı, şirket profillerini, banka bilgilerini, rolleri, izinleri & yönetin
+# <a name="manage-your-partner-center-account---company-profile-bank-information-roles-permissions-and-more"></a>Iş Ortağı Merkezi hesabınızı, şirket profilinizi, banka bilgilerini, rolleri, izinleri ve daha fazlasını yönetin
 
-**Uygulama hedefi**
-
-- İş Ortağı Merkezi
- 
 **Uygun roller**
 
 - Genel yönetici
-- MPN Hesap Yöneticisi
+- MPN Yöneticisi
 
-Kayıt sırasında iş e-postanız ve iş bilgileriniz olduğunda iş ortağı merkezi 'nde oluşturduğunuz hesap. Iş Ortağı Merkezi 'nde bir hesap oluşturduktan sonra, destek ayrıntıları, uygunsa dosya vergi muafiyetleri ve birincil iletişim bilgileri dahil olmak üzere şirketinizin tam profilini ayarlamayı tamamlayacaksınız. Şirketinizin hesabı, müşteri ekleme veya yönetme, abonelik satma, faturalandırma ve faturalama ile çalışma, iş profilleri oluşturma, başvuruları yönetme, teşvikleri programlarıyla çalışma ve destek sağlama için iş ortağı merkezini kullanacak kişiler için Kullanıcı hesapları da içerir.
+Kayıt sırasında iş e-postanız ve iş bilgileriniz olduğunda iş ortağı merkezi 'nde oluşturduğunuz hesap. Hesap oluşturduktan sonra, destek ayrıntıları, uygunsa dosya vergi muafiyetleri ve birincil iletişim bilgileri dahil olmak üzere şirketinizin tam profilini ayarlamayı tamamlayacaksınız. Şirketinizin hesabı, müşteri ekleme veya yönetme, abonelik satma, faturalandırma ve faturalama ile çalışma, iş profilleri oluşturma, başvuruları yönetme, teşvikleri programlarıyla çalışma ve destek sağlama için iş ortağı merkezini kullanacak kişiler için Kullanıcı hesapları da içerir.
 
 Ayrıca bkz. 
+
 - [Çalışanları Iş Ortağı Merkezi 'ne katılmaya davet etme](guide-to-migration.md)
+
 - [Yeni kullanıcı ekleme](create-user-accounts-and-set-permissions.md)
+
+>[!NOTE]
+>Hesap ayarları menüsü, kaydolduğu programlara bağlı olarak değişecektir. Örneğin, bulut çözümü sağlayıcısı programı 'nda (CSP) bir iş ortağıysanız, Azure Paylaşılan hizmetlerinizi hesap ayarlarından yönetebileceksiniz.
+
+## <a name="account-management"></a>Hesap yönetimi
+
+Tüm iş ortakları, ticari ve geliştirici için Iş Ortağı Merkezi 'nde hesap yönetimine erişmek üzere Iş Ortağı Merkezi [panosunda](https://partner.microsoft.com/dashboard)oturum açın ve ekranın sağ üst köşesindeki **Ayarlar** seçeneğini (dişli simgesi) seçin. Artık tüm profiller ve ayarlar birleştirildiğinden Iş ortağı ve geliştirici arasında seçim yapmanız gerekmez.
+
+:::image type="content" source="images/accountsettings/opening.png" alt-text="Ayarlar simgesi":::
+
+
+:::image type="content" source="images/accountsettings/accountsettingssv.png" alt-text="Hesap ayarları":::
+
+### <a name="locate-your-mpn-id"></a>MPN KIMLIĞINIZI bulun
+
+İş ortağı veya geliştirici olmasına bakılmaksızın, oturum açma desteği biletleri gibi MPN KIMLIĞINIZI bu şeyler için kullanmanız gerekir. MPN KIMLIĞINIZ, **yasal** Ayrıntılar sayfanızda bulunur. **Kimlik profilini** de bulabilirsiniz.
+
+## <a name="organization-profile"></a>Kuruluş profili
+
+Yasal iş profilinizi, iş ortağı profilinizi ve şirket konumlarını **kuruluş profili** sayfasında yönetirsiniz. Bu sayfa, işletmeniz hakkındaki en üst düzey bilgileri görmenizi sağlar. Her bir alanı ayrıntıiçine alabilir ve düzenleyebilirsiniz. Bilgilerinizi ve durumu görmek için ilgilendiğiniz belirli bir programa (MPN, CSP veya ticari Market) karşılık gelen sekmeyi seçin.
+ 
+:::image type="content" source="images/accountsettings/accountsettingsnew.png" alt-text="Yasal bilgiler":::
+ 
+### <a name="legal-information"></a>Yasal bilgiler
+
+Iş Ortağı Merkezi 'Ne ilk defa katılırsanız, şirketiniz Microsoft ile bir doğrulama işleminden geçer. **Geçerli profilde** doğrulamanın durumunu izleyebilirsiniz. Birincil iletişim, Microsoft iş ortağı sorularıyla ilgili olarak sizinle iletişim kurduğu kişinin yanı sıra asıl yasal iletişim, yasal bilgilerinizi ve durumunuzu yöneten kişi **yasal profil** sayfasında bulunur. Tüm şirketinizin iş konumları burada bulunur ve buraya ek iş konumları ekleyebilirsiniz.  
+
+[Doğrulama ve hesap bilgileriniz](verification-responses.md)hakkında daha fazla bilgi edinin.
+
+### <a name="tenants-profile"></a>Kiracılar profili
+
+Azure AD kiracılar, ticari ve geliştirici hakkında tüm bilgileriniz **kiracı profili** sayfasında izlenir. Bu profil, genel yöneticinin yeni kiracılar için ortak küresel hesap ile ilişkilendirilebileceği yerdir.
+
+### <a name="identifiers"></a>Tanımlayıcılar 
+
+**Tanımlayıcılar** bölümü, şirketinizin Iş Ortağı Merkezi kimliklerini (MPN kimlikleriniz, yayımcı kimlikleriniz, Windows Publisher kimliğiniz ve daha fazlası) içerir. Her bir alan genişletilebilir ve düzenlenebilir, örneğin, yayımlama işinizle ilgili birincil kişi kolayca bulunur.
+
+### <a name="company-profile"></a>Şirket profili
+
+**Şirket profili** , Microsoft ile sahip olduğunuz iş ortaklığı türünü (örneğin, bağımsız yazılım SATıCıSı veya CSP program ortağı) tanımlar. Çalıştığınız müşterilerin sayısının bir anlık görüntüsünü, yıllık gelirinizi, şirketinizin geçerli boyutunu görebilirsiniz. Şirket ayrıntıları sayfasında şirket bilgileri ' ni de genişletebilirsiniz. Bu sayfada, Microsoft ile yapmak istediğiniz iş türünü (örneğin, uygulama oluşturma, Microsoft ve üçüncü taraf yazılımı yeniden satma veya bir sistem tümleştirici) de söyleyebilirsiniz. Ayrıca, şu anda iş yaptığınız yeri ve gelecekte işinizi genişletmek istediğiniz yerel ayarları da tanımlayabilirsiniz.
+
+### <a name="account-merge-profile"></a>Hesap birleştirme profili
+
+Iş Ortağı Merkezi 'nde etkin bir hesabı olan bir şirketi, hesaplarını sizinkilerle birleştirmek için davet ettiğinizde, bu bilgiler **Hesap birleştirme** sayfasında yönetilir. Sizinkilerle birleştirmek için davet etmek istediğiniz şirketin MPN KIMLIĞINI arayın, geçerli birleşmeleri görüntüleyin ve şirketlere davetiye gönderin. Bu ayrıca şirket hesabınızı başka bir şirketin hesabıyla birleştirmek için bir daveti kabul edebilir veya reddedebilirsiniz. Hesapları birleştirme hakkında ayrıntılı bilgi edinmek için [iş ortağı hesabınızı başka bir iş ortağı hesabıyla birleştirin](merge-accounts.md).
+
+### <a name="payout-and-tax"></a>Ödeme ve vergi 
+
+**Ödeme ve vergi** , **Fatura** bilgileri ve **P.O. numarası** dahil olmak üzere ödeme ve vergi ayrıntılarınızı içerir. Şirketiniz için vergi KIMLIĞI bilgileri bu sayfada ve kullandığınız para birimi varsa KDV KIMLIK numaranız dahil olmak üzere de bulunur.
+
+
+## <a name="user-roles-and-permissions"></a>Kullanıcı rolleri ve izinleri
+
+İş Ortağı Merkezi 'ndeki çalışmanız ve güncellenebilir ya da görebileceğiniz bölgeler, rolünüze ve bu role eklenmiş izinlere bağlıdır. Örneğin, teşvikleri yöneticisi değilseniz, teşvikleri sayfalarındaki herhangi bir şeyi değiştiremeyeceksiniz, ancak verileri görüntüleyemeyebilirsiniz. 
+
+### <a name="update-preferred-email"></a>Tercih edilen e-postayı Güncelleştir
+
+Tercih edilen e-postanızı Iş Ortağı Merkezi bildirimlerini alacak şekilde güncelleştirmek için: 
+
+1. [Iş Ortağı Merkezi panonuzda](https://partner.microsoft.com/dashboard)oturum açın.
+1. [**Katılım tercihi**](https://partner.microsoft.com/dashboard/engagement/preference)' ne gidin, **Değiştir** bağlantısını seçin, e-posta adresini güncelleştirin ve **Kaydet**' e tıklayın.
+
+### <a name="find-your-user-role"></a>Kullanıcı rolünüzü bulun
+
+1. **Ayarlar** ' a gidin ve **profilimi** seçin.
+ 
+1. **Ayrıntılar** sayfasında, kişisel bilgilerinizi, çalışmanız ve öğrenimi, sınavlar ve sertifika verileriniz ile ilgili olarak görürsünüz.
+ 
+1. **Roller ve izinler** sekmesini seçin. Burada, atadığınız tüm rolleri ve bu rollerin sağladığı izinleri görürsünüz.
 
 ## <a name="programs-in-which-you-are-enrolled"></a>Kaydolduğu programlar
 
-İş Ortağı Merkezi hesabınızı yönetmek için yaptığınız işin çoğu, kaydettiğiniz belirli program (ler) i ve Iş Ortağı Merkezi 'ne atadığınız Kullanıcı rolleri ve izinleri ile ilgilidir.
+İş Ortağı Merkezi hesabınızı yönetmek için yaptığınız işin çoğu, kaydettiğiniz belirli programlarla ve Iş Ortağı Merkezi 'ne atadığınız Kullanıcı rolleri ve izinleri ile ilgilidir.
 
 Hangi programları Iş Ortağı Merkezi 'nde erişiminizin olduğunu görmek için:
 
 1. Iş Ortağı Merkezi [panosunda](https://partner.microsoft.com/dashboard)oturum açın.
-2. Sol gezinti bölmesine bakın. Kayıtlı programlarınızda ilişkili seçenekler görüntülenir.
+
+2. Sol gezinti menüsünde, kaydettiğiniz programlar yansıtılacaktır ve her bir program için kullanılabilir seçenekleri gösterilecektir.
 
 İşte bir örnek. Bir kullanıcının Iş Ortağı Merkezi panosunda üç programa erişimi olduğunu varsayalım: **MPN** programı, **başvuru** programı ve **ticari Market** programı. Iş Ortağı Merkezi panosunda oturum açtıklarında, ekranın sol tarafında bu üç programı görürler.
 
 :::image type="content" source="images/accountsettings/programs-enrolled-left-nav.png" alt-text="Kaydedilen programlar menüsü":::
 
-## <a name="account-management"></a>Hesap yönetimi
-
-İş ortağı merkezi şu anda iki farklı bölüm altında hesap yönetimine sahiptir: **Iş ortağı ayarları** ve **Geliştirici ayarları** .
-
->[!NOTE]
->**Iş ortağı ayarlarına** veya **Geliştirici ayarlarına** erişmek Için, iş ortağı Merkezi [panosunda](https://partner.microsoft.com/dashboard)oturum açmanız ve ekranın sağ üst köşesindeki **Ayarlar** seçeneğini (dişli simgesi) seçmeniz gerekir. Daha sonra açılan menüden **Iş ortağı ayarları** veya **Geliştirici ayarları** ' nı seçebilirsiniz.
-
-:::image type="content" source="images/accountsettings/account1.png" alt-text="Kaydedilen programlar menüsü":::
-
-İş ortakları, şirketlerinin bu programlara kayıtlı olup olmadığına bağlı olarak **Iş ortağı ayarlarını** ve/veya **Geliştirici ayarlarını** yönetme seçeneğini görebilirler. Ayarlar seçeneği, yalnızca şirketiniz bu ayarla ilişkili en az bir programa kaydolduktan sonra kullanılabilir.
-
-Hesap ayarlarınızı yönetmek için, söz konusu program için uygun hesap ayarları seçeneğini seçmeniz gerekir.  
-
-Bu, kullanılabilir programların kısmi listesidir ve ilgili programla ilişkili ayarlar seçeneği vardır:
-
-|**Program adı**   |**Ayarlar seçeneği** |
-|---------------------|:-----------------------|
-|MPN   |İş Ortağı|
-|CSP    |İş Ortağı|
-|Başvuru   |İş Ortağı|
-|Ticari Market|Geliştirici|
-|Windows ve Xbox|Geliştirici|
-|Office Mağazası|Geliştirici|
-|Edge uzantıları|Geliştirici|
-
-## <a name="the-differences-in-partner-and-developer-settings-options"></a>Iş ortağı ve geliştirici ayarları seçeneklerindeki farklar
-
-### <a name="locate-your-mpn-id"></a>MPN KIMLIĞINIZI bulun
-
-İş ortağı veya geliştirici olmasına bakılmaksızın, oturum açma desteği biletleri gibi MPN KIMLIĞINIZI bu şeyler için kullanmanız gerekir. Geliştiriciyseniz MPN kimliğiniz **Hesap ayarları** ayrıntılar sayfanızda yer alır.
-
-İş ortağı MPN KIMLIĞI, **Iş ortağı profili** sayfasında bulunur.
-
-### <a name="see-partner-and-developer-settings"></a>Bkz. iş ortağı ve geliştirici ayarları
-
-**Iş ortağı ayarları** seçenekleri **Geliştirici ayarları** seçeneklerinden farklı olacaktır. Her bir seçenek kümesinin örnek ekran görüntüleri için aşağıya bakın. Başka programlara erişiminiz varsa, burada gösterilen ekran görüntüsü örneklerinden farklı seçenekler de görebilirsiniz.
-
-**Iş ortağı ayarları seçenekleri** :
-
-:::image type="content" source="images/accountsettings/partneroptions.png" alt-text="Kaydedilen programlar menüsü":::
-
-**Geliştirici ayarları seçenekleri** :
-
-:::image type="content" source="images/accountsettings/devoptions.png" alt-text="Kaydedilen programlar menüsü":::
-
-## <a name="enrolling-in-programs"></a>Programlarda kaydetme
+### <a name="enrolling-in-programs"></a>Programlarda kaydetme
 
 Kullanılabilir birçok Iş Ortağı Merkezi programı vardır. Her programın, şirketinizin bu programa kaydolabilmesi için karşılaması gereken farklı gereksinimleri vardır.
 
-Belirli Iş Ortağı Merkezi programlarında kaydolma hakkında bilgi edinmek için, aşağıdaki kısmi listeye bakın:
+Belirli Iş Ortağı Merkezi programlarında kaydolma hakkında bilgi edinmek için aşağıdaki kısmi listeye bakın:
 
-- [Ticari Market programı](/azure/marketplace/partner-center-portal/create-account)
-- [MPN programı](https://support.microsoft.com/help/4500026/enroll-and-subscribe-to-your-microsoft-partner-network-membership-in-p?tpqid=100-000012)
-- [CSP programı](enrolling-in-the-csp-program.md)
+- [Ticari Market programı](https://docs.microsoft.com/azure/marketplace/partner-center-portal/create-account)
+- [Microsoft İş Ortağı Ağı üyelik avantajları](mpn-overview.md)
+- [CSP programı](https://docs.microsoft.com/partner-center/enrolling-in-the-csp-program)
 - [Office Mağazası](https://partner.microsoft.com/dashboard/account/v3/enrollment/introduction/office)
 
 Iş Ortağı Merkezi programlarında kaydolma hakkında daha fazla bilgi için bkz. [Iş ortağı ağ kaynakları](https://partner.microsoft.com/).
 
-## <a name="the-account-picker"></a>Hesap Seçici
 
-Birden fazla hesabın parçası olabilirsiniz. Birden çok hesabın parçasıysa, sol gezinti menüsünde "hesap seçici" öğesini görürsünüz. Hesap seçiciyi seçerseniz, üyesi olduğunuz tüm hesaplar liste olarak görüntülenir. Bunlardan herhangi birini seçebilir ve söz konusu hesaba ait tüm programları ve bilgileri görebileceğiniz bu hesaba geçiş yapabilirsiniz. Hesap Seçicisi görmüyorsanız, tek bir hesaba üye olursunuz.
+## <a name="next-steps"></a>Sonraki adımlar
 
-:::image type="content" source="images/accountsettings/accountpicker.png" alt-text="Kaydedilen programlar menüsü":::
-
-## <a name="other-resources-to-help-you-manage-your-partner-center-account"></a>Iş Ortağı Merkezi hesabınızı yönetmenize yardımcı olacak diğer kaynaklar
-
-MPN programı veya bulut çözümü sağlayıcısı (CSP) programı gibi programlara kaydolduysanız aşağıdaki kaynaklar hesabınızı yönetmenize yardımcı olabilir.
-
-|**Bunu yapmak için**   |**Bunu okuyun**   |
-|-----------------------|:-----------------------|
-|Şirket profilinizin güncel olduğundan emin olun   |[İş ortağı profilinizi güncelleştirme](update-your-partner-profile.md)|
-|Yeni kullanıcı ekle|[Kullanıcı hesapları oluşturma ve izinleri atama](create-user-accounts-and-set-permissions.md)|
-|Doğrulamanın durumunu bulma|[Hesap bilgilerinizi doğrulama](verification-responses.md)|
-|Şirketinizdeki iş ortağı merkezi 'nde çalışması gereken herkese atanmış roller olmalıdır. Her rolün özel izinleri ve kullanılabilir görevleri vardır.|[Kullanıcı hesapları oluşturma ve izinleri ayarlama](create-user-accounts-and-set-permissions.md)|
-|Her rolün hangi izinlerle aynı olduğunu gözden geçirin|[Kullanıcı rollerini ve izinlerini atama](permissions-overview.md)
-|Şirketinizin konumlarını yönetme|[İş ortağı hesabınızı yönetin: konumlar](manage-locations.md)
-|Bir çalışan parolasını unutursa ve sıfırlamanız gerekiyorsa  |[Kullanıcı parolasını sıfırlama](reset-a-user-password.md)|
-|Iş Ortağı Merkezi 'ne bir denetim masası satıcısı olarak kaydolma|[Iş Ortağı Merkezi 'ne bir denetim masası satıcısı olarak kaydolma](enroll-as-cpv.md)|
-|Microsoft Learn hesabınızı Iş Ortağı Merkezi 'nde ilişkilendirin|[Microsoft Learn hesabınızı Iş Ortağı Merkezi 'nde ilişkilendirin](ms-learn-associate.md)|
-|Müşterilerinizin sizi bulabilmeleri için şirketinizin pazarlamasını sağlayın   |[İş profili oluşturma](create-a-marketing-profile.md)|
-|Güncel fiyatlandırma ve tekliflerle güncel kalın   |[Fiyatlandırma ve teklifler](pricing-and-offers.md)|
-|API: iş ortağı MPN KIMLIĞINI doğrulama|[İş ortağı MPN KIMLIĞINI doğrulama](https://docs.microsoft.com/partner-center/develop/get-partner-by-mpn-id.md)
+- [İş ortağı profilinizi güncelleştirme](update-your-partner-profile.md)
+- [Kullanıcı hesapları oluşturma ve izinleri ayarlama](create-user-accounts-and-set-permissions.md)
+- [Kullanıcı rollerini ve izinlerini atama](permissions-overview.md)
+- [MPN hesabınızı yönetin: konumlar](manage-locations.md)
+- [Kullanıcı parolasını sıfırlama](reset-a-user-password.md)
+- [API: iş ortağı yasal iş profilini alın](https://docs.microsoft.com/partner-center/develop/get-legal-business-profile.md)
+- [Partner Center ticari marketi 'nde teklifleri ve fiyatları bulma](csp-commercial-marketplace-discover.md)

@@ -2,16 +2,16 @@
 title: Azure portal 'de özel Azure Marketi oluşturun ve yönetin
 description: Azure portal özel Azure Marketi (Önizleme) oluşturma ve yönetme hakkında bilgi edinin.
 ms.prod: marketplace-customer
-ms.topic: article
+ms.topic: how-to
 author: msjogarrig
 ms.author: jogarrig
 ms.date: 09/18/2020
-ms.openlocfilehash: 1333bb2c8830cec83d7b7f05890af818d5c0ce5b
-ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
+ms.openlocfilehash: f62c9aef13b51ba2db42b267d7620f506bbdc1ec
+ms.sourcegitcommit: 1aa43438ad181278052788f15e017f9ae7777943
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 11/11/2020
-ms.locfileid: "94487712"
+ms.lasthandoff: 11/21/2020
+ms.locfileid: "95006948"
 ---
 # <a name="create-and-manage-private-azure-marketplace-preview-in-the-azure-portal"></a>Azure portal özel Azure Marketi (Önizleme) oluşturma ve yönetme
 
@@ -37,8 +37,8 @@ Kiracı kapsamındaki bir kullanıcıya Market yönetici rolünü atayabilmeniz 
 
 - Bir **genel yönetici** kullanıcısına erişiminiz var.
 - Kiracıda en az bir abonelik (herhangi bir tür olabilir) vardır.
-- Genel yönetici kullanıcısına, adım 2 ' de seçilen abonelik için **katkıda** bulunan rolü veya üzeri atanır.
-- Genel yönetici kullanıcının yükseltilmiş erişimi **Evet** olarak ayarlanmış (bkz. [yükseltme-erişim-genel-yönetici](/azure/role-based-access-control/elevate-access-global-admin)).
+- Genel yönetici kullanıcısına, seçilen abonelik için **katkıda** bulunan rolü veya üzeri atanır.
+- Genel yönetici kullanıcının yükseltilmiş erişimi **Evet** olarak ayarlanmış (bkz. [tüm Azure aboneliklerini ve Yönetim gruplarını yönetmek için erişimi yükseltme](/azure/role-based-access-control/elevate-access-global-admin)).
 
 ### <a name="assign-the-marketplace-admin-role-with-powershell"></a>Market yönetici rolünü PowerShell ile atama
 
@@ -105,7 +105,6 @@ Write-Output -Message "'$($MarketplaceAdminRoleDefinitionName)' role is availabl
 }
 
 Write-Output -Message "About to assign '$($MarketplaceAdminRoleDefinitionName)' role for $($UsernameToAssignRoleFor)..."
-
 $elevatedAccessOnRoot = Get-AzRoleAssignment | where {$_.RoleDefinitionName -eq "User Access Administrator" -and $_.Scope -eq "/" -and $_.SignInName.Trim().ToLower() -eq $GlobalAdminUsername.Trim().ToLower() } | ft -Property SignInName
 
 if($elevatedAccessOnRoot.Count -eq 0)
@@ -129,7 +128,7 @@ Az. Portal PowerShell modülünde bulunan cmdlet 'ler hakkında daha fazla bilgi
 ## <a name="create-private-azure-marketplace"></a>Özel Azure Marketi oluştur
 
 1. [Azure portalında](https://portal.azure.com/) oturum açın.
-2. **Tüm hizmetler** ' i ve ardından **Market** ' i seçin.
+2. **Tüm hizmetler** ' i ve ardından **Market**' i seçin.
 
    :::image type="content" source="media/private-azure/azure-portal-marketplace.png" alt-text="Ana pencere Azure portal.":::
 
@@ -151,7 +150,7 @@ Az. Portal PowerShell modülünde bulunan cmdlet 'ler hakkında daha fazla bilgi
 
 Bir öğe, teklifin ve planın bir birleşimidir. Market 'i Yönet sayfasında öğe arayabilir ve ekleyebilirsiniz.
 
-1. **Öğe Ekle** ' yi seçin.
+1. **Öğe Ekle**' yi seçin.
 
 2. **Galeriye** gözatıp istediğiniz öğeyi bulmak için arama alanını kullanın.
 
@@ -180,7 +179,7 @@ Market 'i Yönet sayfasında bir öğenin planlarını düzenleyebilirsiniz.
 
 ## <a name="delete-offers"></a>Teklifleri silme
 
-Market 'i Yönet sayfasında, teklif adının yanındaki onay kutusunu işaretleyin (yukarıdaki ekrana bakın) ve **öğeleri sil** ' i seçin.
+Market 'i Yönet sayfasında, teklif adının yanındaki onay kutusunu işaretleyin (yukarıdaki ekrana bakın) ve **öğeleri sil**' i seçin.
 
 ## <a name="enabledisable-private-azure-marketplace"></a>Özel Azure Marketi 'ni etkinleştir/devre dışı bırak
 
