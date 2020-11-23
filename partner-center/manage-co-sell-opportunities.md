@@ -9,12 +9,12 @@ author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9eb158163bb1a7ea5da0bc834e6bf7623f32a4dd
-ms.sourcegitcommit: 92be474db61cc12f684850c2a7a8a8bdd5c93f97
+ms.openlocfilehash: 61dab9f869d8bb9a26f1317fb1aec3013e915465
+ms.sourcegitcommit: e4f870b9070eb3aed49061cc652d124ba0d05b68
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 11/05/2020
-ms.locfileid: "93363648"
+ms.lasthandoff: 11/23/2020
+ms.locfileid: "95417277"
 ---
 # <a name="manage-co-sell-opportunities-in-partner-center"></a>Ortak satış fırsatlarını Iş Ortağı Merkezi 'nde yönetme
 
@@ -40,7 +40,7 @@ Ortak satış fırsatlarından yararlanın.  Ortak satış fırsatları, bir mü
 **Çözüm değerlendirmesi (SA)** – bu tür anlaşmalar yalnızca, Microsoft teknolojilerini kullanan veya kullanmayı planlayan müşterilere yönelik teknoloji değerlendirmeleri gerçekleştirmeye yönelik çözüm değerlendirmesi iş ekibi tarafından taklit edilen iş ortakları tarafından oluşturulabilir.
 
 > [!NOTE]
-> Özel anlaşmalar, gerçekten işbirliksiz olmasa bile, içindeki herhangi bir işlem hattını, tüm terminal dışı aşamalarda ortak satış fırsatına yükseltmek için kolay bir yol sağlamak üzere buraya eklenmiştir ( **kazanıldı, kaybedildi, reddedildi ve zaman** aşımı).
+> Özel anlaşmalar, gerçekten işbirliksiz olmasa bile, içindeki herhangi bir işlem hattını, tüm terminal dışı aşamalarda ortak satış fırsatına yükseltmek için kolay bir yol sağlamak üzere buraya eklenmiştir (**kazanıldı, kaybedildi, reddedildi ve zaman** aşımı).
 
 ## <a name="navigating-the-co-sell-section"></a>Ortak satış bölümünde gezinme
 
@@ -63,7 +63,7 @@ Ortak satış bölümünde üç üst düzey sekme vardır.
 
 Bu özel anlaşma için müşteriyi seçin. Konumlarını girip adı yazmaya başlayın. Otomatik öneri, arama ölçütlerine dayalı olarak önerileri göstermeye başlar. Birçok şirket aynı konumda birden fazla iş varlığına sahip olduğundan, birden çok sonuç görebilirsiniz. Hangisini seçdiğinizden emin değilseniz, müşterinize hangi D-U-N-S numarasının ait olduğunu doğrulayabilirsiniz. Üzerinde çalıştığınız müşterinin tam eşleşmesini seçtiğinizden emin olun.
 
-**Müşteriyi Seç** ' e tıkladığınızda, bu anlaşma için ana kişi noktanız olan kişinin adını, telefon numarasını ve e-posta adresini girmeniz istenir. Bu ayrıntılar isteğe bağlıdır ve yalnızca Microsoft Sales 'i, görevlendirmede size yardımcı olmak üzere davet etmeyi planlıyorsanız gereklidir. **İleri** ’yi seçin.
+**Müşteriyi Seç**' e tıkladığınızda, bu anlaşma için ana kişi noktanız olan kişinin adını, telefon numarasını ve e-posta adresini girmeniz istenir. Bu ayrıntılar isteğe bağlıdır ve yalnızca Microsoft Sales 'i, görevlendirmede size yardımcı olmak üzere davet etmeyi planlıyorsanız gereklidir. **İleri**’yi seçin.
 
 > [!IMPORTANT]
 > Müşteri onay bilgilerini Microsoft 'a dağıtmak için, müşterinin onayını elde ettiğinizden emin olun. Microsoft bu bilgileri müşteriyle doğrudan iletişim kurmak için kullanabilir.
@@ -100,14 +100,14 @@ Bu bölümde, bu anlaşmayı bir parçası olacak çözümlerle ilgili bilgileri
 
 Çözüm bilgilerini girdikten sonra, satan türe gitmek için Ileri ' yi seçin. Çözüm değerlendirmesi değil, ilk üç seçenekten çözüm seçtiyseniz üç seçeneğiniz vardır:
 
-**Özel anlaşma** : Microsoft 'u davet etmeyin ve bu adımda bir katılım oluşturursanız, özel işlem hattı türü olacaktır. Microsoft satıcıları, bu anlaşmayı ayrıntılarıyla ilgili hiçbir görünürlüğe sahip olmayacaktır.
+**Özel anlaşma**: Microsoft 'u davet etmeyin ve bu adımda bir katılım oluşturursanız, özel işlem hattı türü olacaktır. Microsoft satıcıları, bu anlaşmayı ayrıntılarıyla ilgili hiçbir görünürlüğe sahip olmayacaktır.
 
 > [!Important]
 > Anlaşma kaydı, özel anlaşmalar için geçerli değildir. Iş Ortağı Merkezi 'nde anlaşma kaydı için uygun olmadıklarından, uygun çözümleri teşvik etmek için özel bir anlaşma oluştururken dikkatli olun.
 
-**Ortak satış satışı:** **"Microsoft 'tan istediğiniz yardım türünü belirleyin** " sorusu için varsayılan seçim dışında herhangi bir seçeneği belirlerseniz, anlaşma, Microsoft satıcının bu anlaşmayı kapatmada size yardımcı olabilecek bir ortak satış uygulamasına döner. Microsoft 'a yönelik bir Microsoft 'a yönelik bir istek, Microsoft satıcı tarafından ele alınacaktır. Microsoft satış temsilcilerinin katılmak istemeyeceğine karar vermek için 14 gün daha vardır. Notlar bölümünde, istediğiniz yardım türünü tanımladığınızdan emin olun.
+**Ortak satış satışı:** **"Microsoft 'tan istediğiniz yardım türünü belirleyin**" sorusu için varsayılan seçim dışında herhangi bir seçeneği belirlerseniz, anlaşma, Microsoft satıcının bu anlaşmayı kapatmada size yardımcı olabilecek bir ortak satış uygulamasına döner. Microsoft 'a yönelik bir Microsoft 'a yönelik bir istek, Microsoft satıcı tarafından ele alınacaktır. Microsoft satış temsilcilerinin katılmak istemeyeceğine karar vermek için 14 gün daha vardır. Notlar bölümünde, istediğiniz yardım türünü tanımladığınızdan emin olun.
 
-**Iş ortağı iş ortağı (P2P) anlaşma** : davet iş ortağı bağlantısına tıklayarak diğer iş ortaklarını başa davet edebilirsiniz. P2P oluşturma süreci aşağıda verilmiştir.
+**Iş ortağı iş ortağı (P2P) anlaşma**: davet iş ortağı bağlantısına tıklayarak diğer iş ortaklarını başa davet edebilirsiniz. P2P oluşturma süreci aşağıda verilmiştir.
 
 - **İş ortağı seçin:** Davet ortağına tıklandıktan sonra, girdiğiniz adla eşleşen iş ortakları listesini almak için iş ortağı adını yazmaya başlayacaksınız. Bu iş ortağı için ek ayrıntıları dolduracak ilgilendiğiniz iş ortağını seçin. Yalnızca Microsoft ortak satış ekosisteminde olan iş ortakları için arama yapabilir ve Iş Ortağı Merkezi 'nde deneyimidir.
 
@@ -135,15 +135,15 @@ Bu aşamada, bir Microsoft satıcıdan ya da Microsoft ortak satış ekosistemin
 
 - **Kabul et:** Anlaşma için bir ad girin, tahmini anlaşma değerini ve gözden geçirmenize göre tahmini satın alma zaman çerçevesini düzenleyin. Müşteriyle ilgili kişiyi kurduktan sonra, müşterinin ne aradıklarını öğrenmek için **Notlar** alanına bilgi sağlamalısınız. İsteğe bağlı olarak, CRM KIMLIĞINIZI buraya girebilirsiniz (yalnızca başvurunuz için), ilgili fırsatla sonuçlanan pazarlama kampanyası KIMLIĞI ve bu anlaşma üzerinde çalışacak olan şirketinizdeki kişileri ekleyebilirsiniz.
 
-- İşiniz bittiğinde **İleri** ' yi seçin. Başvuruyu bir **sonraki aşamaya** taşıyacağız, bu da ihtiyaçları karşılamak üzere müşteriyle birlikte etkin bir şekilde katılım planladığınız anlamına gelir. Gelecekte de benzer anlaşmalar bulmanıza yardımcı olması için bu bilgileri kullanacağız.
+- İşiniz bittiğinde **İleri**' yi seçin. Başvuruyu bir **sonraki aşamaya** taşıyacağız, bu da ihtiyaçları karşılamak üzere müşteriyle birlikte etkin bir şekilde katılım planladığınız anlamına gelir. Gelecekte de benzer anlaşmalar bulmanıza yardımcı olması için bu bilgileri kullanacağız.
 
-- **Reddet** : anlaşmayı reddettiğinizi ve dahil etmek istediğiniz tüm notları ekleyin ve ardından **anlaşmayı kapat** ' ı seçin. Bunu **reddedildi** olarak arşivleyip Microsoft 'un veya bu fırsatı gönderen iş ortağının bilgilendireceğiz.
+- **Reddet**: anlaşmayı reddettiğinizi ve dahil etmek istediğiniz tüm notları ekleyin ve ardından **anlaşmayı kapat**' ı seçin. Bunu **reddedildi** olarak arşivleyip Microsoft 'un veya bu fırsatı gönderen iş ortağının bilgilendireceğiz.
 
 - Ayrılan süre (14 gün) içinde yanıt vermezseniz, bunu **süresi dolduğunda** arşivleyip Microsoft 'un veya bu fırsatı gönderen iş ortağının bilgilendireceğiz.
 
 ### <a name="accepted-stage"></a>Kabul edilen aşama
 
-Müşteriyle başa çıkmak için çalışın. Kabul edilen bir başvuru için sağladığınız bilgilerden herhangi birini değiştirmek istiyorsanız, **Düzenle** ' yi seçin. Ardından, anlaşma adı, tahmini satın alma tarihi, tahmini değer, notlar, CRM KIMLIĞI ve/veya pazarlama kampanya KIMLIĞINI güncelleştirebilirsiniz.  Ayrıca, anlaşma üzerinde çalışan ek kişilerin ad, telefon numarası ve e-posta adreslerini sağlamak için **takımınızı Ekle** seçeneğini de belirleyebilirsiniz. Çözümler, müşteri ihtiyacı temel alınarak da düzenlenebilir.
+Müşteriyle başa çıkmak için çalışın. Kabul edilen bir başvuru için sağladığınız bilgilerden herhangi birini değiştirmek istiyorsanız, **Düzenle**' yi seçin. Ardından, anlaşma adı, tahmini satın alma tarihi, tahmini değer, notlar, CRM KIMLIĞI ve/veya pazarlama kampanya KIMLIĞINI güncelleştirebilirsiniz.  Ayrıca, anlaşma üzerinde çalışan ek kişilerin ad, telefon numarası ve e-posta adreslerini sağlamak için **takımınızı Ekle** seçeneğini de belirleyebilirsiniz. Çözümler, müşteri ihtiyacı temel alınarak da düzenlenebilir.
 
 Oluşturduğunuz tüm anlaşmalar varsayılan olarak kabul edilen aşamalardır.
 
@@ -214,13 +214,7 @@ Bu, tüm fırsatların son aşamasıdır. Kapatılan aşamada **kazanıldı, kay
 
 Hayır, bir Terminal durumuna geçtiğinde anlaşmalar değiştirilemez. Süre dolduğunda, ret, kazanıldı ve kaybedildi, anlaşma için başka bir güncelleştirme yapılabilmeyen Terminal durumlarıdır. Anlaşmayı bu Terminal durumlarının herhangi birine taşırken dikkatli olun.
 
-**Üç. Yeni bir başvuru bildirimi aldım, ancak bunu Iş Ortağı Merkezi 'nde bulamıyor musunuz?**
-
-Bu, şirketiniz aynı MPN hesabıyla ilişkili birden fazla kiracıya sahipse gerçekleşebilir. Iş ortağı merkezi hesap ayarları ' na gidin ve hesapla ilişkili kiracılar ' a bakın. Ardından kiracılar bağlamak isteyen bir destek bileti oluşturun. Destek bileti içinde oturum açtığınız kiracı KIMLIĞINI girin.
-
-:::image type="content" source="images/pscmigration/pctenants.png" alt-text="Kiracı bilgilerinin bulunabileceği hesap ayarlarını gösteren resim.":::
-
-**S3. Iş Ortağı Merkezi 'nden kim e-posta bildirimi alıyor?**
+**Üç. Iş Ortağı Merkezi 'nden kim e-posta bildirimi alıyor?**
 
 Aşağıdaki iş akışı, e-postaların iş ortağı merkezi başvuruları sisteminden iş ortaklarına nasıl gönderileceğini açıklar ve yeni iş ortağı gelen başvurularına yöneliktir.
 

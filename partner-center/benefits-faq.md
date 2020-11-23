@@ -1,5 +1,5 @@
 ---
-title: Avantajlar SSS
+title: Avantajlar hakkında SSS'ler
 ms.topic: article
 ms.date: 09/08/2020
 description: Azure, Cloud, Visual Studio ve teknik ve destek avantajlarına yönelik avantajların süresi, yenilenmesi ve etkinleştirilmesi ile ilgili soruların yanıtları
@@ -9,19 +9,19 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOJUNE20
-ms.openlocfilehash: 4af9e87ce02364f32f1aa41deb66d8935f657f40
-ms.sourcegitcommit: 3a9318d0de7a159215cb454295125532134ff8de
+ms.openlocfilehash: 089d358b75d17c409d614ed63e92aee921b1c80f
+ms.sourcegitcommit: e4f870b9070eb3aed49061cc652d124ba0d05b68
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/09/2020
-ms.locfileid: "92531410"
+ms.lasthandoff: 11/23/2020
+ms.locfileid: "95417260"
 ---
-# <a name="benefits-faq"></a>Avantajlar SSS
+# <a name="benefits-faq"></a>Avantajlar hakkında SSS'ler
 
 Aşağıdakiler cihazlar için geçerlidir:
 
 - İş Ortağı Merkezi
-- ABD kamu için Microsoft Bulut iş ortağı Merkezi
+- Microsoft Cloud for US Government için İş Ortağı Merkezi
 
 ## <a name="general-questions"></a>Genel sorular
 
@@ -44,7 +44,7 @@ Avantajlarınızı yenilemek için aşağıdaki yordamı kullanın:
 
 1. [İş Ortağı Merkezi panosunda](https://partner.microsoft.com/dashboard/) oturum açın.
 
-2. Sol gezinti bölmesinde **MPN** ' yi seçin.
+2. Sol gezinti bölmesinde **MPN**' yi seçin.
 
 3. **MPN** sekmesinde, **avantajlar** seçeneğini belirleyin.
 
@@ -87,16 +87,16 @@ Aşağıdaki adımları uygulayarak, Iş Ortağı Merkezi 'nde veya Azure Active
 
 1. [İş Ortağı Merkezi panosunda](https://partner.microsoft.com/dashboard/) oturum açın.
 
-2. Sol gezinti bölmesinde **MPN** ' yi seçin.
+2. Sol gezinti bölmesinde **MPN**' yi seçin.
 
-3. **Avantajlar** ' ı seçin ve ardından **Visual Studio** ' yı seçin.
+3. **Avantajlar**' ı seçin ve ardından **Visual Studio**' yı seçin.
 
 4. Mevcut Visual Studio aboneliklerinize istediğiniz kullanıcıları atayın.
 
 Aboneliği atadıktan sonra, kullanıcının yönetmek için Visual Studio 'da oturum açması gerekir.
 
 >[!Note]
-> Iş ortağı merkezindeki bir Visual Studio aboneliğine atanan bir Kullanıcı, özgün atamadan 90 gün sonrasına kadar kaldırılamaz.
+> Visual Studio abonelikleri, başlangıçtaki atamanın 90 gün sonra bir aboneden diğerine yeniden atanabilir
 
 ## <a name="technical-benefits-and-support"></a>Teknik avantajlar ve destek
 
@@ -106,9 +106,9 @@ Yükleme, etkinleştirme ve ürünle ilgili diğer yardım Microsoft Desteği ar
 
 1. [İş Ortağı Merkezi panosunda](https://partner.microsoft.com/dashboard/) oturum açın.
 
-2. Sol gezinti bölmesinde **MPN** ' yi seçin.
+2. Sol gezinti bölmesinde **MPN**' yi seçin.
 
-3. **Avantajlar** ' ı seçin ve ardından **Teknik avantajlar** ' ı seçin.
+3. **Avantajlar**' ı seçin ve ardından **Teknik avantajlar**' ı seçin.
 
 4. Bir erişim KIMLIĞI/sözleşme KIMLIĞI etkinleştirmek ve almak için teknik avantajlar bölümünü kullanın.
 
