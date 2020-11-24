@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 11/02/2020
-ms.openlocfilehash: 2b089a666fdb312d49f26be0f9a47da8daad2715
-ms.sourcegitcommit: 7e32544cf91f932cbeb053c9de506ba9ee773fe2
+ms.openlocfilehash: d3057dc50ce1df4e4dbe1d3821904326b452e7cf
+ms.sourcegitcommit: 245b4792e8221468f781f6effd1c9b23be05499a
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 11/20/2020
-ms.locfileid: "94947707"
+ms.lasthandoff: 11/24/2020
+ms.locfileid: "95514750"
 ---
 # <a name="november-2020-announcements"></a>Kasım 2020 duyuruları
 
@@ -23,6 +23,32 @@ Bu sayfada, Kasım 2020 ' de Microsoft Iş Ortağı Merkezi duyuruları ayrınt�
 2020 Duyuruları: [Nisan](2020-april.md)  |  [May](2020-may.md)  |  [June](2020-june.md)  |  [July](2020-july.md)  |  [August](2020-august.md)  |  [ayında Eylül](2020-september.md)ayında Haziran ayı  |  [October](2020-October.md) | Kasım
 
 ______________
+## <a name="introducing-the-ability-to-purchase-saas-offers-with-metered-billing-in-partner-center"></a><a name="14"></a>Iş Ortağı Merkezi 'nde ölçülen faturalandırma ile SaaS teklifleri satın alma imkanına giriş 
+
+### <a name="categories"></a>Kategoriler
+
+- Tarih: 2020-11-24
+- Özellikler
+
+## <a name="summary"></a>Özet
+
+Microsoft, bulut çözümü sağlayıcısı programındaki iş ortaklarının Iş Ortağı Merkezi 'nde ölçülen faturalandırma sayesinde SaaS teklifleri satın almasını sağlar. 
+
+### <a name="impacted-audience"></a>Etkilenen hedef kitle
+
+Tüm iş ortakları
+
+### <a name="details"></a>Ayrıntılar
+
+Microsoft, dolaylı sağlayıcılar ve doğrudan fatura ortakları dahil olmak üzere bulut çözümü sağlayıcısı programındaki iş ortakları için, Iş Ortağı Merkezi 'nde [ölçülen faturalandırmayla](https://docs.microsoft.com/azure/marketplace/partner-center-portal/saas-metered-billing)SaaS teklifleri satın alma olanağı sunuyor   . Günümüzde, bulut çözümü sağlayıcısı programındaki iş ortakları, [Azure Portal aracılığıyla sunulan SaaS tekliflerini, ölçümlü faturalandırma ile](https://docs.microsoft.com/partner-center/csp-commercial-marketplace-purchase)görüntüleyebilir ve satın alabilir.Bu yeni deneyim, iş ortaklarının bu teklifleri Iş Ortağı Merkezi 'nde CSP marketi ve diğer SaaS teklifi türleri için yaptıkları gibi API 'leri aracılığıyla satın almasını sağlar. 
+
+### <a name="next-steps"></a>Sonraki adımlar
+
+Bu bilgileri şirketinizdeki ilgili tüm kişilerle paylaşabilirsiniz.
+
+
+
+
 ## <a name="new-unified-account-management-experience"></a><a name="13"></a>Yeni, Birleşik hesap yönetimi deneyimi
 
 ### <a name="categories"></a>Kategoriler
@@ -445,14 +471,14 @@ Premium teklifle, müşteriler, uzmanların müşteri adına toplantı odaların
 
    |****|**Microsoft ekipleri Odalar Standart USD15 cihaz/ay**|**Microsoft ekipleri her ay Premium USD50 cihaz**|
    |-------------------|:------|:------|
-   |Skype Kurumsal|Yes| |
-   |Microsoft Teams|Yes|Yes|
-   |Telefon sistemi|Yes|Yes|
-   |Ses konferansı|Yes|Yes|
-   |Microsoft Intune|Yes|Yes|
+   |Skype Kurumsal|Evet| |
+   |Microsoft Teams|Evet|Evet|
+   |Telefon sistemi|Evet|Evet|
+   |Ses konferansı|Evet|Evet|
+   |Microsoft Intune|Evet|Evet|
    | |Microsoft ekipleri her ay cihaz başına standart USD15 Odalar|Microsoft ekipleri, her ay cihaz başına Premium USD50|
-   |Microsoft ekipleri Oda Yönetimli hizmetler| |Yes|
-   |Dünya çapında kullanılabilirlik|Yes|Pazarların Seç bölümünde|
+   |Microsoft ekipleri Oda Yönetimli hizmetler| |Evet|
+   |Dünya çapında kullanılabilirlik|Evet|Pazarların Seç bölümünde|
 
 #### <a name="microsoft-teams-rooms-managed-services"></a>Microsoft ekipleri Oda Yönetimli hizmetler
 

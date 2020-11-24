@@ -1,7 +1,7 @@
 ---
 title: İş ortağı hesabınızdaki konumları yönetin
-ms.topic: article
-ms.date: 10/12/2020
+ms.topic: how-to
+ms.date: 11/23/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Yeni bir konum ekleme ve bilgisayar, CSP iş, abonelik ve diğer işlemlerde MPN KIMLIĞI 'nin nasıl kullanıldığını öğrenin.
@@ -9,16 +9,16 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c6b0fc84636befedbc51aa0672ce19110eb4d9aa
-ms.sourcegitcommit: 1719ff11409cd6953602b7798f8cfe821b8ea15e
+ms.openlocfilehash: 03c4fb5a4adeb49602fe3736971e140ac6da6f4f
+ms.sourcegitcommit: 245b4792e8221468f781f6effd1c9b23be05499a
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/15/2020
-ms.locfileid: "92531971"
+ms.lasthandoff: 11/24/2020
+ms.locfileid: "95514811"
 ---
 # <a name="manage-your-mpn-account-locations-and-add-a-new-location"></a>MPN hesap konumlarını yönetin ve yeni bir konum ekleyin
 
-**Uygulama hedefi**
+**Şunlara uygulanır**
 
 - İş Ortağı Merkezi
 
@@ -58,29 +58,26 @@ Yasal Şirket adı, adres, birincil iletişim ayrıntıları dahil yasal Şirket
 
 1. Iş Ortağı Merkezi 'nde MPN hesabını kullanarak oturum açın. MPN hesabının genel yönetici veya hesap yönetici ayrıcalıklarına sahip olması gerekir. 
 
-1. **Ayar simgesinden** **iş ortağı ayarları** ' nı seçin.
+1. **Ayar simgesinden** **kuruluş ayarları**' nı seçin.
 
-2. **Konum seçin.**
+2. **Yasal** ' ı seçin ve ardından konumlar ' ı seçin **.**
 
-3. **Konum Ekle** ' yi seçin ve şirkete eklemek istediğiniz konumun adres ayrıntılarını ve konum için bir birincil kişiyi ekleyin.
+3. **Konum Ekle**' yi seçin ve şirkete eklemek istediğiniz konumun adres ayrıntılarını ve konum için bir birincil kişiyi ekleyin.
 
 > [!NOTE]
 > Iş Ortağı Merkezi 'ne bir konum eklendikten sonra kaldırılamaz. Oturum açmak için doğru MPN KIMLIĞINI kullandıysanız, **MPN** 'Yi Iş Ortağı Merkezi 'nin sol menüsünde görürsünüz.
 
 ## <a name="change-global-partner-account-location"></a>Küresel iş ortağı hesabı konumunu değiştir
 
-1. **[Konumlar](https://partner.microsoft.com/pcv/accountsettings/locationsprofile)** sayfasında, yasal varlığınız olarak istediğiniz konumun listelendiğinden emin olmak için konumların listesini kontrol edin. Değilse, ekleyin.
+1. **[İş konumlarında](https://partner.microsoft.com/dashboard/account/v3/organization/legalinfo#mpn)**, yasal varlığınız olarak istediğiniz konumun listelendiğinden emin olmak için konumların listesini kontrol edin. Değilse, ekleyin.
 
-   :::image type="content" source="images/updatepartnerprofile2.png" alt-text="MPN konumlarının yapısı":::
+   :::image type="content" source="images/accountsettings/location1.png" alt-text="Tüm geçerli konumların listesini içeren Iş ortağı merkezi hesap konumları sayfasının ekran görüntüsü.":::
 
-2. **Iş ortağı profilini** seçin ve ardından **yasal iş profilini Güncelleştir** ' i seçin.
-
-   :::image type="content" source="images/updatepartnerprofile1.png" alt-text="MPN konumlarının yapısı":::
-
+2. **Yasal** ' ı seçin ve ardından **yasal iş profilini Güncelleştir** ' i seçin
+  
 3. Bölgeyi ve yasal varlığı seçip **gönderebilirsiniz** .
 
-   :::image type="content" source="images/updatepartnerprofile3.png" alt-text="MPN konumlarının yapısı":::
-
+  
 ## <a name="next-steps"></a>Sonraki adımlar
 
 - [Doğrulama süreci](verification-responses.md)hakkında bilgi edinin.

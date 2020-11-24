@@ -6,12 +6,12 @@ ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
 ms.date: 11/20/2020
-ms.openlocfilehash: d0db9296157eb4a8f1d7ef7288d438cb39e1c026
-ms.sourcegitcommit: 1aa43438ad181278052788f15e017f9ae7777943
+ms.openlocfilehash: d30678d38326a367b03cd81309c29c5b814a2f17
+ms.sourcegitcommit: 245b4792e8221468f781f6effd1c9b23be05499a
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 11/21/2020
-ms.locfileid: "95007605"
+ms.lasthandoff: 11/24/2020
+ms.locfileid: "95514784"
 ---
 # <a name="azure-marketplace-billing-and-invoicing"></a>Azure Marketi faturalama ve faturalama
 
@@ -57,7 +57,7 @@ Faturanızı aldığınızda şunları farklılık gösterir:
 - Ödeme aracınız kredi kartınız ise, rezervasyon satın alındıktan hemen sonra faturalandırılırsınız. Bu fatura, aylık faturanızdan ayrı olacak.
 - Ödeme aracınızda çek/tel varsa, bu satın alma işlemi aylık Market faturanızda yer alır.
 
-Faturalar Microsoft Çevrimiçi Hizmet Programı (MOSP), Microsoft Müşteri Sözleşmesi (MCA) ve Microsoft İş Ortağı Sözleşmesi (MPA) faturalama hesapları için oluşturulur. Faturalar, faturalandırma hesabı türüne göre oluşturulur. Azure Marketi, [Fatura döneminizin](/azure/cost-management-billing/understand/download-azure-invoice#why-you-might-not-see-an-invoice)sonundan sonraki birkaç gün sonra size ait olacak. Azure Marketi, ayırmalar ve spot VM 'Ler için fatura, [ayın dokuzuncu günü](/azure/cost-management-billing/understand/download-azure-invoice#invoices-for-mosp-billing-accounts)içinde oluşturulur. Önceki aydan gelen ücretleri gösterir. Örneğin, bir Kullanıcı 1 Mart 'ta bir rezervasyon ve 30 Mart 'ta başka bir rezervasyon satın aldıysa Nisan 'da tek bir faturada her iki rezervasyon de bulunur.
+Faturalar Microsoft Çevrimiçi Hizmet Programı (MOSP), Microsoft Müşteri Sözleşmesi (MCA) ve Microsoft İş Ortağı Sözleşmesi (MPA) faturalama hesapları için oluşturulur. Faturalar, faturalandırma hesabı türüne göre oluşturulur. Azure Marketi, fatura döneminizin sonundan sonraki birkaç gün sonra size ait olacak. Azure Marketi, ayırmalar ve spot VM 'Ler için fatura, [ayın dokuzuncu günü](/azure/cost-management-billing/understand/download-azure-invoice#invoices-for-mosp-billing-accounts)içinde oluşturulur. Önceki aydan gelen ücretleri gösterir. Örneğin, bir Kullanıcı 1 Mart 'ta bir rezervasyon ve 30 Mart 'ta başka bir rezervasyon satın aldıysa Nisan 'da tek bir faturada her iki rezervasyon de bulunur.
 
 Faturalar hakkında daha fazla bilgi için bkz. [Azure dış hizmet ücretlerinizi anlama](/azure/cost-management-billing/understand/understand-azure-marketplace-charges).
 

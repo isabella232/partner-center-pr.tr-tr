@@ -6,12 +6,12 @@ ms.service: marketplace
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 12/10/2019
-ms.openlocfilehash: 8907d9a394c5679dad5115e03d4ee697d7a07e0f
-ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
+ms.openlocfilehash: 40f9f90eb1da5d80b8df5a2a3d99979883060d81
+ms.sourcegitcommit: 245b4792e8221468f781f6effd1c9b23be05499a
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 11/11/2020
-ms.locfileid: "94488150"
+ms.lasthandoff: 11/24/2020
+ms.locfileid: "95514767"
 ---
 # <a name="set-up-your-payout-account-and-tax-forms"></a>Ödeme hesabınızı ve vergi formlarınızı ayarlama
 
@@ -44,13 +44,13 @@ Iş Ortağı Merkezi ' nde vergi formlarınızı elektronik olarak tamamlayabili
 > [!IMPORTANT]
 > Farklı ülkeler ve bölgeler farklı vergi gereksinimlerine sahiptir. Vergilerle ödeme yapmanız gereken tam tutar, teklifinizi sattığınız ülkelere ve bölgelere göre değişir. Microsoft remits Sales ve sizin adınıza vergi kullanan ülke/bölge hakkında bilgi edinmek için [Microsoft Azure Market Yayımcı Sözleşmesi](https://go.microsoft.com/fwlink/p/?LinkID=699560) ' ne bakın. Diğer ülkelerde/bölgelerde, kaydettiğiniz yere bağlı olarak, teklif satışlarınız için satış ve Kullanım vergisini doğrudan yerel talama yetkilisine havale etmeniz gerekebilir. Bunlara ek olarak, aldığınız uygulama satışları gelir olarak vergilendirilebilir olabilir. Ülkeniz veya bölgeniz için, ticari Market etkinlikleriniz için doğru vergi bilgilerini belirlemenize en iyi şekilde yardımcı olabilecek ilgili yetkiliyle iletişim kurmanız önemle önerilir.
 
-1. [Iş Ortağı Merkezi](https://partner.microsoft.com/dashboard)'nde sağ üst köşedeki **Hesap ayarları** simgesini seçin ve ardından **Geliştirici ayarları** ' nı seçin.
+1. [Iş Ortağı Merkezi](https://partner.microsoft.com/dashboard)' nde, sağ üst köşedeki **Ayarlar** dişli simgesini ve ardından **Hesap ayarları**' nı seçin.
 
-2. Sol gezinti menüsünde, **ödeme ve vergi** ' ı seçin **ve ardından ödeme ve vergi atamaları** ' nı seçin.
+2. Sol gezinti menüsünde, **ödeme ve vergi**' ı seçin **ve ardından ödeme ve vergi atamaları**' nı seçin.
 
 3. Vergi bilgilerini yapılandırmak istediğiniz program ve satıcı KIMLIĞI birleşimini seçin.
 
-4. Mevcut bir vergi profilini kullanmak isterseniz, açılan listeden seçin. Aksi takdirde **Yeni Profil oluştur** ' u seçin ve **Gönder** ' e basın. Vergi profilleri sayfasına yönlendirilirsiniz.
+4. Mevcut bir vergi profilini kullanmak isterseniz, açılan listeden seçin. Aksi takdirde **Yeni Profil oluştur** ' u seçin ve **Gönder**' e basın. Vergi profilleri sayfasına yönlendirilirsiniz.
 
 5. Vergi bilgilerinizi düzenlemek için **Düzenle** düğmesine tıklayın.
 
@@ -81,8 +81,8 @@ Bir ödeme hesabı, satışınızdan devam eden bir banka hesabıdır. Profil sa
 
 ### <a name="create-a-payment-profile"></a>Ödeme profili oluşturma
 
-1. [Iş Ortağı Merkezi](https://partner.microsoft.com/dashboard)' nde, sağ üst köşedeki **Ayarlar** dişli simgesini seçin ve ardından **Hesap ayarları** ' nı seçin.
-2. *Ödeme ve vergi* başlığının altında, **ödeme ve vergi profili ataması** ' nı seçin.
+1. [Iş Ortağı Merkezi](https://partner.microsoft.com/dashboard)' nde, sağ üst köşedeki **Ayarlar** dişli simgesini ve ardından **Hesap ayarları**' nı seçin.
+2. *Ödeme ve vergi* başlığının altında, **ödeme ve vergi profili ataması**' nı seçin.
 
     > [!NOTE]
     > Bu hassas bilgiler olduğundan, yeniden oturum açmanız istenebilir.
@@ -124,9 +124,9 @@ Bir ödeme hesabı, satışınızdan devam eden bir banka hesabıdır. Profil sa
 
 Değişiklik yapmanız veya yanlış bilgileri düzeltmeniz gerekiyorsa, mevcut ödeme profillerini düzenleyebilirsiniz.
 
-1. [Iş Ortağı Merkezi](https://partner.microsoft.com/dashboard)' nde, sağ üst köşedeki **Ayarlar** dişli simgesini seçin ve ardından **Geliştirici ayarları** ' nı seçin.
+1. [Iş Ortağı Merkezi](https://partner.microsoft.com/dashboard)' nde, sağ üst köşedeki **Ayarlar** dişli simgesini ve ardından **Hesap ayarları**' nı seçin.
 
-2. *Ödeme ve vergi* başlığının altında, **ödeme ve vergi profilleri** ' ni seçin.
+2. *Ödeme ve vergi* başlığının altında, **ödeme ve vergi profilleri**' ni seçin.
 
 3. Ödeme profilleriniz, durumları ile birlikte listelenir. Düzenlemek istediğiniz profili bulun ve en sağdaki **Düzenle** ' ye tıklayın
 
