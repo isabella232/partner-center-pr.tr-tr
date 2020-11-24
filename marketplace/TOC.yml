@@ -1,11 +1,35 @@
 - name: Microsoft market müşteri belgeleri
   href: index.yml
+- name: Microsoft AppSource
+  items:
+    - name: Microsoft AppSource hakkında
+      href: appsource-overview.md
+    - name: AppSource’ta yazılım satın alma
+      href: purchase-software-appsource.md
 - name: Azure Market
   items:
-    - name: Azure Özel Market oluşturma
+    - name: Azure Market hakkında
+      href: azure-marketplace-overview.md
+    - name: Satın alma
+      href: azure-purchasing-invoicing.md
+    - name: Ödeme ve faturalama
+      href: billing-invoicing.md
+    - name: Özel teklifler
+      href: private-offers.md
+    - name: Abonelik aktarımı koşullarına uygunluk
+      href: transfer-eligibility.md
+    - name: Özel Azure Market oluşturma ve yönetme
       href: create-manage-private-azure-marketplace.md
     - name: Azure Market iş ortağı tümleştirmeleri
       href: partner-integrations.md
+- name: Genel kaynaklar
+  items:
+    - name: Para iadesi ilkeleri
+      href: refund-policies.md
+    - name: Yasal sözleşmeler
+      href: legal-contracts.md
+    - name: Destek alma
+      href: get-support.md
 - name: Başvuru
   items:
     - name: Azure PowerShell
