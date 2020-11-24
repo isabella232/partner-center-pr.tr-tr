@@ -6,21 +6,51 @@ metadata:
   description: Çevrimiçi mağazalarımızda Microsoft iş ortaklarının çözümlerini, uygulamalarını ve hizmetlerini bulup satın almayı öğrenin.
   ms.service: marketplace
   ms.topic: landing-page
-  author: dsindona
-  ms.author: dsindona
+  author: JasonWHowell
+  ms.author: jasonh
   ms.date: 11/17/2020
-  ms.openlocfilehash: ef9904ec327b26285e04aa4acc4ae11bf1def7b6
-  ms.sourcegitcommit: 4fd1ff569e22e5e10ba9896b4e63eead7dcc5f1e
+  ms.openlocfilehash: 00d4786e234f9ede011032a71233fdafa6724ab8
+  ms.sourcegitcommit: 1aa43438ad181278052788f15e017f9ae7777943
   ms.translationtype: HT
   ms.contentlocale: tr-TR
-  ms.lasthandoff: 11/18/2020
-  ms.locfileid: "94845263"
+  ms.lasthandoff: 11/21/2020
+  ms.locfileid: "95006931"
 landingContent:
+- title: Microsoft AppSource
+  linkLists:
+  - linkListType: overview
+    links:
+    - text: Microsoft AppSource nedir?
+      url: appsource-overview.md
+  - linkListType: get-started
+    links:
+    - text: Microsoft AppSource’ta yazılım satın alma
+      url: purchase-software-appsource.md
 - title: Azure Market
   linkLists:
-  - linkListType: get-started
+  - linkListType: overview
+    links:
+    - text: Azure Market nedir?
+      url: azure-marketplace-overview.md
+  - linkListType: concept
+    links:
+    - text: Ödeme ve faturalama
+      url: billing-invoicing.md
+    - text: Abonelik aktarımı koşullarına uygunluk
+      url: transfer-eligibility.md
+    - text: Azure Market iş ortağı tümleştirmeleri
+      url: partner-integrations.md
+  - linkListType: how-to-guide
     links:
     - text: Özel Azure Market oluşturma ve yönetme (önizleme)
       url: create-manage-private-azure-marketplace.md
-    - text: Azure Market iş ortağı tümleştirmeleri
-      url: partner-integrations.md
+- title: Genel senaryolar
+  linkLists:
+  - linkListType: concept
+    links:
+    - text: Para iadesi ilkeleri
+      url: refund-policies.md
+    - text: Yasal sözleşmeler
+      url: legal-contracts.md
+    - text: Destek alma
+      url: get-support.md
