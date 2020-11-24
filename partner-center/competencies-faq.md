@@ -1,26 +1,26 @@
 ---
 title: Uzmanlıklar-sık sorulan sorular
 ms.topic: article
-ms.date: 10/19/2020
+ms.date: 11/23/2020
 description: Azure, bulut, Visual Studio ve teknik ve destek avantajları için Microsoft İş Ortağı Ağı Gold ve Gümüş uzmanlık, avantaj süresi, yenileme ve etkinleştirme lisansları hakkında sorulara yanıtlar
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
-ms.openlocfilehash: bdcb1db0dbeb96a5b732decc11691364ade36c13
-ms.sourcegitcommit: 13248a782fe6854909a2f1ed3eb6d9d0f2cb5a67
+ms.openlocfilehash: 0a20b464c9784b0939ba404019cab007310ad4bd
+ms.sourcegitcommit: c5e9175792a4e2aac50bfae78fcef18e3cc9922a
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/27/2020
-ms.locfileid: "92755277"
+ms.lasthandoff: 11/24/2020
+ms.locfileid: "95812810"
 ---
 # <a name="competencies---frequently-asked-questions"></a>Uzmanlıklar-sık sorulan sorular
 
 Aşağıdakiler cihazlar için geçerlidir:
 
 - İş Ortağı Merkezi
-- ABD kamu için Microsoft Bulut iş ortağı Merkezi
+- Microsoft Cloud for US Government için İş Ortağı Merkezi
 - Microsoft İş Ortağı Ağı (MPN) programındaki iş ortakları
 
 Bu makalede, Microsoft İş Ortağı Ağı uzmanlığa erişme ile ilgili sınavlar, sertifikalar ve yazılım avantajları hakkında genel sorular yanıtlanmaktadır.
@@ -44,17 +44,17 @@ Bunu, Iş Ortağı Merkezi 'nden şu şekilde gerçekleştirebilir:
 
 1. Iş Ortağı Merkezi [panosunda](https://partner.microsoft.com/dashboard)oturum açın.
 
-1. **MPN** ve ardından **Uzmanlıklar** ' ı seçin.
+1. **MPN** ve ardından **Uzmanlıklar**' ı seçin.
 
 1. Uzmanlıklar sayfasının en üstüne doğru, **özellikleri indir rapor** seçeneğini bulun ve seçin.
 
-Kuruluşunuzun becerilerine ilişkin diğer raporların de Iş Ortağı Merkezi 'ndeki [Iş Ortağı Merkezi öngörüleri](partner-center-insights.md) alanından de erişilebilir olması gerekir. Bu raporları görüntülemek için, **rapor Görüntüleyicisi** veya **Executive rapor Görüntüleyicisi** 'nin Öngörüler 'e özgü bir rolü atanması gerekebilir. Bu rollerden birine erişim sağlamak için MPN iş ortağı yöneticinize başvurmanız gerekebilir.
+Kuruluşunuzun becerilerine ilişkin diğer raporların de Iş Ortağı Merkezi 'ndeki [Iş Ortağı Merkezi öngörüleri](partner-center-insights.md) alanından de erişilebilir olması gerekir. Bu raporları görüntülemek için, **rapor Görüntüleyicisi** veya **Executive rapor Görüntüleyicisi**'nin Öngörüler 'e özgü bir rolü atanması gerekebilir. Bu rollerden birine erişim sağlamak için MPN iş ortağı yöneticinize başvurmanız gerekebilir.
 
 Öngörüler raporlarını aşağıdaki gibi görüntüleyin:
 
 1. Iş Ortağı Merkezi [panosunda](https://partner.microsoft.com/dashboard)oturum açın.
 
-1. Iş Ortağı Merkezi menüsünden **Öngörüler** ' i ve ardından **kuruluş becerileri** ' nı seçin. Daha küçük bir menü görünür.
+1. Iş Ortağı Merkezi menüsünden **Öngörüler** ' i ve ardından **kuruluş becerileri**' nı seçin. Daha küçük bir menü görünür.
 
 1. Menüden **eğitim** veya **Microsoft Learn** seçeneklerinden birini belirleyin.
 
@@ -79,7 +79,7 @@ Aşağıdaki kaynaklara bakın:
 
 - Uzmanlığa sahip iş ortakları için lisans tablolarını [indirin](https://assetsprod.microsoft.com/mpn-maps-software-iur-competency-license-table.docx) .
 
-- Microsoft Eylem Paketi abonelik iş ortakları için lisans tablosunu [indirin](https://assetsprod.microsoft.com/MPN-MAPS-Software-IUR-License-Table.xlsx) .
+- Microsoft Eylem Paketi abonelik iş ortakları için lisans tablosunu [indirin](https://assetsprod.microsoft.com/en-us/microsoft-action-pack-license-table.pdf) .
 
 ## <a name="q-how-do-i-link-a-microsoft-certification-profile-id-mcp-id-or-mcid-to-my-microsoft-partner-center-account"></a>S. Microsoft sertifika profili KIMLIĞI 'ni (MCP KIMLIĞI veya MCıD) Microsoft Iş Ortağı Merkezi hesabım 'a bağlamak Nasıl yaparım?.
 

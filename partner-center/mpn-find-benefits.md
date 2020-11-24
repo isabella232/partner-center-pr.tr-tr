@@ -1,7 +1,7 @@
 ---
 title: Avantajlarınızı bulun
 ms.topic: how-to
-ms.date: 09/02/2020
+ms.date: 11/23/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: MPN avantajlarınızı Iş Ortağı Merkezi panosunda bulmayı öğrenin. Teknik avantajlar için erişim KIMLIĞI ve sözleşme KIMLIĞINIZI bulma hakkında bilgiler içerir.
@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a7d53da2f83fcd5c85732b24843365717e66429d
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 0162766018087112ebe34c82f29902b3225822b1
+ms.sourcegitcommit: c5e9175792a4e2aac50bfae78fcef18e3cc9922a
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92532079"
+ms.lasthandoff: 11/24/2020
+ms.locfileid: "95812835"
 ---
 # <a name="locate-your-microsoft-partner-network-benefits"></a>Microsoft İş Ortağı Ağı avantajlarınızı keşfedin 
 
@@ -36,7 +36,7 @@ Bu makalede, Microsoft İş Ortağı Ağı (MPN) üyelerine Iş Ortağı Merkezi
 
 Microsoft İş Ortağı Ağı üyesi olarak şirketiniz, işinizi büyütmeye yardımcı olabilecek birçok avantaj erişimine sahiptir. Bu avantajların ne olduğunu öğrenmek için:
 
-1. Iş Ortağı Merkezi [panosunda](https://partner.microsoft.com/dashboard/home)oturum açın, **MPN** ' yi seçin ve ardından **avantajlar** ' ı seçin.
+1. Iş Ortağı Merkezi [panosunda](https://partner.microsoft.com/dashboard/home)oturum açın, **MPN**' yi seçin ve ardından **avantajlar**' ı seçin.
 
 2. Avantajlardan biri, sizin için sunulan kategorilerden birine ait olan avantajlardan yararlanmaya, etkinleştirebilir, sıralayabilir veya indirebilirsiniz. Bunu yapmak için daha fazla bilgi edinmek istediğiniz avantaj alanını seçin:
 
@@ -68,13 +68,13 @@ Teknik avantajlar için, Iş Ortağı Merkezi 'nde **ERIŞIM kimliği** ve **sö
 
 1. İş Ortağı Merkezi [panosunda](https://partner.microsoft.com/dashboard/home) oturum açın
 
-2. **MPN** , daha sonra **avantajlar** ve **Teknik avantajlar** ' ı seçin.
+2. **MPN**, daha sonra **avantajlar** ve **Teknik avantajlar**' ı seçin.
 
 3. Listeden bir avantaj seçin. Daha fazla ayrıntı görüntülemek için avantajı genişletin. 
 
    Bu avantaja atanan belirli ürün desteği **SÖZLEŞMESI kimliğini** ve **erişim kimliğini** görmeniz gerekir.  
 
-   :::image type="content" source="images/benefits/technical-benefits-show-contract-id-access-id.png" alt-text="Genişletilmiş avantajlar":::
+   :::image type="content" source="images/benefits/technical-benefits-show-contract-id-access-id.png" alt-text="Örnek Gold Core uzmanlığına, sözleşme KIMLIĞI ve erişim KIMLIĞI gibi Microsoft ürün destek kimliklerini gösteren teknik avantaj desteği":::
 
    > [!NOTE]
    > Bu destek kimliklerini izleyin. Bazı sistemler, (veya şirketinizin kullanıcılarından biri) belirli bir teknik avantaj ile ilişkili bir destek isteğini günlüğe kaydettiği her seferinde bu kullanıcıları isteyebilir. Tüm şirketinizin kullanıcıları, aynı erişim KIMLIĞINI ve sözleşme KIMLIĞINI kullanıyor olabilir.
@@ -83,7 +83,7 @@ Teknik avantajlar için, Iş Ortağı Merkezi 'nde **ERIŞIM kimliği** ve **sö
 
 Microsoft Eylem Paketi, gümüş ve/veya altın uzmanlık açısından hangi avantajlardan yararlandıkları hakkında bilgi edinmek için aşağıdaki kaynaklara bakın:
 
-- [Microsoft Eylem Paketi iş ortakları için lisans tablosu](https://assetsprod.microsoft.com/mpn/MPN-MAPS-Software-IUR-License-Table.xlsx)
+- [Microsoft Eylem Paketi iş ortakları için lisans tablosu](https://assetsprod.microsoft.com/en-us/microsoft-action-pack-license-table.pdf)
 
 - [Uzmanlık ortakları için lisans tablosu](https://assetsprod.microsoft.com/mpn-maps-software-iur-competency-license-table.docx)
 
