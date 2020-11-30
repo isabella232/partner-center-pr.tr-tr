@@ -1,7 +1,7 @@
 ---
 title: Bulut Çözümü Sağlayıcısı programına kaydolma
 ms.topic: how-to
-ms.date: 10/29/2020
+ms.date: 11/29/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Bulut çözümü sağlayıcısı (CSP) için en iyisi olan, dolaylı satıcı veya doğrudan fatura iş ortağı gibi bulut çözümü sağlayıcısı (CSP) program satış modelinde nasıl kayıt yapılacağını öğrenin.
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d94941cf7f2530b7c60c099035a90f7a792e7a7a
-ms.sourcegitcommit: 7dd8aa793922160102a7a6aaca2c7e8f9a49b8a9
+ms.openlocfilehash: 1753649f375c66027ecc6cd427a7506913d55e8d
+ms.sourcegitcommit: c79137fba9e70037a2dc0e4a99c7334696c3740a
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/30/2020
-ms.locfileid: "93045392"
+ms.lasthandoff: 11/30/2020
+ms.locfileid: "96322092"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>Bulut Çözümü Sağlayıcısı programına kaydolma
 
@@ -26,7 +26,7 @@ ms.locfileid: "93045392"
 
 - Genel yönetici
 
-## <a name="get-started"></a>başlarken
+## <a name="get-started"></a>Kullanmaya başlayın
 
 Bulut tabanlı çözümler ve hizmetler için hızla büyüyen talepler, her boyuttaki Microsoft iş ortakları için, karlı bulut çözümü işletmeleri oluşturmaya yönelik birçok fırsat sağlar. Pazara girmeye, ancak birden çok satıcıyı yönetmek zorunda olan veya uçtan uca bir müşteri ilişkisi yönetim altyapısına sahip olmayan iş ortakları, Microsoft 'un bulut çözümü sağlayıcısı (CSP) programına dolaylı satıcılar olarak kaydedilebilir.
 
@@ -42,7 +42,7 @@ Sağladığınız bilgileri gözden geçirip doğrulayabilmeniz birkaç gün sü
 3. Bilgilerinizi doğruladıktan sonra, Microsoft dolaylı satıcı koşulları sözleşmesini kabul edin.
 
 > [!IMPORTANT]  
-> CSP programındaki bir iş ortağı, şu anda CSP programındaki başka bir ortağa çevrimiçi hizmetler yeniden satıtamaz. Microsoft, tüm programların ilkelerini ve yeteneklerini sürekli olarak inceler. Özellik sürümleri veya ilke değişiklikleri hakkındaki tüm haberler, [Iş Ortağı Merkezi duyuruları](announcements/index.md)dahil olmak üzere olağan iletişim kanalları aracılığıyla duyurulacaktır.
+> CSP programındaki bir iş ortağı, şu anda CSP programındaki başka bir ortağa çevrimiçi hizmetler yeniden satıtamaz. Bu kısıtlama yalnızca CSP işlemleri yürütmek için kullanılan kiracı için geçerlidir. Şirket kullanımı için CSP olmayan bir kiracı kullanan CSP iş ortakları, başka bir CSP ortağından çevrimiçi hizmetler satın alabilir. Microsoft, tüm programların ilkelerini ve yeteneklerini sürekli olarak inceler. Özellik sürümleri veya ilke değişiklikleri hakkındaki tüm haberler, [Iş Ortağı Merkezi duyuruları](announcements/index.md)dahil olmak üzere olağan iletişim kanalları aracılığıyla duyurulacaktır.
 
 ## <a name="enroll-as-an-indirect-reseller"></a>Dolaylı satıcı olarak kaydetme
 
@@ -60,7 +60,7 @@ Farklı dolaylı sağlayıcılar farklı destek ve hizmetler sunmaktadır. bu ne
 
 Zaten bir sağlayıcı (dağıtımcı olarak da bilinir) ile çalışmıyorsanız, [Resmi Microsoft sağlayıcıları listesinde](https://partnercenter.microsoft.com/partner/find-a-provider) bir tane bulmak için arama yapabilirsiniz.
 
-CSP programına dolaylı bir satıcı olarak katılması gereken özellikler hakkında daha fazla bilgi için, [Microsoft iş ortağı ağı Web sitesinde](https://partner.microsoft.com/) [dolaylı bir satıcı olarak kullanmaya başlama](https://partner.microsoft.com/cloud-solution-provider/whats-required) konusuna bakın. 
+CSP programına dolaylı bir satıcı olarak katılması gereken özellikler hakkında daha fazla bilgi için, [Microsoft iş ortağı ağı Web sitesinde](https://partner.microsoft.com/) [dolaylı bir satıcı olarak kullanmaya başlama](https://partner.microsoft.com/cloud-solution-provider/whats-required) konusuna bakın.
 
 ## <a name="enroll-as-a-direct-bill-partner"></a>Doğrudan fatura ortağı olarak kaydet
 
@@ -99,4 +99,4 @@ Pazarınızı belirleyen şirketinizin konumudur. Pazarınız, CSP tekliflerini 
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-- [CSP program iş ortakları için Microsoft Iş ortağı Sözleşmesi (MPA) hakkında bilgi edinin](microsoft-partner-agreement.md)
+[CSP program iş ortakları için Microsoft Iş ortağı Sözleşmesi (MPA) hakkında bilgi edinin](microsoft-partner-agreement.md)
