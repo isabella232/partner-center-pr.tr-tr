@@ -9,16 +9,16 @@ ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/01/2020
-ms.openlocfilehash: 670146b30c953e579cb5a8638cdb820dd8262258
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: a87b6cdde7fb339dd498bfa4834e618c19f504f3
+ms.sourcegitcommit: 32612717e2b62dd307741933afa580a622ef7787
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92531930"
+ms.lasthandoff: 11/30/2020
+ms.locfileid: "96354233"
 ---
 # <a name="get-data-about-how-well-your-customers-and-azure-subscriptions-are-doing"></a>Müşterilerinizin ve Azure aboneliklerinizin ne kadar iyi yaptığına ilişkin verileri alın
 
-**Uygulama hedefi**
+**Şunlara uygulanır**
 
 - İş Ortağı Merkezi
 - Bulut çözümü sağlayıcısı program iş ortakları
@@ -32,7 +32,7 @@ ms.locfileid: "92531930"
 
 Veri sürücüleri iş kararları. **Azure kullanımı** sayfasındaki ölçümleri, daha fazla ilgilenilmesi gereken başarıları ve alanlarınızı belirlemek için kullanın. Yeni iş hedeflerini planlarken bu bilgileri kullanın.
 
-**Azure kullanımına** ulaşmak Için Iş Ortağı Merkezi [panosunda](https:/partner.microsoft.com/dashboard)oturum açın. Iş Ortağı Merkezi menüsünden **analiz** ' ı seçin ve ardından **Azure kullanımı** ' nı seçin.
+**Azure kullanımına** ulaşmak Için Iş Ortağı Merkezi [panosunda](https://partner.microsoft.com/dashboard)oturum açın. Iş Ortağı Merkezi menüsünden **analiz** ' ı seçin ve ardından **Azure kullanımı**' nı seçin.
 
 > [!NOTE]
 > Azure Kullanım Analizi yalnızca bulut çözümü sağlayıcısı programındaki iş ortakları için kullanılabilir.
@@ -41,9 +41,9 @@ Aşağıdaki ölçümleri izliyoruz:
 
 ## <a name="summary"></a>Özet
 
-- **Satılan toplam Azure aboneliği** : belirtilen dönemde satılan abonelik sayısı  
-- **Kullanım olan müşteriler** : belirtilen dönemde Azure kullanımı olan müşteri sayısı  
-- **Kullanım olmayan müşteriler** : belirtilen dönemde Azure kullanımı olmayan müşterilerin sayısı  
+- **Satılan toplam Azure aboneliği**: belirtilen dönemde satılan abonelik sayısı  
+- **Kullanım olan müşteriler**: belirtilen dönemde Azure kullanımı olan müşteri sayısı  
+- **Kullanım olmayan müşteriler**: belirtilen dönemde Azure kullanımı olmayan müşterilerin sayısı  
 
 ## <a name="top-5-customers-in-category"></a>Kategoride ilk 5 müşteri
 
@@ -59,8 +59,8 @@ Bu bölüm, Azure aboneliklerine yönelik tahmini dalgalanma riskini gösterir. 
 
 ## <a name="azure-subscription-churn"></a>Azure aboneliği karmaşıklığı
 
-- **Etkin Abonelikler** : tarihe göre etkin abonelik sayısı  
-- Sağlaması **kaldırılmış abonelikler** : tarihe göre sağlanan veya askıya alınan abonelik sayısı  
+- **Etkin Abonelikler**: tarihe göre etkin abonelik sayısı  
+- Sağlaması **kaldırılmış abonelikler**: tarihe göre sağlanan veya askıya alınan abonelik sayısı  
 
 ## <a name="customer-count"></a>Müşteri sayısı
 
