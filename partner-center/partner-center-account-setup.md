@@ -9,18 +9,18 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 81ca02a0fb93f88893e7339d63deec55b6913d9c
-ms.sourcegitcommit: f34f2f69e6df4f260479a205d94010cf47987ff2
+ms.openlocfilehash: 45b924fa9143d1b4947e5b88c2e14c41c4451d19
+ms.sourcegitcommit: 7beb7327472dc1b0c07c101d121196fb2830bbf8
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 11/25/2020
-ms.locfileid: "96038930"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96438995"
 ---
 # <a name="manage-your-partner-center-account---company-profile-bank-information-roles-permissions-and-more"></a>Iş Ortağı Merkezi hesabınızı, şirket profilinizi, banka bilgilerini, rolleri, izinleri ve daha fazlasını yönetin
 
-Kayıt sırasında iş e-postanız ve iş bilgileriniz olduğunda iş ortağı merkezi 'nde oluşturduğunuz hesap. Hesap oluşturduktan sonra, destek ayrıntıları, uygunsa dosya vergi muafiyetleri ve birincil iletişim bilgileri dahil olmak üzere şirketinizin tam profilini ayarlamayı tamamlayacaksınız. Şirketinizin hesabı, müşteri ekleme veya yönetme, abonelik satma, faturalandırma ve faturalama ile çalışma, iş profilleri oluşturma, başvuruları yönetme, teşvikleri programlarıyla çalışma ve destek sağlama için iş ortağı merkezini kullanacak kişiler için Kullanıcı hesapları da içerir.
-
 **Uygun roller** – genel yönetici, MPN Yöneticisi
+
+Kayıt sırasında iş e-postanız ve iş bilgileriniz olduğunda iş ortağı merkezi 'nde oluşturduğunuz hesap. Hesap oluşturduktan sonra, destek ayrıntıları, uygunsa dosya vergi muafiyetleri ve birincil iletişim bilgileri dahil olmak üzere şirketinizin tam profilini ayarlamayı tamamlayacaksınız. Şirketinizin hesabı, müşteri ekleme veya yönetme, abonelik satma, faturalandırma ve faturalama ile çalışma, iş profilleri oluşturma, başvuruları yönetme, teşvikleri programlarıyla çalışma ve destek sağlama için iş ortağı merkezini kullanacak kişiler için Kullanıcı hesapları da içerir.
 
 Ayrıca bkz. makalelere [çalışanları Iş ortağı merkezine katılmaya davet etme](guide-to-migration.md) ve [Yeni bir kullanıcı ekleme](create-user-accounts-and-set-permissions.md).
 

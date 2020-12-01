@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 04/01/2020
-ms.openlocfilehash: 1f73dc184ba38647061bf63dd573d8dc2e088ba3
-ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
+ms.openlocfilehash: cf83cd6eedf982a416f683fa1767e7afa23200c1
+ms.sourcegitcommit: 7beb7327472dc1b0c07c101d121196fb2830bbf8
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "93133006"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96439136"
 ---
 # <a name="april-2020-announcements"></a>Nisan 2020 duyuruları
 
@@ -30,8 +30,8 @@ _________________
 
 - Tarih: 2020-04-30
 - Tür: yetenekler
-- Durum: çok yakında
-- [Daha fazla bilgi](https://aka.ms/CSPCOVIDPromo)
+
+
 
 ### <a name="summary"></a>Özet
 
@@ -49,7 +49,7 @@ Microsoft, 4 Mayıs 2020 ' de, yeni müşteriler için aylık faturalandırılan
 Bu yükseltmeler, geçerli Office 365 E1 deneme teklifini değiştirecek ve aşağıdaki yollarla farklılık gösterir:
 
 - İş ortakları yıllık Office 365 E1 veya Microsoft 365 İş temel SKU 'Ları, benzersiz bir 6 aylık deneme SKU 'SU yerine ilk 6 ay boyunca %100 indirimi uygulayan bir CSP promosyon özelliğinden yararlanarak kullanacaktır. [CSP yükseltmeleri hakkında daha fazla bilgi edinin](../promotions.md).
-- Sipariş, yalnızca yazılı ilke aracılığıyla yeni müşterilerle kısıtlanan Office 365 E1 deneme sürümü yerine "yalnızca yeni müşteriler" ile kısıtlanır. [Microsoft Iş ortağı SSS 'sini](https://aka.ms/CSPCOVIDPromo)inceleyerek daha fazla bilgi edinin.
+- Sipariş, yalnızca yazılı ilke aracılığıyla yeni müşterilerle kısıtlanan Office 365 E1 deneme sürümü yerine "yalnızca yeni müşteriler" ile kısıtlanır. 
 - SMB müşterileri için Microsoft 365 İş temel, bu yükseltmeye dahil edilecek. Bu, iş ortaklarının, en Microsoft 365 iş için doğru ürün ailesinde 300 ' den az lisans vererek müşterileri başlatabilmesini sağlar.
 Şu anda Office 365 E1 ile lisanslanan müşteriler (4 Mayıs 2020 tarihine kadar kullanılabilir) geçerli planda kalacaktır. bu değişiklik yalnızca net yeni müşterileri etkiler.
 
@@ -58,12 +58,13 @@ Yeni müşterilerin tanımı
 Bu promosyon için uygun olan yeni müşteriler şunlardır:
 
 1. NET yeni müşteri kiracılar
-2. [Microsoft Iş ortağı hakkında sık sorulan sorular (SSS) kılavuzunda](https://aka.ms/CSPCOVIDPromo)tanımlanan ürünlerden herhangi biri için kiracının Şu anda ücretli veya en son iptal edilme (son 30 gün içinde) abonelik olmayan mevcut müşteriler.
+2. Microsoft Iş ortağı hakkında sık sorulan sorular (SSS) kılavuzunda tanımlanan ürünlerden herhangi biri için kiracının henüz ücretli veya en son iptal edilme (son 30 gün içinde) aboneliği olmayan mevcut müşteriler
 
+ 
 ### <a name="additional-resources"></a>Ek kaynaklar
 
 - Güvenli uzak Iş hakkında daha fazla bilgi edinmek için iş [ortağı uzak Iş kaynakları merkezini](https://www.microsoft.com/microsoft-365/partners/remotework) ziyaret edin.
-- [Ilgili Iş ortağı SSS](https://aka.ms/CSPCOVIDPromo)bölümünde bu değişiklikler hakkında daha fazla bilgi edinin.
+
 
 ### <a name="next-steps"></a>Sonraki adımlar
 
@@ -82,7 +83,7 @@ _________________
 - Tarih: 2020-04-29
 - Tür: yetenekler
 - Durum: şimdi kullanılabilir
-- [Daha fazla bilgi](https://partner.microsoft.com/resources/collection/customer-permission-to-purchase#/)
+- [Daha fazla bilgi edinin](https://partner.microsoft.com/resources/collection/customer-permission-to-purchase#/)
 
 ### <a name="impacted-audience"></a>Etkilenen hedef kitle
 
@@ -117,7 +118,7 @@ _________________
 - Tarih: 2020-04-24
 - Tür: teklifler/pazarlar
 - Durum: şimdi kullanılabilir
-- [Daha fazla bilgi](https://flow.microsoft.com/ui-flows/)
+- [Daha fazla bilgi edinin](https://flow.microsoft.com/ui-flows/)
 
 ### <a name="summary"></a>Özet
 
@@ -154,7 +155,7 @@ _________________
 - Tarih: 2020-04-23
 - Tür: yetenekler
 - Durum: çok yakında
-- [Daha fazla bilgi](https://partner.microsoft.com/resources/collection/partner-security-requirements#/)
+- [Daha fazla bilgi edinin](https://partner.microsoft.com/resources/collection/partner-security-requirements#/)
 
 ### <a name="target-partner-audiences"></a>Hedef iş ortağı izleyicileri
 
@@ -168,11 +169,11 @@ Daha büyük ve sürekli güvenlik ve gizlilik korumaları, en iyi önceliklerim
 
 Son olarak, tüm iş ortağı kiracılarına yönelik yönetici adına yönetici (AOBO) özellikleri için güvenlik korumalarının etkinleştirilmesi, işletmelerinin ve müşterilerinin kimlik hırsızlığına karşı ilgili olaylardan korunmasıyla başarılı bir şekilde tamamlandı.
 
-İş ortakları ve müşterilerin savunmasına ek olarak, **1 mayıs 2020 ' den itibaren, CSP 'de Iş Ortağı Merkezi işlemlerine yönelik korumaları etkinleştirmeye başlayacağız** . Ek güvenlik korumalarının etkinleştirilmesi, iş ortaklarının, Iş Ortağı Merkezi kullanıcı deneyimi veya API 'Leri kullanılarak CSP 'deki herhangi bir işlem için Multi-Factor Authentication (MFA) kullanmak, yetkisiz erişimi önlemek ve kimlik hırsızlığı ile ilgili güvenlik olaylarından müşterileri ve kiracılarını korumak için gerekli olduğu anlamına gelir. Ayrıntılar hakkında daha [fazla bilgi edinin](../partner-security-requirements-mandating-mfa.md).
+İş ortakları ve müşterilerin savunmasına ek olarak, **1 mayıs 2020 ' den itibaren, CSP 'de Iş Ortağı Merkezi işlemlerine yönelik korumaları etkinleştirmeye başlayacağız**. Ek güvenlik korumalarının etkinleştirilmesi, iş ortaklarının, Iş Ortağı Merkezi kullanıcı deneyimi veya API 'Leri kullanılarak CSP 'deki herhangi bir işlem için Multi-Factor Authentication (MFA) kullanmak, yetkisiz erişimi önlemek ve kimlik hırsızlığı ile ilgili güvenlik olaylarından müşterileri ve kiracılarını korumak için gerekli olduğu anlamına gelir. Ayrıntılar hakkında daha [fazla bilgi edinin](../partner-security-requirements-mandating-mfa.md).
 
 ### <a name="next-steps"></a>Sonraki adımlar
 
-- **Kiracınızı ve kullanıcılarınızı korumak için önerilen güvenlik gereksinimlerini etkinleştirmediyseniz** , lütfen hemen devam edın ve CSP 'de müşterileri veya deneyimidir yönetme konusundaki tüm iş kesintilerini önleyin. Güvenlik gereksinimlerini uygulamayan iş ortakları, risk altında CSP programına katılımını uygulayabilir.
+- **Kiracınızı ve kullanıcılarınızı korumak için önerilen güvenlik gereksinimlerini etkinleştirmediyseniz**, lütfen hemen devam edın ve CSP 'de müşterileri veya deneyimidir yönetme konusundaki tüm iş kesintilerini önleyin. Güvenlik gereksinimlerini uygulamayan iş ortakları, risk altında CSP programına katılımını uygulayabilir.
 - Dolaylı sağlayıcılar, kendi işletmeleri için bu güvenlik gereksinimlerini uygulamalıdır ve bu e-posta şablonunu kullanmanın yanı sıra gereksinimleri de gerçekleştirdiklerinden emin olmak için satıcılarla birlikte çalışır. Ayrıca, e-posta iletişimleri aracılığıyla satıcılarınızla doğrudan iletişime geçebiliriz.
 - İlerleme durumunu ve yapılacak anahtar eylemlerinizi belirlemek için [Iş Ortağı Merkezi güvenlik gereksinimleri durum sayfasını](https://partner.microsoft.com/commerce/security/compliance) ziyaret edin. Kiracılarınızın her biri için düzenli olarak güvenlik gereksinimlerinizin ilerlemesini denetlemek için genel yöneticinizle birlikte çalışın.
 - Bir denetim masası satıcısı (CPV) çözümü kullanıyorsanız, lütfen CPV 'nize danışın.
@@ -303,7 +304,7 @@ _________________
 - Tarih: 2020-04-14
 - Tür: yetenekler
 - Durum: çok yakında
-- [Daha fazla bilgi](https://flow.microsoft.com/ui-flows/)
+- [Daha fazla bilgi edinin](https://flow.microsoft.com/ui-flows/)
 
 ### <a name="summary"></a>Özet
 
@@ -389,7 +390,7 @@ _________________
 - Tarih: 2020-04-10
 - Tür: teklifler/pazarlar
 - Durum: şimdi kullanılabilir
-- [Daha fazla bilgi](https://flow.microsoft.com/ui-flows/)
+- [Daha fazla bilgi edinin](https://flow.microsoft.com/ui-flows/)
 
 ### <a name="summary"></a>Özet
 
@@ -513,7 +514,7 @@ _________________
 - Tarih: 2020-04-06
 - Tür: teklifler/pazarlar
 - Durum: şimdi kullanılabilir
-- [Daha fazla bilgi](https://partner.microsoft.com/resources/collection/partner-security-requirements#/)
+- [Daha fazla bilgi edinin](https://partner.microsoft.com/resources/collection/partner-security-requirements#/)
 
 ### <a name="summary"></a>Özet
 
@@ -589,7 +590,7 @@ _________________
 - Tarih: 2020-04-03
 - Tür: yetenekler
 - Durum: şimdi kullanılabilir
-- [Daha fazla bilgi](https://partner.microsoft.com/resources/collection/readiness-in-one-place#/)
+- [Daha fazla bilgi edinin](https://partner.microsoft.com/resources/collection/readiness-in-one-place#/)
 
 ### <a name="impacted-audience"></a>Etkilenen hedef kitle
 - Tüm CSP iş ortakları
@@ -621,7 +622,7 @@ Partner.microsoft.com üzerindeki işlem hazırlığı kaynak konumu, geçerli C
 Hazırlanmak için ne yapmanız gerekir?
 
 - Galeri koleksiyonundaki güncelleştirilmiş hazırlık malzemelerini gözden geçirerek [,](https://partner.microsoft.com/resources/collection/readiness-in-one-place#/)işlem hazırlık kaynakları Için yeni Microsoft iş ortağı web sitesi konumu hakkında **daha fazla bilgi edinin** .
-- Yeni deneyim hakkında daha fazla bilgi edinmek ve soru sormak için **bir Nisan iş ortağı topluluk çağrısına katılın** : [https://globalpbocomm.eventbuilder.com/GlobalCSP](https://globalpbocomm.eventbuilder.com/GlobalCSP)
+- Yeni deneyim hakkında daha fazla bilgi edinmek ve soru sormak için **bir Nisan iş ortağı topluluk çağrısına katılın** :[https://globalpbocomm.eventbuilder.com/GlobalCSP](https://globalpbocomm.eventbuilder.com/GlobalCSP)
 
 ### <a name="questions"></a>Sorularınız mı var?
 
@@ -643,7 +644,7 @@ _________________
 - Tarih: 2020-04-01
 - Tür: teklifler/pazarlar
 - Durum: şimdi kullanılabilir
-- [Daha fazla bilgi](https://partner.microsoft.com/resources/collection/microsoft_365_business_voice_in_csp#/)
+- [Daha fazla bilgi edinin](https://partner.microsoft.com/resources/collection/microsoft_365_business_voice_in_csp#/)
 
 ### <a name="summary"></a>Özet
 
@@ -736,7 +737,7 @@ _________________
 - Tarih: 2020-04-01
 - Tür: yetenekler
 - Durum: şimdi kullanılabilir
-- [Daha fazla bilgi](https://partner.microsoft.com/resources/collection/new-microsoft-cloud-agreement-csp)
+- [Daha fazla bilgi edinin](https://partner.microsoft.com/resources/collection/new-microsoft-cloud-agreement-csp)
 
 ### <a name="impacted-audience"></a>Etkilenen hedef kitle
 Tüm CSP iş ortakları.

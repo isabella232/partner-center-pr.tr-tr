@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 11/02/2020
-ms.openlocfilehash: d3057dc50ce1df4e4dbe1d3821904326b452e7cf
-ms.sourcegitcommit: 245b4792e8221468f781f6effd1c9b23be05499a
+ms.openlocfilehash: 0c8bf1c31a2662d5dcf65eed40e9c4f82c2ee80b
+ms.sourcegitcommit: 7beb7327472dc1b0c07c101d121196fb2830bbf8
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 11/24/2020
-ms.locfileid: "95514750"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96439091"
 ---
 # <a name="november-2020-announcements"></a>Kasım 2020 duyuruları
 
@@ -30,7 +30,7 @@ ______________
 - Tarih: 2020-11-24
 - Özellikler
 
-## <a name="summary"></a>Özet
+### <a name="summary"></a>Özet
 
 Microsoft, bulut çözümü sağlayıcısı programındaki iş ortaklarının Iş Ortağı Merkezi 'nde ölçülen faturalandırma sayesinde SaaS teklifleri satın almasını sağlar. 
 
@@ -46,8 +46,7 @@ Microsoft, dolaylı sağlayıcılar ve doğrudan fatura ortakları dahil olmak �
 
 Bu bilgileri şirketinizdeki ilgili tüm kişilerle paylaşabilirsiniz.
 
-
-
+______________
 
 ## <a name="new-unified-account-management-experience"></a><a name="13"></a>Yeni, Birleşik hesap yönetimi deneyimi
 
@@ -56,7 +55,7 @@ Bu bilgileri şirketinizdeki ilgili tüm kişilerle paylaşabilirsiniz.
 - Tarih: 2020-11-18
 - Özellikler
 
-## <a name="summary"></a>Özet
+### <a name="summary"></a>Özet
 
 18 Kasım 'Dan itibaren Iş Ortağı Merkezi, iş ortakları için Kullanıcı deneyimini geliştiren yeni hesap yönetimi deneyimini kullanıma sunulacaktır. Artık iş ortakları, tüm programlar hesabını ayarlar-> hesap ayarlarından yönetebilecektir.
 
@@ -84,8 +83,7 @@ Iş Ortağı Merkezi panosunda oturum açın ve ardından  **Ayarlar**   sim
 
 Bu bilgileri şirketinizdeki ilgili tüm kişilerle paylaşabilirsiniz.
 
-
-
+______________
 
 ## <a name="office-365-e1-for-mid-market-promo-latam-apac-and-india"></a><a name="12"></a>Orta ölçekli promosyon için Office 365 E1 (LATAM, APAC ve Hindistan)
 
@@ -113,6 +111,7 @@ Bu işlem 1 Aralık 'ta kullanılabilir. Bu arada, lütfen bu bilgileri kuruluş
 
 ### <a name="questions"></a>Sorularınız mı var?
 Lütfen herhangi bir soru, sorgu veya daha fazla bilgi için [Iş Ortağı Merkezi desteğiyle](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?category=csp) iletişime geçin.
+
 ______________
 
 ## <a name="partner-center-api-updates-and-user-interface-ui-enhancements-to-strengthen-customer-screening-in-certain-countries"></a><a name="11"></a>Belirli ülkelerde müşteri filtrelemelerine karşı iş ortağı merkezi API güncelleştirmeleri ve Kullanıcı arabirimi (UI) geliştirmeleri
@@ -254,8 +253,6 @@ Avrupa Birliği (AB)/Avrupa Serbest Ticaret Birliği (EFTA) bölgesinde, bulut �
 
 2021 Ocak 'tan başlayarak yeni ticaret teklifleri satın alan iş ortakları, iş ortağı konumu para birimi 'nde bu Satınalmalar için faturalandırılır. CSP 'de zaten yeni ticaret teklifleri satın almış mevcut müşterileri olan iş ortakları, bu aşamada müşterinin faturalandırma konumunun para birimi cinsinden faturalandırılmaya devam edecektir. 
 
- 
-
 - **2. Aşama: CSP 'de Ocak 2021 ' den önce yeni bir ticaret teklifi satın alan mevcut müşteriler** 
 
 Aşağıdaki 1. aşama ve takvim yılı 2021 sırasında, Microsoft, 2021 CSP 'de, müşteri konumu para biriminden iş ortağı konum para birimine kadar olan yeni bir ticaret teklifi satın alan mevcut müşterilerle iş ortakları için yeni ticaret tekliflerinin faturalandırmasını geçirmeye çalışacak. Bu değişiklik uygulanmadan önce iş ortaklarına önceden bildirim alınacaktır.  
@@ -279,6 +276,8 @@ Bu değişiklik için kapsamdaki yeni ticaret teklifleri şunlardır: Azure plan
 ### <a name="resources"></a>Kaynaklar 
 
 [Operations Gallery] ( https://partner.microsoft.com/resources/collection/eu-efta-changes-collection#/ Microsoft iş ortağı web sitesinde) bu konuyla ilgili bilgileri gözden geçirin.  
+
+______________
 
 ## <a name="api-throttling-to-partners-calling-partner-center-apis"></a><a name="9"></a>Iş Ortağı Merkezi API 'Lerini çağıran iş ortaklarına API daraltma
 
@@ -310,7 +309,7 @@ Microsoft, Iş Ortağı Merkezi API 'Lerini çağıran iş ortakları için bir 
 |-------------------------|----------------------------------|
 |{baseURL}/v1/Customers/{customer_id}/abonelikler|[Müşterinin aboneliklerinin tümünü alın](https://docs.microsoft.com/partner-center/develop/get-all-of-a-customer-s-subscriptions)|  
 |{baseURL}/v1/Customers/{customer_id}/Subscriptions/{subscription_id}|[KIMLIĞE göre abonelik al](https://docs.microsoft.com/partner-center/develop/get-a-subscription-by-id) | 
-|{baseURL}/v1/Customers/{customer_id}/Orders||[Müşterinin siparişlerinin tümünü alın](https://docs.microsoft.com/artner-center/develop/get-all-of-a-customer-s-orders)|  
+|{baseURL}/v1/Customers/{customer_id}/Orders||[Müşterinin siparişlerinin tümünü alın](https://docs.microsoft.com/partner-center/develop/get-all-of-a-customer-s-orders)|  
 |{baseURL}/v1/Customers/{customer_id}/Orders/{order_id}|[Bir siparişi KIMLIĞE göre al](https://docs.microsoft.com/partner-center/develop/get-an-order-by-id)|  
 |{baseURL}/v1/Customers/{customer_id}/Orders/{order_id}/provisioningstatus|[Abonelik sağlama durumunu al](https://docs.microsoft.com/partner-center/develop/get-subscription-provisioning-status)|  
 |{baseURL}/v1/Customers/{customer_id}/Subscriptions/{subscription_id}|[Siparişleri yönetme ve bir aboneliği yönetme](https://docs.microsoft.com/partner-center/develop/manage-orders#manage-a-subscription)| 
@@ -328,7 +327,7 @@ Bu duyuru, gelecekteki değişikliklerin önceden farkında olmadan iş ortaklar
 
 [API azaltma kılavuzunu](https://docs.microsoft.com/partner-center/develop/api-throttling-guidance)gözden geçirin ve gerekli adımları uygulayın. 
 
-
+______________
 
 ## <a name="409-errors-due-to-duplicate-mca-requests"></a><a name="8"></a>Yinelenen MCA istekleri nedeniyle 409 hata oluştu
 
@@ -365,8 +364,7 @@ Bu duyuru, gelecekteki değişikliklerin önceden farkında olmadan iş ortaklar
 
 - Bu bilgileri, bu değişikliklere hazırlanmalarına yardımcı olmak için kuruluşunuzdaki uygun ekiplerle paylaşabilirsiniz.
 
-
->>>>>>> b9adba1905026516f3b9d15ff488d1c383af219b
+______________
 
 ## <a name="testing-available-partner-center-api-and-user-interface-ui-enhancements-for-the-education-customer-validation-process"></a><a name="7"></a>Test kullanılabilir: eğitim müşterisi doğrulama işlemi için Iş Ortağı Merkezi API 'SI ve Kullanıcı arabirimi (UI) geliştirmeleri
 
@@ -405,17 +403,17 @@ Bu geliştirmelere ek olarak, FY21 S2 'de bunu duyurmaktan mutluluk duyuyoruz, k
 
 Microsoft, herhangi bir müşterinin veya önerilen müşterinin durumunu tam eğitim kullanıcısı olarak gözden geçirme hakkını saklı tutar. Tüm ayrıntılar için [akademik nitelikli eğitim Kullanıcı gereksinimlerine](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7) bakın.
 
-## <a name="next-steps"></a>Sonraki adımlar
+### <a name="next-steps"></a>Sonraki adımlar
 
-Yeni Iş Ortağı Merkezi kullanıcı arabirimi ve API değişikliklerinin yanı sıra [Iş Ortağı Merkezi eğitimi müşteri doğrulama işlemi geliştirmeleri içerik koleksiyonundaki](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/) test Kılavuzu ' nu gözden geçirin.
+- Yeni Iş Ortağı Merkezi kullanıcı arabirimi ve API değişikliklerinin yanı sıra [Iş Ortağı Merkezi eğitimi müşteri doğrulama işlemi geliştirmeleri içerik koleksiyonundaki](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/) test Kılavuzu ' nu gözden geçirin.
 
-• Teste katılmak için kaydolun. (Ayrıntılar için bkz. [Test Kılavuzu](https://partner.microsoft.com/resources/detail/partner-center-edu-testing-guide-pdf) .) 
+- Teste katılmak için kaydolun. (Ayrıntılar için bkz. [Test Kılavuzu](https://partner.microsoft.com/resources/detail/partner-center-edu-testing-guide-pdf) .) 
 
-• Kuruluşunuzun [akademik eğitim Kullanıcı gereksinimlerine uygun](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7)olduğundan emin olun. 
+- Kuruluşunuzun [akademik eğitim Kullanıcı gereksinimlerine uygun](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7)olduğundan emin olun. 
 
-• Bu bilgileri, bu değişikliklere hazırlanmalarına yardımcı olmak için satıcılarınızla birlikte kuruluşunuzun içindeki uygun ekiplerle birlikte paylaşabilirsiniz.
+- Bu bilgileri kuruluşunuzdaki uygun takımlarla ve bu değişikliklere hazırlanmalarına yardımcı olmak için satıcılarınızla birlikte paylaşabilirsiniz.
 
-
+______________
 
 ## <a name="expanding-commercial-licensing-partner-content-on-the-operations-readiness-gallery"></a><a name="6"></a>Işlem hazırlığı galerisinde ticari lisanslama iş ortağı içeriğini genişletme
 
@@ -483,7 +481,7 @@ Premium teklifle, müşteriler, uzmanların müşteri adına toplantı odaların
 #### <a name="microsoft-teams-rooms-managed-services"></a>Microsoft ekipleri Oda Yönetimli hizmetler
 
 - Proaktif Yönetim: ek düzeltme, yapılandırma yönetimi ve daha fazlasını içeren oda sistemlerinizde 24x7x365 yönetimi.
-• Gerçek zamanlı izleme ve kök neden analizi: Microsoft tarafından, gerektiğinde müşteriyle koordine ederek düzenlenmiş olay yönetimi yanıtı ile Izleme ve algılama. Mobil uygulama,-go 'da uyarı almanıza olanak sağlar.
+- Gerçek zamanlı izleme ve kök neden analizi: Microsoft tarafından, gerektiğinde müşteriyle koordine ederek düzenlenmiş olay yönetimi yanıtı ile Izleme ve algılama. Mobil uygulama,-go 'da uyarı almanıza olanak sağlar.
 - Yönetilen güncelleştirmeler: uygulama, Windows KB ve bellenim güncelleştirmelerinin yönetimi ve teslimi.
 - Güvenlik tehdit koruması: Microsoft Defender Gelişmiş tehdit koruması aracılığıyla güvenlik tehdidi koruması.
 - Müşteri desteği: otomatik olmayan durumlar için yardımlı olay düzeltme ile adanmış hizmet işlem merkezimiz aracılığıyla 24x7x365 bilet desteği. Ayrıntılı rol tabanlı erişim denetimi.
