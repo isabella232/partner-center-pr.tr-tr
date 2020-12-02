@@ -9,19 +9,15 @@ author: parthp
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4fabdc52056b4b4bd9fe612dfa2d299a357be213
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: 316fee641e321311c13e29a01f2e9091c69e67a6
+ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "92531131"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96474283"
 ---
 # <a name="partner-center-has-two-levels-of-accounts-for-mpn-partners"></a>İş Ortağı Merkezi 'nin MPN iş ortakları için iki hesap düzeyi vardır
 
-**Uygulama hedefi**
-
-- İş Ortağı Merkezi
-- MPN iş ortakları
 
 **Uygun roller**
 
@@ -34,7 +30,7 @@ ms.locfileid: "92531131"
 ## <a name="the-top-level-is-the-partner-global-account-pga"></a>En üst düzey ortak genel hesaptır (PGA).
 
 - Ortak küresel hesap, şirketinizin geçerli iş adresini ve birincil ilgili kişisini içerir. 
-- İş ortağı genel hesabınızın ayrıntılarını **Ayarlar**  ->  **kuruluş profili** , **yasal profil** ' ten görüntüleyin.
+- İş ortağı genel hesabınızın ayrıntılarını **Ayarlar**  ->  **kuruluş profili**, **yasal profil**' ten görüntüleyin.
 - Ayrıntılar Iş ortağı küresel hesap MPN KIMLIĞINI de içerir. 
 - PGA, şirketinizin üst öğesidir ve teşvikleri programları veya bulut çözümü sağlayıcısı ile ilişkilendirmek için kullanılmaz. 
 - Bu tür ilişkilendirmeler için konumlar kullanılmalıdır.

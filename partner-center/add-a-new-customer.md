@@ -9,20 +9,15 @@ author: parthp
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: b60ea73bc5fa7c4a25c61aa9651c303aa5087faf
-ms.sourcegitcommit: 940dad4527f51781f6f966e196b3aa08389613a2
+ms.openlocfilehash: 85a1e7c456435b56c76ebbeb8c2e526773dbe236
+ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "92531855"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96474266"
 ---
 # <a name="how-to-add-a-new-customer-record-in-partner-center"></a>Iş Ortağı Merkezi 'ne yeni bir müşteri kaydı ekleme
 
-**Uygulama hedefi**
-
-- İş Ortağı Merkezi
-- ABD kamu için Microsoft Bulut iş ortağı Merkezi
-- Bulut çözümü sağlayıcısı program iş ortakları
 
 **Uygun roller**
 
@@ -31,14 +26,14 @@ ms.locfileid: "92531855"
 - Yönetim Aracısı
 - Satış Aracısı
 
-Bu makalede, Iş Ortağı Merkezi 'nde müşteri listenize yeni bir müşteri ekleme konusu açıklanmaktadır. Abonelikleri satmadan, faturalandırmayı yönetebilmeniz veya bir müşteriye destek sağlayabilmeniz için önce bu adımları izleyin.
+Bu makalede, Iş Ortağı Merkezi 'nde müşteri listenize yeni bir müşterinin nasıl ekleneceği açıklanmaktadır. Bu adımlar, abonelikleri satmadan, faturalandırmayı yönetebilmeniz veya bir müşteriye destek sağlayabilmeniz için gereklidir.
 
 >[!NOTE]
->Mevcut müşteriler için, Iş Ortağı Merkezi 'nde zaten bir [çok kanallı](multichannel.md) veya [çok iş ortağı](multipartner.md) senaryosu aracılığıyla müşteri kayıtlarına sahip olanlar da dahil olmak üzere buradaki adımları takip etmek yerine [bunlarla bir ilişki isteyebilirsiniz](request-a-relationship-with-a-customer.md).
+>Mevcut müşteriler için, Iş Ortağı Merkezi 'nde zaten bir [çok kanallı](multichannel.md) veya [çok iş ortağı](multipartner.md) senaryosu aracılığıyla müşteri kayıtlarına sahip olanlar da dahil olmak üzere buradaki adımları takip etmek yerine [bunlarla bir ilişki istemeniz](request-a-relationship-with-a-customer.md)gerekir.
 
 ## <a name="to-add-a-new-customer-in-partner-center"></a>İş Ortağı Merkezi'nde yeni müşteri eklemek için
 
-1. Iş Ortağı Merkezi menüsünden **müşteriler** ' i seçin ve ardından **Müşteri Ekle** ' yi seçin.
+1. Iş Ortağı Merkezi menüsünden **müşteriler** ' i seçin ve ardından **Müşteri Ekle**' yi seçin.
 
 2. **Hesap bilgileri** sayfasında müşterinin ayrıntılarını ve birincil iletişim bilgilerini girin. Müşterinin en son [Microsoft Müşteri anlaşmasını](agreements.md)kabul ettiğini ve imzaladığı konusunda da emin olun.
 
@@ -58,7 +53,7 @@ Bu makalede, Iş Ortağı Merkezi 'nde müşteri listenize yeni bir müşteri ek
 
 4. **İleri ' yi seçin:** tüm gerekli bilgileri girmeyi bitirdiğinizde abonelikler.
 
-5. **Abonelikler** sayfasında, müşterinizin satın almak istediği teklifleri seçin, lisansların sayısını girin ve ardından **Ileri: gözden geçir** ' i seçin.
+5. **Abonelikler** sayfasında, müşterinizin satın almak istediği teklifleri seçin, lisansların sayısını girin ve ardından **Ileri: gözden geçir**' i seçin.
 
 6. **İnceleme** sayfasında, girişlerinizi doğruluk açısından denetleyin ve daha sonra bilgiler doğruysa **Gönder** ' i seçin.
 

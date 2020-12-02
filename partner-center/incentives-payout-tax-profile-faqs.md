@@ -1,25 +1,21 @@
 ---
 title: Teşvikleri ödeme ve vergi profili SSS
 ms.topic: article
-ms.date: 10/27/2020
+ms.date: 12/01/2020
 description: Teşvikleri ödeme ve vergi profilleri hakkında sık sorulan sorular. Sorular, ödeme ve vergi profillerinizi neden göremediğiniz ve bunun hakkında ne yapacaklarınızın yanı sıra bu nedir?
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 7fae97fb1a527ab557d76bd3b5fd738315271899
-ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
+ms.openlocfilehash: d7a5e5ae5fa8bd23c3158efe7c0880f67544f9b9
+ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "93133142"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96474334"
 ---
 # <a name="frequently-asked-questions-regarding-incentives-payout-and-tax-profiles"></a>Teşvikleri ödeme ve vergi profilleri hakkında sık sorulan sorular
-
-Aşağıdakiler cihazlar için geçerlidir:
-
-- İş Ortağı Merkezi
 
 Uygun roller:
 
@@ -53,9 +49,9 @@ Yalnızca MPN konumunuzun teşvik yöneticileri ödeme ve vergi profillerini olu
 
 2. Dişli simgesini seçerek **Ayarlar** menüsünü açın.
 
-3. **Iş ortağı ayarları** ' nı seçin.
+3. **Iş ortağı ayarları**' nı seçin.
 
-4. **Hesap ayarları** ’nın altında **Ödeme ve vergi** ’yi seçin ve sonra da **Ödeme ve vergi profili** ’ni seçin. Mevcut tüm ödeme ve vergi profilleriyle birlikte durumu ve düzenleme olanağını görürsünüz.
+4. **Hesap ayarları**’nın altında **Ödeme ve vergi**’yi seçin ve sonra da **Ödeme ve vergi profili**’ni seçin. Mevcut tüm ödeme ve vergi profilleriyle birlikte durumu ve düzenleme olanağını görürsünüz.
 
 ## <a name="my-organization-is-participating-in-multiple-incentive-programs-do-i-need-to-provide-my-payment-and-tax-profile-multiple-times"></a>Kuruluşum birden çok teşvik programlarına katılıyor. Ödemem ve vergi profilimi birden çok kez sağlamalı mıyım?
 
@@ -77,7 +73,7 @@ Bir vergi profilinin kullanım süresini dolmuşsa veya kullanım süreleri dola
 
 2. Dişli simgesini seçerek **Ayarlar** menüsünü açın.
 
-3. **Hesap ayarları** ’nın altında **Ödeme ve vergi** ’yi seçin ve sonra da **Ödeme ve vergi profili** ’ni seçin.
+3. **Hesap ayarları**’nın altında **Ödeme ve vergi**’yi seçin ve sonra da **Ödeme ve vergi profili**’ni seçin.
 
 4. **Vergi profilini** seçin.
 
@@ -85,7 +81,9 @@ Bir vergi profilinin kullanım süresini dolmuşsa veya kullanım süreleri dola
 
 6. Vergi profili düzenleme işlemini başlatmak için **Düzenle** ' yi seçin.
 
-7. Gerekli ayrıntıları sağlayarak vergi formlarını güncelleştirin.
+7. **Vergi formu** bölümünü bulun ve ardından **vergi formunu Başlat**' ı seçin.
+
+8. Gerekli ayrıntıları sağlayarak vergi formlarını güncelleştirin.
 
 ## <a name="how-does-microsoft-ensure-that-the-bank-information-is-indeed-that-of-the-company-and-not-a-personal-bank-account-for-an-employee"></a>Microsoft, banka bilgilerinin bir çalışana ait kişisel banka hesabı değil, şirketin şirket için mi olduğunu nasıl güvence altına veriyor?
 

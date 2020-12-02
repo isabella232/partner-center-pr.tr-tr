@@ -9,19 +9,14 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 53aa25ab0c318efde13788013df09d003b234347
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 7b6c5f1f6d86398ab65e60a498614bfc9f42976e
+ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92531579"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96474232"
 ---
 # <a name="add-licenses-or-more-services-to-a-customers-subscription"></a>Müşterinin aboneliğine lisans veya daha fazla hizmet ekleme
-
-**Uygulama hedefi**
-
-- İş Ortağı Merkezi
-- Bulut çözümü sağlayıcısı program iş ortakları
 
 **Uygun roller**
 
@@ -35,7 +30,7 @@ Müşterinizin geçerli aboneliğinden daha fazla lisansa ihtiyacı varsa veya e
 
 ## <a name="upgrades-supported-in-the-csp-program"></a>CSP programında desteklenen yükseltmeler <a id="upgradesubscription"></a>
 
-Bulut çözümü sağlayıcısı 'nda aşağıdaki yükseltmeler desteklenir:
+Aşağıdaki yükseltmeler bulut çözümü sağlayıcısı programında desteklenir:
 
 | Sunduğu | Olası yükseltmeler|
 |---:|:---|
@@ -66,9 +61,9 @@ Faturalandırma üzerindeki etkisi hakkında daha fazla bilgi için bkz. bir abo
 
 1. Bir aboneliğin yükseltmeye uygun olup olmadığını görmek için, müşteriyi seçin ve ardından abonelik listesini açın.
 
-2. Abonelik yükseltilecekse, abonelik adından hemen sonra bir bilgi simgesi görürsünüz. Bu simgenin üzerine gelin ve **Şimdi Yükselt** ' i seçin.
+2. Abonelik yükseltilecekse, abonelik adından hemen sonra bir bilgi simgesi görürsünüz. Bu simgenin üzerine gelin ve **Şimdi Yükselt**' i seçin.
 
-3. Yeni teklifi seçip **Gönder** ' i seçin.
+3. Yeni teklifi seçip **Gönder**' i seçin.
 
 4. Bazı hizmetler için bazı Kullanıcı hesaplarını geçirmeye yönelik ek iş olabilir. Bu durumda Iş Ortağı Merkezi, etkilenen hesapların ve hizmetlerin bir listesini sağlar. Yardım için, [Office 365 ' deki planları değiştirdiğinizde lisansları yeniden atama](/microsoft-365/commerce/subscriptions/switch-to-a-different-plan)konusunda bilgi Bankası makalesi sorunları bölümüne bakın.
 

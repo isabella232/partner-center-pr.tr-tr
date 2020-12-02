@@ -9,20 +9,14 @@ author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 43ee23fe23b75946fa960f68fe41f7e490761f5c
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: 1eaa7fee628015eb633cac3a2796e371f6046585
+ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "92531142"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96474249"
 ---
 # <a name="view-or-export-customer-activity-logs-for-more-insight-into-customer-transactions"></a>Müşteri işlemlerine ilişkin daha fazla bilgi için müşteri etkinlik günlüklerini görüntüleyin veya dışarı aktarın
-
-**Uygulama hedefi**
-
-- İş Ortağı Merkezi
-- ABD kamu için Microsoft Bulut iş ortağı Merkezi
-- Bulut çözümü sağlayıcısı program iş ortakları
 
 **Uygun roller**
 
@@ -41,7 +35,7 @@ Etkinlik günlükleri, müşteri hesaplarında ve ürün işlemlerinde Iş orta�
 
 1. Iş Ortağı Merkezi [panosunda](https://partner.microsoft.com/dashboard)oturum açın.
 
-2. **Hesap ayarları** menüsünde **etkinlik günlüğü** ' nü seçin.
+2. **Hesap ayarları** menüsünde **etkinlik günlüğü**' nü seçin.
 
 3. **Kimden** **ve '** alanlarında etkinlik günlüğü dönemini seçin. Etkinlik günlüğü dışarı aktarma varsayılan olarak en son aya kaydedilir.
 
@@ -50,10 +44,10 @@ Etkinlik günlükleri, müşteri hesaplarında ve ürün işlemlerinde Iş orta�
    Günlüğe kaydedilen bir eylemle ilgili ayrıntıları görüntülemek için herhangi bir etkinlik günlüğü için bir aşağı ok seçin. Tek bir etkinlik günlüğü, birden fazla ürünün sıralaması gibi önemli miktarda veriyi gösterebilir.
 
 4. Günlüğün veri sütunları şunları içerir:
-   - **Tarih-saat** -eylemin tarihi ve saati;
-   - **Etkilenen müşteri** — müşterinin Şirket adı;
-   - **Eylem** — "bir başvuru oluşturuldu" gibi müşteri tarafından gerçekleştirilen eylem;
-   - **Iş Ortağı kullanıcısı** — faaliyetle ilişkili iş ortağı.
+   - **Tarih-saat**-eylemin tarihi ve saati;
+   - **Etkilenen müşteri**— müşterinin Şirket adı;
+   - **Eylem**— "bir başvuru oluşturuldu" gibi müşteri tarafından gerçekleştirilen eylem;
+   - **Iş Ortağı kullanıcısı**— faaliyetle ilişkili iş ortağı.
 
 5. Müşterinin abonelik verilerini bir. csv dosyasına kopyalamak ve bilgisayarınızdaki varsayılan indirme klasörüne indirmek için **günlüğü dışarı aktar** ' ı seçin.
 

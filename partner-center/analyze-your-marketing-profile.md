@@ -9,36 +9,28 @@ author: vikrambmsft
 ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: 45d40afc64c5c64801841d3cb758b49c8e107de7
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 4bb9311dc88a4abf4f2e14ae075430d1978b4bfe
+ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92531578"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96474045"
 ---
 # <a name="analyze-your-business-profile---see-how-well-you-attract-target-customers-and-potential-referrals"></a>İş profilinizi çözümleyin-hedef müşterileri ve olası başvuruları ne kadar iyi çekmenize bakın
 <!-- 
 https://go.microsoft.com/fwlink/?linkid=849120
 -->
 
-**Uygulama hedefi**
-
-- İş Ortağı Merkezi
-- Microsoft İş Ortağı Ağı iş ortakları
-- Bulut çözümü sağlayıcısı program iş ortakları
-
 **Uygun roller**
 
 - Genel yönetici
 - MPN iş ortağı Yöneticisi
-- Başvuru Yöneticisi
 - İş profili Yöneticisi
-- Yönetim Aracısı
-- Satış Aracısı
+- Başvuru Yöneticisi
 
 Iş Ortağı Merkezi 'ndeki **iş profili öngörüleri** sayfası, hedef müşterilerinizin dikkatini yakalamanızı ve başvuru üretmenizi görmenizi sağlar.
 
-Referans öngörülerinizi görmek için **iş profili öngörülerini > başvurular** ' a gidin. Verileriniz profil performansını gösterir, eğilimleri analiz eder ve eylem gerektiren alanı belirler.
+Referans öngörülerinizi görmek için **iş profili öngörülerini > başvurular**' a gidin. Verileriniz profil performansını gösterir, eğilimleri analiz eder ve eylem gerektiren alanı belirler.
 
 **İş profili öngörüleri** sayfasının üst kısmında, verileri göstermek istediğiniz zaman dilimini seçebilirsiniz. Varsayılan seçim **30D** 'dir (30 gün), ancak bunun yerine 3 veya 6 aylık bir dönem için verileri göstermeyi tercih edebilirsiniz. Tüm bölgeler için veriler dahil edilmiştir.
 
@@ -46,10 +38,15 @@ Referans öngörülerinizi görmek için **iş profili öngörülerini > başvur
 
 **Profil performansı Özet** grafiği, seçili zaman aralığı için aşağıdaki bilgileri içerir:
 
-- **Arama sonuçları** : müşterilerin iş profilinizi bulmak için kullandığı arama terimleriyle ilgili bilgiler.
-- **Sayfa görünümleri** : müşterilerin iş profilinizi görüntüleme toplam sayısı.
-- **İletişim tıklama** : [bir çözüm sağlayıcısı bulun](https://www.microsoft.com/solution-providers/home) sayfasında müşterilerin iş profilinizi seçtiği toplam sayısı.
-- **Oluşturulan başvurular** : bir müşteri iş profilinizi seçtikten sonra size gönderilen başvuruların toplam sayısı.
+- **Arama sonuçları**: müşterilerin iş profilinizi bulmak için kullandığı arama terimleriyle ilgili bilgiler.
+- **Sayfa görünümleri**: müşterilerin iş profilinizi görüntüleme toplam sayısı.
+- **İletişim tıklama**: [bir çözüm sağlayıcısı bulun](https://www.microsoft.com/solution-providers/home) sayfasında müşterilerin iş profilinizi seçtiği toplam sayısı.
+- **Oluşturulan başvurular**: bir müşteri iş profilinizi seçtikten sonra size gönderilen başvuruların toplam sayısı.
 
 > [!TIP]
 > [Bu başvurularına yanıt vermeye](manage-leads.md)başladığınızda, başvurularınızın nasıl gerçekleştiridiğiyle ilgili daha fazla ayrıntı görmek için [başvuru öngörüleri sayfasını](referral-insights.md) gözden geçirdiğinizden emin olun.
+
+## <a name="next-steps"></a>Sonraki adımlar
+
+- [İş profili oluşturma](create-a-marketing-profile.md)
+- [Iş Ortağı Merkezi 'nde başvuru öngörülerini alın ve başvurularınızın nasıl çalıştığını öğrenin](referral-insights.md)

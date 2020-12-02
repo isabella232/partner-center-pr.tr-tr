@@ -9,18 +9,14 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: 0243b88cd60098dca971bd846eb7b0418b15c280
-ms.sourcegitcommit: a3e277ebc9e4016aa48477363f26bb78760560bd
+ms.openlocfilehash: 440a03a228fb809d1ef55bcd39e1c0464b24fb54
+ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/09/2020
-ms.locfileid: "92531838"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96474130"
 ---
 # <a name="microsoft-customer-agreements-by-region-and-language"></a>Bölgeye ve dile göre Microsoft Müşteri anlaşmaları
-
-**Uygulama hedefi**
-
-- Bulut çözümü sağlayıcısı program iş ortakları
 
 **Uygun roller**
 

@@ -1,5 +1,5 @@
 ---
-title: Office 365 deneme tekliflerle istemci ekleme
+title: Office 365 deneme teklifleriyle müşteri ekleme
 ms.topic: article
 ms.date: 05/06/2020
 ms.service: partner-dashboard
@@ -9,19 +9,16 @@ author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c5631e141f3b232ddfb0afd7dab6acc6a08f59df
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: 83acde5e5cb29ea8249bfbba78a15cf3efbdf271
+ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "92531122"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96474181"
 ---
 # <a name="advisors-build-your-client-base-with-office-365-trial-invitations-and-purchase-offers"></a>Danışmanları: Office 365 deneme davetleri ve satın alma tekliflerle istemci tabanınızı derleme
 
-**Uygulama hedefi**
 
-- İş Ortağı Merkezi
- 
 **Uygun roller**
 
 - Danışmanlar
@@ -29,7 +26,7 @@ ms.locfileid: "92531122"
 
 Yetkili bir Microsoft danışmanı olarak, **Iş Ortağı Merkezi** , istemci tabanınızı büyütmenize ve istemcileriniz ile yatırım ilişkileri oluşturmanıza yönelik bir fırsat sunar. Iş Ortağı Merkezi ile istemcilerinizi deneme davetlerini ve satın alma tekliflerinizi gönderebilir ve sağlama yetkiniz olan hizmetlere bağlı olarak onlara Temsilcili Yönetim Hizmetleri sunabilirsiniz.
 
-İş Ortağı Merkezi 'nde oturum açtığınızda, **deneme ve satın alma teklifleri** ' ne gidin, işinizi büyütmeye yardımcı olacak bazı araçlar ve görevler görürsünüz.
+İş Ortağı Merkezi 'nde oturum açtığınızda, **deneme ve satın alma teklifleri**' ne gidin, işinizi büyütmeye yardımcı olacak bazı araçlar ve görevler görürsünüz.
 
 ## <a name="create-and-send-trial-invitations"></a>Deneme davetleri oluşturma ve gönderme
 
@@ -53,5 +50,7 @@ Müşterilerinize bir deneme daveti gönderdikten sonra, bir satın alma teklifi
 Satın alma teklifini oluşturduğunuzda sizin için özel bir URL oluşturulur. URL, sizi Abonelik danışmanı olarak tanımlayan katıştırılmış bir kod içerir. Bu URL 'YI bir müşteri veya birçok müşteri için kullanabilirsiniz. URL 'YI bir e-postaya gönderin veya Web sitenizde gönderin.
 
 Müşteriniz farklı sayıda lisansa istiyorsa, bu kişilere yeni bir teklif gönderin veya aboneliği satın alırken lisansların sayısını değiştirebilirler.
+
+## <a name="next-steps"></a>Sonraki adımlar
 
 Satın alma teklifleri hakkında daha fazla bilgi için bkz. [satın alma teklifi oluşturma](advisor-create-a-purchase-offer.md).

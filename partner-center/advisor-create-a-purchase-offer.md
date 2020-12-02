@@ -9,18 +9,15 @@ author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a36f67609f0e51b0d65d0032610157fc4d81f97e
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: 56a8438ad2503ab22151ed4da7e8ef4b43794543
+ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "92531119"
+ms.lasthandoff: 12/01/2020
+ms.locfileid: "96474147"
 ---
 # <a name="advisors-create-a-purchase-offer"></a>Danışmanları: satın alma teklifi oluşturma
 
-**Uygulama hedefi**
-
-- İş Ortağı Merkezi
  
 **Uygun roller**
 
@@ -38,20 +35,20 @@ Satın alma teklifini oluşturduğunuzda, **satın alma teklifi oluştur** Sihir
 
 ## <a name="to-create-a-purchase-offer"></a>Satın alma teklifi oluşturmak için
 
-1. **Denemeler ve satın alma teklifleri**  >  **Oluştur teklifi** ' ne gidin.
+1. **Denemeler ve satın alma teklifleri**  >  **Oluştur teklifi**' ne gidin.
 
 2. **Satın alma teklifi oluştur** sayfasında, dahil etmek istediğiniz satın alma teklifi seçeneklerini belirleyin:
 
-    - **Iş ortağı ofisi** : Şirketinizde birden çok ofis varsa, bu satın alma teklifini ilişkilendirmek istediğiniz ofisi seçin.
+    - **Iş ortağı ofisi**: Şirketinizde birden çok ofis varsa, bu satın alma teklifini ilişkilendirmek istediğiniz ofisi seçin.
 
         İş ortağı ofis konumları eklemek için bkz. [konum ekleme](manage-locations.md). Yeni ofis konumları, **Iş ortağı ofisi** listesinde görünen 24 saate kadar sürebilir.
 
-    - **Kullanım konumu** : istemcinizin Hizmetleri kullanacağı konumu seçin.
-    - **Abonelikler** : seçebileceğiniz aboneliklerin listesi, istemcinizin ülke veya bölgesinin kullanım konumu tarafından belirlenir. İstemcinizi sunduğunuz abonelik veya aboneliklerin kutusunu işaretleyin.
-    - **Lisans sayısı** : bir abonelik seçtiğinizde, satın alma teklifine dahil etmek istediğiniz lisansların sayısını yazın.
-    - **Temsil edilen yönetim** : Bu seçenek yalnızca, temsilcili yönetim sunmaya yetkili olan iş ortakları tarafından kullanılabilir. İstemcinizin Temsilcili yönetimini sunmak istiyorsanız bu seçeneği belirleyin. Bunu yaparsanız, istemciniz satın alma teklifini kabul edebilir veya kabul etmeden kabul edebilir.
+    - **Kullanım konumu**: istemcinizin Hizmetleri kullanacağı konumu seçin.
+    - **Abonelikler**: seçebileceğiniz aboneliklerin listesi, istemcinizin ülke veya bölgesinin kullanım konumu tarafından belirlenir. İstemcinizi sunduğunuz abonelik veya aboneliklerin kutusunu işaretleyin.
+    - **Lisans sayısı**: bir abonelik seçtiğinizde, satın alma teklifine dahil etmek istediğiniz lisansların sayısını yazın.
+    - **Temsil edilen yönetim**: Bu seçenek yalnızca, temsilcili yönetim sunmaya yetkili olan iş ortakları tarafından kullanılabilir. İstemcinizin Temsilcili yönetimini sunmak istiyorsanız bu seçeneği belirleyin. Bunu yaparsanız, istemciniz satın alma teklifini kabul edebilir veya kabul etmeden kabul edebilir.
 
-3. **İleri** ’ye tıklayın.
+3. **İleri**’ye tıklayın.
 
 4. **Gönder** sayfasında, satın alma teklif bilgilerini ve URL 'sini kopyalayın ve ardından özelleştirilmiş bir satın alma teklifi oluşturmak için bir e-postaya, belgeye veya Web sayfasına yapıştırın.
 
@@ -69,3 +66,7 @@ Satın alma teklifini oluşturduğunuzda, **satın alma teklifi oluştur** Sihir
     - İstemcilere hizmet veya teklifle ilgili sorularla nasıl iletişim kuracağınızı söyleyin.
     - İstemcileri, satın alınan kullanıcı lisanslarının sayısını kontrol ettikleri ve teklifi kabul ettiğinde lisansların sayısını değiştirebilecekleri konusunda bilgilendirin.
     - Temsilci ile yönetim teklifi sunuyorsanız, bunun ne anlama geldiğini ve sorumluluklarınızın neler olduğunu açıklayın. Temsilci olarak yönetim hakkında daha fazla bilgi için bkz. [sunulan temsilci yönetimi](customers-revoke-admin-privileges.md).
+
+## <a name="next-steps"></a>Sonraki adımlar
+
+- [Office 365 deneme davetlerini ve satın alma tekliflerinizi kullanarak istemci tabanınızı oluşturun](advisors-build-your-business.md)
