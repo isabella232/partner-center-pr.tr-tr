@@ -9,14 +9,14 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f48774cb830ceb575a84177efb57431afdcb9b25
-ms.sourcegitcommit: 5fc28f6f81eaebb84e1faa71848afb504e181f37
+ms.openlocfilehash: 8c36883dc7d12b7ea0ce8f2644dbac86595ab131
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/11/2020
-ms.locfileid: "92531418"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534599"
 ---
-# <a name="roles-and-permissions-eligible-to-earn-partner-earned-credit"></a>İş ortağı kazanılmış kredisi kazanımak için uygun roller ve izinler
+# <a name="roles-and-permissions-required-to-earn-partner-earned-credit"></a>İş ortağı kazanılmış kredisi kazanmak için gereken roller ve izinler
 
 Aşağıdaki roller, bir ortağın iş ortağı tarafından kazanılan krediler için uygun olup olmadığını tespit eden izin düzeylerine eşlenir.
 
@@ -26,7 +26,7 @@ Aşağıdaki roller, bir ortağın iş ortağı tarafından kazanılan krediler 
 |**Role**   |**Açıklama**   |**PEC uygun**   |
 |-----------------|:------------------|:--------------|
 |Sahip  |Kaynaklara erişim dahil her şeyi yönetirsiniz.|Evet|
-|Katılımcı |Kaynaklara erişim verme dışında her şeyi yönetirsiniz.|Evet|
+|Katkıda Bulunan |Kaynaklara erişim verme dışında her şeyi yönetirsiniz.|Evet|
 |Okuyucu|Her şeyi görüntüleyebilir, ancak herhangi bir değişiklik yapamazsınız|Hayır|
 |ACRDelete|ACR silme|Evet|
 |Acrimageimzalayan|ACR görüntü imzalayan|Evet|
@@ -55,7 +55,7 @@ Azure Service Bus veri alıcısı | Azure Service Bus kaynaklarına erişim izni
 Veri Göndericisini Azure Service Bus | Azure Service Bus kaynaklarına erişim izni verir. | Evet | 
 Kayıt sahibini Azure Stack | Azure Stack kayıtlarını yönetmenizi sağlar. | Evet | 
 Yedek Katılımcısı | Yedekleme hizmetini yönetmenizi sağlar, ancak kasaların oluşturamaz ve başkalarına erişim izni verebilir | Evet | 
-Yedekleme Işletmeni | Yedekleme kaldırma, kasa oluşturma ve başkalarına erişim verme dışında yedekleme hizmetlerini yönetmenizi sağlar | Evet | 
+Yedekleme Operatörü | Yedekleme kaldırma, kasa oluşturma ve başkalarına erişim verme dışında yedekleme hizmetlerini yönetmenizi sağlar | Evet | 
 Yedekleme okuyucusu | Yedekleme hizmetlerini görüntüleyebilir, ancak değişiklik yapamaz | Hayır | 
 Faturalama Okuyucusu | Faturalandırma verilerine okuma erişimi sağlar | Hayır | 
 BizTalk Katılımcısı | BizTalk hizmetlerini yönetmenizi sağlar ancak onlara erişim izni vermez. | Evet | 
@@ -116,9 +116,9 @@ Katkıda bulunan Arama Hizmeti | Arama hizmetlerini yönetmenize izin verir, anc
 Güvenlik Yöneticisi | Yalnızca güvenlik merkezi 'nde: güvenlik ilkelerini görüntüleyebilir, güvenlik durumlarını görüntüleyebilir, güvenlik ilkelerini düzenleyebilir, uyarıları ve önerileri görüntüleyebilir, uyarıları ve önerileri kapatabilir | Evet | 
 Güvenlik Yöneticisi (eski) | Bu eski bir roldür. Lütfen bunun yerine Güvenlik Yöneticisi 'ni kullanın | Evet | 
 Güvenlik Okuyucusu | Yalnızca güvenlik merkezi 'nde: önerileri ve uyarıları görüntüleyebilir, güvenlik ilkelerini görüntüleyebilir, güvenlik durumlarını görüntüleyebilir, ancak değişiklik yapamaz | Hayır | 
-Katkıda bulunan Site Recovery | Kasa oluşturma ve rol atama dışında Site Recovery hizmetini yönetmenizi sağlar | Evet | 
-Site Recovery Işleci | Yük devretme ve yeniden çalışma ve diğer Site Recovery yönetim işlemlerini gerçekleştirmenize izin verir | Evet | 
-Site Recovery okuyucu | Site Recovery durumunu görüntülemenize izin verir, ancak diğer yönetim işlemlerini gerçekleştirmenize izin vermez | Hayır | 
+Site Recovery Katkıda Bulunanı | Kasa oluşturma ve rol atama dışında Site Recovery hizmetini yönetmenizi sağlar | Evet | 
+Site Recovery Operatörü | Yük devretme ve yeniden çalışma ve diğer Site Recovery yönetim işlemlerini gerçekleştirmenize izin verir | Evet | 
+Site Recovery Okuyucusu | Site Recovery durumunu görüntülemenize izin verir, ancak diğer yönetim işlemlerini gerçekleştirmenize izin vermez | Hayır | 
 Uzamsal bağlayıcı hesabı Katılımcısı | Hesabınızdaki uzamsal bağlantıları yönetmenizi sağlar, ancak onları silmez | Evet | 
 Uzamsal bağlayıcı hesap sahibi | Hesabınızdaki uzamsal bağlayıcıları, silme dahil olmak üzere yönetmenizi sağlar | Evet | 
 Uzamsal bağlayıcı hesap okuyucu | Hesabınızdaki uzamsal Tutturucuların özelliklerini bulmanıza ve okumanızı sağlar | Hayır | 
@@ -147,3 +147,7 @@ Sanal Makine Katılımcısı | Sanal makineleri yönetmenize izin verir, ancak b
 Sanal makine Kullanıcı oturumu açma | Portalda sanal makineleri görüntüleyin ve normal bir kullanıcı olarak oturum açın. | Evet | 
 Web planı Katılımcısı | Web siteleri için Web planlarını yönetmenizi sağlar, ancak bunlara erişemez. | Evet | 
 Web sitesi Katılımcısı | Web sitelerini yönetmenizi sağlar, ancak bunlara erişemez | Evet |
+
+## <a name="next-steps"></a>Sonraki adımlar
+
+- [İş ortağı kazanılmış kredi-CSP 'de yeni ticaret deneyiminde nasıl çalıştığına ilişkin genel bakış](partner-earned-credit.md)

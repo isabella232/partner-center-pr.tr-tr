@@ -1,7 +1,7 @@
 ---
 title: Müşteriler için Microsoft Azure ayırmaları satın alın
 description: Iş Ortağı Merkezi 'nde müşterileriniz adına Azure ayırmaları satın almayı veya satın almayı öğrenin. Ayrıca, Azure ayırmalarının kullanılamadığı pazarları listeler.
-ms.topic: article
+ms.topic: how-to
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: rbars
@@ -9,20 +9,14 @@ ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
 ms.date: 08/06/2020
-ms.openlocfilehash: 22ee2b6b76662ae3c7f7a956dc42f4425c321309
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: 0e81a9561f3749aab281bb4ebd7cd0c38540ff31
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92531898"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534616"
 ---
 # <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-partner-center"></a>Iş Ortağı Merkezi 'nde müşterileriniz adına Microsoft Azure ayırmaları satın alın
-
-**Uygulama hedefi**
-
-- İş Ortağı Merkezi
-- Microsoft Azure portalı
-- CSP 'deki iş ortakları
 
 **Uygun roller**
 
@@ -31,6 +25,8 @@ ms.locfileid: "92531898"
 - Yardım Masası Aracısı
 - Satış Aracısı
 - Kullanıcı Yönetimi Yöneticisi
+
+Bu makalede, Iş Ortağı Merkezi 'nde müşterileriniz adına Azure ayırmaları satın alma veya satın alma işlemleri açıklanmaktadır. Ayrıca, Azure ayırmalarının kullanılamadığı pazarları tanımlar.
  
 > [!NOTE]
 > Bu makale yalnızca bulut çözümü sağlayıcısı (CSP) programındaki iş ortakları için geçerlidir. Diğer abonelik türleri (örneğin, Kullandıkça öde, bireysel, Microsoft Müşteri Sözleşmesi veya Kurumsal Anlaşma abonelikleri) kullanan müşteriler [Bu Azure ayırmaları belgelerini](/azure/cost-management-billing/reservations)okumalı olmalıdır.
@@ -110,7 +106,7 @@ Iş Ortağı Merkezi 'nde müşterileriniz adına Microsoft Azure ayırmaları s
 
 2. **Müşteriler** sayfasında, Azure ayırmaları satın almak isteyen müşteriyi bulun ve ardından müşterinin satırını genişletmek için aşağı oku seçin.  
 
-3. **Ürün Ekle** ' yi seçin ve ardından **Azure** ' u seçin. 
+3. **Ürün Ekle** ' yi seçin ve ardından **Azure**' u seçin. 
 
     a. **Segment** listesinden müşterinin pazar segmentini seçin.
 
@@ -125,7 +121,7 @@ Iş Ortağı Merkezi 'nde müşterileriniz adına Microsoft Azure ayırmaları s
 
 5. Müşterilerinizin gereksinimlerini karşılayan sanal makinelerde Azure ayırmaları bulmak için filtreleri kullanın.  
 
-6. Satın almak istediğiniz ayırmaları bulduktan sonra, müşterinin **Miktar** halinde ihtiyaç duyduğu ayrılmış örnek sayısını girin ve ardından **Sepete Ekle** ' yi seçin.  
+6. Satın almak istediğiniz ayırmaları bulduktan sonra, müşterinin **Miktar** halinde ihtiyaç duyduğu ayrılmış örnek sayısını girin ve ardından **Sepete Ekle**' yi seçin.  
 
 7. Gerekli tüm öğeleri sıraya ekleyinceye kadar 5 ve 6. adımları tekrarlayın. Siparişinizin doğru olduğunu doğrulamak için **gözden geçir** ' i seçin.  
 
@@ -150,7 +146,8 @@ Iş Ortağı Merkezi 'nde müşterileriniz adına Microsoft Azure ayırmaları s
 
 10. Müşterinin ayırmasını Azure portal yönetmek için **müşteriler** sayfasında müşteriyi bulun ve ardından müşterinin satırını genişletmek için aşağı oku seçin. **Microsoft Azure yönetim portalı** ' yi seçerek müşterinin kaydını Azure Portal açın.
 
-## <a name="azure-reservations-resources"></a>Azure ayırmaları kaynakları
+## <a name="next-steps"></a>Sonraki adımlar
+
 |**Hakkında bilgi için**   |**Bunu okuyun**    |
 |:-----------------------------|:-----------------|
 |CSP 'de Azure ayırmaları genel bakış  | [Ayrılmış Microsoft Azure örnekleri satma](azure-reservations.md) |

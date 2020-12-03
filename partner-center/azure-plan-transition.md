@@ -9,12 +9,12 @@ ms.author: mowrim
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 06/16/2020
-ms.openlocfilehash: 5390e950689e930b246aaaddcb1a9ef1b1ab6d46
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 4e22386dc8bddd9662a0d80020a5c90c464e9d39
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92531634"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534820"
 ---
 # <a name="transition-customers-to-azure-plan-from-existing-csp-azure-offers"></a>Mevcut CSP Azure tekliflerden müşterilerin Azure planına geçiş yapın
 
@@ -27,9 +27,9 @@ ms.locfileid: "92531634"
 - Satış Aracısı
 - Kullanıcı Yönetimi Yöneticisi
 
-Dolaylı sağlayıcılar ve doğrudan fatura ortakları, Azure için Microsoft Bulut Service Provider programında (CSP) bulunan yeni ticari deneyime geçiş yapabilir. (Dolaylı satıcıların dolaylı sağlayıcıları aracılığıyla çalışması gerekir.) Müşteriler, iş ortakları, Microsoft satıcıları veya doğrudan Web üzerinden satın alma, bulut hizmetleri satın almak için kolaylaştırılmış bir yönteme sahip olacaktır.
+Bu makalede, CSP iş ortaklarının, müşterileri mevcut CSP Azure tekliflerden Azure planı kapsamındaki Azure hizmetlerine taşımak için Iş Ortağı Merkezi 'ni nasıl kullanabileceği açıklanmaktadır. Dolaylı sağlayıcılar ve doğrudan fatura ortakları, Azure için Microsoft Bulut Service Provider programında (CSP) bulunan yeni ticari deneyime geçiş yapabilir. (Dolaylı satıcıların dolaylı sağlayıcıları aracılığıyla çalışması gerekir.) Müşteriler, iş ortakları, Microsoft satıcıları veya doğrudan Web üzerinden satın alma, bulut hizmetleri satın almak için kolaylaştırılmış bir yönteme sahip olacaktır.
 
-Geçiş özelliği yalnızca Azure için yeni ticari deneyim ve Microsoft Müşteri anlaşmasını imzalayan ve Office 365 ya da Dynamics 365 gibi CSP 'deki diğer teklifleri içermeyen müşteriler içindir.
+Geçiş özelliği yalnızca Azure 'a yönelik yeni ticari deneyim ve Microsoft Müşteri anlaşmasını imzalayan müşteriler içindir. Office 365 veya Dynamics 365 gibi CSP 'deki diğer tekliflere yönelik değildir.
 
 ## <a name="transition-existing-csp-offers-to-an-azure-plan"></a>Mevcut CSP tekliflerinin bir Azure planına geçişini sağlar
 
@@ -39,17 +39,17 @@ Mevcut CSP Azure tekliflerinden bir müşteriyi, Iş Ortağı Merkezi ' nden CSP
 
 1. Müşteriniz için Azure planı ' nı seçin.
 
-2. **Azure planına geçiş faturalandırma** ' i seçin.
+2. **Azure planına geçiş faturalandırma**' i seçin.
 
    :::image type="content" source="images/azure/transition1.png" alt-text="Kullanım tabanlı abonelikler rapor bilgilerini, seçilebilir bir seçenekle gösteren ekran görüntüsü: Azure aboneliği ile Azure planına geçiş geçişi.":::
 
-3. **Devam** 'ı seçin
+3. **Devam**'ı seçin
 
-   :::image type="content" source="images/azure/transition2.png" alt-text="Kullanım tabanlı abonelikler rapor bilgilerini, seçilebilir bir seçenekle gösteren ekran görüntüsü: Azure aboneliği ile Azure planına geçiş geçişi.":::
+   :::image type="content" source="images/azure/transition2.png" alt-text="Azure planına geçiş başlıklı iletişim kutusu, geçiş ve seçme, devam etme veya Iptal etme için iki seçenek hakkında bilgi edinin.":::
 
    Müşteriniz Azure planına geçirilir.
 
-   **Geçiş iş akışı, önkoşul adımlarını otomatik hale getirir** :
+   **Geçiş iş akışı, önkoşul adımlarını otomatik hale getirir**:
 
    - Azure planı satın alma
    - Doğrudan CSP senaryolarında müşteri başına bir plan  
@@ -63,7 +63,7 @@ Mevcut CSP Azure tekliflerinden bir müşteriyi, Iş Ortağı Merkezi ' nden CSP
 
 4. Kendi yerel para birimini kullanarak bütçe limitini güncelleştirmek için müşterinizin Iş Ortağı Merkezi **abonelikleri** sayfasına dönün.
 
-   :::image type="content" source="images/azure/transition3.png" alt-text="Kullanım tabanlı abonelikler rapor bilgilerini, seçilebilir bir seçenekle gösteren ekran görüntüsü: Azure aboneliği ile Azure planına geçiş geçişi.":::
+   :::image type="content" source="images/azure/transition3.png" alt-text="Bir fatura dönemi için yerel para biriminde ayarlanan bütçe limitleriyle Iş Ortağı Merkezi abonelikleri sayfasının kısmi görünümü.":::
 
    >[!NOTE]
    >Iş Ortağı Merkezi 'nde ayarladığınız bütçe Azure portal üzerinden taşınmaz. Ayrıca, Azure portal de bütçesini ve uyarıyı ayarlamanız gerekir.
@@ -77,7 +77,7 @@ Mevcut CSP Azure tekliflerinden bir müşteriyi, Iş Ortağı Merkezi ' nden CSP
 
 Azure portal ve Iş Ortağı Merkezi 'nde geçiş ilerlemesini izleyin.
 
-:::image type="content" source="images/azure/details1.png" alt-text="Kullanım tabanlı abonelikler rapor bilgilerini, seçilebilir bir seçenekle gösteren ekran görüntüsü: Azure aboneliği ile Azure planına geçiş geçişi.":::
+:::image type="content" source="images/azure/details1.png" alt-text="Abonelik başına geçiş ayrıntıları listesinin bulunduğu tabloyu gösteren ekran görüntüsü-abonelik ı D, geçiş tarihi ve geçiş durumu içerir.":::
 
 ### <a name="billing-impact-to-partners"></a>İş ortaklarına faturalandırma etkisi
 

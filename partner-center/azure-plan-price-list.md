@@ -9,14 +9,14 @@ author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 57e976f2968f0bd6b13f36eb04be9f68577d1389
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 02cea980626ec32d3dd60f646b1f8744130792ea
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92531639"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534735"
 ---
-# <a name="price-list-for-the-new-commerce-experience-in-csp-for-azure"></a>Azure için CSP 'deki yeni ticari deneyim için fiyat listesi
+# <a name="price-list-for-the-new-commerce-experience-in-csp-for-azure"></a>Azure için CSP'de yeni ticari deneyim için fiyat listesi
 
 **Uygun roller**
 
@@ -31,16 +31,16 @@ CSP 'de yeni Azure Ticaret deneyiminin fiyat listesi Iş Ortağı Merkezi ' nde 
 
 ## <a name="see-pricing-for-subscriptions-under-the-azure-plan-pricing"></a>Azure plan fiyatlandırması kapsamında abonelikler için fiyatlandırmayı inceleyin
 
-1. Sol taraftaki Iş Ortağı Merkezi menüsünde, **Sat** ' ı seçin ve ardından **Market** ' i seçin.
+1. Sol taraftaki Iş Ortağı Merkezi menüsünde, **Sat** ' ı seçin ve ardından **Market**' i seçin.
 
 2. Azure planı fiyatlandırması altında, fiyatlandırma istediğiniz ülkeyi seçin.
 
-3. **Dışarı aktarma türü** ' nün yanındaki **Azure planı tüketim fiyatlandırması** , **Azure plan ayırmaları fiyatlandırma** veya **FX ücretleri** ' ni seçin. 
+3. **Dışarı aktarma türü**' nün yanındaki **Azure planı tüketim fiyatlandırması**, **Azure plan ayırmaları fiyatlandırma** veya **FX ücretleri**' ni seçin. 
 
 >[!NOTE] 
 >**FX ücretleri** ülkeye özgü değildir.
 
-4. **Tarih fiyatlandırmasının** yanında, istediğiniz tarihi (örneğin, **geçerli** ) seçin.
+4. **Tarih fiyatlandırmasının** yanında, istediğiniz tarihi (örneğin, **geçerli**) seçin.
 
    :::image type="content" source="images/azure/pricingnew.png" alt-text="ülkeye özgü":::
 
@@ -55,15 +55,15 @@ CSP 'de yeni Azure Ticaret deneyiminin fiyat listesi Iş Ortağı Merkezi ' nde 
 
 - Dışarı aktarma seçenekleri şunlardır:
 
-  - **Bugünün fiyatlandırması** : Bu, ayın 1 ' inden geçerli ayın geçerli tarihine kadar olan tüm ölçümleri ve fiyatları içerir. Buna yeni fiyatlar, değiştirilen fiyatlar veya kaldırılan fiyatlar dahildir. Tüm fiyatların yeni mi yoksa kaldırılmış mı olduğunu açıklamak için geçerli başlangıç ve bitiş tarihleri olacaktır.
+  - **Bugünün fiyatlandırması**: Bu, ayın 1 ' inden geçerli ayın geçerli tarihine kadar olan tüm ölçümleri ve fiyatları içerir. Buna yeni fiyatlar, değiştirilen fiyatlar veya kaldırılan fiyatlar dahildir. Tüm fiyatların yeni mi yoksa kaldırılmış mı olduğunu açıklamak için geçerli başlangıç ve bitiş tarihleri olacaktır.
 
-  - **Önceki ayın fiyatlandırması** : her kaynak türünün İndirmeleri aya göre olacaktır. Fiyatlandırma dosyaları için, bu ay içinde kullanılabilir olan tüm ölçümleri dahil eder. Ayın ortasında yeni bir ölçüm göründüyse, kullanılabilirliğini yansıtan etkin bir tarih ile ölçüm olarak gösterilecektir. Etkin olmayan fiyatlara benzer ve bu, artık kullanılamadığı zaman geçerli bir bitiş tarihi ile gösteriliyor.
+  - **Önceki ayın fiyatlandırması**: her kaynak türünün İndirmeleri aya göre olacaktır. Fiyatlandırma dosyaları için, bu ay içinde kullanılabilir olan tüm ölçümleri dahil eder. Ayın ortasında yeni bir ölçüm göründüyse, kullanılabilirliğini yansıtan etkin bir tarih ile ölçüm olarak gösterilecektir. Etkin olmayan fiyatlara benzer ve bu, artık kullanılamadığı zaman geçerli bir bitiş tarihi ile gösteriliyor.
 
-  - **FX ücretleri** : FX oranları, ayın 1 ' inden önceki günü, 18:00 PST 'yi indirmek için kullanılabilir olacak. Örneğin, Kasım ücretleri istiyorsanız 31 Ekim 'e kadar olan ücretleri indirin. Önceki ay FX ücretleri de kullanıma sunulacaktır.
+  - **FX ücretleri**: FX oranları, ayın 1 ' inden önceki günü, 18:00 PST 'yi indirmek için kullanılabilir olacak. Örneğin, Kasım ücretleri istiyorsanız 31 Ekim 'e kadar olan ücretleri indirin. Önceki ay FX ücretleri de kullanıma sunulacaktır.
 
 - Fiyat listelerindeki fiyatlar doğrudan fiyatlardır. Bazı iş ortakları, iş ortağı tarafından kazanılan krediler için uygun olabilir. Ortağın kazanılan kredisi nasıl hesaplandığı hakkında daha fazla bilgi için, [ortağın kazanıldığını ve ödendiğini](partner-earned-credit-explanation.md)okuyun.
 
-- **Uygun hizmetler** : iş ortağı kazanılmış kredisi, Azure planı [fiyatlandırma](https://partner.microsoft.com/commerce/sales) sayfasından dışarı aktarma işlemi için **Azure plan tüketim fiyatlandırma** iş ortakları ' nda listelenen hizmetler için geçerlidir. Azure plan tüketim fiyat listesi ve Azure plan ayırmaları 'nin Etiketler sütununda "üçüncü taraf" olarak tanımlanan üçüncü taraf ürünleri dahil, ancak bunlarla sınırlı olmamak üzere bir istisna vardır.
+- **Uygun hizmetler**: iş ortağı kazanılmış kredisi, Azure planı [fiyatlandırma](https://partner.microsoft.com/commerce/sales) sayfasından dışarı aktarma işlemi için **Azure plan tüketim fiyatlandırma** iş ortakları ' nda listelenen hizmetler için geçerlidir. Azure plan tüketim fiyat listesi ve Azure plan ayırmaları 'nin Etiketler sütununda "üçüncü taraf" olarak tanımlanan üçüncü taraf ürünleri dahil, ancak bunlarla sınırlı olmamak üzere bir istisna vardır.
 
 ## <a name="price-list-data"></a>Fiyat listesi verileri
 
@@ -78,7 +78,7 @@ CSP 'de yeni Azure Ticaret deneyiminin fiyat listesi Iş Ortağı Merkezi ' nde 
 |UnitOfMeasure|Ücretlendirilebilecek veya faturalandırılacak birimler|
 |TermDuration|Terim tabanlı ürünler için, dönemin uzunluğu, rezervasyonlar için geçerlidir|
 |Pazara|Fiyatlandırma pazarı|
-|Para birimi|Fiyatlandırma para birimi|
+|Para Birimi|Fiyatlandırma para birimi|
 |UnitPrice|Birim fiyat|
 |PricingTierRangeMin|Katmanlı fiyatlandırma için, minimum fiyat geçerli olur|
 |PricingTierRangeMax|Katmanlı fiyatlandırma için en yüksek fiyat geçerli olur|
@@ -114,3 +114,7 @@ Bu API ayrıca iş ortaklarının aylık Döviz kurlarını almasına olanak sa�
 > Fiyatlandırma API 'SI, Azure plan fiyatlandırmasına özgüdür. Azure kaynakları veya Azure olmayan plan aboneliklerine dağıtılan rezervasyonlar için Iş Ortağı Merkezi 'nin "fiyatlandırma ve teklifler" sayfasına gönderilen mevcut RateCard API 'sini ve fiyat listelerini kullanmaya devam etmelisiniz. Azure plan fiyatlandırma API 'SI, Microsoft 365 veya Dynamics 365 gibi yazılım, Market veya lisans tabanlı fiyatlandırmayı desteklemez.
 
 Azure plan fiyatlandırması ve yabancı değişim oranı API 'Leri hakkında daha fazla bilgi için, tam [fiyatlandırma API 'si belgelerine](/partner/develop/pricing)bakın.
+
+## <a name="next-steps"></a>Sonraki adımlar
+
+- [Azure planı kapsamındaki abonelikleri ve kaynakları yönetme](azure-plan-manage.md)

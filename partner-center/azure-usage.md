@@ -9,20 +9,21 @@ ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
 ms.date: 08/06/2020
-ms.openlocfilehash: e6c4e3e7a68de720f586754703308a447d7d30c1
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 226ebd27b4ca4cdef56ce833a58a10bed89f8056
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92531622"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534956"
 ---
 # <a name="microsoft-azure-vm-sizing-for-maximum-reservation-usage"></a>Maksimum ayırma kullanımı için Microsoft Azure VM boyutlandırması
 
-**Uygulama hedefi**
+**Uygun roller**
 
-- İş Ortağı Merkezi
-- Azure portal
-- CSP programındaki iş ortakları
+- Yönetim Aracısı
+- Satış Aracısı
+
+Bu makalede, bir sanal makinenin (VM) müşterilere bilgi işlem gereksinimlerine göre nasıl boyutlandırılacağını ve bunlara yönelik Microsoft Azure ayırmaları satın almanız açıklanmaktadır.
  
 > [!NOTE]
 > Bu makale yalnızca bulut çözümü sağlayıcısı (CSP) programındaki iş ortakları için geçerlidir. Diğer abonelik türleri (örneğin, Kullandıkça öde, bireysel, Microsoft Müşteri Sözleşmesi veya Kurumsal Anlaşma abonelikleri) kullanan müşteriler [Bu Azure ayırmaları belgelerini](/azure/cost-management-billing/reservations)okumalı olmalıdır.
@@ -66,7 +67,7 @@ Bu yöntemlerin her birini kullanmaya yönelik yönergeler aşağıda verilmişt
 
 Bir ayırma satın almak istediğiniz VM 'nin konumunu ve boyutunu almak için aşağıdaki görüntüdeki bilgileri kullanın. 
 
-:::image type="content" source="images/usage2.png" alt-text="Ayrıntı sayfasında boyut ve bölge bilgileri":::
+:::image type="content" source="images/usage2.png" alt-text="VM konumu ve boyutu":::
 
 ### <a name="get-vm-sizing-information-using-the-azure-resource-manager-arm-api"></a>Azure Resource Manager (ARM) API 'sini kullanarak VM boyutlandırma bilgilerini al
 
@@ -76,8 +77,8 @@ Bir ayırma satın almak istediğiniz VM 'nin konumunu ve boyutunu almak için a
 
 3. Çağrı, aşağıda gösterildiği gibi **VMSize** ve **konuma** ait değerleri döndürür.
 
-    :::image type="content" source="images/usage3.png" alt-text="Ayrıntı sayfasında boyut ve bölge bilgileri":::
-    :::image type="content" source="images/usage4.png" alt-text="Ayrıntı sayfasında boyut ve bölge bilgileri":::
+    :::image type="content" source="images/usage3.png" alt-text="vmSize değeri":::
+    :::image type="content" source="images/usage4.png" alt-text="konum değeri":::
 
 ## <a name="verify-azure-vm-usage-and-reservation-discount"></a>Azure VM kullanımını ve rezervasyon iskontosunu doğrulama
 
@@ -117,7 +118,7 @@ Bu yöntemlerin her birini kullanmaya yönelik yönergeler aşağıda verilmişt
 
 Müşterinin rezervasyon iskontosunu aldığını doğrulamak ve iskontonun hangi VM 'Ler (sanal makineler) uygulanacağını öğrenmek için Azure kullanım API 'SI ile rezervasyon kullanım verilerini alabilirsiniz. Müşterinin ayırma kullanımını nasıl doğrulayabildiğini öğrenmek için örneğin, örnek B ile karşılaştırın.
 
-:::image type="content" source="images/usage5.png" alt-text="Ayrıntı sayfasında boyut ve bölge bilgileri":::
+:::image type="content" source="images/usage5.png" alt-text="Ayırma kullanım örnekleri":::
 
 - Rezervkimliği, iskontoyu VM 'ye uygulamak için kullanılan Azure ayırmasını tanımlar.
 - Tüketiytionmetre, rezervasyon iskontosunun uygulandığı VM için ölçüm kimliği.
@@ -128,7 +129,7 @@ Daha fazla bilgi için bkz. [Iş ortağı MERKEZI API](/partner-center/develop/)
 >[!IMPORTANT]
 >Microsoft Windows Server gibi yazılım maliyetleri, şu anda bir VM ayırma fiyatına dahil değildir ve sipariş kaydında ve faturanızda ayrı satır öğeleri olarak görünür. Ancak, bir müşterinin Azure hibrit kullanım teklifi varsa, yazılım maliyetleri uygulanmaz. Daha fazla bilgi için bkz. [Windows yazılım maliyetleri ayrılmış örneklere dahil değildir](/azure/billing/billing-reserved-instance-windows-software-costs).  
 
-## <a name="azure-reservations-resources"></a>Azure ayırmaları kaynakları
+## <a name="next-steps"></a>Sonraki adımlar
 
 |**Hakkında bilgi için**   |**Bunu okuyun**    |
 |:-----------------------------|:-----------------|

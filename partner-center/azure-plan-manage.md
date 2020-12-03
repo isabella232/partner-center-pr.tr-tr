@@ -9,16 +9,21 @@ author: amitravat
 ms.author: amrava
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4bbeb417fdc5964d66f754a789873c1dbc8b1d25
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 31e9c6862a5aa19407fa6da5e15333bb7e696720
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92531718"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534939"
 ---
 # <a name="manage-subscriptions-and-resources-under-the-azure-plan"></a>Azure planı kapsamındaki abonelikleri ve kaynakları yönetme
 
-Bir müşteriyi Azure planına aktardığınızda, varsayılan olarak Azure 'da ayrıcalıklı yönetici hakları (adına yönetici aracılığıyla abonelik sahibi hakları) atanır.
+**Uygun roller**
+
+- Yönetim Aracısı
+
+
+Bu makalede, CSP iş ortaklarının bir müşterinin Azure kaynaklarının işletimsel denetimini ve yönetimini sağlamak için farklı rol tabanlı erişim denetimi (RBAC) seçeneklerini nasıl kullanabileceği açıklanmaktadır. Bir müşteriyi Azure planına aktardığınızda, varsayılan olarak Azure 'da ayrıcalıklı yönetici hakları (adına yönetici aracılığıyla abonelik sahibi hakları) atanır.
 
  > [!NOTE]
  > Azure aboneliğine yönetici hakları bir abonelik, kaynak grubu veya iş yükü düzeyinde müşteri tarafından kaldırılabilir. 
@@ -27,9 +32,9 @@ Bir müşteriyi Azure planına aktardığınızda, varsayılan olarak Azure 'da 
 
 - **Adına yönetici (Aobo)** - [AOCE](https://channel9.msdn.com/Series/cspdev/Module-11-Admin-On-Behalf-Of-AOBO)ile, Iş ortağı kiracısında yönetici aracı rolüne sahip HERHANGI bir Kullanıcı, CSP programı aracılığıyla oluşturduğunuz Azure aboneliklerine RBAC sahibi erişimine sahip olur.
 
-- **Azure açık Thouse** : Aobo, farklı müşterilerle çalışan ayrı gruplar oluşturma veya gruplar veya kullanıcılar için farklı rolleri etkinleştirme esnekliğine izin vermez. Azure Athouse kullanarak farklı müşterilere veya rollere farklı gruplar atayabilirsiniz. Kullanıcılar, Azure tarafından atanan kaynak yönetimi aracılığıyla uygun düzeyde erişime sahip olacağı için, Yönetim Aracısı rolüne sahip kullanıcı sayısını azaltabilir (ve bu nedenle tam AOBO erişimi vardır). Bu, müşterilerinizin kaynaklarına gereksiz erişimi sınırlayarak güvenliği artırmaya yardımcı olur. Ayrıca, birden çok müşteriyi ölçekli olarak yönetme konusunda daha fazla esneklik sağlar. Daha fazla bilgi için [Azure açık Thouse ve bulut çözümü sağlayıcısı programı](/azure/lighthouse/concepts/cloud-solution-provider)makalesini okuyun.
+- **Azure açık Thouse**: Aobo, farklı müşterilerle çalışan ayrı gruplar oluşturma veya gruplar veya kullanıcılar için farklı rolleri etkinleştirme esnekliğine izin vermez. Azure Athouse kullanarak farklı müşterilere veya rollere farklı gruplar atayabilirsiniz. Kullanıcılar, Azure tarafından atanan kaynak yönetimi aracılığıyla uygun düzeyde erişime sahip olacağı için, Yönetim Aracısı rolüne sahip kullanıcı sayısını azaltabilir (ve bu nedenle tam AOBO erişimi vardır). Bu, müşterilerinizin kaynaklarına gereksiz erişimi sınırlayarak güvenliği artırmaya yardımcı olur. Ayrıca, birden çok müşteriyi ölçekli olarak yönetme konusunda daha fazla esneklik sağlar. Daha fazla bilgi için [Azure açık Thouse ve bulut çözümü sağlayıcısı programı](/azure/lighthouse/concepts/cloud-solution-provider)makalesini okuyun.
 
--  **Dizin veya Konuk kullanıcılar veya [hizmet sorumluları](/azure/active-directory/develop/app-objects-and-service-principals)** : müşteri dizinine kullanıcı ekleyerek veya Konuk KULLANıCıLAR ekleyerek ve belırlı RBAC rolleri atayarak CSP aboneliklerine ayrıntılı erişim yetkisini atayabilirsiniz.
+- **Dizin veya Konuk kullanıcılar veya [hizmet sorumluları](/azure/active-directory/develop/app-objects-and-service-principals)**: müşteri dizinine kullanıcı ekleyerek veya Konuk KULLANıCıLAR ekleyerek ve belırlı RBAC rolleri atayarak CSP aboneliklerine ayrıntılı erişim yetkisini atayabilirsiniz.
 
 Microsoft, kullanıcıların işlerini bir güvenlik uygulaması olarak gerçekleştirmesi için gereken en düşük izinlere sahip olmasını önerir. Bkz. [Azure Active Directory Privileged Identity Management kaynakları](/azure/active-directory/privileged-identity-management/pim-configure).
 
@@ -60,11 +65,11 @@ Müşterinizin hizmetlerini yönetmek ve kazanılan kredilerin alınması için 
 
 2. Uyarının yerine gelmesi istediğiniz eylem türünü seçin. Örneğin, bir e-posta istediğinizi belirtirseniz, herhangi bir rol ataması silme gerçekleşirse size bildirimde bulunan bir e-posta alırsınız.
 
-   :::image type="content" source="images/azure/azureconfigurealert2.png" alt-text="Azure uyarısı":::
+   :::image type="content" source="images/azure/azureconfigurealert2.png" alt-text="Uyarı Yapılandır":::
 
 ### <a name="aobo-removal"></a>AOI kaldırma
 
-Müşteriler Azure portal **Access Control** giderek aboneliklerine erişimi yönetebilir. **Rol atamaları** sekmesinden, **erişimi kaldır** ' ı seçin. Bu durumda şunları yapabilirsiniz:
+Müşteriler Azure portal **Access Control** giderek aboneliklerine erişimi yönetebilir. **Rol atamaları** sekmesinden, **erişimi kaldır**' ı seçin. Bu durumda şunları yapabilirsiniz:
 
 - Yönetici erişiminin tekrar ifade edilebilir olup olmadığını görmek için müşterinizle konuşun.
 

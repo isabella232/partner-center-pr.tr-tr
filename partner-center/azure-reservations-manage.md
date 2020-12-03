@@ -9,20 +9,14 @@ ms.author: amrava
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 08/06/2020
-ms.openlocfilehash: 937a7268caa5ae7872f8a3ec6dcb05f56dd9fbe5
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: c377fca3e38161258c836d14202ac4db21484526
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92531631"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534769"
 ---
 # <a name="manage-cancel-exchange-or-refund-microsoft-azure-reservations-for-customers"></a>Müşteriler için ayırmaları yönetin, iptal edin, Exchange veya para iadesi Microsoft Azure
-
-**Uygulama hedefi**
-
-- İş Ortağı Merkezi
-- Microsoft Azure portalı 
-- CSP 'deki iş ortakları
 
 **Uygun roller**
 
@@ -31,6 +25,8 @@ ms.locfileid: "92531631"
 - Yardım Masası Aracısı
 - Satış Aracısı
 - Kullanıcı Yönetimi Yöneticisi
+
+Bu makalede, bir rezervasyon iptal edilmesi, bir rezervasyon alışverişi veya bir para iadesi istemek dahil olmak üzere bir müşterinin Azure ayırmalarını nasıl yöneteceğiniz açıklanmaktadır.
 
 > [!NOTE]
 > Bu makale yalnızca bulut çözümü sağlayıcısı (CSP) programındaki iş ortakları için geçerlidir. Diğer abonelik türleri (örneğin, Kullandıkça öde, bireysel, Microsoft Müşteri Sözleşmesi veya Kurumsal Anlaşma abonelikleri) kullanan müşteriler [Bu Azure ayırmaları belgelerini](/azure/cost-management-billing/reservations)okumalı olmalıdır.
@@ -41,9 +37,9 @@ Müşterilerinizin Azure ayırmaları satın alma sonrası 'yı yönetmek için,
 
 2. Müşterinin ayrıntı sayfası menüsünde **Azure ayırmaları** ' ni seçin ve ardından yönetmek istediğiniz belirli ayırmayı seçin.  
 
-3. **Eylemler** ' in altında, Azure Portal müşterinin rezervasyon kaydına gitmek için **Yönet** ' i seçin. Ayırma ayrıntısı sayfasında, görevleri gerçekleştirmek için aşağıdaki adımları izleyin.  
+3. **Eylemler**' in altında, Azure Portal müşterinin rezervasyon kaydına gitmek için **Yönet** ' i seçin. Ayırma ayrıntısı sayfasında, görevleri gerçekleştirmek için aşağıdaki adımları izleyin.  
 
-    | **Seç**   | **Amaç**    |
+    | **Seç**   | **Hedef**    |
     |:-----------------------------|:-----------------|
     | **Genel Bakış**   | Sona erme tarihi, kapsamı ve kullanım verileri dahil olmak üzere müşterinin rezervasyonunun ayrıntılarını görüntüleyin. **Göz önünde** Profesyonel olarak derecelendirilmiş bir para iadesi için destek isteği oluşturmak üzere **para iadesi** ' ni seçin. Ayırma döneminizin kullanılmayan kısmını değiştirmek için bir destek isteği oluşturmak üzere **Exchange** ' i seçin.  
     | **Access Control (ıAM)**   | Müşterinin rezervasyon bilgilerine erişimi yönetin.|
@@ -88,7 +84,7 @@ Müşterileriniz adına bir para iadesi veya Exchange için destek talebi sağla
 
 2. Müşterinin ayrıntı sayfasında, **Azure ayırmaları** ' i seçin ve müşterinin iade etmek istediği belirli bir ayırmayı seçin.  
 
-3. **Eylemler** ' in altında, Azure Portal müşterinin rezervasyon kaydına gidip bir destek talebi başlatmak Için **para iadesi** ' ni seçin.  
+3. **Eylemler**' in altında, Azure Portal müşterinin rezervasyon kaydına gidip bir destek talebi başlatmak Için **para iadesi** ' ni seçin.  
 
 4. **Yeni destek isteği** sayfasında, bir para iadesi istemek için aşağıdaki adımları izleyin. Her adımdan sonra **İleri ' yi** seçin. 
 

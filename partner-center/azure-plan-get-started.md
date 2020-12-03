@@ -9,14 +9,20 @@ ms.author: amrava
 ms.custom: SEOAPR.20
 ms.localizationpriority: High
 ms.date: 12/02/2019
-ms.openlocfilehash: 5ad7bd7c99d7caa044877c98aac6dc5e3ce69420
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: fcf75acef4afb80c5aec889911ffc2b4a53b6edd
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92531719"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534922"
 ---
 # <a name="begin-using-pay-as-you-go-rates-with-the-azure-plan"></a>Azure planıyla Kullandıkça Öde tarifesine kadar kullanmaya başlayın
+
+**Uygun roller**
+
+- Yönetim Aracısı
+- Satış Aracısı
+
 
 Microsoft, Iş Ortağı Merkezi 'nde yeni bir ticari deneyim sunmuştur.  Bu yeni ticaret deneyimiyle, iş ortakları, Microsoft Müşteri anlaşmasındaki müşterilere yönelik Kullandıkça Öde tarifelerine göre Azure hizmetlerine erişim kazanacaktır.
 
@@ -54,9 +60,9 @@ Microsoft, [Azure Active Directory Privileged Identity Management kaynakları](/
 
 ## <a name="read-more-about-the-azure-plan"></a>Azure planı hakkında daha fazla bilgi edinin
 
-- [Azure planını satın alma](purchase-azure-plan.md)
+- [Azure planı satın alma](purchase-azure-plan.md)
 
-- [Azure tekliflerini karşılaştırın](compare-azure-offers.md)
+- [Azure tekliflerini karşılaştırma](compare-azure-offers.md)
 
 - [İş ortağı kazanılmış kredi-genel bakış](partner-earned-credit.md)
 

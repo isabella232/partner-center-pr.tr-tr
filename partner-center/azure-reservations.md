@@ -9,20 +9,14 @@ ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 08/06/2020
-ms.openlocfilehash: 317d1f0295b79b79bf06f1091ae365bc7012b749
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 9dc92685503fd4b9b05e40337f72e810c1693779
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92531627"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534905"
 ---
 # <a name="sell-microsoft-azure-reservations-to-customers-using-partner-center-the-azure-portal-or-apis"></a>Iş Ortağı Merkezi, Azure portal veya API 'Leri kullanarak müşterilere Microsoft Azure ayırmaları satma
-
-**Uygulama hedefi**
-
-- İş Ortağı Merkezi
-- Microsoft Azure portalı
-- CSP programındaki iş ortakları
 
 **Uygun roller**
 
@@ -32,8 +26,10 @@ ms.locfileid: "92531627"
 - Satış Aracısı
 - Kullanıcı Yönetimi Yöneticisi
 
+Bulut çözümü sağlayıcısı programı 'nda (CSP) bir iş ortağı olarak müşteriler için Azure ayırmaları satın alabilir, sattabilir veya yönetebilirsiniz. Iş Ortağı Merkezi, Azure portal veya Iş Ortağı Merkezi API 'sini kullanın.
+
 > [!NOTE]
-> Bu makale yalnızca bulut çözümü sağlayıcısı (CSP) programındaki iş ortakları için geçerlidir. Diğer abonelik türleri (örneğin, Kullandıkça öde, bireysel, Microsoft Müşteri Sözleşmesi veya Kurumsal Anlaşma abonelikleri) kullanan müşteriler [Bu Azure ayırmaları belgelerini](/azure/cost-management-billing/reservations)okumalı olmalıdır.
+> Bu makale yalnızca CSP 'deki iş ortakları için geçerlidir. Diğer abonelik türleri (örneğin, Kullandıkça öde, bireysel, Microsoft Müşteri Sözleşmesi veya Kurumsal Anlaşma abonelikleri) kullanan müşteriler [Bu Azure ayırmaları belgelerini](/azure/cost-management-billing/reservations)okumalı olmalıdır.
 
 CSP programındaki iş ortakları, müşterilerine Microsoft Azure ayırmaları sunabilir. Müşteriler, önceden ayrıldıklarında önemli tasarruf elde edebilirler. Azure ayırmaları, müşterileri basitliği ve esnekliği aşağıdaki yollarla sunmaktadır:
 

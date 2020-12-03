@@ -9,36 +9,36 @@ author: khpavan
 ms.author: sakhanda
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5d8bb85357d796ae4917faf91c93db8fef4369c2
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 1dc683c194de158dc7a4dac541b37631f3be1f1e
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92531555"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534701"
 ---
-# <a name="new-commerce-experience-in-csp---azure-billing"></a>CSP 'de yeni ticaret deneyimi-Azure Faturalandırma 
+# <a name="new-commerce-experience-in-csp---azure-billing"></a>CSP'de yeni ticari deneyim - Azure faturalama 
 
-**Uygun roller:**
+**Uygun roller**
 
 - Yönetim Aracısı
 - Faturalama yöneticisi
 - Genel yönetici
 
-Azure planı altında faturalandırma, hizalanmış bir tek faturalandırma tarihi ve takvim ay tabanlı fatura dönemi kullanan Basitleştirilmiş bir faturalandırma deneyimidir.
+Bu makalede, Azure planına yönelik faturalandırma ile ilgili fatura ve mutabakat dosya yapısına nasıl erişebileceğiniz ve anlayabileceğiniz açıklanır. Azure planı altında faturalandırma, hizalanmış bir tek faturalandırma tarihi ve takvim ay tabanlı fatura dönemi kullanan Basitleştirilmiş bir faturalandırma deneyimidir.
 
 ## <a name="summary-of-billing-essentials"></a>Faturalandırma temelleri Özeti
 
-- **Fatura tarihi** : fatura ve mutabakat dosyası, 8 (gece yarısı UTC) tarafından iş ortağı merkezi panosunda/API 'de kullanıma sunulacaktır.
+- **Fatura tarihi**: fatura ve mutabakat dosyası, 8 (gece yarısı UTC) tarafından iş ortağı merkezi panosunda/API 'de kullanıma sunulacaktır.
 
-- **Fatura fatura dönemi** : fatura fatura dönemi, takvim ayına hizalanır, örneğin, 10/1-10/31, 11/1-11/30.
+- **Fatura fatura dönemi**: fatura fatura dönemi, takvim ayına hizalanır, örneğin, 10/1-10/31, 11/1-11/30.
 
-- **Ücret Servisi dönemleri** : ücretler takvim ayına hizalanır. Örneğin, faturalandırılan iş ortağı 10/15 tarihinde bir Azure planı aracılığıyla Azure hizmetleri eklerse ve müşteri Azure hizmetleri 'ni 10/15 ' de kullanmaya başlarsa, faturalandırılan servis dönemi 10/15-10/31 olan müşteri tüketimi için, faturalanan iş ortağı, 11/8 tarihinde fatura/keşfi alır. 12/8 tarihinde oluşturulacak bir sonraki aya ait fatura, 11/1-11/31 servis dönemine yönelik tüm ücretleri içerir.
+- **Ücret Servisi dönemleri**: ücretler takvim ayına hizalanır. Örneğin, faturalandırılan iş ortağı 10/15 tarihinde bir Azure planı aracılığıyla Azure hizmetleri eklerse ve müşteri Azure hizmetleri 'ni 10/15 ' de kullanmaya başlarsa, faturalandırılan servis dönemi 10/15-10/31 olan müşteri tüketimi için, faturalanan iş ortağı, 11/8 tarihinde fatura/keşfi alır. 12/8 tarihinde oluşturulacak bir sonraki aya ait fatura, 11/1-11/31 servis dönemine yönelik tüm ücretleri içerir.
 
-- **Fatura ödeme dönemi** : net 60 gün.
+- **Fatura ödeme dönemi**: net 60 gün.
 
-- **Fatura para birimi** : iş ortakları müşterinin countryatanmı para biriminde faturalandırılmaya devam edecektir. Örneğin, faturalanmış iş ortağı UK, Norveç ve Almanya 'daki müşterilerle Irlanda 'da ise, faturalandırılan iş ortağı bir GBP, NOK ve Euro/keşfi EUR alır.
+- **Fatura para birimi**: iş ortakları müşterinin countryatanmı para biriminde faturalandırılmaya devam edecektir. Örneğin, faturalanmış iş ortağı UK, Norveç ve Almanya 'daki müşterilerle Irlanda 'da ise, faturalandırılan iş ortağı bir GBP, NOK ve Euro/keşfi EUR alır.
 
-- **Partner teşvikleri** : fatura ayının sonundan itibaren ödenen 45 gün.
+- **Partner teşvikleri**: fatura ayının sonundan itibaren ödenen 45 gün.
 
 ## <a name="access-your-invoices-and-reconciliation-files"></a>Faturanız ve mutabakat dosyalarınıza erişin
 
@@ -48,7 +48,7 @@ Faturaya ve mutabakat dosyasına erişmek için:
 
 1. Iş Ortağı Merkezi [panosunda](https://partner.microsoft.com/dashboard/)oturum açın.
 
-2. Iş Ortağı Merkezi menüsünde **faturalandırma** ' i seçin.
+2. Iş Ortağı Merkezi menüsünde **faturalandırma**' i seçin.
 
 3. **Yinelenen** ve **tek seferlik** ve ilgilendiğiniz para biriminin sekmesini seçin.
 
@@ -106,7 +106,7 @@ Faturaya ve mutabakat dosyasına erişmek için:
 
 5. Fatura keşfi dosyasını ve günlük derecelendirmeli kullanım dosyasını, ek faturalandırma ayrıntıları için gözden geçirin.
 
-   :::image type="content" source="images/azure/invoice1.png" alt-text="ödeme":::
+   :::image type="content" source="images/azure/invoice1.png" alt-text="faturalayabilirsiniz":::
 
 ## <a name="read-the-invoice-reconciliation-file"></a>Fatura mutabakatı dosyasını okuyun
 
@@ -134,7 +134,7 @@ Faturaya ve mutabakat dosyasına erişmek için:
 
   - 7/8-7/31 ' dan **yönetilen hizmetler Için Iş ortağı kazanılmış kredi** için uygun ölçüm (geçerli birim fiyatı, perakende fiyatı daha az iş ortağı kazanılan kredidir).
 
-   :::image type="content" source="images/azure/pecfinal.png" alt-text="ödeme":::
+   :::image type="content" source="images/azure/pecfinal.png" alt-text="recon2":::
 
 ## <a name="invoice-in-customer-currency"></a>Müşteri para biriminde fatura
 
@@ -142,7 +142,7 @@ Azure planı aracılığıyla Azure Hizmetleri, ABD Doları cinsinden fiyatland�
 
 Microsoft, fatura para birimi dönüştürmeye fiyatlandırma para birimini belirlemede kullanılan FX tarifelerinin belirlenmesi için Thomson Rebilgisayarları kullanır. FX ücretleri, uygulandıkları ayın ilk günü önce yenilenir ve kullanılabilir.
 
-**Örnek** : 1 Ağustos 'ta hizmet dönemi için kullanım ücretleri 31 Temmuz TARIHINDE yayınlanan FX ücreti kullanılarak faturalandırılır. Bu ücretler, Eylül faturasında görüntülenir ve fatura son sayfasında FX fiyatı belirtilir.
+**Örnek**: 1 Ağustos 'ta hizmet dönemi için kullanım ücretleri 31 Temmuz TARIHINDE yayınlanan FX ücreti kullanılarak faturalandırılır. Bu ücretler, Eylül faturasında görüntülenir ve fatura son sayfasında FX fiyatı belirtilir.
 
 ## <a name="azure-reservations"></a>Azure rezervasyonları
 
@@ -160,7 +160,7 @@ Mevcut Azure harcama deneyimi, Iş Ortağı Merkezi 'nde yeni Azure planı fatur
 
 Azure planı aracılığıyla Azure hizmetleri için faturalandırma modeli, daha büyük bir faturanız beklenenden daha büyük bir fatura olduğundan, iş ortakları aylık bir bütçe uygulayabilir ve kullanım yüzdesini izleyebilir. Bir bütçe, bir kerede bir müşteriye veya birden çok müşteriye uygulanabilir. 
 
-:::image type="content" source="images/azure/azurespend.png" alt-text="ödeme":::
+:::image type="content" source="images/azure/azurespend.png" alt-text="Azure harcaması":::
 
 ## <a name="next-steps"></a>Sonraki adımlar
 

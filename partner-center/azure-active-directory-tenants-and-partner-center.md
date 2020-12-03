@@ -9,18 +9,14 @@ ms.author: vinayks
 ms.custom: SEOAPR.20
 ms.localizationpriority: high
 ms.date: 11/25/2019
-ms.openlocfilehash: 2cc30c3681f0310f738ed937c15e0142b20cdc4c
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: bc837db5a9dbcf92fbfead54b552695a218ae675
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92531559"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534803"
 ---
 # <a name="create-a-work-account-that-links-your-company-to-your-partner-center-account"></a>Şirketinizi Iş Ortağı Merkezi hesabınıza bağlayan bir iş hesabı oluşturun
-
-**Uygulama hedefi**
-
-- İş Ortağı Merkezi
 
 **Uygun roller**
 
@@ -71,3 +67,8 @@ Bir Azure aboneliği satın aldığınızda, şirketinizin fiziksel işletmeleri
 Azure iş hesabı, Azure genel bulutunda şirketinizin adanmış ve yalıtılmış bir sanal gösterimidir ve Azure, Microsoft Intune veya Office 365 gibi bir Microsoft bulut hizmetine abone olduğunuzda sizin için oluşturulur.
 
 İş hesabınız, Azure AD kullanıcılarınızı ve bunlarla ilgili bilgileri ve bunların parolaları, profil verileri, izinleri vb. barındırır. İş hesabı Ayrıca gruplar, uygulamalar ve bir şirketle ilgili ve güvenlikle ilgili diğer bilgileri de içerir.
+
+## <a name="next-steps"></a>Sonraki adımlar
+
+- [İş Ortağı Merkezi hesabınızı yönetme](partner-center-account-setup.md)
+- [Doğrulama durumunu izle](verification-responses.md)

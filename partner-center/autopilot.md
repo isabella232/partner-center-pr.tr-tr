@@ -9,18 +9,14 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 0ae61db0ca040afe67faa3a0883ea033b8f67562
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 12057d50e4456dd2450ff497e00c89a9afa5dc4d
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92531566"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96535006"
 ---
 # <a name="use-windows-autopilot-profiles-on-new-devices-to-customize-a-customers-out-of-box-experience"></a>Yeni cihazlarda Windows Otomatik Pilot profillerini kullanarak müşterinin kullanıma hazır deneyimini özelleştirme
-
-**Uygulama hedefi**
-
-- CSP doğrudan fatura ortakları, dolaylı sağlayıcılar ve dolaylı satıcılar
 
 **Uygun roller**
 
@@ -37,10 +33,10 @@ Bu makalede, Autopilot profillerinin Iş Ortağı Merkezi 'nde cihazlara nasıl 
 
 Zaten Autopilot hakkında bilgi sahibi değilseniz, bu makalelerdeki bilgileri gözden geçirin:
 
-- [Windows Autopilot 'e genel bakış](/windows/deployment/windows-10-auto-pilot)
+- [Windows Autopilot’a genel bakış](/windows/deployment/windows-10-auto-pilot)
 - [Autopilot dağıtım başvurusu Kılavuzu](https://assetsprod.microsoft.com/autopilot-deployment-program-reference-guide-csp.docx)  
 
-## <a name="overview"></a>Genel Bakış
+## <a name="overview"></a>Genel bakış
 
 Iş Ortağı Merkezi 'ndeki Windows Autopilot özelliği ile müşteri cihazlarına uygulanacak özel profiller oluşturabilirsiniz. Aşağıdaki profil ayarları, bu makalenin yayımlandığı sırada mevcuttur:
 
@@ -73,9 +69,9 @@ Iş Ortağı Merkezi 'nde, Windows Autopilot dağıtım profilleri oluşturabili
 
 1. Iş Ortağı Merkezi menüsünden **müşteriler** ' i seçin ve ardından Autopilot profilini oluşturduğunuz müşteriyi seçin.
 
-2. Müşterinin ayrıntı sayfasında **cihazlar** ' ı seçin.
+2. Müşterinin ayrıntı sayfasında **cihazlar**' ı seçin.
 
-3. **Windows Autopilot profilleri** altında **Yeni profil ekle** ' yi seçin.
+3. **Windows Autopilot profilleri** altında **Yeni profil ekle**' yi seçin.
 
 4. Profilin adını ve açıklamasını girip OOBE ayarlarını yapılandırın. Aşağıdakilerden birini seçin:  
 
@@ -101,9 +97,9 @@ Bir müşteri için Autopilot profili oluşturduktan sonra, bunu müşterinin ci
 
 1. Iş Ortağı Merkezi menüsünden **müşteriler** ' i seçin ve ardından Autopilot profilini oluşturduğunuz müşteriyi seçin.
 
-2. Müşterinin ayrıntı sayfasında **cihazlar** ' ı seçin.
+2. Müşterinin ayrıntı sayfasında **cihazlar**' ı seçin.
 
-3. **Cihazları cihazlara Uygula** altında, profil eklemek istediğiniz cihazları veya cihaz gruplarını seçin ve ardından **profili Uygula** ' yı seçin. Yeni uyguladığınız profil **profil** sütununda görünür.
+3. **Cihazları cihazlara Uygula** altında, profil eklemek istediğiniz cihazları veya cihaz gruplarını seçin ve ardından **profili Uygula**' yı seçin. Yeni uyguladığınız profil **profil** sütununda görünür.
 
 4. Profilin cihaza başarıyla uygulanacağını doğrulamak için aşağıdaki adımları izleyin.
 
@@ -117,9 +113,9 @@ Bir müşteri için Autopilot profili oluşturduktan sonra, bunu müşterinin ci
 
 1. Iş Ortağı Merkezi menüsünden **müşteriler** ' i seçin ve ardından Autopilot profilini oluşturduğunuz müşteriyi seçin.
 
-2. Müşterinin ayrıntı sayfasında **cihazlar** ' ı seçin.
+2. Müşterinin ayrıntı sayfasında **cihazlar**' ı seçin.
 
-3. **Cihazlara profilleri Uygula** altında, profili kaldırmak istediğiniz cihazları seçin ve ardından **Profili Kaldır** ' ı seçin.
+3. **Cihazlara profilleri Uygula** altında, profili kaldırmak istediğiniz cihazları seçin ve ardından **Profili Kaldır**' ı seçin.
 
    >[!NOTE]
    >Bir cihazın cihazdan kaldırılması, profili listenizden silmez. Bir profili silmek istiyorsanız, [Autopilot profilini güncelleştirme veya silme](#update-or-delete-an-autopilot-profile)bölümündeki yönergeleri izleyin.
@@ -132,9 +128,9 @@ Müşterinin cihazı internet 'e bağlandığı zaman, OOBE işlemi sırasında 
 
 1. Iş Ortağı Merkezi menüsünden **müşteriler** ' i seçin ve ardından bir Autopilot profilini değiştirmenizi isteyen müşteriyi seçin.
 
-2. Müşterinin ayrıntı sayfasında **cihazlar** ' ı seçin.
+2. Müşterinin ayrıntı sayfasında **cihazlar**' ı seçin.
 
-3. **Windows Autopilot profilleri** altında güncelleştirmeniz gereken profili seçin. Gerekli değişiklikleri yapıp **Gönder** ' i seçin.
+3. **Windows Autopilot profilleri** altında güncelleştirmeniz gereken profili seçin. Gerekli değişiklikleri yapıp **Gönder**' i seçin.
 
 Bu profili silmek için sayfanın sağ üst köşesinden **Profili Sil** ' i seçin.
 
@@ -149,22 +145,22 @@ OEM adı, seri numarası ve model birleşimini kullanmayı planlıyorsanız, bu 
 
 - Bu tanımlama grubu yalnızca daha yeni cihazlar (örneğin, 4k karmaları) için geçerlidir ve 128b karmaları (RS2 ve önceki cihazlar) için desteklenmez.
 
-- Demet kaydı, büyük/küçük harfe duyarlıdır, bu nedenle dosyadaki verilerin, ***tam*** olarak OEM sağlayıcısı (donanım sağlayıcısı) tarafından sağlandığı şekilde model ve üretici adlarıyla eşleşmesi gerekir.
+- Demet kaydı, büyük/küçük harfe duyarlıdır; bu nedenle, dosyadaki verilerin, OEM sağlayıcısı (donanım sağlayıcısı) tarafından sağlandığı gibi, model ve üretici adlarıyla **_tam_* _ ile eşleşmesi gerekir.
 
 Iş Ortağı Merkezi 'nde bir müşterinin hesabına cihaz eklemek için aşağıdaki yönergeleri izleyin.
 
-1. Iş Ortağı Merkezi menüsünden **müşteriler** ' i seçin ve ardından cihazlarını yönetmek istediğiniz müşteriyi seçin.
+1. Iş Ortağı Merkezi menüsünde _ *Customers** öğesini seçin ve ardından cihazlarını yönetmek istediğiniz müşteriyi seçin.
 
-2. Müşterinin ayrıntı sayfasında **cihazlar** ' ı seçin.
+2. Müşterinin ayrıntı sayfasında **cihazlar**' ı seçin.
 
-3. **Cihazlara profil Uygula** altında **Cihaz Ekle** ' yi seçin.
+3. **Cihazlara profil Uygula** altında **Cihaz Ekle**' yi seçin.
 
 4. Cihaz listesi için bir ad girin ve ardından, müşteri listesini (. csv dosyası biçiminde) Iş Ortağı Merkezi 'ne yüklemek için **Gözden** geçirme ' yi seçin.
 
     >[!NOTE]
     >Bu. csv dosyasını cihazınızın satın alımından almış olmanız gerekir. Bir. csv dosyası almadıysanız, [Windows Autopilot 'a cihaz ekleme](/windows/deployment/windows-autopilot/add-devices#collecting-the-hardware-id-from-existing-devices-using-powershell)adımlarını izleyerek kendiniz bir tane oluşturabilirsiniz.  
 
-5. . Csv dosyasını karşıya yükleyin ve ardından **Kaydet** ' i seçin.
+5. . Csv dosyasını karşıya yükleyin ve ardından **Kaydet**' i seçin.
 
 Bir .csv dosyasını karşıya yüklemeye çalışırken hata iletisi alıyorsanız, dosyanın biçimini denetleyin. Yalnızca donanım karmasını veya OEM adı, seri numarası ve model (bu sütun sırasıyla) veya Windows Ürün Kimliğini kullanabilirsiniz. Cihaz listesi oluşturmak için cihaz **Ekle** ' nin yanındaki bağlantıdan sunulan Sample. csv dosyasını da kullanabilirsiniz.
 

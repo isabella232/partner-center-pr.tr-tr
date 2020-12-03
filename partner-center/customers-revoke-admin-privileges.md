@@ -1,7 +1,7 @@
 ---
 title: Müşterinin yönetici ayrıcalıklarını edinin
 ms.topic: how-to
-ms.date: 06/19/2020
+ms.date: 12/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Müşterinin hizmetini veya aboneliğini kendi adınıza yönetmek için ihtiyacınız olan izinleri alın. İzinlerin nasıl verildiğini, iptal edildiğini ve yönetildiğini öğrenin.
@@ -9,16 +9,16 @@ author: BillLinzbach
 ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: high
-ms.openlocfilehash: dcfc552016560ecc3167deebf96f7a75a72048bc
-ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
+ms.openlocfilehash: 6f99c9ed9fb43136bccf0d3024377ba2208ed1a1
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "92531187"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534888"
 ---
 # <a name="obtain-permissions-to-manage-a-customers-service-or-subscription"></a>Müşterinin hizmetini veya aboneliğini yönetme izinleri alma
 
-**Uygulama hedefi**
+**Şunlara uygulanır**
 
 - İş Ortağı Merkezi
 
@@ -31,7 +31,7 @@ Müşterinin hizmet veya aboneliğini kendi adına yönetmek için müşterinin 
 
 ## <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you"></a>Bir müşteriyi sizinle bir satıcı ilişkisi kurmaya davet etme
 
-1.  **Müşteriler** ' i seçin ve ardından **bir satıcı ilişkisi iste** ' yi seçin.
+1.  **Müşteriler** ' i seçin ve ardından **bir satıcı ilişkisi iste**' yi seçin.
 
 2.  Sonraki sayfada taslak e-posta iletisini gözden geçirin. Taslak iletiyi varsayılan e-posta uygulamanızda açabilir veya iletiyi panonuza kopyalayıp bir e-postaya yapıştırabilirsiniz. 
 
@@ -47,13 +47,13 @@ Müşterinin hizmet veya aboneliğini kendi adına yönetmek için müşterinin 
 6.  Müşterinin hesabını, hizmetlerini, kullanıcılarını ve lisanslarını yönetmek için, adının yanındaki aşağı oku seçerek müşterinin kaydını genişletin ve ardından yönetmek istediğiniz hizmetin yönetim portalını seçin.
 
 >[!IMPORTANT]  
->Müşteriler, bir hizmetin yönetim portalında yönetici izinlerini yeniden atayabilir veya kaldırabilir. Bununla birlikte, müşteri ile sözleşmenizi yeniden başlatana kadar, müşteri desteği sağlamaktan ve bir müşterinin yeniden atama ya da yönetici izinlerini kaldırdıktan sonra bile, bulut satıcı sözleşmesinin koşullarına bağlı olmaya devam edersiniz. Bu durumda, müşteri yardım gerektiriyorsa, müşteri adına bir hizmet isteği açmak için Microsoft desteğine başvurun.
+>Müşteriler, bir hizmetin yönetim portalında yönetici izinlerini yeniden atayabilir veya kaldırabilir. Bununla birlikte, yönetici izinlerinizi kaldıran müşteriye, sizin adına Microsoft 'a bir hizmet isteği açabilmeyeceğiniz anlamına gelir. Müşteriyle anlaşmanızı yeniden başlatana kadar bu hizmet isteği türlerini müşterinin adına açamazsınız.
 
 Müşterileriniz, iş ortaklarının Office 365 Yönetici portalı içinden kiracılarında yönetici ayrıcalıklarına sahip olduğunu bulabilir. Bunu yapmak için:
 
 1. Müşterinin, genel yönetici olarak Office 365 Yönetici portalında oturum açması gerekir.
 
-2. **Ayarlar**  >  **iş ortağı ilişkileri** ' ni seçin.
+2. **Ayarlar**  >  **iş ortağı ilişkileri**' ni seçin.
 
 3. **Ortak ilişkiler** sayfasında, müşteri, çalıştıkları iş ortaklarının bir listesini ve kiracının kendilerine atanmış yönetim ayrıcalıkları verildiğini görür.
 
@@ -68,8 +68,8 @@ Müşteriniz, kiracının Temsilcili yönetici ayrıcalıklarınızı kaldırmay
 Temsilcili yönetim ayrıcalıklarını bir iş ortağından kaldırmak için:
 
 1. **Iş ortağı ilişkileri** sayfasında, ilgilendiğiniz iş ortağını seçin.
-2. Ayrıntılar bölmesinde, **yönetici temsilcisi kaldır** ' ı seçin.
-3. Onay bölmesinde **Kaldır** ' ı seçin.
+2. Ayrıntılar bölmesinde, **yönetici temsilcisi kaldır**' ı seçin.
+3. Onay bölmesinde **Kaldır**' ı seçin.
 
 >[!IMPORTANT]  
 >İş ortağına yönelik Azure AD rol atamaları örtük olarak bulunur. Azure AD Portal/PowerShell/Graph kullanarak Azure AD rollerinin üyelerini listedenemeye çalışırsanız, iş ortağı döndürülmez. İş ortaklarının Azure AD rollerine atanıp atanmadığını öğrenmek için, iş ortağının Temsilcili yönetim ayrıcalığının verildiğini öğrenmek üzere Office 365 yönetim portalındaki Iş ortağı ilişkiler sayfasına başvurmanız gerekir.

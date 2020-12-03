@@ -9,14 +9,20 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a86ee34070b53fb7dcee3ffcd9c11c79a5a4b856
-ms.sourcegitcommit: 81348141eece79492c6f43c84ddac2b98f80428d
+ms.openlocfilehash: 87638a036086db933e0375ec232f2d512d73653e
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/07/2020
-ms.locfileid: "92531234"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534752"
 ---
 # <a name="introduction-azure-plan-lets-partners-buy-azure-at-pay-as-you-go-rates-for-customers"></a>Giriş: Azure planı, iş ortaklarının müşteriler için Kullandıkça Öde tarifesine Azure satın almasını sağlar
+
+**Uygun roller**
+
+- Yönetim Aracısı
+- Satış Aracısı
+- Genel yönetici
 
 Microsoft, Azure planı olan Iş Ortağı Merkezi 'nde yeni bir ticari deneyim sunmuştur.  Bu yeni ticaret deneyimiyle, iş ortakları, Microsoft Müşteri anlaşmasındaki müşterilere yönelik Kullandıkça Öde tarifelerine göre Azure hizmetlerine erişim kazanacaktır.
 
@@ -30,15 +36,15 @@ Mevcut CSP Azure tekliflerinden müşterilerinizi, Iş Ortağı Merkezi 'nin iç
 >1 Şubat 2020 ' den itibaren, mevcut Microsoft Bulut sözleşmesi CSP programından kaldırılır. Bu süre içinde, yeni Microsoft Müşteri Sözleşmesi için müşteri kabulünün iş ortağı onayı (kanıtlama), Microsoft 365, Dynamics 365 ve mevcut Azure gibi diğer tüm teklifler için gereklidir. CSP 'deki iş ortakları, Microsoft Müşteri sözleşmesinin kanıtı olmadan müşteri için yeni bir sipariş oluşturamayacak. Tüm ayrıntılar için [Microsoft Müşteri sözleşmesinin müşteri kabulünü Onayla](confirm-customer-agreement.md)konusunu okuyun.
 
 
-## <a name="learn-about-the-azure-plan"></a>Azure planı hakkında bilgi edinin
+## <a name="next-steps"></a>Sonraki adımlar
 
 |**Bunu yapmak için**   |**Bunu okuyun**   |
 |------------------|---------------------|
 |Azure planına geçmeyi Başlat|[Azure planına taşıma-kullanmaya başlama](azure-plan-get-started.md)
 |Müşterilerinizin PAYG 'den Azure planına geçişini yapın|[Müşterinizi Azure planına geçirin](azure-plan-transition.md)|
-|Müşterileriniz için Azure planı satın alın|[Azure planını satın alma](purchase-azure-plan.md)|
+|Müşterileriniz için Azure planı satın alın|[Azure planı satın alma](purchase-azure-plan.md)|
 |24 X 7 bulut-operasyon yönetimi sağlayan faturalandırma ortakları, bu iş için **yönetilen hizmetler için bir Iş ortağı tarafından kazanılan kredi** için uygun hale gelir.|[Iş ortağı kazanılmış kredi-genel bakış](partner-earned-credit.md) ve [ortağın kazanıldığı kredi nasıl belirlenir-Ayrıntılar](partner-earned-credit-explanation.md)|
-|Azure teklif türlerinin yan yana karşılaştırmasını görün|[Azure tekliflerini karşılaştırın](compare-azure-offers.md)|
+|Azure teklif türlerinin yan yana karşılaştırmasını görün|[Azure tekliflerini karşılaştırma](compare-azure-offers.md)|
 |Azure planı kapsamındaki müşterilerin aboneliklerini ve kaynaklarını yönetme|[Azure planı kapsamındaki abonelikleri ve kaynakları yönetme](azure-plan-manage.md)|
 |Azure plan fiyat listesini okumayı öğrenin   |[Azure planı fiyat listesi açıklanıyor](azure-plan-price-list.md)|
 |Azure planı nerede kullanılabilir?|[Azure planının kullanılabildiği ülkelerin/bölgelerin tam listesi](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3QN0x)

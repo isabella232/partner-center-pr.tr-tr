@@ -9,18 +9,14 @@ author: mowree
 ms.author: mowrim
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: d56e1115b47af2fcbb4fc8077fadee01d8fceba2
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: 364add7e25052ce97bfb26b84b26c5fcc430637d
+ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "92531150"
+ms.lasthandoff: 12/02/2020
+ms.locfileid: "96534667"
 ---
 # <a name="azure-expert-managed-services-provider-program"></a>Azure Uzman Yönetilen Hizmetler Sağlayıcısı programı
-
-**Uygulama hedefi**
-
-- MPN iş ortakları
 
 **Uygun roller**
 
@@ -31,7 +27,7 @@ ms.locfileid: "92531150"
 
 Şirketiniz Azure hizmetlerini satıyor ve bu müşterilere yönetirken bir süper yıldız ise, Azure Expert Managed Services sağlayıcı programına uygulama konusuna bakın. Azure Expert MSP iş ortakları, diğer Microsoft iş ortaklarının sunduğu özel bir rozet elde edebilir ve başvuru altyapısında en iyi önceliğe sahip olun. Bunlar ortak satış görevlendirmeleri için önceliklendirilir, yeni uygulamalar geliştirirken destek alırlar ve özel olaylara katılabilirler.
 
-Azure MSP 'ye uygulama işlemine başlamak için, sol gezinti bölmesinde. **Uzmanlıklar ve programlar** ' ı seçin ve ardından **Azure Expert msp** ' yi seçin. [Önkoşullar ve uygulama işlemi](https://partner.microsoft.com/membership/azure-expert-msp)hakkında daha fazla bilgi edinin. 
+Azure MSP 'ye uygulama işlemine başlamak için, sol gezinti bölmesinde. **Uzmanlıklar ve programlar** ' ı seçin ve ardından **Azure Expert msp**' yi seçin. [Önkoşullar ve uygulama işlemi](https://partner.microsoft.com/membership/azure-expert-msp)hakkında daha fazla bilgi edinin. 
 
 Henüz nitelendirmezseniz, üyelik geliştirmeleri, eğitim ve diğer büyüme fırsatları aracılığıyla Microsoft iş ortaklığınızda yine de derleme yapabilirsiniz.
 [İşletmenizin ve uzmanlığınızı geliştirmek](https://partner.microsoft.com/membership/azure-expert-msp)için uygulayabileceğiniz adımlar hakkında bilgi edinin.
