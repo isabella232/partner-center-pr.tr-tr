@@ -1,6 +1,6 @@
 ---
 title: Atadığınız rolü bulun
-description: Rol ve izinlerinizi bulmak için Iş Ortağı Merkezi 'ne nereden gidebileceğinizi öğrenin.
+description: Atadığınız rolü, izinlerinizi ve genel yöneticinizle bulmak için Iş Ortağı Merkezi 'ne nereden gidebileceğinizi öğrenin.
 ms.topic: how-to
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
@@ -9,12 +9,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.date: 10/12/2020
-ms.openlocfilehash: e382509ae11797d81b5b56b3f1c58e7b1ebafee2
-ms.sourcegitcommit: 940dad4527f51781f6f966e196b3aa08389613a2
+ms.openlocfilehash: 4f4a36bbe5021b6c73025e14bf3f608bd6a269e8
+ms.sourcegitcommit: 147813ba322653c989df5afe0b3bf0c252523a92
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "92531850"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96556285"
 ---
 # <a name="find-your-role-your-permissions-and-your-global-admin"></a>Rolünüzü, izinlerinizi ve genel yöneticinizle bulun
 
@@ -44,7 +44,7 @@ Bazen bir kullanıcının rollerinin değişmesi veya yeni bir kullanıcının b
 
 Rol değişikliği yapan veya yeni bir kullanıcıya rol atayan bir genel yönetici bulmak için: 
 
-1. Iş Ortağı Merkezi 'nin sağ üst köşesindeki **Hesap ayarları simgesinden** **Kullanıcı yönetimi** ' ni seçin.
+1. Iş Ortağı Merkezi 'nin sağ üst köşesindeki **Hesap ayarları simgesinden** **Kullanıcı yönetimi**' ni seçin.
 
 1. Genel yönetici 'de filtrele
 

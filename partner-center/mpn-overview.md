@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 10/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Pazara ve çözümlerinizi satmaya gitmek için Microsoft Eylem Paketi, Uzmanlıklar ve program seçenekleri de dahil olmak üzere Microsoft İş Ortağı Ağı (MPN) avantajları hakkında bilgi edinin.
+description: Pazara ve çözümlerinizi satmaya gitmek için Microsoft Eylem Paketi, Uzmanlıklar veya program seçenekleri gibi Microsoft İş Ortağı Ağı (MPN) avantajları hakkında bilgi edinin.
 author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0678a7f59620c951fc7595f0ff7437d64a433a05
-ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
+ms.openlocfilehash: 4a3b00db6b48d95da58cdc130832ba5dc1ab990f
+ms.sourcegitcommit: 147813ba322653c989df5afe0b3bf0c252523a92
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92532103"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96556387"
 ---
 # <a name="partner-with-microsoft-and-discover-membership-benefits"></a>Microsoft ile iş ortağı ve üyelik avantajlarını keşfet
 
@@ -31,7 +31,7 @@ Bir Microsoft iş ortağı programına katılırsanız, müşterilerinize Amaze 
 
 ## <a name="join-the-microsoft-partner-network"></a>Microsoft İş Ortağı Ağı birleştirin
 
-Microsoft İş Ortağı Ağı katmak için, MPN Web sitesindeki [ **Üyelik** sayfasına](https://partner.microsoft.com/membership) gidin ve **Kaydet** veya **Şimdi Birleştir** ' i seçin.
+Microsoft İş Ortağı Ağı katmak için, MPN Web sitesindeki [ **Üyelik** sayfasına](https://partner.microsoft.com/membership) gidin ve **Kaydet** veya **Şimdi Birleştir**' i seçin.
 
 ## <a name="action-pack"></a>Eylem Paketi
 

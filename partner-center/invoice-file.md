@@ -2,17 +2,17 @@
 title: Iş ortağı merkezi faturalama faturalarını anlama
 ms.topic: article
 ms.date: 05/18/2020
-description: Iş Ortağı Merkezi faturalandırmasına ait fatura dosyanızdaki alanları anlayın. bilgiler, tüm fatura alanları ve tek seferlik ücret alanları için alanları ve tanımları içerir.
+description: Iş Ortağı Merkezi faturalaması için fatura dosyanızdaki alanları anlayın. Dahil edilen alanlar ve tanımlar tüm fatura alanları ve tek seferlik ücret alanları için kullanılır.
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 121b0bc756e715af358eda30eff92cba35e802ed
-ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
+ms.openlocfilehash: 3e9eb392279c0a09b5e30395b38ab7030bfa87d4
+ms.sourcegitcommit: 147813ba322653c989df5afe0b3bf0c252523a92
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92532114"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96556302"
 ---
 # <a name="understand-partner-center-billing-invoice-fields"></a>Iş ortağı merkezi faturalama faturası alanlarını anlayın
 
@@ -34,12 +34,12 @@ Fatura dosyalarınızda aşağıdaki alanlar görüntülenir.
 | BIZE FEDA | Federal Işveren kimlik numaranız (FEIN). Bu Birleşik Devletler federal vergi tanımlayıcı numarasıdır. |
 | Müşteri numarası | Müşteri numaranız. |
 | Fatura adresi | Faturanızı gönderdiğimiz adres. Şirket adınızı ve/veya adresinizi Iş ortağı merkezi faturalama profilinizde değiştirebilirsiniz. |
-| Lisans tabanlı ücretler | Satın alınan kullanım tabanlı lisanslarınız için aylık veya yıllık ücretler, hizmette önceden faturalandırılır. Bu sayı, lisans tabanlı mutabakat dosyanızdaki **alt toplam** sütunundaki (sütun **T** ) tüm ücretlerin toplamıdır. |
+| Lisans tabanlı ücretler | Satın alınan kullanım tabanlı lisanslarınız için aylık veya yıllık ücretler, hizmette önceden faturalandırılır. Bu sayı, lisans tabanlı mutabakat dosyanızdaki **alt toplam** sütunundaki (sütun **T**) tüm ücretlerin toplamıdır. |
 | Kullanım tabanlı ücretler | Azure kullanımınız. Bu, faturalama döneminde etkinleştirilen ve kullanılan yeni hizmetleri veya uygulamaları içerir. Bu sayı, kullanım tabanlı mutabakat dosyanızdaki **Pretaxcharges** sütunundaki ( **Z** sütunu) tüm ücretlerin toplamıdır. |
 | İndirimler | Müşterinin aboneliğin normal fiyatından aldığı indirim. Bu sayı, birim veya lisans başına fiyat olarak değil, *sabit bir tutar* olarak gösterilir. |
 | Krediler | Aboneliklerde yapılan değişiklikler için krediler veya Ayarlamalar (örneğin, lisans artar veya azalır). |
 | Ara toplam | Vergiler ve vergi dışlamalı ücretler ve kredilerin toplam sayısı. |
-| Vergi | Faturanızda sayfa 2 ' den itibaren **Ayrıntılar** bölümünde toplanan geçerli ücretler için toplam vergi. Bu sayı, kullanım tabanlı mutabakat dosyanızdaki **TaxAmount** sütunundaki (sütun **AA** ) tüm giderlerin toplamıdır ve lisans tabanlı mutabakat dosyanızdaki **vergi** sütunu (sütun **U** ). |
+| Vergi | Faturanızda sayfa 2 ' den itibaren **Ayrıntılar** bölümünde toplanan geçerli ücretler için toplam vergi. Bu sayı, kullanım tabanlı mutabakat dosyanızdaki **TaxAmount** sütunundaki (sütun **AA**) tüm giderlerin toplamıdır ve lisans tabanlı mutabakat dosyanızdaki **vergi** sütunu (sütun **U**). |
 | Diğer krediler | Vergi dışlamalı krediler. |
 | Toplam geçerli ücret | Fatura dönemi için faturalandırma para biriminiz için gereken miktar. Bu ücretler, ödeme bitiş tarihi ile kaynaklanmaktadır. |
 | Ödeme yönergeleri | Bölgenize göre faturanızı nasıl ödeyabileceğinize ilişkin açıklama. *Ödeme yaparken her zaman fatura numaranızı eklediğinizden emin olun.* |

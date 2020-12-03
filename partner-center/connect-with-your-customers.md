@@ -1,6 +1,6 @@
 ---
-title: Müşterilerinizle bağlantı kurmak
-description: Yeni ve mevcut müşterilerle dolaylı satıcı olarak nasıl bağlanacağınızı öğrenin
+title: Müşterilerinizle bağlantı kurma
+description: CSP programında dolaylı bir satıcıysanız, bu makale yeni ve mevcut müşterilerinizle bağlantı sağlamanıza yardımcı olur.
 ms.topic: how-to
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,16 +9,16 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.date: 10/12/2020
-ms.openlocfilehash: dc0d5af728b5e17bc8070fae9c895adc2bf8db4c
-ms.sourcegitcommit: 940dad4527f51781f6f966e196b3aa08389613a2
+ms.openlocfilehash: cb8a3403968ddf5c83c7fdbd1d1af6f6f740d1ff
+ms.sourcegitcommit: 147813ba322653c989df5afe0b3bf0c252523a92
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "92531858"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96556319"
 ---
-# <a name="connect-with-customers"></a>Müşterilerle bağlanma
+# <a name="connect-with-customers"></a>Müşterilerle bağlantı kurma
 
-**Aşağıdakiler cihazlar için geçerlidir:**
+**Aşağıdakiler için geçerlidir:**
 
 - İş Ortağı Merkezi
 
@@ -38,7 +38,7 @@ Dolaylı bir sağlayıcıya bağlandığınızda, dolaylı sağlayıcının mü�
 
 ## <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you"></a>Bir müşteriyi sizinle bir satıcı ilişkisi kurmaya davet etme
 
-1. **Iş Ortağı Merkezi** menünüzden **müşteriler** ' i seçin ve ardından **bir satıcı ilişkisi iste** ' yi seçin.
+1. **Iş Ortağı Merkezi** menünüzden **müşteriler** ' i seçin ve ardından **bir satıcı ilişkisi iste**' yi seçin.
 
 2. Sonraki sayfada taslak e-posta iletisini gözden geçirin. Taslak iletisini e-postada açabilir veya iletiyi panonuza kopyalayabilir ve bir e-postaya yapıştırabilirsiniz.
 
@@ -84,7 +84,7 @@ Bir müşteriyle ilişkiyi kaldırmak için aşağıdaki adımları izleyin:
 
 2.  **Hesabı** seçin.
 
-3.  **Müşteri Ilişkisini kaldır** ' ı seçin.
+3.  **Müşteri Ilişkisini kaldır**' ı seçin.
 
 4.  Müşteri artık müşteri listesinde görünmez.
 

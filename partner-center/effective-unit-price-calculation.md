@@ -2,19 +2,19 @@
 title: Geçerli birim fiyat hesaplaması
 ms.topic: how-to
 ms.date: 11/10/2020
-description: Geçerli fiyat birimi ve nasıl hesaplandığı hakkında bilgi edinin. Örnek bir hesaplama içerir.
+description: Geçerli birim fiyatı ve nasıl hesaplandığı hakkında bilgi edinin. Bu makale, örnek bir hesaplama da içerir.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7b65a79232656af6ddb69fede7a9ee35fe426a9d
-ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
+ms.openlocfilehash: 6ca6e9bf6a49e695314a3e33e36d2d1d5d4d2a25
+ms.sourcegitcommit: 147813ba322653c989df5afe0b3bf0c252523a92
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 11/11/2020
-ms.locfileid: "94499149"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96556336"
 ---
 # <a name="effective-unit-price-calculation-for-azure-plan-consumption"></a>Azure plan tüketimi için geçerli birim fiyat hesaplaması
 
@@ -35,7 +35,7 @@ Tüketimi faturalandırma döngüsünün tamamında günlük olarak izleyediğim
 Ölçmeniz katmanlı fiyatlandırma kullanıp kullanmadığını bilmiyorsanız, öğrenmek için aşağıdaki yordamı kullanın. 
 
 1. [İş Ortağı Merkezi panosunda](https://partner.microsoft.com/dashboard/) oturum açın.
-2. **Satış** öğesini seçin, **fiyatlandırma ve teklifler** ' i seçin ve ardından **Azure plan fiyatlandırması** ' nı seçin.
+2. **Satış** öğesini seçin, **fiyatlandırma ve teklifler**' i seçin ve ardından **Azure plan fiyatlandırması**' nı seçin.
 3. Ölçerinizi KIMLIĞE göre bulun ve ardından fiyatlandırma verilerinizi indirin. 
 
 ## <a name="sample-calculation"></a>Örnek hesaplama

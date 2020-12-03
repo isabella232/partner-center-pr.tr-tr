@@ -1,24 +1,24 @@
 ---
-title: Windows 10 Home müşterilerini Windows 10 eğitimi 'ne yükseltme
+title: Windows 10 Home 'ı Windows 10 eğitimi 'ne yükseltme
 ms.topic: article
 ms.date: 10/28/2020
-description: Windows 10 Home müşterilerini Windows 10 eğitimi 'ne yükseltme
+description: Bulut çözümü sağlayıcısı (CSP) iş ortaklarının bazı eğitim müşterilerinin Windows 10 Home 'dan Windows 10 eğitimi 'ne nasıl yükseltilebileceğine öğrenin
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a65dcceea688094089ad06dacfd2abf13173ca5c
-ms.sourcegitcommit: fdc32c0afce88f8266f75746ec15bf04745590ad
+ms.openlocfilehash: eff687f59e433e3465048173e3f74821280bde41
+ms.sourcegitcommit: 147813ba322653c989df5afe0b3bf0c252523a92
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 11/07/2020
-ms.locfileid: "94360012"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96556435"
 ---
-# <a name="upgrade-windows-10-home-customers-to-windows-10-education"></a>Windows 10 Home müşterilerini Windows 10 eğitimi 'ne yükseltme
+# <a name="upgrade-some-education-customers-from-windows-10-home-to-windows-10-education"></a>Bazı Eğitim müşterilerini Windows 10 Home 'tan Windows 10 eğitim 'e yükseltme
 
-**Şunlara uygulanır**
+**Uygulama hedefi**
 
 - İş Ortağı Merkezi
 
@@ -47,9 +47,9 @@ Müşteri, anahtarı yüklediğinde ve cihaz kiracı etki alanına Azure Active 
 
 1. [İş Ortağı Merkezi panosunda](https://partner.microsoft.com/dashboard) oturum açın.
 
-2. Iş Ortağı Merkezi menüsünde **müşteriler** ' i seçin ve ardından destek gerektiren müşteriyi seçin.
+2. Iş Ortağı Merkezi menüsünde **müşteriler**' i seçin ve ardından destek gerektiren müşteriyi seçin.
 
-3. **Hizmet yönetimi** ' ni seçin ve **hizmet istekleri** ' ni seçin.
+3. **Hizmet yönetimi** ' ni seçin ve **hizmet istekleri**' ni seçin.
 
 4. **Yeni istek** ' ı seçin ve ardından **Office 365 ve Enterprise Mobility Suite '** i seçin.
 
@@ -63,9 +63,9 @@ Müşteri, anahtarı yüklediğinde ve cihaz kiracı etki alanına Azure Active 
 - **Açıklama:** Windows 10 eğitimi 'ne yükseltmeyi etkinleştirmek için [ekleme numarası] anahtarları isteniyor. (İstenen anahtar sayısının Microsoft 365 a3/a5 veya Windows 10 Enterprise a3/a5 abonelik lisanslarınızdan büyük olmaması gerektiğini unutmayın.) Müşterinin abonelik KIMLIĞI [Microsoft 365 a3/a5 veya Windows 10 Enterprise a3/a5 aboneliği için müşteri abonelik KIMLIĞI GUID 'ı ekleyin.]
 - **Kişi numarası:** Bu, önceden doldurulacak; onaylamak veya güncelleştirmek için gözden geçirin.
 - **E-posta:** Bu, önceden doldurulacak ve Microsoft Portal Yöneticisi (yalnızca genel yönetici veya faturalama yöneticisi) olarak kullandığınız e-posta olmalıdır.
-- **Tercih edilen iletişim yöntemi** : **Telefon** seçin veya **geri arama zamanlayın**.
+- **Tercih edilen iletişim yöntemi**: **Telefon** seçin veya **geri arama zamanlayın**.
 
-8. **Benimle Iletişim kurun** ' ı seçin. Beklenen bekleme süresi, **Yardım gerekiyor?** bölmesinde belirtilir.
+8. **Benimle Iletişim kurun**' ı seçin. Beklenen bekleme süresi, **Yardım gerekiyor?** bölmesinde belirtilir.
 
 9. **Microsoft desteği** , müşterinin uygun olduğundan emin olmak için isteği gözden geçirir. İstek onaylandıktan sonra, anahtara erişme yönergelerini içeren iş ortağına bir e-posta gönderir.
 
@@ -75,7 +75,7 @@ Müşteri, anahtarı yüklediğinde ve cihaz kiracı etki alanına Azure Active 
 
 Windows 10 Home 'ı bir Windows 10 Pro eğitim ürün anahtarı kullanarak yükseltmek için müşterinin aşağıdakileri yapması gerekir:  
 
-1. **Başlat** ' ı seçin, ardından **ayarlar > güncelleştirme & güvenlik > etkinleştirme** ' yi seçin. **Ürün anahtarını değiştir** ' i seçin ve 25 karakterlik Windows 10 Pro ürün anahtarını girin. Windows 10 Pro 'ya yükseltmeyi başlatmak için **İleri ' yi** seçin.
+1. **Başlat**' ı seçin, ardından **ayarlar > güncelleştirme & güvenlik > etkinleştirme**' yi seçin. **Ürün anahtarını değiştir**' i seçin ve 25 karakterlik Windows 10 Pro ürün anahtarını girin. Windows 10 Pro 'ya yükseltmeyi başlatmak için **İleri ' yi** seçin.
 
 2. Cihaz kiracı etki alanına katıldığında (AAD aracılığıyla), cihaz otomatik olarak Windows 10 eğitimi ' ne yükseltilir.  
 
