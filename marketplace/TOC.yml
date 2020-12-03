@@ -20,6 +20,8 @@
       href: transfer-eligibility.md
     - name: Özel Azure Market oluşturma ve yönetme
       href: create-manage-private-azure-marketplace.md
+    - name: Özel Azure Market’i yönetme - PowerShell
+      href: manage-private-azure-marketplace-powershell.md
     - name: Azure Market iş ortağı tümleştirmeleri
       href: partner-integrations.md
 - name: Genel kaynaklar
