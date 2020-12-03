@@ -2,6 +2,8 @@
   href: index.yml
 - name: Duyurular
   href: announcements/TOC.md
+- name: İş Ortağı Merkezi hakkında
+  href: overview.md
 - name: İş ortağı ağı üyeliği
   items:
     - name: Microsoft ile iş ortaklığı yapma
@@ -60,8 +62,13 @@
         - name: Uygulama Geliştirme yetkinlik istisnası
           href: app-dev-isv.md
     - name: Gelişmiş uzmanlıklar
-      href: advanced-specializations.md
-      displayName: mpn
+      items:
+        - name: Uzmanlığınızı gösterme
+          href: advanced-specializations.md
+          displayName: mpn
+        - name: Başvurma veya durumu kontrol etme
+          href: advanced-specializations-apply.md
+          displayName: mpn
     - name: Azure Uzman MSP olma
       href: azure-expert-msp.md
     - name: Yararları
