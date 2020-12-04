@@ -1,22 +1,22 @@
 ---
-title: YONGADAKI kazançları görüntüleyin
+title: CHIP’te kazançları görüntüleme
 ms.topic: how-to
 ms.date: 11/09/2020
-description: YONGADAKI kazançları görüntüleme yönergeleri
+description: Channel teşvikleri platform (yonga) aracında teşvikleri deyiminizi ve gelirlerinizi görüntülemeyi öğrenin.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b860b8ccd932e23bd12e17e1441a3113cc29400f
-ms.sourcegitcommit: b8e9609fd6448fcb265e4afc480d7a97e8009e63
+ms.openlocfilehash: a78fb9d13d149cba75fc616b93cdfe0b47dfafc4
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "94422258"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570524"
 ---
-# <a name="view-earnings-in-chip"></a>YONGADAKI kazançları görüntüleyin
+# <a name="view-earnings-using-the-chip-tool"></a>YONGA aracını kullanarak kazançları görüntüleme
 
 Teşvikleri deyiminize Channel teşvikleri platform Tool (yonga) aracılığıyla erişebilirsiniz.
 
@@ -41,4 +41,4 @@ Teşvikleri deyiminize Channel teşvikleri platform Tool (yonga) aracılığıyl
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-- [YONGADAKI ödeme durumunu denetle](chip-payment-status.md)
+- [CHIP’te ödeme durumunu denetleme](chip-payment-status.md)

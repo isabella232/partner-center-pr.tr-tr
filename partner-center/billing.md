@@ -9,19 +9,14 @@ ms.author: sodeb
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 04/05/2020
-ms.openlocfilehash: d34744b1bfe8508c1bcdb804b109f7ac00ad27b8
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 6bb915681d65213c1180bab1f44f49372cb72697
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92531615"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570646"
 ---
 # <a name="overview-main-billing-and-tax-articles-in-partner-center"></a>Genel Bakış: Iş Ortağı Merkezi 'nde ana faturalandırma ve vergi makaleleri
-
-**Uygulama hedefi**
-
-- İş Ortağı Merkezi
-- ABD kamu için Microsoft Bulut iş ortağı Merkezi
 
 **Uygun roller**
 
@@ -29,6 +24,9 @@ ms.locfileid: "92531615"
 - Faturalama yöneticisi
 - Genel yönetici
 - Satış Aracısı
+
+Bu Artilce; faturalandırma kaynakları, faturalar, CSP faturalandırma ve vergiler dahil olmak üzere Iş Ortağı Merkezi 'ndeki faturalandırma ve vergi konularıyla ilgili bilgilere bağlantılar sağlar.
+
 
 | Konu | Açıklama |
 | ----- | ----------- |
@@ -44,3 +42,7 @@ ms.locfileid: "92531615"
 | [Kesintiler için SLA Kredisi isteme](request-credit.md) | Hizmet kesintisi olduğunda müşterileriniz için Microsoft 'tan bir SLA Kredisi isteği isteme. |
 
 Iş Ortağı Merkezi API faturalandırma bilgilerini ve kaynaklarını arıyorsanız, bkz. [Geliştirici faturalandırma belgeleri](/partner-center/develop/manage-billing).
+
+## <a name="next-steps"></a>Sonraki adımlar
+
+- [Ticari markette ödeme alma](marketplace-get-paid.md)

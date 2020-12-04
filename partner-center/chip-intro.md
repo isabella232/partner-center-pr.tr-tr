@@ -1,20 +1,20 @@
 ---
-title: Channel teşvikleri platformunda (yonga) gezinme
+title: Channel teşvikleri platformunu (yonga) kullanma
 ms.topic: how-to
 ms.date: 11/09/2020
-description: Teşvikleri çalışmanız için YONGANıN nasıl kullanılacağını öğrenin.
+description: Teşvikleri çalışmanız için kanal teşvikleri platformunu (yonga) nasıl kullanacağınızı öğrenin. Bu platform 2021 sonunda kullanımdan kaldırılacaktır.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8ca669cb62995b84dc246cbc5db5d1b9ada8b8ed
-ms.sourcegitcommit: b8e9609fd6448fcb265e4afc480d7a97e8009e63
+ms.openlocfilehash: 386acaadc74c1c8247a42cebc98c3d325ba43511
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "94422246"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570412"
 ---
 # <a name="navigate-the-channel-incentives-platform-chip"></a>Channel teşvikleri platformunda (yonga) gezinme
 
@@ -41,4 +41,4 @@ Buradan, seçtiğiniz program için **performans** ve **kazanç** görüntüleye
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-- [YONGA hesabınıza kullanıcı ekleme](chip-users.md)
+- [CHIP hesabınıza kullanıcı ekleme](chip-users.md)

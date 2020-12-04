@@ -9,18 +9,14 @@ author: amitravat
 ms.author: amrava
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: de7b9775be925911dab6a7fd72b8f81a5b701bec
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: b2c59bc40b5092a4a2ee6e06bcb2e49a86e0201d
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "92531143"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570663"
 ---
 # <a name="assign-or-revoke-licenses-at-the-same-time-to-multiple-users-in-a-customer-account"></a>Bir müşteri hesabındaki birden fazla kullanıcıya aynı anda lisans atama veya iptal etme
-
-**Uygulama hedefi**
-
-- İş Ortağı Merkezi
 
 **Uygun roller**
 
@@ -36,13 +32,13 @@ Iş Ortağı Merkezi, müşterinin sahip olduğu tüm lisans yetkilendirmelerini
 
 ## <a name="assign-licenses-to-multiple-users"></a>Birden çok kullanıcıya lisans atama
 
-1. **Iş Ortağı Merkezi** menüsünden **müşteriler** ' i seçin ve ardından listeden bir müşteri seçin.
+1. **Iş Ortağı Merkezi** menüsünden **müşteriler**' i seçin ve ardından listeden bir müşteri seçin.
 
 2. **Kullanıcılar ve lisanslar ' ı** seçin.
 
 3. Listeden iki veya daha fazla kullanıcının onay kutusunu seçin. (Geçerli sayfadaki tüm kullanıcıları seçmek için, **Kullanıcılar** sütununun en üstündeki onay kutusunu seçin.)
 
-    **İlk** , **önceki** , **sonraki** ve **son** araçları kullanarak birden çok sayfada Kullanıcı bulabilir ve seçebilirsiniz.
+    **İlk**, **önceki**, **sonraki** ve **son** araçları kullanarak birden çok sayfada Kullanıcı bulabilir ve seçebilirsiniz.
 
 4. **Seçili kullanıcılar** bağlantısını seçin. Gösterilen listede seçilen kullanıcılar gösterilir.
 
@@ -71,20 +67,20 @@ Iş Ortağı Merkezi, müşterinin sahip olduğu tüm lisans yetkilendirmelerini
 7. Her bir ürünün onay kutusunu seçerek kullanıcılar için birden fazla ürün seçin.
     -   Kullanıcılara gereken hizmet planlarını görüntülemek ve seçmek için herhangi bir ürün için **hizmet planlarını görüntüle** ' yi seçin.
 
-8. **Kaydet** ’i seçin. Iş Ortağı Merkezi, kullanıcıların ve yeni lisanslarının listelendiği bir **Lisans güncelleştirilmiş** onay sayfası açar.
+8. **Kaydet**’i seçin. Iş Ortağı Merkezi, kullanıcıların ve yeni lisanslarının listelendiği bir **Lisans güncelleştirilmiş** onay sayfası açar.
 
 >[!NOTE]
 >Bazı Microsoft ürünleri belirli konumlarda bulunmayabilir. Diğer ürünler diğer ürünlere veya hizmetlere bağımlıdır veya aynı kullanıcıya birlikte atanamaz. Kaydettikten sonra, onay sayfası başarılı lisans atamasından tüm kullanıcıların sonuçlarını ve lisans atamasındaki hataları listeler.
 
 ## <a name="revoke-users-license-assignments"></a>Kullanıcıların lisans atamalarını iptal et
 
-1. **Iş Ortağı Merkezi** menüsünden **müşteriler** ' i seçin ve ardından listeden bir müşteri seçin.
+1. **Iş Ortağı Merkezi** menüsünden **müşteriler**' i seçin ve ardından listeden bir müşteri seçin.
 
 2. **Kullanıcılar ve lisanslar ' ı** seçin.
 
 3. Listeden iki veya daha fazla kullanıcının onay kutusunu seçin. (Geçerli sayfadaki tüm kullanıcıları seçmek için, **Kullanıcılar** sütununun en üstündeki onay kutusunu seçin.)
 
-    Diğer kullanıcıları bulmak ve seçmek için **ilk** , **önceki** , **sonraki** ve **son** araçların bulunduğu sayfa. Birden çok sayfa arasında seçim yapabilirsiniz.
+    Diğer kullanıcıları bulmak ve seçmek için **ilk**, **önceki**, **sonraki** ve **son** araçların bulunduğu sayfa. Birden çok sayfa arasında seçim yapabilirsiniz.
 
 4. Kullanıcıları seçtikten sonra **Seçili kullanıcılar** bağlantısını seçin. Gösterilen listede yalnızca seçili kullanıcılar gösterilir.
 
@@ -94,7 +90,7 @@ Iş Ortağı Merkezi, müşterinin sahip olduğu tüm lisans yetkilendirmelerini
 
    Örneğin, seçilen tüm kullanıcılar Office 365 Kurumsal lisanslarına sahip olursa ve bunları iptal etmek istiyorsanız, temizlemek için onay kutusunu işaretleyin.
 
-7. **Kaydet** ’i seçin.
+7. **Kaydet**’i seçin.
 
 ## <a name="next-steps"></a>Sonraki adımlar
 

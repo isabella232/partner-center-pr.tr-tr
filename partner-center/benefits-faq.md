@@ -9,19 +9,21 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOJUNE20
-ms.openlocfilehash: 089d358b75d17c409d614ed63e92aee921b1c80f
-ms.sourcegitcommit: e4f870b9070eb3aed49061cc652d124ba0d05b68
+ms.openlocfilehash: 61ceb869d2268b441d990049b9956da8ea87f8f5
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 11/23/2020
-ms.locfileid: "95417260"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570697"
 ---
 # <a name="benefits-faq"></a>Avantajlar hakkında SSS'ler
 
-Aşağıdakiler cihazlar için geçerlidir:
+**Uygun roller**
 
-- İş Ortağı Merkezi
-- Microsoft Cloud for US Government için İş Ortağı Merkezi
+- MPN Yöneticisi
+
+Microsoft İş Ortağı Ağı (MPN) avantajlarıyla ilgili birçok yaygın soruya Bu makalede değinilmesi sağlanır.
+
 
 ## <a name="general-questions"></a>Genel sorular
 
@@ -87,7 +89,7 @@ Aşağıdaki adımları uygulayarak, Iş Ortağı Merkezi 'nde veya Azure Active
 
 1. [İş Ortağı Merkezi panosunda](https://partner.microsoft.com/dashboard/) oturum açın.
 
-2. Sol gezinti bölmesinde **MPN**' yi seçin.
+2. Iş Ortağı Merkezi menüsünde **MPN**' yi seçin.
 
 3. **Avantajlar**' ı seçin ve ardından **Visual Studio**' yı seçin.
 
@@ -96,7 +98,7 @@ Aşağıdaki adımları uygulayarak, Iş Ortağı Merkezi 'nde veya Azure Active
 Aboneliği atadıktan sonra, kullanıcının yönetmek için Visual Studio 'da oturum açması gerekir.
 
 >[!Note]
-> Visual Studio abonelikleri, başlangıçtaki atamanın 90 gün sonra bir aboneden diğerine yeniden atanabilir
+> Visual Studio abonelikleri, ilk atamadan bir aboneden başka 90 güne yeniden atanabilir.
 
 ## <a name="technical-benefits-and-support"></a>Teknik avantajlar ve destek
 
@@ -106,7 +108,7 @@ Yükleme, etkinleştirme ve ürünle ilgili diğer yardım Microsoft Desteği ar
 
 1. [İş Ortağı Merkezi panosunda](https://partner.microsoft.com/dashboard/) oturum açın.
 
-2. Sol gezinti bölmesinde **MPN**' yi seçin.
+2. Iş Ortağı Merkezi menüsünde **MPN**' yi seçin.
 
 3. **Avantajlar**' ı seçin ve ardından **Teknik avantajlar**' ı seçin.
 
@@ -115,3 +117,7 @@ Yükleme, etkinleştirme ve ürünle ilgili diğer yardım Microsoft Desteği ar
 5. [Microsoft desteği](https://support.microsoft.com/supportforbusiness/productselection)oturum açın.
 
 6. Yüklemeye çalıştığınız ürünü seçin ve ardından bir teknik destek bileti oluşturun.
+
+## <a name="next-steps"></a>Sonraki adımlar
+
+- [Uzmanlığınızı sergilemeye yönelik gelişmiş bir özelleşme kazanın](advanced-specializations.md)

@@ -1,22 +1,22 @@
 ---
-title: YONGADAKI ödeme durumunu denetle
+title: CHIP’te ödeme durumunu denetleme
 ms.topic: how-to
 ms.date: 11/09/2020
-description: YONGADAKI ödeme durumunu denetlemeyi öğrenin.
+description: Ödeme durumunu denetlemek için Channel teşvikleri platformunun (yonga) nasıl kullanılacağını öğrenin. YONGASıNıN 2021 sonunda devre dışı olacağını unutmayın.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0e86030c16405808d3b4036e313e8970c495382e
-ms.sourcegitcommit: b8e9609fd6448fcb265e4afc480d7a97e8009e63
+ms.openlocfilehash: b234f026592a6f6040cc901a3721b144b1c6c4e7
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "94422263"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570544"
 ---
-# <a name="check-payment-status-in-chip"></a>YONGADAKI ödeme durumunu denetle
+# <a name="check-payment-status-in-the-channel-incentives-platform-chip"></a>Channel teşvikleri platformunda (yonga) ödeme durumunu denetleme
 
 **Uygun roller**
 

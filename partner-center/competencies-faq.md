@@ -2,22 +2,22 @@
 title: Uzmanlıklar-sık sorulan sorular
 ms.topic: article
 ms.date: 11/23/2020
-description: Azure, bulut, Visual Studio ve teknik ve destek avantajları için Microsoft İş Ortağı Ağı Gold ve Gümüş uzmanlık, avantaj süresi, yenileme ve etkinleştirme lisansları hakkında sorulara yanıtlar
+description: MPN Gold veya Gümüş uzmanlık, avantaj süre sonu, yenileme veya Azure, bulut, Visual Studio, teknik destek avantajları için lisans etkinleştirme hakkında yanıtlar.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
-ms.openlocfilehash: 0a20b464c9784b0939ba404019cab007310ad4bd
-ms.sourcegitcommit: c5e9175792a4e2aac50bfae78fcef18e3cc9922a
+ms.openlocfilehash: 3f18378428ab681938f23c3a11341b2deac36226
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 11/24/2020
-ms.locfileid: "95812810"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570493"
 ---
 # <a name="competencies---frequently-asked-questions"></a>Uzmanlıklar-sık sorulan sorular
 
-Aşağıdakiler cihazlar için geçerlidir:
+Aşağıdakiler için geçerlidir:
 
 - İş Ortağı Merkezi
 - Microsoft Cloud for US Government için İş Ortağı Merkezi

@@ -9,12 +9,12 @@ author: ParthP
 ms.author: ParthP
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f94b11c4feb9cd1bedd97bebc537a504f9c4d127
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: e3f04708d3b7e2c86c88541931c120a6649674fb
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92531546"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570799"
 ---
 # <a name="create-a-partner-center-account-to-manage-network-benefits-and-competencies"></a>Ağ avantajlarını ve uzmanlık alanı yönetimini yönetmek için bir Iş Ortağı Merkezi hesabı oluşturun
 
@@ -25,25 +25,29 @@ ms.locfileid: "92531546"
 
 Iş Ortağı Merkezi 'nde bir hesap oluşturabilmeniz için şirketinizin Microsoft İş Ortağı Ağı bir üyesi olması gerekir. Zaten ağın bir üyesi değilseniz, [Şimdi katılabilir](https://partner.microsoft.com/commercial#). Bir Iş Ortağı Merkezi hesabı oluşturduktan sonra, [panonuzu öğrenin](https://vimeo.com/290338211)ve bu kısa videoyu izleyin.
 
-## <a name="before-you-begin"></a>Başlamadan önce
+## <a name="get-a-work-email-address-before-setting-up-a-partner-center-account"></a>İş Ortağı Merkezi hesabı ayarlamadan önce bir iş e-posta adresi alın
+
+Çalışanlarınız için iş e-posta adreslerini ayarlayabilmeniz için şirketiniz bir e-posta etki alanı satın almanız gerekir. Bu teknik bir işlem olduğundan, bir e-posta etki alanı satın almak için BT departmanınızla birlikte çalışın. Yeni e-postayı kullanarak Azure AD kiracınızı ve Iş Ortağı Merkezi hesabınızı ayarlayın.
+
+## <a name="get-started"></a>Kullanmaya başlayın
 
 Iş Ortağı Merkezi 'nde bir hesap oluşturmak için aşağıdaki bilgileri kullanmanız gerekir. Başlamadan önce bu öğelerin toplanması birkaç dakika geçmesi gerekebilir:
 
--   Genel yönetici iş e-postası.
+- Genel yönetici iş e-postası.
 
--   Şirketinizin iş hesabının ne olduğundan emin değilseniz şirketinizin iş hesabı [ve Iş ortağı merkezinizde](azure-active-directory-tenants-and-partner-center.md) , şirketinizin iş hesabı yoksa hesap oluşturma işlemi sırasında bir tane oluşturabilirsiniz. 
+- Şirketinizin iş hesabının ne olduğundan emin değilseniz şirketinizin iş hesabı [ve Iş ortağı merkezinizde](azure-active-directory-tenants-and-partner-center.md) , şirketinizin iş hesabı yoksa hesap oluşturma işlemi sırasında bir tane oluşturabilirsiniz. 
 
--   Şirketinizin yasal iş adı ve adresi.  
+- Şirketinizin yasal iş adı ve adresi.  
 
--   Yasal sözleşmeleri imzalama yetkisi. Kayıt işlemi sırasında yapmanız istenecek şekilde, şirketinizin adına yasal sözleşmeleri imzalama yetkiniz olduğundan emin olun.
+- Yasal sözleşmeleri imzalama yetkisi. Kayıt işlemi sırasında yapmanız istenecek şekilde, şirketinizin adına yasal sözleşmeleri imzalama yetkiniz olduğundan emin olun.
 
--   Birincil kişiniz olarak davranmak istediğiniz kişinin adı ve şirket e-postası. Şirketinizin güvenliğinin ve gizliliğinin sağlanmasına yardımcı olmak için birincil kişinize e-posta ile bir Iş Ortağı Merkezi hesabına kaydolup (1), bu e-posta adresinin şirketinize ait olduğunu doğrulayın. Birincil iletişim e-posta adresini doğruladıktan sonra, verdiğiniz bilgileri gözden geçirmemiz için devam edeceğiz.
+- Birincil kişiniz olarak davranmak istediğiniz kişinin adı ve şirket e-postası. Şirketinizin güvenliğinin ve gizliliğinin sağlanmasına yardımcı olmak için birincil kişinize e-posta ile bir Iş Ortağı Merkezi hesabına kaydolup (1), bu e-posta adresinin şirketinize ait olduğunu doğrulayın. Birincil iletişim e-posta adresini doğruladıktan sonra, verdiğiniz bilgileri gözden geçirmemiz için devam edeceğiz.
 
-Bu bilgileri, hesap oluşturma işlemi sırasında doğrulayacağız. 
+Bu bilgileri, hesap oluşturma işlemi sırasında doğrulayacağız. Doğrulama süreci hakkında bilgi için bkz. [Hesap doğrulama](verification-responses.md)
  
 ## <a name="create-a-partner-center-account"></a>İş Ortağı Merkezi hesabı oluşturma
 
-1.  **Hoş geldiniz** sayfasındaki bilgileri gözden geçirin ve ardından **İleri** ' yi seçin.
+1.  **Hoş geldiniz** sayfasındaki bilgileri gözden geçirin ve ardından **İleri**' yi seçin.
 
 2.  Şirketinizin iş hesabına genel yönetici olarak oturum açın. Şirketinizin iş hesabının ne olduğundan emin değilseniz, [şirketinizin iş hesabı ve Iş Ortağı Merkezi](azure-active-directory-tenants-and-partner-center.md)' ne bakın.
 
@@ -51,7 +55,7 @@ Bu bilgileri, hesap oluşturma işlemi sırasında doğrulayacağız.
 
     Şirketiniz bir iş hesabına sahip değilse, şimdi bir tane ayarlamak için **Oluştur** ' u seçin. Bir iş hesabı oluşturduktan sonra, az önce oluşturduğunuz iş hesabı için genel yönetici kimlik bilgilerinizi kullanarak oturum açın.
 
-3.  Şirketinizin yasal iş profilini ve birincil iletişim bilgilerini girip güncelleştirin ve **Şimdi kaydet** ' i seçin. 
+3.  Şirketinizin yasal iş profilini ve birincil iletişim bilgilerini girip güncelleştirin ve **Şimdi kaydet**' i seçin. 
 
     Birincil ilgili kişi, şirketinizde sizinle iletişim kurabildiğimiz kişi olmalıdır (Bu sizin veya şirketinizdeki başka bir kişi olabilir). Bu bilgileri ayrıca, bu kişinin şirketinizde çalıştığını ve bir Iş Ortağı Merkezi hesabına kaydolmadığını doğrulamak için de kullanacağız.
 
@@ -62,9 +66,9 @@ Bu bilgileri, hesap oluşturma işlemi sırasında doğrulayacağız.
 
 5.  Yönetim Aracısı grubuna eklendiğinizi doğrulayın. Diğer kullanıcıları ekleme dahil olmak üzere hesabınızı ayarlamayı tamamlaması için yönetici Aracısı izinlerinizin olması gerekir. İzinlerinizi görüntülemek veya güncelleştirmek için şu adımları izleyin:
 
-    a. Iş Ortağı Merkezi [panosunda](https://partner.microsoft.com/dashboard/home**), **Ayarlar** simgesini seçin ve ardından **Kullanıcı yönetimi** ' ni seçin.  
+    a. Iş Ortağı Merkezi [panosunda](https://partner.microsoft.com/dashboard/home**), **Ayarlar** simgesini seçin ve ardından **Kullanıcı yönetimi**' ni seçin.  
 
-    b. Kullanıcılar listesinden adınızı seçin ve daha önce seçilmemişse **yönetici Aracısı** ' nı seçin. **Güncelleştir** ’i seçin.  
+    b. Kullanıcılar listesinden adınızı seçin ve daha önce seçilmemişse **yönetici Aracısı** ' nı seçin. **Güncelleştir**’i seçin.  
 
 ## <a name="view-mpn-account-details"></a>MPN hesabı ayrıntılarını görüntüle
 
@@ -91,7 +95,7 @@ Hesap ayrıntılarını görüntülemek veya MPN sözleşmesini görüntülemek 
 
 2. Genel Bakış sayfası görüntülenir. (Genel bakış sayfasını görmüyorsanız, sol gezinti menüsünden **genel bakış** ' ı seçin.)
 
-3. Panonun sağ üst köşesindeki dişli simgesini seçin ve ardından **Iş ortağı ayarları** ' nı seçin. Bu sizi Iş ortağı profili sayfasına götürür.
+3. Panonun sağ üst köşesindeki dişli simgesini seçin ve ardından **Iş ortağı ayarları**' nı seçin. Bu sizi Iş ortağı profili sayfasına götürür.
 
 4. Iş ortağı profili sayfasında, farklı alan görürsünüz. Bunlar yasal bir **iş profili** alanı ve bir **Program bilgi** alanı içerir.
 
@@ -100,7 +104,7 @@ Hesap ayrıntılarını görüntülemek veya MPN sözleşmesini görüntülemek 
 
    :::image type="content" source="images/accountsettings/mpn-program-info-download-mpn-agreement.png" alt-text="Iş ortağı profili sayfasındaki program bilgileri alanını, bu alandaki MPN program durumu alanını, Microsoft İş Ortağı Ağı sözleşmesinin ilişkili bağlantısıyla birlikte vurgulama kutusuyla gösteren resim.":::
 
-6. Bu Sözleşmeyi görüntülemek veya indirmek için **Microsoft iş ortağı ağı sözleşmesi** ' ni seçin.  
+6. Bu Sözleşmeyi görüntülemek veya indirmek için **Microsoft iş ortağı ağı sözleşmesi**' ni seçin.  
 
 > [!NOTE]
 > Ayrıca, bulut çözümü sağlayıcısı (CSP) programına kaydolmanız durumunda Microsoft Iş ortağı sözleşmesi gibi diğer kayıtlı programlar için diğer sözleşmeleri görüntülemek veya indirmek üzere yukarıdaki adımları da kullanabilirsiniz.

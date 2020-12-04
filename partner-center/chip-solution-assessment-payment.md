@@ -1,30 +1,30 @@
 ---
-title: Çözüm değerlendirmesi ödeme durumu ve hesaplama bilgileri
+title: Çözüm değerlendirmesi ödeme durumu
 ms.topic: how-to
 ms.date: 11/09/2020
-description: Çözüm değerlendirmesi ödemeleri hakkındaki bilgileri bulmayı öğrenin.
+description: Çözüm değerlendirmesi fırsatları, hesaplamaları ve bunların ödeme durumu hakkında bilgi edinmek için Channel teşvikleri platform (yonga) kullanın.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 50aadcb667ff931e53b08a7902bb247798975e2d
-ms.sourcegitcommit: b8e9609fd6448fcb265e4afc480d7a97e8009e63
+ms.openlocfilehash: 6ab0cd74e3955a71383b2ba758dc76b1b37fdee6
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "94422240"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570476"
 ---
 # <a name="solution-assessment-payment-status-and-calculation-info"></a>Çözüm değerlendirmesi ödeme durumu ve hesaplama bilgileri
 
-YONGADAKI bir çözüm değerlendirmesi fırsat durumunun ödeme durumunu gözden geçirebilirsiniz. 
+YONGADAKI bir çözüm değerlendirmesi fırsat durumunun ödeme durumunu gözden geçirebilirsiniz.
 
 ## <a name="how-to-review-your-payment-status"></a>Ödeme durumunuzu gözden geçirme
 
 1. YONGASıNı açın ve Microsoft hesabınızla (önceki Live ID) oturum açın.
 2. **Fırsat kimliği** alanında, fırsatın kimlik numarasını yazın veya yapıştırın.
-3. **Ara** ’ya tıklayın.
+3. **Ara**’ya tıklayın.
 4. Fırsat ayrıntılarını görüntülemek için fırsat adını seçin.
 5. Ödeme isteğinin oluşturulup oluşturulmadıysa emin olmak için **Ödeme istekleri** bölümünü kontrol edin.
 6. Fırsatın durumunu gözden geçirin.
@@ -52,4 +52,4 @@ Fırsatlar, bu ödeme onayı raporunda görünmesi için aşağıdaki öznitelik
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-- [YONGASıNA erişme sorunu](chip-access-trouble.md) 
+- [CHIP’e erişim sorunları](chip-access-trouble.md) 

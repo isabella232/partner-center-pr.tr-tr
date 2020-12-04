@@ -2,21 +2,21 @@
 title: Solution Assessment Incentives Hakkında SSS
 ms.topic: how-to
 ms.date: 11/09/2020
-description: Çözüm değerlendirmesi hakkında sık sorulan soruların yanıtları
+description: Channel teşvikleri platformunda (yonga) çözüm değerlendirmesi hakkında sık sorulan soruların yanıtlarını öğrenin.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0796d8d5a79de181feb9c64c0e48ea4720817953
-ms.sourcegitcommit: 146964ce0cc72bd821692f73f9c0b55e6fefb0fc
+ms.openlocfilehash: 3d90a98fa323af187dd86f3d2d9f585167cc817c
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "94447295"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570459"
 ---
-# <a name="solution-assessment-incentives-faq"></a>Çözüm değerlendirmesi teşvikleri SSS
+# <a name="solution-assessment-incentives-faq-for-the-channel-incentives-platform-chip"></a>Channel teşvikleri platformu (yonga) için çözüm değerlendirmesi teşvikleri SSS 
 
 Aşağıdaki sık sorulan soruların yanıtlarını bulun.
 
@@ -37,7 +37,7 @@ Banka ve vergi profillerinizi nasıl göndereceğiniz hakkında adım adım yön
 
 ## <a name="my-deal-status-has-been-approved-in-chip-why-hasnt-it-been-paid-yet"></a>Kendi anlaşma durumum YONGASıNDA onaylandı. Neden henüz ödenmedi?
 
-Anlaşma durumuna ek olarak, bir fırsat ödeme için gönderilmeden önce de POE durumunun YONGASıNDA onaylanması gerekir. POE 'in yonga içindeki POE doğrulama ekibi tarafından yüklendiğinden ve onaylandığından emin olmak için lütfen YONGADAKI fırsatınızı gözden geçirin. POE durumunu görüntülemek için YONGADA oturum açın ve gerekli olan **Ara anlaşmalar** ' **ı seçin..** . menüsünü seçerek erişebilirsiniz. **Fırsat kimliği** ' ni girip **Ara** ' yı seçin. Arama sonuçlarında, POE altında ' Düzenle ' köprüsünü seçin. Elde edilen sayfada, POE durumunu görmek için ' gözden geçir ' bölümüne gidin. Ayrıca, POE ekibinin POE hakkında ek bilgiler istediği durumlarda ' Comments ' alanını gözden geçirin.
+Anlaşma durumuna ek olarak, bir fırsat ödeme için gönderilmeden önce de POE durumunun YONGASıNDA onaylanması gerekir. POE 'in yonga içindeki POE doğrulama ekibi tarafından yüklendiğinden ve onaylandığından emin olmak için lütfen YONGADAKI fırsatınızı gözden geçirin. POE durumunu görüntülemek için YONGADA oturum açın ve gerekli olan **Ara anlaşmalar** ' **ı seçin..** . menüsünü seçerek erişebilirsiniz. **Fırsat kimliği** ' ni girip **Ara**' yı seçin. Arama sonuçlarında, POE altında ' Düzenle ' köprüsünü seçin. Elde edilen sayfada, POE durumunu görmek için ' gözden geçir ' bölümüne gidin. Ayrıca, POE ekibinin POE hakkında ek bilgiler istediği durumlarda ' Comments ' alanını gözden geçirin.
 
 ## <a name="why-did-i-not-receive-any-payment-for-milestone-1-for-my-opportunity"></a>Neden fırsat için kilometre taşı 1 için ödeme almıyorum?
 

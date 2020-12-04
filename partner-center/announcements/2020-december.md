@@ -9,18 +9,61 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 12/02/2020
-ms.openlocfilehash: d0bc790e31cf38aabc1703f073c42f8946c316ee
-ms.sourcegitcommit: 147813ba322653c989df5afe0b3bf0c252523a92
+ms.openlocfilehash: 38a9b83c5c13ed0a0c0f27db409335f9b86b8173
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: MT
 ms.contentlocale: tr-TR
 ms.lasthandoff: 12/03/2020
-ms.locfileid: "96556730"
+ms.locfileid: "96570782"
 ---
 # <a name="december-2020-announcements"></a>Aralık 2020 duyuruları
 
 Bu sayfada, Kasım 2020 ' de Microsoft Iş Ortağı Merkezi duyuruları ayrıntılı olarak yer alındı.
 
-2020 Duyuruları: [Nisan](2020-april.md)ayında  |  [May](2020-may.md)  |  [June](2020-june.md)  |  [July](2020-july.md)  |  [August](2020-august.md)  |  [September](2020-september.md)  |  [October](2020-October.md)  |  [Kasım](2020-november.md)ayında Haziran ayında | Ayının
+2020 Duyuruları: [Nisan](2020-april.md)ayında  |  [May](2020-may.md)  |  [June](2020-june.md)  |  [July](2020-july.md)  |  [August](2020-august.md)  |  [September](2020-september.md)  |  [October](2020-October.md)  |  [Kasım](2020-november.md) ayında Haziran ayında | Ayının
+
+
+______________
+
+## <a name="an-update-of-the-us-microsoft-365-business-voice-with-calling-plan-offer-is-coming-soon"></a><a name="2"></a>Arama planı teklifiyle ilgili ABD Microsoft 365 İş sesiyle ilgili bir güncelleştirme yakında kullanıma sunulacak
+
+### <a name="categories"></a>Kategoriler
+
+- Tarih: 2020-12-3
+- Teklifler/Pazarlar
+
+### <a name="summary"></a>Özet 
+
+Microsoft, 1 Ocak 2021 ' de, iş ortakları ve müşterileri çağrı planı teklifiyle yeni bir Microsoft 365 İş sesiyle geçirmeyi başlatır. İş ortağı eylemi gerekli değildir.
+
+### <a name="impacted-audience"></a>Etkilenen hedef kitle 
+
+Tüm iş ortakları bulut çözümü sağlayıcısı (CSP) programı üzerinden deneyimidir
+
+### <a name="details"></a>Ayrıntılar
+
+Microsoft, telefon ürünleri için dahili gereksinimleri desteklemeye yönelik olarak ABD 'deki çağrı planı teklifini içeren mevcut Iş sesini yeni bir teklifle değiştirecek. Yeni teklif aynı özellik kümesine ve fiyata sahip olacaktır. Teklif değişiklikleri Microsoft 'a dağıtılır ve CSP Iş ortaklarının, çağrı planı teklifiyle kurumsal seslendirme, satma veya destekleme şeklini etkilememelidir. Değişiklik yalnızca bu teklif için geçerlidir.
+
+Yeni satış için yeni teklifi 1 Ocak 2021 tarihinden itibaren kullanacaksınız. Eski teklif, Fiyat listesindeki yeni teklifle değiştirilmiştir.
+
+Mevcut müşteriler yenileme tarihleri üzerine otomatik olarak yeni teklifine geçirilir. İş ortaklarının hiçbir işlem yapması ve müşterileri yenilemesidir.
+
+
+* * Yeni Teklif Ayrıntıları
+ 
+   |**Teklif adı**|**Teklif Kimliği**|**Malzeme KIMLIĞI**|
+   |-------------------|:------|:------|
+   |Microsoft 365 İş sesi (US)|86713ec1-AD33-42CF-a1ce-8397d4d875fe|PZW-00023|
+   
+* * Eski Teklif Ayrıntıları
+
+   |**Teklif adı**|**Teklif Kimliği**|**Malzeme KIMLIĞI**|
+   |-------------------|:------|:------|
+   |Microsoft 365 İş sesi (US)|9f9f2c7b-c961-402b-9421-8e3c9207eeb3|PZW-00009|
+
+### <a name="next-steps"></a>Sonraki adımlar
+
+Fiyat listesi hakkında bilgi edinin ve bu bilgileri kuruluşunuzdaki ilgili tüm kişilerle paylaşabilirsiniz.
 
 ______________
 

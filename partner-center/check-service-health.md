@@ -1,6 +1,6 @@
 ---
 title: Müşterinin hizmet durumunu denetleme
-ms.topic: article
+ms.topic: how-to
 ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,18 +9,14 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 34b74d6039e0fb184d7fcb7f3a5b24717d593ed3
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: 60957d227197460a0cdb108e1826758e0ec48e03
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "92531135"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570629"
 ---
 # <a name="check-service-health-for-a-customer-reporting-a-potential-service-problem-or-outage"></a>Olası bir hizmet sorunu veya kesintisi bildiren bir müşterinin hizmet durumunu denetleme
-
-**Uygulama hedefi**
-
-- İş Ortağı Merkezi
 
 **Uygun roller**
 
@@ -29,9 +25,9 @@ ms.locfileid: "92531135"
 - Yardım Masası Aracısı
 - Satış Aracısı
 
-Müşterinin bir hizmetle ilgili sorun yaşaması durumunda yapabileceğiniz ilk şey, hizmet durumunu denetleyemiyoruz. 
+Bu makalede, bir hizmetle ilgili sorun yaşayan bir müşterinin hizmet durumunu denetlemek için Iş Ortağı Merkezi 'nin nasıl kullanılacağı açıklanır. 
 
-## <a name="check-service-health"></a>Hizmet durumunu denetle
+## <a name="check-service-health"></a>Hizmet durumunu kontrol etme
 
 1. **Müşteri listesinden** ilgili sorunu yaşayan **müşteriyi** seçin.
 
@@ -48,5 +44,5 @@ Hizmet kesintisi sırasında, Microsoft, sorunu gidermek için çalıştıkları
 
 - Microsoft 365 ve Microsoft Azure her biri, iş ortaklarının gerçek zamanlı hizmet durumunu, ileti merkezi iletişimini ve planlı bakım olaylarını [almak için kullanabileceği API 'ler](get-automated-service-notifications-with-our-apis.md)sağlar.
 
- 
+ 
 

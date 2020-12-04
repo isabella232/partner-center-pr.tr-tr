@@ -1,5 +1,5 @@
 ---
-title: Iş Ortağı Merkezi 'nde faturalandırma türleri
+title: İş Ortağı Merkezi'ndeki faturalama türleri
 description: Iş Ortağı Merkezi 'nde görebileceğiniz farklı faturalandırma türleri, Fatura dönemleri ve fatura tarihleri hakkında bilgi edinin.
 ms.topic: article
 ms.service: partner-dashboard
@@ -9,19 +9,14 @@ ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/13/2020
-ms.openlocfilehash: 40d83a70aa5eb5781b924bbafb8b619efacc5681
-ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
+ms.openlocfilehash: 559e5d15d4414addab55411b28e19964ac4a08c5
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "92531359"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570680"
 ---
 # <a name="types-of-billing-in-partner-center---includes-license-based-usage-based-and-one-time-billing"></a>Iş Ortağı Merkezi 'nde faturalandırma türleri-lisans tabanlı, kullanım tabanlı ve tek seferlik faturalandırma içerir
-
-**Uygulama hedefi**
-
-- İş Ortağı Merkezi
-- CSP programındaki iş ortakları
 
 **Uygun roller**
 

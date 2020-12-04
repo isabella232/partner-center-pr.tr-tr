@@ -1,22 +1,22 @@
 ---
-title: Müşteri hesapları için kullanıcıları ve kullanıcı lisanslarını yönetme
+title: Kullanıcıları müşteri hesaplarına göre yönetme
 ms.topic: how-to
 ms.date: 05/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Iş Ortağı Merkezi 'nde, Kullanıcı hesapları oluşturma, kullanıcı lisansları ekleme veya kaldırma, Kullanıcı parolalarını sıfırlama ve Kullanıcı hesaplarını silme ya da geri yükleme gibi kullanıcıları yönetme hakkında bilgi edinin.
+description: Iş Ortağı Merkezi 'nde müşterileriniz için kullanıcıları yönetme-Kullanıcı hesapları oluşturma, kullanıcı lisansları ekleme veya kaldırma, parolaları sıfırlama ve Kullanıcı hesaplarını silme veya geri yükleme.
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: fb7906b006540ef939e443a21855488e9d2c36f9
-ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
+ms.openlocfilehash: cea1ac8bff9690edfe4b257c910fc3c335d2836c
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96474079"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570748"
 ---
-# <a name="manage-users-and-user-licenses-for-customer-accounts"></a>Müşteri hesapları için kullanıcıları ve kullanıcı lisanslarını yönetme
+# <a name="manage-users-and-user-licenses-for-customer-accounts"></a>Müşteri hesapları için kullanıcıları ve kullanıcı lisanslarını yönetme 
 
 **Uygun roller**
 
@@ -76,21 +76,21 @@ Aşağıdaki adımlar, Microsoft ürünlerine yönelik kullanıcı lisansların�
 
 2. Iş Ortağı Merkezi menüsünde **müşteriler**' i seçin ve listeden bir müşteri seçin.
 
-3.  Müşteri menüsünde, **Kullanıcılar ve lisanslar**' ı seçin. Listeden kullanıcıyı seçin.
+3. Müşteri menüsünde, **Kullanıcılar ve lisanslar**' ı seçin. Listeden kullanıcıyı seçin.
 
-4.  Ekranın alt kısmındaki **Parolayı Sıfırla**' yı seçin. 
+4. Ekranın alt kısmındaki **Parolayı Sıfırla**' yı seçin. 
 
-5.  Yeni geçici parolayı kullanıcıya gönderin.
+5. Yeni geçici parolayı kullanıcıya gönderin.
 
 <a href="" id="deleteuseraccounts"></a>
 
 ## <a name="delete-user-accounts-for-a-customer"></a>Müşterinin Kullanıcı hesaplarını silme
 
-1.  **Iş Ortağı Merkezi** menüsünde **müşteriler**' i seçin. Listeden müşteriyi seçin.
+1. **Iş Ortağı Merkezi** menüsünde **müşteriler**' i seçin. Listeden müşteriyi seçin.
 
-2.  Müşteri menüsünde, **Kullanıcılar ve lisanslar**' ı seçin. Listeden kullanıcıyı seçin.
+2. Müşteri menüsünde, **Kullanıcılar ve lisanslar**' ı seçin. Listeden kullanıcıyı seçin.
 
-3.  Ekranın alt kısmındaki **Kullanıcı hesabını Sil**' i seçin.
+3. Ekranın alt kısmındaki **Kullanıcı hesabını Sil**' i seçin.
 
 Bu hesabı geri yüklemeniz gerekiyorsa, müşterinin **Kullanıcılar ve lisanslar** listesinin **silinen kullanıcılar** sekmesinde bulabilirsiniz. Silinen bir kullanıcıyı geri yüklemek için 30 gününüz vardır.
 
@@ -98,19 +98,18 @@ Bu hesabı geri yüklemeniz gerekiyorsa, müşterinin **Kullanıcılar ve lisans
 
 ## <a name="restore-deleted-user-accounts"></a>Silinen kullanıcı hesaplarını geri yükleme
 
-1.  **Iş Ortağı Merkezi** menüsünde **müşteriler**' i seçin ve ardından listeden müşteriyi seçin.
+1. **Iş Ortağı Merkezi** menüsünde **müşteriler**' i seçin ve ardından listeden müşteriyi seçin.
 
-2.  **Kullanıcılar ve lisanslar ' ı** seçin.
+2. **Kullanıcılar ve lisanslar ' ı** seçin.
 
-3.  **Silinen kullanıcılar ()** sekmesini seçin. Geri yüklenebilecek silinen kullanıcılar varsa, **(1)** veya daha büyük bir bilgi almalıdır.
+3. **Silinen kullanıcılar ()** sekmesini seçin. Geri yüklenebilecek silinen kullanıcılar varsa, **(1)** veya daha büyük bir bilgi almalıdır.
 
-4.  Silinen kullanıcıların onay kutularından bir veya daha fazlasını seçin ve ardından **geri yükle**' yi seçin.
+4. Silinen kullanıcıların onay kutularından bir veya daha fazlasını seçin ve ardından **geri yükle**' yi seçin.
 
     Tüm seçili kullanıcı hesapları, **Kullanıcılar ve lisanslar** sayfasında yeniden görüntülenir.
 
-## <a name="related-topics"></a>İlgili konular
+## <a name="next-steps"></a>Sonraki adımlar
 
+- [Birden fazla kullanıcıya lisans atama veya atanmış lisansları iptal etme](bulk-license-provisioning-for-multiple-users.md)
 
-[Birden fazla kullanıcıya lisans atama veya atanmış lisansları iptal etme](bulk-license-provisioning-for-multiple-users.md)
-
-[Müşteri hesabı için birden çok Kullanıcı oluşturma](adding-multiple-users-to-a-customer-account.md)
+- [Müşteri hesabı için birden çok Kullanıcı oluşturma](adding-multiple-users-to-a-customer-account.md)

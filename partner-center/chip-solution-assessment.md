@@ -1,20 +1,20 @@
 ---
-title: Channel teşvikleri platformunda (yonga) çözüm değerlendirmesi fırsat durumu
+title: YONGA çözümü değerlendirmesi fırsat durumu
 ms.topic: how-to
 ms.date: 11/09/2020
-description: YONGA üzerinde çözüm değerlendirmesi fırsat durumunuzu bulmayı öğrenin.
+description: Channel teşvikleri platformunda (yonga) çözüm değerlendirmesi fırsat durumunuzu bulmayı öğrenin.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 035d500e41e3b28ac566ab42b3406c095dea7b11
-ms.sourcegitcommit: b8e9609fd6448fcb265e4afc480d7a97e8009e63
+ms.openlocfilehash: 8f453243d7d59fde84a6660f7160447fc05d68d1
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "94422251"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570391"
 ---
 # <a name="find-your-solution-assessments-opportunity-status-on-chip"></a>YONGA üzerinde çözüm değerlendirmesi fırsat durumunuzu bulma
 
@@ -42,11 +42,11 @@ Kurumlarınızın uygun satış aşamasına ulaştığından ve çözüm değerl
  
      - **Çözüm değerlendirmeleri teşvikleri seçin.**
 
-     - **Yapmam gereken yer..** . bölümünde **arama anlaşmaları** ' na tıklayın.
+     - **Yapmam gereken yer..** . bölümünde **arama anlaşmaları**' na tıklayın.
 
-     - Fırsat KIMLIĞINIZI **fırsat** kutusuna yazın ve **Ara** ' ya tıklayın.
+     - Fırsat KIMLIĞINIZI **fırsat** kutusuna yazın ve **Ara**' ya tıklayın.
 
-     - Fırsat görünür olduktan sonra **Gönder** ' e tıklayın.
+     - Fırsat görünür olduktan sonra **Gönder**' e tıklayın.
   
      - Yeni POE menüsünde, gerekli POE belgesine gidin ve bunu seçin.
 
@@ -54,7 +54,7 @@ Kurumlarınızın uygun satış aşamasına ulaştığından ve çözüm değerl
 
      - Gerekli tüm belgeleri karşıya yüklemek için bu işlemi gerektiği kadar yineleyin.
 
-     - Tüm belgeler karşıya yüklendikten sonra **Gönder** ' e tıklayın.
+     - Tüm belgeler karşıya yüklendikten sonra **Gönder**' e tıklayın.
 
 EM onay onay kutusu işaretli değilse, gözden geçirmek ve onayı sağlamak için çözüm değerlendirme uzmanınıza (SAS) başvurun.
  
@@ -62,7 +62,7 @@ Başka sorularınız varsa veya bir destek bileti göndermek isterseniz, [destek
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-- [YONGADAKI ödeme durumunu denetle](chip-payment-status.md)
+- [CHIP’te ödeme durumunu denetleme](chip-payment-status.md)
 - [Destek](report-problems-with-partner-center.md)
 
 .
