@@ -1,4 +1,5 @@
 # [İş Ortağı Merkezi duyuruları](index.md)
+# [Aralık 2020](2020-december.md)
 # [Kasım 2020](2020-november.md)
 # [Ekim 2020](2020-october.md)
 # [Eylül 2020](2020-september.md)
