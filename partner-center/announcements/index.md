@@ -8,20 +8,23 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 11/19/2020
-ms.openlocfilehash: c3d811a32e2ddd9d7127fe331beb944e5e7b20fb
-ms.sourcegitcommit: 511c21ae664bd438dc9d11f880cd58400a5d9eea
+ms.date: 12/03/2020
+ms.openlocfilehash: caf7527e82b6474c19714345ff9c3339a344704a
+ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
 ms.translationtype: HT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 11/19/2020
-ms.locfileid: "94932778"
+ms.lasthandoff: 12/03/2020
+ms.locfileid: "96570765"
 ---
 # <a name="partner-center-announcements"></a>İş Ortağı Merkezi duyuruları
 
 Önemli İş Ortağı Merkezi güncelleştirmeleri hakkında bilgi edinin. Bu bilgileri sık sık güncelleştirdiğimizden burayı sık sık kontrol edin!
 
-| **Kategori** | **Kasım 2020 duyuruları** | **Duyurulan** |
+| **Kategori** | **Aralık 2020 duyuruları** | **Duyurulan** |
 |---------|:---------|:---------|
+|Teklifler/Pazarlar|[Arama Planı olan US Microsoft 365 Küçük İşletmeler için Ses teklifinde yakında bir güncelleştirme yapılacak](2020-december.md#2)|3 Aralık|
+|Özellikler|[Kullanıma sunuldu: Eğitim müşteri doğrulama sürecine yönelik İş Ortağı Merkezi API güncelleştirmeleri ve kullanıcı arabirimi geliştirmeleri](2020-december.md#1)|3 Aralık|
+| **Kategori** | **Kasım 2020 duyuruları** | **Duyurulan** |
 |Özellikler|[Hesap yönetimini birleştiren yeni deneyim](2020-november.md#13)|18 Kasım|
 |Teklifler/Pazarlar|[Orta ölçekli pazarda (LATAM, APAC ve Hindistan) tanıtım için Office 365 E1](2020-november.md#12)|18 Kasım|
 |Özellikler|[Belirli ülkelerde müşteri izlemeyi güçlendirmek için yapılan İş Ortağı Merkezi API’si güncelleştirmeleri ve kullanıcı arabirimi (UI) iyileştirmeleri](2020-november.md#11)|17 Kasım|
