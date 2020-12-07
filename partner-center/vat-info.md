@@ -1,21 +1,21 @@
 ---
-title: Iş Ortağı Merkezi kaydında katma değer vergisi (KDV) bilgileri
+title: İş Ortağı Merkezi kaydında katma değer vergisi (KDV) bilgileri
 description: Iş ortağı merkezi kayıt işlemi sırasında bir KDV KIMLIK numarası sağlamanız gerekiyorsa, bu bilgiler başlamanıza yardımcı olur.
 ms.topic: article
 author: mingshen-ms
 ms.author: mingshen
 ms.localizationpriority: medium
-ms.date: 10/31/2018
-ms.openlocfilehash: e455110d0ef631c4eb4eaefd67bd209c7f1b1abf
-ms.sourcegitcommit: d9c7890520ecd37a7651e976d540cfe65c51be54
+ms.date: 12/04/2020
+ms.openlocfilehash: 2f46213cb72717c36461f58c159fa6a5803e3bb2
+ms.sourcegitcommit: 54c19f62474a4841d0bbd6a02a84b9c597f70fae
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/02/2020
-ms.locfileid: "92531826"
+ms.lasthandoff: 12/07/2020
+ms.locfileid: "96755648"
 ---
-# <a name="vat-info"></a>KDV bilgileri
+# <a name="value-added-tax-vat-information"></a>Katma değer vergisi (KDV) bilgileri
 
-**Aşağıdakiler cihazlar için geçerlidir:**
+**Aşağıdakiler için geçerlidir:**
 
 - İş Ortağı Merkezi
 - Ticari market
@@ -25,6 +25,24 @@ Iş ortağı merkezi kayıt işlemi sırasında bir KDV KIMLIK numarası sağlam
 ## <a name="understanding-vat-numbers"></a>KDV numaralarını anlama
 
 Katma değer vergi (KDV) numarası, Avrupa Birliği 'ndeki ülkeler veya bölgeler için kullanılan bir tanıtıcıdır. Daha fazla bilgi için Avrupa Birliği 'nin resmi [VIES sitesine](http://ec.europa.eu/taxation_customs/vies/vieshome.do)bakın.
+
+## <a name="location-specific-vat-information"></a>Konuma özgü KDV bilgileri
+
+Aşağıdaki ayrıntılar aşağıda listelenen ülkelerde veya bölgelerde benzersizdir.
+
+### <a name="european-union"></a>Avrupa Birliği
+
+Avrupa Birliği 'nin üye durumlarındaki iş ortakları, ters ücret ve uygun faturalandırma için geçerli KDV KIMLIK numaralarını sağlamalıdır. KDV numarası geçerli olarak kabul edilmesi gerekir.
+
+Microsoft, kredi ve yeniden fatura desteği sağlamaz. Herhangi bir aboneliği satmadan önce, [KDV kimlik numaranızı](organization-tax-info.md) Iş Ortağı Merkezi 'ne kaydetmeniz gerekir.
+
+### <a name="south-africa"></a>Güney Afrika
+
+Microsoft artık Güney Afrika 'da iş ortakları tarafından satın alınan dijital içerik ve hizmetlerde standart KDV 'yi uygular. KDV 'yi faturanızı dışlamak ve kendiniz yönetmek için, [MICROSOFT KDV kimlik numaranızı göndererek](organization-tax-info.md)iş ortağı faturalandırma profilinizi güncelleştirmeniz gerekir.
+
+### <a name="turkey"></a>Türkiye
+
+Microsoft artık, Türkiye 'deki iş ortakları tarafından satın alınan dijital içerik ve hizmetlerde standart KDV 'yi uygular. KDV 'yi faturanızı dışlamak ve kendiniz yönetmek için, [MICROSOFT KDV kimlik numaranızı göndererek](organization-tax-info.md)iş ortağı faturalandırma profilinizi güncelleştirmeniz gerekir.
 
 ## <a name="accepted-formats-for-vat-numbers"></a>KDV numaraları için kabul edilen biçimler
 
