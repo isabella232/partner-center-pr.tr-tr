@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: e706c85a31967c163c2b147b0f40bfc4c99f67e2
-ms.sourcegitcommit: 5cbea13b9f5b34e8588382caab9a08537b4ca36f
+ms.openlocfilehash: 7f9ab107a622cfe8cc7ef3f1d1d2877810f749ed
+ms.sourcegitcommit: bc44a6e0c5ef048cda6e882fdb543c13c5b64912
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/17/2020
-ms.locfileid: "92531986"
+ms.lasthandoff: 12/08/2020
+ms.locfileid: "96869342"
 ---
 # <a name="learn-about-the-microsoft-partner-agreement-mpa-for-csp-program-partners"></a>CSP program iş ortakları için Microsoft Iş ortağı Sözleşmesi (MPA) hakkında bilgi edinin
 
@@ -30,6 +30,8 @@ CSP programına katılmayı sürdürmek için, Microsoft Iş ortağı sözleşme
 
 ## <a name="verify-your-mpn-id-is-active-and-migrated-to-partner-center"></a>MPN KIMLIĞINIZIN etkin olduğunu ve Iş Ortağı Merkezi 'ne geçirildiğini doğrulayın
 
+1. MPN hesabınızı iş ortağı üyeliği merkezinden (PMC) iş ortağı merkezi 'ne geçirmediyse, [MPN hesabınızı Iş Ortağı Merkezi 'ne geçirmeniz](move-pmc-pc-map.md)gerekir. Geçişi tamamladıktan sonra kalan adımları tamamlayacaksınız. 
+
 1. MPN hesabı kimlik bilgilerinizle Iş Ortağı Merkezi 'nde oturum açın.
  
 1. **Ayarlar** ' dan [iş ortağı profili](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile)' ni seçin.
@@ -38,14 +40,16 @@ CSP programına katılmayı sürdürmek için, Microsoft Iş ortağı sözleşme
  
 1. MPN program durumu **reddedildi/reddedildi** veya **bekliyor** ise, hesap doğrulama işlemi başarısız oldu. Doğrulama sorununun nasıl çözümleneceğini öğrenmek için [doğrulama işlemini](verification-responses.md) okuyun.
 
-1. MPN hesabının durumunu görmüyorsanız veya MPN hesabınızı Iş ortağı üyeliği merkezi 'nden (PMC) iş ortağı merkezi 'ne geçirmezseniz, [MPN hesabınızı Iş Ortağı Merkezi 'ne geçirmeniz](move-pmc-pc-map.md)gerekir.
+
 
 >[!NOTE]
 >MPN KIMLIĞI hesabı kimlik bilgileriniz CSP hesabı kimlik bilgilerinizle aynı olmayabilir.
 
 ## <a name="confirm-you-are-enrolled-as-a-csp-indirect-reseller"></a>CSP Dolaylı kurumsal bayisi olarak kaydolduğunuzu onaylayın
 
-1. CSP hesabı kimlik bilgilerinizle Iş Ortağı Merkezi ' nde oturum açın.
+1. Iş Ortağı Merkezi 'nde zaten [CSP dolaylı satıcısı](enrolling-in-the-csp-program.md)  olarak kaydolmadıysanız, önce bunu yapmanız gerekir. Iş Ortağı Merkezi 'nde CSP dolaylı satıcısı olarak kaydedildikten sonra kalan adımları tamamlayın.
+
+1. CSP genel yönetici hesabı kimlik bilgilerinizle Iş Ortağı Merkezi ' nde oturum açın.
 
 1. **Ayarlar** ' dan [iş ortağı profili](https://partner.microsoft.com/pcv/accountsettings/partnerprofile)' ni seçin.
 
@@ -57,7 +61,7 @@ CSP programına katılmayı sürdürmek için, Microsoft Iş ortağı sözleşme
  
 1. Dolaylı satıcı durumu **reddedilirse** veya **reddedildiyse** , hesap doğrulama işlemi başarısız olur. Doğrulama sorununun nasıl çözümleneceğini öğrenmek için [doğrulama işlemini](verification-responses.md) okuyun.
 
-1. Daha önce dolaylı bir satıcı olarak Iş Ortağı Merkezi eklendi, genel yönetici kimlik bilgilerini kullanarak Iş Ortağı Merkezi panosuna genel bakış ' a Microsoft Iş ortağı Sözleşmesi ' ni kabul edin. Microsoft Iş ortağı sözleşmesinin zaten [Iş ortağı profili](https://partner.microsoft.com/pcv/accountsettings/partnerprofile) **Program** bilgilerinizden imzalanıp Imzalanmadığını veya CSP Genel Bakış sayfasındaki başlık bildirimini doğrulayabilirsiniz.
+1. Daha önce dolaylı bir satıcı olarak Iş Ortağı Merkezi 'ne taşınmışsa, genel yönetici kimlik bilgilerini kullanarak Iş Ortağı Merkezi panosuna genel bakış ' da Microsoft Iş ortağı Sözleşmesi ' ni kabul edin. Microsoft Iş ortağı sözleşmesinin zaten [Iş ortağı profili](https://partner.microsoft.com/pcv/accountsettings/partnerprofile) **Program** bilgilerinizden imzalanıp Imzalanmadığını veya CSP Genel Bakış sayfasındaki başlık bildirimini doğrulayabilirsiniz.
 
 CSP ilişki isteğini dolaylı sağlayıcınızda kabul etmeyi unutmayın.
 
@@ -65,23 +69,23 @@ CSP ilişki isteğini dolaylı sağlayıcınızda kabul etmeyi unutmayın.
 
 MPA 'nın imzalanıp imzalanmadığını görmek için:
 
-1. Şirketinizin genel yöneticisi olarak Iş Ortağı Merkezi [panosu](https://partner.microsoft.com/dashboard/home)' nda oturum açın.
+ Şirketinizin genel yöneticisi olarak, [CSP 'ye genel bakış](https://partner.microsoft.com/pcv/dashboard/overview) ' a gıdın ve MPa 'nın kabul edildiğini bildiren yeşil başlığı görmek için denetleyin.
 
-2. **CSP 'ye genel bakış** bölümüne gıdın ve MPa 'nın kabul edildiğini bildiren yeşil başlığı görmek için işaretleyin.
  
 :::image type="content" source="images/mpagreen.png" alt-text="MPA kabulünü gösteren yeşil başlık":::
 
 >[!NOTE]
 >Yalnızca şirketinizdeki genel yönetici MPA 'yı görüntüleyebilir ve imzalayabilir. Genel yönetici değilseniz MPA 'yı doğrulamak için genel yöneticinize başvurmanız gerekir.
 
-## <a name="microsoft-customer-agreement"></a>Microsoft Müşteri Sözleşmesi
 
-Azure hizmetleri satın alma işlemleri için CSP 'de Microsoft Müşteri Sözleşmesi 'nin (MCuA) kabulü ve 31 Ocak 2020 ' den sonra satın alınan CSP 'deki diğer tüm teklifler için bu işlem gereklidir. Daha fazla bilgi için [Microsoft Müşteri sözleşmesinin müşteri kabulünü Onayla](confirm-customer-agreement.md)konusunu okuyun.
+## <a name="downloadable-step-by-step-guides"></a>İndirilebilir adım adım kılavuzlar
 
+1. [PMC'den İş Ortağı Merkezi'ne geçme ve Microsoft İş Ortağı Sözleşmesi'ni kabul etme](https://assetsprod.microsoft.com/mpn/migrate-pmc-pc-mpa-guide.pptx)
+
+2. [MPN üyelerini ekleme ve Microsoft İş Ortağı Sözleşmesi](https://assetsprod.microsoft.com/mpn/onboard-pc-csp-mpn-mpa-guide.pptx)
+
+3. [Microsoft İş Ortağı Sözleşmesi kabul durumunu doğrulama](https://assetsprod.microsoft.com/mpn/verify-mpa-acceptance-status.pptx)
+ 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-- [PMC'den İş Ortağı Merkezi'ne geçme ve Microsoft İş Ortağı Sözleşmesi'ni kabul etme](https://assetsprod.microsoft.com/mpn/migrate-pmc-pc-mpa-guide.pptx)
-
-- [MPN üyelerini ekleme ve Microsoft İş Ortağı Sözleşmesi](https://assetsprod.microsoft.com/mpn/onboard-pc-csp-mpn-mpa-guide.pptx)
-
-- [Microsoft İş Ortağı Sözleşmesi kabul durumunu doğrulama](https://assetsprod.microsoft.com/mpn/verify-mpa-acceptance-status.pptx)
+- [Bulut Çözümü Sağlayıcısı programına kaydolma](enrolling-in-the-csp-program.md)

@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 12/02/2020
-ms.openlocfilehash: 38a9b83c5c13ed0a0c0f27db409335f9b86b8173
-ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
+ms.openlocfilehash: 1341e60fd9914f421fd59335a8f037f3d915b72f
+ms.sourcegitcommit: bc44a6e0c5ef048cda6e882fdb543c13c5b64912
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96570782"
+ms.lasthandoff: 12/08/2020
+ms.locfileid: "96869308"
 ---
 # <a name="december-2020-announcements"></a>Aralık 2020 duyuruları
 
@@ -22,6 +22,102 @@ Bu sayfada, Kasım 2020 ' de Microsoft Iş Ortağı Merkezi duyuruları ayrınt�
 
 2020 Duyuruları: [Nisan](2020-april.md)ayında  |  [May](2020-may.md)  |  [June](2020-june.md)  |  [July](2020-july.md)  |  [August](2020-august.md)  |  [September](2020-september.md)  |  [October](2020-October.md)  |  [Kasım](2020-november.md) ayında Haziran ayında | Ayının
 
+______________
+
+## <a name="sdk-release-on-net-standard-v1163"></a><a name="4"></a>.NET Standard SDK sürümü (v 1.16.3)
+
+### <a name="categories"></a>Kategoriler
+
+- Tarih: 2020-12-8
+- Özellikler
+
+### <a name="impacted-audience"></a>Etkilenen hedef kitle
+
+Iş ortağı merkezi .NET SDK 'sını kullanan CSP programına katılan doğrudan fatura ortakları ve dolaylı sağlayıcılar.
+
+### <a name="details"></a>Ayrıntılar
+
+08 2020 Aralık itibariyle Iş ortakları, [Microsoftpartnercenter. NETSDK (NuGet Galerisi |) sürümünü indirmeye başlayabilir. Microsoft. Store. PartnerCenter 1.16.3)](https://www.nuget.org/packages/Microsoft.Store.PartnerCenter/1.16.3), güncelleştirilmiş ortak Iş ortağı MERKEZI SDK [GitHub örnekleri](https://github.com/Microsoft/Partner-Center-DotNet-Samples)ile birlikte. Bu sürüm, aşağıdakiler için güncelleştirmeleri içerir:
+ 
+**SelfServePolicies-yeni işlevsellik eklendi**
+
+- [GetSelfServePolicies](/partner-center/develop/get-a-self-serve-policy-by-id.md)
+- [Getlıfselfservicepolicies](/partner-center/develop/get-a-list-of-self-serve-policies.md)
+- [CreateSelfServePolicies](/partner-center/develop/create-a-self-serve-policy.md)
+- [UpdateSelfServePolicies](/partner-center/develop/update-a-self-serve-policy.md)
+- [DeleteSelfServePolicies](/partner-center/develop/delete-a-self-serve-policy.md)
+ 
+**Müşteriler şirket profili**
+
+- [Organizationregistrationnumber](/partner-center/develop/create-a-customer.md) eklendi
+ 
+**CustomerBillingProfile. DefaultAddress**
+
+- MiddleName eklendi
+ 
+### <a name="next-steps"></a>Sonraki Adımlar
+
+- En son [Microsoftpartnercenter. NETSDK sürümünü indirin (NuGet Galerisi | Microsoft. Store. PartnerCenter 1.16.3)](https://www.nuget.org/packages/Microsoft.Store.PartnerCenter/1.16.3)
+- [GitHub örneklerini](https://github.com/Microsoft/Partner-Center-DotNet-Samples) indirme ve gözden geçirme
+
+______________
+
+## <a name="december-2020-license-based-price-list-release-notes"></a><a name="3"></a>Aralık 2020 lisans tabanlı fiyat listesi sürüm notları
+
+### <a name="categories"></a>Kategoriler
+
+- Tarih: 2020-12-8
+- Teklifler/Pazarlar
+
+### <a name="summary"></a>Özet 
+
+2020 Aralık lisans tabanlı fiyat listesi ve teklif listesi matrisinde bazı sorunlar vardır.
+
+### <a name="impacted-audience"></a>Etkilenen hedef kitle 
+
+Tüm iş ortakları bulut çözümü sağlayıcısı (CSP) programı üzerinden deneyimidir
+
+### <a name="details"></a>Ayrıntılar
+
+Aralık lisans tabanlı fiyat listeleri ve teklif listesi matris dosyaları bazı bozukluklar içerir. Bu sorunlar yalnızca lisans tabanlı fiyatlandırma dosyalarıyla ilgilidir ve Ocak 2021 güncelleştirmelerinde düzeltilmelidir.
+
+#### <a name="incorrect-offers-in-the-license-based-price-list"></a>Lisans tabanlı fiyat listesindeki yanlış teklifler
+
+Aralık lisans tabanlı fiyat listeleri, Fiyat listelerinde olmaması gereken aşağıdaki teklifleri içerir. Bu teklifler daha önce hata halinde fiyat listelerine dahil edilmiştir ve yayımlanmamalıdır. Bu şekilde kullanılabilecek bir zamanlama yoktur. Gelecekte geri eklendiyse, gelecekteki önizleme fiyatı listelerine ekleme olarak listelenecektir.
+
+   |**Teklif adı**|**Teklif Kimliği**|
+   |-------------------|:------|
+   |Dynamics 365 Insan kaynakları (kar amacı gütmeyen fiyatlandırma)|1596fa61-7dad1-4263-98f8-b27dfa4cfbb5|
+   |Dynamics 365 Insan kaynakları, Dynamics 365 temel teklifini (kar amacı gütmeyen fiyatlandırma) nitelemek için Iliştirmiş|8bf0b826-e05b-45aa-9cd1-9a9f742f7731|
+   |Dynamics 365 Insan kaynakları, Dynamics 365 temel teklifini (kar amacı gütmeyen fiyatlandırma) uygun şekilde ekler (nitelikli teklif)|f906435d-9dc9-42ba-bea6-2a2b08ca60db|
+   |Dynamics 365 Insan kaynakları korumalı alanı (kar amacı gütmeyen fiyatlandırma)|079ec5ba-D726-4384-95af-62d135c210d2|
+   |Dynamics 365 Insan kaynakları Self Servis (kar amacı gütmeyen fiyatlandırma)|931acecc-34C3-4f83-913E-c7fdbfd7e2a1|
+   |Dynamics 365 Işlemleri – sipariş satırları (kar amacı gütmeyen fiyatlandırma)|7dd6b78a-3d53-47F8-8A64-bd84609a9a70|
+   
+#### <a name="incorrect-offers-in-the-offer-list-matrix"></a>Teklif listesi matrisinde yanlış teklifler
+   
+Aşağıdaki teklifler teklif listesi matrisinde hatalı. Bunlar mevcut değil, henüz kullanılabilirlik için bir hedef tarih yok. İş ortakları bunları yoksaymalıdır.
+
+   |**Teklif adı**|**Teklif Kimliği**|
+   |-------------------|:------|
+   |Dynamics 365 Işlemleri-veritabanı kapasitesi (kar amacı gütmeyen fiyatlandırma)|1d3f4d81-89b9-419e-a880-31b2c50b8d66|
+   |Dynamics 365 Işlemleri-dosya kapasitesi (kar amacı gütmeyen fiyatlandırma)|dc173a86-285b-444c-881e-3ece531f67da|
+
+#### <a name="powerapps-offer"></a>PowerApps teklifi
+
+Bu teklif, Aralık fiyat listesine değil teklif listesi matrisine eklenmiştir. Teklif kullanılabilir ve fiyatlandırma, önceki ayın fiyat listesi Kasım dosyasında bulunabilir. Bu teklif, Ocak Fiyat listesine geri eklenmelidir.
+
+   |**Teklif adı**|**Teklif Kimliği**|
+   |-------------------|:------|
+   |Uygulama planı başına Power Apps|5e1087b6-246B-4503-b88a-b60bdf0b3840|
+
+### <a name="next-steps"></a>Sonraki adımlar
+
+Diğer sorunlar açıklanmadığı için yayın notlarını sık sık denetleyin.
+
+### <a name="last-updated"></a>Son güncelleştirme
+
+8 Aralık 2020
 
 ______________
 
