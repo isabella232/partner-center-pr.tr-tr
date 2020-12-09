@@ -1,7 +1,7 @@
 ---
 title: Yazılım Güvencesi Planlama Hizmetleri
 ms.topic: article
-ms.date: 06/03/2020
+ms.date: 12/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Yazılım Güvencesi kapsamındaki müşterilere eğitim ve diğer hizmetler sunabilmeniz için Microsoft planlama hizmetleri görevlendirmelerine nasıl kaydolyacağını ve hak alabileceğinizi öğrenin.
@@ -9,12 +9,12 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4c61a649da7e4983be1a478fdd963ba937e7783b
-ms.sourcegitcommit: 2254b8c18c34254ed14db55ec20dcb2ccb287663
+ms.openlocfilehash: 03292d00864e30fd4941320748aef1590c9e2a80
+ms.sourcegitcommit: 175fa04ba45a1133b77d8055a0123561bd987415
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/11/2020
-ms.locfileid: "92531242"
+ms.lasthandoff: 12/09/2020
+ms.locfileid: "96926653"
 ---
 # <a name="software-assurance-planning-services-in-partner-center"></a>İş Ortağı Merkezi’nde Yazılım Güvencesi Planlama Hizmetleri
 
@@ -42,10 +42,9 @@ Bu makalede, her adımın nasıl tamamlanacağı açıklanmaktadır.
 
 ## <a name="verify-eligibility-new-partners"></a>Uygunluğu doğrula (yeni iş ortakları)
 
-İş ortağı şirketlerinin ve danışmanlarının planlama hizmetleri tekliflerinden birine kaydolmasından önce, hem uyumluluk eğitimi gereksinimlerinin hem de uzmanlık gereksinimlerinin karşılamaları gerekir:
+İş ortağı şirketlerinin ve danışmanlarının planlama hizmetleri tekliflerinden birine kaydolmasından önce, aşağıdaki gibi, uzmanlığa gereksinimleri karşılamalıdır:
 
-- **Uyumluluk eğitimi gereksinimleri.** Programın uyumluluk eğitimi gereksinimlerinin, şirket düzeyinde karşılanması gerekir.
-- **Uzmanlık gereksinimleri.** Uzmanlığa yönelik gereksinimler, teslime katılım için özeldir. Örneğin, şirketiniz Masaüstü Dağıtım Planlama Hizmetleri (DDPS) sunumuna kayıtlı olabilir. Bununla birlikte, yalnızca şirket bu belirli bir katılım için uygun bir uzmanlığa sahip olduğunda, yalnızca DDPS teklifi dahilinde belirli bir görevlendirme sunmaya hak kazanmış olursunuz.
+**Uzmanlık gereksinimleri.** Uzmanlığa yönelik gereksinimler, teslime katılım için özeldir. Örneğin, şirketiniz Masaüstü Dağıtım Planlama Hizmetleri (DDPS) sunumuna kayıtlı olabilir. Bununla birlikte, yalnızca şirket bu belirli bir katılım için uygun bir uzmanlığa sahip olduğunda, yalnızca DDPS teklifi dahilinde belirli bir görevlendirme sunmaya hak kazanmış olursunuz.
 
 >[!NOTE]
 > Belirli görevlendirmelere uygunluk gereksinimleri hakkında daha fazla bilgi edinmek için, [Planlama Hizmetleri görevlendirmelerine yönelik uygunluk gereksinimlerini görüntüleyin](software-assurance-dps-requirements.md).
@@ -53,8 +52,8 @@ Bu makalede, her adımın nasıl tamamlanacağı açıklanmaktadır.
 Şirketinizin belirli bir planlama hizmetleri katılımını kaydetme uygunluğunu doğrulamaya yardımcı olmak için:
 
 1. Iş Ortağı Merkezi [panosunda](https://partner.microsoft.com/dashboard/home)oturum açın.
-2. Menüden **MPN** ' yi seçin ve ardından **Programlar** ' ı seçin.
-3. **Yazılım güvencesi kaydı** ' nı seçin.
+2. Menüden **MPN** ' yi seçin ve ardından **Programlar**' ı seçin.
+3. **Yazılım güvencesi kaydı**' nı seçin.
 4. Sayfanın üst kısmındaki **Planlama Hizmetleri program kaydı** sekmesini seçin. Daha önce tamamladığınız gereksinimlerin veya uzmanların yanında yeşil bir onay işareti görürsünüz.
 
 ## <a name="enroll-new-partners"></a>Kaydet (yeni iş ortakları)

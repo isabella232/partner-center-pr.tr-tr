@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a4472702104d3d4596d57633e80b8e652c624297
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 98ad8e3f78b8181013b21d6146744337de6976bd
+ms.sourcegitcommit: 175fa04ba45a1133b77d8055a0123561bd987415
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "92531026"
+ms.lasthandoff: 12/09/2020
+ms.locfileid: "96926670"
 ---
 # <a name="cloud-solution-provider-program-regional-markets-and-currencies-where-you-can-sell-csp-offers"></a>CSP teklifleri oluşturabileceğiniz bulut çözümü sağlayıcısı program bölgesel pazarlar ve para birimleri
 
@@ -41,25 +41,25 @@ CSP tekliflerini nerede oluşturabileceğiniz hakkında bilgi edinmek için, aş
 
 Şirketinizin konumu aşağıdaki listede ise, müşteriler için listedeki tüm konumlarda CSP teklifleri satın alabilirsiniz.
 
-| Ülke/Bölge           | Para birimi |
+| Ülke/Bölge           | Para Birimi |
 | ------------------------ |:--------:|
-| Angola                   |          |
+| Angola                   |   USD    |
 | Benin                    |   USD    |
-| Botsvana                 |          |
+| Botsvana                 |   USD    |
 | Burkina Faso             |   USD    |
 | Burundi                  |   USD    |
 | Kamerun                 |   USD    |
-| Cabo Verde               |          |
+| Cabo Verde               |   USD    |
 | Orta Afrika Cumhuriyeti |   USD    |
 | Çad                     |   USD    |
 | Komorlar                  |   USD    |
 | Kongo Cumhuriyeti                    |   USD    |
 | Kongo (KDC)              |   USD    |
-| Fildişi Sahili (Côte d'Ivoire)            |          |
+| Fildişi Sahili (Côte d'Ivoire)            |   USD    |
 | Cibuti                 |   USD    |
 | Ekvator Ginesi        |   USD    |
 | Eritre                  |   USD    |
-| Etiyopya                 |          |
+| Etiyopya                 |   USD    |
 | Fransız Polinezyası         |   USD    |
 | Gabon                    |   USD    |
 | Gambiya                   |   USD    |
@@ -80,7 +80,7 @@ CSP tekliflerini nerede oluşturabileceğiniz hakkında bilgi edinmek için, aş
 | Reunion                  |   USD    |
 | Ruanda                   |   USD    |
 | Sao Tome ve Principe    |   USD    |
-| Senegal                  |          |
+| Senegal                  |   USD    |
 | Seyşeller               |   USD    |
 | Sierra Leone             |   USD    |
 | Somali                  |   USD    |
@@ -88,28 +88,28 @@ CSP tekliflerini nerede oluşturabileceğiniz hakkında bilgi edinmek için, aş
 | Saint Helena, Ascension ve Tristan da Cunha|    USD   |
 | Tanzanya                 |   USD    |
 | Togo                     |   USD    |
-| Uganda                   |          |
-| Zambiya                   |          |
+| Uganda                   |   USD    |
+| Zambiya                   |   USD    |
 |
 
 ## <a name="asia-and-pacific-region-and-market"></a>Asya ve Pasifik bölgesi ve Pazar
 
 Şirketinizin konumu aşağıdaki listede ise, müşteriler için listedeki tüm konumlarda CSP teklifleri satın alabilirsiniz.
 
-| Ülke/Bölge     | Para birimi |
+| Ülke/Bölge     | Para Birimi |
 | --------------     |:--------:|
 |  Bangladeş        |   USD    |
-|  Butan            |          |
+|  Butan            |   USD    |
 |  Barış Yurdu Brunei Devleti |   USD    |
-|  Kamboçya          |          |
+|  Kamboçya          |   USD    |
 |  Hong Kong         |   USD    |
 |  Endonezya         |   USD    |
-|  Laos              |          |
+|  Laos              |   USD    |
 |  Makao             |   USD    |
 |  Malezya          |   USD    |
-|  Maldivler          |          |
-|  Myanmar           |          |
-|  Nepal             |          |
+|  Maldivler          |   USD    |
+|  Myanmar           |   USD    |
+|  Nepal             |   USD    |
 |  Filipinler       |   USD    |
 |  Singapur         |   USD    |
 |  Sri Lanka         |   USD    |
@@ -122,7 +122,7 @@ CSP tekliflerini nerede oluşturabileceğiniz hakkında bilgi edinmek için, aş
 
 Şirketinizin konumu aşağıdaki listede ise, müşteriler için listedeki tüm konumlarda CSP teklifleri satın alabilirsiniz.
 
-|  Ülke/Bölge        | Para birimi |
+|  Ülke/Bölge        | Para Birimi |
 |  --------------        |:--------:|
 |  Avustralya             |   AUD    |
 |  Christmas Adası      |   AUD    |
@@ -153,7 +153,7 @@ CSP tekliflerini nerede oluşturabileceğiniz hakkında bilgi edinmek için, aş
 
 Şirketinizin konumu Brezilya ise, Brezilya 'daki müşterilere CSP teklifleri satın alabilirsiniz.
 
-|  Ülke/Bölge | Para birimi |
+|  Ülke/Bölge | Para Birimi |
 |  -------------- |:--------:|
 |  Brezilya         |   USD    |
 |
@@ -162,7 +162,7 @@ CSP tekliflerini nerede oluşturabileceğiniz hakkında bilgi edinmek için, aş
 
 Şirketinizin konumu aşağıdaki listede ise, müşteriler için listedeki tüm konumlarda CSP teklifleri satın alabilirsiniz.
 
-|  Ülke/Bölge | Para birimi |
+|  Ülke/Bölge | Para Birimi |
 |  -------------- |:--------:|
 |  Kanada         |   CAD    |
 |  Saint Pierre ve Miquelon|  CAD   |
@@ -172,16 +172,16 @@ CSP tekliflerini nerede oluşturabileceğiniz hakkında bilgi edinmek için, aş
 
 Şirketinizin konumu aşağıdaki listede ise, müşteriler için listedeki tüm konumlarda CSP teklifleri satın alabilirsiniz.
 
-|  Ülke/Bölge | Para birimi  |
+|  Ülke/Bölge | Para Birimi  |
 |  -------------- |:--------:|
 |  Bir i Adaları  |   EUR    |
 |  Andorra        |   EUR    |
 |  Avusturya        |   EUR    |
 |  Belçika        |   EUR    |
 |  Bouvet Adası  |   EUR    |
-|  Bulgaristan       |          |
+|  Bulgaristan       |   EUR    |
 |  Hırvatistan        |   EUR    |
-|  Kıbrıs         |          |
+|  Kıbrıs         |   EUR    |
 |  Çek Cumhuriyeti |   EUR    |
 |  Danimarka        |   DKK    |
 |  Estonya        |   EUR    |
@@ -191,7 +191,7 @@ CSP tekliflerini nerede oluşturabileceğiniz hakkında bilgi edinmek için, aş
 |  Almanya        |   EUR    |
 |  Cebelitarık      |   GBP    |
 |  Yunanistan         |   EUR    |
-|  Grönland      |          |
+|  Grönland      |   EUR    |
 |  Guernsey       |   GBP    |
 |  Macaristan        |   EUR    |
 |  İzlanda        |   EUR    |
@@ -203,8 +203,8 @@ CSP tekliflerini nerede oluşturabileceğiniz hakkında bilgi edinmek için, aş
 |  Liechtenstein  |   EUR    |
 |  Litvanya      |   EUR    |
 |  Lüksemburg     |   EUR    |
-|  Malta          |          |
-|  Monako         |          |
+|  Malta          |   EUR    |
+|  Monako         |   EUR    |
 |  Hollanda    |   EUR    |
 |  Norveç         |   NOK    |
 |  Polonya         |   EUR    |
@@ -225,7 +225,7 @@ CSP tekliflerini nerede oluşturabileceğiniz hakkında bilgi edinmek için, aş
 
 Şirketinizin konumu Hindistan ise, Hindistan 'daki müşterilere CSP teklifleri satın alabilirsiniz.
 
-|  Ülke/Bölge | Para birimi |
+|  Ülke/Bölge | Para Birimi |
 |  -------------- |:--------:|
 |  Hindistan          |   INR    |
 |
@@ -234,7 +234,7 @@ CSP tekliflerini nerede oluşturabileceğiniz hakkında bilgi edinmek için, aş
 
 Şirketinizin konumu Japonya ise, Japonya 'daki müşterilere CSP teklifleri satıtabilirsiniz.
 
-|  Ülke/Bölge | Para birimi |
+|  Ülke/Bölge | Para Birimi |
 |  -------------- |:--------:|
 |  Japonya          |   JPY    |
 |
@@ -243,7 +243,7 @@ CSP tekliflerini nerede oluşturabileceğiniz hakkında bilgi edinmek için, aş
 
 Şirketinizin konumu Kore, Cumhuriyeti ise, Kore 'deki müşterilere CSP teklifleri satın alabilirsiniz.
 
-|  Ülke/Bölge    | Para birimi |
+|  Ülke/Bölge    | Para Birimi |
 |  --------------    |:--------:|
 |  Kore Cumhuriyeti|   KRW    |
 |
@@ -252,7 +252,7 @@ CSP tekliflerini nerede oluşturabileceğiniz hakkında bilgi edinmek için, aş
 
 Şirketinizin konumu aşağıdaki listede ise, müşteriler için listedeki tüm konumlarda CSP teklifleri satın alabilirsiniz.
 
-|  Ülke/Bölge | Para birimi |
+|  Ülke/Bölge | Para Birimi |
 |  -------------- |:--------:|
 |  Anguilla       |   USD    |
 |  Antarktika     |   USD    |
@@ -278,13 +278,13 @@ CSP tekliflerini nerede oluşturabileceğiniz hakkında bilgi edinmek için, aş
 |  Falkland Adaları|  USD    |
 |  Fransız Guyanası  |   USD    |
 |  Grenada        |   USD    |
-|  Guadeloupe     |          |
+|  Guadeloupe     |   USD    |
 |  Guatemala      |   USD    |
 |  Guyana         |   USD    |
 |  Haiti          |   USD    |
 |  Honduras       |   USD    |
 |  Jamaika        |   USD    |
-|  Martinique     |          |
+|  Martinique     |   USD    |
 |  Meksika         |   USD    |
 |  Montserrat     |   USD    |
 |  Nikaragua      |   USD    |
@@ -313,11 +313,11 @@ CSP tekliflerini nerede oluşturabileceğiniz hakkında bilgi edinmek için, aş
 
 Şirketinizin konumu aşağıdaki listede ise, müşteriler için listedeki tüm konumlarda CSP teklifleri satın alabilirsiniz.
 
-|  Ülke/Bölge | Para birimi |
+|  Ülke/Bölge | Para Birimi |
 |  -------------- |:--------:|
-|  Afganistan    |          |
+|  Afganistan    |   USD    |
 |  Arnavutluk        |   USD    |
-|  Cezayir        |          |
+|  Cezayir        |   USD    |
 |  Ermenistan        |   USD    |
 |  Azerbaycan     |   USD    |
 |  Bahreyn        |   USD    |
@@ -328,21 +328,21 @@ CSP tekliflerini nerede oluşturabileceğiniz hakkında bilgi edinmek için, aş
 |  Gürcistan        |   USD    |
 |  Irak           |   USD    |
 |  İsrail         |   USD    |
-|  Ürdün         |          |
+|  Ürdün         |   USD    |
 |  Kazakistan     |   USD    |
 |  Kosova         |   USD    |
 |  Kuveyt         |   USD    |
 |  Kırgızistan     |   USD    |
 |  Lübnan        |   USD    |
 |  Lesotho        |   USD    |
-|  Libya          |          |
+|  Libya          |   USD    |
 |  Makedonya Cumhuriyeti|   |
 |  Moritanya     |   USD    |
-|  Moldova        |          |
-|  Moğolistan       |          |
-|  Karadağ     |          |
+|  Moldova        |   USD    |
+|  Moğolistan       |   USD    |
+|  Karadağ     |   USD    |
 |  Fas        |   USD    |
-|  Mozambik     |          |
+|  Mozambik     |   USD    |
 |  Umman           |   USD    |
 |  Pakistan       |   USD    |
 |  Filistin toprakları, dolu |        |
@@ -351,22 +351,22 @@ CSP tekliflerini nerede oluşturabileceğiniz hakkında bilgi edinmek için, aş
 |  Sırbistan         |   USD    |
 |  Güney Afrika   |   USD    |
 |  Svaziland      |   USD    |
-|  Tacikistan     |          |
+|  Tacikistan     |   USD    |
 |  Tunus        |   USD    |
 |  Türkiye         |   USD    |
-|  Türkmenistan   |          |
+|  Türkmenistan   |   USD    |
 |  Ukrayna        |   USD    |
 |  Birleşik Arap Emirlikleri| USD |
-|  Özbekistan     |          |
+|  Özbekistan     |   USD    |
 |  Yemen          |   USD    |
-|  Zimbabve       |          |
+|  Zimbabve       |   USD    |
 |
 
 ## <a name="new-zealand-region-and-market"></a>Yeni Zelanda bölgesi ve Pazar
 
 Şirketinizin konumu aşağıdaki listede ise, müşteriler için listedeki tüm konumlarda CSP teklifleri satın alabilirsiniz.
 
-|  Ülke/Bölge | Para birimi |
+|  Ülke/Bölge | Para Birimi |
 |  -------------- |:--------:|
 |  Amerikan Samoası |   NZD    |
 |  Yeni Zelanda    |   NZD    |
@@ -378,7 +378,7 @@ CSP tekliflerini nerede oluşturabileceğiniz hakkında bilgi edinmek için, aş
 
 Şirketinizin konumu Rusya ise, Rusya 'daki müşterilere CSP teklifleri satıtabilirsiniz.
 
-|  Ülke/Bölge | Para birimi |
+|  Ülke/Bölge | Para Birimi |
 |  -------------- |:--------:|
 |  Rusya         |    RUB   |
 |
@@ -387,7 +387,7 @@ CSP tekliflerini nerede oluşturabileceğiniz hakkında bilgi edinmek için, aş
 
 Şirketinizin konumu Tayvan ise, Tayvan 'daki müşterilere CSP teklifleri satıtabilirsiniz.
 
-|  Ülke/Bölge | Para birimi |
+|  Ülke/Bölge | Para Birimi |
 |  -------------- |:--------:|
 |  Tayvan         |   TWD    |
 |
@@ -396,7 +396,7 @@ CSP tekliflerini nerede oluşturabileceğiniz hakkında bilgi edinmek için, aş
 
 Şirketinizin konumu aşağıdaki listede ise, müşteriler için listedeki tüm konumlarda CSP teklifleri satın alabilirsiniz.
 
-|  Ülke/Bölge       | Para birimi |
+|  Ülke/Bölge       | Para Birimi |
 |  -------------        |:--------:|
 |  Birleşik Devletler        |   USD    |
 |  ABD Küçük Harici Adaları|   USD    |

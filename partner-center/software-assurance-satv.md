@@ -1,7 +1,7 @@
 ---
 title: Yazılım Güvencesi eğitimi fiş programı
 ms.topic: article
-ms.date: 06/12/2020
+ms.date: 12/09/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Eğitim ve kurumsal müşterilere planlama sunmaya yönelik telafi sağlamak için yazılım güvencesi eğitim fişi programını nasıl kaydedebileceğinizi öğrenin.
@@ -9,12 +9,12 @@ author: mowree
 ms.author: mowrim
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: 9470918fd868d9e8759f62b37e0bf30a21eaf540
-ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
+ms.openlocfilehash: 786f69858dc90a9c0993e88c4900a647a07ba81f
+ms.sourcegitcommit: 175fa04ba45a1133b77d8055a0123561bd987415
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/05/2020
-ms.locfileid: "92531211"
+ms.lasthandoff: 12/09/2020
+ms.locfileid: "96926605"
 ---
 # <a name="software-assurance-training-voucher-satv-program-in-partner-center"></a>İş Ortağı Merkezi’nde Yazılım Güvencesi Eğitim Belgesi (SATV) programı
 
@@ -45,11 +45,11 @@ Iş Ortağı Merkezi 'nde ilgili uzmanlık ve değerlendirme gereksinimleri dahi
 
 ## <a name="enroll-in-the-training-program"></a>Eğitim programına kaydolma
 
-Şirketiniz uygunluk gereksinimlerini karşıladıktan ve program katılımcılarınız uyumluluk eğitimi kursunu tamamladıktan sonra Yazılım Güvencesi Eğitim Belgesi program sözleşmesini imzalayabilir ve programa katılabilirsiniz. Tüm [SATV program ilkelerini](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3koEP)gözden geçirdiğinizden emin olun ve iş akışının 2. [adımındaki](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB) yönergeleri izleyerek Iş Ortağı Merkezi 'nde SATV kayıt işlemini tamamlayın.
+Şirketiniz uygunluk gereksinimlerini karşıladıktan sonra, yazılım güvencesi eğitimi fiş programı sözleşmesini imzalamaya ve kaydolmaya hazırsınız demektir. Tüm [SATV program ilkelerini](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3koEP)gözden geçirdiğinizden emin olun ve iş akışının 2. [adımındaki](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB) yönergeleri izleyerek Iş Ortağı Merkezi 'nde SATV kayıt işlemini tamamlayın.
 
 
 ## <a name="confirm-course-eligibility"></a>Kurs uygunluğunu Onayla
-SATV programına kaydolduktan sonra, iş ortakları, müşterilerin eğitim fişlerini kullanabilmesi için SATV uygun kurslar için eğitim oturumları sunabilir. Uygun kurslar, [SATV kurs uygunluk kataloğunda](https://savl-catalog.microsoft.com/)listelenmiştir. Hangi kurs türlerinin SATV ile uygun olduğunu anlamak için iş akışının [3. adımını](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB) gözden geçirin.
+SATV programına kaydolduktan sonra, iş ortakları, müşterilerin eğitim fişlerini kullanabilmesi için SATV uygun kurslar için eğitim oturumları sunabilir. Uygun kurslar, SATV kurs uygunluk kataloğunda listelenmiştir. Hangi kurs türlerinin SATV ile uygun olduğunu anlamak veya kurs uygunluk kataloğuna bir bağlantı almak için iş akışının [3. adımını](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB) gözden geçirin.
 
 ## <a name="have-customer-create-and-assign-voucher"></a>Müşteri için fiş oluşturma ve atama
 

@@ -1,7 +1,7 @@
 ---
 title: CSP için Microsoft Iş ortağı Sözleşmesi (MPA)
-ms.topic: article
-ms.date: 04/27/2020
+ms.topic: how-to
+ms.date: 12/09/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Bu Birleşik ve dijital olarak kabul edilen Microsoft Iş ortağı sözleşmesi 'ni (MPA) imzalamak ve doğrulamak için Microsoft CSP iş ortağı gereksinimlerini öğrenin.
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 7f9ab107a622cfe8cc7ef3f1d1d2877810f749ed
-ms.sourcegitcommit: bc44a6e0c5ef048cda6e882fdb543c13c5b64912
+ms.openlocfilehash: d8dac9e5d8720a39d6bf585a1f6cd9bd5c70465a
+ms.sourcegitcommit: 175fa04ba45a1133b77d8055a0123561bd987415
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "96869342"
+ms.lasthandoff: 12/09/2020
+ms.locfileid: "96926687"
 ---
 # <a name="learn-about-the-microsoft-partner-agreement-mpa-for-csp-program-partners"></a>CSP program iş ortakları için Microsoft Iş ortağı Sözleşmesi (MPA) hakkında bilgi edinin
 
@@ -27,6 +27,9 @@ Microsoft Iş ortağı sözleşmesi, Birleşik ve dijital olarak kabul edilen bi
 Tüm bulut çözümü sağlayıcısı program iş ortakları (dolaylı sağlayıcılar, dolaylı satıcılar ve doğrudan fatura ortakları dahil), Iş Ortağı Merkezi 'nde MPA 'yı çevrimiçi olarak imzalayabilir. Kamu Bulutu 'nda çalışan doğrudan fatura ve dolaylı sağlayıcı iş ortakları, MPA 'nın Iş Ortağı Merkezi içinden de imzalamasını gerçekleştirebilir.
 
 CSP programına katılmayı sürdürmek için, Microsoft Iş ortağı sözleşmesi 'ni 31 Ocak 2020 tarihinden önce imzalamanız gerekir. İş Ortağı Merkezi, artık anlaşmayı Iş Ortağı Merkezi içinden kolayca imzalayabilirseniz size hatırlatır.
+
+>[!NOTE]
+>MPA 'nın, şirketinizin CSP iş olduğu her CSP bölgesinde bir kez imzalanmış olması gerekir. [CSP bölgeleri](regional-authorization-overview.md) hakkında daha fazla bilgi edinin 
 
 ## <a name="verify-your-mpn-id-is-active-and-migrated-to-partner-center"></a>MPN KIMLIĞINIZIN etkin olduğunu ve Iş Ortağı Merkezi 'ne geçirildiğini doğrulayın
 
@@ -78,13 +81,13 @@ MPA 'nın imzalanıp imzalanmadığını görmek için:
 >Yalnızca şirketinizdeki genel yönetici MPA 'yı görüntüleyebilir ve imzalayabilir. Genel yönetici değilseniz MPA 'yı doğrulamak için genel yöneticinize başvurmanız gerekir.
 
 
-## <a name="downloadable-step-by-step-guides"></a>İndirilebilir adım adım kılavuzlar
+## <a name="download-the-step-by-step-guide-thats-right-for-where-you-are-in-the-process"></a>İşlem içinde nerede olduğunuz konusunda doğru olan adım adım kılavuzu indirin
 
-1. [PMC'den İş Ortağı Merkezi'ne geçme ve Microsoft İş Ortağı Sözleşmesi'ni kabul etme](https://assetsprod.microsoft.com/mpn/migrate-pmc-pc-mpa-guide.pptx)
+1. MPN hesabınızı PMC 'den Iş Ortağı Merkezi 'ne geçiriyorsanız: [PMC 'Den iş ortağı merkezi 'Ne geçiş yapın ve Microsoft Iş ortağı sözleşmesi 'ni kabul edin](https://assetsprod.microsoft.com/mpn/migrate-pmc-pc-mpa-guide.pptx)
 
-2. [MPN üyelerini ekleme ve Microsoft İş Ortağı Sözleşmesi](https://assetsprod.microsoft.com/mpn/onboard-pc-csp-mpn-mpa-guide.pptx)
+2. Iş Ortağı Merkezi 'nde CSP dolaylı satıcısı olarak kaydetmek istiyorsanız: [MPN üyeleri Için ekleme ve Microsoft Iş ortağı sözleşmesi](https://assetsprod.microsoft.com/mpn/onboard-pc-csp-mpn-mpa-guide.pptx)
 
-3. [Microsoft İş Ortağı Sözleşmesi kabul durumunu doğrulama](https://assetsprod.microsoft.com/mpn/verify-mpa-acceptance-status.pptx)
+3. Yukarıdaki 1. ve/veya 2. adımı tamamladıktan sonra, Iş Ortağı Merkezi 'nde MPA durumunuzu doğrulamak için: [Microsoft Iş ortağı sözleşmesi kabul durumunu doğrulama](https://assetsprod.microsoft.com/mpn/verify-mpa-acceptance-status.pptx)
  
 ## <a name="next-steps"></a>Sonraki adımlar
 
