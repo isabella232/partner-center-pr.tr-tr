@@ -9,12 +9,12 @@ author: dhirajgandhi
 ms.author: dhgandhi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c694f48fb62fc031bfaf78be6a1c4e43629a7adb
-ms.sourcegitcommit: 37b0b2a7141907c8d21839de3128fb8a98575886
+ms.openlocfilehash: 13fdeb01ecd73dc1a63d174a4ad5cb8e1bdc813a
+ms.sourcegitcommit: 455894365fa488368f7572ac72312e84a267ef5e
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/05/2020
-ms.locfileid: "92531226"
+ms.lasthandoff: 12/10/2020
+ms.locfileid: "97011511"
 ---
 # <a name="reinstate-admin-privileges-for-a-customers-azure-csp-subscriptions"></a>Müşterinin Azure CSP abonelikleri için yeniden devreye sokma yönetici ayrıcalıkları  
 
@@ -29,7 +29,7 @@ Bir CSP iş ortağı olarak, müşterileriniz genellikle Azure kullanımını ve
 
 CSP 'de Azure için iki yönetim ayrıcalıkları düzeyi vardır.
 
-**Kiracı düzeyinde yönetici ayrıcalıkları** ( **yönetici ayrıcalıkları temsilcisi** )-CSP Iş ortakları, müşterilerle CSP satıcısı ilişkisi oluştururken bu ayrıcalıkları alır. Bu, CSP iş ortaklarının müşterilerinin kiracılarına erişmesini sağlar ve bu sayede kullanıcıları ekleme/yönetme, parolaları sıfırlama ve kullanıcı lisanslarını yönetme gibi yönetim işlevleri gerçekleştirebilir.
+**Kiracı düzeyinde yönetici ayrıcalıkları** (**yönetici ayrıcalıkları temsilcisi**)-CSP Iş ortakları, müşterilerle CSP satıcısı ilişkisi oluştururken bu ayrıcalıkları alır. Bu, CSP iş ortaklarının müşterilerinin kiracılarına erişmesini sağlar ve bu sayede kullanıcıları ekleme/yönetme, parolaları sıfırlama ve kullanıcı lisanslarını yönetme gibi yönetim işlevleri gerçekleştirebilir.
 
 **Abonelik düzeyi yönetici ayrıcalıkları** -CSP iş ortakları, müşterileri IÇIN Azure CSP abonelikleri oluştururken bu ayrıcalıkları alırlar. Bu ayrıcalıklara sahip olmak, CSP iş ortaklarının bu aboneliklerde Azure kaynaklarını sağlamasına ve yönetmesine olanak tanıyan tüm erişimleri olmasını sağlar.
 
@@ -37,7 +37,7 @@ CSP 'de Azure için iki yönetim ayrıcalıkları düzeyi vardır.
 
 Yetkilendirilmiş yönetici ayrıcalıklarını yeniden kazanmak için müşterinizden çalışmanız gerekir.
 
-1. Iş Ortağı Merkezi panosunda oturum açın ve Iş Ortağı Merkezi menüsünde **müşteriler** ' i seçin.
+1. Iş Ortağı Merkezi panosunda oturum açın ve Iş Ortağı Merkezi menüsünde **müşteriler**' i seçin.
 
 2. Çalıştığınız müşteriyi seçin ve **bir satıcı ilişkisi isteyin.** Bu, kiracı yönetici haklarına sahip olan müşteriye bir bağlantı oluşturur.
 
@@ -47,7 +47,7 @@ Yetkilendirilmiş yönetici ayrıcalıklarını yeniden kazanmak için müşteri
 
 ## <a name="adding-the-admin-agents-group-as-an-owner-for-the-azure-csp-subscription"></a>Yönetici aracıları grubunu Azure CSP aboneliğine sahip olarak ekleme
 
-Müşterinizin, Azure CSP Aboneliğinin sahibi olarak Yönetim Aracısı grubunuzu eklemesi gerekir.
+Müşterinizin, yönetici Aracısı grubunuzu bir Azure CSP Aboneliğinin sahibi, bir kaynak grubu veya kaynak olarak eklemesi gerekir. 
 
 1. PowerShell konsolunu veya PowerShell Tümleşik komut dosyası ortamı 'nı (ıSE) kullanın. AzureAD modüllerinin yüklü olduğundan emin olun.
 
@@ -67,13 +67,20 @@ Müşterinizin, Azure CSP Aboneliğinin sahibi olarak Yönetim Aracısı grubunu
 4. Azure CSP aboneliğine sahip erişimi olan Kullanıcı, kimlik bilgilerini kullanarak Azure 'da oturum açar.
 
    ```powershell
-   Connect-AzAccount
+   Connect-AzureRmAccount
    ```
 
-5. Daha sonra, CSP Azure aboneliğine yönetici aracı grubunuzu sahip olarak ekleyebilir.
+5. Daha sonra, kapsam parametresinde uygun bir kaynak URI 'Si uygulayarak, Yönetim Aracısı grubunuzu CSP Azure aboneliğine, kaynak grubuna veya kaynağa sahip olarak ekleyebilir. 
 
     ```powershell
-    New-AzureRoleAssignment -ObjectId <Object Id that you got from step 3> -RoleDefinitionName Owner -Scope "/subscriptions/<SubscriptionId of CSP subscription>"
+    # Grant owner role at subscription level
+    New-AzureRmRoleAssignment -ObjectId <Object Id that you got from step 3> -RoleDefinitionName Owner -Scope "/subscriptions/<SubscriptionId of CSP subscription>"
+
+    # Grant owner role at resource group level
+    New-AzureRmRoleAssignment -ObjectId <Object Id that you got from step 3> -RoleDefinitionName Owner -Scope "/subscriptions/<SubscriptionId of CSP subscription>/resourceGroups/<Resource group name>"
+
+    # Grant owner role at resource level
+    New-AzureRmRoleAssignment -ObjectId <Object Id that you got from step 3> -RoleDefinitionName Owner -Scope "<Resource Uri>"
     ```
 
 ## <a name="next-steps"></a>Sonraki adımlar

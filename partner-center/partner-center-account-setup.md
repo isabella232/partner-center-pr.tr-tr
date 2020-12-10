@@ -9,12 +9,12 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 55046b21e70ad04f47bf4cd191736aa12335060e
-ms.sourcegitcommit: 147813ba322653c989df5afe0b3bf0c252523a92
+ms.openlocfilehash: 0a59849fdf1937c1a4ec5d619a95f9321fe58fa0
+ms.sourcegitcommit: 455894365fa488368f7572ac72312e84a267ef5e
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96556455"
+ms.lasthandoff: 12/10/2020
+ms.locfileid: "97011540"
 ---
 # <a name="manage-your-partner-center-account---company-profile-bank-information-roles-permissions-and-more"></a>Iş Ortağı Merkezi hesabınızı, şirket profilinizi, banka bilgilerini, rolleri, izinleri ve daha fazlasını yönetin
 
@@ -41,9 +41,19 @@ Bu, hesap ayarları sayfasını görüntüler.
 
 İş ortağı veya geliştirici olsun, oturum açma desteği biletleri gibi MPN KIMLIĞINIZI kullanın. MPN KIMLIĞINIZ, e **yasal bilgiler** sayfasında bulunur. **Kimlik profilini** de bulabilirsiniz.
 
+## <a name="account-settings---partners-resellers"></a>Hesap ayarları-iş ortakları, satıcılar
+
+**Ayarlar** simgesini seçtiğinizde ve **Hesap ayarları** menüsünü açtığınızda, şirketiniz bulut çözümü sağlayıcısı programının parçasıysa, varsayılan görünüm, Iki sekme, **Iş ortağı** ve **Bayi** görüntüleyen **yasal bilgiler** olur. Her sekme, işletmenizin yönlerini içerir.
+
+:::image type="content" source="images/accountsettings/reseller.png" alt-text="Menü, Iş ortakları ve satıcılar için sekmeleri gösterir":::
+
+İş ortağı sekmesi, şirketinizin kayıtlı yasal adı ve adresi, birincil iletişim ve iş konumları gibi tüm yasal iş bilgilerini içerir. CSP iş ortağı olan iş ortakları için satıcı sekmesi, **müşteri destek profilini** içerir.
+
+Şirketiniz CSP 'ye katılmazsa, varsayılan görünüm yalnızca **müşteri destek profilini** Içerecek **iş ortağı** sekmesini gösterir.
+
 ## <a name="organization-profile"></a>Kuruluş profili
 
-Bu sayfaları geçerli iş profili, iş ortağı profili ve şirket konumları olarak yönetmek için kullanın. Bu alanı düzenlemek için **geçerli** veya **kiracılar** gibi sekmeler (aşağıda daha ayrıntılı olarak açıklanmıştır) seçin. Bilgilerinizi ve durumunu görmek için ilgilendiğiniz programın (MPN, CSP veya ticari Market) sekmesini seçin.
+Geçerli iş profili, iş ortağı profili ve kiracılar dahil olmak üzere işletmenizin derinlemesine olan bölümlerini yönetmek için bu sayfaları kullanın. Her alanı ayrı olarak yönetin. Bunlar aşağıda açıklanmıştır. 
 
 :::image type="content" source="images/accountsettings/account-settings-new.png" alt-text="Yasal bilgi menüsü.":::
 
@@ -81,7 +91,7 @@ Bu sayfa, **Fatura** bilgileri, **PO numarası**, şirketinizin vergi KIMLIĞI B
 
 Tercih edilen e-postanızı Iş Ortağı Merkezi bildirimlerini alacak şekilde güncelleştirmek için:
 
-1. [Iş Ortağı Merkezi panonuzda](https://partner.microsoft.com/dashboard)oturum açın.
+1. [Iş Ortağı Merkezi panosunda](https://partner.microsoft.com/dashboard)oturum açın.
 1. [**Katılım tercihi**](https://partner.microsoft.com/dashboard/engagement/preference)' ne gidin, bağlantıyı **Değiştir** ' i seçin, e-posta adresini güncelleştirin ve **Kaydet**' i seçin.
 
 ### <a name="find-your-user-role"></a>Kullanıcı rolünüzü bulun
