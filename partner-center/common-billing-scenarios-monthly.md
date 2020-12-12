@@ -7,12 +7,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 616f706ddb4613f927e0c2830dd794fa3db3944e
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 05c46faa3fd012677b615caa228cf4f7c6fe6c90
+ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "92530987"
+ms.lasthandoff: 12/12/2020
+ms.locfileid: "97354585"
 ---
 # <a name="sample-monthly-billing-scenarios-for-new-subscriptions-changing-license-amounts-or-suspensions"></a>Yeni abonelikler için örnek aylık faturalandırma senaryoları, lisans tutarlarını değiştirme veya getirilmesi
 
@@ -107,3 +107,7 @@ Birim fiyatı = servis süresi x gün cinsinden gün sayısı x Lisans sayısı.
 3/1/2018 – 3/12/2018 iptal döneminde 12 gün vardır.
 
 Bu nedenle, birim fiyatı =-1,716 (12 x 0,143 x (-1)).
+
+## <a name="next-steps"></a>Sonraki adımlar
+
+- [Bir kerelik faturalama senaryoları ve yinelenen satın alımları seçin](common-billing-scenarios-onetime-recurring.md)

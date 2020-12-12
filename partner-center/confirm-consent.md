@@ -9,18 +9,15 @@ ms.author: v-aarzh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 06/30/2020
-ms.openlocfilehash: aacca72e9af45b2777364734c2b07dbe8101989d
-ms.sourcegitcommit: 22af0997d52a87417b62f44fb0a7d711bec77b35
+ms.openlocfilehash: f2513213bff38a6296832253a13725ff2508f1f8
+ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92532123"
+ms.lasthandoff: 12/12/2020
+ms.locfileid: "97354619"
 ---
 # <a name="updated-method-to-confirm-customer-acceptance-of-the-microsoft-customer-agreement"></a>Microsoft Müşteri sözleşmesinin müşteri tarafından kabul edildiğini onaylamak için yöntemi güncelleştirildi
 
-**Uygulama hedefi**
-
--  İş Ortağı Merkezi
 
 **Uygun roller**
 
@@ -30,8 +27,8 @@ ms.locfileid: "92532123"
 > [!NOTE]
 > Sözleşme kaynağı şu anda yalnızca Microsoft genel bulutundaki Iş Ortağı Merkezi tarafından desteklenmektedir. Şunları yapmak için geçerli değildir:
 > * 21Vianet tarafından çalıştırılan iş ortağı Merkezi
-> * Microsoft Bulut Almanya için iş ortağı Merkezi
-> * ABD kamu için Microsoft Bulut iş ortağı Merkezi
+> * Microsoft Bulut Almanya için İş Ortağı Merkezi
+> * Microsoft Cloud for US Government için İş Ortağı Merkezi
 
 >[!NOTE]
 >31 Ocak 2020 itibariyle, mevcut ve yeni olan tüm müşteriler yeni Microsoft Müşteri sözleşmesinin imzalanmalıdır. Daha fazla bilgi edinmek için [Microsoft Müşteri sözleşmesinin müşteri kabulünü Onayla](confirm-customer-agreement.md)makalesini okuyun.
@@ -48,7 +45,7 @@ ms.locfileid: "92532123"
 
 - Kabul tarihi
 
-Doğrudan fatura ortakları ve dolaylı sağlayıcılar, Iş ortağı merkezi veya Iş Ortağı Merkezi API 'SI aracılığıyla deneyimidir olduğunda Microsoft Müşteri sözleşmesinin müşteri kabulünü kabul etmelidir. Onay *zorunludur* .
+Doğrudan fatura ortakları ve dolaylı sağlayıcılar, Iş ortağı merkezi veya Iş Ortağı Merkezi API 'SI aracılığıyla deneyimidir olduğunda Microsoft Müşteri sözleşmesinin müşteri kabulünü kabul etmelidir. Onay *zorunludur*.
 
 Belirli bir müşteri için onay sağlanmazsa:
 
@@ -70,7 +67,7 @@ Bu, hem üretim hem de korumalı ortamlar için geçerlidir.
 
 Iş Ortağı Merkezi 'nde yeni bir müşteri kiracısı oluştururken müşteri kabulünü onaylamak için aşağıdaki yordamı kullanın. Bunu yapmak için bir Yönetim Aracısı veya satış aracısı olmanız gerekir.
 
-1. **Müşteriler** ' i ve ardından **yeni müşteri** ' yi seçip **hesap bilgileri** ' ni seçin.
+1. **Müşteriler**' i ve ardından **yeni müşteri** ' yi seçip **hesap bilgileri**' ni seçin.
 
 2. **Şirket** ve **birincil ilgili kişiyle** ilgili bilgileri girin.
 
@@ -82,9 +79,9 @@ Iş Ortağı Merkezi 'nde yeni bir müşteri kiracısı oluştururken müşteri 
 
 5. Kabulü sağlayan kullanıcının ayrıntılarını girin.
 
-   :::image type="content" source="images/mca/MCA3.png" alt-text="Şirket bilgileri":::
+   :::image type="content" source="images/mca/MCA3.png" alt-text="Kabul tarihi Ekle":::
 
-   Varsayılan olarak, birincil kişi Kullanıcı bilgileri görüntülenir. Bu doğru değilse **Güncelleştir** ' i seçin ve ardından sözleşmeyi kabul eden kişinin **adı** , **Soyadı** , **e-posta adresi** ve * *telefon numarasını* (isteğe bağlı) girin.
+   Varsayılan olarak, birincil kişi Kullanıcı bilgileri görüntülenir. Bu doğru değilse **Güncelleştir** ' i seçin ve ardından sözleşmeyi kabul eden kişinin **adı**, **Soyadı**, **e-posta adresi** ve **telefon numarasını* (isteğe bağlı) girin.
 
 6. Müşteri kiracısını oluşturmaya yönelik kalan adımlara devam etmek için **İleri ' yi** seçin.
 
@@ -92,39 +89,39 @@ Iş Ortağı Merkezi 'nde yeni bir müşteri kiracısı oluştururken müşteri 
 
 Bunu yapmak için bir Yönetim Aracısı veya satış aracısı olmanız gerekir.
 
-1. **Müşteriler** ' i seçin ve ardından görmek istediğiniz müşteriyi bulun ve seçin.
+1. **Müşteriler**' i seçin ve ardından görmek istediğiniz müşteriyi bulun ve seçin.
 
 2. **Hesap bilgilerini** seçin.
 
-3. **Microsoft Müşteri Sözleşmesi** altında **Güncelleştir** ' i seçin.
+3. **Microsoft Müşteri Sözleşmesi** altında **Güncelleştir**' i seçin.
 
-   :::image type="content" source="images/mca/mca4.png" alt-text="Şirket bilgileri":::
+   :::image type="content" source="images/mca/mca4.png" alt-text="Güncelleştirme":::
 
-4. Sözleşmeyi kabul eden kullanıcının **adını** , **soyadını** , **e-posta adresini** ve **telefon numarasını** (isteğe bağlı) girin.
+4. Sözleşmeyi kabul eden kullanıcının **adını**, **soyadını**, **e-posta adresini** ve **telefon numarasını** (isteğe bağlı) girin.
 
 5. **Sözleşme kabul tarihi** altında, uygun tarihi girin. Bunu gelecekteki bir tarihle ayarlayamazsınız.
 
-6. **Kaydet ve devam et** ’i seçin.
+6. **Kaydet ve devam et**’i seçin.
 
 ## <a name="confirm-customer-acceptance-while-creating-new-order-for-an-existing-customer"></a>Mevcut bir müşteri için yeni sipariş oluştururken müşteri kabulünü Onayla
 
 Daha önce teyit edilmemiş mevcut bir müşteri için yeni bir sipariş oluşturmayı denerseniz, onayı tamamlamaya yönelik bir istem alırsınız. Bunu yapmak için aşağıdaki yordamı kullanın.
 
-1. Sözleşmeyi kabul eden kullanıcının **adını** , **soyadını** , **e-posta adresini** ve **telefon numarasını** (isteğe bağlı) girin.
+1. Sözleşmeyi kabul eden kullanıcının **adını**, **soyadını**, **e-posta adresini** ve **telefon numarasını** (isteğe bağlı) girin.
 
 2. **Sözleşme kabul tarihi** altında, uygun tarihi girin. Bunu gelecekteki bir tarihle ayarlayamazsınız.
 
-3. **Kaydet ve devam et** ’i seçin.
+3. **Kaydet ve devam et**’i seçin.
 
 ## <a name="retrieve-confirmation-of-customer-acceptance-for-an-existing-customer"></a>Mevcut bir müşteri için müşteri kabulünün onayını alma
 
 Aşağıdaki yordamı kullanarak daha önce sağlamış olduğunuz mevcut bir müşteri için müşteri kabulünün onayını alabilirsiniz. Bunu yapmak için bir Yönetim Aracısı veya satış aracısı olmanız gerekir.
 
-1. **Müşteriler** ' i seçin ve ardından görmek istediğiniz müşteriyi bulun ve seçin.
+1. **Müşteriler**' i seçin ve ardından görmek istediğiniz müşteriyi bulun ve seçin.
 
 2. **Hesap bilgilerini** seçin.
 
-3. **Microsoft Müşteri Sözleşmesi** ' nin altında, bu müşteri için onay verilip verilmeyeceğini görürsünüz.
+3. **Microsoft Müşteri Sözleşmesi**' nin altında, bu müşteri için onay verilip verilmeyeceğini görürsünüz.
 
 ## <a name="next-steps"></a>Sonraki adımlar
 

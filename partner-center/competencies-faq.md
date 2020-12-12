@@ -8,20 +8,18 @@ ms.subservice: partnercenter-mpn
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
-ms.openlocfilehash: 3f18378428ab681938f23c3a11341b2deac36226
-ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
+ms.openlocfilehash: adce1c8740489731c12e705c71962aba004b5bd3
+ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96570493"
+ms.lasthandoff: 12/12/2020
+ms.locfileid: "97354471"
 ---
 # <a name="competencies---frequently-asked-questions"></a>Uzmanlıklar-sık sorulan sorular
 
-Aşağıdakiler için geçerlidir:
+**Uygun roller**
 
-- İş Ortağı Merkezi
-- Microsoft Cloud for US Government için İş Ortağı Merkezi
-- Microsoft İş Ortağı Ağı (MPN) programındaki iş ortakları
+- MPN iş ortağı Yöneticisi
 
 Bu makalede, Microsoft İş Ortağı Ağı uzmanlığa erişme ile ilgili sınavlar, sertifikalar ve yazılım avantajları hakkında genel sorular yanıtlanmaktadır.
 

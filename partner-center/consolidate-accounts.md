@@ -9,12 +9,12 @@ ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 05/05/2020
-ms.openlocfilehash: 3b20f29fcde9c910fd72d0aa86a1242b9c00859c
-ms.sourcegitcommit: 7e19c211b1d5f2db2a4c56a743b14c8485decd99
+ms.openlocfilehash: 6d8fca11f2db40e7f8b4ebcd4580d8f0aba115eb
+ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/03/2020
-ms.locfileid: "92531167"
+ms.lasthandoff: 12/12/2020
+ms.locfileid: "97354534"
 ---
 # <a name="consolidate-your-company-accounts-when-migrating-from-pmc-to-partner-center"></a>PMC 'den Iş ortağı merkezine geçiş yaparken şirket hesaplarınızı birleştirin
 
@@ -62,3 +62,9 @@ PMC 'de, her bir konumun kendi uzmanlarına, kendi haritalarına ve bir konuma �
 Iş Ortağı Merkezi 'nde tüm konum hesapları tek bir genel hesapta birleştirilir. Bu, tüm go-to-market tekliflerinin, programlarının ve uzmanlarının de birleştirilme anlamına gelir. Ek avantajlar araç takımları (ABTKs) kullanılamayacak. Bununla birlikte, pazarlama kaynakları, teklifler, programlar ve uzmanlarınızın şirketiniz için gereken şekilde dağıtımını düzenleyebilirsiniz. Birleştirme yaptığınızda bir uzantı sağlanır. Bu uzantı, şirketinizin daha fazla yıl boyunca PMC 'de kullanılan pazarlama kaynakları, teklifleri ve programlarının keyfini erişmesini sağlar.
 
 PMC ve Iş ortağı merkezi arasındaki farklar hakkında daha fazla bilgi için, [PMC 'Den Iş ortağı merkezine](guide-to-migration.md)geçiş yapın.
+
+## <a name="next-steps"></a>Sonraki adımlar
+
+- [İş Ortağı Merkezi hesabınızı yönetme](partner-center-account-setup.md)
+
+- [Konumları yönetme](manage-locations.md)

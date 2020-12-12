@@ -1,5 +1,5 @@
 ---
-title: Çözüm değerlendirmesi uygunluk
+title: Çözüm Değerlendirmesine uygunluk
 ms.topic: how-to
 ms.date: 11/09/2020
 description: Çözüm değerlendirmesi teşvikleri programına katılım için gereksinimlerin uygunluğunu nasıl denetleyeceğinizi öğrenin.
@@ -9,14 +9,18 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f5feb30b62cb6b862cd3e474d46980f8654ba1c1
-ms.sourcegitcommit: 146964ce0cc72bd821692f73f9c0b55e6fefb0fc
+ms.openlocfilehash: 7d40b09ee8b452cb75be216f83ddc700596b93d7
+ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "94447294"
+ms.lasthandoff: 12/12/2020
+ms.locfileid: "97354488"
 ---
 # <a name="eligibility-requirements-for-the-solution-assessment-incentives-program"></a>Çözüm değerlendirmesi teşvikleri programı için uygunluk gereksinimleri
+
+**Uygun roller**
+
+- Birincil kişi veya Program Yöneticisi
 
 Etkin ve kayıtlı durumundaki iş ortakları, FY20 içindeki çözüm değerlendirme teşvik programı, etkin bir MPN üyeliği ve etkin gümüş ya da altın MPN uzmanlığına sahip olmaları durumunda FY21 teşvikleri için uygun olmaya devam edecektir. İş ortağı nitelikleri, yıllık uygunluk için gözden geçirilir. Belirlenen iş ortakları geçerli yılda uygunluk ve katılım gereksinimlerini gerçekleştirmediği takdirde, bu, bir sonraki yıllık incelemede kaldırılacaktır. Tüm yeni iş ortakları, kendi alanındaki yerel çözüm değerlendirmesi uzmanı (SAS) üzerinden eklendi. SAS, iş ortağı şirketteki yeteneklerin ve uzmanlığın eşleşmesini ve SAS tarafından desteklenen yan kuruluşların iş ihtiyaçlarını temel alarak eklendi iş ortaklarını belirler.
 

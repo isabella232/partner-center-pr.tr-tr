@@ -8,18 +8,17 @@ description: Ortak satış bağlayıcıları kullanma hakkında sık sorulan sor
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: 988a696a8a0a0abb4d37e3915c76f905ec5b35b0
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: b8977f7c602b8587a619236b37a760a55bf87e53
+ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92531890"
+ms.lasthandoff: 12/12/2020
+ms.locfileid: "97354551"
 ---
 # <a name="troubleshoot-co-sell-referrals-connectors"></a>Ortak satış başvuruları bağlayıcıları sorunlarını giderme
 
-**Aşağıdakiler cihazlar için geçerlidir:**
+**Uygulama hedefi:**
 
-- İş Ortağı Merkezi
 - Dynamics 365 CRM
 - Salesforce CRM
 
@@ -80,7 +79,7 @@ Bu sorun giderme adımını izleyin:
 
 3. Power otomatikleştir platformunda Iş ortağı merkezini CRM akışına etkinleştirirken aşağıdaki hatayı alırsanız ne yapmalısınız?
  
-:::image type="content" source="images/cosellconnectors/powererror.png" alt-text="Oturum açma gerektiren hata iletisi":::
+:::image type="content" source="images/cosellconnectors/powererror.png" alt-text="Güncelleştirme gerektiren hata iletisi":::
 
 Bu sorun giderme adımlarını izleyin:
 
@@ -95,11 +94,11 @@ Akış çalışırken akışa bağlantı ekler ve her bir akışa ayrı olarak e
 - Her bir akışı seçin ve tek tek düzenleyin.
 - Akıştaki tüm adımları Genişlet 
 
-:::image type="content" source="images/cosellconnectors/flowsteps.png" alt-text="Oturum açma gerektiren hata iletisi":::
+:::image type="content" source="images/cosellconnectors/flowsteps.png" alt-text="Bağlantı gerektiren adımlar":::
 
 - Bağlantıları ilişkilendirmek ve bağlantı eklemek isteyen bir uyarı simgesi gördüğünüz adımları seçin. 
 
-:::image type="content" source="images/cosellconnectors/editflow.png" alt-text="Oturum açma gerektiren hata iletisi":::
+:::image type="content" source="images/cosellconnectors/editflow.png" alt-text="Adıma göre akış adımını Düzenle":::
 
 
 5. Ortak satış başvuruları bağlayıcılar çözümünün akışları açık değilse ne yapmalısınız?
@@ -116,7 +115,7 @@ A. Power otomatikleştirmede akışları aşağıdaki sırayla düzenlemeniz ve 
 
  B. Her akış için **yalnızca kullanıcıları Çalıştır** seçeneğini belirleyin. **Yalnızca çalıştırma kullanıcısı tarafından sağlanarak** **bağlantı kullan** ' ı seçin.  
 
-:::image type="content" source="images/cosellconnectors/runonly.png" alt-text="Oturum açma gerektiren hata iletisi":::
+:::image type="content" source="images/cosellconnectors/runonly.png" alt-text="Bir akışı etkinleştirmek için":::
 
 
 C. Bu yukarıda belirtilen akışlara aşağıdaki akışları etkinleştirin:
@@ -128,7 +127,7 @@ C. Bu yukarıda belirtilen akışlara aşağıdaki akışları etkinleştirin:
     
 D. Kalan tüm akışları etkinleştirin.
 
-E. Flow Iş Ortağı Merkezi Web kancası kaydında **Çalıştır** ' ı seçin. **Iş Ortağı Merkezi** 'ndeki Ilk eylemden Salesforce akışına **http url 'sini** sağlayın. **Kaydolmak Için olaylar** bölümündeki tüm dört seçeneği seçin ve üzerine yazmak için **Evet** ' i seçin.
+E. Flow Iş Ortağı Merkezi Web kancası kaydında **Çalıştır**' ı seçin. **Iş Ortağı Merkezi** 'ndeki Ilk eylemden Salesforce akışına **http url 'sini** sağlayın. **Kaydolmak Için olaylar** bölümündeki tüm dört seçeneği seçin ve üzerine yazmak için **Evet** ' i seçin.
 
 ## <a name="questions-and-answers-about-runmaintenance"></a>Çalıştırma/bakım ile ilgili sorular ve yanıtlar
 
@@ -138,13 +137,13 @@ Güç otomatikleştirebileceğiniz akışlarınızın beklenen şekilde çalış
 
 2. Iş ortağı merkezi veya CRM ortamında düzgün şekilde eşitlenmemiş başvurular görürseniz ne yapmalısınız?
  
-Başvuru eşitlemesinin durumunu belirlemek için **Denetim** ' i seçin. 
+Başvuru eşitlemesinin durumunu belirlemek için **Denetim**' i seçin. 
 
-:::image type="content" source="images/cosellconnectors/synch.png" alt-text="Oturum açma gerektiren hata iletisi":::
+:::image type="content" source="images/cosellconnectors/synch.png" alt-text="Başvuruları senkronize etme":::
 
 Aşağıdaki koşulların karşılandığından emin olun:
 
-- Çözüm kimliği, fırsatın bir parçası olarak sağlanır.
+- Çözüm KIMLIĞI, fırsatın bir parçası olarak sağlanır.
 
 - İki harfli ülke kodu gereklidir.
 
@@ -156,7 +155,53 @@ Aşağıdaki adımları uygulayın:
 
 - İş ortaklarının satıcıları, CRM bölümündeki **Iş Ortağı Merkezi Ile eşitlemeyi** etkinleştirdiklerinden emin olmalıdır.
 
-:::image type="content" source="images/cosellconnectors/enablesynch.png" alt-text="Oturum açma gerektiren hata iletisi" olarak kapanmadığından emin olun.
+:::image type="content" source="images/cosellconnectors/enablesynch.png" alt-text="Eşitleme özelliğinin etkinleştirildiğinden emin olun":::
+
+- Satıcıların bir müşteri adayını nitelerken gelir ve kapanış tarihi sağlaması gerekir.
+
+- Ortak satış fırsatının **Oluştur** veya **GÜNCELLEŞTIR** aşamasında CRM kimliği SAĞLANMıŞSA, ancak bu kimliğe sahip BIR müşteri adayı fırsatı CRM 'de bulunamazsa güncelleştirme veya oluşturma yok sayılır.
+
+- Başvuru para birimi alanının Salesforce ortamında yapılandırıldığından emin olun. 
+
+4. Bağlayıcının bağlantısı kesilirse ve bir başvuru eşitlemesini kaçırdıysanız ne yapmalısınız? 
+
+Deneyebileceğiniz seçeneklerden bazıları aşağıda verilmiştir:
+
+- Iş Ortağı Merkezi kullanıcısı için başvuru yöneticisi rollerine sahip kullanıcı adının veya parolanın dolup dolmadığını denetleyin.
+
+- Eşitlenmemiş fırsata gidebilir, küçük bir güncelleştirme yapabilir ve başvurunun eşitlenip eşitlenmediğini gözlemleyebilirsiniz.
+
+- Akışlar çalıştırılmışsa ve başarısız olursa, akışı seçip başarısız olan çalıştırmayı yeniden gönderebilirsiniz.
+
+5. Erişim reddedildi hatalarını aldığınızda ne yapmalısınız?
+
+Uygun rollerin mevcut olduğundan emin olun
+
+- Iş Ortağı Merkezi satıcı için başvuru Yöneticisi rolü 
+ 
+- CRM örneğiniz üzerinde sistem yöneticisi veya sistem özelleştirici rolü
+
+- Power otomatikleştirmenin akış hesabı kullanıcısının https://flow.microsoft.com önceden en az bir kez oturum açtığına sahip olduğundan emin olun
+
+6. Ortak satış fırsatı oluştururken **müşteri hesabı ülke kodunun** eksik olduğunu görürseniz, ne yapmanız gerekir?
+
+ISO 'nın iki harfli ülke kodunu CRM 'de müşteri hesabına eklemeniz gerekir.
+
+7. Ortak satış fırsatı oluştururken **Çözüm Kimliği 'nin gerekli** olduğu hatayı görürseniz ne yapmanız gerekir?
+
+Ortak satış başvurusu oluşturmak için, Microsoft ortak satış için kullanabileceğiniz bir çözüme ihtiyacınız vardır. 
+
+8. Iş Ortağı Merkezi 'nde oluşturulan ortak satış fırsatlarını, hiçbir akış hatası olmasa dahi, CRM ile eşitlenmemiş olan bir şekilde gördüğünüzde ne yapmalısınız:
+
+Şunları yapın:
+
+- Iş Ortağı Merkezi 'nde yeni bir ortak satış sorunu oluşturduktan sonra, Dynamics 365 Flow Iş Ortağı Merkezi 'nin çağrılacağını (birden çok kez çağrılabilir) denetleyin.
+
+- Akış çağrılırsa, tüm çağrılan Akışlar ' ı işaretleyin ve bu, CRM 'yi güncelleştiren akış çalıştırmasını belirler. Eylemleri izleyebilir ve CRM 'yi güncelleştirip güncelleştirmediğinizi veya bir sorunla karşılaştıysanız emin olabilirsiniz.
+
+- CRM KIMLIĞIYLE doldurulup doldurulmadığını görmek için Iş Ortağı Merkezi 'nde *yeni anlaşmayı* denetleyin.
+
+- Iş Ortağı Merkezi 'nde, anlaşmayı "kazanıldı" veya "kaybedildi" olarak kapanmadığından emin olun.
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
