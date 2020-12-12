@@ -1,5 +1,5 @@
 ---
-title: Müşteri adına sorunları bildirme
+title: Bir müşteri adına sorun bildirme
 ms.topic: how-to
 ms.date: 06/05/2020
 ms.service: partner-dashboard
@@ -9,19 +9,19 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 12310b8c89f593122cdd9caec0aa74a712953219
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: baeb53d237ba1aeb987b08097526eda5c6235512
+ms.sourcegitcommit: df7f26b46d1ca46e962e528578d20330804638f9
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92532011"
+ms.lasthandoff: 12/11/2020
+ms.locfileid: "97153154"
 ---
 # <a name="report-a-service-problem-on-behalf-of-a-customer---including-when-and-how-to-do-so"></a>Ne zaman ve nasıl yapılacağı gibi bir müşteri adına bir hizmet sorunu bildirin
 
-**Uygulama hedefi**
+**Şunlara uygulanır**
 
 - İş Ortağı Merkezi
-- ABD kamu için Microsoft Bulut iş ortağı Merkezi
+- Microsoft Cloud for US Government için İş Ortağı Merkezi
 
 **Uygun roller**
 
@@ -31,11 +31,13 @@ Müşteriniz çözemeyen bir hizmet sorunu yaşıyorsa ve [sorunları Microsoft 
 
 ## <a name="submit-a-service-request-for-a-customer"></a>Müşteri için bir hizmet isteği gönderme
 
-1. **Iş Ortağı Merkezi** menüsünde **hizmet istekleri** ' ni ve ardından **müşteri isteği** ' ni seçin. 
+1. CSP altındaki Iş Ortağı Merkezi menüsünden **müşteriler** ' i seçin
 
-2. Müşteri istekleri sayfasında, istediğiniz müşteriyi arayın.
+2. Müşteriler sayfasında istediğiniz müşteriyi seçin veya arayın
+    
+3. Müşteri menüsünden **hizmet istekleri** ' ni seçin.
 
-3. **Yeni istek** açılan menüsünden **Azure** veya **Office 365, Dynamics 365, Enterprise Mobility Suite** seçeneklerinden birini belirleyin. Microsoft Azure portal ya da Office 365 yönetim merkezine yönlendirilirsiniz.
+4. **Yeni istek** açılan menüsünden **Azure** veya **Office 365, Dynamics 365, Enterprise Mobility Suite** seçeneklerinden birini belirleyin. Microsoft Azure portal ya da Office 365 yönetim merkezine yönlendirilirsiniz.
 
 >[!NOTE]
 >Deneyimidir Dynamics 365, CSP 'de, Iş ortakları için destek sözleşmesinin (ASfP) planı veya üzeri destek sözleşmesi sağlamak için gereklidir. Bu destek sözleşmesi, bir CSP müşterisi adına Dynamics 365 olaylarını göndermek için gereklidir. Destek Sözleşmesi seçenekleri hakkında [daha fazla bilgi edinin](https://partner.microsoft.com/support/partnersupport) .
@@ -49,15 +51,15 @@ Müşteriniz çözemeyen bir hizmet sorunu yaşıyorsa ve [sorunları Microsoft 
 >
 >- Iş Ortağı Merkezi 'ndeki yardım masası Yöneticisi Azure hizmet portalında hizmet istekleri oluşturamazlar, ancak yapabilecekleriniz Azure hizmet portalında bir destek grubu oluşturabilir ve bu grup için destek isteklerini günlüğe kaydetmek için bu gruba izin verir.
 
-1. **Yeni destek isteği** ’ni seçin.
+1. **Yeni destek isteği**’ni seçin.
 
-2. Destek isteğini uygun bilgilerle doldurun ve **Oluştur** ' u seçin:
+2. Destek isteğini uygun bilgilerle doldurun ve **Oluştur**' u seçin:
 
    - Destek isteğinin **temel bilgiler** bölümünde, **destek planı** alanında **bulut çözümü sağlayıcısı** ' nı seçtiğinizden emin olun.
 
    - Destek isteğinin **iletişim** bilgileri bölümünde, müşterinizin bilgilerini değil bilgilerinizi girin.
 
-3. Daha sonra, **destek Isteklerini Yönet** ' i seçerek müşterilerinizin Microsoft Azure Portal içindeki hizmet isteklerini gözden geçirin.
+3. Daha sonra, **destek Isteklerini Yönet**' i seçerek müşterilerinizin Microsoft Azure Portal içindeki hizmet isteklerini gözden geçirin.
 
 Söz konusu müşteri için yönetici izinleriniz yoksa, müşteri için bir destek isteği oluşturmanız gerekebilir. Bu, iki senaryodan birinde gerçekleşebilir:
 
@@ -72,19 +74,19 @@ Bu durumların her birinde, bir destek isteği oluşturmak için aşağıdaki yo
 
 3. Destek gerektiren Azure aboneliğini seçin.
 
-4. **Yeni destek isteği** ' ni seçin ve sonra isteği oluşturmak için istemleri izleyin. 
+4. **Yeni destek isteği**' ni seçin ve sonra isteği oluşturmak için istemleri izleyin. 
 
  
 ### <a name="office-365-microsoft-dynamics-crm-online-enterprise-mobility-suite"></a>Office 365, Microsoft Dynamics CRM Online, Enterprise Mobility Suite
 
 1. **Hizmet Isteği oluştur** bölümünde, uygun destek kategorisini seçin. Ek makaleleri görüntülemek için **daha fazla..** . seçeneğini belirlemeniz gerekebilir.
 
-2. Hizmet isteği formunu doldurun ve **Gönder** ' i seçin.
+2. Hizmet isteği formunu doldurun ve **Gönder**' i seçin.
 
    > [!TIP]
    > Müşterinizin bilgisini değil, iletişim bilgilerinizi eklediğinizden emin olun.
 
-3. Daha sonra, Office 365 yönetim merkezine giderek ve **tüm destek biletlerini göster** ' i seçerek müşterinizin hizmet isteklerini gözden geçirin.
+3. Daha sonra, Office 365 yönetim merkezine giderek ve **tüm destek biletlerini göster**' i seçerek müşterinizin hizmet isteklerini gözden geçirin.
 
 ### <a name="support-for-commercial-marketplace-products"></a>Ticari Market ürünleri desteği
 
@@ -150,4 +152,4 @@ Office 365 Yönetim merkezinde doğrudan oturum açarsanız, merkezi bir müşte
 ## <a name="next-steps"></a>Sonraki adımlar
 
 - [Müşterilerinize destek sağlama](customer-support.md)
-- [Hizmet durumunu denetle](check-service-health.md)
+- [Hizmet durumunu kontrol etme](check-service-health.md)
