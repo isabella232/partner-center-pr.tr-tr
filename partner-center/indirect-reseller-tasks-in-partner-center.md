@@ -6,22 +6,20 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Müşteri desteği ve faturalandırmayla ilgili yardım almak için dolaylı satıcıların Microsoft dolaylı sağlayıcıları (veya dağıtımlarıyla) ile nasıl çalışacağınızı öğrenin.
 ms.prod: ''
-ms.custom: contperfq2
+ms.custom: contperf-fy21q2
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
-ms.openlocfilehash: 74edfbfd766e6969b278c9ad83b3a12b7ef95abd
-ms.sourcegitcommit: b4771fd0781d95551e65baa481a572291c729d7d
+ms.openlocfilehash: 082574f381186731cee023cfcdfa04b46d0ba1c5
+ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "92795857"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "97492407"
 ---
 # <a name="learn-how-to-partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Bulut çözümü sağlayıcısı programındaki dolaylı sağlayıcılarla iş ortağı hakkında bilgi edinin
 
-**Uygulama hedefi**
 
-- İş Ortağı Merkezi
 
 **Uygun roller**
 
@@ -66,30 +64,30 @@ CSP programında dolaylı bir satıcı olarak satış için gerekenler hakkında
 
    Sağladığınız bilgileri gözden geçirip doğrulayabilmeniz birkaç gün sürebilir. İncelemenizi tamamladığımızda birincil kişimize e-posta göndereceğiz.
 
-### <a name="get-started"></a>başlarken
+### <a name="get-started"></a>Kullanmaya başlayın
 
 1. Kayıt işlemini hemen kapatmak için, kaydolmak üzere [**hoş geldiniz sayfasına**](https://partnercenter.microsoft.com/pcv/register/joinnow/enrollmentwelcome/valueaddedreseller) gidin.
 
-2. Kaydolmak için gereken bilgilere sahip olduğunuzdan emin olmak için **hoş geldiniz sayfasını** gözden geçirin ve ardından **İleri** ' yi seçin.
+2. Kaydolmak için gereken bilgilere sahip olduğunuzdan emin olmak için **hoş geldiniz sayfasını** gözden geçirin ve ardından **İleri**' yi seçin.
 
 3. İş hesabınızla oturum açın. **Oturum aç** ' ı seçin ve Office 365, Microsoft Azure veya MICROSOFT Dynamics CRM için genel yönetici olarak oturum açmak için kullandığınız kullanıcı adını ve parolayı girin.
 
    Bir iş hesabınız yoksa, şimdi bir tane ayarlamak için **Oluştur** ' u seçin. İş hesabınızı oluşturduktan sonra, yeni hesabınız için genel yönetici kimlik bilgilerini kullanarak oturum açın.
 
-4. Microsoft İş Ortağı Ağı KIMLIĞINIZI (MPN KIMLIĞI) yeni Iş Ortağı Merkezi hesabınızla nasıl ilişkilendirdiğinizden ilgili bilgileri gözden geçirin. Üyelik avantajlarınızı ve teşvikleri Iş Ortağı Merkezi 'ni yönetmek için şirketinizin MPN KIMLIĞINI yeni Iş Ortağı Merkezi hesabınızla bağlantımız gerekir. **Oturum aç** 'ı seçin.
+4. Microsoft İş Ortağı Ağı KIMLIĞINIZI (MPN KIMLIĞI) yeni Iş Ortağı Merkezi hesabınızla nasıl ilişkilendirdiğinizden ilgili bilgileri gözden geçirin. Üyelik avantajlarınızı ve teşvikleri Iş Ortağı Merkezi 'ni yönetmek için şirketinizin MPN KIMLIĞINI yeni Iş Ortağı Merkezi hesabınızla bağlantımız gerekir. **Oturum aç**'ı seçin.
 
-5. Iş ortağı üyelik Merkezi (PMC) sitesinde oturum açmak için kullandığınız kullanıcı adını girin. Iş ortağı üyelik Merkezi sitesi, şu anda Microsoft iş ortağı hesabınızı yönettiğiniz yerdir. Iş ortağı üyeliği merkezinde oturum açmak, MPN KIMLIĞINIZI alıp yeni Iş Ortağı Merkezi hesabınızla ilişkilendirmemizi sağlar. **İleri** ’yi seçin.
+5. Iş ortağı üyelik Merkezi (PMC) sitesinde oturum açmak için kullandığınız kullanıcı adını girin. Iş ortağı üyelik Merkezi sitesi, şu anda Microsoft iş ortağı hesabınızı yönettiğiniz yerdir. Iş ortağı üyeliği merkezinde oturum açmak, MPN KIMLIĞINIZI alıp yeni Iş Ortağı Merkezi hesabınızla ilişkilendirmemizi sağlar. **İleri**’yi seçin.
 
 6. Iş ortağı üyelik Merkezi hesabınız için parola girin ve **oturum aç '** ı seçin.
 
-7. MPN KIMLIĞINE sahip şirket profilini teşvikleri, üyelik avantajlarına ve Uzmanlarınıza bağlı olarak seçin. Daha sonra bu bilgileri Iş Ortağı Merkezi hesabınıza taşıyabiliriz. **Devam** ’ı seçin.
+7. MPN KIMLIĞINE sahip şirket profilini teşvikleri, üyelik avantajlarına ve Uzmanlarınıza bağlı olarak seçin. Daha sonra bu bilgileri Iş Ortağı Merkezi hesabınıza taşıyabiliriz. **Devam**’ı seçin.
 
    Kullanmak istediğiniz MPN KIMLIĞI bu sayfada listelenmiyorsa, **iptal** ' i seçin ve kullanmak istediğiniz şirket profilinin Kullanıcı adı ve parolasıyla yeniden oturum açın.
 
    > [!IMPORTANT]  
    > Azure AD kiracınızla aynı ülkede/bölgede bulunan etkin bir şirket profiliyle ilişkili MPN KIMLIĞINI seçin.
 
-8. Şirketinizin yasal iş profilini, birincil iletişim bilgilerini ve müşteri destek bilgilerini sağlayın veya güncelleştirin. **Şimdi kaydet** ' i seçin.
+8. Şirketinizin yasal iş profilini, birincil iletişim bilgilerini ve müşteri destek bilgilerini sağlayın veya güncelleştirin. **Şimdi kaydet**' i seçin.
 
    Birincil ilgili kişi, şirketinizde sizinle iletişim kurabildiğimiz kişi olmalıdır. Birincil iletişim, sizin veya şirketinizdeki başka bir kişi olabilir. Note: Gmail, Yahoo! gibi Web tabanlı e-posta hizmetlerinden e-posta adreslerini kabul etmedik Mail, iCloud Mail, AOL Mail veya Outlook Mail.
 
@@ -98,9 +96,9 @@ CSP programında dolaylı bir satıcı olarak satış için gerekenler hakkında
 
 9. Iş Ortağı Merkezi hesabınız kullanıma hazırsa, Yönetim Aracısı grubuna eklendiğinizi doğrulayın. Diğer kullanıcıları ekleme dahil olmak üzere hesabınızı ayarlamayı tamamlaması için yönetici Aracısı izinlerinizin olması gerekir. İzinlerinizi görüntülemek veya güncelleştirmek için şu adımları izleyin:
 
-   1. **Iş ortağı merkezinizde** , **Ayarlar** simgesini ve ardından **Kullanıcı yönetimi** ' ni seçin.
+   1. **Iş ortağı merkezinizde**, **Ayarlar** simgesini ve ardından **Kullanıcı yönetimi**' ni seçin.
 
-   2. Kullanıcı listesinden adınızı seçin. Daha sonra seçili değilse **yönetici Aracısı** ' nı seçin. **Güncelleştir** ’i seçin.
+   2. Kullanıcı listesinden adınızı seçin. Daha sonra seçili değilse **yönetici Aracısı** ' nı seçin. **Güncelleştir**’i seçin.
 
 ## <a name="all-indirect-resellers-need-to-sign-the-microsoft-partner-agreement"></a>Tüm dolaylı satıcıların Microsoft Iş ortağı sözleşmesi 'ni imzalaması gerekir
 
@@ -125,7 +123,7 @@ Dolaylı bir sağlayıcı Iş Ortağı Merkezi 'nde sizinle bağlantı kurmak is
 
 2. Daveti kabul etmek için sağlayıcının e-postasında bağlantısını izleyin. Iş Ortağı Merkezi 'nde yeniden oturum açmanız gerekebilir.
 
-3. Sağlayıcıyla ortaklığı onaylamak için, kutuyu işaretleyin ve ardından **dolaylı sağlayıcıyı Yetkilendir** ' i seçin. Sağlayıcı artık **dolaylı sağlayıcılar** sayfanızda listelenmiş ve şirketiniz artık sağlayıcının **dolaylı satıcıları** sayfasında listeleniyor.
+3. Sağlayıcıyla ortaklığı onaylamak için, kutuyu işaretleyin ve ardından **dolaylı sağlayıcıyı Yetkilendir**' i seçin. Sağlayıcı artık **dolaylı sağlayıcılar** sayfanızda listelenmiş ve şirketiniz artık sağlayıcının **dolaylı satıcıları** sayfasında listeleniyor.
 
    > [!NOTE]  
    > Dolaylı bir sağlayıcıyla iş ortaklığı oluşturduğunuzda, bu kullanıcılara sipariş göndermek ve müşteriler adına abonelik eklemek için yetki vermiş olursunuz ve kullanıcılara şirketinizin iş hesabına erişim hakkı vermiş olursunuz. Sağlayıcı ile ortaklığı kurulduktan sonra, Office 365 portalındaki iş hesabınıza sağlayıcının yönetici erişimini kaldırabilirsiniz.
@@ -146,7 +144,7 @@ Dolaylı bir sağlayıcı Iş Ortağı Merkezi 'nde sizinle bağlantı kurmak is
 
 - [İş Ortağı Merkezi hesabınızı yönetme](partner-center-account-setup.md)
 
-- [Müşterilerinizle bağlantı kurmak](connect-with-your-customers.md)
+- [Müşterilerinizle bağlantı kurma](connect-with-your-customers.md)
 
 - [İş profili oluşturma](create-a-marketing-profile.md)
 

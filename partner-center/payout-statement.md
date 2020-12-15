@@ -1,22 +1,30 @@
 ---
-title: Iş Ortağı Merkezi 'nde ticari Market için ödeme beyanı
-description: Ödeme deyimleri ve özetler hakkında bilgi edinin ve ticari Market için ödeme verilerinizi görüntüleme ve dışa aktarma
+title: Ödeme deyimleri
+description: Ödeme deyimleri ve özetler hakkında bilgi edinin ve Microsoft Iş Ortağı Merkezi 'nden ödeme verilerinizi nasıl görüntüleyip dışarı aktarabilirsiniz?
 ms.subservice: partnercenter-marketplace-publisher
 ms.service: marketplace
 ms.topic: article
 author: eunjkim520
 ms.author: eunjkim
-ms.date: 09/23/2020
-ms.openlocfilehash: 34d7d162673992601267db03beaddda1573b73c0
-ms.sourcegitcommit: cc30a06abe55b9da32177a24e74bfd6fc7d8bbb9
+ms.date: 10/29/2020
+ms.openlocfilehash: f74dcdc240553cea2c9d226364a8bd6242acc200
+ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 11/12/2020
-ms.locfileid: "94532064"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "97492645"
 ---
 # <a name="payout-statements"></a>Ödeme deyimleri
 
+**Uygun roller:**
+
+- Hesap yöneticisi
+- Genel yönetici
+
 **Ödeme beyanı** , ticari Market aracılığıyla satılan tekliflerden ödemalarınızın genel bir görünümünü sunar. Kazanlarınızın işlem geçmişini gösterir, bir sonraki ödemenizi tahmin eder ve ödeme eğilimlerini gösterir. Ayrıca, işlem geçmişi ve ödeme deyimlerini indirebilirsiniz. Bu makalede, ödeme deyiminize ve Iş Ortağı Merkezi 'nde size erişilebilen farklı ödeme sayfalarına ve indirmelere nasıl erişebileceğiniz açıklanır.
+
+>[!NOTE]
+>Yalnızca MPN kimlikleri ve sizinle ilişkilendirdiğiniz programlar için verileri görürsünüz. Ek verileri görmek isterseniz, izinler için hesap yöneticinizle birlikte çalışın. 
 
 ## <a name="roles-and-permissions"></a>Roller ve izinler
 
@@ -50,6 +58,7 @@ Ayrıca, [Iş ortağı ödeme API](https://apidocs.microsoft.com/services/partne
 
 **İşlem geçmişi** sayfasında, son 36 aya göre kazanç, tahmini bir sonraki ödeme ve kazanç ve ödemeler eğilimi gösterilir. Ayrıca, bu bölümden işlem ayrıntılarını indirebilirsiniz.
 
+
 :::image type="content" source="images/payouts/transaction-overview.png" alt-text="İşleme genel bakış.":::
 
 - **Bu yıla gönderilen kazançlar** – ödenen ve gelecek ayda ödenen toplam kazanç ve döküm dökümü.
@@ -57,9 +66,11 @@ Ayrıca, [Iş ortağı ödeme API](https://apidocs.microsoft.com/services/partne
 - **Kazanç ve ödeme eğilimi** – son 36 aylar için aylık kazanç ve ödeme tutarları.
 - **İndir** – işlem ayrıntılarını. csv veya. tsv biçiminde indirin.
 
-Son 3, 6, 12 veya 36 ayı göstermek için sayfanın çıktısını filtrelemek üzere sayfanın sağ üst köşesindeki tarih aralığı seçimini kullanın. Ya da 36 aya kadar bir özel tarih aralığı seçin. Varsayılan tarih aralığı 12 aydır.
+Son 3, 6, 12 veya 36 ayı göstermek için sayfanın çıktısını filtrelemek üzere sayfanın sağ üst köşesindeki tarih aralığı seçimini kullanın. Ya da 36 aya kadar bir özel tarih aralığı seçin. Varsayılan tarih aralığı 12 aydır. Kayıt KIMLIĞI, program, ödeme KIMLIĞI, kazanç türü, MANI ve duruma göre de filtre uygulayabilirsiniz. Veriler geçerli mali yıl (1 Temmuz 30 Haziran) ve önceki iki mali yıl için kullanılabilir.
 
 :::image type="content" source="images/payouts/search-filter.png" alt-text="Sayfanın sağ üst kısmındaki arama filtresi.":::
+
+Bir atma hakkında daha fazla ayrıntı görmek için sayfanın sağ tarafındaki aşağı oku seçin. Bunun yapılması manı, gelir tutarını, ürünü ve müşteriyi görüntüler. Herhangi bir nedenden dolayı bu verilerden herhangi biri kullanılamaz, ancak ona erişmeniz gerekiyorsa, desteğe başvurun. Kazanç, bir işlem değil, bir ayarlamanın sonucudur ve bu, ürün ve müşteri alanları gösterilmez.
 
 ### <a name="transaction-history-summary"></a>İşlem geçmişi Özeti
 
@@ -74,15 +85,51 @@ Bu, ürünün sunduğu ve tahmin edilen tarihleri, durumu ve tahmini ödeme ayı
     - **Yaklaşan** – kazanç, bekleyen soğutma döneminde.
     - **İşlenmiş** – kazanç, bir sonraki ödeme için hazırlanır.
     - **Gönderilen** – kazanç ödenmiştir.
-- **Tahmini ödeme ayı** : kazancının ödenmesi beklenen ay.
+- **Tahmini ödeme ayı** : kazancının ödenmesi beklenen ay. Daha fazla bilgi için [sonraki bölüme](#estimated-payment-month) bakın.
 
 İşlem, ödeme uygunluğu ile buluşduktan sonra işleme işlemleri gösterilir. Neden eksik veya beklenmeyen kazanç olduğunu anlamak için bkz. [ticari Market ödemelerinin genel soruları](payout-faq.md#why-are-my-earnings-missing).
+
+#### <a name="estimated-payment-month"></a>Tahmini ödeme ayı
+
+Işlem geçmişi sayfası artık, önümüzdeki birkaç aya ait tahmini ödeme tutarlarınızı gösteren bir tablo içerir. Ayrıca, bu bilgileri Işlem geçmişi ve Özet raporu dışarı aktarmaları ' nde görüntüleyebilir ve indirebilirsiniz. Bu bilgiler mutabakatları ve ödeme projeksiyonlarını kolaylaştırır.
+
+Tahmini ödeme ayı program yapılandırma kuralları ve zaman çizelgeleri temel alınarak hesaplanır ve sonraki/yaklaşan ödeme dönemi içinde işlenir.
+
+Tahmini ödeme ayı, geçerli **değil** olarak görüntülenen ortak op hariç tüm kazanç türleri için kullanılabilir. 1 Temmuz 2020 tarihinden önceki kazançlar için tahmini ödeme ayı **kullanılamaz** olarak görünür.
+
+Aşağıdaki tabloda tahmini bir ödeme ayı örneği gösterilmektedir.
+
+| Ay | Miktar |
+| ------ | :-----------: |
+|  Eyl-2020 |  $7.273,99   |
+|  Eki 2020 | $8.692,30  |
+|  Kas-2020 | $107,89  |
+
+Tahmini miktar, çeşitli nedenlerle gerçek miktardan farklı olabilir:
+
+- Atık Sulama: kazançlar yeniden hesaplandıktan sonra gerçek miktar farklı olacaktır
+- Ayarlamalar: gerçek miktar, gerçekleşen veya gönderilen ayarlamaların bağlı olarak değişir.
+- Kurallar değişikliği: kurallarda yapılan değişiklik, ödenen gerçek miktardaki yeniden hesaplamayı yansıtabilir
+- Borç: ödeme hatası oluşursa, gerçek tutar farklı olabilir
+
+Ödemenizin yalnızca, programınızın eşiği ve ödeme uygunluk kuralları karşılanıyorsa öngörülen ay içinde yayınlandığını unutmayın. Bu kurallar aşağıdakileri içerir ancak aşağıdaki listeyle sınırlı değildir:
+
+- Vergi profiliniz güncel olmalıdır
+- Kazanmanız, program kılavuzumuza tanımlanan en düşük kazanç eşiğini karşılamalıdır veya aşmalıdır.
+- Beklemeye ödeme: profil atama sayfasındaki "ödemi tut" seçeneğini belirlerseniz.
+- Ödeme aracı kullanılamıyor: ödeme veya/ve vergi profili tamamlanmadı.
 
 ### <a name="transaction-history-download"></a>İşlem geçmişi indirmesi
 
 Bir atma hakkında daha fazla ayrıntı görmek için sayfanın en üstünde **İndir** ' i seçin. Aşağıdaki tabloda, rapordaki her bir sütun açıklanmaktadır.
 
-| Sütun adı | Açıklama | Teşvik için uygulanabilirlik programları/pazar yerleri |
+>[!NOTE]
+>Işlem geçmişi indirmesi dışarı aktarma, Ağustos 2020 itibariyle iki yeni alana sahiptir:
+>
+>- **Lastpaymentcurrency**  En son ödemenin alındığı, o anda oturum açmış olan iş ortağının erişebileceği para birimi. Ödeme alınmaz, son ödeme para birimi ABD Doları olacaktır.
+>- **Earningamountınlastpaymentcurrency**  Son ödeme para biriminde kazanç miktarı.
+
+| Sütun adı | Description | Teşvik için uygulanabilirlik programları/pazar yerleri |
 | --- | --- | --- |
 | agreementEndDate | Anlaşma bitiş tarihi | Teşvikleri-yalnızca bazı programlar |
 | agreementNumber | Anlaşma numarası | Teşvikleri-yalnızca bazı programlar |
@@ -164,6 +211,21 @@ Bir atma hakkında daha fazla ayrıntı görmek için sayfanın en üstünde **�
 | iş yükü | İş Yükü | Teşvikleri-yalnızca bazı programlar |
 |
 
+### <a name="transaction-adjustment-codes"></a>İşlem ayarlama kodları
+
+Aşağıdaki tablo, ayarlamalar için neden kodlarını ve açıklamalarını listeler.
+
+|**Neden kodu**   |**Açıklama**   |
+|------------------|:-------------------------------------|
+| AR uyumluluğu | Microsoft faturalarının iş ortağı tarafından zamanında ödenmeyen kazançlarını azaltan ayarlama. |
+| Ortak işlem geçişi | Ortak op kazançlarını başka bir döneme aktaran veya ortak op kazançlarını indirimin olarak dönüştüren ayarlama. |
+| Ops ayarlaması | Microsoft Sistem hesaplama hatalarını düzelten ayarlama. |
+| Ops ayarlaması Microsoft yanlış hesaplama | Hatalı hesaplamaları düzelten ayarlama. |
+| Ops ayarlaması Microsoft Hatalı kayıt | Kayıt ile ilgili hatalı hesaplamalar için ayarlama. |
+| İş ortağı eşlemesi (abonelik) MCI/CSP | Aboneliğin hizalaması hatalı düzeltme. |
+| İlke özel durumu | Bir program kuralını geçersiz kılan ayarlama.  |
+| Önceki dönem gelirleri | Geçerli kazanç döneminin dışındaki kazançlar için ayarlama. |
+
 ## <a name="payments"></a>Ödemeler
 
 **Ödemeler** sayfası, Microsoft ile kazandığınızı ayrıntılarıyla ayrıntılardır. Ayrıca ne zaman ve ne kadar ücret ödeeceğini gösterir.
@@ -197,26 +259,26 @@ Aşağıdaki tabloda farklı kazanç durumları açıklanmaktadır.
 
 | Kazanç durumu | Nedeni | İş ortağı eylemi gerekli mi? |
 | --- | --- | --- |
-| İşlenmemiş | Kazanç ödeme için uygun. Teşvikleri programı program kılavuzunda tanımlanan bir soğutma dönemi için bu durumda kalır. | Hayır |
-| İlerideki | Ödeme siparişi, ödeme işlenmeden önce bekleyen dahili incelemeler için üretildi. | Hayır |
+| İşlenmemiş | Kazanç ödeme için uygun. Teşvikleri programı program kılavuzunda tanımlanan bir soğutma dönemi için bu durumda kalır. | No |
+| İlerideki | Ödeme siparişi, ödeme işlenmeden önce bekleyen dahili incelemeler için üretildi. | No |
 | Bekleyen vergi faturası | Vergi faturanızda eksik veya geçersiz. | Ödeme yapabilmeniz için vergi faturanızı güncelleştirmeniz gerekir |
 | İnceleme sırasında reddedildi | Ödeme, gözden geçirme sırasında reddedildi. | Ayrıntılar için Microsoft destek 'e başvurun |
 | Başarısız | Ödeme, bir Microsoft Sistem hatası nedeniyle başarısız oldu. | Ayrıntılar için Microsoft destek 'e başvurun |
-| Sürüyor | Ödeme devam ediyor. | Hayır |
-| Yanlış ödeme | Ödeme kurtarma devam ediyor. | Hayır |
-| Gönderilen | Ödeme, bankanızla gönderilmiştir. | Hayır |
-| Yeniden işleme | Ödeme bir Microsoft sistem hatasıyla karşılaştı ve yeniden işleniyor. | Hayır |
-| Reversed | Ödeme, bankanızla ters çevrildi ve bir sonraki ödeme aşamasında yeniden gönderilecek. | Hayır |
+| Sürüyor | Ödeme devam ediyor. | No |
+| Yanlış ödeme | Ödeme kurtarma devam ediyor. | No |
+| Gönderilen | Ödeme, bankanızla gönderilmiştir. | No |
+| Yeniden işleme | Ödeme bir Microsoft sistem hatasıyla karşılaştı ve yeniden işleniyor. | No |
+| Reversed | Ödeme, bankanızla ters çevrildi ve bir sonraki ödeme aşamasında yeniden gönderilecek. | No |
 | Vergi faturası reddedildi | Vergi faturanızda gözden geçirme sırasında reddedildi. Tüm bekleyen ödemeler, vergi faturası incelemesi tamamlanana kadar beklemeye alınacaktır. | Ayrıntılar için Microsoft destek 'e başvurun |
-| Gözden geçirme kapsamında vergi faturası | Vergi faturanızda İnceleme uygulanıyor. Vergi faturası onaylandıktan sonra ödeme serbest bırakılır. | Hayır |
+| Gözden geçirme kapsamında vergi faturası | Vergi faturanızda İnceleme uygulanıyor. Vergi faturası onaylandıktan sonra ödeme serbest bırakılır. | No |
 | Reddedildi | Ödeme, bankanızla reddedildi. | Ayrıntılar için bankanızla görüşün. |
 |
 
 ### <a name="payments-download"></a>Ödemeler indirilir
 
-Ödemeler hakkında daha fazla ayrıntı görmek için sayfanın en üstünde **İndir** ' i seçin. Aşağıdaki tabloda, rapordaki her bir sütun açıklanmaktadır.
+ Aşağıdaki tabloda, rapordaki her bir sütun açıklanmaktadır. Ödemeler hakkında daha fazla ayrıntı görmek için ödemeler sayfasının en üstünde **İndir** ' i seçin.
 
-| Sütun adı | Açıklama |
+| Sütun adı | Description |
 | --- | --- |
 | participantID | İş ortağının birincil kimliği program altında |
 | participantIDType | Genellikle teşvikleri programları ve mağaza programları için satıcı KIMLIĞI için program KIMLIĞI |
@@ -238,7 +300,7 @@ Aşağıdaki tabloda farklı kazanç durumları açıklanmaktadır.
 
 ## <a name="export-data"></a>Verileri dışarı aktarma
 
-**Verileri dışarı aktar** sayfası kendi başına yenilemez. En son verileri görmek için sayfayı el ile yenilemeniz gerekebilir. **İşlem geçmişi** , **ödemeler** , **işlem Özeti** veya **Geçmiş ekstresini** dışarı aktarmak için üç sekmeden birini seçin.
+**Verileri dışarı aktar** sayfası kendi başına yenilemez. En son verileri görmek için sayfayı el ile yenilemeniz gerekebilir. **İşlem geçmişi**, **ödemeler**, **işlem Özeti** veya **Geçmiş ekstresini** dışarı aktarmak için üç sekmeden birini seçin.
 
 Filtreniz **veri kullanılabilir** hatasıyla sonuçlanabilir. Bu, varsayılan zaman dilimini üç ayda bir kez sola bıraktıysanız ve daha sonra söz konusu dönemin dışında kalan bir ödeme KIMLIĞI seçtiyseniz meydana gelir. Bu durumda, zaman döneminizin kapsamını genişletip yeniden deneyin.
 
@@ -263,7 +325,7 @@ Filtreniz **veri kullanılabilir** hatasıyla sonuçlanabilir. Bu, varsayılan z
 
 Aşağıdaki tabloda bir geçmiş deyimindeki her bir sütun açıklanmaktadır.
 
-| Alan adı | Açıklama |
+| Alan adı | Description |
 | --- | --- |
 | Gelir kaynağı | Microsoft Store, Windows Phone Mağazası, Windows Mağazası 8 veya reklam gibi işlem gerçekleştiği yere göre gelirinin kaynağı |
 | Sipariş kimliği | Benzersiz sipariş tanımlayıcısı. Bu KIMLIK, satın alma veya geri ödeme gibi satın alma işlemleri olmayan işlemlerle Satınalma işlemlerini tanımlamanızı sağlar. Her ikisinin de aynı sıra KIMLIĞI olur. Ayrıca, tek bir satın alma işlemi için birden çok ödeme yönteminin kullanıldığı bir bölünmüş ücret varsa, satın alma işlemlerini bağlayabilmeniz sağlanır. |

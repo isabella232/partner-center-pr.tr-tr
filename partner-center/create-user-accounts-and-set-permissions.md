@@ -4,17 +4,17 @@ description: Iş Ortağı Merkezi 'Ne erişebilmek için her çalışana bir rol
 ms.topic: how-to
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-ms.custom: contperfq2
+ms.custom: contperf-fy21q2
 author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.date: 10/12/2020
-ms.openlocfilehash: 41f7f68c61630daf30595e28bd5de52f5a5787c8
-ms.sourcegitcommit: 940dad4527f51781f6f966e196b3aa08389613a2
+ms.openlocfilehash: c8fad4432f9aabba69877d80038ec9e2665c639d
+ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/13/2020
-ms.locfileid: "92531851"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "97492543"
 ---
 # <a name="create-user-accounts"></a>Kullanıcı hesapları oluşturma  
 
@@ -28,15 +28,15 @@ Iş Ortağı Merkezi 'ne erişmesi gereken çalışanlar için Kullanıcı hesap
 
 ## <a name="add-a-new-user"></a>Yeni kullanıcı ekleme
 
-1. Iş Ortağı Merkezi 'nin sağ üst köşesindeki **Ayarlar** simgesinden **Hesap ayarları** ' nı seçin ve ardından **Kullanıcı yönetimi** ' ni seçin.
+1. Iş Ortağı Merkezi 'nin sağ üst köşesindeki **Ayarlar** simgesinden **Hesap ayarları** ' nı seçin ve ardından **Kullanıcı yönetimi**' ni seçin.
 
-2. **Kullanıcı ekle** 'yi seçin.
+2. **Kullanıcı ekle**'yi seçin.
 
 3. Kullanıcının tam adını ve benzersiz e-posta adresini girin.
 
 4. Aracının türünü ve/veya kullanıcıya atamak istediğiniz yönetici türünü seçin. İş ortağı merkezi erişimi rol tabanlıdır, bu nedenle kullanıcının görünümünü yalnızca kullanıcının belirli görevleri tamamlaması için ihtiyaç duyacağı özellikleri gösterecek şekilde özelleştirmek için izinler atayabilirsiniz.  Kullanıcılar bir rol ataması istiyorlarsa, genel yöneticilerle **Kullanıcı yönetimine** ve filtrelemeye geçerek genel yöneticileri iletişim kurmak üzere bulabilir.
 
-5. Kullanıcı hesabını oluşturmak için **Ekle** 'yi seçin. Sonraki sayfada kullanıcının ayrıntılarını onaylayın.
+5. Kullanıcı hesabını oluşturmak için **Ekle**'yi seçin. Sonraki sayfada kullanıcının ayrıntılarını onaylayın.
 
 > [!IMPORTANT]  
 > Yeni kullanıcının oturum açma bilgilerini bu sayfada bir yere unutmayın. Daha sonra tekrar erişemeyeceksiniz, bu bilgileri kopyalayıp yeni kullanıcıya gönderdiğinizden emin olun. 

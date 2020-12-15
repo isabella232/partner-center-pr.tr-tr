@@ -8,16 +8,16 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 08/10/2020
-ms.openlocfilehash: 4f4a82d4b8a94e960befb55bdd4a99e0cdcc9bb0
-ms.sourcegitcommit: 9d3f88f7008a2771b02cb4af860c6ca00eb50e42
+ms.openlocfilehash: 2444f2d6ff75340b7a9826828d28a4bb316d87a8
+ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/17/2020
-ms.locfileid: "92531246"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "97492611"
 ---
 # <a name="use-these-resources-to-help-you-get-started-with-incentives"></a>Teşvikleri kullanmaya başlamanıza yardımcı olması için bu kaynakları kullanın
 
-**Uygulama hedefi**
+**Şunlara uygulanır**
 
 - İş Ortağı Merkezi
 - Microsoft İş Ortağı Ağı iş ortakları (MPN)
@@ -48,8 +48,8 @@ Bir teşvikleri programında çalışmanız için ödeme yapmadan önce, Microso
 | Teşvikleri çalışmanızın belirli bir teşvikleri programı için uygunluk gereksinimlerini karşılayıp karşılamadığını öğrenin | [Programa uygun olup olmadığınızı belirleme](incentives-determined-your-program-eligibility.md)  |
 | Teşvikleri ödelerinizi alabilmesi için Microsoft 'un gerektirdiği verileri bulun ve sağlayın | [Iş Ortağı Merkezi 'nde ödeme ve vergi profilleri oluşturma ve yönetme](incentives-create-and-manage-your-payout-and-tax-profiles.md)  |
 | Teşvikleri kazançlarını almaya uygun olması için ihtiyacınız olan tüm ayrıntıları sağladığınızı onaylayın | [Kazanç uygunluk durumunuzu onaylayın](incentives-confirm-your-earnings-eligibility.md)  |
-| Teşvikleri programınızın tüm verilerini ve raporlarını görüntüleyin | [Teşvik ödemelerinizi ve programlarınızı görüntüleme](understand-incentive-payouts.md)  |
-| Programa özgü, teşvikleri ödemeler sayfanıza erişin | [Teşvikleri ödemeler sayfanıza erişin](incentives-unified-user-guide.md)  |
+| Teşvikleri programınızın tüm verilerini ve raporlarını görüntüleyin | [Teşvik programlarınızı ve ödemeleri görüntüleyin](understand-incentive-payouts.md)  |
+| Programa özgü, teşvikleri ödemeler sayfanıza erişin | [Ödeme deyiminize erişin](payout-statement.md)  |
 
 ## <a name="next-steps"></a>Sonraki adımlar
 

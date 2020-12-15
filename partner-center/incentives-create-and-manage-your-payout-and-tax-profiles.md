@@ -8,12 +8,12 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 66177c6e3cd0091081866e1508d28346f49ec713
-ms.sourcegitcommit: bfc9e6f6476766cf10ba714f03ca2e96560003b1
+ms.openlocfilehash: 1e97e2e9db798e5ef90858cf96dc06602bbfe427
+ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 11/14/2020
-ms.locfileid: "94626040"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "97492475"
 ---
 # <a name="create-and-manage-incentives-payout-and-tax-profiles-in-partner-center"></a>Iş Ortağı Merkezi 'nde teşvikleri ödeme ve vergi profilleri oluşturma ve yönetme
 
@@ -62,17 +62,17 @@ Aşağıdaki bölümler, Iş Ortağı Merkezi 'nde ödeme ve vergi profilleri ol
 
    - Birden çok etki alanı, bir Azure AD hesabında kaydedilebilir. Hangi etki alanlarının ilişkilendirildiğini öğrenmek için genel yöneticinizle iletişime geçin.
    - Yalnızca etki alanı ile oturum açabiliyor @onmicrosoft.com , Azure AD hesabına ek etki alanları eklemek Için hesap yöneticinize başvurun.
-   - **İş veya okul hesabı** ya da **kişisel hesap** ' i seçmeniz istenirse **iş veya okul hesabı** ' nı seçin.
+   - **İş veya okul hesabı** ya da **kişisel hesap**' i seçmeniz istenirse **iş veya okul hesabı**' nı seçin.
 
-2. Dişli simgesini seçerek **Ayarlar** menüsünü açın ve ardından **iş ortağı ayarları** ' nı seçin.
+2. Dişli simgesini seçerek **Ayarlar** menüsünü açın ve ardından **iş ortağı ayarları**' nı seçin.
 
-3. **Hesap ayarları** menüsünde, **ödeme ve vergi** ' ı seçin. 
+3. **Hesap ayarları** menüsünde, **ödeme ve vergi**' ı seçin. 
 
 ## <a name="assign-payout-and-tax-profiles-to-individual-programs"></a>Ayrı programlara ödeme ve vergi profilleri atama
 
 1. [Iş Ortağı Merkezi panosunda](https://partner.microsoft.com/dashboard/)oturum açın ve sonra da dişli simgesini seçerek **Ayarlar** menüsünü açın. 
 
-2. **Iş ortağı ayarları** ' nı seçin, **ödeme ve vergi bölümünü** genişletin ve ardından **ödeme ve vergi profili ataması** ' nı seçin. 
+2. **Iş ortağı ayarları**' nı seçin, **ödeme ve vergi bölümünü** genişletin ve ardından **ödeme ve vergi profili ataması**' nı seçin. 
    
    Programlarınızın bir listesi görüntülenir. Profil ayrıntılarını görmek için bir programın yanındaki oku seçin. 
 
@@ -92,7 +92,7 @@ Aşağıdaki bölümler, Iş Ortağı Merkezi 'nde ödeme ve vergi profilleri ol
     
 5. **Para birimini** seçin.
 
-6. Ödeme alanlarını tamamladıktan sonra **Gönder** ' i seçin.
+6. Ödeme alanlarını tamamladıktan sonra **Gönder**' i seçin.
 
 ## <a name="create-your-bank-profile"></a>Banka profilinizi oluşturma
 
@@ -105,17 +105,17 @@ Banka profilleri bir kuruluş düzeyinde oluşturulur. Bu, bir banka profilinin 
     **Banka hesabı konumu:** Şirketinizin bankasının bulunduğu ülke.
     **Ödeme yöntemi:** Iş Ortağı Merkezi için tercih edilen ödeme yöntemi elektronik banka aktarmasıdır.
 
-2. **İleri** ’yi seçin.
+2. **İleri**’yi seçin.
 
 3. **Banka hesabı** sayfasında, bilgilerinizi girin. Bu sayfada gösterilen alanlar ülkeye göre farklılık gösterecektir. 
 
-4. **İleri** ’yi seçin.
+4. **İleri**’yi seçin.
 
 5. **Lehdar** sayfasında, ilgili bilgileri girin. Lehdar, şirketinizdeki kişiden, hesabınızı tartışmaları gerektiğinde bankanın iletişim kurabildikleri kişidir.
 
-6. Alanlar tamamlandığında, **son** ' u seçin ve ardından banka profilinizi oluşturmak için **Onayla** ' yı seçin.
+6. Alanlar tamamlandığında, **son**' u seçin ve ardından banka profilinizi oluşturmak için **Onayla** ' yı seçin.
 
-**Ödeme ve vergi profilleri** sayfasına yönlendirilirsiniz. Yeni profilinizin durumu, doğrulama tamamlanana kadar **bekleyen Microsoft doğrulamasını** yansıtır. Bu işlem, 48 saate kadar sürebilir. Doğrulama tamamlandıktan sonra, profil durumunuz **onaylanan** veya **eylem gereken eylemi** yansıtır. **Eylem gerekliyse** , gerekli bilgileri sağlamak için yukarıdaki adımları tekrarlayın. 
+**Ödeme ve vergi profilleri** sayfasına yönlendirilirsiniz. Yeni profilinizin durumu, doğrulama tamamlanana kadar **bekleyen Microsoft doğrulamasını** yansıtır. Bu işlem, 48 saate kadar sürebilir. Doğrulama tamamlandıktan sonra, profil durumunuz **onaylanan** veya **eylem gereken eylemi** yansıtır. **Eylem gerekliyse**, gerekli bilgileri sağlamak için yukarıdaki adımları tekrarlayın. 
 
 ## <a name="create-your-tax-profile"></a>Vergi profilinizi oluşturma
 
@@ -129,27 +129,27 @@ Kuzey iş ortağı şirketleri için, W8 veya W9 formlarını tamamlamada bilgi 
 >[!IMPORTANT]
 > Şirketiniz için yalnızca ayrıntıları girin. Kişisel ayrıntıları hiçbir şekilde girmeyin.
 
-1. **Iş profili** sayfasında, gerekli alanları tamamlayıp **İleri** ' yi seçin. 
+1. **Iş profili** sayfasında, gerekli alanları tamamlayıp **İleri**' yi seçin. 
 
 2. **Kurulum** sayfasında, şirketiniz için geçerli olan seçeneği belirleyin.
 
    - Şirketiniz yalnızca Birleşik Devletler veya bu profil bir bireyin varsa, sol taraftaki seçeneği belirleyin.
    - Şirketinizin Birleşik Devletler dışına dahil olması durumunda sağ taraftaki seçeneği seçin ve ardından listeden bulunduğunuz ülkeyi/bölgenizi seçin.
 
-3. **İleri** ’yi seçin. 
+3. **İleri**’yi seçin. 
 
-4. **Vergi durumu** sayfasında, gerekli bilgileri girin ve ardından **İleri** ' yi seçin. Bu sayfadaki alanlar ülkeye göre değişiklik gösterecektir. ayrıntılarınız. 
+4. **Vergi durumu** sayfasında, gerekli bilgileri girin ve ardından **İleri**' yi seçin. Bu sayfadaki alanlar ülkeye göre değişiklik gösterecektir. ayrıntılarınız. 
 
-5. **Ek belgeler** sayfasında gerekli alanlar ' ı seçin ve **İleri** ' yi seçin. 
+5. **Ek belgeler** sayfasında gerekli alanlar ' ı seçin ve **İleri**' yi seçin. 
 
-6. Ülkeniz veya bölgeniz için gereken tüm belgeleri karşıya yüklemek için **Araştır** ' ı seçin. Belge adı gösterildiğinde **karşıya yükle** ' yi seçin. 
+6. Ülkeniz veya bölgeniz için gereken tüm belgeleri karşıya yüklemek için **Araştır** ' ı seçin. Belge adı gösterildiğinde **karşıya yükle**' yi seçin. 
 
-7. Belgeyi kaldırmanız gerekirse **Kaldır** ' ı seçin.
+7. Belgeyi kaldırmanız gerekirse **Kaldır**' ı seçin.
 
-8. Kaydetmek ve devam etmek için **son** ' u seçin.
+8. Kaydetmek ve devam etmek için **son**' u seçin.
 
 9. Açılan iletide **Onayla** ' yı seçin. **Ödeme ve vergi kurulumu** sayfasına geri yönlendirilirsiniz.
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-- [Teşvikleri ödeme ve vergi profili SSS](incentives-payout-tax-profile-faqs.md)
+- [Ödemeler ve vergiler hakkında sık sorulan sorular](payout-faq.md)

@@ -1,23 +1,28 @@
 ---
-title: Ticari markette ödeme alma
-description: Ticari Market-Azure Marketi 'nde kazanç için ödemeleri alma hakkında bilgi edinin. Ödeme ilkesi, ödeme tutma durumu ve ödeme deyimlerini içerir.
+title: Iş Ortağı Merkezi 'nde ödemeli alma
+description: Ticari Market teklifleri, teşvik programları ve bulut çözümü sağlayıcısı programı gibi bir Microsoft iş ortağı olarak kazanç ödemelerini alma hakkında bilgi edinin. Ödeme ilkesi, ödeme tutma durumu ve ödeme deyimlerini içerir.
 ms.service: marketplace
 ms.topic: conceptual
-ms.date: 09/28/2020
+ms.date: 11/25/2020
 author: eunjkim520
 ms.author: eunjkim
-ms.openlocfilehash: e998ae248b5b09340cb4a7b57c8fbd77b59731d4
-ms.sourcegitcommit: 245b4792e8221468f781f6effd1c9b23be05499a
+ms.openlocfilehash: fc1eea0d8a90bb2b5e11dad24a71c9c34fd1a4a0
+ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 11/24/2020
-ms.locfileid: "95514733"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "97492458"
 ---
-# <a name="getting-paid-in-the-commercial-marketplace"></a>Ticari markette ödeme alma
+# <a name="getting-paid-in-partner-center"></a>Iş Ortağı Merkezi 'nde ödemeli alma
+
+**Uygun roller:**
+
+- Hesap yöneticisi
+- Genel yönetici
 
 Bu makalede teklifler, eklentiler ve reklam gelirleri için ödeme alma hakkında önemli bilgiler bulunur. Ödeme ilkesini özetler, ödeme yapmadan önce gerekli adımlar ve ödeme bildirimine genel bakış.
 
-## <a name="commercial-marketplace-payout-policies-and-agreements"></a>Ticari Market ödeme ilkeleri ve anlaşmaları
+## <a name="payout-policies-and-agreements"></a>Ödeme ilkeleri ve anlaşmaları
 
 Ödeme yapmak için anlaşmalar ve ödeme ilkesine uyulması gerekir.
 
@@ -49,4 +54,4 @@ Varsayılan olarak, yukarıda açıklandığı gibi ödemeleri aylık olarak gö
 ## <a name="next-steps"></a>Sonraki adımlar
 
 - [İş ortağı ödemeler API 'SI](https://apidocs.microsoft.com/services/partnerpayouts)
-- [Market ödemeler hakkında SSS](payout-faq.md)
+- [Ödemeler hakkında SSS](payout-faq.md)

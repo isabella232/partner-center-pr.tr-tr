@@ -6,14 +6,19 @@ ms.service: marketplace
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 12/10/2019
-ms.openlocfilehash: 40f9f90eb1da5d80b8df5a2a3d99979883060d81
-ms.sourcegitcommit: 245b4792e8221468f781f6effd1c9b23be05499a
+ms.openlocfilehash: 58a981dbed3aa9a38a29cdd2b085d661b9341232
+ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 11/24/2020
-ms.locfileid: "95514767"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "97492696"
 ---
 # <a name="set-up-your-payout-account-and-tax-forms"></a>Ödeme hesabınızı ve vergi formlarınızı ayarlama
+
+**Uygun roller:**
+
+- Hesap yöneticisi
+- Genel yönetici
 
 Ticari Market 'teki teklif satışlarından para almak için, ödeme hesabınızı ayarlamanız ve [Iş Ortağı Merkezi](https://partner.microsoft.com/dashboard)'nde gerekli vergi formlarını doldurmanız gerekir.
 
@@ -32,19 +37,16 @@ Hesabınızı ayarladıktan sonra, ticari Market 'te teklif (veya eklentiler) sa
 
 ## <a name="tax-forms"></a>Vergi formları
 
-### <a name="fill-out-your-tax-forms"></a>Vergi formlarınızı doldurun
+Vergi profilinizi ve vergi formlarınızı Iş Ortağı Merkezi 'nin **ödeme ve vergi** sayfasında yönetirsiniz. Kuruluşunuzun izinleri, gördüğünüz profilleri ve bilgileri saptacaktır.
 
-İlk olarak, bir vergi profili oluşturmanız ve katılmayı yaptığınız programlara atamanız gerekir. Aşağıdaki adımları tamamlayarak ticari Market için *vergi profilinizi* oluşturabilirsiniz:
+### <a name="create-or-update-your-tax-profile"></a>Vergi profilinizi oluşturun veya güncelleştirin
 
-- İkamet ve vatandaşlık ülke/bölgenizi belirtin.
-- Uygun vergi formlarını doldurun.
-
-Iş Ortağı Merkezi ' nde vergi formlarınızı elektronik olarak tamamlayabilir ve gönderebilirsiniz. Çoğu durumda, herhangi bir formu yazdırmanız ve postalarınıza gerek kalmaz.
+İlk olarak, bir vergi profili oluşturmanız ve katılmayı yaptığınız programlara atamanız gerekir. Iş Ortağı Merkezi 'nde *vergi profilinizi* oluşturmak veya güncelleştirmek için aşağıdaki adımları kullanın. Vergi formlarınızı Iş Ortağı Merkezi panosunda elektronik olarak tamamlayabilir ve gönderebilirsiniz. Çoğu durumda, herhangi bir formu yazdırmanız ve postalarınıza gerek kalmaz.
 
 > [!IMPORTANT]
 > Farklı ülkeler ve bölgeler farklı vergi gereksinimlerine sahiptir. Vergilerle ödeme yapmanız gereken tam tutar, teklifinizi sattığınız ülkelere ve bölgelere göre değişir. Microsoft remits Sales ve sizin adınıza vergi kullanan ülke/bölge hakkında bilgi edinmek için [Microsoft Azure Market Yayımcı Sözleşmesi](https://go.microsoft.com/fwlink/p/?LinkID=699560) ' ne bakın. Diğer ülkelerde/bölgelerde, kaydettiğiniz yere bağlı olarak, teklif satışlarınız için satış ve Kullanım vergisini doğrudan yerel talama yetkilisine havale etmeniz gerekebilir. Bunlara ek olarak, aldığınız uygulama satışları gelir olarak vergilendirilebilir olabilir. Ülkeniz veya bölgeniz için, ticari Market etkinlikleriniz için doğru vergi bilgilerini belirlemenize en iyi şekilde yardımcı olabilecek ilgili yetkiliyle iletişim kurmanız önemle önerilir.
 
-1. [Iş Ortağı Merkezi](https://partner.microsoft.com/dashboard)' nde, sağ üst köşedeki **Ayarlar** dişli simgesini ve ardından **Hesap ayarları**' nı seçin.
+1. [Iş Ortağı Merkezi panosunda](https://partner.microsoft.com/dashboard)sağ üst köşedeki **Ayarlar** dişli simgesini ve ardından **Hesap ayarları**' nı seçin.
 
 2. Sol gezinti menüsünde, **ödeme ve vergi**' ı seçin **ve ardından ödeme ve vergi atamaları**' nı seçin.
 

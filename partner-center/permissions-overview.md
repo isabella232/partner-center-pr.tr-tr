@@ -8,13 +8,13 @@ description: Iş Ortağı Merkezi 'nde ticari işlemleri, başvuruları, teşvik
 author: hemas
 ms.author: hemas
 ms.localizationpriority: high
-ms.custom: SEOMAY.20, contperfq1
-ms.openlocfilehash: 8ae4bed8536907c59f1b22e72896cfbe7f7aff9a
-ms.sourcegitcommit: 445c7b70943f71cc4b2cb48a327b9dcc1814974d
+ms.custom: SEOMAY.20, contperf-fy21q1
+ms.openlocfilehash: 80aeb62ba875d4ecd7c11063663f7c2d29912bdf
+ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "94670159"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "97492713"
 ---
 # <a name="assign-users-roles-and-permissions-for-a-companys-users-needing-to-work-in-partner-center"></a>Şirket kullanıcılarının iş ortağı merkezi 'nde çalışması gereken kullanıcı rollerini ve izinlerini atama
 
@@ -35,7 +35,7 @@ Kullanıcılarınıza verdiğiniz roller ve izinler tarafından Iş Ortağı Mer
 
 ### <a name="manage-commercial-transactions-in-partner-center-azure-ad-and-csp-roles"></a>Iş Ortağı Merkezi 'nde ticari işlemleri yönetme (Azure AD ve CSP rolleri)
 
-|**Role**|**Neler yapabilecekleri**|**Daha fazla bilgi**|
+|**Role**|**Neler yapabilecekleri**|**Daha fazla bilgi edinin**|
 |----------------------------------|---|:---------------------------------|
 |Genel yönetici|* Tüm Microsoft hesabı/hizmetlere tam ayrıcalıklarla erişebilir|[İş Ortağı Merkezi hesabınızı yönetme](partner-center-account-setup.md)
 |      |* Iş Ortağı Merkezi için destek biletleri oluşturma
@@ -87,7 +87,7 @@ Kullanıcılarınıza verdiğiniz roller ve izinler tarafından Iş Ortağı Mer
 
 CPVs, bulut çözümü sağlayıcısı (CSP) iş ortakları tarafından, sistemlerini Iş Ortağı Merkezi API 'Leri ile tümleştirmelerini sağlamak üzere uygulamalar geliştirmeyi sağlar. 
 
-|**Role**   |**Yapabilecekleriniz**|**Daha fazla bilgi**|
+|**Role**   |**Yapabilecekleriniz**|**Daha fazla bilgi edinin**|
 |------------------------------|:----------------------------|----|
 |Genel yönetici| CPV profilinizi görüntüleyin ve yönetin|[CSP iş ortağı sistemlerini Iş Ortağı Merkezi API 'Leriyle tümleştirmenize yardımcı olmak için Denetim Masası satıcısı olarak kaydetme](enroll-as-cpv.md)
 ||CPV özelliklerine erişmesi gereken kullanıcılarınızı görüntüleyin ve yönetin|
@@ -105,7 +105,7 @@ CPVs, bulut çözümü sağlayıcısı (CSP) iş ortakları tarafından, sisteml
 
 Bu roller Azure Active Directory roller değildir. Bu roller, kiracı yerine şirket işletmelerini yönetir.
 
-|**Role** | **Yapabilecekleriniz**|**Daha fazla bilgi**|
+|**Role** | **Yapabilecekleriniz**|**Daha fazla bilgi edinin**|
 |----------------------------|:----------------------------|-----|
 |MPN iş ortağı Yöneticisi|* İş ortağı hizmeti isteklerini görüntüleyin, oluşturun ve yönetin|[Microsoft Eylem Paketi aboneliği veya Silver ve Gold uzmanlık satın alma veya yenileme](mpn-get-action-pack.md)
 ||* Yasal, Şirket, iş ve MPN profillerini görüntüleme
@@ -132,7 +132,7 @@ Bu roller Azure Active Directory roller değildir. Bu roller, kiracı yerine şi
 > [!Note]
 >Yeni başvurular Kullanıcı rolü, 18 Kasım 2020 tarihinden itibaren kullanılabilir. Mevcut başvuru yöneticileri, referans yönetici rollerini tüm şirket kapsamında tutar.
 
-|**Role** | **Yapabilecekleriniz**|**Daha fazla bilgi**
+|**Role** | **Yapabilecekleriniz**|**Daha fazla bilgi edinin**
 |------------------------------|:-------------------------|---|
 |Başvuru Yöneticisi|Iş Ortağı Merkezi 'nde Referanslar sekmesinde her şeyi oluşturun ve yönetin|[Ortak satış fırsatlarını yönetme](manage-co-sell-opportunities.md)
 ||    Tüm ortak satış fırsatlarını ve müşteri adaylarını görüntüleyebilir ve düzenleyebilir
@@ -160,7 +160,7 @@ Yeni başvurular Kullanıcı rolüyle birlikte, anlaşmalar için de konum kapsa
 
 ## <a name="manage-incentives"></a>Teşvikleri yönetme
 
-|**Role** | **Yapabilecekleriniz**|**Daha fazla bilgi**
+|**Role** | **Yapabilecekleriniz**|**Daha fazla bilgi edinin**
 |------------------------------|:-------------------------|---|
 |Teşvikleri Yöneticisi|* Teşvikleri 'yi başlatır ve yönetir |[Teşvikleri kullanmaya başlamanıza yardımcı olması için bu kaynakları kullanın](incentives-get-started-intro.md)
 ||* Teşvikleri programlarının tüm yönlerini görüntüleyebilir ve düzenleyebilir
@@ -176,7 +176,7 @@ Yeni başvurular Kullanıcı rolüyle birlikte, anlaşmalar için de konum kapsa
 
 ## <a name="view-partner-center-insights-data"></a>Iş Ortağı Merkezi Öngörüler verilerini görüntüle
 
-|**Role** | **Yapabilecekleriniz**|**Daha fazla bilgi**|
+|**Role** | **Yapabilecekleriniz**|**Daha fazla bilgi edinin**|
 |------------------------------|:-------------------------|---|
 |Executive rapor Görüntüleyicisi|Tüm raporlama veri kümelerine erişim, iş ortağı destek biletleri oluşturma, oluşturduğunuz iş ortağı destek biletlerini görüntüleme|[Iş Ortağı Merkezi öngörülerine Genel Bakış Panosu raporları](pci-overview-report.md)
 |Rapor Görüntüleyicisi|Gelir ve müşteri ve çalışan kişisel verileri dışında veri raporlarına erişim, iş ortağı destek biletleri oluşturma, oluşturduğunuz iş ortağı destek biletlerini görüntüleme|

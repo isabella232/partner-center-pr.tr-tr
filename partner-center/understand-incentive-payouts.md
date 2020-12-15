@@ -1,22 +1,22 @@
 ---
 title: Özenlerinizi ve program ayrıntılarınızı görüntüleyin
 ms.topic: article
-ms.date: 10/16/2020
+ms.date: 11/01/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
-description: Bu sayfaları, ödeme ve kazanç ayrıntılarını görüntülemek, yönetmek ve dışarı aktarmak için, program durumu ve tüm işlem geçmişini görüntülemek için kullanın.
+description: Teşvikleri program durumunu görüntülemek ve yönetmek için bu sayfaları kullanın
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 8dcd559e9e52c246b720678f05dec9128a6ca366
-ms.sourcegitcommit: fdc32c0afce88f8266f75746ec15bf04745590ad
+ms.openlocfilehash: 4bf1c7a2abceffc812666456ddae252fca70d8f1
+ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 11/07/2020
-ms.locfileid: "94360063"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "97492730"
 ---
-# <a name="view-manage-and-export-your-incentives-program-details"></a>Teşvikleri programınızın ayrıntılarını görüntüleyin, yönetin ve dışarı aktarın
+# <a name="view-your-incentives-program-details"></a>Teşvikleri programınızın ayrıntılarını görüntüleme
 
 **Şunlara uygulanır**
 
@@ -30,51 +30,26 @@ ms.locfileid: "94360063"
 - Genel yönetici
 - MPN Iş ortağı Yöneticisi
 
-Bu sayfaları, geçmişteki, bekleyen ve yaklaşan ödemeler ve gelirinizin ayrıntılarını, her konumdaki özenklarınızın durumunu ve tamamlanan işlem geçmişinizi görüntülemek için kullanın. Ayrıca, herhangi bir işlem için ayrıntılı bilgileri indirebilir veya dışarı aktarabilirsiniz. Tüm teşvikleri sayfaları, tutarları ABD Doları cinsinden gösterir.
-
->[!NOTE]
->Yalnızca MPN kimlikleri ve sizinle ilişkilendirdiğiniz programlar için verileri görürsünüz. Ek verilere erişmek istiyorsanız teşvikleri yöneticinize bakın. 
-
-## <a name="access-the-incentives-pages"></a>Teşvikleri sayfalarına erişin
-
-Teşvikleri bilgilerine Iş Ortağı Merkezi [panosundan](https://partner.microsoft.com/dashboard)birkaç yolla erişebilirsiniz:
-
-- Sol taraftaki menüden **teşvikleri** öğesini seçin. **Genel bakış** dahil olmak üzere **teşvikleri** altında çeşitli seçenekler görünür. Bu seçenekleri, teşvik programlarının durumunu öğrenmek, ödemeleri, kazançları ve talepleri öğrenmek için göz atın.
-- Sağ üst köşedeki **para** (ödeme) simgesini seçin. Daha sonra **işlem geçmişi** , **ödemeler** , **verileri dışarı aktarma** veya **Office Satış raporu** gibi diğer seçenekleri belirleyebilirsiniz.
-
-Aşağıdaki sayfalar burada açıklanmıştır:
-
-- Teşvikleri genel bakış sayfası
-- Ödemeler sayfası
-- İşlem geçmişi sayfası
-- Verileri dışarı aktarma sayfası ve diğer, ilişkili dışa aktarma sayfaları
-- İşlem Özeti raporu
+Bu makalede, ister her konumdaki her bir programın durumu hem de her bir programın durumunu gösteren **teşvikleri genel bakış** sayfasına nasıl erişebileceğiniz açıklanır. Ayrıca, farklı kayıt durumları da sağlar. 
 
 >[!NOTE]
 >Iş Ortağı Merkezi 'ndeki teşvikleri ve teşvik özellikleri hakkında daha fazla bilgi için bkz. [partner yatırımlar ve teşvikleri](https://partner.microsoft.com/membership/partner-incentives) (oturum açma gereklidir).
 
-## <a name="my-incentives-overview-page"></a>Teşvikleri genel bakış sayfası
+## <a name="access-the-incentives-overview-page"></a>Teşvikleri genel bakış sayfasına erişin
 
-**Teşviklerim** genel bakış sayfası, teşvik programlarınızın genel durumunu ve farklı konumlardaki farklı programların durumlarını gösterir. Bu bilgiler arasında teşvik programlarına katıldıktan sonra elde ettiğiniz toplam teşvik kazancı ve ödemeler yer alır.
-
-Bu sayfada ayrıca konuma veya programa göre kazançların ve ödemelerin yanı sıra varsa belirli bir konumdaki bir program için gerçekleştirmeniz gereken eylemler gösterilir.
-
-**Teşviklerim** genel bakış sayfasına erişmek için:
-
-1. Iş Ortağı Merkezi [panosunda](https://partner.microsoft.com/dashboard)oturum açın.
-2. Menüden **teşvikleri** ve ardından **genel bakış** ' ı seçin.
-3. Kazanç ve ödeme özetini sayfanın en üstünde, ek ayrıntıları ise aşağıdaki tabloda bulabilirsiniz. Ayrıca, eşlik eden tabloyu sıralayabilir, gruplandırabilir ve genişletebilirsiniz:
+1. [Iş Ortağı Merkezi panosunda](https://partner.microsoft.com/dashboard)oturum açın.
+1. Menüden **teşvikleri** ve ardından **genel bakış** ' ı seçin.
+1. Kazanç ve ödeme özetini sayfanın en üstünde, ek ayrıntıları ise aşağıdaki tabloda bulabilirsiniz. Ayrıca, eşlik eden tabloyu sıralayabilir, gruplandırabilir ve genişletebilirsiniz:
 
    - Sütuna göre sıralamak için sütun adını seçin.
    - Programa göre gruplandırma yapmak için, tablonun üzerindeki **program olarak** sekmesini seçin.
    - Konuma göre gruplandırmak için tablonun üzerindeki **konuma göre** sekmesini seçin.
    - Belirli bir grup içindeki kayıtlar hakkında daha fazla ayrıntı görüntülemek için, belirli bir satırın sonundaki köşeli ayraç sembolünü seçin. Bu köşeli çift ayraç görünümü genişletilir.
+1. Bir programa kaydolmak için gerçekleştirmeniz gereken ek eylemler varsa ilgili bilgiler **Durum** sütununda görüntülenir. Bu durumda köşeli çift ayraç simgesine tıklayarak gerçekleştirmeniz gereken adımlar hakkında bilgi edinebilirsiniz.
 
-4. Bir programa kaydolmak için gerçekleştirmeniz gereken ek eylemler varsa ilgili bilgiler **Durum** sütununda görüntülenir. Bu durumda köşeli çift ayraç simgesine tıklayarak gerçekleştirmeniz gereken adımlar hakkında bilgi edinebilirsiniz.
+## <a name="enrollment-status"></a>Kayıt durumu
 
->[!NOTE]
->**Durum** sütununda gösterilen farklı kayıt durumları hakkında daha fazla bilgi edinmek için aşağıdaki tabloya bakın.
-
+Aşağıdaki tabloda, **durum** sütununda gösterilen farklı kayıt durumları açıklanmaktadır.
 
 | **Durum**         | **Şu durumlarda görünür** |
 |:------------------------------------|:------------------|
@@ -86,292 +61,19 @@ Bu sayfada ayrıca konuma veya programa göre kazançların ve ödemelerin yanı
 | Siteye  | İş ortağına yeni bir teşvik programı kayıt daveti gönderildi, ancak iş ortağı henüz kayıt işlemini başlatmadı. Ardışık, **Eylemler gerekli** sütunu sonraki adımları ve ilgili bağlantıları gösterir.  |
 | Kayıt doğrulanıyor  | İş ortağı, yeni veya mevcut bir kayıt için banka ve vergi bilgilerini zaten tamamlamıştır veya güncelleştirmiştir ve Microsoft 'un bu bilgileri doğrulamasını bekliyor. Doğrulama işlemi sırasında, **kayıt** doğrulaması 48 saate kadar görünebilir.  |
 
-## <a name="payments-page"></a>Ödemeler sayfası
-Bu sayfadaki toplamlar, kullandığınız tüm MPN kimliklerini temsil eder. Katılımcı kimliği, Program, Ödeme kimliği ve Kazanç türüne göre filtreleyebilirsiniz. Tutarlar ABD doları cinsinden verilir. Ödenen değer, ödeme yapılan para biriminde görüntülenir.
+## <a name="see-your-payment-information"></a>Ödeme bilgilerinizi görüntüleyin
 
-|**Alan**   |**Açıklama**    |
-|------------------|:-------------------------------------|
-|Toplam ödenen bu yıl        |Tüm MPN kimlikleriniz için ABD Doları cinsinden bu yıla kadar ödenen Birleşik Toplam.                                      |
-|Sonraki tahmini ödeme      |Size yaklaşan tek bir sonraki ödeme (çok yakında geliyor olsa bile) ABD Doları cinsinden.                                     |
-|Son ödeme           |En son ödemenin miktarı (ABD Doları cinsinden), program adı ve MPN KIMLIĞI.                                      |
-|Kaynağa göre ödemeler       |Son 12 ay içinde programla gösterilen, ABD Doları cinsinden ödeme miktarı.                                      |
-|Ödemeler                       |**Ücretli** veya **bekleyen** ' i seçin ve istediğiniz gibi sıralayın. Belirli bir ödemenin ek ayrıntıları için **Görünüm** ' ü seçin. Ödeme havalesi bildiriminin bir kopyasını indirmek için **İndir** ' i seçin. İşlem geçmişi verilerinin görünmesi 24 saate kadar sürebilir, bu nedenle ilişkili kazanç hakkını hemen görmeyebilirsiniz.  |
+Bu farklı özetlere erişmek için ekranın sağ üst köşesindeki ödeme simgesini seçin:
 
-Bu sayfadaki verilerin herhangi birini dışarı aktarmak için **dışarı** Aktar ' ı seçin ve ardından verileri dışarı aktar sayfasında yönergeleri izleyin.
+- İşlem geçmişi
+- Ödemeler
+- Verileri dışarı aktarma
 
-## <a name="transaction-history-page"></a>İşlem geçmişi sayfası
-Bu sayfada, her biri için tarih, tür ve kazanç dahil olmak üzere tüm bireysel gelirlerinizi görüntüler. Görüntülenecek bir zaman aralığı seçebilirsiniz ve kayıt KIMLIĞI, program, ödeme KIMLIĞI, kazanç türü, MANI ve duruma göre de filtre uygulayabilirsiniz. Veriler geçerli mali yıl (1 Temmuz 30 Haziran) ve önceki iki mali yıl için kullanılabilir.
+:::image type="content" source="images/payouts/payout-overview.png" alt-text="Iş Ortağı Merkezi portalının sağ üst köşesindeki ödeme simgesini gösterir":::
 
-Bir atma hakkında daha fazla ayrıntı görmek için sayfanın sağ tarafındaki aşağı oku seçin. Bunun yapılması manı, gelir tutarını, ürünü ve müşteriyi görüntüler. Herhangi bir nedenden dolayı bu verilerden herhangi biri kullanılamaz, ancak ona erişmeniz gerekiyorsa, desteğe başvurun. Kazanç, bir işlem değil, bir ayarlamanın sonucudur ve bu, ürün ve müşteri alanları gösterilmez.
+Bu bilgiler arasında teşvik programlarına katıldıktan sonra elde ettiğiniz toplam teşvik kazancı ve ödemeler yer alır. Bu sayfada ayrıca konuma veya programa göre kazançların ve ödemelerin yanı sıra varsa belirli bir konumdaki bir program için gerçekleştirmeniz gereken eylemler gösterilir. 
 
-Bu sayfadaki herhangi bir işlem verisini dışarı aktarmak için **dışarı aktar** ' ı seçin ve ardından verileri dışarı aktar sayfasındaki yönergeleri izleyin. Işlem geçmişi sayfasından içe aktarılmış dosyalar, işlem para birimi, hem işlem para birimi, ABD Doları için kazanç, hem de para birimi cinsinden ödenen ödeme değeri gibi verileri gösterir.
-
-### <a name="submit-your-tax-invoice-as-proof-of-execution-poe"></a>Vergi faturanızı yürütme kanıtı (PoE) olarak gönderme
-
->[!NOTE]
->Bu içerik **yalnızca** Hindistan, Çin, Italya, Kore, Meksika ve Tayvan 'daki iş ortaklarıyla ilgilidir. <br><br>Hindistan 'daki iş ortakları, vergi faturasının sabit bir kopyasını göndermek için gereklidir.
-
-#### <a name="submit-a-tax-invoice"></a>Vergi faturası gönderme
-
-Yukarıda listelenen ülkelerden birinde bir iş ortağıysanız, Microsoft size, ister kazanç kazandığınızı talep etmek için bir vergi faturası göndermeniz gerektiğini bildiren bir e-posta ile sizi bilgilendirir. Aldığınız e-posta, vergi faturanızı göndermek için yönergeler sağlar ve gereken ek bilgileri de listeler.
-
-Hindistan 'daki iş ortakları Vergi faturasını sabit kopyada göndermek için gereklidir. Diğer ülkelerdeki iş ortakları da sabit veya geçici bir kopya gönderebilir.
-
-Vergi faturanızı, talep ettiğiniz 180 gün içinde göndermeniz gerekir. Faturanızı aldıktan ve doğrulandıktan sonra, yaptığınız ödemeleri ödememiz için işlem yapacağız.
-
-Aşağıdaki bilgileri vergi faturanızla birlikte göndermeniz gerekir:
-
-- Fatura numarası (Bu, oluşturduğunuz bir sayıdır) 
-
-- Channel teşvikleri (CI) başvuru numarası (Microsoft tarafından sağlanmaktadır) 
-
-- Özensiz programınızın adı
-
-- İş ortağı profilinizde yasal ad ve fatura adresi 
-
-- Kazanç tutarı
-
-- Vergi tutarı
-
-Channel teşvikleri (CI) başvuru numaranızı bilmiyorsanız, aşağıdaki üç yerde bulabilirsiniz: 
-
-- Microsoft 'un özensiz yöneticinize gönderdiği e-posta bildirimi. 
-
-- Hem **ücretli** hem de **bekleyen** sekmesinde [iş ortağı merkezi panosu](https://partner.microsoft.com/dashboard/) (oturum açma gerekir).  
-
-- Ödeme raporunuz, [ödeme karşıdan yükleme dışa aktarma sayfanızda](#payment-download-export)bulunur. 
-
-#### <a name="if-your-submission-is-rejected"></a>Gönderiminiz reddedilirse
-
-Reddedilen bir gönderimin en olası nedeni, vergi faturasındaki bilgilerin kayıtlarımızda bulunan bilgilerle eşleşmemesi olabilir. Eksik veya hatalı veri örnekleri şunlardır: 
-
-- Şirketinizin mal ve hizmet vergi (GST) numarası
-
-- Uyumlanmış sistem terminolojisi (HSN) ve hizmet hesabı kodu (SAC) numaraları
-
-- Fatura numarası (16 basamağı aşmamalıdır)
-
-- Fatura tarihi
-
-- Vergi değeri (dahil ve dışlamalı)
-
-- Şirketiniz Microsoft ile aynı durumdaysa, merkezi mal ve hizmet vergisinin (CGST) vergi yüzdeleri ve eyalet malları ve hizmet vergisinin (SGST) hizalanması gerekir.
-
-- Şirketiniz Microsoft 'tan farklı bir durumdaysa, tümleşik mallar ve hizmet vergisinin (ıGST) yüzdesini sağlamalısınız.
-
-Gönderimler, talep sonrasında 180 günden daha uzun bir süre sağlanıyorsa, fatura geçersizse veya veriler yanlış girildiyse de reddedilebilir.
-
-### <a name="estimated-payment-month"></a>Tahmini ödeme ayı
-
-Işlem geçmişi sayfası artık, önümüzdeki birkaç aya ait tahmini ödeme tutarlarınızı gösteren bir tablo içerir. Ayrıca, bu bilgileri Işlem geçmişi ve Özet raporu dışarı aktarmaları ' nde görüntüleyebilir ve indirebilirsiniz. Bu bilgiler mutabakatları ve ödeme projeksiyonlarını kolaylaştırır.
-
-Tahmini ödeme ayı program yapılandırma kuralları ve zaman çizelgeleri temel alınarak hesaplanır ve sonraki/yaklaşan ödeme dönemi içinde işlenir.
-
-Tahmini ödeme ayı, geçerli **değil** olarak görüntülenen ortak op hariç tüm kazanç türleri için kullanılabilir. 1 Temmuz 2020 tarihinden önceki kazançlar için tahmini ödeme ayı **kullanılamaz** olarak görünür.
-
-#### <a name="estimated-payment-month-example"></a>Tahmini ödeme ayı örneği
-
-| Ay | Miktar |
-| ------ | :-----------: |
-|  Eyl-2020 |  $7.273,99   |
-|  Eki 2020 | $8.692,30  |
-|  Kas-2020 | $107,89  |
-
-Tahmini miktar, çeşitli nedenlerle gerçek miktardan farklı olabilir:
-
-- Atık Sulama: kazançlar yeniden hesaplandıktan sonra gerçek miktar farklı olacaktır
-- Ayarlamalar: gerçek miktar, gerçekleşen veya gönderilen ayarlamaların bağlı olarak değişir.
-- Kurallar değişikliği: kurallarda yapılan değişiklik, ödenen gerçek miktardaki yeniden hesaplamayı yansıtabilir
-- Borç: ödeme hatası oluşursa, gerçek tutar farklı olabilir
-
-Ödemenizin yalnızca, programınızın eşiği ve ödeme uygunluk kuralları karşılanıyorsa öngörülen ay içinde yayınlandığını unutmayın. Bu kurallar aşağıdakileri içerir ancak aşağıdaki listeyle sınırlı değildir:
-
-- Vergi profiliniz güncel olmalıdır
-- Kazanmanız, program kılavuzumuza tanımlanan en düşük kazanç eşiğini karşılamalıdır veya aşmalıdır.
-- Beklemeye ödeme: profil atama sayfasındaki "ödemi tut" seçeneğini belirlerseniz.
-- Ödeme aracı kullanılamıyor: ödeme veya/ve vergi profili tamamlanmadı.
-
-## <a name="payment-status"></a>Ödeme durumu
-
-|**Kazanç durumu** |**Nedeni** |**İş ortağı eylemi gerekli mi?**       |
-|------------------|:-------------------------------------|:-------------------------------------|
-|İşlenmemiş        | Kazanç ödeme için uygun. Bu durum, bir soğutma dönemi için, ister program kılavuzunda, ister program kılavuzumuza göre tanımlanan bu durumda kalır.       |No        |
-|İlerideki      |Ödeme siparişi, ödeme işlenmeden önce bekleyen dahili incelemeler için üretildi.       |No       |
-|Bekleyen vergi faturası      |Vergi faturanızda eksik veya geçersiz.          |Ödeme yapabilmeniz için vergi faturanızı güncelleştirmeniz gerekir         |
-|İnceleme sırasında reddedildi        |Ödeme, gözden geçirme sırasında reddedildi.          |Ayrıntılar için Microsoft destek 'e başvurun         |
-|Başarısız        |Ödeme, bir Microsoft Sistem hatası nedeniyle başarısız oldu.         |Ayrıntılar için Microsoft destek 'e başvurun         |
-|Sürüyor     |Ödeme devam ediyor.         |No         |
-|Yanlış ödeme        |Ödeme kurtarma devam ediyor.          |No        |
-|Gönderilen        |Ödeme, bankanızla gönderilmiştir.          |No       |
-|Yeniden işleme       |Ödeme bir Microsoft sistem hatasıyla karşılaştı ve yeniden işleniyor.           |No         |
-|Reversed        |Ödeme, bankanızla ters çevrildi ve bir sonraki ödeme aşamasında yeniden gönderilecek.          |No        |
-|Vergi faturası reddedildi       |Vergi faturanızda gözden geçirme sırasında reddedildi. Tüm bekleyen ödemeler, vergi faturası incelemesi tamamlanana kadar beklemeye alınacaktır.          |Ayrıntılar için Microsoft destek 'e başvurun         |
-|Gözden geçirme kapsamında vergi faturası        |Vergi faturanızda İnceleme uygulanıyor. Vergi faturası onaylandıktan sonra ödeme serbest bırakılır.           |No        |
-|Reddedildi        |Ödeme, bankanızla reddedildi.           |Ayrıntılar için bankanızla görüşün.  |
-
-## <a name="export-data-page"></a>Verileri dışarı aktarma sayfası
-İstediğiniz verileri dışarı aktarmak için bu sayfadaki yönergeleri izleyin.
-
-Verileri dışarı aktarmaya çalıştığınızda bazı konular aşağıda verilmiştir:
-
-- Büyük hacimde veri hacmi verilirken, gönderilen istek için SLA 24 saattir.
-
-- Yalnızca MPN kimlikleri ve sizinle ilişkilendirdiğiniz programlar için verileri görürsünüz. Ek verilere erişmek istiyorsanız teşvikleri yöneticinize bakın.
-
-- Verileri dışarı aktar sayfası kendi başına yenilemez. En son verileri görmek için sayfayı el ile yenilemeniz gerekebilir.
-
-- Filtreniz, **veri kullanılamaz** hatasıyla sonuçlanabilir. Bu hata, büyük olasılıkla üç ayda bir varsayılan zaman dilimini seçmiş olduğunuz ve bu dönemin dışında bir kazantan bir ödeme KIMLIĞI seçtiğiniz anlamına gelir. Zaman döneminizin kapsamını genişletip yeniden deneyin.
-
-## <a name="payment-download-export"></a>Ödeme indirme dışarı aktarma
-Bu seçenek, belirli bir program, ilişkili vergi ve toplu kazanç miktarı için bankanızla aldığınız ödemeleri karşıdan yüklemeyi sağlar.
-
-|**Sütun adı**   |**Açıklama**   |
-|------------------|:-------------------------------------|
-|participantID   |İş ortağının birincil kimliği program altında      |
-|participantIDType   |Genellikle MPN, mağaza programları için programları ve satıcı KIMLIĞINI teşvik etmek için      |
-|participantName   |Kazanç ortağının adı      |
-|Programadı   |Program adını teşvik edin/depolayın      |
-|sıfatını   |Bu program/participantID için ödeme para birimi cinsinden kazanılan miktar      |
-|earnedUSD   |Program/katılımcı KIMLIĞI için kazanılan miktar (USD)      |
-|withheldTax   |Program/participantID için ödeme para birimi cinsinden stopaj uygulanan vergi miktarı      |
-|salesTax   |Program/participantID için ödeme para birimi cinsinden toplam satış vergisi miktarı      |
-|serviceFeeTax  |Program/participantID için para birimine göre ödeme olarak toplam serviceFeeTax miktarı |
-|Toplam ödeme   |Program/participantID için vergi stopajı hariç ve satış vergisini (varsa) dahil olmak üzere yerel para birimindeki toplam ödeme      |
-|currencyCode   |Para birimi koduna ödeme      |
-|paymentMethod   |İş ortağını ödemek için kullanılan Yöntem (elektronik banka aktarımı, Kredi dekontu)      |
-|Paymentıd   |Ödeme için benzersiz tanımlayıcı. Bu sayı genellikle banka deyiminizde görülebilir.      |
-|paymentStatus   |Ödeme durumu      |
-|paymentStatusDescription   |Ödeme durumunun kolay açıklaması      |
-|paymentDate   |Microsoft 'tan Tarih ödeme gönderildi      |
-
-## <a name="transaction-history-download-export"></a>İşlem geçmişi indirme dışarı aktarma
-Bu seçenek, teşvikleri programı için geçerli olan Işlem geçmişi sayfasında gördüğünüz her bir atma satırı öğesinin bir indirisini, tür, tarih, ilişkili işlem miktarı, müşteri, ürün ve diğer işlem ayrıntılarını sağlar.
-
->[!NOTE]
->Işlem geçmişi indirmesi dışarı aktarma, Ağustos 2020 itibariyle iki yeni alana sahiptir:
->
->- **Lastpaymentcurrency**  En son ödemenin alındığı, o anda oturum açmış olan iş ortağının erişebileceği para birimi. Ödeme alınmaz, son ödeme para birimi ABD Doları olacaktır.
->- **Earningamountınlastpaymentcurrency**  Son ödeme para biriminde kazanç miktarı.
-
-Aşağıdaki tablo, ayarlamalar için neden kodlarını ve açıklamalarını listeler.
-
-|**Neden kodu**   |**Açıklama**   |
-|------------------|:-------------------------------------|
-| AR uyumluluğu | Microsoft faturalarının iş ortağı tarafından zamanında ödenmeyen kazançlarını azaltan ayarlama. |
-| Ortak işlem geçişi | Ortak op kazançlarını başka bir döneme aktaran veya ortak op kazançlarını indirimin olarak dönüştüren ayarlama. |
-| Ops ayarlaması | Microsoft Sistem hesaplama hatalarını düzelten ayarlama. |
-| Ops ayarlaması Microsoft yanlış hesaplama | Hatalı hesaplamaları düzelten ayarlama. |
-| Ops ayarlaması Microsoft Hatalı kayıt | Kayıt ile ilgili hatalı hesaplamalar için ayarlama. |
-| İş ortağı eşlemesi (abonelik) MCI/CSP | Aboneliğin hizalaması hatalı düzeltme. |
-| İlke özel durumu | Bir program kuralını geçersiz kılan ayarlama.  |
-| Önceki dönem gelirleri | Geçerli kazanç döneminin dışındaki kazançlar için ayarlama. |
-
-Aşağıdaki tabloda, Işlem geçmişi indirme dışarı aktarma sayfasında ve açıklamalarının gösterildiği alanlar listelenmektedir.
-
-|**Sütun adı**   |**Açıklama**   |
-|------------------|:-------------------------------------|
-|customerId   |Müşteri tanımlayıcısı   |
-|customerName   |İşlem müşteri adı   |
-|earningAmount   |Orijinal işlem para birimindeki miktarı atma   |
-|Earningamountınlastpaymentcurrency   |Son ödeme para birimindeki kazanç miktarı   |
-|earningAmountUSD   |USD cinsinden miktar atma   |
-|earningDate   |Kazanlama tarihi   |
-|earningExchangeRate   |Karşılık gelen USD tutarını göstermek için kullanılan döviz kuru   |
-|Eardokgıd   |Her bir atma için benzersiz tanımlayıcı   |
-|Eardokgrate   |Bir kazanç oluşturmak için işlem tutarına uygulanan teşvik oranı   |
-|earningType   |Bir ücret, indirim, ortak işlem, satış vb. olup olmadığını gösterir.   |
-|Tahmini ödeme ayı   |Minimum eşik ve ödeme uygunluk kuralları karşılandığı için tahmini tutara sahip ödemenin tahmini ayı   |
-|exchangeRateDate   |EarningAmount USD 'yi hesaplamak için kullanılan döviz kuru tarihi   |
-|lastPaymentCurrency   |En son ödemenin alındığı, o anda oturum açmış olan iş ortağının erişebileceği para birimi. Ödeme alınmaz, son ödeme para birimi ABD Doları olacaktır.   |
-|düzeyi   |Kazanç için iş kuralını gösterir   |
-|participantID   |İş ortağının birincil kimliği program altında   |
-|participantIDType   |Genellikle MPN, mağaza programları için programları ve satıcı KIMLIĞINI teşvik etmek için   |
-|participantName   |Kazanç ortağının adı   |
-|partnerCountryCode   |Kazanç ortağının konumu/ülkesi   |
-|Paymentıd   |Ödeme için benzersiz tanımlayıcı. Bu sayı genellikle banka deyiminizde görülebilir.   |
-|paymentStatus   |Ödeme durumu   |
-|paymentStatusDescription   |Ödeme durumunun kolay açıklaması   |
-|Programadı   |Program adını teşvik edin/depolayın   |
-|miktar |Bu alan programa göre değişir. İşlem programları için faturalandırılan miktarı gösterir. |
-|Işlem miktarı   |Orijinal işlem para biriminde, kazanıştan oluşan işleme göre işlem miktarı   |
-|transactionAmountUSD   |USD cinsinden işlem miktarı   |
-|transactionCountryCode   |İşlem satın alma/ülke koduna Satım   |
-|Işlem para birimi   |Orijinal müşteri işleminin gerçekleştiği para birimi   |
-|transactionDate   |İşlemin tarihi. Birçok işlemin tek bir kazana katkıda bulunduğu programlar için yararlıdır.   |
-|transactionExchangeRate  |Karşılık gelen USD tutarını göstermek için kullanılan döviz kuru tarihi |
-
-Yukarıdaki tabloya ek olarak, bu Işlem geçmişi alanları program için geçerli olacak şekilde kullanılabilir.
-
-|**Sütun adı**   |**Açıklama**   |
-|------------------|:-------------------------------------|
-|partNumber   |Hareketle bağlantılı parça numarası. Microsoft terminolojisi.   |
-|productName   |Ürün ailesi adı işleme göre   |
-|Faturanumarası   |Fatura numarası   |
-|subscriptionId   |Müşteriyle ilişkili abonelik tanımlayıcısı   |
-|subscriptionStartDate   |Abonelik başlangıç tarihi   |
-|subscriptionEndDate   |Abonelik bitiş tarihi   |
-|OfferId   |TBD   |
-|ResellerID   |Satıcı tanımlayıcısı   |
-|Reselleradı   |Satıcı adı   |
-|distributorId   |Dağıtıcı tanımlayıcısı   |
-|distributorName   |Dağıtıcı adı   |
-|agreementNumber   |Anlaşma numarası   |
-|agreementStartDate   |Sözleşme başlangıç tarihi   |
-|agreementEndDate   |Anlaşma bitiş tarihi   |
-|iş yükü   |İş Yükü   |
-
-## <a name="transaction-summary-report"></a>İşlem Özeti raporu
-
->[!NOTE]
->İşlem Özeti raporu tüm programlarınızı veya gelirlerinizi göstermez. Bu, yalnızca toplanan çatı üzerinde odaklanan bir özettir. 
-
-İşlem Özeti raporu, toplanan kazanıcılar için müşteri adları ve abonelik kimlikleri dahil olmak üzere özet düzeyi işlem ayrıntılarını sağlar. Rapor, birden çok işlem ile ilişkili her bir atma KIMLIĞINI de kapsar. Bu kazanç KIMLIĞI için toplam kazanç tutarı ve kazanç ayrıntıları, her müşteri/abonelik için yinelenir. Bunun nedeni, teşvikleri for toplacılar için, abonelik başına değil toplu olarak kazanılmasından kaynaklanır.
-
-
-### <a name="download-the-transaction-summary-report"></a>İşlem Özeti raporunu indirin
-
-1. **Teşvikleri genel bakış** sayfasında sağ üst köşedeki **para** (ödeme) simgesini seçin.
-2. **Verileri dışarı aktar** 'ı seçin.
-3. **Işlem Özeti** sekmesini seçin.
-4. Toplu kazanç için uygun olan programları ve çatı dosyalarını görmek için uygun filtreleri seçin. Hiçbir veri gösterilmezse, programlarınız toplu çatı için uygun değildir.
-5. Raporu dışarı aktarmak için **Indirmeyi Başlat** ' ı seçin   .  
-
->[!NOTE]
->İşlem Özeti raporu, 60 günden daha yeni abonelikler için müşteri ve abonelik bilgilerini içermez ya da tüketim geliri bir sent 'tan az olursa.
-
-|Sütun adı |Description |
-|------ |:-----------|
-|  Eardokgıd | Her bir atma için benzersiz tanımlayıcı  |
-|  participantId | İş ortağının birincil kimliği program altında  |
-|  participantIdType | Genellikle MPN, mağaza programları için programları ve satıcı KIMLIĞINI teşvik etmek için  |
-|  participantName | Kazanç ortağının adı  |
-|  partnerCountryCode | Kazanç ortağının konumu/ülkesi  |
-|  Programadı | Program adını teşvik edin/depolayın  |
-|  düzeyi | Kazanç için iş kuralını gösterir  |
-|  Eardokgrate | Bir kazanç oluşturmak için işlem tutarına uygulanan teşvik oranı  |
-|  earningType | Bir ücret, indirim, ortak işlem, satış vb. olup olmadığını gösterir.  |
-|  earningAmount | Orijinal işlem para birimindeki miktarı atma  |
-|  earningAmountUSD | USD cinsinden miktar atma  |
-|  earningDate | Kazanlama tarihi  |
-|  earningExchangeRate | Karşılık gelen USD tutarını göstermek için kullanılan döviz kuru  |
-|Tahmini ödeme ayı   |Minimum eşik ve ödeme uygunluk kuralları karşılandığı için tahmini tutara sahip ödemenin tahmini ayı   |
-|  exchangeRateDate | EarningAmount USD 'yi hesaplamak için kullanılan döviz kuru tarihi  |
-|  Işlem ayı |  İşlem ayı   |
-|  Işlem para birimi | Orijinal müşteri işleminin gerçekleştiği para birimi  |
-|  totalTransactionAmountUSD |  Toplam işlem   |
-|  customerId | Müşteri tanımlayıcısı  |
-|  customerName | İşlem müşteri adı  |
-|  subscriptionId | Müşteriyle ilişkili abonelik tanımlayıcısı  |
-|  subscriptionStartDate | Abonelik başlangıç tarihi  |
-|  subscriptionEndDate | Abonelik bitiş tarihi  |
-|  agreementNumber | Anlaşma numarası  |
-|  Faturanumarası |  Fatura kimliği   |
-|  partNumber | Hareketle bağlantılı parça numarası. Microsoft terminolojisi.  |
-|  ResellerID | Satıcı tanımlayıcısı  |
-|  Reselleradı | Satıcı adı  |
-|  distributorId | Dağıtıcı tanımlayıcısı  |
-|  distributorName | Dağıtıcı adı   |
-|  Paymentıd | Ödeme için benzersiz tanımlayıcı. Bu sayı genellikle banka deyiminizde görülebilir.|  
+Ayrıca, [Iş ortağı ödeme API](https://apidocs.microsoft.com/services/partnerpayouts) 'sini kullanarak doğrudan ödeme ve ödeme verilerini alabilir ve elde edebilirsiniz. Daha fazla bilgi için bkz. [ödeme deyimleri](payout-statement.md) .
 
 ## <a name="next-steps"></a>Sonraki adımlar
-- [Teşvikleri ödemeler sayfanıza erişin](incentives-unified-user-guide.md)
+- [Ödeme deyimleri](payout-statement.md)
