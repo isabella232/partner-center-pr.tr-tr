@@ -71,7 +71,7 @@
           displayName: mpn
     - name: Azure Uzman MSP olma
       href: azure-expert-msp.md
-    - name: Yararları
+    - name: Avantajlar
       items:
         - name: Avantajlara genel bakış
           href: manage-your-partner-network-benefits.md
@@ -279,18 +279,12 @@
         - name: Ödeme ve vergi profillerini anlama
           href: incentives-create-and-manage-your-payout-and-tax-profiles.md
           displayName: incentives
-        - name: Ödeme ve vergi profilleri hakkında SSS'ler
-          href: incentives-payout-tax-profile-faqs.md
-          displayName: incentives
         - name: Kazançların uygunluğunu kontrol etme
           href: incentives-confirm-your-earnings-eligibility.md
           displayName: incentives
-        - name: Ödemeleri ve programları görüntüleme
+        - name: Programları ve ödemeleri görüntüleme
           href: understand-incentive-payouts.md
           displayName: 'mpn, incentives'
-        - name: Ödemeler sayfanıza erişme
-          href: incentives-unified-user-guide.md
-          displayName: incentives
     - name: Planlar ve yürütme kanıtları
       items:
         - name: Planları ve yürütme kanıtlarını (PoE) anlama
@@ -433,23 +427,21 @@
       displayName: csp
 - name: Ödeme alma
   items:
+    - name: Ödeme alma
+      href: marketplace-get-paid.md
+    - name: Ödeme deyimleri
+      href: payout-statement.md
     - name: 'Ödeme yapılmaması, sahtekarlık veya suistimal durumlarını yönetme'
       href: non-payment-fraud-misuse.md
     - name: Ayrılmamış ödemeleri yönetme
       href: unallocated-payment.md
-    - name: Ticari market ödemeleri
-      items:
-        - name: Ödeme alma - market
-          href: marketplace-get-paid.md
-        - name: Ödeme ilkesi ayrıntıları
-          href: payout-policy-details.md
-        - name: 'Ödeme eşikleri, yöntemleri ve zaman çerçeveleri'
-          href: payment-thresholds-methods-timeframes.md
-        - name: Ödeme deyimleri
-          href: payout-statement.md
-          displayName: invoice
-        - name: Ödemeler hakkında SSS
-          href: payout-faq.md
+    - name: Ödeme zamanlamaları ve süreçleri
+      href: payout-policy-details.md
+    - name: 'Ödeme eşikleri, yöntemleri ve zaman çerçeveleri'
+      href: payment-thresholds-methods-timeframes.md
+      displayName: invoice
+    - name: Ödeme ve vergi profilleri hakkında SSS
+      href: payout-faq.md
 - name: Müşterilerle bağlantı kurma
   items:
     - name: Müşterilerinizle bağlantı kurma
@@ -642,7 +634,7 @@
           items:
             - name: Azure kullanımı
               href: pci-azure-usage-report.md
-            - name: Yararları
+            - name: Avantajlar
               href: pci-benefits-report.md
             - name: CloudAscent eğilimi
               href: pci-customer-opportunities.md
@@ -663,10 +655,12 @@
               displayName: 'indirect, reseller'
             - name: Eğitim
               href: pci-training-dashboard.md
-        - name: Bilinen sorunlar
+        - name: İçgörüler-SSS
           href: pci-known-issues.md
         - name: İçgörüler raporlarını indirme
           href: pci-download-reports.md
+        - name: İçgörü verilerinin tanımları
+          href: pci-data-definitions.md
     - name: İş Ortağı Katkısı Göstergeleri
       href: partner-contribution-indicators.md
       displayName: mpn
