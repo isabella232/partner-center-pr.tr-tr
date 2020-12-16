@@ -1,7 +1,7 @@
 ---
 title: Avantajlar hakkında SSS'ler
 ms.topic: article
-ms.date: 09/08/2020
+ms.date: 12/15/2020
 description: Azure, Cloud, Visual Studio ve teknik ve destek avantajlarına yönelik avantajların süresi, yenilenmesi ve etkinleştirilmesi ile ilgili soruların yanıtları
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
@@ -9,12 +9,12 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOJUNE20
-ms.openlocfilehash: 61ceb869d2268b441d990049b9956da8ea87f8f5
-ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
+ms.openlocfilehash: f4ed4fe8946c6cacba1277921aececd84863c465
+ms.sourcegitcommit: 1d4d06642a5203d4d313fe76b137dd6be45d4728
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96570697"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "97514698"
 ---
 # <a name="benefits-faq"></a>Avantajlar hakkında SSS'ler
 
@@ -98,7 +98,7 @@ Aşağıdaki adımları uygulayarak, Iş Ortağı Merkezi 'nde veya Azure Active
 Aboneliği atadıktan sonra, kullanıcının yönetmek için Visual Studio 'da oturum açması gerekir.
 
 >[!Note]
-> Visual Studio abonelikleri, ilk atamadan bir aboneden başka 90 güne yeniden atanabilir.
+> Özgün atamanın zamanından bu yana 90 gün geçtikten sonra Visual Studio abonelikleri bir aboneden diğerine yeniden atanabilir.
 
 ## <a name="technical-benefits-and-support"></a>Teknik avantajlar ve destek
 

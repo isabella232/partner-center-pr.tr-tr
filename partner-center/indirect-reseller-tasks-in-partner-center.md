@@ -1,7 +1,7 @@
 ---
 title: CSP programındaki dolaylı sağlayıcılarla çalışma
 ms.topic: how-to
-ms.date: 10/09/2020
+ms.date: 12/11/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Müşteri desteği ve faturalandırmayla ilgili yardım almak için dolaylı satıcıların Microsoft dolaylı sağlayıcıları (veya dağıtımlarıyla) ile nasıl çalışacağınızı öğrenin.
@@ -10,16 +10,14 @@ ms.custom: contperf-fy21q2
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
-ms.openlocfilehash: 082574f381186731cee023cfcdfa04b46d0ba1c5
-ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
+ms.openlocfilehash: 3fc6b50280ac07f7c68c5a0913d0938d5eadd7f5
+ms.sourcegitcommit: 1d4d06642a5203d4d313fe76b137dd6be45d4728
 ms.translationtype: MT
 ms.contentlocale: tr-TR
 ms.lasthandoff: 12/15/2020
-ms.locfileid: "97492407"
+ms.locfileid: "97514733"
 ---
 # <a name="learn-how-to-partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Bulut çözümü sağlayıcısı programındaki dolaylı sağlayıcılarla iş ortağı hakkında bilgi edinin
-
-
 
 **Uygun roller**
 
@@ -70,33 +68,22 @@ CSP programında dolaylı bir satıcı olarak satış için gerekenler hakkında
 
 2. Kaydolmak için gereken bilgilere sahip olduğunuzdan emin olmak için **hoş geldiniz sayfasını** gözden geçirin ve ardından **İleri**' yi seçin.
 
-3. İş hesabınızla oturum açın. **Oturum aç** ' ı seçin ve Office 365, Microsoft Azure veya MICROSOFT Dynamics CRM için genel yönetici olarak oturum açmak için kullandığınız kullanıcı adını ve parolayı girin.
+3. İş hesabınızı kullanarak oturum açın-Office 365, Microsoft Azure veya Microsoft Dynamics CRM için genel yönetici olarak oturum açmak için kullandığınız Kullanıcı adı ve parola. Bir iş hesabınız yoksa, şimdi bir tane ayarlamak için **Oluştur** ' u seçin. İş hesabınızı oluşturduktan sonra, yeni hesabınız için genel yönetici kimlik bilgilerini kullanarak oturum açın.
 
-   Bir iş hesabınız yoksa, şimdi bir tane ayarlamak için **Oluştur** ' u seçin. İş hesabınızı oluşturduktan sonra, yeni hesabınız için genel yönetici kimlik bilgilerini kullanarak oturum açın.
-
-4. Microsoft İş Ortağı Ağı KIMLIĞINIZI (MPN KIMLIĞI) yeni Iş Ortağı Merkezi hesabınızla nasıl ilişkilendirdiğinizden ilgili bilgileri gözden geçirin. Üyelik avantajlarınızı ve teşvikleri Iş Ortağı Merkezi 'ni yönetmek için şirketinizin MPN KIMLIĞINI yeni Iş Ortağı Merkezi hesabınızla bağlantımız gerekir. **Oturum aç**'ı seçin.
-
-5. Iş ortağı üyelik Merkezi (PMC) sitesinde oturum açmak için kullandığınız kullanıcı adını girin. Iş ortağı üyelik Merkezi sitesi, şu anda Microsoft iş ortağı hesabınızı yönettiğiniz yerdir. Iş ortağı üyeliği merkezinde oturum açmak, MPN KIMLIĞINIZI alıp yeni Iş Ortağı Merkezi hesabınızla ilişkilendirmemizi sağlar. **İleri**’yi seçin.
-
-6. Iş ortağı üyelik Merkezi hesabınız için parola girin ve **oturum aç '** ı seçin.
-
-7. MPN KIMLIĞINE sahip şirket profilini teşvikleri, üyelik avantajlarına ve Uzmanlarınıza bağlı olarak seçin. Daha sonra bu bilgileri Iş Ortağı Merkezi hesabınıza taşıyabiliriz. **Devam**’ı seçin.
-
-   Kullanmak istediğiniz MPN KIMLIĞI bu sayfada listelenmiyorsa, **iptal** ' i seçin ve kullanmak istediğiniz şirket profilinin Kullanıcı adı ve parolasıyla yeniden oturum açın.
 
    > [!IMPORTANT]  
-   > Azure AD kiracınızla aynı ülkede/bölgede bulunan etkin bir şirket profiliyle ilişkili MPN KIMLIĞINI seçin.
+   > Azure AD kiracınızla aynı ülkede/bölgede bulunan etkin şirket profiliyle ilişkili MPN KIMLIĞINI seçin.
 
-8. Şirketinizin yasal iş profilini, birincil iletişim bilgilerini ve müşteri destek bilgilerini sağlayın veya güncelleştirin. **Şimdi kaydet**' i seçin.
+4. Şirketinizin yasal iş profilini, birincil iletişim bilgilerini ve müşteri destek bilgilerini sağlayın veya güncelleştirin. (Yasal iş bilgilerinizi bulmak için **kuruluş profili** ' ni seçin ve ardından **yasal bilgiler**' i seçin.) **Şimdi kaydet**' i seçin.
 
-   Birincil ilgili kişi, şirketinizde sizinle iletişim kurabildiğimiz kişi olmalıdır. Birincil iletişim, sizin veya şirketinizdeki başka bir kişi olabilir. Note: Gmail, Yahoo! gibi Web tabanlı e-posta hizmetlerinden e-posta adreslerini kabul etmedik Mail, iCloud Mail, AOL Mail veya Outlook Mail.
+   Birincil iletişim sorumlusu, şirketinizde sizinle iletişim kurabildiğimiz kişidir. Bu, sizin veya şirketinizdeki başka bir kişi olabilir. Note: Gmail, Yahoo! gibi Web tabanlı e-posta hizmetlerinden e-posta adreslerini kabul etmedik Mail, iCloud Mail, AOL Mail veya Outlook Mail.
 
    > [!IMPORTANT]  
    > Şirketinizin güvenliğinin ve gizliliğinin sağlanmasına yardımcı olmak için, birincil kişinize e-posta ile bir Iş Ortağı Merkezi hesabına kaydolup (1), bu e-posta adresinin şirketinize ait olduğunu doğrulayın. Birincil iletişim e-posta adresini doğruladıktan sonra, verdiğiniz bilgileri gözden geçirmemiz için devam edeceğiz. Kayıt durumu güncelleştirmelerini birincil ilgili kişiye e-posta ile göndereceğiz.
 
-9. Iş Ortağı Merkezi hesabınız kullanıma hazırsa, Yönetim Aracısı grubuna eklendiğinizi doğrulayın. Diğer kullanıcıları ekleme dahil olmak üzere hesabınızı ayarlamayı tamamlaması için yönetici Aracısı izinlerinizin olması gerekir. İzinlerinizi görüntülemek veya güncelleştirmek için şu adımları izleyin:
+5. Iş Ortağı Merkezi hesabınız kullanıma hazırsa, Yönetim Aracısı grubuna eklendiğinizi doğrulayın. Diğer kullanıcıları ekleme dahil olmak üzere hesabınızı ayarlamayı tamamlaması için yönetici Aracısı izinlerinizin olması gerekir. İzinlerinizi görüntülemek veya güncelleştirmek için şu adımları izleyin:
 
-   1. **Iş ortağı merkezinizde**, **Ayarlar** simgesini ve ardından **Kullanıcı yönetimi**' ni seçin.
+   1. Iş Ortağı Merkezi panosunda, **Ayarlar** simgesini seçin ve ardından **Hesap ayarları** altında **Kullanıcı yönetimi**' ni seçin.
 
    2. Kullanıcı listesinden adınızı seçin. Daha sonra seçili değilse **yönetici Aracısı** ' nı seçin. **Güncelleştir**’i seçin.
 
@@ -136,6 +123,10 @@ Dolaylı bir sağlayıcı Iş Ortağı Merkezi 'nde sizinle bağlantı kurmak is
 
    > [!IMPORTANT]  
    > Dolaylı sağlayıcılarınızın, kendi adına sipariş göndermek için müşterilerinizle birlikte satıcı ilişkisine sahip olması gerekir.
+
+## <a name="your-csp-country-and-the-csp-regions-where-you-do-business"></a>CSP ülkeniz ve iş yaptığınız CSP bölgeleri
+
+CSP dolaylı satıcısı olarak yasal iş konumunuz, iş yapabileceğiniz dolaylı sağlayıcıları ve CSP iş yapabileceğiniz bölgeleri belirler. [Bulut çözüm sağlayıcısı programı bölgesel pazarları ve CSP teklifleri sattığınız para birimlerini](regional-authorization-overview.md)okuyarak daha fazla bilgi edinin.
 
 
 ## <a name="next-steps"></a>Sonraki adımlar

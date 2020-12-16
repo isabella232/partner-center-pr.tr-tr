@@ -8,13 +8,13 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.date: 10/29/2020
-ms.openlocfilehash: 882617433f7cf2bce01de8dce608951a9a13c77e
-ms.sourcegitcommit: fdc32c0afce88f8266f75746ec15bf04745590ad
+ms.date: 12/15/2020
+ms.openlocfilehash: 7efd3ab2303f66fbd2b02e872e51be6c0e64993c
+ms.sourcegitcommit: 1d4d06642a5203d4d313fe76b137dd6be45d4728
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 11/07/2020
-ms.locfileid: "94360029"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "97514706"
 ---
 # <a name="requirements-to-enroll-as-a-csp-direct-bill-partner"></a>CSP Doğrudan Fatura Ortağı olarak kaydolma gereksinimleri
 
@@ -57,7 +57,6 @@ Doğrudan bir fatura işletmeden dolaylı Bayi işletmeye taşımaya karar verir
 
 - [Doğrudan fatura ortakları için yeni gelir gereksinimi](./announcements/2020-october.md#13)
  
-
 - [Dolaylı satıcı olma hakkında ek bilgiler](https://assetsprod.microsoft.com/csp-directbill-to-indirect-transition.pdf)
 
-- [Faturanızı dolaylı satıcıya doğrudan SSS](https://assetsprod.microsoft.com/mpn/direct-bill-partner-faq.pdf)
+- [CSP 'de doğrudan Bill partner gereksinimleri için yeni performans standardı](https://partner.microsoft.comresources/collection/new-performance-standard-for-direct-bill-partner-requirements-in-csp#/)

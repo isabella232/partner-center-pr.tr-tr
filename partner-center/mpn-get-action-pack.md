@@ -1,7 +1,7 @@
 ---
 title: Microsoft Eylem Paketi tekliflerini satın alma veya yenileme
-ms.topic: article
-ms.date: 11/23/2020
+ms.topic: how-to
+ms.date: 12/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Microsoft Eylem Paketi aboneliğini satın almayı ve Eylem Paketi avantajları kullanmaya nasıl başlayacağınızı öğrenin. Ayrıca bkz. yenilemeyi, iptal etmeyi, faturanızı görüntülemeyi ve daha fazlasını öğrenin.
@@ -9,20 +9,15 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 658524b9f916d929fc7e07701ca339d64de95fca
-ms.sourcegitcommit: c5e9175792a4e2aac50bfae78fcef18e3cc9922a
+ms.openlocfilehash: 32b8eafa688ce6210ec0732368d8dd6892e61d75
+ms.sourcegitcommit: 1d4d06642a5203d4d313fe76b137dd6be45d4728
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 11/24/2020
-ms.locfileid: "95812844"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "97514726"
 ---
 # <a name="buy-or-renew-a-microsoft-action-pack-subscription-or-silver-and-gold-competencies"></a>Microsoft Eylem Paketi aboneliği veya Silver ve Gold uzmanlık satın alma veya yenileme
 
-**Şunlara uygulanır**
-
-- İş Ortağı Merkezi
-- İş ortağı üyeliği merkezi
-- MPN program iş ortakları
 
 **Uygun roller**
 
@@ -30,13 +25,13 @@ ms.locfileid: "95812844"
 - Kullanıcı yöneticisi
 - MPN iş ortağı Yöneticisi
 - Yönetim Aracısı
-- Satış Aracısı
 
-Artık, Iş Ortağı Merkezi [panosundan](https://partner.microsoft.com/dashboard)Microsoft İş Ortağı Ağı (MPN.MD) üyeleri, avantaj tekliflerinizi satın alabilir veya yenileyebilir. Bu tekliflere Microsoft Eylem Paketi aboneliği ve gümüş ve altın uzmanlık olanakları dahildir.
+
+Iş Ortağı Merkezi [panosundan](https://partner.microsoft.com/dashboard), Microsoft iş ortağı ağı (MPN)) üyeleri, Microsoft eylem paketi aboneliği ve gümüş ve altın uzmanlık olanakları dahil olmak üzere avantaj teklifleri satın alabilir veya yenileyebilir.
 
 ## <a name="buy-microsoft-action-pack-for-the-first-time"></a>Microsoft Eylem Paketi ilk kez satın alın
 
-Microsoft ile ortaklık kullanmaya yeni başladıysanız ilk adım Microsoft İş Ortağı Ağı katılacağız. İş ortağı ağının zaten bir üyesi değilseniz, iş ortağı ağı sitesindeki [Üyelik sayfasına](https://partner.microsoft.com/membership) gidin ve kaydolmak için hazır olduğunuzda **Şimdi Birleştir** ' i seçin. 
+Microsoft ile ortaklık kullanmaya yeni başladıysanız ilk adım Microsoft İş Ortağı Ağı katılacağız. MPN 'ye katılabilmek için iş ortağı ağı sitesindeki [Üyelik sayfasına](https://partner.microsoft.com/membership) gidin ve kaydolmak için hazır olduğunuzda **Şimdi Birleştir** ' i seçin.
 
 İş ortağı ağa başarıyla katıldıktan sonra, ilk Eylem Paketi aboneliğinizi satın almak için [iş ortağı ağ sitesindeki](https://partner.microsoft.com/membership/action-pack) (oturum açma gerekir) yönergeleri izleyin. 
 
@@ -62,7 +57,7 @@ Microsoft ile ortaklık kullanmaya yeni başladıysanız ilk adım Microsoft İ�
 2. **Aboneliği Yenile** ' yi seçin ve ardından ödeme yönteminizi seçin. Kredi kartı veya elektronik banka aktarımı kullanarak ödeme yapabilirsiniz.
 
     >[!NOTE]
-    >**Yenileme aboneliği** görüntülenmiyorsa veya gri ise, eylem paketi aboneliğinizi yenilemeye henüz hak kazanmış olursunuz. Yenileme penceresi ilkenizi değiştirdik ve aboneliğinizi yalnızca süresi dolduktan sonra yenileyebiliriz. Örneğin, aboneliğinizin süresi 22 Haziran tarihinde dolarsa, 23 Haziran 'dan itibaren ve sonrasında 30 gün boyunca yenileme yapabilirsiniz.  
+    >**Yenileme aboneliği** görüntülenmiyorsa veya gri ise, eylem paketi aboneliğinizi yenilemeye henüz hak kazanmış olursunuz. Aboneliğinizi yalnızca süresi dolduktan **sonra** yenileyebilmeniz için yenileme penceresi ilkenizi değiştirdik. Örneğin, aboneliğinizin süresi 22 Haziran tarihinde dolarsa, 23 Haziran 'dan itibaren ve sonrasında 30 gün boyunca yenileme yapabilirsiniz.  
 
 3. Kredi kartı ile ödeme yapıyorsanız, kredi kartı bilgilerinizi ekleme yönergelerini izleyin. Elektronik banka aktarımına göre ödeme yaptıysanız, bir kişi adı, telefon numarası ve e-posta adresi girip **Gönder**' i seçin.
 
@@ -70,15 +65,13 @@ Microsoft ile ortaklık kullanmaya yeni başladıysanız ilk adım Microsoft İ�
 
 5. Siparişiniz onaylandı. **Kapat**’ı seçin.
 
-Eylem Paketi aboneliğiniz, her yıl otomatik olarak bu tarihte yenilenecek.
-
 ### <a name="update-your-bill-to-address"></a>Faturanızda adresinizi güncelleştirme
 
 Eylem Paketi yenileme veya satın alma işleminde, fatura adresini doğrulama olanağınız vardır.
 
  1. **Gönder**' i seçtikten sonra, satın alımınızın ayrıntılarını gözden geçirebilirsiniz. Adresinizin güncelleştirilmesi gerektiğini görürseniz **Güncelleştir** ' i seçin.
   
- 1. **Iş ortağı profili** sayfasında, adresinizi güncelleştirin.
+ 1. **Yasal profil** sayfasında, adresinizi güncelleştirin.
 
 ## <a name="cancel-your-action-pack-subscription"></a>Eylem Paketi aboneliğinizi iptal etme
 
@@ -115,6 +108,3 @@ Hizmet isteğinizin durumunu denetlemek için, **destek**'Ten **iş ortağı mer
 -   [Kullanıcı ekleme ve izin atama](create-user-accounts-and-set-permissions.md)
 
 -   [Microsoft’tan müşteri adaylarını almak için iş profili oluşturma](create-a-marketing-profile.md)
-
-
-

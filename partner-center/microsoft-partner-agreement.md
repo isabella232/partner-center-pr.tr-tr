@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: d8dac9e5d8720a39d6bf585a1f6cd9bd5c70465a
-ms.sourcegitcommit: 175fa04ba45a1133b77d8055a0123561bd987415
+ms.openlocfilehash: 09653cbe4db15678db94a1012861924a6c7cf6c9
+ms.sourcegitcommit: 1d4d06642a5203d4d313fe76b137dd6be45d4728
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "96926687"
+ms.lasthandoff: 12/15/2020
+ms.locfileid: "97514763"
 ---
 # <a name="learn-about-the-microsoft-partner-agreement-mpa-for-csp-program-partners"></a>CSP program iş ortakları için Microsoft Iş ortağı Sözleşmesi (MPA) hakkında bilgi edinin
 
@@ -56,7 +56,7 @@ CSP programına katılmayı sürdürmek için, Microsoft Iş ortağı sözleşme
 
 1. **Ayarlar** ' dan [iş ortağı profili](https://partner.microsoft.com/pcv/accountsettings/partnerprofile)' ni seçin.
 
-1. **Program bilgileri** bölümünü denetleyin. Bilgileriniz **dolaylı satıcı** durumunu göstermezse [dolaylı satıcı olarak kaydetmeniz](https://partner.microsoft.com/cloud-solution-provider/whats-required)gerekir.
+1. **Program bilgileri** bölümünü denetleyin. Bilgileriniz **dolaylı satıcı** durumunu göstermezse [dolaylı satıcı olarak kaydetmeniz](indirect-reseller-tasks-in-partner-center.md)gerekir.
 
 1. **Dolaylı satıcı** durumu **etkin** Ise, iş ortağı merkezi 'nde etkin bir dolaylı satıcıdır.
  
