@@ -9,18 +9,72 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 12/02/2020
-ms.openlocfilehash: 1341e60fd9914f421fd59335a8f037f3d915b72f
-ms.sourcegitcommit: bc44a6e0c5ef048cda6e882fdb543c13c5b64912
+ms.openlocfilehash: 841ef4701ef7c973cc7a4fffaa26bb24b8d6f7e9
+ms.sourcegitcommit: e9066768ab8e242c03f0a7e3ce460ae8cd2e3fda
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "96869308"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "97622159"
 ---
 # <a name="december-2020-announcements"></a>Aralık 2020 duyuruları
 
 Bu sayfada, Kasım 2020 ' de Microsoft Iş Ortağı Merkezi duyuruları ayrıntılı olarak yer alındı.
 
-2020 Duyuruları: [Nisan](2020-april.md)ayında  |  [May](2020-may.md)  |  [June](2020-june.md)  |  [July](2020-july.md)  |  [August](2020-august.md)  |  [September](2020-september.md)  |  [October](2020-October.md)  |  [Kasım](2020-november.md) ayında Haziran ayında | Ayının
+2020 Duyuruları: [Nisan](2020-april.md)ayında  |  [](2020-may.md)  |  [](2020-june.md)  |  [](2020-july.md)  |  [](2020-august.md)  |  [](2020-september.md)  |  [](2020-October.md)  |  [Kasım](2020-november.md) ayında Haziran ayında | Ayının
+
+______________
+
+## <a name="power-apps-promo-offer-now-available"></a><a name="5"></a>Power Apps promosyon teklifi artık kullanılabilir
+
+### <a name="categories"></a>Kategoriler
+
+- Tarih: 2020-12-16
+- Teklifler/Pazarlar
+
+### <a name="impacted-audience"></a>Etkilenen hedef kitle
+
+Tüm iş ortakları bulut çözümü sağlayıcısı (CSP) programı üzerinden deneyimidir
+
+### <a name="details"></a>Ayrıntılar
+
+Başlangıçta 1 Aralık 1 için planlanan Power Apps promosyon teklifi biraz gecikti. Teklif 16 Aralık 2020 ' de kullanılabilir olmalıdır. Bu teklif, daha düşük bir fiyatla sunulur ve Iş Ortağı Merkezi 'nde tipik tekliflerden başka bir önemli fark içerir.
+ 
+**Teklif Ayrıntıları**
+
+- Teklif, 30 Haziran 2021 ' e kadar satın alınabilir.
+- Teklif, diğer CSP teklifleri gibi, daha düşük bir fiyata göre 12 aylık bir terimdir.
+- Bu teklif, autorenew değil ve 12 aylık dönemin sonunda sona erecektir. Başlangıçta, autorenew özelliği **true** olarak ayarlanacak, ancak teklif 12 aylık dönemin sonunda teklifin süresi dolacak şekilde bu değiştirilecek.
+- İş ortaklarının, ilk promosyon teklifi tarafından sunulan hizmetleri kullanmaya devam etmek istiyorlarsa, promosyon olmayan fiyatsız teklifi (teklif kimliği: 5e1087b6-246B-4503-b88a-b60bdf0b3840), 12 aylık süre sonundan önce satın alması gerekir.
+
+**Fiyatlandırma ayrıntıları**
+
+Bu teklif için aşağıdaki teklif fiyatlandırma ayrıntıları Ocak 2021 fiyat listesinde olacaktır.
+
+- Teklif görünen adı: uygulama planı yükseltmesi başına Power Apps (200 koltuk dk)
+- Teklif KIMLIĞI: 988b7b06-e034-4b3e-89EA-51198cb2723e
+- Lisans sözleşmesi türü: Kurumsal
+- Satın alma birimi: 1 ay
+- İkincil lisans türü: özel olmayan
+- Fiyatları listeleyin: liste fiyatları [Bu konumdan](https://partnercenter.microsoft.com/pc/api/cms/rtdownload?id=sales/RE4Lr1n)indirilebilir. Note: fiyatları indirmek için Iş Ortağı Merkezi 'Nde oturum açmanız gerekir. Iş Ortağı Merkezi 'Nde oturum açmadıysanız, bir **durum yetkisiz** hata iletisi alırsınız.
+- ERP fiyatı: henüz kullanılabilir değil, bu teklifin ERP 'yi 1/1/2021 tarihinde sonraki Ocak Fiyat listesi güncelleştirmesinde arayın
+- Malzeme KIMLIĞI: SEQ-00016
+ 
+**Teklif Ayrıntıları**
+
+Bu teklif için aşağıdaki teklif ayrıntıları Ocak 2021 teklif listesi matrisinde olacaktır.
+
+- Sağlama KIMLIĞI: POWERAPPS_PER_APP
+- Süre: 1 yıl
+- Faturalandırma sıklığı: aylık; Gerçekleştirilebilir
+- En az koltuk sayısı: 200
+- En fazla bilgisayar sayısı: 10000000
+- Teklif sınırı: yok
+- İzin verilen ülkeler: ABD harici Adaları; İngilizce (Fransız Güney toprakları); Bouvet Adası; İngiliz Hint Okyanusu Toprakları; Yemen Heard ve Mc Donald Adaları; Wallis ve Futuna; Vanuatu Antarktika Tuvalu Somali Tokelau; Sierra Taone; Svaziland Saint Helena, Ascension ve Tristan da Cunha; Sao Tome ve Principe; Pitcairn Adaları; Palau Solomon Adaları; Nauru Niue; Norfolk Adası; Ya Kuzey Mariana Adaları; Lesotho Kiribati Ekvator Ginesi; Gine-Bissau; Cook Adaları; Eritre Noel Adası; Burkina Faso; Orta Afrika Cumhuriyeti; Kosova Cocos (Keeling) Adaları; Svalbard ve Jan Mayen; Bu Adaları; Güney Sudan; Güney Georgia ve Güney Sandwich Adaları; Devleti Saint Barthétamy; İngiliz Virgin Adaları; Saint Pierre ve Miquelon; Çad J Montserrat; Guyana Haiti Gambiya Guam Gine Gabon Grenada; Cebelitarık Guernsey Liberya Mikronezya Falkland Adaları; Dominika; Djibuti; Kongo Kongo (KDC); Zimbabve Amerikan Samoa; Zambiya Güney Afrika; Mayotte Vietnam Saint Vincent ve Grenadinler; ABD Virgin Adaları; Venezuela Papalık (Vatikan); Ukrayna Uganda Özbekistan Birleşik Devletler; Uruguay Tanzanya Tayvan Trinidad ve Tobago; Türkiye Tunus Tonga Timor-Leste; Türkmenistan Tacikistan Tayland Togo El Salvador; Sint Maarten; Turks ve Caicos Adaları; Surinam Singapur Dönüştürülen San Marino; Senegal Slovakya 'Teki Seyş Suudi Arabistan; Sırbistan Ruanda Rusya Romanya Reunion Katar Paraguay Portekiz Filipin Filistin toprakları, dolu; Polonya Porto Riko; Pakistan Peru Panama Papua Yeni Gine; Fransız Polinezyası; Yeni Zelanda; Umman; Nepal Hollanda Norveç Nijerya Nikaragua Yeni Kaledonya; Namibia Mozambik Federasyonu Meksika Martinik Malavi Maldivler Mauritius Malta Myanmar Makao ÖIB; Moğolistan Mali Madagaskar Marshall Adaları; Makedonya, EYC; Karadağ Saint Marmara; Fas S Moldova Vi Libya Lüksemburg Lübnan Saint Lucia; Litvanya Sri Lanka; Cayman Adaları; YN Laos Kazakistan Kuveyt Dili Komorolar Kamboçya Saint Kitts ve Nevis; Kenya Kırgızistan Japon Ürdün Jamaika Jersey; Italya; Iceland; Irak; Irlanda; Hindistan; Endonezya; Man Adası; Honduras; Israil; Macaristan Hong Kong ÖIB; Hırvatistan Guatemala Yunanistan Guadeloupe Fransız Ginesi; Grönland Gana Faroe Adaları; Birleşik Krallık; Georgia Fransa Fiji Etiyopya Finlandiya İspanya Mısır Estonya Ekvador; Dominik Cumhuriyeti; Cezayir Almanya; Danimarka; Kıbrıs Çek Cumhuriyeti; Curaçao; Cabo Verde; Kosta Rika; Şili Kamerun Kolombiya Fildişi Sahili; 'Da 'Ye Belize Belarus Botsvana Bhutan Bahamalar Bonaire, Sint Eustatius ve Saba; Brezilya Benin Barış Bermuda Bolivya 'Ya Günü Bahreyn Burundi Bosna Hersek; Halk Barbados Azerbaycan Aruba Doğu Arjantin Avusturya Angola; Ermenistan Devleti Arnavutluk Anguilla; Andora Birleşik Arap Emirlikleri; Antigua ve Barbuda
+
+### <a name="next-steps"></a>Sonraki Adımlar
+
+- Promosyon teklifi 1 Ocak 2021 resmi CSP iş ortağı Merkezi Lisansı-taban fiyat listesi ve teklif listesi matrisinde kullanılabilir olacaktır. 
+- Bu promosyon hakkında sorular veya takip, [Microsoft Community duyurusu](https://www.microsoftpartnercommunity.com/t5/Pricing-Licensing-Incentives/Announcing-a-new-Power-Apps-promotional-offer-to-accelerate-FY21/m-p/32540)'na gönderilebilir.
 
 ______________
 
@@ -37,7 +91,7 @@ Iş ortağı merkezi .NET SDK 'sını kullanan CSP programına katılan doğruda
 
 ### <a name="details"></a>Ayrıntılar
 
-08 2020 Aralık itibariyle Iş ortakları, [Microsoftpartnercenter. NETSDK (NuGet Galerisi |) sürümünü indirmeye başlayabilir. Microsoft. Store. PartnerCenter 1.16.3)](https://www.nuget.org/packages/Microsoft.Store.PartnerCenter/1.16.3), güncelleştirilmiş ortak Iş ortağı MERKEZI SDK [GitHub örnekleri](https://github.com/Microsoft/Partner-Center-DotNet-Samples)ile birlikte. Bu sürüm, aşağıdakiler için güncelleştirmeleri içerir:
+08 2020 Aralık itibariyle Iş ortakları, [Microsoftpartnercenter. NETSDK (NuGet Galerisi |) sürümünü indirmeye başlayabilir. Microsoft. Store. PartnerCenter 1.16.3)](https://www.nuget.org/packages/Microsoft.Store.PartnerCenter/1.16.3), güncelleştirilmiş ortak Iş ortağı MERKEZI SDK [GitHub örnekleri](https://github.com/Microsoft/Partner-Center-DotNet-Samples)ile birlikte. Bu sürüm aşağıdaki yöntemlerin güncelleştirmelerini içerir:
  
 **SelfServePolicies-yeni işlevsellik eklendi**
 
@@ -83,7 +137,7 @@ Aralık lisans tabanlı fiyat listeleri ve teklif listesi matris dosyaları baz�
 
 #### <a name="incorrect-offers-in-the-license-based-price-list"></a>Lisans tabanlı fiyat listesindeki yanlış teklifler
 
-Aralık lisans tabanlı fiyat listeleri, Fiyat listelerinde olmaması gereken aşağıdaki teklifleri içerir. Bu teklifler daha önce hata halinde fiyat listelerine dahil edilmiştir ve yayımlanmamalıdır. Bu şekilde kullanılabilecek bir zamanlama yoktur. Gelecekte geri eklendiyse, gelecekteki önizleme fiyatı listelerine ekleme olarak listelenecektir.
+Aralık lisans tabanlı fiyat listeleri, Fiyat listelerinde olmaması gereken aşağıdaki teklifleri içerir. Bu teklifler daha önce hata halinde fiyat listelerine dahil edilmiştir ve yayımlanmamalıdır. Bu tekliflerin kullanılabildiği bir zamanlama yoktur. Gelecekte geri eklendiyse, gelecekteki önizleme fiyatı listelerine ekleme olarak listelenecektir.
 
    |**Teklif adı**|**Teklif Kimliği**|
    |-------------------|:------|
@@ -96,7 +150,7 @@ Aralık lisans tabanlı fiyat listeleri, Fiyat listelerinde olmaması gereken a�
    
 #### <a name="incorrect-offers-in-the-offer-list-matrix"></a>Teklif listesi matrisinde yanlış teklifler
    
-Aşağıdaki teklifler teklif listesi matrisinde hatalı. Bunlar mevcut değil, henüz kullanılabilirlik için bir hedef tarih yok. İş ortakları bunları yoksaymalıdır.
+Aşağıdaki teklifler teklif listesi matrisinde hatalı. Bunlar mevcut değil, henüz kullanılabilirlik için bir hedef tarih yok. İş ortakları bu satır öğelerini yoksaymalıdır.
 
    |**Teklif adı**|**Teklif Kimliği**|
    |-------------------|:------|
@@ -176,7 +230,7 @@ Bulut çözümü sağlayıcısı programı aracılığıyla akademik teklifler s
 
 ### <a name="summary"></a>Özet 
 
-Microsoft, güvende çalışır. Bulut çözümü sağlayıcısı programındaki deneyimidir akademik teklifleri için uyumlu, güvenli ve güvenli bir müşteri doğrulaması yöntemi sağlamaya çalışıyoruz. Bu taahhütünün bir parçası olarak, müşteri mücadele sürecine netlik ve görünürlük ekleyecek, daha doğru veri girişi yapabilme özelliği olan Iş Ortağı Merkezi API 'SI ve Kullanıcı arabirimi geliştirmeleri sunuyoruz. 
+Microsoft, güvende çalışır. Bulut çözümü sağlayıcısı programındaki deneyimidir akademik teklifleri için uyumlu, güvenli ve güvenli bir müşteri doğrulaması yöntemi sağlamaya çalışıyoruz. Bu taahhütünün bir parçası olarak, müşteri mücadele sürecine netlik ve görünürlük ekleyecek ve daha doğru veri girişi yapma yeteneğinin yanı sıra, iyileştirilmiş müşterilerin başarısını ele alacak şekilde Iş Ortağı Merkezi API 'SI ve Kullanıcı arabirimi geliştirmeleri sunuyoruz. 
 
 **İş ortağı merkezi geliştirmeleri** 
 
@@ -196,7 +250,7 @@ Başarılı müşteri doğrulaması için gereken API 'Leri ve veri girişini da
 
 Yukarıdaki geliştirmelere ek olarak, kitaplık ve Museum müşterileri için akademik fiyatlı teklifleri etkinleştireceğiz ve bu müşterilere Transact CSP teklifleri sağlayan eğitim müşterilerini genişlettireceğiz duyuruyoruz. 
 
-Microsoft, herhangi bir müşterinin veya önerilen müşterinin durumunu tam eğitim kullanıcısı olarak gözden geçirme hakkını saklı tutar. Tam Ayrıntılar için lütfen [akademik nitelikli eğitim Kullanıcı gereksinimlerine](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7) bakın. 
+Microsoft, herhangi bir müşterinin veya önerilen müşterinin durumunu tam eğitim kullanıcısı olarak gözden geçirme hakkını saklı tutar. Tüm ayrıntılar için [akademik nitelikli eğitim Kullanıcı gereksinimlerine](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7) bakın. 
 
 ### <a name="next-stepsadditional-resources"></a>Sonraki adımlar/ek kaynaklar
 

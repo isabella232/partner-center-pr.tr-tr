@@ -1,7 +1,7 @@
 ---
 title: Ortak satış fırsatlarını yönetme
 ms.topic: article
-ms.date: 06/02/2020
+ms.date: 12/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Uygun bir Microsoft iş ortağı olarak, Microsoft ile birlikte satın alabilirsiniz. Anlaşmalar tanımlama, Microsoft 'u işbirliği için davet etme veya gönderilen anlaşmaları görüntüleme hakkında bilgi edinin.
@@ -9,12 +9,12 @@ author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 61dab9f869d8bb9a26f1317fb1aec3013e915465
-ms.sourcegitcommit: e4f870b9070eb3aed49061cc652d124ba0d05b68
+ms.openlocfilehash: 52a1ac20b0370e1dd4a1de85087303090c1b7eb4
+ms.sourcegitcommit: e9066768ab8e242c03f0a7e3ce460ae8cd2e3fda
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 11/23/2020
-ms.locfileid: "95417277"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "97622210"
 ---
 # <a name="manage-co-sell-opportunities-in-partner-center"></a>Ortak satış fırsatlarını Iş Ortağı Merkezi 'nde yönetme
 
@@ -44,13 +44,19 @@ Ortak satış fırsatlarından yararlanın.  Ortak satış fırsatları, bir mü
 
 ## <a name="navigating-the-co-sell-section"></a>Ortak satış bölümünde gezinme
 
-Ortak satış bölümünde üç üst düzey sekme vardır.
+Ortak satış bölümüne erişmek için şu adımları izleyin:
 
-**Inbound** : ortak satış için Microsoft satıcılarından iş ortaklarına gönderilen tüm fırsatlar bu sekmede bulunabilir.
+1. Iş Ortağı Merkezi [panosunda](https://partner.microsoft.com/dashboard)oturum açın.
 
-**Giden** – iş ortağı tarafından oluşturulan tüm fırsatlar bu sekmede kullanılabilir. İş ortakları üç farklı fırsat kategorisi oluşturabilir: ortak satış, özel ve iş ortağı iş ortağı.
+2. Sol gezinti menüsünde, **referanslar**' ı ve ardından **ortak satış fırsatları**' nı seçin.
 
-**Sık Kullanılanlar** : gelen veya giden ortak satış fırsatları sekmelerinde sık kullanılanlar olarak işaretlenen fırsatlar, bu sekmede gösterilir. Liste görünümündeki fırsatta kalp simgesine tıklayarak herhangi bir fırsatı sık kullanılan olarak işaretleyin. Yalnızca aynı simgeye tıklayarak bu fırsatı sık kullanılanlardan kaldırabilirsiniz.
+   Bu bölümde üç, üst düzey sekme görürsünüz:
+
+   - **Inbound** : ortak satış için Microsoft satıcılarından iş ortaklarına gönderilen tüm fırsatlar bu sekmede bulunabilir.
+
+   - **Giden** – iş ortağı tarafından oluşturulan tüm fırsatlar bu sekmede kullanılabilir. İş ortakları üç farklı fırsat kategorisi oluşturabilir: ortak satış, özel ve iş ortağı iş ortağı.
+
+   - **Sık Kullanılanlar** : gelen veya giden ortak satış fırsatları sekmelerinde sık kullanılanlar olarak işaretlenen fırsatlar, bu sekmede gösterilir. Liste görünümündeki fırsatta kalp simgesine tıklayarak herhangi bir fırsatı sık kullanılan olarak işaretleyin. Yalnızca aynı simgeye tıklayarak bu fırsatı sık kullanılanlardan kaldırabilirsiniz.
 
 ## <a name="creating-a-co-sell-opportunity"></a>Ortak satış fırsatı oluşturma
 
