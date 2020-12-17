@@ -1,7 +1,7 @@
 ---
 title: CSP programındaki dolaylı sağlayıcılarla çalışma
 ms.topic: how-to
-ms.date: 12/11/2020
+ms.date: 12/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Müşteri desteği ve faturalandırmayla ilgili yardım almak için dolaylı satıcıların Microsoft dolaylı sağlayıcıları (veya dağıtımlarıyla) ile nasıl çalışacağınızı öğrenin.
@@ -10,12 +10,12 @@ ms.custom: contperf-fy21q2
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
-ms.openlocfilehash: 3fc6b50280ac07f7c68c5a0913d0938d5eadd7f5
-ms.sourcegitcommit: 1d4d06642a5203d4d313fe76b137dd6be45d4728
+ms.openlocfilehash: c1929a68146c09beae16e5aabd96b1f192db3a31
+ms.sourcegitcommit: 3ff229fd6f80b9e935d151280b17a60b8c39e8a9
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97514733"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "97636033"
 ---
 # <a name="learn-how-to-partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Bulut çözümü sağlayıcısı programındaki dolaylı sağlayıcılarla iş ortağı hakkında bilgi edinin
 
@@ -62,17 +62,14 @@ CSP programında dolaylı bir satıcı olarak satış için gerekenler hakkında
 
    Sağladığınız bilgileri gözden geçirip doğrulayabilmeniz birkaç gün sürebilir. İncelemenizi tamamladığımızda birincil kişimize e-posta göndereceğiz.
 
-### <a name="get-started"></a>Kullanmaya başlayın
+### <a name="get-started"></a>başlarken
 
 1. Kayıt işlemini hemen kapatmak için, kaydolmak üzere [**hoş geldiniz sayfasına**](https://partnercenter.microsoft.com/pcv/register/joinnow/enrollmentwelcome/valueaddedreseller) gidin.
 
 2. Kaydolmak için gereken bilgilere sahip olduğunuzdan emin olmak için **hoş geldiniz sayfasını** gözden geçirin ve ardından **İleri**' yi seçin.
 
 3. İş hesabınızı kullanarak oturum açın-Office 365, Microsoft Azure veya Microsoft Dynamics CRM için genel yönetici olarak oturum açmak için kullandığınız Kullanıcı adı ve parola. Bir iş hesabınız yoksa, şimdi bir tane ayarlamak için **Oluştur** ' u seçin. İş hesabınızı oluşturduktan sonra, yeni hesabınız için genel yönetici kimlik bilgilerini kullanarak oturum açın.
-
-
-   > [!IMPORTANT]  
-   > Azure AD kiracınızla aynı ülkede/bölgede bulunan etkin şirket profiliyle ilişkili MPN KIMLIĞINI seçin.
+  
 
 4. Şirketinizin yasal iş profilini, birincil iletişim bilgilerini ve müşteri destek bilgilerini sağlayın veya güncelleştirin. (Yasal iş bilgilerinizi bulmak için **kuruluş profili** ' ni seçin ve ardından **yasal bilgiler**' i seçin.) **Şimdi kaydet**' i seçin.
 
@@ -81,7 +78,16 @@ CSP programında dolaylı bir satıcı olarak satış için gerekenler hakkında
    > [!IMPORTANT]  
    > Şirketinizin güvenliğinin ve gizliliğinin sağlanmasına yardımcı olmak için, birincil kişinize e-posta ile bir Iş Ortağı Merkezi hesabına kaydolup (1), bu e-posta adresinin şirketinize ait olduğunu doğrulayın. Birincil iletişim e-posta adresini doğruladıktan sonra, verdiğiniz bilgileri gözden geçirmemiz için devam edeceğiz. Kayıt durumu güncelleştirmelerini birincil ilgili kişiye e-posta ile göndereceğiz.
 
-5. Iş Ortağı Merkezi hesabınız kullanıma hazırsa, Yönetim Aracısı grubuna eklendiğinizi doğrulayın. Diğer kullanıcıları ekleme dahil olmak üzere hesabınızı ayarlamayı tamamlaması için yönetici Aracısı izinlerinizin olması gerekir. İzinlerinizi görüntülemek veya güncelleştirmek için şu adımları izleyin:
+5. MPN KIMLIĞINIZI Azure ID kiracınızla ilişkilendirin.
+
+    1. **Hesap ayarlarından** **tanımlayıcılar** ' ı seçin.
+
+    1. **CSP** bölümünde, CSP hesabınızla ilişkili MPN kimliğini güncelleştirmek için **Güncelleştir** bağlantısını kullanın. 
+ 
+ > [!IMPORTANT]  
+   > Azure AD kiracınızla aynı ülkede/bölgede bulunan etkin şirket profiliyle ilişkili MPN KIMLIĞINI seçin.
+
+6. Iş Ortağı Merkezi hesabınız kullanıma hazırsa, Yönetim Aracısı grubuna eklendiğinizi doğrulayın. Diğer kullanıcıları ekleme dahil olmak üzere hesabınızı ayarlamayı tamamlaması için yönetici Aracısı izinlerinizin olması gerekir. İzinlerinizi görüntülemek veya güncelleştirmek için şu adımları izleyin:
 
    1. Iş Ortağı Merkezi panosunda, **Ayarlar** simgesini seçin ve ardından **Hesap ayarları** altında **Kullanıcı yönetimi**' ni seçin.
 

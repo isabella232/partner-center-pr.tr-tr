@@ -1,7 +1,7 @@
 ---
 title: İş ortağı katkı göstergeleri
 ms.topic: article
-ms.date: 11/03/2020
+ms.date: 12/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Dynamics 365 müşteri katılımı veya Dynamics 365 finans ve Işlemlerini nasıl gerçekleştireceğinizi gösteren yedi Iş ortağı katkı göstergeleri (PCI) hakkında bilgi edinin.
@@ -9,12 +9,12 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e5e3c0ad1a1abae49b05394d569b67840a01ecca
-ms.sourcegitcommit: fc4d94b2a9575808745f8fb8c7ee5ae88be6803c
+ms.openlocfilehash: 336481cf390fb467c4768edfff9d9c38e8dd8f31
+ms.sourcegitcommit: 3ff229fd6f80b9e935d151280b17a60b8c39e8a9
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 11/04/2020
-ms.locfileid: "93344400"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "97636050"
 ---
 # <a name="partner-contribution-indicators-pci-show-partner-impact-on-seven-key-measures-of-customer-success"></a>İş ortağı katkı göstergeleri (PCI) müşteri başarısı için yedi anahtar ölçülerde iş ortağı etkisini gösterir
 
@@ -42,23 +42,23 @@ PCI, ortağın teknik özelliklerine, müşteri başarısını ve bunların sat�
 
 *Performans göstergeleri:*
 
-1. **Net yeni gelir** : Microsoft Dynamics 365 ürünlerine yönelik tüm satış kanallarında net yeni gelir. (Bu ölçüm hakkında daha fazla bilgi için bkz. [net yeni gelir Için tanımlar](partner-contribution-indicators.md#definitions-for-pci-metric-1---net-new-revenue).)
+1. **Net yeni gelir**: Microsoft Dynamics 365 ürünlerine yönelik tüm satış kanallarında net yeni gelir. (Bu ölçüm hakkında daha fazla bilgi için bkz. [net yeni gelir Için tanımlar](partner-contribution-indicators.md#definitions-for-pci-metric-1---net-new-revenue).)
 
-2. **Net müşteri eklemeleri** : Dynamics 365 için alınan net müşteriler tüm satış kanallarında. (Bu ölçüm hakkında daha fazla bilgi için bkz. [net Customer eklemeleri Için tanımlar](partner-contribution-indicators.md#definitions-for-pci-metric-2---net-customer-adds).)
+2. **Net müşteri eklemeleri**: Dynamics 365 için alınan net müşteriler tüm satış kanallarında. (Bu ölçüm hakkında daha fazla bilgi için bkz. [net Customer eklemeleri Için tanımlar](partner-contribution-indicators.md#definitions-for-pci-metric-2---net-customer-adds).)
 
 *Yetenek göstergeleri:*
 
-3. **İşlevsel danışmanları** : Şu anda etkin bir işlevsel danışman sertifikayı tutan kişilerin sayısı Dynamics 365 Için sertifika ilişkilendirin. (Bu ölçüm hakkında daha fazla bilgi için bkz. [işlev danışmanları Için tanımlar](partner-contribution-indicators.md#definitions-for-pci-metric-3---functional-consultants).)
+3. **İşlevsel danışmanları**: Şu anda etkin bir işlevsel danışman sertifikayı tutan kişilerin sayısı Dynamics 365 Için sertifika ilişkilendirin. (Bu ölçüm hakkında daha fazla bilgi için bkz. [işlev danışmanları Için tanımlar](partner-contribution-indicators.md#definitions-for-pci-metric-3---functional-consultants).)
 
-4. **İşlevsel danışman büyümesi** : Işlevsel danışman Associates sayısında büyüme.  PCI 'daki Işlevsel danışman büyüme ölçüsünün ana hat görüntüsü artık 1 Ekim 2020 ' de alınacaktır. (Bu ölçüm hakkında daha fazla bilgi için bkz. [işlevsel danışman büyümesi Için tanımlar](partner-contribution-indicators.md#definitions-for-pci-metric-4---functional-consultant-growth).)
+4. **İşlevsel danışman büyümesi**: Işlevsel danışman Associates sayısında büyüme. Bu gösterge için noktaları almak için birkaç seçenek vardır. Tek bir seçenek, 1 Ekim 2020 ' de, PCI 'da Işlevsel danışman büyüme ölçüsünün alınması için temel anlık görüntünün kullanılmasını gerektirir. (Bu ölçüm için noktaları alma seçenekleri hakkında ayrıntılı bilgi için bkz. [işlevsel danışman büyümesi Için tanımlar](partner-contribution-indicators.md#definitions-for-pci-metric-4---functional-consultant-growth).)
 
-5. **Geliştiriciler** : Şu anda etkin olan bir geliştiriciyi tutan kişilerin sayısı, Dynamics 365 Için sertifikayı ilişkilendirir. (Bu ölçüm hakkında daha fazla bilgi için bkz. [geliştiriciler Için tanımlar](partner-contribution-indicators.md#definitions-for-pci-metric-5---developers).)
+5. **Geliştiriciler**: Şu anda etkin olan bir geliştiriciyi tutan kişilerin sayısı, Dynamics 365 Için sertifikayı ilişkilendirir. (Bu ölçüm hakkında daha fazla bilgi için bkz. [geliştiriciler Için tanımlar](partner-contribution-indicators.md#definitions-for-pci-metric-5---developers).)
 
 *Müşteri başarı göstergeleri:*
 
-6. **Yeni büyük dağıtımlar** : son 12 ay boyunca yüksek kullanım eşiğini geçen üretim kiracılarının sayısı. (Bu ölçüm hakkında daha fazla bilgi için bkz. [yeni büyük dağıtımlar Için tanımlar](partner-contribution-indicators.md#definitions-for-pci-metric-6---new-large-deployments).)
+6. **Yeni büyük dağıtımlar**: son 12 ay boyunca yüksek kullanım eşiğini geçen üretim kiracılarının sayısı. (Bu ölçüm hakkında daha fazla bilgi için bkz. [yeni büyük dağıtımlar Için tanımlar](partner-contribution-indicators.md#definitions-for-pci-metric-6---new-large-deployments).)
 
-7. **Aylık etkin kullanıcı büyümesi** : son 12 ay içinde tüm müşterileriniz genelinde aylık etkin kullanıcılar için büyüme. (Bu ölçüm hakkında daha fazla bilgi için bkz. [aylık etkin kullanıcı büyümesi Için tanımlar](partner-contribution-indicators.md#definitions-for-pci-metric-7---monthly-active-user-growth).)
+7. **Aylık etkin kullanıcı büyümesi**: son 12 ay içinde tüm müşterileriniz genelinde aylık etkin kullanıcılar için büyüme. (Bu ölçüm hakkında daha fazla bilgi için bkz. [aylık etkin kullanıcı büyümesi Için tanımlar](partner-contribution-indicators.md#definitions-for-pci-metric-7---monthly-active-user-growth).)
 
 ### <a name="how-pci-score-impacts-competency-eligibility"></a>PCI puanı, uzmanlığa uygunluğu etkiler
 Her elde edilen gösterge için, tek bir PCI puanı ile sonuçlanan noktalara izin verilir. 100 en büyük noktaya sahip olabilir. 
@@ -98,12 +98,12 @@ Her PCI ölçüsünün, şirketinizin en büyük noktalarını kazanabileceğini
 Her ölçüm içindeki noktaların, müşteri katılımı ve finans ve Işlemler için ayrı bir PCI puanı sağlamak üzere tasarlanmıştır. Bu puan aylık olarak güncelleştirilir.
 
 İş ortakları, aşağıda belirtilen eşikleri karşılıyorsa veya aşarsa, belirli bir ölçüm için en yüksek puan kazanılayabilir. Kısmi noktaları, Işlevsel danışman büyümesi hariç tüm ölçümler için kazanılmalıdır.
+
 Örneğin, net yeni gelir $150.000 ile geliştirilen bir pazar ortağı, en fazla 10 noktasının yarısını ($ 150000/$ 300000) kazanacaktır.
 
 Ayrıntılar için aşağıdaki tablolara bakın:
 - [Tablo 1. Müşteri katılım eşikleri](partner-contribution-indicators.md#table-1-customer-engagement-thresholds)
 - [Tablo 2. Finans ve Işlem eşikleri](partner-contribution-indicators.md#table-2-finance-and-operations-thresholds)
-- [Tablo 3. İşlevsel danışman büyümesi](partner-contribution-indicators.md#table-3-functional-consultant-growth)
 
 ### <a name="table-1-customer-engagement-thresholds"></a>Tablo 1 müşteri katılım eşikleri
 
@@ -114,7 +114,7 @@ Ayrıntılar için aşağıdaki tablolara bakın:
 | **Geliştirildi** | $300.000 | 10 | 10 | *\* Bkz. nota* | 5 | 5 | 25% |
 | **Geliştiriyorsanız** | $150.000 | 5  | 5  |*\* Bkz. nota* | 2 | 1 | 25% |
 
-*\* Note: büyüme hedefleri, temel danışmanların sayısına göre farklılık gösterir. Bkz. büyüme hedefleri için [Tablo 3](partner-contribution-indicators.md#table-3-functional-consultant-growth) .*
+*\* Note: büyüme hedefleri, temel danışmanların sayısına ve bir ortağın noktaları almak için kullandığı belirli seçeneğe göre farklılık gösterir. Noktaları alma seçenekleri veya her bir seçeneğe özgü büyüme hedefleri hakkında daha fazla bilgi edinmek için bkz. [işlevsel danışman büyümesi Için tanımlar](partner-contribution-indicators.md#definitions-for-pci-metric-4---functional-consultant-growth).*
 
 ### <a name="table-2-finance-and-operations-thresholds"></a>Tablo 2 finans ve Işlem eşikleri
 
@@ -125,19 +125,7 @@ Ayrıntılar için aşağıdaki tablolara bakın:
 | **Geliştirildi** | $300.000 | 3 | 15 | *\* Bkz. nota* | 5  | 3 | 25% |
 | **Geliştiriyorsanız** | $150.000 | 1 | 5 |*\* Bkz. nota* | 2 | 1 | 25% |
 
-*\* Note: büyüme hedefleri, temel danışmanların sayısına göre farklılık gösterir. Bkz. büyüme hedefleri için [Tablo 3](partner-contribution-indicators.md#table-3-functional-consultant-growth) .*
-
-### <a name="table-3-functional-consultant-growth"></a>Tablo 3 Işlevsel danışman büyüme
-
->[!NOTE]
-> Aşağıdaki tabloda, puan kazanmak için uygun olması gereken işlevsel danışman taban çizgisiyle **geliştirilen** ve **gelişen** bir sütun gösterilmektedir. Taban çizgisi anlık görüntü tarihi 1 Ekim 2020 ' de alınacaktır.
-
-
-| Geliştirildi | Geliştiriyorsanız | Tüm 15 noktayı kazanmak için büyüme gerekiyor *
-|:---:|:---:|:---:|
-| 15-29 | 5-14 | %35 |
-| 30-49 | 15-24 | 25% |
-| 50 ve üzeri | 25 ve üzeri | %15 |
+*\* Note: büyüme hedefleri, temel danışmanların sayısına ve bir ortağın noktaları almak için kullandığı belirli seçeneğe göre farklılık gösterir. Noktaları alma seçenekleri veya her bir seçeneğe özgü büyüme hedefleri hakkında daha fazla bilgi edinmek için bkz. [işlevsel danışman büyümesi Için tanımlar](partner-contribution-indicators.md#definitions-for-pci-metric-4---functional-consultant-growth).*
 
 ## <a name="detailed-definitions-of-pci-metrics"></a>PCI ölçümlerinin ayrıntılı tanımları
 
@@ -208,13 +196,30 @@ NET müşteri eklemeleri, [Bu makalede daha önce açıklanan](partner-contribut
 
 - İşlevsel danışmanları, bir müşteri katılımı Işlev Danışmanı sertifikası veya finans ve operasyon Işlevsel danışman sertifikası gibi şu anda etkin olan bir Işlevsel danışman sertifika Ilişkilendirin sertifikası olan kişilerin sayısı olarak tanımlanmıştır.
 
-- Müşteri katılımı Işlevsel danışman sertifikası bir bireyin: MB-200 **ve** aşağıdakilerden biri OLMALıDıR: mb-210, mb-220, mb-230, mb-240 veya MB6-898.
+- Müşteri katılımı Işlevsel danışman sertifikası, bir bireyin için bir kişi gerektirir:
+  - MB-200 \* veya pl-200<br/>
+  **ve** aşağıdaki sınavlarından biri:
+  - MB-210, MB-220, MB-230, MB-240 veya MB6-898 \* \* .
 
-- Finans ve Işlemler Işlevsel danışman sertifikası bir bireyin: MB-300 **ve** aşağıdakilerden biri OLMALıDıR: mb-310, mb-320, mb-330, MB6-897 veya MB6-898.
+- Finans ve Işlemler Işlevsel danışman sertifikası bir bireyin için bir kişi gerektirir:
+  - MB-300<br/>
+  **ve** aşağıdaki sınavlarından biri:
+  - MB-310, MB-320, MB-330, MB-897 \* \* veya MB6-898 \* \* .
+
+> [!NOTE]
+> Yıldız işareti () ile işaretlenen \* sınavlar, önümüzdeki aylarda kullanımdan veya değiştirilmekte. Belirli Ayrıntılar için aşağıya bakın:
+>
+> - Tek bir yıldız işareti () ile işaretlenen \* sınavlar 31 aralık 2020 ' de devre dışı bırakılıyor. 31 Aralık 2020 ' te yapılan sınavlar, kullanımdan kalkmadan önce çekilse de 31 Aralık 2021 ' ye kadar uygun olmaya ve yenilemeye uygun olmaya devam edecektir.
+> - İki yıldız işareti () ile işaretlenen \* \* sınavlar 31 Ocak 2021 tarihinde devre dışı bırakılıyor. 31 Ocak 2021 ' de yapılan sınavlar, kullanımdan kalkmadan önce çekilse de 31 Ocak 2022 tarihine kadar uygun olmaya ve yenilemeye uygun olmaya devam edecektir.
+
 
 ### <a name="definitions-for-pci-metric-4---functional-consultant-growth"></a>PCI ölçümü #4 Işlevsel danışman büyümesi için tanımlar
 
-İşlevsel danışman büyüme özelliği, [Bu makalede daha önce açıklanan](partner-contribution-indicators.md#pci-scoring-based-on-seven-key-indicators)yedi anahtar ortağı katkı göstergesinden biridir. İşlevsel danışman büyüme göstergesinin nasıl tanımlandığı ve bu kategorinin noktalarının nasıl hesaplandığı hakkında daha fazla bilgi aşağıda verilmiştir:
+İşlevsel danışman büyüme özelliği, [Bu makalede daha önce açıklanan](partner-contribution-indicators.md#pci-scoring-based-on-seven-key-indicators)yedi anahtar ortağı katkı göstergesinden biridir. Bir iş ortağı, bu ölçüm için kullanılabilir olan tüm veya olmayan noktaları (15 veya 0 noktası) elde etmek için iki seçenekten birine sahiptir. Kısmi bir noktaya sahip olmaz. 
+
+İşlevsel danışman büyüme göstergesinin nasıl tanımlandığı ve bu kategorinin noktalarının nasıl hesaplandığı hakkında daha fazla bilgi edinebilirsiniz.
+
+**Noktaları almak için bir seçenek:**
 
 - İşlevsel danışman büyüme, bir taban çizgisi anlık görüntüsü bu yana sertifikalı Işlevsel danışman Associates sayısında büyüme olarak tanımlanır. Temel anlık görüntü tarihi 1 Ekim 2020 ' de alınacaktır.
 
@@ -224,7 +229,19 @@ NET müşteri eklemeleri, [Bu makalede daha önce açıklanan](partner-contribut
 
 - Noktalara uygun olması için, geliştirilmiş Pazar ortakları için en az **15** Işlevsel danışman ilişkilendirir ve temel anlık görüntü çekilirken Pazar ortakları geliştirmek için **5** olmalıdır.
 
-- **Kısmi bir noktaya sahip olmaz.** Taban çizgisi anlık görüntüsünün en üstünde büyüme, tablo 3 ' te belirtilen eşikleri karşılamalıdır veya aşmalıdır [. İşlevsel danışman büyümesi](partner-contribution-indicators.md#table-3-functional-consultant-growth).
+- **Kısmi bir noktaya sahip olmaz.** Taban çizgisi anlık görüntüsünün en üstünde büyüme, aşağıdaki tabloda belirtilen eşikleri karşılamalıdır veya aşmalıdır. Tabloda, puan kazanmak için uygun olması gereken işlevsel danışman taban çizgisiyle **geliştirilmiş** ve **geliştirmeyle** ilgili bir sütun gösterilmektedir.
+
+  | Geliştirildi | Geliştiriyorsanız | Tüm 15 noktayı kazanmak için büyüme gerekiyor *
+  |:---:|:---:|:---:|
+  | 15-29 | 5-14 | %35 |
+  | 30-49 | 15-24 | 25% |
+  | 50 ve üzeri | 25 ve üzeri | %15 |
+
+**Noktaları almak için iki seçeneği:**
+
+- Geliştirilmiş Pazar ortakları, ilk PCI tabanlı CBA yıldönümü için 50 veya daha fazla işlevsel danışmanını bir kez onaylayamaz. (Pazar ortakları geliştirme, ilk PCI tabanlı CBA yıldönümü için zaman içinde 25 veya daha fazla işlevsel danışmanları onaylayamaz.)
+
+- Bu eşiğe ulaşırsanız, bu tarihten itibaren 24 ay boyunca Işlevsel danışman büyüme için 15 ' in tamamını alırsınız. Bu, iki CBA yıl dönümleri için Işlevsel danışman büyüme için maksimum noktaları alacağınız anlamına gelir.
 
 ### <a name="definitions-for-pci-metric-5---developers"></a>PCI ölçümü için tanımlar #5-geliştiriciler
 
@@ -234,9 +251,21 @@ Geliştiriciler bir yetenek göstergesidir ve [Bu makalede daha önce açıklana
 
 - Geliştirici göstergesinin noktaları, en fazla 5 noktası bulunan geçerli ay anlık görüntüsüne dayalıdır.
 
-- Müşteri katılımı geliştiricileri, hem MB **-200 hem de aşağıdakilerden birini** geçirdiklerinde kredi alır: mb-400 veya MB2-716.
+- Müşteri katılımı geliştiricileri, başarılı olduğunda kredi alır:
+  - PL-400<br/>**veya**
+  - MB-200 \* **ve** aşağıdaki sınavlarından biri:
+    - MB-400 \* veya MB2-716\*\*
 
-- Finans ve Operations geliştiricileri hem MB **-300 hem de aşağıdakilerden birini** geçirdiklerinde kredi alır: mb-500 veya MB6-894.
+- Finans ve Operations geliştiricileri, bu Işlemleri başarılı olduğunda kredi alır:
+  - MB-300<br/>
+  **ve** aşağıdaki sınavlarından biri:
+  - MB-500 veya MB-894\*\*
+
+> [!NOTE]
+> Yıldız işareti () ile işaretlenen \* sınavlar, önümüzdeki aylarda kullanımdan veya değiştirilmekte. Belirli Ayrıntılar için aşağıya bakın:
+>
+> - Tek bir yıldız işareti () ile işaretlenen \* sınavlar 31 aralık 2020 ' de devre dışı bırakılıyor. 31 Aralık 2020 ' te yapılan sınavlar, kullanımdan kalkmadan önce çekilse de 31 Aralık 2021 ' ye kadar uygun olmaya ve yenilemeye uygun olmaya devam edecektir.
+> - İki yıldız işareti () ile işaretlenen \* \* sınavlar 31 Ocak 2021 tarihinde devre dışı bırakılıyor. 31 Ocak 2021 ' de yapılan sınavlar, kullanımdan kalkmadan önce çekilse de 31 Ocak 2022 tarihine kadar uygun olmaya ve yenilemeye uygun olmaya devam edecektir.
 
 ### <a name="definitions-for-pci-metric-6---new-large-deployments"></a>PCI ölçümü için tanımlar #6-yeni büyük dağıtımlar
 
@@ -300,7 +329,7 @@ Iş ortağı katkı göstergeleri grafiklerini ve ilerleme durumunu görüntüle
 
 1. Iş Ortağı Merkezi [panosunda](https://partner.microsoft.com/dashboard)oturum açın.
 
-2. Gezinti menüsünden **CSP** ' yi seçin ve ardından **Iş ortağı katkı göstergeleri** ' ni seçin. 
+2. Gezinti menüsünden **CSP** ' yi seçin ve ardından **Iş ortağı katkı göstergeleri**' ni seçin. 
 
    Ortak katkı göstergeleri panosunu ilişkili grafiklerle görmeniz gerekir.
 

@@ -7,14 +7,14 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.topic: how-to
 ms.localizationpriority: high
-ms.date: 11/23/2020
+ms.date: 12/16/2020
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b9b23fc887b754bf4eb1d703026a24e294952f4c
-ms.sourcegitcommit: 245b4792e8221468f781f6effd1c9b23be05499a
+ms.openlocfilehash: 398e02e4d18df9e555a1576e845e1d0e0bdf1105
+ms.sourcegitcommit: 3ff229fd6f80b9e935d151280b17a60b8c39e8a9
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 11/24/2020
-ms.locfileid: "95514716"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "97636016"
 ---
 # <a name="verify-your-organization-profile-information-in-partner-center"></a>Iş Ortağı Merkezi 'nde kuruluş profili bilgilerinizi doğrulayın
 
@@ -65,16 +65,12 @@ Artık Iş Ortağı Merkezi 'nde yasal adreslerinizi güncelleştirebilirsiniz.
 
 CSP hesabınızla ilişkili MPN KIMLIĞINI güncelleştirmek için:
 
-1. Iş Ortağı Merkezi panonuzda oturum açın.
+1. Iş Ortağı Merkezi panosunda oturum açın ve ardından **Ayarlar**' ı seçin.
  
-1. **Hesap ayarlarından** **kuruluş profili** ' ni seçin.
+1. **Hesap ayarları**' ndan **tanımlayıcılar**' ı seçin.
 
-1. **İlişkili MPNID**' ın yanındaki **Güncelleştir**' i seçin.
+1. **CSP** bölümünde, CSP hesabınızla ilişkili MPN kimliğini güncelleştirmek için **Güncelleştir** bağlantısını kullanın.
  
-1. **Devam**’ı seçin.
- 
-1. MPN KIMLIĞINIZI ekleyin.
-
 
 ## <a name="update-your-billing-address"></a>Faturalandırma adresinizi güncelleştirin
 

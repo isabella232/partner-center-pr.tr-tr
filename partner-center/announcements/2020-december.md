@@ -9,18 +9,157 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 12/02/2020
-ms.openlocfilehash: 841ef4701ef7c973cc7a4fffaa26bb24b8d6f7e9
-ms.sourcegitcommit: e9066768ab8e242c03f0a7e3ce460ae8cd2e3fda
+ms.openlocfilehash: c546885d74f5959dd02c0c7ce0fdbc22f9ff5313
+ms.sourcegitcommit: 3ff229fd6f80b9e935d151280b17a60b8c39e8a9
 ms.translationtype: MT
 ms.contentlocale: tr-TR
 ms.lasthandoff: 12/17/2020
-ms.locfileid: "97622159"
+ms.locfileid: "97635999"
 ---
 # <a name="december-2020-announcements"></a>Aralık 2020 duyuruları
 
 Bu sayfada, Kasım 2020 ' de Microsoft Iş Ortağı Merkezi duyuruları ayrıntılı olarak yer alındı.
 
 2020 Duyuruları: [Nisan](2020-april.md)ayında  |  [](2020-may.md)  |  [](2020-june.md)  |  [](2020-july.md)  |  [](2020-august.md)  |  [](2020-september.md)  |  [](2020-October.md)  |  [Kasım](2020-november.md) ayında Haziran ayında | Ayının
+
+______________
+
+## <a name="changes-to-the-cloud-solution-provider-csp-customer-onboarding-requirements"></a><a name="8"></a>Bulut çözümü sağlayıcısı (CSP) müşteri ekleme gereksinimleriyle yapılan değişiklikler
+
+### <a name="categories"></a>Kategoriler
+
+- Tarih: 2020-12-17
+- Teklifler/Pazarlar
+ 
+### <a name="summary"></a>Özet
+
+İş ortakları ve müşterilerin işlerini güvenle çalıştırmasına yardımcı olma çabamız kapsamında, Mart 2021 ' nin sonunda geçerli olan ek müşteri bilgileri isteyeceğiz.
+
+### <a name="impacted-audience"></a>Etkilenen hedef kitle
+
+CSP doğrudan fatura ortakları ve sonraki bölümde listelenen ülkelerde yeni veya mevcut müşteriler bulunan dolaylı sağlayıcılar
+
+### <a name="details"></a>Ayrıntılar
+
+Microsoft, güvende çalışır. CSP programında deneyimidir müşteri abonelikleri için uyumlu, güvenli ve güvenli bir müşteri doğrulama yöntemi sağlamayı taahhüt ediyoruz. Mart 2021 ' ün sonunda, aşağıdaki ölçütlerin her ikisini de karşılayan iş ortaklarını etkileyecek Iş Ortağı Merkezi API 'SI ve Kullanıcı arabirimi (UI) geliştirmeleri sunuyoruz:
+
+1. İş ortağı Microsoft ile doğrudan faturalandırma ilişkisine sahiptir (Bu, ortağın doğrudan bir fatura ortağı veya dolaylı bir sağlayıcı olduğu anlamına gelir).
+
+2. İş ortağı aşağıdaki ülkelerde yeni veya mevcut müşteriler ile iş yapar:
+    - Tayland
+    - Vietnam
+    - Türkiye
+    - Polonya
+    - Güney Afrika
+    - Hindistan
+    - Brezilya
+    - Irak
+    - Myanmar
+    - Güney Sudan
+    - Suudi Arabistan
+    - Birleşik Arap Emirlikleri
+    - Venezuela
+
+Ölçütlere uyan iş ortakları, bir müşterinin bir sonraki güncelleştirdiklerinde veya bir abonelik oluştururken bir müşterinin **yasal tanımlayıcısını** (müşterinin **kuruluş** adı olarak da bilinir) ve **telefon numarasını** göndermesi gerekecektir. Bu iş ortakları, müşteri için isteğe bağlı bir **Orta ad** da girebilir.
+
+Aşağıdaki ülkelerde yeni veya mevcut müşteriler ile iş yapan iş ortakları, Kasım 2020 ' de daha önceki bir sürüm ile zaten eklendi.
+
+- Ermenistan
+- Azerbaycan
+- Belarus
+- Macaristan
+- Kazakistan
+- Kırgızistan
+- Moldova
+- Rusya
+- Tacikistan
+- Ukrayna
+- Özbekistan
+
+Dünyanın geri kalanında müşterilere sahip iş ortakları, 2021 Mart 'ın sonunda, müşteriler için isteğe bağlı ayrıntılar olarak **yasal tanımlayıcı**, **telefon numarası** ve **Orta adı** girme yeteneğine sahip olacaktır.
+
+### <a name="next-steps"></a>Sonraki adımlar
+
+- Daha ayrıntılı rehberlik için, adanmış [iş ortağı koleksiyonundaki](https://partner.microsoft.com/resources/collection/additionalfields-csp-customers-selected-geos#/) teknik belgeleri ve sık sorulan soruları gözden geçirin.
+- Iş Ortağı Merkezi API 'sini ve Web kullanıcısı deneyimini kullanarak değişiklikleri dahil etmek için hazırlanın. API/SDK 'lar test için kullanılabilir olacak.
+- Yeni müşterileri eklerken veya mevcut müşteri ayrıntılarını değiştirirken ek verileri gönderdiğinizden emin olun.
+- Bir denetim masası satıcısı (CPV) çözümü kullanıyorsanız, CPV 'nize başvurun.
+
+### <a name="questions"></a>Sorularınız mı var?
+
+Yasal tanımlayıcıyla (ıNN veya tın olarak da bilinir) ilgili sorularınız varsa vergi danışmanınıza veya yerel vergi ofisine başvurun. Microsoft, vergi konusunda önemli yönergeler sağlayamaz. 
+
+Microsoft ile işlemlerinizi desteklemek için [bir hizmet isteği açın](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=aa679372-d996-73df-e244-cb28bbbf28e8).
+
+______________
+
+## <a name="reminder-perpetual-software-in-the-cloud-solution-provider-csp-program-broadly-available-from-january-2021"></a><a name="7"></a>Anımsatıcı: bulut çözümü sağlayıcısı (CSP) programında, Ocak 2021 ' den büyük ölçüde erişilebilen kalıcı yazılım
+
+### <a name="categories"></a>Kategoriler
+
+- Tarih: 2020-12-17
+- Işletmenizi büyütün
+ 
+### <a name="summary"></a>Özet
+
+Bu, 19 Ocak 2021 ' den itibaren tüm CSP iş ortaklarının ticari kalıcı yazılım lisansları satıtabilecekleri bir anımsatıcı. Ayrıca yeni ürünler ve coğrafi olarak da sunuyoruz.
+
+### <a name="impacted-audience"></a>Etkilenen hedef kitle
+
+Tüm CSP iş ortakları
+
+### <a name="details"></a>Ayrıntılar
+
+**19 ocak 2021**' den gelen, CSP 'ye kaydedilen tüm iş ORTAKLARıNıN, CSP aracılığıyla şirket içi dağıtım için ticari kalıcı yazılım lisansları satabileceksiniz. Bu, müşterilere dijital dönüştürmesinin bir parçası olarak ihtiyaç duydukları lisans esnekliğini sağlar.
+
+Aynı tarihte de şunlar gerçekleşecektir:
+
+- CSP kalıcı yazılım fiyat listesi, Iş Ortağı Merkezi ' nde yeniden yayımlanmalıdır. Bunu, ek ürünler ve coğrafi sayfalar içeren [satış > fiyatlandırma & teklifleri](https://partnercenter.microsoft.com/pcv/sales) sayfasının **yazılım** bölümünde bulabilirsiniz. Ayrıntıların tamamını [burada](https://partner.microsoft.com/resources/detail/software-in-csp-new-products-geos-pdf) görüntüleyebilirsiniz.
+
+- Iş Ortağı Merkezi yazılımı ve lisans anahtarı karşılama özelliği kullanımdan kalkacaktır. [Duyurular](https://docs.microsoft.com/partner-center/announcements/2020-september#17) -ve iş ortakları Microsoft 365 Yönetim merkezini özel olarak bu amaçla kullanacaktır. Bu, müşteriler için en güvenli ve verimli deneyim sağlar. [Genel bakış](https://support.microsoft.com/office/admin-center-overview-fa715fa8-6eda-456d-b177-d1c156edd1b3), [genel görevler](https://docs.microsoft.com/microsoft-365/admin/admin-overview/about-the-admin-center?view=o365-worldwide&preserve-view=true)ve [lisans anahtarı tamamlama özelliklerini](https://partner.microsoft.com/resources/detail/microsoft-365-admin-center-software-key-download-pdf)inceleyerek Microsoft 365 Yönetim Merkezi yazılımı hakkında daha fazla bilgi edinin.
+
+### <a name="perpetual-software-in-csp"></a>CSP 'de kalıcı yazılım
+
+Yeni ticaret deneyiminde CSP programına kalıcı yazılım eklenmesi, iş ortaklarının birden çok lisanslama programını yönetmek için harcayacağı süreyi ve maliyetleri azaltır. Bu, geliştirilmiş satış, işletimsel ve yönetim özelliklerine yol açacaktır. İş ortakları, karma bulut ortamları için lisansları ve yönetilen Hizmetleri birleştirme esnekliğine sahip farklı çözümler ve yönetilen hizmetler sunarak müşterilerinin buluta geçişini daha da hızlandırarak işletmelerini genişletebilirler. Sırasıyla müşteriler, yazılım lisansları satın alma konusunda basitleştirilmiş bir yaklaşımdan ve daha fazla esneklikten yararlanır. Bu satın alma sürecinin anlaşılması kolaydır, lisans varlık yönetimini doğrudan geliştirir ve tahmin edilebilir maliyetlere sahiptir.
+
+### <a name="next-steps"></a>Sonraki adımlar
+
+Aşağıdaki kaynakları gözden geçirin ve kuruluşunuzdaki ilgili kişilerle paylaşabilirsiniz:
+
+- [CSP kalıcı yazılım ürünleri ve coğrafi](https://partner.microsoft.com/resources/detail/software-in-csp-new-products-geos-pdf) olarak 19 Ocak 2021 ' de ekleniyor
+
+- Microsoft 365 yönetim merkezine [genel bakış](https://support.microsoft.com/office/admin-center-overview-fa715fa8-6eda-456d-b177-d1c156edd1b3), [ortak görevler](https://docs.microsoft.com/microsoft-365/admin/admin-overview/about-the-admin-center?view=o365-worldwide&preserve-view=true)ve [Lisans anahtarı karşılama özellikleri](https://partner.microsoft.com/resources/detail/microsoft-365-admin-center-software-key-download-pdf)
+
+- [Bulut çözümü sağlayıcısı programında iş ortakları için fırsatları genişletme](https://blogs.partner.microsoft.com/mpn/expanding-opportunities-for-partners-in-the-cloud-solution-provider-program/) (iş ortağı duyurusu)
+
+- [Bulut çözümü sağlayıcısı program](https://partner.microsoft.com/resources/collection/software-in-csp#/) hazırlık malzemelerinden, genel bakış sunumu, Lisanslama Kılavuzu, Iş ortağı SSS, işletimsel ve teknık (SDK/API) web seminerleri ve daha birçok yararlı kaynak gibi kalıcı yazılımlar. Rolünüzün doğru bilgilerini hızlı bir şekilde bulmak için bu [hazırlık haritasını](https://partner.microsoft.com/resources/detail/software-in-csp-readiness-map-pdf) kullanın.
+
+### <a name="questions"></a>Sorularınız mı var?
+
+Bu teklifler hakkında daha fazla soru için ilgili Yammer topluluklarınızı kontrol edin.
+
+______________
+
+## <a name="online-services-and-software-channel-authorization-guide"></a><a name="6"></a>Çevrimiçi hizmetler ve yazılım kanalı yetkilendirme Kılavuzu
+
+### <a name="categories"></a>Kategoriler
+
+- Tarih: 2020-12-17
+- Özellikler
+ 
+### <a name="impacted-audience"></a>Etkilenen hedef kitle
+
+Bulut çözümü sağlayıcısı (CSP) programına katılan doğrudan fatura, dolaylı sağlayıcılar ve çok katmanlı iş ortakları.
+
+### <a name="details"></a>Ayrıntılar
+
+Microsoft Iş ortağı sözleşmenize uygun olarak (bkz. **çevrimiçi hizmetler ve yazılım kanalı yetkilendirmesi – değişikliklere Ilişkin değişiklikler – kılavuzlarda yapılan değişiklikler**), Microsoft 'un, çevrimiçi hizmetler ve yazılım kanalı yetkilendirme kılavuzunun güncellendiğine yönelik olarak. 
+
+Burada, [burada kullanılabilen](https://partner.microsoft.com/resources/detail/update-guide-online-services-software-channel-authorization-jan-redline-pdf)değişiklikleri belirten bir Redline ile güncelleştirilmiş kılavuzun Önizlemesi [kullanılabilir](https://partner.microsoft.com/resources/detail/update-guide-online-services-software-channel-authorization-jan-pdf). Bu güncelleştirme, bu bildirimin tarihinden itibaren 30 gün geçerli olacak. Şu anda sizin için başka bir işlem yapmanız gerekmez.
+
+### <a name="next-steps"></a>Sonraki adımlar
+
+Eylem gerekmiyor. Bu yalnızca bilgi içindir.
 
 ______________
 
@@ -37,7 +176,7 @@ Tüm iş ortakları bulut çözümü sağlayıcısı (CSP) programı üzerinden 
 
 ### <a name="details"></a>Ayrıntılar
 
-Başlangıçta 1 Aralık 1 için planlanan Power Apps promosyon teklifi biraz gecikti. Teklif 16 Aralık 2020 ' de kullanılabilir olmalıdır. Bu teklif, daha düşük bir fiyatla sunulur ve Iş Ortağı Merkezi 'nde tipik tekliflerden başka bir önemli fark içerir.
+Başlangıçta 1 Aralık 2020 ' de planlanmış olan Power Apps promosyon teklifi biraz gecikti. Teklif 16 Aralık 2020 ' de kullanılabilir olmalıdır. Bu teklif, daha düşük bir fiyatla sunulur ve Iş Ortağı Merkezi 'nde tipik tekliflerden başka bir önemli fark içerir.
  
 **Teklif Ayrıntıları**
 
