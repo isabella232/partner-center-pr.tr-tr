@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 12/03/2020
-ms.openlocfilehash: d90a9adf70b372517c0454733ec1a2262f330c1f
-ms.sourcegitcommit: bc44a6e0c5ef048cda6e882fdb543c13c5b64912
+ms.openlocfilehash: a373a6a956e8c8a8e8052a946cc82a8d82213da0
+ms.sourcegitcommit: e9066768ab8e242c03f0a7e3ce460ae8cd2e3fda
 ms.translationtype: HT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/08/2020
-ms.locfileid: "96869325"
+ms.lasthandoff: 12/17/2020
+ms.locfileid: "97622193"
 ---
 # <a name="partner-center-announcements"></a>İş Ortağı Merkezi duyuruları
 
@@ -22,6 +22,7 @@ ms.locfileid: "96869325"
 
 | **Kategori** | **Aralık 2020 duyuruları** | **Duyurulan** |
 |---------|:---------|:---------|
+|Teklifler/Pazarlar|[Power Apps tanıtım teklifi kullanıma sunuldu](2020-december.md#5)|16 Aralık|
 |Özellikler|[.NET Standart (v1.16.3) üzerinde SDK Sürümü](2020-december.md#4)|8 Aralık|
 |Teklifler/Pazarlar|[Aralık 2020 lisans tabanlı fiyat listesi sürüm notları](2020-december.md#3)|8 Aralık|
 |Teklifler/Pazarlar|[Arama Planı olan US Microsoft 365 Küçük İşletmeler için Ses teklifinde yakında bir güncelleştirme yapılacak](2020-december.md#2)|3 Aralık|

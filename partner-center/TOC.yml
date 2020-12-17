@@ -738,6 +738,8 @@
     - name: İş ortağı kiracınız için MFA'yı zorunlu tutma
       href: partner-security-requirements-mandating-mfa.md
       displayName: csp
+    - name: Kullanıcılarınız için MFA’yı ayarlama
+      href: mfa-for-users.md
     - name: Gereksinim durumu
       href: partner-security-compliance.md
       displayName: csp
