@@ -6,15 +6,15 @@ description: Birincil iletişim, adres ve program bilgileri gibi şirketinizin a
 author: parthpandyaMSFT
 ms.author: parthp
 ms.topic: how-to
+ms.date: 12/17/2020
 ms.localizationpriority: high
-ms.date: 12/16/2020
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 398e02e4d18df9e555a1576e845e1d0e0bdf1105
-ms.sourcegitcommit: 3ff229fd6f80b9e935d151280b17a60b8c39e8a9
+ms.openlocfilehash: 938713a08b52d7f5d601ef7801f300eec223b921
+ms.sourcegitcommit: 37c421eac547f6d9c2f5c8460a40f736ec8b8841
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "97636016"
+ms.lasthandoff: 12/18/2020
+ms.locfileid: "97666800"
 ---
 # <a name="verify-your-organization-profile-information-in-partner-center"></a>Iş Ortağı Merkezi 'nde kuruluş profili bilgilerinizi doğrulayın
 
@@ -27,13 +27,13 @@ Iş Ortağı Merkezi 'Nde genel yönetici olarak ilk kez oturum açtığınızda
 
 İş ortağı profiliniz, yasal iş bilgileriniz, birincil iletişim adı ve e-postalarınız, şirketinizin katıldığı programlar ve varsa diğer şirketleriniz, artık yasal işletmeniz kapsamında birleştirilmiş olan diğer şirketlerinizden oluşur. Yasal iş profilinizde bulunan şirket adı ve adresinin, yazım hatalarını ve kısaltmalarının olmadığından ve resmi şirket iş kaydı kayıtlarınızın tam olarak eşleştiğinden emin olun. Tek bir proprietor olarak çalışıyorsanız, geçerli adınız olarak şirketinizin adını kullanmanız gerekir.
 
-1. **Ayarlar** ' a gidin ve **Hesap ayarları**' nı seçin.
+1. **Ayarlar** simgesine gidin ve **Hesap ayarları**' nı seçin.
  
 1. **Kuruluş profili** seçin. 
 
 2. **Yasal iş profilinizi**, **birincil Iletişim bilgilerini** ve **Program bilgilerinizi** gözden geçirin.
 
-Diğer şirketlerinizi yasal işletmeniz kapsamında birleştirdiyseniz, bilgilerini de gözden geçirebilirsiniz. 
+Diğer şirketlerinizi yasal işletmeniz kapsamında birleştirdiyseniz, bu bilgileri de gözden geçirebilirsiniz. 
 
 ## <a name="update-your-legal-business-profile"></a>Yasal iş profilinizi güncelleştirme
 
@@ -67,10 +67,10 @@ CSP hesabınızla ilişkili MPN KIMLIĞINI güncelleştirmek için:
 
 1. Iş Ortağı Merkezi panosunda oturum açın ve ardından **Ayarlar**' ı seçin.
  
-1. **Hesap ayarları**' ndan **tanımlayıcılar**' ı seçin.
+1. **Hesap ayarlarından** **tanımlayıcılar** ' ı seçin.
 
-1. **CSP** bölümünde, CSP hesabınızla ilişkili MPN kimliğini güncelleştirmek için **Güncelleştir** bağlantısını kullanın.
- 
+1. **CSP** bölümünde, CSP hesabınızla ilişkili MPN kimliğini güncelleştirmek için **Güncelleştir** bağlantısını kullanın 
+
 
 ## <a name="update-your-billing-address"></a>Faturalandırma adresinizi güncelleştirin
 

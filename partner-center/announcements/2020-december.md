@@ -8,19 +8,110 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 12/02/2020
-ms.openlocfilehash: c546885d74f5959dd02c0c7ce0fdbc22f9ff5313
-ms.sourcegitcommit: 3ff229fd6f80b9e935d151280b17a60b8c39e8a9
+ms.date: 12/17/2020
+ms.openlocfilehash: 0712c2b8aa3a22dd4a6f327759c383257cb6605a
+ms.sourcegitcommit: 37c421eac547f6d9c2f5c8460a40f736ec8b8841
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "97635999"
+ms.lasthandoff: 12/18/2020
+ms.locfileid: "97666783"
 ---
 # <a name="december-2020-announcements"></a>Aralık 2020 duyuruları
 
 Bu sayfada, Kasım 2020 ' de Microsoft Iş Ortağı Merkezi duyuruları ayrıntılı olarak yer alındı.
 
 2020 Duyuruları: [Nisan](2020-april.md)ayında  |  [](2020-may.md)  |  [](2020-june.md)  |  [](2020-july.md)  |  [](2020-august.md)  |  [](2020-september.md)  |  [](2020-October.md)  |  [Kasım](2020-november.md) ayında Haziran ayında | Ayının
+
+______________
+
+## <a name="perpetual-software-in-csp--new-products-and-geographies"></a><a name="10"></a>CSP 'de kalıcı yazılım: yeni ürünler ve coğrafi lıklar
+
+### <a name="categories"></a>Kategoriler
+
+- Tarih: 2020-12-17
+- Teklifler
+
+### <a name="impacted-audience"></a>Etkilenen hedef kitle
+
+CSP doğrudan fatura ortakları, dolaylı sağlayıcılar ve dolaylı satıcılar
+
+### <a name="details"></a>Ayrıntılar
+
+Daha iyi bir satın alma deneyimiyle müşteriler ve iş ortakları sağlamak için ticari olanaklarımızı geliştirdiğimiz için, teklif portföyünü bulut çözümü sağlayıcısı programı (CSP) içinde kalıcı yazılım lisanslarının kullanılabilirliğini içerecek şekilde genişlettik. CSP içindeki yazılım lisanslarının eklenmesi, katılımcı iş ortaklarının müşterilerine farklı çözümler ve yönetilen hizmetler sunmaya odaklanmalarına olanak tanır. Ayrıca, müşterilerin buluta geçişini de güçler ve iş ortaklarına karma bulut ortamları için gereken esnekliği sunar.
+
+Microsoft, 19 Ocak 2021 tarihinden itibaren tüm CSP doğrudan fatura ortakları, dolaylı sağlayıcılar ve dolaylı satıcıların yazılım lisanslarını CSP programında satmasını sağlayacak ve ek ürünler ve coğrafi listeler de ekleyeceğiz. 
+
+CSP 'de kalıcı yazılım ile ilgili tüm ayrıntıları bulma bkz.  [bulut çözümü sağlayıcısı programında](https://partner.microsoft.com/resources/collection/software-in-csp#/)hazır olma koleksiyonu: kalıcı yazılım.
+
+### <a name="products"></a>Ürünler
+
+Bu ek ürünler 19 Ocak 2020 tarihinde yayımlanacak Ocak 2021 CSP fiyat listesinde görünür.  Bu, 1 Ocak 2021 tarihinde yayınlanan ilk Ocak 2021 CSP fiyat listesinin yeniden yayınlanmasını sağlayacaktır.
+
+- Exchange Server Enterprise 2019
+- Exchange Server Enterprise 2019 cihaz CAL 'SI
+- Exchange Server Enterprise 2019 Kullanıcı CAL 'SI
+- Exchange Server Standart 2019
+- Exchange Server Standard 2019 cihaz CAL 'SI
+- Exchange Server Standard 2019 Kullanıcı CAL 'SI
+
+### <a name="geographies"></a>Coğrafyalar
+
+CSP 'de kalıcı yazılım için 19 Ocak 2021 tarihinden itibaren kullanılabilen ek coğrafi lıklar şunlardır:
+
+|**Kullanılabilir coğrafi lıklar**|| | |
+|-----------------------------|-------------------------------|------------|----------------------|
+|Azerbaycan|Belarus|Benin|Butan|
+|Bonaire, Sint Eustatius ve Saba|Bouvet Adası|Brezilya|
+|Britanya Hint Okyanusu Toprakları|Burkina Faso|Burundi|Kamboçya|
+|Orta Afrika Cumhuriyeti|Çad|Christmas Adası|Cocos (Keeling) Adaları|
+|Komorlar|Kongo Cumhuriyeti|Kongo Demokratik Cumhuriyeti|Cook Adaları|
+|Cibuti|Ekvator Ginesi|Eritre|Falkland Adaları|
+|Fransız Guyanası|Fransız Polinezyası|Fransız Güney Toprakları|Gabon|
+|Gambiya|Gürcistan|Cebelitarık|Grönland|
+|Grenada|Guadeloupe|Guam|Guernsey|
+|Gine|Gine-Bissau|Haiti|Heard Adası ve McDonald Adaları|
+Papalık|Macaristan|Hindistan|Irak|
+|Man Adası|Jersey|Kazakistan|Kiribati|
+|Kore Cumhuriyeti|Kırgızistan|Liberya|Madagaskar|
+|Malavi|Maldivler|Mali|Marshall Adaları|
+|Martinique|Moritanya|Mayotte|Mikronezya (Federe Devletleri)|
+|Moldova|Moğolistan|Montserrat|Mozambik|
+|Myanmar|Nauru|Hollanda Antilleri|Yeni Kaledonya|
+|Nijer|Niue|Norfolk Adası|Kuzey Mariana Adaları|
+|Palau|Papua Yeni Gine|Pitcairn|Polonya|
+|Katar|Reunion|Rusya|Saint Barthelemy|
+|Saint Helena, Ascension ve Tristan da Cunha|Saint Lucia|Saint MARTIN (Fransız bölümü)|Saint Pierre ve Miquelon|
+|Saint Vincent ve Grenadinler|Samoa|San Marino|Sao Tome ve Principe|
+|Suudi Arabistan|Seyşeller|Sierra Leone|Sint Maarten (Felemenkçe bölüm)|Solomon Adaları|
+|Somali|Güney Afrika|Güney Georgia ve Güney Sandwich Adaları|Güney Sudan|
+|Surinam|Svalbard ve Jan Mayen|Svaziland|Tayvan|
+|Tacikistan|Tayland|Timor-Leste|Togo|
+|Tokelau|Tonga|Türkiye|Türkmenistan|
+|Turks ve Caicos Adaları|Tuvalu|Ukrayna|Birleşik Devletler küçük harici Adaları|
+|Özbekistan|Vanuatu|Venezuela|Vietnam|
+|Virgin Adaları, İngiliz|Wallis ve Futuna
+
+
+____________
+
+## <a name="government-academic-and-non-profit-continuing-the-open-license-program-changes-and-evolution-of-csp"></a><a name="9"></a>Kamu, akademik ve kar amacı: açık lisans programı değişiklikleri ve CSP gelişiminde devam ediliyor
+
+### <a name="categories"></a>Kategoriler
+
+- Tarih: 2020-12-17
+- Işletmenizi büyütün
+
+### <a name="impacted-audience"></a>Etkilenen hedef kitle
+
+Tüm CSP iş ortakları
+
+### <a name="details"></a>Ayrıntılar
+
+Bugün, [bulut için önceliklendirmeye](https://blogs.partner.microsoft.com/mpn/expanding-opportunities-for-partners-in-the-cloud-solution-provider-program/)devam ettiğimiz Için, açık lisans programı aracılığıyla satın alan genel sektör (kamu, eğitim ve kar amacı olmayan) müşterilerinin gelecekteki değişikliklerinin yanı sıra, bulut çözümü sağlayıcısı programında ilgili değişiklikler hakkında bildirim sağlıyoruz.
+
+### <a name="next-steps"></a>Sonraki adımlar
+
+Tam duyuru yalnızca Microsoft iş ortakları tarafından kullanılabilir. [Tam duyuruya erişmek Için oturum açın](https://partner.microsoft.com/resources/detail/public-sector-open-license-csp-evolution-to-a-better-experience-pc-announcement-pdf).
 
 ______________
 
