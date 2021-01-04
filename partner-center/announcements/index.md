@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 12/03/2020
-ms.openlocfilehash: a373a6a956e8c8a8e8052a946cc82a8d82213da0
-ms.sourcegitcommit: e9066768ab8e242c03f0a7e3ce460ae8cd2e3fda
+ms.date: 12/17/2020
+ms.openlocfilehash: ea08eb3ab860c0ed4c34ee3818b7db42307c3b4e
+ms.sourcegitcommit: 37c421eac547f6d9c2f5c8460a40f736ec8b8841
 ms.translationtype: HT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "97622193"
+ms.lasthandoff: 12/18/2020
+ms.locfileid: "97666749"
 ---
 # <a name="partner-center-announcements"></a>İş Ortağı Merkezi duyuruları
 
@@ -22,6 +22,11 @@ ms.locfileid: "97622193"
 
 | **Kategori** | **Aralık 2020 duyuruları** | **Duyurulan** |
 |---------|:---------|:---------|
+|Teklifler/Pazarlar|[CSP’deki kalıcı yazılım:  Yeni ürünler ve coğrafyalar](2020-december.md#10)|17 Aralık|
+|İşinizi Büyütme|[Kamu, akademik ve kar amacı gütmeyen: Açık Lisans programı değişikliklerinin ve CSP gelişiminin devamı](2020-december.md#9)|17 Aralık|
+|Teklifler/Pazarlar|[Bulut Çözümü Sağlayıcısı (CSP) müşteri ekleme gereksinimlerinde yapılan değişiklikler](2020-december.md#8)|17 Aralık|
+|İşinizi Büyütme|[Anımsatıcı: Bulut Çözümü Sağlayıcısı (CSP) programındaki kalıcı yazılım, Ocak 2021'den itibaren kapsamlı olarak kullanıma sunulacak](2020-december.md#7)|17 Aralık|
+|Özellikler|[Çevrimiçi Hizmetler ve Yazılım Kanal Yetkilendirme Kılavuzu](2020-december.md#6)|17 Aralık|
 |Teklifler/Pazarlar|[Power Apps tanıtım teklifi kullanıma sunuldu](2020-december.md#5)|16 Aralık|
 |Özellikler|[.NET Standart (v1.16.3) üzerinde SDK Sürümü](2020-december.md#4)|8 Aralık|
 |Teklifler/Pazarlar|[Aralık 2020 lisans tabanlı fiyat listesi sürüm notları](2020-december.md#3)|8 Aralık|
