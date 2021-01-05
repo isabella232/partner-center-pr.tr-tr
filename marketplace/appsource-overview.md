@@ -6,18 +6,18 @@ ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
 ms.date: 11/20/2020
-ms.openlocfilehash: 5769326965955762d2c262fd42a099cf745417e6
-ms.sourcegitcommit: 1aa43438ad181278052788f15e017f9ae7777943
+ms.openlocfilehash: 9559e1e2b0511d52b1535efa6513bbb61c6c5fec
+ms.sourcegitcommit: 0dfbb9717bd67f710652e4af11867857c930b2fa
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 11/21/2020
-ms.locfileid: "95007656"
+ms.lasthandoff: 12/25/2020
+ms.locfileid: "97771701"
 ---
 # <a name="what-is-microsoft-appsource"></a>Microsoft AppSource nedir?
 
 Microsoft AppSource, sektör lideri yazılım sağlayıcıları tarafından oluşturulan binlerce iş uygulaması ve hizmeti içeren çevrimiçi bir depodur. İşinizi çalıştırmanıza yardımcı olan iş yazılımı ve hizmetlerini bulmak, denemek, Satın almak ve dağıtmak için AppSource 'u kullanabilirsiniz.
 
-AppSource Catalog, hizmet olarak yazılım (SaaS) uygulamaları, Microsoft Azure, Dynamics 365, Microsoft 365, Power BI, Power Apps ve Microsoft iş ortaklarından danışmanlık hizmetleri için oluşturulmuş çözümler içerir. AppSource ürün kataloğuna de [https://appsource.microsoft.com](https://appsource.microsoft.com) Microsoft 365, Dynamics 365 ve Microsoft Power platform 'daki ürün içi deneyimle erişebilirsiniz. AppSource 'taki çözümler, bulut çözümü sağlayıcısı programındaki Microsoft satıcılarından da bulunabilir.
+AppSource Catalog, hizmet olarak yazılım (SaaS) uygulamaları, Microsoft Azure, Dynamics 365, Microsoft 365, Power BI, Power Apps ve Microsoft iş ortaklarından danışmanlık hizmetleri için oluşturulmuş çözümler içerir. [https://appsource.microsoft.com](https://appsource.microsoft.com)Microsoft 365, Dynamics 365 ve Microsoft Power platform 'daki ürün içi deneyimle veya Içinde AppSource ürün kataloğuna erişin. AppSource 'taki çözümler, bulut çözümü sağlayıcısı programındaki Microsoft satıcılarından da bulunabilir.
 
 ## <a name="find-what-you-need-on-appsource"></a>AppSource 'ta neleri aradığınızı bulun
 
@@ -44,12 +44,16 @@ AppSource 'ta bulunan her ürün belirli ölçütlere göre sertifikalandırilmi
 
 ## <a name="terms-and-conditions"></a>hüküm ve koşullar
 
-Yazılım satıcısı fiyatı, Son Kullanıcı Lisans Sözleşmesi 'ni ve gizlilik ilkelerini tanımlar. AppSource 'ta her teklif, yayımcının lisans sözleşmesinin ve gizlilik ilkesinin bağlantılarını içerir. Bu sözleşmeleri ele almaktan ve bunları görüntüleme fırsatına sahip olmanın, satın alma akışının bir parçası olduğunu bildirir. Daha fazla bilgi için [yasal sözleşmeleri](legal-contracts.md) inceleyin.
+Yazılım satıcısı, Fiyat, Son Kullanıcı Lisans Sözleşmesi ve gizlilik ilkelerini tanımlar. AppSource 'ta her teklif, yayımcının lisans sözleşmesinin ve gizlilik ilkesinin bağlantılarını içerir. Bu sözleşmeleri görüntüleme ve ele alma, satın alma akışının bir parçasıdır. Ayrıntılar için bkz. [yasal sözleşmeler](legal-contracts.md).
+
+## <a name="discover-saas-and-m365-integrated-apps"></a>SaaS ve M365 ile tümleşik uygulamaları bulma
+
+İş ortaklarımız SaaS ve M365 ile tümleşik uygulamalar arasında bağlantı oluşturabilir. Bu, bağlantılı SaaS uygulamasını alırken tümleşik uygulamaları indirip kullanmanıza olanak sağlar. Bu durumda, arama sonucu yalnızca, onunla birlikte gelen tümleşik uygulamaların simgelerini gösteren SaaS uygulamasını döndürebilir. SaaS ve tümleşik uygulama arasında, her birinin ürün ayrıntıları sayfasında gezinebilirsiniz. SaaS uygulaması satın alma gerektiriyorsa, bkz. [Microsoft AppSource SaaS teklifleri satın alma](purchase-software-appsource.md).
 
 ## <a name="find-ratings-and-reviews"></a>Derecelendirmeleri ve incelemeleri bulun
 
-Her listeleme sayfasında, diğer müşterilerden derecelendirme ve gözden geçirme bilgilerini bulacaksınız. Derecelendirmeler 5 yıldızlı bir ölçek kullanır ve her bir teklif kartında Ortalama derecelendirme görüntülenir. Diğer müşterilerin deneyimleri hakkında daha fazla bilgi edinmek için de tam incelemeler mevcuttur. Bir çözüm satın aldıktan sonra, diğer müşterilerin karar vermesine yardımcı olmak için bir derecelendirme ve gözden geçirme bırakabilirsiniz.
+Her listeleme sayfasında, diğer müşterilerden derecelendirme ve gözden geçirme bilgilerini bulacaksınız. Derecelendirmeler beş yıldızlı bir ölçek kullanır ve her bir teklif kartında Ortalama derecelendirme görüntülenir. Diğer müşterilerin deneyimleri hakkında daha fazla bilgi edinmek için de tam incelemeler mevcuttur. Bir çözüm satın aldıktan sonra, diğer müşterilerin karar vermesine yardımcı olmak için bir derecelendirme ve gözden geçirme bırakabilirsiniz.
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-- [Microsoft AppSource yazılım satın alma](purchase-software-appsource.md)
+- [Microsoft AppSource’ta yazılım satın alma](purchase-software-appsource.md)

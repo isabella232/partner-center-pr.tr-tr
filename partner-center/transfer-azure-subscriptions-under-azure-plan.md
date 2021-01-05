@@ -9,12 +9,12 @@ ms.localizationpriority: medium
 author: mckennaville
 ms.author: mcville
 ms.date: 07/29/2020
-ms.openlocfilehash: 81f64e117f9e0a4abc817746d11dc9acae887577
-ms.sourcegitcommit: 146964ce0cc72bd821692f73f9c0b55e6fefb0fc
+ms.openlocfilehash: e792e4af2999924ba8be77ec0517ce56c1db7a27
+ms.sourcegitcommit: ed5c873d19f0464cc986fe6e852383cd4280daf6
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 11/10/2020
-ms.locfileid: "94433356"
+ms.lasthandoff: 01/05/2021
+ms.locfileid: "97893215"
 ---
 # <a name="transfer-a-customers-azure-plan-subscriptions-to-a-different-partner"></a>Müşterinin Azure planı aboneliklerini farklı bir ortağa aktarma
 
@@ -49,7 +49,7 @@ Müşteri, bu araç yararlanılabilir önceki iş ortakları (geçerli ve gelece
 
 - Müşteri, geçerli CSP iş ortaklarının geçiş amacını karşılamalarını sağlar
 - Gelecekteki CSP iş ortağı müşteri gereksinimlerinin karşılanabileceği sağlamak için müşteriyle birlikte çalışarak
-- Gelecekteki CSP iş ortağı, geçiş başlamadan önce müşteri ile bir ilişki kurar  
+- Gelecekteki CSP iş ortağı, müşteri ile bir ilişki kurar ve geçiş başlamadan önce bir Azure planı satın alır  
 - Müşteri, gelecek CSP ortağıyla Microsoft Müşteri anlaşmasını imzalayamalıdır
 - Gelecekteki CSP iş ortağı bu aracı kullanmak için Microsoft Iş ortağı sözleşmesi 'Ni imzalamalıdır
 
@@ -66,16 +66,16 @@ Müşterinin ayrıca geçerli iş ortağından aktarmak istedikleri abonelikleri
 
 Aboneliğin gelecek iş ortağının, abonelik aktarımı istemek için Iş Ortağı Merkezi 'nden bir aktarım isteği formunu tamamlaması gerekir:
 
-1.  Iş Ortağı Merkezi menüsünde, **müşteriler** ' i seçin ve ardından bir aktarım isteği formunu gerçekleştirmek istediğiniz müşteriyi seçin.
-2.  Müşteri menüsünden **abonelikler** ' i seçin.
+1.  Iş Ortağı Merkezi menüsünde, **müşteriler**' i seçin ve ardından bir aktarım isteği formunu gerçekleştirmek istediğiniz müşteriyi seçin.
+2.  Müşteri menüsünden **abonelikler**' i seçin.
 3.  **Aktarım isteği** bölümünü seçin.
-4.  **Aktarım isteği bölümünden** **yeni istek ekle** ' yi seçin.
+4.  **Aktarım isteği bölümünden** **yeni istek ekle**' yi seçin.
 
     :::image type="content" source="images/modernazuretransfers/Transferrequestheader.png" alt-text="Aktarımlar bölümü":::
 
 5.  **Yeni aktarım isteği** formunu doldurun.
 
-6.  **Gönderme aktarım isteği** Gönder ' i seçin  >  **Send**.
+6.  **Gönderme aktarım isteği** Gönder ' i seçin  >  .
 
     :::image type="content" source="images/modernazuretransfers/CompleteTrnasferRequestForm.png" alt-text="Aktarım isteği formunu doldurun":::
 
@@ -98,8 +98,8 @@ Abonelik aktarımını gerçekleştirmek için Iş Ortağı Merkezi 'nden aktarm
 >Geçerli iş ortağı tarafından 30 gün içinde herhangi bir eylem yapılmaz, isteğin süresi sona erer ve gelecekteki iş ortağı yeni bir aktarım isteği oluşturmak için bir öğesine sahip olur.
 
 1.  E-postadaki veya **Aktarım Isteğini gözden geçirin** ' i seçin
-1.  Iş Ortağı Merkezi menüsünde **müşteriler** ' i seçin ve ardından bir aktarım isteğinin adına gönderildiği müşteriyi seçin.
-2.  Müşteri menüsünden **abonelikler** ' i seçin.
+1.  Iş Ortağı Merkezi menüsünde **müşteriler**' i seçin ve ardından bir aktarım isteğinin adına gönderildiği müşteriyi seçin.
+2.  Müşteri menüsünden **abonelikler**' i seçin.
 3.  **Aktarım isteği** bölümünü seçin.
 4.  **Alınan istekler** altında seçilen **aktarım isteği kimliğini** seçerek aktarım bilgilerini genişletin
 

@@ -9,16 +9,16 @@ author: parthpandyamsft
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: da6a3ab2a2fab99f49b9f5ba22824e5e61f6d482
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: db35696483c8a1e67f173ec7953cfa33a428a022
+ms.sourcegitcommit: 7575fa314fd9efbbf90089999de4f0703f94898c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92531991"
+ms.lasthandoff: 12/22/2020
+ms.locfileid: "97720841"
 ---
 # <a name="partner-admin-center-is-moving-to-the-partner-center"></a>İş ortağı Yönetim Merkezi Iş Ortağı Merkezi 'ne taşınıyor
 
-**Uygulama hedefi**
+**Şunlara uygulanır**
 
 - İş Ortağı Merkezi
 
@@ -41,13 +41,10 @@ Microsoft Iş ortağı merkezini, Microsoft ile ve müşterilerinizle Iş ortakl
 
 - Cloud Solutions sağlayıcısı iş ortakları: bir CSP iş ortağıysanız, 2018 Nisan 'dan itibaren Iş Ortağı Merkezi 'ne otomatik olarak yönlendiriyoruz.
 
-- Danışman iş ortakları (CSP aracılığıyla Transact ve müşterileriniz için deneme/teklif sağlamak üzere PAC kullanarak): Iş Ortağı Merkezi 'ne otomatik yeniden yönlendirmeniz için zaman çizelgesine karar verdiğimiz anda burada duyuracağız.
+- Danışman iş ortakları (CSP aracılığıyla Transact ve müşterileriniz için deneme/teklif sağlamak üzere PAC kullanarak): bir danışman iş ortağıysanız, Haziran 2020 ' den başlayarak Iş Ortağı Merkezi 'ne otomatik olarak yönlendirilecektir.
 
 ## <a name="start-using-the-microsoft-partner-center-now"></a>Microsoft Iş Ortağı Merkezi 'ni kullanmaya hemen başlayın!
 
 PAC 'den taşımaya başlamak için [Microsoft Iş Ortağı Merkezi](https://partnercenter.microsoft.com/) 'ni kullanmaya hemen başlayın.  PAC için kullandığınız Iş Ortağı Merkezi için aynı kimlik bilgilerini kullanacaksınız.
 
-> [!IMPORTANT]  
-> PAC 'de kullanılabilen bazı özellikler ve işlevler Iş Ortağı Merkezi 'nde kullanılamaz.
-
- Bu değişiklikleri anlamak ve tanımak için [yan yana karşılaştırmayı](moving-from-pac-to-pc.md) okuyun. 
+Bu değişiklikleri anlamak ve tanımak için [yan yana karşılaştırmayı](moving-from-pac-to-pc.md) okuyun.

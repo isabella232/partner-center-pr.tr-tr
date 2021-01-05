@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 12/17/2020
-ms.openlocfilehash: 0712c2b8aa3a22dd4a6f327759c383257cb6605a
-ms.sourcegitcommit: 37c421eac547f6d9c2f5c8460a40f736ec8b8841
+ms.date: 12/21/2020
+ms.openlocfilehash: c186c61fa6a583284884020bf442517e9bb38182
+ms.sourcegitcommit: 4c52d3a1fde7eba20607e9e329a71e478b019036
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/18/2020
-ms.locfileid: "97666783"
+ms.lasthandoff: 12/22/2020
+ms.locfileid: "97736555"
 ---
 # <a name="december-2020-announcements"></a>Aralık 2020 duyuruları
 
@@ -22,75 +22,148 @@ Bu sayfada, Kasım 2020 ' de Microsoft Iş Ortağı Merkezi duyuruları ayrınt�
 
 2020 Duyuruları: [Nisan](2020-april.md)ayında  |  [](2020-may.md)  |  [](2020-june.md)  |  [](2020-july.md)  |  [](2020-august.md)  |  [](2020-september.md)  |  [](2020-October.md)  |  [Kasım](2020-november.md) ayında Haziran ayında | Ayının
 
-______________
+________________
 
-## <a name="perpetual-software-in-csp--new-products-and-geographies"></a><a name="10"></a>CSP 'de kalıcı yazılım: yeni ürünler ve coğrafi lıklar
+## <a name="unused-channel-incentive-co-operative-marketing-fund-co-op-funds-from-the-fy21-h1-usage-period-to-be-rolled-over-to-the-h2-usage-period"></a><a name="13"></a>Kullanılmayan kanal, FY21 H1 kullanım döneminden, H2 kullanım dönemine devredilme kadar ortak pazarlama fonu (Co-op) fonlarını teşvik etmelidir
 
 ### <a name="categories"></a>Kategoriler
 
-- Tarih: 2020-12-17
+- Tarih: 2020-12-22
 - Teklifler
+
+### <a name="summary"></a>Özet
+
+FY21 H1 kullanım dönemi için kullanılmayan ortak op fonları (1 Temmuz 31 Aralık 2020), FY21 H2 kullanım dönemine (1 Ocak 30 Haziran 2021) alınacaktır
 
 ### <a name="impacted-audience"></a>Etkilenen hedef kitle
 
-CSP doğrudan fatura ortakları, dolaylı sağlayıcılar ve dolaylı satıcılar
+Bulut çözümü sağlayıcısı (CSP) doğrudan fatura ortağına, dolaylı sağlayıcıya ve dolaylı satıcı teşvik programlarına katılan iş ortakları
 
 ### <a name="details"></a>Ayrıntılar
 
-Daha iyi bir satın alma deneyimiyle müşteriler ve iş ortakları sağlamak için ticari olanaklarımızı geliştirdiğimiz için, teklif portföyünü bulut çözümü sağlayıcısı programı (CSP) içinde kalıcı yazılım lisanslarının kullanılabilirliğini içerecek şekilde genişlettik. CSP içindeki yazılım lisanslarının eklenmesi, katılımcı iş ortaklarının müşterilerine farklı çözümler ve yönetilen hizmetler sunmaya odaklanmalarına olanak tanır. Ayrıca, müşterilerin buluta geçişini de güçler ve iş ortaklarına karma bulut ortamları için gereken esnekliği sunar.
+Bu zorlayıcı sürelerin iş ortaklarımızın ve müşterilerinin sürekli etkisini tanıdık. İş ortakları için ek esneklik sağlamak üzere, 1 Temmuz 'dan 31 Aralık 2021 ' de çalışan geçerli FY21 H1 kullanım döneminden, kullanılmayan ortak op üzerinden bir kerelik bir geçiş veriyoruz. Birlikte çalışma kredileri, daha iyi bir pazarlama, talep oluşturma ve hazırlık etkinlikleri için talep edilebilir.
 
-Microsoft, 19 Ocak 2021 tarihinden itibaren tüm CSP doğrudan fatura ortakları, dolaylı sağlayıcılar ve dolaylı satıcıların yazılım lisanslarını CSP programında satmasını sağlayacak ve ek ürünler ve coğrafi listeler de ekleyeceğiz. 
+Bu rollover ile, H1 talep ediliyor dönemi kapandıktan sonra hesabınızda kalan kullanılmayan ortak op fonları, 1 Ocak 2021 ' den 30 Haziran ' den itibaren çalışan FY21 H2 kullanım döneminde uygun ortak op etkinlikleri için kullanılabilir.  
 
-CSP 'de kalıcı yazılım ile ilgili tüm ayrıntıları bulma bkz.  [bulut çözümü sağlayıcısı programında](https://partner.microsoft.com/resources/collection/software-in-csp#/)hazır olma koleksiyonu: kalıcı yazılım.
+Talepler, etkinlik tamamlanma 45 gün içinde Iş Ortağı Merkezi [talep aracı](https://partner.microsoft.com/dashboard/incentives/claims/web/) aracılığıyla gönderilmeli ve 15 Ağustos 2021 tarihine kadar kabul edilecektir.
 
-### <a name="products"></a>Ürünler
+Ortak çalışma bakiyenizi Iş Ortağı Merkezi [kazanç panonuzda](https://partner.microsoft.com/dashboard/incentives/enrollment/summary)denetleyebilirsiniz. Uygun etkinlikler, talep gönderimi ve daha fazlası hakkında daha fazla bilgi için Microsoft iş ortağı Web sitesindeki [ortak op varlık koleksiyonuna](https://partner.microsoft.com/asset/collection/co-op-funds-resources#/) bakın.
 
-Bu ek ürünler 19 Ocak 2020 tarihinde yayımlanacak Ocak 2021 CSP fiyat listesinde görünür.  Bu, 1 Ocak 2021 tarihinde yayınlanan ilk Ocak 2021 CSP fiyat listesinin yeniden yayınlanmasını sağlayacaktır.
+### <a name="next-steps"></a>Sonraki adımlar
 
-- Exchange Server Enterprise 2019
-- Exchange Server Enterprise 2019 cihaz CAL 'SI
-- Exchange Server Enterprise 2019 Kullanıcı CAL 'SI
-- Exchange Server Standart 2019
-- Exchange Server Standard 2019 cihaz CAL 'SI
-- Exchange Server Standard 2019 Kullanıcı CAL 'SI
+- Pazarlama, talep oluşturma ve hazırlık çabalarını çalıştırmaya devam edin ve 45 gün boyunca uygun etkinlikler için talepler sunun.
+- 30 Haziran 2021 ' de H2 kullanım döneminin tamamına kadar tüm miktarı kullandığınızdan emin olmak için, ortak işletim hesabı bakiyenizi düzenli olarak denetleyin.
 
-### <a name="geographies"></a>Coğrafyalar
+### <a name="questions"></a>Sorularınız mı var?
 
-CSP 'de kalıcı yazılım için 19 Ocak 2021 tarihinden itibaren kullanılabilen ek coğrafi lıklar şunlardır:
+Iş Ortağı Merkezi giriş sayfasındaki arama çubuğuna "teşvikleri" yazarak, özenilen sorulara yönelik önerilen adımları ve kendi kendine yardım makalelerini bulabilirsiniz. Ek Yardım için doğrudan Iş Ortağı Merkezi 'nde bir [destek isteği](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?category=csp) oluşturabilirsiniz. [Aka.MS/IncentivesSupport](https://aka.ms/IncentivesSupport)adresinde daha fazla bilgi edinin.
 
-|**Kullanılabilir coğrafi lıklar**|| | |
-|-----------------------------|-------------------------------|------------|----------------------|
-|Azerbaycan|Belarus|Benin|Butan|
-|Bonaire, Sint Eustatius ve Saba|Bouvet Adası|Brezilya|
-|Britanya Hint Okyanusu Toprakları|Burkina Faso|Burundi|Kamboçya|
-|Orta Afrika Cumhuriyeti|Çad|Christmas Adası|Cocos (Keeling) Adaları|
-|Komorlar|Kongo Cumhuriyeti|Kongo Demokratik Cumhuriyeti|Cook Adaları|
-|Cibuti|Ekvator Ginesi|Eritre|Falkland Adaları|
-|Fransız Guyanası|Fransız Polinezyası|Fransız Güney Toprakları|Gabon|
-|Gambiya|Gürcistan|Cebelitarık|Grönland|
-|Grenada|Guadeloupe|Guam|Guernsey|
-|Gine|Gine-Bissau|Haiti|Heard Adası ve McDonald Adaları|
-Papalık|Macaristan|Hindistan|Irak|
-|Man Adası|Jersey|Kazakistan|Kiribati|
-|Kore Cumhuriyeti|Kırgızistan|Liberya|Madagaskar|
-|Malavi|Maldivler|Mali|Marshall Adaları|
-|Martinique|Moritanya|Mayotte|Mikronezya (Federe Devletleri)|
-|Moldova|Moğolistan|Montserrat|Mozambik|
-|Myanmar|Nauru|Hollanda Antilleri|Yeni Kaledonya|
-|Nijer|Niue|Norfolk Adası|Kuzey Mariana Adaları|
-|Palau|Papua Yeni Gine|Pitcairn|Polonya|
-|Katar|Reunion|Rusya|Saint Barthelemy|
-|Saint Helena, Ascension ve Tristan da Cunha|Saint Lucia|Saint MARTIN (Fransız bölümü)|Saint Pierre ve Miquelon|
-|Saint Vincent ve Grenadinler|Samoa|San Marino|Sao Tome ve Principe|
-|Suudi Arabistan|Seyşeller|Sierra Leone|Sint Maarten (Felemenkçe bölüm)|Solomon Adaları|
-|Somali|Güney Afrika|Güney Georgia ve Güney Sandwich Adaları|Güney Sudan|
-|Surinam|Svalbard ve Jan Mayen|Svaziland|Tayvan|
-|Tacikistan|Tayland|Timor-Leste|Togo|
-|Tokelau|Tonga|Türkiye|Türkmenistan|
-|Turks ve Caicos Adaları|Tuvalu|Ukrayna|Birleşik Devletler küçük harici Adaları|
-|Özbekistan|Vanuatu|Venezuela|Vietnam|
-|Virgin Adaları, İngiliz|Wallis ve Futuna
+________________
 
+## <a name="docusign-migration-to-adobe-sign-in-2021-for-partners-who-have-microsoft-partner-agreements-mpas"></a><a name="12"></a>Microsoft Iş ortağı sözleşmeleri (MPAs) olan iş ortakları için Adobe oturum açma 2021 ' ye DocuSign geçişi
+
+### <a name="categories"></a>Kategoriler
+
+- Tarih: 2020-12-22
+- Yetenekler-güvenlik & uyumluluğunu geliştirir
+
+### <a name="summary"></a>Özet
+
+Microsoft, tüm elektronik imza işlemlerini DocuSign 'dan Adobe Sign 'a geçiyor.
+
+### <a name="impacted-audience"></a>Etkilenen hedef kitle
+
+Microsoft Iş ortağı sözleşmeleri (MPAs) ile bulut çözümü sağlayıcısı (CSP) iş ortakları
+
+### <a name="details"></a>Ayrıntılar
+
+Adobe Sign, Microsoft 'un tercih ettiği elektronik Imza çözümüdür (ESS). Microsoft, Ocak 2021 ' de, tüm elektronik imza işlemlerini MPAs 'den başlayarak, DocuSign 'den Adobe Sign 'a geçirmeyi başlatır. Kesintisiz bir geçiş beklemelisiniz. Geçişten sonra, bir hesaptan e-posta alacaksınız [adobesign@adobesign.com](mailto:adobesign@adobesign.com) , bu da size yeni bir imzalama ortamına yönelik bağlantı sağlar. En iyi deneyim için [adobesign@adobesign.com](mailto:adobesign@adobesign.com) Güvenli Gönderenler listenize ekleyin.
+
+Adobe Sign 'a geçiş, müşterilerimize ve iş ortaklarımıza daha fazla değer sunacak güvenli ve etkili bir elektronik imza deneyimi sağlar. Hesap geçiş planlarıyla ilgili daha fazla bilgiyi, 2021 Ocak 'ta Adobe oturum açmak üzere alacaksınız.  
+
+### <a name="next-steps"></a>Sonraki adımlar
+
+Bu bilgileri, kuruluşunuzdaki uygun paydaşlarla paylaşabilirsiniz. Geçişle ilgili daha fazla bilgiyi Ocak 2021 ' de göndereceğiz.
+
+### <a name="questions"></a>Sorularınız mı var?
+
+Sorularınız varsa, [https://clt.partners.extranet.microsoft.com/CLT](https://clt.partners.extranet.microsoft.com/CLT) [Explore.MS](https://www.explore.ms/publichome.aspx)aracılığıyla veya aracılığıyla çağrı günlüğü aracı 'nı (CLT) kullanarak bölgesel işlemler merkezinize başvurun. Sorgunuzu mümkün olduğunca çabuk çözebilmemiz için standart CLT sürecini yakından izleyin.
+
+______________
+
+## <a name="january-2021-pricing-and-catalog-schedules"></a><a name="11"></a>Ocak 2021 fiyatlandırma ve Katalog zamanlamaları
+
+### <a name="categories"></a>Kategoriler
+
+- Tarih: 2020-12-22
+- Özellikler
+
+### <a name="impacted-audience"></a>Etkilenen hedef kitle
+
+Bulut çözümü sağlayıcısı (CSP) programına katılan doğrudan fatura ve dolaylı sağlayıcılar.
+
+### <a name="details"></a>Ayrıntılar
+
+Genellikle ayın ilk gününde gerçekleşmek üzere zamanlanan iş ortağı merkezi fiyatlandırma ve Katalog güncelleştirmeleri, Ocak 2021 için zamanlamaya göre küçük değişikliklere sahip olacaktır. Tüm fiyatlandırma dosyaları her zamanki gibi, 31 Aralık 2020 ' de, yaklaşık 6PM Pasifik Standart saatinde (PST) kullanılabilir. Ancak, normalde ayın ilk gününde oluşan aşağıdaki güncelleştirmeler biraz gecikecek. 
+
+- Azure kullanım tabanlı fiyat listeleri, iş günü 4 Ocak 2021 ' den itibaren gecikecek. 1 Ocak 2021 ' de Azure kullanım tabanlı fiyatlandırma dosyaları yalnızca 21 2020 Aralık 'a kadar ücretlendirilir. 4 Ocak 'ta dosyalar güncelleştirilir.
+- Lisans tabanlı fiyatlandırma dosyaları 1 Ocak 2021 tarihinden itibaren güncel olacaktır, ancak katalogda satın alma için yeni teklifler sunuluncaya kadar küçük bir gecikme olur. Lisans tabanlı Katalog güncelleştirmesi 5 Ocak 2021 17:00 pasıfık saati için zamanlanır. 
+
+Tüm diğer fiyat listesi dosyalarının olağan zamanlamaya göre kullanılabilir olması için zamanlandığını, yalnızca yukarıdaki iki teslim eden öğelerin biraz gecikecek şekilde olduğunu unutmayın.
+
+### <a name="next-steps"></a>Sonraki adımlar
+
+Özet bölümünde, aşağıdaki fiyatlandırma dosyaları yaklaşık 31 Aralık 2020 ' de yaklaşık 6PM PST 'de her zamanki gibi kullanılabilir olacaktır:
+
+- Lisans tabanlı fiyat listesi dosyaları ve teklif listesi matrisi
+- Kullanım tabanlı fiyat dosyaları, ancak yalnızca 21 Aralık 2020 ' e kadar olan güncelleştirmeler ile
+- Kullanım tabanlı rezervasyonlar fiyat listeleri
+- Yazılım abonelikleri fiyat listeleri
+- Kalıcı yazılım fiyat listeleri
+- Azure planı tüketim fiyatı listeleri
+- Azure plan ayırmaları fiyat listeleri
+- Azure plan tüketimi yabancı Exchange ücretleri
+
+Aşağıdaki fiyatlandırma dosyası 4 Ocak 2021 ' de 6PM PST ile güncelleştirilir:
+
+- Kullanım tabanlı fiyat dosyaları
+
+İş Ortağı Merkezi kataloğu, Ocak 2021 tarihinde 6PM PST 5 Ocak 2021 ile yenilenecektir.
+ 
+______________
+
+## <a name="microsoft-365-apps-and-services-support-of-internet-explorer-11-and-microsoft-edge-legacy-announcement"></a><a name="10"></a>Internet Explorer 11 ve Microsoft Edge eski duyurusu Microsoft 365 uygulama ve hizmet desteği
+
+### <a name="categories"></a>Kategoriler
+
+- Tarih: 2020-12-21
+- Özellikler
+
+### <a name="impacted-audience"></a>Etkilenen hedef kitle
+
+BT yöneticileri, BT karar mekanizmaları, bilgi ofisleri ve son kullanıcılar
+
+### <a name="details"></a>Ayrıntılar
+
+Microsoft 365 aboneler hem tüketici hem de ticari bağlamlarda, Outlook, takımlar, SharePoint gibi gündelik araç kümelerinde daha fazla özellik kümesine daha hızlı ve daha fazla yanıt veren Web erişimi sayesinde bu değişikliğe göre daha hızlı ve daha hızlı bir şekilde hizmet verir.
+
+Yeni Microsoft Edge, modern bir tarayıcının en iyi ifadesidir ve müşterilerin bu şekilde karşılaşmaları için heyecanlıyız. Artık yeni Microsoft Edge 'i sevdiğimiz ve Windows 10 müşterilerinin çoğunu yeni tarayıcıya yükselten Microsoft Edge eski masaüstü uygulaması için destek sağlıyoruz.
+
+**Değişikliğin etkileri**
+
+- **30 2020 Kasım**'dan müşteriler artık Internet Explorer 11 ' de Microsoft ekipleri Web uygulamasına bağlanamayacak. Microsoft, müşterilerin [Yeni Microsoft Edge](https://www.microsoft.com/edge/business?form=MO12H3&OCID=MO12H3)'i kullanırken modern bir tarayıcının en iyi Microsoft 365 ve en iyi ifadesi almasını düşündüğü düşünür.
+- **Mart 9 2021**' den sonra, Microsoft Edge için oluşturulan uygulamalar ve siteler yeni Microsoft Edge 'de çalışmaya devam edecektir, ancak bir uyumluluk sorunu oluşursa, uygulamanın destek sağlaması Için [taahhüt güvence altına](https://aka.ms/appassure) alınır.
+- **17 2021 Ağustos 'tan** sonra müşteriler düzeyi düşürülmüş bir deneyimle karşılaşacaktır veya Internet Explorer 11 ' de Microsoft 365 uygulamalara ve hizmetlere bağlanamaz. Microsoft, müşterilerin [Yeni Microsoft Edge](https://www.microsoft.com/edge/business?form=MO12H3&OCID=MO12H3)'i kullanırken modern bir tarayıcının en iyi Microsoft 365 ve en iyi ifadesi almasını düşündüğü düşünür.
+
+### <a name="next-steps"></a>Sonraki adımlar
+
+- Duyurunun ayrıntılarını anlamak için blog gönderisini okuyun.
+- Yeni Microsoft Edge 'i dağıtmaya yardımcı olması için iş ortaklarınıza ulaşmak üzere bu fırsatı kullanın.
+- Ek kaynaklar ve daha fazla bilgi: [kenar YouTube](https://www.youtube.com/channel/UCIGx7oT8p6-jUpOfg98yelA) veya [kenar benimseme](https://www.microsoft.com/edge/business?form=MO12H3&OCID=MO12H3)
+
+### <a name="questions"></a>Sorular
+
+Herhangi bir soru için [ticari arama GTM ekibine](mailto:CommercialSearchGTM@microsoft.com?subject=Internet%20Explorer%2011%20and%20Microsoft%20Edge%20legacy%20announcement) başvurun.
 
 ____________
 
@@ -99,7 +172,7 @@ ____________
 ### <a name="categories"></a>Kategoriler
 
 - Tarih: 2020-12-17
-- Işletmenizi büyütün
+- İşinizi Büyütme
 
 ### <a name="impacted-audience"></a>Etkilenen hedef kitle
 
@@ -189,7 +262,7 @@ ______________
 ### <a name="categories"></a>Kategoriler
 
 - Tarih: 2020-12-17
-- Işletmenizi büyütün
+- İşinizi Büyütme
  
 ### <a name="summary"></a>Özet
 
@@ -295,16 +368,16 @@ Bu teklif için aşağıdaki teklif ayrıntıları Ocak 2021 teklif listesi matr
 
 - Sağlama KIMLIĞI: POWERAPPS_PER_APP
 - Süre: 1 yıl
-- Faturalandırma sıklığı: aylık; Gerçekleştirilebilir
+- Faturalandırma sıklığı: aylık veya yıllık
 - En az koltuk sayısı: 200
 - En fazla bilgisayar sayısı: 10000000
 - Teklif sınırı: yok
-- İzin verilen ülkeler: ABD harici Adaları; İngilizce (Fransız Güney toprakları); Bouvet Adası; İngiliz Hint Okyanusu Toprakları; Yemen Heard ve Mc Donald Adaları; Wallis ve Futuna; Vanuatu Antarktika Tuvalu Somali Tokelau; Sierra Taone; Svaziland Saint Helena, Ascension ve Tristan da Cunha; Sao Tome ve Principe; Pitcairn Adaları; Palau Solomon Adaları; Nauru Niue; Norfolk Adası; Ya Kuzey Mariana Adaları; Lesotho Kiribati Ekvator Ginesi; Gine-Bissau; Cook Adaları; Eritre Noel Adası; Burkina Faso; Orta Afrika Cumhuriyeti; Kosova Cocos (Keeling) Adaları; Svalbard ve Jan Mayen; Bu Adaları; Güney Sudan; Güney Georgia ve Güney Sandwich Adaları; Devleti Saint Barthétamy; İngiliz Virgin Adaları; Saint Pierre ve Miquelon; Çad J Montserrat; Guyana Haiti Gambiya Guam Gine Gabon Grenada; Cebelitarık Guernsey Liberya Mikronezya Falkland Adaları; Dominika; Djibuti; Kongo Kongo (KDC); Zimbabve Amerikan Samoa; Zambiya Güney Afrika; Mayotte Vietnam Saint Vincent ve Grenadinler; ABD Virgin Adaları; Venezuela Papalık (Vatikan); Ukrayna Uganda Özbekistan Birleşik Devletler; Uruguay Tanzanya Tayvan Trinidad ve Tobago; Türkiye Tunus Tonga Timor-Leste; Türkmenistan Tacikistan Tayland Togo El Salvador; Sint Maarten; Turks ve Caicos Adaları; Surinam Singapur Dönüştürülen San Marino; Senegal Slovakya 'Teki Seyş Suudi Arabistan; Sırbistan Ruanda Rusya Romanya Reunion Katar Paraguay Portekiz Filipin Filistin toprakları, dolu; Polonya Porto Riko; Pakistan Peru Panama Papua Yeni Gine; Fransız Polinezyası; Yeni Zelanda; Umman; Nepal Hollanda Norveç Nijerya Nikaragua Yeni Kaledonya; Namibia Mozambik Federasyonu Meksika Martinik Malavi Maldivler Mauritius Malta Myanmar Makao ÖIB; Moğolistan Mali Madagaskar Marshall Adaları; Makedonya, EYC; Karadağ Saint Marmara; Fas S Moldova Vi Libya Lüksemburg Lübnan Saint Lucia; Litvanya Sri Lanka; Cayman Adaları; YN Laos Kazakistan Kuveyt Dili Komorolar Kamboçya Saint Kitts ve Nevis; Kenya Kırgızistan Japon Ürdün Jamaika Jersey; Italya; Iceland; Irak; Irlanda; Hindistan; Endonezya; Man Adası; Honduras; Israil; Macaristan Hong Kong ÖIB; Hırvatistan Guatemala Yunanistan Guadeloupe Fransız Ginesi; Grönland Gana Faroe Adaları; Birleşik Krallık; Georgia Fransa Fiji Etiyopya Finlandiya İspanya Mısır Estonya Ekvador; Dominik Cumhuriyeti; Cezayir Almanya; Danimarka; Kıbrıs Çek Cumhuriyeti; Curaçao; Cabo Verde; Kosta Rika; Şili Kamerun Kolombiya Fildişi Sahili; 'Da 'Ye Belize Belarus Botsvana Bhutan Bahamalar Bonaire, Sint Eustatius ve Saba; Brezilya Benin Barış Bermuda Bolivya 'Ya Günü Bahreyn Burundi Bosna Hersek; Halk Barbados Azerbaycan Aruba Doğu Arjantin Avusturya Angola; Ermenistan Devleti Arnavutluk Anguilla; Andora Birleşik Arap Emirlikleri; Antigua ve Barbuda
+- İzin verilen ülkeler: ABD harici Adaları, Ingilizce (Fransız Güney toprakları), Bouvet Adası, Ingiliz Hint Okyanusu Toprakları, Yemen, Heard ve Mc Donald Adaları, Wallis ve Futuna, Vanuatu, Antarktika, Tuvalu, Somalia, Tokelau, Sierra Taone, Swaziland, St Helena, Ascension, Tristan da Cunha, SÃ £ o TomÃ © ve PrÃncipe, Pitcairn Adaları, Damau, Solomon Adaları, Nauru, Niue, Norfolk Adası, Morıı, Gine-Bissau , Cook Adaları, Eritre, Christmas Adası, Burkina Faso, Orta Afrika Cumhuriyeti, Kosovo, Cocos (Keeling) Adaları, Svalbard ve Jan Mayen, Ã... Land Adaları, Güney Sudan, Güney Georgia ve Güney Sandwich Adaları, Samoa, Saint BarthÃ © limy, Ingiliz Virgin Adaları, Saint Pierre ve Miquelon, Chad, Nijı, Montserrat, Guyana, Haiti, Gambiya, Guhar, Gine, Gabon, Grenada, Gibralık, Vaernsey, Liberia, Mikjin, Falkland Adaları, Dominika, Cibuti, Kongo, Kongo (KDC), Zimbabve, Amerikan Samoası, Zambiya, Güney Afrika, Mayotte, Vietnam, Saint Vincent ve Grenadinler, ABD Virgin Adaları, Venezuela, kutsal (Vatikan) , Ukrayna, Uganda, Özbekistan, Birleşik Devletler, Uruguay, Tanzanya, Tayvan, Trinidad ve Tobago, Türkiye, Tunus, Tonga, Timor-Leste, Türkmenistan ve Tacikistan, Tayland, Togo, El Salvador, Sint Maarten, Turks ve Caicos Adaları, Surinam, Singapur, Slovenya, San Marino, Senegal, Slovakya, Isveç, Seyşeller, Suudi Arabistan, Sırbistan, Ruanda, Rusya, Romanya, RÃ © UNION, Qtor, Paraguay, Portekiz, Filipinler, Filistin toprakları, dolu, Polonya, Porto Riko, Pakistan, Peru, Panama, Papua , Yeni Zelanda, Umman, Nepal, Hollanda, Norveç, Nijerya, Nikaragua, Yeni Kaledonya, Namibia, Mozambik, Malezya, Meksika, Martinik, Malavi, Maldivler, Mauritius, Malta, Myanmar, Makao ÖIB, Moğolistan, mali, Madagaskar, Marshall Adaları, EYC, EYC, Liechtenstein, Kazakistan, Fas, Moldova, Moldova, MARI, Fas, Monako, Moldova, Litvanya Adaları, Libya, Lüksemburg, Lübnan, Saint Lucia, Litvanya , Jamaika, Jersey, Italya, Iceland, Irak, Irlanda, Hindistan, Endonezya, Man Adası, Honduras, Israil, Macaristan, Hong Kong ÖIB, Hırvatistan, Guatemala, Yunanistan, Guadeloupe, Fransız Ginesi, Grönland, Etana, Faroe Adaları, Birleşik Krallık, Georgia, Fransa, Fiji, Etiyopya, Finlandiya, Ispanya, Mısır, Estonya, Ekvador, Dominik Cumhuriyeti, Cezayir, Almanya, Danimarka, Kıbrıs, Çek Cumhuriyeti, CuraÃ § Ao, Cape Verde, Kosta Rika, Şili, Kamerun, Kolombiya, CÃ ́te dâ €™ Ivoire, Kanada, Isviçre , Belize, Belarus, Botsvana, Bhutan, Bahamalar, Bonaire, Sint Eustatius ve Saba, Brezilya, Benin, Brunei, Bermuda, Bolivya, Belçika, Bulgaristan, Bahreyn, Burundi, Bosna-Hersek, Bangladeş, Barbados, Azerbaycan, Aruba, Avustralya, Arjantin, Avusturya, Angola, Ingiltere,, Afganistan ve Barbuda
 
 ### <a name="next-steps"></a>Sonraki Adımlar
 
 - Promosyon teklifi 1 Ocak 2021 resmi CSP iş ortağı Merkezi Lisansı-taban fiyat listesi ve teklif listesi matrisinde kullanılabilir olacaktır. 
-- Bu promosyon hakkında sorular veya takip, [Microsoft Community duyurusu](https://www.microsoftpartnercommunity.com/t5/Pricing-Licensing-Incentives/Announcing-a-new-Power-Apps-promotional-offer-to-accelerate-FY21/m-p/32540)'na gönderilebilir.
+- Bu promosyon hakkındaki sorular [Microsoft Community duyurusu](https://www.microsoftpartnercommunity.com/t5/Pricing-Licensing-Incentives/Announcing-a-new-Power-Apps-promotional-offer-to-accelerate-FY21/m-p/32540)'na gönderilebilir.
 
 ______________
 
@@ -375,7 +448,7 @@ Aralık lisans tabanlı fiyat listeleri, Fiyat listelerinde olmaması gereken a�
    |Dynamics 365 Insan kaynakları, Dynamics 365 temel teklifini (kar amacı gütmeyen fiyatlandırma) nitelemek için Iliştirmiş|8bf0b826-e05b-45aa-9cd1-9a9f742f7731|
    |Dynamics 365 Insan kaynakları, Dynamics 365 temel teklifini (kar amacı gütmeyen fiyatlandırma) uygun şekilde ekler (nitelikli teklif)|f906435d-9dc9-42ba-bea6-2a2b08ca60db|
    |Dynamics 365 Insan kaynakları korumalı alanı (kar amacı gütmeyen fiyatlandırma)|079ec5ba-D726-4384-95af-62d135c210d2|
-   |Dynamics 365 Insan kaynakları Self Servis (kar amacı gütmeyen fiyatlandırma)|931acecc-34C3-4f83-913E-c7fdbfd7e2a1|
+   |Dynamics 365 Insan kaynakları Self-Service (kar amacı gütmeyen fiyatlandırma)|931acecc-34C3-4f83-913E-c7fdbfd7e2a1|
    |Dynamics 365 Işlemleri – sipariş satırları (kar amacı gütmeyen fiyatlandırma)|7dd6b78a-3d53-47F8-8A64-bd84609a9a70|
    
 #### <a name="incorrect-offers-in-the-offer-list-matrix"></a>Teklif listesi matrisinde yanlış teklifler
