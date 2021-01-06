@@ -9,12 +9,12 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 12/07/2020
-ms.openlocfilehash: cdd840089d1937c3168c60a361e3d77e37c688ed
-ms.sourcegitcommit: cd4047e46ed116339bd9918b94af7138bcae6603
+ms.openlocfilehash: 8ab1e2f2abae8af4c3949615653f83553e65fe25
+ms.sourcegitcommit: e4f30d29073cc0bcc28c4fe48791a19aa28ba734
 ms.translationtype: MT
 ms.contentlocale: tr-TR
 ms.lasthandoff: 01/06/2021
-ms.locfileid: "97916856"
+ms.locfileid: "97950595"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>İş ortağı satış bağlantısı (PSC) üzerinden geçiş yapan iş ortakları için Iş Ortağı Merkezi 'nde (PC) ortak satış ile ilgili kılavuz
 
@@ -321,7 +321,7 @@ PSC 'deki fırsat KIMLIĞI, BILGISAYARDAKI anlaşma KIMLIĞIYLE aynıdır. Herha
 - Iş Ortağı Merkezi 'nde Konuk Kullanıcı-PDM @microsoft.com Hesabınızı, iş ortağı merkezi 'nde Konuk Kullanıcı olarak ekleyebilir ve başvuruları görüntüleyebilmek ve bunlarla işlem yapabilmesi için başvuru Yöneticisi rolü atayabilirsiniz.
 - Kiracınızda [Yeni bir Kullanıcı](./create-user-accounts-and-set-permissions.md#add-a-new-user) oluşturma-kendi kiracınızda yeni bir kullanıcı oluşturabilir ve bu ayrıntıları PDM ile paylaşabilir ve bu sayede hesabınızdaki diğer başvuru kullanıcılarına benzer başvuruları görüntüleyebilir ve bunlarla işlem yapabilir.
 
-## <a name="finding-the-correct-mpn-id-if-your-account-in-psc-is-not-associated-with-an-invalid-mpn"></a>PSC 'deki hesabınız geçersiz bir MPN ile ilişkili değilse, doğru MPN KIMLIĞINI bulma
+## <a name="finding-the-correct-mpn-id-if-your-account-in-psc-is-not-associated-with-a-valid-mpn"></a>PSC 'deki hesabınız geçerli bir MPN ile ilişkili değilse, doğru MPN KIMLIĞINI bulma
 
 Burada, PSC 'nin ' PSC geçersiz MPN KIMLIĞI ilişkilendirme sorunu ' içinde bir başlık gördüğünüz için doğru yerde olursunuz.
 
