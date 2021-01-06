@@ -9,20 +9,39 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 01/04/2021
-ms.openlocfilehash: 7a499c8c0fc64d00dcc8efe56f4bd5830d5e23bd
-ms.sourcegitcommit: 87677b45535a7b9d9ebd9afcbe4ea2491b4a1f52
+ms.openlocfilehash: 827d4d732e8aa5ff7e343ef3732ff0036eb8d628
+ms.sourcegitcommit: cd4047e46ed116339bd9918b94af7138bcae6603
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/05/2021
-ms.locfileid: "97902673"
+ms.lasthandoff: 01/06/2021
+ms.locfileid: "97916805"
 ---
 # <a name="january-2021-announcements"></a>Ocak 2021 duyuruları
 
 Bu sayfada, Ocak 2021 için Microsoft Iş Ortağı Merkezi duyuruları ayrıntılı olarak yer aldığı yer.
 
+2021 Duyuruları: [Ocak](2021-january.md)
+
 2020 [Duyuruları:](2020-may.md)  |  [](2020-june.md)  |  [](2020-july.md)  |  [](2020-august.md)  |  [Eylül](2020-september.md)ayında  |  [](2020-October.md)  |  [Kasım](2020-november.md)  |  [ayında](2020-december.md) Haziran ayı | Tarihli
 
 ________________
+## <a name="deprecation-and-retirement-of-existing-get-and-put-qualification-apis-for-the-education-customer-validation-process-by-the-end-of-february-2021"></a><a name="2"></a>Şubat 2021 ' nin sonuna kadar eğitim müşteri doğrulama işlemi için mevcut GET ve PUT nitelendirme API 'Lerinin kullanımdan kaldırılması ve kullanımdan kaldırılması
+
+### <a name="impacted-audience"></a>Etkilenen hedef kitle
+
+Iş Ortağı Merkezi API 'sini kullanarak bulut çözümü sağlayıcısı programı aracılığıyla akademik teklifler satan iş ortakları
+
+### <a name="details"></a>Ayrıntılar 
+
+Bu, Aralık 2020 ' de yayınlanan API geliştirmeleri için bir izdir. Aralık ayında, 2020 yeni GET ve POST nitelikleri API 'Leri yayımlandı ve sonuç olarak, eski GET ve PUT niteliği API 'Leri Şubat 2021 ' nin sonuna kadar kullanımdan kaldırılacaktır. Bu sırada, eğitim tekliflerini satın alabilmek için yeni alma ve GÖNDERI Iş Ortağı Merkezi API 'Lerini kullanmanız gerekir. 
+
+## <a name="next-steps"></a>Sonraki adımlar
+
+- Henüz yapmadıysanız, başarılı ve zamanında geçiş için yeni API 'lere güncelleştirin.
+- Yeni Iş Ortağı Merkezi API değişikliklerini gözden geçirin ve [Işlem hazırlık kaynakları: Partner Center eğitimi müşteri doğrulama süreci iyileştirmeleri](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/)' ne bakın.
+- Bu bilgileri kuruluşunuzdaki uygun takımlarla ve satıcılarınız ile paylaşarak, bu değişikliklere hazırlanmalarına yardımcı olun.
+
+_____________
 
 ## <a name="dynamics-365-offers-for-february-2021"></a><a name="1"></a>Dynamics 365 Şubat 2021 için teklifler
 

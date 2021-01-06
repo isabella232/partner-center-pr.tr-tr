@@ -9,12 +9,12 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 12/07/2020
-ms.openlocfilehash: bbd2d1035bdcde691b0db620949d0e973667627b
-ms.sourcegitcommit: 351c7ff4e6ebbb615a00190b2310156381f9cf03
+ms.openlocfilehash: cdd840089d1937c3168c60a361e3d77e37c688ed
+ms.sourcegitcommit: cd4047e46ed116339bd9918b94af7138bcae6603
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/07/2020
-ms.locfileid: "96776923"
+ms.lasthandoff: 01/06/2021
+ms.locfileid: "97916856"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>İş ortağı satış bağlantısı (PSC) üzerinden geçiş yapan iş ortakları için Iş Ortağı Merkezi 'nde (PC) ortak satış ile ilgili kılavuz
 
@@ -320,6 +320,20 @@ PSC 'deki fırsat KIMLIĞI, BILGISAYARDAKI anlaşma KIMLIĞIYLE aynıdır. Herha
 - OCP Insights-PDMs yalnızca bunlarla ilgili anlaşmaları ve ilerlemeyi görüntülüyorsanız, kuruluş görünümünüzü almak için OCP Insights portalını kullanabilirler. Bu bir iç araçtır ve yalnızca PDMs için kullanılabilir. OCP öngörülerinin şirketinizin kullanıcıları için sunulmadığını unutmayın.
 - Iş Ortağı Merkezi 'nde Konuk Kullanıcı-PDM @microsoft.com Hesabınızı, iş ortağı merkezi 'nde Konuk Kullanıcı olarak ekleyebilir ve başvuruları görüntüleyebilmek ve bunlarla işlem yapabilmesi için başvuru Yöneticisi rolü atayabilirsiniz.
 - Kiracınızda [Yeni bir Kullanıcı](./create-user-accounts-and-set-permissions.md#add-a-new-user) oluşturma-kendi kiracınızda yeni bir kullanıcı oluşturabilir ve bu ayrıntıları PDM ile paylaşabilir ve bu sayede hesabınızdaki diğer başvuru kullanıcılarına benzer başvuruları görüntüleyebilir ve bunlarla işlem yapabilir.
+
+## <a name="finding-the-correct-mpn-id-if-your-account-in-psc-is-not-associated-with-an-invalid-mpn"></a>PSC 'deki hesabınız geçersiz bir MPN ile ilişkili değilse, doğru MPN KIMLIĞINI bulma
+
+Burada, PSC 'nin ' PSC geçersiz MPN KIMLIĞI ilişkilendirme sorunu ' içinde bir başlık gördüğünüz için doğru yerde olursunuz.
+
+İlk olarak, aşağıdaki adımları izleyerek doğru MPN KIMLIĞINI bulun
+
+- Iş Ortağı Merkezi hesabınızda oturum açın
+- MPN KIMLIĞINI bulmak için [Hesap ayarları belgelerinde](./partner-center-account-setup.md#locate-your-mpn-id) verilen kılavuzu kullanın.
+
+seçin
+
+- Bir PDM varsa, iş ortağı merkezi hesabınızdaki doğru MPN KIMLIĞIYLE MPN KIMLIĞINIZI düzeltmesini isteyin.
+- Bir PDM yoksa, PSC ana başlığında verilen adrese, hem PSC başlığında hem de iş ortağı merkezi hesabınızdaki doğru MPN KIMLIĞINE sahip bir e-posta gönderin.
 
 ## <a name="resources-to-help-you-create-and-manage-your-deals-in-partner-center"></a>Iş Ortağı Merkezi 'nde anlaşmalar oluşturmanıza ve yönetmenize yardımcı olacak kaynaklar
 

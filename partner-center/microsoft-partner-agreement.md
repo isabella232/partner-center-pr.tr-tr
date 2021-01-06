@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 09653cbe4db15678db94a1012861924a6c7cf6c9
-ms.sourcegitcommit: 1d4d06642a5203d4d313fe76b137dd6be45d4728
+ms.openlocfilehash: a05b1ba1a4fb92e30a7a21609a4794d8b3b8fd4c
+ms.sourcegitcommit: cd4047e46ed116339bd9918b94af7138bcae6603
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97514763"
+ms.lasthandoff: 01/06/2021
+ms.locfileid: "97916839"
 ---
 # <a name="learn-about-the-microsoft-partner-agreement-mpa-for-csp-program-partners"></a>CSP program iş ortakları için Microsoft Iş ortağı Sözleşmesi (MPA) hakkında bilgi edinin
 
@@ -50,7 +50,7 @@ CSP programına katılmayı sürdürmek için, Microsoft Iş ortağı sözleşme
 
 ## <a name="confirm-you-are-enrolled-as-a-csp-indirect-reseller"></a>CSP Dolaylı kurumsal bayisi olarak kaydolduğunuzu onaylayın
 
-1. Iş Ortağı Merkezi 'nde zaten [CSP dolaylı satıcısı](enrolling-in-the-csp-program.md)  olarak kaydolmadıysanız, önce bunu yapmanız gerekir. Iş Ortağı Merkezi 'nde CSP dolaylı satıcısı olarak kaydedildikten sonra kalan adımları tamamlayın.
+1. Iş Ortağı Merkezi 'nde zaten [CSP dolaylı satıcısı](indirect-reseller-tasks-in-partner-center.md) olarak kaydolmadıysanız, önce bunu yapmanız gerekir. Iş Ortağı Merkezi 'nde CSP dolaylı satıcısı olarak kaydedildikten sonra kalan adımları tamamlayın.
 
 1. CSP genel yönetici hesabı kimlik bilgilerinizle Iş Ortağı Merkezi ' nde oturum açın.
 
@@ -83,11 +83,11 @@ MPA 'nın imzalanıp imzalanmadığını görmek için:
 
 ## <a name="download-the-step-by-step-guide-thats-right-for-where-you-are-in-the-process"></a>İşlem içinde nerede olduğunuz konusunda doğru olan adım adım kılavuzu indirin
 
-1. MPN hesabınızı PMC 'den Iş Ortağı Merkezi 'ne geçiriyorsanız: [PMC 'Den iş ortağı merkezi 'Ne geçiş yapın ve Microsoft Iş ortağı sözleşmesi 'ni kabul edin](https://assetsprod.microsoft.com/mpn/migrate-pmc-pc-mpa-guide.pptx)
+1. MPN hesabınızı PMC'den İş Ortağı Merkezi'ne geçiriyorsanız: [PMC'den İş Ortağı Merkezi'ne geçme ve Microsoft İş Ortağı Sözleşmesi'ni kabul etme](https://assetsprod.microsoft.com/mpn/migrate-pmc-pc-mpa-guide.pptx)
 
-2. Iş Ortağı Merkezi 'nde CSP dolaylı satıcısı olarak kaydetmek istiyorsanız: [MPN üyeleri Için ekleme ve Microsoft Iş ortağı sözleşmesi](https://assetsprod.microsoft.com/mpn/onboard-pc-csp-mpn-mpa-guide.pptx)
+2. İş Ortağı Merkezi'ne CSP Indirect Reseller olarak kaydolmak istiyorsanız: [MPN üyelerini ekleme ve Microsoft İş Ortağı Sözleşmesi](https://assetsprod.microsoft.com/mpn/onboard-pc-csp-mpn-mpa-guide.pptx)
 
-3. Yukarıdaki 1. ve/veya 2. adımı tamamladıktan sonra, Iş Ortağı Merkezi 'nde MPA durumunuzu doğrulamak için: [Microsoft Iş ortağı sözleşmesi kabul durumunu doğrulama](https://assetsprod.microsoft.com/mpn/verify-mpa-acceptance-status.pptx)
+3. Yukarıdaki 1 veya 2 numaralı adımları tamamladıktan sonra İş Ortağı Merkezi'nden MPA durumunuzu doğrulamak için: [Microsoft İş Ortağı Sözleşmesi kabul durumunu doğrulama](https://assetsprod.microsoft.com/mpn/verify-mpa-acceptance-status.pptx)
  
 ## <a name="next-steps"></a>Sonraki adımlar
 
