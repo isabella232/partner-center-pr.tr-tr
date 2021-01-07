@@ -1,19 +1,19 @@
 ---
 title: Salesforce CRM Iş Ortağı Merkezi için ortak satış Bağlayıcısı
 ms.topic: how-to
-ms.date: 09/29/2020
+ms.date: 01/06/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Iş ortağı merkezindeki başvurularınızı Salesforce CRM 'niz ile eşitler. Satıcılar daha sonra CRM sistemlerinizden Microsoft ile ortak bir şekilde satıtabilecekleri.
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: b73f0b24538daa18b93fa206fce5eda1ab9bc9b9
-ms.sourcegitcommit: 7e32544cf91f932cbeb053c9de506ba9ee773fe2
+ms.openlocfilehash: 68b8bdf7a88c1ca8d063cf3198fc49bf87552edb
+ms.sourcegitcommit: de2ac2eea26426ae8f962d29ab50b68850318ce6
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 11/20/2020
-ms.locfileid: "94947860"
+ms.lasthandoff: 01/07/2021
+ms.locfileid: "97960960"
 ---
 # <a name="co-sell-connector-for-salesforce-crm---overview"></a>Salesforce için ortak satış Bağlayıcısı CRM-genel bakış
 
@@ -51,7 +51,7 @@ Iş ortağı merkezi ve Salesforce CRM arasındaki başvuruları eşleştirmek i
 
 3. Salesforce 'ta, aşağıdaki paket yükleyicisi 'ni kullanarak özel alanlar ve nesneler yükleme.
   
-Paketi herhangi bir şirkete yüklemek için [buraya](https://login.salesforce.com/packaging/installPackage.apexp?p0=04t2w000006Vs9a) gidin:
+Paketi herhangi bir şirkete yüklemek için [buraya](https://login.salesforce.com/packaging/installPackage.apexp?p0=04t2w000006WIwV) gidin.
 
 
 Note: bir korumalı alana yüklüyorsanız, URL 'nin başlangıçtaki bölümünü ile değiştirmelisiniz http://test.salesforce.com
@@ -161,7 +161,7 @@ Iş Ortağı Merkezi Web kancası API 'Leri, kaynak değişiklik olaylarına kay
 
 3. Bu güncelleştirmeleri yaptığınızda şunu görürsünüz:
 
-   :::image type="content" source="images/cosellconnectors/webhook1.png" alt-text="Web Kancaları":::
+   :::image type="content" source="images/cosellconnectors/webhook1.png" alt-text="Web kancaları":::
 
 4. Değişikliklerinizi kaydedin ve **Aç '** ı seçin.
 
