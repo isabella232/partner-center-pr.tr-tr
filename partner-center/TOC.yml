@@ -301,6 +301,9 @@
         - name: Teşvik ortak kullanım talepleri
           href: claims-overview.md
           displayName: incentives
+        - name: Kullanılabilir ortak işlem fonlarını görüntüleme
+          href: incentives-view-funds.md
+          displayName: incentives
         - name: Ortak kullanım taleplerini yönetme
           href: create-incentives-claims.md
           displayName: incentives
