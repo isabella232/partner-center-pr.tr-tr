@@ -9,19 +9,15 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c03ab358b8fb6ab0f23ea5f42b9d35c6f6c2b80c
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 10592c7f8a3b1f075bc726161603859552b29961
+ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92531663"
+ms.lasthandoff: 01/08/2021
+ms.locfileid: "97979541"
 ---
 # <a name="billing-for-commercial-marketplace-products-and-subscriptions-in-partner-center"></a>Iş Ortağı Merkezi 'nde ticari Market ürünleri ve abonelikleri için faturalandırma
 
-**Uygulama hedefi**
-
-- İş Ortağı Merkezi
-- CSP programındaki iş ortakları
 
 **Uygun roller**
 
@@ -43,7 +39,7 @@ Bir fatura görüntülemeye hazırsanız şirketinizin genel yönetici veya fatu
 
 1. Iş Ortağı Merkezi [panosunda](https://partner.microsoft.com/dashboard/)oturum açın.
 
-2. Iş Ortağı Merkezi menüsünde **faturalandırma** ' i seçin. 
+2. Iş Ortağı Merkezi menüsünde **faturalandırma**' i seçin. 
 
     Faturalandırma sayfasının en üstünde iki sekme görürsünüz: **yinelenen** ve **yinelenen ve tek seferlik satın** alma. Her sekme, farklı Market ürünleri için fatura ve mutabakat (keşfi) dosyalarına erişmenizi sağlar:
 
@@ -53,7 +49,7 @@ Bir fatura görüntülemeye hazırsanız şirketinizin genel yönetici veya fatu
   
 3. **Yinelenen ve tek seferlik Satınalmalar** sekmesini seçin. Bir müşteri için abonelikleri farklı bir para birimiyle satın aldıysanız, her para birimi için bir sekme görürsünüz. Birkaç şey yapabilirsiniz fr: OM Bu sayfa:
 
-    - En son fatura ve mutabakat dosyasını görmek için **Fatura** veya **Mutabakat dosyası** ' nı seçin. (İsterseniz, en son faturaya ve keşfi dosya verilerine [Iş Ortağı Merkezi API 'lerini](/partner-center/develop/)kullanarak da erişebilirsiniz.
+    - En son fatura ve mutabakat dosyasını görmek için **Fatura** veya **Mutabakat dosyası**' nı seçin. (İsterseniz, en son faturaya ve keşfi dosya verilerine [Iş Ortağı Merkezi API 'lerini](/partner-center/develop/)kullanarak da erişebilirsiniz.
 
     - Önceki faturaları ve keşfi dosyalarını görmek için, aşağıdaki **Faturalama geçmişi** satırını genişletin.
 

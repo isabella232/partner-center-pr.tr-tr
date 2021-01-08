@@ -9,19 +9,19 @@ author: billLinzbach
 ms.author: billli
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: afb3fad6f0345ef8a602c78b891634a64a2adf84
-ms.sourcegitcommit: 0eafb2098d9ac58ebf75a3c1489d12eb97ee1eb6
+ms.openlocfilehash: 8d4984f3a4612e8b0b0023f8cbfcb9a2805a3177
+ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "92531066"
+ms.lasthandoff: 01/08/2021
+ms.locfileid: "97979702"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>Bulut Çözümü Sağlayıcısı program kılavuzu, sözleşmeler, fiyat listeleri ve teklifler
 
 **Uygulama hedefi**
 
 - İş Ortağı Merkezi
-- ABD kamu için Microsoft Bulut iş ortağı Merkezi
+- Microsoft Cloud for US Government için İş Ortağı Merkezi
 
 
 Microsoft 'un bulut çözümü sağlayıcısı (CSP) programına katılma gereksinimlerini anlamak için bu makaledeki bilgileri gözden geçirin.
@@ -77,3 +77,8 @@ CSP 'de bir iş ortağı olarak, Office 365, Enterprise Mobility Suite, Microsof
 Crest kullanım kaydı API 'sini kullanan CSP iş ortakları için, Microsoft ayrıca **fiyatlandırma ve teklifler** sayfasında CSP 'de Azure hizmetlerinin bir listesini yayımlar.
 
 Bağımsız yazılım satıcıları (ISV 'Ler) tarafından yayınlanan Azure Marketi teklifleri hakkında bilgi edinmek için sol gezinti menüsündeki **Market** sayfasını ziyaret edin. Şu anda yalnızca SaaS (hizmet olarak yazılım) ürün türleri Iş Ortağı Merkezi 'nde satın alınabilir. Azure Market tekliflerinin diğer türlerini edinmek için Azure portal ziyaret etmeniz gerekir.
+
+## <a name="next-steps"></a>Sonraki adımlar
+
+- [Microsoft Iş ortağı sözleşmesi hakkında bilgi edinin](microsoft-partner-agreement.md)
+- [Bulut Çözümü Sağlayıcısı programına kaydolma](enrolling-in-the-csp-program.md)

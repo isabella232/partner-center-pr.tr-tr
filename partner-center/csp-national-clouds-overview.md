@@ -9,14 +9,24 @@ author: billLinzbach
 ms.author: billLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f9d5d0841914f0a8a5dc155307b177606a4a6de6
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 386df8e19a7c66403770f94f2656bc52feb15564
+ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92531647"
+ms.lasthandoff: 01/08/2021
+ms.locfileid: "97979575"
 ---
 # <a name="apply-to-sell-in-microsoft-national-clouds-as-part-of-the-csp-program"></a>CSP programının bir parçası olarak Microsoft Ulusal bulutlarında satış için geçerlidir
+
+**Uygulama hedefi**
+
+- Microsoft kamu bulutu için iş ortağı Merkezi
+- Microsoft Bulut Almanya için iş ortağı Merkezi
+
+
+**Uygun roller**
+
+- Genel yönetici
 
 Küresel bulut çözümü sağlayıcısı programının bir parçası olarak müşterilere satmaya ek olarak, uygun Microsoft iş ortakları, bulut çözümlerini üç ayrı ulusal bulutta müşterilere da sattabilir. Ulusal bulutlar, belirli ülkelerin coğrafi kenarlıkları dahilinde ve yerel personel tarafından işletilebilir Microsoft Kurumsal bulut hizmetleri 'nin fiziksel ve mantıksal ağdan yalıtılmış örnekleridir. 
 
@@ -24,7 +34,7 @@ Microsoft 'un ulusal bulut teklifleri hakkında daha fazla bilgi için bkz. [Mic
 
 Microsoft bu hizmetleri Ulusal bulutlarda kullanılabilir hale getirir:
 
--   Kapsam içi hizmetler Microsoft Azure hiper ölçekli bilgi işlem, depolama, ağ ve kimlik yönetimi sunar. Azure, bulutta verileri kamu ve güvenlik, gizlilik, denetim, uyumluluk ve saydamlık düzeyinde korumalar.
+-   Microsoft Azure kapsamdaki hizmetler hiper ölçekli bilgi işlem, depolama, ağ ve kimlik yönetimi sağlar. Azure, bulutta verileri kamu ve güvenlik, gizlilik, denetim, uyumluluk ve saydamlık düzeyinde korumalar.
 
 -   Microsoft Dynamics 365, veri raporlama, modelleme ve iş akışlarıyla kamu çalışanları sağlayan, hassas verilere erişimi sınırlayan güvenlik özellikleri sunan bulut tabanlı bir müşteri ilişkileri yönetimi (CRM) çözümüdür.
 
@@ -49,3 +59,7 @@ Nitelikli iş ortakları, Microsoft bulut çözümlerini bu ulusal bulutlarda m�
     Microsoft teknoloji sağlayıcıdır, ancak hizmeti çalışmaz; 21Vianet, Microsoft bulut hizmetlerinin teslimini bağımsız olarak çalışır, sağlar ve yönetir. 21Vianet, Microsoft teknolojilerini lisanslayarak Azure ve Office 365 hizmetleri sunabilir ve verileri ana kara Çin içinde tutan Azure ve Office 365 veri merkezlerini çalıştırabilirler. 21Vianet Ayrıca, abonelik ve faturalandırma hizmetlerinin yanı sıra destek de sağlar.
 
     Çin 'de 21Vianet tarafından çalıştırılan Azure ve Office 365 müşterilerine kaydolma ve satma hakkında bilgi için bkz. [21Vianet tarafından çalıştırılan Iş Ortağı Merkezi](/previous-versions/windows/it-pro/windows-home-server/ff357696(v=ws.11)).
+
+## <a name="next-steps"></a>Sonraki adımlar
+
+- [ABD kamu için Microsoft Bulut Iş Ortağı Merkezi hakkında sık sorulan sorular](faq-for-us-govt-cloud.md)

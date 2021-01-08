@@ -1,5 +1,5 @@
 ---
-title: CSP için Office 365 Kamu GCC satma
+title: CSP için Office 365 Kamu GCC satışı
 ms.topic: article
 ms.date: 05/15/2020
 ms.service: partner-dashboard
@@ -9,25 +9,20 @@ author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3086ada5238fac6ec993bffa8c852517281c98a3
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 1c6456b1fb1061f9b2f0a2b67a8d2285ea25474e
+ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92531654"
+ms.lasthandoff: 01/08/2021
+ms.locfileid: "97979439"
 ---
 # <a name="sell-office-365-government-gcc-for-csp-subscriptions-to-qualified-customers"></a>Uygun müşterilere CSP abonelikleri için Office 365 Kamu GCC satma
-
-**Uygulama hedefi**
-
-- İş Ortağı Merkezi
-- CSP iş ortakları
 
 **Uygun roller**
 
 - Genel yönetici
 - Yönetim Aracısı
-- Satış Aracısı
+
 
 ## <a name="overview"></a>Genel Bakış
 
@@ -41,10 +36,10 @@ Bulut çözümü sağlayıcısı programı 'ndaki (CSP) Microsoft iş ortakları
 
 Şirketiniz, CSP teklifleri için Office 365 Kamu GCC 'yi satmaya onaylandıktan sonra Iş Ortağı Merkezi 'ni kullanarak müşterilere satış olanağı sağlayabilirsiniz. Iş Ortağı Merkezi 'ni kullanarak abonelikler satma hakkında bilgi edinmek için şu kaynaklara bakın: 
 
--   Office 365 Kamu GCC 'yi CSP abonelikleri için satmaya yönelik adım adım kılavuz için [buraya](https://go.microsoft.com/fwlink/?linkid=2007323)gidin.  
+- Adım adım kılavuz için, [CSP abonelikleri Için Office 365 Kamu GCC satma Kılavuzu](https://go.microsoft.com/fwlink/?linkid=2007323)' nu okuyun.  
 
 
-## <a name="additional-resources"></a>Ek kaynaklar
+## <a name="next-steps"></a>Sonraki adımlar
 
 İş ortakları için Microsoft 365 iş [ortağı fırsatındaki iş ortağı fırsatındaki](https://www.microsoft.com/microsoft-365/partners/governmentforCSP) bilgilere erişin.
 

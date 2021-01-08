@@ -9,19 +9,15 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1d32f42b2c4bd8e4ec6c659326d1a21385c0642f
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 5e6ca188aeb50cec6f847afb08be4a9d62b36984
+ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92531687"
+ms.lasthandoff: 01/08/2021
+ms.locfileid: "97979693"
 ---
 # <a name="manage-commercial-marketplace-products-and-offers-for-your-customers"></a>Müşterileriniz için ticari Market ürünlerini ve tekliflerini yönetin
 
-**Uygulama hedefi**
-
-- İş Ortağı Merkezi
-- CSP programındaki iş ortakları
 
 **Uygun roller**
 
@@ -36,7 +32,7 @@ Bulut çözümü sağlayıcısı (CSP) programındaki iş ortakları, ticari Mar
 
 1. Iş Ortağı Merkezi [panosunda](https://partner.microsoft.com/dashboard)oturum açın ve ardından sol gezinti menüsünden **müşteriler** ' i seçin.
 
-2. Uygun bir müşteri seçip **abonelikler** ' i seçin. Bu, müşteri için satın aldığınız lisans tabanlı abonelikleri listeler.
+2. Uygun bir müşteri seçip **abonelikler**' i seçin. Bu, müşteri için satın aldığınız lisans tabanlı abonelikleri listeler.
 
 3. **Abonelik** sütununda, görüntülemek veya düzenlemek istediğiniz aboneliği seçin. Bu, teklifi ayarlama veya sağlama hakkında daha fazla bilgi sağlar. (Teklifte daha fazla eylem gerekliyse, durum sütununda bir "eylem gerekiyor" durumu görüntülenmiş de görebilirsiniz. Bu da ISV yayımcısının sitesinin bir bağlantısı ile birlikte olabilir.)
 
@@ -63,7 +59,7 @@ Yayımcı size kişiselleştirilmiş bir bağlantı ve belirli satın alma bilgi
 
 1. Bu kişiselleştirilmiş bağlantıyı birkaç yolla ISV yayımcısından bulabilirsiniz:
 
-   - Bir ISV SaaS teklifi satın aldıktan sonra görünen onay sayfasından bağlantıyı görebilirsiniz. Sayfada bu bağlantıyı bulmak için **yayımcının sitesine git** ' i bulun ve seçin.
+   - Bir ISV SaaS teklifi satın aldıktan sonra görünen onay sayfasından bağlantıyı görebilirsiniz. Sayfada bu bağlantıyı bulmak için **yayımcının sitesine git**' i bulun ve seçin.
 
    - Bağlantıyı belirli müşterinin abonelikler sayfasından görebilirsiniz. Bu Yayımcı bağlantısı, müşteri için satın alınan ISV teklifiyle veya abonelikle ilişkili satırda görüntülenir.
 
@@ -102,13 +98,13 @@ SaaS ticari Market teklifleri için bir müşteri aboneliğine yönelik kullanı
 
 1. Iş Ortağı Merkezi [panosunda](https://partner.microsoft.com/dashboard)oturum açın ve ardından sol gezinti menüsünden **müşteriler** ' i seçin.
 
-2. Uygun bir müşteri seçip **abonelikler** ' i seçin. Bu, müşteri için satın aldığınız lisans tabanlı abonelikleri listeler.
+2. Uygun bir müşteri seçip **abonelikler**' i seçin. Bu, müşteri için satın aldığınız lisans tabanlı abonelikleri listeler.
 
 3. **Abonelik** sütununda, değiştirmek istediğiniz aboneliği seçin.
 
 4. Abonelik Ayrıntıları sayfasında, **Miktar** alanını bulun. Bu, lisansların sayısını artırabileceğiniz veya azaltırabileceğiniz yerdir.
 
-5. Miktarı değiştirin ve ardından **Gönder** ' i seçin.
+5. Miktarı değiştirin ve ardından **Gönder**' i seçin.
 
 ## <a name="manage-subscriptions-using-partner-center-apis"></a>Iş Ortağı Merkezi API 'Lerini kullanarak abonelikleri yönetme
 

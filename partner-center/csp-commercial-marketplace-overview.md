@@ -9,19 +9,18 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c8d64167261fe9f425a1430ac0c109b446b50913
-ms.sourcegitcommit: f34f2f69e6df4f260479a205d94010cf47987ff2
+ms.openlocfilehash: 6b914d6dbd69f374976584d1261382ef8fe9ded9
+ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 11/25/2020
-ms.locfileid: "96038838"
+ms.lasthandoff: 01/08/2021
+ms.locfileid: "97979456"
 ---
 # <a name="overview-of-the-commercial-marketplace-in-partner-center"></a>Iş Ortağı Merkezi 'nde ticari Market 'e genel bakış
 
-**Şunlara uygulanır**
+**Uygun roller**
 
-- İş Ortağı Merkezi
-- CSP programındaki iş ortakları
+- Genel yönetici
 
 Bulut çözümü sağlayıcısı (CSP) programında iş ortağı olması, üçüncü taraf, bağımsız yazılım satıcıları (ISV 'Ler) tarafından yayımlanan çözümlerle birlikte Microsoft ürünlerini paketlemenize ve satmanıza olanak tanır. Çözümleri bu şekilde paketleyebilmek, son müşterilere daha iyi hizmet vermenize ve CSP Hizmetleri işinizi büyütmenize olanak tanır.
 
@@ -68,7 +67,7 @@ Faturalandırma hakkında daha fazla bilgi edinmek için [faturalandırma temell
 
 Lisans tabanlı veya kullanım tabanlı ISV teklifleri için belirli bir market etkinliğinin nerede tamamlanacağı hakkında bilgi edinmek için aşağıdaki tablolara bakın.
 
-|**ISV 'lerden lisans tabanlı veya tarifeli SaaS teklifleri için**  |**Kullanın**  |
+|**ISV 'lerden lisans tabanlı veya tarifeli SaaS teklifleri için**  |**Kullanım**  |
 |:------------------------------------|:------------------|
 |Kullanılabilir teklifleri bulmak veya aramak için  | İş Ortağı Merkezi panosu veya Iş Ortağı Merkezi API 'Leri  |
 |Teklif satın almak için  | İş Ortağı Merkezi panosu veya Iş Ortağı Merkezi API 'Leri  |
@@ -76,7 +75,7 @@ Lisans tabanlı veya kullanım tabanlı ISV teklifleri için belirli bir market 
 |Teklif aboneliklerini iptal etmek/yenilemek veya lisans Ekle/Kaldır | İş Ortağı Merkezi panosu veya Iş Ortağı Merkezi API 'Leri  |
 |Kullanıcı oluşturmak veya izinleri yönetmek için  | ISV yayımcısının sistemi veya Web sitesi  |
 
-|**ISV 'lerden gelen kullanım tabanlı teklifler için**  |**Kullanın**  |
+|**ISV 'lerden gelen kullanım tabanlı teklifler için**  |**Kullanım**  |
 |:------------------------------------|:------------------|
 |Kullanılabilir teklifleri bulmak veya aramak için  | İş Ortağı Merkezi panosu, Iş Ortağı Merkezi API 'Leri veya Azure portal  |
 |Teklif satın almak için  | Azure portal  |

@@ -1,7 +1,7 @@
 ---
 title: Fiyatlandırma ve teklifler
 ms.topic: article
-ms.date: 07/10/2020
+ms.date: 01/07/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Office 365, Microsoft Dynamics CRM ve Enterprise Mobility Suite gibi lisans tabanlı hizmetler için geçerli fiyat listelerine ve Azure gibi kullanım tabanlı hizmetlere bakın.
@@ -9,18 +9,15 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 18c671b7903914bbbca49ded24f54b808833a92e
-ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
+ms.openlocfilehash: bf2630ffcdd36aee17b74a07ac03782ae4d9c9f0
+ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "92531094"
+ms.lasthandoff: 01/08/2021
+ms.locfileid: "97979830"
 ---
 # <a name="pricing-and-offers-for-office-365-dynamics-crm-enterprise-mobility-suite-azure-and-more"></a>Office 365, Dynamics CRM, Enterprise Mobility Suite, Azure ve daha fazlası için fiyatlandırma ve teklifler
 
-**Uygulama hedefi**
-
-- İş Ortağı Merkezi
 
 **Uygun roller**
 
@@ -31,7 +28,7 @@ ms.locfileid: "92531094"
 - Satış Aracısı
 - Faturalama yöneticisi
 
-En son bulut çözümü sağlayıcısı programlarını ve tekliflerini görmek için, Iş ortağı portalından **satış > fiyatlandırma ve teklifleri** ' ne gidin. Kullanılabilir farklı ürün türleri için ayrı fiyat listeleri bulacaksınız. **Fiyatlandırma ve teklifler** sayfasında aşağıdaki fiyat listeleri mevcuttur:
+En son bulut çözümü sağlayıcısı programlarını ve tekliflerini görmek için, Iş ortağı portalından **satış > fiyatlandırma ve teklifleri**' ne gidin. Kullanılabilir farklı ürün türleri için ayrı fiyat listeleri bulacaksınız. **Fiyatlandırma ve teklifler** sayfasında aşağıdaki fiyat listeleri mevcuttur:
 
 - **Lisans tabanlı hizmetler** , Office 365, Enterprise Mobility ve Security E3 'in yanı sıra Dynamics 365 için fiyatlandırma bilgilerini içerir. Lisans tabanlı fiyatlandırma bölümü, geçerli ve önizleme fiyatlandırmasının yanı sıra teklif listesi matrisini içerir. Fiyat listeleri, tüm desteklenen para birimlerindeki teklifler için liste fiyatını ve tahmini perakende fiyatlarını (ERP) içerir. Teklif listesi matrisi, Pazar kullanılabilirliği ve tekliflerle ilgili diğer önemli bilgileri içerir. Bu dosyalar her ayın ilk gününde güncelleştirilir.
 - **Kullanım tabanlı hizmetler** Microsoft Azure ve Visual Studio için fiyatlandırma bilgilerini içerir. Ayrıca, [CSP Fiyatlandırma Hesaplayıcı ' da Azure hizmetlerini](https://azure.microsoft.com/pricing/calculator/)kullanabilirsiniz. Kullanım tabanlı indirme, hem desteklenen tüm para birimleri için CSP fiyat listelerini hem de ERP içindeki paylaşılan hizmetler fiyatlandırma dosyalarını içerir. Bu dosyalar her ayın ilk gününde güncelleştirilir.
@@ -46,7 +43,7 @@ En son bulut çözümü sağlayıcısı programlarını ve tekliflerini görmek 
 
 ## <a name="price-list-preview-and-change-frequency"></a>Fiyat listesi önizleme ve değiştirme sıklığı 
 
-Lisans tabanlı hizmetler, herhangi bir değişiklikten önce 30 gün içinde sunulan bir fiyat listesi önizlemesi içerir. Fiyat listesi önizlemesini görmek için, **satış > fiyatlandırma ve teklifleri** ' ne gidin. Bu hizmetler dinamik olduğundan, kullanım tabanlı hizmetler için bir fiyat önizleme yoktur. Aşağıdaki tabloda, Fiyat listesi tablosunun nasıl okunacağı açıklanmaktadır.
+Lisans tabanlı hizmetler, herhangi bir değişiklikten önce 30 gün içinde sunulan bir fiyat listesi önizlemesi içerir. Fiyat listesi önizlemesini görmek için, **satış > fiyatlandırma ve teklifleri**' ne gidin. Bu hizmetler dinamik olduğundan, kullanım tabanlı hizmetler için bir fiyat önizleme yoktur. Aşağıdaki tabloda, Fiyat listesi tablosunun nasıl okunacağı açıklanmaktadır.
 
 |**Öğe**        |**Tanım**      |
 |:-----------   |:-----------   |
@@ -169,7 +166,7 @@ Aşağıda bu tekliflerin nasıl çalıştığı hakkında bir Özet verilmişti
 - Abonelik yenilenmez ve 6 yıl sonra sona erer
 - Teklifin faturalandırma sıklığı yıllık olarak gösterilir, ancak abonelik alındıktan sonra iş ortağının ilk faturasında ön faturalandırılır
 - A1 72-ay teklifleri için abonelikler satın alma işleminden sonra kilitlidir ve iptal edilemez ve ilk satın alma işleminden sonra lisans sayıları aboneliğe eklenemez
-- İptal etmeniz gereken iş ortakları, iptal etme nedenine ve yardım gerektiren abonelik KIMLIĞINE sahip bir destek bileti oluşturmaya gerek duyar.
+- Bu abonelik iptal edilemez ve yok edilemez.
 
 ## <a name="estimated-retail-price-erp"></a>Tahmini perakende fiyatı (ERP)
 

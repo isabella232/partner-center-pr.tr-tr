@@ -1,7 +1,7 @@
 ---
 title: İş Ortağı Merkezi hesabı oluşturma
 ms.topic: article
-ms.date: 08/07/2020
+ms.date: 01/07/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Microsoft İş Ortağı Ağı üyelerin ağ avantajlarını ve uzmanlarını yönetmek için bir Iş Ortağı Merkezi hesabı nasıl oluşturabileceğinizi öğrenin.
@@ -9,12 +9,12 @@ author: ParthP
 ms.author: ParthP
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e3f04708d3b7e2c86c88541931c120a6649674fb
-ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
+ms.openlocfilehash: c7aa97760be9fdb2cc004ffd5612826f777c05c5
+ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96570799"
+ms.lasthandoff: 01/08/2021
+ms.locfileid: "97979745"
 ---
 # <a name="create-a-partner-center-account-to-manage-network-benefits-and-competencies"></a>Ağ avantajlarını ve uzmanlık alanı yönetimini yönetmek için bir Iş Ortağı Merkezi hesabı oluşturun
 
@@ -29,7 +29,7 @@ Iş Ortağı Merkezi 'nde bir hesap oluşturabilmeniz için şirketinizin Micros
 
 Çalışanlarınız için iş e-posta adreslerini ayarlayabilmeniz için şirketiniz bir e-posta etki alanı satın almanız gerekir. Bu teknik bir işlem olduğundan, bir e-posta etki alanı satın almak için BT departmanınızla birlikte çalışın. Yeni e-postayı kullanarak Azure AD kiracınızı ve Iş Ortağı Merkezi hesabınızı ayarlayın.
 
-## <a name="get-started"></a>Kullanmaya başlayın
+## <a name="get-started"></a>başlarken
 
 Iş Ortağı Merkezi 'nde bir hesap oluşturmak için aşağıdaki bilgileri kullanmanız gerekir. Başlamadan önce bu öğelerin toplanması birkaç dakika geçmesi gerekebilir:
 
@@ -55,16 +55,20 @@ Bu bilgileri, hesap oluşturma işlemi sırasında doğrulayacağız. Doğrulama
 
     Şirketiniz bir iş hesabına sahip değilse, şimdi bir tane ayarlamak için **Oluştur** ' u seçin. Bir iş hesabı oluşturduktan sonra, az önce oluşturduğunuz iş hesabı için genel yönetici kimlik bilgilerinizi kullanarak oturum açın.
 
-3.  Şirketinizin yasal iş profilini ve birincil iletişim bilgilerini girip güncelleştirin ve **Şimdi kaydet**' i seçin. 
+3.  Şirketinizin yasal iş profilini sağlayın veya güncelleştirin.
+
+    Şirket Profilinizi araması yapabilir veya şirket bilgilerini el ile girebilirsiniz. Şirketiniz [Dun & Bradstreet](https://partner.microsoft.com/marketing/usisvshowcase/dunandbrad)ile kayıtlıysa, şirketinizin bilgilerini aramak için Dlııd kimliğini kullanın. Şirket ayrıntılarınızı kendiniz sağlamak istiyorsanız, **el ile**' yi seçin.
+
+4. Şirket bilgilerini girdikten sonra, birincil iletişim bilgilerini girip **Şimdi kaydet**' i seçin.
 
     Birincil ilgili kişi, şirketinizde sizinle iletişim kurabildiğimiz kişi olmalıdır (Bu sizin veya şirketinizdeki başka bir kişi olabilir). Bu bilgileri ayrıca, bu kişinin şirketinizde çalıştığını ve bir Iş Ortağı Merkezi hesabına kaydolmadığını doğrulamak için de kullanacağız.
 
     > [!IMPORTANT]  
     > Şirketinizin güvenliğinin ve gizliliğinin sağlanmasına yardımcı olmak için, birincil kişinize e-posta ile bir Iş Ortağı Merkezi hesabına kaydolup (1), bu e-posta adresinin şirketinize ait olduğunu doğrulayın. Birincil iletişim e-posta adresini doğruladıktan sonra, verdiğiniz bilgileri gözden geçirmemiz için devam edeceğiz.
 
-4.  Microsoft İş Ortağı Ağı sözleşmesindeki hüküm ve koşulları okuyun ve kabul edin. 
+5.  Microsoft İş Ortağı Ağı sözleşmesindeki hüküm ve koşulları okuyun ve kabul edin. 
 
-5.  Yönetim Aracısı grubuna eklendiğinizi doğrulayın. Diğer kullanıcıları ekleme dahil olmak üzere hesabınızı ayarlamayı tamamlaması için yönetici Aracısı izinlerinizin olması gerekir. İzinlerinizi görüntülemek veya güncelleştirmek için şu adımları izleyin:
+6.  Yönetim Aracısı grubuna eklendiğinizi doğrulayın. Diğer kullanıcıları ekleme dahil olmak üzere hesabınızı ayarlamayı tamamlaması için yönetici Aracısı izinlerinizin olması gerekir. İzinlerinizi görüntülemek veya güncelleştirmek için şu adımları izleyin:
 
     a. Iş Ortağı Merkezi [panosunda](https://partner.microsoft.com/dashboard/home**), **Ayarlar** simgesini seçin ve ardından **Kullanıcı yönetimi**' ni seçin.  
 

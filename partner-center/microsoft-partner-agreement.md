@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: a05b1ba1a4fb92e30a7a21609a4794d8b3b8fd4c
-ms.sourcegitcommit: cd4047e46ed116339bd9918b94af7138bcae6603
+ms.openlocfilehash: fc5a34bbb8326b38c13cc73ca9fff099f9b1c0db
+ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "97916839"
+ms.lasthandoff: 01/08/2021
+ms.locfileid: "97979773"
 ---
 # <a name="learn-about-the-microsoft-partner-agreement-mpa-for-csp-program-partners"></a>CSP program iş ortakları için Microsoft Iş ortağı Sözleşmesi (MPA) hakkında bilgi edinin
 
@@ -54,7 +54,7 @@ CSP programına katılmayı sürdürmek için, Microsoft Iş ortağı sözleşme
 
 1. CSP genel yönetici hesabı kimlik bilgilerinizle Iş Ortağı Merkezi ' nde oturum açın.
 
-1. **Ayarlar** ' dan [iş ortağı profili](https://partner.microsoft.com/pcv/accountsettings/partnerprofile)' ni seçin.
+1. **Ayarlar**' da, **Hesap ayarları**' nı seçin ve [iş ortağı profili](https://partner.microsoft.com/pcv/accountsettings/partnerprofile)' ni seçin.
 
 1. **Program bilgileri** bölümünü denetleyin. Bilgileriniz **dolaylı satıcı** durumunu göstermezse [dolaylı satıcı olarak kaydetmeniz](indirect-reseller-tasks-in-partner-center.md)gerekir.
 
@@ -79,6 +79,10 @@ MPA 'nın imzalanıp imzalanmadığını görmek için:
 
 >[!NOTE]
 >Yalnızca şirketinizdeki genel yönetici MPA 'yı görüntüleyebilir ve imzalayabilir. Genel yönetici değilseniz MPA 'yı doğrulamak için genel yöneticinize başvurmanız gerekir.
+
+**Hesap ayarlarından** **anlaşmalar** ' i seçerek sözleşmenin imzalanıp imzalanmadığını da görebilirsiniz.
+
+:::image type="content" source="images/agreements/agreements.png" alt-text="MPA 'nın imzalandığının göstergesi":::
 
 
 ## <a name="download-the-step-by-step-guide-thats-right-for-where-you-are-in-the-process"></a>İşlem içinde nerede olduğunuz konusunda doğru olan adım adım kılavuzu indirin

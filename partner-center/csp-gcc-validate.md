@@ -1,5 +1,5 @@
 ---
-title: Office 365 Kamu GCC iş ortağı ve müşteri uygunluk ölçütleri
+title: Office 365 Kamu GCC iş ortağı ve müşteri uygunluk kriterleri
 ms.topic: article
 ms.date: 05/05/2020
 ms.service: partner-dashboard
@@ -9,19 +9,14 @@ author: BillLinzbach
 ms.author: billLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cae255b05b00739ee7db15c8ba298df11ca74788
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 8614b321b453d280b8af0c548ea61c049708a6db
+ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "92531034"
+ms.lasthandoff: 01/08/2021
+ms.locfileid: "97979646"
 ---
-# <a name="office-365-government-gcc-for-csp-partner-and-customer-eligibility-criteria---partner-center"></a>CSP Iş ortağı ve müşteri uygunluk ölçütlerine yönelik Office 365 Kamu GCC-Iş Ortağı Merkezi
-
-**Uygulama hedefi**
-
-- İş Ortağı Merkezi
-- CSP Iş ortakları
+# <a name="office-365-government-gcc-for-csp-partner-and-customer-eligibility-criteria"></a>CSP Iş ortağı ve müşteri uygunluk ölçütlerine yönelik Office 365 Kamu GCC 
 
 **Uygun roller**
 
@@ -32,7 +27,7 @@ ms.locfileid: "92531034"
 >[!NOTE]
 >Aşağıda özetlenen doğrulama işlemi ve ölçütler doğrudan fatura iş ortaklarına özgüdür. Doğrudan fatura ortakları doğrudan satıcılar ve dolaylı sağlayıcılar içerir.  Dolaylı bir satıcıysanız, lütfen dolaylı sağlayıcınızla çalışın.
 
-CSP için Office 365 Kamu GCC için kuruluşunuzun (veya müşterinizin kuruluşunuzun) onaylanmasından ilgileniyorsanız, aşağıdaki gereksinimleri gözden geçirin.
+CSP için Office 365 Kamu GCC için şirketinizin (veya müşterinizin şirketinin) onaylanmasından ilgileniyorsanız, aşağıdaki gereksinimleri gözden geçirin.
 
 ABD Federal, eyalet, yerel veya kaş kamu varlıklarına hizmet veren bir iş ortağıysanız onaylandınız. Kurumlarınızın doğrulanması için, [burada](https://products.office.com/government/eligibility-validation?ReqType=CSPPartner)bulunan kısa formu doldurun.
 
@@ -68,3 +63,6 @@ CSP iş ortakları için Office 365 Kamu GCC ve müşteriler, aşağıda özetle
 
 Uluslararası bir ticari varlık, yukarıda belirtilen gereksinimlere uyup uymadığını ve ABD varlığını (posta adresi, fiziksel konum vb.) doğruladığını uygun hale gelebilir.
 
+## <a name="next-steps"></a>Sonraki adımlar
+
+- [Uygun müşterilere CSP abonelikleri için Office 365 Kamu GCC satma](csp-gcc-overview.md)

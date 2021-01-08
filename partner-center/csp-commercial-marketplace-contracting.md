@@ -9,26 +9,22 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c340baa12b834fae66888c08cf910d2918583ce1
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 4b4653e0f26bdce558dbdc70f03251e60277527f
+ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "92530983"
+ms.lasthandoff: 01/08/2021
+ms.locfileid: "97979663"
 ---
 # <a name="contracts-for-csp-partners-doing-business-in-the-commercial-marketplace"></a>Ticari Market 'te iş yapan CSP iş ortakları sözleşmeleri
 
-**Uygulama hedefi**
-
-- İş Ortağı Merkezi
-- CSP programındaki iş ortakları
 
 **Uygun roller**
 
 - Genel yönetici
 - Yönetim Aracısı
 
-Bu bölüm, Iş ortağı merkezi ticari marketi veya Azure portal müşterileri için ISV Marketi tekliflerini veya ürünlerini satın almayı seçen CSP programındaki iş ortakları ile ilgilidir.
+Bu makale, Iş ortağı merkezi ticari marketi veya Azure portal müşterileri için ISV Marketi tekliflerini veya ürünlerini satın almayı seçen CSP programındaki iş ortakları için anlaşmalar hakkında yer alır.
 
 [CSP Program Kılavuzu](https://go.microsoft.com/fwlink/p/?LinkId=617100) , CSP programındaki Microsoft ve iş ortakları arasında ticari Market tekliflerini yöneten hüküm ve koşulları içerir. CSP iş ortakları, program içinde uyumlulukla çalıştığından emin olmak için bu hüküm ve koşulları gözden geçirmelidir.  
 
