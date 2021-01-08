@@ -8,20 +8,23 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 12/21/2020
-ms.openlocfilehash: 7cc78142e05667ca9072b25fb5ed94822d5f7c62
-ms.sourcegitcommit: 4c52d3a1fde7eba20607e9e329a71e478b019036
+ms.date: 01/04/2021
+ms.openlocfilehash: 754fbb58c2344ad09c6f9b72b36afc62eda38b71
+ms.sourcegitcommit: cd4047e46ed116339bd9918b94af7138bcae6603
 ms.translationtype: HT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/22/2020
-ms.locfileid: "97736556"
+ms.lasthandoff: 01/06/2021
+ms.locfileid: "97916822"
 ---
 # <a name="partner-center-announcements"></a>İş Ortağı Merkezi duyuruları
 
 Önemli İş Ortağı Merkezi güncelleştirmeleri hakkında bilgi edinin. Bu bilgileri sık sık güncelleştirdiğimizden burayı sık sık kontrol edin!
 
-| **Kategori** | **Aralık 2020 duyuruları** | **Duyurulan** |
+| **Kategori** | **Ocak 2021 duyuruları** | **Duyurulan** |
 |---------|:---------|:---------|
+|Özellikler|[Mevcut Eğitim müşterisi doğrulama süreci için GET ve PUT Koşullara Uygunluk API’lerinin Şubat 2021 sonu itibarıyla kullanımdan kaldırılması ve devre dışı bırakılması](2021-january.md#2)|5 Ocak|
+|Teklifler/Pazarlar|[Şubat 2021 için Dynamics 365 teklifleri](2021-january.md#1)|4 Ocak|
+| **Kategori** | **Aralık 2020 duyuruları** | **Duyurulan** |
 |Teklifler|[FY21 H1 kullanım döneminden kullanılmayan kanal teşvikli ortak pazarlama fonu (kooperatif) fonları, H2 kullanım dönemine devredilecektir](2020-december.md#13)|22 Aralık|
 |Özellikler|[Microsoft İş Ortağı Sözleşmesi (MPAs) olan iş ortakları için Adobe oturum açma 2021’e DocuSign geçişi](2020-december.md#12)|22 Aralık|
 |Teklifler/Pazarlar|[Ocak 2021 fiyatlandırma ve katalog zamanlamaları](2020-december.md#11)|22 Aralık|
