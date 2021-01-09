@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 01/07/2021
-ms.openlocfilehash: 17c4e19216218d070515b34d326dcca6596e94a8
-ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
+ms.openlocfilehash: 0f03ae17b9dd4b7a9097c7531dc6b519de70acef
+ms.sourcegitcommit: e4dea28c06da7677ea6a8615afdfd82d0151bd00
 ms.translationtype: MT
 ms.contentlocale: tr-TR
 ms.lasthandoff: 01/08/2021
-ms.locfileid: "97979813"
+ms.locfileid: "98041016"
 ---
 # <a name="january-2021-announcements"></a>Ocak 2021 duyuruları
 
@@ -25,21 +25,59 @@ Bu sayfada, Ocak 2021 için Microsoft Iş Ortağı Merkezi duyuruları ayrıntı
 2020 [Duyuruları:](2020-may.md)  |  [](2020-june.md)  |  [](2020-july.md)  |  [](2020-august.md)  |  [Eylül](2020-september.md)ayında  |  [](2020-October.md)  |  [Kasım](2020-november.md)  |  [ayında](2020-december.md) Haziran ayı | Tarihli
 
 ________________
+
+## <a name="license-base-price-list-updates-for-january-2021"></a><a name="4"></a>Ocak 2021 için lisans-temel fiyat listesi güncelleştirmeleri 
+
+### <a name="categories"></a>Kategoriler
+
+- Tarih: 2021-01-08
+- Teklifler/Pazarlar
+
+### <a name="summary"></a>Özet
+
+Lisans tabanlı teklifler için Ocak ve Şubat fiyat listeleri, belirli hatalı liste fiyatlarını düzeltmek üzere güncelleştirilmiştir.
+
+### <a name="impacted-audience"></a>Etkilenen hedef kitle
+
+Tüm iş ortakları bulut çözümü sağlayıcısı (CSP) programı üzerinden deneyimidir.
+
+### <a name="details"></a>Ayrıntılar 
+
+2021 Ocak ve Şubat 2021 için lisans tabanlı fiyat listeleri, birkaç hatalı liste fiyatına dahildir. Etkilenen teklifler ve para birimleri aşağıda verilmiştir. Doğru fiyatlandırma güncelleştirildi ve 7 Ocak 2021 14:00 PST (Pasifik standart saati) itibariyle kullanılabilir. 
+
+   |**Teklif adı**|**Teklif Kimliği**|**Malzeme KIMLIĞI**|
+   |-------------------|:------|:------|
+   |Microsoft 365 E3|2b3b8d2d-10aa-4BE4-b5fd-7f2feb0c3091|AAA-35638| 
+   |Microsoft 365 İş temel|bd938f12-058F-4927-bba3-ae36b1d2501c|AAA-10624|
+
+Etkilenen para birimleri: 
+
+- Microsoft 365 E3 fiyat sorunları yalnızca şu para birimleriyle sınırlandırılmıştır: JŞ (Japonca yen), GBP (İngiltere Sterlini), EUR (Avrupa Birliği), AUD (Avustralya Doları). 
+- Microsoft 365 İş temel sorunlar yalnızca USD (Birleşik Devletler dolar) ile sınırlandırılmıştır. 
+
+İş ortakları, doğru fiyatlar için şu anda kullanılabilir Ocak ve Şubat önizleme fiyatı listelerine başvurmalıdır. 
+
+### <a name="next-steps"></a>Sonraki adımlar
+
+- İş ortakları, düzeltilen Ocak ve Şubat fiyatlarını almak için Iş Ortağı Merkezi 'nden en son fiyat listesi dosyalarını indirmelidir. 
+- 1 Ocak ve 6 Ocak 'ta abonelikleri satın almış etkilenen kiracılar için genel Yöneticiler, daha fazla ayrıntı ile Ocak sonundan önce bir Iş Ortağı Merkezi e-postası aracılığıyla bilgilendirilir. 
+
+_____________ 
+
 ## <a name="euefta-change-of-partner-billing-currency-for-new-commerce-offers"></a><a name="3"></a> AB/EFTA, yeni ticaret teklifleri için Iş ortağı faturalandırma para birimi değişikliği
 
 ### <a name="categories"></a>Kategoriler
 
 - Tarih: 2021-01-07
-- Modern çalışma alanı
+- Özellikler
 
 ### <a name="impacted-audience"></a>Etkilenen hedef kitle
 
-- Doğrudan sağlayıcı, dolaylı sağlayıcı, dolaylı satıcı
 - Tüm Iş ortakları AB/EFTA bölgesindeki bulut çözümü sağlayıcısı programı aracılığıyla deneyimidir 
 
 ### <a name="details"></a>Ayrıntılar
 
-Avrupa Birliği (AB)/Avrupa Serbest Ticaret Birliği (EFTA) bölgesinde, bulut çözümü sağlayıcısı programındaki tüm yeni ticari teklifler, müşteri faturalandırma konumu yerine iş ortağı faturalandırma konumunu kullanır. Bu, iş ortaklarının Microsoft tarafından müşterilerin konum para birimine değil, konum para birimine göre faturalandırılacağı anlamına gelir. Bu, iki aşamada yapılır:
+Avrupa Birliği (AB)/Avrupa Serbest Ticaret Birliği (EFTA) bölgesinde, bulut çözümü sağlayıcısı programındaki tüm yeni ticari teklifler, müşteri faturalandırma konumu yerine iş ortağı faturalandırma konumunu kullanır. Bu nedenle, iş ortakları Microsoft tarafından müşterilerin konum para birimine değil, konum para birimine göre faturalandırılacaktır. Bu, iki aşamada yapılır:
 
 **1. Aşama:**
 
@@ -47,7 +85,7 @@ Avrupa Birliği (AB)/Avrupa Serbest Ticaret Birliği (EFTA) bölgesinde, bulut �
 
 - Mevcut müşteriler, 11 Mayıs 2020 ' den önce oluşturulan yeni ticaret teklifleri-kiracı satın alırken ilk kez
 
-23 Ocak 2021 tarihinden itibaren, yeni bir ticaret teklifi satın alan net yeni müşterilere sahip olan iş ortakları veya 2020 11. adımda oluşturulan kiracılar ile mevcut müşteriler, iş ortağı konumu para birimindeki satın alımlarda faturalandırılır.  
+28 Ocak 2021 tarihinden itibaren, yeni bir ticaret teklifi satın alan net yeni müşterilere sahip olan iş ortakları veya 11 Mayıs 2020 ' den önce oluşturulan kiracılar ile mevcut müşteriler, iş ortağı konumu para birimi için bu satın alma işlemleri için faturalandırılır.  
 
 CSP 'de zaten yeni ticaret teklifleri satın almış mevcut müşterileri olan iş ortakları, bu aşamada müşterinin faturalandırma konumunun para birimi cinsinden faturalandırılmaya devam edecektir. Ayrıca, mevcut müşterilerine sahip iş ortakları, kiracılar 11 Mayıs 2020 ' de veya sonrasında oluşturulan yeni bir ticaret teklifinin ilk kez satın alınması sırasında müşterinin para biriminde faturalandırılmaya devam edecektir.
 
@@ -61,9 +99,8 @@ Aşağıdaki 1. aşama ve takvim yılı 2021 sırasında, Microsoft, mevcut mü�
 2. aşama sonrasında, AB/EFTA bölgesindeki iş ortakları tüm müşteriler ve tüm CSP satınalmaları için ortak konum para birimi cinsinden faturalandırılır.
 
 >[!NOTE]
->Bu değişiklik, CSP 'deki yeni ticaret tekliflerinin Fiyatlandırmasını değil, yalnızca iş ortağı faturalandırma para birimini etkiler.
+>Bu değişiklik, CSP 'deki yeni ticaret tekliflerinin Fiyatlandırmasını değil, yalnızca iş ortağı faturalandırma para birimini etkiler. Bu değişiklik için kapsamdaki yeni ticaret teklifleri şunlardır: Azure planının bir parçası olan Azure abonelikleri, Azure ayırmaları, sunucu abonelikleri, kalıcı yazılımlar ve Microsoft ticari Market satın alımlarının bulut çözümü sağlayıcısı programı.
 
-Bu değişiklik için kapsamdaki yeni ticaret teklifleri şunlardır: Azure planının bir parçası olan Azure abonelikleri, Azure ayırmaları, sunucu abonelikleri, kalıcı yazılımlar ve Microsoft ticari Market satın alımlarının bulut çözümü sağlayıcısı programı.
 
 ### <a name="partner-benefits"></a>İş ortağı avantajları
 
@@ -82,6 +119,13 @@ Microsoft iş ortağı web sitesinde [Işlemler galerisinde](https://partner.mic
 
 Bu bildirimle ilgili sorular için [Iş Ortağı Merkezi desteğiyle](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals) iletişim kurun (oturum açma gerekir).
 
+### <a name="change-log"></a>Değişiklik günlüğü
+
+- 17 Kasım 2020: özgün yayın
+ 
+- 7 Ocak 2021:1. aşama ve 2. aşama için ek senaryo eklendi
+
+
 ________________
 ## <a name="deprecation-and-retirement-of-existing-get-and-put-qualification-apis-for-the-education-customer-validation-process-by-the-end-of-february-2021"></a><a name="2"></a>Şubat 2021 ' nin sonuna kadar eğitim müşteri doğrulama işlemi için mevcut GET ve PUT nitelendirme API 'Lerinin kullanımdan kaldırılması ve kullanımdan kaldırılması
 
@@ -91,9 +135,9 @@ Iş Ortağı Merkezi API 'sini kullanarak bulut çözümü sağlayıcısı progr
 
 ### <a name="details"></a>Ayrıntılar 
 
-Bu, Aralık 2020 ' de yayınlanan API geliştirmeleri için bir izdir. Aralık ayında, 2020 yeni GET ve POST nitelikleri API 'Leri yayımlandı ve sonuç olarak, eski GET ve PUT niteliği API 'Leri Şubat 2021 ' nin sonuna kadar kullanımdan kaldırılacaktır. Bu sırada, eğitim tekliflerini satın alabilmek için yeni alma ve GÖNDERI Iş Ortağı Merkezi API 'Lerini kullanmanız gerekir. 
+Bu, Aralık 2020 ' de yayınlanan API geliştirmeleri için bir izdir. Aralık 2020 ' de yeni GET ve POST nitelikleri API 'Leri yayımlandı ve sonuç olarak eski GET ve PUT niteliği API 'Leri Şubat 2021 ' nin sonuna kadar kullanımdan kaldırılacaktır. Bu sırada, eğitim tekliflerini satın alabilmek için yeni alma ve GÖNDERI Iş Ortağı Merkezi API 'Lerini kullanmanız gerekir. 
 
-## <a name="next-steps"></a>Sonraki adımlar
+### <a name="next-steps"></a>Sonraki adımlar
 
 - Henüz yapmadıysanız, başarılı ve zamanında geçiş için yeni API 'lere güncelleştirin.
 - Yeni Iş Ortağı Merkezi API değişikliklerini gözden geçirin ve [Işlem hazırlık kaynakları: Partner Center eğitimi müşteri doğrulama süreci iyileştirmeleri](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/)' ne bakın.
@@ -157,7 +201,7 @@ Bu SKU 'Lar 1 Ocak 2021 son fiyat listesinden kaldırılmıştır ve şu an içi
    |Dynamics 365 Işlemleri – AX geçiş programı için cihaz|8c8b7c8f-CB3A-4737-8319-1752938c7be3|
    |Dynamics 365 AX geçiş programı için takım üyeleri|1eb3ad0b-9de3-419D-8bfe-0d61bdd945b2|
 
-## <a name="next-steps"></a>Sonraki adımlar
+### <a name="next-steps"></a>Sonraki adımlar
 
 Bu konuyla ilgili kaynakları gözden geçirin ve kuruluşunuzdaki uygun hissedarlarla paylaşabilirsiniz. 
 
