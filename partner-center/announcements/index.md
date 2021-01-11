@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 01/04/2021
-ms.openlocfilehash: 754fbb58c2344ad09c6f9b72b36afc62eda38b71
-ms.sourcegitcommit: cd4047e46ed116339bd9918b94af7138bcae6603
+ms.openlocfilehash: 93deb404cd056aab2a14015a4c89fad22f9d0c72
+ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
 ms.translationtype: HT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "97916822"
+ms.lasthandoff: 01/08/2021
+ms.locfileid: "97979796"
 ---
 # <a name="partner-center-announcements"></a>İş Ortağı Merkezi duyuruları
 
@@ -22,6 +22,7 @@ ms.locfileid: "97916822"
 
 | **Kategori** | **Ocak 2021 duyuruları** | **Duyurulan** |
 |---------|:---------|:---------|
+|Modern Çalışma Alanı|[Yeni ticari teklifler için AB/EFTA İş Ortağı Fatura Para Birimi Değişikliği](2021-january.md#3)|7 Ocak|
 |Özellikler|[Mevcut Eğitim müşterisi doğrulama süreci için GET ve PUT Koşullara Uygunluk API’lerinin Şubat 2021 sonu itibarıyla kullanımdan kaldırılması ve devre dışı bırakılması](2021-january.md#2)|5 Ocak|
 |Teklifler/Pazarlar|[Şubat 2021 için Dynamics 365 teklifleri](2021-january.md#1)|4 Ocak|
 | **Kategori** | **Aralık 2020 duyuruları** | **Duyurulan** |
