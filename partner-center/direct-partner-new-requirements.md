@@ -9,22 +9,22 @@ ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
 ms.date: 12/15/2020
-ms.openlocfilehash: 7efd3ab2303f66fbd2b02e872e51be6c0e64993c
-ms.sourcegitcommit: 1d4d06642a5203d4d313fe76b137dd6be45d4728
+ms.openlocfilehash: 9c2ec0c7204a275f6b32e75b86eae775eb87bb55
+ms.sourcegitcommit: 8cb98de420f6ab5bb4cb3efc9007262c4d7d3327
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97514706"
+ms.lasthandoff: 01/12/2021
+ms.locfileid: "98105537"
 ---
 # <a name="requirements-to-enroll-as-a-csp-direct-bill-partner"></a>CSP Doğrudan Fatura Ortağı olarak kaydolma gereksinimleri
 
-**Şunlara uygulanır**
+**Uygun roller**
 
-- Bulut çözüm sağlayıcısı programında doğrudan fatura ortakları
+- Genel yönetici
 
 ## <a name="enroll-as-a-direct-partner"></a>Doğrudan iş ortağı olarak kaydet
 
-Doğrudan bir fatura ortağı olarak, müşterinizin ve Microsoft ile uçtan uca ilişkiniz vardır. Doğrudan bir fatura ortağı olarak, müşterinizin ve Microsoft ile uçtan uca ilişkiniz vardır. 27 Ekim 2020 itibariyle doğrudan fatura ortakları için kayıt gereksinimlerini güncelleştirdik. Bu gereksinimler, doğru bulut çözümü sağlayıcısı modeliyle İşletmenizin büyümesini hızlandırmanıza ve katma değerli hizmetler ve destek ile müşteri ilişkilerinizi güçlendirietmenize yardımcı olur.  
+Doğrudan bir fatura ortağı olarak, müşterinizin ve Microsoft ile uçtan uca ilişkiniz vardır. 27 Ekim 2020 itibariyle doğrudan fatura ortakları için kayıt gereksinimlerini güncelleştirdik. Bu gereksinimler, doğru bulut çözümü sağlayıcısı modeliyle İşletmenizin büyümesini hızlandırmanıza ve katma değerli hizmetler ve destek ile müşteri ilişkilerinizi güçlendirietmenize yardımcı olur.  
 
 ### <a name="minimum-requirements"></a>Minimum gereksinimler
 
