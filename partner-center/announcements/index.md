@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 01/04/2021
-ms.openlocfilehash: 5de6dd2acff560a0093e51dfccb2454ea9cb71f4
-ms.sourcegitcommit: e4dea28c06da7677ea6a8615afdfd82d0151bd00
+ms.openlocfilehash: 2963a27a0b189b81540cf8c955feaa6237822e0b
+ms.sourcegitcommit: 0e8abea7445b7d3f0c4a6320380ecc7d0ef049f9
 ms.translationtype: HT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "98040999"
+ms.lasthandoff: 01/11/2021
+ms.locfileid: "98062442"
 ---
 # <a name="partner-center-announcements"></a>İş Ortağı Merkezi duyuruları
 
@@ -22,6 +22,8 @@ ms.locfileid: "98040999"
 
 | **Kategori** | **Ocak 2021 duyuruları** | **Duyurulan** |
 |---------|:---------|:---------|
+|Teklifler/Pazarlar|[Hindistan Rupisi için ticari fiyatlandırma güncelleştirmesi](2021-january.md#6)|8 Ocak|
+|Teklifler/Pazarlar|[1 Şubat 2021 için Arama Planı ve Telefon Sistemi güncelleştirmeleri](2021-january.md#5)|8 Ocak|
 |Teklifler/Pazarlar|[Ocak 2021 için lisansa dayalı fiyat listesi güncelleştirmeleri](2021-january.md#4)|8 Ocak|
 |Modern Çalışma Alanı|[Yeni ticari teklifler için AB/EFTA İş Ortağı Fatura Para Birimi Değişikliği](2021-january.md#3)|7 Ocak|
 |Özellikler|[Mevcut Eğitim müşterisi doğrulama süreci için GET ve PUT Koşullara Uygunluk API’lerinin Şubat 2021 sonu itibarıyla kullanımdan kaldırılması ve devre dışı bırakılması](2021-january.md#2)|5 Ocak|
