@@ -635,29 +635,39 @@
           href: pci-roles.md
         - name: İçgörüler raporları
           items:
+            - name: Genel Bakış
+              href: pci-overview-report.md
+            - name: Müşteri
+              href: pci-customer-report.md
+            - name: Kurumsal bayi performansı
+              href: pci-resellers-performance.md
+              displayName: 'indirect, reseller'
+            - name: Ürün abonelikleri
+              href: pci-product-subscriptions-report.md
             - name: Azure kullanımı
               href: pci-azure-usage-report.md
+            - name: Teams kullanımı
+              href: pci-teams-usage-report.md
+            - name: Office 365 kullanımı
+              href: pci-office-365-usage-report.md
+            - name: Dynamics kullanımı
+              href: pci-dynamics-usage-report.md
+            - name: Enterprise Mobility + Security kullanımı
+              href: pci-enterprise-mobility-security-usage-report.md
+            - name: Power BI kullanımı
+              href: pci-power-bi-usage-report.md
+            - name: Eğitim
+              href: pci-training-dashboard.md
+            - name: Microsoft Learn analizi
+              href: ms-learn-analytics.md
+            - name: Yetkinlikler
+              href: pci-competencies-report.md
             - name: Avantajlar
               href: pci-benefits-report.md
             - name: CloudAscent eğilimi
               href: pci-customer-opportunities.md
-            - name: Yetkinlikler
-              href: pci-competencies-report.md
-            - name: Müşteri
-              href: pci-customer-report.md
-            - name: Microsoft Learn analizi
-              href: ms-learn-analytics.md
-            - name: Genel Bakış
-              href: pci-overview-report.md
             - name: Ürün lisansları
               href: pci-product-licenses-report.md
-            - name: Ürün abonelikleri
-              href: pci-product-subscriptions-report.md
-            - name: Kurumsal bayi performansı
-              href: pci-resellers-performance.md
-              displayName: 'indirect, reseller'
-            - name: Eğitim
-              href: pci-training-dashboard.md
         - name: İçgörüler-SSS
           href: pci-known-issues.md
         - name: İçgörüler raporlarını indirme
