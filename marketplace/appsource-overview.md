@@ -6,12 +6,12 @@ ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
 ms.date: 11/20/2020
-ms.openlocfilehash: 9559e1e2b0511d52b1535efa6513bbb61c6c5fec
-ms.sourcegitcommit: 0dfbb9717bd67f710652e4af11867857c930b2fa
+ms.openlocfilehash: 652873492452d19e2a6f71607233989a16f04815
+ms.sourcegitcommit: ce1331c0e600e2f73b85a90ac159a9026ab6a691
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/25/2020
-ms.locfileid: "97771701"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98146396"
 ---
 # <a name="what-is-microsoft-appsource"></a>Microsoft AppSource nedir?
 
@@ -48,7 +48,18 @@ Yazılım satıcısı, Fiyat, Son Kullanıcı Lisans Sözleşmesi ve gizlilik il
 
 ## <a name="discover-saas-and-m365-integrated-apps"></a>SaaS ve M365 ile tümleşik uygulamaları bulma
 
-İş ortaklarımız SaaS ve M365 ile tümleşik uygulamalar arasında bağlantı oluşturabilir. Bu, bağlantılı SaaS uygulamasını alırken tümleşik uygulamaları indirip kullanmanıza olanak sağlar. Bu durumda, arama sonucu yalnızca, onunla birlikte gelen tümleşik uygulamaların simgelerini gösteren SaaS uygulamasını döndürebilir. SaaS ve tümleşik uygulama arasında, her birinin ürün ayrıntıları sayfasında gezinebilirsiniz. SaaS uygulaması satın alma gerektiriyorsa, bkz. [Microsoft AppSource SaaS teklifleri satın alma](purchase-software-appsource.md).
+İş ortaklarımız bir SaaS uygulaması ile Microsoft 365 ilgili eklentileri arasında bağlantı oluşturabilir. Bu, eklentilerle bağlantılı bir SaaS uygulaması aldığınızda belirli Microsoft 365 hizmetlerinden veya ürünlerden eklentileri indirip kullanmanıza olanak sağlar.
+
+Bu durumda, arama sonucu, SaaS uygulaması Ürün kartında İlgili eklenti ürün simgeleriyle yalnızca SaaS uygulamasını döndürebilir. SaaS uygulamasının ve tümleşik uygulamanın ürün ayrıntı sayfaları arasında gezinebilirsiniz.
+
+Tek başına eklentileri arıyorsanız, bu eklentileri aşağıdaki yollarla bulabilirsiniz:
+
+- [Appsource ürün kataloğuna](https://appsource.microsoft.com/marketplace/apps/)erişin ve sol gezinti bölmesinde, **Ürünler** altında **Microsoft 365**' yi seçin. **Microsoft 365** altında görüntülenen ürünlerin listesinden istediğiniz ürünlerin kutularını seçin.
+- İsterseniz, arama görüntüsüne gizlenmiş olan belirli bir eklentiye gitmek için SaaS uygulaması ürün kartının içindeki eklenti ürün simgesini seçin.
+
+SaaS uygulaması satın alma gerektiriyorsa, bkz. [Microsoft AppSource SaaS teklifleri satın alma](purchase-software-appsource.md).
+
+Microsoft 365 Yönetici kullanıcılar hem SaaS hem de eklentileri tek bir yerde dağıtabilir. Daha fazla bilgi için bkz. [uygulamaları Microsoft 365 test etme ve dağıtma-Microsoft 365 Yöneticisi](/microsoft-365/admin/manage/test-and-deploy-microsoft-365-apps.md).
 
 ## <a name="find-ratings-and-reviews"></a>Derecelendirmeleri ve incelemeleri bulun
 
