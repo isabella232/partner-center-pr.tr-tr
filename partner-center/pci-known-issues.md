@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6337d4998fea20eed756183a3eb3adfbfe70585b
-ms.sourcegitcommit: 0eae5734b0e50bd5a7ef39ec7738d1e997c5a02d
+ms.openlocfilehash: a5aaa7c7190615d1b7497fd92e0d844cc553c491
+ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/14/2020
-ms.locfileid: "97389314"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98182333"
 ---
 # <a name="partner-insights--frequently-asked-questions"></a>İş ortağı öngörüleri – sık sorulan sorular
 
@@ -26,15 +26,15 @@ Bu, öngörülerle ilişkili raporları görüntülemeye veya işlemeye yönelik
 
 S) **Iş Ortağı Merkezi Hesabmda Öngörüler merkezini görmüyorum. Ne yapmam gerekir?**
 
-A) kuruluşunuz için MPN hesabında oturum açtığınızdan emin olun. CSP hesabınızdan Öngörüler panosuna erişemezsiniz. Ayrıca, genel yöneticiniz tarafından rapor Görüntüleyicisi veya Executive rapor Görüntüleyicisi rolü erişimi sağladığınızdan emin olun.  Roller hakkında daha fazla bilgi için [Bu makaleye](https://docs.microsoft.com/partner-center/pci-roles)bakın.
+A) kuruluşunuz için MPN hesabında oturum açtığınızdan emin olun. CSP hesabınızdan Öngörüler panosuna erişemezsiniz. Ayrıca, genel yöneticiniz tarafından rapor Görüntüleyicisi veya Executive rapor Görüntüleyicisi rolü erişimi sağladığınızdan emin olun.  Roller hakkında daha fazla bilgi için [Bu makaleye](./pci-roles.md)bakın.
 
 S) **Raporlarım faturalanan geliri veya Azure tüketilen gelir (ACR) verilerini göremiyorum. Neden?**
 
-A) faturalandırılan gelir ve ACR verileri yalnızca Executive rapor Izleyicileri olan kullanıcılar tarafından kullanılabilir.  Roller hakkında daha fazla bilgi için [Bu makaleye](https://docs.microsoft.com/partner-center/pci-roles)bakın.
+A) faturalandırılan gelir ve ACR verileri yalnızca Executive rapor Izleyicileri olan kullanıcılar tarafından kullanılabilir.  Roller hakkında daha fazla bilgi için [Bu makaleye](./pci-roles.md)bakın.
 
 S) **Raporlarım faturalanan geliri veya Azure tüketilen gelir (ACR) verilerini göremiyorum. Neden?**
 
-A) faturalandırılan gelir ve ACR verileri yalnızca Executive rapor Izleyicileri olan kullanıcılar tarafından kullanılabilir. Roller hakkında daha fazla bilgi için [Bu makaleye](https://docs.microsoft.com/partner-center/pci-roles)bakın.
+A) faturalandırılan gelir ve ACR verileri yalnızca Executive rapor Izleyicileri olan kullanıcılar tarafından kullanılabilir. Roller hakkında daha fazla bilgi için [Bu makaleye](./pci-roles.md)bakın.
 
 S) **müşterimin bildirdiği ülke yanlış gibi görünüyor. Neden?**
 

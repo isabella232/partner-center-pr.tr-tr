@@ -9,18 +9,18 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 11/02/2020
-ms.openlocfilehash: 0c8bf1c31a2662d5dcf65eed40e9c4f82c2ee80b
-ms.sourcegitcommit: 7beb7327472dc1b0c07c101d121196fb2830bbf8
+ms.openlocfilehash: 8d247d4f39b85423bfd128056595b414238b113c
+ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96439091"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98182554"
 ---
 # <a name="november-2020-announcements"></a>Kasım 2020 duyuruları
 
 Bu sayfada, Kasım 2020 ' de Microsoft Iş Ortağı Merkezi duyuruları ayrıntılı olarak yer alındı.
 
-2020 Duyuruları: [Nisan](2020-april.md)  |  [May](2020-may.md)  |  [June](2020-june.md)  |  [July](2020-july.md)  |  [August](2020-august.md)  |  [ayında Eylül](2020-september.md)ayında Haziran ayı  |  [October](2020-October.md) | Kasım
+2020 Duyuruları: [Nisan](2020-april.md)  |  [](2020-may.md)  |  [](2020-june.md)  |  [](2020-july.md)  |  [](2020-august.md)  |  [ayında Eylül](2020-september.md)ayında Haziran ayı  |  [](2020-October.md) | Kasım
 
 ______________
 ## <a name="introducing-the-ability-to-purchase-saas-offers-with-metered-billing-in-partner-center"></a><a name="14"></a>Iş Ortağı Merkezi 'nde ölçülen faturalandırma ile SaaS teklifleri satın alma imkanına giriş 
@@ -40,7 +40,7 @@ Tüm iş ortakları
 
 ### <a name="details"></a>Ayrıntılar
 
-Microsoft, dolaylı sağlayıcılar ve doğrudan fatura ortakları dahil olmak üzere bulut çözümü sağlayıcısı programındaki iş ortakları için, Iş Ortağı Merkezi 'nde [ölçülen faturalandırmayla](https://docs.microsoft.com/azure/marketplace/partner-center-portal/saas-metered-billing)SaaS teklifleri satın alma olanağı sunuyor   . Günümüzde, bulut çözümü sağlayıcısı programındaki iş ortakları, [Azure Portal aracılığıyla sunulan SaaS tekliflerini, ölçümlü faturalandırma ile](https://docs.microsoft.com/partner-center/csp-commercial-marketplace-purchase)görüntüleyebilir ve satın alabilir.Bu yeni deneyim, iş ortaklarının bu teklifleri Iş Ortağı Merkezi 'nde CSP marketi ve diğer SaaS teklifi türleri için yaptıkları gibi API 'leri aracılığıyla satın almasını sağlar. 
+Microsoft, dolaylı sağlayıcılar ve doğrudan fatura ortakları dahil olmak üzere bulut çözümü sağlayıcısı programındaki iş ortakları için, Iş Ortağı Merkezi 'nde [ölçülen faturalandırmayla](/azure/marketplace/partner-center-portal/saas-metered-billing)SaaS teklifleri satın alma olanağı sunuyor   . Günümüzde, bulut çözümü sağlayıcısı programındaki iş ortakları, [Azure Portal aracılığıyla sunulan SaaS tekliflerini, ölçümlü faturalandırma ile](../csp-commercial-marketplace-purchase.md)görüntüleyebilir ve satın alabilir.Bu yeni deneyim, iş ortaklarının bu teklifleri Iş Ortağı Merkezi 'nde CSP marketi ve diğer SaaS teklifi türleri için yaptıkları gibi API 'leri aracılığıyla satın almasını sağlar. 
 
 ### <a name="next-steps"></a>Sonraki adımlar
 
@@ -308,24 +308,24 @@ Microsoft, Iş Ortağı Merkezi API 'Lerini çağıran iş ortakları için bir 
 |**İşlem**|**İş Ortağı Merkezi belgeleri**|
 |-------------------------|----------------------------------|
 |{baseURL}/v1/Customers/{customer_id}/abonelikler|[Müşterinin aboneliklerinin tümünü alın](https://docs.microsoft.com/partner-center/develop/get-all-of-a-customer-s-subscriptions)|  
-|{baseURL}/v1/Customers/{customer_id}/Subscriptions/{subscription_id}|[KIMLIĞE göre abonelik al](https://docs.microsoft.com/partner-center/develop/get-a-subscription-by-id) | 
-|{baseURL}/v1/Customers/{customer_id}/Orders||[Müşterinin siparişlerinin tümünü alın](https://docs.microsoft.com/partner-center/develop/get-all-of-a-customer-s-orders)|  
-|{baseURL}/v1/Customers/{customer_id}/Orders/{order_id}|[Bir siparişi KIMLIĞE göre al](https://docs.microsoft.com/partner-center/develop/get-an-order-by-id)|  
-|{baseURL}/v1/Customers/{customer_id}/Orders/{order_id}/provisioningstatus|[Abonelik sağlama durumunu al](https://docs.microsoft.com/partner-center/develop/get-subscription-provisioning-status)|  
-|{baseURL}/v1/Customers/{customer_id}/Subscriptions/{subscription_id}|[Siparişleri yönetme ve bir aboneliği yönetme](https://docs.microsoft.com/partner-center/develop/manage-orders#manage-a-subscription)| 
-|{baseURL}/v1/Customers/{customer_id}/Subscriptions/{subscription_id}/addons|[Bir abonelik için eklentilerin listesini alın](https://docs.microsoft.com/partner-center/develop/get-a-list-of-add-ons-for-a-subscription)| 
-|{baseURL}/v1/Customers/{customer_id}/Subscriptions/{subscription_id}/azureEntitlements|[Bir abonelik için Azure yetkilendirmeleri listesini alın](https://docs.microsoft.com/partner-center/develop/get-a-list-of-azure-entitlements-for-subscription)|  
-|{baseURL}/v1/Customers/{customer_id}/Subscriptions/{subscription_id}/registrationstatus|[Abonelik kayıt durumunu al](https://docs.microsoft.com/partner-center/develop/get-subscription-registration-status)| 
-|{baseURL}/v1/Customers/{Customer-Tenant-ID}/aktarmaları|[Müşterinin tüm aktarımlarını al](https://docs.microsoft.com/partner-center/develop/get-subscription-registration-status)| 
-|{baseURL}/v1/productUpgrades/{upgrade-id}/status|[Ürün yükseltme durumunu al](https://docs.microsoft.com/partner-center/develop/get-all-of-a-customer-s-transfers)| 
-|{baseURL}/v1/Customers/{Customer-id}/Subscriptions/{Subscription-ID}/dönüşümler|[Deneme dönüştürme tekliflerinin bir listesini alın](https://docs.microsoft.com/partner-center/develop/get-all-of-a-customer-s-transfers) 
+|{baseURL}/v1/Customers/{customer_id}/Subscriptions/{subscription_id}|[Kimliğe göre bir abonelik alma](https://docs.microsoft.com/partner-center/develop/get-a-subscription-by-id) | 
+|{baseURL}/v1/Customers/{customer_id}/Orders||[Müşteri siparişlerinin tümünü alma](/partner-center/develop/get-all-of-a-customer-s-orders)|  
+|{baseURL}/v1/Customers/{customer_id}/Orders/{order_id}|[Kimliğe göre bir sipariş alma](/partner-center/develop/get-an-order-by-id)|  
+|{baseURL}/v1/Customers/{customer_id}/Orders/{order_id}/provisioningstatus|[Abonelik sağlama durumunu alma](/partner-center/develop/get-subscription-provisioning-status)|  
+|{baseURL}/v1/Customers/{customer_id}/Subscriptions/{subscription_id}|[Siparişleri yönetme ve bir aboneliği yönetme](/partner-center/develop/manage-orders#manage-a-subscription)| 
+|{baseURL}/v1/Customers/{customer_id}/Subscriptions/{subscription_id}/addons|[Bir abonelik için eklentilerin bir listesini alma](/partner-center/develop/get-a-list-of-add-ons-for-a-subscription)| 
+|{baseURL}/v1/Customers/{customer_id}/Subscriptions/{subscription_id}/azureEntitlements|[Bir abonelik için Azure yetkilendirmeleri listesini alma](/partner-center/develop/get-a-list-of-azure-entitlements-for-subscription)|  
+|{baseURL}/v1/Customers/{customer_id}/Subscriptions/{subscription_id}/registrationstatus|[Abonelik kayıt durumunu alma](/partner-center/develop/get-subscription-registration-status)| 
+|{baseURL}/v1/Customers/{Customer-Tenant-ID}/aktarmaları|[Müşterinin tüm aktarımlarını al](/partner-center/develop/get-subscription-registration-status)| 
+|{baseURL}/v1/productUpgrades/{upgrade-id}/status|[Ürün yükseltme durumunu alma](/partner-center/develop/get-all-of-a-customer-s-transfers)| 
+|{baseURL}/v1/Customers/{Customer-id}/Subscriptions/{Subscription-ID}/dönüşümler|[Deneme dönüştürme tekliflerinin bir listesini alma](/partner-center/develop/get-all-of-a-customer-s-transfers) 
   
 
-Bu duyuru, gelecekteki değişikliklerin önceden farkında olmadan iş ortakları sağlamaya ve bu sayede hazırlamasına olanak tanımak için tasarlanmıştır. İş ortaklarının bu API 'Leri öğrenmesini ve etkinlik günlüğü API 'sini daha fazla verimlilik ve azaltmayı önlemek için kullanmayı düşünmemiz önerilir. Bu özellik hakkında daha fazla bilgi için [API azaltma Kılavuzu](https://docs.microsoft.com/partner-center/develop/api-throttling-guidance)' nda ayrıntılara bakın. 
+Bu duyuru, gelecekteki değişikliklerin önceden farkında olmadan iş ortakları sağlamaya ve bu sayede hazırlamasına olanak tanımak için tasarlanmıştır. İş ortaklarının bu API 'Leri öğrenmesini ve etkinlik günlüğü API 'sini daha fazla verimlilik ve azaltmayı önlemek için kullanmayı düşünmemiz önerilir. Bu özellik hakkında daha fazla bilgi için [API azaltma Kılavuzu](/partner-center/develop/api-throttling-guidance)' nda ayrıntılara bakın. 
 
 ### <a name="next-steps"></a>Sonraki adımlar
 
-[API azaltma kılavuzunu](https://docs.microsoft.com/partner-center/develop/api-throttling-guidance)gözden geçirin ve gerekli adımları uygulayın. 
+[API azaltma kılavuzunu](/partner-center/develop/api-throttling-guidance)gözden geçirin ve gerekli adımları uygulayın. 
 
 ______________
 
@@ -339,7 +339,7 @@ ______________
 ### <a name="context"></a>Bağlam
 
 - Şubat ayında bu iş ortaklarının Microsoft Müşteri Sözleşmesi 'Ni (MCuA) imzalaması istendi. Bu, önceki Microsoft Bulut anlaşmasından (MCA) geçişiydi. 
-- Bu değişiklik ortağının bir parçası olarak, iş ortaklarının [burada](https://docs.microsoft.com/partner-center/develop/get-confirmation-of-customer-agreement)belgelenen anlaşma türü parametresini içermesi istenmiştir.
+- Bu değişiklik ortağının bir parçası olarak, iş ortaklarının [burada](/partner-center/develop/get-confirmation-of-customer-agreement)belgelenen anlaşma türü parametresini içermesi istenmiştir.
 
 ### <a name="what-happened-next"></a>Daha sonra ne oldu:
 
@@ -469,14 +469,14 @@ Premium teklifle, müşteriler, uzmanların müşteri adına toplantı odaların
 
    |****|**Microsoft ekipleri Odalar Standart USD15 cihaz/ay**|**Microsoft ekipleri her ay Premium USD50 cihaz**|
    |-------------------|:------|:------|
-   |Skype Kurumsal|Evet| |
-   |Microsoft Teams|Evet|Evet|
-   |Telefon sistemi|Evet|Evet|
-   |Ses konferansı|Evet|Evet|
-   |Microsoft Intune|Evet|Evet|
+   |Skype Kurumsal|Yes| |
+   |Microsoft Teams|Yes|Yes|
+   |Telefon sistemi|Yes|Yes|
+   |Ses konferansı|Yes|Yes|
+   |Microsoft Intune|Yes|Yes|
    | |Microsoft ekipleri her ay cihaz başına standart USD15 Odalar|Microsoft ekipleri, her ay cihaz başına Premium USD50|
-   |Microsoft ekipleri Oda Yönetimli hizmetler| |Evet|
-   |Dünya çapında kullanılabilirlik|Evet|Pazarların Seç bölümünde|
+   |Microsoft ekipleri Oda Yönetimli hizmetler| |Yes|
+   |Dünya çapında kullanılabilirlik|Yes|Pazarların Seç bölümünde|
 
 #### <a name="microsoft-teams-rooms-managed-services"></a>Microsoft ekipleri Oda Yönetimli hizmetler
 

@@ -8,12 +8,12 @@ ms.prod: marketplace-customer
 ms.devlang: azurepowershell
 ms.date: 11/24/2020
 ms.custom: devx-track-azurepowershell
-ms.openlocfilehash: c5b8b9fcc247818315887109e2163c0722bfbd97
-ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
+ms.openlocfilehash: d0021be17ab12b6e549b0e5263772a4a1e42f8a3
+ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "96536268"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98182350"
 ---
 # <a name="quickstart-manage-a-private-azure-marketplace-using-powershell"></a>Hızlı başlangıç: PowerShell kullanarak özel bir Azure Marketi yönetme
 
@@ -30,10 +30,10 @@ Bu makalede, [az. Market](/powershell/module/az.marketplace) PowerShell modülü
   * [Az PowerShell modülünü yükler](/powershell/azure/install-az-ps).
   * [Connect-AzAccount](/powershell/module/az.accounts/connect-azaccount) cmdlet 'Ini kullanarak Azure hesabınıza bağlanın.
 * Azure Cloud Shell kullanmayı seçerseniz:
-  * Daha fazla bilgi için bkz. [Azure Cloud Shell Genel Bakış](https://docs.microsoft.com/azure/cloud-shell/overview) .
+  * Daha fazla bilgi için bkz. [Azure Cloud Shell Genel Bakış](/azure/cloud-shell/overview) .
 
   > [!IMPORTANT]
-  > **Az. Market** PowerShell modülü önizlemedeyken, cmdlet 'ini kullanarak ayrı olarak yüklemelisiniz `Install-Module` . Bu PowerShell modülü genel kullanıma sunulduğunda, gelecekteki az PowerShell modülü sürümlerinin bir parçası olur ve Azure Cloud Shell içinden varsayılan olarak kullanılabilir.
+  > **Az. Market** PowerShell modülü önizlemedeyken, cmdlet 'ini kullanarak ayrı olarak yüklemelisiniz `Install-Module` . Bu PowerShell modülü genel kullanıma sunulduktan sonra, gelecekteki Az PowerShell modülü sürümlerinin bir parçası haline gelecek ve Azure Cloud Shell içinden varsayılan olarak sağlanacaktır.
 
   ```azurepowershell-interactive
   Install-Module -Name Az.Marketplace

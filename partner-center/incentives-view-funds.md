@@ -1,5 +1,5 @@
 ---
-title: Kullanılabilir ortak işlem fonlarını görüntüle
+title: Kullanılabilir ortak işlem fonlarını görüntüleme
 ms.topic: article
 ms.date: 01/03/2021
 description: Kazanılmış, talep edilen ve kalan ortak çalışma kredlerinizi görüntüleme, sona erme tarihlerini görüntüleme ve tutarsız miktarları mutabık kılma hakkında bilgi edinin.
@@ -8,12 +8,12 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: cd17656c64a55b9b27784555d9ea2acaae3979d3
-ms.sourcegitcommit: c062209be8f7ed905ab33511675ae280e93dd839
+ms.openlocfilehash: a33ff22a448f407fe0b795c43953fef7ee21e1bd
+ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/04/2021
-ms.locfileid: "97864347"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98182520"
 ---
 # <a name="view-available-earned-claimed-and-remaining-co-op-funds"></a>Kullanılabilir kazanılan, talep edilen ve kalan ortak işlem fonlarını görüntüleyin
 
@@ -34,7 +34,7 @@ ms.locfileid: "97864347"
 
 4. Seçili dönem için gönderilen tüm talepleri görüntülemek için sayfanın en altına gidin.
 
-Özette görüntülenen tutarlarda tutarsızlıklar olduğunu düşünüyorsanız, işlem raporunu önceki dönemden indirebilirsiniz. Bu rapor, seçili kullanım dönemi için kazanılan ortak işlem fonlarını belirlemenize yardımcı olur. İşlem raporlarını indirmek veya kalan ortak op tutarının doğru olduğundan emin olmak için gönderilen talepleri doğrulamak için bkz. [işlem geçmişi](/partner-center/payout-statement#transaction-history).
+Özette görüntülenen tutarlarda tutarsızlıklar olduğunu düşünüyorsanız, işlem raporunu önceki dönemden indirebilirsiniz. Bu rapor, seçili kullanım dönemi için kazanılan ortak işlem fonlarını belirlemenize yardımcı olur. İşlem raporlarını indirmek veya kalan ortak op tutarının doğru olduğundan emin olmak için gönderilen talepleri doğrulamak için bkz. [işlem geçmişi](./payout-statement.md#transaction-history).
 
 Miktarları mutabık kılma konusunda hala sorun yaşıyorsanız veya bazı ortak çalışma fonları görünür değilse, destek bileti açabilirsiniz. Bunu yapmak için, sayfanın sağ üst köşesindeki soru işareti simgesini seçin ve ardından **teşvikleri**' ı seçin.
 

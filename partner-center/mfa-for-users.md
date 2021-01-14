@@ -9,12 +9,12 @@ author: vijvala
 ms.author: vijvala
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 355258fd20f867052fa8598e688630005262bb16
-ms.sourcegitcommit: ab2ca3c5990b7f920df4ecb9c611d5b1046ec111
+ms.openlocfilehash: f42c97be88a1a505f7e0ae9b8af0d4a9167d8447
+ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/16/2020
-ms.locfileid: "97579983"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98182384"
 ---
 # <a name="set-up-your-users-with-multi-factor-authentication"></a>Kullanıcılarınız için çok faktörlü kimlik doğrulaması ayarlama
 
@@ -39,11 +39,10 @@ Bu, bu kullanıcı için MFA 'yı etkinleştirir. Etkin, kullanıcıdan ilk kez 
 :::image type="content" source="images/MFA/securityverification.png" alt-text="Nasıl doğrulanalınacağını belirtin":::
 
 >[!NOTE]
->Kullanıcılarınıza, yukarıdaki gibi aynı adımları kullanarak ve **Uygula**' yı seçerek MFA 'Yı kullanmaya **zorlayabilirsiniz** . Daha fazla bilgi edinmek için, [oturum açma olaylarını güvenli hale getirmek üzere Kullanıcı başına Azure Multi-Factor Authentication etkinleştirme](https://docs.microsoft.com/azure/active-directory/authentication/howto-mfa-userstates)makalesini okuyun. 
+>Kullanıcılarınıza, yukarıdaki gibi aynı adımları kullanarak ve **Uygula**' yı seçerek MFA 'Yı kullanmaya **zorlayabilirsiniz** . Daha fazla bilgi edinmek için, [oturum açma olaylarını güvenli hale getirmek üzere Kullanıcı başına Azure Multi-Factor Authentication etkinleştirme](/azure/active-directory/authentication/howto-mfa-userstates)makalesini okuyun. 
 
 Tüm kullanıcılar **devre dışı bırakıldı**. Kullanıcıları Kullanıcı başına Azure Multi-Factor Authentication kaydettiğinizde, durumları **etkin** olarak değişir. Etkin kullanıcılar oturum açıp kayıt işlemini tamamladıktan sonra, durumu **Zorlanmış** olarak değişir. 
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
 - [Kullanıcılara rol ve izin atama](permissions-overview.md)
-

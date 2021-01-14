@@ -6,12 +6,12 @@ ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
 ms.date: 11/20/2020
-ms.openlocfilehash: b93ce1394326887b4265114c58527c36379101d9
-ms.sourcegitcommit: 1aa43438ad181278052788f15e017f9ae7777943
+ms.openlocfilehash: 8f7962b1b040be90f7dc1b2696a2ced3830d25b9
+ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 11/21/2020
-ms.locfileid: "95007623"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98182486"
 ---
 # <a name="azure-marketplace-purchasing"></a>Azure Marketi satın alma
 
@@ -25,7 +25,7 @@ Azure Marketi aracılığıyla satın aldığınızda, tek tek satıcı ilişkil
 
 ## <a name="permission-to-purchase"></a>Satın alma izni
 
-Doğru yazılım uygulamasını bulduktan sonra, satın alma işlemi basit olur. Bununla birlikte, Azure aboneliği içinde uygun izinlere ihtiyacınız olacaktır. Azure, [rol tabanlı Access Control](https://docs.microsoft.com/azure/role-based-access-control/overview) (RBAC) modeli üzerinde çalıştığından, satın alma yapmak için hesabınızın **sahip** veya **katkıda bulunan** izinlerinin olması gerekir.
+Doğru yazılım uygulamasını bulduktan sonra, satın alma işlemi basit olur. Bununla birlikte, Azure aboneliği içinde uygun izinlere ihtiyacınız olacaktır. Azure, [rol tabanlı Access Control](/azure/role-based-access-control/overview) (RBAC) modeli üzerinde çalıştığından, satın alma yapmak için hesabınızın **sahip** veya **katkıda bulunan** izinlerinin olması gerekir.
 
 Satın alma işlemini tamamlamadan önce, kullanıcının Azure kiracısında doğru yapılandırmaya sahip olduğundan emin olun. Bu, satın alma sırasında hataları önlemeye yardımcı olur.
 
@@ -55,7 +55,7 @@ Bu ayarlar, Azure aboneliğinize erişimi olan tüm kullanıcılar için geçerl
 
 ## <a name="cost-management"></a>Maliyet yönetimi
 
-Ürünleri Azure Marketi 'nden satın alırken, maliyetleri yönetmenize yardımcı olan Öngörüler elde etmek istersiniz. Azure maliyet yönetimi, satın aldığınız ürünlerle ilgili bilgileri görüntülemek için ücretsiz bir araçtır. Maliyet yönetimi 'ni kullanarak, zaman içinde hangi hizmetlerin para harcadığınızı ve bu maliyetlerin ayarladığınız bütçelerle nasıl izlendiklerine ilişkin ayrıntıları görebilirsiniz. Bütçeleri ayarlamaya ek olarak, raporlar zamanlayabilir ve abonelik maliyetlerini çözümleyebilirsiniz. [Maliyetleri analiz etme ve Azure maliyet yönetimi ile bütçeler oluşturma](https://docs.microsoft.com/learn/modules/analyze-costs-create-budgets-azure-cost-management/)hakkında Microsoft Learn modülünü tamamlayarak Azure maliyet yönetimi hakkında daha fazla bilgi edinin.
+Ürünleri Azure Marketi 'nden satın alırken, maliyetleri yönetmenize yardımcı olan Öngörüler elde etmek istersiniz. Azure maliyet yönetimi, satın aldığınız ürünlerle ilgili bilgileri görüntülemek için ücretsiz bir araçtır. Maliyet yönetimi 'ni kullanarak, zaman içinde hangi hizmetlerin para harcadığınızı ve bu maliyetlerin ayarladığınız bütçelerle nasıl izlendiklerine ilişkin ayrıntıları görebilirsiniz. Bütçeleri ayarlamaya ek olarak, raporlar zamanlayabilir ve abonelik maliyetlerini çözümleyebilirsiniz. [Maliyetleri analiz etme ve Azure maliyet yönetimi ile bütçeler oluşturma](/learn/modules/analyze-costs-create-budgets-azure-cost-management/)hakkında Microsoft Learn modülünü tamamlayarak Azure maliyet yönetimi hakkında daha fazla bilgi edinin.
 
 Azure Maliyet Yönetimi'nin altındaki maliyet analizi aracında Azure Market ücretlerinizi ve faturalarınızı görüntüleyebilirsiniz.
 
@@ -63,4 +63,4 @@ Azure Maliyet Yönetimi'nin altındaki maliyet analizi aracında Azure Market ü
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-- [Faturalandırma ve faturalama](billing-invoicing.md)
+- [Ödeme ve faturalama](billing-invoicing.md)

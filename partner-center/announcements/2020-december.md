@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 12/21/2020
-ms.openlocfilehash: c186c61fa6a583284884020bf442517e9bb38182
-ms.sourcegitcommit: 4c52d3a1fde7eba20607e9e329a71e478b019036
+ms.openlocfilehash: f20015fff92e200bce1d17fd6fda7b7ced618e00
+ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/22/2020
-ms.locfileid: "97736555"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98182571"
 ---
 # <a name="december-2020-announcements"></a>Aralık 2020 duyuruları
 
@@ -152,7 +152,7 @@ Yeni Microsoft Edge, modern bir tarayıcının en iyi ifadesidir ve müşteriler
 **Değişikliğin etkileri**
 
 - **30 2020 Kasım**'dan müşteriler artık Internet Explorer 11 ' de Microsoft ekipleri Web uygulamasına bağlanamayacak. Microsoft, müşterilerin [Yeni Microsoft Edge](https://www.microsoft.com/edge/business?form=MO12H3&OCID=MO12H3)'i kullanırken modern bir tarayıcının en iyi Microsoft 365 ve en iyi ifadesi almasını düşündüğü düşünür.
-- **Mart 9 2021**' den sonra, Microsoft Edge için oluşturulan uygulamalar ve siteler yeni Microsoft Edge 'de çalışmaya devam edecektir, ancak bir uyumluluk sorunu oluşursa, uygulamanın destek sağlaması Için [taahhüt güvence altına](https://aka.ms/appassure) alınır.
+- **Mart 9 2021**' den sonra, Microsoft Edge için oluşturulan uygulamalar ve siteler yeni Microsoft Edge 'de çalışmaya devam edecektir, ancak bir uyumluluk sorunu oluşursa, uygulamanın destek sağlaması Için [taahhüt güvence altına](/fasttrack/products-and-capabilities#app-assure) alınır.
 - **17 2021 Ağustos 'tan** sonra müşteriler düzeyi düşürülmüş bir deneyimle karşılaşacaktır veya Internet Explorer 11 ' de Microsoft 365 uygulamalara ve hizmetlere bağlanamaz. Microsoft, müşterilerin [Yeni Microsoft Edge](https://www.microsoft.com/edge/business?form=MO12H3&OCID=MO12H3)'i kullanırken modern bir tarayıcının en iyi Microsoft 365 ve en iyi ifadesi almasını düşündüğü düşünür.
 
 ### <a name="next-steps"></a>Sonraki adımlar
@@ -280,7 +280,7 @@ Aynı tarihte de şunlar gerçekleşecektir:
 
 - CSP kalıcı yazılım fiyat listesi, Iş Ortağı Merkezi ' nde yeniden yayımlanmalıdır. Bunu, ek ürünler ve coğrafi sayfalar içeren [satış > fiyatlandırma & teklifleri](https://partnercenter.microsoft.com/pcv/sales) sayfasının **yazılım** bölümünde bulabilirsiniz. Ayrıntıların tamamını [burada](https://partner.microsoft.com/resources/detail/software-in-csp-new-products-geos-pdf) görüntüleyebilirsiniz.
 
-- Iş Ortağı Merkezi yazılımı ve lisans anahtarı karşılama özelliği kullanımdan kalkacaktır. [Duyurular](https://docs.microsoft.com/partner-center/announcements/2020-september#17) -ve iş ortakları Microsoft 365 Yönetim merkezini özel olarak bu amaçla kullanacaktır. Bu, müşteriler için en güvenli ve verimli deneyim sağlar. [Genel bakış](https://support.microsoft.com/office/admin-center-overview-fa715fa8-6eda-456d-b177-d1c156edd1b3), [genel görevler](https://docs.microsoft.com/microsoft-365/admin/admin-overview/about-the-admin-center?view=o365-worldwide&preserve-view=true)ve [lisans anahtarı tamamlama özelliklerini](https://partner.microsoft.com/resources/detail/microsoft-365-admin-center-software-key-download-pdf)inceleyerek Microsoft 365 Yönetim Merkezi yazılımı hakkında daha fazla bilgi edinin.
+- Iş Ortağı Merkezi yazılımı ve lisans anahtarı karşılama özelliği kullanımdan kalkacaktır. [Duyurular](./2020-september.md#17) -ve iş ortakları Microsoft 365 Yönetim merkezini özel olarak bu amaçla kullanacaktır. Bu, müşteriler için en güvenli ve verimli deneyim sağlar. [Genel bakış](https://support.microsoft.com/office/admin-center-overview-fa715fa8-6eda-456d-b177-d1c156edd1b3), [genel görevler](/microsoft-365/admin/admin-overview/about-the-admin-center?preserve-view=true&view=o365-worldwide)ve [lisans anahtarı tamamlama özelliklerini](https://partner.microsoft.com/resources/detail/microsoft-365-admin-center-software-key-download-pdf)inceleyerek Microsoft 365 Yönetim Merkezi yazılımı hakkında daha fazla bilgi edinin.
 
 ### <a name="perpetual-software-in-csp"></a>CSP 'de kalıcı yazılım
 
@@ -292,7 +292,7 @@ Aşağıdaki kaynakları gözden geçirin ve kuruluşunuzdaki ilgili kişilerle 
 
 - [CSP kalıcı yazılım ürünleri ve coğrafi](https://partner.microsoft.com/resources/detail/software-in-csp-new-products-geos-pdf) olarak 19 Ocak 2021 ' de ekleniyor
 
-- Microsoft 365 yönetim merkezine [genel bakış](https://support.microsoft.com/office/admin-center-overview-fa715fa8-6eda-456d-b177-d1c156edd1b3), [ortak görevler](https://docs.microsoft.com/microsoft-365/admin/admin-overview/about-the-admin-center?view=o365-worldwide&preserve-view=true)ve [Lisans anahtarı karşılama özellikleri](https://partner.microsoft.com/resources/detail/microsoft-365-admin-center-software-key-download-pdf)
+- Microsoft 365 yönetim merkezine [genel bakış](https://support.microsoft.com/office/admin-center-overview-fa715fa8-6eda-456d-b177-d1c156edd1b3), [ortak görevler](/microsoft-365/admin/admin-overview/about-the-admin-center?preserve-view=true&view=o365-worldwide)ve [Lisans anahtarı karşılama özellikleri](https://partner.microsoft.com/resources/detail/microsoft-365-admin-center-software-key-download-pdf)
 
 - [Bulut çözümü sağlayıcısı programında iş ortakları için fırsatları genişletme](https://blogs.partner.microsoft.com/mpn/expanding-opportunities-for-partners-in-the-cloud-solution-provider-program/) (iş ortağı duyurusu)
 
@@ -573,4 +573,4 @@ _ 31 Ağustos 2020: özgün yayın
 
 - 10 Kasım 2020: test için kaydolmak üzere anımsatıcı 
 
-- 3 Aralık 2020: API güncelleştirmeleri canlı 
+- 3 Aralık 2020: API güncelleştirmeleri canlı

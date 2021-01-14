@@ -9,12 +9,12 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0434ad2e6494f5efc1b1e5e2aa003dc6587d7b4e
-ms.sourcegitcommit: 6ed7268356445939db8613f2af96016707c55d64
+ms.openlocfilehash: 1d5386dd4b2b19e641cc9d731d4a3d0f44ab5ad6
+ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "94691359"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98182503"
 ---
 # <a name="acquire-provision--manage-azure-reserved-vm-instances-ri--server-subscriptions-for-customers"></a>Azure ayrılmış VM örnekleri (RI) ve müşteriler için sunucu abonelikleri alma, sağlama, & yönetme
 
@@ -47,7 +47,7 @@ Azure ayırmaları, müşterilere geliştirme ve test, uygulama çalıştırma v
 
 İlgi çekici fiyatlandırma ve eşleşmeyen dağıtım esnekliğinden oluşan eşleşmeyen bir birleşimiyle, müşteriler Azure ayırmaları seçerken en iyi genel değeri görür.
 
-- Bkz. Azure portalında [satın alma ayırmaları](https://docs.microsoft.com/azure/cost-management-billing/reservations/prepare-buy-reservation#purchase-reservations) .
+- Bkz. Azure portalında [satın alma ayırmaları](/azure/cost-management-billing/reservations/prepare-buy-reservation#purchase-reservations) .
 
 - Yazılım abonelikleri ve Linux ISV yıllık abonelikleri için Iş Ortağı Merkezi 'nde [fiyatlandırma ve teklifler](https://partner.microsoft.com/dashboard/sell/pricingandoffers) sayfasındaki **Microsoft Azure ayrılmış örnekler** KATEGORISI altındaki **Azure RI CSP ticari fiyat listesine** bakın.
 
@@ -69,24 +69,24 @@ Azure ayırmalarını müşterilerinizle nasıl konumlandırabileceğinizi anlam
 
 1. [Iş Ortağı Merkezi yeni ticaret işlemleri kılavuzunu](https://partner.microsoft.com/resources/detail/partner-center-new-commerce-operations-guide-pdf)gözden geçirin ve anlayın.
 
-2. [Iş Ortağı Merkezi API 'sindeki (API/SDK)](https://docs.microsoft.com/partner-center/develop/purchase-azure-reserved-vm-instances)Azure ayırmaları ve sunucu abonelikleri güncelleştirmelerini anlayın.
+2. [Iş Ortağı Merkezi API 'sindeki (API/SDK)](/partner-center/develop/purchase-azure-reserved-vm-instances)Azure ayırmaları ve sunucu abonelikleri güncelleştirmelerini anlayın.
 
 
 ### <a name="sales-readiness"></a>Satış hazırlığı
 
 - [Uzak Masaüstü Hizmetleri (RDS) Istemci erişim lisansı (CAL) (duyuru)](https://cloudblogs.microsoft.com/windowsserver/2018/10/03/remote-desktop-services-2019-generally-available-with-windows-server-2019/)
 
-- [Azure ayrılmış VM örnekleri (Azure portal)](https://docs.microsoft.com/azure/virtual-machines/windows/prepay-reserved-vm-instances)
+- [Azure ayrılmış VM örnekleri (Azure portal)](/azure/virtual-machines/windows/prepay-reserved-vm-instances)
 
-- [Sunucu abonelikleri](https://docs.microsoft.com/partner-center/csp-software-subscriptions)
+- [Sunucu abonelikleri](./csp-software-subscriptions.md)
 
-- [SQL DB ayırmaları (Azure portal)](https://docs.microsoft.com/azure/sql-database/sql-database-reserved-capacity)
+- [SQL DB ayırmaları (Azure portal)](/azure/sql-database/sql-database-reserved-capacity)
 
-- [Azure Cosmos DB (Azure portal)](https://docs.microsoft.com/azure/cosmos-db/cosmos-db-reserved-capacity)
+- [Azure Cosmos DB (Azure portal)](/azure/cosmos-db/cosmos-db-reserved-capacity)
 
-- [SQL yönetilen örneği (Azure portal)](https://docs.microsoft.com/azure/sql-database/sql-database-managed-instance)
+- [SQL yönetilen örneği (Azure portal)](/azure/sql-database/sql-database-managed-instance)
 
-- [SUSE ve Red Hat Enterprise Linux (Azure portal)](https://docs.microsoft.com/azure/virtual-machines/linux/prepay-suse-software-charges)
+- [SUSE ve Red Hat Enterprise Linux (Azure portal)](/azure/virtual-machines/linux/prepay-suse-software-charges)
 
 - [Azure 'da Red Hat Linux](https://azure.com/redhat)
 
@@ -98,7 +98,7 @@ Azure ayırmalarını müşterilerinizle nasıl konumlandırabileceğinizi anlam
 
 - [Azure Fiyatlandırma Hesaplayıcı](https://azure.microsoft.com/pricing/calculator)
 
-- [Azure Databricks birim ayırmaları](https://docs.microsoft.com/azure/billing/billing-prepay-databricks-reserved-capacity)
+- [Azure Databricks birim ayırmaları](/azure/billing/billing-prepay-databricks-reserved-capacity)
 
 
 ## <a name="training"></a>Eğitim
@@ -114,7 +114,7 @@ Azure ayırmalarını müşterilerinizle nasıl konumlandırabileceğinizi anlam
 
 - CSP 'de Azure ayırmaları genel bakış (Mayıs 2018)
 
-## <a name="operations"></a>Operations
+## <a name="operations"></a>İşlemler
 
 [Iş Ortağı Merkezi yeni ticari işlemler Kılavuzu](https://partner.microsoft.com/resources/detail/partner-center-new-commerce-operations-guide-pdf): anlaşma, Iş Ortağı Merkezi, fatura, Fiyat Listesi ayrıntıları, teşvikleri, mutabakat dosyası, API/SDK, korumalı alan ve Azure Iş ortağı paylaşılan hizmetleri gibi önemli ilke ve operasyonel yönleri kapsayan kapsamlı kılavuz.
 

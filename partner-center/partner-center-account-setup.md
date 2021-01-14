@@ -9,12 +9,12 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0a59849fdf1937c1a4ec5d619a95f9321fe58fa0
-ms.sourcegitcommit: 455894365fa488368f7572ac72312e84a267ef5e
+ms.openlocfilehash: 3c5541323d691799d3f89b94ed9556c2458c737d
+ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/10/2020
-ms.locfileid: "97011540"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98182469"
 ---
 # <a name="manage-your-partner-center-account---company-profile-bank-information-roles-permissions-and-more"></a>Iş Ortağı Merkezi hesabınızı, şirket profilinizi, banka bilgilerini, rolleri, izinleri ve daha fazlasını yönetin
 
@@ -122,9 +122,9 @@ Kullanılabilir birçok Iş Ortağı Merkezi programı vardır. Her programın, 
 
 Belirli Iş Ortağı Merkezi programlarında kaydolma hakkında bilgi edinmek için aşağıdaki kısmi listeye bakın:
 
-- [Ticari Market programı](https://docs.microsoft.com/azure/marketplace/partner-center-portal/create-account)
+- [Ticari Market programı](/azure/marketplace/partner-center-portal/create-account)
 - [Microsoft İş Ortağı Ağı üyelik avantajları](mpn-overview.md)
-- [CSP programı](https://docs.microsoft.com/partner-center/enrolling-in-the-csp-program)
+- [CSP programı](./enrolling-in-the-csp-program.md)
 - [Office Mağazası](https://partner.microsoft.com/dashboard/account/v3/enrollment/introduction/office)
 
 Iş Ortağı Merkezi programlarında kaydolma hakkında daha fazla bilgi için bkz. [Iş ortağı ağ kaynakları](https://partner.microsoft.com/).

@@ -9,12 +9,12 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 22f85bda0a651559da1717ae1e5365da40d62aff
-ms.sourcegitcommit: 8cb98de420f6ab5bb4cb3efc9007262c4d7d3327
+ms.openlocfilehash: f9852b4e1c3997b82f744555db25fe64e1afc8ad
+ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/12/2021
-ms.locfileid: "98105565"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98182447"
 ---
 # <a name="add-and-manage-multiple-tenants-in-your-partner-center-account"></a>Iş Ortağı Merkezi hesabınızda birden çok kiracı ekleme ve yönetme
 
@@ -22,8 +22,9 @@ ms.locfileid: "98105565"
 **Uygun roller**
 
 - Genel yönetici
+- Hesap yöneticisi
 
-Bu özellik şirketiniz için birden çok kiracıyı yönetmenizi ve bunları İş Ortağı Merkezi hesabında birleştirmenizi sağlar. Iş Ortağı Merkezi hesabınızda birden çok Azure AD kiracıyı yönetmeniz gerekebileceği birçok neden vardır. Örneğin:
+Bu özellik şirketiniz için birden çok kiracıyı yönetmenizi ve bunları İş Ortağı Merkezi hesabında birleştirmenizi sağlar. Iş Ortağı Merkezi hesabınızda birden çok Azure AD kiracıyı yönetmeniz gerekebileceği birçok neden vardır. Örnek:
 
 - Şirketiniz başka bir şirket satın alabilir ve yeni şirketteki çalışanların Iş ortağı merkezini kullanmasını istiyorsunuz. Ancak, iki şirketin ayrı kalmasını istersiniz. Bu durumda, yeni şirketin Azure AD kiracısını Iş ortağı küresel hesabınızla (PGA) ilişkilendirirsiniz. Bu ilişki, her iki şirketteki kullanıcıların iş ortağı merkezi 'nde çalışmasını sağlar.
 

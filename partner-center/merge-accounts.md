@@ -6,12 +6,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.custom: seodec18
 ms.date: 06/12/2020
-ms.openlocfilehash: 47827b6aa3bb9853355a6e2fa4f8816e1dd701a1
-ms.sourcegitcommit: 7f595faf952bf2d6cdc229da38bd67ee701b2083
+ms.openlocfilehash: ad5cc0e9c8642ceb309cac3f5fc7c99534c3dcda
+ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 11/02/2020
-ms.locfileid: "93189756"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98182605"
 ---
 # <a name="merge-your-partner-account-with-another-partner-account"></a>İş ortağı hesabınızı başka bir iş ortağı hesabıyla birleştirme
 
@@ -77,6 +77,8 @@ Hesapları birleştirme davetini kabul etme kararı verirseniz: · MPN KIMLIĞIN
 
 - Tüm yazılım güvencesi fişleri her iki hesap arasında tutulur. 
 
+- DPOR veya PAL ilişkilendirmesine karşı bir etkisi yoktur. İlişkili gelir katkılarının tümü yeni Iş ortağı küresel hesabına akacak
+
 ## <a name="invite-a-company-to-merge-their-partner-center-account-with-your-partner-center-account"></a>İş Ortağı Merkezi hesabınızla Iş Ortağı Merkezi hesabını birleştirmek için bir şirket davet edin
 
 >[!Note]
@@ -88,7 +90,7 @@ Hesapları birleştirme davetini kabul etme kararı verirseniz: · MPN KIMLIĞIN
 
 3. Sizinle birleştirmek üzere davet etmek istediğiniz hesabın **Iş ortağı profilinde** bulunan MPN kimliğini ekleyin. Iş ortağı küresel MPN KIMLIĞINI kullanmanız gerekir. MPN KIMLIĞI konumunu kullanamazsınız.
 
-4. **Birleştir** ' i seçtiğinizde, iş ortağı şirketine bir davetiye gönderilir. İsteğinizi kabul ettiğinde, Iş Ortağı Merkezi 'nde hesap birleştirmeyi başlatabilirsiniz. Şirket, hesapları birleştirme isteğinizi reddettiğinde, isteği reddettikleri nedenleri açıklayabilirler. Tüm hesap birleştirmelerinde, **birleştirme geçmişi** altında kullanabileceğiniz bir liste vardır.
+4. **Birleştir**' i seçtiğinizde, iş ortağı şirketine bir davetiye gönderilir. İsteğinizi kabul ettiğinde, Iş Ortağı Merkezi 'nde hesap birleştirmeyi başlatabilirsiniz. Şirket, hesapları birleştirme isteğinizi reddettiğinde, isteği reddettikleri nedenleri açıklayabilirler. Tüm hesap birleştirmelerinde, **birleştirme geçmişi** altında kullanabileceğiniz bir liste vardır.
  
 ### <a name="example-of-two-companies-merging-accounts"></a>Hesapları birleştiren iki şirket örneği
 

@@ -9,12 +9,12 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3acc078b3de3c0443ee64fdaaba2d486d9c466c8
-ms.sourcegitcommit: e9066768ab8e242c03f0a7e3ce460ae8cd2e3fda
+ms.openlocfilehash: f274103feeadfa6fd135f99632f3013c29601972
+ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "97622176"
+ms.lasthandoff: 01/13/2021
+ms.locfileid: "98182418"
 ---
 # <a name="how-the-partner-earned-credit-is-calculated-and-paid"></a>İş ortağı kazanılmış kredisinin hesaplanması ve ödenmesi
 
@@ -36,7 +36,7 @@ Ayrıca, [Azure CSP abonelikleri için yeniden devreye sokma yönetici ayrıcal�
 
 - Yönettiğiniz Azure varlıklarının kazanıldığını alacak bir etkin MPN anlaşmanız ve geçerli rol tabanlı erişim denetimi (RBAC) rolüne sahip olmanız gerekir.
 
-- CSP 'de müşterinin Azure kaynaklarını 7/24 işletimsel denetim ve yönetimine sahip olmanız gerekir. Bu, müşterinin Azure aboneliği, Azure Kaynak grubu, Azure kaynağı üzerinde yönetici ayrıcalıklarına sahip olmanız gerektiği anlamına gelir. Dolaylı sağlayıcılar ve dolaylı satıcıları söz konusu olduğunda, dolaylı sağlayıcı veya dolaylı satıcı ya da her ikisinin de bu işlemsel denetimi varsa, dolaylı sağlayıcı PEC 'e uygun olacaktır. Bunun hakkında daha fazla bilgi edinmek için bkz. [Azure CSP abonelikleri için yeniden devreye alma yönetici ayrıcalıkları](https://docs.microsoft.com/partner-center/revoke-reinstate-csp).
+- CSP 'de müşterinin Azure kaynaklarını 7/24 işletimsel denetim ve yönetimine sahip olmanız gerekir. Bu, müşterinin Azure aboneliği, Azure Kaynak grubu, Azure kaynağı üzerinde yönetici ayrıcalıklarına sahip olmanız gerektiği anlamına gelir. Dolaylı sağlayıcılar ve dolaylı satıcıları söz konusu olduğunda, dolaylı sağlayıcı veya dolaylı satıcı ya da her ikisinin de bu işlemsel denetimi varsa, dolaylı sağlayıcı PEC 'e uygun olacaktır. Bunun hakkında daha fazla bilgi edinmek için bkz. [Azure CSP abonelikleri için yeniden devreye alma yönetici ayrıcalıkları](./revoke-reinstate-csp.md).
 
 - PEC, yukarıdaki gereksinimlere ek olarak yalnızca Azure plan [fiyatlandırma](https://partner.microsoft.com/commerce/sales) sayfasından dışarı aktarmak için Azure plan tüketim fiyatlandırması 'nda listelenen hizmetlere uygulanabilir.
 
@@ -48,7 +48,7 @@ Ayrıca, [Azure CSP abonelikleri için yeniden devreye sokma yönetici ayrıcal�
 
 - PEC, Azure Kaynak düzeyine kadar kazanılmakta. Abonelik veya kaynak grubu düzeyinde geçerli erişiminiz varsa, daha yüksek varlığa kaydolan her kaynak PEC 'e kazanacaktır.
 
-- PEC ile ilgili ayrıntılar için [Azure maliyet yönetimi](https://docs.microsoft.com/azure/cost-management-billing/costs/get-started-partners) sayfasından da ulaşılabilir.
+- PEC ile ilgili ayrıntılar için [Azure maliyet yönetimi](/azure/cost-management-billing/costs/get-started-partners) sayfasından da ulaşılabilir.
 
 ### <a name="calculation"></a>Hesaplama
 
