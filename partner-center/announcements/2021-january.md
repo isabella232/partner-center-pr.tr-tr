@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 01/07/2021
-ms.openlocfilehash: 042ef617bfde17c1a28ab91d89ae9151e339cefc
-ms.sourcegitcommit: 0e8abea7445b7d3f0c4a6320380ecc7d0ef049f9
+ms.openlocfilehash: f92b801d5e3294e461d07f9089b545a41efc4d6a
+ms.sourcegitcommit: 7d15e9bdb93a780886f588d294383d33c70a49f0
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/11/2021
-ms.locfileid: "98062459"
+ms.lasthandoff: 01/15/2021
+ms.locfileid: "98235945"
 ---
 # <a name="january-2021-announcements"></a>Ocak 2021 duyuruları
 
@@ -23,6 +23,24 @@ Bu sayfada, Ocak 2021 için Microsoft Iş Ortağı Merkezi duyuruları ayrıntı
 2021 Duyuruları: Ocak
 
 2020 [Duyurular:](2020-may.md)  |  [](2020-june.md)  |  [](2020-july.md)  |  [](2020-august.md)  |  [](2020-september.md)  |  Kasım ayında[Ekim](2020-October.md)  |  [](2020-november.md)  |  [ayında](2020-december.md) Haziran ayı  
+
+_____________ 
+
+## <a name="commercial-pricing-update-for-norwegian-krone"></a><a name="7"></a>Norveççe kronone için ticari fiyatlandırma güncelleştirmesi 
+
+### <a name="categories"></a>Kategoriler
+
+- Tarih: 2021-01-14
+- Teklifler/Pazarlar
+
+### <a name="impacted-audience"></a>Etkilenen hedef kitle
+
+Norveç kronunu kullanan bulut çözümü sağlayıcısı iş ortakları.
+
+### <a name="details"></a>Ayrıntılar
+
+1 Mart 2021 ' den itibaren, Norveç 'te ticari şirket içi yazılımlar için bir fiyat Kronu ve çevrimiçi hizmetler bölgede uygulanan fiyatlandırma düzeylerine göre yeniden hizalanacak şekilde değişecektir.
+Tam duyuru yalnızca Microsoft iş ortakları tarafından kullanılabilir. [Tam duyuruya erişmek Için oturum açın](https://partner.microsoft.com/resources/detail/pricing-update-norway-partners-pdf).
 
 _____________ 
 

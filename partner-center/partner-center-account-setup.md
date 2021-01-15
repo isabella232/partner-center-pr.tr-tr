@@ -1,7 +1,7 @@
 ---
 title: İş Ortağı Merkezi hesabınızı yönetme
 ms.topic: conceptual
-ms.date: 11/20/2020
+ms.date: 01/14/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Şirket profilini, banka ve vergi bilgilerini, rolleri, izinleri ve daha fazlasını yönetmek için Iş Ortağı Merkezi 'ni nasıl kullanacağınızı öğrenin.
@@ -9,16 +9,17 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3c5541323d691799d3f89b94ed9556c2458c737d
-ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
+ms.openlocfilehash: 9c1a17b6703981dee93acbb057bff2405d1f4f11
+ms.sourcegitcommit: 7d15e9bdb93a780886f588d294383d33c70a49f0
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98182469"
+ms.lasthandoff: 01/15/2021
+ms.locfileid: "98235979"
 ---
 # <a name="manage-your-partner-center-account---company-profile-bank-information-roles-permissions-and-more"></a>Iş Ortağı Merkezi hesabınızı, şirket profilinizi, banka bilgilerini, rolleri, izinleri ve daha fazlasını yönetin
 
-**Uygun roller** – genel yönetici, MPN Yöneticisi
+**Uygun roller** – genel yönetici
+- MPN Hesap Yöneticisi
 
 Kayıt sırasında iş e-postanız ve iş bilgileriniz olduğunda iş ortağı merkezi 'nde oluşturduğunuz hesap. Hesap oluşturduktan sonra, destek ayrıntıları, uygunsa dosya vergi muafiyetleri ve birincil iletişim bilgileri dahil olmak üzere şirketinizin tam profilini ayarlamayı tamamlayacaksınız. Şirketinizin hesabı, müşteri ekleme veya yönetme, abonelik satma, faturalandırma ve faturalama ile çalışma, iş profilleri oluşturma, başvuruları yönetme, teşvikleri programlarıyla çalışma ve destek sağlama için iş ortağı merkezini kullanacak kişiler için Kullanıcı hesapları da içerir.
 
@@ -60,6 +61,10 @@ Geçerli iş profili, iş ortağı profili ve kiracılar dahil olmak üzere işl
 ### <a name="legal-info"></a>Yasal bilgiler
 
 Iş Ortağı Merkezi 'Ne ilk defa katılırsanız, şirketiniz Microsoft ile bir doğrulama işleminden geçer. Doğrulamanın durumunu **yasal bilgiler** sayfasında izleyebilirsiniz. Birincil kişinin (iş ortağı sorularıyla ilgili olarak sizinle iletişim kurduğu) yanı sıra birincil yasal iletişim (yasal bilgilerinizi ve durumunuzu yöneten kişi) ile ilgili asıl kişiyi gösterir. Tüm şirketinizin iş konumları listelenir ve buradan eklenebilir.
+
+### <a name="primary-contact-email"></a>Birincil iletişim e-postası
+
+Birincil iletişim e-postası, hesabınızın doğrulanmasıyla ilgili bildirim almak için kullanacağınız şeydir. Birincil kişi için sağladığınız e-postanın düzenli olarak yönetilip izlenen bir bağlantı olması çok önemlidir.  
 
 [Doğrulama ve hesap bilgileriniz](verification-responses.md)hakkında daha fazla bilgi edinin.
 

@@ -9,12 +9,12 @@ ms.topic: how-to
 ms.date: 01/14/2021
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3b0c9611927d644cc7a5beecc89e0a8cc6f066b7
-ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
+ms.openlocfilehash: 3dc16fe12a722a7e926dcb72d46eeb9be6b7d4ea
+ms.sourcegitcommit: 7d15e9bdb93a780886f588d294383d33c70a49f0
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "98215892"
+ms.lasthandoff: 01/15/2021
+ms.locfileid: "98235928"
 ---
 # <a name="verify-your-organization-profile-information-in-partner-center"></a>Iş Ortağı Merkezi 'nde kuruluş profili bilgilerinizi doğrulayın
 
@@ -27,8 +27,9 @@ Iş Ortağı Merkezi 'Nde genel yönetici olarak ilk kez oturum açtığınızda
 
 İş ortağı profiliniz, yasal iş bilgileriniz, birincil iletişim adı ve e-postalarınız, şirketinizin katıldığı programlar ve varsa diğer şirketleriniz, artık yasal işletmeniz kapsamında birleştirilmiş olan diğer şirketlerinizden oluşur. Yasal iş profilinizde bulunan şirket adı ve adresinin, yazım hatalarını ve kısaltmalarının olmadığından ve resmi şirket iş kaydı kayıtlarınızın tam olarak eşleştiğinden emin olun. Tek bir proprietor olarak çalışıyorsanız, geçerli adınız olarak şirketinizin adını kullanmanız gerekir.
 
-- MPN hesapları için, hem genel yönetici hem de hesap yöneticisi yasal şirket adını güncelleştirebilir.
-- CSP dolaylı satıcı hesaplarında, genel yönetici yasal şirket adını güncelleştirebilir. 
+>[!Important]
+>- MPN hesapları için, hem genel yönetici hem de hesap yöneticisi yasal şirket adını güncelleştirebilir.
+>- CSP dolaylı satıcı hesaplarında, genel yönetici yasal şirket adını güncelleştirebilir. 
 
 ## <a name="locate-the-legal-business-profile"></a>Yasal iş profilini bulun
 
@@ -83,12 +84,7 @@ Genel yönetici, faturalandırma Yöneticisi veya yönetici aracılarınız vars
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-
 - [Doğrulama durumunuzu denetleyin](verification-responses.md)
  
 - [MPN konumlarını yönetme](manage-locations.md)
 
-
-
-MPN programı için genel yönetici ve hesap yöneticisi yasal şirket adını güncelleştirebilir.
-CSP dolaylı satıcısı için genel yönetici, yasal şirket adını güncelleştirebilir.
