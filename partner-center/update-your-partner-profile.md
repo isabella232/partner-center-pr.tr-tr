@@ -6,15 +6,15 @@ description: Birincil iletişim, adres ve program bilgileri gibi şirketinizin a
 author: parthpandyaMSFT
 ms.author: parthp
 ms.topic: how-to
-ms.date: 12/17/2020
+ms.date: 01/14/2021
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 938713a08b52d7f5d601ef7801f300eec223b921
-ms.sourcegitcommit: 37c421eac547f6d9c2f5c8460a40f736ec8b8841
+ms.openlocfilehash: 3b0c9611927d644cc7a5beecc89e0a8cc6f066b7
+ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/18/2020
-ms.locfileid: "97666800"
+ms.lasthandoff: 01/14/2021
+ms.locfileid: "98215892"
 ---
 # <a name="verify-your-organization-profile-information-in-partner-center"></a>Iş Ortağı Merkezi 'nde kuruluş profili bilgilerinizi doğrulayın
 
@@ -27,6 +27,11 @@ Iş Ortağı Merkezi 'Nde genel yönetici olarak ilk kez oturum açtığınızda
 
 İş ortağı profiliniz, yasal iş bilgileriniz, birincil iletişim adı ve e-postalarınız, şirketinizin katıldığı programlar ve varsa diğer şirketleriniz, artık yasal işletmeniz kapsamında birleştirilmiş olan diğer şirketlerinizden oluşur. Yasal iş profilinizde bulunan şirket adı ve adresinin, yazım hatalarını ve kısaltmalarının olmadığından ve resmi şirket iş kaydı kayıtlarınızın tam olarak eşleştiğinden emin olun. Tek bir proprietor olarak çalışıyorsanız, geçerli adınız olarak şirketinizin adını kullanmanız gerekir.
 
+- MPN hesapları için, hem genel yönetici hem de hesap yöneticisi yasal şirket adını güncelleştirebilir.
+- CSP dolaylı satıcı hesaplarında, genel yönetici yasal şirket adını güncelleştirebilir. 
+
+## <a name="locate-the-legal-business-profile"></a>Yasal iş profilini bulun
+
 1. **Ayarlar** simgesine gidin ve **Hesap ayarları**' nı seçin.
  
 1. **Kuruluş profili** seçin. 
@@ -37,15 +42,15 @@ Diğer şirketlerinizi yasal işletmeniz kapsamında birleştirdiyseniz, bu bilg
 
 ## <a name="update-your-legal-business-profile"></a>Yasal iş profilinizi güncelleştirme
 
-Artık Iş Ortağı Merkezi 'nde yasal adreslerinizi güncelleştirebilirsiniz.
+Iş Ortağı Merkezi 'nde yasal adresinizi güncelleştirin.
 
-1. **Ayarlar** ' a gidin ve **kuruluş profili** ' ni seçin.
+1. **Ayarlar** ' a gidin ve **kuruluş profili**' ni seçin.
 
 
 2. **Yasal** ' ı seçin ve ardından kullanmak istediğiniz yasal iş profilini seçin.
 
 >[!Important]
->Bir bulut çözümü sağlayıcısı (CSP) iş ortağıysanız, yasal adresünüzle ilişkili ülkeyi değiştiremezsiniz. Yasal adres ülkeniz, kiracı ve hizmetlerinize ve iş yaptığınız para birimine bağlıdır. CSP programında yoksa, yasal adresiniz ile ilişkili ülkeyi değiştirebilirsiniz. Dime durumunuz "yetkilendirildiğinde" iş ortağı merkezi 'nde yasal Şirket adı güncelleştirilemez. [Bir destek bileti oluşturmanız](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?stage=2&topicid=eb74583c-61b3-2124-bffc-00920e0ae772)gerekir.
+>Bir bulut çözümü sağlayıcısı (CSP) iş ortağıysanız, yasal adresünüzle ilişkili ülkeyi değiştiremezsiniz. Yasal adres ülkeniz, kiracı ve hizmetlerinize ve iş yaptığınız para birimine bağlıdır. CSP programında değilseniz, yasal adresiniz ile ilişkili ülkeyi değiştirebilirsiniz. Doğrulama durumunuz "yetkilendirildiğinde" Iş Ortağı Merkezi 'nde yasal Şirket adı güncelleştirilemez. Adı değiştirmeniz gerekiyorsa, [bir destek bileti oluşturmanız](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=eb74583c-61b3-2124-bffc-00920e0ae772)gerekir.
 
 3. **Gönder**' i seçtiğinizde yasal kimliğiniz yeniden atanır ve kabul etmeniz gereken başka bir e-posta alırsınız.
 
@@ -85,3 +90,5 @@ Genel yönetici, faturalandırma Yöneticisi veya yönetici aracılarınız vars
 
 
 
+MPN programı için genel yönetici ve hesap yöneticisi yasal şirket adını güncelleştirebilir.
+CSP dolaylı satıcısı için genel yönetici, yasal şirket adını güncelleştirebilir.

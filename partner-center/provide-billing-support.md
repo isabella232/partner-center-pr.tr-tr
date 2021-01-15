@@ -9,30 +9,27 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 82eaf215bcbc107da6a3f9f5049e4eb89c952ab0
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 11a17550ed5c0ab2154ec0daa03818236b26e820
+ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "92530949"
+ms.lasthandoff: 01/14/2021
+ms.locfileid: "98215943"
 ---
 # <a name="provide-billing-support-for-your-customers-and-help-answer-their-billing-questions"></a>Müşterileriniz için faturalandırma desteği sağlayın ve faturalandırma sorularını cevaplayın
 
-**Uygulama hedefi**
-
-- İş Ortağı Merkezi
-- ABD kamu için Microsoft Bulut iş ortağı Merkezi
 
 **Uygun roller**
+
 - Genel yönetici
 - Kullanıcı yöneticisi
 - Yardım Masası Aracısı
 - Faturalama yöneticisi
 - Satış Aracısı
 
-Müşterilerinizle ilgili faturalandırma ilişkiniz size aittir ve müşterilerden faturalandırma ile ilgili sorularınızı cevaplamaktan siz sorumlusunuz.
+Müşterileriniz ile faturalandırma ilişkiniz size aittir ve müşterilerinizin sahip olabileceği faturalandırma ile ilgili sorulara yanıt vermekten sorumlu olursunuz.
 
-- Microsoft 'a yönelik olarak ödemekten sorumlu olursunuz.
+- Microsoft 'a yönelik olarak yapılan ödemeler sizin sorumluluğunuzdadır.
 
 - Koleksiyonlar işleminizi ayrıntılarından ve müşterinin aboneliklerine, hizmetlerine veya yazılımına erişimin etkilenmesine ilişkin müşteriler ile açık bir koleksiyonlar ilkesi oluşturmanızı öneririz.
 
@@ -59,11 +56,14 @@ Destek gereksinimini karşılamak için iş ortağı başka bir varlıktan deste
 
 ### <a name="providing-billing-subscription-management-and-technical-support"></a>Faturalandırma, abonelik yönetimi ve teknik destek sağlama 
 
-Her çevrimiçi hizmet, müşterilere faturalandırma, abonelik yönetimi ve teknik destek sağlamaya yönelik belirli ve ayrıntılı gereksinimlere sahiptir. Daha fazla bilgi için bkz.
+Her çevrimiçi hizmet, müşterilere faturalandırma, abonelik yönetimi ve teknik destek sağlamaya yönelik belirli ve ayrıntılı gereksinimlere sahiptir. Daha fazla bilgi için bkz:
 
 - [CSP aracılığıyla satılan Dynamics 365 abonelikleri](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5262#M30)
 
 - [CSP aracılığıyla satılan Azure abonelikleri](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5263#M31)
 
 - [CSP aracılığıyla satılan Office 365 abonelikleri](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5264#M32)
- 
+ 
+## <a name="next-steps"></a>Sonraki adımlar
+
+- [Teknik destek sağlama](provide-technical-support.md)

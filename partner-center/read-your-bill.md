@@ -9,19 +9,15 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: edb2d25b49bd5c40dfd30e9f21d2d8537a5669c4
-ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
+ms.openlocfilehash: 43c2605d750d35bc2e0095b1fed413ed91a1a28e
+ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "92531106"
+ms.lasthandoff: 01/14/2021
+ms.locfileid: "98215824"
 ---
 # <a name="understand-your-bill-and-reconciliation-file---learn-how-to-find-them-in-partner-center"></a>Faturanızı ve mutabakat dosyanızı anlayın-bunları Iş Ortağı Merkezi 'nde nasıl bulacağınızı öğrenin
 
-**Uygulama hedefi**
-
-- İş Ortağı Merkezi
-- ABD kamu için Microsoft Bulut iş ortağı Merkezi
 
 **Uygun roller**
 
@@ -38,17 +34,17 @@ Microsoft, lisans tabanlı ücretler (Office 365 gibi) ve kullanım tabanlı üc
 
 Örneğin,  
 
-**Senaryo 1 [tek para birimi]** : Iş ortağının 145P teklifi ve O365 lisansları için satın alma işlemleri vardır.  
+**Senaryo 1 [tek para birimi]**: Iş ortağının 145P teklifi ve O365 lisansları için satın alma işlemleri vardır.  
 
 - İş ortağı, hem O365 hem de Azure için ücretleri kapsayan bir fatura PDF 'si ve 2 mutabakatı dosyası alır (145p).  
 
-**Senaryo 2 [tek para birimi]** : iş ortağı, 145p satın alımlarıyla bırlıkte Azure RI, Market ve/veya Azure planına yönelik satın alımları içerir
+**Senaryo 2 [tek para birimi]**: iş ortağı, 145p satın alımlarıyla bırlıkte Azure RI, Market ve/veya Azure planına yönelik satın alımları içerir
 
 - İş ortağı bir fatura PDF 'si ve Azure ücretini kapsayan bir mutabakat dosyası alacak (145p). 
 
 - İş ortağı başka bir fatura PDF 'sini ve Azure RI, Market, Azure planına ilişkin ücretleri kapsayan bir mutabakat dosyası alır. 
 
-**Senaryo 3 [çoklu para birimi]** : Iş ortağı DKK 'de Azure RI ve EUR 'deki 145p satın alımlarıyla birlikte satın alma işlemleri içerir.
+**Senaryo 3 [çoklu para birimi]**: Iş ortağı DKK 'de Azure RI ve EUR 'deki 145p satın alımlarıyla birlikte satın alma işlemleri içerir.
 
 - İş ortağı, bir fatura PDF 'sini ve DKK ' de Azure RI ücretlerini kapsayan bir mutabakat dosyası alır. 
 
@@ -60,9 +56,9 @@ Microsoft, lisans tabanlı ücretler (Office 365 gibi) ve kullanım tabanlı üc
 
 Faturanızı, Iş Ortağı Merkezi ' nde panonun faturalama sayfasında bulabilirsiniz. Bu sayfada faturalandırma geçmişinizi, harcama eğilimlerini ve mutabakatı dosyalarını da bulabilirsiniz. 
 
-1. Iş Ortağı Merkezi [panosunda](https://partner.microsoft.com/dashboard/home)oturum açın. 
+1. İş Ortağı Merkezi [panosunda](https://partner.microsoft.com/dashboard/home) oturum açın. 
 
-2. Sol taraftaki menüde **faturalandırma** ' i seçin. 
+2. Sol taraftaki menüde **faturalandırma**' i seçin. 
 
 3. Faturalama sayfasında, indirmek istediğiniz faturayı seçin. 
 
@@ -72,28 +68,32 @@ En son faturanızda bir bağlantıyı, son fatura tarihinden itibaren hesap baki
 
 ## <a name="understanding-invoice-pdf"></a>Fatura PDF 'sini anlama 
 
-**Kullanım ve lisans tabanlı ücretler Için faturalar** : Office 365 ve Azure gibi hizmetlerin ücretlerine yönelik faturalar, seçtiğiniz faturalandırma tarihinin iki (2) günü IÇINDE (UTC]) kullanılabilir.  
+**Kullanım ve lisans tabanlı ücretler Için faturalar**: Office 365 ve Azure gibi hizmetlerin ücretlerine yönelik faturalar, seçtiğiniz faturalandırma tarihinin iki (2) günü IÇINDE (UTC]) kullanılabilir.  
 
-**Kerelik ve tekrarlayan ücretler için faturalar** : Azure RI, Azure planı, Market gibi hizmetlere yönelik ücretlere yönelik faturalar, her ayın 8 ' inden daha geç bir şekilde kullanıma sunulacaktır.  
+**Kerelik ve tekrarlayan ücretler için faturalar**: Azure RI, Azure planı, Market gibi hizmetlere yönelik ücretlere yönelik faturalar, her ayın 8 ' inden daha geç bir şekilde kullanıma sunulacaktır.  
 
 Aşağıda, fatura PDF belgesinde önemli alanlardan bazıları verilmiştir:
 
-**Fatura numarası** : ilgili fatura dönemi için oluşturulan fatura belgesi için benzersiz tanımlayıcı. 
+**Fatura numarası**: ilgili fatura dönemi için oluşturulan fatura belgesi için benzersiz tanımlayıcı. 
 
-**Fatura dönemi** : Bu, kullanımlarının ve lisans tabanlı hizmetlerin bulunduğu dönemdir. 
+**Fatura dönemi**: Bu, kullanımlarının ve lisans tabanlı hizmetlerin bulunduğu dönemdir. 
 
-**Fatura tarihi** : faturalandırınızın her ay oluşturulduğu faturalandırma tarihi veya yıldönümü tarihi. 
+**Fatura tarihi**: faturalandırınızın her ay oluşturulduğu faturalandırma tarihi veya yıldönümü tarihi. 
 
-**Ödeme bitiş tarihi** : ödemenizin alınması gereken tarih. 
+**Ödeme bitiş tarihi**: ödemenizin alınması gereken tarih. 
 
-**Ücretler** : ilgili fatura dönemi için faturalandırma para biriminiz ödenmesi gereken miktar. 
+**Ücretler**: ilgili fatura dönemi için faturalandırma para biriminiz ödenmesi gereken miktar. 
 
-**Jenerik** : KREDILERIN (SLA gibi) veya Aboneliklerde yapılan değişikliklere yönelik ayarlamalar (örneğin, lisans artar veya azalır). 
+**Jenerik**: KREDILERIN (SLA gibi) veya Aboneliklerde yapılan değişikliklere yönelik ayarlamalar (örneğin, lisans artar veya azalır). 
 
-**Ödeme yönergeleri** : bölgenize göre faturanızı nasıl ödeymeyle ilgili açıklama. Ödeme yaparken her zaman fatura numaranızı eklediğinizden emin olun. 
+**Ödeme yönergeleri**: bölgenize göre faturanızı nasıl ödeymeyle ilgili açıklama. Ödeme yaparken her zaman fatura numaranızı eklediğinizden emin olun. 
 
 Fatura dosyanızdaki tüm alanların ayrıntılı bir açıklaması için (tek seferlik ücretler için alanlar dahil), bkz. [fatura dosyası alanları](invoice-file.md). 
 
 ## <a name="understand-reconciliation-files"></a>Karşılaştırma dosyalarını anlama
 
  Ücretlerinizin ayrıntılarına inmek/listelenen ayrıntılarını sağlayan mutabakat dosyaları, fatura PDF 'siyle birlikte indirilebilir. Mutabakat dosyaları müşteri tanımlayıcıları ve müşteri faturaları oluşturmak için kullanabileceğiniz abonelik tanımlayıcılarını içerir. Lütfen keşfi dosyaları hakkında daha fazla bilgi edinmek için  [bkz. karşılaştırma dosyalarını kullanma](use-the-reconciliation-files.md) . 
+
+## <a name="next-steps"></a>Sonraki adımlar
+
+- [Karşılaştırma dosyalarını kullanma](use-the-reconciliation-files.md)

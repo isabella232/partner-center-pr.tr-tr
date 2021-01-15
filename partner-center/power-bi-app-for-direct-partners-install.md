@@ -10,18 +10,15 @@ author: v-sumukh
 ms.author: v-sumukh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 64467ec608c2ca87dbc2b7d5dfb02adb08f13c18
-ms.sourcegitcommit: 0a6b1e6d845391539f54213efff00af4d23f028c
+ms.openlocfilehash: 754b3310918df9b38129cf1374ae3731d9d8062e
+ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/14/2020
-ms.locfileid: "92530955"
+ms.lasthandoff: 01/14/2021
+ms.locfileid: "98215858"
 ---
 # <a name="install-and-preview-the-partner-center-analytics-app-for-microsoft-power-bi"></a>Microsoft Power BI için İş Ortağı Merkezi Analizi uygulamasını yükleme ve önizleme
 
-**Uygulama hedefi**
-
-- İş Ortağı Merkezi
 
 **Uygun roller**
 -   Genel yönetici
@@ -54,9 +51,9 @@ Iş ortağı merkezi analizi uygulama Önizleme sürümünü yüklemeden önce, 
 
 1. Yukarıdaki bölümde verilen uygulama kaynağı bağlantısına (doğrudan sağlayıcı/dolaylı sağlayıcı/dolaylı satıcı) tıklayın.
 
-2. **Şimdi al** 'a tıklayın. 
+2. **Şimdi al**'a tıklayın. 
 
-3. **Devam** ' a tıklayarak hüküm ve koşulları kabul edin.
+3. **Devam**' a tıklayarak hüküm ve koşulları kabul edin.
 
 4. Zaten bir hesabınız var mı? **oturum aç '** ı seçin.
 
@@ -70,16 +67,16 @@ Iş ortağı merkezi analizi uygulama Önizleme sürümünü yüklemeden önce, 
 
 9. Yeni uygulama ekranınızı açılarak kullanmaya başlayın.
 
-10. Verilere bağlanmak için **Bağlan** ' a tıklayın.
+10. Verilere bağlanmak için **Bağlan**' a tıklayın.
 
 11. **Iş Ortağı Merkezi Analytics** açılır penceresinde, **kimlik doğrulama yönteminin** **oAuth2** olarak ayarlandığını doğrulayın veya listede değilse listeden **oAuth2** ' yi seçin. 
 
 > [!NOTE]  
 >  Bu pencerenin görünmesi birkaç dakika sürebilir.
 
-12. **Iş Ortağı Merkezi Analytics Bağlayıcısı** sayfasında, ŞIRKETINIZIN Azure AD kiracısı için genel yönetici, yönetici Aracısı veya faturalandırma Yöneticisi kimlik bilgileriyle oturum açın ve **oturum aç** ' ı seçin.
+12. **Iş Ortağı Merkezi Analytics Bağlayıcısı** sayfasında, ŞIRKETINIZIN Azure AD kiracısı için genel yönetici, yönetici Aracısı veya faturalandırma Yöneticisi kimlik bilgileriyle oturum açın ve **oturum aç**' ı seçin.
  
-13. Erişim istendiğinde **kabul et** ' i seçin. 
+13. Erişim istendiğinde **kabul et**' i seçin. 
 
 Iş ortağı merkezi analizi hizmeti Power BI bağlandığında, veriler yüklenmeye başlayacaktır. Veri miktarına bağlı olarak, bu işlem 10 dakikaya kadar sürebilir. 
 

@@ -9,12 +9,12 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 12/07/2020
-ms.openlocfilehash: 8ab1e2f2abae8af4c3949615653f83553e65fe25
-ms.sourcegitcommit: e4f30d29073cc0bcc28c4fe48791a19aa28ba734
+ms.openlocfilehash: 3475d606b3a59cf88bb9fb864ee765e4e9a20063
+ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "97950595"
+ms.lasthandoff: 01/14/2021
+ms.locfileid: "98215960"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>İş ortağı satış bağlantısı (PSC) üzerinden geçiş yapan iş ortakları için Iş Ortağı Merkezi 'nde (PC) ortak satış ile ilgili kılavuz
 
@@ -26,7 +26,7 @@ ms.locfileid: "97950595"
 - İş ortağı Sales Connect (PSC) Yöneticisi
 - İş ortağı Sales Connect (PSC) anlaşma Yöneticisi
 
-Bu makalede iş ortağı satışları iş ortağı merkezi 'ne geçiş yapan iş ortakları, iş ortağı merkezi 'nde ortak satış anlaşmaları oluşturmaya ve yönetmeye devam edebilirler.
+Bu makalede iş ortağı satışları iş ortağı merkezi 'ne geçiş için kılavuzluk ve iş ortağı merkezi 'nde ortak satış anlaşmaları oluşturmaya ve yönetmeye devam edebilmeleri sağlanır.
 
 Bildiğiniz gibi şirketiniz, 31 Mart 2021 ' den sonra PSC 'ye erişimi kaybedecektir. Bununla birlikte, Iş Ortağı Merkezi 'nde yapmak istediğiniz her şeyi, ortak satış anlaşmaları oluşturma, anlaşmaları yönetme ve Microsoft satıcıları tarafından size gönderilen anlaşmalar üzerinde işlem yapacak şekilde bulacaksınız.
 
@@ -353,7 +353,6 @@ Ortak satış yardım konularını henüz okumadıysanız, aşağıdaki kaynakla
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-Şu ek kaynakları izleyin:
 
 - İş ortağı satışları iş ortağı [Merkezi çalışma kitabına bağlanır](https://partner.microsoft.com/resources/detail/partner-sales-connect-to-partner-center-transition-workbook-pptx) -iş ortaklarının satış süreçlerini ve rollerini Iş Ortağı Merkezi Ile Iş ortağı Sales Connect aracılığıyla yeni satış süreçleriyle hizalayın.
 - [Iş Ortağı Merkezi ortak satış çalışma kılavuzu](https://partner.microsoft.com/resources/detail/co-sell-operating-model-guide-pptx) -müşteri adaylarını yönetmek Için Iş Ortağı Merkezi aracılığıyla bir işletim modelini belirlemek için bir iş modeli veya ortak satış fırsatları ve anlaşmaları kaydetme.
