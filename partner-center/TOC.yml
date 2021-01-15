@@ -675,8 +675,12 @@
         - name: İçgörü verilerinin tanımları
           href: pci-data-definitions.md
     - name: İş Ortağı Katkısı Göstergeleri
-      href: partner-contribution-indicators.md
-      displayName: mpn
+      items:
+        - name: Bulutta İş Uygulamaları yeterliliği için
+          href: partner-contribution-indicators.md
+        - name: Küçük ve Orta Ölçekli Kuruluşlarda Bulut Çözümleri yeterliliği için
+          href: partner-contribution-indicators-small-and-midmarket-cloud-business-option.md
+      displayName: 'mpn, cloud business applications competency, small and midmarket cloud solutions competency, CBA SMB option'
     - name: Diğer verileri analiz etme
       items:
         - name: Müşteri Azure kullanımı
