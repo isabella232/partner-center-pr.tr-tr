@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 01/07/2021
-ms.openlocfilehash: f92b801d5e3294e461d07f9089b545a41efc4d6a
-ms.sourcegitcommit: 7d15e9bdb93a780886f588d294383d33c70a49f0
+ms.date: 01/15/2021
+ms.openlocfilehash: 60a0f0a3c2d26d431cd4a79e606d96ae01fb50a1
+ms.sourcegitcommit: 7681c6fc51e78cba106c46a52f6bb27e1a5c1c6b
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/15/2021
-ms.locfileid: "98235945"
+ms.lasthandoff: 01/18/2021
+ms.locfileid: "98560485"
 ---
 # <a name="january-2021-announcements"></a>Ocak 2021 duyuruları
 
@@ -23,6 +23,112 @@ Bu sayfada, Ocak 2021 için Microsoft Iş Ortağı Merkezi duyuruları ayrıntı
 2021 Duyuruları: Ocak
 
 2020 [Duyurular:](2020-may.md)  |  [](2020-june.md)  |  [](2020-july.md)  |  [](2020-august.md)  |  [](2020-september.md)  |  Kasım ayında[Ekim](2020-October.md)  |  [](2020-november.md)  |  [ayında](2020-december.md) Haziran ayı  
+
+_____________ 
+
+## <a name="security-compliance-and-identity-sci-launches-coming-on-february-1-2021"></a><a name="9"></a>Güvenlik, uyumluluk ve kimlik (SCı) 1 Şubat 2021 ' de geliyor 
+
+### <a name="categories"></a>Kategoriler
+
+- Tarih: 2021-01-15
+- Teklifler/Pazarlar
+
+### <a name="summary"></a>Özet
+
+Birkaç Microsoft 365 başlatma, Ocak ayında fiyat listesi önizlemesine dahil edilir ve 1 Şubat 2021 ' den itibaren kullanılabilir olacaktır.
+
+### <a name="impacted-audience"></a>Etkilenen hedef kitle
+
+Tüm iş ortakları bulut çözümü sağlayıcısı (CSP) programı üzerinden deneyimidir
+
+### <a name="details"></a>Ayrıntılar
+
+#### <a name="microsoft-365-g5-compliance-component-skus-for-government"></a>[Kamu için G5 uyumluluk bileşeni SKU 'Ları Microsoft 365](https://docs.microsoft.com/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-security-compliance-licensing-guidance)
+
+Kamu topluluk bulutu (GCC) ve GCC yüksek müşterileri için 1 Şubat 2021 ' den itibaren kullanılabilecek üç yeni bileşen teklifi başlatacağız. Bu SKU 'Lar Microsoft 365 E5 Information Protection ve Idare, M365 E5 Insider risk yönetimi ve şu anda ticari olarak kullanılabilen Microsoft 365 E5 eBulma & Audit ile eşdeğerdir. 
+
+   |**Teklif adı**|**Teklif Kimliği**|**Malzeme KIMLIĞI**|
+   |-------------------|:------|:------|
+   |GCC için Microsoft 365 E5 Information Protection ve Idare|9e5397ab-f309-4d90-97f3-6fb5d53074d6|8QL-00002|
+   |GCC Microsoft 365 E5 eBulma ve denetimi|5c9ef884-6307-47e7-a914-f5092feae51e|8RI-00002|
+   |GCC için Microsoft 365 E5 Insider risk yönetimi|11ccfdb3-80cb-4C80-8146-c9775045df17|8RF-00002|
+   |GCC için Microsoft 365 E5 Information Protection ve DLP (eklenti)|911d3177-53a9-42ec-A0E9-3b73fce527f0|8QY-00002|
+
+#### <a name="10-year-audit-log-retention-add-on"></a>[10 yıllık denetim günlüğü bekletme eklentisi](https://docs.microsoft.com/microsoft-365/compliance/)
+
+Microsoft 365 E5 önkoşulları ile kullanılabilen bir eklenti, müşterilerin verilerini 10 yıl boyunca tutmalarına olanak tanır. 
+
+   |**Teklif adı**|**Teklif Kimliği**|**Malzeme KIMLIĞI**|
+   |-------------------|:------|:------|
+   |10 yıllık denetim günlüğü tutma EDU için ekleme|879b5e1a-eaa2-4ea9-a628-0b429b2e8732|8LC-00002|
+   |10 yıllık denetim günlüğü bekletme ekleme|e14ce8d1-09f4-42d2-9b5e-ee85f32e7be4|8LB-00003|
+   
+#### <a name="frontline-worker-add-ons"></a>Frontline Worker eklentileri
+
+Müşteriler, 1 Şubat 2021 ' den itibaren, [Microsoft 365 F1 ve F3 SKU 'larına](https://www.microsoft.com/microsoft-365/firstline-workers)eklentiler olarak önde gelen çalışanlar için üç yeni güvenlik ve uyumluluk programlama teklifi satın alabilir.
+
+Bu programlı teklifler, **28 şubat 2021 '** de sona erecek geçerli [güvenlik ve uyumluluk](https://microsoft.sharepoint.com/teams/M365LicensingNews/SitePages/Security-and-Compliance-Promotion-for-Firstline-Workers-Update.aspx) promosyonu yerine geçecek. Geçerli yükseltmenin aksine, F5 eklentileri müşterilere saflarda işgücü büyüdükçe tahmin için daha öngörülebilirlik sağlar.
+
+   
+   |**Teklif adı**|**Teklif Kimliği**|**Malzeme KIMLIĞI**|
+   |-------------------|:------|:------|
+   |Microsoft 365 F5 güvenliği|a8fba59e-1fc2-4658-8684-5f3d0c71c490|8RQ-00003|
+   |Microsoft 365 F5 uyumluluğu|6dc6cb1d-7bcb-4234-80cC-9c7a9cded044|8RL-00003|
+   |Microsoft 365 F5 güvenlik & uyumluluğu|ad396924-ee4e-4059-b779-efe43dfa24d2|8RU-00003|
+   
+### <a name="next-steps"></a>Sonraki adımlar
+
+Fiyat listesi önizlemesini gözden geçirin ve kuruluşunuzdaki uygun hissedarlarla paylaşabilirsiniz. Daha fazla bilgi için [Microsoft Güvenlik ve uyumluluk-Microsoft Teknik topluluğu](https://techcommunity.microsoft.com/t5/microsoft-security-and/ct-p/MicrosoftSecurityandCompliance)' na gidin.
+
+### <a name="questions"></a>Sorularınız mı var?
+
+Bu teklifler hakkında daha fazla soru için ilgili Yammer topluluklarınızı kontrol edin. 
+
+_____________ 
+
+## <a name="docusign-migration-to-adobe-sign-for-partners-under-microsoft-partner-agreements-mpas"></a><a name="8"></a>Microsoft Iş ortağı sözleşmeleri (MPAs) altındaki iş ortakları için Microsoft 'a yönelik DocuSign geçişi 
+
+### <a name="categories"></a>Kategoriler
+
+- Tarih: 2021-01-15
+- Özellikler
+
+### <a name="summary"></a>Özet
+
+Microsoft, tüm elektronik imza işlemlerini DocuSign 'dan Adobe Sign 'a aktaracaktır.
+
+### <a name="impacted-audience"></a>Etkilenen hedef kitle
+
+MPA 'nın altındaki mevcut doğrudan ve dolaylı bulut çözümü sağlayıcısı (CSP) iş ortakları. Ukrayna, Rusya ve Kazakistan 'teki iş ortakları, her yıl için fiziksel veya elektronik olarak yeniden imzalamanız gerekecektir.
+
+### <a name="details"></a>Ayrıntılar
+
+Microsoft, Şubat 2021 ' de, tüm elektronik imza işlemlerini, CSP iş ortakları için DocuSign 'dan Adobe Sign 'a geçirmeyi başlatır. 
+
+Kesintisiz bir geçiş beklemelisiniz. Geçişten sonra, e-posta ile, e-posta adresi, adobesign@adobesign.com her ne kadar elektronik imzanız gerekir. Bu e-posta size imzalamanız gereken Adobe Sign Web sayfasına yönelik bir bağlantı sağlar. Microsoft iş ortaklarının mevcut sözleşmeleri yeniden imzalayacağı ve yalnızca gelecekteki kanal anlaşmalarının olması gerekmez. 
+
+[Kaynak galerisinde,](https://partner.microsoft.com/resources/detail/adobe-sign-signature-request-email-pdf)bir Adobe imza imza isteği e-postası örneği bulabilirsiniz. 
+
+**En iyi deneyim için aşağıdakileri yaptığınızdan emin olun:**
+
+1. adobesign@adobesign.comBu hesaptan gelen e-postaları doğrudan Önemsiz e-posta klasörünüze giderek önlemek için Güvenli Gönderenler listenize ekleyin.
+2. BT departmanınızla birlikte çalışarak şunları yapın:
+   - adobesign@adobesign.comÖnceden belirlenmiş herhangi bir kimlik avı kuralına dahil olmamasını sağlamak için Güvenli Gönderenler listesine e-posta adresini ekleyin.
+   - Tüm gerekli alıcıların belgelerinizi Adobe Sign Enterprise lisansınızın altında imzalayabilmelerini sağlamak için mevcut güvenlik ilkelerini güncelleştirin.
+
+Adobe Sign, Microsoft 'un tercih ettiği elektronik Imza çözümüdür (ESS). Adobe Sign 'a geçiş, müşterilerimize ve iş ortaklarımıza daha fazla değer sunacak güvenli ve etkili bir elektronik imza deneyimi sağlar.
+
+Belgelere ve elektronik imza temsilciliğini elektronik olarak imzalama hakkında daha fazla bilgi için aşağıdaki **öğreticilere** bakın: 
+- [Belgeyi elektronik olarak imzala | Adobe Sign öğreticileri](https://helpx.adobe.com/sign/how-to/adobe-for-signers.html?playlist=/ccx/v1/collection/product/sign/segment/designer/explevel/beginner/applaunch/continuinged/collection.ccx.js&ref=helpx.adobe.com)
+- [Başka birini bir belgeyi imzalamak için temsilci seçme | Adobe Sign öğreticileri](https://helpx.adobe.com/sign/how-to/use-the-delegator-role.html?playlist=/ccx/v1/collection/product/sign/segment/designer/explevel/beginner/applaunch/orientation/collection.ccx.js&ref=helpx.adobe.com)
+
+### <a name="next-steps"></a>Sonraki adımlar
+
+Bu bilgileri, kuruluşunuzdaki uygun paydaşlarla paylaşabilirsiniz.
+
+### <a name="questions"></a>Sorularınız mı var?
+
+Sorularınız varsa, [çağrı günlüğü aracı 'nı (CLT)](https://clt.partners.extranet.microsoft.com/CLT) veya [MS 'Yi araştırarak](https://www.explore.ms/)bölgesel işlem merkezinize başvurun. Sorgunuzu mümkün olduğunca çabuk çözebilmemiz için standart CLT sürecini yakından izleyin.
 
 _____________ 
 
