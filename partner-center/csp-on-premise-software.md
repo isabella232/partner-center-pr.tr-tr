@@ -1,7 +1,7 @@
 ---
 title: CSP aracılığıyla şirket içi yazılım satma
 ms.topic: how-to
-ms.date: 05/05/2020
+ms.date: 01/15/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: CSP programındaki iş ortaklarının, Iş Ortağı Merkezi 'nde müşteri adına şirket içi yazılım abonelikleri satın alma, yönetme, satma ve iptal etme işlemlerini nasıl sağlayabileceğini öğrenin.
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 179527f2edc710420be0b7119b758389dddf6947
-ms.sourcegitcommit: 8dc139749916c822c5c438f54a03d2f147697dd5
+ms.openlocfilehash: b1d9cddd46ac6ee23a92fab41fc41b1e7eb613a1
+ms.sourcegitcommit: c46658f4d70004596e758fe4cd8671b6e9dadeab
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/04/2020
-ms.locfileid: "92531175"
+ms.lasthandoff: 01/20/2021
+ms.locfileid: "98584172"
 ---
 # <a name="sell-on-premise-software-through-the-cloud-solution-provider-csp-program"></a>Bulut çözümü sağlayıcısı (CSP) programı aracılığıyla şirket içi yazılım satma
 
@@ -40,17 +40,12 @@ Yazılım aboneliklerini bir müşteri adına satın almak için müşterinin ay
 Yazılımınızı satın aldıktan sonra, sizin ve müşterilerinizin indirmeniz gerekir. Bunu yapmak için aşağıdaki yordamı kullanın. 
 
 >[!NOTE]
->Anahtarları ve İndirmeleri almak için bir yönetim aracısı olmanız gerekir. 
+>Anahtarları ve İndirmeleri almak için bir yönetim aracısı olmanız gerekir.
 
-1. Müşterinizin ayrıntı sayfasına gidin ve ardından **yazılım** ' ı seçin. Müşteri adına satın aldığınız tüm yazılımların bir listesini görürsünüz. 
-2.  İndirmek istediğiniz ürünü genişletin. **Ürün Seç** alanında, istediğiniz **sürümü** , **dili** ve **dosya türünü/işletim sistemini** seçin. 
-3.  Belirli ürünleri göstermek için **Gönder** ' i seçin. 
-4.  **Anahtarları al ve İndirmeler ' ı** seçin. 
-5.  İndirmeye başlamak için **İndir** ' i seçin veya bağlantıyı kopyalayıp müşteriye göndermek Için **Bağlantıyı Kopyala** ' yı seçin. 
+1. Müşterinizin ayrıntı sayfasına gidin ve ardından **yazılım**' ı seçin. Müşteri adına satın aldığınız tüm yazılımların bir listesini görürsünüz.
+2. Bağlantıyı, **yazılım ürün anahtarlarına bağlantı** konumundan kopyalayıp bağlantıyı indirip müşteriyle paylaşabilirsiniz. Bu bağlantıyı seçerken, ürün anahtarlarını indirmek ve almak için Microsoft Yönetim portalına yönlendirilir.
 
->[!NOTE]
->Bu bağlantının, ilk kez geldiği iki hafta veya 50 indirmeden sonra sona erecektir. Bağlantının süresi dolduktan sonra, bu sayfaya geri dönün ve farklı iki hafta veya 50 karşıdan yüklemesini etkinleştirmek için **anahtarları al ve** İndir ' i seçin. Bunu, gerek duyduğunuz kadar birçok kez yapabilirsiniz. 
-
+Siz veya müşterileriniz lisans anahtarlarını indirme hakkında daha fazla bilgi edinmek istiyorsanız bkz. [yazılım ve ürün lisans anahtarlarını indirme](https://go.microsoft.com/fwlink/p/?linkid=2152525).
 
 ## <a name="cancel-a-purchase"></a>Satın almayı iptal et
 
@@ -65,11 +60,11 @@ Satın alma işlemini iptal etmek için aşağıdaki yordamı kullanın. İptal 
     - Para iadesi nedeni
     - İstenen miktar
 
-2.  Müşterinin ayrıntılar sayfasında **yazılım** ' i seçin. Satın aldığınız tüm yazılımların bir listesini görürsünüz. 
+2.  Müşterinin ayrıntılar sayfasında **yazılım**' i seçin. Satın aldığınız tüm yazılımların bir listesini görürsünüz. 
 
-3.  İptal etmek istediğiniz yazılımı bulun ve **iptal** ' i seçin. **Iş Ortağı Merkezi ile ilgili sorun bildir** sayfası açılır. 
+3.  İptal etmek istediğiniz yazılımı bulun ve **iptal**' i seçin. **Iş Ortağı Merkezi ile ilgili sorun bildir** sayfası açılır. 
 
-4.  **Ayrıntılar** altında, **sorun türü** listesinde, **müşteriler adına CSP satın al/para iadesi** ' ni seçin.
+4.  **Ayrıntılar** altında, **sorun türü** listesinde, **müşteriler adına CSP satın al/para iadesi**' ni seçin.
 
 5.  **Etki** ve **başlık** alanlarını girin. 
 
@@ -81,6 +76,6 @@ Satın alma işlemini iptal etmek için aşağıdaki yordamı kullanın. İptal 
 
 7.  **Kişi** alanına adınızı, e-posta adresinizi ve telefon numaranızı girin. 
 
-8.  Herhangi bir nedenle bir dosya iliştirmeye ihtiyacınız varsa dosya **Ekle** ' yi seçin. Bu adım isteğe bağlıdır. 
+8.  Herhangi bir nedenle bir dosya iliştirmeye ihtiyacınız varsa dosya **Ekle**' yi seçin. Bu adım isteğe bağlıdır. 
 
-9.  İşiniz bittiğinde **Gönder** ' i seçin.
+9.  İşiniz bittiğinde **Gönder**' i seçin.

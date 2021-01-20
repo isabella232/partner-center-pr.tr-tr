@@ -9,12 +9,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b9458c2dc320851877f77d8a142974715f1b2521
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 0a7cc7d6335cdda0cec19a7676d2b6103592842e
+ms.sourcegitcommit: c46658f4d70004596e758fe4cd8671b6e9dadeab
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92531722"
+ms.lasthandoff: 01/20/2021
+ms.locfileid: "98584183"
 ---
 # <a name="if-you-cant-sign-into-partner-center-and-need-to-reset-your-password"></a>Iş Ortağı Merkezi 'Nde oturum açamıyor ve parolanızı sıfırlamanız gerekiyorsa
 
@@ -23,6 +23,8 @@ ms.locfileid: "92531722"
 - İş Ortağı Merkezi kullanıcıları
 
 Parolanızı unuttuysanız ve Iş Ortağı Merkezi 'Nde oturum açamıyorum, desteğe başvurmanız gerekir. [Iş ürünleri Için desteğe](/microsoft-365/admin/contact-support-for-business-products)uygun kişiyi bulun. 
+
+Bir MPN iş ortağıysanız veya CSP dolaylı satıcısıysanız, dolaylı sağlayıcınızı Azure AD kiracınızda sizin için yeni bir genel yönetici oluşturmayı veya kendi yönetici ayrıcalıklarını kullanarak sizin için yeni bir parola oluşturmayı isteyebilirsiniz. 
 
 Parolanızı sıfırlamanıza ve iş hesabınıza yeniden erişim kazanmaya yönelik farklı yollar için [güvenlik bilgilerini kullanarak iş veya okul parolanızı sıfırlayın](/azure/active-directory/user-help/active-directory-passwords-update-your-own-password#how-to-change-your-password)makalesini okuyun.
 

@@ -5,13 +5,13 @@ ms.prod: marketplace-customer
 ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
-ms.date: 11/20/2020
-ms.openlocfilehash: 8f7962b1b040be90f7dc1b2696a2ced3830d25b9
-ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
+ms.date: 01/18/2021
+ms.openlocfilehash: de58fad7af7dd2cd6b8c98e5763557d54cc776a2
+ms.sourcegitcommit: c46658f4d70004596e758fe4cd8671b6e9dadeab
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98182486"
+ms.lasthandoff: 01/20/2021
+ms.locfileid: "98584206"
 ---
 # <a name="azure-marketplace-purchasing"></a>Azure Marketi satın alma
 
@@ -60,6 +60,20 @@ Bu ayarlar, Azure aboneliğinize erişimi olan tüm kullanıcılar için geçerl
 Azure Maliyet Yönetimi'nin altındaki maliyet analizi aracında Azure Market ücretlerinizi ve faturalarınızı görüntüleyebilirsiniz.
 
 :::image type="content" source="media/overview/azure-cost-management.png" alt-text="Satın alınan ürünlerinizle ilgili Öngörüler elde etmek için Azure maliyet yönetimi 'ni kullanın.":::
+
+## <a name="purchase-validation-checks"></a>Doğrulama denetimleri satın alma
+
+Azure Marketi aracılığıyla bir teklif satın almak farklı nedenlerle başarısız olabilir. Bir satın alma için komut satırı arabirimi (CLı) kullanmanın, Azure Marketi 'nde kullanılamayan veya görünmeyen bir teklif satın almaya çalıştığınız için hatalara neden olma olasılığı yüksektir. Satın alma işlemi başarısız olmasına neden olabilecek denetimler aşağıda verilmiştir:
+
+1. Abonelik bir Kurumsal Anlaşma (EA) ve EA yönetici tarafından devre dışı bırakılmış Azure Marketi satın almalara aittir.
+1. EA Yöneticisi yalnızca ücretsiz teklifler için satın alma işlemlerini etkinleştirdi ve teklif ücretli bir tekliftir.
+1. Teklif Market 'te bulunamadı.
+1. Bağımsız yazılım satıcısı (ISV), teklifi en azından bölgenizde satmaya durdurdu.
+1. Kullandığınız abonelik, teklifin kullanılamadığı bir bölgedeki faturalandırma hesabına aittir.
+1. Abonelik/Faturalandırma hesabı geçerli bir ödeme gereci (örn. geçerli bir kredi kartı) ile ilişkilendirilmemiş.
+1. Abonelik bir bulut çözümü sağlayıcısına (CSP) ait ve ISV, CSP aracılığıyla satış için reddedildi.
+1. Özel Market abonelik için etkinleştirilmiştir ve teklif izin verilen teklifler listesinde değildir.
+1. Teklif, belirli müşteriler için özel/önizlemedir ve abonelik izin verilen müşteriler listesinde değildir.
 
 ## <a name="next-steps"></a>Sonraki adımlar
 

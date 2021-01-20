@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 01/15/2021
-ms.openlocfilehash: 60a0f0a3c2d26d431cd4a79e606d96ae01fb50a1
-ms.sourcegitcommit: 7681c6fc51e78cba106c46a52f6bb27e1a5c1c6b
+ms.openlocfilehash: 9b972354fb21dbdfa4780717cee54bac14acdb0e
+ms.sourcegitcommit: 9bcccaf8864d8ee3c93e67691f773463f162b5f0
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/18/2021
-ms.locfileid: "98560485"
+ms.lasthandoff: 01/19/2021
+ms.locfileid: "98571678"
 ---
 # <a name="january-2021-announcements"></a>Ocak 2021 duyuruları
 
@@ -24,7 +24,84 @@ Bu sayfada, Ocak 2021 için Microsoft Iş Ortağı Merkezi duyuruları ayrıntı
 
 2020 [Duyurular:](2020-may.md)  |  [](2020-june.md)  |  [](2020-july.md)  |  [](2020-august.md)  |  [](2020-september.md)  |  Kasım ayında[Ekim](2020-October.md)  |  [](2020-november.md)  |  [ayında](2020-december.md) Haziran ayı  
 
-_____________ 
+________________
+## <a name="perpetual-software-now-generally-available-for-the-cloud-solution-provider-program"></a><a name="11"></a> Kalıcı yazılım artık bulut çözümü sağlayıcısı programı için genel kullanıma sunuldu
+
+### <a name="categories"></a>Kategoriler
+
+- Tarih: 2021-01-19
+- İşinizi Büyütme
+
+### <a name="impacted-audience"></a>Etkilenen hedef kitle
+
+Tüm CSP iş ortakları
+
+### <a name="details"></a>Ayrıntılar
+
+Bugün [duyurulduğu](https://blogs.partner.microsoft.com/mpn/general-availability-of-perpetual-software-licenses-in-the-cloud-solution-provider-program/) gibi, ticari kalıcı yazılım LISANSLARıNıN tüm CSP iş ortaklarının satışı için genel kullanıma sunulduğunu bildirmek için heyecanlıyız. Iş Ortağı Merkezi CSP kalıcı yazılım fiyat listesi yeniden yayımlandı ve artık ek ürünler ve coğrafi lıklar içeriyor.
+
+Ayrıca, Iş Ortağı Merkezi yazılımı ve lisans anahtarı karşılama özelliği kullanımdan kaldırılmıştır ve iş ortakları ile müşterilerin bu amaçla Microsoft 365 Yönetim merkezini kullanması gerektiğini unutmayın.
+Daha ayrıntılı bilgi ve sonraki adımlar için lütfen aşağıya bakın.
+
+### <a name="next-steps"></a>Sonraki adımlar
+
+- **CSP kalıcı yazılım** fiyat listesini, Iş ortağı merkezi [fiyatlandırma & teklifler](https://partnercenter.microsoft.com/en-us/pcv/sales) sayfasında bulunan **yazılım** bölümüne indirin. Yeni eklenen ürünlerin ve coğrafi nesnelerin listesini [burada](https://partner.microsoft.com/resources/detail/software-in-csp-new-products-geos-pdf)bulabilirsiniz.
+- [Microsoft 365 Yönetim Merkezi kalıcı yazılım ve ürün lisans anahtarları](https://go.microsoft.com/fwlink/p/?linkid=2152525) ' nı gözden geçirin ve yazılım ve lisans anahtarlarını indirmeye hazırsanız müşterilerinizle nasıl paylaşacağınızı öğrenin.
+- [Bulut çözümü sağlayıcısı program](https://partner.microsoft.com/resources/collection/software-in-csp#/) hazırlık malzemelerinden kalıcı yazılımı gözden geçirin. Rolünüzün doğru bilgilerini hızlı bir şekilde bulmak için bu [hazırlık haritasını](https://partner.microsoft.com/resources/detail/software-in-csp-readiness-map-pdf) kullanın.
+
+### <a name="questions"></a>Sorularınız mı var?
+
+Diğer sorular için lütfen ilgili CSP Yammer topluluklarınızı denetleyin.
+
+_____________
+## <a name="reminder-introducingapithrottlingtopartners-calling-partner-centerapis"></a><a name="10"></a> Anımsatıcı: Iş Ortağı Merkezi API 'Lerini çağıran iş ortaklarına API azaltma ile tanışın 
+
+### <a name="categories"></a>Kategoriler
+
+- Tarih: 2021-01-19
+- İşinizi Büyütme
+
+### <a name="summary"></a>Özet
+
+Microsoft, Iş Ortağı Merkezi API 'Lerini çağıran iş ortakları için bir zaman dilimi içinde daha tutarlı bir performansa izin vermek üzere API daraltma uygumasını uygulamaya yöneliktir.
+
+### <a name="impacted-audience"></a>Etkilenen hedef kitle
+
+Tüm iş ortakları bulut çözümü sağlayıcısı (CSP) programı üzerinden deneyimidir  
+
+### <a name="details"></a>Ayrıntılar
+
+Microsoft, Şubat 2021 ' den itibaren Iş Ortağı Merkezi API 'Lerini çağıran iş ortakları için zaman dilimi içinde daha tutarlı bir performansa izin vermek üzere API daraltma uygulamayı uygulamaya yönelik.Azaltma, kaynakların aşırı kullanımını engellemek için bir zaman dilimi içindeki bir hizmete yönelik isteklerin sayısını sınırlar.Bir azaltma eşiği aşıldığında, Iş ortağı merkezi bir süre için o istemciden gelen diğer istekleri sınırlandırır.
+  
+**Iş ortağı avantajları:** İş Ortağı Merkezi, yüksek hacimli istekleri işlemek için tasarlanmıştır, ancak birkaç iş ortağı tarafından çok sayıda istek yapılırsa, kısıtlama tüm iş ortakları için en iyi performansı ve güvenilirliği korumanıza yardımcı olur.  
+
+- Azaltma, en az kapalı kalma süresini sağlar.
+- Azaltma, yüksek hacimli isteklerin sayısını azaltarak tüm iş ortakları için tutarlı bir performans sağlanmasına yardımcı olur.
+
+**Kısıtlanacak API 'Ler:**
+
+| İşlem | İş Ortağı Merkezi belgeleri |
+| ------ | ------- |
+|{baseURL}/v1/Customers/{customer_id}/abonelikler  | [Tüm a-a-a-a-](/partner-center/develop/get-all-of-a-customer-s-subscriptions&data) |
+|{baseURL}/v1/Customers/{customer_id}/Subscriptions/{subscription_id}  | [Kimliğe göre bir abonelik alma](/partner-center/develop/get-a-subscription-by-id) |
+|{baseURL}/v1/Customers/{customer_id}/Orders  | [Tüm müşteri siparişlerini al](/partner-center/develop/get-all-of-a-customer-s-orders) |
+|{baseURL}/v1/Customers/{customer_id}/Orders/{order_id}  | [Kimliğe göre bir sipariş alma](/partner-center/develop/get-an-order-by-id) |
+|{baseURL}/v1/Customers/{customer_id}/Orders/{order_id}/provisioningstatus  | [Abonelik sağlama durumunu alma](/partner-center/develop/get-subscription-provisioning-status) |
+|{baseURL}/v1/Customers/{customer_id}/Subscriptions/{subscription_id}  | [Siparişleri yönetme ve bir aboneliği yönetme](/partner-center/develop/manage-orders#manage-a-subscription) |
+|{baseURL}/v1/Customers/{customer_id}/Subscriptions/{subscription_id}/addons  | [Bir abonelik için eklentilerin bir listesini alma](/partner-center/develop/get-a-list-of-add-ons-for-a-subscription) |
+|{baseURL}/v1/Customers/{customer_id}/Subscriptions/{subscription_id}/azureEntitlements | [Bir abonelik için Azure yetkilendirmeleri listesini alın](/partner-center/develop/get-a-list-of-azure-entitlements-for-subscription) |
+|{baseURL}/v1/Customers/{customer_id}/Subscriptions/{subscription_id}/registrationstatus  | [Abonelik kayıt durumunu alma](/partner-center/develop/get-subscription-registration-status) |
+|{baseURL}/v1/Customers/{Customer-Tenant-ID}/aktarmaları  | [Müşterinin tüm aktarımlarını al](/partner-center/develop/get-all-of-a-customer-s-transfers) |
+|{baseURL}/v1/productUpgrades/{upgrade-id}/status  | [Ürün yükseltme durumunu alma](/partner-center/develop/get-product-upgrade-status) |
+|{baseURL}/v1/Customers/{Customer-id}/Subscriptions/{Subscription-ID}/dönüşümler   | [Deneme dönüştürme tekliflerinin bir listesini alma](/partner-center/develop/get-a-list-of-trial-conversion-offers) |
+ 
+İş ortaklarının, daha fazla verimlilik için etkinlik günlüğü API 'sini kullanmayı ve azaltmaktan kaçınmasını kesinlikle öneririz.Bu özellik hakkında daha fazla bilgi için [buradaki](/partner-center/develop/api-throttling-guidance)ayrıntılara bakın.  
+
+### <a name="next-steps"></a>Sonraki adımlar
+
+Bu konunun [kaynaklarını](/partner-center/develop/api-throttling-guidance)gözden geçirin   ve gerekli adımları uygulayın.  
+
+_____________
 
 ## <a name="security-compliance-and-identity-sci-launches-coming-on-february-1-2021"></a><a name="9"></a>Güvenlik, uyumluluk ve kimlik (SCı) 1 Şubat 2021 ' de geliyor 
 
@@ -43,7 +120,7 @@ Tüm iş ortakları bulut çözümü sağlayıcısı (CSP) programı üzerinden 
 
 ### <a name="details"></a>Ayrıntılar
 
-#### <a name="microsoft-365-g5-compliance-component-skus-for-government"></a>[Kamu için G5 uyumluluk bileşeni SKU 'Ları Microsoft 365](https://docs.microsoft.com/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-security-compliance-licensing-guidance)
+#### <a name="microsoft-365-g5-compliance-component-skus-for-government"></a>[Kamu için G5 uyumluluk bileşeni SKU 'Ları Microsoft 365](/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-security-compliance-licensing-guidance)
 
 Kamu topluluk bulutu (GCC) ve GCC yüksek müşterileri için 1 Şubat 2021 ' den itibaren kullanılabilecek üç yeni bileşen teklifi başlatacağız. Bu SKU 'Lar Microsoft 365 E5 Information Protection ve Idare, M365 E5 Insider risk yönetimi ve şu anda ticari olarak kullanılabilen Microsoft 365 E5 eBulma & Audit ile eşdeğerdir. 
 
@@ -54,7 +131,7 @@ Kamu topluluk bulutu (GCC) ve GCC yüksek müşterileri için 1 Şubat 2021 ' de
    |GCC için Microsoft 365 E5 Insider risk yönetimi|11ccfdb3-80cb-4C80-8146-c9775045df17|8RF-00002|
    |GCC için Microsoft 365 E5 Information Protection ve DLP (eklenti)|911d3177-53a9-42ec-A0E9-3b73fce527f0|8QY-00002|
 
-#### <a name="10-year-audit-log-retention-add-on"></a>[10 yıllık denetim günlüğü bekletme eklentisi](https://docs.microsoft.com/microsoft-365/compliance/)
+#### <a name="10-year-audit-log-retention-add-on"></a>[10 yıllık denetim günlüğü bekletme eklentisi](/microsoft-365/compliance/)
 
 Microsoft 365 E5 önkoşulları ile kullanılabilen bir eklenti, müşterilerin verilerini 10 yıl boyunca tutmalarına olanak tanır. 
 
