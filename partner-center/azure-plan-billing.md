@@ -1,7 +1,7 @@
 ---
 title: Azure plan faturalandırma-fatura & keşfi dosyaları
 ms.topic: article
-ms.date: 07/02/2020
+ms.date: 01/20/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Azure planına yönelik faturalandırma ile ilgili fatura ve mutabakat dosya yapısına erişme ve bunları anlama hakkında bilgi edinin.
@@ -9,12 +9,12 @@ author: khpavan
 ms.author: sakhanda
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1dc683c194de158dc7a4dac541b37631f3be1f1e
-ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
+ms.openlocfilehash: e230cc0d8ff3afea4bf2cc7b55d3847814696af6
+ms.sourcegitcommit: f99424919f0d77bbe4f44293d84f9ea1e3317f13
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "96534701"
+ms.lasthandoff: 01/21/2021
+ms.locfileid: "98658442"
 ---
 # <a name="new-commerce-experience-in-csp---azure-billing"></a>CSP'de yeni ticari deneyim - Azure faturalama 
 
@@ -46,7 +46,7 @@ Bir fatura görüntülemeye hazırsanız şirketinizin genel yönetici veya fatu
 
 Faturaya ve mutabakat dosyasına erişmek için:
 
-1. Iş Ortağı Merkezi [panosunda](https://partner.microsoft.com/dashboard/)oturum açın.
+1. İş Ortağı Merkezi [panosunda](https://partner.microsoft.com/dashboard/) oturum açın.
 
 2. Iş Ortağı Merkezi menüsünde **faturalandırma**' i seçin.
 
@@ -140,9 +140,7 @@ Faturaya ve mutabakat dosyasına erişmek için:
 
 Azure planı aracılığıyla Azure Hizmetleri, ABD Doları cinsinden fiyatlandırılır ve müşterinin ülke atanmış para birimiyle faturalandırılır. Faturalama para birimi ABD dışı ise, kullanılan yabancı Exchange (FX) ücreti faturanın son sayfasında gösterilir. FX ücretleri aylık olarak belirlenir ve aşağıdaki faturaya uygulanır. Ülke para birimlerinin tam listesi için lütfen [Yeni ticaret teklifleri ülke kullanılabilirliği ve müşteri para birimi matrisini](https://go.microsoft.com/fwlink/?linkid=2112354)görüntüleyin.
 
-Microsoft, fatura para birimi dönüştürmeye fiyatlandırma para birimini belirlemede kullanılan FX tarifelerinin belirlenmesi için Thomson Rebilgisayarları kullanır. FX ücretleri, uygulandıkları ayın ilk günü önce yenilenir ve kullanılabilir.
-
-**Örnek**: 1 Ağustos 'ta hizmet dönemi için kullanım ücretleri 31 Temmuz TARIHINDE yayınlanan FX ücreti kullanılarak faturalandırılır. Bu ücretler, Eylül faturasında görüntülenir ve fatura son sayfasında FX fiyatı belirtilir.
+Microsoft, dönüştürme için Londra hisse senedi alışverişini izler. Londra 'daki ayın son gününde yakalanan Döviz oranına eşit olan döviz ücretini kullanırız. Bu değer, ayın son günü olan günün son gününde yakalanan Döviz ücretini kullanır. FX ücretleri, uygulandıkları ayın ilk günü önce yenilenir ve kullanılabilir.
 
 ## <a name="azure-reservations"></a>Azure rezervasyonları
 

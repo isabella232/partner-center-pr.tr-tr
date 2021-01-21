@@ -1,7 +1,7 @@
 ---
 title: Gelişmiş specialmeler hakkında bilgi edinin
 ms.topic: article
-ms.date: 01/12/2021
+ms.date: 01/21/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: İş profilinizi Microsoft iş ortağı dizininde güçlendirin. Mevcut altın ve gümüş uzmanlıklarınızla birlikte elde ettiğiniz Gelişmiş Uzmanlıklar hakkında bilgi edinin.
@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6ce29c533869214a15f18852c8946f46c0656a38
-ms.sourcegitcommit: 623d03feab847538d484e0d062dc56fe9d9d82f4
+ms.openlocfilehash: 61bb4bf8b340ac35c929738c43e8ef2da2e64aca
+ms.sourcegitcommit: f99424919f0d77bbe4f44293d84f9ea1e3317f13
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "98204028"
+ms.lasthandoff: 01/21/2021
+ms.locfileid: "98658408"
 ---
 # <a name="earn-an-advanced-specialization-to-showcase-your-validated-capabilities"></a>Doğrulanan olanaklarınızı göstermek için gelişmiş bir özelleşme kazanın
 
@@ -45,6 +45,7 @@ Her Gelişmiş özelleştirme bir çözüm alanına karşılık gelir:
 
 **Azure** gelişmiş specialmeler şunlardır:
 
+- Microsoft Azure Analytics
 - Microsoft Azure'a Veri Ambarı Geçişi
 - Microsoft Azure'da Kubernetes
 - Linux ve açık kaynak veritabanları Microsoft Azure 'e geçiş
