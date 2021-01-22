@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 01/15/2021
-ms.openlocfilehash: 9b972354fb21dbdfa4780717cee54bac14acdb0e
-ms.sourcegitcommit: 9bcccaf8864d8ee3c93e67691f773463f162b5f0
+ms.date: 01/20/2021
+ms.openlocfilehash: 02b1e93c84065b6223ffc06cf36ddfec757f9a6a
+ms.sourcegitcommit: 37a18fb999bfc713b4fe514d082c63fe58ef9236
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/19/2021
-ms.locfileid: "98571678"
+ms.lasthandoff: 01/22/2021
+ms.locfileid: "98685931"
 ---
 # <a name="january-2021-announcements"></a>Ocak 2021 duyuruları
 
@@ -23,6 +23,92 @@ Bu sayfada, Ocak 2021 için Microsoft Iş Ortağı Merkezi duyuruları ayrıntı
 2021 Duyuruları: Ocak
 
 2020 [Duyurular:](2020-may.md)  |  [](2020-june.md)  |  [](2020-july.md)  |  [](2020-august.md)  |  [](2020-september.md)  |  Kasım ayında[Ekim](2020-October.md)  |  [](2020-november.md)  |  [ayında](2020-december.md) Haziran ayı  
+
+________________
+## <a name="changes-to-azure-offer-availability-in-csp-related-to-the-new-commerce-experience-in-csp-for-azure"></a><a name="12"></a> CSP 'de Azure için Azure teklif kullanılabilirliği ile ilgili olarak CSP 'deki yeni ticari deneyim ile ilgili değişiklikler
+
+### <a name="categories"></a>Kategoriler
+
+- Tarih: 2021-01-21
+- Özellikler
+ 
+### <a name="impacted-audience"></a>Etkilenen hedef kitle
+
+Tüm iş ortakları bulut çözümü sağlayıcısı (CSP) programı üzerinden deneyimidir.
+
+### <a name="details"></a>Ayrıntılar:
+
+#### <a name="the-new-commerce-experience-for-azure-in-csp"></a>CSP 'de Azure için yeni ticari deneyim
+
+Yeni Microsoft ticaret deneyimi, müşteriler için tutarlı ve basitleştirilmiş bir satın alma deneyimi oluşturur ve bunları nasıl ve nerede satın aldıklarından daha fazla esneklik sağlar. İş ortakları, müşterilerin Microsoft ile Transact 'a karar vermesine izin veren kanallardan bağımsız olarak, müşterinin bulut yolculuğunda kritik bir rol oynar. Tam olarak başlatıldıktan sonra, güncelleştirilmiş ticaret platformu ve modeli, iş ortaklarının büyük kurumsal müşterilerin yanı sıra küçük ve orta ölçekli şirketler için satış modelleri üzerinden katılmasına ve iş ortaklarının müşteri başarısını sürücüye katılımını genişletmelerini sağlar.
+
+Bulut çözümü sağlayıcısı programında Azure için yeni ticari deneyim, iş ortağı fırsatlarını genişleterek yönetilen Hizmetleri oluşturup teslim edebilir, müşteri matrahını daha da genişletebilir ve müşterilere dijital dönüşümlerinde yardımcı olur.
+
+Yeni ticaret deneyimi aşağıdaki avantajları sunar:
+
+- Azure plan ile Azure satın alma sürecini basitleştirir.
+- Kanallar arasında daha iyi fiyatlandırma hizalaması oluşturur. Müşteri ve iş ortağı geri bildirimlerine bağlı olarak, bulut çözümü sağlayıcısı programındaki yeni Azure deneyimi, ABD Doları cinsinden tek bir fiyat listesi kullanır ve küresel ölçekte müşteri ve iş ortakları için tutarlı fiyatlandırma sağlar.
+- Uygun idare, müşteri deneyimi ve ilkeleri, bulut çözümü sağlayıcısı programındaki yeni Azure deneyimine taşımak üzere içeren araçlar sunarak müşteri alımı engellerini azaltır.
+- Azure açık Thouse ve Azure maliyet yönetimi gibi yetenekler sayesinde iş ortaklarının müşterileri daha verimli bir şekilde yönetmesine olanak sağlar. 
+- Azure Marketi 'ne erişimi genişletir.
+
+Azure için yeni ticaret deneyimini genişleterek, Azure 'u müşterilerin gelişen iş gereksinimlerine uyarlayarak ve müşterilerinizin bulut çözümü sağlayıcısı programındaki yeni Azure teklifine sunulmasını kolaylaştırmak için, geçiş araçları 'nı Azure 'u yönetmeye yönelik esnekliği geliştirdik. Bulut çözümü sağlayıcısı programında Müşteri Azure aboneliklerinin geçişini desteklemek için mevcut araçlara genel bakış ' ı görüntüleyin.
+
+#### <a name="new-azure-in-cloud-solution-provider-program-offer-azure-plan"></a>Yeni Azure bulut çözümü sağlayıcısı program teklifi (Azure planı)
+
+Yeni ticaret deneyimiyle, iş ortakları, Microsoft Müşteri anlaşmasındaki müşteriler için Azure planına göre Kullandıkça Öde tarifesine Azure hizmetlerine erişim elde edebilir. Bu plan, bir Azure planında birden çok Azure aboneliği oluşturulmasını etkinleştirerek satın alma deneyimini basitleştirir. Artık Iş Ortağı Merkezi 'nde Azure aboneliği başına ayrı bir sıra göndermeye gerek yoktur.
+
+#### <a name="changes-to-the-previous-azure-offer-availability-in-the-cloud-solution-provider-program"></a>Bulut çözümü sağlayıcısı programında önceki Azure teklifi kullanılabilirliğine yapılan değişiklikler
+
+Bulut çözümü sağlayıcısı programı 'nda (Azure planı) yeni Azure teklifini duyurduğumuz zaman, önceki Azure teklifi ve platformunun, yeni Azure deneyimiyle birlikte, bir süre boyunca mevcut olmaya devam edebileceğine ve önceki Azure teklifine yönelik herhangi bir değişiklik yapılmadan önce bu iş ortaklarının altı ay önceden bilgilendirmesine neden olduğunu bilgilendirdik.
+
+Bulut çözümü sağlayıcısı programı 'ndaki (Azure plan) yeni Azure teklifi, geliştirilmiş bir deneyim sunan iş ortakları sağlarken, iş ortaklarının yeni Azure özelliklerini hizmetleriyle birlikte dahil etmek ve müşterilerinin yeni deneyimle geçişini sağlamak istiyoruz.
+
+Önceki Azure teklifinde değişiklik üç aşamadan oluşur. Bugün, bu üç aşama hakkında daha fazla bilgi paylaşıyoruz.
+
+#### <a name="three-phases"></a>Üç aşama
+
+**1. aşama – 21 Temmuz 2021 ' den başlayarak**
+
+1. aşamada, tüm yeni Azure bulut çözümü sağlayıcısı programı işleri yeni Azure planı teklifinde olacaktır. Aşağıdaki yönergeler geçerlidir:
+
+- Bulut çözümü sağlayıcısı programındaki iş ortakları ve müşteriler arasındaki tüm mevcut satıcı ilişkileri için, müşteri zaten önceki Azure teklifini satın alıyorsa iş ortağı Transact 'a devam edebilir ve müşteri önceki Azure teklifini bu iş ortağından satın almaya devam edebilir.
+- Önceki Azure teklifi, CSP 'de deneyimidir net-yeni iş ortakları tarafından artık kullanılamayacak
+- Önceki Azure teklifi, CSP 'deki bir iş ortağı aracılığıyla satın alan net yeni müşteriler tarafından artık kullanılamayacak
+- Tüm yeni satıcı ilişkileri veya yeni müşteri alımları için iş ortakları yalnızca yeni Azure teklifini (Azure planı) kullanabilir
+- İş ortakları ve müşteriler arasındaki mevcut tüm satıcı ilişkileri için, müşteri hiçbir daha önce Azure 'u hiç satın almadıysa iş ortağı yalnızca Transact ve müşteri bu iş ortağından yalnızca yeni Azure teklifini satın alabilir.
+
+**2. aşama – takvim yılı 2022 sırasında**
+
+2. aşamada, takvim yılı 2022 sırasında bir zaman başlayacak, teşvikleri ve iş ortağı kenar boşluğu fırsatı önceki Azure teklifinden kaldırılır. 2. aşama başlangıç tarihi ' ni 6 ay önce iş ortaklarına ileteceğiz.
+
+**3. aşama – Tarih TBD**
+
+3. aşamada, önceki Azure teklifinde kalan tüm müşteriler, bulut çözümü sağlayıcısı programı 'ndaki (Azure plan) yeni Azure teklifine geçirilir. Önceki aşamalarda olduğu gibi, 1. aşama başlangıç tarihi ' ni daha önce 6 ay iş ortaklarına ileteceğiz.
+
+#### <a name="partner-earned-credit-pec"></a>İş ortağı kazanılmış kredisi (PEC)
+
+Yeni ticaret deneyimi sayesinde iş ortakları, iş ortağı tarafından kazanılan kredi modeliyle sürekli olarak değer eklenmiş hizmetler için tanınmış bir şekilde tanınır. İş ortağı kazanılan kredi relekileri, müşteri başarısını, karşı Sürdürülebilir karlılık üreten, katma değerli hizmetler aracılığıyla müşteri başarısını yönlendiren iş ortakları.
+
+### <a name="next-steps"></a>Sonraki Adımlar:
+
+İş ortakları, aşağıdaki kaynakları tanımak için son derece teşvik edilir:
+
+#### <a name="partner-earned-credit-pec"></a>İş ortağı kazanılmış kredisi (PEC)
+
+- [Iş ortağı kazanılmış krediyi anlama (kılavuz) (Microsoft. com)](https://partner.microsoft.com/resources/detail/understanding-partner-earned-credit-pdf)
+- [İş ortağı kazanılmış kredi-genel bakış-Iş Ortağı Merkezi | Microsoft Docs](https://docs.microsoft.com/partner-center/partner-earned-credit?branch=main )
+- [Yönetilen hizmetler için iş ortağı kazanılmış kredisi-Iş Ortağı Merkezi | Microsoft Docs](https://docs.microsoft.com/partner-center/partner-earned-credit-explanation?branch=main)
+- [Roller, iş ortağı kazanılmış kredi-Iş Ortağı Merkezi | Microsoft Docs](https://docs.microsoft.com/partner-center/azure-roles-perms-pec)
+- [Azure 'da, CSP modüllerinde iş ortağı kazanılan kredilerini isteğe bağlı eğitim modülü (eventbuilder.com)](https://commercial_licensing.eventbuilder.com/NewcommerceinCSPforAzuretrainingmodules)
+
+#### <a name="the-new-commerce-experience"></a>Yeni ticaret deneyimi
+
+- [İş ortağı kaynakları Galerisi: Azure için CSP 'de yeni bir ticari deneyim](https://partner.microsoft.com/resources/collection/new-azure-experience-in-csp#/)
+
+### <a name="questions"></a>Sorularınız mı var?
+
+Bu bildirimle ilgili sorular için [Iş Ortağı Merkezi desteğiyle](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals)iletişim kurun.
 
 ________________
 ## <a name="perpetual-software-now-generally-available-for-the-cloud-solution-provider-program"></a><a name="11"></a> Kalıcı yazılım artık bulut çözümü sağlayıcısı programı için genel kullanıma sunuldu
