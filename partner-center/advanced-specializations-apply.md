@@ -1,7 +1,7 @@
 ---
 title: Gelişmiş specialmeler için Uygula
 ms.topic: how-to
-ms.date: 11/30/2020
+ms.date: 01/21/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: İş profilinizi Microsoft iş ortağı dizininde güçlendirin. Iş Ortağı Merkezi 'ni kullanarak Gelişmiş Uzmanlıklar için uygulama ve kazanma hakkında bilgi edinin.
@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: dea98a5268feecbbea448592637a24f180d8eff2
-ms.sourcegitcommit: 7beb7327472dc1b0c07c101d121196fb2830bbf8
+ms.openlocfilehash: aa616678832341ea38f5da6d5062c460ad4d22d9
+ms.sourcegitcommit: f99424919f0d77bbe4f44293d84f9ea1e3317f13
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96440065"
+ms.lasthandoff: 01/21/2021
+ms.locfileid: "98658425"
 ---
 # <a name="use-partner-center-to-apply-for-advanced-specializations-and-check-their-status"></a>Ortak Uzmanlıkları uygulamak ve durumlarını denetlemek için Iş Ortağı Merkezi 'ni kullanın
 
@@ -37,7 +37,7 @@ Bu alana erişmek için, kuruluşunuzun Microsoft iş ortağı hesabı için **M
 
 ### <a name="follow-these-steps-to-access-this-area"></a>Bu alana erişmek için şu adımları izleyin:
 
-1. Iş Ortağı Merkezi [panosunda](https://partner.microsoft.com/dashboard/home)oturum açın.
+1. İş Ortağı Merkezi [panosunda](https://partner.microsoft.com/dashboard/home) oturum açın.
 
 2. Iş Ortağı Merkezi menüsündeki **MPN** bölümünü ve ardından **adv. specialmelerini** seçin. Menü, size sunulan tüm gelişmiş uzmanlık özelliklerini gösterecek şekilde genişler.
 
@@ -60,20 +60,21 @@ Her iki görev da Iş Ortağı Merkezi 'nde gerçekleştirilebilir.
 
 Üçüncü taraf bir denetçi ile denetim gerektiren Gelişmiş Uzmanlıklar şunlardır:
 
-- Microsoft Azure için veri ambarı geçişi
-- Microsoft Azure Kubernetes
-- Microsoft Azure için Linux ve açık kaynak veritabanı geçişi
-- Microsoft Windows sanal masaüstü
-- Microsoft Azure Web uygulamalarını modernleştirme
-- Microsoft Azure SQL Server Windows Server ve geçiş
+- Microsoft Azure Analytics
+- Microsoft Azure'a Veri Ambarı Geçişi
+- Microsoft Azure'da Kubernetes
+- Microsoft Azure'a Linux ve Açık Kaynak Veritabanı Geçişi
+- Microsoft Windows Sanal Masaüstü
+- Microsoft Azure'a Web Uygulamaları Modernleştirmesi
+- Microsoft Azure'a Windows Server ve SQL Server Geçişi
 
 Müşteri başvuruları gerektiren gelişmiş uzmanlık şunları içerir:
 
-- Benimseme ve değişiklik yönetimi
-- Microsoft ekipleri için çağırma
+- Benimseme ve Değişiklik Yönetimi
+- Microsoft Teams çağrısı
 - Microsoft ekipleri için toplantılar ve toplantı odaları
 - Azure’da SAP
-- Teamwork dağıtımı
+- Ekip Çalışması Dağıtımı
 - Kimlik ve Erişim Yönetimi
 - Tehdit Koruması
 
@@ -85,7 +86,7 @@ Kendi önkoşullarının yanı sıra, bazı Gelişmiş Uzmanlıklar de *Zamanlan
 
 Ardından, Iş Ortağı Merkezi 'nde bir denetim zamanlamak için aşağıdaki adımları izleyin:
 
-1. Iş Ortağı Merkezi [panosunda](https://partner.microsoft.com/dashboard/home)oturum açın.
+1. İş Ortağı Merkezi [panosunda](https://partner.microsoft.com/dashboard/home) oturum açın.
 
 2. Iş Ortağı Merkezi menüsündeki **MPN** bölümünü ve ardından **adv. specialmelerini** seçin. Menü, size sunulan tüm gelişmiş uzmanlık özelliklerini gösterecek şekilde genişler.
 
@@ -104,7 +105,7 @@ Kendi önkoşullarının yanı sıra, bazı Gelişmiş Uzmanlıklar de *müşter
 
 Ardından, Iş Ortağı Merkezi 'nde müşteri başvuruları sağlamak için şu adımları izleyin:
 
-1. Iş Ortağı Merkezi [panosunda](https://partner.microsoft.com/dashboard/home)oturum açın.
+1. İş Ortağı Merkezi [panosunda](https://partner.microsoft.com/dashboard/home) oturum açın.
 
 2. Iş Ortağı Merkezi menüsündeki **MPN** bölümünü ve ardından **adv. specialmelerini** seçin. Menü, size sunulan tüm gelişmiş uzmanlık özelliklerini gösterecek şekilde genişler.
 
