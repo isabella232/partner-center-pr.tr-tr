@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 12/21/2020
-ms.openlocfilehash: f20015fff92e200bce1d17fd6fda7b7ced618e00
-ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
+ms.openlocfilehash: 8cb81778c352e4e173cc70177675c7ee9bac4410
+ms.sourcegitcommit: 410f8ef9a5b944b454b1980cd1eb796fbdb4e6ea
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98182571"
+ms.lasthandoff: 01/22/2021
+ms.locfileid: "98705054"
 ---
 # <a name="december-2020-announcements"></a>Aralık 2020 duyuruları
 
@@ -224,7 +224,7 @@ Microsoft, güvende çalışır. CSP programında deneyimidir müşteri abonelik
     - Birleşik Arap Emirlikleri
     - Venezuela
 
-Ölçütlere uyan iş ortakları, bir müşterinin bir sonraki güncelleştirdiklerinde veya bir abonelik oluştururken bir müşterinin **yasal tanımlayıcısını** (müşterinin **kuruluş** adı olarak da bilinir) ve **telefon numarasını** göndermesi gerekecektir. Bu iş ortakları, müşteri için isteğe bağlı bir **Orta ad** da girebilir.
+Ölçütlere uyan iş ortakları, bir müşterinin bir sonraki güncelleştirdiklerinde veya bir abonelik oluştururken bir müşterinin **yasal tanımlayıcısını** (müşterinin **kuruluş** adı olarak da bilinir) ve **telefon numarasını** göndermesi gerekecektir. Ayrıca bu iş ortakları müşteri için isteğe bağlı bir **ikinci ad** da girebilir.
 
 Aşağıdaki ülkelerde yeni veya mevcut müşteriler ile iş yapan iş ortakları, Kasım 2020 ' de daha önceki bir sürüm ile zaten eklendi.
 
@@ -280,7 +280,7 @@ Aynı tarihte de şunlar gerçekleşecektir:
 
 - CSP kalıcı yazılım fiyat listesi, Iş Ortağı Merkezi ' nde yeniden yayımlanmalıdır. Bunu, ek ürünler ve coğrafi sayfalar içeren [satış > fiyatlandırma & teklifleri](https://partnercenter.microsoft.com/pcv/sales) sayfasının **yazılım** bölümünde bulabilirsiniz. Ayrıntıların tamamını [burada](https://partner.microsoft.com/resources/detail/software-in-csp-new-products-geos-pdf) görüntüleyebilirsiniz.
 
-- Iş Ortağı Merkezi yazılımı ve lisans anahtarı karşılama özelliği kullanımdan kalkacaktır. [Duyurular](./2020-september.md#17) -ve iş ortakları Microsoft 365 Yönetim merkezini özel olarak bu amaçla kullanacaktır. Bu, müşteriler için en güvenli ve verimli deneyim sağlar. [Genel bakış](https://support.microsoft.com/office/admin-center-overview-fa715fa8-6eda-456d-b177-d1c156edd1b3), [genel görevler](/microsoft-365/admin/admin-overview/about-the-admin-center?preserve-view=true&view=o365-worldwide)ve [lisans anahtarı tamamlama özelliklerini](https://partner.microsoft.com/resources/detail/microsoft-365-admin-center-software-key-download-pdf)inceleyerek Microsoft 365 Yönetim Merkezi yazılımı hakkında daha fazla bilgi edinin.
+- Iş Ortağı Merkezi yazılımı ve lisans anahtarı karşılama özelliği kullanımdan kalkacaktır. [Duyurular](./2020-september.md#17) -ve iş ortakları, müşterileri bu amaçla öne çıkan Microsoft 365 Yönetici merkezini kullanmak üzere kullanıma sunulacaktır. Bu, müşteriler için en güvenli ve verimli deneyim sağlar. [Genel bakış](https://support.microsoft.com/office/admin-center-overview-fa715fa8-6eda-456d-b177-d1c156edd1b3), [genel görevler](/microsoft-365/admin/admin-overview/about-the-admin-center?preserve-view=true&view=o365-worldwide)ve [lisans anahtarı tamamlama özelliklerini](https://partner.microsoft.com/resources/detail/microsoft-365-admin-center-software-key-download-pdf)inceleyerek Microsoft 365 Yönetim Merkezi yazılımı hakkında daha fazla bilgi edinin.
 
 ### <a name="perpetual-software-in-csp"></a>CSP 'de kalıcı yazılım
 

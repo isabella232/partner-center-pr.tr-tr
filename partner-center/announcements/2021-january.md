@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 01/20/2021
-ms.openlocfilehash: 02b1e93c84065b6223ffc06cf36ddfec757f9a6a
-ms.sourcegitcommit: 37a18fb999bfc713b4fe514d082c63fe58ef9236
+ms.openlocfilehash: b31191aa5d6f6a09b3f5708044df17f5efe69d7a
+ms.sourcegitcommit: 410f8ef9a5b944b454b1980cd1eb796fbdb4e6ea
 ms.translationtype: MT
 ms.contentlocale: tr-TR
 ms.lasthandoff: 01/22/2021
-ms.locfileid: "98685931"
+ms.locfileid: "98705037"
 ---
 # <a name="january-2021-announcements"></a>Ocak 2021 duyuruları
 
@@ -126,8 +126,7 @@ Tüm CSP iş ortakları
 
 Bugün [duyurulduğu](https://blogs.partner.microsoft.com/mpn/general-availability-of-perpetual-software-licenses-in-the-cloud-solution-provider-program/) gibi, ticari kalıcı yazılım LISANSLARıNıN tüm CSP iş ortaklarının satışı için genel kullanıma sunulduğunu bildirmek için heyecanlıyız. Iş Ortağı Merkezi CSP kalıcı yazılım fiyat listesi yeniden yayımlandı ve artık ek ürünler ve coğrafi lıklar içeriyor.
 
-Ayrıca, Iş Ortağı Merkezi yazılımı ve lisans anahtarı karşılama özelliği kullanımdan kaldırılmıştır ve iş ortakları ile müşterilerin bu amaçla Microsoft 365 Yönetim merkezini kullanması gerektiğini unutmayın.
-Daha ayrıntılı bilgi ve sonraki adımlar için lütfen aşağıya bakın.
+Ayrıca, Iş Ortağı Merkezi yazılımı ve lisans anahtarı karşılama özelliği kullanımdan kaldırılmıştır ve bu amaçla iş ortaklarının müşterileri Microsoft 365 yönetim merkezine işaret etmesi gerektiğini de unutmayın. Daha ayrıntılı bilgi ve sonraki adımlar için lütfen aşağıya bakın.
 
 ### <a name="next-steps"></a>Sonraki adımlar
 

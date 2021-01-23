@@ -9,18 +9,18 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 09/30/2020
-ms.openlocfilehash: ee876a479834b3538d2c0f8cf447a07fa2a59394
-ms.sourcegitcommit: 13d8e977f48448a7018747b39ec6eb3eeae123bc
+ms.openlocfilehash: 65f0d6a25811928a3639dc2ac6bacae31293e58f
+ms.sourcegitcommit: 410f8ef9a5b944b454b1980cd1eb796fbdb4e6ea
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 11/18/2020
-ms.locfileid: "94878809"
+ms.lasthandoff: 01/22/2021
+ms.locfileid: "98705020"
 ---
 # <a name="september-2020-announcements"></a>Eylül 2020 duyuruları
 
 Bu sayfada, Eylül 2020 ' de Microsoft Iş Ortağı Merkezi duyuruları ayrıntıları yer aldığı
 
-2020 [Duyurular:](2020-february.md)  |  [Mart](2020-march.md)  |  [Nisan](2020-april.md)  |  [,](2020-may.md)  |  Ağustos ayında[Haziran](2020-june.md)  |  [ayı](2020-july.md)  |  [August](2020-august.md) | Tarihi
+2020 [Duyurular:](2020-february.md)  |  [Mart](2020-march.md)  |  [Nisan](2020-april.md)  |  [,](2020-may.md)  |  Ağustos ayında[Haziran](2020-june.md)  |  [ayı](2020-july.md)  |  [](2020-august.md) | Tarihi
 
 ________________
 ## <a name="partner-center-software-license-key-and-download-fulfillment-notice"></a><a name="17"></a>İş Ortağı Merkezi Yazılım lisans anahtarı ve yükleme karşılama bildirimi
@@ -36,7 +36,7 @@ Tüm bulut çözümü ortağı (CSP) iş ortakları deneyimidir yazılım teklif
 
 ### <a name="details"></a>Ayrıntılar
 
-Bugün iş ortakları, CSP yazılım siparişlerine yönelik yazılım indirme ve lisans anahtarı için Iş ortağı merkezini veya Microsoft 365 Yönetim merkezini kullanabilir. **19 ocak 2021** Itibariyle Iş Ortağı Merkezi yazılımı ve lisans anahtarı karşılama özelliği kullanımdan kalkacaktır ve iş ortakları **Microsoft 365 Yönetim merkezini** özel olarak bu amaçla kullanacaktır. Iş Ortağı Merkezi içindeki Müşteri yazılımı sayfasında, müşteri lisanslarını ve Yazılım indirmelerini edinebileceğiniz Microsoft 365 yönetim merkezine bir "ayrıntılı bağlantı" yer alacak. Bu, müşteriler için en güvenli ve verimli deneyimin sağlanmasına yardımcı olur.
+Bugün iş ortakları, CSP yazılım siparişlerine yönelik yazılım indirme ve lisans anahtarı için Iş ortağı merkezini veya Microsoft 365 Yönetim merkezini kullanabilir. **19 ocak 2021** Itibariyle Iş Ortağı Merkezi yazılımı ve lisans anahtarı karşılama özelliği kullanımdan kaldırılacak ve iş ortakları, müşterileri bu amaçla yalnızca **Microsoft 365 Yönetim merkezini** kullanacak şekilde kullanıma sunulacaktır. Iş Ortağı Merkezi içindeki Müşteri yazılımı sayfası, müşterileri müşteri lisanslarını ve Yazılım indirmelerini elde etmek için kullanabileceğiniz Microsoft 365 yönetim merkezine bir "ayrıntılı bağlantı" içerecektir. Bu, müşteriler için en güvenli ve verimli deneyimin sağlanmasına yardımcı olur.
 
 Yazılım lisans anahtarları ve indirme bağlantıları, fikri mülkiyet varlıklarından sonra değerli ve yüksek oranda aranan bir özelliktir. Sızmış ise, etkinleştirme sınırlarının tükenmesine ve olumsuz bir müşteri ve iş ortağı deneyimine neden olabilir. Bu nedenle, iş ortaklarının bu değerli varlıkların korunmasına ve müşterilerinin korunmasına yardımcı olmak için en güvenli teknolojiyi ve en iyi uygulamaları kullanması kritik öneme sahiptir.
 
