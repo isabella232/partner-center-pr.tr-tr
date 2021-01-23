@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 01/20/2021
-ms.openlocfilehash: b31191aa5d6f6a09b3f5708044df17f5efe69d7a
-ms.sourcegitcommit: 410f8ef9a5b944b454b1980cd1eb796fbdb4e6ea
+ms.openlocfilehash: 2716c4724528714cdc64a6a36ae85bee3cd92712
+ms.sourcegitcommit: e5f48e327d91f358778b3216f24087db412cb21f
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/22/2021
-ms.locfileid: "98705037"
+ms.lasthandoff: 01/23/2021
+ms.locfileid: "98717837"
 ---
 # <a name="january-2021-announcements"></a>Ocak 2021 duyuruları
 
@@ -23,6 +23,38 @@ Bu sayfada, Ocak 2021 için Microsoft Iş Ortağı Merkezi duyuruları ayrıntı
 2021 Duyuruları: Ocak
 
 2020 [Duyurular:](2020-may.md)  |  [](2020-june.md)  |  [](2020-july.md)  |  [](2020-august.md)  |  [](2020-september.md)  |  Kasım ayında[Ekim](2020-October.md)  |  [](2020-november.md)  |  [ayında](2020-december.md) Haziran ayı  
+
+________________
+## <a name="partner-center-audit-log-changes-to-include-two-new-operation-types-for-dap"></a><a name="13"></a> DAP için iki yeni Işlem türü dahil etmek için iş ortağı merkezi denetim günlüğü değişiklikleri
+
+### <a name="categories"></a>Kategoriler
+
+- Tarih: 2021-01-25
+- Özellikler
+
+### <a name="impacted-audience"></a>Etkilenen hedef kitle
+
+Tüm CSP iş ortakları
+
+### <a name="details"></a>Ayrıntılar
+
+Bugün duyurulduğu gibi, müşteri Temsilcili yönetici Ilişkilerini onaylamışsa veya kaldırdığınızda iş ortaklarına görünürlük sağlamak üzere Iş ortağı merkezi etkinlik günlüklerinde iki yeni işlem türü oluşturduğumuza bildirmek için heyecanlıyız.
+
+Aşağıda yeni işlem türleri verilmiştir:
+
+"operationType": "dap_admin_relationship_terminated"
+
+"operationType": "dap_admin_relationship_approved",
+
+### <a name="next-steps"></a>Sonraki adımlar
+
+- DAP, müşteri tarafından onaylandığında ve müşteri tarafından sonlandırıldığı zaman olayları izlemek için yeni işlem türlerinden yararlanın.  
+- [Iş Ortağı Merkezi etkinliğinin bir kaydını alın-Iş Ortağı Merkezi uygulama geliştiricisi | Microsoft Docs](https://docs.microsoft.com/partner-center/develop/get-a-record-of-partner-center-activity-by-user)
+- [Kaynakları denetleme-Iş Ortağı Merkezi uygulama geliştiricisi | Microsoft Docs](https://docs.microsoft.com/partner-center/develop/auditing-resources)
+
+### <a name="questions"></a>Sorularınız mı var?
+
+Diğer sorular için lütfen ilgili CSP Yammer topluluklarınızı denetleyin.
 
 ________________
 ## <a name="changes-to-azure-offer-availability-in-csp-related-to-the-new-commerce-experience-in-csp-for-azure"></a><a name="12"></a> CSP 'de Azure için Azure teklif kullanılabilirliği ile ilgili olarak CSP 'deki yeni ticari deneyim ile ilgili değişiklikler
@@ -130,7 +162,7 @@ Ayrıca, Iş Ortağı Merkezi yazılımı ve lisans anahtarı karşılama özell
 
 ### <a name="next-steps"></a>Sonraki adımlar
 
-- **CSP kalıcı yazılım** fiyat listesini, Iş ortağı merkezi [fiyatlandırma & teklifler](https://partnercenter.microsoft.com/en-us/pcv/sales) sayfasında bulunan **yazılım** bölümüne indirin. Yeni eklenen ürünlerin ve coğrafi nesnelerin listesini [burada](https://partner.microsoft.com/resources/detail/software-in-csp-new-products-geos-pdf)bulabilirsiniz.
+- **CSP kalıcı yazılım** fiyat listesini, Iş ortağı merkezi [fiyatlandırma & teklifler](https://partnercenter.microsoft.com/pcv/sales) sayfasında bulunan **yazılım** bölümüne indirin. Yeni eklenen ürünlerin ve coğrafi nesnelerin listesini [burada](https://partner.microsoft.com/resources/detail/software-in-csp-new-products-geos-pdf)bulabilirsiniz.
 - [Microsoft 365 Yönetim Merkezi kalıcı yazılım ve ürün lisans anahtarları](https://go.microsoft.com/fwlink/p/?linkid=2152525) ' nı gözden geçirin ve yazılım ve lisans anahtarlarını indirmeye hazırsanız müşterilerinizle nasıl paylaşacağınızı öğrenin.
 - [Bulut çözümü sağlayıcısı program](https://partner.microsoft.com/resources/collection/software-in-csp#/) hazırlık malzemelerinden kalıcı yazılımı gözden geçirin. Rolünüzün doğru bilgilerini hızlı bir şekilde bulmak için bu [hazırlık haritasını](https://partner.microsoft.com/resources/detail/software-in-csp-readiness-map-pdf) kullanın.
 
@@ -516,7 +548,7 @@ Microsoft, için Şubat 2021 ' de başlatılacak yeni Dynamics 365 teklif deği�
 
 Microsoft, 1 Şubat 2021 ' de yeni bir "ek yanıt" teklifi oluşturacak ve bu teklif, 1 Şubat 2021 ' de olacak şekilde 2.
 
-SKU ayrıntıları için [DYNAMICS CSP Offers-February 2021 Excel belgesinde](https://partner.microsoft.com/resources/detail/dynamics-csp-offers-february-2021-xls) "müşteri Voice Addl yanıt" sekmesine bakın. Daha fazla bilgi için [Microsoft Dynamics 365 müşteri ses giriş sayfasını](https://dynamics.microsoft.com/en-us/customer-voice/overview/) görüntüleyin.
+SKU ayrıntıları için [DYNAMICS CSP Offers-February 2021 Excel belgesinde](https://partner.microsoft.com/resources/detail/dynamics-csp-offers-february-2021-xls) "müşteri Voice Addl yanıt" sekmesine bakın. Daha fazla bilgi için [Microsoft Dynamics 365 müşteri ses giriş sayfasını](https://dynamics.microsoft.com/customer-voice/overview/) görüntüleyin.
 
 **Dynamics 365 müşteri hizmetleri öngörüleri son kullanım**
 

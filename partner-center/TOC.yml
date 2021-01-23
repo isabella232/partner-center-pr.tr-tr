@@ -110,6 +110,9 @@
     - name: Microsoft İş Ortağı Sözleşmesi - CSP'ler
       href: microsoft-partner-agreement.md
       displayName: 'csp, mpn'
+    - name: 'Dolaylı sağlayıcılar, satıcılarına MPA ''yı benimseme konusunda nasıl yardımcı olabilir'
+      href: mpa-indirect-provider-faq.md
+      displayName: 'csp, mpa, indirect, provider'
     - name: CSP doğrudan iş ortağı gereksinimleri
       href: direct-partner-new-requirements.md
       displayName: 'indirect, reseller, csp'
