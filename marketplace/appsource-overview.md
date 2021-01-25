@@ -6,12 +6,12 @@ ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
 ms.date: 11/20/2020
-ms.openlocfilehash: b1eb9eeed676cc07b042659dffd77d04ebd50326
-ms.sourcegitcommit: 4e8e5a18e6e64892761dadcf182e179a128dcbc7
+ms.openlocfilehash: 5c89ef94977882b72563763744c6437c6c7f368a
+ms.sourcegitcommit: 79e45aa581ad7785e2417660ed6c73689988f58b
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98166707"
+ms.lasthandoff: 01/25/2021
+ms.locfileid: "98759873"
 ---
 # <a name="what-is-microsoft-appsource"></a>Microsoft AppSource nedir?
 
@@ -46,7 +46,7 @@ AppSource 'ta bulunan her ürün belirli ölçütlere göre sertifikalandırilmi
 
 Yazılım satıcısı, Fiyat, Son Kullanıcı Lisans Sözleşmesi ve gizlilik ilkelerini tanımlar. AppSource 'ta her teklif, yayımcının lisans sözleşmesinin ve gizlilik ilkesinin bağlantılarını içerir. Bu sözleşmeleri görüntüleme ve ele alma, satın alma akışının bir parçasıdır. Ayrıntılar için bkz. [yasal sözleşmeler](legal-contracts.md).
 
-## <a name="discover-saas-and-m365-integrated-apps"></a>SaaS ve M365 ile tümleşik uygulamaları bulma
+## <a name="discover-saas-and-microsoft-365-integrated-apps"></a>SaaS ve Microsoft 365 tümleşik uygulamaları bulma
 
 İş ortaklarımız bir SaaS uygulaması ile Microsoft 365 ilgili eklentileri arasında bağlantı oluşturabilir. Bu, eklentilerle bağlantılı bir SaaS uygulaması aldığınızda belirli Microsoft 365 hizmetlerinden veya ürünlerden eklentileri indirip kullanmanıza olanak sağlar.
 
