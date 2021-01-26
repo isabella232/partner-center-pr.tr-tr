@@ -1,7 +1,7 @@
 ---
 title: İş ortağı hesabınızdaki konumları yönetin
 ms.topic: how-to
-ms.date: 11/23/2020
+ms.date: 01/25/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Yeni bir konum ekleme ve bilgisayar, CSP iş, abonelik ve diğer işlemlerde MPN KIMLIĞI 'nin nasıl kullanıldığını öğrenin.
@@ -9,18 +9,15 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 03c4fb5a4adeb49602fe3736971e140ac6da6f4f
-ms.sourcegitcommit: 245b4792e8221468f781f6effd1c9b23be05499a
+ms.openlocfilehash: 38ea8a451f51d80998643e2a023420ea3efaa6ba
+ms.sourcegitcommit: e99882e9b6c9b1a0f7427fb133693b1d977be76b
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 11/24/2020
-ms.locfileid: "95514811"
+ms.lasthandoff: 01/26/2021
+ms.locfileid: "98773438"
 ---
 # <a name="manage-your-mpn-account-locations-and-add-a-new-location"></a>MPN hesap konumlarını yönetin ve yeni bir konum ekleyin
 
-**Şunlara uygulanır**
-
-- İş Ortağı Merkezi
 
 **Uygun roller**
 
@@ -38,7 +35,7 @@ Contoso, UK 'teki ortak genel hesabına (PGA) sahiptir. Bu, kayıtlı yasal işl
 
 :::image type="content" source="images/locations/locations1.png" alt-text="MPN konumlarının yapısı":::
 
-## <a name="prerequisites-in-order-to-add-a-new-location-for-a-csp-business"></a>CSP iş için yeni bir konum eklemek üzere Önkoşullar
+## <a name="prerequisites-in-order-to-add-a-new-account-location-for-a-csp-business"></a>CSP iş için yeni bir hesap konumu eklemek için Önkoşullar
 
 Yeni bir CSP iş konumu eklemek için birkaç önkoşul vardır:
 

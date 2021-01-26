@@ -1,29 +1,27 @@
 ---
 title: CSP programındaki dolaylı sağlayıcılarla çalışma
 ms.topic: how-to
-ms.date: 12/16/2020
+ms.date: 01/25/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Müşteri desteği ve faturalandırmayla ilgili yardım almak için dolaylı satıcıların Microsoft dolaylı sağlayıcıları (veya dağıtımlarıyla) ile nasıl çalışacağınızı öğrenin.
 ms.prod: ''
 ms.custom: contperf-fy21q2
-author: BillLinzbach
-ms.author: BillLi
+author: vinayks
+ms.author: vinayks
 ms.localizationpriority: high
-ms.openlocfilehash: c1929a68146c09beae16e5aabd96b1f192db3a31
-ms.sourcegitcommit: 3ff229fd6f80b9e935d151280b17a60b8c39e8a9
+ms.openlocfilehash: 7717f51504563ebb0193f693728229252827d7e3
+ms.sourcegitcommit: e99882e9b6c9b1a0f7427fb133693b1d977be76b
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "97636033"
+ms.lasthandoff: 01/26/2021
+ms.locfileid: "98773442"
 ---
 # <a name="learn-how-to-partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Bulut çözümü sağlayıcısı programındaki dolaylı sağlayıcılarla iş ortağı hakkında bilgi edinin
 
 **Uygun roller**
 
-
-- Bulut çözümü sağlayıcısı programına kaydolmakla ilgilenen tüm Microsoft iş ortakları
-
+- Genel yönetici
 
 Bulut tabanlı çözümler ve hizmetler için hızla büyüyen talepler, her boyuttaki Microsoft iş ortakları için, karlı bulut çözümü işletmeleri oluşturmaya yönelik birçok fırsat sağlar. Pazara girmeye, ancak birden çok satıcıyı yönetmek zorunda olan veya uçtan uca bir müşteri ilişkisi yönetim altyapısına sahip olmayan iş ortakları, Microsoft 'un bulut çözümü sağlayıcısı (CSP) programına dolaylı satıcılar olarak kaydedilebilir.
 
@@ -80,12 +78,11 @@ CSP programında dolaylı bir satıcı olarak satış için gerekenler hakkında
 
 5. MPN KIMLIĞINIZI Azure ID kiracınızla ilişkilendirin.
 
-    1. **Hesap ayarlarından** **tanımlayıcılar** ' ı seçin.
-
-    1. **CSP** bölümünde, CSP hesabınızla ilişkili MPN kimliğini güncelleştirmek için **Güncelleştir** bağlantısını kullanın. 
- 
+    1. MPN hesabınızla oturum açın. **Ayarlar**  ->  **Hesap ayarları**  ->  **kuruluş profili**  ->  **tanımlayıcıları**' na gidin. MPN kimliklerinizi görüntüleyin ve ülke, CSP hesabınızın ülkesinde aynı olan birini seçin. Diğer bir deyişle, CSP hesabınız ve ilişkili MPN KIMLIĞI aynı ülkede/bölgede bulunmalıdır.
+    
+     
  > [!IMPORTANT]  
-   > Azure AD kiracınızla aynı ülkede/bölgede bulunan etkin şirket profiliyle ilişkili MPN KIMLIĞINI seçin.
+   > CSP hesabınızla aynı ülkede/bölgede bulunan MPN KIMLIĞINI seçin.
 
 6. Iş Ortağı Merkezi hesabınız kullanıma hazırsa, Yönetim Aracısı grubuna eklendiğinizi doğrulayın. Diğer kullanıcıları ekleme dahil olmak üzere hesabınızı ayarlamayı tamamlaması için yönetici Aracısı izinlerinizin olması gerekir. İzinlerinizi görüntülemek veya güncelleştirmek için şu adımları izleyin:
 
@@ -146,5 +143,5 @@ CSP dolaylı satıcısı olarak yasal iş konumunuz, iş yapabileceğiniz dolayl
 - [İş profili oluşturma](create-a-marketing-profile.md)
 
 - [Doğrulama süreci hakkında bilgi edinin](verification-responses.md)
- 
+
 - [Bkz. doğrudan fatura ortağı gereksinimleri](direct-partner-new-requirements.md)

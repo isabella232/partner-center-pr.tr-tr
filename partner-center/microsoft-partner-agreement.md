@@ -1,20 +1,20 @@
 ---
 title: CSP için Microsoft Iş ortağı Sözleşmesi (MPA)
 ms.topic: how-to
-ms.date: 12/09/2020
+ms.date: 01/25/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Bu Birleşik ve dijital olarak kabul edilen Microsoft Iş ortağı sözleşmesi 'ni (MPA) imzalamak ve doğrulamak için Microsoft CSP iş ortağı gereksinimlerini öğrenin.
-author: BillLinzbach
-ms.author: BillLi
+author: vinayks
+ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: c557e517f46be09a9f903273d8bec37ce5ec0d04
-ms.sourcegitcommit: 8cb98de420f6ab5bb4cb3efc9007262c4d7d3327
+ms.openlocfilehash: 68d7bfa23a03d46afe44475023c91109f2f1cfa6
+ms.sourcegitcommit: e99882e9b6c9b1a0f7427fb133693b1d977be76b
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/12/2021
-ms.locfileid: "98105520"
+ms.lasthandoff: 01/26/2021
+ms.locfileid: "98773476"
 ---
 # <a name="learn-about-the-microsoft-partner-agreement-mpa-for-csp-program-partners"></a>CSP program iş ortakları için Microsoft Iş ortağı Sözleşmesi (MPA) hakkında bilgi edinin
 
@@ -68,6 +68,20 @@ CSP programına katılmayı sürdürmek için, Microsoft Iş ortağı sözleşme
 
 CSP ilişki isteğini dolaylı sağlayıcınızda kabul etmeyi unutmayın.
 
+## <a name="sign-the-mpa"></a>MPA 'yı imzala
+
+1. CSP dolaylı satıcı hesabınızla Iş Ortağı Merkezi ' nde oturum açın. Genel yönetici olmanız gerekir.
+1. **[CSP 'ye genel bakış](https://partner.microsoft.com/pcv/dashboard/overview)** sayfasına gidin.  Bir **kabul etme ve devam** etme ya da MPa 'nın imzalandığını belirten yeşil bir başlık GÖRMÜYORSANıZ, MPA 'yı imzalamak için doğru role sahip değilsiniz demektir. MPA 'yı imzalamak için genel yöneticinizle iletişime geçin.
+
+1. **Microsoft Iş ortağı sözleşmesi** 'ni imzalamadan önce görüntüleyip indirmek için aşağıda gösterildiği gibi Microsoft Iş ortağı sözleşmesi bağlantısına tıklayın.
+
+:::image type="content" source="images/agreement-three.png" alt-text="Yeni MPA sözleşmesi konumu":::
+
+>[!NOTE]
+>**Microsoft Iş ortağı sözleşmesi** bağlantısını görmüyorsanız, Iş Ortağı Merkezi ' nde rolünüzü kontrol edin. Yalnızca CSP kiracısındaki Genel Yöneticiler, Iş Ortağı Merkezi 'nde MPA 'yı görüntüleyebilir ve imzalayabilir. Rolünüzü denetlemek için **Kullanıcı yönetimi** ' ne gidin ve oturum açan hesabın **genel yönetici** olarak işaretlendiğinden emin olun. Aksi takdirde, bu hesap MPA 'yı imzalamak için kullanılamaz. Şirket içinde Genel Yöneticiler için Kullanıcı Yönetimi sayfasında arama yapabilirsiniz.
+
+:::image type="content" source="images/user-management-clean.png" alt-text="Rolünüzü bulma":::
+
 ## <a name="verify-that-you-have-signed-the-mpa"></a>MPA 'yı imzaladığınızdan emin olun
 
 MPA 'nın imzalanıp imzalanmadığını görmek için:
@@ -75,17 +89,17 @@ MPA 'nın imzalanıp imzalanmadığını görmek için:
  Şirketinizin genel yöneticisi olarak, [CSP 'ye genel bakış](https://partner.microsoft.com/pcv/dashboard/overview) ' a gıdın ve MPa 'nın kabul edildiğini bildiren yeşil başlığı görmek için denetleyin.
 
  
-:::image type="content" source="images/mpagreen.png" alt-text="MPA kabulünü gösteren yeşil başlık":::
+:::image type="content" source="images/banner-boxed.png" alt-text="MPA kabulünü gösteren yeşil başlık":::
 
 >[!NOTE]
 >Yalnızca şirketinizdeki genel yönetici MPA 'yı görüntüleyebilir ve imzalayabilir. Genel yönetici değilseniz MPA 'yı doğrulamak için genel yöneticinize başvurmanız gerekir.
 
 **Hesap ayarlarından** **anlaşmalar** ' i seçerek sözleşmenin imzalanıp imzalanmadığını da görebilirsiniz.
 
-:::image type="content" source="images/agreements/agreements.png" alt-text="MPA 'nın imzalandığının göstergesi":::
+:::image type="content" source="images/agreement-new.png" alt-text="MPA 'nın imzalandığının göstergesi":::
 
 
-## <a name="download-the-step-by-step-guide-thats-right-for-where-you-are-in-the-process"></a>İşlem içinde nerede olduğunuz konusunda doğru olan adım adım kılavuzu indirin
+## <a name="download-the-step-by-step-guide-thats-right-for-where-you-are-in-the-mpa-signing-process"></a>MPA imzalama sürecinde nerede olduğunuz konusunda doğru olan adım adım kılavuzu indirin
 
 1. MPN hesabınızı PMC'den İş Ortağı Merkezi'ne geçiriyorsanız: [PMC'den İş Ortağı Merkezi'ne geçme ve Microsoft İş Ortağı Sözleşmesi'ni kabul etme](https://assetsprod.microsoft.com/mpn/migrate-pmc-pc-mpa-guide.pptx)
 

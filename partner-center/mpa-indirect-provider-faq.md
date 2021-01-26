@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5ca7dd4239821fedfdb017c7a475b31b9e91cf68
-ms.sourcegitcommit: e5f48e327d91f358778b3216f24087db412cb21f
+ms.openlocfilehash: a6cf5bc3d1e0f28a9c4e0a11d8a603297fa57bf9
+ms.sourcegitcommit: e99882e9b6c9b1a0f7427fb133693b1d977be76b
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/23/2021
-ms.locfileid: "98717748"
+ms.lasthandoff: 01/26/2021
+ms.locfileid: "98773506"
 ---
 # <a name="how-indirect-providers-can-help-their-indirect-resellers-adopt-the-microsoft-partner-agreement-mpa"></a>Dolaylı sağlayıcılar dolaylı satıcıların Microsoft Iş ortağı sözleşmesi 'Ni (MPA) benimsemesine nasıl yardımcı olabilir
 
@@ -126,13 +126,13 @@ Sorunlar söz konusu olduğunda, Iş Ortağı Merkezi içinden bir [destek bilet
 ### <a name="i-want-to-migrate-my-mpn-account-from-partner-membership-center-to-partner-center-how-can-i-do-it-i-do-not-know-who-was-my-mpn-admin-in-pmc--how-can-i-migrate-"></a>MPN hesabımı Iş ortağı üyeliği merkezinden Iş Ortağı Merkezi 'ne geçirmek istiyorum. Bunu nasıl yapabilirim? MPN yöneticimin kim 'de kim olduğunu bilmiyorum, nasıl geçiş yapabilirim? 
 
 **Yanıt** [MPN 'YI PMC 'den PC 'ye geçirme](guide-to-migration.md)hakkında adım adım kılavuzu gözden geçirin. Geçiş yaptığınız hep için çeşitli bağlantıları vardır.
--   [CSP için Microsoft Iş ortağı Sözleşmesi (MPA)](microsoft-partner-agreement.md#download-the-step-by-step-guide-thats-right-for-where-you-are-in-the-process)
+-   [CSP için Microsoft Iş ortağı Sözleşmesi (MPA)](microsoft-partner-agreement.md)
 
 Sorunlar söz konusu olduğunda, Iş Ortağı Merkezi içinden bir [destek bileti](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=2da4e1c7-3b4b-5672-6227-56bc75a936b4) yükseltin. 
 
 ### <a name="are-there-any-localized-step-by-step-instructions-available"></a>Yerelleştirilmiş bir adım adım yönergeler var mı?
 
-**Yanıt** Evet, şurada yerelleştirilmiş bir kılavuz var: [CSP programında Microsoft Iş ortağı sözleşmesi Için dolaylı satıcı ekleme](https://partner.microsoft.com/resources/collection/indirect-reseller-onboarding-for-mpa-in-csp/data=04%7C01%7Cchimil%40microsoft.com%7C4ced38f77d8e4888d3cb08d8961d18dc%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C1%7C637424399031516927%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=jMq4Izi2Oreg5%2BpgKDOXGpUgzA3MnkJ1QMewnogc%2BY8%3D&reserved=0)  (kullanılabilir diller: Ispanyolca, Korece, Çince, Japonca)
+**Yanıt** Evet, şu adreste bulunan [Microsoft Iş ortağı sözleşmesi Için dolaylı Bayi ekleme](https://partner.microsoft.com/resources/collection/indirect-reseller-onboarding-for-mpa-in-csp/data=04%7C01%7Cchimil%40microsoft.com%7C4ced38f77d8e4888d3cb08d8961d18dc%7C72f988bf86f141af91ab2d7cd011db47%7C1%7C1%7C637424399031516927%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C1000&sdata=jMq4Izi2Oreg5%2BpgKDOXGpUgzA3MnkJ1QMewnogc%2BY8%3D&reserved=0)  sunulmaktadır: kullanılabilir diller: Ispanyolca, Korece, Çince, Japonca)
 
 ### <a name="i-dont-know-who-the-partner-center-admin-is-who-can-sign-mpa-"></a>Iş Ortağı Merkezi yöneticisinin MPA 'yı kimlerin imzalayabileceklerini bilmiyorum.
 
@@ -159,8 +159,8 @@ Sorunlar söz konusu olduğunda, Iş Ortağı Merkezi içinden bir [destek bilet
 
 Sorunu kendi kendinize düzeltemedi, CSP hesabınızla oturum açarak Iş Ortağı Merkezi içinden bir destek bileti yükseltin:
 
-- İş doğrulama sorunları için [buraya](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=52ac28f3-d58f-99d9-9846-3df5a6477c54) tıklayın  
-- İş doğrulama sorunları için [buraya](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=c34a5c81-a111-476d-11a4-81c808c37a6b) tıklayın
+- İş doğrulama sorunları için bir [destek isteği](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=52ac28f3-d58f-99d9-9846-3df5a6477c54)oluşturun.  
+- İş doğrulama sorunları için bir [destek isteği](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=c34a5c81-a111-476d-11a4-81c808c37a6b)oluşturun.
 
 :::image type="content" source="images/rejected-faq-mpa.png" alt-text="reddedilecek":::
 
