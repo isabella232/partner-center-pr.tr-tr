@@ -1,7 +1,7 @@
 ---
 title: İş ortağı katkı göstergeleri-SMMCS
 ms.topic: article
-ms.date: 01/13/2021
+ms.date: 01/26/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Iş ortağı katkı göstergeleri (PCI) iş ortaklarının, küçük ve orta ölçekli Pazar bulut çözümlerini uzmanlığına ulaşmak için karşılaması gerektiğini öğrenin.
@@ -9,12 +9,12 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cbde581a5a2d0b79b92be54abfba4920b53cbba4
-ms.sourcegitcommit: 623d03feab847538d484e0d062dc56fe9d9d82f4
+ms.openlocfilehash: e7fc9961c74d11e3bb36332d0cfff5ea4f9378be
+ms.sourcegitcommit: 6632d7452be36010bfc8c6823efe5a5197377989
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "98204151"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "98861436"
 ---
 # <a name="use-partner-contribution-indicators-to-attain-the-small-and-midmarket-cloud-solutions-competency"></a>Küçük ve orta ölçekli Pazar bulut çözümlerini uzmanlığına ulaşmak için Iş ortağı katkı göstergelerini kullanın
 
@@ -157,11 +157,10 @@ NET yeni gelir bir [performans göstergesidir](partner-contribution-indicators-s
 - NET yeni gelir, geçerli Dynamics 365 ürünlerine yönelik tüm satış kanallarında net yeni faturalandırılan gelir olarak tanımlanmıştır.
 - NET yeni gelir, en fazla 10 nokta kazanarak sonunda 12 aylık bir dönem boyunca toplanır.
 - NET yeni gelir noktaları, faturalandırılarak ve 12 aydan fazla toplanarak hesaplanır.
-- NET yeni gelir, müşteri katılım yolunu veya finans ve Işlemler yolunu izleyen, uygun olan ürünler temel alınarak hesaplanır:
+- NET yeni gelir, aşağıdaki, uygun ürünlerin herhangi bir birleşimine göre hesaplanır:
   - Dynamics 365 müşteri katılımı uygun ürünler şunlardır: Sales, Marketing, Customer Service, alan hizmeti, Project Server, plan 1, otomasyon, pazarlama, Microsoft Ilişki satışları
-  - Finans ve Işlemler için uygun ürünler şunlardır: Iş Merkezi, kapasite ve depolama, finans ve Işlemler (sahtekarlık koruması, işlemler, perakende, HR, plan 2 dahil), karma gerçeklik, takım üyesi
-  - Dynamics 365 Business Central
-
+  - Finans ve operasyon uygun ürünler şunlardır: Dynamics 365 Iş Merkezi, kapasite ve depolama, finans ve Işlemler (sahtekarlık koruması, işlemler, perakende, HR, plan 2), karma gerçeklik, takım üyesi
+  
 - Satış kanalları Kurumsal Anlaşma (EA), bulut çözümü sağlayıcısı (CSP) ve Web Direct ' i içerir.
 - Yalnızca Kurumsal Anlaşma gelir: Bu gelir, sözleşmenin ilk yılından gelir içerir. İkinci ve üçüncü yıldan yinelenen gelir dahil değildir.
 

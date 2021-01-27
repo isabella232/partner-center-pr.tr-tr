@@ -1,20 +1,20 @@
 ---
-title: Ödeme zamanlamaları ve süreçler
+title: Ödeme zamanlamaları ve süreçleri
 description: Ticari Market ve diğer işlemler için ödeme zamanlamaları ve çıkış işlemleri gibi ödemeler ve işlemler hakkında bilgi edinin.
 ms.service: marketplace
 ms.subservice: partnercenter-marketplace-publisher
 ms.topic: conceptual
 author: eunjkim520
 ms.author: eunjkim
-ms.date: 11/25/2020
-ms.openlocfilehash: bb7a6673d2dee5a35f1c5be96f354451633eecf5
-ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
+ms.date: 12/04/2020
+ms.openlocfilehash: 09e1301cb106c9e1ed40ff1fb6f70da92d2695ee
+ms.sourcegitcommit: 6632d7452be36010bfc8c6823efe5a5197377989
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97492679"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "98861419"
 ---
-# <a name="payout-schedules-and-processes"></a>Ödeme zamanlamaları ve süreçler
+# <a name="payout-schedules-and-processes"></a>Ödeme zamanlamaları ve süreçleri
 
 **Uygun roller:**
 
@@ -37,6 +37,7 @@ Bir ödeme genellikle Microsoft 'un müşteriden ödeme toplamasından önce mey
 | --- | --- | --- | --- |
 | İşlemin kullanımı veya ayı | Müşteri bir hizmeti kullanır veya satın alarak. | [Kullanım](/azure/marketplace/partner-center-portal/usage-dashboard) veya [sıralama](/azure/marketplace/partner-center-portal/orders-dashboard) panosu | **Ay 1** |
 | Microsoft fatura tutarını hesaplar | Toplam kullanımı belirleme, toplam işlem | [Kullanım](/azure/marketplace/partner-center-portal/usage-dashboard) veya [sıralama](/azure/marketplace/partner-center-portal/orders-dashboard) panosu | **Ay 2** |
+| Müşteriye göre ödenen fatura | Microsoft müşteriden ödeme toplar | düzeltme sınıfı, | **Ay 2** |
 | Ödeme gönderildi | Ajantı ücretini ve ödeme kazançlarını belirleme | [Ödeme bildiriminde](payout-statement.md) Işlem geçmişinde işlenmemiş olarak işaretlendi | **Ay 3 (1 hafta)** |
 | Ödeme hazırlığı | Kazançlar aylık ödeme için hazırlandı | [Ödeme bildiriminde](payout-statement.md) Işlem geçmişinde yakında çıkacak şekilde işaretlendi | **Ay 3 (1 hafta)** |
 | **Ödeme gönderildi** | **Ödeme, yayımcıya gönderilir** | **Işlem geçmişinde ve ödeme [bildiriminin](payout-statement.md) ödemeler bölümünde gönderildi olarak işaretlendi** | **3. ay (15 ' ten sonra değil)** |
@@ -79,10 +80,10 @@ Microsoft, aşağıdaki yöntemlerden birini kullanarak zaten ücretli olan tüm
 | --- | --- | --- |
 | Örnek ödeme tarihi | 10/15/2020 | Ödeme panosundaki Işlem geçmişi ve ödemeler bölümünde **gönderildi** olarak işaretlendi |
 | <font color="red">Müşteri Microsoft 'a ödeme yapmasa da</font> | 12/2/2020 – 12/5/2020 | Değişiklik yok, yukarıdaki ile aynı |
-| Müşteri ilk geç ödeme e-postasını alır | 12/6/2020 | Hiçbiri |
-| Müşteri, artan aciliyet e-postalarını alır | 12/7/2020 – 1/31/2021 | Hiçbiri |
+| Müşteri ilk geç ödeme e-postasını alır | 12/6/2020 | Yok |
+| Müşteri, artan aciliyet e-postalarını alır | 12/7/2020 – 1/31/2021 | Yok |
 | Yayımcı, yazma işlemi için büyük olasılıkla | 1/7/2021 | Müşteriye henüz ödeme gönderilmemiş olan e-posta bildirimi gönderilir. İşlem KIMLIĞI ve dolar miktarı dahil edilir. |
-| Müşteri sonlandırma bildirimini alır | 2/1/2021 | Hiçbiri |
+| Müşteri sonlandırma bildirimini alır | 2/1/2021 | Yok |
 | Toplama işleminin bitişi/fonları yazılır | 2/15/2021 | Fonların yazıldığı yayımcıya gönderilen e-posta bildirimi. İşlem KIMLIĞI ve dolar miktarı dahil edilir. |
 | Ödeme kesinti | 01.03.2021 | Yayımcı, Iş Ortağı Merkezi ödeme bildiriminde negatif işlem görür |
 | Ödeme stopaj uygulanan | 3/15/2021 | Gelecekteki ödemeler, Iş Ortağı Merkezi ödeme bildiriminde gösterilir. Bu, bakiye artık negatif olmadığından, ödeme ödemeyi almaz.  |
