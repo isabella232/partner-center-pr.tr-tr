@@ -51,6 +51,9 @@
         - name: MPN avantajlarınızı bulma
           href: mpn-find-benefits.md
           displayName: mpn
+        - name: Uzmanlığa yönelik ücretler ödeyin
+          href: mpn-pay-fee-silver-gold-competency.md
+          displayName: mpn
     - name: Yetkinlikler
       items:
         - name: Yetkinlikler hakkında bilgi edinin
