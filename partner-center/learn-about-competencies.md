@@ -1,7 +1,7 @@
 ---
 title: Microsoft Gold, Gümüş uzmanlık gereksinimleri
 ms.topic: article
-ms.date: 11/03/2020
+ms.date: 01/26/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Microsoft iş ortağı durumunu nasıl edineceğinizi ve yeni müşteriler sunarak altın ve gümüş üyelik düzeylerini kazanmanıza yönelik uzmanlığa yönelik gereksinimleri karşılamayı öğrenin.
@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 51a0e1d1e726444597d99a55e8c62b6788549073
-ms.sourcegitcommit: 6ed7268356445939db8613f2af96016707c55d64
+ms.openlocfilehash: 10d2cbf848cb2c9a5d9aafb98f1ab6869f417182
+ms.sourcegitcommit: 06c272d86722a2315a65aa536fb32727aab5178d
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "94691342"
+ms.lasthandoff: 01/27/2021
+ms.locfileid: "98912548"
 ---
 # <a name="differentiate-your-business-by-attaining-microsoft-competencies"></a>Microsoft Uzmanlıklar sunarak işletmenizi farklılaştırın
 
@@ -38,7 +38,7 @@ Uzmanlığa erişme, daha fazla avantaj ve fırsat için de bir giriş olabilir:
 
 Gereksinimleri ve şirketinizin Iş Ortağı Merkezi panonuzun uzmanlık alanından elde edildiğini görebilirsiniz.
 
-1. Iş Ortağı Merkezi [panosunda](https://partner.microsoft.com/dashboard/home)oturum açın.
+1. İş Ortağı Merkezi [panosunda](https://partner.microsoft.com/dashboard/home) oturum açın.
 
 2. İş Ortağı Merkezi menüsündeki MPN bölümünün altında **Yetkinlikler**’i seçin.
 
@@ -68,6 +68,8 @@ Gümüş ve altın uzmanlık becerilerine ulaşmak için gerekenler hakkında da
 - Uzmanlıklar kapsamında yer alan belirli [pazara yönelik belirli kaynaklar](mpn-learn-about-go-to-market-benefits.md) hakkında bilgi edinin.
 
 - [Uzmanlıklar için faturalar ve vergiler](mpn-view-print-maps-invoice.md)hakkında bilgi edinin.
+
+- Gümüş veya altın uzmanlık üyeliğiyle ilişkili [ücreti ödemeyi](mpn-pay-fee-silver-gold-competency.md) öğrenin.
 
 - Uzmanlarınızın geçerli durumunu gösteren bir Iş Ortağı Merkezi Öngörüler [uzmanıyları raporunu](pci-competencies-report.md) görüntüleyin.
 
