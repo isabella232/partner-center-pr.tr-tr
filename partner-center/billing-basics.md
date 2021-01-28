@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 254543c353669166ed9971d57e6255bd589ccb7d
-ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
+ms.openlocfilehash: d34a264f366cc21109bb0f0ae379d34130f6f590
+ms.sourcegitcommit: fc1f9cb5a542bdc92d62d2a7e1ab2f4e69903e49
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96570714"
+ms.lasthandoff: 01/28/2021
+ms.locfileid: "98924938"
 ---
 # <a name="billing-overview-for-csp-program-partners-working-in-partner-center"></a>İş Ortağı Merkezi’nde çalışan CSP programı iş ortakları için faturalamaya genel bakış 
 
@@ -33,7 +33,7 @@ Bu makale, Iş Ortağı Merkezi 'ndeki CSP iş ortakları için temel faturaland
 
 Faturanızı bulmak için:
 
-1. Iş Ortağı Merkezi [panosunda](https://partner.microsoft.com/dashboard/home)oturum açın.
+1. İş Ortağı Merkezi [panosunda](https://partner.microsoft.com/dashboard/home) oturum açın.
 
 2. Iş Ortağı Merkezi menüsünde **faturalandırma**' i seçin.
 
@@ -53,7 +53,7 @@ Iş ortağı merkezindeki faturalandırma türleri **Lisans tabanlı faturaland�
 
 **Lisans tabanlı ve kullanım tabanlı faturalandırma**: ürün (ler) in bulunduğu ülkenin veya bölgenin para birimi cinsinden faturalandırılırsınız. Ürün (ler) i sattığınız müşterinin konumundan bağımsız olarak faturalandırılırsınız.
 
-**Tek seferlik faturalandırma**: faturanız müşterinin para birimi bağlamında oluşturulur. Yani, farklı faturalanabilir para birimlerinden müşterilerle bir iş ortağı deneyimidir iseniz, her müşteri para birimi türü için bir fatura alacaksınız. [Kerelik ve yineleniyor](azure-plan-billing.md)hakkında daha fazla bilgi edinin. 
+**Tek seferlik faturalandırma**: 15 Ocak 2021 tarihinden ıtıbaren, AB/EFTA ve Birleşik Krallık bölgesindeki iş ortakları ve yeni müşteriler ve mevcut CSP müşterileri, kiracıların 11 Mayıs 2020 ' den önce oluşturulduğu ilk kez yeni ticaret teklifleri satın alarak, iş ortağı konumu para birimi için bu Satınalmalar için faturalandırılır.  AB/EFTA ve UK bölgesinin dışında bulunan iş ortakları, iş ortağı konumu para birimiyle faturalandırılmaya devam edecektir. [Kerelik ve yineleniyor](azure-plan-billing.md)hakkında daha fazla bilgi edinin. 
 
 ## <a name="invoices"></a>Faturalar
 
@@ -150,15 +150,15 @@ Bugün iki tür faturalandırma sıklığı vardır: yıllık & aylık.
 
 Geçerli faturalandırma durumunuzu, faturalarınızı ve mutabakatı dosyalarını görüntülemek için:
 
-1. Iş Ortağı Merkezi [panosunda](https://partner.microsoft.com/dashboard/home)oturum açın.
+1. İş Ortağı Merkezi [panosunda](https://partner.microsoft.com/dashboard/home) oturum açın.
 2. Sol taraftaki menüde **faturalandırma**' i seçin **ve ardından yinelenen ve tek seferlik satın** alma ' yı seçin.
-3. Faturalama durumu sayfasında, daha ayrıntılı bilgi görüntülemek için bir fatura veya mutabakat dosyası seçin.
+3. Faturalama durumu sayfasında daha ayrıntılı bilgi görüntülemek için bir fatura veya mutabakat dosyası seçin.
 
 ### <a name="customer-order-history"></a>Müşteri sipariş geçmişi
 
 Müşterinin sıra geçmişini görüntülemek için:
 
-1. Iş Ortağı Merkezi [panosunda](https://partner.microsoft.com/dashboard/home)oturum açın.
+1. İş Ortağı Merkezi [panosunda](https://partner.microsoft.com/dashboard/home) oturum açın.
 2. Sol taraftaki menüde **müşteriler**' i seçin.
 3. **Müşteriler** sayfasında, sipariş geçmişini görüntülemek istediğiniz müşteriyi bulun. Müşterinin kaydını genişletmek için aşağı oku seçin.
 4. Müşterinin sıra geçmişini görüntülemek için **siparişleri görüntüle** ' yi seçin.

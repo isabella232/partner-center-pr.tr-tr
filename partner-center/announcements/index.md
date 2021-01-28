@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 01/04/2021
-ms.openlocfilehash: 205f882cccb2375a7ad2681556103e39b9a88185
-ms.sourcegitcommit: e5f48e327d91f358778b3216f24087db412cb21f
+ms.date: 01/27/2021
+ms.openlocfilehash: 6001199d4da9d000f82f16f9fcf2f945c3c3e08b
+ms.sourcegitcommit: fc1f9cb5a542bdc92d62d2a7e1ab2f4e69903e49
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/23/2021
-ms.locfileid: "98717854"
+ms.lasthandoff: 01/28/2021
+ms.locfileid: "98924925"
 ---
 # <a name="partner-center-announcements"></a>İş Ortağı Merkezi duyuruları
 
@@ -22,17 +22,18 @@ ms.locfileid: "98717854"
 
 | **Kategori** | **Ocak 2021 duyuruları** | **Duyurulan** |
 |---------|:---------|:---------|
-|Özellikler|[DAP için iki yeni Işlem türü dahil etmek için iş ortağı merkezi denetim günlüğü değişiklikleri](2021-january.md#13)|25 Ocak|
-|Özellikler|[CSP 'de Azure için Azure teklif kullanılabilirliği ile ilgili olarak CSP 'deki yeni ticari deneyim ile ilgili değişiklikler](2021-january.md#12)|21 Ocak|
-|İşinizi Büyütme|[Genel kullanıma sunulan Bulut Çözümü Sağlayıcısı programındaki kalıcı yazılım ](2021-january.md#11)|19 Ocak|
-|İşinizi Büyütme|[Anımsatıcı: İş Ortağı Merkezi API’lerini çağıran iş ortakları için API azaltma kullanıma sunuldu](2021-january.md#10)|19 Ocak|
-|Teklifler/Pazarlar|[Güvenlik, Uyumluluk ve Kimlik (SCI) 1 Şubat 2021’de kullanıma sunulacak](2021-january.md#9)|15 Ocak|
-|Özellikler|[Microsoft İş Ortağı Sözleşmesi (MPA) olan iş ortakları için DocuSign’dan Adobe Sign’a geçiş](2021-january.md#8)|15 Ocak|
-|Teklifler/Pazarlar|[Norveç kronu için ticari fiyatlandırma güncelleştirmesi](2021-january.md#7)|14 Ocak|
-|Teklifler/Pazarlar|[Hindistan Rupisi için ticari fiyatlandırma güncelleştirmesi](2021-january.md#6)|8 Ocak|
-|Teklifler/Pazarlar|[1 Şubat 2021 için Arama Planı ve Telefon Sistemi güncelleştirmeleri](2021-january.md#5)|8 Ocak|
-|Teklifler/Pazarlar|[Ocak 2021 için lisansa dayalı fiyat listesi güncelleştirmeleri](2021-january.md#4)|8 Ocak|
-|Modern Çalışma Alanı|[Yeni ticari teklifler için AB/EFTA İş Ortağı Fatura Para Birimi Değişikliği](2021-january.md#3)|7 Ocak|
+|Modern Çalışma Alanı|[Yeni ticari teklifler için AB/EFTA İş Ortağı Fatura Para Birimi Değişikliği](2021-january.md#14)|27 Ocak|
+|Özellikler|[Microsoft Iş ortağı Sözleşmesi (MPA) – dolaylı satıcı güncelleştirme & yeni SSS](2021-january.md#13)|27 Ocak|
+|Özellikler|[DAP için iki yeni Işlem türü dahil etmek için iş ortağı merkezi denetim günlüğü değişiklikleri](2021-january.md#12)|25 Ocak|
+|Özellikler|[CSP 'de Azure için Azure teklif kullanılabilirliği ile ilgili olarak CSP 'deki yeni ticari deneyim ile ilgili değişiklikler](2021-january.md#11)|21 Ocak|
+|İşinizi Büyütme|[Genel kullanıma sunulan Bulut Çözümü Sağlayıcısı programındaki kalıcı yazılım ](2021-january.md#10)|19 Ocak|
+|İşinizi Büyütme|[Anımsatıcı: İş Ortağı Merkezi API’lerini çağıran iş ortakları için API azaltma kullanıma sunuldu](2021-january.md#9)|19 Ocak|
+|Teklifler/Pazarlar|[Güvenlik, Uyumluluk ve Kimlik (SCI) 1 Şubat 2021’de kullanıma sunulacak](2021-january.md#8)|15 Ocak|
+|Özellikler|[Microsoft İş Ortağı Sözleşmesi (MPA) olan iş ortakları için DocuSign’dan Adobe Sign’a geçiş](2021-january.md#7)|15 Ocak|
+|Teklifler/Pazarlar|[Norveç kronu için ticari fiyatlandırma güncelleştirmesi](2021-january.md#6)|14 Ocak|
+|Teklifler/Pazarlar|[Hindistan Rupisi için ticari fiyatlandırma güncelleştirmesi](2021-january.md#5)|8 Ocak|
+|Teklifler/Pazarlar|[1 Şubat 2021 için Arama Planı ve Telefon Sistemi güncelleştirmeleri](2021-january.md#4)|8 Ocak|
+|Teklifler/Pazarlar|[Ocak 2021 için lisansa dayalı fiyat listesi güncelleştirmeleri](2021-january.md#3)|8 Ocak|
 |Özellikler|[Mevcut Eğitim müşterisi doğrulama süreci için GET ve PUT Koşullara Uygunluk API’lerinin Şubat 2021 sonu itibarıyla kullanımdan kaldırılması ve devre dışı bırakılması](2021-january.md#2)|5 Ocak|
 |Teklifler/Pazarlar|[Şubat 2021 için Dynamics 365 teklifleri](2021-january.md#1)|4 Ocak|
 | **Kategori** | **Aralık 2020 duyuruları** | **Duyurulan** |

@@ -1,5 +1,5 @@
 ---
-title: Ödemeler ve vergi profili hakkında SSS
+title: Ödeme ve vergi profilleri hakkında SSS
 description: Iş Ortağı Merkezi 'nde ödemeler ve vergi ayrıntıları hakkında sık sorulan soruların yanıtlarını alın. Geliriniz beklenenden farklı olan yanıtları içerir.
 ms.service: marketplace
 ms.subservice: partnercenter-marketplace-publisher
@@ -7,12 +7,12 @@ ms.topic: article
 author: eunjkim520
 ms.author: eunjkim
 ms.date: 11/25/2020
-ms.openlocfilehash: 3b09f0a08cd974f88afe5c5708df307830491f3f
-ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
+ms.openlocfilehash: a1dda9c49486d9da92b7f7f5623a37739736873f
+ms.sourcegitcommit: fc1f9cb5a542bdc92d62d2a7e1ab2f4e69903e49
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97492594"
+ms.lasthandoff: 01/28/2021
+ms.locfileid: "98924910"
 ---
 # <a name="common-questions-about-payouts-and-taxes"></a>Ödemeler ve vergiler hakkında sık sorulan sorular
 
@@ -128,10 +128,6 @@ Analitik siparişler ve kullanım raporları ile, ödeme işlem geçmişi raporu
 
 **Ödeme** sayfasına ve sonra da **Ödeme Listesi** bölümüne gidin. Hizmet Ücreti Vergisi olan ödeme için Hizmet Ücreti vergi formunun bağlantısı görüntülenir.
 
-#### <a name="how-do-i-download-a-withholding-tax-form-in-pdf"></a>PDF biçiminde Stopaj vergisi formunu nasıl indirebilirim?
-
-*Ödeme* sayfasına ve sonra da **Ödeme Listesi** bölümüne gidin. Ödemenin yanında stopaj vergisi formunun bağlantısı görüntülenir.
-
 #### <a name="where-do-i-find-year-end-tax-forms"></a>Yıl sonu vergi formlarını nerede bulabilirim?
 
 Yıl sonu vergi formlarınızı görüntülemek için [Profil sayfasına](https://partner.microsoft.com/dashboard/payee/profiles/partner/manage) gidin.
@@ -170,7 +166,7 @@ Bu, bedellerinizi işlenmemiş, işlenmiş veya gönderildi olarak gösterir.
 
 #### <a name="how-do-i-download-a-withholding-tax-form-in-pdf"></a>Bir stopaj vergisi formunu PDF 'ye Nasıl yaparım? indirmek mi?
 
-**Ödeme** sayfasına ve sonra da **Ödeme Listesi** bölümüne gidin. Ödemenin yanında stopaj vergisi formunun bağlantısı görüntülenir.
+**Ödeme** sayfasına ve sonra da **Ödeme Listesi** bölümüne gidin. Ödemenin yanında stopaj vergisi formunun bağlantısı görüntülenir. Bir stopaj vergisi formu yalnızca seçili teşvik programları için geçerlidir, ticari bir market ödeyine uygulanmaz.
 
 #### <a name="where-do-i-find-year-end-tax-forms"></a>Yıl sonu vergi formlarını nerede bulabilirim?
 

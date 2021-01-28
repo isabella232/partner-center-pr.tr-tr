@@ -1,7 +1,7 @@
 ---
 title: CSP programındaki dolaylı sağlayıcılarla çalışma
 ms.topic: how-to
-ms.date: 01/25/2021
+ms.date: 01/27/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Müşteri desteği ve faturalandırmayla ilgili yardım almak için dolaylı satıcıların Microsoft dolaylı sağlayıcıları (veya dağıtımlarıyla) ile nasıl çalışacağınızı öğrenin.
@@ -10,12 +10,12 @@ ms.custom: contperf-fy21q2
 author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
-ms.openlocfilehash: 7717f51504563ebb0193f693728229252827d7e3
-ms.sourcegitcommit: e99882e9b6c9b1a0f7427fb133693b1d977be76b
+ms.openlocfilehash: a2fc1fee31a72364179deee5d18f9af3c5b626fc
+ms.sourcegitcommit: fc1f9cb5a542bdc92d62d2a7e1ab2f4e69903e49
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/26/2021
-ms.locfileid: "98773442"
+ms.lasthandoff: 01/28/2021
+ms.locfileid: "98924981"
 ---
 # <a name="learn-how-to-partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Bulut çözümü sağlayıcısı programındaki dolaylı sağlayıcılarla iş ortağı hakkında bilgi edinin
 
@@ -76,30 +76,39 @@ CSP programında dolaylı bir satıcı olarak satış için gerekenler hakkında
    > [!IMPORTANT]  
    > Şirketinizin güvenliğinin ve gizliliğinin sağlanmasına yardımcı olmak için, birincil kişinize e-posta ile bir Iş Ortağı Merkezi hesabına kaydolup (1), bu e-posta adresinin şirketinize ait olduğunu doğrulayın. Birincil iletişim e-posta adresini doğruladıktan sonra, verdiğiniz bilgileri gözden geçirmemiz için devam edeceğiz. Kayıt durumu güncelleştirmelerini birincil ilgili kişiye e-posta ile göndereceğiz.
 
-5. MPN KIMLIĞINIZI Azure ID kiracınızla ilişkilendirin.
+5. MPN KIMLIĞINIZI CSP hesabınızla ilişkilendirin. 
+  CSP hesabınız ve ilişkili MPN KIMLIĞI aynı ülkede bulunmalıdır.
 
-    1. MPN hesabınızla oturum açın. **Ayarlar**  ->  **Hesap ayarları**  ->  **kuruluş profili**  ->  **tanımlayıcıları**' na gidin. MPN kimliklerinizi görüntüleyin ve ülke, CSP hesabınızın ülkesinde aynı olan birini seçin. Diğer bir deyişle, CSP hesabınız ve ilişkili MPN KIMLIĞI aynı ülkede/bölgede bulunmalıdır.
+   a. "MPN" hesabı kimlik bilgilerinizle Iş Ortağı Merkezi 'Nde oturum açın (MPN kimlik bilgileriniz CSP kimlik bilgilerinizle farklı olabilir).
+   
+   b. **Ayarlar**  ->  **Hesap ayarları**  ->  **kuruluş profili**  ->  **tanımlayıcıları**' na gidin.
+ 
+    c. Bu CSP hesabının ülkimiyle eşleşen "konum" türündeki MPN KIMLIĞINI bulun. 
+
+    d. Kullanmak istediğiniz CSP hesabıyla eşleşen MPN KIMLIĞI konumunu bulamazsanız yeni bir MPN KIMLIĞI oluşturacak yeni bir konum ekleyebilirsiniz. Daha fazla bilgi edinin, [konumları yönetin](manage-locations.md).
+
+    e. Bu adımı şimdilik erteleyebilirsiniz; ancak, MPN KIMLIĞINIZI CSP hesabınızla ilişkilendirmeyi tamamlayana kadar, Microsoft Iş ortağı Sözleşmesi (MPA) veya Transact 'yı CSP 'de imzalayamayabileceksiniz.
     
      
  > [!IMPORTANT]  
-   > CSP hesabınızla aynı ülkede/bölgede bulunan MPN KIMLIĞINI seçin.
+   > CSP hesabınızla aynı ülkede bulunan MPN KIMLIĞINI seçin.
 
-6. Iş Ortağı Merkezi hesabınız kullanıma hazırsa, Yönetim Aracısı grubuna eklendiğinizi doğrulayın. Diğer kullanıcıları ekleme dahil olmak üzere hesabınızı ayarlamayı tamamlaması için yönetici Aracısı izinlerinizin olması gerekir. İzinlerinizi görüntülemek veya güncelleştirmek için şu adımları izleyin:
+6. Microsoft, 3-5 iş günü süren kayıt doğrulamanızı tamamladıktan sonra, genel yönetici kimlik bilgilerini kullanarak [Iş Ortağı Merkezi panosuna genel bakış](https://partner.microsoft.com/pcv/dashboard/overview) ' da Microsoft Iş ortağı Sözleşmesi ' ni imzalayın. **Microsoft Iş ortağı sözleşmesi** 'ni imzalamadan önce görüntüleyip indirmek için aşağıda gösterildiği gibi Microsoft Iş ortağı sözleşmesi bağlantısına tıklayın.  Hesabınız 5 iş günü sonra doğrulandığından, [Hesap doğrulama işlemini](verification-responses.md)okuyun.
+
+
+:::image type="content" source="images/agreement-three.png" alt-text="Yeni MPA sözleşmesi konumu":::
+
+ 
+7. Iş ortağı profilinin **Program bilgileri** bölümünde Microsoft Iş ortağı Sözleşmesi ' ni imzaladığınızı doğrulayın. Ayrıca, CSP Genel Bakış sayfasında bir onay başlığı bildirimi görürsünüz. 
+
+:::image type="content" source="images/mpagreen.png" alt-text="Yeşil kabul edilen başlık":::
+
+
+8. Iş Ortağı Merkezi hesabınız kullanıma hazırsa, Yönetim Aracısı grubuna eklendiğinizi doğrulayın. Diğer kullanıcıları ekleme dahil olmak üzere hesabınızı ayarlamayı tamamlaması için yönetici Aracısı izinlerinizin olması gerekir. İzinlerinizi görüntülemek veya güncelleştirmek için şu adımları izleyin:
 
    1. Iş Ortağı Merkezi panosunda, **Ayarlar** simgesini seçin ve ardından **Hesap ayarları** altında **Kullanıcı yönetimi**' ni seçin.
 
    2. Kullanıcı listesinden adınızı seçin. Daha sonra seçili değilse **yönetici Aracısı** ' nı seçin. **Güncelleştir**’i seçin.
-
-## <a name="all-indirect-resellers-need-to-sign-the-microsoft-partner-agreement"></a>Tüm dolaylı satıcıların Microsoft Iş ortağı sözleşmesi 'ni imzalaması gerekir
-
-1.  Henüz Iş ortağı üyeliği merkezinden Iş Ortağı Merkezi 'ne Taşınmadıysanız, şimdi bunu yapın. Iş Ortağı Merkezi 'ne geçme hakkında yardım için, [PMC 'Den Iş Ortağı Merkezi 'ne geçiş kılavuzunu](guide-to-migration.md)okuyun. 
-
-2.  Bir Iş Ortağı Merkezi Üyelik hesabınız (MPN KIMLIĞI) varsa, yine de bulut çözümü sağlayıcısı programına resmi olarak kayıt yapmanız gerekir. Üyelik durumunuzu denetlemek için [**Iş ortağı profilinize**](https://partner.microsoft.com/pcv/accountsettings/partnerprofile) gidin ve hesap türünü onaylayın. Ardından [, CSP 'de dolaylı bir satıcı olarak kaydolun](enrolling-in-the-csp-program.md). Dolaylı bir satıcı olarak kaydolduktan sonra, [dolaylı SAĞLAYıCııNıZDAN CSP ilişki isteğini kabul edin](indirect-reseller-tasks-in-partner-center.md).
-
-3.  Iş Ortağı Merkezi 'ne dolaylı bir satıcı olarak kaydolduysanız, genel yönetici kimlik bilgilerini kullanarak [Iş Ortağı Merkezi panosuna genel bakış](https://partner.microsoft.com/pcv/dashboard/overview) ' da Microsoft Iş ortağı Sözleşmesi ' ni kabul edin. Iş ortağı profilinin **Program bilgileri** bölümünde Microsoft Iş ortağı Sözleşmesi ' ni imzaladığınızı doğrulayın. Ayrıca, CSP Genel Bakış sayfasında bir onay başlığı bildirimi görürsünüz. 
-
-:::image type="content" source="images/mpagreen.png" alt-text="Yeşil kabul edilen başlık":::
-
 
 ## <a name="connect-with-an-indirect-provider"></a>Dolaylı sağlayıcıyla bağlantı kurma
 
@@ -145,3 +154,4 @@ CSP dolaylı satıcısı olarak yasal iş konumunuz, iş yapabileceğiniz dolayl
 - [Doğrulama süreci hakkında bilgi edinin](verification-responses.md)
 
 - [Bkz. doğrudan fatura ortağı gereksinimleri](direct-partner-new-requirements.md)
+- [Microsoft İş Ortağı Sözleşmesi](microsoft-partner-agreement.md)

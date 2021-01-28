@@ -9,12 +9,12 @@ author: khpavan
 ms.author: sakhanda
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e230cc0d8ff3afea4bf2cc7b55d3847814696af6
-ms.sourcegitcommit: f99424919f0d77bbe4f44293d84f9ea1e3317f13
+ms.openlocfilehash: 819f90ca9a8467de4a8001a1b10f8409d3fb1b81
+ms.sourcegitcommit: fc1f9cb5a542bdc92d62d2a7e1ab2f4e69903e49
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/21/2021
-ms.locfileid: "98658442"
+ms.lasthandoff: 01/28/2021
+ms.locfileid: "98925008"
 ---
 # <a name="new-commerce-experience-in-csp---azure-billing"></a>CSP'de yeni ticari deneyim - Azure faturalama 
 
@@ -36,7 +36,7 @@ Bu makalede, Azure planına yönelik faturalandırma ile ilgili fatura ve mutaba
 
 - **Fatura ödeme dönemi**: net 60 gün.
 
-- **Fatura para birimi**: iş ortakları müşterinin countryatanmı para biriminde faturalandırılmaya devam edecektir. Örneğin, faturalanmış iş ortağı UK, Norveç ve Almanya 'daki müşterilerle Irlanda 'da ise, faturalandırılan iş ortağı bir GBP, NOK ve Euro/keşfi EUR alır.
+- **Fatura para birimi**: 15 Ocak 2021 tarihinden ıtıbaren, AB/EFTA ve Birleşik Krallık bölgesindeki iş ortakları, yeni müşteriler ve mevcut CSP müşterileri, kiracıların 11 Mayıs 2020 ' den önce oluşturulduğu ilk kez yeni ticaret teklifleri satın alarak, iş ortağı konumu para birimi 'nde satın alma işlemleri için faturalandırılır. AB/EFTA ve UK bölgesinin dışında bulunan iş ortakları, iş ortağı konumu para birimiyle faturalandırılmaya devam edecektir.
 
 - **Partner teşvikleri**: fatura ayının sonundan itibaren ödenen 45 gün.
 

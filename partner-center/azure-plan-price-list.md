@@ -9,12 +9,12 @@ author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 02cea980626ec32d3dd60f646b1f8744130792ea
-ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
+ms.openlocfilehash: f11031c6071dadb427d2d5b93edd90af1a844131
+ms.sourcegitcommit: fc1f9cb5a542bdc92d62d2a7e1ab2f4e69903e49
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "96534735"
+ms.lasthandoff: 01/28/2021
+ms.locfileid: "98924977"
 ---
 # <a name="price-list-for-the-new-commerce-experience-in-csp-for-azure"></a>Azure için CSP'de yeni ticari deneyim için fiyat listesi
 
@@ -27,7 +27,7 @@ ms.locfileid: "96534735"
 - Satış Aracısı
 - Kullanıcı Yönetimi Yöneticisi
 
-CSP 'de yeni Azure Ticaret deneyiminin fiyat listesi Iş Ortağı Merkezi ' nde gönderilir. Fiyat listesi, gerçek zamanlı doğru bir dosyada dinamik olarak dağıtılır ve fiyatlar yalnızca USD olarak gösterilir. Ancak faturalandırma, müşterinin para birimi konumu için geçerli olan desteklenen para biriminde yapılır. Müşterinin para birimi konumunda faturalandırma hakkında daha fazla bilgi için [Azure planı-faturalandırma](azure-plan-billing.md)makalesini okuyun.
+CSP 'de yeni Azure Ticaret deneyiminin fiyat listesi Iş Ortağı Merkezi ' nde gönderilir. Fiyat listesi, gerçek zamanlı doğru bir dosyada dinamik olarak dağıtılır ve fiyatlar yalnızca USD olarak gösterilir. 25 Ocak 2021 tarihinden itibaren, AB/EFTA ve Birleşik Krallık bölgesindeki iş ortakları, yeni müşteriler ve mevcut CSP müşterileri, kiracıların 11 Mayıs 2020 ' den önce oluşturulduğu ilk kez yeni ticaret teklifleri satın alarak, iş ortağı konumu para birimi için bu Satınalmalar için faturalandırılır.  AB/EFTA ve UK bölgesinin dışında bulunan iş ortakları, iş ortağı konumu para biriminde faturalandırılmaya devam edecektir, [Azure planı-faturalandırma](azure-plan-billing.md)' i okuyun.
 
 ## <a name="see-pricing-for-subscriptions-under-the-azure-plan-pricing"></a>Azure plan fiyatlandırması kapsamında abonelikler için fiyatlandırmayı inceleyin
 
