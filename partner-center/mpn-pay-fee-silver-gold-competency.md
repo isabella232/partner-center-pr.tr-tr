@@ -1,19 +1,19 @@
 ---
 title: MPN uzmanlığına yönelik ücret ödeyin
 ms.topic: how-to
-ms.date: 01/26/2021
+ms.date: 01/28/2021
 description: Ücret ödemesinin veya bir veya daha fazla gümüş ya da altın Uzmanlıklar ile ilişkili ödeme ayrıntılarını ödeme veya güncelleştirme hakkında bilgi edinin.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
-ms.openlocfilehash: 0ad807f958dd568fe098e341b80429bf517fb87d
-ms.sourcegitcommit: 06c272d86722a2315a65aa536fb32727aab5178d
+ms.openlocfilehash: 490cb13b99b15f9c88fdab4d7bca79d1ab018eca
+ms.sourcegitcommit: 98f41b32c39adad83ed29050084d2d31057b7c2e
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "98921226"
+ms.lasthandoff: 01/29/2021
+ms.locfileid: "99042693"
 ---
 # <a name="how-to-pay-the-fee-associated-with-a-silver-or-gold-competency"></a>Gümüş veya altın uzmanlık ile ilişkili ücreti ödeyin
 
@@ -25,7 +25,7 @@ ms.locfileid: "98921226"
 Bu makalede, bir gümüş veya altın Microsoft İş Ortağı Ağı uzmanlığa göre ilgili ücretin nasıl ve ne zaman ödenmediği açıklanır. Makalede ayrıca tercih edilen ödeme yönteminin nasıl değiştirileceği, bir siparişin nasıl iptal edildiği ve bir gümüş ' den altın uzmanlığa geçiş yaparken yüzde 25 ' lik bir ücret indiriminin nasıl alınacağı açıklanmaktadır.
 
 > [!NOTE]
-> Gümüş veya altın uzmanlık, kullanılabilir belirli uzmanlık alanı ve bunların benzersiz gereksinimleri hakkında daha fazla bilgi edinmek için bkz. [Microsoft iş ortağı ağı Uzmanlıklar](https://partner.microsoft.com/membership/competencies). Ayrıca, kullanılabilir her bir uzmanlığa yönelik avantajlar hakkında daha fazla bilgi edinmek için Microsoft İş Ortağı Ağı [Uzmanlıklar için lisans tabloları] kontrol edebilirsiniz.
+> Gümüş veya altın uzmanlık, kullanılabilir belirli uzmanlık alanı ve bunların benzersiz gereksinimleri hakkında daha fazla bilgi edinmek için bkz. [Microsoft iş ortağı ağı Uzmanlıklar](https://partner.microsoft.com/membership/competencies). Ayrıca, tüm kullanılabilir uzmanların avantajları hakkında daha fazla bilgi edinmek için Microsoft İş Ortağı Ağı [lisans tablolarını](https://assetsprod.microsoft.com/mpn-maps-software-iur-competency-license-table.docx) da denetleyebilirsiniz.
 
 ## <a name="meet-a-competencys-requirements-and-pay-the-fee"></a>Uzmanlığa yönelik gereksinimleri karşılayın ve ücreti ödeyin
 
@@ -43,7 +43,7 @@ Aksi takdirde, bir gümüş veya altın uzmanlık ücretini ödemek için bu ad�
 
 2. Gezinti menüsünden [Üyelik teklifleri](https://partner.microsoft.com/dashboard/mpn/offers) ' ni seçin. 
 
-3. **Satın alma için sunulan teklifler**' in altında, belirli uzmanlarınız Ile ilişkili gümüş üyelik * * kutucuğunu veya **altın üyelik** kutucuğunu bulun. 
+3. **Satın alma için sunulan teklifler** altında, belirli uzmanlarınız Ile ilişkili **gümüş üyelik** kutucuğunu veya **altın üyelik** kutucuğunu bulun. 
 
 4. Belirli gümüş veya altın üyelik kutucuğunun sağ alt köşesinde bulunan **abone ol** seçeneğini belirleyin.
 
@@ -54,7 +54,7 @@ Aksi takdirde, bir gümüş veya altın uzmanlık ücretini ödemek için bu ad�
 
 4. **Satın alma ayrıntıları** sayfasında, ayrıntılarınızı gözden geçirin ve onaylayın.
 
-   (Şirketinizin [ **vergi kimliği** bilgilerini](https://docs.microsoft.com/partner-center/organization-tax-info) güncelleştirme hakkında daha fazla bilgi edinin veya şirketinizin [Fatura adresini şirket adresine veya **satıma göre faturalandırın**](https://docs.microsoft.com/partner-center/mpn-get-action-pack).
+   (Şirketinizin [ **vergi kimliği** bilgilerini](https://docs.microsoft.com/partner-center/organization-tax-info) güncelleştirme hakkında daha fazla bilgi edinin veya şirketinizin [ **Fatura/satımı** şirket adresine](https://docs.microsoft.com/partner-center/mpn-get-action-pack)
 
    :::image type="content" source="images/offers/2-mpn-competency-payment-preference.png" alt-text="Üyelik, ödeme tercihleri içeren satın alma ayrıntıları sayfası sunar." border="false":::
 
@@ -130,7 +130,7 @@ Gümüş veya altın üyelik ücretinizi elektronik tel aktarım aracılığıyl
 
    :::image type="content" source="images/offers/7-mpn-competency-payment-upload-proof.png" alt-text="Seçilebilir bir seçeneği göstermek için alanları olan Ayrıntılar sayfası, satın alınan her teklif için ödeme kanıtını karşıya yükleyin." border="false":::
 
-1. Son elektronik fon transferi hareketiyle ilgili, **ödeme tarihi**, * hesap numarası * * ve **işlem/başvuru No** gibi diğer alanlara ilişkin bilgileri doldurun.
+1. **Ödeme tarihi**, **hesap numarası ödeme** ve **işlem/başvuru No** gibi son elektronik fon transferi hareketiyle ilgili diğer alanlara ilişkin bilgileri doldurun.
 
   İsteğiniz başarılı bir şekilde tamamlandığını söyleyen yeşil bir ileti görünebilir.
 

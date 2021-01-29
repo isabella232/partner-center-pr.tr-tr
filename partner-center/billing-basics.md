@@ -1,7 +1,7 @@
 ---
 title: Iş Ortağı Merkezi faturalandırmaya genel bakış
 ms.topic: article
-ms.date: 05/05/2020
+ms.date: 01/28/2021
 description: Iş Ortağı Merkezi 'nde CSP iş ortakları için temel faturalandırma ve fatura bilgilerini öğrenin. Müşterilerin faturalandırılma ve faturanızı nasıl bulacağınızı ve okuyabileceğinizi içerir.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d34a264f366cc21109bb0f0ae379d34130f6f590
-ms.sourcegitcommit: fc1f9cb5a542bdc92d62d2a7e1ab2f4e69903e49
+ms.openlocfilehash: 21cc9ddcffe2e9a29e920e235e79a5ce0bbd86b8
+ms.sourcegitcommit: 98f41b32c39adad83ed29050084d2d31057b7c2e
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/28/2021
-ms.locfileid: "98924938"
+ms.lasthandoff: 01/29/2021
+ms.locfileid: "99042727"
 ---
 # <a name="billing-overview-for-csp-program-partners-working-in-partner-center"></a>İş Ortağı Merkezi’nde çalışan CSP programı iş ortakları için faturalamaya genel bakış 
 
@@ -86,6 +86,8 @@ Kredi veya ayarlama uygulandıktan sonra, bir sonraki fatura faturanızda **ayar
 Ödeme koşulları net 60 gündür. Faturaların faturalandırılması gerekir (Faturalandırma tarihinden 60 gün sonra) veya hesabınız, CSP 'deki kaydınız etkileyebilecek şekilde ücretlendirilecektir. 
 
 Vadesi geçmiş miktardan ödeme yaptığınızda askıya alınmış hesaplarınızın tam işlevselliğini geri kazanabilirsiniz.
+
+Düzeltilen faturalandırma bilgileri sağlandığında, ödeme ortağı merkezi faturalama sayfasında 5 iş günü içinde görünür olacaktır.
 
 ### <a name="taxes-and-vat"></a>Vergiler ve KDV
 

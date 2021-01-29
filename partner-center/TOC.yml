@@ -84,7 +84,10 @@
           displayName: mpn
         - name: Avantajlar hakkında SSS'ler
           href: benefits-faq.md
-          displayName: 'renew, license, mpn'
+          displayName: 'renew, license,'
+        - name: Azure ve bulut avantajları
+          href: mpn-benefits-azure-cloud.md
+          displayname: 'activate, azure license, mpn, renew'
     - name: Marketplace Rewards
       href: marketplace-rewards.md
     - name: Yazılım Güvencesi

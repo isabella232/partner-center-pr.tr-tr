@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 01/20/2021
-ms.openlocfilehash: 555ccc81fcce924b44d6e4da5db3e3ff4aeb87d7
-ms.sourcegitcommit: fc1f9cb5a542bdc92d62d2a7e1ab2f4e69903e49
+ms.date: 01/28/2021
+ms.openlocfilehash: 2879a129879f894da89f57dc79366d2122a4a160
+ms.sourcegitcommit: 98f41b32c39adad83ed29050084d2d31057b7c2e
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/28/2021
-ms.locfileid: "98924886"
+ms.lasthandoff: 01/29/2021
+ms.locfileid: "99042744"
 ---
 # <a name="january-2021-announcements"></a>Ocak 2021 duyuruları
 
@@ -26,7 +26,7 @@ Bu sayfada, Ocak 2021 için Microsoft Iş Ortağı Merkezi duyuruları ayrıntı
 
 _____________ 
 
-## <a name="phase-1-now-live-euefta--uk-change-of-partner-billing-currency-for-new-commerce-offers"></a><a name="14"></a> Aşama 1 artık canlı: AB/EFTA & UK Birleşik Krallık, yeni ticaret teklifleri için Iş ortağı faturalandırma para birimi değişikliği
+## <a name="phase-1-now-live-euefta--uk-change-of-partner-billing-currency-for-new-commerce-offers"></a><a name="15"></a> Aşama 1 artık canlı: AB/EFTA & UK Birleşik Krallık, yeni ticaret teklifleri için Iş ortağı faturalandırma para birimi değişikliği
 
 ### <a name="categories"></a>Kategoriler
 
@@ -87,6 +87,74 @@ Bu bildirimle ilgili sorular için [Iş Ortağı Merkezi desteğiyle](https://pa
 - 28 Ocak 2021: 
     -    Duyurun 1. aşaması canlı 
     -    Birleşik Krallık, AB/EFTA dahil edilirken, [Microsoft Avrupa bölgesinin ve pazarın](https://docs.microsoft.com/partner-center/regional-authorization-overview) bir parçasıdır ve bundan etkilenir
+
+
+________________
+## <a name="changes-to-the-cloud-solution-provider-csp-customer-onboarding-requirements"></a><a name="14"></a> Bulut çözümü sağlayıcısı (CSP) müşteri ekleme gereksinimleriyle yapılan değişiklikler
+
+### <a name="categories"></a>Kategoriler
+
+- Tarih: 2021-01-28
+- Gelişmiş güvenlik ve uyumluluk
+
+### <a name="impacted-audience"></a>Etkilenen hedef kitle
+
+CSP doğrudan fatura ortakları ve sonraki bölümde listelenen ülkelerde yeni veya mevcut müşterileri olan dolaylı sağlayıcılar.
+
+### <a name="summary"></a>Özet
+
+İş ortakları ve müşterilerin, güveni temel alarak iş çalıştırmasına yardımcı olma taahhüdünün bir parçası olarak, 2021 Mart 'ta geçerli olan ek müşteri bilgileri isteyeceğiz.
+
+### <a name="details"></a>Ayrıntılar
+
+Microsoft, güvende çalışır. CSP programında deneyimidir müşteri abonelikleri için uyumlu, güvenli ve güvenli bir müşteri doğrulama yöntemi sağlamayı taahhüt ediyoruz. Mart 2021 ' ün sonunda, aşağıdaki ölçütlerin her ikisini de karşılayan iş ortaklarını etkileyecek Iş Ortağı Merkezi API 'SI ve Kullanıcı arabirimi (UI) geliştirmeleri sunuyoruz:
+
+1. İş ortağı Microsoft ile doğrudan faturalandırma ilişkisine sahiptir (Bu, ortağın doğrudan bir fatura ortağı veya dolaylı bir sağlayıcı olduğu anlamına gelir).
+2. İş ortağı aşağıdaki ülkelerde yeni veya mevcut müşteriler ile iş yapar:
+    - Tayland
+    - Vietnam
+    - Türkiye
+    - Polonya
+    - Güney Afrika
+    - Hindistan
+    - Brezilya
+    - Irak
+    - Myanmar
+    - Güney Sudan
+    - Suudi Arabistan
+    - Birleşik Arap Emirlikleri
+    - Venezuela
+
+Ölçütlere uyan iş ortaklarının, yeni müşterileri eklerken veya mevcut müşteri ayrıntılarını değiştirirken müşterinin **yasal tanımlayıcısını** (müşterinin **kuruluş** adı olarak da bilinir) ve **telefon numarasını** göndermesi gerekir. Ayrıca bu iş ortakları müşteri için isteğe bağlı bir **ikinci ad** da girebilir.
+
+Aşağıdaki ülkelerde yeni veya mevcut müşteriler ile iş yapan iş ortakları, Kasım 2020 ' de daha önceki bir sürüm ile zaten eklendi.
+
+- Ermenistan
+- Azerbaycan
+- Belarus
+- Macaristan
+- Kazakistan
+- Kırgızistan
+- Moldova
+- Rusya
+- Tacikistan
+- Ukrayna
+- Özbekistan
+
+Dünyanın geri kalanında müşterilere sahip iş ortakları, 2021 Mart 'ın sonunda, müşteriler için isteğe bağlı ayrıntılar olarak **yasal tanımlayıcı**, **telefon numarası** ve **Orta adı** girme yeteneğine sahip olacaktır.
+
+### <a name="next-steps"></a>Sonraki adımlar
+
+- Daha ayrıntılı rehberlik için, adanmış [iş ortağı koleksiyonundaki](https://partner.microsoft.com/resources/collection/additionalfields-csp-customers-selected-geos#/) (oturum açma gerekir) Teknik belgeleri ve sık sorulan soruları gözden geçirin.
+- Iş Ortağı Merkezi API 'sini ve Web kullanıcısı deneyimini kullanarak değişiklikleri dahil etmek için hazırlanın. API/SDK 'lar test için kullanılabilir olacak.
+- Yeni müşterileri eklerken veya mevcut müşteri ayrıntılarını değiştirirken ek verileri gönderdiğinizden emin olun.
+- Bir denetim masası satıcısı (CPV) çözümü kullanıyorsanız, CPV 'nize başvurun.
+
+### <a name="questions"></a>Sorularınız mı var?
+
+Yasal tanımlayıcıyla (ıNN veya tın olarak da bilinir) ilgili sorularınız varsa vergi danışmanınıza veya yerel vergi ofisine başvurun. Microsoft, vergi konusunda önemli yönergeler sağlayamaz.
+
+Microsoft ile işlemlerinizi kullanmanız gerekiyorsa, [bir hizmet isteği açın](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=aa679372-d996-73df-e244-cb28bbbf28e8) (oturum açma gerekir).
 
 ________________
 ## <a name="microsoft-partner-agreement-mpa--indirect-reseller-update--new-faqs"></a><a name="13"></a> Microsoft Iş ortağı Sözleşmesi (MPA) – dolaylı satıcı güncelleştirme & yeni SSS 
@@ -453,7 +521,7 @@ Tam duyuru yalnızca Microsoft Iş ortakları tarafından kullanılabilir. [Tam 
 
 ________________
 
-## <a name="calling-plan-and-phone-system-updates-for-february-1-20201"></a><a name="4"></a>1 Şubat 20201 ' de plan ve telefon sistem güncelleştirmeleri çağrılıyor
+## <a name="calling-plan-and-phone-system-updates-for-february-1-2021"></a><a name="4"></a>1 Şubat 2021 ' de plan ve telefon sistem güncelleştirmeleri çağrılıyor
 
 ### <a name="categories"></a>Kategoriler
 
