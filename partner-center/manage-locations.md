@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e39f264485e71c5a96916c224c0ea1a85c17a55b
-ms.sourcegitcommit: fc1f9cb5a542bdc92d62d2a7e1ab2f4e69903e49
+ms.openlocfilehash: 21d82fc3ec4470d4941d3ca7436089d3e892439e
+ms.sourcegitcommit: 81017727107a907bf1f3246097b51667d7c5fb18
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/28/2021
-ms.locfileid: "98925023"
+ms.lasthandoff: 01/30/2021
+ms.locfileid: "99098899"
 ---
 # <a name="manage-your-mpn-account-locations-and-add-a-new-location"></a>MPN hesap konumlarını yönetin ve yeni bir konum ekleyin
 
@@ -47,6 +47,20 @@ Yeni bir CSP iş hesabı eklemek için önkoşulları karşıladığından emin 
  >**Yeni** CSP hesabının **Yeni** kimlik bilgileriyle oturum açmayı unutmayın. Mevcut kimlik bilgilerinizi, Iş Ortağı Merkezi zaten bir hesap varmış gibi tanıyacak şekilde kullanmayacaktır.
 
 2. Microsoft Iş ortağı sözleşmesi 'Ni kabul edin ve hesabı etkinleştirin.
+
+## <a name="view-your-mpn-locations"></a>MPN konumlarınızı görüntüleyin
+
+1. MPN hesabı kimlik bilgilerinizle Iş Ortağı Merkezi [panosunda](https://partner.microsoft.com/dashboard/home) oturum açın. (MPN kimlik bilgileriniz CSP kimlik bilgilerinizle farklı olabilir) 
+ 
+1. **Ayarlar** simgesinden **Hesap ayarları**, **kuruluş profili**, **yasal**' ı seçin. 
+
+1. **Iş ortağı** sekmesinde, GEÇIRILEN konumları PMC 'den düzelmenizi isteyen bir başlık hata iletisi bulunmadığını doğrulayın. Varsa, yönergeleri izleyin ve bu konumları onarın. 
+
+3. Bir hata mesajı yoksa,  **Ayarlar**' dan  **Hesap ayarları**, **kuruluş profili**, **tanımlayıcılar**' ı seçin.
+
+4. "Location" türünde, bu CSP hesabının ülkesiyle eşleşen MPN KIMLIĞINI bulun ve bunu aşağıda aramak ve ilişkilendirilmesi için kullanmak üzere kullanın.
+
+5. Kullanmak istediğiniz CSP hesabıyla eşleşen MPN KIMLIĞI konumunu bulamazsanız yeni bir MPN KIMLIĞI oluşturacak yeni bir konum ekleyebilirsiniz. Aşağıda **BIR MPN konumu ekleme** bölümüne bakın.
 
 ## <a name="add-an-mpn-location"></a>MPN konumu ekleme
 

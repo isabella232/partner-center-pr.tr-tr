@@ -1,19 +1,19 @@
 ---
 title: CSP tek seferlik satın alma işlemleri için keşfi dosya alanları
 ms.topic: conceptual
-ms.date: 11/10/2020
+ms.date: 01/29/2021
 description: Örnek değerler de dahil olmak üzere Iş Ortağı Merkezi 'nde CSP tek seferlik satın alma mutabakatı dosyanızdaki tüm öğeler hakkında bilgi edinin.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
-ms.openlocfilehash: 29574dad6c3dd5eedbcf93dd555509cb04144ef5
-ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
+ms.openlocfilehash: f1606cceaf9dec1f04850fd85b3924ef75bbfda0
+ms.sourcegitcommit: 81017727107a907bf1f3246097b51667d7c5fb18
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98182588"
+ms.lasthandoff: 01/30/2021
+ms.locfileid: "99098814"
 ---
 # <a name="csp-one-time-purchase-reconciliation-file-fields"></a>CSP tek seferlik satın alma mutabakatı dosya alanları
 
@@ -64,6 +64,9 @@ Karşılaştırma dosyaları hakkında daha fazla bilgi için bkz. [karşılaşt
 | PCToBCExchangeRateDate | Faturalandırma para birimine yönelik fiyatlandırma para biriminin belirlendiği tarih. | *30.09.2020* |
 | MeterDescription | Ölçüm açıklaması.  | *Tablolar-LRS depolanan veri (GB/ay)* |
 | ReservationOrderId | Rezervasyon sipariş kimliği. | *E21A6344E398FFC1C4D7...* |
+
+>[!NOTE]
+>Azure tüketiminizi tek seferlik satın alma keşfi dosyanızda mutabık hale getirebilirsiniz. Bunu yapmak için, günlük derecelendirdiğiniz kullanım keşfi dosyasına gidin ve SubscriptionID 'nizi arayın. Bu, Azure plan KIMLIĞINIZLE ilişkili tüm maliyetleri görüntüler. Azure SubscriptionID 'niz EntitlementID olarak gösterilir.
 
 ## <a name="next-steps"></a>Sonraki adımlar
 

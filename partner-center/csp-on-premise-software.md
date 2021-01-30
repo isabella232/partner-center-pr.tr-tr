@@ -1,7 +1,7 @@
 ---
 title: CSP aracılığıyla şirket içi yazılım satma
 ms.topic: how-to
-ms.date: 01/15/2021
+ms.date: 01/29/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: CSP programındaki iş ortaklarının, Iş Ortağı Merkezi 'nde müşteri adına şirket içi yazılım abonelikleri satın alma, yönetme, satma ve iptal etme işlemlerini nasıl sağlayabileceğini öğrenin.
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b1d9cddd46ac6ee23a92fab41fc41b1e7eb613a1
-ms.sourcegitcommit: c46658f4d70004596e758fe4cd8671b6e9dadeab
+ms.openlocfilehash: e0ca730da28f320de50a1990a1bcfe13b195bbbf
+ms.sourcegitcommit: 81017727107a907bf1f3246097b51667d7c5fb18
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/20/2021
-ms.locfileid: "98584172"
+ms.lasthandoff: 01/30/2021
+ms.locfileid: "99098865"
 ---
 # <a name="sell-on-premise-software-through-the-cloud-solution-provider-csp-program"></a>Bulut çözümü sağlayıcısı (CSP) programı aracılığıyla şirket içi yazılım satma
 
@@ -37,13 +37,16 @@ Yazılım aboneliklerini bir müşteri adına satın almak için müşterinin ay
 
 ## <a name="activate-and-manage-software-subscriptions"></a>Yazılım aboneliklerini etkinleştirme ve yönetme
 
-Yazılımınızı satın aldıktan sonra, sizin ve müşterilerinizin indirmeniz gerekir. Bunu yapmak için aşağıdaki yordamı kullanın. 
+Yazılımınızı satın aldıktan sonra müşterilerinizin indirmeniz gerekir. Bunu yapmak için aşağıdaki yordamı kullanın.
 
 >[!NOTE]
 >Anahtarları ve İndirmeleri almak için bir yönetim aracısı olmanız gerekir.
 
 1. Müşterinizin ayrıntı sayfasına gidin ve ardından **yazılım**' ı seçin. Müşteri adına satın aldığınız tüm yazılımların bir listesini görürsünüz.
-2. Bağlantıyı, **yazılım ürün anahtarlarına bağlantı** konumundan kopyalayıp bağlantıyı indirip müşteriyle paylaşabilirsiniz. Bu bağlantıyı seçerken, ürün anahtarlarını indirmek ve almak için Microsoft Yönetim portalına yönlendirilir.
+2. "Ayrıntılı bağlantı" nu **yazılım ürün anahtarlarına bağlantısından kopyalayın ve** bağlantıyı indirip bilgisayarınızla paylaşabilirsiniz. Bu bağlantıyı seçerken, ürün anahtarlarını indirmek ve almak için Microsoft Yönetim merkezine yönlendirilir.
+
+>[!NOTE]
+>Yalnızca müşteriler ürün anahtarlarını görebilir ve bilgileri Microsoft Yönetim Merkezi 'nde indirebilir. İş ortakları bu bilgileri göremez.
 
 Siz veya müşterileriniz lisans anahtarlarını indirme hakkında daha fazla bilgi edinmek istiyorsanız bkz. [yazılım ve ürün lisans anahtarlarını indirme](https://go.microsoft.com/fwlink/p/?linkid=2152525).
 

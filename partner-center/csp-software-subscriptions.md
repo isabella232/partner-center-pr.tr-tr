@@ -1,7 +1,7 @@
 ---
 title: CSP üzerinden yazılım aboneliği satma
 ms.topic: how-to
-ms.date: 06/18/2020
+ms.date: 01/29/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: CSP programındaki iş ortaklarının, müşteriler için Azure ayrılmış örnekleri ve sunucu abonelikleri satın almak, yönetmek, satmak ve iptal etmek için Iş Ortağı Merkezi 'ni nasıl kullanabileceği hakkında bilgi edinin.
@@ -9,16 +9,16 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bd14a82472f1a102902f1962479640b1437ef495
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 07fdc40ae9232a5cf2636b309dae45a52538edf2
+ms.sourcegitcommit: 81017727107a907bf1f3246097b51667d7c5fb18
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92531686"
+ms.lasthandoff: 01/30/2021
+ms.locfileid: "99098848"
 ---
 # <a name="sell-software-subscriptions-through-the-cloud-solution-provider-csp-program"></a>Bulut çözümü sağlayıcısı (CSP) programı aracılığıyla yazılım abonelikleri satma
 
-**Uygulama hedefi**
+**Şunlara uygulanır**
 
 - Bulut Çözüm Sağlayıcıları
 
@@ -46,7 +46,7 @@ Azure Hibrit Avantajı, Windows Server lisanslarınızdan daha fazla değer alma
 > | Amerikan Samoası     | Grenada     | Pitcairn Adaları     |
 > | Andorra     | Guadeloupe     | Reunion     |
 > | Anguilla     | Guam     | Saba   |
-> | Antarktika     | Guernsey     | Saint Barthélimy   |
+> | Antarktika     | Guernsey     | Saint Barthelemy   |
 > | Antigua ve Barbuda       | Gine     | Saint Lucia   |
 > | Aruba       | Gine-Bissau     | Saint Martin   |
 > | Azerbaycan       | Guyana     | Saint Pierre ve Miquelon   |
@@ -72,7 +72,7 @@ Azure Hibrit Avantajı, Windows Server lisanslarınızdan daha fazla değer alma
 > | Dominika     | Montserrat     | Tonga   |
 > | Ekvator Ginesi     | Mozambik     | Turks ve Caicos Adaları   |
 > | Eritre     | Myanmar     | Tuvalu   |
-> | Falkland Adaları     | Nauru     | ABD Küçük Harici Adaları   |
+> | Falkland Adaları     | Nauru     | ABD harici Adaları   |
 > | Fransız Guyanası     | Yeni Kaledonya     | Vanuatu   |
 > | Fransız Polinezyası     | Nijer     | Vatikan   |
 > | Fransız Güney Toprakları     | Niue     | Wallis ve Futuna   |
@@ -86,37 +86,28 @@ Yazılım aboneliklerini bir müşteri adına satın almak için:
 
 1. Iş Ortağı Merkezi [panosunda](https://partner.microsoft.com/dashboard)oturum açın.
 
-2. Iş Ortağı Merkezi menüsünde **müşteriler** ' i seçin ve listeden bir müşteri seçin.
+2. Iş Ortağı Merkezi menüsünde **müşteriler**' i seçin ve listeden bir müşteri seçin.
 
-3. Müşterinin ayrıntı sayfasında, **Ürün Ekle** ' yi seçin ve ardından siparişiniz için oluşturmak ve ödeme yapmak üzere ekrandaki yönergeleri uygulayın. Tüm ticari fiyatlandırma, vergiyi Avustralya ve Brezilya hariç tutar. Avustralya ve Brezilya için fiyata vergi dahildir.
+3. Müşterinin ayrıntı sayfasında, **Ürün Ekle**' yi seçin ve ardından siparişiniz için oluşturmak ve ödeme yapmak üzere ekrandaki yönergeleri uygulayın. Tüm ticari fiyatlandırma, vergiyi Avustralya ve Brezilya hariç tutar. Avustralya ve Brezilya için fiyata vergi dahildir.
 
 ## <a name="activate-and-manage-software-subscriptions"></a>Yazılım aboneliklerini etkinleştirme ve yönetme
 
-Yazılım aboneliğini satın aldıktan sonra indirmek için aşağıdaki adımları izleyin.
+Yazılımınızı satın aldıktan sonra müşterilerinizin indirmeniz gerekir. Bunu yapmak için aşağıdaki yordamı kullanın.
 
 >[!NOTE]
->Yazılım indirmek ve etkinleştirme anahtarlarını almak için bir yönetim aracısı olmanız gerekir.
+>Anahtarları ve İndirmeleri almak için bir yönetim aracısı olmanız gerekir.
 
-1. Iş Ortağı Merkezi [panosunda](https://partner.microsoft.com/dashboard)oturum açın.
-
-2. Iş Ortağı Merkezi menüsünde **müşteriler** ' i seçin ve listeden bir müşteri seçin.
-
-3. Müşterinizin ayrıntı sayfasına gidin ve ardından **yazılım** ' ı seçin. Müşteri adına satın aldığınız tüm yazılımların bir listesini görürsünüz. 
-
-4. İndirmek istediğiniz ürünü genişletin. **Ürün Seç** alanında, istediğiniz **sürümü** , **dili** ve **dosya türünü/işletim sistemini** seçin. 
-
-5. Belirli ürünleri göstermek için **Gönder** ' i seçin. 
-
-6. **Anahtarları al ve İndirmeler ' ı** seçin. 
-
-7. İndirmeye başlamak için **İndir** ' i seçin veya bağlantıyı kopyalayıp müşteriye göndermek Için **Bağlantıyı Kopyala** ' yı seçin. 
+1. Müşterinizin ayrıntı sayfasına gidin ve ardından **yazılım**' ı seçin. Müşteri adına satın aldığınız tüm yazılımların bir listesini görürsünüz.
+2. "Ayrıntılı bağlantı" nu **yazılım ürün anahtarlarına bağlantısından kopyalayın ve** bağlantıyı indirip bilgisayarınızla paylaşabilirsiniz. Bu bağlantıyı seçerken, ürün anahtarlarını indirmek ve almak için Microsoft Yönetim merkezine yönlendirilir.
 
 >[!NOTE]
->Bu bağlantının, ilk kez geldiği iki hafta veya 50 indirmeden sonra sona erecektir. Bağlantının süresi dolduktan sonra, bu sayfaya geri dönün ve farklı iki hafta veya 50 karşıdan yüklemesini etkinleştirmek için **anahtarları al ve** İndir ' i seçin. Bunu, gerek duyduğunuz kadar birçok kez yapabilirsiniz. 
+>Yalnızca müşteriler ürün anahtarlarını görebilir ve bilgileri Microsoft Yönetim Merkezi 'nde indirebilir. İş ortakları bu bilgileri göremez.
+
+Siz veya müşterileriniz lisans anahtarlarını indirme hakkında daha fazla bilgi edinmek istiyorsanız bkz. [yazılım ve ürün lisans anahtarlarını indirme](https://go.microsoft.com/fwlink/p/?linkid=2152525).
 
 ## <a name="server-subscription-download-and-license-keys-available-through-microsoft-365-admin-center-for-customers"></a>Sunucu aboneliği indirme ve lisans anahtarları, müşteriler için Microsoft 365 Yönetim Merkezi aracılığıyla kullanılabilir 
 
-Müşterileriniz, Microsoft 365 Yönetim merkezinden CSP sunucu aboneliği lisans anahtarları ve İndirmeleri alabilir. CSP sunucu aboneliği lisans anahtarlarını ve indirmelerini görmek için, müşterinin Microsoft 365 Yönetici Merkezi > **faturalandırma > ürün > yazılım sekmesi** ' ne gitmeniz gerekir. Daha fazla ayrıntı için [Faturalandırma bölümünde yazılım sekmesine](/microsoft-365/admin/whats-new-in-preview#billing--subscriptions)bakın.  
+Müşterileriniz, Microsoft 365 Yönetim merkezinden CSP sunucu aboneliği lisans anahtarları ve İndirmeleri alabilir. CSP sunucu aboneliği lisans anahtarlarını ve indirmelerini görmek için, müşterinin Microsoft 365 Yönetici Merkezi > **faturalandırma > ürün > yazılım sekmesi**' ne gitmeniz gerekir. Daha fazla ayrıntı için [Faturalandırma bölümünde yazılım sekmesine](/microsoft-365/admin/whats-new-in-preview#billing--subscriptions)bakın.  
 
 ## <a name="view-activity-for-software-key-access-and-software-downloads"></a>Yazılım anahtarı erişimi ve Yazılım İndirmeleri için etkinliği görüntüleme
 
@@ -129,7 +120,7 @@ Denetim veya uyumluluk amaçları için, sunucu aboneliği yazılım anahtarlar�
 
 2. Sağ üst köşedeki dişli simgesini seçin.
 
-3. Menüsünde **etkinlik günlüğü** ' nü seçin.
+3. Menüsünde **etkinlik günlüğü**' nü seçin.
 
 4. Görmek istediğiniz etkinliğin tarih aralığını girin. Etkinlik günlüğü, belirtilen süre boyunca yazılım anahtarlarına ya da yazılım indirmiş olan kullanıcıların listesini görüntüler. 
 
@@ -155,11 +146,11 @@ Satın alma işlemini iptal etmek için aşağıdaki adımları izleyin:
 
 2. Iş Ortağı Merkezi [panosunda](https://partner.microsoft.com/dashboard)oturum açın.
 
-3. Iş Ortağı Merkezi menüsünde **müşteriler** ' i seçin ve listeden bir müşteri seçin.
+3. Iş Ortağı Merkezi menüsünde **müşteriler**' i seçin ve listeden bir müşteri seçin.
 
 4. Müşteri için satın alınan yazılımların listesini görmek için müşterinin ayrıntılar sayfasında **yazılım** ' i seçin. 
 
-5. İptal etmek istediğiniz yazılım satın alma işlemini bulun ve ardından **iptal** ' i seçin. Bir iletişim kutusu görüntülenir.
+5. İptal etmek istediğiniz yazılım satın alma işlemini bulun ve ardından **iptal**' i seçin. Bir iletişim kutusu görüntülenir.
 
 6. Sıra numarası aşağı açılan listesinden, iptal etmek istediğiniz doğru sipariş KIMLIĞI numarasını seçin. (Müşterinin **Sipariş geçmişi** sayfasından sipariş veya sipariş kimliği numarası hakkında daha fazla bilgi edinebilirsiniz.)
 
@@ -194,7 +185,7 @@ Iş Ortağı Merkezi aracılığıyla bir yazılım satın alma işlemini iptal 
 
 1. Satın alma Işlemini Iptal Et penceresinden **müşteri destek talebi** bağlantısını seçtiğinizde, **iş ortağı merkezi Ile ilgili sorun bildir** sayfasında açılır.
 
-2. **Ayrıntılar** altında, sorun türü listesinde, **müşteriler adına CSP satın al/para iadesi** ' ni seçin.
+2. **Ayrıntılar** altında, sorun türü listesinde, **müşteriler adına CSP satın al/para iadesi**' ni seçin.
 
 3. Etki ve başlık alanlarını girin.
 
@@ -210,9 +201,9 @@ Iş Ortağı Merkezi aracılığıyla bir yazılım satın alma işlemini iptal 
 
 5. Kişi alanına adınızı, e-posta adresinizi ve telefon numaranızı girin.
 
-6. Herhangi bir nedenle bir dosya iliştirmeye ihtiyacınız varsa dosya **Ekle** ' yi seçin. Bu adım isteğe bağlıdır.
+6. Herhangi bir nedenle bir dosya iliştirmeye ihtiyacınız varsa dosya **Ekle**' yi seçin. Bu adım isteğe bağlıdır.
 
-7. İşiniz bittiğinde **Gönder** ' i seçin.
+7. İşiniz bittiğinde **Gönder**' i seçin.
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
