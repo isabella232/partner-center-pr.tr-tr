@@ -64,6 +64,8 @@
           displayName: 'renew, mpn'
         - name: Uygulama Geliştirme yetkinlik istisnası
           href: app-dev-isv.md
+        - name: Yetenekler raporunu kullanma
+          href: mpn-skills-report.md
     - name: Gelişmiş uzmanlıklar
       items:
         - name: Uzmanlığınızı gösterme
