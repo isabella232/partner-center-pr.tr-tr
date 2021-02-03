@@ -9,38 +9,37 @@ author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 52a1ac20b0370e1dd4a1de85087303090c1b7eb4
-ms.sourcegitcommit: e9066768ab8e242c03f0a7e3ce460ae8cd2e3fda
+ms.openlocfilehash: 7ab3d1ab3f29e01303a9a039b9e9b21b9cfad07f
+ms.sourcegitcommit: 2c8d1bca0737a3d73f2888dfeaf099176bf9e9ae
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/17/2020
-ms.locfileid: "97622210"
+ms.lasthandoff: 02/03/2021
+ms.locfileid: "99480077"
 ---
 # <a name="manage-co-sell-opportunities-in-partner-center"></a>Ortak satış fırsatlarını Iş Ortağı Merkezi 'nde yönetme
 
-**Şunlara uygulanır**
-
-- İş Ortağı Merkezi
 
 **Uygun roller**
 
 - MPN iş ortağı Yöneticisi
 - Başvuru Yöneticisi
 
-Ortak satış fırsatlarından yararlanın.  Ortak satış fırsatları, bir müşteri gereksinimini karşılayan ürünler satmak için birden fazla tarafın işbirliği yapıyor. Bu makale, Iş Ortağı Merkezi 'nde ortak satışın gücünü kullanarak yeni müşterileri etkin bir şekilde işbirliği ve satın alma işlemleri için nasıl kullanabileceğinizi anlamanıza yardımcı olur.
+Ortak satış fırsatlarından yararlanın.  Ortak satış fırsatı, bir müşteri gereksinimini karşılayan ürünler satmaya yönelik birden fazla tarafın işbirliksidir. Bu makale, Iş Ortağı Merkezi 'nde ortak satışın gücünü kullanarak yeni müşterileri etkin bir şekilde işbirliği ve satın alma işlemleri için nasıl kullanabileceğinizi anlamanıza yardımcı olur.
 
 ## <a name="types-of-co-sell-opportunities"></a>Ortak satış fırsatları türleri
 
-**Ortak satış** : Bu, bir veya daha fazla Microsoft satış temsilcisinin bir müşteri sorununu çözmeye yardımcı olmak için etkin bir şekilde çalıştığı yerdir. Fırsatlar, Microsoft satış temsilcisinin iş ortağını bir ortak satış etkinliğine veya Microsoft Sales 'ten daha fazla yardım gerektiren bir iş ortağından katılımını kapatmaları için davet ettiği bir müşteri hesabından kaynaklı olabilir.
+**Ortak satış fırsatı** : Bu, bir veya daha fazla Microsoft satış temsilcisinin bir müşteri sorununu çözmeye yardımcı olmak için etkin şekilde çalıştığı yerdir. Fırsatlar, Microsoft satış temsilcisinin iş ortağını bir ortak satış etkinliğine veya Microsoft Sales 'ten daha fazla yardım gerektiren bir iş ortağından katılımını kapatmalarını sağlamak üzere davet ettiği bir müşteri hesabından kaynaklı olabilir.
 
 **Iş ortağı (P2P)** : Bu, bir ortağın Microsoft ortak satış ekosistemindeki diğer iş ortaklarını işbirliği yapması için davet edebildiği yerdir. İş ortakları, isteğe bağlı olarak, anlaşmayı kapatmaya yardımcı olmak üzere bir Microsoft satış temsilcisini isteğe bağlı olarak davet edebilir Her iki iş ortağı ve Microsoft, tamamlanmadan önce olduğu sürece bir anlaşma oluşturulduktan sonra bile davet edilebilir. (Tamamlanmış, kayıp, reddedildi ve süre dolma dahildir).
 
-**Özel anlaşma** – bu, iş ortağının Iş Ortağı Merkezi 'nde oluşturulmuş bir anlaşma üzerinde bağımsız olarak çalışmaya karar verdiği bir çalışmadır. İş ortakları, Microsoft satıcılarına, işbirlikçi bir satış etkinliği haline getirmek üzere anlaşmayı oluşturduktan sonra davet etme seçeneğine sahiptir. Microsoft Sales yardımı iş ortağı tarafından açıkça alınana kadar, Microsoft satış ekibi ile anlaşma ayrıntıları paylaşılmaz.
+**Özel anlaşma** – bu, iş ortağının Iş Ortağı Merkezi 'nde oluşturulmuş bir anlaşma üzerinde bağımsız olarak çalışmaya karar verdiği bir çalışmadır. İş ortakları Microsoft satış ekibine görünürlük verebilir veya Microsoft satıcılarına, anlaşmayı oluşturduktan sonra etkin yardım arayan Microsoft satıcılarına davet edebilir. Microsoft satış ekibi ile ilgili ayrıntılar, soru-yanıt iş ortakları "Bu anlaşmayı görüntülemek ister misiniz?" sorusu için Evet ' i seçerek Microsoft satış ekibiyle paylaşılmaz. ya da Microsoft satış ekibi yardımını, "Microsoft 'tan ihtiyacınız olan yardım türünü belirleme" sorusunun seçeneklerinden birini seçerek isteyin.
+
+**Iş ortağı LED** 'in anlaşmasının nedeni, bir ortağın bir anlaşma üzerinde bağımsız olarak çalışmaya karar verdiği, ancak Microsoft Sales ekibi üyelerine yönelik anlaşma ayrıntılarını verme konusunda sorun olduğu anlaşmalar vardır. İş ortakları, anlaşmayı oluşturduktan sonra Microsoft satıcıları davet edebilir. Bu anlaşmalar, bir özenle uygun bir çözüm, anlaşmayı bir parçası olduğunda, anlaşma kaydı için uygundur. Uygun çözüm ölçütlerine uyulduğunda, Microsoft satıcı 'nın, anlaşma kaydı için gerekli değildir. "Microsoft satıcıların bu anlaşmayı görüntülemesini ister misiniz?" sorusuna evet yanıtını vererek bir iş ortağı olarak anlaşma sağlayabilirsiniz.
 
 **Çözüm değerlendirmesi (SA)** – bu tür anlaşmalar yalnızca, Microsoft teknolojilerini kullanan veya kullanmayı planlayan müşterilere yönelik teknoloji değerlendirmeleri gerçekleştirmeye yönelik çözüm değerlendirmesi iş ekibi tarafından taklit edilen iş ortakları tarafından oluşturulabilir.
 
 > [!NOTE]
-> Özel anlaşmalar, gerçekten işbirliksiz olmasa bile, içindeki herhangi bir işlem hattını, tüm terminal dışı aşamalarda ortak satış fırsatına yükseltmek için kolay bir yol sağlamak üzere buraya eklenmiştir (**kazanıldı, kaybedildi, reddedildi ve zaman** aşımı).
+> Özel anlaşmalar, gerçekten işbirliksiz olmasa bile, tüm terminal dışı aşamalarda (**kazanıldı, kaybedildi, reddedildi ve zaman** aşımı) bir ortak satış fırsatına yönelik bir işlem hattını yükseltmek için kolay bir yol sağlamak üzere ortak satış fırsatları sekmesine dahil edilmiştir.
 
 ## <a name="navigating-the-co-sell-section"></a>Ortak satış bölümünde gezinme
 
@@ -67,7 +66,7 @@ Ortak satış bölümüne erişmek için şu adımları izleyin:
 
 ### <a name="select-your-customer"></a>Müşteriyi seçin
 
-Bu özel anlaşma için müşteriyi seçin. Konumlarını girip adı yazmaya başlayın. Otomatik öneri, arama ölçütlerine dayalı olarak önerileri göstermeye başlar. Birçok şirket aynı konumda birden fazla iş varlığına sahip olduğundan, birden çok sonuç görebilirsiniz. Hangisini seçdiğinizden emin değilseniz, müşterinize hangi D-U-N-S numarasının ait olduğunu doğrulayabilirsiniz. Üzerinde çalıştığınız müşterinin tam eşleşmesini seçtiğinizden emin olun.
+Belirli bir anlaşma için müşteriyi seçin. Konumlarını girip adı yazmaya başlayın. Öneri kutusu, arama ölçütlerine göre önerileri göstermeye başlayacaktır. Birçok şirket aynı konumda birden fazla iş varlığına sahip olduğundan, birden çok sonuç görebilirsiniz. Hangisini seçdiğinizden emin değilseniz, müşterinize hangi D-U-N-S numarasının ait olduğunu doğrulayabilirsiniz. Çalışmakta olduğunuz müşterinin tam eşleşmesini seçtiğinizden emin olun.
 
 **Müşteriyi Seç**' e tıkladığınızda, bu anlaşma için ana kişi noktanız olan kişinin adını, telefon numarasını ve e-posta adresini girmeniz istenir. Bu ayrıntılar isteğe bağlıdır ve yalnızca Microsoft Sales 'i, görevlendirmede size yardımcı olmak üzere davet etmeyi planlıyorsanız gereklidir. **İleri**’yi seçin.
 
@@ -104,18 +103,20 @@ Bu bölümde, bu anlaşmayı bir parçası olacak çözümlerle ilgili bilgileri
 > [!Important]
 > Bir çözüm değerlendirmesi için yalnızca bir değerlendirme türü seçilebilir ve başka hiçbir çözüm eklenebilirler. Bir çözüm değerlendirmesi seçildikten sonra iş ortağının, değerlendirmenin oluşturulduğu konumu seçmesi gerekir. Bu, doğru teşvik ödemeler için gereklidir.
 
-Çözüm bilgilerini girdikten sonra, satan türe gitmek için Ileri ' yi seçin. Çözüm değerlendirmesi değil, ilk üç seçenekten çözüm seçtiyseniz üç seçeneğiniz vardır:
+Çözüm bilgilerini girdikten sonra, satan türe gitmek için Ileri ' yi seçin. Çözüm değerlendirmesi değil çözüm türünde ilk üç seçenekten çözüm seçtiyseniz dört seçeneğiniz vardır:
 
-**Özel anlaşma**: Microsoft 'u davet etmeyin ve bu adımda bir katılım oluşturursanız, özel işlem hattı türü olacaktır. Microsoft satıcıları, bu anlaşmayı ayrıntılarıyla ilgili hiçbir görünürlüğe sahip olmayacaktır.
+**Özel anlaşma**: Microsoft 'u davet etmeyin ve bu adımda bir katılım oluşturursanız, özel işlem hattı türü olacaktır. Microsoft satıcıları, bu anlaşmayı ayrıntılarıyla ilgili hiçbir görünürlüğe sahip olmayacaktır. **"Microsoft 'tan ihtiyacınız olan yardım türünü belirleme"** sorusunun **Bu zaman noktasında gerekli yardımı yok** seçeneğini belirleyerek özel bir anlaşma oluşturabilirsiniz. ve **"Microsoft satıcıların bu anlaşmayı görüntülemesini istiyor musunuz?"** sorusu için **Hayır** . Özel bir anlaşmayı, bir Terminal durumuna (kazanıldı, kaybedildi) ulaşmadan önce iş ortağı tarafından çalışan veya etkin bir ortak satış ile yükseltebilirsiniz.
 
 > [!Important]
 > Anlaşma kaydı, özel anlaşmalar için geçerli değildir. Iş Ortağı Merkezi 'nde anlaşma kaydı için uygun olmadıklarından, uygun çözümleri teşvik etmek için özel bir anlaşma oluştururken dikkatli olun.
 
-**Ortak satış satışı:** **"Microsoft 'tan istediğiniz yardım türünü belirleyin**" sorusu için varsayılan seçim dışında herhangi bir seçeneği belirlerseniz, anlaşma, Microsoft satıcının bu anlaşmayı kapatmada size yardımcı olabilecek bir ortak satış uygulamasına döner. Microsoft 'a yönelik bir Microsoft 'a yönelik bir istek, Microsoft satıcı tarafından ele alınacaktır. Microsoft satış temsilcilerinin katılmak istemeyeceğine karar vermek için 14 gün daha vardır. Notlar bölümünde, istediğiniz yardım türünü tanımladığınızdan emin olun.
+**Iş ortağı-LED**: Microsoft Sales Team 'ten herhangi bir etkin yardım aramak istemiyorsanız, ancak bu kişilere işlem hattınızda görünürlük sağlamak istiyorsanız, iş ortağı LED 'i oluşturabilirsiniz. **"Microsoft 'tan ihtiyacınız olan yardım türünü belirleme"** sorusu için **Bu süre Içinde gerekli yardımı yok ' u** seçerek iş ortağı LED 'i oluşturabilirsiniz. ve  "soru-yanıt **" Microsoft satıcıları bu anlaşmayı görüntülemesini** istiyor musunuz? Bu anlaşmalar, Microsoft satıcı iş ortağı yardımı 'nda etkin bir şekilde dahil olmasa bile, anlaşma kaydı için uygun değildir. Anlaşma kaydına yönelik gereksinimler, anlaşma için uygun bir çözüme sahip olmayı ve bu koşulların kazanılma durumunu karşılamaktadır.
+
+**Ortak satış satışı:** **"Microsoft 'tan istediğiniz yardım türünü tanımla**" sorusu için varsayılan seçim dışında herhangi bir seçeneği belirlerseniz, anlaşma, Microsoft satıcının, anlaşmayı kapatmada size yardımcı olabilecek bir ortak satış haline getirir. Microsoft 'a yönelik bir Microsoft 'a yönelik bir istek, Microsoft satıcının bu anlaşmayı karşılayacağını garanti etmez. Microsoft satış temsilcilerinin katılmak istemeyeceğine karar vermek için 14 gün daha vardır. Notlar bölümünde, istediğiniz yardım türünü tanımladığınızdan emin olun.
 
 **Iş ortağı iş ortağı (P2P) anlaşma**: davet iş ortağı bağlantısına tıklayarak diğer iş ortaklarını başa davet edebilirsiniz. P2P oluşturma süreci aşağıda verilmiştir.
 
-- **İş ortağı seçin:** Davet ortağına tıklandıktan sonra, girdiğiniz adla eşleşen iş ortakları listesini almak için iş ortağı adını yazmaya başlayacaksınız. Bu iş ortağı için ek ayrıntıları dolduracak ilgilendiğiniz iş ortağını seçin. Yalnızca Microsoft ortak satış ekosisteminde olan iş ortakları için arama yapabilir ve Iş Ortağı Merkezi 'nde deneyimidir.
+- **İş ortağı seçin:** Davet ortağına tıklandıktan sonra, girdiğiniz adla eşleşen iş ortakları listesini almak için iş ortağı adını yazmaya başlayacaksınız. Bu iş ortağı için daha fazla ayrıntı doldurması için ilgilendiğiniz iş ortağını seçin. Yalnızca Microsoft ortak satış ekosisteminde olan iş ortakları için arama yapabilir ve Iş Ortağı Merkezi 'nde deneyimidir.
 
 - **Tahmini kapanış tarihi:** Bu, davet edilen ortağın, anlaşma parçalarını tamamlamasını beklemeniz için gereken tarihtir. Tarih, yalnızca gerekli olduğunda tarihi değiştirmeyi seçebilmeniz için önceden doldurulur. Bu zorunlu bir alandır ve anlaşmayı oluşturduktan sonra davet ettiğiniz iş ortağı tarafından düzenlenebilir. Anlaşmayı oluşturduktan sonra bu alanı değiştiremezsiniz.
 
@@ -129,7 +130,7 @@ Bu bölümde, bu anlaşmayı bir parçası olacak çözümlerle ilgili bilgileri
 
 - **Yardım türünü belirler:** Yardım türünü tanımla: son olarak, davet edilen iş ortağından gereken belirli yardımı belirler.
 
-Davet etmek istediğiniz tüm iş ortakları için bu anlaşmayı bir parçası olacak şekilde tekrarlayın. İş ortağı için bir iş ortağı, Microsoft 'un hem Microsoft hem de iş ortaklarını anlaşma için davet ettiğiniz yere dahil edebilir. Ayrıca, anlaşmayı oluşturduktan sonra hem Microsoft hem de ortakları daha sonra davet edebilirsiniz.
+Bu anlaşmayı davet etmek istediğiniz tüm iş ortakları için bunu tekrarlayın. İş ortağı için bir iş ortağı, Microsoft 'un hem Microsoft hem de iş ortaklarını anlaşma için davet ettiğiniz yere dahil edebilir. Ayrıca, anlaşmayı oluşturduktan sonra hem Microsoft hem de ortakları daha sonra davet edebilirsiniz.
 
 ## <a name="responding-to-a-co-sell-opportunity"></a>Ortak satış fırsatına yanıt verme
 
@@ -149,7 +150,7 @@ Bu aşamada, bir Microsoft satıcıdan ya da Microsoft ortak satış ekosistemin
 
 ### <a name="accepted-stage"></a>Kabul edilen aşama
 
-Müşteriyle başa çıkmak için çalışın. Kabul edilen bir başvuru için sağladığınız bilgilerden herhangi birini değiştirmek istiyorsanız, **Düzenle**' yi seçin. Ardından, anlaşma adı, tahmini satın alma tarihi, tahmini değer, notlar, CRM KIMLIĞI ve/veya pazarlama kampanya KIMLIĞINI güncelleştirebilirsiniz.  Ayrıca, anlaşma üzerinde çalışan ek kişilerin ad, telefon numarası ve e-posta adreslerini sağlamak için **takımınızı Ekle** seçeneğini de belirleyebilirsiniz. Çözümler, müşteri ihtiyacı temel alınarak da düzenlenebilir.
+Müşteriyle başa çıkmak için çalışın. Kabul edilen bir başvuru için sağladığınız bilgilerden herhangi birini değiştirmek istiyorsanız, **Düzenle**' yi seçin. Ardından, anlaşma adı, tahmini satın alma tarihi, tahmini değer, notlar, CRM KIMLIĞI ve/veya pazarlama kampanya KIMLIĞINI güncelleştirebilirsiniz.  Ayrıca, anlaşma üzerinde çalışan başka kişilerin ad, telefon numarası ve e-posta adreslerini sağlamak için **takımınızı Ekle** seçeneğini de belirleyebilirsiniz. Çözümler, müşteri ihtiyacı temel alınarak da düzenlenebilir.
 
 Oluşturduğunuz tüm anlaşmalar varsayılan olarak kabul edilen aşamalardır.
 
@@ -182,14 +183,15 @@ Aşağıda, Microsoft Iş Ortağı Merkezi başvuruları sistemi tarafından bel
 
 Anlaşma, yalnızca aşağıdaki ölçütlere uyan anlaşma kaydı için uygun olacaktır.
 
-1. Microsoft, başa davet edilir.
-2. Microsoft daveti kabul etti ya da Kazanıldı olarak işaretlendi. Microsoft 'un durumu ' nu, Microsoft kartına, anlaşma ayrıntılarınızın altına bakarak anlayabilirsiniz.
-3. Ele uygun bir çözüm vardır.
+- Anlaşma türü ortak satış veya iş ortağı tarafıydır.
+- Ele uygun bir çözüm vardır.
+- Anlaşma durumu kazanıldı ' dır.
+- Anlaşma türü ortak satış ise, Microsoft daveti kabul etmiş veya Kazanıldı olarak işaretlenir. Microsoft 'un durumu ' nu, Microsoft kartına, anlaşma ayrıntılarınızın altına bakarak anlayabilirsiniz.
 
 > [!Important]
 > Yalnızca şirket adınız ve anlaşmada uygun olan çözümünüz müşteriyle anlaşmada açıkça bahsedildiğinde anlaşmayı kaydedin.
 
-Anlaşma, anlaşma kaydı için uygun ise, aşağıda gösterildiği gibi "anlaşma kaydı" adlı anlaşma yaşam döngüsüne eklenen ek kilometre taşı olacaktır.
+Anlaşma, anlaşma kaydı için uygun ise, aşağıda gösterildiği gibi "anlaşma kaydı" adlı anlaşma yaşam döngüsüne eklenen başka bir kilometre taşı olacaktır.
 
 :::image type="content" source="images/pscmigration/dealregstages.png" alt-text="Anlaşma kaydının başlatıldığı konum olan anlaşma yaşam döngüsünü gösteren resim.":::
 
@@ -206,6 +208,8 @@ Aşağıdaki tabloda, bu anlaşmayı bu aşamada davet edebilen birleşimler gö
 |**Özgün anlaşma türü**|**Kimler davet edilebilir**|**Notlar**|
 |-----|:-----|:-----|
 |Özel|Microsoft ve/veya diğer iş ortakları|Microsoft davet edildiyse, anlaşma ortak satış sürümüne yükseltilir.|
+|Özel|Anlaşmaları görüntülemek için Microsoft satış ekibi|Microsoft satış ekibine anlaşmalar için görünürlük verildiğinde, anlaşma Iş ortağı olarak yükseltilir.|
+|İş ortağı-LED|Microsoft ve/veya diğer iş ortakları|Microsoft davet edildiyse, anlaşma ortak satış sürümüne yükseltilir.|
 |Ortak satış|Diğer iş ortakları|Diğer iş ortakları yalnızca şirketiniz anlaşmayı başlatmakla davet edilebilir. İş ortakları, gelen sekmesinde anlaşmalar için davet edilemez.|
 |Microsoft olmadan iş ortağı iş ortağı|Microsoft|Anlaşma, ortak satış için yükseltilecektir.|
 |Microsoft olmadan iş ortağı iş ortağı|Diğer iş ortakları||
@@ -216,17 +220,25 @@ Bu, tüm fırsatların son aşamasıdır. Kapatılan aşamada **kazanıldı, kay
 
 ## <a name="frequently-asked-questions"></a>Sık sorulan sorular
 
-**Q1. Bir anlaşma, kazanıldı veya kaybedildi olarak işaretlendikten sonra düzenlenebilir mi?**
+**Ç. Bir anlaşma, kazanıldı veya kaybedildi olarak işaretlendikten sonra düzenlenebilir mi?**
 
 Hayır, bir Terminal durumuna geçtiğinde anlaşmalar değiştirilemez. Süre dolduğunda, ret, kazanıldı ve kaybedildi, anlaşma için başka bir güncelleştirme yapılabilmeyen Terminal durumlarıdır. Anlaşmayı bu Terminal durumlarının herhangi birine taşırken dikkatli olun.
 
-**Üç. Iş Ortağı Merkezi 'nden kim e-posta bildirimi alıyor?**
+**Ç. Iş Ortağı Merkezi 'nden kim e-posta bildirimi alıyor?**
 
 Aşağıdaki iş akışı, e-postaların iş ortağı merkezi başvuruları sisteminden iş ortaklarına nasıl gönderileceğini açıklar ve yeni iş ortağı gelen başvurularına yöneliktir.
 
 :::image type="content" source="images/pscmigration/emaillogic.png" alt-text="Yeni gelen başvurular için, e-postaların iş ortaklarına gönderilme mantığını gösteren resim.":::
 
-## <a name="getting-more-co-sell-opportunities"></a>Daha fazla ortak satış fırsatı alma
+**Ç. Ne tür bir teşvikleri, anlaşma kaydı için uygun?**
+
+Yalnızca IP teşvikleri, anlaşma kaydı için uygundur. Bunlar şunlardır
+
+- Azure IP ortak satışı
+- Biz uygulamalar Premium
+- Biz uygulama standart
+
+## <a name="get-more-co-sell-opportunities"></a>Daha fazla ortak satış fırsatı alın
 
 İşletmeniz için uygun olan daha fazla ortak satış fırsatı almanıza yardımcı olacak bazı ipuçları aşağıda verilmiştir:
 
