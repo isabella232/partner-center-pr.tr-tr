@@ -118,6 +118,9 @@
     - name: Microsoft İş Ortağı Sözleşmesi - CSP'ler
       href: microsoft-partner-agreement.md
       displayName: 'csp, mpn'
+    - name: Konumları yönetme
+      href: manage-locations.md
+      displayName: 'mpn, csp'
     - name: 'Dolaylı sağlayıcılar, satıcılarına MPA ''yı benimseme konusunda nasıl yardımcı olabilir'
       href: mpa-indirect-provider-faq.md
       displayName: 'csp, mpa, indirect, provider'
@@ -197,9 +200,6 @@
         - name: İş ortağı profilinizi güncelleştirme
           href: update-your-partner-profile.md
           displayName: mpn
-        - name: Konumları yönetme
-          href: manage-locations.md
-          displayName: 'mpn, csp'
         - name: Denetim Paneli Satıcısı olma
           href: enroll-as-cpv.md
           displayName: csp
