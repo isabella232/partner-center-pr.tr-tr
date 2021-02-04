@@ -1,7 +1,7 @@
 ---
 title: Microsoft İş Ortağı Ağı avantajları SSS
 ms.topic: article
-ms.date: 12/10/2020
+ms.date: 02/04/2021
 description: Microsoft İş Ortağı Ağı avantajlarla ilgili ilkeler hakkında bilgi elde edin.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
@@ -9,12 +9,12 @@ author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: ''
-ms.openlocfilehash: ef57b282a1a062ac34d48e7fc247175aa9dab32c
-ms.sourcegitcommit: df7f26b46d1ca46e962e528578d20330804638f9
+ms.openlocfilehash: 521e3a3adb51f528fd7b2a35103f78b0c193f1d1
+ms.sourcegitcommit: efd37a9c5db4b87f75de1d13d75ce470b84b31f6
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/11/2020
-ms.locfileid: "97349552"
+ms.lasthandoff: 02/04/2021
+ms.locfileid: "99552401"
 ---
 # <a name="microsoft-partner-network-benefits-faq"></a>Microsoft İş Ortağı Ağı avantajları SSS
 
@@ -22,8 +22,13 @@ ms.locfileid: "97349552"
 
 - MPN iş ortağı Yöneticisi
 
-
 Aşağıdaki makalede Microsoft İş Ortağı Ağı (MPN) iş ortaklarının bazı önemli sorulardan biri, MPN üyelik avantajları, Uzmanlıklar ve ürün lisansları hakkında bilgi verir.
+
+## <a name="responding-to-covid-19"></a>COVıD 'e yanıt verme-19
+
+**Soru-cevap** **yıldönümü tarihi yakında geliyor ve covıd-19 ile ilgili etkileri nedeniyle uzmanlığa yönelik gereksinimleri karşılayamadı. Ne yapmalıyım?**
+
+A. Uzmanlık tarihiniz 1 Ocak ve 30 Haziran 2021 arasındaysa, mevcut uzmanlığa veya uzmanlarınızı (bulut Business Applications Uzmanlıklar hariç), 2022 ' de bir sonraki yıl dönümü tarihine kadar uzatıyoruz. Sınavların veya performans gereksinimlerinin karşılamanız gerekmez, ancak yine de uzmanlığa ücret ödeyecektir.Daha fazla bilgi için lütfen [blog gönderimize](https://blogs.partner.microsoft.com/mpn/responding-to-covid-19-microsoft-partner-network/)bakın.
 
 ## <a name="membership"></a>Üyelik
 
@@ -140,18 +145,7 @@ A. Uzmanlık ve Eylem Paketi satın alma, iş ortağı genel hesabı aracılığ
 
 A. Yardım alabileceğiniz kaynakların bağlantıları için [Iş Ortağı Merkezi 'Nin destek bölümüne](https://partner.microsoft.com/support) gidebilir veya gerekirse iş ortağı destek ekibimizin bir bileti açabilirsiniz.
 
-## <a name="competency-extension-to-offset-effects-of-covid-19"></a>COVıD 'nin etkilerini fark eden uzmanlık uzantısı-19
-
-**S: Microsoft, iş ortakları için yardım sunuyor mu?**
-
-Y: 1 Temmuz ve 31 Aralık 2020 tarihleri arasında uzmanlığa yıl dönümü olan iş ortakları Için, iş ortağının mevcut uzmanlığına veya uzmanlığına, sonraki yıldönümü tarihleri aracılığıyla 2021 ' de uzatıyoruz. İş ortağı, bu yeni teklifi yansıtmak için bir yenileme anımsatıcısı alır. İş ortağının, kendi uzmanlık ücretini 30 günlük yenileme süresi içinde ödemesi gerekir.
-
-**S: iş ortağı 30 günlük yenileme süresi kaçırıldığında ne olacak?**
-
-Y: iş ortağı, kendi uzmanlarını yeniden etkinleştirebilir ve kaynak ve avantajlara, Iş Ortağı Merkezi 'nde yer alan üyelik teklifleri sayfasında bu tarihleri 30 güne kadar bir ücret ödeyerek, bunlara yeniden erişim elde edebilir. Bir iş ortağı 30 günlük yetkisiz kullanım süresini kaçırmışsa, 30 günlük yenileme süresi dolduktan sonra bir COVıD geçersiz kılma verme isteğinin ayrıntılarını belirten Iş Ortağı Merkezi aracılığıyla bir destek bileti göndermesi gerekir.
-
-Daha fazla bilgi için lütfen [MPN teklifini Yenile](renew-mpn-offers.md)' yi okuyun.
-
 ## <a name="next-steps"></a>Sonraki adımlar
 
-- [Microsoft İş Ortağı Ağı avantajlarınızı keşfedin](mpn-find-benefits.md) 
+- [Microsoft İş Ortağı Ağı avantajlarınızı keşfedin](mpn-find-benefits.md)
+- [MPN teklifini Yenile](renew-mpn-offers.md)
