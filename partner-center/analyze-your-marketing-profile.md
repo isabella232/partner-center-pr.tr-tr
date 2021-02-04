@@ -9,14 +9,14 @@ author: vikrambmsft
 ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: c3ca88d367ea9dea8df1bb2bb4945ecc7b900b26
-ms.sourcegitcommit: 351c7ff4e6ebbb615a00190b2310156381f9cf03
+ms.openlocfilehash: 1f8d9f04920a4f2a0fab40523c217835d9b0e4ef
+ms.sourcegitcommit: 9cb7dc98faae06c255dbc025f8e452d75380c16a
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/07/2020
-ms.locfileid: "96776858"
+ms.lasthandoff: 02/04/2021
+ms.locfileid: "99530842"
 ---
-# <a name="analyze-your-leads---see-how-well-you-attract-target-customers-and-potential-referrals"></a>Müşteri adaylarınızı çözümleyin-hedef müşterileri ve olası başvuruları ne kadar iyi çekmenize bakın
+# <a name="analyze-your-leads---see-how-well-you-attract-target-customers-and-potential-referrals"></a>Müşteri adaylarınızı analiz edin: Hedef müşterileri ve potansiyel referansları ne kadar iyi çektiğinizi görün
 <!-- 
 https://go.microsoft.com/fwlink/?linkid=849120
 -->
@@ -24,11 +24,6 @@ https://go.microsoft.com/fwlink/?linkid=849120
 **Uygun roller**
 
 - Başvuru Yöneticisi
-
-**Uygulama hedefi**
-
-- Market müşteri adayları
-- Nitelikli müşteri adayları
 
 Başvurularda **analiz** bölümünün altındaki **müşteri adayları** sayfası, başvurularınızın nasıl çalıştığını görmenizi sağlar. Dikkat edilmesi gereken eğilimleri veya alanı belirlemek için bu ölçümleri düzenli olarak gözden geçirin ve iş hedeflerinize doğru bir şekilde sürüyi başlatın.
 
@@ -115,3 +110,7 @@ Aşağıda açıklandığı gibi müşteri adayları analizine erişirken aşağ
 
 > [!TIP]
 > Ortak satış fırsatlarınızın nasıl çalıştığını görmek için, [ortak satış fırsatları öngörüleri sayfasını](referral-insights.md)gözden geçirin.
+
+## <a name="next-steps"></a>Sonraki adımlar
+
+- [Müşteri adaylarını yönetme](manage-leads.md)

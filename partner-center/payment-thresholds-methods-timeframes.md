@@ -6,13 +6,13 @@ ms.author: eunjkim
 ms.service: marketplace
 ms.subservice: partnercenter-marketplace-publisher
 ms.topic: conceptual
-ms.date: 09/02/2020
-ms.openlocfilehash: e8ab90251cc05253ad25069eaf9200f2f15e60fb
-ms.sourcegitcommit: cc30a06abe55b9da32177a24e74bfd6fc7d8bbb9
+ms.date: 02/02/2021
+ms.openlocfilehash: 81c5ecb93caef7836dc6e6725a700ac74d881558
+ms.sourcegitcommit: 9cb7dc98faae06c255dbc025f8e452d75380c16a
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 11/12/2020
-ms.locfileid: "94532013"
+ms.lasthandoff: 02/04/2021
+ms.locfileid: "99530723"
 ---
 # <a name="payment-thresholds-methods-and-time-frames"></a>Ödeme eşikleri, yöntemleri ve zaman çerçeveleri
 
@@ -33,6 +33,10 @@ Genellikle belirli bir ayda, söz konusu ayın 15. gününe kadar ödenmesi gere
 | ACH/SEPA | 2-3 iş günü |
 | Havale | 7-10 iş günü |
 | | |
+
+>[!NOTE]
+>Yabancı döviz kurlarındaki değişiklikler nedeniyle, tam satış miktarı bir para biriminden diğerine biraz farklılık gösterebilir. Döviz kurları aylık olarak hesaplanır. İşlem gerçekleşirken, uygun döviz kuru uygulanır. Döviz Kuru ve bu BT 'nin zorda olduğu tarih oranı, exchangeRate ve exchangeRateDate sütunlarında bulunan ödeme raporunuzda belirtilir.
+
 
 ## <a name="payment-methods-in-countries-and-regions"></a>Ülkelerde ve bölgelerde ödeme yöntemleri
 

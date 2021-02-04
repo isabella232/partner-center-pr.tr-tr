@@ -9,12 +9,12 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7d978ca3c48ccadaabb7d714ea9a5d2900bef819
-ms.sourcegitcommit: 7dff27bd799951c28bd1ef2665aa564cce71aff0
+ms.openlocfilehash: c06b11a3ddd6a91d4e939b21d603dd33aa138716
+ms.sourcegitcommit: 9cb7dc98faae06c255dbc025f8e452d75380c16a
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 11/20/2020
-ms.locfileid: "94983350"
+ms.lasthandoff: 02/04/2021
+ms.locfileid: "99530672"
 ---
 # <a name="how-to-report-problems-with-partner-center-and-submit-any-log-or-diagnostics-information"></a>Iş Ortağı Merkezi ile ilgili sorunları bildirme ve günlük veya tanılama bilgilerini gönderme
 
@@ -53,7 +53,7 @@ Sorununuz Destek Danışmanı ile ilgili bir konuşma gerektiriyorsa, randevuyu 
 
 2. İş Ortağı Merkezi, kullanılabilirlik için destek al takvimini denetler.
 
-1. Bir randevuyu zamanladığınızda, iş ortağı Merkezi size destek ekibi ile nasıl iletişim kuracaksınız hakkında bilgi içeren bir takvim daveti gönderir ve bu randevuyu kendi iş takviminizde izleyebilirsiniz.
+1. Bir randevuyu zamanladığınızda, iş ortağı Merkezi size destek ekibi ile nasıl iletişim kuracaksınız hakkında bilgi içeren bir takvim daveti gönderir ve bu randevuyu kendi iş takviminizde izleyebilirsiniz.  Bu özellik hala önizleme aşamasındadır, e-posta ve takvim daveti Ingilizce olacaktır, ancak Advo, bileti oluştururken seçtiğiniz dilde size destek sağlayabilecektir.
 
 :::image type="content" source="images/support/ticket3.png" alt-text="Tarih ve saat":::
 

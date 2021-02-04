@@ -1,7 +1,7 @@
 ---
 title: İş ortağı katkı göstergeleri-CBA
 ms.topic: article
-ms.date: 01/13/2021
+ms.date: 02/03/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Bir gümüş veya altın bulut Business Applications uzmanlığına nasıl ulaşmak gerektiğini gösteren yedi Iş ortağı katkı göstergeleri (PCI) hakkında bilgi edinin.
@@ -9,12 +9,12 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 853af76627fcd2554492fbc918e147b8464a3e1f
-ms.sourcegitcommit: 623d03feab847538d484e0d062dc56fe9d9d82f4
+ms.openlocfilehash: c6698d955433e8fe180fe5537c52d1aba6deea3b
+ms.sourcegitcommit: 9cb7dc98faae06c255dbc025f8e452d75380c16a
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "98204079"
+ms.lasthandoff: 02/04/2021
+ms.locfileid: "99530825"
 ---
 # <a name="use-partner-contribution-indicators-to-attain-the-cloud-business-applications-competency"></a>Bulut Business Applications uzmanlığına ulaşmak için Iş ortağı katkı göstergelerini kullanın
 
@@ -125,7 +125,7 @@ Ayrıntılar için aşağıdaki tablolara bakın:
 | PCI ölçümü | Performans göstergesi: net yeni gelir | Performans göstergesi: yeni müşteri eklemeleri | Yetenek göstergesi: Işlevsel danışmanları | Yetenek göstergesi: Işlevsel danışman büyüme | Yetenek göstergesi: geliştiriciler | Müşteri başarı göstergesi: yeni büyük dağıtımlar | Müşteri başarı göstergesi: aylık etkin kullanıcı büyümesi |
 |---|---|---|---|---|---|---|---|
 | **En fazla işaret** | 10 noktası | 10 noktası | 15 punto | 15 punto | 5 işaret | 20 punto | 25 punto |
-| **Geliştirildi** | $300.000 | 10 | 10 | *\* Bkz. nota* | 5 | 5 | 25% |
+| **Geliştirildi** | $300.000 | 10 | 15 | *\* Bkz. nota* | 5 | 5 | 25% |
 | **Geliştiriyorsanız** | $150.000 | 5  | 5  |*\* Bkz. nota* | 2 | 1 | 25% |
 
 *\* Note: büyüme hedefleri, temel danışmanların sayısına ve bir ortağın noktaları almak için kullandığı belirli seçeneğe göre farklılık gösterir. Noktaları alma seçenekleri veya her bir seçeneğe özgü büyüme hedefleri hakkında daha fazla bilgi edinmek için bkz. [işlevsel danışman büyümesi Için tanımlar](partner-contribution-indicators.md#definitions-for-pci-metric-4---functional-consultant-growth).*
