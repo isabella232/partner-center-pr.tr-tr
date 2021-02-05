@@ -9,18 +9,54 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 02/03/2021
-ms.openlocfilehash: dd389d0857f1ddf391086155ea5a595f0fa5b2d6
-ms.sourcegitcommit: efd37a9c5db4b87f75de1d13d75ce470b84b31f6
+ms.openlocfilehash: 30dc62c9c4b6ca2997f60da0caa2706f66d02961
+ms.sourcegitcommit: 2a3fe71ef30fbda25cc70f8f526b3efd2b3df687
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 02/04/2021
-ms.locfileid: "99554351"
+ms.lasthandoff: 02/05/2021
+ms.locfileid: "99588725"
 ---
 # <a name="february-2021-announcements"></a>Şubat 2021 duyuruları
 
 Bu sayfada, Şubat 2021 ' de Microsoft Iş Ortağı Merkezi duyuruları ayrıntılı olarak yer alındı.
 
 _______________
+
+## <a name="premium-assessments-an-add-on-to-compliance-manager-is-coming-on-march-1-2021"></a><a name="4"></a>Uyumluluk Yöneticisi 'nin bir eklentisi olan Premium değerlendirmeler 1 Mart 2021 ' de geliyor
+
+### <a name="categories"></a>Kategoriler
+
+- Tarih: 2021-02-05
+- Özellikler
+
+### <a name="affected-audience"></a>Etkilenen hedef kitle
+
+Tüm iş ortakları bulut çözümü sağlayıcısı (CSP) programı üzerinden deneyimidir
+
+### <a name="summary"></a>Özet
+
+Premium değerlendirmeler Haziran 'da fiyat listesi önizlemesine dahil edilecek ve 1 Mart 2021 ' den itibaren kullanılabilir olacaktır.
+
+### <a name="details"></a>Ayrıntılar
+
+Premium değerlendirmeler, uyumluluk Yöneticisi için isteğe bağlı bir eklentidir ve verilerin toplanması ve kullanımını yöneten ulusal, bölgesel ve sektöre özgü gereksinimlere sahip müşterilere yardımcı olabilir. Premium değerlendirmeler Office 365 E5, A5 ve G5 için ayrılmıştır ve E5, A5 ve G5 müşterileri Microsoft 365.
+
+|**Teklif adı**|**Teklif Kimliği**|**Malzeme KIMLIĞI**|
+|------------------|:--------------------|:------------------|
+|CSP-Corp-addon|[76be61a7-2c03-4b3e-8330-63b11bd904ed](https://commoffertool.catalog.cp.microsoft.com/Prod/Office365/offer/details/76be61a7-2c03-4b3e-8330-63b11bd904ed)|8JA-00003|
+|CSP-Corp-deneme|[f2f6ae44-24fe-450c-9cd7-529e7c8cfcb4](https://commoffertool.catalog.cp.microsoft.com/Prod/Office365/offer/details/f2f6ae44-24fe-450c-9cd7-529e7c8cfcb4)|8JA-00004|
+|CSP-eğitim-fakülte-addon|[fa7f5773-063a-48cf-b3e2-de509ea1262f](https://commoffertool.catalog.cp.microsoft.com/Prod/Office365/offer/details/fa7f5773-063a-48cf-b3e2-de509ea1262f)|8JB-00003|
+|CSP-eğitim-fakülte deneme|[828cecbd-8728-4339-b0c2-51e009a67d88](https://commoffertool.catalog.cp.microsoft.com/Prod/Office365/offer/details/828cecbd-8728-4339-b0c2-51e009a67d88)|8JB-00004|
+
+### <a name="next-steps"></a>Sonraki adımlar
+
+Bu konuda aşağıdaki kaynakları gözden geçirin ve bilgileri kuruluşunuzdaki uygun hissedarlarla paylaşabilirsiniz.   
+
+- [Microsoft 365 E5 güvenlik ve uyumluluk](https://www.microsoft.com/licensing/product-licensing/microsoft-365-enterprise?rtc=1&activetab=m365-enterprise:primaryr5)
+- [Microsoft Uyumluluk Yöneticisi 'nde değerlendirmeler oluşturma ve yönetme](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments&preserve-view=true=o365-worldwide)
+
+_________________________________________________________
+
 ## <a name="responding-to-covid-19-microsoft-partner-network-update"></a><a name="3"></a> COVıD-19: Microsoft İş Ortağı Ağı Update 'e yanıt verme
 
 ### <a name="categories"></a>Kategoriler
