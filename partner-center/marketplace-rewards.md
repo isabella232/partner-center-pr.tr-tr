@@ -9,12 +9,12 @@ author: billlinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5822fbc1cb874f0199c4dc8e1e2c541a3ed3f9bd
-ms.sourcegitcommit: c4f2561fb7f224554c31e3af491de4ad65644158
+ms.openlocfilehash: 7909b795be03bcd1b110da3f2c3b77019753730d
+ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/23/2020
-ms.locfileid: "92531023"
+ms.lasthandoff: 02/06/2021
+ms.locfileid: "99624264"
 ---
 # <a name="manage-marketplace-rewards-in-partner-center--activate-marketing-sales-and-technical-benefits"></a>Market, satış ve teknik avantajları etkinleştirmek & Iş Ortağı Merkezi 'nde Market Remarlarınızı yönetin
 
@@ -34,7 +34,7 @@ Market Reslikleri uygunluğu, PGA MPN şirketine bağlı tüm yayımcı profille
 
 2. Herhangi bir satış ve pazarlama avantajını etkinleştirmek için önce bir şirket pazarlama ilgili kişisi atamalısınız. Bu kişi Marketplace Rewards avantajınız hakkında izleme amaçlı iletişimleri alacaktır.
 
-3. Pazarlama iletişim bilgilerinizi eklemek veya güncelleştirmek için Market depoları sayfasında satış ve pazarlama avantajları sekmesinin en üstüne gidin ve **Ekle, Güncelleştir veya Değiştir** ' i seçin. 
+3. Pazarlama iletişim bilgilerinizi eklemek veya güncelleştirmek için Market depoları sayfasında satış ve pazarlama avantajları sekmesinin en üstüne gidin ve **Ekle, Güncelleştir veya Değiştir**' i seçin. 
 
    Sonra, şunları yapın:
 
@@ -42,13 +42,13 @@ Market Reslikleri uygunluğu, PGA MPN şirketine bağlı tüm yayımcı profille
 
    - Kullanıcı için şirketinizin Iş Ortağı Merkezi hesabıyla ilişkili e-posta adresinden farklı bir e-posta adresi sağlayın. Marketplace Rewards avantajınızı kullanma yönergelerini, belirlenen pazarlama ilgili kişisinin e-posta adresine e-postayla göndeririz.
 
-   - Bu pazarlama ilgili kişisi için telefon numarasını ve tercih edilen dilini belirtin. Bu bilgileri girmeyi tamamladığınızda **Kullanıcı ata** ’yı seçin.
+   - Bu pazarlama ilgili kişisi için telefon numarasını ve tercih edilen dilini belirtin. Bu bilgileri girmeyi tamamladığınızda **Kullanıcı ata**’yı seçin.
 
-4. Pazarlama ilgili kişisini güncelleştirdikten sonra, kullanmaya başlamak istediğiniz avantaj için **Etkinleştir** ’i seçin. Siz avantajı etkinleştirdikten sonra, bir hafta içinde Rewards ekibinin bir üyesi pazarlama ilgili kişinizle iletişim kurar.
+4. Pazarlama ilgili kişisini güncelleştirdikten sonra, kullanmaya başlamak istediğiniz avantaj için **Etkinleştir**’i seçin. Siz avantajı etkinleştirdikten sonra, bir hafta içinde Rewards ekibinin bir üyesi pazarlama ilgili kişinizle iletişim kurar.
 
 ## <a name="technical-benefits"></a>Teknik avantajlar
 
-1. Bulut ve karma çözümlerinizin ön satışları, tasarımı, dağıtımı ve uygulama geliştirme aşamaları sırasında teknik yardım istemek için teknik avantajınızı kullanabilirsiniz. Yardım istemek için istek formunu doldurup **Isteği gönder** ' i seçin.
+1. Bulut ve karma çözümlerinizin ön satışları, tasarımı, dağıtımı ve uygulama geliştirme aşamaları sırasında teknik yardım istemek için teknik avantajınızı kullanabilirsiniz. Yardım istemek için istek formunu doldurup **Isteği gönder**' i seçin.
 
 2. Azure Sponsorluk avantajlarının kullanımı, bu avantajlardan yararlanılması sırasında bir e-posta aracılığıyla paylaşılır.
 
@@ -60,11 +60,11 @@ Market yeniden kullanım bilgileri, Iş Ortağı Merkezi hesabınızı oluşturm
 
 1. Genel yönetici veya hesap yöneticisi olarak Iş Ortağı Merkezi 'nde PGA 'de oturum açın.
 
-2. **Ayarları** (sağ üst köşede), **iş ortağı ayarları** , **kiracılar** ' ı seçin. 
+2. **Ayarları** (sağ üst köşede), **Hesap ayarlarını**, **kiracılar**' ı seçin. 
 
 3. **Başka bir Azure AD kiracısı ilişkilendir** ' i seçin ve PGA ile Ilişkilendirmek ISTEDIĞINIZ Azure AD kiracısını seçin.
 
-4. İlişkilendirmek istediğiniz Azure AD kiracısında herhangi bir kullanıcının Kullanıcı adını ve parolasını ekleyin ve **Gönder** ' i seçin.
+4. İlişkilendirmek istediğiniz Azure AD kiracısında herhangi bir kullanıcının Kullanıcı adını ve parolasını ekleyin ve **Gönder**' i seçin.
 
 5. Iş Ortağı Merkezi oturumunuzu kapatın ve ardından PGA ile ilişkilendirdiğiniz kiracı için Kullanıcı adını ve parolayı kullanarak oturum açın.
 

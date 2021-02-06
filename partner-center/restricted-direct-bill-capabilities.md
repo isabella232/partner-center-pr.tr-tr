@@ -9,12 +9,12 @@ author: billLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7ee6f4fdb537752cccbceb68716ed22bb8c5fb3a
-ms.sourcegitcommit: b4771fd0781d95551e65baa481a572291c729d7d
+ms.openlocfilehash: 38fe5d03784d0fcf0796545d31e8272f316d2878
+ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "92795788"
+ms.lasthandoff: 02/06/2021
+ms.locfileid: "99623992"
 ---
 # <a name="restricted-direct-bill-capabilities-and-the-requirements-needed-for-csp-direct-bill-partners"></a>Kısıtlanmış doğrudan fatura özellikleri ve CSP doğrudan fatura ortakları için gereken gereksinimler  
 
@@ -31,7 +31,7 @@ Doğrudan fatura ortağı kiracısından doğrudan fatura özelliklerine erişim
 
 1. [Iş Ortağı Merkezi panosunda](https://partner.microsoft.com/dashboard)oturum açın.
 
-2. **İş ortağı ayarları**  ->  **iş ortağı profili** ' ne gidin.
+2. **Hesap ayarları**  ->  **yasal profili**' ne gidin.
 
 3. **Program bilgileri** altında **Microsoft bulut çözüm sağlayıcısı durumunu** arayın.
 

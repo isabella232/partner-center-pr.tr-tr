@@ -129,7 +129,7 @@
       displayName: 'indirect, reseller, csp'
     - name: 'Microsoft Müşteri Sözleşmeleri (bölgeye, dile göre)'
       href: agreements.md
-      displayName: 'regio, region'
+      displayName: 'regio, region, MPA'
     - name: Kısıtlanmış doğrudan fatura erişimi
       href: restricted-direct-bill-capabilities.md
       displayName: 'indirect, reseller'

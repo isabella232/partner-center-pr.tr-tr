@@ -9,21 +9,18 @@ author: aarzh-AaronZhang
 ms.author: v-aarzh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e3cd791f5f9f781980d73c79f0ec18627585372a
-ms.sourcegitcommit: b4771fd0781d95551e65baa481a572291c729d7d
+ms.openlocfilehash: ceaf3fd0819937177648814a02df4a2a266ee06f
+ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/28/2020
-ms.locfileid: "92795874"
+ms.lasthandoff: 02/06/2021
+ms.locfileid: "99624315"
 ---
 # <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>Bulut Çözümü Sağlayıcısı (CSP) doğrudan faturalanan iş ortağından CSP dolaylı kurumsal bayiye geçiş
 
-**Aşağıdakiler cihazlar için geçerlidir:**
-- İş Ortağı Merkezi
-
 **Uygun roller**
 
-- Tüm CSP doğrudan fatura ortakları
+- Genel Yöneticiler
 
 >[!Note]
 >Bu makale, dolaylı satıcılara geçişe karar veren doğrudan fatura ortakları için tasarlanmıştır. Ancak dolaylı bir satıcı olarak kaydolmak üzere açık bir karar vermemiş olsanız bile, doğrudan [Fatura özellikleri kısıtlandıktan](restricted-direct-bill-capabilities.md)sonra CSP doğrudan fatura ortağı programı için yeni [gereksinimleri](direct-partner-new-requirements.md) karşılamayan doğrudan fatura iş ortakları Microsoft tarafından bilgilendirilir.
@@ -41,7 +38,7 @@ Mevcut doğrudan fatura kiracınızı kullanarak dolaylı satıcı programına k
 
 3. Kayıt formunda iş ortağı ayrıntılarınızı gözden geçirin.
 
-   :::image type="content" source="images/direct/direct2a.png" alt-text="Genel Bakış":::
+   :::image type="content" source="images/direct/direct2a.png" alt-text="Hemen kaydolun":::
 
 4. Şimdi Kaydet ' i seçin. Dolaylı Bayi işiniz, doğrudan işletmeniz için kullandığınız AAD kiracısının aynısını kullanacaktır.
 
@@ -51,13 +48,13 @@ Mevcut doğrudan fatura kiracınızı kullanarak dolaylı satıcı programına k
 5. Kaydınız onaylandığında Iş Ortağı Merkezi ' nde tekrar oturum açın.
 
     > [!NOTE]
-    > Onay genellikle anında, en fazla beş iş günü sürebilir. Onaylandığında, kayıt formunda birincil iletişim altında belirttiğiniz e-posta adresine bir bildirim alırsınız. Kayıt durumunuzu **Ayarlar**  >  **iş ortağı ayarları**  >  **iş ortağı profili** > program bilgileri altında da denetleyebilirsiniz.
+    > Onay genellikle anında, en fazla beş iş günü sürebilir. Onaylandığında, kayıt formunda birincil iletişim altında belirttiğiniz e-posta adresine bir bildirim alırsınız. Kayıt durumunuzu **Ayarlar**  >  **Hesap ayarları**  >  **iş ortağı profili** > program bilgileri altında da denetleyebilirsiniz.
 
 6. **Genel bakış** sayfanızda, dolaylı satıcı sözleşmesini görürsünüz. **Kabul et ve devam et '** i seçin. Bu eylem, dolaylı satıcı yeteneklerini sunar.
 
 Dolaylı satıcı sözleşmesini kabul ettiğinizde, Iş ortağı profilinizin sizi hem doğrudan fatura hem **de** dolaylı satıcı olarak tanımladığına dikkat edin.
 
-:::image type="content" source="images/direct/direct3.png" alt-text="Genel Bakış":::
+:::image type="content" source="images/direct/direct3.png" alt-text="Dolaylı satıcı sözleşmesi":::
 
 > [!IMPORTANT]
 > Yeni yeteneği kullanarak dolaylı bir satıcı olarak kaydolduktan sonra doğrudan bir yalnızca fatura kiracıya geri dönme seçeneği yoktur. Lütfen dolaylı bir satıcı olarak kaydolmadan önce iş gereksinimlerinizi tam olarak değerlendirdiğinizden emin olun.
@@ -66,7 +63,7 @@ Dolaylı satıcı sözleşmesini kabul ettiğinizde, Iş ortağı profilinizin s
 
 Bu aşamada, faturalandırma süreci dahil olmak üzere doğrudan müşterilerinizin abonelik ihtiyaçlarını yönetmeye devam edersiniz. Ayrıca, dolaylı sağlayıcıınızdan müşterileri kabul etmeye ve dolaylı bir satıcı olarak çalışmaya başlayabilirsiniz.
 
-:::image type="content" source="images/direct/direct4.png" alt-text="Genel Bakış":::
+:::image type="content" source="images/direct/direct4.png" alt-text="Hem doğrudan faturanız hem de dolaylı satıcı":::
 
 ## <a name="find-an-indirect-provider"></a>Dolaylı sağlayıcı bulma
 
@@ -100,7 +97,7 @@ Dolaylı bir satıcı daveti oluşturmak için:
 
 3. Sonraki sayfada taslak e-posta iletisini gözden geçirin. Taslak iletisini e-postada açabilir veya iletiyi panonuza kopyalayabilir ve bir e-postaya yapıştırabilirsiniz.
 
-4. E-postadaki metni düzenleyerek, ihtiyacınız olanları söyleyin, ancak müşteriyi doğrudan hesabınıza ve sağlayıcınızın hesabınıza bağlamak için kişiselleştirildiğinden emin olun. Ardından **Bitti** 'yi seçin.
+4. E-postadaki metni düzenleyerek, ihtiyacınız olanları söyleyin, ancak müşteriyi doğrudan hesabınıza ve sağlayıcınızın hesabınıza bağlamak için kişiselleştirildiğinden emin olun. Ardından **Bitti**'yi seçin.
 
 5. Müşteri sizi ve sağlayıcınızı kendi kayıt satıcıları olarak doğruladıktan sonra, kendi adına aboneliklerini, lisanslarını ve kullanıcılarını yönetmek için yönetici izinlerine sahip olacaksınız ve dolaylı sağlayıcınız kendi adına sipariş gönderebilecektir.
 6. Müşterinin hesabını, hizmetlerini, kullanıcılarını ve lisanslarını yönetmek için, adının yanındaki aşağı oku seçerek müşterinin kaydını genişletin.
@@ -174,19 +171,19 @@ Bu özelliği mevcut bir müşteri kiracısında kullanmak için:
 
 1. Iş Ortağı Merkezi ' nde bir **Yönetim Aracısı** olarak oturum açın.
 
-2. **Müşteriler sayfasında** , mevcut bir müşteriyi seçin ve müşterinin Özet görünümünü genişletmek için **hızlı bağlantılar** simgesine tıklayın.
+2. **Müşteriler sayfasında**, mevcut bir müşteriyi seçin ve müşterinin Özet görünümünü genişletmek için **hızlı bağlantılar** simgesine tıklayın.
 
-3. **Dolaylı sağlayıcılar** ' ın altında, **dolaylı bir sağlayıcıda müşteriyi aktar** ' a tıklayın.
+3. **Dolaylı sağlayıcılar**' ın altında, **dolaylı bir sağlayıcıda müşteriyi aktar**' a tıklayın.
 
-    :::image type="content" source="images/direct/direct5-1.png" alt-text="Genel Bakış":::
+    :::image type="content" source="images/direct/direct5-1.png" alt-text="Müşteriyi dolaylı bir sağlayıcıya aktarma":::
 
 4. Açılır iletişim kutusunda, müşteri ile satıcı ilişkisi olmasını istediğiniz **dolaylı sağlayıcıyı** seçin.
 
-5. **Kaydet ve devam et** ' e tıklayın.
+5. **Kaydet ve devam et**' e tıklayın.
 
 6. Seçilen dolaylı sağlayıcının **dolaylı sağlayıcılar** altında görüntülendiğini doğrulayın.
 
-    :::image type="content" source="images/direct/direct5-2.png" alt-text="Genel Bakış":::
+    :::image type="content" source="images/direct/direct5-2.png" alt-text="Belirtilen dolaylı sağlayıcı":::
 
 ### <a name="send-an-indirect-reseller-invitation-to-the-customer"></a>Müşteriye dolaylı bir satıcı davetiyesi gönderin
 
@@ -196,11 +193,11 @@ Dolaylı sağlayıcınız, mevcut doğrudan fatura müşterileriniz için bir sa
 
 2. Aynı anda hem sizin hem de dolaylı sağlayıcı ile satıcı ilişkisi kurmak üzere bir müşteriyi davet etmek için **yeni müşterileri davet et** ' i seçin. Sağlayıcının müşteri ile bir satıcı ilişkisi olması gerekir, bu nedenle müşteri yeni abonelikler satın almak istediğinde veya mevcut aboneliklerde yeni lisanslar eklemek istediğinde müşterinin adına sipariş gönderebilirler.
 
-    :::image type="content" source="images/direct/direct6.png" alt-text="Genel Bakış":::
+    :::image type="content" source="images/direct/direct6.png" alt-text="Yeni müşterileri davet et":::
 
 3. Sonraki sayfada taslak e-posta iletisini gözden geçirin. Taslak iletisini e-postada açabilir veya iletiyi panonuza kopyalayabilir ve bir e-postaya yapıştırabilirsiniz.
 
-4. E-postadaki metni düzenleyerek, ihtiyacınız olanları söyleyin, ancak müşteriyi doğrudan hesabınıza ve sağlayıcınızın hesabınıza bağlamak için kişiselleştirildiğinden emin olun. Ardından **Bitti** 'yi seçin.
+4. E-postadaki metni düzenleyerek, ihtiyacınız olanları söyleyin, ancak müşteriyi doğrudan hesabınıza ve sağlayıcınızın hesabınıza bağlamak için kişiselleştirildiğinden emin olun. Ardından **Bitti**'yi seçin.
 
 5. Müşteri sizi ve sağlayıcınızı kendi kayıt satıcıları olarak doğruladıktan sonra, kendi adına aboneliklerini, lisanslarını ve kullanıcılarını yönetmek için yönetici izinlerine sahip olacaksınız ve dolaylı sağlayıcınız kendi adına sipariş gönderebilecektir.
 
@@ -251,12 +248,12 @@ CSP dolaylı modeli kapsamında, dolaylı satıcıların Microsoft ile faturalan
 > [!NOTE]
 > Ayrıca, mevcut abonelikleri dolaylı sağlayıcınıza aktarmak için [Iş ortağı MERKEZI API/SDK](/partner-center/develop/manage-customers) 'sını de kullanabilirsiniz.
 >
-> - [Müşterinin abonelik aktarım uygunluğunu al](/partner-center/develop/get-customer-s-subscriptions-transfer-eligibility)
+> - [Müşterinin abonelik aktarım uygunluğunu alma](/partner-center/develop/get-customer-s-subscriptions-transfer-eligibility)
 > - [Müşterinin aktarımını oluşturma](/partner-center/develop/create-a-transfer)
 > - [Müşterinin aktarımını geri alma](/partner-center/develop/withdraw-a-transfer)
-> - [Müşterinin aktarımını kabul et](/partner-center/develop/accept-a-transfer)
+> - [Müşterinin aktarımını kabul etme](/partner-center/develop/accept-a-transfer)
 > - [Müşterinin aktarımını reddetme](/partner-center/develop/reject-a-transfer)
-> - [Müşterinin aktarımlarını al](/partner-center/develop/get-all-of-a-customer-s-transfers)
+> - [Müşterinin aktarımlarını alma](/partner-center/develop/get-all-of-a-customer-s-transfers)
 > - [Kimliğe göre aktarım ayrıntılarını al](/partner-center/develop/get-transfer-by-id)
 
 ### <a name="transitioning-partner---create-transfer-request"></a>İş ortağı geçişi-aktarım isteği oluşturma
@@ -267,25 +264,25 @@ Geçiş ortağı olarak bir aktarım isteği oluşturmak için:
 
 2. **Müşteriler** sayfasında, istenen müşteriyi seçin ve hızlı bağlantılar simgesine tıklayarak müşterinin Özet görünümünü genişletin.
 
-3. **Dolaylı sağlayıcılar** ' ın altında, amaçlanan dolaylı sağlayıcının listelendiğini onaylayın.
+3. **Dolaylı sağlayıcılar**' ın altında, amaçlanan dolaylı sağlayıcının listelendiğini onaylayın.
 
-4. **Abonelikleri görüntüle** ' ye tıklayın.
+4. **Abonelikleri görüntüle**' ye tıklayın.
 
-5. **Abonelikler** sayfasında, **abonelik aktarımı** ' nı arayın.
+5. **Abonelikler** sayfasında, **abonelik aktarımı**' nı arayın.
 
-6. **Abonelik aktarımı** altında **abonelik aktarımı iste** ' ye tıklayın.
+6. **Abonelik aktarımı** altında **abonelik aktarımı iste**' ye tıklayın.
 
-    :::image type="content" source="images/direct/direct8.png" alt-text="Genel Bakış":::
+    :::image type="content" source="images/direct/direct8.png" alt-text="Abonelik aktarımı iste":::
 
 7. Aktarım isteği iletişim kutusunda, aktarılacak bir veya daha fazla abonelik seçin.
 
-    :::image type="content" source="images/direct/direct9.png" alt-text="Genel Bakış":::
+    :::image type="content" source="images/direct/direct9.png" alt-text="Aktarım Isteği oluştur":::
 
-8. **Oluştur** 'a tıklayın.
+8. **Oluştur**’a tıklayın.
 
 9. **Abonelik aktarımı** altında, etkin bir abonelik aktarım isteği görüntülenir.
 
-    :::image type="content" source="images/direct/direct10.png" alt-text="Genel Bakış":::
+    :::image type="content" source="images/direct/direct10.png" alt-text="İstek listesini aktar":::
 
 10. Dolaylı sağlayıcınızı, bunlara bir abonelik aktarım isteği oluşturduğunu bildirin.
 
@@ -299,17 +296,17 @@ Bir aktarım isteğini dolaylı sağlayıcı olarak gözden geçirmek ve kabul e
 
 3. **Dolaylı satıcı (ler)** altında, geçiş ortağının listelendiğini onaylayın.
 
-4. **Abonelikleri görüntüle** ' ye tıklayın.
+4. **Abonelikleri görüntüle**' ye tıklayın.
 
-5. **Abonelikler** sayfasında, **abonelik aktarımı** ' nı arayın.
+5. **Abonelikler** sayfasında, **abonelik aktarımı**' nı arayın.
 
-    :::image type="content" source="images/direct/direct11.png" alt-text="Genel Bakış":::
+    :::image type="content" source="images/direct/direct11.png" alt-text="Aktarım isteğini görüntüle":::
 
 6. **Abonelik aktarımı** altında, gözden geçirmek için aktarım isteğine tıklayın.
 
-7. Uygun şekilde **kabul et** (veya **Reddet** ) seçeneğine tıklayın.
+7. Uygun şekilde **kabul et** (veya **Reddet**) seçeneğine tıklayın.
 
-    :::image type="content" source="images/direct/direct12.png" alt-text="Genel Bakış":::
+    :::image type="content" source="images/direct/direct12.png" alt-text="Aktarım isteğini kabul et":::
 
 8. Aktarım isteğinin tamamlanmasını bekleyin.
 
@@ -327,9 +324,9 @@ Geçiş ortağı aşağıdakileri yapması gerekir:
 
 2. **Müşteriler** sayfasında, istenen müşteriyi seçin ve **hızlı bağlantılar** simgesine tıklayarak müşterinin Özet görünümünü genişletin.
 
-3. **Abonelikleri görüntüle** ' ye tıklayın.
+3. **Abonelikleri görüntüle**' ye tıklayın.
 
-4. **Abonelikler** sayfasında, **abonelik aktarımı** ' nı arayın.
+4. **Abonelikler** sayfasında, **abonelik aktarımı**' nı arayın.
 
 5. Aktarım isteğinin **Tamam** olarak işaretlendiğinden emin olun.
 
@@ -339,7 +336,7 @@ Geçiş ortağı aşağıdakileri yapması gerekir:
 
    2. Bu bir lisans tabanlı aboneliğiniz (Office 365, Dynamics, Intune), durumu **askıya alındı** olarak listelenir.
 
-   :::image type="content" source="images/direct/direct13.png" alt-text="Genel Bakış":::
+   :::image type="content" source="images/direct/direct13.png" alt-text="Abonelik askıya alındı":::
 
 ### <a name="considerations"></a>Dikkat edilmesi gerekenler
 

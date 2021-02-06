@@ -8,18 +8,14 @@ ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: b16fb54ede696ac623f68cff933daf8aaf1666e7
-ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
+ms.openlocfilehash: 166e120af2f00cef50ec0681913dd3787a4f9f39
+ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "93133074"
+ms.lasthandoff: 02/06/2021
+ms.locfileid: "99624230"
 ---
 # <a name="frequently-asked-questions-on-incentives"></a>Teşvikleri hakkında sık sorulan sorular
-
-**Uygulama hedefi:**
-
-- İş Ortağı Merkezi
 
 **Uygun roller:**
 
@@ -35,7 +31,7 @@ Hayır. Hem genel yönetici hem de hesap yöneticisi kullanıcıları teşvikler
 
 MPN 'ye katılmayı denerseniz ve şirketiniz zaten bir üyesiyse, MPN etki alanını tanıyacak ve mevcut hesapla ilişkilendirecektir. Mevcut hesap aynı şirket veya aynı e-posta etki alanını kullanan ilişkili bir şirket veya birden çok etki alanını yönetmek için aynı Azure etkinlik dizini (Azure AD) olabilir.
 
-Birincil kişiyi Iş ortağı profili sayfasından belirleyebilirsiniz. Konumunuzda MPNHQ konumu varsa, teşvikleri yönetmek için gerekli izinlerle ayarlamanız yeterlidir. Roller ve izinler hakkında daha fazla bilgi için bkz. [izinlere genel bakış](permissions-overview.md).
+Birincil Ilgili kişiyi yasal profil sayfasından belirleyebilirsiniz. Konumunuzda MPNHQ konumu varsa, teşvikleri yönetmek için gerekli izinlerle ayarlamanız yeterlidir. Roller ve izinler hakkında daha fazla bilgi için bkz. [izinlere genel bakış](permissions-overview.md).
 
 MPNHQ konumuyla aynı ülkede değilseniz, bu senaryo hakkında daha fazla bilgi için [çok milli hesaplara yönelik yönergelere](https://support.microsoft.com/help/4515619/special-considerations-for-multi-national-partners-joining-the-microso) bakın.
 
@@ -51,7 +47,7 @@ Daha fazla bilgi için bkz. [izinlere genel bakış](permissions-overview.md).
 
 Rol değişikliği yapan veya yeni bir kullanıcıya rol atayan bir genel yönetici veya hesap yöneticisi bulmak için:
 
-1. Iş Ortağı Merkezi 'nin sağ üst köşesindeki hesap ayarları simgesinden **Kullanıcı yönetimi** ' ni seçin.
+1. Iş Ortağı Merkezi 'nin sağ üst köşesindeki hesap ayarları simgesinden **Kullanıcı yönetimi**' ni seçin.
 2. **Genel yönetici** veya **Hesap Yöneticisi** üzerinde filtreleme yapın.
 3. Ayrıca, **profilime** gidebilir, **Roller ve izinler** ' i seçebilir ve izinlerinizi yükseltebilmeniz için farklı yöneticilerin bir listesini görebilirsiniz.
  
@@ -63,9 +59,9 @@ Teşvikleri görmeme nedeni, doğru izinlere sahip olmadığınızdan emin olman
 
 1. Azure AD Kiracı kimlik bilgilerinizle (iş kimlik bilgileriniz) iş [Ortağı Merkezi panosunda](https://partner.microsoft.com/dashboard/) oturum açın. Oturum açamıyor, şirketinizin genel yöneticisine başvurun.
 
-2. Oturum açarken, **iş hesabınız** veya **kişisel hesabınız** arasından seçim yapmanız istenirse **iş hesabı** ' nı seçin.
+2. Oturum açarken, **iş hesabınız** veya **kişisel hesabınız** arasından seçim yapmanız istenirse **iş hesabı**' nı seçin.
 
-3. Iş Ortağı Merkezi menüsünde **teşvikleri** ' i seçin ve **genel bakış** ' ı seçin. Teşvikleri admin veya teşvikleri User izinleriniz yoksa, şirketinizin tüm genel ve hesap yöneticileri için iletişim bilgileri gösterilir. Gerekli MPN kimliklerine yönelik özenk rolünü almak ve programları teşvik etmek için bu yöneticilerden birine başvurun.
+3. Iş Ortağı Merkezi menüsünde **teşvikleri**' i seçin ve **genel bakış**' ı seçin. Teşvikleri admin veya teşvikleri User izinleriniz yoksa, şirketinizin tüm genel ve hesap yöneticileri için iletişim bilgileri gösterilir. Gerekli MPN kimliklerine yönelik özenk rolünü almak ve programları teşvik etmek için bu yöneticilerden birine başvurun.
 
 4. Zaten bir teşvikleri yönetici rolüne sahipseniz, kullanıcılarınızın erişim sahibi olduğu MPN kimlikleri ve programları teşvik etmek için kayıtları görürsünüz.
 

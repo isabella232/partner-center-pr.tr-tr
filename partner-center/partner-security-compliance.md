@@ -9,27 +9,22 @@ ms.author: iswillia
 ms.localizationpriority: high
 ms.topic: conceptual
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 673728ad03d6617fa60ba4119f0ebbbaaa4ce328
-ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
+ms.openlocfilehash: 3f521e05fbf0b3a6c209a84ed9ab53d2502960a5
+ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "93132988"
+ms.lasthandoff: 02/06/2021
+ms.locfileid: "99624162"
 ---
 # <a name="security-requirements-status-report"></a>Güvenlik gereksinimleri durum raporu
 
-**Şunlara uygulanır**
-
-- Bulut çözümü sağlayıcısı programındaki tüm iş ortakları
-- Tüm Denetim Masası satıcıları
-- Tüm danışmanları
-
-**Uygun kullanıcılar**
-- Konuk kullanıcılar dahil tüm etkin kullanıcılar
+**Uygun roller**
+- Denetim Masası satıcıları
+- Genel Yöneticiler
 
 Bu makalede, Iş Ortağı Merkezi 'nde güvenlik gereksinimleri durum raporu açıklanır. Bu rapor, iş ortağı kiracınızdaki kullanıcılar için Multi-Factor Authentication (MFA) için [iş ortağı güvenlik gereksinimleriyle](partner-security-requirements.md) uyumluluk için ölçümler sunar.
 
-[İş ortağı merkezi](https://partner.microsoft.com/dashboard)'nde bu rapora erişmek için **Ayarlar**  >  **iş ortağı ayarları**  >  **güvenlik gereksinimleri durum** ' a gidin. Rapor günlük olarak güncelleştirilir ve son yedi gündeki oturum açma verilerini yansıtır.
+[İş ortağı merkezi](https://partner.microsoft.com/dashboard)'nde bu rapora erişmek için **Ayarlar**  >  **Hesap ayarları**  >  **güvenlik gereksinimleri durum**' a gidin. Rapor günlük olarak güncelleştirilir ve son yedi gündeki oturum açma verilerini yansıtır.
 
 >[!NOTE]
 >Güvenlik gereksinimleri durum raporu yalnızca Iş Ortağı Merkezi 'nde desteklenir. ABD devlet veya Microsoft Bulut Almanya için Microsoft Bulut kullanılamaz. Bir sogeign bulutu üzerinden deneyimidir tüm iş ortaklarının (ABD devlet ve Almanya) bu yeni güvenlik gereksinimlerini hemen benimsemesini önemle öneririz. Ancak, bu iş ortaklarının yeni güvenlik gereksinimlerini karşılamak için şu anda gerekli değildir. Microsoft, daha sonra da bu güvenlik gereksinimlerinin zorlanmasıyla ilgili ek ayrıntılar sağlar.

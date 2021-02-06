@@ -9,12 +9,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8b6646ff943ff219c41c975d60e66a46d1e0f595
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: dd566a6d9ef60747eb7fd515b4d63d87d991da2a
+ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92532043"
+ms.lasthandoff: 02/06/2021
+ms.locfileid: "99624196"
 ---
 # <a name="guide-to-migrating-from-pmc-to-partner-center"></a>PMC'den İş Ortağı Merkezi'ne geçiş kılavuzu
 
@@ -53,9 +53,9 @@ Davetinizi **kullanmaya başlayın** ' ı seçin. Iş Ortağı Merkezi oturum a�
 >[!NOTE]
 >Çin 'de bir iş ortağıysanız ve hem Microsoft İş Ortağı Ağı hem de bulut çözümü sağlayıcısı (CSP) programına kaydolduysanız her hesap için ayrı bir kiracıya sahip olursunuz. Bulut çözümü sağlayıcısı programı ile hesabınız Ulusal bulutta yönetilir ve Microsoft İş Ortağı Ağı hesabınız genel bulutta yönetilir. İki hesap bağlanamaz.
 
-:::image type="content" source="images/migration/newtellusabout.png" alt-text="Kullanmaya başlama":::
+:::image type="content" source="images/migration/newtellusabout.png" alt-text="Bize şirketiniz hakkında bilgi verin":::
 
-Bilgileri doğruladıktan veya güncelleştirdikten sonra, **kabul et ve devam et** ' i seçin.
+Bilgileri doğruladıktan veya güncelleştirdikten sonra, **kabul et ve devam et**' i seçin.
 Bu sayfadaki hüküm ve koşullar, şirketinizin zaten PMC 'de oturum açmış olduğu anlaşmayla **aynıdır** .  
 Bu adım, Azure AD kiracınızın oluşturulmasını başlatır ve size iş hesabı sağlar.
 
@@ -71,7 +71,7 @@ Bu adım, Azure AD kiracınızın oluşturulmasını başlatır ve size iş hesa
 
 Yeni Azure AD kiracınız oluşturulduğunda, çalışanlarınızın Iş Ortağı Merkezi 'Nde oturum açmasını davet edebilirsiniz.
 
-:::image type="content" source="images/migration/invite.png" alt-text="Kullanmaya başlama":::
+:::image type="content" source="images/migration/invite.png" alt-text="Çalışanları davet et":::
 
 Mevcut bir AAD kiracısı ile oturum açtıysanız, çalışanlarınız sizinle birlikte taşınacaktır. Bu durumda, Iş Ortağı Merkezi 'nde neler yapabileceğini belirleyen çalışanlar rollerinizi atayın. 
 
@@ -84,23 +84,23 @@ AAD kiracınız yeni ise, hiç kimse genel yönetici rolü atanmaz. Genel yönet
 
 Zaten satın almış olduğunuz teklifleri kullanabilmeniz mümkün olsa da, genel yönetici atama adımını tamamlayana kadar yeni bir teklif satın almanız mümkün olmayacaktır.
 
-:::image type="content" source="images/migration/takecontrol.png" alt-text="Kullanmaya başlama":::
+:::image type="content" source="images/migration/takecontrol.png" alt-text="Denetim al":::
 
 Kullanmaya başlayın ' ı seçtiğinizde aşağıdaki ekranı görürsünüz:
 
-:::image type="content" source="images/migration/verifytxt.png" alt-text="Kullanmaya başlama":::
+:::image type="content" source="images/migration/verifytxt.png" alt-text="Etki alanı sahipliğini doğrulama":::
 
 Etki alanı kayıt şirketiniz sizin için zaten doldurulmuştur. Yalnızca etki alanı sahibi DNS dosyasını güncelleştirebilir, bu nedenle metin dosyasını kopyalayarak ve DNS kayda ekleyerek, sahibi olduğunuzu doğrulayabiliriz. Güncelleştirmenin gerçekleşmesi birkaç dakika sürer. Iş Ortağı Merkezi oturumunuzu kapatıp yeniden oturum açmanız gerekir. Rolünüzün genel yönetici olarak değiştirilmesi gerekir.
 
 ## <a name="get-acquainted-with-your-dashboard-and-partner-center"></a>Panonuz ve Iş ortağı merkezinize göre tanışın
 
-Panonuzun turuna katılın. Burada, üyeliğinizi yönetebileceğiniz, başvurular için bir iş profili ekleyebileceğiniz, bulut çözümü sağlayıcısı programına kaydolma ve **Pano** ' yı seçerek istediğiniz zaman iş ve tekliflerle ilgili teklifler hakkında bilgi edinebilirsiniz. Ayrıca teşvikleri yönetebilir, Market 'te satın alabilir, pazara sunma hizmetleri için kaydolabilirsiniz ve daha fazlasını yapabilirsiniz.  
+Panonuzun turuna katılın. Burada, üyeliğinizi yönetebileceğiniz, başvurular için bir iş profili ekleyebileceğiniz, bulut çözümü sağlayıcısı programına kaydolma ve **Pano**' yı seçerek istediğiniz zaman iş ve tekliflerle ilgili teklifler hakkında bilgi edinebilirsiniz. Ayrıca teşvikleri yönetebilir, Market 'te satın alabilir, pazara sunma hizmetleri için kaydolabilirsiniz ve daha fazlasını yapabilirsiniz.  
 
-:::image type="content" source="images/migration/fre.png" alt-text="Kullanmaya başlama":::
+:::image type="content" source="images/migration/fre.png" alt-text="Tura katılın":::
 
 ## <a name="sign-the-microsoft-partner-agreement"></a>Microsoft Iş ortağı sözleşmesi 'Ni imzala
 
-Dolaylı bir satıcıysanız, Iş Ortağı Merkezi hesabınızı ayarladıktan sonra yine de bulut çözümü sağlayıcısı programına resmi kayıt yapmanız gerekir. Üyelik durumunuzu denetlemek için [Iş ortağı profilinize](https://partner.microsoft.com/pcv/accountsettings/partnerprofile) gidin ve hesap türünü onaylayın. Ardından, CSP 'de dolaylı bir [satıcı](enrolling-in-the-csp-program.md)olarak kaydolun.
+Dolaylı bir satıcıysanız, Iş Ortağı Merkezi hesabınızı ayarladıktan sonra yine de bulut çözümü sağlayıcısı programına resmi kayıt yapmanız gerekir. Üyelik durumunuzu denetlemek için, [yasal profilinize](https://partner.microsoft.com/pcv/accountsettings/partnerprofile) gidin ve hesap türünü onaylayın. Ardından, CSP 'de dolaylı bir [satıcı](enrolling-in-the-csp-program.md)olarak kaydolun.
 
  Dolaylı bir satıcı olarak kaydolduktan sonra, [dolaylı sağlayıcınızla CSP ilişki isteğini](indirect-reseller-tasks-in-partner-center.md)kabul edin.
 

@@ -8,18 +8,15 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 1e97e2e9db798e5ef90858cf96dc06602bbfe427
-ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
+ms.openlocfilehash: 282fdacc8689ff71e885a2f0ea01ce9570611707
+ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97492475"
+ms.lasthandoff: 02/06/2021
+ms.locfileid: "99624247"
 ---
 # <a name="create-and-manage-incentives-payout-and-tax-profiles-in-partner-center"></a>Iş Ortağı Merkezi 'nde teşvikleri ödeme ve vergi profilleri oluşturma ve yönetme
 
-**Uygulama hedefi:**
-
-- İş Ortağı Merkezi
 
 **Uygun roller:**
 
@@ -64,7 +61,7 @@ Aşağıdaki bölümler, Iş Ortağı Merkezi 'nde ödeme ve vergi profilleri ol
    - Yalnızca etki alanı ile oturum açabiliyor @onmicrosoft.com , Azure AD hesabına ek etki alanları eklemek Için hesap yöneticinize başvurun.
    - **İş veya okul hesabı** ya da **kişisel hesap**' i seçmeniz istenirse **iş veya okul hesabı**' nı seçin.
 
-2. Dişli simgesini seçerek **Ayarlar** menüsünü açın ve ardından **iş ortağı ayarları**' nı seçin.
+2. Dişli simgesini seçerek **Ayarlar** menüsünü açın ve **Hesap ayarları**' nı seçin.
 
 3. **Hesap ayarları** menüsünde, **ödeme ve vergi**' ı seçin. 
 
@@ -72,7 +69,7 @@ Aşağıdaki bölümler, Iş Ortağı Merkezi 'nde ödeme ve vergi profilleri ol
 
 1. [Iş Ortağı Merkezi panosunda](https://partner.microsoft.com/dashboard/)oturum açın ve sonra da dişli simgesini seçerek **Ayarlar** menüsünü açın. 
 
-2. **Iş ortağı ayarları**' nı seçin, **ödeme ve vergi bölümünü** genişletin ve ardından **ödeme ve vergi profili ataması**' nı seçin. 
+2. **Hesap ayarları**' nı seçin, **ödeme ve vergi bölümünü** genişletin ve ardından **ödeme ve vergi profili ataması**' nı seçin. 
    
    Programlarınızın bir listesi görüntülenir. Profil ayrıntılarını görmek için bir programın yanındaki oku seçin. 
 

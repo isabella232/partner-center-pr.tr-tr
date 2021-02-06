@@ -1,7 +1,7 @@
 ---
 title: İş ortağı hesabınızdaki konumları yönetin
 ms.topic: how-to
-ms.date: 01/26/2021
+ms.date: 02/05/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Yeni bir konum ekleme ve bilgisayar, CSP iş, abonelik ve diğer işlemlerde MPN KIMLIĞI 'nin nasıl kullanıldığını öğrenin.
@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 21d82fc3ec4470d4941d3ca7436089d3e892439e
-ms.sourcegitcommit: 81017727107a907bf1f3246097b51667d7c5fb18
+ms.openlocfilehash: c5ac31b772c6757468c5ea9d463643731571b31f
+ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/30/2021
-ms.locfileid: "99098899"
+ms.lasthandoff: 02/06/2021
+ms.locfileid: "99624281"
 ---
 # <a name="manage-your-mpn-account-locations-and-add-a-new-location"></a>MPN hesap konumlarını yönetin ve yeni bir konum ekleyin
 
@@ -47,6 +47,8 @@ Yeni bir CSP iş hesabı eklemek için önkoşulları karşıladığından emin 
  >**Yeni** CSP hesabının **Yeni** kimlik bilgileriyle oturum açmayı unutmayın. Mevcut kimlik bilgilerinizi, Iş Ortağı Merkezi zaten bir hesap varmış gibi tanıyacak şekilde kullanmayacaktır.
 
 2. Microsoft Iş ortağı sözleşmesi 'Ni kabul edin ve hesabı etkinleştirin.
+
+1. Doğrudan fatura ortağı olarak kaydolmak istiyorsanız, [doğrudan fatura ortakları Için gereksinimleri](direct-partner-new-requirements.md) okuyun
 
 ## <a name="view-your-mpn-locations"></a>MPN konumlarınızı görüntüleyin
 

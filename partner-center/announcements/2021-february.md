@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 02/03/2021
-ms.openlocfilehash: 30dc62c9c4b6ca2997f60da0caa2706f66d02961
-ms.sourcegitcommit: 2a3fe71ef30fbda25cc70f8f526b3efd2b3df687
+ms.date: 02/04/2021
+ms.openlocfilehash: cb9bc726acb5d76f4774c9a515443d58f7947fbd
+ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 02/05/2021
-ms.locfileid: "99588725"
+ms.lasthandoff: 02/06/2021
+ms.locfileid: "99624179"
 ---
 # <a name="february-2021-announcements"></a>Şubat 2021 duyuruları
 
@@ -70,22 +70,7 @@ Tüm iş ortakları
 
 ### <a name="details"></a>Ayrıntılar
 
-Microsoft, 1 Ocak 2021 ve 30 Haziran 2021 arasında bir yıldönümü tarihi (AD) olan tüm iş ortakları için uzmanlığa ve gelişmiş özelleştirme gereksinimlerini boşa alır. Bunun özel durumu, bulut Business Applications (CBA) uzmanıdır. Bu durumda, 1 Nisan 2021 ' de veya sonrasında bir AD olan iş ortakları, 15 Haziran 2021 ' ye kadar, PCI yapısı içindeki işlevsel danışman büyüme ölçümü gereksinimini doğru 15 noktayla yeniden çarpıyacaktır.  
-
-**1 ocak 2021 ve 30 haziran 2021 tarihleri arasında yıldönümü olan iş Business Applications ortakları** , tek yıllık bir uzmanlığa sahip bir uzantıya uygundur. 2022 sürümündeki bir sonraki yıldönümü tarihi boyunca mevcut uzmanlarınızı veya uzmanlarınızı genişlettik.Kuruluşunuza özgü bilgiler, Şubat ayında ve yenileme zaman merkezinize hizalanmadan itibaren Iş Ortağı Merkezi 'nde kullanılabilir.İhtiyaç duyarsınız. Iş Ortağı Merkezi 'nde, uzmanlığa ücret ödemenizi ve yenilemeyi tamamlamaya yönelik işlem yapmanız gerekir.30 günlük bir yenileme zaman dilimi sonuna yaklaşıyorsa ve Iş Ortağı Merkezi 'nde yenilemezseniz, yardım için lütfen [iş ortağı desteğine](https://partner.microsoft.com/support) başvurun.  
-
-**Bulut Business Applications uzmanlığa sahip iş ortakları için:** Daha önce iletildiği gibi, Iş ortağı katkı göstergeleri (PCI) Puanlama 1 Nisan 2021 ' de geçerli olacaktır. Bulut Business Applications için yıldönümü tarihiniz 1 Ocak 2021 ve 31 Mart 2021 arasındaysa, gereksinimleri Iş Ortağı Merkezi 'nde yayımlanmış olarak karşılamanız ve yenileme ücretini tamamlamaya yönelik bir ücret ödemanız gerekecektir. Bulut Business Applications için yıl sonu tarihiniz 1 Nisan 2021 ve 30 Haziran 2021 arasındaysa, Işlevsel danışman büyüme ölçümü için 15 noktaya sahip olursunuz. Iş Ortağı Merkezi 'nde yayınlanan diğer gereksinimleri karşılamanız ve yenileme ücretini tamamlamaya yönelik uzmanlığa ücret ödemenizi sağlayacak.  
-
-**2021 içinde gelişmiş bir özelleştirmeyi yenilerken iş ortakları için:** Gelişmiş özelleşmeler içeren iş ortakları 1 Ocak 2021 ve 30 Haziran 2021 tarihleri arasında bir yıllık uzantı için uygundur ve bu, yenileme masraf2022 ına ücret ödeyerek, gelişmiş özelleşmeye uygun altın uzmanlık alanı olabilir. Kuruluşunuza özgü bilgiler, Şubat ayında ve yenileme zaman merkezinize hizalanmadan itibaren Iş Ortağı Merkezi 'nde kullanılabilir.  
-
-### <a name="next-steps"></a>Sonraki adımlar
-
-- Daha fazla güncelleştirme için bkz. [COVıD-19: Microsoft iş ortağı ağı Update-Microsoft iş ortağı ağı 'e yanıt verme](https://blogs.partner.microsoft.com/mpn/responding-to-covid-19-microsoft-partner-network/).
-
-### <a name="questions"></a>Sorularınız mı var?
-
-Bu bildirimle ilgili sorular için [Iş Ortağı Merkezi desteğiyle](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals)iletişim kurun.
-
+Microsoft, bir uzman uzantısı (bulut Business Applications uzmanlığına sahip olan) ve 1 Ocak 2021 ile 30 Haziran 2021 arasında yıldönümü tarihleri (AD) olan iş ortakları için Gelişmiş özelleştirme uzantısı sunmaktadır. Daha fazla bilgi için lütfen [iş ortağı blog gönderimizi](https://blogs.partner.microsoft.com/mpn/responding-to-covid-19-microsoft-partner-network/) gözden geçirin.
 ________________
 ## <a name="new-updates-to-the-referrals-module-in-partner-center"></a><a name="2"></a> Iş Ortağı Merkezi 'nde başvurular modülüne yönelik yeni güncelleştirmeler
 
@@ -124,12 +109,12 @@ Yeni yıla geçtiğimiz gibi Iş Ortağı Merkezi 'nde ortak satış deneyimini 
 
 ### <a name="questions"></a>Sorularınız mı var?
 
-Yeni özelliklerden herhangi birini kullanarak yardıma ihtiyacınız varsa, bilgi Bankamız hakkındaki [başvurular bölümüne](https://docs.microsoft.com/partner-center/referrals) veya [ortak satış deneyimi galerimizde](https://aka.ms/CoSellExperience) bulunan nasıl yapılır destek malzemelerimize göz atın (oturum açmanız gerekir).
+Yeni özelliklerden herhangi birini kullanmayla ilgili yardıma ihtiyacınız varsa, bilgi Bankamız veya [ortak satış deneyimi galerimizde](https://aka.ms/CoSellExperience) (oturum açma gerekir) bulunan nasıl yapılır destek malzemelerimiz hakkındaki [başvurular bölümüne](https://docs.microsoft.com/partner-center/referrals) bakın.
 
 Ek destek için [Iş ortağı destek ekibimizin bulunduğu bir bileti açabilirsiniz](https://partner.microsoft.com/support/?stage=1).
 
 ________________
-## <a name="deprecation-and-retirement-of-put-qualification-apis-for-the-education-customer-validation-process-by-february-25th-2021-and-get-qualification-by-may-4th-2021"></a><a name="1"></a> 8 Şubat 2021 ' den önce eğitim müşteri doğrulama işlemi için nitelik API 'Leri YERLEŞTIRME ve devre dışı bırakma ve 4 Mayıs 2021 ' ye kadar nitelik edınme.
+## <a name="deprecation-and-retirement-of-put-qualification-apis-for-the-education-customer-validation-process-by-february-25-2021-and-get-qualification-by-may-4-2021"></a><a name="1"></a> 25 Şubat 2021 ' den önce eğitim müşteri doğrulama işlemi için nitelik API 'Leri YERLEŞTIRME ve devre dışı bırakma ve 4 Mayıs 2021 ' ye kadar nitelik edınme.
 
 ### <a name="categories"></a>Kategoriler
 
@@ -138,11 +123,11 @@ ________________
 
 ### <a name="impacted-audience"></a>Etkilenen hedef kitle
 
-Iş Ortağı Merkezi API 'sini kullanarak bulut çözümü sağlayıcısı programı aracılığıyla akademik, kar amacı gütmeyen ve GCC teklifleri satan iş ortakları
+Iş Ortağı Merkezi API 'sini kullanarak bulut çözümü sağlayıcısı programı aracılığıyla akademik, kar amacı ve GCC teklifleri satan iş ortakları
 
 ### <a name="details"></a>Ayrıntılar
 
-Bu, [Aralık ayında yayınlanan](https://docs.microsoft.com/partner-center/announcements/2020-december#1)Iş Ortağı Merkezi geliştirmelerinden bir izleme. Bu yayının bir parçası olarak, yeni GET ve POST nitelikleri API 'Leri dağıtılır ve bir sonuç olarak, **var olan nitelik API 'Leri Iş Ortağı Merkezi API 'leri 25 şubat 2021 ' de devre dışı bırakılır ve 4 mayıs 2021 ' ye kadar NITELIK elde eder**. Bu sırada, eğitim tekliflerini satın almak için yeni GÖNDERI Iş Ortağı Merkezi API 'Lerini kullanmak için geçiş yapmanız ve önceden nitelikli kar dışı ve GCC teklifleri satın almak için yeni GET nitelikleri API 'SI kullanmanız gerekir.
+Bu duyuru, [Aralık ayında yayınlanan](https://docs.microsoft.com/partner-center/announcements/2020-december#1)Iş ortağı merkezi geliştirmeleri için bir izdir. Bu yayının bir parçası olarak, yeni GET ve POST nitelikleri API 'Leri dağıtılır ve sonuç olarak, **var olan nitelik API 'Leri Iş Ortağı Merkezi API 'leri 25 şubat 2021 ' de devre dışı bırakılır ve 4 mayıs 2021 ' ye kadar NITELIK alır**. Bu sırada, eğitim tekliflerini satın almak için yeni GÖNDERI Iş Ortağı Merkezi API 'Lerini kullanmak için geçiş yapmanız ve önceden nitelikli kar dışı ve GCC teklifleri satın almak için yeni GET nitelikleri API 'SI kullanmanız gerekir.
 
 ### <a name="next-steps"></a>Sonraki adımlar
 

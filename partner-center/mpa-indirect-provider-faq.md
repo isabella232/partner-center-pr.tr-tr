@@ -1,7 +1,7 @@
 ---
 title: Dolaylı sağlayıcılar, satıcıların Microsoft Iş ortağı sözleşmesi 'Ni benimsemesine nasıl yardımcı olabilir-SSS
 ms.topic: article
-ms.date: 02/03/2021
+ms.date: 02/04/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Microsoft Iş ortağı sözleşmesi cevaplarıyla ilgili önemli sorular
@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1e1848ae63756141e43c980b8910ce556b6ffb32
-ms.sourcegitcommit: 9cb7dc98faae06c255dbc025f8e452d75380c16a
+ms.openlocfilehash: c1c8ea56307dcac64842e2485099e525efa3145a
+ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 02/04/2021
-ms.locfileid: "99530859"
+ms.lasthandoff: 02/06/2021
+ms.locfileid: "99624298"
 ---
 # <a name="how-indirect-providers-can-help-their-indirect-resellers-accept-the-microsoft-partner-agreement-mpa"></a>Dolaylı sağlayıcılar dolaylı satıcıların Microsoft Iş ortağı sözleşmesi 'Ni (MPA) kabul etmesine nasıl yardımcı olabilir
 
@@ -104,8 +104,6 @@ Bu, CSP 'de deneyimidir olan "danışman" iş ortakları için de geçerlidir. M
 
 MPN KIMLIĞI konumuyla ilişkili CSP hesabınız, dolaylı sağlayıcılarla çalışmanıza, müşterileri yönetmenize ve teşvikleri kazanmanıza olanak sağlar.
     
-- [Bulut çözümü sağlayıcısı programına genel bakış](csp-overview.md)
-
 - [CSP için Microsoft Iş ortağı Sözleşmesi (MPA)](microsoft-partner-agreement.md)
 
 - [CSP programındaki dolaylı sağlayıcılarla çalışma](indirect-reseller-tasks-in-partner-center.md)
@@ -134,6 +132,39 @@ Sorunlar söz konusu olduğunda, Iş Ortağı Merkezi içinden bir [destek bilet
 
 **Yanıt** MPN hesabı kimlik bilgileriyle Iş Ortağı Merkezi 'Nde oturum açın (MPN ve CSP oturum açma kimlik bilgileri farklı olabilir). **Ayarlar** ' dan   ->    ->  MPN kimliklerinizi görüntülemek için hesap ayarları kuruluş profili **tanımlayıcıları** ' nı seçin. Yeni bir MPN konumu/yan şirketi eklemek için **geçerli profile** gidin ve **Konum Ekle**'ye tıklayın.
 
+## <a name="questions-about-csp-regional-authorization"></a>CSP bölgesel yetkilendirme hakkında sorular
+
+#### <a name="what-is-a-csp-region"></a>CSP bölgesi nedir?
+
+**Yanıt** CSP bölgesi, CSP iş gerçekleştirilebilecek bir veya daha fazla ülkeden oluşur. İşletmeler, örneğin dolaylı sağlayıcılarla çalışma, müşterilerle bağlantı kurma, deneyimidir ve tahakkuk eden teşvikleri. CSP bölgesinde iş yapmak için en az bir CSP hesabına (Office 365 iş hesabı) ihtiyacınız vardır. [CSP bölgesi](regional-authorization-overview.md)hakkında daha fazla bilgi edinin.
+
+CSP dolaylı satıcısıysanız, aynı bölgedeki dolaylı bir sağlayıcı ile iş ortağınız olması gerekir ve yalnızca aynı bölgedeki müşterilere satış yapabilirsiniz.
+
+#### <a name="why-cant-i-associate-my-mpn-id-to-my-tenant"></a>MPN kimliğimi neden kiracıma ilişkilendiremiyorum?
+
+**Yanıt**  MPN KIMLIĞINIZI kiracınız ile ilişkilendiremediyseniz ve bir hata görürseniz, MPN KIMLIĞI ve kiracının aynı ülkede olmadığı anlamına gelir. İlişkinin çalışması için, her ikisinin de aynı ülkede olması gerekir. Bunun nedeni, Microsoft teşvikleri 'in ülke ve MPN KIMLIK düzeyi başına ödenme nedeniyle oluşur. Örneğin, Fransa 'da CSP hesabınız varsa, ücretli teşvikleri almak için Fransa 'da da MPN konumuna (MPN KIMLIĞI) ihtiyacınız vardır. Birleşik Krallık 'ta MPN KIMLIĞI , aynı CSP bölgesinde olsalar da çalışmayacak. 
+
+Bu sorunu çözmek için CSP ülkesine sahip aynı ülkede bir MPN konumu oluşturun. [MPN konumlarını yönetme](manage-locations.md)hakkında daha fazla bilgi edinin.
+
+#### <a name="i-have-a-csp-indirect-reseller-account-in-france-can-i-partner-with-indirect-provider-in-germany"></a>Fransa 'da bir CSP dolaylı satıcı hesabıdır. Almanya 'daki dolaylı sağlayıcıyla iş ortakları yapabilir miyim?
+
+**Yanıt** Yes. CSP dolaylı satıcı hesabı bir CSP bölgesinde etkin olduktan sonra, tüm bölgede iş yapmak için aynı hesap kullanılabilir. [CSP bölgesi](regional-authorization-overview.md)hakkında daha fazla bilgi edinin.
+
+#### <a name="i-am-an-indirect-reseller-in-the-us-can-i-partner-with-an-indirect-provider-in-uk"></a>ABD 'de dolaylı bir satıcıyım. Birleşik Krallık 'ta dolaylı bir sağlayıcıyla iş ortağı yapabilir miyim?
+
+**Yanıt** Eşleşen. CSP, bölgesel bir programdır. Hem dolaylı satıcı hem de dolaylı sağlayıcının CSP hesabı iş için aynı CSP bölgesinde olmalıdır. Bu sorunu çözmek için Avrupa bölgesinde yeni bir CSP hesabı oluşturmanız ve CSP hesabı ülkesinden aynı ülkede bir MPN konumu oluşturmanız ve ardından dolaylı Sağlayıcıınızdan ilişki isteğini kabul etmeniz gerekir. Örneğin, Fransa 'da bir CSP dolaylı satıcı hesabı oluşturabilir, Fransa 'da bir MPN konumu oluşturabilir ve ardından Fransa veya CSP Avrupa bölgesindeki diğer ülkelerin herhangi biri olan dolaylı sağlayıcıdan gelen daveti kabul etmiş olursunuz.
+
+#### <a name="can-i-have-more-than-1-mpn-and-csp-accounts-in-partner-center"></a>Iş Ortağı Merkezi 'nde 1 ' den fazla MPN ve CSP hesabına sahip olabilir miyim?
+
+**Yanıt** Şirketinizin gerçekleştirdiği CSP bölgelerine bağlı olarak yalnızca bir MPN hesabı (oturum açma) ve bir veya daha fazla CSP hesabı (oturum açma) olabilir. Örneğin, MPN hesabınızı ABD 'de (HQ) ABD 'de (Türkiye), Birleşik Krallık (yan kuruluş) ve Avustralya (yan kuruluş) konumlarına sahip olabilirsiniz.
+ABD 'de MPN hesabınızla aynı oturum açma kimlik bilgilerine sahip bir CSP hesabınız (Office 365 iş hesabı) olabilir. Birleşik Krallık 'ta ikinci CSP hesabınız olabilir Avrupa bölgesinde CSP işletmelerini yönetmek için farklı oturum açma kimlik bilgilerine sahiptir ve bu, Avustralya 'daki üçüncü bir oturum açma kimlik bilgilerine sahiptir ve bu iki adımda CSP işletmelerini yönetebilir.
+
+Bu üç CSP hesabının tümü iş yapmak için MPN KIMLIĞI konum hesaplarıyla ilişkilendirilmelidir ve bu yan kuruluşlar içinde teşvikleri kazanırmalıdır. MPN Uzmanlıklar ve avantajları yalnızca MPN hesabı tarafından yönetilebilir.
+
+#### <a name="i-am-a-csp-indirect-reseller-in-us-and-want-to-expand-my-business-to-europe-what-do-i-need-to-do-in-partner-center"></a>ABD 'de bir CSP dolaylı satıcısı kullanıyorum ve işletmeyi Avrupa 'ya genişletmek istiyorsunuz. Iş Ortağı Merkezi 'nde ne yapmam gerekir?
+
+**Yanıt** Ülkede iş yapmak istediğiniz bir MPN konumuna ihtiyacınız olacak ve aynı ülkede CSP dolaylı satıcı programına kaydolistemeniz gerekir. Yeni [MPN konumları ve CSP](manage-locations.md#prerequisites-in-order-to-add-a-new-account-for-a-csp-business)kayıtları oluşturma hakkında daha fazla bilgi edinin.
+
 ## <a name="question-about-migrating-your-mpn-account-from-pmc-to-partner-center"></a>MPN hesabınızı PMC 'den Iş Ortağı Merkezi 'ne geçirme sorusu
 
 #### <a name="i-want-to-migrate-my-mpn-account-from-partner-membership-center-to-partner-center-how-can-i-do-it-i-do-not-know-who-was-my-mpn-admin-in-pmc--how-can-i-migrate-"></a>MPN hesabımı Iş ortağı üyeliği merkezinden Iş Ortağı Merkezi 'ne geçirmek istiyorum. Bunu nasıl yapabilirim? MPN yöneticimin kim 'de kim olduğunu bilmiyorum, nasıl geçiş yapabilirim? 
@@ -142,10 +173,7 @@ Sorunlar söz konusu olduğunda, Iş Ortağı Merkezi içinden bir [destek bilet
 
 MPN hesabını geçirdikten sonra, MPA 'yı imzalama hakkında daha fazla bilgi edinin, okuma [Microsoft-iş ortağı-sözleşmesi] 9microsoft-iş ortağı-sözleşmesi. MD # download-adım adım--------------------------------------
 
-Sorunlar söz konusu olduğunda, Iş Ortağı Merkezi içinden bir [destek bileti](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=2da4e1c7-3b4b-5672-6227-56bc75a936b4) yükseltin. 
-
-
-
+Sorunlar söz konusu olduğunda, Iş Ortağı Merkezi içinden bir [destek bileti](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=2da4e1c7-3b4b-5672-6227-56bc75a936b4) yükseltin.
 
 #### <a name="how-do-i-check-if-my-mpn-id-is-migrated-into-partner-center"></a>Nasıl yaparım? MPN KIMLIĞI Iş Ortağı Merkezi 'ne geçirildiyse kontrol edilsin mi?
 
@@ -161,6 +189,7 @@ Sorunlar söz konusu olduğunda, Iş Ortağı Merkezi içinden bir [destek bilet
 #### <a name="i-enrolled-in-mpn-program-and-as-a-csp-indirect-reseller-program-but-my-legal-business-profile-verification-status-is-in-rejected-state-what-should-i-do"></a>MPN programına ve CSP dolaylı satıcı programı olarak kaydoldum, ancak yasal iş profili doğrulama durumunuz reddedildi durumunda. Ne yapmalıyım?
 
 **Yanıt** **Güncelleştirme**' ye tıklayarak yasal profil bilgilerini güncelleştirmeniz gerekir. Devam etmeden önce aşağıdaki makaleleri okuyun:
+
 - [Hesap bilgilerinizi doğrulama](verification-responses.md#what-is-verified-and-how-to-respond)
 
 - [Kuruluş profilinizi doğrulama](update-your-partner-profile.md)

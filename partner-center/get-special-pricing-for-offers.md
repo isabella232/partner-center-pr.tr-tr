@@ -9,18 +9,14 @@ author: alikhaki
 ms.author: alikhaki
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c25bafc4b152ce0ca205860b3692293aaadf3636
-ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
+ms.openlocfilehash: 24343b4cf7d51398410c33403efa7dc596adf891
+ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "92531363"
+ms.lasthandoff: 02/06/2021
+ms.locfileid: "99624060"
 ---
 # <a name="sell-to-specialized-industries-like-education-non-profit-and-government-users"></a>Eğitim, kar amacı gütmeyen kuruluş ve kamu kullanıcıları gibi özelleştirilmiş sektörlere satış yapma
-
-**Uygulama hedefi**
-
-- İş Ortağı Merkezi
 
 **Uygun roller**
 
@@ -44,15 +40,15 @@ Aşağıdaki adımlar yalnızca dolaylı sağlayıcılar ve doğrudan fatura ort
 
 1. Iş Ortağı Merkezi [panonuzda](https://partner.microsoft.com/dashboard), **Hesap ayarlarını** açmak için pencerenin sağ üst köşesindeki dişli simgesini seçin.
 
-2. **Iş ortağı profilinizde** **Program bilgileri** bölümünde **satıcı nitelikleri** ' ni arayın.
+2. **Yasal profilinizde**, **Program bilgileri** bölümünde **satıcı nitelikleri**' ni arayın.
 
 3. **Satıcı niteliklerini** görmüyorsanız, henüz özel bir teklif satın alma yetkiniz yok demektir.
 
 ## <a name="check-the-customer-qualifications"></a>Müşteri niteliklerini denetleyin
 
-1. **Iş Ortağı Merkezi** menüsünde **müşteriler** ' i seçin. Listeden müşteriyi seçin.
+1. **Iş Ortağı Merkezi** menüsünde **müşteriler**' i seçin. Listeden müşteriyi seçin.
 
-2. Müşteri menüsünde **Hesap** ' ı seçin. **Şirket bilgileri** bölümünde **özel nitelikler** ' i arayın.
+2. Müşteri menüsünde **Hesap**' ı seçin. **Şirket bilgileri** bölümünde **özel nitelikler**' i arayın.
 
 3. **Özel nitelikler** **hiçbiri** olarak ayarlandıysa, ancak müşteri nitelikleri karşılıyorsa, ayrıntılarını bunları içerecek şekilde **güncelleştirebilirsiniz** .
 
@@ -81,4 +77,4 @@ Müşterilere özel teklifler satmaya yönelik satın alma kuralları:
 
 - [Eğitim müşterilerine Minecrat: eğitim sürümü abonelikleri satma](minecraft-subscriptions.md)
 
-- [ABD kamu için Microsoft Bulut iş ortağı Merkezi](partner-center-for-microsoft-us-govt-cloud.md)
+- [Microsoft Cloud for US Government için İş Ortağı Merkezi](partner-center-for-microsoft-us-govt-cloud.md)

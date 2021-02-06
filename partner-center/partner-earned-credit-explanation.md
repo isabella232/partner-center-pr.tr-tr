@@ -9,12 +9,12 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f274103feeadfa6fd135f99632f3013c29601972
-ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
+ms.openlocfilehash: 010f74164b0428a5cd6ffcde5000b52ac6a6993f
+ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98182418"
+ms.lasthandoff: 02/06/2021
+ms.locfileid: "99624009"
 ---
 # <a name="how-the-partner-earned-credit-is-calculated-and-paid"></a>İş ortağı kazanılmış kredisinin hesaplanması ve ödenmesi
 
@@ -52,7 +52,7 @@ Ayrıca, [Azure CSP abonelikleri için yeniden devreye sokma yönetici ayrıcal�
 
 ### <a name="calculation"></a>Hesaplama
 
-PEC günlük olarak hesaplanır ve günlük kullanım dosyasında ve aylık fatura keşfi dosyasında görüntülenebilir. Bir iş ortağı (dolaylı sağlayıcı veya dolaylı satıcı), PEC kazanıdıklarından emin olmak için tüm gün (7/24) erişimi olmalıdır. PEC, yönetilen Azure varlıklarının her gün temelinde hesaplanır. Belirli bir fatura dönemi için maksimum PEC (ay) %15 ' tir. İş ortakları ay (erişim kapsamı) ile kalıcı ayrıcalıklı erişimi korur ve tüm uygun kaynaklar (erişim kapsamı) için tam PEC %15 kazanacaktır. Kapsam ve yayılma azaltma, ay için daha düşük PEC oranına neden olur. Günlük olarak derecelendirilen kullanım dosyası, PEC 'in uygulanıp uygulanmadığı bir Azure varlığı üzerinde günlük olarak gösterilir. İş ortakları, kalıcı ayrıcalıklı erişimdeki değişiklikleri izlemek için uyarılara de kaydolabilir.
+PEC günlük olarak hesaplanır ve günlük kullanım dosyasında ve aylık fatura keşfi dosyasında görüntülenebilir. Bir iş ortağı (dolaylı sağlayıcı veya dolaylı satıcı), PEC kazanıdıklarından emin olmak için tüm gün (7/24) erişimi olmalıdır. PEC, yönetilen Azure varlıklarının her gün temelinde hesaplanır. İş ortakları ayda kalıcı ayrıcalıklı erişimi (erişim kapsamı) ve tüm uygun kaynakların (erişim kapsamı) tam PEC kazanmasına sahip olur. Kapsam ve yayılma azaltma, ay için daha düşük PEC oranına neden olur. Günlük olarak derecelendirilen kullanım dosyası, PEC 'in uygulanıp uygulanmadığı bir Azure varlığı üzerinde günlük olarak gösterilir. İş ortakları, kalıcı ayrıcalıklı erişimdeki değişiklikleri izlemek için uyarılara de kaydolabilir.
 
 ## <a name="azure-cost-management"></a>Azure Maliyet Yönetimi
 
