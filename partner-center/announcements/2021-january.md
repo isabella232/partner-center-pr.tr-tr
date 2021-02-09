@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 01/28/2021
-ms.openlocfilehash: e450e109205481ff9c973935583307bf965e02ee
-ms.sourcegitcommit: 81017727107a907bf1f3246097b51667d7c5fb18
+ms.openlocfilehash: 7195dbd9bb9a862b7b3064ed641739f04bcab512
+ms.sourcegitcommit: 99e4ca8495860a3119debb139509b9c8a9db4c87
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/30/2021
-ms.locfileid: "99098882"
+ms.lasthandoff: 02/09/2021
+ms.locfileid: "99974765"
 ---
 # <a name="january-2021-announcements"></a>Ocak 2021 duyuruları
 
@@ -587,8 +587,8 @@ Tüm iş ortakları bulut çözümü sağlayıcısı (CSP) programı üzerinden 
 
 Etkilenen para birimleri: 
 
-- Microsoft 365 E3 fiyat sorunları yalnızca şu para birimleriyle sınırlandırılmıştır: JŞ (Japonca yen), GBP (İngiltere Sterlini), EUR (Avrupa Birliği), AUD (Avustralya Doları). 
-- Microsoft 365 İş temel sorunlar yalnızca USD (Birleşik Devletler dolar) ile sınırlandırılmıştır. 
+- Microsoft 365 E3 fiyat sorunları yalnızca şu para birimleriyle sınırlandırılmıştır: Japonca yen (JLIN), Great Ingiliz Sterlini (GBP), Avrupa Birliği (EUR), Avustralya Doları (AUD). 
+- Microsoft 365 İş temel sorunlar yalnızca Birleşik Devletler dolar (USD) ile sınırlandırılmıştır. 
 
 İş ortakları, doğru fiyatlar için şu anda kullanılabilir Ocak ve Şubat önizleme fiyatı listelerine başvurmalıdır. 
 
