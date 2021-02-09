@@ -1,19 +1,19 @@
 ---
 title: Teşvikleri SSS
 ms.topic: how-to
-ms.date: 10/29/2020
+ms.date: 02/05/2021
 description: Microsoft teşvikleri hakkında sık sorulan sorular. Bu makale, Kullanıcı rolleri, kaydetme veya hata iletileriyle ilgili ne yapılacak hakkında sorular içerir.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: 166e120af2f00cef50ec0681913dd3787a4f9f39
-ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
+ms.openlocfilehash: 332832b14e3434824aee2b1a6bcf7eb321fb7a60
+ms.sourcegitcommit: 2d1f0d7bc897278ef37af6d43c1a088f5ca14807
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 02/06/2021
-ms.locfileid: "99624230"
+ms.lasthandoff: 02/08/2021
+ms.locfileid: "99835076"
 ---
 # <a name="frequently-asked-questions-on-incentives"></a>Teşvikleri hakkında sık sorulan sorular
 
@@ -67,17 +67,11 @@ Teşvikleri görmeme nedeni, doğru izinlere sahip olmadığınızdan emin olman
 
 ## <a name="some-enrollments-are-missing-from-the-incentives-overview-page"></a>Teşvikleri Genel Bakış sayfasında bazı kayıtlar eksik.
 
-Teşvikleri **genel bakış** sayfasında beklediğinizden daha az kayıt görürseniz, aşağıdakileri yapabilirsiniz.
+' Dan bir davet aldınız veya ' a kaydolduysanız, artık panoda görünmeyen bir özenk programı ile, uygun erişime sahip olup olmadığınızı iki kez kontrol etmelisiniz. Yalnızca teşvik eden Kullanıcı veya teşvik yönetici rolü olan kullanıcılar programı görebilir. Bkz. [rolünüzü bulma](https://docs.microsoft.com/partner-center/find-your-role).
 
-1. [İş Ortağı Merkezi panosunda](https://partner.microsoft.com/dashboard/) oturum açın.
+Rolünüzü veya izinlerinizi değiştirmeniz gerekiyorsa, şirketinizin genel veya hesap yöneticisine başvurun. Bu kişilerin kim olduğunu öğrenmek için [genel yöneticinizle bulun](https://docs.microsoft.com/partner-center/find-your-role#find-your-global-admin)makalesini okuyun.
 
-2. **Ayarlar** altında [Kullanıcı yönetimi](https://partner.microsoft.com/pcv/users)' ni seçin.
-
-3. İzinlerinizi görmek için adınızı seçin.
-
-Rolünüzü veya izinlerinizi değiştirmeniz gerekiyorsa, şirketinizin genel veya hesap yöneticisine bakın.
-
-Bu sayfanın yalnızca Azure AD kiracısı ile ilişkili Iş ortağı küresel hesabı (PGA) ile ilişkili kayıtları görüntüleydiğine unutmayın. Şirketinizde birden fazla PGA varsa, her biri için farklı kimlik bilgilerine sahip olmanız gerekir.
+Genel Bakış sayfasının yalnızca Azure AD kiracısı ile ilişkili Iş ortağı genel hesabıyla (PGA) ilişkili kayıtları görüntüleydiğine göz atın. Şirketinizde birden fazla PGA varsa, her biri için farklı kimlik bilgilerine sahip olmanız gerekir.
 
 ## <a name="who-should-i-contact-if-i-get-an-error-message-or-need-help-during-the-enrollment-process"></a>Kayıt işlemi sırasında bir hata iletisi aldığımda veya yardıma ihtiyaç duysam kimler başvurmalıyım?
 

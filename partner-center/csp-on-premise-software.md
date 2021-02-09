@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e0ca730da28f320de50a1990a1bcfe13b195bbbf
-ms.sourcegitcommit: 81017727107a907bf1f3246097b51667d7c5fb18
+ms.openlocfilehash: 412abdd0de9154d897252004440f7d8d153ec74b
+ms.sourcegitcommit: 2d1f0d7bc897278ef37af6d43c1a088f5ca14807
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/30/2021
-ms.locfileid: "99098865"
+ms.lasthandoff: 02/08/2021
+ms.locfileid: "99834828"
 ---
 # <a name="sell-on-premise-software-through-the-cloud-solution-provider-csp-program"></a>Bulut çözümü sağlayıcısı (CSP) programı aracılığıyla şirket içi yazılım satma
 
@@ -40,7 +40,7 @@ Yazılım aboneliklerini bir müşteri adına satın almak için müşterinin ay
 Yazılımınızı satın aldıktan sonra müşterilerinizin indirmeniz gerekir. Bunu yapmak için aşağıdaki yordamı kullanın.
 
 >[!NOTE]
->Anahtarları ve İndirmeleri almak için bir yönetim aracısı olmanız gerekir.
+>Anahtarlar ve indirmelerin bağlantısını elde etmek için bir yönetim aracısı olmanız gerekir.
 
 1. Müşterinizin ayrıntı sayfasına gidin ve ardından **yazılım**' ı seçin. Müşteri adına satın aldığınız tüm yazılımların bir listesini görürsünüz.
 2. "Ayrıntılı bağlantı" nu **yazılım ürün anahtarlarına bağlantısından kopyalayın ve** bağlantıyı indirip bilgisayarınızla paylaşabilirsiniz. Bu bağlantıyı seçerken, ürün anahtarlarını indirmek ve almak için Microsoft Yönetim merkezine yönlendirilir.

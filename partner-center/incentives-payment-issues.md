@@ -1,27 +1,27 @@
 ---
 title: Ödeme ve kazanç sorunlarını giderme
 ms.topic: article
-ms.date: 10/30/2020
+ms.date: 02/05/2021
 description: Eksik veya yanlış kazanç, uygunluk sorunları ve teşvikleri gelirinizi mutabık kılma gibi sorunları çözmeyi öğrenin.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: e3a8890127ce9ff73fd09b7a35d4e167b5629f45
-ms.sourcegitcommit: 7f595faf952bf2d6cdc229da38bd67ee701b2083
+ms.openlocfilehash: 971b053119a263ed5c7f8e25fb532b4137e1cb13
+ms.sourcegitcommit: 2d1f0d7bc897278ef37af6d43c1a088f5ca14807
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 11/02/2020
-ms.locfileid: "93189773"
+ms.lasthandoff: 02/08/2021
+ms.locfileid: "99834892"
 ---
 # <a name="troubleshooting-missing-payments-incorrect-earnings-and-other-issues"></a>Eksik ödemeler, yanlış kazanç ve diğer sorunlar hakkında sorun giderme
 
-**Uygulama hedefi** :
+**Uygulama hedefi**:
 
 - İş Ortağı Merkezi
 
-**Uygun roller** :
+**Uygun roller**:
 
 - Teşvikleri Yöneticisi
 
@@ -62,17 +62,35 @@ Eksik veya hatalı ödemelere genellikle aşağıdakilerden biri neden olur:
   
   3. İstediğiniz belge bağlantısını seçin ve ardından bölümleri gözden geçirin 
 
-**Iş ortağı uygunluk** ve **uygun gelir kuralları** .
+**Iş ortağı uygunluk** ve **uygun gelir kuralları**.
 
 - **Ödeme profiliniz tamamlanmamış olabilir.** Teşvik kazançlarınızın başlangıç tarihi, ödeme ve veri ayrıntılarıyla eklenme de dahil olmak üzere tüm uygunluk gereksinimlerini karşıladığınız ayın ilk günü olacaktır. Ödeme ve veri ayrıntılarının tamamlanmasından önceki aylar için kazanç sağlanmaz. Örneğin Nisan 2020 boyunca tüm gereksinimleri tamamladıysanız kazanç başlangıç tarihi 1 Nisan 2020 olacaktır.
-- **Bekleyen bir eyleminiz olabilir** .  Sizden bir eylem beklendiği için teşvikleriniz işlenmiyor olabilir.
+- **Bekleyen bir eyleminiz olabilir**.  Sizden bir eylem beklendiği için teşvikleriniz işlenmiyor olabilir.
 
   **Bekleyen eylemlerinizi görüntülemek için**
 
   1. [Iş ortağı teşvikleri](https://partner.microsoft.com/membership/partner-incentives)oturum açın.
-  2. **İşlem geçmişi** sayfasını açın. **Bekleyen vergi profili** , **bekleyen ödeme profili** veya **bekleyen vergi fatura gönderimi** gibi bekleyen tüm eylemlerin tamamlanması için bu sayfadaki alanları gözden geçirin.
+  2. **İşlem geçmişi** sayfasını açın. **Bekleyen vergi profili**, **bekleyen ödeme profili** veya **bekleyen vergi fatura gönderimi** gibi bekleyen tüm eylemlerin tamamlanması için bu sayfadaki alanları gözden geçirin.
 
 Bu eylemler yardım yoksa ve ödemeler hala eksik veya yanlış ise [desteğe](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives)başvurun.
+
+## <a name="how-can-i-reconcile-my-adjustments"></a>Ayarlamalarımı nasıl giderebilirim?
+
+Telafi ve işlem ayrıntılarınızı indirerek düzeltmelerinizi bulabilir ve mutabık hale getirebilirsiniz.
+
+1. [İş Ortağı Merkezi panosunda](https://partner.microsoft.com/dashboard/) oturum açın.
+2. Üst gezinti çubuğunda para simgesini seçin ve ardından **işlem geçmişi**' ni seçin.
+3. Uygun filtreleri uygulayın. (Aşağıdaki **önemli** nota bakın.)
+4. Verilerinizi filtreledikten sonra **Indirmeyi Başlat**' ı seçin ve ardından **verileri dışarı aktar**' ı seçin. Verileriniz bir CSV dosyasında açılır.
+5. CSV dosyasında, sütun P, **atma türü**' ne gidin.
+6. Bu sütunu **ayarlama-indirim** için filtreleyin. Her bir ayarlamanın ayını sütun S ' de görebilirsiniz.
+
+>[!IMPORTANT]
+>Önceki kazanç dönemlerine uygulanan ayarlamalar, ayarlamanın uygulandığı aya ait kazanç açısından görünmez. Ayarlamalar, ayarlamanın uygulandığı aya ait kazanç raporunda her zaman yansıtılacaktır.
+>
+>Örneğin, 2019 Eylül 2019 ' de işlenen Ocak kazancı için bir ayarlama, 2019 Eylül ayının kazanç miktarında yansıtılacaktır. Ancak, Eylül 2019 ' den Itibaren ödeme alındığında, Eylül ayında uygulanan 2019 Ocak için ayarlamayı dahil eder. Bu senaryoda, uygulanan ayarlamayı görmek için 2019 Ocak için işlem ayrıntılarını indirmeniz gerekir.
+>
+>Tarih filtrelerinizi ayarladığınızda bunu göz önünde bulundurun. Yukarıda belirtildiği gibi, önceki dönemlerin ayarlamaları yalnızca ayarlamanın uygulandığı ay içinde görünür olur. Tarih aralığı ' nın, bulmaya çalıştığınız ayarlamanın ayına karşılık geldiğinden emin olun. Filtrelerinizi kaldırmak için **Tümünü Temizle** ' yi seçmeniz ve sonra yenilerini uygulamanız gerekebilir.
 
 ## <a name="why-are-my-co-op-claim-payments-made-in-two-different-currencies"></a>Birlikte çalışma talebi ödemelerim neden iki farklı para biriminde yapılıyor?
 
@@ -123,7 +141,7 @@ Bu görünüm tüm programlar ve MPN kimlikleri için ödemeleri görüntülemen
 | Ödeme bilgilerinizi satıra göre görüntüleme, yerel para birimi cinsinden kazanç ve ödeme miktarları dahil  | **Ödemeler listesi alanının listesini** görüntüleyin   |
 | Bir havale mektubu indirin   |  **Ödeme havalesi** seçin  |
 | Belirli bir ödemenin işlem düzeyi ayrıntılarını görüntüleme |  **Görünüm** Seç  |
-| İşlem ayrıntılarını Excel 'e aktar  |  **Indirmeyi Başlat** ' ı seçin ve ardından **verileri dışarı aktar** ' a tıklayın. Seçilen tüm filtrelerin, verilecek verilere uygulanacağını unutmayın. Durum tamamlandı olarak değiştirildikten sonra **İndir** ' i seçin ve ayrıntılı işlemler raporunu dışarı aktarmak için istemleri izleyin. Durum beş dakika içinde güncellenmemişse sayfayı yenileyin.  |
+| İşlem ayrıntılarını Excel 'e aktar  |  **Indirmeyi Başlat**' ı seçin ve ardından **verileri dışarı aktar**' a tıklayın. Seçilen tüm filtrelerin, verilecek verilere uygulanacağını unutmayın. Durum tamamlandı olarak değiştirildikten sonra **İndir** ' i seçin ve ayrıntılı işlemler raporunu dışarı aktarmak için istemleri izleyin. Durum beş dakika içinde güncellenmemişse sayfayı yenileyin.  |
 
 ### <a name="missing-or-incorrect-earnings-and-payments"></a>Eksik veya yanlış kazanç ve ödemeler
 
