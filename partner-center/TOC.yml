@@ -59,6 +59,9 @@
         - name: Yetkinlikler hakkında bilgi edinin
           href: learn-about-competencies.md
           displayName: mpn
+        - name: Bir öğrenme Iş ortağı olarak kaydetme
+          href: mpn-benefits-map-competency-learning-option-enroll.md
+          displayName: mpn
         - name: Yetkinlikler hakkında SSS
           href: competencies-faq.md
           displayName: 'renew, mpn'
