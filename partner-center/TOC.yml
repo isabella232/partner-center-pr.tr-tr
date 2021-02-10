@@ -9,7 +9,7 @@
     - name: Microsoft ile iş ortaklığı yapma
       href: mpn-overview.md
       displayName: mpn
-    - name: İş Ortağı Merkezi hesabı oluşturma
+    - name: Iş Ortağı Merkezi 'nde MPN hesabı oluşturma
       href: mpn-create-a-partner-center-account.md
       displayName: mpn
     - name: İş e-posta adresi alma
@@ -47,6 +47,9 @@
           displayName: 'renew, mpn'
         - name: Tekliflerinizi yenileme
           href: renew-mpn-offers.md
+          displayName: mpn
+        - name: Para iadesi isteme
+          href: mpn-refund-request.md
           displayName: mpn
         - name: MPN avantajlarınızı bulma
           href: mpn-find-benefits.md
@@ -86,6 +89,9 @@
           displayName: mpn
         - name: Pazara çıkış avantajları
           href: mpn-learn-about-go-to-market-benefits.md
+          displayName: mpn
+        - name: MPN iş ortakları için tanıtımlar
+          href: mpn-demos.md
           displayName: mpn
         - name: Avantajlar hakkında SSS'ler
           href: benefits-faq.md
