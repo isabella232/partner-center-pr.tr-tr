@@ -1,5 +1,5 @@
 ---
-title: İş Ortağı Merkezi hesabı oluşturma
+title: Iş Ortağı Merkezi 'nde MPN hesabı oluşturma
 ms.topic: article
 ms.date: 02/08/2021
 ms.service: partner-dashboard
@@ -9,23 +9,23 @@ author: ParthP
 ms.author: ParthP
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 129cdd337f9b475b37d14c4e68058736b473fe33
-ms.sourcegitcommit: 5768f10cd122a20fe3df3062ea34e7096d99f639
+ms.openlocfilehash: 39ff18e82782dcc19e1bda5cd774012f241a0b3a
+ms.sourcegitcommit: df3360786b46f9c2724dbd521e11366ffcbda307
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 02/09/2021
-ms.locfileid: "100005947"
+ms.lasthandoff: 02/10/2021
+ms.locfileid: "100013699"
 ---
-# <a name="create-a-partner-center-account-to-manage-network-benefits-and-competencies"></a>Ağ avantajlarını ve uzmanlık alanı yönetimini yönetmek için bir Iş Ortağı Merkezi hesabı oluşturun
+# <a name="create-an-mpn-account-in-partner-center-to-manage-network-benefits-and-competencies"></a>Ağ avantajlarını ve Uzmanlıklar yönetmek için Iş Ortağı Merkezi 'nde bir MPN hesabı oluşturun
 
 
-Microsoft İş Ortağı Ağı yeni başladıysanız ve MPN KIMLIĞI yoksa kayıt [yönergelerini](https://partner.microsoft.com/dashboard/account/v3/enrollment/introduction/partnership)izleyerek kaydınız başlatabilirsiniz.
+Microsoft İş Ortağı Ağı (MPN) ile yeni başladıysanız ve MPN KIMLIĞI yoksa kayıt [yönergelerini](https://partner.microsoft.com/dashboard/account/v3/enrollment/introduction/partnership)izleyerek kaydınız başlatabilirsiniz.
 
 ## <a name="prerequisites"></a>Önkoşullar 
 
 Iş Ortağı Merkezi 'nde bir hesap oluşturmaya hazır olduğunuzda, kullanmaya başlamak için aşağıdaki öğelerin elinizin altında olması gerekir.  Başlamadan önce bu öğelerin toplanması birkaç dakika geçmesi gerekebilir:
 
-- Şirket iş e-postası veya Office 365 iş hesabı. Daha fazla bilgi edinmek için [şirketinizin iş hesabınızı ve Iş ortağı merkezini](azure-active-directory-tenants-and-partner-center.md) okuyun 
+- Şirket iş e-postası veya Office 365 iş hesabı. Daha fazla bilgi için [şirketinizin iş hesabınızı ve Iş ortağı merkezini](azure-active-directory-tenants-and-partner-center.md) okuyun 
  
 - Şirketinizin yasal iş adı ve adresi.
 
@@ -61,7 +61,7 @@ Iş Ortağı Merkezi 'nde bir hesap oluşturmaya hazır olduğunuzda, kullanmaya
 Birincil ilgili kişi, şirketinizde sizinle iletişim kurabildiğimiz kişi olmalıdır (Bu sizin veya şirketinizdeki başka bir kişi olabilir).
 
 >[!IMPORTANT]
->Şirketinizin güvenliğinin ve gizliliğinin sağlanmasına yardımcı olmak üzere, e-posta adresini doğrulamak ve e-posta adresinin şirketinize ait olduğundan emin olmak için, birincil iletişim e-posta adresini doğruladıktan sonra, verdiğiniz bilgileri gözden geçirmemiz için devam edeceğiz. Doğrulama genellikle 3-5 iş günü sürer. 
+>Şirketinizin güvenliğinin ve gizliliğinin sağlanmasına yardımcı olmak üzere, e-posta adresini doğrulamak ve e-posta adresinin şirketinize ait olduğundan emin olmak için birincil kişinizi e-posta ile göndereceğiz. Birincil iletişim e-posta adresini doğruladıktan sonra, verdiğiniz bilgileri gözden geçirmemiz için devam edeceğiz. Doğrulama genellikle 3-5 iş günü sürer. 
 
 ## <a name="how-to-view-account-details-or-view-and-download-the-mpn-agreement"></a>Hesap ayrıntılarını görüntüleme veya MPN sözleşmesini görüntüleme ve indirme
 
