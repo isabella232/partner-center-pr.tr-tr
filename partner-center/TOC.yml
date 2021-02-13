@@ -127,9 +127,6 @@
     - name: Microsoft İş Ortağı Sözleşmesi - CSP'ler
       href: microsoft-partner-agreement.md
       displayName: 'csp, mpn'
-    - name: Konumları yönetme
-      href: manage-locations.md
-      displayName: 'mpn, csp'
     - name: 'Dolaylı sağlayıcılar, satıcılarına MPA ''yı benimseme konusunda nasıl yardımcı olabilir'
       href: mpa-indirect-provider-faq.md
       displayName: 'csp, mpa, indirect, provider'
@@ -197,6 +194,9 @@
           displayName: mpn
         - name: İş hesabınızı bağlama
           href: azure-active-directory-tenants-and-partner-center.md
+        - name: Konumları yönetme
+          href: manage-locations.md
+          displayName: 'mpn, csp'
         - name: Etki alanı sahipliğini doğrulama
           href: become-global-admin.md
         - name: Hesap bilgilerini doğrulama
@@ -262,6 +262,8 @@
       items:
         - name: Ortak satış müşteri adayları hakkında
           href: manage-co-sell-opportunities.md
+        - name: Toplu işlemler
+          href: bulk-operations.md
         - name: Ortak satış CRM bağlayıcıları kullanma
           items:
             - name: Dynamics 365 için
