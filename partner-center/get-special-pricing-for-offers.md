@@ -9,12 +9,12 @@ author: alikhaki
 ms.author: alikhaki
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 24343b4cf7d51398410c33403efa7dc596adf891
-ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
+ms.openlocfilehash: 2c1cb2adc28a19f265643c5e2756fbdf1195b970
+ms.sourcegitcommit: 64b43ad8fb7bb56628450bea06b9cd2606c36b03
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 02/06/2021
-ms.locfileid: "99624060"
+ms.lasthandoff: 02/12/2021
+ms.locfileid: "100281269"
 ---
 # <a name="sell-to-specialized-industries-like-education-non-profit-and-government-users"></a>Eğitim, kar amacı gütmeyen kuruluş ve kamu kullanıcıları gibi özelleştirilmiş sektörlere satış yapma
 
@@ -24,7 +24,7 @@ ms.locfileid: "99624060"
 - Yönetim Aracısı
 - Satış Aracısı
 
-Microsoft, Eğitim müşterileri, kar amacı olmayan müşteriler, küçük işletmeler ve kamu kurumları dahil olmak üzere belirli müşteri grupları için özel, daha düşük bir fiyatlandırma sağlar. Hem siz hem de müşterinizin özel fiyatlandırma sunmadan önce nitelikli olması gerekir. 
+Microsoft, Eğitim müşterileri, kar amacı olmayan müşteriler, küçük işletmeler ve kamu kurumları dahil olmak üzere belirli müşteri grupları için özel, daha düşük bir fiyatlandırma sağlar. Hem siz hem de müşterinizin özel fiyatlandırma sunmadan önce nitelikli olması gerekir. Bu özel fiyatlandırılır Şu anda yalnızca Microsoft 365, Dynamics, Intune vb. **Lisans tabanlı hizmetler için sunulmaktadır** . Diğer türler (yazılım abonelikleri, kalıcı yazılım veya Azure ürünleri) için kullanılamaz.
 
 ## <a name="requirements-to-sell-to-specialized-industries"></a>Özelleştirilmiş sektörlere satış gereksinimleri
 

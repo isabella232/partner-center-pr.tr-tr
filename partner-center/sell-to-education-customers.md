@@ -9,12 +9,12 @@ author: alikhaki
 ms.author: alikhaki
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5af6ae0d3c11d2ea59e4b8ef2224393e48d6a3df
-ms.sourcegitcommit: cd4047e46ed116339bd9918b94af7138bcae6603
+ms.openlocfilehash: a101c3d29b947950179ca0ae446f049ccf785bb8
+ms.sourcegitcommit: 64b43ad8fb7bb56628450bea06b9cd2606c36b03
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/06/2021
-ms.locfileid: "97916925"
+ms.lasthandoff: 02/12/2021
+ms.locfileid: "100281309"
 ---
 # <a name="how-to-sell-offers-to-education-customers-and-how-to-create-an-education-customer-in-partner-center"></a>Eğitim müşterilerine teklif satma ve Iş Ortağı Merkezi 'nde eğitim müşterisi oluşturma
 
@@ -27,7 +27,7 @@ ms.locfileid: "97916925"
 
 ## <a name="create-an-education-customer"></a>Eğitim müşterisi oluşturma
 
-Bu makalede, Iş Ortağı Merkezi 'nde eğitim müşterisi oluşturma ve bunlara eğitim ürünleri satma açıklanmaktadır. Ayrıca doğrulama durumunu görüntülemeyi ve gerekirse doğrulama isteğini yeniden oluşturmayı da içerir.
+Bu makalede, Iş Ortağı Merkezi 'nde eğitim müşterisi oluşturma ve bunlara eğitim ürünleri satma açıklanmaktadır. Ayrıca doğrulama durumunu görüntülemeyi ve gerekirse doğrulama isteğini yeniden oluşturmayı da içerir. Eğitim teklifleri Şu anda yalnızca Microsoft 365, Dynamics, Intune vb. **Lisans tabanlı hizmetler için sunulmaktadır** . Diğer türler (yazılım abonelikleri, kalıcı yazılım veya Azure ürünleri) için kullanılamaz.
 
 > [!IMPORTANT]
 > Microsoft, eğitim teklifleri için uygun olduklarından emin olmak üzere yeni oluşturulan her eğitim müşteri kiracısını doğrular.  Doğrulama işlemindeki gecikmeleri engellemek için gerekli bilgileri olabildiğince doğru ve tamamen girdiğinizden emin olun.
@@ -75,7 +75,7 @@ Durum örnekleri:
 
 Müşterinizin ilk doğrulamayı başaramazsa, artık bilgileri düzeltip yeniden gönderebilirsiniz.
 
-### <a name="correct-the-customer-account-information"></a>Müşteri hesabı bilgilerini düzeltin
+### <a name="correct-the-customer-account-information"></a>Müşteri hesabı bilgilerini düzeltme
 
 Müşterinin bilgilerini güncelleştirmek için genel yönetici ayrıcalıklarına sahip olmanız gerekir. Bu veriler Iş Ortağı Merkezi portalından güncelleştirilemediğinden, Office 365 portalındaki bilgileri güncelleştirmiş olursunuz.
 

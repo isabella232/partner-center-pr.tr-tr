@@ -9,16 +9,66 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 02/04/2021
-ms.openlocfilehash: cb9bc726acb5d76f4774c9a515443d58f7947fbd
-ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
+ms.openlocfilehash: ac5c82887ddf17e66045e36c0f4de607529f6024
+ms.sourcegitcommit: 64b43ad8fb7bb56628450bea06b9cd2606c36b03
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 02/06/2021
-ms.locfileid: "99624179"
+ms.lasthandoff: 02/12/2021
+ms.locfileid: "100281221"
 ---
 # <a name="february-2021-announcements"></a>Şubat 2021 duyuruları
 
 Bu sayfada, Şubat 2021 ' de Microsoft Iş Ortağı Merkezi duyuruları ayrıntılı olarak yer alındı.
+
+_______________
+
+## <a name="microsoft-365-e3-price-changes-coming-for-march-2021"></a><a name="6"></a>E3 Mart 2021 ' de Microsoft 365 fiyat değişiklikleri geliyor
+
+### <a name="categories"></a>Kategoriler
+
+- Tarih: 2021-02-11
+- Teklifler/Pazarlar
+
+### <a name="affected-audience"></a>Etkilenen hedef kitle
+
+Tüm iş ortakları, EUR, AUD, GBP ve JKOPYALA 'daki bulut çözümü sağlayıcısı (CSP) programı üzerinden deneyimidir.
+
+### <a name="details"></a>Ayrıntılar
+
+2021 Mart ' de lisans tabanlı önizleme fiyatı listesi, Microsoft 365 E3 için fiyat değişikliklerini içerecek şekilde güncelleştirilmiştir. Etkilenen teklif ve para birimleri aşağıda listelenmiştir. 
+ 
+Teklif adı: Microsoft 365 E3 teklif KIMLIĞI: 2b3b8d2d-10aa-4BE4-b5fd-7f2feb0c3091 malzeme KIMLIĞI: AAA-35638
+
+Bu Microsoft 365 E3 fiyat güncelleştirmeleri yalnızca şu para birimleriyle sınırlandırılmıştır: JŞ (Japon yen), GBP (İngiltere Sterlini), EUR (Avrupa Birliği), AUD (Avustralya Doları). Mart dosyasında başka fiyat değişiklikleri vardır ve iş ortakları, beklenen diğer değişiklikleri görüntülemek için en son önizlemeyi almalıdır.
+
+### <a name="next-steps"></a>Sonraki adımlar
+
+İş ortakları en son Mart fiyatlarını almak için Iş Ortağı Merkezi 'nden en son fiyat listesi dosyalarını indirmelidir. 
+
+_______________
+
+## <a name="license-based-preview-price-list-updated-for-norwegian-krone"></a><a name="5"></a>Norveççe kronone için lisans tabanlı önizleme fiyat listesi güncelleştirildi
+
+### <a name="categories"></a>Kategoriler
+
+- Tarih: 2021-02-10
+- Teklifler/Pazarlar
+
+### <a name="affected-audience"></a>Etkilenen hedef kitle
+
+Tüm iş ortakları bulut çözümü sağlayıcısı (CSP) programı üzerinden deneyimidir
+
+### <a name="summary"></a>Özet
+
+Lisans tabanlı önizleme fiyatı listesi, 1 Mart 2021 ' de beklenen Norveç Kronu için güncelleştirilmiştir.
+
+### <a name="details"></a>Ayrıntılar
+
+Mart için FX Rate değişiklikleri, önceki Mart lisans tabanlı fiyat listelerine dahil değildir. Bu dosya beklenen Norveççe kronbir fiyat değişikliğini yansıtacak şekilde güncelleştirildi. İş ortakları, 1 Mart 2021 ' de beklenen bu değişiklikleri görmek için en son güncel önizleme fiyatlandırma dosyasını almalıdır. Bu değişiklikler yalnızca Norveççe kronbir para birimi fiyatlandırması içindir.
+
+### <a name="next-steps"></a>Sonraki adımlar
+
+İş ortakları, 1 Mart 2021 ' de beklenen değişiklikler için geçerli fiyat listesi önizleme dosyasını indirmelidir.
 
 _______________
 

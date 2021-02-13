@@ -9,12 +9,12 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bf2630ffcdd36aee17b74a07ac03782ae4d9c9f0
-ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
+ms.openlocfilehash: 086f5423d748ca2a84062577cd934987decc88f8
+ms.sourcegitcommit: 64b43ad8fb7bb56628450bea06b9cd2606c36b03
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "97979830"
+ms.lasthandoff: 02/12/2021
+ms.locfileid: "100281289"
 ---
 # <a name="pricing-and-offers-for-office-365-dynamics-crm-enterprise-mobility-suite-azure-and-more"></a>Office 365, Dynamics CRM, Enterprise Mobility Suite, Azure ve daha fazlası için fiyatlandırma ve teklifler
 
@@ -82,7 +82,7 @@ Kullanım tabanlı fiyatlar, bir ay boyunca değişebilir. Bu Azure kaynakları 
 
 ## <a name="pricing-and-special-segments"></a>Fiyatlandırma ve özel segmentler
 
-CSP, eğitim, kar amacı gütmeyen ve kamu Community bulutu gibi özel pazar segmentlerine bazı hizmetler sunar. Tüm hizmetler her kanalda kullanılabilir değildir. ' Ticari ' segmentine çağrı yaptığımız bir kesim varsayılan değildir. Lisans tabanlı fiyatlandırma, fiyatlandırma ve teklifler sayfasındaki Lisans tabanlı fiyat listesinde kullanılabilir. Azure Kamu fiyatlandırması, Azure Kamu etkin CSP kiracısında oturum açıldığında kullanım tabanlı fiyat listesinde kullanılabilir.
+CSP, eğitim, kar amacı gütmeyen ve kamu Community bulutu gibi özel pazar segmentlerine bazı hizmetler sunar. Tüm hizmetler her kanalda kullanılabilir değildir. ' Ticari ' segmentine çağrı yaptığımız bir kesim varsayılan değildir. Lisans tabanlı fiyatlandırma, fiyatlandırma ve teklifler sayfasındaki Lisans tabanlı fiyat listesinde kullanılabilir. Azure Kamu fiyatlandırması, Azure Kamu etkin CSP kiracısında oturum açıldığında kullanım tabanlı fiyat listesinde kullanılabilir. Yazılım abonelikleri ve kalıcı yazılım bu özel segmentleri henüz desteklemez.
 
 |**Segment**   |**şunları nitelemek gerekir**   |**İş ortağı nitelikleri müşterisi**|**Etkin ürün türleri**|
 |-------------------|-----------------------|----------------------------|-----------------------------|

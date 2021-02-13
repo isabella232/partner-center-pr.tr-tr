@@ -1,7 +1,7 @@
 ---
 title: CSP için Microsoft Iş ortağı Sözleşmesi (MPA)
 ms.topic: how-to
-ms.date: 01/25/2021
+ms.date: 02/11/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Bu Birleşik ve dijital olarak kabul edilen Microsoft Iş ortağı sözleşmesi 'ni (MPA) imzalamak ve doğrulamak için Microsoft CSP iş ortağı gereksinimlerini öğrenin.
@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 68d7bfa23a03d46afe44475023c91109f2f1cfa6
-ms.sourcegitcommit: e99882e9b6c9b1a0f7427fb133693b1d977be76b
+ms.openlocfilehash: 829b444f1990058cd323e3effec6da6d7585155a
+ms.sourcegitcommit: 64b43ad8fb7bb56628450bea06b9cd2606c36b03
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/26/2021
-ms.locfileid: "98773476"
+ms.lasthandoff: 02/12/2021
+ms.locfileid: "100281322"
 ---
 # <a name="learn-about-the-microsoft-partner-agreement-mpa-for-csp-program-partners"></a>CSP program iş ortakları için Microsoft Iş ortağı Sözleşmesi (MPA) hakkında bilgi edinin
 
@@ -34,6 +34,8 @@ CSP programına katılmayı sürdürmek için, Microsoft Iş ortağı sözleşme
 ## <a name="verify-your-mpn-id-is-active-and-migrated-to-partner-center"></a>MPN KIMLIĞINIZIN etkin olduğunu ve Iş Ortağı Merkezi 'ne geçirildiğini doğrulayın
 
 1. MPN hesabınızı iş ortağı üyeliği merkezinden (PMC) iş ortağı merkezi 'ne geçirmediyse, [MPN hesabınızı Iş Ortağı Merkezi 'ne geçirmeniz](move-pmc-pc-map.md)gerekir. Geçişi tamamladıktan sonra kalan adımları tamamlayacaksınız. 
+
+1. MPN hesabınız veya kimliğiniz yoksa ilk önce Microsoft İş Ortağı Ağı programına katılmalısınız. [MPN 'ye katılmayı öğrenin](mpn-create-a-partner-center-account.md).
 
 1. MPN hesabı kimlik bilgilerinizle Iş Ortağı Merkezi 'nde oturum açın.
  
