@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 02/05/2021
-ms.openlocfilehash: 5a5f2ee73c84a3d50e20e6319b07ee2f90aa4972
-ms.sourcegitcommit: 64b43ad8fb7bb56628450bea06b9cd2606c36b03
+ms.openlocfilehash: 6698a56aa90c20db22c2dd6765cbec9b310bc40a
+ms.sourcegitcommit: b41c8e1715bc55cb263af17f2781722a143d29bc
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 02/12/2021
-ms.locfileid: "100281238"
+ms.lasthandoff: 02/14/2021
+ms.locfileid: "100490164"
 ---
 # <a name="partner-center-announcements"></a>İş Ortağı Merkezi duyuruları
 
@@ -22,6 +22,7 @@ ms.locfileid: "100281238"
 
 |**Kategori**|**Şubat 2021 duyuruları**|**Duyurulan**|
 |---------|:---------|:---------|
+|Özellikler|[Microsoft Viva konuları ile tanışın](2021-february.md#7)|12 Şubat|
 |Teklifler/Pazarlar|[E3 Mart 2021 ' de Microsoft 365 fiyat değişiklikleri geliyor](2021-february.md#6)|11 Şubat|
 |Teklifler/Pazarlar|[Norveççe kronone için lisans tabanlı önizleme fiyat listesi güncelleştirildi](2021-february.md#5)|10 Şubat|
 |Özellikler|[Uyumluluk Yöneticisi 'nin bir eklentisi olan Premium değerlendirmeler 1 Mart 2021 ' de geliyor](2021-february.md#4)|5 Şubat|
