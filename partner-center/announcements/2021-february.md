@@ -9,16 +9,120 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 02/04/2021
-ms.openlocfilehash: f1822a0bba6c14f48da3dfca3081bba5da3c6a2e
-ms.sourcegitcommit: b41c8e1715bc55cb263af17f2781722a143d29bc
+ms.openlocfilehash: 8348179438ad65449ea75cd5ebce8ba0a92d7b9a
+ms.sourcegitcommit: 0416562dd89408524f8312a8acd5b6944b6d91c4
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 02/14/2021
-ms.locfileid: "100490181"
+ms.lasthandoff: 02/16/2021
+ms.locfileid: "100541012"
 ---
 # <a name="february-2021-announcements"></a>Şubat 2021 duyuruları
 
 Bu sayfada, Şubat 2021 ' de Microsoft Iş Ortağı Merkezi duyuruları ayrıntılı olarak yer alındı.
+
+________________
+## <a name="now-live-docusign-migration-to-adobe-sign-for-partners-under-microsoft-partner-agreements-mpas"></a><a name="9"></a> Artık canlı: Microsoft Iş ortağı sözleşmeleri (MPAs) altındaki iş ortakları için, Microsoft 'a yönelik DocuSign geçişi
+
+### <a name="categories"></a>Kategoriler
+
+- Tarih: 2021-02-16
+- Özellikler
+
+### <a name="summary"></a>Özet
+
+Microsoft, tüm elektronik imza işlemlerini DocuSign 'dan Adobe Sign 'a aktaracaktır.
+
+### <a name="impacted-audience"></a>Etkilenen hedef kitle
+
+MPA 'nın altındaki mevcut doğrudan ve dolaylı bulut çözümü sağlayıcısı (CSP) iş ortakları.
+
+### <a name="details"></a>Ayrıntılar
+
+Microsoft, Şubat 2021 ' de, tüm elektronik imza işlemlerini, CSP iş ortakları için DocuSign 'dan Adobe Sign 'a geçirmeyi başlatır.
+
+Kesintisiz bir geçiş beklemelisiniz. Geçişten sonra, e-posta ile, e-posta adresi, adobesign@adobesign.com her ne kadar elektronik imzanız gerekir. Bu e-posta size imzalamanız gereken Adobe Sign Web sayfasına yönelik bir bağlantı sağlar. Microsoft iş ortaklarının mevcut sözleşmeleri yeniden imzalayacağı ve yalnızca gelecekteki kanal anlaşmalarının olması gerekmez. Ukrayna, Rusya ve Kazakistan 'teki iş ortakları, her yıl için fiziksel veya elektronik olarak yeniden imzalamanız gerekecektir.
+
+[Kaynak galerisinde,](https://partner.microsoft.com/resources/detail/adobe-sign-signature-request-email-pdf)bir Adobe imza imza isteği e-postası örneği bulabilirsiniz.
+
+En iyi deneyim için aşağıdakileri yaptığınızdan emin olun:
+
+1. adobesign@adobesign.comBu hesaptan gelen e-postaları doğrudan Önemsiz e-posta klasörünüze giderek önlemek için Güvenli Gönderenler listenize ekleyin.
+2. BT departmanınızla birlikte çalışarak şunları yapın:
+    - adobesign@adobesign.comÖnceden belirlenmiş herhangi bir kimlik avı kuralına dahil olmamasını sağlamak için Güvenli Gönderenler listesine e-posta adresini ekleyin.
+    - Tüm gerekli alıcıların belgelerinizi Adobe Sign Enterprise lisansınızın altında imzalayabilmelerini sağlamak için mevcut güvenlik ilkelerini güncelleştirin.
+
+Ekleme, işlevsellik ve iş süreci sorularıyla ilgili kaynaklar, [Adobe Sign geçiş ortağı sayfasında](https://aka.ms/eSignature/External)bulunabilir.
+
+Adobe Sign, Microsoft 'un tercih ettiği elektronik Imza çözümüdür (ESS). Adobe Sign 'a geçiş, müşterilerimize ve iş ortaklarımıza daha fazla değer sunacak güvenli ve etkili bir elektronik imza deneyimi sağlar.
+
+Belgelere ve elektronik imza temsilciliğini elektronik olarak imzalama hakkında daha fazla bilgi için aşağıdaki öğreticilere bakın:
+
+- [Belgeyi elektronik olarak imzala | Adobe Sign öğreticileri](https://helpx.adobe.com/sign/how-to/adobe-for-signers.html?playlist=/ccx/v1/collection/product/sign/segment/designer/explevel/beginner/applaunch/continuinged/collection.ccx.js&ref=helpx.adobe.com)
+- [Başka birini bir belgeyi imzalamak için temsilci seçme | Adobe Sign öğreticileri](https://helpx.adobe.com/sign/how-to/use-the-delegator-role.html?playlist=/ccx/v1/collection/product/sign/segment/designer/explevel/beginner/applaunch/orientation/collection.ccx.js&ref=helpx.adobe.com)
+
+### <a name="next-steps"></a>Sonraki adımlar
+
+Bu bilgileri, kuruluşunuzdaki uygun paydaşlarla paylaşabilirsiniz.
+
+### <a name="questions"></a>Sorularınız mı var?
+
+Sorularınız varsa, [çağrı günlüğü aracı 'nı (CLT)](https://clt.partners.extranet.microsoft.com/CLT) veya [MS 'Yi araştırarak](https://www.explore.ms/)bölgesel işlem merkezinize başvurun. Sorgunuzu mümkün olduğunca çabuk çözebilmemiz için standart CLT sürecini yakından izleyin.
+
+### <a name="change-log"></a>Değişiklik Günlüğü
+
+- 15 Ocak 2021: özgün yayın 
+- 16 Şubat 2021: artık canlı, yeni kaynak: Adobe Imza geçişi Iş ortağı sayfası 
+
+_____________
+
+## <a name="reminder-introducingapithrottlingtopartners-calling-partner-centerapis"></a><a name="8"></a> Anımsatıcı: Iş Ortağı Merkezi API 'Lerini çağıran iş ortaklarına API azaltma ile tanışın
+
+### <a name="categories"></a>Kategoriler
+
+- Tarih: 2021-02-16
+- İşinizi Büyütme
+
+### <a name="summary"></a>Özet
+
+Microsoft, Iş Ortağı Merkezi API 'Lerini çağıran iş ortakları için bir zaman dilimi içinde daha tutarlı bir performansa izin vermek üzere API daraltma uygumasını uygulamaya yöneliktir.
+
+### <a name="impacted-audience"></a>Etkilenen hedef kitle
+
+Tüm iş ortakları bulut çözümü sağlayıcısı (CSP) programı üzerinden deneyimidir  
+
+### <a name="details"></a>Ayrıntılar
+
+Microsoft, Şubat 2021 ' den itibaren Iş Ortağı Merkezi API 'Lerini çağıran iş ortakları için zaman dilimi içinde daha tutarlı bir performansa izin vermek üzere API daraltma uygulamayı uygulamaya yönelik.Azaltma, kaynakların aşırı kullanımını engellemek için bir zaman dilimi içindeki bir hizmete yönelik isteklerin sayısını sınırlar.Bir azaltma eşiği aşıldığında, Iş ortağı merkezi bir süre için o istemciden gelen diğer istekleri sınırlandırır.
+
+**İş ortağı avantajları:**
+
+İş Ortağı Merkezi, yüksek hacimli istekleri işlemek için tasarlanmıştır, ancak birkaç iş ortağı tarafından çok sayıda istek yapılırsa, kısıtlama tüm iş ortakları için en iyi performansı ve güvenilirliği korumanıza yardımcı olur.  
+
+- Azaltma, en az kapalı kalma süresini sağlar.
+- Azaltma, yüksek hacimli isteklerin sayısını azaltarak tüm iş ortakları için tutarlı bir performans sağlanmasına yardımcı olur.
+
+**Kısıtlanacak API 'Ler:**
+
+| İşlem | İş Ortağı Merkezi belgeleri |
+| ------ | ------- |
+|{baseURL}/v1/Customers/{customer_id}/abonelikler  | [Tüm a-a-a-a-](/partner-center/develop/get-all-of-a-customer-s-subscriptions&data) |
+|{baseURL}/v1/Customers/{customer_id}/Subscriptions/{subscription_id}  | [Kimliğe göre bir abonelik alma](/partner-center/develop/get-a-subscription-by-id) |
+|{baseURL}/v1/Customers/{customer_id}/Orders  | [Tüm müşteri siparişlerini al](/partner-center/develop/get-all-of-a-customer-s-orders) |
+|{baseURL}/v1/Customers/{customer_id}/Orders/{order_id}  | [Kimliğe göre bir sipariş alma](/partner-center/develop/get-an-order-by-id) |
+|{baseURL}/v1/Customers/{customer_id}/Orders/{order_id}/provisioningstatus  | [Abonelik sağlama durumunu alma](/partner-center/develop/get-subscription-provisioning-status) |
+|{baseURL}/v1/Customers/{customer_id}/Subscriptions/{subscription_id}  | [Siparişleri yönetme ve bir aboneliği yönetme](/partner-center/develop/manage-orders#manage-a-subscription) |
+|{baseURL}/v1/Customers/{customer_id}/Subscriptions/{subscription_id}/addons  | [Bir abonelik için eklentilerin bir listesini alma](/partner-center/develop/get-a-list-of-add-ons-for-a-subscription) |
+|{baseURL}/v1/Customers/{customer_id}/Subscriptions/{subscription_id}/azureEntitlements | [Bir abonelik için Azure yetkilendirmeleri listesini alın](/partner-center/develop/get-a-list-of-azure-entitlements-for-subscription) |
+|{baseURL}/v1/Customers/{customer_id}/Subscriptions/{subscription_id}/registrationstatus  | [Abonelik kayıt durumunu alma](/partner-center/develop/get-subscription-registration-status) |
+|{baseURL}/v1/Customers/{Customer-Tenant-ID}/aktarmaları  | [Müşterinin tüm aktarımlarını al](/partner-center/develop/get-all-of-a-customer-s-transfers) |
+|{baseURL}/v1/productUpgrades/{upgrade-id}/status  | [Ürün yükseltme durumunu alma](/partner-center/develop/get-product-upgrade-status) |
+|{baseURL}/v1/Customers/{Customer-id}/Subscriptions/{Subscription-ID}/dönüşümler   | [Deneme dönüştürme tekliflerinin bir listesini alma](/partner-center/develop/get-a-list-of-trial-conversion-offers) |
+ 
+İş ortaklarının, daha fazla verimlilik için etkinlik günlüğü API 'sini kullanmayı ve azaltmaktan kaçınmasını kesinlikle öneririz.Bu özellik hakkında daha fazla bilgi için [buradaki](/partner-center/develop/api-throttling-guidance)ayrıntılara bakın.  
+
+### <a name="next-steps"></a>Sonraki adımlar
+
+Bu konunun [kaynaklarını](/partner-center/develop/api-throttling-guidance)gözden geçirin   ve gerekli adımları uygulayın.  
 
 _______________
 

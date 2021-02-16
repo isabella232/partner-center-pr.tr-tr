@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 01/28/2021
-ms.openlocfilehash: 7195dbd9bb9a862b7b3064ed641739f04bcab512
-ms.sourcegitcommit: 99e4ca8495860a3119debb139509b9c8a9db4c87
+ms.openlocfilehash: f6179e76e9bcb05f75551056fa7a9e81f6d74d12
+ms.sourcegitcommit: 0416562dd89408524f8312a8acd5b6944b6d91c4
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 02/09/2021
-ms.locfileid: "99974765"
+ms.lasthandoff: 02/16/2021
+ms.locfileid: "100541041"
 ---
 # <a name="january-2021-announcements"></a>Ocak 2021 duyuruları
 
@@ -348,7 +348,9 @@ Tüm iş ortakları bulut çözümü sağlayıcısı (CSP) programı üzerinden 
 
 Microsoft, Şubat 2021 ' den itibaren Iş Ortağı Merkezi API 'Lerini çağıran iş ortakları için zaman dilimi içinde daha tutarlı bir performansa izin vermek üzere API daraltma uygulamayı uygulamaya yönelik.Azaltma, kaynakların aşırı kullanımını engellemek için bir zaman dilimi içindeki bir hizmete yönelik isteklerin sayısını sınırlar.Bir azaltma eşiği aşıldığında, Iş ortağı merkezi bir süre için o istemciden gelen diğer istekleri sınırlandırır.
   
-**Iş ortağı avantajları:** İş Ortağı Merkezi, yüksek hacimli istekleri işlemek için tasarlanmıştır, ancak birkaç iş ortağı tarafından çok sayıda istek yapılırsa, kısıtlama tüm iş ortakları için en iyi performansı ve güvenilirliği korumanıza yardımcı olur.  
+**İş ortağı avantajları:**
+
+İş Ortağı Merkezi, yüksek hacimli istekleri işlemek için tasarlanmıştır, ancak birkaç iş ortağı tarafından çok sayıda istek yapılırsa, kısıtlama tüm iş ortakları için en iyi performansı ve güvenilirliği korumanıza yardımcı olur.  
 
 - Azaltma, en az kapalı kalma süresini sağlar.
 - Azaltma, yüksek hacimli isteklerin sayısını azaltarak tüm iş ortakları için tutarlı bir performans sağlanmasına yardımcı olur.
