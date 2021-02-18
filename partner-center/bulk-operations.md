@@ -9,12 +9,12 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 02/03/2021
-ms.openlocfilehash: 831fbc294bfd82caef77489f74747bb32cf0b12c
-ms.sourcegitcommit: 64b43ad8fb7bb56628450bea06b9cd2606c36b03
+ms.openlocfilehash: 16975e78c10aeb73bf141c1a1d0a215ac885039c
+ms.sourcegitcommit: 64243caed029ffe40e2bbc369f4ee96f4f0ca26f
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 02/12/2021
-ms.locfileid: "100334595"
+ms.lasthandoff: 02/18/2021
+ms.locfileid: "100645648"
 ---
 # <a name="bulk-operations-for-co-sell-opportunities-using-comma-separated-valuecsv-files"></a>Virgülle ayrılmış değer (CSV) dosyaları kullanan ortak satış fırsatları için toplu işlemler
 
@@ -71,7 +71,7 @@ Müşteri adresi satırı 2|No|Müşteri şirketinin Adres satırı 2.|NE 148 Ca
 Müşteri şehri|Yes|Müşteri kuruluşunun bulunduğu şehir.|Redmond
 Müşteri durumu|No|Müşteri kuruluşunun bulunduğu eyalet.|Washington
 Müşteri posta kodu|No|Müşteri kuruluşunun bulunduğu bölgenin posta kodu.|98052
-Müşteri ülkesi|Yes|Müşteri kuruluşunun bulunduğu ülke/bölge. [Burada]( https://en.wikipedia.org/wiki/List_of_ISO_3166_country_codes)bahsedilen üç harfli ülke kodlarını kullanın.|ABD
+Müşteri ülkesi|Yes|Müşteri kuruluşunun bulunduğu ülke/bölge. [Burada]( https://en.wikipedia.org/wiki/List_of_ISO_3166_country_codes)bahsedilen iki harfli ülke kodlarını kullanın.|ABD
 Müşteri D-U-N-S KIMLIĞI|No|Müşteri kuruluşunun DÇALıŞTıRAL KIMLIĞINI getirmeye çalışın. Bu, daha hızlı satıcı atamasına yardımcı olan Microsoft tarafında müşteri kuruluşunun daha hızlı eşleştirmesine yardımcı olur. DBIR ID 'yi bu [Web SITESINDEN](https://www.dnb.com/duns-number/lookup.html)ücretsiz edinebilirsiniz.|81466849
 Müşterinin kişi adı soyadı|Şekline|İlk adı yalnızca Microsoft Yardım 'a ihtiyacınız varsa zorunludur. Müşteri kuruluşundan bu anlaşma üzerinde çalışan birincil kişinin adı.|John
 Müşterinin kişi adı soyadı|Şekline|Soyadı yalnızca Microsoft Yardım gerekirse zorunludur. Bu anlaşma üzerinde çalışan müşteri kuruluşundan birincil kişinin soyadı.|Müşteri
