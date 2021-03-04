@@ -9,12 +9,12 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 12/07/2020
-ms.openlocfilehash: 03271459ccdea5b62192ec176557a6c3b8f1a556
-ms.sourcegitcommit: 64b43ad8fb7bb56628450bea06b9cd2606c36b03
+ms.openlocfilehash: 84863e96278ba17ecc9922ff9589abc504ff1fe0
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 02/12/2021
-ms.locfileid: "100281339"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756184"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>İş ortağı satış bağlantısı (PSC) üzerinden geçiş yapan iş ortakları için Iş Ortağı Merkezi 'nde (PC) ortak satış ile ilgili kılavuz
 
@@ -28,12 +28,15 @@ ms.locfileid: "100281339"
 
 Bu makalede iş ortağı satışları iş ortağı merkezi 'ne geçiş için kılavuzluk ve iş ortağı merkezi 'nde ortak satış anlaşmaları oluşturmaya ve yönetmeye devam edebilmeleri sağlanır.
 
-Bildiğiniz gibi şirketiniz, 31 Mart 2021 ' den sonra PSC 'ye erişimi kaybedecektir. Bununla birlikte, Iş Ortağı Merkezi 'nde yapmak istediğiniz her şeyi, ortak satış anlaşmaları oluşturma, anlaşmaları yönetme ve Microsoft satıcıları tarafından size gönderilen anlaşmalar üzerinde işlem yapacak şekilde bulacaksınız.
-
-Ancak farklılıklar olacaktır. Aşağıdaki kılavuz, Iş Ortağı Merkezi 'ne geçişinizi daha sorunsuz ve daha basit hale getirmenize yardımcı olabilir.
+>[!Note]
+> Buradan geçiş hakkında PSC 'de bir başlık gördüğünüz için doğru yerde olursunuz. Bu kılavuz, PSC 'de anlaşmalar yöneten çözüm değerlendirmesi (SA) ve OEM lisanslama iş ortakları için geçerli değildir.
 
 >[!Important]
-> Buradan geçiş hakkında PSC 'de bir başlık gördüğünüz için doğru yerde olursunuz. Bu kılavuz, PSC 'de anlaşmalar yöneten çözüm değerlendirmesi (SA) ve OEM ıOT iş ortakları için geçerli değildir.
+> 1 Mayıs 2021 ' den itibaren, şirketiniz PSC 'de anlaşmalar oluşturamaz veya düzenleyemeyecektir. **Aynı zamanda PSC içindeki toplu dışa aktarma özelliğini kullanarak mevcut anlaşmalar verilerini indirebilirsiniz. Ayrıca, bu tarihten sonra PSC 'den Iş Ortağı Merkezi 'ne [Açık anlaşmalar geçirebilirsiniz](psc-to-pc.md#psc-deals-migration) .** <br><br> Üzerinde etkin olarak çalıştığınız ve IP ortak satışı ile uygun çözümleri içeren anlaşmalar varsa, iki seçeneğiniz vardır: <br><br> 1. anlaşmayı 30 Nisan 2021 tarihinden önce Kazanıldı olarak işaretleyin ve BT 'nin tamamını doldurun. <br> 2. [anlaşmaları](psc-to-pc.md#psc-deals-migration) Iş Ortağı Merkezi 'ne geçirin ve böylece anlaşma üzerinde çalışmaya ve anlaşma kaydı başlatmaya daha fazla zaman alırsınız.
+
+Bildiğiniz gibi, **Şirket, 31 mayıs 2021 ' den sonra PSC 'ye erişimi kaybedecektir**. Bununla birlikte, Iş Ortağı Merkezi 'nde yapmak istediğiniz her şeyi, ortak satış anlaşmaları oluşturma, anlaşmaları yönetme ve Microsoft satıcıları tarafından size gönderilen anlaşmalar üzerinde işlem yapacak şekilde bulacaksınız.
+
+Ancak farklılıklar olacaktır. Aşağıdaki kılavuz, Iş Ortağı Merkezi 'ne geçişinizi daha sorunsuz ve daha basit hale getirmenize yardımcı olabilir.
 
 ## <a name="before-you-move-things-you-need-to-know"></a>Taşımadan önce bilmeniz gereken şeyler
 
@@ -90,7 +93,7 @@ Iş Ortağı Merkezi menüsünde veya başvurularda ilişkili sayfalarda **Başv
 Iş Ortağı Merkezi 'nde hesabınızı ayarladıktan sonra, iş ortağı merkezi rollerini şirketinizin çalışanlarına otomatik olarak atamak için ortak satış fırsatları sayfasında Kullanıcı Geçiş Sihirbazı 'nı kullanın.
 
 >[!Note]
-> Kullanıcı geçişi yalnızca, şirketinizin [hesap yöneticileri](permissions-overview.md#manage-mpn-membership-and-your-company) tarafından gerçekleştirilebilir. Hesap Yöneticisi rolüne sahip değilseniz, Kullanıcı geçiş sihirbazının yardımıyla Kullanıcı hesaplarını ayarlamaya yardımcı olabilecek bir hesap yöneticisi bulun. Kullanıcı geçiş işlevi 18 Kasım 2020 tarihinden itibaren kullanılabilir.
+> Kullanıcı geçişi yalnızca, şirketinizin [hesap yöneticileri](permissions-overview.md#manage-mpn-membership-and-your-company) tarafından gerçekleştirilebilir. Hesap Yöneticisi rolüne sahip değilseniz, Kullanıcı geçiş sihirbazının yardımıyla Kullanıcı hesaplarını ayarlamaya yardımcı olabilecek bir hesap yöneticisi bulun.
 
 :::image type="content" source="images/pscmigration/psc-user-migration.png" alt-text="Kullanıcı Geçiş Sihirbazı 'nı gösteren resim.":::
 
@@ -135,7 +138,7 @@ Anlaşma geçişini başlatmadan önce bu bölümü okuyun.
 
 **Geçişe uygun**
 
-Yalnızca bazı anlaşmalar PSC 'den PC 'ye geçiş için uygun. Bu Geçiş Sihirbazı, iş ortaklarının, BT 'nin müşterileri ile çalışmaya devam ettikleri Iş Ortağı Merkezi 'ne anlaşmalar getirmelerini sağlamak için oluşturulmuştur. **Yalnızca geçerli iş ortağı hesabı ayrıntıları (geçerli MPN KIMLIĞI) ile açık durumda olan ve anlaşma kaydı sırasında geçiş için uygun olan anlaşmalar.**
+Yalnızca bazı anlaşmalar PSC 'den PC 'ye geçiş için uygun. Bu Geçiş Sihirbazı, iş ortaklarının, BT 'nin müşterileri ile çalışmaya devam ettikleri Iş Ortağı Merkezi 'ne anlaşmalar getirmelerini sağlamak için oluşturulmuştur. **Yalnızca geçerli iş ortağı hesabı ayrıntıları (geçerli MPN ID) ile 1 Ocak 2020 ' den oluşturulan ve açık durumda olan anlaşmalar geçiş için uygun değildir.**
 
 **Geçiş için uygun değil**
 
@@ -200,7 +203,7 @@ Kullanıcı geçişini ve/veya geçiş işlemini tamamladıktan sonra, geçiş s
 Şirketiniz bir PDM içermiyorsa, tüm Kullanıcı hesaplarının tüm kullanıcılar tarafından ayarlandığından ve doğrulandığından emin olun. Iş Ortağı Merkezi 'nde ortak satış ile başlayabilmeniz için, bir e-posta ile ve PSC 'deki bir başlık aracılığıyla bildirimde bulunacaktır. PSC 'deki mevcut etkin anlaşmaları hala yönetmeniz gerektiğini unutmayın.
 
 >[!Important]
->Etkin anlaşmalar BILGISAYARA geçirilmeyecektir. 31 Mart 2021 ' e kadar olan anlaşmaları kapatmak ve kaydetmek için kullanabilirsiniz.
+> Kazanıldı olarak işaretlenen anlaşmaları kaydetmek için 30 Nisan 2021 tarihine kadar olursunuz.
 
 ## <a name="next-steps-for-psc-admins-psc-deal-managers-and-psc-sellers"></a>PSC yöneticileri, PSC anlaşma yöneticileri ve PSC satıcıları için sonraki adımlar
 

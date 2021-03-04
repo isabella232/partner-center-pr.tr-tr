@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d09c1e57d16937c5656579f3932e9c8feb3ecf24
-ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
+ms.openlocfilehash: d927b138c32b3e5f6f5d906db898e17f89a85aae
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 11/11/2020
-ms.locfileid: "94488101"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101755779"
 ---
 # <a name="learn-how-to-read-the-line-items-in-your-partner-center-reconciliation-files"></a>Iş Ortağı Merkezi mutabakatı dosyalarınızda satır öğelerini okumayı öğrenin
 
@@ -23,20 +23,20 @@ Aşağıdakiler cihazlar için geçerlidir:
 - İş Ortağı Merkezi
 - Microsoft Cloud for US Government için İş Ortağı Merkezi
 
-Bir fatura döngüsündeki her bir ücret için ayrıntılı, satır öğesi görünümü için Iş Ortağı Merkezi ' nden mutabakat dosyalarınızı indirebilirsiniz. Satır öğesi ayrıntıları, her bir müşterinin aboneliğine ilişkin ücretleri ve ayrıntılı olayları (bir aboneliğe yönelik bir abonelik için orta dönem ekleme gibi) içerir.
-
-Uygun roller:
+**Uygun roller**
 
 - Faturalama yöneticisi
 - Genel yönetici
+
+Bir fatura döngüsündeki her bir ücret için ayrıntılı, satır öğesi görünümü için Iş Ortağı Merkezi ' nden mutabakat dosyalarınızı indirebilirsiniz. Satır öğesi ayrıntıları, her bir müşterinin aboneliğine ilişkin ücretleri ve ayrıntılı olayları (bir aboneliğe yönelik bir abonelik için orta dönem ekleme gibi) içerir.
 
 **Faturanızı** okuma hakkında daha fazla bilgi için bkz. [faturanızı okuyun](read-your-bill.md).
 
 ## <a name="understand-reconciliation-file-fields"></a>Mutabakat dosyası alanlarını anlama
 
-- [Lisans tabanlı mutabakat dosya alanları](license-based-recon-files.md)
-- [Kullanım tabanlı mutabakat dosya alanları](usage-based-recon-files.md)
-- [Günlük olarak derecelendirilen kullanım mutabakatı dosya alanları](daily-rated-usage-recon-files.md)
+- [Lisans tabanlı mutabakat dosyası alanları](license-based-recon-files.md)
+- [Kullanım tabanlı mutabakat dosyası alanları](usage-based-recon-files.md)
+- [Günlük fiyatlandırılan kullanım mutabakat dosyası alanları](daily-rated-usage-recon-files.md)
 - [Bir kerelik satın alma CSP 'si mutabakatı dosya alanları](modern-invoice-reconciliation-file.md)
 
 ## <a name="understand-charge-types-in-reconciliation-files"></a>Mutabakat dosyalarındaki ücretlendirme türlerini anlama
@@ -51,11 +51,11 @@ Mutabakat dosyalarınızda biçimlendirme sorunlarını gidermek için aşağıd
 
 1. Microsoft Excel 'de mutabakat dosyasını (. csv biçiminde) açın.
 2. Dosyadaki ilk sütunu seçin.
-3. **Metni sütunlara dönüştürme Sihirbazı** ' nı açın. Şeritte, **veriler** ' i seçin ve **sütunlar** ' ı seçin.
-4. Sihirbazda, **ayrılmış dosya türü** ' nü seçin. Ardından **İleri** ' yi seçin.
-5. **Sınırlayıcılar** alanında **virgül** ' yi seçin. ( **Sekmesi** zaten seçildiyse, bu seçeneği seçili bırakabilirsiniz.) Ardından **İleri** ' yi seçin.
-6. **Sütun veri biçimi** alanında **Tarih: mdy** ' yi seçin. Ardından **İleri** ' yi seçin.
-7. **Sütun veri biçimi** alanında, tüm miktar sütunları için **metin** ' i seçin. Ardından **Son** 'u seçin.
+3. **Metni sütunlara dönüştürme Sihirbazı**' nı açın. Şeritte, **veriler**' i seçin ve **sütunlar**' ı seçin.
+4. Sihirbazda, **ayrılmış dosya türü**' nü seçin. Ardından **İleri**' yi seçin.
+5. **Sınırlayıcılar** alanında **virgül**' yi seçin. ( **Sekmesi** zaten seçildiyse, bu seçeneği seçili bırakabilirsiniz.) Ardından **İleri**' yi seçin.
+6. **Sütun veri biçimi** alanında **Tarih: mdy**' yi seçin. Ardından **İleri**' yi seçin.
+7. **Sütun veri biçimi** alanında, tüm miktar sütunları için **metin** ' i seçin. Ardından **Son**'u seçin.
 
 ## <a name="download-reconciliation-files-programmatically"></a>Karşılaştırma dosyalarını programlı olarak indir
 
@@ -88,8 +88,12 @@ CSP iş ortağı bir **satıcı MPN kimliğini** kaldırdığında bu değer *-1
 **Satıcı MPN kimliğini** görüntülemek veya güncelleştirmek için:
 
 1. İş Ortağı Merkezi'nde oturum açın.
-2. Iş Ortağı Merkezi menüsünde **müşteriler** ' i seçin.
+2. Iş Ortağı Merkezi menüsünde **müşteriler**' i seçin.
 3. Listeden müşteriyi seçin.
-4. Müşteri menüsünde **abonelikler** ' i seçin.
+4. Müşteri menüsünde **abonelikler**' i seçin.
 5. Listeden aboneliği seçin.
 6. **Satıcıdan (MPN kimliği)** değiştirmek için **Güncelleştir** ' i seçin.
+
+## <a name="next-steps"></a>Sonraki adımlar
+
+- [Faturanız & keşfi dosyanızı okuma](read-your-bill.md) 

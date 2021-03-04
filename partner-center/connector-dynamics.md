@@ -1,19 +1,19 @@
 ---
 title: Dynamics 365 CRM Iş Ortağı Merkezi için ortak satış Bağlayıcısı
 ms.topic: how-to
-ms.date: 02/16/2021
+ms.date: 03/01/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Ürün ortağı merkezindeki başvuruları, Dynamics 365 CRM için ortak satış Bağlayıcınız ile eşitler. Satıcılar daha sonra CRM sistemlerinizden Microsoft ile ortak bir şekilde satıtabilecekleri.
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: e465130b96886cf2bb77bcd94f56c1a12545a5d5
-ms.sourcegitcommit: 64243caed029ffe40e2bbc369f4ee96f4f0ca26f
+ms.openlocfilehash: 10062fd20e3553856d8b595efd3224ff456c2c49
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 02/18/2021
-ms.locfileid: "100645847"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756798"
 ---
 # <a name="co-sell-connector-for-dynamics-365-crm--overview"></a>Dynamics 365 CRM için ortak satış Bağlayıcısı – genel bakış
 
@@ -31,11 +31,11 @@ ms.locfileid: "100645847"
 |**Konu başlıkları**   |**Ayrıntılar**   |**Bağlantılar**   |
 |--------------|--------------------|------|
 |Microsoft İş Ortağı Ağı KIMLIĞI |Geçerli bir MPN KIMLIĞI gerekir|[MPN](https://partner.microsoft.com/) 'ye katılması için|
-|Cosatışı hazırlanıyor|IP/hizmet çözümünüz ortak satış için hazırlık olmalıdır.|[Microsoft ile satış](https://partner.microsoft.com/membership/sell-with-microsoft)| 
+|Ortak satış hazırlanıyor|IP/hizmet çözümünüz ortak satış için hazırlık olmalıdır.|[Microsoft ile satış](https://partner.microsoft.com/membership/sell-with-microsoft)| 
 |İş Ortağı Merkezi hesabı|Iş Ortağı Merkezi kiracısı ile ilişkili MPN KIMLIĞI, ortak satış çözümünüz ile ilişkili MPN KIMLIĞIYLE aynı olmalıdır. Bağlayıcıları dağıtmadan önce Iş Ortağı Merkezi portalındaki ortak satış başvurularınızı görebildiğinizi doğrulayın.|[Hesabınızı yönetme](create-user-accounts-and-set-permissions.md)|
 |İş Ortağı Merkezi Kullanıcı rolleri|Bağlayıcıları yükleyecek ve kullanacak çalışana bir başvuru Yöneticisi olmalıdır|[Kullanıcı rollerini ve izinlerini atama](create-user-accounts-and-set-permissions.md)| 
 |Dynamics 365 CRM|CRM Kullanıcı rolü, Sistem Yöneticisi veya sistem özelleştiricisi|[Dynamics 365 ' de rol atama](/dynamics365/customerengagement/on-premises/customize/privileges-required-customization)|
-|Güç otomatikleştirme akış hesabı|Test/hazırlama ve üretim için veritabanı ile yeni üretim ortamı oluşturun. Veritabanına sahip mevcut bir üretim ortamınız varsa, yeniden kullanılabilir. Bağlayıcı çözümünü yükleyecek olan kullanıcının, bu ortama yönelik lisansa otomatik hale getirmesi ve erişimi olması gerekir. İlerlemeyi izleyebilir ve daha fazla ayrıntı edinebilirsiniz. çözüm altında geçmişi gör ' e tıklayarak yüklemenin [Power otomatikleştirmede](https://flow.microsoft.com/) başarısız olması gerekir.|[Ortam oluşturma veya yönetme](https://docs.microsoft.com/power-platform/admin/create-environment#create-an-environment-with-a-database)|
+|Güç otomatikleştirme akış hesabı|Test/hazırlama ve üretim için veritabanı ile yeni üretim ortamı oluşturun. Veritabanına sahip mevcut bir üretim ortamınız varsa, yeniden kullanılabilir. Bağlayıcı çözümünü yükleyecek olan kullanıcının, bu ortama yönelik lisansa otomatik hale getirmesi ve erişimi olması gerekir. İlerlemeyi izleyebilir ve daha fazla ayrıntı edinebilirsiniz. çözüm altında geçmişi gör ' e tıklayarak yüklemenin [Power otomatikleştirmede](https://flow.microsoft.com/) başarısız olması gerekir.|[Ortam oluşturma veya yönetme](/power-platform/admin/create-environment#create-an-environment-with-a-database)|
 
 ## <a name="install-partner-center-referrals-synchronization-for-dynamics-365-power-automate-solution"></a>Dynamics 365 için Iş Ortağı Merkezi başvuruları eşitlemesini (Power otomatikleştir çözümü) yükler
 
@@ -110,7 +110,7 @@ ms.locfileid: "100645847"
 
 1. **Çözümler** sayfasına dönün ve **Varsayılan çözüm**' ı seçin. **Tüm**' a tıklayarak **Bağlantı başvurusunu (Önizleme)** seçin.
 
-:::image type="content" source="images/cosellconnectors/dynamics-3.png" alt-text="Bağlan":::
+:::image type="content" source="images/connection-reference-video.gif" alt-text="Bağlantıları Düzenle":::
 
 2. Üç nokta simgesini seçerek bağlantıların her birini tek tek düzenleyin. İlgili bağlantıları ekleyin.
 
@@ -141,9 +141,9 @@ Iş Ortağı Merkezi Web kancası API 'Leri, kaynak değişiklik olaylarına kay
 
 3. Belirtilen HTTP POST URL 'sini kopyalamak için **Kopyala** simgesini seçin.
 
-   :::image type="content" source="images/cosellconnectors/copyurl.png" alt-text="URL'yi Kopyala":::
+ :::image type="content" source="images/webhook-video.gif" alt-text="Kaynak değişikliklerini kaydetmek için Web kancalarını kullanma":::
 
-4. Şimdi "Iş Ortağı Merkezi Web kancası kaydı 'nı (Insider Preview)" Power otomatikleştirmeyi seçin ve **Çalıştır**' ı seçin.
+4. "Iş Ortağı Merkezi Web kancası kaydı (Insider Preview)" öğesini seçin ve ardından **Çalıştır**' ı seçin.
 
 5. Sağ bölmede "akış Çalıştır" penceresinin açık olduğundan emin olun ve **devam**' a tıklayın.
 
@@ -205,7 +205,7 @@ Bir ortam değişken değerini güncelleştirmek için:
 
 3. **Yeni değer** seçeneğini kullanarak **geçerli değeri** güncelleştirin (varsayılan değeri güncelleştirmeyin) ve değeri sağlayın. Değer, değişkenin veri türüyle eşleşmelidir; Örneğin, Evet/Hayır veri türü Evet veya Hayır değerini kabul eder.
 
-:::image type="content" source="images/cosellconnectors/dynamics-5.png" alt-text="Varsayılan değerler için düzenleme kutusu":::
+:::image type="content" source="images/environment-variables-video.gif" alt-text="Ortam değişkenlerini Güncelleştir":::
 
 - Uçtan uca iki yönlü ortak satış başvuru eşitlemesi
 

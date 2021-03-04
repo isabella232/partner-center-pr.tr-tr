@@ -7,12 +7,12 @@ ms.topic: article
 author: eunjkim520
 ms.author: eunjkim
 ms.date: 10/29/2020
-ms.openlocfilehash: f74dcdc240553cea2c9d226364a8bd6242acc200
-ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
+ms.openlocfilehash: 4a511dc026e3c71f05c5b18ca6d8915bd2654826
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97492645"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756175"
 ---
 # <a name="payout-statements"></a>Ödeme deyimleri
 
@@ -138,7 +138,7 @@ Bir atma hakkında daha fazla ayrıntı görmek için sayfanın en üstünde **�
 | Claimıd | Talep için benzersiz tanımlayıcı | Teşvikleri-yalnızca bazı programlar |
 | customerCountry | Müşteri ülkesi/bölgesi | marketlerinden |
 | customerEmail |  |  |
-| customerName | Her zaman boş kalır | Yalnızca programları teşvik edin (özel durum: OEM) ve pazar yerleri |
+| customerName | Boş olabilir | Yalnızca programları teşvik edin (özel durum: OEM) ve pazar yerleri. CSP işlemleri için, Pazar yerleri CSP adını gösterir |
 | Customertenantıd |  |  |
 | distributorId | Dağıtıcı tanımlayıcısı | Teşvikleri-yalnızca bazı programlar |
 | distributorName | Dağıtıcı adı | Teşvikleri-yalnızca bazı programlar |
@@ -259,18 +259,18 @@ Aşağıdaki tabloda farklı kazanç durumları açıklanmaktadır.
 
 | Kazanç durumu | Nedeni | İş ortağı eylemi gerekli mi? |
 | --- | --- | --- |
-| İşlenmemiş | Kazanç ödeme için uygun. Teşvikleri programı program kılavuzunda tanımlanan bir soğutma dönemi için bu durumda kalır. | No |
-| İlerideki | Ödeme siparişi, ödeme işlenmeden önce bekleyen dahili incelemeler için üretildi. | No |
+| İşlenmemiş | Kazanç ödeme için uygun. Teşvikleri programı program kılavuzunda tanımlanan bir soğutma dönemi için bu durumda kalır. | Hayır |
+| İlerideki | Ödeme siparişi, ödeme işlenmeden önce bekleyen dahili incelemeler için üretildi. | Hayır |
 | Bekleyen vergi faturası | Vergi faturanızda eksik veya geçersiz. | Ödeme yapabilmeniz için vergi faturanızı güncelleştirmeniz gerekir |
 | İnceleme sırasında reddedildi | Ödeme, gözden geçirme sırasında reddedildi. | Ayrıntılar için Microsoft destek 'e başvurun |
 | Başarısız | Ödeme, bir Microsoft Sistem hatası nedeniyle başarısız oldu. | Ayrıntılar için Microsoft destek 'e başvurun |
-| Sürüyor | Ödeme devam ediyor. | No |
-| Yanlış ödeme | Ödeme kurtarma devam ediyor. | No |
-| Gönderilen | Ödeme, bankanızla gönderilmiştir. | No |
-| Yeniden işleme | Ödeme bir Microsoft sistem hatasıyla karşılaştı ve yeniden işleniyor. | No |
-| Reversed | Ödeme, bankanızla ters çevrildi ve bir sonraki ödeme aşamasında yeniden gönderilecek. | No |
+| Sürüyor | Ödeme devam ediyor. | Hayır |
+| Yanlış ödeme | Ödeme kurtarma devam ediyor. | Hayır |
+| Gönderilen | Ödeme, bankanızla gönderilmiştir. | Hayır |
+| Yeniden işleme | Ödeme bir Microsoft sistem hatasıyla karşılaştı ve yeniden işleniyor. | Hayır |
+| Reversed | Ödeme, bankanızla ters çevrildi ve bir sonraki ödeme aşamasında yeniden gönderilecek. | Hayır |
 | Vergi faturası reddedildi | Vergi faturanızda gözden geçirme sırasında reddedildi. Tüm bekleyen ödemeler, vergi faturası incelemesi tamamlanana kadar beklemeye alınacaktır. | Ayrıntılar için Microsoft destek 'e başvurun |
-| Gözden geçirme kapsamında vergi faturası | Vergi faturanızda İnceleme uygulanıyor. Vergi faturası onaylandıktan sonra ödeme serbest bırakılır. | No |
+| Gözden geçirme kapsamında vergi faturası | Vergi faturanızda İnceleme uygulanıyor. Vergi faturası onaylandıktan sonra ödeme serbest bırakılır. | Hayır |
 | Reddedildi | Ödeme, bankanızla reddedildi. | Ayrıntılar için bankanızla görüşün. |
 |
 
@@ -325,7 +325,7 @@ Filtreniz **veri kullanılabilir** hatasıyla sonuçlanabilir. Bu, varsayılan z
 
 Aşağıdaki tabloda bir geçmiş deyimindeki her bir sütun açıklanmaktadır.
 
-| Alan adı | Description |
+| Alan adı | Açıklama |
 | --- | --- |
 | Gelir kaynağı | Microsoft Store, Windows Phone Mağazası, Windows Mağazası 8 veya reklam gibi işlem gerçekleştiği yere göre gelirinin kaynağı |
 | Sipariş kimliği | Benzersiz sipariş tanımlayıcısı. Bu KIMLIK, satın alma veya geri ödeme gibi satın alma işlemleri olmayan işlemlerle Satınalma işlemlerini tanımlamanızı sağlar. Her ikisinin de aynı sıra KIMLIĞI olur. Ayrıca, tek bir satın alma işlemi için birden çok ödeme yönteminin kullanıldığı bir bölünmüş ücret varsa, satın alma işlemlerini bağlayabilmeniz sağlanır. |

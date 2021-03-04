@@ -99,6 +99,11 @@
         - name: Azure ve bulut avantajları
           href: mpn-benefits-azure-cloud.md
           displayname: 'activate, azure license, mpn, renew'
+        - name: Visual Studio avantajları
+          href: mpn-benefits-visual-studio.md
+          displayname: 'visual studio, mpn, activate'
+        - name: Teknik satış öncesi ve dağıtım avantajları
+          href: technical-benefits.md
     - name: Marketplace Rewards
       href: marketplace-rewards.md
     - name: Yazılım Güvencesi
@@ -447,6 +452,8 @@
           displayName: 'region, regio'
         - name: Microsoft'tan SLA iade isteğinde bulunma
           href: request-credit.md
+        - name: Vergi ilkelerinin ödeme nasıl etkilediği
+          href: tax-policies-affect-payout.md
     - name: Müşterileriniz için Azure harcama bütçesi ayarlama
       href: set-an-azure-spending-budget-for-your-customers.md
       displayName: csp

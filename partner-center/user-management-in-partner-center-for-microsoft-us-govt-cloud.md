@@ -10,27 +10,22 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5f81022c3ea32eefc0e1f85bea1b1830603620e7
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: e3cf34aa52bd1d0359736dbcf6cc5ed9029f6d9e
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92531646"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756766"
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-for-us-government"></a>ABD kamu için Microsoft Bulut Iş Ortağı Merkezi 'nde Kullanıcı ve lisans yönetimi
 
-**Uygulama hedefi**
+**Şunlara uygulanır**
 
-- ABD kamu için Microsoft Bulut iş ortağı Merkezi
+- Microsoft Cloud for US Government için İş Ortağı Merkezi
 
-Aşağıdaki görevler, ABD Kamu kamu Microsoft Bulut için Microsoft Azure yönetim portalında yönetilir:
+**Uygun roller**
 
-- İş ortağı Kullanıcı Yönetimi
-
-- Müşteri kullanıcısı ve lisans yönetimi
-
-- Kullanıcıların parolalarını sıfırlama
-
+- Genel yönetici
 
 ## <a name="how-to-manage-users-in-the-azure-portal-for-microsoft-cloud-for-us-government"></a>ABD kamu için Microsoft Bulut Azure portal kullanıcıları yönetme
 
@@ -49,6 +44,6 @@ ABD hükümeti için Microsoft Bulut Azure portal başarıyla oturum açtıktan 
 
 **İlgili konular**
 
--  [**ABD kamu için Microsoft Bulut iş ortağı Merkezi**](partner-center-for-microsoft-us-govt-cloud.md)
+-  [**Microsoft Cloud for US Government için İş Ortağı Merkezi**](partner-center-for-microsoft-us-govt-cloud.md)
 
 -  [**ABD kamu sektörü için Microsoft Bulut Bulut Çözümü Sağlayıcısı programına kaydolma**](enroll-in-csp-for-microsoft-us-govt-cloud.md)

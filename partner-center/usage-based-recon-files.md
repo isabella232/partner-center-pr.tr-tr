@@ -7,21 +7,26 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 04ad6a0c2c7a6330d2e1230f046ee78b2a7405c8
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: d3941d09d6ec808f3d188521c4f0c51c9a6d0222
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "92530953"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101755752"
 ---
 # <a name="understand-usage-based-reconciliation-files-and-their-specific-fields-in-partner-center"></a>Iş Ortağı Merkezi 'nde kullanım tabanlı karşılaştırma dosyalarını ve belirli alanlarını anlayın
 
 Aşağıdakiler cihazlar için geçerlidir:
 
 - İş Ortağı Merkezi
-- ABD kamu için Microsoft Bulut iş ortağı Merkezi
+- Microsoft Cloud for US Government için İş Ortağı Merkezi
 
-Ücretlerinizi bir müşterinin kullanımına karşı mutabık kılmak için **ResellerID** , **ResellerName** ve **Resellerbilurlableaccount** öğesini, iş ortağı MERKEZI 'ndeki **müşteri adı** ve **abonelik kimliği** ile karşılaştırma dosyasından karşılaştırın.
+**Uygun roller**
+
+- Hesap yöneticisi
+- Faturalama yöneticisi
+
+Ücretlerinizi bir müşterinin kullanımına karşı mutabık kılmak için **ResellerID**, **ResellerName** ve **Resellerbilurlableaccount** öğesini, iş ortağı MERKEZI 'ndeki **müşteri adı** ve **abonelik kimliği** ile karşılaştırma dosyasından karşılaştırın.
 
 ## <a name="fields-in-usage-based-reconciliation-files"></a>Kullanım tabanlı mutabakat dosyalarındaki alanlar
 
@@ -43,10 +48,10 @@ Aşağıdaki alanlar hangi hizmetlerin kullanıldığını ve oranını açıkla
 | Abonelik açıklaması | Hizmet sunumunun iş kolu. | *Microsoft Azure* |
 | OrderID | Microsoft faturalandırma platformunda bir sipariş için benzersiz tanımlayıcı. Destek ile iletişim kurulurken aboneliği belirlemek yararlı olabilir. Mutabakat için kullanılmıyor. | *566890604832738111* |
 | ServiceName | Söz konusu Azure hizmetinin adı. | *SANAL MAKINELER* |
-| ServiceType | Belirli Azure hizmeti türü. | *Service Bus – bireysel veya paket* , *SQL Azure veritabanı – Iş veya Web sürümü* |
+| ServiceType | Belirli Azure hizmeti türü. | *Service Bus – bireysel veya paket*, *SQL Azure veritabanı – Iş veya Web sürümü* |
 | ResourceGuid | Tüm hizmet verileri ve fiyatlandırma yapısına özgü benzersiz tanımlayıcı. | *DA41BC5F-C52D-4464-8A8D-8C8DCC43503B* |
-| ResourceName | Azure kaynağının adı. | *Veri aktarımı (GB)* , *giden veri aktarımı (GB)* |
-| Bölge | Kullanımın geçerli olduğu bölge. Ücretler bölgeye göre farklılık gösterdiğinden, öncelikle veri aktarımlarına ücretler atamak için kullanılır. | *Asya Pasifik* , *Avrupa* , *Latin Amerika* , *Kuzey Amerika* |
+| ResourceName | Azure kaynağının adı. | *Veri aktarımı (GB)*, *giden veri aktarımı (GB)* |
+| Region | Kullanımın geçerli olduğu bölge. Ücretler bölgeye göre farklılık gösterdiğinden, öncelikle veri aktarımlarına ücretler atamak için kullanılır. | *Asya Pasifik*, *Avrupa*, *Latin Amerika*, *Kuzey Amerika* |
 | Sku | Bir teklif için benzersiz Microsoft tanımlayıcısı. | *7UD-00001* |
 | Detaillineıtemıd | Belirli bir fatura döneminde bir hizmet veya kaynak için farklı oranlar için bir tanımlayıcı ve miktar. Azure katmanlı fiyatlandırma için, belirli bir faturalanabilir birim miktarına kadar bir ücret, daha sonra bu miktardan sonraki farklı bir ücret olabilir. | *1* |
 | ConsumedQuantity | Raporlama dönemi boyunca tüketilen hizmet miktarı (saat veya GB gibi). Ayrıca, önceki raporlama dönemlerinden faturalandırılmamış kullanım dahil değildir. | *11* |
@@ -56,7 +61,7 @@ Aşağıdaki alanlar hangi hizmetlerin kullanıldığını ve oranını açıkla
 | PretaxCharges | **Listprist** 'e eşit, en yakın bir değere yuvarlayarak, **overagequantity** ile çarpılır. | *$0,085* |
 | TaxAmount | Ücretlendirilen vergi tutarı. Pazar vergi kurallarına ve belirli koşullara göre. | *$0,08* |
 | PostTaxTotal | Vergi geçerli olduğunda verginin toplam sayısı. | *$0,93* |
-| Para birimi | Para birimi türü. Her faturalandırma varlığının yalnızca bir para birimi vardır. İlk faturanızla ve sonra önemli faturalandırma platformu güncelleştirmelerinden sonra eşleşip eşleşmediğini denetleyin. | *EUR* |
+| Para Birimi | Para birimi türü. Her faturalandırma varlığının yalnızca bir para birimi vardır. İlk faturanızla ve sonra önemli faturalandırma platformu güncelleştirmelerinden sonra eşleşip eşleşmediğini denetleyin. | *EUR* |
 | PretaxEffectiveRate | Birim başına ön vergi fiyatı. **Fazla ödeme miktarına** bölünen, en yakın ilayana yuvarlanmış olan **pretaxcharges** 'e eşit. | *$0,08* |
 | PostTaxEffectiveRate | Birim başına vergi fiyatı. **Posttaxtotal** ile eşit olan, en yakın ilayana yuvarlanmış **miktarı fazla** Ya da, **PretaxEffectiveRate** değerine eşit ve birim miktarı başına vergi fiyatı, en yakın bir değere yuvarlanır. | *$0,08* |
 | ChargeType | Ücret veya ayarlamanın [türü](recon-file-charge-types.md) . | Bkz. [ücretlendirme türleri](recon-file-charge-types.md). |
@@ -66,8 +71,12 @@ Aşağıdaki alanlar hangi hizmetlerin kullanıldığını ve oranını açıkla
 | Birim | Kaynak **adının** birimi. | *GB* veya *saat* |
 | CustomerBillableAccount | Microsoft faturalandırma platformunda benzersiz hesap tanımlayıcısı. | *1280018095* |
 | UsageDate | Hizmet dağıtımının tarihi. | *2/1/2019 0:00* |
-| MeteredRegion | Bölge içindeki bir veri merkezinin konumunu tanımlar (Bu değerin uygulanabilir ve doldurulmuş olduğu hizmetler için). | *Doğu Asya* , *güney Doğu Asya* , *Kuzey Avrupa* , *Batı Avrupa* , *Orta Kuzey ABD* , *Orta Güney ABD* |
-| MeteredService | Her bir Azure hizmeti kullanımını, **ServiceName** sütununda özellikle tanımlanmadıkça tanımlar. Örneğin, veri aktarımları **ServiceName** sütunundaki *Microsoft Azure-tüm hizmetler* olarak bildirilir. | *AccessControl* , *CDN* , *işlem* , *veritabanı* , *ServiceBus* , *depolama* |
+| MeteredRegion | Bölge içindeki bir veri merkezinin konumunu tanımlar (Bu değerin uygulanabilir ve doldurulmuş olduğu hizmetler için). | *Doğu Asya*, *güney Doğu Asya*, *Kuzey Avrupa*, *Batı Avrupa*, *Orta Kuzey ABD*, *Orta Güney ABD* |
+| MeteredService | Her bir Azure hizmeti kullanımını, **ServiceName** sütununda özellikle tanımlanmadıkça tanımlar. Örneğin, veri aktarımları **ServiceName** sütunundaki *Microsoft Azure-tüm hizmetler* olarak bildirilir. | *AccessControl*, *CDN*, *işlem*, *veritabanı*, *ServiceBus*, *depolama* |
 | MeteredServiceType | Azure hizmeti kullanımı hakkında ek açıklama sağlayan **MeteredService** alanı için alt başlık. | *DıŞARıDAKI* |
 | Project | Hizmet örneği için müşteri tanımlı ad. | *ORDDC52E52FDEF405786F0642DD0108BE4* |
 | ServiceInfo | Verilen bir gün için sağlanan ve kullanılan Azure Service Bus bağlantısı sayısı. | *1,000000 bağlantı/30 gün* (30 günlük bir ayda tek bir sağlanan bağlantınız varsa), *25 bağlantı/30 gün – kullanılır: 1,000000* (Service Bus bir bağlantı sağlanan 25 paketiniz varsa ve bu gün boyunca 1 ' i kullandıysanız) |
+
+## <a name="next-steps"></a>Sonraki adımlar
+
+- [Iş Ortağı Merkezi lisans tabanlı mutabakat dosyalarındaki alanları anlayın](license-based-recon-files.md)

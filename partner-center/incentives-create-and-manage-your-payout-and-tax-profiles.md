@@ -1,19 +1,19 @@
 ---
 title: İş Ortağı Merkezi'ndeki ödeme ve vergi profilleri
 ms.topic: how-to
-ms.date: 11/12/2020
+ms.date: 02/24/2021
 description: Teşvikleri çalışmanız için ödeme yapabilmeniz için ödeme ve vergi profilinizi oluşturun ve yönetin. Farklı profillerin oluşturulmasını, yönetilmesini ve kullanılmasını içerir.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 282fdacc8689ff71e885a2f0ea01ce9570611707
-ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
+ms.openlocfilehash: ba8c1a811d66a5e6233f625c3981283341ea546c
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 02/06/2021
-ms.locfileid: "99624247"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756591"
 ---
 # <a name="create-and-manage-incentives-payout-and-tax-profiles-in-partner-center"></a>Iş Ortağı Merkezi 'nde teşvikleri ödeme ve vergi profilleri oluşturma ve yönetme
 
@@ -86,10 +86,22 @@ Aşağıdaki bölümler, Iş Ortağı Merkezi 'nde ödeme ve vergi profilleri ol
 
     >[!NOTE]
     >Ödeme yöntemi kullanılabilirliği, teşvik programının kurallarına bağlıdır.
+
+    - MPN KIMLIĞINIZ, belirli bir bir bir bilgisayar için yerel bir Microsoft yan kuruluşu tarafından ödeniyorsa ve ödeme yöntemi olarak LRD (sınırlı riskli dağıtıcı) kredi faturasına izin veriyorsa ödeme profiliniz, LRD kredi notu ödeme yöntemiyle önceden doldurulur. LRD Kredi dekontu ödeme yöntemi satırında ilgili bir program ve konum MPN KIMLIĞI için ödeme profili bölümünde durum olarak **onaylanan onay** veya **doğrulama** ' yı görürsünüz.
+    
+       Kredi dekontu ödemesini almak için, konum MPN ve ödeme yöntemiyle ilişkili CSP kiracı KIMLIĞI ayrıntılarını onaylamak ve doğrulamak için **doğrulama gerekiyor** ' u seçin. **Kredi dekontu ayrıntıları** iletişim kutusunda, belirtilen CSP Kiracı kimliği ve ayrıntılarının doğru olduğunu gözden geçirin ve doğrulayın. Birden fazla kiracı KIMLIĞIYLE birlikte sunulursa, ödemeleri almak istediğiniz CSP kiracı KIMLIĞINI dikkatle seçin. Daha sonra, şirket ayrıntılarınızın doğru olduğunu ve seçtiğiniz CSP kiracı KIMLIĞINE özendirme ödemesi gerektiğini onaylamak için **Onayla** ' yı seçin.
+ 
+      Durum **onaylandığını** GÖSTERIYORSA, CSP Kiracı kimliği ataması tamamlanmıştır ve başka bir eylem gerekmez. Atamanın ayrıntılarını görmek için onaylanmış ' i de seçebilirsiniz.
+   
+      İş ortaklarının bir vergi muafiyeti uygulama isteğine açık bir şekilde ihtiyacı olan ülkelerde, bir vergi muafiyeti ' nin yanına,, teşvik programı ve konum MPN 'nin vergi profili bölümünde vergi profilinin yanına uygulanması için bir seçenek olacaktır. Bu kutunun işaretlenmesi, bu kredi notunuza vergi muafiyet avantajları uygular. 
+   
+      Şu anda bu ödeme yöntemi yalnızca Avustralya, Yeni Zelanda ve Microsoft ticaret teşvik programı için Kanada iş ortakları için kullanılabilir. Bu üç ülkede MCI programına kaydolmuş olan doğrudan bir Bill partner veya dolaylı sağlayıcısıysanız ve uygun ödeme yöntemi olarak LRD kredi dekontunu görmüyorsanız, kiracı KIMLIĞINIZIN ilgili iş ortağı MPN konum hesabıyla ilişkilendirildiğini doğrulayın. Bu konuda daha fazla bilgi edinmek için [kuruluş profilinizi güncelleştirme](update-your-partner-profile.md)makalesini okuyun.
+
     
 5. **Para birimini** seçin.
 
 6. Ödeme alanlarını tamamladıktan sonra **Gönder**' i seçin.
+
 
 ## <a name="create-your-bank-profile"></a>Banka profilinizi oluşturma
 

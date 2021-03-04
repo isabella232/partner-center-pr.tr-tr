@@ -9,12 +9,12 @@ author: kbangalore
 ms.author: kiranban
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9feeb3e40b2113e787dc80baa5ff1f807dc8df04
-ms.sourcegitcommit: 80b703dc10892b5c2140785dd2fc22bbffd887c1
+ms.openlocfilehash: 9828c791cf1b1ee99eb8a23ec84869472a2c8114
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 02/01/2021
-ms.locfileid: "99224307"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756573"
 ---
 # <a name="link-or-unlink-a-microsoft-certification-profile-id-mcid-to-a-microsoft-partner-network-mpn-account"></a>Microsoft sertifika profili KIMLIĞINI (MCıD) Microsoft İş Ortağı Ağı (MPN) hesabına bağlama veya bağlantısını kaldırma
 
@@ -82,6 +82,6 @@ Microsoft sertifika profili (MCıD) birleştirme işlemiyle ilgili sorular için
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-- [Kullanıcı rolleri ve izinleri](https://docs.microsoft.com/partner-center/permissions-overview)
+- [Kullanıcı rolleri ve izinleri](./permissions-overview.md)
 - [Yetkinlikler](https://partner.microsoft.com/membership/competencies)
 - [Microsoft Learn Analytics raporu, şirketinizdeki öğreniplerin durumunu gösterir](ms-learn-analytics.md)

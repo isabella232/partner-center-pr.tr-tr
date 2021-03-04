@@ -8,12 +8,12 @@ ms.subservice: partnercenter-csp
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
-ms.openlocfilehash: c7e4f2b395ac421c9c01a813689723901374124a
-ms.sourcegitcommit: 99e4ca8495860a3119debb139509b9c8a9db4c87
+ms.openlocfilehash: 12fea98deb0b4ad0fc85783d04912ac7f76b8115
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 02/09/2021
-ms.locfileid: "99975991"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756133"
 ---
 # <a name="use-partner-center-to-enroll-as-a-microsoft-learning-partner"></a>Iş Ortağı Merkezi 'ni kullanarak Microsoft Learning Iş ortağı olarak kaydetme
 
@@ -115,7 +115,7 @@ KPI toplantısı, eğitimin süresiyle ilgilidir. KPI 'lerin nasıl ölçüldü�
 
 ### <a name="q-why-dont-i-appear-as-a-microsoft-learning-partner-in-the-learning-partner-directory"></a>S. Öğrenme Iş ortağı dizininde neden Microsoft Learning Iş ortağı olarak görünmeliyim?
 
-Sizi [öğrenme Iş ortağı dizinine](https://docs.microsoft.com/learn/certifications/partners)eklememiz gerekebilir. Daha sonra öğrenme Iş ortağı dizini sayfasından Web sitenize bağlanabilirsiniz.
+Sizi [öğrenme Iş ortağı dizinine](/learn/certifications/partners)eklememiz gerekebilir. Daha sonra öğrenme Iş ortağı dizini sayfasından Web sitenize bağlanabilirsiniz.
 
 Bu, üçüncü hafta içinde ayda yalnızca bir kez gönderilen el ile gerçekleştirilen bir işlemdir. Sonraki güncelleştirme, aşağıdaki ayın ilk haftası sonunda görünür olacaktır. Durumu çözmenize yardımcı olması için [Iş ortağı önde gelme hat desteğiyle](https://partner.microsoft.com/support)iletişim kurun. Aşağıdaki ayrıntıları sağlamaya hazır olun:
 

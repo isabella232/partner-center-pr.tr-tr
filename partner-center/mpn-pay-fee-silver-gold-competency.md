@@ -8,12 +8,12 @@ ms.subservice: partnercenter-mpn
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
-ms.openlocfilehash: 490cb13b99b15f9c88fdab4d7bca79d1ab018eca
-ms.sourcegitcommit: 98f41b32c39adad83ed29050084d2d31057b7c2e
+ms.openlocfilehash: 5ce5dadfc7fbb22ffc206e2dd48cccc0b274c499
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/29/2021
-ms.locfileid: "99042693"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101757384"
 ---
 # <a name="how-to-pay-the-fee-associated-with-a-silver-or-gold-competency"></a>Gümüş veya altın uzmanlık ile ilişkili ücreti ödeyin
 
@@ -37,7 +37,7 @@ Aksi takdirde, bir gümüş veya altın uzmanlık ücretini ödemek için bu ad�
 
 - Belirli bir gümüş veya altın uzmanlığa ulaşmak için [gereksinimleri](https://partner.microsoft.com/membership/competencies) zaten karşılamış olursunuz.
 
-- [Genel yönetici veya MPN iş ortağı yöneticisinin](https://docs.microsoft.com/partner-center/permissions-overview)Iş Ortağı Merkezi rolüne atanmıştı. Bu rollerden birine sahip olmayan bir Konuk Kullanıcı değilseniz, aşağıda açıklanan Iş Ortağı Merkezi sayfalarından bazılarına erişim izni verilmez. Bu durumda, [genel yöneticinizle iletişime geçin](https://docs.microsoft.com/partner-center/find-your-role) ve sizden uygun rolü atamasını isteyin. 
+- [Genel yönetici veya MPN iş ortağı yöneticisinin](./permissions-overview.md)Iş Ortağı Merkezi rolüne atanmıştı. Bu rollerden birine sahip olmayan bir Konuk Kullanıcı değilseniz, aşağıda açıklanan Iş Ortağı Merkezi sayfalarından bazılarına erişim izni verilmez. Bu durumda, [genel yöneticinizle iletişime geçin](./find-your-role.md) ve sizden uygun rolü atamasını isteyin. 
 
 1. Kuruluşunuzun iş hesabı kimlik bilgilerini kullanarak, Iş Ortağı Merkezi [panosunda](https://partner.microsoft.com/dashboard)oturum açın.
 
@@ -54,7 +54,7 @@ Aksi takdirde, bir gümüş veya altın uzmanlık ücretini ödemek için bu ad�
 
 4. **Satın alma ayrıntıları** sayfasında, ayrıntılarınızı gözden geçirin ve onaylayın.
 
-   (Şirketinizin [ **vergi kimliği** bilgilerini](https://docs.microsoft.com/partner-center/organization-tax-info) güncelleştirme hakkında daha fazla bilgi edinin veya şirketinizin [ **Fatura/satımı** şirket adresine](https://docs.microsoft.com/partner-center/mpn-get-action-pack)
+   (Şirketinizin [ **vergi kimliği** bilgilerini](./organization-tax-info.md) güncelleştirme hakkında daha fazla bilgi edinin veya şirketinizin [ **Fatura/satımı** şirket adresine](./mpn-get-action-pack.md)
 
    :::image type="content" source="images/offers/2-mpn-competency-payment-preference.png" alt-text="Üyelik, ödeme tercihleri içeren satın alma ayrıntıları sayfası sunar." border="false":::
 

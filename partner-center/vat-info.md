@@ -6,19 +6,19 @@ author: mingshen-ms
 ms.author: mingshen
 ms.localizationpriority: medium
 ms.date: 12/04/2020
-ms.openlocfilehash: 2f46213cb72717c36461f58c159fa6a5803e3bb2
-ms.sourcegitcommit: 54c19f62474a4841d0bbd6a02a84b9c597f70fae
+ms.openlocfilehash: 6ed9f7b9bbe33e209a2e482ab4f3035decb46245
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/07/2020
-ms.locfileid: "96755648"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101755741"
 ---
 # <a name="value-added-tax-vat-information"></a>Katma değer vergisi (KDV) bilgileri
 
-**Aşağıdakiler için geçerlidir:**
+**Uygun roller**
 
-- İş Ortağı Merkezi
-- Ticari market
+- Hesap yöneticisi
+
 
 Iş ortağı merkezi kayıt işlemi sırasında bir KDV KIMLIK numarası sağlamanız gerekiyorsa, başlamanıza yardımcı olacak bilgiler aşağıda verilmiştir.
 
@@ -78,6 +78,7 @@ Microsoft 'un vergi önerisi sunmadığını ve aşağıdaki tablo yalnızca kı
 |İspanya |-KDV numarası biçimi: 9 basamak<br/>-Ülke/bölge kodu: ES<br/>-Örnek: X12345678, 12345678X veya X1234567X<br/>-Notlar: 1 veya 2 harf Içerir: ilk, son, ya da ilk ve son. |
 |İsveç |-KDV numarası biçimi: 12 basamak<br/>-Ülke/bölge kodu: o<br/>-Örnek: 123456789001<br/>-Notlar: son 2 karakter ' 01 ' olmalıdır. |
 |Birleşik Krallık |-KDV numarası biçimi: 9 veya 12 basamak<br/>-Ülke/bölge kodu: GB<br/>-Örnek: 123456789 veya 123456789001<br/>-Notlar: 9 basamak genellikle, sayı bir grup içinde bir alt şirketten temsil ediyorsa 12 basamak. |
+
 ## <a name="next-steps"></a>Sonraki adımlar
 
 - [Şirket vergi bilgileri ve Iş ortağı merkezi satın alımları için KDV kimliklerini ekleme veya gönderme](organization-tax-info.md)

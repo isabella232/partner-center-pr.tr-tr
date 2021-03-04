@@ -6,12 +6,12 @@ ms.service: partner-dashboard
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 01/29/2021
-ms.openlocfilehash: 075099d80802352efdf7184a7c550d730945b35f
-ms.sourcegitcommit: 9cb7dc98faae06c255dbc025f8e452d75380c16a
+ms.openlocfilehash: d720b7388cbb814402a2c78d07865e4184dec1ab
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 02/04/2021
-ms.locfileid: "99530780"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756834"
 ---
 # <a name="tax-details-for-commercial-marketplace-publishers"></a>Ticari market yayıncıları için vergi bilgileri
 
@@ -65,7 +65,6 @@ Microsoft, yayımcıların/geliştiricilerin, Microsoft Market (s) üzerinden so
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-- [Yayımcı hakkında SSS](https://docs.microsoft.com/azure/marketplace/marketplace-faq-publisher-guide) 
+- [Yayımcı hakkında SSS](/azure/marketplace/marketplace-faq-publisher-guide) 
 
-- [Ödeme ve vergi profilleri oluşturma yönergeleri](https://docs.microsoft.com/partner-center/set-up-your-payout-account?context=/azure/marketplace/context/context#create-a-payment-profile) 
-
+- [Ödeme ve vergi profilleri oluşturma yönergeleri](./set-up-your-payout-account.md?context=%2fazure%2fmarketplace%2fcontext%2fcontext#create-a-payment-profile)

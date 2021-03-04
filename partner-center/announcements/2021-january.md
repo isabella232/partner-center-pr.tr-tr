@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 01/28/2021
-ms.openlocfilehash: f6179e76e9bcb05f75551056fa7a9e81f6d74d12
-ms.sourcegitcommit: 0416562dd89408524f8312a8acd5b6944b6d91c4
+ms.openlocfilehash: d07555d3559b2f8dbbb15f9cfe90753e50db0c04
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 02/16/2021
-ms.locfileid: "100541041"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756286"
 ---
 # <a name="january-2021-announcements"></a>Ocak 2021 duyuruları
 
@@ -86,7 +86,7 @@ Bu bildirimle ilgili sorular için [Iş Ortağı Merkezi desteğiyle](https://pa
 - 7 Ocak 2021:1. aşama ve 2. aşama için ek senaryo eklendi
 - 28 Ocak 2021: 
     -    Duyurun 1. aşaması canlı 
-    -    Birleşik Krallık, AB/EFTA dahil edilirken, [Microsoft Avrupa bölgesinin ve pazarın](https://docs.microsoft.com/partner-center/regional-authorization-overview) bir parçasıdır ve bundan etkilenir
+    -    Birleşik Krallık, AB/EFTA dahil edilirken, [Microsoft Avrupa bölgesinin ve pazarın](../regional-authorization-overview.md) bir parçasıdır ve bundan etkilenir
 
 
 ________________
@@ -170,13 +170,13 @@ Tüm dolaylı satıcılar dolaylı sağlayıcıları & bulut çözümü sağlay�
 
 ### <a name="details"></a>Ayrıntılar
 
-Dolaylı satıcıların Microsoft Iş ortağı sözleşmesi 'nin (MPA) uygulanması Şu anda devam ediyor. Sağlayıcıları ve satıcıları daha fazla desteklemek için, görüşlerinizi duyduk ve şimdi de MPA 'yı yeni bir [sık sorulan sorular sayfasına](https://docs.microsoft.com/partner-center/mpa-indirect-provider-faq)nasıl kabul ettireceğiz hakkında genel sorguları birleştirildi.
+Dolaylı satıcıların Microsoft Iş ortağı sözleşmesi 'nin (MPA) uygulanması Şu anda devam ediyor. Sağlayıcıları ve satıcıları daha fazla desteklemek için, görüşlerinizi duyduk ve şimdi de MPA 'yı yeni bir [sık sorulan sorular sayfasına](../mpa-indirect-provider-faq.md)nasıl kabul ettireceğiz hakkında genel sorguları birleştirildi.
 
 ### <a name="next-steps"></a>Sonraki adımlar
 
-**Dolaylı Satıcılar:** MPA 'yı kabul etmemeniz durumunda, MPA [SSS](https://docs.microsoft.com/partner-center/mpa-indirect-provider-faq) 'yi gözden GEÇIRIN ve MPa 'yı kabul etmek için [buradaki](https://docs.microsoft.com/partner-center/microsoft-partner-agreement) adım adım yönergeleri izleyin.
+**Dolaylı Satıcılar:** MPA 'yı kabul etmemeniz durumunda, MPA [SSS](../mpa-indirect-provider-faq.md) 'yi gözden GEÇIRIN ve MPa 'yı kabul etmek için [buradaki](../microsoft-partner-agreement.md) adım adım yönergeleri izleyin.
 
-**Dolaylı sağlayıcılar:** Dolaylı satıcılarınızla etkileşim kurun ve [burada](https://docs.microsoft.com/partner-center/microsoft-partner-agreement) [MPa SSS](https://docs.microsoft.com/partner-center/mpa-indirect-provider-faq) ve sunulan adım adım kılavuzu kullanarak bunları destekleyebilirsiniz.
+**Dolaylı sağlayıcılar:** Dolaylı satıcılarınızla etkileşim kurun ve [burada](../microsoft-partner-agreement.md) [MPa SSS](../mpa-indirect-provider-faq.md) ve sunulan adım adım kılavuzu kullanarak bunları destekleyebilirsiniz.
 
 ### <a name="questions"></a>Sorularınız mı var?
 
@@ -207,8 +207,8 @@ Aşağıda yeni işlem türleri verilmiştir:
 ### <a name="next-steps"></a>Sonraki adımlar
 
 - DAP, müşteri tarafından onaylandığında ve müşteri tarafından sonlandırıldığı zaman olayları izlemek için yeni işlem türlerinden yararlanın.  
-- [Iş Ortağı Merkezi etkinliğinin bir kaydını alın-Iş Ortağı Merkezi uygulama geliştiricisi | Microsoft Docs](https://docs.microsoft.com/partner-center/develop/get-a-record-of-partner-center-activity-by-user)
-- [Kaynakları denetleme-Iş Ortağı Merkezi uygulama geliştiricisi | Microsoft Docs](https://docs.microsoft.com/partner-center/develop/auditing-resources)
+- [Iş Ortağı Merkezi etkinliğinin bir kaydını alın-Iş Ortağı Merkezi uygulama geliştiricisi | Microsoft Docs](/partner-center/develop/get-a-record-of-partner-center-activity-by-user)
+- [Kaynakları denetleme-Iş Ortağı Merkezi uygulama geliştiricisi | Microsoft Docs](/partner-center/develop/auditing-resources)
 
 ### <a name="questions"></a>Sorularınız mı var?
 
@@ -287,9 +287,9 @@ Yeni ticaret deneyimi sayesinde iş ortakları, iş ortağı tarafından kazanı
 #### <a name="partner-earned-credit-pec"></a>İş ortağı kazanılmış kredisi (PEC)
 
 - [Iş ortağı kazanılmış krediyi anlama (kılavuz) (Microsoft. com)](https://partner.microsoft.com/resources/detail/understanding-partner-earned-credit-pdf)
-- [İş ortağı kazanılmış kredi-genel bakış-Iş Ortağı Merkezi | Microsoft Docs](https://docs.microsoft.com/partner-center/partner-earned-credit?branch=main )
-- [Yönetilen hizmetler için iş ortağı kazanılmış kredisi-Iş Ortağı Merkezi | Microsoft Docs](https://docs.microsoft.com/partner-center/partner-earned-credit-explanation?branch=main)
-- [Roller, iş ortağı kazanılmış kredi-Iş Ortağı Merkezi | Microsoft Docs](https://docs.microsoft.com/partner-center/azure-roles-perms-pec)
+- [İş ortağı kazanılmış kredi-genel bakış-Iş Ortağı Merkezi | Microsoft Docs](../partner-earned-credit.md?branch=main)
+- [Yönetilen hizmetler için iş ortağı kazanılmış kredisi-Iş Ortağı Merkezi | Microsoft Docs](../partner-earned-credit-explanation.md?branch=main)
+- [Roller, iş ortağı kazanılmış kredi-Iş Ortağı Merkezi | Microsoft Docs](../azure-roles-perms-pec.md)
 - [Azure 'da, CSP modüllerinde iş ortağı kazanılan kredilerini isteğe bağlı eğitim modülü (eventbuilder.com)](https://commercial_licensing.eventbuilder.com/NewcommerceinCSPforAzuretrainingmodules)
 
 #### <a name="the-new-commerce-experience"></a>Yeni ticaret deneyimi
@@ -321,7 +321,7 @@ Ayrıca, Iş Ortağı Merkezi yazılımı ve lisans anahtarı karşılama özell
 ### <a name="next-steps"></a>Sonraki adımlar
 
 - **CSP kalıcı yazılım** fiyat listesini, Iş ortağı merkezi [fiyatlandırma & teklifler](https://partnercenter.microsoft.com/pcv/sales) sayfasında bulunan **yazılım** bölümüne indirin. Yeni eklenen ürünlerin ve coğrafi nesnelerin listesini [burada](https://partner.microsoft.com/resources/detail/software-in-csp-new-products-geos-pdf)bulabilirsiniz.
-- [Microsoft 365 Yönetim Merkezi kalıcı yazılım ve ürün lisans anahtarları](https://go.microsoft.com/fwlink/p/?linkid=2152525) ' nı gözden geçirin ve yazılım ve lisans anahtarlarını indirmeye hazırsanız müşterilerinizle nasıl paylaşacağınızı öğrenin.
+- [Microsoft 365 Yönetim Merkezi kalıcı yazılım ve ürün lisans anahtarları](/microsoft-365/admin/setup/download-software-licenses-csp) ' nı gözden geçirin ve yazılım ve lisans anahtarlarını indirmeye hazırsanız müşterilerinizle nasıl paylaşacağınızı öğrenin.
 - [Bulut çözümü sağlayıcısı program](https://partner.microsoft.com/resources/collection/software-in-csp#/) hazırlık malzemelerinden kalıcı yazılımı gözden geçirin. Rolünüzün doğru bilgilerini hızlı bir şekilde bulmak için bu [hazırlık haritasını](https://partner.microsoft.com/resources/detail/software-in-csp-readiness-map-pdf) kullanın.
 
 ### <a name="questions"></a>Sorularınız mı var?

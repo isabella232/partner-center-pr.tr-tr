@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 11/02/2020
-ms.openlocfilehash: 8d247d4f39b85423bfd128056595b414238b113c
-ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
+ms.openlocfilehash: 8c9e978fb636392d7cfd1ad48c101eadeececcc6
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98182554"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756407"
 ---
 # <a name="november-2020-announcements"></a>Kasım 2020 duyuruları
 
@@ -98,7 +98,7 @@ Orta Pazar için yeni bir Office 365 E1 promosyon sunuyoruz. Bu, LATAM, Hindista
 Tüm iş ortakları, yukarıda listelenen katılım pazarlarındaki bulut çözümü sağlayıcısı (CSP) programı üzerinden deneyimidir.
 
 ### <a name="details"></a>Ayrıntılar
-Promosyon, CSP için Office 365 E1 ' de %30 oranında indirimden oluşur. 1 Aralık 2020 ' de başlatılır ve 31 Mayıs 2020 ' ye kadar 6 ay boyunca kullanılabilir. Bu promosyon yalnızca, MW buluta yeni eklenen ve 500 adede kadar bilgisayar bulunan müşteriler tarafından kullanılabilir. Bu, buluta geçişi etkinleştirmek için lütfen bu, LATAM, Hindistan ve APAC pazarlarına yönelik olarak kısıtlanmış olduğunu unutmayın. 
+Promosyon, CSP için Office 365 E1 ' de %30 oranında indirimden oluşur. 1 Aralık 2020 ' de başlatılır ve 31 Mayıs 2021 ' ye kadar 6 ay boyunca kullanılabilir. Bu promosyon yalnızca, MW buluta yeni eklenen ve 500 adede kadar bilgisayar bulunan müşteriler tarafından kullanılabilir. Bu, buluta geçişi etkinleştirmek için lütfen bu, LATAM, Hindistan ve APAC pazarlarına yönelik olarak kısıtlanmış olduğunu unutmayın. 
 
 #### <a name="offer-details"></a>Teklif Ayrıntıları
 

@@ -1,25 +1,22 @@
 ---
 title: Microsoft lisanslama kaynakları
 ms.topic: article
-ms.date: 08/25/2020
+ms.date: 02/25/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Bir Microsoft iş ortağı olarak, farklı Microsoft lisanslama programları kullanma hakkında sorularınız olabilir. Bu makalede yardımcı olabilecek kaynaklar sunulmaktadır.
 author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
-ms.openlocfilehash: 70b9381cf67a54f2e8c7e1c7764610c91fca1b1b
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: a00ae527b1ac89e14f33960517ec20f8a5bec624
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92531583"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101756821"
 ---
 # <a name="guide-to-licensing-resources-for-microsoft-partners"></a>Microsoft iş ortakları için lisanslama kaynakları kılavuzu 
 
-**Uygulama hedefi**
-
-- Microsoft MPN iş ortakları, CSP iş ortakları ve diğerleri
 
 Bu makale, iş ortağı lisanslama sorularını yanıtlamaya yardımcı olabilecek kaynakları paylaşır.
 
@@ -32,7 +29,7 @@ Bu programların nasıl çalıştığı hakkında sorularınız varsa, bu kaynak
 > [!NOTE]
 > Daha ayrıntılı Lisanslama soruları veya bir müşteri teklifiyle ilgili yardıma ihtiyacınız varsa, lisanslama programınızın atanmış dolaylı sağlayıcısına (CSP programı için) veya program dağıtıcısından başlayın. Bunlar genellikle belirli lisans soruları için en iyi, ilk iletişim noktanız veya müşteri teklifleri, SKU satın alımları veya Önkoşullar oluşturma hakkında sorular için geçerlidir. Sizin için bu role hizmet veren bir iş ortağınız yoksa, bir [iş ortağı bulmak](find-a-partner.md) için bkz. bir iş ortağı bulun.
 >
-> Ayrıca, lisans uzmanlarının dahili takımlarından yararlanmak için Microsoft kişilerinize ulaşabilirsiniz. Belirli Microsoft kişileriniz yoksa, [Iş ortağı desteği](https://partner.microsoft.com/support/v2/?stage=1) ' ne gidin ve destek sayfasının **sorunlar** alanına **lisanslama** yazın. Burada, sizin için kullanabileceğiniz diğer lisans destek kaynakları hakkında bilgi edinebilirsiniz. Hala yardıma ihtiyacınız varsa, belirli lisans sorularını cevaplamak veya doğru Ürün SKU 'sunu bulmanıza yardımcı olmak için bir destek bileti de kaydedebilirsiniz.
+> Ayrıca, lisans uzmanlarının dahili takımlarından yararlanmak için Microsoft kişilerinize ulaşabilirsiniz. Belirli Microsoft kişileriniz yoksa, [Iş ortağı desteği](https://partner.microsoft.com/support/v2/?stage=1) ' ne gidin ve destek sayfasının **sorunlar** alanına **lisanslama** yazın. 
 
 ## <a name="general-resources-about-licensing-and-license-training"></a>Lisanslama ve lisans eğitimi hakkında genel kaynaklar
 
@@ -43,7 +40,7 @@ Aşağıdaki kaynaklardan belirli lisanslama programları hakkında daha fazla b
 
 |Bunu yapmak için  | Bunu okuyun  |
 |:------------------|:--------------- |
-|CSP program lisanslarını diğer lisans modelleriyle karşılaştırın *(üst düzey genel bakış)* | [CSP kayıt sayfasına](https://partner.microsoft.com/licensing/)gidin. Bölümü görene kadar aşağı kaydırın, CSP 'yi *diğer lisans modelleriyle karşılaştırın* .  |
+|CSP program lisanslarını diğer lisans modelleriyle karşılaştırın *(üst düzey genel bakış)* | [CSP kayıt sayfasına](https://partner.microsoft.com/licensing/)gidin. Bölümü görene kadar aşağı kaydırın, CSP 'yi *diğer lisans modelleriyle karşılaştırın*.  |
 |Microsoft bulut hizmetleri ve şirket içi yazılım *(ayrıntılı görünüm)* için farklı iş ortağı lisans sözleşmelerini karşılaştırın  | [Microsoft lisanslama anlaşmaları](https://partner.microsoft.com/licensing/licensing-agreements)  |
 |Toplu Lisanslama (VL) ve belirli çözümler için lisanslama hakkında daha fazla bilgi edinin  | [Microsoft lisanslama-ürünler ve çözümler](https://www.microsoft.com/licensing/default) |
 |Toplu lisanslama eğitimi ve VL fiyatlandırma, teklif, anlaşma, ürün etkinleştirme ve diğer araçlarla ilgili yardımcı olabilecek kaynaklar hakkında bilgi edinin  | [Eğitim ve kaynakları Microsoft İş Ortağı Ağı](https://partner.microsoft.com/licensing/training-and-resources) |

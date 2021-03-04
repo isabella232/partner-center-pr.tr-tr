@@ -9,18 +9,19 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cd718377fad435b72ff62e61604f58a3d302dc11
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 064a5ea1e712ca66504536652543c0523fc73eae
+ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92531994"
+ms.lasthandoff: 03/03/2021
+ms.locfileid: "101755731"
 ---
 # <a name="receive-credit-on-your-partner-center-account-for-tax-withholding"></a>Vergi stopajı için Iş Ortağı Merkezi hesabınızda kredi alın
 
-Aşağıdakiler cihazlar için geçerlidir:
+**Uygun roller**
 
-- İş Ortağı Merkezi
+- Hesap yöneticisi
+- Faturalama yöneticisi
 
 ## <a name="overview"></a>Genel Bakış
 
@@ -35,9 +36,9 @@ Bazı ülkelerde CSP iş ortakları, vergiler içeren fatura tutarlarını alır
 
 Yeni bir vergi stopajı göndermek için şu adımları izleyin:
 
-1. Iş Ortağı Merkezi [panosunda](https://partner.microsoft.com/dashboard/home)oturum açın.
+1. İş Ortağı Merkezi [panosunda](https://partner.microsoft.com/dashboard/home) oturum açın.
 
-2. Sol taraftaki menüde **faturalandırma** ' i seçin ve **Faturalama geçmişi** ' ne gidin.
+2. Sol taraftaki menüde **faturalandırma** ' i seçin ve **Faturalama geçmişi**' ne gidin.
 
 3. İçin bir payını göndermek istediğiniz faturanın yanına **Yeni Gönder** ' e tıklayın. Yeni Gönder bağlantısı sizi **yeni vergi stopajı isteği** sayfasına götürür.
 
@@ -45,7 +46,9 @@ Yeni bir vergi stopajı göndermek için şu adımları izleyin:
 
 4. Doğru fatura için isteği gönderdikten emin olmak için fatura ayrıntılarını gözden geçirin.
 
-   :::image type="content" source="images/wht2.png" alt-text="Fatura için yeni vergi stopajı gönder" nu girin. "Stopaj toplamı", alacaklandırılma beklemeniz beklenen tutardır.
+   :::image type="content" source="images/wht2.png" alt-text="Bir faturaya yönelik tüm vergi stopajı ayrıntıları":::
+
+5. **Vergi stopajı ayrıntıları** altında "stopaj toplamı" nu girin. "Stopaj toplamı", alacaklandırılma beklemeniz beklenen tutardır.
 
 6. Vergi Sertifikası **ekleyin** . Vergi stopajı **sertifikanızın** **dijital bir kopyasını** dahil etmeniz gerekecektir. Bu sertifikayı, vergilerinizi yerel vergi yetkilinizle ödeyerek yerel vergi kurumınızdan almış olursunuz. Stopaj vergisi sertifikasındaki fatura vergi tutarı, vergi stopajı talebinizdeki toplam tutarla aynı olmalıdır.
 
@@ -62,7 +65,7 @@ Yeni bir vergi stopajı göndermek için şu adımları izleyin:
 
 Gözden geçirme ekibi, onaylanabilmesi için önce düzeltmeler yapıp isteği yeniden gönderebilmeniz gerekebilir. Durumu, **bekleyen iş ortağı eylemi** olarak değiştirir. İsteği düzeltmek ve yeniden göndermek için:
 
-1. Iş Ortağı Merkezi [panosunda](https://partner.microsoft.com/dashboard/home)oturum açın.
+1. İş Ortağı Merkezi [panosunda](https://partner.microsoft.com/dashboard/home) oturum açın.
 
 2. Sol taraftaki menüde **faturalandırma** ' i seçin.
 
