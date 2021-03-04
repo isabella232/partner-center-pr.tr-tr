@@ -8,20 +8,22 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 02/25/2021
-ms.openlocfilehash: df9cbea19ff51839e6624aba3e5050c41a55f32e
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.date: 03/03/2021
+ms.openlocfilehash: 5db9dc04f6ff4bf1020eb7a97778b152275d5ea5
+ms.sourcegitcommit: a7897284b79abb1ceeee79deb3a87b72d59900dc
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756147"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "102029942"
 ---
 # <a name="partner-center-announcements"></a>İş Ortağı Merkezi duyuruları
 
 Önemli İş Ortağı Merkezi güncelleştirmeleri hakkında bilgi edinin. Bu bilgileri sık sık güncelleştirdiğimizden burayı sık sık kontrol edin!
 
-|**Kategori**|**Şubat 2021 duyuruları**|**Duyurulan**|
+|**Kategori**|**Mart 2021 duyuruları**|**Duyurulan**|
 |---------|:---------|:---------|
+|Özellikler|[Microsoft Evrensel Yazdırma artık bazı paketlerde kullanılabilir](2021-march.md#1)|3 Mart|
+|**Kategori**|**Şubat 2021 duyuruları**|**Duyurulan**|
 |Özellikler|[YERLEŞTIRME nitelendirme API 'Leri kullanımdan kalkmışsa, devre dışı bırakmaya al](2021-february.md#14)|25 Şubat|
 |Özellikler|[Iş ortağı merkezi toplu işlemler özelliğini kullanarak ortak satış anlaşmaları ölçeğini ölçeklendirerek paylaşma](2021-february.md#13)|25 Şubat|
 |Özellikler|[Yeni anlaşma geçiş özelliğini kullanarak Iş ortağı satış Connect (PSC) üzerinden anlaşmalar geçirin](2021-february.md#12)|25 Şubat|

@@ -1,5 +1,5 @@
 ---
-title: Microsoft Müşteri sözleşmesinin müşteri kabulünü Onayla
+title: Microsoft Müşteri Sözleşmesinin müşteri kabulünü onaylama
 description: Microsoft Müşteri sözleşmesinin müşteri kabulünü onaylama hakkında bilgi edinin. Bu, müşterilerin Microsoft ürünlerini ve hizmetlerini sıralamak için gerekebilir.
 ms.topic: how-to
 ms.service: partner-dashboard
@@ -8,15 +8,15 @@ author: aarzh-AaronZhang
 ms.author: v-aarzh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.date: 06/30/2020
-ms.openlocfilehash: f2513213bff38a6296832253a13725ff2508f1f8
-ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
+ms.date: 03/02/2021
+ms.openlocfilehash: ab2f5be77f6480b4a8b47bef0e0fd5096f7c1776
+ms.sourcegitcommit: a7897284b79abb1ceeee79deb3a87b72d59900dc
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "97354619"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "102029925"
 ---
-# <a name="updated-method-to-confirm-customer-acceptance-of-the-microsoft-customer-agreement"></a>Microsoft Müşteri sözleşmesinin müşteri tarafından kabul edildiğini onaylamak için yöntemi güncelleştirildi
+# <a name="confirm-customer-acceptance-of-the-microsoft-customer-agreement"></a>Müşterinin Microsoft Müşteri Sözleşmesi’ni kabul ettiğini doğrulama
 
 
 **Uygun roller**
@@ -30,8 +30,6 @@ ms.locfileid: "97354619"
 > * Microsoft Bulut Almanya için İş Ortağı Merkezi
 > * Microsoft Cloud for US Government için İş Ortağı Merkezi
 
->[!NOTE]
->31 Ocak 2020 itibariyle, mevcut ve yeni olan tüm müşteriler yeni Microsoft Müşteri sözleşmesinin imzalanmalıdır. Daha fazla bilgi edinmek için [Microsoft Müşteri sözleşmesinin müşteri kabulünü Onayla](confirm-customer-agreement.md)makalesini okuyun.
 
 İş ortağı olarak, müşterinin Microsoft ürünlerini ve hizmetlerini sipariş etmeden önce, müşterinizin Microsoft Müşteri sözleşmesini kabul etmeniz gerekir. İş ortaklarının uyumluluk gereksinimlerini karşıladığından daha iyi yardımcı olması için, Microsoft, anlaşmayı kabul eden kişiyle ilgili aşağıdaki ayrıntıları sağlayarak iş ortaklarının kabul onaylamasını ister:
 
@@ -46,6 +44,9 @@ ms.locfileid: "97354619"
 - Kabul tarihi
 
 Doğrudan fatura ortakları ve dolaylı sağlayıcılar, Iş ortağı merkezi veya Iş Ortağı Merkezi API 'SI aracılığıyla deneyimidir olduğunda Microsoft Müşteri sözleşmesinin müşteri kabulünü kabul etmelidir. Onay *zorunludur*.
+
+>[!NOTE]
+>31 Ocak 2020 itibariyle, mevcut ve yeni olan tüm müşteriler yeni Microsoft Müşteri sözleşmesinin imzalanmalıdır. Daha fazla bilgi edinmek için [Microsoft Müşteri sözleşmesinin müşteri kabulünü Onayla](confirm-customer-agreement.md)makalesini okuyun.
 
 Belirli bir müşteri için onay sağlanmazsa:
 
