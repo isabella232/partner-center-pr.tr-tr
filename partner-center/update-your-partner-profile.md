@@ -9,12 +9,12 @@ ms.topic: how-to
 ms.date: 03/03/2021
 ms.localizationpriority: medium
 ms.custom: contperf-fy21q3
-ms.openlocfilehash: 2527e57ea0c95c5d91728dd6198490365b264c6f
-ms.sourcegitcommit: 79d2f00c352db61252e523f45abf93fe2a2742a5
+ms.openlocfilehash: 7593ddab8d495e3edc67cb89255c9c7cba4772d3
+ms.sourcegitcommit: b0734f9c9ef6c582095573eb0a73cc0c39c7e65b
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "102124780"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "102220286"
 ---
 # <a name="verify-your-company-profile-information-in-partner-center"></a>Iş Ortağı Merkezi 'nde şirket profili bilgilerinizi doğrulayın
 
@@ -54,8 +54,7 @@ Iş Ortağı Merkezi 'nde yasal adresinizi güncelleştirin.
 1. **Gönder**' i seçtiğinizde yasal kimliğiniz yeniden atanır ve kabul etmeniz gereken başka bir e-posta alırsınız.
 
 >[!Important]
->Bir bulut çözümü sağlayıcısı (CSP) iş ortağıysanız, yasal adresünüzle ilişkili ülkeyi değiştiremezsiniz. Yasal adres ülkeniz, kiracı ve hizmetlerinize ve iş yaptığınız para birimine bağlıdır. CSP programında değilseniz, yasal adresiniz ile ilişkili ülkeyi değiştirebilirsiniz. Doğrulama durumu "yetkilendirildiğinde" doğrudan fatura ortakları ve dolaylı sağlayıcılar, şirketinin yasal adını değiştiremezler. Adı değiştirmeniz gerekiyorsa, [bir destek bileti oluşturmanız](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=eb74583c-61b3-2124-bffc-00920e0ae772)gerekir.
-
+>Bir bulut çözümü sağlayıcısı (CSP) iş ortağıysanız, yasal adresünüzle ilişkili ülkeyi değiştiremezsiniz. Yasal adres ülkeniz, kiracı ve hizmetlerinize ve iş yaptığınız para birimine bağlıdır. Doğrulama durumu "yetkilendirildiğinde" doğrudan fatura ortakları ve dolaylı sağlayıcılar, şirketinin yasal adını değiştiremezler. Adı değiştirmeniz gerekiyorsa, [bir destek bileti oluşturmanız](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=eb74583c-61b3-2124-bffc-00920e0ae772)gerekir.
 
 
 ## <a name="update-your-mpn-global-business-account"></a>MPN küresel Iş Hesabınızı güncelleştirin

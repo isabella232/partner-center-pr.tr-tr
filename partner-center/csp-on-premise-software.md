@@ -1,35 +1,31 @@
 ---
 title: CSP aracılığıyla şirket içi yazılım satma
 ms.topic: how-to
-ms.date: 01/29/2021
+ms.date: 03/04/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: CSP programındaki iş ortaklarının, Iş Ortağı Merkezi 'nde müşteri adına şirket içi yazılım abonelikleri satın alma, yönetme, satma ve iptal etme işlemlerini nasıl sağlayabileceğini öğrenin.
+description: CSP programındaki iş ortaklarının, Iş Ortağı Merkezi 'nde müşteriler adına şirket içi yazılım abonelikleri satın alabilir, yönetebilir, satmasını ve iptal edebilmesini öğrenin.
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 927135e3615d554ed4180dc9100ab0c4d5a3586e
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 6c442711a3b60f5014397b3b2d8bdfd75a852fcc
+ms.sourcegitcommit: b0734f9c9ef6c582095573eb0a73cc0c39c7e65b
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756040"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "102220253"
 ---
-# <a name="sell-on-premise-software-through-the-cloud-solution-provider-csp-program"></a>Bulut çözümü sağlayıcısı (CSP) programı aracılığıyla şirket içi yazılım satma
+# <a name="sell-on-premises-software-through-the-cloud-solution-provider-csp-program"></a>Bulut çözümü sağlayıcısı (CSP) programı aracılığıyla şirket içi yazılım satma
 
 **Uygun roller**
 
 - Yönetim Aracısı
 - Genel yönetici
 
-CSP 'deki şirket içi yazılım, bulut odaklı bir programda şirket içi yazılım sunarak buluta sorunsuz bir şekilde geçiş desteği sağlar.Bu yeni teklif, tüm Microsoft ürünlerini Transact için tek bir platform sağladıklarında, değer katan iş ortağını her satın alma senaryosuna getirmeye yardımcı olur. Bir CSP olarak, artık açık, EA ve kullanımda olan diğer programların yanı sıra Iş Ortağı Merkezi aracılığıyla şirket içi yazılım satıtabilirsiniz. CSP 'deki şirket içi yazılım, yeni bir satış programıdır ve Microsoft 'un diğer toplu lisanslama programlarını değiştirme amacını taşımamaktadır. 
+CSP 'de şirket içi yazılım, bulut odaklı bir programda şirket içi yazılım sunarak buluta sorunsuz bir şekilde geçiş desteği sağlar.Bu yeni teklif, tüm Microsoft ürünlerini Transact için tek bir platform sağladıklarında, değer katan iş ortağını her satın alma senaryosuna getirmeye yardımcı olur. Bir CSP olarak, artık açık, EA ve kullanımda olan diğer programların yanı sıra Iş Ortağı Merkezi aracılığıyla şirket içi yazılım satıtabilirsiniz.  
  
-Şirket içi yazılım lisanslama seçenekleriyle en iyi genel müşteri değerini sağlarken, iş modelini mümkün olduğunca iş ortağı kolay olarak da yaptık. CSP 'de şirket içi yazılımların doğrudan lisanslanması, maliyet tahmini ve sizin için kolaylaştırılmış bir satış süreci anlamına gelir. Bu yeni iş modeli, müşterileriniz için şirket içi yazılımları kolayca temin etmek, yönetmek ve fiyata yönelik olarak fiyatları kolaylaştırır. böylece, BT yönetimi 'nin değerli çözümlerinin genişletilmiş bir portföyü sayesinde kazanan işletmenize odaklanırsınız. 
-
->[!NOTE]
->Şirket içi yazılım şu anda sınırlı iş ortakları tarafından kullanılabilir. Uygun olup olmadığını öğrenmek için Microsoft kişinizi inceleyin. 
-
+Şirket içi yazılım lisanslama seçenekleriyle en iyi genel müşteri değerini sağlarken, iş modelini mümkün olduğunca iş ortağı kolay olarak da yaptık. CSP 'de şirket içi yazılımların doğrudan lisanslanması, maliyet öngörülebilirlik ve sizin için kolaylaştırılmış bir satış süreci anlamına gelir. Bu yeni iş modeli, müşterileriniz için şirket içi yazılımları kolayca temin etmek, yönetmek ve fiyatlamanızı sağlar. böylece, BT yönetimi 'nin değerli çözümlerinin genişletilmiş bir portföyüyle işletmenize odaklanırsınız.
 
 ## <a name="buy-software-subscriptions-on-behalf-of-customers"></a>Yazılım aboneliklerini müşteriler adına satın alın
 
@@ -37,18 +33,16 @@ Yazılım aboneliklerini bir müşteri adına satın almak için müşterinin ay
 
 ## <a name="activate-and-manage-software-subscriptions"></a>Yazılım aboneliklerini etkinleştirme ve yönetme
 
-Yazılımınızı satın aldıktan sonra müşterilerinizin indirmeniz gerekir. Bunu yapmak için aşağıdaki yordamı kullanın.
+Yazılımınızı satın aldıktan sonra siz veya müşterilerinizin indirmeniz gerekir. Bunu yapmak için aşağıdaki yordamı kullanın.
 
 >[!NOTE]
 >Anahtarlar ve indirmelerin bağlantısını elde etmek için bir yönetim aracısı olmanız gerekir.
 
 1. Müşterinizin ayrıntı sayfasına gidin ve ardından **yazılım**' ı seçin. Müşteri adına satın aldığınız tüm yazılımların bir listesini görürsünüz.
-2. "Ayrıntılı bağlantı" nu **yazılım ürün anahtarlarına bağlantısından kopyalayın ve** bağlantıyı indirip bilgisayarınızla paylaşabilirsiniz. Bu bağlantıyı seçerken, ürün anahtarlarını indirmek ve almak için Microsoft Yönetim merkezine yönlendirilir.
+2. Müşteri adına yazılım satın alımınızın yerine getirilmesi işlemini gerçekleştirmek için [Iş ortağı Işlemler kılavuzundaki](https://partner.microsoft.com/resources/detail/partner-center-new-commerce-operations-guide-pdf) yönergeleri izleyin.
 
 >[!NOTE]
 >Yalnızca müşteriler ürün anahtarlarını görebilir ve bilgileri Microsoft Yönetim Merkezi 'nde indirebilir. İş ortakları bu bilgileri göremez.
-
-Siz veya müşterileriniz lisans anahtarlarını indirme hakkında daha fazla bilgi edinmek istiyorsanız bkz. [yazılım ve ürün lisans anahtarlarını indirme](/microsoft-365/admin/setup/download-software-licenses-csp).
 
 ## <a name="cancel-a-purchase"></a>Satın almayı iptal et
 

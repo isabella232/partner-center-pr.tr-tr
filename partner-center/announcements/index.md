@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 03/04/2021
-ms.openlocfilehash: 2911dadc6efb2ad03d775d4476c50e8ca887c174
-ms.sourcegitcommit: 7ef441a0e4dbef11012212bfc087c5244a75765e
+ms.openlocfilehash: c504c3b7ed0cffe8b698b308ca66ab591e55cccf
+ms.sourcegitcommit: b0734f9c9ef6c582095573eb0a73cc0c39c7e65b
 ms.translationtype: MT
 ms.contentlocale: tr-TR
 ms.lasthandoff: 03/05/2021
-ms.locfileid: "102185290"
+ms.locfileid: "102220287"
 ---
 # <a name="partner-center-announcements"></a>İş Ortağı Merkezi duyuruları
 
@@ -22,6 +22,8 @@ ms.locfileid: "102185290"
 
 |**Kategori**|**Mart 2021 duyuruları**|**Duyurulan**|
 |---------|:---------|:---------|
+|Özellikler|[İş Ortağı Merkezi Yazılım lisans anahtarı ve indirme karşılama](2021-march.md#4)|5 Mart|
+|Özellikler|[Iş ortağı satış bağlantısı (PSC) üzerinden Iş Ortağı Merkezi 'ne anlaşmalar geçirin](2021-march.md#3)|5 Mart|
 |Özellikler|[Yeni Microsoft Dynamics 365 ürünleri ve 1 Nisan 2021 ' de sunulan teklifler](2021-march.md#2)|4 Mart|
 |Özellikler|[Microsoft Evrensel Yazdırma artık bazı paketlerde kullanılabilir](2021-march.md#1)|3 Mart|
 |**Kategori**|**Şubat 2021 duyuruları**|**Duyurulan**|

@@ -8,17 +8,91 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 03/03/2021
-ms.openlocfilehash: 0ffc09fc6496fc053a8ca150bd85235976153c03
-ms.sourcegitcommit: 7ef441a0e4dbef11012212bfc087c5244a75765e
+ms.date: 03/04/2021
+ms.openlocfilehash: 8b86623c6af832de654e3c4ad9fea666427eb51d
+ms.sourcegitcommit: b0734f9c9ef6c582095573eb0a73cc0c39c7e65b
 ms.translationtype: MT
 ms.contentlocale: tr-TR
 ms.lasthandoff: 03/05/2021
-ms.locfileid: "102185273"
+ms.locfileid: "102220304"
 ---
 # <a name="march-2021-announcements"></a>Mart 2021 duyuruları
 
 Bu sayfada Mart 2021 için Microsoft Iş Ortağı Merkezi duyuruları sağlanmaktadır.
+
+________________
+## <a name="partner-center-software-license-key-and-download-fulfillment"></a><a name="4"></a>İş Ortağı Merkezi Yazılım lisans anahtarı ve indirme karşılama
+
+### <a name="categories"></a>Kategoriler
+
+- Tarih: 2021-03-04
+- Özellikler
+
+### <a name="summary"></a>Özet
+
+Iş Ortağı Merkezi yazılım indirme ve lisans anahtarı karşılama özelliği yeniden belirtilmiştir.
+
+### <a name="impacted-audience"></a>Etkilenen hedef kitle
+
+Tüm bulut çözümü sağlayıcısı (CSP) iş ortakları, kalıcı ve sunucu aboneliği yazılım siparişlerinin Iş Ortağı Merkezi aracılığıyla deneyimidir
+
+### <a name="details"></a>Ayrıntılar
+
+İş ortağı geri bildirimlerine yanıt olarak, kalıcı ve sunucu aboneliği yazılım siparişleri için yazılım ve lisans anahtarları almak üzere Iş Ortağı Merkezi 'ni karşılama özelliğini sunuyoruz. 19 Ocak 2021 ' de kaldırılmadan önce önceki durumuna geri yüklenecek. ( [Duyuruya](2020-september.md#17)bakın.)
+
+Yazılım lisans anahtarlarının ve indirme bağlantılarının, fikri mülkiyet varlıklarından sonra değerli ve yüksek oranda aranan olduğunu unutmayın. Sızmış ise, etkinleştirme sınırlarının tükenmesine ve olumsuz bir müşteri ve iş ortağı deneyimine neden olabilir.
+
+### <a name="next-steps"></a>Sonraki adımlar
+
+Kullanım yönergeleri ve yazılım anahtarı dağıtımı hakkında önemli yönergeler için aşağıdaki kaynakları gözden geçirin:
+
+- [CSP programı aracılığıyla şirket içi yazılım satma](https://docs.microsoft.com/partner-center/csp-on-premise-software)
+- [Iş Ortağı Merkezi yeni ticaret Işlemleri Kılavuzu](https://partner.microsoft.com/resources/detail/partner-center-new-commerce-operations-guide-pdf) ( **yazılım anahtarı dağıtımı hakkında rehberlik** bölümüne bakın.)
+
+### <a name="questions"></a>Sorularınız mı var?
+
+Bu bildirimde ilgili başka sorularınız varsa ilgili Yammer topluluklarınızı kontrol edin.
+
+________________
+## <a name="migrate-your-deals-from-partner-sales-connect-psc-to-partner-center"></a><a name="3"></a>Iş ortağı satış bağlantısı (PSC) üzerinden Iş Ortağı Merkezi 'ne anlaşmalar geçirin
+
+### <a name="categories"></a>Kategoriler
+
+- Tarih: 2021-03-04
+- Özellikler
+
+### <a name="summary"></a>Özet
+
+İş ortağı satış bağlantısı (PSC), 31 Mart 2021 ' den itibaren salt okunurdur. bu nedenle, PSC 'lerden Iş ortağı merkezine geçişlerinizi geçirmeye başlamanızı başlıyoruz.
+
+### <a name="impacted-audience"></a>Etkilenen hedef kitle
+
+PSC 'de anlaşmalar olan iş ortakları
+
+### <a name="details"></a>Ayrıntılar
+
+Paylaşılan büyüme taahhüdünün bir parçası olarak **Microsoft ile ortak satış** , keşfedilmesi için kullanabileceğiniz yoldur **, uzmanlığınızı sunun ve olumlu müşteri sonuçları için müşteri parmak izini genişletmenizi** sağlar. Normalden **3,5 kat daha hızlı** bir ortalama Işlem olan Iş Ortağı Merkezi 'nde ortak satış deneyiminizi yönetmek, doğrudan müşteri, iş ortağı ve Microsoft satıcı kanallarından satış yapmanıza ve tüm başvuru işlem hattınızı tek bir konumda yönetmenize olanak sağlar.
+
+**PSC** , **31 Mart 2021**' den itibaren **salt okuma erişimine** geçer, bu nedenle iş ortağı merkezi 'ne taşıma ve bu özellik geliştirmelerini erişme hakkında bilgi alırız: 
+
+- Microsoft ile paylaştığınız anlaşmalar, ihtiyacınız olan yardım türüne göre doğru satıcı için **daha doğru bir şekilde yönlendirilmenizi** sağlar.
+- Mücadele için uygun çözümler ve ISV Connect program ölçütlerini karşılamak için, onay işlemini ve nihai yürütme (POE) kanıtlamayı basitleştirecek olan **ön ödemeli uygunluk doğrulaması** .
+- Tüm ortak satış fırsatlarınızı ve satış nitelikli müşteri adaylarını tek bir yerde yönetmek için **sorunsuz Kullanıcı deneyimi** .
+
+Ayrıca, taşınmasında yardımcı olması için Iş Ortağı Merkezi 'nde yeni özellikler ekledik:
+
+- [Ortak satış fırsatları için toplu işlemler](https://docs.microsoft.com/partner-center/bulk-operations)
+- [Geçiş özelliğini dağıt](https://docs.microsoft.com/partner-center/psc-to-pc) ( **PSC anlaşmalar geçiş** bölümüne bakın.)
+
+Iş Ortağı Merkezi 'nde ortak satış deneyimini kullanarak, satış ekipleriniz, bu müşteri adaylarına ve fırsatlara odaklanmak, anlaşmaları kapatmak ve müşteri ilişkileri oluşturmak için daha fazla zaman alır.
+
+### <a name="next-steps"></a>Sonraki adımlar
+
+Iş Ortağı Merkezi [geçiş kılavuzunu](https://docs.microsoft.com/partner-center/psc-to-pc) kullanarak, PSC 'Lerden Iş ortağı merkezine anlaşmalar geçirme adımlarında size yol gösterir.
+
+### <a name="questions"></a>Sorularınız mı var?
+
+Daha fazla soru için [desteğe](https://partner.microsoft.com/support/?stage=1)başvurun.
 
 ________________
 ## <a name="new-microsoft-dynamics-365-products-and-offers-available-on-april-1-2021"></a><a name="2"></a>Yeni Microsoft Dynamics 365 ürünleri ve 1 Nisan 2021 ' de sunulan teklifler
