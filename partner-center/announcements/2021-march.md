@@ -9,16 +9,83 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 03/03/2021
-ms.openlocfilehash: 1a386a97d0e55818b2226fd453cfca3b63753247
-ms.sourcegitcommit: a7897284b79abb1ceeee79deb3a87b72d59900dc
+ms.openlocfilehash: 0ffc09fc6496fc053a8ca150bd85235976153c03
+ms.sourcegitcommit: 7ef441a0e4dbef11012212bfc087c5244a75765e
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "102055820"
+ms.lasthandoff: 03/05/2021
+ms.locfileid: "102185273"
 ---
 # <a name="march-2021-announcements"></a>Mart 2021 duyuruları
 
 Bu sayfada Mart 2021 için Microsoft Iş Ortağı Merkezi duyuruları sağlanmaktadır.
+
+________________
+## <a name="new-microsoft-dynamics-365-products-and-offers-available-on-april-1-2021"></a><a name="2"></a>Yeni Microsoft Dynamics 365 ürünleri ve 1 Nisan 2021 ' de sunulan teklifler
+
+### <a name="categories"></a>Kategoriler
+
+- Tarih: 2021-03-04
+- Özellikler
+
+### <a name="summary"></a>Özet
+
+Microsoft, 1 Nisan 2021 ' de, bulut çözümü sağlayıcısı (CSP) programı için birkaç yeni ürün ve teklif başlatacaktır.
+
+### <a name="impacted-audience"></a>Etkilenen hedef kitle
+
+Tüm iş ortakları bulut çözümü sağlayıcısı (CSP) programı üzerinden deneyimidir
+
+### <a name="details"></a>Ayrıntılar
+
+Microsoft, 1 Nisan 2021 ' de aşağıdaki yeni ürünleri ve şunları sunuyor:
+
+- Kullanıcı başına Power BI Premium
+- Müşteri ses ve pazarlama USL coğrafi ve segment genişletme
+
+**Kullanıcı başına Power BI Premium**
+
+Microsoft, ilk Kullanıcı başına Power BI Premium tekliflerini tanıtacaktır. Power BI Premium Şu anda yalnızca bir kapasite yapısında satılabilir. Kullanıcı başına Power BI Premium kurumsal iş zekası (BI) ve analiz özelliklerine erişim sağlar. Esnek bireysel bilgisayar lisanslama, küçük ve orta ölçekli işletmeler için.
+
+Bu teklif hakkında daha fazla bilgi edinmek için [Power BI sürüm ayrıntılarını](https://docs.microsoft.com/power-platform-release-plan/2020wave2/power-bi/planned-features) gözden geçirin.
+
+
+**Teklif Ayrıntıları**
+
+Teklif adının fiyat listesi önizlemeden biraz farklı olduğunu unutmayın.
+
+| Teklif adı | Teklif Kimliği |
+| ------ |----------- |
+| Kullanıcı başına Power BI Premium | 9c810018-9356-4903-95ab-eeb956289290 | 
+| Fakülteler için Kullanıcı başına Power BI Premium | 3afc44f-f372-4ad5-8657-aadd9574fce0 | 
+| Öğrenciler için Kullanıcı başına Power BI Premium | 657eea87-d0b0-4c89-8c8e-9b04395bd940 | 
+| Kullanıcı başına Power BI Premium (kar personeli olmayan personel fiyatlandırması) | 7a0a856c-059f-45dd-9d26-ae27992e706a | 
+| Kullanıcı başına Power BI Premium Add-On | 244ff87e-5925-44a0-BF31-gizlenir 189719b58 | 
+| Fakülteler için Kullanıcı başına Power BI Premium Add-On | 5dad849bd-b8f7-4340-b4f4-3a9eaeb8987e | 
+| Öğrenciler için Kullanıcı başına Add-On Power BI Premium | cf62d70d-5af5-422a-bda8-97936402ac8e | 
+| Kullanıcı başına Power BI Premium Add-On (kar amacı gütmeyen personel fiyatlandırması) | 31c03289-47AB-4AB0-8df1-03742c127ac6 | 
+
+**Müşteri ses ve pazarlama USL coğrafi ve segment genişletme**
+
+Aralık 2020 başlatmaya yönelik bir izleme olarak Dynamics 365 müşteri Voice ve Marketing USL teklifleri, yeni ülkeler ve daha fazla kar ve eğitim SKU 'Ları eklemek üzere değiştirilmiştir.
+
+| Teklif adı | Teklif Kimliği |
+| ------ |----------- |
+| Dynamics 365 müşteri sesi USL (kar amacı gütmeyen personel fiyatlandırması) | 7a8642a5-481e-4906-a642-b56dbeeb62a0 |
+| Fakülteler için Dynamics 365 müşteri sesi USL | 85162d70-9676-4CF6-A4BC-a0d6672f2657 |
+
+Bu teklifler hakkında daha fazla bilgi edinmek için aşağıdaki sayfaları ziyaret edin:
+
+- [Dynamics 365 müşteri hizmeti sesli giriş sayfası](https://dynamics.microsoft.com/customer-voice/overview/)
+- [Dynamics 365 pazarlama ana sayfası](https://dynamics.microsoft.com/customer-voice/overview/)
+
+### <a name="next-steps"></a>Sonraki adımlar
+
+Bu konudaki kaynakları gözden geçirin ve bu bilgileri kuruluşunuzdaki uygun hissedarlarla paylaşabilirsiniz.  
+
+### <a name="questions"></a>Sorularınız mı var?
+
+Bu tekliflerle ilgili herhangi bir soru için ilgili Yammer topluluklarınızı kontrol edin. 
 
 ________________
 ## <a name="microsoft-universal-print-now-available-in-some-suites"></a><a name="1"></a> Microsoft Evrensel Yazdırma artık bazı paketlerde kullanılabilir
