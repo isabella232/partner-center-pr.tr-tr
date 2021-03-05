@@ -9,12 +9,12 @@ ms.topic: how-to
 ms.date: 03/03/2021
 ms.localizationpriority: medium
 ms.custom: contperf-fy21q3
-ms.openlocfilehash: 9cb0c94a97a7fb80ec3e8285bb1ed68628c9831b
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 2527e57ea0c95c5d91728dd6198490365b264c6f
+ms.sourcegitcommit: 79d2f00c352db61252e523f45abf93fe2a2742a5
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101755797"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "102124780"
 ---
 # <a name="verify-your-company-profile-information-in-partner-center"></a>Iş Ortağı Merkezi 'nde şirket profili bilgilerinizi doğrulayın
 
@@ -69,7 +69,7 @@ Bu güncelleştirmeleri yapmak için genel yönetici ya da hesap yöneticisi olm
 
 CSP hesabınızla ilişkili MPN KIMLIĞINI güncelleştirmek için:
 
-1. Iş Ortağı Merkezi [PANOSUNDA](https://partner.microsoft.com/en-us/dashboard/home) CSP hesabı kimlik bilgilerinizle genel yönetici olarak oturum açın ve ardından **Ayarlar**' ı seçin. (MPN ve CSP kimlik bilgileriniz farklı olabilir.)
+1. Iş Ortağı Merkezi [PANOSUNDA](https://partner.microsoft.com/dashboard/home) CSP hesabı kimlik bilgilerinizle genel yönetici olarak oturum açın ve ardından **Ayarlar**' ı seçin. (MPN ve CSP kimlik bilgileriniz farklı olabilir.)
  
 1. **Hesap ayarlarından** **tanımlayıcılar** ' ı seçin.
 
@@ -87,4 +87,3 @@ Genel yönetici, faturalandırma Yöneticisi veya yönetici aracılarınız vars
 - [Doğrulama durumunuzu denetleyin](verification-responses.md)
 
 - [MPN konumlarını yönetme](manage-locations.md)
-

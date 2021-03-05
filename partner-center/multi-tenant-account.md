@@ -1,20 +1,20 @@
 ---
-title: Iş Ortağı Merkezi hesabınıza ek kiracılar ekleyin
+title: Iş Ortağı Merkezi hesabınıza kiracılar ekleyin
 ms.topic: article
 ms.date: 01/11/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Iş Ortağı Merkezi hesabınızda birden çok Azure AD kiracılarının nasıl ekleneceğini, birleştireceğinizi veya yönetileceğini öğrenin. Bunu yapmak isteyebileceğiniz bazı nedenler hakkında bilgi edinin.
+description: Iş Ortağı Merkezi hesabınızda birden çok Azure AD kiracılarının nasıl ekleneceğini, birleştireceğinizi veya yönetileceğini öğrenin ve neden yapmak isteyebileceğiniz hakkında bilgi edinin.
 author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f9852b4e1c3997b82f744555db25fe64e1afc8ad
-ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
+ms.openlocfilehash: 2f3094489f65b7164b4a55804047f9a4ab5f11cb
+ms.sourcegitcommit: 79d2f00c352db61252e523f45abf93fe2a2742a5
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98182447"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "102124814"
 ---
 # <a name="add-and-manage-multiple-tenants-in-your-partner-center-account"></a>Iş Ortağı Merkezi hesabınızda birden çok kiracı ekleme ve yönetme
 
@@ -24,57 +24,58 @@ ms.locfileid: "98182447"
 - Genel yönetici
 - Hesap yöneticisi
 
-Bu özellik şirketiniz için birden çok kiracıyı yönetmenizi ve bunları İş Ortağı Merkezi hesabında birleştirmenizi sağlar. Iş Ortağı Merkezi hesabınızda birden çok Azure AD kiracıyı yönetmeniz gerekebileceği birçok neden vardır. Örnek:
+Bu makalede, şirketiniz için birden çok Azure Active Directory (Azure AD) kiracılarının nasıl birleştirilmesi ve ardından bunları Iş Ortağı Merkezi hesabınıza eklemek ve yönetmek açıklanır. Bunu yapmanız pek çok neden vardır. Örnek:
 
-- Şirketiniz başka bir şirket satın alabilir ve yeni şirketteki çalışanların Iş ortağı merkezini kullanmasını istiyorsunuz. Ancak, iki şirketin ayrı kalmasını istersiniz. Bu durumda, yeni şirketin Azure AD kiracısını Iş ortağı küresel hesabınızla (PGA) ilişkilendirirsiniz. Bu ilişki, her iki şirketteki kullanıcıların iş ortağı merkezi 'nde çalışmasını sağlar.
+- Şirketinizin, contoso, başka bir şirket olan Fabrikam almış olduğunu varsayalım. İki şirketin ayrı kalmasını istiyorsunuz, ancak yeni çalışanların Iş Ortağı Merkezi 'ni kullanmasını istiyorsunuz. Bu durumda, yeni şirketin Azure AD kiracısını Iş ortağı küresel hesabınızla (PGA) ilişkilendirirsiniz. Bu ilişki, her iki şirketteki kullanıcıların iş ortağı merkezi 'nde çalışmasına olanak sağlar.
 
-- İşletmenizi çalıştırmak için birden fazla kiracınız varsa (örn. contoso.com, contoso.uk, contoso.in), aynı bılgısayar hesabı altına bağlamak için çok kiracılı bir şekilde kullanabilirsiniz.
+- İşletmenizi birden fazla kiracı (örneğin, *contoso.com*, *contoso.uk* ve *contoso.in*) ile çalıştırırsanız, bunları aynı bilgisayar hesabında gruplamak için çoklu kiralama kullanabilirsiniz.
 
-- Birleşmeler ve alımlar birden fazla kiracı ile çalışmanız gerekir (örn. contoso fabrikam 'ı edindiğinde, hem Constoso.com hem de Fabrikam.com ilgili kiracılar kullanabilmek gerekir).
+- Birleşmeler ve alma yönergeleri her iki şirketteki kiracılar ile çalışmanız gerekiyorsa, hem *constoso.com* hem de *fabrikam.com* kiracılarını kullanırsınız.
 
-- Kiracıların herhangi birinden kullanıcıların şunları yapabilmesi gerekir:
-    1.  Eğitim, dijital indirmeler, MCP ilişkilendirmesi için Iş Ortağı Merkezi 'Ne erişin
-    2.  MPN admin, teşvikleri admin vb. gibi Iş Ortağı Merkezi rolleri atanmalıdır.
+- Kiracıların herhangi birinin kullanıcılarının şunları yapabilmesi gerekir:
+    * Eğitim, dijital indirmeler veya Microsoft Sertifikalı Profesyonel (MCP) ilişkisi için Iş Ortağı Merkezi 'Ne erişin.
+    * Microsoft İş Ortağı Ağı (MPN) admin veya teşvikleri admin gibi Iş Ortağı Merkezi rolleri atanmalıdır.
 
+## <a name="add-an-azure-ad-tenant-to-your-account"></a>Hesabınıza bir Azure AD kiracısı ekleyin
 
-## <a name="add-another-azure-ad-tenant-to-your-account"></a>Hesabınıza başka bir Azure AD kiracısı ekleyin
+1. [Microsoft Iş Ortağı Merkezi](https://partner.microsoft.com/dashboard)'nde genel yönetici olarak oturum açın.
 
-1. Genel yönetici olarak, Iş Ortağı Merkezi [panosunda](https://partner.microsoft.com/dashboard)oturum açın.
-1. **Ayarlar** simgesinden **Hesap ayarları** ' nı seçin ve **kiracılar**' ı seçin.
+1. Sağ üst köşedeki **Ayarlar**' ı seçin, **Hesap ayarları**' nı seçin ve **kiracılar**' ı seçin.
  
-:::image type="content" source="images/merge-accounts/multitenantNew.png" alt-text="Kiracılar ilişkilendir"::: 
+   :::image type="content" source="images/merge-accounts/multitenantNew.png" alt-text="Azure AD profili bölmesindeki Ilişkilendir düğmesinin ekran görüntüsü."::: 
 
-3. **Başka BIR ad kiracısını ilişkilendir** ' i seçin ve ilişkilendirmek istediğiniz kiracıyı belirtin.
+1. **İlişkilendir**' i seçin ve ardından ilişkilendirmek istediğiniz kiracıyı belirtin.
 
-1. Genel yönetici olarak, ilişkilendirmek istediğiniz kiracıda oturum açın ve ilişkilendirmeyi onaylayın. 
+1. Sorulduğunda, ilişkilendirmek istediğiniz kiracıya genel yönetici olarak oturum açın ve ardından **Onayla**' yı seçin. 
 
-:::image type="content" source="images/merge-accounts/multitenantNew2.png" alt-text="Kiracılar ilişkilendirmeyi Onayla"::: 
+   :::image type="content" source="images/merge-accounts/multitenantNew2.png" alt-text="Yeni Azure AD ilişkilendirmesini Onayla bölmesindeki Onayla düğmesinin ekran görüntüsü."::: 
 
-5. ' Yi doğruladıktan sonra, bir **küme** bildirimi görürsünüz.  **Kiracı yönetimine dön** ' ü seçin ve yeni eklenen kiracıyı listelendiğini görürsünüz. 
+   İlişkilendirmeyi onayladıktan sonra, **tüm küme** iletileri görüntülenir. Yeni eklenen kiracıyı görüntülemek için **kiracı yönetimine dön**' ü seçin. 
  
-
 >[!NOTE]
->Bir kiracıyı zaten başka bir Iş Ortağı Merkezi hesabıyla ilişkili ise bir firmayla ilişkilendiremezsiniz.
+>Zaten başka bir Iş Ortağı Merkezi hesabıyla ilişkili ise, bir kiracıyı bir hesap ile ilişkilendiremezsiniz.
 
 
 ## <a name="remove-a-tenant-from-your-account"></a>Bir kiracıyı hesabınızdan kaldırın
  
-1. Genel yönetici olarak, Iş Ortağı Merkezi [panosunda](https://partner.microsoft.com/dashboard)oturum açın.
+1. [Microsoft Iş Ortağı Merkezi](https://partner.microsoft.com/dashboard)'nde genel yönetici olarak oturum açın.
 
-1. **Ayarlar** simgesinden **Hesap ayarları** -kiracılar > seçin ve **iş ortağı** sekmesine tıklayın.
+1. Sağ üst köşedeki **Ayarlar** simgesini seçin ve ardından **Hesap ayarları**' nı seçin.
+
+1. Sol bölmede **kiracılar**' ı seçin. **Azure AD kiracılarını Yönet** altında **iş ortağı** sekmesini seçin.
  
-3. İlişkilendirmesini **kaldırmak** istediğiniz kiracı için Kaldır ' a tıklayın.
+1. İlişkilendirmesini kaldırmak istediğiniz kiracının yanındaki **Kaldır** ' ı seçin.
 
-4. Bir kiracının ilişkilendirmesini kaldırmak, söz konusu Kiracıdaki kullanıcıların artık Iş Ortağı Merkezi hesabına erişemeyeceği anlamına gelir ve bu, uzmanlarınızın bir etkisi olabilir. 
+   :::image type="content" source="images/disassociate.png" alt-text="Geçerli kiracı ilişkilerinin ve bunların kaldırma bağlantılarının ekran görüntüsü.":::
 
-Birincil kiracı ve şu anda oturum açtığınız Kiracı dışında, ilişkili tüm kiracılar için **Kaldır** düğmesi etkinleştirilir.
+   Önceki ekran görüntüsünde gösterildiği gibi, tüm ilişkili kiracılar için **kaldırma** bağlantıları etkinleştirilir, birincil kiracı ve şu anda oturum açtığınız kiracı hariç. 
 
-:::image type="content" source="images/disassociate.png" alt-text="Kaldır düğmesi olan kiracılar":::
- 
+   > [!NOTE]   
+   > Bir kiracıyı kaldırdığınızda, bu Kiracıdaki kullanıcıların artık Iş Ortağı Merkezi hesabına erişimi olmaz ve kaldırma, uzmanlarınızın bir etkisi olabilir. 
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-- [Kullanıcı ekle](create-user-accounts-and-set-permissions.md)
+- [Kullanıcı hesapları oluşturma](create-user-accounts-and-set-permissions.md)
 
 
 

@@ -9,12 +9,12 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 12/07/2020
-ms.openlocfilehash: 84863e96278ba17ecc9922ff9589abc504ff1fe0
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 495d9899db36d0e4911647b337a99105a063236c
+ms.sourcegitcommit: 79d2f00c352db61252e523f45abf93fe2a2742a5
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756184"
+ms.lasthandoff: 03/04/2021
+ms.locfileid: "102124831"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>İş ortağı satış bağlantısı (PSC) üzerinden geçiş yapan iş ortakları için Iş Ortağı Merkezi 'nde (PC) ortak satış ile ilgili kılavuz
 
@@ -32,9 +32,9 @@ Bu makalede iş ortağı satışları iş ortağı merkezi 'ne geçiş için kı
 > Buradan geçiş hakkında PSC 'de bir başlık gördüğünüz için doğru yerde olursunuz. Bu kılavuz, PSC 'de anlaşmalar yöneten çözüm değerlendirmesi (SA) ve OEM lisanslama iş ortakları için geçerli değildir.
 
 >[!Important]
-> 1 Mayıs 2021 ' den itibaren, şirketiniz PSC 'de anlaşmalar oluşturamaz veya düzenleyemeyecektir. **Aynı zamanda PSC içindeki toplu dışa aktarma özelliğini kullanarak mevcut anlaşmalar verilerini indirebilirsiniz. Ayrıca, bu tarihten sonra PSC 'den Iş Ortağı Merkezi 'ne [Açık anlaşmalar geçirebilirsiniz](psc-to-pc.md#psc-deals-migration) .** <br><br> Üzerinde etkin olarak çalıştığınız ve IP ortak satışı ile uygun çözümleri içeren anlaşmalar varsa, iki seçeneğiniz vardır: <br><br> 1. anlaşmayı 30 Nisan 2021 tarihinden önce Kazanıldı olarak işaretleyin ve BT 'nin tamamını doldurun. <br> 2. [anlaşmaları](psc-to-pc.md#psc-deals-migration) Iş Ortağı Merkezi 'ne geçirin ve böylece anlaşma üzerinde çalışmaya ve anlaşma kaydı başlatmaya daha fazla zaman alırsınız.
+> 1 Nisan 2021 ' den itibaren şirketiniz, PSC 'de anlaşmalar oluşturamaz veya düzenleyemez. **Aynı zamanda PSC içindeki toplu dışa aktarma özelliğini kullanarak mevcut anlaşmalar verilerini indirebilirsiniz. Ayrıca, bu tarihten sonra PSC 'den Iş Ortağı Merkezi 'ne [Açık anlaşmalar geçirebilirsiniz](psc-to-pc.md#psc-deals-migration) .** <br><br> Üzerinde etkin olarak çalıştığınız ve IP ortak satışı ile uygun çözümleri içeren anlaşmalar varsa, iki seçeneğiniz vardır: <br><br> 1. "31 Mart 2021 ' dan önce, anlaşmayı Kazanıldı olarak işaretleyin ve <br> 2. [anlaşmaları](psc-to-pc.md#psc-deals-migration) Iş Ortağı Merkezi 'ne geçirin ve böylece anlaşma üzerinde çalışmaya ve anlaşma kaydı başlatmaya daha fazla zaman alırsınız.
 
-Bildiğiniz gibi, **Şirket, 31 mayıs 2021 ' den sonra PSC 'ye erişimi kaybedecektir**. Bununla birlikte, Iş Ortağı Merkezi 'nde yapmak istediğiniz her şeyi, ortak satış anlaşmaları oluşturma, anlaşmaları yönetme ve Microsoft satıcıları tarafından size gönderilen anlaşmalar üzerinde işlem yapacak şekilde bulacaksınız.
+Bildiğiniz gibi, **Şirket, 30 nisan 2021 ' den sonra PSC 'ye erişimi kaybedecektir**. Bununla birlikte, Iş Ortağı Merkezi 'nde yapmak istediğiniz her şeyi, ortak satış anlaşmaları oluşturma, anlaşmaları yönetme ve Microsoft satıcıları tarafından size gönderilen anlaşmalar üzerinde işlem yapacak şekilde bulacaksınız.
 
 Ancak farklılıklar olacaktır. Aşağıdaki kılavuz, Iş Ortağı Merkezi 'ne geçişinizi daha sorunsuz ve daha basit hale getirmenize yardımcı olabilir.
 
