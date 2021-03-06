@@ -1,7 +1,7 @@
 ---
 title: Bölgesel vergiler ve vergi muafiyetleri
 ms.topic: article
-ms.date: 12/04/2020
+ms.date: 03/05/2021
 description: CSP Program ortakları için, bölge başına vergi sorumlulukları, CSP satışları için vergi muafiyetlerini gönderme ve vergi sorularına yönelik destek alma hakkında bilgi edinin.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,19 +9,15 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3777ea3dbf6d889787c942e584087b2378659adb
-ms.sourcegitcommit: 54c19f62474a4841d0bbd6a02a84b9c597f70fae
+ms.openlocfilehash: f423687cacb1f1b2d53750075ff7db9837e8125c
+ms.sourcegitcommit: fe867be44de3479607be3309940b904d7ea9fc6e
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/07/2020
-ms.locfileid: "96755597"
+ms.lasthandoff: 03/06/2021
+ms.locfileid: "102247671"
 ---
 # <a name="read-about-taxes-and-tax-exemption-details-by-region-or-country-for-partners-in-the-csp-program"></a>CSP programındaki iş ortakları için bölge veya ülkeye göre vergiler ve vergi muafiyet ayrıntıları hakkında bilgi edinin
 
-Aşağıdakiler için geçerlidir:
-
-- İş Ortağı Merkezi
-- Microsoft Cloud for US Government için İş Ortağı Merkezi
 
 Bulut çözümü sağlayıcısı (CSP) programı, ürünlerin iş ortağı temelinde bulunan bir satış kanalının bir satıdır. Sonuç olarak, Microsoft, her zaman iş ortağı faturalarındaki satış vergisini ücretlendirmenize gerek yoktur. Kurallar ülkeye ve/veya bölgeye göre farklılık gösterir. [Vergi muafiyetleri için ülkeye özgü ve bölgeye özgü ayrıntıları](#country-and-region-tax-details)gözden geçirebilirsiniz.
 
@@ -33,7 +29,6 @@ Vergi ile ilgili belirli bilgiler Kanada ve Birleşik Devletler için kullanıla
 
 Vergileri ücretlendirdiği başka bir ülke veya bölgedeyse [diğer bölgelere yönelik bilgilere](#other-regions)bakın.
 
-Ek sorular için [Iş Ortağı Merkezi 'nde destek isteyin](#support).
 
 ### <a name="canada"></a>Kanada
 
@@ -41,7 +36,7 @@ Satıcıların çoğu, GST/HST/QST 'den muaf değildir. Muafiyet için uygun olu
 
 Bir BC PST muafiyeti için, açıklandığı şekilde bir vergi muafiyeti dosyası yapın. BC PST # veya tamamlanmış ve imzalı bir *Muafiyet sertifikasını genel olarak* sağlayın.
 
-### <a name="united-states"></a>Amerika Birleşik Devletleri
+### <a name="united-states"></a>Birleşik Devletler
 
 Birleşik Devletler tüm satıcıların, Microsoft satıcı sözleşmesinin kabul edilmesi için 30 gün içinde satış vergisi muafiyeti belgelerinin sağlanması beklenmektedir. Her durumun, el satımak için farklı muafiyet sertifikaları vardır. Yasal adresiniz ve kayıtlı durumlarınızla ilgili neler olduğunu belirlemek için lütfen vergi danışmanınızla birlikte çalışın.
 

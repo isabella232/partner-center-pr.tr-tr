@@ -6,13 +6,13 @@ ms.subservice: partnercenter-marketplace-publisher
 ms.topic: article
 author: eunjkim520
 ms.author: eunjkim
-ms.date: 11/25/2020
-ms.openlocfilehash: a1dda9c49486d9da92b7f7f5623a37739736873f
-ms.sourcegitcommit: fc1f9cb5a542bdc92d62d2a7e1ab2f4e69903e49
+ms.date: 03/05/2021
+ms.openlocfilehash: 4cbbf89ef0df9c3fd1c1d4c59977a8ba34317673
+ms.sourcegitcommit: fe867be44de3479607be3309940b904d7ea9fc6e
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/28/2021
-ms.locfileid: "98924910"
+ms.lasthandoff: 03/06/2021
+ms.locfileid: "102247650"
 ---
 # <a name="common-questions-about-payouts-and-taxes"></a>Ödemeler ve vergiler hakkında sık sorulan sorular
 
@@ -63,7 +63,14 @@ Bu bilgileri düzenleme izinlerine sahip olan teşvikleri admin-bu rolün yalnı
 
 #### <a name="my-tax-profile-has-expired-how-do-i-fix-this"></a>Vergi Profilimin süresi doldu. Bu Nasıl yaparım? düzeltilsin mi?
 
-Vergi profilinizi güncelleştirmek için [vergi profilinizi oluşturma veya güncelleştirme](set-up-your-payout-account.md#create-or-update-your-tax-profile) bölümündeki adımları kullanın. **Vergi profili** sayfasında, süresi dolan veya sona **erme tarihi** sütununda süresi dolacak olan profilleri görebilirsiniz. 
+Bir vergi profilinin kullanım süresini dolmuşsa veya kullanım süreleri dolarsa, Microsoft 'a verdiğiniz vergi formunun güncelleştirilmesi gerekir. Vergi profilinizi güncelleştirmek için aşağıdaki adımları kullanın:
+
+1. Iş Ortağı Merkezi [panosunda](https://partner.microsoft.com/dashboard/home)oturum açın ve sonra da dişli simgesini seçerek **Ayarlar** menüsünü açın.
+2. **Hesap ayarları**' nı seçin, **ödeme ve vergi** bölümünü genişletin ve ardından **ödeme ve vergi** profili ' ni seçin.
+3. **Vergi** profilini seçin
+4. Sütun **sona erme tarihini** denetleyin ve süresi dolan veya süresi dolacak olan vergi profiline gidin.
+5. Vergi profili düzenleme işlemini başlatmak için **Düzenle** ' yi seçin.
+6. Vergi formu bölümünde, güncelleştirilmiş ayrıntıları sağlayın.
 
 ## <a name="earnings-incorrect-or-missing"></a>Kazanç yanlış veya eksik
 
