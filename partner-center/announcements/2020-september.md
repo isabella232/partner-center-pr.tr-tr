@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 03/08/2021
-ms.openlocfilehash: b8fd7fdea5cfbbc43826e7ebe05eeca11b5fddc4
-ms.sourcegitcommit: 109c20a2dc71bf6ab15a3a9880807ec014eb8c67
+ms.openlocfilehash: 3702c362090b1764b6b9d6595fbe9f9a5f0aa55d
+ms.sourcegitcommit: 6e505d043d54e36cade511cb4b803eae64c63ff0
 ms.translationtype: MT
 ms.contentlocale: tr-TR
 ms.lasthandoff: 03/09/2021
-ms.locfileid: "102475288"
+ms.locfileid: "102514094"
 ---
 # <a name="september-2020-announcements"></a>Eylül 2020 duyuruları
 
@@ -57,6 +57,12 @@ Microsoft 365 Yönetim Merkezi, satın alınan yazılımların güvenli teslimin
 
 Bu bildirimle ilgili sorular için [Iş Ortağı Merkezi desteğiyle](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals)iletişim kurun.
 
+### <a name="change-log"></a>Değişiklik günlüğü:
+
+- 30 Eylül 2020: özgün yayın 
+
+- 5 Mart 2021: Iş Ortağı Merkezi yazılımının en önde gelen ve lisans anahtarı karşılama yeteneğinin konusuna göz ekledi.
+
 ________________
 ## <a name="cloud-solution-provider-csp-program-evolution-and-open-license-program-changes-journey-to-a-better-partner-and-customer-experience"></a><a name="16"></a>Bulut çözümü sağlayıcısı (CSP) program evrimi ve açık lisans programı değişiklikleri: daha iyi bir iş ortağı ve müşteri deneyimine yolculuğa
 
@@ -71,6 +77,9 @@ CSP ve açık programlardaki tüm iş ortakları
 
 ### <a name="details"></a>Ayrıntılar
 
+>[!NOTE]
+>İş ortağı geri bildirimi nedeniyle, kalıcı ve sunucu aboneliği yazılım siparişleri için yazılım ve lisans anahtarları almak üzere Iş Ortağı Merkezi 'ni karşılama özelliğini sunuyoruz. 19 Ocak 2021 ' de kaldırılmadan önce önceki durumuna geri yüklenecek. Daha fazla bilgi için [mart 2021 duyurusuna](https://docs.microsoft.com/partner-center/announcements/2021-march#4)bakın.
+
 Microsoft CSP programı 90.000 ' den fazla katılan şirketten daha fazla katlanarak artmıştır. Bu, küçük ve orta ölçekli işletmelere yönelik birincil iş ortağı satış işlerinizin yanı sıra yeni ticaret deneyimi dahilinde daha küçük kurumsal müşterilere yöneliktir. Bu itici güç derleme sırasında, CSP programındaki iş ortakları için fırsatları genişlettireceğiz. Ayrıntılar [iş ortağı blog gönderimize](https://blogs.partner.microsoft.com/mpn/expanding-opportunities-for-partners-in-the-cloud-solution-provider-program/)göre yapılır.
 
 ### <a name="next-steps"></a>Sonraki adımlar
@@ -83,6 +92,11 @@ Microsoft CSP programı 90.000 ' den fazla katılan şirketten daha fazla katlan
 
 Bu bildirimle ilgili sorular için [Iş Ortağı Merkezi desteğiyle](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals)iletişim kurun.
 
+### <a name="change-log"></a>Değişiklik günlüğü:
+
+- 30 Eylül 2020: özgün yayın.
+
+- 5 Mart 2021: Iş Ortağı Merkezi yazılımının en önde gelen ve lisans anahtarı karşılama yeteneğinin konusuna göz ekledi.
 
 ________________
 ## <a name="availability-of-new-subscriptions-transition-tool-between-partners-for-azure-plan"></a><a name="15"></a>Azure planına yönelik iş ortakları arasında yeni abonelikler geçiş aracı kullanılabilirliği 
