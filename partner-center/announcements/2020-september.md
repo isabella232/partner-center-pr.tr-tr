@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 09/30/2020
-ms.openlocfilehash: 65f0d6a25811928a3639dc2ac6bacae31293e58f
-ms.sourcegitcommit: 410f8ef9a5b944b454b1980cd1eb796fbdb4e6ea
+ms.date: 03/08/2021
+ms.openlocfilehash: b8fd7fdea5cfbbc43826e7ebe05eeca11b5fddc4
+ms.sourcegitcommit: 109c20a2dc71bf6ab15a3a9880807ec014eb8c67
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/22/2021
-ms.locfileid: "98705020"
+ms.lasthandoff: 03/09/2021
+ms.locfileid: "102475288"
 ---
 # <a name="september-2020-announcements"></a>Eylül 2020 duyuruları
 
@@ -35,6 +35,9 @@ ________________
 Tüm bulut çözümü ortağı (CSP) iş ortakları deneyimidir yazılım teklifleri
 
 ### <a name="details"></a>Ayrıntılar
+
+>[!NOTE]
+>İş ortağı geri bildirimi nedeniyle, kalıcı ve sunucu aboneliği yazılım siparişleri için yazılım ve lisans anahtarları almak üzere Iş Ortağı Merkezi 'ni karşılama özelliğini sunuyoruz. 19 Ocak 2021 ' de kaldırılmadan önce önceki durumuna geri yüklenecek. Daha fazla bilgi için [mart 2021 duyurusuna](https://docs.microsoft.com/partner-center/announcements/2021-march#4)bakın.
 
 Bugün iş ortakları, CSP yazılım siparişlerine yönelik yazılım indirme ve lisans anahtarı için Iş ortağı merkezini veya Microsoft 365 Yönetim merkezini kullanabilir. **19 ocak 2021** Itibariyle Iş Ortağı Merkezi yazılımı ve lisans anahtarı karşılama özelliği kullanımdan kaldırılacak ve iş ortakları, müşterileri bu amaçla yalnızca **Microsoft 365 Yönetim merkezini** kullanacak şekilde kullanıma sunulacaktır. Iş Ortağı Merkezi içindeki Müşteri yazılımı sayfası, müşterileri müşteri lisanslarını ve Yazılım indirmelerini elde etmek için kullanabileceğiniz Microsoft 365 yönetim merkezine bir "ayrıntılı bağlantı" içerecektir. Bu, müşteriler için en güvenli ve verimli deneyimin sağlanmasına yardımcı olur.
 
@@ -137,7 +140,7 @@ Microsoft, güvende çalışır. CSP programındaki deneyimidir akademik teklifl
 
 - Kullanıcı arabirimi geliştirmeleri Ayrıca, doğru veri girişini destekleyerek Microsoft tarafından eğitim müşteri doğrulama sürecini geliştirir. 
 
-### <a name="testing"></a>Sınama 
+### <a name="testing"></a>Test Etme 
 
 İş ortakları, 2020 Ekim 'den başlayarak bu geliştirmeleri test etme fırsatına sahip olacaktır. Başarılı müşteri doğrulaması için gereken API 'Ler ve veri girişi hakkında daha iyi bir anlayışını elde etmek için bu fırsatı kesinlikle öneririz. Tam zamanlamaya göre yakında daha fazla ayrıntı vereceğiz ve nasıl katılacağız. FY21 S2 'in sonundan önce mevcut Iş Ortağı Merkezi API 'Leri kullanımdan kaldırılacak. Bu sırada, yeni Iş Ortağı Merkezi API 'Lerini kullanarak öğesine geçiş yapmanız gerekir.
 

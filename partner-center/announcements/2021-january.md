@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 01/28/2021
-ms.openlocfilehash: d07555d3559b2f8dbbb15f9cfe90753e50db0c04
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.date: 03/08/2021
+ms.openlocfilehash: 103b21e92ea32f251812770d66abcd413254cb36
+ms.sourcegitcommit: 109c20a2dc71bf6ab15a3a9880807ec014eb8c67
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756286"
+ms.lasthandoff: 03/09/2021
+ms.locfileid: "102475237"
 ---
 # <a name="january-2021-announcements"></a>Ocak 2021 duyuruları
 
@@ -313,6 +313,9 @@ ________________
 Tüm CSP iş ortakları
 
 ### <a name="details"></a>Ayrıntılar
+
+>[!NOTE]
+>İş ortağı geri bildirimi nedeniyle, kalıcı ve sunucu aboneliği yazılım siparişleri için yazılım ve lisans anahtarları almak üzere Iş Ortağı Merkezi 'ni karşılama özelliğini sunuyoruz. 19 Ocak 2021 ' de kaldırılmadan önce önceki durumuna geri yüklenecek. Daha fazla bilgi için [mart 2021 duyurusuna](https://docs.microsoft.com/partner-center/announcements/2021-march#4)bakın.
 
 Bugün [duyurulduğu](https://blogs.partner.microsoft.com/mpn/general-availability-of-perpetual-software-licenses-in-the-cloud-solution-provider-program/) gibi, ticari kalıcı yazılım LISANSLARıNıN tüm CSP iş ortaklarının satışı için genel kullanıma sunulduğunu bildirmek için heyecanlıyız. Iş Ortağı Merkezi CSP kalıcı yazılım fiyat listesi yeniden yayımlandı ve artık ek ürünler ve coğrafi lıklar içeriyor.
 

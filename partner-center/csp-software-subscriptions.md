@@ -1,7 +1,7 @@
 ---
 title: CSP üzerinden yazılım aboneliği satma
 ms.topic: how-to
-ms.date: 01/29/2021
+ms.date: 03/08/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: CSP programındaki iş ortaklarının, müşteriler için Azure ayrılmış örnekleri ve sunucu abonelikleri satın almak, yönetmek, satmak ve iptal etmek için Iş Ortağı Merkezi 'ni nasıl kullanabileceği hakkında bilgi edinin.
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b6e08baf11061bc027b52d4662311bdc91ee0202
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: a095f35c58cb6eb0c45f888bdf379edfd3cfe379
+ms.sourcegitcommit: 109c20a2dc71bf6ab15a3a9880807ec014eb8c67
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756095"
+ms.lasthandoff: 03/09/2021
+ms.locfileid: "102475214"
 ---
 # <a name="sell-software-subscriptions-through-the-cloud-solution-provider-csp-program"></a>Bulut çözümü sağlayıcısı (CSP) programı aracılığıyla yazılım abonelikleri satma
 
@@ -92,18 +92,25 @@ Yazılım aboneliklerini bir müşteri adına satın almak için:
 
 ## <a name="activate-and-manage-software-subscriptions"></a>Yazılım aboneliklerini etkinleştirme ve yönetme
 
-Yazılımınızı satın aldıktan sonra müşterilerinizin indirmeniz gerekir. Bunu yapmak için aşağıdaki yordamı kullanın.
+Yazılımınızı satın aldıktan sonra siz veya müşterilerinizin bu uygulamayı (Iş Ortağı Merkezi 'ni kullanarak iş ortakları) Microsoft 365 Yönetici merkezini kullanarak indirmesi gerekir. Bunu yapmak için aşağıdaki yordamı kullanın. Bağlantı kopyalama ve yazılım indirme ile ilişkili riskleri anlamak önemlidir. Daha fazla bilgi için bkz. iş ortağı merkezi 'ni kullanarak [Iş Ortağı Merkezi yeni ticaret Işlemleri Kılavuzu](https://partner.microsoft.com/resources/detail/partner-center-new-commerce-operations-guide-pdf)'nda **Müşteri Yazılım İndirmeleri ve lisans anahtarları edinme** .
 
 >[!NOTE]
->Anahtarlar ve indirmelerin bağlantısını elde etmek için bir yönetim aracısı olmanız gerekir.
+>Anahtar ve indirmelerin bağlantısını edinmek için Iş Ortağı Merkezi 'nde bir yönetim aracısı olmanız gerekir.
 
 1. Müşterinizin ayrıntı sayfasına gidin ve ardından **yazılım**' ı seçin. Müşteri adına satın aldığınız tüm yazılımların bir listesini görürsünüz.
-2. "Ayrıntılı bağlantı" nu **yazılım ürün anahtarlarına bağlantısından kopyalayın ve** bağlantıyı indirip bilgisayarınızla paylaşabilirsiniz. Bu bağlantıyı seçerken, ürün anahtarlarını indirmek ve almak için Microsoft Yönetim merkezine yönlendirilir.
+
+2. Ürün **sürümü**, **dil**, **bit**' i seçin ve **anahtarları al ve İndirmeler**' ı seçin. 
+
+3. 32 basamaklı ürünü, bir açılan iletişim kutusunda görüntüleyecek ve müşteriye gönderebilmeniz için, **Get Key** ' i seçin. 
+
+4. Bitleri indirmek için **İndir** ' i seçin. 
+
+5. Müşteriye BITS indirmelerine bağlantı göndermek istiyorsanız **Bağlantıyı Kopyala** ' yı seçin. 
+
+6. Ayrıca, yazılım siparişini **iptal** edebilir ve %100 kredi alabilirsiniz (60 gün iptal ilkesi dönemi içinde yapıldıysa).
 
 >[!NOTE]
->Yalnızca müşteriler ürün anahtarlarını görebilir ve bilgileri Microsoft Yönetim Merkezi 'nde indirebilir. İş ortakları bu bilgileri göremez.
-
-Siz veya müşterileriniz lisans anahtarlarını indirme hakkında daha fazla bilgi edinmek istiyorsanız bkz. [yazılım ve ürün lisans anahtarlarını indirme](/microsoft-365/admin/setup/download-software-licenses-csp).
+>Yalnızca müşterilerin ürün anahtarlarını ve indirme bilgilerini Microsoft 365 Yönetim Merkezi 'nde (genel yönetici rolü gereklidir) görme erişimi vardır. İş ortaklarının bu bilgileri görmek için Iş ortağı merkezini kullanması gerekir.
 
 ## <a name="server-subscription-download-and-license-keys-available-through-microsoft-365-admin-center-for-customers"></a>Sunucu aboneliği indirme ve lisans anahtarları, müşteriler için Microsoft 365 Yönetim Merkezi aracılığıyla kullanılabilir 
 

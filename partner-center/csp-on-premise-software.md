@@ -1,7 +1,7 @@
 ---
 title: CSP aracılığıyla şirket içi yazılım satma
 ms.topic: how-to
-ms.date: 03/04/2021
+ms.date: 03/08/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: CSP programındaki iş ortaklarının, Iş Ortağı Merkezi 'nde müşteriler adına şirket içi yazılım abonelikleri satın alabilir, yönetebilir, satmasını ve iptal edebilmesini öğrenin.
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6c442711a3b60f5014397b3b2d8bdfd75a852fcc
-ms.sourcegitcommit: b0734f9c9ef6c582095573eb0a73cc0c39c7e65b
+ms.openlocfilehash: 650f8085ba0e204b01f97a23640a37388ef57f17
+ms.sourcegitcommit: 109c20a2dc71bf6ab15a3a9880807ec014eb8c67
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "102220253"
+ms.lasthandoff: 03/09/2021
+ms.locfileid: "102475220"
 ---
 # <a name="sell-on-premises-software-through-the-cloud-solution-provider-csp-program"></a>Bulut çözümü sağlayıcısı (CSP) programı aracılığıyla şirket içi yazılım satma
 
@@ -33,20 +33,29 @@ Yazılım aboneliklerini bir müşteri adına satın almak için müşterinin ay
 
 ## <a name="activate-and-manage-software-subscriptions"></a>Yazılım aboneliklerini etkinleştirme ve yönetme
 
-Yazılımınızı satın aldıktan sonra siz veya müşterilerinizin indirmeniz gerekir. Bunu yapmak için aşağıdaki yordamı kullanın.
+Yazılımınızı satın aldıktan sonra siz veya müşterilerinizin bu uygulamayı (Iş Ortağı Merkezi 'ni kullanarak iş ortakları) Microsoft 365 Yönetici merkezini kullanarak indirmesi gerekir. Bunu yapmak için aşağıdaki yordamı kullanın. Bağlantı kopyalama ve yazılım indirme ile ilişkili riskleri anlamak önemlidir. Daha fazla bilgi için bkz. iş ortağı merkezi 'ni kullanarak [Iş Ortağı Merkezi yeni ticaret Işlemleri Kılavuzu](https://partner.microsoft.com/resources/detail/partner-center-new-commerce-operations-guide-pdf)'nda **Müşteri Yazılım İndirmeleri ve lisans anahtarları edinme** .
 
 >[!NOTE]
->Anahtarlar ve indirmelerin bağlantısını elde etmek için bir yönetim aracısı olmanız gerekir.
+>Anahtar ve indirmelerin bağlantısını edinmek için Iş Ortağı Merkezi 'nde bir yönetim aracısı olmanız gerekir.
 
 1. Müşterinizin ayrıntı sayfasına gidin ve ardından **yazılım**' ı seçin. Müşteri adına satın aldığınız tüm yazılımların bir listesini görürsünüz.
-2. Müşteri adına yazılım satın alımınızın yerine getirilmesi işlemini gerçekleştirmek için [Iş ortağı Işlemler kılavuzundaki](https://partner.microsoft.com/resources/detail/partner-center-new-commerce-operations-guide-pdf) yönergeleri izleyin.
+
+2. Ürün **sürümü**, **dil**, **bit**' i seçin ve **anahtarları al ve İndirmeler**' ı seçin. 
+
+3. 32 basamaklı ürünü, bir açılan iletişim kutusunda görüntüleyecek ve müşteriye gönderebilmeniz için, **Get Key** ' i seçin. 
+
+4. Bitleri indirmek için **İndir** ' i seçin. 
+
+5. Müşteriye BITS indirmelerine bağlantı göndermek istiyorsanız **Bağlantıyı Kopyala** ' yı seçin. 
+
+6. Ayrıca, yazılım siparişini **iptal** edebilir ve %100 kredi alabilirsiniz (60 gün iptal ilkesi dönemi içinde yapıldıysa).
 
 >[!NOTE]
->Yalnızca müşteriler ürün anahtarlarını görebilir ve bilgileri Microsoft Yönetim Merkezi 'nde indirebilir. İş ortakları bu bilgileri göremez.
+>Yalnızca müşterilerin ürün anahtarlarını ve indirme bilgilerini Microsoft 365 Yönetim Merkezi 'nde (genel yönetici rolü gereklidir) görme erişimi vardır. İş ortaklarının bu bilgileri görmek için Iş ortağı merkezini kullanması gerekir.
 
 ## <a name="cancel-a-purchase"></a>Satın almayı iptal et
 
-Satın alma işlemini iptal etmek için aşağıdaki yordamı kullanın. İptal işlemi tamamlandıktan sonra yazılım anahtarı iptal edilir. 
+Satın alma işlemini iptal etmek için aşağıdaki yordamı kullanın. İptal işlemi tamamlandıktan sonra yazılım anahtarı iptal edilir.
 
 >[!NOTE]
 >Satın alma işlemini iptal etmek için bir yönetim aracısı olmanız gerekir. 
