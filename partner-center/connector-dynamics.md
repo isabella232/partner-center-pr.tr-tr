@@ -8,12 +8,12 @@ description: Ürün ortağı merkezindeki başvuruları, Dynamics 365 CRM için 
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: 10062fd20e3553856d8b595efd3224ff456c2c49
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 3724b53f527ebe294590c09d7ad77d0dbcfd9c34
+ms.sourcegitcommit: 5e9ca304cce4575eed05ca3b17fb77c9711402a5
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756798"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "102532078"
 ---
 # <a name="co-sell-connector-for-dynamics-365-crm--overview"></a>Dynamics 365 CRM için ortak satış Bağlayıcısı – genel bakış
 
@@ -104,7 +104,7 @@ ms.locfileid: "101756798"
      
       7. Tüm bağlantılar eklendikten sonra ortamınızda aşağıdaki bağlantıları görmeniz gerekir:
 
-:::image type="content" source="images/cosellconnectors/dynamics-2.png" alt-text="Bağlantılar":::
+         :::image type="content" source="images/cosellconnectors/dynamics-2.png" alt-text="Bağlantılar":::
    
 ## <a name="edit-the-connections"></a>Bağlantıları düzenleme
 
@@ -141,7 +141,7 @@ Iş Ortağı Merkezi Web kancası API 'Leri, kaynak değişiklik olaylarına kay
 
 3. Belirtilen HTTP POST URL 'sini kopyalamak için **Kopyala** simgesini seçin.
 
- :::image type="content" source="images/webhook-video.gif" alt-text="Kaynak değişikliklerini kaydetmek için Web kancalarını kullanma":::
+   :::image type="content" source="images/webhook-video.gif" alt-text="Kaynak değişikliklerini kaydetmek için Web kancalarını kullanma":::
 
 4. "Iş Ortağı Merkezi Web kancası kaydı (Insider Preview)" öğesini seçin ve ardından **Çalıştır**' ı seçin.
 
@@ -205,7 +205,7 @@ Bir ortam değişken değerini güncelleştirmek için:
 
 3. **Yeni değer** seçeneğini kullanarak **geçerli değeri** güncelleştirin (varsayılan değeri güncelleştirmeyin) ve değeri sağlayın. Değer, değişkenin veri türüyle eşleşmelidir; Örneğin, Evet/Hayır veri türü Evet veya Hayır değerini kabul eder.
 
-:::image type="content" source="images/environment-variables-video.gif" alt-text="Ortam değişkenlerini Güncelleştir":::
+ :::image type="content" source="images/environment-variables-video.gif" alt-text="Ortam değişkenlerini Güncelleştir":::
 
 - Uçtan uca iki yönlü ortak satış başvuru eşitlemesi
 
