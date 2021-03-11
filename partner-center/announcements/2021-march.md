@@ -8,17 +8,37 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 03/04/2021
-ms.openlocfilehash: 8b86623c6af832de654e3c4ad9fea666427eb51d
-ms.sourcegitcommit: b0734f9c9ef6c582095573eb0a73cc0c39c7e65b
+ms.date: 03/09/2021
+ms.openlocfilehash: 2f3fd11125619ca3eaf3e0c870f5460a0abe2b4d
+ms.sourcegitcommit: d7fbaff51c7ac29fbf700d7f7fdef798fd97c6fa
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "102220304"
+ms.lasthandoff: 03/10/2021
+ms.locfileid: "102619452"
 ---
 # <a name="march-2021-announcements"></a>Mart 2021 duyuruları
 
 Bu sayfada Mart 2021 için Microsoft Iş Ortağı Merkezi duyuruları sağlanmaktadır.
+
+________________
+## <a name="expanding-the-new-commerce-experience-in-the-cloud-solution-provider-csp-program-for-azure-to-russia"></a><a name="5"></a>Azure için bulut çözümü sağlayıcısı (CSP) programında yeni ticaret deneyimini Rusya 'ya genişletme
+
+### <a name="categories"></a>Kategoriler
+
+- Tarih: 2021-03-10
+- Özellikler
+
+### <a name="impacted-audience"></a>Etkilenen hedef kitle
+
+Rusya 'daki tüm iş ortakları bulut çözümü sağlayıcısı (CSP) programı üzerinden deneyimidir.
+
+### <a name="details"></a>Ayrıntılar
+
+10 2021 Mart 'tan itibaren, **Rusya 'Da Azure IÇIN CSP 'de yeni ticaret deneyiminin** kullanılabilirliğini duyurmaktan mutluluk duyuyoruz. Bu deneyim, müşterilerin Azure hizmetlerini satın alıp tüketme yöntemini kolaylaştırır ve geliştirir. Ayrıca, CSP programındaki iş ortaklarına satış momalları genelinde Azure fiyatlandırması için tutarlı bir görünüm, genel tutarlılık için ABD Doları fiyatlandırması, faturalandırma tarihi hizalaması ve Azure maliyet yönetimine erişim hakkı verecektir.
+
+### <a name="next-steps"></a>Sonraki adımlar
+
+Yeni Azure ticari deneyimine giriş ve ek bilgi sağlama gibi birkaç kaynak mevcuttur. [CSP program güncelleştirmeleri kaynak galerisinde](https://partner.microsoft.com/resources/collection/new-azure-experience-in-csp#/)en son SSS, Decks, video ve daha fazlasını bulun.
 
 ________________
 ## <a name="partner-center-software-license-key-and-download-fulfillment"></a><a name="4"></a>İş Ortağı Merkezi Yazılım lisans anahtarı ve indirme karşılama

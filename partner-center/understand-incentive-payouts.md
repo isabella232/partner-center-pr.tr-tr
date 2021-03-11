@@ -9,12 +9,12 @@ author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 3d163271329e2f2a117d7df3abcf9b31f2c4979f
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 4c4b3a9a71027f5fb02bc29566c20c214e3df371
+ms.sourcegitcommit: 868f90c54f26a037eee29749c207a7316bb4b475
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101755860"
+ms.lasthandoff: 03/11/2021
+ms.locfileid: "103022817"
 ---
 # <a name="view-your-incentives-program-details"></a>Teşvikleri programınızın ayrıntılarını görüntüleme
 
@@ -22,18 +22,17 @@ ms.locfileid: "101755860"
 
 - Yöneticiyi teşvik edin
 - Kullanıcıyı teşvik edin
-- Salt okuma görüntüleyicisini teşvik edin
 - Genel yönetici
 - MPN Iş ortağı Yöneticisi
 
-Bu makalede, ister her konumdaki her bir programın durumu hem de her bir programın durumunu gösteren **teşvikleri genel bakış** sayfasına nasıl erişebileceğiniz açıklanır. Ayrıca, farklı kayıt durumları da sağlar. 
+Bu makalede, ister her konumdaki her bir programın durumu hem de özenklarınızın genel durumunu gösteren **teşvikleri genel bakış** sayfası açıklanmaktadır. Ayrıca, farklı kayıt durumları da sağlar.
 
 >[!NOTE]
 >Iş Ortağı Merkezi 'ndeki teşvikleri ve teşvik özellikleri hakkında daha fazla bilgi için bkz. [partner yatırımlar ve teşvikleri](https://partner.microsoft.com/membership/partner-incentives) (oturum açma gereklidir).
 
 ## <a name="access-the-incentives-overview-page"></a>Teşvikleri genel bakış sayfasına erişin
 
-1. [Iş Ortağı Merkezi panosunda](https://partner.microsoft.com/dashboard)oturum açın.
+1. [İş Ortağı Merkezi panosunda](https://partner.microsoft.com/dashboard) oturum açın.
 1. Menüden **teşvikleri** ve ardından **genel bakış** ' ı seçin.
 1. Kazanç ve ödeme özetini sayfanın en üstünde, ek ayrıntıları ise aşağıdaki tabloda bulabilirsiniz. Ayrıca, eşlik eden tabloyu sıralayabilir, gruplandırabilir ve genişletebilirsiniz:
 

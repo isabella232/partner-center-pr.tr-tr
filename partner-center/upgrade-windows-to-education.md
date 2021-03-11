@@ -9,19 +9,19 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c66a0d4ed7aa798321c42de34d879dc63de6a16b
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 6b5741ba09cedccd5f421374c4aa5ca609823bcd
+ms.sourcegitcommit: 868f90c54f26a037eee29749c207a7316bb4b475
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101755827"
+ms.lasthandoff: 03/11/2021
+ms.locfileid: "103022749"
 ---
 # <a name="upgrade-some-education-customers-from-windows-10-home-to-windows-10-education"></a>Bazı Eğitim müşterilerini Windows 10 Home 'tan Windows 10 eğitim 'e yükseltme
 
 **Uygun roller**
 
 - Yönetim Aracısı
-- Yardım Masası Aracısı
+- Faturalama yöneticisi
 
 ## <a name="overview"></a>Genel Bakış
 
@@ -92,8 +92,9 @@ Eğitim müşterileri Windows 10 eğitim cihazlarını [gelecek](https://www.mic
 **Desteğe başvurmak ve yükseltme anahtarını almak için bir son tarih var mı?**
 Windows 10 eğitim yükseltmesi, müşterinin Active Microsoft 365 a3/a5 veya Windows 10 Enterprise a3/a5 lisans aboneliklerine göre yapılır. Müşteri, aboneliği genişlemez veya yenilemezse, yükseltmenin uygunluğu de sona erer.
 
+## <a name="next-steps"></a>Sonraki adımlar
+
 **İş ortakları Windows 10 eğitimi hakkında daha fazla bilgi alabilir mi?**
-Bu bağlantıları izleyerek daha fazla bilgi edinin:
 
 - [Windows eğitime özellikleri](https://www.microsoft.com/education/products/windows/features)
 - [Windows Eğitim Merkezi](/education/windows/)

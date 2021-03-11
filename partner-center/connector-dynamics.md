@@ -1,19 +1,19 @@
 ---
 title: Dynamics 365 CRM Iş Ortağı Merkezi için ortak satış Bağlayıcısı
+description: Ürün ortağı merkezindeki başvuruları, Dynamics 365 CRM için ortak satış Bağlayıcınız ile eşitler. Satıcılar daha sonra CRM sistemlerinizden Microsoft ile ortak bir şekilde satıtabilecekleri.
 ms.topic: how-to
-ms.date: 03/01/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Ürün ortağı merkezindeki başvuruları, Dynamics 365 CRM için ortak satış Bağlayıcınız ile eşitler. Satıcılar daha sonra CRM sistemlerinizden Microsoft ile ortak bir şekilde satıtabilecekleri.
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: 3724b53f527ebe294590c09d7ad77d0dbcfd9c34
-ms.sourcegitcommit: 5e9ca304cce4575eed05ca3b17fb77c9711402a5
+ms.date: 03/01/2021
+ms.openlocfilehash: 1b0f8f12cf60db0dcc03aae24316e869cbf34376
+ms.sourcegitcommit: d7fbaff51c7ac29fbf700d7f7fdef798fd97c6fa
 ms.translationtype: MT
 ms.contentlocale: tr-TR
 ms.lasthandoff: 03/10/2021
-ms.locfileid: "102532078"
+ms.locfileid: "102619418"
 ---
 # <a name="co-sell-connector-for-dynamics-365-crm--overview"></a>Dynamics 365 CRM için ortak satış Bağlayıcısı – genel bakış
 
@@ -88,7 +88,7 @@ ms.locfileid: "102532078"
 
    - Çözüm içindeki Power otomatikleştirmede CRM Yöneticisi.
 
-      1. Sol gezinti çubuğundan **Bağlantılar** ' ı seçin ve listeden "Iş Ortağı Merkezi başvuruları" çözümünü seçin.
+      1. Sol gezinti çubuğundan **Bağlantılar** ' ı seçin ve listeden **Iş Ortağı Merkezi başvuruları** çözümünü seçin.
 
       2. **Bağlantı oluştur**' a tıklayarak bir bağlantı oluşturun.
 
@@ -110,11 +110,11 @@ ms.locfileid: "102532078"
 
 1. **Çözümler** sayfasına dönün ve **Varsayılan çözüm**' ı seçin. **Tüm**' a tıklayarak **Bağlantı başvurusunu (Önizleme)** seçin.
 
-:::image type="content" source="images/connection-reference-video.gif" alt-text="Bağlantıları Düzenle":::
+   :::image type="content" source="images/connection-reference-video.gif" alt-text="Bağlantıları Düzenle":::
 
 2. Üç nokta simgesini seçerek bağlantıların her birini tek tek düzenleyin. İlgili bağlantıları ekleyin.
 
-:::image type="content" source="images/cosellconnectors/dynamics-4.png" alt-text="Listelenen bağlantılar"::: 
+   :::image type="content" source="images/cosellconnectors/dynamics-4.png" alt-text="Listelenen bağlantılar"::: 
 
 3.  Çözümler sayfasına dönün, Dynamics 365 için Iş Ortağı Merkezi başvuruları eşitlemesini seçin ve aşağıdaki dizide yer alan her akışın yanındaki üç nokta simgesine tıklayarak akışı etkinleştirin. Akışı açmak için herhangi bir sorunla karşılaşırsanız, [özelleştirme adımları](connector-dynamics.md#customize-synchronization-steps) ve [sorun giderme adımları](connectors-troubleshoot.md)bölümüne bakın. 
 
@@ -171,19 +171,19 @@ Kullanılabilir özelleştirmeler şunlardır:
 
 - Anlaşma değeri: varsayılan olarak, Iş Ortağı Merkezi 'nden anlaşma değeri, CRM 'de **estimatedvalue** kaynağından ve bu değerden eşitlenecek. CRM 'de dağıtılacak değer için farklı bir alanınız varsa:
 
-    a.    Dynamics 365 ortam değişkeninde, CRM 'nin alan adı ile anlaşma değeri alan adını güncelleştirin. Alanın adını, görünen adı değil, belirtmeniz gerektiğini unutmayın.
+  a. Dynamics 365 ortam değişkeninde, CRM 'nin alan adı ile anlaşma değeri alan adını güncelleştirin. Alanın adını, görünen adı değil, belirtmeniz gerektiğini unutmayın.
 
-    b.    Düzenleme **[özelleştirme] Dynamics 365 akışından ayrıntı oluşturma veya güncelleştirme hakkında bilgi alın** ve CRM 'de fırsat **Oluştur veya Güncelleştir** ' e gidin ve CRM 'de doğru alana **satıcılarla değer** değeri atamak için **Yeni bir fırsat oluştur** ve **Mevcut fırsat eylemlerini Güncelleştir** ' i güncelleştirin. Ayrıca, **tahmini gelir** alanından **satıcılarla değer atamasını** kaldırın.
+  b. Düzenleme **[özelleştirme] Dynamics 365 akışından ayrıntı oluşturma veya güncelleştirme hakkında bilgi alın** ve CRM 'de fırsat **Oluştur veya Güncelleştir** ' e gidin ve CRM 'de doğru alana **satıcılarla değer** değeri atamak için **Yeni bir fırsat oluştur** ve **Mevcut fırsat eylemlerini Güncelleştir** ' i güncelleştirin. Ayrıca, **tahmini gelir** alanından **satıcılarla değer atamasını** kaldırın.
 
 - Müşteri hesabı ülke kodu: yeni bir başvuru oluştururken iki harfli bir ülke kodu (ISO 3166) sağlamak zorunludur. Ülke kodu, varsayılan olarak, CRM 'de hesap address1_country alanından ve bu alandan eşitlenecek. CRM 'de şu kaynaktan eşitlenecek ülke kodu için farklı bir alanınız varsa:
 
-   a.    Hesapta, iki harfli kod içeren arama olmayan bir ülke kodu alanı için:
+   a. Hesapta, iki harfli kod içeren arama olmayan bir ülke kodu alanı için:
 
    - Dynamics 365 ortam değişkenindeki müşteri hesabı ülke kodu alan adını, CRM 'nin alan adıyla güncelleştirin. Alanın adını, görünen adı değil, belirtmeniz gerektiğini unutmayın.
 
    - Düzenleme **[özelleştirme] Dynamics 365 akışından ayrıntılar oluşturun veya alın**  ve CRM 'de doğru alana ülke değeri atamak için CRM 'de müşteri hesabı oluştur veya Al ' a gidin. Ayrıca, Adres 1 ' den ülke değeri atamasını Kaldır: ülke/bölge alanı.
 
-   b.    Hesabındaki arama temelli bir ülke kodu alanı için:
+   b. Hesabındaki arama temelli bir ülke kodu alanı için:
 
    - Hesapta yeni bir özel alan ekleyin ve arama tabanlı alanda seçilen değere göre iki harfli ülke kodu (ISO 3166) ile otomatik olarak doldurun ve tam tersi de geçerlidir.
 
@@ -205,7 +205,7 @@ Bir ortam değişken değerini güncelleştirmek için:
 
 3. **Yeni değer** seçeneğini kullanarak **geçerli değeri** güncelleştirin (varsayılan değeri güncelleştirmeyin) ve değeri sağlayın. Değer, değişkenin veri türüyle eşleşmelidir; Örneğin, Evet/Hayır veri türü Evet veya Hayır değerini kabul eder.
 
- :::image type="content" source="images/environment-variables-video.gif" alt-text="Ortam değişkenlerini Güncelleştir":::
+   :::image type="content" source="images/environment-variables-video.gif" alt-text="Ortam değişkenlerini Güncelleştir":::
 
 - Uçtan uca iki yönlü ortak satış başvuru eşitlemesi
 
@@ -242,13 +242,11 @@ Aşağıdaki özel alanlar CRM bölümünün bir parçası olmalıdır:
 
   :::image type="content" source="images/cosellconnectors/dynamics-7.png" alt-text="{alternatif-metin}":::
 
-
-
 - Microsoft çözümlerini ekledikten sonra, satıcılarınızın onları eklemesi gerekmiyorsa, ortak satış için kullanıma yönelik kullanıma yönelik çözüm ayrıntılarını önceden doldurabilirsiniz. Yeni bir çözüm ayrıntısı eklemek için, CRM 'de Microsoft çözüm ayrıntıları nesnesi ' ne gidin ve bir giriş eklemek için **kayıt Ekle** ' ye tıklayın veya birden çok giriş eklemek için **Excel karşıya yüklemeyi** kullanın.
 
-:::image type="content" source="images/dynamic-1a.png" alt-text="Çözüm ayrıntıları":::
+  :::image type="content" source="images/dynamic-1a.png" alt-text="Çözüm ayrıntıları":::
 
-### <a name="scenarios"></a>LARLA
+### <a name="scenarios"></a>Senaryolar:
 
 1. CRM 'de başvuru oluşturulduğunda veya güncelleştirilirken ve Iş Ortağı Merkezi 'nde eşitlendiğinde başvuru eşitlemesi:
 
@@ -265,6 +263,7 @@ Aşağıdaki özel alanlar CRM bölümünün bir parçası olmalıdır:
          :::image type="content" source="images/dynamic-3a.png" alt-text="Kart görünümünde uygun alanları alma":::
 
       - **Müşteri iletişim**: ortak satış başvurusu oluşturmak için fırsata bir müşteri kişisi ekleyin.
+
       - **Iş Ortağı Merkezi Ile Eşitle**: Evet
 
       - Microsoft Solutions: bir başvuruyu Microsoft ile paylaşmak Için, fırsata geçerli bir ortak satış veya Microsoft çözümü ekleyin.

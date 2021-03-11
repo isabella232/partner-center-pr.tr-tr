@@ -9,12 +9,12 @@ author: kbangalore
 ms.author: kiranban
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9828c791cf1b1ee99eb8a23ec84869472a2c8114
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 515a35584d8c31538b6722a282c53181c7809420
+ms.sourcegitcommit: 868f90c54f26a037eee29749c207a7316bb4b475
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756573"
+ms.lasthandoff: 03/11/2021
+ms.locfileid: "103022732"
 ---
 # <a name="link-or-unlink-a-microsoft-certification-profile-id-mcid-to-a-microsoft-partner-network-mpn-account"></a>Microsoft sertifika profili KIMLIĞINI (MCıD) Microsoft İş Ortağı Ağı (MPN) hesabına bağlama veya bağlantısını kaldırma
 
@@ -33,8 +33,7 @@ Iş ortağı University 'e erişim sağlamak için aşağıdaki yordamı kullan�
 
 1. [İş Ortağı Merkezi panosunda](https://partner.microsoft.com/dashboard/) oturum açın.
 2. Sağ üst köşedeki **mavi profilimi** seçin
-3. **Öğrenme** alanında **Iş ortağı üniversite erişimini al**' ı seçin.
-Iş ortağı Üniversitesi hesabınız artık Iş Ortağı Merkezi Kullanıcı hesabınızla ilişkilendirilecektir. Değerlendirmelerinizin, Iş Ortağı Merkezi kullanıcı becerileri raporuna 72saat içinde yansıtılacaktır. Yeni geçirilen değerlendirmelerin raporda yansıtılması 7-10 gün sürebilir.
+3. **Öğrenme** alanında **Iş ortağı üniversite erişimini al**' ı seçin. İş ortağı Üniversitesi hesabı kimlik bilgilerinizi (iş ortağı merkezi hesabınız değil) girmeniz gerekir. Iş ortağı Üniversitesi hesabınız artık Iş Ortağı Merkezi Kullanıcı hesabınızla ilişkilendirilir. Değerlendirmelerinizin, Iş Ortağı Merkezi kullanıcı becerileri raporuna 72saat içinde yansıtılacaktır. Yeni geçirilen değerlendirmelerin raporda yansıtılması 7-10 gün sürebilir.
 4. İlişkilendirmeyi kaldırmak için **erişimi kaldır**' ı seçin.
 
 ## <a name="associate-a-microsoft-learning-account"></a>Microsoft Learning hesabını ilişkilendir
@@ -47,6 +46,10 @@ Bir Microsoft Learning hesabını ilişkilendirmek için aşağıdaki yordamı k
 
 >[!NOTE]
 >Microsoft Learning hesabı kimlik bilgileri Iş ortağı Üniversitesi hesabı kimlik bilgileriyle aynıysa, **email@address Microsoft Learning hesabımı Ilişkilendirmek için kullan**' ı seçin.
+
+## <a name="download-skills-report-microsoft-certification-list"></a>Becerileri indir raporu (Microsoft sertifika listesi)
+Ayrıntılara ihtiyacınız varsa, skillsreport Iş Ortağı Merkezi 'nden herhangi bir genel yönetici veya MPN Iş ortağı Yöneticisi tarafından erişilebilir ve indirilebilir. [Daha fazla bilgi edinmek](https://docs.microsoft.com/partner-center/mpn-skills-report#view-skills-report-data)için.
+
 
 ## <a name="frequently-asked-questions-about-linking-accounts"></a>Hesapların bağlanması hakkında sık sorulan sorular
 
