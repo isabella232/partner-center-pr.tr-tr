@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 03/09/2021
-ms.openlocfilehash: a524dbf8162886d88a4a9548653d32e094d8620f
-ms.sourcegitcommit: d7fbaff51c7ac29fbf700d7f7fdef798fd97c6fa
+ms.date: 03/11/2021
+ms.openlocfilehash: 801ec42953279ca52d0f0a9631e41a811d09fd4c
+ms.sourcegitcommit: ddb9ad42d7bd8fb433d86f84a839f793a42600dd
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "102619435"
+ms.lasthandoff: 03/12/2021
+ms.locfileid: "103193622"
 ---
 # <a name="partner-center-announcements"></a>İş Ortağı Merkezi duyuruları
 
@@ -22,6 +22,7 @@ ms.locfileid: "102619435"
 
 |**Kategori**|**Mart 2021 duyuruları**|**Duyurulan**|
 |---------|:---------|:---------|
+|Özellikler|[Çözümlerinizi bir ticari Iş ortağından (OCP) Microsoft ticari Market 'e (GTM) taşıma](2021-march.md#6)|12 Mart|
 |Özellikler|[Azure için bulut çözümü sağlayıcısı (CSP) programında yeni ticaret deneyimini Rusya 'ya genişletme](2021-march.md#5)|10 Mart|
 |Özellikler|[İş Ortağı Merkezi Yazılım lisans anahtarı ve indirme karşılama](2021-march.md#4)|5 Mart|
 |Özellikler|[Iş ortağı satış bağlantısı (PSC) üzerinden Iş Ortağı Merkezi 'ne anlaşmalar geçirin](2021-march.md#3)|5 Mart|

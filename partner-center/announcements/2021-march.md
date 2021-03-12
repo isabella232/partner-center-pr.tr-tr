@@ -8,17 +8,51 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 03/09/2021
-ms.openlocfilehash: 2f3fd11125619ca3eaf3e0c870f5460a0abe2b4d
-ms.sourcegitcommit: d7fbaff51c7ac29fbf700d7f7fdef798fd97c6fa
+ms.date: 03/11/2021
+ms.openlocfilehash: 479f18318a2cc85ca16c399a0379e5528090d229
+ms.sourcegitcommit: ddb9ad42d7bd8fb433d86f84a839f793a42600dd
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "102619452"
+ms.lasthandoff: 03/12/2021
+ms.locfileid: "103193639"
 ---
 # <a name="march-2021-announcements"></a>Mart 2021 duyuruları
 
 Bu sayfada Mart 2021 için Microsoft Iş Ortağı Merkezi duyuruları sağlanmaktadır.
+
+________________
+## <a name="migrate-your-solutions-from-one-commercial-partner-ocp-go-to-market-gtm-to-the-microsoft-commercial-marketplace"></a><a name="6"></a> Çözümlerinizi bir ticari Iş ortağından (OCP) Microsoft ticari Market 'e (GTM) taşıma
+
+### <a name="categories"></a>Kategoriler
+
+- Tarih: 2021-03-12
+- Özellikler
+
+### <a name="summary"></a>Özet
+
+29 Mart 2021 ' den itibaren, sınırlı bir ticari Iş ortağı (OCP) go-to market (GTM) özelliği ile karşılaşırsınız. Çözümlerinizi Iş Ortağı Merkezi ' nde ticari Market 'e geçirmenizi öneririz.
+
+### <a name="impacted-audience"></a>Etkilenen hedef kitle
+
+OCP GTM 'de çözümlerle ortak satış kurumları
+
+### <a name="details"></a>Ayrıntılar
+
+Aralık 2020 ' de, Microsoft OCP GTM aracından gelen yolculuğumuzu Iş Ortağı Merkezi 'nde Microsoft Commercial Market 'e başladık. Bu geçiş ticari Market 'in yeteneklerini genişleterek, çözümlerinizi milyonlarca müşteriye göre sergilemenize, diğer Microsoft ve iş ortağı satıcılarıyla fırsatları daha da paylaşabilir ve yenilikçi çözümleri ortaklaşa satabilirsiniz.
+
+Geçişin sonraki kilometre taşı, 29 Mart 2021 ' de gerçekleşmeyecektir. Diğer bir deyişle, bazı alanlar salt okunurdur, sınırlı OCP GTM özelliklerine karşılaşmak için başlarsınız. Şu anda OCP GTM 'deki çözümlerle ortak satıyorsanız, kendi özelliklerinden faydalanmak ve yayımlama deneyiminizi basitleştirmek için çözümlerinizi ticari Market 'e geçirmenizi öneririz. 
+
+Ticari Market 'e geçiş yapmak Iş Ortağı Merkezi 'ni ortak satış yayımlama deneyiminin birincil hedefine getirir. Çözümlerinizi, Microsoft ürünleri için kullandığımız aynı kanallar ve ürün içi deneyimler aracılığıyla paylaşılan müşterilerimiz ile bağlayarak işinizi büyütmeye devam edebilirsiniz. [Ticari Market hakkında daha fazla bilgi edinin](https://blogs.partner.microsoft.com/mpn/getting-started-with-the-microsoft-commercial-marketplace/).
+
+### <a name="next-steps"></a>Sonraki adımlar
+
+- Çözümlerinizi henüz taşıdıysanız, geçiş [kılavuzunda](https://docs.microsoft.com/azure/marketplace/co-sell-solution-migration) açıklanan yönergeleri izleyin veya tüm geçiş etkinliklerini tamamlayıp, ticari markette çözümünüzü yayımlamaya başlamak için [adım adım video öğreticisini](https://partner.microsoft.com/asset/detail/ocp-gtm-to-the-microsoft-commercial-marketplace-mp4) görüntüleyin.
+
+- OCP GTM 'deki sınırlı yetenek deneyimiyle ilgili sorularınız için, [Microsoft ticari Market SSS 'de yayımlanacak ortak satış gereksinimlerini](https://partner.microsoft.com/resources/detail/co-sell-requirements-publish-commercial-marketplace-faq-pdf)görüntüleyin. (29 Mart 2021 ' i Başlatan "OCP GTM Limited yetenekler" bölümüne bakın.)
+
+### <a name="questions"></a>Sorularınız mı var?
+
+Sorularınız varsa veya daha fazla bilgiye ihtiyacınız varsa [desteğe](https://partner.microsoft.com/support/?stage=1) başvurun.
 
 ________________
 ## <a name="expanding-the-new-commerce-experience-in-the-cloud-solution-provider-csp-program-for-azure-to-russia"></a><a name="5"></a>Azure için bulut çözümü sağlayıcısı (CSP) programında yeni ticaret deneyimini Rusya 'ya genişletme

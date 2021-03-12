@@ -1,7 +1,7 @@
 ---
 title: İş ortağı katkı göstergeleri-CBA
 ms.topic: article
-ms.date: 02/26/2021
+ms.date: 03/11/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Bir gümüş veya altın bulut Business Applications uzmanlığına nasıl ulaşmak gerektiğini gösteren yedi Iş ortağı katkı göstergeleri (PCI) hakkında bilgi edinin.
@@ -9,12 +9,12 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 53711ce9c480c195886096f0445c048307bee9db
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: b9a70d723c3b12bfcf279f63da3ab22f8a8d1601
+ms.sourcegitcommit: ddb9ad42d7bd8fb433d86f84a839f793a42600dd
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756559"
+ms.lasthandoff: 03/12/2021
+ms.locfileid: "103193656"
 ---
 # <a name="use-partner-contribution-indicators-to-attain-the-cloud-business-applications-competency"></a>Bulut Business Applications uzmanlığına ulaşmak için Iş ortağı katkı göstergelerini kullanın
 
@@ -274,11 +274,11 @@ Bir iş ortağı, bu ölçüm için kullanılabilir olan tüm veya olmayan nokta
 
 - **Kısmi bir noktaya sahip olmaz.** Taban çizgisi anlık görüntüsünün en üstünde büyüme, aşağıdaki tabloda belirtilen eşikleri karşılamalıdır veya aşmalıdır. Tabloda, puan kazanmak için uygun olması gereken işlevsel danışman taban çizgisiyle **geliştirilmiş** ve **geliştirmeyle** ilgili bir sütun gösterilmektedir.
 
-  | Geliştirildi | Geliştiriyorsanız | Tüm 15 noktayı kazanmak için büyüme gerekiyor *
+  | Geliştirildi | Geliştiriyorsanız | Tüm 15 noktayı kazanmak için büyüme gerekiyor
   |:---:|:---:|:---:|
   | 15-29 | 5-14 | %35 |
   | 30-49 | 15-24 | 25% |
-  | 50 ve üzeri | 25 ve üzeri | %15 |
+  | 50 ve üzeri | 25 ve üzeri | Aşağıdaki seçeneklere bakın |
 
 **Noktaları almak için iki seçeneği:**
 
