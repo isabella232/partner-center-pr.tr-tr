@@ -1,17 +1,17 @@
 ---
 title: Azure Marketi 'ne genel bakış
 description: Azure Marketi çevrimiçi mağazası ve yazılım ve çözümleri nasıl bulabileceğinizi ve deneyebileceğinizi öğrenin.
-ms.prod: marketplace-customer
+ms.service: marketplace-customer
 ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
 ms.date: 11/20/2020
-ms.openlocfilehash: 06797fb221763b7173fb07925366bb27e44afe04
-ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
+ms.openlocfilehash: 5fbcb4809f13081479078be9cff07cbf65e1f91a
+ms.sourcegitcommit: 3a2415ab9833d5c574ad76d462f526a131c24f33
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98182537"
+ms.lasthandoff: 03/12/2021
+ms.locfileid: "103412599"
 ---
 # <a name="what-is-azure-marketplace"></a>Azure Market nedir?
 
