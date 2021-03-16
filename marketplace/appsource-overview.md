@@ -5,13 +5,14 @@ ms.service: marketplace-customer
 ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
-ms.date: 11/20/2020
-ms.openlocfilehash: 6e0ca8e63276d63230b3862d7618ad0c649d8ffe
-ms.sourcegitcommit: 3a2415ab9833d5c574ad76d462f526a131c24f33
+ms.date: 03/12/2021
+ms.custom: contperf-fy21q3
+ms.openlocfilehash: 26de300413e9b718545489b1ab4a3aa6a0286bf3
+ms.sourcegitcommit: 062ee7d60eb552b25b4dc7cd2493da0a0a267635
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "103412531"
+ms.lasthandoff: 03/16/2021
+ms.locfileid: "103486895"
 ---
 # <a name="what-is-microsoft-appsource"></a>Microsoft AppSource nedir?
 
@@ -21,13 +22,25 @@ AppSource Catalog, hizmet olarak yazılım (SaaS) uygulamaları, Microsoft Azure
 
 ## <a name="find-what-you-need-on-appsource"></a>AppSource 'ta neleri aradığınızı bulun
 
-AppSource, aradığınız şeyi hızlı bir şekilde bulmanıza yardımcı olmak için basit arama ve filtreleme seçenekleri sunar. Satıcının, ürün adının veya anahtar sözcüklerin çözümlerini bulmak için sayfanın üst kısmındaki arama çubuğunu kullanın. Ücretsiz bir deneme veya test sürücüsünün kullanılabilirliğine, fiyatlandırma modeline (ücretsiz veya ücretli) ve derecelendirmelere göre sonuçları daraltmak için sayfanın üst kısmındaki filtreleri kullanın.
+AppSource, aradığınızı hızlı bir şekilde bulmanıza yardımcı olmak için basit arama ve filtreleme seçenekleri sunar. Satıcının, ürün adının veya anahtar sözcüklerin çözümlerini bulmak için sayfanın üst kısmındaki **arama** çubuğunu kullanın.
 
-En soldaki bölme, bir ürün türleri, Kategoriler ve endüstrileri listesine göre sonuçları filtrelemenizi sağlar. AppSource ürün türleri, Microsoft 365 ve Power Apps gibi ürünleri temel alır. Kategoriler, işbirliği ve pazarlama gibi iş işlevlerini temel alır. Ayrıca, tarım ve üretim gibi bir sektör listesinden seçim yapabilirsiniz.
+[![Microsoft Appsource giriş sayfasını gösterir.](media/appsource-overview/appsource-home-page.png)](media/appsource-overview/appsource-home-page.png#lightbox)
+
+[Uygulama galerisini](https://appsource.microsoft.com/marketplace/apps)araştırırken, ücretsiz bir deneme veya test sürücüsünün kullanılabilirliğine, fiyatlandırma modeline (ücretsiz veya ücretli) ve müşteri derecelendirmelerine göre sonuçları daraltmak için sayfanın üst kısmındaki filtreleri kullanın.
+
+En soldaki bölme, bir ürün türleri, Kategoriler ve endüstrileri listesine göre sonuçları filtrelemenizi sağlar. AppSource ürün türleri Microsoft 365, Dynamics 365 ve güç platformu gibi ürünleri temel alır. Kategoriler, satış, işbirliği veya pazarlama gibi iş işlevlerini temel alır. Finans Hizmetleri, sağlık hizmetleri ve dağıtım gibi bir sektör listesinden da seçim yapabilirsiniz.
+
+## <a name="microsoft-preferred-solutions"></a>Microsoft tarafından tercih edilen çözümler
+
+Katalog ararken veya filtrelerken, sonuçlar, uygulama kartının sağ alt köşesinde veya Ürün Ayrıntısı sayfasında bulunan rozet aracılığıyla tanımlanan, Microsoft tarafından tercih edilen çözümleri içerebilir.
+
+:::image type="content" source="media/appsource-overview/preferred-solution-badge.png" alt-text="AppSource tercih edilen sağlayıcı rozetini gösterir.":::
+
+Tercih edilen çözümler bir Microsoft uzmanı ekibi tarafından seçilir ve Microsoft iş ortakları tarafından, belirli müşteri ihtiyaçlarını bir kategori, sektör veya sektör dikey penceresinde ele almak için derin, kanıtlanmış uzmanlık ve yetenekler ile yayımlanır.
 
 ## <a name="take-action-on-a-listing"></a>Bir listede işlem yapın
 
-_Uygulama sonuçlarından_ bir uygulama seçtiğinizde, bu uygulamanın listeleme sayfası görüntülenir. AppSource 'taki her listeleme, aşağıdaki listeleme seçeneklerinden birini veya birkaçını destekler:
+Uygulamanın liste sayfasını görmek için *uygulama sonuçlarından* bir uygulama seçin. Aşağıdakilerden birini veya birkaçını seçerek bir liste üzerinde işlem yapın:
 
 - **Şimdi al**: çözümü hemen satın alın.
 - **Test sürücüsü**: seçkin tanıtımı keşfet. Test sürücüsü üretim verilerinizi veya ortamınızı kullanmaz, ancak çözümün iş gereksinimlerinizi karşılayıp karşılamadığını belirlemenizi sağlar.

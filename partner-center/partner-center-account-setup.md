@@ -1,7 +1,7 @@
 ---
 title: İş Ortağı Merkezi hesabınızı yönetme
 ms.topic: conceptual
-ms.date: 01/14/2021
+ms.date: 03/15/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Şirket profilini, banka ve vergi bilgilerini, rolleri, izinleri ve daha fazlasını yönetmek için Iş Ortağı Merkezi 'ni nasıl kullanacağınızı öğrenin.
@@ -9,12 +9,12 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9c1a17b6703981dee93acbb057bff2405d1f4f11
-ms.sourcegitcommit: 7d15e9bdb93a780886f588d294383d33c70a49f0
+ms.openlocfilehash: c2acc97a5f509f97b0ffeb6904f511cf755e4ca5
+ms.sourcegitcommit: 062ee7d60eb552b25b4dc7cd2493da0a0a267635
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/15/2021
-ms.locfileid: "98235979"
+ms.lasthandoff: 03/16/2021
+ms.locfileid: "103487031"
 ---
 # <a name="manage-your-partner-center-account---company-profile-bank-information-roles-permissions-and-more"></a>Iş Ortağı Merkezi hesabınızı, şirket profilinizi, banka bilgilerini, rolleri, izinleri ve daha fazlasını yönetin
 
@@ -26,7 +26,7 @@ Kayıt sırasında iş e-postanız ve iş bilgileriniz olduğunda iş ortağı m
 Ayrıca bkz. makalelere [çalışanları Iş ortağı merkezine katılmaya davet etme](guide-to-migration.md) ve [Yeni bir kullanıcı ekleme](create-user-accounts-and-set-permissions.md).
 
 >[!NOTE]
->Hesap ayarları menüsü, kaydolduğu programlara bağlı olarak değişecektir. Örneğin, bulut çözümü sağlayıcısı programı 'nda (CSP) bir iş ortağıysanız, Azure Paylaşılan hizmetlerinizi hesap ayarlarından yönetebileceksiniz.
+>Hesap ayarları menüsü, kaydolduğu programlara bağlı olarak değişecektir. Örneğin, bulut çözümü sağlayıcısı programı 'nda (CSP) bir iş ortağıysanız, Azure Paylaşılan hizmetlerinizi **hesap ayarlarından** yönetebileceksiniz.
 
 ## <a name="account-management"></a>Hesap yönetimi
 
@@ -51,6 +51,20 @@ Bu, hesap ayarları sayfasını görüntüler.
 İş ortağı sekmesi, şirketinizin kayıtlı yasal adı ve adresi, birincil iletişim ve iş konumları gibi tüm yasal iş bilgilerini içerir. CSP iş ortağı olan iş ortakları için satıcı sekmesi, **müşteri destek profilini** içerir.
 
 Şirketiniz CSP 'ye katılmazsa, varsayılan görünüm yalnızca **müşteri destek profilini** Içerecek **iş ortağı** sekmesini gösterir.
+
+### <a name="when-you-are-in-more-than-one-account"></a>Birden fazla hesapta olduğunuzda
+
+Birden fazla hesabın parçası olabilirsiniz. Sol gezinti menüsünde "hesap seçici" olup olmadığını birden çok hesabın parçası olup olmadığınızı kontrol edebilirsiniz.
+
+:::image type="content" source="images/accountsettings/account-picker.png" alt-text="Hesap seçiciyi tanımla":::
+
+Hesap seçiciyi görmüyorsanız yalnızca bir hesabın parçası olursunuz. 
+
+Bu seçiciye tıkladığınızda, kapsamında olduğunuz tüm hesaplar liste olarak görüntülenir. Ardından, herhangi birine tıklayıp bu hesaba geçebilirsiniz. Bu hesabın bağlamında görünen her şey.  
+
+Aşağıdaki örnekte, oturum açan kullanıcı, vurgulanan üç hesabın bir parçasıdır. Kullanıcı bir hesaba tıklayarak aralarında geçiş yapabilir.
+
+:::image type="content" source="images/accountsettings/picked-accounts.png" alt-text="Bir parçası olduğunuz hesaplar":::
 
 ## <a name="organization-profile"></a>Kuruluş profili
 
@@ -90,13 +104,13 @@ Bu sayfa, **Fatura** bilgileri, **PO numarası**, şirketinizin vergi KIMLIĞI B
 
 ## <a name="user-management"></a>Kullanıcı yönetimi
 
-İş Ortağı Merkezi 'nde ve güncelleştirebileceğinize veya görebileceğiniz alanlara bağlı olarak, rolünüze ve bu role eklenmiş izinlere bağlıdır. Örneğin, teşvikleri yöneticisi değilseniz, teşvikleri sayfalarındaki herhangi bir şeyi değiştiremeyeceksiniz, ancak verileri görüntüleyemeyebilirsiniz.
+İş Ortağı Merkezi 'nde ve güncelleştirebileceğinize veya görebileceğiniz alanlara bağlı olarak, rolünüze ve bu role eklenmiş izinlere bağlıdır. Örneğin, teşvikleri yöneticisi değilseniz, teşvikleri sayfalarındaki herhangi bir şeyi değiştiremeyeceksiniz, ancak verileri görüntüleyemeyebilirsiniz. [Roller ve izinler](permissions-overview.md) hakkında daha fazla bilgi edinin
 
 ### <a name="update-preferred-email"></a>Tercih edilen e-postayı Güncelleştir
 
 Tercih edilen e-postanızı Iş Ortağı Merkezi bildirimlerini alacak şekilde güncelleştirmek için:
 
-1. [Iş Ortağı Merkezi panosunda](https://partner.microsoft.com/dashboard)oturum açın.
+1. [İş Ortağı Merkezi panosunda](https://partner.microsoft.com/dashboard) oturum açın.
 1. [**Katılım tercihi**](https://partner.microsoft.com/dashboard/engagement/preference)' ne gidin, bağlantıyı **Değiştir** ' i seçin, e-posta adresini güncelleştirin ve **Kaydet**' i seçin.
 
 ### <a name="find-your-user-role"></a>Kullanıcı rolünüzü bulun

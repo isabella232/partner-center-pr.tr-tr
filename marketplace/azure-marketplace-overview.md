@@ -5,43 +5,54 @@ ms.service: marketplace-customer
 ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
-ms.date: 11/20/2020
-ms.openlocfilehash: 5fbcb4809f13081479078be9cff07cbf65e1f91a
-ms.sourcegitcommit: 3a2415ab9833d5c574ad76d462f526a131c24f33
+ms.custom: contperf-fy21q3
+ms.date: 03/09/2021
+ms.openlocfilehash: 96e8d686d2048856791a691ccc1d03f541ad856d
+ms.sourcegitcommit: 062ee7d60eb552b25b4dc7cd2493da0a0a267635
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "103412599"
+ms.lasthandoff: 03/16/2021
+ms.locfileid: "103486965"
 ---
 # <a name="what-is-azure-marketplace"></a>Azure Market nedir?
 
-Azure Marketi, sektörde önde gelen teknoloji şirketleri tarafından oluşturulan binlerce BT yazılım uygulaması ve hizmetlerini içeren bir çevrimiçi depodur. Azure Marketi 'nde yeni çözümler oluşturmak ve bulut altyapınızı yönetmek için ihtiyacınız olan yazılım ve Hizmetleri bulabilir, deneyebilir, satın alabilir ve dağıtabilirsiniz. Katalog, farklı sektörlere ve teknik alanlara, ücretsiz denemelerdeki ve ayrıca Microsoft iş ortaklarından gelen danışmanlık hizmetlerine yönelik çözümler içerir.
+[Azure Marketi](https://azuremarketplace.microsoft.com/marketplace/apps/category/security) , sektörde önde gelen teknoloji şirketleri tarafından oluşturulan binlerce BT yazılım uygulaması ve hizmetlerini içeren bir çevrimiçi depodur. Azure Marketi 'nde yeni çözümler oluşturmak ve bulut altyapınızı yönetmek için ihtiyacınız olan yazılım ve Hizmetleri bulabilir, deneyebilir, satın alabilir ve dağıtabilirsiniz. Katalog, farklı sektörlere ve teknik alanlara, ücretsiz denemelerdeki ve ayrıca Microsoft iş ortaklarından gelen danışmanlık hizmetlerine yönelik çözümler içerir.
 
 ## <a name="find-what-you-need-in-azure-marketplace"></a>Azure Marketi 'nde neleri aradığınızı bulun
 
-Kataloğumuzu ada göre arayın veya analiz, güvenlik, ağ, depolama ve DevOps gibi kategorilere tarayın. Azure Marketi, benzersiz iş gereksinimlerinizi karşılamak için esneklik sağlamak üzere yazılım tedarik ve BT yönetimini (çeşitli fiyatlandırma seçenekleri ve birden çok dağıtım yöntemleriyle birlikte) basitleştirir. Ayrıca standart sözleşme sözleşmeleri, birleştirilmiş faturalandırma ve faturalama ve merkezi abonelik yönetimi ile satın alma 'yı kolaylaştırır.
+Azure Marketi, aradığınızı hızlı bir şekilde bulmanıza yardımcı olmak için basit arama ve filtreleme seçenekleri sunar. Satıcının, ürün adının veya anahtar sözcüklerin çözümlerini bulmak için sayfanın üst kısmındaki arama çubuğunu kullanın.
 
-Azure Marketi kataloğu, çevrimiçi mağazadan ve Azure portal aracılığıyla kullanılabilir.  
+:::image type="content" source="media/azure-marketplace/azure-marketplace-select.png" alt-text="Uygulamalara veya danışmanlık hizmetlerine gözatıp gözatmayacağını seçebileceğiniz ana Azure Marketi penceresini gösterir.":::
 
-### <a name="search-the-online-store"></a>Çevrimiçi mağazada ara
+Uygulama galerisini araştırırken, ücretsiz bir deneme veya test sürücüsünün, işletim sisteminin, yayımcının, fiyatlandırma modelinin veya ürün türünün kullanılabilirliğine göre sonuçları daraltmak için üstteki filtreleri kullanın.
 
-[Çevrimiçi mağazayı](https://azuremarketplace.microsoft.com/) ziyaret edin ve üst kısımdaki **uygulamalara** veya **danışmanlık hizmetlerine** gözatıp gözatmaya istediğinizi seçin. Burada satın alınan uygulamalar Azure Market ' te dağıtılır.
+:::image type="content" source="media/azure-marketplace/azure-marketplace-filters.png" alt-text="Azure Marketi penceresinin en üstünde bulunan filtreleri gösterir.":::
 
-:::image type="content" source="media/azure-marketplace/azure-marketplace-select.png" alt-text="Azure Marketi ' nde, uygulamalara veya danışmanlık hizmetlerine gözatıp gözatmayacağına en üstte ' yi seçin.":::
+En soldaki bölme, kataloğu analiz, güvenlik, ağ, depolama ve DevOps gibi kategorilere göre filtrelemenize olanak tanır. Kullanılabilir alt kategorilerini görüntülemek için bir kategori seçin.
 
-Gereksinimlerinize uygun aracı bulmak için ekranın üst kısmındaki arama çubuğunu veya ürün kategorilerini sayfanın yukarısına (yukarıda gösterilmez) kullanın.
+:::image type="content" source="media/azure-marketplace/categories-subcategories.png" alt-text="Alt kategorilere sahip kategorileri gösterir.":::
 
-Danışmanlık Hizmetleri, Azure portal değil yalnızca çevrimiçi mağazada kullanılabilir.
+Azure Marketi, benzersiz iş gereksinimlerinizi karşılamak için esneklik sağlamak üzere yazılım tedarik ve BT yönetimini (çeşitli fiyatlandırma seçenekleri ve birden çok dağıtım yöntemleriyle birlikte) basitleştirir. Ayrıca standart sözleşme sözleşmeleri, birleştirilmiş faturalandırma ve faturalama ve merkezi abonelik yönetimi ile satın alma 'yı kolaylaştırır. Azure Marketi kataloğu, çevrimiçi mağazadan ve Azure portal aracılığıyla kullanılabilir.
 
-### <a name="search-in-the-azure-portal"></a>Azure portal arama
+## <a name="microsoft-preferred-solutions"></a>Microsoft tarafından tercih edilen çözümler
+
+Katalog ararken veya filtrelerken, sonuçlar, uygulama kartının sağ alt köşesinde veya Ürün Ayrıntısı sayfasında bulunan rozet aracılığıyla tanımlanan, Microsoft tarafından tercih edilen çözümleri içerebilir.
+
+:::image type="content" source="media/azure-marketplace/preferred-solution-badge.png" alt-text="Azure Marketi tercih edilen sağlayıcı rozetini gösterir.":::
+
+Tercih edilen çözümler bir Microsoft uzmanı ekibi tarafından seçilir ve Microsoft iş ortakları tarafından, belirli müşteri ihtiyaçlarını bir kategori, sektör veya sektör dikey penceresinde ele almak için derin, kanıtlanmış uzmanlık ve yetenekler ile yayımlanır.
+
+## <a name="search-in-the-azure-portal"></a>Azure portal arama
 
 Azure portal **+ kaynak oluştur** ' u seçin veya "Market" araması yapın. Ardından, sol taraftaki kategorilere gözatıp bir filtre işlevi içeren arama çubuğunu kullanın.
 
 :::image type="content" source="media/azure-marketplace/azure-portal.png" alt-text="Azure portal uygulamalar seçiliyor.":::
 
+Danışmanlık Hizmetleri, Azure portal değil yalnızca çevrimiçi mağazada kullanılabilir.
+
 ## <a name="take-action-on-a-listing"></a>Bir listede işlem yapın
 
-Azure Marketi 'ndeki her listeleme, aşağıdaki eylemlerden birini veya birkaçını destekler:
+Aşağıdakilerden birini veya birkaçını seçerek bir liste üzerinde işlem yapın:
 
 - **Şimdi alın** : çözümü hemen satın alın.
 - **Test sürücüsü** : seçkin tanıtımı keşfet. Sınama sürücüleri herhangi bir yapılandırma gerektirmez. Bu kişiler, üretim verilerinizi veya ortamınızı kullanmadan çözümün iş gereksinimlerinizi karşılayıp karşılamadığını belirlemenizi sağlar.
