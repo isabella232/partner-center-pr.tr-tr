@@ -8,17 +8,60 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 03/12/2021
-ms.openlocfilehash: f5b9069ffe0ebfa15053a3ed18fc2ee3706d9c96
-ms.sourcegitcommit: e75c09f539ba4ead74db9c729be0485e71b7b6b1
+ms.date: 03/15/2021
+ms.openlocfilehash: 435d14ec89a9582f16f77f5a63af90ceac9e2e4c
+ms.sourcegitcommit: af8cfd89218f55467bd3bbd4102f7baf890e5066
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/15/2021
-ms.locfileid: "103480994"
+ms.lasthandoff: 03/16/2021
+ms.locfileid: "103570201"
 ---
 # <a name="march-2021-announcements"></a>Mart 2021 duyuruları
 
 Bu sayfada Mart 2021 için Microsoft Iş Ortağı Merkezi duyuruları sağlanmaktadır.
+
+________________
+## <a name="update-a-legal-company-name-through-partner-center"></a><a name="9"></a> Iş Ortağı Merkezi aracılığıyla yasal şirket adını güncelleştirme
+
+### <a name="categories"></a>Kategoriler
+
+- Tarih: 2021-03-16
+- Sürücü verimliliği & ölçeği
+
+### <a name="summary"></a>Özet
+
+2021 Mart 'tan başlayarak, Microsoft İş Ortağı Ağı (MPN) iş ortakları ve bulut çözümü sağlayıcısı (CSP) dolaylı satıcıları, Iş Ortağı Merkezi aracılığıyla yasal şirket adlarını güncelleştirebilir.
+
+### <a name="impacted-audience"></a>Etkilenen hedef kitle
+
+MPN iş ortakları ve CSP dolaylı satıcıları (CSP doğrudan fatura ortakları için geçerli değildir)
+
+### <a name="details"></a>Ayrıntılar
+
+2021 Mart 'tan itibaren, MPN iş ortakları ve CSP dolaylı satıcıları, Iş Ortağı Merkezi aracılığıyla uyumlu ve kendi kendine bir şekilde yasal şirket adını güncelleştirebilir. Bu yeni özellik sayesinde, iş ortaklarının şirket adlarını güncelleştirmek için Iş ortağı merkezi destek bileti göndermesi artık gerekmez. Bu işlem, bu etkinlikleri gerçekleştirirken iş ortakları için önemli miktarda zaman kazandırır.
+
+Yasal şirket adını güncelleştirmek için şu adımları izleyin:
+
+1. Genel yönetici veya hesap yöneticisinin Iş Ortağı Merkezi 'nde oturum açması ve [Hesap ayarları](https://partner.microsoft.com/dashboard/account/v3/organization/legalinfo#mpn)' na gitmeniz gerekir.
+
+2. Yasal şirket adını güncelleştirin.
+
+3. Güncelleştirilmiş ad kaydedildikten sonra Microsoft, belirtilen bilgileri doğrular. Doğrulama, beş ila yedi gün için beklemede olabilir.
+
+4. Doğrulama tamamlandıktan sonra, güncelleştirilmiş yasal ad iş ortağı kiracısı ile ilişkilendirilir.
+
+5. Doğrulama durumu reddedildi olarak değişirse, sorunu çözmek için [Hesap bilgilerinizi doğrulama](https://docs.microsoft.com/partner-center/verification-responses) bölümüne bakın.
+
+>[!NOTE]
+>Yasal iş profilinizde bulunan şirket adının yazım hatası ve kısaltmalarının olmadığından ve resmi şirket iş kaydı kayıtlarınızda tam olarak eşleştiğinden emin olun. Kuruluş profilinizi güncelleştirme hakkında daha fazla bilgi için bkz. [kuruluş profilinizi doğrulama](https://docs.microsoft.com/partner-center/update-your-partner-profile#update-your-legal-business-profile).
+
+### <a name="next-steps"></a>Sonraki adımlar
+
+Uygun ekibin süreçlerini gözden geçirebilmesi ve güncelleştirebilmesi için bu bilgileri kuruluşunuz dahilinde paylaşabilirsiniz.
+
+### <a name="questions"></a>Sorularınız mı var?
+
+Lütfen sorular, sorgular veya daha fazla bilgi için [desteğe](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?category=csp) başvurun.
 
 ________________
 ## <a name="update-to-cloud-solution-provider-csp-program-evolution-and-open-license-program-changes"></a><a name="8"></a> Bulut çözümü sağlayıcısı (CSP) program evrimi ve açık lisans programı değişikliklerinde Güncelleştir
