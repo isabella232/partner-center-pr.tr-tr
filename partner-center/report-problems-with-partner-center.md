@@ -1,5 +1,5 @@
 ---
-title: İş Ortağı Merkezi'nde raporlama sorunları
+title: İş Ortağı Merkezi portalı istekleri ve Tanılama Aracı
 ms.topic: how-to
 ms.date: 11/19/2020
 ms.service: partner-dashboard
@@ -9,14 +9,14 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c06b11a3ddd6a91d4e939b21d603dd33aa138716
-ms.sourcegitcommit: 9cb7dc98faae06c255dbc025f8e452d75380c16a
+ms.openlocfilehash: e680856c0bf1f1ed4e8eb5acea3833255576f5e3
+ms.sourcegitcommit: c4bae49f6c303f0b77a404a0441c2440e7cb112b
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 02/04/2021
-ms.locfileid: "99530672"
+ms.lasthandoff: 03/16/2021
+ms.locfileid: "103582045"
 ---
-# <a name="how-to-report-problems-with-partner-center-and-submit-any-log-or-diagnostics-information"></a>Iş Ortağı Merkezi ile ilgili sorunları bildirme ve günlük veya tanılama bilgilerini gönderme
+# <a name="partner-center-portal-requests-and-diagnostic-tool"></a>İş Ortağı Merkezi portalı istekleri ve Tanılama Aracı
 
 **Şunlara uygulanır**
 
@@ -26,6 +26,7 @@ ms.locfileid: "99530672"
 **Uygun roller**
 
 Tüm oturum açan Iş Ortağı Merkezi kullanıcıları, iş ortağı destek istekleri oluşturabilir. Kullanıcılar yalnızca, Iş Ortağı Merkezi 'Nde oturum açtıktan sonra gönderdikleri destek isteklerini görüntüleyebilir.
+Sorunları bulup Iş Ortağı Merkezi portalı hatalarıyla ilgili yardıma ihtiyacınız olursa Iş ortağı merkezi desteği 'ne başvurun. Sorunun daha hızlı düzeltilme özelliğini sağlamak için tanılama gönderin.
 
 ## <a name="report-a-problem-with-the-partner-center"></a>Iş Ortağı Merkezi ile ilgili sorun bildirme
 
