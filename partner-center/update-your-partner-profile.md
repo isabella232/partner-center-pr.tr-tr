@@ -9,12 +9,12 @@ ms.topic: how-to
 ms.date: 03/10/2021
 ms.localizationpriority: medium
 ms.custom: contperf-fy21q3
-ms.openlocfilehash: 5ade6d7c587561cc1af4a7645d1e4b0cce9a505e
-ms.sourcegitcommit: 26095af7950817099764bf47370cb3e77e0dce7c
+ms.openlocfilehash: 6e9afa8689f34203bdbf1f56f69aa9289e38ae15
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "102770252"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712605"
 ---
 # <a name="verify-or-update-your-company-profile-information"></a>Şirket profili bilgilerinizi doğrulama veya güncelleştirme 
 
@@ -55,7 +55,7 @@ Iş Ortağı Merkezi 'nde yasal şirket adınızı veya adresinizi güncelleşti
 
 1. Şirket adı/adresi ' nin yanındaki **Güncelleştir**  ' e tıklayın ve ayrıntıları değiştirin.
  
-1. **Gönder**' i seçtiğinizde yasal kimliğiniz yeniden atanır.
+1. **Gönder**' i seçtiğinizde yasal kimliğiniz yeniden atanır. Yalnızca değiştirdiklerinizi yeniden atamamız.
 
 1. Doğrulama başarısız olursa, [sorunu nasıl düzelteceğinizi](verification-responses.md)öğrenin.
 

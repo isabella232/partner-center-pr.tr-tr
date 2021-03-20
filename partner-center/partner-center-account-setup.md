@@ -1,7 +1,7 @@
 ---
 title: İş Ortağı Merkezi hesabınızı yönetme
 ms.topic: conceptual
-ms.date: 03/15/2021
+ms.date: 03/18/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Şirket profilini, banka ve vergi bilgilerini, rolleri, izinleri ve daha fazlasını yönetmek için Iş Ortağı Merkezi 'ni nasıl kullanacağınızı öğrenin.
@@ -9,19 +9,19 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c2acc97a5f509f97b0ffeb6904f511cf755e4ca5
-ms.sourcegitcommit: 062ee7d60eb552b25b4dc7cd2493da0a0a267635
+ms.openlocfilehash: 514c8d1e1c94c0a500384502ad57bad977dcc368
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/16/2021
-ms.locfileid: "103487031"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712869"
 ---
 # <a name="manage-your-partner-center-account---company-profile-bank-information-roles-permissions-and-more"></a>Iş Ortağı Merkezi hesabınızı, şirket profilinizi, banka bilgilerini, rolleri, izinleri ve daha fazlasını yönetin
 
 **Uygun roller** – genel yönetici
 - MPN Hesap Yöneticisi
 
-Kayıt sırasında iş e-postanız ve iş bilgileriniz olduğunda iş ortağı merkezi 'nde oluşturduğunuz hesap. Hesap oluşturduktan sonra, destek ayrıntıları, uygunsa dosya vergi muafiyetleri ve birincil iletişim bilgileri dahil olmak üzere şirketinizin tam profilini ayarlamayı tamamlayacaksınız. Şirketinizin hesabı, müşteri ekleme veya yönetme, abonelik satma, faturalandırma ve faturalama ile çalışma, iş profilleri oluşturma, başvuruları yönetme, teşvikleri programlarıyla çalışma ve destek sağlama için iş ortağı merkezini kullanacak kişiler için Kullanıcı hesapları da içerir.
+Kayıt sırasında iş e-postanız ve iş bilgileriniz olduğunda iş ortağı merkezi 'nde oluşturduğunuz hesap. Hesap oluşturduktan sonra, destek ayrıntıları, uygunsa dosya vergi muafiyetleri ve birincil iletişim bilgileri dahil olmak üzere şirketinizin tam profilini ayarlamayı tamamlayacaksınız. Şirketinizin hesabı, takımınızdaki Iş ortağı merkezini kullanacak herkes için Kullanıcı hesapları da içerir. Yapabilecekleri iş, müşteri ekleme veya yönetme, abonelik satma, faturalandırma ve faturalama ile çalışma, iş profilleri oluşturma, başvuruları yönetme, teşvikleri programlarıyla çalışma, destek sağlama ve daha fazlasını içerir.
 
 Ayrıca bkz. makalelere [çalışanları Iş ortağı merkezine katılmaya davet etme](guide-to-migration.md) ve [Yeni bir kullanıcı ekleme](create-user-accounts-and-set-permissions.md).
 
@@ -30,7 +30,7 @@ Ayrıca bkz. makalelere [çalışanları Iş ortağı merkezine katılmaya davet
 
 ## <a name="account-management"></a>Hesap yönetimi
 
-Tüm iş ortakları, ticari ve geliştirici için Iş Ortağı Merkezi 'nde hesap yönetimine erişmek üzere Iş Ortağı Merkezi [panosunda](https://partner.microsoft.com/dashboard) oturum açın ve ekranın sağ üst köşesindeki **Ayarlar** (dişli simgesi) seçeneğini belirleyin ve ardından **Hesap ayarları**' nı seçin. Artık tüm profiller ve ayarlar birleştirildiğinden Iş ortağı ve geliştirici ayarları arasında seçim yapmanız gerekmez.
+Tüm ticari ve geliştirici iş ortakları, Iş Ortağı Merkezi [panosunda](https://partner.microsoft.com/dashboard) oturum açarak ve ekranın sağ üst köşesindeki **Ayarlar** (dişli simgesi) ve ardından **Hesap ayarları**' nı seçerek iş ortağı merkezi 'nde **hesap yönetimine** erişir. Artık Iş ortağı ve geliştirici ayarları arasında seçim yapmanız gerekmez. Tüm profiller ve ayarlar artık birleştirilir.
 
 :::image type="content" source="images/accountsettings/opening.png" alt-text="Ayarlar simgesi":::
 
@@ -50,13 +50,13 @@ Bu, hesap ayarları sayfasını görüntüler.
 
 İş ortağı sekmesi, şirketinizin kayıtlı yasal adı ve adresi, birincil iletişim ve iş konumları gibi tüm yasal iş bilgilerini içerir. CSP iş ortağı olan iş ortakları için satıcı sekmesi, **müşteri destek profilini** içerir.
 
-Şirketiniz CSP 'ye katılmazsa, varsayılan görünüm yalnızca **müşteri destek profilini** Içerecek **iş ortağı** sekmesini gösterir.
+Şirketiniz CSP 'ye katılmazsa, varsayılan görünüm yalnızca **Iş ortağı** sekmesini gösterir ve bu, **müşteri destek profilini** de içerir.
 
 ### <a name="when-you-are-in-more-than-one-account"></a>Birden fazla hesapta olduğunuzda
 
 Birden fazla hesabın parçası olabilirsiniz. Sol gezinti menüsünde "hesap seçici" olup olmadığını birden çok hesabın parçası olup olmadığınızı kontrol edebilirsiniz.
 
-:::image type="content" source="images/accountsettings/account-picker.png" alt-text="Hesap seçiciyi tanımla":::
+:::image type="content" source="images/accountsettings/picker-one.png" alt-text="Hesap seçiciyi tanımla":::
 
 Hesap seçiciyi görmüyorsanız yalnızca bir hesabın parçası olursunuz. 
 
@@ -64,7 +64,7 @@ Bu seçiciye tıkladığınızda, kapsamında olduğunuz tüm hesaplar liste ola
 
 Aşağıdaki örnekte, oturum açan kullanıcı, vurgulanan üç hesabın bir parçasıdır. Kullanıcı bir hesaba tıklayarak aralarında geçiş yapabilir.
 
-:::image type="content" source="images/accountsettings/picked-accounts.png" alt-text="Bir parçası olduğunuz hesaplar":::
+:::image type="content" source="images/accountsettings/picker-two.png" alt-text="Bir parçası olduğunuz hesaplar":::
 
 ## <a name="organization-profile"></a>Kuruluş profili
 
@@ -74,11 +74,17 @@ Geçerli iş profili, iş ortağı profili ve kiracılar dahil olmak üzere işl
 
 ### <a name="legal-info"></a>Yasal bilgiler
 
-Iş Ortağı Merkezi 'Ne ilk defa katılırsanız, şirketiniz Microsoft ile bir doğrulama işleminden geçer. Doğrulamanın durumunu **yasal bilgiler** sayfasında izleyebilirsiniz. Birincil kişinin (iş ortağı sorularıyla ilgili olarak sizinle iletişim kurduğu) yanı sıra birincil yasal iletişim (yasal bilgilerinizi ve durumunuzu yöneten kişi) ile ilgili asıl kişiyi gösterir. Tüm şirketinizin iş konumları listelenir ve buradan eklenebilir.
+Iş Ortağı Merkezi 'Ne ilk defa katılırsanız, şirketiniz Microsoft ile bir doğrulama işleminden geçer. Doğrulamanın durumunu **yasal bilgiler** sayfasında izleyebilirsiniz. Birincil ilgili kişi (iş ortağı sorularıyla ilgili olarak Microsoft 'a başvuracaktır) ve birincil yasal iletişim (yasal bilgilerinizi ve durumunuzu yöneten kişi) gösterilir. Tüm şirketinizin iş konumları listelenir ve buradan eklenebilir. 
+
+### <a name="provide-your-companys-legal-business-details"></a>Şirketinizin yasal iş ayrıntılarını sağlayın
+
+Şirket Profilinizi arayabilir veya şirket bilgilerini el ile girebilirsiniz. Şirketiniz [Dun & Bradstreet](https://partner.microsoft.com/marketing/usisvshowcase/dunandbrad)ile kayıtlıysa, şirketinizin bilgilerini aramak için DLııD kimliğini kullanın. Şirket ayrıntılarınızı kendiniz sağlamak istiyorsanız, **el ile**' yi seçin.
+
+Şirketiniz **Ermenistan**, **Macaristan**, **Kırgızistan**, **Moldova**, **Özbekistan** veya **Rusya**'da bulunuyorsa ve adresinizi el ile girerseniz adresinizi sizin için doğrulayacağız. Girdiğiniz bir tane, doğrulanan adres ile farklıysa, doğrulanan adresi kullanmanızı öneririz. Doğrulama, adresin doğru ve sevk edilebilir olmasını sağlar.
 
 ### <a name="primary-contact-email"></a>Birincil iletişim e-postası
 
-Birincil iletişim e-postası, hesabınızın doğrulanmasıyla ilgili bildirim almak için kullanacağınız şeydir. Birincil kişi için sağladığınız e-postanın düzenli olarak yönetilip izlenen bir bağlantı olması çok önemlidir.  
+Birincil iletişim e-postası, hesabınızın doğrulanmasıyla ilgili bildirim almak için kullanacağınız şeydir. Birincil ilgili kişi için sağladığınız e-postanın düzenli olarak yönetilen ve izlenen bir bağlantı olması önemlidir.  
 
 [Doğrulama ve hesap bilgileriniz](verification-responses.md)hakkında daha fazla bilgi edinin.
 

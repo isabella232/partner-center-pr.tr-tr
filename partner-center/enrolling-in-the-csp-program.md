@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1753649f375c66027ecc6cd427a7506913d55e8d
-ms.sourcegitcommit: c79137fba9e70037a2dc0e4a99c7334696c3740a
+ms.openlocfilehash: 9c1296c0e28412bfece328be2d8033c2d080bfdc
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "96322092"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712282"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>Bulut Çözümü Sağlayıcısı programına kaydolma
 
@@ -26,7 +26,7 @@ ms.locfileid: "96322092"
 
 - Genel yönetici
 
-## <a name="get-started"></a>Kullanmaya başlayın
+## <a name="get-started"></a>başlarken
 
 Bulut tabanlı çözümler ve hizmetler için hızla büyüyen talepler, her boyuttaki Microsoft iş ortakları için, karlı bulut çözümü işletmeleri oluşturmaya yönelik birçok fırsat sağlar. Pazara girmeye, ancak birden çok satıcıyı yönetmek zorunda olan veya uçtan uca bir müşteri ilişkisi yönetim altyapısına sahip olmayan iş ortakları, Microsoft 'un bulut çözümü sağlayıcısı (CSP) programına dolaylı satıcılar olarak kaydedilebilir.
 
@@ -68,7 +68,7 @@ Doğrudan bir fatura ortağı olarak, müşterinizin ve Microsoft ile uçtan uca
 
 ### <a name="minimum-requirements"></a>Minimum gereksinimler
 
-|**Gereksinim**|                             |
+|**Gereksinim**|  **Açıklama**  |
 |--------------------------------|--------------------------------------------------------------|
 |**MPN Kimliği**   |Microsoft İş Ortağı Ağı ve MPN KIMLIĞINDE, satmak istediğiniz konum için etkin bir üyelik.    |
 |**Onay anahtarı**   |Kuruluşunuz adına yasal sözleşmeleri kabul etme ve imzalama yetkisi.|

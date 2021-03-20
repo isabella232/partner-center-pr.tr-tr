@@ -4,14 +4,16 @@ description: Microsoft tarafından verilen ve ne zaman kullanılabilir hale geti
 ms.topic: article
 author: mingshen-ms
 ms.author: mingshen
+ms.service: partner-dashboard
+ms.subservice: partnercenter-mpn
 ms.localizationpriority: medium
 ms.date: 09/30/2020
-ms.openlocfilehash: 5543ec62397a72a042c5aa64c6c8f77ce7286f4c
-ms.sourcegitcommit: 95a5afdf68d88b6be848729830dcd114e3fb0c0f
+ms.openlocfilehash: 42c5d6f0d31e6509253fe44d5b97606fc688f177
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 11/11/2020
-ms.locfileid: "94487882"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712826"
 ---
 # <a name="understand-irs-tax-forms-issued-by-microsoft"></a>Microsoft tarafından verilen IRS vergi formlarını anlama
 
@@ -21,7 +23,7 @@ Bu makalede, bu formlar hakkında daha fazla bilgi sağlanır.
 
 ## <a name="types-of-tax-forms"></a>Vergi formları türleri
 
-| IRS vergi formu | Açıklama | Kullanılabilirlik |
+| IRS vergi formu | Description | Kullanılabilirlik |
 |--------------|-------------|--------------|
 |1099-ÇEŞITLI, 1099-K | Microsoft 'un Market konumlarına katılım için size yapılan satış etkinliklerine ve/veya ödemeleriyle ilgili | Yazdırılan formlar, **31 Ocak** tarihinde veya daha önce işaretlenir ve. PDF kopyaları, [iş ortağı merkezi](https://partner.microsoft.com/dashboard) 'nde ( **ödeyen ve vergi > ödeme** kapsamındaki **iş ortağı merkezi hesap ayarları** 'nda) aynı anda kullanılabilir olacaktır |
 |1042-S | Birleşik Devletler stopaj vergisine tabi olan ve size yapılan ödemeler ile ilgili | Yazdırılan formlar, **15 Mart** tarihinde veya daha önce işaretlenir ve. PDF kopyaları Iş Ortağı Merkezi 'Nde ( **ödeyen ve vergi > ödeme** kapsamındaki **iş ortağı Merkezi geliştirici ayarları** ) aynı anda kullanılabilir olacaktır  |
@@ -55,16 +57,16 @@ Vergi formları şu adreslerden size gönderilecektir:
 |------------------------|-----------------------|
 | Geçerli vergi yılında **200** **ABD Doları $20.000 'den** büyük bir toplam satın alma miktarı (Windows 10 ' da Microsoft Store ile Brezilya ve Çin 'de yapılan satışları **saymıyor** .)| **1099-K:**<br/>Filer: Microsoft Corporation<br/>EIN: \* \* \* \* \* 4442<br/><br/>**Önemli:** Form 1099-K, size yapılan ödemeleri değil, **Brüt satın alma** tutarlarını içerir.| 
 | Minecrampamarket 'teki Windows 10 veya (II) satışları Microsoft Store, Brezilya ve Çin 'de gerçekleştirilen, (i) uygulama satışları için **en az $10 ödedim** .<br/><br/>**OR**<br/><br/>İlgili vergi yılında Microsoft 'un uygulama satışlarına yönelik olarak en az $600 ödedim (örneğin, bir yarışmaya veya promosyondan ödemeleri veya ödemeleri teşvik edin)| **1099-ÇEŞITLI:**<br/>Ödeyen: Microsoft Corporation<br/>EIN: \* \* \* \* \* 4442<br/><br/>**Önemli:** Belirli iş varlıkları, Microsoft 'tan alınan ödeme tutarlarından bağımsız olarak 1099-MISC formlar almaz.  Daha fazla bilgi için vergi uzmanınıza başvurun.| 
-| Yukarıdakilerin hiçbiri uygulanmaz.| Hiçbiri |
+| Yukarıdakilerin hiçbiri uygulanmaz.| Yok |
 | <br/><br/>**Uygulamalarım, uygulamalar ve... için reklamları satan Birleşik Devletler geliştirici.** |<br/><br/>**Şu formu almam gerekir:** |
 |Geçerli vergi yılında uygulamalarda reklamları **en az $600 oranında** aldım. | **1099-ÇEŞITLI:**<br/>Ödeyen: Microsoft Online Inc<br/>EIN: \* \* \* \* \* 0505<br/><br/>**Önemli:** Belirli iş varlıkları, Microsoft 'tan alınan ödeme tutarlarından bağımsız olarak 1099-MISC formlar almaz.  Daha fazla bilgi için vergi uzmanınıza başvurun. |
-| Geçerli vergi yılında uygulamalardaki reklamları **$600 ' den az ödedim** . | Hiçbiri |
+| Geçerli vergi yılında uygulamalardaki reklamları **$600 ' den az ödedim** . | Yok |
 
 
 ## <a name="for-developers-located-outside-of-the-united-states"></a>Birleşik Devletler dışında bulunan geliştiriciler için
 
 
-| | |
+| **Soru** | **Yanıt** |
 |---|---|
 | **Microsoft 'tan 1042-S biçimi aldım. Ne için?** | Microsoft, Birleşik Devletler vergi dairelerine raporlanabilir olarak kabul edilen ve stopaj vergisine tabi olan gelirinizi ödediğimiz için size bir 1042-S formu veya formu sağladı.  Bu raporlama gereksinimi için 1042-S biçimi kullanılır. | 
 | **Formlarla ne yapmam gerekir?** | Genellikle, sizin bölüminizdeki belirli bir eylem gerekli değildir. Her türlü vergi kredisi için yerel vergi dairelerine uygulamak istiyorsanız, 1042-S formu sizin için yararlı olabilir.  Bu konuyla ilgili daha fazla bilgi edinmek için kendi vergi danışmanlarınızı inceleyin. | 

@@ -6,12 +6,12 @@ ms.topic: how-to
 author: msjogarrig
 ms.author: jogarrig
 ms.date: 02/24/2021
-ms.openlocfilehash: dbd67ee1d4e9775d37318ec6389888f03a50b6ec
-ms.sourcegitcommit: 3a2415ab9833d5c574ad76d462f526a131c24f33
+ms.openlocfilehash: 8cfe0e95d1655530c9bc9d24b1efe85e6432236b
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "103412718"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712775"
 ---
 # <a name="create-and-manage-private-azure-marketplace-in-the-azure-portal"></a>Azure portal özel Azure Marketi oluşturun ve yönetin
 
@@ -21,7 +21,7 @@ Market Yöneticisi (atanan rol) olarak, onaylanan tekliflerinizi ve planlarını
 
 > [!NOTE]
 > - Özel Azure Marketi bir kiracı düzeyindedir, bu nedenle kiracı kapsamındaki tüm kullanıcılar aynı seçkin listeyi görür.
-> - Tüm Microsoft çözümleri ( [onaylı Linux dağıtımları](https://docs.microsoft.com/azure/virtual-machines/linux/endorsed-distros)dahil), özel Azure Marketi 'ne otomatik olarak eklenir.
+> - Tüm Microsoft çözümleri ( [onaylı Linux dağıtımları](/azure/virtual-machines/linux/endorsed-distros)dahil), özel Azure Marketi 'ne otomatik olarak eklenir.
 
 ## <a name="assign-the-marketplace-admin-role"></a>Market yönetici rolünü atama
 
@@ -187,7 +187,7 @@ Bir öğe, teklifin ve planın bir birleşimidir. Market 'i Yönet sayfasında �
 4. Seçimlerinizi yaptıktan sonra sol alttaki **bitti** ' yi seçin.
 
 >[!Note]
-> Market 'e **öğe eklemek** yalnızca Microsoft dışı teklifler için kullanılabilir olacaktır. Microsoft Solutions ( [onaylı Linux dağıtımları](https://docs.microsoft.com/azure/virtual-machines/linux/endorsed-distros)dahil) "varsayılan olarak onaylandı" olarak etiketlenecek ve özel Market 'te yönetilemez.
+> Market 'e **öğe eklemek** yalnızca Microsoft dışı teklifler için kullanılabilir olacaktır. Microsoft Solutions ( [onaylı Linux dağıtımları](/azure/virtual-machines/linux/endorsed-distros)dahil) "varsayılan olarak onaylandı" olarak etiketlenecek ve özel Market 'te yönetilemez.
 
 ## <a name="edit-items-plans"></a>Öğenin planlarını Düzenle
 
@@ -249,7 +249,7 @@ Bildirim merkezine erişmek için:
 Özel Azure Marketi etkinleştirildiğinde, kullanıcılar Market yöneticisinin hangi planları onayladığını görür.
 
 - Yeşil **onaylı** bir bildirimde, onaylanan iş ortağı (Microsoft dışı) teklifi gösterilir.
-- Mavi **onaylanmış** bir bildirim, onaylanan bir Microsoft teklifini (onaylanmış [Linux dağıtımları](https://docs.microsoft.com/azure/virtual-machines/linux/endorsed-distros)dahil) gösterir.
+- Mavi **onaylanmış** bir bildirim, onaylanan bir Microsoft teklifini (onaylanmış [Linux dağıtımları](/azure/virtual-machines/linux/endorsed-distros)dahil) gösterir.
 
 Kullanıcılar, ve onaylanmamış teklifler arasında filtre uygulayabilir:
 
@@ -304,7 +304,7 @@ Market 'te üçüncü taraf hizmetleri kısıtlamak için şu anda iki yol vard�
 
     :::image type="content" source="media/private-azure/disable-services-other-view.png" alt-text="E-portalda hizmetleri nasıl kısıtlayabileceğini gösterir.":::
 
-2. Yalnızca belirli VM 'Lere izin vermek için bir Azure ilkesi oluşturun. Windows VM 'lerine ilke zorlama hakkında daha fazla bilgi için bkz. [Azure Resource Manager Ile Windows VM](https://docs.microsoft.com/azure/virtual-machines/windows/policy)'Lerine ilke uygulama.
+2. Yalnızca belirli VM 'Lere izin vermek için bir Azure ilkesi oluşturun. Windows VM 'lerine ilke zorlama hakkında daha fazla bilgi için bkz. [Azure Resource Manager Ile Windows VM](/azure/virtual-machines/windows/policy)'Lerine ilke uygulama.
 
 Özel Azure Marketi, belirli tekliflere ve planlara kısıtlama ve izin verme konusunda daha fazla esneklik sağlar. Son kullanıcılara, üçüncü taraf hizmetleri dağıtmayı denemeden önce Market galerisinde dağıtım için kullanılabilirliği bildirir. Üçüncü taraf hizmetlerin dağıtımına izin vermek için, Azure Marketi ' ni EA portalında açık/etkin olarak ayarlayın ve Azure portal.
 
@@ -314,7 +314,7 @@ Market 'te üçüncü taraf hizmetleri kısıtlamak için şu anda iki yol vard�
 
 #### <a name="whats-the-difference-between-a-private-offer-and-private-azure-marketplace"></a>Özel bir teklif ve özel Azure Marketi arasındaki fark nedir?
 
-**Özel bir teklif** , yayımcıların yalnızca hedeflenen müşterilere görünen planlar oluşturmalarına olanak tanır. Bu, özelleştirilmiş çözümleri, anlaşmalı fiyatlandırma, özel hüküm ve koşullar ve özelleştirilmiş yapılandırmalarda özel olarak paylaşmasına olanak tanır. Ayrıntılar için bkz. [ticari Market 'Teki özel teklifler](https://docs.microsoft.com/azure/marketplace/private-offers).
+**Özel bir teklif** , yayımcıların yalnızca hedeflenen müşterilere görünen planlar oluşturmalarına olanak tanır. Bu, özelleştirilmiş çözümleri, anlaşmalı fiyatlandırma, özel hüküm ve koşullar ve özelleştirilmiş yapılandırmalarda özel olarak paylaşmasına olanak tanır. Ayrıntılar için bkz. [ticari Market 'Teki özel teklifler](/azure/marketplace/private-offers).
 
 Azure portal **özel Azure Marketi** , yöneticilerin kullanıcıların dağıtabilecek üçüncü taraf çözümlerini önceden onaylamasını sağlar. Özel bir Azure Marketi sayesinde kullanıcılar, uyumlu teklifleri bularak, satın alarak ve dağıtarak Azure Marketi 'nin avantajlarından faydalanarak yararlanabilir. Özel Market 'teki abonelik tabanlı özel teklifleri yönetmek için Market yöneticisinin, belirli abonelikte en az "okuma" rolüne sahip olması gerekir.
 
@@ -326,16 +326,16 @@ Abonelik tabanlı özel teklifler yalnızca özel teklif ayarlarındaki listelen
 
 #### <a name="can-we-include-custom-images-in-private-azure-marketplace"></a>Özel Azure Marketi 'ne özel görüntüler ekleyebilir mi?
 
-Hayır. Özel Azure Marketi, BT yöneticisinin küresel Azure Marketi 'nden üçüncü taraf çözümleri yönetmesine ve seçmesine olanak sağlar. Özel görüntüler küresel Azure Marketi 'nde olmadığından, BT Yöneticisi özel görüntülerinizi seçip seçemez. Özel görüntüleri paylaştırmak istiyorsanız [paylaşılan görüntü Galerisi](https://docs.microsoft.com/azure/virtual-machines/shared-image-galleries)' ni kullanın.
+Hayır. Özel Azure Marketi, BT yöneticisinin küresel Azure Marketi 'nden üçüncü taraf çözümleri yönetmesine ve seçmesine olanak sağlar. Özel görüntüler küresel Azure Marketi 'nde olmadığından, BT Yöneticisi özel görüntülerinizi seçip seçemez. Özel görüntüleri paylaştırmak istiyorsanız [paylaşılan görüntü Galerisi](/azure/virtual-machines/shared-image-galleries)' ni kullanın.
 
-1. Adım adım kılavuz paylaşılan görüntü Galerisi (SıG) ([CLI](https://docs.microsoft.com/azure/virtual-machines/shared-images-cli), [PowerShell](https://docs.microsoft.com/azure/virtual-machines/shared-images-powershell)) oluşturma.
-2. Bir SıG içinde bir görüntü tanımı oluşturun. Müşteri, işletim sistemi durumu alanı için **Genelleştirilmiş** ' ı seçmelidir. ([CLI](https://docs.microsoft.com/azure/virtual-machines/image-version-managed-image-cli#create-an-image-definition), [PowerShell](https://docs.microsoft.com/azure/virtual-machines/image-version-vm-powershell#create-an-image-definition)).
-3. Yönetilen görüntüyü paylaşılan görüntü galerisine getirin ([CLI](https://docs.microsoft.com/azure/virtual-machines/image-version-managed-image-cli), [PowerShell](https://docs.microsoft.com/azure/virtual-machines/image-version-managed-image-powershell)).
-4. SıG VM görüntüleri bir abonelikte yer alır. Başka abonelikler için kullanılabilir hale getirmek için, bir uygulama kaydı ([CLI](https://docs.microsoft.com/azure/virtual-machines/linux/share-images-across-tenants), [PowerShell](https://docs.microsoft.com/azure/virtual-machines/windows/share-images-across-tenants)) kullanın.
+1. Adım adım kılavuz paylaşılan görüntü Galerisi (SıG) ([CLI](/azure/virtual-machines/shared-images-cli), [PowerShell](/azure/virtual-machines/shared-images-powershell)) oluşturma.
+2. Bir SıG içinde bir görüntü tanımı oluşturun. Müşteri, işletim sistemi durumu alanı için **Genelleştirilmiş** ' ı seçmelidir. ([CLI](/azure/virtual-machines/image-version-managed-image-cli#create-an-image-definition), [PowerShell](/azure/virtual-machines/image-version-vm-powershell#create-an-image-definition)).
+3. Yönetilen görüntüyü paylaşılan görüntü galerisine getirin ([CLI](/azure/virtual-machines/image-version-managed-image-cli), [PowerShell](/azure/virtual-machines/image-version-managed-image-powershell)).
+4. SıG VM görüntüleri bir abonelikte yer alır. Başka abonelikler için kullanılabilir hale getirmek için, bir uygulama kaydı ([CLI](/azure/virtual-machines/linux/share-images-across-tenants), [PowerShell](/azure/virtual-machines/windows/share-images-across-tenants)) kullanın.
 
 #### <a name="why-do-i-see-some-offers-approved-by-default-even-though-the-publisher-is-not-microsoft"></a>Yayımcı Microsoft olmasa da, neden **Varsayılan olarak onaylanan** bazı teklifleri görüyorum?
 
-Microsoft, Azure 'da Linux ve açık kaynaklı teknolojiyi destekler. Desteklenen [Linux dağıtımları](https://docs.microsoft.com/azure/virtual-machines/linux/endorsed-distros) Azure 'da desteklenir ve fiyat sanal makinelerde tümleşiktir. Azure Linux Aracısı zaten Azure Marketi 'nde önceden yüklenmiş olduğundan, Microsoft teklifi gibi davranılır. Microsoft teklifleri varsayılan olarak onaylandığından, onaylanmış Linux dağıtımları özel Azure Marketi 'nde yönetilemez ve varsayılan olarak onaylanır.
+Microsoft, Azure 'da Linux ve açık kaynaklı teknolojiyi destekler. Desteklenen [Linux dağıtımları](/azure/virtual-machines/linux/endorsed-distros) Azure 'da desteklenir ve fiyat sanal makinelerde tümleşiktir. Azure Linux Aracısı zaten Azure Marketi 'nde önceden yüklenmiş olduğundan, Microsoft teklifi gibi davranılır. Microsoft teklifleri varsayılan olarak onaylandığından, onaylanmış Linux dağıtımları özel Azure Marketi 'nde yönetilemez ve varsayılan olarak onaylanır.
 
 ## <a name="contact-support"></a>Desteğe başvurun
 

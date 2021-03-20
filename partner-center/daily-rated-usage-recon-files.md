@@ -7,19 +7,19 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8b45ef4767e4bde28befd35c5294ed19149bf034
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: 531f28ae2bceed2d854c6fb139d0abb837a047b5
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92531950"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712248"
 ---
 # <a name="learn-how-to-read-daily-rated-usage-reconciliation-files-in-partner-center"></a>Iş Ortağı Merkezi 'nde günlük dereceli kullanım mutabakatı dosyalarını nasıl okuyacağınızı öğrenin
 
-**Uygulama hedefi**
+**Şunlara uygulanır**
 
 - İş Ortağı Merkezi
-- ABD kamu için Microsoft Bulut iş ortağı Merkezi
+- Microsoft Cloud for US Government için İş Ortağı Merkezi
 
 **Uygun roller**
 
@@ -73,7 +73,7 @@ Bu makalede, günlük dereceli kullanım mutabakatı dosyalarının nasıl okuna
 | UnitPrice | Satın alma sırasında fiyat listesinde yayınlanan lisans başına fiyat. Bu fiyatın, mutabakat sırasında faturalandırma sisteminizde depolanan bilgilerle eşleştiğinden emin olun. |
 | Miktar | Lisans sayısı. Bu fiyatın, mutabakat sırasında faturalandırma sisteminizde depolanan bilgilerle eşleştiğinden emin olun. |
 | UnitType | Ölçüm 'in ücretlendirildiği birim türü.  |
-| BillingPreTaxTotal | Vergi öncesi fatura tutarının toplam sayısı.<br/> _**Billingpretaxtotal** = Floor (([ @EffectiveUnitPrice ] *[ @Quantity ]* [ @PCToBCExchangeRate ]), 2)_ |
+| BillingPreTaxTotal | Vergi öncesi fatura tutarının toplam sayısı.<br/> _**Billingpretaxtotal** = Floor (([ @EffectiveUnitPrice ]*[ @Quantity ]*[ @PCToBCExchangeRate ]), 2)_ |
 | BillingCurrency | Müşterinin coğrafi bölgesindeki para birimi. |
 | PricingPreTaxTotal | Vergiler dahil olmak üzere fiyatlandırma. |
 | PricingCurrency | Fiyat listesindeki para birimi. |
@@ -87,7 +87,8 @@ Bu makalede, günlük dereceli kullanım mutabakatı dosyalarının nasıl okuna
 | EntitlementId | Azure abonelik KIMLIĞINI temsil eder. |
 | EntitlementDescription | Azure abonelik KIMLIĞININ adını temsil eder. |
 | PartnerEarnedCreditPercentage | Satır öğesi için Partnerearnedkredisini görüntüler. Kazanılan kredi 0 veya %15 olacaktır |
-
+| CreditPercentage | Azure tüketim kredisi ' nı görüntüler. Kazanılan kredi 0 veya yüzde 100 olacaktır. |
+| CreditType | Kredi türü. Örneğin, **Azure kredisi uygulandı.** |
 >[!NOTE]
 >Günlük olarak derecelendirilen kullanımlar, Iş Ortağı Merkezi 'nde veya API aracılığıyla erişilecek 24 saat sürer.
 

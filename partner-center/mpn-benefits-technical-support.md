@@ -9,12 +9,12 @@ author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 85287746381ee0ac18bc570650cc310df7ef6219
-ms.sourcegitcommit: 7ef441a0e4dbef11012212bfc087c5244a75765e
+ms.openlocfilehash: ea26eb7755aebea67bad1b4bc97e9662c2054591
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/05/2021
-ms.locfileid: "102187369"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712911"
 ---
 # <a name="technical-support-benefits"></a>Teknik destek avantajları
 
@@ -58,12 +58,10 @@ Teknik destek, belirli bir sorun, hata iletisi veya beklendiği gibi çalışmay
 Microsoft İş Ortağı Ağı üyeliğinin bir parçası olarak, iş ortakları aşağıdaki teknik desteğe uygun hale sahiptir
 
 
-|                           Teknik Destek                          |  Eylem Paketi |                                      Gümüş uzmanlık                                      |                                        Altın uzmanlık                                        |   |
-|:--------------------------------------------------------------------:|:------------:|:-------------------------------------------------------------------------------------------:|:---------------------------------------------------------------------------------------------:|:-:|
-| Microsoft ürün desteği<br>Son Şirket Içi için <br>yalnızca ürünler | 10 olay | 15 olay                                                                                | 20 olay                                                                                  |   |
-| İmza bulutu desteği<br>Yalnızca bulut ürünleri için                   |              | Bulut Uzmanlıklar:<br>Sınırsız<br>         <br>Diğer Uzmanlıklar:<br>5 olay         | Bulut Uzmanlıklar:<br>Sınırsız<br>          <br>Diğer Uzmanlıklar:<br>10 olay   
-
-
+| Teknik Destek |  Eylem Paketi | Gümüş uzmanlık | Altın uzmanlık |
+|:---:|:---:|:---:|:---:|
+| Microsoft ürün desteği<br>Son Şirket Içi için <br>yalnızca ürünler | 10 olay | 15 olay  | 20 olay |
+| İmza bulutu desteği<br>Yalnızca bulut ürünleri için |  | Bulut Uzmanlıklar:<br>Sınırsız<br><br>Diğer Uzmanlıklar:<br>5 olay  | Bulut Uzmanlıklar:<br>Sınırsız<br>          <br>Diğer Uzmanlıklar:<br>10 olay  |
 
 * Bulut uzmanlığına şunlar dahildir: güvenlik uzmanlığına, bulut Business Applications, bulut platformu, bulut üretkenliği, kurumsal Mobility yönetimi, küçük ve orta Pazar bulut çözümleri.
 

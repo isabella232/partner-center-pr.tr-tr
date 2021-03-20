@@ -9,12 +9,12 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 02/03/2021
-ms.openlocfilehash: 8b69b430344c64f3d74e0b5058d561358bdd2b45
-ms.sourcegitcommit: d7fbaff51c7ac29fbf700d7f7fdef798fd97c6fa
+ms.openlocfilehash: 39a1370ad4e5da9120c74b46dfb0c20cd93df4e3
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/10/2021
-ms.locfileid: "102619401"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712198"
 ---
 # <a name="bulk-operations-for-co-sell-opportunities-using-comma-separated-value-csv-files"></a>Virgülle ayrılmış değer (CSV) dosyaları kullanan ortak satış fırsatları için toplu işlemler
 
@@ -89,7 +89,7 @@ CRM KIMLIĞI|No|Varsa, CRM sisteminizde bu özel başvurunun tanımlayıcısı. 
 Pazarlama kampanyası KIMLIĞI|No|Bu alan, bu özel başvurunun sonucu olan pazarlama kampanyasını gösterir. Genellikle ROı hesaplama için kullanılır|BingSummer2020
 Notlar|No|Başvuruya ilişkin güncelleştirmeleri gösteren ayrıntılı notlar|Bu örnek bir notdır
 Microsoft yardımı gerekli mi?|Yes|Bu, Microsoft 'un bu ortak satış isteğini yaparken size yardımcı olmasını isteyip istemediğinizi belirtir|Yes
-Microsoft 'a özgü yardım nedir?|Şekline|Microsoft 'un size yardımcı olabilecek altı farklı yönden biri. Bu yalnızca, "Microsoft yardımı gerekli" sorusu için Hayır 'ı seçerseniz geçerlidir. " <br/> **Aşağıdaki seçeneklere göre bir sayı girin** <br/><br/> **1**-iş yüküne özgü değer teklifi  <br/> **2**-müşteri teknik mimarisi  <br/> **3**-kavram kanıtı/demo  <br/> **4**-teklifler ve lisanslama  <br/> **5**-satış sonrası müşteri başarısı  <br/> **6**-genel veya diğer|1|
+Microsoft 'a özgü yardım nedir?|Şekline|Microsoft 'un size yardımcı olabilecek altı farklı yönden biri. Bu yalnızca, "Microsoft Yardım gerekli" sorusu için Evet ' i seçerseniz geçerlidir. " <br/> **Aşağıdaki seçeneklere göre bir sayı girin** <br/><br/> **1**-iş yüküne özgü değer teklifi  <br/> **2**-müşteri teknik mimarisi  <br/> **3**-kavram kanıtı/demo  <br/> **4**-teklifler ve lisanslama  <br/> **5**-satış sonrası müşteri başarısı  <br/> **6**-genel veya diğer|1|
 Microsoft Sales Team ile paylaşma|Yes|Bu, Microsoft satış ekibi ile ilgilenmenin ayrıntılarını paylaşmak isteyip istemediğinizi belirtmek için kullanılır. Bu yalnızca, "Microsoft yardımı gerekli" sorusu için Hayır 'ı seçerseniz geçerlidir. "|Yes
 Microsoft 'a notlar|No|Microsoft 'a yönelik yardıma ihtiyacınız varsa Microsoft 'a özgü notlar|Contoso müşterisi için POC ile ilgili yardım gerekiyor
 Müşteri/Iş ortağı ilgili kişisini paylaşma onayı|Yes|Müşteri iletişim ayrıntılarını ve şirketinizin çalışanlarınızı paylaşma onayı, anlaşma üzerinde çalışan ayrıntıları ile iletişim kurun. **Bu sütun için Hayır ' ı seçerseniz anlaşmalar oluşturulmaz veya güncellenmez.** |Yes

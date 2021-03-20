@@ -1,7 +1,7 @@
 ---
 title: Iş Ortağı Merkezi 'nde MPN hesabı oluşturma
 ms.topic: article
-ms.date: 03/15/2021
+ms.date: 03/18/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Microsoft İş Ortağı Ağı üyelerin ağ avantajlarını ve uzmanlarını yönetmek için bir Iş Ortağı Merkezi hesabı nasıl oluşturabileceğinizi öğrenin.
@@ -9,12 +9,12 @@ author: ParthP
 ms.author: ParthP
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 16d19ce353c081359ab59a34bf0a21392fc7d484
-ms.sourcegitcommit: af8cfd89218f55467bd3bbd4102f7baf890e5066
+ms.openlocfilehash: a099b30753d2ea6de217001e7b13e4a333e40f55
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/16/2021
-ms.locfileid: "103570218"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712928"
 ---
 # <a name="create-an-mpn-account-in-partner-center-to-manage-network-benefits-and-competencies"></a>Ağ avantajlarını ve Uzmanlıklar yönetmek için Iş Ortağı Merkezi 'nde bir MPN hesabı oluşturun
 
@@ -40,14 +40,14 @@ Iş Ortağı Merkezi 'nde bir hesap oluşturmaya hazır olduğunuzda, aşağıda
 
 ## <a name="get-started"></a>başlarken
 
-1. [**Başlarken**](https://partner.microsoft.com/dashboard/account/v3/enrollment/introduction/partnership) sayfasında şirketiniz tarafından size verilen iş e-postalarınız ile başlayın you@yourcompanyname.com .
+1. [**Başlarken**](https://partner.microsoft.com/dashboard/account/v3/enrollment/introduction/partnership) sayfasında şirketiniz tarafından size verilen iş e-postalarınızı (örneğin,) başlatın you@yourcompanyname.com .
 
  
-    a.  Devam etmek için bir doğrulama kodu gönderebilmemiz için e-posta adresinin geçerli ve erişilebilir olması gerekir.
+    a.  Bu e-postaya devam etmek için bir doğrulama kodu gönderebilmemiz için e-posta adresinin geçerli ve erişilebilir olması gerekir.
 
-    b.  E-posta adresi "bilgi", "Yönetici" gibi sözcükleri içermemelidir email@. . Ya da " marketing@.. ." desteklenmez.
+    b.  E-posta adresi "bilgi", "Yönetici" gibi sözcükleri içermemelidir email@ . Veya " marketing@.. ."; Bu adres biçimleri desteklenmez.
 
-    c.  HARITALAR satın almak veya Uzmanlıklar yönetmek için, etki alanınızı doğrulayarak ve yönetici haline getirerek bu hesabı yükseltmeniz gerekir. 
+    c.  HARITALAR satın almak veya Uzmanlıklar yönetmek için, [etki alanınızı doğrulayarak](become-global-admin.md) ve yönetici haline getirerek bu hesabı yükseltmeniz gerekir. 
 
 2. Office 365 iş hesabınızla oturum açabilirsiniz, örneğin, you@contoso.onmicrosoft.com .
 
@@ -58,8 +58,11 @@ Iş Ortağı Merkezi 'nde bir hesap oluşturmaya hazır olduğunuzda, aşağıda
 
 Şirket Profilinizi arayabilir veya şirket bilgilerini el ile girebilirsiniz. Şirketiniz [Dun & Bradstreet](https://partner.microsoft.com/marketing/usisvshowcase/dunandbrad)ile kayıtlıysa, şirketinizin bilgilerini aramak için DLııD kimliğini kullanın. Şirket ayrıntılarınızı kendiniz sağlamak istiyorsanız, **el ile**' yi seçin.
 
-Şirket bilgilerini girdikten sonra, birincil iletişim bilgilerini girin ve **Şimdi kaydet**' i seçin.
-Birincil ilgili kişi, şirketinizde sizinle iletişim kurabildiğimiz kişi olmalıdır (Bu sizin veya şirketinizdeki başka bir kişi olabilir).
+Şirketiniz **Ermenistan**, **Macaristan**, **Kırgızistan**, **Moldova**, **Özbekistan** veya **Rusya**'da bulunuyorsa ve adresinizi el ile girerseniz adresinizi sizin için doğrulayacağız. Girdiğiniz bir tane, doğrulanan adres ile farklıysa, doğrulanan adresi kullanmanızı öneririz. Bu, adresin öğelerinin, ülkenin posta yetkilisi tarafından tanımlanan, doğru şekilde biçimlendirilen ve sevkedilebilir şekilde standartlaştırılmış olmasını sağlar.  
+
+Şirket bilgilerini girdikten sonra, birincil iletişim bilgilerini girin. Birincil iletişim, şirketinizde sizinle iletişim kurabildiğimiz kişi olmalıdır (Bu kişi sizin veya şirketinizdeki başka bir kişi olabilir).
+
+4. **Şimdi kaydet**' i seçin.
 
 >[!IMPORTANT]
 >Şirketinizin güvenliğinin ve gizliliğinin sağlanmasına yardımcı olmak üzere, e-posta adresini doğrulamak ve e-posta adresinin şirketinize ait olduğundan emin olmak için birincil kişinizi e-posta ile göndereceğiz. Birincil iletişim e-posta adresini doğruladıktan sonra, verdiğiniz bilgileri gözden geçirmemiz için devam edeceğiz. Doğrulama genellikle 3-5 iş günü sürer. 
@@ -75,14 +78,14 @@ Ayrıca, MPN kimlikleri gibi diğer önemli bilgileri görüntüleyebilir, MPN k
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
--   [Hesap kullanıcılarını ekleme ve bunlara izin atama](create-user-accounts-and-set-permissions.md)
+-  [Hesap kullanıcılarını ekleme ve bunlara izin atama](create-user-accounts-and-set-permissions.md)
 
--   [Microsoft Eylem Paketi aboneliği satın alma veya yenileme](mpn-get-action-pack.md)
+-  [Microsoft Eylem Paketi aboneliği satın alma veya yenileme](mpn-get-action-pack.md)
 
--   [Üyelik avantajlarınızı yönetin](manage-your-partner-network-benefits.md)
+-  [Üyelik avantajlarınızı yönetin](manage-your-partner-network-benefits.md)
 
--   [Altın ve gümüş üyelik için uzmanlığa yönelik gereksinimler hakkında bilgi edinin](https://partner.microsoft.com/membership/competencies)
+-  [Altın ve gümüş üyelik için uzmanlığa yönelik gereksinimler hakkında bilgi edinin](https://partner.microsoft.com/membership/competencies)
 
--   [Microsoft’tan müşteri adaylarını almak için iş profili oluşturma](create-a-marketing-profile.md)
+-  [Microsoft’tan müşteri adaylarını almak için iş profili oluşturma](create-a-marketing-profile.md)
 
--   [Microsoft 'tan satış fırsatlarını alın ve yönetin](manage-leads.md)
+-  [Microsoft 'tan satış fırsatlarını alın ve yönetin](manage-leads.md)

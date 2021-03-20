@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 11/02/2020
-ms.openlocfilehash: 8c9e978fb636392d7cfd1ad48c101eadeececcc6
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 08eb760769f86f6568703590b28142c1581583a8
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756407"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712537"
 ---
 # <a name="november-2020-announcements"></a>Kasım 2020 duyuruları
 
@@ -305,11 +305,11 @@ Microsoft, Iş Ortağı Merkezi API 'Lerini çağıran iş ortakları için bir 
 
 ### <a name="apis-to-be-throttled"></a>Kısıtlanacak API 'Ler
 
-|**İşlem**|**İş Ortağı Merkezi belgeleri**|
+| **İşlem** | **İş Ortağı Merkezi belgeleri** |
 |-------------------------|----------------------------------|
 |{baseURL}/v1/Customers/{customer_id}/abonelikler|[Müşterinin aboneliklerinin tümünü alın](https://docs.microsoft.com/partner-center/develop/get-all-of-a-customer-s-subscriptions)|  
 |{baseURL}/v1/Customers/{customer_id}/Subscriptions/{subscription_id}|[Kimliğe göre bir abonelik alma](https://docs.microsoft.com/partner-center/develop/get-a-subscription-by-id) | 
-|{baseURL}/v1/Customers/{customer_id}/Orders||[Müşteri siparişlerinin tümünü alma](/partner-center/develop/get-all-of-a-customer-s-orders)|  
+|{baseURL}/v1/Customers/{customer_id}/Orders|[Müşteri siparişlerinin tümünü alma](/partner-center/develop/get-all-of-a-customer-s-orders)|  
 |{baseURL}/v1/Customers/{customer_id}/Orders/{order_id}|[Kimliğe göre bir sipariş alma](/partner-center/develop/get-an-order-by-id)|  
 |{baseURL}/v1/Customers/{customer_id}/Orders/{order_id}/provisioningstatus|[Abonelik sağlama durumunu alma](/partner-center/develop/get-subscription-provisioning-status)|  
 |{baseURL}/v1/Customers/{customer_id}/Subscriptions/{subscription_id}|[Siparişleri yönetme ve bir aboneliği yönetme](/partner-center/develop/manage-orders#manage-a-subscription)| 
@@ -318,7 +318,7 @@ Microsoft, Iş Ortağı Merkezi API 'Lerini çağıran iş ortakları için bir 
 |{baseURL}/v1/Customers/{customer_id}/Subscriptions/{subscription_id}/registrationstatus|[Abonelik kayıt durumunu alma](/partner-center/develop/get-subscription-registration-status)| 
 |{baseURL}/v1/Customers/{Customer-Tenant-ID}/aktarmaları|[Müşterinin tüm aktarımlarını al](/partner-center/develop/get-subscription-registration-status)| 
 |{baseURL}/v1/productUpgrades/{upgrade-id}/status|[Ürün yükseltme durumunu alma](/partner-center/develop/get-all-of-a-customer-s-transfers)| 
-|{baseURL}/v1/Customers/{Customer-id}/Subscriptions/{Subscription-ID}/dönüşümler|[Deneme dönüştürme tekliflerinin bir listesini alma](/partner-center/develop/get-all-of-a-customer-s-transfers) 
+|{baseURL}/v1/Customers/{Customer-id}/Subscriptions/{Subscription-ID}/dönüşümler|[Deneme dönüştürme tekliflerinin bir listesini alma](/partner-center/develop/get-all-of-a-customer-s-transfers) |
   
 
 Bu duyuru, gelecekteki değişikliklerin önceden farkında olmadan iş ortakları sağlamaya ve bu sayede hazırlamasına olanak tanımak için tasarlanmıştır. İş ortaklarının bu API 'Leri öğrenmesini ve etkinlik günlüğü API 'sini daha fazla verimlilik ve azaltmayı önlemek için kullanmayı düşünmemiz önerilir. Bu özellik hakkında daha fazla bilgi için [API azaltma Kılavuzu](/partner-center/develop/api-throttling-guidance)' nda ayrıntılara bakın. 

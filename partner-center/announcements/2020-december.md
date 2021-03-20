@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 12/21/2020
-ms.openlocfilehash: 8cb81778c352e4e173cc70177675c7ee9bac4410
-ms.sourcegitcommit: 410f8ef9a5b944b454b1980cd1eb796fbdb4e6ea
+ms.date: 03/08/2021
+ms.openlocfilehash: a74c08fcd64b1de99226353cca1f16d5c79b6bcd
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/22/2021
-ms.locfileid: "98705054"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712554"
 ---
 # <a name="december-2020-announcements"></a>Aralık 2020 duyuruları
 
@@ -274,6 +274,9 @@ Tüm CSP iş ortakları
 
 ### <a name="details"></a>Ayrıntılar
 
+>[!NOTE]
+>İş ortağı geri bildirimi nedeniyle, kalıcı ve sunucu aboneliği yazılım siparişleri için yazılım ve lisans anahtarları almak üzere Iş Ortağı Merkezi 'ni karşılama özelliğini sunuyoruz. 19 Ocak 2021 ' de kaldırılmadan önce önceki durumuna geri yüklenecek. Daha fazla bilgi için [mart 2021 duyurusuna](./2021-march.md#4)bakın.
+
 **19 ocak 2021**' den gelen, CSP 'ye kaydedilen tüm iş ORTAKLARıNıN, CSP aracılığıyla şirket içi dağıtım için ticari kalıcı yazılım lisansları satabileceksiniz. Bu, müşterilere dijital dönüştürmesinin bir parçası olarak ihtiyaç duydukları lisans esnekliğini sağlar.
 
 Aynı tarihte de şunlar gerçekleşecektir:
@@ -301,6 +304,12 @@ Aşağıdaki kaynakları gözden geçirin ve kuruluşunuzdaki ilgili kişilerle 
 ### <a name="questions"></a>Sorularınız mı var?
 
 Bu teklifler hakkında daha fazla soru için ilgili Yammer topluluklarınızı kontrol edin.
+
+### <a name="change-log"></a>Değişiklik günlüğü:
+
+- 17 Aralık 2020: özgün yayın 
+
+- 5 Mart 2021: Iş Ortağı Merkezi yazılımının en önde gelen ve lisans anahtarı karşılama yeteneğinin konusuna göz ekledi.
 
 ______________
 

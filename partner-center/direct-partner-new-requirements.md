@@ -9,12 +9,12 @@ ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
 ms.date: 12/15/2020
-ms.openlocfilehash: 9c2ec0c7204a275f6b32e75b86eae775eb87bb55
-ms.sourcegitcommit: 8cb98de420f6ab5bb4cb3efc9007262c4d7d3327
+ms.openlocfilehash: ac4b6ef6a061a68ef623c7666804a4db1582785f
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/12/2021
-ms.locfileid: "98105537"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712215"
 ---
 # <a name="requirements-to-enroll-as-a-csp-direct-bill-partner"></a>CSP Doğrudan Fatura Ortağı olarak kaydolma gereksinimleri
 
@@ -28,7 +28,7 @@ Doğrudan bir fatura ortağı olarak, müşterinizin ve Microsoft ile uçtan uca
 
 ### <a name="minimum-requirements"></a>Minimum gereksinimler
 
-|**Gereksinim**|                |
+|**Gereksinim**|  **Açıklama**  |
 |--------------------------------|--------------------------------------------------------------|
 |**MPN Kimliği**   |Microsoft İş Ortağı Ağı ve MPN KIMLIĞINDE, satmak istediğiniz konum için etkin bir üyelik.   |
 |**Onay anahtarı**   |Kuruluşunuz adına yasal sözleşmeleri kabul etme ve imzalama yetkisi.|

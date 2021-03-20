@@ -8,19 +8,154 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 03/15/2021
-ms.openlocfilehash: 435d14ec89a9582f16f77f5a63af90ceac9e2e4c
-ms.sourcegitcommit: af8cfd89218f55467bd3bbd4102f7baf890e5066
+ms.date: 03/18/2021
+ms.openlocfilehash: eb6f57ed9a1b3031aeaaff51260e718ce3420ae3
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/16/2021
-ms.locfileid: "103570201"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712316"
 ---
 # <a name="march-2021-announcements"></a>Mart 2021 duyuruları
 
 Bu sayfada Mart 2021 için Microsoft Iş Ortağı Merkezi duyuruları sağlanmaktadır.
 
 ________________
+## <a name="csp-commercial-marketplace-offer-and-fy21-csp-incentives-for-eligible-offers"></a><a name="12"></a>Uygun teklifler için CSP ticari Market teklifi ve FY21 CSP teşvikleri
+
+### <a name="categories"></a>Kategoriler
+
+- Tarih: 2021-03-18
+- Özellikler
+
+### <a name="impacted-audience"></a>Etkilenen hedef kitle
+
+Bulut çözüm sağlayıcısı programındaki dolaylı sağlayıcılar ve doğrudan fatura ortakları 
+
+### <a name="details"></a>Ayrıntılar
+
+Bulut çözümü sağlayıcısı programındaki dolaylı sağlayıcılar ve doğrudan fatura ortakları, üçüncü taraf teklifler satmanıza ve Iş ortağı merkezi veya Azure portal işlenen her bir uygun üçüncü taraf teklifi için bir indirim teşvik elde edebilir. Bu öneriler, uygun tekliflerle ilgili olarak faturalandırılan satış hakkında indirim biçiminde olacaktır ve **30 haziran 2021 ' ye kadar kullanılabilir**.  
+
+Aşağıdaki CSP ticari marketi teklifi hakkında bilgi edinmeye devam edin ve müşterilerin devam ettirme başarısını ve dijital dönüşümünü etkinleştirmeye yönelik doğru teklifleri belirlemek için müşterilerinizle iletişim kurun.
+
+En son IaaS ve SaaS çözümlerini Microsoft müşterilerine pazarlamak için bağımsız yazılım satıcıları (ISV 'Ler) ile iş ortaklıyoruz. ISV yayımcıları, Microsoft iş ortağı kanalı aracılığıyla tekliflerinden satışları etkinleştirme seçeneğine sahiptir. Özendiğimiz tekliflerimiz iki kategoride yer almalıdır:
+
+- Azure IP ortak satış incentivized durumu ile SaaS ve IaaS üçüncü taraf tekliflerini seçin. 
+
+- Ekipler ile tümleştirilmiş SaaS uygulamaları veya PowerPoint, Word, Excel, Outlook veya SharePoint gibi en az iki Microsoft 365 üretkenlik uygulaması.
+
+### <a name="next-steps-and-resources"></a>Sonraki adımlar ve kaynaklar
+
+- Uygun Market uygulamaları satmaya uygun olan uygulamaları teşvik etmek için [Iş ortağı teşvikleri](https://partner.microsoft.com/membership/partner-incentives) hakkında bilgi edinin. Yeni teklifler aylık olarak eklenir.  
+- [Bulut çözümü sağlayıcısı doğrudan fatura ortağı özendirme kaynakları](https://partner.microsoft.com/asset/collection/cloud-solution-provider-direct-partner-incentive-resources#/)
+- [Bulut çözümü sağlayıcısı dolaylı sağlayıcı, kaynakları teşvik edin](https://partner.microsoft.com/asset/collection/cloud-solution-provider-indirect-provider-incentive-resources#/)
+- Ticari market uygulamalarını satma hakkında daha fazla bilgi edinmek için bu [sunuyu](https://partner.microsoft.com/resources/detail/partner-center-cm-for-csp-overview-pdf) gözden geçirin. Ek kaynaklara [buradan](https://partner.microsoft.com/resources/collection/partner-center-cm-for-csp-collection#/)göz atın. 
+- [Iş Ortağı Merkezi](https://docs.microsoft.com/partner-center/csp-commercial-marketplace-discover) veya [Azure Portal](https://ms.portal.azure.com/#home) ticari Market kataloğunu keşfet
+- Uygulamaları şirketinizin marketi ile bütünleştirmek için [API 'leri](https://docs.microsoft.com/partner-center/develop/create-subscription-azure-marketplace-products#get-a-list-of-offers-for-a-market) kullanma
+- İş yaparken ilgilendiğiniz ISV 'lere ulaşın
+- Dolaylı sağlayıcıların, hangi uygulamaların satmaya yönelik API 'Leri ve kılavuz satıcılarını kullanarak tümleştirmeleri gerekir
+
+### <a name="questions"></a>Sorularınız mı var?  
+
+Iş Ortağı Merkezi 'nde ticari Market 'e genel bakış için [Bu makaleye](https://docs.microsoft.com/partner-center/csp-commercial-marketplace-overview) başvurun.
+
+Daha fazla yardıma ihtiyacınız varsa, Iş Ortağı Merkezi 'nde bir destek isteği oluşturabilirsiniz. Daha fazla bilgi edinin [https://aka.ms/IncentivesSupport](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=1) .
+
+________________
+## <a name="power-bi-premium-offer-naming-and-prerequisite-update"></a><a name="11"></a>Power BI Premium teklif adlandırma ve önkoşul güncelleştirme
+
+### <a name="categories"></a>Kategoriler
+
+- Tarih: 2021-03-18
+- Özellikler
+
+### <a name="summary"></a>Özet
+
+1 Nisan 2021 son fiyat listesi, Kullanıcı başına Power BI Premium için adlandırma ve/veya önkoşul bilgilerine açıklık eklemek üzere güncelleştirilir.
+
+### <a name="impacted-audience"></a>Etkilenen hedef kitle
+
+Bulut çözümü sağlayıcısı (CSP) doğrudan ve dolaylı iş ortakları
+
+### <a name="details"></a>Ayrıntılar
+
+1 Nisan 2021 son fiyat listesi, Kullanıcı başına Power BI Premium için adlandırma ve/veya önkoşul bilgilerine açıklık eklemek üzere güncelleştirilir.
+
+Son fiyat listesi güncelleştirilene kadar, bu bölümdeki bilgileri kullanarak doğru ürünün düzenli olduğundan emin olun.
+
+Aşağıdaki ayrıntılar etkilenen SKU ve önkoşul ayrıntılarını göstermektedir.
+
+| 1 Mart 'ta bir görünen ad teklif listesi önizlemesi |  1 Nisan 'ın son fiyat listesindeki teklif görünen adı güncelleştirildi| Teklif Kimliği |
+| ------ | ----------- | ----------- |
+| Kullanıcı başına Power BI Premium Add-On (kar amacı gütmeyen personel fiyatlandırması)  |  Kullanıcı başına Power BI Premium Add-On **(Office)** (kar amacı gütmeyen personel fiyatlandırması)   | 31c03289-47AB-4AB0-8df1-03742c127ac6   |
+
+Müşterilerin bu teklifi satın almak için aşağıdaki önkoşulların herhangi birine sahip olması gerekir:
+
+| Teklif görünen adı | Teklif Kimliği |
+| ------ | ----------- |
+| Microsoft 365 E5 (kar amacı gütmeyen personel fiyatlandırması)  |  31bedf01-9e57-4ece-a53a-d3656a563931   |
+|   Ses konferansı olmadan E5 Microsoft 365 (kar amacı gütmeyen personel fiyatlandırması)|  b456810a-c414-4e07-98fc-ef74e8175a09|
+|   Office 365 E5 (kar amacı gütmeyen personel fiyatlandırması)| ce139fe5-8bd5-47ED-a5be-07c286f8b9e    |
+|   Office 365 E5 (kar amacı gütmeyen personel fiyatlandırma) denemesi|  2f192efe-608a-4C9C-9d19-2b0b70b0962e|
+|   Office 365 E5 ses konferansı olmadan (kar amacı gütmeyen personel fiyatlandırması)|  c3897426-9f49-4eaf-9b4d-7d9a1c72aef7|
+
+Aşağıdaki Power BI Premium teklifi satın alma için gereken bir önkoşula sahiptir:
+
+| Teklif görünen adı | Teklif Kimliği |
+| ------ | ----------- |
+|   Kullanıcı başına Power BI Premium Add-On (kar amacı gütmeyen personel fiyatlandırması)|  ef0b895b-681b-4026-a5b1-dda182a57d40 |
+
+Müşterilerin bu teklifi satın alması için bu önkoşulu olması gerekir:
+
+| Teklif görünen adı | Teklif Kimliği |
+| ------ |----------|
+| Power BI Pro (kar amacı gütmeyen personel fiyatlandırması)  |   cabdfc93-5786-4224-bfd3-35d58f833b35 |
+
+### <a name="next-steps"></a>Sonraki adımlar
+
+Bu konuyla ilgili kaynakları gözden geçirin ve bu bilgileri kuruluşunuzdaki uygun hissedarlarla paylaşabilirsiniz.  
+
+### <a name="questions"></a>Sorularınız mı var?
+
+Bu tekliflerle ilgili herhangi bir soru için ilgili Yammer topluluklarınızı kontrol edin. 
+
+## <a name="march-price-updates-for-microsoft-365-f3"></a><a name="10"></a> Microsoft 365 F3 için Mart fiyat güncelleştirmeleri
+
+### <a name="categories"></a>Kategoriler
+
+- Tarih: 2021-03-16
+- Teklifler/Pazarlar
+
+### <a name="summary"></a>Özet
+
+Microsoft 365 F3 Ingiliz Sterlini (GBP) ve Euro (EUR) için yanlış Mart 2021 fiyatlandırması düzeltildi.
+
+### <a name="impacted-audience"></a>Etkilenen hedef kitle
+
+İş ortakları, 1 Mart 'ta Microsoft 365 F3 veya bulut çözümü sağlayıcısı (CSP) programı aracılığıyla 1 Mart 2021 arasında bir EUR Satın alma.
+
+### <a name="details"></a>Ayrıntılar
+
+Microsoft, Microsoft 365 F3 için yanlış fiyatlandırmayı çözümledi. Yanlış fiyatlar GBP ve EUR için ve yalnızca 1 Mart, 17 Mart 2021 arasında satın alınan tekliflere yöneliktir. Etkilenen teklifler ve para birimleri aşağıda listelenmiştir. 
+
+| Teklif adı | Para Birimi | Teklif Kimliği | Malzeme KIMLIĞI |
+| ------ |----------- |----------- |----------- |
+| Microsoft 365 F3 (Hayır) | GBP | 57b722c2-c435-4bfb-9bc8-80509213a13a | AAD-11626 |
+| Microsoft 365 F3 (ticari) | EUR| 3451a3b0-8cdav-44a7-bad7-c30be81c4aaa | AAA-89898 |
+ 
+Mart ve Nisan Preview lisansı-temel fiyat listeleri, 16 Mart 5PM Pasifik standart saati ile güncelleştirildi.
+
+### <a name="next-steps"></a>Sonraki adımlar
+
+- İş ortakları, her ikisi de Mart ve Nisan önizlemesi olmak üzere geçerli lisans tabanlı fiyat listelerini, varsa bu fiyat düzeltmelerini yeniden indirmelidir.  
+- Microsoft, etkilenen işlemleri düzeltme ile ilgili sonraki adımlar hakkında bilgi almak için, önümüzdeki haftalarda, gelecek haftalarda bulunan iş ortakları ile iletişim kuracaktır.
+
+### <a name="questions"></a>Sorularınız mı var?
+
+Diğer sorular için lütfen ilgili CSP Yammer topluluklarınızı denetleyin.
+
+________________
+
 ## <a name="update-a-legal-company-name-through-partner-center"></a><a name="9"></a> Iş Ortağı Merkezi aracılığıyla yasal şirket adını güncelleştirme
 
 ### <a name="categories"></a>Kategoriler
@@ -38,22 +173,12 @@ MPN iş ortakları ve CSP dolaylı satıcıları (CSP doğrudan fatura ortaklar�
 
 ### <a name="details"></a>Ayrıntılar
 
-2021 Mart 'tan itibaren, MPN iş ortakları ve CSP dolaylı satıcıları, Iş Ortağı Merkezi aracılığıyla uyumlu ve kendi kendine bir şekilde yasal şirket adını güncelleştirebilir. Bu yeni özellik sayesinde, iş ortaklarının şirket adlarını güncelleştirmek için Iş ortağı merkezi destek bileti göndermesi artık gerekmez. Bu işlem, bu etkinlikleri gerçekleştirirken iş ortakları için önemli miktarda zaman kazandırır.
+2021 Mart 'tan itibaren, MPN iş ortakları ve CSP dolaylı satıcıları, Iş Ortağı Merkezi aracılığıyla uyumlu ve kendi kendine bir şekilde yasal şirket adını güncelleştirebilir. Bu yeni özellik sayesinde, iş ortaklarının şirket adlarını güncelleştirmek için Iş ortağı merkezi destek bileti göndermesi artık gerekmez. Bu işlem, bu etkinlikleri gerçekleştirirken iş ortakları için önemli miktarda zaman kazandırır. 
 
-Yasal şirket adını güncelleştirmek için şu adımları izleyin:
-
-1. Genel yönetici veya hesap yöneticisinin Iş Ortağı Merkezi 'nde oturum açması ve [Hesap ayarları](https://partner.microsoft.com/dashboard/account/v3/organization/legalinfo#mpn)' na gitmeniz gerekir.
-
-2. Yasal şirket adını güncelleştirin.
-
-3. Güncelleştirilmiş ad kaydedildikten sonra Microsoft, belirtilen bilgileri doğrular. Doğrulama, beş ila yedi gün için beklemede olabilir.
-
-4. Doğrulama tamamlandıktan sonra, güncelleştirilmiş yasal ad iş ortağı kiracısı ile ilişkilendirilir.
-
-5. Doğrulama durumu reddedildi olarak değişirse, sorunu çözmek için [Hesap bilgilerinizi doğrulama](https://docs.microsoft.com/partner-center/verification-responses) bölümüne bakın.
+Daha fazla bilgi için bkz. [yasal iş profilinizi güncelleştirme](../update-your-partner-profile.md#update-your-legal-business-profile).
 
 >[!NOTE]
->Yasal iş profilinizde bulunan şirket adının yazım hatası ve kısaltmalarının olmadığından ve resmi şirket iş kaydı kayıtlarınızda tam olarak eşleştiğinden emin olun. Kuruluş profilinizi güncelleştirme hakkında daha fazla bilgi için bkz. [kuruluş profilinizi doğrulama](https://docs.microsoft.com/partner-center/update-your-partner-profile#update-your-legal-business-profile).
+>Yasal iş profilinizde bulunan şirket adının yazım hatası ve kısaltmalarının olmadığından ve resmi şirket iş kaydı kayıtlarınızda tam olarak eşleştiğinden emin olun. Kuruluş profilinizi güncelleştirme hakkında daha fazla bilgi için bkz. [kuruluş profilinizi doğrulama](../update-your-partner-profile.md#update-your-legal-business-profile).
 
 ### <a name="next-steps"></a>Sonraki adımlar
 
@@ -61,7 +186,7 @@ Uygun ekibin süreçlerini gözden geçirebilmesi ve güncelleştirebilmesi içi
 
 ### <a name="questions"></a>Sorularınız mı var?
 
-Lütfen sorular, sorgular veya daha fazla bilgi için [desteğe](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?category=csp) başvurun.
+Diğer sorular için lütfen ilgili CSP Yammer topluluklarınızı denetleyin.
 
 ________________
 ## <a name="update-to-cloud-solution-provider-csp-program-evolution-and-open-license-program-changes"></a><a name="8"></a> Bulut çözümü sağlayıcısı (CSP) program evrimi ve açık lisans programı değişikliklerinde Güncelleştir
@@ -87,7 +212,7 @@ Bu dijital dönüşüme devam eden aşağıdaki değişiklikleri duyuruyoruz:
 
 - 1 Temmuz 2021: açık lisans programı fiyat listesine yeni SKU 'Lar, ürünler veya promosyonlar eklenmeyecektir.
 
-- 7 Temmuz 2021: Iki ticari teklif, orijinal Windows ve Visual Studio Professional edinme ve kamu sektörü teklifleri (kamu, eğitim ve kar amacı: [duyuru](https://docs.microsoft.com/partner-center/announcements/2020-december#9)), CSP kalıcı yazılım fiyat listesine eklenecektir.  Fiyat listesi, Iş Ortağı Merkezi 'nde [satış > fiyatlandırma & teklifleri](https://partnercenter.microsoft.com/pcv/sales) sayfasının yazılımlar bölümünde bulunabilir ve bu tarihte yeniden yayımlanmak üzere olur.
+- 7 Temmuz 2021: Iki ticari teklif, orijinal Windows ve Visual Studio Professional edinme ve kamu sektörü teklifleri (kamu, eğitim ve kar amacı: [duyuru](./2020-december.md#9)), CSP kalıcı yazılım fiyat listesine eklenecektir.  Fiyat listesi, Iş Ortağı Merkezi 'nde [satış > fiyatlandırma & teklifleri](https://partnercenter.microsoft.com/pcv/sales) sayfasının yazılımlar bölümünde bulunabilir ve bu tarihte yeniden yayımlanmak üzere olur.
 
 CSP program evrimi ve açık lisans programı değişiklikleriyle ilgili tüm ayrıntılar için lütfen aşağıdaki **sonraki adımlara** bakın.
 
@@ -121,13 +246,13 @@ Bulut çözüm sağlayıcısı aracılığıyla iş ortakları deneyimidir
 
 Deneme teklifleri fiyat listesine dahil edilmemelidir. Bunlar 1 Mayıs 2021 fiyat listesinden kaldırılacak.
 
-Özgün duyuru [burada](https://docs.microsoft.com/partner-center/announcements/2021-february#4)bulunur.
+Özgün duyuru [burada](./2021-february.md#4)bulunur.
 
 ### <a name="additional-resources"></a>Ek kaynaklar
 
 - [Microsoft 365 E5 güvenlik ve uyumluluk](https://www.microsoft.com/licensing/product-licensing/microsoft-365-enterprise?activetab=m365-enterprise:primaryr5)
 
-- [Microsoft Uyumluluk Yöneticisi-Microsoft 365 uyumluluğu oluşturma ve yönetme | Microsoft Docs](https://docs.microsoft.com/microsoft-365/compliance/compliance-manager-assessments?view=o365-worldwide)
+- [Microsoft Uyumluluk Yöneticisi-Microsoft 365 uyumluluğu 'nda değerlendirme oluşturma ve yönetme](/microsoft-365/compliance/compliance-manager-assessments)
 
 ### <a name="next-steps"></a>Sonraki adımlar
 
@@ -163,7 +288,7 @@ Ticari Market 'e geçiş yapmak Iş Ortağı Merkezi 'ni ortak satış yayımlam
 
 ### <a name="next-steps"></a>Sonraki adımlar
 
-- Çözümlerinizi henüz taşıdıysanız, geçiş [kılavuzunda](https://docs.microsoft.com/azure/marketplace/co-sell-solution-migration) açıklanan yönergeleri izleyin veya tüm geçiş etkinliklerini tamamlayıp, ticari markette çözümünüzü yayımlamaya başlamak için [adım adım video öğreticisini](https://partner.microsoft.com/asset/detail/ocp-gtm-to-the-microsoft-commercial-marketplace-mp4) görüntüleyin.
+- Çözümlerinizi henüz taşıdıysanız, geçiş [kılavuzunda](/azure/marketplace/co-sell-solution-migration) açıklanan yönergeleri izleyin veya tüm geçiş etkinliklerini tamamlayıp, ticari markette çözümünüzü yayımlamaya başlamak için [adım adım video öğreticisini](https://partner.microsoft.com/asset/detail/ocp-gtm-to-the-microsoft-commercial-marketplace-mp4) görüntüleyin.
 
 - OCP GTM 'deki sınırlı yetenek deneyimiyle ilgili sorularınız için, [Microsoft ticari Market SSS 'de yayımlanacak ortak satış gereksinimlerini](https://partner.microsoft.com/resources/detail/co-sell-requirements-publish-commercial-marketplace-faq-pdf)görüntüleyin. (29 Mart 2021 ' i Başlatan "OCP GTM Limited yetenekler" bölümüne bakın.)
 
@@ -217,7 +342,7 @@ Yazılım lisans anahtarlarının ve indirme bağlantılarının, fikri mülkiye
 
 Kullanım yönergeleri ve yazılım anahtarı dağıtımı hakkında önemli yönergeler için aşağıdaki kaynakları gözden geçirin:
 
-- [CSP programı aracılığıyla şirket içi yazılım satma](https://docs.microsoft.com/partner-center/csp-on-premise-software)
+- [CSP programı aracılığıyla şirket içi yazılım satma](../csp-on-premise-software.md)
 - [Iş Ortağı Merkezi yeni ticaret Işlemleri Kılavuzu](https://partner.microsoft.com/resources/detail/partner-center-new-commerce-operations-guide-pdf) ( **yazılım anahtarı dağıtımı hakkında rehberlik** bölümüne bakın.)
 
 ### <a name="questions"></a>Sorularınız mı var?
@@ -252,14 +377,14 @@ Paylaşılan büyüme taahhüdünün bir parçası olarak **Microsoft ile ortak 
 
 Ayrıca, taşınmasında yardımcı olması için Iş Ortağı Merkezi 'nde yeni özellikler ekledik:
 
-- [Ortak satış fırsatları için toplu işlemler](https://docs.microsoft.com/partner-center/bulk-operations)
-- [Geçiş özelliğini dağıt](https://docs.microsoft.com/partner-center/psc-to-pc) ( **PSC anlaşmalar geçiş** bölümüne bakın.)
+- [Ortak satış fırsatları için toplu işlemler](../bulk-operations.md)
+- [Geçiş özelliğini dağıt](../psc-to-pc.md) ( **PSC anlaşmalar geçiş** bölümüne bakın.)
 
 Iş Ortağı Merkezi 'nde ortak satış deneyimini kullanarak, satış ekipleriniz, bu müşteri adaylarına ve fırsatlara odaklanmak, anlaşmaları kapatmak ve müşteri ilişkileri oluşturmak için daha fazla zaman alır.
 
 ### <a name="next-steps"></a>Sonraki adımlar
 
-Iş Ortağı Merkezi [geçiş kılavuzunu](https://docs.microsoft.com/partner-center/psc-to-pc) kullanarak, PSC 'Lerden Iş ortağı merkezine anlaşmalar geçirme adımlarında size yol gösterir.
+Iş Ortağı Merkezi [geçiş kılavuzunu](../psc-to-pc.md) kullanarak, PSC 'Lerden Iş ortağı merkezine anlaşmalar geçirme adımlarında size yol gösterir.
 
 ### <a name="questions"></a>Sorularınız mı var?
 
@@ -292,7 +417,7 @@ Microsoft, 1 Nisan 2021 ' de aşağıdaki yeni ürünleri ve şunları sunuyor:
 
 Microsoft, ilk Kullanıcı başına Power BI Premium tekliflerini tanıtacaktır. Power BI Premium Şu anda yalnızca bir kapasite yapısında satılabilir. Kullanıcı başına Power BI Premium kurumsal iş zekası (BI) ve analiz özelliklerine erişim sağlar. Esnek bireysel bilgisayar lisanslama, küçük ve orta ölçekli işletmeler için.
 
-Bu teklif hakkında daha fazla bilgi edinmek için [Power BI sürüm ayrıntılarını](https://docs.microsoft.com/power-platform-release-plan/2020wave2/power-bi/planned-features) gözden geçirin.
+Bu teklif hakkında daha fazla bilgi edinmek için [Power BI sürüm ayrıntılarını](/power-platform-release-plan/2020wave2/power-bi/planned-features) gözden geçirin.
 
 
 **Teklif Ayrıntıları**

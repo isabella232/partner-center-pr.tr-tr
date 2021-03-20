@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 03/15/2021
-ms.openlocfilehash: f7cca5e0d026ad78fb66c4a5eb623c279d3d2c98
-ms.sourcegitcommit: af8cfd89218f55467bd3bbd4102f7baf890e5066
+ms.date: 03/18/2021
+ms.openlocfilehash: 87d71434a44bcfe66f7a928291007237e9c958c6
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/16/2021
-ms.locfileid: "103570184"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712299"
 ---
 # <a name="partner-center-announcements"></a>İş Ortağı Merkezi duyuruları
 
@@ -22,6 +22,9 @@ ms.locfileid: "103570184"
 
 |**Kategori**|**Mart 2021 duyuruları**|**Duyurulan**|
 |---------|:---------|:---------|
+|Özellikler|[Uygun teklifler için CSP ticari Market teklifi ve FY21 CSP teşvikleri](2021-march.md#12)|18 Mart|
+|Özellikler|[Power BI Premium teklif adlandırma ve önkoşul güncelleştirme](2021-march.md#11)|18 Mart|
+|Teklifler/Pazarlar|[Microsoft 365 F3 için Mart fiyat güncelleştirmeleri](2021-march.md#10)|16 Mart|
 |Sürücü verimliliği & ölçeği|[Iş Ortağı Merkezi aracılığıyla yasal şirket adını güncelleştirme](2021-march.md#9)|16 Mart|
 |Özellikler|[Bulut çözümü sağlayıcısı (CSP) program evrimi ve açık lisans programı değişikliklerinde Güncelleştir](2021-march.md#8)|15 Mart|
 |Işletmenizi büyütün|[Önceki bir duyuruya güncelleştirme: Premium değerlendirmeler, uyumluluk Yöneticisi eklentisi](2021-march.md#7)|15 Mart|

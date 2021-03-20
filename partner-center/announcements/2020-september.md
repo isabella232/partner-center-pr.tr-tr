@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 03/08/2021
-ms.openlocfilehash: 3702c362090b1764b6b9d6595fbe9f9a5f0aa55d
-ms.sourcegitcommit: 6e505d043d54e36cade511cb4b803eae64c63ff0
+ms.openlocfilehash: b8f6f565e92ca4ac95d0787dff99893208722f02
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "102514094"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712520"
 ---
 # <a name="september-2020-announcements"></a>Eylül 2020 duyuruları
 
@@ -37,7 +37,7 @@ Tüm bulut çözümü ortağı (CSP) iş ortakları deneyimidir yazılım teklif
 ### <a name="details"></a>Ayrıntılar
 
 >[!NOTE]
->İş ortağı geri bildirimi nedeniyle, kalıcı ve sunucu aboneliği yazılım siparişleri için yazılım ve lisans anahtarları almak üzere Iş Ortağı Merkezi 'ni karşılama özelliğini sunuyoruz. 19 Ocak 2021 ' de kaldırılmadan önce önceki durumuna geri yüklenecek. Daha fazla bilgi için [mart 2021 duyurusuna](https://docs.microsoft.com/partner-center/announcements/2021-march#4)bakın.
+>İş ortağı geri bildirimi nedeniyle, kalıcı ve sunucu aboneliği yazılım siparişleri için yazılım ve lisans anahtarları almak üzere Iş Ortağı Merkezi 'ni karşılama özelliğini sunuyoruz. 19 Ocak 2021 ' de kaldırılmadan önce önceki durumuna geri yüklenecek. Daha fazla bilgi için [mart 2021 duyurusuna](./2021-march.md#4)bakın.
 
 Bugün iş ortakları, CSP yazılım siparişlerine yönelik yazılım indirme ve lisans anahtarı için Iş ortağı merkezini veya Microsoft 365 Yönetim merkezini kullanabilir. **19 ocak 2021** Itibariyle Iş Ortağı Merkezi yazılımı ve lisans anahtarı karşılama özelliği kullanımdan kaldırılacak ve iş ortakları, müşterileri bu amaçla yalnızca **Microsoft 365 Yönetim merkezini** kullanacak şekilde kullanıma sunulacaktır. Iş Ortağı Merkezi içindeki Müşteri yazılımı sayfası, müşterileri müşteri lisanslarını ve Yazılım indirmelerini elde etmek için kullanabileceğiniz Microsoft 365 yönetim merkezine bir "ayrıntılı bağlantı" içerecektir. Bu, müşteriler için en güvenli ve verimli deneyimin sağlanmasına yardımcı olur.
 
@@ -78,7 +78,7 @@ CSP ve açık programlardaki tüm iş ortakları
 ### <a name="details"></a>Ayrıntılar
 
 >[!NOTE]
->İş ortağı geri bildirimi nedeniyle, kalıcı ve sunucu aboneliği yazılım siparişleri için yazılım ve lisans anahtarları almak üzere Iş Ortağı Merkezi 'ni karşılama özelliğini sunuyoruz. 19 Ocak 2021 ' de kaldırılmadan önce önceki durumuna geri yüklenecek. Daha fazla bilgi için [mart 2021 duyurusuna](https://docs.microsoft.com/partner-center/announcements/2021-march#4)bakın.
+>İş ortağı geri bildirimi nedeniyle, kalıcı ve sunucu aboneliği yazılım siparişleri için yazılım ve lisans anahtarları almak üzere Iş Ortağı Merkezi 'ni karşılama özelliğini sunuyoruz. 19 Ocak 2021 ' de kaldırılmadan önce önceki durumuna geri yüklenecek. Daha fazla bilgi için [mart 2021 duyurusuna](./2021-march.md#4)bakın.
 
 Microsoft CSP programı 90.000 ' den fazla katılan şirketten daha fazla katlanarak artmıştır. Bu, küçük ve orta ölçekli işletmelere yönelik birincil iş ortağı satış işlerinizin yanı sıra yeni ticaret deneyimi dahilinde daha küçük kurumsal müşterilere yöneliktir. Bu itici güç derleme sırasında, CSP programındaki iş ortakları için fırsatları genişlettireceğiz. Ayrıntılar [iş ortağı blog gönderimize](https://blogs.partner.microsoft.com/mpn/expanding-opportunities-for-partners-in-the-cloud-solution-provider-program/)göre yapılır.
 

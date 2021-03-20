@@ -8,12 +8,12 @@ ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
-ms.openlocfilehash: f1606cceaf9dec1f04850fd85b3924ef75bbfda0
-ms.sourcegitcommit: 81017727107a907bf1f3246097b51667d7c5fb18
+ms.openlocfilehash: 74974c68c607ddcee4aff6abd53284a60653fb0b
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/30/2021
-ms.locfileid: "99098814"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712265"
 ---
 # <a name="csp-one-time-purchase-reconciliation-file-fields"></a>CSP tek seferlik satın alma mutabakatı dosya alanları
 
@@ -64,6 +64,7 @@ Karşılaştırma dosyaları hakkında daha fazla bilgi için bkz. [karşılaşt
 | PCToBCExchangeRateDate | Faturalandırma para birimine yönelik fiyatlandırma para biriminin belirlendiği tarih. | *30.09.2020* |
 | MeterDescription | Ölçüm açıklaması.  | *Tablolar-LRS depolanan veri (GB/ay)* |
 | ReservationOrderId | Rezervasyon sipariş kimliği. | *E21A6344E398FFC1C4D7...* |
+| CreditReasonCode | Kredi açıklaması. | *Azure tüketim kredisi* |
 
 >[!NOTE]
 >Azure tüketiminizi tek seferlik satın alma keşfi dosyanızda mutabık hale getirebilirsiniz. Bunu yapmak için, günlük derecelendirdiğiniz kullanım keşfi dosyasına gidin ve SubscriptionID 'nizi arayın. Bu, Azure plan KIMLIĞINIZLE ilişkili tüm maliyetleri görüntüler. Azure SubscriptionID 'niz EntitlementID olarak gösterilir.

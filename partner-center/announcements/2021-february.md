@@ -11,12 +11,12 @@ ms.custom:
 - references_regions
 ms.localizationpriority: high
 ms.date: 02/25/2021
-ms.openlocfilehash: 43614ebde27b6b0df0878bd7041163f1b7ca8882
-ms.sourcegitcommit: 79d2f00c352db61252e523f45abf93fe2a2742a5
+ms.openlocfilehash: c4ea0af46aa2dee02e2270e1f2d58eeff0f59ff4
+ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "102124797"
+ms.lasthandoff: 03/20/2021
+ms.locfileid: "104712486"
 ---
 # <a name="february-2021-announcements"></a>Şubat 2021 duyuruları
 
@@ -77,7 +77,7 @@ Tüm ayrıntılar için sonraki bölümde bahsedilen makaleye bakın.
 
 ### <a name="next-steps"></a>Sonraki adımlar
 
-Toplu işlemler özelliği hakkında daha fazla bilgi edinmek [için, virgülle ayrılmış değer (CSV) dosyaları kullanarak ortak satış fırsatları Için toplu işlemler](https://docs.microsoft.com/partner-center/bulk-operations)okuyun.
+Toplu işlemler özelliği hakkında daha fazla bilgi edinmek [için, virgülle ayrılmış değer (CSV) dosyaları kullanarak ortak satış fırsatları Için toplu işlemler](../bulk-operations.md)okuyun.
 
 ### <a name="questions"></a>Sorularınız mı var?
 
@@ -107,7 +107,7 @@ Tüm ayrıntılar için sonraki bölümde bahsedilen makaleye bakın.
 
 ### <a name="next-steps"></a>Sonraki adımlar
 
-İş [ortağı satış bağlantısı 'ndan (PSC) geçiş yapan iş ortakları Için Iş Ortağı Merkezi 'nde (PC) ortak satış yapma kılavuzundaki](https://docs.microsoft.com/partner-center/psc-to-pc) **PSC anlaşmalar geçiş** bölümünü inceleyerek anlaşma geçiş özelliği hakkında daha fazla bilgi edinin.
+İş [ortağı satış bağlantısı 'ndan (PSC) geçiş yapan iş ortakları Için Iş Ortağı Merkezi 'nde (PC) ortak satış yapma kılavuzundaki](../psc-to-pc.md) **PSC anlaşmalar geçiş** bölümünü inceleyerek anlaşma geçiş özelliği hakkında daha fazla bilgi edinin.
 
 ### <a name="questions"></a>Sorularınız mı var?
 
@@ -139,7 +139,7 @@ Tüm ayrıntılar için sonraki bölümde bahsedilen makaleye bakın.
 
 ### <a name="next-steps"></a>Sonraki adımlar
 
-[Iş Ortağı Merkezi 'nde ortak satış fırsatlarını yönetme](https://docs.microsoft.com/partner-center/manage-co-sell-opportunities)kılavuzumuzu görüntüleyerek daha fazla bilgi edinin.
+[Iş Ortağı Merkezi 'nde ortak satış fırsatlarını yönetme](../manage-co-sell-opportunities.md)kılavuzumuzu görüntüleyerek daha fazla bilgi edinin.
 
 ### <a name="questions"></a>Sorularınız mı var?
 
