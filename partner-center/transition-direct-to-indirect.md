@@ -9,18 +9,18 @@ author: aarzh-AaronZhang
 ms.author: v-aarzh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ceaf3fd0819937177648814a02df4a2a266ee06f
-ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
+ms.openlocfilehash: 0e7676df62aa6ea91492f9904ac810397fb0e5aa
+ms.sourcegitcommit: 35fe0fdc41886f6f5af71ec74e4a4ebd245dfe1d
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 02/06/2021
-ms.locfileid: "99624315"
+ms.lasthandoff: 03/22/2021
+ms.locfileid: "104768763"
 ---
 # <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>Bulut Çözümü Sağlayıcısı (CSP) doğrudan faturalanan iş ortağından CSP dolaylı kurumsal bayiye geçiş
 
 **Uygun roller**
 
-- Genel Yöneticiler
+- Genel yönetici
 
 >[!Note]
 >Bu makale, dolaylı satıcılara geçişe karar veren doğrudan fatura ortakları için tasarlanmıştır. Ancak dolaylı bir satıcı olarak kaydolmak üzere açık bir karar vermemiş olsanız bile, doğrudan [Fatura özellikleri kısıtlandıktan](restricted-direct-bill-capabilities.md)sonra CSP doğrudan fatura ortağı programı için yeni [gereksinimleri](direct-partner-new-requirements.md) karşılamayan doğrudan fatura iş ortakları Microsoft tarafından bilgilendirilir.
@@ -127,9 +127,9 @@ Doğrudan fatura müşterilerinizi ve dolaylı satıcı müşterilerinizi farkl�
 
 ### <a name="to-identify-customers-that-you-acquired-as-a-direct-bill-partner"></a>Doğrudan bir fatura ortağı olarak edindiğiniz müşterileri belirlemek için
 
-1. **Müşterileri** seçin
+1. **Müşteriler**’i seçin.
 
-2. Ayrıntılarını görüntülemek için bir müşteri seçin
+2. Ayrıntılarını görüntülemek için bir müşteri seçin.
 
 3. Bu müşteri doğrudan fatura ortağı olarak elde ediyorsanız, ürün **ekleme** veya **görüntüleme** seçeneklerini görürsünüz ve aboneliklerini görürsünüz.
 
@@ -162,7 +162,7 @@ Kurumsal ilişki uzantısı özelliğini kullanarak, mevcut doğrudan fatura mü
 
 - Dolaylı sağlayıcınız, müşteri kiracısına [atanan yönetim ayrıcalıkları](customers-revoke-admin-privileges.md) ile birlikte sağlanmaz. Dolaylı sağlayıcınız Temsilcili yönetim ayrıcalıkları gerektiriyorsa, bunun yerine müşteriye dolaylı bir satıcı daveti göndermeniz gerekir.
 
-- Satıcı ilişkisi kurulduktan sonra, dolaylı sağlayıcı, [M365 Yönetim Merkezi](https://admin.microsoft.com/AdminPortal/Home#/partners) 'Nde ortak ilişkiler sayfasında ve [iş için Microsoft Store](/microsoft-store/work-with-partner-microsoft-store-business), müşteriye bir CSP iş ortağı olarak görünür.
+- Satıcı ilişkisi kurulduktan sonra, dolaylı sağlayıcı, [Microsoft 365 Yönetim Merkezi](https://admin.microsoft.com/AdminPortal/Home#/partners) ve [Iş Microsoft Store iş](/microsoft-store/work-with-partner-microsoft-store-business)ortağı ilişkiler sayfasının altında, müşterinin bir CSP iş ortağı olarak görünür.
 
     > [!IMPORTANT]
     > Karışıklık ve anlaşılmadan kaçınmak için, mevcut bir doğrudan fatura müşterisi ve dolaylı bir sağlayıcı arasında satıcı ilişkisi kurmak üzere ilişki uzantısı özelliğini kullanmadan önce, iş ortağı sözleşmenizde sözleşmeye dayalı yükümlülüğü vardır.
@@ -223,9 +223,9 @@ Microsoft Bulut sözleşmesi 31 Ocak 2020 ' ye kadar geçerlidir. Bu tarihten so
 
 CSP dolaylı modeli kapsamında, dolaylı satıcıların Microsoft ile faturalandırma ilişkileri yoktur. Bunun yerine dolaylı satıcılar, kendi dolaylı sağlayıcıları aracılığıyla müşterileri için abonelikler elde eder. Doğrudan fatura ortağından dolaylı satıcıya geçiş yaparken, sahip olduğunuz mevcut abonelikleri dolaylı sağlayıcınıza doğrudan fatura ortağı olarak aktarmanız gerekir. Bunu yapmak için, Iş Ortağı Merkezi panosunda kendi kendine sunulan abonelik aktarma özelliğini kullanabilirsiniz.
 
-### <a name="pre-requisites"></a>Ön koşullar
+### <a name="prerequisites"></a>Önkoşullar
 
-- Bu özellik yalnızca mevcut doğrudan fatura ortağı kiracılarını kullanarak dolaylı satıcı kaydını tamamlamış olan iş ortakları arasında geçiş yapılabilir
+- Bu özellik yalnızca mevcut doğrudan fatura ortağı kiracılarını kullanarak dolaylı satıcı kaydını tamamlamış olan iş ortakları arasında geçiş yapılabilir.
 
 - Belirli bir müşteriyle ilişkili abonelikleri aktarmadan önce, geçiş ortağı müşteriyi dolaylı bir sağlayıcıya taşımalıdır.
 

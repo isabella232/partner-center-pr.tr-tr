@@ -9,24 +9,20 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 68ed2e839a55206fe9e0692d0fbfd086e15fb0ff
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: ebcd04e5612de350e103cbfd5f8c7e272c19a785
+ms.sourcegitcommit: 35fe0fdc41886f6f5af71ec74e4a4ebd245dfe1d
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92531738"
+ms.lasthandoff: 03/22/2021
+ms.locfileid: "104768695"
 ---
 # <a name="move-license-based-customers-from-other-channels--partners-to-the-cloud-solution-provider-program"></a>Lisans tabanlı müşterileri diğer kanallara & iş ortaklarından bulut çözümü sağlayıcısı programına taşıyın
-
-**Uygulama hedefi**
-
-- İş Ortağı Merkezi
 
 Müşteriniz birden çok iş ortağı sağlamak, aboneliklerini başka bir ortağa aktarmak veya başka bir yerde satın alınan aboneliklerinizi yönetmek isterse, bunları el ile taşıyabilirsiniz. Ayrıca, müşterileri başka bir kanaldan Iş ortağı merkezine de taşıyabilirsiniz.
 
 ## <a name="move-your-customers-license-based-subscriptions-to-the-cloud-solution-provider-program-csp"></a>Müşterinizin lisans tabanlı aboneliklerini bulut çözümü sağlayıcısı programına (CSP) taşıma
 
-1. Iş Ortağı Merkezi menüsünden **müşteriler** ' i seçin ve ardından **bir satıcı ilişkisi iste** ' yi seçin. Birden çok kanallı hesaplara destek sağlamak için aynı şeyi yapabilirsiniz.
+1. Iş Ortağı Merkezi menüsünden **müşteriler** ' i seçin ve ardından **bir satıcı ilişkisi iste**' yi seçin. Birden çok kanallı hesaplara destek sağlamak için aynı şeyi yapabilirsiniz.
 
 2. Müşteri davetinizi kabul ettikten sonra müşteri için istenen abonelikleri ve lisansları temin edebilirsiniz (örneğin, müşterinin daha önce satın aldığı Office 365 teklifi).
 

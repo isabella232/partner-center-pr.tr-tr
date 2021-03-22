@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9622f02039360e8ab39f459c9a2fe082ec70c854
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 7d80651c4e5e4afb476dada388f23c118e0bdf25
+ms.sourcegitcommit: 35fe0fdc41886f6f5af71ec74e4a4ebd245dfe1d
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756747"
+ms.lasthandoff: 03/22/2021
+ms.locfileid: "104768712"
 ---
 # <a name="troubleshoot-account-setup-or-mpn-renewal-issues"></a>Hesap kurulumu veya MPN yenileme sorunlarını giderme
 
@@ -28,20 +28,20 @@ Iş Ortağı Merkezi hesabınızı ayarlarken ortaya çıkan yaygın sorunları 
 
 ## <a name="what-happens-if-you-are-migrating-from-partner-membership-center-and-you-cant-edit-any-company-information-fields"></a>Iş ortağı üyelik merkezinden geçiş yapıyorsanız ve herhangi bir şirket bilgisi alanını düzenleyemezsiniz ne olur?
 
-Şirketinizin zaten Iş Ortağı Merkezi 'nde (CSP hesabı söyleyin) mevcut olduğu durumlarda, salt okunurdur bir ekran gösterilir. Bu ekranda, Iş Ortağı Merkezi 'nde olduğu gibi şirketiniz hakkındaki tüm bilgiler görüntülenir.
+Şirketinizin zaten Iş Ortağı Merkezi 'nde (örneğin, bir CSP hesabı) mevcut olduğu durumlarda, salt okunurdur bir ekran gösterilir. Bu ekranda, Iş Ortağı Merkezi 'nde olduğu gibi şirketiniz hakkındaki tüm bilgiler görüntülenir.
 
 Bu ekrandaki ayrıntıları değiştiremezsiniz. Bu, tasarım ve bir hata değildir.
 
 **Kabul et** ' i seçin ve devam **edin** .
 
 
-### <a name="if-the-it-department-has-turned-off-sign-up-for-partner-center"></a>BT departmanı **Iş Ortağı Merkezi 'ne kaydolma** özelliğini devre dışı bıraktı.
+### <a name="if-the-it-department-has-turned-off-sign-up-for-partner-center"></a>BT departmanı **Iş Ortağı Merkezi 'Ne kaydolma** işlemi kapalıysa
 
 Bu iletiyi, viral kullanıcıları devre dışı bırakıldığı veya Azure AD kiracısında viral kaydolma devre dışı bırakıldığı için görürsünüz. Azure AD hesabınız için genel yönetici, aşağıdaki PowerShell komutunu çalıştırarak gerekli özellikleri etkinleştirebilir:
 
 **Set-MsolCompanySettings-AllowEmailVerifiedUsers $true-Allowadhocabonelikleri $true**
 
-Daha fazla bilgi için, [self servis kaydolma](/azure/active-directory/users-groups-roles/directory-self-service-signup) makalesini okuyun
+Daha fazla bilgi için [self servis kaydolun](/azure/active-directory/users-groups-roles/directory-self-service-signup)makalesini okuyun.
 
 ## <a name="you-forgot-your-password"></a>Parolanızı unuttum
 

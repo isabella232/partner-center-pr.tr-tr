@@ -3,21 +3,22 @@ title: Azure Marketi için vergi ilkelerinin ödeme nasıl etkilediği
 description: Vergi ilkelerinin Azure Marketi için ödeme 'yi nasıl etkilediğini öğrenin.
 ms.topic: conceptual
 ms.service: partner-dashboard
+ms.subservice: partnercenter-mpn
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 02/09/2021
-ms.openlocfilehash: 19acb085b601212f1bf94316aab2b72c54aecc1a
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: 817cdb895efab553b6f0131cdcdcf9b24bc6db3e
+ms.sourcegitcommit: 35fe0fdc41886f6f5af71ec74e4a4ebd245dfe1d
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712962"
+ms.lasthandoff: 03/22/2021
+ms.locfileid: "104768831"
 ---
 # <a name="how-tax-policies-affect-payout-for-azure-marketplace"></a>Azure Marketi için vergi ilkelerinin ödeme nasıl etkilediği
 
 **Uygun roller**
 -    Genel yönetici
--    Kullanıcı yöneticisi
+-    Kullanıcı Yönetimi Yöneticisi
 -    Yönetim Aracısı
 
 ## <a name="introduction"></a>Giriş
