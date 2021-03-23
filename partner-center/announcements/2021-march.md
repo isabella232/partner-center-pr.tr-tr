@@ -8,17 +8,105 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 03/18/2021
-ms.openlocfilehash: eb6f57ed9a1b3031aeaaff51260e718ce3420ae3
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.date: 03/22/2021
+ms.openlocfilehash: a3172b78d41a966b52a824703a7f15f163467d63
+ms.sourcegitcommit: 715368e56fe669d29c7981906e08bc8d7d5d62a4
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712316"
+ms.lasthandoff: 03/23/2021
+ms.locfileid: "104880744"
 ---
 # <a name="march-2021-announcements"></a>Mart 2021 duyuruları
 
 Bu sayfada Mart 2021 için Microsoft Iş Ortağı Merkezi duyuruları sağlanmaktadır.
+
+________________
+## <a name="corrections-made-to-march-1-2021-perpetual-software-price-list"></a><a name="14"></a>1 Mart 2021 ' de yapılan düzeltmeler kalıcı yazılım fiyat listesi
+
+### <a name="categories"></a>Kategoriler
+
+- Tarih: 2021-03-23
+- Teklifler/Pazarlar
+
+### <a name="impacted-audience"></a>Etkilenen hedef kitle
+
+Bulut çözüm sağlayıcısı programında dolaylı sağlayıcılar ve doğrudan fatura ortakları deneyimidir kalıcı yazılım 
+
+### <a name="details"></a>Ayrıntılar
+
+1 Mart 2021 ' de gönderilen kalıcı yazılım için fiyat listesi, orada olmaması gereken pazarlara dahil değildir. Kalıcı yazılım fiyat listesi, düzeltmeler ile 17 Mart 2021 ' de güncelleştirildi. Bu düzeltmeler yalnızca için geçerlidir:
+
+- Ürün KIMLIĞI: DF77X4D43RKT 
+- Ürün adı: Microsoft 365 İş için Windows 10 Home-Pro yükseltmesi
+- Kaldırılan veya desteklenmeyen pazarlar: AE, AF, AL, har, AO, BA, BB, BD, BH, BM, mılyar TL, BO, BR, BS, siyah beyaz, BY, BZ, CI, CL, CM, CO, CR, CW, DO, DZ, EC, EG, ET, FJ, FO, GE, GH, GT, HN, IL, IN, IQ, JM, JO, çn, d, IN,, KN, KZ, LB, , Nı, NP, OM, PA, PE, PH, PK, PR, INER, QA, RS, RU, RW, SG, SN, ZF, TH, TJ, TM, TN, TT, TZ, UA, UG, UY, UZ, VE, VN, YS, ZM, ZW
+
+Bu değişiklikler yalnızca yukarıdaki ürün için geçerlidir. Diğer ürünlerin bir düzeltme yoktur. 
+
+### <a name="next-steps-and-resources"></a>Sonraki adımlar ve kaynaklar
+
+- Transact kalıcı yazılım kullanan iş ortakları en son kalıcı yazılım fiyat listesini indirmelidir.
+- Ülkelerinden oluşan iki harfli kısaltmayı kolay bir şekilde eşlemek için [bölge ülke kodlarına](https://docs.microsoft.com/azure/marketplace/commercial-marketplace-co-sell-countries) başvurun.
+________________
+## <a name="sdk-release-on-net-standard-v1170"></a><a name="13"></a> .NET Standard SDK sürümü (v 1.17.0)
+
+### <a name="categories"></a>Kategoriler
+
+- Tarih: 2021-03-23
+
+- Özellikler
+ 
+### <a name="impacted-audience"></a>Etkilenen hedef kitle
+
+Iş ortağı merkezi .NET SDK 'sını kullanan CSP programına katılan doğrudan fatura ortakları ve dolaylı sağlayıcılar.
+
+### <a name="details"></a>Ayrıntılar
+
+23 2020 Mart itibariyle Iş ortakları, [Microsoftpartnercenter. NETSDK (NuGet Galerisi |) sürümünü indirmeye başlayabilir. Microsoft. Store. PartnerCenter 1.17.0)](https://www.nuget.org/packages/Microsoft.Store.PartnerCenter/1.17.0), güncelleştirilmiş ortak Iş ortağı MERKEZI SDK [GitHub örnekleri](https://github.com/Microsoft/Partner-Center-DotNet-Samples)ile birlikte. Bu sürüm aşağıdaki yöntemlerin güncelleştirmelerini içerir:
+
+#### <a name="audit-updated-new-operation-types"></a>Denetim güncelleştirildi: yeni işlem türleri
+
+Müşterinin ne zaman onayladığı ve sonlandırıldığı hakkında bilinmesi için yeni [işlem türleri](https://docs.microsoft.com/partner-center/develop/auditing-resources) eklendi.
+
+- DapAdminRelationshipApproved
+
+- Dapadminrelationshipsonlandırılan
+
+#### <a name="audit-updated-new-resource-and-operation-types"></a>Denetim güncelleştirildi: yeni kaynak ve işlem türleri
+
+Müşteri dizin rolü senaryosunu desteklemek için yeni [kaynak ve işlem türleri](https://docs.microsoft.com/partner-center/develop/auditing-resources) eklendi.
+
+- Yeni kaynak türü "CustomerDirectoryRole"
+
+- "AddUserMember" ve "RemoveUserMember" işlem türleri
+
+#### <a name="sdk-updates-to-customer-accounts"></a>Müşteri hesaplarına SDK güncelleştirmeleri
+
+- GET/customers/{customer-tenant-id}/directSignedMicrosoftCustomerAgreementStatus desteği
+
+- /Customers/{Customer-Tenant-ID}/nitelikler al
+
+- /Customers/{customer_id}/nitelikler SONRASı? Code = {validationCode}
+
+#### <a name="additional-changes"></a>Ek değişiklikler
+
+Aşağıdaki değişiklikler yeni ticaret 'nin bir parçası olarak sunulmuştur ve şu anda yalnızca M365/D365 yeni ticaret deneyimi Technical Preview 'ın parçası olan iş ortakları tarafından kullanılabilir. Yeni ticaret Technical Preview kapsamında olmayan iş ortakları, etkileri fark etmez ve geriye dönük olarak uyumlu olmalıdır.
+
+- Katalog değişiklikleri:
+
+  - /Products/{product-id}/SKUs/{SKU-id} al
+
+- Satın alın ve yönetin:
+  - /Customers/{CustomerID}/abonelikleri al
+  - /Customers/{CustomerID}/Subscriptions/{SubscriptionID} al
+  - PATCH/Customers/{CustomerID}/Subscriptions/{SubscriptionID}
+  - /Customers/{CustomerID}/Subscriptions/{SubscriptionID}/geçişli tioneligılıklara al
+  - /Customers/{CustomerID}/Subscriptions/{SubscriptionID}/geçişlerini al
+  - POST/Customers/{CustomerID}/Subscriptions/{SubscriptionID}/geçişlerin
+
+### <a name="next-steps"></a>Sonraki Adımlar
+
+- En son [Microsoftpartnercenter. NETSDK sürümünü indirin (NuGet Galerisi | Microsoft. Store. PartnerCenter 1.17.0)](https://www.nuget.org/packages/Microsoft.Store.PartnerCenter/1.17.0)
+- [GitHub örneklerini](https://github.com/Microsoft/Partner-Center-DotNet-Samples) indirme ve gözden geçirme
 
 ________________
 ## <a name="csp-commercial-marketplace-offer-and-fy21-csp-incentives-for-eligible-offers"></a><a name="12"></a>Uygun teklifler için CSP ticari Market teklifi ve FY21 CSP teşvikleri

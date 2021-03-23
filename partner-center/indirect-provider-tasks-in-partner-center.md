@@ -8,13 +8,13 @@ author: BillLinzbach
 ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
-ms.date: 07/01/2020
-ms.openlocfilehash: 12b902f8134a4fcf6d93439658da95fff6d80c4f
-ms.sourcegitcommit: a2ea54f814fdbd619421a83482831b22f49416f6
+ms.date: 03/23/2021
+ms.openlocfilehash: ece0e5f3bedf1496a252ac8e8c1545fb22ec8108
+ms.sourcegitcommit: 715368e56fe669d29c7981906e08bc8d7d5d62a4
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 11/12/2020
-ms.locfileid: "94567058"
+ms.lasthandoff: 03/23/2021
+ms.locfileid: "104880778"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>Bulut Çözümü Sağlayıcısı programında dolaylı kurumsal bayilerle iş ortaklığı yapma
 
@@ -76,7 +76,7 @@ Abonelik Ayrıntıları sayfasında, satıcı (MPN KIMLIĞI) alanında, birlikte
 
 1. **Iş Ortağı Merkezi** menünüzden **dolaylı satıcılar** ' i seçin.
 
-2. **Dolaylı satıcılar** sayfasında, Iş **ortaklığı iste** ' yi seçin. Bir taslak e-posta iletisi görüntülenir.
+2. **Dolaylı satıcılar** sayfasında, Iş **ortaklığı iste**' yi seçin. Bir taslak e-posta iletisi görüntülenir.
 
 3. İletiyi varsayılan e-posta uygulamanızda açmak için **e-postada aç** ' ı seçin veya sonra iletiyi kopyalayıp bir e-postaya yapıştırmak Için **Panoya Kopyala** ' yı seçin. Bittiğinde **bitti** ' yi seçin.
     > [!IMPORTANT]  
@@ -101,7 +101,7 @@ Mevcut abonelikler için, dolaylı bir satıcıyla çalışmaya karar verirseniz
 | **Bunu gerçekleştirmek için** | **Bunu yapın** | **Olmadığı** |
 |   ------------------   |   -------   |   -----   |
 | Satıcının bir müşterinin hesabını yönetmesini ve aboneliklerini yönetmek için yönetici izinlerine sahip olmasını sağlama | Yeni müşteri eklerken bir satıcı ile müşteri hesabını ilişkilendirme | **Yeni müşteri** sayfasında |
-| Satıcıdan Azure müşterinin hesabını yönetme olanağı|Yeni müşteri eklerken bir satıcıdan Azure müşteri hesabı ilişkilendirin|**Azure hizmet portalında** , dolaylı satıcı **kiracı sahibi** Izinlerine Izin vermek için [Kullanıcı ayarları](https://aad.portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/UserSettings) ' nı seçin|
+| Satıcıdan Azure müşterinin hesabını yönetme olanağı|Yeni müşteri eklerken bir satıcıdan Azure müşteri hesabı ilişkilendirin|**Azure hizmet portalında**, dolaylı satıcı **kiracı sahibi** Izinlerine Izin vermek için [Kullanıcı ayarları](https://aad.portal.azure.com/#blade/Microsoft_AAD_IAM/UsersManagementMenuBlade/UserSettings) ' nı seçin|
 | Teşvikleri için satıcı kredisi sunun | Satıcıyı abonelikle ilişkilendirin (yeni veya var olan) | **Yeni abonelik** sayfasında |
 | Satıcıya yönelik belirli abonelikler için müşteri desteği verme | **Belirtilen destek kişi** listesinden satıcı seçin | Aboneliğin ayrıntı sayfasında: **müşteriler** sayfasından müşteriyi seçin ve ardından müşterinin **abonelikler** sayfasından aboneliği seçin |
 
@@ -109,9 +109,9 @@ Mevcut abonelikler için, dolaylı bir satıcıyla çalışmaya karar verirseniz
 
 Mevcut dolaylı satıcıyla ortaklığı kaldırmak için aşağıdaki adımları izleyin. 
 
-1. Panodaki Iş Ortağı Merkezi menüsünden **dolaylı satıcılar** ' i seçin. 
+1. Panodaki Iş Ortağı Merkezi menüsünden **dolaylı satıcılar**' i seçin. 
 
-2. **Dolaylı satıcılar** sayfasında, **ortaklığı kaldır** ' ı seçin. Onay isteyen bir ileti görünür ve devam etmek için Evet ' i seçin.
+2. **Dolaylı satıcılar** sayfasında, **ortaklığı kaldır**' ı seçin. Onay isteyen bir ileti görünür ve devam etmek için Evet ' i seçin.
 
 :::image type="content" source="images/ip-ir-relationship.png" alt-text="Ortaklığı kaldır":::
 
@@ -134,20 +134,20 @@ Yeni bir müşteri hesabıyla bir satıcı ilişkilendirdiğinizde, satıcıya h
 
 1. **Iş Ortağı Merkezi** menünüzden **dolaylı satıcılar** ' i seçin.
 
-2. Yeni müşterileri atamak istediğiniz dolaylı satıcısı bulun ve ardından **yeni müşteri Ekle** ' yi seçin. Dolaylı satıcının, müşteri ayrıntısı formunda sizin için zaten seçili olduğunu unutmayın. Müşterinin ayrıntılarını girip **İleri: abonelikler** ' i seçin.
+2. Yeni müşterileri atamak istediğiniz dolaylı satıcısı bulun ve ardından **yeni müşteri Ekle**' yi seçin. Dolaylı satıcının, müşteri ayrıntısı formunda sizin için zaten seçili olduğunu unutmayın. Müşterinin ayrıntılarını girip **İleri: abonelikler**' i seçin.
 
 3. **Yeni abonelik** sayfasında, müşterinin satın almak istediği abonelikleri seçin ve ardından müşterinin ihtiyacı olan lisans sayısını girin.
 
 4. Şunu seçin: **İleri: Gözden Geçir**.
 
-5. Sıra doğruysa **Gönder** ' i seçin. Sıra yanlışsa, tüm işlemi iptal etmek ve baştan başlamak için **Iptal 'i** seçin.
+5. Sıra doğruysa **Gönder**' i seçin. Sıra yanlışsa, tüm işlemi iptal etmek ve baştan başlamak için **Iptal 'i** seçin.
 
 6. Siparişi gönderdikten sonra **onay** sayfası görüntülenir. **Kurulum bilgileri** altında yönetici kullanıcı hesabı adı ve geçici parola görüntülenir. Kullanıcı hesabı adını ve parola bilgilerini kopyalayarak yeni müşteriye gönderebilirsiniz.
 
     > [!IMPORTANT]  
     > Bu sayfayı kapattıktan sonra bu bilgilere erişemiyoruz, Kullanıcı hesabı adını ve parolayı bir yere göz önünde olduğunuzdan emin olun.
 
-7. **Bitti** 'yi seçin. Yeni müşteri, müşteri listenizde, dolaylı satıcıyla ilişkili olarak görünür. Satıcının artık müşterinin hesap bilgilerine ve aboneliklerine yönetici erişimi vardır ve bu abonelikleri müşterinin adına yönetebilir.
+7. **Bitti** seçeneğini belirleyin. Yeni müşteri, müşteri listenizde, dolaylı satıcıyla ilişkili olarak görünür. Satıcının artık müşterinin hesap bilgilerine ve aboneliklerine yönetici erişimi vardır ve bu abonelikleri müşterinin adına yönetebilir.
 
 ### <a name="add-new-subscriptions-to-customer-accounts"></a>Müşteri hesaplarına yeni abonelikler ekleme
 
@@ -155,11 +155,11 @@ Müşteriler yeni abonelikler satın almak, mevcut olanları yükseltmek veya ek
 
 1. **Iş Ortağı Merkezi** menünüzden **müşteriler** ' i seçin.
 
-2. Hesabını değiştirmek istediğiniz müşteriyi bulun. Seçimlerinizi daraltmak için listeyi dolaylı satıcıya göre filtreleyebilirsiniz. Aşağı oku ve ardından **Abonelik Ekle** ' yi seçerek müşterinin kaydını genişletin.
+2. Hesabını değiştirmek istediğiniz müşteriyi bulun. Seçimlerinizi daraltmak için listeyi dolaylı satıcıya göre filtreleyebilirsiniz. Aşağı oku ve ardından **Abonelik Ekle**' yi seçerek müşterinin kaydını genişletin.
 
 3. **Yeni abonelik** sayfasında, abonelik (ler) i seçin ve müşterinin satın almak istediği lisansların sayısını girin.
 
-4. Aboneliği bir satıcı ile ilişkilendirmek için, listeden satıcının adını seçin ve ardından **Gönder** ' i seçin. Satıcının abonelikle ilişkilendirilmesi, varsa teşvikleri kazanmalarını sağlar.
+4. Aboneliği bir satıcı ile ilişkilendirmek için, listeden satıcının adını seçin ve ardından **Gönder**' i seçin. Satıcının abonelikle ilişkilendirilmesi, varsa teşvikleri kazanmalarını sağlar.
 
 5. Yeni abonelik (ler) müşterinin abonelikler listesinde görünür.
 
@@ -168,6 +168,10 @@ Müşteriler yeni abonelikler satın almak, mevcut olanları yükseltmek veya ek
 7. Bittiğinde **Gönder** ' i seçin.
 
 ## <a name="next-steps"></a>Sonraki adımlar
+
+Microsoft Iş ortağı sözleşmesi hakkındaki sorularınızın yanıtlarını bulun
+
+- [Dolaylı sağlayıcılar, satıcıların Microsoft Iş ortağı sözleşmesi 'Ni benimsemesine nasıl yardımcı olabilir-SSS](mpa-indirect-provider-faq.md)
 
 Müşteri hesaplarını ve abonelikleri yönetme hakkında daha fazla bilgi için bkz.:
 
