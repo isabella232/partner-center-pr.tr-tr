@@ -9,24 +9,21 @@ author: MalloryPrincipe
 ms.author: mallp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: fec01e6c4554421593de4135ccd1af5c5e7ce13b
-ms.sourcegitcommit: 1840767efa4c5de41889bc9245567cf286a084c8
+ms.openlocfilehash: 7a7e3ed40dcc6b1248f008201bff667a9eb9a0f8
+ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/29/2020
-ms.locfileid: "92917272"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "105028324"
 ---
 # <a name="customer-associations-via-the-claimed-partner-of-record-cpor-model-for-microsoft-365-and-dynamics-365"></a>Microsoft 365 ve Dynamics 365 için Istenen kayıt ortağı (CPOR) modeli aracılığıyla müşteri ilişkilendirmeleri
 
-**Uygulama hedefi**
 
-- İş Ortağı Merkezi
-
-**Uygun roller:**
+**Uygun roller**
 
 - Teşvikleri Yöneticisi
 
-Microsoft, 1 Ekim 2019 ' de, Microsoft 365 sahip olduğunuz ilişkileri yönetmek için kayıt ortağı (CPOR) modelini kullanmaya başlamıştır 365 ve bu, çevrimiçi hizmetler danışmanlığı (OSA) satışı, çevrimiçi hizmetler kullanımı (OSU)-Microsoft 365 ve OSU-Business Application teşvikleri.
+Microsoft, 1 Ekim 2019 ' de, sahip olduğunuz ilişkileri yönetmek için kayıt ortağı Iş ortağı (CPOR) modelini kullanarak, çevrimiçi hizmetler danışmanlığı (OSA) satışı, çevrimiçi hizmetler kullanımı (OSU)-Microsoft 365 ve OSU-Business Application teşvikleri ile ilgili 365 Microsoft 365.
 
 >[!Important]
 > Müşteri Birliği (CPOR) talepleri yalnızca çevrimiçi hizmetler Danışma belgesi (OSA) satışı, çevrimiçi hizmetler kullanımı (OSU)-Microsoft 365 ve OSU-Business uygulama teşvik programları için geçerlidir. Bulut çözümü sağlayıcısı, yönetilen satıcı, barındırma veya yüzey gibi başka bir program için bir ortak op talebi gönderiyorsanız, lütfen burada özetlenen ortak op talep işlemine bakın. <br><br>Talep gönderdiğinizde, Microsoft onu doğrular. Bu noktada daha fazla bilgi isteyeceğiz. İlişki isteğinizin müşterisini de bilgilendireceğiz. Müşterilerin kabul etmek için beş iş günü vardır. Devre dışı kalmazsanız, bu belirli kiracı ve iş yüküyle olan ilişkilendirmeniz resmi olur. Bu noktada müşterinin kullanım verilerine erişebilirsiniz. 
@@ -43,7 +40,7 @@ Bir talebi tamamlayabilmeniz için aşağıdaki bilgilere ihtiyacınız vardır:
 
 - Gerçekleştirdiğiniz **etkinlik** ve satış öncesi, kullanım veya gelir ilişkisi gibi yapmak istediğiniz talep türü
 
-- Müşterinizin **kişi adı** , başlığı ve e-posta adresi
+- Müşterinizin **kişi adı**, başlığı ve e-posta adresi
 
 - Dynamics 365 için Ayrıca müşterinizin **teknik iletişim** adı, başlığı ve e-posta adresini sağlamanız gerekir
 
@@ -53,9 +50,9 @@ Bir talebi tamamlayabilmeniz için aşağıdaki bilgilere ihtiyacınız vardır:
 
 - Seçtiğiniz **ürün (ler)** veya iş yükleri
 
-- Müşteri tarafından imzalanan iş beyanı gibi **yürütme kanıtı (PoE)** . Ayrıca, kullanmak üzere bir PoE şablonu indirebilirsiniz.
+- Müşteri tarafından imzalanan iş beyanı gibi **yürütme kanıtı (PoE)**. Ayrıca, kullanmak üzere bir PoE şablonu indirebilirsiniz.
 
-- İş ortakları yalnızca gelir ilişkilendirmesini talep etmek için: **Dynamics çözüm satıcı adı** , **MÜŞTERI adı** ve **ISV ürün/çözüm adı** . 
+- İş ortakları yalnızca gelir ilişkilendirmesini talep etmek için: **Dynamics çözüm satıcı adı**, **MÜŞTERI adı** ve **ISV ürün/çözüm adı**. 
 
 Ayrıca aşağıdaki noktaları da anlamanız gerekir:
 
@@ -69,40 +66,40 @@ Ayrıca aşağıdaki noktaları da anlamanız gerekir:
 
 1. [İş Ortağı Merkezi panosunda](https://partner.microsoft.com/dashboard/) oturum açın.
 
-2. **Teşvikleri** sekmesini seçin, **genel bakış** ' ı seçin ve ardından **Müşteri ilişkilendirmeleri** ' ni seçin.
+2. **Teşvikleri** sekmesini seçin, **genel bakış**' ı seçin ve ardından **Müşteri ilişkilendirmeleri**' ni seçin.
 
-3. Müşteri ilişkilendirmeleri sayfasının en üstünde **+ müşteri ilişkisi** ' nı seçin.
+3. Müşteri ilişkilendirmeleri sayfasının en üstünde **+ müşteri ilişkisi**' nı seçin.
 
 4. Müşteriyle ilişkilendirilecek iş ortağı konumunun **MPN kimliğini** seçip müşterinin etki alanı adını ve dizin kimliğini ekleyin. [Bunu bulun](find-ids-and-domain-names.md)
 
-5. **Devam** ’ı seçin.
+5. **Devam**’ı seçin.
 
 6. **Çözüm alanını** ve **etkinliği** seçin. 
 
    >[!Note]
    >
-   >Business Applications ' yi seçerseniz, **kullanım ve/veya satış öncesi** ya da **gelir ilişkilendirmesini** seçin ve ardından **devam** ' ı seçin. 
+   >Business Applications ' yi seçerseniz, **kullanım ve/veya satış öncesi** ya da **gelir ilişkilendirmesini** seçin ve ardından **devam**' ı seçin. 
    <br><br>Gelir ilişkilendirmesini seçerseniz aşağıda listelenenlerden biraz farklı bilgiler istenir.
 
-7. **Müşteri ilişkilendir** sayfasında uygun bilgileri girin ve **Talep Oluştur** ' u seçin.
+7. **Müşteri ilişkilendir** sayfasında uygun bilgileri girin ve **Talep Oluştur**' u seçin.
 
-8. Bu müşteri ilişkisiyle ilişkili ürünleri seçin ve ardından **devam** ' ı seçin.
+8. Bu müşteri ilişkisiyle ilişkili ürünleri seçin ve ardından **devam**' ı seçin.
 
 9. Müşterinin ve şirketinizin iletişim bilgilerini girin. Tüm alanlar zorunludur. 
 
    >[!NOTE]
    >Ürününüz Dynamics 365 ise ve seçtiğiniz üründe bu müşteri için birden çok abonelik varsa, abonelik KIMLIĞINI de girmeniz gerekir.
 
-10. Yürütme kanıtı (PoE) sağlayın. Bunu kutuya sürükleyebilir, kendi destekleyici belgelerinize göz atabilir veya **Şablonu indir** 'i seçerek bir şablon kullanabilirsiniz. 
+10. Yürütme kanıtı (PoE) sağlayın. Bunu kutuya sürükleyebilir, kendi destekleyici belgelerinize göz atabilir veya **Şablonu indir**'i seçerek bir şablon kullanabilirsiniz. 
 
-11. İsteğe bağlı olarak açıklama ekleyip kaydedin ve ardından **Talebi gönder** 'i seçin. Müşteriye, müşteri ilişkilendirmenizi onaylamanızı isteyen bir e-posta göndereceğiz.
+11. İsteğe bağlı olarak açıklama ekleyip kaydedin ve ardından **Talebi gönder**'i seçin. Müşteriye, müşteri ilişkilendirmenizi onaylamanızı isteyen bir e-posta göndereceğiz.
 
    >[!NOTE]
    >Müşteri ilişkilendirmesini gönderdikten sonra düzenleyemezsiniz.
 
 Müşteri ilişkilendirmenizin durumu, **Durum** alanında görüntülenir.
 
-Bir müşteri ilişkilendirmesinin geçmişini görüntülemek için **Geçmiş** 'i seçin.
+Bir müşteri ilişkilendirmesinin geçmişini görüntülemek için **Geçmiş**'i seçin.
 
 ## <a name="next-steps"></a>Sonraki adımlar
 

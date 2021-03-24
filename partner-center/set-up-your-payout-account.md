@@ -2,20 +2,21 @@
 title: Ödeme hesabı & vergi formları ayarlama-Microsoft ticari Market
 description: Ticari Market 'teki teklif satışlarından para almak için, ödeme hesabınızı ayarlamayı ve gerekli vergi formlarını doldurmayı öğrenin.
 ms.topic: conceptual
-ms.service: marketplace
+ms.service: partner-dashboard
+ms.subservice: partnercenter-mpn
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 12/10/2019
-ms.openlocfilehash: 58a981dbed3aa9a38a29cdd2b085d661b9341232
-ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
+ms.openlocfilehash: c08dfb816e08efdc194dbeff8800a2cbcec2b972
+ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97492696"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "105028443"
 ---
 # <a name="set-up-your-payout-account-and-tax-forms"></a>Ödeme hesabınızı ve vergi formlarınızı ayarlama
 
-**Uygun roller:**
+**Uygun roller**
 
 - Hesap yöneticisi
 - Genel yönetici
@@ -54,7 +55,7 @@ Vergi profilinizi ve vergi formlarınızı Iş Ortağı Merkezi 'nin **ödeme ve
 
 4. Mevcut bir vergi profilini kullanmak isterseniz, açılan listeden seçin. Aksi takdirde **Yeni Profil oluştur** ' u seçin ve **Gönder**' e basın. Vergi profilleri sayfasına yönlendirilirsiniz.
 
-5. Vergi bilgilerinizi düzenlemek için **Düzenle** düğmesine tıklayın.
+5. Vergi bilgilerinizi düzenlemek için **Düzenle** düğmesini seçin.
 
 6. Uygun radyo düğmesini seçin ve istenirse bulunduğunuz ülkeyi/bölgenizi seçin. Bu adım, hesabınızda ödeme yapmak için kullanılacak Microsoft iş varlığını belirler.
 
@@ -91,7 +92,7 @@ Bir ödeme hesabı, satışınızdan devam eden bir banka hesabıdır. Profil sa
 
 3. Yapılandırmak istediğiniz ödeme yöntemini seçin.
 
-4. Mevcut bir ödeme profilini seçin veya **Yeni ödeme profili oluştur** ' a tıklayarak seçilen ödeme yöntemi için yeni bir profil oluşturun.
+4. Mevcut bir ödeme profili seçin veya **Yeni bir ödeme profili oluştur** ' u seçerek seçili ödeme yöntemi için yeni bir profil oluşturun.
 
 ### <a name="create-a-bank-based-payment-profile"></a>Banka tabanlı ödeme profili oluşturma
 
@@ -111,7 +112,7 @@ Bir ödeme hesabı, satışınızdan devam eden bir banka hesabıdır. Profil sa
 
 5. Birden fazla program için aynı profili kullanabilmeniz için, katılmış olduğunuz her bir program için bir ödeme profili seçmeniz gerekir.
 
-6. Değişikliklerinizi kaydetmek için Gönder ' e tıklayın.
+6. Değişikliklerinizi kaydetmek için Gönder ' i seçin.
 
    > [!NOTE]
    > Microsoft, profilinizdeki bilgilerin doğrulanması 48 saate kadar sürebilir. Bu işlem tamamlandığında *doğrulama durumu* **tamamlanacaktır**
@@ -130,7 +131,7 @@ Değişiklik yapmanız veya yanlış bilgileri düzeltmeniz gerekiyorsa, mevcut 
 
 2. *Ödeme ve vergi* başlığının altında, **ödeme ve vergi profilleri**' ni seçin.
 
-3. Ödeme profilleriniz, durumları ile birlikte listelenir. Düzenlemek istediğiniz profili bulun ve en sağdaki **Düzenle** ' ye tıklayın
+3. Ödeme profilleriniz, durumları ile birlikte listelenir. Düzenlemek istediğiniz profili bulun ve en sağdaki **Düzenle** ' yi seçin
 
 > [!IMPORTANT]
 > Ödeme hesabınızı değiştirmek, ödemenizi tek bir ödeme döngüsüne erteleyebilir. Bu gecikme, hesap değişikliğini doğrulamanız gerektiğinden, yalnızca ödeme hesabını ilk ayarlarken yaptığımız için oluşur. Hesabınız doğrulandıktan sonra da tam miktar için ücret ödeirsiniz; geçerli ödeme döngüsünün süresi dolan tüm ödemeler bir sonrakine eklenecektir. Daha fazla bilgi için bkz. [ticari Market 'te ücretli alma](marketplace-get-paid.md).
@@ -203,7 +204,7 @@ Microsoft, ilk ödeme denendiğinde üç belgeyi de sağlar. Sonraki ödemelerde
 3. Lehdar ayrıntılar sağlayın.
 4. *Profil atama* sayfasına geri döndüğünüzde, ödemlarınızı yayınlıyoruz, kullanmak istediğiniz para birimini seçin.
 5. Birden fazla program için aynı profili kullanabilmeniz için, katılmış olduğunuz her bir program için bir ödeme profili seçmeniz gerekir.
-6. Değişikliklerinizi kaydetmek için Gönder ' e tıklayın.
+6. Değişikliklerinizi kaydetmek için Gönder ' i seçin.
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
