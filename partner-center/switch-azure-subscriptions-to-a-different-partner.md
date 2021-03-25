@@ -9,20 +9,19 @@ ms.localizationpriority: medium
 author: dhirajgandhi
 ms.author: dhgandhi
 ms.date: 02/09/2021
-ms.openlocfilehash: b9058b00708e0ed745c7d6343dfd9c04382cfa9e
-ms.sourcegitcommit: 64243caed029ffe40e2bbc369f4ee96f4f0ca26f
+ms.openlocfilehash: 20e00034e9c20a5d41500892df059b34a9347a63
+ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 02/18/2021
-ms.locfileid: "100645665"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "105028307"
 ---
 # <a name="learn-how-to-transfer-a-customers-azure-subscriptions-to-another-partner"></a>Müşterinin Azure aboneliklerini başka bir iş ortağına aktarmayı öğrenin
 
 **Şunlara uygulanır**
 
-- Microsoft Cloud for US Government için İş Ortağı Merkezi
+- Microsoft kamu bulutu için iş ortağı Merkezi
 - Microsoft Global Cloud için iş ortağı Merkezi
-- Bulut çözümü sağlayıcısı (CSP) programındaki iş ortakları
 
 Bu makalede, bir müşterinin Microsoft Azure hizmetlerini bir bulut çözümü sağlayıcısından (CSP) bir başkasına nasıl geçbir şekilde bir şekilde nasıl bir şekilde bir
 
@@ -43,7 +42,7 @@ Müşterinin Azure hizmetlerini veya aboneliklerini farklı bir ortağa geçirme
 
    Abonelik aktarımı istemek için Iş Ortağı Merkezi 'nden bir Azure hizmet bileti oluşturun:
 
-   1. Iş Ortağı Merkezi menüsünde **müşteriler**' i seçin, listeden müşteriyi seçin ve ardından **hizmet yönetimi**' ni seçin. 
+   1. Iş Ortağı Merkezi menüsünde **müşteriler**' i seçin, listeden müşteriyi seçin ve ardından **hizmet yönetimi**' ni seçin.
 
    2. **Destek biletleri** bölümünde **yeni bilet** açılan listesini seçin ve **Microsoft Azure**' yi seçin.
    
@@ -100,12 +99,12 @@ Müşterinin Azure hizmetlerini veya aboneliklerini farklı bir ortağa geçirme
      Get-AzRoleAssignment
      ```
 
-7. Eski erişim izinlerini kaldır
+7. Eski erişim izinlerini kaldır:
 
    - Iş Ortağı Merkezi menüsünde **müşteriler**' i seçin.
-   - Listedeki müşteriyi bulun. Şirket adlarını seçin (çift tıklayın). Bu, müşteri **abonelikleri** sayfasını açar.
+   - Listedeki müşteriyi bulun. Şirket adlarını seçin (çift tıklayın). Bu eylem, müşteri **abonelikleri** sayfasını açar.
    - Müşteri ayrıntısı menüsünde **hizmet yönetimi**' ni seçin.
-   - **Microsoft Azure** altında, bağlantıya tıklayarak **Microsoft Azure yönetim portalı** gidin.
+   - **Microsoft Azure**' ın altında, **Microsoft Azure yönetim portalı** gitmek için bağlantıyı seçin.
 
 ## <a name="next-steps"></a>Sonraki adımlar
 

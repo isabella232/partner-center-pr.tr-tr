@@ -9,21 +9,20 @@ author: kbangalore
 ms.author: kiranban
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7d362e78cccf1372760a38f849b0a29a0a31c1ac
-ms.sourcegitcommit: 2e206627323ff175c0e0d10646cdba80e9881891
+ms.openlocfilehash: 194ae71b026b3dc5419ad86d0988249223137462
+ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/29/2020
-ms.locfileid: "92531079"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "105028256"
 ---
 # <a name="restore-a-suspended-partner-center-account---learn-why-it-happens-and-what-to-do-about-it"></a>Askıya alınmış İş Ortağı Merkezi hesabını geri yükleme - Nedenini ve ne yapabileceğinizi öğrenin
 
 Bu makalede İş Ortağı Merkezi hesabınız askıya alınırsa ne yapabileceğiniz açıklanır.
 
-**Uygulama hedefi**
+**Şunlara uygulanır**
 
--  İş Ortağı Merkezi
--  ABD kamu için Microsoft Bulut iş ortağı Merkezi
+- Microsoft kamu bulutu için iş ortağı Merkezi
 
 **Uygun roller**
 
@@ -37,7 +36,7 @@ Bu makalede İş Ortağı Merkezi hesabınız askıya alınırsa ne yapabileceğ
 
 Microsoft, aşağıdaki nedenlerden biri için bir Iş Ortağı Merkezi hesabını askıya alacak:
 
-- Geçerli faturalandırma tutarı 60 günden daha uzun süre geçtiğinde 
+- Geçerli faturalandırma tutarı 60 günden daha uzun süre geçtiğinde
 - Önemli bir hesap kötüye kullanımı algılandığında
 - Sorunlar dolaylı sağlayıcı işlemlerini etkiler ve hesabınızı olumsuz yönde etkiler (yalnızca dolaylı satıcılar)
 - Hesap profiliniz başarısız veya reddedildi durumundaysa
@@ -48,7 +47,7 @@ Hesabınızın güncel olduğunu biliyorsanız, etkin bilgilerinizin tamamlandı
 
 Hesabınızın güncel olup olmadığından emin değilseniz, faturanızı denetlemek için **Iş Ortağı Merkezi** menüsünden **faturalandırma** ' i seçin. Faturalandırma sayfasında faturalandırma geçmişi ve eğilimleri, geçerli ay için geçerli olan Bakiye, fatura ve mutabakat dosyalarınıza bağlantılar ve en son ödemenizin yanı sıra görüntülenir.
 
-Hesabınızın süresi dolduysa, ödemeyi düzenlemek için faturanızdaki yönergeleri izleyin ve sonra hesabınızın yeniden belirtilmesini istemek için bir destek isteği gönderebilirsiniz. 
+Hesabınızın süresi dolduysa, ödemeyi düzenlemek için faturanızdaki yönergeleri izleyin ve ardından hesabınızı yeniden devreye almak için bir destek isteği gönderebilirsiniz. 
 
 Hesabınızı yeniden etkinleştirme konusunda ek yardım için [desteğe](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create)başvurun.
 

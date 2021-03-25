@@ -9,21 +9,21 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6955f28c78978e1f9f9e887ef612d38d57568d77
-ms.sourcegitcommit: 9c7a8a33c73c9536142a59a6c65027202ec20547
+ms.openlocfilehash: 2cf45807c6347ad62ad343d2be8a477ab8ea9d33
+ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "92531351"
+ms.lasthandoff: 03/24/2021
+ms.locfileid: "105028273"
 ---
 # <a name="view-eligibility-requirements-for-planning-services-engagements"></a>Planlama Hizmetleri görevlendirmelerine yönelik uygunluk gereksinimlerini görüntüleme
 
 **Uygun roller**
 
-- Genel Yönetici
-- MPN Iş ortağı Yöneticisi
+- Genel yönetici
+- MPN iş ortağı Yöneticisi
 
-Bu konu, şirketinizin Microsoft 'a ait Yazılım Güvencesi Planlama Hizmetleri görevlendirmeleri kaydedebilmesi veya teslim edebilmesi için gereken uygunluk gereksinimleri hakkında bilgi edinmenize yardımcı olur.
+Bu makale, şirketinizin Microsoft 'a ait Yazılım Güvencesi Planlama Hizmetleri görevlendirmeleri kaydedebilmesi veya teslim edebilmesi için gereken uygunluk gereksinimleri hakkında bilgi edinmenize yardımcı olur.
 
 >[!NOTE]
 > Bir planlama hizmeti teklifinin uygunluk gereksinimlerini karşılamanın yanı sıra, Yazılım Güvencesi Planlama Hizmetleri görevlendirmeleri sunmadan önce diğer birkaç adımı da izlemeniz gerekir. Gerekli tüm adımlara genel bir bakış için bkz. [Iş Ortağı Merkezi 'Nde Yazılım Güvencesi Planlama Hizmetleri](software-assurance-dps.md).
