@@ -9,19 +9,14 @@ author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b09f661cfc091732dddb2d7cb79303af60d3919a
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: f58a7cc34b5b5b5755f652faf220d290ec2a355d
+ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756489"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "105549269"
 ---
 # <a name="get-referral-insights-in-partner-center-and-find-out-how-your-referrals-are-doing"></a>Iş Ortağı Merkezi 'nde başvuru öngörülerini alın ve başvurularınızın nasıl çalıştığını öğrenin
-
-**Şunlara uygulanır**
-
-- Ortak satış fırsatları
-- Özel anlaşmalar
 
 Başvurularda **analiz** bölümünün altındaki **ortak satış fırsatları** sayfası, başvurularınızın nasıl çalıştığını görmenizi sağlar. Dikkat edilmesi gereken eğilimleri veya alanı belirlemek için bu ölçümleri düzenli olarak gözden geçirin ve iş hedeflerinize doğru bir şekilde sürüyi başlatın.
 
@@ -32,9 +27,9 @@ Ortak satış fırsatları öngörülerinizi görmek için Iş Ortağı Merkezi 
 
 ## <a name="apply-filters"></a>Filtreleri uygulama
 
-**Ortak satış fırsatları** sayfasının üst kısmında, verileri göstermek istediğiniz zaman dilimini seçebilirsiniz. Varsayılan seçim **3Dk** (üç ay) olur, ancak verileri altı ay veya bir yılda bir dönem için göstermeyi tercih edebilirsiniz. Ayrıca, belirli bir dönemdeki tüm başvuruların verilerini görmek için **özel** ' i de seçebilirsiniz.
+**Ortak satış fırsatları** sayfasının üst kısmında, verileri göstermek istediğiniz zaman dilimini seçebilirsiniz. Varsayılan seçim **3Dk** 'dir (üç ay), ancak bunun yerine altı ay veya bir yıl boyunca verileri göstermeyi tercih edebilirsiniz. Ayrıca, belirli bir dönemdeki tüm başvuruların verilerini görmek için **özel** ' i de seçebilirsiniz.
 
-Bu sayfadaki tüm verileri müşteri adı, ülke, anlaşma türü, anlaşma yönü, çözüm adı ve durum ile filtrelemenizi sağlayan paneli açmak için filtreler düğmesine tıklayabilirsiniz. Bu filtrelerin ayrıntıları aşağıda verilmiştir.
+Bu sayfadaki tüm verileri müşteri adı, ülke, anlaşma türü, anlaşma yönü, çözüm adı ve durum ile filtrelemenizi sağlayan paneli açmak için **Filtreler** düğmesini seçebilirsiniz. Bu filtrelerin ayrıntıları aşağıda verilmiştir.
 
 - **Müşteri adı**: **Tümü** varsayılandır, ancak verileri seçtiğiniz bir veya daha fazla müşteriyle sınırlayabilirsiniz.
 - Ülke: **Tümü** varsayılandır, ancak verileri seçtiğiniz bir veya daha fazla müşterinin bir veya daha fazla **ülkesine** sınırlayabilirsiniz.
@@ -47,7 +42,7 @@ Aşağıda belirtilen grafiklerin tümünde bulunan bilgiler, aşağıda belirti
 
 ## <a name="referrals-summary"></a>Başvurular Özeti
 
-Bu kartta, ortak satış fırsatlarınızın nasıl çalıştığı hakkında genel bir bakış sunulmaktadır.
+Bu kartta, ortak satış fırsatlarınızın nasıl yaptığına ilişkin bir genel bakış sunulmaktadır.
 
 Grafik, seçilen dönem için toplam anlaşmalar sayısını, kazanılan numarayı, kaybedilen sayıyı ve toplam anlaşma hacmini (USD cinsinden) gösterir.
 
@@ -63,7 +58,7 @@ Bu bölümde, anlaşmaların yaşam döngüsü boyunca bir durumdan diğerine na
 
 ## <a name="deals-by-geography"></a>Coğrafya ile anlaşmalar
 
-Bu bölümde, her bir ülke/bölge ile ilgili ayrıntıların yanı bilgi verilen anlaşmalar/bölgeler gösterilir. Her ülkenin işlem ayrıntılarının, tüm ülkelerin harita görünümüyle birlikte bir tablo görünümü vardır. Tablodaki belirli bir ülkeye tıklayabilirsiniz veya belirli bir ülkeyi yakınlaştırmak için harita görünümüne tıklayabilirsiniz.
+Bu bölümde, her bir ülke/bölge ile ilgili ayrıntıların yanı bilgi verilen anlaşmalar/bölgeler gösterilir. Her ülkenin işlem ayrıntılarının, tüm ülkelerin harita görünümüyle birlikte bir tablo görünümü vardır. Tablodaki belirli bir ülkeyi seçebilir veya belirli bir ülkeyi yakınlaştırmak için harita görünümünü seçebilirsiniz.
 
 :::image type="content" source="images/referrals/cosellanalyticsgeodistribution.png" alt-text="Başvuruların coğrafi dağılımını gösteren resim.":::
 
@@ -94,7 +89,7 @@ Verileri karşılaştırmak için seçebileceğiniz üç boyut
 - Pazar
 - Çözümler
 
-Anlaşma türü seçildiğinde, başvuru performansını ortak satış fırsatları ve özel anlaşmalar açısından karşılaştırma seçeneğiniz vardır. Hem pazarlar hem de çözümler için performanslarını karşılaştırmak üzere üç farklı seçenek belirleyebilirsiniz. Bir çubuk grafik olan ilk grafikte, hacim veya anlaşmalar değeri kazanılan ana özete göre ayda ay eğilimi ile sunulan veriler bulunur. Ayrıca, çubuk grafiğin sağında aynı veriler için dağılımı yüzde olarak gösteren bir pasta grafiği de vardır.
+Anlaşma türü seçildiğinde, başvuru performansını ortak satış fırsatları ve özel anlaşmalar açısından karşılaştırabilirsiniz. Hem pazarlar hem de çözümler için performanslarını karşılaştırmak üzere üç farklı seçenek belirleyebilirsiniz. Bir çubuk grafik olan ilk grafikte, hacim veya anlaşmalar değeri kazanılan ana özete göre ayda ay eğilimi ile sunulan veriler bulunur. Ayrıca, çubuk grafiğin sağında aynı veriler için dağılımı yüzde olarak gösteren bir pasta grafiği de vardır.
 
 :::image type="content" source="images/referrals/cosellanalyticscompare.png" alt-text="Karşılaştırma bölümünü gösteren resim.":::
 

@@ -9,18 +9,14 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bf832377cdaa6a680fef3ea3c2535f20a3ad65e1
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 391768b14473c3cbdaf5049007c36bbf28dd1167
+ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92531539"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "105549218"
 ---
 # <a name="grow-your-business-with-referrals-from-microsoft"></a>Microsoft’tan referanslarla işlerinizi büyütme
-
-**Uygulama hedefi**
-
-- İş Ortağı Merkezi
 
 Birçok müşteri, Microsoft teknolojisini ve iş çözümlerini uygulamaya yardımcı olacak nitelikli uzmanlar arıyor. Microsoft 'ta, pazarlama etkinliklerimiz ve dahili Microsoft satış aracılarımız aracılığıyla müşterilerden yardım almak için genellikle doğrudan talepler sunuyoruz. Müşteriler Ayrıca, iş ihtiyaçlarını karşılayacak şirketler bulmak için [ **çözüm sağlayıcısı bulma** deneyimini](https://www.microsoft.com/solution-providers/search) de kullanır. 
 

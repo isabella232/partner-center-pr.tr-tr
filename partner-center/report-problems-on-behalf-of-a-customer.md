@@ -9,19 +9,18 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 30670f44ddfeb2a798b191fb646ff894434537cb
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 0cf8769bcf45ba90a714231a7c9db7660efce0b0
+ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756431"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "105549065"
 ---
 # <a name="report-a-service-problem-on-behalf-of-a-customer---including-when-and-how-to-do-so"></a>Ne zaman ve nasıl yapılacağı gibi bir müşteri adına bir hizmet sorunu bildirin
 
 **Şunlara uygulanır**
 
-- İş Ortağı Merkezi
-- Microsoft Cloud for US Government için İş Ortağı Merkezi
+- Microsoft kamu bulutu için iş ortağı Merkezi
 
 **Uygun roller**
 
@@ -104,7 +103,7 @@ ISV 'nin iletişim bilgilerini bulmak için:
 
 ## <a name="faq"></a>SSS
 
-Müşteri adına gönderebileceğiniz hizmet istekleri hakkında sık sorulan sorular için aşağıdakilere bakın. 
+Müşteri adına gönderebileceğiniz hizmet istekleri hakkında sık sorulan aşağıdaki sorulara bakın. 
 
 ### <a name="what-is-included-as-part-of-the-support-entitlement"></a>Destek yetkilendirme 'nin bir parçası olarak neler dahildir?
 
@@ -120,7 +119,7 @@ Bu avantaj, bulut çözümü sağlayıcısı programına katılan tüm iş ortak
 
 **Teknik onarım olayları** için ilk yanıt süreleri:
 
-- Kritik etki (önem derecesi A): 2 saat (hizmetlerden önemli bir kayıp veya performans düşüşü. Üretim Hizmetleri çalışmıyor.)
+- Kritik etki (önem derecesi A): Iki saat (hizmetlerden oluşan önemli bir kayıp veya düşme. Üretim Hizmetleri çalışmıyor.)
 - Orta etkisi (önem derecesi B): dört saat (bir veya daha fazla hizmet kaybı). Üretim Hizmetleri kısmen etkilendi.)
 - En az etki (önem derecesi C): sekiz saat (hizmetlerden en az kayıp veya performans düşüşü). Hizmetler hala kullanılabilir veya üretim dışı hizmetler etkilenir.)
 

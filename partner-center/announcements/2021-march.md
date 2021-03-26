@@ -8,17 +8,139 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 03/22/2021
-ms.openlocfilehash: a3172b78d41a966b52a824703a7f15f163467d63
-ms.sourcegitcommit: 715368e56fe669d29c7981906e08bc8d7d5d62a4
+ms.date: 03/24/2021
+ms.openlocfilehash: 8b9b034a7241bba5de54b28edb64c961a05a8f64
+ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/23/2021
-ms.locfileid: "104880744"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "105549082"
 ---
 # <a name="march-2021-announcements"></a>Mart 2021 duyuruları
 
 Bu sayfada Mart 2021 için Microsoft Iş Ortağı Merkezi duyuruları sağlanmaktadır.
+
+________________
+## <a name="microsoft-operations-introducing-the-product-launch-calendar"></a><a name="16"></a>Microsoft Işlemleri: ürün başlatma takvimini tanıtma
+
+### <a name="categories"></a>Kategoriler
+
+- Tarih: 2021-03-25
+- Teklifler | Modern çalışma alanı
+
+### <a name="summary"></a>Özet
+
+İş ortağı geri bildirimlerine yanıt olarak, Microsoft Işlemleri ürün başlatma ile ilgili iletişimleri kolaylaştıracaktır.
+
+### <a name="impacted-audience"></a>Etkilenen hedef kitle
+
+Bulut çözümü sağlayıcısı (CSP) iş ortakları
+
+### <a name="details"></a>Ayrıntılar
+
+Microsoft, iş ortağı deneyimlerini sürekli olarak geliştirmeye kararlıdır. Microsoft 'tan çok fazla iletişim aldığınızı ve ürün başlatma için tekrarlanan Duyurular dahil ettiğimiz hakkında geri bildirimde bulunduk.
+
+Microsoft, geri bildiriminiz doğrultusunda, yeni ve mevcut tekliflerle ilgili ürün için hazırlık deneyimini kolaylaştırmıştır.
+
+Artık, Işlem hazırlık kaynağı galerisinde yayınlanan ürünün tek bir aylık görünümünü sunuyoruz. Bu aylık [ürün başlatma takvimi görünümü](https://partner.microsoft.com/resources/collection/product-launch-calendar-collection#/) , işlem hazırlık kaynağı galerisindeki ve Iş Ortağı Merkezi bildirilerinde tek tek ürün başlatma iletişimlerinin yerini alır.
+
+Bu [ürün başlatma takvimine](https://partner.microsoft.com/resources/collection/product-launch-calendar-collection#/) [topluluk koleksiyonları](https://partner.microsoft.com/resources/collection/product-launch-calendar-collection#/), [Takvim görünümleri](https://partner.microsoft.com/resources/assets#/?type=collection&search=Calendar&sort=updated)ve [CSP bültenleri](https://partner.microsoft.com/resources/collection/csp-monthly-update#/)' nden de erişebilirsiniz. Her ayın ürün başlatma takvimini, Işlem hazırlık kaynağı galerisinde bir duyuru ile yayımladığımızda sizi bilgilendireceğiz.
+
+Fiyat listesi önizlemesi ve fiyat listesi değişiklik günlüklerinde ve ürün bloglarında, lisanslama kılavuzlarında ve ürün pazarlama sayfalarında yeni ve mevcut tekliflerle ilgili bilgiler bulabilirsiniz.
+
+Değişiklik, aşağıdaki ürünler için başlatılır.
+
+- Dynamics şirket içi
+- Microsoft 365
+- Microsoft Dynamics 365
+- Windows
+- Sunucu  
+- Araçlar
+- Takımlar ve Telco
+
+Işlem hazırlığı ayrıntıları gerektiren ürün başlatma için özel duyurular gönderilmeye devam edeceğiz.
+
+### <a name="next-steps"></a>Sonraki adımlar
+
+Bu konuyla ilgili kaynakları gözden geçirin ve bu bilgileri kuruluşunuzdaki uygun hissedarlarla paylaşabilirsiniz.
+
+### <a name="questions"></a>Sorularınız mı var?
+
+Bu teklifler hakkında daha fazla soru için ilgili Yammer topluluklarınızı kontrol edin.
+
+________________
+## <a name="changes-to-csp-customer-onboarding-requirements"></a><a name="15"></a>CSP müşteri ekleme gereksinimlerinde yapılan değişiklikler
+
+### <a name="categories"></a>Kategoriler
+
+- Tarih: 2021-03-25
+- Özellikler
+
+### <a name="summary"></a>Özet
+
+İş ortakları ve müşterilerin işlerini güvenle çalıştırmasına yardımcı olma çabamız kapsamında, 25 Mart 2021 ' den itibaren geçerli olan ek müşteri bilgileri isteyeceğiz.
+
+### <a name="impacted-audience"></a>Etkilenen hedef kitle
+
+Bulut çözümü sağlayıcısı (CSP) doğrudan fatura ortakları ve sonraki bölümde listelenen ülkelerde yeni veya mevcut müşterileri olan dolaylı sağlayıcılar
+
+### <a name="details"></a>Ayrıntılar
+
+Microsoft, güvende çalışır. CSP programında deneyimidir müşteri abonelikleri için uyumlu, güvenli ve güvenli bir müşteri doğrulama yöntemi sağlamayı taahhüt ediyoruz. 25 Mart 2021 ' de, aşağıdaki ölçütlerin her ikisini de karşılayan iş ortaklarını etkileyecek Iş Ortağı Merkezi API 'SI ve Kullanıcı arabirimi (UI) geliştirmeleri sunacağız:
+
+1. İş ortağı Microsoft ile doğrudan faturalandırma ilişkisine sahiptir (Bu, ortağın doğrudan bir fatura ortağı veya dolaylı bir sağlayıcı olduğu anlamına gelir).
+
+2. İş ortağı aşağıdaki ülkelerde yeni veya mevcut müşteriler ile iş yapar:
+
+    - Tayland
+    - Vietnam
+    - Türkiye
+    - Polonya
+    - Güney Afrika
+    - Hindistan
+    - Brezilya
+    - Irak
+    - Myanmar
+    - Güney Sudan
+    - Suudi Arabistan
+    - Birleşik Arap Emirlikleri
+    - Venezuela
+
+Ölçütlere uyan iş ortaklarının, yeni müşterileri eklerken veya mevcut müşteri ayrıntılarını değiştirirken müşterinin **Şirket kayıt kimliği** 'ni (müşterinin **kuruluş** adı olarak da bilinir) ve **telefon numarasını** göndermesi gerekir. Ayrıca bu iş ortakları müşteri için isteğe bağlı bir **ikinci ad** da girebilir.
+
+Şirket kayıt KIMLIĞINIZI eklediğinizde müşterinin kişisel KIMLIĞINI değil iş vergi KIMLIĞINIZI kullanmanız gerektiğini unutmayın.
+
+Aşağıdaki ülkelerde yeni veya mevcut müşteriler ile iş yapan iş ortakları, Kasım 2020 ' de daha önceki bir sürüm ile zaten eklendi.
+
+- Ermenistan
+- Azerbaycan
+- Belarus
+- Macaristan
+- Kazakistan
+- Kırgızistan
+- Moldova
+- Rusya
+- Tacikistan
+- Ukrayna
+- Özbekistan
+
+Dünyanın geri kalanında müşterilere sahip olan iş ortakları 25 Mart 2021 ' de, müşteriler için isteğe bağlı ayrıntılar olarak **Şirket kayıt kimliği**, **telefon numarası** ve **Orta adı** girme olanağına sahip olur.
+
+### <a name="next-steps"></a>Sonraki adımlar
+
+- Daha ayrıntılı rehberlik için, [adanmış iş ortağı koleksiyonundaki](https://partner.microsoft.com/resources/collection/additionalfields-csp-customers-selected-geos#/) teknik belgeleri ve sık sorulan soruları gözden geçirin.
+
+- Iş Ortağı Merkezi API 'sini ve Web kullanıcısı deneyimini kullanarak değişiklikleri içerecek şekilde hazırlayın. API/SDK 'lar test için kullanılabilir olacak.
+
+- Yeni müşterileri eklerken veya mevcut müşteri ayrıntılarını değiştirirken ek verileri gönderdiğinizden emin olun.
+
+- Bir denetim masası satıcısı (CPV) çözümü kullanıyorsanız, CPV 'nize başvurun.
+
+### <a name="questions"></a>Sorularınız mı var?
+
+Yasal tanımlayıcıyla (ıNN veya tın olarak da bilinir) ilgili sorularınız varsa vergi danışmanınıza veya yerel vergi ofisine başvurun. Microsoft, vergi konusunda önemli yönergeler sağlayamaz.
+
+Microsoft ile işlemlerinde desteğe ihtiyacınız varsa, [bir hizmet isteği açın](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=aa679372-d996-73df-e244-cb28bbbf28e8).
 
 ________________
 ## <a name="corrections-made-to-march-1-2021-perpetual-software-price-list"></a><a name="14"></a>1 Mart 2021 ' de yapılan düzeltmeler kalıcı yazılım fiyat listesi

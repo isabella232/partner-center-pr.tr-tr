@@ -9,18 +9,14 @@ author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: fb6af7896f659630bb6810868dc017e1968e4d19
-ms.sourcegitcommit: b74701f3806af2c5da04b21f6c1d1371b56509cc
+ms.openlocfilehash: 133df7a2e6fdcf9aad48d3937b04dac33c93122a
+ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/19/2020
-ms.locfileid: "92531250"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "105549099"
 ---
 # <a name="how-to-remove-a-reseller-relationship-with-a-customer-in-partner-center"></a>İş Ortağı Merkezi'nde müşteriyle kurumsal bayi ilişkisini kaldırma
-
-**Uygulama hedefi**
-
-- İş Ortağı Merkezi
 
 Bu makalede, Iş Ortağı Merkezi 'nde müşteri ile satıcı ilişkisinin nasıl kaldırılacağı açıklanır.
 
@@ -41,7 +37,7 @@ Doğrudan iş ortakları veya dolaylı sağlayıcılar: bir müşteriyle artık 
 
    1. Iş ortağı merkezinden **müşteriler** ' e gidin ve müşteri seçin
 
-   2. **Abonelikler** ' in altında bir abonelik seçin.
+   2. **Abonelikler**' in altında bir abonelik seçin.
 
    3. **Askıya alındı** seçin
 
@@ -53,7 +49,7 @@ Doğrudan iş ortakları veya dolaylı sağlayıcılar: bir müşteriyle artık 
 
    b. **Hesabı** seçin.
 
-   c. **Satıcı Ilişkisini kaldır** ' ı seçin.
+   c. **Satıcı Ilişkisini kaldır**' ı seçin.
 
    > [!NOTE]
    > Herhangi bir abonelik hala etkinse, **satıcı Ilişkisini kaldır** bağlantısı devre dışı bırakılır.

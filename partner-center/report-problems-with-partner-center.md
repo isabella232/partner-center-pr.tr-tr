@@ -9,23 +9,24 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e680856c0bf1f1ed4e8eb5acea3833255576f5e3
-ms.sourcegitcommit: c4bae49f6c303f0b77a404a0441c2440e7cb112b
+ms.openlocfilehash: 33955d85e4b3bd713d15807911067c643d12c912
+ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/16/2021
-ms.locfileid: "103582045"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "105549184"
 ---
 # <a name="partner-center-portal-requests-and-diagnostic-tool"></a>İş Ortağı Merkezi portalı istekleri ve Tanılama Aracı
 
 **Şunlara uygulanır**
 
-- İş Ortağı Merkezi
-- Microsoft Cloud for US Government için İş Ortağı Merkezi
+- Microsoft kamu bulutu için iş ortağı Merkezi
 
 **Uygun roller**
 
-Tüm oturum açan Iş Ortağı Merkezi kullanıcıları, iş ortağı destek istekleri oluşturabilir. Kullanıcılar yalnızca, Iş Ortağı Merkezi 'Nde oturum açtıktan sonra gönderdikleri destek isteklerini görüntüleyebilir.
+- Iş Ortağı Merkezi ile ilgilenen tüm iş ortakları
+
+Tüm oturum açan Iş Ortağı Merkezi kullanıcıları, bir iş ortağı destek isteği oluşturabilir. Kullanıcılar yalnızca, Iş Ortağı Merkezi 'Nde oturum açtıktan sonra gönderdikleri destek isteklerini görüntüleyebilir.
 Sorunları bulup Iş Ortağı Merkezi portalı hatalarıyla ilgili yardıma ihtiyacınız olursa Iş ortağı merkezi desteği 'ne başvurun. Sorunun daha hızlı düzeltilme özelliğini sağlamak için tanılama gönderin.
 
 ## <a name="report-a-problem-with-the-partner-center"></a>Iş Ortağı Merkezi ile ilgili sorun bildirme
@@ -77,7 +78,7 @@ Bir Iş Ortağı Merkezi sayfasında çalışırken bir hata oluşursa, günlük
 
 Tanılama bilgilerini önizleyebilir ve ardından, destek isteğinize ekleyebileceğiniz bir dosyaya kaydedebilirsiniz. Bize bilgi göndermek için:
 
-3. Dosyayı göndermeden önce, kaldırmak isteyebileceğiniz kişisel bilgileri bulundurabileceğiniz bilgileri gözden geçirin.
+3. Kaldırmak isteyebileceğiniz kişisel verileri içerebileceğinden, göndermeden önce dosyadaki bilgileri gözden geçirin.
 
     >[!NOTE]
     >Bazı tarayıcılarda, **Önizleme** sayfasının alt kısmındaki **sayfa görünümü** bölümü boş görünebilir. Bu tamam.

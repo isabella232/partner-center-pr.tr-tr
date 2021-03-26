@@ -8,22 +8,18 @@ description: Çoklu iş ortakları, çok kanallı senaryolar veya bir müşterin
 author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
-ms.openlocfilehash: 26f39943ecc06f70b0194f1e892c4cfa218f5ee9
-ms.sourcegitcommit: e73a8a926476c47ea280735d1939b8a366982d33
+ms.openlocfilehash: 2403ec6cdb2776ab04fa76a37d690a748de38714
+ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92531747"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "105548980"
 ---
 # <a name="how-to-request-a-reseller-relationship-from-a-customer-in-partner-center"></a>İş Ortağı Merkezi'nde müşteriden kurumsal bayi ilişkisi isteğinde bulunma
 
-**Uygulama hedefi**
-
-- İş Ortağı Merkezi
-
 Müşterinin hizmet veya aboneliğini kendi adına yönetmek istiyorsanız, müşteri size bu hizmet veya abonelik için yönetici izinleri vermelidir ve Microsoft Müşteri sözleşmesini imzalayamalıdır.
 
-Bir müşteriyle satıcı ilişkisi kurmak ve yalnızca sağladığınız Azure aboneliklerini yönetmek istiyorsanız, yönetici izinlerinin alınması gerekli değildir.
+Bir müşteriyle satıcı ilişkisi kurmak ve yalnızca sağladığınız Azure aboneliklerini yönetmek istiyorsanız, yönetici izinlerini edinmeniz gerekmez.
 
 >[!NOTE] 
 >İzin isteme seçeneği, ABD devlet veya Microsoft Bulut Almanya için Microsoft Bulut çalışan iş ortakları için kullanılamaz. Daha fazla bilgi edinmek için bkz. [müşteriler iş ortakları için yönetim ayrıcalıkları temsilcisidir](customers-revoke-admin-privileges.md).
@@ -32,9 +28,9 @@ Bir müşteriyle satıcı ilişkisi kurmak ve yalnızca sağladığınız Azure 
 
 Ülkeniz veya aynı bölgeniz dahilinde bir müşteriyle bir satıcı ilişkisi isteyebilirsiniz.
 
-1. **Iş Ortağı Merkezi** menünüzden **müşteriler** ' i seçin ve ardından **bir satıcı ilişkisi iste** ' yi seçin.
+1. **Iş Ortağı Merkezi** menünüzden **müşteriler** ' i seçin ve ardından **bir satıcı ilişkisi iste**' yi seçin.
 
-2. Bu müşteriden yönetici izinleri istemek için, **Azure Active Directory ve Office 365 için yetkilendirilmiş yönetim ayrıcalıklarını dahil et** ' i seçin. Yönetici izinleri istemeden ilişki kurmak için bu seçeneği temizleyin.
+2. Bu müşteriden yönetici izinleri istemek için, **Azure Active Directory ve Office 365 için yetkilendirilmiş yönetim ayrıcalıklarını dahil et**' i seçin. Yönetici izinleri istemeden ilişki kurmak için bu seçeneği temizleyin.
 
 3. Sonraki sayfada taslak e-posta iletisini gözden geçirin. Taslak iletiyi varsayılan e-posta uygulamanızda açabilir veya iletiyi panonuza kopyalayıp bir e-postaya yapıştırabilirsiniz.
 

@@ -1,25 +1,26 @@
 ---
-title: Mutabakatı dosya ücreti türleri
+title: Mutabakat dosya ücreti türleri
 ms.topic: article
 ms.date: 06/05/2020
 description: Iş Ortağı Merkezi mutabakatı dosyalarındaki ücret türlerini (örneğin, lisans tabanlı, kullanım tabanlı ve tek seferlik), kredilerin ve indirimlerle bulun.
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f65c4a6496082934e8c38fbd924b96ef969be95b
-ms.sourcegitcommit: e7931fbe7ce16a62124e00b2802520a17d7285b8
+ms.openlocfilehash: ba42ac5beb28a3cf819c54a86385fb79853cdcd0
+ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/31/2020
-ms.locfileid: "92531115"
+ms.lasthandoff: 03/25/2021
+ms.locfileid: "105549235"
 ---
 # <a name="understand-the-different-charge-types-in-partner-center-reconciliation-files"></a>Iş Ortağı Merkezi mutabakatı dosyalarındaki farklı ücret türlerini anlayın
 
-**Uygulama hedefi**
+**Şunlara uygulanır**
 
-- İş Ortağı Merkezi
-- ABD kamu için Microsoft Bulut iş ortağı Merkezi
+- Microsoft kamu bulutu için iş ortağı Merkezi
 
 **Uygun roller**
 
@@ -27,12 +28,12 @@ ms.locfileid: "92531115"
 - Faturalama yöneticisi
 - Genel yönetici
 
-Bu konuda, bir fatura bölümü ve mutabakat dosyanızda olabilecek ilişkili ücret türleri arasındaki eşlemeler açıklanmaktadır. Faturanızda ücretler özeti sağlanmaktadır. Mutabakat dosyanız, ücret türleri dahil olmak üzere satır öğesi işlemlerinin ayrıntılı bir dökümünü sağlar. Karşılaştırma dosyaları hakkında daha fazla bilgi için bkz. [karşılaştırma dosyalarını kullanma](use-the-reconciliation-files.md).
+Bu makalede, bir fatura bölümü ve mutabakat dosyanızda olabilecek ilişkili ücret türleri arasındaki eşlemeler açıklanır. Faturanızda ücretler özeti sağlanmaktadır. Mutabakat dosyanız, ücret türleri dahil olmak üzere satır öğesi işlemlerinin ayrıntılı bir dökümünü sağlar. Karşılaştırma dosyaları hakkında daha fazla bilgi için bkz. [karşılaştırma dosyalarını kullanma](use-the-reconciliation-files.md).
 
 Hem [Kullanım tabanlı](usage-based-recon-files.md) hem de [Lisans tabanlı mutabakat dosyaları](license-based-recon-files.md) yalnızca kullanımla ilgili işlemler ve ücretler (tüketilen birimler ve ilgili ücretler) gösterir.
 
 > [!NOTE]
-> Tek kapalı krediler, faturada görüntülenen iskontolar veya para iadesi, mutabakat dosyasında **Adjustments** gösterilmez.
+> Tek kapalı krediler, faturada görüntülenen iskontolar veya para iadesi, mutabakat dosyasında  gösterilmez.
 
 ## <a name="map-charge-types-to-invoice-charges"></a>Ücret türlerini fatura ücretlerine eşleyin
 
