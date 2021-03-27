@@ -9,12 +9,12 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 086f5423d748ca2a84062577cd934987decc88f8
-ms.sourcegitcommit: 64b43ad8fb7bb56628450bea06b9cd2606c36b03
+ms.openlocfilehash: 8aeb47f6968e364eecb05efd2c0d4a1b3e1ba267
+ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 02/12/2021
-ms.locfileid: "100281289"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "105633769"
 ---
 # <a name="pricing-and-offers-for-office-365-dynamics-crm-enterprise-mobility-suite-azure-and-more"></a>Office 365, Dynamics CRM, Enterprise Mobility Suite, Azure ve daha fazlası için fiyatlandırma ve teklifler
 
@@ -22,7 +22,7 @@ ms.locfileid: "100281289"
 **Uygun roller**
 
 - Genel yönetici
-- Kullanıcı yöneticisi
+- Kullanıcı Yönetimi Yöneticisi
 - Yönetim Aracısı
 - MPN iş ortağı Yöneticisi
 - Satış Aracısı
@@ -95,7 +95,7 @@ CSP, eğitim, kar amacı gütmeyen ve kamu Community bulutu gibi özel pazar seg
 
 ## <a name="add-on-offer-types"></a>Eklenti teklifi türleri
 
-Lisans tabanlı hizmetler, temel teklifler veya eklentiler olarak elde edilebilir. Yalnızca temel teklifler, Iş Ortağı Merkezi Kataloğu aracılığıyla bulunabilir ve satın alınabilir alınırken. Eklentiler, temel teklifleri satın aldıktan sonra uygulanmalıdır. Lisans tabanlı fiyat listesi **İkincil lisans türü** sütunu her bir teklifle ilgili bilgileri ve türünü içerir. Taban tekliflere, Fiyat listesi ikincil lisans türü sütununda **spesifik olmayan** değerler vardır ve katalogda satın alınabilir. **Eklentinin** ikincil lisans türü değerleri katalogda satın alınamaz. Bu eklentileri satın almak için:
+Lisans tabanlı hizmetler, temel teklifler veya eklentiler olarak elde edilebilir. Yalnızca temel teklifler, Iş Ortağı Merkezi Kataloğu aracılığıyla bulunabilir ve satın alınabilir alınırken. Temel teklifleri satın aldıktan sonra Eklentiler uygulamanız gerekir. Lisans tabanlı fiyat listesi **İkincil lisans türü** sütunu her bir teklifle ilgili bilgileri ve türünü içerir. Taban tekliflere, Fiyat listesi ikincil lisans türü sütununda **spesifik olmayan** değerler vardır ve katalogda satın alınabilir. **Eklentinin** ikincil lisans türü değerleri katalogda satın alınamaz. Bu eklentileri satın almak için:
 
 1. Bir eklenti satın almadan önce satın alınması gereken teklif kimliklerinin listesini görmek için teklif listesi matrisine başvurun.
 2. Katalogdan temel teklifi satın alma
@@ -143,9 +143,9 @@ Teklif limiti kapsamı, teklif listesi matrisinde bir sütun olarak kaydedilir v
 
 ### <a name="36-month-offers"></a>36 aylık teklifler
 
-Üç yıllık koşullara sahip yaklaşık 50 Dynamics teklifi vardır. Bunlar, tekliflerin başlığında **(36 Mo)** tanımlanır. Bu teklifler yıllık vadeli tekliflere çok benzer. Tek fark, dönemi etrafında. Bu tekliflerin üç yıllık bir dönemi vardır ve bu, aboneliğin üç yıldan sonra otomatik olarak yenilenmesi anlamına gelir. Aşağıda bu tekliflerin nasıl çalıştığı hakkında bir Özet verilmiştir:
+Üç yıllık koşullara sahip yaklaşık 50 Dynamics teklifi vardır. Bunlar, tekliflerin başlığında **(36 Mo)** tanımlanır. Bu teklifler yıllık dönem tekliflerine benzer. Tek fark, dönemi etrafında. Bu teklifler üç yıllık bir terime sahiptir, böylece abonelikler üç yıl sonra otomatik olarak yenilenmez. Aşağıda bu tekliflerin nasıl çalıştığı hakkında bir Özet verilmiştir:
 
-- Koşullar 36 aydır, abonelik üç yıldan sonra otomatik olarak yenilenecek
+- Koşullar 36 aylardır; abonelikler üç yıldan sonra otomatik olarak yenilenecek
 - İş ortakları, aboneliğin dönemi boyunca lisans sayısını iptal edebilir veya değiştirebilir
 - Yıllık yenileme, üç yıllık dönem için satın alma zamanının fiyatında olacaktır
 - Faturalandırma sıklığı, hala yıllık veya aylık
@@ -162,11 +162,11 @@ Microsoft 365 a1 temel teklifinin altı yıllık bir dönemi vardır.  Office 36
 
 Aşağıda bu tekliflerin nasıl çalıştığı hakkında bir Özet verilmiştir:
 
-- Dönem, 72 ay veya 6 yıl içindir
-- Abonelik yenilenmez ve 6 yıl sonra sona erer
+- Dönem, 72 ay veya altı yıl içindir
+- Abonelik yenilenmez ve altı yıl sonra sona erer
 - Teklifin faturalandırma sıklığı yıllık olarak gösterilir, ancak abonelik alındıktan sonra iş ortağının ilk faturasında ön faturalandırılır
 - A1 72-ay teklifleri için abonelikler satın alma işleminden sonra kilitlidir ve iptal edilemez ve ilk satın alma işleminden sonra lisans sayıları aboneliğe eklenemez
-- Bu abonelik iptal edilemez ve yok edilemez.
+- Bu abonelik iptal edilemez ve reddedilmeyen.
 
 ## <a name="estimated-retail-price-erp"></a>Tahmini perakende fiyatı (ERP)
 

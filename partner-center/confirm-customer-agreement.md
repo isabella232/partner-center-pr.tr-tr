@@ -1,5 +1,5 @@
 ---
-title: Müşterinin Microsoft Müşteri Sözleşmesi’ni kabul ettiğini doğrulama
+title: Müşterinizin, Microsoft Müşteri anlaşmasını CSP programına kabul ettiğini onaylama
 description: Bulut çözümü sağlayıcısı (CSP) iş ortaklarının, müşteriler için Microsoft hizmetlerini sipariş etmeden önce Microsoft Müşteri sözleşmesinin müşteri tarafından kabul edilmesini onaylamanız gerekir.
 ms.topic: how-to
 ms.service: partner-dashboard
@@ -8,29 +8,23 @@ author: aarzh-AaronZhang
 ms.author: v-aarzh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.date: 05/05/2020
-ms.openlocfilehash: 423cf1aab281ad8e77e03aa386b43360e1b99b3c
-ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
+ms.date: 03/24/2021
+ms.openlocfilehash: ebb52a3a8223d3b1101e3a8e78728fcc167e25e3
+ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96570578"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "105633787"
 ---
-# <a name="confirm-customer-acceptance-of-the-microsoft-customer-agreement-in-the-csp-partner-program"></a>CSP iş ortağı programında Microsoft Müşteri Sözleşmesi 'nin müşteri kabulünü onaylayın
-
-**Uygulama hedefi**
-
-- İş Ortağı Merkezi
-- Microsoft 365 Yönetim Merkezi
+# <a name="how-to-confirm-that-your-customer-has-accepted-the-microsoft-customer-agreement-to-the-csp-program"></a>Müşterinizin, Microsoft Müşteri anlaşmasını CSP programına kabul ettiğini onaylama
 
 **Uygun roller**
 
 - Yönetim Aracısı
 - Satış Aracısı
 
-Microsoft, 1 Ekim 2019 ' de, Microsoft Bulut sözleşmesinin yerini alacak şekilde CSP programına **Microsoft Müşteri Sözleşmesi** 'ni sunmuştur. Dolaylı satıcılar için ek [rehberlik](indirect-reseller-tasks-in-partner-center.md) okuyun. İş ortaklarının yeni sözleşmeye geçişini kolaylaştırmak için, her iki anlaşma de 31 Ocak 2020 ' e kadar CSP programında birlikte varvardı. 1 Şubat 2020 ' den itibaren, Microsoft Müşteri Sözleşmesi Microsoft Bulut sözleşmesinin üzerinden değiştirilmiştir.
 
-Müşterilerin Microsoft Müşteri anlaşmasını kabul etmek için iki seçeneği vardır. 
+Müşterilerin, Microsoft Müşteri anlaşmasını kabul ettikleri iki seçeneği vardır.
 
 **Seçenek 1**: müşteri kabulünü kabul eden iş ortağı kanıtı Iş Ortağı Merkezi API/SDK kullanarak veya Iş Ortağı Merkezi panosu aracılığıyla müşteri kabulünü doğrulayabilirler.
 
@@ -42,7 +36,7 @@ Microsoft müşteri anlaşması şablonunun en son sürümünü [buradan](https:
 
 ## <a name="option-1-confirm-customer-acceptance-in-partner-center"></a>Seçenek 1: Iş Ortağı Merkezi 'nde müşteri kabulünü onaylayın
 
-İş ortakları, yeni ve mevcut müşteriler için Iş Ortağı Merkezi 'nde Microsoft Müşteri sözleşmesinin müşteri tarafından kabul edildiğini doğrulayabilirsiniz. Satıcılar, müşterilerinin adına test edemez ve kanıtlama tamamlandı olarak kendi dolaylı sağlayıcısıyla birlikte çalışmalıdır.
+Doğrudan fatura ortakları, yeni ve mevcut müşteriler için Iş Ortağı Merkezi 'nde Microsoft Müşteri sözleşmesinin müşteri tarafından kabul edildiğini doğrulayabilirsiniz. Dolaylı satıcılar müşterilerinin adına test edemez ve kanıtlama tamamlandı olarak kendi dolaylı sağlayıcısıyla birlikte çalışmalıdır.
 
 ### <a name="confirm-customer-acceptance-for-new-customers"></a>Yeni müşteriler için müşteri kabulünü Onayla
 
@@ -80,7 +74,7 @@ Bunu yapmak için bir Yönetim Aracısı veya satış aracısı olmanız gerekir
 
 ### <a name="retrieve-confirmation-of-customer-acceptance"></a>Müşteri kabulü onayını al
 
-Aşağıdaki adımları kullanarak mevcut bir müşterinin Microsoft Müşteri anlaşmasını kabul etmiş olduğunu onaylayın. Bunu yapmak için bir Yönetim Aracısı veya satış aracısı olmanız gerekir.
+Mevcut bir müşterinin Microsoft Müşteri anlaşmasını kabul etmiş olduğunu onaylamak için aşağıdaki adımları kullanın. Bunu yapmak için bir Yönetim Aracısı veya satış aracısı olmanız gerekir.
 
 1. **Müşteriler**' i seçin ve ardından görmek istediğiniz müşteriyi bulun ve seçin.
 
@@ -92,11 +86,11 @@ Aşağıdaki adımları kullanarak mevcut bir müşterinin Microsoft Müşteri a
 
 Iş Ortağı Merkezi API/SDK 'sını, Microsoft Müşteri sözleşmesinin müşteri tarafından kabul edildiğini onaylamak için kullanabilirsiniz. API/SDK hakkında daha fazla bilgi için bkz:
 
-- [Microsoft Müşteri Sözleşmesi için anlaşma meta verilerini alın](/partner-center/develop/get-customer-agreement-metadata)
+- [Microsoft Müşteri Sözleşmesi için anlaşma meta verilerini alma](/partner-center/develop/get-customer-agreement-metadata)
 
-- [Microsoft Müşteri sözleşmesinin müşteri kabulünü Onayla](/partner-center/develop/confirm-customer-consent-customer-agreement)
+- [Microsoft Müşteri Sözleşmesinin müşteri kabulünü onaylama](/partner-center/develop/confirm-customer-consent-customer-agreement)
 
-- [Microsoft Müşteri sözleşmesinin müşteri kabulünün onayını alın](/partner-center/develop/get-confirmation-of-customer-agreement)
+- [Microsoft Müşteri Sözleşmesinin müşteri kabulünün onayını alma](/partner-center/develop/get-confirmation-of-customer-agreement)
 
 - [Microsoft müşteri anlaşması şablonu için bir indirme bağlantısı alın](/partner-center/develop/download-customer-agreement-template)
 
@@ -121,12 +115,12 @@ Iş Ortağı Merkezi 'nde yeni bir müşteri oluşturmak için aşağıdaki adı
 
 2. **Hesap bilgileri** altında, müşterinin Şirket adı ve birincil ilgili kişisi dahil olmak üzere tüm gerekli alanlara yeni müşteri hakkındaki bilgileri girin.
 
-3. **Müşteri Sözleşmesi**' nin altında, ilk seçeneği belirleyin, **müşterinin Microsoft 365 Yönetim merkezinde Microsoft Müşteri sözleşmesini kabul etmesi istenir**. Sayfadaki diğer tüm gerekli alanları doldurun.
+3. **Müşteri Sözleşmesi**' nin altında, **Microsoft 365 Yönetim Merkezi ' ndeki Microsoft Müşteri anlaşmasını kabul etmesi istenecek müşteri**' yi seçin. Sayfadaki diğer tüm gerekli alanları doldurun.
 
 4. Ileri ' yi seçin **: gözden geçirin** ve ardından müşteri kiracısını oluşturma adımlarına devam edin. 
 
 >[!NOTE] 
->Yeni müşteriler, Microsoft Müşteri anlaşmasını kabul edene kadar yeni bir satın alma yapamaz.  
+>Yeni müşteriler, Microsoft Müşteri anlaşmasını kabul edene kadar satın alma yapamaz.  
 
    :::image type="content" source="images/mca/create-new-customer.jpg" alt-text="Yeni müşteri oluştur":::
 
@@ -140,9 +134,9 @@ Iş Ortağı Merkezi 'nde yeni bir müşteri oluşturmak için aşağıdaki adı
 
 7. Müşteri, daha sonra iş ortağından gelen daveti alacak ve [URL 'yi](https://admin.microsoft.com/AdminPortal/Home?ref=/BillingAccounts/agreement)seçmeyecektir.
 
-8. Müşteri, iş ortağından daha önce alınan müşteri kimlik bilgilerini kullanarak Microsoft 365 Yönetim Merkezi 'Nde oturum açar.
+8. Müşteri, girdiğiniz müşteri kimlik bilgilerini kullanarak Microsoft 365 Yönetim Merkezi 'Nde oturum açar.
 
-9. Müşteri daha sonra Microsoft Müşteri anlaşmasını kabul etmek için kutuyu kontrol eder.
+9. Müşteri, Microsoft Müşteri anlaşmasını kabul etmek için kutuyu kontrol eder.
 
 ## <a name="invite-a-new-customer-to-review-and-accept-the-reseller-relationship-and-microsoft-customer-agreement"></a>Satıcı ilişkilerini gözden geçirmek ve kabul etmek için yeni bir müşteri davet edin ve Microsoft Müşteri Sözleşmesi 
 
@@ -160,7 +154,7 @@ Yeni bir müşteriyi gözden geçirmek ve satıcı ilişkilerini ve Microsoft M�
 
 5. Müşteri e-posta ile davet alır ve parametreli URL 'yi tıklatır. 
 
-6. Müşteri, Microsoft 365 Yönetim Merkezi 'Nde oturum açmak için iş ortağı tarafından belirtilen kimlik bilgilerini kullanır.
+6. Müşteri, Microsoft 365 Yönetim Merkezi 'Nde oturum açmak için e-posta içinde sağladığınız kimlik bilgilerini kullanır.
 
 7. Müşteri, **satıcı ilişkilerini** ve **Microsoft Müşteri anlaşmasını** kabul etmek için kutuyu kontrol eder. 
 
@@ -186,15 +180,35 @@ Mevcut bir müşteriyi gözden geçirmek ve Microsoft Müşteri anlaşmasını k
    :::image type="content" source="images/mca/customeraccept.png" alt-text="müşterisi":::
 
 >[!NOTE]
->Bazı senaryolarda, müşteriler Microsoft Müşteri anlaşmasını doğrudan kabul edemeyebilir. Bu durumlar hakkında daha fazla bilgi edinmek için, [Müşterinizin adına sınama yapmanız gereken iki senaryoya](attest-acceptance-customer-agreement.md)bakın.
+>Bazı senaryolarda, müşteriler Microsoft Müşteri anlaşmasını doğrudan kabul edemeyebilir. Bu durumlar hakkında daha fazla bilgi edinmek için, aşağıdaki Müşterinizin adına sınamanız gereken Iki senaryoyu okuyun.
 
-### <a name="historical-timeline-details"></a>Geçmiş zaman çizelgesi ayrıntıları
+## <a name="two-scenarios-where-you-need-to-attest-on-behalf-of-your-customer"></a>Müşterinizin adına test etmeniz gereken iki senaryo
 
-| Tarih | Ina | Ayrıntılar |
-|------------|------------|--------------------------------|
-|01 Ağustos 2019| Sanal alanda UX önizlemesi kullanılabilir| İş ortakları, CSP korumalı alan ortamındaki Iş Ortağı Merkezi panosunu kullanarak Microsoft Müşteri sözleşmesinin müşteri kabul edildiğini doğrulayabilirsiniz. CSP korumalı alan ortamına erişimi olan iş ortakları, Kullanıcı deneyimi değişikliklerini önizleyin. Sandbox erişimi olmayan iş ortakları, bu konudaki değişiklikler hakkında bilgi alabilir.|
-|03 Eylül 2019|API önizlemesi, korumalı alanında kullanılabilir.|İş ortağı, CSP korumalı alan ortamında Iş Ortağı Merkezi API 'sini kullanarak Microsoft Müşteri sözleşmesinin müşteri tarafından kabul edildiğini doğrulayabilirsiniz. API iş ortakları, API değişikliklerini önizlemek ve yeni sözleşmeyi desteklemek üzere API Tümleştirmesi üzerinde çalışmaya başlamak için bu fırsatı kullanabilir.|
-|20 Eylül 2019|.NET SDK önizlemesi, korumalı alanında kullanılabilir.|İş ortağı, CSP Sandbox ortamında Iş ortağı merkezi .NET SDK 'sını kullanarak Microsoft Müşteri sözleşmesinin müşteri tarafından kabul edildiğini doğrulayabilirsiniz. API iş ortakları, bu fırsatı kullanarak .NET SDK değişikliklerinin önizlemesini yapabilir ve yeni sözleşmeyi desteklemek üzere API Tümleştirmesi üzerinde çalışmaya başlayabilir.|
-|01 Ekim 2019|Üretimde sunulan Microsoft Müşteri Sözleşmesi|Microsoft, Microsoft Bulut sözleşmesinin yerini alacak şekilde CSP programına Microsoft Müşteri Sözleşmesi 'ni tanıtır. İş ortakları, Iş Ortağı Merkezi panosunu ve üretimde API 'YI kullanarak Microsoft Müşteri sözleşmesinin müşteri tarafından kabul edildiğini doğrulayabilirsiniz. Microsoft Bulut sözleşmesi, CSP iş ortağı programı içinde desteklenir. Bununla birlikte, iş ortaklarının Microsoft Müşteri sözleşmesine geçirmeye başlaması önerilir. Mevcut Aboneliklerde yapılan yeni satın almalar ve lisans sayısı değişiklikleri, Microsoft Müşteri sözleşmesinin veya Microsoft Bulut sözleşmesinin iş ortağı onayını gerektirir. Belirli yeni teklifler (örneğin, yeni Azure planı) Microsoft Müşteri sözleşmesinin onayını gerektirecektir.|
-|31 Ocak 2020|Microsoft Bulut sözleşmesi Üretimden kaldırıldı|Microsoft Bulut sözleşmesi artık CSP iş ortağı programı içinde kabul edilmez. Mevcut Aboneliklerde yapılan yeni satın almalar ve lisans sayısı değişiklikleri, ortağın Microsoft Müşteri Sözleşmesi onayını sağlamasını gerektirir. Bu gereksinim, yeni müşteriler ve Microsoft Bulut sözleşmesini önceden kabul etmiş olabilecek mevcut müşteriler için geçerlidir.|
-|3 Şubat 2020|İş ortağı artık, kimliği doğrulanmış Microsoft 365 Yönetim Merkezi 'nde sözleşmeyi gözden geçirmek ve kabul etmek için bir URL aracılığıyla müşteriyi davet etme seçeneğine sahiptir. | Müşteri, Microsoft 365 Yönetim Merkezi 'nde Microsoft Müşteri anlaşmasını kabul edebilir. Müşterinin Microsoft 365 Yönetim Merkezi 'nde sözleşmenin doğrudan kabulü, koşulların onayını onaylar. 
+Müşterilerin, Microsoft Müşteri anlaşmasını Microsoft 365 Yönetim Merkezi 'nde doğrudan kabul edebildiği iki senaryo vardır.
+
+**Senaryo 1**: mevcut bir müşteri, mevcut bir iş ortağı ilişkisi aracılığıyla aşağıdakilerden birini satın aldı: teklifler, yazılım veya yazılım abonelikleri, ayrılmış örnekler veya Azure planı. Müşteri artık yeni satın alma işlemi gerçekleştirmeye çalışıyor (otomatik yenileme hariç). Bu müşteri URL 'YI tıklattığında, "Microsoft Müşteri anlaşmasını kabul etmek için lütfen Iş ortağınıza ulaşın" iletisini alırlar.  
+
+**Çözümlemek için**: müşteri adına test etmeniz gerekir.
+
+:::image type="content" source="images/mca/accept-scenario-1.png" alt-text="Microsoft Müşteri sözleşmesinin kabul edildiğini onaylamak için iş ortağınızla iletişime geçebilmeniz isteyen Microsoft 365 Yönetim Merkezi sayfasının ekran görüntüsü.":::
+
+**Senaryo 2**: mevcut bir müşteri, aşağıdaki tekliflerden, yazılım ve yazılım aboneliklerinden, ayrılmış örneklerden ve Azure planından herhangi birini satın almış. Müşteri artık yeni bir iş ortağıyla yeni satın alma yapmaya çalışıyor.
+
+Müşteri, yeni iş ortağı ilişkisini ve sözleşmeyi kabul etmek üzere Yönetim Merkezi Microsoft 365 için URL 'YI tıkladığında, "lütfen Microsoft Müşteri sözleşmenizi kabul etmek için Iş ortağınıza ulaşın" iletisini alırlar.  
+
+**Çözümlemek için**: müşteri adına test etmeniz gerekir.  
+
+## <a name="confirm-that-a-customer-has-accepted-the-agreement"></a>Müşterinin sözleşmeyi kabul ettiğini onaylama
+
+Daha önce teyit edilmemiş mevcut bir müşteri için yeni bir sipariş oluşturmayı denerseniz, onayı tamamlamaya yönelik bir istem alırsınız. Bunu yapmak için aşağıdaki yordamı kullanın.
+
+1. Sözleşmeyi kabul eden kullanıcının **adını**, **soyadını**, **e-posta adresini** ve **telefon numarasını** (isteğe bağlı) girin.
+
+2. **Sözleşme kabul tarihi** altında, uygun tarihi girin. Bunu gelecekteki bir tarihle ayarlayamazsınız.
+
+3. **Kaydet ve devam et**’i seçin. 
+
+## <a name="next-steps"></a>Sonraki adımlar
+
+- [Şirket profili bilgilerinizi doğrulama veya güncelleştirme](update-your-partner-profile.md)
+- [Microsoft Müşteri Sözleşmeleri (bölgeye, dile göre)](Agreements.md)

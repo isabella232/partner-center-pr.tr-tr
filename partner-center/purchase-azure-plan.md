@@ -9,18 +9,18 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 04d47cef596b2c0a0ae13ff3f087d4b1b5f0437c
-ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
+ms.openlocfilehash: 7645495e481010a92cc4f9cd95bf26f5e3783b70
+ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "98215909"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "105633837"
 ---
 # <a name="purchase-the-azure-plan-for-customers--access-the-latest-azure-services-at-pay-as-you-go-rates"></a>Kullandıkça Öde tarifesine en son Azure hizmetlerine erişmek & müşteriler için Azure planı satın alın
 
 **Uygun roller**
 - Genel yönetici
-- Kullanıcı yöneticisi
+- Kullanıcı Yönetimi Yöneticisi
 - Satış Aracısı
 
 Microsoft Müşteri Sözleşmesi kapsamında müşterileriniz için bir Azure planı satın aldığınızda, Kullandıkça Öde tarifesine en son Azure hizmetlerinin tam kataloğuna erişebilirsiniz. CSP iş ortakları, artık genel kullanıma sunulduğunda herhangi bir Azure hizmetine erişebiliyor. Bir iş ortağı, bir Azure planı kapsamında birden fazla Azure aboneliğine sahip olabilir. 
@@ -79,7 +79,7 @@ Azure ayırmaları etkin bir Azure planıyla ilişkilendirilmelidir. Müşteri a
 >Müşterinin zaten etkin bir Azure planı yoksa, şimdi bir tane eklemek için Azure ' ı seçin. Daha fazla yönerge için bkz. [Azure ayırmaları alma](azure-reservations-buying.md#purchase-azure-reservations).
 
 >[!Note]
->Bir ayırmanın kapsamı, şu anda Iş Ortağı Merkezi 'nde yalnızca **paylaşılan** olarak ayarlanabilir. Tek abonelik kapsamını seçmek veya paylaşılan ve tek bir alt İnceleme kapsamından güncelleştirmek için aşağıdaki yönergeleri kullanarak **Microsoft Azure yönetim portalı** ' na gidin. 
+>Bir ayırmanın kapsamı, şu anda Iş Ortağı Merkezi 'nde yalnızca **paylaşılan** olarak ayarlanabilir. Tek abonelik kapsamını seçmek veya paylaşılan sunucudan tek bir aboneliğe güncelleştirmek için aşağıdaki yönergeleri kullanarak **Microsoft Azure yönetim portalı** ' na gidin. 
 
 :::image type="content" source="images/azure/addprods1.png" alt-text="Paylaşılan kapsam ayırmaları ayarı":::
 

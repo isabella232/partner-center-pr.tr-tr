@@ -1,7 +1,7 @@
 ---
 title: Karşılaştırma dosyalarınızı kullanın
 ms.topic: article
-ms.date: 03/10/2021
+ms.date: 03/26/2021
 description: Iş Ortağı Merkezi 'nde mutabakat dosyaları ve belirli bir faturalandırma döngüsünün ücretlendirdiği ayrıntılı, satır öğesi görünümlerinin nasıl yorumlanacağı hakkında bilgi edinin.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e6b9e466402d71c988729052bd72ba2346a9d977
-ms.sourcegitcommit: 868f90c54f26a037eee29749c207a7316bb4b475
+ms.openlocfilehash: 4a6a1455304f12e364d71e666cbd548821f8be55
+ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "103022783"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "105633905"
 ---
 # <a name="learn-how-to-read-the-line-items-in-your-partner-center-reconciliation-files"></a>Iş Ortağı Merkezi mutabakatı dosyalarınızda satır öğelerini okumayı öğrenin
 
@@ -55,6 +55,27 @@ Mutabakat dosyalarınızda biçimlendirme sorunlarını gidermek için aşağıd
 ## <a name="download-reconciliation-files-programmatically"></a>Karşılaştırma dosyalarını programlı olarak indir
 
 Mutabakat dosyaları çok büyük olabilir ve bazen indirmek zordur. Karşılaştırma dosyalarını program aracılığıyla indirmek için bkz. [fatura satırı öğelerini Al](/partner-center/develop/get-invoiceline-items).
+
+## <a name="if-your-file-exceeds-the-row-limit-in-excel"></a>Dosyanız Excel 'deki satır sınırını aşarsa
+
+Bir mutabakat dosyasını indirebiliyor ancak Microsoft Excel 'de açmadıysanız, dosyada Excel 'In izin vermeyeceği daha fazla satır bulunduğu anlamına gelir. Bu durumda, dosyayı açmak için aşağıdaki yordamlardan birini kullanabilirsiniz.
+
+### <a name="open-a-recon-file-in-power-bi"></a>Power BI bir keşfi dosyası açın
+
+1. Mutabakat dosyasını normalde yaptığınız gibi indirin.
+2. Power BI örneğini indirin, yükleyin ve açın.
+3. Power BI **giriş** sekmesinde **veri al**' ı seçin.
+4. **Ortak veri kaynakları** listesinde **metin/CSV**' yi seçin.
+5. İstendiğinde, keşfi dosyanızı açın.
+
+### <a name="open-a-recon-file-in-an-excel-pivot-table"></a>Excel Pivot tablosunda bir keşfi dosyası açma
+
+1. Mutabakat dosyasını normalde yaptığınız gibi indirin.
+2. Microsoft Excel 'de yeni bir dosya açın.
+3. **Veri** sekmesinde **veri al**' ı seçin, dosyadan ' **ı SEÇIN ve** ardından **metin/CSV**' yi seçin.
+4. İstendiğinde, keşfi dosyanızı açın. Verileriniz görüntülenecektir.
+5. **Yük** açılır menüsünde, **Yükle**' yi ve ardından **Tamam**' ı seçin.
+6. **Verileri Içeri aktar** iletişim kutusunda Dosyanızı açmak Için **PivotTable raporu** ' nu seçin.
 
 ## <a name="map-taxes-or-vat"></a>Vergiler veya KDV 'yi eşleştirin
 

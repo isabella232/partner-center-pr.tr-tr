@@ -10,25 +10,27 @@ author: v-sumukh
 ms.author: v-sumukh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 754b3310918df9b38129cf1374ae3731d9d8062e
-ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
+ms.openlocfilehash: ad0c2f3ee7d130c49dea6ba354e6794e29fd9e9f
+ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "98215858"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "105633701"
 ---
 # <a name="install-and-preview-the-partner-center-analytics-app-for-microsoft-power-bi"></a>Microsoft Power BI için İş Ortağı Merkezi Analizi uygulamasını yükleme ve önizleme
 
 
 **Uygun roller**
--   Genel yönetici
--   Kullanıcı yöneticisi
--   Satış Aracısı
--   Yönetim Aracısı
+
+- Genel yönetici
+- Kullanıcı Yönetimi Yöneticisi
+- Satış Aracısı
+- Yönetim Aracısı
 
 ## <a name="before-you-begin"></a>Başlamadan önce
 
 Aşağıdaki kullanılabilir Power BI uygulamalar listesinden işletmeniz için en uygun uygulamayı seçin:
+
 - [Doğrudan sağlayıcı](https://appsource.microsoft.com/product/power-bi/partnercenteranalytics.direct_provider_partner_analytics)
 
 - [Dolaylı sağlayıcı](https://appsource.microsoft.com/product/power-bi/partnercenteranalytics.indirect_provider_partner_analytics)
@@ -49,25 +51,25 @@ Iş ortağı merkezi analizi uygulama Önizleme sürümünü yüklemeden önce, 
 
 ## <a name="to-install-the-app"></a>Uygulamayı yüklemek için
 
-1. Yukarıdaki bölümde verilen uygulama kaynağı bağlantısına (doğrudan sağlayıcı/dolaylı sağlayıcı/dolaylı satıcı) tıklayın.
+1. Yukarıdaki bölümde verilen uygulama kaynak bağlantısını (doğrudan sağlayıcı/dolaylı sağlayıcı/dolaylı satıcı) seçin.
 
-2. **Şimdi al**'a tıklayın. 
+2. **Şimdi al**' ı seçin. 
 
-3. **Devam**' a tıklayarak hüküm ve koşulları kabul edin.
+3. **Devam**' i seçerek hüküm ve koşulları kabul edin.
 
 4. Zaten bir hesabınız var mı? **oturum aç '** ı seçin.
 
-5. Sonraki sayfada, Power BI Kullanıcı adınızı ve parolanızı girip oturum aç ' ı seçin.
+5. Sonraki sayfada, Power BI Kullanıcı adınızı ve parolanızı girip **oturum aç '** ı seçin.
 
 6. Çalışma alanı adını sağlayarak çalışma alanını yükler.
 
 7. Uygulamalar bölümünde yüklü şablon uygulamalarını bulabilirsiniz.
 
-8. Uygulamalar ' a tıklayın ve yüklü uygulamaları seçin.
+8. **Uygulamalar** ' ı seçin ve yüklü uygulamaları seçin.
 
 9. Yeni uygulama ekranınızı açılarak kullanmaya başlayın.
 
-10. Verilere bağlanmak için **Bağlan**' a tıklayın.
+10. Verilere bağlanmak için **Bağlan**' ı seçin.
 
 11. **Iş Ortağı Merkezi Analytics** açılır penceresinde, **kimlik doğrulama yönteminin** **oAuth2** olarak ayarlandığını doğrulayın veya listede değilse listeden **oAuth2** ' yi seçin. 
 

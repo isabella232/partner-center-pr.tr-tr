@@ -9,19 +9,19 @@ author: hemas
 ms.author: hemas
 ms.localizationpriority: high
 ms.custom: SEOMAY.20, contperf-fy21q1
-ms.openlocfilehash: 964c0e6be3003c2b3c9da8828d6e896e2fff82f9
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: a6e6424dfb787bbe9510d47299f945309dd00528
+ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756455"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "105633922"
 ---
 # <a name="assign-users-roles-and-permissions-for-a-companys-users-needing-to-work-in-partner-center"></a>Şirket kullanıcılarının iş ortağı merkezi 'nde çalışması gereken kullanıcı rollerini ve izinlerini atama
 
 **Uygun roller**
 
 - Genel yönetici
-- Kullanıcı yöneticisi
+- Kullanıcı Yönetimi Yöneticisi
 - MPN iş ortağı Yöneticisi
 
 İş ortağı profilinizi, yasal ad ve adres, destek ayrıntıları, dosya vergi muafiyeti, banka bilgileri ve şirketinizin birincil ilgili kişisi dahil olmak üzere ayarlamış olursunuz. Sonraki adım: kullanıcılarınızın sizinle Iş Ortağı Merkezi 'nde çalışmaya başlayabilmesi için parolalar ve rollerle birlikte kurulumunu öğrenin.

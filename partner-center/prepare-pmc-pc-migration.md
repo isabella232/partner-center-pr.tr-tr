@@ -9,18 +9,19 @@ author: parthpandyamsft
 ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: be4250864bd07e555b0eb2079c28f3dfb4920805
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: b267f89ec1c7b27e87eaaf3d7b594ebbd0fd6942
+ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92531599"
+ms.lasthandoff: 03/27/2021
+ms.locfileid: "105633888"
 ---
 # <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>Iş ortağı üyelik merkezinden (PMC) Iş Ortağı Merkezi 'ne geçiş için hazırlanma
 
 **Uygun roller**
+
 - Genel yönetici
-- Kullanıcı yöneticisi
+- Kullanıcı Yönetimi Yöneticisi
 - Satış Aracısı
 - Yönetim Aracısı
 
@@ -120,7 +121,7 @@ Konuk kullanıcılara MPN Yöneticisi veya genel yönetici tarafından Visual St
 
 ### <a name="how-should-we-manage-our-mcp-associations-and-our-partner-university-access"></a>MCP ilişkilerimizi ve Iş ortağı Üniversitesi erişimimizi nasıl yönetmeniz gerekir?
 
-MCP ilişkilerinizden geçiş yapan hiçbir değişiklik yok. Ancak, Iş Ortağı Merkezi 'ne taşıdıktan sonra gelen yeni çalışanların Iş Ortağı Merkezi ile ilişkilendirilmesi gerekir. Mevcut kullanıcılar için tüm Iş ortağı Üniversitesi izinleriniz kalacak, ancak Iş ortağı University 'e nasıl erişecaklarına ilişkin bilgiler için yeni çalışanların [eğitim merkezine](https://partner.microsoft.com/training) gitmesi gerekir.
+MCP ilişkilerinizden geçiş yapan hiçbir değişiklik yok. Bununla birlikte, Iş Ortağı Merkezi 'ne taşıdıktan sonra gelen yeni çalışanların Iş Ortağı Merkezi ile ilişkilendirilmesi gerekir. Mevcut kullanıcılar için tüm Iş ortağı Üniversitesi izinleriniz kalacak, ancak Iş ortağı University 'e nasıl erişecaklarına ilişkin bilgiler için yeni çalışanların [eğitim merkezine](https://partner.microsoft.com/training) gitmesi gerekir.
 
 ### <a name="how-do-i-view-mcp-information-once-i-move-to-partner-center"></a>Iş Ortağı Merkezi 'ne taşıdıktan sonra MCP bilgilerini Nasıl yaparım? görüntüleyin mi?
 
@@ -158,7 +159,7 @@ Teşvikleri yalnızca konum düzeyinde ödemiştir.
 
 ### <a name="how-will-referrals-be-assigned-what-changes-can-i-expect-for-example-if-i-have-a-global-company-in-one-market-and-locations-in-other-markets-how-will-referrals-be-assigned"></a>Başvurular nasıl atanacaktır, hangi değişiklikleri beklemeliyim? Örneğin, bir Pazar ve diğer pazarlardaki konumlarda küresel bir şirketiniz varsa, nasıl başvuru atanır?
 
-Başvurular, müşterinin tanımladığı arama parametrelerine göre atanır. Bir konumunuz veya çok fazla olsun, müşteriler istenen bir konum belirtiyorsa ve diğer parametreleri karşılayan bir işinize sahipseniz, başvuru o konuma gider.
+Başvurular, müşterinin tanımladığı arama parametrelerine göre atanır. Bir veya daha çok bir konuma sahip olup olmadığına bakılmaksızın, müşteri istenen bir konum belirtiyorsa ve diğer parametreleri karşılayan bir işletmeniz varsa, başvuru o konuma gider.
 
 ### <a name="i-am-migrating-to-partner-center-from-within-russia-i-get-an-error-message-about-web-direct-how-do-i-continue-with-the-migration"></a>Rusya içinden Iş Ortağı Merkezi 'ne geçirdim. Web Direct hakkında bir hata iletisi alıyorum. Nasıl yaparım? geçişe devam edilsin mi?
 
