@@ -167,13 +167,9 @@
     - name: CSP bölgesel yetkilendirme kiracı birleştirme yönergeleri
       href: csp-regional-authorization-tenant-consolidation.md
       displayName: 'regio, region, csp'
-    - name: Microsoft Müşteri Sözleşmesi'nin kabul edildiğini onaylama yöntemini güncelleştirme
-      href: confirm-consent.md
-    - name: Microsoft Müşteri Sözleşmesi'nin kabul edildiğini onaylama
+    - name: Microsoft Müşteri sözleşmesinin müşteri kabulünü onaylama
       href: confirm-customer-agreement.md
-      displayName: csp
-    - name: Müşteri adına Müşteri Sözleşmesi'nin kabul edildiğini onaylama zamanı
-      href: attest-acceptance-customer-agreement.md
+      displayName: 'csp, agreement'
     - name: Ulusal bulutlarda satış için başvurma
       href: csp-national-clouds-overview.md
       items:
