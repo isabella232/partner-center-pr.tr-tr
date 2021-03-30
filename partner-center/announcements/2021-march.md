@@ -9,16 +9,59 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 03/24/2021
-ms.openlocfilehash: 8b9b034a7241bba5de54b28edb64c961a05a8f64
-ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
+ms.openlocfilehash: e2e40807ddeb7fc3aa0fcfb20f34eb71d0a9e118
+ms.sourcegitcommit: dd51744a4af3797493a5ebbfc766dab86ff00477
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/25/2021
-ms.locfileid: "105549082"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "105730102"
 ---
 # <a name="march-2021-announcements"></a>Mart 2021 duyuruları
 
 Bu sayfada Mart 2021 için Microsoft Iş Ortağı Merkezi duyuruları sağlanmaktadır.
+
+________________
+## <a name="new-exchange-admin-center-eac-experience"></a><a name="17"></a>Yeni Exchange Yönetim Merkezi (EAC) deneyimi
+
+### <a name="categories"></a>Kategoriler
+
+- Tarih: 2021-03-29
+- Özellikler
+
+### <a name="summary"></a>Özet
+
+27 Nisan 2021 ' den itibaren, Exchange Yönetim Merkezi (EAC), kullanıcılar için günlük verimliliği artıran yeni bir deneyim çıkarır.
+
+### <a name="impacted-audience"></a>Etkilenen hedef kitle
+
+Iş Ortağı Merkezi aracılığıyla Exchange 'e erişen yönetici temsilcileri
+
+### <a name="details"></a>Ayrıntılar
+
+27 Nisan 2021 ' den itibaren, Iş Ortağı Merkezi aracılığıyla Exchange 'e gitten iş ortakları yeni EAC 'ya yönlendirilir.
+
+Bu yeni deneyim Şu anda önizleme olarak sunulmaktadır ve Yöneticiler, klasik EAC içinde sağ üst köşedeki geçişi seçerek bu deneyimi etkinleştirebilir. Ayrıca, tüm sayfalarda görüntülenen "Şimdi deneyin" başlığını seçerek yeni duyak 'e gidebilir.
+
+Yeni EAC 'nin avantajları şunlardır:
+
+- Posta akışı ile ilgili sorunlar için Öngörüler, raporlar ve uyarı mekanizmaları eklendi. 
+
+- Üretkenliği artırmak için kişiselleştirilmiş panolar.
+
+Yeni deneyimin içinde gezinmenize yardımcı olmak için, yeni EAC deneyiminde **eğitim & Kılavuzu** bölümünde videolar bulunur. Bu, size yeni portalı en iyi şekilde nasıl kullanabileceğinizi gösteren bir genel bakış sunar.
+
+>[!NOTE]
+>Bu değişiklik ile klasik EAC deneyimi kullanım dışı olmayacaktır. Herhangi bir değişiklik uygulanmadan önce iyi bir bildirim alırsınız.
+
+### <a name="next-steps"></a>Sonraki adımlar
+
+- Yeni deneyimin ekran görüntülerini görüntüleyebileceğiniz [Bu konuyla ilgili kaynaklara](https://partner.microsoft.com/resources/collection/new-exchange-admin-center-experience#/)göz atın.
+
+- Bu bilgileri, kuruluşunuzdaki uygun paydaşlarla paylaşabilirsiniz. 
+
+### <a name="questions"></a>Sorularınız mı var?
+
+Bu değişiklikler hakkında herhangi bir soru için ilgili Yammer topluluklarınızı kontrol edin.
 
 ________________
 ## <a name="microsoft-operations-introducing-the-product-launch-calendar"></a><a name="16"></a>Microsoft Işlemleri: ürün başlatma takvimini tanıtma

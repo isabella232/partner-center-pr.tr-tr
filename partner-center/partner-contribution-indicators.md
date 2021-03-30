@@ -1,7 +1,7 @@
 ---
 title: İş ortağı katkı göstergeleri-CBA
 ms.topic: article
-ms.date: 03/11/2021
+ms.date: 03/26/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Bir gümüş veya altın bulut Business Applications uzmanlığına nasıl ulaşmak gerektiğini gösteren yedi Iş ortağı katkı göstergeleri (PCI) hakkında bilgi edinin.
@@ -9,12 +9,12 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b9a70d723c3b12bfcf279f63da3ab22f8a8d1601
-ms.sourcegitcommit: ddb9ad42d7bd8fb433d86f84a839f793a42600dd
+ms.openlocfilehash: 8c050a14e258675369d8ff847c806192f44c7509
+ms.sourcegitcommit: dd51744a4af3797493a5ebbfc766dab86ff00477
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "103193656"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "105730272"
 ---
 # <a name="use-partner-contribution-indicators-to-attain-the-cloud-business-applications-competency"></a>Bulut Business Applications uzmanlığına ulaşmak için Iş ortağı katkı göstergelerini kullanın
 
@@ -25,6 +25,8 @@ ms.locfileid: "103193656"
 - Hesap yöneticisi
 
 Bu makalede, bir iş ortağının gümüş veya altın bir bulut Business Applications uzmanlığına yönelik ilerleme durumunu değerlendirmek için kullanılan yedi anahtar ortağı katkı göstergeleri (PCI) açıklanmaktadır.
+
+Iş ortağı katkısı panosunda PCI ilerleme durumunu görebilirsiniz. Veriler, önceki ayın verileriyle birlikte her ayın 20 ' gününde güncelleştirilir. Örneğin, Şubat verileri 20 Mart tarihinde yayımlanacak.
 
 > [!NOTE]
 > İş ortaklarının, bulut Business Applications SMB seçeneği aracılığıyla gümüş veya altın küçük ve orta Pazar bulut çözümlerini uzmanlığına ulaşmak için farklı bir Iş ortağı katkı göstergesi ölçümleri kullanmasını nasıl sağlayabileceğinizi öğrenin. Daha fazla bilgi için bkz. [küçük ve orta ölçekli pazar Için Iş ortağı katkı göstergelerini kullanma uzmanlığına](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md)bakın. Ayrıca, Uzmanlıklar ve gereksinimleri hakkında [daha fazla](https://partner.microsoft.com/membership/competencies) bilgi edinebilirsiniz.
@@ -109,6 +111,20 @@ Aşağıdaki görüntüde hızlı ve görsel bir başvuru sunulmaktadır.
 
 Her PCI ölçüsünün, şirketinizin en büyük noktalarını kazanabileceğiniz Microsoft tarafından ayarlanan eşikleri vardır. Bu eşikler, bulut Business Applications uzmanlığına ulaşmak için kullanılan müşteri katılımı ve finans ve Işlemler yolları için farklılık gösterir. Eşikler Ayrıca, yalnızca pazarların geliştirilmesi sırasında çalışan, geliştirilmiş pazarlar ve iş ortaklarıyla çalışan iş ortakları için de farklılık gösterir Bir ülkenin **geliştirilmiş** veya **geliştirme** Pazar kategorisi [Microsoft iş ortağı ağı tanımlarına](https://assetsprod.microsoft.com/mpn/mpn-developed-and-developing-countries.pdf)göre belirlenir.
 
+4 ölçümlerin iş ortağının iş olduğu konuma göre ölçüleceğini ve MPN konumunun kayıtlı olduğunu unutmayın. Bu, geliştirilmiş bir pazardan müşteriler içeren bir geliştirme pazarında kayıtlı bir ortağın, geliştirilmiş ülkelerin PCI Puanını karşılaması gerektiği anlamına gelir.
+
+Aşağıdaki tabloda, ölçüm tarafından hangi konumun uygulandığı gösterilmektedir.
+
+| Ölçüm adı | Konum |
+|:-------|:--------|
+| NET yeni gelir | Müşteri konumu |
+| NET müşteri ekleme | Müşteri konumu |
+| İşlevsel danışman | İş ortağı konumu |
+| Geliştirici | İş ortağı konumu |
+| İşlevsel danışman büyümesi | İş ortağı konumu |
+| MAU büyümesi | Müşteri konumu |
+| Yeni büyük dağıtımlar | Müşteri konumu |
+
 Her ölçüm içindeki noktaların, müşteri katılımı ve finans ve Işlemler için ayrı bir PCI puanı sağlamak üzere tasarlanmıştır. Bu puan aylık olarak güncelleştirilir.
 
 İş ortakları, aşağıda belirtilen eşikleri karşılıyorsa veya aşarsa, belirli bir ölçüm için en yüksek puan kazanılayabilir. Kısmi noktaları, Işlevsel danışman büyümesi hariç tüm ölçümler için kazanılmalıdır.
@@ -160,7 +176,7 @@ Bir iş ortağı, Dynamics 365 Online Services Advisor (OSA) teşvik veya Dynami
 İş ortağı DPOR, ürün içindeki abonelik düzeyinde bir müşteriyle ilişki kurduklarında olur.
 
 > [!NOTE]
-> Belirli bir müşteri aboneliği için hem CPOR hem de DPOR olduğunda, bu abonelikle ilişkili ilgili PCI ölçümleri için CPOR kredisi alınır. İlişki OSA aracılığıyla olduysa, CPOR net yeni gelir ve net müşteri eklemeleri için kredi alır. İlişki OSU aracılığıyla olduysa, CPOR Yeni dağıtımlar için krediyi ve aylık etkin kullanıcı büyümesini alır.
+> Belirli bir müşteri aboneliği için hem CPOR hem de DPOR olduğunda, bu abonelikle ilişkili ilgili PCI ölçümleri için CPOR kredisi alınır. İlişki OSA (gelir talebi) ile olduysa, CPOR net yeni gelir ve net müşteri eklemeleri için kredi alır. İlişki OSU (kullanım talebi) ile oluşturulmuşsa, CPOR Yeni dağıtımlar ve aylık etkin kullanıcı büyümesi için kredi alır. Satış öncesi talepler PCI için uygun değildir.
 
 ## <a name="detailed-pci-metrics-definitions-for-this-competency"></a>Bu uzmanlığa yönelik ayrıntılı PCI ölçümleri tanımları
 
@@ -324,9 +340,10 @@ Yeni büyük dağıtımlar bir [müşteri başarısı göstergesidir](partner-co
   
   (Geliştirilmiş ve gelişen pazarlar hakkında ayrıntılar için, bu [Microsoft iş ortağı ağı tanımlarına](https://assetsprod.microsoft.com/mpn/mpn-developed-and-developing-countries.pdf)bakın.)
 
-- Kiracı, şu durumlarda aylık etkin kullanıcı eşiğini aşan bir kiracıya göz önünde bulundurulmalıdır: 
+- Kiracı, şu durumlarda aylık etkin kullanıcı eşiğini aşan bir kiracıya göz önünde bulundurulmalıdır:
 
-  - 12 ay önce belirtilen eşiğin altında *ve*
+  - 12 ay önce belirtilen eşiğin altında **ve**
+
   - Sonraki 11 ay içinde en az bir kez eşik değeri geçti.
 
 - Aylık etkin kullanıcılar, kiracı düzeyinde sayılır ve yalnızca kiracı kapsamındaki ücretli abonelikler arasında toplanır.

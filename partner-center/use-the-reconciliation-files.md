@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4a6a1455304f12e364d71e666cbd548821f8be55
-ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
+ms.openlocfilehash: aefd5258c778fd8a7b92bfe49f245bf818497fb8
+ms.sourcegitcommit: dd51744a4af3797493a5ebbfc766dab86ff00477
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/27/2021
-ms.locfileid: "105633905"
+ms.lasthandoff: 03/29/2021
+ms.locfileid: "105730101"
 ---
 # <a name="learn-how-to-read-the-line-items-in-your-partner-center-reconciliation-files"></a>Iş Ortağı Merkezi mutabakatı dosyalarınızda satır öğelerini okumayı öğrenin
 
@@ -77,6 +77,15 @@ Bir mutabakat dosyasını indirebiliyor ancak Microsoft Excel 'de açmadıysanı
 5. **Yük** açılır menüsünde, **Yükle**' yi ve ardından **Tamam**' ı seçin.
 6. **Verileri Içeri aktar** iletişim kutusunda Dosyanızı açmak Için **PivotTable raporu** ' nu seçin.
 
+## <a name="negative-amount-displayed"></a>Negatif miktar görüntülendi
+
+Mutabakat dosyanızda negatif bir miktar görebilirsiniz. Bunun nedeni aşağıdakilerden biri olabilir:
+
+- Son zamanlarda lisans numaranızı iptal etmiş veya azalttı
+- Bir hizmet Lisans Sözleşmesi (SLA) ya da Azure tüketimi için kredi aldınız
+
+Bu işlem hakkında daha fazla bilgi edinmek için mutabakat dosyanızdaki ücret türü özniteliğini gözden geçirin.
+
 ## <a name="map-taxes-or-vat"></a>Vergiler veya KDV 'yi eşleştirin
 
 Vergiler veya katma değer vergi (KDV) faturanızı eşlemek için:
@@ -88,7 +97,7 @@ Vergiler veya katma değer vergi (KDV) faturanızı eşlemek için:
 
 **Dolaylı modeldeki** iş ortakları, bu ek alanları hem lisans tabanlı hem de kullanım tabanlı mutabakat dosyalarında kullanarak dosyaları satıcıya göre silebilirsiniz.
 
-| MPN Kimliği | Description |
+| MPN Kimliği | Açıklama |
 | ------ | ----------- |
 | MPN Kimliği | Bulut çözümü sağlayıcısı (CSP) ortağının (doğrudan veya dolaylı) Microsoft İş Ortağı Ağı (MPN) tanımlayıcısı. |
 | [Satıcı MPN KIMLIĞI](#reseller-mpn-id) | [Abonelik için kayıt satıcısının MPN tanımlayıcısı](#reseller-mpn-id). Bu alan, Iş Ortağı Merkezi 'nde belirli bir abonelik için listelenen satıcı KIMLIĞINE karşılık gelir. Yalnızca dolaylı modeldeki iş ortakları için mutabakat dosyaları üzerinde görüntülenir. |
