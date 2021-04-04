@@ -1,5 +1,5 @@
 ---
-title: Microsoft Bulut Almanya için iş ortağı Merkezi
+title: Microsoft Bulut Almanya için İş Ortağı Merkezi
 ms.topic: article
 ms.date: 10/12/2020
 ms.service: partner-dashboard
@@ -9,23 +9,23 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 606806f3796796873c37f6dfcac35e5993efe575
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: f36d7c0e99600d9de63d4e6377a2b3688a043885
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92531998"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086524"
 ---
 # <a name="partner-center-for-microsoft-cloud-germany-for-partners-selling-to-customers-in-eu--efta-countries"></a>AB & EFTA ülkelerinde müşterilere satış yapan iş ortakları için Microsoft Bulut Almanya iş ortağı Merkezi
 
-**Uygulama hedefi**
+**Şunlara uygulanır**
 
--  Microsoft Bulut Almanya için iş ortağı Merkezi
+- Microsoft Bulut Almanya için İş Ortağı Merkezi
 
 **Uygun roller**
 
 - Genel yönetici
-- Kullanıcı yöneticisi
+- Kullanıcı Yönetimi Yöneticisi
 - Yönetim Aracısı
 - Satış Aracısı
 - Faturalama yöneticisi
@@ -41,7 +41,7 @@ Almanya Microsoft Bulut, Almanya 'daki veri merkezlerinden alınan ayrı bir [Mi
 
 ## <a name="migrate-customers-from-microsoft-cloud-germany-to-another-european-region"></a>Microsoft Bulut Almanya 'dan başka Avrupa bölgesine müşteri geçirme
 
-Bir müşteri aboneliğini Microsoft Bulut Almanya 'dan başka Avrupa bölgesine geçirebilmeniz için önce o bölgede bulunan mevcut bir CSP hesabınız olması ve etkin olması gerekir. Bir tane yoksa, Iş Ortağı Merkezi 'nde CSP hesabı seçimi sırasında bir tane oluşturmanız istenir. Yeni hesabı oluşturduktan sonra, müşterileriniz seçili kiracı ile ilişkilendirilir.
+Bir müşteri aboneliğini Microsoft Bulut Almanya 'dan başka Avrupa bölgesine geçirebilmeniz için önce bu bölgede bulunan mevcut bir bulut çözümü sağlayıcısı (CSP) hesabınız olması ve etkin olması gerekir. Bir tane yoksa, Iş Ortağı Merkezi 'nde CSP hesabı seçimi sırasında bir tane oluşturmanız istenir. Yeni hesabı oluşturduktan sonra, müşterileriniz seçili kiracı ile ilişkilendirilir.
 
 ### <a name="you-already-have-a-csp-account"></a>Zaten bir CSP hesabınız var
 
@@ -49,11 +49,11 @@ Bir müşteri aboneliğini Microsoft Bulut Almanya 'dan başka Avrupa bölgesine
 
 1. Soldaki menüden CSP genel bakış sayfasına gidin.
  
-1. İstendiğinde, **Avrupa bölgesinde zaten bir kiracıya sahip olduğumu** seçip **İleri** ' yi seçin. Yeni kiracıda oturum açmanız istenir. 
+1. İstendiğinde, **Avrupa bölgesinde zaten bir kiracıya sahip olduğumu** seçip **İleri**' yi seçin. Yeni kiracıda oturum açmanız istenir. 
 
 1. Kiracıda genel yönetici olarak oturum açın.
  
-1. Onay sayfasındaki bilgileri gözden geçirin ve ardından **Onayla** ' yı seçin.
+1. Onay sayfasındaki bilgileri gözden geçirin ve ardından **Onayla**' yı seçin.
  
 6.  Başarılı olursa daha fazla bilgi için **Ayrıntıları görüntüle** veya **panoyu görüntüle** ' yi seçmeniz istenir. 
 
@@ -72,8 +72,8 @@ Bir müşteri aboneliğini Microsoft Bulut Almanya 'dan başka Avrupa bölgesine
 1. CSP Microsoft Bulut Almanya kiracısında genel yönetici olarak oturum açın.
 
 1. Soldaki menüdeki CSP 'ye Genel Bakış sayfasına gidin.
-. 
-1. İstendiğinde, **Avrupa bölgesinde bir kiracım** yok ' u seçin ve ardından **Yeni hesap oluştur** ' u seçin. 
+ 
+1. İstendiğinde, **Avrupa bölgesinde bir kiracım** yok ' u seçin ve ardından **Yeni hesap oluştur**' u seçin. 
  
 1. Avrupa bölgesinde yeni bir kiracı ve CSP hesabı oluşturabileceğiniz Iş ortağı merkezi kayıt sayfasına yönlendirilirsiniz.
   

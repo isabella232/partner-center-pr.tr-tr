@@ -8,20 +8,24 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 03/22/2021
-ms.openlocfilehash: 0020a43bd17e42bdfc13ab6745a65f63637c702b
-ms.sourcegitcommit: dd51744a4af3797493a5ebbfc766dab86ff00477
+ms.date: 04/01/2021
+ms.openlocfilehash: a345ae94c5765231ac69e703941770855a1df878
+ms.sourcegitcommit: 60bbb8f4056120264b769f94431f84d86984c2e9
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "105730096"
+ms.lasthandoff: 04/03/2021
+ms.locfileid: "106280862"
 ---
 # <a name="partner-center-announcements"></a>İş Ortağı Merkezi duyuruları
 
 Önemli İş Ortağı Merkezi güncelleştirmeleri hakkında bilgi edinin. Bu bilgileri sık sık güncelleştirdiğimizden burayı sık sık kontrol edin!
 
-|**Kategori**|**Mart 2021 duyuruları**|**Duyurulan**|
+|**Kategori**|**Nisan 2021 duyuruları**|**Duyurulan**|
 |---------|:---------|:---------|
+|Özellikler|[Bulut Çözümü Sağlayıcısı (CSP) müşteri ekleme gereksinimlerinde yapılan değişiklikler](2021-april.md#2)|2 Nisan|
+|Özellikler|[Bu aya ait ürünün başlatılan ve tekliflerini görüntüleyin](2021-april.md#1)|1 Nisan|
+|**Kategori**|**Mart 2021 duyuruları**|**Duyurulan**|
+|Özellikler|[Güncelleştirilmiş CSP müşteri adresi doğrulama API 'SI artık test için kullanılabilir](2021-march.md#18)|31 Mart|
 |Teklifler/modern çalışma alanı|[Yeni Exchange Yönetim Merkezi (EAC) deneyimi](2021-march.md#17)|29 Mart|
 |Teklifler/modern çalışma alanı|[Microsoft Işlemleri: ürün başlatma takvimini tanıtma](2021-march.md#16)|25 Mart|
 |Özellikler|[CSP müşteri ekleme gereksinimlerinde yapılan değişiklikler](2021-march.md#15)|25 Mart|

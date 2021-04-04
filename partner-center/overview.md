@@ -8,18 +8,18 @@ description: İş ortağı merkezini Microsoft ve müşterilerinizle Transact Bu
 author: laurabrenner
 ms.author: labrenne
 ms.localizationpriority: high
-ms.openlocfilehash: 3b5627e9ade9a1e7fd8b5576ed8fd80202b974eb
-ms.sourcegitcommit: c4bae49f6c303f0b77a404a0441c2440e7cb112b
+ms.openlocfilehash: 992e02e2ae27e4cf03071e114de22f42f11f7601
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/16/2021
-ms.locfileid: "103582657"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132256"
 ---
 # <a name="what-is-partner-center"></a>İş Ortağı Merkezi nedir?
 
-##### <a name="appropriate-roles"></a>Uygun roller
+**Uygun roller**
 
-- Iş Ortağı Merkezi ile ilgilenen tüm Iş ortakları
+- Iş Ortağı Merkezi ile ilgilenen tüm iş ortakları
 
 İş [Ortağı Merkezi](https://partner.microsoft.com/dashboard/home) , Microsoft Iş ortaklarının Microsoft ve müşterileri ile ilişkilerini yönetmesini kolaylaştırmak için çeşitli iş süreçlerini kolaylaştırmaktadır. İş Ortağı Merkezi, işlerinizi yapmak için gereken araçlara kolayca erişmenizi sağlar. Iş Ortağı Merkezi 'ni şu şekilde kullanın:
 
@@ -53,7 +53,7 @@ Iş Ortağı Merkezi 'nde, uzmanlıklarla ilgili yetenekler geliştirme ve geli�
 
 ## <a name="co-sell-with-microsoft-and-other-partners"></a>Microsoft ve diğer iş ortaklarıyla ortak satış
 
-Ortak satış, iş ortaklarının Microsoft ve diğer iş ortaklarıyla birlikte ortaklaşa, daha iyi bir şekilde satış ve olumlu müşteri sonuçları ile birlikte birleştiribilecekleri bir yoldur. Ortak satış, dünya çapındaki yeni müşterilere ulaşmak için Microsoft Global Marka, satış ekipleri, talep oluşturma özellikleri ve ticari Market 'ten yararlanmanızı sağlar. Hem diğer iş ortaklarıyla hem de bizimle Satım. [Ortak satış fırsatlarını yönetme](manage-co-sell-opportunities.md)hakkında daha fazla bilgi edinin.
+Ortak satış, iş ortaklarının Microsoft ve diğer iş ortaklarıyla birlikte ortaklaşa, daha iyi bir şekilde satış ve olumlu müşteri sonuçları ile birlikte birleştiribilecekleri bir yoldur. Ortak satış, dünya çapındaki yeni müşterilere ulaşmak için Microsoft Global Marka, satış ekipleri, talep oluşturma yeteneklerini ve ticari Market 'i kullanmanıza imkan sağlar. Hem diğer iş ortaklarıyla hem de bizimle Satım. [Ortak satış fırsatlarını yönetme](manage-co-sell-opportunities.md)hakkında daha fazla bilgi edinin.
 
 ## <a name="manage-customer-software-needs"></a>Müşteri yazılımı ihtiyaçlarını yönetme
 

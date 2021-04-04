@@ -1,5 +1,5 @@
 ---
-title: Ödeme dışı, sahtekarlık veya kötüye kullanımı yönetme
+title: Ödeme yapılmaması, sahtekarlık veya suistimal durumlarını yönetme
 description: Iş Ortağı Merkezi 'nde bu riskleri yönetmek ve azaltmak için çevrimiçi işlemlere ve en iyi yöntemlere dahil olan çeşitli riskler hakkında bilgi edinin.
 ms.topic: article
 ms.service: partner-dashboard
@@ -9,27 +9,27 @@ ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 07/14/2020
-ms.openlocfilehash: 43a35f91be9ce656157065a3d19b3643ddeff68a
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 75881544097abdfac8d6f96bde37e9700eb28cf7
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92531542"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132358"
 ---
 # <a name="managing-non-payment-fraud-or-misuse-in-partner-center"></a>Ödeme alınamaması, dolandırıcılık veya kötüye kullanım durumlarını İş Ortağı Merkezi’nde yönetme
 
 Aşağıdakiler cihazlar için geçerlidir:
 
-- İş Ortağı Merkezi
-- ABD kamu için Microsoft Bulut iş ortağı Merkezi
+- Microsoft kamu bulutu için iş ortağı Merkezi
 
 **Uygun roller**
+
 - Genel yönetici
-- Kullanıcı yöneticisi
+- Kullanıcı Yönetimi Yöneticisi
 - Yönetim Aracısı
 - Faturalama yöneticisi
 
-Müşterileriniz ve/veya müşterilerin satın alınan hizmetlerin ödemesinden sorumlu satın alma işlemleri için mali olarak sorumlusunuz. Bu nedenle, *sahte önleme ve algılama riski azaltma denetimlerini yerleştirmenizi öneririz* .
+Müşterileriniz ve/veya müşterilerin satın alınan hizmetlerin ödemesinden sorumlu satın alma işlemleri için mali olarak sorumlusunuz. Bu nedenle, *sahte önleme ve algılama riski azaltma denetimlerini yerleştirmenizi öneririz*.
 
 Sahte etkinlik veya kötüye kullanımı önlemek için, olası riskleri anlamak ve pozlandırmayı azaltabileceğiniz ilke ve uygulamalar geliştirmek önemlidir.
 

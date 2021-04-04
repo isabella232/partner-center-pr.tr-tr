@@ -8,13 +8,13 @@ ms.author: amrava
 ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.date: 07/08/2020
-ms.openlocfilehash: 45a088129d09395abf355efde08c772744b98672
-ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
+ms.date: 03/31/2021
+ms.openlocfilehash: 3f84026cc6402bea71837b06a5e330f2c879a06b
+ms.sourcegitcommit: 766b2bb46dffd29e532b42106359f83e51b96700
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96474096"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106103800"
 ---
 # <a name="analyze-subscriptions-and-licenses-to-help-you-drive-business-decisions-and-new-goals"></a>İş kararlarını ve yeni hedefleri sağlamanıza yardımcı olması için abonelikleri ve lisansları çözümleyin
 
@@ -28,6 +28,10 @@ ms.locfileid: "96474096"
 Veri sürücüleri iş kararları. Daha fazla ilgilenilmesi gereken başarıları ve alanlarınızı belirlemek için **abonelik ve lisans Analizi** sayfasındaki ölçümleri kullanın. Yeni iş hedeflerini planlarken bu bilgileri kullanın.
 
 **CSP TTM geliri (USD)**: Bu ölçüm, bu CSP hesabının Ilişkilendirildiği ortak konum hesapları ve Iş ortağı genel hesabı (PGA) için son on iki ay (TTM) IÇIN toplanmış CSP faturalanan GELIRI (USD) temsil eder. Farklı bir PGA içeren başka CSP hesaplarınız varsa, ilgili toplanmış TTı gelirini görüntülemek için bunların her birinde oturum açmanız gerekir.  MPN KIMLIĞI başına TTM gelirinin (USD) dökümünü almak için ayrıntıları indir bağlantısına tıklayın.
+
+>[!NOTE]
+>Ticari olarak yerel para birimi fiyatları (eski ticaret FX), ABD Doları +/-5 ' in içinde ile yönetilir. Eski ticari döviz kuru (FX), Azure tarafından modern ticaret deneyiminde kullanılan faturalandırma FX tariflerinden farklıdır. Modern ticaret faturalandırma FX ücretleri, Microsoft P&L tarifelerinin yanı sıra (Hazine akışından oluşan FX ücretleri) temel alır. Eski ticaret FX ücretleri Microsoft gizli.
+
 
 Raporun geri kalanı aşağıdaki ürünlere göre Özet olabilir:
 
@@ -82,6 +86,8 @@ Aşağıdaki ölçümleri izliyoruz:
 **30 gün içinde biten deneme abonelikleri**  
 
  - Bitiş tarihi 30 gün içinde olan ve abonelikle ilişkili ücretli başlangıç tarihi olmayan, başlatılan denemelerin listesi  
+
+
 
 ## <a name="next-steps"></a>Sonraki adımlar
 

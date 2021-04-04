@@ -9,18 +9,18 @@ author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a60d83a79151d90ff98ead8d5be00c259a9cf4b3
-ms.sourcegitcommit: 673c467aa8ef4e02ff24fbc3e7d4f904316141e4
+ms.openlocfilehash: 40b2867695a7692cb863a00062101c2b5521c657
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/23/2021
-ms.locfileid: "104924274"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132409"
 ---
 # <a name="how-to-create-a-partner-logo-certified-letter-or-award-using-logo-builder"></a>Logo Oluşturucu kullanarak iş ortağı logosu, sertifikalı mektup veya ödül oluşturma
 
 **Uygun roller**
 
-- Logo Oluşturucu hakkında daha fazla bilgi edinmek isteyen tüm Iş Ortağı Merkezi kullanıcıları
+- Logo Oluşturucu hakkında daha fazla bilgi edinmek isteyen tüm iş ortakları
 
 Gümüş veya altın bir uzmanlığa erişme değeri, müşterilerle farklılaştırmanıza yönelik bir fırsattır. İş Ortağı Merkezi 'nde satış ve pazarlama malzemeleriniz ve iş profiliniz için kullanabileceğiniz bir logo, kullanıma sunulan uzmanlığa veya uzmanlığa sahip olduğunuz uzmanlık avantajlarına dahil edilmiştir. 
 
@@ -28,7 +28,7 @@ Azure Expert MSP programına kabul edildiyse, yıl ödülü 'nin bir ortağını
 
 ## <a name="what-is-available-in-logo-builder"></a>Logo Oluşturucu 'da neler mevcuttur
 
-Logo Oluşturucu 'da şirketiniz için kullanılabilir olan özellikler Microsoft İş Ortağı Ağı (MPN) üyeliğinizdeki ile hizalanır. MPN üyeliğinizdeki bir değişikliğin, yeni bir uzmanlığa sahip olma gibi, yansıtılmasına kadar 24 saate kadar sürer.  
+Logo Oluşturucu 'da şirketinizin kullanabildiği Amblemler Microsoft İş Ortağı Ağı (MPN) üyeliğinizdeki olarak hizalanır. MPN üyeliğinizdeki bir değişikliğin, yeni bir uzmanlığa sahip olma gibi, yansıtılmasına kadar 24 saate kadar sürer.
 
 Logo Oluşturucu 'da oluşturabileceğiniz varlıklar şunları içerir:
 

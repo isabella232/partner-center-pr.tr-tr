@@ -4,27 +4,28 @@ ms.topic: article
 ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Müşterileriniz için satmanız veya yönetmeniz gereken Azure aboneliklerinin kullanımı hakkında daha fazla bilgi alabilirsiniz.
+description: Müşterilerinizin sattığı ve yönettiğiniz Azure aboneliklerinin kullanımını iyileştirebileceğinizi görün.
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 932fdc0efa2b28f5c57f81b33eac166dc5f4eda8
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: ef72aa2e44797c906cdd0a216cf2d8355668c0a9
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "92531319"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086218"
 ---
 # <a name="azure-usage-report-available-from-the-partner-center-insights-dashboard"></a>Azure kullanım raporu Iş Ortağı Merkezi Öngörüler panosu 'nda kullanılabilir
 
 **Uygun roller**
+
 - Genel yönetici
 - Yönetim Aracısı
 - Rapor Görüntüleyicisi
 - Executive rapor Görüntüleyicisi
 
-Azure kullanım raporu, müşterilerinizin Azure abonelikleri ile ilgili ölçümleri gösterir. Bu, Azure tüketim gelirini ve ölçüm kategorilerine göre kullanımını içerir. Azure kullanım raporundan aşağıdaki bölümleri görüntüleyebilirsiniz.
+Azure kullanım raporu, müşterilerinizin Azure abonelikleri ile ilgili ölçümleri gösterir. Bu rapor, Azure tüketim gelirini ve ölçüm kategorilerine göre kullanımı içerir. Azure kullanım raporundan aşağıdaki bölümleri görüntüleyebilirsiniz.
 
 - Özet
 - Coğrafya tarafından Azure kullanımı
@@ -37,9 +38,10 @@ Azure kullanım raporu, müşterilerinizin Azure abonelikleri ile ilgili ölçü
 
 Özet bölümü, müşterileriniz için sizin tarafınızdan satılan veya yönetilen Azure abonelikleriyle ilgili ana performans göstergelerinin (KPI) bir anlık görüntü görünümünü sunar.  
 
-- Azure abonelikleri: Seçili tarih aralığı boyunca Azure aboneliklerinin büyümesi veya reddetmesi için, Azure müşteri aboneliklerinin geçerli sayısı.
+- Azure abonelikleri: sizin tarafınızdan satılan veya yönetilen Azure müşteri aboneliklerinin güncel sayısı.
+Seçilen tarih aralığı boyunca bu Azure aboneliklerinin büyüme veya reddetme yüzdesi.
 
-Mikro grafik, seçtiğiniz tarih aralığı için Azure abonelik sayısı ' nın ayda bir eğilimini sunar
+Mikro grafik, seçtiğiniz tarih aralığı için Azure abonelik sayısı ' nın ayda bir eğilimini gösterir.
 - Etkin Azure abonelikleri: son 30 gün içinde etkin kullanımı olan, sizin tarafınızdan satılan veya yönetilen Azure aboneliklerinin güncel sayısı.
 Seçilen tarih aralığı sırasında bu aboneliklerin artış veya reddetme yüzdesi.
 
@@ -64,7 +66,7 @@ Mikro grafik, bir ACR US $ 'ın seçtiğiniz süre içinde size öznitelikli ayl
 
 Haritada konum yakınlaştırmak için kılavuzda bir ülke arayabilir ve seçebilirsiniz. Özgün görünüme dönmek için haritada **giriş** seçeneğini belirleyin.
 
-:::image type="content" source="images/pci/pci-azure-usage-by-geography-2.png" alt-text="Azure Kullanım Özeti":::
+:::image type="content" source="images/pci/pci-azure-usage-by-geography-2.png" alt-text="Coğrafya tarafından Azure kullanımı":::
 
 ## <a name="azure-utilization"></a>Azure kullanımı
 
@@ -72,7 +74,7 @@ Bu görünüm, seçilen Azure hizmet düzeyi/ölçüm kategorilerine göre aylı
 
 Çubuk grafik, aylık gelir/kullanım saati eğilimini gösterir. Çizgi grafik, seçili Azure hizmet düzeyi/ölçüm kategorileri için önceki aya kıyasla büyüme eğilimi gösterir.
 
-:::image type="content" source="images/pci/pci-azure-usage-utilization-3.png" alt-text="Azure Kullanım Özeti":::
+:::image type="content" source="images/pci/pci-azure-usage-utilization-3.png" alt-text="Azure kullanım kullanımı":::
 
 ## <a name="next-steps"></a>Sonraki adımlar
 

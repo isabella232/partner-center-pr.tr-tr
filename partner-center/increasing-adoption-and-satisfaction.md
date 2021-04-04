@@ -9,24 +9,19 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 494c9d7ff8e726e8bd183456926761c3cebf10ee
-ms.sourcegitcommit: 6ed7268356445939db8613f2af96016707c55d64
+ms.openlocfilehash: 7a42381e6c7f3b33acae887f78fb87b5d309279e
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 11/17/2020
-ms.locfileid: "94691376"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106178944"
 ---
 # <a name="use-metrics-in-partner-center-to-increase-adoption-and-satisfaction"></a>Benimseme ve memnuniyet düzeyini artırmak için Iş Ortağı Merkezi 'nde ölçümleri kullanın
-
-**Şunlara uygulanır**
-
-- İş Ortağı Merkezi
-- Bulut Çözümü Sağlayıcısı programı
 
 **Uygun roller**
 
 - Genel yönetici
-- Kullanıcı yöneticisi
+- Kullanıcı Yönetimi Yöneticisi
 - Yönetim Aracısı
 - Satış Aracısı
 
@@ -61,7 +56,7 @@ Tek bir müşteri veya portföyünüzün lisans ve Kullanıcı verilerini bulabi
 
 Terminoloji:
 
-- **Yetkilendirmeleri** = kullanıcının kullanımına hak kazandığı bir lisans (sahtekarlık veya ödeme için askıya alınmaz, farklı bir lisansa yükseltilmemiştir, Kullanıcı tarafından iptal edilmez, vb.)
+- **Yetkilendirmeleri** = kullanıcının kullanımına hak kazandığı bir lisans (sahtekarlık veya ödeme için askıya alınmaz, farklı bir lisansa yükseltilmemiştir, Kullanıcı tarafından iptal edilmez veya başka bir sorun yoktur).
 
 - **Etkin** = abone olunan Kullanıcı son 28 takvim günlerinde bir görev için yetkilendirme kullandıysanız.
 
@@ -69,7 +64,7 @@ Terminoloji:
 
 - **Kullanım%** = etkin kullanıcılar/Toplam Kullanıcı sayısı
 
-   Bazen%% kullanım veya %100 ' den büyük olabilir. Bu durum çeşitli nedenlerle oluşabilir:
+   Bazen%% kullanım veya %100 ' den büyük olabilir. Bu sorun çeşitli nedenlerden kaynaklanabilir:
 
   - Müşterinin çalışan cirosu varsa ve lisans yeni bir kullanıcıya aktarıldıysa.
 
@@ -87,7 +82,7 @@ Birçok yardım ve nasıl yapılır sorusunu tercih ediyorsanız, hesabınızdak
 
 **Sorun**: Kullanıcı benimseme oranı düşük, çok sayıda lisans kullanılmıyor.
 
-**Göz önüne almanız gerekenler**: müşteriler, yazılımın sağlayabilecekleri değeri anlamayabilir. Bunlar, zaten yapmakta oldukları görevleri basitleştirmek veya yeni üretkenlik türlerini etkinleştirmek için, bu kişilerin kendi gününe dahil edebilmeleri için yardım planlama gerekir.
+**Göz önüne almanız gerekenler**: müşteriler, yazılımın sağlayabilecekleri değeri anlamayabilir. Bunlar, zaten yapmakta oldukları görevleri basitleştirmek veya yeni üretkenlik türlerini etkinleştirmek üzere kendi günlerinden planlama yardımcı olur.
 
 **Deneyebileceğiniz şeyler**: örnek olay incelemeleri, Kullanıcı referansları belirli senaryolar, öğretici Bloglar veya videolar hakkında bilgi sağlar.
 

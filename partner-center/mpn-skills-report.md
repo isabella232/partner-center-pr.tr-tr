@@ -9,23 +9,23 @@ author: keramp88
 ms.author: keramp
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 419dba1490e19c8895fce35a031c7424114e5125
-ms.sourcegitcommit: 493130f8b8e9cf9b6ad31035bb4d7f78863788ac
+ms.openlocfilehash: 76b540364b1a47de66d0343f0646ab035b8de97c
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 02/02/2021
-ms.locfileid: "99474346"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132443"
 ---
 # <a name="using-the-skills-report"></a>Yetenekler raporunu kullanma
 
 **Uygun roller**
 
-- MPN Iş ortağı Yöneticisi
+- MPN iş ortağı Yöneticisi
 - Genel yönetici
 
 Yetenekler raporu, Microsoft İş Ortağı Ağı iş ortaklarının iş ortağı şirketindeki kullanıcılar tarafından tamamlanan becerileri değerlendirmesine olanak tanır. Rapordaki yetenekler, iş ortağının teknik kullanıcıları tarafından alınan değerlendirmeleri, sertifikaları veya sınavları içerebilir. 
 
-İş ortağı şirketlerinin bu beceri türlerinin başarısı, ortağın belirli bir Microsoft uzmanlığına göre gümüş veya altın duruma sahip olma gereksinimlerinden biridir. Uzmanlıklar, iş ortakları tarafından, mevcut ve yeni müşterilerle teknik uzmanlık alanını göstermek için kullanılır. Ayrıca, bu kişilere sahip olan iş ortakları için birçok avantaj sunar. Kullanılabilir Uzmanlıklar ve bunların avantajları hakkında daha fazla bilgi için, Microsoft İş Ortağı Ağı [yetkinlikleri](https://partner.microsoft.com/membership/competencies) sayfasına bakın.
+İş ortağı şirketlerinin bu beceri türlerinin başarısı, ortağın belirli bir Microsoft uzmanlığına göre gümüş veya altın duruma sahip olma gereksinimlerinden biridir. Uzmanlıklar, iş ortakları tarafından, mevcut ve yeni müşterilerle teknik uzmanlık alanını göstermek için kullanılır. Ayrıca, bu kişilere sahip olan iş ortakları için birçok avantaj sunar. Kullanılabilir Uzmanlıklar ve avantajları hakkında daha fazla bilgi için Microsoft İş Ortağı Ağı [Uzmanlıklar](https://partner.microsoft.com/membership/competencies) sayfasına bakın.
 
 Şirketinizin MPN iş ortağı Yöneticisi veya genel yönetici, yetenekler raporuyla ilgili aşağıdaki görevleri gerçekleştirmek isteyebilir:
 
@@ -59,7 +59,7 @@ Iş Ortağı Merkezi 'nden beceriler raporu verilerini görüntülemek için aş
 
 1. Uygun Iş Ortağı Merkezi rolüyle Kullanıcı hesabını kullanarak, Iş Ortağı Merkezi [panosunda](https://partner.microsoft.com/dashboard)oturum açın.
 2. Sol gezinti menüsünden **MPN** ' nin ardından **Uzmanlıklar**' ı seçin.
-3. Uzmanlıklar sayfasının sağ üst kısmında bulunan aşağıdaki seçenekleri bulun:  **Uzmanlıklar performans raporu** ve **indirme becerileri raporu**. Iş Ortağı Merkezi Kullanıcı arabirimindeki veya indirilen bir elektronik tabloda yetenek raporu verilerini görüntüleme seçeneğiniz vardır.
+3. Yetenekler sayfasının sağ üst kısmında bulunan aşağıdaki seçenekleri bulun:  **Uzmanlıklar performans raporu** ve **indirme becerileri raporu**. Iş Ortağı Merkezi Kullanıcı arabirimindeki veya indirilen bir elektronik tabloda yetenek raporu verilerini görüntüleme seçeneğiniz vardır.
    :::image type="content" source="images/competencies/mpn-skills-report-1.png" alt-text="Sağ üst köşede iki seçenekten oluşan iş ortağı merkezi Uzmanlıklar sayfası." border="true":::
    - Yetenek rapor verilerinin kolay okunabilir bir görünümü için, uzmanlığa dayalı **Performans raporu**' nu seçin ve ardından **Kullanıcı becerileri verileri** ' ni, uzmanlığa göre rapor sayfasının sol üst kısmında bulabilirsiniz. 
       :::image type="content" source="images/competencies/mpn-skills-report-2.png" alt-text="Sol üst köşedeki Kullanıcı becerileri verileri seçeneğiyle iş ortağı merkezi uzmanlığına rapor sayfası." border="true":::
@@ -94,7 +94,7 @@ Yetenekler rapor verileri Kullanıcı için bir yetenek gösteriyorsa, Kullanıc
 
 - , Yeteneklerini Iş Ortağı Merkezi Kullanıcı **hesabıyla ilişkilendirilmemiş başka** BIR mcıd 'ye birleştirmiş olabilir
 
-Kullanıcının yinelenen hesapları varsa, gerekli yetenekler iki veya daha fazla hesaba ayrılabilir. Örneğin, bir MCıD 'ye bağlı olan MSA (yetenekler raporunun **mcıd sütununda** gösterildiği gibi) sahip olabilirsiniz, ancak aynı MSA ile aynı MSA sertifikası başka BIR mcıd 'ye başvurur. Bu durumda, TRANSCRIPT içindeki MCıD 'yi, beceriler raporunda zaten görüntülenmiş olan MCıD ile birleştirmeniz gerekir. Bunu yapmak için, belirlenen [Microsoft sertifika eğitimi destek ekibine](https://trainingsupport.microsoft.com/mcp/forum)başvurun. MCP birleştirme onaylandıktan sonra, MSA ' ı yeniden ilişkilendirmeniz gerekir. Iş Ortağı Merkezi 'nde zaten ilişkilendirilmiş olacaktır. Bu işlemin, Iş Ortağı Merkezi 'nde gösterilmesi 24 saate kadar sürebilir.
+Kullanıcının yinelenen hesapları varsa, gerekli yetenekler iki veya daha fazla hesaba ayrılabilir. Örneğin, bir MCıD 'ye bağlı olan MSA (yetenekler raporunun **mcıd sütununda** gösterildiği gibi) sahip olabilirsiniz, ancak aynı MSA ile aynı MSA sertifikası başka BIR mcıd 'ye başvurur. Bu durumda, TRANSCRIPT içindeki MCıD 'yi, beceriler raporunda zaten görüntülenmiş olan MCıD ile birleştirmeniz gerekir. Bunu yapmak için, belirlenen [Microsoft sertifika eğitimi destek ekibine](https://trainingsupport.microsoft.com/mcp/forum)başvurun. MCP birleştirme onaylandıktan sonra, MSA ' ı yeniden ilişkilendirmeniz gerekmez. Iş Ortağı Merkezi 'nde zaten ilişkilendirilmiş olacaktır. Bu işlemin, Iş Ortağı Merkezi 'nde gösterilmesi 24 saate kadar sürebilir.
 
 ### <a name="why-do-i-see-an-error-message-when-i-try-to-download-the-skills-report"></a>Beceriler raporunu indirmeye çalıştığımda neden bir hata iletisi görüyorum?
 

@@ -8,16 +8,17 @@ description: Müşterilerinizin sattığı ve yönettiğiniz Office 365 abonelik
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: 727c370fbb787f1a63f50b28b4ef6ae703b7f1a3
-ms.sourcegitcommit: ce1331c0e600e2f73b85a90ac159a9026ab6a691
+ms.openlocfilehash: d1710215f5fd1d7058232c81ae68ae9cd1ba5240
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98147172"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086320"
 ---
 # <a name="office-365-usage-report-available-from-the-partner-center-insights-dashboard"></a>Office 365 kullanım raporu Iş Ortağı Merkezi Öngörüler panosu 'nda kullanılabilir
 
 **Uygun roller**
+
 - Genel yönetici
 - Yönetim Aracısı
 - Rapor Görüntüleyicisi
@@ -54,7 +55,7 @@ Office 365 kullanım raporu, müşterileriniz için satılan veya yönettiğiniz
 
 ## <a name="office-365-usage-by-geography"></a>Coğrafya tarafından Office 365 kullanımı
 
-**Coğrafya tarafından sunulan Office 365 kullanımı** , aylık etkin kullanıcıların (Mau) ve ücretli kullanılabilir birimlerin (Pau) müşteri ülkesine dağılımını gösterir. MAU, önceki ay boyunca kullanılan lisansların sayısına başvurur ve PAU seçili zaman diliminde satılan veya yönetilen ücretli bilgisayar sayısını ifade eder. Haritadaki daha açık renkler daha düşük değerleri temsil ederken, daha koyu renkler daha yüksek değerleri temsil eder. Kılavuzdaki bir ülkeyi arayabilir ve seçebilirsiniz. Daha yakından bir görünüm için de yakınlaştırma yapabilirsiniz.
+**Coğrafya tarafından sunulan Office 365 kullanımı** , aylık etkin kullanıcıların (Mau) ve ücretli kullanılabilir birimlerin (Pau) müşteri ülkesine dağılımını gösterir. MAU, önceki ay boyunca kullanılan lisansların sayısına başvurur ve PAU, seçilen zaman çerçevesinde satılan veya yönetilen ücretli bilgisayar sayısını ifade eder. Haritadaki daha açık renkler daha düşük değerleri temsil ederken, daha koyu renkler daha yüksek değerleri temsil eder. Kılavuzdaki bir ülkeyi arayabilir ve seçebilirsiniz. Daha yakından bir görünüm için de yakınlaştırma yapabilirsiniz.
 
 **Ülke/bölge tablosu sayısı** , Azure kullanım olaylarının oluşturulduğu toplam ülkeleri/bölgeleri gösterir.
 

@@ -8,17 +8,130 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 03/24/2021
-ms.openlocfilehash: e2e40807ddeb7fc3aa0fcfb20f34eb71d0a9e118
-ms.sourcegitcommit: dd51744a4af3797493a5ebbfc766dab86ff00477
+ms.date: 04/02/2021
+ms.openlocfilehash: 5b8c5f52207a7b9a49d07885a36b61486be45497
+ms.sourcegitcommit: 60bbb8f4056120264b769f94431f84d86984c2e9
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/29/2021
-ms.locfileid: "105730102"
+ms.lasthandoff: 04/03/2021
+ms.locfileid: "106280879"
 ---
 # <a name="march-2021-announcements"></a>Mart 2021 duyuruları
 
 Bu sayfada Mart 2021 için Microsoft Iş Ortağı Merkezi duyuruları sağlanmaktadır.
+
+________________
+## <a name="updated-csp-customer-address-validation-api-now-available-for-testing"></a><a name="18"></a>Güncelleştirilmiş CSP müşteri adresi doğrulama API 'SI artık test için kullanılabilir
+
+### <a name="categories"></a>Kategoriler
+
+- Tarih: 2021-03-31
+- Özellikler
+
+### <a name="summary"></a>Özet
+
+İş ortakları ve müşterilerin işletmelerini temel alarak işlerini çalıştırmasına yardımcı olma taahhüdünün bir parçası olarak, dünyanın her yerindeki ortakları, bu değişiklikleri ValidateAddress API 'sinde test edecek şekilde davet edeceğiz.
+
+### <a name="impacted-audience"></a>Etkilenen hedef kitle
+
+Tüm CSP doğrudan fatura ortakları ve yeni bir Kullanıcı oluşturan veya mevcut müşteri adresi ayrıntılarını güncelleştiren dolaylı sağlayıcılar
+
+### <a name="details"></a>Ayrıntılar
+
+Microsoft, güvende çalışır. CSP programında deneyimidir müşteri abonelikleri için müşteri adresi doğrulama göndermek için uyumlu, güvenli ve güvenli bir yöntem sağlamayı taahhüt ediyoruz. 31 Mart 2021 ' de bugün, Haziran 2021 ' deki değişikliklerle çalışmaya başlamadan önce, test etmeyi davet etmek istediğimiz ValidateAddress API 'sinde değişiklikler yaptık. 
+
+Bu değişikliklerin yalnızca ValidateAddress API 'sini etkilediğini unutmayın. CreateCustomer ve UpdateBillingProfile API 'Leri etkilenmez.
+
+Yanıt aşağıdaki durum iletilerinden birini döndürür:
+
+| Durum | Açıklama | Döndürülen önerilen adreslerin sayısı |
+|----------|-------------|-------------------|
+| VerifiedShippable | Adres doğrulanır ve sevk edilebilir. | Tek |
+| Doğrulanamayan | Adres doğrulandı. | Tek |
+| Interactionrequired | Önerilen adresler önemli ölçüde değiştirilmiştir ve kullanıcı onayı gerekir. | Tek |
+| StreetPartial | Adreste verilen cadde kısmi ve daha fazla bilgi gerekiyor. | Birden çok — en fazla üç|
+| PremisesPartial | Verilen şirket içi (bina numarası, paket numarası, vb.) kısmi ve daha fazla bilgi gerektirir. | Birden çok — en fazla üç |
+| Birden çok | Adreste kısmi olan birden çok alan vardır (büyük olasılıkla StreetPartial ve PremisesPartial de dahil). | Birden çok — en fazla üç |
+| Yok | Adres yanlış. | Yok |
+| Notdoðrulanmış | Adres, doğrulama işlemi aracılığıyla gönderilemedi.  | Yok |
+
+Bir adres, ValidateAddress API aracılığıyla doğrulanacak şekilde gönderildikten sonra, aşağıdaki yanıt şeması döndürülür:
+
+```csharp
+
+// <summary>
+/// Object represents the address validation response.
+/// </summary>
+
+public class AddressValidationResponse
+{
+   /// <summary>
+   /// Gets or sets the original address
+   /// </summary>
+   /// <value>
+   /// Original Address
+   /// </value>
+   public Address OriginalAddress { get; set; }
+
+   /// <summary>
+   /// Gets or sets the suggested addresses
+   /// </summary>
+   /// <value>
+   /// Suggested Addresses
+   /// </value>
+   public List<Address> SuggestedAddresses { get; set; }
+
+   /// <summary>
+   /// Gets or sets the validation status
+   /// </summary>
+   /// <value>
+   /// Status
+   /// </value>
+   public string Status { get; set; }
+
+   /// <summary>
+   /// Gets or sets the validation message
+   /// </summary>
+   /// <value>
+   /// Validation Message
+   /// </value>
+   public string ValidationMessage { get; set; }
+   ```
+
+Bu örnek yanıta göz atın. ABD için, posta kodu için yalnızca beş basamak girerseniz, yanıt posta kodu satırı için dört basamaklı ek bir sonek döndürdüğüne göz önünde koyun.
+
+```csharp
+// IAggregatePartner partnerOperations;
+// string customerId;
+// s{
+"suggested_address": {
+    "Country": "US",
+    "region": "WA",
+    "city": "Redmond",
+    "address_line1": "1 Microsoft Way",
+    "postal_Code": "98052-8300"
+},
+"original_address": {
+    "Country": "US",
+    "region": "WA",
+    "city": "Redmond",
+    "address_line1": "1 Micro Way",
+    "postal_Code": "98052"
+},
+"status":  "InteractionRequired",
+"validation_message": "Address field invalid for property: ‘Street’"
+}
+```
+
+### <a name="next-steps"></a>Sonraki adımlar
+
+- Güncelleştirme için hazırlamaya başlayabilmeniz için, korumalı alan kiracı KIMLIĞINIZI konu uzmanı uzmanlığımızı (SME), Ali Haki 'yı test uçuşla birlikte paylaşabilirsiniz.
+
+- Bir denetim masası satıcısı (CPV) çözümü kullanıyorsanız, CPV 'nize başvurun.
+
+### <a name="questions"></a>Sorularınız mı var?
+
+Microsoft ile işlemlerinizin herhangi bir sorunuz varsa veya sizin için destek gerekiyorsa, iş ortağı destek Yammer grubuna ulaşın.
 
 ________________
 ## <a name="new-exchange-admin-center-eac-experience"></a><a name="17"></a>Yeni Exchange Yönetim Merkezi (EAC) deneyimi

@@ -9,21 +9,22 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a6fc3fbfbc5ebf874460fbf2f0065150089db39d
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: dae147c45aca27657f1e88b6943279f9771313d6
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "92531003"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106133004"
 ---
 # <a name="moving-from-partner-membership-center-pmc-to-partner-center"></a>Iş ortağı üyeliği merkezinden (PMC) Iş Ortağı Merkezi 'ne taşıma
 
 **Uygun roller**
--    Genel yönetici
+
+- Genel yönetici
 
 Merkezi bir katılım noktası görevi gören tek bir Web sitesi (Iş Ortağı Merkezi) sunarak bizimle iş yapmanız daha kolay hale getiririz. İş ortağı üyelik Merkezi 'nde (PMC) yaptığınız her şeyi, Iş Ortağı Merkezi 'nde panonuzdan edinebilirsiniz. 
 
-Ayrıca, bir Web sitesinden çıkmadan çok daha fazlasını ve hepsini de gerçekleştirebilirsiniz. Bazı terminoloji ve özellikler de farklı görünebilir. Nerede ve ne olduğuna ilişkin tüm ilk kaygıları azaltmak için, panonuz için site turu 'nu gerçekleştirdiğinizden emin olun.
+Ayrıca, bir Web sitesinden çıkmadan çok daha fazlasını gerçekleştirebilirsiniz. Bazı terminoloji ve özellikler de farklı görünebilir. Belirli görevlerin nerede yapılacağını ve hangi özelliklerin kullanılabildiğini öğrenmek için, panonuzun Site turuna katılın.
 
 Bu tabloda, PMC ve Iş ortağı merkezi arasındaki farklılıklar gösterilmektedir.
 
@@ -43,7 +44,7 @@ Bu tabloda, PMC ve Iş ortağı merkezi arasındaki farklılıklar gösterilmekt
 
 |**PMC**   |**İş Ortağı Merkezi**|
 |----------------------|:-----------------------------|
-|Microsoft hesabı (MSA) veya kişisel hesap kimlik bilgilerinizi kullanabilir joe@outlook.com|İş hesabı kimlik bilgilerinizi () kullanmanız gerekir joe@joescompany.com . Daha fazla bilgi için [şirketinizin iş hesabınızı ve Iş ortağı merkezini](azure-active-directory-tenants-and-partner-center.md)okuyun.|
+|Microsoft hesabı (MSA) veya kişisel hesap kimlik bilgilerinizi kullanabilir joe@outlook.com|İş hesabı kimlik bilgilerinizi (örneğin,) kullanmanız gerekir joe@joescompany.com . Daha fazla bilgi için [şirketinizin iş hesabınızı ve Iş ortağı merkezini](azure-active-directory-tenants-and-partner-center.md)okuyun.|
 
 ## <a name="user-roles"></a>Kullanıcı rolleri
 
@@ -61,7 +62,7 @@ Bu tabloda, PMC ve Iş ortağı merkezi arasındaki farklılıklar gösterilmekt
 |, Ekim 2018 ' de devre dışı bırakılana kadar ek avantajlar araç takımları (ABTKs) olabilir.|Hiçbir ABTKs yok; her şirket için bir HARITALAR; Şirket başına bir gümüş uzmanlık; Şirket başına bir adet altın uzmanlık|
 ||Zaten HARITALAR olmadığı sürece satın alabilirsiniz. HARITALAR sahipliği, uzmanlara bağlı değildir.  
 |Iş ortağı dijital Indirmesi (PDD) sırasında avantajlara erişildi |Iş Ortağı Merkezi 'nde tüm avantajlara erişilir|
-|Uzmanlıklar ve avantajlar birden çok konuma yayılmış ve bölünmüş|Tüm konumlarınızın uzmanlarınız ve avantajları şirket (PGA) düzeyinde birleştirildi ve yıldönümü tarihiniz ne kadar bekletilecektir. Bu sırada, şirket düzeyinde satın almanız veya yenilemeniz gerekecektir. Performans ve beceriler ve Uzmanlıklar, genel olarak toplanır|
+|Uzmanlıklar ve avantajlar birden çok konuma yayılmış ve bölünmüş|Tüm konumlarınızın uzmanlarınız ve avantajları şirket (PGA) düzeyinde birleştirildi ve yıldönümü tarihiniz ne kadar bekletilecektir. Bu sırada, şirket düzeyinde satın almanız veya yenilemeniz gerekecektir. Performans, beceriler ve Uzmanlıklar küresel olarak toplanır|
 |Yazılım Güvencesi fiş talepleri, fiş doğrulama ve teminat (VVR) aracında yapılır|Artık, Iş Ortağı Merkezi 'nde yazılım güvencesi eğitim fişleri (SATV) ve/veya dağıtılan planlama hizmetleri 'ne (DPS) erişebilir ve bunları yönetebilirsiniz.  Eski VVR aracının 1 Ekim 2019 tarihinde kullanımdan kaldırılacaktır.  |
 
 ## <a name="associating-mcp-ids-to-partner-center"></a>MCP kimliklerini Iş Ortağı Merkezi 'ne ilişkilendirme
@@ -82,9 +83,9 @@ Bu tabloda, PMC ve Iş ortağı merkezi arasındaki farklılıklar gösterilmekt
 
 |**PMC**   |**İş Ortağı Merkezi**|
 |----------------------|:-----------------------------|
-|PDD  |Yararları|
-|YONGA, ıCP, PASTA | Teşvikleri|
-||Başvuru|
+|PDD  |Avantajlar|
+|YONGA, ıCP, PASTA | Teşvikler|
+||Referanslar|
 |İş ortağı öngörüleri| Analiz|
 |Fiş doğrulama ve kullanım Aracı| Fiş doğrulama ve kullanım Aracı|
 |           |Bulut çözümü sağlayıcısı programları|

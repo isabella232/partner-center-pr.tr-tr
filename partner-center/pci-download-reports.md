@@ -9,16 +9,17 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c7b0be301b9c0fc56200c128b225fc849a2f04c2
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: b7d963bffcfeebed3b7540dfd02aadd876dfcaa6
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92532063"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086235"
 ---
 # <a name="download-reports"></a>Raporları indir
 
 **Uygun roller**
+
 - Executive rapor Görüntüleyicisi
 - Rapor Görüntüleyicisi
 
@@ -30,11 +31,11 @@ Oluşturulduktan sonra rapor, Microsoft Excel gibi araçları kullanarak indirme
 
 **Yeni rapor oluştur**
 
-Bir rapor oluşturmak için önce rapor **Seç** açılan listesinden raporu seçin. Ardından **Tarih aralığı Seç** açılan menüsünden Tarih aralığını seçin. **Oluştur** ' u seçin. Rapor, sekmeyle ayrılmış değer (TSV) biçiminde oluşturulur ve birkaç dakika içinde **oluşturulan raporlar** bölümünde indirilebilir. Önceki 14 gün içinde oluşturulan raporlar indirilmek üzere kullanılabilir olacaktır.
+Bir rapor oluşturmak için önce rapor **Seç** açılan listesinden raporu seçin. Ardından **Tarih aralığı Seç** açılan menüsünden Tarih aralığını seçin. **Oluştur**' u seçin. Rapor, sekmeyle ayrılmış değer (TSV) biçiminde oluşturulur ve birkaç dakika içinde **oluşturulan raporlar** bölümünde indirilebilir. Önceki 14 gün içinde oluşturulan raporlar indirilmek üzere kullanılabilir olacaktır.
 
 :::image type="content" source="images/pci/create-new-report.png" alt-text="Yeni rapor oluştur":::
 
-:::image type="content" source="images/pci/generated-reports.png" alt-text="Yeni rapor oluştur":::
+:::image type="content" source="images/pci/generated-reports.png" alt-text="Oluşturulan raporlar":::
 
 >[!NOTE] 
 >Yalnızca Executive rapor izleyicileri olan kullanıcılar raporları indirebilir. Öngörüler panosu raporlarına rol tabanlı erişim hakkında daha fazla bilgi için lütfen [PCI rollerine](pci-roles.md)bakın. 
@@ -43,7 +44,7 @@ Bir rapor oluşturmak için önce rapor **Seç** açılan listesinden raporu se�
 
 Aşağıdaki raporlar indirilebilir:
 
-**Iş ortağı profili** , iş ortağıyla ilgili ayrıntıları sağlar. Iş ortağı KIMLIĞI, Iş ortağı adı, Iş ortağı şehri, Iş ortağı ülkesi ve benzeri Ayrıntılar raporda mevcuttur. Bu rapor için toplama veya geri dönüş uygulanmaz.
+**Iş ortağı profili** , iş ortağıyla ilgili ayrıntıları sağlar. Iş ortağı KIMLIĞI, Iş ortağı adı, Iş ortağı şehri ve Iş ortağı ülkesi gibi ayrıntılar raporda bulunabilir. Bu rapor için toplama veya geri dönüş uygulanmaz.
 
 **Müşteri ayrıntıları** , bir ortağın ilişkilendirildiği müşterilerin ayrıntılarını sağlar. Ayrıca, satılan lisanslar, toplanan ACR gibi temel ölçümler de sağlar. Rapor aylık olarak toplanır.
 

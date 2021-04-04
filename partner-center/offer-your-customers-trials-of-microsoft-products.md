@@ -9,23 +9,20 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a51504a5e560f8a8041c448c3e5d9e7f0cfdae07
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 53f4a16ac5d0f33fd534d7fd9a13eaf5a25cf3ea
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92531535"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132342"
 ---
 # <a name="give-customers-30-day-free-trials-of-microsoft-products"></a>Müşterilere 30 günlük ücretsiz Microsoft ürünlerinin ücretsiz deneme sürümü verin
 
-**Uygulama hedefi**
-
-- İş Ortağı Merkezi
-
 **Uygun roller**
--   Genel yönetici 
--   Kullanıcı yöneticisi
--   Satış Aracısı
+
+- Genel yönetici
+- Kullanıcı Yönetimi Yöneticisi
+- Satış Aracısı
 
 Yeni Microsoft ürünlerine müşterileri tanıtmak için iyi bir yöntem, 30 günlük ücretsiz deneme sunmaya yönelik bir yoldur. Diğer birçok çevrimiçi hizmetler benzer şekilde katalogdaki denemelerle kaydolabilirsiniz. Tüm iş ortakları katılabilirler.
 
@@ -45,7 +42,7 @@ Her müşteri, kullanılabilir her teklif için bir ücretsiz denemeye hak kazan
 
 ## <a name="licenses-for-free-trial-offers"></a>Ücretsiz deneme teklifleri için lisanslar
 
-Tüm ücretsiz denemeler 25 lisans sağlar. Deneme sırasında bu numarayı değiştiremezsiniz. Ücretsiz deneme sürümünde lisans ekleyemez veya kaldıramazsınız. Deneme sürümü ücretli aboneliğe dönüştürüldükten sonra aboneliğe ek lisanslar ekleyebilirsiniz.
+Tüm ücretsiz denemeler 25 lisans sağlar. Deneme sırasında bu numarayı değiştiremezsiniz. Ücretsiz deneme sürümünde lisans ekleyemez veya kaldıramazsınız. Deneme sürümü ücretli aboneliğe dönüştürüldükten sonra aboneliğe daha fazla lisans ekleyebilirsiniz.
 
 Deneme lisansları, ücretli hizmetler lisansının atandığı şekilde kullanıcılara atanmalıdır.
 
@@ -53,13 +50,13 @@ Deneme lisansları, ücretli hizmetler lisansının atandığı şekilde kullan�
 
 Iş Ortağı Merkezi 'nde müşteriniz için bir deneme sürümü alın:
 
-1. Iş Ortağı Merkezi 'nin **satışlarından** , **Katalog** ' a gidin. 
-2. Katalogda **faturalandırma sıklığından** **deneme teklifi** ' ne tıklayın. Bu, yalnızca ücretsiz denemelerin görünmesine olanak sağlar ve ücretsiz olmayan diğer teklifleri devre dışı bırakır. Denemeler, katalogdaki **denemeler** sekmesinde görünür.
-3. Sunmak istediğiniz ücretsiz denemeyi seçin ve ardından **Gönder** ' i seçin. Tüm denemeler, faturalandırılmayacak otuz güne yöneliktir. Ayrıca, deneme süresi boyunca istediğiniz zaman ücretli aboneliğe dönüştürebilirsiniz.
+1. Iş Ortağı Merkezi 'nin **satışlarından** , **Katalog**' a gidin. 
+2. Katalogda **faturalandırma sıklığından** **deneme teklifi**' ni seçin. Bu, yalnızca ücretsiz denemelerin görünmesine olanak sağlar ve ücretsiz olmayan diğer teklifleri devre dışı bırakır. Denemeler, katalogdaki **denemeler** sekmesinde görünür.
+3. Sunmak istediğiniz ücretsiz denemeyi seçin ve ardından **Gönder**' i seçin. Tüm denemeler, faturalandırılmayacak 30 gün boyunca yapılır. Ayrıca, deneme süresi boyunca istediğiniz zaman ücretli aboneliğe dönüştürebilirsiniz.
 
 ## <a name="converting-trials-to-paid-subscriptions"></a>Denemeleri ücretli aboneliklere dönüştürme
 
-Ücretsiz deneme, ücretli aboneliğe otomatik olarak dönüştürülmez. Otuz gün sonra, ücretsiz deneme [süresi](#expiring-offers)ücretli aboneliğe dönüştürülmelidir. Ücretsiz denemeler genişletilemiyor.
+Ücretsiz deneme, ücretli aboneliğe otomatik olarak dönüştürülmez. 30 gün sonra, ücretsiz deneme süresi ücretli aboneliğe dönüştürülmelidir, bu da [sona erer](#expiring-offers). Ücretsiz denemeler genişletilemiyor.
 
 Denemeyi ücretli aboneliğe kendiniz dönüştürmeniz gerekir. Bunu [Iş Ortağı Merkezi](#convert-trials-using-partner-center) 'Ni veya [Iş Ortağı Merkezi API 'leri aracılığıyla](#convert-trials-using-apis)yapabilirsiniz.
 
@@ -71,16 +68,16 @@ Denemeyi ücretli aboneliğe kendiniz dönüştürmeniz gerekir. Bunu [Iş Orta�
 Deneme sürümlerini, Iş Ortağı Merkezi 'ni kullanarak ücretli aboneliklere dönüştürebilirsiniz:
 
 1. Müşterinin abonelik sayfasına gidin ve ücretsiz denemeyi seçin.
-2. **Denemeyi ücretli aboneliğe Dönüştür** ' ü seçin.
-3. İstenen lisans miktarını ve faturalama sıklığını girip **Uygula** ' yı seçin.
-4. Ücretli abonelik için faturalandırma, dönüştürme tarihinde başlar ve abonelik, dönüştürme tarihinden itibaren on iki ay autorenews. 
+2. **Denemeyi ücretli aboneliğe Dönüştür**' ü seçin.
+3. İstenen lisans miktarını ve faturalama sıklığını girip **Uygula**' yı seçin.
+4. Ücretli abonelik için faturalandırma, dönüştürme tarihinde başlar ve abonelik, dönüştürme tarihinden itibaren 12 ay otomatik olarak yenilenir. 
 
 ### <a name="convert-trials-using-apis"></a>API 'Leri kullanarak denemeleri dönüştürme
 
 Ücretsiz deneme sürümünün ücretli aboneliğe dönüştürülmesine uyum sağlamak için API 'lerinizi değiştirmeniz gerekebilir. Daha fazla bilgi için aşağıdaki geliştirici belgelerine bakın:
 
-- [Deneme aboneliğini ücretli olarak dönüştürme](/partner-center/develop/convert-a-trial-subscription-to-paid)
-- [Deneme dönüştürme tekliflerinin bir listesini alın](/partner-center/develop/get-a-list-of-trial-conversion-offers)
+- [Deneme aboneliğini ücretli aboneliğe dönüştürme](/partner-center/develop/convert-a-trial-subscription-to-paid)
+- [Deneme dönüştürme tekliflerinin bir listesini alma](/partner-center/develop/get-a-list-of-trial-conversion-offers)
 
 ### <a name="trials-without-conversions"></a>Dönüşümler olmadan denemeler
 
@@ -88,7 +85,7 @@ Tüm denemeler, ücretli aboneliklere dönüştürülemez. İş ortakları, sona
 
 |**Deneme**   |**Uyumlu küçük Işletme teklifleri**   |**Uyumlu kurumsal teklifler**   |
 |----------------------------|:---------------------------------|:------------------------------------------|
-|Microsoft ekipleri ticari bulut (Kullanıcı tarafından başlatılan) denemesi   |Microsoft 365 İş temel, Microsoft 365 İş standart Microsoft 365 İş Premium   | F3 (eski adıyla F1), Enterprise için Office 365 (E1, E3 ve E5), M365 F1/F3, M365 Enterprise (E3)   |
+|Microsoft ekipleri ticari bulut (Kullanıcı tarafından başlatılan) denemesi   |Microsoft 365 İş temel, Microsoft 365 İş standart Microsoft 365 İş Premium   | F3 (eski adıyla F1), Enterprise için Office 365 (E1, E3 ve E5), Microsoft 365 F1/F3, Microsoft 365 Kurumsal (E3)   |
 
 >[!NOTE]
 >Yukarıdaki teklifler benzer işlevlerle benzer hizmet planlarına sahiptir, ancak teklifler arasında bazı farklılıklar olabilir.
@@ -99,7 +96,7 @@ Süresi dolan tekliflerle bilgilendirilmeyecektir. Gelecek süre sonu tarihlerin
 
 Deneme süresi dolduktan sonra, bu deneme sürümünde oturum açmayı deneyen bir müşteri bir süre sonu iletisi görür. Ancak, veriler veri saklama standartları ile birlikte kaydedilir. Aynı hizmet planlarına sahip yeni bir abonelik satın aldıktan sonra, müşterinizin bilgilerine yeni etkinleştirilen abonelikten tekrar erişilebilir.
 
-## <a name="billing"></a>Faturalama
+## <a name="billing"></a>Faturalandırma
 
 Yıllık faturalandırma ve ücretsiz denemeler, bağımsız bulutlarda ve genel bulutta aynıdır. Tek fark, başlatma sırasında sunulan deneme SKU 'larıyla aynıdır.
 
@@ -107,13 +104,13 @@ Yıllık faturalandırma ve ücretsiz denemeler, bağımsız bulutlarda ve genel
 
 Ücretsiz denemeler, aylık ve yıllık olarak faturalandırılan abonelikler için kullanılabilir. Denemeyi ücretli bir aboneliğe dönüştürdüğünüzde faturalandırma sıklığını seçebilirsiniz.
 
-Abonelik başlangıç tarihi, dönüştürme tarihini temel alır. Ücretsiz deneme yıllık faturalandırmayla ücretli bir teklifine dönüştürülürse, abonelik yenileme tarihi, dönüştürme tarihinden itibaren on iki ay olacaktır. Ücretsiz deneme, aylık faturalandırma ile ücretli bir teklifine dönüştürülürse, abonelik yenileme tarihi, dönüştürme tarihinden sonraki fatura tarihinden itibaren on iki ay olacaktır.
+Abonelik başlangıç tarihi, dönüştürme tarihini temel alır. Ücretsiz deneme yıllık faturalandırmayla ücretli bir teklifine dönüştürülürse, abonelik yenileme tarihi dönüştürme tarihinden itibaren 12 ay olur. Ücretsiz deneme, aylık faturalandırma ile ücretli bir teklifine dönüştürülürse, abonelik yenileme tarihi, dönüştürme tarihinden sonraki fatura tarihinden itibaren on iki ay olacaktır.
 
 ### <a name="invoices"></a>Faturalar
 
 Faturanızda veya lisans tabanlı mutabakat dosyanızda listelenen ücretsiz denemeleri göremezsiniz. Ücretsiz denemeler, ücretsiz bir denemeyi ücretli aboneliğe dönüştürdükten sonra faturanızda ve lisans tabanlı mutabakat dosyanızda görüntülenir. Dönüştürülen abonelik, yeni abonelikle aynı şekilde görünür.
 
-### <a name="incentives"></a>Teşvikleri
+### <a name="incentives"></a>Teşvikler
 
 Ücretsiz denemelerdeki teşvikleri üzerinde bir etkisi yoktur.
 

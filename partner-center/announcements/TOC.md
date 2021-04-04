@@ -1,4 +1,5 @@
 # [İş Ortağı Merkezi duyuruları](index.md)
+# [2021 Nisan](2021-april.md)
 # [Mart 2021](2021-march.md)
 # [Şubat 2021](2021-february.md)
 # [Ocak 2021](2021-january.md)
@@ -11,6 +12,3 @@
 # [Haziran 2020](2020-june.md)
 # [Mayıs 2020](2020-may.md)
 # [Nisan 2020](2020-april.md)
-# [Mart 2020](2020-march.md)
-# [Şubat 2020](2020-february.md)
-# [Ocak 2020](2020-january.md)

@@ -9,22 +9,23 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8df91ec4072b1873a240d42fa2382ebcc00b9bc5
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: 019e489b4738515639bf181591dfbc671e1b795d
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "92531287"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086201"
 ---
 # <a name="product-subscriptions-report-available-from-the-partner-center-insights-dashboard"></a>Ürün abonelikleri raporu Iş Ortağı Merkezi Öngörüler panosu 'nda mevcuttur
 
 **Uygun roller**
+
 - Genel yönetici
 - Yönetim Aracısı
 - Rapor Görüntüleyicisi
 - Executive rapor Görüntüleyicisi
 
-Ürün abonelikleri raporu, satmış olduğunuz veya müşterileriniz için yönettiğiniz bulut aboneliklerine ilişkin analizler sunar. Bu, Office 365, Azure, Dynamics vb. gibi bulut ürünleriyle ilişkili aboneliklerin performansını içeren ürüne özgü bir rapordur.
+Ürün abonelikleri raporu, satmış olduğunuz veya müşterileriniz için yönettiğiniz bulut aboneliklerine ilişkin analizler sunar. Bu, Office 365, Azure, Dynamics ve diğerleri gibi bulut ürünleriyle ilişkili aboneliklerin performansını içeren ürüne özgü bir rapordur.
 
 Ürün abonelikleri raporundan aşağıdaki bölümleri görüntüleyebilirsiniz.
 
@@ -44,7 +45,7 @@ ms.locfileid: "92531287"
 
 :::image type="content" source="images/pci/pci-sub-report-summary-1.png" alt-text="abonelik raporu Özeti":::
 
-Özetin her bölümü hakkında daha fazla bilgi için aşağıya bakın.
+Özetin her bölümü hakkında daha fazla bilgi için aşağıya bakın:
 
 - Abonelikler:
   - Sizin tarafınızdan satılan veya yönetilen bulut ürün aboneliklerinin güncel sayısı.
@@ -70,13 +71,13 @@ ms.locfileid: "92531287"
 
 ## <a name="geographical-spread-of-subscriptions"></a>Aboneliklerin coğrafi yayılmasının
 
-**Coğrafya görünümü tarafından abonelikler** , müşteri pazarlarına göre toplam aboneliklerin coğrafi dağılımını gösterir. Toplam abonelik miktarı hem satılan abonelikler hem de etkin abonelikler içerir.
+**Coğrafya görünümüne göre abonelikler** , toplam aboneliklerin müşteri pazarlarına göre coğrafi dağılımını gösterir. Toplam abonelik miktarı hem satılan abonelikler hem de etkin abonelikler içerir.
 
 **Ülke/bölge tablosu sayısı** , aboneliklerinizin bulunduğu toplam ülkeleri/bölgeleri ve toplam ve etkin abonelikler için ülke başına miktarı gösterir.
 
 Haritada konum yakınlaştırmak için kılavuzda bir ülke arayabilir ve seçebilirsiniz. Özgün görünüme dönmek için haritanın **giriş** seçeneğine basın. Ülkeye göre tüm abonelikleri ve etkin abonelikleri görüntülemek için haritaya gelin. Kılavuzdaki her iki alan de sıralanabilir.
 
-:::image type="content" source="images/pci/pci-sub-report-sub-by-geography-2.png" alt-text="abonelik raporu Özeti":::
+:::image type="content" source="images/pci/pci-sub-report-sub-by-geography-2.png" alt-text="Coğrafya tarafından abonelikler":::
 
 ## <a name="subscription-addschurns"></a>Abonelik eklemeleri/churns
 
@@ -84,19 +85,19 @@ Bu görünüm, aboneliklerin eğilimini gösterir. Bunlar, seçilen tarih aralı
 
 Yığılmış sütun grafiği, ay için yeni, mevcut ve birlikte bulunan aboneliklerin dökümünü gösterir. Sütun grafiğini, belirli yığın öğeleriyle ayrılmış şekilde yeniden oluşturabilirsiniz. Bunu yapmak için, göstergede söz konusu öğeleri seçin. Ayrıca, belirli bir döneme yakınlaştırmak için grafiğin üstündeki kaydırıcıyı de kullanabilirsiniz.
 
-:::image type="content" source="images/pci/pci-sub-report-sub-adds-churns-3.png" alt-text="abonelik raporu Özeti":::
+:::image type="content" source="images/pci/pci-sub-report-sub-adds-churns-3.png" alt-text="abonelik ekler ve churns":::
 
 ## <a name="subscription-distribution"></a>Abonelik dağıtımı
 
-Bu görünüm, MPN konumlarınızın, Müşteri segmentlerinin, satış kanalının/Azure fiyatlandırma modelinin ve atısyon türünün (örn. DPOR, DAP vb.) geçerli aboneliklerinizin dökümünü gösterir. Bu kategorilerin dökümünü görüntülemek için ilgili sekmelere tıklayın. Pasta grafiğini belirli öğe kategorilerinin bir dökümü ile oluşturmak için, göstergede bu öğe kategorilerini seçin.
+Bu görünüm, MPN konumlarınız, müşteri segmentleriniz, satış kanalı/Azure fiyatlandırma modeliniz ve atılama türü (örneğin, DPOR, DAP ve diğerleri) tarafından geçerli aboneliklerinizin dökümünü gösterir. Bu kategorilerin dökümünü görüntülemek için ilgili sekmeleri seçin. Pasta grafiğini belirli öğe kategorilerinin bir dökümü ile oluşturmak için, göstergede bu öğe kategorilerini seçin.
 
-:::image type="content" source="images/pci/pci-sub-report-distribution-4.png" alt-text="abonelik raporu Özeti":::
+:::image type="content" source="images/pci/pci-sub-report-distribution-4.png" alt-text="abonelik dağıtımı":::
 
 ## <a name="subscription-state-distribution"></a>Abonelik durumu dağılımı
 
-Bu görünüm, geçerli müşteri aboneliklerinizin abonelik durumu veya durumuna göre dağılımını gösterir. Bu, şu abonelik durumlarını içerir: **etkin** , **devre dışı** , **desağlanmamış** , **Open** , **yetkisizkullanımsüresinde** , **Closed** ve **diğerleri** .
+Bu görünüm, geçerli müşteri aboneliklerinizin abonelik durumu veya durumuna göre dağılımını gösterir. Bu, şu abonelik durumlarını içerir: **etkin**, **devre dışı**, **desağlanmamış**, **Open**, **yetkisizkullanımsüresinde**, **Closed** ve **diğerleri**.
 
-:::image type="content" source="images/pci/pci-sub-report-sub-states-5.png" alt-text="abonelik raporu Özeti":::
+:::image type="content" source="images/pci/pci-sub-report-sub-states-5.png" alt-text="Abonelik durumu dağılımı":::
 
 ## <a name="products-trend"></a>Ürün eğilimi
 
@@ -104,7 +105,7 @@ Bu görünüm bir çubuk grafiği ve iki pasta grafiği gösterir. Çubuk grafik
 
 İki pasta grafik, geçerli müşteri aboneliklerinizin dökümünü gösterir. İlk pasta grafik, ürünlere göre abonelikleri ayırır. İkinci pasta grafik, STB veya planlara göre abonelikleri ayırır. **Ürünlere göre** döküm pasta grafiğinde bir ürünü seçtiğinizde, bitişik pasta grafiğinde bu ürüne ait aboneliklerde SKU 'lara ait bir döküm gösterilir.
 
-:::image type="content" source="images/pci/pci-sub-report-prods-trend-6.png" alt-text="abonelik raporu Özeti":::
+:::image type="content" source="images/pci/pci-sub-report-prods-trend-6.png" alt-text="Ürün eğilimi":::
 
 > [!NOTE]
  > SKU 'Lar tarafından kesilen abonelik sayısı, bu ürün için her zaman toplam abonelik sayısıyla eşleşmeyebilir. Bu durum, bir müşterinin aynı ürün aboneliği kapsamında birden çok SKU satın almış olması durumunda gerçekleşebilir.

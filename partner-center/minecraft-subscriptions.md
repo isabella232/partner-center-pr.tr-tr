@@ -8,24 +8,21 @@ description: Daha sonra Microsoft eğitim mağazalarından indirebilen, nitelikl
 author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
-ms.openlocfilehash: dc4fa7c3828bc6c6bc3fb711184a876c0b92b925
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 2c1c49dee1e9531a725f679b52adc18d4e5d856b
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92531607"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106133021"
 ---
 # <a name="sell-minecraft-education-edition-subscriptions-to-education-customers"></a>Eğitim müşterilerine Minecrat: eğitim sürümü abonelikleri satma
 
-**Uygulama hedefi**
-
--  İş Ortağı Merkezi
-
 **Uygun roller**
--   Genel yönetici
--   Kullanıcı yöneticisi
--   Satış Aracısı
--   Yönetim Aracısı
+
+- Genel yönetici
+- Kullanıcı Yönetimi Yöneticisi
+- Satış Aracısı
+- Yönetim Aracısı
 
 Eğitim kurumlarıyla çalışan iş ortakları, bu kullanıcılara **Minecrat: eğitim sürümü** abonelikleri sunabilir. Aboneliği Iş Ortağı Merkezi ' nde müşterinin adına satın alırsınız ve müşteri, yazılımı [eğitim için Microsoft Store](https://educationstore.microsoft.com)indirir. 
 
@@ -40,16 +37,16 @@ Eğitim kurumlarıyla çalışan iş ortakları, bu kullanıcılara **Minecrat: 
 
   1.  Iş Ortağı Merkezi menüsünden **müşteriler** ' i seçin.
   
-  2.  Müşteri listenizden eğitim müşterinizi seçin ve ardından **Abonelik Ekle** ' yi seçin.
+  2.  Müşteri listenizden eğitim müşterinizi seçin ve ardından **Abonelik Ekle**' yi seçin.
   
   3.  Gereksinimlerinizi en iyi karşılayan faturalandırma sıklığını seçin ve ardından **Katalog** bölümünde **eğitim** ' i seçin.
 
-  4.  Müşterinizin adına satın almak istediğiniz Mineckıft aboneliğini seçin ve lisans sayısını girin. Şunu seçin: **İleri: Gözden Geçir** .
+  4.  Müşterinizin adına satın almak istediğiniz Mineckıft aboneliğini seçin ve lisans sayısını girin. Şunu seçin: **İleri: Gözden Geçir**.
 
       >[!NOTE]
       >Bu lisansları Iş Ortağı Merkezi 'nde görebilir ve yönetebilirsiniz. Cucstomer, bu lisansları [Minecrayft: eğitim sürümü ayrıntıları sayfasında](https://educationstore.microsoft.com/store/details/minecraft-education-edition/9nblggh4r2r6) görebilir ve yönetebilir (Ayrıntılar sayfasını görmek Için Eğitim deposunda oturum açmanız gerekir). 
 
-  5.  Sıra doğruysa **Gönder** ' i seçin. Sırada değişiklik yapmanız gerekiyorsa, **iptal** ' i seçin ve istediğiniz değişiklikleri yapın.   
+  5.  Sıra doğruysa **Gönder**' i seçin. Sırada değişiklik yapmanız gerekiyorsa, **iptal** ' i seçin ve istediğiniz değişiklikleri yapın.   
 
   6.  Aboneliği başarıyla satın aldıktan sonra eğitim müşterinizi [eğitim için Microsoft Store](https://educationstore.microsoft.com) , yazılımın indirileceği ve lisansları dağıtan envanterine yönlendirin.
 

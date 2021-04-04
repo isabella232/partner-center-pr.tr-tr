@@ -1,21 +1,22 @@
 ---
 title: Iş Ortağı Merkezi 'nde ödemeli alma
 description: Ticari Market teklifleri, teşvik programları ve bulut çözümü sağlayıcısı programı gibi bir Microsoft iş ortağı olarak kazanç ödemelerini alma hakkında bilgi edinin. Ödeme ilkesi, ödeme tutma durumu ve ödeme deyimlerini içerir.
-ms.service: marketplace
+ms.service: partner-dashboard
+ms.subservice: partnercenter-mpn
 ms.topic: conceptual
 ms.date: 11/25/2020
 author: eunjkim520
 ms.author: eunjkim
-ms.openlocfilehash: fc1eea0d8a90bb2b5e11dad24a71c9c34fd1a4a0
-ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
+ms.openlocfilehash: 94ed17106b64b078c51de351d1e44e29d3745921
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97492458"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106133089"
 ---
 # <a name="getting-paid-in-partner-center"></a>Iş Ortağı Merkezi 'nde ödemeli alma
 
-**Uygun roller:**
+**Uygun roller**
 
 - Hesap yöneticisi
 - Genel yönetici
@@ -30,7 +31,7 @@ Bu makalede teklifler, eklentiler ve reklam gelirleri için ödeme alma hakkınd
 - [Ödeme ilkesi](payout-policy-details.md) , ödeme zamanlaması ve ödeme yöntemleri dahil olmak üzere ödeme ödeme ilkelerini gösterir. İlke ayrıca müşteri ödemesiz işlemleri de açıklar.
 - [Vergi ayrıntılarında](tax-details-marketplace.md) , Microsoft [Publisher sözleşmesi](https://go.microsoft.com/fwlink/p/?LinkID=699560)kapsamında fiyat seçimi ve vergi sorumluluğu için vergi değerlendirmesi açıklanmaktadır.
 - **Mağaza ücretleri** , yayımcı anlaşmasında resmi olarak tanımlanır. Mağaza ücreti, eklentiler de dahil olmak üzere ticari Market tarafından toplanan tüm teklif satışlarına uygulanır.
-- **Ödemeler** aylık olarak yapılır (ödeme eşiği karşılandı olarak sağlanır). Genellikle söz konusu ayın 15. gününe kadar belirli bir ay boyunca herhangi bir ödeme gönderilir. Ödemeler, ödeme hesabınıza ulaşmak için genellikle 3 ila 10 ek iş günü sürer. Ayrıntılar için bkz. [ödeme eşikleri, Yöntemler ve zaman kareleri](payment-thresholds-methods-timeframes.md).
+- **Ödemeler** aylık olarak yapılır (ödeme eşiği karşılandı olarak sağlanır). Genellikle belirli bir ay için söz konusu ayın 15. gününe kadar olan ödemeleri göndeririz. Ödemeler, ödeme hesabınıza ulaşmak için genellikle 3 ila 10 ek iş günü sürer. Ayrıntılar için bkz. [ödeme eşikleri, Yöntemler ve zaman kareleri](payment-thresholds-methods-timeframes.md).
 
 ## <a name="prerequisite-steps-before-getting-paid"></a>Ödenene kadar önkoşul adımları
 
@@ -38,7 +39,7 @@ Bu makalede teklifler, eklentiler ve reklam gelirleri için ödeme alma hakkınd
 
 ### <a name="payout-hold-status"></a>Ödeme tutma durumu
 
-Varsayılan olarak, yukarıda açıklandığı gibi ödemeleri aylık olarak göndereceğiz. Ancak, ücretlerinizi bir program için bir beklemeye koyabilirsiniz ve Microsoft bu ödemeleri hesabınıza yayınlamaz. Ödelerinizi beklemeye almaya tercih ederseniz, **ödemeler** sayfasında kazanç kaydetmeye devam edeceğiz. Ancak, tutmayı kaldırana kadar hesabınıza herhangi bir ödeme gönderemeyiz.
+Varsayılan olarak, yukarıda açıklandığı gibi ödemeleri aylık olarak göndereceğiz. Ancak, ücretlerinizi bir program için beklemeye koyabilirsiniz ve Microsoft bu ödemeleri hesabınıza yayınlamaz. Ödelerinizi beklemeye almaya tercih ederseniz, **ödemeler** sayfasında kazanç kaydetmeye devam edeceğiz. Ancak, tutmayı kaldırana kadar hesabınıza herhangi bir ödeme gönderemeyiz.
 
 Ödemelerinizi beklemeye koymak için sağ üst köşedeki **Ayarlar** dişli simgesini ve ardından **Hesap ayarları**' nı seçin. Sol taraftaki menüden **ödeme ve vergi** ' ı seçin ve **ödeme ve vergi profili ataması** bölümünde, ödemeleri istediğiniz programı bulun. Bu program için ödemeleri tutmak üzere **ödemi tut** onay kutusunu seçin. Ödeme tutma durumunuzu dilediğiniz zaman değiştirebilirsiniz, ancak kararınız sonraki aylık ödemenin etkisini etkiler. Örneğin, Nisan 'un payından birini tutmak istiyorsanız, Mart 'un sonundan önce, ödeme tutma durumunuzu **Açık** olarak ayarladığınızdan emin olun.
 

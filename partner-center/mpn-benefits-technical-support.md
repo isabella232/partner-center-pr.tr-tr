@@ -9,19 +9,20 @@ author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ea26eb7755aebea67bad1b4bc97e9662c2054591
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: 6adf7039f6ad389f61c9cd0b5e4ad9454db06a5b
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712911"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106133038"
 ---
 # <a name="technical-support-benefits"></a>Teknik destek avantajları
 
 **Uygun roller**
--   Genel yönetici 
--   MPN iş ortağı Yöneticisi 
--   Yönetim Aracısı 
+
+- Genel yönetici
+- MPN iş ortağı Yöneticisi
+- Yönetim Aracısı
 
 ## <a name="overview"></a>Genel Bakış
 
@@ -38,11 +39,11 @@ Iş Ortağı Merkezi 'nde teknik avantajlarınızı görüntülemek ve etkinleş
 2. , Sol gezinti menüsünde avantajlar ' ı genişletin, **Teknik avantajlar**' ı seçin. Teknik avantajlar sayfası, altın, gümüş veya Microsoft Eylem Paketi üyelik tekliflerinizin sunduğu teknik destek avantajlarının bir listesi ile birlikte görüntülenir. 
 
     > [!NOTE]
-    >Etkin üyelik yoksa, "henüz avantajınız yok" iletisini görürsünüz. Şirketinizde etkin üyelik teklifleri varsa ancak bunları göremiyorsanız yanlış hesabı kullanarak oturum açmış olabilirsiniz. Hesabınızı denetlemek için sayfanın sağ üst kısmındaki **Hesap** simgesine tıklayın ve **başka bir hesapla oturum aç** (gerekliyse) seçeneğine tıklayın.
+    >Etkin üyelik yoksa, "henüz avantajınız yok" iletisini görürsünüz. Şirketinizde etkin üyelik teklifleri varsa ancak bunları göremiyorsanız yanlış hesabı kullanarak oturum açmış olabilirsiniz. Hesabınızı denetlemek için sayfanın sağ üst kısmındaki **Hesap** simgesini seçin ve **başka bir hesapla oturum aç** ' ı (gerekliyse) seçin.
 
 3. Microsoft ürün desteği veya Imza ürün desteği kullanmaya başlamak için avantajı etkinleştirmeniz gerekir. Erişim KIMLIĞI ve sözleşme KIMLIĞI, başarıyla etkinleştirilmesinden sonra görüntülenecektir. 
 
-    -   Avantajı etkinleştirmek için Etkinleştir düğmesine tıklayın. Etkinleştirme için kullanılan Kullanıcı hesabı, genel yönetici veya MPN Iş ortağı yöneticisi rollerini gerektirir. Etkinleştirme isteğinizi birkaç güne kadar işlemeye izin verin. 
+    -   Avantajı etkinleştirmek için Etkinleştir düğmesini seçin. Etkinleştirme için kullanılan Kullanıcı hesabı, genel yönetici veya MPN Iş ortağı yöneticisi rollerini gerektirir. Etkinleştirme isteğinizi birkaç güne kadar işlemeye izin verin. 
 
     - Erişim KIMLIĞI ve sözleşme KIMLIĞI görüntülenirken Microsoft ürün desteği ve Imza ürün desteğini (altın ve gümüş Üyeler) kullanabilirsiniz. 
 
@@ -73,7 +74,7 @@ Avantajı ilk kez kullandığınızda erişim KIMLIĞI ve sözleşme KIMLIĞI ge
 
 Herhangi bir kullanıcı hesabı (AAD veya MSA), erişim KIMLIĞI ve sözleşme KIMLIĞI varsa şirket Içi ürünler için teknik destek kullanabilir
 
-Şirket Içi bir ürüne yönelik destek talebi oluşturmak için [Iş desteği](https://support.serviceshub.microsoft.com/supportforbusiness/create) ' ne tıklayın.
+Şirket Içi ürün için destek isteği oluşturmak üzere [Iş desteği](https://support.serviceshub.microsoft.com/supportforbusiness/create) ' ni seçin.
 
 ## <a name="signature-cloud-support-cloud-only"></a>İmza bulutu desteği (yalnızca bulut)
 
@@ -83,13 +84,13 @@ Avantajı ilk kez kullandığınızda erişim KIMLIĞI ve sözleşme KIMLIĞI ge
 
 Azure istekleri oluşturan CSP iş ortakları, destek sözleşmesi eklemeden "bulut çözümü sağlayıcısı" destek planını kullanabilir.
 
-**Yönetici Aracısı** rolüne sahip kullanıcılar, sol gezinti menüsünde, CSP altında bulunan [müşterileri](https://partner.microsoft.com/commerce/customers/list) seçebilir, **hizmet yönetimi**' ni seçebilir ve **yeni istek**' a tıklayabilirsiniz.  İlgili iş yükünü seçtiğinizde, iş yüküne özgü Portal açılır ve bir destek sözleşmesi ekleyip bir istek oluşturursunuz.
+**Yönetici Aracısı** rolüne sahip kullanıcılar, sol gezinti menüsünde, CSP altında bulunan [müşterileri](https://partner.microsoft.com/commerce/customers/list) seçebilir, **hizmet yönetimi**' ni seçebilir ve **yeni istek**' ı seçebilirsiniz.  İlgili iş yükünü seçtiğinizde, iş yüküne özgü Portal açılır ve bir destek sözleşmesi ekleyip bir istek oluşturursunuz.
 
 ## <a name="partner-support-plans"></a>İş ortağı destek planları
 
 Microsoft 'tan, teknik destek ve çeşitli ek hizmet seçenekleri içeren ücretli destek alabilirsiniz. 
 
-İş ortağı [destek planlarını karşılaştırabilir](https://partner.microsoft.com/support/partnersupport) veya aşağıdakilere özel planlar için aşağıdaki adımları izleyebilirsiniz:
+İş [ortağı destek planlarını karşılaştırabilir](https://partner.microsoft.com/support/partnersupport) veya iş ortaklarına özgü planlar için aşağıdan daha fazla bilgi alabilirsiniz:
 
 - [Iş ortakları için Premier destek](https://partner.microsoft.com/support/microsoft-services-premier-support) -Microsoft 'un en yüksek teknik destek düzeyi
 - [Iş ortakları Için gelişmiş destek](https://partner.microsoft.com/support/advanced-cloud-support) -yalnızca bulut ürünleri

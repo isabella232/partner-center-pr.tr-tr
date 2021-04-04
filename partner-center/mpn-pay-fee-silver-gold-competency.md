@@ -8,19 +8,19 @@ ms.subservice: partnercenter-mpn
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
-ms.openlocfilehash: 5ce5dadfc7fbb22ffc206e2dd48cccc0b274c499
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: b8e7d7e7bdd5cb8bc9b90b3461528859eb801d0d
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101757384"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132494"
 ---
 # <a name="how-to-pay-the-fee-associated-with-a-silver-or-gold-competency"></a>Gümüş veya altın uzmanlık ile ilişkili ücreti ödeyin
 
 **Uygun roller**
 
 - MPN iş ortağı Yöneticisi
-- MPN Hesap Yöneticisi
+- Hesap yöneticisi
 
 Bu makalede, bir gümüş veya altın Microsoft İş Ortağı Ağı uzmanlığa göre ilgili ücretin nasıl ve ne zaman ödenmediği açıklanır. Makalede ayrıca tercih edilen ödeme yönteminin nasıl değiştirileceği, bir siparişin nasıl iptal edildiği ve bir gümüş ' den altın uzmanlığa geçiş yaparken yüzde 25 ' lik bir ücret indiriminin nasıl alınacağı açıklanmaktadır.
 

@@ -9,22 +9,19 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d441d121c28c2762d1f1c71d6f6a1e81d089f99c
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: e83c06c11638bdde508fd27904038bcb6d8c9e9c
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "92531006"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132647"
 ---
 # <a name="migrate-dynamics-365-business-edition-offers-to-newer-versions"></a>Dynamics 365 Business Edition Tekliflerini daha yeni sürümlere geçirme
 
-**Uygulama hedefi**
-
-- İş Ortağı Merkezi
-
 **Uygun roller**
+
 - Genel yönetici
-- Kullanıcı yöneticisi
+- Kullanıcı Yönetimi Yöneticisi
 - Yönetim Aracısı
 - Satış Aracısı
 
@@ -32,7 +29,7 @@ ms.locfileid: "92531006"
 
 Müşterilerin devamlılığını sağlamak için, süresi dolan aboneliklerle birlikte aşağıda listelenen desteklenen bir seçeneğe geçiş yapmanız gerekir. Müşterilerin hizmet kesintilerinden kaçınmak için, aboneliğin yıllık bitiş tarihinden önce müşterileri yeni aboneliklere taşımayı öneririz.
 
-API 'YI (CREST veya Partner Center) kullanıyorsanız, Otomatik Yenile = false özelliğiyle birlikte Aboneliğin bitiş tarihini değerlendirerek süresi dolan abonelikleri bulabilirsiniz. Söz konusu abonelikler, 1 Ocak 2019 ' de otomatik yenileme = false olarak ayarlanacak. Müşterileri dilediğiniz zaman yeni bir plana taşıyabilirsiniz. 
+API 'YI (CREST veya Partner Center) kullanıyorsanız, Otomatik Yenile = false özelliğiyle birlikte Aboneliğin bitiş tarihini değerlendirerek süresi dolan abonelikleri bulabilirsiniz. Söz konusu abonelikler, 1 Ocak 2019 tarihinde otomatik olarak Yenile = false olarak ayarlanacak. Müşterileri dilediğiniz zaman yeni bir plana taşıyabilirsiniz. 
 
 ## <a name="the-dynamics-365-business-editions-being-retired"></a>Kullanımdan kalkmakta olan Dynamics 365 Iş sürümleri
 
@@ -55,20 +52,20 @@ Dynamics 365 Business Edition müşterileri, 30 Haziran 2020 ' e kadar yeni Iş 
 ## <a name="purchase-the-new-plan-for-your-customer"></a>Müşteriniz için yeni planı satın alın
 
 1. Sol gezinti bölmesinde **müşteriler** ' i seçin ve sonra yeni aboneliğe taşımak istediğiniz müşteriyi seçin.
-2. **Abonelik Ekle** ' yi seçin.
-3. Katalogdan satın almak istediğiniz aboneliği seçin (Bu durumda yukarıdaki seçeneklerden biri), lisansların sayısını girin ve ardından **Gönder** ' i seçin. 
+2. **Abonelik Ekle**' yi seçin.
+3. Katalogdan satın almak istediğiniz aboneliği seçin (Bu durumda yukarıdaki seçeneklerden biri), lisansların sayısını girin ve ardından **Gönder**' i seçin. 
 
 Müşterinizin artık hem eski hem de yeni bir abonelik olacak. Bir sonraki adımınız, lisansları müşterinin kullanıcılarına yeniden atamak olur.
 
 1. Sol gezinti çubuğunda **müşteriler** ' i seçin ve ardından taşıdığınız müşteriyi seçin.
 2. **Kullanıcılar ve lisanslar ' ı** seçin.
-3. Bir kullanıcıya bir lisansı yeniden atamak için kullanıcıyı seçin ve ardından **Lisansları Yönet** ' i seçin. 
+3. Bir kullanıcıya bir lisansı yeniden atamak için kullanıcıyı seçin ve ardından **Lisansları Yönet**' i seçin. 
 4. **Lisansları Yönet** sayfasında, temel (nitelikli teklif) lisanstan satış/müşteri katılım planı için Dynamics 365 ' i temizleyin ve müşterinin taşınmakta olduğu abonelik için yeni bir hizmet planı seçin. 
-5. **Gönder** ’i seçin. Bunu, yeni lisansa ihtiyacı olan her kullanıcı için yapabilirsiniz. 
+5. **Gönder**’i seçin. Bunu, yeni lisansa ihtiyacı olan her kullanıcı için yapabilirsiniz. 
 
 Lisansları yeni aboneliğe taşındıktan sonra eski aboneliği iptal edebilirsiniz. 
 
 1. Sol gezinti çubuğunda **müşteriler** ' i seçin ve ardından taşıdığınız müşteriyi seçin.
-2. Abonelik Ayrıntıları sayfasında, eski aboneliği **askıya alındı** olarak ayarlayın ve **Gönder** ' i seçin.
+2. Abonelik Ayrıntıları sayfasında, eski aboneliği **askıya alındı** olarak ayarlayın ve **Gönder**' i seçin.
 
 Eski abonelik artık askıya alındı ve yeni abonelik etkin. Askıya alınan abonelik 120 gün sonra otomatik olarak sağlanacaktır. Müşterinizin eski abonelik için ek ücret ödemeyecektir.

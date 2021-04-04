@@ -9,19 +9,19 @@ author: parthpandyaMSFT
 ms.author: ParthP
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 459f347d960a06f78a30a398dc51b67f2fa7d27b
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 0787056d8d32db4a2975f7488bb65141c240ff88
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92531603"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132664"
 ---
 # <a name="moving-multiple-companies-to-partner-center-from-partner-membership-center-pmc"></a>Birden çok şirketi Iş ortağı üyeliği merkezinden Iş Ortağı Merkezi 'ne taşıma (PMC)
 
 **Uygun roller**
 
 - Genel yönetici
-- Kullanıcı yöneticisi
+- Kullanıcı Yönetimi Yöneticisi
 - Yönetim Aracısı
 - Satış Aracısı
 
@@ -47,11 +47,11 @@ Geçiş yaptıktan sonra, yanlış şirket hesabının yasal iş olarak tasarlan
 
 Mevcut hesabınızı ve şirketinizin ayrıntılarını (Şu anda oturum açtığınız hesap) Bu hesapta birleştirileceğini bildiren bir notunuz görürsünüz.
 
-:::image type="content" source="images/migration/existingaccount2.png" alt-text="Mevcut hesap":::
+:::image type="content" source="images/migration/existingaccount2.png" alt-text="Iş Ortağı Merkezi 'nde hesap":::
 
 Bu ekranda, Iş Ortağı Merkezi 'nde zaten oluşturulmuş olan mevcut hesabın (ad ve adres) ayrıntıları ve birincil kişinin ayrıntıları gösterilir.
 
-**Devam** ’ı seçin.
+**Devam**’ı seçin.
 
 ## <a name="what-happens-during-consolidation-of-accounts"></a>Hesapların birleştirilmesi sırasında ne olur?
 
@@ -76,11 +76,11 @@ Bu ekranda, Iş Ortağı Merkezi 'nde zaten oluşturulmuş olan mevcut hesabın 
 Ayrıntılar, PMC 'deki bilgilere dayanır ve şirketin yasal olduğundan emin olmak için doğrulanır.
 
 
-:::image type="content" source="images/migration/review.png" alt-text="Mevcut hesap":::
+:::image type="content" source="images/migration/review.png" alt-text="Ayrıntıları gözden geçir":::
 
 Taşıdığınız hesap var olan hesapla aynı ülkede veya bölgede ise, bu adresi kullanmak veya başka bir adres eklemek istediğinize karar verebilirsiniz. Farklı bir adres kullanmaya karar verirseniz, bu adres doğrulanır. Aynı adresi kullanmak istiyorsanız, var olan adres ve birincil ilgili kişi kullanılacaktır.
 
-Bu ekrandaki bilgileri doğruladıktan/düzenledikten sonra Gönder ' e tıklayın ve hesaplarınız birleştirilir.
+Bu ekrandaki bilgileri doğruladıktan/düzenledikten sonra **Gönder** ' i seçtiğinizde hesaplarınız birleştirilir.
 
 ## <a name="partner-profile"></a>İş ortağı profili
 

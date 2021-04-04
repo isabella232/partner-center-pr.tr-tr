@@ -9,20 +9,20 @@ ms.author: iswillia
 ms.localizationpriority: high
 ms.topic: conceptual
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3f521e05fbf0b3a6c209a84ed9ab53d2502960a5
-ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
+ms.openlocfilehash: d56b9675ea405b29190f68420037ea9a92f3d831
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 02/06/2021
-ms.locfileid: "99624162"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086558"
 ---
 # <a name="security-requirements-status-report"></a>Güvenlik gereksinimleri durum raporu
 
 **Uygun roller**
-- Denetim Masası satıcıları
-- Genel Yöneticiler
+- CPV Yöneticisi
+- Genel yönetici
 
-Bu makalede, Iş Ortağı Merkezi 'nde güvenlik gereksinimleri durum raporu açıklanır. Bu rapor, iş ortağı kiracınızdaki kullanıcılar için Multi-Factor Authentication (MFA) için [iş ortağı güvenlik gereksinimleriyle](partner-security-requirements.md) uyumluluk için ölçümler sunar.
+Bu makalede, Iş Ortağı Merkezi 'nde güvenlik gereksinimleri durum raporu açıklanır. Bu rapor, iş ortağı kiracınızdaki kullanıcılar için Multi-Factor Authentication (MFA) için [iş ortağı güvenlik gereksinimleriyle](partner-security-requirements.md) uyumluluk açısından ölçümler sunar.
 
 [İş ortağı merkezi](https://partner.microsoft.com/dashboard)'nde bu rapora erişmek için **Ayarlar**  >  **Hesap ayarları**  >  **güvenlik gereksinimleri durum**' a gidin. Rapor günlük olarak güncelleştirilir ve son yedi gündeki oturum açma verilerini yansıtır.
 
@@ -35,7 +35,7 @@ Güvenlik gereksinimleri durum raporu, iş ortağı MFA uygulamasıyla ilgili ö
 
 ### <a name="mfa-configuration-on-a-partner-tenant"></a>Bir iş ortağı kiracısında MFA yapılandırması
 
-**MFA ile etkinleştirilen kullanıcı hesaplarının ölçüm yüzdesi, burada listelenen seçenekler kullanılarak zorlandı:** iş ortağı kiracınızda MFA 'ya zorlanan etkin kullanıcı hesaplarının yüzdesini gösterir. Uyumluluk elde etmek için bu [MFA seçeneklerinden](/azure/active-directory/fundamentals/concept-fundamentals-mfa-get-started) birini kullanabilirsiniz. Bu veriler, günlük olarak yakalanır ve raporlanır. Örneğin:
+**MFA ile etkinleştirilen kullanıcı hesaplarının ölçüm yüzdesi, burada listelenen seçenekler kullanılarak zorlandı:** iş ortağı kiracınızda MFA 'ya zorlanan etkin kullanıcı hesaplarının yüzdesini gösterir. Uyumluluk elde etmek için bu [MFA seçeneklerinden](/azure/active-directory/fundamentals/concept-fundamentals-mfa-get-started) birini kullanabilirsiniz. Bu veriler, günlük olarak yakalanır ve raporlanır. Örnek:
 
 - Contoso, kiracıda 110 Kullanıcı hesabı olan bir CSP iş ortağıdır, bu kullanıcı hesaplarının 10 ' u devre dışı bırakılır. 
 - 100 Kullanıcı hesabının geri kalanında 90, sunulan [MFA seçenekleri](/azure/active-directory/fundamentals/concept-fundamentals-mfa-get-started)kullanılarak MFA 'ya zorlanır. Bu nedenle, ölçüm %90 gösterir. 
@@ -46,20 +46,20 @@ Güvenlik gereksinimleri durum raporu, iş ortağı MFA uygulamasıyla ilgili ö
 
 #### <a name="dashboard-mfa-verification"></a>Pano MFA doğrulaması
 
-**Iş Ortağı Merkezi portalındaki** ölçüm, Iş Ortağı Merkezi panosu dahilinde etkinliklerle ilgilidir. MFA doğrulamasını tamamlayan kullanıcılar tarafından yapılan işlemlerin yüzdesini ölçer. Örneğin:
+**Iş Ortağı Merkezi portalındaki** ölçüm, Iş Ortağı Merkezi panosu dahilinde etkinliklerle ilgilidir. MFA doğrulamasını tamamlayan kullanıcılar tarafından yapılan işlemlerin yüzdesini ölçer. Örnek:
 
 - Contoso, kemal ve John olmak üzere iki yönetici aracısına sahip bir CSP iş ortağıdır.
 - İlk gün, Gamze doğrulaması olmadan Iş Ortağı Merkezi panosunda oturum açtı ve üç işlem yaptı.
 - İkinci günde John, MFA doğrulaması olmadan Iş Ortağı Merkezi panosunda oturum açtı ve beş işlem yaptı.
 - Üçüncü günde, Gamze, MFA doğrulaması ile Iş Ortağı Merkezi panosunda oturum açtı ve iki işlem yaptı.
 - Kalan dört gün içinde herhangi bir aracı tarafından bir işlem yapılmadı.
-- 7 günlük pencerede yapılan 10 işlemden sonra, MFA doğrulaması ile Kullanıcı tarafından iki tanesi yapılmıştır. Bu nedenle, ölçüm %20 ' yi gösterir.
+- Yedi günlük pencerede yapılan 10 işlemden sonra, MFA doğrulaması ile Kullanıcı tarafından iki tanesi yapılmıştır. Bu nedenle, ölçüm %20 ' yi gösterir.
 
 Iş Ortağı Merkezi panosunda MFA doğrulaması yapmadan hangi kullanıcının oturum açtığını ve raporlama penceresi sırasında en son ziyaret zamanını anlamak için **MFA olmadan dosya portalı isteklerini** kullanın.
 
 #### <a name="appuser-mfa-verification"></a>Uygulama + Kullanıcı MFA doğrulaması
 
-**API veya SDK aracılığıyla** ölçüm, Iş Ortağı Merkezi API Istekleri aracılığıyla App + kullanıcı kimlik doğrulaması ile ilgilidir. MFA talebine sahip bir erişim belirteci kullanılarak yapılan API isteklerinin yüzdesini ölçer. Örneğin:
+**API veya SDK aracılığıyla** ölçüm, Iş Ortağı Merkezi API Istekleri aracılığıyla App + kullanıcı kimlik doğrulaması ile ilgilidir. MFA talebine sahip bir erişim belirteci kullanılarak yapılan API isteklerinin yüzdesini ölçer. Örnek:
 
 - Fabrikam bir CSP iş ortağıdır ve App + kullanıcı kimlik doğrulaması ve yalnızca uygulama kimlik doğrulama yöntemlerinin bir karışımını kullanan bir CSP uygulamasına sahiptir.
 - İlk günde uygulama, MFA doğrulaması olmadan uygulama + kullanıcı kimlik doğrulama yöntemi aracılığıyla elde edilen bir erişim belirteciyle desteklenen üç API isteği yaptı.
@@ -82,7 +82,7 @@ MFA 'yı uygulayan bazı iş ortakları rapor ölçümlerini %100 oranında gör
 
 ### <a name="implemented-mfa-for-your-partner-tenant"></a>İş ortağı kiracınız için MFA uygulandı
 
-Uyumluluğa ulaşmak için iş ortağı kiracınız için MFA 'yı uygulamanız gerekir. MFA 'yı uygulama hakkında daha fazla bilgi için bkz. [Iş ortağı merkezi veya Iş Ortağı Merkezi API 'leri kullanma Için güvenlik gereksinimleri](partner-security-requirements.md).
+Uyumluluğa ulaşmak için iş ortağı kiracınız için MFA uygulamanız gerekir. MFA 'yı uygulama hakkında daha fazla bilgi için bkz. [Iş ortağı merkezi veya Iş Ortağı Merkezi API 'leri kullanma Için güvenlik gereksinimleri](partner-security-requirements.md).
 
 >[!NOTE]
 > MFA ölçümleri günlük olarak hesaplanır ve son yedi gün içinde gerçekleştirilen hesap işlemlerini alır. İş ortağı kiracınız için yalnızca en son MFA uygulamasını tamamladıysanız ölçümler henüz %100 ' ı gösteremeyebilir.

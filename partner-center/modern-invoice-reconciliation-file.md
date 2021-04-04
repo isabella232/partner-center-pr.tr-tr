@@ -8,12 +8,12 @@ ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
-ms.openlocfilehash: 74974c68c607ddcee4aff6abd53284a60653fb0b
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: 66159d886914336180e8531ec07db3a9d8880a88
+ms.sourcegitcommit: 766b2bb46dffd29e532b42106359f83e51b96700
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712265"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106103783"
 ---
 # <a name="csp-one-time-purchase-reconciliation-file-fields"></a>CSP tek seferlik satın alma mutabakatı dosya alanları
 
@@ -48,17 +48,17 @@ Karşılaştırma dosyaları hakkında daha fazla bilgi için bkz. [karşılaşt
 | Para Birimi | Faturanız, müşterinin para birimi bağlamında oluşturulur. Yani, farklı faturalanabilir para birimlerinden müşterilerle bir iş ortağı deneyimidir iseniz, her müşteri para birimi türü için bir fatura alacaksınız.  | *EUR* |
 | PriceAdjustmentDescription | Birim fiyatındaki ayarlamaların nedenleri. Bunlar ana nedenlerdir, ancak geçerli birim fiyatını belirlemekten sınırlı değildir. | *["15,0% Partner for Services tarafından kazanılan krediler"]* |
 | PublisherName | Ürünün yayımcısı.  | *Microsoft* |
-| PublisherId | Iş ortağı merkezinin yayımcıyı tanımlamak için kullandığı benzersiz bir tanımlayıcı. | *YANA* |
+| PublisherId | Iş ortağı merkezinin yayımcıyı tanımlamak için kullandığı benzersiz bir tanımlayıcı. | *NA* |
 | Abonelik açıklaması | Fiyat listesinde tanımlandığı şekilde, müşteri tarafından satın alınan hizmet sunumunun adı. Bu sütun, OfferName ile özdeş bir alandır. | *Azure planı* |
 | SubscriptionId | Microsoft faturalandırma platformunda bir abonelik için benzersiz tanımlayıcı. Mutabakat için kullanılmıyor. Bu tanımlayıcının iş ortağı yönetim konsolundaki abonelik KIMLIĞIYLE aynı olmadığına unutmayın. | *307628f1-d9d2-f09c-ea1f-4183f0cae308* |
-| ChargeStartDate | İş ortağı merkezinin abonelik ücreti için ücretlendirdiği tarih. Abonelik bir yıllık faturalandırma dönemi ve aylık faturalandırma planıyla satın alındığında, ilk mutabakat dosyasında bu, aboneliğin satın alındığı gün olur. Sonraki mutabakat dosyasıyla başlayarak, 30 güne kadar artırılır. | *9/1/2020* |
-| ChargeEndDate | Aboneliğin fatura döngüsünün bitiş günü. Abonelik bir yıllık faturalandırma dönemi ve aylık faturalandırma planıyla satın alındığında, ilk mutabakat dosyasında, abonelik satın alındıktan sonra bu 30 gün olur. Sonraki mutabakat dosyasıyla başlayarak, 30 güne kadar artırılır. | *30.09.2020* |
+| ChargeStartDate | Bir aboneliğin fatura döneminin başladığı tarih. | *9/1/2020* |
+| ChargeEndDate | Bir aboneliğin fatura döneminin sona erdiği tarih. | *30.09.2020* |
 | Tertermbillingcycle | Satın alma sırasında aboneliğe devam etme taahhüdünde geçen süre. | *Depolanan veri (GB/ay)* |
 | Efekt, BirimFiyat | Fatura döngüsünün maliyetini hesaplamak için eşit olarak dağıtılmış birim fiyatı. İndirimler, faturalandırma günlerindeki ayarlamalar ve diğer faktörler, geçerli birim fiyatını belirlemektir. Daha fazla bilgi için bkz. [geçerli birim fiyat hesaplaması](./effective-unit-price-calculation.md).  | *0,03825* |
 | UnitType | Ölçerin ücretlendirildiği birimin türü. | *1 GB/Ay* |
 | AlternateId | Başvurulan sipariş satırı öğesinin alternatif KIMLIĞI. | *6dc5c039750a* |
 | BillableQuantity | Faturalandırılan toplam miktar.  | *0,005001* |
-| BillingFrequency | Satın alma sırasında seçilen faturalandırma planı. | *YANA*  |
+| BillingFrequency | Satın alma sırasında seçilen faturalandırma planı. | *NA*  |
 | PricingCurrency | Fiyat listesindeki para birimi. | *USD* |
 | PCToBCExchangeRate | Ödeme para birimine fiyatlandırma para birimi için uygulanan döviz kuru. | *0,846202666* |
 | PCToBCExchangeRateDate | Faturalandırma para birimine yönelik fiyatlandırma para biriminin belirlendiği tarih. | *30.09.2020* |

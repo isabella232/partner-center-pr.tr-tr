@@ -9,24 +9,23 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5f743834578b4a4b40453704a9ca1ef5adf4bc82
-ms.sourcegitcommit: 6d45415908711cd0e28aeb19756b036274dcd326
+ms.openlocfilehash: 925532881b6f28b2e7a9d06372a92eed95716d48
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/15/2020
-ms.locfileid: "92530965"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132732"
 ---
 # <a name="multi-channel-support---using-other-partners-to-support-customer-subscriptions-purchased-elsewhere"></a>Çoklu kanal desteği-başka bir yerde satın alınan müşteri aboneliklerini desteklemek için diğer iş ortakları kullanma
 
-**Uygulama hedefi**
+**Şunlara uygulanır**
 
-- İş Ortağı Merkezi
-- ABD kamu için Microsoft Bulut iş ortağı Merkezi
+- Microsoft kamu bulutu için iş ortağı Merkezi
 
 **Uygun roller**
 
 - Genel yönetici
-- Kullanıcı yöneticisi
+- Kullanıcı Yönetimi Yöneticisi
 - Satış Aracısı
 
 Iş ortağı merkezinin çok kanallı özelliği, bir müşteri, başka bir yerde satın aldıkları bir aboneliği yönetmek ve desteklemek için bir iş ortağı işe almak istediğinde senaryoları destekler. Müşteri şu durumlarda çok kanallı destek geçerlidir:

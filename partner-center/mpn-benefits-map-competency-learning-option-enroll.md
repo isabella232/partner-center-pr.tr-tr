@@ -8,19 +8,19 @@ ms.subservice: partnercenter-csp
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
-ms.openlocfilehash: 12fea98deb0b4ad0fc85783d04912ac7f76b8115
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: de833ae713fe88335103e9dbaa96153ad20ec84e
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756133"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106133055"
 ---
 # <a name="use-partner-center-to-enroll-as-a-microsoft-learning-partner"></a>Iş Ortağı Merkezi 'ni kullanarak Microsoft Learning Iş ortağı olarak kaydetme
 
 **Uygun roller**
 
 - MPN iş ortağı Yöneticisi
-- MPN Hesap Yöneticisi
+- Hesap yöneticisi
 
 Bu makalede, Microsoft İş Ortağı Ağı bir ortağın öğrenme Iş ortağı programına nasıl kaydedebileceği çeşitli yollar açıklanmaktadır.
 
@@ -50,7 +50,7 @@ Microsoft, bir uzman uzantısı (bulut Business Applications uzmanlığına sahi
 
 Öğrenme Eylem Paketi Eğitim Hizmetleri, kurs veya indirimler sağlamak isteyen iş ortaklarını ve yardım ortaklarının çeşitli Microsoft ürün hatları genelinde uzmanlar olmasına yardımcı olma avantajlarını destekler.
 
-Öğrenme amaçlı olmayan iş ortakları yalnızca dahili eğitim için tam fiyata kurs satın alabilir. İçeriği kuruluşunuzun dışına teslim etmek isterseniz, Microsoft sertifikalı bir eğitime (1 MCT) gerekir ve öğrenimi Eylem Paketi kaydolmak zorunda kalır.
+Öğrenme amaçlı olmayan iş ortakları yalnızca dahili eğitim için tam fiyata kurs satın alabilir. İçeriği kuruluşunuzun dışına teslim etmek isterseniz, Microsoft sertifikalı bir eğitime (bir MCT) gerekir ve öğrenimi Eylem Paketi kaydolmak zorunda kalır.
 
 Gerekli KPI 'Lara ulaştığınızda ek gereksinimleri tamamlayabilir ve gümüş/altın bir öğrenme seçeneğine yükseltme seçeneğini kullanabilirsiniz.
 
@@ -109,7 +109,7 @@ Evet, KPI 'Lar Iş Ortağı Merkezi 'nde tanınmalıdır.
 
 KPI raporları, Ayın ortasında ayda bir kez güncelleştirilir. Öğrenme programı yenileme uygunluğu, önceki 12 ay boyunca, yıl dönümü Tarih temelinde sunulan KPI 'ler için ölçülür. Örneğin, 15 Ocak 2020 ' den itibaren, KPI verileri 2019 Ocak-Aralık 2019 için görüntülenir. Faturanızda Ocak 2020, karşılık gelen KPI 'Lar 15 Şubat 2019 tarihinden itibaren görünür olacaktır. **Sipariş onaylarının ve iş ortağı raporlarının kabul edilmeyecektir.** Yalnızca gerçek faturalar kabul edilecektir.
 
-### <a name="q-does-a-one-day-training-equate-to-1-kpi"></a>S. Tek günlü bir eğitim 1 KPI 'ye eşit midir?
+### <a name="q-does-a-one-day-training-equate-to-one-kpi"></a>S. Tek günlü bir eğitim bir KPI 'ye karşılık gelir mı?
 
 KPI toplantısı, eğitimin süresiyle ilgilidir. KPI 'lerin nasıl ölçüldüğü hakkında daha fazla bilgi edinmek için [öğrenme Iş ortağı Kayıt Kılavuzu](https://partner.microsoft.com/asset/collection/learning-option-enrollment#/)'ndaki performans örnekleri ' ne bakın.
 

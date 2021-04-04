@@ -9,24 +9,21 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bbd2aceac62a7e726ed81a78305ea23213c94156
-ms.sourcegitcommit: 36a60f672c1c3d6b63fd225d04c5ffa917694ae0
+ms.openlocfilehash: 8a9662e0ce99fc054149dfbd4149532ce336eff6
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/03/2020
-ms.locfileid: "92530946"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132630"
 ---
 # <a name="migrate-office-365-e4-subscriptions-to-newer-office-365-versions"></a>Office 365 E4 aboneliklerini yeni Office 365 sürümlerine geçirme
 
-**Uygulama hedefi**
-
--  İş Ortağı Merkezi
-
 **Uygun roller**
--   Genel yönetici
--   Kullanıcı yöneticisi
--   Yönetim Aracısı
--   Satış Aracısı
+
+- Genel yönetici
+- Kullanıcı Yönetimi Yöneticisi
+- Yönetim Aracısı
+- Satış Aracısı
 
 Office 365 Enterprise E4 planı kullanımdan kalkmışsa, 7 Nisan 2017 ' de geçerli değildir. Bu tarihten sonra yeni Office 365 E4 abonelikleri satın alınmaz ve var olan E4 abonelikleri süreleri dolduğunda otomatik olarak yenilenmeyecektir.
 
@@ -56,14 +53,14 @@ E4 ile aynı işlevselliği korumayı seçebilirsiniz veya müşterilerinizin Of
 
 | Özellik | 1\. Seçenek | 2\. Seçenek | Seçenek 3 | 4 seçeneği |
 | :---    | :------: |   :---:  |   :---:  |   :---:  |
-| Office 365 Kurumsal E4 'ye dahil olan tüm özellikler mi alınır? | Evet | Evet | Evet | Hayır |
-| Office 365 ' de yönetilen telefon numaraları? | Evet | Evet | Hayır | Hayır |
-| Telefon numaraları hem şirket içinde hem de Office 365 ' de (karma dağıtım) yönetiliyor mu? | Evet | Evet | Hayır | Hayır |
-| PSTN sesli arama planı ekleme seçeneği | Evet | Evet | Hayır | Hayır |
-| PSTN Konferansı? | Evet | Hayır | Hayır | Hayır |
-| İşbirliği, analiz ve güvenlik için gelişmiş araçlar? | Evet | Hayır | Hayır | Hayır |
-| Etkileşimli raporlar, panolar ve veri görselleştirmeleri? | Evet | Hayır | Hayır | Hayır | 
-| Yerleşik gizlilik, saydamlık ve iyileştirilmiş Kullanıcı denetimleriyle veri güvenliği ve uyumluluk üzerinde daha fazla denetim var mı? | Evet | Hayır | Hayır | Hayır | 
+| Office 365 Kurumsal E4 'ye dahil olan tüm özellikler mi alınır? | Yes | Yes | Yes | Hayır |
+| Office 365 ' de yönetilen telefon numaraları? | Yes | Yes | Hayır | Hayır |
+| Telefon numaraları hem şirket içinde hem de Office 365 ' de (karma dağıtım) yönetiliyor mu? | Yes | Yes | Hayır | Hayır |
+| PSTN sesli arama planı ekleme seçeneği | Yes | Yes | Hayır | Hayır |
+| PSTN Konferansı? | Yes | Hayır | Hayır | Hayır |
+| İşbirliği, analiz ve güvenlik için gelişmiş araçlar? | Yes | Hayır | Hayır | Hayır |
+| Etkileşimli raporlar, panolar ve veri görselleştirmeleri? | Yes | Hayır | Hayır | Hayır | 
+| Yerleşik gizlilik, saydamlık ve iyileştirilmiş Kullanıcı denetimleriyle veri güvenliği ve uyumluluk üzerinde daha fazla denetim var mı? | Yes | Hayır | Hayır | Hayır | 
 
 ## <a name="transition-customers-to-new-product-plans"></a>Müşterilerin yeni ürün planlarına geçişini sağlar
 
@@ -77,21 +74,21 @@ Müşterinin Office 365 Kurumsal E4 aboneliğini Yukarıdaki tablodaki seçenekl
 
 ### <a name="step-1---purchase-the-new-subscription"></a>1. adım-yeni aboneliği satın alma
 
-1. **Iş Ortağı Merkezi** menüsünden **müşteriler** ' i seçin, taşımak istediğiniz müşteriyi seçin ve ardından **Abonelik Ekle** ' yi seçin.
+1. **Iş Ortağı Merkezi** menüsünden **müşteriler**' i seçin, taşımak istediğiniz müşteriyi seçin ve ardından **Abonelik Ekle**' yi seçin.
 
-2. Katalogdan satın almak istediğiniz aboneliği seçin (Bu durumda yukarıdaki seçeneklerden biri), lisansların sayısını girin ve ardından **Gönder** ' i seçin.
+2. Katalogdan satın almak istediğiniz aboneliği seçin (Bu durumda yukarıdaki seçeneklerden biri), lisansların sayısını girin ve ardından **Gönder**' i seçin.
 
    Müşterinizin artık eski ve yeni abonelikleri, eski Office 365 Enterprise E4 aboneliği ve yeni ' Target ' aboneliği olmalıdır; örneğin, 1-Office 365 Enterprise E5.
 
 ### <a name="step-2---reassign-the-customers-users-licenses"></a>2. adım-müşterinin kullanıcılarının lisanslarını yeniden atama
 
-1. **Iş Ortağı Merkezi** menüsünden **müşteriler** ' i seçin, taşımak istediğiniz müşteriyi seçin ve ardından **Kullanıcılar ve lisanslar** ' ı seçin. Müşterinin kullanıcılar ve lisanslar sayfası açılır.
+1. **Iş Ortağı Merkezi** menüsünden **müşteriler**' i seçin, taşımak istediğiniz müşteriyi seçin ve ardından **Kullanıcılar ve lisanslar**' ı seçin. Müşterinin kullanıcılar ve lisanslar sayfası açılır.
 
-2. Kullanıcı lisanslarını yeniden atamak için, yeniden atanacak kullanıcıyı seçin ve ardından **Lisansları Yönet** ' i seçin.
+2. Kullanıcı lisanslarını yeniden atamak için, yeniden atanacak kullanıcıyı seçin ve ardından **Lisansları Yönet**' i seçin.
 
 3. **Lisansları Yönet** sayfasında, **Office 365 Kurumsal E4** Lisansı onay kutusunu temizleyin ve müşterinin taşınmakta olduğu abonelik için yeni bir hizmet planı seçin.
 
-4. **Gönder** ’i seçin. Bir onay sayfası yeni lisans atamalarını listeler.
+4. **Gönder**’i seçin. Bir onay sayfası yeni lisans atamalarını listeler.
 
 5. Lisans yeniden ataması gerektiren diğer müşteri kullanıcılarıyla aynı adımlara devam edin.
 
@@ -99,17 +96,17 @@ Kullanıcı lisanslarını yeni hizmete taşıdıktan sonra, kullanımdan kaldı
 
 ### <a name="step-3---cancel-the-old-subscription"></a>3. adım-eski aboneliği Iptal et
 
-1. **Iş Ortağı Merkezi** menüsünde **müşteriler** ' i seçin. Taşımak istediğiniz müşteriyi seçin ve iptal etmek istediğiniz aboneliği seçin.
+1. **Iş Ortağı Merkezi** menüsünde **müşteriler**' i seçin. Taşımak istediğiniz müşteriyi seçin ve iptal etmek istediğiniz aboneliği seçin.
 
 2. Abonelik Ayrıntıları sayfasında, abonelik durumunu **askıya alındı** olarak ayarlayın.
 
-3. **Gönder** ’i seçin.
+3. **Gönder**’i seçin.
 
 Eski abonelik askıya alındı ve yeni abonelik etkin. Askıya alınan abonelik 120 gün sonra otomatik olarak sağlanacaktır. Müşteri, eski abonelik için ek maliyet içermez.
 
 
 
- 
+ 
 
 
 

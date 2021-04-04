@@ -9,24 +9,23 @@ author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 728a1b7ec4d6b51174f1d3f6fcf21a6385fc4e7a
-ms.sourcegitcommit: c79137fba9e70037a2dc0e4a99c7334696c3740a
+ms.openlocfilehash: c2f8e4d3351c9905d7066534946b24bd9a8c8cd4
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 11/30/2020
-ms.locfileid: "96322126"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132273"
 ---
 # <a name="multi-partner-support-for-customers-who-want-to-work-with-more-than-one-partner"></a>Birden fazla iş ortağıyla çalışmak isteyen müşteriler için çoklu iş ortağı desteği
 
 **Şunlara uygulanır**
 
-- İş Ortağı Merkezi
-- Microsoft Cloud for US Government için İş Ortağı Merkezi
+- Microsoft kamu bulutu için iş ortağı Merkezi
 
 **Uygun roller**
 
 - Genel yönetici
-- Kullanıcı yöneticisi
+- Kullanıcı Yönetimi Yöneticisi
 - Satış Aracısı
 
 Iş ortağı merkezinin çoklu iş ortağı özelliği, bir müşteri birden fazla iş ortağıyla çalışmak istediğinde senaryoları destekler. Örneğin, bir müşteri Office 365 ' de uzmanlığına yönelik bir iş ortağı sağlamak isteyebilir, ancak Microsoft Azure uzmanlaşmış farklı bir iş ortağı işe alabilir.

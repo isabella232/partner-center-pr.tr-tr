@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4a3b00db6b48d95da58cdc130832ba5dc1ab990f
-ms.sourcegitcommit: 147813ba322653c989df5afe0b3bf0c252523a92
+ms.openlocfilehash: 4e7ff0ae1f5ca99cee25e3fa8740212d0b697f70
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96556387"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132953"
 ---
 # <a name="partner-with-microsoft-and-discover-membership-benefits"></a>Microsoft ile iş ortağı ve üyelik avantajlarını keşfet
 
@@ -22,10 +22,10 @@ ms.locfileid: "96556387"
 
 - Genel yönetici
 - MPN iş ortağı Yöneticisi
-- Kullanıcı yöneticisi
+- Kullanıcı Yönetimi Yöneticisi
 - Yönetim Aracısı
 
-Microsoft İş Ortağı Ağı (MPN), sektördeki en geniş ürünlerin yanı sıra işletmenizi ayırt etmek, pazara gitmek ve çözümlerinizi satmak için program seçenekleri sunar. Ücretsiz olarak katılarak bir Microsoft eylem paketi, Starter Kit veya uzmanlığa sahip ortaklığınızda yatırım yapın.
+Microsoft İş Ortağı Ağı (MPN), işletmenizi ayırt etmek, Pazar alanına gitmek ve çözümlerinizi satmak için sektör ve program seçeneklerindeki en geniş ürün yelpazörünü sağlar. Ücretsiz olarak katılarak bir Microsoft eylem paketi, Starter Kit veya uzmanlığa sahip ortaklığınızda yatırım yapın.
 
 Bir Microsoft iş ortağı programına katılırsanız, müşterilerinize Amaze ve iş büyümesi için gereken ilişkilere, öngörülere, araçlara, kaynaklara ve programlara bağlanmanızı sağlayan küresel bir topluluğun parçası haline gelir. İş hedeflerinizi elde ettiğiniz sırada, daha fazla avantaja erişmek ve ağ üzerindeki diğer iş ortaklarıyla ilişkinizi geliştirmek için, programa benzersiz ihtiyaçlarınıza uygun düzeyde katılın. 
 

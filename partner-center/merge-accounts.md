@@ -2,20 +2,22 @@
 title: İş ortağı hesabınızı başka bir iş ortağı hesabıyla birleştirme
 description: İş Ortağı Merkezi 'nde etkin Microsoft iş ortakları olan şirketler için iş ortağı hesabı 'nı Iş Ortağı Merkezi 'nde başka bir iş ortağı hesabıyla birleştirmeyi öğrenin.
 ms.topic: article
+ms.service: partner-dashboard
+ms.subservice: partnercenter-mpn
 author: parthpandyaMSFT
 ms.author: parthp
 ms.custom: seodec18
 ms.date: 06/12/2020
-ms.openlocfilehash: ad5cc0e9c8642ceb309cac3f5fc7c99534c3dcda
-ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
+ms.openlocfilehash: 90d1fe9728c43d2f34b6cfe2d9e4c9613d865aeb
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98182605"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106133072"
 ---
 # <a name="merge-your-partner-account-with-another-partner-account"></a>İş ortağı hesabınızı başka bir iş ortağı hesabıyla birleştirme
 
-**Uygulanabilir roller**
+**Uygun roller**
 
 - Hesap yöneticisi
 
@@ -65,7 +67,7 @@ Hesapları birleştirme davetini kabul etme kararı verirseniz: · MPN KIMLIĞIN
 
   - Uzmanlığa: iş ortağı şirketi, en yüksek düzey avantajları ile ilişkili temel avantajların bir paketini alacak ve iş ortağının ortak genel hesabı için uygun olduğu avantajlara özgü avantajlardan yararlanacaktır.
 
-- Tüm avantajlar [Microsoft iş ortağı ağı avantajları kullanım kılavuzuna](https://aka.ms/partner-benefits-use-guide)tabidir. Örneğin: etkinleştirilen bir O365 E3 belirteci, etkinleştirilmesinin ardından on iki (12) ay için işlevseldir. Bir Kiracıdaki lisanslar için bir belirteç etkinleştirildikten sonra, bu lisanslar başka bir kiracıya taşınmayabilir.
+- Tüm avantajlar [Microsoft iş ortağı ağı avantajları kullanım kılavuzuna](https://aka.ms/partner-benefits-use-guide)tabidir. Örneğin: etkinleştirilen bir O365 E3 belirteci, etkinleştirme sonrasında 12 ay boyunca işlevseldir. Bir Kiracıdaki lisanslar için bir belirteç etkinleştirildikten sonra, bu lisanslar başka bir kiracıya taşınmayabilir.
 
 - Her iki şirketin da MCP KIMLIK ilişkilendirmeleri korunur ve PGA MPN KIMLIĞIYLE ilişkilendirilir.
 
@@ -77,7 +79,7 @@ Hesapları birleştirme davetini kabul etme kararı verirseniz: · MPN KIMLIĞIN
 
 - Tüm yazılım güvencesi fişleri her iki hesap arasında tutulur. 
 
-- DPOR veya PAL ilişkilendirmesine karşı bir etkisi yoktur. İlişkili gelir katkılarının tümü yeni Iş ortağı küresel hesabına akacak
+- DPOR veya PAL ilişkilendirmesi için bir etkisi yoktur. İlişkili gelir katkılarının tümü yeni Iş ortağı küresel hesabına akacak
 
 ## <a name="invite-a-company-to-merge-their-partner-center-account-with-your-partner-center-account"></a>İş Ortağı Merkezi hesabınızla Iş Ortağı Merkezi hesabını birleştirmek için bir şirket davet edin
 
@@ -94,33 +96,33 @@ Hesapları birleştirme davetini kabul etme kararı verirseniz: · MPN KIMLIĞIN
  
 ### <a name="example-of-two-companies-merging-accounts"></a>Hesapları birleştiren iki şirket örneği
 
-1. Contoso, 
+1. Contoso, Ltd. 
 
     a. [küresel BIR MPN kimliği, 1111111](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile) ve bir alt [konum mpn kimliği 2222222](https://partner.microsoft.com/pcv/accountsettings/locationsprofile).
   
     b. bir Azure AD kiracısı = @contoso.com
  
     c. 1 Ekim 2020 ' de sona erecek bir altın uzmanlık
-2. Fabrichar
+2. Fabrikam, Inc.,
  
     a.  Genel MPN KIMLIĞI 3333333 ve iki alt konum MPN kimliği 4444444 ve 5555555
 
-    b.  bir Azure AD kiracısı = @fabricam.com
+    b.  bir Azure AD kiracısı = @fabrikam.com
 
     c.  1 Aralık 2020 ' de sona ermek üzere iki adet altın uzmanlık
-3.  Contoso, Fabricm 'yi satın alarak birleştirme isteği başlatmak için [buraya](https://partner.microsoft.com/dashboard/account/merger) gider.
-4.  Fabricm, Iş Ortağı Merkezi 'nde oturum açar ve contoso isteğini onaylamak için #3 adımında contoso ile aynı sayfaya gider.
+3.  Contoso, Fabrikam 'ı satın alarak birleştirme isteği başlatmak için [buraya](https://partner.microsoft.com/dashboard/account/merger) gider.
+4.  Fabrikam Iş Ortağı Merkezi 'nde oturum açar ve contoso isteğini onaylamak için #3 adımında contoso ile aynı sayfaya gider.
 5.  Contoso, birleştirme ayrıntılarını aynı sayfada inceler ve hesap birleşmesine devam etmek için onay sağlar.
 6.  Merkli sonrasında şirket hesabı şöyle görüntülenecektir:
 
     a.  1111111, 2222222, 3333333, 4444444 ve 5555555 genel MPN KIMLIĞINE sahip contoso adlı bir şirket, ve 4 alt konum MPN kimliği
     
-    b.  @contoso.com @fabricam.com Aynı Iş Ortağı Merkezi hesabına erişimi olan ıkı Azure AD kiracısından (+) sahip olacaktır
+    b.  @contoso.com @fabrikam.com Aynı Iş Ortağı Merkezi hesabına erişimi olan ıkı Azure AD kiracısından (+) sahip olacaktır
     
     c.  1 Ekim 2020 ' de süresi dolan diğeri 1 Aralık 2020 süresi dolan iki uzmanlık avantajı paketine sahip olacaktır. 1 Aralık 2020 ' de tek bir uzmanlık avantajları paketi olarak yenileyebilecektir. Her yenilediklerinde, contoso yalnızca tek bir avantaj paketini koruyabilse de üç uzmanlığın tümünü korur.
     
-7.  Contoso yöneticileri, kullanıcıları için Iş Ortağı Merkezi rollerini yönetmeye devam edecektir @contoso.com . Fabricm 'nin yöneticileri, Iş Ortağı Merkezi rollerini kullanıcıları için yönetmeye devam edecektir @fabricam.com . Contoso yöneticileri, yalnızca fabric's kiracısına Konuk olarak davet edildiklerinde Fabric's kullanıcılarını yönetebilir.
-8.  Contoso, kiracıyı yok saymaya karar verebilir @fabricam.com ve @contoso.com Yeni roller ve izinlerle Fabric, çalışanlar yeni kimlik bilgilerini yeniden verebilir.
+7.  Contoso yöneticileri, kullanıcıları için Iş Ortağı Merkezi rollerini yönetmeye devam edecektir @contoso.com . Fabrikam 'ın yöneticileri, Iş Ortağı Merkezi rollerini kullanıcıları için yönetmeye devam edecektir @fabrikam.com . Contoso yöneticileri yalnızca fabrikam 'ın kiracısına Konuk olarak davet edildiklerinde fabrikam kullanıcılarını yönetebilir.
+8.  Contoso, kiracıyı yok saymaya karar verebilir @fabrikam.com ve Fabrikam çalışanlarının yeni @contoso.com kimlik bilgilerini yeni roller ve izinlerle yeniden yayımladı.
 
 ## <a name="next-steps"></a>Sonraki adımlar
 

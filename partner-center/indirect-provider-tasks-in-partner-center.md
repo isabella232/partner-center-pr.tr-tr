@@ -9,25 +9,25 @@ ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
 ms.date: 03/23/2021
-ms.openlocfilehash: ece0e5f3bedf1496a252ac8e8c1545fb22ec8108
-ms.sourcegitcommit: 715368e56fe669d29c7981906e08bc8d7d5d62a4
+ms.openlocfilehash: 6ba6fce58df6ab6047a5ec6e7c46e1538b49756d
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/23/2021
-ms.locfileid: "104880778"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106178961"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>Bulut Çözümü Sağlayıcısı programında dolaylı kurumsal bayilerle iş ortaklığı yapma
 
 **Uygun roller**
 
 - Genel yönetici
-- Kullanıcı yöneticisi
+- Kullanıcı Yönetimi Yöneticisi
 - Yönetim Aracısı
 - Satış Aracısı
 
 Bu tür karmaşık ve hızlı bir şekilde değişen teknoloji marketi sayesinde müşteriler, teknoloji çözümlerinin bu kullanıcılara sunmalarına olanak tanımak için rekabet ucunu ister. Bu tür bir uçda, iş ortaklarının teklifleri genişletmek ve müşterilerin daha fazla iş kullanmasını sağlamak için iş ortakları için iş ortağı katılımında yatırım yapması mantıklıdır.
 
-Yeni satıcılar, pazarlarını ve yerel ayarları dışındaki müşterilere kendi çözümlerini sunmaya yönelik pazara ve arama yollarını giriyor. Kurulu bir teknoloji sağlayıcısı olarak, pazara yönlendirilme yolunda iyi bir şekilde konumlandırılmış olursunuz. Bulut çözümü sağlayıcısı (CSP) programındaki, diğer iş ortaklarıyla bağlantı kurmak, pazara yeni çözümler getirmek ve bulut hizmetleri benimsemesi için dolaylı satıcılarla iş ortağı.
+Yeni satıcılar, pazarlarını ve yerel ayarları dışındaki müşterilere kendi çözümlerini sunmaya yönelik pazara ve arama yollarını giriyor. Kurulu bir teknoloji sağlayıcısı olarak, pazara yönlendirilme yolunda iyi bir şekilde konumlanıyoruz. Bulut çözümü sağlayıcısı (CSP) programındaki, diğer iş ortaklarıyla bağlantı kurmak, pazara yeni çözümler getirmek ve bulut hizmetleri benimsemesi için dolaylı satıcılarla iş ortağı.
 
 Dolaylı sağlayıcı-satıcı (iki katmanlı) modelinde, Microsoft bulut çözümlerini müşterilere sunmaya yönelik dolaylı satıcılarla iş ortağı olursunuz. Ürünleri ve abonelikleri doğrudan Microsoft 'tan satın alın ve ardından bu çözümleri satıcılarınız aracılığıyla müşterilere sunun.
 
@@ -45,7 +45,7 @@ CSP programına dolaylı bir satıcı olarak katılmak için gerekenler hakkınd
 
 ## <a name="indirect-provider-tasks-in-the-partner-center"></a>İş Ortağı Merkezi'nde dolaylı sağlayıcı görevleri
 
-Dolaylı satıcılarla ve müşterilerle iş ortaklarınızı oluşturmak ve yönetmek için aşağıdaki adımları izleyin. İki ve üç adım aşağıda daha ayrıntılı olarak açıklanmıştır.
+Dolaylı satıcılarla ve müşterilerle iş ortaklarınızı oluşturmak ve yönetmek için aşağıdaki adımları izleyin. Adım 2 ve 3 aşağıda daha ayrıntılı olarak açıklanmıştır.
 
 1. [Microsoft 'un resmi dolaylı sağlayıcılar listesinde](https://partnercenter.microsoft.com/partner/find-a-provider)şirketinizin profilini gözden geçirin.
 
@@ -111,7 +111,7 @@ Mevcut dolaylı satıcıyla ortaklığı kaldırmak için aşağıdaki adımlar�
 
 1. Panodaki Iş Ortağı Merkezi menüsünden **dolaylı satıcılar**' i seçin. 
 
-2. **Dolaylı satıcılar** sayfasında, **ortaklığı kaldır**' ı seçin. Onay isteyen bir ileti görünür ve devam etmek için Evet ' i seçin.
+2. **Dolaylı satıcılar** sayfasında, **ortaklığı kaldır**' ı seçin. Onay isteyen bir ileti görüntülenir. Devam etmek için **Evet**' i seçin.
 
 :::image type="content" source="images/ip-ir-relationship.png" alt-text="Ortaklığı kaldır":::
 
@@ -151,7 +151,7 @@ Yeni bir müşteri hesabıyla bir satıcı ilişkilendirdiğinizde, satıcıya h
 
 ### <a name="add-new-subscriptions-to-customer-accounts"></a>Müşteri hesaplarına yeni abonelikler ekleme
 
-Müşteriler yeni abonelikler satın almak, mevcut olanları yükseltmek veya ek lisanslar satın almak istediğinizde, bu değişiklikleri müşterinin hesabında M365 portalı aracılığıyla yaparsınız. Azure portal bunu yapamazsınız.
+Müşteriler yeni abonelikler satın almak, mevcut olanları yükseltmek veya ek lisanslar satın almak istediğinizde, bu değişiklikleri Microsoft 365 Portalı aracılığıyla müşterinin hesabında yaparsınız. Azure portal bunu yapamazsınız.
 
 1. **Iş Ortağı Merkezi** menünüzden **müşteriler** ' i seçin.
 

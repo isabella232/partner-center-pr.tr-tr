@@ -8,16 +8,17 @@ description: Müşterilerinizin sattığı ve yönettiğiniz Power BI abonelikle
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: 03224c029104101c2187d07bfce720294e43cf88
-ms.sourcegitcommit: ce1331c0e600e2f73b85a90ac159a9026ab6a691
+ms.openlocfilehash: e05ea33665ded2e52eae2ef8f096b30d3bfe9ee5
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98147173"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086306"
 ---
 # <a name="power-bi-usage-report-available-from-the-partner-center-insights-dashboard"></a>Power BI kullanım raporu, Iş Ortağı Merkezi Öngörüler panosundan kullanılabilir
 
 **Uygun roller**
+
 - Genel yönetici
 - Yönetim Aracısı
 - Rapor Görüntüleyicisi
@@ -38,15 +39,15 @@ Power BI kullanım raporu, müşterileriniz için satılan veya yönettiğiniz P
 
 Özet bölümü, müşterileriniz için satmış olduğunuz veya yönettiğiniz Power BI kullanım abonelikleriyle ilgili temel göstergelerin bir anlık görünümünü sunar. 
 
-- Kullanılabilir lisans sayısı: seçili zaman diliminde satılan lisansların toplam sayısı.
+- Kullanılabilir lisanslar: seçili zaman dilimi boyunca satılan toplam lisans sayısı.
 
    Mikro grafik, seçtiğiniz tarih aralığı için mevcut bilgisayar sayısının ayda bir ay eğilimi gösterir.
 
-- Atanan lisanslar: seçili zaman çerçevesi sırasında atanan toplam lisans sayısı.
+- Atanan lisanslar: seçili zaman dilimi sırasında atanan toplam lisans sayısı.
 
    Mikro grafik, seçtiğiniz tarih aralığınızdan atanan bilgisayar sayısı için aylık bir ay eğilimi gösterir.
 
-- Etkin koltuk: seçili zaman çerçevesi sırasında kullanıma sahip olan toplam lisans sayısı. 
+- Etkin lisans sayısı: seçili zaman çerçevesinde kullanıma sahip olan toplam lisans sayısı. 
 
    Mikro grafik, seçili zaman dilimi boyunca aylık etkin olan her bir bilgisayar için aylık bir eğilim sunar.
 

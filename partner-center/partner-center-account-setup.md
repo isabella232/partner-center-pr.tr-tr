@@ -9,17 +9,19 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 514c8d1e1c94c0a500384502ad57bad977dcc368
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: 8e62462b6d35e8e6994e5e596ce433b37d222fc2
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712869"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132290"
 ---
 # <a name="manage-your-partner-center-account---company-profile-bank-information-roles-permissions-and-more"></a>Iş Ortağı Merkezi hesabınızı, şirket profilinizi, banka bilgilerini, rolleri, izinleri ve daha fazlasını yönetin
 
-**Uygun roller** – genel yönetici
-- MPN Hesap Yöneticisi
+**Uygun roller** 
+
+- Genel yönetici
+- Hesap yöneticisi
 
 Kayıt sırasında iş e-postanız ve iş bilgileriniz olduğunda iş ortağı merkezi 'nde oluşturduğunuz hesap. Hesap oluşturduktan sonra, destek ayrıntıları, uygunsa dosya vergi muafiyetleri ve birincil iletişim bilgileri dahil olmak üzere şirketinizin tam profilini ayarlamayı tamamlayacaksınız. Şirketinizin hesabı, takımınızdaki Iş ortağı merkezini kullanacak herkes için Kullanıcı hesapları da içerir. Yapabilecekleri iş, müşteri ekleme veya yönetme, abonelik satma, faturalandırma ve faturalama ile çalışma, iş profilleri oluşturma, başvuruları yönetme, teşvikleri programlarıyla çalışma, destek sağlama ve daha fazlasını içerir.
 
@@ -60,7 +62,7 @@ Birden fazla hesabın parçası olabilirsiniz. Sol gezinti menüsünde "hesap se
 
 Hesap seçiciyi görmüyorsanız yalnızca bir hesabın parçası olursunuz. 
 
-Bu seçiciye tıkladığınızda, kapsamında olduğunuz tüm hesaplar liste olarak görüntülenir. Ardından, herhangi birine tıklayıp bu hesaba geçebilirsiniz. Bu hesabın bağlamında görünen her şey.  
+Bu seçiciyi seçtiğinizde, kapsamında olduğunuz tüm hesaplar liste olarak görüntülenir. Ardından, bunlardan herhangi birini seçebilir ve bu hesaba geçebilirsiniz. Bu hesabın bağlamında görünen her şey.  
 
 Aşağıdaki örnekte, oturum açan kullanıcı, vurgulanan üç hesabın bir parçasıdır. Kullanıcı bir hesaba tıklayarak aralarında geçiş yapabilir.
 
@@ -80,11 +82,11 @@ Iş Ortağı Merkezi 'Ne ilk defa katılırsanız, şirketiniz Microsoft ile bir
 
 Şirket Profilinizi arayabilir veya şirket bilgilerini el ile girebilirsiniz. Şirketiniz [Dun & Bradstreet](https://partner.microsoft.com/marketing/usisvshowcase/dunandbrad)ile kayıtlıysa, şirketinizin bilgilerini aramak için DLııD kimliğini kullanın. Şirket ayrıntılarınızı kendiniz sağlamak istiyorsanız, **el ile**' yi seçin.
 
-Şirketiniz **Ermenistan**, **Macaristan**, **Kırgızistan**, **Moldova**, **Özbekistan** veya **Rusya**'da bulunuyorsa ve adresinizi el ile girerseniz adresinizi sizin için doğrulayacağız. Girdiğiniz bir tane, doğrulanan adres ile farklıysa, doğrulanan adresi kullanmanızı öneririz. Doğrulama, adresin doğru ve sevk edilebilir olmasını sağlar.
+Şirketiniz **Ermenistan**, **Macaristan**, **Kırgızistan**, **Moldova**, **Özbekistan** veya **Rusya**'da bulunuyorsa ve adresinizi el ile girerseniz adresinizi sizin için doğrulayacağız. Girdiğiniz bir tane doğrulandıktan farklıysa, doğrulanan adresi kullanmanızı öneririz. Doğrulama, adresin doğru ve sevk edilebilir olmasını sağlar.
 
 ### <a name="primary-contact-email"></a>Birincil iletişim e-postası
 
-Birincil iletişim e-postası, hesabınızın doğrulanmasıyla ilgili bildirim almak için kullanacağınız şeydir. Birincil ilgili kişi için sağladığınız e-postanın düzenli olarak yönetilen ve izlenen bir bağlantı olması önemlidir.  
+Birincil iletişim e-postası, hesabınızın doğrulanması konusunda sizi bilgilendirmek için kullandığımız şeydir. Birincil ilgili kişi için sağladığınız e-postanın düzenli olarak yönetilen ve izlenen bir bağlantı olması önemlidir.  
 
 [Doğrulama ve hesap bilgileriniz](verification-responses.md)hakkında daha fazla bilgi edinin.
 

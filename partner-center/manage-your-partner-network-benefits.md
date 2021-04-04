@@ -9,23 +9,19 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7c42533027977853322a0bf815e3b1d387d8ad88
-ms.sourcegitcommit: 511c21ae664bd438dc9d11f880cd58400a5d9eea
+ms.openlocfilehash: 8fc5566b780c10a953cfb322ad13ce7373dc87cd
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 11/19/2020
-ms.locfileid: "94932853"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106133106"
 ---
 # <a name="manage-your-microsoft-partner-network-membership-benefits-and-offers-in-partner-center"></a>Iş Ortağı Merkezi 'nde Microsoft İş Ortağı Ağı üyelik avantajlarınızı ve tekliflerini yönetme
-
-**Şunlara uygulanır**
-
-- İş Ortağı Merkezi
 
 **Uygun roller**
 
 - Genel yönetici
-- Kullanıcı yöneticisi
+- Kullanıcı Yönetimi Yöneticisi
 - Yönetim Aracısı
 - MPN iş ortağı Yöneticisi
 
@@ -45,7 +41,7 @@ Avantaj paketleri lisanslı yazılım, bulut Hizmetleri, Visual Studio abonelikl
 
 Tüm üyelik avantajlarınızı görüntülemek ve yönetmek için, [ **avantajlar** sayfanıza](https://partnercenter.microsoft.com/pcv/partnership/benefits) gidin (oturum açmak gerekir). Alternatif olarak, Iş Ortağı Merkezi [panosunda](https://partner.microsoft.com/dashboard)oturum açabilir, sol taraftaki menüden [**avantajlar seçeneğini**] seçebilir ve ardından görünen tüm avantajlar seçeneklerini belirleyebilirsiniz.  
 
-Çoğu avantajı etkinleştirmek veya ilgili yazılım anahtarlarını indirmek için, Iş Ortağı Merkezi genellikle genel yönetici veya MPN iş ortağı Yöneticisi rolünü atamış bir kişi gerektirir. Avantajları göremiyorsanız veya avantajları etkinleştirediğimde, doğru izinlere sahip olduğunuzdan emin olmak için Iş ortağı merkezi genel yöneticinizle görüşün. [Iş Ortağı Merkezi rolleri hakkında daha fazla bilgi edinin](permissions-overview.md).
+Çoğu avantajı etkinleştirmek veya ilgili yazılım anahtarlarını indirmek için Iş Ortağı Merkezi, genellikle genel yönetici veya MPN iş ortağı Yöneticisi rolünü atamış bir kişi gerektirir. Avantajları göremiyorsanız veya avantajları etkinleştirediğimde, doğru izinlere sahip olduğunuzdan emin olmak için Iş ortağı merkezi genel yöneticinizle görüşün. [Iş Ortağı Merkezi rolleri hakkında daha fazla bilgi edinin](permissions-overview.md).
 
 ## <a name="manage-software-benefits"></a>Yazılım avantajlarını yönetme
 
@@ -76,18 +72,18 @@ MPN Iş ortağı – HARITALAR, gümüş ve/veya altın – aylık kredi veya to
 Şunları yapabilirsiniz:
 
 - $100/ay (veya yerel para biriminde eşdeğer) Azure aylık kredisi veya/ve
-- $6000, $12000 veya/ve $13000/Year (veya bunların her biri yerel para biriminde eşdeğer) Azure toplu kredisi
+- $6.000, $12.000 veya/ve $13000/Year (veya bunların her biri yerel para biriminde eşdeğer) Azure toplu kredisi
 
 Iş Ortağı Merkezi 'nde bir Microsoft Azure aboneliğini etkinleştirmek için, Şirket içindeki bir kullanıcıya (Konuk kullanıcılar dahil), Azure Active Directory oluşturulmuş bir kullanıcı girişi olan erişim atayın.
 Azure aylık kredisinin $100/ay (veya yerel para biriminde eşdeğer) için, bu aboneliğe istediğiniz zaman kullanıcı ekleyebilir veya kaldırabilirsiniz. 
 
-Azure toplu (yıllık) kredi için, Iş Ortağı Merkezi 'nde Kaldır seçeneği kullanılamaz, ancak toplu krediyi kayıt yılınızda başka birine aktarabilirsiniz. Azure toplu (yıllık) kredi aboneliği diğer lisanslama, ön ödemeli veya kredi tekliflerle birleştirilemez (örneğin, Microsoft Kurumsal Anlaşma, bulut çözümü ortağı, Open ile Azure, Azure Pass, Eylem Paketi, vb.).
+Azure toplu (yıllık) kredisi için, Kaldır seçeneği Iş Ortağı Merkezi 'nde kullanılamaz, ancak toplu krediyi kayıt yılınızda başka birine aktarabilirsiniz. Azure toplu (yıllık) kredi aboneliği, diğer lisanslama, ön ödemeli veya kredi tekliflerle birleştirilemez (diğer bir deyişle, Microsoft Kurumsal Anlaşma, bulut çözümü ortağı, Open ile Azure, Azure Pass, Eylem Paketi, vb.).
 
 ## <a name="license-based-subscriptions"></a>Lisans tabanlı abonelikler
 
-Azure & bulut ürünleri sekmesinin lisans tabanlı abonelikler bölümünde, etkinleştirme için bir ürün anahtarı gerektiren Microsoft O365, Microsoft Dynamics, Microsoft Intune, Azure AD temel, Power BI, vb. gibi tüm bulut ürünlerini bulabilirsiniz. Bu, MPN Iş ortağı – HARITALAR, gümüş veya altın olarak etkin olduğunuz teklifin türüne bağlı olarak size sunulur.
+Azure & bulut ürünleri sekmesinin lisans tabanlı abonelikler bölümünde, etkinleştirme için bir ürün anahtarı gerektiren tüm bulut ürünleri (örneğin, Microsoft Office 365, Microsoft Dynamics, Microsoft Intune, Azure AD temel ve Power BI) listelenir. MPN Iş ortağı olarak etkin olan teklifin türü-HARITALAR, gümüş veya altın, hangi ürünlerin listelendiğini denetler.
 
-Lisans tabanlı abonelikleri etkinleştirmek için, ilgilendiğiniz ürünle birlikte açılan simgeye tıklayın ve anahtarların nasıl kullanılacağına ilişkin yönergeleri okuyun. Yönergeleri okuduktan sonra, anahtar ve ürün için atanan anahtar kullanmak için sizi portala yönlendiren bağlantıyı seçin.
+Lisans tabanlı abonelikleri etkinleştirmek için, ilgilendiğiniz ürünle birlikte açılan simgeye tıklayın ve anahtarların nasıl kullanılacağına ilişkin yönergeleri okuyun. Yönergeleri okuduktan sonra, anahtarları kullanmak için sizi portala yönlendiren bağlantıyı ve ürününüzün atanan anahtarını seçin.
 
 >[!IMPORTANT]
 >Anahtar kullanıldıktan sonra, aynı anahtar ikinci kez kullanılamaz, bu nedenle daha fazla lisans (koltuk) eklemeniz veya bitiş tarihini uzatmaya gerek olup olmadığından emin olun. Daha fazla lisans eklemeyi ve bitiş tarihi genişletmeyi seçerseniz, sistem size 12 aydan daha az etkin abonelik sağlar. Doğru kiracı üzerinde anahtarları etkinleştirmek için doğru kimlik bilgileriyle oturum açtığınızdan emin olun.

@@ -9,18 +9,19 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 10d2cbf848cb2c9a5d9aafb98f1ab6869f417182
-ms.sourcegitcommit: 06c272d86722a2315a65aa536fb32727aab5178d
+ms.openlocfilehash: a642c9fc8b920668bd6883c01573e5fbf5523e53
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/27/2021
-ms.locfileid: "98912548"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106178876"
 ---
 # <a name="differentiate-your-business-by-attaining-microsoft-competencies"></a>Microsoft Uzmanlıklar sunarak işletmenizi farklılaştırın
 
 **Uygun roller**
+
 - Genel yönetici
-- Kullanıcı yöneticisi
+- Kullanıcı Yönetimi Yöneticisi
 
 İş için bir veya daha fazla özelleşmiş iş alanında kalite çözümleri sunma konusunda kendini kanıtlamış uzmanlığınızı gösterir. Microsoft Uzmanlıklar, size müşterilerinizin ihtiyaçlarını karşılayacak şekilde hazırlanmak ve Microsoft Sertifikalı Çözüm sağlayıcılarını arayan yeni müşterileri çekmenize yardımcı olmak için tasarlanmıştır. Microsoft iş ortaklarının elime katmanını birleştirin ve eşlerinizde kullanıma hazır yapın.
 

@@ -1,22 +1,22 @@
 ---
 title: Ödeme zamanlamaları ve süreçleri
 description: Ticari Market ve diğer işlemler için ödeme zamanlamaları ve çıkış işlemleri gibi ödemeler ve işlemler hakkında bilgi edinin.
-ms.service: marketplace
-ms.subservice: partnercenter-marketplace-publisher
+ms.service: partner-dashboard
+ms.subservice: partnercenter-mpn
 ms.topic: conceptual
 author: eunjkim520
 ms.author: eunjkim
 ms.date: 12/04/2020
-ms.openlocfilehash: 9c4ad89eb25e811c4bea11e7e7e5d3845ceafee6
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: f4d31a5cf0752d03248b0efddb98ce621f9174f9
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756854"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086184"
 ---
 # <a name="payout-schedules-and-processes"></a>Ödeme zamanlamaları ve süreçleri
 
-**Uygun roller:**
+**Uygun roller**
 
 - Hesap yöneticisi
 - Genel yönetici
@@ -33,7 +33,7 @@ Bir müşteri, mevcut Microsoft Kurumsal Anlaşma işlemler için kullanarak Mic
 
 Bir ödeme genellikle Microsoft 'un müşteriden ödeme toplamasından önce meydana gelir. Müşteri Microsoft 'a ödeme yapdığımızda, ancak zaten bir ödeme yapmış olduğumuz eylemler için aşağıdaki [Müşteri ödemesiz işleme](#process-for-customer-non-payment) ' ya bakın.
 
-| Olay | Açıklama | Raporlama görünürlüğü | Zaman |
+| Olay | Description | Raporlama görünürlüğü | Zaman |
 | --- | --- | --- | --- |
 | İşlemin kullanımı veya ayı | Müşteri bir hizmeti kullanır veya satın alarak. | [Kullanım](/azure/marketplace/partner-center-portal/usage-dashboard) veya [sıralama](/azure/marketplace/partner-center-portal/orders-dashboard) panosu | **Ay 1** |
 | Microsoft fatura tutarını hesaplar | Toplam kullanımı belirleme, toplam işlem | [Kullanım](/azure/marketplace/partner-center-portal/usage-dashboard) veya [sıralama](/azure/marketplace/partner-center-portal/orders-dashboard) panosu | **Ay 2** |
@@ -51,7 +51,7 @@ Bir ödeme genellikle Microsoft 'un müşteriden ödeme toplamasından önce mey
 
 Kredi kartına veya aylık faturaya sahip tüm satın alımlarda, müşteri üzerinden fon toplandığından emin olmak için 30 günlük bir bekleme süresi bulunur.
 
-| Olay | Açıklama | Raporlama görünürlüğü | Zaman |
+| Olay | Description | Raporlama görünürlüğü | Zaman |
 | --- | --- | --- | --- |
 | İşlemin kullanımı veya ayı | Müşteri bir hizmeti kullanır veya satın alarak. | [Kullanım](/azure/marketplace/partner-center-portal/usage-dashboard) veya [sıralama](/azure/marketplace/partner-center-portal/orders-dashboard) panosu | **Ay 1** |
 | Müşteriye göre ödenen fatura | Toplam kullanımı, toplam işlem değerini ve müşterinin ödediği faturayı belirleme | [Kullanım](/azure/marketplace/partner-center-portal/usage-dashboard) veya [sıralama](/azure/marketplace/partner-center-portal/orders-dashboard) panosu | **Ay 2** |
@@ -67,13 +67,13 @@ Kredi kartına veya aylık faturaya sahip tüm satın alımlarda, müşteri üze
 
 ## <a name="process-for-customer-non-payment"></a>Müşteri ödemesiz işlem
 
-Nadir durumlarda Microsoft, ticari Market satın alımları için müşterilerden ödeme toplayamamaktadır. Bir müşteri Microsoft 'un faturalandırma zamanlamalarına göre ödeme yapamazsa koleksiyonlar işlemine başlayacağız. Bu işlem yaklaşık dört ay sürer ve Microsoft 'tan kalıcı iletişim içerir. Ödeme bu işlemin sonuna kadar alınmıyorsa, Microsoft fonları toplanabilir olmayan bir tablo olarak yazar.
+Nadir durumlarda Microsoft, ticari Market satın alımları için müşterilerden ödeme toplayamamaktadır. Bir müşteri Microsoft 'un faturalandırma zamanlamalarına göre ödeme yapamazsa koleksiyonlar işlemine başlayacağız. Bu işlem yaklaşık dört ay sürer ve Microsoft 'tan kalıcı iletişim içerir. Ödeme bu işlemin sonuna kadar alınmadıysa, Microsoft fonları toplanabilir olmayan bir tablo olarak yazar.
 
 Bu işlem için, Microsoft, bu işlemin sonunda, son olarak toplanabilir bir tablo olan yayımcılar 'a (siz) zaten ücret ödemüş olabilir. Bu nedenle, bu miktarları mutabık kılma sürecimiz vardır. (Zaten alınmış) ödemenin uzlaştırılabileceğini belirten bir uyarı olduğundan emin olmak için, bir müşteri koleksiyonlar sürecinde olduğunda ve satın alımlarınızın kapalı olma olasılığı varsa size bildirilir.
 
 Microsoft, aşağıdaki yöntemlerden birini kullanarak zaten ücretli olan tüm ödemeler için ödeme yapacaktır: (1) Microsoft, ödenmemiş miktarları gelecekteki ödemeler üzerinden çıkartabilir; Örneğin, ödemelerden $1.000, toplanmamış tablo olarak kabul edilir ve bu durum devre dışı bırakılırsa, gelecekteki ödemelerden bazıları $1.000 kurtarılana veya (2) Microsoft, toplanan herhangi bir miktar için bir para iadesi veya fatura yayımcıları isteyebileceği için,
 
-Örnek zamanlama aşağıda verilmiştir:
+Aşağıdaki zamanlama bir örnektir:
 
 | Olay | Yaklaşık Tarih * | İş ortağı görünürlüğü |
 | --- | --- | --- |
@@ -92,7 +92,7 @@ Microsoft, aşağıdaki yöntemlerden birini kullanarak zaten ücretli olan tüm
 
 ## <a name="number-of-days-for-payments-to-reach-a-payout-account"></a>Ödemelerin bir ödeme hesabına ulaşması için geçen gün sayısı
 
-Genellikle söz konusu ayın 15. gününde belirli bir ay boyunca herhangi bir ödeme gönderiyoruz, ancak ödemenin hesabınıza ulaşması daha fazla zaman alır. Gün sayısı, aşağıda açıklandığı gibi, hesabınız için kullandığımız ödeme yöntemine bağlıdır.
+Genellikle söz konusu ayın 15. gününde belirli bir ay boyunca herhangi bir ödeme gönderiyoruz, ancak ödemenin hesabınıza ulaşması için başka bir zaman alır. Gün sayısı, aşağıda açıklandığı gibi, hesabınız için kullandığımız ödeme yöntemine bağlıdır.
 
 > [!NOTE]
 > Aşağıda gösterilen günler yaklaşık değerlerdir; herhangi bir ödemenin hesabınıza ulaşması daha fazla veya daha az zaman alabilir.

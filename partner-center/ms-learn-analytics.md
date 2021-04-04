@@ -9,18 +9,19 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 42c7af80ab49cee6e7043587207e553d2ffaa3ac
-ms.sourcegitcommit: a7376c0ba8f4f3d01361bc227640311b486b3b6e
+ms.openlocfilehash: 5b9a0ea8c4eefee1a87b9ccd626b1f2864234521
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/21/2020
-ms.locfileid: "92532183"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132335"
 ---
 # <a name="the-microsoft-learn-analytics-report-shows-the-status-of-learners-in-your-company"></a>Microsoft Learn Analytics raporu, şirketinizdeki öğreniplerin durumunu gösterir
 
 **Uygun roller**
--   Genel yönetici
--   MPN iş ortağı Yöneticisi
+
+- Genel yönetici
+- MPN iş ortağı Yöneticisi
 
 Microsoft Learn raporu, sizin tamamladığınız modüller ve bulundukları öğrenme yolları dahil olmak üzere şirketinizdeki öğrenipler hakkında bilgi sağlar. Rapor her bireysel öğrenici durumunu görüntüler. Şirketinizin genel yöneticisi ve MPN Yöneticisi, verileri görüntüleyebilir.
 
@@ -31,19 +32,19 @@ Microsoft Learn raporu, sizin tamamladığınız modüller ve bulundukları öğ
 Bu grafikler, eğitilen bireyler, modül tamamlamalar ve öğrenme yolları için say ve aylık toplu eğilimleri özetler.
 
 
-**Eğitilen kişiler sayısı** : Seçili tarih aralığı sırasında en az bir modül tamamlayan tüm ayrı öğreniplerin sayısı 
+**Eğitilen kişiler sayısı**: Seçili tarih aralığı sırasında en az bir modül tamamlayan tüm ayrı öğreniplerin sayısı 
 
-**Eğitilen kişiler eğilimi mini grafik** : aylık aylık etkin öğreniplerin toplam sayısı 
+**Eğitilen kişiler eğilimi mini grafik**: aylık aylık etkin öğreniplerin toplam sayısı 
 
-**Modül tamamlama sayısı** : Seçili tarih aralığı boyunca iş ortağının şirketindeki öğrenipleri tarafından tamamlanmış modül sayısı.
+**Modül tamamlama sayısı**: Seçili tarih aralığı boyunca iş ortağının şirketindeki öğrenipleri tarafından tamamlanmış modül sayısı.
 Örneğin, "modül 1", 15 kişi tarafından tamamlanırsa ve "modül 2" aynı 15 kişi tarafından tamamlanırsa, tamamlama sayısı 30 olur. Modül tamamlama tarihi seçili tarih aralığına denk gelmelidir.
 
-**Modül tamamlama eğilimi mini grafik** : aylık ay, tamamlama modülünün toplam sayısı 
+**Modül tamamlama eğilimi mini grafik**: aylık ay, tamamlama modülünün toplam sayısı 
 
-**Öğrenme yolu tamamlama sayısı** : Seçili tarih aralığı boyunca iş ortağının şirketindeki öğrenipleri tarafından tamamlanan öğrenme yolu sayısı.
+**Öğrenme yolu tamamlama sayısı**: Seçili tarih aralığı boyunca iş ortağının şirketindeki öğrenipleri tarafından tamamlanan öğrenme yolu sayısı.
 Örneğin, "path 1" öğrenme yolu 20 kişi tarafından tamamlanırsa ve "yol 2" öğrenme yolu aynı 20 kişi tarafından tamamlanırsa, öğrenme yolu tamamlanma sayısı 40 olacaktır. Öğrenme yolu tamamlanma tarihi, seçilen tarih aralığı içinde olmalıdır.
 
-**Öğrenme yolu tamamlama eğilimi mini grafik** : aylık ay öğrenme yolu tamamlama sayısı 
+**Öğrenme yolu tamamlama eğilimi mini grafik**: aylık ay öğrenme yolu tamamlama sayısı 
 
 ### <a name="trained-individuals-monthly-trend"></a>Eğitilen kişilerin aylık eğilimi
 
@@ -73,7 +74,7 @@ Bu veriler, şirketinizin kullanıcıları tarafından bu ay boyunca tamamlanan 
 
 **Modül sekmesi**
 
-Bu sekme, şirketinizde en iyi 5 modül adlarına göre tamamlanan modüllerin dökümünü içerir; modülün ilişkilendirildiği ürün; ve modülün ilgili Kullanıcı rolü.  
+Bu sekme, şirketinizde en çok beş modül adı ile tamamlanan modüllerin dökümünü içerir; modülün ilişkilendirildiği ürün; ve modülün ilgili Kullanıcı rolü.  
 
 - Modül, halka grafik tamamlama modülü: modül adlarına göre tamamlama modülünün (Özet bölümünde görünen sayı) dökümü.
 
@@ -89,7 +90,7 @@ Grafiğin ortasında görünen sayı, tamamlama modülünün farklı ürün say�
 
 **Öğrenme yolu sekmesi**   
 
-Bu sekme, şirketinizde ilk 5 modül adına göre tamamlanan öğrenme yollarının dökümünü içerir; öğrenme yolunun eşlendiği ürün; ve bu öğrenme yolunun ilgili rolü.  
+Bu sekme, şirketinizde ilk beş modül adına göre tamamlanan öğrenme yollarının dökümünü içerir; öğrenme yolunun eşlendiği ürün; ve bu öğrenme yolunun ilgili rolü.  
 
 - Halka grafik tamamlanan öğrenme yolları: ad ile tamamlama öğrenme yolu (Özet bölümünde görünen sayısı) dökümü.
 
@@ -131,7 +132,7 @@ Genel yönetici yeni bir kullanıcı ekledikten sonra, bu kullanıcının Micros
 
 3. Bu raporda bir MSA hesabıyla Microsoft Learn oturum açan tüm şirket kullanıcılarını görebilir miyim?
 
-Şu anda bunu yapmanın en iyi yolu, bu kullanıcıları Azure AD kiracınıza eklemektir ve iş ortağı merkezi 'ne ekleyerek Microsoft Learn hesaplarını Iş ortağı merkezindeki **Profilim** aracılığıyla ilişkilendirebilirler. 
+Şu anda bunu yapmanın en iyi yolu, bu kullanıcıları Azure AD kiracınıza eklemektir ve sonra iş ortağı merkezi 'ne ekleyerek Microsoft Learn hesaplarını Iş ortağı merkezindeki **Profilim** aracılığıyla ilişkilendirebilirler. 
 
 Eğitim için yalnızca MSA hesaplarını kullanan kullanıcılar için, yakın gelecekte Microsoft Learn ekibi, iş e-postalarını Microsoft Learn profiliyle ilişkilendirmelerine olanak tanır. 
 

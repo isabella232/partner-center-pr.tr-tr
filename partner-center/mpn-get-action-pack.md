@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 32b8eafa688ce6210ec0732368d8dd6892e61d75
-ms.sourcegitcommit: 1d4d06642a5203d4d313fe76b137dd6be45d4728
+ms.openlocfilehash: 3b75bffcab2c51ac81e3c2f623ad74a9314339b9
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97514726"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106132307"
 ---
 # <a name="buy-or-renew-a-microsoft-action-pack-subscription-or-silver-and-gold-competencies"></a>Microsoft Eylem Paketi aboneliği veya Silver ve Gold uzmanlık satın alma veya yenileme
 
@@ -22,12 +22,12 @@ ms.locfileid: "97514726"
 **Uygun roller**
 
 - Genel yönetici
-- Kullanıcı yöneticisi
+- Kullanıcı Yönetimi Yöneticisi
 - MPN iş ortağı Yöneticisi
 - Yönetim Aracısı
 
 
-Iş Ortağı Merkezi [panosundan](https://partner.microsoft.com/dashboard), Microsoft iş ortağı ağı (MPN)) üyeleri, Microsoft eylem paketi aboneliği ve gümüş ve altın uzmanlık olanakları dahil olmak üzere avantaj teklifleri satın alabilir veya yenileyebilir.
+Iş Ortağı Merkezi [panosundan](https://partner.microsoft.com/dashboard), Microsoft iş ortağı ağı (MPN)) üyeleri, Microsoft eylem paketi aboneliği ve gümüş ve altın uzmanlık olanakları dahil olmak üzere kazanç teklifleri satın alabilir veya yenileyebilir.
 
 ## <a name="buy-microsoft-action-pack-for-the-first-time"></a>Microsoft Eylem Paketi ilk kez satın alın
 

@@ -4,22 +4,24 @@ ms.topic: article
 ms.date: 05/18/2020
 description: Iş Ortağı Merkezi faturalaması için fatura dosyanızdaki alanları anlayın. Dahil edilen alanlar ve tanımlar tüm fatura alanları ve tek seferlik ücret alanları için kullanılır.
 author: sodeb
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3e9eb392279c0a09b5e30395b38ab7030bfa87d4
-ms.sourcegitcommit: 147813ba322653c989df5afe0b3bf0c252523a92
+ms.openlocfilehash: 44bda5256b14722f143a5bf937e73b2533b8c9f5
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96556302"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106178910"
 ---
 # <a name="understand-partner-center-billing-invoice-fields"></a>Iş ortağı merkezi faturalama faturası alanlarını anlayın
 
 **Uygun roller**
 
 - Genel yönetici
-- Kullanıcı yöneticisi
+- Kullanıcı Yönetimi Yöneticisi
 - Faturalama yöneticisi
 - Yardım Masası Aracısı
 
@@ -33,7 +35,7 @@ Fatura dosyalarınızda aşağıdaki alanlar görüntülenir.
 | ----- | ---------- |
 | BIZE FEDA | Federal Işveren kimlik numaranız (FEIN). Bu Birleşik Devletler federal vergi tanımlayıcı numarasıdır. |
 | Müşteri numarası | Müşteri numaranız. |
-| Fatura adresi | Faturanızı gönderdiğimiz adres. Şirket adınızı ve/veya adresinizi Iş ortağı merkezi faturalama profilinizde değiştirebilirsiniz. |
+| Fatura adresi | Faturanızı gönderdiğimiz adres. Şirket adınızı ve adresinizi, Iş ortağı merkezi faturalama profilinizde değiştirebilirsiniz. |
 | Lisans tabanlı ücretler | Satın alınan kullanım tabanlı lisanslarınız için aylık veya yıllık ücretler, hizmette önceden faturalandırılır. Bu sayı, lisans tabanlı mutabakat dosyanızdaki **alt toplam** sütunundaki (sütun **T**) tüm ücretlerin toplamıdır. |
 | Kullanım tabanlı ücretler | Azure kullanımınız. Bu, faturalama döneminde etkinleştirilen ve kullanılan yeni hizmetleri veya uygulamaları içerir. Bu sayı, kullanım tabanlı mutabakat dosyanızdaki **Pretaxcharges** sütunundaki ( **Z** sütunu) tüm ücretlerin toplamıdır. |
 | İndirimler | Müşterinin aboneliğin normal fiyatından aldığı indirim. Bu sayı, birim veya lisans başına fiyat olarak değil, *sabit bir tutar* olarak gösterilir. |
@@ -59,10 +61,10 @@ Aşağıdaki alanlar yalnızca Iş ortağı merkezindeki **tek seferlik ücretle
 | Alan | Tanım |
 | ----- | ---------- |
 | Tarih | Satın alma tarihi. |
-| Açıklama | Ürün adı. |
+| Description | Ürün adı. |
 | Miktar | Satın alınan ürünlerin (rezervasyonlar gibi) sayısı. |
 | Birim fiyat | Ürün başına fiyat (örneğin, bir ayırma). |
 | İndirimler | Geçerli iskontolar. |
-| Vergi öncesi tutar | Vergi öncesi satın alımların alt toplamı. |
+| Vergi öncesi tutar | Vergi öncesi satın alımlarınızın alt toplamı. |
 | Satış vergisi | Vergi tutarı. |
 | Toplam | Ödenecek toplam miktar. |

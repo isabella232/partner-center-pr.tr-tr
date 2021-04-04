@@ -1,21 +1,21 @@
 ---
 title: Mobil operatör faturalama-Microsoft Store
 description: Microsoft Store, bu özelliği destekleyen mobil operatörler için bir ödeme yöntemi olarak mobil operatör faturalandırmasını sunmaktadır.
-ms.date: 05/29/2020
+ms.date: 04/01/2021
 ms.service: partner-dashboard
 ms.topic: article
 ms.author: hickeys
 author: hickeys
 keywords: Windows 10, UWP, mobil işleçler, mobil faturalama, mobil operatör faturalama
 ms.localizationpriority: medium
-ms.openlocfilehash: 010451506df0d6115a8e1b4781e6fb40ab8853bb
-ms.sourcegitcommit: a84812b650ec8b6d0513c46c04840e4bbb0c8460
+ms.openlocfilehash: 5556da39b252f5004cd7d1828310743875a8da7f
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/25/2020
-ms.locfileid: "92531759"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106178825"
 ---
-# <a name="mobile-operator-billing"></a>Mobil operatör faturalama
+# <a name="mobile-operator-billing"></a>Cep telefonu operatörü faturalaması
 
 > [!NOTE]
 > Ödemeler hakkında, ödeme hesaplarını yapılandırma, ödeme yok, ödemeler veya başka bir şey yapma dahil olmak üzere destek arıyorsanız, [burada](https://developer.microsoft.com/windows/support)desteğe başvurun.
@@ -35,17 +35,19 @@ Aşağıdaki mobil işleçler Şu anda mobil operatör faturalandırmasını des
 | Avusturya              | A1 Telekok, Hutchison 3G Avusturya, T-Mobile/tele. ring  |
 | Belçika              | Temel, Proximus                                          |
 | Kanada               | Telus                                                   |
-| Czechia              | T-mobil                                                |
+| Czechia              | T-Mobile, Vodadfone, O2                                  |
 | Danimarka              | 3, TDC/YouSee, Telenor, Telia                         |
 | Finlandiya              | DNA, Elisa                                              |
 | Fransa               | Orange                                                  |
 | Almanya              | O2, TelekomDeutschland, Vodada                       |
 | Macaristan              | Telenor                                                 |
-| İtalya                | Tre, Rüzgar                                               |
+| İtalya                | Tre, Rüzgar, Vodadfone                                     |
+| Güney Kore                | SK telekomünikasyon                                              |
 | Malezya             | Çalıştırıldığı                                                    |
-| Hollanda          | KPN/Telfort                                           |
+| Hollanda          | KPN/Telfort, Vodadfone                                 |
 | Norveç               | Telenor/Talkmore, Telia/OneCall                     |
-| Polonya               | Turuncu, oynat                                            |
+| Polonya               | Turuncu, oyun, T-mobil                                  |
+| Suudi Arabistan         | STC                                                     |
 | Singapur            | M1 sınırlı, StarHub                                     |
 | Slovakya             | Slovak Telekod                                          |
 | Güney Afrika         | Vodadcom                                                 |
@@ -56,4 +58,4 @@ Aşağıdaki mobil işleçler Şu anda mobil operatör faturalandırmasını des
 | Türkiye               | Türkcell                                                |
 | Birleşik Arap Emirlikleri | Etisalat                                                |
 | Birleşik Devletler        | Sprint, Verizon                                         |
-| Birleşik Krallık       | 3 UK, EE, O2, Vodadphone                                 |
+| Birleşik Krallık       | 3 UK, EE, O2, Vodavfone                                 |

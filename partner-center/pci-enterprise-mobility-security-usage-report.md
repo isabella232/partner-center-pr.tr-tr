@@ -8,16 +8,17 @@ description: Müşterilerinizin sattığı ve yönettiğiniz Enterprise Mobility
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: 48577571e77bd0181b78e01558a07edd1a3b925d
-ms.sourcegitcommit: ce1331c0e600e2f73b85a90ac159a9026ab6a691
+ms.openlocfilehash: c62e074c7329ada33390b77be13c523660344d49
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98147178"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086286"
 ---
 # <a name="enterprise-mobility--security-usage-report-available-from-the-partner-center-insights-dashboard"></a>Enterprise Mobility + Security kullanım raporu, Iş Ortağı Merkezi Öngörüler panosundan kullanılabilir
 
 **Uygun roller**
+
 - Genel yönetici
 - Yönetim Aracısı
 - Rapor Görüntüleyicisi
@@ -38,11 +39,11 @@ Enterprise Mobility + Security kullanım raporu, müşterileriniz için satılan
 
 Özet bölümü, müşterileriniz için satmış olduğunuz veya yönettiğiniz Enterprise Mobility + Security kullanım abonelikleriyle ilgili temel göstergelerin bir anlık görünümünü sunar. 
 
-- Yeni Abonelikler: seçili zaman diliminde satılan veya yönetilen toplam abonelik sayısı.
+- Yeni Abonelikler: seçili zaman dilimi boyunca satılan veya yönetilen toplam abonelik sayısı.
 
    Mikro grafik, seçtiğiniz tarih aralığı için yeni aboneliğin aylık bir eğilimini gösterir.
 
-- Kullanılabilir lisans sayısı: seçili zaman diliminde satılan lisansların toplam sayısı.
+- Kullanılabilir lisanslar: seçili zaman dilimi boyunca satılan toplam lisans sayısı.
 
    Mikro grafik, seçtiğiniz tarih aralığınızdan kullanılabilir koltuk sayısı için aylık bir ay eğilimi gösterir.
 

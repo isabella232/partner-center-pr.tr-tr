@@ -1,6 +1,6 @@
 ---
 title: Kullanıcı ve lisans yönetimi
-titleSuffix: Microsoft Cloud for US Government - Partner Center
+titleSuffix: Microsoft Government Cloud - Partner Center
 description: ABD devlet ortakları, müşterileri ve lisansları için Microsoft Bulut Iş Ortağı Merkezi 'nin yanı sıra parola sıfırlamaları hakkında bilgi edinin.
 ms.topic: article
 ms.date: 03/15/2019
@@ -10,14 +10,14 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f2f1a4ce2ed1ea4ed21de68454a123458120edfd
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: 0fce25dc07f5cd07138cde2619cdf0989cd17251
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712945"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086575"
 ---
-# <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-for-us-government"></a>ABD kamu için Microsoft Bulut Iş Ortağı Merkezi 'nde Kullanıcı ve lisans yönetimi
+# <a name="user-and-license-management-in-partner-center-for-government-microsoft-cloud"></a>Kamu Microsoft Bulut için Iş Ortağı Merkezi 'nde Kullanıcı ve lisans yönetimi
 
 **Şunlara uygulanır**
 
@@ -29,9 +29,9 @@ ms.locfileid: "104712945"
 
 ## <a name="how-to-manage-users-in-the-azure-portal-for-microsoft-cloud-for-us-government"></a>ABD kamu için Microsoft Bulut Azure portal kullanıcıları yönetme
 
-ABD hükümeti için Microsoft Bulut Iş Ortağı Merkezi 'nde oturum açtıysanız, yeniden oturum açmak zorunda kalmadan ABD kamu sektörü için Microsoft Bulut Azure portal açabilirsiniz. Ancak, ABD kamu için Microsoft Bulut Azure portal doğrudan oturum açmanız gerekiyorsa, ( https://portal.azure.us/) ve ABD kamu için Microsoft bulut Azure AD kiracınız için genel yönetici kimlik bilgilerini kullanarak oturum açın.
+ABD hükümeti için Microsoft Bulut Iş Ortağı Merkezi 'nde oturum açtıysanız, yeniden oturum açmak zorunda kalmadan Microsoft kamu bulutu için Azure portal açabilirsiniz. Ancak Microsoft kamu bulutu için Azure portal doğrudan oturum açmanız gerekiyorsa, ' a gidin ( https://portal.azure.us/) ve Microsoft kamu bulutu Için Azure AD kiracınız için genel yönetici kimlik bilgilerini kullanarak oturum açın).
 
-ABD hükümeti için Microsoft Bulut Azure portal başarıyla oturum açtıktan sonra, Azure Active Directory (Azure AD) genel bakış sayfasını açın ve ardından şu konulardaki yönergeleri izleyin:
+Microsoft kamu bulutu için Azure portal başarıyla oturum açtıktan sonra, Azure Active Directory (Azure AD) genel bakış sayfasını açın ve ardından şu konulardaki yönergeleri izleyin:
 
 > [!NOTE]  
 > Aşağıdaki bağlantıların seçilmesi sizi farklı bir Web sitesine götürür. 
@@ -44,6 +44,6 @@ ABD hükümeti için Microsoft Bulut Azure portal başarıyla oturum açtıktan 
 
 **İlgili konular**
 
--  [**Microsoft Cloud for US Government için İş Ortağı Merkezi**](partner-center-for-microsoft-us-govt-cloud.md)
+-  [**Microsoft kamu bulutu için iş ortağı Merkezi**](partner-center-for-microsoft-us-govt-cloud.md)
 
--  [**ABD kamu sektörü için Microsoft Bulut Bulut Çözümü Sağlayıcısı programına kaydolma**](enroll-in-csp-for-microsoft-us-govt-cloud.md)
+-  [**Microsoft kamu bulutu için bulut çözümü sağlayıcısı programına kaydolma**](enroll-in-csp-for-microsoft-us-govt-cloud.md)
