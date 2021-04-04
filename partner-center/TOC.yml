@@ -93,6 +93,8 @@
         - name: MPN iş ortakları için tanıtımlar
           href: mpn-demos.md
           displayName: mpn
+        - name: Avantajlar ilkesi ve kullanımı-SSS
+          href: benefits-faq-new.md
         - name: Avantajlar hakkında SSS'ler
           href: benefits-faq.md
           displayName: 'renew, license,'
