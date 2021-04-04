@@ -9,16 +9,17 @@ ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/26/2020
-ms.openlocfilehash: 2b1a09253b7a9e9c8863f07b729ad116689a4642
-ms.sourcegitcommit: bcd0c09d3acd5eae4fbfca7ea6614a54d203eff6
+ms.openlocfilehash: ba8389ff613b47b17b87a6769674e33948fdc37d
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/04/2020
-ms.locfileid: "92531402"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086592"
 ---
 # <a name="partner-center-insights---a-dashboard-that-shows-how-a-microsoft-commercial-partner-is-doing"></a>İş Ortağı Merkezi öngörüleri-bir Microsoft ticari iş ortağının nasıl yaptığını gösteren bir pano
 
 **Uygun roller**
+
 - Genel yönetici
 - Hesap yöneticisi
 - Executive rapor Görüntüleyicisi
@@ -26,11 +27,11 @@ ms.locfileid: "92531402"
 
 ## <a name="introduction"></a>Giriş
 
-Öngörüler, Microsoft 'un Microsoft İş Ortağı Ağı (MPN) programına kayıtlı ticari iş ortakları için Iş Ortağı Merkezi 'nde birleştirilmiş bir raporlama panodur. Öngörüler panosu, Office, Azure, Dynamics ve CSP ve EA gibi lisanslama modelleri gibi bulut ürünlerinde önemli performans göstergelerinin (KPI) 360 derece görünümünü sağlar. Kuruluşunuz için veri odaklı kararlar almanıza yardımcı olabilecek zengin bir KPI raporu kümesi sunar. 
+Öngörüler panosu, Microsoft 'un Microsoft İş Ortağı Ağı (MPN) programına kayıtlı ticari iş ortakları için Iş Ortağı Merkezi 'nde birleştirilmiş bir raporlama panodur. Öngörüler panosu, Office, Azure, Dynamics ve CSP ve EA gibi lisanslama modelleri gibi bulut ürünlerinde önemli performans göstergelerinin (KPI) 360 derece görünümünü sağlar. Kuruluşunuz için veri odaklı kararlar almanıza yardımcı olabilecek zengin bir KPI raporu kümesi sunar. 
 
 ## <a name="role-based-access-control-to-the-insights-dashboard"></a>Öngörüler panosuna rol tabanlı erişim denetimi
 
-Iş Ortağı Merkezi 'nde öngörülere erişim için özel olarak tasarlanan iki yeni rol vardır: **rapor Görüntüleyicisi** ve **Executive rapor Görüntüleyicisi** . Yönetim rapor Görüntüleyicisi rolündeki kullanıcıların tüm raporlama veri kümelerine erişimi vardır, ancak rapor Görüntüleyicisi rolündeki kullanıcılar gelir ve müşteri/çalışan kişisel verileri gibi hassas veri kümelerine erişemez. 
+Iş Ortağı Merkezi 'nde öngörülere erişim için özel olarak tasarlanan iki yeni rol vardır: **rapor Görüntüleyicisi** ve **Executive rapor Görüntüleyicisi**. Yönetim rapor Görüntüleyicisi rolündeki kullanıcıların tüm raporlama veri kümelerine erişimi vardır, ancak rapor Görüntüleyicisi rolündeki kullanıcılar gelir ve müşteri/çalışan kişisel verileri gibi hassas veri kümelerine erişemez. 
 
 Genel yönetici veya hesap yöneticisi, kullanıcılara bu rolleri atayabilir ve tüm şirket veya belirli bir MPN konumu için atanır.  
 
@@ -41,44 +42,44 @@ Genel yönetici veya hesap yöneticisi, kullanıcılara bu rolleri atayabilir ve
 
 Aşağıdaki raporlar, Öngörüler panosu 'nun bir parçası olarak sunulmaktadır.
 
-**Genel bakış** : genel bakış raporu, size müşteri sayısı, etkin abonelik sayısı, Azure tüketim geliri, etkin lisanslar vb. gibi çeşitli KPI 'lerin bir anlık görüntü görünümünü sunar.
+**Genel bakış**: genel bakış raporu, size müşteri sayısı, etkin abonelik sayısı, Azure tüketim geliri, etkin lisanslar vb. gibi çeşitli KPI 'lerin bir anlık görüntü görünümünü sunar.
 
-**Müşteri** : müşteri raporu, müşterilerinizin etrafında müşteri Alım verileri, etkin müşteriler vb. gibi analizler sunar.
+**Müşteri**: müşteri raporu, müşterilerinizin etrafında müşteri Alım verileri, etkin müşteriler vb. gibi analizler sunar.
 
-**Ürün-abonelikler** : abonelikler raporu, bulut abonelikleriniz için alım ve kullanım analizlerini (O365, Azure, Dynamics vb.) sunar
+**Ürün-abonelikler**: abonelikler raporu, bulut abonelikleriniz için alım ve kullanım analizlerini (O365, Azure, Dynamics vb.) sunar
 
-**Ürün lisansları** : lisanslar panosu, O365, Dynamics, Power BI vb. gibi lisans tabanlı bulut ürünleri için lisans analizi sunar.
+**Ürün lisansları**: lisanslar panosu, O365, Dynamics, Power BI vb. gibi lisans tabanlı bulut ürünleri için lisans analizi sunar.
 
-**Ürün-Azure kullanımı** : Azure kullanım raporu, Azure tüketim geliri ve ölçüm kategorilerine göre kullanım dahil olmak üzere müşterilerinizin Azure abonelikleri ile ilgili ölçümleri sunar.
+**Ürün-Azure kullanımı**: Azure kullanım raporu, Azure tüketim geliri ve ölçüm kategorilerine göre kullanım dahil olmak üzere müşterilerinizin Azure abonelikleri ile ilgili ölçümleri sunar.
 
-**Uzmanlıklar** : Uzmanlıklar raporu, etkin, nitelikli ve risk altındaki uzmanlarınız hakkında ölçümler sunar.
+**Uzmanlıklar**: Uzmanlıklar raporu, etkin, nitelikli ve risk altındaki uzmanlarınız hakkında ölçümler sunar.
 
-**Avantajlar** : avantajlar raporu, kazanılan ve tüketilen iş ortağı avantajları hakkında analizler sunar.
+**Avantajlar**: avantajlar raporu, kazanılan ve tüketilen iş ortağı avantajları hakkında analizler sunar.
 
 ## <a name="navigating-the-insights-reports"></a>Öngörüler raporlarında gezinme
 
-**Tarih aralığı filtreleri** : her sayfanın sağ üst köşesinde bir tarih aralığı seçimi bulabilirsiniz. Genel Bakış sayfası grafiklerinin çıktısı, son 3, 6 veya 12 aya göre veya özel bir tarih aralığı seçilerek bir tarih aralığı seçilerek özelleştirilebilir. Varsayılan tarih aralığı seçimi 12 aydır. 
+**Tarih aralığı filtreleri**: her sayfanın sağ üst köşesinde bir tarih aralığı seçimi bulabilirsiniz. Genel Bakış sayfası grafiklerinin çıktısı, son 3, 6 veya 12 aya göre veya özel bir tarih aralığı seçilerek bir tarih aralığı seçilerek özelleştirilebilir. Varsayılan tarih aralığı seçimi 12 aydır. 
 
 :::image type="content" source="images/pci/intro1.png" alt-text="Giriş Haritası":::
 
-**Geri bildirim düğmesi** : tüm Öngörüler raporlarında her bir grafik/denetim, bir rapor özelliğinde örnek geri bildirim sağlamanıza olanak sağlamak için bir geri bildirim düğmesi ile birleştirilir. 
+**Geri bildirim düğmesi**: tüm Öngörüler raporlarında her bir grafik/denetim, bir rapor özelliğinde örnek geri bildirim sağlamanıza olanak sağlamak için bir geri bildirim düğmesi ile birleştirilir. 
 
  
-**Sayfa düzeyi filtreleri** : genel bakış, avantajlar ve uzmanlık raporlarının dışında, tüm Öngörüler raporları sayfa düzeyi filtreleri uygulamanıza olanak tanır. 
+**Sayfa düzeyi filtreleri**: genel bakış, avantajlar ve uzmanlık raporlarının dışında, tüm Öngörüler raporları sayfa düzeyi filtreleri uygulamanıza olanak tanır. 
 
 - Seçilen filtreler, Özet bölümü dahil olmak üzere bir sayfadaki tüm grafikler ve ölçümler için geçerli olacaktır. Filtre ölçütlerinde herhangi bir veriniz varsa, bir filtre öğesi kullanılabilir. 
 
-- Her bir filtre listesinin varsayılan seçimi **hepsi** 'dir. Örneğin, ürünler filtresinde belirli bir ürünü seçmediyseniz, varsayılan seçim tüm ürünler olacaktır.
+- Her bir filtre listesinin varsayılan seçimi **hepsi**'dir. Örneğin, ürünler filtresinde belirli bir ürünü seçmediyseniz, varsayılan seçim tüm ürünler olacaktır.
 
 - Seçilen filtreler sayfanın üstünde görüntülenir. 
 
-:::image type="content" source="images/pci/filters.png" alt-text="Giriş Haritası":::
+:::image type="content" source="images/pci/filters.png" alt-text="Uygulanan filtreler çubuğunu ürünlerin, müşteri pazarlarının, Iş ortağı attribuve satış kanallarının filtre seçimleriyle gösteren kısmi ekran görüntüsü.":::
 
 ### <a name="filters-definitions"></a>Filtre tanımları:
 
 - Ürünler: kuruluşunuz tarafından satılan/yönetilen tüm Microsoft Bulut ürünlerin listesi (örneğin, O365, Azure, D365, EMS, Power BI vb.).
 - Müşteri pazarları: müşteri ülkelerin listesi
-- İş ortağı attribu, örneğin dijital kayıt iş ortağı (DPOR), yönetici temsilcisi ayrıcalıkları (DAP), Iş ortağı yönetici bağlantısı (PAL) vb. için müşteri aboneliklerinizle birlikte ilişki türüdür. 
+- İş ortağı attribu, örneğin dijital kayıt iş ortağı (DPOR), yönetici temsilcisi ayrıcalığı (DAP) ve Iş ortağı yönetici bağlantısı (PAL) gibi müşterilerinizin abonelikleriyle birlikte ilişki türüdür. 
 - İş ortağı konumları: tüm kuruluşunuzun MPN konumlarının listesi.
 - Satış Kanalları: CSP, EA, CSP dolaylı, doğrudan, danışman, açık, diğerleri için satın alma/sağlama yaptığınız tüm satış kanalı/fiyatlandırma
 - Müşteri segmentleri: iş ortakları müşteri tabanı genelinde Müşteri segmentlerinin listesi.

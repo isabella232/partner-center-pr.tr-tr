@@ -1,28 +1,28 @@
 ---
 title: Ödeme ve vergi profilleri hakkında SSS
 description: Iş Ortağı Merkezi 'nde ödemeler ve vergi ayrıntıları hakkında sık sorulan soruların yanıtlarını alın. Geliriniz beklenenden farklı olan yanıtları içerir.
-ms.service: marketplace
-ms.subservice: partnercenter-marketplace-publisher
+ms.service: partner-dashboard
+ms.subservice: partnercenter-incentives
 ms.topic: article
 author: eunjkim520
 ms.author: eunjkim
 ms.date: 03/05/2021
-ms.openlocfilehash: 4cbbf89ef0df9c3fd1c1d4c59977a8ba34317673
-ms.sourcegitcommit: fe867be44de3479607be3309940b904d7ea9fc6e
+ms.openlocfilehash: 00cb707dd6d94cc6cbae889e2db1a700d246e2ed
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/06/2021
-ms.locfileid: "102247650"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106087051"
 ---
 # <a name="common-questions-about-payouts-and-taxes"></a>Ödemeler ve vergiler hakkında sık sorulan sorular
 
-**Uygun roller**:
+**Uygun roller**
 
 - Hesap yöneticisi
 - Genel yönetici
 - Teşvikleri Yöneticisi
 
-Bu makalede, Iş Ortağı Merkezi 'nde ödemeler ve vergi ayrıntıları hakkında sık sorulan sorular yanıtlanmaktadır. kapsanan konular, ödemelerin zamanlamasını, kazanç uygunluğunu denetlemeyi ve ödeme ve vergi profillerinizi doğru bir şekilde ayarlamanın önemini içerir.
+Bu makalede, Iş Ortağı Merkezi 'nde ödemeler ve vergi ayrıntıları hakkında sık sorulan sorular yanıtlanmaktadır. Kapsanan konular, ödemelerin zamanlamasını, kazanç uygunluğunuzu kontrol etmeyi ve ödemelerinizi ve vergi profillerinizi doğru ayarlamanın önemini içerir.
 
 ## <a name="profile-management"></a>Profil yönetimi
 
@@ -42,7 +42,7 @@ Doğru izinleriniz olmayabilir veya bu izinlere sahip olmayan bir hesapla oturum
 
 #### <a name="im-only-able-to-sign-in-with-my-onmicrosoftcom-domain-what-should-i-do"></a>Yalnızca etki alanım ile oturum açabiliyorum @onmicrosoft.com . Ne yapmalıyım?
 
-AAD hesabına başka etki alanları eklemek için Hesap yöneticinize başvurun.
+AAD hesabına daha fazla etki alanı eklemek için hesap yöneticinize başvurun.
  
 #### <a name="my-organization-is-participating-in-multiple-programs-do-i-need-to-provide-my-payment-and-tax-profile-multiple-times"></a>Kuruluşum birden çok programda katılıyor. Ödemem ve vergi profilimi birden çok kez sağlamalı mıyım?
 
@@ -61,7 +61,7 @@ MPN konumu için oluşturulan vergi profilleri, aynı MPN konumu başka bir prog
 
 Bu bilgileri düzenleme izinlerine sahip olan teşvikleri admin-bu rolün yalnızca uygun çalışanlara verilmemesini sağlamak şirketin sorumluluğundadır.
 
-#### <a name="my-tax-profile-has-expired-how-do-i-fix-this"></a>Vergi Profilimin süresi doldu. Bu Nasıl yaparım? düzeltilsin mi?
+#### <a name="my-tax-profile-has-expired-how-do-i-fix-update-it"></a>Vergi Profilimin süresi doldu. Güncelleştirme Nasıl yaparım? düzeltilsin mi?
 
 Bir vergi profilinin kullanım süresini dolmuşsa veya kullanım süreleri dolarsa, Microsoft 'a verdiğiniz vergi formunun güncelleştirilmesi gerekir. Vergi profilinizi güncelleştirmek için aşağıdaki adımları kullanın:
 
@@ -83,7 +83,7 @@ Bir vergi profilinin kullanım süresini dolmuşsa veya kullanım süreleri dola
 #### <a name="why-is-my-earnings-amount-different-than-what-i-expected"></a>Ne kadar kazanç miktarım, beklendiğim miktardan farklı midir?
 
 - Sipariş müşteriniz tarafından kısmen ödenmişse, kazanç miktarı, ücret düşüldükten ve uygun vergi ile kısmen ödenen miktarı temel alır.
-- Ülkeye göre vergi havale sorumluluğunu denetleyin. Vergiden Microsoft'un sorumlu olduğu ülkelerde, Microsoft vergiyi yayımcının kazançlarından toplar ve düşer. Hesap özetinde gösterilen işlem tutarı, vergi sonrası tutardır. [Vergi ayrıntıları](tax-details-marketplace.md) konusuna bakın.
+- Ülkeye göre vergi havale sorumluluğunu denetleyin. Verginin Microsoft 'tan sorumlu olduğu ülkelerde, Microsoft bu vergiyi yayımcı gelirinden toplayıp çıkarır. Hesap özetinde gösterilen işlem tutarı, vergi sonrası tutardır. [Vergi ayrıntıları](tax-details-marketplace.md) konusuna bakın.
 - SaaS ve IaaS teklifleri Standart %20 ' nin yerine %10 oranında indirimli bir kurum ücretine sahiptir ve %90 kazanç oranını bırakır. Bu promosyon 30 Haziran 2021'e kadar geçerlidir.
 
 **Daha fazla** bilgi: [ticari Market Yayımcı Sözleşmesi](https://go.microsoft.com/fwlink/p/?LinkID=699560), [ödeyen ilke ayrıntıları](payout-policy-details.md), [ödeme eşiği, yöntemi ve zaman çerçevesi](payment-thresholds-methods-timeframes.md), [ücretli](marketplace-get-paid.md), [vergi ayrıntıları](tax-details-marketplace.md), ödeme [bildirimleri](payout-statement.md)
@@ -113,7 +113,7 @@ Analitik siparişler ve kullanım raporları ile, ödeme işlem geçmişi raporu
 
 
 #### <a name="how-do-i-set-my-account-to-not-receive-payment"></a>Hesabımı ödeme almıyor Nasıl yaparım? mi?
-Ödeme [profilinde](https://partner.microsoft.com/dashboard/commercial-marketplace/overview)ödemeleri tutabilirsiniz; yalnızca **tutmayı** kontrol edin. Microsoft, bekletme 'yi serbest bırakana kadar ödeme yapmak için ücret ödemenizi sağlar.
+Ödeme [profilinde](https://partner.microsoft.com/dashboard/commercial-marketplace/overview)ödemeleri tutabilirsiniz. Bunu yapmak için, **bekletme** ve Microsoft, tutmayı serbest bırakana kadar ödemeyi alacak.
 
 #### <a name="why-do-i-receive-in-a-different-currency-than-the-purchase-currency"></a>Neden satın alma para biriminden farklı bir para biriminde ödeme alıyorum?
 
@@ -121,7 +121,7 @@ Analitik siparişler ve kullanım raporları ile, ödeme işlem geçmişi raporu
 
 #### <a name="how-do-i-reconcile-adjustments"></a>Düzeltmeleri nasıl mutabık kılabilirim?
 
-Ödeme düzeltmeleri, sistem sorunları gibi telafi ayarlamalarını yapmaya yönelik düzeltmelerdir. Ödeme hesap özetinde ReasonCode, düzeltmenin nedenini belirtir. Bunlar doğrudan tek tek işlemlerin mutabakatına yönelik değildir.
+Ödeme düzeltmeleri, sistem sorunları gibi telafi ayarlamalarını yapmaya yönelik düzeltmelerdir. Ödeme bildiriminde, ReasonCode ayarlamanın nedenini belirtir. Bunlar, bireysel işlemlere doğrudan mutabık kılınmamıştır.
 
 **Daha fazla okuma**: [ticari Market Yayımcı Sözleşmesi](https://go.microsoft.com/fwlink/p/?LinkID=699560), [ödeme ilkesi ayrıntıları](payout-policy-details.md), [vergi ayrıntıları](tax-details-marketplace.md), [ödeme eşiği, yöntem ve zaman çerçevesi](payment-thresholds-methods-timeframes.md)
 
@@ -199,7 +199,7 @@ Geçmiş hesap özetinde Ekim 2019 itibarıyla ödeme verilerinin anlık görün
 
 #### <a name="how-do-i-find-the-current-agency-fee-and-the-payout-rate"></a>Geçerli aracı ücretini ve ödeme oranını nasıl bulabilirim?
 
-- Ticari market Yayımcı Sözleşmesini gözden geçirin. Standart aracı ücreti %20'dir. SaaS Co-Sell uygun işlemler %10 oranında indirimli ücretlidir. Promosyonlu aracı ücretlerine ilişkin duyuruları gözden geçirin.
+- Ticari market Yayımcı Sözleşmesini gözden geçirin. Standart aracı ücreti %20'dir. SaaS ortak satış uygun işlemleri %10 oranında indirimli bir ücrete sahiptir. Promosyonlu aracı ücretlerine ilişkin duyuruları gözden geçirin.
 - Ödeme deyiminizde, kazanç oranı belirli bir işlem için gerçek ödeme oranını belirtir.
 
 #### <a name="when-can-i-expect-a-payment-from-microsoft-once-earnings-appear-on-my-statement"></a>Kazançlar hesap özetimde görüntülendikten sonra Microsoft'tan ne zaman ödeme almayı bekleyebilirim?

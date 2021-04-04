@@ -9,24 +9,24 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 010f74164b0428a5cd6ffcde5000b52ac6a6993f
-ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
+ms.openlocfilehash: 022e7aabd0d850660f8236dce9a4fab9069af01b
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 02/06/2021
-ms.locfileid: "99624009"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106087136"
 ---
 # <a name="how-the-partner-earned-credit-is-calculated-and-paid"></a>İş ortağı kazanılmış kredisinin hesaplanması ve ödenmesi
 
 **Uygun roller**
 
 - Genel yönetici
-- Kullanıcı yöneticisi
+- Kullanıcı Yönetimi Yöneticisi
 - Yönetim Aracısı
 - Faturalama yöneticisi
 - Satış Aracısı
 
-Yönetilen hizmetler (PEC) için iş ortağı kazanılmış kredisi, müşterilerine 7/24 BT işletimsel denetim ve bunların bölümlerinin yönetimi ve müşterilerinin tüm Azure ortamı gibi iş ortaklarını tanır ve depolar. Varsayılan olarak, CSP 'de iş ortaklarına, aboneliğin abonelik üzerinde 24 X 7 işlemsel yönetim ve denetim gerçekleştirmesine izin veren, müşterinin aboneliğine gerekli erişim hakları verilir. Müşterinin deneyimidir iş ortağı için erişim sağlayabildiği diğer yollar aşağıdaki bölümde açıklanmıştır. Aylık fatura tutarı, iş ortağının kazandığı net kredi tutarıdır. İş ortakları, aylık keşfi dosyasında PEC ayrıntılarını görebilir. Müşterinin deneyimidir iş ortağı için erişim sağlayabildiği ek yollar için, [Azure planı kapsamındaki abonelikleri ve kaynakları yönetme](azure-plan-manage.md)makalesini okuyun.
+Yönetilen hizmetler (PEC) için iş ortağı kazanılmış kredisi, müşterilerine 7/24 BT işletimsel denetim ve bunların bölümlerinin yönetimi ve müşterilerinin tüm Azure ortamı gibi iş ortaklarını tanır ve depolar. Varsayılan olarak, CSP 'de iş ortaklarına, aboneliğin abonelik üzerinde 24 X 7 işlemsel yönetim ve denetim gerçekleştirmesine izin veren, müşterinin aboneliğine gerekli erişim hakları verilir. Müşterilerin deneyimidir iş ortakları için erişim sağlayabildiği diğer yollar aşağıdaki bölümde açıklanmıştır. Aylık fatura miktarı, iş ortağının kazanılan kredisinin bir ağı olur. İş ortakları, aylık keşfi dosyasında PEC ayrıntılarını görebilir. Müşterinin deneyimidir iş ortağı için erişim sağlayabildiği ek yollar için, [Azure planı kapsamındaki abonelikleri ve kaynakları yönetme](azure-plan-manage.md)makalesini okuyun.
 
 Ayrıca, [Azure CSP abonelikleri için yeniden devreye sokma yönetici ayrıcalıklarını](revoke-reinstate-csp.md) oku
 
@@ -66,7 +66,7 @@ Maliyet analizini kullanan Azure maliyet yönetimi (ACM), PEC 'in avantajını a
 
    Maliyet analizi görünümü, satın alınan ve Microsoft 'a ödediğiniz fiyatlarla tüketilen tüm hizmetler için faturalandırma hesabınızın maliyetlerini görüntüler.
 
-4. PEC 'in uygulandığı maliyetleri görmek için bir Özet grafiğinde açılan kutuda **Partnerearnedtappnda** ' u seçin. **Partnerearnedkredtappekonomi** özelliği true olduğunda, ilişkili maliyet iş ortağının kazanılan kredisi avantajına sahiptir. 
+4. PEC 'in uygulandığı maliyetleri görmek için bir Özet grafiğinde açılan listede **Partnerearnedtappnda** ' u seçin. **Partnerearnedkredtappekonomi** özelliği true olduğunda, ilişkili maliyet iş ortağının kazanılan kredisi avantajına sahiptir. 
 
    Partnertatnedkredtappekonomi özelliği false olduğunda, ilişkili maliyet kredi için gereken uygunluğu karşılamıyor veya satın alınan hizmet, iş ortağı tarafından kazanılan kredi için uygun değil.
 
@@ -79,10 +79,10 @@ Maliyet analizini kullanan Azure maliyet yönetimi (ACM), PEC 'in avantajını a
 
 - [İş ortağı kazanılmış kredi-genel bakış](partner-earned-credit.md)
 
-- İş ortağı kazanılmış kredi hesaplamalarının ayrıntılı örnekleri, Iş Ortağı Merkezi panosu (oturum açma gerekir) aracılığıyla ulaşabileceğiniz fiyat listesinde bulunur.
+- İş ortağı kazanılmış kredi hesaplamalarının ayrıntılı örnekleri, Iş Ortağı Merkezi panosu (oturum açma gerekli) üzerinden ulaşabileceğiniz fiyat listesinde bulunur.
 
 - [Azure planına taşıma-kullanmaya başlama](azure-plan-get-started.md)
 
 - [Azure planı kapsamındaki abonelikleri ve kaynakları yönetme](azure-plan-manage.md)
 
-- [Azure CSP abonelikleri için yönetici ayrıcalıklarını iptal etme veya yeniden alma](revoke-reinstate-csp.md)
+- [Azure CSP abonelikleri için yönetici ayrıcalıklarını iptal etme veya yeniden devreye alma](revoke-reinstate-csp.md)

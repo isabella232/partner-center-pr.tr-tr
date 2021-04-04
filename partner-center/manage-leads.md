@@ -9,21 +9,14 @@ author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 84dcb87f4a5594fdcd3a7099e12331a9e4459b38
-ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
+ms.openlocfilehash: 94bcde2402b7276bef8eaaf84975f2a5677723fe
+ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "92531019"
+ms.lasthandoff: 04/01/2021
+ms.locfileid: "106133123"
 ---
 # <a name="manage-different-leads-like-customer-inquiries-marketing-qualified-leads-and-sales-qualified-leads"></a>Müşteri sorguları, pazarlama için nitelikli müşteri adayları ve satış için nitelikli müşteri adayları gibi farklı müşteri adaylarını yönetme
-
-**Uygulama hedefi**
-
-- İş Ortağı Merkezi
-- Başvuru
-- Microsoft çözüm sağlayıcısı
-- İş profilleri
 
 **Uygun roller**
 
@@ -46,9 +39,9 @@ Müşteri adaylarını almak için önkoşul, şirketiniz için [bir iş profili
 
 Müşteri adayları bölümünde üç üst düzey sekme vardır. 
 
-**Market müşteri adayları** – müşteri sorguları olan Microsoft çözüm sağlayıcısı sayfa aramalarından kaynaklanan tüm müşteri adayları.
+**Market müşteri adayları** : Bunlar, müşteri sorguları olan Microsoft çözüm sağlayıcısı sayfa aramalarından kaynaklanan tüm adaylardır.
 
-**Nitelikli müşteri adayları** : pazarlama niteliği ve satış niteliği türündeki tüm müşteri adayları bu sekmede mevcuttur.
+**Nitelikli müşteri adayları** : Bu, pazarlama niteliği ve satış niteliği türünde tüm müşteri adaylardır.
 
 **Sık Kullanılanlar** : market müşteri adayları veya nitelikli müşteri adayları sekmesinde sık kullanılanlar olarak işaretlenen tüm müşteri adayları, bu sekmede gösterilir. Liste görünümündeki müşteri adayının kalp simgesine tıklayarak herhangi bir müşteri adayını sık kullanılan olarak işaretleyebilirsiniz. Yalnızca aynı simgeye tıklayarak bu müşteri adayını sık kullanılanlardan kaldırabilirsiniz.
 
@@ -62,9 +55,9 @@ Bu aşamada, doğrudan müşteriden veya bir Microsoft çalışanından yeni bir
 
 Bu aşamada iki eylem gerçekleştirebilirsiniz-başvuruyu kabul edin veya reddedin:
 
-- **Kabul et:** Anlaşma, tahmini anlaşma değeri ve tahmini satın alma zaman çerçevesi için bir ad girin. Ayrıca, müşterinin **aradıklarıyla** ilgili daha fazla bilgi için Notlar alanına bilgi sağlamanız gerekir. İsteğe bağlı olarak, CRM KIMLIĞINIZI buraya girebilirsiniz (yalnızca başvurağınız için), pazarlama kampanyası kimliği, ilgili müşteri adayıyla sonuçlanmış ve şirketinizden ek kişiler ekleyebilirler. İşiniz bittiğinde **İleri** ' yi seçin. Başvuruyu bir **sonraki aşamaya** taşıyacağız, bu da ihtiyaçları karşılamak üzere müşteriyle birlikte etkin bir şekilde katılım planladığınız anlamına gelir. Gelecekte de benzer anlaşmalar bulmanıza yardımcı olması için bu bilgileri kullanacağız. 
+- **Kabul et**: anlaşma, tahmini anlaşma değeri ve tahmini satın alma süresi çerçevesi için bir ad girin. Ayrıca, müşterinin **aradıklarıyla** ilgili daha fazla bilgi için Notlar alanına bilgi sağlamanız gerekir. İsteğe bağlı olarak, CRM KIMLIĞINIZI buraya girebilirsiniz (yalnızca başvurağınız için), pazarlama kampanyası KIMLIĞI, ilgili müşteri adayıyla sonuçlanmış ve şirketinizden ek kişiler ekleyebilirler. İşiniz bittiğinde **İleri**' yi seçin. Başvuruyu bir **sonraki aşamaya** taşıyacağız, bu da ihtiyaçları karşılamak üzere müşteriyle birlikte etkin bir şekilde katılım planladığınız anlamına gelir. Gelecekte de benzer anlaşmalar bulmanıza yardımcı olması için bu bilgileri kullanacağız. 
 
-- **Reddet** : anlaşmayı reddettiğinizi ve dahil etmek istediğiniz tüm notları ekleyin ve ardından anlaşmayı **Kapat** ' ı seçin. Bu dosyayı **reddedildi** olarak arşivleyecektir ve müşteriye farklı bir iş ortağı seçmesini bilgilendireceğiz.
+- **Reddet**: anlaşmayı reddettiğinizi ve dahil etmek istediğiniz tüm notları ekleyin ve ardından anlaşmayı **Kapat** ' ı seçin. Bu dosyayı **reddedildi** olarak arşivleyecektir ve müşteriye farklı bir iş ortağı seçmesini bilgilendireceğiz.
 
 - Ayrılan süre (14 gün) içinde yanıt vermezseniz, bunu **süresi dolduğunda** arşivleyip Microsoft 'un veya bu fırsatı gönderen iş ortağının bilgilendireceğiz.
 
@@ -73,7 +66,7 @@ Bu aşamada iki eylem gerçekleştirebilirsiniz-başvuruyu kabul edin veya redde
 
 ### <a name="accepted-stage"></a>Kabul edilen aşama
 
-Anlaşmayı kapatmaya çalışırken, kabul edilen bir başvuru için sağladığınız bilgilerden herhangi birini değiştirmek istiyorsanız, **Düzenle** ' yi seçin. Ardından, anlaşma adı, tahmini satın alma tarihi, tahmini değer, notlar, CRM KIMLIĞI ve/veya pazarlama kampanya kimliğini güncelleştirebilirsiniz.  Ayrıca, çalışma üzerinde çalışan ek kişilerin adını, telefon numarasını ve e-posta adreslerini sağlamak için **çalışanlarınıza Ekle** ' yi de seçebilirsiniz.
+Anlaşmayı kapatmaya çalışırken, kabul edilen bir başvuru için sağladığınız bilgilerden herhangi birini değiştirmek istiyorsanız, **Düzenle**' yi seçin. Ardından, anlaşma adı, tahmini satın alma tarihi, tahmini değer, notlar, CRM KIMLIĞI ve/veya pazarlama kampanya KIMLIĞINI güncelleştirebilirsiniz.  Ayrıca, çalışma üzerinde çalışan ek kişilerin adını, telefon numarasını ve e-posta adreslerini sağlamak için **çalışanlarınıza Ekle** ' yi de seçebilirsiniz.
 
 İşiniz bittiğinde, bu iki eylemden birini alabilir; bu işlem, sonucu raporlamak için işlemi **kazanıldı** veya **kaybedildi** olarak işaretler.
 
@@ -85,15 +78,15 @@ Bu, tüm fırsatların son olarak ulaşabileceği bir Terminal aşamasıdır. Bu
 
 Daha uygun başvurular almanıza yardımcı olabilecek bazı ipuçları aşağıda verilmiştir:
 
-- [İş profilinizde](create-a-marketing-profile.md) **benzersiz uzmanlığınızı ve iş modelinizi temsil eden anahtar sözcükleri ve tercihleri seçin** . İlgilendiğiniz başvuruları üreten anahtar sözcükleri kaldırın. Belirli boyuttaki işletmelerle ilgilenmiyorsanız, bu tercihi güncelleştirin.
+- **[İş profilinizde](create-a-marketing-profile.md)benzersiz uzmanlığınızı ve iş modelinizi temsil eden anahtar sözcükleri ve tercihleri seçin**. İlgilendiğiniz başvuruları üreten anahtar sözcükleri kaldırın. Belirli boyuttaki işletmelerle ilgilenmiyorsanız, bu tercihi güncelleştirin.
 
-- **Her konum için [iş profilinizde](create-a-marketing-profile.md) kişi bilgilerinizi gözden geçirin** Takımınızın gelen uyarıları aldığından emin olun.
+- **Her konum için [iş profilinizde](create-a-marketing-profile.md) kişi bilgilerinizi gözden geçirin**. Takımınızın gelen uyarıları aldığından emin olun.
 
-- **Başvuruları hızla yanıtlayın** Gelen isteklere zamanında yanıt gönderdiğinizde, gelecekteki müşteri arama sonuçlarında görünürlüğünüzü arttıracağız. Takımınızın sizin amacınızla hızla yanıt verdiğini doğrulayın.
+- **Başvurularına hızla yanıt verin**. Gelen isteklere zamanında yanıt gönderdiğinizde, gelecekteki müşteri arama sonuçlarında görünürlüğünüzü arttıracağız. Takımınızın sizin amacınızla hızla yanıt verdiğini doğrulayın.
 
-- **Kabul ettiğiniz anlaşmalar sayesinde** Kabul ettiğiniz ve reddettiğimiz ve bu bilgileri size benzer anlaşmalar bulmaya yardımcı olması için kullandığınız anlaşmalar türlerini izliyoruz. İyi bir uyum olmayan anlaşmalar kabul edilmesi, arama sonuçlarınızı iyileştirmez ve aldığınız müşteri adaylarının kalitesini etkileyebilir.
+- **Kabul ettiğiniz anlaşmalar ile bu koşulları benimseme**. Kabul ettiğiniz ve reddettiğimiz ve bu bilgileri size benzer anlaşmalar bulmaya yardımcı olması için kullandığınız anlaşmalar türlerini izliyoruz. İyi bir uyum olmayan anlaşmalar kabul edilmesi, arama sonuçlarınızı iyileştirmez ve aldığınız müşteri adaylarının kalitesini etkileyebilir.
 
-- **Tahmini anlaşma boyutlarını, kapanış tarihlerini ve anlaşmanızın son durumunu** (kazanıldı veya kaybedildi) geri rapor edin. Size kalite başvuruları sağlamaya devam etmek için bu bilgileri kullanacağız.
+- **Tahmini anlaşma boyutlarını, kapanış tarihlerini ve anlaşmanızın son durumunu (kazanıldı veya kaybedildi) geri rapor edin**. Size kalite başvuruları sağlamaya devam etmek için bu bilgileri kullanacağız.
 
 ## <a name="next-steps"></a>Sonraki adımlar
 

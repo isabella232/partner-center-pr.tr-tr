@@ -8,19 +8,14 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 09/11/2020
-ms.openlocfilehash: 971d3fbc4b172b66e5b5099bc16999eefc57279c
-ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
+ms.openlocfilehash: 3cd9ee73da3432b88c2ef3669f12451d675a319a
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "92531435"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179182"
 ---
 # <a name="use-these-resources-to-help-you-create-incentives-plans-and-proofs-of-execution"></a>Teşvikleri planları ve yürütme provalarını oluşturmanıza yardımcı olması için bu kaynakları kullanın
-
-**Uygulama hedefi**
-
-- İş Ortağı Merkezi
-- Microsoft İş Ortağı Ağı iş ortakları (MPN)
 
 **Uygun roller**
 
@@ -40,7 +35,7 @@ Bir teşvikleri Co-op talep planı, programınızı bir başarı haline getirmek
 
 ## <a name="what-is-a-proof-of-execution-poe"></a>Yürütmenin (PoE) kanıtı nedir?
 
-Teşvikleri çalışmanız için ödeme yaptıktan sonra, Microsoft 'a ayrıntılı bir yürütme (PoE) kanıtı göndermeniz gerekir. PoE, ilgili kampanya hakkındaki ayrıntıları, teşvikleri etkinliğinin tarihini, istenen miktarı, vb. içerebilir. 
+Teşvikleri çalışmanız için ödeme yaptıktan sonra, Microsoft 'a ayrıntılı bir yürütme (PoE) kanıtı göndermeniz gerekir. PoE, ilgili kampanya hakkındaki ayrıntıları, teşvikleri etkinliğinin gerçekleştiği tarihi ve istenen miktarı içerebilir. 
 
 [Yürütmenin provalarını hazırlama](incentives-prepare-your-proof-of-execution.md)hakkında daha fazla bilgi edinin.
 

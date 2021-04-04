@@ -8,20 +8,16 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 9e3d2ec916a8c8a9d29b5ba82db6542d55bd84e8
-ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
+ms.openlocfilehash: 1ad11a42a91cfacb625a05b850b0cdfee3d48d0b
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "92531458"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179267"
 ---
 # <a name="generate-a-marketing-plan-for-your-incentives-program"></a>Teşvikleri programınız için bir pazarlama planı oluşturma
 
-**Aşağıdakiler cihazlar için geçerlidir:**
-
-- İş Ortağı Merkezi
-
-**Uygun roller:**
+**Uygun roller**
 
 - Teşvikleri Yöneticisi
 - Faturalama yöneticisi
@@ -42,23 +38,23 @@ Belirli teşvikleri programınızın planları hakkında daha fazla bilgi için,
 
 1. [İş Ortağı Merkezi panosunda](https://partner.microsoft.com/dashboard/) oturum açın.
 
-2. Sol gezintideki **Teşvikler** ’in altında **Program** ’ı seçin ve sonra da programınızı seçin. 
+2. Sol gezintideki **Teşvikler**’in altında **Program**’ı seçin ve sonra da programınızı seçin. 
 
-3. **Program** sayfasında, planınız için uygun pazarı bulun ve **plan oluştur** ' u seçin. 
+3. **Program** sayfasında, planınız için uygun pazarı bulun ve **plan oluştur**' u seçin. 
 
-4. **Yeni plan** sayfasında, gerekli alanları doldurun. **Para birimi** , planın yansıtılmasını istediğiniz değerdir. **Gözden geçiren e-postası** , Hesap yöneticinizin Microsoft e-posta adresi olmalıdır. MPN kimliği, fon, program ve süre başına tek bir plan oluşturulabileceğini unutmayın. **Kaydet** ’i seçin.
+4. **Yeni plan** sayfasında, gerekli alanları doldurun. **Para birimi** , planın yansıtılmasını istediğiniz değerdir. **Gözden geçiren e-postası** , Hesap yöneticinizin Microsoft e-posta adresi olmalıdır. MPN kimliği, fon, program ve süre başına tek bir plan oluşturulabileceğini unutmayın. **Kaydet**’i seçin.
 
-5. Planın durum sayfasında görüntülenen bilgileri gözden geçirin. Bilgilerden herhangi birini güncelleştirmek için **Düzenle** ’yi seçin.
+5. Planın durum sayfasında görüntülenen bilgileri gözden geçirin. Bilgilerden herhangi birini güncelleştirmek için **Düzenle**’yi seçin.
 
-6. Bu sayfadaki bilgiler doğru olduğunda **Yeni kampanya** ' i seçin.
+6. Bu sayfadaki bilgiler doğru olduğunda **Yeni kampanya**' i seçin.
 
-7. **Yeni kampanya** sayfasında gerekli alanları doldurun ve **Kaydet** ' i seçin.
+7. **Yeni kampanya** sayfasında gerekli alanları doldurun ve **Kaydet**' i seçin.
 
-8. Durum sayfasında **Yeni etkinlik** ’i seçin. 
+8. Durum sayfasında **Yeni etkinlik**’i seçin. 
 
-9. **Yeni etkinlik** sayfasında gerekli alanları doldurun. Birden çok ülke seçebilirsiniz. İşiniz bittiğinde **Kaydet** 'i seçin. 
+9. **Yeni etkinlik** sayfasında gerekli alanları doldurun. Birden çok ülke seçebilirsiniz. İşiniz bittiğinde **Kaydet**'i seçin. 
 
-10. Durum sayfasında bilgilerinizi yeniden gözden geçirin. Planı bir kez gönderdikten sonra düzenleyemezsiniz. Bitirdiğinizde **Gönder** ’i seçi ve sonra da **Onayla** ’yı seçin.
+10. Durum sayfasında bilgilerinizi yeniden gözden geçirin. Bir planı gönderdikten sonra düzenleyemezsiniz. Bitirdiğinizde **Gönder**’i seçi ve sonra da **Onayla**’yı seçin.
 
 Planınız artık gönderilmiştir. Microsoft onaylandığında veya daha fazla bilgi istediğinde Teşvik yöneticinize bunu bildirecektir. Durum sayfasının Durum penceresinde planınızın ilerleme durumunu görüntüleyebilirsiniz.
 
@@ -66,7 +62,7 @@ Planınız artık gönderilmiştir. Microsoft onaylandığında veya daha fazla 
 
 1. [İş Ortağı Merkezi panosunda](https://partner.microsoft.com/dashboard/) oturum açın.
 
-2. **Teşvikler** sayfanızda **Plan Yönetimi** ’ni seçin ve sonra da istediğiniz programı seçin. Durum sayfası açılır.
+2. **Teşvikler** sayfanızda **Plan Yönetimi**’ni seçin ve sonra da istediğiniz programı seçin. Durum sayfası açılır.
 
 3. **Planlar** bölümünde, her planın durumu **Durum** sütununda listelenir.
 
@@ -90,9 +86,9 @@ Planınızı program yılının son gününe kadar oluşturmalı ve göndermelis
 
 Microsoft size kazançlarınız ve planınızın sınırları temelinde her ay ödeme yapar. Ödemeler izleyen ayın 15. günü yapılır.
 
-Örneğin 10.000 ABD doları için planınız onaylandıysa ve Nisan ayında 5.000 ABD doları kazandıysanız, 15 Mayıs’ta 5.000 ABD doları alırsınız.
+Örneğin, planınız $10.000 için onaylanırsa ve Nisan ayında $5.000 ' i kazandıysanız, 15 Mayıs 'ta $5.000 ' i alacaksınız.
 
-Aynı plan kapsamında Nisan ayında 15.000 ABD doları kazanırsanız 15 Mayıs’ta 10.000 ABD doları alırsınız çünkü planınızın sınırı 10.000 ABD dolarıdır. Daha fazla ödeme almak için sonraki ay için planınızın sınırını artırmanız gerekir.
+Aynı plan kapsamında, Nisan ayında $15.000 kazandıysanız, "planınız için sınır $10.000 olduğundan, 15 Mayıs 'ta $10.000 ' i alacaksınız. Daha fazla ödeme almak için sonraki ay için planınızın sınırını artırmanız gerekir.
 
 ## <a name="next-steps"></a>Sonraki adımlar
 

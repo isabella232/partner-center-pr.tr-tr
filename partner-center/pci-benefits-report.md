@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: İşinizi büyütmenize yardımcı olmak için hangi Microsoft Iş ortağı avantajlarına sahip olduğunu öğrenin, verimliliği artırın ve takımınızın yeteneklerini geliştirin.
+description: İşinizi büyütmenize, verimliliği artırmaya ve takımınızın yeteneklerini geliştirmeye yardımcı olmak için hangi tür Microsoft Iş ortağı avantajlarına izin verildiğini görün.
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 575c68a15838e67cc7123e756dc15206eb2e4d7d
-ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
+ms.openlocfilehash: 5b730eb9c6689c9d779a2e3f16f70fd3232601da
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "92531095"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106087017"
 ---
 # <a name="benefits-report-available-from-the-partner-center-insights-dashboard"></a>Iş Ortağı Merkezi Öngörüler panosundan sunulan avantajlar raporu
 
@@ -25,7 +25,7 @@ ms.locfileid: "92531095"
 - Rapor Görüntüleyicisi
 - Executive rapor Görüntüleyicisi
 
-Bir Microsoft Iş ortağı olarak, takımınızın yeteneklerini geliştirmenize, verimliliği artırmaya ve işletmenizi büyütmenize yardımcı olmak için en son teknolojiyi ve yenilikleri kullanan bir avantaj ana bilgisayarına erişebilirsiniz. Avantajlar paketleri şunlardır: lisanslı yazılım, bulut Hizmetleri, Visual Studio abonelikleri ve destek ayırmaları. Bu paketler aynı zamanda belirli bir pazara karşı kaynak kaynakları, teklifleri ve programları da içerebilir. Avantajlar raporu, eriştiğiniz avantajların ve seçilen tarih aralığı sırasında kullanımlarının eğilimlerini sunar.
+Bir Microsoft Iş ortağı olarak, takımınızın yeteneklerini geliştirmenize, verimliliği artırmaya ve işletmenizi büyütmenize yardımcı olmak için en son teknolojiyi ve yenilikleri kullanan bir avantaj ana bilgisayarına erişebilirsiniz. Avantajlar paketleri şunlardır: lisanslı yazılım, bulut Hizmetleri, Visual Studio abonelikleri ve destek ayırmaları. Bu paketler aynı zamanda belirli bir pazara karşı kaynak kaynakları, teklifleri ve programları da içerebilir. Avantajlar raporu, eriştiğiniz avantajların ve seçilen tarih aralığında bunların kullanım eğilimlerini gösterir.
 
 :::image type="content" source="images/pci/pci-benefits-intro-1.png" alt-text="avantajlar sayfasına genel bakış":::
 
@@ -47,20 +47,20 @@ Avantajlar raporunda aşağıdaki grafikleri görselleştirebilirsiniz:
 
 Örnek: Microsoft İş Ortağı Ağı (MPN) üyelik iş ortakları, şirket içi ürünlerin ve bulut ürünlerinin teknik desteği için uygundur. Gümüş uzmanlığa sahip iş ortakları, şirket içi ürünlerin 15 olayı için teknik destek verilmesini ister. Gerektiğinde bu desteği tüketebilirler. 
 
-:::image type="content" source="images/pci/pci-benefits-summary-2.png" alt-text="avantajlar sayfasına genel bakış":::
+:::image type="content" source="images/pci/pci-benefits-summary-2.png" alt-text="avantajlar Özeti":::
 
 ## <a name="cloud-services-granted"></a>Verilen bulut Hizmetleri
 
 Bu grafik seçili bulut hizmetinin lisans tabanlı abonelikleri için seçilen tarih aralığında verilen lisansların aylık eğilimini gösterir.
 Belirli bir bulut hizmeti için grafiği görüntülemek üzere **Hizmetler** sekmesinden bir bulut hizmeti seçin. Çizgi grafik, şirketinize verilen genel lisansları temsil eder.
 
-:::image type="content" source="images/pci/pci-benefits-cloud-services-granted-3.png" alt-text="avantajlar sayfasına genel bakış":::
+:::image type="content" source="images/pci/pci-benefits-cloud-services-granted-3.png" alt-text="verilen bulut Hizmetleri":::
 
 ## <a name="software-products"></a>Yazılım ürünleri
 
 Bu grafik, belirli bir yazılım ürünü için seçilen tarih aralığı sırasında verilen lisansların aylık eğilimini gösterir. Avantaj olarak verilen belirli bir yazılım ürününün eğilimini görüntülemek için grafiğin üstündeki açılan listeden bir yazılım ürünü seçin. Çizgi grafik, şirketinize verilen genel lisansları temsil eder.
 
-:::image type="content" source="images/pci/pci-benefits-software-products-granted-4.png" alt-text="avantajlar sayfasına genel bakış":::
+:::image type="content" source="images/pci/pci-benefits-software-products-granted-4.png" alt-text="verilen yazılım ürünleri":::
 
 ## <a name="visual-studio-subscriptions"></a>Visual Studio abonelikleri
 
@@ -68,7 +68,7 @@ Bu grafik, seçilen tarih aralığı boyunca ayrılan aboneliklerde etkinleştir
 
 Avantaj olarak verilen belirli bir Visual Studio aboneliğinin eğilimini görüntülemek için grafiğin üst kısmında bir sekme seçin. Grafikteki sütunlar, abonelik için tüketilen lisansları temsil eder. Çizgi grafik, abonelik için atanan genel lisansları temsil eder.
 
-:::image type="content" source="images/pci/pci-benefits-visual-studio-subscriptions-5.png" alt-text="avantajlar sayfasına genel bakış":::
+:::image type="content" source="images/pci/pci-benefits-visual-studio-subscriptions-5.png" alt-text="Visual Studio abonelikleri":::
 
 ## <a name="technical-benefits"></a>Teknik avantajlar
 
@@ -76,7 +76,7 @@ Bu grafik, seçilen tarih aralığında verilen destek avantajlarından oluşan 
 
 Verilen belirli bir destek avantajı eğilimini görüntülemek için grafiğin üst kısmında bir sekme seçin. Çizgi grafik, seçilen destek avantajı için atanan destek genel saatlerini temsil eder.
 
-:::image type="content" source="images/pci/pci-benefits-technical-benefits-6.png" alt-text="avantajlar sayfasına genel bakış":::
+:::image type="content" source="images/pci/pci-benefits-technical-benefits-6.png" alt-text="Teknik avantajlar":::
 
 ## <a name="go-to-market-offers-or-services"></a>Go-to-market teklifleri veya hizmetleri
 
@@ -84,7 +84,7 @@ Bu grafik, seçilen tarih aralığında ve seçilen bir pazara karşı bir tekli
 
 Şirketinizde bulunan seçili pazara yönelik bu hizmetlerin eğilimini görüntülemek için grafiğin üstündeki açılan listeden bir pazara karşı teklif veya hizmet kategorisi seçin. Grafikteki sütunlarda go-to-market teklifleri veya Hizmetleri etkinleştirilmiş olarak temsil etmektedir. Çizgi grafik, şirketinize verilen genel pazara yönelik teklifleri veya hizmetleri temsil eder.
 
-:::image type="content" source="images/pci/pci-benefits-go-to-market-7.png" alt-text="avantajlar sayfasına genel bakış":::
+:::image type="content" source="images/pci/pci-benefits-go-to-market-7.png" alt-text="Go-to-market teklifleri":::
 
 ## <a name="next-steps"></a>Sonraki adımlar
 

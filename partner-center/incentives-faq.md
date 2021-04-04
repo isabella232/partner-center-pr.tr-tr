@@ -8,19 +8,18 @@ ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: 2ee2ba7c3a04453927bd8e508190f23ec295da1d
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 1c3cafa6b5ea280a924a0142da78483d54a18ab9
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756711"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179505"
 ---
 # <a name="frequently-asked-questions-on-incentives"></a>Teşvikleri hakkında sık sorulan sorular
 
-**Uygun roller:**
+**Uygun roller**
 
 - Teşvikleri Yöneticisi
-
 - Teşvikleri kullanıcısı
 
 ## <a name="do-i-need-to-be-the-global-admin-to-enroll-in-incentives"></a>Teşvikleri 'e kaydolmak için genel yönetici olmam gerekiyor mu?
@@ -55,7 +54,7 @@ Daha fazla bilgi için bkz. [rolünüzü bulma](find-your-role.md).
 
 ## <a name="i-cant-access-incentives-using-my-credentials"></a>Kimlik bilgilerimi kullanarak teşvikleri 'ye erişemiyorum.
 
-Teşvikleri görmeme nedeni, doğru izinlere sahip olmadığınızdan emin olmanızdır. Aşağıdaki yordamı kullanarak bkz. çözümü
+Teşvikleri görmeme nedeni, doğru izinlere sahip olmadığınızdan emin olmanızdır. Bunu onarmak için aşağıdaki yordamı kullanın.
 
 1. Azure AD Kiracı kimlik bilgilerinizle (iş kimlik bilgileriniz) iş [Ortağı Merkezi panosunda](https://partner.microsoft.com/dashboard/) oturum açın. Oturum açamıyor, şirketinizin genel yöneticisine başvurun.
 
@@ -71,7 +70,7 @@ Teşvikleri görmeme nedeni, doğru izinlere sahip olmadığınızdan emin olman
 
 Rolünüzü veya izinlerinizi değiştirmeniz gerekiyorsa, şirketinizin genel veya hesap yöneticisine başvurun. Bu kişilerin kim olduğunu öğrenmek için [genel yöneticinizle bulun](./find-your-role.md#find-your-global-admin)makalesini okuyun.
 
-Genel Bakış sayfasının yalnızca Azure AD kiracısı ile ilişkili Iş ortağı genel hesabıyla (PGA) ilişkili kayıtları görüntüleydiğine göz atın. Şirketinizde birden fazla PGA varsa, her biri için farklı kimlik bilgilerine sahip olmanız gerekir.
+Genel Bakış sayfasında yalnızca Azure AD kiracısı ile ilişkili Iş ortağı küresel hesabı (PGA) ile ilişkili kayıtlar görüntülenir. Şirketinizde birden fazla PGA varsa, her biri için farklı kimlik bilgilerine sahip olmanız gerekir.
 
 ## <a name="who-should-i-contact-if-i-get-an-error-message-or-need-help-during-the-enrollment-process"></a>Kayıt işlemi sırasında bir hata iletisi aldığımda veya yardıma ihtiyaç duysam kimler başvurmalıyım?
 

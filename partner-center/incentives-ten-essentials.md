@@ -8,19 +8,14 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 09/15/2020
-ms.openlocfilehash: 41ea71b2461c8497b90acc0f265c4f946faa55b7
-ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
+ms.openlocfilehash: 6000ba464a7751a159d8a390b13d2af6ffb59894
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "92531427"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179114"
 ---
 # <a name="the-10-essentials-for-working-with-incentives"></a>Teşvikleri ile çalışmak için 10 temel bileşenler
-
-**Uygulama hedefi**
-
-- İş Ortağı Merkezi
-- Microsoft İş Ortağı Ağı iş ortakları (MPN)
 
 **Uygun roller**
 
@@ -49,7 +44,7 @@ Teşvikleri programına dahil olan roller ve izinlerin katı bir şekilde anlaş
 
 ## <a name="5-review-the-incentives-faq"></a>5. teşvikleri SSS 'sini inceleyin
 
-Sık sorulan teşvikleri soruların yanıtlarını sormadan önce alın. Microsoft Desteği bilgilerini ve ortaklarla doğrudan iletişimi kullanarak, teşvikleri SSS 'yi sıklıkla güncelleştiririz. SSS 'yi [buradan](incentives-faq.md)görebilirsiniz.
+Sık sorulan teşvikleri soruların yanıtlarını sormadan önce alın. Microsoft Desteği bilgileri kullanarak ve doğrudan ortaklarla iletişim kurmak için teşvikleri SSS 'yi sıklıkla güncelleştiririz. SSS 'yi [buradan](incentives-faq.md)görebilirsiniz.
 
 ## <a name="6-confirm-your-program-eligibility"></a>6. programınızın uygunluğunu onaylayın
 
@@ -73,4 +68,4 @@ Yukarıda listelenen tüm görevleri gerçekleştirmek için ayrıntılı yordam
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-- [Teşvikleri kullanmaya başlama](incentives-get-started-intro.md)
+- [Teşviklerle çalışmaya başlama](incentives-get-started-intro.md)

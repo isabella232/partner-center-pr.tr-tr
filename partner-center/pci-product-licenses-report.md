@@ -9,22 +9,23 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4f1709d9a95e3509edbc431a851a2f1fdc0aae01
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: 14cd4664ecfb140b82dfd27994ff99c7a62d2261
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "92531294"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086915"
 ---
 # <a name="product-licenses-report-in-the-partner-center-insights-dashboard"></a>Partner Center Insights panosundaki ürün lisansları raporu
 
 **Uygun roller**
+
 - Genel yönetici
 - Yönetim Aracısı
 - Rapor Görüntüleyicisi
 - Executive rapor Görüntüleyicisi
 
-Ürün lisansları raporu, O365, Dynamics, M365, Power BI vb. gibi lisans tabanlı bulut ürünleri için lisans analizi sunar. Burada sunulan analiz, satmış olduğunuz veya müşterileriniz için yönettiğiniz lisansların kullanımıyla ilişkilendirilir. Ürün lisansları raporundan aşağıdaki bölümleri görüntüleyebilirsiniz.
+Ürün lisansları raporu, Office 365, Dynamics, Microsoft 365, Power BI ve diğerleri gibi lisans tabanlı bulut ürünleri için lisans analizi sunar. Burada sunulan analiz, satmış olduğunuz veya müşterileriniz için yönettiğiniz lisansların kullanımıyla ilişkilendirilir. Ürün lisansları raporundan aşağıdaki bölümleri görüntüleyebilirsiniz.
 
 - Özet
 - Lisansların coğrafi yayılmasının
@@ -40,10 +41,10 @@ ms.locfileid: "92531294"
 
 :::image type="content" source="images/pci/pci-licenses-report-summary-1.png" alt-text="Lisans raporu Özeti":::
 
-Özetin her bölümü hakkında daha fazla bilgi için aşağıya bakın.
+Özetin her bölümü hakkında daha fazla bilgi için aşağıya bakın:
 
 - Lisanslarının 
-  - O365, Dynamics, M365, Power BI vb. gibi lisans tabanlı bulut ürünleri için sizin tarafınızdan satılan veya yönetilen tüm lisansların geçerli sayısı.
+  - Office 365, Dynamics, Microsoft 365, Power BI ve diğerleri gibi lisans tabanlı bulut ürünleri için sizin tarafınızdan satılan veya yönetilen tüm lisansların geçerli sayısı.
   - Bu lisansların seçili tarih aralığında büyüme veya reddetme yüzdesi.
   - Lisans eğilimi mikro grafik: mikro grafik, seçilen tarih aralığı boyunca lisans sayımlarının ay içinde eğilimini gösterir
 
@@ -65,7 +66,7 @@ ms.locfileid: "92531294"
 
 Haritada konum yakınlaştırmak için kılavuzda bir ülke arayabilir ve seçebilirsiniz. Varsayılan görünüme dönmek için haritanın **giriş** seçeneğine basın. Müşteri ülkesine göre geçerli lisansları ve etkin lisansları görüntülemek için haritaya gelin. Kılavuzdaki her iki alan de sıralanabilir.
 
-:::image type="content" source="images/pci/pci-licenses-report-geo-spread-2.png" alt-text="Lisans raporu Özeti":::
+:::image type="content" source="images/pci/pci-licenses-report-geo-spread-2.png" alt-text="Lisans coğrafi yayma":::
 
 ## <a name="license-adds"></a>Lisans eklemeleri
 
@@ -75,13 +76,13 @@ Bu eğilimi ürün ve hizmet/iş yüküne göre sunmak için, ekranın en üstü
 
 X ekseni, seçilen tarih aralığının ayları temsil eder. Y ekseni eklenen lisansların sayısını temsil eder. Belirli bir dönemi yakınlaştırmak için grafiğin üstündeki kaydırıcıyı kullanın.
 
-:::image type="content" source="images/pci/pci-licenses-report-license-adds-3.png" alt-text="Lisans raporu Özeti":::
+:::image type="content" source="images/pci/pci-licenses-report-license-adds-3.png" alt-text="Lisans eklemeleri":::
 
 ## <a name="license-distribution"></a>Lisans dağıtımı
 
 Bu görünüm, ürün ve müşteri ülkesi/bölgesi ile müşteri lisanslarınızın dökümünü gösterir. Ürün pasta grafiği **tarafından lisansdaki** bir ürünü seçtiğinizde, bitişik grafik size müşteri bölgesine göre bir lisans dökümü gösterir.
 
-:::image type="content" source="images/pci/pci-licenses-report-license-distrib-4.png" alt-text="Lisans raporu Özeti":::
+:::image type="content" source="images/pci/pci-licenses-report-license-distrib-4.png" alt-text="lisans dağıtımı":::
 
 ## <a name="next-steps"></a>Sonraki adımlar
 

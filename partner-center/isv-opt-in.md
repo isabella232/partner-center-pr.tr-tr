@@ -4,28 +4,28 @@ ms.topic: article
 ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Bağımsız yazılım satıcısının (ISV) belirli teklifleri dışlamalı ve yalnızca belirli CSP iş ortakları için kullanılabilir hale getirme hakkında bilgi edinin.
+description: Bağımsız yazılım satıcılarının (ISV 'Ler) belirli teklifleri özel ve yalnızca belirli CSP iş ortakları için kullanılabilir hale getirme hakkında bilgi edinin.
 author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 87863efd5c4d15c560a488f3cf6ec817c5e34ddc
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 53a166ec3cd380c8f9afd39c9b274f7022202500
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92531611"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179471"
 ---
-# <a name="marketplace-exclusive-offers-from-independent-software-vendors"></a>Bağımsız yazılım satıcılarından Market özel teklifleri
+# <a name="marketplace-exclusive-offers-from-independent-software-vendors"></a>Bağımsız Yazılım Satıcılarından markete özel teklifler
 
 **Uygun roller**
 
 - Genel yönetici
-- Kullanıcı yöneticisi
+- Kullanıcı Yönetimi Yöneticisi
 - Yönetim Aracısı
 - Satış Aracısı
 
-Bağımsız bir yazılım satıcısı (ISV) yalnızca belirli CSP iş ortakları tarafından kullanılabilen özel teklifleri yapma seçeneğine sahiptir.
+Bağımsız bir yazılım satıcısı (ISV), yalnızca belirli CSP iş ortakları tarafından kullanılabilen özel teklifleri yapabilir.
 
 CSP iş ortakları, Iş ortağı merkezi ticari Market 'teki tüm ISV tekliflerini görüntüleyebilir. Ancak **özel** olarak işaretlenmiş teklifler, yalnızca ISV tarafından seçilen belirli iş ortakları tarafından satın alınabilir. Bir teklif **özel** olarak işaretlenmediğinde, tüm iş ortakları bunu satın alabilir.
 

@@ -1,28 +1,27 @@
 ---
-title: Lisans tabanlı faturalandırma
+title: Lisans tabanlı faturalama
 description: Lisans tabanlı faturalandırma 'nin, Iş Ortağı Merkezi 'nde, lisans başına faturalandırıldığınız (lisans kullanımına göre değil), kullanım tabanlı faturalandırma 'den farklı olduğunu öğrenin.
 ms.topic: article
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/18/2020
-ms.openlocfilehash: 1fd6d9e4a9115757382e79f884a14d23e4545419
-ms.sourcegitcommit: c40f826bb1143555bf3a1c2c806c34024f0f6019
+ms.openlocfilehash: 007a15091a018755c60c4e02c394ad31868d4233
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/02/2020
-ms.locfileid: "92531375"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179420"
 ---
 # <a name="license-based-billing-in-partner-center"></a>Iş Ortağı Merkezi 'nde lisans tabanlı faturalandırma
 
-**Uygulama hedefi**
+**Uygun roller**
 
-- İş Ortağı Merkezi
-- CSP programındaki iş ortakları
-
-**Uygun roller** -genel yönetici
-- Kullanıcı yöneticisi
+- Genel yönetici
+- Kullanıcı Yönetimi Yöneticisi
 - Faturalama yöneticisi
 - Yönetim Aracısı
 
@@ -30,13 +29,13 @@ Iş Ortağı Merkezi 'ne **Lisans** gerektiren ürünler veya çevrimiçi hizmet
 
 ## <a name="license-billing-frequency"></a>Lisans faturalandırma sıklığı
 
-Bir ay ( **aylık faturalandırma** ) veya yılda bir kez ( **yıllık faturalandırma** ) lisanslarda faturalandırmayı seçebilirsiniz. 
+Bir ay (**aylık faturalandırma**) veya yılda bir kez (**yıllık faturalandırma**) lisanslarda faturalandırmayı seçebilirsiniz. 
 
 ## <a name="billing-date-for-licenses"></a>Lisanslar için faturalama tarihi
 
 Lisans tabanlı abonelikler, aboneliğin **yıldönümü** tarihinde önceden faturalandırılır. Yıldönümü tarihi, aboneliğin satın alındığı ayın günüdür.
 
-Örneğin:
+Örnek:
 
 - 15 Ocak 'ta **aylık bir abonelik** satın aldıysanız, yıl dönümü tarihi her ayın 15 ' i olur.
 - 15 Ocak 'ta **yıllık bir abonelik** satın aldıysanız, yıldönümü tarihi her yıl 15 Ocak 'ta olur.
@@ -61,6 +60,6 @@ Tüm lisans tabanlı abonelikler, ücretli dönemde 12 ay sonra otomatik olarak 
 
 - [Iş Ortağı Merkezi faturalandırmaya genel bakış](billing-basics.md)
 
-- [Iş Ortağı Merkezi 'nde faturalandırma türleri](billing-different-types.md)
+- [İş Ortağı Merkezi'ndeki faturalama türleri](billing-different-types.md)
 
 - [Ana faturalandırma ve vergi makaleleri](billing.md)

@@ -8,16 +8,17 @@ description: Müşterileriniz için satmanız veya yönetmeniz gereken Dynamics 
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: d8755cadf7b572972c5abe1483ff6f0be98a1eb8
-ms.sourcegitcommit: ce1331c0e600e2f73b85a90ac159a9026ab6a691
+ms.openlocfilehash: 60c0eebccff963858b1af09318b5202016ea5291
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98147166"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086932"
 ---
 # <a name="dynamics-usage-report-available-from-the-partner-center-insights-dashboard"></a>Iş Ortağı Merkezi Öngörüler panosundan Dynamics kullanım raporu
 
 **Uygun roller**
+
 - Genel yönetici
 - Yönetim Aracısı
 - Rapor Görüntüleyicisi
@@ -38,15 +39,15 @@ Dynamics kullanım raporu, müşterileriniz için satmış olduğunuz veya yöne
 
 Özet bölümü, müşterileriniz için satmış olduğunuz veya yönettiğiniz Dynamics kullanım abonelikleriyle ilgili temel göstergelerin bir anlık görünümünü sunar.  
 
-- Kullanılabilir lisans sayısı: seçili zaman diliminde satılan lisansların toplam sayısı.
+- Kullanılabilir lisanslar: seçili zaman dilimi boyunca satılan toplam lisans sayısı.
 
    Mikro grafik, seçtiğiniz tarih aralığı için mevcut bilgisayar sayısının ayda bir ay eğilimi gösterir.
 
-- Atanan lisanslar: seçili zaman çerçevesi sırasında atanan toplam lisans sayısı.
+- Atanan lisanslar: seçili zaman dilimi sırasında atanan toplam lisans sayısı.
 
    Mikro grafik, seçtiğiniz tarih aralığınızdan atanan bilgisayar sayısı için aylık bir ay eğilimi gösterir.
 
-- Etkin koltuk: seçili zaman çerçevesi sırasında kullanıma sahip olan toplam lisans sayısı. 
+- Etkin lisans sayısı: seçili zaman çerçevesinde kullanıma sahip olan toplam lisans sayısı. 
 
    Mikro grafik, seçili zaman dilimi boyunca aylık etkin olan her bir bilgisayar için aylık bir eğilim sunar.
 

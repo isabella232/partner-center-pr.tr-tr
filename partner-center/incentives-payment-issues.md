@@ -8,24 +8,20 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 971b053119a263ed5c7f8e25fb532b4137e1cb13
-ms.sourcegitcommit: 2d1f0d7bc897278ef37af6d43c1a088f5ca14807
+ms.openlocfilehash: c6ff8915384f8c7ab98fa058f2e45e3d0b4f7214
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 02/08/2021
-ms.locfileid: "99834892"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179522"
 ---
 # <a name="troubleshooting-missing-payments-incorrect-earnings-and-other-issues"></a>Eksik ödemeler, yanlış kazanç ve diğer sorunlar hakkında sorun giderme
 
-**Uygulama hedefi**:
-
-- İş Ortağı Merkezi
-
-**Uygun roller**:
+**Uygun roller**
 
 - Teşvikleri Yöneticisi
 
-Bu makale, teşvikleri programınızdaki kazanç veya ödeme sorunlarını çözmenize yardımcı olur. Kapsanan konular, ödemelerin zamanlamasını, kazanç uygunluğunuzu kontrol etmeyi ve ödeme ve vergi profillerinizi doğru bir şekilde ayarlamanın önemini içerir.
+Bu makale, teşvikleri programınızdaki kazanç veya ödeme sorunlarını çözmenize yardımcı olur. Kapsanan konular, ödemelerin zamanlamasını, kazanç uygunluğunuzu kontrol etmeyi ve ödeme ve vergi profillerinizi doğru şekilde ayarlamanın önemini içerir.
 
 ## <a name="who-can-create-or-update-payout-and-tax-profiles-for-my-organization"></a>Kuruluşum için ödeyen ve vergi profilleri kimler oluşturabilir veya güncelleştirebilir?
 
@@ -122,7 +118,7 @@ Kazançlar hem **işlem geçmişi** sayfasında hem de **ödemeler** sayfasında
 
 :::image type="content" source="images/incentives/paymenticon.png" alt-text="İşlem bilgileri":::
 
-Işlem geçmişi görünümünde aylık kazanç miktarları, belirli bir ay için alınan ödeme tutarına göre hizalanmayabilir. Bunun nedeni, gelecekteki ödemeler için uygulanan önceki kazanç dönemlerinde yapılan yeniden hesaplamalar ve ayarlamalardır.
+Işlem geçmişi görünümünde aylık kazanç miktarları, belirli bir ay için alınan ödeme tutarına göre hizalanmayabilir. Bunun nedeni, gelecekteki ödemeler için uygulanan önceki ödeme dönemlerine yönelik yeniden hesaplamalar ve ayarlamalardır.
 
 Örneğin, 2019 Eylül 2019 ' de işlenen Ocak kazancı için bir ayarlama, 2019 Eylül ayının kazanç miktarına yansıtılmaz; Ancak, Eylül 2019 ' den Itibaren ödeme alındığında, Eylül ayında uygulanan 2019 Ocak için ayarlamayı dahil eder.
 
@@ -141,11 +137,11 @@ Bu görünüm tüm programlar ve MPN kimlikleri için ödemeleri görüntülemen
 | Ödeme bilgilerinizi satıra göre görüntüleme, yerel para birimi cinsinden kazanç ve ödeme miktarları dahil  | **Ödemeler listesi alanının listesini** görüntüleyin   |
 | Bir havale mektubu indirin   |  **Ödeme havalesi** seçin  |
 | Belirli bir ödemenin işlem düzeyi ayrıntılarını görüntüleme |  **Görünüm** Seç  |
-| İşlem ayrıntılarını Excel 'e aktar  |  **Indirmeyi Başlat**' ı seçin ve ardından **verileri dışarı aktar**' a tıklayın. Seçilen tüm filtrelerin, verilecek verilere uygulanacağını unutmayın. Durum tamamlandı olarak değiştirildikten sonra **İndir** ' i seçin ve ayrıntılı işlemler raporunu dışarı aktarmak için istemleri izleyin. Durum beş dakika içinde güncellenmemişse sayfayı yenileyin.  |
+| İşlem ayrıntılarını Excel 'e aktar  |  **Indirmeyi Başlat**' ı seçin ve ardından **verileri dışarı aktar**' ı seçin. Seçilen tüm filtreler, verilecek verilere uygulanır. Durum tamamlandı olarak değiştirildikten sonra **İndir** ' i seçin ve ayrıntılı işlemler raporunu dışarı aktarmak için istemleri izleyin. Durum beş dakika içinde güncellenmemişse sayfayı yenileyin.  |
 
 ### <a name="missing-or-incorrect-earnings-and-payments"></a>Eksik veya yanlış kazanç ve ödemeler
 
-Bir ödeme veya işlem ayrıntılarını bulamıyorsanız, doğru filtreleri uygulanıp uygulanmadığını kontrol edin. Bazı program adları değiştiği için (örneğin, CSP 1T doğrudan Iş ortağı artık CSP doğrudan fatura ortağı), birden çok seçim kullanmanız gerekebileceğini unutmayın.
+Bir ödeme veya işlem ayrıntılarını bulamıyorsanız, doğru filtreleri uygulanıp uygulanmadığını kontrol edin. Bazı program adları değiştiği için (örneğin, CSP 1T doğrudan Iş ortağı artık CSP doğrudan Bill partner), birden çok seçim kullanmanız gerekebilir.
 
 Gelirinizi hala bulamadıysanız veya gösterilen kazanç doğru değilse, [desteğe](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives)başvurun.
 

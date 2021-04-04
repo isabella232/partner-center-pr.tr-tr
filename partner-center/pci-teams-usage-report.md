@@ -8,16 +8,17 @@ description: Müşterilerinizin sattığı ve yönettiğiniz takımlar abonelikl
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: 345e721ebec5396a0681ec2f357b8778169c0887
-ms.sourcegitcommit: ce1331c0e600e2f73b85a90ac159a9026ab6a691
+ms.openlocfilehash: 2292e9640224a2bdf333cb8ddb0e2245f34564e9
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98147160"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106086728"
 ---
 # <a name="teams-usage-report-available-from-the-partner-center-insights-dashboard"></a>Iş Ortağı Merkezi Öngörüler panosundan takımlar kullanım raporu
 
 **Uygun roller**
+
 - Genel yönetici
 - Yönetim Aracısı
 - Rapor Görüntüleyicisi
@@ -51,19 +52,19 @@ Takımlar kullanım raporu, müşterileriniz için satmış olduğunuz ya da yö
 
 ## <a name="conversations-trend"></a>Konuşmalar eğilimi
 
-Konuşmalar eğilimi, bir takım toplantılarının, çağrıların ve telefon sistemlerinin aylık eğilimini ve ortalama Toplantı süresini dakika cinsinden gösterir.
+Konuşmalar eğilimi raporu, takım toplantılarının, çağrıların ve telefon sistemlerinin aylık eğilimini ve ortalama Toplantı süresini dakika cinsinden gösterir.
 
 :::image type="content" source="images/pci/pci-teams-usage-conversation-trends.png" alt-text="takımlar kullanım konuşması eğilimleri":::
 
 ## <a name="teams-usage-by-workloads"></a>İş yükleri tarafından takımlar kullanımı
 
-İş yükleri tarafından ekiplerin kullanımı, iş yüklerine göre bölünmüş şekilde masaüstü, mobil ve Web kullanıcılarının aylık olarak bölünmesini gösterir.
+İş yükleri tarafından ekiplerin kullanımı raporu, iş yükleri tarafından bölünen ekiplerin, mobil ve Web kullanıcılarının aylık olarak bölünmesini gösterir.
 
 :::image type="content" source="images/pci/pci-teams-usage-workload.png" alt-text="İş yükleri tarafından takımlar kullanımı":::
 
 ## <a name="top-customers-by-usage"></a>Kullanıma göre popüler müşteriler
 
-Kullanıma göre en popüler müşteriler, takım toplantıları, çağrılar ve telefon sistemleri ve üçüncü taraf uygulamalar açısından en popüler müşterilerin kullanımını
+Kullanıma göre en popüler müşteriler raporu, takımlar toplantıları, çağrıları ve telefon sistemleri ve üçüncü taraf uygulamalar için en popüler müşterilerin kullanımını gösterir.
 
 :::image type="content" source="images/pci/pci-teams-usage-top-customer.png" alt-text="Kullanıma göre popüler müşteriler":::
 

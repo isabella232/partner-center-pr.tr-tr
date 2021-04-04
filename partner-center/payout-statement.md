@@ -1,22 +1,22 @@
 ---
 title: Ödeme deyimleri
 description: Ödeme deyimleri ve özetler hakkında bilgi edinin ve Microsoft Iş Ortağı Merkezi 'nden ödeme verilerinizi nasıl görüntüleyip dışarı aktarabilirsiniz?
-ms.subservice: partnercenter-marketplace-publisher
-ms.service: marketplace
+ms.subservice: partnercenter-mpn
+ms.service: partner-dashboard
 ms.topic: article
 author: eunjkim520
 ms.author: eunjkim
 ms.date: 3/22/2021
-ms.openlocfilehash: afe9793e3a1ef9c0e3e8ecba6d1c3419b7e16604
-ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
+ms.openlocfilehash: fd0aaeb84651a84aba4748795309512295f9485a
+ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/25/2021
-ms.locfileid: "105549252"
+ms.lasthandoff: 03/31/2021
+ms.locfileid: "106087102"
 ---
 # <a name="payout-statements"></a>Ödeme deyimleri
 
-**Uygun roller:**
+**Uygun roller**
 
 - Hesap yöneticisi
 - Genel yönetici
@@ -69,11 +69,11 @@ Son 3, 6, 12 veya 36 ayı göstermek için sayfanın çıktısını filtrelemek 
 
 :::image type="content" source="images/payouts/search-filter.png" alt-text="Sayfanın sağ üst kısmındaki arama filtresi.":::
 
-Bir atma hakkında daha fazla ayrıntı görmek için sayfanın sağ tarafındaki aşağı oku seçin. Bunun yapılması manı, gelir tutarını, ürünü ve müşteriyi görüntüler. Herhangi bir nedenden dolayı bu verilerden herhangi biri kullanılamaz, ancak ona erişmeniz gerekiyorsa, desteğe başvurun. Kazanç, bir işlem değil, bir ayarlamanın sonucudur ve bu, ürün ve müşteri alanları gösterilmez.
+Bir atma hakkında daha fazla ayrıntı görmek için sayfanın sağ tarafındaki aşağı oku seçin. Bunun yapılması manı, gelir tutarını, ürünü ve müşteriyi görüntüler. Herhangi bir nedenden dolayı bu verilerden herhangi biri kullanılamaz, ancak ona erişmeniz gerekiyorsa, desteğe başvurun. Kazanım, bir işlem değil, bir ayarlamanın sonucu ise, ürün ve müşteri alanları gösterilmez.
 
 ### <a name="transaction-history-summary"></a>İşlem geçmişi Özeti
 
-Bu, ürünün sunduğu ve tahmin edilen tarihleri, durumu ve tahmini ödeme ayını kazanmanın kaynağı dahil olmak üzere, ayrıntıları gösterir.
+Bu görünüm, ürün ve tahmini ödeme ayından oluşan ürünün kazanç kaynağı dahil olmak üzere kazanç ayrıntılarını gösterir.
 
 :::image type="content" source="images/payouts/transaction-history.png" alt-text="İşlem geçmişi.":::
 

@@ -8,20 +8,16 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 09/11/2020
-ms.openlocfilehash: ab2c26cf097d6212375382cadd9ac5f4f80b5c2a
-ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
+ms.openlocfilehash: 30639725c0a852046251e83c3791f56d788931c1
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "92531450"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179232"
 ---
 # <a name="issues-with-claimed-partner-of-record-cpor-customer-associations"></a>Talep edilen kayıt Iş ortağı (CPOR) müşteri ilişkilendirmeleri ile ilgili sorunlar
 
-**Aşağıdakiler cihazlar için geçerlidir:**
-
-- İş Ortağı Merkezi
-
-**Uygun roller:**
+**Uygun roller**
 
 - Faturalama yöneticisi
 - Genel yönetici
@@ -95,4 +91,4 @@ Zaten başka bir iş ortağıyla ilişkili olan bir müşteri ve ürünleri içi
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-- [Teşvikleri kullanmaya başlama](incentives-get-started-intro.md)
+- [Teşviklerle çalışmaya başlama](incentives-get-started-intro.md)

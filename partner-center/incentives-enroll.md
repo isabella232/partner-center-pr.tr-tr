@@ -8,22 +8,18 @@ ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: eeb6fabcc1b84e72c8e418e97a8582916225552b
-ms.sourcegitcommit: bfc9e6f6476766cf10ba714f03ca2e96560003b1
+ms.openlocfilehash: 22233b8dd41776b34bb4ec1d202f6e84a6ded3fc
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 11/14/2020
-ms.locfileid: "94626023"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179148"
 ---
 # <a name="enrollment-and-user-management-in-the-incentives-program"></a>Teşvikleri programında kayıt ve Kullanıcı Yönetimi
 
-**Uygulama hedefi:**
+**Uygun roller**
 
-- İş Ortağı Merkezi
-
-**Uygun roller:**
-
-- Teşvik Yöneticisi
+- Teşvikleri Yöneticisi
 
 >[!NOTE]
 >Teşvikleri programına kaydolabilmeniz için önce iş ortağı üyeliği merkezini Iş Ortağı Merkezi [geçişine](prepare-pmc-pc-migration.md)tamamlamış olmanız gerekir.
@@ -45,9 +41,9 @@ Kuruluşunuz teşvikleri için uygun olduktan sonra, Microsoft hesap yöneticisi
 
 ## <a name="enrollment-process"></a>Kayıt Işlemi
 
-Kuruluşunuz teşvikleri için uygun olduğunda, Microsoft, kayıt işlemini başlatmak için uygun Mpnlocationıd 'ye yönelik bir davet gönderir. Bu e-posta **Microsoft Iş Ortağı Merkezi** ' nden gönderilir ve Ilgili **Iş ortağına kayıt davetini teşvik** eder. Daveti açın ve **kullanmaya** başlayın ' ı seçin.
+Kuruluşunuz teşvikleri için uygun olduğunda, Microsoft, kayıt işlemini başlatmak için uygun Mpnlocationıd 'ye yönelik bir davet gönderir. Bu e-posta **Microsoft Iş Ortağı Merkezi**' nden gönderilir ve Ilgili **Iş ortağına kayıt davetini teşvik** eder. Daveti açın ve **kullanmaya** başlayın ' ı seçin.
 
-Ayrıca Iş Ortağı Merkezi giriş sayfasında bir davet görürsünüz. Bu iletiyi seçtiğinizde, bir daha göremezsiniz. Ancak, bir yönetici, [Iş Ortağı Merkezi panosunda](https://partner.microsoft.com/dashboard/) oturum açarak ve sol gezinti çubuğunda **teşvikleri** ' nin altında **genel bakış** ' ı seçerek işlemi yine de tamamlamaya devam edebilir. **Kaydet** ' i seçin ve ardından programın ödeme ve vergi profilini doldurun.
+Ayrıca Iş Ortağı Merkezi giriş sayfasında bir davet görürsünüz. Bu iletiyi seçtiğinizde, bir daha göremezsiniz. Ancak, bir yönetici, [Iş Ortağı Merkezi panosunda](https://partner.microsoft.com/dashboard/) oturum açarak ve sol gezinti çubuğunda **teşvikleri** ' nin altında **genel bakış** ' ı seçerek işlemi yine de tamamlamaya devam edebilir. **Kaydet**' i seçin ve ardından programın ödeme ve vergi profilini doldurun.
 
 Kayıt yalnızca, kayıt için sağladığınız ödeme ve vergi profilinin Microsoft tarafından doğrulanması durumunda tamamlanmış olarak kabul edilir.
 

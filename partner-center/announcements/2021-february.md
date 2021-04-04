@@ -10,13 +10,13 @@ ms.custom:
 - announcement
 - references_regions
 ms.localizationpriority: high
-ms.date: 02/25/2021
-ms.openlocfilehash: c4ea0af46aa2dee02e2270e1f2d58eeff0f59ff4
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.date: 04/02/2021
+ms.openlocfilehash: 79d492fa907f9d2b9318ba9fa9850401b61a2b7d
+ms.sourcegitcommit: 60bbb8f4056120264b769f94431f84d86984c2e9
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712486"
+ms.lasthandoff: 04/03/2021
+ms.locfileid: "106280913"
 ---
 # <a name="february-2021-announcements"></a>Şubat 2021 duyuruları
 
@@ -150,23 +150,25 @@ ________________
 
 ### <a name="categories"></a>Kategoriler
 
-- Tarih: 2021-02-25
+- Tarih: 2021-04-02
 - Gelişmiş güvenlik ve uyumluluk
-
-### <a name="impacted-audience"></a>Etkilenen hedef kitle
-
-CSP doğrudan fatura ortakları ve sonraki bölümde listelenen ülkelerde yeni veya mevcut müşterileri olan dolaylı sağlayıcılar.
 
 ### <a name="summary"></a>Özet
 
-İş ortakları ve müşterilerin işletmeden iş çalıştırmasına yardımcı olma çabamız kapsamında, 25 Mart 2021 ' den itibaren geçerli olan ek müşteri bilgileri isteyeceğiz.
+İş ortakları ve müşterilerin işlerini güvenle çalıştırmasına yardımcı olma çabamız kapsamında, 25 Mart 2021 ' den itibaren geçerli olan ek müşteri bilgileri isteyeceğiz.
+
+### <a name="impacted-audience"></a>Etkilenen hedef kitle
+
+CSP doğrudan fatura ortakları ve sonraki bölümde listelenen ülkelerde yeni veya mevcut müşteriler bulunan dolaylı sağlayıcılar
 
 ### <a name="details"></a>Ayrıntılar
 
 Microsoft, güvende çalışır. CSP programında deneyimidir müşteri abonelikleri için uyumlu, güvenli ve güvenli bir müşteri doğrulama yöntemi sağlamayı taahhüt ediyoruz. 25 Mart 2021 ' de, aşağıdaki ölçütlerin her ikisini de karşılayan iş ortaklarını etkileyecek Iş Ortağı Merkezi API 'SI ve Kullanıcı arabirimi (UI) geliştirmeleri sunacağız:
 
 1. İş ortağı Microsoft ile doğrudan faturalandırma ilişkisine sahiptir (Bu, ortağın doğrudan bir fatura ortağı veya dolaylı bir sağlayıcı olduğu anlamına gelir).
+
 2. İş ortağı aşağıdaki ülkelerde yeni veya mevcut müşteriler ile iş yapar:
+
     - Tayland
     - Vietnam
     - Türkiye
@@ -181,7 +183,9 @@ Microsoft, güvende çalışır. CSP programında deneyimidir müşteri abonelik
     - Birleşik Arap Emirlikleri
     - Venezuela
 
-Ölçütlere uyan iş ortaklarının, yeni müşterileri eklerken veya mevcut müşteri ayrıntılarını değiştirirken müşterinin **yasal tanımlayıcısını** (müşterinin **kuruluş** adı olarak da bilinir) ve **telefon numarasını** göndermesi gerekir. Ayrıca bu iş ortakları müşteri için isteğe bağlı bir **ikinci ad** da girebilir.
+Ölçütlere uyan iş ortaklarının bir müşterinin Şirket kayıt KIMLIĞINI (müşterinin kuruluş adı olarak da bilinir) ve telefon numarasını bir sonraki güncelleştirdiklerinde ve bu müşteri için bir abonelik oluştururken göndermesi gerekecektir. Ayrıca bu iş ortakları müşteri için isteğe bağlı bir ikinci ad da girebilir.
+
+Şirket kayıt KIMLIĞINIZI eklediğinizde müşterinin kişisel KIMLIĞINI değil iş vergi KIMLIĞINIZI kullanmanız gerektiğini unutmayın.
 
 Aşağıdaki ülkelerde yeni veya mevcut müşteriler ile iş yapan iş ortakları, Kasım 2020 ' de daha önceki bir sürüm ile zaten eklendi.
 
@@ -197,20 +201,35 @@ Aşağıdaki ülkelerde yeni veya mevcut müşteriler ile iş yapan iş ortaklar
 - Ukrayna
 - Özbekistan
 
-Dünyanın geri kalanında müşterilere sahip olan iş ortakları 25 Mart 2021 ' de, müşteriler için isteğe bağlı ayrıntılar olarak **yasal tanımlayıcı**, **telefon numarası** ve **Orta adı** girmeye olanak sağlayacak.
+Dünyanın geri kalanında müşterilere sahip iş ortakları, 2021 Mart 'ın sonunda, müşteriler için isteğe bağlı ayrıntılar olarak şirket kayıt KIMLIĞI, telefon numarası ve orta adı girme yeteneğine sahip olacaktır.
 
 ### <a name="next-steps"></a>Sonraki adımlar
 
-- Daha ayrıntılı rehberlik için, adanmış [iş ortağı koleksiyonundaki](https://partner.microsoft.com/resources/collection/additionalfields-csp-customers-selected-geos#/) (oturum açma gerekir) Teknik belgeleri ve sık sorulan soruları gözden geçirin.
+- Daha ayrıntılı rehberlik için, adanmış [iş ortağı koleksiyonundaki](https://partner.microsoft.com/resources/collection/additionalfields-csp-customers-selected-geos#/) teknik belgeleri ve sık sorulan soruları gözden geçirin.
 - Iş Ortağı Merkezi API 'sini ve Web kullanıcısı deneyimini kullanarak değişiklikleri dahil etmek için hazırlanın. API/SDK 'lar test için kullanılabilir olacak.
 - Yeni müşterileri eklerken veya mevcut müşteri ayrıntılarını değiştirirken ek verileri gönderdiğinizden emin olun.
 - Bir denetim masası satıcısı (CPV) çözümü kullanıyorsanız, CPV 'nize başvurun.
 
 ### <a name="questions"></a>Sorularınız mı var?
 
-Yasal tanımlayıcıyla (ıNN veya tın olarak da bilinir) ilgili sorularınız varsa vergi danışmanınıza veya yerel vergi ofisine başvurun. Microsoft, vergi konusunda önemli yönergeler sağlayamaz.
+Şirket kayıt KIMLIĞI (ıNN veya tın olarak da bilinir) ile ilgili sorularınız varsa vergi danışmanınıza veya yerel vergi ofisine başvurun. Microsoft, vergi konusunda önemli yönergeler sağlayamaz.
 
-Microsoft ile işlemlerinizi kullanmanız gerekiyorsa, [bir hizmet isteği açın](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=aa679372-d996-73df-e244-cb28bbbf28e8) (oturum açma gerekir).
+Microsoft ile işlemlerinizi desteklemek için bir [hizmet isteği](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=aa679372-d996-73df-e244-cb28bbbf28e8)açın.
+
+### <a name="change-log"></a>Değişiklik günlüğü:
+
+17 Aralık 2020: özgün yayın
+
+28 Ocak 2021: republication hiçbir değişiklik yok
+
+25 Şubat 2021: belirli bir başlatma tarihi duyuruldu
+
+2 Nisan 2021: güncelleştirmeler şunları içerir:
+
+- Belirtilen başlatma tarihi
+- INN kuruluşu için başlık şirket kayıt KIMLIĞI olarak güncelleştirildi 
+- Şirket kayıt KIMLIĞI için açıklama sağlamak üzere eklendi
+
 
 ________________
 ## <a name="now-live-docusign-migration-to-adobe-sign-for-partners-under-microsoft-partner-agreements-mpas"></a><a name="9"></a> Artık canlı: Microsoft Iş ortağı sözleşmeleri (MPAs) altındaki iş ortakları için, Microsoft 'a yönelik DocuSign geçişi
@@ -377,7 +396,7 @@ Bu Microsoft 365 E3 fiyat güncelleştirmeleri yalnızca şu para birimleriyle s
 
 ### <a name="next-steps"></a>Sonraki adımlar
 
-İş ortakları en son Mart fiyatlarını almak için Iş Ortağı Merkezi 'nden en son fiyat listesi dosyalarını indirmelidir. 
+İş ortakları en son Mart fiyatlarını almak için Iş Ortağı Merkezi 'nden en son fiyat listesi dosyalarını indirmelidir.
 
 _______________
 

@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 03/08/2021
-ms.openlocfilehash: a74c08fcd64b1de99226353cca1f16d5c79b6bcd
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.date: 04/01/2021
+ms.openlocfilehash: 7e6082c645a4c5bcc3e0f766ffe7d82e73d46c15
+ms.sourcegitcommit: 60bbb8f4056120264b769f94431f84d86984c2e9
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712554"
+ms.lasthandoff: 04/03/2021
+ms.locfileid: "106280930"
 ---
 # <a name="december-2020-announcements"></a>Aralık 2020 duyuruları
 
@@ -189,15 +189,14 @@ Tam duyuru yalnızca Microsoft iş ortakları tarafından kullanılabilir. [Tam 
 ______________
 
 ## <a name="changes-to-the-cloud-solution-provider-csp-customer-onboarding-requirements"></a><a name="8"></a>Bulut çözümü sağlayıcısı (CSP) müşteri ekleme gereksinimleriyle yapılan değişiklikler
-
 ### <a name="categories"></a>Kategoriler
 
-- Tarih: 2020-12-17
+- Tarih: 2021-04-02
 - Teklifler/Pazarlar
- 
+
 ### <a name="summary"></a>Özet
 
-İş ortakları ve müşterilerin işlerini güvenle çalıştırmasına yardımcı olma çabamız kapsamında, Mart 2021 ' nin sonunda geçerli olan ek müşteri bilgileri isteyeceğiz.
+İş ortakları ve müşterilerin işlerini güvenle çalıştırmasına yardımcı olma çabamız kapsamında, 25 Mart 2021 ' den itibaren geçerli olan ek müşteri bilgileri isteyeceğiz.
 
 ### <a name="impacted-audience"></a>Etkilenen hedef kitle
 
@@ -205,11 +204,12 @@ CSP doğrudan fatura ortakları ve sonraki bölümde listelenen ülkelerde yeni 
 
 ### <a name="details"></a>Ayrıntılar
 
-Microsoft, güvende çalışır. CSP programında deneyimidir müşteri abonelikleri için uyumlu, güvenli ve güvenli bir müşteri doğrulama yöntemi sağlamayı taahhüt ediyoruz. Mart 2021 ' ün sonunda, aşağıdaki ölçütlerin her ikisini de karşılayan iş ortaklarını etkileyecek Iş Ortağı Merkezi API 'SI ve Kullanıcı arabirimi (UI) geliştirmeleri sunuyoruz:
+Microsoft, güvende çalışır. CSP programında deneyimidir müşteri abonelikleri için uyumlu, güvenli ve güvenli bir müşteri doğrulama yöntemi sağlamayı taahhüt ediyoruz. 25 Mart 2021 ' de, aşağıdaki ölçütlerin her ikisini de karşılayan iş ortaklarını etkileyecek Iş Ortağı Merkezi API 'SI ve Kullanıcı arabirimi (UI) geliştirmeleri sunacağız:
 
 1. İş ortağı Microsoft ile doğrudan faturalandırma ilişkisine sahiptir (Bu, ortağın doğrudan bir fatura ortağı veya dolaylı bir sağlayıcı olduğu anlamına gelir).
 
 2. İş ortağı aşağıdaki ülkelerde yeni veya mevcut müşteriler ile iş yapar:
+
     - Tayland
     - Vietnam
     - Türkiye
@@ -224,7 +224,9 @@ Microsoft, güvende çalışır. CSP programında deneyimidir müşteri abonelik
     - Birleşik Arap Emirlikleri
     - Venezuela
 
-Ölçütlere uyan iş ortakları, bir müşterinin bir sonraki güncelleştirdiklerinde veya bir abonelik oluştururken bir müşterinin **yasal tanımlayıcısını** (müşterinin **kuruluş** adı olarak da bilinir) ve **telefon numarasını** göndermesi gerekecektir. Ayrıca bu iş ortakları müşteri için isteğe bağlı bir **ikinci ad** da girebilir.
+Ölçütlere uyan iş ortaklarının bir müşterinin Şirket kayıt KIMLIĞINI (müşterinin kuruluş adı olarak da bilinir) ve telefon numarasını bir sonraki güncelleştirdiklerinde ve bu müşteri için bir abonelik oluştururken göndermesi gerekecektir. Ayrıca bu iş ortakları müşteri için isteğe bağlı bir ikinci ad da girebilir.
+
+Şirket kayıt KIMLIĞINIZI eklediğinizde müşterinin kişisel KIMLIĞINI değil iş vergi KIMLIĞINIZI kullanmanız gerektiğini unutmayın.
 
 Aşağıdaki ülkelerde yeni veya mevcut müşteriler ile iş yapan iş ortakları, Kasım 2020 ' de daha önceki bir sürüm ile zaten eklendi.
 
@@ -240,7 +242,7 @@ Aşağıdaki ülkelerde yeni veya mevcut müşteriler ile iş yapan iş ortaklar
 - Ukrayna
 - Özbekistan
 
-Dünyanın geri kalanında müşterilere sahip iş ortakları, 2021 Mart 'ın sonunda, müşteriler için isteğe bağlı ayrıntılar olarak **yasal tanımlayıcı**, **telefon numarası** ve **Orta adı** girme yeteneğine sahip olacaktır.
+Dünyanın geri kalanında müşterilere sahip iş ortakları, 2021 Mart 'ın sonunda, müşteriler için isteğe bağlı ayrıntılar olarak şirket kayıt KIMLIĞI, telefon numarası ve orta adı girme yeteneğine sahip olacaktır.
 
 ### <a name="next-steps"></a>Sonraki adımlar
 
@@ -251,9 +253,19 @@ Dünyanın geri kalanında müşterilere sahip iş ortakları, 2021 Mart 'ın so
 
 ### <a name="questions"></a>Sorularınız mı var?
 
-Yasal tanımlayıcıyla (ıNN veya tın olarak da bilinir) ilgili sorularınız varsa vergi danışmanınıza veya yerel vergi ofisine başvurun. Microsoft, vergi konusunda önemli yönergeler sağlayamaz. 
+Şirket kayıt KIMLIĞI (ıNN veya tın olarak da bilinir) ile ilgili sorularınız varsa vergi danışmanınıza veya yerel vergi ofisine başvurun. Microsoft, vergi konusunda önemli yönergeler sağlayamaz.
 
-Microsoft ile işlemlerinizi desteklemek için [bir hizmet isteği açın](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=aa679372-d996-73df-e244-cb28bbbf28e8).
+Microsoft ile işlemlerinizi desteklemek için bir [hizmet isteği](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=aa679372-d996-73df-e244-cb28bbbf28e8)açın.
+
+### <a name="change-log"></a>Değişiklik günlüğü:
+
+17 Aralık 2020: özgün yayın
+
+2 Nisan güncelleştirmeleri:
+
+- Belirtilen başlatma tarihi
+- INN kuruluşu için başlık şirket kayıt KIMLIĞI olarak güncelleştirildi
+- Şirket kayıt KIMLIĞI için açıklama sağlamak üzere eklendi
 
 ______________
 

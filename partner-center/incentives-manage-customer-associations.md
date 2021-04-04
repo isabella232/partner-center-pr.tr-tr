@@ -8,20 +8,16 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 09/11/2020
-ms.openlocfilehash: 37b64d686549562a26aa818a576bad6c85f86670
-ms.sourcegitcommit: b91119c587d37b4ed36dda00c2b0b1946beb3012
+ms.openlocfilehash: 91ff0d9b0696e1ef77cf21ce288afbc51c3fe528
+ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/17/2020
-ms.locfileid: "92531439"
+ms.lasthandoff: 04/02/2021
+ms.locfileid: "106179488"
 ---
 # <a name="manage-incentives-customer-associations"></a>Teşvikleri müşteri ilişkilendirmelerini Yönet
 
-**Aşağıdakiler cihazlar için geçerlidir:**
-
-- İş Ortağı Merkezi
-
-**Uygun roller:**
+**Uygun roller**
 
 - Faturalama yöneticisi
 - Genel yönetici
@@ -79,15 +75,15 @@ CPOR ilişkilendirme talep reddedilirse reddetmede 30 gününüz olur. Reddi bil
 
 1. [İş Ortağı Merkezi panosunda](https://partner.microsoft.com/dashboard/) oturum açın.
 2. İtiraz etmek istediğiniz talebi açın.
-3. Talep sayfasında, **itiraz** ' ı seçin.
+3. Talep sayfasında, **itiraz**' ı seçin.
 4. Reddetme nedeninizi açıklayan bir iş gerekçe ve/veya güncelleştirilmiş bir PoE girin.
-5. Bilgileri eklemeyi bitirdiğinizde **İtiraz Et** ’i seçin. Gözden geçiricilerin, beş iş günü içindeki sonuçlarla sizinle iletişim kurabilmesi gerekir.
+5. Bilgileri eklemeyi bitirdiğinizde **İtiraz Et**’i seçin. Gözden geçiricilerin, beş iş günü içindeki sonuçlarla sizinle iletişim kurabilmesi gerekir.
 
 ## <a name="reasons-a-cpor-association-claim-is-rejected"></a>Bir CPOR ilişkilendirme talebinin reddedilme nedenleri
 
 Bir CPOR ilişki talebinin reddedilmesi için başlıca üç neden vardır.
 
-**Iş ortağı isteği:** İş ortakları, ilişkilendirmesini reddetmesini isteyebilir. Bu, genellikle iş ortağı yanlış bir MPN kullanarak bir CPOR ilişki talebi oluştururken yanlış bir etkinlik (örnek.... Ön satış yerine gelir Ilişkilendirmesini seçtiniz veya müşteriyle daha uzun bir süre çalışmıyor.
+**Iş ortağı isteği:** İş ortakları, ilişkilendirmesini reddetmesini isteyebilir. Bu, genellikle iş ortağı yanlış bir MPN kullanarak bir CPOR ilişki talebi oluştururken, yanlış bir etkinlik (örneğin, ön satış yerine gelir Ilişkilendirmesini seçtiyseniz) veya müşteriyle daha fazla çalışmadıysa kullanılır.
 
 **Müşteri reddi:** CPOR ilişkilendirme talebi, PoE onay işleminden başarıyla geçtikten sonra, müşteri ilişkinin onayını reddetme fırsatı sağlandığı sırada durumu Onaylandı olarak değişir. Müşteri onayı geri çevirirse ilişkilendirme reddedilir.
 
@@ -125,4 +121,4 @@ CPOR ilişkilendirme talebinde, sağ üst köşede, bir iş ortağı ve gözden 
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-- [Teşvikleri kullanmaya başlama](incentives-get-started-intro.md)
+- [Teşviklerle çalışmaya başlama](incentives-get-started-intro.md)
