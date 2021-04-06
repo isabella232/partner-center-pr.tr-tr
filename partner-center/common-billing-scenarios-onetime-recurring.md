@@ -2,17 +2,19 @@
 title: Tek seferlik & yinelenen satın alma işlemleri için faturalandırma
 ms.topic: article
 ms.date: 05/05/2020
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 description: İş ortağı merkezi faturalama örnekleri bir kerelik bir süre ve yinelenen satın alımları seçin-abonelikler satın aldığınızda, daha fazla abonelik ekleyin, lisans ekleyin veya kaldırın.
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a301aa85310142b3327baabbf3c8545b31f489bd
-ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
+ms.openlocfilehash: 329675e10205755819a19710976073d22f73eb58
+ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "97354398"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106502540"
 ---
 # <a name="partner-center-billing-scenarios-for-one-time-and-select-recurring-purchases"></a>Bir kerelik iş ortağı merkezi faturalama senaryoları ve yinelenen satın alımları seçin
 
@@ -32,8 +34,8 @@ Senaryo 1 ' de, $4 Haziran tarihinde bir abonelik satın alabilirsiniz. Daha son
 Keşfi dosyası şunları içerir:
 
 - servis dönemi için $4 fatura, 10 Haziran – 9 Temmuz.
-- hizmet dönemi için $-4,00 eşit olarak dağıtılmış yeniden faturalandırılır – 11 Haziran. Bu, 1 lisansa sahip olduğunuz bir dönemdir. Hesaplama = (aylık fiyat/hizmet dönemindeki toplam gün) x gün, eşit olarak dağıtılmış hizmet döneminde x gün sayısı = (4/30) x 30 x 1 = 4,00.
-- servis dönemi 10 Haziran 9 Temmuz $8,00 için eşit olarak dağıtılmış yeniden faturalandırılır. Bu, 2 lisansa sahip olduğunuz bir dönemdir. Hesaplama = (4/30) x 30 x 2 = 8,00.
+- hizmet dönemi için $-4,00 eşit olarak dağıtılmış yeniden faturalandırılır – 11 Haziran. Bu, lisanslandıklarınızı belirttikleriniz. Hesaplama = (aylık fiyat/hizmet dönemindeki toplam gün) x gün, eşit olarak dağıtılmış hizmet döneminde x gün sayısı = (4/30) x 30 x 1 = 4,00.
+- servis dönemi 10 Haziran 9 Temmuz $8,00 için eşit olarak dağıtılmış yeniden faturalandırılır. Bu, iki lisansa sahip olduğunuz bir dönemdir. Hesaplama = (4/30) x 30 x 2 = 8,00.
 
 |**Satın alma tarihi**   |**Ücret başlangıcı** |**Ücret bitişi**  |**Birim Fiyat**  |**Miktar**  |**Miktar** |**Ücret türü** |
 |:------:|:------:|:------:|:------:|:------:|:------:|:-----:|
@@ -48,8 +50,8 @@ Senaryo 2 ' de, 1 Haziran tarihinde $4 11 Haziran tarihinde bir abonelik satın 
 Keşfi dosyası şunları içerir:
 
 - servis dönemi için $4 fatura, 10 Haziran – 9 Temmuz.
-- hizmet dönemi için $-3,87 eşit olarak dağıtılmış yeniden faturalandırılır – 12 Haziran. Bu, 1 lisansa sahip olduğunuz bir dönemdir. Hesaplama = (aylık fiyat/hizmet dönemindeki toplam gün) x gün, eşit olarak dağıtılmış hizmet dönemi x/Lisans sayısı = (4/30) x 29 x 1 = 3,87.
-- 12 Haziran 9 ' a kadar servis dönemi için $7,74 eşit olarak dağıtılmış yeniden faturalandırılır. Bu, 2 lisansa sahip olduğunuz bir dönemdir. Hesaplama = (4/30) x 29 x 2 = 7,74.
+- hizmet dönemi için $-3,87 eşit olarak dağıtılmış yeniden faturalandırılır – 12 Haziran. Bu, bir lisansa sahip olduğunuz bir dönemdir. Hesaplama = (aylık fiyat/hizmet dönemindeki toplam gün) x gün, eşit olarak dağıtılmış hizmet dönemi x/Lisans sayısı = (4/30) x 29 x 1 = 3,87.
+- 12 Haziran 9 ' a kadar servis dönemi için $7,74 eşit olarak dağıtılmış yeniden faturalandırılır. Bu, iki lisansa sahip olduğunuz bir dönemdir. Hesaplama = (4/30) x 29 x 2 = 7,74.
 
 |**Satın alma tarihi**   |**Ücret başlangıcı** |**Ücret bitişi**  |**Birim Fiyat**  |**Miktar**  |**Miktar** |**Ücret türü** |
 |:------:|:------:|:------:|:------:|:------:|:------:|:-----:|
@@ -64,8 +66,8 @@ Senaryo 3 ' te, aynı ürün için $4 Haziran tarihinde bir birim fiyatı üzeri
 Keşfi dosyası şunları içerir:
 
 - hizmet dönemi için $8 Haziran – 9 Temmuz olmak üzere iki lisans için fatura.
-- hizmet dönemi için $-8,00 eşit olarak dağıtılmış yeniden faturalandırılır – 11 Haziran. Bu, 2 lisansa sahip olduğunuz bir dönemdir. Hesaplama = (aylık fiyat/hizmet dönemindeki toplam gün) x gün, eşit olarak dağıtılmış hizmet dönemi x/Lisans sayısı = (4/30) x 30 x 2 = 8,00.
-- hizmet dönemi için $4,00 ile eşit olarak dağıtılmış yeniden faturalandırılır – 9 Temmuz. Bu, 1 lisansa sahip olduğunuz bir dönemdir. Hesaplama = (4/30) x 30 x 1 = 4,00.
+- hizmet dönemi için $-8,00 eşit olarak dağıtılmış yeniden faturalandırılır – 11 Haziran. Bu, iki lisansa sahip olduğunuz bir dönemdir. Hesaplama = (aylık fiyat/hizmet dönemindeki toplam gün) x gün, eşit olarak dağıtılmış hizmet dönemi x/Lisans sayısı = (4/30) x 30 x 2 = 8,00.
+- hizmet dönemi için $4,00 ile eşit olarak dağıtılmış yeniden faturalandırılır – 9 Temmuz. Bu, bir lisansa sahip olduğunuz bir dönemdir. Hesaplama = (4/30) x 30 x 1 = 4,00.
 
 |**Satın alma tarihi**   |**Ücret başlangıcı** |**Ücret bitişi**  |**Birim Fiyat**  |**Miktar**  |**Miktar** |**Ücret türü** |
 |:------:|:------:|:------:|:------:|:------:|:------:|:-----:|
@@ -75,19 +77,19 @@ Keşfi dosyası şunları içerir:
 
 ## <a name="purchase-a-subscription-and-remove-licenses-later"></a>Abonelik satın alın ve lisansları daha sonra kaldırın
 
-Senaryo 4 ' te, $4 Haziran tarihinde 11 Haziran tarihinde 2 abonelik satın alırsınız ve 12 Haziran tarihinde lisanslardan birini kaldırırsınız.
+Senaryo 4 ' te, $4 Haziran tarihinde 11 Haziran tarihinde iki abonelik satın alırsınız ve 12 Haziran tarihinde lisanslardan birini kaldırırsınız.
 
 Keşfi dosyası şunları içerir:
 
 - servis dönemi için $8 fatura, 10 Haziran – 9 Temmuz.
-- hizmet dönemi için $-7,74 eşit olarak dağıtılmış yeniden faturalandırılır – 12 Haziran. Bu, 2 lisansa sahip olduğunuz bir dönemdir. Hesaplama = (aylık fiyat/hizmet dönemindeki toplam gün) x gün, eşit olarak dağıtılmış hizmet dönemi x/Lisans sayısı = (4/30) x 29 x 2 = 7,74.
-- 12 Haziran 9 ' a kadar servis dönemi için $3,87 eşit olarak dağıtılmış yeniden faturalandırılır. Bu, 1 lisansa sahip olduğunuz bir dönemdir. Hesaplama = (4/30) x 29 x 1 = 3,87.
+- hizmet dönemi için $-7,74 eşit olarak dağıtılmış yeniden faturalandırılır – 12 Haziran. Bu, iki lisansa sahip olduğunuz bir dönemdir. Hesaplama = (aylık fiyat/hizmet dönemindeki toplam gün) x gün, eşit olarak dağıtılmış hizmet dönemi x/Lisans sayısı = (4/30) x 29 x 2 = 7,74.
+- 12 Haziran 9 ' a kadar servis dönemi için $3,87 eşit olarak dağıtılmış yeniden faturalandırılır. Bu, bir lisansa sahip olduğunuz bir dönemdir. Hesaplama = (4/30) x 29 x 1 = 3,87.
 
 |**Satın alma tarihi**   |**Ücret başlangıcı** |**Ücret bitişi**  |**Birim Fiyat**  |**Miktar**  |**Miktar** |**Ücret türü** |
 |:------:|:------:|:------:|:------:|:------:|:------:|:-----:|
-|6/11/2019 (2 lisansınız var)     |6/10/2019   |7/09/2019         |$4         |2        |$8       |Yeni       |
+|6/11/2019 (iki lisansınız vardır)     |6/10/2019   |7/09/2019         |$4         |2        |$8       |Yeni       |
 |6/12/2019     | 6/10/2019    |7/09/2019        |$4        |2        | -$7,74       |removeQuantity           |
-|6/12/2019 (1 lisansınız var)    | 6/10/2019    |7/09/2019   |$4    |1      |$3,87    |removeQuantity |
+|6/12/2019 (bir lisansınız var)    | 6/10/2019    |7/09/2019   |$4    |1      |$3,87    |removeQuantity |
 
 ## <a name="next-steps"></a>Sonraki adımlar
 

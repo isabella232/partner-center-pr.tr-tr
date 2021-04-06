@@ -9,26 +9,25 @@ author: billLinzbach
 ms.author: billLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 386df8e19a7c66403770f94f2656bc52feb15564
-ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
+ms.openlocfilehash: cf5c64893bd5a55d842b2c426d05480a5a943a36
+ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "97979575"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106502910"
 ---
 # <a name="apply-to-sell-in-microsoft-national-clouds-as-part-of-the-csp-program"></a>CSP programının bir parçası olarak Microsoft Ulusal bulutlarında satış için geçerlidir
 
-**Uygulama hedefi**
+**Şunlara uygulanır**
 
-- Microsoft kamu bulutu için iş ortağı Merkezi
+- Microsoft Cloud for US Government için İş Ortağı Merkezi
 - Microsoft Bulut Almanya için iş ortağı Merkezi
-
 
 **Uygun roller**
 
 - Genel yönetici
 
-Küresel bulut çözümü sağlayıcısı programının bir parçası olarak müşterilere satmaya ek olarak, uygun Microsoft iş ortakları, bulut çözümlerini üç ayrı ulusal bulutta müşterilere da sattabilir. Ulusal bulutlar, belirli ülkelerin coğrafi kenarlıkları dahilinde ve yerel personel tarafından işletilebilir Microsoft Kurumsal bulut hizmetleri 'nin fiziksel ve mantıksal ağdan yalıtılmış örnekleridir. 
+Küresel bulut çözümü sağlayıcısı programının bir parçası olarak müşterilere satmaya ek olarak, uygun Microsoft iş ortakları, bulut çözümlerini üç ayrı ulusal bulutta müşterilere da sattabilir. Ulusal bulutlar, belirli ülkelerin coğrafi kenarlıkları dahilinde ve yerel personel tarafından işletilebilir Microsoft Kurumsal bulut hizmetleri 'nin fiziksel ve mantıksal ağdan yalıtılmış örnekleridir.
 
 Microsoft 'un ulusal bulut teklifleri hakkında daha fazla bilgi için bkz. [Microsoft National bulutlar](https://www.microsoft.com/trustcenter/cloudservices/nationalcloud).
 
@@ -56,7 +55,7 @@ Nitelikli iş ortakları, Microsoft bulut çözümlerini bu ulusal bulutlarda m�
     
 -   [**Çin 'de 21Vianet tarafından işletilen Azure ve Office 365**](https://www.microsoft.com/trustcenter/cloudservices/nationalcloud#Microsoft_Cloud_for_China) Microsoft, Shanghai mavi bulut teknolojisi co., Ltd. (21Vianet) ile benzersiz bir Iş ortaklığı sunarak, PIMA PI, ana bilgisayar, barındırma, yönetilen ağ ve, Çin 'de bulut bilgi işlem altyapısı Hizmetleri olan en büyük taşıyıcı-bağımsız Internet sağlayıcıdır. 
 
-    Microsoft teknoloji sağlayıcıdır, ancak hizmeti çalışmaz; 21Vianet, Microsoft bulut hizmetlerinin teslimini bağımsız olarak çalışır, sağlar ve yönetir. 21Vianet, Microsoft teknolojilerini lisanslayarak Azure ve Office 365 hizmetleri sunabilir ve verileri ana kara Çin içinde tutan Azure ve Office 365 veri merkezlerini çalıştırabilirler. 21Vianet Ayrıca, abonelik ve faturalandırma hizmetlerinin yanı sıra destek de sağlar.
+    Microsoft teknoloji sağlayıcıdır, ancak hizmeti çalışmaz; 21Vianet, Microsoft bulut hizmetlerinin teslimini bağımsız olarak çalışır, sağlar ve yönetir. 21Vianet, Microsoft teknolojilerini lisanslayarak Azure ve Office 365 hizmetleri sunabilir ve verileri ana kara Çin içinde tutan Azure ve Office 365 veri merkezlerini çalıştırabilirler. 21Vianet Ayrıca abonelik ve faturalandırma Hizmetleri ve destek sağlar.
 
     Çin 'de 21Vianet tarafından çalıştırılan Azure ve Office 365 müşterilerine kaydolma ve satma hakkında bilgi için bkz. [21Vianet tarafından çalıştırılan Iş Ortağı Merkezi](/previous-versions/windows/it-pro/windows-home-server/ff357696(v=ws.11)).
 

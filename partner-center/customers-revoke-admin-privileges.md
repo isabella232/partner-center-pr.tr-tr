@@ -9,25 +9,21 @@ author: BillLinzbach
 ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: high
-ms.openlocfilehash: 6f99c9ed9fb43136bccf0d3024377ba2208ed1a1
-ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
+ms.openlocfilehash: 624b66c7912af1f0109b6aadeffb67c5d4e9ea4b
+ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "96534888"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106502506"
 ---
 # <a name="obtain-permissions-to-manage-a-customers-service-or-subscription"></a>Müşterinin hizmetini veya aboneliğini yönetme izinleri alma
-
-**Şunlara uygulanır**
-
-- İş Ortağı Merkezi
 
 **Uygun roller**
 
 - Yönetim Aracısı
 - Satış Aracısı
 
-Müşterinin hizmet veya aboneliğini kendi adına yönetmek için müşterinin size bu hizmet için yönetici izinleri vermesi gerekir. Bir müşteriden yönetici izinleri almak için, satıcıya bir satıcı ilişki isteği gönderin. Müşteri isteğinizi onayladıktan sonra hizmetin yönetim portalında oturum açabilir ve müşterinin adına hizmeti yönetebilirsiniz. 
+Müşterinin hizmet veya aboneliğini kendi adına yönetmek için müşterinin size bu hizmet için yönetici izinleri vermesi gerekir. Bir müşteriden yönetici izinleri almak için, satıcıya bir satıcı ilişki isteği gönderin. Müşteri isteğinizi onayladıktan sonra, hizmetin yönetici portalında oturum açabilir ve müşterinin adına hizmeti yönetebilirsiniz. 
 
 ## <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you"></a>Bir müşteriyi sizinle bir satıcı ilişkisi kurmaya davet etme
 

@@ -9,18 +9,14 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a095f35c58cb6eb0c45f888bdf379edfd3cfe379
-ms.sourcegitcommit: 109c20a2dc71bf6ab15a3a9880807ec014eb8c67
+ms.openlocfilehash: ac6169ea6680ea0b36cd5caa3f3e8276f557bea2
+ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "102475214"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106502561"
 ---
 # <a name="sell-software-subscriptions-through-the-cloud-solution-provider-csp-program"></a>Bulut çözümü sağlayıcısı (CSP) programı aracılığıyla yazılım abonelikleri satma
-
-**Şunlara uygulanır**
-
-- Bulut Çözüm Sağlayıcıları
 
 **Uygun roller**
 
@@ -31,7 +27,7 @@ Azure ayırmaları ve sunucu abonelikleri (Windows Server ve SQL Server abonelik
 
 Artık Azure ayırmaları ve sunucu aboneliklerini, Iş ortağı merkezi ve Azure portal aracılığıyla ticari müşteriler adına alabilir, sağlayabilir ve yönetebilir Azure Hibrit Avantajı.
 
-Azure Hibrit Avantajı, Windows Server lisanslarınızdan daha fazla değer almanıza ve sanal makinelerde yüzde 40 ' e varan tasarruf etmenize yardımcı olur. Yazılım Güvencesi kapsamındaki Windows Server Datacenter ve Standard Edition lisanslarıyla avantajını kullanabilirsiniz. Sürüme bağlı olarak, Azure 'da Windows Server sanal makinelerini çalıştırmak için lisanslarınızı dönüştürebilir veya yeniden kullanabilir ve daha düşük bir temel işlem oranı (örneğin, Linux sanal makine ücretleri) ödeyebilirsiniz.
+Azure Hibrit Avantajı, Windows Server lisanslarınızdan daha fazla değer almanıza ve sanal makinelerde yüzde 40 ' e varan tasarruf etmenize yardımcı olur. Yazılım Güvencesi kapsamındaki Windows Server Datacenter ve Standard Edition lisanslarıyla avantajını kullanabilirsiniz. Sürüme bağlı olarak, Azure 'da Windows Server sanal makinelerini çalıştırmak için lisanslarınızı dönüştürebilir veya yeniden kullanabilir ve daha düşük bir temel işlem ücreti (örneğin, Linux sanal makine ücretleri) ödeyebilirsiniz.
 
 ## <a name="azure-reservations-unavailable-markets"></a>Azure ayırmaları kullanılamayan pazarlar
 
@@ -101,7 +97,7 @@ Yazılımınızı satın aldıktan sonra siz veya müşterilerinizin bu uygulama
 
 2. Ürün **sürümü**, **dil**, **bit**' i seçin ve **anahtarları al ve İndirmeler**' ı seçin. 
 
-3. 32 basamaklı ürünü, bir açılan iletişim kutusunda görüntüleyecek ve müşteriye gönderebilmeniz için, **Get Key** ' i seçin. 
+3. Bir açılır iletişim kutusunda 32 basamaklı ürünü göstermek ve müşteriye göndermek için **anahtar al** ' ı seçin. 
 
 4. Bitleri indirmek için **İndir** ' i seçin. 
 
@@ -114,7 +110,7 @@ Yazılımınızı satın aldıktan sonra siz veya müşterilerinizin bu uygulama
 
 ## <a name="server-subscription-download-and-license-keys-available-through-microsoft-365-admin-center-for-customers"></a>Sunucu aboneliği indirme ve lisans anahtarları, müşteriler için Microsoft 365 Yönetim Merkezi aracılığıyla kullanılabilir 
 
-Müşterileriniz, Microsoft 365 Yönetim merkezinden CSP sunucu aboneliği lisans anahtarları ve İndirmeleri alabilir. CSP sunucu aboneliği lisans anahtarlarını ve indirmelerini görmek için, müşterinin Microsoft 365 Yönetici Merkezi > **faturalandırma > ürün > yazılım sekmesi**' ne gitmeniz gerekir. Daha fazla ayrıntı için [Faturalandırma bölümünde yazılım sekmesine](/microsoft-365/admin/whats-new-in-preview#billing--subscriptions)bakın.  
+Müşterileriniz, Microsoft 365 Yönetim merkezinden CSP sunucu aboneliği lisans anahtarları ve İndirmeleri alabilir. CSP sunucu aboneliği lisans anahtarlarını ve indirmelerini görmek için, müşterinin Microsoft 365 Yönetici Merkezi > **faturalandırma > ürün > yazılım sekmesi**' ne gitmeniz gerekir. Daha fazla ayrıntı için bkz. [Faturalandırma bölümünde yazılım sekmesi](/microsoft-365/admin/whats-new-in-preview#billing--subscriptions).  
 
 ## <a name="view-activity-for-software-key-access-and-software-downloads"></a>Yazılım anahtarı erişimi ve Yazılım İndirmeleri için etkinliği görüntüleme
 

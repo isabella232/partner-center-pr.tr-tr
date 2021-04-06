@@ -9,18 +9,14 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 59e84162b85df197b135bcf5792fd2e730b53e56
-ms.sourcegitcommit: 37562b0e29ab921b6b454bb9801376f1feedb715
+ms.openlocfilehash: e6b0de64a9ac3d86c77cc47f6b69b8a132606309
+ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/22/2020
-ms.locfileid: "92531015"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106502876"
 ---
 # <a name="overview-of-partner-offers-in-the-cloud-solution-provider-program"></a>Bulut Çözümü Sağlayıcısı programında sunulan iş ortağı tekliflerine genel bakış
-
-**Uygulama hedefi**
-
-- CSP iş ortakları
 
 **Uygun roller**
 
@@ -28,7 +24,7 @@ ms.locfileid: "92531015"
 - Genel yönetici
 - Satış Aracısı
 
-Bulut çözümü sağlayıcısı programı 'ndaki (CSP) Microsoft iş ortakları, sunulan teklifler için sunulan bir katalog sunmaktadır. [Microsoft bulut hizmetlerinin](https://partner.microsoft.com/cloud-solution-provider/products-and-services)tam aralığını ve sık değişen çeşitli ek teklifleri satabilirsiniz. Geçerli aya yönelik CSP tekliflerini görmek için Iş Ortağı Merkezi ' nde oturum açın ve ardından [**fiyatlandırma ve teklifler**](https://partnercenter.microsoft.com/pcv/sales) sayfasına gidin.  
+Bulut çözümü sağlayıcısı programı 'ndaki (CSP) Microsoft iş ortakları, sunulan teklifler için sunulan bir katalog sunmaktadır. [Microsoft bulut hizmetlerinin](https://partner.microsoft.com/cloud-solution-provider/products-and-services)tam aralığını ve sık değişen çeşitli diğer teklifleri satın alabilirsiniz. Geçerli aya yönelik CSP tekliflerini görmek için Iş Ortağı Merkezi ' nde oturum açın ve ardından [**fiyatlandırma ve teklifler**](https://partnercenter.microsoft.com/pcv/sales) sayfasına gidin.  
 
 Henüz bulut çözümü sağlayıcısı programı 'nda kayıtlı değil misiniz? Nasıl kayıt yapılacağı hakkında daha fazla bilgi için [Cloud Solution sağlayıcısını](https://partner.microsoft.com/cloud-solution-provider) ziyaret edin. 
 
@@ -53,7 +49,7 @@ Henüz bulut çözümü sağlayıcısı programı 'nda kayıtlı değil misiniz?
 
 ### <a name="online-services"></a>Çevrimiçi hizmetler
 
-   *Çevrimiçi hizmetler* , şu anda *abonelik* olarak adlandırıldıklarınız için yeni bir addır. Birden çok ürün türünü tek bir yerde sıralanmasını kolaylaştırmak için "Abonelik Ekle" görev akışını "Ürün Ekle" görev akışına tümleştirdik.
+   *Çevrimiçi hizmetler* Şu anda *abonelik* olarak adlandırıldıklarınız için yeni bir addır. Birden çok ürün türünü tek bir yerde sıralanmasını kolaylaştırmak için "Abonelik Ekle" görev akışını "Ürün Ekle" görev akışına tümleştirdik.
 
    Daha fazla bilgi için bkz. [Müşteri abonelikleri](customer-subscriptions.md).
 
@@ -95,13 +91,13 @@ Aşağıdaki liste, **Ürün Ekle** sayfasındaki yeni alanların her birini tan
 
 1. Iş Ortağı Merkezi menüsünden **müşteriler** ' i seçin ve sonra satın almak isteyen müşteriyi bulun. 
 
-2. Müşterinin kaydını genişletmek için müşterinin satırının sonundaki aşağı oku seçin ve ardından **Ürün Ekle** ' yi seçin. Bu aşamadan sonra siparişi oluşturuyorsunuz. Sipariş farklı türlerde çeşitli öğeler içerebilir ama hepsinin aynı müşteri için olması gerekir.
+2. Müşterinin kaydını genişletmek için müşterinin satırının sonundaki aşağı oku seçin ve ardından **Ürün Ekle**' yi seçin. Bu aşamadan sonra siparişi oluşturuyorsunuz. Sipariş farklı türlerde çeşitli öğeler içerebilir ama hepsinin aynı müşteri için olması gerekir.
 
-3. **Ürün Ekle** sayfasında **Azure** , **çevrimiçi hizmetler** veya **yazılımlar** ' ı seçin.
+3. **Ürün Ekle** sayfasında **Azure**, **çevrimiçi hizmetler** veya **yazılımlar**' ı seçin.
 
 4. Aradığınız ürünleri daha kolay bulmak için kullanılabilir filtreler üzerinde ince ayar yapın. Kullanılabilir öğeleri tam listesini görmek için, uygulanabilir filtreleri **herhangi** birine ayarlayın.
 
-5. Müşterinin istediği ürünü seçin, istenen miktarı girin ve ardından **Sepete Ekle** ' yi seçin.
+5. Müşterinin istediği ürünü seçin, istenen miktarı girin ve ardından **Sepete Ekle**' yi seçin.
 
 6. Tüm gerekli öğeleri sepetinize ekleyinceye kadar 4. ve 5. adımları tekrarlayın. Siparişinizin doğru olduğunu doğrulamak için **gözden geçir** ' i seçin.  
 
@@ -111,16 +107,16 @@ Aşağıdaki liste, **Ürün Ekle** sayfasındaki yeni alanların her birini tan
 
 ## <a name="rules-for-special-segments"></a>Özel segmentler için kurallar
 
-Lisans tabanlı bazı teklifler yalnızca belirli koşullar altında satın alınabilir. Özel Segment, eğitim, kar amacı gütmeyen veya kamu topluluk bulutu (GCC) tekliflerini içerir. Bu satın alma koşulları hakkındaki ayrıntılar, [özel segmentler için satın alma kuralları konusunda](get-special-pricing-for-offers.md#purchase-rules-for-special-segments)bulunabilir.
+Lisans tabanlı bazı teklifler yalnızca belirli koşullar altında satın alınabilir. Özel segmentler, eğitim, kar amacı gütmeyen veya kamu topluluk bulutu (GCC) tekliflerini içerir. Bu satın alma koşulları hakkındaki ayrıntılar, [özel segmentler için satın alma kuralları konusunda](get-special-pricing-for-offers.md#purchase-rules-for-special-segments)bulunabilir.
 
 ## <a name="troubleshooting-catalog-purchases"></a>Katalog satın alımları sorunlarını giderme
 
 Aradığınız teklifin katalogda bulunmamasının farklı nedenleri olabilir. Aşağıda, bekleeceğiniz teklifi bulamadıysanız denetlenecek noktalar verilmiştir.
 
-- **Müşterinizin gerekli nitelikleri karşıladığından emin olun** . Birçok teklifin müşterilere satılabilmesi için özel niteliklerin sağlanması gerekir. Bu özel segmentler arasında Eğitim, Kar Amacı Gütmeyen Kuruluşlar ve Government Community Cloud (GCC) bulunur. Sorun girişi yapmadan önce müşterinin niteliklerinin uygun olarak ayarlandığından emin olun. Bunu kontrol etmek için müşteri listesinden müşteriyi seçip hesabını görüntüleyebilirsiniz. Hesap uygunsa Özel Nitelik durumu belirtilmiş olur. Eğitim sürümünü gerekli niteliklere sahip olmayan bir müşteriye satmaya çalışıyorsanız ilgili teklifleri katalogda göremezsiniz. Müşterilerinizi nitelendirme hakkında daha fazla bilgi için, [özel segmentleri belgelemeniz](get-special-pricing-for-offers.md) bölümüne bakın.
-- **Eklenti mi yoksa Temel teklif mi satın almaya çalıştığınızı belirleyin** . Microsoft 365 ve Dynamics 365 gibi çoğu lisans tabanlı hizmet için katalogdan hem Temel teklifler hem de Eklentiler satın alınabilir. Katalogdan yalnızca temel teklifler satın alınabilir. Eklentileri satın almak için öncelikle katalogdaki Temel teklifi satın almanız, ardından müşteri listesinden ilgili müşteriyi seçip temel teklif aboneliğini seçmeniz gerekir. Eklentiler, abonelik yönetimi sayfasından temel teklife uygulanabilir. 
-- **Ürünlerin pazarınızda kullanılabileceğinden emin olun** . Birçok ürün ve hizmet yalnızca belirli ülkelerde satılmak üzere yapılandırılmıştır. Desteklenen ülkelerin listesini ürünlere özgü fiyat listesi dosyalarında bulabilirsiniz. Ülkelerde desteklenen lisans tabanlı hizmetler, fiyatlandırma ve teklifler sayfasının Teklif Listesi Tablosu bölümünde yer alır.
-- **Tekliflerin fiyat listesinde mevcut olduğundan emin olun** . Kullanılabilir teklif listesi aydan aya değişebilir. Bir teklifi katalogda bulamıyorsanız **Satış > Fiyatlandırma ve Teklifler** sayfasındaki güncel fiyat listelerinde yer alıp almadığını denetleyin.
+- **Müşterinizin gerekli nitelikleri karşıladığından emin olun**. Birçok teklifin müşterilere satılabilmesi için özel niteliklerin sağlanması gerekir. Bu özel segmentler eğitim, kar amacı gütmeyen ve kamu Community bulutu 'nı (GCC) içerir. Sorun girişi yapmadan önce müşterinin niteliklerinin uygun olarak ayarlandığından emin olun. Müşteriyi müşteri listesinden seçerek ve hesabı görüntüleyerek bunu kontrol edebilirsiniz. Hesap uygunsa Özel Nitelik durumu belirtilmiş olur. Eğitim sürümünü gerekli niteliklere sahip olmayan bir müşteriye satmaya çalışıyorsanız ilgili teklifleri katalogda göremezsiniz. Müşterilerinizi nitelendirme hakkında daha fazla bilgi için bkz. [özel segmentler belgeleri](get-special-pricing-for-offers.md).
+- **Eklenti mi yoksa Temel teklif mi satın almaya çalıştığınızı belirleyin**. Microsoft 365 ve Dynamics 365 gibi lisans tabanlı hizmetlerden birçoğu, temel tekliflerde ve eklentilerde bulunan Katalog satın alımlarınızı etkinleştirir. Katalogdan yalnızca temel teklifler satın alınabilir. Eklentileri satın almak için, ilk olarak katalogda temel teklifi satın aldığınızdan emin olun ve müşteri listesinden müşteriyi seçin ve ardından temel teklif için aboneliği seçin. Eklentiler, abonelik yönetimi sayfasından temel teklife uygulanabilir. 
+- **Ürünlerin pazarınızda kullanılabileceğinden emin olun**. Birçok ürün ve hizmet yalnızca belirli ülkelerde satılmak üzere yapılandırılmıştır. Desteklenen ülkelerin listesini ürünlere özgü fiyat listesi dosyalarında bulabilirsiniz. Ülkelerde desteklenen lisans tabanlı hizmetler, fiyatlandırma ve teklifler sayfasının Teklif Listesi Tablosu bölümünde yer alır.
+- **Tekliflerin fiyat listesinde mevcut olduğundan emin olun**. Kullanılabilir teklif listesi aydan aya değişebilir. Katalogda bir teklif bulamazsanız, **satışın > fiyatlandırma ve teklifler** sayfasındaki geçerli fiyat listelerinde mevcut olduğunu doğrulayın.
 
 ### <a name="recommended-documents-related-to-purchasing-items-in-the-partner-center"></a>Iş Ortağı Merkezi 'nde öğe satın alma ile ilgili önerilen belgeler
 

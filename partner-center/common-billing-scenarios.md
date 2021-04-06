@@ -9,18 +9,14 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: dcac190570d42fa165d33226c3ad33ec836f521b
-ms.sourcegitcommit: e1c8bea4aaf807aebe99c125cb1fb6dc8fdfa210
+ms.openlocfilehash: 44f4e45b53d6da7c8ed08678f8b05719cc9c2d7a
+ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/30/2020
-ms.locfileid: "92531083"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106502455"
 ---
 # <a name="common-billing-scenarios-for-csp-program-partners-working-in-partner-center"></a>Iş Ortağı Merkezi 'nde çalışan CSP program iş ortakları için genel faturalandırma senaryoları
-
-Aşağıdakiler cihazlar için geçerlidir:
-
-- Bulut çözümü sağlayıcısı (CSP) program Faturalaması
 
 **Uygun roller**
 
@@ -29,7 +25,7 @@ Aşağıdakiler cihazlar için geçerlidir:
 - Yardım Masası Aracısı
 - Satış Aracısı
 
-Bu konularda, yeni abonelikler ekledikten, bir aboneliğe lisans sayısını ayarladıktan veya bir aboneliği iptal ettikten sonra faturanızda görmeyi beklediğiniz şeyler açıklanmaktadır. Kullanım tabanlı ve lisans tabanlı abonelikler gibi diğer [Iş ortağı merkezi faturalandırma türleri](billing-different-types.md)farklı şekilde faturalandırılır.
+Bu makalelerde, yeni abonelikler ekledikten, bir aboneliğe lisans sayısını ayarladıktan veya bir aboneliği iptal ettikten sonra faturanızda görmeyi beklemeniz gerekenleri açıklanmaktadır. Kullanım tabanlı ve lisans tabanlı abonelikler gibi diğer [Iş ortağı merkezi faturalandırma türleri](billing-different-types.md)farklı şekilde faturalandırılır.
 
 | Faturalandırma türü | Kapsanan senaryolar |
 | --------------- | ----------------- |

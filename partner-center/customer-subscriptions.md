@@ -9,18 +9,14 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1521f9b14f6ae01a69d625f308f9eed9d677a45e
-ms.sourcegitcommit: 7153f0b8c67efd35f58695ca2a7e00e70da1c5e9
+ms.openlocfilehash: 6ae63c2cacbdea7a1aa2bf08ffff8a3cde512668
+ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/17/2020
-ms.locfileid: "92530970"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106502756"
 ---
 # <a name="how-csp-program-partners-can-sell-subscriptions-to-customers"></a>CSP program iş ortaklarının müşterilere abonelikleri nasıl satın alabilir
-
-**Uygulama hedefi**
-
--  İş Ortağı Merkezi
 
 **Uygun roller**
 
@@ -33,11 +29,11 @@ Bir CSP iş ortağı olarak, yaptığınız merkezi şeylerden biri, müşterile
 
 |**Bunu yapmak için**   |**Bunu okuyun**   |
 |----------------------|:----------------------|
-|Iş Ortağı Merkezi 'nde mevcut müşteriler için abonelikler oluşturma ve yönetme|[Yeni abonelik oluştur](create-a-new-subscription.md)|
-|Aboneliği ekledikten sonra müşterinin çalışanlarına lisans atayabilirsiniz  |[Kullanıcılara lisans atama](assign-licenses-to-users.md)|
-|Toplu lisans güncelleştirmelerini de yönetebilirsiniz   |[Birden fazla kullanıcıya lisans atama veya atanmış lisansları iptal etme](bulk-license-provisioning-for-multiple-users.md)|
-|Müşteriniz yeni çalışanlar eklediğinden, mevcut aboneliklere ek lisanslar ekleyebilirsiniz   |[Var olan bir aboneliğe lisans veya hizmet ekleme](add-licenses-or-services-to-an-existing-subscription.md)|
-|Müşteriniz, uygulamadan önce yazılımı denemek isteyebilir, bu nedenle deneme abonelikleri sunun    |[Microsoft ürünleri için müşterilerinizin deneme sürümlerini sunun](offer-your-customers-trials-of-microsoft-products.md)|
-|Azure abonelik işlemini Iş Ortağı Merkezi 'nde başlatabilirsiniz   |[Iş Ortağı Merkezi 'nde Azure abonelikleri atama](assign-azure-subscriptions.md)|
-|Teklifler için özel fiyatlandırma hakkında bilgi edinin   |[Teklifler için özel fiyatlandırma alın](get-special-pricing-for-offers.md)|
-|Müşterilerinizin yazılımlarını nasıl kullandığını öğrenin ve bu kullanıcıların daha etkili olmasını sağlar.   | [Benimseme ve memnuniyet artırma](increasing-adoption-and-satisfaction.md)   |
+|Iş Ortağı Merkezi 'nde mevcut müşteriler için abonelikler oluşturun ve yönetin.|[Yeni abonelik oluştur](create-a-new-subscription.md)|
+|Aboneliği ekledikten sonra müşterinin çalışanlarına lisans atayabilirsiniz.  |[Kullanıcılara lisans atama](assign-licenses-to-users.md)|
+|Toplu lisans güncelleştirmelerini de yönetebilirsiniz.   |[Birden fazla kullanıcıya lisans atama veya atanmış lisansları iptal etme](bulk-license-provisioning-for-multiple-users.md)|
+|Müşteriniz yeni çalışanlar eklediğinden, mevcut aboneliklere daha fazla lisans ekleyebilirsiniz.   |[Var olan bir aboneliğe lisans veya hizmet ekleme](add-licenses-or-services-to-an-existing-subscription.md)|
+|Müşteriniz, uygulamadan önce yazılımı denemek isteyebilir, deneme abonelikleri sunun.    |[Müşterilerinize Microsoft ürünü denemeleri teklif etme](offer-your-customers-trials-of-microsoft-products.md)|
+|Azure abonelik işlemini Iş Ortağı Merkezi 'nde başlatabilirsiniz.   |[Iş Ortağı Merkezi 'nde Azure abonelikleri atama](assign-azure-subscriptions.md)|
+|Teklifler için özel fiyatlandırma hakkında bilgi edinin.   |[Teklifler için özel fiyatlandırma alın](get-special-pricing-for-offers.md)|
+|Müşterilerinizin yazılımlarını kullanarak daha verimli olmaları için nasıl çalıştığını öğrenin.   | [Benimsemeyi ve memnuniyeti artırma](increasing-adoption-and-satisfaction.md)   |

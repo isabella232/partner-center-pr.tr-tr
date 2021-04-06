@@ -4,25 +4,23 @@ ms.topic: how-to
 ms.date: 07/22/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Müşterilerin aboneliklerinizi, üçüncü taraf ISV 'Ler tarafından yayımlanan SaaS ürünlerinin yanı sıra Microsoft tarafından yayımlanan ürünlere satmayı öğrenin.
+description: Microsoft tarafından yayımlanan ürünlerin yanı sıra üçüncü taraf ISV 'Ler tarafından yayımlanan SaaS ürünleri için müşterilerinize abonelik satma hakkında bilgi edinin.
 author: BillLinzbach
 ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
-ms.openlocfilehash: 85a40974557817825d58246c2c010c7cf8a6a5e1
-ms.sourcegitcommit: f34f2f69e6df4f260479a205d94010cf47987ff2
+ms.openlocfilehash: 559d1fbd2efc1417ae89931279b9d3c9a1d67f7c
+ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 11/25/2020
-ms.locfileid: "96038889"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106502944"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>Müşteri aboneliklerini oluşturma, askıya alma veya iptal etme
 
 **Şunlara uygulanır**
 
-- İş Ortağı Merkezi
 - Microsoft Cloud for US Government için İş Ortağı Merkezi
-- CSP iş ortakları
 
 **Uygun roller**
 
@@ -32,7 +30,7 @@ ms.locfileid: "96038889"
 - Yardım Masası Aracısı
 - Satış Aracısı
 
-Iş Ortağı Merkezi 'nde müşterinizin bir kaydını oluşturduktan sonra, bu abonelikleri katalogdaki ürünlere satabilirsiniz. Bu, Microsoft tarafından yayımlanan ürünlerin yanı sıra üçüncü taraf bağımsız yazılım satıcıları (ISV 'Ler) tarafından [ticari Market](https://azuremarketplace.microsoft.com/marketplace)'e Yayınlanan hizmet olarak yazılım (SaaS) ürünlerini de içerir.
+Iş Ortağı Merkezi 'nde müşterinizin bir kaydını oluşturduktan sonra, bu abonelikleri katalogdaki ürünlere satabilirsiniz. Bu, üçüncü taraf bağımsız yazılım satıcıları (ISV 'Ler) tarafından [ticari Market](https://azuremarketplace.microsoft.com/marketplace)'e yayımlanan Microsoft ve hizmet olarak yazılım (SaaS) ürünleri tarafından yayımlanan ürünleri içerir.
 
 Bazı teklifler müşteri başına bir abonelikle sınırlıdır. Hangi tekliflerin kısıtlı olduğunu görmek için Iş Ortağı Merkezi fiyatlandırma ve teklifleri sayfasını ziyaret edin.
 
@@ -80,7 +78,7 @@ Bazı teklifler müşteri başına bir abonelikle sınırlıdır. Hangi teklifle
    
 ## <a name="update-subscriptions-with-add-ons"></a>Eklentilerle abonelikleri güncelleştirme 
 
-Eklenti satın almak için müşterinin önce etkin bir temel aboneliği olmalıdır.  Eklentileri katalog aracılığıyla satın alamazsınız.
+Bir eklenti satın almak için müşterinin öncelikle etkin bir temel aboneliği olmalıdır.  Eklentileri katalog aracılığıyla satın alamazsınız.
 
 1. Iş Ortağı Merkezi [panosunda](https://partner.microsoft.com/dashboard)oturum açın.
 
@@ -93,7 +91,7 @@ Eklenti satın almak için müşterinin önce etkin bir temel aboneliği olmalı
 5. Gerekli her eklenti için lisans miktarını güncelleştirin. Sonra **Gönder** ile yaptığınız değişiklikleri gönderin.
 
 Iş Ortağı Merkezi aracılığıyla eklenti satın alma özelliği yalnızca doğrudan fatura ve dolaylı sağlayıcılar için kullanılabilir.
-Temel gereksinimlere ve bölgesel kullanılabilirliğe göre yalnızca uygun eklentiler görüntülenir. Fiyatlandırma ve teklifler hakkında daha fazla bilgi için Bulut Kurumsal Bayisi teklif matrisine bakın.  Temel abonelik askıya alındığında ilişkili tüm eklentiler de askıya alınır.
+Temel gereksinimlere ve bölgesel kullanılabilirliğe göre yalnızca uygun eklentiler görüntülenir. Fiyatlandırma ve teklifler hakkında daha fazla bilgi için bkz. Cloud Bayi teklif matrisi. Temel abonelik askıya alındığında ilişkili tüm eklentiler de askıya alınır.
 
 Eklentilerin başlangıç tarihleri temel abonelikle uyumludur; ücretler Ücret başlangıç tarihi ile Ücret bitiş tarihi kullanılarak hesaplanır ve ilk faturaya orantılı bir ücret uygulanır. Daha fazla bilgi için bkz. [Lisans tabanlı faturalandırma](license-based-billing.md).
 
@@ -102,7 +100,7 @@ Eklentilerin başlangıç tarihleri temel abonelikle uyumludur; ücretler Ücret
 
 İş ortakları, müşteri tarafından isteniyorsa veya ödeme veya sahtekarlık durumlarında bir aboneliği askıya alabilir veya iptal edebilir.
 
-### <a name="suspend-a-subscription"></a>Aboneliği askıya alma
+### <a name="suspend-a-subscription"></a>Bir aboneliği askıya alma
 
 Aboneliğin durumunu **askıya alındı** olarak değiştirdiğinizde, kullanıcılar oturum açamaz veya hizmetlere erişemez.
 
@@ -120,7 +118,7 @@ Bir aboneliği askıya aldığınızda, **askıya alınmış** düğmesinin alt�
 
 ### <a name="cancel-a-subscription"></a>Aboneliği iptal et
 
-Iş Ortağı Merkezi [ticari marketi](csp-commercial-marketplace-overview.md)kapsamındaki üçüncü taraf ISV yayımcılarından lisans tabanlı SaaS aboneliklerini iptal etme seçeneğiniz vardır. İptal dönemi içinde iptal ettiğiniz sürece, tam bir para iadesi alırsınız.
+Iş Ortağı Merkezi [ticari marketi](csp-commercial-marketplace-overview.md)kapsamındaki üçüncü taraf ISV yayımcılarından lisans tabanlı SaaS aboneliklerini iptal edebilirsiniz. İptal dönemi içinde iptal ettiğiniz sürece, tam bir para iadesi alırsınız.
 
 Aylık olarak faturalandırılan ISV teklifleri için:
 
