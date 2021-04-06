@@ -9,18 +9,20 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 03cd603cf65b1e999cf95fd10d76e6ccc6c403e8
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 3702ebd5a9421036a053a9a142a2f40d3e488137
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92531538"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106442008"
 ---
 # <a name="what-to-do-if-the-only-admin-for-your-mpn-program-has-left-the-company"></a>MPN programınız için tek yönetici şirketten ayrıldıysa ne yapmalı?
 
-**Uygulama hedefi**
+**Uygun roller**
 
-- İş Ortağı Merkezi
+- MPN iş ortağı Yöneticisi
+- Hesap yöneticisi
+- Genel yönetici
 
 Aşağıdaki makalede, MPN yöneticiniz şirketten ayrıldıysa ne yapacaklarıyla ilgili üç tipik senaryo gösterilmektedir.
 
@@ -28,7 +30,7 @@ Aşağıdaki makalede, MPN yöneticiniz şirketten ayrıldıysa ne yapacaklarıy
 
 Bu durumda, şirketteki başka bir kişiye MPN Iş ortağı Yöneticisi rolü atanabilir. Belirli bir MPN Iş ortağı Yöneticisi/hesabı yönetici rolü rolüne atamak için:
 
-1. İş hesabınız (ör.) ile iş ortağı Merkezi hesabınızda oturum açın tom@contoso.com .
+1. İş hesabınızla (örneğin,) iş ortağı Merkezi hesabınızda oturum açın tom@contoso.com .
 1. Genel yönetici 'deki **Kullanıcı yönetimi** sayfasında, şirketinizin genel yöneticilerinin kim olduğunu görmek için filtre uygulayın. 
 1. Genel yöneticilerden biriyle iletişim kurun ve sizden ihtiyacınız olan MPN 'ye özgü rolü atamasını isteyin. 
 
@@ -55,7 +57,7 @@ Yönetilmeyen bir dizini Azure Active Directory yönetici olarak ele almak için
 Şirketinizde bir iş hesabı olup olmadığından emin değilseniz, denetlemek için aşağıdaki adımları izleyin.
 
 1. [Azure yönetim portalı](https://ms.portal.azure.com)' nda oturum açın.
-2. Sol menüden **Azure Active Directory** ' ı seçin ve ardından **etki alanı adları** ' nı seçin.
+2. Sol menüden **Azure Active Directory** ' ı seçin ve ardından **etki alanı adları**' nı seçin.
 Zaten bir iş hesabınız varsa, etki alanı adınız listelenecektir.
 
 >[!Note]

@@ -7,24 +7,20 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5817e5bb010cee0ab280c83408167f28915a6237
-ms.sourcegitcommit: 9b36128fdbd24e4bfe4597b1e6104bd560583c5c
+ms.openlocfilehash: 411932923e6bd35732e64521abe567f40f7499e9
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/15/2020
-ms.locfileid: "92531422"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441498"
 ---
 # <a name="regional-taxes-regulations-for-public-switched-telephone-network-ptsn-services"></a>Bölgesel vergiler, ortak anahtarlı telefon ağı (PTSN) Hizmetleri için yönetmelikler
 
-**Uygulama hedefi**
-
-- İş Ortağı Merkezi
-- Office 365 iş ortakları deneyimidir Microsoft 365 ses ürünleri
-
 **Uygun roller**
--    Genel yönetici
--    Kullanıcı yöneticisi
--    Yönetim Aracısı
+
+- Genel yönetici
+- Kullanıcı yöneticisi
+- Yönetim Aracısı
 
 Bazı dairelerde ortak anahtarlı telefon ağı (PSTN) Hizmetleri, iş ortağı siparişi ve faturalamayı etkileyebilecek özel vergi ve mevzuata gereksinimlere tabi olabilir. Birleşik Devletler, Porto Riko da dahil olmak üzere, ses konferansı, çağrı planlarını ve Iletişim kredilerini içeren PSTN Hizmetleri, özel vergi ve yasal gereksinimlere tabidir. Birleşik Devletler ve Porto Riko 'da, Microsoft, PSTN hizmetlerini vergi dahil olarak ücretlidir.  Benzersiz PSTN vergileri ve düzenlemeleri, Office 365 iş ortakları deneyimidir Microsoft 365 ses ürünlerini etkileyecektir.  Bir iş ortağı bir Microsoft PSTN hizmetinin fiyatını işaretlerse, PSTN vergileri ve ücretleri hesaplanmaktan ve yeniden dağıtmanıza yardımcı olabilirler.
 
@@ -34,7 +30,7 @@ Uygun bir şekilde, PSTN Hizmetleri mevzuata, vergiler ve ücretler ve diğer ol
 
 ## <a name="invoice-presentation-and-partner-reconciliation-file"></a>Fatura sunumu ve Iş ortağı mutabakatı dosyası
 
-Birleşik Devletler içindeki CSP faturaları ve CSP mutabakatı dosyaları, Skype Kurumsal PSTN ve Microsoft 365 ses hizmetleri 'ni içeren Porto Riko ve Kanada, PSTN ve PSTN olmayan bileşenlere yönelik ayrı satır öğeleri sağlar.
+Skype Kurumsal PSTN ve Microsoft 365 Voice Services içeren Birleşik Devletler, Porto Riko ve Kanada 'da bulunan CSP faturaları ve CSP mutabakatı dosyaları, PSTN ve PSTN olmayan bileşenler için ayrı satır öğeleri sağlar.
 
 Ayrıca, CSP faturalarında aşağıdaki dipnot görüntülenir:
 
@@ -48,7 +44,7 @@ Office 365 Kurumsal E5, aynı adlara ve özdeş kimliklere sahip iki satırlık 
 
 |**Durable_offer_ID**|**Offer_Name**|**Subscription_Start_Date**|**Subscription_End_Date**|**Charge_Start_Date**|**Charge_End_Date**|**Charge_Type**|**Unit_Price**|
 |:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
-|a044b16a-1861-4308-8086-a3a3b506fac2   |Office 365 Kurumsal E5   |8/10/2019 0:00   |8/11/2019 0:00   |8/11/2019 0:00|9/10/2019 0:00   |Bisiklet ücreti   |28,40   |
+|a044b16a-1861-4308-8086-a3a3b506fac2   |Office 365 Kurumsal E5   |8/10/2019 0:00   |8/11/2019 0:00   |8/11/2019 0:00|9/10/2019 0:00   |Bisiklet ücreti   |28.40   |
 |a044b16a-1861-4308-8086-a3a3b506fac2   |Office 365 Kurumsal E5   |8/10/2019 0:00   |8/11/2019 0:00   |8/11/2019 0:00   |9/10/2019 0:00   |Bisiklet ücreti   |2,00   |
 
 **İş ortağı mutabakatı örnek #2**

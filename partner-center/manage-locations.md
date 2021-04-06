@@ -1,7 +1,7 @@
 ---
 title: İş ortağı hesabınızdaki konumları yönetin
 ms.topic: how-to
-ms.date: 02/08/2021
+ms.date: 04/05/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Yeni bir konum ekleme ve bilgisayar, CSP iş, abonelik ve diğer işlemlerde MPN KIMLIĞI 'nin nasıl kullanıldığını öğrenin.
@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 41ffaeaf0fb46659142949872295523546bb91c1
-ms.sourcegitcommit: 5768f10cd122a20fe3df3062ea34e7096d99f639
+ms.openlocfilehash: 7ca8c866479fbe153c1e0192edd33e8258b9d6e7
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 02/09/2021
-ms.locfileid: "100005917"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441345"
 ---
 # <a name="manage-your-mpn-account-locations-and-add-delete-a-location"></a>MPN hesap konumlarını yönetme ve konum ekleme (silme)
 
@@ -26,9 +26,9 @@ ms.locfileid: "100005917"
 
 MPN KIMLIĞI konumu, şirketinizin her belirli bir konumunu tanımlar. MPN KIMLIK konumunu kullanarak, uygulamaları, Transact bulut çözümü sağlayıcısı (CSP) işletme ve diğer iş işlemlerine, teşvik etmek için kullanabilirsiniz. Genel MPN KIMLIĞI, destek istekleri gibi işlem olmayan etkinlikler için kullanılır.
 
-## <a name="the-following-is-a-typical-scenario"></a>Tipik bir senaryo aşağıda verilmiştir:
+## <a name="the-following-scenario-is-typical"></a>Aşağıdaki senaryo tipik bir davranıştır:
 
-Contoso, UK 'teki ortak genel hesabına (PGA) sahiptir. Bu, kayıtlı yasal işletmektir ve tüm işlemsel olmayan işleri yönetmek için Global MPN KIMLIĞI kullanılır. Contoso Ayrıca, UK, Fransa ve ABD 'de başka bir konumdaki yan kuruluşlar veya bölümler için Iş ortağı konum hesapları (PLA) ile eşdeğerdir. MPN hesap yapısında, bu PLAs 'ler benzersiz konum MPN kimlikleri olarak gösterilir. PLAs 'ler, CSP veya teşvikleri programları gibi işlem işleri için kullanılır. Ödemeler belirli konumlara bağlıdır. 
+Contoso, UK 'teki ortak genel hesabına (PGA) sahiptir. PGA, kayıtlı yasal işletmektir ve tüm işlemsel olmayan işleri yönetmek için Global MPN KIMLIĞI kullanılır. Contoso Ayrıca, UK, Fransa ve ABD 'de başka bir konumdaki yan kuruluşlar veya bölümler için Iş ortağı konum hesapları (PLA) ile eşdeğerdir. MPN hesap yapısında, bu PLAs 'ler benzersiz konum MPN kimlikleri olarak gösterilir. PLAs 'ler, CSP veya teşvikleri programları gibi işlem işleri için kullanılır. Ödemeler belirli konumlara bağlıdır. 
 
 >[!NOTE]
 >CSP kiracısı ve MPN konum KIMLIĞI arasında bir 1-1 ilişkisi vardır.
@@ -56,13 +56,32 @@ Yeni bir CSP iş hesabı eklemek için önkoşulları karşıladığından emin 
  
 1. **Ayarlar** simgesinden **Hesap ayarları**, **kuruluş profili**, **yasal**' ı seçin. 
 
-1. **Iş ortağı** sekmesinde, GEÇIRILEN konumları PMC 'den düzelmenizi isteyen bir başlık hata iletisi bulunmadığını doğrulayın. Varsa, yönergeleri izleyin ve bu konumları onarın. 
+1. **Iş ortağı** sekmesinde, GEÇIRILEN konumları PMC 'den düzelmenizi isteyen bir başlık hata iletisi bulunmadığını doğrulayın.  Konumlarınız PMC 'de doğru şekilde ayarlanmamışsa ve henüz BILGISAYARA geçirilmediyse, bu konumları güncelleştirmeniz gerekir.
 
-3. Bir hata mesajı yoksa,  **Ayarlar**' dan  **Hesap ayarları**, **kuruluş profili**, **tanımlayıcılar**' ı seçin.
+:::image type="content" source="images/locations/location-two.png" alt-text="Screencap, konumun nasıl güncelleştirilmesini gösterir.":::
+ 
+4.  **PMC konumlarını gözden geçir** ekranında **Güncelleştir**' i seçin.
+Aşağıdaki alanları güncelleştirin:
 
-4. "Location" türünde, bu CSP hesabının ülkesiyle eşleşen MPN KIMLIĞINI bulun ve bunu aşağıda aramak ve ilişkilendirilmesi için kullanmak üzere kullanın.
+- **Ad alanı**: Şirket konumunun adının doğru olduğundan emin olun. Yinelenen bir hata görüntüleniyorsa, örneğin contoso-contoso, Inc. arasında değişiklik yapmayı deneyin.
 
-5. Kullanmak istediğiniz CSP hesabıyla eşleşen MPN KIMLIĞI konumunu bulamazsanız yeni bir MPN KIMLIĞI oluşturacak yeni bir konum ekleyebilirsiniz. Aşağıda **BIR MPN konumu ekleme** bölümüne bakın.
+- **Yasal varlık alanı**: konumun bağlı olduğu yasal varlığı seçtiğinizden emin olun
+
+- **Adres satırı 1 & 2 alan**: adresin doğru olduğundan emin olun
+
+- **Şehir & Eyalet/İl alanları**: City ve eyalet/eyalet arasındaki birleşimin doğru olduğundan emin olun. Eyalet/bölge ' yi seçmek için açılan menünün uygulanacağı ve diğer ülkelerde alanın el ile eklenmesi gereken ülkeler vardır.
+
+- **ZIP/posta kodu alanı**: ZIP kodu alanının belirttiğiniz ülke, bölge, şehir veya adresle aynı olduğundan emin olun.
+
+- **Birincil iletişim bilgileri alanları**: ilk ve son ad alanlarının doldurulduğundan ve belirtilen e-posta adresinin kişisel bir e-posta adresi (örneğin,, @outlook.com @live.com vb.) olduğundan emin olun.
+
+- **Telefon numarası alanı**: telefon numarasının özel karakterler, boşluklar veya ülke kodu içermediğinden emin olun. Telefon numarası alanına girilen değer her zaman en fazla 10 karakter içerir.
+
+5. Bir hata mesajı yoksa,  **Ayarlar**' dan  **Hesap ayarları**, **kuruluş profili**, **tanımlayıcılar**' ı seçin.
+
+6. "Location" türünde, bu CSP hesabının ülkesiyle eşleşen MPN KIMLIĞINI bulun ve ilişkilendirmeyi gerçekleştirmek için onu kullanın.
+
+7. Kullanmak istediğiniz CSP hesabıyla eşleşen MPN KIMLIĞI konumunu bulamazsanız yeni bir MPN KIMLIĞI oluşturacak yeni bir konum ekleyebilirsiniz. Aşağıda **BIR MPN konumu ekleme** bölümüne bakın.
 
 ## <a name="add-an-mpn-location"></a>MPN konumu ekleme
 
@@ -81,9 +100,10 @@ Yeni bir CSP iş hesabı eklemek için önkoşulları karşıladığından emin 
 > [!NOTE]
 > Iş Ortağı Merkezi 'ne bir konum eklendikten sonra kaldıramazsınız. Oturum açmak için doğru MPN KIMLIĞINI kullandıysanız, **MPN** 'Yi Iş Ortağı Merkezi 'nin sol menüsünde görürsünüz.
 
+
 ## <a name="delete-a-location"></a>Konum silme
 
-Hesabınızdan bir konum silmek için [Iş ortağı desteğine](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=1af7f3a0-1757-3543-4b6a-c945c3ad187b)başvurmanız gerekir. Bu eylemin sahip olduğu etkiyi anladığınızdan emin olun. Silinen konumlar alınamaz ve söz konusu MPN kimliğine bağlı olan herhangi bir şey artık şirketiniz için tanınmayacak veya etkin olmayacak.
+Hesabınızdan bir konum silmek için [Iş ortağı desteğine](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=1af7f3a0-1757-3543-4b6a-c945c3ad187b)başvurmanız gerekecektir. Bu eylemin sahip olduğu etkiyi anladığınızdan emin olun. Silinen konumlar alınamaz ve söz konusu MPN kimliğine bağlı olan herhangi bir şey artık şirketiniz için tanınmayacak veya etkin olmayacak.
 
 ## <a name="change-country-of-partner-global-account"></a>Ortak genel hesap ülkesini değiştirin 
 

@@ -9,23 +9,19 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7bb97c696c4694c9052403444eec0e27f65d325c
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: bdcc9feb9f6f022642ece217aa1ba17e24bd20da
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92531678"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441447"
 ---
 # <a name="use-apis-for-automated-service-notifications-for-azure-insights--office-365-service-communications"></a>Azure Insights & Office 365 hizmet iletişimleri için otomatik hizmet bildirimleri için API 'Leri kullanma
-
-**Uygulama hedefi**
-
--  İş Ortağı Merkezi
 
 **Uygun roller**
 
 - Yönetim Aracısı
-- Genel 
+- Genel yönetici
 - Satış Aracısı
 - Yardım Masası Aracısı
 
@@ -33,11 +29,9 @@ Office 365 ve Microsoft Azure her biri, iş ortaklarının gerçek zamanlı hizm
 
 Bu API 'Ler geliştiricileriniz için kullanılabilir:
 
-[Office 365 hizmet iletişimleri API 'SI](/office/office-365-management-api/office-365-service-communications-api-reference)
+- [Office 365 hizmet iletişimleri API 'SI](/office/office-365-management-api/office-365-service-communications-api-reference)
+- Azure Insights REST [API başvurusu](/rest/api/monitor/)
 
+ 
 
-Azure Insights REST [API başvurusu](/rest/api/monitor/)
-
- 
-
- 
+ 

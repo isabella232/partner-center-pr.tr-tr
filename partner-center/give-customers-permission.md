@@ -9,19 +9,14 @@ author: amitravat
 ms.author: amrava
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 19f86ec5353abc21e14a3a8ac2ef17dd17924cfe
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 4feaa8cba8ba17f553b5e936dcf892ffbf7ccc82
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92531674"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441311"
 ---
 # <a name="give-customers-permission-in-partner-center-to-buy-their-own-products-or-services"></a>Iş Ortağı Merkezi 'nde müşterilere kendi ürünlerini veya hizmetlerini satın alma izni verin
-
-**Uygulama hedefi**
-
-- İş Ortağı Merkezi
-- CSP programındaki iş ortakları
 
 **Uygun roller**
 
@@ -32,7 +27,7 @@ Bu makalede, bulut çözümü sağlayıcısı (CSP) programındaki bir ortağın
 
 CSP programındaki iş ortakları, müşterilerine yönelik çözümler ve hizmetler satın almak için genellikle Iş Ortağı Merkezi 'ni ve ticari marketi 'ni kullanır. İş ortakları daha sonra bazı müşterilerin bu hizmetleri doğrudan Azure portal sağlamasına izin verir.
 
-Bir örneği aşağıda verilmiştir. Iş Ortağı Merkezi 'nde müşteri için bir Azure plan aboneliği satın aldığınızı varsayalım. Daha sonra bu aboneliğe diğer kaynakları veya Hizmetleri Müşterinin adına eklemeye karar verirsiniz. Bu durumda, müşterinin aboneliğine Azure ayırmaları ekleyebilirsiniz (örneğin, ayrılmış, sanal makine örnekleri ekleme). Daha sonra müşterinin Azure portal Azure ayırma kaynaklarını daha fazla sağlamasını sağlayabilirsiniz.
+Aşağıda bir örneği yer alır. Iş Ortağı Merkezi 'nde müşteri için bir Azure plan aboneliği satın aldığınızı varsayalım. Daha sonra bu aboneliğe diğer kaynakları veya Hizmetleri Müşterinin adına eklemeye karar verirsiniz. Bu durumda, müşterinin aboneliğine Azure ayırmaları ekleyebilirsiniz (örneğin, ayrılmış, sanal makine örnekleri ekleme). Daha sonra müşterinin Azure portal Azure ayırma kaynaklarını daha fazla sağlamasını sağlayabilirsiniz.
 
 Artık **Müşteri izinleri** özelliği Ile müşterilere Azure kaynaklarıyla daha fazla self servis seçeneği verirsiniz. Müşteri için izinleri etkinleştirerek müşterilerin kendi kaynaklarını satın almasını (örneğin, kendi Azure ayırmalarını satın almasını) sağlayabilirsiniz.  
 
@@ -86,7 +81,7 @@ Her adım aşağıda görünür.
 
 Müşterilere kendi Azure ayırmalarını satın alma izni vermeden önce, müşterinin mevcut bir Azure planına veya Azure genel aboneliğine sahip olduğunu doğrulamanız gerekir. Müşteri, Iş Ortağı Merkezi 'nde geçerli bir Azure aboneliği gösteriyorsa, müşteri izinlerini açmadan önce bu abonelik için bir abonelik satın almanız gerekir.
 
-- Bir müşterinin zaten bir Azure aboneliğine sahip olup olmadığını görmek için Iş Ortağı Merkezi panosunda oturum açın ve ardından **CSP** ' yi ve ardından **müşteriler** ' i seçin. Listeden belirli müşteriyi seçin. Ardından **abonelikler** ' i seçin ve Azure planı ya da Azure Global için kullanım tabanlı abonelikler için arama yapın.
+- Bir müşterinin zaten bir Azure aboneliğine sahip olup olmadığını görmek için Iş Ortağı Merkezi panosunda oturum açın ve ardından **CSP** ' yi ve ardından **müşteriler**' i seçin. Listeden belirli müşteriyi seçin. Ardından **abonelikler** ' i seçin ve Azure planı ya da Azure Global için kullanım tabanlı abonelikler için arama yapın.
 
 - Bir müşterinin mevcut bir Azure aboneliği yoksa, bunlar için bir abonelik satın alabilirsiniz. Bkz. [Azure planını satın alma](purchase-azure-plan.md).
 
@@ -103,7 +98,7 @@ Müşteriyi, bir Azure aboneliği için **sahip** rolü atandığını doğrulam
 
 1. Iş Ortağı Merkezi [panosunda](https://partner.microsoft.com/dashboard)oturum açın.
 
-2. **CSP** ' yi ve ardından **müşteriler** ' i seçin ve belirli müşteriyi seçin.
+2. **CSP**' yi ve ardından **müşteriler** ' i seçin ve belirli müşteriyi seçin.
 
 3. Bu müşteri için **abonelikler** ' i seçin ve belirli Azure aboneliğini bulun.
 
@@ -119,7 +114,7 @@ Iş Ortağı Merkezi 'nde müşteri izinlerini açmak (veya devre dışı bırak
 
 1. Iş Ortağı Merkezi [panosunda](https://partner.microsoft.com/dashboard)oturum açın.
 
-2. Sol gezinti menüsünde, **CSP** ' yi ve ardından **müşteriler** ' i seçin. Bir müşteri listesi görüntülenir.
+2. Sol gezinti menüsünde, **CSP**' yi ve ardından **müşteriler**' i seçin. Bir müşteri listesi görüntülenir.
 
 3. Belirli bir müşteri adı seçin.
 

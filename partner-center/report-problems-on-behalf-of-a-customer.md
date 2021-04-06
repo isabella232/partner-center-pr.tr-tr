@@ -9,18 +9,18 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0cf8769bcf45ba90a714231a7c9db7660efce0b0
-ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
+ms.openlocfilehash: 80c617a97575fea3003ea8652d48396412033cc7
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/25/2021
-ms.locfileid: "105549065"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441957"
 ---
 # <a name="report-a-service-problem-on-behalf-of-a-customer---including-when-and-how-to-do-so"></a>Ne zaman ve nasıl yapılacağı gibi bir müşteri adına bir hizmet sorunu bildirin
 
 **Şunlara uygulanır**
 
-- Microsoft kamu bulutu için iş ortağı Merkezi
+- Microsoft Cloud for US Government için İş Ortağı Merkezi
 
 **Uygun roller**
 

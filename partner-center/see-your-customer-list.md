@@ -9,18 +9,18 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 38ab5b3ef871aa8a969e8da48e2cb6f4cfebf4c6
-ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
+ms.openlocfilehash: 244a8cfc661b371b611a19a5c90ddf131b42a46a
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "105028341"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441974"
 ---
 # <a name="manage-your-customer-list---search-update-or-export-customers-in-partner-center"></a>Müşteri listenizi yönetme-Iş Ortağı Merkezi 'nde müşterileri arama, güncelleştirme veya dışarı aktarma
 
 **Şunlara uygulanır**
 
-- Microsoft kamu bulutu için iş ortağı Merkezi
+- Microsoft Cloud for US Government için İş Ortağı Merkezi
 
 Müşteri kayıtları, Iş Ortağı Merkezi 'nde en önemli bilgi varlıklarınız arasındadır. Müşteri hesabı veritabanınızda arama yapabilir, tüm müşteri veritabanını dışarı aktarabilir veya bir alt kümeyi Excel uyumlu bir virgülle ayrılmış değer dosya biçimine (. csv) aktarabilirsiniz. Ayrıca, bir müşterinin abonelik bilgilerini bir. csv dosyasına dışarı aktarabilirsiniz.
 

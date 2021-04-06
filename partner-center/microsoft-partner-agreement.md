@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 34f43895da6b25ca62e32b0d56eaa401564cca92
-ms.sourcegitcommit: 715368e56fe669d29c7981906e08bc8d7d5d62a4
+ms.openlocfilehash: a3c8b1df8b14d2a1647982ea8d6f27ca59ff6195
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/23/2021
-ms.locfileid: "104880812"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441277"
 ---
 # <a name="learn-about-the-microsoft-partner-agreement-mpa-for-csp-program-partners"></a>CSP program iş ortakları için Microsoft Iş ortağı Sözleşmesi (MPA) hakkında bilgi edinin
 
@@ -24,7 +24,7 @@ ms.locfileid: "104880812"
 
 Microsoft Iş ortağı sözleşmesi, Birleşik ve dijital olarak kabul edilen bir iş ortağı sözleşmesi ile Microsoft iş ortakları sağlar. Microsoft Iş ortağı sözleşmesi, Microsoft, iş ortakları ve müşterilerin veri gizliliği ve güvenliğini desteklemesini, uyumluluğun yükseltilmesini ve ses iş uygulamalarını teşvik etmenize yardımcı olan bir çekirdek kalıcı terim kümesi içerir.
 
-Tüm bulut çözümü sağlayıcısı program iş ortakları (dolaylı sağlayıcılar, dolaylı satıcılar ve doğrudan fatura ortakları dahil), Iş Ortağı Merkezi 'nde MPA 'yı çevrimiçi olarak imzalayabilir. Kamu Bulutu 'nda çalışan doğrudan fatura ve dolaylı sağlayıcı iş ortakları, MPA 'nın Iş Ortağı Merkezi içinden de imzalamasını gerçekleştirebilir.
+Tüm bulut çözümü sağlayıcısı program iş ortakları (dolaylı sağlayıcılar, dolaylı satıcılar ve doğrudan fatura ortakları dahil), Iş Ortağı Merkezi 'nde MPA 'yı çevrimiçi olarak imzalayabilir. ABD kamu için Microsoft Bulut çalışan doğrudan fatura ve dolaylı sağlayıcı iş ortakları, MPA 'nın Iş Ortağı Merkezi içinden de imzalamasını gerçekleştirebilir.
 
 CSP programına katılmayı sürdürmek için, Microsoft Iş ortağı sözleşmesi 'ni 31 Ocak 2020 tarihinden önce imzalamanız gerekir. İş Ortağı Merkezi, artık anlaşmayı Iş Ortağı Merkezi içinden kolayca imzalayabilirseniz size hatırlatır.
 
@@ -41,7 +41,7 @@ CSP programına katılmayı sürdürmek için, Microsoft Iş ortağı sözleşme
  
 1. **Ayarlar** ' dan [iş ortağı profili](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile)' ni seçin.
 
-1. **Program bilgileri** bölümünü denetleyin. MPN program durumu **etkinse** , Iş Ortağı Merkezi 'nde etkin bir MPN iş ortağıdır.
+1. **Program bilgileri** bölümünü denetleyin. MPN program durumu **etkinse**, Iş Ortağı Merkezi 'nde etkin bir MPN iş ortağıdır.
  
 1. MPN program durumu **reddedildi/reddedildi** veya **bekliyor** ise, hesap doğrulama işlemi başarısız oldu. Doğrulama sorununun nasıl çözümleneceğini öğrenmek için [doğrulama işlemini](verification-responses.md) okuyun.
 
@@ -64,7 +64,7 @@ CSP programına katılmayı sürdürmek için, Microsoft Iş ortağı sözleşme
  
 4. **Dolaylı satıcı** durumu **nitelikli** ise, hesabınızı etkinleştirmek üzere MPa 'Yı kabul etmek için [**panonuz genel bakışa**](https://partner.microsoft.com/pcv/dashboard/overview) gidin.
  
-1. Dolaylı satıcı durumu **reddedilirse** veya **reddedildiyse** , hesap doğrulama işlemi başarısız olur. Doğrulama sorununun nasıl çözümleneceğini öğrenmek için [doğrulama işlemini](verification-responses.md) okuyun.
+1. Dolaylı satıcı durumu **reddedilirse** veya **reddedildiyse**, hesap doğrulama işlemi başarısız olur. Doğrulama sorununun nasıl çözümleneceğini öğrenmek için [doğrulama işlemini](verification-responses.md) okuyun.
 
 1. Daha önce dolaylı bir satıcı olarak Iş Ortağı Merkezi 'ne taşınmışsa, genel yönetici kimlik bilgilerini kullanarak Iş Ortağı Merkezi panosuna genel bakış ' da Microsoft Iş ortağı Sözleşmesi ' ni kabul edin. Microsoft Iş ortağı sözleşmesinin zaten [Iş ortağı profili](https://partner.microsoft.com/pcv/accountsettings/partnerprofile) **Program** bilgilerinizden imzalanıp Imzalanmadığını veya CSP Genel Bakış sayfasındaki başlık bildirimini doğrulayabilirsiniz.
 
@@ -75,7 +75,7 @@ CSP ilişki isteğini dolaylı sağlayıcınızda kabul etmeyi unutmayın.
 1. CSP dolaylı satıcı hesabınızla Iş Ortağı Merkezi ' nde oturum açın. Genel yönetici olmanız gerekir.
 1. **[CSP 'ye genel bakış](https://partner.microsoft.com/pcv/dashboard/overview)** sayfasına gidin.  Bir **kabul etme ve devam** etme ya da MPa 'nın imzalandığını belirten yeşil bir başlık GÖRMÜYORSANıZ, MPA 'yı imzalamak için doğru role sahip değilsiniz demektir. MPA 'yı imzalamak için genel yöneticinizle iletişime geçin.
 
-1. **Microsoft Iş ortağı sözleşmesi** 'ni imzalamadan önce görüntüleyip indirmek için aşağıda gösterildiği gibi Microsoft Iş ortağı sözleşmesi bağlantısına tıklayın.
+1. İmzalamadan önce **Microsoft Iş ortağı sözleşmesi** 'ni görüntülemek ve indirmek için aşağıda gösterildiği gibi Microsoft Iş ortağı sözleşmesi bağlantısını seçin.
 
 :::image type="content" source="images/agreement-three.png" alt-text="Yeni MPA sözleşmesi konumu":::
 
@@ -88,7 +88,7 @@ CSP ilişki isteğini dolaylı sağlayıcınızda kabul etmeyi unutmayın.
 
 MPA 'nın imzalanıp imzalanmadığını görmek için:
 
- Şirketinizin genel yöneticisi olarak, [CSP 'ye genel bakış](https://partner.microsoft.com/pcv/dashboard/overview) ' a gıdın ve MPa 'nın kabul edildiğini bildiren yeşil başlığı görmek için denetleyin.
+ Şirketinizin genel yöneticisi olarak, [CSP 'ye genel bakış](https://partner.microsoft.com/pcv/dashboard/overview) ' a gıdın ve MPa 'nın kabul edildiğini bildiren yeşil başlığı görmek için işaretleyin.
 
  
 :::image type="content" source="images/banner-boxed.png" alt-text="MPA kabulünü gösteren yeşil başlık":::

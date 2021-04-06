@@ -9,18 +9,14 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9c1296c0e28412bfece328be2d8033c2d080bfdc
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: 8cc74ac7549dd9c58827eac4ca7ff780062cc519
+ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712282"
+ms.lasthandoff: 04/06/2021
+ms.locfileid: "106441822"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>Bulut Çözümü Sağlayıcısı programına kaydolma
-
-**Şunlara uygulanır**
-
-- İş Ortağı Merkezi  
 
 **Uygun roller**
 
@@ -34,7 +30,7 @@ Bulut çözümü sağlayıcısı programına kaydolmak için önce bir MPN KIMLI
 
 CSP uygulamasını tamamlayabilmeniz için şirketinizin MPN KIMLIĞI, tamamlanmış iş adresi, banka bilgileri ve iş için iş e-postasına, iş ortağı Merkezi için yönetici olarak davranacak şekilde ihtiyacınız olacak.
 
-1. İş e-postanız (yani, Azure AD Kiracı kimlik bilgileriniz) ile iş ortağı merkezi 'nde oturum açın.
+1. İş e-postalarınız (Azure AD Kiracı kimlik bilgileriniz) ile Partner Center 'da oturum açın.
 
 2. İş ortağı profilinizi oluşturun ve MPN KIMLIĞINIZI profilinizle ilişkilendirin.
 Sağladığınız bilgileri gözden geçirip doğrulayabilmeniz birkaç gün sürebilir. İnceleme yaptığımız tamamlandığında size e-posta göndereceğiz.
@@ -73,7 +69,7 @@ Doğrudan bir fatura ortağı olarak, müşterinizin ve Microsoft ile uçtan uca
 |**MPN Kimliği**   |Microsoft İş Ortağı Ağı ve MPN KIMLIĞINDE, satmak istediğiniz konum için etkin bir üyelik.    |
 |**Onay anahtarı**   |Kuruluşunuz adına yasal sözleşmeleri kabul etme ve imzalama yetkisi.|
 |**Destek**   |Müşterilerinize bulut ürün desteğinin ilk düzeyini sağlama özelliği. <br>Gereksinimlerinize bağlı olarak Iş ortakları için gelişmiş destek (ASfP) veya Iş ortakları için Premier Destek (PSfP) için bir Microsoft destek planı. [Destek planlarını karşılaştırın](https://partner.microsoft.com/support/partnersupport).<br> ÖNEMLI: bir destek planı satın almadan önce bir kredi denetimi geçirmeniz gerekir. Kredi denetimini geçtiğinde size e-posta göndereceğiz. |
-|**Gelir gereksinimi**|Dolaylı bir satıcı olarak önceki on iki ay boyunca en az USD300K bulut çözümü sağlayıcısı program yıllık geliri ile Buluşmalıdır. İş ortakları, izleyen on iki aylık geliri Iş ortağı merkezinde gözden geçirebilir.<br/>USD300K son on iki aylık geliri oluşturan satış, Microsoft tarafından incelenmek ve doğrulanmasıdır ve ek bilgi sağlamanız istenebilir. USD300K gelir gereksinimi, bulut gelirine göre hesaplanır ve CSP 'de kalıcı yazılımları hariç bırakır.|
+|**Gelir gereksinimi**|, Önceki 12 ay boyunca dolaylı satıcı olarak en az USD300K bulut çözüm sağlayıcısı programı yıllık geliri ile Buluşmalıdır. İş ortakları, izleyen 12 aylık geliri Iş Ortağı Merkezi 'nde gözden geçirebilir.<br/>USD300K sondaki 12 aylık geliri oluşturan Sales, Microsoft tarafından incelenmek ve doğrulanarak Microsoft tarafından incelenmek ve daha fazla bilgi sağlamanız istenebilir. USD300K gelir gereksinimi, bulut gelirine göre hesaplanır ve CSP 'de kalıcı yazılımları hariç bırakır.|
 |**Alacak hesaplar** |Müşteri faturalandırma ve sağlamayı yönetmek için yer aldığı kurumsal altyapı.|
 |**Öneri**|             |
 |**Yönetilen hizmet**   |En az bir yönetilen hizmet, IP hizmeti veya müşteri çözümü uygulaması. [Yönetilen hizmetler](https://partner.microsoft.com/business-opportunities/managed-services-provider)ekleme hakkında daha fazla bilgi edinin.|
