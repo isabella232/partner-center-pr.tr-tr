@@ -9,19 +9,19 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: aa616678832341ea38f5da6d5062c460ad4d22d9
-ms.sourcegitcommit: f99424919f0d77bbe4f44293d84f9ea1e3317f13
+ms.openlocfilehash: 62dab81a265a4bf1fe926cd1a8f583153821d0ef
+ms.sourcegitcommit: 5ef0b231023395fb4bf01cb82d0eabd83e6cdaf4
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/21/2021
-ms.locfileid: "98658425"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "106557792"
 ---
 # <a name="use-partner-center-to-apply-for-advanced-specializations-and-check-their-status"></a>Ortak Uzmanlıkları uygulamak ve durumlarını denetlemek için Iş Ortağı Merkezi 'ni kullanın
 
 **Uygun roller**
 
 - Genel yönetici
-- MPN Hesap Yöneticisi
+- Hesap yöneticisi
 
 Bu makalede, Iş Ortağı Merkezi panosunun [Gelişmiş bir özelleştirme](advanced-specializations.md)için nasıl kullanılacağı, ilerleme durumunu kontrol etme ve gerekli adımları ve doğrulamaları tamamlaması açıklanmaktadır. Ayrıca, bir denetim veya müşteri başvuruları gerektiren belirli Gelişmiş uzmanlık sağlamak için Iş Ortağı Merkezi 'ni kullanma örnekleri de göreceksiniz.
 

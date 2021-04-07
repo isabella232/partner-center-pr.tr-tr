@@ -9,19 +9,19 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: e180485a6ee769c911b3d2119869661ea118ccc1
-ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
+ms.openlocfilehash: 8c6f6cb5ba700618aebe773cffd566e4077a676d
+ms.sourcegitcommit: 5ef0b231023395fb4bf01cb82d0eabd83e6cdaf4
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96474164"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "106557724"
 ---
 # <a name="advisors-create-and-send-a-trial-invitation-for-clients-to-try-office-365"></a>Danışmanları: Office 365 ' i denemek için istemciler için deneme daveti oluşturma ve gönderme
 
 
 **Uygun roller**
 
-- Danışmanlar
+- Advisor
 
 > [!NOTE]
 > Bu özellik yalnızca abonelik danışmanları yetkilendirilmiş Microsoft Iş ortakları tarafından kullanılabilir.
@@ -44,7 +44,7 @@ Temsilcili yönetim sunmaya sertifikalıyorsanız, deneme davetine, hesabı iste
     - **Deneme abonelikleri**: seçebileceğiniz deneme abonelikleri listesi, istemci ülke veya bölgesinin kullanım konumu tarafından belirlenir.
     - **Temsil edilen yönetim**: Bu seçenek yalnızca, temsilcili yönetim sunmaya yetkili olan iş ortakları tarafından kullanılabilir. İstemcinizin Temsilcili yönetimini sunmak istiyorsanız bu seçeneği belirleyin. Bunu yaparsanız, istemciniz, temsilci ile yönetimi kabul etmeksizin veya kabul etmeden deneme davetini kabul edebilir. Temsilci olarak yönetim hakkında daha fazla bilgi için bkz. [sunulan temsilci yönetimi](customers-revoke-admin-privileges.md).
 
-3. **İleri**’ye tıklayın.
+3. **İleri**’yi seçin.
 
 4. **Deneme davetiniz** sayfasında, deneme davetiyesi BILGILERINI ve URL 'yi kopyalayın ve ardından özelleştirilmiş bir deneme davetiyesi oluşturmak için bir e-posta, belge veya Web sayfasına yapıştırın.
 

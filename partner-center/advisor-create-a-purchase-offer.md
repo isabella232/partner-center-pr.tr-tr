@@ -9,19 +9,19 @@ author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 56a8438ad2503ab22151ed4da7e8ef4b43794543
-ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
+ms.openlocfilehash: a60b75c9eee3601b488fd52fe22b4d2551b526e3
+ms.sourcegitcommit: 5ef0b231023395fb4bf01cb82d0eabd83e6cdaf4
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96474147"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "106557758"
 ---
 # <a name="advisors-create-a-purchase-offer"></a>Danışmanları: satın alma teklifi oluşturma
 
  
 **Uygun roller**
 
-- Danışmanlar
+- Advisor
 
 
 > [!NOTE]
@@ -48,7 +48,7 @@ Satın alma teklifini oluşturduğunuzda, **satın alma teklifi oluştur** Sihir
     - **Lisans sayısı**: bir abonelik seçtiğinizde, satın alma teklifine dahil etmek istediğiniz lisansların sayısını yazın.
     - **Temsil edilen yönetim**: Bu seçenek yalnızca, temsilcili yönetim sunmaya yetkili olan iş ortakları tarafından kullanılabilir. İstemcinizin Temsilcili yönetimini sunmak istiyorsanız bu seçeneği belirleyin. Bunu yaparsanız, istemciniz satın alma teklifini kabul edebilir veya kabul etmeden kabul edebilir.
 
-3. **İleri**’ye tıklayın.
+3. **İleri**’yi seçin.
 
 4. **Gönder** sayfasında, satın alma teklif bilgilerini ve URL 'sini kopyalayın ve ardından özelleştirilmiş bir satın alma teklifi oluşturmak için bir e-postaya, belgeye veya Web sayfasına yapıştırın.
 

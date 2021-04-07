@@ -9,19 +9,19 @@ author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 83acde5e5cb29ea8249bfbba78a15cf3efbdf271
-ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
+ms.openlocfilehash: 31d8be49e0270f32c472f3fbe0a54d5ceadc9098
+ms.sourcegitcommit: 5ef0b231023395fb4bf01cb82d0eabd83e6cdaf4
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96474181"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "106557741"
 ---
 # <a name="advisors-build-your-client-base-with-office-365-trial-invitations-and-purchase-offers"></a>Danışmanları: Office 365 deneme davetleri ve satın alma tekliflerle istemci tabanınızı derleme
 
 
 **Uygun roller**
 
-- Danışmanlar
+- Advisor
 
 
 Yetkili bir Microsoft danışmanı olarak, **Iş Ortağı Merkezi** , istemci tabanınızı büyütmenize ve istemcileriniz ile yatırım ilişkileri oluşturmanıza yönelik bir fırsat sunar. Iş Ortağı Merkezi ile istemcilerinizi deneme davetlerini ve satın alma tekliflerinizi gönderebilir ve sağlama yetkiniz olan hizmetlere bağlı olarak onlara Temsilcili Yönetim Hizmetleri sunabilirsiniz.
@@ -45,7 +45,7 @@ Deneme davetiyeleri hakkında daha fazla bilgi için bkz. [deneme davetiyesi olu
 > [!NOTE]
 > Bu özellik yalnızca abonelik danışmanları yetkilendirilmiş Microsoft Iş ortakları tarafından kullanılabilir.
 
-Müşterilerinize bir deneme daveti gönderdikten sonra, bir satın alma teklifiyle izleyin. Bir teklifi, müşteri ihtiyaçlarınızı karşılamak için gereken hizmetleri ve doğru kullanıcı lisansı sayısını içerecek şekilde özelleştirebilirsiniz. Temsilcili yönetim sunmaya sertifikalıdıysanız, satın alma teklifine, aboneliğinizi Müşterinizin adına yönetmenizi sağlayan bir seçenek ekleyebilirsiniz.
+Müşterilerinize bir deneme daveti gönderdikten sonra, bir satın alma teklifiyle izleyin. Bir teklifi özelleştirerek, müşteri gereksinimlerinize özgü hizmetleri ve doğru sayıda kullanıcı lisansını içerir. Temsilcili yönetim sunmaya sertifikalıdıysanız, satın alma teklifine, aboneliğinizi Müşterinizin adına yönetmenizi sağlayan bir seçenek ekleyebilirsiniz.
 
 Satın alma teklifini oluşturduğunuzda sizin için özel bir URL oluşturulur. URL, sizi Abonelik danışmanı olarak tanımlayan katıştırılmış bir kod içerir. Bu URL 'YI bir müşteri veya birçok müşteri için kullanabilirsiniz. URL 'YI bir e-postaya gönderin veya Web sitenizde gönderin.
 

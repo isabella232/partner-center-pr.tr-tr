@@ -9,21 +9,21 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 61bb4bf8b340ac35c929738c43e8ef2da2e64aca
-ms.sourcegitcommit: f99424919f0d77bbe4f44293d84f9ea1e3317f13
+ms.openlocfilehash: 1f941894c8d4ac8611c4b1869bd731d6b56ec4ae
+ms.sourcegitcommit: 5ef0b231023395fb4bf01cb82d0eabd83e6cdaf4
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/21/2021
-ms.locfileid: "98658408"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "106557775"
 ---
 # <a name="earn-an-advanced-specialization-to-showcase-your-validated-capabilities"></a>Doğrulanan olanaklarınızı göstermek için gelişmiş bir özelleşme kazanın
 
 **Uygun roller**
 
 - Genel yönetici
-- MPN Hesap Yöneticisi
+- Hesap yöneticisi
 
-Microsoft Gelişmiş uzmanlık, iş ortağının kazanılabilecek ilgili [altın uzmanlık](learn-about-competencies.md) özelliklerini oluşturur. Altın uzmanlık ve ilgili gelişmiş uzmanlıklarla birlikte, iş ortaklarının, yeteneklerini müşterilere daha da ayırt etmesine olanak tanır.
+Microsoft Gelişmiş uzmanlık, bir ortağın kazanılabilecek ilgili [altın uzmanlık](learn-about-competencies.md) özelliklerini oluşturur. Altın uzmanlık ve ilgili gelişmiş uzmanlıklarla birlikte, iş ortaklarının, yeteneklerini müşterilere daha da ayırt etmesine olanak tanır.
 
 Bir iş ortağı, gelişmiş bir özelleşmeyi kazanmak için genellikle müşteri başvuruları alma, üçüncü taraf bir denetim, ilgili bir beceri kümesi ve belirli performans ölçümlerine erişme gibi yoğun gereksinimleri karşılar.
 
