@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 44f4e45b53d6da7c8ed08678f8b05719cc9c2d7a
-ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
+ms.openlocfilehash: 132a44e1e81f28dd28bdcd95cee209cb5c046ff6
+ms.sourcegitcommit: 58432bbb7eb0aed123547da65642ca728cb9b32c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106502455"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "106964417"
 ---
 # <a name="common-billing-scenarios-for-csp-program-partners-working-in-partner-center"></a>Iş Ortağı Merkezi 'nde çalışan CSP program iş ortakları için genel faturalandırma senaryoları
 
@@ -26,6 +26,22 @@ ms.locfileid: "106502455"
 - Satış Aracısı
 
 Bu makalelerde, yeni abonelikler ekledikten, bir aboneliğe lisans sayısını ayarladıktan veya bir aboneliği iptal ettikten sonra faturanızda görmeyi beklemeniz gerekenleri açıklanmaktadır. Kullanım tabanlı ve lisans tabanlı abonelikler gibi diğer [Iş ortağı merkezi faturalandırma türleri](billing-different-types.md)farklı şekilde faturalandırılır.
+
+
+## <a name="change-billing-frequency"></a>Faturalama sıklığını değiştirme
+
+Faturalandırma sıklığı, sipariş düzeyinde değiştirilir ve sıklık değiştirildikten sonra, düzeltilen faturalandırma çevrimi bu sırada tüm aboneliklere uygulanır. 
+
+Bir müşteri için çevrimiçi bir hizmetin faturalandırma sıklığını değiştirmek için:
+
+1. [Iş Ortağı Merkezi panosunda oturum açın](https://partner.microsoft.com/dashboard/home).
+2. Sol taraftaki menüde **müşteriler**' i seçin.
+3. Abonelik Faturalandırma sıklığını değiştirmek istediğiniz müşteriyi seçin.
+4. Müşterinin **abonelikler** sayfasında, değiştirmek istediğiniz aboneliği seçin.
+5. **Ayrıntılar** sayfasında, **faturalama sıklığı** altında **aylık** veya **yıllık**' ı seçin. Faturalama sıklığını değiştirme hakkında önemli bilgilerin yanı sıra, değiştirilecek Aboneliklerin listesini içeren bir onay sayfası görürsünüz.
+6. Değişikliği yapmak için **Tamam ' ı** seçin (veya geri almak Için **iptal edin** ).
+
+## <a name="billing-scenarios"></a>Faturalandırma senaryoları
 
 | Faturalandırma türü | Kapsanan senaryolar |
 | --------------- | ----------------- |

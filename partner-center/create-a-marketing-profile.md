@@ -9,12 +9,12 @@ author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 80f7882da44c8072db1dd287f6fbee4f79341d29
-ms.sourcegitcommit: af8cfd89218f55467bd3bbd4102f7baf890e5066
+ms.openlocfilehash: db9166b0d2c4fe1c9f61921a9632c9704eaca74d
+ms.sourcegitcommit: 58432bbb7eb0aed123547da65642ca728cb9b32c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/16/2021
-ms.locfileid: "103570167"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "106964416"
 ---
 # <a name="create-a-business-profile-to-get-microsoft-sales-leads-and-help-customers-find-you"></a>Microsoft satış müşteri adaylarını almak ve müşterilerin sizi bulmasına yardımcı olmak için bir iş profili oluşturun
 
@@ -84,16 +84,7 @@ Iş ortağı uzmanlığı bölümüne kendi etiketlerinizi ekleyerek başlayın.
 
 Aramada kullanılan diğer Etiketler:
 
--  **Uzmanlığa ait Etiketler** , şirketinizin yeteneklerini gösteren bir kazanılan atamalardır.
--  **Onay etiketleri** , Microsoft veya sizinle çalışan müşterilerimiz işinizi onaylayan şekilde kazanılmakta.
-
-#### <a name="allow-microsoft-to-endorse-my-areas-of-expertise"></a>Microsoft 'un uzmanlık alanlarımı onayçalıştırmasına izin ver
-
-Bu ayarı işaretli bırakmanız önerilir. 
-
-Iş Ortağı Merkezi aracılığıyla müşterilerle başarıyı gösterir veya diğer Microsoft sertifika veya programlarına katılırsanız, bu başarıyı katkıda bulunan belirli ürünleriniz, hizmetleriniz ve endüstriler için otomatik olarak onaylamaları ekleyeceğiz. Onaylama, arama sonuçlarında önemli bir faktördür.
-
-Profilinizde daha fazla görünmesini istemiyorsanız hizmetler sağladığınız ürünler varsa, bu kutunun işaretini kaldırın ve profilinizi el ile yönetebilirsiniz. Bu onaylama, müşteriler görünüminizden gizlenir, ancak bunları dilediğiniz zaman daha sonra profilinize ekleyebilirsiniz.
+- **Uzmanlığa ait Etiketler** , şirketinizin yeteneklerini gösteren bir kazanılan atamalardır.
 
 ### <a name="customer-preferences"></a>Müşteri tercihleri
 
@@ -121,13 +112,12 @@ Bir konumun adresini güncelleştirmek için önce konumu **silip** yeniden ekle
 
 Profilinizi yayımladıktan sonra, [çözüm bulma sağlayıcısında](https://www.microsoft.com/solution-providers/home) 24 saat içinde arama yapmak için güncelleştirmeler görüntülenir.
 
-## <a name="improve-the-visibility-of-your-profile"></a>Profilinizin görünürlüğünü geliştirme 
+## <a name="improve-the-visibility-of-your-profile"></a>Profilinizin görünürlüğünü geliştirme
 
 - **[İstekleri hızla yanıtlayın](manage-leads.md)**. Bir müşteri başvurusu aldığınızda, daha hızlı bir yanıt, gelecekteki müşterilere yönelik arama sayfalarında daha iyi sonuçlar elde edebilir.
 
 - **Etiketlerinizi seçmeli olarak yapın**.  Şirketinizin tekliflerini, çözümlerini, değer prokonumlarını ve başarılı bir şekilde başarıyla gösterebileceğiniz benzersiz konumu en iyi şekilde temsil eden daha az etikete sahip olmak daha iyidir.  Bu, gelecekteki arama sonuçlarında ücret ödeyecektir.
 - Ürünlerimizde yeterliliğinizi göstermek için Microsoft ile **uzmanlığa yönelik Etiketler** kazanın.
-- İşinizi **beğendiğiniz müşterilerden onay etiketleri** kazanın.
 
 ## <a name="next-steps"></a>Sonraki adımlar
 

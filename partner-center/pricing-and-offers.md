@@ -9,12 +9,12 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8aeb47f6968e364eecb05efd2c0d4a1b3e1ba267
-ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
+ms.openlocfilehash: b960a903c2ba85963047033094636da6dc599f90
+ms.sourcegitcommit: 58432bbb7eb0aed123547da65642ca728cb9b32c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/27/2021
-ms.locfileid: "105633769"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "106964434"
 ---
 # <a name="pricing-and-offers-for-office-365-dynamics-crm-enterprise-mobility-suite-azure-and-more"></a>Office 365, Dynamics CRM, Enterprise Mobility Suite, Azure ve daha fazlası için fiyatlandırma ve teklifler
 
@@ -28,7 +28,7 @@ ms.locfileid: "105633769"
 - Satış Aracısı
 - Faturalama yöneticisi
 
-En son bulut çözümü sağlayıcısı programlarını ve tekliflerini görmek için, Iş ortağı portalından **satış > fiyatlandırma ve teklifleri**' ne gidin. Kullanılabilir farklı ürün türleri için ayrı fiyat listeleri bulacaksınız. **Fiyatlandırma ve teklifler** sayfasında aşağıdaki fiyat listeleri mevcuttur:
+En son bulut çözümü sağlayıcısı programlarını ve tekliflerini görmek için, Iş ortağı portalı panosundan **satış > fiyatlandırma ve teklifleri**' ne gidin. Kullanılabilir farklı ürün türleri için ayrı fiyat listeleri bulacaksınız. **Fiyatlandırma ve teklifler** sayfasında aşağıdaki fiyat listeleri mevcuttur:
 
 - **Lisans tabanlı hizmetler** , Office 365, Enterprise Mobility ve Security E3 'in yanı sıra Dynamics 365 için fiyatlandırma bilgilerini içerir. Lisans tabanlı fiyatlandırma bölümü, geçerli ve önizleme fiyatlandırmasının yanı sıra teklif listesi matrisini içerir. Fiyat listeleri, tüm desteklenen para birimlerindeki teklifler için liste fiyatını ve tahmini perakende fiyatlarını (ERP) içerir. Teklif listesi matrisi, Pazar kullanılabilirliği ve tekliflerle ilgili diğer önemli bilgileri içerir. Bu dosyalar her ayın ilk gününde güncelleştirilir.
 - **Kullanım tabanlı hizmetler** Microsoft Azure ve Visual Studio için fiyatlandırma bilgilerini içerir. Ayrıca, [CSP Fiyatlandırma Hesaplayıcı ' da Azure hizmetlerini](https://azure.microsoft.com/pricing/calculator/)kullanabilirsiniz. Kullanım tabanlı indirme, hem desteklenen tüm para birimleri için CSP fiyat listelerini hem de ERP içindeki paylaşılan hizmetler fiyatlandırma dosyalarını içerir. Bu dosyalar her ayın ilk gününde güncelleştirilir.

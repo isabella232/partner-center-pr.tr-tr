@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 21cc9ddcffe2e9a29e920e235e79a5ce0bbd86b8
-ms.sourcegitcommit: 98f41b32c39adad83ed29050084d2d31057b7c2e
+ms.openlocfilehash: 051d638024200fe58ca5e07f42b758b304b58219
+ms.sourcegitcommit: 58432bbb7eb0aed123547da65642ca728cb9b32c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/29/2021
-ms.locfileid: "99042727"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "106964395"
 ---
 # <a name="billing-overview-for-csp-program-partners-working-in-partner-center"></a>İş Ortağı Merkezi’nde çalışan CSP programı iş ortakları için faturalamaya genel bakış 
 
@@ -67,11 +67,7 @@ Tek seferlik ve yinelenen faturalama için, fatura dönemi takvim ayıyla uyumlu
 
 Fiyat listeleri aylık olarak güncelleştirilir. Önizleme fiyatı listelerinin bir (1) ayı önceden kullanılabilir.
 
-Fiyat listelerini görüntülemek için:
-
-1. [Iş Ortağı Merkezi panosunda oturum açın](https://partner.microsoft.com/dashboard/home).
-2. Sol taraftaki menüde, **Satış**' ı seçin, ardından **fiyatlandırma ve teklifler**' i seçin.
-3. **Fiyatlandırma ve teklifler** sayfasında, 6 aylık fiyat listesi (geçerli ay dahil) ve önizleme fiyat listelerini (uygun olduğunda) görebilirsiniz.
+En son bulut çözümü sağlayıcısı programlarını ve tekliflerini görmek için, Iş ortağı portalı panosundan **satış > fiyatlandırma ve teklifleri**' ne gidin. Kullanılabilir farklı ürün türleri için ayrı fiyat listeleri bulacaksınız. **Fiyatlandırma ve teklifler** sayfasında aşağıdaki fiyat listeleri mevcuttur:
 
 **Lisans tabanlı** fiyatlar, genellikle satın alma tarihinden itibaren 12 ay boyunca abonelik dönemi için garanti edilir. 
 
@@ -99,19 +95,6 @@ Faturalama ilişkisi Microsoft ile sizin arasında olduğundan, ayrıntıların�
 
 Yerel vergi Ofisinizden veya vergi danışmanınızdan daha fazla vergi ayrıntısı bulabilirsiniz.
 
-### <a name="change-billing-frequency"></a>Faturalama sıklığını değiştirme
-
-Faturalandırma sıklığı, sipariş düzeyinde değiştirilir ve sıklık değiştirildikten sonra, düzeltilen faturalandırma çevrimi bu sırada tüm aboneliklere uygulanır. 
-
-Bir müşteri için çevrimiçi bir hizmetin faturalandırma sıklığını değiştirmek için:
-
-1. [Iş Ortağı Merkezi panosunda oturum açın](https://partner.microsoft.com/dashboard/home).
-2. Sol taraftaki menüde **müşteriler**' i seçin.
-3. Abonelik Faturalandırma sıklığını değiştirmek istediğiniz müşteriyi seçin.
-4. Müşterinin **abonelikler** sayfasında, değiştirmek istediğiniz aboneliği seçin.
-5. **Ayrıntılar** sayfasında, **faturalama sıklığı** altında **aylık** veya **yıllık**' ı seçin. Faturalama sıklığını değiştirme hakkında önemli bilgilerin yanı sıra, değiştirilecek Aboneliklerin listesini içeren bir onay sayfası görürsünüz.
-6. Değişikliği yapmak için **Tamam ' ı** seçin (veya geri almak Için **iptal edin** ).
-
 ### <a name="adjustmentscreditscancellations"></a>Ayarlamalar/krediler/Iptaller
 
 Lisanslı hizmetler için iptal kredileri, orta-döngülü iptalleri için kullanılmayan günler için Pro derecelendirilir (Ayrıca, bu formüle göre lisans azalır:
@@ -121,6 +104,7 @@ Lisanslı hizmetler için iptal kredileri, orta-döngülü iptalleri için kulla
 Microsoft, lisans tabanlı hizmetlerin iptali için erken sonlandırma ücretleri alınmaz.
 
 ### <a name="billing-rules"></a>Faturalandırma kuralları
+
 Bugün iki tür faturalandırma sıklığı vardır: yıllık & aylık.  
 Ölçülen hizmet ücretleri, fatura döngüsünün içinde değişebilir.
 
@@ -146,24 +130,6 @@ Bugün iki tür faturalandırma sıklığı vardır: yıllık & aylık.
 
 - Aldığınız fatura yalnızca söz konusu ay için tahakkuk edilen ücretlere sahip olur. 
 
-## <a name="manage-one-time-billing"></a>Tek seferlik faturalandırmayı yönetme
-
-### <a name="billing-status-invoices-and-reconciliation-files"></a>Faturalama durumu, faturalar ve mutabakat dosyaları
-
-Geçerli faturalandırma durumunuzu, faturalarınızı ve mutabakatı dosyalarını görüntülemek için:
-
-1. İş Ortağı Merkezi [panosunda](https://partner.microsoft.com/dashboard/home) oturum açın.
-2. Sol taraftaki menüde **faturalandırma**' i seçin **ve ardından yinelenen ve tek seferlik satın** alma ' yı seçin.
-3. Faturalama durumu sayfasında daha ayrıntılı bilgi görüntülemek için bir fatura veya mutabakat dosyası seçin.
-
-### <a name="customer-order-history"></a>Müşteri sipariş geçmişi
-
-Müşterinin sıra geçmişini görüntülemek için:
-
-1. İş Ortağı Merkezi [panosunda](https://partner.microsoft.com/dashboard/home) oturum açın.
-2. Sol taraftaki menüde **müşteriler**' i seçin.
-3. **Müşteriler** sayfasında, sipariş geçmişini görüntülemek istediğiniz müşteriyi bulun. Müşterinin kaydını genişletmek için aşağı oku seçin.
-4. Müşterinin sıra geçmişini görüntülemek için **siparişleri görüntüle** ' yi seçin.
 
 ### <a name="credit-notes"></a>Kredi notları
 
@@ -178,3 +144,6 @@ Aşağıdaki nedenlerden dolayı kredi veya fatura istemeniz gerekebilir:
 
 - [Faturanızı ve mutabakat dosyanızı anlayın](read-your-bill.md)
 - [CSP program iş ortakları için genel faturalandırma senaryoları](common-billing-scenarios.md)
+- [Faturalama sıklığını değiştirme](common-billing-scenarios.md)
+- [Müşteri sipariş geçmişi](csp-offers.md) 
+- [Fiyatlandırma ve teklifler](pricing-and-offers.md)
