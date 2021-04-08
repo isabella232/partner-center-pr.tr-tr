@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e6b0de64a9ac3d86c77cc47f6b69b8a132606309
-ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
+ms.openlocfilehash: c5617bbec82bd8e4b6fbeb2e6a33608889f14502
+ms.sourcegitcommit: 58432bbb7eb0aed123547da65642ca728cb9b32c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106502876"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "106964349"
 ---
 # <a name="overview-of-partner-offers-in-the-cloud-solution-provider-program"></a>Bulut Çözümü Sağlayıcısı programında sunulan iş ortağı tekliflerine genel bakış
 
@@ -105,6 +105,15 @@ Aşağıdaki liste, **Ürün Ekle** sayfasındaki yeni alanların her birini tan
 
 8. Sipariş numaranız dahil olmak üzere siparişinizin ayrıntıları sonraki sayfada görüntülenir. **Sipariş geçmişi** sayfanıza gitmek için **bitti** ' yi seçin.
 
+### <a name="customer-order-history"></a>Müşteri sipariş geçmişi
+
+Müşterinin sıra geçmişini görüntülemek için:
+
+1. İş Ortağı Merkezi [panosunda](https://partner.microsoft.com/dashboard/home) oturum açın.
+2. Sol taraftaki menüde **müşteriler**' i seçin.
+3. **Müşteriler** sayfasında, sipariş geçmişini görüntülemek istediğiniz müşteriyi bulun. Müşterinin kaydını genişletmek için aşağı oku seçin.
+4. Müşterinin sıra geçmişini görüntülemek için **siparişleri görüntüle** ' yi seçin.
+ 
 ## <a name="rules-for-special-segments"></a>Özel segmentler için kurallar
 
 Lisans tabanlı bazı teklifler yalnızca belirli koşullar altında satın alınabilir. Özel segmentler, eğitim, kar amacı gütmeyen veya kamu topluluk bulutu (GCC) tekliflerini içerir. Bu satın alma koşulları hakkındaki ayrıntılar, [özel segmentler için satın alma kuralları konusunda](get-special-pricing-for-offers.md#purchase-rules-for-special-segments)bulunabilir.

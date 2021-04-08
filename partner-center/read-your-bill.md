@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 43c2605d750d35bc2e0095b1fed413ed91a1a28e
-ms.sourcegitcommit: 1a0c83e2089cb58221bdb24525127378f5197ea8
+ms.openlocfilehash: e93bc59d4ddb8ac2323807a716d7ba6404b00fce
+ms.sourcegitcommit: 58432bbb7eb0aed123547da65642ca728cb9b32c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/14/2021
-ms.locfileid: "98215824"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "106964366"
 ---
 # <a name="understand-your-bill-and-reconciliation-file---learn-how-to-find-them-in-partner-center"></a>Faturanızı ve mutabakat dosyanızı anlayın-bunları Iş Ortağı Merkezi 'nde nasıl bulacağınızı öğrenin
 
@@ -27,6 +27,20 @@ ms.locfileid: "98215824"
 
 
 **Faturanızda** **tüm iş ortağı merkezi ücretlerinizin** (program, tüm ürünler ve tüm müşteriler) bir özeti yer alınmaktadır. 
+
+## <a name="find-your-bill-and-reconciliation-file"></a>Faturanızı ve mutabakat dosyanızı bulun 
+
+Faturanızı, Iş Ortağı Merkezi ' nde panonun faturalama sayfasında bulabilirsiniz. Bu sayfada faturalandırma geçmişinizi, harcama eğilimlerini ve mutabakatı dosyalarını da bulabilirsiniz. 
+
+1. Iş Ortağı Merkezi [panosunda](https://partner.microsoft.com/dashboard/home)oturum açın. 
+
+2. Sol taraftaki menüde **faturalandırma**' i seçin. 
+
+3. Faturalama durumu sayfasında daha ayrıntılı bilgi görüntülemek için bir fatura veya mutabakat dosyası seçin. 
+
+En son faturanızda bir bağlantıyı, son fatura tarihinden itibaren hesap bakiyesi altında sayfanın en üstünde bulabilirsiniz. 
+
+Önceki faturaları faturalandırma geçmişi bölümünde bulabilirsiniz. Uygun yılı seçin ve ardından uygun fatura döneminin yanındaki aşağı açılan oku seçin. Bu dönemin faturasını indirmek için faturalar (. PDF) yanındaki bağlantıyı seçin. 
 
 ## <a name="invoice-types"></a>Fatura türleri
 
@@ -52,19 +66,6 @@ Microsoft, lisans tabanlı ücretler (Office 365 gibi) ve kullanım tabanlı üc
 
 - İş ortağı, farklı bir fatura PDF 'si ve EUR (veya iş ortağı faturalandırma para birimi) ile 145p teklifi için ücretleri kapsayan bir mutabakat dosyası alır. 
 
-## <a name="find-your-bill"></a>Faturanızı bulun 
-
-Faturanızı, Iş Ortağı Merkezi ' nde panonun faturalama sayfasında bulabilirsiniz. Bu sayfada faturalandırma geçmişinizi, harcama eğilimlerini ve mutabakatı dosyalarını da bulabilirsiniz. 
-
-1. İş Ortağı Merkezi [panosunda](https://partner.microsoft.com/dashboard/home) oturum açın. 
-
-2. Sol taraftaki menüde **faturalandırma**' i seçin. 
-
-3. Faturalama sayfasında, indirmek istediğiniz faturayı seçin. 
-
-En son faturanızda bir bağlantıyı, son fatura tarihinden itibaren hesap bakiyesi altında sayfanın en üstünde bulabilirsiniz. 
-
-Önceki faturaları faturalandırma geçmişi bölümünde bulabilirsiniz. Uygun yılı seçin ve ardından uygun fatura döneminin yanındaki aşağı açılan oku seçin. Bu dönemin faturasını indirmek için faturalar (. PDF) yanındaki bağlantıyı seçin. 
 
 ## <a name="understanding-invoice-pdf"></a>Fatura PDF 'sini anlama 
 
