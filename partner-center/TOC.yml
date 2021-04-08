@@ -390,8 +390,6 @@
     - name: Fatura temel bilgileri
       href: billing-basics.md
       displayName: invoice
-    - name: İş Ortağı Merkezi'ndeki faturalama türleri
-      href: billing-different-types.md
     - name: Faturanızı anlama
       href: read-your-bill.md
       displayName: invoice
