@@ -1,28 +1,37 @@
 ---
-title: Yazılım Güvencesi eğitimi fiş programı
+title: Yazılım Güvencesi eğitimi fiş programı kullanımdan kaldırma
 ms.topic: article
-ms.date: 12/09/2020
+ms.date: 04/07/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Eğitim ve kurumsal müşterilere planlama sunmaya yönelik telafi sağlamak için yazılım güvencesi eğitim fişi programını nasıl kaydedebileceğinizi öğrenin.
+description: Yazılım Güvencesi eğitimi fiş programı kullanımdan kaldırılıyor.
 author: mowree
 ms.author: mowrim
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: 786f69858dc90a9c0993e88c4900a647a07ba81f
-ms.sourcegitcommit: 175fa04ba45a1133b77d8055a0123561bd987415
+ms.openlocfilehash: ddff97664474230224c788f732ac1f32f377abf7
+ms.sourcegitcommit: 799d4d52afc511d0e0fad0e59dbdfc60081a1aa8
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "96926605"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "107024985"
 ---
-# <a name="software-assurance-training-voucher-satv-program-in-partner-center"></a>İş Ortağı Merkezi’nde Yazılım Güvencesi Eğitim Belgesi (SATV) programı
+# <a name="training-vouchers-program-retirement"></a>Eğitim fişleri program emekli
 
-Yazılım Güvencesi iş ortağı programlarına kaydolarak işletmenizi büyütün. Microsoft, yazılım güvencesi sahibi olan kurumsal müşterilere eğitim, planlama ve diğer hizmetleri sunmaya yönelik iş ortakları telafi ediyor.
+Eğitim fişleri Yazılım Güvencesi avantajlarından tamamen kullanımdan kaldırılıyor, ancak müşteriler, fişler geçerli olduğu sürece eğitmen 'e yönelik eğitim için fiş günlerini kullanmaya devam edebilir. Bunlar, program emekliliğinizi önde gelen önemli tarihlerdir: 
 
-Microsoft, onaylanan bir yazılım güvencesi eğitimi iş ortağı olarak, yazılım güvencesi kapsamında sahip oldukları fişler için kurumsal müşterilere Exchange 'de teknik eğitim sağlamak için sizi telafi ediyor. Bu programa katılmak, daha fazla müşteri çekmenize ve güvenilir öğrenme iş ortakları olmaya başlamanıza yardımcı olabilir.
+- 1 Şubat 2020: eğitim fişi kataloğundan Azure eğitimi kullanımdan kaldırıldı.
+- 1 Şubat 2020: eğitim fişleri artık planlama hizmetleri günlere dönüştürülemez.  
+- 1 Şubat 2021: müşteriler artık eğitim avantajlarına sahip değildir. 
+- 30 Haziran 2021: müşterilerin eğitim fişleri oluşturması/ataması için geçen gün. Kalan tüm eğitim fişi günleri 1 Temmuz 2021 ' den itibaren kaldırılacak.
+- 1 Ocak 2022: iş ortaklarının eğitim fişleri kullanmaya yönelik son gün. İş ortağı, ödeme isteği işlemini tamamlamaya çalıştıktan sonra 60 gün sonra olur.  
 
-## <a name="get-started"></a>başlarken
+>[!NOTE]
+>Fiş yaşam döngüsünde hiçbir değişiklik yoktur. Bir fiş oluşturulduktan/atandıktan sonra, fiş kullanım süresi dolmadan önce 180 gün içinde fiş rezervasyonu, eğitim oturumları ve fiş satın alma işlemi yapılmalıdır.  Eğitim fişi kullanımdan kaldırılması hakkında daha fazla bilgi için [burada](https://partner.microsoft.com/resources/collection/software-assurance-benefit-changes#/) bulunan SSS bölümüne bakın (oturum açmak gerekir).  Eğitim avantajı ürün kataloğunda SATV uygun eğitim kurslarının tam listesine bakın.  Lütfen tüm soruları bölgesel Iş ortağı destek ekibinize yönlendirin: [EMEA Iş ortağı desteği](mailto:savoucher@msdirectservices.com); [Genel Iş ortağı desteği](https://partner.microsoft.com/dashboard/support/servicerequests).
+
+## <a name="until-june-30-2021"></a>30 Haziran 2021 tarihine kadar
+
+### <a name="get-started"></a>başlarken
 
 Yazılım Güvencesi Eğitim Hizmetleri 'ne yeni başladıysanız aşağıdaki adımları izleyin. Eğitim fişi programında zaten etkinse, aşağıdan dört (4) adımda başlayın. 
 

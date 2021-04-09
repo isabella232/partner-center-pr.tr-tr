@@ -1,31 +1,43 @@
 ---
-title: Yazılım Güvencesi Planlama Hizmetleri
+title: Yazılım Güvencesi Planlama Hizmetleri kullanımdan kaldırma
 ms.topic: article
-ms.date: 12/02/2020
+ms.date: 04/07/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Yazılım Güvencesi kapsamındaki müşterilere eğitim ve diğer hizmetler sunabilmeniz için Microsoft planlama hizmetleri görevlendirmelerine nasıl kaydolyacağını ve hak alabileceğinizi öğrenin.
+description: Microsoft planlama hizmetleri kullanımdan kaldırılıyor.
 author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4b931f616417d8781b8864d7bcb9b0d6d47560ec
-ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
+ms.openlocfilehash: cb3f6d6d4b719a8c4988ef935bde07c9660942c5
+ms.sourcegitcommit: 799d4d52afc511d0e0fad0e59dbdfc60081a1aa8
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "105028239"
+ms.lasthandoff: 04/07/2021
+ms.locfileid: "107025002"
 ---
-# <a name="software-assurance-planning-services-in-partner-center"></a>İş Ortağı Merkezi’nde Yazılım Güvencesi Planlama Hizmetleri
+# <a name="software-assurance-planning-services-retirement"></a>Yazılım Güvencesi Planlama Hizmetleri kullanımdan kaldırma
 
 **Uygun roller**
 
 - Genel yönetici
 - MPN iş ortağı Yöneticisi
 
-Onaylanan bir planlama hizmetleri iş ortağı olarak, Microsoft, kurumsal müşterilere yönelik dağıtım öncesi planlama görevlendirmeleri sağlamak için sizi telafi eden bir hizmet sunar. Bu programa katılmak, daha fazla müşteri çekmenize, güvenilir planlama iş ortağınızdan ve ek müşteri görevlendirmesine yol açabilmeniz için yardımcı olabilir.
 
-## <a name="get-started"></a>başlarken
+Planlama Hizmetleri, Yazılım Güvencesi avantajlarından tamamen kullanımdan kaldırılıyor, ancak müşteriler iş ortaklarıyla çalışmaya devam ederek, fişler geçerli olduğunda, görevlendirmeler için planlama hizmetleri günlerini kullanabilir. Bunlar, program emekliliğinizi önde gelen önemli tarihlerdir: 
+
+- 1 Şubat 2020: planlama hizmetleri bulut görevlendirmeler kullanımdan kaldırıldı.  
+- 1 Şubat 2020: eğitim fişleri artık planlama hizmetleri günlere dönüştürülemez.  
+- 1 Şubat 2021: müşteriler artık Planlama Hizmetleri avantajlarına sahip değildir. 
+- 30 Haziran 2021: müşterilerin planlama hizmetleri fişleri oluşturması/ataması için geçen gün. Kalan tüm planlama hizmetleri günleri 1 Temmuz 2021 ' den itibaren kaldırılacak.
+- 1 Ocak 2022: iş ortaklarının planlama hizmetleri makbuzlarını kullanma son günü. İş ortağı, ödeme isteği işlemini tamamlamaya çalıştıktan sonra 60 gün sonra olur.  
+
+>[!NOTE]
+>Fiş yaşam döngüsünde hiçbir değişiklik yoktur. Bir fiş oluşturulduktan/atandıktan sonra, fiş kullanım süresi dolmadan önce 180 gün içinde fiş rezervasyonu, müşteri katılımı ve fiş teminat doldurulmalıdır.  Planlama Hizmetleri program kullanımdan kaldırma hakkında daha fazla bilgi için daha fazla bilgi için [burada](https://partner.microsoft.com/resources/collection/software-assurance-benefit-changes#/) bulunan SSS bölümüne bakın (oturum açmak gerekir).  Lütfen tüm soruları bölgesel Iş ortağı destek ekibinize yönlendirin: [EMEA Iş ortağı desteği](mailto:savoucher@msdirectservices.com); [Genel Iş ortağı desteği](https://partner.microsoft.com/dashboard/support/servicerequests)
+
+## <a name="until-june-30-2021"></a>30 Haziran 2021 tarihine kadar
+
+### <a name="get-started"></a>başlarken
 
 Yazılım Güvencesi Planlama Hizmetleri 'ne yeni başladıysanız aşağıdaki adımları izleyin. Planlama Hizmetleri programında zaten etkinse, her yeni görevlendirmeyi aşağıda dört (4) adımında başlatın.
 
@@ -62,8 +74,6 @@ Bu makalede, her adımın nasıl tamamlanacağı açıklanmaktadır.
 
 İlk olarak, tüm [Planlama Hizmetleri program ilkelerini](https://go.microsoft.com/fwlink/?linkid=2115984)gözden geçirdiğinizden emin olun. Sonra iş akışının [2. adımındaki](https://go.microsoft.com/fwlink/?linkid=2115983) yönergeleri Izleyerek Iş Ortağı Merkezi 'Nde Planlama Hizmetleri kayıt işlemini tamamlayın.
 
->[!NOTE]
-> Gereksinimlerinizi yenilemeniz ve her yıl planlama hizmetleri programlarında yeniden kaydetmeniz gerekir.
 
 ## <a name="create-or-update-your-companys-business-profile-new-partners"></a>Şirketinizin iş profilini oluşturun veya güncelleştirin (yeni iş ortakları)
 
