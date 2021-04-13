@@ -6,15 +6,15 @@ description: Birincil iletişim, adres ve program bilgileri gibi şirketinizin a
 author: parthpandyaMSFT
 ms.author: parthp
 ms.topic: how-to
-ms.date: 03/10/2021
+ms.date: 04/12/2021
 ms.localizationpriority: medium
-ms.custom: contperf-fy21q3
-ms.openlocfilehash: 6e9afa8689f34203bdbf1f56f69aa9289e38ae15
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.custom: contperf-fy21q4
+ms.openlocfilehash: 08e35e24dc94c81db56807b4211874996f0f487e
+ms.sourcegitcommit: 89be77c9f35c77463d9558826293202afc6dec56
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712605"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "107315886"
 ---
 # <a name="verify-or-update-your-company-profile-information"></a>Şirket profili bilgilerinizi doğrulama veya güncelleştirme 
 
@@ -92,6 +92,17 @@ CSP hesabınızla ilişkili MPN KIMLIĞINI güncelleştirmek için:
 ## <a name="update-your-csp-legal-billing-address"></a>CSP yasal faturalandırma adresinizi güncelleştirme
 
 Genel yönetici, faturalandırma Yöneticisi veya yönetici aracılarınız varsa faturanızda **ödeme ve vergi profilinizde** görüntülenen adresi değiştirebilirsiniz. Ancak fatura sisteminin koyduğu sınırlamalar nedeniyle faturanızdaki şirket adını değiştiremezsiniz.
+
+:::image type="content" source="images/billing-profile.png" alt-text="Faturalama bilgilerinin eklendiği alanın Ekran yakalaması":::
+
+|**Alan**  |**Açıklama**|  
+|---------------------|:------------------|
+|Fatura-şirket adı|CSP faturanızda Bill-To bilgilerinde görüntülenen şirket adı.  Bu, Iş Ortağı Merkezi 'nde düzenlenemez.  Güncelleştirmek için bir destek bileti oluşturun.|
+|Fatura adresi|CSP faturasında gösterilen fatura adresi. Güncelleştirme- [faturalandırma profilinden](https://partner.microsoft.com/dashboard/account/v3/accountsettings/billingprofile#commercial)sürdürülebilir.|
+|Fatura-Ilgili kişisi|CSP hesabı için faturalandırma iletişim ayrıntıları (ad, soyadı, birincil sayı).  Güncelleştirme- [faturalandırma profilinden](https://partner.microsoft.com/dashboard/account/v3/accountsettings/billingprofile#commercial)sürdürülebilir.|
+|PO numarası|İş ortağı faturasında görünen satınalma siparişi numarası.  Güncelleştirme- [faturalandırma profilinden](https://partner.microsoft.com/dashboard/account/v3/accountsettings/billingprofile#commercial)sürdürülebilir.|
+|Şirket vergi KIMLIĞI|Bazı ülkelerdeki işletmeler, [değer dahil vergi (KDV) numarasını veya yerel eşdeğerini](https://docs.microsoft.com/partner-center/organization-tax-info#submit-vat-id-number)sağlayabilir. Vergi/KDV numaranızı güncelleştirmek için genel yönetici, faturalama yöneticisi veya yönetim aracısı olmanız gerekir.|
+|Faturalama para birimi|CSP hesabınız için faturalandırma para birimi, CSP hesabının yasal ülkesine göre belirlenir.  CSP hesabı oluşturulduktan sonra, bu değiştirilemez.|
 
 
 ## <a name="next-steps"></a>Sonraki adımlar

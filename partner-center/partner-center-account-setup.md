@@ -9,12 +9,12 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8e62462b6d35e8e6994e5e596ce433b37d222fc2
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: 08499c306079d0cb900d528247309afdf21b23bb
+ms.sourcegitcommit: 89be77c9f35c77463d9558826293202afc6dec56
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106132290"
+ms.lasthandoff: 04/13/2021
+ms.locfileid: "107315907"
 ---
 # <a name="manage-your-partner-center-account---company-profile-bank-information-roles-permissions-and-more"></a>Iş Ortağı Merkezi hesabınızı, şirket profilinizi, banka bilgilerini, rolleri, izinleri ve daha fazlasını yönetin
 
@@ -42,7 +42,7 @@ Bu, hesap ayarları sayfasını görüntüler.
 
 ### <a name="locate-your-mpn-id"></a>MPN KIMLIĞINIZI bulun
 
-İş ortağı veya geliştirici olsun, oturum açma desteği biletleri gibi MPN KIMLIĞINIZI kullanın. MPN KIMLIĞINIZ, e **yasal bilgiler** sayfasında bulunur. **Kimlik profilini** de bulabilirsiniz.
+İş ortağı veya geliştirici olsun, oturum açma desteği biletleri gibi MPN KIMLIĞINIZI kullanın. MPN KIMLIĞINIZ **yasal bilgiler** sayfasında bulunur. **Kimlik profilini** de bulabilirsiniz.
 
 ## <a name="account-settings---partners-resellers"></a>Hesap ayarları-iş ortakları, satıcılar
 

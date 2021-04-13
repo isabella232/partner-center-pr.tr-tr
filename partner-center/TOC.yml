@@ -14,14 +14,6 @@
       displayName: mpn
     - name: Hesap kurulumu sorunlarını giderme
       href: troubleshoot-account-sign-n.md
-    - name: İş Ortağı Merkezi'ne geçişler
-      items:
-        - name: PAC'tan geçiş - genel bakış
-          href: pac-to-pc-overview.md
-        - name: PAC ve PC'deki görevleri karşılaştırma
-          href: moving-from-pac-to-pc.md
-        - name: PAC görevlerini PC'de gerçekleştirme
-          href: o365-partner-admin-center-to-partner-center.md
     - name: PMC'den geçişler
       items:
         - name: PMC'den geçiş yapmaya hazırlanma
@@ -159,8 +151,6 @@
     - name: 'CSP sözleşmeleri, fiyat listeleri, teklifler'
       href: csp-documents-and-learning-resources.md
       displayName: csp
-    - name: CSP'ler için Cloudyn'in sunduğu Azure Maliyet Yönetimi
-      href: azure-cost-management-app-for-csp-partners.md
     - name: 'CSP bölgesel pazarlar, para birimleri'
       href: regional-authorization-overview.md
       displayName: 'regio, region, csp'
