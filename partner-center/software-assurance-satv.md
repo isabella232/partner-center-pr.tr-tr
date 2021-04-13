@@ -9,12 +9,12 @@ author: mowree
 ms.author: mowrim
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: ddff97664474230224c788f732ac1f32f377abf7
-ms.sourcegitcommit: 799d4d52afc511d0e0fad0e59dbdfc60081a1aa8
+ms.openlocfilehash: b08ac8d76324270f32db481a92387b20650f42f5
+ms.sourcegitcommit: 9b04509f3830462628c1bb6af2ca41ed68b52619
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/07/2021
-ms.locfileid: "107024985"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "107266495"
 ---
 # <a name="training-vouchers-program-retirement"></a>Eğitim fişleri program emekli
 
@@ -29,7 +29,7 @@ Eğitim fişleri Yazılım Güvencesi avantajlarından tamamen kullanımdan kald
 >[!NOTE]
 >Fiş yaşam döngüsünde hiçbir değişiklik yoktur. Bir fiş oluşturulduktan/atandıktan sonra, fiş kullanım süresi dolmadan önce 180 gün içinde fiş rezervasyonu, eğitim oturumları ve fiş satın alma işlemi yapılmalıdır.  Eğitim fişi kullanımdan kaldırılması hakkında daha fazla bilgi için [burada](https://partner.microsoft.com/resources/collection/software-assurance-benefit-changes#/) bulunan SSS bölümüne bakın (oturum açmak gerekir).  Eğitim avantajı ürün kataloğunda SATV uygun eğitim kurslarının tam listesine bakın.  Lütfen tüm soruları bölgesel Iş ortağı destek ekibinize yönlendirin: [EMEA Iş ortağı desteği](mailto:savoucher@msdirectservices.com); [Genel Iş ortağı desteği](https://partner.microsoft.com/dashboard/support/servicerequests).
 
-## <a name="until-june-30-2021"></a>30 Haziran 2021 tarihine kadar
+
 
 ### <a name="get-started"></a>başlarken
 
