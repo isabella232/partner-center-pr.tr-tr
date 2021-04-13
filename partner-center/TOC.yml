@@ -12,8 +12,6 @@
     - name: Iş Ortağı Merkezi 'nde MPN hesabı oluşturma
       href: mpn-create-a-partner-center-account.md
       displayName: mpn
-    - name: İş e-posta adresi alma
-      href: buy-email-domain.md
     - name: Hesap kurulumu sorunlarını giderme
       href: troubleshoot-account-sign-n.md
     - name: İş Ortağı Merkezi'ne geçişler
@@ -246,7 +244,7 @@
           href: reset-a-user-password.md
         - name: Parolamı sıfırlama
           href: reset-my-pasword.md
-        - name: Kullanıcı oturum açamıyor
+        - name: Oturum açma sorunlarını giderme
           href: unable-to-sign-in.md
         - name: Kullanıcının MPN yöneticisi yok
           href: no-mpn-admin.md

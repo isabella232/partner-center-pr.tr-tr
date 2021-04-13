@@ -1,7 +1,7 @@
 ---
 title: Iş Ortağı Merkezi 'nde MPN hesabı oluşturma
 ms.topic: article
-ms.date: 03/18/2021
+ms.date: 04/08/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Microsoft İş Ortağı Ağı üyelerin ağ avantajlarını ve uzmanlarını yönetmek için bir Iş Ortağı Merkezi hesabı nasıl oluşturabileceğinizi öğrenin.
@@ -9,12 +9,12 @@ author: ParthP
 ms.author: ParthP
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a099b30753d2ea6de217001e7b13e4a333e40f55
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: 00d45b18dc4c2d55ec4af0456512a685ba111ee1
+ms.sourcegitcommit: 9b04509f3830462628c1bb6af2ca41ed68b52619
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712928"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "107266546"
 ---
 # <a name="create-an-mpn-account-in-partner-center-to-manage-network-benefits-and-competencies"></a>Ağ avantajlarını ve Uzmanlıklar yönetmek için Iş Ortağı Merkezi 'nde bir MPN hesabı oluşturun
 
@@ -25,7 +25,7 @@ Microsoft İş Ortağı Ağı (MPN) ile yeni başladıysanız ve MPN KIMLIĞI yo
 
 Iş Ortağı Merkezi 'nde bir hesap oluşturmaya hazır olduğunuzda, aşağıdaki öğelerin elinizin altında olması gerekir.  Başlamadan önce bu öğelerin toplanması birkaç dakika geçmesi gerekebilir:
 
-- Şirket iş e-postası veya Office 365 iş hesabı. Daha fazla bilgi için [şirketinizin iş hesabınızı ve Iş ortağı merkezini](azure-active-directory-tenants-and-partner-center.md) okuyun 
+- Şirket iş e-postası veya Office 365 iş hesabı. Çalışanlarınız için iş e-posta adresleri ayarlamanıza olanak sağlamak için şirketiniz bir e-posta etki alanı satın almanız gerekebilir. Daha fazla bilgi için [şirketinizin iş hesabınızı ve Iş ortağı merkezini](azure-active-directory-tenants-and-partner-center.md)okuyun. 
  
 - Şirketinizin yasal iş adı ve adresi.
 

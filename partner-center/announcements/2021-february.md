@@ -10,48 +10,52 @@ ms.custom:
 - announcement
 - references_regions
 ms.localizationpriority: high
-ms.date: 04/02/2021
-ms.openlocfilehash: 79d492fa907f9d2b9318ba9fa9850401b61a2b7d
-ms.sourcegitcommit: 60bbb8f4056120264b769f94431f84d86984c2e9
+ms.date: 04/08/2021
+ms.openlocfilehash: b72d736fdeafc438fbfa848c0b2b1e51ab66b261
+ms.sourcegitcommit: 9b04509f3830462628c1bb6af2ca41ed68b52619
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/03/2021
-ms.locfileid: "106280913"
+ms.lasthandoff: 04/09/2021
+ms.locfileid: "107266478"
 ---
 # <a name="february-2021-announcements"></a>Şubat 2021 duyuruları
 
 Bu sayfada, Şubat 2021 ' de Microsoft Iş Ortağı Merkezi duyuruları ayrıntılı olarak yer alındı.
 
 ________________
-## <a name="put-qualification-apis-are-retired-get-to-retire-in-may"></a><a name="14"></a> YERLEŞTIRME nitelendirme API 'Leri kullanımdan kalkmışsa, devre dışı bırakmaya al
+## <a name="reminder-deprecation-of-get-qualification-on-may-4-2021"></a><a name="14"></a>Anımsatıcı: 4 Mayıs 2021 ' de GET nitelemesini kullanımdan kaldırma
 
 ### <a name="categories"></a>Kategoriler
 
-- Tarih: 25 Şubat 2021
+- Tarih: 2021-04-09
 - Özellikler
 
 ### <a name="impacted-audience"></a>Etkilenen hedef kitle
 
-Iş Ortağı Merkezi API 'sini kullanarak bulut çözümü sağlayıcısı programı aracılığıyla akademik, kar amacı ve GCC teklifleri satan iş ortakları
+Iş Ortağı Merkezi API 'sini kullanarak bulut çözümü sağlayıcısı programı aracılığıyla akademik, kar amacı gütmeyen ve kamu Community bulutu (GCC) satan iş ortakları
 
 ### <a name="details"></a>Ayrıntılar
 
-Bu duyuru, [Aralık ayında yayınlanan](2020-december.md#1)Iş ortağı merkezi geliştirmeleri için bir izdir. Bu yayının bir parçası olarak, yeni GET ve POST nitelikleri API 'Leri dağıtılır ve bir sonuç olarak **mevcut put niteliği API 'leri kullanımdan kaldırılmıştır ve Get niteliği 4 mayıs 2021 ' de kullanımdan** kaldırılacaktır. Bu durum oluştuktan sonra eğitim tekliflerini satın almak için yeni GÖNDERI Iş Ortağı Merkezi API 'Lerini kullanarak geçiş yapmanız gerekir. Benzer şekilde, yeni GET nitelikleri API 'sini kullanarak, önceden nitelikli kar dışı ve GCC tekliflerini satın almanız gerekir.
+Bu duyuru, [Aralık ayında yayınlanan](https://docs.microsoft.com/partner-center/announcements/2020-december#1)Iş ortağı merkezi geliştirmeleri için bir izdir. Bu yayının bir parçası olarak, yeni GET ve POST nitelikleri API 'Leri dağıtılır ve sonuç olarak, mevcut GET niteliği 4 Mayıs 2021 ' de kullanımdan kaldırılacaktır. Bu süre içinde, satın alma eğitimi tekliflerine yönelik yeni POST Iş Ortağı Merkezi API 'Lerini ve yeni GET nitelikleri API 'sini kullanarak, kar amacı gütmeyen ve GCC tekliflerini satın almanız gerekir.
 
 ### <a name="next-steps"></a>Sonraki adımlar
 
-- Başarılı ve zamanında geçiş için **yeni API 'Lere güncelleştirme**
-- Işlem hazırlık kaynaklarında **Yeni Iş ortağı MERKEZI API değişikliklerini ve kılavuzunu gözden geçirin** : [Iş Ortağı Merkezi eğitimi müşteri doğrulama işlemi geliştirmeleri](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/)
-- **Bu bilgileri kuruluşunuzdaki uygun ekiplerle** ve satıcılarınız ile paylaşarak, bu değişikliklere hazırlanmalarına yardımcı olun
+- Başarılı ve zamanında geçiş için yeni API 'lere güncelleştirin.
+
+- Işlem hazırlık kaynaklarında yeni Iş Ortağı Merkezi API 'SI değişikliklerini ve kılavuzunu gözden geçirin: [Partner Center eğitim müşteri doğrulama işlemi geliştirmeleri](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/).
+
+- Bu bilgileri kuruluşunuzdaki uygun ekiplerle ve bu değişikliklere hazırlanmalarına yardımcı olmak için satıcılarla birlikte paylaşabilirsiniz.
 
 ### <a name="questions"></a>Sorularınız mı var?
 
-Bu bildirimle ilgili sorular için [Iş Ortağı Merkezi desteğiyle](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals)iletişim kurun.
+Bu bildirimle ilgili sorularınız için [Iş ortağı merkezi desteği](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals)'ne başvurun.
 
 ### <a name="change-log"></a>Değişiklik günlüğü
 
+- Nisan: kullanım dışı bırakma niteliği kullanım dışı bırakma anımsatıcısı 
 - Şubat: GET & PUT nitelikleri 'nin kullanımdan kaldırılması için zaman çizelgeleri güncelleştirildi
 - Ocak: GET & PUT nitelikleri için yaklaşan kullanım dışı bırakın
+
 
 ________________
 ## <a name="share-co-sell-deals-at-scale-using-the-partner-center-bulk-operations-capability"></a><a name="13"></a> Iş ortağı merkezi toplu işlemler özelliğini kullanarak ortak satış anlaşmaları ölçeğini ölçeklendirerek paylaşma
