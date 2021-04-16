@@ -1,7 +1,7 @@
 ---
 title: CSP küresel pazarlar
 ms.topic: article
-ms.date: 06/05/2020
+ms.date: 04/15/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Şirketinizin konumuna göre CSP teklifleri oluşturabileceğiniz ülkelere, bölgelere ve para birimlerine bakın.
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 98ad8e3f78b8181013b21d6146744337de6976bd
-ms.sourcegitcommit: 175fa04ba45a1133b77d8055a0123561bd987415
+ms.openlocfilehash: 216103ae3e94b7ba1525f9fa1199d0bf0311fd0b
+ms.sourcegitcommit: 9f6be9bc8d9a065422d1ec8388bd770eb6cd9f33
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/09/2020
-ms.locfileid: "96926670"
+ms.lasthandoff: 04/16/2021
+ms.locfileid: "107528597"
 ---
 # <a name="cloud-solution-provider-program-regional-markets-and-currencies-where-you-can-sell-csp-offers"></a>CSP teklifleri oluşturabileceğiniz bulut çözümü sağlayıcısı program bölgesel pazarlar ve para birimleri
 
@@ -24,10 +24,15 @@ Pazarınızı belirleyen şirketinizin konumudur. Market, bulut çözümü sağl
 
 CSP tekliflerini bir müşteri adına sipariş etmeden önce, müşterinin Microsoft Müşteri sözleşmesini imzalaması gerekir. Bölgeniz/ülkeniz için geçerli Microsoft Müşteri Sözleşmesi ' ni [buradan](agreements.md)edinebilirsiniz.
 
+## <a name="azure-plan-for-csp-region-availability"></a>CSP bölge kullanılabilirliği için Azure planı  
+
+CSP için Azure planı, CSP için Azure yazılımından daha az bölgede kullanılabilir.  Azure planına yönelik bölgesel kullanılabilirlik hakkında en son güncelleştirmeleri görmek için lütfen  [Azure planını satın alma](purchase-azure-plan.md) bölümüne bakın. 
+
 >[!IMPORTANT]
 > Bir müşterinin Microsoft Müşteri anlaşmasını imzalayan kişi hakkında bilgi sağlayarak kabul ettiğini onaylamanız gerekir. Daha fazla bilgi için bkz. [müşterinin Microsoft Müşteri Sözleşmesi 'ni kabul ettiğini doğrulayın](confirm-consent.md) .
 
 CSP tekliflerini nerede oluşturabileceğiniz hakkında bilgi edinmek için, aşağıdaki listelerden birinde şirketinizin konumunu bulun. Satmak istediğiniz konum için etkin bir Microsoft İş Ortağı Ağı (MPN) KIMLIĞINIZ olmalıdır.  
+
 
 ## <a name="for-unsupported-countries"></a>Desteklenmeyen ülkeler için
 
@@ -293,7 +298,7 @@ CSP tekliflerini nerede oluşturabileceğiniz hakkında bilgi edinmek için, aş
 |  Peru           |   USD    |
 |  Porto Riko    |   USD    |
 |  Saba           |   USD    |
-|  Saint Barthélimy|  USD    |
+|  Saint Barthelemy|  USD    |
 |  Saint Kitts ve Nevis|    |
 |  Saint Lucia    |   USD    |
 |  Saint Martin   |   USD    |
@@ -399,5 +404,5 @@ CSP tekliflerini nerede oluşturabileceğiniz hakkında bilgi edinmek için, aş
 |  Ülke/Bölge       | Para Birimi |
 |  -------------        |:--------:|
 |  Birleşik Devletler        |   USD    |
-|  ABD Küçük Harici Adaları|   USD    |
+|  ABD harici Adaları|   USD    |
 |

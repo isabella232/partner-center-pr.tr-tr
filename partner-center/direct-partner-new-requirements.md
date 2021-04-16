@@ -8,13 +8,13 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.date: 12/15/2020
-ms.openlocfilehash: ac4b6ef6a061a68ef623c7666804a4db1582785f
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.date: 04/15/2021
+ms.openlocfilehash: 2f6fd9ef3fdcc88627b2eb2d257a837d28e097ee
+ms.sourcegitcommit: 9f6be9bc8d9a065422d1ec8388bd770eb6cd9f33
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712215"
+ms.lasthandoff: 04/16/2021
+ms.locfileid: "107528584"
 ---
 # <a name="requirements-to-enroll-as-a-csp-direct-bill-partner"></a>CSP Doğrudan Fatura Ortağı olarak kaydolma gereksinimleri
 
@@ -33,7 +33,8 @@ Doğrudan bir fatura ortağı olarak, müşterinizin ve Microsoft ile uçtan uca
 |**MPN Kimliği**   |Microsoft İş Ortağı Ağı ve MPN KIMLIĞINDE, satmak istediğiniz konum için etkin bir üyelik.   |
 |**Onay anahtarı**   |Kuruluşunuz adına yasal sözleşmeleri kabul etme ve imzalama yetkisi.|
 |**Destek**   |Müşterilerinize bulut ürün desteğinin ilk düzeyini sağlama özelliği. <br/>Gereksinimlerinize bağlı olarak Iş ortakları için gelişmiş destek (ASfP) veya Iş ortakları için Premier Destek (PSfP) için bir Microsoft destek planı. [Destek planlarını karşılaştırın](https://partner.microsoft.com/support/partnersupport).<br/>ÖNEMLI: bir destek planı satın alabilmek için önce bir kredi denetimi geçirmeniz gerekir. Kredi denetimini geçtiğinde size e-posta göndereceğiz. |
-|**Gelir gereksinimi**|Dolaylı bir satıcı olarak önceki on iki ay boyunca en az USD300K bulut çözümü sağlayıcısı program yıllık geliri ile Buluşmalıdır. İş ortakları, izleyen on iki aylık geliri Iş ortağı merkezinde gözden geçirebilir.<br/>USD300K son on iki aylık geliri oluşturan satış, Microsoft tarafından incelenmek ve doğrulanmasıdır ve ek bilgi sağlamanız istenebilir. USD300K gelir gereksinimi, bulut gelirine göre hesaplanır ve CSP 'de kalıcı yazılımları hariç bırakır.|
+|**Gelir gereksinimi**|Dolaylı bir satıcı olarak önceki on iki ay boyunca en az USD300K bulut çözümü sağlayıcısı program yıllık geliri ile Buluşmalıdır. Kuruluşunuzun [Iş Ortağı Merkezi analizinde](https://partner.microsoft.com/resources/detail/new-subscription-analytics-report-on-partner-center-guide-pdf)gelir gereksinimini karşıladığı hakkında emin olun. İş ortakları, izleyen on iki aylık geliri Iş ortağı merkezinde gözden geçirebilir.<br/>USD300K son on iki aylık geliri oluşturan satış, Microsoft tarafından incelenmek ve doğrulanmasıdır ve ek bilgi sağlamanız istenebilir. USD300K gelir gereksinimi, bulut gelirine göre hesaplanır ve CSP 'de kalıcı yazılımları hariç bırakır.|
+|**CSP gereksinimi**|En az 12 ay boyunca dolaylı satıcı olarak Transact olmalıdır.| 
 |**Alacak hesaplar** |Müşteri faturalandırma ve sağlamayı yönetmek için yer aldığı kurumsal altyapı.|
 |**Öneri**|             |
 |**Yönetilen hizmet**   |En az bir yönetilen hizmet, IP hizmeti veya müşteri çözümü uygulaması. [Yönetilen hizmetler](https://partner.microsoft.com/business-opportunities/managed-services-provider)ekleme hakkında daha fazla bilgi edinin.|
@@ -41,9 +42,10 @@ Doğrudan bir fatura ortağı olarak, müşterinizin ve Microsoft ile uçtan uca
 
 ### <a name="verify-direct-bill-eligibility"></a>Doğrudan fatura uygunluğunu doğrulama
 
-Doğrudan fatura ortağı olarak kaydolmak için minimum gereksinimleri karşıladığınıza doğruladıktan sonra, [kayıt formuna](https://partner.microsoft.com/pcv/register/joinnow/enrollmentwelcome/Reseller/migrate?cloudInstance=Global)devam edebilirsiniz.
+Doğrudan fatura ortağı olarak kaydolmak için minimum gereksinimleri karşıladığınıza doğruladıktan sonra, [kayıt formuna](https://forms.office.com/r/0fP4fFT8n8)devam edebilirsiniz.
 
 Şirketinizin doğrudan bir fatura ortağı olarak kaydedilmesi için uygunluk gereksinimlerini karşıladığını doğruladıktan sonra ve kayıt uygulamasını tamamladıktan sonra, kayıt sürecinde sağladığınız iş bilgilerini gözden geçireceğiz ve doğrulayacağız. Bu incelemenin bir parçası olarak şirketinizin krediyi denetliyoruz. Şirketiniz kredi denetimini geçtiğinde size e-posta ile bilgi vereceğiz.
+
 >[!IMPORTANT]
 >Şirketinizin kredinizin denetlenmesi birkaç gün veya daha fazla sürebilir. Bu süre boyunca, bir Microsoft destek planı satın almanız önemlidir. Yalnızca kredi denetimini geçirdiğimiz hakkında bilgi sahibi olduktan sonra bir Microsoft destek planı satın almanız gerekir.
 

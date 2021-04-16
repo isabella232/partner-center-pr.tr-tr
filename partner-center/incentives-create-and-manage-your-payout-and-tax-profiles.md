@@ -1,19 +1,19 @@
 ---
 title: İş Ortağı Merkezi'ndeki ödeme ve vergi profilleri
 ms.topic: how-to
-ms.date: 02/24/2021
+ms.date: 04/15/2021
 description: Teşvikleri çalışmanız için ödeme yapabilmeniz için ödeme ve vergi profilinizi oluşturun ve yönetin. Farklı profillerin oluşturulmasını, yönetilmesini ve kullanılmasını içerir.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 5079649746d673ea4dee40264afe4ea61671a9a2
-ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
+ms.openlocfilehash: 4a931f1d971ea3e3bc288f70e85a6600596761cc
+ms.sourcegitcommit: 9f6be9bc8d9a065422d1ec8388bd770eb6cd9f33
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "106179539"
+ms.lasthandoff: 04/16/2021
+ms.locfileid: "107528545"
 ---
 # <a name="create-and-manage-incentives-payout-and-tax-profiles-in-partner-center"></a>Iş Ortağı Merkezi 'nde teşvikleri ödeme ve vergi profilleri oluşturma ve yönetme
 
@@ -25,7 +25,7 @@ ms.locfileid: "106179539"
 
 Belirli bir MPN konumuna ilişkin teşvik programlarınızda ödeme alabilmeniz için önce geçerli bir ödeme ve vergi profilini programla ve MPN konumuyla ilişkilendirerek kaydınızı tamamlamanız gerekir. Microsoft ödemeleri yapmak için bu ödeme ve vergi profilini kullanacaktır. Teşvik programının kurallarına bağlı olarak ödeme için elektronik banka transferi veya alacak dekontu kullanmanıza izin verilebilir. 
 
-## <a name="roles-currencies-and-other-microsoft-programs"></a>Roller, para birimleri ve diğer Microsoft programları
+## <a name="roles-currencies-and-multiple-microsoft-incentive-programs"></a>Roller, para birimleri ve birden çok Microsoft özenli program
 
 Ödeme ve vergi profiliniz ile çalışmaya başlamadan önce aşağıdaki bilgileri anlamanız önemlidir.
 
@@ -50,19 +50,19 @@ Teşvikleri kullanıcılar, teşvik kazanç ve ödeme ayrıntılarını ve rapor
 Aşağıdaki bölümler, Iş Ortağı Merkezi 'nde ödeme ve vergi profilleri oluşturma ve yönetme sürecinde size yol gösterecektir.
 
 >[!IMPORTANT]
->Iş Ortağı Merkezi 'nde ödeme profilleri oluşturmak veya yönetmek için bir teşvik yöneticisi olmanız gerekir. Her bir teşvik programı altındaki her bir MPN konumuna bir rol atanması gerekir. Iş Ortağı Merkezi 'ne teşvik yöneticileri ekleme hakkında daha fazla bilgi için bkz. [Kullanıcı hesapları oluşturma](create-user-accounts-and-set-permissions.md).
+>Iş Ortağı Merkezi 'nde ödeme ve vergi profilleri oluşturmak veya yönetmek için bir Özenisiz yönetici olmanız gerekir. Her bir teşvik programı altındaki her bir MPN konumuna bir rol atanması gerekir. Iş Ortağı Merkezi 'ne teşvik yöneticileri ekleme hakkında daha fazla bilgi için bkz. [Kullanıcı hesapları oluşturma](create-user-accounts-and-set-permissions.md).
 
 ## <a name="access-the-payout-and-tax-section-in-partner-center"></a>Iş Ortağı Merkezi 'nde ödeme ve vergi kısmına erişin
 
 1. Azure Active Directory (Azure AD) hesabınızı (Şirket hesabı) veya atanmış bir e-posta adresini kullanarak [Iş Ortağı Merkezi panosunda](https://partner.microsoft.com/dashboard/) oturum açın.
 
    - Birden çok etki alanı, bir Azure AD hesabında kaydedilebilir. Hangi etki alanlarının ilişkilendirildiğini öğrenmek için genel yöneticinizle iletişime geçin.
-   - Yalnızca etki alanı ile oturum açabiliyor @onmicrosoft.com , Azure AD hesabına ek etki alanları eklemek Için hesap yöneticinize başvurun.
+   - Yalnızca etki alanı ile oturum açabiliyor @onmicrosoft.com ve ek etki alanlarına ihtiyacınız varsa, Azure AD hesabına ek etki alanları eklemek Için hesap yöneticinize başvurun.
    - **İş veya okul hesabı** ya da **kişisel hesap**' i seçmeniz istenirse **iş veya okul hesabı**' nı seçin.
 
 2. Dişli simgesini seçerek **Ayarlar** menüsünü açın ve **Hesap ayarları**' nı seçin.
 
-3. **Hesap ayarları** menüsünde, **ödeme ve vergi**' ı seçin. 
+3. **Hesap ayarları** menüsünde, **ödeme ve vergi**' ı seçin.
 
 ## <a name="assign-payout-and-tax-profiles-to-individual-programs"></a>Ayrı programlara ödeme ve vergi profilleri atama
 
@@ -72,7 +72,7 @@ Aşağıdaki bölümler, Iş Ortağı Merkezi 'nde ödeme ve vergi profilleri ol
    
    Programlarınızın bir listesi görüntülenir. Profil ayrıntılarını görmek için bir programın yanındaki oku seçin. 
 
-3. **Vergi profili** açılan menüsünde istediğiniz vergi profilini seçin veya yeni bir profil oluşturma seçeneğini belirleyin. Yeni bir profil oluşturma seçeneğini belirlediğinizde uygun şekilde yeniden yönlendirilirsiniz.  Açılır pencerede devam ' ı seçin. Yeni bir vergi profili oluşturma işlemi aşağıda verilmiştir.
+3. **Vergi profili** açılan menüsünde istediğiniz vergi profilini seçin veya yeni bir profil oluşturma seçeneğini belirleyin. Yeni bir profil oluşturma seçeneğini belirlediğinizde uygun şekilde yeniden yönlendirilirsiniz.  Açılır pencerede **devam** ' ı seçin. Yeni bir vergi profili oluşturma işlemi aşağıda verilmiştir.
 
 4. **Ödeme yöntemini** seçin.
 
@@ -94,17 +94,37 @@ Aşağıdaki bölümler, Iş Ortağı Merkezi 'nde ödeme ve vergi profilleri ol
    
       İş ortaklarının bir vergi muafiyeti uygulama isteğine açık bir şekilde ihtiyacı olan ülkelerde, bir vergi muafiyeti ' nin yanına,, teşvik programı ve konum MPN 'nin vergi profili bölümünde vergi profilinin yanına uygulanması için bir seçenek olacaktır. Bu kutunun işaretlenmesi, bu kredi notunuza vergi muafiyet avantajları uygular. 
    
-      Şu anda bu ödeme yöntemi yalnızca Avustralya, Yeni Zelanda ve Microsoft ticaret teşvik programı için Kanada iş ortakları için kullanılabilir. Bu üç ülkede MCI programına kaydolmuş olan doğrudan bir Bill partner veya dolaylı sağlayıcısıysanız ve uygun ödeme yöntemi olarak LRD kredi dekontunu görmüyorsanız, kiracı KIMLIĞINIZIN ilgili iş ortağı MPN konum hesabıyla ilişkilendirildiğini doğrulayın. Bu konuda daha fazla bilgi edinmek için [kuruluş profilinizi güncelleştirme](update-your-partner-profile.md)makalesini okuyun.
+      Şu anda, LRD Kredi dekontu ödeme yöntemi yalnızca Avustralya, Yeni Zelanda ve Microsoft ticaret teşvik programı için Kanada iş ortakları için kullanılabilir. Bu üç ülkede MCI programına kaydolmuş olan doğrudan bir Bill partner veya dolaylı sağlayıcısıysanız ve uygun ödeme yöntemi olarak LRD kredi dekontunu görmüyorsanız, kiracı KIMLIĞINIZIN ilgili iş ortağı MPN konum hesabıyla ilişkilendirildiğini doğrulayın. Bu konuda daha fazla bilgi edinmek için [kuruluş profilinizi güncelleştirme](update-your-partner-profile.md)makalesini okuyun.
 
     
 5. **Para birimini** seçin.
 
 6. Ödeme alanlarını tamamladıktan sonra **Gönder**' i seçin.
 
+## <a name="set-up-a-default-bank-profile"></a>Varsayılan bir banka profili ayarlama
+
+Varsayılan banka profillerinin kurulumunu yapabilir ve bunları MPN konumlarına atayabilirsiniz. Bu varsayılan profiller, Microsoft tarafından bu MPN konumu için sonraki kayıtlar için kullanılacaktır. 
+
+1. [Iş Ortağı Merkezi panosunda](https://partner.microsoft.com/dashboard/)oturum açın ve sonra da dişli simgesini seçerek **Ayarlar**   menüsünü açın. 
+
+2.  **Hesap ayarları**' nı seçin, **ödeme ve vergi** bölümünü genişletin ve ardından **ödeme ve vergi profilleri**' ni seçin. 
+
+3. **Ödeme profilleri** bölümünde **varsayılan profilleri Yönet** ' i seçin. 
+
+4. Varsayılan banka profilleri oluşturmak için **varsayılan banka profili Ekle**' yi seçin. 
+
+5. Şirketinizin kullanılabilir banka profilleri listesinden bir banka profili seçin, bu banka profiliyle kullanılacak para birimini seçin ve ardından bu varsayılan profilin uygulanmasını istediğiniz MPN konumlarının listesini seçin.
+
+6. Seçimleri tamamladıktan sonra **bitti** ' yi seçin. Tüm gerekli alanlar tamamlanana kadar bitti düğmesi tıklatılabilir olmaz. 
+
+>[!NOTE]
+>Aynı banka ve para birimi eşleştirmesi birden fazla konuma uygulanabilir. MPN konumuna bir kez varsayılan profil ve para birimi birleşimi atanmışsa, daha sonra varsayılan profil atamaları için Konum açılır listesinde görünmez. Varsayılan seçim silinirse, MPN konumu gelecekteki varsayılan profil atamaları için yeniden görüntülenir. Her banka profili ve para birimi kombinasyonu benzersiz, düzenlenebilir bir satır olarak eklenir.
+
+7. Tüm gerekli değişiklikler eklendikten sonra **Kaydet**' i seçin.  
 
 ## <a name="create-your-bank-profile"></a>Banka profilinizi oluşturma
 
-Banka profilleri bir kuruluş düzeyinde oluşturulur. Bu, bir banka profilinin bir kuruluştaki birden fazla MPN KIMLIĞI ile atanmasını ve bu programları teşvik etmesine olanak tanır. Farklı bankacılık ve vergi kuralları uygulanabildiği için bankacılık profili farklı ülkelere uygulanırken özel durumlar olabilir.
+Banka profilleri, bir şirket düzeyinde oluşturulur. Bu, bir banka profilinin bir şirketteki birden çok MPN KIMLIĞI ile atanmasını ve bu programları teşvik etmesine olanak tanır. Farklı bankacılık ve vergi kuralları uygulanabildiği için bankacılık profili farklı ülkelere uygulanırken özel durumlar olabilir.
 
 >[!NOTE]
 >Aşağıdaki sayfalarda, yıldız işareti olan alanlar gereklidir. Bir alanın ne olduğunu bilmiyorsanız, bilgi simgesini seçin. 
@@ -157,6 +177,20 @@ Kuzey iş ortağı şirketleri için, W8 veya W9 formlarını tamamlamada bilgi 
 8. Kaydetmek ve devam etmek için **son**' u seçin.
 
 9. Açılan iletide **Onayla** ' yı seçin. **Ödeme ve vergi kurulumu** sayfasına geri yönlendirilirsiniz.
+ 
+## <a name="update-expired-tax-profiles"></a>Vadesi geçen vergi profillerini Güncelleştir
+
+1. [Iş Ortağı Merkezi panosunda](https://partner.microsoft.com/dashboard/)oturum açın ve sonra da dişli simgesini seçerek **Ayarlar** menüsünü açın.
+
+1. **Hesap ayarları**' nı seçin, **ödeme ve vergi** bölümünü genişletin ve ardından **ödeme ve vergi profili**' ni seçin.
+
+1. **Vergi profilini** seçin.
+
+1. Sütun **sona erme tarihini** denetleyin ve süresi dolan veya süresi dolacak olan vergi profiline gidin.
+
+1. **Düzenle**'yi seçin.
+
+1. Vergi formu bölümünde, yeni ayrıntıları sağlayarak vergi formlarını güncelleştirin. 
 
 ## <a name="next-steps"></a>Sonraki adımlar
 

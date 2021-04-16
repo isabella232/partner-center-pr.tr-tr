@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a662e0b815c979b3454762c5b35eb510887c96ad
-ms.sourcegitcommit: c6c741475604b8daf386fb54bb2795a6445ac887
+ms.openlocfilehash: 6c3c3a672de015c9f38fa0e34232da8d9913177c
+ms.sourcegitcommit: 9f6be9bc8d9a065422d1ec8388bd770eb6cd9f33
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/05/2021
-ms.locfileid: "106374408"
+ms.lasthandoff: 04/16/2021
+ms.locfileid: "107528566"
 ---
 # <a name="effective-unit-price-calculation-for-azure-plan-consumption"></a>Azure plan tüketimi için geçerli birim fiyat hesaplaması
 
@@ -53,7 +53,9 @@ Tabloda aşağıdaki değerler geçerlidir:
 - **Etkin birim fiyatı** = BCU/BC
 
 >[!NOTE]
->Bu örnekteki ölçerin fiyatlandırma katmanı yoktur. İndirim yüzdeleri ve diğer ayarlamalar için geçerli birim fiyat faktörleri.
+
+>Not: Bu örnekteki ölçüm fiyatlandırma veya diğer indirimlerdeki katmanlara sahip değildir. indirim yüzdeleri ve diğer ayarlamalar için geçerli birim fiyat faktörleri.
+
 
 | Tarih | BCU (Faturalanabilir tüketim birimi) | BC (Faturalanabilir maliyet) | Geçerli birim fiyatı |
 | ------ | ----------- | ----------- | ----------- |  
