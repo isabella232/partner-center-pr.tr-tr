@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 04/08/2021
-ms.openlocfilehash: c2941c6dcda9551a97ca903f050488ea8fe363c1
-ms.sourcegitcommit: 9b04509f3830462628c1bb6af2ca41ed68b52619
+ms.openlocfilehash: 9fd3dcb98ec0105e17fb107ba75c35916cd108db
+ms.sourcegitcommit: 4212cd168f3a9a73f6ed05109b0eecb96827ec04
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "107266461"
+ms.lasthandoff: 04/17/2021
+ms.locfileid: "107584191"
 ---
 # <a name="partner-center-announcements"></a>İş Ortağı Merkezi duyuruları
 
@@ -22,6 +22,8 @@ ms.locfileid: "107266461"
 
 |**Kategori**|**Nisan 2021 duyuruları**|**Duyurulan**|
 |---------|:---------|:---------|
+|Özellikler|[Şimdi canlı: genel promosyon hazırlığı Kılavuzu](2021-april.md#6)|16 Nisan|
+|Topluluk: davetlere ve anımsatıcıları|[Nisan bulut çözümü sağlayıcısı (CSP) topluluk güncelleştirmesi ve anımsatıcıları](2021-april.md#5)|16 Nisan|
 |Özellikler|[Anımsatıcı: 4 Mayıs 2021 ' de GET nitelemesini kullanımdan kaldırma](2021-april.md#4)|9 Nisan|
 |Özellikler|[CSP 'de yeni ticaret PDF faturası için yeni biçim](2021-april.md#3)|5 Nisan|
 |Özellikler|[Bulut Çözümü Sağlayıcısı (CSP) müşteri ekleme gereksinimlerinde yapılan değişiklikler](2021-april.md#2)|2 Nisan|

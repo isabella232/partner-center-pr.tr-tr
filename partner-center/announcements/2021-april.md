@@ -10,17 +10,111 @@ ms.custom:
 - announcement
 - references_regions
 ms.localizationpriority: high
-ms.date: 04/08/2021
-ms.openlocfilehash: 441d41e6212399657124b6116e1f2c05ce734211
-ms.sourcegitcommit: 9b04509f3830462628c1bb6af2ca41ed68b52619
+ms.date: 04/16/2021
+ms.openlocfilehash: 68635b4c02ddbbcaa6cbf02166a7cf123aaf2c6e
+ms.sourcegitcommit: 4212cd168f3a9a73f6ed05109b0eecb96827ec04
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "107266529"
+ms.lasthandoff: 04/17/2021
+ms.locfileid: "107584176"
 ---
 # <a name="april-2021-announcements"></a>Nisan 2021 duyuruları
 
 Bu sayfa, 2021 Nisan için Microsoft Iş Ortağı Merkezi duyuruları sağlar.
+
+________________
+## <a name="now-live-global-promo-readiness-guide"></a><a name="6"></a>Şimdi canlı: genel promosyon hazırlığı Kılavuzu
+
+### <a name="categories"></a>Kategoriler
+
+- Tarih: 2021-04-16
+- Özellikler
+
+### <a name="summary"></a>Özet
+
+Başlatma hazırlığı, Işlem hazırlık kaynağı galerisinde yeni bir [genel promosyon hazırlığı Kılavuzu](https://partner.microsoft.com/resources/detail/operations-promo-guide-pdf) yayımladı. Bu kılavuz, tüm etkin [küresel promosyonların](https://partner.microsoft.com/resources/collection/global-promo-readiness-guide-collection#/)birleştirilmiş bir görünümünü sağlar.
+
+### <a name="impacted-audience"></a>Etkilenen hedef kitle
+
+Tüm toplu lisanslama (VL), Dynamics fiyat listesi (DPL) ve bulut çözümü sağlayıcısı (CSP) iş ortakları
+
+### <a name="details"></a>Ayrıntılar
+
+Microsoft iş ortakları, destekleyici ayrıntıların bulunduğu tüm küresel promosyonların birleştirilmiş bir görünümünü sağlama gereksinimiyle paylaşılır. Bu birleştirilmiş kılavuzun, tüm kullanılabilir bilgilerin merkezi ve uygun bir konumda erişilebilir olacağı güvenle birlikte yükseltmeleri kullanmanıza yardımcı olacak
+
+Microsoft, 2021 Nisan 'dan itibaren bu kılavuzu aylık olarak güncelleştirecek ve Işlem hazırlık kaynağı galerisinde adanmış bir genel promosyon hazırlığı kılavuz koleksiyonunda kullanılabilir olacaktır.
+
+Bu kılavuza bağlantılar da aşağıdaki koleksiyonlara dahil edilecek:
+
+- Yaklaşan değişikliklerin merkezi bir görünümünü sağlayan ve başlatılan [Takvim koleksiyonunu başlatın](https://partner.microsoft.com/resources/collection/csp-announcement-calendar#/).
+
+- Aylık iş ortağı aramalarımıza yönelik destekleyici malzemeler içeren [topluluk koleksiyonları](https://partner.microsoft.com/resources/collection/april-2021-csp-partner-community-content#/), yaklaşan değişiklikleri ve işletimsel ilgi çekici konuları vurgular.
+
+- CSP aylık güncelleştirmesi gibi [Iş ortağı bültenleri](https://partner.microsoft.com/resources/collection/csp-monthly-update#/)
+
+Aylık bir anımsatıcı olarak, genel promosyon hazırlığı Kılavuzu 'ndaki her yeni sorunla bir Iş Ortağı Merkezi duyurusu de yayımlayacağız.
+
+### <a name="next-steps"></a>Sonraki adımlar
+
+Her ayın başlangıcında, en son [genel promosyon hazırlığı kılavuzunu](https://partner.microsoft.com/resources/detail/operations-promo-guide-pdf) , [işlem hazırlık kaynağı galerisinde](https://partner.microsoft.com/resources)bulabilirsiniz.
+
+Bu bilgileri kuruluşlarınızın ilgili kişileri ile paylaşabilir ve "Bu sayfa yardımcı oldu mu?" kılavuzunun ne kadar faydalı olduğunu bize bildirmek için düğmesini her sayfanın sonundaki düğme.
+
+________________
+## <a name="april-cloud-solution-provider-csp-community-update-and-reminders"></a><a name="5"></a>Nisan bulut çözümü sağlayıcısı (CSP) topluluk güncelleştirmesi ve anımsatıcıları
+
+### <a name="categories"></a>Kategoriler
+
+- Tarih: 2021-04-16
+- Topluluk | Davetlere ve anımsatıcıları
+
+### <a name="summary"></a>Özet
+
+CSP Community kaynakları isteğe bağlı olarak kullanılabilir ve CSP programında değişiklik için hazır ve hazırlanmaya hazırlıklı olmak üzere aylık olarak güncelleştirilir.
+
+### <a name="impacted-audience"></a>Etkilenen hedef kitle
+
+CSP doğrudan fatura ortakları ve dolaylı sağlayıcılar
+
+### <a name="details"></a>Ayrıntılar
+
+Bu ay, kaynaklar aşağıdaki temel konuları içerir:
+
+- [CSP program evrimi ve açık lisans programı değişikliklerinde Güncelleştir](https://partner.microsoft.com/resources/collection/csp-open-evolution-to-a-better-experience#/)
+
+- [Belirli bölgelerde CSP müşterisi ekleme gereksinimlerinde yapılan değişiklikler](https://partner.microsoft.com/resources/collection/additionalfields-csp-customers-selected-geos#/)
+
+- [CSP programındaki yeni ticaret PDF faturası için yeni biçim](https://partner.microsoft.com/resources/collection/introducing-new-format-for-the-new-commerce-invoice-in-csp#/)
+
+[CSP topluluk koleksiyonu](https://partner.microsoft.com/resources/collection/april-2021-csp-partner-community-content#/)içinde şunları bulabilirsiniz:
+
+- En son CSP bildirilerini, güncelleştirmeleri, olayları ve anımsatıcıları kolay okunabilir bir belgede toplayan, indirilebilir [CSP aylık güncelleştirme Bülteni](https://partner.microsoft.com/resources/detail/csp-monthly-update-april-2021-global).
+
+- Programın etkilediği yaklaşan değişikliklerin zaman çizelgesi görünümünü sağlayan [CSP duyurusu takvimi](https://partner.microsoft.com/resources/detail/csp-announcement-calendar-april-2021).
+
+- Yaklaşan ürünün sunduğu ve tekliflerinin görüntüleneceği yeni [ürün başlatma takvimi](https://partner.microsoft.com/resources/detail/product-launch-calendar-april-pdf).
+
+- CSP, anahtar işletimsel değişiklikler üzerinde kullanımı kolay içerik ile [güncelleştirme kaynaklarını başlatın](https://partner.microsoft.com/resources/collection/april-2021-csp-launch-topics-collection#/) .
+
+- Önemli CSP ile ilgili [Yenileiciler ve anımsatıcıları](https://partner.microsoft.com/resources/detail/csp-april-2021-refreshers-and-reminders-pdf) , ilgi ve sorguları alma konuları.
+
+#### <a name="csp-community-call-qas"></a>CSP topluluk çağrısı soru-cevap&
+
+Topluluk çağrısı soru-cevap, yaklaşan değişikliklerle ilgili sorularınız konusunda size yardımcı olacak şekilde&. CSP topluluk çağrısı soru-cevap&Nisan, Mayıs ve Haziran 'da gerçekleşirken hemen kaydolun. Bunlar en son başlatmalar, önemli yenileiciler ve anımsatıcıları üzerine odaklanacaktır.
+
+[Buraya kaydolun](https://globalpbocomm.eventbuilder.com/GlobalCSP).
+
+### <a name="next-steps"></a>Sonraki adımlar
+
+Topluluk kaynaklarını gözden geçirin ve topluluk çağrısı Q&A için kaydolun.
+
+Soru-cevap&topluluk çağrısından en iyi şekilde yararlantığınızdan emin olmak için, isteğe bağlı topluluk içeriğini gözden geçirin ve sorularınızı çağrıdan önce 48 saate kadar iletin.
+
+### <a name="questions"></a>Sorularınız mı var?
+
+Aylık CSP topluluk çağrısı Q&A, CSP programındaki değişikliklerle ilgili soruların en iyi yerdir. Her ay, sizin için en önemli olan konularda oturum harcayabilmeniz için malzemeleri gözden geçirin ve sorularınızı önceden gönderebilirsiniz.
+
+Daha fazla bilgi için [desteğe](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?category=csp)başvurun.
 
 ________________
 ## <a name="reminder-deprecation-of-get-qualification-on-may-4-2021"></a><a name="4"></a>Anımsatıcı: 4 Mayıs 2021 ' de GET nitelemesini kullanımdan kaldırma
