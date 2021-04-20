@@ -10,17 +10,85 @@ ms.custom:
 - announcement
 - references_regions
 ms.localizationpriority: high
-ms.date: 04/16/2021
-ms.openlocfilehash: 68635b4c02ddbbcaa6cbf02166a7cf123aaf2c6e
-ms.sourcegitcommit: 4212cd168f3a9a73f6ed05109b0eecb96827ec04
+ms.date: 04/19/2021
+ms.openlocfilehash: 4da672da3ee96d0fb3aea7919ea85214ec8c976f
+ms.sourcegitcommit: 8dec892d3ff82c4d4753082a603f3b7b4c13c248
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/17/2021
-ms.locfileid: "107584176"
+ms.lasthandoff: 04/19/2021
+ms.locfileid: "107728938"
 ---
 # <a name="april-2021-announcements"></a>Nisan 2021 duyuruları
 
 Bu sayfa, 2021 Nisan için Microsoft Iş Ortağı Merkezi duyuruları sağlar.
+
+________________
+## <a name="open-licensing-program-transitioning-resellers-to-the-cloud-solution-provider-csp-program"></a><a name="7"></a>Lisanslama programını açın: satıcıları bulut çözümü sağlayıcısı (CSP) programına geçiş
+
+### <a name="categories"></a>Kategoriler
+
+- Tarih: 2021-04-19
+- Işletmenizi büyütün
+
+### <a name="summary"></a>Özet
+
+Bu iletişim, açık lisanslama programına yakında sunulacak değişiklikler için nasıl hazırlanacağına ilişkin ayrıntıları sağlar.
+
+### <a name="impacted-audience"></a>Etkilenen hedef kitle
+
+CSP ve açık lisans iş ortakları
+
+### <a name="details"></a>Ayrıntılar
+
+2020 ' de, Microsoft kalıcı yazılım lisanslarının bulut çözümü sağlayıcısı (CSP) programı aracılığıyla iş ortakları ve müşteriler için genel kullanıma sunulduğunu [duyurmuştur](https://blogs.partner.microsoft.com/mpn/general-availability-of-perpetual-software-licenses-in-the-cloud-solution-provider-program/) . Ticari kalıcı yazılım teklifi kullanılabilir duruma geldiğinde, 2021 Ocak 'ta ilk kilometre taşına ulaşıldı. Bir sonraki anahtar kilometre taşı, [genel sektör](https://aka.ms/openlicensepublicsector) teklifleri kullanılabilir olduğunda 2021 Temmuz 'da gerçekleşecektir. [Ayrıca,](https://blogs.partner.microsoft.com/mpn/expanding-opportunities-for-partners-in-the-cloud-solution-provider-program/) 1 Ocak 2022 ' den itibaren geçerli olan, yazılım güvencesi veya çevrimiçi hizmetler yeni yazılım lisansı satın alma veya yenileme Işlemleri açık lisans programı aracılığıyla yapılabilir.
+
+Kalıcı yazılımın yeni ticaret deneyiminde CSP programına geçişi, iş ortaklarının farklı çözümler ve yönetilen hizmetler sunmak üzere fırsatları genişletmesine yardımcı olur. Bu, müşterilerin buluta geçişini de hızlandıracaktır.  Hem iş ortaklarımız hem de müşterilerimiz için sorunsuz bir geçişin sağlanmasına yardımcı olmak üzere bu düzeltmeleri ve malzemeleri bu dijital dönüştürmeyi hızlandırmak için yaptık:
+
+#### <a name="april-2021"></a>2021 Nisan
+
+[Artık kullanılabilir](https://partner.microsoft.com/resources/collection/reseller-open-license-to-csp-transition-materials#/): satıcılar için LISANS-CSP geçiş malzemelerini açma
+
+#### <a name="july-2021"></a>2021 Temmuz
+
+##### <a name="csp"></a>CSP
+
+- 1 Temmuz: kamu sektörü müşterileri için kullanılabilir kalıcı yazılım lisansları
+
+- 7 Temmuz: Visual Studio Pro ve tüm kesimlerde kullanılabilen orijinal Windows sözleşmesi kalıcı yazılım lisanslarını al
+
+##### <a name="open-value"></a>Açık değer
+
+- 1 Temmuz: eğitim ve kar amacı için açık değer programında bulunan ek SKU 'Lar, açık lisans programına benzer teklifler sağlar
+
+##### <a name="open-license"></a>Açık Lisans
+
+- 1 Temmuz: Microsoft, artık açık lisans programında yeni teklifleri başlatamaz.
+
+#### <a name="january-2022"></a>Ocak 2022
+
+- 1 Ocak: açık lisans programı aracılığıyla yeni satın alma veya yenileme yapılamaz
+
+### <a name="next-steps"></a>Sonraki adımlar
+
+#### <a name="csp-indirect-providers"></a>CSP dolaylı sağlayıcıları
+
+Gelecek ayları kullanarak, iş ortağı topluluk olaylarına katılarak ve satıcıların açık lisans--CSP geçiş malzemelerini kullanarak, CSP programına yönlendiren lisans satıcıları hakkında yardım almak için önümüzdeki ayları kullanın:
+
+- Satıcılar için [lisansdan CSP geçiş malzemelerini açın](https://partner.microsoft.com/resources/collection/reseller-open-license-to-csp-transition-materials#/): özelleştirilebilir genel bakış sunumu, e-posta şablonu, CSP dolaylı Bayi ekleme Kılavuzu ve daha fazlası, satıcılarınızın ölçeğini ölçeklendirmenize yardımcı olur.
+
+- Microsoft Iş Işlemleri tarafından barındırılan [CSP Iş ortağı topluluk olayları](https://globalpbocomm.eventbuilder.com/GlobalCSP) .  CSP temel bilgilerini (CSP temelleri) öğrenmek veya güncel kalmak ve CSP 'deki yazılımla ilgili sorular sormak (soru-cevap&) için çeşitli oturumlara katılarak.
+
+- (Çok yakında) CSP dolaylı satıcısı – Microsoft Iş Işlemleri tarafından barındırılan odaklı eğitim oturumu.
+
+#### <a name="open-license-resellers"></a>Açık Lisans satıcıları
+
+- Kuruluşunuz Şu anda CSP programına kayıtlı değilse, kullanmaya başlama hakkında bilgi edinmek için dağıtıcıya başvurun. Dolaylı bir sağlayıcıya [buradan](https://partner.microsoft.com/membership/cloud-solution-provider/find-a-provider)bağlanın.
+
+- Kuruluşunuz zaten CSP programına kaydedildiyse, [burada](https://partner.microsoft.com/resources/collection/software-in-csp)CSP 'de kalıcı yazılımlar hakkında daha fazla bilgi edinin.
+
+### <a name="questions"></a>Sorularınız mı var?
+
+Bu teklifler hakkında daha fazla soru için ilgili Yammer topluluklarınızı kontrol edin.
 
 ________________
 ## <a name="now-live-global-promo-readiness-guide"></a><a name="6"></a>Şimdi canlı: genel promosyon hazırlığı Kılavuzu
