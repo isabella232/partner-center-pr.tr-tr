@@ -10,17 +10,61 @@ ms.custom:
 - announcement
 - references_regions
 ms.localizationpriority: high
-ms.date: 04/19/2021
-ms.openlocfilehash: 4da672da3ee96d0fb3aea7919ea85214ec8c976f
-ms.sourcegitcommit: 8dec892d3ff82c4d4753082a603f3b7b4c13c248
+ms.date: 04/20/2021
+ms.openlocfilehash: 57253531ddc751d8e361f230f039196acc0662a6
+ms.sourcegitcommit: 0488a6cca02dafbfc84211643035212296df9689
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/19/2021
-ms.locfileid: "107728938"
+ms.lasthandoff: 04/21/2021
+ms.locfileid: "107823393"
 ---
 # <a name="april-2021-announcements"></a>Nisan 2021 duyuruları
 
 Bu sayfa, 2021 Nisan için Microsoft Iş Ortağı Merkezi duyuruları sağlar.
+
+________________
+## <a name="cloud-solution-provider-csp-software-return-period-policy-and-download-link-expiry-notice"></a><a name="8"></a>Bulut çözümü sağlayıcısı (CSP) yazılım dönüş dönemi ilkesi ve indirme bağlantısı süre sonu bildirimi
+
+### <a name="categories"></a>Kategoriler
+
+- Tarih: 2021-04-21
+- Özellikler
+
+### <a name="summary"></a>Özet
+
+CSP yazılım dönüş dönemi ilkesinde değişiklikler ve indirme bağlantısı süre sonu bulunur.
+
+### <a name="impacted-audience"></a>Etkilenen hedef kitle
+
+CSP 'de deneyimidir iş ortakları kalıcı yazılım veya yazılım aboneliği tekliflerini
+
+### <a name="details"></a>Ayrıntılar
+
+Kalıcı yazılım ve yazılım aboneliği satın alımları ile ilgili aşağıdaki önemli bildirimlere Iş Ortağı Merkezi aracılığıyla dikkat edin:
+
+#### <a name="software-return-period-policy"></a>Yazılım dönüş dönemi ilkesi
+
+1 Haziran 2021 ' den itibaren, Microsoft Iş ortağı sözleşmesi 'nde (MPA) belirtilen CSP 'deki yazılım teklifleri için dönüş süresi, sipariş tarihinden itibaren Tarih ile 30 gün arasında 60 değişir.
+
+Yazılım teklifinin bir siparişi gönderildikten sonra, iş ortaklarının bu sırada herhangi bir düzeltme göndermesi için sipariş tarihinden 30 gün daha sahip olur:
+
+- 30 günlük iade dönemi içinde döndürülen herhangi bir kalıcı yazılım lisansı, ücretli satın alma fiyatının tam kredisini alacaktır.
+
+- 30 günlük iade dönemi içinde döndürülen tüm yazılım aboneliği ürünleri, ücretli satın alma fiyatının eşit oranda dağıtılmış bir kredisi alır.
+
+Bu ileti, 2020 Aralık tarihinde gönderilen e-posta iletişimimizi takip eden bir izleme ve MPA 'nın geri dönüş dönemi ve diğer güncelleştirmeleriyle ilgili tüm CSP iş ortakları için 2021 Nisan. MPA 'nın etkilediği değişikliklerle ilgili tam Ayrıntılar için bu bildirimlere bakın.
+
+#### <a name="software-download-link-expiry"></a>Yazılım indirme bağlantısı süre sonu
+
+3 Haziran 2021 ' den, kalıcı yazılım ve yazılım aboneliği satın alma işlemleri için Iş Ortağı Merkezi aracılığıyla yapılan yazılım indirme bağlantılarının ilk indirmesinden beş gün sona erme tarihi olacaktır. Süre sonu dönemi 3 Haziran 2021 ' den önceki tüm satın alımlar için, 3 Haziran 2021 ' de veya sonrasında geçerlidir.
+
+### <a name="next-steps"></a>Sonraki adımlar
+
+[CSP dönüş dönemini gözden geçirin ve bağlantı süre sonu hakkında SSS 'yi indirin](https://partner.microsoft.com/resources/detail/csp-software-return-period-download-expiry-faq-pdf)ve bu değişiklikleri kuruluşunuzdaki tüm uygun takımları bilgilendirin:
+
+### <a name="questions"></a>Sorularınız mı var?
+
+Bu tekliflerle ilgili sorular için ilgili Yammer topluluklarınızı kontrol edin.
 
 ________________
 ## <a name="open-licensing-program-transitioning-resellers-to-the-cloud-solution-provider-csp-program"></a><a name="7"></a>Lisanslama programını açın: satıcıları bulut çözümü sağlayıcısı (CSP) programına geçiş

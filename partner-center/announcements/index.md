@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 04/19/2021
-ms.openlocfilehash: b96832fe4450cadd2da83e4cf9697f1f16bc81a3
-ms.sourcegitcommit: 8dec892d3ff82c4d4753082a603f3b7b4c13c248
+ms.date: 04/20/2021
+ms.openlocfilehash: 47723bd4b2deed703e224f7151a1d85a478aa8a7
+ms.sourcegitcommit: 0488a6cca02dafbfc84211643035212296df9689
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/19/2021
-ms.locfileid: "107728955"
+ms.lasthandoff: 04/21/2021
+ms.locfileid: "107823376"
 ---
 # <a name="partner-center-announcements"></a>İş Ortağı Merkezi duyuruları
 
@@ -22,6 +22,7 @@ ms.locfileid: "107728955"
 
 |**Kategori**|**Nisan 2021 duyuruları**|**Duyurulan**|
 |---------|:---------|:---------|
+|Özellikler|[Bulut çözümü sağlayıcısı (CSP) yazılım dönüş dönemi ilkesi ve indirme bağlantısı süre sonu bildirimi](2021-april.md#8)|21 Nisan|
 |Işletmenizi büyütün|[Lisanslama programını açın: satıcıları bulut çözümü sağlayıcısı (CSP) programına geçiş](2021-april.md#7)|19 Nisan|
 |Özellikler|[Şimdi canlı: genel promosyon hazırlığı Kılavuzu](2021-april.md#6)|16 Nisan|
 |Topluluk: davetlere ve anımsatıcıları|[Nisan bulut çözümü sağlayıcısı (CSP) topluluk güncelleştirmesi ve anımsatıcıları](2021-april.md#5)|16 Nisan|
