@@ -6,12 +6,12 @@ ms.service: partner-dashboard
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 04/16/2021
-ms.openlocfilehash: fcd3905777cd69665158ebff73f115bf6dd00b9d
-ms.sourcegitcommit: 1f090ea858b25d1d0664d6e94cb4a6898e91dd85
+ms.openlocfilehash: 1838c047cff119cafb2711d6f044c03f197a9963
+ms.sourcegitcommit: e33a9451e99f4276fe616fca35754ef43f70391e
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/19/2021
-ms.locfileid: "107715927"
+ms.lasthandoff: 04/22/2021
+ms.locfileid: "107894069"
 ---
 # <a name="tax-details-for-commercial-marketplace-publishers"></a>Ticari market yayıncıları için vergi bilgileri
 
@@ -39,16 +39,16 @@ Microsoft, Microsoft 'un eylemlerin Microsoft tarafından yönetilen ülkelerde 
 |   |    |    |   |
 |---------------|:------------------|:--------|:----------|
 |ABD Virjin Adaları|Kongo (KDC)|Jersey|Norfolk Adası|
-|Afganistan|Cook Adaları|Ürdün|Ukrayna|
-|Arnavutluk|Kosta Rika|Kazakistan|Vanuatu|
-|Cezayir|Fildişi d'Ivore|Kenya|Vatikan|
-|Amerikan Samoası|Curacao|Kiribati|Venezuela|
-|Andorra|Dübouti|Kuveyt|Vietnam|
-|Angola|Dominika|Kırgızistan|Wallis & Futuna|
-|Anguilla|Dominik Cumhuriyeti|Laos|Yemen|
-|Antarktika|Ekvador|Lübnan|Zambiya|
-|Antigua & Barbuda|Mısır|Lesotho|Uruguay||Kuzey Makedonya|
-|Aruba|El Salvador|Liberya|
+|Afganistan|Cook Adaları|Ürdün|Kuzey Makedonya|
+|Arnavutluk|Kosta Rika|Kazakistan|Ukrayna|
+|Cezayir|Fildişi d'Ivore|Kenya|Vanuatu|
+|Amerikan Samoası|Curacao|Kiribati|Vatikan|
+|Andorra|Dübouti|Kuveyt|Venezuela|
+|Angola|Dominika|Kırgızistan|Vietnam|
+|Anguilla|Dominik Cumhuriyeti|Laos|Wallis & Futuna|
+|Antarktika|Ekvador|Lübnan|Yemen|
+|Antigua & Barbuda|Mısır|Lesotho|Zambiya|
+|Aruba|El Salvador|Liberya|Uruguay|
 |Azerbaycan|Ekvator Ginesi|Libya|
 |Bangladeş|Eritre|Makao |
 |Barbados|Etiyopya|Madagaskar|

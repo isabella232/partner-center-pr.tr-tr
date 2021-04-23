@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 04/20/2021
-ms.openlocfilehash: 47723bd4b2deed703e224f7151a1d85a478aa8a7
-ms.sourcegitcommit: 0488a6cca02dafbfc84211643035212296df9689
+ms.date: 04/22/2021
+ms.openlocfilehash: 4e5faf1467ea12aac8f4dfaa4c35455159f64632
+ms.sourcegitcommit: 1e1aea329fdeef526e5273d2a4d8f5ec767ac49c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/21/2021
-ms.locfileid: "107823376"
+ms.lasthandoff: 04/23/2021
+ms.locfileid: "107917625"
 ---
 # <a name="partner-center-announcements"></a>İş Ortağı Merkezi duyuruları
 
@@ -76,7 +76,7 @@ ms.locfileid: "107823376"
 |Özellikler|[Microsoft İş Ortağı Sözleşmesi (MPA) olan iş ortakları için DocuSign’dan Adobe Sign’a geçiş](2021-january.md#7)|15 Ocak|
 |Teklifler/Pazarlar|[Norveç kronu için ticari fiyatlandırma güncelleştirmesi](2021-january.md#6)|14 Ocak|
 |Teklifler/Pazarlar|[Hindistan Rupisi için ticari fiyatlandırma güncelleştirmesi](2021-january.md#5)|8 Ocak|
-|Teklifler/Pazarlar|[1 Şubat 2021 için Arama Planı ve Telefon Sistemi güncelleştirmeleri](2021-january.md#4)|8 Ocak|
+|Teklifler/Pazarlar|[1 Şubat 2021 ' de plan ve telefon sistem güncelleştirmeleri çağrılıyor](2021-january.md#4)|8 Ocak|
 |Teklifler/Pazarlar|[Ocak 2021 için lisansa dayalı fiyat listesi güncelleştirmeleri](2021-january.md#3)|8 Ocak|
 |Özellikler|[Mevcut Eğitim müşterisi doğrulama süreci için GET ve PUT Koşullara Uygunluk API’lerinin Şubat 2021 sonu itibarıyla kullanımdan kaldırılması ve devre dışı bırakılması](2021-january.md#2)|5 Ocak|
 |Teklifler/Pazarlar|[Şubat 2021 için Dynamics 365 teklifleri](2021-january.md#1)|4 Ocak|
