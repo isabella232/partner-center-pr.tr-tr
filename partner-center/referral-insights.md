@@ -9,12 +9,12 @@ author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f58a7cc34b5b5b5755f652faf220d290ec2a355d
-ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
+ms.openlocfilehash: 410ee9bee307f78cc93dabbafab147bb725a8d02
+ms.sourcegitcommit: 25336c9e4ff1e76669ac71539265f79d1b2b29f5
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/25/2021
-ms.locfileid: "105549269"
+ms.lasthandoff: 04/24/2021
+ms.locfileid: "107941835"
 ---
 # <a name="get-referral-insights-in-partner-center-and-find-out-how-your-referrals-are-doing"></a>Iş Ortağı Merkezi 'nde başvuru öngörülerini alın ve başvurularınızın nasıl çalıştığını öğrenin
 
@@ -23,7 +23,7 @@ Başvurularda **analiz** bölümünün altındaki **ortak satış fırsatları**
 Ortak satış fırsatları öngörülerinizi görmek için Iş Ortağı Merkezi menüsünden **referanslar > analiz > ortak satış fırsatları**' na gidin.
 
 > [!Important]
-> Anlaşma türü filtresi, tüm veriler için seçilen **ortak satış** türüyle önceden uygulandı. Özel anlaşmalar ile ilgili verileri anlayze istiyorsanız filtreyi kaldırın.
+> Anlaşma türü filtresi, tüm veriler için seçilen **ortak satış** türüyle önceden uygulandı. Özel ve iş ortağı tarafından yapılan anlaşmalar ile ilgili verileri anlayze istiyorsanız filtreyi kaldırın.
 
 ## <a name="apply-filters"></a>Filtreleri uygulama
 
@@ -33,10 +33,10 @@ Bu sayfadaki tüm verileri müşteri adı, ülke, anlaşma türü, anlaşma yön
 
 - **Müşteri adı**: **Tümü** varsayılandır, ancak verileri seçtiğiniz bir veya daha fazla müşteriyle sınırlayabilirsiniz.
 - Ülke: **Tümü** varsayılandır, ancak verileri seçtiğiniz bir veya daha fazla müşterinin bir veya daha fazla **ülkesine** sınırlayabilirsiniz.
-- **Anlaşma türü**: **Tümü** varsayılandır, ancak seçiminize bağlı olarak verileri ortak satış fırsatları veya özel anlaşmalar ile sınırlayabilirsiniz.
+- **Anlaşma türü**: varsayılan, **ortak satışdır** , ancak seçiminize göre verileri özel veya iş ortağı olarak sınırlayabilirsiniz.
 - **Anlaşma yönü** Varsayılan değer **Tümü**' dir, ancak verileri **gelen** başvuruların (aldığınız olanlar) veya **giden** başvuruların (gönderdiğiniz) sınırlarını seçebilirsiniz.
 - **Çözüm adı**: **Tümü** varsayılandır, ancak verileri seçtiğiniz bir veya daha fazla çözümü içeren başvurularda sınırlamayı tercih edebilirsiniz.
-- **Durum**: **Tümü** varsayılandır, ancak verileri kabul edilen, reddedilen, süresi biten, kaybolan ve kazanıldı gibi bir veya daha fazla başvuru durum türü içeren başvurularda sınırlamayı seçebilirsiniz.
+- **Durum**: **Tümü** varsayılandır, ancak verileri oluşturulan, kabul edilen, reddedilen, süresi biten, kaybolan ve kazanıldı gibi bir veya daha fazla başvuru durum türü içeren başvurularda sınırlamayı tercih edebilirsiniz.
 
 Aşağıda belirtilen grafiklerin tümünde bulunan bilgiler, aşağıda belirtilenler dışında, tarih aralığını ve seçtiğiniz filtreleri yansıtır. Bazı bölümler, belirli bir çözüme filtreleme gibi ek filtreler uygulamanıza da imkan tanır.
 
@@ -54,17 +54,25 @@ Yüzde değişiklik ölçümleri (kırmızı veya yeşil renkle gösterilir, ok 
 
 Bu bölümde, anlaşmaların yaşam döngüsü boyunca bir durumdan diğerine nasıl geçilerek ilgili görsel bir gösterge gösterilmektedir. Tüm yaşam döngüsünü, bu bölümün ana özetine bağlı olarak, işlem hacmine ve ABD Doları cinsinden anlaşma değerine göre görüntüleyebilirsiniz. İlk bölüm hem durum ile, hem de türe göre birim veya değerin görsel bir göstergesini sağlamak için anlaşma türü olarak etiketlidir. Ayrıca, **geçmişteki bir başvuru** da vardır ve bu, bu işlemleri kabul ediyor/reddediliyor veya rapor için seçili olan süre içinde kazanıldı/kaybedildi olarak işaretleme eylemi gerçekleştirmiş olan anlaşmaları göstermek için kullanılır. Tüm yaşam döngülerinde çeşitli aşamalardaki anlaşmalar ilerlemesini görüntülemek için filtreler uygulayabilirsiniz.
 
-:::image type="content" source="images/referrals/cosellanalyticsfunnel.png" alt-text="Başvurular için dönüştürme huni gösteren resim.":::
+Ortak satış gelen anlaşmalar, iş ortaklarının gelen ortak satış anlaşmalar kabul etmesi veya reddetmesi için kabul edilen, reddedilen veya sona ermemiş olarak birleştirebilirler.
+
+:::image type="content" source="images/referrals/inbound.png" alt-text="Gelen başvuruların durumlarını gösteren resim.":::
+
+İş ortakları tarafından bu tür anlaşmalar oluşturulduğu için iş ortağı LED, özel ve ortak satış giden anlaşmaları, oluşturulacak şekilde birleştirilir.
+
+:::image type="content" source="images/referrals/outbound.png" alt-text="Giden başvuruların durumlarını gösteren resim.":::
+
+:::image type="content" source="images/referrals/cosell-analytics-funnel-v2.png" alt-text="Başvurular için dönüştürme huni gösteren resim.":::
 
 ## <a name="deals-by-geography"></a>Coğrafya ile anlaşmalar
 
 Bu bölümde, her bir ülke/bölge ile ilgili ayrıntıların yanı bilgi verilen anlaşmalar/bölgeler gösterilir. Her ülkenin işlem ayrıntılarının, tüm ülkelerin harita görünümüyle birlikte bir tablo görünümü vardır. Tablodaki belirli bir ülkeyi seçebilir veya belirli bir ülkeyi yakınlaştırmak için harita görünümünü seçebilirsiniz.
 
-:::image type="content" source="images/referrals/cosellanalyticsgeodistribution.png" alt-text="Başvuruların coğrafi dağılımını gösteren resim.":::
+:::image type="content" source="images/referrals/cosell-analytics-geo-distribution-v2.png" alt-text="Başvuruların coğrafi dağılımını gösteren resim.":::
 
 ## <a name="deals-by-solutions"></a>Çözümlere göre anlaşmalar
 
-Bu grafik, en fazla başvuruları ve en yüksek anlaşma değerini hangi çözümlerinizin yönlendirdiğini görmenizi sağlar. Tabloda iki özette ve ortak satış ve özel vardır.
+Bu grafik, en fazla başvuruları ve en yüksek anlaşma değerini hangi çözümlerinizin yönlendirdiğini görmenizi sağlar. Tabloda üç Özette, ortak satış, iş ortağı ve özel olmak üzere üç özet vardır.
 Özet seçiminize bağlı olarak, çözüme göre toplanan anlaşmalar performansını görebilirsiniz.
 
 > [!NOTE]
@@ -72,7 +80,7 @@ Bu grafik, en fazla başvuruları ve en yüksek anlaşma değerini hangi çözü
 
 Tabloda, çözüme dahil edilen toplam anlaşmalar ve kazanılan anlaşmalar, anlaşmalar kaybı, kaybedilen anlaşmalar ve ABD para birimi cinsinden kaybedilen anlaşmalar gibi ilgili durumlar bulunur. Ayrıca, toplam anlaşmalar sayısını gösteren tablo sağında bir anlaşmalar eğilimi grafiği ve seçilen çözüme bağlı olarak ABD Doları para biriminde kazanılan anlaşma değeri mevcuttur. Varsayılan seçim tüm çözümlerdir.
 
-:::image type="content" source="images/referrals/cosellanalyticssolutions.png" alt-text="Çözüm performansını gösteren resim.":::
+:::image type="content" source="images/referrals/cosell-analytics-solutions-v2.png" alt-text="Çözüm performansını gösteren resim.":::
 
 ## <a name="declined--lost-reasons"></a>& kayıp nedeni reddedildi
 
@@ -89,9 +97,9 @@ Verileri karşılaştırmak için seçebileceğiniz üç boyut
 - Pazar
 - Çözümler
 
-Anlaşma türü seçildiğinde, başvuru performansını ortak satış fırsatları ve özel anlaşmalar açısından karşılaştırabilirsiniz. Hem pazarlar hem de çözümler için performanslarını karşılaştırmak üzere üç farklı seçenek belirleyebilirsiniz. Bir çubuk grafik olan ilk grafikte, hacim veya anlaşmalar değeri kazanılan ana özete göre ayda ay eğilimi ile sunulan veriler bulunur. Ayrıca, çubuk grafiğin sağında aynı veriler için dağılımı yüzde olarak gösteren bir pasta grafiği de vardır.
+Anlaşma türü seçildiğinde, başvuru performansını ortak satış fırsatları, iş ortağı ve özel anlaşmalar açısından karşılaştırabilirsiniz. Hem pazarlar hem de çözümler için performanslarını karşılaştırmak üzere üç farklı seçenek belirleyebilirsiniz. Bir çubuk grafik olan ilk grafikte, hacim veya anlaşmalar değeri kazanılan ana özete göre ayda ay eğilimi ile sunulan veriler bulunur. Ayrıca, çubuk grafiğin sağında aynı veriler için dağılımı yüzde olarak gösteren bir pasta grafiği de vardır.
 
-:::image type="content" source="images/referrals/cosellanalyticscompare.png" alt-text="Karşılaştırma bölümünü gösteren resim.":::
+:::image type="content" source="images/referrals/cosell-analytics-compare-v2.png" alt-text="Karşılaştırma bölümünü gösteren resim.":::
 
 ## <a name="raw-data-table"></a>Ham veri tablosu
 
