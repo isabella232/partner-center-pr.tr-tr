@@ -9,16 +9,14 @@ author: kbangalore
 ms.author: kiranban
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cd0f1065e426a77beafe031c1e7b304fa910eeb0
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: d9366ccb7c091fded16387c963dc2f2eab4b2d88
+ms.sourcegitcommit: 26e6b470756aa9c1b3b0b919301b0eb38a335a52
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441566"
+ms.lasthandoff: 04/26/2021
+ms.locfileid: "108002833"
 ---
 # <a name="restore-a-suspended-partner-center-account---learn-why-it-happens-and-what-to-do-about-it"></a>Askıya alınmış İş Ortağı Merkezi hesabını geri yükleme - Nedenini ve ne yapabileceğinizi öğrenin
-
-Bu makalede İş Ortağı Merkezi hesabınız askıya alınırsa ne yapabileceğiniz açıklanır.
 
 **Şunlara uygulanır**
 
@@ -28,6 +26,7 @@ Bu makalede İş Ortağı Merkezi hesabınız askıya alınırsa ne yapabileceğ
 
 - Genel yönetici
 
+Bu makalede İş Ortağı Merkezi hesabınız askıya alınırsa ne yapabileceğiniz açıklanır.
 
 > [!IMPORTANT]  
 > İş Ortağı Merkezi hesabınız askıya alınmış olsa dahi var olan dağıtımlarınızı, lisanslarınızı ve hizmetlerinizi yönetmeye devam edebilirsiniz. Ancak hesabınızın durumu düzelene kadar yeni lisans veya hizmet konusunda yetkilendirme veya satış yapamazsınız.

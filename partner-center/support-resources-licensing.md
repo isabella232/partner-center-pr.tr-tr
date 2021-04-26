@@ -8,15 +8,18 @@ description: Bir Microsoft iş ortağı olarak, farklı Microsoft lisanslama pro
 author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
-ms.openlocfilehash: a00ae527b1ac89e14f33960517ec20f8a5bec624
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: d0b7e12c17054434e4d07c532739b0d079b49cca
+ms.sourcegitcommit: 26e6b470756aa9c1b3b0b919301b0eb38a335a52
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756821"
+ms.lasthandoff: 04/26/2021
+ms.locfileid: "108002918"
 ---
 # <a name="guide-to-licensing-resources-for-microsoft-partners"></a>Microsoft iş ortakları için lisanslama kaynakları kılavuzu 
 
+**Uygun roller**
+
+- Yardım Aracısı
 
 Bu makale, iş ortağı lisanslama sorularını yanıtlamaya yardımcı olabilecek kaynakları paylaşır.
 

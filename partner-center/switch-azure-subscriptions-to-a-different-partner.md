@@ -9,18 +9,22 @@ ms.localizationpriority: medium
 author: dhirajgandhi
 ms.author: dhgandhi
 ms.date: 02/09/2021
-ms.openlocfilehash: 886c39d192316987dcb68bff4d75302cc18a1305
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: b21bfcae4472763c19481ad506ae1c72d238e8f0
+ms.sourcegitcommit: 26e6b470756aa9c1b3b0b919301b0eb38a335a52
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441923"
+ms.lasthandoff: 04/26/2021
+ms.locfileid: "108002917"
 ---
 # <a name="learn-how-to-transfer-a-customers-azure-subscriptions-to-another-partner"></a>Müşterinin Azure aboneliklerini başka bir iş ortağına aktarmayı öğrenin
 
 **Şunlara uygulanır**
 
 - Microsoft Cloud for US Government için İş Ortağı Merkezi
+
+**Uygun roller**
+
+- Genel yönetici
 
 Bu makalede, bir müşterinin Microsoft Azure hizmetlerini bir bulut çözümü sağlayıcısından (CSP) bir başkasına nasıl geçbir şekilde bir şekilde nasıl bir şekilde bir
 

@@ -9,14 +9,18 @@ ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 06/03/2020
-ms.openlocfilehash: 67c1689136892443937748b6cc9e31e4f0ac9983
-ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
+ms.openlocfilehash: f395987ef647fa6f7ed264c6476ddae419eabc34
+ms.sourcegitcommit: 26e6b470756aa9c1b3b0b919301b0eb38a335a52
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "105028426"
+ms.lasthandoff: 04/26/2021
+ms.locfileid: "108002867"
 ---
 # <a name="migrate-skype-for-business-online-plan-1-subscriptions-to-newer-office-365-versions"></a>Skype Kurumsal Çevrimiçi Plan 1 aboneliklerini yeni Office 365 sürümlerine geçirme
+
+**Uygun roller**
+
+- Satış Aracısı
 
 Skype Kurumsal Çevrimiçi kullanım planı 1, 1 Ağustos 2018 ' ten itibaren kullanımdan kaldırılacaktır. Bu tarihten sonra müşteriler artık yeni Skype Kurumsal plan 1 abonelikleri satın almayabilir ve mevcut abonelikler, süreleri dolduğunda otomatik olarak yenilenmez ve bir yenileme seçeneği sağlamacaktır. Aboneliğin ayrıntı sayfasında, Skype Kurumsal Çevrimiçi kullanım planı 1 abonelik durumu "otomatik yenilemede [Tarih]" içinde "süresi doluyor" olarak değiştirilmiştir.  
 
@@ -76,3 +80,8 @@ Kullanıcı lisansını yeni hizmete taşıdıktan sonra, kullanımdan kaldırı
 
 Eski abonelik askıya alındı ve yeni abonelik etkin. Askıya alınan abonelik 120 gün sonra otomatik olarak sağlanacaktır. Müşteri, eski abonelik için ek maliyet içermez.
 
+## <a name="next-steps"></a>Sonraki adımlar
+
+- [Danışmanları: Office 365 ' i denemek için istemciler için deneme daveti oluşturma ve gönderme](advisors-create-a-trial-invitation.md)
+- [Danışmanları: Office 365 deneme davetleri ve satın alma tekliflerle istemci tabanınızı derleme](advisors-build-your-business.md)
+- [Danışmanları: satın alma teklifi oluşturma](advisor-create-a-purchase-offer.md)

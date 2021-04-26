@@ -9,14 +9,18 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0f90162ce7d3848fc930c956077ae96994848696
-ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
+ms.openlocfilehash: b339c0eec72d2184e15301270633305682799461
+ms.sourcegitcommit: 26e6b470756aa9c1b3b0b919301b0eb38a335a52
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "105028460"
+ms.lasthandoff: 04/26/2021
+ms.locfileid: "108002884"
 ---
 # <a name="use-partner-center-to-sell-customers-subscriptions-to-commercial-marketplace-products"></a>Iş Ortağı Merkezi 'ni kullanarak ticari Market ürünlerine müşteri abonelikleri satma
+
+**Uygun roller**
+
+- Satış Aracısı
 
 CSP programındaki bir iş ortağı olarak, Iş Ortağı Merkezi 'ni kullanarak, ticari Market 'te ([Microsoft AppSource](https://appsource.microsoft.com/) ve [Azure Marketi](https://azuremarketplace.microsoft.com/)) Yayınlanan hizmet olarak yazılım (SaaS) ürünlerini bağımsız yazılım satıcıları (ISV 'ler) tarafından satılan bir hizmet olarak yazılım (SaaS) ürünü satın alabilirsiniz.
 
