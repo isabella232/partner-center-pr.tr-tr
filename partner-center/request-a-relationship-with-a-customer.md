@@ -8,14 +8,19 @@ description: Çoklu iş ortakları, çok kanallı senaryolar veya bir müşterin
 author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
-ms.openlocfilehash: 2403ec6cdb2776ab04fa76a37d690a748de38714
-ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
+ms.openlocfilehash: 55f86e6e48b0b897410826e22564e2d27e25258b
+ms.sourcegitcommit: efd711b0e65c55f24ce5b9636abd7b5a8cc719fe
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/25/2021
-ms.locfileid: "105548980"
+ms.lasthandoff: 04/27/2021
+ms.locfileid: "108018144"
 ---
 # <a name="how-to-request-a-reseller-relationship-from-a-customer-in-partner-center"></a>İş Ortağı Merkezi'nde müşteriden kurumsal bayi ilişkisi isteğinde bulunma
+
+**Uygun roller**
+
+- Yönetim Aracısı
+- Genel yönetici
 
 Müşterinin hizmet veya aboneliğini kendi adına yönetmek istiyorsanız, müşteri size bu hizmet veya abonelik için yönetici izinleri vermelidir ve Microsoft Müşteri sözleşmesini imzalayamalıdır.
 
@@ -38,7 +43,7 @@ Bir müşteriyle satıcı ilişkisi kurmak ve yalnızca sağladığınız Azure 
 
 4. E-postayı müşterinize gönderin.
 
-5. Müşteri davetinizi kabul ettikten sonra **müşteriler** sayfanızda görünürler ve servisi buradan müşteri için temin edebilir...
+5. Müşteri davetinizi kabul ettikten sonra **müşteriler** sayfanızda görünürler ve servisi buradan müşteriye temin edebilir ve yönetebilirsiniz.
 
    > [!NOTE]
    > Müşteri Microsoft Müşteri anlaşmasını zaten kabul etmediyse, davetinizi kabul ettiğinde bunu yapması istenir. Müşterinin daveti kabul etmesi için genel yönetici olması gerekir.

@@ -9,14 +9,18 @@ author: billLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 38fe5d03784d0fcf0796545d31e8272f316d2878
-ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
+ms.openlocfilehash: 05ccc6016e9dcd6e7582cdd31dbc4d0054c43f8d
+ms.sourcegitcommit: efd711b0e65c55f24ce5b9636abd7b5a8cc719fe
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 02/06/2021
-ms.locfileid: "99623992"
+ms.lasthandoff: 04/27/2021
+ms.locfileid: "108018076"
 ---
-# <a name="restricted-direct-bill-capabilities-and-the-requirements-needed-for-csp-direct-bill-partners"></a>Kısıtlanmış doğrudan fatura özellikleri ve CSP doğrudan fatura ortakları için gereken gereksinimler  
+# <a name="restricted-direct-bill-capabilities-and-the-requirements-needed-for-csp-direct-bill-partners"></a>Kısıtlanmış doğrudan fatura özellikleri ve CSP doğrudan fatura ortakları için gereken gereksinimler
+
+**Uygun roller**
+
+- Genel yönetici
 
 ## <a name="overview"></a>Genel Bakış
 
@@ -29,7 +33,7 @@ Doğrudan fatura ortakları, CSP doğrudan fatura ortağı programında kalacak 
 
 Doğrudan fatura ortağı kiracısından doğrudan fatura özelliklerine erişimin kısıtlanıp kısıtlanmadığını doğrulamak için aşağıdaki adımları izleyin.
 
-1. [Iş Ortağı Merkezi panosunda](https://partner.microsoft.com/dashboard)oturum açın.
+1. [İş Ortağı Merkezi panosunda](https://partner.microsoft.com/dashboard) oturum açın.
 
 2. **Hesap ayarları**  ->  **yasal profili**' ne gidin.
 
@@ -58,8 +62,8 @@ Mevcut doğrudan fatura abonelikleri etkilenmez. Bunlar geçerli kalır ve otoma
 - Lisans tabanlı mevcut aboneliklerin lisans sayısını ayarla
 
 - Mevcut eklentilerin lisans sayısını bir aboneliğe ayarlayın. 
- 
-    >[!Note] 
+
+    >[!Note]
     >Yeni satın alma işlemi kabul edildiği için mevcut aboneliklere yeni eklentiler ekleyemezsiniz.
 
 - Yeni Azure kaynaklarını dağıtın ve mevcut Azure aboneliklerinden mevcut Azure kaynaklarını yönetin. Bu, Azure Marketi ve Visual Studio abonelikleri aracılığıyla kullanılabilen kaynakları içerir.
@@ -73,7 +77,7 @@ Yeni satın alımlara ek olarak, Iş Ortağı Merkezi 'nde aşağıdaki doğruda
     >[!NOTE]
     >Doğrudan fatura ortağından dolaylı satıcıya geçiş bir parçası olarak doğrudan fatura ortağı kiracınızı dolaylı satıcı olarak kaydettiyseniz, bunun yerine dolaylı satıcı ilişkisi isteyen müşteri için davet oluşturabilirsiniz.
 
-- Yeni korumalı alan kiracısı oluşturamazsınız. Her bir doğrudan fatura ortağı kiracısı, doğrudan Bill API tümleştirmesi amacıyla bir korumalı alan kiracısı oluşturabilir. Daha önce bir tane oluşturmadıysanız, doğrudan fatura ortağı özelliği sınırlandırdıktan sonra bunu yapma izniniz yoktur.  
+- Yeni korumalı alan kiracısı oluşturamazsınız. Her doğrudan fatura ortağı kiracısı, doğrudan Bill API tümleştirmesi için bir korumalı alan kiracısı oluşturabilir. Daha önce bir tane oluşturmadıysanız, doğrudan fatura iş ortağı özelliği kısıtlandıktan sonra bunu yapma izniniz yoktur.  
 
 ## <a name="next-steps"></a>Sonraki adımlar
 

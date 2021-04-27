@@ -9,12 +9,12 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 80c617a97575fea3003ea8652d48396412033cc7
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: f67a3b6a403f09cb773a5ca663d6cf6db1b03e2e
+ms.sourcegitcommit: efd711b0e65c55f24ce5b9636abd7b5a8cc719fe
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441957"
+ms.lasthandoff: 04/27/2021
+ms.locfileid: "108018129"
 ---
 # <a name="report-a-service-problem-on-behalf-of-a-customer---including-when-and-how-to-do-so"></a>Ne zaman ve nasıl yapılacağı gibi bir müşteri adına bir hizmet sorunu bildirin
 
@@ -24,7 +24,7 @@ ms.locfileid: "106441957"
 
 **Uygun roller**
 
-- Dolaylı sağlayıcı
+- Genel yönetici
 
 Müşteriniz çözemeyen bir hizmet sorunu yaşıyorsa ve [sorunları Microsoft 'A iletin](escalate-problems-to-microsoft.md)bölümünde açıklanan ölçütlere uyuyorsa, dolaylı sağlayıcınız bu kişilere yönelik bir destek bileti dosyası oluşturabilir. Bu işlem, faturalandırma sorunlarını veya anlaşmazlıkları yürüyen ve sahtekarlık sorunları için de kullanışlıdır.
 
@@ -109,7 +109,7 @@ Müşteri adına gönderebileceğiniz hizmet istekleri hakkında sık sorulan a�
 
 Hizmet isteklerinin Iş Ortağı Merkezi aracılığıyla dosyalanmış olması gerekir. Azure, Microsoft Office 365, Microsoft Dynamics CRM Online ve Enterprise Mobility Suite için kullanılabilir. Bulut çözümü sağlayıcısı programına katılan bir iş ortağı olarak, önemli sorunlarınız için öncelik yanıt süresini de bekleyebilir.
 
-Kendi iş ortağı kiracınız için destek, CSP desteği avantajı 'nın bir parçası olarak dahil değildir. Ancak, Office 365, Microsoft Dynamics CRM Online ve Enterprise Mobility Suite iş ortakları veya müşteriler için ayrı bir destek aboneliği ücreti ödemeyin. Azure bir ücret ödeyerek, ancak Imza bulut desteğine veya diğer Microsoft İş Ortağı Ağı (MPN) avantajlarına hak kazandıysanız, bu ücreti ödemek için bunları kullanabilirsiniz.
+Kendi iş ortağı kiracınız için destek, CSP desteği avantajı 'nın bir parçası olarak dahil değildir. Ancak, Office 365, Microsoft Dynamics CRM Online ve Enterprise Mobility Suite iş ortakları veya müşteriler için ayrı bir destek aboneliği ücreti ödemeyin. Azure bir ücret ödeyerek, ancak Imzaya bulut desteği veya diğer Microsoft İş Ortağı Ağı (MPN) avantajlarına hak kazandıysanız, bu ücretleri ödemek için bu avantajları kullanabilirsiniz.
 
 Bu avantaj, bulut çözümü sağlayıcısı programına katılan tüm iş ortakları için, ücretli veya deneme süresi içinde geçerlidir. Faturalandırma ve abonelik yönetimi desteği Ayrıca bu paketin ücretsiz bir bileşeni olarak da dahildir.
 

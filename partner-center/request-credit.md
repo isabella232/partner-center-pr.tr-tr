@@ -9,16 +9,21 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: d33188510b127873864260199ff92018e1a4d995
-ms.sourcegitcommit: 766b2bb46dffd29e532b42106359f83e51b96700
+ms.openlocfilehash: 1046d8afc8889461f75fb4c837d0e5af94c13e9f
+ms.sourcegitcommit: efd711b0e65c55f24ce5b9636abd7b5a8cc719fe
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106103834"
+ms.lasthandoff: 04/27/2021
+ms.locfileid: "108018161"
 ---
 # <a name="how-and-when-to-request-a-service-level-agreement-sla-credit-from-microsoft"></a>Microsoft 'tan bir hizmet düzeyi sözleşmesi (SLA) kredisi isteme
 
-Müşterileriniz için sağladığınızı bir hizmet kesintiye neden olursa, Microsoft 'tan **hizmet düzeyi sözleşmesi (SLA) kredileri** isteyebileceksiniz.
+**Uygun roller**
+
+- Yönetim Aracısı
+- Genel yönetici
+
+Müşterileriniz için sağladığınızı bir hizmet kesintiye neden olursa, Microsoft 'tan **hizmet düzeyi sözleşmesi (SLA) kredileri** isteyebilirsiniz.
 
 ## <a name="sla-credit-calculation"></a>SLA kredi hesaplaması
 
@@ -29,7 +34,7 @@ Microsoft 'tan alınan SLA kredileri, hangi hizmet (ler) in etkilendiğini temel
 
 ## <a name="request-an-sla-credit"></a>SLA Kredisi isteme
 
-*Bulut çözümü sağlayıcısı (CSP) iş ortağı, olayın gerçekleştiği ay sonra takvim ayının sonuna kadar talebi ve tüm gerekli bilgileri göndermesi gerekir.* Örneğin, olay 15 Şubat 'ta oluştuysa, Microsoft bu isteği ve tüm gerekli bilgileri 31 Mart tarihine kadar almalıdır. Son müşteriler ve dolaylı satıcılar SLA kredi taleplerini gönderemez; dolaylı sağlayıcı veya doğrudan fatura ortağı kendi adına talepler göndermesi gerekir.
+*Bulut çözümü sağlayıcısı (CSP) iş ortağı, olayın gerçekleştiği ay sonra takvim ayının sonuna kadar talebi ve tüm gerekli bilgileri göndermesi gerekir.* Örneğin, olay 15 Şubat 'da oluştuysa, Microsoft talep ve tüm gerekli bilgileri 31 Mart 'a almalıdır. Son müşteriler ve dolaylı satıcılar SLA kredi taleplerini gönderemez; dolaylı sağlayıcı veya doğrudan fatura ortağı kendi adına talepler göndermesi gerekir.
 
 >[!NOTE]
 >Danışmanlık olayları ([Microsoft 365 hizmeti sistem durumunu denetleme](https://docs.microsoft.com/microsoft-365/enterprise/view-service-health?&preserve-view=trueo365-worldwide#incidents-and-advisories)) SLA kredileri için uygun değildir.
@@ -51,7 +56,7 @@ Microsoft 'a [BIR SLA Kredisi isteği göndermeden](#submit-sla-credit-request) 
 - Etkilenen kullanıcıların sayısı ve konumları (varsa)
 - Olay oluşma sırasında çözülmesi girişimlerinizin açıklamaları
 - Etkilenen müşteriden gelen ve daha sonra kredi isteyen bir e-posta
-- Hizmetin etkisinin çözümlenmesinden bağımsız olarak müşterinin ilgili kişisinin destek bileti numarası ve ayrıntıları
+- Hizmet etkisini çözme ile ilgili olarak müşteri kişisinin destek bileti numarası ve ayrıntıları
 
 
 #### <a name="outage-incident-identifier"></a>Kesinti olayı tanımlayıcısı

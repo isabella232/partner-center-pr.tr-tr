@@ -9,16 +9,16 @@ author: dhirajgandhi
 ms.author: dhgandhi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f536d975d3c644a7afa29a95a3cb45608f6b2c9f
-ms.sourcegitcommit: 89be77c9f35c77463d9558826293202afc6dec56
+ms.openlocfilehash: 26768bdf33c03145a893fa445eab6ebf92ca9b1c
+ms.sourcegitcommit: efd711b0e65c55f24ce5b9636abd7b5a8cc719fe
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/13/2021
-ms.locfileid: "107315856"
+ms.lasthandoff: 04/27/2021
+ms.locfileid: "108018196"
 ---
 # <a name="reinstate-admin-privileges-for-a-customers-azure-csp-subscriptions"></a>Müşterinin Azure CSP abonelikleri için yeniden devreye sokma yönetici ayrıcalıkları  
 
-**Uygulanabilir roller**
+**Uygun roller**
 
 - Genel yönetici
 - Yönetim Aracısı
@@ -29,7 +29,7 @@ Bir CSP iş ortağı olarak, müşterileriniz genellikle Azure kullanımını ve
 
 CSP 'de Azure için iki yönetim ayrıcalıkları düzeyi vardır.
 
-**Kiracı düzeyinde yönetici ayrıcalıkları** (**yönetici ayrıcalıkları temsilcisi**)-CSP Iş ortakları, müşterilerle CSP satıcısı ilişkisi oluştururken bu ayrıcalıkları alır. Yönetici ayrıcalıkları, CSP iş ortaklarının müşterilerinin kiracılarına erişmesini sağlar ve bu sayede kullanıcıları ekleme/yönetme, parolaları sıfırlama ve kullanıcı lisanslarını yönetme gibi yönetim işlevleri gerçekleştirebilir.
+**Kiracı düzeyinde yönetici ayrıcalıkları** (**yönetici ayrıcalıkları temsilcisi**)-CSP Iş ortakları, müşterilerle CSP satıcısı ilişkisi oluştururken bu ayrıcalıkları alır. Yönetici ayrıcalıkları, CSP iş ortaklarının müşterilerinin kiracılarına erişmesini sağlar ve bu sayede Kullanıcı ekleme/yönetme, parolaları sıfırlama ve kullanıcı lisanslarını yönetme gibi yönetim işlevleri gerçekleştirebilir.
 
 **Abonelik düzeyi yönetici ayrıcalıkları** -CSP iş ortakları, müşterileri IÇIN Azure CSP abonelikleri oluştururken bu ayrıcalıkları alırlar. Bu ayrıcalıklara sahip olmak, CSP iş ortaklarının bu aboneliklerde Azure kaynaklarını sağlamasına ve yönetmesine olanak tanıyan tüm erişimleri olmasını sağlar.
 
@@ -39,7 +39,7 @@ Müşteriniz, AdminAgents grubunun nesne KIMLIĞINI sağladığınız sürece, C
 
 1. Iş Ortağı Merkezi panosunda oturum açın ve Iş Ortağı Merkezi menüsünde **müşteriler**' i seçin.
 
-2. Çalıştığınız müşteriyi seçin ve **bir satıcı ilişkisi isteyin.** Bu, kiracı yönetici haklarına sahip olan müşteriye bir bağlantı oluşturur.
+2. Çalıştığınız müşteriyi seçin ve **bir satıcı ilişkisi isteyin.** Bu eylem, kiracı yönetici haklarına sahip olan müşteriye bir bağlantı oluşturur.
 
 3. Bu müşterinin bağlantıyı seçmesini ve satıcı ilişki isteğini onaylaması gerekir.
 
@@ -79,7 +79,7 @@ Müşteriniz, AdminAgents grubunun nesne KIMLIĞINI sağladığınız sürece, C
     ```
 
 
-Abonelik kapsamı yerine kaynak grubu düzeyinde veya kaynak düzeyinde sahip rolü izni vermek istiyorsanız, aşağıdaki komutlar kullanılabilir:
+Abonelik kapsamı yerine kaynak grubu düzeyinde veya kaynak düzeyinde sahip rolü izni vermek istiyorsanız aşağıdaki komutlar kullanılabilir:
 
 
 ```powershell
