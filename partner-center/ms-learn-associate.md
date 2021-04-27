@@ -9,12 +9,12 @@ author: kbangalore
 ms.author: kiranban
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 32a41ac1695d40cf300b76af96ce824fcd48122d
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: 74fc22180aabf15dc6dd4109afb51518ccad5f10
+ms.sourcegitcommit: f74b56dd296a53a144a1120f29106b08376a00d4
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712809"
+ms.lasthandoff: 04/27/2021
+ms.locfileid: "108067516"
 ---
 # <a name="link-or-unlink-a-microsoft-certification-profile-id-mcid-to-a-microsoft-partner-network-mpn-account"></a>Microsoft sertifika profili KIMLIĞINI (MCıD) Microsoft İş Ortağı Ağı (MPN) hesabına bağlama veya bağlantısını kaldırma
 
@@ -73,9 +73,9 @@ Kullanıcı hesabının şirketten ayrıldıktan sonra genel yönetici tarafınd
 
 Yönetici önce kullanılan e-posta adresini doğrulamalıdır ve ardından hesap bilgilerinin sağlandığı kullanıcıyla iletişim kurmaya melidir.
 
-### <a name="a-user-tries-to-associate-their-mcp-learning-account-to-their-profile-in-partner-center-and-receives-a-message-that-their-association-is-limited"></a>Kullanıcı, MCP öğrenme hesaplarını Iş Ortağı Merkezi 'ndeki profiliyle ilişkilendirmeyi dener ve ilişkisinin sınırlı olduğunu belirten bir ileti alır.
+### <a name="a-user-tries-to-associate-their-mcp-learning-account-to-their-profile-in-partner-center-and-receives-a-message-that-their-association-is-limited-for-example-you-have-attempted-to-associate-with-a-partner-organization-however-we-require-a-period-of-30-days-between-associations-your-next-available-date-for-a-subsequent-association-is-xxx"></a>Kullanıcı, MCP öğrenme hesaplarını Iş Ortağı Merkezi 'ndeki profiliyle ilişkilendirmeyi dener ve ilişkisinin sınırlı olduğunu belirten bir ileti alır. Örneğin, "bir iş ortağı kuruluşla ilişkilendirmeyi denediniz. Bununla birlikte, ilişkilendirmeler arasında 30 günlük bir süre gerekir. Sonraki bir ilişkilendirme için bir sonraki kullanılabilir tarih XXX "
 
-Kötüye kullanımı karşı korumak için, bir MCP bireyin her yıl izin verilen sınırlı sayıda ilişkiye sahiptir. Her Kullanıcı, yeni bir ilişkilendirmeyi ne zaman başlatabilecekleri hakkında bilgi almak için profilindeki tarihi denetleyebilir. Kullanıcının bu tarihten sonra ilişkilendirme sorunları varsa, desteğe başvurmaları gerekir.  
+Uygunsuz kullanım açısından korumak için, bir MCP bireyin her yıl izin verilen sınırlı sayıda 3 ilişkiye sahiptir ve ilişkilendirmenin başlangıcında başlayan her bir ilişki arasında 30 günlük seyrek erişimli bir süre vardır. Her Kullanıcı, yeni bir ilişkilendirmeyi ne zaman başlatabilecekleri hakkında bilgi almak için profilindeki tarihi denetleyebilir. Kullanıcının bu tarihten sonra ilişkilendirme sorunları varsa, desteğe başvurmaları gerekir.  
 
 ## <a name="how-to-get-support"></a>Destek alma
 

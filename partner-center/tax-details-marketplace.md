@@ -5,13 +5,13 @@ ms.topic: conceptual
 ms.service: partner-dashboard
 author: mingshen-ms
 ms.author: mingshen
-ms.date: 04/16/2021
-ms.openlocfilehash: 8181a446bf279d059bca50ebd0c2e5b6c0f7c65b
-ms.sourcegitcommit: 8f9787c11f3b6a3d641c361e6b7cf1d64fea9d83
+ms.date: 04/26/2021
+ms.openlocfilehash: b63d252dd4a33d6ef9053aa4f93089b615f02ee8
+ms.sourcegitcommit: f74b56dd296a53a144a1120f29106b08376a00d4
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/23/2021
-ms.locfileid: "107927756"
+ms.lasthandoff: 04/27/2021
+ms.locfileid: "108067489"
 ---
 # <a name="tax-details-for-commercial-marketplace-publishers"></a>Ticari market yayıncıları için vergi bilgileri
 
@@ -124,6 +124,39 @@ Microsoft, yayımcıların/geliştiricilerin, Microsoft Market (s) üzerinden so
 |Yeni Zelanda|Hizmet ücreti üzerinden vergi|Hizmet ücreti üzerinden vergi|
 |Singapur|Hizmet ücreti üzerinden vergi|Hizmet ücreti üzerinden vergi|
 
+## <a name="commercial-marketplace-payout-scenarios"></a>Ticari Market ödeme senaryoları
+
+### <a name="end-customer-taxation"></a>Son müşteri vergilendirme
+
+- Senaryo One: Yayımcı tarafından yönetilen bir ülke satın alma teklifinin müşterisi
+
+  :::image type="content" source="images/tax/scenario-one.png" alt-text="Yayımcının nasıl ödeme yapıldığını gösteren grafik.":::
+
+- Senaryo iki: Microsoft tarafından yönetilen bir ülkede satın alma teklifinin müşterisi (yayımcı ülkesi ilgisiz)
+
+  :::image type="content" source="images/tax/scenario-two.png" alt-text="Microsoft tarafından yönetilen ülkede vergilendirme gösteren grafik":::
+
+- Senaryo üç: yabancı Yayımcı, Microsoft tarafından yönetilen bir ülkede bulunan bir AB-KDV kayıtlı müşterisi için çapraz sınır satışı yapar
+
+  :::image type="content" source="images/tax/scenario-three.png" alt-text="AB-KDV 'nin vergiyi nasıl etkileyeceğini gösteren grafik"::: 
+
+- Senaryo dört: yabancı Yayımcı, Microsoft tarafından yönetilen bir ülkede ya da Isviçre 'deki bir müşteriye ait yurtiçi olmayan bir satışla bir müşteriye yurtiçi satışı yapar
+
+  :::image type="content" source="images/tax/scenario-four.png" alt-text="KDV 'nin nasıl işlendiğini gösteren grafik":::
+
+- Senaryo beş: Microsoft tarafından yönetilen bir ülkede satın alma, mağaza servisi ücreti üzerinden vergi olduğunu teklif eden müşteri
+
+  :::image type="content" source="images/tax/scenario-five.png" alt-text="Mağaza hizmeti ücretinin vergiyi nasıl etkilediğini gösteren grafik":::
+
+### <a name="withholding-tax"></a>Stopaj vergisi
+
+- Senaryo bir: yabancı Yayımcı (vergi profilinde geçerli vergi anlaşmalar avantajları olmadan) bıze satışı yapar. 
+
+  :::image type="content" source="images/tax/withholding-one.png" alt-text="Vergi anlaşmalar olmadan stopaj vergisini gösteren grafik":::
+
+- Senaryo iki: bir anlaşmalar sayesinde yabancı Yayımcı (vergi profilinde yüzde sıfır oranına sahip geçerli vergi fırsatısına sahip olan), bıze müşteri satışı yapar. 
+
+  :::image type="content" source="images/tax/withholding-two.png" alt-text="Vergi treaile stopaj vergisini gösteren grafik":::
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
