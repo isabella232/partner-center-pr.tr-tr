@@ -9,12 +9,12 @@ author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6adf7039f6ad389f61c9cd0b5e4ad9454db06a5b
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: e8f99028fbb26003c0f18a85c5a6d7e416fecd60
+ms.sourcegitcommit: f8fd51e1acdbfafdde86d6490bade66c63033ebd
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106133038"
+ms.lasthandoff: 04/28/2021
+ms.locfileid: "108172209"
 ---
 # <a name="technical-support-benefits"></a>Teknik destek avantajları
 
@@ -76,6 +76,17 @@ Herhangi bir kullanıcı hesabı (AAD veya MSA), erişim KIMLIĞI ve sözleşme 
 
 Şirket Içi ürün için destek isteği oluşturmak üzere [Iş desteği](https://support.serviceshub.microsoft.com/supportforbusiness/create) ' ni seçin.
 
+## <a name="how-many-partner-support-incidents-are-remaining"></a>Kaç Iş ortağı destek olayı kaldı?
+Bu bilgileri yalnızca Iş yerinde şirket içi destek portalı için desteğe aktarabilirsiniz. Ne yazık ki bulut portalları Azure, LCS vb. bu bilgileri göstermez.
+
+Iş için destek kullanmanız ve bir şirket içi destek olayı oluşturmak için işlemi başlatmanız gerekir. İşlemi tamamlamadığımız için bir destek isteği oluşturmıyoruz. İhtiyaç duyduğumuz bilgiler 2. adımda gösteriliyor.
+
+1. Adım Windows 10 ' u seçin ve kukla bilgileri girin
+
+2. adım erişim KIMLIĞI ve sözleşme KIMLIĞI 'ni kullanarak destek sözleşmesi ekleyin. Şirket içi destek için Iş ortağı destek sözleşmesinin görüntülendiğini görebilirsiniz ve bu, başlangıç tarihi, bitiş tarihi ve kalan olayları içerir. "Kullanılamayan destek planlarını görmek istiyor musunuz?" öğesini genişletin. bölümüne bakın. Burada yalnızca sözleşmelerin geçerliliği dolmuşsa, kalan bir olay yoksa veya eski şirket içi bir ürünü seçtiyseniz Iş ortağı desteğini görürsünüz (bkz. destek ürünleri için bkz. [aka.MS/n-1](https://aka.ms/n-1) )
+
+**Daha ayrıntılı bilgi için bkz. [kaç Iş ortağı destek olayı kaldı?](https://support.microsoft.com/topic/how-many-partner-support-incidents-are-remaining-e8220db5-14f6-93db-4b4a-35766e11b3c3)** 
+
 ## <a name="signature-cloud-support-cloud-only"></a>İmza bulutu desteği (yalnızca bulut)
 
 Altın veya Gümüş uzmanlık ortakları, bulut ürünlerinde teknik destek için **Imza bulutu desteğini** kullanabilir. 
@@ -85,6 +96,22 @@ Avantajı ilk kez kullandığınızda erişim KIMLIĞI ve sözleşme KIMLIĞI ge
 Azure istekleri oluşturan CSP iş ortakları, destek sözleşmesi eklemeden "bulut çözümü sağlayıcısı" destek planını kullanabilir.
 
 **Yönetici Aracısı** rolüne sahip kullanıcılar, sol gezinti menüsünde, CSP altında bulunan [müşterileri](https://partner.microsoft.com/commerce/customers/list) seçebilir, **hizmet yönetimi**' ni seçebilir ve **yeni istek**' ı seçebilirsiniz.  İlgili iş yükünü seçtiğinizde, iş yüküne özgü Portal açılır ve bir destek sözleşmesi ekleyip bir istek oluşturursunuz.
+
+## <a name="azure-portal-error-access-id-is-already-associated-"></a>Azure portal hatası "erişim KIMLIĞI zaten ilişkilendirilmiş..."
+Azure portal kullandığınızda, yardım + destek, destek planları ve "destek avantajlarını bağla" seçeneğini belirleyip erişim KIMLIĞINI ve sözleşme KIMLIĞINI girerek Imza bulutu desteğini kullanırsınız.
+
+> [!NOTE]
+> Microsoft Eylem Paketi sahipseniz, yalnızca Microsoft ürün desteği (Şirket içi) Imza bulutu desteği içermediği için bulut desteği almaz
+
+*"Bu ERIŞIM kimliği zaten bir hesapla ilişkilendirilmiş" hata iletisini görebilirsiniz. Yeni erişim KIMLIĞI almak için lütfen teknik hesap yöneticinize başvurun*. **Bu hata iletisi geçersiz ve göz ardı edilmelidir!** Hatanın devre dışı bırakılması ve yararlı bir tanılama hata iletisiyle değiştirilmesini istedi. 
+
+Yukarıdaki "erişim KIMLIĞI zaten ilişkilendirilmiş..." olarak görüntülenir. Azure portal kullanırken bir destek sözleşmesini bir hesapla daha fazla kez ilişkilendirdiğinizde hata oluştu. Aşağıdaki senaryolara bakın:
+
+1. Altın veya gümüş teknik avantajlarınız varsa ve daha önce sözleşmeyi şirket içi destek için eklediyseniz, Azure portal kullanır ve sözleşmeyi aynı hesaba ikinci kez eklersiniz. Yalnızca destek sözleşmesini bir hesapla ilişkilendirmeniz gerekir ve bu nedenle Azure 'da destek avantajlarına bağlamanız gerekmez. Sözleşme, sözleşmenin zaten ilişkilendirildiği hesapla ilişkili olduğu durumlarda bağlantı desteği avantajlarından yararlanın, hatayı görürsünüz ve yok sayılır. + Yeni Destek isteği kullanın ve normal olarak bir destek olayı oluşturun ve destek planı görüntülenir.
+
+2. Destek sözleşmesinin süresi dolmuşsa veya Imza 10pack (altın karma uzmanlığı) veya Imza 5pack (gümüş karma uzmanlığı) için hiçbir olay yoksa, destek sözleşmesi geçersiz olduğu için gizlenir. Destek avantajlarını yeniden bağlarsanız, sözleşmenin zaten ilişkili olduğu için bu hatayı görürsünüz. Azure destek olaylarını almak için yeni bir destek planı satın almanız gerekir. 
+
+Iş ortağı ücretli destek teklifleri için aşağıdaki Iş ortağı destek planlarına bakın
 
 ## <a name="partner-support-plans"></a>İş ortağı destek planları
 

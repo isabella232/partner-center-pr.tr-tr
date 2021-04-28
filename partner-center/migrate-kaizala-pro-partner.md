@@ -1,20 +1,25 @@
 ---
-title: Kaizala Pro aboneliklerini Microsoft365 'e geçirme
-description: Kaizala Pro aboneliklerini Microsoft365 veya Office 365 sürümlerine geçirmeyi öğrenin. Müşterilerinizin geçişini hakkında daha fazla bilgi için bu makaleyi okuyun.
+title: Kaizala Pro aboneliklerini Microsoft 365'e geçirme
+description: Kaizala Pro aboneliklerini Microsoft 365 veya Office 365 sürümlerine geçirmeyi öğrenin. Müşterilerinizin geçişini hakkında daha fazla bilgi için bu makaleyi okuyun.
 ms.topic: article
 ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 ms.author: sukumart
 author: sukumart
 ms.date: 06/01/2020
 localization_priority: Normal
-ms.openlocfilehash: 0807931ae95b5c7d76f4ad33708cc8014412f55f
-ms.sourcegitcommit: 3c45a181ef86b3a4866e97fb50efeae8714ab3f7
+ms.openlocfilehash: 96d18c8f728c56b705d378ac56dcf46e777157f0
+ms.sourcegitcommit: f8fd51e1acdbfafdde86d6490bade66c63033ebd
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/19/2020
-ms.locfileid: "92532031"
+ms.lasthandoff: 04/28/2021
+ms.locfileid: "108172436"
 ---
-# <a name="migrate-kaizala-pro-standalone-subscriptions-to-microsoft365-or-office-365-versions"></a>Kaizala Pro tek başına aboneliklerini Microsoft365 veya Office 365 sürümlerine geçirin
+# <a name="migrate-kaizala-pro-standalone-subscriptions-to-microsoft-365-or-office-365-versions"></a>Kaizala Pro tek başına aboneliklerini Microsoft 365 veya Office 365 sürümlerine geçirin
+
+**Uygun roller**
+
+- Satış Aracısı
 
 1 Temmuz 2020 ' den itibaren geçerli olan Microsoft, Kaizala Pro tek başına hizmetinin satışlarını sonlandırıyor. Müşteriler artık bu tarihten sonra yeni Kaizala Pro abonelikleri satın amayacak ve mevcut Kaizala Pro abonelikleri süreleri dolduğunda otomatik olarak yenilenmeyecektir.
 
@@ -61,30 +66,30 @@ C. Eski aboneliği iptal et
 
 ### <a name="a-purchase-the-new-subscription"></a>A. Yeni aboneliği satın alın
 
-1. Yeni aboneliği satın almak için **Iş Ortağı Merkezi** menüsünden **müşteriler** ' i seçin, taşımak istediğiniz müşteriyi seçin ve ardından **Abonelik Ekle** ' yi seçin.
+1. Yeni aboneliği satın almak için **Iş Ortağı Merkezi** menüsünden **müşteriler**' i seçin, taşımak istediğiniz müşteriyi seçin ve ardından **Abonelik Ekle**' yi seçin.
 
-2. Katalogdan satın almak istediğiniz aboneliği seçin (Bu durumda yukarıdaki seçeneklerden biri), lisansların sayısını girin ve ardından **Gönder** ' i seçin.
+2. Katalogdan satın almak istediğiniz aboneliği seçin (Bu durumda yukarıdaki seçeneklerden biri), lisansların sayısını girin ve ardından **Gönder**' i seçin.
 
 Müşterinizin artık eski ve yeni abonelikleri, eski Kaizala Pro tek başına aboneliği ve yeni ' Target ' aboneliği olmalıdır; örneğin, 1-Office 365 Kurumsal F1.
 
 ### <a name="b-reassign-current-user-licenses"></a>B. Geçerli kullanıcı lisanslarını yeniden ata
 
-1. Müşterinin kullanıcılarının lisanslarını yeniden atamak için **Iş Ortağı Merkezi** menüsünden **müşteriler** ' i seçin, taşıdığınız müşteriyi seçin ve ardından **Kullanıcılar ve lisanslar** ' ı seçin. Müşterinin kullanıcılar ve lisanslar sayfası açılır.
+1. Müşterinin kullanıcılarının lisanslarını yeniden atamak için **Iş Ortağı Merkezi** menüsünden **müşteriler**' i seçin, taşıdığınız müşteriyi seçin ve ardından **Kullanıcılar ve lisanslar**' ı seçin. Müşterinin kullanıcılar ve lisanslar sayfası açılır.
 
-2. Kullanıcı lisansını yeniden atamak için, yeniden atanacak kullanıcıyı seçin ve ardından **Lisansları Yönet** ' i seçin.
+2. Kullanıcı lisansını yeniden atamak için, yeniden atanacak kullanıcıyı seçin ve ardından **Lisansları Yönet**' i seçin.
 
 3. **Lisansları Yönet** sayfasında Kaizala Pro tek başına Lisansı onay kutusunu temizleyin ve müşterinin taşınmakta olduğu abonelik için yeni bir hizmet planı seçin.
 
-4.  **Gönder** ’i seçin. Bir onay sayfası yeni lisans atamalarını listeler. Lisans atamaları gerektiren diğer kullanıcılar için aynı işleme devam edin.
+4.  **Gönder**’i seçin. Bir onay sayfası yeni lisans atamalarını listeler. Lisans atamaları gerektiren diğer kullanıcılar için aynı işleme devam edin.
 
 ### <a name="c-cancel-old-subscription"></a>C. Eski aboneliği iptal et
 
 Kullanıcı lisansını yeni hizmete taşıdıktan sonra, kullanımdan kaldırılan aboneliği müşteri düzeyinde güvenle iptal edebilirsiniz.
 
-1.  **Iş Ortağı Merkezi** menüsünde **müşteriler** ' i seçin. Aboneliğini iptal ettiğiniz müşteriyi seçin.
+1.  **Iş Ortağı Merkezi** menüsünde **müşteriler**' i seçin. Aboneliğini iptal ettiğiniz müşteriyi seçin.
 
 2.  Abonelik Ayrıntıları sayfasında, aboneliği **askıya alındı** olarak ayarlayın.
 
-3.  **Gönder** ’i seçin.
+3.  **Gönder**’i seçin.
 
 Eski abonelik askıya alındı ve yeni abonelik etkin. Askıya alınan abonelik 120 gün sonra otomatik olarak sağlanacaktır. Müşteri, eski abonelik için ek maliyet içermez.

@@ -8,12 +8,12 @@ author: mowree
 ms.author: mowrim
 ms.localizationpriority: medium
 ms.date: 11/20/2019
-ms.openlocfilehash: 97e7e19f54e3dd98a37409747cfac5464080c86e
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: c6625e2e35cee5d410a22c4a384012a294a97b5d
+ms.sourcegitcommit: f8fd51e1acdbfafdde86d6490bade66c63033ebd
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441481"
+ms.lasthandoff: 04/28/2021
+ms.locfileid: "108172379"
 ---
 # <a name="frequently-asked-questions-for-partner-center-for-microsoft-cloud-for-us-government"></a>ABD kamu için Microsoft Bulut Iş Ortağı Merkezi hakkında sık sorulan sorular
 
@@ -21,17 +21,21 @@ ms.locfileid: "106441481"
 
 - Microsoft Cloud for US Government için İş Ortağı Merkezi
 
+**Uygun roller**
+
+- Genel yönetici
+
 ## <a name="general-questions"></a>Genel sorular
 
 ABD kamu sektörü için Microsoft Bulut Bulut çözümü sağlayıcısı (CSP) programı hakkında daha fazla bilgi edinmek için bu sık sorulan soruları kullanın. Daha fazla bilgi için hesap yöneticinize da başvurabilirsiniz.
 
 ### <a name="what-is-microsoft-cloud-for-us-government"></a>ABD hükümeti için Microsoft Bulut nedir?
 
-ABD kamu sektörü için tasarlanan ABD hükümeti için Microsoft Bulut, büyük federal kurumlardan küçük kasalara kadar, bulut bilgi işlem hizmetlerinden birini seçmek için Birleşik Devletler kamu sektörü müşterilerini sağlar. Müşterilerin belirli ihtiyaçlarını en iyi şekilde karşılamak için Microsoft, veri merkezlerinde önemli bir yatırım yaptı ve ABD federal ve eyalet ilkeleriyle, mantarih ve gereksinimlerle uyumluluğu karşılayacak şekilde tasarlanmıştır.
+ABD kamu sektörü için tasarlanan ABD hükümeti için Microsoft Bulut, büyük federal kurumlardan küçük kasalara kadar, bulut bilgi işlem hizmetlerinden birini seçmek için Birleşik Devletler kamu sektörü müşterilerini sağlar. Microsoft, müşterilerin belirli ihtiyaçlarını karşılamak için veri merkezlerinde önemli bir yatırım yaptı ve ABD federal ve eyalet ilkeleriyle, mantarihlere ve gereksinimlerle uyumluluğu karşılayacak şekilde ayrılmıştır.
 
 ### <a name="who-is-eligible-for-the-csp-program-for-microsoft-cloud-for-us-government"></a>ABD hükümeti için Microsoft Bulut CSP programına kimler uygun?
 
-ABD kamu kapasitelerine ABD Federal, eyalet ve yerel kamu varlıkları sağlayan Birleşik Devletler iş ortakları, ABD devlet için Microsoft Bulut CSP programına uygundur. Microsoft, iş ortaklarının ABD kamu sektörü için Microsoft Bulut erişmeden önce uygunluğu belirlemede katı bir doğrulama programına sahiptir. Uygun olması için, kamu müşterileri ile çalışmanız gerektiğini kanıtlamanız gerekir. Microsoft 'taki CSP programına yönelik kaydolma işlemi, ABD kamu sektörü için ek verileri yakalamak amacıyla geliştirilmiştir. Kanıtlama türleri, kamu müşterinizden kamu sözleşmesi numaralarını ve sponsorluk harfini içerebilir, ancak bunlarla sınırlı değildir.
+ABD kamu kapasitelerine ABD Federal, eyalet ve yerel kamu varlıkları sağlayan Birleşik Devletler iş ortakları, ABD devlet için Microsoft Bulut CSP programına uygundur. Microsoft, iş ortaklarının ABD kamu sektörü için Microsoft Bulut erişmeden önce uygunluğu belirlemede katı bir doğrulama programına sahiptir. Uygun olması için, kamu müşterileri ile çalışmanız gerektiğini kanıtlamanız gerekir. Microsoft 'taki CSP programına yönelik kaydolma işlemi, bızı devlet için daha fazla veri yakalamaya yönelik olarak geliştirilmiştir. Kanıtlama türleri, kamu müşterinizden kamu sözleşmesi numaralarını ve sponsorluk harfini içerebilir, ancak bunlarla sınırlı değildir.
 
 ### <a name="is-customer-pricing-the-same-as-for-csp-commercial"></a>Müşteri fiyatlandırması CSP Commercial ile aynı mı?
 
@@ -93,7 +97,7 @@ ABD kamu için Microsoft Bulut MDA, standart MCDA aşağıdaki iki şekilde fark
 
 ### <a name="what-are-the-qualifications-to-sell-microsoft-cloud-for-us-government"></a>ABD hükümeti için Microsoft Bulut satma nitelikleri nelerdir?
 
-ABD kamu için Microsoft Bulut CSP programını satmaya yönelik niteleme ölçütü, CSP Commercial 'ın nitelik ölçütleriyle aynı, hem doğrudan iş ortakları hem de dolaylı satıcılarla birlikte açılır. CSP Commercial için dolaylı satıcı olarak onaylandıysanız ABD hükümeti için Microsoft Bulut CSP programı için dolaylı bir satıcı olarak yeniden aday olmanız gerekmez.
+ABD kamu için Microsoft Bulut CSP programını satmaya yönelik niteleme ölçütü, CSP Commercial 'ın nitelik ölçütleriyle aynı, hem doğrudan iş ortakları hem de dolaylı satıcılarla birlikte açılır. CSP Commercial için dolaylı satıcı olarak onaylandıysanız, ABD hükümeti için Microsoft Bulut CSP programı için dolaylı bir satıcı olması gerekmez.
 
 ### <a name="i-am-an-existing-partner-what-do-i-need-to-do-to-sell-microsoft-cloud-for-us-government"></a>Var olan bir iş ortağıyım. ABD hükümeti için Microsoft Bulut satmak için ne yapmam gerekir?
 
@@ -166,7 +170,7 @@ CSP programını tanımak ve ABD kamu için Microsoft Bulut Iş Ortağı Merkezi
 
 ### <a name="where-should-i-go-if-i-still-have-questions"></a>Hala sorularım varsa nereye gitmem gerekir?
 
-Ek bilgi için hesap yöneticinize başvurun. Ayrıca, [Azure Kamu Için CSP](https://www.yammer.com/cloudpartnercommunity/#/threads/inGroup?type=in_group&feedId=11509777)'ye özel Yammer grubumuza katın.
+Daha fazla bilgi için hesap yöneticinize başvurun. Ayrıca, [Azure Kamu Için CSP](https://www.yammer.com/cloudpartnercommunity/#/threads/inGroup?type=in_group&feedId=11509777)'ye özel Yammer grubumuza katın.
 
 ## <a name="next-steps"></a>Sonraki adımlar
 

@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 62bb526d1eab17a13e70b147a318b6e6fdaa84fb
-ms.sourcegitcommit: 58432bbb7eb0aed123547da65642ca728cb9b32c
+ms.openlocfilehash: 5773432f829a701baf4b36bdbae026241d0357a2
+ms.sourcegitcommit: f8fd51e1acdbfafdde86d6490bade66c63033ebd
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/07/2021
-ms.locfileid: "106964451"
+ms.lasthandoff: 04/28/2021
+ms.locfileid: "108172192"
 ---
 # <a name="activate-microsoft-partner-network-technical-benefits-outside-of-partner-center"></a>Iş Ortağı Merkezi dışındaki teknik avantajlardan Microsoft İş Ortağı Ağı etkinleştirin
 
@@ -27,7 +27,7 @@ Bu makale, Microsoft İş Ortağı Ağı (MPN) üyelerine Iş ortağı üyelik M
 
 Birçok Microsoft İş Ortağı Ağı (MPN) üye, kullanıcılarının, müşterilerinin ve MPN avantajlarının yönetilmesine yardımcı olmak için [Iş ortağı üyeliği merkezinden iş ortağı merkezi 'ne zaten geçirildi](prepare-pmc-pc-migration.md) .
 
-MPN üyeliğiniz Iş ortağı üyelik Merkezi 'nde (PMC) hala varsa, bazı MPN avantajlarınızdan bazılarının etkinleştirilmesi için yardıma ihtiyacınız olabilir.
+MPN üyeliğiniz Iş ortağı üyelik Merkezi 'nde (PMC) hala varsa, bazı MPN avantajlarınızdan bazılarının etkinleştirilmesi için yardıma ihtiyacınız olacaktır.
 
 ## <a name="activate-technical-benefits-by-region"></a>Bölgeye göre teknik avantajları etkinleştirin
 
@@ -43,7 +43,7 @@ Bir PMC kullanıcısı kullanıyorsanız teknik avantajlarınızı etkinleştirm
 |Avustralya, Yeni Zelanda ve Tayvan  | [İş ortağı Frontline desteği](https://partner.microsoft.com/support?issueid=300-0042)  |
 |Asya Pasifik ve daha fazla Çin  | Teknik destek  |
 
-\***Avrupa 'daki iş ortakları için yalnızca Orta Doğu ve Afrika:** RegForm 'a gönderme yaparken, Iş ortağı KIMLIĞI, MPN ile ilişkili e-posta adresi, ad, şirket adı, telefon, şehir ve ülke dahil olmak üzere: Destek sözleşmeleri oluşturmaya veya oluşturmaya yönelik yardım için RegForm ' u kullanın. MPN ile ilgili başka sorunlarla karşılaşırsanız [Iş ortağı](https://partner.microsoft.com/support?issueid=300-0042)ön uç desteğiyle iletişim kurun.
+\***Avrupa 'daki iş ortakları, Orta Doğu ve Afrika (EMEA) için:** RegForm 'a gönderme yaparken, Iş ortağı KIMLIĞI, MPN ile ilişkili e-posta adresi, ad, şirket adı, telefon, şehir ve ülke dahil olmak üzere: Destek sözleşmeleri oluşturmaya veya oluşturmaya yönelik yardım için RegForm ' u kullanın. MPN ile ilgili başka sorunlarla karşılaşırsanız [Iş ortağı](https://partner.microsoft.com/support?issueid=300-0042)ön uç desteğiyle iletişim kurun.
 
 Avantajınız etkinleştirildikten sonra, şirketinizin temel avantajları ile ilişkili program kişisi, bu avantaja yönelik ürün destek kimliklerini alır. Bu kimlikler bir **ERIŞIM kimliği** ve **sözleşme kimliği** içerecektir. 
 

@@ -9,14 +9,18 @@ author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 54421817782f05eec1cc57c11cd02a51664c094b
-ms.sourcegitcommit: 078eac1456f68585ff1003b21e5e1fe777af314b
+ms.openlocfilehash: 96c0b320850b4ee648e98fc5da97d9f25faaf405
+ms.sourcegitcommit: f8fd51e1acdbfafdde86d6490bade66c63033ebd
 ms.translationtype: MT
 ms.contentlocale: tr-TR
 ms.lasthandoff: 04/28/2021
-ms.locfileid: "108120758"
+ms.locfileid: "108172446"
 ---
 # <a name="register-deals-youve-won-in-partner-center-so-you-can-get-more-opportunities-later"></a>Daha sonra daha fazla fırsat alabilmeniz için Iş Ortağı Merkezi 'nde kazandığı anlaşmaları kaydedin
+
+**Uygun roller**
+
+- Başvuru Yöneticisi
 
 Sözleşme hakkında ek bilgiler sunarak, Iş Ortağı Merkezi 'nde kazanılan anlaşmaları kaydedebilirsiniz. Bu bilgiler ileride daha fazla fırsat sağlamanıza yardımcı olur.
 

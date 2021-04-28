@@ -9,14 +9,18 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: cb0325aae30fe57a4be2be3e37bca1ee6aa1eab8
-ms.sourcegitcommit: 7beb7327472dc1b0c07c101d121196fb2830bbf8
+ms.openlocfilehash: 17b0100bf5e45e931a765a73fb98afddf6dba656
+ms.sourcegitcommit: f8fd51e1acdbfafdde86d6490bade66c63033ebd
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96439237"
+ms.lasthandoff: 04/28/2021
+ms.locfileid: "108172260"
 ---
 # <a name="locate-important-ids-for-a-user"></a>Bir kullanıcı için önemli kimlikleri bulma
+
+**Uygun roller**
+
+- Genel yönetici
 
 Bu makalede, bir kullanıcı için aşağıdaki bilgileri bulmak üzere [Azure Portal](https://portal.azure.com/) nasıl kullanılacağı açıklanır:
 

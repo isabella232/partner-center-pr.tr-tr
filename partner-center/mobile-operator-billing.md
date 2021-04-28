@@ -3,19 +3,24 @@ title: Mobil operatör faturalama-Microsoft Store
 description: Microsoft Store, bu özelliği destekleyen mobil operatörler için bir ödeme yöntemi olarak mobil operatör faturalandırmasını sunmaktadır.
 ms.date: 04/01/2021
 ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
 ms.topic: article
 ms.author: hickeys
 author: hickeys
 keywords: Windows 10, UWP, mobil işleçler, mobil faturalama, mobil operatör faturalama
 ms.localizationpriority: medium
-ms.openlocfilehash: 5556da39b252f5004cd7d1828310743875a8da7f
-ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
+ms.openlocfilehash: 20ce286814682277e375894e99f947d084206246
+ms.sourcegitcommit: f8fd51e1acdbfafdde86d6490bade66c63033ebd
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "106178825"
+ms.lasthandoff: 04/28/2021
+ms.locfileid: "108172396"
 ---
 # <a name="mobile-operator-billing"></a>Cep telefonu operatörü faturalaması
+
+**Uygun roller**
+
+- Genel yönetici
 
 > [!NOTE]
 > Ödemeler hakkında, ödeme hesaplarını yapılandırma, ödeme yok, ödemeler veya başka bir şey yapma dahil olmak üzere destek arıyorsanız, [burada](https://developer.microsoft.com/windows/support)desteğe başvurun.
@@ -23,9 +28,11 @@ ms.locfileid: "106178825"
 Microsoft Store, Windows 10 çalıştıran aygıtlar, Windows 10 Mobile çalıştıran telefonlar ve Xbox One konsolları için mobil operatör faturalandırmasını bir ödeme yöntemi olarak sunar. Müşterinin mobil işletmeni bu özelliği destekliyorsa, müşteri mobil operatör faturalandırmasını bir ödeme yöntemi olarak ekleyebilir ve mağaza satın alımlarını mobil hesabını kullanarak oluşturabilir.
 
 > [!TIP]
->  Müşterinin mobil işletmeni mobil operatör faturalandırmasını sunuyorsa, ancak müşteri bu seçeneği cihazında bulamazsa, bu [adımları](https://support.microsoft.com/instantanswers/b25d6dd6-fb8b-3710-1e13-4d30eb01b51f)gözden geçirin.
+> Müşterinin mobil işletmeni mobil operatör faturalandırmasını sunuyorsa, ancak müşteri bu seçeneği cihazında bulamazsa, bu [adımları](https://support.microsoft.com/instantanswers/b25d6dd6-fb8b-3710-1e13-4d30eb01b51f)gözden geçirin.
 
 Bu ödeme yönteminin kullanılabilirliğini genişletmek için mobil işleçlerle düzenli olarak çalışıyoruz. Aşağıda listelenmediğiniz bir mobil operatör önermek isterseniz, bu mobil operatör ile iletişim kurun ve bu ödeme yöntemini eklemesini isteyin.
+
+## <a name="operators-that-support-mobile-operator-billing"></a>Mobil operatör faturalandırmasını destekleyen operatörler
 
 Aşağıdaki mobil işleçler Şu anda mobil operatör faturalandırmasını desteklemektedir.
 

@@ -10,17 +10,49 @@ ms.custom:
 - announcement
 - references_regions
 ms.localizationpriority: high
-ms.date: 04/20/2021
-ms.openlocfilehash: 57253531ddc751d8e361f230f039196acc0662a6
-ms.sourcegitcommit: 0488a6cca02dafbfc84211643035212296df9689
+ms.date: 04/27/2021
+ms.openlocfilehash: 99fcf5ae00458b890d6ed3b16849d6cb253e6cbe
+ms.sourcegitcommit: f8fd51e1acdbfafdde86d6490bade66c63033ebd
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/21/2021
-ms.locfileid: "107823393"
+ms.lasthandoff: 04/28/2021
+ms.locfileid: "108172328"
 ---
 # <a name="april-2021-announcements"></a>Nisan 2021 duyuruları
 
 Bu sayfa, 2021 Nisan için Microsoft Iş Ortağı Merkezi duyuruları sağlar.
+
+_______________
+## <a name="new-location-for-partner-center-api-swagger-documentation"></a><a name="9"></a>Iş Ortağı Merkezi API Swagger belgeleri için yeni konum
+
+### <a name="categories"></a>Kategoriler
+
+- Tarih: 2021-04-26
+- Özellikler
+
+### <a name="summary"></a>Özet
+
+İş Ortağı Merkezi API Swagger belgeleri, [önceki Swagger belge sitesinden](https://apidocs.microsoft.com/services/partnercenter) [Yeni bir Swagger belge sitesine](https://docs.microsoft.com/rest/api/partner-center-rest/)geçirildi.
+
+### <a name="impacted-audience"></a>Etkilenen hedef kitle
+
+Iş Ortağı Merkezi API 'Lerini kullanan bulut çözümü sağlayıcısı (CSP) programına katılan doğrudan fatura ortakları ve dolaylı sağlayıcılar
+
+### <a name="details"></a>Ayrıntılar
+
+26 Nisan 2021 itibariyle, REST API içeriği de dahil olmak üzere Iş Ortağı Merkezi API Swagger belgeleri [Yeni bir sitede](https://docs.microsoft.com/rest/api/partner-center-rest/)bulunuyor. Eski siteye birkaç hafta sonra erişilemeyecektir.
+
+### <a name="benefits"></a>Avantajlar
+
+Iş Ortağı Merkezi API Swagger belgeleri bir **TRY** işlevi sunacaktır. Bu işlevi kullanmak için, [Iş ortağı merkezi kimlik doğrulaması](https://docs.microsoft.com/partner-center/develop/partner-center-authentication#app--user-authentication)' nda listelenen adımları izleyerek oluşturabileceğiniz bir taşıyıcı belirtecine sahip olmanız gerekir.
+
+### <a name="next-steps"></a>Sonraki adımlar
+
+Uygun ekibin süreçlerini gözden geçirebilmesi ve güncelleştirebilmesi için bu bilgileri kuruluşunuz dahilinde paylaşabilirsiniz.
+
+### <a name="questions"></a>Sorularınız mı var?
+
+Bu tekliflerle ilgili sorular için ilgili Yammer topluluklarınızı kontrol edin.
 
 ________________
 ## <a name="cloud-solution-provider-csp-software-return-period-policy-and-download-link-expiry-notice"></a><a name="8"></a>Bulut çözümü sağlayıcısı (CSP) yazılım dönüş dönemi ilkesi ve indirme bağlantısı süre sonu bildirimi
