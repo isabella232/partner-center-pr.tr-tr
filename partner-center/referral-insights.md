@@ -9,14 +9,18 @@ author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 410ee9bee307f78cc93dabbafab147bb725a8d02
-ms.sourcegitcommit: 25336c9e4ff1e76669ac71539265f79d1b2b29f5
+ms.openlocfilehash: 4a8227fecae05d3752d65651dea4cdc62c9ea672
+ms.sourcegitcommit: 078eac1456f68585ff1003b21e5e1fe777af314b
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/24/2021
-ms.locfileid: "107941835"
+ms.lasthandoff: 04/28/2021
+ms.locfileid: "108120860"
 ---
 # <a name="get-referral-insights-in-partner-center-and-find-out-how-your-referrals-are-doing"></a>Iş Ortağı Merkezi 'nde başvuru öngörülerini alın ve başvurularınızın nasıl çalıştığını öğrenin
+
+**Uygun roller**
+
+- Başvuru Yöneticisi
 
 Başvurularda **analiz** bölümünün altındaki **ortak satış fırsatları** sayfası, başvurularınızın nasıl çalıştığını görmenizi sağlar. Dikkat edilmesi gereken eğilimleri veya alanı belirlemek için bu ölçümleri düzenli olarak gözden geçirin ve iş hedeflerinize doğru bir şekilde sürüyi başlatın.
 
@@ -52,13 +56,13 @@ Yüzde değişiklik ölçümleri (kırmızı veya yeşil renkle gösterilir, ok 
 
 ## <a name="conversion-funnel"></a>Dönüştürme huni
 
-Bu bölümde, anlaşmaların yaşam döngüsü boyunca bir durumdan diğerine nasıl geçilerek ilgili görsel bir gösterge gösterilmektedir. Tüm yaşam döngüsünü, bu bölümün ana özetine bağlı olarak, işlem hacmine ve ABD Doları cinsinden anlaşma değerine göre görüntüleyebilirsiniz. İlk bölüm hem durum ile, hem de türe göre birim veya değerin görsel bir göstergesini sağlamak için anlaşma türü olarak etiketlidir. Ayrıca, **geçmişteki bir başvuru** da vardır ve bu, bu işlemleri kabul ediyor/reddediliyor veya rapor için seçili olan süre içinde kazanıldı/kaybedildi olarak işaretleme eylemi gerçekleştirmiş olan anlaşmaları göstermek için kullanılır. Tüm yaşam döngülerinde çeşitli aşamalardaki anlaşmalar ilerlemesini görüntülemek için filtreler uygulayabilirsiniz.
+Bu bölümde, anlaşmaların yaşam döngüsü boyunca bir durumdan diğerine nasıl geçilerek ilgili görsel bir gösterge gösterilmektedir. Bu bölümün ana özetine bağlı olarak, tüm yaşam döngüsünü, işlem hacmine ve ABD Doları cinsinden anlaşma değerine göre görüntüleyebilirsiniz. İlk bölüm her ikisi de durum ve türe göre birim ya da değer için bir görsel gösterge sağlamak için anlaşma türüyle etiketlidir. Ayrıca, **geçmişteki bir başvuru** da vardır ve bu, bu işlemleri kabul ediyor/reddediliyor veya rapor için seçili olan süre içinde kazanıldı/kaybedildi olarak işaretleme eylemi gerçekleştirmiş olan anlaşmaları göstermek için kullanılır. Tüm yaşam döngülerinde çeşitli aşamalardaki anlaşmalar ilerlemesini görüntülemek için filtreler uygulayabilirsiniz.
 
-Ortak satış gelen anlaşmalar, iş ortaklarının gelen ortak satış anlaşmalar kabul etmesi veya reddetmesi için kabul edilen, reddedilen veya sona ermemiş olarak birleştirebilirler.
+Ortak satış gelen anlaşmalar, iş ortaklarının gelen ortak satış anlaşmaları kabul etmesi veya reddetmesi için kabul edilebilir, reddedildi veya sona ermemiş olarak birleştirilemez.
 
 :::image type="content" source="images/referrals/inbound.png" alt-text="Gelen başvuruların durumlarını gösteren resim.":::
 
-İş ortakları tarafından bu tür anlaşmalar oluşturulduğu için iş ortağı LED, özel ve ortak satış giden anlaşmaları, oluşturulacak şekilde birleştirilir.
+İş ortakları tarafından bu tür anlaşmalar oluşturulduğu için iş ortağı LED, özel ve ortak satış giden anlaşmaları oluşturulacak şekilde birleştirilir.
 
 :::image type="content" source="images/referrals/outbound.png" alt-text="Giden başvuruların durumlarını gösteren resim.":::
 
@@ -103,7 +107,7 @@ Anlaşma türü seçildiğinde, başvuru performansını ortak satış fırsatla
 
 ## <a name="raw-data-table"></a>Ham veri tablosu
 
-Ortak satış fırsatlarıyla ilgili tüm ham verilerin bulunduğu aşağıdaki tablo, gerçekleştirmek istediğiniz ayrıntılı veya özel analizin için verileri hızlı bir şekilde **dışa aktarmaya** yardımcı olacaktır.
+Ortak satış fırsatlarıyla ilgili tüm ham verilerin bulunduğu aşağıdaki tablo, gerçekleştirmek istediğiniz ayrıntılı veya özel analizin için verileri hızlı bir şekilde **dışa aktarmaya** yardımcı olur.
 
 :::image type="content" source="images/referrals/cosellanalyticsrawdata.png" alt-text="Başvurular için ham veri tablosunu gösteren resim.":::
 

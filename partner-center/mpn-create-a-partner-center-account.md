@@ -9,15 +9,18 @@ author: ParthP
 ms.author: ParthP
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 00d45b18dc4c2d55ec4af0456512a685ba111ee1
-ms.sourcegitcommit: 9b04509f3830462628c1bb6af2ca41ed68b52619
+ms.openlocfilehash: 27cd00b5475914019963fad381b36b47a017dcf1
+ms.sourcegitcommit: 078eac1456f68585ff1003b21e5e1fe777af314b
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "107266546"
+ms.lasthandoff: 04/28/2021
+ms.locfileid: "108120809"
 ---
 # <a name="create-an-mpn-account-in-partner-center-to-manage-network-benefits-and-competencies"></a>Ağ avantajlarını ve Uzmanlıklar yönetmek için Iş Ortağı Merkezi 'nde bir MPN hesabı oluşturun
 
+**Uygun roller**
+
+- MPN iş ortağı Yöneticisi
 
 Microsoft İş Ortağı Ağı (MPN) ile yeni başladıysanız ve MPN KIMLIĞI yoksa kayıt [yönergelerini](https://partner.microsoft.com/dashboard/account/v3/enrollment/introduction/partnership)izleyerek kaydınız başlatabilirsiniz.
 
@@ -58,7 +61,7 @@ Iş Ortağı Merkezi 'nde bir hesap oluşturmaya hazır olduğunuzda, aşağıda
 
 Şirket Profilinizi arayabilir veya şirket bilgilerini el ile girebilirsiniz. Şirketiniz [Dun & Bradstreet](https://partner.microsoft.com/marketing/usisvshowcase/dunandbrad)ile kayıtlıysa, şirketinizin bilgilerini aramak için DLııD kimliğini kullanın. Şirket ayrıntılarınızı kendiniz sağlamak istiyorsanız, **el ile**' yi seçin.
 
-Şirketiniz **Ermenistan**, **Macaristan**, **Kırgızistan**, **Moldova**, **Özbekistan** veya **Rusya**'da bulunuyorsa ve adresinizi el ile girerseniz adresinizi sizin için doğrulayacağız. Girdiğiniz bir tane, doğrulanan adres ile farklıysa, doğrulanan adresi kullanmanızı öneririz. Bu, adresin öğelerinin, ülkenin posta yetkilisi tarafından tanımlanan, doğru şekilde biçimlendirilen ve sevkedilebilir şekilde standartlaştırılmış olmasını sağlar.  
+Şirketiniz **Ermenistan**, **Macaristan**, **Kırgızistan**, **Moldova**, **Özbekistan** veya **Rusya**'da bulunuyorsa ve adresinizi el ile girerseniz adresinizi sizin için doğrulayacağız. Girdiğiniz bir tane doğrulandıktan farklıysa, doğrulanan adresi kullanmanızı öneririz. Bu, adresin öğelerinin, ülkenin posta yetkilisi tarafından tanımlanan, doğru şekilde biçimlendirilen ve sevkedilebilir şekilde standartlaştırılmış olmasını sağlar.  
 
 Şirket bilgilerini girdikten sonra, birincil iletişim bilgilerini girin. Birincil iletişim, şirketinizde sizinle iletişim kurabildiğimiz kişi olmalıdır (Bu kişi sizin veya şirketinizdeki başka bir kişi olabilir).
 

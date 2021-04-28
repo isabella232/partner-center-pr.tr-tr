@@ -9,14 +9,18 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 216103ae3e94b7ba1525f9fa1199d0bf0311fd0b
-ms.sourcegitcommit: 9f6be9bc8d9a065422d1ec8388bd770eb6cd9f33
+ms.openlocfilehash: 33d4a3745c8e9de87c9d1ef4ef86dec7c79db1b0
+ms.sourcegitcommit: 078eac1456f68585ff1003b21e5e1fe777af314b
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/16/2021
-ms.locfileid: "107528597"
+ms.lasthandoff: 04/28/2021
+ms.locfileid: "108120775"
 ---
 # <a name="cloud-solution-provider-program-regional-markets-and-currencies-where-you-can-sell-csp-offers"></a>CSP teklifleri oluşturabileceğiniz bulut çözümü sağlayıcısı program bölgesel pazarlar ve para birimleri
+
+**Uygun roller**
+
+- Genel yönetici
 
 Pazarınızı belirleyen şirketinizin konumudur. Market, bulut çözümü sağlayıcısı (CSP) program tekliflerini satmanıza yönelik bölgeleri ve/veya ülkeleri içerir.
 
@@ -26,7 +30,7 @@ CSP tekliflerini bir müşteri adına sipariş etmeden önce, müşterinin Micro
 
 ## <a name="azure-plan-for-csp-region-availability"></a>CSP bölge kullanılabilirliği için Azure planı  
 
-CSP için Azure planı, CSP için Azure yazılımından daha az bölgede kullanılabilir.  Azure planına yönelik bölgesel kullanılabilirlik hakkında en son güncelleştirmeleri görmek için lütfen  [Azure planını satın alma](purchase-azure-plan.md) bölümüne bakın. 
+CSP için Azure planı, CSP için Azure yazılımından daha az bölgede kullanılabilir. Azure planına yönelik bölgesel kullanılabilirlik hakkında en son güncelleştirmeler için bkz. [Azure planını satın alma](purchase-azure-plan.md).
 
 >[!IMPORTANT]
 > Bir müşterinin Microsoft Müşteri anlaşmasını imzalayan kişi hakkında bilgi sağlayarak kabul ettiğini onaylamanız gerekir. Daha fazla bilgi için bkz. [müşterinin Microsoft Müşteri Sözleşmesi 'ni kabul ettiğini doğrulayın](confirm-consent.md) .
@@ -40,7 +44,7 @@ CSP tekliflerini nerede oluşturabileceğiniz hakkında bilgi edinmek için, aş
 
 - Doğrudan fatura ortakları Şu URL 'yi kullanır: https://portal.office.com/partner/partnersignup.aspx?type=ResellerRelationship&id=partnertenantguid&csp=1&msppid=0 . **Partnertenantguıd değerini** kiracı Kimliğinizle değiştirin. 
 
-- Dolaylı satıcıların URL 'SI: https://portal.office.com/partner/partnersignup.aspx?type=IndirectResellerRelationship&id=IRtenantguid&csp=1&msppid=IRMPNID&indirectCSP=IPtenantguid . **Irtenantguıd** ' i kiracı Kimliğinizle değiştirirsiniz. **Impnıd** 'yi MPN Kimliğinizle değiştirin ve **ıptenantguıd** öğesini dolaylı sağlayıcı kiracı Kimliğinizle değiştirin.
+- Dolaylı satıcıların URL 'SI: https://portal.office.com/partner/partnersignup.aspx?type=IndirectResellerRelationship&id=IRtenantguid&csp=1&msppid=IRMPNID&indirectCSP=IPtenantguid . **Irtenantguıd değerini** kiracı Kimliğinizle değiştirin. **Impnıd** 'yi MPN Kimliğinizle değiştirin ve **ıptenantguıd** ÖĞESINI dolaylı sağlayıcı kiracı Kimliğinizle değiştirin.
 
 ## <a name="africa-region-and-market"></a>Afrika bölgesi ve Pazar
 

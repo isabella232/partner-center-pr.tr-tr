@@ -9,18 +9,25 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 980c086a2ab1ee0a21592ceb1e2e018c0e1159ae
-ms.sourcegitcommit: bcd0c09d3acd5eae4fbfca7ea6614a54d203eff6
+ms.openlocfilehash: a6af9c7d674d1956332a564628b6b2ea0b1796f6
+ms.sourcegitcommit: 078eac1456f68585ff1003b21e5e1fe777af314b
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/04/2020
-ms.locfileid: "92531395"
+ms.lasthandoff: 04/28/2021
+ms.locfileid: "108120792"
 ---
 # <a name="role-based-access-control-to-the-partner-center-insights-dashboard"></a>Iş Ortağı Merkezi Öngörüler panosuna rol tabanlı erişim denetimi
 
+**Uygun roller**
+
+- Genel yönetici
+- Yönetim Aracısı
+- Rapor Görüntüleyicisi
+- Executive rapor Görüntüleyicisi
+
 Öngörüler panosu, çalışanların raporlar-Executive rapor görüntüleyicisine ve rapor görüntüleyicisine erişimini yönetmek için Iş Ortağı Merkezi 'nde iki yeni rol kullanır.  Yönetim rapor Görüntüleyicisi rolündeki kullanıcıların tüm raporlama veri kümelerine erişimi vardır, ancak rapor Görüntüleyicisi rolündeki kullanıcıların gelir ve müşteri/çalışan kişisel verileri gibi hassas veri kümelerine erişimi olmayacaktır.  
 
-Diğer Iş Ortağı Merkezi rollerinde olduğu gibi, genel yönetici veya hesap yöneticisi Kullanıcı Yönetimi sayfasında bu rollere Kullanıcı atayacaktır. Roller tüm şirket genelinde veya belirli MPN konumlarına uygulanabilir. Belirli MPN konumları için atanan roller, kullanıcının yalnızca seçili MPN konumuyla ilişkili raporlama verilerini görüntülemesini kısıtlar. İş ortağı aşağıdaki görünümden bir veya daha fazla konum seçebilir.
+Diğer Iş Ortağı Merkezi rollerinde olduğu gibi, genel yönetici veya hesap yöneticisi Kullanıcı Yönetimi sayfasında bu rollere Kullanıcı atayacaktır. Roller tüm şirket genelinde veya belirli MPN konumlarına uygulanabilir. Belirli MPN konumları için atanan roller, kullanıcıyı yalnızca seçili MPN konumuyla ilişkili raporlama verilerini görüntülemeye göre sınırlandırır. İş ortağı aşağıdaki görünümden bir veya daha fazla konum seçebilir.
 
 :::image type="content" source="images/pci/roles.png" alt-text="Rapor Görüntüleyicisi ve Executive rapor Görüntüleyicisi için konuma özgü Iş Ortağı Merkezi Öngörüler rol ayarlarını gösterir.":::
 

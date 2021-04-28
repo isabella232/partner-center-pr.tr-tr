@@ -8,14 +8,19 @@ ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
-ms.openlocfilehash: 66159d886914336180e8531ec07db3a9d8880a88
-ms.sourcegitcommit: 766b2bb46dffd29e532b42106359f83e51b96700
+ms.openlocfilehash: 7ff320124230ec8e0b3505b1c1dbbb7c811cb67f
+ms.sourcegitcommit: 078eac1456f68585ff1003b21e5e1fe777af314b
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106103783"
+ms.lasthandoff: 04/28/2021
+ms.locfileid: "108120740"
 ---
 # <a name="csp-one-time-purchase-reconciliation-file-fields"></a>CSP tek seferlik satın alma mutabakatı dosya alanları
+
+**Uygun roller**
+
+- Hesap yöneticisi
+- Faturalandırma Aracısı
 
 ## <a name="using-the-recon-file"></a>Keşfi dosyasını kullanma
 Aşağıdaki tablo, CSP tek seferlik satın alma işlemleri için mutabakat dosyasındaki alanlarla ilgili açıklamaları ve örnek değerleri sağlar.
@@ -55,7 +60,7 @@ Karşılaştırma dosyaları hakkında daha fazla bilgi için bkz. [karşılaşt
 | ChargeEndDate | Bir aboneliğin fatura döneminin sona erdiği tarih. | *30.09.2020* |
 | Tertermbillingcycle | Satın alma sırasında aboneliğe devam etme taahhüdünde geçen süre. | *Depolanan veri (GB/ay)* |
 | Efekt, BirimFiyat | Fatura döngüsünün maliyetini hesaplamak için eşit olarak dağıtılmış birim fiyatı. İndirimler, faturalandırma günlerindeki ayarlamalar ve diğer faktörler, geçerli birim fiyatını belirlemektir. Daha fazla bilgi için bkz. [geçerli birim fiyat hesaplaması](./effective-unit-price-calculation.md).  | *0,03825* |
-| UnitType | Ölçerin ücretlendirildiği birimin türü. | *1 GB/Ay* |
+| UnitType | Ölçerin ücretlendirildiği birim türü. | *1 GB/Ay* |
 | AlternateId | Başvurulan sipariş satırı öğesinin alternatif KIMLIĞI. | *6dc5c039750a* |
 | BillableQuantity | Faturalandırılan toplam miktar.  | *0,005001* |
 | BillingFrequency | Satın alma sırasında seçilen faturalandırma planı. | *NA*  |
@@ -63,7 +68,7 @@ Karşılaştırma dosyaları hakkında daha fazla bilgi için bkz. [karşılaşt
 | PCToBCExchangeRate | Ödeme para birimine fiyatlandırma para birimi için uygulanan döviz kuru. | *0,846202666* |
 | PCToBCExchangeRateDate | Faturalandırma para birimine yönelik fiyatlandırma para biriminin belirlendiği tarih. | *30.09.2020* |
 | MeterDescription | Ölçüm açıklaması.  | *Tablolar-LRS depolanan veri (GB/ay)* |
-| ReservationOrderId | Rezervasyon sipariş kimliği. | *E21A6344E398FFC1C4D7...* |
+| ReservationOrderId | Rezervasyon sipariş KIMLIĞI. | *E21A6344E398FFC1C4D7...* |
 | CreditReasonCode | Kredi açıklaması. | *Azure tüketim kredisi* |
 
 >[!NOTE]

@@ -9,12 +9,12 @@ author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 263211fc03d7579a229d8a6df8ed4ad7ca59ed93
-ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
+ms.openlocfilehash: 54421817782f05eec1cc57c11cd02a51664c094b
+ms.sourcegitcommit: 078eac1456f68585ff1003b21e5e1fe777af314b
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/25/2021
-ms.locfileid: "105549201"
+ms.lasthandoff: 04/28/2021
+ms.locfileid: "108120758"
 ---
 # <a name="register-deals-youve-won-in-partner-center-so-you-can-get-more-opportunities-later"></a>Daha sonra daha fazla fırsat alabilmeniz için Iş Ortağı Merkezi 'nde kazandığı anlaşmaları kaydedin
 
@@ -37,9 +37,9 @@ Yeni bir anlaşma kaydetmek için, **başvurular > işleme kayıtları > eylem g
 - **Çözüm değeri**: Bu işlem için kullanılacak bulut çözümünün toplam değeri. Yazılım ve bakım ücretleri ile ilişkili tüm maliyetleri eklediğinizden, ancak Microsoft tarafından ödenen reimbursable öğelerini, tekrarsız özelleştirme ücretlerini veya doğrudan ilişkili CSP lisans ücretlerini eklemeyin.
 - **Dağıtım tarihi**: **Azure** veya **başka** birini seçin.
 - **Çözüm nereye dağıtılacak?**: **Müşteri kiracısını** veya **iş ortağı kiracısını** seçin.
-- **Sözleşme başlangıç tarihi**: sözleşmenin başlayacağı tarih.
-- **Sözleşme bitiş tarihi**: sözleşme belirli bir tarihte sona eruygunsa **bitiş tarihi** olan ' ı seçin ve bu tarihi belirtin. Aksi takdirde, **kalıcı**' ı seçin.
-- **Sözleşme imzalı tarihi**: son sözleşmenin kuruluşunuz tarafından ve müşteri tarafından imzalandığı tarih.
+- **Sözleşme başlangıç tarihi**: sözleşmenin başlayacağı tarih. Kullandıkça Öde (PAYG) anlaşmaları için ilk faturanın tarihini kullanın.
+- **Sözleşme bitiş tarihi**: sözleşme belirli bir tarihte sona eruygunsa **bitiş tarihi** olan ' ı seçin ve bu tarihi belirtin. Sözleşmenin belirli bir bitiş tarihi yoksa, **kalıcı**' ı seçin. Kullandıkça Öde (PAYG) anlaşmaları için son veya en son faturanın tarihini kullanın.
+- **Sözleşme imzalı tarihi**: son sözleşmenin kuruluşunuz tarafından ve müşteri tarafından imzalandığı tarih. Kullandıkça Öde (PAYG) anlaşmaları için ilk faturanın tarihini kullanın.
 - **Kayıt kişisi**: kuruluşunuzdaki bir kişinin **adı**, **Soyadı**, **telefon numarası** ve **e-posta** , burada belirtilen bilgilerden herhangi biri hakkında daha fazla ayrıntıya ihtiyacımız olursa sizinle iletişim kuruyoruz.
 
 Sayfanın tüm bölümlerini tamamladığınızda **Kaydet**' i seçin. Ardından, anlaşma kaydı **devam ediyor** sayfasına taşınır. Microsoft, verdiğiniz bilgileri gözden geçirir.

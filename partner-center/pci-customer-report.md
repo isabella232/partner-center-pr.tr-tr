@@ -9,16 +9,23 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 30032a9b396a82f530c9497f96e4a9b1f6b46e00
-ms.sourcegitcommit: 5f31146f50e01dc4c1922e0a5bc369f0a3cd8162
+ms.openlocfilehash: 28343b5754546b653bd5a3e6b4a53a002b408668
+ms.sourcegitcommit: 078eac1456f68585ff1003b21e5e1fe777af314b
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/01/2020
-ms.locfileid: "92531303"
+ms.lasthandoff: 04/28/2021
+ms.locfileid: "108120843"
 ---
 # <a name="customers-dashboard-reports-from-partner-center-insights"></a>Iş Ortağı Merkezi öngörülerinin müşteriler Pano raporları
 
-Müşteriler panosu, sizin için Office, Azure, Dynamics vb. gibi bulut ürünleri almış veya sizin için bu ürünleri kiracılar içinde dağıtmak ve yönetmek için kullandığınız müşterilerin verilerini sunar. 
+**Uygun roller**
+
+- Genel yönetici
+- Yönetim Aracısı
+- Rapor Görüntüleyicisi
+- Executive rapor Görüntüleyicisi
+
+Müşteriler panosu, sizin için Office, Azure, Dynamics vb. gibi bulut ürünlerini almış veya sizin için bu ürünleri kiracılar içinde dağıtmak ve yönetmek için kullandığınız müşterilerin verilerini sunar. 
  
 Müşteriler Panosu aşağıdaki bölümlere sahiptir: 
 
@@ -56,7 +63,7 @@ Müşteriler Panosu aşağıdaki bölümlere sahiptir:
 
 ### <a name="customers-churned"></a>Müşteriler tarafından kullanılan
 - Seçilen dönemde her ay tüm müşterilerin sayısı. Müşterinin etkin durumu olan tek bir aboneliği yoksa, bir müşteri kaybedilmez olarak kabul edilir. 
-- Seçilen tarih aralığı boyunca belirlenen müşterilerin yüzdesi 
+- Seçilen tarih aralığı boyunca kullanılan müşterilerin yüzdesi 
 - Mikro grafik, seçilen zaman dilimi boyunca geçen müşterilerin aylık eğilimi eğilimlerini gösterir 
  
 ### <a name="customers-by-products"></a>Ürünlere göre müşteriler
@@ -67,35 +74,35 @@ Müşteriler Panosu aşağıdaki bölümlere sahiptir:
 
 Seçilen tarih aralığında yeni eklenen geçerli müşteri sayısı, geçerli etkin müşteriler ve müşteriler, müşterinin ülkesi kullanılarak coğrafi olarak eşleştirilir. Ölçümün altında görüntülenen yüzdeler, bu ölçüm için toplam ülkenin yüzde katkısını gösterir. Bu ülkenin toplam, etkin ve yeni müşterilerini görüntülemek için haritada üzerine gelebilmeniz gerekir. Haritada konum yakınlaştırmak için kılavuzda bir ülke arayabilir ve seçebilirsiniz. Haritadaki **giriş** düğmesini seçerek özgün görünüme dönün. Kılavuzdaki tüm sütunlar sıralanabilir.  
 
-:::image type="content" source="images/pci/customersgeo.png" alt-text="Müşteriler Özet panosunda, çubuk grafikler ve müşterilerin sayısı etkin, son eklenen, kaybolan/veya belirli bir ürün tarafından gösterilir.":::
+:::image type="content" source="images/pci/customersgeo.png" alt-text="Coğrafya tarafından Iş Ortağı Merkezi öngörüleri müşteri raporu, bölgelere göre dünya haritasını ve toplam, eklenen ve yeni müşterilerin listesini gösterir.":::
 
 ## <a name="customer-adds-and-churns"></a>Müşteri eklemeleri ve churns
 
 Seçili tarih aralığı için yeni, mevcut ve yerleşik olarak dökümdeki müşterilerin eğilimi. X ekseni, seçilen tarih aralığının ve Y ekseninin, müşteriler sayısını temsil eden ayları temsil eder. Tek başına müşteriler, Y ekseninin negatif ölçeğinde temsil edilir. Yığılmış sütun grafiği, aya ait yeni, mevcut ve en fazla müşterilerin dağılımını gösterir. Göstergede olanları seçerek sütun grafiğini belirli yığın öğeleriyle yeniden oluşturabilirsiniz. Belirli bir döneme yakınlaştırmak için grafiğin üstündeki kaydırıcıyı kullanabilirsiniz. 
 
-:::image type="content" source="images/pci/customerslost.png" alt-text="Müşteriler Özet panosunda, çubuk grafikler ve müşterilerin sayısı etkin, son eklenen, kaybolan/veya belirli bir ürün tarafından gösterilir.":::
+:::image type="content" source="images/pci/customerslost.png" alt-text="Iş Ortağı Merkezi öngörüleri müşteri raporunun çubuk grafik görüntüsü, belirli bir süre boyunca eklenen ve kaybolan veya ortaya geçen müşterilerin sayısını gösterir.":::
 
 ## <a name="customer-distribution"></a>Müşteri dağıtımı
 
-MPN konumlarınıza, müşteri segmentlerinize, Satış kanalına/Azure fiyatlandırma modelinize ve atısyon türüne (örn. DPOR, DAP vb.) göre geçerli müşterilerinizin dökümünü yapın. Bu kategorilerin dökümünü görüntülemek için grafiğin üzerindeki ilgili sekmelere tıklayın. Gösterge öğelerini seçerek belirli boyutları seçerek/seçerek grafiği yeniden oluşturabilirsiniz. 
+MPN konumlarınıza, müşteri segmentlerinize, Satış kanalına/Azure fiyatlandırma modelinize ve atısyon türüne (örneğin, DPOR, DAP) göre geçerli müşterilerinizin dökümü. Bu kategorilerin dökümünü görüntülemek için grafiğin üzerindeki ilgili sekmeleri seçin. Gösterge öğelerini seçerek belirli boyutları seçerek/seçerek grafiği yeniden oluşturabilirsiniz. 
 
 ## <a name="customers-by-products"></a>Ürünlere göre müşteriler
 
 Ürünlerin ve SKU 'Ların/planların geçerli müşterilerinin sayımının dökümünü yapın. Ürünün yanında bulunan SKU 'Ların/planların ölçeğini görüntülemek için ürün yukarı grafik pasta grafiğinde bir ürün seçin.
 
-:::image type="content" source="images/pci/customerbyprod.png" alt-text="Müşteriler Özet panosunda, çubuk grafikler ve müşterilerin sayısı etkin, son eklenen, kaybolan/veya belirli bir ürün tarafından gösterilir.":::
+:::image type="content" source="images/pci/customerbyprod.png" alt-text="Ürün raporuna göre müşterilerin ekran görüntüsü, bir ürüne göre müşteri dökümlerinden biri olan diğeri SKU 'ya göre müşteri dökümlerinden oluşan iki Radyal grafiği gösterir.":::
 
 ## <a name="customer-distribution-trend"></a>Müşteri dağıtım eğilimi 
 
-Pazarlara, segmentlere, MPN konumlarınıza ve elde ettikleri ürünlere göre seçilen tarih aralığı boyunca müşterilerinizin dağıtımına yönelik aylık eğilim. Bu kategorilere göre eğilimi görüntülemek için grafikteki ilgili sekmelere tıklayın. X ekseni seçtiğiniz tarih aralığı için ayları temsil eder ve Y ekseni seçili kategori (sekme seçimi) için müşteri sayısına sahiptir. Her yığının üzerine yığar değerleri görüntülemek için grafik sütunlarında üzerine gelebilmeniz gerekir. Belirli bir döneme yakınlaştırmak için grafiğin üstündeki kaydırıcıyı kullanabilirsiniz.   
+Pazarlara, segmentlere, MPN konumlarınıza ve elde ettikleri ürünlere göre seçilen tarih aralığı boyunca müşterilerinizin dağıtımına yönelik aylık eğilim. Bu kategorilere göre eğilimi görüntülemek için grafikteki ilgili sekmeleri seçin. X ekseni seçtiğiniz tarih aralığı için ayları temsil eder ve Y ekseni seçili kategori (sekme seçimi) için müşteri sayısına sahiptir. Her yığının üzerine yığar değerleri görüntülemek için grafik sütunlarında üzerine gelebilmeniz gerekir. Belirli bir döneme yakınlaştırmak için grafiğin üstündeki kaydırıcıyı kullanabilirsiniz.   
 
-:::image type="content" source="images/pci/customerdistri.png" alt-text="Müşteriler Özet panosunda, çubuk grafikler ve müşterilerin sayısı etkin, son eklenen, kaybolan/veya belirli bir ürün tarafından gösterilir.":::
+:::image type="content" source="images/pci/customerdistri.png" alt-text="Pazara, segmente, iş ortağı konumuna veya ürünlere göre görüntüleyebileceğiniz çubuk grafiklerini gösteren müşteri dağıtım eğilimi raporunun ekran görüntüsü.":::
 
 ## <a name="active-customers"></a>Etkin müşteriler
 
 Seçili tarih aralığı için etkin ve toplam müşterileri karşılaştıran aylık eğilim grafiği. Sütunlar her ay etkin müşteri sayılarını temsil eder ve satır her ay toplam müşteriyi temsil eder. 
 
-:::image type="content" source="images/pci/activecustomer.png" alt-text="Müşteriler Özet panosunda, çubuk grafikler ve müşterilerin sayısı etkin, son eklenen, kaybolan/veya belirli bir ürün tarafından gösterilir.":::
+:::image type="content" source="images/pci/activecustomer.png" alt-text="Iş Ortağı Merkezi öngörüleri etkin müşterilerin, etkin müşterilerin zaman içindeki çubuk grafiklerini göstermesini rapor eden ekran görüntüsü.":::
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
