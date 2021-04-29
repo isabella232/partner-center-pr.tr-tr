@@ -1,7 +1,7 @@
 ---
 title: Bulut Çözümü Sağlayıcısı programına kaydolma
 ms.topic: how-to
-ms.date: 11/29/2020
+ms.date: 04/19/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Bulut çözümü sağlayıcısı (CSP) için en iyisi olan, dolaylı satıcı veya doğrudan fatura iş ortağı gibi bulut çözümü sağlayıcısı (CSP) program satış modelinde nasıl kayıt yapılacağını öğrenin.
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8cc74ac7549dd9c58827eac4ca7ff780062cc519
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: 9307f57c0d356dbbce16de2f1566b4491867c361
+ms.sourcegitcommit: 8bd2e2f2f0f6bcd0fa202787df5b3c1f786f88f9
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441822"
+ms.lasthandoff: 04/29/2021
+ms.locfileid: "108213389"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>Bulut Çözümü Sağlayıcısı programına kaydolma
 
@@ -92,6 +92,38 @@ Doğrudan fatura ortağından dolaylı bir satıcıya geçiş hakkında bilgi ed
 
 Pazarınızı belirleyen şirketinizin konumudur. Pazarınız, CSP tekliflerini satabileceğiniz bölgeleri ve/veya ülkeleri kapsar. Pazar konumları ve para birimleri için bkz. [bulut çözümü sağlayıcısı program bölgesel pazarlar ve para birimleri](regional-authorization-overview.md) .
 [CSP iş için yeni bir konum eklemek üzere önkoşulları](manage-locations.md)okuduğunuzdan emin olun.
+
+## <a name="provide-partner-registration-id-number-for-specific-countries"></a>Belirli ülkeler için iş ortağı kayıt KIMLIĞI numarasını girin
+
+Dolaylı bir Sağlayıcıysanız, doğrudan faturanız veya dolaylı satıcısıysanız ve aşağıdaki ülkelerde yeni veya mevcut müşterilerle iş yapıyorsanız, işletmeniz için kayıt KIMLIĞI numaraları sağlamanız gerekir. İş yapmakta olduğunuz ülke aşağıda listelenmiyorsa kayıt KIMLIĞI isteğe bağlıdır.
+
+- Ermenistan 
+- Azerbaycan 
+- Belarus 
+- Brezilya 
+- Macaristan 
+- Hindistan 
+- Irak 
+- Kazakistan 
+- Kırgızistan 
+- Moldova 
+- Myanmar 
+- Polonya 
+- Rusya 
+- Suudi Arabistan 
+- Güney Afrika 
+- Güney Sudan  
+- Tacikistan 
+- Tayland
+- Türkiye 
+- Ukrayna 
+- Birleşik Arap Emirlikleri 
+- Özbekistan 
+- Venezuela
+- Vietnam 
+
+
+Daha fazla bilgi için [kayıt kimliği numarası bilgilerini](reg-number-id.md) okuyun
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
