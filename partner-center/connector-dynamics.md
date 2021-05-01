@@ -8,16 +8,16 @@ author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.date: 03/01/2021
-ms.openlocfilehash: 2082424f8203f0d9c50726e1e5ef7b3e3c39d6c2
-ms.sourcegitcommit: 35fe0fdc41886f6f5af71ec74e4a4ebd245dfe1d
+ms.openlocfilehash: c399e00394208ec29dd59a41afe7cce1b1d07253
+ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "104768780"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "108284341"
 ---
 # <a name="co-sell-connector-for-dynamics-365-crm-overview"></a>Dynamics 365 için ortak satış Bağlayıcısı CRM 'ye Genel Bakış
 
-### <a name="appropriate-roles"></a>Uygun roller
+**Uygun roller**
 
 - Başvuru Yöneticisi
 - CRM 'de Sistem Yöneticisi veya sistem özelleştiricisi
@@ -110,7 +110,7 @@ ms.locfileid: "104768780"
 
    :::image type="content" source="images/connection-reference-video.gif" alt-text="Bağlantıların düzenlendiğinin gösterildiği ekran görüntüsü.":::
 
-1. Üç nokta simgesini seçerek bağlantılardan her birini tek tek düzenleyin. İlgili bağlantıları ekleyin.
+1. Üç nokta simgesini seçerek her bir bağlantıyı tek tek düzenleyin. İlgili bağlantıları ekleyin.
 
    :::image type="content" source="images/cosellconnectors/dynamics-4.png" alt-text="Listelenen bağlantıları gösteren ekran görüntüsü.":::
 

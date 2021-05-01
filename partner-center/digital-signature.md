@@ -9,20 +9,24 @@ author: keramp
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0696a3820a873ca213b4c2e0be847c0518095466
-ms.sourcegitcommit: a8adb5f044f06bd684a5b7a06c8efe9f8b03d2db
+ms.openlocfilehash: b0d8a560c048f1a1dbb783560cf419145754a6fe
+ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/14/2020
-ms.locfileid: "92531946"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "108284307"
 ---
 # <a name="view-digitally-signed-invoices"></a>Dijital olarak imzalanmış faturaları görüntüleme
 
-**Uygulama hedefi**
+**Şunlara uygulanır**
 
-- İş Ortağı Merkezi
 - İş Ortağı Merkezi Hindistan
 
+**Uygun roller**
+
+- Hesap yöneticisi
+- Faturalandırma Aracısı
+- Satış Aracısı
 
 Hindistan 'da iş ortakları artık Microsoft 'un dijital olarak imzalanmış faturaları olduğunu görebiliriz. Bir imzayı görüntülemek için Adobe Acrobat Reader belge bulutu 'nı (DC) kullanmanız gerekir.
 
@@ -36,17 +40,17 @@ Hindistan 'da iş ortakları artık Microsoft 'un dijital olarak imzalanmış fa
  
  :::image type="content" source="images/digitalsig/digital1.png" alt-text="Yeşil onay işareti imzasını ve ifadesini belirten, Işaretli ve tüm imzaların geçerli olduğu geçerli imza bildirim başlığı içeren örnek fatura.":::
 
-3. İmzaya tıklayın. Geçerliliği belirten sertifika görüntülenir.
+3. İmzayı seçin. Geçerliliği belirten sertifika görüntülenir.
 
-:::image type="content" source="images/digitalsig/digital2.png" alt-text="Yeşil onay işareti imzasını ve ifadesini belirten, Işaretli ve tüm imzaların geçerli olduğu geçerli imza bildirim başlığı içeren örnek fatura."::: 
+:::image type="content" source="images/digitalsig/digital2.png" alt-text="Yetkili imzalama alanı ve Imza doğrulama durumu iletişim kutusu ayrıntıları, Imza özellikleri seçeneği, Iptal seçeneği ile imzalanmış fatura."::: 
 
 4. İmza geçerliliği hakkında daha fazla ayrıntı görüntülemek için **Imza özellikleri** ' ni seçin.
 
-:::image type="content" source="images/digitalsig/digital4.png" alt-text="Yeşil onay işareti imzasını ve ifadesini belirten, Işaretli ve tüm imzaların geçerli olduğu geçerli imza bildirim başlığı içeren örnek fatura."::: 
+:::image type="content" source="images/digitalsig/digital4.png" alt-text="İmza özellikleri ayrıntı görünümü kim, ne zaman, belgenin imzalandığı, doğrulama işlemi ve imzalayanın sertifikası hakkındaki bilgileri gösterir."::: 
 
 4. Ayrıca sertifika yollarının doğru olduğundan ve sertifikaya güvenildiğinden emin olabilirsiniz.
 
- :::image type="content" source="images/digitalsig/digital3.png" alt-text="Yeşil onay işareti imzasını ve ifadesini belirten, Işaretli ve tüm imzaların geçerli olduğu geçerli imza bildirim başlığı içeren örnek fatura.":::
+ :::image type="content" source="images/digitalsig/digital3.png" alt-text="Sertifika Görüntüleyicisi iletişim kutusunda bir sertifika ve tüm verme zinciri hakkında daha fazla ayrıntı içeren çeşitli sekmeler gösterilmektedir.":::
 
 ### <a name="additional-information-on-invoices-and-digital-signatures"></a>Faturalar ve dijital imzalar hakkında ek bilgiler
 

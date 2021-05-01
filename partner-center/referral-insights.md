@@ -1,7 +1,7 @@
 ---
 title: Referans içgörüleri alma
 ms.topic: article
-ms.date: 02/26/2021
+ms.date: 04/30/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: İş hedeflerinize ulaşmanıza yardımcı olacak bilgi veya geliştirme alanı eğilimlerini görmek için, iş ortağı merkezi 'nde başvuru öngörülerinizi düzenli olarak gözden geçirin.
@@ -9,12 +9,12 @@ author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4a8227fecae05d3752d65651dea4cdc62c9ea672
-ms.sourcegitcommit: 078eac1456f68585ff1003b21e5e1fe777af314b
+ms.openlocfilehash: 5793e865105b59b2772fd6af5187a92115659e1d
+ms.sourcegitcommit: 6c20c3cc4a226cada70c56df295966696affcec8
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108120860"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "108328092"
 ---
 # <a name="get-referral-insights-in-partner-center-and-find-out-how-your-referrals-are-doing"></a>Iş Ortağı Merkezi 'nde başvuru öngörülerini alın ve başvurularınızın nasıl çalıştığını öğrenin
 
@@ -27,7 +27,7 @@ Başvurularda **analiz** bölümünün altındaki **ortak satış fırsatları**
 Ortak satış fırsatları öngörülerinizi görmek için Iş Ortağı Merkezi menüsünden **referanslar > analiz > ortak satış fırsatları**' na gidin.
 
 > [!Important]
-> Anlaşma türü filtresi, tüm veriler için seçilen **ortak satış** türüyle önceden uygulandı. Özel ve iş ortağı tarafından yapılan anlaşmalar ile ilgili verileri anlayze istiyorsanız filtreyi kaldırın.
+> Anlaşma türü filtresi, tüm veriler için seçilen **ortak satış** türüyle önceden uygulandı. Özel ve iş ortağı ile ilgili anlaşmalar ile ilgili verileri çözümlemek istiyorsanız filtreyi kaldırın.
 
 ## <a name="apply-filters"></a>Filtreleri uygulama
 
@@ -76,7 +76,7 @@ Bu bölümde, her bir ülke/bölge ile ilgili ayrıntıların yanı bilgi verile
 
 ## <a name="deals-by-solutions"></a>Çözümlere göre anlaşmalar
 
-Bu grafik, en fazla başvuruları ve en yüksek anlaşma değerini hangi çözümlerinizin yönlendirdiğini görmenizi sağlar. Tabloda üç Özette, ortak satış, iş ortağı ve özel olmak üzere üç özet vardır.
+Bu grafik, en fazla başvuruları ve en yüksek anlaşma değerini hangi çözümlerinizin yönlendirdiğini görmenizi sağlar. Tabloda üç Özette, ortak satış, Iş ortağı ve özel olmak üzere üç özet vardır.
 Özet seçiminize bağlı olarak, çözüme göre toplanan anlaşmalar performansını görebilirsiniz.
 
 > [!NOTE]
@@ -94,14 +94,13 @@ Bu bölüm, anlaşmanızın şirketiniz tarafından **reddedildi** veya **kaybed
 
 ## <a name="comparison-charts"></a>Karşılaştırma grafikleri
 
-Karşılaştırma bölümü, her ikisi de birimdeki birden çok boyut ve ABD Doları Özeti kazanılan anlaşmalar değeri temelinde başvurularıyla ilgili verileri karşılaştırmanıza yardımcı olur.
-Verileri karşılaştırmak için seçebileceğiniz üç boyut
+Karşılaştırma bölümü, her ikisi de birimdeki birden çok boyut ve ABD Doları Özeti kazanılan anlaşmalar değeri temelinde başvurularıyla ilgili verileri karşılaştırmanıza yardımcı olur. Verileri karşılaştırmak için seçebileceğiniz üç boyut şunlardır:
 
 - Anlaşma türü
 - Pazar
 - Çözümler
 
-Anlaşma türü seçildiğinde, başvuru performansını ortak satış fırsatları, iş ortağı ve özel anlaşmalar açısından karşılaştırabilirsiniz. Hem pazarlar hem de çözümler için performanslarını karşılaştırmak üzere üç farklı seçenek belirleyebilirsiniz. Bir çubuk grafik olan ilk grafikte, hacim veya anlaşmalar değeri kazanılan ana özete göre ayda ay eğilimi ile sunulan veriler bulunur. Ayrıca, çubuk grafiğin sağında aynı veriler için dağılımı yüzde olarak gösteren bir pasta grafiği de vardır.
+Anlaşma türü seçildiğinde, başvuru performansını ortak satış fırsatları, Iş ortağı ve özel anlaşmalar açısından karşılaştırabilirsiniz. Hem pazarlar hem de çözümler için performanslarını karşılaştırmak üzere üç farklı seçenek belirleyebilirsiniz. Bir çubuk grafik olan ilk grafikte, hacim veya anlaşmalar değeri kazanılan ana özete göre ayda ay eğilimi ile sunulan veriler bulunur. Ayrıca, çubuk grafiğin sağında aynı veriler için dağılımı yüzde olarak gösteren bir pasta grafiği de vardır.
 
 :::image type="content" source="images/referrals/cosell-analytics-compare-v2.png" alt-text="Karşılaştırma bölümünü gösteren resim.":::
 
@@ -128,3 +127,8 @@ Aşağıda açıklandığı gibi ortak satış analizlerine erişirken aşağıd
 
 > [!TIP]
 > [Bir çözüm sağlayıcısı bulma](https://www.microsoft.com/solution-providers/home) deneyiminde iş profilinizin nasıl çalıştığını görmek için [iş profili öngörüleri sayfasını](analyze-your-marketing-profile.md)gözden geçirin.
+
+## <a name="next-steps"></a>Sonraki adımlar
+
+- [Microsoft başvuruları ile işletmenizi büyütün](referrals.md)
+- [Müşteri adaylarınızı çözümleyin](analyze-your-marketing-profile.md)

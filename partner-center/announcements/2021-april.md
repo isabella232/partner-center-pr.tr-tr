@@ -10,17 +10,64 @@ ms.custom:
 - announcement
 - references_regions
 ms.localizationpriority: high
-ms.date: 04/27/2021
-ms.openlocfilehash: 99fcf5ae00458b890d6ed3b16849d6cb253e6cbe
-ms.sourcegitcommit: f8fd51e1acdbfafdde86d6490bade66c63033ebd
+ms.date: 04/29/2021
+ms.openlocfilehash: d26d1af994ae9a3f951ee9428ee6fd092b2c91d8
+ms.sourcegitcommit: 6c20c3cc4a226cada70c56df295966696affcec8
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108172328"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "108328058"
 ---
 # <a name="april-2021-announcements"></a>Nisan 2021 duyuruları
 
 Bu sayfa, 2021 Nisan için Microsoft Iş Ortağı Merkezi duyuruları sağlar.
+
+## <a name="readiness-updated-csp-customer-address-validation-api-going-live-in-june-testing-capability-now-available"></a><a name="10"></a>Hazırlık: CSP müşteri adresi doğrulama API 'SI, Haziran ayında etkin olacak şekilde güncelleştirildi. test özelliği artık kullanılabilir
+
+### <a name="categories"></a>Kategoriler
+
+- Tarih: 2021-04-30
+- Hazır Olma
+
+### <a name="summary"></a>Özet
+
+İş ortakları ve müşterilerin işletmelerini temel alarak işlerini çalıştırmasına yardımcı olmak için iş ortaklarını, dünyanın her yerindeki tüm ülkeler için doğrulama adresi API 'sine test etmek üzere davet edeceğiz.
+
+### <a name="impacted-audience"></a>Etkilenen hedef kitle
+
+CSP doğrudan fatura ortakları ve yeni veya var olan müşterilerin adres ayrıntılarını güncelleştiren dolaylı sağlayıcılar
+
+### <a name="details"></a>Ayrıntılar
+
+Microsoft, güvende çalışır. CSP programındaki deneyimidir müşteri abonelikleri için uyumlu, güvenli ve güvenli bir müşteri adresi doğrulama yöntemi sağlamayı taahhüt ediyoruz. 31 Mart 2021 itibariyle, doğrulama adresi API 'sine değişiklikler ekledik. İş ortakları, Haziran 2021 ' nin sonunda, API 'yi test etmek üzere etkin olmaya başlamadan önce davet ediyoruz. 
+
+Bu değişikliklerin yalnızca adresi doğrula API 'sini etkilediğini unutmayın. Müşteri oluşturma ve faturalandırma profilini güncelleştirme API 'Lerini etkilememektedir. Önerilen adresin Şu anda müşteri oluşturma API 'SI ile kullanılması gerekmese de, önemle önerilir.
+
+Yanıt aşağıdaki durum iletilerinden birini döndürür:
+
+| Durum     | Açıklama |    Döndürülen önerilen adreslerin sayısı |
+|-------|---------------|-------------------|
+|Doğrulanan sevk özellikli | Adres doğrulanır ve sevk edilebilir. | Tek |
+|Doğrulanamayan | Adres doğrulandı. | Tek |
+|Etkileşim gerekli | Önerilen adres önemli ölçüde değiştirildi ve kullanıcı onayı gerekiyor. | Tek |
+|Cadde kısmi | Adreste verilen cadde kısmi ve daha fazla bilgi gerekiyor. | Birden çok — en fazla üç |
+|Şirket içi kısmi | Verilen şirket içi (bina numarası, paket numarası ve diğerleri) kısmi ve daha fazla bilgi gerekiyor. | Birden çok — en fazla üç |
+|Birden çok | Adreste kısmi olan birden çok alan vardır (büyük olasılıkla cadde kısmi ve şirket içi kısmı da dahil). | Birden çok — en fazla üç |
+|Yok | Adres yanlış. | Yok |
+|Doğrulanmamış | Adres, doğrulama işlemi aracılığıyla gönderilemedi. | Yok |
+
+ABD Post kodları, dört basamaklı ek olarak dört basamak döndürür. Örneğin, 12345-6789.
+
+### <a name="next-steps"></a>Sonraki adımlar
+
+- Daha ayrıntılı rehberlik için, [adanmış iş ortağı koleksiyonundaki](https://partner.microsoft.com/resources/collection/additionalfields-csp-customers-selected-geos#/) teknik belgeleri ve sık sorulan soruları gözden geçirin.
+- Iş Ortağı Merkezi API 'sini ve Web kullanıcısı deneyimini kullanarak değişiklikleri içerecek şekilde hazırlayın. 
+- Güncelleştirme için hazırlamaya başlayabilmeniz için, korumalı alan kiracı KIMLIĞINIZI, test uçuşna dahil edilecek konu uzmanı (Ali Haki) ile paylaşabilirsiniz. 
+- Bir denetim masası satıcısı (CPV) çözümü kullanıyorsanız, CPV 'nize başvurun.
+
+### <a name="questions"></a>Sorularınız mı var?
+
+Microsoft ile işlemlere yönelik desteğe ihtiyacınız varsa iş ortağı destek Yammer grubuna ulaşın veya bir [hizmet isteği](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=aa679372-d996-73df-e244-cb28bbbf28e8)açın.
 
 _______________
 ## <a name="new-location-for-partner-center-api-swagger-documentation"></a><a name="9"></a>Iş Ortağı Merkezi API Swagger belgeleri için yeni konum

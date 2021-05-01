@@ -9,33 +9,31 @@ author: parthp
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9ed503fbeee6264e1127163b7cc44b7b351d3b89
-ms.sourcegitcommit: 35fe0fdc41886f6f5af71ec74e4a4ebd245dfe1d
+ms.openlocfilehash: a32dba704482dad34b689b21da9e41de74a6e051
+ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "104768678"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "108284171"
 ---
 # <a name="partner-center-has-two-levels-of-accounts-for-mpn-partners"></a>İş Ortağı Merkezi 'nin MPN iş ortakları için iki hesap düzeyi vardır
-
 
 **Uygun roller**
 
 - Hesap yöneticisi
-- İş profili Yöneticisi
-
+- Genel yönetici
 
 Şirketinizde Iş Ortağı Merkezi 'nde iki hesap düzeyi vardır.
 
-## <a name="the-top-level-is-the-partner-global-account-pga"></a>En üst düzey ortak genel hesaptır (PGA).
+## <a name="the-top-level-account-is-the-partner-global-account-pga"></a>En üst düzey hesap Iş ortağı genel hesabıdır (PGA)
 
 - Ortak küresel hesap, şirketinizin geçerli iş adresini ve birincil ilgili kişisini içerir. 
-- İş ortağı genel hesabınızın ayrıntılarını **Ayarlar**  ->  **kuruluş profili**, **yasal profil**' ten görüntüleyin.
+- **Ayarlar**  >  **kuruluş profili**  >  **yasal profilinden** iş ortağı genel hesabınızın ayrıntılarını görüntüleyin.
 - Ayrıntılar Iş ortağı küresel hesap MPN KIMLIĞINI de içerir. 
 - PGA, şirketinizin üst öğesidir ve teşvikleri programları veya bulut çözümü sağlayıcısı ile ilişkilendirmek için kullanılmaz. 
 - Bu tür ilişkilendirmeler için konumlar kullanılmalıdır.
 
-## <a name="the-second-level-account-is-the-location-account-called-partner-location-account-pla"></a>İkinci düzey hesap, Iş ortağı konum hesabı (PLA) adlı konum hesabıdır.
+## <a name="the-second-level-account-is-the-location-account-called-partner-location-account-pla"></a>İkinci düzey hesap, Iş ortağı konum hesabı (PLA) adlı konum hesabıdır
 
 PGA 'niz kapsamında ek iş konumlarına sahip olabilir. Her konumun kendi MPN KIMLIĞI veya Iş ortağı konumu hesabı (PLA) vardır. MPN KIMLIK konumunu, işlemsel iş için ve bilgisayar, ister.
 

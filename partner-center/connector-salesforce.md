@@ -8,16 +8,16 @@ description: Iş ortağı merkezindeki başvurularınızı Salesforce CRM 'niz i
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: 68b8bdf7a88c1ca8d063cf3198fc49bf87552edb
-ms.sourcegitcommit: de2ac2eea26426ae8f962d29ab50b68850318ce6
+ms.openlocfilehash: 8139f89a37048b1790353e3bdd18ac1b44887219
+ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/07/2021
-ms.locfileid: "97960960"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "108284392"
 ---
 # <a name="co-sell-connector-for-salesforce-crm---overview"></a>Salesforce için ortak satış Bağlayıcısı CRM-genel bakış
 
-### <a name="appropriate-roles"></a>Uygun roller
+**Uygun roller**
 
 - Başvuru Yöneticisi
 - CRM 'de Sistem Yöneticisi veya sistem özelleştiricisi
@@ -39,7 +39,7 @@ ms.locfileid: "97960960"
 
 ## <a name="installation-of-salesforce-package-for-microsoft-custom-fields"></a>Microsoft özel alanları için Salesforce paketi yüklemesi 
 
-Iş ortağı merkezi ve Salesforce CRM arasındaki başvuruları eşleştirmek için, Power otomatikleştir çözümünün Microsoft 'a özgü başvuru alanlarını açıkça tanımlaması gerekir. Bu düzenleme, iş ortağı satıcı ekiplerine ortak satış için Microsoft ile hangi başvuruları paylaşacağına karar verme olanağı sunar.
+Iş ortağı merkezi ve Salesforce CRM genelindeki başvuruları senkronize etmek için, Power otomatikleştir çözümünün Microsoft 'a özgü başvuru alanlarını açıkça tanımlaması gerekir. Bu düzenleme, iş ortağı satıcı ekiplerine ortak satış için Microsoft ile hangi başvuruları paylaşacağına karar verme olanağı sunar.
 
 1. Salesforce 'ta **notları** etkinleştirin ve fırsatlar ilgili listesine ekleyin. 
 [Başvuru](https://help.salesforce.com/articleView?err=1&id=notes_admin_setup.htm&type=5)
@@ -49,14 +49,12 @@ Iş ortağı merkezi ve Salesforce CRM arasındaki başvuruları eşleştirmek i
     - Ayarları gerektiği gibi tanımlayın.
 [Başvuru](https://help.salesforce.com/articleView?id=teamselling_enabling.htm&type=5]) 
 
-3. Salesforce 'ta, aşağıdaki paket yükleyicisi 'ni kullanarak özel alanlar ve nesneler yükleme.
-  
-Paketi herhangi bir şirkete yüklemek için [buraya](https://login.salesforce.com/packaging/installPackage.apexp?p0=04t2w000006WIwV) gidin.
+3. Salesforce 'ta, [paket yükleyicisini](https://login.salesforce.com/packaging/installPackage.apexp?p0=04t2w000006WIwV)kullanarak özel alanlar ve nesneler yükleme. Paketi herhangi bir şirkete yüklemek için bunu kullanın.
 
+>[!NOTE]
+>Bir korumalı alana yüklüyorsanız, URL 'nin başlangıçtaki bölümünü ile değiştirmelisiniz http://test.salesforce.com
 
-Note: bir korumalı alana yüklüyorsanız, URL 'nin başlangıçtaki bölümünü ile değiştirmelisiniz http://test.salesforce.com
-
-4. Salesforce. Microsoft çözümlerini **fırsatla** ilgili listeye ekleyin. Eklendikten sonra, **wrancon** simgesine ve güncelleştirme özelliklerine tıklayın
+4. Salesforce. Microsoft çözümlerini **fırsatla** ilgili listeye ekleyin. Eklendikten sonra, **wrancon** simgesini ve Update özelliklerini seçin
 
 ## <a name="best-practice-test-before-you-go-live"></a>En iyi yöntem: canlı çalışmadan önce test edin
 
@@ -78,7 +76,7 @@ Note: bir korumalı alana yüklüyorsanız, URL 'nin başlangıçtaki bölümün
 
 3. Sol gezinti çubuğunda **çözümler** ' i seçin.
 
-4. Üstteki menüde **AppSource aç** bağlantısına tıklayın.
+4. Üstteki menüde **AppSource 'U aç** bağlantısını seçin.
 
    :::image type="content" source="images/cosellconnectors/openappsource.png" alt-text="AppSource 'u aç":::
 
@@ -86,7 +84,7 @@ Note: bir korumalı alana yüklüyorsanız, URL 'nin başlangıçtaki bölümün
 
    :::image type="content" source="images/salesforce/salesforce1.png" alt-text="Salesforce":::
 
-6. **Şimdi al** düğmesine tıklayın ve ardından **devam edin**.
+6. **Şimdi al** düğmesini seçin ve sonra **devam edin**.
 
 7. Bu, uygulamayı yüklemek için Salesforce CRM ortamını seçebileceğiniz sayfayı açar.  Hüküm ve koşulları kabul edin.
 
@@ -135,7 +133,7 @@ Note: bir korumalı alana yüklüyorsanız, URL 'nin başlangıçtaki bölümün
  
 :::image type="content" source="images/cosellconnectors/salesforce14.png" alt-text="Bağlayıcı düzenlemeyi Başlat":::
 
-2. Üç nokta simgesini seçerek bağlantıların her birini tek tek düzenleyin. İlgili bağlantıları ekleyin.
+2. Üç nokta simgesini seçerek her bir bağlantıyı tek tek düzenleyin. İlgili bağlantıları ekleyin.
 
 :::image type="content" source="images/cosellconnectors/salesforce15.png" alt-text="Bağlayıcıları Düzenle":::
 
@@ -161,7 +159,7 @@ Iş Ortağı Merkezi Web kancası API 'Leri, kaynak değişiklik olaylarına kay
 
 3. Bu güncelleştirmeleri yaptığınızda şunu görürsünüz:
 
-   :::image type="content" source="images/cosellconnectors/webhook1.png" alt-text="Web kancaları":::
+   :::image type="content" source="images/cosellconnectors/webhook1.png" alt-text="Web Kancaları":::
 
 4. Değişikliklerinizi kaydedin ve **Aç '** ı seçin.
 
@@ -177,7 +175,7 @@ Iş Ortağı Merkezi Web kancası API 'Leri, kaynak değişiklik olaylarına kay
 
 8. Şimdi "Iş Ortağı Merkezi Web kancası kaydı 'nı (Insider Preview)" Power otomatikleştirmeyi seçin ve **Çalıştır**' ı seçin.
 
-9. Sağ bölmede "akış Çalıştır" penceresinin açık olduğundan emin olun ve **devam**' a tıklayın.
+9. Sağ bölmede "akış Çalıştır" penceresinin açık olduğundan emin olun ve **devam**' ı seçin.
 
 10. Şu ayrıntıları girin:
 
@@ -209,7 +207,7 @@ Her bir güç otomatikleştirme akışının birden çok adımı gereksinimlerin
 
 2. Olay oluşturma için CRM alan eşlemelerini özelleştirmek için, **Yeni paylaşılan fırsat ' ı seçin ve ardından**. **Evet ise** alt adımı seçin ve ardından **CRM 'de yeni fırsat oluşturma**' yı genişletin. Bu bölümdeki eşlemeleri alan eşleme kılavuzunu kullanarak düzenleyebilirsiniz.
 
-   1. Güncelleştirme olayları için CRM alan eşlemelerini özelleştirmek için "(kapsam) müşteri adayını veya fırsatı eşitlemeyi" adımına tıklayın.
+   1. Güncelleştirme olayları için CRM alan eşlemelerini özelleştirmek için "(kapsam) müşteri adayını veya fırsatı eşitlemeyi" adımını seçin.
 
    2. Bir **fırsata yönelik güncelleştirme olup olmadığını seçin, sonra**. **Evet ise** alt adımı seçin ve ardından **iş ortağı merkezi ve CRM 'deki fırsat nesneleri arasında fark olursa** öğesini genişletin.  
 
@@ -306,4 +304,4 @@ Aşağıdaki özel alanlar CRM bölümünün bir parçası olmalıdır:
 
 - [Ortak satış fırsatlarını yönetme](manage-co-sell-opportunities.md)
 
-- [İş Ortağı Merkezi Web kancaları](/partner-center/develop/partner-center-webhooks)
+- [İş Ortağı Merkezi web kancaları](/partner-center/develop/partner-center-webhooks)

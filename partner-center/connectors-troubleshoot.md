@@ -8,16 +8,16 @@ description: Ortak satış bağlayıcıları kullanma hakkında sık sorulan sor
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: b8977f7c602b8587a619236b37a760a55bf87e53
-ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
+ms.openlocfilehash: 939654202a370f6d9ba15d9e62a11be44884b613
+ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "97354551"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "108284222"
 ---
 # <a name="troubleshoot-co-sell-referrals-connectors"></a>Ortak satış başvuruları bağlayıcıları sorunlarını giderme
 
-**Uygulama hedefi:**
+**Şunlara uygulanır**
 
 - Dynamics 365 CRM
 - Salesforce CRM
@@ -39,7 +39,7 @@ Sistem yöneticileri veya sistem özelleştiricileri olan kullanıcılar herkes 
 
 3. İş ortağı satıcıları iş ortağı merkezi 'nde çalışmak için özel rollere ihtiyaç duyuyor mu?
  
-İş ortağı satıcılara "başvuru Yöneticisi" rolü atanmalıdır. Daha fazla bilgi için, şu [Izinlere genel bakış) bakın (oluşturma-Kullanıcı-hesaplar-ve-ayarla-izinler).
+İş ortağı satıcılara "başvuru Yöneticisi" rolü atanmalıdır. Daha fazla bilgi için bkz. [izinlere genel bakış](create-user-accounts-and-set-permissions.md).
 
 4. CRM ortamınızda ilk olarak hangi alanların ayarlanması gerekir? 
 
@@ -131,7 +131,7 @@ E. Flow Iş Ortağı Merkezi Web kancası kaydında **Çalıştır**' ı seçin.
 
 ## <a name="questions-and-answers-about-runmaintenance"></a>Çalıştırma/bakım ile ilgili sorular ve yanıtlar
 
-1. Güç otomatikleştirme akış yürütmesi sırasında oluşan hatalarda nasıl sorun giderilir?
+1. Power otomatikleştirin akış yürütme sırasında hatalardan nasıl sorun giderilir?
 
 Güç otomatikleştirebileceğiniz akışlarınızın beklenen şekilde çalıştığından emin olmak ve yürütme sırasında hataların sorunlarını gidermek için bkz. [akış başarısızlıklarını](/power-automate/fix-flow-failures)giderme.
 
@@ -163,7 +163,7 @@ Aşağıdaki adımları uygulayın:
 
 - Başvuru para birimi alanının Salesforce ortamında yapılandırıldığından emin olun. 
 
-4. Bağlayıcının bağlantısı kesilirse ve bir başvuru eşitlemesini kaçırdıysanız ne yapmalısınız? 
+4. Bağlayıcının bağlantısı kesilirse ve bir başvuru eşitlemesini kaçırdıysanız ne yapmalısınız?
 
 Deneyebileceğiniz seçeneklerden bazıları aşağıda verilmiştir:
 
@@ -191,7 +191,7 @@ ISO 'nın iki harfli ülke kodunu CRM 'de müşteri hesabına eklemeniz gerekir.
 
 Ortak satış başvurusu oluşturmak için, Microsoft ortak satış için kullanabileceğiniz bir çözüme ihtiyacınız vardır. 
 
-8. Iş Ortağı Merkezi 'nde oluşturulan ortak satış fırsatlarını, hiçbir akış hatası olmasa dahi, CRM ile eşitlenmemiş olan bir şekilde gördüğünüzde ne yapmalısınız:
+8. Iş akışı hatası olmasa dahi, Iş Ortağı Merkezi 'nde oluşturulmuş ortak satış fırsatlarını gördüğünüzde ne yapmalısınız?
 
 Şunları yapın:
 
@@ -199,9 +199,9 @@ Ortak satış başvurusu oluşturmak için, Microsoft ortak satış için kullan
 
 - Akış çağrılırsa, tüm çağrılan Akışlar ' ı işaretleyin ve bu, CRM 'yi güncelleştiren akış çalıştırmasını belirler. Eylemleri izleyebilir ve CRM 'yi güncelleştirip güncelleştirmediğinizi veya bir sorunla karşılaştıysanız emin olabilirsiniz.
 
-- CRM KIMLIĞIYLE doldurulup doldurulmadığını görmek için Iş Ortağı Merkezi 'nde *yeni anlaşmayı* denetleyin.
+- CRM KIMLIĞIYLE doldurulup doldurulmadığını görmek için Iş Ortağı Merkezi 'nde **yeni anlaşmayı** denetleyin.
 
-- Iş Ortağı Merkezi 'nde, anlaşmayı "kazanıldı" veya "kaybedildi" olarak kapanmadığından emin olun.
+- Iş Ortağı Merkezi 'nde, anlaşmayı **kazanıldı** veya **kaybedildi** olarak kapanmadığından emin olun.
 
 ## <a name="next-steps"></a>Sonraki adımlar
 

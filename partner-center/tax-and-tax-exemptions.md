@@ -9,15 +9,18 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f423687cacb1f1b2d53750075ff7db9837e8125c
-ms.sourcegitcommit: fe867be44de3479607be3309940b904d7ea9fc6e
+ms.openlocfilehash: 515591f37cb15e8af69acf8d30affd9300429e42
+ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/06/2021
-ms.locfileid: "102247671"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "108284477"
 ---
 # <a name="read-about-taxes-and-tax-exemption-details-by-region-or-country-for-partners-in-the-csp-program"></a>CSP programındaki iş ortakları için bölge veya ülkeye göre vergiler ve vergi muafiyet ayrıntıları hakkında bilgi edinin
 
+**Uygun roller**
+
+- Genel yönetici
 
 Bulut çözümü sağlayıcısı (CSP) programı, ürünlerin iş ortağı temelinde bulunan bir satış kanalının bir satıdır. Sonuç olarak, Microsoft, her zaman iş ortağı faturalarındaki satış vergisini ücretlendirmenize gerek yoktur. Kurallar ülkeye ve/veya bölgeye göre farklılık gösterir. [Vergi muafiyetleri için ülkeye özgü ve bölgeye özgü ayrıntıları](#country-and-region-tax-details)gözden geçirebilirsiniz.
 
@@ -38,7 +41,7 @@ Bir BC PST muafiyeti için, açıklandığı şekilde bir vergi muafiyeti dosyas
 
 ### <a name="united-states"></a>Birleşik Devletler
 
-Birleşik Devletler tüm satıcıların, Microsoft satıcı sözleşmesinin kabul edilmesi için 30 gün içinde satış vergisi muafiyeti belgelerinin sağlanması beklenmektedir. Her durumun, el satımak için farklı muafiyet sertifikaları vardır. Yasal adresiniz ve kayıtlı durumlarınızla ilgili neler olduğunu belirlemek için lütfen vergi danışmanınızla birlikte çalışın.
+Birleşik Devletler tüm satıcıların, Microsoft satıcı sözleşmesinin kabul edilmesi için 30 gün içinde satış vergisi muafiyeti belgelerinin sağlanması beklenmektedir. Her durumun, el satımak için farklı muafiyet sertifikaları vardır. Yasal adresiniz ve kayıtlı durumlarınızla ilgili neleri belirlemek için vergi danışmanınızla birlikte çalışın.
 
 Bu, *satışa yönelik satış* ve *kullanım vergisi sözleşmesi Sertifikası* ya da *MTC Tekdüzen satış & kullanım vergisi muafiyet sertifikası* gibi birden çok durum genelinde çalışan yeniden Satım muafiyet sertifikalarını içerebilir.
 

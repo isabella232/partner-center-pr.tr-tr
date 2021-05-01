@@ -10,18 +10,23 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7c1bc49562e3d58d5e4010a4be7af36a99c8abe6
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: e0e97b0d5bde09e499793576f9c3dbe4a7ffd522
+ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92531739"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "108284528"
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-germany"></a>Microsoft Bulut Almanya için Iş Ortağı Merkezi 'nde Kullanıcı ve lisans yönetimi
 
-**Uygulama hedefi**
+**Şunlara uygulanır**
 
--  Microsoft Bulut Almanya için iş ortağı Merkezi
+- Microsoft Bulut Almanya için İş Ortağı Merkezi
+
+**Uygun roller**
+
+- Genel yönetici
+- Hesap yöneticisi
 
 > [!IMPORTANT]
 > Müşterilerin ihtiyaçlarına bağlı olarak, Almanya için bulut stratejimiz, genel bulut teklifimiz ile tutarlı olan Almanya 'daki yeni bulut bölgelerinin teslimatını odaklamaktadır. Bu odak sayesinde, artık yeni müşterileri kabul etmiyoruz veya mevcut Almanya Microsoft Bulut yeni hizmetleri dağıtacağız. Mevcut müşteriler, gerekli güvenlik güncelleştirmeleriyle korunabilediğimiz geçerli bulut hizmetlerini kullanmaya devam edebilir.
@@ -41,7 +46,7 @@ Lisans yönetimi | Office 365 Yönetim Merkezi veya Microsoft Bulut Almanya Azur
 
 Microsoft Bulut Almanya için Iş Ortağı Merkezi 'nde oturum açtıysanız, yeniden oturum açmak zorunda kalmadan Microsoft Bulut Almanya Azure portal açabilirsiniz. Ancak, Microsoft Bulut Almanya için doğrudan Azure portal oturum açmanız gerekiyorsa, adresine gidin [https://portal.microsoftazure.de](https://portal.microsoftazure.de) . 
 
-Microsoft Bulut Almanya için Azure portal başarıyla oturum açtıktan sonra, Azure Active Directory (Azure AD) genel bakış sayfasını açın ve ardından şu konulardaki yönergeleri izleyin:
+Microsoft Bulut Almanya için Azure portal başarıyla oturum açtıktan sonra, Azure Active Directory (Azure AD) genel bakış sayfasını açın ve ardından bu makalelerdeki yönergeleri izleyin:
 
 > [!NOTE]  
 > Aşağıdaki bağlantıların seçilmesi sizi farklı bir Web sitesine götürür.
@@ -55,4 +60,4 @@ Microsoft Bulut Almanya için Azure portal başarıyla oturum açtıktan sonra, 
 ## <a name="next-steps"></a>Sonraki adımlar
 
 -  [Microsoft Azure Almanya](https://azure.microsoft.com/global-infrastructure/germany/)
--  [Microsoft Bulut Almanya için iş ortağı Merkezi](partner-center-for-microsoft-cloud-germany.md)
+-  [Microsoft Bulut Almanya için İş Ortağı Merkezi](partner-center-for-microsoft-cloud-germany.md)

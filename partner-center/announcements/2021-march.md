@@ -9,53 +9,54 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 04/02/2021
-ms.openlocfilehash: 12954a5f7eafb138794de879a41026ef54c65da7
-ms.sourcegitcommit: c6c741475604b8daf386fb54bb2795a6445ac887
+ms.openlocfilehash: 17b8082b8a42050892ff434010952d5f91a39431
+ms.sourcegitcommit: 6c20c3cc4a226cada70c56df295966696affcec8
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/05/2021
-ms.locfileid: "106374407"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "108328075"
 ---
 # <a name="march-2021-announcements"></a>Mart 2021 duyuruları
 
 Bu sayfada Mart 2021 için Microsoft Iş Ortağı Merkezi duyuruları sağlanmaktadır.
 
-________________
-## <a name="updated-csp-customer-address-validation-api-now-available-for-testing"></a><a name="18"></a>Güncelleştirilmiş CSP müşteri adresi doğrulama API 'SI artık test için kullanılabilir
+## <a name="readiness-changes-to-the-cloud-solution-provider-csp-customer-address-validation-api-going-live-in-june-testing-capability-now-available"></a><a name="18"></a>Hazırlık: bulut çözümü sağlayıcısı (CSP), Haziran ayında canlı olacak şekilde, müşteri adresi doğrulama API 'SI ile yapılan değişiklikler; test özelliği artık kullanılabilir
 
 ### <a name="categories"></a>Kategoriler
 
-- Tarih: 2021-03-31
-- Özellikler
+- Tarih: 2021-04-30
+- Hazır Olma
 
 ### <a name="summary"></a>Özet
 
-İş ortakları ve müşterilerin işletmelerini temel alarak işlerini çalıştırmasına yardımcı olma taahhüdünün bir parçası olarak, dünyanın her yerindeki ortakları, bu değişiklikleri ValidateAddress API 'sinde test edecek şekilde davet edeceğiz.
+İş ortakları ve müşterilerin işletmelerini temel alarak işlerini çalıştırmasına yardımcı olmak için iş ortaklarını, dünyanın her yerindeki tüm ülkeler için doğrulama adresi API 'sine test etmek üzere davet edeceğiz.
 
 ### <a name="impacted-audience"></a>Etkilenen hedef kitle
 
-Tüm CSP doğrudan fatura ortakları ve yeni bir Kullanıcı oluşturan veya mevcut müşteri adresi ayrıntılarını güncelleştiren dolaylı sağlayıcılar
+CSP doğrudan fatura ortakları ve yeni yeni veya mevcut müşterileri güncelleştiren dolaylı sağlayıcılar adres ayrıntıları.
 
 ### <a name="details"></a>Ayrıntılar
 
-Microsoft, güvende çalışır. CSP programında deneyimidir müşteri abonelikleri için müşteri adresi doğrulama göndermek için uyumlu, güvenli ve güvenli bir yöntem sağlamayı taahhüt ediyoruz. 31 Mart 2021 ' de bugün, Haziran 2021 ' deki değişikliklerle çalışmaya başlamadan önce, test etmeyi davet etmek istediğimiz ValidateAddress API 'sinde değişiklikler yaptık. 
+Microsoft, güvende çalışır. CSP programındaki deneyimidir müşteri abonelikleri için uyumlu, güvenli ve güvenli bir müşteri adresi doğrulama yöntemi sağlamayı taahhüt ediyoruz. 31 Mart 2021 itibariyle, Haziran 2021 ' deki değişikliklerle çalışmaya başlamadan önce iş ortaklarını test etmek üzere davet ettiğimiz doğrulama adresi API 'sine yönelik değişiklikler sunuyoruz.
 
-Bu değişikliklerin yalnızca ValidateAddress API 'sini etkilediğini unutmayın. CreateCustomer ve UpdateBillingProfile API 'Leri etkilenmez.
+Değişiklikler yalnızca adresi doğrula API 'sini etkiler. Müşteri oluşturma ve faturalandırma profilini güncelleştirme API 'Leri etkilenmemektedir.
 
 Yanıt aşağıdaki durum iletilerinden birini döndürür:
 
-| Durum | Açıklama | Döndürülen önerilen adreslerin sayısı |
-|----------|-------------|-------------------|
-| VerifiedShippable | Adres doğrulanır ve sevk edilebilir. | Tek |
-| Doğrulanamayan | Adres doğrulandı. | Tek |
-| Interactionrequired | Önerilen adresler önemli ölçüde değiştirilmiştir ve kullanıcı onayı gerekir. | Tek |
-| StreetPartial | Adreste verilen cadde kısmi ve daha fazla bilgi gerekiyor. | Birden çok — en fazla üç|
-| PremisesPartial | Verilen şirket içi (bina numarası, paket numarası, vb.) kısmi ve daha fazla bilgi gerektirir. | Birden çok — en fazla üç |
-| Birden çok | Adreste kısmi olan birden çok alan vardır (büyük olasılıkla StreetPartial ve PremisesPartial de dahil). | Birden çok — en fazla üç |
-| Yok | Adres yanlış. | Yok |
-| Notdoðrulanmış | Adres, doğrulama işlemi aracılığıyla gönderilemedi.  | Yok |
+| Durum     | Açıklama |    Döndürülen önerilen adreslerin sayısı |
+|-------|---------------|-------------------|
+|Doğrulanan sevk özellikli | Adres doğrulanır ve sevk edilebilir. | Tek |
+|Doğrulanamayan | Adres doğrulandı. | Tek |
+|Etkileşim gerekli | Önerilen adres önemli ölçüde değiştirildi ve kullanıcı onayı gerekiyor. | Tek |
+|Cadde kısmi | Adreste verilen cadde kısmi ve daha fazla bilgi gerekiyor. | Birden çok — en fazla üç |
+|Şirket içi kısmi | Verilen şirket içi (bina numarası, paket numarası ve diğerleri) kısmi ve daha fazla bilgi gerekiyor. | Birden çok — en fazla üç |
+|Birden çok | Adreste kısmi olan birden çok alan vardır (büyük olasılıkla cadde kısmi ve şirket içi kısmı da dahil). | Birden çok — en fazla üç |
+|Yok | Adres yanlış. | Yok |
+|Doğrulanmamış | Adres, doğrulama işlemi aracılığıyla gönderilemedi. | Yok |
 
-Bir adres, ValidateAddress API aracılığıyla doğrulanacak şekilde gönderildikten sonra, aşağıdaki yanıt şeması döndürülür:
+ABD Post kodları, 4 basamaklı bir ve daha fazla tire döndürür. Örneğin, 12345-6789.
+
+Adres doğrulama API 'SI aracılığıyla doğrulama için bir adres gönderildikten sonra, aşağıdaki yanıt şeması döndürülür:
 
 ```csharp
 
@@ -103,18 +104,18 @@ Bu örnek yanıta göz atın. ABD için, posta kodu için yalnızca beş basamak
 ```csharp
 
 "suggested_address": {
-    "Country": "US",
-    "region": "WA",
-    "city": "Redmond",
-    "address_line1": "1 Microsoft Way",
-    "postal_Code": "98052-8300"
+              "Country": "US",
+              "region": "WA",
+              "city": "Redmond",
+              "address_line1": "1 Microsoft Way",
+              "postal_Code": "98052-8300"
 },
 "original_address": {
-    "Country": "US",
-    "region": "WA",
-    "city": "Redmond",
-    "address_line1": "1 Micro Way",
-    "postal_Code": "98052"
+              "Country": "US",
+              "region": "WA",
+              "city": "Redmond",
+              "address_line1": "1 Micro Way",
+              "postal_Code": "98052"
 },
 "status":  "InteractionRequired",
 "validation_message": "Address field invalid for property: ‘Street’"
@@ -123,13 +124,19 @@ Bu örnek yanıta göz atın. ABD için, posta kodu için yalnızca beş basamak
 
 ### <a name="next-steps"></a>Sonraki adımlar
 
-- Güncelleştirme için hazırlamaya başlayabilmeniz için, korumalı alan kiracı KIMLIĞINIZI konu uzmanı uzmanlığımızı (SME), Ali Haki 'yı test uçuşla birlikte paylaşabilirsiniz.
+- Güncelleştirme için hazırlamaya başlayabilmeniz için, korumalı alan kiracı KIMLIĞINIZI, test uçuşna dahil edilecek konu uzmanı (Ali Haki) ile paylaşabilirsiniz.
 
 - Bir denetim masası satıcısı (CPV) çözümü kullanıyorsanız, CPV 'nize başvurun.
 
 ### <a name="questions"></a>Sorularınız mı var?
 
-Microsoft ile işlemlerinizin herhangi bir sorunuz varsa veya sizin için destek gerekiyorsa, iş ortağı destek Yammer grubuna ulaşın.
+Microsoft ile işlemlere yönelik desteğe ihtiyacınız varsa iş ortağı destek Yammer grubunuza ulaşın.
+
+### <a name="change-log"></a>Değişiklik günlüğü:
+
+- 31 Mart 2020: özgün yayın
+
+- 30 Nisan 2021: örnek yanıt ve ZIP kodu ayrıntıları için güncelleştirmeler
 
 ________________
 ## <a name="new-exchange-admin-center-eac-experience"></a><a name="17"></a>Yeni Exchange Yönetim Merkezi (EAC) deneyimi

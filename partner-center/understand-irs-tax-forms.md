@@ -8,14 +8,18 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 ms.localizationpriority: medium
 ms.date: 09/30/2020
-ms.openlocfilehash: 42c5d6f0d31e6509253fe44d5b97606fc688f177
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: 38d0748548dca4f46eb60d5d36e1a55ad5fa1d67
+ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712826"
+ms.lasthandoff: 04/30/2021
+ms.locfileid: "108284443"
 ---
 # <a name="understand-irs-tax-forms-issued-by-microsoft"></a>Microsoft tarafından verilen IRS vergi formlarını anlama
+
+**Uygun roller**
+
+- Genel yönetici
 
 Her yıl Microsoft 'tan bir veya daha fazla vergi formu alabilirsiniz. Bu, konumunuza ve aldığınız satış veya ödeme miktarına bağlıdır. Microsoft 'un bu formları vermesi ve bunları dahili gelir hizmeti (ıRS) ile dosyaları için yapması gerekir.
 
