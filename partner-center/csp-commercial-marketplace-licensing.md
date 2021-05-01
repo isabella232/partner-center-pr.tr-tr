@@ -1,7 +1,7 @@
 ---
 title: Market teklifte lisanslamayı yönetme
 ms.topic: how-to
-ms.date: 04/29/2021
+ms.date: 04/27/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: ISV ticari Market tekliflerinizi için lisanslamayı ayarlamayı ve yönetmeyi öğrenin.
@@ -9,12 +9,12 @@ author: petand123
 ms.author: v-petand
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f049ffda4c3d9476c09257fc814e5acac393cb54
-ms.sourcegitcommit: 6c20c3cc4a226cada70c56df295966696affcec8
+ms.openlocfilehash: 3b2281696a2fe69253cd033eb2a7eef7fb3046f3
+ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
 ms.translationtype: MT
 ms.contentlocale: tr-TR
 ms.lasthandoff: 04/30/2021
-ms.locfileid: "108328024"
+ms.locfileid: "108284894"
 ---
 # <a name="manage-licensing-in-marketplace-offers"></a>Market teklifte lisanslamayı yönetme
 
@@ -30,26 +30,25 @@ Bu makalede, Iş Ortağı Merkezi 'nde bir teklif ayarlama, Microsoft AppSource 
 
 ## <a name="before-you-begin"></a>Başlamadan önce
 
-### <a name="commercial-marketplace-basics"></a>Ticari Market temelleri
+Bu işleme başlamadan önce, aşağıdaki bilgileri öğrenmeniz gerekir.
 
-Bu işleme başlamadan önce, ticari Market 'in temelleri hakkında bilgi almalısınız. Aşağıdaki tablodaki makaleler başlamanıza yardımcı olur. 
+### <a name="review-the-azure-marketplace-documentation"></a>Azure Marketi belgelerini gözden geçirin
 
-| Konu  | Makale  |
-|-------|--------|
-|Ticari Market planları | [Ticari Market teklifleri için planlar ve fiyatlandırma](/azure/marketplace/plans-pricing)    |
-|Ticari Market teklifleri  | [Liste türleri](/azure/marketplace/determine-your-listing-type)    |
-|Ticari Market hesapları |  [Iş Ortağı Merkezi 'nde ticari Market hesabı oluşturma](/azure/marketplace/create-account) |
+Aşağıdaki makalelerde, devam etmeden önce bilmeniz gereken bilgiler yer almalıdır. 
 
-### <a name="determine-your-offer-id"></a>Teklif KIMLIĞINIZI belirleme
+- [Dynamics 365 for Customer Engagement ve PowerApps teklifi oluşturma](https://docs.microsoft.com/azure/marketplace/dynamics-365-customer-engage-offer-setup)
+- [Iş Ortağı Merkezi 'nde ticari Market hesabı oluşturma](https://docs.microsoft.com/azure/marketplace/create-account)
+
+### <a name="create-your-offer-id"></a>Teklif KIMLIĞINIZI oluşturma
 
 Aşağıdaki yordamlarda bir teklif KIMLIĞI girmeniz istenir. Aşağıdaki noktaları göz önünde bulundurarak uygun bir teklif KIMLIĞIYLE karşılaşmaya biraz zaman atın:
 
 - Bu KIMLIK, varsa Market teklifi ve Azure Resource Manager şablonları için Web adresinde müşteriler tarafından görülebilir.
 - Yayımcı KIMLIĞIYLE birleştirilmiş teklif KIMLIĞI, 40 karakter uzunluğunda olmalıdır.
-- Yalnızca küçük harfleri ve rakamları kullanın. Teklif KIMLIĞI, kısa çizgiler ve alt çizgiler içerebilir ancak boşluk içeremez. Örneğin, yayımcı KIMLIĞINIZ ise `testpublisherid` ve girerseniz `test-offer-1` , teklif Web adresi olur `https://appsource.microsoft.com/product/dynamics-365/testpublisherid.test-offer-1` .
+- Yalnızca küçük harfleri ve rakamları kullanın. Teklif KIMLIĞI, kısa çizgiler ve alt çizgiler içerebilir ancak boşluk içeremez. Örneğin, yayımcı KIMLIĞINIZ testpublisherıd ise ve test-teklif-1 girerseniz, teklif Web adresi olur https://appsource.microsoft.com/product/dynamics-365/testpublisherid.test-offer-1 .
 - Bu KIMLIK, **Oluştur**' u seçtikten sonra değiştirilemez.
 
-### <a name="determine-your-offer-alias"></a>Teklif diğer adınızı belirleme
+### <a name="create-your-offer-alias"></a>Teklif diğer adınızı oluşturma
 
 Teklif diğer adı, Iş Ortağı Merkezi 'nde teklif için kullanılan addır. Ayrıca, aşağıdaki yönergeleri takip eden uygun bir teklif diğer adına ihtiyacınız olacaktır:
 
@@ -117,9 +116,9 @@ Teklif 4-6 saat içinde etkin olacaktır.
 
     - **Ücretsiz yükleme seçeneğiyle lisans etkin teklifler için**: teklifiniz bir lisans denetimi gerektirmiyorsa, yönetici kullanıcılar **bana başvurmaya** ek olarak **Şimdi bir şimdi al** düğmesine sahip olur. Ücretsiz yükleme seçeneğinizi denemek isteyen kullanıcılar **Şimdi al**' a tıklamalıdır, bu, teklifi Power platform yönetim merkezine yüklemeye getirir. Kullanıcılar, herhangi bir sorunuz varsa veya ücretli bir plana yükseltmek istediklerinde **benimle Iletişim kurma** 'yı kullanmaya devam edebilir.
 
-## <a name="register-isv-connect-deal-in-deal-registration"></a>ISV Connect 'in anlaşmayı kayda kaydetme
+## <a name="register-isv-connect-deal-in-dealreg"></a>Satıcılarla ilgili ISV bağlantısı anlaşmayı Kaydet
 
-Bir müşteriye lisans atayabilmeniz için önce her satışın Iş Ortağı Merkezi 'ne kaydedilmesi gerekir. Bunu yapmak için bkz. [anlaşmaları kaydetme](register-deals.md).
+Bir sonraki adım, anlaşmayı kaydetmenizi sağlar. Bunu yapmak için bkz. [anlaşmaları kaydetme](https://docs.microsoft.com/partner-center/register-deals).
 
 ## <a name="invite-the-customer"></a>Müşteriyi davet etme
 
@@ -127,19 +126,18 @@ Müşteriyi bu başa katılmaya davet etmek için aşağıdaki yordamı kullanı
 
 1. [İş Ortağı Merkezi panosunda](https://partner.microsoft.com/dashboard/) oturum açın.
 2. Sol gezinti menüsünde **ticari Market/genel bakış**' ı seçin.
-3. Sol gezinti menüsünde, **Başvurular**' ı seçin ve ardından **anlaşma kaydı**' nı seçin.
-4. **Gönderilen** anlaşmalar için filtre uygulayın, **devam eden** sekmesini seçin ve ardından istediğiniz anlaşmayı seçin.
-5. Bu anlaşma için genel bakış sayfasında **Lisansları Yönet**' i seçin.
-6. **Lisansları Yönet** penceresinde müşteri **ayrıntıları** açılır listesinden müşteriyi seçin. Müşteri ilişkisi henüz yoksa, **+ Yeni müşteriyi onay olarak davet et**' i seçin.
-7. Görüntülenen bağlantıyı kopyalayın.
-8. Bu bağlantıyı, müşterinizin faturalandırma Yöneticisi veya genel yöneticisine e-posta ile gönderin ve bu bağlantıyı admin.microsoft.com erişmek ve oluşturduğunuz ilişkiyi kabul etmek ve yetkilendirmek için kullanın.
+3. **Gönderilen** anlaşmalar için filtre uygulayın, **devam eden** sekmesini seçin ve ardından istediğiniz anlaşmayı seçin.
+4. Bu anlaşma için genel bakış sayfasında **Lisansları Yönet**' i seçin.
+5. **Lisansları Yönet** penceresinde müşteri **ayrıntıları** açılır listesinden müşteriyi seçin. Müşteri ilişkisi henüz yoksa, **+ Yeni müşteriyi onay olarak davet et**' i seçin.
+6. Görüntülenen bağlantıyı kopyalayın.
+7. Bu bağlantıyı, müşterinizin faturalandırma Yöneticisi veya genel yöneticisine e-posta ile gönderin ve bu bağlantıyı admin.microsoft.com erişmek ve oluşturduğunuz ilişkiyi kabul etmek ve yetkilendirmek için kullanın.
 
     >[!NOTE]
     >Müşteri bu adımı gerçekleştirene kadar ilişki kurulmayacak.
 
 ## <a name="activate-manage-and-remove-your-licenses"></a>Lisanslarınızı etkinleştirin, yönetin ve kaldırın
 
-Müşteriniz sizinle ilişkiyi yetkilendirdikten sonra, teklifinizden planlar eklemeye ve her plana lisans atamaya başlayabilirsiniz.
+Müşteriniz kurulduktan sonra, teklifinizden planlar eklemeye başlayabilir ve her plana lisans atayabilirsiniz.
 
 1. Bu anlaşma için Lisansları Yönet penceresinde **+ plan Ekle**' yi seçin.
 2. **Bu çözüm Için planları** ve lisans alanı **sayısını** tamamlayıp **Lisansları Güncelleştir**' i seçin. Lisanslar, müşteriler tarafından yönetilecek ve çalışanlara atanacak admin.microsoft.com adresinde kullanılabilir.
@@ -147,7 +145,3 @@ Müşteriniz sizinle ilişkiyi yetkilendirdikten sonra, teklifinizden planlar ek
     - Mevcut bir planın lisans sayısını değiştirmek için, **Lisans sayısı** alanına yeni sayıyı girin ve ardından **Lisansları Güncelleştir**' i seçin.
 
     - Bir anlaşma için lisansları devre dışı bırakmak veya kaldırmak için, **Eylemler** alanındaki çöp kutusu simgesini seçin ve ardından **Lisansları Güncelleştir**' i seçin.
-
-## <a name="next-steps"></a>Sonraki adımlar
-
-[Lisanslama kaynakları](support-resources-licensing.md)
