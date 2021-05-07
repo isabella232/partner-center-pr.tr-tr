@@ -9,12 +9,12 @@ ms.localizationpriority: medium
 author: mckennaville
 ms.author: mcville
 ms.date: 07/29/2020
-ms.openlocfilehash: 12afa751d2e7cb6b6ef0cd7308f09746a8a43b52
-ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
+ms.openlocfilehash: f0abfdfd2fbb242f7cdbe0ded04d387ea712cce5
+ms.sourcegitcommit: 22e257d5b334ca8d3fc072f59010a508e1022694
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "108284511"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "108702731"
 ---
 # <a name="transfer-a-customers-azure-plan-subscriptions-to-a-different-partner"></a>Müşterinin Azure planı aboneliklerini farklı bir ortağa aktarma
 
@@ -44,7 +44,7 @@ Müşteri, bu araç yararlanılabilir önceki iş ortakları (geçerli ve gelece
 - Ürünler Market uygunluk denetimini geçirmiş olduğu sürece, üçüncü taraf Market ürünleri aktarılır.
     - Özel indirimler veya bölgesel kısıtlama yoktur
     - Ürünler, abonelik olmayan tabanlı
-    - Gelecekteki iş ortağı, ürün dağıtımı için izin üzerinde olduklarından emin olmak için Yayımcısıyla birlikte çalışmalıdır
+    - Gelecekteki iş ortağı, ürün dağıtımı için izin verilenler listesinde olduklarından emin olmak için Yayımcısıyla birlikte çalışmalıdır
     - Market ürünlerinin aktarılması için bu koşulların tümü karşılanmazsa, Azure abonelikleri aktarılmalı ve yeni iş ortağıyla Market ürünlerinin yeniden oluşturulması gerekir
 
 **Ön koşullar:**
@@ -130,6 +130,7 @@ Abonelik aktarımını gerçekleştirmek için Iş Ortağı Merkezi 'nden aktarm
 >Dolaylı sağlayıcılar için: lütfen dolaylı satıcınızla aktarım isteğinin kabul edildiğini bildirin.
 
 ### <a name="managing-your-transferred-customer-subscriptions"></a>Aktarılan müşteri aboneliklerinizi yönetme
+
 - Bu geçiş, Azure rol tabanlı erişim denetimi (RBAC) kullanılarak atanan mevcut kullanıcı, grup ve hizmet sorumlularını etkilemez. Azure rol tabanlı erişim denetimi [(Azure RBAC)](/azure/role-based-access-control/overview) , müşterinizin Azure kaynaklarına erişimi olan kişileri, bu kaynaklarla neler yapabileceğini ve hangi alanlara erişebileceğini yönetmesine yardımcı olur. Yeni iş ortağı olarak, abonelik aktarımından sonra müşterinizin kaynaklarına herhangi bir RBAC erişimi verilmemiş. Müşterinizin önceki iş ortağı RBAC erişimini korur. Abonelikleriyle ilgili bir anlayış olduğunu ve istediğiniz değişiklikleri nasıl yapacağınızı anlamak için müşterinizden çalışın.
 
 - Sonuç olarak, müşterinizin Azure RBAC erişimini önceki iş ortakları için kaldırmasının yanı sıra yeni iş ortağı için de erişim eklemesi önemlidir. Müşteriniz hakkında yeni erişim verme hakkında daha fazla bilgi için bkz. [Azure rol tabanlı erişim denetimi (Azure RBAC) nedir?](/azure/role-based-access-control/overview) Önceki iş ortağınızın RBAC erişimini kaldırma müşteriniz hakkında daha fazla bilgi için bkz. [rol atamasını kaldırma](/azure/role-based-access-control/role-assignments-portal#remove-a-role-assignment).

@@ -30,8 +30,11 @@
         - name: PMC için avantajları etkinleştirme
           href: partner-membership-center-tech-benefits-activate.md
           displayName: mpn
-    - name: Üyelik teklifleri
+    - name: Üyelik avantajları
       items:
+        - name: Avantajlara genel bakış
+          href: manage-your-partner-network-benefits.md
+          displayName: mpn
         - name: Eylem Paketi
           href: mpn-get-action-pack.md
           displayName: 'renew, mpn'
@@ -44,50 +47,21 @@
         - name: MPN avantajlarınızı bulma
           href: mpn-find-benefits.md
           displayName: mpn
-        - name: Uzmanlığa yönelik ücretler ödeyin
-          href: mpn-pay-fee-silver-gold-competency.md
-          displayName: mpn
-    - name: Yetkinlikler
+        - name: Avantajlar ilkesi ve kullanımı-SSS
+          href: benefits-faq-new.md
+        - name: Avantajlar hakkında SSS'ler
+          href: benefits-faq.md
+          displayName: 'renew, license,'
+        - name: MPN faturanızı görüntüleyin veya indirin
+          href: mpn-view-print-maps-invoice.md
+    - name: Kullanılabilir avantajlar
       items:
-        - name: Yetkinlikler hakkında bilgi edinin
-          href: learn-about-competencies.md
-          displayName: mpn
-        - name: Bir öğrenme Iş ortağı olarak kaydetme
-          href: mpn-benefits-map-competency-learning-option-enroll.md
-          displayName: mpn
-        - name: Yetkinlikler hakkında SSS
-          href: competencies-faq.md
-          displayName: 'renew, mpn'
-        - name: Uygulama Geliştirme yetkinlik istisnası
-          href: app-dev-isv.md
-        - name: Yetenekler raporunu kullanma
-          href: mpn-skills-report.md
-    - name: Gelişmiş uzmanlıklar
-      items:
-        - name: Uzmanlığınızı gösterme
-          href: advanced-specializations.md
-          displayName: mpn
-        - name: Başvurma veya durumu kontrol etme
-          href: advanced-specializations-apply.md
-          displayName: mpn
-    - name: Azure Uzman MSP olma
-      href: azure-expert-msp.md
-    - name: Avantajlar
-      items:
-        - name: Avantajlara genel bakış
-          href: manage-your-partner-network-benefits.md
-          displayName: mpn
         - name: Pazara çıkış avantajları
           href: mpn-learn-about-go-to-market-benefits.md
           displayName: mpn
         - name: MPN iş ortakları için tanıtımlar
           href: mpn-demos.md
           displayName: mpn
-        - name: Avantajlar ilkesi ve kullanımı-SSS
-          href: benefits-faq-new.md
-        - name: Avantajlar hakkında SSS'ler
-          href: benefits-faq.md
-          displayName: 'renew, license,'
         - name: Azure ve bulut avantajları
           href: mpn-benefits-azure-cloud.md
           displayname: 'activate, azure license, mpn, renew'
@@ -118,11 +92,33 @@
           items:
             - name: Uygunluk gereksinimleri
               href: software-assurance-dps-requirements.md
-    - name: Faturalar ve vergiler
-      href: mpn-view-print-maps-invoice.md
-      displayName: 'invoice, mpn'
-    - name: Yeni özellikleri deneme
-      href: test-drive-new-features.md
+    - name: Yetkinlikler
+      items:
+        - name: Yetkinlikler hakkında bilgi edinin
+          href: learn-about-competencies.md
+          displayName: mpn
+        - name: Bir öğrenme Iş ortağı olarak kaydetme
+          href: mpn-benefits-map-competency-learning-option-enroll.md
+          displayName: mpn
+        - name: Yetkinlikler hakkında SSS
+          href: competencies-faq.md
+          displayName: 'renew, mpn'
+        - name: Uzmanlığa yönelik ücretler ödeyin
+          href: mpn-pay-fee-silver-gold-competency.md
+          displayName: mpn
+        - name: Uygulama Geliştirme yetkinlik istisnası
+          href: app-dev-isv.md
+        - name: Yetenekler raporunu kullanma
+          href: mpn-skills-report.md
+    - name: Gelişmiş uzmanlıklar
+      items:
+        - name: Uzmanlığınızı gösterme
+          href: advanced-specializations.md
+        - name: Başvurma veya durumu kontrol etme
+          href: advanced-specializations-apply.md
+          displayName: mpn
+    - name: Azure Uzman MSP olma
+      href: azure-expert-msp.md
 - name: Bulut Çözümü Sağlayıcısı (CSP)
   href: csp-overview.md
   displayName: csp
@@ -141,7 +137,7 @@
       displayName: 'indirect, reseller, csp'
     - name: 'Microsoft Müşteri Sözleşmeleri (bölgeye, dile göre)'
       href: agreements.md
-      displayName: 'regio, region, MPA'
+      displayName: 'region, MPA'
     - name: Kısıtlanmış doğrudan fatura erişimi
       href: restricted-direct-bill-capabilities.md
       displayName: 'indirect, reseller'
@@ -579,6 +575,8 @@
         - name: Azure aboneliklerini aktarma
           href: switch-azure-subscriptions-to-a-different-partner.md
           displayName: csp
+        - name: Müşterinin Azure planı aboneliklerini farklı bir ortağa aktarma
+          href: transfer-azure-subscriptions-under-azure-plan.md
     - name: Yazılım abonelikleri
       href: csp-software-subscriptions.md
       displayName: 'subscription, cancel'

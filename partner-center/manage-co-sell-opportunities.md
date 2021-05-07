@@ -9,12 +9,12 @@ author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7ab3d1ab3f29e01303a9a039b9e9b21b9cfad07f
-ms.sourcegitcommit: 2c8d1bca0737a3d73f2888dfeaf099176bf9e9ae
+ms.openlocfilehash: 4e0f8834523770e5780395e685ca4ef45f5d2535
+ms.sourcegitcommit: 22e257d5b334ca8d3fc072f59010a508e1022694
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 02/03/2021
-ms.locfileid: "99480077"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "108702935"
 ---
 # <a name="manage-co-sell-opportunities-in-partner-center"></a>Ortak satış fırsatlarını Iş Ortağı Merkezi 'nde yönetme
 
@@ -175,11 +175,13 @@ Aşağıda, Microsoft Iş Ortağı Merkezi başvuruları sistemi tarafından bel
 
 İşiniz bittiğinde, sonucu raporlamak için anlaşmayı **kazanıldı** veya **kaybedildi** olarak işaretleyen iki eylemden birini gerçekleştirebilirsiniz.
 
+Şirketiniz aynı satış aşamalarını takip etmek gerekli değildir. Iş Ortağı Merkezi, anlaşma satış aşamalarını tanır ve bu değerleri API kullanarak geçirdiğinizde, şirketinizin aşamalarını bu standart aşamalara otomatik olarak eşler. Iş Ortağı Merkezi UX kullanıyorsanız, tabloda gösterilen yüzdeler, satış aşamalarını işaretlemek için kullanılır.
+
 > [!Note]
-> Şirketiniz aynı satış aşamalarını takip etmek gerekli değildir. Iş Ortağı Merkezi, anlaşma satış aşamalarını tanır ve bu değerleri API kullanarak geçirdiğinizde, şirketinizin aşamalarını bu standart aşamalara otomatik olarak eşler. Iş Ortağı Merkezi UX kullanıyorsanız, tabloda gösterilen yüzdeler, satış aşamalarını işaretlemek için kullanılır.
+> Kazanıldı ' ı seçtikten sonra, belirli uygun çözümler için, sizden anlaşmayı kaydetmek üzere ek bilgiler sağlamanız istenecektir. Microsoft, burada sağladığınız bilgileri inceleyerek İnceleme işlemi sırasında ek ayrıntılar isteyebilir. Daha fazla bilgi için bkz. [anlaşmaları kaydetme](register-deals.md).
 
 > [!Important]
-> Kazanıldı ' ı seçtikten sonra, belirli uygun çözümler için, sizden anlaşmayı kaydetmek üzere ek bilgiler sağlamanız istenecektir. Microsoft, burada sağladığınız bilgileri inceleyerek İnceleme işlemi sırasında ek ayrıntılar isteyebilir. Daha fazla bilgi için bkz. [anlaşmaları kaydetme](register-deals.md).
+> Anlaşma, anlaşma kaydı için uygun ise, anlaşma oluşturma ve anlaşma arasında 72 saatlik bir boşluk bulunduğundan emin olun. Anlaşmayı daha önce Kazanıldı olarak kapatmak, bu işlem, anlaşma kayıtlarının reddedilmesine neden olabilir.
 
 Anlaşma, yalnızca aşağıdaki ölçütlere uyan anlaşma kaydı için uygun olacaktır.
 

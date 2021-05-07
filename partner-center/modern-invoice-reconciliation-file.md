@@ -8,12 +8,12 @@ ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
-ms.openlocfilehash: 7ff320124230ec8e0b3505b1c1dbbb7c811cb67f
-ms.sourcegitcommit: 078eac1456f68585ff1003b21e5e1fe777af314b
+ms.openlocfilehash: 559b5334eb23ad76fe8cc51fc1beeaa3a86c6fa1
+ms.sourcegitcommit: 22e257d5b334ca8d3fc072f59010a508e1022694
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108120740"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "108702799"
 ---
 # <a name="csp-one-time-purchase-reconciliation-file-fields"></a>CSP tek seferlik satın alma mutabakatı dosya alanları
 
@@ -38,7 +38,7 @@ Karşılaştırma dosyaları hakkında daha fazla bilgi için bkz. [karşılaşt
 | Mpnıd | CSP iş ortağının MPN tanımlayıcısı. Daha fazla bilgi için bkz. [iş ortağı tarafından nasıl yapılır](./use-the-reconciliation-files.md#itemize-reconciliation-files-by-partner). | *6034453* |
 | Resellermpnıd | Abonelik için kayıt satıcısının MPN tanımlayıcısı. | *6048879* |
 | OrderId | Microsoft faturalandırma platformunda bir sipariş için benzersiz tanımlayıcı. Destek ile iletişim kurulurken sırayı belirlemek yararlı olabilir. Mutabakat için kullanılmıyor. | *0ET2qaZvJGfF9wgSKnWzR5JLmhp10lOc1* |
-| OrderDate | Siparişin yerleştirildiği tarih. | *10/3/2020* |
+| OrderDate | Siparişin yerleştirildiği UTC tarihi. | *10/3/2020* |
 | ProductId | Ürünün benzersiz tanımlayıcısı. | *DZH318Z0BNZ5* |
 | SkuId | SKU benzersiz tanımlayıcısı. | *006G* |
 | Kullanılabilirlik kimliği | Kullanılabilirlik benzersiz tanımlayıcısı. | *DZH318Z08B80* |

@@ -11,12 +11,12 @@ ms.custom:
 - references_regions
 ms.localizationpriority: high
 ms.date: 04/29/2021
-ms.openlocfilehash: d26d1af994ae9a3f951ee9428ee6fd092b2c91d8
-ms.sourcegitcommit: 6c20c3cc4a226cada70c56df295966696affcec8
+ms.openlocfilehash: 798dcb1570a0f6dfc94c7b45fc3c2e152f55cbe5
+ms.sourcegitcommit: 22e257d5b334ca8d3fc072f59010a508e1022694
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "108328058"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "108702833"
 ---
 # <a name="april-2021-announcements"></a>Nisan 2021 duyuruları
 
@@ -308,11 +308,12 @@ Aylık CSP topluluk çağrısı Q&A, CSP programındaki değişikliklerle ilgili
 Daha fazla bilgi için [desteğe](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?category=csp)başvurun.
 
 ________________
-## <a name="reminder-deprecation-of-get-qualification-on-may-4-2021"></a><a name="4"></a>Anımsatıcı: 4 Mayıs 2021 ' de GET nitelemesini kullanımdan kaldırma
+## <a name="final-reminder-deprecation-of-get-qualification-on-may-6-2021"></a><a name="4"></a>Son anımsatıcı: 6 Mayıs 2021 ' de GET nitelemesini kullanımdan kaldırma
 
 ### <a name="categories"></a>Kategoriler
 
-- Tarih: 2021-04-09
+- Tarih: 2021-05-04
+
 - Özellikler
 
 ### <a name="impacted-audience"></a>Etkilenen hedef kitle
@@ -321,13 +322,13 @@ Iş Ortağı Merkezi API 'sini kullanarak bulut çözümü sağlayıcısı progr
 
 ### <a name="details"></a>Ayrıntılar
 
-Bu duyuru, [Aralık ayında yayınlanan](https://docs.microsoft.com/partner-center/announcements/2020-december#1)Iş ortağı merkezi geliştirmeleri için bir izdir. Bu yayının bir parçası olarak, yeni GET ve POST nitelikleri API 'Leri dağıtılır ve sonuç olarak, mevcut GET niteliği 4 Mayıs 2021 ' de kullanımdan kaldırılacaktır. Bu süre içinde, satın alma eğitimi tekliflerine yönelik yeni POST Iş Ortağı Merkezi API 'Lerini ve yeni GET nitelikleri API 'sini kullanarak, kar amacı gütmeyen ve GCC tekliflerini satın almanız gerekir.
+Bu duyuru, [Aralık ayında yayınlanan](https://docs.microsoft.com/partner-center/announcements/2020-december#1)Iş ortağı merkezi geliştirmeleri için bir izdir. Bu yayının bir parçası olarak, yeni GET ve POST nitelikleri API 'Leri dağıtılır ve sonuç olarak, **mevcut Get niteliği 6 mayıs 2021 tarihinde kullanımdan** kaldırılacaktır. Bu süre içinde, yeni GÖNDERI Ortağı Merkezi API 'Lerini kullanmak için geçiş yapmanız gerekir. Yeni GÖNDERI API 'Leri, eğitim teklifleri satın almanızı sağlayacaktır, ancak yeni GET API 'Leri, önceden nitelikli kar ve GCC teklifleri satın almanızı sağlayacaktır.
 
 ### <a name="next-steps"></a>Sonraki adımlar
 
-- Başarılı ve zamanında geçiş için yeni API 'lere güncelleştirin.
+- Başarılı ve zamanında geçiş için **yeni API 'Lere güncelleştirin** .
 
-- Işlem hazırlık kaynaklarında yeni Iş Ortağı Merkezi API 'SI değişikliklerini ve kılavuzunu gözden geçirin: [Partner Center eğitim müşteri doğrulama işlemi geliştirmeleri](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/).
+- Işlem hazırlık kaynaklarında **Yeni Iş Ortağı Merkezi API 'si değişikliklerini ve kılavuzunu gözden geçirin** : [Partner Center eğitim müşteri doğrulama işlemi geliştirmeleri](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/).
 
 - Bu bilgileri kuruluşunuzdaki uygun ekiplerle ve bu değişikliklere hazırlanmalarına yardımcı olmak için satıcılarla birlikte paylaşabilirsiniz.
 
@@ -337,8 +338,12 @@ Bu bildirimle ilgili sorularınız için [Iş ortağı merkezi desteği](https:/
 
 ### <a name="change-log"></a>Değişiklik günlüğü
 
-- Nisan: kullanım dışı bırakma niteliği kullanım dışı bırakma anımsatıcısı 
+- 4 Mayıs 2021: son kullanım dışı bırakma için son anımsatıcı
+
+- 9 Nisan 2021: kullanım dışı bırakma niteliği kullanım dışı bırakma anımsatıcısı 
+
 - Şubat: GET & PUT nitelikleri 'nin kullanımdan kaldırılması için zaman çizelgeleri güncelleştirildi
+
 - Ocak: GET & PUT nitelikleri için yaklaşan kullanım dışı bırakın
 
 ________________

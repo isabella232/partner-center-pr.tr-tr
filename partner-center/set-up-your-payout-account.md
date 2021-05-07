@@ -7,12 +7,12 @@ ms.subservice: partnercenter-mpn
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 12/10/2019
-ms.openlocfilehash: c08dfb816e08efdc194dbeff8800a2cbcec2b972
-ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
+ms.openlocfilehash: 8f680753216ea9cd515c8082495b390c7bf95a62
+ms.sourcegitcommit: 22e257d5b334ca8d3fc072f59010a508e1022694
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "105028443"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "108702816"
 ---
 # <a name="set-up-your-payout-account-and-tax-forms"></a>Ödeme hesabınızı ve vergi formlarınızı ayarlama
 
@@ -145,7 +145,7 @@ Değişiklik yapmanız veya yanlış bilgileri düzeltmeniz gerekiyorsa, mevcut 
 
 Bir ödeme yöntemi olarak PayPal kullanımıyla ilgili yaygın sorular:
 
-- **Ödemeleri almak için hangi PayPal ayarlarına sahip olmam gerekir?** PayPal hesabınızın eCheck ödemelerini engellemediğinden emin olun. Bu ayar PayPal 'in ödeme alma tercihleri sayfasında yönetilir. Daha fazla bilgi için [PayPal 'in hesap kurulum sayfasına](https://go.microsoft.com/fwlink/p/?linkid=513139) bakın.
+- **Ödemeleri almak için hangi PayPal ayarlarına sahip olmam gerekir?** PayPal hesabınızın eCheck ödemelerini engellemediğinden emin olun. Bu ayar PayPal 'in ödeme alma tercihleri sayfasında yönetilir. Daha fazla bilgi için [PayPal 'in hesap kurulum sayfasına](https://go.microsoft.com/fwlink/?linkid=2162542) bakın.
 
 - **Ülkeniz/bölgem destekleniyor mu?** PayPal 'in desteklenen bir ödeme yöntemi olduğunu öğrenmek için [ödeme eşikleri, Yöntemler ve zaman çerçevelerine](payment-thresholds-methods-timeframes.md) bakın.
 

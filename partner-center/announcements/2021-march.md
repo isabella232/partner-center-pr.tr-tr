@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 04/02/2021
-ms.openlocfilehash: 17b8082b8a42050892ff434010952d5f91a39431
-ms.sourcegitcommit: 6c20c3cc4a226cada70c56df295966696affcec8
+ms.openlocfilehash: 3d91eb26f98005b92a48c6f242ea4439e42cde05
+ms.sourcegitcommit: 22e257d5b334ca8d3fc072f59010a508e1022694
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "108328075"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "108702884"
 ---
 # <a name="march-2021-announcements"></a>Mart 2021 duyuruları
 
@@ -24,7 +24,7 @@ Bu sayfada Mart 2021 için Microsoft Iş Ortağı Merkezi duyuruları sağlanmak
 
 ### <a name="categories"></a>Kategoriler
 
-- Tarih: 2021-04-30
+- Tarih: 2021-03-30
 - Hazır Olma
 
 ### <a name="summary"></a>Özet
@@ -833,7 +833,7 @@ ________________
 
 ### <a name="categories"></a>Kategoriler
 
-- Tarih: 2021-03-33
+- Tarih: 2021-03-03
 - Özellikler
 
 ### <a name="summary"></a>Özet

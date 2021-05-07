@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4c311de4a504785e15cefc7a93f1ee3da396ea7d
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: 117acfa8c50496ddaa75789b2bb3f55c642e4fe6
+ms.sourcegitcommit: 22e257d5b334ca8d3fc072f59010a508e1022694
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441294"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "108702918"
 ---
 # <a name="understand-the-fields-in-partner-center-license-based-reconciliation-files"></a>Iş Ortağı Merkezi lisans tabanlı mutabakat dosyalarındaki alanları anlayın
 
@@ -46,8 +46,8 @@ Değişikliklerinizin bir müşterinin siparişlerine karşı mutabakatını sa�
 | OfferId | Benzersiz teklif tanımlayıcısı. Fiyat listesinde tanımlandığı gibi standart teklif tanımlayıcısı. *Bu değer, Fiyat listesindeki **TEKLIF kimliğiyle** eşleşmez. Bunun yerine **Durableofferıd** bölümüne bakın.* | *FE616D64-E9A8-40EF-843F-152E9BBEF3D1* |
 | Durableofferıd | Fiyat listesinde tanımlandığı şekilde benzersiz dayanıklı teklif tanımlayıcısı. *Bu değer, Fiyat listesindeki **TEKLIF kimliğiyle** eşleşir.* | *1017D7F3-6D7F-4BFA-BDD8-79BC8F104E0C* |
 | OfferName | Fiyat listesinde tanımlandığı şekilde, müşteri tarafından satın alınan hizmet sunumunun adı. | *Microsoft Office 365 (plan E3)* |
-| SubscriptionStartDate | Abonelik başlangıç tarihi. Saat her zaman günün başlangıcıdır (00:00). Bu alan, Sipariş gönderildikten sonraki güne ayarlanır. Şunları öğrenmek için **SubscriptionEndDate** ile kullanılır: müşteri aboneliğin ilk yılında hala içindeyse veya abonelik aşağıdaki yıl için yenilenmişse. | *2/1/2019 0:00* |
-| SubscriptionEndDate | Abonelik bitiş tarihi. Saat her zaman günün başlangıcıdır (00:00). *Başlangıç tarihinden sonraki 12 ay artı **x** gün sonra* , iş ortağının faturalandırma tarihi veya *yenileme tarihinden itibaren 12 ay* ile hizalanacaktır. Yenileme sırasında fiyatlar geçerli fiyat listesine güncelleştirilir. Müşteri iletişimi otomatik yenilemeyle önceden gerekli olabilir. | *2/1/2019 0:00* |
+| SubscriptionStartDate | UTC olarak abonelik başlangıç tarihi. Saat her zaman günün başlangıcıdır (00:00). Bu alan, Sipariş gönderildikten sonraki güne ayarlanır. Şunları öğrenmek için **SubscriptionEndDate** ile kullanılır: müşteri aboneliğin ilk yılında hala içindeyse veya abonelik aşağıdaki yıl için yenilenmişse. | *2/1/2019 0:00* |
+| SubscriptionEndDate | UTC olarak abonelik bitiş tarihi. Saat her zaman günün başlangıcıdır (00:00). *Başlangıç tarihinden sonraki 12 ay artı **x** gün sonra* , iş ortağının faturalandırma tarihi veya *yenileme tarihinden itibaren 12 ay* ile hizalanacaktır. Yenileme sırasında fiyatlar geçerli fiyat listesine güncelleştirilir. Müşteri iletişimi otomatik yenilemeyle önceden gerekli olabilir. | *2/1/2019 0:00* |
 | ChargeStartDate | Ücretlerin başlangıç günü. Saat her zaman günün başlangıcıdır (00:00). Bir müşteri Lisans numaralarını değiştirdiğinde günlük ücretleri (*Pro rampaücreti* ) hesaplamak için kullanılır. | *2/1/2019 0:00* |
 | ChargeEndDate | Ücretlerin bitiş günü. Saat daima günün sonu, 23:59. Bir müşteri Lisans numaralarını değiştirdiğinde günlük ücretleri (*Pro rampaücreti* ) hesaplamak için kullanılır. | *2/28/2019 23:59* |
 | ChargeType | Ücret veya ayarlamanın [türü](recon-file-charge-types.md) . | Bkz. [ücretlendirme türleri](recon-file-charge-types.md). |

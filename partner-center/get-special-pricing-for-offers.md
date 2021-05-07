@@ -2,19 +2,19 @@
 title: Özelleştirilmiş sektörlere satış
 description: Eğitim müşterileri, kar amacı olmayan müşteriler ve kamu kullanıcıları dahil olmak üzere, Microsoft 'un belirli müşteri grupları için özel, azaltılan fiyatlar hakkında bilgi edinin.
 ms.topic: how-to
-ms.date: 06/05/2020
+ms.date: 05/04/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: alikhaki
 ms.author: alikhaki
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2c1cb2adc28a19f265643c5e2756fbdf1195b970
-ms.sourcegitcommit: 64b43ad8fb7bb56628450bea06b9cd2606c36b03
+ms.openlocfilehash: bff69796cb753f93225bb44324629180d981a721
+ms.sourcegitcommit: 22e257d5b334ca8d3fc072f59010a508e1022694
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 02/12/2021
-ms.locfileid: "100281269"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "108702697"
 ---
 # <a name="sell-to-specialized-industries-like-education-non-profit-and-government-users"></a>Eğitim, kar amacı gütmeyen kuruluş ve kamu kullanıcıları gibi özelleştirilmiş sektörlere satış yapma
 
@@ -61,17 +61,21 @@ Siz ve müşteriniz özel bir teklif programı için uygun olduktan sonra, [bir 
 İş ortakları müşterilere yalnızca belirli ölçütlere uyan özel teklifleri satabilir. 
 
 - Eğitim teklifleri yalnızca müşteri eğitim kurumu olarak yetkilendirilirse satın alınabilir. Eğitim müşterisi yalnızca eğitim ve ticari teklifler alabilir, ancak kar veya devlet dışı bir topluluk bulutu (GCC) değil.
-- İş ortakları GCC müşterileri için yalnızca GCC abonelikleri satın alabilir. Bir müşterinin GCC aboneliği olduktan sonra, iş ortakları ticari, eğitim veya kar amacı olmayan abonelikler satın alamaz. 
+- İş ortakları GCC müşterileri için yalnızca GCC abonelikleri satın alabilir. Bir müşterinin GCC aboneliği olduktan sonra, iş ortakları ticari, eğitim veya kar amacı olmayan abonelikler satın alamaz.
 - İş ortakları yalnızca kar amacı gütmeyen müşteriler için ticari veya kar amacı olmayan abonelikler satın alabilir. İş ortakları, kar amacı gütmeyen müşteriler için GCC veya eğitim abonelikleri satın alamaz.
+- Eyalet ait varlıkların [uygunluk ölçütlerini](https://www.microsoft.com/legal/compliance/anticorruption/criteria)karşılaması gerekir.
 
 Müşterilere özel teklifler satmaya yönelik satın alma kuralları:
 
 |**Müşteri türü**   |**Satılabilir**   |**Satılamaz**   |
 |:----------------------------|:---------------------------------|:------------------------------------------|
-| Ticari |Ticari | Kar amacı, eğitim veya kamu Community bulutu |
+| Ticari |Ticari | Kar, eğitim veya kamu topluluğu bulutu |
 | Kar dışı |Ticari, kar amacı gütmeyen | Eğitim veya kamu Community bulutu |
 | Eğitim |Ticari, eğitim | Kar amacı gütmeyen veya kamu topluluğu bulutu |
 | Kamu Community bulutu |Kamu Community bulutu | Kar, eğitim veya ticari olmayan |
+| Eyalet sahibi olan varlık  | Ticari  | Kar, eğitim veya kamu topluluğu bulutu  |
+| Eğitim ve eyalet sahibi olan varlık | Ticari, eğitim | Kar amacı gütmeyen veya kamu topluluğu bulutu |
+| Eyalete aitse varlık ve kamu topluluğu bulutu | Kamu Community bulutu | Kar, eğitim veya ticari olmayan |
 
 ## <a name="next-steps"></a>Sonraki adımlar
 

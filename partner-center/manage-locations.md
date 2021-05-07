@@ -1,7 +1,7 @@
 ---
 title: İş ortağı hesabınızdaki konumları yönetin
 ms.topic: how-to
-ms.date: 04/05/2021
+ms.date: 05/01/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Yeni bir konum ekleme ve bilgisayar, CSP iş, abonelik ve diğer işlemlerde MPN KIMLIĞI 'nin nasıl kullanıldığını öğrenin.
@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7ca8c866479fbe153c1e0192edd33e8258b9d6e7
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: 8a2b4fa8b204b10d5d45c0e1409ab4bc463e272f
+ms.sourcegitcommit: 22e257d5b334ca8d3fc072f59010a508e1022694
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441345"
+ms.lasthandoff: 05/06/2021
+ms.locfileid: "108702901"
 ---
 # <a name="manage-your-mpn-account-locations-and-add-delete-a-location"></a>MPN hesap konumlarını yönetme ve konum ekleme (silme)
 
@@ -50,7 +50,7 @@ Yeni bir CSP iş hesabı eklemek için önkoşulları karşıladığından emin 
 
 1. Doğrudan fatura ortağı olarak kaydolmak istiyorsanız, [doğrudan fatura ortakları Için gereksinimleri](direct-partner-new-requirements.md) okuyun
 
-## <a name="view-your-mpn-locations"></a>MPN konumlarınızı görüntüleyin
+## <a name="view-and-update-your-mpn-locations"></a>MPN konumlarınızı görüntüleyin ve güncelleştirin
 
 1. MPN hesabı kimlik bilgilerinizle Iş Ortağı Merkezi [panosunda](https://partner.microsoft.com/dashboard/home) oturum açın. (MPN kimlik bilgileriniz CSP kimlik bilgilerinizle farklı olabilir) 
  
@@ -100,6 +100,37 @@ Aşağıdaki alanları güncelleştirin:
 > [!NOTE]
 > Iş Ortağı Merkezi 'ne bir konum eklendikten sonra kaldıramazsınız. Oturum açmak için doğru MPN KIMLIĞINI kullandıysanız, **MPN** 'Yi Iş Ortağı Merkezi 'nin sol menüsünde görürsünüz.
 
+## <a name="add-the-registration-number-id"></a>Kayıt numarası KIMLIĞINI ekleyin
+
+Dolaylı bir Sağlayıcıysanız, doğrudan faturanız veya dolaylı satıcısıysanız ve aşağıdaki ülkelerde yeni veya mevcut müşterilerle iş yapıyorsanız, işletmeniz için kayıt KIMLIĞI numaraları sağlamanız gerekir. İş yapmakta olduğunuz ülke aşağıda listelenmiyorsa kayıt KIMLIĞI isteğe bağlıdır.
+
+- Ermenistan 
+- Azerbaycan 
+- Belarus 
+- Brezilya 
+- Macaristan 
+- Hindistan 
+- Irak 
+- Kazakistan 
+- Kırgızistan 
+- Moldova 
+- Myanmar 
+- Polonya 
+- Rusya 
+- Suudi Arabistan 
+- Güney Afrika 
+- Güney Sudan  
+- Tacikistan 
+- Tayland
+- Türkiye 
+- Ukrayna 
+- Birleşik Arap Emirlikleri 
+- Özbekistan 
+- Venezuela
+- Vietnam 
+
+
+Daha fazla bilgi için [kayıt kimliği numarası bilgilerini](reg-number-id.md) okuyun
 
 ## <a name="delete-a-location"></a>Konum silme
 
