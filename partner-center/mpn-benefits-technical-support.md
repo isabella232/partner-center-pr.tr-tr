@@ -1,47 +1,47 @@
 ---
-title: MPN avantajları-teknik destek olayları
+title: MPN Avantajları - Teknik Destek Olayları
 ms.topic: article
 ms.date: 03/04/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Teknik destek olayları için Microsoft İş Ortağı Ağı (MPN) avantajları hakkında bilgi edinin
+description: Teknik destek Microsoft İş Ortağı Ağı (MPN) avantajları hakkında bilgi
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e8f99028fbb26003c0f18a85c5a6d7e416fecd60
-ms.sourcegitcommit: f8fd51e1acdbfafdde86d6490bade66c63033ebd
+ms.openlocfilehash: 9aa451a3267cee70282aaad5e018e2f377edb82f
+ms.sourcegitcommit: 2ad9e61fa5b9941f927ebf44c459b6c1bd055b9d
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108172209"
+ms.lasthandoff: 05/08/2021
+ms.locfileid: "109630126"
 ---
-# <a name="technical-support-benefits"></a>Teknik destek avantajları
+# <a name="technical-support-benefits"></a>Teknik Destek Avantajları
 
 **Uygun roller**
 
 - Genel yönetici
-- MPN iş ortağı Yöneticisi
-- Yönetim Aracısı
+- MPN iş ortağı yöneticisi
+- Yönetici aracısı
 
 ## <a name="overview"></a>Genel Bakış
 
-Bu makale, MPN Iş ortağı avantajları kullanılarak teknik destek olayının nasıl oluşturulabileceğine bilmemiz gereken Microsoft İş Ortağı Ağı Iş ortakları (MPN) üyeleri içindir
+Bu makale, MPN İş Microsoft İş Ortağı Ağı kullanılarak teknik destek olayı oluşturması gereken iş ortaklarının (MPN) üyelerine aittir
 
-## <a name="view-and-activate-your-technical-support-benefits"></a>Teknik destek avantajlarınızı görüntüleyin ve etkinleştirin 
+## <a name="view-and-activate-your-technical-support-benefits"></a>Teknik destek avantajlarınızı görüntüleme ve etkinleştirme 
 
-Iş Ortağı Merkezi 'nde teknik avantajlarınızı görüntülemek ve etkinleştirmek için:
+Bu şekilde teknik avantajlarınızı görüntülemek ve etkinleştirmek İş Ortağı Merkezi:
 
-1. MPN ilişkili hesabınızla Iş Ortağı Merkezi [panosu](https://partner.microsoft.com/dashboard)' nda oturum açın. 
+1. MPN ilişkili hesabınızla oturum açın ve İş Ortağı Merkezi [açın.](https://partner.microsoft.com/dashboard) 
     > [!NOTE]
-    > Hesabınız yalnızca CSP ile ilişkiliyse ve MPN ile ilişkili değilse, "Bu eylem için yetkiniz yok" hata iletisini görürsünüz. Bir MPN ilişkili hesabınız olmalıdır.
+    > Hesabınız yalnızca CSP ile ilişkili ve MPN ile ilişkili değil, "Bu eylem için yetkiniz yok" hata iletisini alırsınız. MPN ile ilişkili bir hesabınız olması gerekir.
 
-2. , Sol gezinti menüsünde avantajlar ' ı genişletin, **Teknik avantajlar**' ı seçin. Teknik avantajlar sayfası, altın, gümüş veya Microsoft Eylem Paketi üyelik tekliflerinizin sunduğu teknik destek avantajlarının bir listesi ile birlikte görüntülenir. 
+2. Sol gezinti menüsünde Avantajlar'ı genişletin ve Teknik **avantajlar'ı seçin.** Altın, Silver veya Microsoft üyelik teklifleriyle ilgili teknik destek avantajlarının bir listesinin yer Eylem Paketi görüntülenir. 
 
     > [!NOTE]
-    >Etkin üyelik yoksa, "henüz avantajınız yok" iletisini görürsünüz. Şirketinizde etkin üyelik teklifleri varsa ancak bunları göremiyorsanız yanlış hesabı kullanarak oturum açmış olabilirsiniz. Hesabınızı denetlemek için sayfanın sağ üst kısmındaki **Hesap** simgesini seçin ve **başka bir hesapla oturum aç** ' ı (gerekliyse) seçin.
+    >Etkin üyelik teklifiniz yoksa "Henüz herhangi bir avantaja sahip değil gibi görünüyor" iletisiyle karşınız. Şirketinizin etkin üyelik teklifleri varsa ama bunları görmüyorsanız, yanlış hesabı kullanarak oturummış olabilirsiniz. Hesabı kontrol etmek için sayfanın **sağ** üst köşesindeki Hesap simgesini seçin ve başka bir hesapla **oturum açın** (gerekirse) seçeneğini kullanın.
 
-3. Microsoft ürün desteği veya Imza ürün desteği kullanmaya başlamak için avantajı etkinleştirmeniz gerekir. Erişim KIMLIĞI ve sözleşme KIMLIĞI, başarıyla etkinleştirilmesinden sonra görüntülenecektir. 
+3. Microsoft Ürün Desteği veya İmza Ürünü Desteği kullanmaya başlamanız için avantajı etkinleştirmeniz gerekir. Erişim kimliği ve Sözleşme Kimliği, etkinleştirme başarılı olduktan sonra görüntülenir. 
 
     -   Avantajı etkinleştirmek için Etkinleştir düğmesini seçin. Etkinleştirme için kullanılan Kullanıcı hesabı, genel yönetici veya MPN Iş ortağı yöneticisi rollerini gerektirir. Etkinleştirme isteğinizi birkaç güne kadar işlemeye izin verin. 
 
@@ -62,28 +62,28 @@ Microsoft İş Ortağı Ağı üyeliğinin bir parçası olarak, iş ortakları 
 | Teknik Destek |  Eylem Paketi | Gümüş uzmanlık | Altın uzmanlık |
 |:---:|:---:|:---:|:---:|
 | Microsoft ürün desteği<br>Son Şirket Içi için <br>yalnızca ürünler | 10 olay | 15 olay  | 20 olay |
-| İmza bulutu desteği<br>Yalnızca bulut ürünleri için |  | Bulut Uzmanlıklar:<br>Sınırsız<br><br>Diğer Uzmanlıklar:<br>5 olay  | Bulut Uzmanlıklar:<br>Sınırsız<br>          <br>Diğer Uzmanlıklar:<br>10 olay  |
+| İmza bulutu desteği<br>Yalnızca bulut ürünleri için |  | Bulut Uzmanlıklar:<br>Sınırsız<br><br>Diğer Uzmanlıklar:<br>5 Olay  | Bulut Yetkinlikleri:<br>Sınırsız<br>          <br>Diğer yetkinlikler:<br>10 Olay  |
 
-* Bulut uzmanlığına şunlar dahildir: güvenlik uzmanlığına, bulut Business Applications, bulut platformu, bulut üretkenliği, kurumsal Mobility yönetimi, küçük ve orta Pazar bulut çözümleri.
+*Bulut yetkinlikleri şunlardır: Güvenlik Uzmanlığı, Bulut Business Applications, Bulut Platformu, Bulut Üretkenliği, Enterprise Mobility Management, Küçük ve Orta Ölçekli Pazar Bulut Çözümleri.
 
-## <a name="microsoft-product-support-on-premises"></a>Microsoft ürün desteği (Şirket içi)
+## <a name="microsoft-product-support-on-premises"></a>Microsoft Ürün Desteği (Şirket içi)
 
-**Microsoft ürün desteğini** , en son şirket içi ürünlerde teknik destek için kullanabilirsiniz. 
+Son şirket içi  **ürünlerde teknik** destek için Microsoft Ürün Desteği'nden kullanabilirsiniz. 
 
-Avantajı ilk kez kullandığınızda erişim KIMLIĞI ve sözleşme KIMLIĞI gerekir. Avantajlar, kullanım süreleri dolana kadar veya kalan daha fazla destek olayı olmadığından Kullanıcı hesabınızla ilişkilendirilir.
+Avantajı ilk kez kullanırken Erişim Kimliği ve Sözleşme Kimliği gerekir. Avantajlar, süresi dolana veya başka destek olayı kalana kadar kullanıcı hesabınızla ilişkilendirilr.
 
-Herhangi bir kullanıcı hesabı (AAD veya MSA), erişim KIMLIĞI ve sözleşme KIMLIĞI varsa şirket Içi ürünler için teknik destek kullanabilir
+Erişim Kimliği ve Sözleşme Kimliğine sahip olan tüm kullanıcı hesapları (AAD veya MSA) Şirket İçi ürünler için teknik destek kullanabilir
 
-Şirket Içi ürün için destek isteği oluşturmak üzere [Iş desteği](https://support.serviceshub.microsoft.com/supportforbusiness/create) ' ni seçin.
+Şirket [İçi ürün için](https://support.serviceshub.microsoft.com/supportforbusiness/create) destek isteği oluşturmak için İş Için Destek'i seçin.
 
-## <a name="how-many-partner-support-incidents-are-remaining"></a>Kaç Iş ortağı destek olayı kaldı?
-Bu bilgileri yalnızca Iş yerinde şirket içi destek portalı için desteğe aktarabilirsiniz. Ne yazık ki bulut portalları Azure, LCS vb. bu bilgileri göstermez.
+## <a name="how-many-partner-support-incidents-are-remaining"></a>Kaç tane İş ortağı destek olayı kaldı
+Bu bilgileri yalnızca İş Için Destek şirket içi destek portalında bulabilirsiniz. Ne yazık ki Azure, LCS gibi Bulut portalları bu bilgileri göstermemektedir.
 
-Iş için destek kullanmanız ve bir şirket içi destek olayı oluşturmak için işlemi başlatmanız gerekir. İşlemi tamamlamadığımız için bir destek isteği oluşturmıyoruz. İhtiyaç duyduğumuz bilgiler 2. adımda gösteriliyor.
+İş Için Destek'i kullanmalı ve şirket içi destek olayı oluşturma sürecini başlatmanız gerekir. Süreci tamamlamamız gereken bir destek isteği oluşturmaz. Bize gereken bilgiler 2. Adım'da görüntülenir.
 
-1. Adım Windows 10 ' u seçin ve kukla bilgileri girin
+1. Adım İş [için Destek'i](https://support.serviceshub.microsoft.com/supportforbusiness/create) açın, Windows 10'u seçin ve sahte bilgiler girin
 
-2. adım erişim KIMLIĞI ve sözleşme KIMLIĞI 'ni kullanarak destek sözleşmesi ekleyin. Şirket içi destek için Iş ortağı destek sözleşmesinin görüntülendiğini görebilirsiniz ve bu, başlangıç tarihi, bitiş tarihi ve kalan olayları içerir. "Kullanılamayan destek planlarını görmek istiyor musunuz?" öğesini genişletin. bölümüne bakın. Burada yalnızca sözleşmelerin geçerliliği dolmuşsa, kalan bir olay yoksa veya eski şirket içi bir ürünü seçtiyseniz Iş ortağı desteğini görürsünüz (bkz. destek ürünleri için bkz. [aka.MS/n-1](https://aka.ms/n-1) )
+2. Adım Destek sözleşmeniz hesabınızla zaten ilişkili ise destek olaylarının görüntülendiğinden emin olun. Şirket içi destek için İş Ortağı Desteği sözleşmesinin görüntülendiğinden (artık geçerli olmadığı sürece) ve buna başlangıç tarihi, bitiş tarihi ve kalan olaylar dahildir. Destek sözleşmenizi ilişkilendirmeniz gerekiyorsa "daha fazla destek planı satın almanız veya eklemeniz gerekiyor" seçeneğini genişletin ve erişim KIMLIĞINIZI ve sözleşme KIMLIĞINIZI girmek için sözleşme Ekle düğmesine tıklayın. "Kullanılamayan destek planlarını görmek istiyor musunuz?" öğesini genişletin. bölümüne bakın. Burada yalnızca sözleşmelerin geçerliliği dolmuşsa, kalan bir olay yoksa veya eski şirket içi bir ürünü seçtiyseniz Iş ortağı desteğini görürsünüz (bkz. destek ürünleri için bkz. [aka.MS/n-1](https://aka.ms/n-1) )
 
 **Daha ayrıntılı bilgi için bkz. [kaç Iş ortağı destek olayı kaldı?](https://support.microsoft.com/topic/how-many-partner-support-incidents-are-remaining-e8220db5-14f6-93db-4b4a-35766e11b3c3)** 
 
@@ -103,27 +103,27 @@ Azure portal kullandığınızda, yardım + destek, destek planları ve "destek 
 > [!NOTE]
 > Microsoft Eylem Paketi sahipseniz, yalnızca Microsoft ürün desteği (Şirket içi) Imza bulutu desteği içermediği için bulut desteği almaz
 
-*"Bu ERIŞIM kimliği zaten bir hesapla ilişkilendirilmiş" hata iletisini görebilirsiniz. Yeni erişim KIMLIĞI almak için lütfen teknik hesap yöneticinize başvurun*. **Bu hata iletisi geçersiz ve göz ardı edilmelidir!** Hatanın devre dışı bırakılması ve yararlı bir tanılama hata iletisiyle değiştirilmesini istedi. 
+*"Bu ERIŞIM kimliği zaten bir hesapla ilişkilendirilmiş" hata iletisini görebilirsiniz. Yeni erişim KIMLIĞI almak için lütfen teknik hesap yöneticinize başvurun*. **Bu hata iletisi geçersiz ve göz ardı edilmelidir!** Hatanın devre dışı bırakılacak ve yararlı bir tanılama hata iletisiyle değiştirilmesini talep ettik. 
 
-Yukarıdaki "erişim KIMLIĞI zaten ilişkilendirilmiş..." olarak görüntülenir. Azure portal kullanırken bir destek sözleşmesini bir hesapla daha fazla kez ilişkilendirdiğinizde hata oluştu. Aşağıdaki senaryolara bakın:
+Yukarıdaki "Erişim Kimliği zaten ilişkili ..." ifadesini görebilirsiniz hatasını alırsanız, destek sözleşmesini bir hesapla birden çok kez ilişkilendirmek için Azure portal. Aşağıdaki senaryolara bakın:
 
-1. Altın veya gümüş teknik avantajlarınız varsa ve daha önce sözleşmeyi şirket içi destek için eklediyseniz, Azure portal kullanır ve sözleşmeyi aynı hesaba ikinci kez eklersiniz. Yalnızca destek sözleşmesini bir hesapla ilişkilendirmeniz gerekir ve bu nedenle Azure 'da destek avantajlarına bağlamanız gerekmez. Sözleşme, sözleşmenin zaten ilişkilendirildiği hesapla ilişkili olduğu durumlarda bağlantı desteği avantajlarından yararlanın, hatayı görürsünüz ve yok sayılır. + Yeni Destek isteği kullanın ve normal olarak bir destek olayı oluşturun ve destek planı görüntülenir.
+1. Altın veya gümüş teknik avantajlarınız varsa ve daha önce şirket içi destek için sözleşmeyi eklediyebilirsiniz, Azure portal'ı kullanır ve sözleşmeyi aynı hesaba ikinci kez eklersiniz. Destek sözleşmesini bir hesapla yalnızca bir kez ilişkilendirmeniz gerekir ve bu nedenle Azure'da destek avantajlarını bağlamanız gerek değildir. Sözleşme hesapla ilişkilendirilmiş durumdayken Bağlantı desteği avantajlarını kullanırsanız hatayı alırsınız ve yoksayılırsınız. + Yeni Destek isteği kullanın ve normal şekilde bir destek olayı oluşturun; Destek planı görüntülenir.
 
-2. Destek sözleşmesinin süresi dolmuşsa veya Imza 10pack (altın karma uzmanlığı) veya Imza 5pack (gümüş karma uzmanlığı) için hiçbir olay yoksa, destek sözleşmesi geçersiz olduğu için gizlenir. Destek avantajlarını yeniden bağlarsanız, sözleşmenin zaten ilişkili olduğu için bu hatayı görürsünüz. Azure destek olaylarını almak için yeni bir destek planı satın almanız gerekir. 
+2. Destek sözleşmesinin süresi dolduğunda veya signature 10pack (Gold karma uzmanlığı) veya Signature 5pack (Silver karma uzmanlığı) paketinde hiçbir olay yoksa destek sözleşmesi geçersiz olduğu için gizlenir. Destek avantajlarını yeniden bağlamanız gerekirse, sözleşme zaten ilişkili olduğundan hatayı alırsınız. Olayları takip etmek için yeni bir destek planı Azure desteği gerekir. 
 
-Iş ortağı ücretli destek teklifleri için aşağıdaki Iş ortağı destek planlarına bakın
+İş ortağı tarafından ödenen destek teklifleri için aşağıdaki İş Ortağı Destek Planları'ne bakın
 
-## <a name="partner-support-plans"></a>İş ortağı destek planları
+## <a name="partner-support-plans"></a>İş Ortağı Destek Planları
 
-Microsoft 'tan, teknik destek ve çeşitli ek hizmet seçenekleri içeren ücretli destek alabilirsiniz. 
+Microsoft'tan teknik destek ve çok çeşitli ek hizmet seçenekleri içeren ücretli destekten yararlanabilirsiniz. 
 
-İş [ortağı destek planlarını karşılaştırabilir](https://partner.microsoft.com/support/partnersupport) veya iş ortaklarına özgü planlar için aşağıdan daha fazla bilgi alabilirsiniz:
+İş [ortağına özgü planlar için iş](https://partner.microsoft.com/support/partnersupport) ortağı destek planlarını karşılaştırabilirsiniz veya aşağıya bakabilirsiniz:
 
-- [Iş ortakları için Premier destek](https://partner.microsoft.com/support/microsoft-services-premier-support) -Microsoft 'un en yüksek teknik destek düzeyi
-- [Iş ortakları Için gelişmiş destek](https://partner.microsoft.com/support/advanced-cloud-support) -yalnızca bulut ürünleri
+- [Premier Destek için destek](https://partner.microsoft.com/support/microsoft-services-premier-support) - Microsoft'un en üst düzey teknik desteği
+- [İş Ortakları için Gelişmiş Destek](https://partner.microsoft.com/support/advanced-cloud-support) - Yalnızca Bulut Ürünleri
 
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-- [Microsoft İş Ortağı Ağı avantajlarınızı ve tekliflerinizi yönetin](manage-your-partner-network-benefits.md)
-- [Iş ortağı üyelik Merkezi (PMC) üyeleri için teknik avantajları etkinleştirme](partner-membership-center-tech-benefits-activate.md)
+- [Avantajlarınızı Microsoft İş Ortağı Ağı tekliflerinizi yönetme](manage-your-partner-network-benefits.md)
+- [Partner Membership Center (PMC) üyeleri için teknik avantajları etkinleştirme](partner-membership-center-tech-benefits-activate.md)

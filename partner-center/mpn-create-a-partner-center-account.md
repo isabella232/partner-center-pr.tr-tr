@@ -9,12 +9,12 @@ author: ParthP
 ms.author: ParthP
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2b4c96f2099d50d05360320070d7c0d96f4590f6
-ms.sourcegitcommit: 8bd2e2f2f0f6bcd0fa202787df5b3c1f786f88f9
+ms.openlocfilehash: 432a71c3fa7384996e557f56070921557aaca229
+ms.sourcegitcommit: 2ad9e61fa5b9941f927ebf44c459b6c1bd055b9d
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/29/2021
-ms.locfileid: "108213406"
+ms.lasthandoff: 05/08/2021
+ms.locfileid: "109630177"
 ---
 # <a name="create-an-mpn-account-in-partner-center-to-manage-network-benefits-and-competencies"></a>Ağ avantajlarını ve Uzmanlıklar yönetmek için Iş Ortağı Merkezi 'nde bir MPN hesabı oluşturun
 
@@ -39,66 +39,65 @@ Iş Ortağı Merkezi 'nde bir hesap oluşturmaya hazır olduğunuzda, aşağıda
 - Doğrulama işlemi hakkında bilgi için bkz. [Hesap doğrulama](verification-responses.md).
 
 >[!NOTE]
->Microsoft İş Ortağı Ağı üyeliğiniz hala Iş ortağı üyelik merkeziyse (PMC), hesabınızı hemen Iş Ortağı Merkezi 'ne geçirmeniz gerekir. [Geçiş için adım adım Kılavuzu](https://assetsprod.microsoft.com/mpn/migrate-pmc-pc-mpa-guide.pptx)indirin.
+>Microsoft İş Ortağı Ağı üyeliğiniz hala Iş ortağı üyelik merkeziyse (PMC), hesabınızı hemen Iş Ortağı Merkezi 'ne geçirmeniz gerekir. geçirmek [için adım adım kılavuzu indirin.](https://assetsprod.microsoft.com/mpn/migrate-pmc-pc-mpa-guide.pptx)
 
 ## <a name="get-started"></a>başlarken
 
-1. [**Başlarken**](https://partner.microsoft.com/dashboard/account/v3/enrollment/introduction/partnership) sayfasında şirketiniz tarafından size verilen iş e-postalarınızı (örneğin,) başlatın you@yourcompanyname.com .
+1. Kullanmaya başlayın [**sayfasında,**](https://partner.microsoft.com/dashboard/account/v3/enrollment/introduction/partnership) örneğin, şirket tarafından size verilen iş e-postanız ile çalışmaya you@yourcompanyname.com başlayabilirsiniz.
 
- 
-    a.  Bu e-postaya devam etmek için bir doğrulama kodu gönderebilmemiz için e-posta adresinin geçerli ve erişilebilir olması gerekir.
+    a.  Devam etmek için bu e-postaya bir doğrulama kodu gönder üzerinden e-posta adresinin geçerli ve erişilebilir olması gerekir.
 
-    b.  E-posta adresi "bilgi", "Yönetici" gibi sözcükleri içermemelidir email@ . Veya " marketing@.. ."; Bu adres biçimleri desteklenmez.
+    b.  E-posta adresi "info", "admin," " ." gibi sözcükler email@ içermez. Veya " marketing@.. ."; bu adres biçimleri desteklenmiyor.
 
-    c.  HARITALAR satın almak veya Uzmanlıklar yönetmek için, [etki alanınızı doğrulayarak](become-global-admin.md) ve yönetici haline getirerek bu hesabı yükseltmeniz gerekir. 
+    c.  MAPS satın almak veya yetkinlikleri yönetmek için etki alanınızı doğrular ve yönetici olursanız [bu](become-global-admin.md) hesabı yükseltmeniz gerekir. 
 
-2. Office 365 iş hesabınızla oturum açabilirsiniz, örneğin, you@contoso.onmicrosoft.com .
+2. Örneğin, Office 365 iş hesabınızla oturum you@contoso.onmicrosoft.com açın.
 
    >[!NOTE]
-   > MPN 'ye kaydolmak için mevcut CSP hesabı kimlik bilgilerinizi kullanamazsınız.
+   > MPN'ye kaydolmak için mevcut CSP hesabı kimlik bilgilerinizi kullanasınız.
 
-3. Şirketinizin yasal iş ayrıntılarını sağlayın.
+3. Şirketin yasal iş ayrıntılarını sağlama.
 
-Şirket Profilinizi arayabilir veya şirket bilgilerini el ile girebilirsiniz. Şirketiniz [Dun & Bradstreet](https://partner.microsoft.com/marketing/usisvshowcase/dunandbrad)ile kayıtlıysa, şirketinizin bilgilerini aramak için DLııD kimliğini kullanın. Şirket ayrıntılarınızı kendiniz sağlamak istiyorsanız, **el ile**' yi seçin.
+Şirket profilinizi arama veya şirket bilgilerini el ile girebilirsiniz. Şirketiniz Dun & [Bradstreet'e](https://partner.microsoft.com/marketing/usisvshowcase/dunandbrad)kayıtlı ise, şirket bilgilerinizi aray için DUNS Kimliğini kullanın. Şirket ayrıntılarınızı kendiniz sağlamak için El ile'yi **seçin.**
 
-Şirketiniz **Ermenistan**, **Macaristan**, **Kırgızistan**, **Moldova**, **Özbekistan** veya **Rusya**'da bulunuyorsa ve adresinizi el ile girerseniz adresinizi sizin için doğrulayacağız. Girdiğiniz bir tane doğrulandıktan farklıysa, doğrulanan adresi kullanmanızı öneririz. Bu, adresin öğelerinin, ülkenin posta yetkilisi tarafından tanımlanan, doğru şekilde biçimlendirilen ve sevkedilebilir şekilde standartlaştırılmış olmasını sağlar.  
+Şirketiniz **Çin,** Kırgızlar **,** **Kırgızlar**, **Arjantin,** **Özbekistan** veya Rusya'da bulunuyorsa ve adresinizi el ile girersiniz, adresinizi sizin için doğrularız.  Girersiniz doğrulanmış olandan farklı ise, doğrulanmış adresi kullanmanızı öneririz. Bu, adresin öğelerinin, ülkenin posta yetkilisi tarafından tanımlanan, doğru biçimlendirilmiş ve gönderilebilir şekilde standart hale getirildiklerinden emin olur.  
 
-Şirket bilgilerini girdikten sonra, birincil iletişim bilgilerini girin. Birincil iletişim, şirketinizde sizinle iletişim kurabildiğimiz kişi olmalıdır (Bu kişi sizin veya şirketinizdeki başka bir kişi olabilir).
+Şirket bilgilerini sağladıktan sonra birincil iletişim bilgilerini girin. Birincil kişi, şirketinize uygulamanız hakkında iletişim kuracak kişi (bu kişi siz veya şirketinizin başka bir kişisi olabilir) olabilir.
 
-## <a name="registration-id-numbers-by-country"></a>Ülkeye göre kayıt KIMLIĞI numaraları
+## <a name="registration-id-numbers-by-country"></a>Ülkeye göre kayıt kimliği numaraları
 
-Dolaylı bir Sağlayıcıysanız, doğrudan faturanız veya dolaylı satıcısıysanız ve aşağıdaki ülkelerde yeni veya mevcut müşterilerle iş yapıyorsanız, işletmeniz için kayıt KIMLIĞI numaraları sağlamanız gerekir. İş yapmakta olduğunuz ülke aşağıda listelenmiyorsa kayıt KIMLIĞI isteğe bağlıdır.
+Dolaylı sağlayıcı, Doğrudan fatura iş ortağı veya Dolaylı kurumsal bayiysiniz ve aşağıdaki ülkelerde yeni veya mevcut müşterilerle iş yapıyorsanız işletmeniz için kayıt kimliği numaralarını sağlayabilirsiniz. İş yapmakta olduğunuz ülke aşağıda listelenmiyorsa kayıt KIMLIĞI isteğe bağlıdır.
 
 Aşağıdaki tabloda her ülke için toplanan kayıt numaralarının örnekleri verilmiştir. Birden çok kimliği listelenen durumlarda yalnızca bir tane gereklidir.
 
 | **Ülke veya bölge** | **Ayrıntılar** | 
-|:--|:--|:--|:--|:--|:--|
-| **Ermenistan** | INN – vergi kimlik numarası<br>KDV numarası: KDV kayıt numarası olarak da bilinir. Bu, KDV için kaydedilen bir vergilendirilebilir kişi (iş) veya vergilendirilebilir olmayan yasal tüzel kişiliyi tanımlayan benzersiz bir sayıdır.<br>Ortak hizmet numarası |  |  | |  |
-| **Azerbaycan**  | [Tın](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Azerbaijan-TIN.pdf) – vergi kimlik numarası<br>INN – vergi kimlik numarası |  |  |  |  |
-| **Belarus**  | UNP: bölge tanımlayıcısı, bölge başına seri ve denetim hanesi içeren dokuz basamaklı bir sayıdır (kuruluşlar için sayısal, bireyler için alfasayısal). |  |  |  |  |
-|**Brezilya** | [CNPJ](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Brazil-TIN.pdf) – (Cadastro Nacional da peşinatlı Jurídica veya yasal varlıkların Ulusal kayıt defteri). Bu, Brezilya 'da ABD 'de federal gelir Bakanlığı tarafından verilen bir kimlik numarasıdır  |  |  |  |  |
-| **Çin** | [Tın](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/China-TIN.pdf) – vergi kimlik numarası |  |  |  |  |
-| **Macaristan**  | [Tın](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Hungary-TIN.pdf) – vergi kimlik numarası |  |  |  |  |
-| **Hindistan** | Vergi KIMLIĞI<br>[Kaydırma](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/India-TIN.pdf) – (Nation Ile ilgili VARLıK) Pan Hindistan katılımı, Hindistan 'daki çeşitli konumlarda çalışan bir kuruluş olduğu anlamına gelir. |  |  |  |  |
-| **Irak** | [Tın](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/) – vergi kimlik numarası |  |  |  |  |
-| **Kazakistan**  | BÖLME – banka kimlik numarası<br>IıN – verenin kimlik numarası |  |  |  |  |
-| **Kırgızistan**  | INN – vergi kimlik numarası |  |  |  |  |
-| **Moldova**  | IDNO: yasal varlığa atanan benzersiz eyalet kimlik numarası (olarak da bilinir. Mali kod).<br>IDNP – Doğum kişisel kodu ("Numarul de ıdencertificate") |  |  |  |  |
-| **Myanmar** | [Tın](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/) – vergi kimlik numarası |  |  |  |  |
-| **Polonya**  | [Tın](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Poland-TIN.pdf) – vergi kimlik numarası<br>[Pesel](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Poland-TIN.pdf) : Polonya 'de kullanılan ulusal kimlik numarası (Lehçe Pımszechny Elektroniczny System Ewidencji Ludności, popülasyon kaydı Için evrensel elektronik sistem) |  |  |  |  |
-| **Rusya**  | [Inn](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Russia-TIN.pdf) – vergi kimlik numarası (Rusça "Kişiselleştirily Nomer Nalogoplatelshika") |  |  |  |  |
-| **Suudi Arabistan** | [Tın](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Saudi-Arabia-TIN.pdf) – vergi kimlik numarası |  |  |  |  |
-| **Güney Afrika** | TRN – trafik kayıt numarası |  |  |  |  |
-| **Güney Sudan** | [Tın](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/) – vergi kimlik numarası |  |  |  |  |
-| **Tacikistan**  | INN – vergi kimlik numarası<br>EIN – Işveren kimlik numarası<br>KPP – bu, kuruluş kaydının nedenini yansıtan bir koddur. |  |  |  |  |
-| **Tayland** | [Tın](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/) – vergi kimlik numarası |  |  |  |  |
-| **Türkiye** | [Tın](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Turkey-TIN.pdf) – vergi kimlik numarası<br>NATANMıŞTıR |  |  |  |  |
-| **Ukrayna**  | EGRPOU<br>EDRPOU – Yerel KIMLIK |  |  |  |  |
-| **Birleşik Arap Emirlikleri** | Vergi KIMLIĞI<br>KDV [numarası](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/UAE-TIN.pdf) -KDV kayıt numarası olarak da bilinir. Bu, KDV için kaydedilen bir vergilendirilebilir kişi (iş) veya vergilendirilebilir olmayan yasal tüzel kişiliyi tanımlayan benzersiz bir sayıdır. |  |  |  |  |
-| **Birleşik Devletler** | [EIN](https://irs.ein-forms-gov.com/?keyword=employer%20identification%20number&source=Google&network=o&device=c&devicemodel=&mobile=&adposition%5d&targetid=kwd-81501461534755:loc-190&msclkid=458d3159f6051392f5286e8e75ed79ce) – işveren kimlik numarası |  |  |  |  |
-| **Özbekistan**  | INN – vergi kimlik numarası |  |  |  |  |
-| **Vietnam** | [Tın](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/) – vergi kimlik numarası |  |  |  |  |
-| **Venezuela** | RIF – bir vergi numarasıdır ("kayıt Identificación mali") |  |  |  |  |
+|:--|:--|
+| **Ermenistan** | INN – vergi kimlik numarası<br>KDV numarası: KDV kayıt numarası olarak da bilinir. Bu, KDV için kaydedilen bir vergilendirilebilir kişi (iş) veya vergilendirilebilir olmayan yasal tüzel kişiliyi tanımlayan benzersiz bir sayıdır.<br>Ortak hizmet numarası |
+| **Azerbaycan**  | [Tın](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Azerbaijan-TIN.pdf) – vergi kimlik numarası<br>INN – vergi kimlik numarası |
+| **Belarus**  | UNP: bölge tanımlayıcısı, bölge başına seri ve denetim hanesi içeren dokuz basamaklı bir sayıdır (kuruluşlar için sayısal, bireyler için alfasayısal). |
+|**Brezilya** | [CNPJ](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Brazil-TIN.pdf) – (Cadastro Nacional da peşinatlı Jurídica veya yasal varlıkların Ulusal kayıt defteri). Bu, Brezilya 'da ABD 'de federal gelir Bakanlığı tarafından verilen bir kimlik numarasıdır  |
+| **Çin** | [Tın](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/China-TIN.pdf) – vergi kimlik numarası |
+| **Macaristan**  | [Tın](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Hungary-TIN.pdf) – vergi kimlik numarası |
+| **Hindistan** | Vergi KIMLIĞI<br>[Kaydırma](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/India-TIN.pdf) – (Nation Ile ilgili VARLıK) Pan Hindistan katılımı, Hindistan 'daki çeşitli konumlarda çalışan bir kuruluş olduğu anlamına gelir. |
+| **Irak** | [Tın](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/) – vergi kimlik numarası |
+| **Kazakistan**  | BÖLME – banka kimlik numarası<br>IıN – verenin kimlik numarası |
+| **Kırgızistan**  | INN – vergi kimlik numarası |
+| **Moldova**  | IDNO– Tüzel kişilik için atanan benzersiz durum tanımlama numarası (olarak da bilinir. Mali kod).<br>IDNP – Doğum kişisel kodu ("Numarul de Identificare") |
+| **Myanmar** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/) – Vergi Kimlik Numarası | 
+| **Polonya**  | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Poland-TIN.pdf) – Vergi Kimlik Numarası<br>[PESEL](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Poland-TIN.pdf) – Zh içinde kullanılan ulusal kimlik numarası (Lehçe Powszechny Elektroniczny System Ewidencji Ludnornoci, Popülasyon Kaydı için Evrensel Elektronik Sistem) |
+| **Rusya**  | [INN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Russia-TIN.pdf) – Vergi kimlik numarası (Rusça "Individualiy Nomer Nalogoplatelshika") |
+| **Suudi Arabistan** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Saudi-Arabia-TIN.pdf) – Vergi Kimlik Numarası |
+| **Güney Afrika** | TRN – trafik kayıt numarası |
+| **Güney Sudan** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/) – Vergi Kimlik Numarası |
+| **Tacikistan**  | INN – Vergi Kimlik Numarası<br>EIN – İşveren Kimlik Numarası<br>KPP– Bu, kuruluş kaydının nedenini yansıtan bir koddur. |
+| **Tayland** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/) – Vergi Kimlik Numarası |
+| **Türkiye** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Turkey-TIN.pdf) – Vergi Kimlik Numarası<br>NIN |
+| **Ukrayna**  | EGRPOU<br>EDRPOU – Yerel Kimlik |
+| **Birleşik Arap Emirlikleri** | Vergi Numarası<br>[KDV numarası](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/UAE-TIN.pdf) - KDV Kayıt Numarası olarak da bilinir. Bu, KDV için kaydedilen bir vergilendirilebilir kişi (iş) veya vergilendirilebilir olmayan yasal tüzel kişiliyi tanımlayan benzersiz bir sayıdır. |
+| **Birleşik Devletler** | [EIN](https://irs.ein-forms-gov.com/?keyword=employer%20identification%20number&source=Google&network=o&device=c&devicemodel=&mobile=&adposition%5d&targetid=kwd-81501461534755:loc-190&msclkid=458d3159f6051392f5286e8e75ed79ce) – işveren kimlik numarası |
+| **Özbekistan**  | INN – vergi kimlik numarası |
+| **Vietnam** | [Tın](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/) – vergi kimlik numarası |
+| **Venezuela** | RIF – bir vergi numarasıdır ("kayıt Identificación mali") |
 
 4. **Şimdi kaydet**' i seçin.
 
