@@ -9,12 +9,12 @@ author: billLinzbach
 ms.author: billli
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 77d56a22e12b369b5df6fc50a8ee28b7db73192b
-ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
+ms.openlocfilehash: d40acba3e45cfa90cbf0c5ffb8cdb0d4f484421b
+ms.sourcegitcommit: 08a175c06ff4c6a2b12713f081adfa489e16e7a1
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106502893"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "109686237"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>Bulut Çözümü Sağlayıcısı program kılavuzu, sözleşmeler, fiyat listeleri ve teklifler
 
@@ -22,6 +22,10 @@ ms.locfileid: "106502893"
 
 - Microsoft Cloud for US Government için İş Ortağı Merkezi
 
+**Uygun roller**
+
+- Genel yönetici
+- Yönetim Aracısı
 
 Microsoft 'un bulut çözümü sağlayıcısı (CSP) programına katılma gereksinimlerini anlamak için bu makaledeki bilgileri gözden geçirin.
 
@@ -71,13 +75,13 @@ Azure Marketi teklifleri hakkında fiyatlandırma bilgileri için Iş ortağı m
 
 ## <a name="offers"></a>Teklifler
 
-CSP 'de bir iş ortağı olarak, Office 365, Enterprise Mobility Suite, Microsoft Dynamics ve Microsoft Azure dahil olmak üzere çok çeşitli Microsoft ürünleri, hizmetleri ve çözümleri satın alabilirsiniz. Bu ürün aileleri dahilinde Satım için hangi tekliflerin kullanılabildiği hakkında daha fazla bilgi için, **Iş Ortağı Merkezi** menünüzden erişilebilen **fiyatlandırma ve teklifler** sayfasındaki CSP teklifi matrisine bakın. Bu belge aylık olarak güncelleştirilir.
+CSP 'de bir iş ortağı olarak, Office 365, Enterprise Mobility Suite, Microsoft Dynamics ve Microsoft Azure dahil olmak üzere çok çeşitli Microsoft ürünleri, hizmetleri ve çözümleri satın alabilirsiniz. Bu ürün aileleri içinde satış için hangi tekliflerin kullanılabilir olduğu hakkında daha  fazla bilgi için Fiyatlandırma ve teklifler sayfasındaki CsP teklif matrisi'ne bakın ve İş Ortağı Merkezi **edinebilirsiniz.** Bu belge aylık olarak güncelleştirilir.
 
-Crest kullanım kaydı API 'sini kullanan CSP iş ortakları için, Microsoft ayrıca **fiyatlandırma ve teklifler** sayfasında CSP 'de Azure hizmetlerinin bir listesini yayımlar.
+Crest Kullanım Kaydı API'sini kullanan CSP iş ortakları için Microsoft, Fiyatlandırma ve teklifler sayfasında CSP'de Azure Hizmetlerinin **bir listesini de** yayımlar.
 
-Bağımsız yazılım satıcıları (ISV 'Ler) tarafından yayınlanan Azure Marketi teklifleri hakkında bilgi edinmek için sol gezinti menüsündeki **Market** sayfasını ziyaret edin. Şu anda yalnızca SaaS (hizmet olarak yazılım) ürün türleri Iş Ortağı Merkezi 'nde satın alınabilir. Azure Market tekliflerinin diğer türlerini edinmek için Azure portal ziyaret etmeniz gerekir.
+Bağımsız Yazılım Satıcıları Azure Market (ISV) tarafından yayımlanan teklif teklifleri hakkında bilgi edinmek için sol **gezinti** menüsündeki Market sayfasını ziyaret edin. Şu anda, yalnızca SaaS (hizmet olarak yazılım) ürün türleri, İş Ortağı Merkezi. Diğer teklif türlerini almak için Azure portal ziyaret Azure Market gerekir.
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-- [Microsoft Iş ortağı sözleşmesi hakkında bilgi edinin](microsoft-partner-agreement.md)
+- [Aşağıdakiler hakkında bilgi Microsoft İş Ortağı Sözleşmesi](microsoft-partner-agreement.md)
 - [Bulut Çözümü Sağlayıcısı programına kaydolma](enrolling-in-the-csp-program.md)

@@ -9,16 +9,16 @@ ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 07/14/2020
-ms.openlocfilehash: 9b3beef70052ad204327dd53c4aa9f477056bbcb
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: c3b7db95bbbd039f8328ddd2785579bb533197cc
+ms.sourcegitcommit: 08a175c06ff4c6a2b12713f081adfa489e16e7a1
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441872"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "109686305"
 ---
 # <a name="managing-non-payment-fraud-or-misuse-in-partner-center"></a>Ödeme alınamaması, dolandırıcılık veya kötüye kullanım durumlarını İş Ortağı Merkezi’nde yönetme
 
-Aşağıdakiler cihazlar için geçerlidir:
+**Şunlara uygulanır**
 
 - Microsoft Cloud for US Government için İş Ortağı Merkezi
 
@@ -50,35 +50,35 @@ Bu Microsoft 'un kabul edilebilir kullanım ilkesi ihlalleri örnekleri şunlar 
 - Dağıtılmış hizmet reddi (DDoS) saldırıları
 - Bitpara madenciliği
 - Kötü amaçlı yazılım dağıtımı
-- Korsan aboneliklerin el satımı
+- Abonelikleri yeniden satın ala
 
-## <a name="theft-of-service-risks"></a>Hizmet riskleri hırsızlığı
+## <a name="theft-of-service-risks"></a>Hizmet hırsızlığı riskleri
 
-**Hizmet riskleri hırsızlığı** , tüketilen hizmetler için ödeme yapma amacı olmayan müşteriler anlamına gelir. Bu hırsızlık, çalınmış ödeme araçları 'nı kullanarak, yanlış faturalandırma bilgileri sağlar ve/veya bekleyen bakiyelerde varsayılan değerleri içerir.
+**Hizmet risklerinin çalınma,** tüketilen hizmetler için ödemeye yönelik bir amacının olmadığını ifade eder. Bu hırsızlık, çalınan ödeme araçları kullanmayı, yanlış faturalama bilgileri sağlamayı ve/veya ödenmemiş bakiyeleri varsayılan olarak kullanmayı da içeriyor olabilir.
 
 ### <a name="examples-of-service-theft"></a>Hizmet hırsızlığı örnekleri
 
-Bu çevrimiçi işlem risklerine örnek olarak şunlar verilebilir:
+Bu çevrimiçi işlem risklerinin örnekleri şunlar olabilir:
 
-- Kişide olmayan işlemler ("kredi kartı yok" işlemleri)
-- Yanlış temsil edilen kimlikler
+- Kişi tarafından meydana gelen işlemler ("kredi kartı yok" işlemleri)
+- Yanlış tanıtmış kimlikler
 - İlk ödeme alınmadan önce sağlanan ve kullanılan hizmetler
-- Çevrimiçi sahtekarlık için gelişen pazarlar ve/veya yüksek riskli bölgeler
-- Hesap oluşturmayı otomatikleştirin ve hatalı aktör yaparak satın alabilirsiniz
+- Çevrimiçi sahtekarlık için gelişmekte olan pazarlar ve/veya yüksek riskli bölgeler
+- Hatalı aktörler tarafından hesap oluşturma ve satın alma işlemini otomatikleştirme
 
 ## <a name="managing-online-risk"></a>Çevrimiçi riski yönetme
 
-Müşteri ilişkilerinizin yaşam döngülerinde çevrimiçi işlem risklerinin pozlamasını azaltmak üzere ilke ve uygulamalar geliştirmenize yardımcı olması için aşağıdaki önerileri kullanabilirsiniz.
+Müşteri ilişkilerinizin yaşam döngüsünde çevrimiçi işlem risklerine maruz kalma risklerinizi azaltmaya yönelik ilkeler ve uygulamalar geliştirmenize yardımcı olmak için aşağıdaki önerileri kullanabilirsiniz.
 
-### <a name="onboarding-new-customers"></a>Yeni müşterileri ekleme
+### <a name="onboarding-new-customers"></a>Yeni müşteriler ekleme
 
-Yeni müşterileri ekleme sırasında çevrimiçi riskleri azaltmaya yönelik öneriler şunlardır:
+Yeni müşteriler eklemeye yönelik çevrimiçi riskleri azaltmaya yönelik öneriler şunlardır:
 
-- Mümkün olduğunda müşterilerle kişisel ilişkiler oluşturun (örneğin, müşterilere telefonla iletişim kurun).
-- Daha iyi Yöntemler (kredi ofisleri veya iş ticari rapor kuruluşlarını kullanma gibi) sayesinde müşterilerin kimlik bilgilerini ve arka planını doğrulayın.
-- Robot hesap oluşturma ve satın alma işlemlerini en aza indirmek için kaydolma sırasında Multi-Factor Authentication (SMS doğrulaması gibi) kullanın.
-- Hizmetleri (dijital kimlik hizmetleri gibi) kullanarak kimlikleri yönetin ve izleyin.
-- Yoğun kredi kartı sahtekarlık algılama sistemleriyle müşterinin mali gücünü değerlendirin.
+- Mümkün olduğunda müşterilerle kişisel ilişkiler kurma (örneğin, müşterilerle telefonla iletişim kurma).
+- Daha iyi yöntemlerle (kredi bürosu veya iş ticari rapor kurumları kullanma gibi) müşterilerin kimlik bilgilerini ve arka planını doğrulayın.
+- Robotik hesap oluşturma ve satın alma riskini en aza indirmek için kaydolma sırasında çok faktörlü kimlik doğrulamasını (SMS doğrulaması gibi) kullanın.
+- Hizmetleri (dijital kimlik hizmetleri gibi) kullanarak kimlikleri yönetme ve izleme.
+- Sıkı kredi kartı sahtekarlığı algılama sistemleri aracılığıyla müşterinin finansal gücünü değerlendirin.
 - Açık koleksiyonlar ilkesi oluşturun. Koleksiyonlar işleminizi ayrıntılandırın ve aboneliklerde erişim ne zaman ödemesiz olarak etkilenecektir. (Ödeme dışı [bir müşterinin aboneliğini](create-a-new-subscription.md#suspend-a-subscription) devre dışı bırakabilir veya askıya alabilirsiniz.)
 
 ### <a name="managing-customer-accounts"></a>Müşteri hesaplarını yönetme

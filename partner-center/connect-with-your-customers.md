@@ -9,17 +9,17 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.date: 10/12/2020
-ms.openlocfilehash: 5ad30c83381e03cf26304092a7e291495cf4342c
-ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
+ms.openlocfilehash: adea177bd190fa3fd22b9ba60b5643b9d466ee4d
+ms.sourcegitcommit: 08a175c06ff4c6a2b12713f081adfa489e16e7a1
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97492662"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "109686203"
 ---
 # <a name="connect-with-customers"></a>Müşterilerle bağlantı kurma
 
 
- **Uygun roller**
+**Uygun roller**
 
 - Genel yönetici
 - Yönetim Aracısı
@@ -49,25 +49,25 @@ Dolaylı bir sağlayıcıya bağlandığınızda, dolaylı sağlayıcının mü�
 
 ## <a name="connect-with-new-customers"></a>Yeni müşterilerle bağlanma
 
-Yeni müşterileri çektireceksiniz, Iş Ortağı Merkezi ' nde bunlarla bağlanmanız gerekir. Aşağıdakiler dahil olmak üzere birden çok kanaldan yeni müşteriler alabilirsiniz:
+Yeni müşterileri cezp etmek için yeni müşterilerle bağlantı kurarak İş Ortağı Merkezi. Aşağıdakiler dahil olmak üzere birden çok kanal aracılığıyla yeni müşteriler elde edersiniz:
 
 - Kendi pazarlama etkinlikleriniz
-- Microsoft başvuruları
+- Microsoft referansları
 - Dolaylı sağlayıcılar
 
-Müşterinin aboneliklerini ve hizmetlerini kendi adına göre yönetmek için, bunlarla bir satıcı ilişkisi olması gerekir. Dolaylı sağlayıcının müşterinin adına sipariş göndermesine izin vermek için, dolaylı sağlayıcının kendileriyle aynı zamanda bir satıcı ilişkisi olması gerekir.
+Müşterinin aboneliklerini ve hizmetlerini kendi adına yönetmek için onlarla bir kurumsal bayi ilişkisine sahip olmak gerekir. Dolaylı sağlayıcınızın müşteriniz adına sipariş göndermesine izin vermek için dolaylı sağlayıcının da onlarla bir kurumsal bayi ilişkisi olması gerekir.
 
-Yeni bir müşterinin aboneliklerini ve hizmetlerini yönetme **ve** dolaylı sağlayıcınızın kendi adına yeni siparişler göndermesine izin veren yönetici izinleri almak için, müşteriyi hem sizinle hem de sağlayıcınızda aynı anda bir satıcı ilişkisi kurmaya davet edebilirsiniz.
+Yeni bir müşterinin aboneliklerini ve hizmetlerini yönetmek  ve dolaylı sağlayıcınızın kendi adına yeni siparişler göndermesine izin vermek için, müşteriyi hem siz hem de sağlayıcınızla aynı anda kurumsal bayi ilişkisi kurması için davet edin.
 
-## <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you-and-your-indirect-provider-at-the-same-time"></a>Aynı anda sizinle ve dolaylı sağlayıcıınızda bir satıcı ilişkisi kurmaya yönelik bir müşteri davet edin
+## <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you-and-your-indirect-provider-at-the-same-time"></a>Bir müşteriyi, sizin ve dolaylı sağlayıcınızla aynı anda kurumsal bayi ilişkisi kurması için davet edin
 
-1. **Iş Ortağı Merkezi menünüzden** **dolaylı sağlayıcılar** ' ı seçin.
+1. **Menüyüzden** Dolaylı **sağlayıcılar'İş Ortağı Merkezi seçin.**
 
-2. Aynı anda hem sizin hem de dolaylı sağlayıcı ile satıcı ilişkisi kurmak üzere bir müşteriyi davet etmek için **yeni müşterileri davet et** ' i seçin. Müşterinin, müşteri adına yeni abonelikler satın almak veya mevcut aboneliklere yeni lisanslar eklemek istediğinde müşterinin adına sipariş gönderebilmeleri için müşterinizle bir satıcı ilişkisi olması gerekir.
+2. Yeni **müşterileri davet et'i** seçerek bir müşteriyi hem siz hem de dolaylı sağlayıcıyla aynı anda kurumsal bayi ilişkisi kurması için davet edin. Müşteri yeni abonelikler satın almak veya mevcut aboneliklere yeni lisanslar eklemek isterse müşterinin adına sipariş gönderesin diye sağlayıcının müşteriyle kurumsal bayi ilişkisi olması gerekir.
 
-3. Sonraki sayfada taslak e-posta iletisini gözden geçirin. Taslak iletisini e-postada açabilir veya iletiyi panonuza kopyalayabilir ve bir e-postaya yapıştırabilirsiniz.
+3. Sonraki sayfada taslak e-posta iletisini gözden geçirin. Taslak iletiyi e-postayla açabilir veya panoya kopyalayıp bir e-postaya yapıştırabilirsiniz.
 
-   E-postadaki metni düzenleyebilirsiniz. Müşterinin doğrudan hem hesabınıza hem de sağlayıcınıza ait hesabınıza bağlanması için, bağlantıyı kişiselleştirilmiş olarak eklediğinizden emin olun. Bu adımı tamamladığınızda **bitti** ' yi seçin.
+   E-postada metni düzenleyebilirsiniz. Bağlantıyı, müşteriyi doğrudan hem hesabınıza hem de sağlayıcınızın hesabına bağlamaya yönelik kişiselleştirilmiş olduğundan emin olun. Bu **adımı** tamamlandıktan sonra Bitti'yi seçin.
 
 4. Müşteri sizi ve sağlayıcınızı kendi kayıt satıcıları olarak doğruladıktan sonra, kendi adına aboneliklerini, lisanslarını ve kullanıcılarını yönetmek için yönetici izinlerinizin olması gerekir. Dolaylı sağlayıcınız Ayrıca, kendi adına de sipariş gönderebilir.
 

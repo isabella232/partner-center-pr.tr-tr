@@ -9,16 +9,16 @@ author: billlinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7909b795be03bcd1b110da3f2c3b77019753730d
-ms.sourcegitcommit: d37a3f353426e52dfbbac577b7576f9c3f6d2ddf
+ms.openlocfilehash: e279ad8299def820287207c36c670c6051e26f2f
+ms.sourcegitcommit: 08a175c06ff4c6a2b12713f081adfa489e16e7a1
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 02/06/2021
-ms.locfileid: "99624264"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "109686254"
 ---
 # <a name="manage-marketplace-rewards-in-partner-center--activate-marketing-sales-and-technical-benefits"></a>Market, satış ve teknik avantajları etkinleştirmek & Iş Ortağı Merkezi 'nde Market Remarlarınızı yönetin
 
-Uygun roller:
+**Uygun roller**
 
 - MPN iş ortağı Yöneticisi
 - Genel yönetici
@@ -56,17 +56,17 @@ Market Reslikleri uygunluğu, PGA MPN şirketine bağlı tüm yayımcı profille
 
 Market yeniden kullanım bilgileri, Iş Ortağı Merkezi hesabınızı oluşturmak için kullanılan Azure AD kiracısı ve MPN KIMLIĞI aracılığıyla kullanılabilir. Bu hesap, şirketinizin ortak genel hesabı (PGA) olarak adlandırılır. Azure AD kiracınız MPN ekleme için kullanılan bunlardan farklıysa, ticari Refeş Market menüsünü görmeniz için bunu şirketinizin PGA ile ilişkilendirmeniz gerekir.
 
-### <a name="to-associate-an-azure-ad-tenant-with-the-pga-of-your-company"></a>Bir Azure AD kiracısını şirketinizin PGA ile ilişkilendirmek için
+### <a name="to-associate-an-azure-ad-tenant-with-the-pga-of-your-company"></a>Bir Azure AD kiracısı ile şirketinizin PGA'sı arasında ilişkilendirmek için
 
-1. Genel yönetici veya hesap yöneticisi olarak Iş Ortağı Merkezi 'nde PGA 'de oturum açın.
+1. Genel yönetici veya hesap yöneticisi olarak PGA'da oturum İş Ortağı Merkezi.
 
-2. **Ayarları** (sağ üst köşede), **Hesap ayarlarını**, **kiracılar**' ı seçin. 
+2. Ayarlar **(sağ** üstte), Hesap ayarları **, Kiracılar'ı** **seçin.** 
 
-3. **Başka bir Azure AD kiracısı ilişkilendir** ' i seçin ve PGA ile Ilişkilendirmek ISTEDIĞINIZ Azure AD kiracısını seçin.
+3. Başka **bir Azure AD kiracısı ilişkilendirme'yi** seçin ve PGA ile ilişkilendirmek istediğiniz Azure AD kiracıyı seçin.
 
-4. İlişkilendirmek istediğiniz Azure AD kiracısında herhangi bir kullanıcının Kullanıcı adını ve parolasını ekleyin ve **Gönder**' i seçin.
+4. Ilişkilendirmek istediğiniz Azure AD kiracısına herhangi bir kullanıcının kullanıcı adını ve parolasını ekleyin ve Gönder'i **seçin.**
 
-5. Iş Ortağı Merkezi oturumunuzu kapatın ve ardından PGA ile ilişkilendirdiğiniz kiracı için Kullanıcı adını ve parolayı kullanarak oturum açın.
+5. Oturum İş Ortağı Merkezi ve ardından PGA ile ilişkilendirilmiş kiracının kullanıcı adını ve parolasını kullanarak oturum açma.
 
-6. Artık, sol gezinti menüsünde ticari ödüller marketi program bilgilerini görebileceksiniz.
+6. Artık sol gezinti menüsünde Commercial Rewards Market programı bilgilerini görebilirsiniz.
 

@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7d80651c4e5e4afb476dada388f23c118e0bdf25
-ms.sourcegitcommit: 35fe0fdc41886f6f5af71ec74e4a4ebd245dfe1d
+ms.openlocfilehash: f34adc57e668caecb69af37afc72b5153f667335
+ms.sourcegitcommit: 08a175c06ff4c6a2b12713f081adfa489e16e7a1
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "104768712"
+ms.lasthandoff: 05/10/2021
+ms.locfileid: "109686271"
 ---
 # <a name="troubleshoot-account-setup-or-mpn-renewal-issues"></a>Hesap kurulumu veya MPN yenileme sorunlarını giderme
 
@@ -22,7 +22,7 @@ ms.locfileid: "104768712"
 **Uygun roller**
 
 - Genel yönetici
-- MPN iş ortağı Yöneticisi 
+- MPN iş ortağı Yöneticisi
  
 Iş Ortağı Merkezi hesabınızı ayarlarken ortaya çıkan yaygın sorunları gidermeye yönelik bazı öneriler aşağıda verilmiştir.
 
