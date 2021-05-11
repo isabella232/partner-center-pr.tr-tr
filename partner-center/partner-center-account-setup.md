@@ -9,12 +9,12 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 08499c306079d0cb900d528247309afdf21b23bb
-ms.sourcegitcommit: 89be77c9f35c77463d9558826293202afc6dec56
+ms.openlocfilehash: b59d18a62ce6a775e97f88708467d07e9c351a66
+ms.sourcegitcommit: e462f562e7f26b7d6870c22638a2a841499109d6
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/13/2021
-ms.locfileid: "107315907"
+ms.lasthandoff: 05/11/2021
+ms.locfileid: "109740395"
 ---
 # <a name="manage-your-partner-center-account---company-profile-bank-information-roles-permissions-and-more"></a>Iş Ortağı Merkezi hesabınızı, şirket profilinizi, banka bilgilerini, rolleri, izinleri ve daha fazlasını yönetin
 
@@ -44,33 +44,33 @@ Bu, hesap ayarları sayfasını görüntüler.
 
 İş ortağı veya geliştirici olsun, oturum açma desteği biletleri gibi MPN KIMLIĞINIZI kullanın. MPN KIMLIĞINIZ **yasal bilgiler** sayfasında bulunur. **Kimlik profilini** de bulabilirsiniz.
 
-## <a name="account-settings---partners-resellers"></a>Hesap ayarları-iş ortakları, satıcılar
+## <a name="account-settings---partners-resellers"></a>Hesap ayarları - iş ortakları, kurumsal bayiler
 
-**Ayarlar** simgesini seçtiğinizde ve **Hesap ayarları** menüsünü açtığınızda, şirketiniz bulut çözümü sağlayıcısı programının parçasıysa, varsayılan görünüm, Iki sekme, **Iş ortağı** ve **Bayi** görüntüleyen **yasal bilgiler** olur. Her sekme, işletmenizin yönlerini içerir.
+Ayarlar simgesini **seçerek** Hesap  ayarları menüsünü açıp varsayılan görünüm olan şirket Bulut Çözümü Sağlayıcısı programı kapsamında ise  İş Ortağı ve  Kurumsal Bayi olmak Bulut Çözümü Sağlayıcısı **bilgidir.** Her sekme, işletmenizin yönlerini içerir.
 
-:::image type="content" source="images/accountsettings/reseller.png" alt-text="Menü, Iş ortakları ve satıcılar için sekmeleri gösterir":::
+:::image type="content" source="images/accountsettings/reseller.png" alt-text="İş Ortakları ve Kurumsal Bayiler için sekmeleri gösteren menü":::
 
-İş ortağı sekmesi, şirketinizin kayıtlı yasal adı ve adresi, birincil iletişim ve iş konumları gibi tüm yasal iş bilgilerini içerir. CSP iş ortağı olan iş ortakları için satıcı sekmesi, **müşteri destek profilini** içerir.
+İş Ortağı sekmesi, şirketinizin kayıtlı yasal adı ve adresi, birincil ilgili kişi ve iş konumları gibi tüm yasal iş bilgilerini içerir. CSP işi yapan iş ortakları için Kurumsal Bayi sekmesi Müşteri **destek profilini içerir.**
 
-Şirketiniz CSP 'ye katılmazsa, varsayılan görünüm yalnızca **Iş ortağı** sekmesini gösterir ve bu, **müşteri destek profilini** de içerir.
+Şirketiniz CSP'ye katılmazsa, varsayılan görünüm yalnızca  Müşteri destek profilini içerecek olan İş **Ortağı sekmesini gösterir.**
 
-### <a name="when-you-are-in-more-than-one-account"></a>Birden fazla hesapta olduğunuzda
+### <a name="when-you-are-in-more-than-one-account"></a>Birden fazla hesaptayken
 
-Birden fazla hesabın parçası olabilirsiniz. Sol gezinti menüsünde "hesap seçici" olup olmadığını birden çok hesabın parçası olup olmadığınızı kontrol edebilirsiniz.
+Birden fazla hesabın parçası olabilirsiniz. Sol gezinti menüsündeki "hesap seçici" varlığıyla birden çok hesabın parçası olup olamayabilirsiniz.
 
-:::image type="content" source="images/accountsettings/picker-one.png" alt-text="Hesap seçiciyi tanımla":::
+:::image type="content" source="images/accountsettings/picker-one.png" alt-text="Hesap seçiciyi tanımlama":::
 
-Hesap seçiciyi görmüyorsanız yalnızca bir hesabın parçası olursunuz. 
+Hesap seçiciyi görmüyorsanız yalnızca bir hesabın parçasısınızdır. 
 
-Bu seçiciyi seçtiğinizde, kapsamında olduğunuz tüm hesaplar liste olarak görüntülenir. Ardından, bunlardan herhangi birini seçebilir ve bu hesaba geçebilirsiniz. Bu hesabın bağlamında görünen her şey.  
+Bu seçiciyi seçerek, parçası olduğunuz tüm hesaplar liste olarak görünür. Ardından bu hesaplardan herhangi birini seçerek bu hesaba geçebilirsiniz. Bundan sonra gelen her şey bu hesap bağlamında görünür.  
 
-Aşağıdaki örnekte, oturum açan kullanıcı, vurgulanan üç hesabın bir parçasıdır. Kullanıcı bir hesaba tıklayarak aralarında geçiş yapabilir.
+Aşağıdaki örnekte, oturum açık olan kullanıcı vurgulanan üç hesabın bir parçasıdır. Kullanıcı bir hesaba tıklayarak aralarında geçiş olabilir.
 
-:::image type="content" source="images/accountsettings/picker-two.png" alt-text="Bir parçası olduğunuz hesaplar":::
+:::image type="content" source="images/accountsettings/picker-two.png" alt-text="Parçası olduğunuz hesaplar":::
 
 ## <a name="organization-profile"></a>Kuruluş profili
 
-Geçerli iş profili, iş ortağı profili ve kiracılar dahil olmak üzere işletmenizin derinlemesine olan bölümlerini yönetmek için bu sayfaları kullanın. Her alanı ayrı olarak yönetin. Bunlar aşağıda açıklanmıştır. 
+Yasal iş profili, iş ortağı profili ve kiracılar dahil olmak üzere işletmenizin ayrıntılı alanlarını yönetmek için bu sayfaları kullanın. Her alanı ayrı olarak yönetin. Bunlar aşağıda açıklanmıştır. 
 
 :::image type="content" source="images/accountsettings/account-settings-new.png" alt-text="Yasal bilgi menüsü.":::
 
@@ -92,27 +92,27 @@ Birincil iletişim e-postası, hesabınızın doğrulanması konusunda sizi bilg
 
 ### <a name="tenants-profile"></a>Kiracılar profili
 
-Bu sayfa, Azure AD kiracılarınız ile ticari ve geliştirici hakkında tüm bilgileri içerir. Bu profil, genel yöneticinin yeni kiracılar için ortak küresel hesap ile ilişkilendirilebileceği yerdir.
+Bu sayfa, hem ticari hem de geliştirici olarak Azure AD kiracıları hakkında tüm bilgileri içerir. Bu profil, genel yöneticinin yeni kiracıları iş ortağı genel hesabıyla bağladığı profildir.
 
 ### <a name="identifiers"></a>Tanımlayıcılar
 
-Bu sayfa, şirketinizin Iş Ortağı Merkezi kimliklerini içerir: MPN kimlikleri, yayımcı kimlikleri, Windows Publisher kimlikleri ve daha fazlası.  Her bir alan genişletilebilir ve düzenlenebilir, örneğin, yayımlama işinizle ilgili birincil kişi kolayca bulunur.
+Bu sayfa, İş Ortağı Merkezi kimlikleri içerir: MPN kimlikleri, yayımcı kimlikleri, Windows yayımcı kimlikleri ve daha fazlası.  Örneğin, yayımlama işletmenizin birincil ilgili kişisi kolayca yer almak için her alan genişletilebilir ve düzenlenebilir.
 
 ### <a name="company-profile"></a>Şirket profili
 
-Bu sayfa, Microsoft ile sahip olduğunuz ve bağımsız yazılım satıcısı veya CSP program ortağı gibi iş ortaklığı türünü tanımlar. Çalıştığınız müşterilerin sayısını, yıllık geliri ve şirketinizin geçerli boyutunu gösterir. Microsoft ile yapmak istediğiniz iş türünü (örneğin, uygulama oluşturma, Microsoft ve üçüncü taraf yazılımı yeniden satma veya bir sistem tümleştirici) bildirmek için **Şirket ayrıntıları** sayfasında şirket bilgileri ' ni genişletin. İsteğe bağlı olarak, şu anda iş yaptığınız yeri ve gelecekte işinizi genişletmek istediğiniz yerel ayarları tanımlayın.
+Bu sayfa, bağımsız yazılım satıcısı veya CSP programı iş ortağı gibi Microsoft ile sahip olduğunuz iş ortaklığı türünü tanımlar. Birlikte çalıştığınız müşteri sayısını, yıllık geliri ve geçerli şirket boyutunu gösterir. Microsoft'a uygulama  oluşturma, Microsoft'u ve üçüncü taraf yazılımları yeniden satış yapma veya sistem tümleştiricisi olmak gibi Microsoft ile yapmak istediğiniz iş türünü söylemek için Şirket ayrıntıları sayfasındaki şirket bilgilerini genişletin. İsteğe bağlı olarak, şu anda işlerinizi nerede yapmak istediğinizi ve gelecekte işlerinizi genişletmek istediğiniz yerel seçimleri tanımlayın.
 
 ### <a name="account-merge-profile"></a>Hesap birleştirme profili
 
-Iş Ortağı Merkezi 'nde etkin bir hesabı olan bir şirketi, hesaplarını sizinkilerle birleştirmek için davet ettiğinizde, bu bilgiler **Hesap birleştirme** sayfasında yönetilir. Sizinkilerle birleştirmek için davet etmek istediğiniz şirketin MPN KIMLIĞINI arayın, geçerli birleşmeleri görüntüleyin ve şirketlere davetiye gönderin. Şirket hesabınızı başka bir şirketin hesabıyla birleştirmek için bir davetiyeyi kabul edin veya reddedin. Ayrıntılar için bkz. [iş ortağı hesabınızı başka bir iş ortağı hesabıyla birleştirme](merge-accounts.md).
+Şirket içinde etkin bir hesabı olan bir İş Ortağı Merkezi hesabını kendi hesabınızla birleştirmeye davet ediyorsanız, bu bilgiler Hesap birleştirme **sayfasında** yönetilir. Davet etmek ve kendi şirketle birleştirmek için davet etmek için mpN kimliğini ara, geçerli birleşmeleri görüntüle ve şirketlere davet gönder. Şirket hesabını burada başka bir şirketin hesabına birleştirmek için bir daveti kabul etme veya reddetme. Ayrıntılar için [bkz. İş ortağınızı başka bir iş ortağı hesabıyla birleştirme.](merge-accounts.md)
 
 ## <a name="payout-and-tax"></a>Ödeme ve vergi
 
-Bu sayfa, **Fatura** bilgileri, **PO numarası**, şirketinizin vergi KIMLIĞI BILGILERI, varsa KDV kimlik numarası ve kullandığınız para birimi dahil olmak üzere ödeme ve vergi ayrıntılarınızı içerir.
+Bu sayfada Fatura bilgileri, **PO**  numarası, şirket için vergi numarası bilgileri, varsa KDV No numarası ve kullanılan para birimi dahil olmak üzere ödeme ve vergi ayrıntılarınız yer amektedir.
 
 ## <a name="user-management"></a>Kullanıcı yönetimi
 
-İş Ortağı Merkezi 'nde ve güncelleştirebileceğinize veya görebileceğiniz alanlara bağlı olarak, rolünüze ve bu role eklenmiş izinlere bağlıdır. Örneğin, teşvikleri yöneticisi değilseniz, teşvikleri sayfalarındaki herhangi bir şeyi değiştiremeyeceksiniz, ancak verileri görüntüleyemeyebilirsiniz. [Roller ve izinler](permissions-overview.md) hakkında daha fazla bilgi edinin
+Bu rolde üzerinde İş Ortağı Merkezi ve güncelleştirebilirsiniz veya görebilirsiniz alanları rolünüz ve bu role bağlı izinlere bağlıdır. Örneğin, teşvikleri yöneticisi değilseniz, teşvikleri sayfalarındaki herhangi bir şeyi değiştiremeyeceksiniz, ancak verileri görüntüleyemeyebilirsiniz. [Roller ve izinler](permissions-overview.md) hakkında daha fazla bilgi edinin
 
 ### <a name="update-preferred-email"></a>Tercih edilen e-postayı Güncelleştir
 
@@ -145,23 +145,23 @@ Hangi programları erişiminizin olduğunu görmek için:
 
 ### <a name="enrolling-in-programs"></a>Programlarda kaydetme
 
-Kullanılabilir birçok Iş Ortağı Merkezi programı vardır. Her programın, şirketinizin bu programa kaydolabilmesi için karşılaması gereken farklı gereksinimleri vardır.
+Kullanılabilir birçok Iş Ortağı Merkezi programı vardır. Her programın, şirketin bu programa kaydolmadan önce karşılaması gereken farklı gereksinimler vardır.
 
-Belirli Iş Ortağı Merkezi programlarında kaydolma hakkında bilgi edinmek için aşağıdaki kısmi listeye bakın:
+Belirli programlara kaydolma hakkında İş Ortağı Merkezi için aşağıdaki kısmi listeye bakın:
 
 - [Ticari Market programı](/azure/marketplace/partner-center-portal/create-account)
-- [Microsoft İş Ortağı Ağı üyelik avantajları](mpn-overview.md)
+- [Microsoft İş Ortağı Ağı avantajları](mpn-overview.md)
 - [CSP programı](./enrolling-in-the-csp-program.md)
 - [Office Mağazası](https://partner.microsoft.com/dashboard/account/v3/enrollment/introduction/office)
 
-Iş Ortağı Merkezi programlarında kaydolma hakkında daha fazla bilgi için bkz. [Iş ortağı ağ kaynakları](https://partner.microsoft.com/).
+İş ortağı programlarına kaydolma hakkında daha fazla İş Ortağı Merkezi için bkz. İş [ortağı ağ kaynakları.](https://partner.microsoft.com/)
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
 - [İş ortağı profilinizi güncelleştirme](update-your-partner-profile.md)
 - [Kullanıcı hesapları oluşturma ve izinleri ayarlama](create-user-accounts-and-set-permissions.md)
 - [Kullanıcı rollerini ve izinlerini atama](permissions-overview.md)
-- [MPN hesabınızı yönetin: konumlar](manage-locations.md)
+- [MPN hesabını yönetme: Konumlar](manage-locations.md)
 - [Kullanıcı parolasını sıfırlama](reset-a-user-password.md)
-- [API: iş ortağı yasal iş profilini alın](https://docs.microsoft.com/partner-center/develop/get-legal-business-profile.md)
-- [Partner Center ticari marketi 'nde teklifleri ve fiyatları bulma](csp-commercial-marketplace-discover.md)
+- [API: İş ortağı yasal iş profilini edinin](/partner-center/develop/get-legal-business-profile)
+- [Ticari markette teklifleri ve İş Ortağı Merkezi keşfedin](csp-commercial-marketplace-discover.md)

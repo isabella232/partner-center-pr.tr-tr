@@ -11,12 +11,12 @@ ms.custom:
 - references_regions
 ms.localizationpriority: high
 ms.date: 04/08/2021
-ms.openlocfilehash: b72d736fdeafc438fbfa848c0b2b1e51ab66b261
-ms.sourcegitcommit: 9b04509f3830462628c1bb6af2ca41ed68b52619
+ms.openlocfilehash: 0b8938004bb15f1fc58a15333e97297627fa9b24
+ms.sourcegitcommit: e462f562e7f26b7d6870c22638a2a841499109d6
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "107266478"
+ms.lasthandoff: 05/11/2021
+ms.locfileid: "109740344"
 ---
 # <a name="february-2021-announcements"></a>Şubat 2021 duyuruları
 
@@ -36,7 +36,7 @@ Iş Ortağı Merkezi API 'sini kullanarak bulut çözümü sağlayıcısı progr
 
 ### <a name="details"></a>Ayrıntılar
 
-Bu duyuru, [Aralık ayında yayınlanan](https://docs.microsoft.com/partner-center/announcements/2020-december#1)Iş ortağı merkezi geliştirmeleri için bir izdir. Bu yayının bir parçası olarak, yeni GET ve POST nitelikleri API 'Leri dağıtılır ve sonuç olarak, mevcut GET niteliği 4 Mayıs 2021 ' de kullanımdan kaldırılacaktır. Bu süre içinde, satın alma eğitimi tekliflerine yönelik yeni POST Iş Ortağı Merkezi API 'Lerini ve yeni GET nitelikleri API 'sini kullanarak, kar amacı gütmeyen ve GCC tekliflerini satın almanız gerekir.
+Bu duyuru, [Aralık ayında yayınlanan](2020-december.md#1)Iş ortağı merkezi geliştirmeleri için bir izdir. Bu yayının bir parçası olarak, yeni GET ve POST nitelikleri API 'Leri dağıtılır ve sonuç olarak, mevcut GET niteliği 4 Mayıs 2021 ' de kullanımdan kaldırılacaktır. Bu süre içinde, satın alma eğitimi tekliflerine yönelik yeni POST Iş Ortağı Merkezi API 'Lerini ve yeni GET nitelikleri API 'sini kullanarak, kar amacı gütmeyen ve GCC tekliflerini satın almanız gerekir.
 
 ### <a name="next-steps"></a>Sonraki adımlar
 
@@ -63,62 +63,62 @@ ________________
 ### <a name="categories"></a>Kategoriler
 
 - Tarih: 2021-02-25
-- Gelişmiş güvenlik ve uyumluluk
+- Gelişmiş Güvenlik ve Uyumluluk
 
-### <a name="impacted-audience"></a>Etkilenen hedef kitle
+### <a name="impacted-audience"></a>Etkilene hedef kitle
 
-İş ortakları ortak merkezi 'nde ortak satış
+İş ortaklarının ortak satışları İş Ortağı Merkezi
 
 ### <a name="summary"></a>Özet
 
-Ortak satış ortakları artık, yeni Iş Ortağı Merkezi CSV dosyası toplu işlemleri özelliğini kullanarak fırsatları uygun ölçekte dışa aktarabilir ve içeri aktarabilir.
+Ortak satış iş ortakları artık YENI CSV dosyası toplu işlemleri özelliğini kullanarak büyük İş Ortağı Merkezi dışarı ve içeri aktarma fırsatlarına sahip olabilir.
 
 ### <a name="details"></a>Ayrıntılar
 
-Ortak satış ortakları artık, yeni Iş Ortağı Merkezi CSV dosyası toplu işlemleri özelliğini kullanarak fırsatları uygun ölçekte dışa aktarabilir ve içeri aktarabilir. Bu, referans paylaşım deneyiminizi birleştirecektir ve iş ortağı satışları Connect 'ten geçiş yaparken iş sürekliliği sağlamaktır. Ayrıca, Iş Ortağı Merkezi API 'SI yatırımınızın bir alternatifi de vardır.
+Ortak satış iş ortakları artık YENI CSV dosyası toplu işlemleri özelliğini kullanarak büyük İş Ortağı Merkezi dışarı ve içeri aktarma fırsatlarına sahip olabilir. Bu, referans paylaşımı deneyiminizi birlendirir ve İş Ortağı Satış Bağlantısı'dan hareket eden iş sürekliliğini sağlar. Bu, api'lere yapılan yatırımlara da İş Ortağı Merkezi sahiptir.
 
 Tüm ayrıntılar için sonraki bölümde bahsedilen makaleye bakın. 
 
 ### <a name="next-steps"></a>Sonraki adımlar
 
-Toplu işlemler özelliği hakkında daha fazla bilgi edinmek [için, virgülle ayrılmış değer (CSV) dosyaları kullanarak ortak satış fırsatları Için toplu işlemler](../bulk-operations.md)okuyun.
+Virgülle ayrılmış değer (CSV) dosyalarını kullanarak ortak satış fırsatları için toplu işlemler'i okuyarak toplu işlemler özelliği hakkında [daha fazla bilgi edinebilirsiniz.](../bulk-operations.md)
 
 ### <a name="questions"></a>Sorularınız mı var?
 
-Başka sorularınız varsa [desteğe](https://partner.microsoft.com/support/?stage=1) başvurun.
+Başka [sorularınız](https://partner.microsoft.com/support/?stage=1) varsa De destekle iletişime geçin.
 
 ________________
-## <a name="migrate-your-deals-from-partner-sales-connect-psc-using-the-new-deal-migration-feature"></a><a name="12"></a>Yeni anlaşma geçiş özelliğini kullanarak Iş ortağı satış Connect (PSC) üzerinden anlaşmalar geçirin
+## <a name="migrate-your-deals-from-partner-sales-connect-psc-using-the-new-deal-migration-feature"></a><a name="12"></a>Yeni satış anlaşması geçiş özelliğini kullanarak anlaşmalarınızı İş Ortağı Satış Bağlantısı'dan (PSC) geçirme
 
 ### <a name="categories"></a>Kategoriler
 
 - Tarih: 2021-02-25
 - Özellikler
 
-### <a name="impacted-audience"></a>Etkilenen hedef kitle
+### <a name="impacted-audience"></a>Etkilene hedef kitle
 
-PSC 'de anlaşmalar olan iş ortakları
+PSC'de anlaşmaları olan iş ortakları
 
 ### <a name="summary"></a>Özet
 
-Iş ortağı satış Connect (PSC) ile iş ortakları, iş ortağı merkezi 'nin içindeki yeni ortak satış deneyiminden yararlanarak, anlaşma geçiş özelliğini kullanarak ortak satış işlerini geçirebilir.
+İş Ortağı Satış Bağlantısı 'da (PSC) anlaşmaları olan iş ortakları, anlaşma geçişi özelliğini kullanarak ortak satış anlaşmalarını İş Ortağı Merkezi'daki yeni ortak satış deneyimiden faydalanabilirsiniz.
 
 ### <a name="details"></a>Ayrıntılar
 
-PSC 'de anlaşmalar olan iş ortakları artık Iş Ortağı Merkezi 'nin içindeki yeni ortak satış deneyiminden faydalanmak ve BT geçiş özelliğini kullanarak ortak satış işlerini Iş Ortağı Merkezi 'ne geçirerek iki platformda çalışmayı ortadan kaldırmak için daha hızlı hareket edebilir.
+PSC'de anlaşmaları olan iş ortakları artık İş Ortağı Merkezi içindeki yeni ortak satış deneyimiden yararlanmak için daha hızlı hareket ediyor ve ortak satış anlaşmalarını anlaşma geçişi özelliğini kullanarak İş Ortağı Merkezi platformlar arasında çalışmayı ortadan kaldırabiliyor.
 
 Tüm ayrıntılar için sonraki bölümde bahsedilen makaleye bakın.
 
 ### <a name="next-steps"></a>Sonraki adımlar
 
-İş [ortağı satış bağlantısı 'ndan (PSC) geçiş yapan iş ortakları Için Iş Ortağı Merkezi 'nde (PC) ortak satış yapma kılavuzundaki](../psc-to-pc.md) **PSC anlaşmalar geçiş** bölümünü inceleyerek anlaşma geçiş özelliği hakkında daha fazla bilgi edinin.
+İş Ortağı Satış Bağlantısı'dan **(PSC)** geçiş yapan iş ortakları için [İş Ortağı Merkezi'da (PC)](../psc-to-pc.md)ortak satış kılavuzu'nun PSC anlaşmaları geçiş bölümünü gözden geçirerek satış anlaşması geçişi özelliği hakkında daha fazla bilgi edinebilirsiniz.
 
 ### <a name="questions"></a>Sorularınız mı var?
 
-Başka sorularınız varsa [desteğe](https://partner.microsoft.com/support/?stage=1) başvurun.
+Başka [sorularınız](https://partner.microsoft.com/support/?stage=1) varsa De destekle iletişime geçin.
 
 ________________
-## <a name="increased-flexibility-with-partner-led-co-sell-deals"></a><a name="11"></a>İş ortağı LED ortak satış anlaşmaları ile daha fazla esneklik
+## <a name="increased-flexibility-with-partner-led-co-sell-deals"></a><a name="11"></a>İş ortağı tarafından ortak satış anlaşmaları ile daha fazla esneklik
 
 ### <a name="categories"></a>Kategoriler
 
@@ -169,9 +169,9 @@ CSP doğrudan fatura ortakları ve sonraki bölümde listelenen ülkelerde yeni 
 
 Microsoft, güvende çalışır. CSP programında deneyimidir müşteri abonelikleri için uyumlu, güvenli ve güvenli bir müşteri doğrulama yöntemi sağlamayı taahhüt ediyoruz. 25 Mart 2021 ' de, aşağıdaki ölçütlerin her ikisini de karşılayan iş ortaklarını etkileyecek Iş Ortağı Merkezi API 'SI ve Kullanıcı arabirimi (UI) geliştirmeleri sunacağız:
 
-1. İş ortağı Microsoft ile doğrudan faturalandırma ilişkisine sahiptir (Bu, ortağın doğrudan bir fatura ortağı veya dolaylı bir sağlayıcı olduğu anlamına gelir).
+1. İş ortağının Microsoft ile doğrudan faturalama ilişkisi vardır (bu da iş ortağının doğrudan fatura iş ortağı veya dolaylı sağlayıcı olduğu anlamına gelir).
 
-2. İş ortağı aşağıdaki ülkelerde yeni veya mevcut müşteriler ile iş yapar:
+2. İş ortağı, aşağıdaki ülkelerdeki yeni veya mevcut müşterilerle iş yapar:
 
     - Tayland
     - Vietnam
@@ -187,11 +187,11 @@ Microsoft, güvende çalışır. CSP programında deneyimidir müşteri abonelik
     - Birleşik Arap Emirlikleri
     - Venezuela
 
-Ölçütlere uyan iş ortaklarının bir müşterinin Şirket kayıt KIMLIĞINI (müşterinin kuruluş adı olarak da bilinir) ve telefon numarasını bir sonraki güncelleştirdiklerinde ve bu müşteri için bir abonelik oluştururken göndermesi gerekecektir. Ayrıca bu iş ortakları müşteri için isteğe bağlı bir ikinci ad da girebilir.
+Ölçütlere uyan iş ortaklarının, müşterinin şirket kayıt kimliğini (müşterinin kuruluş INN'si olarak da bilinir) ve bu müşteri için bir sonraki güncelleştirme veya abonelik oluşturma işlemi sırasında telefon numarasını göndermesi gerekir. Ayrıca bu iş ortakları müşteri için isteğe bağlı bir ikinci ad da girebilir.
 
-Şirket kayıt KIMLIĞINIZI eklediğinizde müşterinin kişisel KIMLIĞINI değil iş vergi KIMLIĞINIZI kullanmanız gerektiğini unutmayın.
+Şirket kayıt kimliğinizi eklerken, müşterinin kişisel kimliğini değil, iş verginizi kullanmanız gerektiğini unutmayın.
 
-Aşağıdaki ülkelerde yeni veya mevcut müşteriler ile iş yapan iş ortakları, Kasım 2020 ' de daha önceki bir sürüm ile zaten eklendi.
+Aşağıdaki ülkelerde yeni veya mevcut müşterilerle iş yapan iş ortakları, Kasım 2020'de önceki bir sürüme zaten ekli.
 
 - Ermenistan
 - Azerbaycan
@@ -205,32 +205,32 @@ Aşağıdaki ülkelerde yeni veya mevcut müşteriler ile iş yapan iş ortaklar
 - Ukrayna
 - Özbekistan
 
-Dünyanın geri kalanında müşterilere sahip iş ortakları, 2021 Mart 'ın sonunda, müşteriler için isteğe bağlı ayrıntılar olarak şirket kayıt KIMLIĞI, telefon numarası ve orta adı girme yeteneğine sahip olacaktır.
+Dünyanın geri kalanındaki müşterilerle iş ortakları, Mart 2021'in sonunda isteğe bağlı ayrıntılar olarak müşterilerin şirket kayıt kimliğini, telefon numarasını ve ara adını girme olanağına sahip olacak.
 
 ### <a name="next-steps"></a>Sonraki adımlar
 
-- Daha ayrıntılı rehberlik için, adanmış [iş ortağı koleksiyonundaki](https://partner.microsoft.com/resources/collection/additionalfields-csp-customers-selected-geos#/) teknik belgeleri ve sık sorulan soruları gözden geçirin.
-- Iş Ortağı Merkezi API 'sini ve Web kullanıcısı deneyimini kullanarak değişiklikleri dahil etmek için hazırlanın. API/SDK 'lar test için kullanılabilir olacak.
-- Yeni müşterileri eklerken veya mevcut müşteri ayrıntılarını değiştirirken ek verileri gönderdiğinizden emin olun.
-- Bir denetim masası satıcısı (CPV) çözümü kullanıyorsanız, CPV 'nize başvurun.
+- Daha ayrıntılı rehberlik için ayrılmış iş ortağı koleksiyonunda teknik belgeleri [ve sık](https://partner.microsoft.com/resources/collection/additionalfields-csp-customers-selected-geos#/) sorulan soruları gözden geçirme.
+- Api ve web kullanıcı deneyimini İş Ortağı Merkezi değişiklikleri dahil etmek için hazırlanma. API/SDK'lar test için kullanılabilir.
+- Yeni müşteri ekleme veya mevcut müşteri ayrıntılarını değiştirme ile ilgili ek verileri gönderdiğinizden emin olun.
+- Denetim masası satıcısı (CPV) çözümü kullanıyorsanız CPV'nize başvurun.
 
 ### <a name="questions"></a>Sorularınız mı var?
 
-Şirket kayıt KIMLIĞI (ıNN veya tın olarak da bilinir) ile ilgili sorularınız varsa vergi danışmanınıza veya yerel vergi ofisine başvurun. Microsoft, vergi konusunda önemli yönergeler sağlayamaz.
+Şirket kayıt kimliğiyle (INN veya TIN olarak da adlandırılan) ilgili sorularınız varsa vergi danışmanınıza veya yerel vergi ofisinize ulaşın. Microsoft, vergi konularıyla ilgili rehberlik sağamaz.
 
-Microsoft ile işlemlerinizi desteklemek için bir [hizmet isteği](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=aa679372-d996-73df-e244-cb28bbbf28e8)açın.
+Microsoft ile işlemleriniz için de destek gerekirse bir hizmet [isteği açın.](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=aa679372-d996-73df-e244-cb28bbbf28e8)
 
 ### <a name="change-log"></a>Değişiklik günlüğü:
 
-17 Aralık 2020: özgün yayın
+17 Aralık 2020: Özgün yayın
 
-28 Ocak 2021: republication hiçbir değişiklik yok
+28 Ocak 2021: Cumhuriyetin hiçbir değişikliği yok
 
-25 Şubat 2021: belirli bir başlatma tarihi duyuruldu
+25 Şubat 2021: Belirli Başlatma Tarihi duyurulmuştu
 
-2 Nisan 2021: güncelleştirmeler şunları içerir:
+2 Nisan 2021: Güncelleştirmeler aşağıdakileri içerir:
 
-- Belirtilen başlatma tarihi
+- Sağlanan Başlatma Tarihi
 - INN kuruluşu için başlık şirket kayıt KIMLIĞI olarak güncelleştirildi 
 - Şirket kayıt KIMLIĞI için açıklama sağlamak üzere eklendi
 
@@ -268,29 +268,29 @@ En iyi deneyim için aşağıdakileri yaptığınızdan emin olun:
 
 Ekleme, işlevsellik ve iş süreci sorularıyla ilgili kaynaklar, [Adobe Sign geçiş ortağı sayfasında](https://aka.ms/eSignature/External)bulunabilir.
 
-Adobe Sign, Microsoft 'un tercih ettiği elektronik Imza çözümüdür (ESS). Adobe Sign 'a geçiş, müşterilerimize ve iş ortaklarımıza daha fazla değer sunacak güvenli ve etkili bir elektronik imza deneyimi sağlar.
+Adobe Sign, Microsoft'un tercih ettiği Elektronik İmza Çözümüdür (ESS). Adobe Sign'a geçiş, müşterilerimize ve iş ortaklarımıza daha fazla değer sağlayacak güvenli ve verimli bir elektronik imza deneyimi sağlar.
 
-Belgelere ve elektronik imza temsilciliğini elektronik olarak imzalama hakkında daha fazla bilgi için aşağıdaki öğreticilere bakın:
+Belgeleri elektronik olarak imzalama ve elektronik imza temsilcisi seçme hakkında daha fazla bilgi için aşağıdaki öğreticilere bakın:
 
-- [Belgeyi elektronik olarak imzala | Adobe Sign öğreticileri](https://helpx.adobe.com/sign/how-to/adobe-for-signers.html?playlist=/ccx/v1/collection/product/sign/segment/designer/explevel/beginner/applaunch/continuinged/collection.ccx.js&ref=helpx.adobe.com)
-- [Başka birini bir belgeyi imzalamak için temsilci seçme | Adobe Sign öğreticileri](https://helpx.adobe.com/sign/how-to/use-the-delegator-role.html?playlist=/ccx/v1/collection/product/sign/segment/designer/explevel/beginner/applaunch/orientation/collection.ccx.js&ref=helpx.adobe.com)
+- [Belgeyi elektronik olarak imzalama | Adobe Sign öğreticileri](https://helpx.adobe.com/sign/how-to/adobe-for-signers.html?playlist=/ccx/v1/collection/product/sign/segment/designer/explevel/beginner/applaunch/continuinged/collection.ccx.js&ref=helpx.adobe.com)
+- [Belge imzalaması için başka bir kullanıcıya temsilci | Adobe Sign öğreticileri](https://helpx.adobe.com/sign/how-to/use-the-delegator-role.html?playlist=/ccx/v1/collection/product/sign/segment/designer/explevel/beginner/applaunch/orientation/collection.ccx.js&ref=helpx.adobe.com)
 
 ### <a name="next-steps"></a>Sonraki adımlar
 
-Bu bilgileri, kuruluşunuzdaki uygun paydaşlarla paylaşabilirsiniz.
+Bu bilgileri, kuruluşta uygun proje katılımcıları ile paylaşın.
 
 ### <a name="questions"></a>Sorularınız mı var?
 
-Sorularınız varsa, [çağrı günlüğü aracı 'nı (CLT)](https://clt.partners.extranet.microsoft.com/CLT) veya [MS 'Yi araştırarak](https://www.explore.ms/)bölgesel işlem merkezinize başvurun. Sorgunuzu mümkün olduğunca çabuk çözebilmemiz için standart CLT sürecini yakından izleyin.
+Sorularınız varsa, Çağrı Günlüğü Aracı'nı [(CLT)](https://clt.partners.extranet.microsoft.com/CLT) Bölgesel Operasyon Merkezi veya MS'i Keşfetme'de [yöneticinizle iletişime geçin.](https://www.explore.ms/) Sorgunuza mümkün olan en hızlı şekilde çözüm getireciz için standart CLT işlemini yakından izleyin.
 
 ### <a name="change-log"></a>Değişiklik Günlüğü
 
 - 15 Ocak 2021: özgün yayın 
-- 16 Şubat 2021: artık canlı, yeni kaynak: Adobe Imza geçişi Iş ortağı sayfası 
+- 16 Şubat 2021: Artık canlı, Yeni Kaynak: Adobe Sign Migration İş Ortağı Sayfası 
 
 _____________
 
-## <a name="reminder-introducingapithrottlingtopartners-calling-partner-centerapis"></a><a name="8"></a> Anımsatıcı: Iş Ortağı Merkezi API 'Lerini çağıran iş ortaklarına API azaltma ile tanışın
+## <a name="reminder-introducingapithrottlingtopartners-calling-partner-centerapis"></a><a name="8"></a> Anımsatıcı: Api'leri çağıran iş ortaklarına API İş Ortağı Merkezi tanıtımı
 
 ### <a name="categories"></a>Kategoriler
 
@@ -299,19 +299,19 @@ _____________
 
 ### <a name="summary"></a>Özet
 
-Microsoft, Iş Ortağı Merkezi API 'Lerini çağıran iş ortakları için bir zaman dilimi içinde daha tutarlı bir performansa izin vermek üzere API daraltma uygumasını uygulamaya yöneliktir.
+Microsoft, API'leri çağıran iş ortaklarının belirli bir zaman aralığı içinde daha tutarlı bir performans elde İş Ortağı Merkezi uygulayacak.
 
-### <a name="impacted-audience"></a>Etkilenen hedef kitle
+### <a name="impacted-audience"></a>Etkilene hedef kitle
 
-Tüm iş ortakları bulut çözümü sağlayıcısı (CSP) programı üzerinden deneyimidir  
+Bulut Çözümü Sağlayıcısı (CSP) programı aracılığıyla işlem yapılan tüm iş ortakları  
 
 ### <a name="details"></a>Ayrıntılar
 
-Microsoft, Şubat 2021 ' den itibaren Iş Ortağı Merkezi API 'Lerini çağıran iş ortakları için zaman dilimi içinde daha tutarlı bir performansa izin vermek üzere API daraltma uygulamayı uygulamaya yönelik.Azaltma, kaynakların aşırı kullanımını engellemek için bir zaman dilimi içindeki bir hizmete yönelik isteklerin sayısını sınırlar.Bir azaltma eşiği aşıldığında, Iş ortağı merkezi bir süre için o istemciden gelen diğer istekleri sınırlandırır.
+Şubat 2021'den itibaren Microsoft, api'leri çağıran iş ortaklarının belirli bir süre içinde daha tutarlı bir performans elde İş Ortağı Merkezi uygulayacak.Azaltma, kaynakların aşırı kullanımına engel olmak için bir zaman aralığı içinde hizmete yapılan istek sayısını sınırlar.Bir azaltma eşiği aşılırsa, İş Ortağı Merkezi istemciden gelen diğer tüm istekleri bir süre için sınırlar.
 
 **İş ortağı avantajları:**
 
-İş Ortağı Merkezi, yüksek hacimli istekleri işlemek için tasarlanmıştır, ancak birkaç iş ortağı tarafından çok sayıda istek yapılırsa, kısıtlama tüm iş ortakları için en iyi performansı ve güvenilirliği korumanıza yardımcı olur.  
+İş Ortağı Merkezi, yüksek hacimli istekleri işlemek için tasarlanmıştır, ancak birkaç iş ortağı tarafından çok fazla sayıda istek yapılırsa kısıtlama tüm iş ortakları için en iyi performansı ve güvenilirliği korumaya yardımcı olur.  
 
 - Azaltma, en az kapalı kalma süresini sağlar.
 - Azaltma, yüksek hacimli isteklerin sayısını azaltarak tüm iş ortakları için tutarlı bir performans sağlanmasına yardımcı olur.
@@ -320,7 +320,7 @@ Microsoft, Şubat 2021 ' den itibaren Iş Ortağı Merkezi API 'Lerini çağıra
 
 | İşlem | İş Ortağı Merkezi belgeleri |
 | ------ | ------- |
-|{baseURL}/v1/Customers/{customer_id}/abonelikler  | [Tüm a-a-a-a-](/partner-center/develop/get-all-of-a-customer-s-subscriptions&data) |
+|{baseURL}/v1/Customers/{customer_id}/abonelikler  | [Tüm a-a-a-a-](/partner-center/develop/get-all-of-a-customer-s-subscriptions) |
 |{baseURL}/v1/Customers/{customer_id}/Subscriptions/{subscription_id}  | [Kimliğe göre bir abonelik alma](/partner-center/develop/get-a-subscription-by-id) |
 |{baseURL}/v1/Customers/{customer_id}/Orders  | [Tüm müşteri siparişlerini al](/partner-center/develop/get-all-of-a-customer-s-orders) |
 |{baseURL}/v1/Customers/{customer_id}/Orders/{order_id}  | [Kimliğe göre bir sipariş alma](/partner-center/develop/get-an-order-by-id) |
@@ -333,15 +333,15 @@ Microsoft, Şubat 2021 ' den itibaren Iş Ortağı Merkezi API 'Lerini çağıra
 |{baseURL}/v1/productUpgrades/{upgrade-id}/status  | [Ürün yükseltme durumunu alma](/partner-center/develop/get-product-upgrade-status) |
 |{baseURL}/v1/Customers/{Customer-id}/Subscriptions/{Subscription-ID}/dönüşümler   | [Deneme dönüştürme tekliflerinin bir listesini alma](/partner-center/develop/get-a-list-of-trial-conversion-offers) |
  
-İş ortaklarının, daha fazla verimlilik için etkinlik günlüğü API 'sini kullanmayı ve azaltmaktan kaçınmasını kesinlikle öneririz.Bu özellik hakkında daha fazla bilgi için [buradaki](/partner-center/develop/api-throttling-guidance)ayrıntılara bakın.  
+İş ortaklarının daha fazla verimlilik için ve azaltmayı önlemek için etkinlik günlüğü API'sini kullanmayı göz önünde bulundurmalarını kesinlikle öneririz.Bu özellik hakkında daha fazla bilgi için buradaki ayrıntılara [bakın.](/partner-center/develop/api-throttling-guidance)  
 
 ### <a name="next-steps"></a>Sonraki adımlar
 
-Bu konunun [kaynaklarını](/partner-center/develop/api-throttling-guidance)gözden geçirin   ve gerekli adımları uygulayın.  
+Bu konu [için](/partner-center/develop/api-throttling-guidance)   kaynakları gözden geçirin ve gerekli adımları uygulayın.  
 
 _______________
 
-## <a name="introducing-microsoft-viva-topics"></a><a name="7"></a>Microsoft Viva konuları ile tanışın
+## <a name="introducing-microsoft-viva-topics"></a><a name="7"></a>Microsoft Viva'ya Tanıtılan Konular
 
 ### <a name="categories"></a>Kategoriler
 
@@ -350,25 +350,25 @@ _______________
 
 ### <a name="affected-audience"></a>Etkilenen hedef kitle
 
-Tüm iş ortakları bulut çözümü sağlayıcısı (CSP) programı üzerinden deneyimidir
+Bulut Çözümü Sağlayıcısı (CSP) programı aracılığıyla işlem yapılan tüm iş ortakları
 
 ### <a name="details"></a>Ayrıntılar
 
-Microsoft Viva konuları, kuruluşunuzda bilgi ve uzmanlığın belirlenmesi için yapay zeka (AI) uygular ve bu bilgileri ürünler, müşteriler ya da projeler gibi paylaşılan konularda seçmektedir. Derinlikli konuyla ilgili kartlar ve konu sayfaları sayesinde bilgi sahibi, takımlarınızın, projelerinizin ve belgelerinizin bağlamında sizi bulur. AI ve insanlarla birlikte çalışarak, bilgileri iyileştirir ve her gün kullandığınız uygulamalarda yüzey olarak çalışır. 
+Microsoft Viva Konuları, yapay zekayı (AI) kullanarak kuruluş genelindeki bilgileri ve uzmanlığı belirleyin ve ürünler, müşteriler veya projeler gibi paylaşılan konulara dönüştürebilirsiniz. Çevreleyici konu kartları ve konu sayfalarıyla, bilgi sizi ekipleriniz, projeleriniz ve belgeleriniz bağlamında bulur. AI ve insanlar, bilgileri geliştirmek ve her gün kullanmakta olduğunu uygulamalarda ortaya çıkararak birlikte çalışır. 
 
-Kullanıcıların, Viva konuları için uygun olması için aşağıdakilerden biri ile lisanslanması gerekir:   
-- Microsoft 365 F1, F3, E3, a3, E5 veya a5 
-- Office 365 F3, E1, a1, E3, a3, E5 veya a5 
-- Temel, standart veya Premium Microsoft 365 İş 
-- SharePoint K, plan 1 veya Plan2 
+Kullanıcıların Viva Konularına uygun olması için aşağıdaki lisanslardan biri ile lisanslandırıldı:   
+- Microsoft 365 F1, F3, E3, A3, E5 veya A5 
+- Office 365 F3, E1, A1, E3, A3, E5 veya A5 
+- Microsoft 365 Business Basic, Standard veya Premium 
+- SharePoint K, Plan 1 veya Plan2 
 
 **Teklif Ayrıntıları**
 
-Bu tekliflere, Şubat 1 Fiyat listelerindeki teklif adlarında "konu deneyimleri" eklenecektir. Fiyat listeleri 1 Mart 'ta güncelleştirilirken bu teklif adları "Viva konuları" ile güncelleştirilir.
+Bu teklifler, 1 Şubat fiyat listelerinde teklif adlarında "Konu Deneyimleri" olacak. Fiyat listeleri 1 Mart'ta güncelleştirildiğinde bu teklif adları "Viva Konuları" ile güncelleştirilecek.
 
-|**Teklif adı**|**Teklif Kimliği**|**Malzeme KIMLIĞI**|
+|**Teklif adı**|**Teklif Kimliği**|**Malzeme Kimliği**|
 |------------------|:--------------------|:------------------|
-|Viva konuları|b9ef0c81-9ca6-45fd-a6c1-627745ba8b8a|1JV-00005|
+|Viva Konuları|b9ef0c81-9ca6-45fd-a6c1-627745ba8b8a|1JV-00005|
 |Fakülte için Viva konuları|8c930d38-db61-4afa-83f9-77c595c5cdfc|1TK-00006|
 |Öğrenciler için Viva konuları|5de461d5-8ccc-4a8e-98ae-58a3ad400a57|1TK-00007|
 
@@ -404,7 +404,7 @@ Bu Microsoft 365 E3 fiyat güncelleştirmeleri yalnızca şu para birimleriyle s
 
 _______________
 
-## <a name="license-based-preview-price-list-updated-for-norwegian-krone"></a><a name="5"></a>Norveççe kronone için lisans tabanlı önizleme fiyat listesi güncelleştirildi
+## <a name="license-based-preview-price-list-updated-for-norwegian-krone"></a><a name="5"></a>Norveç kronu için lisans tabanlı önizleme fiyat listesi güncelleştirildi
 
 ### <a name="categories"></a>Kategoriler
 
@@ -413,23 +413,23 @@ _______________
 
 ### <a name="affected-audience"></a>Etkilenen hedef kitle
 
-Tüm iş ortakları bulut çözümü sağlayıcısı (CSP) programı üzerinden deneyimidir
+Bulut Çözümü Sağlayıcısı (CSP) programı aracılığıyla işlem yapılan tüm iş ortakları
 
 ### <a name="summary"></a>Özet
 
-Lisans tabanlı önizleme fiyatı listesi, 1 Mart 2021 ' de beklenen Norveç Kronu için güncelleştirilmiştir.
+1 Mart 2021'de beklenen Norveç kronu fiyatlandırması için lisans tabanlı önizleme fiyat listesi güncelleştirildi.
 
 ### <a name="details"></a>Ayrıntılar
 
-Mart için FX Rate değişiklikleri, önceki Mart lisans tabanlı fiyat listelerine dahil değildir. Bu dosya beklenen Norveççe kronbir fiyat değişikliğini yansıtacak şekilde güncelleştirildi. İş ortakları, 1 Mart 2021 ' de beklenen bu değişiklikleri görmek için en son güncel önizleme fiyatlandırma dosyasını almalıdır. Bu değişiklikler yalnızca Norveççe kronbir para birimi fiyatlandırması içindir.
+Mart için FX fiyat değişiklikleri önceki Mart lisans tabanlı fiyat listelerine dahil değildir. Bu dosya beklenen Norveç kron fiyat değişikliklerini yansıtacak şekilde güncelleştirildi. İş ortaklarının 1 Mart 2021'de beklenen bu değişiklikleri görmek için en son güncel önizleme fiyatlandırma dosyasını almaları gerekir. Bu değişiklikler yalnızca Norveç kronu para birimi fiyatlandırması içindir.
 
 ### <a name="next-steps"></a>Sonraki adımlar
 
-İş ortakları, 1 Mart 2021 ' de beklenen değişiklikler için geçerli fiyat listesi önizleme dosyasını indirmelidir.
+İş ortaklarının 1 Mart 2021'de yapılacak beklenen değişiklikler için geçerli fiyat listesi önizleme dosyasını indirmesi gerekir.
 
 _______________
 
-## <a name="premium-assessments-an-add-on-to-compliance-manager-is-coming-on-march-1-2021"></a><a name="4"></a>Uyumluluk Yöneticisi 'nin bir eklentisi olan Premium değerlendirmeler 1 Mart 2021 ' de geliyor
+## <a name="premium-assessments-an-add-on-to-compliance-manager-is-coming-on-march-1-2021"></a><a name="4"></a>Uyumluluk Yöneticisi'ne bir eklenti olan Premium değerlendirmeleri 1 Mart 2021'de geliyor
 
 ### <a name="categories"></a>Kategoriler
 
@@ -438,19 +438,19 @@ _______________
 
 ### <a name="affected-audience"></a>Etkilenen hedef kitle
 
-Tüm iş ortakları bulut çözümü sağlayıcısı (CSP) programı üzerinden deneyimidir
+Bulut Çözümü Sağlayıcısı (CSP) programı aracılığıyla işlem yapılan tüm iş ortakları
 
 ### <a name="summary"></a>Özet
 
-Premium değerlendirmeler Haziran 'da fiyat listesi önizlemesine dahil edilecek ve 1 Mart 2021 ' den itibaren kullanılabilir olacaktır.
+Premium değerlendirmeler Şubat ayında fiyat listesi önizlemesine dahil edilecek ve 1 Mart 2021'den itibaren kullanılabilir olacak.
 
 ### <a name="details"></a>Ayrıntılar
 
-Premium değerlendirmeler, uyumluluk Yöneticisi için isteğe bağlı bir eklentidir ve verilerin toplanması ve kullanımını yöneten ulusal, bölgesel ve sektöre özgü gereksinimlere sahip müşterilere yardımcı olabilir. Premium değerlendirmeler Office 365 E5, A5 ve G5 için ayrılmıştır ve E5, A5 ve G5 müşterileri Microsoft 365.
+Premium değerlendirmeler Uyumluluk Yöneticisi'ne isteğe bağlı bir eklentidir ve müşterilerin verilerin toplanması ve kullanımını yöneten ulusal, bölgesel ve sektöre özgü gereksinimlere uymalarına yardımcı olabilir. Premium değerlendirmeler Office 365 E5, A5 ve G5 ile E5, A5 ve G5 Microsoft 365 için ayrılmıştır.
 
-|**Teklif adı**|**Teklif Kimliği**|**Malzeme KIMLIĞI**|
+|**Teklif adı**|**Teklif Kimliği**|**Malzeme Kimliği**|
 |------------------|:--------------------|:------------------|
-|CSP-Corp-addon|[76be61a7-2c03-4b3e-8330-63b11bd904ed](https://commoffertool.catalog.cp.microsoft.com/Prod/Office365/offer/details/76be61a7-2c03-4b3e-8330-63b11bd904ed)|8JA-00003|
+|CSP - Corp - Eklenti|[76be61a7-2c03-4b3e-8330-63b11bd904ed](https://commoffertool.catalog.cp.microsoft.com/Prod/Office365/offer/details/76be61a7-2c03-4b3e-8330-63b11bd904ed)|8JA-00003|
 |CSP-Corp-deneme|[f2f6ae44-24fe-450c-9cd7-529e7c8cfcb4](https://commoffertool.catalog.cp.microsoft.com/Prod/Office365/offer/details/f2f6ae44-24fe-450c-9cd7-529e7c8cfcb4)|8JA-00004|
 |CSP-eğitim-fakülte-addon|[fa7f5773-063a-48cf-b3e2-de509ea1262f](https://commoffertool.catalog.cp.microsoft.com/Prod/Office365/offer/details/fa7f5773-063a-48cf-b3e2-de509ea1262f)|8JB-00003|
 |CSP-eğitim-fakülte deneme|[828cecbd-8728-4339-b0c2-51e009a67d88](https://commoffertool.catalog.cp.microsoft.com/Prod/Office365/offer/details/828cecbd-8728-4339-b0c2-51e009a67d88)|8JB-00004|
@@ -486,31 +486,31 @@ ________________
 - Tarih: 5 Şubat 2021
 - Özellikler
  
-### <a name="impacted-audience"></a>Etkilenen hedef kitle
+### <a name="impacted-audience"></a>Etkilene hedef kitle
 
-- Ortak satış için sunulan tekliflere sahip iş ortakları
-- Ticari markette uygun bir Azure çözümü kullanarak transactable teklifi olan iş ortakları
-- Iş Ortağı Merkezi 'nde referanslar modülünü kullanan tüm iş ortakları.
+- Ortak Satışa Hazır tekliflerle iş ortakları
+- Ticari markette Azure teşvike uygun bir çözüm kullanarak işlem edilebilir teklife sahip iş ortakları
+- Bu modülde Referanslar modülünü kullanan tüm İş Ortağı Merkezi.
 
 ### <a name="details"></a>Ayrıntılar
 
-Yeni yıla geçtiğimiz gibi Iş Ortağı Merkezi 'nde ortak satış deneyimini geliştirmek ve zenginleştirmek için yetenekler ekliyoruz. Bu yeni özellikler, işlem hızını hızlandırmanıza, satıcı erişimini genişletmenize ve işinizi daha iyi ölçeklendirmenize yardımcı olur. Referanslar modülünde sunulan bu yeni eklemeler, diğer Microsoft iş ortakları veya Microsoft satıcıları aracılığıyla daha fazla müşteriye ulaşmanıza yardımcı olur. böylece işlem hattınızı Microsoft ile tek bir konumda yönetin.  
+Yeni yıla geçerek, yeni yılda ortak satış deneyimini geliştirme ve zenginleştirme özellikleri İş Ortağı Merkezi. Bu yeni özellikler satış hızını hızlandırmanıza, satıcı erişimini genişletmenize ve işlerinizi daha iyi ölçeklendirmenize yardımcı olur. Referanslar modülünde tanıt alınan bu yeni eklemeler, işlem hattınızı Microsoft ile tek bir konumda yöneterek diğer Microsoft iş ortakları veya Microsoft satıcılarıyla daha fazla müşteriye ulaşmanıza yardımcı olur.  
 
-İşte Iş Ortağı Merkezi başvuruları modülündeki yenilikler:
+İş Ortağı Merkezi Referanslar modülünde İş Ortağı Merkezi:
 
-#### <a name="all-partners-using-the-referrals-module-in-partner-center"></a>Iş Ortağı Merkezi 'nde referanslar modülünü kullanan tüm iş ortakları  
+#### <a name="all-partners-using-the-referrals-module-in-partner-center"></a>İş Ortağı Merkezi'da Referanslar modülünü kullanan tüm iş İş Ortağı Merkezi  
 
-- [Yenı SMB bağlantıları oluşturma](../connect-with-your-customers.md): SMB müşterilerle ilgili gelen fırsatları kazanmak için ortak satış yapın ve Microsoft satıcılarıyla birlikte çalışın.
+- [Yeni SMB bağlantıları oluşturma:](../connect-with-your-customers.md)Microsoft satıcılarının ortak satışını yapmak ve SMB müşterileri ile ilgili gelen fırsatları elde etmek için bu satıcılarla birlikte çalışma.
 
-- [Başvuru Izinlerini Genişlet](../permissions-overview.md#manage-referrals): kullanıcıların, yönetici izinlerine sahip olmasını isteyip istememe (tüm ortak satış fırsatlarına erişim) veya Kullanıcı izinleri (kullanıcının belirli ortak satış fırsatlarına erişim) temelinde başvuru izinleri atama.
+- [Referans izinlerini](../permissions-overview.md#manage-referrals)genişletme: Yönetici izinlerine (tüm ortak satış fırsatlarına erişim) veya kullanıcı izinlerine (kullanıcının belirli ortak satış fırsatlarına erişim) sahip olmak isteyip istemediklerine bağlı olarak kullanıcıların referans izinlerini attayın.
 
-- [Iş ortağı Sales Connect Kullanıcı geçişi](../psc-to-pc.md#user-migration): mevcut Iş ortağı Sales Connect Kullanıcı Izinlerini ilgili Iş ortağı merkezi başvuru Yöneticisi ve başvuru Kullanıcı izinleriyle eşleyin ve ardından kullanıcılara yeni izinleri toplu olarak uygulayın. Başvurular yönetimi hakkında daha fazla bilgi edinmek için [başvuru izinleri belgelerini](../permissions-overview.md#manage-referrals) gözden geçirin.  
+- [İş Ortağı Satış Bağlantısı kullanıcı geçişi:](../psc-to-pc.md#user-migration)Mevcut İş Ortağı Satış Bağlantısı kullanıcı izinlerini ilgili İş Ortağı Merkezi Referans yöneticisi ve referans kullanıcı izinlerine eşle ve ardından yeni izinleri kullanıcılara toplu olarak uygula. Referans [yönetimi hakkında daha fazla](../permissions-overview.md#manage-referrals) bilgi edinmek için referans izinleri belgelerini gözden geçirme.  
 
-#### <a name="partners-with-co-sell-ready-offers"></a>Ortak satış için sunulan tekliflere sahip iş ortakları
+#### <a name="partners-with-co-sell-ready-offers"></a>Ortak Satışa Hazır tekliflerle iş ortakları
 
-- [Diğer iş ortaklarıyla ortak satış](../manage-co-sell-opportunities.md): güçlü iş ortağı ekosistemimizin sizinle ortak satış için başka bir iş ortağı davet edin ve daha fazla müşteri kitlelerine erişimi açın.  
+- [Diğer iş ortaklarıyla ortak satış:](../manage-co-sell-opportunities.md)Güçlü iş ortağı ekosistemimizden başka bir iş ortağını, birlikte satış yapmak ve daha fazla müşteri kitlesi için erişim sağlamak için davet etme.  
 
-#### <a name="partners-with-a-transactable-offer-using-an-azure-incentive-eligible-solution-in-the-commercial-marketplace"></a>Ticari markette uygun bir Azure çözümü kullanarak transactable teklifi olan iş ortakları
+#### <a name="partners-with-a-transactable-offer-using-an-azure-incentive-eligible-solution-in-the-commercial-marketplace"></a>Ticari markette Azure teşvike uygun bir çözüm kullanarak işlem edilebilir teklife sahip iş ortakları
 
 - [Otomatik anlaşma kaydı kullan](../register-deals.md): transactable Microsoft ticari Market Azure tekliflerini onay kutusunu kullanarak kaydederek doğruluğu kesin ve "Bu anlaşma/Win, Azure Marketi veya appsource aracılığıyla işlem yapılır." İşlem tarihi doğru olduğu sürece, anlaşma kaydı bilgileri doğrudan Microsoft ticari Market 'ten çekilir.
 
@@ -544,9 +544,9 @@ Bu duyuru, [Aralık ayında yayınlanan](./2020-december.md#1)Iş ortağı merke
 
 ### <a name="questions"></a>Sorularınız mı var?
 
-Bu bildirimle ilgili sorular için [Iş Ortağı Merkezi desteğiyle](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals)iletişim kurun.
+Bu bildirimle ilgili tüm sorular için destek için [İş Ortağı Merkezi başvurun.](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals)
 
 ### <a name="change-log"></a>Değişiklik günlüğü
 
-- Şubat: GET & PUT nitelikleri 'nin kullanımdan kaldırılması için zaman çizelgeleri güncelleştirildi
-- Ocak: GET & PUT nitelikleri için yaklaşan kullanım dışı bırakın
+- Şubat: GET ve PUT niteliklerinin kullanımdan & güncelleştirildi
+- Ocak: GET ve PUT niteliklerinin kullanımdan & anımsatıcısı

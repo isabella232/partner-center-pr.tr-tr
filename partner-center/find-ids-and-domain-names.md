@@ -1,20 +1,20 @@
 ---
-title: Kiracı KIMLIĞINI, etki alanı adını, Kullanıcı nesne KIMLIĞINI bulun
+title: Kiracı kimliğini, etki alanı adını, kullanıcı nesne kimliğini bulma
 ms.topic: how-to
 ms.date: 11/06/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Azure portal-bir kuruluşun Azure AD kiracı KIMLIĞI, etki alanı adı veya belirli bir kullanıcı nesne KIMLIĞINDE kimlik bulmayı öğrenin. Bazı görevlerde bu bilgiler gereklidir.
+description: Bir kuruluşun Azure AD kiracı kimliği Azure portal etki alanı adı veya belirli kullanıcı nesnesi kimliği gibi kimlikleri nasıl bulamıyorum? Bazı görevler bu bilgilere ihtiyaç gösterir.
 author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 17b0100bf5e45e931a765a73fb98afddf6dba656
-ms.sourcegitcommit: f8fd51e1acdbfafdde86d6490bade66c63033ebd
+ms.openlocfilehash: 643b1eeb96a47ee4c438f733efe3be22234d02ff
+ms.sourcegitcommit: e462f562e7f26b7d6870c22638a2a841499109d6
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108172260"
+ms.lasthandoff: 05/11/2021
+ms.locfileid: "109740293"
 ---
 # <a name="locate-important-ids-for-a-user"></a>Bir kullanıcı için önemli kimlikleri bulma
 
@@ -22,30 +22,30 @@ ms.locfileid: "108172260"
 
 - Genel yönetici
 
-Bu makalede, bir kullanıcı için aşağıdaki bilgileri bulmak üzere [Azure Portal](https://portal.azure.com/) nasıl kullanılacağı açıklanır:
+Bu makalede, bir kullanıcıya Azure portal [bilgileri](https://portal.azure.com/) bulmak için Azure portal nasıl kullanabileceğiniz açıklanmıştır:
 
-- Kullanıcının kuruluşunun veya şirketinin Microsoft Azure Active Directory (Azure AD) kiracı KIMLIĞI
+- Kullanıcının Microsoft Azure Active Directory kuruluşuna veya şirketin kiracı kimliğine (Azure AD) göre
 
 - Azure AD kiracısı ile ilişkili kuruluşun veya şirketin birincil etki alanı adı
 
-- Kullanıcı nesnesi KIMLIĞI
+- Kullanıcı nesnesi kimliği
 
-## <a name="find-the-microsoft-azure-ad-tenant-id-and-primary-domain-name"></a>Microsoft Azure AD kiracı KIMLIĞINI ve birincil etki alanı adını bulun
+## <a name="find-the-microsoft-azure-ad-tenant-id-and-primary-domain-name"></a>Kiracı kimliğini Microsoft Azure AD birincil etki alanı adını bulma
 
-Azure portal içinde Azure AD kiracı KIMLIĞINI veya birincil etki alanı adını bulmak için bu adımları izleyin. (Bir kiracı KIMLIĞINI programlı bir şekilde bulmak istiyorsanız bkz. [PowerShell veya CLI ile KIRACı kimliğini bulma](/azure/active-directory/fundamentals/active-directory-how-to-find-tenant.md#find-tenant-id-with-powershell).)
+Azure AD kiracı kimliğini veya etki alanı içindeki birincil etki alanı adını bulmak için bu Azure portal. (Kiracı kimliğini program aracılığıyla bulmak için bkz. [PowerShell](/azure/active-directory/fundamentals/active-directory-how-to-find-tenant#find-tenant-id-with-powershell)veya CLI ile kiracı kimliğini bulma.)
 
 > [!NOTE]
-> Kiracı KIMLIĞINE farklı uygulamalarda veya kaynaklarda farklı adlar adı verilir. Örneğin, kiracı KIMLIĞI, dizin KIMLIĞI, Azure Active Directory (Azure AD) kiracısı, Microsoft KIMLIĞI veya belirli raporlar için, hatta *tenantguıd* olarak adlandırılır.
+> Kiracı kimliği, farklı uygulamalarda veya kaynaklarda farklı adlar olarak çağrıl olabilir. Örneğin, kiracı kimliğine dizin kimliği, Azure Active Directory (Azure AD) kiracısı, Microsoft kimliği veya belirli raporlar için, hatta kiracı tarafından yönlendirilen olarak *başvurul olabilir.*
 
 1. [Azure portalında](https://portal.azure.com/) oturum açın.
 
-2. Menüden **Azure Active Directory** seçin.
+2. Menüden **Azure Active Directory'yi** seçin.
 
-   :::image type="content" source="images/id/1-find-id-azure-portal-home-screen.png" alt-text="Menüden Azure Active Directory seçeneğini seçen Azure portal gösterir.":::
+   :::image type="content" source="images/id/1-find-id-azure-portal-home-screen.png" alt-text="Menüden Azure portal seçerek Azure Active Directory seçeneğini gösterir.":::
 
-3. Azure Active Directory **genel bakış** sayfası görüntülenir. Azure AD kiracı KIMLIĞINI veya birincil etki alanı adını bulmak için **KIRACı kimliği** alanını ve **birincil etki alanı** alanını bulun. Bu alanlar, kiracı bilgileri bölümünde görüntülenir.
+3. Bir Azure Active Directory **Genel Bakış** sayfası görüntülenir. Azure AD kiracı kimliğini veya birincil etki alanı adını bulmak için Kiracı Kimliği **alanını ve** Birincil etki **alanı alanını** bulun. Bu alanlar Kiracı bilgileri bölümünde görünür.
 
-   :::image type="content" source="images/id/2-find-id-azure-portal-azure-ad-overview-tenant-id-partial-screen.png" alt-text="İki Vurgulanan alan, kiracı KIMLIĞI ve birincil etki alanı adı içeren genel bakış sayfasını gösterir.":::
+   :::image type="content" source="images/id/2-find-id-azure-portal-azure-ad-overview-tenant-id-partial-screen.png" alt-text="Kiracı kimliği ve birincil etki alanı adı olmak için vurgulanmış iki alanla Genel Bakış sayfasını gösterir.":::
 
 4. Kiracı KIMLIĞINI Azure portal birkaç farklı yolla bulabilirsiniz. Menüden **Azure Active Directory** seçin. Ardından, menüdeki **Yönet** bölümünü bulun ve **Özellikler**' i seçin.
 
@@ -80,6 +80,6 @@ Yalnızca etki alanı adını ve kiracı KIMLIĞINI bulmanın her zaman yeterli 
 ## <a name="next-steps"></a>Sonraki adımlar
 
 - [PowerShell veya CLı ile program aracılığıyla kiracı KIMLIĞINIZI bulun](/azure/active-directory/fundamentals/active-directory-how-to-find-tenant)
-- [Azure Active Directory 'de Kullanıcı profilleri hakkında daha fazla bilgi edinin](/azure/active-directory/fundamentals/active-directory-users-profile-azure-portal)
-- [İş ortaklarının Iş Ortağı Merkezi 'nde müşteri ayrıntılarını nasıl görebileceğine veya dışa verebileceğine öğrenin](see-your-customer-list.md)
+- [Azure Active Directory'de kullanıcı profilleri hakkında daha fazla bilgi Azure Active Directory](/azure/active-directory/fundamentals/active-directory-users-profile-azure-portal)
+- [İş ortaklarının müşteri ayrıntılarını nasıl göreceğini veya dışarı aktara İş Ortağı Merkezi](see-your-customer-list.md)
 
