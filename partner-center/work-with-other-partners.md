@@ -9,18 +9,16 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ce5baddcc6d598ec4d926e74a6f4a85a3b4cbbbe
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: d8370b213a3d0fd96a4d2ef457de1140ee4549f6
+ms.sourcegitcommit: 837d3c5b52ab056b2b761cd85eb2426f56b62614
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712571"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "109794896"
 ---
 # <a name="different-ways-you-can-work-with-other-partners-in-partner-center"></a>İş Ortağı Merkezi 'nde diğer iş ortaklarıyla çalışabilmeniz için farklı yollar
 
-**Uygun roller**
-
-- Hesap yöneticisi
+**Uygun roller**: Hesap Yöneticisi
 
 Microsoft 'un bulut çözümü sağlayıcısı (CSP) programı, iş ortaklarının bu yollarla birlikte çalışması için fırsatlar sunar.
 
@@ -44,15 +42,15 @@ CSP 'ye dolaylı satıcı olarak mı yoksa doğrudan iş ortağı olarak mı kay
 
 ## <a name="multi-partner-support"></a>Çoklu iş ortağı desteği
 
-İş Ortağı Merkezi 'nin çoklu iş ortağı özelliği, bir müşterinin birden fazla iş ortağıyla çalışması gerektiğinde senaryolar destekler. Örneğin, Office 365 ' de uzmanlığı için bir iş ortağı sağlamak isteyebilir, aynı zamanda Microsoft Azure ' de uzmanlaşmış farklı bir iş ortağı işe alım. Daha fazla bilgi için bkz. [Çoklu iş ortağı desteği](multipartner.md) .
+İş Ortağı Merkezi 'nin çoklu iş ortağı özelliği, bir müşterinin birden fazla iş ortağıyla çalışması gerektiğinde senaryolar destekler. Örneğin, Office 365'te uzmanlığı için bir iş ortağı işe almak, aynı zamanda Office 365'te uzman olan farklı bir iş Microsoft Azure. Daha [fazla bilgi için bkz.](multipartner.md) Çoklu iş ortağı desteği.
 
-Çoklu iş ortağı desteği, Microsoft 'un ulusal bulut teklifleriyle de sunulmaktadır.
+Microsoft'un ulusal bulut tekliflerde de çok iş ortağı desteği mevcuttur.
 
 ## <a name="multi-channel-support"></a>Çok kanallı destek
 
-İş Ortağı Merkezi 'nin çok kanallı özelliği, bir müşteri, başka bir yerde satın aldıkları bir aboneliği sağlamak ve desteklemek için bir iş ortağı işe almak istediğinde senaryoları destekler. Daha fazla bilgi için bkz. [çok kanallı destek](multichannel.md) .
+İş Ortağı Merkezi kanal özelliği, müşterinin başka bir yerde satın alan bir aboneliği sağlamak ve desteklemek için bir iş ortağını işe almak istediği senaryoları destekler. Daha [fazla bilgi için bkz.](multichannel.md) Çok kanallı destek.
 
-Microsoft 'un ulusal bulut tekliflerinden çok kanallı destek de mevcuttur.
+Microsoft'un ulusal bulut tekliflerde de çok kanallı destek mevcuttur.
 
 > [!IMPORTANT]  
-> CSP programındaki bir iş ortağı, şu anda CSP programındaki başka bir ortağa çevrimiçi hizmetler yeniden satıtamaz. Bu kısıtlama yalnızca CSP işlemleri yürütmek için kullanılan kiracı için geçerlidir. Şirket kullanımı için CSP olmayan bir kiracı kullanan CSP iş ortakları, başka bir CSP ortağından çevrimiçi hizmetler satın alabilir. Microsoft, tüm programların ilkelerini ve yeteneklerini sürekli olarak inceler. Özellik sürümleri veya ilke değişiklikleri hakkındaki tüm haberler, [Iş Ortağı Merkezi duyuruları](announcements/index.md)dahil olmak üzere olağan iletişim kanalları aracılığıyla duyurulacaktır.
+> CSP programında bir iş ortağı şu anda CSP çevrimiçi hizmetler başka bir iş ortağına yeniden satışa açamaz. Bu kısıtlama yalnızca CSP işlemlerini yürütmek için kullanılan kiracı için geçerlidir. Kurumsal kullanımları için CSP olmayan bir kiracı kullanan CSP iş ortakları, başka çevrimiçi hizmetler CSP iş ortağından lisans satın alınabilir. Microsoft, tüm programların ilkelerini ve özelliklerini sürekli gözden almaktadır. Özellik yayınları veya ilke değişiklikleriyle ilgili tüm haberler, yayın duyuruları da dahil olmak üzere normal [İş Ortağı Merkezi duyurular.](announcements/index.md)
