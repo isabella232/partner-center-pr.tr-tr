@@ -10,40 +10,36 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9eb0a1f221f9dd7e938fb43334543801c94c3181
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: ddbc4415dc7ccf524f5e9618b2e787bc4ddb9926
+ms.sourcegitcommit: 837d3c5b52ab056b2b761cd85eb2426f56b62614
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441464"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "109794947"
 ---
-# <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-for-us-government"></a><span data-ttu-id="4717b-103">ABD kamu için Microsoft Bulut Iş Ortağı Merkezi 'nde Kullanıcı ve lisans yönetimi</span><span class="sxs-lookup"><span data-stu-id="4717b-103">User and license management in Partner Center for Microsoft Cloud for US Government</span></span>
+# <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-for-us-government"></a><span data-ttu-id="2d578-103">ABD kamu için Microsoft Bulut Iş Ortağı Merkezi 'nde Kullanıcı ve lisans yönetimi</span><span class="sxs-lookup"><span data-stu-id="2d578-103">User and license management in Partner Center for Microsoft Cloud for US Government</span></span>
 
-<span data-ttu-id="4717b-104">**Şunlara uygulanır**</span><span class="sxs-lookup"><span data-stu-id="4717b-104">**Applies to**</span></span>
+<span data-ttu-id="2d578-104">**Uygulama hedefi**: Iş Ortağı Merkezi | ABD kamu için Microsoft Bulut iş ortağı Merkezi</span><span class="sxs-lookup"><span data-stu-id="2d578-104">**Applies to**: Partner Center | Partner Center for Microsoft Cloud for US Government</span></span>
 
-- <span data-ttu-id="4717b-105">Microsoft Cloud for US Government için İş Ortağı Merkezi</span><span class="sxs-lookup"><span data-stu-id="4717b-105">Partner Center for Microsoft Cloud for US Government</span></span>
+<span data-ttu-id="2d578-105">**Uygun roller**: genel yönetici</span><span class="sxs-lookup"><span data-stu-id="2d578-105">**Appropriate roles**: Global admin</span></span>
 
-<span data-ttu-id="4717b-106">**Uygun roller**</span><span class="sxs-lookup"><span data-stu-id="4717b-106">**Appropriate roles**</span></span>
+## <a name="how-to-manage-users-in-the-azure-portal-for-microsoft-cloud-for-us-government"></a><span data-ttu-id="2d578-106">ABD kamu için Microsoft Bulut Azure portal kullanıcıları yönetme</span><span class="sxs-lookup"><span data-stu-id="2d578-106">How to manage users in the Azure portal for Microsoft Cloud for US Government</span></span>
 
-- <span data-ttu-id="4717b-107">Genel yönetici</span><span class="sxs-lookup"><span data-stu-id="4717b-107">Global admin</span></span>
+<span data-ttu-id="2d578-107">ABD hükümeti için Microsoft Bulut Iş Ortağı Merkezi 'nde oturum açtıysanız, yeniden oturum açmak zorunda kalmadan ABD kamu sektörü için Microsoft Bulut Azure portal açabilirsiniz.</span><span class="sxs-lookup"><span data-stu-id="2d578-107">If you are signed in to Partner Center for Microsoft Cloud for US Government, you can open the Azure portal for Microsoft Cloud for US Government without having to sign in again.</span></span> <span data-ttu-id="2d578-108">Ancak, ABD kamu için Microsoft Bulut Azure portal doğrudan oturum açmanız gerekiyorsa, ( https://portal.azure.us/) ve ABD kamu için Microsoft bulut Azure AD kiracınız için genel yönetici kimlik bilgilerini kullanarak oturum açın.</span><span class="sxs-lookup"><span data-stu-id="2d578-108">However, if you need to sign in directly to the Azure portal for Microsoft Cloud for US Government, go to (https://portal.azure.us/) and sign in using global admin credentials for your Azure AD tenant for Microsoft Cloud for US Government.</span></span>
 
-## <a name="how-to-manage-users-in-the-azure-portal-for-microsoft-cloud-for-us-government"></a><span data-ttu-id="4717b-108">ABD kamu için Microsoft Bulut Azure portal kullanıcıları yönetme</span><span class="sxs-lookup"><span data-stu-id="4717b-108">How to manage users in the Azure portal for Microsoft Cloud for US Government</span></span>
-
-<span data-ttu-id="4717b-109">ABD hükümeti için Microsoft Bulut Iş Ortağı Merkezi 'nde oturum açtıysanız, yeniden oturum açmak zorunda kalmadan ABD kamu sektörü için Microsoft Bulut Azure portal açabilirsiniz.</span><span class="sxs-lookup"><span data-stu-id="4717b-109">If you are signed in to Partner Center for Microsoft Cloud for US Government, you can open the Azure portal for Microsoft Cloud for US Government without having to sign in again.</span></span> <span data-ttu-id="4717b-110">Ancak, ABD kamu için Microsoft Bulut Azure portal doğrudan oturum açmanız gerekiyorsa, ( https://portal.azure.us/) ve ABD kamu için Microsoft bulut Azure AD kiracınız için genel yönetici kimlik bilgilerini kullanarak oturum açın.</span><span class="sxs-lookup"><span data-stu-id="4717b-110">However, if you need to sign in directly to the Azure portal for Microsoft Cloud for US Government, go to (https://portal.azure.us/) and sign in using global admin credentials for your Azure AD tenant for Microsoft Cloud for US Government.</span></span>
-
-<span data-ttu-id="4717b-111">ABD hükümeti için Microsoft Bulut Azure portal başarıyla oturum açtıktan sonra, Azure Active Directory (Azure AD) genel bakış sayfasını açın ve ardından bu makalelerdeki yönergeleri izleyin:</span><span class="sxs-lookup"><span data-stu-id="4717b-111">After you have signed in successfully to the Azure portal for Microsoft Cloud for US Government, open your Azure Active Directory (Azure AD) overview page and then follow the instructions in these articles:</span></span>
+<span data-ttu-id="2d578-109">ABD hükümeti için Microsoft Bulut Azure portal başarıyla oturum açtıktan sonra, Azure Active Directory (Azure AD) genel bakış sayfasını açın ve ardından bu makalelerdeki yönergeleri izleyin:</span><span class="sxs-lookup"><span data-stu-id="2d578-109">After you have signed in successfully to the Azure portal for Microsoft Cloud for US Government, open your Azure Active Directory (Azure AD) overview page and then follow the instructions in these articles:</span></span>
 
 > [!NOTE]  
-> <span data-ttu-id="4717b-112">Aşağıdaki bağlantıların seçilmesi sizi farklı bir Web sitesine götürür.</span><span class="sxs-lookup"><span data-stu-id="4717b-112">Selecting the links below will take you to a different website.</span></span> 
+> <span data-ttu-id="2d578-110">Aşağıdaki bağlantıların seçilmesi sizi farklı bir Web sitesine götürür.</span><span class="sxs-lookup"><span data-stu-id="2d578-110">Selecting the links below will take you to a different website.</span></span> 
 
--  [<span data-ttu-id="4717b-113">**Azure Active Directory Yeni Kullanıcı Ekle**</span><span class="sxs-lookup"><span data-stu-id="4717b-113">**Add new users to Azure Active Directory**</span></span>](/azure/active-directory/active-directory-users-create-azure-portal)
+-  [<span data-ttu-id="2d578-111">**Azure Active Directory Yeni Kullanıcı Ekle**</span><span class="sxs-lookup"><span data-stu-id="2d578-111">**Add new users to Azure Active Directory**</span></span>](/azure/active-directory/active-directory-users-create-azure-portal)
 
--  [<span data-ttu-id="4717b-114">**Azure Active Directory’de kullanıcılara yönetici rolü atama**</span><span class="sxs-lookup"><span data-stu-id="4717b-114">**Assign a user to administrator roles in Azure Active Directory**</span></span>](/azure/active-directory/active-directory-users-assign-role-azure-portal)
+-  [<span data-ttu-id="2d578-112">**Azure Active Directory’de kullanıcılara yönetici rolü atama**</span><span class="sxs-lookup"><span data-stu-id="2d578-112">**Assign a user to administrator roles in Azure Active Directory**</span></span>](/azure/active-directory/active-directory-users-assign-role-azure-portal)
 
--  [<span data-ttu-id="4717b-115">**Azure Active Directory Kullanıcı parolasını sıfırlama**</span><span class="sxs-lookup"><span data-stu-id="4717b-115">**Reset the password for a user in Azure Active Directory**</span></span>](/azure/active-directory/active-directory-users-reset-password-azure-portal)
+-  [<span data-ttu-id="2d578-113">**Azure Active Directory Kullanıcı parolasını sıfırlama**</span><span class="sxs-lookup"><span data-stu-id="2d578-113">**Reset the password for a user in Azure Active Directory**</span></span>](/azure/active-directory/active-directory-users-reset-password-azure-portal)
 
-## <a name="next-steps"></a><span data-ttu-id="4717b-116">Sonraki adımlar</span><span class="sxs-lookup"><span data-stu-id="4717b-116">Next steps</span></span>
+## <a name="next-steps"></a><span data-ttu-id="2d578-114">Sonraki adımlar</span><span class="sxs-lookup"><span data-stu-id="2d578-114">Next steps</span></span>
 
--  [<span data-ttu-id="4717b-117">**Microsoft Cloud for US Government için İş Ortağı Merkezi**</span><span class="sxs-lookup"><span data-stu-id="4717b-117">**Partner Center for Microsoft Cloud for US Government**</span></span>](partner-center-for-microsoft-us-govt-cloud.md)
+-  [<span data-ttu-id="2d578-115">**Microsoft Cloud for US Government için İş Ortağı Merkezi**</span><span class="sxs-lookup"><span data-stu-id="2d578-115">**Partner Center for Microsoft Cloud for US Government**</span></span>](partner-center-for-microsoft-us-govt-cloud.md)
 
--  [<span data-ttu-id="4717b-118">**ABD kamu sektörü için Microsoft Bulut Bulut Çözümü Sağlayıcısı programına kaydolma**</span><span class="sxs-lookup"><span data-stu-id="4717b-118">**Enroll in the Cloud Solution Provider program for Microsoft Cloud for US Government**</span></span>](enroll-in-csp-for-microsoft-us-govt-cloud.md)
+-  [<span data-ttu-id="2d578-116">**ABD kamu sektörü için Microsoft Bulut Bulut Çözümü Sağlayıcısı programına kaydolma**</span><span class="sxs-lookup"><span data-stu-id="2d578-116">**Enroll in the Cloud Solution Provider program for Microsoft Cloud for US Government**</span></span>](enroll-in-csp-for-microsoft-us-govt-cloud.md)
