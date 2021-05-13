@@ -4,40 +4,38 @@ ms.topic: article
 ms.date: 04/30/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: İş hedeflerinize ulaşmanıza yardımcı olacak bilgi veya geliştirme alanı eğilimlerini görmek için, iş ortağı merkezi 'nde başvuru öngörülerinizi düzenli olarak gözden geçirin.
+description: İş hedeflerinize ulaşmanıza yardımcı olacak adres veya İş Ortağı Merkezi eğilimlerini görmek için referans içgörüleri verilerinizi düzenli aralıklarla gözden geçirme.
 author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5793e865105b59b2772fd6af5187a92115659e1d
-ms.sourcegitcommit: 6c20c3cc4a226cada70c56df295966696affcec8
+ms.openlocfilehash: b1bb86a493ce81cb02b14c9555f82767d10f841c
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "108328092"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855957"
 ---
-# <a name="get-referral-insights-in-partner-center-and-find-out-how-your-referrals-are-doing"></a>Iş Ortağı Merkezi 'nde başvuru öngörülerini alın ve başvurularınızın nasıl çalıştığını öğrenin
+# <a name="get-referral-insights-in-partner-center-and-find-out-how-your-referrals-are-doing"></a>Referans içgörülerini İş Ortağı Merkezi ve referansların nasıl olduğunu öğrenin
 
-**Uygun roller**
+**Uygun roller:** Referans yöneticisi
 
-- Başvuru Yöneticisi
+Referanslar **bölümündeki Analiz** bölümünün **altındaki** Ortak satış fırsatları sayfası, referansların nasıl olduğunu görmenizi sağlar. Dikkat gereken eğilimleri veya alanları belirlemek için bu ölçümleri düzenli olarak gözden geçirin ve iş hedeflerinize doğru ilerlenin.
 
-Başvurularda **analiz** bölümünün altındaki **ortak satış fırsatları** sayfası, başvurularınızın nasıl çalıştığını görmenizi sağlar. Dikkat edilmesi gereken eğilimleri veya alanı belirlemek için bu ölçümleri düzenli olarak gözden geçirin ve iş hedeflerinize doğru bir şekilde sürüyi başlatın.
-
-Ortak satış fırsatları öngörülerinizi görmek için Iş Ortağı Merkezi menüsünden **referanslar > analiz > ortak satış fırsatları**' na gidin.
+Ortak satış fırsatları içgörü verilerinizi görmek için İş Ortağı Merkezi menüsünden Referanslar > **Analytics > Ortak Satış Fırsatları'ne gidin.**
 
 > [!Important]
-> Anlaşma türü filtresi, tüm veriler için seçilen **ortak satış** türüyle önceden uygulandı. Özel ve iş ortağı ile ilgili anlaşmalar ile ilgili verileri çözümlemek istiyorsanız filtreyi kaldırın.
+> Anlaşma türü filtresi, tüm veriler için **Ortak satış** türü seçili olarak önceden uygulanır. Özel ve iş ortağı tarafından yönlendirilen anlaşmalarla ilgili verileri analiz etmek için filtreyi kaldırın.
 
 ## <a name="apply-filters"></a>Filtreleri uygulama
 
-**Ortak satış fırsatları** sayfasının üst kısmında, verileri göstermek istediğiniz zaman dilimini seçebilirsiniz. Varsayılan seçim **3Dk** 'dir (üç ay), ancak bunun yerine altı ay veya bir yıl boyunca verileri göstermeyi tercih edebilirsiniz. Ayrıca, belirli bir dönemdeki tüm başvuruların verilerini görmek için **özel** ' i de seçebilirsiniz.
+Ortak satış fırsatları **sayfasının üst kısmında,** verileri göstermek istediğiniz zaman dönemini seçin. Varsayılan seçim **3 milyon** (üç ay) olur, ancak bunun yerine altı ay veya bir yıl için verileri göstermeyi seçebilirsiniz. Belirli bir zaman **dönemi içinde tüm** referanslara yönelik verileri görmek için Özel'i de kullanabilirsiniz.
 
-Bu sayfadaki tüm verileri müşteri adı, ülke, anlaşma türü, anlaşma yönü, çözüm adı ve durum ile filtrelemenizi sağlayan paneli açmak için **Filtreler** düğmesini seçebilirsiniz. Bu filtrelerin ayrıntıları aşağıda verilmiştir.
+Bu sayfadaki **tüm verileri** Müşteri adı, Ülke, Satış türü, Satış yönü, Çözüm adı ve Durum'a göre filtrelemenizi sağlayan paneli açmak için Filtreler düğmesini seçebilirsiniz. Bu filtrelerin ayrıntıları aşağıda verilmiştir.
 
-- **Müşteri adı**: **Tümü** varsayılandır, ancak verileri seçtiğiniz bir veya daha fazla müşteriyle sınırlayabilirsiniz.
-- Ülke: **Tümü** varsayılandır, ancak verileri seçtiğiniz bir veya daha fazla müşterinin bir veya daha fazla **ülkesine** sınırlayabilirsiniz.
-- **Anlaşma türü**: varsayılan, **ortak satışdır** , ancak seçiminize göre verileri özel veya iş ortağı olarak sınırlayabilirsiniz.
+- **Müşteri adı:** Varsayılan değer **All**'tir, ancak verileri, seçerek bir veya daha fazla müşteriyle sınırabilirsiniz.
+- **Ülke:** Varsayılan **değer All**'tir, ancak verileri, sizin seçerek müşterinin bir veya daha fazla ülkesiyle sınırlandırabilirsiniz.
+- **Satış türü:** Varsayılan **değer** Ortak satış'tır ancak Seçiminize bağlı olarak Tüm'i seçerek veya verileri Özel veya İş Ortağı tarafından yönlendirilen satış anlaşmaları ile sınırlandırabilirsiniz.
 - **Anlaşma yönü** Varsayılan değer **Tümü**' dir, ancak verileri **gelen** başvuruların (aldığınız olanlar) veya **giden** başvuruların (gönderdiğiniz) sınırlarını seçebilirsiniz.
 - **Çözüm adı**: **Tümü** varsayılandır, ancak verileri seçtiğiniz bir veya daha fazla çözümü içeren başvurularda sınırlamayı tercih edebilirsiniz.
 - **Durum**: **Tümü** varsayılandır, ancak verileri oluşturulan, kabul edilen, reddedilen, süresi biten, kaybolan ve kazanıldı gibi bir veya daha fazla başvuru durum türü içeren başvurularda sınırlamayı tercih edebilirsiniz.
@@ -56,31 +54,31 @@ Yüzde değişiklik ölçümleri (kırmızı veya yeşil renkle gösterilir, ok 
 
 ## <a name="conversion-funnel"></a>Dönüştürme huni
 
-Bu bölümde, anlaşmaların yaşam döngüsü boyunca bir durumdan diğerine nasıl geçilerek ilgili görsel bir gösterge gösterilmektedir. Bu bölümün ana özetine bağlı olarak, tüm yaşam döngüsünü, işlem hacmine ve ABD Doları cinsinden anlaşma değerine göre görüntüleyebilirsiniz. İlk bölüm her ikisi de durum ve türe göre birim ya da değer için bir görsel gösterge sağlamak için anlaşma türüyle etiketlidir. Ayrıca, **geçmişteki bir başvuru** da vardır ve bu, bu işlemleri kabul ediyor/reddediliyor veya rapor için seçili olan süre içinde kazanıldı/kaybedildi olarak işaretleme eylemi gerçekleştirmiş olan anlaşmaları göstermek için kullanılır. Tüm yaşam döngülerinde çeşitli aşamalardaki anlaşmalar ilerlemesini görüntülemek için filtreler uygulayabilirsiniz.
+Bu bölümde, anlaşmaların yaşam döngüsü boyunca bir durumdan diğerine nasıl geçilerek ilgili görsel bir gösterge gösterilmektedir. Yaşam döngüsünün tamamını, bu bölümün ana özet bölümüne göre satış hacmine ve ABD doları değerindeki satış anlaşması değerine göre görüntüebilirsiniz. İlk bölüm, birimin veya değerin türüne göre görsel bir göstergesini vermek için hem durum hem de satış anlaşması türü ile etiketlenmiş. Ayrıca, bunları kabul etme/gerileme veya rapor için seçilen zaman dönemi içinde kazanildi/kaybedildi olarak işaretleme eylemini gerçekleştirmiş olduğu anlaşmaları belirtmek için kullanılan, geçmişteki Referanslar bölümü de vardır. Anlaşmaların yaşam döngülerinin çeşitli aşamalarındaki ilerlemesini görüntülemek için filtreler uygulayabilirsiniz.
 
-Ortak satış gelen anlaşmalar, iş ortaklarının gelen ortak satış anlaşmaları kabul etmesi veya reddetmesi için kabul edilebilir, reddedildi veya sona ermemiş olarak birleştirilemez.
+Ortak satış gelen satış anlaşmaları, iş ortaklarının gelen ortak satış anlaşmalarını Kabul Etmek veya Reddetmek zorunda olduğu için Kabul Edildi, Reddedildi veya Süresi Doldu olarak birleşebilirsiniz.
 
-:::image type="content" source="images/referrals/inbound.png" alt-text="Gelen başvuruların durumlarını gösteren resim.":::
+:::image type="content" source="images/referrals/inbound.png" alt-text="Gelen referansların durumları gösteren resim.":::
 
-İş ortakları tarafından bu tür anlaşmalar oluşturulduğu için iş ortağı LED, özel ve ortak satış giden anlaşmaları oluşturulacak şekilde birleştirilir.
+İş ortağı tarafından yönlendirilecek, Özel ve Ortak satış giden satış anlaşmaları, Bu tür satış anlaşmaları İş Ortakları tarafından oluşturulduktan sonra Oluşturuldu olarak birleşiyor.
 
-:::image type="content" source="images/referrals/outbound.png" alt-text="Giden başvuruların durumlarını gösteren resim.":::
+:::image type="content" source="images/referrals/outbound.png" alt-text="Giden referansların eyaletlerini gösteren resim.":::
 
-:::image type="content" source="images/referrals/cosell-analytics-funnel-v2.png" alt-text="Başvurular için dönüştürme huni gösteren resim.":::
+:::image type="content" source="images/referrals/cosell-analytics-funnel-v2.png" alt-text="Referanslar için dönüştürme hunisi gösteren resim.":::
 
-## <a name="deals-by-geography"></a>Coğrafya ile anlaşmalar
+## <a name="deals-by-geography"></a>Coğrafyaya göre anlaşmalar
 
-Bu bölümde, her bir ülke/bölge ile ilgili ayrıntıların yanı bilgi verilen anlaşmalar/bölgeler gösterilir. Her ülkenin işlem ayrıntılarının, tüm ülkelerin harita görünümüyle birlikte bir tablo görünümü vardır. Tablodaki belirli bir ülkeyi seçebilir veya belirli bir ülkeyi yakınlaştırmak için harita görünümünü seçebilirsiniz.
+Bu bölümde anlaşmaların geldiği ülkeler/bölgeler ve her ülke/bölgeye ilişkin ayrıntılar yer almaktadır. Her ülke için anlaşma ayrıntılarının tablo görünümü ve tüm ülkelerin harita görünümü vardır. Tabloda belirli bir ülkeyi veya harita görünümünü seçerek belirli bir ülkeyi yakınlaştırabilirsiniz.
 
-:::image type="content" source="images/referrals/cosell-analytics-geo-distribution-v2.png" alt-text="Başvuruların coğrafi dağılımını gösteren resim.":::
+:::image type="content" source="images/referrals/cosell-analytics-geo-distribution-v2.png" alt-text="Referansların coğrafi dağılımını gösteren resim.":::
 
 ## <a name="deals-by-solutions"></a>Çözümlere göre anlaşmalar
 
-Bu grafik, en fazla başvuruları ve en yüksek anlaşma değerini hangi çözümlerinizin yönlendirdiğini görmenizi sağlar. Tabloda üç Özette, ortak satış, Iş ortağı ve özel olmak üzere üç özet vardır.
-Özet seçiminize bağlı olarak, çözüme göre toplanan anlaşmalar performansını görebilirsiniz.
+Bu grafik, çözümlerinizin hangilerinin en çok referans ve en yüksek anlaşma değerine sahip olduğunu görmenizi sağlar. Tabloda üç özet vardır: Ortak satış, İş ortağı liderliğinde ve Özel.
+Özet seçiminize bağlı olarak, çözüme göre toplu anlaşmaların performansını görebilir.
 
 > [!NOTE]
-> Bir anlaşma için birden çok çözüm varsa, tablo tüm bu çözümlere karşı sayılan aynı anlaşmayı gösterir. Çözümlerle ilgili değerleri eklememelisiniz ve diğer başvuru birimi ölçümleriyle karşılaştırmamalıdır. Bu görünüm çözüm özeti ile anlaşma performansını anlamanıza yardımcı olmak için tasarlanmıştır.
+> Bir anlaşmaya birden çok çözüm dahil edilirse tabloda tüm bu çözümler için aynı anlaşma sayısı göstereceğiz. Çözümlerle ilgili değerleri eklemeli ve diğer referans hacmi ölçümleriyle karşılaştırmamalısınız. Bu görünüm çözüm özeti ile anlaşma performansını anlamanıza yardımcı olmak için tasarlanmıştır.
 
 Tabloda, çözüme dahil edilen toplam anlaşmalar ve kazanılan anlaşmalar, anlaşmalar kaybı, kaybedilen anlaşmalar ve ABD para birimi cinsinden kaybedilen anlaşmalar gibi ilgili durumlar bulunur. Ayrıca, toplam anlaşmalar sayısını gösteren tablo sağında bir anlaşmalar eğilimi grafiği ve seçilen çözüme bağlı olarak ABD Doları para biriminde kazanılan anlaşma değeri mevcuttur. Varsayılan seçim tüm çözümlerdir.
 
@@ -106,29 +104,29 @@ Anlaşma türü seçildiğinde, başvuru performansını ortak satış fırsatla
 
 ## <a name="raw-data-table"></a>Ham veri tablosu
 
-Ortak satış fırsatlarıyla ilgili tüm ham verilerin bulunduğu aşağıdaki tablo, gerçekleştirmek istediğiniz ayrıntılı veya özel analizin için verileri hızlı bir şekilde **dışa aktarmaya** yardımcı olur.
+Ortak satış fırsatlarıyla ilgili tüm ham veriler aşağıdaki tabloda, gerçekleştirmek  istediğiniz ayrıntılı veya özel analizler için verileri hızla dışarı aktarmanıza yardımcı olacaktır.
 
-:::image type="content" source="images/referrals/cosellanalyticsrawdata.png" alt-text="Başvurular için ham veri tablosunu gösteren resim.":::
+:::image type="content" source="images/referrals/cosellanalyticsrawdata.png" alt-text="Referanslar için ham veri tablosu gösteren resim.":::
 
 ## <a name="no-data"></a>Veri yok
 
-Aşağıda açıklandığı gibi ortak satış analizlerine erişirken aşağıdaki gibi boş bir grafik almanızı sağlayabilirsiniz.
+Aşağıda açıklandığı gibi Ortak satış analizine erişirken aşağıdaki gibi boş bir grafik elde edebilirsiniz.
 
-- Bu hesap için veri yok. Bu raporun doldurulduğu anlaşmalar oluşturmayı deneyin.
-- Bazı ağ bağlantısı sorunu var. İnternet bağlantınızı denetleyip yeniden deneyin.
-- Sayfa, ortak satış anlaşmaları için varsayılan filtreyle yüklenir. Yalnızca özel anlaşmalar varsa, anlaşma türü filtresini sıfırlayın.
-- Uyguladığınız filtrelerle eşleşen bir kayıt yok. Filtreleri sıfırlamayı deneyin.
-- Fırsat durumu değişikliği ve analiz raporunda aynı şekilde güncelleştirileceği bir gecikme vardır. 24 saat sonra raporu kontrol edin.
+- Bu hesap için veri yok. Bu raporun doldurulması için anlaşma oluşturmayı deneyin.
+- Bazı ağ bağlantısı sorunları var. İnternet bağlantınızı kontrol edin ve yeniden deneyin.
+- Sayfa, Ortak satış anlaşmaları için varsayılan filtreyle birlikte yüklenir. Yalnızca Özel anlaşmalar varsa anlaşma türü filtresini sıfırlayın.
+- Uygulanan filtrelerle eşleşen kayıt yoktur. Filtreleri sıfırlamayı deneyin.
+- Fırsat durumu değişikliği ile aynı değişikliğin analiz raporunda güncelleştirilmesinde bir gecikme vardır. 24 saat sonra raporu kontrol edin.
 
-:::image type="content" source="images/referrals/nodata.png" alt-text="Başvurular için veri görselleştirmesi olmadığını gösteren resim.":::
+:::image type="content" source="images/referrals/nodata.png" alt-text="Referanslar için veri görselleştirmesi olmadığını gösteren resim.":::
 
 > [!NOTE]
-> **Referanslar** içgörü sayfasında yalnızca İş Ortağı Merkezi'nde oluşturulan tavsiyelere ait veriler gösteriliyor. [Iş ortağı satış bağlantısı](psc-to-pc.md) veya diğer mekanizmalarla oluşturulan başvuruların verilerini göstermez.
+> **Referanslar** içgörü sayfasında yalnızca İş Ortağı Merkezi'nde oluşturulan tavsiyelere ait veriler gösteriliyor. İş Ortağı Satış Bağlantısı veya başka bir mekanizma aracılığıyla [oluşturulan referanslara](psc-to-pc.md) yönelik verileri göstermez.
 
 > [!TIP]
-> [Bir çözüm sağlayıcısı bulma](https://www.microsoft.com/solution-providers/home) deneyiminde iş profilinizin nasıl çalıştığını görmek için [iş profili öngörüleri sayfasını](analyze-your-marketing-profile.md)gözden geçirin.
+> İş profilinizin nasıl bir çözüm sağlayıcısı deneyimi [bul'da](https://www.microsoft.com/solution-providers/home) nasıl performans sergile olduğunu görmek için İş profili [içgörüleri sayfasını gözden geçirebilirsiniz.](analyze-your-marketing-profile.md)
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-- [Microsoft başvuruları ile işletmenizi büyütün](referrals.md)
-- [Müşteri adaylarınızı çözümleyin](analyze-your-marketing-profile.md)
+- [Microsoft referansları ile işlerinizi büyütin](referrals.md)
+- [Müşteri adaylarınızı analiz etme](analyze-your-marketing-profile.md)

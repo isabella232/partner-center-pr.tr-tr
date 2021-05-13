@@ -9,22 +9,18 @@ ms.localizationpriority: medium
 author: dhirajgandhi
 ms.author: dhgandhi
 ms.date: 02/09/2021
-ms.openlocfilehash: b21bfcae4472763c19481ad506ae1c72d238e8f0
-ms.sourcegitcommit: 26e6b470756aa9c1b3b0b919301b0eb38a335a52
+ms.openlocfilehash: 94f79762e7fabb377b8d7b559ff9ba2623b135fe
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/26/2021
-ms.locfileid: "108002917"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109856075"
 ---
 # <a name="learn-how-to-transfer-a-customers-azure-subscriptions-to-another-partner"></a>Müşterinin Azure aboneliklerini başka bir iş ortağına aktarmayı öğrenin
 
-**Şunlara uygulanır**
+**Uygulama hedefi**: Iş Ortağı Merkezi | ABD kamu için Microsoft Bulut iş ortağı Merkezi
 
-- Microsoft Cloud for US Government için İş Ortağı Merkezi
-
-**Uygun roller**
-
-- Genel yönetici
+**Uygun roller**: genel yönetici
 
 Bu makalede, bir müşterinin Microsoft Azure hizmetlerini bir bulut çözümü sağlayıcısından (CSP) bir başkasına nasıl geçbir şekilde bir şekilde nasıl bir şekilde bir
 
@@ -53,28 +49,28 @@ Müşterinin Azure hizmetlerini veya aboneliklerini farklı bir ortağa geçirme
    
    4. Adım 1 ' de, sorun türü olarak **Abonelik yönetimi** ' ni seçin, aktarılmasını ISTEDIĞINIZ abonelik kimliğini belirtin ve destek planı olarak **bulut çözümü sağlayıcısı** ' nı seçin.
    
-   5. 2. adımda, **C-en az etkisi** ' nı seçin ve sorun türü olarak **diğer genel sorular** ' ı seçin.
+   5. 2. Adım'da **C-Minimum etki'yi seçin** ve sorun **türü olarak Diğer Genel** Sorular'ı seçin.
    
-   6. [CSP abonelik aktarma formunu](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWwTWC)indirin.
+   6. [CSP Abonelik Aktarımı formunu indirin.](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWwTWC)
 
-3. Abonelik için iş ortağı: [CSP abonelik aktarımı formunu](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWwTWC)doldurup imzalayın ve müşteriye gönderin. 
+3. Aboneliğin iş ortağı: CSP Abonelik Aktarımı [formunu doldurun,](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWwTWC)imzalar ve müşteriye gönderin. 
 
-   Formu doldurmanız için aşağıdaki bilgilere ihtiyacınız vardır:
+   Formu doldurmak için aşağıdaki bilgilere ihtiyacınız olacak:
 
-   - Geçerli ortağın iletişim bilgileri ve Microsoft KIMLIĞI. İş Ortağı Merkezi menüsünde **Hesap ayarları** &gt; **kuruluş profili**' ni seçin ve burada listelenen **Microsoft kimliği**, **kuruluş adı** ve **adresi** kullanın.
+   - Geçerli iş ortağının iletişim bilgileri ve Microsoft kimliği. Bu İş Ortağı Merkezi Hesap ayarları Kuruluş  profili'ne tıklayın ve burada listelenen &gt;  **Microsoft Kimliği,** **Kuruluş** adı ve **Adres'i** kullanın.
 
-   - Müşterinin Microsoft KIMLIĞI. Iş Ortağı Merkezi menüsünde **müşteriler**' i seçin ve **Microsoft kimliklerini** görmek için müşterinin listesini genişletin.
+   - Müşterinin Microsoft kimliği. Bu İş Ortağı Merkezi Müşteriler'i **seçin,** ardından müşterinin listesini genişleterek Microsoft kimliğini **açın.**
 
-   - Aktarılacak abonelik KIMLIĞI. Genişletilmiş müşteri listesinde, **abonelikleri görüntüle**' yi seçin ve ardından **abonelik kimliğini** görmek için seçilen aboneliği genişletin.
+   - Aktarıla abonelik kimliği. Genişletilmiş müşteri listelemesinde Abonelikleri **Görüntüle'yi seçin** ve ardından abonelik kimliğini görmek için seçilen **aboneliği genişletin.**
 
    >[!Note]
-   >Abonelik aktarma işlemi, aktarılan aboneliğin **abonelik düzenleme** sayfasında göreceğiniz Iki abonelik kimliğiyle sonuçlanır: **1**-Iş Ortağı Merkezi abonelik kimliği Faturalandırma amacıyla kullanılır. **2**-özgün Azure abonelik kimliği korunur ve Azure yönetim portalı 'nda olduğu gibi Iş Ortağı Merkezi 'nde de görüntülenir. Bu KIMLIK, keşfi dosyanızda görünür.  **Destek biletlerini günlüğe kaydederken, her iki kimliği de kullanmanız gerekir.**
+   >Bir aboneliğin aktarılması, aktarılan aboneliğin Aboneliği Düzenle  sayfasında göreceğiniz iki abonelik kimliğiyle sonuç verir: **1**- İş Ortağı Merkezi Abonelik Kimliği faturalama amacıyla kullanılır. **2**- Özgün Azure Abonelik Kimliği korunur ve hem İş Ortağı Merkezi Azure Yönetim portalında görünür. Bu kimlik, mutabakat dosyanız içinde görünür.  **Destek biletlerini günlüğe kaydetmeniz için her iki kimlik de kullan gerekir.**
 
 4. Abonelik için müşteri ve yeni iş ortağı:
 
-   Formu gözden geçirin, yeni iş ortağı hakkındaki bilgileri girin ve imzalayın. Yeni müşterinin bir sözleşme anlaşması olduğunu onaylayın. Formu geçerli kayıt iş ortağına geri gönderin.
+   Formu gözden geçirme, yeni iş ortağıyla ilgili bilgileri doldurma ve imzalama. Yeni müşterinin sözleşme anlaşması olduğunu onaylayın. Formu kaydın geçerli iş ortağına geri gönderin.
 
-   *Önemli*: yeni CSP ortağının müşteriyle bir satıcı ilişkisi yoksa, abonelik aktarılmadan önce bir tane kurması gerekir. [Bunun nasıl yapılacağı hakkında daha fazla bilgi edinmek için burada bulabilirsiniz](request-a-relationship-with-a-customer.md).
+   *Önemli:* Yeni CSP İş Ortağının müşteriyle kurumsal bayi ilişkisi yoksa, abonelik aktarılamadan önce bir tane kurması gerekir. [Bunu nasıl yapacaksınız hakkında burada bilgi bulabilirsiniz.](request-a-relationship-with-a-customer.md)
 
    >[!Note]
    >Yeni CSP iş ortağı ve müşteri kiracının aynı ülkede olması gerekir. 
@@ -104,17 +100,17 @@ Müşterinin Azure hizmetlerini veya aboneliklerini farklı bir ortağa geçirme
 
 7. Eski erişim izinlerini kaldır:
 
-   - Iş Ortağı Merkezi menüsünde **müşteriler**' i seçin.
-   - Listedeki müşteriyi bulun. Şirket adlarını seçin (çift tıklayın). Bu eylem, müşteri **abonelikleri** sayfasını açar.
-   - Müşteri ayrıntısı menüsünde **hizmet yönetimi**' ni seçin.
-   - **Microsoft Azure**' ın altında, **Microsoft Azure yönetim portalı** gitmek için bağlantıyı seçin.
+   - Veri İş Ortağı Merkezi Müşteriler'i **seçin.**
+   - Listede müşteriyi bulun. Şirket adını seçin (çift tıklayın). Bu eylem müşteri **Abonelikleri sayfasını** açar.
+   - Müşteri ayrıntıları menüsünde Hizmet **yönetimi'ne tıklayın.**
+   - Bu **Microsoft Azure** altında, öğesinin altına gitmek için **Microsoft Azure Yönetim Portalı.**
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-- [CSP abonelik aktarma formunu](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ATIA)indirin.
+- [CSP Abonelik Aktarımı formunu indirin.](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4ATIA)
 
-- [Çoklu iş ortağı desteği](multipartner.md)hakkında bilgi edinin.
+- Çoklu iş [ortağı desteği hakkında bilgi.](multipartner.md)
 
-- [Çoklu iş ortağı desteği](multipartner.md).
-- [Çoklu kanal desteği](multichannel.md).
+- [çoklu iş ortağı desteği.](multipartner.md)
+- [çoklu kanal desteği.](multichannel.md)
 - [Azure aboneliklerini aktarma](/azure/cost-management-billing/manage/transfer-subscriptions-subscribers-csp)

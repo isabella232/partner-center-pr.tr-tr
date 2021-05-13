@@ -4,45 +4,43 @@ ms.topic: article
 ms.date: 10/28/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
-description: Kayıt (CPOR) modelinin talep ortağı ile müşteri ilişkilendirmeleri oluşturun. Microsoft 365 & Dynamics 365 müşterileri için Sales, Usage, teşvikleri yönetimine yardımcı olur.
+description: Talepte Bulunan Kayıtlı İş Ortağı (CPOR) modeliyle müşteri ilişkilendirmeleri oluşturun. Dynamics 365 müşterileri için satış, Microsoft 365 & teşviklerin yönetimine yardımcı olur.
 author: MalloryPrincipe
 ms.author: mallp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7a7e3ed40dcc6b1248f008201bff667a9eb9a0f8
-ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
+ms.openlocfilehash: 9526a47d0b6d734bde48f403c11fa84d734511c1
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "105028324"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109856109"
 ---
-# <a name="customer-associations-via-the-claimed-partner-of-record-cpor-model-for-microsoft-365-and-dynamics-365"></a>Microsoft 365 ve Dynamics 365 için Istenen kayıt ortağı (CPOR) modeli aracılığıyla müşteri ilişkilendirmeleri
+# <a name="customer-associations-via-the-claimed-partner-of-record-cpor-model-for-microsoft-365-and-dynamics-365"></a>Microsoft 365 ve Dynamics 365 için Kayıt Talebi İş Ortağı (CPOR) modeli aracılığıyla müşteri ilişkilendirmeleri
 
 
-**Uygun roller**
+**Uygun roller:** Teşvikler yöneticisi
 
-- Teşvikleri Yöneticisi
-
-Microsoft, 1 Ekim 2019 ' de, sahip olduğunuz ilişkileri yönetmek için kayıt ortağı Iş ortağı (CPOR) modelini kullanarak, çevrimiçi hizmetler danışmanlığı (OSA) satışı, çevrimiçi hizmetler kullanımı (OSU)-Microsoft 365 ve OSU-Business Application teşvikleri ile ilgili 365 Microsoft 365.
+1 Ekim 2019'da Microsoft, Çevrimiçi Hizmetler Danışmanlığı (OSA) Satış, Çevrimiçi Hizmet Kullanımı (OSU)-Microsoft 365 ve OSU-Business Uygulama teşvikleri konusunda Microsoft 365 ve Dynamics 365 müşterilerinizle olan ilişkilendirmelerinizi yönetmek için Talepte Bulunan Kayıtlı İş Ortağı (CPOR) modelini kullanmaya başladı.
 
 >[!Important]
-> Müşteri Birliği (CPOR) talepleri yalnızca çevrimiçi hizmetler Danışma belgesi (OSA) satışı, çevrimiçi hizmetler kullanımı (OSU)-Microsoft 365 ve OSU-Business uygulama teşvik programları için geçerlidir. Bulut çözümü sağlayıcısı, yönetilen satıcı, barındırma veya yüzey gibi başka bir program için bir ortak op talebi gönderiyorsanız, lütfen burada özetlenen ortak op talep işlemine bakın. <br><br>Talep gönderdiğinizde, Microsoft onu doğrular. Bu noktada daha fazla bilgi isteyeceğiz. İlişki isteğinizin müşterisini de bilgilendireceğiz. Müşterilerin kabul etmek için beş iş günü vardır. Devre dışı kalmazsanız, bu belirli kiracı ve iş yüküyle olan ilişkilendirmeniz resmi olur. Bu noktada müşterinin kullanım verilerine erişebilirsiniz. 
+> Müşteri İlişkisi (CPOR) talepleri yalnızca Çevrimiçi Hizmetler Danışmanlığı (OSA) Satış, Çevrimiçi Hizmet Kullanımı (OSU)-Microsoft 365 ve OSU-Business Uygulama teşvik programları için geçerlidir. Bulut Çözümü Sağlayıcısı, Managed Reseller, Hosting veya Surface gibi başka bir program için ortak çalışma talebi göndererek burada açıklanan Ortak çalışma talep süreci'ne bakın. <br><br>Talebinizi gönderdiğinizde Microsoft bunu doğrular. Bu noktada sizden daha fazla bilgi istememiz gerekir. Ayrıca ilişkilendirme isteğinizi müşteriye bildirerek. Müşterilerin geri almak için beş iş günü vardır. Kabul etmezlerse, bu kiracıyla ve iş yüküyle olan ilişkilendirmeniz resmi olur. Bu noktada müşterinin kullanım verilerine erişebilirsiniz. 
 
-Bir talebi tamamlayabilmeniz için aşağıdaki bilgilere ihtiyacınız vardır:
+Talebi tamamlamak için aşağıdaki bilgilere ihtiyacınız olacak:
 
-- Varlığınızın, talebi yapan **MPN kimliği**
+- Talebi **yapan varlığınız** için MPN kimliği
 
-- Müşterinin **etki alanı adı** [bunu bulun](find-ids-and-domain-names.md)
+- Müşterinin etki **alanı adı** Bunu [bulun](find-ids-and-domain-names.md)
 
-- Müşterinin **DIZIN kimliği** veya **Kiracı kimliği** şunu [bulun](find-ids-and-domain-names.md)
+- Müşterinin Dizin **Kimliği veya** Kiracı **Kimliği** Bunu [bulun](find-ids-and-domain-names.md)
 
-- Business Applications veya Microsoft 365 gibi **çözüm alanı**
+- Çözüm **alanı**, örneğin Business Applications veya Microsoft 365
 
-- Gerçekleştirdiğiniz **etkinlik** ve satış öncesi, kullanım veya gelir ilişkisi gibi yapmak istediğiniz talep türü
+- **Gerçekleştirilen** Etkinlik ve satış öncesi, Kullanım veya Gelir ilişkilendirmesi gibi yapmak istediğiniz talep türü
 
-- Müşterinizin **kişi adı**, başlığı ve e-posta adresi
+- Müşterinizin Kişi **adı,** başlığı ve e-posta adresi
 
-- Dynamics 365 için Ayrıca müşterinizin **teknik iletişim** adı, başlığı ve e-posta adresini sağlamanız gerekir
+- Dynamics 365 için müşterinizin Teknik iletişim  adını, başlığını ve e-posta adresini de sağlayabilirsiniz
 
 - Kendi şirketinizin **kişi adı** ve e-posta adresi
 

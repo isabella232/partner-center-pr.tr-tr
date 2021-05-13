@@ -9,20 +9,16 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: deda7a351c79636dfb11c002810a8510782aca6d
-ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
+ms.openlocfilehash: b1d5f415680cad8466da631a68fb6249a5298a2d
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "108284460"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855990"
 ---
 # <a name="move-license-based-customers-from-other-channels--partners-to-the-cloud-solution-provider-program"></a>Lisans tabanlı müşterileri diğer kanallara & iş ortaklarından bulut çözümü sağlayıcısı programına taşıyın
 
-**Uygun roller**
-
-- Hesap yöneticisi
-- Satış Aracısı
-- Faturalandırma Aracısı
+**Uygun roller**: Hesap Yöneticisi | Satış Aracısı | Faturalandırma Aracısı
 
 Müşteriniz birden çok iş ortağı sağlamak, aboneliklerini başka bir ortağa aktarmak veya başka bir yerde satın alınan aboneliklerinizi yönetmek isterse, bunları el ile taşıyabilirsiniz. Ayrıca, müşterileri başka bir kanaldan Iş ortağı merkezine de taşıyabilirsiniz.
 
@@ -39,18 +35,18 @@ Müşteriniz birden çok iş ortağı sağlamak, aboneliklerini başka bir orta�
    >Müşteri, Microsoft 365 (M365) Yönetici portalı üzerinden satın aldıklarında (örneğin, aylık veya yıllık doğrudan Microsoft 'tan faturalandırma) kredi için uygun olabilir. Doğrudan Microsoft 'tan satın alınan aboneliklerin kredileri, **M365 faturalandırma desteği** tarafından işlenir. [M365 aboneliğinizi iptal etme](/microsoft-365/commerce/subscriptions/cancel-your-subscription)hakkında M365 rehberlik bölümüne bakın. Müşteri için yönetici ayrıcalıklarına sahipseniz, müşterinizin adına M65 desteği ile iletişime başvurabilirsiniz. Aksi takdirde, lütfen müşterinizin ne kadar kredi olduğunu ve bu kredilerin bunlara nasıl verildiğine ilişkin bilgi edinmek için doğrudan M365 destek 'e başvurmasını isteyin. [Yönetici ayrıcalıkları Temsilcili](customers-revoke-admin-privileges.md)hakkında bilgi edinin.
 
 
-4. Müşteri daha sonra kesintiye uğramadan sağladığınız aboneliklerle ileri devam edecektir.
+4. Daha sonra müşteri, kesintisiz olarak sağmış olduğunuz aboneliklerle devam eder.
 
-Müşterinizin kullandığı tekliflerle aynı teklifleri sağladıysanız, lisansların yeniden atanması gerekmez ve son kullanıcılara kesinti olmaz. Veri kaybı olmamasını sağlamak için tekliflerin aynı olması gerekir. Toplam lisans sayısı aynı kaldığı ve teklif eşit olduğu sürece müşterilerinizin etkisi olmaz.
+Müşterinizin sunduğu tekliflerin aynısını sağlarsanız lisansları yeniden atamanıza gerek yoktur ve son kullanıcılarda kesinti olmaz. Veri kaybı olmamasını sağlamak için tekliflerin aynı olması gerekir. Toplam lisans sayısı aynı olduğu ve teklifin eşdeğer olduğu sürece müşterileriniz herhangi bir etki hissetmez.
 
 Kullanımdan kaldırılmış tekliflere sahip müşterileri aktarırsanız veri kaybını önlemek için eşdeğer bir teklif bulmanız gerekir. Müşteriyi farklı bir teklife taşırsanız lisans atamasını güncelleştirmeniz gerekir.
 
 >[!NOTE]
-> CSP iş ortağı, müşterinin sizin için geçiş yapması için müşterinin kiracısıyla aynı bölgede olmalıdır.
+> CSP iş ortağı olarak, bu müşteriyi size geçiş yapmak için müşteri kiracısı ile aynı bölgede yer alasiniz.
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-- [Azure planıyla Kullandıkça Öde tarifesine kadar kullanmaya başlayın](azure-plan-get-started.md)
+- [Azure planıyla kullansanız öde ücretlerini kullanmaya başlama](azure-plan-get-started.md)
  
 
-- [İş Ortağı Merkezi 'nde diğer iş ortaklarıyla çalışabilmeniz için farklı yollar](work-with-other-partners.md)
+- [İş ortaklarıyla çalışmanın farklı yolları İş Ortağı Merkezi](work-with-other-partners.md)

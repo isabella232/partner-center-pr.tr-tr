@@ -4,41 +4,39 @@ ms.topic: article
 ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Iş Ortağı Merkezi 'nde kazandığınızı bir anlaşmayı kaydettiğinizde, Microsoft 'un gelecekte daha fazla fırsat sağlamasına yardımcı olur.
+description: Bu anlaşmada kazan kazanarak İş Ortağı Merkezi, Microsoft'un gelecekte size daha fazla fırsat sağlamanıza yardımcı olur.
 author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 96c0b320850b4ee648e98fc5da97d9f25faaf405
-ms.sourcegitcommit: f8fd51e1acdbfafdde86d6490bade66c63033ebd
+ms.openlocfilehash: 8f8b3a086f968ed00deefa718d3abc18223ba600
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108172446"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855752"
 ---
-# <a name="register-deals-youve-won-in-partner-center-so-you-can-get-more-opportunities-later"></a>Daha sonra daha fazla fırsat alabilmeniz için Iş Ortağı Merkezi 'nde kazandığı anlaşmaları kaydedin
+# <a name="register-deals-youve-won-in-partner-center-so-you-can-get-more-opportunities-later"></a>Daha sonra daha fazla fırsat elde İş Ortağı Merkezi için İş Ortağı Merkezi anlaşmaları kaydetme
 
-**Uygun roller**
+**Uygun roller:** Referans yöneticisi
 
-- Başvuru Yöneticisi
+Anlaşma hakkında daha fazla bilgi sağlayarak İş Ortağı Merkezi anlaşmaları kaydedebilirsiniz. Bu bilgiler gelecekte size daha fazla fırsat sağlamamıza yardımcı olur.
 
-Sözleşme hakkında ek bilgiler sunarak, Iş Ortağı Merkezi 'nde kazanılan anlaşmaları kaydedebilirsiniz. Bu bilgiler ileride daha fazla fırsat sağlamanıza yardımcı olur.
+Belirli uygun çözümler için referans yanıt [](manage-leads.md) **sürecinde Kazan'ı** seçmenizin ardından anlaşmanızı kaydetmek için ek bilgi sağlamanız istenecek. Microsoft, size sağilen bilgileri gözden geçirecek ve inceleme işlemi sırasında ek ayrıntılar sorabilir.
 
-Belirli uygun çözümler için, [başvuru yanıt Işleminde](manage-leads.md) **kazanıldı** ' ı seçtikten sonra, sizden anlaşmayı kaydetmek için ek bilgiler sağlamanız istenecektir. Microsoft, sağladığınız bilgileri gözden geçirir ve gözden geçirme işlemi sırasında ek ayrıntılar isteyebilir.
+Ayrıca, bir referans aracılığıyla kaynaklansa bile çözümlerinizi kullanan yeni anlaşmaları da [kaydederek kazanacaksınız.](referrals.md) 
 
-Ayrıca, bir [başvuruya](referrals.md)ait olmasalar bile, çözümlerinizin birini kullanan yeni anlaşmalar da kaydedebilirsiniz. 
+## <a name="register-a-new-deal"></a>Yeni bir anlaşma kaydetme
 
-## <a name="register-a-new-deal"></a>Yeni bir anlaşma Kaydet
+Yeni bir anlaşma kaydetmek için Referanslar ve Anlaşma **kayıtları> a gidin > Eylem gerekiyor'a gidin** ve **+Yeni anlaşma'ya tıklayın.**
 
-Yeni bir anlaşma kaydetmek için, **başvurular > işleme kayıtları > eylem gereklidir** ve **+ Yeni anlaşma**' i seçin.
+Yeni **anlaşma sayfasında** aşağıdaki bilgileri ekleyin.
 
-**Yeni işlem** sayfasında, aşağıdaki bilgileri sağlayın.
-
-- **Müşteri ayrıntıları**: Müşterinizin **şirket adını** girin ve **ülke/bölge** değerlerini seçin. Ardından, **şehir** ve **Eyalet/bölge** değerlerini girin.
-- **Çözüm**: anlaşma için kullanılacak çözümü seçin. Doğru çözümü listede görmüyorsanız desteğe başvurun.
-- **Anlaşma türü**: bunun **Yeni** bir sözleşme olup olmadığını veya önceki bir sözleşmenin **yenilenmesini** belirtin.
-- **Toplam anlaşma değeri**: katılım için beklenen toplam değer. Bu, tüm yazılım ve hizmet ücretlerini içermelidir, ancak donanım maliyetlerini içermez. Uygun para birimini seçtiğinizden emin olun.
-- **Çözüm değeri**: Bu işlem için kullanılacak bulut çözümünün toplam değeri. Yazılım ve bakım ücretleri ile ilişkili tüm maliyetleri eklediğinizden, ancak Microsoft tarafından ödenen reimbursable öğelerini, tekrarsız özelleştirme ücretlerini veya doğrudan ilişkili CSP lisans ücretlerini eklemeyin.
+- **Müşteri ayrıntıları:** **Müşterinizin Şirket** adını girin ve **Ülke/Bölge olarak seçin.** Ardından şehirlerini **ve** **eyaletlerini/bölgelerini girin.**
+- **Çözüm:** Anlaşma için kullanılacak çözümü seçin. Doğru çözümü listede görmüyorsanız de destekle iletişime geçin.
+- **Sözleşme türü:** Bunun Yeni anlaşma mı **yoksa** önceki bir **sözleşmenin Yenilemesi** mi olduğunu belirtin.
+- **Toplam sözleşme değeri:** Katılım için beklenen toplam değer. Bu, tüm yazılım ve hizmet ücretlerini içermeli, ancak donanım maliyetlerini içermemektedir. Uygun para birimini seçmeyi emin olun.
+- **Çözüm değeri:** Anlaşma için kullanılacak bulut çözümünün toplam değeri. Yazılım ve bakım ücretleri ile ilişkili tüm maliyetleri eklediğinizden, ancak Microsoft tarafından ödenen reimbursable öğelerini, tekrarsız özelleştirme ücretlerini veya doğrudan ilişkili CSP lisans ücretlerini eklemeyin.
 - **Dağıtım tarihi**: **Azure** veya **başka** birini seçin.
 - **Çözüm nereye dağıtılacak?**: **Müşteri kiracısını** veya **iş ortağı kiracısını** seçin.
 - **Sözleşme başlangıç tarihi**: sözleşmenin başlayacağı tarih. Kullandıkça Öde (PAYG) anlaşmaları için ilk faturanın tarihini kullanın.
@@ -56,14 +54,14 @@ Yeni, etkin ve kapalı anlaşma kayıtlarını farklı sayfalarda **> anlaşma k
 
 ### <a name="action-required"></a>Eylem gerekiyor
 
-**> anlaşma kayıtları > eylem gerekiyor** sayfasında, henüz kaydedilmemiş veya güncelleştirme gerektiren yeni kayıtlar görürsünüz. Filtreleri yalnızca **eksik** veya **gerekli** anlaşma kayıtlarını görüntülemek için kullanabilirsiniz. **Tamamlanmamış** anlaşma kayıtları, başvurulardan kaynaklanan, ancak henüz kaydedilmemiş olan kayıtlardır. **Güncelleştirme gerekli** anlaşma kayıtları oluşturulup kaydolmuşlardır, ancak verdiğiniz bilgileri güncelleştirmeniz gerekir.
+Referanslar **> Anlaşma kayıtları > Eylem** gerekli sayfasında henüz kayıtlı veya güncelleştirme gerektirmiş yeni kayıtları görebilirsiniz. Filtreleri kullanarak yalnızca Eksik veya Güncelleştirme **gerekli** anlaşma **kayıtlarını** gösterebilirsiniz. **Eksik** anlaşma kayıtları, referanslardan kaynaklanan ancak henüz kayıtlı olan anlaşma kayıtlarıdır. **Güncelleştirme gerekli** anlaşma kayıtları, oluşturulan ve kaydedilen kayıtlardır, ancak sağladığınız bilgileri güncelleştirmeniz gerekir.
 
 ### <a name="in-progress"></a>Sürüyor
 
-**> anlaşma kayıtları > devam ediyor** sayfasında, Microsoft 'un gözden geçirdikleri anlaşma kayıtlarını görürsünüz. Daha fazla bilgiye ihtiyacımız varsa, verdiğiniz **kayıt iletişim** bilgilerini kullanacağız.
+Referanslar **> Anlaşma kayıtları >** Devam Ediyor sayfasında, Microsoft'un gözden geçirmekte olduğu anlaşma kayıtlarını görebilirsiniz. Daha fazla bilgiye ihtiyacımız olursa, sağladığınız **Kayıt iletişim** bilgilerini kullaneceğiz.
 
-Herhangi bir bilginin güncelleştirilmesi gerekiyorsa, **işlem kaydını eylem gerekli** sayfasına taşıyabiliriz.
+Herhangi bir bilgi güncelleştirilebilirse, anlaşma kaydını Eylem gerekiyor **sayfasına taşıyabilirsiniz.**
 
 ### <a name="closed"></a>Kapatıldı
 
-**> anlaşma kayıtları > kapalı** sayfasında, Microsoft tarafından başarıyla kaydedilen ve gözden geçirilmiş anlaşmalar görürsünüz. Filtreleri yalnızca **onaylanmış** veya **reddedilmiş** anlaşma kayıtlarını göstermek için kullanabilirsiniz.
+Referanslar **> Anlaşma kayıtları >** Kapalı sayfasında, Microsoft tarafından başarıyla kaydedilen ve gözden geçirılan anlaşmaları görebilirsiniz. Filtreleri yalnızca Onaylanan veya Reddedilen **satış anlaşmalarını** **göstermek** için kullanabilirsiniz.
