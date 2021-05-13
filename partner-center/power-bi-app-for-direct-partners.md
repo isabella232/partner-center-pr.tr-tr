@@ -10,23 +10,18 @@ author: v-sumukh
 ms.author: v-sumukh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: edc6469693e8dc8dcc93f9a4df66c9a232b29738
-ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
+ms.openlocfilehash: 28fb6e9a963228f45a927089e0bb8ae3ecd452ff
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/27/2021
-ms.locfileid: "105633684"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109854545"
 ---
 # <a name="overview-and-faqs-for-the-partner-center-analytics-app-for-power-bi-direct-partners-in-csp"></a>Power BI için Partner Center Analytics uygulamasına genel bakış ve SSS (CSP 'de doğrudan iş ortakları)
 
 
 
-**Uygun roller**
-
-- Genel yönetici
-- Kullanıcı Yönetimi Yöneticisi
-- Satış Aracısı
-- Yönetim Aracısı
+**Uygun roller**: genel yönetici | Kullanıcı Yönetimi Yöneticisi | Satış Aracısı | Yönetim Aracısı
 
 Power BI için Partner Center Analytics uygulamasıyla iş verilerinizin görsel bir temsilini alın. Bulut çözüm sağlayıcısı programı 'nda (CSP) doğrudan iş ortakları için tasarlanan uygulama tanıdık Power BI çerçevesine takar.
 
@@ -52,13 +47,13 @@ Uygulamayı yüklemeden önce sık sorulan soruların yanıtlarını incelemeniz
 | **Soru** | **Yanıt** |
 | --- | ---------- |
 | Uygulamanın maliyeti nedir? | Uygulamanın kendisi ücretsizdir. Uygulamayı önizlemek için, [ücretsiz Power BI hizmeti kaydolabilir](https://go.microsoft.com/fwlink/p/?linkid=845347) ve panoları ve raporları özelleştirmek için kullanabilirsiniz. Şirketinizdeki başkalarının uygulamayı kullanmasına izin vermek için, Microsoft Power BI Professional veya Microsoft Power BI Premium için etkin bir aboneliğiniz olması gerekir. |
-| Iş Ortağı Merkezi Analytics uygulamasına kimler bağlanabilir? | Uygulamanın bu sürümü, bulut çözümü sağlayıcısı programındaki doğrudan iş ortakları (Katman 1) için tasarlanmıştır. Doğrudan Microsoft ve müşterilerle iş yapıyorsanız doğrudan bir iş ortağıyız. Uygulamayı yüklemek için şirketinizin hesabı için bir genel yönetici, yönetici Aracısı veya faturalama yöneticisi olmanız gerekir. |
-| Bir dolaylı sağlayıcıyım; uygulamayı kullanabilir miyim? | Evet. Genel yönetici, yönetici Aracısı veya faturalandırma yöneticiniz uygulamayı yükleyebilir ve doğrudan müşterilerinizle ilgili verileri görebilir. Gelecekteki yayınlar, dolaylı satıcılarınız hakkındaki verileri de görmenizi sağlayacak özellikler içerebilir. |
-| Gelecek sürümler hakkında nasıl bilgi edinebilirim? | Duyurular ve önizleme sürümleri Iş Ortağı Merkezi erken benimseyen programı aracılığıyla sunulur. Geri bildiriminizi erken benimseyen programı aracılığıyla da paylaşabilirsiniz. Zaten programa katılmadıysanız, nasıl katılacağınızı öğrenin. Bkz. [Iş Ortağı Merkezi API 'si ve SDK erken benimseyen programına ekleme](/partner-center/develop/early-adopter-program).  |
-| Uygulamadaki panoları ve raporları kimler özelleştirebilir? | Yalnızca uygulamayı yükleyen genel yönetici, yönetici Aracısı veya faturalandırma Yöneticisi panoyu özelleştirebilir veya Power BI web arabiriminde yeni raporlar oluşturabilir. |
-| Uygulamada panoları ve raporları kim görebilir? | Uygulamayı yükleyen genel yönetici, yönetici Aracısı veya faturalandırma Yöneticisi, uygulamanın verilerini Microsoft Power BI Professional veya Microsoft Power BI Premium etkin aboneliğine sahip herkesle paylaşabilir. |
-| Birden çok Azure AD kiracısından gelen verileri konumlar arasında görüntülemek için uygulamayı kullanabilir miyim? | Bu sürümle birlikte, yalnızca genel yönetici veya yönetici aracılarınızın ' de oturum açmış olduğu Azure AD kiracısındaki verileri görüntüleyebilirsiniz. | 
-| Uygulama ne zaman ek dillerde kullanılabilir olacaktır? | Yol haritası duyuruları Iş Ortağı Merkezi erken benimseyen programı aracılığıyla serbest bırakılır. Zaten programa katılmadıysanız, şimdi ' de kaydolun [https://partnercenter.microsoft.com/partner/early-adopter-program](https://partnercenter.microsoft.com/partner/early-adopter-program) . Geri bildiriminizi erken benimseyen programı aracılığıyla da paylaşabilirsiniz. | 
+| Iş Ortağı Merkezi Analytics uygulamasına kimler bağlanabilir? | Uygulamanın bu sürümü, bulut çözümü sağlayıcısı programındaki doğrudan iş ortakları (Katman 1) için tasarlanmıştır. Doğrudan Microsoft ve müşterilerle iş yapmak için doğrudan iş ortağı olursanız. Uygulamayı yüklemek için, şirket hesabı için genel yönetici, yönetici aracısı veya faturalama yöneticisi olmak gerekir. |
+| Dolaylı sağlayıcıyım; Uygulamayı kullanabilir miyim? | Evet. Genel yöneticiniz, yönetici temsilciniz veya faturalama yöneticiniz uygulamayı yükleyebilir ve doğrudan müşterilerinizle ilgili verileri görebilir. Gelecek sürümlerde dolaylı kurumsal bayilerle ilgili verileri de görmenizi sağlayacak özelliklere sahip olabilir. |
+| Gelecek sürümler hakkında nasıl bilgi öğrenebilirim? | Duyurular ve önizleme sürümler, erken benimseyen İş Ortağı Merkezi aracılığıyla kullanılabilir. Geri bildiriminizi erken benimseyen program aracılığıyla da paylaşabilirsiniz. Programa henüz katılmadısanız katılmayı öğrenin. Bkz. [İş Ortağı Merkezi API'sini ve SDK Erken Benimseyen Programına Katılma.](/partner-center/develop/early-adopter-program)  |
+| Uygulamanın panolarını ve raporlarını kimler özelleştirilebilir? | Yalnızca uygulamayı yüken genel yönetici, yönetici aracısı veya faturalama yöneticisi panoyu özelleştirilebilir veya web arabiriminde Power BI oluşturabilir. |
+| Uygulamanın panolarını ve raporlarını kimler görüntüleyebilirsiniz? | Uygulamayı yüken genel yönetici, yönetici aracısı veya faturalama yöneticisi, uygulamanın verilerini Microsoft Power BI Professional veya Microsoft Power BI Premium aboneliği olan herkesle paylaşabilir. |
+| Uygulamayı kullanarak birden çok Azure AD kiracısına ve farklı konumlara yönelik verileri görüntülemeye yardımcı olabilir miyim? | Bu sürümle birlikte, yalnızca genel yönetici veya yönetici aracınız tarafından oturum açık olan Azure AD kiracısı verilerini görüntüebilirsiniz. | 
+| Uygulama ne zaman ek dillerde kullanılabilir olacak? | Yol haritası duyuruları, erken benimseyen İş Ortağı Merkezi programı aracılığıyla yayımlar. Programa henüz katılmadısanız, şimdi de bu programa [https://partnercenter.microsoft.com/partner/early-adopter-program](https://partnercenter.microsoft.com/partner/early-adopter-program) kaydolabilirsiniz. Geri bildiriminizi erken benimseyen program aracılığıyla da paylaşabilirsiniz. | 
 
 
 

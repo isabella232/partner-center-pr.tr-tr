@@ -2,46 +2,44 @@
 title: Müşteriler için Azure harcama bütçesi ayarlama
 ms.topic: how-to
 ms.date: 03/17/2021
-description: Müşterileriniz için aylık Azure harcama bütçelerini ayarlamayı veya kaldırmayı ve ayrıca Azure harcama verilerini görüntülemeyi ve bütçeye ilişkin bildirimleri ayarlamayı öğrenin.
+description: Müşterileriniz için aylık Azure harcama bütçeleri ayarlamayı veya kaldırmayı ve ayrıca Azure harcama verilerini görüntülemeyi ve bütçeyle ilgili bildirimleri ayarlamayı öğrenin.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: eaf54898d7a130ca38e5a2aaeba279fb722c9e66
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: 14e901f51841e58b28a3cbbb1b7a19ce89d7c324
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712758"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855361"
 ---
-# <a name="set-check-or-remove-monthly-azure-spending-budgets-for-customers-in-partner-center"></a>Iş Ortağı Merkezi 'nde müşterilere yönelik aylık Azure harcama bütçelerini ayarlama, denetleme veya kaldırma
+# <a name="set-check-or-remove-monthly-azure-spending-budgets-for-customers-in-partner-center"></a>Azure'daki müşteriler için aylık Azure harcama bütçelerini ayarlama, denetleme veya İş Ortağı Merkezi
 
-**Uygun roller**
+**Uygun roller:** Yönetici aracısı
 
-- Yönetim Aracısı
-
-Iş Ortağı Merkezi 'nde [müşterileriniz için aylık bir Azure harcama bütçesi ayarlayabilirsiniz](#set-azure-spending-budget) . Bu, müşterilerinizin Azure harcamalarını yönetmesine yardımcı olur. Bu seçenek, müşterilerinizin aylık dönemi boyunca Azure harcamalarınızı bütçenize göre karşılaştırmanızı sağlar. Ayrıca, müşterilerinizin aylık faturanız düşünenden daha yüksek olmaması için Azure harcamalarını bütçelerinize de yardımcı olur.
+[Azure'da müşterileriniz için aylık Bir Azure harcama bütçesi](#set-azure-spending-budget) İş Ortağı Merkezi. Bu, müşterilerinize Azure harcamalarını yönetmeye yardımcı olur. Bu seçenek, müşterinizin Azure harcamalarını ay boyunca bütçeyle karşılaştırmanızı sağlar. Ayrıca, müşterilerin aylık faturalarının beklenenden yüksek olması için Azure harcamaları için bütçelerini düzenlemelerine de yardımcı olur.
 
 > [!NOTE]  
-> Bu özellik korumalı alanda veya üretimde test (tıp) hesaplarında kullanılamaz.
+> Bu özellik korumalı alan veya Üretimde Test (TIP) hesaplarında kullanılamaz.
 
-Müşterilerinizin [Azure harcama bütçesini ayarladıktan](#set-azure-spending-budget)sonra, müşteri kullanımını aşağıdaki yollarla da gözden geçirebilirsiniz. Bu seçenekler, yanlış yapılandırılmış Hizmetleri veya sahtekarlık önereceği olağan dışı eğilimleri belirlemenize yardımcı olabilir. Bundan sonra, temel nedeni belirlemek ve maliyetleri yönetmek için müşteri (ler) i ile çalışabilirsiniz. Gerekirse, [müşterinin bütçesini](#set-azure-spending-budget) daha yüksek bir tutara de değiştirebilirsiniz.
+Müşteriniz [için bir Azure harcama bütçesi ayardikten](#set-azure-spending-budget)sonra, aşağıdaki yollarla müşteri kullanımını da gözden geçirebilirsiniz. Bu seçenekler yanlış yapılandırılmış hizmetleri veya sahtekarlık öneren olağan dışı eğilimleri tespit etmeye yardımcı olabilir. Daha sonra kök nedeni belirlemek ve maliyetleri yönetmek için müşterileriyle çalışabileceksiniz. Gerekirse müşterinin bütçesini [daha yüksek bir miktarla](#set-azure-spending-budget) da değiştirebilirsiniz.
 
-- [Geçerli Azure harcamayı denetle](#check-current-azure-spending)
+- [Geçerli Azure harcamalarını denetleme](#check-current-azure-spending)
 
-- [Müşterinin harcama süresi Bütçe limitine yaklaştığı zaman için e-posta bildirimlerini aç](#notifications-for-budget-limits)
+- [Müşterinin harcaması bütçe sınırına yaklaşıyorsa e-posta bildirimlerini açma](#notifications-for-budget-limits)
 
-- [Kullanım tabanlı abonelikler için hizmete göre listelenen maliyetleri görüntüleme](#itemized-costs-by-service)
+- [Kullanım tabanlı abonelikler için hizmete göre maddeleştirilmiş maliyetleri görüntüleme](#itemized-costs-by-service)
 
-Ayrıca, müşteriler için [bir Azure harcama bütçesini](#remove-azure-spending-budget) dilediğiniz zaman kaldırabilirsiniz.
+Ayrıca, [müşteriler için azure harcama](#remove-azure-spending-budget) bütçesini istediğiniz zaman kaldırabilirsiniz.
 
 ## <a name="azure-spending-data"></a>Azure harcama verileri
 
-Azure harcama verileri bir *tahmindir* ve *gerçek faturalandırma miktarları farklılık* gösterebilir. Verilerin değeri vergileri, kredilerin, ayarlamaların veya uygulayabilen diğer ücretleri *yansıtmaz* .
+Azure harcama verileri bir *tahmindir ve* *gerçek faturalama tutarları değişiklik gösterebilir.* Verilerin değeri *vergileri, kredileri,* düzeltmeleri veya uygulanabilecek diğer ücretleri yansıtmaz.
 
-Harcama verileri *günde bir kez yenilenir*. Müşterileriniz, Azure portal hesap ayarlarını değiştirmediğiniz müddetçe Azure hizmetleri ve kaynakları kullanmaya ve ücretlendirmeye devam edebilir.
+Harcama verileri günde *bir kez yenilenir.* Müşterileriniz, Azure portal hesap ayarlarını değiştirmediğiniz müddetçe Azure hizmetleri ve kaynakları kullanmaya ve ücretlendirmeye devam edebilir.
 
 ## <a name="set-azure-spending-budget"></a>Azure harcama bütçesini ayarlama
 
@@ -89,42 +87,42 @@ Iş Ortağı Merkezi 'nde müşteri (ler) için *aylık bir Azure harcama bütç
 
 1. [İş Ortağı Merkezi panosunda](https://partner.microsoft.com/dashboard/) oturum açın.
 
-2. **CSP** altındaki sol menüde **Azure harcama**' i seçin.
+2. **CSP'nin** altındaki sol menüde **Azure harcaması'ı seçin.**
 
-3. **Azure harcama** sayfasında, **Microsoft Azure abonelikleri olan müşteriler** altında müşterilerin aylık bütçeleri, geçerli harcama tahminleri ve kullanılan bütçenin yüzdesi hakkında bir genel bakış görebilirsiniz.
+3. Azure **harcaması sayfasındaki** Microsoft Azure abonelikleri olan müşteriler altında müşterilerin aylık bütçelerine, geçerli harcama tahminlerine ve kullanılan bütçe yüzdesine genel bir bakış görebilirsiniz. 
 
-## <a name="notifications-for-budget-limits"></a>Bütçe limitlerinin bildirimleri
+## <a name="notifications-for-budget-limits"></a>Bütçe sınırları için bildirimler
 
-Müşterinizin aylık harcama süresi Bütçe limitine yaklaştığı zaman için *e-posta bildirimlerini açabilirsiniz* . Bu seçeneği etkinleştirdiğinizde, müşteriler aylık bütçesinden %80 veya daha fazlasını kullandıklarında bildirim alırsınız. Bu seçenek, Azure faturanızda bir göz kalmanıza yardımcı olur. E-posta bildirimlerini yapılandırmak için:
-
-1. İş Ortağı Merkezi'nde oturum açın.
-
-2. **Ayarlar**' a gidin.
-
-3. **Tercihlerimi** seçin.
-
-4. Yapmadıysanız tercih edilen e-posta adresini yapılandırın.
-
-5. Bildirim için tercih edilen dili yapılandırın.
-
-6. **Bildirim tercihleri** bölümünde **CSP** sekmesini seçin.
-
-7. **Azure harcama** bildirimi Için e-posta seçeneğini Işaretleyin ve **kaydedin**.
-
-
-## <a name="itemized-costs-by-service"></a>Hizmete göre listelenen maliyetler
-
-*Kullanım tabanlı abonelikler için, hizmete göre listelenen maliyeti (ve tahmini kullanımı)* görebilirsiniz:
+Müşterinizin *aylık harcaması bütçe* sınırına yaklaşacaksa e-posta bildirimlerini açabilirsiniz. Bu seçeneği açsanız, müşteriler aylık bütçelerinin %80'ini veya daha fazlasını kullanıyorsa size bildirilecek. Bu seçenek, Azure faturanızı takip etmek için size yardımcı olur. E-posta bildirimlerini yapılandırmak için:
 
 1. İş Ortağı Merkezi'nde oturum açın.
 
-2. **CSP** altındaki sol menüde **müşteriler**' i seçin.
+2. **Ayarlar'a gidin.**
 
-3. **Müşteriler** sayfasında, müşterinin **şirket adını** seçin.
+3. **Tercihlerim'i seçin.**
 
-4. Müşterinin **abonelikler** sayfasında, **Kullanım tabanlı abonelikler**' in altında, **aboneliğin** adını seçin.
+4. Tercih edilen bir e-posta adresi yapılandırmadısanız.
 
-5. Aboneliğin sayfasında, hizmete göre **listelenen maliyeti** ve geçerli ay için **Tahmini kullanımı** gözden geçirebilirsiniz.
+5. Bildirim için tercih edilen dili yapılandırma.
+
+6. Bildirim **tercihleri bölümünde CSP** **sekmesini** seçin.
+
+7. Azure Harcama bildirimi için **E-posta seçeneğini işaretleyin** ve **Kaydet'i seçin.**
+
+
+## <a name="itemized-costs-by-service"></a>Hizmete göre maddeleştirilmiş maliyetler
+
+Kullanım tabanlı *abonelikler için hizmete göre maddeleştirilmiş maliyetleri (ve tahmini kullanımı) görüntüebilirsiniz:*
+
+1. İş Ortağı Merkezi'nde oturum açın.
+
+2. **CSP'nin** altındaki sol menüde Müşteriler'i **seçin.**
+
+3. Müşteriler **sayfasında** müşterinin Şirket adını **seçin.**
+
+4. Müşterinin Abonelikler **sayfasındaki** Kullanım **tabanlı abonelikler** altında Aboneliğin adını **seçin.**
+
+5. Aboneliğin sayfasında Hizmete göre maddeleştirilmiş maliyetleri **ve** geçerli aya yönelik **tahmini kullanımı** gözden geçirebilirsiniz.
 
 
 ## <a name="next-steps"></a>Sonraki adımlar

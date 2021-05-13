@@ -9,22 +9,18 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e863a5dbb86dae2c1cd3395589b4d4318eb0dba1
-ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
+ms.openlocfilehash: d9ae853b095339b54f7b4d2eb0f41fecd5f53f80
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "108284154"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109854783"
 ---
 # <a name="support-from-microsoft"></a>Microsoft 'tan destek
 
-**Şunlara uygulanır**
+**Uygulama hedefi**: Iş Ortağı Merkezi | ABD kamu için Microsoft Bulut iş ortağı Merkezi
 
-- Microsoft Cloud for US Government için İş Ortağı Merkezi
-
-**Uygun roller**
-
-- Yardım Masası Aracısı
+**Uygun roller**: Yardım Masası Aracısı
 
 Bir Microsoft hizmeti veya Iş Ortağı Merkezi ile ilgili sorunlarınız varsa, sorunu Microsoft 'a bildirebilirsiniz, yardım için sorunu Microsoft 'a gönderebilir ve sorunu çözümlenene kadar izleyebilirsiniz.
 

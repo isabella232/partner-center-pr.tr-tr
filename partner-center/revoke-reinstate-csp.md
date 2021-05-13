@@ -1,45 +1,42 @@
 ---
-title: Azure CSP için yeniden devreye sokma yönetici ayrıcalıkları
+title: Azure CSP için yönetici ayrıcalıklarını yeniden Azure CSP
 ms.topic: how-to
 ms.date: 04/08/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Müşterilerin bir müşterinin Azure CSP aboneliklerini yönetmeye yardımcı olması için, ortağın yönetici ayrıcalıklarını yeniden devreye sokmasını nasıl sağlayacağınızı öğrenin.
+description: İş ortağının müşterinin iş ortağı aboneliklerini yönetmeye yardımcı olmak için müşterilerin iş ortağının yönetici ayrıcalıklarını yeniden Azure CSP öğrenin.
 author: dhirajgandhi
 ms.author: dhgandhi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 26768bdf33c03145a893fa445eab6ebf92ca9b1c
-ms.sourcegitcommit: efd711b0e65c55f24ce5b9636abd7b5a8cc719fe
+ms.openlocfilehash: ad29283001ec542944da4f0cac835c6a5d339251
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/27/2021
-ms.locfileid: "108018196"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855429"
 ---
-# <a name="reinstate-admin-privileges-for-a-customers-azure-csp-subscriptions"></a>Müşterinin Azure CSP abonelikleri için yeniden devreye sokma yönetici ayrıcalıkları  
+# <a name="reinstate-admin-privileges-for-a-customers-azure-csp-subscriptions"></a>Müşterinin abonelikleri için yönetici ayrıcalıklarını yeniden Azure CSP olun  
 
-**Uygun roller**
+**Uygun roller:** Genel yönetici | Yönetici aracısı
 
-- Genel yönetici
-- Yönetim Aracısı
+CSP iş ortağı olarak müşterileriniz genellikle Azure kullanımlarını ve sistemlerini onlar için yöneteceklerini bekler. Bunu yapmak için yönetici ayrıcalıklarına sahip olmanız gerekir. Müşteriyle kurumsal bayi ilişkiniz kurulu olduğunda bazı ayrıcalıklar verir. Başkalarına da müşteriniz tarafından izin ve verildi.
 
-Bir CSP iş ortağı olarak, müşterileriniz genellikle Azure kullanımını ve sistemlerini kendileri için yöneteceksiniz. Bunun yapılması yönetici ayrıcalıklarına sahip olmanızı gerektirir. Müşteri ile satıcı ilişkiniz oluşturulduğunda bazı ayrıcalıklar verilir. Başkaları sizin tarafınızdan size verilir.
+## <a name="admin-privileges-for-azure-in-csp"></a>CSP'de Azure için yönetici ayrıcalıkları
 
-## <a name="admin-privileges-for-azure-in-csp"></a>CSP 'de Azure için yönetici ayrıcalıkları
+Kullanıcılar için iki yönetici ayrıcalıkları CSP'de Azure.
 
-CSP 'de Azure için iki yönetim ayrıcalıkları düzeyi vardır.
+**Kiracı düzeyi yönetici ayrıcalıkları** (**Yönetici ayrıcalıkları temsilcisi**) - CSP iş ortakları, müşterilerle CSP kurumsal bayi ilişkisi kurulurken bu ayrıcalıkları alır. Temsilcili yönetici ayrıcalıkları, CSP iş ortaklarının müşterilerinin kiracılarına erişmesini sağlar ve bu sayede kullanıcı ekleme/yönetme, parolaları sıfırlama ve kullanıcı lisanslarını yönetme gibi yönetim işlevlerini gerçekleştirebilir.
 
-**Kiracı düzeyinde yönetici ayrıcalıkları** (**yönetici ayrıcalıkları temsilcisi**)-CSP Iş ortakları, müşterilerle CSP satıcısı ilişkisi oluştururken bu ayrıcalıkları alır. Yönetici ayrıcalıkları, CSP iş ortaklarının müşterilerinin kiracılarına erişmesini sağlar ve bu sayede Kullanıcı ekleme/yönetme, parolaları sıfırlama ve kullanıcı lisanslarını yönetme gibi yönetim işlevleri gerçekleştirebilir.
+**Abonelik düzeyi yönetici ayrıcalıkları** - CSP iş ortakları, müşterileri için Azure CSP abonelikleri oluştururken bu ayrıcalıkları elde eder. Bu ayrıcalıklara sahip olmak, CSP iş ortaklarının bu aboneliklere tam erişim sağlamalarını ve Azure kaynaklarını yönetmelerini sağlar.
 
-**Abonelik düzeyi yönetici ayrıcalıkları** -CSP iş ortakları, müşterileri IÇIN Azure CSP abonelikleri oluştururken bu ayrıcalıkları alırlar. Bu ayrıcalıklara sahip olmak, CSP iş ortaklarının bu aboneliklerde Azure kaynaklarını sağlamasına ve yönetmesine olanak tanıyan tüm erişimleri olmasını sağlar.
+## <a name="reinstate-csp-partners-admin-privileges"></a>CSP iş ortaklarının yönetici ayrıcalıklarını yeniden açıklama
 
-## <a name="reinstate-csp-partners-admin-privileges"></a>Yeniden devreye sokma CSP iş ortakları yönetici ayrıcalıkları
+Müşterinize AdminAgents grubunun nesne kimliğini sağlamak sürece müşteriniz CSP rol atamasını yeniden oluşturabilir. Temsilci yönetici ayrıcalıklarını yeniden kazanmak için müşteriyle çalışmanız gerekir.
 
-Müşteriniz, AdminAgents grubunun nesne KIMLIĞINI sağladığınız sürece, CSP rol atamasını yeniden oluşturabilir. Yetkilendirilmiş yönetici ayrıcalıklarını yeniden kazanmak için müşterinizden çalışmanız gerekir.
+1. İş Ortağı Merkezi panosunda oturum açın ve İş Ortağı Merkezi menüsünde Müşteriler'i **seçin.**
 
-1. Iş Ortağı Merkezi panosunda oturum açın ve Iş Ortağı Merkezi menüsünde **müşteriler**' i seçin.
-
-2. Çalıştığınız müşteriyi seçin ve **bir satıcı ilişkisi isteyin.** Bu eylem, kiracı yönetici haklarına sahip olan müşteriye bir bağlantı oluşturur.
+2. Birlikte çalışmakta olduğunu müşteriyi seçin ve **bir kurumsal bayi ilişkisi talep edin.** Bu eylem kiracı yönetici haklarına sahip olan müşteriye bir bağlantı üretir.
 
 3. Bu müşterinin bağlantıyı seçmesini ve satıcı ilişki isteğini onaylaması gerekir.
 

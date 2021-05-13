@@ -9,19 +9,16 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c291a2cf859d0c21570a06fab5bc36b19eccfda2
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: f3fd7a4adfb3e88b875c8178a260c353e1414f1e
+ms.sourcegitcommit: dc9438475ccc6298bec6a698bf5fc9bd5cf2aa81
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101755837"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "109818720"
 ---
 # <a name="update-customer-account-info-company-details-and-customer-billing-information-in-partner-center"></a>Iş Ortağı Merkezi 'nde müşteri hesap bilgilerini, şirket ayrıntılarını ve müşteri faturalandırma bilgilerini güncelleştirme
 
-**Uygun roller**
-
-- Genel yönetici
-- Satış Aracısı
+**Uygun roller**: genel yönetici | Satış Aracısı
 
 Iş Ortağı Merkezi 'nde müşterinin fatura bilgilerini ve diğer şirket ayrıntılarını güncelleştirebilirsiniz. Ayrıca, [bir müşterinin kendi ürünlerini veya hizmetlerini satın almasını sağlamak için izin verebilir veya kaldırabilirsiniz](give-customers-permission.md).
 

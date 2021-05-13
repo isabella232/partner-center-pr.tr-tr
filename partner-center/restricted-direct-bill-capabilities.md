@@ -9,18 +9,16 @@ author: billLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 05ccc6016e9dcd6e7582cdd31dbc4d0054c43f8d
-ms.sourcegitcommit: efd711b0e65c55f24ce5b9636abd7b5a8cc719fe
+ms.openlocfilehash: b3b1f3e1593f7e35bd3b9ed6c56ea28683bff95a
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/27/2021
-ms.locfileid: "108018076"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855497"
 ---
 # <a name="restricted-direct-bill-capabilities-and-the-requirements-needed-for-csp-direct-bill-partners"></a>Kısıtlanmış doğrudan fatura özellikleri ve CSP doğrudan fatura ortakları için gereken gereksinimler
 
-**Uygun roller**
-
-- Genel yönetici
+**Uygun roller**: genel yönetici
 
 ## <a name="overview"></a>Genel Bakış
 
@@ -53,31 +51,31 @@ Doğrudan fatura olanaklarınız kısıtlanmışsa, Iş Ortağı Merkezi 'nde m�
 
 - Yazılım ve rezervasyon ürünlerini tek seferlik satın alma (örneğin, yazılım abonelikleri, kalıcı yazılım ve Azure ayrılmış sanal makine örnekleri) yapın.
 
-Ayrıca, CSP programı kapsamındaki [Azure iş ortağı paylaşılan hizmetleri teklifini](shared-services.md) kullanarak kendi kullanım Için yeni Azure abonelikleri satın alabilirsiniz.
+Kendi kullanımınız için yeni [Azure abonelikleri satın almak için](shared-services.md) CSP programı kapsamındaki Azure iş ortağı paylaşılan hizmetleri teklifini de kullanamazsınız.
 
-Mevcut doğrudan fatura abonelikleri etkilenmez. Bunlar geçerli kalır ve otomatik olarak yenilenir. İptal edilene kadar doğrudan Microsoft tarafından faturalandırılmaya devam edersiniz. Mevcut abonelikleri şu yollarla yönetmeye devam edebilirsiniz:
+Mevcut doğrudan fatura abonelikleri etkilenmez. Bunlar geçerli kalır ve otomatik olarak yeniler. İptal edilene kadar doğrudan Microsoft tarafından faturalandır olmaya devam edersiniz. Mevcut abonelikleri yönetmek için aşağıdaki yöntemleri kullanabilirsiniz:
 
-- Mevcut abonelikleri askıya al
+- Mevcut abonelikleri askıya alma
 
-- Lisans tabanlı mevcut aboneliklerin lisans sayısını ayarla
+- Mevcut lisans tabanlı aboneliklerin lisans sayısını ayarlama
 
-- Mevcut eklentilerin lisans sayısını bir aboneliğe ayarlayın. 
+- Bir aboneliğe yapılan mevcut eklentilerin lisans sayısını ayarlayın. 
 
     >[!Note]
-    >Yeni satın alma işlemi kabul edildiği için mevcut aboneliklere yeni eklentiler ekleyemezsiniz.
+    >Yeni satın alma olarak kabul edilen mevcut aboneliklere yeni eklentiler ek olamazsınız.
 
-- Yeni Azure kaynaklarını dağıtın ve mevcut Azure aboneliklerinden mevcut Azure kaynaklarını yönetin. Bu, Azure Marketi ve Visual Studio abonelikleri aracılığıyla kullanılabilen kaynakları içerir.
+- Yeni Azure kaynaklarını dağıtın ve mevcut Azure kaynaklarını mevcut Azure abonelikleri altında yönetin. Bu, Azure Market ve Visual Studio içerir.
 
-Yeni satın alımlara ek olarak, Iş Ortağı Merkezi 'nde aşağıdaki doğrudan fatura özelliklerine erişemezsiniz:
+Yeni satın almalara ek olarak, aşağıdaki doğrudan fatura özelliklerine de İş Ortağı Merkezi:
 
-- Yeni müşteri kiracılarını oluşturamazsınız. Iş Ortağı Merkezi 'ndeki **müşteriler** sayfasında **Müşteri Oluştur** seçeneği kullanılamaz.
+- Yeni müşteri kiracıları oluşturamazsiniz. Müşteriler **sayfasındaki** Müşteriler **sayfasında** müşteri İş Ortağı Merkezi seçeneği kullanılamaz.
 
-- Müşterinin doğrudan satıcı ilişkisi talep etmek için davet oluşturamazsınız. Iş Ortağı Merkezi 'ndeki **müşteriler** sayfasında **bir satıcı ilişkisi iste** seçeneği kullanılamayacak.
+- Doğrudan kurumsal bayi ilişkisi isteğine davet oluşturamazsiniz. Kurumsal **bayi ilişkisi isteğinde** **bulun sayfasındaki** Müşteriler İş Ortağı Merkezi seçeneği kullanılamaz.
 
     >[!NOTE]
-    >Doğrudan fatura ortağından dolaylı satıcıya geçiş bir parçası olarak doğrudan fatura ortağı kiracınızı dolaylı satıcı olarak kaydettiyseniz, bunun yerine dolaylı satıcı ilişkisi isteyen müşteri için davet oluşturabilirsiniz.
+    >Doğrudan fatura iş ortağından dolaylı kurumsal bayiye geçişin bir parçası olarak, doğrudan fatura iş ortağı kiracınızı dolaylı kurumsal bayi olarak zaten kaydettiynize, bunun yerine dolaylı kurumsal bayi ilişkisi isteğine davet eden müşteriye davette bulunabilirsiniz.
 
-- Yeni korumalı alan kiracısı oluşturamazsınız. Her doğrudan fatura ortağı kiracısı, doğrudan Bill API tümleştirmesi için bir korumalı alan kiracısı oluşturabilir. Daha önce bir tane oluşturmadıysanız, doğrudan fatura iş ortağı özelliği kısıtlandıktan sonra bunu yapma izniniz yoktur.  
+- Yeni korumalı alan kiracısı oluşturamazsiniz. Her doğrudan fatura iş ortağı kiracısı, doğrudan fatura API'si tümleştirmesi için bir korumalı alan kiracısı oluşturabilir. Daha önce oluşturmadıysanız, doğrudan fatura iş ortağı özelliğiniz kısıtlandıktan sonra bunu yapma iznine sahip olmaznız.  
 
 ## <a name="next-steps"></a>Sonraki adımlar
 

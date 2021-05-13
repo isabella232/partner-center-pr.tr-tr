@@ -1,46 +1,43 @@
 ---
-title: Yazılım Güvencesi Planlama Hizmetleri kullanımdan kaldırma
+title: Yazılım Güvencesi Planlama Hizmetleri'nin emeklilik
 ms.topic: article
 ms.date: 04/07/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Microsoft planlama hizmetleri kullanımdan kaldırılıyor.
+description: Microsoft Planlama Hizmetleri'nin kullanımı kaldır ediliyor.
 author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9ab6afc85a696b3b614ea5c3b5edc644d92bfc21
-ms.sourcegitcommit: 9b04509f3830462628c1bb6af2ca41ed68b52619
+ms.openlocfilehash: 8d5154ad63066cb9d1d3eda8cf78fc059217ca99
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "107266512"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109854800"
 ---
-# <a name="software-assurance-planning-services-retirement"></a>Yazılım Güvencesi Planlama Hizmetleri kullanımdan kaldırma
+# <a name="software-assurance-planning-services-retirement"></a>Yazılım Güvencesi Planlama Hizmetleri'nin emeklilik
 
-**Uygun roller**
-
-- Genel yönetici
-- MPN iş ortağı Yöneticisi
+**Uygun roller:** Genel yönetici | MPN iş ortağı yöneticisi
 
 
-Planlama Hizmetleri, Yazılım Güvencesi avantajlarından tamamen kullanımdan kaldırılıyor, ancak müşteriler iş ortaklarıyla çalışmaya devam ederek, fişler geçerli olduğunda, görevlendirmeler için planlama hizmetleri günlerini kullanabilir. Bunlar, program emekliliğinizi önde gelen önemli tarihlerdir: 
+Planlama Hizmetleri tüm avantajlardan tamamen Yazılım Güvencesi, ancak müşteriler kuponlar geçerliyken katılımlar için Planlama Hizmetleri günlerini kullanmak üzere iş ortaklarıyla çalışmaya devam eder. Programdan emeklilikte önemli tarihler şu şekildedir: 
 
-- 1 Şubat 2020: planlama hizmetleri bulut görevlendirmeler kullanımdan kaldırıldı.  
-- 1 Şubat 2020: eğitim fişleri artık planlama hizmetleri günlere dönüştürülemez.  
-- 1 Şubat 2021: müşteriler artık Planlama Hizmetleri avantajlarına sahip değildir. 
-- 30 Haziran 2021: müşterilerin planlama hizmetleri fişleri oluşturması/ataması için geçen gün. Kalan tüm planlama hizmetleri günleri 1 Temmuz 2021 ' den itibaren kaldırılacak.
-- 1 Ocak 2022: iş ortaklarının planlama hizmetleri makbuzlarını kullanma son günü. İş ortağı, ödeme isteği işlemini tamamlamaya çalıştıktan sonra 60 gün sonra olur.  
+- 1 Şubat 2020: Planlama Hizmetleri bulut etkileşimleri kaldırıldı.  
+- 1 Şubat 2020: Eğitim kuponları artık Planlama Hizmetleri günlarına dönüştürülemeyecek.  
+- 1 Şubat 2021: Müşteriler artık Planlama Hizmetleri avantajları tahakkuk ediyor. 
+- 30 Haziran 2021: Müşterilerin Planlama Hizmetleri kuponları oluşturması/ataması için son gün. Kalan tüm Planlama Hizmetleri günleri 1 Temmuz 2021 tarihinde kaldırılacaktır.
+- 1 Ocak 2022: İş ortaklarının Planlama Hizmetleri kuponlarını kullanmaları için son gün. İş ortağının ödeme isteği işlemini tamamlamak için kullanımdan sonra 60 günü vardır.  
 
 >[!NOTE]
->Fiş yaşam döngüsünde hiçbir değişiklik yoktur. Bir fiş oluşturulduktan/atandıktan sonra, fiş kullanım süresi dolmadan önce 180 gün içinde fiş rezervasyonu, müşteri katılımı ve fiş teminat doldurulmalıdır.  Planlama Hizmetleri program kullanımdan kaldırma hakkında daha fazla bilgi için daha fazla bilgi için [burada](https://partner.microsoft.com/resources/collection/software-assurance-benefit-changes#/) bulunan SSS bölümüne bakın (oturum açmak gerekir).  Lütfen tüm soruları bölgesel Iş ortağı destek ekibinize yönlendirin: [EMEA Iş ortağı desteği](mailto:savoucher@msdirectservices.com); [Genel Iş ortağı desteği](https://partner.microsoft.com/dashboard/support/servicerequests)
+>Kupon yaşam döngüsünde bir değişiklik yoktur. Kupon oluşturulduktan/atandıktan sonra kupon rezervasyonu, müşteri etkileşimi ve kupon geri ödemesi kupon süresinin dolmadan önce 180 gün içinde tamamlanması gerekir.  Planning Services programını emeklilik hakkında daha fazla bilgi [](https://partner.microsoft.com/resources/collection/software-assurance-benefit-changes#/) için daha fazla bilgi için burada bulunan SSS'ye bakın (oturum açma gereklidir).  Lütfen tüm soruları bölgesel İş Ortağı Desteği takımınıza yönlendirin: [EMEA İş Ortağı Desteği](mailto:savoucher@msdirectservices.com); [Genel İş Ortağı Desteği](https://partner.microsoft.com/dashboard/support/servicerequests)
 
 
 ### <a name="get-started"></a>başlarken
 
-Yazılım Güvencesi Planlama Hizmetleri 'ne yeni başladıysanız aşağıdaki adımları izleyin. Planlama Hizmetleri programında zaten etkinse, her yeni görevlendirmeyi aşağıda dört (4) adımında başlatın.
+Planning Services'i Yazılım Güvencesi, aşağıdaki tüm adımları izleyin. Planlama Hizmetleri programlarında zaten etkinsiniz, her yeni katılıma aşağıdaki dördüncü adımda (4) başlayabilirsiniz.
 
-1. Uygunluğu doğrula (yeni iş ortakları)
+1. Uygunluğu doğrulama (yeni iş ortakları)
 2. Kaydet (yeni iş ortakları)
 3. Şirketinizin iş profilini oluşturun veya güncelleştirin (yeni iş ortakları)
 4. Müşteri, fiş (mevcut iş ortakları) oluşturur ve atar
@@ -95,25 +92,25 @@ Fiş ayrıntılarına sahip olduğunuzda, fişi ayırabilir ve planlama katılı
 
 ## <a name="complete-engagement-and-provide-deliverables-to-your-customer-existing-partners"></a>Katılımı tamamlayıp müşterinize teslim edilebilirleri sağlayın (mevcut iş ortakları)
 
-Danışman, bir planlama hizmetleri katılımı sunmaya uygun olması için, bir veya daha fazla teknik değerlendirmenin veya sınavın uygun uzmanlık alanı için gereken bir ya da daha fazlasını tamamlamış olması gerekir. (Değerlendirme veya Sınavlar hakkında daha fazla bilgi edinmek için, [Planlama Hizmetleri görevlendirmelerinin uygunluk gereksinimlerini görüntüleyin](software-assurance-dps-requirements.md).)
+Planlama Hizmetleri etkileşimi sunmak için danışman, katılımın uygun yetkinliği için gereken teknik değerlendirmelerden veya sınavlardan birini veya daha fazlasını tamamlamış olması gerekir. (Gereken değerlendirmeler veya sınavlar hakkında daha fazla bilgi edinmek için Planlama [Hizmetleri etkileşimleri için uygunluk gereksinimlerini görüntüebilirsiniz.)](software-assurance-dps-requirements.md)
 
-Şirketiniz katılımı tamamladıktan ve son, tamamlanan teslim edilebilirleri müşteriye sağladıktan sonra, çevrimiçi tamamlama raporunu doldurmanız ve göndermeniz gerekir.
+Şirket katılımı tamamlandıktan ve müşteriye teslim edilebilir son teslimleri sağladıktan sonra, çevrimiçi tamamlama raporunu doldurmanız ve göndermeniz gerekir.
 
-Ayrıntılı yönergeler için iş akışının [6. adımına](https://go.microsoft.com/fwlink/?linkid=2115983) bakın.
+Ayrıntılı [rehberlik için iş akışının 6.](https://go.microsoft.com/fwlink/?linkid=2115983) adımına bakın.
 
-## <a name="redeem-voucher"></a>Kullanmaya yönelik fiş
+## <a name="redeem-voucher"></a>Kupon kullanma
 
-Teslim edilen katılım için Microsoft 'u faturalamaya başlamadan önce, önce fişini kullanmalısınız. Ayrıntılı yönergeler için iş akışının [7. adımına](https://go.microsoft.com/fwlink/?linkid=2115983) bakın.
+Teslim edilen katılım için Microsoft'u faturalayamadan önce kuponu kullan gerekir. Ayrıntılı rehberlik için iş akışının [7.](https://go.microsoft.com/fwlink/?linkid=2115983) adımına bakın.
 
-## <a name="request-payment-from-microsoft-existing-partners"></a>Microsoft 'tan ödeme isteği (mevcut iş ortakları)
+## <a name="request-payment-from-microsoft-existing-partners"></a>Microsoft'tan (mevcut iş ortakları) ödeme isteği
 
-Hizmet fişleri planlandıktan sonra, Microsoft 'un ödeme için faturalanmasını sağlamalısınız. Ödemeler, yazılım güvencesi fiş avantajı (SAVB) çevrimiçi ödeme aracı aracılığıyla gerçekleştirilir.
+Planlama Hizmetleri kuponlarını kullandıktan sonra Ödeme için Microsoft'u faturalamanız gerekir. Ödemeler, Yazılım Güvencesi Kupon Avantajı (SAVB) Çevrimiçi Ödeme Aracı aracılığıyla işleme alın.
 
-SAVB aracılığıyla Microsoft 'a fatura göndermek için iş akışının [8. adımında](https://go.microsoft.com/fwlink/?linkid=2115983) bulunan yönergeleri izleyin.
+SAVB aracılığıyla Microsoft'a fatura göndermek için iş akışının [8.](https://go.microsoft.com/fwlink/?linkid=2115983) adımını izleyin.
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
 - [Yazılım Güvencesi Planlama Hizmetleri iş akışı](https://go.microsoft.com/fwlink/?linkid=2115983)
-- [Yazılım Güvencesi Planlama Hizmetleri SSS](https://go.microsoft.com/fwlink/?linkid=2116077)
+- [Yazılım Güvencesi Planlama Hizmetleri hakkında SSS](https://go.microsoft.com/fwlink/?linkid=2116077)
 - [Yazılım Güvencesi Planlama Hizmetleri ilkeleri](https://go.microsoft.com/fwlink/?linkid=2115984)
-- [Yazılım Güvencesi Planlama Hizmetleri Kullanımdan kaldırılmış görevlendirmeler](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4sln9)
+- [Yazılım Güvencesi Planlama Hizmetleri'nin etkileşimlerini geri aldı](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4sln9)

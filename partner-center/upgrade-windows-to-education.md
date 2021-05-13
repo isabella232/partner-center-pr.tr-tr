@@ -9,19 +9,16 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6b5741ba09cedccd5f421374c4aa5ca609823bcd
-ms.sourcegitcommit: 868f90c54f26a037eee29749c207a7316bb4b475
+ms.openlocfilehash: 806ddcd6e55a72ac2e1d15bdbec7c27c604917dc
+ms.sourcegitcommit: dc9438475ccc6298bec6a698bf5fc9bd5cf2aa81
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "103022749"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "109818703"
 ---
 # <a name="upgrade-some-education-customers-from-windows-10-home-to-windows-10-education"></a>Bazı Eğitim müşterilerini Windows 10 Home 'tan Windows 10 eğitim 'e yükseltme
 
-**Uygun roller**
-
-- Yönetim Aracısı
-- Faturalama yöneticisi
+**Uygun roller**: yönetici Aracısı | Faturalama yöneticisi
 
 ## <a name="overview"></a>Genel Bakış
 
@@ -49,31 +46,31 @@ Müşteri, anahtarı yüklediğinde ve cihaz kiracı etki alanına Azure Active 
 
 4. **Yeni istek** ' ı seçin ve ardından **Office 365 ve Enterprise Mobility Suite '** i seçin.
 
-5. Iş ortağı merkezi kimlik bilgilerinizi kullanarak oturum açmanız gereken Office 365 portalına yönlendirilirsiniz.
+5. Office 365 portalına alınırsınız ve bu portalda kimlik bilgilerinizi kullanarak İş Ortağı Merkezi gerekir.
 
-6. Destek, sol taraftaki menüden **yeni hizmet isteği ' ni** seçin.
+6. Sol **menüden Destek,** Yeni hizmet isteği'ne tıklayın.
 
-7. Aşağıdaki ayrıntıları Destek isteği ekleyin:
+7. Aşağıdaki ayrıntıları aşağıdaki ayrıntılara Destek isteği:
 
-- **Başlık:** Windows 10 Home for Windows 10 eğitim yükseltme ürün anahtarı
-- **Açıklama:** Windows 10 eğitimi 'ne yükseltmeyi etkinleştirmek için [ekleme numarası] anahtarları isteniyor. (İstenen anahtar sayısının Microsoft 365 a3/a5 veya Windows 10 Enterprise a3/a5 abonelik lisanslarınızdan büyük olmaması gerektiğini unutmayın.) Müşterinin abonelik KIMLIĞI [Microsoft 365 a3/a5 veya Windows 10 Enterprise a3/a5 aboneliği için müşteri abonelik KIMLIĞI GUID 'ı ekleyin.]
-- **Kişi numarası:** Bu, önceden doldurulacak; onaylamak veya güncelleştirmek için gözden geçirin.
-- **E-posta:** Bu, önceden doldurulacak ve Microsoft Portal Yöneticisi (yalnızca genel yönetici veya faturalama yöneticisi) olarak kullandığınız e-posta olmalıdır.
-- **Tercih edilen iletişim yöntemi**: **Telefon** seçin veya **geri arama zamanlayın**.
+- **Başlık:** Windows 10 Home anahtarını Windows 10 Education yükseltme
+- **Açıklama:** Yükseltmeyi etkinleştirmek için [insert number] anahtarları Windows 10 Education. (İstenen anahtar sayısının Microsoft 365 A3/A5 veya Windows 10 Enterprise A3/A5 abonelik lisansları kadar olması gerektiğini unutmayın.) Müşterinin abonelik kimliği [A3/A5 veya Microsoft 365 A3/A5 aboneliği için Windows 10 Enterprise kimliği GUID'si ekleme.]
+- **İletişim numarası:** Bu önceden doldurulur; onaylamak veya güncelleştirmek için gözden geçirme.
+- **E-posta:** Bu önceden doldurulur ve Microsoft portalı yöneticisi olarak (yalnızca genel yönetici veya faturalama yöneticisi) olarak kullanmak istediğiniz e-posta olması gerekir.
+- **Tercih edilen iletişim yöntemi:** Telefon **veya Geri** **arama zamanla'ya seçin.**
 
-8. **Benimle Iletişim kurun**' ı seçin. Beklenen bekleme süresi, **Yardım gerekiyor?** bölmesinde belirtilir.
+8. Benimle iletişim **kur'ı seçin.** Beklenen bekleme süresi Yardıma mı ihtiyacınız **var? bölmesinde** gösterilir.
 
-9. **Microsoft desteği** , müşterinin uygun olduğundan emin olmak için isteği gözden geçirir. İstek onaylandıktan sonra, anahtara erişme yönergelerini içeren iş ortağına bir e-posta gönderir.
+9. **Microsoft Desteği** müşteri uygun olduğundan emin olmak için isteği gözden geçirecek. İstek onaylandıktan sonra, iş ortağına anahtarlara erişme yönergelerini içeren bir e-posta gönderir.
 
-10. **Iş ortakları** , anahtarları ve diğer yönergeleri müşterilerle paylaşır.
+10. **İş** ortakları anahtarları ve diğer yönergeleri müşterileriyle paylaşır.
 
-### <a name="customer-applies-the-upgrade"></a>Müşteri, yükseltmeyi uygular:
+### <a name="customer-applies-the-upgrade"></a>Müşteri yükseltmeyi uygular:
 
-Windows 10 Home 'ı bir Windows 10 Pro eğitim ürün anahtarı kullanarak yükseltmek için müşterinin aşağıdakileri yapması gerekir:  
+Bir Windows 10 Home anahtarı Windows 10 Pro Education yükseltmesi için müşterinin şunları yapmaları gerekir:  
 
-1. **Başlat**' ı seçin, ardından **ayarlar > güncelleştirme & güvenlik > etkinleştirme**' yi seçin. **Ürün anahtarını değiştir**' i seçin ve 25 karakterlik Windows 10 Pro ürün anahtarını girin. Windows 10 Pro 'ya yükseltmeyi başlatmak için **İleri ' yi** seçin.
+1. **Başlat'ı** seçin, ardından **Ayarlar'> Güncelleştirme & Etkinleştirme > seçin.** Ürün **anahtarını değiştir'i** seçin ve ardından 25 karakterlik Windows 10 Pro girin. **Windows 10 Pro'a** yükseltmeyi başlatmak için Windows 10 Pro.
 
-2. Cihaz kiracı etki alanına katıldığında (AAD aracılığıyla), cihaz otomatik olarak Windows 10 eğitimi ' ne yükseltilir.  
+2. Cihaz kiracı etki alanına (AAD aracılığıyla) katılırsa, cihaz otomatik olarak kiracı etki alanına Windows 10 Education.  
 
 ## <a name="frequently-asked-questions"></a>Sık sorulan sorular
 

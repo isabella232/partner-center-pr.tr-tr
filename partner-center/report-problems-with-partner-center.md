@@ -9,22 +9,18 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2b009d7131f9d6941513a04e866006d1908ba741
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: 5d71d3efe10d38cfc0b5ce8dd60c3c51e2be9f1b
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441651"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855616"
 ---
 # <a name="partner-center-portal-requests-and-diagnostic-tool"></a>İş Ortağı Merkezi portalı istekleri ve Tanılama Aracı
 
-**Şunlara uygulanır**
+**Uygulama hedefi**: Iş Ortağı Merkezi | ABD kamu için Microsoft Bulut iş ortağı Merkezi
 
-- Microsoft Cloud for US Government için İş Ortağı Merkezi
-
-**Uygun roller**
-
-- Iş Ortağı Merkezi ile ilgilenen tüm iş ortakları
+**Uygun roller**: Iş Ortağı Merkezi ile ilgilenen tüm iş ortakları
 
 Tüm oturum açan Iş Ortağı Merkezi kullanıcıları, bir iş ortağı destek isteği oluşturabilir. Kullanıcılar yalnızca, Iş Ortağı Merkezi 'Nde oturum açtıktan sonra gönderdikleri destek isteklerini görüntüleyebilir.
 Sorunları bulup Iş Ortağı Merkezi portalı hatalarıyla ilgili yardıma ihtiyacınız olursa Iş ortağı merkezi desteği 'ne başvurun. Sorunun daha hızlı düzeltilme özelliğini sağlamak için tanılama gönderin.
@@ -45,38 +41,38 @@ Sorunları bulup Iş Ortağı Merkezi portalı hatalarıyla ilgili yardıma ihti
 
 **Şu anda önizleme aşamasındadır*
 
-Sorununuz Destek Danışmanı ile ilgili bir konuşma gerektiriyorsa, randevuyu bilet ayrıntılarından zamanlayabilirsiniz.
+Sorun için destek savunması ile görüşmeniz gerekirse bilet ayrıntılarından randevuyu zamanabilirsiniz.
 
-:::image type="content" source="images/support/ticket.png" alt-text="Destek randevusu Zamanlama":::
+:::image type="content" source="images/support/ticket.png" alt-text="Destek randevusu zamanlama":::
 
-1.  Iş Ortağı Merkezi 'nin bilet ayrıntıları sayfasında, destek için bir tarih ve saat seçin. Yerel saat diliminizde yalnızca kullanılabilir tarihler ve saatler görüntülenir.
+1.  Destekçinin bilet ayrıntıları İş Ortağı Merkezi destek destekçisi takviminde kullanılabilir bir tarih ve saat seçin. Yerel saat diliminde yalnızca kullanılabilir tarihleri ve saatleri görüyorsunuz.
 
-:::image type="content" source="images/support/ticket2.png" alt-text="Randevu zamanla":::
+:::image type="content" source="images/support/ticket2.png" alt-text="Randevu zamanlama":::
 
-2. İş Ortağı Merkezi, kullanılabilirlik için destek al takvimini denetler.
+2. İş Ortağı Merkezi destek destekçisi takvimini kullanılabilirlik için denetler.
 
-1. Bir randevuyu zamanladığınızda, iş ortağı Merkezi size destek ekibi ile nasıl iletişim kuracaksınız hakkında bilgi içeren bir takvim daveti gönderir ve bu randevuyu kendi iş takviminizde izleyebilirsiniz.  Bu özellik hala önizleme aşamasındadır, e-posta ve takvim daveti Ingilizce olacaktır, ancak Advo, bileti oluştururken seçtiğiniz dilde size destek sağlayabilecektir.
+1. Bir randevu zamanlamayı İş Ortağı Merkezi destek İş Ortağı Merkezi iletişim kurma bilgileriyle birlikte bir takvim daveti gönderir, böylece bu randevuyu kendi iş takviminde izleyebilirsiniz.  Bu özellik hala Önizlemedeyken e-posta ve takvim daveti İngilizce olur, ancak destekçi, biletinizi oluştururken seçtiğiniz dilde sizi destekleye devam ediyor olabilir.
 
 :::image type="content" source="images/support/ticket3.png" alt-text="Tarih ve saat":::
 
-## <a name="hours-of-operation"></a>İşlem saatleri
+## <a name="hours-of-operation"></a>Çalışma saatleri
 
 **İş ortağı desteği**
 
-:::image type="content" source="images/support/hoop.png" alt-text="İşlem destek saatleri":::
+:::image type="content" source="images/support/hoop.png" alt-text="Destek çalışma saatleri":::
 
-## <a name="send-diagnostics"></a>Tanılama gönder
+## <a name="send-diagnostics"></a>Tanılama gönderme
 
-Bir Iş Ortağı Merkezi sayfasında çalışırken bir hata oluşursa, günlük bilgilerini toplamanız istenebilir. Sayfanın üst kısmından sonra gelen bağlantıdan **daha fazla bilgi topla** ' yı seçerek istemci tanılama aracını açın. Bu araç hatanın nedenini saptamak için İş Ortağı Destek takımına gereken bilgileri toplar. 
+Uygulama sayfasındayken bir hata İş Ortağı Merkezi, günlük bilgilerini toplamanız istenebilirsiniz. Sayfanın **üst kısmından** aşağı inen bağlantıdan Daha fazla bilgi topla'yı seçerek İstemci Tanılama aracını açın. Bu araç hatanın nedenini saptamak için İş Ortağı Destek takımına gereken bilgileri toplar. 
 
 >[!NOTE]
->URL 'de **/PCV/** Içeren Iş Ortağı Merkezi sayfalarında, bu bilgileri toplamak için aracı el ile açabilirsiniz.
+>URL İş Ortağı Merkezi **/pcv/** içeren sayfalarda, bu bilgileri toplamak için aracı el ile açabilirsiniz.
 
-1. Sorunu içeren sayfaya gidin.
+1. Sorunun olduğu sayfaya gidin.
 
-2. Istemci Tanılama aracını açmak için **Ctrl + Alt + D** tuşlarına basın.
+2. İstemci **Tanılama aracını açmak için Ctrl+Alt+D** tuşlarına basın.
 
-Tanılama bilgilerini önizleyebilir ve ardından, destek isteğinize ekleyebileceğiniz bir dosyaya kaydedebilirsiniz. Bize bilgi göndermek için:
+Tanılama bilgilerini önizler ve ardından destek isteğinize ekln bir dosyaya kaydedebilirsiniz. Bize şu bilgileri göndermek için:
 
 3. Kaldırmak isteyebileceğiniz kişisel verileri içerebileceğinden, göndermeden önce dosyadaki bilgileri gözden geçirin.
 

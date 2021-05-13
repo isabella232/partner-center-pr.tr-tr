@@ -9,22 +9,17 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2750e7ce06b04042c9f8953f65202a3c4ce718d0
-ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
+ms.openlocfilehash: f25dda14ff056918ef29ab5cfeaa72894b4d4fea
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/27/2021
-ms.locfileid: "105633854"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855004"
 ---
 # <a name="provide-technical-support-to-help-customers-configure-manage-and-use-their-subscriptions"></a>Müşterilerin aboneliklerini yapılandırmasına, yönetmesine ve kullanmasına yardımcı olmak için teknik destek sağlama
 
 
-**Uygun roller**
-
-- Genel yönetici
-- Kullanıcı Yönetimi Yöneticisi
-- Yardım Masası Aracısı
-- Yönetim Aracısı
+**Uygun roller**: genel yönetici | Kullanıcı Yönetimi Yöneticisi | Yardım Masası Aracısı | Yönetim Aracısı
 
 Bir bulut çözümü sağlayıcısı iş ortağı olarak, müşterilerinizin ortamlarına erişim sağlayan yönetici ayrıcalıklarına sahip olursunuz. Bu ayrıcalıklar, müşterilerinizin aboneliklerini doğrudan destekleme, yapılandırma ve yönetme olanağı sağlar.
 
@@ -45,21 +40,21 @@ Iş Ortağı Merkezi 'nde şunları yapabilirsiniz:
 
 CSP modelindeki iş ortakları, müşterilerine güvenilir bir danışman ve müşterilerinin bir soru ya da sorun olduğu durumlarda destek de dahil olmak üzere uçtan uca aittir. Destek dokunma noktaları iş ortakları sayesinde, müşteri ve işleri hakkında daha fazla bilgi edinmek için, bir değer olan yeni hizmetleri ve çözümleri tespit edebilirsiniz.
 
-Destek gereksinimini karşılamak için iş ortağı başka bir varlıktan destek verebilir, destek yapısının tümünün veya bir parçası olarak dış kaynaklı olabilir ve/veya doğrudan destek sağlamak için bir yapı ayarlayabilir.  İş ortağı, müşterilere sunulan desteğin tümü veya bir parçası için ücret ödemeyebilir. İş ortağı, müşterilerine sundukları desteği, hizmet saatleri ve iletişim yöntemini ve fiyatlandırmayı (destek için ücretlendirme varsa) ifade etmelidir. 
+Destek gereksinimini karşılamak için iş ortağı başka bir varlığa yönelik desteği yeniden satarak destek yapısının tamam veya bir kısmını dış kaynak olarak kullanılabilir ve/veya doğrudan destek sağlayacak bir yapıyı ayarlamaya devam eder.  İş ortağı, müşterilere sağlanan desteğin hepsi veya bir bölümü için ücret tahsil ediyor olabilir. İş ortağı, müşterilerine sağ edecekleri desteği, hizmet saatlerini, iletişim yöntemini ve fiyatlandırmayı (destek için ücretlendirme yapılması halinde) ifade etmeli. 
 
-İş ortakları, müşterilerden gelen destek isteklerini almalıdır, ortağın en iyisiyle ilgili sorunları tanımalıdır ve ardından taban çizgisi destek sınırları kapsamındaki sorunları çözer. İş ortağı bir sorunu çözümleyemezse, aşağıdaki destek aracılarına göre sorunları Microsoft 'a gönderebilir:
+İş ortaklarının müşterilerden gelen destek isteklerini almaları, sorunları iş ortağının becerilerinden en iyi şekilde tanılaması ve ardından temel destek sınırları kapsamındaki sorunları çözmesi gerekir. İş ortağı bir sorunu çözemezse, aşağıdaki destek araçları aracılığıyla sorunları Microsoft'a iletir:
 
-- **Ticari** sorun desteği CSP programındaki tüm iş ortakları tarafından kullanılabilir
+- **CSP** programında tüm iş ortakları için ticari sorun desteği kullanılabilir
 
-- **Teknik** sorun desteği şu şekilde edinilebilir:
+- **Teknik** sorun desteği şu şekilde kullanılabilir:
 
-  - Iş ortakları için Premier Destek (ücret tabanlı)
-  - Iş ortakları için gelişmiş destek (ücret tabanlı)
-  - İmza bulutu desteği (altın/gümüş uzmanlığına dahildir)
+  - Premier Destek (ücret tabanlı)
+  - İş Ortakları için Gelişmiş Destek (ücret tabanlı)
+  - Signature Bulut Desteği (Gold/Silver uzmanlığına dahildir)
 
-### <a name="providing-billing-subscription-management-and-technical-support"></a>Faturalandırma, abonelik yönetimi ve teknik destek sağlama 
+### <a name="providing-billing-subscription-management-and-technical-support"></a>Faturalama, abonelik yönetimi ve teknik destek sağlama 
 
-Her çevrimiçi hizmet, müşterilere faturalandırma, abonelik yönetimi ve teknik destek sağlamaya yönelik belirli ve ayrıntılı gereksinimlere sahiptir. Daha fazla bilgi için bkz.
+Her çevrimiçi hizmetin müşterilere faturalama, abonelik yönetimi ve teknik destek sağlamak için belirli ve ayrıntılı gereksinimleri vardır. Daha fazla bilgi için bkz.
 
 - [CSP aracılığıyla satılan Dynamics 365 abonelikleri](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5262#M30)
 
@@ -69,4 +64,4 @@ Her çevrimiçi hizmet, müşterilere faturalandırma, abonelik yönetimi ve tek
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-- [Ne zaman ve nasıl yapılacağı gibi bir müşteri adına bir hizmet sorunu bildirin](report-problems-on-behalf-of-a-customer.md)
+- [Müşteri adına bir hizmet sorunu bildirme - bunun ne zaman ve nasıl olduğu da dahil](report-problems-on-behalf-of-a-customer.md)

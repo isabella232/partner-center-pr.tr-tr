@@ -9,22 +9,18 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f67a3b6a403f09cb773a5ca663d6cf6db1b03e2e
-ms.sourcegitcommit: efd711b0e65c55f24ce5b9636abd7b5a8cc719fe
+ms.openlocfilehash: 6ba25d0bfc4796ca43d36bb34bf6d9e82889881c
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/27/2021
-ms.locfileid: "108018129"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855718"
 ---
 # <a name="report-a-service-problem-on-behalf-of-a-customer---including-when-and-how-to-do-so"></a>Ne zaman ve nasıl yapılacağı gibi bir müşteri adına bir hizmet sorunu bildirin
 
-**Şunlara uygulanır**
+**Uygulama hedefi**: Iş Ortağı Merkezi | ABD kamu için Microsoft Bulut iş ortağı Merkezi
 
-- Microsoft Cloud for US Government için İş Ortağı Merkezi
-
-**Uygun roller**
-
-- Genel yönetici
+**Uygun roller**: genel yönetici
 
 Müşteriniz çözemeyen bir hizmet sorunu yaşıyorsa ve [sorunları Microsoft 'A iletin](escalate-problems-to-microsoft.md)bölümünde açıklanan ölçütlere uyuyorsa, dolaylı sağlayıcınız bu kişilere yönelik bir destek bileti dosyası oluşturabilir. Bu işlem, faturalandırma sorunlarını veya anlaşmazlıkları yürüyen ve sahtekarlık sorunları için de kullanışlıdır.
 
@@ -48,44 +44,44 @@ Müşteriniz çözemeyen bir hizmet sorunu yaşıyorsa ve [sorunları Microsoft 
 >
 >- Azure 'da müşteriniz için hizmet istekleri oluşturmak üzere dolaylı satıcı olarak, dolaylı sağlayıcınız müşterinin Azure hesabına erişim vermelidir. Bu, Office 365 için müşteriler adına yönetten farklıdır.
 >
->- Iş Ortağı Merkezi 'ndeki yardım masası Yöneticisi Azure hizmet portalında hizmet istekleri oluşturamazlar, ancak yapabilecekleriniz Azure hizmet portalında bir destek grubu oluşturabilir ve bu grup için destek isteklerini günlüğe kaydetmek için bu gruba izin verir.
+>- İş Ortağı Merkezi yardım masası yöneticisi Azure hizmet portalında hizmet istekleri oluşturamasa da, azure hizmet portalında bir destek grubu oluşturmak ve bu gruba destek isteklerini günlüğe alma izinleri vermektir.
 
 1. **Yeni destek isteği**’ni seçin.
 
-2. Destek isteğini uygun bilgilerle doldurun ve **Oluştur**' u seçin:
+2. Destek isteğini uygun bilgilerle doldurun ve Oluştur'a **seçin:**
 
-   - Destek isteğinin **temel bilgiler** bölümünde, **destek planı** alanında **bulut çözümü sağlayıcısı** ' nı seçtiğinizden emin olun.
+   - Destek **isteğinin** Temel bilgiler bölümünde, Destek planı alanında Bulut Çözümü Sağlayıcısı seçeneğini **Bulut Çözümü Sağlayıcısı** **emin** olun.
 
-   - Destek isteğinin **iletişim** bilgileri bölümünde, müşterinizin bilgilerini değil bilgilerinizi girin.
+   - Destek **isteğinin** İletişim bilgileri bölümünde, müşterinizin bilgilerini değil, bilginizi girin.
 
-3. Daha sonra, **destek Isteklerini Yönet**' i seçerek müşterilerinizin Microsoft Azure Portal içindeki hizmet isteklerini gözden geçirin.
+3. Daha sonra Destek isteklerini yönet'i seçerek müşterinizin Microsoft Azure portal hizmet **isteklerini gözden geçirebilirsiniz.**
 
-Söz konusu müşteri için yönetici izinleriniz yoksa, müşteri için bir destek isteği oluşturmanız gerekebilir. Bu, iki senaryodan birinde gerçekleşebilir:
+Müşteri için yönetici izinlerine sahip olmadığınız bir müşteri için destek isteği oluşturmanız gerekir. Bu durum iki senaryodan biri olabilir:
 
-- İlişkiyi ilk kez oluşturduğunuzda yönetici ayrıcalıkları istemediniz.
-- Yalnızca bir müşterinin Azure aboneliklerini yönetirsiniz, böylece yönetici izinleriniz yoktur.
+- İlişkiyi ilk kez kurduğunda yönetici ayrıcalıkları istemediniz.
+- Yönetici izinlerine sahip olmadığınız için yalnızca müşterinin Azure aboneliklerini yönetirsiniz.
  
-Bu durumların her birinde, bir destek isteği oluşturmak için aşağıdaki yordamı kullanabilirsiniz. 
+Bu iki durumda da, bir destek isteği oluşturmak için aşağıdaki yordamı kullanabilirsiniz. 
 
-1. Müşterinin etki alanı adını Iş Ortağı Merkezi 'ndeki Hesap sayfasından kopyalayın.
+1. Müşterinin etki alanı adını hesap sayfasından kopyalayıp İş Ortağı Merkezi.
 
-2. https://portal.azure.com/[Customerdomainname] adresine gidin. 
+2. https://portal.azure.com/[customerdomainname] gidin. 
 
 3. Destek gerektiren Azure aboneliğini seçin.
 
-4. **Yeni destek isteği**' ni seçin ve sonra isteği oluşturmak için istemleri izleyin. 
+4. Yeni **destek isteği'ne** seçin ve ardından istemleri takip edin ve isteği oluşturun. 
 
  
 ### <a name="office-365-microsoft-dynamics-crm-online-enterprise-mobility-suite"></a>Office 365, Microsoft Dynamics CRM Online, Enterprise Mobility Suite
 
-1. **Hizmet Isteği oluştur** bölümünde, uygun destek kategorisini seçin. Ek makaleleri görüntülemek için **daha fazla..** . seçeneğini belirlemeniz gerekebilir.
+1. Hizmet **isteği oluştur bölümünde** uygun destek kategorisini seçin. Ek makaleleri görüntülemek için **Diğer... seçeneğini** seçmeniz gerekir.
 
-2. Hizmet isteği formunu doldurun ve **Gönder**' i seçin.
+2. Hizmet isteği formunu doldurun ve Gönder'i **seçin.**
 
    > [!TIP]
-   > Müşterinizin bilgisini değil, iletişim bilgilerinizi eklediğinizden emin olun.
+   > Müşterinizin bilgilerini değil iletişim bilgilerini de dahil edin.
 
-3. Daha sonra, Office 365 yönetim merkezine giderek ve **tüm destek biletlerini göster**' i seçerek müşterinizin hizmet isteklerini gözden geçirin.
+3. Daha sonra Office 365 yönetim merkezine gidip Tüm destek biletlerini gör'ü seçerek müşterinizin **hizmet isteklerini gözden geçirebilirsiniz.**
 
 ### <a name="support-for-commercial-marketplace-products"></a>Ticari Market ürünleri desteği
 
@@ -113,28 +109,28 @@ Kendi iş ortağı kiracınız için destek, CSP desteği avantajı 'nın bir pa
 
 Bu avantaj, bulut çözümü sağlayıcısı programına katılan tüm iş ortakları için, ücretli veya deneme süresi içinde geçerlidir. Faturalandırma ve abonelik yönetimi desteği Ayrıca bu paketin ücretsiz bir bileşeni olarak da dahildir.
 
-### <a name="how-quickly-will-i-get-an-initial-response"></a>İlk yanıtı ne kadar hızlı alabilirim?
+### <a name="how-quickly-will-i-get-an-initial-response"></a>İlk yanıtı ne kadar hızlı alalım?
 
-İlk yanıt sürelerimiz, gönderilen olayın önem derecesine bağlıdır. Bir sorunun önem derecesi, bir hizmet isteği gönderdiğinizde iş etkisi belirtimine göre belirlenir.
+İlk yanıt sürelerimiz gönderilen olayın önem derecesine bağlıdır. Bir sorunun önem derecesi, hizmet isteği gönderdiğinizde iş etkisinin göstergesine göre belirlenir.
 
-**Teknik onarım olayları** için ilk yanıt süreleri:
+Teknik hata düzeltme olayları **için ilk yanıt süreleri:**
 
-- Kritik etki (önem derecesi A): Iki saat (hizmetlerden oluşan önemli bir kayıp veya düşme. Üretim Hizmetleri çalışmıyor.)
-- Orta etkisi (önem derecesi B): dört saat (bir veya daha fazla hizmet kaybı). Üretim Hizmetleri kısmen etkilendi.)
-- En az etki (önem derecesi C): sekiz saat (hizmetlerden en az kayıp veya performans düşüşü). Hizmetler hala kullanılabilir veya üretim dışı hizmetler etkilenir.)
+- Kritik Etki (önem derecesi A): İki saat (Hizmetlerde önemli kayıp veya düşüş). Üretim hizmetleri kapat.)
+- Orta Etki (önem derecesi B): Dört saat (Orta düzeyde hizmet kaybı veya düşüş). Üretim hizmetleri kısmen etkilendi.)
+- Minimum Etki (C önem derecesi): Sekiz saat (Hizmetlerde en az kayıp veya düşüş). Etkilenen hizmetler hala kullanılabilir veya üretim dışı hizmetler.)
 
-İlk yanıt süreleri yalnızca Ingilizce-konuşma desteğine yöneliktir. Yerel dil desteği iş saatlerinde sağlanır.
-Destek yetkilendirme sınırları dahilinde olan ancak onarım olayları kabul edilmeyen olaylar için ilk yanıt süresi bir iş gününe kadar olabilir.
+İlk yanıt süreleri yalnızca İngilizce konuşma desteğine göredir. Yerel dil desteği iş saatleri içinde sağlanır.
+Destek yetkilendirmesi sınırları içinde olan ancak hataya neden olan olaylar olarak kabul etmeyen olaylar için ilk yanıt süresi bir iş günü kadar olabilir.
 
-### <a name="can-i-submit-a-service-request-by-phone"></a>Bir hizmet isteğini telefonla gönderebilir miyim?
+### <a name="can-i-submit-a-service-request-by-phone"></a>Telefon ile hizmet isteği gönder miyim?
 
-Hayır, bu program için telefon desteği sunulmuyor.
+Hayır, bu program için telefon desteği sunm.
 
-### <a name="what-happens-if-i-sign-into-the-azure-portal-and-bypass-partner-center"></a>Azure portal oturum açıp Iş Ortağı Merkezi 'Ni atlayarak ne olur?
+### <a name="what-happens-if-i-sign-into-the-azure-portal-and-bypass-partner-center"></a>Azure portal'da oturum İş Ortağı Merkezi?
 
-Microsoft Azure portal doğrudan oturum açarsanız, merkezi bir müşterinin bağlamına değil kendi bağlamınızla görüntülüyorsunuz. Bu nedenle, yalnızca kendi abonelikleriniz için bir hizmet isteği oluştururken Microsoft Azure portal doğrudan oturum açmanız gerekir.
+Doğrudan oturum Microsoft Azure portal, merkezi müşterinin bağlamında değil kendi bağlamınız içinde görüntülersiniz. Bu nedenle, kendi abonelikleriniz için bir hizmet isteği Microsoft Azure portal doğrudan oturum açmanız gerekir.
 
-CSP programınızın yetkilendirme desteği, kendi Iş ortağı aboneliğinizde destek sağlamaz. Bu nedenle, kendi Iş ortağı Aboneliğinizle ilgili bir hizmet isteği oluşturduğunuzda geçerli destek planı yetkilendirlerinizi sağlamanız gerekir. MPN sözleşme KIMLIĞI, Premier veya bir Azure destek planı örnekleri bulunur. Daha fazla bilgi için bkz. [Azure DESTEĞI SSS](https://go.microsoft.com/fwlink/?LinkId=717532).
+CSP programı destek yetkilendirmeniz, kendi İş Ortağı aboneliğiniz için destek sağlamaz. Bu nedenle, kendi İş Ortağı aboneliğinizi ilgilendiren bir hizmet isteği oluşturma sırasında geçerli destek planı yetkilendirmenizi sağlayabilirsiniz. MPN sözleşme KIMLIĞI, Premier veya bir Azure destek planı örnekleri bulunur. Daha fazla bilgi için bkz. [Azure DESTEĞI SSS](https://go.microsoft.com/fwlink/?LinkId=717532).
 
 ### <a name="what-happens-if-i-sign-into-the-office-365-admin-center-portal-and-bypass-partner-center"></a>Office 365 Yönetim Merkezi portalında oturum açıp Iş Ortağı Merkezi 'Ni atlayarak ne olur?
 

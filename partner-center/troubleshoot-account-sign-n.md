@@ -1,51 +1,47 @@
 ---
-title: Iş Ortağı Merkezi hesabınızı veya MPN yenileme sorunlarını ayarlamayla ilgili sorunları giderin
+title: İş Ortağı Merkezi veya MPN yenileme sorunlarınızı giderme
 ms.topic: how-to
 ms.date: 08/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Iş Ortağı Merkezi 'ne kaydolmaya çalışırken sorun giderin. Ödeme yöntemleriyle ilgili adres sorunlarını yanıtlar, parolaları öğrenme ve daha fazlasını yapın.
+description: İş Ortağı Merkezi'a kaydolmaya çalışırken ortaya İş Ortağı Merkezi. Ödeme yöntemleriyle ilgili zorlukları, parolaları unutmayı ve daha fazlasını yanıtlar.
 author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f34adc57e668caecb69af37afc72b5153f667335
-ms.sourcegitcommit: 08a175c06ff4c6a2b12713f081adfa489e16e7a1
+ms.openlocfilehash: a5e8a292ad8593dc0b94179d5f0ee418344ef9af
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "109686271"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109854698"
 ---
 # <a name="troubleshoot-account-setup-or-mpn-renewal-issues"></a>Hesap kurulumu veya MPN yenileme sorunlarını giderme
 
-
-**Uygun roller**
-
-- Genel yönetici
-- MPN iş ortağı Yöneticisi
+**Uygun roller:** Genel yönetici | MPN iş ortağı yöneticisi
  
-Iş Ortağı Merkezi hesabınızı ayarlarken ortaya çıkan yaygın sorunları gidermeye yönelik bazı öneriler aşağıda verilmiştir.
+Burada, İş Ortağı Merkezi hesabınız ayarlarken ortaya çıkan yaygın sorunları gidermeye yönelik İş Ortağı Merkezi vardır.
 
-## <a name="what-happens-if-you-are-migrating-from-partner-membership-center-and-you-cant-edit-any-company-information-fields"></a>Iş ortağı üyelik merkezinden geçiş yapıyorsanız ve herhangi bir şirket bilgisi alanını düzenleyemezsiniz ne olur?
+## <a name="what-happens-if-you-are-migrating-from-partner-membership-center-and-you-cant-edit-any-company-information-fields"></a>Şirket dışından Partner Membership Center şirket bilgileri alanlarını düzenleyemeyebilirsiniz
 
-Şirketinizin zaten Iş Ortağı Merkezi 'nde (örneğin, bir CSP hesabı) mevcut olduğu durumlarda, salt okunurdur bir ekran gösterilir. Bu ekranda, Iş Ortağı Merkezi 'nde olduğu gibi şirketiniz hakkındaki tüm bilgiler görüntülenir.
+Şirket içinde zaten bir İş Ortağı Merkezi (csP hesabı gibi) olduğu durumlarda, salt okunur bir ekran gösterilir. Bu ekranda, şirketle ilgili tüm bilgiler şirket içinde mevcut İş Ortağı Merkezi.
 
-Bu ekrandaki ayrıntıları değiştiremezsiniz. Bu, tasarım ve bir hata değildir.
+Bu ekranda ayrıntıları değiştiremezsiniz. Bu bir hata değil, tasarıma göredir.
 
-**Kabul et** ' i seçin ve devam **edin** .
+Devam etmek **için Kabul** Et ve **Devam Et'i** seçin.
 
 
-### <a name="if-the-it-department-has-turned-off-sign-up-for-partner-center"></a>BT departmanı **Iş Ortağı Merkezi 'Ne kaydolma** işlemi kapalıysa
+### <a name="if-the-it-department-has-turned-off-sign-up-for-partner-center"></a>IT departmanı Kayıt için **kaydolmayı İş Ortağı Merkezi**
 
-Bu iletiyi, viral kullanıcıları devre dışı bırakıldığı veya Azure AD kiracısında viral kaydolma devre dışı bırakıldığı için görürsünüz. Azure AD hesabınız için genel yönetici, aşağıdaki PowerShell komutunu çalıştırarak gerekli özellikleri etkinleştirebilir:
+Bu iletiyi, virüslü kullanıcılar devre dışı bırakıldıklarında veya Azure AD kiracısı üzerinde Viral Kayıt devre dışı bırakıldıklarında görüyorsunuz. Azure AD hesabınıza yönelik Genel yönetici, aşağıdaki PowerShell komutunu çalıştırarak gerekli özellikleri etkinleştirebilirsiniz:
 
-**Set-MsolCompanySettings-AllowEmailVerifiedUsers $true-Allowadhocabonelikleri $true**
+**Set-MsolCompanySettings -AllowEmailVerifiedUsers $true -AllowAdHocSubscriptions $true**
 
-Daha fazla bilgi için [self servis kaydolun](/azure/active-directory/users-groups-roles/directory-self-service-signup)makalesini okuyun.
+Daha fazla bilgi için [self servis kaydolma makalelerini okuyun.](/azure/active-directory/users-groups-roles/directory-self-service-signup)
 
-## <a name="you-forgot-your-password"></a>Parolanızı unuttum
+## <a name="you-forgot-your-password"></a>Parolanızı unuttunız
 
-Parolanızı unuttuysanız, oturum açma sayfasında **hesabınıza erişemiyor musunuz?** bağlantısına tıklayın. Bu seçenek, parolanızı sıfırlamanızı veya genel yöneticinizden size yeni kimlik bilgileri atamasını ister.
+Parolanızı unuttuysanız oturum açma **sayfasındaki Hesabınıza erişe miyim?** bağlantısını seçin. Bu seçenek parolanızı sıfırlamanıza veya Genel yöneticinizden size yeni kimlik bilgileri atamasını istemenize olanak sağlar.
 
 ## <a name="on-the-tell-us-about-your-company-screen-you-receive-a-something-went-wrong-error"></a>"Şirketiniz hakkında bize söyleyin" ekranında, "bir sorun oluştu" hatası alıyorsunuz
 

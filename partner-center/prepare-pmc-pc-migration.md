@@ -1,50 +1,45 @@
 ---
-title: Iş ortağı üyeliği merkezinden taşıma
+title: Partner Membership Center'den taşıma
 ms.topic: article
 ms.date: 06/01/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: İşletmenizi iş ortağı üyeliği merkezinden iş ortağı merkezi 'ne taşımadan önce yararlı bilgileri ve sık sorulan soruları gözden geçirin.
+description: İşletmenizi yeni bir işletmeye taşımadan önce yararlı bilgileri ve sık Partner Membership Center soruları İş Ortağı Merkezi.
 author: parthpandyamsft
 ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b267f89ec1c7b27e87eaaf3d7b594ebbd0fd6942
-ms.sourcegitcommit: a691d4cbe144a8fd71e344fd293cc658ac11d6f3
+ms.openlocfilehash: 7f533240d5236f03fe277d4c6dfa02ed1c58b63c
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/27/2021
-ms.locfileid: "105633888"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855021"
 ---
-# <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>Iş ortağı üyelik merkezinden (PMC) Iş Ortağı Merkezi 'ne geçiş için hazırlanma
+# <a name="prepare-for-your-move-from-partner-membership-center-pmc-to-partner-center"></a>Partner Membership Center(PMC) ile İş Ortağı Merkezi
 
-**Uygun roller**
+**Uygun roller:** Genel yönetici | Kullanıcı yönetimi yönetici | Satış aracısı | Yönetici aracısı
 
-- Genel yönetici
-- Kullanıcı Yönetimi Yöneticisi
-- Satış Aracısı
-- Yönetim Aracısı
-
-İş ilişkinizi Microsoft ile yönetmeye yönelik tek bir hedef olan iş ortağı üyelik Merkezi 'nden (PMC) üyelik yönetimini iş ortağı merkezi 'ne taşıdık. Iş Ortağı Merkezi 'ne taşınmanın mümkün olduğunca verimli ve kolay olmasını istiyoruz. Iş ortağı merkezinin PMC 'den farklı olduğu bazı bölümler belirledik ve taşımayı yapmadan önce bunları anlamak ve hazırlamak istediğinizi düşündük.
+Microsoft ile iş ilişkilerinizi yönetmek Partner Membership Center için üyelik yönetimini İş Ortağı Merkezi (PMC) hedefine taşınıyoruz. Yeni bir İş Ortağı Merkezi mümkün olduğunca verimli ve kolay olması istiyoruz. PmC'den farklı olan İş Ortağı Merkezi alanları belirledik ve taşımadan önce bunları anlamak ve hazırlamak istediğinizi düşünüyoruz.
 
 ## <a name="account-and-identity-setup"></a>Hesap ve kimlik kurulumu
 
-Hesap ve kimlik kurulumu hakkında sık sorulan sorulara yanıtlar için aşağıya bakın.
+Hesap ve kimlik kurulumu hakkında sık sorulan soruların yanıtları için aşağıya bakın.
 
 ### <a name="what-is-an-azure-active-directory-azure-ad-work-account"></a>Azure Active Directory (Azure AD) iş hesabı nedir?
 
-Azure iş hesabı, Azure genel bulutunda şirketinizin adanmış ve yalıtılmış bir sanal gösterimidir ve Azure, Microsoft Intune veya Office 365 gibi bir Microsoft bulut hizmetine abone olduğunuzda sizin için oluşturulur.
+Azure iş hesabı, Azure, Microsoft Intune veya Office 365 gibi bir Microsoft bulut hizmetine abone olurken sizin için oluşturulan, Azure genel bulut'ta şirket için ayrılmış ve yalıtılmış bir sanal temsildir.
 
-İş hesabınız, Azure AD kullanıcılarınızı ve bunlarla ilgili bilgileri (e-posta, parolalar, profil verileri, izinler vb.) barındırır. İş hesabı Ayrıca gruplar, uygulamalar ve bir şirketle ilgili ve güvenlikle ilgili diğer bilgileri de içerir. 
+İş hesabınız, Azure AD kullanıcılarınızı ve bu kullanıcılarla ilgili bilgileri (e-posta, parolalar, profil verileri, izinler gibi) barındırıyor. İş hesabı ayrıca bir şirkete ve şirketin güvenliğine ilişkin grupları, uygulamaları ve diğer bilgileri içerir. 
 
-İş e-postanız Azure Active Directory kiracınızın bir parçasıdır. Iş Ortağı Merkezi 'nde bir hesaba sahip olmak için bir AAD Kiracınız olması gerekir. Azure Active Directory hakkında daha fazla bilgi için [Azure AD 'de dizininizi oluşturma](/azure/active-directory/fundamentals/add-custom-domain#create-your-directory-in-azure-ad)makalesini okuyun.
+İş e-postanız Azure Active Directory kiracınıza aittir. Hesap sahibi olmak İş Ortağı Merkezi AAD kiracısına sahip olmak gerekir. Azure AD'de dizininizi Azure Active Directory [hakkında daha fazla bilgi için, makaleyi okuyun.](/azure/active-directory/fundamentals/add-custom-domain#create-your-directory-in-azure-ad)
 
-İş e-postanızı kullanarak kişisel e-postanız için hesabınızda oturum açmanız gerekir.
+Bu İş Ortağı Merkezi iş e-postanızı kullanarak kişisel e-posta adresinizle değil, hesabınızla oturum açın.
 
 - İş hesabınız: john@contoso.com
 - Kişisel hesabınız: John@outlook.com
 
-### <a name="what-account-should-you-sign-into-partner-center-with-if-you-have-an-aad-tenant-with-microsoft-for-office-365-for-example-and-you-also-have-a-tenant-for-your-csp-business"></a>Microsoft ile bir AAD kiracınız varsa (örneğin, Office 365 için) ve ayrıca CSP işletmeniz için bir kiracınız varsa, Iş Ortağı Merkezi 'Nde oturum açmanız gereken hesap nedir?
+### <a name="what-account-should-you-sign-into-partner-center-with-if-you-have-an-aad-tenant-with-microsoft-for-office-365-for-example-and-you-also-have-a-tenant-for-your-csp-business"></a>Microsoft'ta (örneğin Office 365 için) bir AAD kiracınız varsa ve CSP işletmeniz için bir kiracınız varsa İş Ortağı Merkezi'de hangi hesapla oturum açmanız gerekir?
 
 Iş Ortağı Merkezi 'Nde CSP hesabı ya da MPN iş e-posta hesabınızla oturum açabilirsiniz. CSP iş e-postanızı kullanarak oturum açmayı seçerseniz, panonuzda sol gezinti, hem MPN hem de CSP program bilgilerini görüntüler. MPN Azure AD kiracısı iş e-postalarınız ile oturum açarsanız yalnızca MPN program bilgilerinizi görürsünüz. 
 
@@ -62,32 +57,32 @@ Geçiş işlerini yapan MPN genel yöneticisi veya birincil program ile ilgili k
 
 ### <a name="whats-the-difference-between-my-company-profile-and-my-business-profile"></a>Şirket profilimi ve iş profilim arasındaki fark nedir?
 
-Şirket profiliniz, şirketiniz hakkında adres, konum, birincil kişi, banka ve vergi ayrıntılarını içeren bilgiler içerir.
+Şirket profiliniz; adresi, konumları, birincil ilgili kişiyi, bankayı ve vergi ayrıntılarını içeren, şirketinize ilişkin bilgilerdir.
 
-İş profiliniz, kendinizi müşterilere sunma ve logonuzu, iş odağınızdaki ayrıntıları, uzmanlığınızı vb. görüntüleyen bir pazarlama sayfasıdır.
+İş profiliniz, kendinizi müşterilere nasıl sunabilirsiniz? Logonuzu, iş odağınızı ve uzmanlığınızı gösteren bir pazarlama sayfasıdır.
 
-### <a name="what-does-account-consolidation-mean-for-my-account"></a>Hesabım için hesap birleştirme ne anlama geliyor?
+### <a name="what-does-account-consolidation-mean-for-my-account"></a>Hesap birleştirme hesabım için ne anlama geliyor?
 
-Birden çok MPN hesabını Iş Ortağı Merkezi 'ne geçirmek için aynı Azure AD kiracısını kullanırsanız, sistem bunu otomatik olarak tanır ve hesaplarınızı birleştirmeniz istenir. Aynı Azure AD kiracısıyla ilişkilendirilmiş birden çok etki alanı olsa bile bu değer geçerlidir. 
+Birden çok MPN hesabını İş Ortağı Merkezi geçirmek için aynı Azure AD kiracısını kullanırsanız, sistem bunu otomatik olarak tanır ve hesaplarınızı birleştirmenizi sorar. Aynı Azure AD kiracısı ile ilişkilendirilmiş birden çok etki alanınız olsa bile bu durum doğrudur. 
 
-Ayrı AAD kiracılarını kullanarak Iş Ortağı Merkezi 'ne geçişe yine de karar verebilirsiniz, ancak bu durum, uzmanlarınızın ve ek satın alma maliyetlerinizin yalıtılmış değerlendirmesiyle sonuçlanır. Hesap birleştirme hakkında daha fazla bilgi için [Şirket hesaplarınızı birleştirme](consolidate-accounts.md) konusunu okuyun
+Ayrı AAD kiracıları kullanarak İş Ortağı Merkezi yine de geçişe karar veresiniz, ancak bunun yetkinliklerinizi yalıtılmış olarak değerlendirmesine ve ek satın alma maliyetlerine neden olduğunu unutmayın. Hesap birleştirme hakkında daha fazla bilgi için şirket [hesaplarınızı birleştirme makalesini okuyun](consolidate-accounts.md)
 
-### <a name="if-i-have-multiple-aad-tenants-and-a-single-mpn-account-is-it-possible-to-link-them-in-partner-center"></a>Birden çok AAD kiracısın ve tek bir MPN hesabı varsa, bunları Iş Ortağı Merkezi 'nde bağlamak mümkün mü?
+### <a name="if-i-have-multiple-aad-tenants-and-a-single-mpn-account-is-it-possible-to-link-them-in-partner-center"></a>Birden çok AAD kiracım ve tek bir MPN hesabım varsa, bunları birden çok AAD kiracısına İş Ortağı Merkezi?
 
-Evet, Iş Ortağı Merkezi 'nde birden çok Azure AD kiracıyı tek Iş Ortağı Merkezi hesabına bağlayabilirsiniz.
-Hesap birleştirme hakkında daha fazla bilgi için [Şirket hesaplarınızı birleştirme](consolidate-accounts.md) konusunu okuyun
+Evet, İş Ortağı Merkezi Azure AD kiracılarını tek bir azure hesabına İş Ortağı Merkezi.
+Hesap birleştirme hakkında daha fazla bilgi için şirket [hesaplarınızı birleştirme makalesini okuyun](consolidate-accounts.md)
 
-### <a name="are-there-restrictions-to-adding-multiple-azure-ad-tenants-to-a-single-partner-center-account"></a>Birden çok Azure AD kiracısın tek bir Iş Ortağı Merkezi hesabına eklenmesine yönelik kısıtlamalar var mı?
+### <a name="are-there-restrictions-to-adding-multiple-azure-ad-tenants-to-a-single-partner-center-account"></a>Tek bir azure hesabına birden çok Azure AD kiracısı eklemeye yönelik İş Ortağı Merkezi var mı?
 
-Azure AD kiracısı zaten mevcut bir Iş Ortağı Merkezi hesabıyla ilişkili ise, çok kiracılı özelliği kullanılarak yeni Iş Ortağı Merkezi hesaplarıyla ilişkilendirilemez. Bunu düşünmenin bir diğer yolu da, bir Azure AD kiracısı yalnızca bir Iş Ortağı Merkezi hesabıyla ilişkilendirilebilir, ancak bir Iş Ortağı Merkezi hesabına ilişkili birden fazla kiracı olabilir.
+Azure AD kiracısı zaten mevcut bir İş Ortağı Merkezi hesabıyla ilişkilendirilmişse, çok kiracılı özelliği İş Ortağı Merkezi yeni kiracı hesaplarıyla ilişkilendirilemez. Bunu düşünmenin bir diğer yolu da Azure AD kiracısı yalnızca bir İş Ortağı Merkezi hesabıyla ilişkilendirilebilirsiniz ancak İş Ortağı Merkezi hesabıyla ilişkilendirilmiş birden çok kiracı olabilir.
 
 ## <a name="microsoft-partner-network-mpn-membership-migration"></a>Microsoft İş Ortağı Ağı (MPN) üyelik geçişi 
 
-MPN üyelik geçişi hakkında sık sorulan sorulara yönelik aşağıdaki yanıtlara bakın.
+MPN üyelik geçişi hakkında sık sorulan soruların yanıtlarına aşağıdaki yanıtlara bakın.
 
-### <a name="who-can-perform-the-move-from-pmc-to-partner-center"></a>PMC 'den Iş ortağı merkezine ne kadar geçiş yapabilir?
+### <a name="who-can-perform-the-move-from-pmc-to-partner-center"></a>PMC'den İş Ortağı Merkezi'a taşımayı kim İş Ortağı Merkezi?
 
-Şirketinizin MPN genel yöneticisi veya birincil program kişisi (Bu iki rol genellikle aynı kişi tarafından tutulur), taşımayı başlatabilir ve gerçekleştirebilir.
+Şirket MPN genel yöneticiniz veya birincil program ilgili kişisi (bu iki rol genellikle aynı kişi tarafından tutularak) taşıma işlemini başlatarak gerçekleştir olabilir.
 
 ### <a name="will-the-person-completing-the-migration-become-the-primary-contact-on-the-company-legal-profile-in-partner-center"></a>Geçiş işlemini tamamlayan kişi, Iş Ortağı Merkezi 'nde şirket yasal profilinde birincil iletişim olur mu?
 
@@ -115,29 +110,29 @@ Uygun avantajlarınız değişmeyecektir. Tutarsızlıklarla karşılaşırsanı
 
 Evet. MSAs 'ye ayrılan Visual Studio avantajları kabul edilir ve korunur. Ayrıca Iş Ortağı Merkezi 'nde yenilemeden sonra da korunacaktır. Ancak, Iş Ortağı Merkezi 'nde geçiş yapıldıktan sonra bir MSA ayırmayı kaldırırsanız, Iş Ortağı Merkezi 'ne geri eklenemez.
 
-İş Ortağı Merkezi 'nde iş ortağı, iş hesapları ve Konuk Kullanıcı hesapları ekleyebilir ve bu, ortağın Azure AD kiracısında MPN Yöneticisi olduğu aynı kiracıdan MSA. İş ortağı birden çok Azure AD kiracısından genel yöneticiyse ve tüm bu kiracılar aynı Iş Ortağı Merkezi hesabıyla ilişkiliyse, iş ortağının tüm bu kiracılar genelinde, Visual Studio avantajları ve Azure kullanım tabanlı tahsislerine Kullanıcı eklemesine izin verilir.
+İş Ortağı Merkezi 'nde iş ortağı, iş hesapları ve Konuk Kullanıcı hesapları ekleyebilir ve bu, ortağın Azure AD kiracısında MPN Yöneticisi olduğu aynı kiracıdan MSA. İş ortağı birden çok Azure AD kiracısı içinde genel yönetici ise ve tüm bu kiracılar aynı İş Ortağı Merkezi hesabıyla ilişkili ise, iş ortağının tüm bu kiracılar arasında kullanıcıları Visual Studio avantajlarına ve Azure kullanım tabanlı ayırmalara eklemesine izin verilir.
 
-Konuk kullanıcılara MPN Yöneticisi veya genel yönetici tarafından Visual Studio 'nun kullanım tabanlı abonelikleri atanabilse de Konuk kullanıcılar, MSA kullanarak Iş Ortağı Merkezi 'nde oturum açamaz. Ancak Konuk kullanıcılar, atanan avantajlarını doğrulamak ve kullanmak için Azure ve Visual Studio 'da oturum açabilir.
+Konuk kullanıcılara MPN yöneticisi veya genel yönetici tarafından Visual Studio tabanlı abonelikler atanabilir, ancak konuk kullanıcılar MSA'larını kullanarak İş Ortağı Merkezi oturum açmaz. Öte yandan konuk kullanıcılar Azure'da oturum Visual Studio ve atanan avantajlarını doğrulamak ve kullanmak için kullanılabilir.
 
-### <a name="how-should-we-manage-our-mcp-associations-and-our-partner-university-access"></a>MCP ilişkilerimizi ve Iş ortağı Üniversitesi erişimimizi nasıl yönetmeniz gerekir?
+### <a name="how-should-we-manage-our-mcp-associations-and-our-partner-university-access"></a>MCP ilişkilendirmelerimizi ve Partner University erişimimizi nasıl yöneteceğiz?
 
-MCP ilişkilerinizden geçiş yapan hiçbir değişiklik yok. Bununla birlikte, Iş Ortağı Merkezi 'ne taşıdıktan sonra gelen yeni çalışanların Iş Ortağı Merkezi ile ilişkilendirilmesi gerekir. Mevcut kullanıcılar için tüm Iş ortağı Üniversitesi izinleriniz kalacak, ancak Iş ortağı University 'e nasıl erişecaklarına ilişkin bilgiler için yeni çalışanların [eğitim merkezine](https://partner.microsoft.com/training) gitmesi gerekir.
+PMC'den hareket edecek MCP ilişkilendirmeleri üzerinde değişiklik yoktur. Ancak, İş Ortağı Merkezi'a İş Ortağı Merkezi tüm yeni çalışanların şirket içinde İş Ortağı Merkezi. Mevcut kullanıcılar için Tüm Partner University izinlerinizi kullanabilirsiniz [](https://partner.microsoft.com/training) ancak yeni çalışanlar Partner University'ye nasıl erişim elde edecekleri hakkında bilgi almak için eğitim merkezine gitmektedir.
 
-### <a name="how-do-i-view-mcp-information-once-i-move-to-partner-center"></a>Iş Ortağı Merkezi 'ne taşıdıktan sonra MCP bilgilerini Nasıl yaparım? görüntüleyin mi?
+### <a name="how-do-i-view-mcp-information-once-i-move-to-partner-center"></a>Nasıl yaparım?'a taşınarak MCP bilgilerini İş Ortağı Merkezi?
 
-Panoda sol Gezinti alanındaki **Uzmanlıklar** ' ı seçin. **Uzmanlıklar** sayfasından yetenekler raporunu indirebilirsiniz. Yetenekler raporu, Iş ortağı merkezindeki Uzmanlıklar ve programlarla ilgili becerileri almış olan kullanıcılarınızı listeler. Kullanıcılarınız becerileri kazandıysanız ancak bu yetenekler, doğru çalıştığınız uzmanlarla ilgili değilse raporda listelenmez.
+Panonun **sol** gezinti çubuğundan Yetkinlikler'i seçin. Yetkinlikler **sayfasından** beceri raporunu indirebilirsiniz. Beceri raporu, iş birliğine ilişkin yetkinliklere ve programlara uygun beceriler edinen kullanıcılarınızı İş Ortağı Merkezi. Kullanıcılarınız beceri kazandı ancak bu beceriler üzerinde çalışmakta olduğunuz yetkinliklerle ilgili değilse, bunlar raporda listelenmiyor.
 
-### <a name="are-customer-references-used-in-partner-center"></a>Müşteri başvuruları Iş Ortağı Merkezi 'nde mi kullanılıyor?
+### <a name="are-customer-references-used-in-partner-center"></a>Müşteri başvuruları veri kaynaklarında İş Ortağı Merkezi?
 
-Hayır, Iş Ortağı Merkezi 'nde uzmanlığa gereksinimleri karşılamak için müşteri başvurularına gerek yoktur.
+Hayır, bu hizmetlerde uzmanlık gereksinimlerini karşılamak için müşteri başvurularını İş Ortağı Merkezi.
 
-### <a name="will-partner-of-record-associations-move-to-partner-center"></a>Kayıt ilişkilerinin Iş Ortağı Merkezi 'ne taşınacaktır?
+### <a name="will-partner-of-record-associations-move-to-partner-center"></a>Kayıt İş Ortağı ilişkilendirmeleri İş Ortağı Merkezi?
 
-Evet, kayıt Iş ortağının bir değişikliği yoktur. [İş ortağı kimliğinizi müşterilerinize bağlama](/azure/billing/billing-partner-admin-link-started)hakkında daha fazla bilgi edinin.
+Evet, Kayıt İş Ortağı'nın hiçbir değişikliği yoktur. İş ortağı kimliğinizi [müşterilerinize bağlama hakkında daha fazla bilgi bulabilirsiniz.](/azure/billing/billing-partner-admin-link-started)
 
-### <a name="is-there-an-impact-to-incentives-because-of-the-move-to-partner-center"></a>Iş Ortağı Merkezi 'ne geçiş teşvikleri için bir etkisi var mı?
+### <a name="is-there-an-impact-to-incentives-because-of-the-move-to-partner-center"></a>Teşviklerin bir etkisi var mı? Bu, İş Ortağı Merkezi?
 
-Hayır, siz hesabınızı birleştirmeden taşıdıysanız teşvikleri üzerinde hiçbir etkisi yoktur. İşletmenizde, PMC 'de birden çok hesap varsa ve iş ortağı Merkezi ' ne geçtiğinizde küresel bir hesapla birleştirmeye karar verirseniz, teşvikleri için bir kayıp olmaz, ancak bunun için bir gecikme olabilir. 
+Hayır, konum birleştirmeden hesabını taşıdıysanız teşvikler üzerinde hiçbir etkisi olmaz. İşletmenizde, PMC 'de birden çok hesap varsa ve iş ortağı Merkezi ' ne geçtiğinizde küresel bir hesapla birleştirmeye karar verirseniz, teşvikleri için bir kayıp olmaz, ancak bunun için bir gecikme olabilir. 
 
 Teşvikleri programlarında yer alan tüm PMC hesaplarınızı taşımadıysanız, bu hesaplara bağlı teşvikleri kazanmanın durulabiliriz.
 
@@ -163,8 +158,8 @@ Başvurular, müşterinin tanımladığı arama parametrelerine göre atanır. B
 
 ### <a name="i-am-migrating-to-partner-center-from-within-russia-i-get-an-error-message-about-web-direct-how-do-i-continue-with-the-migration"></a>Rusya içinden Iş Ortağı Merkezi 'ne geçirdim. Web Direct hakkında bir hata iletisi alıyorum. Nasıl yaparım? geçişe devam edilsin mi?
 
-Web doğrudan programına katıldığınız için bir hata iletisi alırsanız, aşağıdakileri yapmanız gerekir:
+Web Direct programına katıldığınız için bir hata iletisi alırsanız, aşağıdaki adımları gerçekleştirin:
 
-1. Portalda oturum açın. Azure.com ve yeni bir Azure AD kiracısı oluşturun. Daha fazla bilgi için [Yeni bir Azure AD kiracısı oluşturma](/azure/active-directory/fundamentals/active-directory-access-create-new-tenant)makalesini okuyun.
+1. Portalda oturum açın. Azure.com Azure AD kiracısı oluşturun ve yeni bir kiracı oluşturun. Daha fazla bilgi için [yeni Bir Azure AD kiracısı oluşturma makalesi okuyun.](/azure/active-directory/fundamentals/active-directory-access-create-new-tenant)
 
-2. Yeni Azure AD kiracısını oluşturduktan sonra Iş ortağı üyeliği merkezinden Iş Ortağı Merkezi 'ne geçiş yapmak veya Iş Ortağı Merkezi 'nde bir net yeni olarak kaydetmek için kullanın.
+2. Yeni Azure AD kiracısı oluşturduktan sonra bu kiracıyı kullanarak Partner Membership Center'İş Ortağı Merkezi'ye geçiş veya İş Ortağı Merkezi.

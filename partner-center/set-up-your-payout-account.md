@@ -7,19 +7,16 @@ ms.subservice: partnercenter-mpn
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 12/10/2019
-ms.openlocfilehash: 8f680753216ea9cd515c8082495b390c7bf95a62
-ms.sourcegitcommit: 22e257d5b334ca8d3fc072f59010a508e1022694
+ms.openlocfilehash: 255ae28af5b29645b06ad0ae6a1f9660ad334c3c
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "108702816"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109854852"
 ---
 # <a name="set-up-your-payout-account-and-tax-forms"></a>Ödeme hesabınızı ve vergi formlarınızı ayarlama
 
-**Uygun roller**
-
-- Hesap yöneticisi
-- Genel yönetici
+**Uygun roller**: Hesap Yöneticisi | Genel yönetici
 
 Ticari Market 'teki teklif satışlarından para almak için, ödeme hesabınızı ayarlamanız ve [Iş Ortağı Merkezi](https://partner.microsoft.com/dashboard)'nde gerekli vergi formlarını doldurmanız gerekir.
 
@@ -45,24 +42,24 @@ Vergi profilinizi ve vergi formlarınızı Iş Ortağı Merkezi 'nin **ödeme ve
 İlk olarak, bir vergi profili oluşturmanız ve katılmayı yaptığınız programlara atamanız gerekir. Iş Ortağı Merkezi 'nde *vergi profilinizi* oluşturmak veya güncelleştirmek için aşağıdaki adımları kullanın. Vergi formlarınızı Iş Ortağı Merkezi panosunda elektronik olarak tamamlayabilir ve gönderebilirsiniz. Çoğu durumda, herhangi bir formu yazdırmanız ve postalarınıza gerek kalmaz.
 
 > [!IMPORTANT]
-> Farklı ülkeler ve bölgeler farklı vergi gereksinimlerine sahiptir. Vergilerle ödeme yapmanız gereken tam tutar, teklifinizi sattığınız ülkelere ve bölgelere göre değişir. Microsoft remits Sales ve sizin adınıza vergi kullanan ülke/bölge hakkında bilgi edinmek için [Microsoft Azure Market Yayımcı Sözleşmesi](https://go.microsoft.com/fwlink/p/?LinkID=699560) ' ne bakın. Diğer ülkelerde/bölgelerde, kaydettiğiniz yere bağlı olarak, teklif satışlarınız için satış ve Kullanım vergisini doğrudan yerel talama yetkilisine havale etmeniz gerekebilir. Bunlara ek olarak, aldığınız uygulama satışları gelir olarak vergilendirilebilir olabilir. Ülkeniz veya bölgeniz için, ticari Market etkinlikleriniz için doğru vergi bilgilerini belirlemenize en iyi şekilde yardımcı olabilecek ilgili yetkiliyle iletişim kurmanız önemle önerilir.
+> Farklı ülkeler ve bölgeler farklı vergi gereksinimlerine sahiptir. Vergilerde ödemeniz gereken tutar, teklifinizi satıp satmayı seçtiğiniz ülkelere ve bölgelere bağlıdır. [Microsoft'un Microsoft Azure Market ve](https://go.microsoft.com/fwlink/p/?LinkID=699560) sizin adına vergiyi hangi ülkeler/bölgeler için kullana olduğunu bulmak için Microsoft Azure Market Yayımcı Sözleşmesi'ne bakın. Diğer ülkelerde/bölgelerde, kayıtlı bulunduğunuz yere bağlı olarak satışları geri ödemeniz ve teklif satışları için vergiyi doğrudan yerel vergi yetkilisine göstermeniz gerekir. Ayrıca, elde edilen uygulama satışları gelir olarak vergiye tutulabilir. Ticari market etkinlikleriniz için doğru vergi bilgilerini belirlemenize en iyi şekilde yardımcı olacak ülkeniz veya bölgeniz için ilgili yetkiliye başvurabilirsiniz.
 
-1. [Iş Ortağı Merkezi panosunda](https://partner.microsoft.com/dashboard)sağ üst köşedeki **Ayarlar** dişli simgesini ve ardından **Hesap ayarları**' nı seçin.
+1. Panoda [İş Ortağı Merkezi sağ](https://partner.microsoft.com/dashboard)üst **köşedeki** Ayarlar dişli simgesini ve ardından Hesap **ayarları'ı seçin.**
 
-2. Sol gezinti menüsünde, **ödeme ve vergi**' ı seçin **ve ardından ödeme ve vergi atamaları**' nı seçin.
+2. Sol gezinti menüsünde Ödeme ve **vergi'yi ve** ardından Ödeme ve vergi **atamaları'ı seçin.**
 
-3. Vergi bilgilerini yapılandırmak istediğiniz program ve satıcı KIMLIĞI birleşimini seçin.
+3. Vergi bilgilerini yapılandırmak istediğiniz programı ve satıcı kimliği birleşimini seçin.
 
-4. Mevcut bir vergi profilini kullanmak isterseniz, açılan listeden seçin. Aksi takdirde **Yeni Profil oluştur** ' u seçin ve **Gönder**' e basın. Vergi profilleri sayfasına yönlendirilirsiniz.
+4. Mevcut bir vergi profilini kullanmak için açılan listeden seçin. Aksi takdirde, Yeni **profil oluştur'a tıklayın ve** Gönder'e **basın.** Vergi profilleri sayfasına gelirsiniz.
 
-5. Vergi bilgilerinizi düzenlemek için **Düzenle** düğmesini seçin.
+5. Vergi **bilgilerini düzenlemek** için Düzenle düğmesini seçin.
 
-6. Uygun radyo düğmesini seçin ve istenirse bulunduğunuz ülkeyi/bölgenizi seçin. Bu adım, hesabınızda ödeme yapmak için kullanılacak Microsoft iş varlığını belirler.
+6. Uygun radyo düğmesini seçin ve istenirse ülkenizi/bölgenizi seçin. Bu adım, hesabınıza ödeme yapmak için kullanılacak Microsoft iş varlığını belirler.
 
-7. 6. adımdaki seçimlerinize bağlı olarak, ülkeniz/bölgeniz için gereken vergi bilgilerini sağlamanız istenir.
+7. 6. adımda yapılan seçimlere bağlı olarak, ülkeniz/bölgeniz için gereken vergi bilgilerini girmeniz istenir.
 
    > [!NOTE]
-   > Konor vatandaşlık ülkeniz/bölgeinizden bağımsız olarak, ticari Market aracılığıyla herhangi bir teklif veya eklenti satmak için Birleşik Devletler vergi formlarını doldurmanız gerekir. Belirli Birleşik Devletler ek gereksinimleri karşılayan yayımcılar bir ıRS W-9 formunu doldurmalıdır. Birleşik Devletler dışındaki diğer yayımcılar bir ıRS W-8 formu doldurmanız gerekir. Vergi profilinizi tamamladığınızda, bu formları çevrimiçi olarak doldurabilirsiniz.
+   > Ülkeniz/ülkeniz/bölgeniz ne olursa olsun, ticari market Birleşik Devletler veya eklentilerini satacak vergi formlarını doldurmanız gerekir. Belirli bir IRS Birleşik Devletler gereksinimlerini karşılayan yayımcıların bir IRS W-9 formu doldurması gerekir. Uygulamanın dışındaki diğer Birleşik Devletler bir IRS W-8 formu doldurması gerekir. Vergi profilinizi tamamladığınızda, bu formları çevrimiçi olarak doldurabilirsiniz.
 
 ### <a name="withholding-rates"></a>Stopaj oranları
 
@@ -88,40 +85,40 @@ Bir ödeme hesabı, satışınızdan devam eden bir banka hesabıdır. Profil sa
 2. *Ödeme ve vergi* başlığının altında, **ödeme ve vergi profili ataması**' nı seçin.
 
     > [!NOTE]
-    > Bu hassas bilgiler olduğundan, yeniden oturum açmanız istenebilir.
+    > Bu hassas bilgiler olduğundan yeniden oturum açmanız istendiğinde.
 
 3. Yapılandırmak istediğiniz ödeme yöntemini seçin.
 
-4. Mevcut bir ödeme profili seçin veya **Yeni bir ödeme profili oluştur** ' u seçerek seçili ödeme yöntemi için yeni bir profil oluşturun.
+4. Seçili ödeme yöntemi için yeni bir profil **oluşturmak için mevcut bir ödeme profilini seçin** veya Yeni ödeme profili oluştur'a tıklayın.
 
 ### <a name="create-a-bank-based-payment-profile"></a>Banka tabanlı ödeme profili oluşturma
 
-Ödemeler almak için bir banka hesabı kullanmayı seçtiyseniz, banka hesabınızı yapılandırmak için aşağıdaki işlemi tamamlayabilirsiniz.
+Ödeme almak için bir banka hesabı kullanmayı seçilirse, banka hesabını yapılandırmak için aşağıdaki işlemi tamamlarsınız.
 
-1. *Banka profili* sayfasında, bankanızla ilgili gerekli bilgileri sağlayın.
-2. Banka hesabı ayrıntılarınızı belirtin.
+1. Banka *Profili sayfasında,* bankanız hakkında gerekli bilgileri ekleyin.
+2. Banka hesabı ayrıntılarınızı sağlama.
 
     > [!NOTE]
-    > Hesap bilgilerinizi sağlamak için kullandığınız alanlar yalnızca alfasayısal karakterleri kabul eder.
+    > Hesap bilgilerinizi sağlamak için kullanabileceğiniz alanlar yalnızca alfasayısal karakterleri kabul eder.
 
-3. Lehdar ayrıntılar sağlayın.
-4. *Profil atama* sayfasına geri döndüğünüzde, ödemlarınızı yayınlıyoruz, kullanmak istediğiniz para birimini seçin.
+3. Yararlanan ayrıntıları sağlama.
+4. Profil *ataması sayfasına* geri dönüp ödemelerinizi sağlarken kullanmamızı istediğiniz para birimini seçin.
 
     > [!WARNING]
-    > Seçtiğiniz ödeme para birimini bankanızla kabul ettiğinden emin olun.
+    > Bankanız, sizin seçerek ödeme para birimini kabul eder.
 
-5. Birden fazla program için aynı profili kullanabilmeniz için, katılmış olduğunuz her bir program için bir ödeme profili seçmeniz gerekir.
+5. Katıldığınız her program için bir ödeme profili seçmeniz gerekir, ancak birden çok program için aynı profili kullanabilirsiniz.
 
-6. Değişikliklerinizi kaydetmek için Gönder ' i seçin.
+6. Değişikliklerinizi kaydetmek için Gönder'i seçin.
 
    > [!NOTE]
-   > Microsoft, profilinizdeki bilgilerin doğrulanması 48 saate kadar sürebilir. Bu işlem tamamlandığında *doğrulama durumu* **tamamlanacaktır**
+   > Microsoft'un profilinizde bilgileri doğrulaması 48 saate kadar sürebilir. Bu işlem tamamlandığında doğrulama *durumu Tamamlandı* olarak **gösterir**
 
-Ödeyinizin başarılı olduğundan emin olmak için aşağıdakileri yaptığınızdan emin olun:
+Ödemenizin başarılı olduğundan emin olmak için şunların doğru olduğundan emin olun:
 
-- Iş Ortağı Merkezi 'nde ödeme hesabınız için girilen **hesap sahibi adı** , Banka hesabınızla ilişkili tam aynı ad olmalıdır. Örneğin, banka hesabınızın adı bir orta ad içeriyorsa, **Hesap sahibinin adına** bir orta ad ekleyin.
-- Ödemeler, ABD Doları cinsinden doğrudan Microsoft 'tan banka hesabınıza aktarılır.
-- Iş Ortağı Merkezi 'nde Latin karakterlerle girilen banka bilgileri Kiril karaktere çevrilir.
+- Ödeme **hesabınız için İş Ortağı Merkezi** hesap sahibi adı, banka hesabınızla ilişkili tam olarak aynı adda olması gerekir. Örneğin, banka hesabı adınız bir ara ad içeriyorsa, Hesap sahibinin adına bir **orta ad ekleyin.**
+- Ödemeler doğrudan Microsoft'tan ABD doları cinsinden banka hesabınıza aktarılır.
+- Latin karakterlerde İş Ortağı Merkezi banka bilgileri Kiril karakterlerine çevrilir.
 
 ### <a name="editing-existing-payment-profiles"></a>Mevcut ödeme profillerini Düzenle
 
@@ -163,48 +160,48 @@ Bazı ülkelerde ve bölgelerde, ödeme hesapları için ek gereksinimler izlenm
 
 Form-R, bir Pakistan bankacılık mevzuatı gereksinimidir. Abroad 'tan fonların alınması amacını ve nedenini belirtmek için kullanılır. Bu nedenle, Microsoft 'tan aylık bir ödeme için uygun olduğunuzda, ödeme hesabınıza yayınlanmadan önce bankanızla bir form göndermeniz gerekir. Form-R ' n i n bir kopyasının nasıl alınacağını açıklayan yönergeler için yerel banka dalınızla iletişim kurun.
 
-Bir ödemeye uygun olduğunuz her ay bankanızla bir form göndermeniz gerekir. Örneğin, yılın her gününde bir ödeme almayı düşünüyorsanız, bir form (her ay bir kez) göndermeniz gerekir.
+Bir ödemeye uygun olduğunuz her ay bankanızla bir form göndermeniz gerekir. Örneğin, yılın her ayında bir ödeme almak bekliyorsanız, Form-R'yi 12 kez (her ay bir kez) göndermeniz gerekir.
 
-Ödeme bankanızla gönderildikten sonra, bir form-R göndermeniz için 30 gününüz vardır. 30 gün içinde gönderilmezse fonlar Microsoft 'a döndürülür.
+Ödeme bankanıza gönderildikten sonra Bir Form-R göndermek için 30 gün süreniz olur. 30 gün içinde gönderilmezse, fonLar Microsoft'a döndürülür.
 
 #### <a name="russia"></a>Rusya
 
-Rusya 'da yaşayan bir yayımınız varsa, bankanızla fonlara para yatırmadan önce bankanızla belge sağlamanız gerekebilir. Ücretli olmaya uygun olduğunuzda, size bir e-posta iletisinde aşağıdaki belgeleri sunuyoruz:
+Rusya'da yaşayan bir yayımcıysanız, bankanız hesabınıza fonlar ödemeden önce bankanıza belge sağlamanız gerekir. Ödemeye uygunsanız, size bir e-posta iletisinde aşağıdaki belgeleri sağlarız:
 
-- Kabul sertifikası (AC) – hesabınıza aktarılmakta olan ödeme miktarını içerir.
-- [Yayımcı sözleşmesi Microsoft Azure Market](https://go.microsoft.com/fwlink/p/?LinkID=699560)  : sayaç imzalı olması gereken yayımcı sözleşmesinin imzalı bir kopyası.
+- Kabul Sertifikası (AC): Hesabınıza aktarılan ödeme miktarını içerir.
+- [Microsoft Azure Market Sözleşmesi:](https://go.microsoft.com/fwlink/p/?LinkID=699560)  Yayımcı anlaşmasının sayaç imzalı olması gereken imzalı bir kopyası.
 
-Ödeyinizin başarılı olduğundan emin olmak için aşağıdakileri yaptığınızdan emin olun:
+Ödemenizin başarılı olduğundan emin olmak için şunların doğru olduğundan emin olun:
 
-- Iş Ortağı Merkezi 'nde ödeme hesabınız için girilen **hesap sahibi adı** , Banka hesabınızla ilişkili tam aynı ad olmalıdır. Örneğin, banka hesabınızın adı bir orta ad içeriyorsa, **Hesap sahibinin adına** bir orta ad ekleyin.
-- Ödemeler doğrudan Microsoft 'tan ruble (RUB) para birimi cinsinden banka hesabınıza aktarılır.
-- Iş Ortağı Merkezi 'nde Latin karakterlerle girilen banka bilgileri Kiril karaktere çevrilir.
-- Ödemeler banka kartına değil bir banka hesabına yapılmalıdır.
+- Ödeme **hesabınız için İş Ortağı Merkezi** hesap sahibi adı, banka hesabınızla ilişkili tam olarak aynı adda olması gerekir. Örneğin, banka hesabı adınız bir ara ad içeriyorsa, Hesap sahibinin adına bir **orta ad ekleyin.**
+- Ödemeler doğrudan Microsoft'tan Banka hesabınıza Transfer (BANK) para birimiyle aktarılır.
+- Latin karakterlerde İş Ortağı Merkezi banka bilgileri Kiril karakterlerine çevrilir.
+- Ödemelerin bir banka kartına değil, bir banka hesabına yapılmış olması gerekir.
 
 #### <a name="ukraine"></a>Ukrayna
 
-Ukrayna içinde yaşayan bir yayımınız varsa, bankanızla fonlara para yatırmadan önce bankanızla belge sağlamanız gerekebilir. Ücretli olmaya uygun olduğunuzda, size bir e-posta iletisinde aşağıdaki belgeleri sunuyoruz:
+Avrupa'da yaşayan bir yayımcıysanız, bankanız hesabınıza fonlar ödemeden önce bankanıza belge sağlamanız gerekir. Ödemeye uygunsanız, size bir e-posta iletisinde aşağıdaki belgeleri sağlarız:
 
-- Kabul sertifikası (AC) – hesabınıza aktarılmakta olan ödeme miktarını içerir.
-- [Yayımcı sözleşmesi Microsoft Azure Market](https://go.microsoft.com/fwlink/p/?LinkID=699560) : sayaç imzalı olması gereken yayımcı sözleşmesinin imzalı bir kopyası.
-- Düzeltme Sözleşmesi (AA) – Bu belge, bankanızla, ödeme fonlarınızı belirlemenize yardımcı olmak için kullanılabilir.
+- Kabul Sertifikası (AC): Hesabınıza aktarılan ödeme miktarını içerir.
+- [Microsoft Azure Market Sözleşmesi:](https://go.microsoft.com/fwlink/p/?LinkID=699560) Yayımcı anlaşmasının sayaç imzalı olması gereken imzalı bir kopyası.
+- Değişiklik Sözleşmesi (AA) – Bu belge bankanız tarafından ödeme fonlarınızı tanımlamanıza yardımcı olmak için kullanılabilir.
 
-Microsoft, ilk ödeme denendiğinde üç belgeyi de sağlar. Sonraki ödemelerde, yalnızca AC belgesini alacaksınız. ADA ve AA belgelerini, bankanınızdan gelecek ödemeleri almak için ihtiyaç duymanız durumunda saklayın.
+microsoft, ilk ödemeniz denenen üç belgeyi de sağlar. Sonraki ödemelerde yalnızca AC belgesini alırsınız. Bankanız tarafından gelecekte ödeme almaları gerektirecek ada ve AA belgelerini koruma.
 
 ### <a name="create-a-paypal-payment-profile"></a>PayPal ödeme profili oluşturma
 
-Ödemeler almak için bir banka hesabı kullanmayı seçtiyseniz, banka hesabınızı yapılandırmak için aşağıdaki işlemi tamamlayabilirsiniz.
+Ödeme almak için bir banka hesabı kullanmayı seçilirse, banka hesabını yapılandırmak için aşağıdaki işlemi tamamlarsınız.
 
-1. *PayPal* sayfasında, PayPal hesabınız hakkında gerekli bilgileri sağlayın.
-2. PayPal hesabınızın ayrıntılarını sağlayın.
+1. *PayPal sayfasında,* PayPal hesabınız hakkında gerekli bilgileri ekleyin.
+2. PayPal hesap ayrıntılarınızı sağlama.
 
     > [!NOTE]
-    > Hesap bilgilerinizi sağlamak için kullandığınız alanlar yalnızca alfasayısal karakterleri kabul eder.
+    > Hesap bilgilerinizi sağlamak için kullanabileceğiniz alanlar yalnızca alfasayısal karakterleri kabul eder.
 
-3. Lehdar ayrıntılar sağlayın.
-4. *Profil atama* sayfasına geri döndüğünüzde, ödemlarınızı yayınlıyoruz, kullanmak istediğiniz para birimini seçin.
-5. Birden fazla program için aynı profili kullanabilmeniz için, katılmış olduğunuz her bir program için bir ödeme profili seçmeniz gerekir.
-6. Değişikliklerinizi kaydetmek için Gönder ' i seçin.
+3. Yararlanan ayrıntıları sağlama.
+4. Profil *ataması sayfasına* geri dönüp ödemelerinizi sağlarken kullanmamızı istediğiniz para birimini seçin.
+5. Katıldığınız her program için bir ödeme profili seçmeniz gerekir, ancak birden çok program için aynı profili kullanabilirsiniz.
+6. Değişikliklerinizi kaydetmek için Gönder'i seçin.
 
 ## <a name="next-steps"></a>Sonraki adımlar
 

@@ -1,31 +1,29 @@
 ---
-title: Ticari Market abonelikleri satma
+title: Ticari market abonelikleri satma
 ms.topic: article
 ms.date: 06/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Iş Ortağı Merkezi 'nde, müşteri aboneliklerini, bağımsız yazılım satıcıları (ISV) tarafından ticari Market 'e yayınlanan SaaS ürünlerine satma hakkında bilgi edinin.
+description: Bu İş Ortağı Merkezi, Bağımsız Yazılım Satıcıları (ISV) tarafından ticari markette yayımlanan SaaS ürünlerine müşteri abonelikleri satmayı öğrenin.
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b339c0eec72d2184e15301270633305682799461
-ms.sourcegitcommit: 26e6b470756aa9c1b3b0b919301b0eb38a335a52
+ms.openlocfilehash: 4ab3aca1ef576501fcc6b912b83cfeccbf029022
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/26/2021
-ms.locfileid: "108002884"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855395"
 ---
-# <a name="use-partner-center-to-sell-customers-subscriptions-to-commercial-marketplace-products"></a>Iş Ortağı Merkezi 'ni kullanarak ticari Market ürünlerine müşteri abonelikleri satma
+# <a name="use-partner-center-to-sell-customers-subscriptions-to-commercial-marketplace-products"></a>Müşterilere İş Ortağı Merkezi ticari market ürünlerine satış yapmak için abonelikleri kullanma
 
-**Uygun roller**
+**Uygun roller:** Satış aracısı
 
-- Satış Aracısı
+CSP programında iş ortağı olarak, İş Ortağı Merkezi müşterilere abonelikleri, Bağımsız Yazılım Satıcıları (ISV) tarafından ticari markette[(Microsoft AppSource](https://appsource.microsoft.com/) ve [Azure Market)](https://azuremarketplace.microsoft.com/)yayımlanan Hizmet Olarak Yazılım (SaaS) ürünlerine satış yapmak için Microsoft AppSource ve Azure Market) kullanabilirsiniz.
 
-CSP programındaki bir iş ortağı olarak, Iş Ortağı Merkezi 'ni kullanarak, ticari Market 'te ([Microsoft AppSource](https://appsource.microsoft.com/) ve [Azure Marketi](https://azuremarketplace.microsoft.com/)) Yayınlanan hizmet olarak yazılım (SaaS) ürünlerini bağımsız yazılım satıcıları (ISV 'ler) tarafından satılan bir hizmet olarak yazılım (SaaS) ürünü satın alabilirsiniz.
+Bu, işletmenizi ayırt etmeye yardımcı olabilir ve müşterilerinize iş ihtiyaçlarına uygun yazılım paketleri sağlar. Bu Market SaaS ürünlerinin lisanslarını ve aboneliklerini Microsoft ürünleriyle aynı şekilde yönetirsiniz.
 
-Bu, işletmenizin ayırt edilmesine ve müşterilerinizin belirli iş ihtiyaçlarını ele alan yazılım paketleri sağlamasına yardımcı olabilir. İşbu Market SaaS ürünleri için lisansları ve abonelikleri, Microsoft ürünleri için yaptığınız gibi yönetirsiniz.
+CSP programı iş ortaklarının ticari marketi nasıl kullanabileceğini öğrenmek için bkz. Bulut Çözümü Sağlayıcıları [için Ticari markete genel bakış.](csp-commercial-marketplace-overview.md)
 
-CSP programındaki iş ortaklarının ticari Market 'i nasıl kullanabileceği hakkında bilgi edinmek için bkz. [bulut çözümü sağlayıcıları Için ticari Market 'e genel bakış](csp-commercial-marketplace-overview.md).
-
-Veya ticari Market 'teki farklı ISV rolleri hakkında bilgi edinmek için bkz. [Market SSS](/azure/marketplace/marketplace-faq-publisher-guide).
+Veya ticari markette isv'lerin farklı rolü hakkında bilgi edinmek için bkz. [Market SSS](/azure/marketplace/marketplace-faq-publisher-guide).

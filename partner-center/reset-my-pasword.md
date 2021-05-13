@@ -9,19 +9,16 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b95ce4a3070414807e31a1aa12a213a332c2a1cc
-ms.sourcegitcommit: 700150044ea4f1a0b96cb4caeb97d7197da29ef6
+ms.openlocfilehash: db178f668efcf519264d9ba46dbcb5277cc5b8cd
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/25/2021
-ms.locfileid: "105548946"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855531"
 ---
 # <a name="reset-my-password"></a>Parolamı sıfırlama
  
-**Uygun roller**
-
-- Genel yönetici
-- Iş Ortağı Merkezi ile ilgilenen tüm iş ortakları
+**Uygun roller**: genel yönetici | Iş Ortağı Merkezi ile ilgilenen tüm iş ortakları
 
 
 Iş Ortağı Merkezi parolanızı hatırlayamıyorsanız, sıfırlamayı seçebilirsiniz.

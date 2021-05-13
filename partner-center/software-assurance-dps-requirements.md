@@ -9,19 +9,16 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2cf45807c6347ad62ad343d2be8a477ab8ea9d33
-ms.sourcegitcommit: ec33c2352a9dd3e5a941f0f42ff1e8d256bb2399
+ms.openlocfilehash: 844a795330a0c10ef51f6b47ce15afa37d3d71f5
+ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/24/2021
-ms.locfileid: "105028273"
+ms.lasthandoff: 05/13/2021
+ms.locfileid: "109855259"
 ---
 # <a name="view-eligibility-requirements-for-planning-services-engagements"></a>Planlama Hizmetleri görevlendirmelerine yönelik uygunluk gereksinimlerini görüntüleme
 
-**Uygun roller**
-
-- Genel yönetici
-- MPN iş ortağı Yöneticisi
+**Uygun roller**: genel yönetici | MPN iş ortağı Yöneticisi
 
 Bu makale, şirketinizin Microsoft 'a ait Yazılım Güvencesi Planlama Hizmetleri görevlendirmeleri kaydedebilmesi veya teslim edebilmesi için gereken uygunluk gereksinimleri hakkında bilgi edinmenize yardımcı olur.
 
@@ -38,13 +35,13 @@ Bu görevlendirmeye özgü ek gereksinimler hakkında daha fazla bilgi edinmek i
 |:--- |:--- |:--- |
 | Windows ve Office dağıtım planlaması  | Gümüş veya altın pencere ve cihazlar  |  [Masaüstü Dağıtım Planlama Hizmetleri (DDPS) görevlendirmeleri](https://go.microsoft.com/fwlink/?linkid=2116072)
 | Mobil üretkenlik dağıtım planlaması  | Gümüş veya altın kurumsal Mobility yönetimi veya Windows ve cihazlar  | [Masaüstü Dağıtım Planlama Hizmetleri (DDPS) görevlendirmeleri](https://go.microsoft.com/fwlink/?linkid=2116072) |  
-| Modern BT Kurumsal güvenliği kavram kanıtı |  Gümüş veya altın kurumsal Mobility yönetimi  | [Masaüstü Dağıtım Planlama Hizmetleri (DDPS) görevlendirmeleri](https://go.microsoft.com/fwlink/?linkid=2116072) |  
-| Müşteri katılımı için Microsoft Dynamics 365 ' i yükseltme  | Gümüş veya altın bulut Business Applications veya bulut müşteri Ilişkisi yönetimi  | [Dynamics dağıtım planlama hizmetleri (DYDPS) görevlendirmeleri](https://go.microsoft.com/fwlink/?linkid=2116073)
-| Müşteri katılımı için Microsoft Dynamics 365 ' e geçme  | Gümüş veya altın bulut Business Applications veya bulut müşteri Ilişkisi yönetimi  | [Dynamics dağıtım planlama hizmetleri (DYDPS) görevlendirmeleri](https://go.microsoft.com/fwlink/?linkid=2116073)
-| Finans ve Işlemler için Microsoft Dynamics 365 ' i yükseltme  | Altın kurumsal kaynak planlama (ERP)  | [Dynamics dağıtım planlama hizmetleri (DYDPS) görevlendirmeleri](https://go.microsoft.com/fwlink/?linkid=2116073)  |
-| Windows Server platformunuzu modernize etme | Gümüş veya altın veri merkezi | [Özel bulut, yönetim ve sanallaştırma Planlama Hizmetleri (PVDPS) görevlendirmeleri](https://go.microsoft.com/fwlink/?linkid=2115982) |
-| SharePoint dağıtım planlaması  | Gümüş veya altın Işbirliği ve Içerik  | [SharePoint dağıtım planlama hizmetleri (SDPS) görevlendirmeleri](https://go.microsoft.com/fwlink/?linkid=2116074)  |
-| Proje ve Portföy Yönetimi (PPM) çözüm planlaması  | Gümüş veya altın proje ve Portföy Yönetimi (PPM)  | [SharePoint dağıtım planlama hizmetleri (SDPS) görevlendirmeleri](https://go.microsoft.com/fwlink/?linkid=2116074)  |
+| Modern BT Kurumsal güvenliği kavram kanıtı |  Silver veya Gold Enterprise Mobility Management  | [Masaüstü Dağıtım Planlama Hizmetleri (DDPS) etkileşimleri](https://go.microsoft.com/fwlink/?linkid=2116072) |  
+| Müşteri Etkileşimi için Microsoft Dynamics 365'i yükseltme  | Silver or Gold Cloud Business Applications OR Cloud Customer Relationship Management  | [Dynamics Dağıtım Planlama Hizmetleri (DYDPS) etkileşimleri](https://go.microsoft.com/fwlink/?linkid=2116073)
+| Müşteri Etkileşimi için Microsoft Dynamics 365'e Migrating  | Silver or Gold Cloud Business Applications OR Cloud Customer Relationship Management  | [Dynamics Dağıtım Planlama Hizmetleri (DYDPS) etkileşimleri](https://go.microsoft.com/fwlink/?linkid=2116073)
+| Microsoft Dynamics 365 for Finance and Operations'i yükseltme  | Gold Enterprise Kaynak Planlama (ERP)  | [Dynamics Dağıtım Planlama Hizmetleri (DYDPS) etkileşimleri](https://go.microsoft.com/fwlink/?linkid=2116073)  |
+| Windows Server Platformunu Modernleştirme | Silver veya Gold Veri Merkezi | [Özel Bulut, Yönetim ve Sanallaştırma Planlama Hizmetleri (PVDPS) etkileşimleri](https://go.microsoft.com/fwlink/?linkid=2115982) |
+| SharePoint Dağıtım Planlama  | Silver veya Gold İşbirliği ve İçerik  | [SharePoint Dağıtım Planlama Hizmetleri (SDPS) etkileşimleri](https://go.microsoft.com/fwlink/?linkid=2116074)  |
+| Proje ve Portföy Yönetimi (PPM) Çözüm Planlama  | Silver veya Gold Proje ve Portföy Yönetimi (PPM)  | [SharePoint Dağıtım Planlama Hizmetleri (SDPS) etkileşimleri](https://go.microsoft.com/fwlink/?linkid=2116074)  |
 | Exchange dağıtım planlaması  | Gümüş veya altın mesajlaşma  | [Skype Kurumsal ve Exchange dağıtım planlama hizmetleri (S-EDPS) görevlendirmeleri](https://go.microsoft.com/fwlink/?linkid=2116075)  |
 Skype Kurumsal dağıtım planlaması  | Gümüş veya altın Iletişimler  | [Skype Kurumsal ve Exchange dağıtım planlama hizmetleri (S-EDPS) görevlendirmeleri](https://go.microsoft.com/fwlink/?linkid=2116075)  |
 | Veri Emlak modernleştirme  | Altın veri analizi veya veri platformu  | [Dağıtım Planlama Hizmetleri (SSDPS) görevlendirmeleri SQL Server](https://go.microsoft.com/fwlink/?linkid=2116076)  |

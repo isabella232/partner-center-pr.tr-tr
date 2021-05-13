@@ -9,25 +9,18 @@ ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 07/14/2020
-ms.openlocfilehash: c3b7db95bbbd039f8328ddd2785579bb533197cc
-ms.sourcegitcommit: 08a175c06ff4c6a2b12713f081adfa489e16e7a1
+ms.openlocfilehash: 1d8e59ea2d2e8d40163ea06b305845c37a356f16
+ms.sourcegitcommit: dc9438475ccc6298bec6a698bf5fc9bd5cf2aa81
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "109686305"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "109818669"
 ---
 # <a name="managing-non-payment-fraud-or-misuse-in-partner-center"></a>Ödeme alınamaması, dolandırıcılık veya kötüye kullanım durumlarını İş Ortağı Merkezi’nde yönetme
 
-**Şunlara uygulanır**
+**Uygulama hedefi**: Iş Ortağı Merkezi | ABD kamu için Microsoft Bulut iş ortağı Merkezi
 
-- Microsoft Cloud for US Government için İş Ortağı Merkezi
-
-**Uygun roller**
-
-- Genel yönetici
-- Kullanıcı Yönetimi Yöneticisi
-- Yönetim Aracısı
-- Faturalama yöneticisi
+**Uygun roller**: genel yönetici | Kullanıcı Yönetimi Yöneticisi | Yönetici Aracısı | Faturalama yöneticisi
 
 Müşterileriniz ve/veya müşterilerin satın alınan hizmetlerin ödemesinden sorumlu satın alma işlemleri için mali olarak sorumlusunuz. Bu nedenle, *sahte önleme ve algılama riski azaltma denetimlerini yerleştirmenizi öneririz*.
 
@@ -50,7 +43,7 @@ Bu Microsoft 'un kabul edilebilir kullanım ilkesi ihlalleri örnekleri şunlar 
 - Dağıtılmış hizmet reddi (DDoS) saldırıları
 - Bitpara madenciliği
 - Kötü amaçlı yazılım dağıtımı
-- Abonelikleri yeniden satın ala
+- Korsan aboneliklerin el satımı
 
 ## <a name="theft-of-service-risks"></a>Hizmet hırsızlığı riskleri
 
@@ -76,10 +69,10 @@ Yeni müşteriler eklemeye yönelik çevrimiçi riskleri azaltmaya yönelik öne
 
 - Mümkün olduğunda müşterilerle kişisel ilişkiler kurma (örneğin, müşterilerle telefonla iletişim kurma).
 - Daha iyi yöntemlerle (kredi bürosu veya iş ticari rapor kurumları kullanma gibi) müşterilerin kimlik bilgilerini ve arka planını doğrulayın.
-- Robotik hesap oluşturma ve satın alma riskini en aza indirmek için kaydolma sırasında çok faktörlü kimlik doğrulamasını (SMS doğrulaması gibi) kullanın.
+- Robotik hesap oluşturma ve satın alma risklerini en aza indirmek için kaydolma sırasında çok faktörlü kimlik doğrulamasını (SMS doğrulaması gibi) kullanın.
 - Hizmetleri (dijital kimlik hizmetleri gibi) kullanarak kimlikleri yönetme ve izleme.
 - Sıkı kredi kartı sahtekarlığı algılama sistemleri aracılığıyla müşterinin finansal gücünü değerlendirin.
-- Açık koleksiyonlar ilkesi oluşturun. Koleksiyonlar işleminizi ayrıntılandırın ve aboneliklerde erişim ne zaman ödemesiz olarak etkilenecektir. (Ödeme dışı [bir müşterinin aboneliğini](create-a-new-subscription.md#suspend-a-subscription) devre dışı bırakabilir veya askıya alabilirsiniz.)
+- Net bir koleksiyon ilkesi kurma. Koleksiyonlar işleminizi ayrıntılandırın ve aboneliklerde erişim ne zaman ödemesiz olarak etkilenecektir. (Ödeme dışı [bir müşterinin aboneliğini](create-a-new-subscription.md#suspend-a-subscription) devre dışı bırakabilir veya askıya alabilirsiniz.)
 
 ### <a name="managing-customer-accounts"></a>Müşteri hesaplarını yönetme
 

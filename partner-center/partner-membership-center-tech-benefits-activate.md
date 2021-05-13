@@ -1,49 +1,49 @@
 ---
-title: Iş Ortağı Merkezi dışındaki MPN avantajlarını etkinleştir
+title: MPN avantajlarını İş Ortağı Merkezi
 ms.topic: how-to
 ms.date: 08/27/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Iş ortağı üyelik merkezini (PMC) kullanmaya devam ediyorsanız, MPN teknik destek avantajlarınızı etkinleştirmeye ve size destek kimlikleri sunabilmeniz için kiminle iletişim kuracağınızı öğrenin.
+description: Hala Partner Membership Center (PMC) kullanıyorsanız, MPN teknik destek avantajlarınızı etkinleştirmenize ve size avantaj destek kimlikleri vermenize yardımcı olmak için kiminle iletişim kuracaklarını öğrenin.
 author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5773432f829a701baf4b36bdbae026241d0357a2
-ms.sourcegitcommit: f8fd51e1acdbfafdde86d6490bade66c63033ebd
+ms.openlocfilehash: 17fe2496c88adf4a1e271f1dc8275e7e0643e16a
+ms.sourcegitcommit: dc9438475ccc6298bec6a698bf5fc9bd5cf2aa81
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108172192"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "109818652"
 ---
-# <a name="activate-microsoft-partner-network-technical-benefits-outside-of-partner-center"></a>Iş Ortağı Merkezi dışındaki teknik avantajlardan Microsoft İş Ortağı Ağı etkinleştirin
+# <a name="activate-microsoft-partner-network-technical-benefits-outside-of-partner-center"></a>Microsoft İş Ortağı Ağı dışındaki teknik avantajları İş Ortağı Merkezi
 
 
 **Uygun roller**
 
-- Tüm Iş Ortağı Merkezi kullanıcıları
+- Tüm İş Ortağı Merkezi kullanıcılar
 
-Bu makale, Microsoft İş Ortağı Ağı (MPN) üyelerine Iş ortağı üyelik Merkezi 'ni (PMC) kullanmaya devam etmektedir. Bu üyelerin, geçerli [Iş Ortağı Merkezi panosunun](https://partner.microsoft.com/dashboard)dışında, teknik avantajlar gibi belirli MPN üyelik avantajlarından yararlanmaya yardımcı olması gerekir.
+Bu makale, hala Microsoft İş Ortağı Ağı (PMC) kullanan Partner Membership Center (MPN) üyelerine aittir. Bu üyeler, geçerli panonun dışında teknik avantajlar gibi belirli MPN üyelik avantajlarını etkinleştirme [konusunda İş Ortağı Merkezi gerekir.](https://partner.microsoft.com/dashboard)
 
-Birçok Microsoft İş Ortağı Ağı (MPN) üye, kullanıcılarının, müşterilerinin ve MPN avantajlarının yönetilmesine yardımcı olmak için [Iş ortağı üyeliği merkezinden iş ortağı merkezi 'ne zaten geçirildi](prepare-pmc-pc-migration.md) .
+**Çoğu Microsoft İş Ortağı Ağı (MPN) üyesi kullanıcı, [Partner Membership Center](prepare-pmc-pc-migration.md) ve MPN avantajlarını yönetmeye yardımcı olmak için İş Ortağı Merkezi'den İş Ortağı Merkezi'ye zaten geçiş yaptı.**
 
-MPN üyeliğiniz Iş ortağı üyelik Merkezi 'nde (PMC) hala varsa, bazı MPN avantajlarınızdan bazılarının etkinleştirilmesi için yardıma ihtiyacınız olacaktır.
+MPN üyeliğiniz hala Partner Membership Center (PMC) ise, BAZı MPN avantajlarınızı etkinleştirmeyle ilgili yardıma ihtiyacınız olacaktır.
 
-## <a name="activate-technical-benefits-by-region"></a>Bölgeye göre teknik avantajları etkinleştirin
+## <a name="activate-technical-benefits-by-region"></a>Bölgeye göre teknik avantajları etkinleştirme
 
-Bir PMC kullanıcısı kullanıyorsanız teknik avantajlarınızı etkinleştirmeyle ilgili yardım için bu tabloya bakın.
+PMC kullanıcısıysanız teknik avantajlarınızı etkinleştirme konusunda yardım için bu tabloya bakın.
 
-(Genel yönetici veya MPN iş ortağı yönetici erişimi olan bir Iş Ortağı Merkezi hesabınız zaten varsa, bkz. [Teknik avantajlarınızı yönetme](https://docs.microsoft.com/partner-center/manage-your-partner-network-benefits#manage-technical-benefits)
+(Genel Yönetici veya MPN iş ortağı İş Ortağı Merkezi erişimi olan bir hesap hesabınız zaten varsa, bkz. Teknik destek [avantajlarınızı görüntüleme ve etkinleştirme](mpn-benefits-technical-support.md#view-and-activate-your-technical-support-benefits))
 
 |Bu bölge için  | İletişim |
 |:--------|:------------|
-|Kuzey Amerika  | [İş ortağı Frontline desteği](https://partner.microsoft.com/support?issueid=300-0042)  |
-|Latin Amerika  | [İş ortağı Frontline desteği](https://partner.microsoft.com/support?issueid=300-0042)  |
+|Kuzey Amerika  | [İş Ortağı Ön Hattı Desteği](https://partner.microsoft.com/support?issueid=300-0042)  |
+|Latin Amerika  | [İş Ortağı Ön Hattı Desteği](https://partner.microsoft.com/support?issueid=300-0042)  |
 |Avrupa, Orta Doğu ve Afrika  | [regform@msdirectservices.com](mailto:regform@msdirectservices.com)*  |
-|Avustralya, Yeni Zelanda ve Tayvan  | [İş ortağı Frontline desteği](https://partner.microsoft.com/support?issueid=300-0042)  |
-|Asya Pasifik ve daha fazla Çin  | Teknik destek  |
+|Avustralya, Yeni Zelanda ve Tayvan  | [İş Ortağı Ön Hattı Desteği](https://partner.microsoft.com/support?issueid=300-0042)  |
+|Asya Pasifik ve Greater China  | Teknik destek  |
 
-\***Avrupa 'daki iş ortakları, Orta Doğu ve Afrika (EMEA) için:** RegForm 'a gönderme yaparken, Iş ortağı KIMLIĞI, MPN ile ilişkili e-posta adresi, ad, şirket adı, telefon, şehir ve ülke dahil olmak üzere: Destek sözleşmeleri oluşturmaya veya oluşturmaya yönelik yardım için RegForm ' u kullanın. MPN ile ilgili başka sorunlarla karşılaşırsanız [Iş ortağı](https://partner.microsoft.com/support?issueid=300-0042)ön uç desteğiyle iletişim kurun.
+\***Yalnızca Avrupa, Orta Doğu ve Afrika (EMEA)** iş ortakları için: Regform'a e-posta ile göndererek şunları Ortak Kimliği, MPN ile ilişkili e-posta adresi, ad, şirket adı, telefon, şehir ve ülke. Destek sözleşmelerini oluşturma veya etkinleştirme konusunda yardım için Regform kullanın. MPN ile ilgili başka sorunlarla karşılaşırsanız [Iş ortağı](https://partner.microsoft.com/support?issueid=300-0042)ön uç desteğiyle iletişim kurun.
 
 Avantajınız etkinleştirildikten sonra, şirketinizin temel avantajları ile ilişkili program kişisi, bu avantaja yönelik ürün destek kimliklerini alır. Bu kimlikler bir **ERIŞIM kimliği** ve **sözleşme kimliği** içerecektir. 
 

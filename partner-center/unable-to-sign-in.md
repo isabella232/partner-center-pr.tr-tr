@@ -1,44 +1,42 @@
 ---
-title: Iş Ortağı Merkezi 'nde oturum açılamıyor
+title: İş Ortağı Merkezi'da oturum İş Ortağı Merkezi
 ms.topic: troubleshooting
 ms.date: 04/08/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Olası nedenlerde sorun giderin ve Iş Ortağı Merkezi 'nde oturum açamıyorum çözümler hakkında bilgi edinin. parolaları sıfırlama, rolleri denetleme ve kimlik bilgilerini denetleme hakkında daha fazla bilgi edinin.
+description: Olası nedenlere yönelik sorunları giderin ve İş Ortağı Merkezi için çözümler hakkında bilgi edinin. Parolaları sıfırlama, rolleri denetleme ve kimlik bilgilerini denetleme hakkında daha fazla bilgi edinebilirsiniz.
 author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 17087727afcaf3dbcf47801f8668388c370758e7
-ms.sourcegitcommit: 9b04509f3830462628c1bb6af2ca41ed68b52619
+ms.openlocfilehash: f4af8c48e2bbe65f58549b542447c80b699332be
+ms.sourcegitcommit: dc9438475ccc6298bec6a698bf5fc9bd5cf2aa81
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/09/2021
-ms.locfileid: "107266580"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "109818805"
 ---
-# <a name="troubleshoot-sign-in-issues-for-partner-center"></a>Iş Ortağı Merkezi için oturum açma sorunlarını giderme
+# <a name="troubleshoot-sign-in-issues-for-partner-center"></a>İş Ortağı Merkezi için oturum açma sorunlarını giderme
 
-**Uygun roller**
+**Uygun roller:** İş ortaklarıyla İş Ortağı Merkezi
 
-- Iş Ortağı Merkezi ile ilgilenen tüm iş ortakları
+Bu makale, oturum açma sorunlarıyla ilgili sık karşılaşılan sorunları İş Ortağı Merkezi.
 
-Bu makale, Iş Ortağı Merkezi için ortak oturum açma sorunlarına yönelik çözümler içerir.
+## <a name="youve-forgotten-your-password-for-partner-center"></a>Parolanız için parolanızı İş Ortağı Merkezi
 
-## <a name="youve-forgotten-your-password-for-partner-center"></a>Iş Ortağı Merkezi için parolanızı unuttunuz
+Parolanızı unuttuysanız ve oturum İş Ortağı Merkezi destekle iletişime geçin. uygun ilgili ilgili kişiyi İş [Ürünleri Desteği'nde bulun.](/microsoft-365/admin/contact-support-for-business-products)
 
-Parolanızı unuttuysanız ve Iş Ortağı Merkezi 'Nde oturum açamıyor, desteğe başvurun. [Iş ürünleri Için desteğe](/microsoft-365/admin/contact-support-for-business-products)uygun kişiyi bulun.
+MPN iş ortağıysanız Genel yöneticinizden sizin için yeni bir parola oluşturmasını sorun. CSP Dolaylı kurumsal bayisiyseniz Dolaylı sağlayıcınızdan Azure AD kiracınız üzerinde sizin için yeni bir Genel yönetici oluşturmasını veya temsilci olarak yönetici ayrıcalıklarını kullanarak sizin için yeni bir parola oluşturmasını sorun.
 
-Bir MPN iş ortağıysanız, genel yöneticinizden sizin için yeni bir parola oluşturmasını isteyin. Bir CSP dolaylı satıcısıysanız, dolaylı sağlayıcınızı Azure AD kiracınızda sizin için yeni bir genel yönetici oluşturmasını isteyin veya Temsilcili yönetici ayrıcalıklarını kullanarak sizin için yeni bir parola oluşturun.
+Parolanızı sıfırlama ve iş hesabınıza yeniden erişim kazanma hakkında daha fazla bilgi edinmek için güvenlik bilgilerini kullanarak iş veya [okul parolanızı sıfırlama makalelerini okuyun.](/azure/active-directory/user-help/active-directory-passwords-update-your-own-password#how-to-change-your-password)
 
-Parolanızı nasıl sıfırlayabileceğinizi ve iş hesabınıza yeniden erişiminizi geri kazanmak için [güvenlik bilgilerini kullanarak iş veya okul parolanızı sıfırlayın](/azure/active-directory/user-help/active-directory-passwords-update-your-own-password#how-to-change-your-password)makalesini okuyun.
+## <a name="you-cant-view-or-manage-the-expected-pages-or-capabilities-in-partner-center"></a>İş Ortağı Merkezi'da beklenen sayfaları veya özellikleri görüntüleye İş Ortağı Merkezi
 
-## <a name="you-cant-view-or-manage-the-expected-pages-or-capabilities-in-partner-center"></a>Iş Ortağı Merkezi 'nde beklenen sayfaları veya özellikleri görüntüleyemez veya yönetemezsiniz
+İş Ortağı Merkezi sayfalarına erişim, size atanan roller tarafından denetlenr. Hangi rollerin atandığı kontrol etmek için, İş Ortağı Merkezi simgesini seçin, Hesap ayarları 'ı seçin ve ardından Hesap ayarları'nın altında Kullanıcı **yönetimi'ne tıklayın.** Ara'ya adınız yazın ve sonuçları görüntüden seçin.
 
-Iş Ortağı Merkezi 'ndeki sayfalara erişim, atadığınız roller tarafından denetlenir. Hangi rollerin atandığını denetlemek için Iş Ortağı Merkezi ' nde ayarlar simgesini seçin, **Hesap ayarları**' nı seçin ve ardından hesap ayarları ' nda **Kullanıcı yönetimi**' ni seçin. Ara alanına adınızı yazın ve ardından sonuçları görüntüleyin.
+Beklediğiniz yetkinlikleri, müşterileri, teşvikleri veya kullanıcıları görüntüleyeme veya yönetemeyebilirsiniz, aşağıdaki çözümleri deneyin:
 
-İstediğiniz Uzmanlıklar, müşteriler, teşvikleri veya kullanıcıları görüntüleyebilmemişse veya yönetebiliyorsanız, aşağıdaki çözümleri deneyin:
-
-- MPN, CSP ve başvuruların özelliklerine erişim için, genel yönetici veya hesap yöneticinizle görüşün. Roller ve Iş Ortağı Merkezi 'nde etkinleştirildikleri görevler hakkında daha fazla bilgi edinmek için bkz. [kullanıcılara rol & Izinleri atama](permissions-overview.md).
+- MPN, CSP ve Referansların özelliklerine erişim için Genel yöneticinize veya Hesap yöneticinize ulaşın. Roller ve bu rollerde etkinleştirilen görevler hakkında daha fazla bilgi İş Ortağı Merkezi bkz. Kullanıcılara [& rolleri atama.](permissions-overview.md)
 - Ticari Market ve Windows & Xbox, Office Mağazası, Microsoft Edge ve donanım geliştirici programlarının özelliklerine erişim için kuruluşunuzdaki sahip veya yönetici rolünde bulunan kişiyle iletişim kurun. Roller ve izinler hakkında daha fazla bilgi edinmek için bkz. [Microsoft Iş Ortağı Merkezi 'nde ticari Market hesabını yönetme](/azure/marketplace/partner-center-portal/manage-account#define-user-roles-and-permissions).
 
 ## <a name="you-cant-see-your-offer-or-benefits-in-partner-center"></a>Iş Ortağı Merkezi 'nde teklifinizi veya avantajlarınızı göremezsiniz

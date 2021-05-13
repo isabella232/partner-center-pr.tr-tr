@@ -1,55 +1,50 @@
 ---
-title: Özenlerinizi ve program ayrıntılarınızı görüntüleyin
+title: Teşvik ve program ayrıntılarınızı görüntüleme
 ms.topic: article
 ms.date: 11/01/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
-description: Teşvikleri program durumunu görüntülemek ve yönetmek için bu sayfaları kullanın
+description: Veri durumunu görüntülemek ve yönetmek için bu Teşvikler programı kullanın
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: a66e32a3c9320ac32b0749c67197c6a27574ce75
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: 798fde02b87e8f8105dad6d00c32b050fb90097e
+ms.sourcegitcommit: dc9438475ccc6298bec6a698bf5fc9bd5cf2aa81
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712622"
+ms.lasthandoff: 05/12/2021
+ms.locfileid: "109818754"
 ---
-# <a name="view-your-incentives-program-details"></a>Teşvikleri programınızın ayrıntılarını görüntüleme
+# <a name="view-your-incentives-program-details"></a>Teşvik programı ayrıntılarınızı görüntüleme
 
-**Uygun roller**
+**Uygun roller:** Teşvik yöneticisi | Teşvikler kullanıcı | Genel yönetici | MPN iş ortağı yöneticisi
 
-- Teşvikleri Yöneticisi
-- Teşvikleri kullanıcısı
-- Genel yönetici
-- MPN iş ortağı Yöneticisi
-
-Bu makalede, ister her konumdaki her bir programın durumu hem de özenklarınızın genel durumunu gösteren **teşvikleri genel bakış** sayfası açıklanmaktadır. Ayrıca, farklı kayıt durumları da sağlar.
+Bu makalede teşvik **programlarının** genel durumunun yanı sıra her konumdaki her programın durumunu gösteren Teşviklerim genel bakış sayfası açıklanmıştır. Ayrıca farklı kayıt durumlarını da verir.
 
 >[!NOTE]
->Iş Ortağı Merkezi 'ndeki teşvikleri ve teşvik özellikleri hakkında daha fazla bilgi için bkz. [partner yatırımlar ve teşvikleri](https://partner.microsoft.com/membership/partner-incentives) (oturum açma gereklidir).
+>İş Ortağı Merkezi'daki teşvikler ve teşvik özellikleri hakkında daha fazla bilgi için bkz. İş Ortağı [Yatırımları ve Teşvikler](https://partner.microsoft.com/membership/partner-incentives) (oturum açma gereklidir).
 
-## <a name="access-the-incentives-overview-page"></a>Teşvikleri genel bakış sayfasına erişin
+## <a name="access-the-incentives-overview-page"></a>Teşviklere genel bakış sayfasına erişme
 
 1. [İş Ortağı Merkezi panosunda](https://partner.microsoft.com/dashboard) oturum açın.
-1. Menüden **teşvikleri** ve ardından **genel bakış** ' ı seçin.
-1. Kazanç ve ödeme özetini sayfanın en üstünde, ek ayrıntıları ise aşağıdaki tabloda bulabilirsiniz. Ayrıca, eşlik eden tabloyu sıralayabilir, gruplandırabilir ve genişletebilirsiniz:
+1. **Teşvikler'i** ve ardından **menüden** Genel Bakış'ı seçin.
+1. Kazanç ve ödeme özetini sayfanın en üstünde, ek ayrıntıları ise aşağıdaki tabloda bulabilirsiniz. Ayrıca, eşlik eden tabloyu sırala, grupla ve genişlet:
 
    - Sütuna göre sıralamak için sütun adını seçin.
-   - Programa göre gruplandırma yapmak için, tablonun üzerindeki **program olarak** sekmesini seçin.
-   - Konuma göre gruplandırmak için tablonun üzerindeki **konuma göre** sekmesini seçin.
-   - Belirli bir grup içindeki kayıtlar hakkında daha fazla ayrıntı görüntülemek için, belirli bir satırın sonundaki köşeli ayraç sembolünü seçin. Bu köşeli çift ayraç görünümü genişletilir.
+   - Programa göre grup seçmek için **tablonun üzerindeki Programa** göre sekmesini seçin.
+   - Konuma göre grup seçmek için **tablonun üzerindeki** Konuma göre sekmesini seçin.
+   - Belirli bir gruptaki kayıtlar hakkında daha fazla ayrıntı görüntülemek için belirli bir satırın sonundaki köşeli çift ayraç simgesini seçin. Bu köşeli çift ayraç, görünümlerinizi genişlettir.
 1. Bir programa kaydolmak için gerçekleştirmeniz gereken ek eylemler varsa ilgili bilgiler **Durum** sütununda görüntülenir. Bu durumda köşeli çift ayraç simgesine tıklayarak gerçekleştirmeniz gereken adımlar hakkında bilgi edinebilirsiniz.
 
 ## <a name="enrollment-status"></a>Kayıt durumu
 
-Aşağıdaki tabloda, **durum** sütununda gösterilen farklı kayıt durumları açıklanmaktadır.
+Aşağıdaki tabloda Durum sütununda gösterilen farklı kayıt durumları **açıklandı.**
 
-| **Durum**         | **Şu durumlarda görünür** |
+| **Durum**         | **Şu zaman görünür:** |
 |:------------------------------------|:------------------|
-| Eylem gerekiyor  | İş ortağı bir bir bir teşvik programına kaydolma davetini kabul etti, ancak banka veya vergi bilgilerini güncelleştirmesi gerekebilir. Iş Ortağı Merkezi 'nde bankanızla veya vergi bilgilerinizin güncelleştirilmesi için sonraki adımlar veya bağlantılar için **Eylemler gereklidir** sütununa bakın. |
-| Devam  | Belirli bir teşvik programı artık teşvikleri sisteminde sunulmamaktadır. |
+| Eylem gerekiyor  | İş ortağı, teşvik programına kaydolmak için bir davet kabul etmiştir ancak banka veya vergi bilgilerini güncelleştirmesi gerekiyor olabilir. Aşağıdaki **adımlarda veya bağlantılarda** banka veya vergi bilgilerini güncelleştirmek için eylemler gerekli sütununa İş Ortağı Merkezi. |
+| Üretilmiyor  | Belirli bir teşvik programı artık teşvikleri sisteminde sunulmamaktadır. |
 | Kaydedildi  | Tüm vergi ve banka bilgileri doğrulanmadı. İş ortağı için başka bir kayıt eylemi gerekli değildir. |
 | Kaydediliyor  | Kullanıcı bir özenli yönetici değil ve kayıt **gereken eylemde** veya **kayıt durumlarının doğrulanması** durumunda.|
 | Etkin olmayan/yok edilebilir | Bu programı kaydetmek için bu programa açık olmayabilir veya iş ortağı kayıt veya yeniden kayıt için geçerli uygunluğu karşılamıyor. <br><br> Durum uygun **değilse, iş** ortağı programın geçerli uygunluk gereksinimlerini karşılamaz; kayıt durumu altındaki **uygunluk gereksinimlerini** göster bağlantısının belirlenmesi uygunluk gereksinimlerini ve bu gereksinimlerin karşılandığını gösterir. <br><br> Ayrıca, bir sanal kuruluş (VORG) veya Iş ortağı genel hesabı (PGA) kayıtları için artık, teşvik programında **etkin olmayan bir durum da** görebilirsiniz.  |
