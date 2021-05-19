@@ -1,210 +1,204 @@
 ---
-title: Ortak satış başvuruları bağlayıcıları sorunlarını giderme
+title: Ortak satış referans bağlayıcıları sorunlarını giderme
 ms.topic: how-to
 ms.date: 09/21/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Ortak satış bağlayıcıları kullanma hakkında sık sorulan soruların yanıtlarını öğrenin. Ortak satış bağlayıcılarının sorunlarını giderme hakkında bilgi edinmek için bu SSS bölümüne bakın.
+description: Ortak satış bağlayıcılarını kullanma hakkında sık sorulan soruların yanıtlarını öğrenin. Ortak satış bağlayıcıları sorunlarını giderme hakkında bu SSS bölümünü okuyun.
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: 939654202a370f6d9ba15d9e62a11be44884b613
-ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
+ms.openlocfilehash: 49a2b6e5461dacbe87c34b36805a5c240c2e5fd1
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "108284222"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148355"
 ---
-# <a name="troubleshoot-co-sell-referrals-connectors"></a><span data-ttu-id="b566d-104">Ortak satış başvuruları bağlayıcıları sorunlarını giderme</span><span class="sxs-lookup"><span data-stu-id="b566d-104">Troubleshoot co-sell referrals connectors</span></span>
+# <a name="troubleshoot-co-sell-referrals-connectors"></a><span data-ttu-id="d0210-104">Ortak satış referans bağlayıcıları sorunlarını giderme</span><span class="sxs-lookup"><span data-stu-id="d0210-104">Troubleshoot co-sell referrals connectors</span></span>
 
-<span data-ttu-id="b566d-105">**Şunlara uygulanır**</span><span class="sxs-lookup"><span data-stu-id="b566d-105">**Applies to**</span></span>
+<span data-ttu-id="d0210-105">**Için geçerlidir:** Dynamics 365 CRM | Salesforce CRM</span><span class="sxs-lookup"><span data-stu-id="d0210-105">**Applies to**: Dynamics 365 CRM | Salesforce CRM</span></span>
 
-- <span data-ttu-id="b566d-106">Dynamics 365 CRM</span><span class="sxs-lookup"><span data-stu-id="b566d-106">Dynamics 365 CRM</span></span>
-- <span data-ttu-id="b566d-107">Salesforce CRM</span><span class="sxs-lookup"><span data-stu-id="b566d-107">Salesforce CRM</span></span>
+<span data-ttu-id="d0210-106">**Uygun roller:** Referans yöneticisi | CRM'de sistem yöneticisi veya sistem özelleştiricisi</span><span class="sxs-lookup"><span data-stu-id="d0210-106">**Appropriate roles**: Referrals admin | System admin or system customizer on the CRM</span></span>
 
-<span data-ttu-id="b566d-108">**Uygun roller**</span><span class="sxs-lookup"><span data-stu-id="b566d-108">**Appropriate roles**</span></span>
+ ## <a name="questions-and-answers-about-pre-requisites"></a><span data-ttu-id="d0210-107">Önkullar hakkında sorular ve yanıtlar</span><span class="sxs-lookup"><span data-stu-id="d0210-107">Questions and answers about pre-requisites</span></span>
 
-- <span data-ttu-id="b566d-109">Başvuru Yöneticisi</span><span class="sxs-lookup"><span data-stu-id="b566d-109">Referrals admin</span></span>
-- <span data-ttu-id="b566d-110">CRM 'de Sistem Yöneticisi veya sistem özelleştiricisi</span><span class="sxs-lookup"><span data-stu-id="b566d-110">System admin or system customizer on the CRM</span></span>
+1. <span data-ttu-id="d0210-108">Ortamınız için bir deneme ortak satış referans bağlayıcısı çözümü kullanabilir misiniz?</span><span class="sxs-lookup"><span data-stu-id="d0210-108">Can you use a trial co-sell referrals connectors solution for your environment?</span></span>
 
- ## <a name="questions-and-answers-about-pre-requisites"></a><span data-ttu-id="b566d-111">Ön koşullar hakkında sorular ve yanıtlar</span><span class="sxs-lookup"><span data-stu-id="b566d-111">Questions and answers about pre-requisites</span></span>
+<span data-ttu-id="d0210-109">Test/hazırlama ortamındaysanız deneme çözümünü tercih edin.</span><span class="sxs-lookup"><span data-stu-id="d0210-109">If you are on the test/staging environment, you can opt for trial solution.</span></span> <span data-ttu-id="d0210-110">Bağlayıcıların ücretli sürümü, AppSource'ta aylık 15 ABD doları olarak kullanılabilir.</span><span class="sxs-lookup"><span data-stu-id="d0210-110">The paid version of the Connectors is available in AppSource at US$ 15/month.</span></span> <span data-ttu-id="d0210-111">Ücretli bağlantıyla günde 10.000 API çağrısı alasınız.</span><span class="sxs-lookup"><span data-stu-id="d0210-111">With the paid connection, you will be getting 10K API calls per day.</span></span> <span data-ttu-id="d0210-112">Bağlayıcılar, referans API'lerinin İş Ortağı Merkezi sarmalayıcılardır.</span><span class="sxs-lookup"><span data-stu-id="d0210-112">The Connectors are wrappers on top of Partner Center referral APIs.</span></span> <span data-ttu-id="d0210-113">Bağlayıcı çözümleri, İş Ortağı Merkezi  veya  CRM tarafındaki fırsatlarda Oluşturma veya Güncelleştirme olayı için her çalıştırısa, bir API çağrısı yapılır.</span><span class="sxs-lookup"><span data-stu-id="d0210-113">Whenever the connector solutions run for a **Create** or **Update** event on the opportunities on either Partner Center or the CRM side, an API call is made.</span></span>
 
-1. <span data-ttu-id="b566d-112">Ortamınız için bir deneme ortak satışı başvuruları Bağlayıcısı çözümü kullanabilir miyim?</span><span class="sxs-lookup"><span data-stu-id="b566d-112">Can you use a trial co-sell referrals connectors solution for your environment?</span></span>
+2. <span data-ttu-id="d0210-114">CRM ortamında bölümler oluşturmak için hangi role ihtiyacınız var?</span><span class="sxs-lookup"><span data-stu-id="d0210-114">What role do you need to create sections in CRM environment?</span></span>
 
-<span data-ttu-id="b566d-113">Test/hazırlama ortamındaysanız, deneme çözümünü kabul edebilirsiniz.</span><span class="sxs-lookup"><span data-stu-id="b566d-113">If you are on the test/staging environment, you can opt for trial solution.</span></span> <span data-ttu-id="b566d-114">Bağlayıcıların ücretli sürümü, AppSource 'ta ABD $15/ay 'da bulunabilir.</span><span class="sxs-lookup"><span data-stu-id="b566d-114">The paid version of the Connectors is available in AppSource at US$ 15/month.</span></span> <span data-ttu-id="b566d-115">Ücretli bağlantıyla, günde 10.000 API çağrısı elde edersiniz.</span><span class="sxs-lookup"><span data-stu-id="b566d-115">With the paid connection, you will be getting 10K API calls per day.</span></span> <span data-ttu-id="b566d-116">Bağlayıcılar, Iş ortağı merkezi başvuru API 'lerinin en üstünde sarmalayıcılardır.</span><span class="sxs-lookup"><span data-stu-id="b566d-116">The Connectors are wrappers on top of Partner Center referral APIs.</span></span> <span data-ttu-id="b566d-117">Her iki Iş ortağı merkezi veya CRM tarafında fırsatlarda bir **oluşturma** veya **güncelleştirme** olayı için BAĞLAYıCı çözümleri çalıştırıldığında bir API çağrısı yapılır.</span><span class="sxs-lookup"><span data-stu-id="b566d-117">Whenever the connector solutions run for a **Create** or **Update** event on the opportunities on either Partner Center or the CRM side, an API call is made.</span></span>
+<span data-ttu-id="d0210-115">Sistem yöneticisi veya sistem özelleştiricisi olan kullanıcılar değişiklikleri herkes için uygulayabilir.</span><span class="sxs-lookup"><span data-stu-id="d0210-115">Users who are system admins or system customizers can apply changes for everyone.</span></span> <span data-ttu-id="d0210-116">Ancak tüm uygulama kullanıcıları sistemi kişiselleştirenin ve hatta bazı özelleştirmelerini başkalarıyla paylaşabilir.</span><span class="sxs-lookup"><span data-stu-id="d0210-116">All app users, however,  can personalize the system and even share some of their customizations with others.</span></span> 
 
-2. <span data-ttu-id="b566d-118">CRM ortamında bölüm oluşturmak için hangi rolü kullanmanız gerekir?</span><span class="sxs-lookup"><span data-stu-id="b566d-118">What role do you need to create sections in CRM environment?</span></span>
-
-<span data-ttu-id="b566d-119">Sistem yöneticileri veya sistem özelleştiricileri olan kullanıcılar herkes için değişiklik uygulayabilir.</span><span class="sxs-lookup"><span data-stu-id="b566d-119">Users who are system admins or system customizers can apply changes for everyone.</span></span> <span data-ttu-id="b566d-120">Ancak tüm uygulama kullanıcıları, sistemi kişiselleştirebilir ve hatta bazı özelleştirmelerini başkalarıyla paylaşabilir.</span><span class="sxs-lookup"><span data-stu-id="b566d-120">All app users, however,  can personalize the system and even share some of their customizations with others.</span></span> 
-
-3. <span data-ttu-id="b566d-121">İş ortağı satıcıları iş ortağı merkezi 'nde çalışmak için özel rollere ihtiyaç duyuyor mu?</span><span class="sxs-lookup"><span data-stu-id="b566d-121">Do partner sellers need special roles to work on Partner Center?</span></span>
+3. <span data-ttu-id="d0210-117">İş ortağı satıcılarının iş ortaklarına özel rollere ihtiyacı İş Ortağı Merkezi?</span><span class="sxs-lookup"><span data-stu-id="d0210-117">Do partner sellers need special roles to work on Partner Center?</span></span>
  
-<span data-ttu-id="b566d-122">İş ortağı satıcılara "başvuru Yöneticisi" rolü atanmalıdır.</span><span class="sxs-lookup"><span data-stu-id="b566d-122">Partner sellers must be assigned the “Referrals admin” role.</span></span> <span data-ttu-id="b566d-123">Daha fazla bilgi için bkz. [izinlere genel bakış](create-user-accounts-and-set-permissions.md).</span><span class="sxs-lookup"><span data-stu-id="b566d-123">For more information, see [Permissions overview](create-user-accounts-and-set-permissions.md).</span></span>
+<span data-ttu-id="d0210-118">İş ortağı satıcılarına "Referans yöneticisi" rolü atanmalı.</span><span class="sxs-lookup"><span data-stu-id="d0210-118">Partner sellers must be assigned the “Referrals admin” role.</span></span> <span data-ttu-id="d0210-119">Daha fazla bilgi için bkz. [İzinlere genel bakış.](create-user-accounts-and-set-permissions.md)</span><span class="sxs-lookup"><span data-stu-id="d0210-119">For more information, see [Permissions overview](create-user-accounts-and-set-permissions.md).</span></span>
 
-4. <span data-ttu-id="b566d-124">CRM ortamınızda ilk olarak hangi alanların ayarlanması gerekir?</span><span class="sxs-lookup"><span data-stu-id="b566d-124">What fields need to be set up first in your CRM environment?</span></span> 
+4. <span data-ttu-id="d0210-120">CRM ortamınıza ilk olarak hangi alanların ayarlanmış olması gerekir?</span><span class="sxs-lookup"><span data-stu-id="d0210-120">What fields need to be set up first in your CRM environment?</span></span> 
 
-<span data-ttu-id="b566d-125">• Para biriminiz konumunuza uygun olduğundan ve CRM ortamınızda doğru olduğundan emin olun.</span><span class="sxs-lookup"><span data-stu-id="b566d-125">• Make sure your currency is appropriate to your location and is in your CRM environment accurately.</span></span> <span data-ttu-id="b566d-126">• Satış ekibiniz, CRM ortamınızda CRM kullanıcıları olarak listelenmiş olmalıdır.</span><span class="sxs-lookup"><span data-stu-id="b566d-126">• Your sales team should be listed in your CRM environment as CRM users.</span></span>
+<span data-ttu-id="d0210-121">• Para biriminiz konumunuza uygun olduğundan ve CRM ortamınızda doğru olduğundan emin olun.</span><span class="sxs-lookup"><span data-stu-id="d0210-121">• Make sure your currency is appropriate to your location and is in your CRM environment accurately.</span></span> <span data-ttu-id="d0210-122">• Satış ekibiniz, CRM ortamınızda CRM kullanıcıları olarak listelenmiş olmalıdır.</span><span class="sxs-lookup"><span data-stu-id="d0210-122">• Your sales team should be listed in your CRM environment as CRM users.</span></span>
 
-5. <span data-ttu-id="b566d-127">Power otomatikleştirin ortam oluşturma için gerekenler ne gerekir?</span><span class="sxs-lookup"><span data-stu-id="b566d-127">What pre-requisites are required for Power Automate environment creation?</span></span>
+5. <span data-ttu-id="d0210-123">Power otomatikleştirin ortam oluşturma için gerekenler ne gerekir?</span><span class="sxs-lookup"><span data-stu-id="d0210-123">What pre-requisites are required for Power Automate environment creation?</span></span>
 
-<span data-ttu-id="b566d-128">Power otomatikleştir ortamını kullanmak için şunlar gerekir:</span><span class="sxs-lookup"><span data-stu-id="b566d-128">To use the Power Automate environment, you need:</span></span>
+<span data-ttu-id="d0210-124">Power otomatikleştir ortamını kullanmak için şunlar gerekir:</span><span class="sxs-lookup"><span data-stu-id="d0210-124">To use the Power Automate environment, you need:</span></span>
 
-- <span data-ttu-id="b566d-129">Güç otomatikleştirme lisansı gereklidir.</span><span class="sxs-lookup"><span data-stu-id="b566d-129">A Power Automate license is required.</span></span>
-- <span data-ttu-id="b566d-130">En az 1 GB depolama alanı gereklidir.</span><span class="sxs-lookup"><span data-stu-id="b566d-130">A minimum of 1-GB storage is required.</span></span>
+- <span data-ttu-id="d0210-125">Güç otomatikleştirme lisansı gereklidir.</span><span class="sxs-lookup"><span data-stu-id="d0210-125">A Power Automate license is required.</span></span>
+- <span data-ttu-id="d0210-126">En az 1 GB depolama alanı gereklidir.</span><span class="sxs-lookup"><span data-stu-id="d0210-126">A minimum of 1-GB storage is required.</span></span>
 
-6.  <span data-ttu-id="b566d-131">Salesforce bağlayıcıları çözümünü kullanmak için bir Dynamics 365 aboneliğine ihtiyacınız var mı?</span><span class="sxs-lookup"><span data-stu-id="b566d-131">Do you need a Dynamics 365 subscription to use Salesforce Connectors solution?</span></span>
+6.  <span data-ttu-id="d0210-127">Salesforce bağlayıcıları çözümünü kullanmak için bir Dynamics 365 aboneliğine ihtiyacınız var mı?</span><span class="sxs-lookup"><span data-stu-id="d0210-127">Do you need a Dynamics 365 subscription to use Salesforce Connectors solution?</span></span>
 
-<span data-ttu-id="b566d-132">Salesforce bağlayıcı çözümü, diğer CRM sistemleriyle eşitlemeyi destekleyen "Dynamics Flow" türüdür.</span><span class="sxs-lookup"><span data-stu-id="b566d-132">The Salesforce Connector solution is of type “Dynamics Flow” that supports synchronizing with other CRM systems.</span></span> <span data-ttu-id="b566d-133">Çözüm, Dynamics 365 örneğine veya aboneliğine sahip olmanızı gerektirmez.</span><span class="sxs-lookup"><span data-stu-id="b566d-133">The solution doesn’t require you to have a Dynamics 365 instance or a subscription.</span></span> <span data-ttu-id="b566d-134">Salesforce çözümünü yüklerken şirketinizdeki mevcut CD 'leri içeren bir açılır liste görüntülenebilir.</span><span class="sxs-lookup"><span data-stu-id="b566d-134">While installing the Salesforce solution, a drop-down with existing CDS environment in your company may appear.</span></span> <span data-ttu-id="b566d-135">Bu ortamı seçmeniz gerekir.</span><span class="sxs-lookup"><span data-stu-id="b566d-135">You need to select that environment.</span></span> <span data-ttu-id="b566d-136">Ayrıca, "oturum açan kullanıcıya bağlı bir Dynamics 365 organizasyonu bulamadık" hatasını alırsanız, bağlayıcı için yeni ortam oluşturmanız gerekir.</span><span class="sxs-lookup"><span data-stu-id="b566d-136">In addition, if you get the error "We couldn't find a Dynamics 365 organization connected to signed-in user", then you will need to create new environment for connector.</span></span>
+<span data-ttu-id="d0210-128">Salesforce bağlayıcı çözümü, diğer CRM sistemleriyle eşitlemeyi destekleyen "Dynamics Flow" türüdür.</span><span class="sxs-lookup"><span data-stu-id="d0210-128">The Salesforce Connector solution is of type “Dynamics Flow” that supports synchronizing with other CRM systems.</span></span> <span data-ttu-id="d0210-129">Çözüm, Dynamics 365 örneğine veya aboneliğine sahip olmanızı gerektirmez.</span><span class="sxs-lookup"><span data-stu-id="d0210-129">The solution doesn’t require you to have a Dynamics 365 instance or a subscription.</span></span> <span data-ttu-id="d0210-130">Salesforce çözümünü yüklerken şirketinizdeki mevcut CD 'leri içeren bir açılır liste görüntülenebilir.</span><span class="sxs-lookup"><span data-stu-id="d0210-130">While installing the Salesforce solution, a drop-down with existing CDS environment in your company may appear.</span></span> <span data-ttu-id="d0210-131">Bu ortamı seçmeniz gerekir.</span><span class="sxs-lookup"><span data-stu-id="d0210-131">You need to select that environment.</span></span> <span data-ttu-id="d0210-132">Ayrıca, "oturum açan kullanıcıya bağlı bir Dynamics 365 organizasyonu bulamadık" hatasını alırsanız, bağlayıcı için yeni ortam oluşturmanız gerekir.</span><span class="sxs-lookup"><span data-stu-id="d0210-132">In addition, if you get the error "We couldn't find a Dynamics 365 organization connected to signed-in user", then you will need to create new environment for connector.</span></span>
 
-## <a name="questions-and-answers-about-configuration"></a><span data-ttu-id="b566d-137">Yapılandırma ile ilgili sorular ve yanıtlar</span><span class="sxs-lookup"><span data-stu-id="b566d-137">Questions and answers about configuration</span></span>
+## <a name="questions-and-answers-about-configuration"></a><span data-ttu-id="d0210-133">Yapılandırma ile ilgili sorular ve yanıtlar</span><span class="sxs-lookup"><span data-stu-id="d0210-133">Questions and answers about configuration</span></span>
 
-1. <span data-ttu-id="b566d-138">Power otomatikleştir platformunda akışları etkinleştirirken aşağıdaki hatayla karşılaşırsanız ne yapmalısınız?</span><span class="sxs-lookup"><span data-stu-id="b566d-138">What should you do if you face the following error while activating flows in Power Automate Platform?</span></span>
+1. <span data-ttu-id="d0210-134">Power otomatikleştir platformunda akışları etkinleştirirken aşağıdaki hatayla karşılaşırsanız ne yapmalısınız?</span><span class="sxs-lookup"><span data-stu-id="d0210-134">What should you do if you face the following error while activating flows in Power Automate Platform?</span></span>
 
-<span data-ttu-id="b566d-139">Hata: Azure Resource Manager Isteği şu hatayla başarısız oldu: ' {"Error": {"Code": "WorkflowTriggerNotFound", "Message": "iş akışı ' e14d00f1-1fdf-4b1b-AAAC-54a5064093d3 ' tetikleyici ' Manual ' bulunamadı."}} '.</span><span class="sxs-lookup"><span data-stu-id="b566d-139">Error: Request to Azure Resource Manager failed with error: '{"error":{"code":"WorkflowTriggerNotFound","message":"The workflow 'e14d00f1-1fdf-4b1b-aaac-54a5064093d3' trigger 'manual' could not be found."}}'.</span></span> 
+<span data-ttu-id="d0210-135">Hata: Azure Resource Manager Isteği şu hatayla başarısız oldu: ' {"Error": {"Code": "WorkflowTriggerNotFound", "Message": "iş akışı ' e14d00f1-1fdf-4b1b-AAAC-54a5064093d3 ' tetikleyici ' Manual ' bulunamadı."}} '.</span><span class="sxs-lookup"><span data-stu-id="d0210-135">Error: Request to Azure Resource Manager failed with error: '{"error":{"code":"WorkflowTriggerNotFound","message":"The workflow 'e14d00f1-1fdf-4b1b-aaac-54a5064093d3' trigger 'manual' could not be found."}}'.</span></span> 
 
-<span data-ttu-id="b566d-140">Bu sorun giderme adımlarını izleyin:</span><span class="sxs-lookup"><span data-stu-id="b566d-140">Follow these troubleshooting steps:</span></span>
+<span data-ttu-id="d0210-136">Bu sorun giderme adımlarını izleyin:</span><span class="sxs-lookup"><span data-stu-id="d0210-136">Follow these troubleshooting steps:</span></span>
 
-- <span data-ttu-id="b566d-141">CD bağlantısını silin ve ardından CD bağlantılarını yeniden oluşturun.</span><span class="sxs-lookup"><span data-stu-id="b566d-141">Delete the CDS connection and then recreate the CDS connections.</span></span>
-- <span data-ttu-id="b566d-142">Alt akışı kapatma ve açma</span><span class="sxs-lookup"><span data-stu-id="b566d-142">Turn the child flow off and on</span></span> 
-- <span data-ttu-id="b566d-143">Çözümü silin ve çözümü yeniden yükleyin.</span><span class="sxs-lookup"><span data-stu-id="b566d-143">Delete solution and then reinstall the solution.</span></span> 
+- <span data-ttu-id="d0210-137">CD bağlantısını silin ve ardından CD bağlantılarını yeniden oluşturun.</span><span class="sxs-lookup"><span data-stu-id="d0210-137">Delete the CDS connection and then recreate the CDS connections.</span></span>
+- <span data-ttu-id="d0210-138">Alt akışı kapatma ve açma</span><span class="sxs-lookup"><span data-stu-id="d0210-138">Turn the child flow off and on</span></span> 
+- <span data-ttu-id="d0210-139">Çözümü silin ve çözümü yeniden yükleyin.</span><span class="sxs-lookup"><span data-stu-id="d0210-139">Delete solution and then reinstall the solution.</span></span> 
 
-2.  <span data-ttu-id="b566d-144">Power otomatikleştir platformunda bir Iş Ortağı Merkezi Bağlayıcısı eklenirken "oturum aç" hatası varsa ne yapmalısınız?</span><span class="sxs-lookup"><span data-stu-id="b566d-144">What should you do if you face the "Sign in" error while adding a Partner Center connector in Power Automate Platform?</span></span>
+2.  <span data-ttu-id="d0210-140">Power otomatikleştir platformunda bir Iş Ortağı Merkezi Bağlayıcısı eklenirken "oturum aç" hatası varsa ne yapmalısınız?</span><span class="sxs-lookup"><span data-stu-id="d0210-140">What should you do if you face the "Sign in" error while adding a Partner Center connector in Power Automate Platform?</span></span>
 
 :::image type="content" source="images/cosellconnectors/failure.png" alt-text="Oturum açma gerektiren hata iletisi":::
 
-<span data-ttu-id="b566d-146">Bu sorun giderme adımını izleyin:</span><span class="sxs-lookup"><span data-stu-id="b566d-146">Follow this troubleshooting step:</span></span>
+<span data-ttu-id="d0210-142">Bu sorun giderme adımını izleyin:</span><span class="sxs-lookup"><span data-stu-id="d0210-142">Follow this troubleshooting step:</span></span>
 
-- <span data-ttu-id="b566d-147">Iş ortağı merkezi kimlik bilgilerinizi kullanarak Flow ortamında bir kez oturum açın (flow.microsoft.com).</span><span class="sxs-lookup"><span data-stu-id="b566d-147">Use your Partner Center credentials to sign into the flow environment once (flow.microsoft.com).</span></span>
+- <span data-ttu-id="d0210-143">Akış ortamında İş Ortağı Merkezi için kimlik bilgilerinizi kullanın (flow.microsoft.com).</span><span class="sxs-lookup"><span data-stu-id="d0210-143">Use your Partner Center credentials to sign into the flow environment once (flow.microsoft.com).</span></span>
 
 
-3. <span data-ttu-id="b566d-148">Power otomatikleştir platformunda Iş ortağı merkezini CRM akışına etkinleştirirken aşağıdaki hatayı alırsanız ne yapmalısınız?</span><span class="sxs-lookup"><span data-stu-id="b566d-148">What should you do if you receive the following error while activating the Partner Center to CRM flow in Power Automate Platform?</span></span>
+3. <span data-ttu-id="d0210-144">Power Automate Platform'da CRM akışına İş Ortağı Merkezi etkinleştirirken aşağıdaki hatayı alırsanız ne Power Automate gerekir?</span><span class="sxs-lookup"><span data-stu-id="d0210-144">What should you do if you receive the following error while activating the Partner Center to CRM flow in Power Automate Platform?</span></span>
  
 :::image type="content" source="images/cosellconnectors/powererror.png" alt-text="Güncelleştirme gerektiren hata iletisi":::
 
-<span data-ttu-id="b566d-150">Bu sorun giderme adımlarını izleyin:</span><span class="sxs-lookup"><span data-stu-id="b566d-150">Follow these troubleshooting steps:</span></span>
+<span data-ttu-id="d0210-146">Şu sorun giderme adımlarını izleyin:</span><span class="sxs-lookup"><span data-stu-id="d0210-146">Follow these troubleshooting steps:</span></span>
 
-- <span data-ttu-id="b566d-151">Iş ortağı merkezini CRM akışına etkinleştirmeden önce aşağıdaki iki alt akışı etkinleştirin.</span><span class="sxs-lookup"><span data-stu-id="b566d-151">Activate the following two child flows first before you activate the Partner Center to CRM flow.</span></span>
-      - <span data-ttu-id="b566d-152">İş Ortağı Merkezi 'ne CRM Yardımcısı (Insider Preview)</span><span class="sxs-lookup"><span data-stu-id="b566d-152">Partner Center to CRM - Helper (Insider Preview)</span></span>
-      - <span data-ttu-id="b566d-153">İş Ortağı Merkezi Microsoft ortak-CRM 'ye başvuru güncelleştirmeleri satma (Insider Preview)</span><span class="sxs-lookup"><span data-stu-id="b566d-153">Partner Center Microsoft Co-sell Referral Updates to CRM (Insider Preview)</span></span>
+- <span data-ttu-id="d0210-147">CRM akışına yönelik akışı etkinleştirmeden önce aşağıdaki iki İş Ortağı Merkezi akışı etkinleştirin.</span><span class="sxs-lookup"><span data-stu-id="d0210-147">Activate the following two child flows first before you activate the Partner Center to CRM flow.</span></span>
+      - <span data-ttu-id="d0210-148">İş Ortağı Merkezi CRM ' e - Yardımcı (Insider Önizleme)</span><span class="sxs-lookup"><span data-stu-id="d0210-148">Partner Center to CRM - Helper (Insider Preview)</span></span>
+      - <span data-ttu-id="d0210-149">İş Ortağı Merkezi Microsoft'un CRM'ye Ortak Satış Referans Güncelleştirmeleri (Insider Önizlemesi)</span><span class="sxs-lookup"><span data-stu-id="d0210-149">Partner Center Microsoft Co-sell Referral Updates to CRM (Insider Preview)</span></span>
 
-4. <span data-ttu-id="b566d-154">Akışı düzenlemeye çalıştığınızda akışla bağlantı ekleyemeyebilirsiniz ne yapmalısınız?</span><span class="sxs-lookup"><span data-stu-id="b566d-154">What should you do when you aren't able to add connections to the flow when you try to edit the flow?</span></span>
+4. <span data-ttu-id="d0210-150">Akışı düzenlemeye çalışmadan akışa bağlantı ekleye değilken ne yapacaksınız?</span><span class="sxs-lookup"><span data-stu-id="d0210-150">What should you do when you aren't able to add connections to the flow when you try to edit the flow?</span></span>
 
-<span data-ttu-id="b566d-155">Akış çalışırken akışa bağlantı ekler ve her bir akışa ayrı olarak eklersiniz.</span><span class="sxs-lookup"><span data-stu-id="b566d-155">You add connections to the flow while the flow is running, and you add to each flow separately.</span></span>  <span data-ttu-id="b566d-156">Bağlantı ekleme iletişim kutusu akışı düzenlerken otomatik olarak açılmazsa, akışların her birini ve alt adımını ayrı ayrı düzenleyebilirsiniz.</span><span class="sxs-lookup"><span data-stu-id="b566d-156">If the dialog to add connections doesn't open up automatically while editing the flow, then you can edit each of the steps and sub steps of the flows individually.</span></span>
+<span data-ttu-id="d0210-151">Akış çalışırken akışa bağlantılar ekler ve her akışa ayrı bağlantılar eklersiniz.</span><span class="sxs-lookup"><span data-stu-id="d0210-151">You add connections to the flow while the flow is running, and you add to each flow separately.</span></span>  <span data-ttu-id="d0210-152">Bağlantı ekleme iletişim kutusu akışı düzenlerken otomatik olarak açılmazsa, akışların adımlarını ve alt adımlarını tek tek düzenleyebilirsiniz.</span><span class="sxs-lookup"><span data-stu-id="d0210-152">If the dialog to add connections doesn't open up automatically while editing the flow, then you can edit each of the steps and sub steps of the flows individually.</span></span>
 
-- <span data-ttu-id="b566d-157">Her bir akışı seçin ve tek tek düzenleyin.</span><span class="sxs-lookup"><span data-stu-id="b566d-157">Select each flow and edit them individually.</span></span>
-- <span data-ttu-id="b566d-158">Akıştaki tüm adımları Genişlet</span><span class="sxs-lookup"><span data-stu-id="b566d-158">Expand all the steps in the flow</span></span> 
+- <span data-ttu-id="d0210-153">Her akışı seçin ve ayrı ayrı düzenleyin.</span><span class="sxs-lookup"><span data-stu-id="d0210-153">Select each flow and edit them individually.</span></span>
+- <span data-ttu-id="d0210-154">Akışta tüm adımları genişletin</span><span class="sxs-lookup"><span data-stu-id="d0210-154">Expand all the steps in the flow</span></span> 
 
-:::image type="content" source="images/cosellconnectors/flowsteps.png" alt-text="Bağlantı gerektiren adımlar":::
+:::image type="content" source="images/cosellconnectors/flowsteps.png" alt-text="Bağlantı gereken adımlar":::
 
-- <span data-ttu-id="b566d-160">Bağlantıları ilişkilendirmek ve bağlantı eklemek isteyen bir uyarı simgesi gördüğünüz adımları seçin.</span><span class="sxs-lookup"><span data-stu-id="b566d-160">Select the steps where you see a warning icon asking to associate connections, and add connections.</span></span> 
+- <span data-ttu-id="d0210-156">Bağlantıları ilişkilendirmek ve bağlantı eklemek için bir uyarı simgesi gördüğünüz adımları seçin.</span><span class="sxs-lookup"><span data-stu-id="d0210-156">Select the steps where you see a warning icon asking to associate connections, and add connections.</span></span> 
 
-:::image type="content" source="images/cosellconnectors/editflow.png" alt-text="Adıma göre akış adımını Düzenle":::
+:::image type="content" source="images/cosellconnectors/editflow.png" alt-text="Akışı adım adım düzenleme":::
 
 
-5. <span data-ttu-id="b566d-162">Ortak satış başvuruları bağlayıcılar çözümünün akışları açık değilse ne yapmalısınız?</span><span class="sxs-lookup"><span data-stu-id="b566d-162">What should you do if the flows of the Co-sell Referrals Connectors solution don’t turn on?</span></span>
+5. <span data-ttu-id="d0210-158">Ortak Satış Referansları Bağlayıcıları çözümünün akışları açık yoksa ne yapacaksınız?</span><span class="sxs-lookup"><span data-stu-id="d0210-158">What should you do if the flows of the Co-sell Referrals Connectors solution don’t turn on?</span></span>
 
-<span data-ttu-id="b566d-163">A.</span><span class="sxs-lookup"><span data-stu-id="b566d-163">A.</span></span> <span data-ttu-id="b566d-164">Power otomatikleştirmede akışları aşağıdaki sırayla düzenlemeniz ve doğru bağlantıları kullanacak şekilde güncelleştirmeniz gerekir:</span><span class="sxs-lookup"><span data-stu-id="b566d-164">In Power Automate, you'll need to edit flows in the following order and update them to use the correct connections:</span></span>
+<span data-ttu-id="d0210-159">A.</span><span class="sxs-lookup"><span data-stu-id="d0210-159">A.</span></span> <span data-ttu-id="d0210-160">Bu Power Automate, akışları aşağıdaki sırayla düzenlemeniz ve doğru bağlantıları kullanmak üzere güncelleştirmeniz gerekir:</span><span class="sxs-lookup"><span data-stu-id="d0210-160">In Power Automate, you'll need to edit flows in the following order and update them to use the correct connections:</span></span>
 
-- <span data-ttu-id="b566d-165">İş Ortağı Merkezi Web kancası kaydı (Insider Preview)</span><span class="sxs-lookup"><span data-stu-id="b566d-165">Partner Center Webhook Registration (Insider Preview)</span></span>
-- <span data-ttu-id="b566d-166">Ortak satış başvurusu oluşturma-Salesforce 'a Iş Ortağı Merkezi 'ne (Insider Preview)</span><span class="sxs-lookup"><span data-stu-id="b566d-166">Create Co-sell Referral - Salesforce to Partner Center (Insider Preview)</span></span>
-- <span data-ttu-id="b566d-167">İş Ortağı Merkezi Microsoft ortak-başvuru güncelleştirmelerini Salesforce 'a satma (Insider Preview)</span><span class="sxs-lookup"><span data-stu-id="b566d-167">Partner Center Microsoft Co-sell Referral Updates to Salesforce (Insider Preview)</span></span>
-- <span data-ttu-id="b566d-168">İş ortağı merkezini Salesforce 'a (Insider Preview)</span><span class="sxs-lookup"><span data-stu-id="b566d-168">Partner Center to Salesforce (Insider Preview)</span></span>
-- <span data-ttu-id="b566d-169">Salesforce-Iş Ortağı Merkezi (Insider Preview)</span><span class="sxs-lookup"><span data-stu-id="b566d-169">Salesforce to Partner Center (Insider Preview)</span></span>
-- <span data-ttu-id="b566d-170">Salesforce Iş Ortağı Merkezi (Insider Preview)</span><span class="sxs-lookup"><span data-stu-id="b566d-170">Salesforce Opportunity to Partner Center (Insider Preview)</span></span>
-- <span data-ttu-id="b566d-171">Salesforce Microsoft çözümlerini Iş Ortağı Merkezi 'ne (Insider Preview)</span><span class="sxs-lookup"><span data-stu-id="b566d-171">Salesforce Microsoft Solutions to Partner Center (Insider Preview)</span></span>
+- <span data-ttu-id="d0210-161">İş Ortağı Merkezi Web Kancası Kaydı (Insider Önizlemesi)</span><span class="sxs-lookup"><span data-stu-id="d0210-161">Partner Center Webhook Registration (Insider Preview)</span></span>
+- <span data-ttu-id="d0210-162">Ortak satış başvurusu oluşturma-Salesforce 'a Iş Ortağı Merkezi 'ne (Insider Preview)</span><span class="sxs-lookup"><span data-stu-id="d0210-162">Create Co-sell Referral - Salesforce to Partner Center (Insider Preview)</span></span>
+- <span data-ttu-id="d0210-163">İş Ortağı Merkezi Microsoft ortak-başvuru güncelleştirmelerini Salesforce 'a satma (Insider Preview)</span><span class="sxs-lookup"><span data-stu-id="d0210-163">Partner Center Microsoft Co-sell Referral Updates to Salesforce (Insider Preview)</span></span>
+- <span data-ttu-id="d0210-164">İş ortağı merkezini Salesforce 'a (Insider Preview)</span><span class="sxs-lookup"><span data-stu-id="d0210-164">Partner Center to Salesforce (Insider Preview)</span></span>
+- <span data-ttu-id="d0210-165">Salesforce-Iş Ortağı Merkezi (Insider Preview)</span><span class="sxs-lookup"><span data-stu-id="d0210-165">Salesforce to Partner Center (Insider Preview)</span></span>
+- <span data-ttu-id="d0210-166">Salesforce Iş Ortağı Merkezi (Insider Preview)</span><span class="sxs-lookup"><span data-stu-id="d0210-166">Salesforce Opportunity to Partner Center (Insider Preview)</span></span>
+- <span data-ttu-id="d0210-167">Salesforce Microsoft çözümlerini Iş Ortağı Merkezi 'ne (Insider Preview)</span><span class="sxs-lookup"><span data-stu-id="d0210-167">Salesforce Microsoft Solutions to Partner Center (Insider Preview)</span></span>
 
- <span data-ttu-id="b566d-172">B.</span><span class="sxs-lookup"><span data-stu-id="b566d-172">B.</span></span> <span data-ttu-id="b566d-173">Her akış için **yalnızca kullanıcıları Çalıştır** seçeneğini belirleyin.</span><span class="sxs-lookup"><span data-stu-id="b566d-173">For each of flow, select **Run only users** option.</span></span> <span data-ttu-id="b566d-174">**Yalnızca çalıştırma kullanıcısı tarafından sağlanarak** **bağlantı kullan** ' ı seçin.</span><span class="sxs-lookup"><span data-stu-id="b566d-174">Select **Use connection** instead of **Provided by run-only user**.</span></span>  
+ <span data-ttu-id="d0210-168">B.</span><span class="sxs-lookup"><span data-stu-id="d0210-168">B.</span></span> <span data-ttu-id="d0210-169">Her akış için **yalnızca kullanıcıları Çalıştır** seçeneğini belirleyin.</span><span class="sxs-lookup"><span data-stu-id="d0210-169">For each of flow, select **Run only users** option.</span></span> <span data-ttu-id="d0210-170">**Yalnızca çalıştırma kullanıcısı tarafından sağlanarak** **bağlantı kullan** ' ı seçin.</span><span class="sxs-lookup"><span data-stu-id="d0210-170">Select **Use connection** instead of **Provided by run-only user**.</span></span>  
 
 :::image type="content" source="images/cosellconnectors/runonly.png" alt-text="Bir akışı etkinleştirmek için":::
 
 
-<span data-ttu-id="b566d-176">C.</span><span class="sxs-lookup"><span data-stu-id="b566d-176">C.</span></span> <span data-ttu-id="b566d-177">Bu yukarıda belirtilen akışlara aşağıdaki akışları etkinleştirin:</span><span class="sxs-lookup"><span data-stu-id="b566d-177">Activate these below mentioned flows:</span></span>
+<span data-ttu-id="d0210-172">C.</span><span class="sxs-lookup"><span data-stu-id="d0210-172">C.</span></span> <span data-ttu-id="d0210-173">Bu yukarıda belirtilen akışlara aşağıdaki akışları etkinleştirin:</span><span class="sxs-lookup"><span data-stu-id="d0210-173">Activate these below mentioned flows:</span></span>
 
- - <span data-ttu-id="b566d-178">İş Ortağı Merkezi Microsoft ortak-başvuru güncelleştirmelerini Salesforce 'a satma (Insider Preview)</span><span class="sxs-lookup"><span data-stu-id="b566d-178">Partner Center Microsoft Co-sell Referral Updates to Salesforce (Insider Preview)</span></span>
+ - <span data-ttu-id="d0210-174">İş Ortağı Merkezi Microsoft ortak-başvuru güncelleştirmelerini Salesforce 'a satma (Insider Preview)</span><span class="sxs-lookup"><span data-stu-id="d0210-174">Partner Center Microsoft Co-sell Referral Updates to Salesforce (Insider Preview)</span></span>
 
-- <span data-ttu-id="b566d-179">Salesforce-Iş Ortağı Merkezi (Insider Preview)</span><span class="sxs-lookup"><span data-stu-id="b566d-179">Salesforce to Partner Center (Insider Preview)</span></span>
+- <span data-ttu-id="d0210-175">Salesforce-Iş Ortağı Merkezi (Insider Preview)</span><span class="sxs-lookup"><span data-stu-id="d0210-175">Salesforce to Partner Center (Insider Preview)</span></span>
 
     
-<span data-ttu-id="b566d-180">D.</span><span class="sxs-lookup"><span data-stu-id="b566d-180">D.</span></span> <span data-ttu-id="b566d-181">Kalan tüm akışları etkinleştirin.</span><span class="sxs-lookup"><span data-stu-id="b566d-181">Activate all the remaining flows.</span></span>
+<span data-ttu-id="d0210-176">D.</span><span class="sxs-lookup"><span data-stu-id="d0210-176">D.</span></span> <span data-ttu-id="d0210-177">Kalan tüm akışları etkinleştirin.</span><span class="sxs-lookup"><span data-stu-id="d0210-177">Activate all the remaining flows.</span></span>
 
-<span data-ttu-id="b566d-182">E.</span><span class="sxs-lookup"><span data-stu-id="b566d-182">E.</span></span> <span data-ttu-id="b566d-183">Flow Iş Ortağı Merkezi Web kancası kaydında **Çalıştır**' ı seçin.</span><span class="sxs-lookup"><span data-stu-id="b566d-183">At flow Partner Center Webhook Registration, select **Run**.</span></span> <span data-ttu-id="b566d-184">**Iş Ortağı Merkezi** 'ndeki Ilk eylemden Salesforce akışına **http url 'sini** sağlayın.</span><span class="sxs-lookup"><span data-stu-id="b566d-184">Provide the **http url** from the first action in **Partner Center to Salesforce** flow.</span></span> <span data-ttu-id="b566d-185">**Kaydolmak Için olaylar** bölümündeki tüm dört seçeneği seçin ve üzerine yazmak için **Evet** ' i seçin.</span><span class="sxs-lookup"><span data-stu-id="b566d-185">Select all four options under **Events to register** and select **yes** for Overwrite.</span></span>
+<span data-ttu-id="d0210-178">E.</span><span class="sxs-lookup"><span data-stu-id="d0210-178">E.</span></span> <span data-ttu-id="d0210-179">Flow Iş Ortağı Merkezi Web kancası kaydında **Çalıştır**' ı seçin.</span><span class="sxs-lookup"><span data-stu-id="d0210-179">At flow Partner Center Webhook Registration, select **Run**.</span></span> <span data-ttu-id="d0210-180">**Iş Ortağı Merkezi** 'ndeki Ilk eylemden Salesforce akışına **http url 'sini** sağlayın.</span><span class="sxs-lookup"><span data-stu-id="d0210-180">Provide the **http url** from the first action in **Partner Center to Salesforce** flow.</span></span> <span data-ttu-id="d0210-181">**Kaydolmak Için olaylar** bölümündeki tüm dört seçeneği seçin ve üzerine yazmak için **Evet** ' i seçin.</span><span class="sxs-lookup"><span data-stu-id="d0210-181">Select all four options under **Events to register** and select **yes** for Overwrite.</span></span>
 
-## <a name="questions-and-answers-about-runmaintenance"></a><span data-ttu-id="b566d-186">Çalıştırma/bakım ile ilgili sorular ve yanıtlar</span><span class="sxs-lookup"><span data-stu-id="b566d-186">Questions and answers about Run/Maintenance</span></span>
+## <a name="questions-and-answers-about-runmaintenance"></a><span data-ttu-id="d0210-182">Çalıştırma/bakım ile ilgili sorular ve yanıtlar</span><span class="sxs-lookup"><span data-stu-id="d0210-182">Questions and answers about Run/Maintenance</span></span>
 
-1. <span data-ttu-id="b566d-187">Power otomatikleştirin akış yürütme sırasında hatalardan nasıl sorun giderilir?</span><span class="sxs-lookup"><span data-stu-id="b566d-187">How do you troubleshoot failures during Power Automate flow execution?</span></span>
+1. <span data-ttu-id="d0210-183">Power otomatikleştirin akış yürütme sırasında hatalardan nasıl sorun giderilir?</span><span class="sxs-lookup"><span data-stu-id="d0210-183">How do you troubleshoot failures during Power Automate flow execution?</span></span>
 
-<span data-ttu-id="b566d-188">Güç otomatikleştirebileceğiniz akışlarınızın beklenen şekilde çalıştığından emin olmak ve yürütme sırasında hataların sorunlarını gidermek için bkz. [akış başarısızlıklarını](/power-automate/fix-flow-failures)giderme.</span><span class="sxs-lookup"><span data-stu-id="b566d-188">To ensure that your Power Automate flows run as you expect and to troubleshoot failures during execution, refer to [Fix flow failures](/power-automate/fix-flow-failures).</span></span>
+<span data-ttu-id="d0210-184">Güç otomatikleştirebileceğiniz akışlarınızın beklenen şekilde çalıştığından emin olmak ve yürütme sırasında hataların sorunlarını gidermek için bkz. [akış başarısızlıklarını](/power-automate/fix-flow-failures)giderme.</span><span class="sxs-lookup"><span data-stu-id="d0210-184">To ensure that your Power Automate flows run as you expect and to troubleshoot failures during execution, refer to [Fix flow failures](/power-automate/fix-flow-failures).</span></span>
 
-2. <span data-ttu-id="b566d-189">Iş ortağı merkezi veya CRM ortamında düzgün şekilde eşitlenmemiş başvurular görürseniz ne yapmalısınız?</span><span class="sxs-lookup"><span data-stu-id="b566d-189">What should you do if you see referrals that aren't synchronized properly in Partner Center or CRM environment?</span></span>
+2. <span data-ttu-id="d0210-185">Iş ortağı merkezi veya CRM ortamında düzgün şekilde eşitlenmemiş başvurular görürseniz ne yapmalısınız?</span><span class="sxs-lookup"><span data-stu-id="d0210-185">What should you do if you see referrals that aren't synchronized properly in Partner Center or CRM environment?</span></span>
  
-<span data-ttu-id="b566d-190">Başvuru eşitlemesinin durumunu belirlemek için **Denetim**' i seçin.</span><span class="sxs-lookup"><span data-stu-id="b566d-190">To determine the status of referral synchronization, select **Audit**.</span></span> 
+<span data-ttu-id="d0210-186">Referans eşitleme durumunu belirlemek için Denetle'yi **seçin.**</span><span class="sxs-lookup"><span data-stu-id="d0210-186">To determine the status of referral synchronization, select **Audit**.</span></span> 
 
-:::image type="content" source="images/cosellconnectors/synch.png" alt-text="Başvuruları senkronize etme":::
+:::image type="content" source="images/cosellconnectors/synch.png" alt-text="Referansları eşitleme":::
 
-<span data-ttu-id="b566d-192">Aşağıdaki koşulların karşılandığından emin olun:</span><span class="sxs-lookup"><span data-stu-id="b566d-192">Ensure that the following conditions are met:</span></span>
+<span data-ttu-id="d0210-188">Aşağıdaki koşulların karşı olduğundan emin olmak:</span><span class="sxs-lookup"><span data-stu-id="d0210-188">Ensure that the following conditions are met:</span></span>
 
-- <span data-ttu-id="b566d-193">Çözüm KIMLIĞI, fırsatın bir parçası olarak sağlanır.</span><span class="sxs-lookup"><span data-stu-id="b566d-193">Solution ID is provided as part of the opportunity.</span></span>
+- <span data-ttu-id="d0210-189">Çözüm kimliği, fırsatın bir parçası olarak sağlanır.</span><span class="sxs-lookup"><span data-stu-id="d0210-189">Solution ID is provided as part of the opportunity.</span></span>
 
-- <span data-ttu-id="b566d-194">İki harfli ülke kodu gereklidir.</span><span class="sxs-lookup"><span data-stu-id="b566d-194">Two letter country code is required.</span></span>
+- <span data-ttu-id="d0210-190">İki harfli ülke kodu gereklidir.</span><span class="sxs-lookup"><span data-stu-id="d0210-190">Two letter country code is required.</span></span>
 
-- <span data-ttu-id="b566d-195">Fırsat için Microsoft 'tan yardım seçiliyken müşteri iletişim bilgileri gereklidir.</span><span class="sxs-lookup"><span data-stu-id="b566d-195">When help from Microsoft is selected for the opportunity, customer contact information is required.</span></span>
+- <span data-ttu-id="d0210-191">Fırsat için Microsoft'tan yardım seçildiğinde müşteri iletişim bilgileri gereklidir.</span><span class="sxs-lookup"><span data-stu-id="d0210-191">When help from Microsoft is selected for the opportunity, customer contact information is required.</span></span>
 
-3. <span data-ttu-id="b566d-196">Bir başvurunun çift yönlü olarak eşitlenmesini sağlamak mı istiyorsunuz?</span><span class="sxs-lookup"><span data-stu-id="b566d-196">How to ensure that a referral will synchronize bi-directionally?</span></span>
+3. <span data-ttu-id="d0210-192">Bir referansın çift yönlü olarak eşitlenmesi nasıl sağlandı?</span><span class="sxs-lookup"><span data-stu-id="d0210-192">How to ensure that a referral will synchronize bi-directionally?</span></span>
 
-<span data-ttu-id="b566d-197">Aşağıdaki adımları uygulayın:</span><span class="sxs-lookup"><span data-stu-id="b566d-197">Do the following steps:</span></span>
+<span data-ttu-id="d0210-193">Aşağıdaki adımları uygulayın:</span><span class="sxs-lookup"><span data-stu-id="d0210-193">Do the following steps:</span></span>
 
-- <span data-ttu-id="b566d-198">İş ortaklarının satıcıları, CRM bölümündeki **Iş Ortağı Merkezi Ile eşitlemeyi** etkinleştirdiklerinden emin olmalıdır.</span><span class="sxs-lookup"><span data-stu-id="b566d-198">Partner sellers need to ensure that they have enabled **Sync with Partner Center** option in the CRM section.</span></span>
+- <span data-ttu-id="d0210-194">İş ortağı satıcılarının CRM bölümünde İş Ortağı Merkezi **eşitle seçeneğini etkinleştirmiş** olduğundan emin olmalıdır.</span><span class="sxs-lookup"><span data-stu-id="d0210-194">Partner sellers need to ensure that they have enabled **Sync with Partner Center** option in the CRM section.</span></span>
 
-:::image type="content" source="images/cosellconnectors/enablesynch.png" alt-text="Eşitleme özelliğinin etkinleştirildiğinden emin olun":::
+:::image type="content" source="images/cosellconnectors/enablesynch.png" alt-text="Eşitleme'yi etkinleştirildiğinden emin olun":::
 
-- <span data-ttu-id="b566d-200">Satıcıların bir müşteri adayını nitelerken gelir ve kapanış tarihi sağlaması gerekir.</span><span class="sxs-lookup"><span data-stu-id="b566d-200">Sellers need to provide revenue and closing date when qualifying a lead.</span></span>
+- <span data-ttu-id="d0210-196">Satış satıcılarının müşteri adayını kabul etmek için gelir ve kapanış tarihi sağlamaları gerekir.</span><span class="sxs-lookup"><span data-stu-id="d0210-196">Sellers need to provide revenue and closing date when qualifying a lead.</span></span>
 
-- <span data-ttu-id="b566d-201">Ortak satış fırsatının **Oluştur** veya **GÜNCELLEŞTIR** aşamasında CRM kimliği SAĞLANMıŞSA, ancak bu kimliğe sahip BIR müşteri adayı fırsatı CRM 'de bulunamazsa güncelleştirme veya oluşturma yok sayılır.</span><span class="sxs-lookup"><span data-stu-id="b566d-201">If CRM ID is provided in the **create** or **update** stage of co-sell opportunity, but a lead opportunity with that ID is not found in CRM, then update or create will be ignored.</span></span>
+- <span data-ttu-id="d0210-197">CRM Kimliği ortak satış  fırsatının oluşturma veya güncelleştirme aşamasında sağlanıyorsa ancak CRM'de bu kimliğin bulunduğu bir müşteri adayı fırsatı yoksayılırsa güncelleştirme veya oluşturma yoksayılır. </span><span class="sxs-lookup"><span data-stu-id="d0210-197">If CRM ID is provided in the **create** or **update** stage of co-sell opportunity, but a lead opportunity with that ID is not found in CRM, then update or create will be ignored.</span></span>
 
-- <span data-ttu-id="b566d-202">Başvuru para birimi alanının Salesforce ortamında yapılandırıldığından emin olun.</span><span class="sxs-lookup"><span data-stu-id="b566d-202">Ensure that referral currency field is configured on Salesforce environment.</span></span> 
+- <span data-ttu-id="d0210-198">Referans para birimi alanını Salesforce ortamında yapılandırıldığından emin olmak.</span><span class="sxs-lookup"><span data-stu-id="d0210-198">Ensure that referral currency field is configured on Salesforce environment.</span></span> 
 
-4. <span data-ttu-id="b566d-203">Bağlayıcının bağlantısı kesilirse ve bir başvuru eşitlemesini kaçırdıysanız ne yapmalısınız?</span><span class="sxs-lookup"><span data-stu-id="b566d-203">What should you do if the connector gets disconnected and you miss a referral synchronization.?</span></span>
+4. <span data-ttu-id="d0210-199">Bağlayıcının bağlantısı kesilirse ve referans eşitlemesini kaçırırsanız ne yapacaksınız?</span><span class="sxs-lookup"><span data-stu-id="d0210-199">What should you do if the connector gets disconnected and you miss a referral synchronization.?</span></span>
 
-<span data-ttu-id="b566d-204">Deneyebileceğiniz seçeneklerden bazıları aşağıda verilmiştir:</span><span class="sxs-lookup"><span data-stu-id="b566d-204">Following are few of the options that you can try out:</span></span>
+<span data-ttu-id="d0210-200">Deneyebilirsiniz seçeneklerden birkaçı şunlardır:</span><span class="sxs-lookup"><span data-stu-id="d0210-200">Following are few of the options that you can try out:</span></span>
 
-- <span data-ttu-id="b566d-205">Iş Ortağı Merkezi kullanıcısı için başvuru yöneticisi rollerine sahip kullanıcı adının veya parolanın dolup dolmadığını denetleyin.</span><span class="sxs-lookup"><span data-stu-id="b566d-205">Check whether username or password has expired for the Partner Center user with referral admin roles.</span></span>
+- <span data-ttu-id="d0210-201">Referans yöneticisi rollerine sahip kullanıcı adı veya parolanın İş Ortağı Merkezi olup olmadığını kontrol edin.</span><span class="sxs-lookup"><span data-stu-id="d0210-201">Check whether username or password has expired for the Partner Center user with referral admin roles.</span></span>
 
-- <span data-ttu-id="b566d-206">Eşitlenmemiş fırsata gidebilir, küçük bir güncelleştirme yapabilir ve başvurunun eşitlenip eşitlenmediğini gözlemleyebilirsiniz.</span><span class="sxs-lookup"><span data-stu-id="b566d-206">You can go to the un-synchronized opportunity, make a minor update, and observe whether the referral has synchronized.</span></span>
+- <span data-ttu-id="d0210-202">Eşitlenmemiş fırsata gidebilir, küçük bir güncelleştirme gerçekleştirip referansın eşitlenmiş olup olmadığını gözlemlersiniz.</span><span class="sxs-lookup"><span data-stu-id="d0210-202">You can go to the un-synchronized opportunity, make a minor update, and observe whether the referral has synchronized.</span></span>
 
-- <span data-ttu-id="b566d-207">Akışlar çalıştırılmışsa ve başarısız olursa, akışı seçip başarısız olan çalıştırmayı yeniden gönderebilirsiniz.</span><span class="sxs-lookup"><span data-stu-id="b566d-207">If the flows have run and failed, then select the flow and re-submit the run that has failed.</span></span>
+- <span data-ttu-id="d0210-203">Akışlar çalıştırlı ve başarısız olmuşsa akışı seçin ve başarısız olan çalıştırmayı yeniden gönderin.</span><span class="sxs-lookup"><span data-stu-id="d0210-203">If the flows have run and failed, then select the flow and re-submit the run that has failed.</span></span>
 
-5. <span data-ttu-id="b566d-208">Erişim reddedildi hatalarını aldığınızda ne yapmalısınız?</span><span class="sxs-lookup"><span data-stu-id="b566d-208">What should you do when you get access denied errors?</span></span>
+5. <span data-ttu-id="d0210-204">Erişim reddedildi hatalarına sahip olursanız ne yapacaksınız?</span><span class="sxs-lookup"><span data-stu-id="d0210-204">What should you do when you get access denied errors?</span></span>
 
-<span data-ttu-id="b566d-209">Uygun rollerin mevcut olduğundan emin olun</span><span class="sxs-lookup"><span data-stu-id="b566d-209">Make sure the appropriate roles exist</span></span>
+<span data-ttu-id="d0210-205">Uygun rollerin mevcut olduğundan emin olun</span><span class="sxs-lookup"><span data-stu-id="d0210-205">Make sure the appropriate roles exist</span></span>
 
-- <span data-ttu-id="b566d-210">Iş Ortağı Merkezi satıcı için başvuru Yöneticisi rolü</span><span class="sxs-lookup"><span data-stu-id="b566d-210">Referral Administrator role for Partner Center seller</span></span> 
+- <span data-ttu-id="d0210-206">Iş Ortağı Merkezi satıcı için başvuru Yöneticisi rolü</span><span class="sxs-lookup"><span data-stu-id="d0210-206">Referral Administrator role for Partner Center seller</span></span> 
  
-- <span data-ttu-id="b566d-211">CRM örneğiniz üzerinde sistem yöneticisi veya sistem özelleştirici rolü</span><span class="sxs-lookup"><span data-stu-id="b566d-211">System Administrator or System Customizer role on your CRM instance</span></span>
+- <span data-ttu-id="d0210-207">CRM örneğiniz üzerinde sistem yöneticisi veya sistem özelleştirici rolü</span><span class="sxs-lookup"><span data-stu-id="d0210-207">System Administrator or System Customizer role on your CRM instance</span></span>
 
-- <span data-ttu-id="b566d-212">Power otomatikleştirmenin akış hesabı kullanıcısının https://flow.microsoft.com önceden en az bir kez oturum açtığına sahip olduğundan emin olun</span><span class="sxs-lookup"><span data-stu-id="b566d-212">Ensure that the Power Automate flow account user logs into https://flow.microsoft.com at least once beforehand</span></span>
+- <span data-ttu-id="d0210-208">Power otomatikleştirmenin akış hesabı kullanıcısının https://flow.microsoft.com önceden en az bir kez oturum açtığına sahip olduğundan emin olun</span><span class="sxs-lookup"><span data-stu-id="d0210-208">Ensure that the Power Automate flow account user logs into https://flow.microsoft.com at least once beforehand</span></span>
 
-6. <span data-ttu-id="b566d-213">Ortak satış fırsatı oluştururken **müşteri hesabı ülke kodunun** eksik olduğunu görürseniz, ne yapmanız gerekir?</span><span class="sxs-lookup"><span data-stu-id="b566d-213">If you see that **Customer account country code** is missing while creating a Co-sell opportunity, what should you do?</span></span>
+6. <span data-ttu-id="d0210-209">Ortak satış fırsatı oluştururken **müşteri hesabı ülke kodunun** eksik olduğunu görürseniz, ne yapmanız gerekir?</span><span class="sxs-lookup"><span data-stu-id="d0210-209">If you see that **Customer account country code** is missing while creating a Co-sell opportunity, what should you do?</span></span>
 
-<span data-ttu-id="b566d-214">ISO 'nın iki harfli ülke kodunu CRM 'de müşteri hesabına eklemeniz gerekir.</span><span class="sxs-lookup"><span data-stu-id="b566d-214">You will need to add the ISO two-letter country code to the Customer account in CRM.</span></span>
+<span data-ttu-id="d0210-210">ISO 'nın iki harfli ülke kodunu CRM 'de müşteri hesabına eklemeniz gerekir.</span><span class="sxs-lookup"><span data-stu-id="d0210-210">You will need to add the ISO two-letter country code to the Customer account in CRM.</span></span>
 
-7. <span data-ttu-id="b566d-215">Ortak satış fırsatı oluştururken **Çözüm Kimliği 'nin gerekli** olduğu hatayı görürseniz ne yapmanız gerekir?</span><span class="sxs-lookup"><span data-stu-id="b566d-215">What should you do if you see the error that **Solution ID is required** while creating a Co-sell opportunity?</span></span>
+7. <span data-ttu-id="d0210-211">Ortak satış fırsatı oluştururken **Çözüm Kimliği 'nin gerekli** olduğu hatayı görürseniz ne yapmanız gerekir?</span><span class="sxs-lookup"><span data-stu-id="d0210-211">What should you do if you see the error that **Solution ID is required** while creating a Co-sell opportunity?</span></span>
 
-<span data-ttu-id="b566d-216">Ortak satış başvurusu oluşturmak için, Microsoft ortak satış için kullanabileceğiniz bir çözüme ihtiyacınız vardır.</span><span class="sxs-lookup"><span data-stu-id="b566d-216">In order to create a co-sell referral, you need a Microsoft co-sell ready solution.</span></span> 
+<span data-ttu-id="d0210-212">Ortak satış başvurusu oluşturmak için, Microsoft ortak satış için kullanabileceğiniz bir çözüme ihtiyacınız vardır.</span><span class="sxs-lookup"><span data-stu-id="d0210-212">In order to create a co-sell referral, you need a Microsoft co-sell ready solution.</span></span> 
 
-8. <span data-ttu-id="b566d-217">Iş akışı hatası olmasa dahi, Iş Ortağı Merkezi 'nde oluşturulmuş ortak satış fırsatlarını gördüğünüzde ne yapmalısınız?</span><span class="sxs-lookup"><span data-stu-id="b566d-217">What should you do when you see Co-sell opportunities created in Partner Center that aren't synchronized to CRM even though there are no flow errors?</span></span>
+8. <span data-ttu-id="d0210-213">Iş akışı hatası olmasa dahi, Iş Ortağı Merkezi 'nde oluşturulmuş ortak satış fırsatlarını gördüğünüzde ne yapmalısınız?</span><span class="sxs-lookup"><span data-stu-id="d0210-213">What should you do when you see Co-sell opportunities created in Partner Center that aren't synchronized to CRM even though there are no flow errors?</span></span>
 
-<span data-ttu-id="b566d-218">Şunları yapın:</span><span class="sxs-lookup"><span data-stu-id="b566d-218">Do the following:</span></span>
+<span data-ttu-id="d0210-214">Şunları yapın:</span><span class="sxs-lookup"><span data-stu-id="d0210-214">Do the following:</span></span>
 
-- <span data-ttu-id="b566d-219">Iş Ortağı Merkezi 'nde yeni bir ortak satış sorunu oluşturduktan sonra, Dynamics 365 Flow Iş Ortağı Merkezi 'nin çağrılacağını (birden çok kez çağrılabilir) denetleyin.</span><span class="sxs-lookup"><span data-stu-id="b566d-219">After you have created a new co-sell deal in Partner Center, check if Partner Center to Dynamics 365 flow gets invoked (it might get invoked multiple times).</span></span>
+- <span data-ttu-id="d0210-215">Iş Ortağı Merkezi 'nde yeni bir ortak satış sorunu oluşturduktan sonra, Dynamics 365 Flow Iş Ortağı Merkezi 'nin çağrılacağını (birden çok kez çağrılabilir) denetleyin.</span><span class="sxs-lookup"><span data-stu-id="d0210-215">After you have created a new co-sell deal in Partner Center, check if Partner Center to Dynamics 365 flow gets invoked (it might get invoked multiple times).</span></span>
 
-- <span data-ttu-id="b566d-220">Akış çağrılırsa, tüm çağrılan Akışlar ' ı işaretleyin ve bu, CRM 'yi güncelleştiren akış çalıştırmasını belirler.</span><span class="sxs-lookup"><span data-stu-id="b566d-220">If the flow gets invoked, check all invoked flows, and identify the flow run which that would update the CRM.</span></span> <span data-ttu-id="b566d-221">Eylemleri izleyebilir ve CRM 'yi güncelleştirip güncelleştirmediğinizi veya bir sorunla karşılaştıysanız emin olabilirsiniz.</span><span class="sxs-lookup"><span data-stu-id="b566d-221">You can follow the actions and verify if it did update the CRM or encountered a problem.</span></span>
+- <span data-ttu-id="d0210-216">Akış çağrılırsa, tüm çağrılan Akışlar ' ı işaretleyin ve bu, CRM 'yi güncelleştiren akış çalıştırmasını belirler.</span><span class="sxs-lookup"><span data-stu-id="d0210-216">If the flow gets invoked, check all invoked flows, and identify the flow run which that would update the CRM.</span></span> <span data-ttu-id="d0210-217">Eylemleri izleyebilir ve CRM 'yi güncelleştirip güncelleştirmediğinizi veya bir sorunla karşılaştıysanız emin olabilirsiniz.</span><span class="sxs-lookup"><span data-stu-id="d0210-217">You can follow the actions and verify if it did update the CRM or encountered a problem.</span></span>
 
-- <span data-ttu-id="b566d-222">CRM KIMLIĞIYLE doldurulup doldurulmadığını görmek için Iş Ortağı Merkezi 'nde **yeni anlaşmayı** denetleyin.</span><span class="sxs-lookup"><span data-stu-id="b566d-222">Check **New deal** in Partner Center to see if it gets populated with CRM ID.</span></span>
+- <span data-ttu-id="d0210-218">CRM KIMLIĞIYLE doldurulup doldurulmadığını görmek için Iş Ortağı Merkezi 'nde **yeni anlaşmayı** denetleyin.</span><span class="sxs-lookup"><span data-stu-id="d0210-218">Check **New deal** in Partner Center to see if it gets populated with CRM ID.</span></span>
 
-- <span data-ttu-id="b566d-223">Iş Ortağı Merkezi 'nde, anlaşmayı **kazanıldı** veya **kaybedildi** olarak kapanmadığından emin olun.</span><span class="sxs-lookup"><span data-stu-id="b566d-223">Make sure that the deal is not accidentally closed as **Won** or **Lost** in Partner Center.</span></span>
+- <span data-ttu-id="d0210-219">Iş Ortağı Merkezi 'nde, anlaşmayı **kazanıldı** veya **kaybedildi** olarak kapanmadığından emin olun.</span><span class="sxs-lookup"><span data-stu-id="d0210-219">Make sure that the deal is not accidentally closed as **Won** or **Lost** in Partner Center.</span></span>
 
-## <a name="next-steps"></a><span data-ttu-id="b566d-224">Sonraki adımlar</span><span class="sxs-lookup"><span data-stu-id="b566d-224">Next steps</span></span>
+## <a name="next-steps"></a><span data-ttu-id="d0210-220">Sonraki adımlar</span><span class="sxs-lookup"><span data-stu-id="d0210-220">Next steps</span></span>
 
-- [<span data-ttu-id="b566d-225">Müşteri adaylarını yönetme</span><span class="sxs-lookup"><span data-stu-id="b566d-225">Manage leads</span></span>](manage-leads.md)
+- [<span data-ttu-id="d0210-221">Müşteri adaylarını yönetme</span><span class="sxs-lookup"><span data-stu-id="d0210-221">Manage leads</span></span>](manage-leads.md)
  
-- [<span data-ttu-id="b566d-226">Ortak satış fırsatlarını yönetme</span><span class="sxs-lookup"><span data-stu-id="b566d-226">Manage co-sell opportunities</span></span>](manage-co-sell-opportunities.md)
+- [<span data-ttu-id="d0210-222">Ortak satış fırsatlarını yönetme</span><span class="sxs-lookup"><span data-stu-id="d0210-222">Manage co-sell opportunities</span></span>](manage-co-sell-opportunities.md)
