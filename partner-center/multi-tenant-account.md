@@ -9,20 +9,17 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2f3094489f65b7164b4a55804047f9a4ab5f11cb
-ms.sourcegitcommit: 79d2f00c352db61252e523f45abf93fe2a2742a5
+ms.openlocfilehash: caea2002b5edc2958c0af316762408e309bcf14a
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/04/2021
-ms.locfileid: "102124814"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151211"
 ---
 # <a name="add-and-manage-multiple-tenants-in-your-partner-center-account"></a>Iş Ortağı Merkezi hesabınızda birden çok kiracı ekleme ve yönetme
 
 
-**Uygun roller**
-
-- Genel yönetici
-- Hesap yöneticisi
+**Uygun roller**: genel yönetici | Hesap Yöneticisi
 
 Bu makalede, şirketiniz için birden çok Azure Active Directory (Azure AD) kiracılarının nasıl birleştirilmesi ve ardından bunları Iş Ortağı Merkezi hesabınıza eklemek ve yönetmek açıklanır. Bunu yapmanız pek çok neden vardır. Örnek:
 
@@ -46,32 +43,32 @@ Bu makalede, şirketiniz için birden çok Azure Active Directory (Azure AD) kir
 
 1. **İlişkilendir**' i seçin ve ardından ilişkilendirmek istediğiniz kiracıyı belirtin.
 
-1. Sorulduğunda, ilişkilendirmek istediğiniz kiracıya genel yönetici olarak oturum açın ve ardından **Onayla**' yı seçin. 
+1. İstendiğinde, ilişkilendirmek istediğiniz kiracıda genel yönetici olarak oturum açın ve Onayla'ya **seçin.** 
 
-   :::image type="content" source="images/merge-accounts/multitenantNew2.png" alt-text="Yeni Azure AD ilişkilendirmesini Onayla bölmesindeki Onayla düğmesinin ekran görüntüsü."::: 
+   :::image type="content" source="images/merge-accounts/multitenantNew2.png" alt-text="Yeni Azure AD ilişkilendirmesi onaylayın bölmesindeki Onayla düğmesinin ekran görüntüsü."::: 
 
-   İlişkilendirmeyi onayladıktan sonra, **tüm küme** iletileri görüntülenir. Yeni eklenen kiracıyı görüntülemek için **kiracı yönetimine dön**' ü seçin. 
+   İlişkiyi onaylandıktan sonra Tüm **ayarlamalar iletisi** görüntülenir. Yeni eklenen kiracıyı görüntülemek için Kiracı yönetimine **geri dön seçeneğini seçin.** 
  
 >[!NOTE]
->Zaten başka bir Iş Ortağı Merkezi hesabıyla ilişkili ise, bir kiracıyı bir hesap ile ilişkilendiremezsiniz.
+>Zaten başka bir kiracı hesabıyla ilişkilendirilmişse kiracıyı bir hesapla İş Ortağı Merkezi.
 
 
-## <a name="remove-a-tenant-from-your-account"></a>Bir kiracıyı hesabınızdan kaldırın
+## <a name="remove-a-tenant-from-your-account"></a>Bir kiracıyı hesabınızdan kaldırma
  
-1. [Microsoft Iş Ortağı Merkezi](https://partner.microsoft.com/dashboard)'nde genel yönetici olarak oturum açın.
+1. Microsoft'ta genel yönetici olarak [oturum İş Ortağı Merkezi.](https://partner.microsoft.com/dashboard)
 
-1. Sağ üst köşedeki **Ayarlar** simgesini seçin ve ardından **Hesap ayarları**' nı seçin.
+1. Sağ üst kısımda Ayarlar simgesini **ve** ardından Hesap **ayarları'ı seçin.**
 
-1. Sol bölmede **kiracılar**' ı seçin. **Azure AD kiracılarını Yönet** altında **iş ortağı** sekmesini seçin.
+1. Sol bölmede **Kiracılar'ı seçin.** **Azure AD kiracılarını yönet altında** İş ortağı **sekmesini** seçin.
  
-1. İlişkilendirmesini kaldırmak istediğiniz kiracının yanındaki **Kaldır** ' ı seçin.
+1. **İlişkilerini** kaldırmak istediğiniz kiracının yanındaki Kaldır'ı seçin.
 
-   :::image type="content" source="images/disassociate.png" alt-text="Geçerli kiracı ilişkilerinin ve bunların kaldırma bağlantılarının ekran görüntüsü.":::
+   :::image type="content" source="images/disassociate.png" alt-text="Geçerli kiracı ilişkilendirmelerinin ve bunların Kaldır bağlantılarının ekran görüntüsü.":::
 
-   Önceki ekran görüntüsünde gösterildiği gibi, tüm ilişkili kiracılar için **kaldırma** bağlantıları etkinleştirilir, birincil kiracı ve şu anda oturum açtığınız kiracı hariç. 
+   Önceki ekran görüntüsünde gösterildiği  gibi, Birincil kiracı ve o anda oturum asanız kiracı dışında tüm ilişkili kiracılar için Kaldır bağlantıları etkinleştirilir. 
 
    > [!NOTE]   
-   > Bir kiracıyı kaldırdığınızda, bu Kiracıdaki kullanıcıların artık Iş Ortağı Merkezi hesabına erişimi olmaz ve kaldırma, uzmanlarınızın bir etkisi olabilir. 
+   > Bir kiracıyı kaldırsanız, kiracı üzerindeki kullanıcılar artık İş Ortağı Merkezi hesabı erişimine sahip olmaz ve kaldırmanın yetkinliklerinizi etkilemesi olabilir. 
 
 ## <a name="next-steps"></a>Sonraki adımlar
 

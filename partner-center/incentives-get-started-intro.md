@@ -1,6 +1,6 @@
 ---
-title: Başlarken-teşvikleri
-description: Teşvikleri kullanmaya başlamanızı sağlamak için kaynakları bulun. Adımlar, uygunluk gereksinimlerini karşıladığını ve banka, vergi ve ödeme ayrıntılarını göndermenizi içerir.
+title: Başlarken - teşvikler
+description: Teşviklerle çalışmaya başlamanız için kaynakları bulun. Adımlar uygunluk gereksinimlerini karşılar ve banka, vergi ve ödeme ayrıntılarını gönderme adımlarını içerir.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 ms.topic: conceptual
@@ -8,43 +8,40 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 08/10/2020
-ms.openlocfilehash: 1b595afdba9ab9192c859c00fc35757ea2e24244
-ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
+ms.openlocfilehash: 53ae5c3cf47ab74ad7dc61777ce512b37f4269fa
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "106179141"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152044"
 ---
-# <a name="use-these-resources-to-help-you-get-started-with-incentives"></a>Teşvikleri kullanmaya başlamanıza yardımcı olması için bu kaynakları kullanın
+# <a name="use-these-resources-to-help-you-get-started-with-incentives"></a>Teşvikleri kullanmaya başlamanıza yardımcı olmak için bu kaynakları kullanın
 
-**Uygun roller**
+**Uygun roller:** Teşvik yöneticisi | Teşvikler kullanıcısı
 
-- Teşvikleri Yöneticisi
-- Teşvikleri kullanıcısı
+Bu makalede, Microsoft teşvik programlarına hızlı bir giriş ve başlamanıza yardımcı olacak bazı teşvik kaynakları açıklanmıştır.
 
-Bu makalede, Microsoft teşvikleri programlarına hızlı bir giriş sunulmaktadır ve başlamanıza yardımcı olacak bazı teşvikleri kaynakları açıklanmaktadır.
+## <a name="about-the-incentives-program"></a>Teşvikler programı
 
-## <a name="about-the-incentives-program"></a>Teşvikleri programı hakkında
+Microsoft İş Ortağı Ağı (MPN) iş ortağı olarak, müşterilere hizmet sunmanız için sizi ödüllendiren çeşitli teşvik programlarına erişiminiz vardır. Bu programlar, işlerinizi genişletmenize de yardımcı olabilir.
 
-Microsoft İş Ortağı Ağı (MPN) içinde bir iş ortağı olarak, müşterilere hizmet sunma konusunda sizi yeniden karşılayan çeşitli teşvikleri programlarına erişebilirsiniz. Bu programlar, işinizi genişletmenizi de size yardımcı olabilir.
-
-Teşvikleri ' yi yeni çalıştırıyorsanız ve kullanılabilir teşvikleri programları hakkında daha fazla bilgi edinmek istiyorsanız, [Microsoft yatırımlar ve teşvikleri](https://partner.microsoft.com/membership/partner-incentives)' de oturum açın.
+Teşviklere yeni başladıysanız ve kullanılabilir teşvik programları hakkında daha fazla bilgi edinmek için Microsoft yatırımları [ve teşvikleri'ne oturum açma.](https://partner.microsoft.com/membership/partner-incentives)
 
 > [!NOTE]
-> Henüz bir iş ortağınız yoksa [Microsoft iş ortağı ağı katılmayı göz önünde bulundurun](https://partner.microsoft.com/membership). Bu şekilde, Microsoft İş Ortağı Ağı iş ortakları için sunulan diğer avantajlardan ve teşvikleri avantajlarından faydalanabilirsiniz.  
+> Henüz bir iş ortağı [değilken,](https://partner.microsoft.com/membership)Microsoft İş Ortağı Ağı. Bu şekilde, teşviklerden ve diğer avantajlardan faydalanarak iş ortaklarının Microsoft İş Ortağı Ağı.  
 
-## <a name="incentives-resources-to-help-you-get-started"></a>Başlamanıza yardımcı olacak kaynakları teşvikleri
+## <a name="incentives-resources-to-help-you-get-started"></a>Başlamanıza yardımcı olacak teşvik kaynakları
 
-Bir teşvikleri programında çalışmanız için ödeme yapmadan önce, Microsoft 'a programınız, kazanç uygunluğunuzu, banka ve vergi profilleriniz ve daha fazlası hakkında özel ayrıntılar vermeniz gerekir. Aşağıdaki kaynaklar yardımcı olabilir.
+Bir teşvik programındaki çalışmalarınız için ödeme yapmak için önce Programınız, kazanç uygunluğu, bankanız ve vergi profilleriniz ve daha fazlası hakkında Microsoft'a belirli ayrıntıları verebilirsiniz. Aşağıdaki kaynaklar yardımcı olabilir.
 
 |  **Bunu yapmak için**  |  **Bunu okuyun**  |
 |--------------|-----------|
-| Teşvikleri programına kaydolma hakkında bilgi edinin | [Teşvikleri programına kaydolma](incentives-enroll.md)  |
-| Teşvikleri çalışmanızın belirli bir teşvikleri programı için uygunluk gereksinimlerini karşılayıp karşılamadığını öğrenin | [Programa uygun olup olmadığınızı belirleme](incentives-determined-your-program-eligibility.md)  |
-| Teşvikleri ödelerinizi alabilmesi için Microsoft 'un gerektirdiği verileri bulun ve sağlayın | [Iş Ortağı Merkezi 'nde ödeme ve vergi profilleri oluşturma ve yönetme](incentives-create-and-manage-your-payout-and-tax-profiles.md)  |
-| Teşvikleri kazançlarını almaya uygun olması için ihtiyacınız olan tüm ayrıntıları sağladığınızı onaylayın | [Kazanç uygunluk durumunuzu onaylayın](incentives-confirm-your-earnings-eligibility.md)  |
-| Teşvikleri programınızın tüm verilerini ve raporlarını görüntüleyin | [Teşvik programlarınızı ve ödemeleri görüntüleyin](understand-incentive-payouts.md)  |
-| Programa özgü, teşvikleri ödemeler sayfanıza erişin | [Ödeme deyiminize erişin](payout-statement.md)  |
+| Teşvik programına kaydolma hakkında bilgi | [Teşvik programına kaydolma](incentives-enroll.md)  |
+| Teşvik çalışmalarınız belirli bir teşvik programı için uygunluk gereksinimlerini karşılar mı? | [Programa uygun olup olmadığınızı belirleme](incentives-determined-your-program-eligibility.md)  |
+| Teşvik ödemelerinizi alamadan önce Microsoft'un gerektirdiği verileri bulun ve sağlayın | [İş Ortağı Merkezi'de ödeme ve vergi profilleri oluşturma ve yönetme](incentives-create-and-manage-your-payout-and-tax-profiles.md)  |
+| Teşvik kazançları almaya uygun olmak için ihtiyacınız olan tüm ayrıntıları sağladığınızı onaylayın | [Kazanç uygunluk durumunuzu onaylayın](incentives-confirm-your-earnings-eligibility.md)  |
+| Teşvik programınız için tüm verileri ve raporları görme | [Teşvik programlarınızı ve ödemelerinizi görüntüleme](understand-incentive-payouts.md)  |
+| Programa özgü teşvikler ödeme sayfasına erişme | [Ödeme deyiminize erişme](payout-statement.md)  |
 
 ## <a name="next-steps"></a>Sonraki adımlar
 

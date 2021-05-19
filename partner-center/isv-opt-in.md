@@ -1,51 +1,46 @@
 ---
-title: ISV 'lerden gelen Market özel teklifleri
+title: ISV'lerden markete özel teklifler
 ms.topic: article
 ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Bağımsız yazılım satıcılarının (ISV 'Ler) belirli teklifleri özel ve yalnızca belirli CSP iş ortakları için kullanılabilir hale getirme hakkında bilgi edinin.
+description: Bağımsız Yazılım Satıcıları'nın (ISV'ler) belirli teklifleri özel ve yalnızca belirli CSP iş ortakları tarafından kullanılabilir hale nasıl sunduğu hakkında bilgi edinebilirsiniz.
 author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 53a166ec3cd380c8f9afd39c9b274f7022202500
-ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
+ms.openlocfilehash: 35a4e08ade5c5dcfb796535ed117e3bf1f33cabd
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "106179471"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151806"
 ---
 # <a name="marketplace-exclusive-offers-from-independent-software-vendors"></a>Bağımsız Yazılım Satıcılarından markete özel teklifler
 
-**Uygun roller**
+**Uygun roller:** Genel yönetici | Kullanıcı yönetimi yönetici | Yönetici aracısı | Satış aracısı
 
-- Genel yönetici
-- Kullanıcı Yönetimi Yöneticisi
-- Yönetim Aracısı
-- Satış Aracısı
+Bağımsız Yazılım Satıcısı (ISV), yalnızca belirli CSP iş ortakları tarafından kullanılabilen özel teklifler olabilir.
 
-Bağımsız bir yazılım satıcısı (ISV), yalnızca belirli CSP iş ortakları tarafından kullanılabilen özel teklifleri yapabilir.
+CSP iş ortakları, ticari markette tüm ISV İş Ortağı Merkezi görüntülemeyi tercih ediyor. Özel olarak **işaretlenen** teklifler, ancak yalnızca ISV tarafından seçilen belirli iş ortakları tarafından satın alınabilir. Bir teklif Özel olarak **işaretlanmazsa,** tüm iş ortakları teklifi satın alınabilir.
 
-CSP iş ortakları, Iş ortağı merkezi ticari Market 'teki tüm ISV tekliflerini görüntüleyebilir. Ancak **özel** olarak işaretlenmiş teklifler, yalnızca ISV tarafından seçilen belirli iş ortakları tarafından satın alınabilir. Bir teklif **özel** olarak işaretlenmediğinde, tüm iş ortakları bunu satın alabilir.
+BIR ISV tarafından tanımlanan belirli CSP iş ortakları şunları olabilir:
 
-Bir ISV tarafından tanımlanan belirli CSP iş ortakları şunları yapabilir:
+- Ticari market aracılığıyla bu ISV'den özel İş Ortağı Merkezi satın alma
+- Fiyat listesini dışarı aktarma
 
-- Iş ortağı merkezi ticari Marketi aracılığıyla bu ISV 'den özel teklifler satın alın
-- Fiyat listesini dışarı aktar
+## <a name="how-do-you-gain-access-to-exclusive-offers"></a>Özel tekliflere nasıl erişin?
 
-## <a name="how-do-you-gain-access-to-exclusive-offers"></a>Özel tekliflere nasıl erişim elde edersiniz?
-
-Bir ISV Market 'te bir teklif yayımladığında, kimin kimlerin satın aldıklarını belirten bir fırsata sahip olurlar.
+ISV, Market'te bir teklif yayımlarsa, teklifi kimlerin satın alacalarını belirtmek için fırsata sahip olur.
 
 Seçenekleri şunlardır:
 
-- Tüm CSP iş ortakları satın alabilir
-- Hangi iş ortaklarının satın kullanabileceğini belirleme
-- CSP iş ortakları için kullanılamaz
+- Tüm CSP iş ortakları satın alınabilir
+- Hangi iş ortaklarının satın alınalarını belirleme
+- CSP iş ortakları tarafından kullanılamaz
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-- Ticari Market 'teki ISV deneyimi hakkında daha fazla bilgi edinmek için, [bulut çözümü sağlayıcılarını](/azure/marketplace/cloud-solution-providers)okuyun.
+- Ticari markette ISV deneyimi hakkında daha fazla bilgi edinmek için Bulut Çözümü Sağlayıcıları [makalelerini okuyun.](/azure/marketplace/cloud-solution-providers)
 
-- Ticari Market hakkında daha fazla bilgi için, [bulut çözümü sağlayıcıları Için ticari Market 'e genel bakış](csp-commercial-marketplace-overview.md)makalesini okuyun.
+- Ticari market hakkında daha fazla bilgi için Bkz. Bulut [Çözümü Sağlayıcıları için ticari markete genel bakış.](csp-commercial-marketplace-overview.md)

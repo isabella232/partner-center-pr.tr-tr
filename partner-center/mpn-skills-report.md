@@ -9,19 +9,16 @@ author: keramp88
 ms.author: keramp
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 76b540364b1a47de66d0343f0646ab035b8de97c
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: f8da6e1d1ff80776c71b3f3795ff19fbbab6f112
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106132443"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151347"
 ---
 # <a name="using-the-skills-report"></a>Yetenekler raporunu kullanma
 
-**Uygun roller**
-
-- MPN iş ortağı Yöneticisi
-- Genel yönetici
+**Uygun roller**: MPN iş ortağı Yöneticisi | Genel yönetici
 
 Yetenekler raporu, Microsoft İş Ortağı Ağı iş ortaklarının iş ortağı şirketindeki kullanıcılar tarafından tamamlanan becerileri değerlendirmesine olanak tanır. Rapordaki yetenekler, iş ortağının teknik kullanıcıları tarafından alınan değerlendirmeleri, sertifikaları veya sınavları içerebilir. 
 
@@ -32,26 +29,26 @@ Yetenekler raporu, Microsoft İş Ortağı Ağı iş ortaklarının iş ortağı
 - Kullanıcılarınızın bir veya daha fazla temel uzmanlığın bir veya daha fazla açıklaması için Kullanıcı becerilerinin ilerlemesini görmek üzere yetenekler raporunu düzenli olarak denetleyin. Bir Kullanıcı şirketinizden ayrıldığında ilgili becerileri kaybedebilirsiniz. Benzer şekilde, yeni bir Kullanıcı birleşdiğinde bazı becerileri elde edebilirsiniz.
 
 - İş ortağı şirketinizin belirli bir uzmanlığa yönelik yetenek gereksinimlerini karşıladığından emin olmak için gelecekteki yetenekler eğitimi planlayın. Bunun yapılması, iş ortağı şirketinizin yeni bir gümüş veya altın uzmanlık kazanmasını veya mevcut gümüş ya da altın uzmanlığın korunmasını sağlar. Mevcut gümüş veya altın uzmanlık açısından Yöneticiler, beceri ve yenilemenin risk altında olup olmadığını belirlemek için yetenekler raporunun yıl dönümü tarihinden en az üç ay önce denetlemelidir. Bu gelişmiş uyarı, kullanıcılarınıza yeni yetenekler elde etmenizi sağlar.
-- Şirketinizdeki tüm teknik kullanıcıların yetenekler raporunda göründüğünü ve bu kişilerin Iş Ortağı Merkezi kullanıcı hesabıyla bilgi edinme hesaplarını daha önce ilişkilendirdiğini doğrulayın. Bu makalenin sonraki bölümlerinde bunun nasıl yapılacağı açıklanır.
+- Şirketinizdeki tüm teknik kullanıcıların yetenekler raporunda göründüğünü ve bu kişilerin Iş Ortağı Merkezi kullanıcı hesabıyla bilgi edinme hesaplarını daha önce ilişkilendirdiğini doğrulayın. Bu makalenin sonraki bölümlerinde bunun nasıl olduğu açıklanmaktadır.
 
-- Yetenekler raporunda en son yetenek bilgilerinin doğruluğunu onaylamak için kullanıcılarla çalışın. Gerekirse, kullanıcıların sorunları gidermelerine yardımcı olun.
+- Beceriler raporuyla ilgili en son becerilerin doğruluğunu onaylamak için kullanıcılarla birlikte çalışabilirsiniz. Gerekirse, kullanıcıların sorunları gidermesine yardımcı olur.
 
-## <a name="skill-report-prerequisites"></a>Yetenek raporu önkoşulları
+## <a name="skill-report-prerequisites"></a>Beceri raporu önkoşulları
 
-Beceri raporunu görüntüleyebilmeniz ve şirketinizin yeteneklerini bir uzmanlığa karşı uygulamaya başlamadan önce, aşağıdaki önkoşulları karşılamanız gerekir:
+Beceri raporunu görüntüleymeden ve bir yetkinliğe ulaşmak için şirketinizin becerilerini uygulamaya başlamadan önce aşağıdaki önkoşulları karşılamanız gerekir:
 
-- Microsoft İş Ortağı Ağı kayıtlı olduğunuzdan emin olun.
+- Kayıt için kayıt Microsoft İş Ortağı Ağı.
  
-   İş ortaklarının, bir uzmanlığa ulaşmak veya kullanıcıları için yetenekler raporuna erişebilmeleri için Microsoft İş Ortağı Ağı kayıtlı olması gerekir. Şirketiniz zaten Microsoft İş Ortağı Ağı bir üyesi değilse, [Üyelik sayfasına](https://partner.microsoft.com/membership) gidin ve **Şimdi Birleştir**' i seçin.
-- Iş Ortağı Merkezi 'nde uygun role sahip olduğunuzdan emin olun.
-   Yalnızca MPN iş ortağı yöneticisinin veya küresel yöneticinin Iş Ortağı Merkezi rolüne atanan iş ortağı şirketindeki kullanıcılar, beceriler raporunu Iş Ortağı Merkezi [panosundan](https://partner.microsoft.com/dashboard)görüntüleyebilir. Iş Ortağı Merkezi 'nde kullanılabilir [Kullanıcı rolleri](permissions-overview or assign.md) hakkında daha fazla bilgi edinin. Ya da bir kullanıcıya belirli bir rol atamak için [bir kullanıcı hesabı oluşturmayı veya yönetmeyi](create-user-accounts-and-set-permissions.md) okuyun.
-- Şirketinizin kullanıcılarının Iş Ortağı Merkezi 'nde de kendi Kullanıcı hesabına sahip olduğundan emin olun. 
-   Kullanıcı hesabının iş ortağı şirketinizle ilişkilendirilmesi gerekir. Bkz. [Kullanıcı hesabı oluşturma veya yönetme](create-user-accounts-and-set-permissions.md).
-- Şirketinizin kullanıcılarının yeteneklerini veya sertifikalarını Iş Ortağı Merkezi kullanıcı hesabıyla ilişkilendirdiğinizden emin olun. 
-   Yeteneklerin veya sertifikalarının Iş Ortağı Merkezi becerileri raporunda görünebilmesi için kullanıcıların [Microsoft Learning hesabı 'nı (MCP kimliği) Iş ortağı merkezi ve Iş ortağı University 'e ilişkilendirdiklerinden](ms-learn-associate.md)emin olmaları gerekir. Kullanıcı bu adımları uyguladıktan sonra, becerileri beceriler raporunda görüntülenmeden önce 24 ila 72 saat sürebilir. Bu adım kümesi, şirketinizde son zamanlarda katılmış olan yeni kullanıcılar tarafından da tamamlanmalıdır.
+   İş ortaklarının bir yetkinliğe Microsoft İş Ortağı Ağı veya kullanıcılarına yönelik beceriler raporuna erişmeleri için önce iş ortaklarına kaydolmaları gerekir. Şirket zaten şirket grubunun bir üyesi Microsoft İş Ortağı Ağı üyelik sayfasına gidin ve [Şimdi katıl'ı](https://partner.microsoft.com/membership) **seçin.**
+- Bu rolde uygun role sahip İş Ortağı Merkezi.
+   Yalnızca MPN iş ortağı yöneticisi veya genel yöneticisinin İş Ortağı Merkezi atanan iş ortağı şirketi kullanıcıları, İş Ortağı Merkezi panosundan beceri raporunu [görüntüleyebilirsiniz.](https://partner.microsoft.com/dashboard) İş Ortağı Merkezi'da [kullanılabilir kullanıcı rolleri](permissions-overview or assign.md) hakkında daha fazla bilgi İş Ortağı Merkezi. Veya bir kullanıcıya [belirli bir rol atamak için kullanıcı](create-user-accounts-and-set-permissions.md) hesabı oluşturma veya yönetme makalelerini okuyun.
+- Şirket kullanıcılarının da şirket içinde kendi kullanıcı hesaplarının olduğundan emin İş Ortağı Merkezi. 
+   Kullanıcı hesabı, iş ortağı şirketle ilişkilendirilmiş olması gerekir. Bkz. kullanıcı [hesabı oluşturma veya yönetme.](create-user-accounts-and-set-permissions.md)
+- Şirket kullanıcılarının becerilerini veya sertifikalarını kendi kullanıcı hesaplarıyla İş Ortağı Merkezi olun. 
+   Becerileri veya sertifikaları İş Ortağı Merkezi yetenek raporunda görünemeden önce, kullanıcıların Microsoft Learning hesaplarını [(MCP KIMLIĞI)](ms-learn-associate.md)İş Ortağı Merkezi ve Partner University ile İş Ortağı Merkezi emin olması gerekir. Kullanıcı bu adımları takip ettikten sonra becerilerinin beceriler raporunda görünmesi 24 ile 72 saat arasında sürebilir. Bu adım kümesi, yakın zamanda şirketinize katılmış olan tüm yeni kullanıcılar tarafından da tamamlandırılacaktır.
 
    > [!NOTE]
-   > Kullanıcılar, sınavlar veya kurslar alırken MsCert, Microsoft Learn veya partner University portalında kullandıkları aynı e-posta adresini kullanmalıdır. Bir Kullanıcı, Iş Ortağı Merkezi Kullanıcı hesabında bunlarla ilişkili e-posta adresinden farklı bir e-posta adresi kullanmışsa, MPN hesap yöneticisi veya genel yönetici ile çalışması gerekebilir.
+   > Kullanıcılar, sınav veya kurslar için MsCert, Microsoft Learn veya Partner University portalında kullanılan e-posta adresini kullanacaktır. Bir Kullanıcı, Iş Ortağı Merkezi Kullanıcı hesabında bunlarla ilişkili e-posta adresinden farklı bir e-posta adresi kullanmışsa, MPN hesap yöneticisi veya genel yönetici ile çalışması gerekebilir.
 
 ## <a name="view-skills-report-data"></a>Yetenek raporu verilerini görüntüle
 
@@ -68,33 +65,33 @@ Iş Ortağı Merkezi 'nden beceriler raporu verilerini görüntülemek için aş
       :::image type="content" source="images/competencies/mpn-skills-report-3.png" alt-text="İş Ortağı Merkezi, Kullanıcı becerilerinin durumunu gösteren birden çok sütunlu örnek veri tablosu." border="true":::
 
 > [!Note]
-> Bir Kullanıcı ilk kez "Microsoft sınavlarını ve sertifikalarını" ya da "Microsoft eğitimini & değerlendirmeleri" ne zaman ilişkilendirir veya yeni becerileri tamamlar; yeteneklerin yetenekler raporunda görüntülenmesi 72 saate kadar sürebilir. Yetenekler raporunda yalnızca Uzmanlıklar ve Iş Ortağı Merkezi programları ile ilgili yetenekler görüntülenecektir. Kullanımdan kaldırılan yetenekler, devre dışı bırakıldıktan sonra 12 ay veya daha fazlası için raporda de görünebilir. Bir sınav, değerlendirme veya sertifika [belirli bir uzmanlığa ait gereksinimlerin](https://partner.microsoft.com/membership/competencies)bir parçası *olarak bahsedilmediği* sürece, bu uzmanlığa yaklaşmayı kabul *etmez*. 
+> Bir Kullanıcı ilk kez "Microsoft sınavlarını ve sertifikalarını" ya da "Microsoft eğitimini & değerlendirmeleri" ne zaman ilişkilendirir veya yeni becerileri tamamlar; yeteneklerin yetenekler raporunda görüntülenmesi 72 saate kadar sürebilir. Beceri raporunda yalnızca İş Ortağı Merkezi ve programlarla ilgili beceriler gösterilir. Ayrıca, 12 ay veya daha uzun bir süre boyunca, bunlar kaldırıldıktan sonra, bu beceriler raporda da görünebilir. Bir sınav, değerlendirme veya sertifikasyon, belirli bir uzmanlığın gereksinimlerinin birparçası olarak özellikle bahsediliyorsa, [](https://partner.microsoft.com/membership/competencies)bu yetkinliğe uygun olarak dikkate alınmaz. 
 
-## <a name="skills-report-and-pmc-users"></a>Yetenekler raporu ve PMC kullanıcıları
+## <a name="skills-report-and-pmc-users"></a>Beceri raporu ve PMC kullanıcıları
 
-İş ortağı şirketiniz, bu üyeliği PMC 'den Iş Ortağı Merkezi 'ne taşımışsa, PMC tabanlı becerilerinizi uzmanlık açısından kabul edileceği altı aya sahip olursunuz. Uzmanlığın risk altında olmasını engellemek için, beceriler raporunu indirin ve verileri belirten kullanıcıları belirleyip önceliklendirdiğinizden emin olun: 
+İş ortağınız PMC'den İş Ortağı Merkezi'a geçti ise, PMC tabanlı becerilerinizin yetkinlik elde etmek için dikkate alınarak altı aylık bir süreniz vardır. Yetkinliğinizin risk altında olma riskini önlemek için beceri raporunu indirin ve verileri şunları gösteren kullanıcıları tanımdan ve önceliklendirmeden emin olun: 
 
-- **ILIŞKILI PMC** sütununda "Evet"
+- **PMC'de İlişkili sütununda "Evet"**
 
-- **ILIŞKILI PC** sütununda "Hayır"
+- PC'de İlişkili **sütununda "Hayır"**
  
-- **Uzmanlıklar Için ilgili (seçenek) veya programlar** sütununda gösterilen geçerli yetenekler
+- Yetkinliklerle İlgili **(Seçenek) veya** Programlar sütununda gösterilen geçerli beceriler
 
-Yukarıdaki ölçütlere uyan kullanıcılarınız varsa, BT 'nin [Iş Ortağı Merkezi 'nde](ms-learn-associate.md) mümkün olan en kısa sürede ilişkilendirilmesine sorun.
+Yukarıdaki ölçütlere uyan kullanıcılarınız varsa, en kısa zamanda bu kullanıcılardan İş Ortağı Merkezi [ile](ms-learn-associate.md) ilişkilendirmelerini sorun.
 
-## <a name="troubleshoot-issues-with-the-skills-report"></a>Yetenekler raporuyla ilgili sorunları giderme
+## <a name="troubleshoot-issues-with-the-skills-report"></a>Beceri raporuyla ilgili sorunları giderme
 
-Bu bölümde, sizin veya kullanıcılarınızın yetenekler raporuyla karşılaşabilecek ve bunların nasıl ele alınacağını gösteren olası sorunlar ele alınmaktadır.
+Bu bölümde, sizin veya kullanıcılarının beceri raporuyla karşılaşabilirsiniz olası sorunları ve bunları nasıl ele alalarız.
 
-### <a name="why-cant-i-see-any-skills-for-a-specific-user"></a>Belirli bir kullanıcı için neden bir yetenek göremiyorum?
+### <a name="why-cant-i-see-any-skills-for-a-specific-user"></a>Belirli bir kullanıcı için neden herhangi bir beceri göremiyorum?
 
-Yetenekler rapor verileri Kullanıcı için bir yetenek gösteriyorsa, Kullanıcı:
+Beceri raporu verileri bir kullanıcıya hiçbir beceri kazandırmazsa kullanıcı:
 
-- Henüz ilgili becerileri kazanmayabilir
+- Henüz ilgili becerileri kazanmış olabilir
 
-- , Yeteneklerini Iş Ortağı Merkezi Kullanıcı **hesabıyla ilişkilendirilmemiş başka** BIR mcıd 'ye birleştirmiş olabilir
+- Becerilerini kendi kullanıcı hesabıyla ilişkilendirilen başka **bir** MCID ile İş Ortağı Merkezi olabilir
 
-Kullanıcının yinelenen hesapları varsa, gerekli yetenekler iki veya daha fazla hesaba ayrılabilir. Örneğin, bir MCıD 'ye bağlı olan MSA (yetenekler raporunun **mcıd sütununda** gösterildiği gibi) sahip olabilirsiniz, ancak aynı MSA ile aynı MSA sertifikası başka BIR mcıd 'ye başvurur. Bu durumda, TRANSCRIPT içindeki MCıD 'yi, beceriler raporunda zaten görüntülenmiş olan MCıD ile birleştirmeniz gerekir. Bunu yapmak için, belirlenen [Microsoft sertifika eğitimi destek ekibine](https://trainingsupport.microsoft.com/mcp/forum)başvurun. MCP birleştirme onaylandıktan sonra, MSA ' ı yeniden ilişkilendirmeniz gerekmez. Iş Ortağı Merkezi 'nde zaten ilişkilendirilmiş olacaktır. Bu işlemin, Iş Ortağı Merkezi 'nde gösterilmesi 24 saate kadar sürebilir.
+Kullanıcının yinelenen hesapları varsa, gerekli beceriler iki veya daha fazla hesaba ayrılabilirsiniz. Örneğin, MSA'yı bir MCID'ye bağlı (beceri raporunun MCID sütununda gösterildiği gibi) olabilir, ancak aynı MSA transkript sertifikası başka bir **MCID'ye** başvurur. Bu durumda transkriptten MCID'i beceri raporunda zaten görüntülenen MCID ile birleştirmeniz gerekir. Bunu yapmak için, belirlenen Microsoft Sertifika [Eğitim Desteği ekibine başvurun.](https://trainingsupport.microsoft.com/mcp/forum) MCP birleştirme onaylandıktan sonra, MSA ' ı yeniden ilişkilendirmeniz gerekmez. Iş Ortağı Merkezi 'nde zaten ilişkilendirilmiş olacaktır. Bu işlemin, Iş Ortağı Merkezi 'nde gösterilmesi 24 saate kadar sürebilir.
 
 ### <a name="why-do-i-see-an-error-message-when-i-try-to-download-the-skills-report"></a>Beceriler raporunu indirmeye çalıştığımda neden bir hata iletisi görüyorum?
 
@@ -113,21 +110,21 @@ Bir kullanıcı becerileri tamamlamışsa ancak yetenekler raporunda gösteriliy
 
 - 72 saat geçtikten sonra, Kullanıcı, yeteneklerini bir 72 saat sonra tamamladığından, yetenek verileri hala Kullanıcı kullanımını yansıtmazsa, MPN hesap yöneticisi veya MPN iş ortağı yöneticisinin [Microsoft Iş ortağı desteğiyle](https://partner.microsoft.com/support)iletişim kurabilmesi gerekir. Microsoft Iş ortağı desteği 'ne başvurmadan önce, aşağıdaki bilgileri toplayıp göndermek için hazırlıklı olun:
 
-- **İçe aktarılmış Kullanıcı raporunun** (veya raporun ekran görüntüsünde) bir kopyası. Bu rapora erişmek için Iş Ortağı Merkezi ' nde oturum açın, ardından **Kullanıcı yönetimi**' ni ve ardından Kullanıcı **raporunu dışarı aktar**' ı seçin. Rapor, Iş ortağı University 'e kimlerin erişebileceğini veya Microsoft Learning hesabını kimin ilişkilendirildiğini gösterir. Kullanıcılar ayrıca Iş Ortağı Merkezi panosunun sağ üst kısmından **profilimi** seçerek bu bilgilerin bir ekran görüntüsünü sağlayabilir.
+- **İçe aktarılmış Kullanıcı raporunun** (veya raporun ekran görüntüsünde) bir kopyası. Bu rapora erişmek için Iş Ortağı Merkezi ' nde oturum açın, ardından **Kullanıcı yönetimi**' ni ve ardından Kullanıcı **raporunu dışarı aktar**' ı seçin. Rapor, Iş ortağı University 'e kimlerin erişebileceğini veya Microsoft Learning hesabını kimin ilişkilendirildiğini gösterir. Kullanıcılar ayrıca panonun sağ üst kısmından Profilim'i seçerek bu bilgilerin ekran İş Ortağı Merkezi sağ üst kısmından. 
 
-- Bu makalenin önceki kısımlarında açıklandığı gibi en son yetenekler raporunun indirilen bir sürümü.
+- Bu makalenin başlarında açıklandığı gibi, en son beceriler raporunun indirilen bir sürümü.
 
-- Kullanıcının tamamlanan ilgili Microsoft sınavları, sertifikaları veya eğitim ve değerlendirmelere yönelik kanıt. Aşağıdaki kanıt örneklerine bakın.
+- Kullanıcının ilgili Microsoft sınavlarını, sertifikalarını veya eğitim ve değerlendirmelerini tamamlamış olduğunu kanıtlayan. Aşağıdaki kanıt örneklerine bakın.
 
    > [!NOTE]
-   > Şu anda Iş Ortağı Merkezi, Microsoft Learning ve partner University 'in yalnızca iki kaynaktan gelen sertifikayı tanır. Diğer kaynaklardan alınan diğer tüm sertifikalar (OpenedX gibi) göz önünde bulundurulmaz.
+   > Şu anda İş Ortağı Merkezi, Microsoft Learning Ve Partner University olmak Microsoft Learning sertifikasyonu tanıyor. Diğer kaynaklardan (OpenedX gibi) alınan diğer sertifikalar dikkate alınmaz.
 
-   **Kanıt örneği #1 – Microsoft sertifika resmi dökümü**
+   **Kanıt örneği #1 – Microsoft Sertifikası Resmi Transkript**
 
-   :::image type="content" source="images/competencies/mpn-skills-report-4.png" alt-text="Microsoft sertifika resmi dökümü örneği." border="true":::
+   :::image type="content" source="images/competencies/mpn-skills-report-4.png" alt-text="Microsoft Sertifika Resmi Transkripti örneği." border="true":::
 
-   **Kanıt örneği #2 – Microsoft çevrimiçi eğitim kursu tamamlama** :::image type="content" source="images/competencies/mpn-skills-report-5.png" alt-text="örnek sertifikası Microsoft Online eğitim kursu tamamlandı." border="true":::
+   **Kanıt örneği #2 – Microsoft Online Eğitim Kursu Tamamlama** Başlıklı Microsoft Online Eğitim Kursu Tamamlama Örneği :::image type="content" source="images/competencies/mpn-skills-report-5.png" alt-text="sertifikası." border="true":::
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-- [Microsoft Learn MCP KIMLIĞI 'ni Iş Ortağı Merkezi hesabına bağlama](ms-learn-analytics.md)
+- [Microsoft Learn MCP Kimliğini İş Ortağı Merkezi bağlama](ms-learn-analytics.md)

@@ -9,21 +9,16 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8a9662e0ce99fc054149dfbd4149532ce336eff6
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: f738ddace805838cdf202c23cca8535c11cbdf54
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106132630"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151568"
 ---
 # <a name="migrate-office-365-e4-subscriptions-to-newer-office-365-versions"></a>Office 365 E4 aboneliklerini yeni Office 365 sürümlerine geçirme
 
-**Uygun roller**
-
-- Genel yönetici
-- Kullanıcı Yönetimi Yöneticisi
-- Yönetim Aracısı
-- Satış Aracısı
+**Uygun roller**: genel yönetici | Kullanıcı Yönetimi Yöneticisi | Yönetici Aracısı | Satış Aracısı
 
 Office 365 Enterprise E4 planı kullanımdan kalkmışsa, 7 Nisan 2017 ' de geçerli değildir. Bu tarihten sonra yeni Office 365 E4 abonelikleri satın alınmaz ve var olan E4 abonelikleri süreleri dolduğunda otomatik olarak yenilenmeyecektir.
 
@@ -46,31 +41,31 @@ E4 ile aynı işlevselliği korumayı seçebilirsiniz veya müşterilerinizin Of
 
 - Seçenek 2: Office 365 Enterprise E3 + Skype Kurumsal Bulut PBX
 
-- Seçenek 3: Office 365 Enterprise E3 + Skype Kurumsal Plus CAL (E4 ile fiyat ve işlev eşliği)
+- 3. Seçenek: Office 365 Kurumsal E3 + Skype Kurumsal Plus CAL (E4 ile fiyat ve işlevsellik eşlik)
 
-- 4. seçenek: Office 365 Kurumsal E3
+- 4. Seçenek: Office 365 Kurumsal E3
 
 
-| Özellik | 1\. Seçenek | 2\. Seçenek | Seçenek 3 | 4 seçeneği |
+| Özellik | 1\. Seçenek | 2\. Seçenek | 3. Seçenek | 4. Seçenek |
 | :---    | :------: |   :---:  |   :---:  |   :---:  |
-| Office 365 Kurumsal E4 'ye dahil olan tüm özellikler mi alınır? | Yes | Yes | Yes | Hayır |
-| Office 365 ' de yönetilen telefon numaraları? | Yes | Yes | Hayır | Hayır |
-| Telefon numaraları hem şirket içinde hem de Office 365 ' de (karma dağıtım) yönetiliyor mu? | Yes | Yes | Hayır | Hayır |
-| PSTN sesli arama planı ekleme seçeneği | Yes | Yes | Hayır | Hayır |
-| PSTN Konferansı? | Yes | Hayır | Hayır | Hayır |
+| Office 365 Kurumsal E4'e dahil olan tüm özellikleri alıyor musunuz? | Yes | Yes | Yes | Hayır |
+| Office 365'te yönetilen telefon numaraları | Yes | Yes | Hayır | Hayır |
+| Hem şirket içinde hem de Office 365'te (karma dağıtım) yönetilen telefon numaraları? | Yes | Yes | Hayır | Hayır |
+| PSTN sesli arama planı ekleme seçeneği var mı? | Yes | Yes | Hayır | Hayır |
+| PSTN Konferans? | Yes | Hayır | Hayır | Hayır |
 | İşbirliği, analiz ve güvenlik için gelişmiş araçlar? | Yes | Hayır | Hayır | Hayır |
 | Etkileşimli raporlar, panolar ve veri görselleştirmeleri? | Yes | Hayır | Hayır | Hayır | 
-| Yerleşik gizlilik, saydamlık ve iyileştirilmiş Kullanıcı denetimleriyle veri güvenliği ve uyumluluk üzerinde daha fazla denetim var mı? | Yes | Hayır | Hayır | Hayır | 
+| Yerleşik gizlilik, saydamlık ve iyileştirilmiş kullanıcı denetimleriyle veri güvenliği ve uyumluluğu üzerinde daha fazla denetime sahip misiniz? | Yes | Hayır | Hayır | Hayır | 
 
-## <a name="transition-customers-to-new-product-plans"></a>Müşterilerin yeni ürün planlarına geçişini sağlar
+## <a name="transition-customers-to-new-product-plans"></a>Müşterileri yeni ürün planlarına geçiş
 
-Microsoft, iş ortaklarımız için sürekli olarak yeni ürün ve hizmetler sunar. Bu gibi durumlarda, müşterileri yeni hizmetlere yükseltmeniz veya sonunda kapatılacak SKU 'lardan aboneliklerini geçirmeniz gerekebilir. Müşterilerin Kullanımdan kaldırılmış SKU 'lardan daha yeni bir sürümüne geçirilmesi aşağıdaki adımları gerektirir:
+Microsoft, iş ortaklarımıza sürekli olarak yeni ürün ve hizmetler sunmaktadır. Bu durumlarda, müşterileri yeni hizmetlere yükseltmeniz veya aboneliklerini sonunda kapatılacak olan SKUS'lardan geçirmeniz gerekir. Müşterileri, eski SKÜ'lerden yeni SKUS'lara şu adımların atılması gerekir:
 
--   Yeni aboneliği satın alın
--   Geçerli kullanıcı lisanslarını yeniden ata
--   Eski aboneliği iptal et
+-   Yeni aboneliği satın alma
+-   Geçerli kullanıcı lisanslarını yeniden atama
+-   Eski aboneliği iptal etme
 
-Müşterinin Office 365 Kurumsal E4 aboneliğini Yukarıdaki tablodaki seçeneklerden birine geçirmek için aşağıdaki adımları izleyin.
+Müşterinin Office 365 Kurumsal E4 aboneliğini yukarıdaki tabloda yer alan seçeneklerden biri olarak geçirmek için bu adımları izleyin.
 
 ### <a name="step-1---purchase-the-new-subscription"></a>1. adım-yeni aboneliği satın alma
 

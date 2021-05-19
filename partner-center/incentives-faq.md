@@ -8,19 +8,16 @@ ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: 1c3cafa6b5ea280a924a0142da78483d54a18ab9
-ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
+ms.openlocfilehash: a917f3648447ac273fae839d32a4b4d3ce80ae35
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "106179505"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152027"
 ---
 # <a name="frequently-asked-questions-on-incentives"></a>Teşvikleri hakkında sık sorulan sorular
 
-**Uygun roller**
-
-- Teşvikleri Yöneticisi
-- Teşvikleri kullanıcısı
+**Uygun roller**: teşvikleri admin | Teşvikleri kullanıcısı
 
 ## <a name="do-i-need-to-be-the-global-admin-to-enroll-in-incentives"></a>Teşvikleri 'e kaydolmak için genel yönetici olmam gerekiyor mu?
 
@@ -38,43 +35,43 @@ MPNHQ konumuyla aynı ülkede değilseniz, bu senaryo hakkında daha fazla bilgi
 
 Iş Ortağı Merkezi 'nde şirketi kaydeden kişi, varsayılan olarak birincil Iletişim ve genel yönetici olur. Yönetici, portalda kullanıcıları davet edebilir ve yönetebilir.
 
-Teşvikleri için temel roller teşvikleri admin ve teşvikleri User. Teşvikleri Yöneticisi, bir iş ortağı için, ister program, hem de banka ve vergi ayrıntılarını yönetebilir. Teşvikleri Kullanıcı, bir yandan nelerin ödendiğini ve her ödemenin dökümünü, ancak banka ayrıntılarını görüntüleyemez veya düzenleyebileceklerini görmek için araç raporlarını görüntüleyebilir. Her iki rol de Iş ortağı küresel hesabının altındaki tüm konumlara uygulanabilir.
+Teşvikleri için temel roller teşvikleri admin ve teşvikleri User. Teşvikler yöneticisi teşvik programlarına kaydolarak iş ortağının banka ve vergi ayrıntılarını yönetebilir. Teşvikler kullanıcısı, neyin ödenmiş olduğunu ve her ödemenin dökümünü görmek için araçta raporları görüntüleyemez, ancak banka ayrıntılarını görüntüleyemez veya düzenleyemez. Her iki rol de İş ortağı genel hesabı altındaki tüm konumlara uygulanabilir.
 
-Daha fazla bilgi için bkz. [izinlere genel bakış](permissions-overview.md).
+Daha fazla bilgi için bkz. [İzinlere genel bakış.](permissions-overview.md)
 
-## <a name="how-can-i-find-out-who-has-global-or-account-admin-rights-for-my-company"></a>Şirketim için kimin genel veya hesap yöneticisi haklarına sahip olduğunu nasıl öğrenebilirim?
+## <a name="how-can-i-find-out-who-has-global-or-account-admin-rights-for-my-company"></a>Şirketim için kimlerin Genel veya Hesap yöneticisi haklarına sahip olduğunu nasıl bulamıyorum?
 
-Rol değişikliği yapan veya yeni bir kullanıcıya rol atayan bir genel yönetici veya hesap yöneticisi bulmak için:
+Rol değişiklikleri yapan veya yeni bir kullanıcıya rol atayan genel yöneticiyi veya Hesap yöneticisini bulmak için:
 
-1. Iş Ortağı Merkezi 'nin sağ üst köşesindeki hesap ayarları simgesinden **Kullanıcı yönetimi**' ni seçin.
-2. **Genel yönetici** veya **Hesap Yöneticisi** üzerinde filtreleme yapın.
-3. Ayrıca, **profilime** gidebilir, **Roller ve izinler** ' i seçebilir ve izinlerinizi yükseltebilmeniz için farklı yöneticilerin bir listesini görebilirsiniz.
+1. Uygulamanın sağ üst köşesindeki Hesap ayarları simgesinden kullanıcı **İş Ortağı Merkezi'yi seçin.**
+2. Genel yönetici veya **Hesap yöneticisi** **filtresini seçin.**
+3. Ayrıca,  **Profilim'a** gidebilir, Roller ve izinler'i seçerek izinlerinizi yükseltmenize yardımcı olacak farklı yöneticilerin listesini de ekleyebilirsiniz.
  
-Daha fazla bilgi için bkz. [rolünüzü bulma](find-your-role.md).  
+Daha fazla bilgi için [bkz. Rollerinizi bulma.](find-your-role.md)  
 
-## <a name="i-cant-access-incentives-using-my-credentials"></a>Kimlik bilgilerimi kullanarak teşvikleri 'ye erişemiyorum.
+## <a name="i-cant-access-incentives-using-my-credentials"></a>Kimlik bilgilerimi kullanarak teşviklere erişe bilmiyorum.
 
-Teşvikleri görmeme nedeni, doğru izinlere sahip olmadığınızdan emin olmanızdır. Bunu onarmak için aşağıdaki yordamı kullanın.
+Teşvikleri görememe ihtimaliniz, doğru izinlere sahip olmadığınızdır. Bunu düzeltmek için aşağıdaki yordamı kullanın.
 
-1. Azure AD Kiracı kimlik bilgilerinizle (iş kimlik bilgileriniz) iş [Ortağı Merkezi panosunda](https://partner.microsoft.com/dashboard/) oturum açın. Oturum açamıyor, şirketinizin genel yöneticisine başvurun.
+1. Azure AD [kiracı İş Ortağı Merkezi (iş](https://partner.microsoft.com/dashboard/) kimlik bilgileriniz) ile panoda oturum açın. Oturum açamıyorsanız, şirketin genel yöneticisine başvurun.
 
-2. Oturum açarken, **iş hesabınız** veya **kişisel hesabınız** arasından seçim yapmanız istenirse **iş hesabı**' nı seçin.
+2. Oturum aken, İş hesabınız veya Kişisel hesabınızdan seçmeniz **istenirse** İş hesabı'ı **seçin.**
 
-3. Iş Ortağı Merkezi menüsünde **teşvikleri**' i seçin ve **genel bakış**' ı seçin. Teşvikleri admin veya teşvikleri User izinleriniz yoksa, şirketinizin tüm genel ve hesap yöneticileri için iletişim bilgileri gösterilir. Gerekli MPN kimliklerine yönelik özenk rolünü almak ve programları teşvik etmek için bu yöneticilerden birine başvurun.
+3. Yeni İş Ortağı Merkezi Teşvikler'i **ve ardından** Genel Bakış'ı **seçin.** Teşvikler yöneticisi veya Teşvikler kullanıcı izinlerine sahip değilseniz, şirketinizin tüm genel ve hesap yöneticileri için iletişim bilgileri gösterilir. Gerekli MPN kimlikleri ve teşvik programları için teşvik rolünü almak için bu yöneticilerden biri ile iletişime geçin.
 
-4. Zaten bir teşvikleri yönetici rolüne sahipseniz, kullanıcılarınızın erişim sahibi olduğu MPN kimlikleri ve programları teşvik etmek için kayıtları görürsünüz.
+4. Zaten bir Teşvikler yönetici rolünüz varsa, erişiminiz olan MPN kimlikleri ve teşvik programları için şirketinizin kayıtlarına bakabilirsiniz.
 
-## <a name="some-enrollments-are-missing-from-the-incentives-overview-page"></a>Teşvikleri Genel Bakış sayfasında bazı kayıtlar eksik.
+## <a name="some-enrollments-are-missing-from-the-incentives-overview-page"></a>Teşviklere genel bakış sayfasında bazı kayıtlar eksik.
 
-' Dan bir davet aldınız veya ' a kaydolduysanız, artık panoda görünmeyen bir özenk programı ile, uygun erişime sahip olup olmadığınızı iki kez kontrol etmelisiniz. Yalnızca teşvik eden Kullanıcı veya teşvik yönetici rolü olan kullanıcılar programı görebilir. Bkz. [rolünüzü bulma](./find-your-role.md).
+Panoda artık görünür olmayan bir teşvik programından davet aldıysanız veya kaydolduysanız, uygun erişime sahip olup olmadığınıza bir kez daha bakabilirsiniz. Programı yalnızca Teşvik Kullanıcısı veya Teşvik Yöneticisi rolüne sahip kullanıcılar görebilir. Bkz. [Rollerinizi bulma.](./find-your-role.md)
 
-Rolünüzü veya izinlerinizi değiştirmeniz gerekiyorsa, şirketinizin genel veya hesap yöneticisine başvurun. Bu kişilerin kim olduğunu öğrenmek için [genel yöneticinizle bulun](./find-your-role.md#find-your-global-admin)makalesini okuyun.
+Rol veya izinlerinizi değiştirmeniz gerekirse, şirketin genel yöneticisine veya hesap yöneticisine ulaşın. Bu kişilerin kim olduğunu öğrenmek için Genel [yöneticinizi bulma makalenizi okuyun.](./find-your-role.md#find-your-global-admin)
 
-Genel Bakış sayfasında yalnızca Azure AD kiracısı ile ilişkili Iş ortağı küresel hesabı (PGA) ile ilişkili kayıtlar görüntülenir. Şirketinizde birden fazla PGA varsa, her biri için farklı kimlik bilgilerine sahip olmanız gerekir.
+Genel Bakış sayfasında yalnızca Azure AD kiracısı ile ilişkili İş Ortağı Genel Hesabı (PGA) ile ilişkili kayıtlar görüntülenir. Şirketinizin birden fazla PGA'sı varsa, her biri için farklı kimlik bilgilerine sahip olmak gerekir.
 
-## <a name="who-should-i-contact-if-i-get-an-error-message-or-need-help-during-the-enrollment-process"></a>Kayıt işlemi sırasında bir hata iletisi aldığımda veya yardıma ihtiyaç duysam kimler başvurmalıyım?
+## <a name="who-should-i-contact-if-i-get-an-error-message-or-need-help-during-the-enrollment-process"></a>Hata iletisiyle karşılaştım veya kayıt işlemi sırasında yardıma ihtiyacım olursa kimle iletişim kurmam gerekir?
 
-Panonun teşvikleri bölümünde herhangi bir sorunla karşılaşırsanız çevrimiçi bir destek hizmeti mevcuttur – bkz. destek seçeneği (? Simgesini) sağ üst köşedeki.
+Panonun Teşvikler bölümünde herhangi bir sorunla karşılaşırsanız çevrimiçi bir destek hizmeti vardır; bkz. destek seçeneği (? Simgesi) seçin.
 
 ## <a name="next-steps"></a>Sonraki adımlar
 

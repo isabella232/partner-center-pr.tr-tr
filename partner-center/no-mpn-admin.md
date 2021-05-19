@@ -9,20 +9,16 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3702ebd5a9421036a053a9a142a2f40d3e488137
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: 5efd157078acd72ca47418aaa9559a678fc5b129
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106442008"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151177"
 ---
 # <a name="what-to-do-if-the-only-admin-for-your-mpn-program-has-left-the-company"></a>MPN programınız için tek yönetici şirketten ayrıldıysa ne yapmalı?
 
-**Uygun roller**
-
-- MPN iş ortağı Yöneticisi
-- Hesap yöneticisi
-- Genel yönetici
+**Uygun roller**: MPN iş ortağı Yöneticisi | Hesap Yöneticisi | Genel yönetici
 
 Aşağıdaki makalede, MPN yöneticiniz şirketten ayrıldıysa ne yapacaklarıyla ilgili üç tipik senaryo gösterilmektedir.
 
@@ -48,17 +44,17 @@ Bu durumda, şirketteki başka bir kişiye MPN Iş ortağı Yöneticisi rolü at
 1. Destek isteğini inceleyin ve oluşturun.
 
 
-## <a name="scenario-3-mpn-partner-adminaccount-adminglobal-admin-has-left-the-company-and-there-are-no-other-users-who-can-access-the-companys-azure-ad-this-is-a-complete-loss-of-access"></a>Senaryo 3: MPN Iş ortağı yönetici/hesap yöneticisi/genel yönetici şirketten ayrıldı ve şirketin Azure AD 'ye erişebilen başka hiçbir Kullanıcı yok. Bu, erişimin tamamen kaybedilmesine neden olur.
+## <a name="scenario-3-mpn-partner-adminaccount-adminglobal-admin-has-left-the-company-and-there-are-no-other-users-who-can-access-the-companys-azure-ad-this-is-a-complete-loss-of-access"></a>Senaryo 3: MPN İş Ortağı yöneticisi/Hesap yöneticisi/Genel yönetici şirketten ayrıldı ve şirketin Azure AD'lerine erişen başka kullanıcı yok. Bu, tam erişim kaybıdır.
 
-Yönetilmeyen bir dizini Azure Active Directory yönetici olarak ele almak için [yöneticiye](/azure/active-directory/users-groups-roles/domains-admin-takeover#internal-admin-takeover) ilişkin adımları izleyin.
+Yönetici [olarak yönetimsiz](/azure/active-directory/users-groups-roles/domains-admin-takeover#internal-admin-takeover) bir dizini yönetici olarak Azure Active Directory izleyin.
 
-## <a name="not-sure-if-your-company-already-has-a-work-account"></a>Şirketiniz zaten bir iş hesabına sahip olup olmadığından emin değil misiniz?
+## <a name="not-sure-if-your-company-already-has-a-work-account"></a>Şirketinizin zaten bir iş hesabı olup olmadığını emin değil misiniz?
 
-Şirketinizde bir iş hesabı olup olmadığından emin değilseniz, denetlemek için aşağıdaki adımları izleyin.
+Şirketinizin bir iş hesabı olup olmadığını kontrol etmek için aşağıdaki adımları izleyin.
 
-1. [Azure yönetim portalı](https://ms.portal.azure.com)' nda oturum açın.
-2. Sol menüden **Azure Active Directory** ' ı seçin ve ardından **etki alanı adları**' nı seçin.
-Zaten bir iş hesabınız varsa, etki alanı adınız listelenecektir.
+1. Azure yönetim [portalında oturum açın.](https://ms.portal.azure.com)
+2. Sol **menüden Azure Active Directory'yi** ve ardından Etki alanı **adları'ı seçin.**
+Zaten bir iş hesabınız varsa, etki alanı adınız listelenir.
 
 >[!Note]
->Microsoft Azure veya Office 365 için etkin bir aboneliğiniz varsa, zaten bir iş hesabınız var ve oturum açma kimlik bilgileriniz bu hizmetlere erişmek için kullanılanlarla aynı olmalıdır.
+>Microsoft Azure veya Office 365 için etkin bir aboneliğiniz varsa zaten bir iş hesabınız vardır ve oturum açma kimlik bilgileriniz bu hizmetlere erişmek için kullanılan kimlik bilgileriyle aynı olması gerekir.

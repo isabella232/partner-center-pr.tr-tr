@@ -9,18 +9,16 @@ ms.author: hickeys
 author: hickeys
 keywords: Windows 10, UWP, mobil işleçler, mobil faturalama, mobil operatör faturalama
 ms.localizationpriority: medium
-ms.openlocfilehash: 20ce286814682277e375894e99f947d084206246
-ms.sourcegitcommit: f8fd51e1acdbfafdde86d6490bade66c63033ebd
+ms.openlocfilehash: 70d1d05911c927832ae82a402b0c17be52e39cfa
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108172396"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151551"
 ---
 # <a name="mobile-operator-billing"></a>Cep telefonu operatörü faturalaması
 
-**Uygun roller**
-
-- Genel yönetici
+**Uygun roller**: genel yönetici
 
 > [!NOTE]
 > Ödemeler hakkında, ödeme hesaplarını yapılandırma, ödeme yok, ödemeler veya başka bir şey yapma dahil olmak üzere destek arıyorsanız, [burada](https://developer.microsoft.com/windows/support)desteğe başvurun.
@@ -48,21 +46,21 @@ Aşağıdaki mobil işleçler Şu anda mobil operatör faturalandırmasını des
 | Fransa               | Orange                                                  |
 | Almanya              | O2, TelekomDeutschland, Vodada                       |
 | Macaristan              | Telenor                                                 |
-| İtalya                | Tre, Rüzgar, Vodadfone                                     |
-| Güney Kore                | SK telekomünikasyon                                              |
-| Malezya             | Çalıştırıldığı                                                    |
-| Hollanda          | KPN/Telfort, Vodadfone                                 |
-| Norveç               | Telenor/Talkmore, Telia/OneCall                     |
-| Polonya               | Turuncu, oyun, T-mobil                                  |
-| Suudi Arabistan         | STC                                                     |
-| Singapur            | M1 sınırlı, StarHub                                     |
-| Slovakya             | Slovak Telekod                                          |
-| Güney Afrika         | Vodadcom                                                 |
+| İtalya                | Vodafon, Wind, Vodafone                                     |
+| Güney Kore                | SK Telecom                                              |
+| Malezya             | Digi                                                    |
+| Hollanda          | KPN / Telelo, Vodafone                                 |
+| Norveç               | Telenor / Talkmore, Telia / OneCall                     |
+| Polonya               | Orange, Play, T-Mobile                                  |
+| Suudi Arabistan         | Stc                                                     |
+| Singapur            | M1 Limited, StarHub                                     |
+| Slovakya             | Slovakça Telekom                                          |
+| Güney Afrika         | Vodacom                                                 |
 | İspanya                | Orange                                                  |
 | İsveç               | 3, Telenor                                              |
-| İsviçre          | Güneş, Swisscom                                       |
-| Tayvan               | FarEasTone                                              |
-| Türkiye               | Türkcell                                                |
-| Birleşik Arap Emirlikleri | Etisalat                                                |
+| İsviçre          | İsviçre, İsviçre                                       |
+| Tayvan               | FarEasYaz                                              |
+| Türkiye               | Turkcell                                                |
+| Birleşik Arap Emirlikleri | Etnalat                                                |
 | Birleşik Devletler        | Sprint, Verizon                                         |
-| Birleşik Krallık       | 3 UK, EE, O2, Vodavfone                                 |
+| Birleşik Krallık       | 3 Birleşik Krallık, EE, O2, Vodafone                                 |

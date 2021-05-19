@@ -8,21 +8,18 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 03/16/2021
-ms.openlocfilehash: cd54249e1fb53fdf3a753b38d1e9999008b9d79a
-ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
+ms.openlocfilehash: 8b9442a99aaf1ed23242eb568859d3113a8262d4
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "106179233"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152112"
 ---
 # <a name="determine-your-incentives-program-eligibility"></a>Teşvikleri programınızın uygunluğunu belirleme
 
-**Uygun roller**
+**Uygun roller**: genel yönetici | Teşvikleri Yöneticisi
 
-- Genel yönetici
-- Teşvikleri Yöneticisi
-
- Her Teşvik programının uygunlukla ilgili bazı gereksinimleri vardır. Bu program uygunluğu gereksinimleri tüm uygun sözleşmeleri imzaladığınızdan, yetkinlikleri kazandığınızdan, Teşvik programınızın başarısı için gelir tahmini ve diğer gerekli önkoşulları karşıladığınızdan emin olmak amacıyla tasarlanmıştır.
+Her Teşvik programının uygunlukla ilgili bazı gereksinimleri vardır. Bu program uygunluğu gereksinimleri tüm uygun sözleşmeleri imzaladığınızdan, yetkinlikleri kazandığınızdan, Teşvik programınızın başarısı için gelir tahmini ve diğer gerekli önkoşulları karşıladığınızdan emin olmak amacıyla tasarlanmıştır.
 
 ## <a name="determining-your-program-eligibility"></a>Programa uygun olup olmadığınızı belirleme
 

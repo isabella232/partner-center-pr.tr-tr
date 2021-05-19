@@ -1,71 +1,66 @@
 ---
-title: Dynamics 365 Business Edition 'ı geçirme
+title: Dynamics 365 Business Edition'ı geçirme
 ms.topic: article
 ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Uygun Dynamics 365 Business Edition tekliflerini, kullanım süreleri dolmadan önce daha yeni sürümlere geçirmeyi öğrenin.
+description: Tam Dynamics 365 Business Edition tekliflerini süresi dolmadan önce daha yeni sürümlere geçirmeyi öğrenin.
 author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e83c06c11638bdde508fd27904038bcb6d8c9e9c
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: 8232ab165ea68ebefdfbb30f3ac52c907e1b7278
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106132647"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151534"
 ---
 # <a name="migrate-dynamics-365-business-edition-offers-to-newer-versions"></a>Dynamics 365 Business Edition Tekliflerini daha yeni sürümlere geçirme
 
-**Uygun roller**
+**Uygun roller:** Genel yönetici | Kullanıcı yönetimi yönetici | Yönetici aracısı | Satış aracısı
 
-- Genel yönetici
-- Kullanıcı Yönetimi Yöneticisi
-- Yönetim Aracısı
-- Satış Aracısı
+Dynamics 365 Business Edition abonelikleri olan müşteriler 1 Ocak 2019'dan itibaren bu eski tekliflere yenilenmeyecektir; mevcut aboneliklerin süresi dolduğunda otomatik olarak yenilenmez. Aboneliğin ayrıntı sayfasında abonelik durumu "[date]" ile "[date] üzerinde otomatik yenileme" olarak değişir.
 
-1 Ocak 2019 ' den itibaren, Dynamics 365 Business Edition aboneliklerine sahip müşteriler artık bu eski tekliflere yenilemez; mevcut abonelikler, süreleri dolduğunda otomatik olarak yenilenmeyecektir. Aboneliğin ayrıntı sayfasında, abonelik durumu "otomatik yenilemede [Tarih]" içinden "süresi doluyor" olarak değişir.
+Müşterilerin sürekliliğini sağlamak için, süresi dolan abonelikleri aşağıda listelenen desteklenen bir seçen geçişlisiniz. Müşteriler için hizmet kesintilerini önlemek için müşterileri aboneliğin yıllık bitiş tarihi öncesinde yeni aboneliklere taşımanız önerilir.
 
-Müşterilerin devamlılığını sağlamak için, süresi dolan aboneliklerle birlikte aşağıda listelenen desteklenen bir seçeneğe geçiş yapmanız gerekir. Müşterilerin hizmet kesintilerinden kaçınmak için, aboneliğin yıllık bitiş tarihinden önce müşterileri yeni aboneliklere taşımayı öneririz.
+API'yi (CREST veya İş Ortağı Merkezi) kullanıyorsanız, aboneliğin bitiş tarihini ve otomatik yenileme = False özelliğini değerlendirerek süresi dolan abonelikleri bulabilirsiniz. Söz konusu abonelikler 1 Ocak 2019'da otomatik olarak yenilenecek=False olarak ayarlanır. Müşterileri yeni bir plana her zaman taşımanız gerekir. 
 
-API 'YI (CREST veya Partner Center) kullanıyorsanız, Otomatik Yenile = false özelliğiyle birlikte Aboneliğin bitiş tarihini değerlendirerek süresi dolan abonelikleri bulabilirsiniz. Söz konusu abonelikler, 1 Ocak 2019 tarihinde otomatik olarak Yenile = false olarak ayarlanacak. Müşterileri dilediğiniz zaman yeni bir plana taşıyabilirsiniz. 
+## <a name="the-dynamics-365-business-editions-being-retired"></a>Dynamics 365 Business Sürümleri kaldırıyor
 
-## <a name="the-dynamics-365-business-editions-being-retired"></a>Kullanımdan kalkmakta olan Dynamics 365 Iş sürümleri
+- Dynamics 365 for Finance and Operations, Business edition
+- Dynamics 365 for Team Members, Business sürümü
 
-- Finans ve Işlemler için Dynamics 365, Iş sürümü
-- Ekip üyeleri için Dynamics 365, Iş sürümü
+## <a name="dynamics-business-central---the-dynamics-365-business-edition-new-offers"></a>Dynamics Business Central - Dynamics 365 Business Edition yeni teklifleri
 
-## <a name="dynamics-business-central---the-dynamics-365-business-edition-new-offers"></a>Dynamics Business Central-Dynamics 365 Business Edition yeni teklifleri
+Yeni Dynamics Business Central teklifleri ile müşterileriniz iş süreçlerini kolaylaştırma, müşteri etkileşimlerini geliştirme ve daha iyi kararlar alma için finansal, satış, hizmet ve operasyonlarını birbirine bağ hale getirmek için bu teklifleri karşılar. Dynamics 365 Business Central bulut tabanlıdır ve yalnızca Bulut Çözümü Sağlayıcısı (CSP) programı iş ortakları aracılığıyla kullanılabilir.
+Dynamics 365 Business Edition müşterileri, 30 Haziran 2020'ye kadar yeni Business Central teklifleri için indirimli geçiş fiyatlandırması almaya hak kazanmaktadır.
 
-Yeni Dynamics Business merkezi teklifleriyle, müşterileriniz, iş süreçlerini kolaylaştırmak, müşteri etkileşimlerini geliştirmek ve daha iyi kararlar almak için mali bilgilerini, satışları, servis ve işlemlerini birbirine bağlayabilirler. Dynamics 365 Business Central, bulut tabanlı ve yalnızca bulut çözümü sağlayıcısı (CSP) program iş ortakları aracılığıyla kullanılabilir.
-Dynamics 365 Business Edition müşterileri, 30 Haziran 2020 ' e kadar yeni Iş Merkezi teklifleri için indirimli geçiş fiyatlandırması almaya uygundur.
+## <a name="transition-customers-to-new-product-plans"></a>Müşterileri yeni ürün planlarına geçiş
 
-## <a name="transition-customers-to-new-product-plans"></a>Müşterilerin yeni ürün planlarına geçişini sağlar
+ Müşterilerin eski SKÜ'lerden yeni SKUS'lara taşınmaları için bu sırayla aşağıdaki adımlar gerekir:
 
- Müşterileri kullanımdan kaldırılan SKU 'lardan daha yeni bir sürümüne taşımak, bu sırayla aşağıdaki adımları gerektirir:
+- Yeni aboneliği satın alma
+- Geçerli kullanıcı lisanslarını yeniden atama
+- Eski aboneliği iptal etme
 
-- Yeni aboneliği satın alın
-- Geçerli kullanıcı lisanslarını yeniden ata
-- Eski aboneliği iptal et
+## <a name="purchase-the-new-plan-for-your-customer"></a>Müşteriniz için yeni planı satın alma
 
-## <a name="purchase-the-new-plan-for-your-customer"></a>Müşteriniz için yeni planı satın alın
+1. Sol **gezinti** çubuğundan Müşteriler'i ve ardından yeni aboneliğe taşımak istediğiniz müşteriyi seçin.
+2. Abonelik **Ekle'yi seçin.**
+3. Katalogdan satın almak istediğiniz aboneliği seçin (bu durumda, yukarıdaki seçeneklerden biri), lisans sayısını girin ve gönder'i **seçin.** 
 
-1. Sol gezinti bölmesinde **müşteriler** ' i seçin ve sonra yeni aboneliğe taşımak istediğiniz müşteriyi seçin.
-2. **Abonelik Ekle**' yi seçin.
-3. Katalogdan satın almak istediğiniz aboneliği seçin (Bu durumda yukarıdaki seçeneklerden biri), lisansların sayısını girin ve ardından **Gönder**' i seçin. 
+Müşteriniz artık hem eski aboneliğe hem de yeni aboneliğe sahip olur. Sonraki adımınız, lisansları müşterinin kullanıcılarına yeniden atamanızdır.
 
-Müşterinizin artık hem eski hem de yeni bir abonelik olacak. Bir sonraki adımınız, lisansları müşterinin kullanıcılarına yeniden atamak olur.
+1. Sol **gezinti** çubuğundan Müşteriler'i ve ardından hareket halindeki müşteriyi seçin.
+2. Kullanıcılar **ve lisanslar'ı seçin.**
+3. Bir kullanıcıya bir lisansı yeniden atamak için, kullanıcıyı seçin ve ardından Lisansları **yönet'i seçin.** 
+4. Lisansları **yönet sayfasında** Temel (Nitelikli Teklif) lisansından Dynamics 365 for Sales/ Customer Engagement Planı'nın onay kutusunu temizleyin ve müşterinin taşınıyor olduğu abonelik için yeni bir hizmet planı seçin. 
+5. **Gönder**’i seçin. Bunu yeni lisansa ihtiyacı olan her kullanıcı için yapacaktır. 
 
-1. Sol gezinti çubuğunda **müşteriler** ' i seçin ve ardından taşıdığınız müşteriyi seçin.
-2. **Kullanıcılar ve lisanslar ' ı** seçin.
-3. Bir kullanıcıya bir lisansı yeniden atamak için kullanıcıyı seçin ve ardından **Lisansları Yönet**' i seçin. 
-4. **Lisansları Yönet** sayfasında, temel (nitelikli teklif) lisanstan satış/müşteri katılım planı için Dynamics 365 ' i temizleyin ve müşterinin taşınmakta olduğu abonelik için yeni bir hizmet planı seçin. 
-5. **Gönder**’i seçin. Bunu, yeni lisansa ihtiyacı olan her kullanıcı için yapabilirsiniz. 
+Lisansları yeni aboneliğe taşıdıktan sonra eski aboneliği iptal edebilirsiniz. 
 
-Lisansları yeni aboneliğe taşındıktan sonra eski aboneliği iptal edebilirsiniz. 
+1. Sol **gezinti** çubuğundan Müşteriler'i ve ardından hareket halindeki müşteriyi seçin.
+2. Abonelik ayrıntıları sayfasında eski aboneliği Askıya Alındı olarak ayarlayın ve **Gönder'i** **seçin.**
 
-1. Sol gezinti çubuğunda **müşteriler** ' i seçin ve ardından taşıdığınız müşteriyi seçin.
-2. Abonelik Ayrıntıları sayfasında, eski aboneliği **askıya alındı** olarak ayarlayın ve **Gönder**' i seçin.
-
-Eski abonelik artık askıya alındı ve yeni abonelik etkin. Askıya alınan abonelik 120 gün sonra otomatik olarak sağlanacaktır. Müşterinizin eski abonelik için ek ücret ödemeyecektir.
+Eski abonelik artık askıya alınır ve yeni abonelik etkindir. Askıya alınan abonelik 120 gün sonra otomatik olarak sağlanacak. Müşteriniz eski abonelik için ek ücret ödemez.

@@ -8,19 +8,16 @@ ms.subservice: partnercenter-mpn
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
-ms.openlocfilehash: b8e7d7e7bdd5cb8bc9b90b3461528859eb801d0d
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: b6dab5fb57d26c00928441d7962511e6530fa3b1
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106132494"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152333"
 ---
 # <a name="how-to-pay-the-fee-associated-with-a-silver-or-gold-competency"></a>Gümüş veya altın uzmanlık ile ilişkili ücreti ödeyin
 
-**Uygun roller**
-
-- MPN iş ortağı Yöneticisi
-- Hesap yöneticisi
+**Uygun roller**: MPN iş ortağı Yöneticisi | Hesap Yöneticisi
 
 Bu makalede, bir gümüş veya altın Microsoft İş Ortağı Ağı uzmanlığa göre ilgili ücretin nasıl ve ne zaman ödenmediği açıklanır. Makalede ayrıca tercih edilen ödeme yönteminin nasıl değiştirileceği, bir siparişin nasıl iptal edildiği ve bir gümüş ' den altın uzmanlığa geçiş yaparken yüzde 25 ' lik bir ücret indiriminin nasıl alınacağı açıklanmaktadır.
 
@@ -41,34 +38,34 @@ Aksi takdirde, bir gümüş veya altın uzmanlık ücretini ödemek için bu ad�
 
 1. Kuruluşunuzun iş hesabı kimlik bilgilerini kullanarak, Iş Ortağı Merkezi [panosunda](https://partner.microsoft.com/dashboard)oturum açın.
 
-2. Gezinti menüsünden [Üyelik teklifleri](https://partner.microsoft.com/dashboard/mpn/offers) ' ni seçin. 
+2. Gezinti [menüsünden Üyelik](https://partner.microsoft.com/dashboard/mpn/offers) teklifleri'ni seçin. 
 
-3. **Satın alma için sunulan teklifler** altında, belirli uzmanlarınız Ile ilişkili **gümüş üyelik** kutucuğunu veya **altın üyelik** kutucuğunu bulun. 
+3. Satın **alınabilir teklifler altında,** özel yetkinliğiniz **ile** ilişkili **Silver** üyelik kutucuğunu veya Altın üyelik kutucuğunu bulun. 
 
-4. Belirli gümüş veya altın üyelik kutucuğunun sağ alt köşesinde bulunan **abone ol** seçeneğini belirleyin.
+4. Belirli bir **Silver** veya Gold üyelik kutucuğunun sağ alt köşesinde bulunan Abone ol seçeneğini belirleyin.
 
-   :::image type="content" source="images/offers/1-mpn-competency-payment-offers-available-for-purchase.png" alt-text="Üyelik, iş ortağının abone olabileceği veya satın aldığı gümüş veya Altın üyelikleri gösteren bir sayfa sunar." border="false":::
+   :::image type="content" source="images/offers/1-mpn-competency-payment-offers-available-for-purchase.png" alt-text="İş ortağının abone olabilir veya satın alınabilir gümüş veya altın renkli üyelikleri gösteren üyelik teklifleri sayfası." border="false":::
 
    > [!Note]
-   > Henüz istenen gümüş veya altın uzmanlık için gereksinimleri karşılamadıysanız, Gümüş/Altın üyeliğe abone olamaz veya ilgili uzmanlık ücretini ödeyebilirsiniz. Ayrıca, zaten bir altın uzmanlık iş ortağıysanız, gümüş bir uzmanlığa yönelik artımlı avantajlar sizin için otomatik olarak sağlanır. Bu senaryoda, Gümüş uzmanlık ücretini ödeme seçeneği de kullanılamaz.
+   > İstenen silver veya gold uzmanlığının gereksinimlerini henüz karşılamadıysanız silver/gold üyeliğine abone olamaz veya ilgili uzmanlık ücretini ödemeniz mümkün olmayacaktır. Ayrıca zaten altın bir uzmanlık iş ortağınız varsa, gümüş uzmanlık için artımlı avantajlar size otomatik olarak verilecektir. Bu senaryoda gümüş uzmanlık ücreti ödeme seçeneği de kullanılamaz.
 
-4. **Satın alma ayrıntıları** sayfasında, ayrıntılarınızı gözden geçirin ve onaylayın.
+4. Satın alma **ayrıntıları sayfasında,** ayrıntılarınızı gözden geçirin ve onaylayın.
 
-   (Şirketinizin [ **vergi kimliği** bilgilerini](./organization-tax-info.md) güncelleştirme hakkında daha fazla bilgi edinin veya şirketinizin [ **Fatura/satımı** şirket adresine](./mpn-get-action-pack.md)
+   (Şirket Vergi Numarası [bilgilerini  veya şirket adresine](./organization-tax-info.md) fatura/satılan şirket adresini güncelleştirme hakkında [ **daha fazla** bilgi edinebilirsiniz.)](./mpn-get-action-pack.md)
 
-   :::image type="content" source="images/offers/2-mpn-competency-payment-preference.png" alt-text="Üyelik, ödeme tercihleri içeren satın alma ayrıntıları sayfası sunar." border="false":::
+   :::image type="content" source="images/offers/2-mpn-competency-payment-preference.png" alt-text="Üyelik teklifleri satın alma ayrıntıları sayfasında ödeme tercihleri yer almaktadır." border="false":::
 
-5. Sayfanın sol alt kısmında, **ödeme tercihinizi seçin** bölümünü bulun. **Kredi kartı** seçeneğini veya **elektronik banka aktarımı** seçeneğini belirleyin ve ardından **İleri**' yi seçin. İki seçenekle ilişkili daha fazla adım için aşağıdaki bölümlere bakın.
+5. Sayfanın sol alt kısmında Ödeme tercihinizi **seçin bölümünü** bulun. Kredi kartı seçeneğini **veya Elektronik** Banka Aktarımı **seçeneğini ve** ardından Sonraki'yi **seçin.** Her iki seçenekle ilişkili diğer adımlar için aşağıdaki bölümlere bakın.
 
-### <a name="use-a-credit-card-as-your-payment-preference"></a>Ödeme tercihiniz olarak bir kredi kartı kullanın
+### <a name="use-a-credit-card-as-your-payment-preference"></a>Ödeme tercihi olarak kredi kartı kullanma
 
-İlişkili gümüş veya altın uzmanlık üyeliği için kredi kartı ödemenizi tamamlamaya yönelik bu adımları izleyin.
+İlişkili bir silver veya gold uzmanlık üyeliği için kredi kartı ödemenizi tamamlamak üzere bu adımları izleyin.
 
-1. Tercih ettiğiniz ödeme yöntemi olarak **kredi kartı** ' nı seçtiyseniz, kredi kartı ayrıntıları sayfası görüntülenir. 
+1. Tercih ettiğiniz ödeme **yöntemi olarak** Kredi kartı'nın seçili olması için Kredi kartı ayrıntıları sayfası görüntülenir. 
 
-   :::image type="content" source="images/offers/3-mpn-competency-payment-credit-card-details.png" alt-text="Üyelik, ödeme kredi kartı ayrıntıları sayfasını sunmaktadır." border="false":::
+   :::image type="content" source="images/offers/3-mpn-competency-payment-credit-card-details.png" alt-text="Üyelik teklifleri ödeme kredi kartı ayrıntıları sayfası." border="false":::
 
-2. Bu sayfanın üst kısmına yakın **sözleşme** bağlantısını seçin ve şirketiniz adına MPN teklifi satın alma hüküm ve koşullarını gözden geçirin. Bu sözleşme, faturalandırma hesabınız, yenilemeniz, geri ödeme uygunluğunuzu ve vergilerle ilgili önemli bilgiler sunmaktadır.
+2. Bu **sayfanın** üst kısmında yer alan sözleşme bağlantısını seçin ve MPN Teklifi Satın Alma Hüküm ve Koşulları'nın şirket adına gözden geçirmesini sağlar. Bu sözleşme ödeme hesabınız, yenileme, para iadesi uygunluğu ve vergiler hakkında önemli bilgiler sunar.
 
 3. Kredi kartı ayrıntılarınızı ve faturalandırma bilgilerinizi ilgili alanlara girip **ödeme**' yi seçin.
 
@@ -98,33 +95,33 @@ Kredi kartı bilgileri alınıp işlem tamamlandıktan hemen sonra, gümüş vey
    > [!NOTE]
    > Sipariş **numaranız** ve **MPN kimliğiniz** , siparişi başarıyla **gönderdikten** hemen sonra görüntülenir. Lütfen bu bilgileri unutmayın. Bu, daha sonra banka transferinizi tamamlayacak şekilde gerekecektir.
 
-1. Gönderiminizin başarılı olduğunu belirten bir onay sayfası görürsünüz. Bankanızla hat aktarımını tamamladıktan sonra, ödeme kanıtını karşıya yüklemek için bu sayfaya dönmeniz gerekir.
+1. Gönderiminizin başarılı olduğunu belirten bir onay sayfası görürsünüz. Bankanıza havaleyi tamamlandıktan sonra ödeme kanıtını karşıya yüklemek için bu sayfaya geri dönmeniz gerekir.
 
-   :::image type="content" source="images/offers/5-mpn-competency-payment-thank-you-confirmation.png" alt-text="Gönderim onay sayfası." border="false":::
+   :::image type="content" source="images/offers/5-mpn-competency-payment-thank-you-confirmation.png" alt-text="Gönderim onayı sayfası." border="false":::
 
-1. Bankanın hesabındaki kullanım aktarımını doldurun. Aşağıdakileri yaptığınızdan emin olun:
+1. Banka hesabınızla havaleyi tamamlama. Şunları gerçekleştirin:
 
-   - Hem **sipariş numarasını** hem de **MPN kimliğini** hat aktarım başvurusu ayrıntılarına ekleyin.
+   - Havale başvuru **ayrıntılarınıza** hem Sipariş numarasını hem de **MPN** kimliğini dahil edin.
 
-   - Vadesi geçen miktarı (daha önce belirtilen para biriminde) önceki sayfanın **tel aktarım yönergeleri** alanında gösterilen Microsoft banka hesabına aktarın.
+   - Son tutarı (daha önce belirtildiği para birimiyle) önceki sayfanın Havale yönergeleri alanında gösterilen Microsoft banka **hesabına aktarabilirsiniz.**
 
-1. Bankanızla işlemi onayladıktan sonra banka onayının bir fotoğrafını prova olarak alın. Banka onayı düzeltme belgesinde hakkındaki ayrıntıları gösterdiği emin olun: 
-   - Tel aktarım ödemesinin oluştuğu tarih
-   - Kablo aktarmanızı almak için kullanılan Microsoft banka hesabı
-   - Doğru para biriminde gösterilen aktarım miktarı
-   - Sipariş numaranız ve MPN KIMLIK numaranız
+1. Bankanız işlemi onaylayın ve banka onayını kanıt olarak çekin. Banka onay kanıtı belgesinde aşağıdakilerin ayrıntılarının yer olduğundan emin olun: 
+   - Havale ödemenin meydana geldiği tarih
+   - Havalenizi almak için kullanılan Microsoft banka hesabı
+   - Uygun para birimiyle gösterilen aktarım tutarı
+   - Sipariş numaranız ve MPN Kimlik numaranız
 
-1. Hat kullanım kanıtı ödeme belgenizi karşıya yükleme adımları için sonraki bölüme bakın.
+1. Havale ödeme kanıtını karşıya yükleme adımları için sonraki bölüme bakın.
 
-### <a name="upload-proof-of-wire-transfer-payment"></a>Tel aktarım ödeme sağlamasını karşıya yükle
+### <a name="upload-proof-of-wire-transfer-payment"></a>Havale ödeme kanıtını karşıya yükleme
 
-Gümüş veya altın üyelik ücretinizi elektronik tel aktarım aracılığıyla ödeyin, daha sonra ödemeyi Iş ortağı merkezine yüklemeniz gerekir. Bunu yapmak için şu adımları izleyin:
+Gümüş veya altın renkli üyelik ücretinizi elektronik havale yoluyla ödemeniz gerekirse ödeme kanıtını İş Ortağı Merkezi. Bunu yapmak için şu adımları izleyin:
 
-1. Iş Ortağı Merkezi [panosuna](https://partner.microsoft.com/dashboard)dönün, sonra sol gezinti menüsünde **Üyelik teklifleri** seçeneğini belirleyin.
+1. İş Ortağı Merkezi [panosuna geri](https://partner.microsoft.com/dashboard)dönüp sol **gezinti** menüsünden Üyelik teklifleri seçeneğini belirleyin.
 
-1. Satın alınan teklifler listesinde, özel teklifinizi bulun. Ardından, bu teklif için eylem sütununun altında, **ödeme sağlamasını karşıya yükle**' yi seçin.
+1. Satın alınan teklifler listesinde, teklifinizi bulun. Ardından ilgili teklifin Eylem sütununda Ödeme kanıtını karşıya **yükle'yi seçin.**
 
-   :::image type="content" source="images/offers/6-mpn-competency-payment-show-purchased-offers.png" alt-text="Satın alınan üyelik teklifleri listesi, her satın alınan teklif için seçilebilir bir seçeneği, ödeme sağlamasını karşıya yüklemeyi gösterir." border="false":::
+   :::image type="content" source="images/offers/6-mpn-competency-payment-show-purchased-offers.png" alt-text="Satın alınan her teklif için ödeme kanıtını karşıya yükleme seçeneğini gösteren satın alınan üyelik teklifleri listesi." border="false":::
 
 1. Ayrıntılar sayfasında, **ödeme kanıtı** alanını bulun. Prova belgenizi bulup Iş Ortağı Merkezi 'ne yüklemek için **Araştır** ' ı seçin.
 
@@ -150,36 +147,36 @@ Mevcut, tasdik bir elektronik banka aktarımını iptal etmek ve ödeme tercihle
 
 1. İş Ortağı Merkezi [panosunda](https://partner.microsoft.com/dashboard) oturum açın.
 
-2. Sol gezinti menüsünden **Üyelik teklifleri** ' ni seçin.
+2. Sol **gezinti menüsünden** Üyelik teklifleri'ni seçin.
 
-3. Satın alınan teklifler listesinde, iptal etmek istediğiniz belirli teklifi bulun. Ardından, bu teklifin eylem sütununun altında **siparişi Iptal et**' i seçin.
+3. Satın alınan teklifler listesinde iptal etmek istediğiniz teklifi bulun. Ardından ilgili teklifin Eylem sütununda Siparişi İptal **Et'i seçin.**
 
-   :::image type="content" source="images/offers/8-mpn-competency-payment-cancel-order.png" alt-text="Satın alınan üyelik teklifleri listesi Iptal sırası seçeneğini gösterir." border="false":::
+   :::image type="content" source="images/offers/8-mpn-competency-payment-cancel-order.png" alt-text="Satın alınan üyelik teklifleri listesinde Siparişi iptal et seçeneği görüntülenir." border="false":::
 
 4. Siparişi iptal etmek için kalan adımları izleyin. 
 
-5. Yeni ödeme tercihleri ile yeni bir sipariş oluşturmak için daha önceki bölümlere bakın ve bu da size sunulan gümüş veya altın üyelik tekliflerinden birini temel alır.
+5. Daha önceki bölümlere bakarak, hala size kullanılabilir olan gümüş veya altın renkli üyelik tekliflerinden birini temel alarak yeni ödeme tercihleriyle yeni bir sipariş oluşturun.
 
-## <a name="apply-upgrade-discount-when-moving-from-silver-to-gold"></a>Gümüş 'ten Gold 'e geçiş yaparken yükseltme indirimi Uygula
+## <a name="apply-upgrade-discount-when-moving-from-silver-to-gold"></a>Gümüşten altın rengine taşıma sırasında yükseltme indirimi uygulama
 
-Kuruluşunuzun etkin bir gümüş uzmanlık alanı varsa ve ilişkili altın uzmanlığı için uygunluk gereksinimlerini karşımışsa, indirimle bir indirimle, gümüş sürümüne yükseltme yapmanız uygun olursunuz. Altın uzmanlık fiyatına göre yüzde 25 oranında bir indirim alacaksınız.
+Kuruluşta etkin bir gümüş uzmanlığı varsa ve ilişkili altın uzmanlık için uygunluk gereksinimlerini karşılamıyorsa, indirim için gümüşten altın rengine yükseltmeye hak kazanabilirsiniz. Altın uzmanlık fiyatında yüzde 25 indirim alırsınız.
 
-Yeni Altın yıldönümü tarihi, satın alma tarihinden itibaren bir yıl boyunca zamanlanır. Tam altın avantajları elde edersiniz.
+Yeni Altın Yıldönümü Tarihi, satın alma tarihine kadar bir yıl boyunca zamanlanmış olur. Tam Gold avantajları elde ettiysiniz.
 
 > [!NOTE]
-> Bu yükseltme iskontosunun birkaç istisnası vardır. Gümüş bir üyelik teklifiniz varsa, bir altın üyelik teklifine yükseltmek için yüzde 25 altın üyelik indirimi kullandıysanız, gümüş bir para iadesi için uygun olmayacaktır. Bu, 30 gün içinde gümüş üyeliğinizi ödüyordu ve ilgili avantajları henüz kullanmadıysanız bile geçerlidir.
+> Bu yükseltme indirimi için birkaç özel durum vardır. Bir Silver üyelik teklifiniz varsa, altın üyelik teklifine yükseltmek için yüzde 25 Altın üyelik indirimi kullandıysanız, Silver para iadesi için uygun olmazsınız. Silver üyeliğiniz için 30 gün içinde ödeme yaptınız ve henüz ilgili avantajları kullanılmamış olsa bile bu durum doğrudur.
 
-Yüzde 25 indirimli iskontosunun uygulandığını görmek için aşağıdakileri yapın:
+Yüzde 25 indirimin nereye uygulandığını görmek için şunları yapın:
 
 1. İş Ortağı Merkezi [panosunda](https://partner.microsoft.com/dashboard) oturum açın.
 
-2. Sol gezinti menüsünden **Üyelik teklifleri** ' ni seçin.
+2. Sol **gezinti menüsünden** Üyelik teklifleri'ni seçin.
 
-3. Satın alma için kullanılabilir teklifler altında altın üyelik kutucuğunu arayın. Daha önce daha önce bir gümüş üyelik elde ediyorsanız, altın üyelik miktarı yüzde 25 oranında iskontoyu yansıtacak şekilde ayarlanır.
+3. Satın alınabilir teklifler'in altında Altın üyelik kutucuğuna bakın. Daha önce Bir Silver üyeliği elde ettiy ve ödeme yaptıysanız, Altın üyelik tutarı yüzde 25 indirimi yansıtacak şekilde ayarlanır.
 
-   :::image type="content" source="images/offers/9-mpn-competency-silver-to-gold-discount.png" alt-text="Satın alınan üyelik teklifleri, gümüş ve yüzde 25 oranında indirimle Gold kutucuk teklifi gösterir." border="false":::
+   :::image type="content" source="images/offers/9-mpn-competency-silver-to-gold-discount.png" alt-text="Satın alınan üyelik teklifleri, yüzde 25 indirimle gümüş-altın renkli kutucuk teklifini gösterir." border="false":::
 
-4. İskontoyu yansıtan altın üyelik kutucuğunda **abone ol** ' u seçin. Satın alma ayrıntıları sayfanız, seçtiğiniz satın alımınızın iskontosunu de gösterecektir.
+4. **İndirimi** yansıtan Gold üyelik kutucuğunun içinde Abone Ol'a tıklayın. Satın alma ayrıntıları sayfanız, seçtiğiniz satın alımınızın iskontosunu de gösterecektir.
 
    :::image type="content" source="images/offers/10-mpn-competency-silver-to-gold-discount-2.png" alt-text="Ayrıntılar sayfası, yüzde 25 oranında indirimin olduğunu gösterir." border="false":::
 

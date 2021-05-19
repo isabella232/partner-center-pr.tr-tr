@@ -1,59 +1,52 @@
 ---
-title: Microsoft teklifleri ile go-to-market hakkında bilgi edinin
+title: Microsoft teklifleri ile Pazara Satış hakkında bilgi edinmek için
 ms.topic: article
 ms.date: 03/08/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Microsoft teklifleri ile nasıl pazara gideceğinizi, pazara ulaşma süresini hızlandırmaya, müşteri adayları oluşturmaya ve işletmenizi genişletmenize nasıl yardımcı olabileceğini öğrenin.
+description: Microsoft teklifleriyle Pazara Git'in pazara satış sürecini hızlandırmaya, müşteri adayları oluşturmaya ve işletmenizi genişletmeye nasıl yardımcı olduğunu öğrenin.
 author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d4f06f1983ab4bf3b6f9f77d02e7ae94817feeab
-ms.sourcegitcommit: 109c20a2dc71bf6ab15a3a9880807ec014eb8c67
+ms.openlocfilehash: 1b22075c91d7a19c555223409ed9410522e010d2
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/09/2021
-ms.locfileid: "102475271"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152248"
 ---
-# <a name="explore-your-go-to-market-with-microsoft-offers"></a>Microsoft tekliflerinizi kullanarak pazara karşı siz olun
+# <a name="explore-your-go-to-market-with-microsoft-offers"></a>Microsoft teklifleriyle Pazara Satış teklifinizi keşfedin
 
-**Uygun roller**
+**Uygun roller:** Genel yönetici | MPN iş ortağı yöneticisi
 
-- Genel yönetici
-- MPN iş ortağı Yöneticisi
+Tek bir üye Microsoft İş Ortağı Ağı, işlerinizi derlemenize ve büyümenize yardımcı olacak üyelik avantajlarına erişim elde edersiniz. Microsoft kaynakları, teklifleri ve programları ile Pazara Git, bir üye olarak sahip [olduğunuz](https://partner.microsoft.com/manage-your-partner-network-benefits) birçok avantaj Microsoft İş Ortağı Ağı vardır.
 
-Microsoft İş Ortağı Ağı üye olduğunuzda, işletmenizi oluşturmanıza ve büyütmenize yardımcı olabilecek üyelik avantajlarına erişim elde edersiniz. Microsoft kaynakları, teklifleri ve programları ile pazara karşı, Microsoft İş Ortağı Ağı üye olarak aldığınız [birçok avantaj](https://partner.microsoft.com/manage-your-partner-network-benefits) arasında yer alır.
-
-Pazara karşı Pazarlama teklifleri, pazara sunma, müşteri adayları oluşturma ve işinizi genişletme sürecinizi hızlandırmanıza yardımcı olabilecek özel satış ve pazarlama kaynaklarına erişmenizi sağlar.
+Pazara Giriş teklifleri, pazara giriş sürenizi hızlandırmanıza, müşteri adayları oluşturmanıza ve işlerinizi genişletmenize yardımcı olan özel satış ve pazarlama kaynaklarına erişmenizi sağlar.
 
 >[!NOTE]
->Zaten Microsoft İş Ortağı Ağı bir üyesiyseniz [Microsoft iş ortağı ağı sitesine](https://partner.microsoft.com/membership)katın.
+>Henüz bir Microsoft İş Ortağı Ağı üyesi değilseniz, Microsoft İş Ortağı Ağı [katılın.](https://partner.microsoft.com/membership)
 
-## <a name="go-to-market-resources-offers-and-programs-available-by-membership-level"></a>Üyelik düzeyine göre sunulan go-to-market kaynakları, teklifleri ve programları
+## <a name="go-to-market-resources-offers-and-programs-available-by-membership-level"></a>Üyelik düzeyine göre kullanılabilen Pazara Git kaynakları, teklifleri ve programları
 
-Pazara sunma tekliflerinizi, belirli MPN üyeliğinizi, uzmanlarınızı ve elde ettiğiniz tüm [uzmanlara](learn-about-competencies.md) göre farklılık gösterir.
+Pazara Git teklifleriniz, mpN üyeliğinizin düzeyine, uzmanlığınıza ve elde ettiy seviyesindeki [yetkinliklere](learn-about-competencies.md) göre farklılık gösterir.
 
-Tüm MPN üyeleri, bazı standart GTM kaynaklarına erişebilir. Bunlar, hazırlanın-go pazarlama varlıklarına, satış etkinleştirme platformuna ve isteğe bağlı dijital pazarlama erişimine sahiptir. Ayrıca, ortak satış Için hazır bir teklifle gümüş veya altın uzmanlık ve/veya ISV iş ortakları elde eden iş ortakları tarafından sunulan iş ortakları için de daha fazla pazara açık teklifler ve programlar da mevcuttur.
+Tüm MPN üyeleri belirli standart GTM kaynaklarına erişime sahip olur. Bunlar arasında kullanıma hazır pazarlama varlıklarına, satış etkinleştirme platformuna ve isteğe bağlı dijital pazarlamaya erişim yer alıyor. Ayrıca Silver veya Gold uzmanlıklarına sahip iş ortaklarının ve/veya ortak satışa hazır teklife sahip ISV iş ortaklarının da sunduğu daha fazla Pazara Satış teklifi ve programı vardır.
 
 >[!NOTE]
->Go-to-market kaynakları, teklifler ve programlar eklemeler ve değişikliklere tabidir. Ortak satış için hazır bir teklifle, farklı uzmanlık düzeylerine ve/veya ISV iş ortaklarına ulaşmak isteyen iş ortakları için en son pazara açık kaynaklar ve teklifler hakkında bilgi edinmek için Microsoft İş Ortağı Ağı [pazara git sayfasına](https://partner.microsoft.com/membership/go-to-market) gidin.
+>Pazara Git kaynakları, teklifleri ve programları eklemelere ve değişikliklere tabi olur. Farklı uzmanlık düzeylerine [](https://partner.microsoft.com/membership/go-to-market) Microsoft İş Ortağı Ağı iş ortakları ve/veya ortak satışa hazır teklife sahip ISV iş ortakları için kullanılabilen en son Pazara Satışa Git kaynakları ve teklifleri hakkında bilgi edinmek için Microsoft İş Ortağı Ağı Pazara Git sayfasına gidin.
 
-**Gümüş** uzmanlık seviyeleri ve/veya bir ortak satış teşvik teklıfı olan ISV iş ortakları ile sunulan ek pazara açık teklifler teklifleri:
+Silver uzmanlık düzeylerine sahip olanlar  ve/veya ortak satış teşviki uygun teklifine sahip bir ISV iş ortakları tarafından kullanılabilen ek Pazara Git teklifleri:
 
-- Tüm MPN standart go-to-market kaynakları
-- İş profili iyileştirmesi ve başvuru yönetimi
-- Microsoft ile pazara sunma
+- Tüm MPN standart Pazara Satış kaynakları
+- İş profili iyileştirme ve referans yönetimi
+- Microsoft ile pazarla
 
 Ortak satış ile uygun teklif sunan **altın** uzmanlık düzeyi ve/veya ISV iş ortakları olan iş ortakları için sunulan ek pazara açık teklifler:
 
 - Tüm MPN standart go-to-market kaynakları
 - Tüm gümüş/ISV ortak satış özellikli go-to-market teklifleri
-- Ortak markalı tek sayfalayıcı
-- Ortak markalı sunum
-- Ortak markalı örnek olay incelemesi
-- Microsoft Executive teklifiyle yayın düğmesine basın
-- Ortak markalı sosyal pazarlama
+- İş ortağı pazara git araç kutusu 
 
 ## <a name="view-go-to-market-membership-offers-in-partner-center"></a>Iş Ortağı Merkezi 'nde pazara karşı pazara üyelik tekliflerini görüntüleme
 

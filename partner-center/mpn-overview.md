@@ -9,21 +9,16 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4e7ff0ae1f5ca99cee25e3fa8740212d0b697f70
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: 6edd8d18610947f61f88af8c3e3563508244586e
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106132953"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152231"
 ---
 # <a name="partner-with-microsoft-and-discover-membership-benefits"></a>Microsoft ile iş ortağı ve üyelik avantajlarını keşfet
 
-**Uygun roller**
-
-- Genel yönetici
-- MPN iş ortağı Yöneticisi
-- Kullanıcı Yönetimi Yöneticisi
-- Yönetim Aracısı
+**Uygun roller**: genel yönetici | MPN iş ortağı Yöneticisi | Kullanıcı Yönetimi Yöneticisi | Yönetim Aracısı
 
 Microsoft İş Ortağı Ağı (MPN), işletmenizi ayırt etmek, Pazar alanına gitmek ve çözümlerinizi satmak için sektör ve program seçeneklerindeki en geniş ürün yelpazörünü sağlar. Ücretsiz olarak katılarak bir Microsoft eylem paketi, Starter Kit veya uzmanlığa sahip ortaklığınızda yatırım yapın.
 
@@ -50,23 +45,23 @@ Eylem Paketi hakkında daha fazla bilgi edinmek için aşağıdaki kaynakları g
 
 ## <a name="competencies"></a>Yetkinlikler
 
-Özelleştirilmiş bir iş alanında kalite çözümleri sunma konusunda kanıtlanmış uzmanlığınızı gösterir. Microsoft Uzmanlıklar, geçerli müşterilerinizin ihtiyaçlarını karşılayacak ve olası bir şekilde tanınabilir olacak şekilde tasarlanmıştır. Microsoft iş ortaklarının elime katmanını birleştirin ve eşlerinizde kullanıma hazır yapın.
+Özelleştirilmiş bir iş alanında kalite çözümleri sunma konusunda kanıtlanmış uzmanlığınızı gösterir. Microsoft Uzmanlıklar, geçerli müşterilerinizin ihtiyaçlarını karşılayacak ve olası bir şekilde tanınabilir olacak şekilde tasarlanmıştır. Microsoft iş ortaklarının elit katmanına katılın ve iş ortaklarınızı öne çıkarın.
 
-Uzmanlıklar hakkında daha fazla bilgi edinmek için aşağıdaki kaynakları gözden geçirin:
+Yetkinlikler hakkında daha fazla bilgi edinmek için aşağıdaki kaynakları gözden geçirme:
 
-- [Uzmanlığa sahip iş ortakları](https://partner.microsoft.com/membership/competencies)
+- [Uzmanlık iş ortakları](https://partner.microsoft.com/membership/competencies)
 
 ## <a name="microsoft-partner-network-benefits-and-requirements"></a>Microsoft İş Ortağı Ağı avantajları ve gereksinimleri
 
-Microsoft İş Ortağı Ağı katılırsanız, olanaklarınızı güçlendirirken zamandan ve paradan tasarruf etmenize yardımcı olabilecek bir dizi temel avantaj alırsınız, müşterileri daha iyi bir şekilde sunar ve tüm iş potansiyellerinize ulaşmak için bağlantı oluşturabilirsiniz. 
+Bu hizmete Microsoft İş Ortağı Ağı özelliklerinizi güçlendirirken, müşterilere daha iyi hizmet ederken ve tam iş potansiyelinize ulaşmak için bağlantılar kurmanıza yardımcı olacak bir dizi temel avantaj elde edersiniz. 
 
-Ağ avantajları ve gereksinimleri hakkında daha fazla bilgi edinmek için aşağıdaki kaynakları gözden geçirin:
+Ağ avantajları ve gereksinimleri hakkında daha fazla bilgi edinmek için aşağıdaki kaynakları gözden geçirme:
 
 - [Temel avantajlar](https://partner.microsoft.com/membership/core-benefits#simple-tab-content-1)
-- [MPN avantajlarınızı Iş Ortağı Merkezi 'nde yönetin](manage-your-partner-network-benefits.md)
+- [MpN avantajlarınızı İş Ortağı Merkezi](manage-your-partner-network-benefits.md)
 - [Temel gereksinimler](https://partner.microsoft.com/membership/core-benefits#simple-tab-content-2)
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-- [Microsoft iş ortağı işletmenizi büyütün](grow-your-business.md)
-- [MPN Web sitesi](https://partner.microsoft.com/commercial).
+- [Microsoft iş ortağı iş ortağınızı büyüt](grow-your-business.md)
+- [MPN web sitesi.](https://partner.microsoft.com/commercial)

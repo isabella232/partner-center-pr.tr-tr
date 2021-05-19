@@ -1,6 +1,6 @@
 ---
 title: Lisans tabanlı faturalama
-description: Lisans tabanlı faturalandırma 'nin, Iş Ortağı Merkezi 'nde, lisans başına faturalandırıldığınız (lisans kullanımına göre değil), kullanım tabanlı faturalandırma 'den farklı olduğunu öğrenin.
+description: Lisans tabanlı faturalamanın, lisans başına nasıl faturalandırıldık (lisans kullanımına göre değil) dahil olmak üzere İş Ortağı Merkezi'daki kullanım tabanlı faturalamadan nasıl farklı olduğunu öğrenin.
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,57 +9,52 @@ ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/18/2020
-ms.openlocfilehash: 007a15091a018755c60c4e02c394ad31868d4233
-ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
+ms.openlocfilehash: 8232ab784611a04990044049c16e84c1a47b9567
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "106179420"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151840"
 ---
-# <a name="license-based-billing-in-partner-center"></a>Iş Ortağı Merkezi 'nde lisans tabanlı faturalandırma
+# <a name="license-based-billing-in-partner-center"></a>İş Ortağı Merkezi'de lisans tabanlı faturalama
 
-**Uygun roller**
+**Uygun roller:** Genel yönetici | Kullanıcı yönetimi yönetici | Faturalama yöneticisi | Yönetici aracısı
 
-- Genel yönetici
-- Kullanıcı Yönetimi Yöneticisi
-- Faturalama yöneticisi
-- Yönetim Aracısı
+Lisans gerektiren bir çevrimiçi hizmetler İş Ortağı Merkezi satın almak veya satın almak İş Ortağı Merkezi lisans *için* faturalandırabilirsiniz. Bu *lisanslar için kullanım* tarafından faturalandırlanmaz. (Kullanım tabanlı faturalama ve diğer faturalama türleri hakkında bilgi için [bkz.](./billing-basics.md)İş Ortağı Merkezi.)
 
-Iş Ortağı Merkezi 'ne **Lisans** gerektiren ürünler veya çevrimiçi hizmetler satın aldığınızda, satın aldığınız *her lisans için* faturalandırılırsınız. Bu lisanslar için kullanım için *faturalandırılırsınız* . (Kullanım tabanlı faturalandırma ve diğer faturalandırma türleri hakkında bilgi için bkz. [Iş Ortağı Merkezi 'nde faturalandırma türleri](billing-different-types.md).)
+## <a name="license-billing-frequency"></a>Lisans faturalama sıklığı
 
-## <a name="license-billing-frequency"></a>Lisans faturalandırma sıklığı
-
-Bir ay (**aylık faturalandırma**) veya yılda bir kez (**yıllık faturalandırma**) lisanslarda faturalandırmayı seçebilirsiniz. 
+Lisanslar için ayda bir kez (aylık faturalama) veya yılda **bir** kez (yıllık faturalama)**faturalandırılacak şekilde seçebilirsiniz.** 
 
 ## <a name="billing-date-for-licenses"></a>Lisanslar için faturalama tarihi
 
-Lisans tabanlı abonelikler, aboneliğin **yıldönümü** tarihinde önceden faturalandırılır. Yıldönümü tarihi, aboneliğin satın alındığı ayın günüdür.
+Lisans tabanlı abonelikler, aboneliğin yıldönümü tarihine göre önceden **fatura edilir.** Yıldönümü tarihi, aboneliği satın aldığınız ayın günü olur.
 
 Örnek:
 
-- 15 Ocak 'ta **aylık bir abonelik** satın aldıysanız, yıl dönümü tarihi her ayın 15 ' i olur.
-- 15 Ocak 'ta **yıllık bir abonelik** satın aldıysanız, yıldönümü tarihi her yıl 15 Ocak 'ta olur.
+- 15 **Ocak'ta aylık** abonelik satın aldıysanız yıldönümü tarihi her ayın 15'inde olacaktır.
+- 15 **Ocak'ta yıllık** abonelik satın aldıysanız yıl dönümü tarihi her yılın 15 Ocak tarihi olur.
 
-## <a name="license-term"></a>Lisans dönemi
+## <a name="license-term"></a>Lisans süresi
 
-Lisans tabanlı tüm abonelikler, satın alma tarihinde başlayan 12 aylık ücretli bir dönemi kapsar.
+Tüm lisans tabanlı aboneliklerin satın alma tarihinde başlayan 12 aylık ücretli dönemi vardır.
 
 ## <a name="license-cancellation"></a>Lisans iptali
 
-Lisansı, [Lisans dönemi](#license-term)boyunca dilediğiniz zaman iptal edebilirsiniz. Ancak, iptal ettiğiniz ay, iptal edilen lisans için ne kadar kredi alacağını etkiler.
+Lisans dönemi boyunca herhangi bir noktada lisansı iptal [edebilirsiniz.](#license-term) Ancak iptal etmek istediğiniz ay, iptal edilen lisans için ne kadar kredi alasınız?
 
-1. ayda bir aboneliği askıya alırsanız, %100 alacaklandırılcaksınız.
+1. ayda bir aboneliği askıya alırsanız %100 kredi alırsınız.
 
 Aboneliği 2-12 arası askıya aldıysanız, eşit dağıtılmış olarak alacaklandırılırsınız.
 
 ## <a name="license-renewal"></a>Lisans yenileme
 
-Tüm lisans tabanlı abonelikler, ücretli dönemde 12 ay sonra otomatik olarak yenileme işlemi başlar.
+Tüm lisans tabanlı abonelikler, ücretli dönem başladıktan 12 ay sonra otomatik olarak yeniler.
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
 - [Iş Ortağı Merkezi faturalandırmaya genel bakış](billing-basics.md)
 
-- [İş Ortağı Merkezi'ndeki faturalama türleri](billing-different-types.md)
+- [İş Ortağı Merkezi'ndeki faturalama türleri](./billing-basics.md)
 
 - [Ana faturalandırma ve vergi makaleleri](billing.md)

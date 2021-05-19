@@ -9,21 +9,16 @@ author: Brentserbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 363c97b8c2b62e8d6b62cbe3b2807fb3c0ef3e38
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: 5ba6992eff64031aed0dafeb5a5010983396ab63
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106132749"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151653"
 ---
 # <a name="migrate-dynamics-365-and-customer-engagement-plan-from-basic-qualified-offers-to-newer-versions"></a>Dynamics 365 ve Müşteri Etkileşimi Planı’nı Temel’den (uygun teklifler) daha yeni sürümlere geçirme
 
-**Uygun roller**
-
-- Genel yönetici
-- Kullanıcı Yönetimi Yöneticisi
-- Yönetim Aracısı
-- Satış Aracısı
+**Uygun roller**: genel yönetici | Kullanıcı Yönetimi Yöneticisi | Yönetici Aracısı | Satış Aracısı
 
 1 Ocak 2019 ' den itibaren, temel (nitelikli teklifler) aboneliklerden satış/müşteri katılım planı için Dynamics 365 olan müşteriler bu eski teklifleri artık yenilemez; mevcut abonelikler, süreleri dolduğunda otomatik olarak yenilenmeyecektir. Aboneliğin ayrıntı sayfasında, abonelik durumu "otomatik yenilemede [Tarih]" içinden "süresi doluyor" olarak değişir. 
 
@@ -41,31 +36,31 @@ API 'YI (CREST veya Partner Center) kullanıyorsanız, Otomatik Yenile = false �
 - Dynamics 365 for Sales Enterprise Edition for CRM Basic (uygun teklif) için ŞA
 - Öğrenciler için Dynamics 365 for Sales Enterprise Edition for CRM Basic (nitelikli teklif)
 - Dynamics 365 for Sales Enterprise Edition (kamu fiyatlandırması) için SA 'Dan CRM temel (nitelikli teklif)
-- Dynamics 365 for Sales Enterprise Edition Add-On for CRM Basic (nitelikli teklif)
-- Dynamics 365 for Sales Enterprise Add-On Edition for CRM Basic (uygun teklif)-Fakülteler
-- Öğrenciler için Dynamics 365 for Sales Enterprise Edition Add-On for CRM Basic (nitelikli teklif)
-- Sales Enterprise Edition için Dynamics 365 (kamu fiyatlandırması) Add-On for CRM Basic (nitelikli teklif)
-- Dynamics 365 müşteri katılımı planı Enterprise Edition CRMOL Basic (nitelikli teklif)
-- Dynamics 365 müşteri katılımı planı Enterprise Edition (kamu fiyatlandırması) CRMOL temel (nitelikli teklif)
-- Öğrenciler için Dynamics 365 müşteri katılımı planı Enterprise Edition CRMOL Basic (nitelikli teklif)
-- Dynamics 365 müşteri katılımı planı, Fakülteler için Enterprise Edition CRMOL Basic (nitelikli teklif)
-- Dynamics 365 müşteri katılımı planı CRM temel için SA 'Dan Enterprise Edition (nitelikli teklif)
-- Dynamics 365 müşteri katılımı planı Enterprise Edition (kamu fiyatlandırması) için SA 'Dan CRM temel (nitelikli teklif)
-- Dynamics 365 müşteri katılımı planı, öğrenciler için CRM Basic (nitelikli teklif) için SA 'Dan Enterprise Edition
-- Dynamics 365 müşteri katılımı planı, Fakülteler için CRM Basic (nitelikli teklif) için SA 'Dan Enterprise Edition
-- Dynamics 365 müşteri katılımı planı Add-On Enterprise Edition for CRM Basic (nitelikli teklif)
-- Dynamics 365 müşteri katılımı planı Enterprise Edition (kamu fiyatlandırması) Add-On for CRM Basic (nitelikli teklif)
-- Dynamics 365 müşteri katılımı planı öğrenciler için Enterprise Edition Add-On for CRM Basic (nitelikli teklif)
-- Dynamics 365 müşteri katılımı planı CRM Basic için Enterprise Edition Add-On, Fakülteler için
+- CRM Basic için Dynamics 365 for Sales Enterprise Sürümü Add-On (Nitelikli Teklif)
+- Fakülteler için DYNAMICS 365 for Sales Enterprise Sürümü Add-On CRM Basic (Nitelikli Teklif)
+- Dynamics 365 for Sales Enterprise Sürümü Add-On for CRM Basic (Öğrenciler için Nitelikli Teklif)
+- Dynamics 365 for Sales Enterprise Sürümü (Kamu Fiyatlandırması) Add-On CRM Temel (Nitelikli Teklif)
+- DYNAMICS 365 Müşteri Katılımı Planı Enterprise Sürümü CRMOL Basic (Nitelikli Teklif)
+- Dynamics 365 Customer Engagement Plan Enterprise Sürümü (Kamu Fiyatlandırması) CRMOL Temel (Nitelikli Teklif)
+- Dynamics 365 Müşteri Katılımı Planı Enterprise Sürümü CRMOL Basic (Nitelikli Teklif)
+- Dynamics 365 Müşteri Katılımı Planı Enterprise Sürümü CRMOL Basic (Nitelikli Teklif)
+- Dynamics 365 Customer Engagement Planı Enterprise Sürümü CRM Basic için SA'dan (Nitelikli Teklif)
+- DYNAMICS 365 Customer Engagement Plan Enterprise Sürümü (Kamu Fiyatlandırması) FROM SA for CRM Basic (Nitelikli Teklif)
+- Dynamics 365 Müşteri Katılımı Planı Enterprise Sürümü CRM Temel (Nitelikli Teklif) için SA'dan Eğitim
+- Dynamics 365 Müşteri Katılımı Planı Enterprise Sürümü CRM Temel (Nitelikli Teklif) için SA'dan Öğretim Üyeleri
+- DYNAMICS 365 Customer Engagement Plan Enterprise Sürümü Add-On for CRM Basic (Nitelikli Teklif)
+- DYNAMICS 365 Customer Engagement Plan Enterprise Sürümü (Kamu Fiyatlandırması) Add-On CRM Temel (Nitelikli Teklif)
+- Dynamics 365 Customer Engagement Plan Enterprise Sürümü Add-On for CRM Basic (Nitelikli Teklif)
+- Dynamics 365 Customer Engagement Plan Enterprise Sürümü Add-On for CRM Basic (Nitelikli Teklif) for Faculty
 
 
 
-## <a name="dynamics-365-for-sales-customer-engagement-plan-from-basic-qualified-offers-replacement-plans"></a>Temel (nitelikli teklifler) değiştirme planlarından satış/müşteri katılım planına yönelik Dynamics 365
+## <a name="dynamics-365-for-sales-customer-engagement-plan-from-basic-qualified-offers-replacement-plans"></a>Temel (Nitelikli Teklifler) değiştirme planlarından Dynamics 365 for Sales/ Customer Engagement Planı
 
-**Kullanımdan kaldırılan teklifler**   
+**Kaldıran teklifler**   
 
-- CRM Basic veya CRMOL Basic 'ten (nitelikli teklif) satış için Dynamics 365
-- Dynamics 365 müşteri katılımı planı CRM Basic veya CRMOL Basic (nitelikli teklif)
+- CRM Basic veya CRMOL Basic'ten Dynamics 365 for Sales (Nitelikli Teklif)
+- CRM Basic veya CRMOL Basic'ten Dynamics 365 Customer Engagement Planı (Nitelikli Teklif)
 
 **Değiştirme seçenekleri**
 - Sales Professional için Dynamics 365 (yenı)
@@ -96,14 +91,14 @@ Müşterinizin artık hem eski hem de yeni bir abonelik olacak. Bir sonraki adı
 2. **Kullanıcılar ve lisanslar ' ı** seçin.
 3. Bir kullanıcıya bir lisansı yeniden atamak için kullanıcıyı seçin ve ardından **Lisansları Yönet**' i seçin. 
 4. **Lisansları Yönet** sayfasında, temel (nitelikli teklif) lisanstan satış/müşteri katılım planı için Dynamics 365 ' i temizleyin ve müşterinin taşınmakta olduğu abonelik için yeni bir hizmet planı seçin. 
-5. **Gönder**’i seçin. Bunu, yeni lisansa ihtiyacı olan her kullanıcı için yapabilirsiniz. 
+5. **Gönder**’i seçin. Bunu yeni lisansa ihtiyacı olan her kullanıcı için yapacaktır. 
 
-Lisansları yeni aboneliğe taşındıktan sonra eski aboneliği iptal edebilirsiniz. 
+Lisansları yeni aboneliğe taşıdıktan sonra eski aboneliği iptal edebilirsiniz. 
 
-1. Sol gezinti çubuğunda **müşteriler** ' i seçin ve ardından taşıdığınız müşteriyi seçin.
-2. Abonelik Ayrıntıları sayfasında, eski aboneliği **askıya alındı** olarak ayarlayın ve **Gönder**' i seçin.
+1. Sol **gezinti** çubuğundan Müşteriler'i ve ardından hareket halindeki müşteriyi seçin.
+2. Abonelik ayrıntıları sayfasında eski aboneliği Askıya Alındı olarak ayarlayın ve **Gönder'i** **seçin.**
 
-Eski abonelik artık askıya alındı ve yeni abonelik etkin. Askıya alınan abonelik 120 gün sonra otomatik olarak sağlanacaktır. Müşterinizin eski abonelik için ek ücret ödemeyecektir.
+Eski abonelik artık askıya alınır ve yeni abonelik etkindir. Askıya alınan abonelik, 120 gün sonra otomatik olarak sağlanacak. Müşteriniz eski abonelik için ek ücret ödemez.
  
 
  

@@ -1,52 +1,50 @@
 ---
-title: Logo Oluşturucu kullanarak Iş ortağı logosu, sertifikalı mektup veya ödül oluşturma
+title: Logo Oluşturucu kullanarak İş Ortağı Logosu, Sertifikalı Harf veya Ödül oluşturma
 ms.topic: article
 ms.date: 03/23/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Şirketinizin altın veya gümüş bir uzmanlığı varsa şirketiniz için özelleştirilmiş bir logo oluşturun veya Iş Ortağı Merkezi 'nde logo Oluşturucu aracını kullanarak özelleştirilmiş bir sertifikalı mektup doğrulaması isteyin.
+description: Şirketinizin altın veya gümüş uzmanlıkları varsa, şirket için özelleştirilmiş bir logo üretin veya şirket içinde Logo Oluşturucu aracını kullanarak özelleştirilmiş bir sertifikalı doğrulama İş Ortağı Merkezi.
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 40b2867695a7692cb863a00062101c2b5521c657
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: 72be76473dcb7afd3f8d6ae60d79599b10c025fc
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106132409"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152265"
 ---
-# <a name="how-to-create-a-partner-logo-certified-letter-or-award-using-logo-builder"></a>Logo Oluşturucu kullanarak iş ortağı logosu, sertifikalı mektup veya ödül oluşturma
+# <a name="how-to-create-a-partner-logo-certified-letter-or-award-using-logo-builder"></a>Logo Builder'ı kullanarak iş ortağı logosu, sertifikalı harf veya ödül oluşturma
 
-**Uygun roller**
+**Uygun roller:** Logo Builder hakkında daha fazla bilgi öğrenmek isteyen tüm iş ortakları
 
-- Logo Oluşturucu hakkında daha fazla bilgi edinmek isteyen tüm iş ortakları
+Gümüş veya altın uzmanlık elde etme değeri, müşterilerle ayırt etme fırsatıdır. Elde edilen yetkinliği veya yetkinlikleri göstermek için İş Ortağı Merkezi ve pazarlama malzemeleriniz ile İş Ortağı Merkezi profilinizde kullanabileceğiniz bir logo uzmanlık avantajlarınıza dahil edilir. 
 
-Gümüş veya altın bir uzmanlığa erişme değeri, müşterilerle farklılaştırmanıza yönelik bir fırsattır. İş Ortağı Merkezi 'nde satış ve pazarlama malzemeleriniz ve iş profiliniz için kullanabileceğiniz bir logo, kullanıma sunulan uzmanlığa veya uzmanlığa sahip olduğunuz uzmanlık avantajlarına dahil edilmiştir. 
+Azure Uzman MSP programına kabul edildiysanız, yılın iş ortağı ödülü aldıysanız veya Microsoft Eylem Paketi'i satın aldıysanız, bu programlara katılımınız için logolar Logo Oluşturucu'da da kullanılabilir. Varlıklarınızı depolamak için Logo Builder'daki kitaplığı kullanabilir ve satış ve pazarlama malzemeleri oluşturmak için hazır olduğunda bunları indirebilirsiniz. 
 
-Azure Expert MSP programına kabul edildiyse, yıl ödülü 'nin bir ortağını almış veya Microsoft Eylem Paketi satın almış olmanız durumunda, bu programlara katılımınız için logo, logo Oluşturucu 'da da kullanılabilir. Varlıklarınızı depolamak için logo Oluşturucu 'daki kitaplığı kullanabilir ve satış ve pazarlama malzemeleri oluşturmaya hazırsanız bunları indirebilirsiniz. 
+## <a name="what-is-available-in-logo-builder"></a>Logo Builder'da neler bulunur?
 
-## <a name="what-is-available-in-logo-builder"></a>Logo Oluşturucu 'da neler mevcuttur
+Logo Builder'da şirketiniz tarafından kullanılabilen logolar, şirket (MPN) Microsoft İş Ortağı Ağı uyumlu olur. MPN üyeliğinizin bir değişikliğinin (örneğin, yeni bir yetkinliğe sahip olmak) yansıt olması 24 saat kadar sürer.
 
-Logo Oluşturucu 'da şirketinizin kullanabildiği Amblemler Microsoft İş Ortağı Ağı (MPN) üyeliğinizdeki olarak hizalanır. MPN üyeliğinizdeki bir değişikliğin, yeni bir uzmanlığa sahip olma gibi, yansıtılmasına kadar 24 saate kadar sürer.
+Logo Builder'da oluştur şunları içerir:
 
-Logo Oluşturucu 'da oluşturabileceğiniz varlıklar şunları içerir:
+- Şirketinizin sahip olduğu yetkinlikleri ve gelişmiş uzmanlıkları doğrular onaylı harf
 
-- Şirketiniz tarafından verilen uzmanlık ve gelişmiş uzmanlık özelliklerini doğrulayan sertifikalı mektup
+- Gold uzmanlık logosuyla iş ortağı
 
-- Altın uzmanlık logosu olan iş ortağı
+- Silver uzmanlık logosuyla iş ortağı
 
-- Gümüş uzmanlık logosu olan iş ortağı
+- Azure Uzman MSP logosu
 
-- Azure Expert MSP logosu
+- İş ortağı ödülleri logoları
 
-- İş ortağı Ödülleri logosu
+- Microsoft Eylem Paketi'i satın alan iş ortakları için logo
 
-- Microsoft Eylem Paketi satın almış iş ortakları logosu
+## <a name="create-a-logo-using-logo-builder"></a>Logo Oluşturucusu'nu kullanarak logo oluşturma
 
-## <a name="create-a-logo-using-logo-builder"></a>Logo Oluşturucu kullanarak logo oluşturma
-
-Amblem Oluşturucu profiliniz, amblem Builder 'ın kuruluşunuz hakkında depoladığı bilgileri içerir ve yalnızca sizin bilgileriniz içindir.
+Logo Builder profiliniz, Logo Builder'ın kuruluş hakkında depolana bilgileri içerir ve yalnızca sizin bilginiz içindir.
 
 Farklı iş konumları için farklı Amblemler oluşturduysanız, MPNıD seçiciyi kullanarak görüntülemek/oluşturmak istediğiniz iş konumunu seçebilirsiniz.
 

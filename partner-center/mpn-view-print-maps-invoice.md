@@ -9,22 +9,16 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b61fd5c3c68b3bbd9396cf55a53c22b85523d976
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: c3ea3fae2ae8052b517bfb80e16614c4708a253b
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106132800"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151296"
 ---
 # <a name="invoices-and-taxes-in-the-microsoft-partner-network"></a>Microsoft İş Ortağı Ağı faturalar ve vergiler
 
-**Uygun roller**
-
-- Genel yönetici
-- Kullanıcı Yönetimi Yöneticisi
-- MPN iş ortağı Yöneticisi
-- Faturalama yöneticisi
-- Yönetim Aracısı
+**Uygun roller**: genel yönetici | Kullanıcı Yönetimi Yöneticisi | MPN iş ortağı Yöneticisi | Faturalandırma Yöneticisi | Yönetim Aracısı
 
 ## <a name="view-or-download-your-mpn-membership-invoice"></a>MPN üyelik faturanızı görüntüleyin veya indirin
 
@@ -47,18 +41,18 @@ Bu yordamı gerçekleştirmek için bir genel yönetici veya MPN Iş ortağı y�
 
 3.  Formu doldurun. **Sorun türü** için **profilimi yönetemez**' ı seçin. Açıklamada MPN KIMLIĞINIZI ekleyin.
 
-4.  Bilet gönderdikten sonra, Microsoft daha fazla bilgi edinmek için size e-posta gönderir. Yanıt gönderdiğinizde, vergi muafiyet sertifikalarınız için uygun destekleyici belgeleri iliştirin.
+4.  Bileti gönderdikten sonra, daha fazla bilgi almak için Microsoft size e-posta ile iletir. Yanıtlayınca, vergi muafiyeti sertifikalarınız için uygun destek belgelerini iliştirin.
 
-## <a name="send-microsoft-your-vat-id-number"></a>Microsoft KDV KIMLIK numaranızı gönderin
+## <a name="send-microsoft-your-vat-id-number"></a>Microsoft'a KDV No numarasını gönderin
 
-1.  Iş Ortağı Merkezi [panosundan](https://partner.microsoft.com/dashboard/home) **Üyelik teklifleri**' ni seçin ve **kullanılabilir**' ı seçin. 
+1.  Panodan İş Ortağı Merkezi [Üyelik](https://partner.microsoft.com/dashboard/home) **teklifleri'ne ve ardından** Kullanılabilir'i **seçin.** 
 
-2.  **KDV kimliğinizi Ekle**' yi seçin. 
+2.  KDV **No'larınızı ekleyin'i seçin.** 
 
-3.  Şirketinizin KDV numarasını girin, **Ekle**' yi seçin ve ardından **İleri**' yi seçin. 
+3.  Şirketinizin KDV No'larını girin, **Ekle'yi ve** ardından Sonraki'yi **seçin.** 
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-- [Iş Ortağı Merkezi faturalandırmaya genel bakış](billing-basics.md)
+- [Faturalamaya İş Ortağı Merkezi bakış](billing-basics.md)
 
-- [Stopaj vergisi için kredi al](withholding-tax-credit-form.md)
+- [Stopaj vergisi için kredisini al](withholding-tax-credit-form.md)

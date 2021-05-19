@@ -4,63 +4,61 @@ ms.topic: article
 ms.date: 10/30/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Multi-Factor Authentication 'ı (MFA) etkinleştirmek ve güvenli uygulama modeli çerçevesini benimsemek için iş ortağı güvenlik gereksinimlerini tanıtır.
+description: Çok Faktörlü Kimlik Doğrulamasını (MFA) etkinleştirmek ve çok faktörlü kimlik doğrulama çerçevesini benimsemek için Güvenli Uygulama Modeli sunar.
 author: vijvala
 ms.author: vijvala
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b7fa76999d2e071f80c0175a8dfcbc1afe527bfc
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: 201ea34d30814974936da032805f1ee7dfa590be
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106087068"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110145856"
 ---
-# <a name="security-requirements-for-using-partner-center-or-partner-center-apis"></a>Iş ortağı merkezi veya Iş Ortağı Merkezi API 'Lerini kullanmaya yönelik güvenlik gereksinimleri
+# <a name="security-requirements-for-using-partner-center-or-partner-center-apis"></a>Api'leri veya İş Ortağı Merkezi için İş Ortağı Merkezi gereksinimleri
 
-**Uygun roller**
+**Uygun roller:** Tüm İş Ortağı Merkezi kullanıcılar
 
-- Tüm Iş Ortağı Merkezi kullanıcıları
-
-Bu makalede, kimlik doğrulama seçeneklerini ve diğer güvenlik konularını ve bulut çözümü sağlayıcısı programına katılan danışmanların, Denetim Masası satıcılarının ve iş ortaklarının zorunlu güvenlik gereksinimleri açıklanmaktadır. Gizlilik korumaları ve güvenlik, en iyi önceliklerimiz arasındadır. En iyi savunması önleme olduğunu ve yalnızca zayıf bağlantımız kadar güçlü olduğunu biliyoruz. Bu nedenle, ekosistemimizde herkesin işlem yapması ve uygun güvenlik korumalarının yerinde olduğundan emin olunması gerekir.
+Bu makalede, Bulut Çözümü Sağlayıcısı programına katılan Danışmanlar, Denetim Masası Satıcıları ve iş ortakları için zorunlu güvenlik gereksinimlerinin yanı sıra kimlik doğrulama seçenekleri ve diğer güvenlik konuları açıklanmıştır. Gizlilik korumaları ve güvenliği en önemli önceliklerimiz arasında yer almaktadır. En iyi savunmanın önleme olduğunu ve en zayıf bağlantımız kadar güçlü olduğunu biliyoruz. İşte bu nedenle ekosistemimiz içinde herkesin harekete geçsin ve uygun güvenlik korumalarının hazır olduğundan emin olasın.
 
 ## <a name="mandatory-security-requirements"></a>Zorunlu güvenlik gereksinimleri
 
-Zorunlu güvenlik gereksinimlerini uygulamayan iş ortakları, bulut çözümü sağlayıcısı programında Transact veya yönetici temsilcisi hakları kullanarak müşteri kiracılarını yönetemez. Ayrıca, güvenlik gereksinimlerini uygulamayan iş ortakları, risk altındaki programlara katılımını uygulayabilir. İş ortağı güvenlik gereksinimleriyle ilişkili şartlar Microsoft Iş ortağı Sözleşmesi ' ne eklenmiştir. Danışmanlarıyla ilgili olarak, sözleşmeli gereksinimlerin de aynı olması gerekir.
+Zorunlu güvenlik gereksinimlerini uygulamayan iş ortakları, yönetici temsilcisi haklarını kullanarak Bulut Çözümü Sağlayıcısı programıyla işlem gerçekleştire Bulut Çözümü Sağlayıcısı müşteri kiracılarını yönete etmez. Buna ek olarak, güvenlik gereksinimlerini uygulamayan iş ortakları programlara katılımını riske atabilirsiniz. İş ortağı güvenlik gereksinimleriyle ilişkili koşullar, Microsoft İş Ortağı Sözleşmesi. Danışmanlar ile ilgili olarak, aynı sözleşme gereksinimleri yerine gelecektir.
 
-Sizi ve müşterilerinizi korumak için iş ortaklarının aşağıdaki eylemleri hemen ele geçirmesine gerek duyuluyoruz:  
+Sizi ve müşterilerinizi korumak için iş ortaklarının aşağıdaki eylemleri hemen gerçekleştirerek işlemlerden birini gerçekleştirin:  
 
-1. **İş ortağı kiracınızdaki tüm Kullanıcı hesapları için Multi-Factor Authentication 'ı (MFA) etkinleştirin**. İş ortağı kiracınızdaki tüm Kullanıcı hesaplarında MFA 'yı zorunlu kılabilirsiniz. Kullanıcılar, Microsoft ticari bulut hizmetlerinde oturum açtıklarında veya Iş Ortağı Merkezi aracılığıyla veya API 'Ler aracılığıyla bulut çözümü sağlayıcısı programında Transact, MFA 'ya göre öncelikli olmalıdır.
+1. **İş ortağı kiracınız içinde tüm kullanıcı hesapları için çok faktörlü kimlik doğrulamasını (MFA) etkinleştirin.** İş ortağı kiracıları içinde tüm kullanıcı hesaplarında MFA zorlamanız gerekir. Microsoft ticari bulut hizmetlerinde oturum açmaları veya Bulut Çözümü Sağlayıcısı aracılığıyla veya API'ler aracılığıyla İş Ortağı Merkezi kullanıcılardan MFA tarafından zorlanabilecek.
 
-2. **Güvenli uygulama modeli çerçevesini benimseyin**. Iş Ortağı Merkezi API 'Leriyle Tümleştirdiğiniz tüm iş ortakları, tüm uygulama ve Kullanıcı kimlik doğrulama modeli uygulamaları için [güvenli uygulama modeli çerçevesini](/partner-center/develop/enable-secure-app-model) benimsemelidir.
+2. **Güvenli Uygulama Modeli benimseyen.** İş Ortağı Merkezi API'leriyle tüm iş ortaklarının tüm [uygulama ve Güvenli Uygulama Modeli](/partner-center/develop/enable-secure-app-model) kimlik doğrulama modeli uygulamaları için Güvenli Uygulama Modeli çerçevesini benimsemesi gerekir.
 
     > [!IMPORTANT]
-    > İş ortaklarının, Azure Resource Manager veya Microsoft Graph gibi bir Microsoft API 'siyle tümleştirme için ya da MFA zorlandığında herhangi bir kesinti yaşamamak için Kullanıcı kimlik bilgilerini kullanarak PowerShell gibi otomasyondan yararlanmak üzere güvenli uygulama modelini uygulamanızı önemle öneririz.
+    > İş ortaklarının Azure Resource Manager veya Microsoft Graph gibi bir Microsoft API'si ile tümleştirme için Güvenli Uygulama Modeli'yi veya MFA zorlandıktan sonra kesinti yaşanmaması için PowerShell gibi otomasyondan kullanıcı kimlik bilgilerini kullanarak kullanmalarını kesinlikle öneririz.
 
-Bu güvenlik gereksinimleri, altyapınızın korunmasına ve müşterilerinizin verilerini hırsızlık veya diğer sahtekarlık olaylarını belirlemek gibi olası güvenlik risklerine karşı korumanıza yardımcı olur.  
+Bu güvenlik gereksinimleri altyapınızı korumaya ve müşteri verilerinizi hırsızlık veya diğer sahtekarlık olaylarını tanımlama gibi olası güvenlik risklerinden korumaya yardımcı olur.  
 
-## <a name="implementing-multi-factor-authentication"></a>Multi-Factor Authentication uygulama
+## <a name="implementing-multi-factor-authentication"></a>Çok faktörlü kimlik doğrulamasını uygulama
 
-İş ortağı güvenlik gereksinimleriyle uyum sağlamak için, iş ortağı kiracınızdaki her kullanıcı hesabı için MFA 'yı uygulamanız ve zorunlu kılabilirsiniz. Bunu aşağıdaki yollardan birini yapabilirsiniz:
+İş ortağı güvenlik gereksinimlerine uymak için, iş ortağı kiracınız içinde her kullanıcı hesabı için MFA'nın uygulanması ve uygulanması gerekir. Bunu aşağıdaki yöntemlerden birini gerçekleştirebilirsiniz:
 
-- [Azure Active Directory (Azure AD) güvenlik varsayılanlarını](/azure/active-directory/conditional-access/concept-conditional-access-security-defaults)uygulayın. [Sonraki bölümde](#security-defaults)daha fazla bilgi bulabilirsiniz.
+- Uygulama [Azure Active Directory (Azure AD) güvenlik varsayılanları.](/azure/active-directory/conditional-access/concept-conditional-access-security-defaults) Sonraki bölümde daha [fazla bilgi bulabilirsiniz.](#security-defaults)
 
-- Her Kullanıcı hesabı için Azure Active Directory Premium satın alın. Daha fazla bilgi için bkz. [Azure AD Multi-Factor Authentication dağıtımı planlaması](/azure/active-directory/authentication/howto-mfa-getstarted).
+- Her Azure Active Directory Premium hesabı için satın alma hesabı. Daha fazla bilgi için [bkz. Azure AD Multi-Factor Authentication dağıtımı planlama.](/azure/active-directory/authentication/howto-mfa-getstarted)
 
-- İş ortağı kiracınızdaki her kullanıcı hesabı için MFA 'yı zorlamak üzere bir üçüncü taraf çözümü kullanın. Çözümün beklenen çözümü sağlayacağız emin olmak için, bkz. [güvenlik gereksinimlerinin nasıl zorlanacağını](#how-the-requirements-are-enforced).
+- İş ortağı kiracınız içinde her kullanıcı hesabı için MFA'nın zorunlu tutulacak bir üçüncü taraf çözümü kullanın. Çözümün beklenen çözümü sağlamalarını sağlamak için güvenlik [gereksinimlerinin nasıl uygulanacaklarına bakın.](#how-the-requirements-are-enforced)
 
 > [!NOTE]
-> Çok faktörlü kimlik doğrulaması, bir sogeign bulutu için gerekli olmasa da (ABD devlet ve Almanya), bu güvenlik gereksinimlerini benimsemeniz kesinlikle önerilir.
+> Çok faktörlü kimlik doğrulaması, bağımsız bir bulut (ABD Kamu ve Almanya) için sözleşmeye dayalı olarak gerekli değildir ancak bu güvenlik gereksinimlerini benimsemenizi kesinlikle öneririz.
 
 ### <a name="security-defaults"></a>Güvenlik varsayılanları
 
-İş ortaklarının MFA gereksinimlerini uygulamak için seçim seçebileceğine ilişkin seçeneklerden biri, Azure AD 'de güvenlik varsayılanlarını etkinleştirmektir. Güvenlik Varsayılanları, ek ücret ödemeden temel düzeyde güvenlik sunar. Azure AD ile kuruluşunuz için MFA 'yı etkinleştirme ve güvenlik varsayılanlarını etkinleştirmeden önce aşağıdaki önemli noktalar hakkında gözden geçirin.
+İş ortaklarının MFA gereksinimlerini uygulamak için seçecekleri seçeneklerden biri, Azure AD'de güvenlik varsayılanlarını etkinleştirmektir. Güvenlik varsayılanları ek ücret ödemeden temel bir güvenlik düzeyi sağlar. Azure AD ile MFA'nın nasıl etkinleştirildi ve güvenlik varsayılanlarını etkinleştirmeden önce aşağıdaki önemli noktalara göz atın.
 
-- Temel ilkelerini benimseyen iş ortaklarının, güvenlik varsayılanlarına geçiş yapmak için işlem yapması gerekir.
+- Temel ilkeleri zaten benimseyen iş ortaklarının güvenlik varsayılanlarına geçiş yapmak için eyleme geçmelisiniz.
 
-- Güvenlik Varsayılanları, önizleme temeli ilkelerinin genel kullanıma sunulduğuna yönelik olarak değişiklik yapar. Bir iş ortağı güvenlik varsayılanlarını etkinleştirdikten sonra, artık temel ilkeleri etkinleştiremeyecektir.
+- Güvenlik varsayılanları, önizleme temeli ilkelerinin genel kullanılabilirlik değiştirmesidir. İş ortağı güvenlik varsayılanlarını etkinleştirildiğinde, artık temel ilkeleri etkinleştiremeyecektir.
 
-- Güvenlik varsayılanları ile tüm ilkeler aynı anda etkin olur.
+- Güvenlik varsayılanları ile tüm ilkeler aynı anda etkinleştirilir.
 
 - [Koşullu erişim](/azure/active-directory/conditional-access/concept-conditional-access-policy-common)kullanan iş ortakları için [güvenlik Varsayılanları kullanılabilir](/azure/active-directory/fundamentals/concept-fundamentals-security-defaults#disabling-security-defaults)olmayacaktır.
 
@@ -85,27 +83,27 @@ MFA 'yı zorunlu kılmak için, eski kimlik doğrulama, IMAP, POP3, SMTP ve diğ
 
 #### <a name="do-you-have-office-365-users-with-licenses-associated-with-your-partner-tenant"></a>Office 365 kullanıcılarınıza iş ortağı kiracınızla ilişkili lisanslar mı var?
 
-Herhangi bir çözümü uygulamadan önce, iş ortağı kiracınızda Microsoft Office kullanıcıların hangi sürümlerinin kullandığını belirlemenizi öneririz. Kullanıcılarınız Outlook gibi uygulamalarla bağlantı sorunlarıyla karşılaşacaktır. MFA 'yı zorlamadan önce, Outlook 2013 SP1 veya sonraki bir sürümünü kullandığınızdan ve kuruluşunuzun modern kimlik doğrulamasının etkin olduğundan emin olmak önemlidir. Daha fazla bilgi için bkz. [Exchange Online 'da modern kimlik doğrulamayı etkinleştirme](/exchange/clients-and-mobile-in-exchange-online/enable-or-disable-modern-authentication-in-exchange-online). 
+Herhangi bir çözümü uygulamadan önce, iş ortağı kiracınızda Microsoft Office kullanıcıların hangi sürümlerinin kullandığını belirlemenizi öneririz. Kullanıcılarınız Outlook gibi uygulamalarla bağlantı sorunlarıyla karşılaşacaktır. MFA'yi zorlamadan önce, Outlook 2013 SP1 veya sonraki bir sonraki bir sp1'i kullanmak ve modern kimlik doğrulamasının etkinleştirildiğinden emin olmak önemlidir. Daha fazla bilgi için [bkz. Exchange Online'da modern kimlik doğrulamasını etkinleştirme.](/exchange/clients-and-mobile-in-exchange-online/enable-or-disable-modern-authentication-in-exchange-online) 
 
-Microsoft Office 2013 yüklü olan Windows çalıştıran cihazlarda modern kimlik doğrulamayı etkinleştirmek için iki kayıt defteri anahtarı oluşturmanız gerekir. Bkz. [Windows cihazlarda Office 2013 Için modern kimlik doğrulamasını etkinleştirme](/office365/admin/security-and-compliance/enable-modern-authentication).
+Microsoft Office 2013 yüklü Windows çalıştıran cihazlarda modern kimlik doğrulamasını etkinleştirmek için iki kayıt defteri anahtarı oluşturmanız gerekir. Bkz. [Windows cihazlarda Office 2013 için Modern Kimlik Doğrulamasını Etkinleştirme.](/office365/admin/security-and-compliance/enable-modern-authentication)
 
-#### <a name="is-there-a-policy-preventing-any-of-your-users-from-using-their-mobile-devices-while-working"></a>Kullanıcılarınız çalışırken kullanıcılarınızın mobil cihazlarını kullanmasını engellemiş bir ilke var mı?
+#### <a name="is-there-a-policy-preventing-any-of-your-users-from-using-their-mobile-devices-while-working"></a>Kullanıcılarınızı çalışırken mobil cihazlarını kullanmalarını engelleyen bir ilke var mı?
 
-Çalışanların mobil cihazları kullanmasını engelleyen herhangi bir kurumsal ilkeyi tanımlamak önemlidir çünkü bu, hangi MFA çözümünü uygulayacağınızı etkiler. [Azure AD güvenlik Varsayılanları](/azure/active-directory/conditional-access/concept-conditional-access-security-defaults)'nın uygulanmasıyla, yalnızca doğrulama için bir Authenticator uygulamasının kullanılmasına izin veren bir çözüm vardır. Kuruluşunuzun mobil cihazların kullanımını engellediği bir ilkesi varsa, aşağıdaki seçeneklerden birini göz önünde bulundurun:
+Çalışanların mobil cihazları kullanırken mobil cihazları kullanmalarını engelleyen herhangi bir şirket ilkesi belirlemek önemlidir çünkü bu, hangi MFA çözümünü uygulayanları etkiler. [Azure AD](/azure/active-directory/conditional-access/concept-conditional-access-security-defaults)güvenlik varsayılanları uygulaması aracılığıyla sağlanan ve yalnızca doğrulama için bir kimlik doğrulayıcı uygulamasının kullanımına izin verecek çözümler vardır. Kurumda mobil cihazların kullanımını engelleyen bir ilke varsa aşağıdaki seçeneklerden birini göz önünde bulundurabilirsiniz:
 
-- Güvenli sistem üzerinde çalışabilen zamana bağlı bir kerelik ana parola (TOTP) uygulaması dağıtın.
+- Güvenli sistemde çalıştırabilirsiniz zaman tabanlı bir kez temel parola (TOTP) uygulaması dağıtın.
 
-- En uygun doğrulama seçeneğini sağlayan iş ortağı kiracısındaki her kullanıcı hesabı için MFA 'yı zorlayan bir üçüncü taraf çözümü uygulayın.
+- İş ortağı kiracısı içinde en uygun doğrulama seçeneğini sağlayan her kullanıcı hesabı için MFA uygulayan bir üçüncü taraf çözümü uygulama.
 
-- Etkilenen kullanıcılar için [Azure Active Directory Premium](https://azure.microsoft.com/pricing/details/active-directory/) lisansları satın alın.
+- Etkilenen [Azure Active Directory Premium](https://azure.microsoft.com/pricing/details/active-directory/) için lisans satın alın.
 
-#### <a name="what-automation-or-integration-do-you-have-to-leverage-user-credentials-for-authentication"></a>Kimlik doğrulaması için Kullanıcı kimlik bilgileriyle hangi Otomasyon veya tümleştirmeyi kullanıyorsunuz?
+#### <a name="what-automation-or-integration-do-you-have-to-leverage-user-credentials-for-authentication"></a>Kimlik doğrulaması için kullanıcı kimlik bilgilerden faydalanmanız gereken otomasyon veya tümleştirme nedir?
 
-Hizmet hesapları da dahil olmak üzere her bir kullanıcı için MFA 'yı zorlayacağız, bu, kimlik doğrulaması için Kullanıcı kimlik bilgilerini kullanan tüm otomasyonu veya tümleştirmeyi etkileyecektir. Bu nedenle, bu durumlarda hangi hesapların kullanıldığını belirlemeniz önemlidir. Göz önünde bulundurmanız gereken örnek uygulamalar veya Hizmetler listesine bakın:
+İş ortağı dizininize hizmet hesapları dahil olmak üzere her kullanıcı için MFA'nın uygulanması, kimlik doğrulaması için kullanıcı kimlik bilgilerini kullanan tüm otomasyon veya tümleştirmeleri etkiler. Bu nedenle, bu durumlarda hangi hesapların kullanılıyor olduğunu tanımlamanız önemlidir. Dikkate alınarak aşağıdaki örnek uygulamalar veya hizmetler listesine bakın:
 
 - Müşterileriniz adına kaynak sağlamak için kullanılan denetim masası
 
-- Faturalandırma için kullanılan platformlarla Tümleştirme (CSP programı ile ilişkili olduğu gibi) ve müşterilerinizi destekleme
+- Faturalama için kullanılan tüm platformlarla tümleştirme (CSP programıyla ilgili olduğu gibi) ve müşterilerinize destek
 
 - Az, AzureRM, Azure AD, MS online ve diğer modülleri kullanan PowerShell betikleri
 

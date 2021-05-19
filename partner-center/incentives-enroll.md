@@ -1,45 +1,43 @@
 ---
-title: Teşvikleri kaydı
+title: Teşvik kaydı
 ms.topic: how-to
 ms.date: 04/15/2021
-description: Teşvikleri programına kaydolun ve Kullanıcı yönetimi için gerekli rolleri atayın. Bu makale, kayıt işlemini açıklar.
+description: Teşvik programına kaydolma ve kullanıcı yönetimi için gerekli rolleri atama. Bu makalede kayıt işlemi açıklanmıştır.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: c4e24c22790edddef02e7936eaef9ed788489a37
-ms.sourcegitcommit: 9f6be9bc8d9a065422d1ec8388bd770eb6cd9f33
+ms.openlocfilehash: 670fae58a9a0e25127eb746f38063ea300d5ee2f
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/16/2021
-ms.locfileid: "107528535"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152095"
 ---
-# <a name="enrollment-and-user-management-in-the-incentives-program"></a>Teşvikleri programında kayıt ve Kullanıcı Yönetimi
+# <a name="enrollment-and-user-management-in-the-incentives-program"></a>Teşvik programında kayıt ve kullanıcı yönetimi
 
-**Uygun roller**
-
-- Teşvikleri Yöneticisi
+**Uygun roller:** Teşvikler yöneticisi
 
 >[!NOTE]
->Teşvikleri programına kaydolabilmeniz için önce iş ortağı üyeliği merkezini Iş Ortağı Merkezi [geçişine](prepare-pmc-pc-migration.md)tamamlamış olmanız gerekir.
+>Teşvik programına kaydolmadan önce geçiş işlemini tamamlamış Partner Membership Center İş Ortağı Merkezi [gerekir.](prepare-pmc-pc-migration.md)
 
 Kayıt işlemi iki adımdan oluşur.
 
-**1. adım. Kullanıcı Yönetimi:** Bu adım Iş Ortağı Merkezi 'Nde teşvik yöneticisini oluşturmayı içerir.
+**1. Adım. Kullanıcı yönetimi:** Bu adım, İş Ortağı Merkezi.
 
-**2. adım. Kayıt:** Microsoft size, ister bir davetiyeyi ister bir davet gönderir.
+**2. Adım. Kayıt:** Microsoft size teşvik programınıza kaydolmanız için bir davet gönderir.
 
 ## <a name="user-management"></a>Kullanıcı Yönetimi
 
-Iş ortağı merkezi bir programa kaydolmak için genel yönetici veya hesap yöneticisinin şirket kullanıcılarınızı bir yönetici olarak ayarlaması gerekir. İş ortağı hesapları, roller ve izinler hakkında bilgi için bkz. [Iş Ortağı Merkezi hesabınızı yönetme](partner-center-account-setup.md). Genel yönetici Ayrıca şirket kullanıcılarınızı Azure Active Directory (Azure AD) aracılığıyla da ayarlayabilir.
+Bir İş Ortağı Merkezi programına kaydolmak için Genel yönetici veya Hesap yöneticisinin şirket kullanıcılarınızı Teşvik yöneticisi olarak ayarlaması gerekir. İş ortağı hesapları, roller ve izinler hakkında bilgi için [bkz. İş Ortağı Merkezi hesabı yönetme.](partner-center-account-setup.md) Bu Genel yönetici, şirket kullanıcılarınızı Azure Active Directory (Azure AD) aracılığıyla da ayarlamanızı sağlar.
 
 >[!NOTE]
->Yalnızca bir yönetici, teşvik programlarına kayıt yapabilir. Konumunuz için bir teşvik Yöneticisi yoksa, genel yönetici ve hesap yöneticisinin bir tane ataması gerekir. MPN kimlikleri için teşvik yöneticisi atanması gerekir. Küresel yönetici veya hesap yöneticisi, teşvik Yöneticisi olarak da atanabilir. Farklı roller hakkında daha fazla bilgi için bkz. [Manage teşvikleri](permissions-overview.md#manage-incentives).
+>Teşvik programlarına yalnızca Teşvik yöneticisi kaydolabilirsiniz. Konumunuz için Teşvik yöneticisi yoksa, Genel yönetici ve Hesap yöneticisi bir yönetici ataması gerekir. Konum MPN kimlikleri için Teşvik yöneticisi atanmalı. Genel yönetici veya Hesap yöneticisi, Teşvik yöneticisi olarak da atanabilir. Farklı roller hakkında daha fazla bilgi edinmek için [bkz. Teşvikleri yönetme.](permissions-overview.md#manage-incentives)
 
-## <a name="enrollment-process"></a>Kayıt Işlemi
+## <a name="enrollment-process"></a>Kayıt Süreci
 
-Kuruluşunuz teşvikleri için uygun olduğunda, Microsoft, kayıt işlemini başlatmak için uygun Mpnlocationıd 'ye yönelik bir davet gönderir. Bu e-posta **Microsoft Iş Ortağı Merkezi**' nden gönderilir ve Ilgili **Iş ortağına kayıt davetini teşvik** eder. Daveti açın ve **kullanmaya** başlayın ' ı seçin.
+Kuruluş teşviklere uygun olduktan sonra Microsoft, kayıt işleminin başlaması için uygun MPNLocationID'nin Teşvik yöneticisine bir davet gönderir. Bu e-posta **Microsoft** İş Ortağı Merkezi gönderilir ve konu İş Ortağı Teşvik Kayıt **Daveti'ne sahip olur.** Daveti açın ve **kullanmaya** başlayın ' ı seçin.
 
 Ayrıca Iş Ortağı Merkezi giriş sayfasında bir davet görürsünüz. Bu iletiyi seçtiğinizde, bir daha göremezsiniz. Ancak, bir yönetici, [Iş Ortağı Merkezi panosunda](https://partner.microsoft.com/dashboard/) oturum açarak ve sol gezinti çubuğunda **teşvikleri** ' nin altında **genel bakış** ' ı seçerek işlemi yine de tamamlamaya devam edebilir. **Kaydet**' i seçin ve ardından programın ödeme ve vergi profilini doldurun.
 
@@ -55,9 +53,9 @@ Kayıt işlemi hakkında daha fazla bilgi için, [teşvikleri kayıt kılavuzunu
 
 ## <a name="expiration-and-renewal"></a>Süre sonu ve yenileme
 
-Teşvikleri kaydı, mali yılın sonunda sona erer. Bununla birlikte, etkin bir anlaşmayla uygun bir iş ortağı olduğu sürece Microsoft, teşvikleri kaydınızı bir sonraki mali yıla geri iletir. Teşvik programı için gereken ödeme ve vergi bilgileri, teşvik programının kurallarına göre tamamlandığı sürece herhangi bir işlem yapmanız gerekmez.
+Teşvikleri kaydı, mali yılın sonunda sona erer. Ancak etkin bir sözleşmeye sahip uygun bir iş ortağı olarak kalarak teşvik kaydınızı bir sonraki mali yıla iletecek. Teşvik programı için gereken ödeme ve vergi bilgileri, teşvik programının kurallarına uygun olarak tamamlandıktan sonra herhangi bir işlem yapmak zorunda değildir.
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
 - [Programa uygun olup olmadığınızı belirleme](incentives-determined-your-program-eligibility.md)
-- [Ödeme ve vergi profillerinizi oluşturun ve yönetin](incentives-create-and-manage-your-payout-and-tax-profiles.md)
+- [Ödeme ve vergi profillerinizi oluşturma ve yönetme](incentives-create-and-manage-your-payout-and-tax-profiles.md)

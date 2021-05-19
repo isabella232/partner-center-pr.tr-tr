@@ -8,19 +8,16 @@ ms.subservice: partnercenter-mpn
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 26162b4164d3bb8f1572c460f431efab056e1a8a
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: c49b8de69d65a4417e9533a80f72c4bd2ef80b8f
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106132596"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152418"
 ---
 # <a name="demos-for-mpn-partners--microsoft-365-dynamics-365-teams-and-more"></a>MPN iş ortakları için tanıtımlar – Microsoft 365, Dynamics 365, takımlar ve daha fazlası
 
-**Uygun roller**
-
-- MPN iş ortağı Yöneticisi
-- Hesap yöneticisi
+**Uygun roller**: MPN iş ortağı Yöneticisi | Hesap Yöneticisi
 
 Microsoft İş Ortağı Ağı (MPN), gümüş, altın ve Eylem Paketi Iş ortakları için çok çeşitli tanıtımlar sağlar.
 

@@ -2,41 +2,38 @@
 title: Kullanılabilir ortak işlem fonlarını görüntüleme
 ms.topic: article
 ms.date: 01/03/2021
-description: Kazanılmış, talep edilen ve kalan ortak çalışma kredlerinizi görüntüleme, sona erme tarihlerini görüntüleme ve tutarsız miktarları mutabık kılma hakkında bilgi edinin.
+description: Kazanılan, talep edilen ve kalan ortak çalışma fonlarınızı görüntülemeyi, sona erme tarihlerini görüntülemeyi ve tutarsız tutarları muhtıra yapmayı öğrenin.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 5b9ff5ad5c2d20b25175830188981a18da9bc29a
-ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
+ms.openlocfilehash: 14706e44201159213dc8fff671a8d47c52bd89c1
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "106179437"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151908"
 ---
-# <a name="view-available-earned-claimed-and-remaining-co-op-funds"></a>Kullanılabilir kazanılan, talep edilen ve kalan ortak işlem fonlarını görüntüleyin
+# <a name="view-available-earned-claimed-and-remaining-co-op-funds"></a>Elde edilen, talep edilen ve kalan ortak çalışma fonlarını görüntüleme
 
-**Uygun roller**
+**Uygun roller:** Teşvik yöneticisi | Teşvikler kullanıcısı
 
-- Teşvikleri Yöneticisi
-- Teşvikleri kullanıcısı
+Teşvik işbirliği fonlarınızı panoda izleyebilir, izleyebilir ve muuzlaştırabilirsiniz (oturum [İş Ortağı Merkezi](https://partner.microsoft.com/dashboard/) gerekir). Bu fonlarını görüntülemek için aşağıdaki yordamı kullanın.
 
-[Iş Ortağı Merkezi panosunda](https://partner.microsoft.com/dashboard/) (oturum açma gerekir) özenizlerinizi izleyebilir, izleyebilir ve mutabık hale getirebilirsiniz. Bu fonları görüntülemek için aşağıdaki yordamı kullanın.
+## <a name="view-your-funds"></a>Fonlarınızı görüntüleme
 
-## <a name="view-your-funds"></a>Fonlarınızı görüntüleyin
+1. Azure AD [İş Ortağı Merkezi (şirket](https://partner.microsoft.com/dashboard/) hesabı) veya teşvik rolünüz için uygun e-posta ile panoda oturum açın.
 
-1. Azure AD hesabınızla (Şirket hesabı) [Iş Ortağı Merkezi panosunda](https://partner.microsoft.com/dashboard/) oturum açın ve özensiz rolünüzün uygun e-postasını yapın.
+2. **Ortak çalışma yönetimi'ne** ve ardından görmek istediğiniz kullanım dönemini seçin. Bu, Seçilen dönem **için Ortak çalışma kazanılmış,** Ortak çalışma talep **edilen** ve Kalan **ortak çalışma** miktarlarını görüntüler.
 
-2. **Ortak op yönetimi**' ni seçin ve ardından görmek istediğiniz kullanım süresini seçin. Bu işlem, seçili dönem için **ortak op kazanılan**, **ortak op** ve **kalan ortak op** tutarlarını görüntüler.
+3. Seçilen dönemin sona erme tarihi, Kalan ortak çalışma **görüntüsü altında** görünür.  
 
-3. Seçilen dönemin sona erme tarihi, **kalan ortak op** ekranı altında görünür.  
+4. Seçilen dönem için gönderilen tüm talepleri görüntülemek için sayfanın en altına kaydırın.
 
-4. Seçili dönem için gönderilen tüm talepleri görüntülemek için sayfanın en altına gidin.
+Özette görüntülenen tutarlarda tutarsızlıklar olduğunu inanıyorsanız, önceki dönemden işlem raporunu indirebilirsiniz. Bu rapor, seçilen kullanım dönemi için kazanılan ortak çalışma fonlarının miktarını belirlemenize yardımcı olur. İşlem raporlarını indirmek veya kalan ortak çalışma miktarının doğru olduğundan emin olmak için gönderilen talepleri doğrulamak için bkz. [İşlem geçmişi.](./payout-statement.md#transaction-history)
 
-Özette görüntülenen tutarlarda tutarsızlıklar olduğunu düşünüyorsanız, işlem raporunu önceki dönemden indirebilirsiniz. Bu rapor, seçili kullanım dönemi için kazanılan ortak işlem fonlarını belirlemenize yardımcı olur. İşlem raporlarını indirmek veya kalan ortak op tutarının doğru olduğundan emin olmak için gönderilen talepleri doğrulamak için bkz. [işlem geçmişi](./payout-statement.md#transaction-history).
-
-Miktarları mutabık kılma konusunda hala sorun yaşıyorsanız veya bazı ortak işlem fonları görünür değilse, bir destek bileti açabilirsiniz. Bunu yapmak için, sayfanın sağ üst köşesindeki soru işareti simgesini seçin ve ardından **teşvikleri**' ı seçin.
+Tutarlarda mutabakat sağlarken sorun devam ediyorsanız veya bazı işbirliği fonlarını görünmüyorsa bir destek bileti açtırın. Bunu yapmak için sayfanın sağ üst köşesindeki soru işareti simgesini ve ardından Teşvikler'i **seçin.**
 
 ## <a name="next-steps"></a>Sonraki adımlar
 

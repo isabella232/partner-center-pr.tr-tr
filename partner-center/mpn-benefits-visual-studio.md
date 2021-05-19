@@ -9,19 +9,16 @@ author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b64c15fd978ecf8d81d66a7814db74c6fd78824a
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: 24419f07084cab4899f1dac81140b5fea5f25b6b
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101758933"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152506"
 ---
 # <a name="explore-the-visual-studio-benefits-area-in-partner-center"></a>Iş Ortağı Merkezi 'nde Visual Studio avantajları alanını keşfet
 
-**Uygun roller**
-
-- Genel yönetici
-- MPN iş ortağı Yöneticisi
+**Uygun roller**: genel yönetici | MPN iş ortağı Yöneticisi
 
 ## <a name="overview"></a>Genel Bakış
 
@@ -40,14 +37,14 @@ Bu makalede, Iş Ortağı Merkezi içinden iş ortakları için sunulan Visual S
    > [!IMPORTANT]
    > Atamak istediğiniz Kullanıcı listede yoksa, hesap ayarlarına [Yeni Kullanıcı ekleyebilirsiniz](create-user-accounts-and-set-permissions.md) .
 
-4. Atamak istediğiniz her abonelik için bu işlemi tekrarlayın. Atanan Kullanıcı [Visual Studio portalında](https://my.visualstudio.com/) oturum açabilir ve aboneliği yönetebilir. [Visual Studio abone portalı](https://my.visualstudio.com/?wt.mc_id=o%7Emsft%7Edocs)'nda kullanıcılar, aboneliğini etkinleştirmek için kullandığınız kimliğe ek olarak alternatif bir kimlik ekleyebilir. [Burada Visual Studio aboneleri Için kimlikler](/visualstudio/subscriptions/vs-alternate-identity) hakkında daha fazla bilgi edinin.
+4. Atamak istediğiniz her abonelik için bu işlemi tekrarlayın. Atanan Kullanıcı [Visual Studio portalında](https://my.visualstudio.com/) oturum açabilir ve aboneliği yönetebilir. [Visual Studio abone portalı](https://my.visualstudio.com/?wt.mc_id=o%7Emsft%7Edocs)'nda kullanıcılar, aboneliğini etkinleştirmek için kullandığınız kimliğe ek olarak alternatif bir kimlik ekleyebilir. Abonelerin [kimlikleri hakkında daha fazla Visual Studio buradan okuyabilirsiniz.](/visualstudio/subscriptions/vs-alternate-identity)
 
    > [!Note]
-   > Özgün atamanın zamanından bu yana 90 gün geçtikten sonra Visual Studio abonelikleri bir aboneden diğerine yeniden atanabilir. Daha fazla bilgi için **[Microsoft Iş ortağı programları kılavuzunu okuyun.](https://aka.ms/partner-benefits-use-guide)**
+   > Visual Studio ilk atamadan bu yana 90 gün geçmişse abonelikler bir aboneden diğerine yeniden atanabilir. Daha fazla bilgi için **[Microsoft İş Ortağı Programları Kılavuzu'u okuyun.](https://aka.ms/partner-benefits-use-guide)**
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-[Microsoft İş Ortağı Ağı sunulan Visual Studio abonelikleri](/visualstudio/subscriptions/program-mpn)
+[Visual Studio sunulan abonelikleri Microsoft İş Ortağı Ağı](/visualstudio/subscriptions/program-mpn)
 
 [Kullanıcı ekleme ve izin atama](create-user-accounts-and-set-permissions.md)
 

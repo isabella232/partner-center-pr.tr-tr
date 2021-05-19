@@ -2,39 +2,36 @@
 title: MPN avantajı için para iadesi
 ms.topic: article
 ms.date: 02/05/2021
-description: MPN avantajı için bir para iadesi isteme ve uygun olması gereken ölçütler hakkında bilgi edinin.
+description: MPN avantajı için para iadesi isteği yapmayı ve uygun olmak için gereken ölçütleri öğrenin.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 39a925bbfccb720951a63f4e11207df4a3252200
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: 919a0187d3d999e935667bdbd6d565fb093fe6dd
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106132919"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151330"
 ---
-# <a name="request-a-refund-for-an-mpn-benefit"></a>MPN avantajı için bir para iadesi isteyin
+# <a name="request-a-refund-for-an-mpn-benefit"></a>MPN avantajı için para iadesi isteği
 
-**Uygun roller**
+**Uygun roller:** MPN iş ortağı yöneticisi | Hesap yöneticisi
 
-- MPN iş ortağı Yöneticisi
-- Hesap yöneticisi
+Bu makalede, MPN avantajı için para iadesi isteğiniz için karşılamanız gereken ölçütler listelemektedir.
 
-Bu makalede, MPN avantajı için bir para iadesi istediğinizde karşılamanız gereken ölçütler listelenir.
-
-## <a name="criteria-for-a-refund"></a>Para iadesi için ölçütler
-Satın aldığınız MPN avantajı (Eylem Paketi, Gümüş düzeyi veya altın düzeyi) için bir para iadesi talep edildiğinde, isteğiniz aşağıdaki ölçütlere uymalıdır:
+## <a name="criteria-for-a-refund"></a>Para iadesi ölçütleri
+Satın aldığınız MPN avantajı (Eylem Paketi, Gümüş düzeyi veya Altın düzeyi) için para iadesi isteğinde bulundurarak isteğinizin aşağıdaki ölçütlere uygun olması gerekir:
 
 - Satın alma son 30 gün içinde yapıldı
-- Tüm avantajlar etkinleştirilmemelidir/kullanılmamalıdır
-- Ürün anahtarlarının görüntülenmemesi gerekir (etkinleştirilmese de)
+- Tüm avantajlar etkinleştirilmeli/kullanılmamalı
+- Ürün anahtarları görüntüde yer almamalı (etkinleştirilmese bile)
 
-Vergi muafiyet ortakları için vergi para iadesi bir yıl boyunca kullanılabilir.
+Vergi muafiyeti iş ortakları için vergi iadeleri bir yıl boyunca kullanılabilir.
 
 >[!NOTE]
->Gümüş bir üyelik teklifiniz varsa ve bir altın üyelik teklifine yükseltmek için %25 Gold üyelik indirimi kullandıysanız, gümüş bir para iadesi için uygun değildir (30 gün içinde gümüş üyelik için ödeme yapmış olsanız ve bu avantajları kullanmamalıdır).
+>Bir Silver üyelik teklifiniz varsa ve Altın üyelik teklifine yükseltmek için %25 Altın üyelik indirimi kullandıysanız, Silver para iadesi için uygun olmazsınız (30 gün içinde Silver üyeliği için ödeme yaptınız ve avantajları yararlanmadınız bile).
 
 ## <a name="next-steps"></a>Sonraki adımlar
 

@@ -1,46 +1,43 @@
 ---
-title: Bir öğrenme Iş ortağı olarak kaydetme
+title: Öğrenme İş Ortağı olarak kaydolma
 ms.topic: how-to
 ms.date: 02/05/2021
-description: Öğrenme Iş ortağı programına kaydolmak için Iş Ortağı Merkezi 'ni kullanın. Bu şekilde, gümüş veya altın uzmanlık için öğrenme Eylem Paketi veya öğrenme seçeneğine göre yapabilirsiniz.
+description: Öğrenme İş Ortağı Merkezi Programına kaydolmak için İş Ortağı Merkezi'i kullanın. Bunu Learning Eylem Paketi veya Silver veya Gold uzmanlıkları için Öğrenme seçeneğine göre de tamamabilirsiniz.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
-ms.openlocfilehash: de833ae713fe88335103e9dbaa96153ad20ec84e
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: 5043e26b578f2d2dcaa45cd86105e4c540a82ab8
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106133055"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151449"
 ---
-# <a name="use-partner-center-to-enroll-as-a-microsoft-learning-partner"></a>Iş Ortağı Merkezi 'ni kullanarak Microsoft Learning Iş ortağı olarak kaydetme
+# <a name="use-partner-center-to-enroll-as-a-microsoft-learning-partner"></a>İş Ortağı Merkezi İş Ortağı olarak kaydolmak için Microsoft Learning kullanma
 
-**Uygun roller**
+**Uygun roller:** MPN iş ortağı yöneticisi | Hesap yöneticisi
 
-- MPN iş ortağı Yöneticisi
-- Hesap yöneticisi
+Bu makalede, bir iş ortağının öğrenme Microsoft İş Ortağı Ağı programına kaydedileye çeşitli yolları açıklanmıştır.
 
-Bu makalede, Microsoft İş Ortağı Ağı bir ortağın öğrenme Iş ortağı programına nasıl kaydedebileceği çeşitli yollar açıklanmaktadır.
+Öğrenme İş Ortağı Programı'nın başarısı, belirli Microsoft eğitimlerini tamamlayan Öğrenme iş ortaklarını ödüllendirmek için tasarlanmış ana performans göstergeleri (KIP) ile ölçülür. KPI'ler, uygun resmi Microsoft Learning Products (OMLP) iş ortağı satın almalarına göre Courseware Marketplace.
 
-Öğrenme Iş ortağı programındaki başarı, belirli Microsoft eğitimini tamamladıktan sonra öğrendikleri iş ortakları için tasarlanan ana performans göstergeleri (KPI 'ler) tarafından ölçülür. KPI 'ler, Courseware marketi 'nden resmi Microsoft Learning ürünlerini (OMLP) niteleyen iş ortağı satın alma işlemlerine göre izlenir.
+İş ortakları öğrenme İş Ortağı Merkezi programına kaydolmak için bu bilgileri kullanabilir. Bu, Microsoft Eylem Paketi aboneliği altında veya belirli gümüş veya altın uzmanlıklarla ilişkili Öğrenme Seçeneği'nin altında bulunan Öğrenme Seçeneği aracılığıyla bunu yapar.
 
-İş ortakları, öğrenme Iş ortağı programına kaydolmak için Iş Ortağı Merkezi 'ni kullanabilir. Bunu, Microsoft Eylem Paketi aboneliği kapsamında veya belirli gümüş veya altın Uzmanlıklar ile ilişkili öğrenme seçeneğinin altında bulunan öğrenme seçeneği aracılığıyla yapabilirler.
+Bu işlem, İş Ortağı Merkezi olarak otomatikleştirilmiştir ve artık bu işlemde olduğu gibi bir iş uygulaması Partner Membership Center.
 
-Bu işlem iş ortağı merkezi 'nde tamamen otomatikleştirilmiştir ve artık iş ortağı üyelik Merkezi 'nde kullanıldığı şekilde bir iş uygulaması gerektirmez.
+Öğrenme İş Ortağı Programına kaydolarak gözatmanız gereken birkaç nokta vardır:
 
-Öğrenme Iş ortağı programına kaydolurken göz önünde bulundurmanız gereken birkaç noktaya yer verilmiştir:
+- Öğrenme İş Ortağı Programı KPI gereksinimleri her yıl değişebilir.
 
-- Öğrenme Iş ortağı program KPI gereksinimleri yılda değişebilir.
+- Kaydın ilk yılından başlayarak İş Ortağı Merkezi öğrenme KIP'lerinin karşılanamaları gerekir.
 
-- Iş Ortağı Merkezi 'nde kayıt sonrasında öğrenme KPI 'Leri sağlanmalıdır.
+- **Yeni iş ortakları için kaynaklar:** Öğrenme seçeneği altında yetkinlik elde etmek isteyen yeni bir iş ortağınız varsa Öğrenme seçeneği varlık koleksiyonu ile süreç hakkında daha [fazla bilgi öğrenebilirsiniz.](https://partner.microsoft.com/asset/collection/learning-option-enrollment#/)
 
-- **Yeni iş ortakları Için kaynaklar:** Öğrenme seçeneği kapsamında bir uzmanlığa erişme hakkında yeni bir iş ortağıysanız [öğrenme seçeneği varlık koleksiyonuyla](https://partner.microsoft.com/asset/collection/learning-option-enrollment#/)işlem hakkında daha fazla bilgi edinebilirsiniz.
+**COVID-19 GÜNCELLEŞTIRMESI**
 
-**COVıD-19 GÜNCELLEŞTIRME**
-
-Microsoft, bir uzman uzantısı (bulut Business Applications uzmanlığına sahip olan) ve 1 Ocak 2021 ile 30 Haziran 2021 arasında yıldönümü tarihleri (AD) olan iş ortakları için Gelişmiş özelleştirme uzantısı sunmaktadır. Daha fazla bilgi için lütfen [iş ortağı blog gönderimizi](https://blogs.partner.microsoft.com/mpn/responding-to-covid-19-microsoft-partner-network/) gözden geçirin.
+Microsoft, 1 Ocak 2021 ile 30 Haziran 2021 arasında yıl dönümü tarihleri (AD) olan iş ortakları için uzmanlık uzantısı (Cloud Business Applications uzmanlığı hariç) ve gelişmiş uzmanlık uzantısı sunuyor. Daha fazla bilgi [için lütfen iş ortağı blog](https://blogs.partner.microsoft.com/mpn/responding-to-covid-19-microsoft-partner-network/) gönderimizi gözden geçirebilirsiniz.
 
 Öğrenme Programı duyuruları hakkında bilgi edinmek için [blogumuzu okuduğunuzdan](https://techcommunity.microsoft.com/t5/microsoft-learn/ct-p/MicrosoftLearn) emin olun ve [öğrenme iş ortağı Yammer sayfamıza](https://web.yammer.com/main/groups/eyJfdHlwZSI6Ikdyb3VwIiwiaWQiOiI4NDU0NDI3In0/all)göz atın. Program belgelerini ve aylık topluluk çağrı kayıtlarını [öğrenme kaynakları sayfamızda](https://partner.microsoft.com/marketing/learning-resources#/)de bulabilirsiniz.
 
@@ -61,29 +58,29 @@ Gerekli KPI 'Lara ulaştığınızda ek gereksinimleri tamamlayabilir ve gümü�
 
 ## <a name="enroll-with-a-silver-competency-learning-option"></a>Gümüş uzmanlık öğrenme seçeneğiyle kaydolun
 
-Gümüş bir üyelik elde etmek isteyen öğrenme iş ortakları, belirli bir uzmanlığa ilişkin gümüş öğrenme seçeneğine kaydolabilir. Bunu yapmak için, bu belirli bir uzmanlığa yönelik gümüş öğrenme seçeneği gereksinimlerini karşılamaları gerekir.
+Gümüş bir üyelik elde etmek isteyen öğrenme iş ortakları, belirli bir uzmanlığa ilişkin gümüş öğrenme seçeneğine kaydolabilir. Bunu yapmak için bu uzmanlık için Silver Learning seçeneği gereksinimlerini karşılaması gerekir.
 
 > [!NOTE]
-> Gümüş veya altın bir öğrenme seçeneği sunan Uzmanlıklar hakkında daha fazla bilgi edinmek için en son [Uzmanlıklar sayfasına](https://partner.microsoft.com/membership/competencies)bakın. 
+> Silver veya Gold Öğrenme seçeneği sunan yetkinlikler hakkında daha fazla bilgi edinmek için en son [yetkinlikler sayfasına bakın.](https://partner.microsoft.com/membership/competencies) 
 
-Belirli bir gümüş uzmanlığa yönelik öğrenme seçeneğini nitelemek ve kaydolmak için, bu uzmanlığa yönelik gümüş, bu özelliklere sahip olduğunuzdan emin olun. Ardından, aşağıdaki adımları izleyin:
+Belirli bir silver uzmanlığının Öğrenme seçeneğine hak kazanmak ve bu yetkinliğe kaydolmak için bu uzmanlıkların gümüş gereksinimlerini gözden geçirerek bunları karşılarsanız emin olun. Ardından şu adımları izleyin:
 
-- Öğrenme programı performans yönergeleri bölümünde özetlenen **performans gereksinimlerine** uygulayın. Bu yönergeler [öğrenme kaynakları sitesinden](https://partner.microsoft.com/marketing/learning-resources#/)kullanılabilir.
+- Öğrenme Programı **Performans Yönergeleri'nin** ana hatlarıyla belirtilen Performans Gereksinimleri'ne taahhüt edin. Bu yönergeler Öğrenme Kaynakları [sitesinde mevcuttur.](https://partner.microsoft.com/marketing/learning-resources#/)
 
-- **Microsoft Sertifikalı Trainer (MCT) gereksinimlerini** karşılayın
+- Microsoft Sertifikalı **Eğitimci (MCT) Gereksinimlerini Karşılama**
 
-- **Sınava gereksinimlerini** karşılayın
+- Sınav **Gereksinimlerini Karşılama**
 
-- Iş Ortağı Merkezi [panosunda](https://partner.microsoft.com/dashboard)oturum açın ve ardından sol gezinti menüsünden **MPN** ' yi ve ardından **Üyelik teklifleri**' ni seçin. Daha sonra, Gümüş uzmanlık düzeyine abone olmak için aşağıdaki [adımları](mpn-get-action-pack.md) izleyin. [Uzmanlığa yönelik ücret ödemesiyle](mpn-pay-fee-silver-gold-competency.md) ilgili bu makale da yararlı olabilir.
+- İş Ortağı Merkezi panosunda oturum [açın,](https://partner.microsoft.com/dashboard)ardından sol gezinti **menüsünden MPN'yi** ve ardından Üyelik **Teklifleri'ni seçin.** Ardından, gümüş [uzmanlık düzeyine](mpn-get-action-pack.md) abone olmak için bu adımları izleyin. Uzmanlık ücreti [ödemesi ile ilgili bu](mpn-pay-fee-silver-gold-competency.md) makale de yararlı olabilir.
 
-## <a name="enroll-with-a-gold-competency-learning-option"></a>Altın uzmanlık öğrenme seçeneğiyle kaydolun
+## <a name="enroll-with-a-gold-competency-learning-option"></a>Altın uzmanlıkla kaydetme Öğrenme seçeneği
 
-Altın uzmanlık öğrenimi öğrenme seçeneğiyle kaydedebilmeniz için, söz konusu uzmanlığa ait altın düzey öğrenme seçeneği gereksinimlerini karşıladığınızdan emin olmanız gerekir.
+Altın uzmanlık Öğrenme seçeneğine kaydolmadan önce, bu uzmanlığın altın düzeyindeKimlik düzeyi Öğrenme seçeneği gereksinimlerini karşılarsanız emin olun.
 
-Bir altın uzmanlık öğrenimi öğrenme seçeneğinin kaydı (veya yenilenmesi), öğrenme Eylem Paketi veya Gümüş uzmanlık öğrenme seçeneğinde kaydolmadan farklı gereksinimlere sahiptir. Gold uzmanlığa yönelik bir öğrenme seçeneğinin gereksinimlerini karşılamak için Ayrıca bu uzmanlığa ait altın düzey öğrenme KPI gereksinimlerini karşılamanız gerekir. KPI 'Leri veya başka herhangi bir gereksinimi karşılamadıysanız, bir öğrenme Iş ortağı olmak istiyorsanız, gereksinimler düzeyine bağlı olarak öğrenme Eylem Paketi veya gümüş bir seçeneğe kaydolmalısınız.
+Altın uzmanlıklı bir Öğrenme seçeneğine kaydolmak (veya yenilemek), Learning Eylem Paketi veya Silver uzmanlık Öğrenme seçeneğine kaydolmaktan farklı gereksinimlere sahiptir. Altın uzmanlık öğrenme seçeneğinin gereksinimlerini karşılamak için bu uzmanlığın altın düzeyindeki Öğrenme KPI gereksinimlerini de karşılamanız gerekir. KIP'leri veya diğer gereksinimleri karşılamadıysanız, Öğrenme İş Ortağı olmak istediğiniz gereksinimlerin düzeyine bağlı olarak Öğrenme Eylem Paketi veya Silver seçeneğine kaydolmanız gerekir.
 
 > [!NOTE]
-> Yeni bir uzmanlığa zaten kaydolmuş olabilirsiniz ve bu uzmanlığa yönelik daha fazla bilgi edinmek için öğrenme seçeneği gereksinimlerini zaten elde edersiniz. Daha sonra bu uzmanlığa yönelik altın düzeyde öğrenme seçeneğini karşılamak istiyorsanız, bu uzmanlığa ait altın düzey KPI 'Ları ve diğer Gold düzeyi gereksinimleri karşılamanız gerekir. Altın düzeyi gereksinimler karşılandıktan sonra, [MPN teklifi-yükseltme gümüş-altın arası indirimden](mpn-pay-fee-silver-gold-competency.md#apply-upgrade-discount-when-moving-from-silver-to-gold)faydalanabilirsiniz.
+> Yeni bir yetkinliğe zaten kaydolabilirsiniz ve bu uzmanlık için silver-learning öğrenme seçeneği gereksinimlerini zaten elde ettiyseniz. Daha sonra bu uzmanlık için altın düzeyinde Öğrenme seçeneğine ulaşmak için devam etmek istemeniz gerekirse, yine de bu uzmanlığın altın düzeyindeki KMI'lerini ve diğer altın düzeyi gereksinimlerini karşılamanız gerekir. Altın düzeyi gereksinimler karşılandıktan sonra, [MPN teklifi-yükseltme gümüş-altın arası indirimden](mpn-pay-fee-silver-gold-competency.md#apply-upgrade-discount-when-moving-from-silver-to-gold)faydalanabilirsiniz.
 
 ## <a name="frequently-asked-questions-about-learning-partner-enrollment"></a>Öğreniş ortağı kaydı hakkında sık sorulan sorular
 
@@ -107,30 +104,30 @@ Evet, KPI 'Lar Iş Ortağı Merkezi 'nde tanınmalıdır.
 - KPI değeri
 - Gelir değeri
 
-KPI raporları, Ayın ortasında ayda bir kez güncelleştirilir. Öğrenme programı yenileme uygunluğu, önceki 12 ay boyunca, yıl dönümü Tarih temelinde sunulan KPI 'ler için ölçülür. Örneğin, 15 Ocak 2020 ' den itibaren, KPI verileri 2019 Ocak-Aralık 2019 için görüntülenir. Faturanızda Ocak 2020, karşılık gelen KPI 'Lar 15 Şubat 2019 tarihinden itibaren görünür olacaktır. **Sipariş onaylarının ve iş ortağı raporlarının kabul edilmeyecektir.** Yalnızca gerçek faturalar kabul edilecektir.
+KPI raporları, Ayın ortasında ayda bir kez güncelleştirilir. Öğrenme programı yenileme uygunluğu, önceki 12 ay boyunca, yıl dönümü Tarih temelinde sunulan KPI 'ler için ölçülür. Örneğin, 15 Ocak 2020 ' den itibaren, KPI verileri 2019 Ocak-Aralık 2019 için görüntülenir. Faturanızda Ocak 2020, karşılık gelen KPI 'Lar 15 Şubat 2019 tarihinden itibaren görünür olacaktır. **Sipariş onaylarının ve iş ortağı raporlarının kabul edilmeyecektir.** Yalnızca gerçek faturalar kabul edilir.
 
-### <a name="q-does-a-one-day-training-equate-to-one-kpi"></a>S. Tek günlü bir eğitim bir KPI 'ye karşılık gelir mı?
+### <a name="q-does-a-one-day-training-equate-to-one-kpi"></a>S. Bir günlük eğitim bir KPI'ye eşit mi?
 
-KPI toplantısı, eğitimin süresiyle ilgilidir. KPI 'lerin nasıl ölçüldüğü hakkında daha fazla bilgi edinmek için [öğrenme Iş ortağı Kayıt Kılavuzu](https://partner.microsoft.com/asset/collection/learning-option-enrollment#/)'ndaki performans örnekleri ' ne bakın.
+KPI'yi karşılarken eğitim süresiyle ilgili değildir. KIP'lerin nasıl ölçüleceği hakkında daha fazla bilgi edinmek için Öğrenme İş Ortağı Kayıt [Kılavuzu'daki performans örneklerini kontrol edin.](https://partner.microsoft.com/asset/collection/learning-option-enrollment#/)
 
-### <a name="q-why-dont-i-appear-as-a-microsoft-learning-partner-in-the-learning-partner-directory"></a>S. Öğrenme Iş ortağı dizininde neden Microsoft Learning Iş ortağı olarak görünmeliyim?
+### <a name="q-why-dont-i-appear-as-a-microsoft-learning-partner-in-the-learning-partner-directory"></a>S. Öğrenme İş Ortağı dizininde neden Microsoft Learning İş Ortağı olarak görünmüyorsunuz?
 
-Sizi [öğrenme Iş ortağı dizinine](/learn/certifications/partners)eklememiz gerekebilir. Daha sonra öğrenme Iş ortağı dizini sayfasından Web sitenize bağlanabilirsiniz.
+Sizi Öğrenme İş Ortağı dizinine [eklememiz gerekir.](/learn/certifications/partners) Daha sonra Öğrenme İş Ortağı dizin sayfasından web sitenize bağlantı veabilirsiniz.
 
-Bu, üçüncü hafta içinde ayda yalnızca bir kez gönderilen el ile gerçekleştirilen bir işlemdir. Sonraki güncelleştirme, aşağıdaki ayın ilk haftası sonunda görünür olacaktır. Durumu çözmenize yardımcı olması için [Iş ortağı önde gelme hat desteğiyle](https://partner.microsoft.com/support)iletişim kurun. Aşağıdaki ayrıntıları sağlamaya hazır olun:
+Bu, üçüncü hafta boyunca ayda yalnızca bir kez gönderilen el ile yapılan bir işlemdir. Sonraki güncelleştirme, sonraki ayın ilk haftasında görünür olacak. Durumu çözmenize yardımcı olmak için İş Ortağı Ön Hat [Desteği'ne başvurun.](https://partner.microsoft.com/support) Aşağıdaki ayrıntıları sağlamak için hazırlıklı olun:
 
 - Dizinde görünmesi gereken ad
 
 - İlişkili ülke
 
-- İlişkili, Microsoft temalı giriş sayfası URL 'SI
+- İlişkili, Microsoft ile ilgili giriş sayfasının URL'si
 
    > [!NOTE]
-   > URL, bir Microsoft giriş sayfasıyla bir ortakla ait bir Web sitesine olmalıdır. Microsoft 'a özgü sayfa de şunları içermelidir:
-   > - Yalnızca **"Iş ortağı X"** gibi
-   > - **Rakipler** gösterme
-   > - **Sahibi olunan** "Partner X"
+   > URL, Microsoft giriş sayfası olan iş ortağına ait bir web sitesine ait olmalıdır. Microsoft'a özgü sayfa da şunların olması gerekir:
+   > - Yalnızca **"İş Ortağı X" hakkında** olun
+   > - Rakip **gösterme**
+   > - "İş **Ortağı** X" tarafından sahip olun
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-Öğrenme seçeneği kaydı hakkında [daha fazla bilgi edinin](https://partner.microsoft.com/asset/collection/learning-option-enrollment#/)
+[Öğrenme seçeneği kaydı](https://partner.microsoft.com/asset/collection/learning-option-enrollment#/) hakkında daha fazla bilgi
