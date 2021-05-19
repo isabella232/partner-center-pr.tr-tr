@@ -9,22 +9,16 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: a7278e6dff35d7941fbe44b65609dc4a2443c1f3
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: 1605072e35a96d8bc8ed2e9f507b38a6837fbd35
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106132766"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146944"
 ---
 # <a name="add-a-vat-id-to-your-billing-profile"></a>Faturalandırma profilinize bir KDV KIMLIĞI ekleyin
 
-**Uygun roller**
-
-- Genel yönetici
-- Kullanıcı Yönetimi Yöneticisi
-- Faturalama yöneticisi
-- Yönetim Aracısı
-- Satış Aracısı
+**Uygun roller**: genel yönetici | Kullanıcı Yönetimi Yöneticisi | Faturalandırma Yöneticisi | Yönetici Aracısı | Satış Aracısı
 
 Fatura Profilinizi KDV KIMLIĞINIZI içerecek şekilde güncelleştirmek için aşağıdaki yordamı kullanabilirsiniz. (Ülkenizde veya bölgenizde bunun mümkün olmaması gerekebileceğini unutmayın.)
 

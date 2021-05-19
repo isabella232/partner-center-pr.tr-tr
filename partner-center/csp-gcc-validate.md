@@ -9,20 +9,16 @@ author: BillLinzbach
 ms.author: billLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8614b321b453d280b8af0c548ea61c049708a6db
-ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
+ms.openlocfilehash: 442ba27776786bbd153360d20cb93574a3d4d4ec
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "97979646"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147709"
 ---
 # <a name="office-365-government-gcc-for-csp-partner-and-customer-eligibility-criteria"></a>CSP Iş ortağı ve müşteri uygunluk ölçütlerine yönelik Office 365 Kamu GCC 
 
-**Uygun roller**
-
-- Genel yönetici
-- Yönetim Aracısı
-- Satış Aracısı
+**Uygun roller**: genel yönetici | Yönetici Aracısı | Satış Aracısı
 
 >[!NOTE]
 >Aşağıda özetlenen doğrulama işlemi ve ölçütler doğrudan fatura iş ortaklarına özgüdür. Doğrudan fatura ortakları doğrudan satıcılar ve dolaylı sağlayıcılar içerir.  Dolaylı bir satıcıysanız, lütfen dolaylı sağlayıcınızla çalışın.
@@ -44,25 +40,25 @@ CSP iş ortakları için Office 365 Kamu GCC ve müşteriler, aşağıda özetle
 2.  ABD kamu müşterilerine GSA veya diğer sözleşme araçlar aracılığıyla hizmet verir
 
 **Müşteri Ölçütleri**
-1.  Kamu kapasitesinde ABD devlet kurumu. Örneğin:
+1.  Kamu kapasitesinde ABD devlet kurumu. Örnek:
  
     -  Federal kurum (ör. kuruluş, kuruluş, departman veya ABD devlet 'nın diğer tüzel kişiliği)
-    -   Eyalet/yerel varlık 
-    -   Üç aylık varlık
-    -   Bölgesel veya yandan devlet kamu varlıkları (uluslararası varlık yoktur)
-    -   Federe açıdan komik araştırma ve geliştirme merkezleri (Ferdc)
+    -   Durum/yerel varlık 
+    -   Tribal varlığı
+    -   Bölgesel veya eyaletler arası kamu varlıkları (ancak uluslararası varlık yok)
+    -   Federal Fona Bağlı Araştırma ve Geliştirme Merkezleri (FERDCs)
 
-2.  Düzenlemelere tabi olan verilerle ticari özel varlık. Kabul edilen kamu veri türleri şunlardır: 
-    -   Kollu Uluslararası trafik (ıTAR)
-    -   Denetlenen sınıflandırılmamış bilgiler (CUı)
-    -   Savunma Bakanlığı (DoD) sınıflandırılmamış kontrollü Nuclear bilgileri (UCNı)
-    -   Enerji Bakanlığı (tikan) UCNı
-    -   Cezai Yace bilgileri (CJI)
-    -   Savunma etki düzeyi veri departmanı
-    -   Azure Kamu gerektiren diğer veri türleri
+2.  Yasal düzenlemelere tabi veriler ile ticari özel varlık. Kabul edilen kamu veri türleri şunlardır: 
+    -   Uluslararası HavaDan Trafik (ITAR)
+    -   Denetlenen Sınıflandırılmamış Bilgiler (CUI)
+    -   Savunma Bakanlığı (DoD) Sınıflandırılmamış Kontrollü Bilgi (UCNI)
+    -   Enerji Bakanlığı (DoE) UCNI
+    -   Ceza Adalet Bakanlığı Bilgileri (CJI)
+    -   Savunma Bakanlığı Etki Düzeyi Verileri
+    -   Veri gerektiren diğer veri Azure Kamu
 
-Uluslararası bir ticari varlık, yukarıda belirtilen gereksinimlere uyup uymadığını ve ABD varlığını (posta adresi, fiziksel konum vb.) doğruladığını uygun hale gelebilir.
+Uluslararası bir ticari varlık, yukarıda belirtilen gereksinimleri karşılar ve ABD varlığını (posta adresi, fiziksel konum vb.) doğrularsa uygun olabilir.
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-- [Uygun müşterilere CSP abonelikleri için Office 365 Kamu GCC satma](csp-gcc-overview.md)
+- [Nitelikli müşterilere CSP abonelikleri için Office 365 Kamu GCC'yi satma](csp-gcc-overview.md)

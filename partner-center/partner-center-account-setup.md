@@ -9,19 +9,16 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b59d18a62ce6a775e97f88708467d07e9c351a66
-ms.sourcegitcommit: e462f562e7f26b7d6870c22638a2a841499109d6
+ms.openlocfilehash: 6c5acad01490ca679fa0761aa015fe0142e476bd
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "109740395"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146383"
 ---
 # <a name="manage-your-partner-center-account---company-profile-bank-information-roles-permissions-and-more"></a>Iş Ortağı Merkezi hesabınızı, şirket profilinizi, banka bilgilerini, rolleri, izinleri ve daha fazlasını yönetin
 
-**Uygun roller** 
-
-- Genel yönetici
-- Hesap yöneticisi
+**Uygun roller**: genel yönetici | Hesap Yöneticisi
 
 Kayıt sırasında iş e-postanız ve iş bilgileriniz olduğunda iş ortağı merkezi 'nde oluşturduğunuz hesap. Hesap oluşturduktan sonra, destek ayrıntıları, uygunsa dosya vergi muafiyetleri ve birincil iletişim bilgileri dahil olmak üzere şirketinizin tam profilini ayarlamayı tamamlayacaksınız. Şirketinizin hesabı, takımınızdaki Iş ortağı merkezini kullanacak herkes için Kullanıcı hesapları da içerir. Yapabilecekleri iş, müşteri ekleme veya yönetme, abonelik satma, faturalandırma ve faturalama ile çalışma, iş profilleri oluşturma, başvuruları yönetme, teşvikleri programlarıyla çalışma, destek sağlama ve daha fazlasını içerir.
 
@@ -64,7 +61,7 @@ Hesap seçiciyi görmüyorsanız yalnızca bir hesabın parçasısınızdır.
 
 Bu seçiciyi seçerek, parçası olduğunuz tüm hesaplar liste olarak görünür. Ardından bu hesaplardan herhangi birini seçerek bu hesaba geçebilirsiniz. Bundan sonra gelen her şey bu hesap bağlamında görünür.  
 
-Aşağıdaki örnekte, oturum açık olan kullanıcı vurgulanan üç hesabın bir parçasıdır. Kullanıcı bir hesaba tıklayarak aralarında geçiş olabilir.
+Aşağıdaki örnekte oturum açık olan kullanıcı, vurgulanan üç hesabın bir parçası olarak yer almaktadır. Kullanıcı bir hesaba tıklayarak aralarında geçiş olabilir.
 
 :::image type="content" source="images/accountsettings/picker-two.png" alt-text="Parçası olduğunuz hesaplar":::
 
@@ -100,11 +97,11 @@ Bu sayfa, İş Ortağı Merkezi kimlikleri içerir: MPN kimlikleri, yayımcı ki
 
 ### <a name="company-profile"></a>Şirket profili
 
-Bu sayfa, bağımsız yazılım satıcısı veya CSP programı iş ortağı gibi Microsoft ile sahip olduğunuz iş ortaklığı türünü tanımlar. Birlikte çalıştığınız müşteri sayısını, yıllık geliri ve geçerli şirket boyutunu gösterir. Microsoft'a uygulama  oluşturma, Microsoft'u ve üçüncü taraf yazılımları yeniden satış yapma veya sistem tümleştiricisi olmak gibi Microsoft ile yapmak istediğiniz iş türünü söylemek için Şirket ayrıntıları sayfasındaki şirket bilgilerini genişletin. İsteğe bağlı olarak, şu anda işlerinizi nerede yapmak istediğinizi ve gelecekte işlerinizi genişletmek istediğiniz yerel seçimleri tanımlayın.
+Bu sayfa, bağımsız yazılım satıcısı veya CSP programı iş ortağı gibi Microsoft ile sahip olduğunuz iş ortaklığı türünü tanımlar. Birlikte çalıştığınız müşteri sayısını, yıllık geliri ve şirketnizin geçerli boyutunu gösterir. Microsoft'a uygulama  oluşturma, Microsoft'u ve üçüncü taraf yazılımları yeniden satış yapma veya sistem tümleştiricisi olmak gibi Microsoft ile yapmak istediğiniz iş türünü söylemek için Şirket ayrıntıları sayfasındaki şirket bilgilerini genişletin. İsteğe bağlı olarak, şu anda işlerinizi nerede yapmak istediğinizi ve gelecekte işlerinizi genişletmek istediğiniz yerel seçimleri tanımlayın.
 
 ### <a name="account-merge-profile"></a>Hesap birleştirme profili
 
-Şirket içinde etkin bir hesabı olan bir İş Ortağı Merkezi hesabını kendi hesabınızla birleştirmeye davet ediyorsanız, bu bilgiler Hesap birleştirme **sayfasında** yönetilir. Davet etmek ve kendi şirketle birleştirmek için davet etmek için mpN kimliğini ara, geçerli birleşmeleri görüntüle ve şirketlere davet gönder. Şirket hesabını burada başka bir şirketin hesabına birleştirmek için bir daveti kabul etme veya reddetme. Ayrıntılar için [bkz. İş ortağınızı başka bir iş ortağı hesabıyla birleştirme.](merge-accounts.md)
+Şirket içinde etkin bir hesabı olan bir şirketi İş Ortağı Merkezi kendi hesabınızla birleştirmeye davet ediyorsanız, bu bilgiler Hesap birleştirme **sayfasında** yönetilir. Davet etmek ve kendi şirketle birleştirmek için davet etmek için mpN kimliğini ara, geçerli birleşmeleri görüntüle ve şirketlere davet gönder. Şirket hesabını burada başka bir şirketin hesabına birleştirmek için bir daveti kabul etme veya reddetme. Ayrıntılar için [bkz. İş ortağınızı başka bir iş ortağı hesabıyla birleştirme.](merge-accounts.md)
 
 ## <a name="payout-and-tax"></a>Ödeme ve vergi
 

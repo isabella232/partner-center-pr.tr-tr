@@ -1,37 +1,34 @@
 ---
-title: CSP tek seferlik satın alma işlemleri için keşfi dosya alanları
+title: CSP tek sefer satın almaları için dosya alanlarının mutabakatı
 ms.topic: conceptual
 ms.date: 01/29/2021
-description: Örnek değerler de dahil olmak üzere Iş Ortağı Merkezi 'nde CSP tek seferlik satın alma mutabakatı dosyanızdaki tüm öğeler hakkında bilgi edinin.
+description: CsP'nizin tek kez satın alma mutabakat dosyasındaki tüm öğeler hakkında bilgi İş Ortağı Merkezi örnek değerler de dahil.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
-ms.openlocfilehash: 559b5334eb23ad76fe8cc51fc1beeaa3a86c6fa1
-ms.sourcegitcommit: 22e257d5b334ca8d3fc072f59010a508e1022694
+ms.openlocfilehash: 85946f44e1265ad5012faf9d782609904100c80e
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "108702799"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146264"
 ---
-# <a name="csp-one-time-purchase-reconciliation-file-fields"></a>CSP tek seferlik satın alma mutabakatı dosya alanları
+# <a name="csp-one-time-purchase-reconciliation-file-fields"></a>CSP tek sefer satın alma mutabakat dosyası alanları
 
-**Uygun roller**
+**Uygun roller:** Hesap yöneticisi | Faturalama aracısı
 
-- Hesap yöneticisi
-- Faturalandırma Aracısı
+## <a name="using-the-recon-file"></a>Mutabakat dosyasını kullanma
+Aşağıdaki tabloda, CSP tek sefer satın almaları için mutabakat dosyasındaki alanlar için açıklamalar ve örnek değerler verilmiştir.
 
-## <a name="using-the-recon-file"></a>Keşfi dosyasını kullanma
-Aşağıdaki tablo, CSP tek seferlik satın alma işlemleri için mutabakat dosyasındaki alanlarla ilgili açıklamaları ve örnek değerleri sağlar.
-
-Karşılaştırma dosyaları hakkında daha fazla bilgi için bkz. [karşılaştırma dosyalarını kullanma](use-the-reconciliation-files.md).
+Mutabakat dosyaları hakkında daha fazla bilgi için [bkz. Mutabakat dosyalarını kullanma.](use-the-reconciliation-files.md)
 
 | Sütun | Açıklama | Örnek değer |
 | ------ | ----------- | ------------ |
-| İş ortağı kimliği | Belirli bir faturalandırma varlığı için GUID biçimindeki benzersiz tanımlayıcı. Mutabakat için gerekli değildir. Tüm satırlarda aynı. | *0e195b37-4574-4539-bc42-0e539b9684c0* |
+| PartnerId | Belirli bir faturalama varlığı için GUID biçiminde benzersiz tanımlayıcı. Mutabakat için gerekli değildir. Tüm satırlarda aynı. | *0e195b37-4574-4539-bc42-0e539b9684c0* |
 | CustomerId | Müşteri için GUID biçiminde benzersiz Microsoft tanımlayıcısı. | *196e2273-9651-43a3-ba7e-7cbcd918fc40* |
-| CustomerName | Iş Ortağı Merkezi 'nde raporlanan müşterinin kuruluş adı. Bu sütun, faturayı sistem bilgileriniz ile mutabık kılma açısından önemlidir. | *Modern Müşt. canDE2* |
+| CustomerName | Müşterinin kuruluş adı, İş Ortağı Merkezi. Bu sütun, faturayı sistem bilgileriyle mu mutabakata varmak için önemlidir. | *Johnny Modern Cust DE2* |
 | CustomerDomainName | Müşterinin etki alanı adı. | *testcustomerdomain.onmicrosoft.com* |
 | CustomerCountry | Müşterinizin bulunduğu ülke. Bölgeniz için [ülkelerin tam listesini](./regional-authorization-overview.md) görüntüleyin.  | *DE* |
 | Faturanumarası | Mutabakat dosyası ile ilişkili fatura numarası.  | *G002297372* |
@@ -41,14 +38,14 @@ Karşılaştırma dosyaları hakkında daha fazla bilgi için bkz. [karşılaşt
 | OrderDate | Siparişin yerleştirildiği UTC tarihi. | *10/3/2020* |
 | ProductId | Ürünün benzersiz tanımlayıcısı. | *DZH318Z0BNZ5* |
 | SkuId | SKU benzersiz tanımlayıcısı. | *006G* |
-| Kullanılabilirlik kimliği | Kullanılabilirlik benzersiz tanımlayıcısı. | *DZH318Z08B80* |
-| SkuName | SKU adı. | *Tablolar-LRS* |
+| AvailabilityId | Kullanılabilirlik benzersiz tanımlayıcısı. | *DZH318Z08B80* |
+| SkuName | SKU adı. | *Tablolar - LRS* |
 | ProductName | Ürün adı. | *Tablolar* |
-| ChargeType | Ücret veya ayarlamanın [türü](./recon-file-charge-types.md) . | *Yeni* |
-| UnitPrice | Satın alma sırasında fiyat listesinde yayınlanan lisans başına fiyat. Bunun, mutabakat sırasında faturalandırma sisteminizde depolanan bilgilerle eşleştiğinden emin olun. | *0,045* |
-| Miktar | Lisans sayısı. Bunun, mutabakat sırasında faturalandırma sisteminizde depolanan bilgilerle eşleştiğinden emin olun. | *1* |
-| Ara toplam | Vergi öncesi toplam. Alt toplam, geçerli birim fiyatı ile çarpılan faturalandırılabilir miktara eşit olmalıdır. | *0* |
-| Toplam vergi | Vergi tutarı ücreti. Pazar vergi kurallarına ve belirli koşullara göre. | *0* |
+| ChargeType | Ücret [veya ayarlama](./recon-file-charge-types.md) türü. | *Yeni* |
+| UnitPrice | Satın alma zamanında fiyat listesinde yayımlanan lisans başına fiyat. Bunun mutabakat sırasında faturalama sisteminize depolanmış bilgilerle eş olduğundan emin olun. | *0.045* |
+| Miktar | Lisans sayısı. Bunun mutabakat sırasında faturalama sisteminize depolanmış bilgilerle eş olduğundan emin olun. | *1* |
+| Ara toplam | Vergiden önceki toplam. Alt toplam, geçerli birim fiyatıyla çarpılan faturalanabilir miktara eşit olması gerekir. | *0* |
+| TaxTotal | Vergi tutarı ücreti. Pazar vergi kurallarına ve belirli koşullara göre. | *0* |
 | Toplam | Toplam tutar, alt toplam ve vergi tutarına eşittir. | *0* |
 | Para Birimi | Faturanız, müşterinin para birimi bağlamında oluşturulur. Yani, farklı faturalanabilir para birimlerinden müşterilerle bir iş ortağı deneyimidir iseniz, her müşteri para birimi türü için bir fatura alacaksınız.  | *EUR* |
 | PriceAdjustmentDescription | Birim fiyatındaki ayarlamaların nedenleri. Bunlar ana nedenlerdir, ancak geçerli birim fiyatını belirlemekten sınırlı değildir. | *["15,0% Partner for Services tarafından kazanılan krediler"]* |
@@ -65,14 +62,14 @@ Karşılaştırma dosyaları hakkında daha fazla bilgi için bkz. [karşılaşt
 | BillableQuantity | Faturalandırılan toplam miktar.  | *0,005001* |
 | BillingFrequency | Satın alma sırasında seçilen faturalandırma planı. | *NA*  |
 | PricingCurrency | Fiyat listesindeki para birimi. | *USD* |
-| PCToBCExchangeRate | Ödeme para birimine fiyatlandırma para birimi için uygulanan döviz kuru. | *0,846202666* |
-| PCToBCExchangeRateDate | Faturalandırma para birimine yönelik fiyatlandırma para biriminin belirlendiği tarih. | *30.09.2020* |
-| MeterDescription | Ölçüm açıklaması.  | *Tablolar-LRS depolanan veri (GB/ay)* |
-| ReservationOrderId | Rezervasyon sipariş KIMLIĞI. | *E21A6344E398FFC1C4D7...* |
-| CreditReasonCode | Kredi açıklaması. | *Azure tüketim kredisi* |
+| PCToBCExchangeRate | Fiyatlandırma para birimi için faturalama para birimine uygulanan döviz kuru. | *0.846202666* |
+| PCToBCExchangeRateDate | Faturalama para biriminin fiyatlandırma para biriminin belirlen olduğu tarih. | *30.09.2020* |
+| MeterDescription | Ölçüm açıklaması.  | *Tablolar - Depolanan LRS Verileri (GB/Ay)* |
+| ReservationOrderId | Rezervasyon Sipariş Kimliği. | *E21A6344E398FFC1C4D7...* |
+| CreditReasonCode | Kredi Açıklaması. | *Azure Tüketim Kredisi* |
 
 >[!NOTE]
->Azure tüketiminizi tek seferlik satın alma keşfi dosyanızda mutabık hale getirebilirsiniz. Bunu yapmak için, günlük derecelendirdiğiniz kullanım keşfi dosyasına gidin ve SubscriptionID 'nizi arayın. Bu, Azure plan KIMLIĞINIZLE ilişkili tüm maliyetleri görüntüler. Azure SubscriptionID 'niz EntitlementID olarak gösterilir.
+>Azure tüketiminizi tek kullanımlık satın alma mutabakat dosyanıza uzlaştırabilirsiniz. Bunu yapmak için günlük olarak derecelendirilmiş kullanım mutabakat dosyanıza gidin ve SubscriptionID'nizi bulun. Bu, Azure Plan Kimliğiniz ile ilişkili tüm maliyetleri görüntüler. Azure SubscriptionID'niz EntitlementID olarak gösterilir.
 
 ## <a name="next-steps"></a>Sonraki adımlar
 

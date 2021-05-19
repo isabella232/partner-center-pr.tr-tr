@@ -9,24 +9,18 @@ author: keramp
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b0d8a560c048f1a1dbb783560cf419145754a6fe
-ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
+ms.openlocfilehash: 4253c59a85c8353856b16f60957761f4f2245da3
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "108284307"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147199"
 ---
 # <a name="view-digitally-signed-invoices"></a>Dijital olarak imzalanmış faturaları görüntüleme
 
-**Şunlara uygulanır**
+**Uygulama hedefi**: Iş Ortağı Merkezi | İş Ortağı Merkezi Hindistan
 
-- İş Ortağı Merkezi Hindistan
-
-**Uygun roller**
-
-- Hesap yöneticisi
-- Faturalandırma Aracısı
-- Satış Aracısı
+**Uygun roller**: Hesap Yöneticisi | Faturalandırma Aracısı | Satış Aracısı
 
 Hindistan 'da iş ortakları artık Microsoft 'un dijital olarak imzalanmış faturaları olduğunu görebiliriz. Bir imzayı görüntülemek için Adobe Acrobat Reader belge bulutu 'nı (DC) kullanmanız gerekir.
 
@@ -54,7 +48,7 @@ Hindistan 'da iş ortakları artık Microsoft 'un dijital olarak imzalanmış fa
 
 ### <a name="additional-information-on-invoices-and-digital-signatures"></a>Faturalar ve dijital imzalar hakkında ek bilgiler
 
-Iş Ortağı Merkezi 'nde siparişi oluşturan kişiye dijital bir kopya gönderilir. 17 Temmuz 2020 tarihinden önce verilen tüm faturalar için dijital olarak imzalanmış faturaları alamazsınız. Ayrıca, el ile imzalanan faturalar kullanılabilir olmayacaktır.
+Dijital kopya, siparişi oluşturan kişiye e-posta ile İş Ortağı Merkezi. 17 Temmuz 2020'den önce verilen tüm faturalar için dijital olarak imzalanan faturalar alınamadan. Ayrıca el ile imzalanan faturalar kullanılamaz.
 
 ## <a name="next-steps"></a>Sonraki adımlar
 

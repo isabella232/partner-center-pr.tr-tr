@@ -2,49 +2,47 @@
 title: Geçerli birim fiyat hesaplaması
 ms.topic: how-to
 ms.date: 04/02/2021
-description: Geçerli birim fiyatı ve nasıl hesaplandığı hakkında bilgi edinin. Bu makale, örnek bir hesaplama da içerir.
+description: Geçerli birim fiyatı ve nasıl hesaplanmış olduğu hakkında bilgi edinmek. Bu makalede ayrıca bir örnek hesaplama da yer alanmıştır.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1473b3c0b90cca1152b4dab0b8efec86dbc3d22d
-ms.sourcegitcommit: f8fd51e1acdbfafdde86d6490bade66c63033ebd
+ms.openlocfilehash: 84beac77d41b8c11be9ac3cad87460eec9632ac4
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108172226"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147131"
 ---
-# <a name="effective-unit-price-calculation-for-azure-plan-consumption"></a>Azure plan tüketimi için geçerli birim fiyat hesaplaması
+# <a name="effective-unit-price-calculation-for-azure-plan-consumption"></a>Azure planı tüketimi için geçerli birim fiyat hesaplaması
 
-**Uygun roller**
-
-- Faturalama yöneticisi
+**Uygun roller:** Faturalama yöneticisi
 
 ## <a name="the-effective-unit-price"></a>Geçerli birim fiyatı
 
-Etkin birim fiyatı ölçüm düzeyinde hesaplanır (kaynak düzeyinden farklı olarak) ve ölçüm kullanımına göre günlük olarak ayarlanır.
+Geçerli birim fiyatı ölçüm düzeyinde (kaynak düzeyi yerine) hesaplanır ve ölçüm kullanımına göre günlük olarak ayarlanır.
 
-Geçerli birim fiyatını aşağıdaki üç faktörle hesapladık:
+Geçerli birim fiyatını hesaplamak için aşağıdaki üç faktörü kullanıyoruz:
 
-- Fatura döngüsünün tamamında günlük izlenen tüketim
-- Ölçüm için faturalandırılabilir maliyet
+- Faturalama döngüsü boyunca günlük olarak izlenen tüketim
+- Ölçüm için faturalanabilir maliyet
 - Katmanlama (varsa)
 
-Tüketimi faturalandırma döngüsünün tamamında günlük olarak izleyediğimiz için, etkin birim fiyatı dalgalanacaktır. Belirli bir faturalandırma döngüsünün son fiyatı, tüketim hesaplamasını durdurup faturalandırma dönemini kapatdığımızda kullanılabilir olacaktır. En fazla değişikliğin dördüncü veya beşinci ondalık konumdan sonra olduğunu görürsünüz.
+Faturalama dönemi boyunca tüketimi günlük olarak izlenmiz nedeniyle, geçerli birim fiyatı dalgalı olur. Tüketim hesaplaması durdurduktan ve faturalama dönemini kapatarak, verilen faturalama döneminin son fiyatı kullanılabilir. Dördüncü veya beşinci ondalık ayırıcıdan sonra tüketimde en fazla değişiklik olduğunu görüyorsunuz.
 
-## <a name="find-out-whether-your-meter-uses-tiered-pricing"></a>Ölçenin katmanlı fiyatlandırma kullanıp kullanmadığını öğrenin
+## <a name="find-out-whether-your-meter-uses-tiered-pricing"></a>Ölçümün katmanlı fiyatlandırmayı kullandığını bulma
 
-Ölçmeniz katmanlı fiyatlandırma kullanıp kullanmadığını bilmiyorsanız, öğrenmek için aşağıdaki yordamı kullanın. 
+Ölçümün katmanlı fiyatlandırma mı kullandığını bilmiyorsanız, bunu bulmak için aşağıdaki yordamı kullanın. 
 
 1. [İş Ortağı Merkezi panosunda](https://partner.microsoft.com/dashboard/) oturum açın.
-2. **Satış** öğesini seçin, **fiyatlandırma ve teklifler**' i seçin ve ardından **Azure plan fiyatlandırması**' nı seçin.
-3. Ölçerinizi KIMLIĞE göre bulun ve ardından fiyatlandırma verilerinizi indirin. 
+2. **Satış'ı** seçin, Fiyatlandırma **ve teklifler'i ve** ardından Azure **planı fiyatlandırması'ı seçin.**
+3. Ölçüm kimliğiniz ile ilgili bilgileri bulun ve fiyatlandırma verilerinizi indirin. 
 
 ## <a name="sample-calculation"></a>Örnek hesaplama
 
-Aşağıdaki tabloda, açık dönemde geçerli birim fiyatını nasıl hesapladığımızda bir örnek verilmiştir.
+Aşağıdaki tabloda, açık dönem boyunca geçerli birim fiyatı nasıl hesaplay geçtiğimize bir örnek verilmiştir.
 
 Tabloda aşağıdaki değerler geçerlidir: 
 

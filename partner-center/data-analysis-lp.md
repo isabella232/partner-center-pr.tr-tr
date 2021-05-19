@@ -9,19 +9,16 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3aec8c8abe6184be48fd54e0f76bc7e0c08e4792
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: 7dab3469b885f693ba8498e8a07eb120b8f07021
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441889"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147216"
 ---
 # <a name="use-analytics-to-learn-more-about-subscription-revenue"></a>Abonelik geliri hakkında daha fazla bilgi edinmek için analiz kullanın
 
-**Uygun roller**
-
-- Genel yönetici
-- MPN iş ortağı Yöneticisi
+**Uygun roller**: genel yönetici | MPN iş ortağı Yöneticisi
 
 CSP işinizi geliştirmenin yollarını planlarken müşterilerinizin Microsoft ürünlerini nasıl kullandığını anlamalısınız. İş Ortağı Merkezi 'nde veri toplamaya yönelik çeşitli seçenekleriniz vardır ve hem işiniz hem de müşterilerinizin satın aldıkları lisansları nasıl kullandığı hakkında veri toplayabilirsiniz. CSP doğrudan modelinde çalışıyorsanız, ek veri toplamak için Power BI için Partner Center Analytics uygulamasını yükleyip kullanabilirsiniz.
 
@@ -49,31 +46,31 @@ Gelirin bir dökümünü Iş ortağı konum hesap düzeyinize görmek için:
 
 ## <a name="subscription-summary"></a>Abonelik Özeti
 
-Ekranın alt yarısında, aboneliklerin bir özeti görüntülenir. Gerekli abonelik ayrıntılarını görmek için aşağıdaki filtreleri kullanın:  
+Ekranın alt yarısında aboneliklerin özeti görüntülenir. Gerekli abonelik ayrıntılarını görmek için aşağıdaki filtreleri kullanın:  
 
-1. **Süre**: abonelik özetini görmeyi tercih edebilirsiniz 
+1. **Süre:** için abonelik özetini almayı tercih edebilirsiniz 
 
-- 30D – son 30 gün
-- 3Dk – son 3 ay
-- 6Dk – son 6 ay
-- 12D – son 12 ay
+- 30D – Son 30 gün
+- 3M – Son 3 ay
+- 6M – Son 6 ay
+- 12 milyon – Son 12 ay
 
-2. **Ürün türü**:
+2. **Ürün Türü:**
  
 - Office 365
 - Microsoft 365
 - Dynamics 365
 - EMS
 
-Bu filtrelerin uygulanması, bu raporun en üstünde yer alacak olan TTD gelir ölçümünü etkilemez.
+Bu filtrelerin uygulanması, bu raporun üst kısmında yer alan TTM gelir ölçümlerini etkilemez.
 
 
  
 ## <a name="next-steps"></a>Sonraki adımlar
 
-- [Müşterilerinizin satın aldıkları lisansları nasıl kullandığını çözümleyin](increasing-adoption-and-satisfaction.md)  
+- [Müşterilerin satın alınan lisansları nasıl kullanıyor olduğunu analiz etme](increasing-adoption-and-satisfaction.md)  
 - [Müşteri etkinlik günlüklerini görüntüleme](activity-logs.md)
-- [Power BI için iş ortağı merkezi analizi uygulaması](power-bi-app-for-direct-partners.md)
+- [Power BI için İş Ortağı Merkezi Analiz uygulaması](power-bi-app-for-direct-partners.md)
 
 
 

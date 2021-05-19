@@ -1,42 +1,39 @@
 ---
 title: Ödeme zamanlamaları ve süreçleri
-description: Ticari Market ve diğer işlemler için ödeme zamanlamaları ve çıkış işlemleri gibi ödemeler ve işlemler hakkında bilgi edinin.
-ms.service: partner-dashboard
-ms.subservice: partnercenter-mpn
+description: Ticari market ve diğer işlemler için ödeme zamanlamaları ve yeniden ödeme işlemleri gibi ödemeler ve işlemler hakkında bilgi alın.
+ms.service: marketplace
+ms.subservice: partnercenter-marketplace-publisher
 ms.topic: conceptual
 author: eunjkim520
 ms.author: eunjkim
 ms.date: 12/04/2020
-ms.openlocfilehash: f4d31a5cf0752d03248b0efddb98ce621f9174f9
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: f2ba8132677eb0a0368021b6d7065f5202589f24
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106086184"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146961"
 ---
 # <a name="payout-schedules-and-processes"></a>Ödeme zamanlamaları ve süreçleri
 
-**Uygun roller**
+**Uygun roller:** Hesap yöneticisi | Genel yönetici
 
-- Hesap yöneticisi
-- Genel yönetici
-
-Bu makalede, Microsoft 'un ödeme zamanlaması açıklanır. bu durum, bir ödeyen durumunun nerede bulunacağını ve müşterinin ödeme yapılmadığı süreci anlatmaktadır.
+Bu makalede Microsoft'un ödeme zamanlaması, ödemenin durumu nerede bulunacak ve ödemesi olmayan müşterinin işlemi ele alır.
 
 ## <a name="payment-schedules"></a>Ödeme zamanlamaları
 
-Aşağıdaki bölümlerde, **Kurumsal Anlaşma** ve **kredi kartı/fatura** işlemleri için ödeme sürecimiz açıklanır.
+Aşağıdaki bölümlerde, kredi **kartı/fatura** işlemleri için **Kurumsal Anlaşma** işlemlerimiz açıklanmaktadır.
 
-### <a name="enterprise-agreement-transactions"></a>Kurumsal Anlaşma işlemler
+### <a name="enterprise-agreement-transactions"></a>Kurumsal Anlaşma işlemleri
 
-Bir müşteri, mevcut Microsoft Kurumsal Anlaşma işlemler için kullanarak Microsoft AppSource veya Azure Marketi 'nden bir ürün satın aldığında, bir sonraki ödeme ömrü 30 günlük Müşteri faturasında ödemeler yayınlarız. Müşterinin kredi kartı kullandığı işlemler, ödemesinden önce 30 günlük bir bekleme süresi sağlar.
+Müşteri mevcut Microsoft Kurumsal Anlaşma'sini kullanarak Microsoft AppSource veya Azure Market ürün satın aldı mı, sonraki ödeme döngüsünde ödemeleri 30 günlük müşteri faturasından sonra biz öderiz. Müşterinin kredi kartı kullandığı işlemlerin ödemeden önce 30 günlük tutma süresi vardır.
 
-Bir ödeme genellikle Microsoft 'un müşteriden ödeme toplamasından önce meydana gelir. Müşteri Microsoft 'a ödeme yapdığımızda, ancak zaten bir ödeme yapmış olduğumuz eylemler için aşağıdaki [Müşteri ödemesiz işleme](#process-for-customer-non-payment) ' ya bakın.
+Ödeme genellikle Microsoft müşteriden ödeme toplamadan önce gerçekleşir. Müşterinin [Microsoft'a ödemesi başarısız](#process-for-customer-non-payment) olduğunda ancak ödemesi zaten yapılan işlemler için aşağıdaki Müşterinin ödemesi olmayan ödeme işlemi'ne bakın.
 
-| Olay | Description | Raporlama görünürlüğü | Zaman |
+| Olay | Description | Raporlama Görünürlüğü | Zamanlama* |
 | --- | --- | --- | --- |
-| İşlemin kullanımı veya ayı | Müşteri bir hizmeti kullanır veya satın alarak. | [Kullanım](/azure/marketplace/partner-center-portal/usage-dashboard) veya [sıralama](/azure/marketplace/partner-center-portal/orders-dashboard) panosu | **Ay 1** |
-| Microsoft fatura tutarını hesaplar | Toplam kullanımı belirleme, toplam işlem | [Kullanım](/azure/marketplace/partner-center-portal/usage-dashboard) veya [sıralama](/azure/marketplace/partner-center-portal/orders-dashboard) panosu | **Ay 2** |
+| Kullanım veya işlem ayı | Müşteri bir hizmet kullanır veya satın alır. | [Kullanım](/azure/marketplace/partner-center-portal/usage-dashboard) veya [Sipariş](/azure/marketplace/partner-center-portal/orders-dashboard) Panosu | **1. Ay** |
+| Microsoft faturalama tutarını hesaplar | Toplam kullanımı, toplam işlemleri belirleme | [Kullanım](/azure/marketplace/partner-center-portal/usage-dashboard) veya [Sipariş](/azure/marketplace/partner-center-portal/orders-dashboard) Panosu | **2. Ay** |
 | Ödeme gönderildi | Ajantı ücretini ve ödeme kazançlarını belirleme | [Ödeme bildiriminde](payout-statement.md) Işlem geçmişinde işlenmemiş olarak işaretlendi | **Ay 3 (1 hafta)** |
 | Ödeme hazırlığı | Kazançlar aylık ödeme için hazırlandı | [Ödeme bildiriminde](payout-statement.md) Işlem geçmişinde yakında çıkacak şekilde işaretlendi | **Ay 3 (1 hafta)** |
 | **Ödeme gönderildi** | **Ödeme, yayımcıya gönderilir** | **Işlem geçmişinde ve ödeme [bildiriminin](payout-statement.md) ödemeler bölümünde gönderildi olarak işaretlendi** | **3. ay (15 ' ten sonra değil)** |
@@ -51,13 +48,13 @@ Bir ödeme genellikle Microsoft 'un müşteriden ödeme toplamasından önce mey
 
 Kredi kartına veya aylık faturaya sahip tüm satın alımlarda, müşteri üzerinden fon toplandığından emin olmak için 30 günlük bir bekleme süresi bulunur.
 
-| Olay | Description | Raporlama görünürlüğü | Zaman |
+| Olay | Description | Raporlama görünürlüğü | Zamanlama* |
 | --- | --- | --- | --- |
-| İşlemin kullanımı veya ayı | Müşteri bir hizmeti kullanır veya satın alarak. | [Kullanım](/azure/marketplace/partner-center-portal/usage-dashboard) veya [sıralama](/azure/marketplace/partner-center-portal/orders-dashboard) panosu | **Ay 1** |
-| Müşteriye göre ödenen fatura | Toplam kullanımı, toplam işlem değerini ve müşterinin ödediği faturayı belirleme | [Kullanım](/azure/marketplace/partner-center-portal/usage-dashboard) veya [sıralama](/azure/marketplace/partner-center-portal/orders-dashboard) panosu | **Ay 2** |
-| Ödeme gönderildi | Ajantı ücretini ve ödeme kazançlarını belirleme | [Ödeme bildiriminde](payout-statement.md) Işlem geçmişinde işlenmemiş olarak işaretlendi | **Ay 2** |
-| 30 günlük tutulduğu dönem | Fonların toplanması, olası geri göndermeler ve geri ödeme istekleri olduğundan emin olun | [Ödeme bildiriminde](payout-statement.md) Işlem geçmişinde işlenmemiş olarak işaretlendi | **Ay 3** |
-| Ödeme hazırlığı | Kazançlar aylık ödeme için hazırlandı | [Ödeme bildiriminde](payout-statement.md) Işlem geçmişinde yakında çıkacak şekilde işaretlendi | **Ay 4 (1 hafta)** |
+| Kullanım veya işlem ayı | Müşteri bir hizmet kullanır veya satın alır. | [Kullanım](/azure/marketplace/partner-center-portal/usage-dashboard) veya [Sipariş](/azure/marketplace/partner-center-portal/orders-dashboard) Panosu | **1. Ay** |
+| Müşteri tarafından ödenen fatura | Toplam kullanımı, toplam işlem değerini ve müşteri ödeme faturasını belirleme | [Kullanım](/azure/marketplace/partner-center-portal/usage-dashboard) veya [Sipariş](/azure/marketplace/partner-center-portal/orders-dashboard) Panosu | **2. Ay** |
+| Ödeme gönderildi | Ajans ücretini ve ödeme kazançlarını belirleme | Ödeme deyiminde İşlem Geçmişinde İşlenmemiş [olarak işaretlendi](payout-statement.md) | **2. Ay** |
+| 30 günlük tutma süresi | Fon toplama, olası geri ödeme ve para iadesi isteklerinin top olduğundan emin olmak | Ödeme deyiminde İşlem Geçmişinde İşlenmemiş [olarak işaretlendi](payout-statement.md) | **3. Ay** |
+| Ödemeyi hazırlama | Kazançlar aylık ödeme için hazırlanır | Ödeme hesap hesaplarında İşlem Geçmişi'ne Gelecek [olarak işaretlendi](payout-statement.md) | **Ay 4 (1 hafta)** |
 | **Ödeme gönderildi** | **Ödeme, yayımcıya gönderilir** | **Işlem geçmişinde ve ödeme [bildiriminin](payout-statement.md) ödemeler bölümünde gönderildi olarak işaretlendi** | **4. ay (15. günden sonra değil)** |
 |
 
@@ -77,14 +74,14 @@ Aşağıdaki zamanlama bir örnektir:
 
 | Olay | Yaklaşık Tarih * | İş ortağı görünürlüğü |
 | --- | --- | --- |
-| Örnek ödeme tarihi | 10/15/2020 | Ödeme panosundaki Işlem geçmişi ve ödemeler bölümünde **gönderildi** olarak işaretlendi |
-| <font color="red">Müşteri Microsoft 'a ödeme yapmasa da</font> | 12/2/2020 – 12/5/2020 | Değişiklik yok, yukarıdaki ile aynı |
-| Müşteri ilk geç ödeme e-postasını alır | 12/6/2020 | Yok |
-| Müşteri, artan aciliyet e-postalarını alır | 12/7/2020 – 1/31/2021 | Yok |
-| Yayımcı, yazma işlemi için büyük olasılıkla | 1/7/2021 | Müşteriye henüz ödeme gönderilmemiş olan e-posta bildirimi gönderilir. İşlem KIMLIĞI ve dolar miktarı dahil edilir. |
-| Müşteri sonlandırma bildirimini alır | 2/1/2021 | Yok |
-| Toplama işleminin bitişi/fonları yazılır | 2/15/2021 | Fonların yazıldığı yayımcıya gönderilen e-posta bildirimi. İşlem KIMLIĞI ve dolar miktarı dahil edilir. |
-| Ödeme kesinti | 01.03.2021 | Yayımcı, Iş Ortağı Merkezi ödeme bildiriminde negatif işlem görür |
+| Örnek ödeme tarihi | 10/15/2020 | İşlem **Geçmişinde** ve Ödeme Panosu'nın Ödemeler bölümünde Gönderildi olarak işaretlendi |
+| <font color="red">Müşteri Microsoft'a ödemezse</font> | 12/2/2020 – 12/5/2020 | Yukarıdakiyle aynı şekilde değişiklik yok |
+| Müşteri ilk geç ödeme e-postası alır | 12/6/2020 | Hiçbiri |
+| Müşteri artan aciliyet e-postalarını alıyor | 12/7/2020 – 1/31/2021 | Hiçbiri |
+| Yayımcıya büyük olasılıkla kapalı yazma bildirildi | 1/7/2021 | Yayımcıya, müşterilerinin henüz ödeme göndermemiş olduğu e-posta bildirimi gönderilir. İşlem kimliği ve dolar tutarı dahil edilir. |
+| Müşteri sonlandırma bildirimi alır | 2/1/2021 | Hiçbiri |
+| Toplama işlemi sona erer / fonlar yazılır | 2/15/2021 | Fonlar yazılıp yayımcıya gönderilen e-posta bildirimi. İşlem kimliği ve dolar tutarı dahil edilir. |
+| Ödeme düşüldüğü | 01.03.2021 | Yayımcı, Iş Ortağı Merkezi ödeme bildiriminde negatif işlem görür |
 | Ödeme stopaj uygulanan | 3/15/2021 | Gelecekteki ödemeler, Iş Ortağı Merkezi ödeme bildiriminde gösterilir. Bu, bakiye artık negatif olmadığından, ödeme ödemeyi almaz.  |
 |||
 

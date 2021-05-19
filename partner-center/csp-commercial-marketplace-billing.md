@@ -9,20 +9,17 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 10592c7f8a3b1f075bc726161603859552b29961
-ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
+ms.openlocfilehash: c25d4ab3077c6a0f648c767472e8b7b60ef53a9c
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "97979541"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148032"
 ---
 # <a name="billing-for-commercial-marketplace-products-and-subscriptions-in-partner-center"></a>Iş Ortağı Merkezi 'nde ticari Market ürünleri ve abonelikleri için faturalandırma
 
 
-**Uygun roller**
-
-- Genel yönetici
-- Faturalama yöneticisi
+**Uygun roller**: genel yönetici | Faturalama yöneticisi
 
 CSP programındaki bir iş ortağı olarak, ticari Market 'teki ISV yayımcılarından lisans tabanlı SaaS ürünlerini satın almak için Iş Ortağı Merkezi 'ni kullanabilirsiniz. Bunu yaptıktan sonra, bu tür satın alma işlemleri için bir faturaya erişebilirsiniz. Fatura dönemi, takvim ayının ilk gününde başlar ve takvim ayının son gününde sona erer. Faturalar, aşağıdaki ayın 8. gününde kullanılabilir hale getirilir.
 
@@ -37,7 +34,7 @@ CSP programındaki iş ortakları, Iş Ortağı Merkezi 'nden veya Azure portal 
 
 Bir fatura görüntülemeye hazırsanız şirketinizin genel yönetici veya faturalama yöneticisi bir e-posta alır. Ticari Market ürün satın alımları için en son faturaya ve mutabakat dosyasına erişmek için:
 
-1. Iş Ortağı Merkezi [panosunda](https://partner.microsoft.com/dashboard/)oturum açın.
+1. İş Ortağı Merkezi [panosunda](https://partner.microsoft.com/dashboard/) oturum açın.
 
 2. Iş Ortağı Merkezi menüsünde **faturalandırma**' i seçin. 
 
@@ -47,7 +44,7 @@ Bir fatura görüntülemeye hazırsanız şirketinizin genel yönetici veya fatu
 
     - **Yinelenen ve tek seferlik satın** alma sekmesi: Azure planı, Azure ayırmaları, yazılım ve ticari Market ürünleri için fatura ve mutabakat dosyalarını gösterir.
   
-3. **Yinelenen ve tek seferlik Satınalmalar** sekmesini seçin. Bir müşteri için abonelikleri farklı bir para birimiyle satın aldıysanız, her para birimi için bir sekme görürsünüz. Birkaç şey yapabilirsiniz fr: OM Bu sayfa:
+3. **Yinelenen ve tek seferlik Satınalmalar** sekmesini seçin. Bir müşteri için abonelikleri farklı bir para birimiyle satın aldıysanız, her para birimi için bir sekme görürsünüz. Bu sayfadan birkaç şey yapabilirsiniz:
 
     - En son fatura ve mutabakat dosyasını görmek için **Fatura** veya **Mutabakat dosyası**' nı seçin. (İsterseniz, en son faturaya ve keşfi dosya verilerine [Iş Ortağı Merkezi API 'lerini](/partner-center/develop/)kullanarak da erişebilirsiniz.
 
@@ -58,34 +55,34 @@ Bir fatura görüntülemeye hazırsanız şirketinizin genel yönetici veya fatu
     >[!NOTE]
     > Faturanız ayın 8. gününde faturalandırıldığımızda, vergiler ve diğer ilgili ücretleri ve krediler dahil edilir. Bu, son tutarın, fatura dönemi boyunca gördüklerinizden farklı olabileceği anlamına gelir.
 
-## <a name="more-about-invoices-and-recon-files-for-commercial-marketplace-products"></a>Ticari Market ürünleri için faturalar ve keşfi dosyaları hakkında daha fazla bilgi
+## <a name="more-about-invoices-and-recon-files-for-commercial-marketplace-products"></a>Ticari market ürünleri için faturalar ve mutabakat dosyaları hakkında daha fazla bilgi
 
-Bu bölümde, üçüncü taraf ISV yayımcılarından müşteriler için satın alınan ticari Market SaaS aboneliklerine yönelik fatura ve mutabakat dosyaları hakkında daha fazla bilgi sunulmaktadır.
+Bu bölümde, üçüncü taraf ISV yayımcılarından müşteriler için satın alınan ticari market SaaS abonelikleri için fatura ve mutabakat dosyaları hakkında daha fazla bilgi sunulmaktadır.
 
-Iş Ortağı Merkezi menüsündeki **faturalandırma** seçeneğinden **yinelenen ve tek seferlik satın alımlar** ' ı seçtiğinizde, hem Microsoft (birinci taraf) hem de ISV (üçüncü taraf) satın alımlarıyla ilgili ücretler için faturalara ve mutabakat dosyalarına erişim elde edersiniz. Bu satın almalarla ilişkilendirilebilir:
+İş Ortağı Merkezi menüsündeki Faturalama seçeneğinden Yinelenen  ve tek kez satın almalar'ı seçerek hem Microsoft (birinci taraf) hem de ISV (üçüncü taraf) satın almaları ile ilgili ücretler için faturalara ve mutabakat dosyalarına erişim elde edersiniz.  Bu satın almalar aşağıdakilerle ilişkili olabilir:
 
-- SaaS abonelikleri (Microsoft ya da ISV yayımcılarından)
+- SaaS abonelikleri (Microsoft veya ISV yayımcılarından)
 
 - Azure planı
 
 - Azure rezervasyonları
 
-- Diğer abonelik tabanlı yazılımlar (Microsoft ya da ISV yayımcılarından)
+- Diğer abonelik tabanlı yazılımlar (Microsoft veya ISV yayımcılarından)
 
-Bu satın almalara örnek olarak SUSE Linux yazılımı (yazılım aboneliği) veya bir Azure ISV SaaS ürün aboneliği bulunabilir.
+Bu satın alma örnekleri arasında SUSE Linux yazılımı (yazılım aboneliği) veya Azure ISV SaaS ürün aboneliği yer alır.
 
 >[!NOTE]
-> Fatura ve keşfi dosyalarını okuma hakkında daha fazla bilgi için bkz. [faturalandırma genel bakış](billing.md).
+> Fatura ve mutabakat dosyalarını okuma hakkında daha fazla bilgi için bkz. Faturalamaya [genel bakış.](billing.md)
 
 ### <a name="tips-on-reading-your-invoice"></a>Faturanızı okuma ipuçları
 
-Üçüncü taraf bir ISV yayımcısından lisans tabanlı bir SaaS ürünü satın aldığınızda, yalnızca faturanızda lisans ücreti için ücret görüntülenir. ISV SaaS ürünü, temel alınan Azure altyapı kaynaklarını kullandığında (veya tükettiği), bu, geçerlidir. Bunun nedeni, müşterinizin bir ISV 'nin SaaS ürünü için Azure altyapı kullanım ücretlerinden doğrudan ISV 'ye faturalandırılması nedeniyle oluşur. (ISV 'Ler, ilişkili Azure tüketim ücretlerini kendi Azure kullanımı günlük derecelendirmeli fatura mutabakatı dosyasında görür.)
+Üçüncü taraf BIR ISV yayımcısı tarafından lisans tabanlı SaaS ürünü satın aldığınız zaman, faturanıza yalnızca lisans ücreti için ücret yansıtılacaktır. ISV'nin SaaS ürünü temel Alınan Azure altyapı kaynaklarını kullandığında (veya kullandığında) bile bu doğrudur. Bunun nedeni, müşterinizin BIR ISV SaaS ürününün Azure altyapısı kullanım ücretlerinin doğrudan ISV'ye faturalandırılatır. (ISV'ler ilişkili Azure tüketim ücretlerini kendi Azure kullanımları günlük olarak derecelendirilmiş fatura mutabakat dosyasında görebilir.)
 
-Faturanızda çeşitli sayfalar yer alacak:
+Faturanız birkaç sayfa içerir:
 
-- **Faturanın 1. sayfası:** CSP program ortağının faturalandırma ayrıntılarına bir Özet bakış içerir. Bu, fatura dönemi, fatura numarası, ödeme koşulları (NET 60 gün) ve tel veya çek aracılığıyla ödeme yapmak için ödeme ödemesi yöntemlerine yönelik ücretler özetini içerir.
+- **Faturanın 1. sayfası:** CSP programı iş ortağının faturalama ayrıntılarına genel bir bakış içerir. Buna faturalama dönemi ücretlerinin özeti, fatura numarası, ödeme koşulları (Net 60 gün) ve havaleyle veya çekle ödemeye yönelik faturalama ödeme yöntemleri dahildir.
 
-- **Faturaya ait 2 (ve sonraki tüm sayfalar) sayfası:** Ticari Market 'ten hem birinci taraf Microsoft satınalmaları hem de üçüncü taraf ISV (lisans tabanlı) satın alma işlemleri için Ayrıntılar ücretleri. ISV lisansı tabanlı satın alımları her ürün adının altında **Yayımcı** satırıyla tanımlayabilirsiniz. İlişkili mutabakat dosyası, belirli fatura ücretleri için daha fazla faturalandırma ayrıntısı sunar.
+- **Faturanın 2. Sayfası (ve sonraki sayfalar):** Ticari marketten hem birinci taraf Microsoft satın almaları hem de üçüncü taraf ISV (lisans tabanlı) satın almaları için ayrıntılar. ISV lisansı tabanlı satın alımları her ürün adının altında **Yayımcı** satırıyla tanımlayabilirsiniz. İlişkili mutabakat dosyası, belirli fatura ücretleri için daha fazla faturalandırma ayrıntısı sunar.
 
 - **Faturanın son sayfası:** Bir ISV 'den lisans tabanlı Market ürünleri için ücretlendirilmiş olmanız durumunda bu son sayfada ISV yayımcısının adı ve adresiyle ilgili daha fazla ayrıntı görüntülenir.
 
@@ -101,9 +98,9 @@ Mutabakat dosyanızdaki bazı ücretler $0 maliyeti ile görünebilir. Bunun ned
 
 - Müşterilerinizin müşterinizin ücretsiz deneme sürümünü satın alıp dağıttığınızda, müşteri otomatik olarak ISV yayımcısı tarafından ücretsiz denemeye kaydedilir. Ücretsiz deneme süresi, ISV yayımcısı tarafından tanımlanan dönemden sonra otomatik olarak sona erer. Süre bittikten sonra müşteri ücretlendirilecektir. Bu, mutabakat dosyasının deneme sürümü uygun bir ürün için iki satır gösterebileceği anlamına gelir: deneme süresini izleyen ve ücretli teklifi izleyen bir ücret (deneme süresi sona erdikten sonra $0 maliyeti gösterir). Deneme süresi bittikten sonra, ücretli teklifin gösterildiği satır ücretleri göstermeye başlayacaktır. 
 
-Her sütunun temsil ettiği hakkında daha fazla bilgi için bkz. [karşılaştırma dosyalarınızı kullanma](use-the-reconciliation-files.md). Ayrıca bkz. [Iş Ortağı Merkezi 'nde faturalandırma türleri](billing-different-types.md)
+Her sütunun neyi temsil ettiği hakkında daha fazla bilgi için [bkz. Mutabakat dosyalarınızı kullanma.](use-the-reconciliation-files.md) Ayrıca [bkz. İş Ortağı Merkezi'da faturalama türleri](./billing-basics.md)
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-- [Müşteriler için ticari Market ürünlerini yönetme](csp-commercial-marketplace-manage.md)
-- [Ticari Market ürünleri desteği hakkında bilgi edinin](csp-commercial-marketplace-support.md)
+- [Müşteriler için ticari market ürünlerini yönetme](csp-commercial-marketplace-manage.md)
+- [Ticari market ürünlerine yönelik destek hakkında bilgi alın](csp-commercial-marketplace-support.md)

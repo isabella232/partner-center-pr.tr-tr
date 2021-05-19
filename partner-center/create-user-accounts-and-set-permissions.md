@@ -1,6 +1,6 @@
 ---
 title: Kullanıcı hesapları oluşturma ve rol atama
-description: Iş Ortağı Merkezi 'Ne erişebilmek için her çalışana bir rol atanması gerekir. Kullanıcı hesapları oluşturma, rol atama ve izinleri ayarlama hakkında bilgi edinin.
+description: Her çalışana erişim izni olmadan önce bir rol İş Ortağı Merkezi. Kullanıcı hesapları oluşturma, rol atama ve izinleri ayarlama hakkında bilgi.
 ms.topic: how-to
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
@@ -9,43 +9,39 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.date: 10/12/2020
-ms.openlocfilehash: c8fad4432f9aabba69877d80038ec9e2665c639d
-ms.sourcegitcommit: 4e36d1a4ca2f074b55f9b9a08e300734eae1f06d
+ms.openlocfilehash: 9621f0bc3283d7d3b08e2ebac62b4e5d8c95a4d4
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/15/2020
-ms.locfileid: "97492543"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148151"
 ---
 # <a name="create-user-accounts"></a>Kullanıcı hesapları oluşturma  
 
-**Uygun roller**
+**Uygun roller:** Hesap yöneticisi | Genel yönetici | Kullanıcı yönetimi yöneticisi
 
-- Hesap yöneticisi
-- Genel yönetici
-- Kullanıcı Yönetimi Yöneticisi
-
-Iş Ortağı Merkezi 'ne erişmesi gereken çalışanlar için Kullanıcı hesapları oluşturun. Bu görevlerin Kullanıcı Yönetimi Yöneticisi, hesap yöneticisi veya genel yönetici tarafından yapılması gerekir. Bu görevleri gerçekleştiren kullanıcıya ayrıca Kullanıcı Yöneticisi veya genel yönetici Azure Active Directory (AAD) rolleri atanmalıdır. AAD rolleri hakkında daha fazla bilgi için [Azure Active Directory Içindeki yönetici rolü izinleri](/azure/active-directory/users-groups-roles/directory-assign-admin-roles)bölümüne bakın.
+Şirket hesabına erişmesi gereken çalışanlar için kullanıcı İş Ortağı Merkezi. Bu görevlerin kullanıcı yönetimi yöneticisi, hesap yöneticisi veya genel yönetici tarafından yapılması gerekir. Bu görevleri gerçekleştiren kullanıcıya Kullanıcı yöneticisi veya Azure Active Directory (AAD) rolü de Genel yönetici. AAD rolleri hakkında daha fazla bilgi için [bkz.](/azure/active-directory/users-groups-roles/directory-assign-admin-roles)Azure Active Directory.
 
 ## <a name="add-a-new-user"></a>Yeni kullanıcı ekleme
 
-1. Iş Ortağı Merkezi 'nin sağ üst köşesindeki **Ayarlar** simgesinden **Hesap ayarları** ' nı seçin ve ardından **Kullanıcı yönetimi**' ni seçin.
+1. Uygulamanın **sağ** üst köşesindeki Ayarlar simgesinden Hesap İş Ortağı Merkezi'ı **ve ardından** Kullanıcı **yönetimi'ne tıklayın.**
 
 2. **Kullanıcı ekle**'yi seçin.
 
 3. Kullanıcının tam adını ve benzersiz e-posta adresini girin.
 
-4. Aracının türünü ve/veya kullanıcıya atamak istediğiniz yönetici türünü seçin. İş ortağı merkezi erişimi rol tabanlıdır, bu nedenle kullanıcının görünümünü yalnızca kullanıcının belirli görevleri tamamlaması için ihtiyaç duyacağı özellikleri gösterecek şekilde özelleştirmek için izinler atayabilirsiniz.  Kullanıcılar bir rol ataması istiyorlarsa, genel yöneticilerle **Kullanıcı yönetimine** ve filtrelemeye geçerek genel yöneticileri iletişim kurmak üzere bulabilir.
+4. Aracı türünü ve/veya kullanıcıya atamak istediğiniz yönetici türünü seçin. İş Ortağı Merkezi rol tabanlıdır, bu nedenle kullanıcının görünümünü yalnızca kullanıcının belirli görevleri tamamlaması için gereken özellikleri gösterecek şekilde özelleştirmek için izinler atabilirsiniz.  Kullanıcılar rol ataması yapmak isterse, Kullanıcı yönetimi'ne  gidip genel yöneticiyi filtreleerek genel yöneticilerin iletişim kuracaklarını bulabilirler.
 
 5. Kullanıcı hesabını oluşturmak için **Ekle**'yi seçin. Sonraki sayfada kullanıcının ayrıntılarını onaylayın.
 
 > [!IMPORTANT]  
-> Yeni kullanıcının oturum açma bilgilerini bu sayfada bir yere unutmayın. Daha sonra tekrar erişemeyeceksiniz, bu bilgileri kopyalayıp yeni kullanıcıya gönderdiğinizden emin olun. 
+> Bu sayfada görüntülenen yeni kullanıcının oturum açma bilgilerini not edin. Bu bilgileri kopyalayıp yeni kullanıcıya gönderebilirsiniz çünkü daha sonra bu bilgilere yeniden erişesiniz. 
 
-Kullanıcının Iş Ortağı Merkezi 'nde Kullanıcı adı ve geçici parola ile oturum açması gerekir. Kullanıcı Iş Ortağı Merkezi 'ne ilk kez oturum açtığında, kullanıcıların parolalarını değiştirmesi istenir.
+Kullanıcının kullanıcı adı ve geçici parolayla İş Ortağı Merkezi oturum açması gerekir. Kullanıcı, İş Ortağı Merkezi kez oturum açınca parolasını değiştirmesi istenir.
 
 ## <a name="assign-user-roles"></a>Kullanıcı rolleri atama
 
-İş Ortağı Merkezi 'nde çalışmak için atanmış bir role sahip olmanız gerekir.  Şu anda, roller Azure Active Directory kiracı rolleri, bulut çözümü sağlayıcısı (CSP) rolleri ve AAD olmayan şirket rollerini içerir. Tek bir şirketin bu rollerin tümüne ihtiyacı olabilir.
+Bu rolde İş Ortağı Merkezi için atanmış bir rolünüz olması gerekir.  Şu anda roller kiracı Azure Active Directory, Bulut Çözümü Sağlayıcısı (CSP) rolleri ve AAD dışı şirket rollerini içerir. Tek bir şirketin bu rollerin tümüne ihtiyacı olabilir.
 
 >[!Important]
 >Iş Ortağı Merkezi 'ne erişmek için kişisel kişilerin kiracınızda listelenmesi gerekir. Rol atamaları ek erişim sağlar.

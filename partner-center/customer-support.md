@@ -1,6 +1,6 @@
 ---
 title: Müşterilerinize destek sağlama
-description: CSP programındaki iş ortakları için müşteri destek sorumlulukları hakkında bilgi edinin. Faturalandırma, abonelik yönetimi ve teknik sorunlar için desteği içerir.
+description: CSP programında iş ortakları için müşteri desteği sorumlulukları hakkında bilgi edinmek. Faturalama, abonelik yönetimi ve teknik sorunlar için desteği kapsar.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: Kim-Davis
@@ -9,34 +9,30 @@ ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
 ms.date: 01/22/2021
-ms.openlocfilehash: ae39190e47b48a69e103da6d899b11c224a56d22
-ms.sourcegitcommit: 08a175c06ff4c6a2b12713f081adfa489e16e7a1
+ms.openlocfilehash: c4e1459b71016718533d02953691065332c4ad13
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "109686152"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147352"
 ---
 # <a name="providing-different-types-of-support-to-your-customers"></a>Müşterilerinize farklı türlerde destek sağlama
 
-**Şunlara uygulanır**
+**Için geçerlidir:** İş Ortağı Merkezi | İş Ortağı Merkezi için Microsoft Cloud for US Government
 
-- Microsoft Cloud for US Government için İş Ortağı Merkezi
+**Uygun roller:** Yardım aracısı
 
-**Uygun roller**
+## <a name="microsoft-partner-support-guidance"></a>Microsoft iş ortağı desteği kılavuzu
 
-- Yardım Aracısı
+CSP modelinde işlem yapılan iş ortakları, müşterilerinin güvenilir danışmanıdır ve doğrudan fatura iş ortağıysanız ilişki uzdan sona size ait olur. Dolaylı kurumsal bayiler, müşterileri desteklemek için dolaylı sağlayıcılarıyla birlikte çalışmalı. Bu ilişki, soru veya sorunları olduğunda müşterilerinize destek olmaktır. Müşterilerinize destek sağlayarak hem müşteriler hem de işletmeleri hakkında daha fazla bilgi sahibi olursiniz. Bunu yapmak, değer katan yeni hizmetleri ve çözümleri tanımlamanıza yardımcı olur.
 
-## <a name="microsoft-partner-support-guidance"></a>Microsoft iş ortağı destek Kılavuzu
+Destek gereksinimini karşılamak için başka bir şirketten destek yeniden satışa, destek yapısının bir parçasına veya bir parçasına dış kaynak sağlama ve/veya doğrudan destek sağlayacak bir yapı kurabilirsiniz. Müşterilere sağlanan desteğin hepsi veya bir bölümü için ücret tahsil edersiniz. Müşterilere, size sağ sürecek destek türlerini, hizmet saatlerini, iletişim yöntemini ve fiyatlandırmayı (destek için ücretlendirme yapılması halinde) söylemeniz gerekir.
 
-CSP modelindeki iş ortakları, müşterilerine yönelik güvenilir danışmanlardır ve doğrudan bir fatura ortağıysanız, ilişkiye uçtan uca sahip olabilirsiniz. Dolaylı satıcılar, müşterileri desteklemek için dolaylı sağlayıcılarıyla birlikte çalışmalıdır. Bu ilişki, sorularınızı veya sorunlarını açtıklarında müşterilerinizi desteklemeyi içerir. Müşterilerinize destek sunarak, bunlar ve işleri hakkında daha fazla bilgi edinebilirsiniz. Bunun yapılması, değeri çalıştıran yeni hizmetleri ve çözümleri belirlemenize yardımcı olur.
+CSP müşterileri kendi kendilerine destek bileti oluşturamamaktadır. Destek için size ulaşarak iletişim kurmaları gerekir. CSP İş Ortaklarının müşterilerinden gelen destek isteklerini almaları, sorunları en iyi şekilde tanılamaları ve ardından temel destek sınırları kapsamındaki sorunları çözmeleri gerekir. Bir sorunu çözemiyorsanız, aşağıdaki destek araçları aracılığıyla sorunları Microsoft'a iletirsiniz:
 
-Destek gereksinimini karşılamak için, başka bir şirketten destek verebilir, destek yapısının tümünü veya bir bölümünü dış olarak oluşturabilir ve/veya doğrudan destek sağlamak için bir yapı ayarlayabilirsiniz. Müşterilere sunulan desteğin tümü veya bir parçası için ücret ödemeniz gerekebilir. Müşterilere sağlayacağınızı, hizmet saatlerini, iletişim yöntemini ve fiyatlandırmayı (destek için ücretlendirilütürgerekliyse) sunduğunuzdan emin olun.
+- **CSP** programında tüm iş ortakları için ticari sorun desteği kullanılabilir
 
-CSP müşterileri kendi kendine destek bileti oluşturamaz. Destek için sizinle iletişim kurabilmesi gerekir. CSP Iş ortaklarının, müşterilerinden gelen destek isteklerini alması, becerinize en uygun sorunları tanılamasını ve ardından taban çizgisi destek sınırları kapsamındaki sorunları çözmesidir. Bir sorunu çözemezseniz, aşağıdaki destek aracılarına göre sorunları Microsoft 'a dağıtabilirsiniz:
-
-- **Ticari** sorun desteği CSP programındaki tüm iş ortakları tarafından kullanılabilir
-
-- **Teknik** sorun desteği- [iş ortağı destek planlarını karşılaştırabilir](https://partner.microsoft.com/support/partnersupport) veya daha fazla bilgi için belirli bir destek planı hakkında aşağıdaki bağlantılara bakın:
+- **Teknik** sorun desteği - İş ortağı [destek planlarını karşılaştırabilirsiniz](https://partner.microsoft.com/support/partnersupport) veya daha fazla bilgi için belirli bir destek planı hakkında aşağıdaki bağlantılara bakın:
 
   - [Iş ortakları için Premier destek](https://partner.microsoft.com/support/microsoft-services-premier-support) (ücret tabanı, tüm ürünler için kullanım)
 

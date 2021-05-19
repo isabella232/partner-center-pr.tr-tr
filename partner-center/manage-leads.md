@@ -4,36 +4,33 @@ ms.topic: article
 ms.date: 06/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Iş ortağı merkezini kullanarak başvuruları yanıtlayın ve yeni, mevcut ve arşivlenmiş müşteri adaylarını ve başvuruları yönetin. Daha sonra da daha fazla başvuru almayı öğrenin.
+description: Referanslara İş Ortağı Merkezi ve yeni, var olan ve arşivlenmiş müşteri adaylarını ve referansları yönetmek için İş Ortağı Merkezi'i kullanın. Gelecekte daha fazla referans elde etmeyi de öğrenin.
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 94bcde2402b7276bef8eaaf84975f2a5677723fe
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: dd34a30cf21a90ac7781ed84945a208df13b3700
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106133123"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146553"
 ---
 # <a name="manage-different-leads-like-customer-inquiries-marketing-qualified-leads-and-sales-qualified-leads"></a>Müşteri sorguları, pazarlama için nitelikli müşteri adayları ve satış için nitelikli müşteri adayları gibi farklı müşteri adaylarını yönetme
 
-**Uygun roller**
+**Uygun roller:** MPN iş ortağı yöneticisi | Referans yöneticisi
 
-- MPN iş ortağı Yöneticisi
-- Başvuru Yöneticisi
+Microsoft, iş ortaklarına yılda milyonlarca müşteri adayı gönderiyor. Microsoft'tan müşteri adayları alma ve işlerinizi oluşturma fırsatınız var. Bu bölüm, Microsoft çözüm sağlayıcısı sayfasından gelen müşteri adaylarını yönetmeyi ve bunlar üzerinde eylemde bulunabilirsiniz.
 
-Microsoft, her yıl iş ortaklarına milyonlarca müşteri adayı gönderir. Microsoft 'tan müşteri adaylarını alma ve işinizi oluşturma fırsatınız vardır. Bu bölüm, Microsoft çözüm sağlayıcısı sayfasından aldığınız müşteri adaylarını yönetmeyi ve bunları üzerinde işlem yapılacağını anlamanıza yardımcı olur.
+Müşteri adaylarını almak için önkul, [şirketiniz için bir iş](create-a-marketing-profile.md) profili oluşturmaktır. Microsoft çözüm sağlayıcısı web sayfasında, şirket için oluştur ettiğiniz iş profili olası müşterilere, diğer iş ortaklarına ve Microsoft satıcılarına [görünmenize yardımcı](https://www.microsoft.com/solution-providers/home) olur. İş profili bilgileri, microsoft'un yetkinlik verileri ve ek onayları gibi şirket üyelik bilgileriyle bir araya geldiğinde, müşteriler birlikte çalışmak için bir iş ortağı arayabilecekleri zaman müşterilere zengin bir profil sağlar. Microsoft çözüm sağlayıcısı sayfasındaki profil listesiyle ilgili tüm istekler, sol gezinti  bölmesindeki Referanslar sekmesinin altında bulunan Müşteri Adayları bölümünde mevcuttur. 
 
-Müşteri adaylarını almak için önkoşul, şirketiniz için [bir iş profili oluşturmaktır](create-a-marketing-profile.md) . Şirketiniz için oluşturduğunuz iş profili, [Microsoft çözüm sağlayıcısı](https://www.microsoft.com/solution-providers/home) Web sayfasında yer alan müşteri, diğer iş ortakları ve Microsoft satıcılarına yönelik olarak görünür olmanıza yardımcı olur. İş profili bilgileriniz, şirketinizin uzmanlığa yönelik veriler ve ek onaylama bilgileri gibi şirketinizin üyelik bilgileriyle birlikte çalışarak, iş ortağının çalışması için arama yaparken müşterilere yönelik zengin bir profil sağlar. Microsoft çözüm sağlayıcısı sayfasındaki profil listesinden kaynaklanan tüm istekler, sol gezinti bölmesindeki **referanslar** sekmesinde bulunan **müşteri adayları** bölümünde bulunur.
+## <a name="types-of-leads"></a>Müşteri Adayı Türleri
 
-## <a name="types-of-leads"></a>Müşteri adayları türleri
+**Müşteri sorguları** : Bunlar doğrudan müşterilerden kaynaklanan müşteri adaylarıdır. Bir şirket, şirket profilinizi arayarak buldu ve ihtiyacı ve iletişim ayrıntılarını belirten formu doldurdu.
 
-**Müşteri sorguları** – bunlar doğrudan müşterilerden kaynaklanan müşteri adaylardır. Şirket Profilinizi aradı ve buldu ve ihtiyacı ve iletişim ayrıntılarını belirten formu doldurdu.
+**Pazarlama uygun** – Bunlar, çeşitli pazarlama kanallarından biri aracılığıyla müşteri isteğini alan Microsoft çalışanları tarafından şirketinize gönderilen müşteri adaylarıdır.
 
-**Pazarlama niteliği** : Bunlar, şirketinizin çeşitli pazarlama kanallarından biri aracılığıyla müşteri isteği almış olduğu Microsoft çalışanları tarafından şirketinize gönderilen müşteri adaylarıdır.
-
-**Satış niteliği** : Bunlar, müşterinin gereksinimlerini toplayan ve müşterilerin bir müşteri sorununu çözmek için doğru ortağı bulmasına yardımcı olan Microsoft satıcıları tarafından size gönderilen müşteri adaylardır. Bu müşteri adayları, Microsoft satış temsilcisinin, anlaşma kapanışına kadar iş ortağı ve müşteri ile etkin bir şekilde çalıştığı ortak satış fırsatlarıyla aynı değildir.
+**Uygun satış** – Bunlar, bir müşteriden gereksinimleri topan ve müşteri sorununu çözmek için doğru iş ortağını bulmalarına yardımcı olan Microsoft satıcılarının size gönderdiği müşteri adaylarıdır. Bu müşteri adayları, bir Microsoft satış temsilcisinin anlaşma kapatana kadar iş ortağı ve müşteriyle etkin bir şekilde birlikte bulunduğu Ortak satış fırsatlarıyla aynı değildir.
 
 ## <a name="navigating-the-leads-section"></a>Müşteri adayları bölümünde gezinme
 

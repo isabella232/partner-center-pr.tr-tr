@@ -1,6 +1,6 @@
 ---
-title: CSP doğrudan fatura iş ortakları için gereksinimler
-description: Microsoft Bulut Çözümü Sağlayıcısı (CSP) programında doğrudan fatura ortağı olmak için en son destek ve hizmet gereksinimlerini nasıl karşılayabilirsiniz?
+title: CSP doğrudan fatura ortakları için gereksinimler
+description: Microsoft Bulut çözümü sağlayıcısı (CSP) programında doğrudan fatura ortağı olmak için en son destek ve hizmet gereksinimlerini nasıl karşılacağınızı öğrenin.
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,56 +9,54 @@ ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
 ms.date: 04/15/2021
-ms.openlocfilehash: 9fd4156c25cbdbdfa86cabf9f3bb805d95481e17
-ms.sourcegitcommit: e462f562e7f26b7d6870c22638a2a841499109d6
+ms.openlocfilehash: 7ceba7e72b78b5bedb89209105c3819f90cf8153
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "109740327"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147165"
 ---
 # <a name="requirements-to-enroll-as-a-csp-direct-bill-partner"></a>CSP Doğrudan Fatura Ortağı olarak kaydolma gereksinimleri
 
-**Uygun roller**
+**Uygun roller**: genel yönetici
 
-- Genel yönetici
+## <a name="enroll-as-a-direct-partner"></a>Doğrudan iş ortağı olarak kaydet
 
-## <a name="enroll-as-a-direct-partner"></a>Doğrudan iş ortağı olarak kaydolma
-
-Doğrudan fatura iş ortağı olarak, müşteriniz ve Microsoft ile uz-uzmlı bir ilişkiye sahipsiniz. 27 Ekim 2020'den beri doğrudan fatura iş ortaklarının kayıt gereksinimlerini güncelleştirildi. Bu gereksinimler, doğru modelle iş büyümenizi hızlandırmanıza Bulut Çözümü Sağlayıcısı ve katma değerli hizmetler ve destekle müşteri ilişkilerinizi güçlendirmenize yardımcı olur.  
+Doğrudan bir fatura ortağı olarak, müşterinizin ve Microsoft ile uçtan uca ilişkiniz vardır. 27 Ekim 2020 itibariyle doğrudan fatura ortakları için kayıt gereksinimlerini güncelleştirdik. Bu gereksinimler, doğru bulut çözümü sağlayıcısı modeliyle İşletmenizin büyümesini hızlandırmanıza ve katma değerli hizmetler ve destek ile müşteri ilişkilerinizi güçlendirietmenize yardımcı olur.  
 
 ### <a name="minimum-requirements"></a>Minimum gereksinimler
 
 |**Gereksinim**|  **Açıklama**  |
 |--------------------------------|--------------------------------------------------------------|
-|**MPN Kimliği**   |Satış yapmak istediğiniz Microsoft İş Ortağı Ağı mpN kimliği ve mpn kimliği için etkin bir üyelik.   |
-|**Onay anahtarı**   |Kuruluş adına yasal anlaşmaları kabul etme ve imzalama yetkisi.|
-|**Destek**   |Müşterilerinize ilk bulut ürünü desteği düzeyini sağlama olanağı. <br/>Gereksinimlerinize bağlı olarak, İş Ortakları için Gelişmiş Destek (ASfP) Premier Destek İş Ortakları için Gelişmiş Destek (PSfP) bir Microsoft destek planı. [Destek planlarını karşılaştırın.](https://partner.microsoft.com/support/partnersupport)<br/>ÖNEMLİ: Destek planı satın almak için önce kredi denetimi geçmelisiniz. Kredi denetiminizi tamamlasanız size e-posta iletiriz. |
-|**Gelir gereksinimi**|Dolaylı kurumsal bayi olarak son on iki ay boyunca Bulut Çözümü Sağlayıcısı program yıllık geliri için en az 300.000 ABD doları karşılaması gerekir. İş Ortağı Merkezi Analytics'te gelir [gereksinimini karşı İş Ortağı Merkezi doğrulayın.](https://partner.microsoft.com/resources/detail/new-subscription-analytics-report-on-partner-center-guide-pdf) İş ortakları, son on iki aylık gelirlerini gözden geçirerek İş Ortağı Merkezi.<br/>On iki aylık geliri takip eden USD300.000 ABD doları geliri sağlayan satışlar Microsoft tarafından gözden geçirilecek ve doğrulanacak ve ek bilgi sağlamanız istenebilirsiniz. 300.000 ABD doları gelir gereksinimi bulut geliri temel alarak hesaplanır ve CSP'de kalıcı yazılımları dışlar.|
-|**CSP gereksinimi**|En az 12 ay boyunca dolaylı satıcı olarak Transact olmalıdır.| 
-|**Alacak hesaplar** |Müşteri faturalandırma ve sağlamayı yönetmek için yer aldığı kurumsal altyapı.|
+|**MPN Kimliği**   |Microsoft İş Ortağı Ağı ve MPN KIMLIĞINDE, satmak istediğiniz konum için etkin bir üyelik.   |
+|**Onay anahtarı**   |Kuruluşunuz adına yasal sözleşmeleri kabul etme ve imzalama yetkisi.|
+|**Destek**   |Müşterilerinize bulut ürün desteğinin ilk düzeyini sağlama özelliği. <br/>Gereksinimlerinize bağlı olarak Iş ortakları için gelişmiş destek (ASfP) veya Iş ortakları için Premier Destek (PSfP) için bir Microsoft destek planı. [Destek planlarını karşılaştırın](https://partner.microsoft.com/support/partnersupport).<br/>ÖNEMLI: bir destek planı satın alabilmek için önce bir kredi denetimi geçirmeniz gerekir. Kredi denetimini geçtiğinde size e-posta göndereceğiz. |
+|**Gelir gereksinimi**|Dolaylı bir satıcı olarak önceki on iki ay boyunca en az USD300K bulut çözümü sağlayıcısı program yıllık geliri ile Buluşmalıdır. Kuruluşunuzun [Iş Ortağı Merkezi analizinde](https://partner.microsoft.com/resources/detail/new-subscription-analytics-report-on-partner-center-guide-pdf)gelir gereksinimini karşıladığı hakkında emin olun. İş ortakları, izleyen on iki aylık geliri Iş ortağı merkezinde gözden geçirebilir.<br/>USD300K son on iki aylık geliri oluşturan satış, Microsoft tarafından incelenmek ve doğrulanmasıdır ve ek bilgi sağlamanız istenebilir. USD300K gelir gereksinimi, bulut gelirine göre hesaplanır ve CSP 'de kalıcı yazılımları hariç bırakır.|
+|**CSP gereksinimi**|En az 12 ay boyunca dolaylı kurumsal bayi olarak işlemde bulunılması gerekir.| 
+|**Alacaklı hesaplar** |Müşteri faturalama ve sağlamayı yönetmek için kurumsal altyapı.|
 |**Öneri**|             |
-|**Yönetilen hizmet**   |En az bir yönetilen hizmet, IP hizmeti veya müşteri çözümü uygulaması. [Yönetilen hizmetler](https://partner.microsoft.com/business-opportunities/managed-services-provider)ekleme hakkında daha fazla bilgi edinin.|
+|**Yönetilen Hizmet**   |En az bir yönetilen hizmet, IP hizmeti veya müşteri çözümü uygulaması. Yönetilen hizmetler ekleme hakkında daha [fazla bilgi.](https://partner.microsoft.com/business-opportunities/managed-services-provider)|
 
 
 ### <a name="verify-direct-bill-eligibility"></a>Doğrudan fatura uygunluğunu doğrulama
 
-Doğrudan fatura ortağı olarak kaydolmak için minimum gereksinimleri karşıladığınıza doğruladıktan sonra, [kayıt formuna](https://forms.office.com/r/0fP4fFT8n8)devam edebilirsiniz.
+Doğrudan fatura iş ortağı olarak kaydolmak için en düşük gereksinimleri karşıladıktan sonra kayıt formuna [geçebilirsiniz.](https://forms.office.com/r/0fP4fFT8n8)
 
-Şirketinizin doğrudan bir fatura ortağı olarak kaydedilmesi için uygunluk gereksinimlerini karşıladığını doğruladıktan sonra ve kayıt uygulamasını tamamladıktan sonra, kayıt sürecinde sağladığınız iş bilgilerini gözden geçireceğiz ve doğrulayacağız. Bu incelemenin bir parçası olarak şirketinizin krediyi denetliyoruz. Şirketiniz kredi denetimini geçtiğinde size e-posta ile bilgi vereceğiz.
+Şirketinizin doğrudan fatura iş ortağı olarak kaydolmak için uygunluk gereksinimlerini karşıladıktan ve kayıt uygulamasını tamamladıktan sonra, kayıt sürecinde sağlanan iş bilgilerini gözden geçirecek ve doğrulaacağız. Bu gözden geçirme kapsamında, şirketinizin kredisini kontrol ederiz. Şirket kredi denetimine geçerek sizi e-posta ile bilgi sahibi olacak.
 
 >[!IMPORTANT]
->Şirketinizin kredinizin denetlenmesi birkaç gün veya daha fazla sürebilir. Bu süre boyunca, bir Microsoft destek planı satın almanız önemlidir. Yalnızca kredi denetimini geçirdiğimiz hakkında bilgi sahibi olduktan sonra bir Microsoft destek planı satın almanız gerekir.
+>Şirketinizin kredilerini kontrol etmek birkaç gün veya daha uzun sürebilir. Bu süre boyunca bir Microsoft destek planı satın almamanız önemlidir. Bir Microsoft destek planı satın alalı ancak kredi çeklerini aldığınızı size bildirdikten sonra satın alalız.
 
-## <a name="transition-from-direct-to-indirect-reseller"></a>Doğrudan dolaylı satıcıya geçiş
+## <a name="transition-from-direct-to-indirect-reseller"></a>Doğrudan kurumsal bayiden dolaylı kurumsal bayiye geçiş
 
-Geçerli doğrudan fatura ortakları, CSP doğrudan fatura ortağı programında kalacak yeni gereksinimleri karşılamalıdır. Aksi takdirde, [doğrudan fatura özelliklerine erişimleri bu süre sonunda kısıtlanmıştır](restricted-direct-bill-capabilities.md) ve müşterileri için yeni satın alma işlemleri gibi belirli görevleri daha fazla gerçekleştirebilir.
+Geçerli doğrudan fatura iş ortaklarının CSP doğrudan fatura iş ortağı programında kalması için yeni gereksinimleri karşılaması gerekir. Aksi [takdirde, doğrudan fatura özelliklerine](restricted-direct-bill-capabilities.md) erişimleri sonunda kısıtlanır ve müşterileri için yeni satın almalar yapma gibi belirli görevleri daha uzun süre gerçekleştirebilir.
 
-Doğrudan bir fatura işletmeden dolaylı Bayi işletmeye taşımaya karar verirseniz, uygulamanız gereken birkaç adım vardır. Geçiş hakkında daha fazla bilgi edinmek için, [bulut çözümü sağlayıcısı (CSP) doğrudan ORTAĞıNDAN CSP dolaylı satıcısına kadar geçiş](transition-direct-to-indirect.md)yapın.
+Doğrudan fatura işletmelerinden dolaylı kurumsal bayi işletmelerine taşınmaya karar veriyorsanız, atılması gereken birkaç adım var. Geçiş hakkında daha fazla bilgi edinmek için Bulut Çözümü Sağlayıcısı (CSP) doğrudan iş ortağından CSP dolaylı kurumsal [bayiye geçiş makalelerini okuyun.](transition-direct-to-indirect.md)
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
 - [Doğrudan fatura ortakları için yeni gelir gereksinimi](./announcements/2020-october.md#13)
  
-- [Dolaylı kurumsal bayi olma hakkında ek bilgiler](https://assetsprod.microsoft.com/csp-directbill-to-indirect-transition.pdf)
+- [Dolaylı satıcı olma hakkında ek bilgiler](https://assetsprod.microsoft.com/csp-directbill-to-indirect-transition.pdf)
 
-- [CSP'de doğrudan fatura iş ortağı gereksinimleri için yeni performans standardı](https://partner.microsoft.com/resources/collection/new-performance-standard-for-direct-bill-partner-requirements-in-csp#/)
+- [CSP 'de doğrudan Bill partner gereksinimleri için yeni performans standardı](https://partner.microsoft.com/resources/collection/new-performance-standard-for-direct-bill-partner-requirements-in-csp#/)

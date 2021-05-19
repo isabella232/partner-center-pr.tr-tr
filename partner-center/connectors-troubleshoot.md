@@ -1,47 +1,41 @@
 ---
-title: Ortak satış başvuruları bağlayıcıları sorunlarını giderme
+title: Ortak satış referans bağlayıcıları sorunlarını giderme
 ms.topic: how-to
 ms.date: 09/21/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Ortak satış bağlayıcıları kullanma hakkında sık sorulan soruların yanıtlarını öğrenin. Ortak satış bağlayıcılarının sorunlarını giderme hakkında bilgi edinmek için bu SSS bölümüne bakın.
+description: Ortak satış bağlayıcılarını kullanma hakkında sık sorulan soruların yanıtlarını öğrenin. Ortak satış bağlayıcıları sorunlarını giderme hakkında bu SSS bölümünü okuyun.
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: 939654202a370f6d9ba15d9e62a11be44884b613
-ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
+ms.openlocfilehash: 49a2b6e5461dacbe87c34b36805a5c240c2e5fd1
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "108284222"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148355"
 ---
-# <a name="troubleshoot-co-sell-referrals-connectors"></a>Ortak satış başvuruları bağlayıcıları sorunlarını giderme
+# <a name="troubleshoot-co-sell-referrals-connectors"></a>Ortak satış referans bağlayıcıları sorunlarını giderme
 
-**Şunlara uygulanır**
+**Için geçerlidir:** Dynamics 365 CRM | Salesforce CRM
 
-- Dynamics 365 CRM
-- Salesforce CRM
+**Uygun roller:** Referans yöneticisi | CRM'de sistem yöneticisi veya sistem özelleştiricisi
 
-**Uygun roller**
+ ## <a name="questions-and-answers-about-pre-requisites"></a>Önkullar hakkında sorular ve yanıtlar
 
-- Başvuru Yöneticisi
-- CRM 'de Sistem Yöneticisi veya sistem özelleştiricisi
+1. Ortamınız için bir deneme ortak satış referans bağlayıcısı çözümü kullanabilir misiniz?
 
- ## <a name="questions-and-answers-about-pre-requisites"></a>Ön koşullar hakkında sorular ve yanıtlar
+Test/hazırlama ortamındaysanız deneme çözümünü tercih edin. Bağlayıcıların ücretli sürümü, AppSource'ta aylık 15 ABD doları olarak kullanılabilir. Ücretli bağlantıyla günde 10.000 API çağrısı alasınız. Bağlayıcılar, referans API'lerinin İş Ortağı Merkezi sarmalayıcılardır. Bağlayıcı çözümleri, İş Ortağı Merkezi  veya  CRM tarafındaki fırsatlarda Oluşturma veya Güncelleştirme olayı için her çalıştırısa, bir API çağrısı yapılır.
 
-1. Ortamınız için bir deneme ortak satışı başvuruları Bağlayıcısı çözümü kullanabilir miyim?
+2. CRM ortamında bölümler oluşturmak için hangi role ihtiyacınız var?
 
-Test/hazırlama ortamındaysanız, deneme çözümünü kabul edebilirsiniz. Bağlayıcıların ücretli sürümü, AppSource 'ta ABD $15/ay 'da bulunabilir. Ücretli bağlantıyla, günde 10.000 API çağrısı elde edersiniz. Bağlayıcılar, Iş ortağı merkezi başvuru API 'lerinin en üstünde sarmalayıcılardır. Her iki Iş ortağı merkezi veya CRM tarafında fırsatlarda bir **oluşturma** veya **güncelleştirme** olayı için BAĞLAYıCı çözümleri çalıştırıldığında bir API çağrısı yapılır.
+Sistem yöneticisi veya sistem özelleştiricisi olan kullanıcılar değişiklikleri herkes için uygulayabilir. Ancak tüm uygulama kullanıcıları sistemi kişiselleştirenin ve hatta bazı özelleştirmelerini başkalarıyla paylaşabilir. 
 
-2. CRM ortamında bölüm oluşturmak için hangi rolü kullanmanız gerekir?
-
-Sistem yöneticileri veya sistem özelleştiricileri olan kullanıcılar herkes için değişiklik uygulayabilir. Ancak tüm uygulama kullanıcıları, sistemi kişiselleştirebilir ve hatta bazı özelleştirmelerini başkalarıyla paylaşabilir. 
-
-3. İş ortağı satıcıları iş ortağı merkezi 'nde çalışmak için özel rollere ihtiyaç duyuyor mu?
+3. İş ortağı satıcılarının iş ortaklarına özel rollere ihtiyacı İş Ortağı Merkezi?
  
-İş ortağı satıcılara "başvuru Yöneticisi" rolü atanmalıdır. Daha fazla bilgi için bkz. [izinlere genel bakış](create-user-accounts-and-set-permissions.md).
+İş ortağı satıcılarına "Referans yöneticisi" rolü atanmalı. Daha fazla bilgi için bkz. [İzinlere genel bakış.](create-user-accounts-and-set-permissions.md)
 
-4. CRM ortamınızda ilk olarak hangi alanların ayarlanması gerekir? 
+4. CRM ortamınıza ilk olarak hangi alanların ayarlanmış olması gerekir? 
 
 • Para biriminiz konumunuza uygun olduğundan ve CRM ortamınızda doğru olduğundan emin olun. • Satış ekibiniz, CRM ortamınızda CRM kullanıcıları olarak listelenmiş olmalıdır.
 
@@ -74,38 +68,38 @@ Bu sorun giderme adımlarını izleyin:
 
 Bu sorun giderme adımını izleyin:
 
-- Iş ortağı merkezi kimlik bilgilerinizi kullanarak Flow ortamında bir kez oturum açın (flow.microsoft.com).
+- Akış ortamında İş Ortağı Merkezi için kimlik bilgilerinizi kullanın (flow.microsoft.com).
 
 
-3. Power otomatikleştir platformunda Iş ortağı merkezini CRM akışına etkinleştirirken aşağıdaki hatayı alırsanız ne yapmalısınız?
+3. Power Automate Platform'da CRM akışına İş Ortağı Merkezi etkinleştirirken aşağıdaki hatayı alırsanız ne Power Automate gerekir?
  
 :::image type="content" source="images/cosellconnectors/powererror.png" alt-text="Güncelleştirme gerektiren hata iletisi":::
 
-Bu sorun giderme adımlarını izleyin:
+Şu sorun giderme adımlarını izleyin:
 
-- Iş ortağı merkezini CRM akışına etkinleştirmeden önce aşağıdaki iki alt akışı etkinleştirin.
-      - İş Ortağı Merkezi 'ne CRM Yardımcısı (Insider Preview)
-      - İş Ortağı Merkezi Microsoft ortak-CRM 'ye başvuru güncelleştirmeleri satma (Insider Preview)
+- CRM akışına yönelik akışı etkinleştirmeden önce aşağıdaki iki İş Ortağı Merkezi akışı etkinleştirin.
+      - İş Ortağı Merkezi CRM ' e - Yardımcı (Insider Önizleme)
+      - İş Ortağı Merkezi Microsoft'un CRM'ye Ortak Satış Referans Güncelleştirmeleri (Insider Önizlemesi)
 
-4. Akışı düzenlemeye çalıştığınızda akışla bağlantı ekleyemeyebilirsiniz ne yapmalısınız?
+4. Akışı düzenlemeye çalışmadan akışa bağlantı ekleye değilken ne yapacaksınız?
 
-Akış çalışırken akışa bağlantı ekler ve her bir akışa ayrı olarak eklersiniz.  Bağlantı ekleme iletişim kutusu akışı düzenlerken otomatik olarak açılmazsa, akışların her birini ve alt adımını ayrı ayrı düzenleyebilirsiniz.
+Akış çalışırken akışa bağlantılar ekler ve her akışa ayrı bağlantılar eklersiniz.  Bağlantı ekleme iletişim kutusu akışı düzenlerken otomatik olarak açılmazsa, akışların adımlarını ve alt adımlarını tek tek düzenleyebilirsiniz.
 
-- Her bir akışı seçin ve tek tek düzenleyin.
-- Akıştaki tüm adımları Genişlet 
+- Her akışı seçin ve ayrı ayrı düzenleyin.
+- Akışta tüm adımları genişletin 
 
-:::image type="content" source="images/cosellconnectors/flowsteps.png" alt-text="Bağlantı gerektiren adımlar":::
+:::image type="content" source="images/cosellconnectors/flowsteps.png" alt-text="Bağlantı gereken adımlar":::
 
-- Bağlantıları ilişkilendirmek ve bağlantı eklemek isteyen bir uyarı simgesi gördüğünüz adımları seçin. 
+- Bağlantıları ilişkilendirmek ve bağlantı eklemek için bir uyarı simgesi gördüğünüz adımları seçin. 
 
-:::image type="content" source="images/cosellconnectors/editflow.png" alt-text="Adıma göre akış adımını Düzenle":::
+:::image type="content" source="images/cosellconnectors/editflow.png" alt-text="Akışı adım adım düzenleme":::
 
 
-5. Ortak satış başvuruları bağlayıcılar çözümünün akışları açık değilse ne yapmalısınız?
+5. Ortak Satış Referansları Bağlayıcıları çözümünün akışları açık yoksa ne yapacaksınız?
 
-A. Power otomatikleştirmede akışları aşağıdaki sırayla düzenlemeniz ve doğru bağlantıları kullanacak şekilde güncelleştirmeniz gerekir:
+A. Bu Power Automate, akışları aşağıdaki sırayla düzenlemeniz ve doğru bağlantıları kullanmak üzere güncelleştirmeniz gerekir:
 
-- İş Ortağı Merkezi Web kancası kaydı (Insider Preview)
+- İş Ortağı Merkezi Web Kancası Kaydı (Insider Önizlemesi)
 - Ortak satış başvurusu oluşturma-Salesforce 'a Iş Ortağı Merkezi 'ne (Insider Preview)
 - İş Ortağı Merkezi Microsoft ortak-başvuru güncelleştirmelerini Salesforce 'a satma (Insider Preview)
 - İş ortağı merkezini Salesforce 'a (Insider Preview)
@@ -137,43 +131,43 @@ Güç otomatikleştirebileceğiniz akışlarınızın beklenen şekilde çalış
 
 2. Iş ortağı merkezi veya CRM ortamında düzgün şekilde eşitlenmemiş başvurular görürseniz ne yapmalısınız?
  
-Başvuru eşitlemesinin durumunu belirlemek için **Denetim**' i seçin. 
+Referans eşitleme durumunu belirlemek için Denetle'yi **seçin.** 
 
-:::image type="content" source="images/cosellconnectors/synch.png" alt-text="Başvuruları senkronize etme":::
+:::image type="content" source="images/cosellconnectors/synch.png" alt-text="Referansları eşitleme":::
 
-Aşağıdaki koşulların karşılandığından emin olun:
+Aşağıdaki koşulların karşı olduğundan emin olmak:
 
-- Çözüm KIMLIĞI, fırsatın bir parçası olarak sağlanır.
+- Çözüm kimliği, fırsatın bir parçası olarak sağlanır.
 
 - İki harfli ülke kodu gereklidir.
 
-- Fırsat için Microsoft 'tan yardım seçiliyken müşteri iletişim bilgileri gereklidir.
+- Fırsat için Microsoft'tan yardım seçildiğinde müşteri iletişim bilgileri gereklidir.
 
-3. Bir başvurunun çift yönlü olarak eşitlenmesini sağlamak mı istiyorsunuz?
+3. Bir referansın çift yönlü olarak eşitlenmesi nasıl sağlandı?
 
 Aşağıdaki adımları uygulayın:
 
-- İş ortaklarının satıcıları, CRM bölümündeki **Iş Ortağı Merkezi Ile eşitlemeyi** etkinleştirdiklerinden emin olmalıdır.
+- İş ortağı satıcılarının CRM bölümünde İş Ortağı Merkezi **eşitle seçeneğini etkinleştirmiş** olduğundan emin olmalıdır.
 
-:::image type="content" source="images/cosellconnectors/enablesynch.png" alt-text="Eşitleme özelliğinin etkinleştirildiğinden emin olun":::
+:::image type="content" source="images/cosellconnectors/enablesynch.png" alt-text="Eşitleme'yi etkinleştirildiğinden emin olun":::
 
-- Satıcıların bir müşteri adayını nitelerken gelir ve kapanış tarihi sağlaması gerekir.
+- Satış satıcılarının müşteri adayını kabul etmek için gelir ve kapanış tarihi sağlamaları gerekir.
 
-- Ortak satış fırsatının **Oluştur** veya **GÜNCELLEŞTIR** aşamasında CRM kimliği SAĞLANMıŞSA, ancak bu kimliğe sahip BIR müşteri adayı fırsatı CRM 'de bulunamazsa güncelleştirme veya oluşturma yok sayılır.
+- CRM Kimliği ortak satış  fırsatının oluşturma veya güncelleştirme aşamasında sağlanıyorsa ancak CRM'de bu kimliğin bulunduğu bir müşteri adayı fırsatı yoksayılırsa güncelleştirme veya oluşturma yoksayılır. 
 
-- Başvuru para birimi alanının Salesforce ortamında yapılandırıldığından emin olun. 
+- Referans para birimi alanını Salesforce ortamında yapılandırıldığından emin olmak. 
 
-4. Bağlayıcının bağlantısı kesilirse ve bir başvuru eşitlemesini kaçırdıysanız ne yapmalısınız?
+4. Bağlayıcının bağlantısı kesilirse ve referans eşitlemesini kaçırırsanız ne yapacaksınız?
 
-Deneyebileceğiniz seçeneklerden bazıları aşağıda verilmiştir:
+Deneyebilirsiniz seçeneklerden birkaçı şunlardır:
 
-- Iş Ortağı Merkezi kullanıcısı için başvuru yöneticisi rollerine sahip kullanıcı adının veya parolanın dolup dolmadığını denetleyin.
+- Referans yöneticisi rollerine sahip kullanıcı adı veya parolanın İş Ortağı Merkezi olup olmadığını kontrol edin.
 
-- Eşitlenmemiş fırsata gidebilir, küçük bir güncelleştirme yapabilir ve başvurunun eşitlenip eşitlenmediğini gözlemleyebilirsiniz.
+- Eşitlenmemiş fırsata gidebilir, küçük bir güncelleştirme gerçekleştirip referansın eşitlenmiş olup olmadığını gözlemlersiniz.
 
-- Akışlar çalıştırılmışsa ve başarısız olursa, akışı seçip başarısız olan çalıştırmayı yeniden gönderebilirsiniz.
+- Akışlar çalıştırlı ve başarısız olmuşsa akışı seçin ve başarısız olan çalıştırmayı yeniden gönderin.
 
-5. Erişim reddedildi hatalarını aldığınızda ne yapmalısınız?
+5. Erişim reddedildi hatalarına sahip olursanız ne yapacaksınız?
 
 Uygun rollerin mevcut olduğundan emin olun
 

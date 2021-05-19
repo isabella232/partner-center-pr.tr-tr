@@ -9,19 +9,16 @@ ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 05/05/2020
-ms.openlocfilehash: 6d8fca11f2db40e7f8b4ebcd4580d8f0aba115eb
-ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
+ms.openlocfilehash: efa7251bd658558efcbab562e0c7bc8a66b8bcb8
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "97354534"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148287"
 ---
 # <a name="consolidate-your-company-accounts-when-migrating-from-pmc-to-partner-center"></a>PMC 'den Iş ortağı merkezine geçiş yaparken şirket hesaplarınızı birleştirin
 
-**Uygun roller**
-
-- MPN iş ortağı Yöneticisi
-- Hesap yöneticisi
+**Uygun roller**: MPN iş ortağı Yöneticisi | Hesap Yöneticisi
 
 PMC 'de şirketiniz birçok hesap ve konuma sahip olabilir. Her konum kendi hesabına sahipti. Iş Ortağı Merkezi 'ne geçiş yaptığınızda tüm hesaplar ve konumlar çeşitli konumlara sahip bir Iş ortağı küresel hesabında birleştirilir. Şu şeyler sizinle taşınacak: MPN kimlikleriniz, Uzmanlıklar, satın alma, pazarlama kaynakları, programlar ve teklifleriniz. Hiçbir şey kaybedilir.
 
@@ -41,25 +38,25 @@ Iş Ortağı Merkezi 'Nde ilk kez oturum açtığınızda, Iş Ortağı Merkezi 
 
 ## <a name="what-happens-during-consolidation-of-accounts"></a>Hesapların birleştirilmesi sırasında ne olur?
 
-- Şirket ayrıntıları ekranındaki ayrıntıları değiştiremezsiniz. Bu ayrıntılar Iş ortağı küresel hesabına yöneliktir.
+- Şirket ayrıntıları ekranında ayrıntıları değiştiremezsiniz. Bu ayrıntılar İş ortağı genel hesabına göredir.
 
-- PMC 'deki hesap (ler) Iş ortağı küresel hesabına birleştirilir.
+- PMC'de hesaplar İş Ortağı genel hesabında birleştirilmiş olur.
 
-- PMC 'deki tüm konumlar, bu mevcut Iş Ortağı Merkezi Iş ortağı genel hesabına konumlar olarak taşınır. Ek konumlar da ekleyebilirsiniz. Konumlar hakkında daha fazla bilgi için  [iş ortağı hesabınızı yönetin-konumlar](manage-locations.md)makalesini okuyun.
+- PMC'de tüm konumlar, bu mevcut İş Ortağı Merkezi İş Ortağı genel hesabına konum olarak taşınır. Ek konumlar da ekebilirsiniz. Konumlar hakkında daha fazla bilgi için İş [ortağınızı yönetme - Konumlar makalesi'ne bakın.](manage-locations.md)
 
-- Birleştirme sürecini tamamladıktan sonra bu işlemi geri çeviremeyeceksiniz. Tüm şirketlerinizin ayrıntıları artık mevcut Iş ortağı genel hesabında yer alan konumlar olarak görüntülenecektir. 
+- Birleştirme işlemini tamamlandıktan sonra geri çeviremezsiniz. Tüm şirket ayrıntıları artık mevcut İş Ortağı genel hesabında konum olarak görünür. 
 
 - Bu birleştirme sırasında tüm MPN kimlikleri korunur.
 
-- Tüm mevcut uzmanlarınız (Altın/Gümüş) ve satın almalar (HARITALAR/altın/gümüş) birleştirme sırasında korunur. Ayrıca, ilgili tüm pazarlama kaynakları, programlar ve tekliflerdir.
+- Tüm mevcut yetkinlikleriniz (Altın/Gümüş) ve satın almalar (MAPS/Gold/Silver) birleştirme sırasında korunur. Ayrıca ilgili pazarlama kaynakları, programlar ve teklifler de korunur.
 
-- Siz (iş e-posta KIMLIĞIYLE oturum açan kullanıcı) otomatik olarak bir MPN Yöneticisi ve bir hesap yöneticisi olarak Iş ortağı küresel hesabına eklenecektir. Bu, hesabı gerektiği gibi yönetmenizi sağlar.
+- Siz (iş e-posta kimliğiyle oturum açan kullanıcı) otomatik olarak MPN yöneticisi ve İş ortağı genel hesabına bir hesap yöneticisi olarak eklenirsiniz. Bu, hesabı gereken şekilde yönetmenizi sağlar.
 
-## <a name="consolidating-your-go-to-market-offers-programs-and-competencies"></a>Go-to-market tekliflerinizi, programlarınızı ve uzmanlarınızı birleştirme
+## <a name="consolidating-your-go-to-market-offers-programs-and-competencies"></a>Pazara Satış tekliflerinizi, programlarınızı ve yetkinliklerinizi birleştirme
 
-PMC 'de, her bir konumun kendi uzmanlarına, kendi haritalarına ve bir konuma özgü diğer pazarlama tekliflerine sahip olması mümkündür.
+PMC'de her konumun kendi yetkinlikleri, kendi MAP'leri ve belirli bir konuma özgü diğer pazarlama tekliflerine sahip olmak mümkün oldu.
 
-Iş Ortağı Merkezi 'nde tüm konum hesapları tek bir genel hesapta birleştirilir. Bu, tüm go-to-market tekliflerinin, programlarının ve uzmanlarının de birleştirilme anlamına gelir. Ek avantajlar araç takımları (ABTKs) kullanılamayacak. Bununla birlikte, pazarlama kaynakları, teklifler, programlar ve uzmanlarınızın şirketiniz için gereken şekilde dağıtımını düzenleyebilirsiniz. Birleştirme yaptığınızda bir uzantı sağlanır. Bu uzantı, şirketinizin daha fazla yıl boyunca PMC 'de kullanılan pazarlama kaynakları, teklifleri ve programlarının keyfini erişmesini sağlar.
+Bu İş Ortağı Merkezi, tüm konum hesapları tek bir genel hesapta birleştirilmiştir. Bu, tüm Pazara Git tekliflerinin, programlarının ve yetkinliklerinin de birleştirilmiş olduğu anlamına gelir. Ek avantajlar araç setleri (ABTK) kullanılamaz. Ancak, pazarlama kaynaklarının, tekliflerin, programların ve yetkinliklerin dağıtımını, şirketiniz için gereken şekilde düzenleyebilirsiniz. Birleştirin, bir uzantı sağlanır. Bu uzantı, şirketinizin daha fazla yıl boyunca PMC 'de kullanılan pazarlama kaynakları, teklifleri ve programlarının keyfini erişmesini sağlar.
 
 PMC ve Iş ortağı merkezi arasındaki farklar hakkında daha fazla bilgi için, [PMC 'Den Iş ortağı merkezine](guide-to-migration.md)geçiş yapın.
 

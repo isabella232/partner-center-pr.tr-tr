@@ -8,21 +8,16 @@ description: Daha sonra Microsoft eğitim mağazalarından indirebilen, nitelikl
 author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
-ms.openlocfilehash: 2c1c49dee1e9531a725f679b52adc18d4e5d856b
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: 06cb4d1d23d20a0d5f6f7031608a5369fdc1b89d
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106133021"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146400"
 ---
 # <a name="sell-minecraft-education-edition-subscriptions-to-education-customers"></a>Eğitim müşterilerine Minecrat: eğitim sürümü abonelikleri satma
 
-**Uygun roller**
-
-- Genel yönetici
-- Kullanıcı Yönetimi Yöneticisi
-- Satış Aracısı
-- Yönetim Aracısı
+**Uygun roller**: genel yönetici | Kullanıcı Yönetimi Yöneticisi | Satış Aracısı | Yönetim Aracısı
 
 Eğitim kurumlarıyla çalışan iş ortakları, bu kullanıcılara **Minecrat: eğitim sürümü** abonelikleri sunabilir. Aboneliği Iş Ortağı Merkezi ' nde müşterinin adına satın alırsınız ve müşteri, yazılımı [eğitim için Microsoft Store](https://educationstore.microsoft.com)indirir. 
 

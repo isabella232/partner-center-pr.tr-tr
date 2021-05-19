@@ -1,45 +1,40 @@
 ---
-title: Microsoft Ulusal bulutlarında satış için geçerlidir
+title: Microsoft ulusal bulutlarında satış için uygulama
 ms.topic: article
 ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Bulut çözümü sağlayıcısı programındaki Microsoft iş ortaklarının desteklenen Ulusal bulutlara kayıtlı müşterilere nasıl satıtabilecekleri hakkında bilgi edinin.
+description: Bulut Çözümü Sağlayıcısı Programı'Bulut Çözümü Sağlayıcısı Microsoft iş ortaklarının desteklenen ulusal bulutlara kayıtlı müşterilere nasıl satışlar satıp satamıyoruz?
 author: billLinzbach
 ms.author: billLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cf5c64893bd5a55d842b2c426d05480a5a943a36
-ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
+ms.openlocfilehash: 522237ab1a3a6814e36218ef2a57fd1bdda5437c
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106502910"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147692"
 ---
-# <a name="apply-to-sell-in-microsoft-national-clouds-as-part-of-the-csp-program"></a>CSP programının bir parçası olarak Microsoft Ulusal bulutlarında satış için geçerlidir
+# <a name="apply-to-sell-in-microsoft-national-clouds-as-part-of-the-csp-program"></a>CSP programının bir parçası olarak Microsoft ulusal bulutlarında satış yapmak için uygulama
 
-**Şunlara uygulanır**
+**Uygulama için** geçerlidir: İş Ortağı Merkezi için Microsoft Cloud for US Government | İş Ortağı Merkezi Microsoft Bulut Almanya için destek
 
-- Microsoft Cloud for US Government için İş Ortağı Merkezi
-- Microsoft Bulut Almanya için iş ortağı Merkezi
+**Uygun roller:** Genel yönetici
 
-**Uygun roller**
+Nitelikli Microsoft iş ortakları, küresel bulut programı kapsamında müşterilere satış Bulut Çözümü Sağlayıcısı üç ayrı ulusal buluttaki müşterilere bulut çözümleri de satmaktadır. Ulusal bulutlar, Microsoft kurumsal bulut hizmetlerinin fiziksel ve mantıksal ağdan yalıtılmış örnekleridir ve bunlar belirli ülkelerin coğrafi sınırları içinde yer alan ve yerel personel tarafından çalıştırılan örneklerdir.
 
-- Genel yönetici
+Microsoft'un ulusal bulut teklifleri hakkında daha fazla bilgi için bkz. [Microsoft Ulusal Bulutlar](https://www.microsoft.com/trustcenter/cloudservices/nationalcloud).
 
-Küresel bulut çözümü sağlayıcısı programının bir parçası olarak müşterilere satmaya ek olarak, uygun Microsoft iş ortakları, bulut çözümlerini üç ayrı ulusal bulutta müşterilere da sattabilir. Ulusal bulutlar, belirli ülkelerin coğrafi kenarlıkları dahilinde ve yerel personel tarafından işletilebilir Microsoft Kurumsal bulut hizmetleri 'nin fiziksel ve mantıksal ağdan yalıtılmış örnekleridir.
+Microsoft bu hizmetleri ulusal bulutlarda kullanılabilir yapar:
 
-Microsoft 'un ulusal bulut teklifleri hakkında daha fazla bilgi için bkz. [Microsoft National bulutlar](https://www.microsoft.com/trustcenter/cloudservices/nationalcloud).
+-   Microsoft Azure kapsamlı hizmetler hiper ölçekli bilgi işlem, depolama, ağ ve kimlik yönetimi sunar. Azure, buluttaki verileri kamu tarafından gerekli güvenlik, gizlilik, denetim, uyumluluk ve saydamlık düzeyinde korur.
 
-Microsoft bu hizmetleri Ulusal bulutlarda kullanılabilir hale getirir:
+-   Microsoft Dynamics 365, kamu çalışanlarını veri raporlama, modelleme ve iş akışlarıyla donatırken hassas verilere erişimi sınırlayıcı güvenlik özellikleri sunan bulut tabanlı bir müşteri ilişkileri yönetimi (CRM) çözümüdür.
 
--   Microsoft Azure kapsamdaki hizmetler hiper ölçekli bilgi işlem, depolama, ağ ve kimlik yönetimi sağlar. Azure, bulutta verileri kamu ve güvenlik, gizlilik, denetim, uyumluluk ve saydamlık düzeyinde korumalar.
+-   Microsoft Office 365, kamu çalışanları için güvenli bir bulut tabanlı üretkenlik deneyimi sağlamak için güvenlik, zengin veri koruma araçları ve kurumsal sınıf bir uyumluluk çerçevesine derinlemesine savunma yaklaşımı sunar.
 
--   Microsoft Dynamics 365, veri raporlama, modelleme ve iş akışlarıyla kamu çalışanları sağlayan, hassas verilere erişimi sınırlayan güvenlik özellikleri sunan bulut tabanlı bir müşteri ilişkileri yönetimi (CRM) çözümüdür.
-
--   Microsoft Office 365, kamu çalışanlarına yönelik güvenli bir bulut tabanlı üretkenlik deneyimi sağlamak için güvenlik, zengin veri koruma araçları ve kurumsal düzeyde uyumluluk çerçevesiyle ilgili derinlemesine savunma yaklaşımını birleştirir.
-
-Nitelikli iş ortakları, Microsoft bulut çözümlerini bu ulusal bulutlarda müşterilere sattabilir:
+Nitelikli iş ortakları, Microsoft bulut çözümlerini şu ulusal bulutlarda müşterilere satabilirsiniz:
 
 -   [**ABD kamu sektörü için Microsoft bulut**](https://www.microsoft.com/trustcenter/cloudservices/nationalcloud#Microsoft_Cloud_for_US) ABD kamu sektörü için tasarlanan kamu sektörü, büyük federal kurumlardan küçük kasalara kadar, bulut bilgi işlem hizmetlerinden birini seçmek için Birleşik Devletler kamu sektörü müşterilerinin Microsoft Bulut olanak sağlar. Microsoft, müşterilerinin belirli ihtiyaçlarını en iyi şekilde çözmek için veri merkezlerinde önemli bir yatırım yaptı ve ABD federal ve eyalet ilkeleriyle, mantarih ve gereksinimlerle uyumluluğu karşılayacak şekilde tasarlanmıştır. 
 
@@ -53,12 +48,12 @@ Nitelikli iş ortakları, Microsoft bulut çözümlerini bu ulusal bulutlarda m�
     > İleri doğru hareket eden yeni müşteriler kullanılabilir hale geldiğinde mevcut Avrupa bölgelerini veya Almanya 'daki yeni bölgeleri kullanma seçeneğine sahiptir. Daha fazla bilgi için bkz. [Microsoft, Almanya 'daki yeni veri merkezlerinden bulut hizmetleri sunma](https://news.microsoft.com/europe/2018/08/31/microsoft-to-deliver-cloud-services-from-new-datacentres-in-germany-in-2019-to-meet-evolving-customer-needs/).
 
     
--   [**Çin 'de 21Vianet tarafından işletilen Azure ve Office 365**](https://www.microsoft.com/trustcenter/cloudservices/nationalcloud#Microsoft_Cloud_for_China) Microsoft, Shanghai mavi bulut teknolojisi co., Ltd. (21Vianet) ile benzersiz bir Iş ortaklığı sunarak, PIMA PI, ana bilgisayar, barındırma, yönetilen ağ ve, Çin 'de bulut bilgi işlem altyapısı Hizmetleri olan en büyük taşıyıcı-bağımsız Internet sağlayıcıdır. 
+-   [**Çin'de 21Vianet tarafından çalıştırılan Azure ve Office 365**](https://www.microsoft.com/trustcenter/cloudservices/nationalcloud#Microsoft_Cloud_for_China) Microsoft, Çin'de bulut hizmetleri sunmaktadır. 21Vianet Broadband Data Center Co., Ltd. şirketin sahip olduğu bir yan kuruluş olan China Blue Cloud Technology Co., Ltd. (21Vianet), Çin'de veri merkezi, barındırma, yönetilen ağ ve bulut bilişim altyapısı hizmetlerinin en büyük taşıyıcıdan bağımsız İnternet sağlayıcısıdır. 
 
-    Microsoft teknoloji sağlayıcıdır, ancak hizmeti çalışmaz; 21Vianet, Microsoft bulut hizmetlerinin teslimini bağımsız olarak çalışır, sağlar ve yönetir. 21Vianet, Microsoft teknolojilerini lisanslayarak Azure ve Office 365 hizmetleri sunabilir ve verileri ana kara Çin içinde tutan Azure ve Office 365 veri merkezlerini çalıştırabilirler. 21Vianet Ayrıca abonelik ve faturalandırma Hizmetleri ve destek sağlar.
+    Microsoft teknoloji sağlayıcısıdır ancak hizmeti işletmez; 21Vianet, Microsoft bulut hizmetlerinin teslimi için bağımsız olarak çalışır, sağlar ve yönetir. 21Vianet, Microsoft teknolojilerini lisanslamayla Azure ve Office 365 hizmetleri sunabiliyor ve verileri Çin'de saklayan Azure ve Office 365 veri merkezlerini çalıştırabiliyor. 21Vianet ayrıca abonelik ve faturalama hizmetleri ve destek sağlar.
 
-    Çin 'de 21Vianet tarafından çalıştırılan Azure ve Office 365 müşterilerine kaydolma ve satma hakkında bilgi için bkz. [21Vianet tarafından çalıştırılan Iş Ortağı Merkezi](/previous-versions/windows/it-pro/windows-home-server/ff357696(v=ws.11)).
+    Çin'de 21Vianet tarafından çalıştırılan Azure ve Office 365'te müşterilere kaydolma ve müşterilere satış hakkında bilgi için bkz. [21Vianet](/previous-versions/windows/it-pro/windows-home-server/ff357696(v=ws.11))tarafından İş Ortağı Merkezi tarafından çalıştırılan müşteriler.
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-- [ABD kamu için Microsoft Bulut Iş Ortağı Merkezi hakkında sık sorulan sorular](faq-for-us-govt-cloud.md)
+- [Daha fazla soru için İş Ortağı Merkezi sorular Microsoft Cloud for US Government](faq-for-us-govt-cloud.md)

@@ -1,6 +1,6 @@
 ---
 title: İş ortağı hesabınızı başka bir iş ortağı hesabıyla birleştirme
-description: İş Ortağı Merkezi 'nde etkin Microsoft iş ortakları olan şirketler için iş ortağı hesabı 'nı Iş Ortağı Merkezi 'nde başka bir iş ortağı hesabıyla birleştirmeyi öğrenin.
+description: Şirket içinde etkin Microsoft iş ortakları olan şirketler için iş ortağı İş Ortağı Merkezi başka bir iş ortağı hesabıyla birleştirmeyi İş Ortağı Merkezi.
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
@@ -8,50 +8,48 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.custom: seodec18
 ms.date: 06/12/2020
-ms.openlocfilehash: 90d1fe9728c43d2f34b6cfe2d9e4c9613d865aeb
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: 8c47204d54cf05113eae73cede4afedf106ac121
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106133072"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146519"
 ---
 # <a name="merge-your-partner-account-with-another-partner-account"></a>İş ortağı hesabınızı başka bir iş ortağı hesabıyla birleştirme
 
-**Uygun roller**
+**Uygun roller:** Hesap yöneticisi
 
-- Hesap yöneticisi
+Etkin Microsoft iş ortakları olan ve şirket içinde hesapları İş Ortağı Merkezi iki veya daha fazla şirket hesaplarını birleştirmeyi seçebilir.
 
-Etkin Microsoft iş ortakları olan ve Iş Ortağı Merkezi 'nde hesapları olan iki veya daha fazla şirket hesaplarını birleştirmeyi seçebilir.
+## <a name="what-happens-when-two-partners-elect-to-merge-their-partner-center-accounts"></a>İki iş ortağı kendi hesaplarını birleştirmeyi İş Ortağı Merkezi olur
 
-## <a name="what-happens-when-two-partners-elect-to-merge-their-partner-center-accounts"></a>İki iş ortağı merkezi hesaplarını birleştirmeyi seçtiğinizde ne olur?
+- Birleştirmeyi başlatan iş ortağı kuruluşu, İş ortağı genel hesabı (PGA) olur.
 
-- Birleştirmeyi başlatan iş ortağı kuruluş Iş ortağı genel hesabı (PGA) olacaktır.
+- Davet edilen kuruluşun PGA'sı, başlatan şirketin konumu haline gelir.
 
-- Davet edilen kuruluşun PGA 'i Başlatan şirketin bir konumu olur.
+- Birleştirme hesabının tüm konumları PGA altında konum olur.
 
-- Birleştirme hesabının tüm konumları PGA 'nin altında yer olur.
+- Hesap birleştirme işlemi tamamlandıktan sonra, PGA profilinde konumlar ve kullanıcılar gibi her iki hesabın da ayrıntılarını göreceğiz. Bu işlemi geri çeviremezsiniz.
 
-- Hesap merçaleti tamamlandıktan sonra, PGA profilindeki konumlar ve kullanıcılar gibi hesap ayrıntılarını görürsünüz. Bu işlemi geri alamazsınız.
+- Bu birleştirme sırasında konumlar için tüm MPN kimlikleri korunur.
 
-- Konumların tüm MPN kimlikleri bu birleştirme sırasında korunur.
+- Kullanıcının rolleri üzerine getirildi. Örneğin, bir kullanıcı belirli bir konumda teşvik yöneticisi olsaydı, birleşmeden sonra da bu role sahip olur ve birleşmeden önce gördüğü teşvikleri görebilirdi.
 
-- Kullanıcının rolleri üzerine getirilir. Örneğin, bir Kullanıcı belirli bir konum için teşvikleri Yöneticisi olsaydı, bu rolü birleşmeye başladıktan sonra yine de, birleşme 'tan önce görtikleri teşvikleri görebilecektir.
+- Azure AD kiracıları ve CSP hesapları birleştirilmez ve hiçbir etkisi olmaz.
 
-- Azure AD kiracılar ve CSP hesapları birleştirilmez ve hiçbir etkisi yoktur.
+- Yayımlanan teklifler ve her iki şirketle ilişkili Ortak satış işlem hattı verileri korunur
 
-- Her iki şirkette de ilişkilendirilen yayımlanmış teklifler ve ortak satış işlem hattı verileri korunur
+### <a name="view-of-merged-accounts"></a>Birleştirilen hesapların görünümü
 
-### <a name="view-of-merged-accounts"></a>Birleştirilmiş hesapların görünümü
+:::image type="content" source="images/merge-accounts/account-merge.png" alt-text="Hesap birleştirme":::
 
-:::image type="content" source="images/merge-accounts/account-merge.png" alt-text="Account birleşme":::
+## <a name="what-to-expect-if-you-have-been-invited-to-merge-your-partner-center-account-with-another-partner-center-account"></a>İş Ortağı Merkezi hesabınızla başka bir İş Ortağı Merkezi birleştirebilirsiniz
 
-## <a name="what-to-expect-if-you-have-been-invited-to-merge-your-partner-center-account-with-another-partner-center-account"></a>Iş Ortağı Merkezi hesabınızı başka bir Iş Ortağı Merkezi hesabıyla birleştirmek için davet edildiyseniz beklemeniz gerekenler
+Hesapları birleştirme davetini kabul etmeye karar veriyorsanız: · MPN kimlikleri ve konumlarınız, sizi davet eden iş ortağı hesabının PGA'sı ile birleştirilir.
 
-Hesapları birleştirme davetini kabul etme kararı verirseniz: · MPN KIMLIĞINIZ ve konumlarınız sizi davet eden iş ortağı hesabının PGA 'si ile birleştirilir.
+- Kullanıcılarınız, rolleri olduğu gibi birleştirilmiş hesaba getirilecek.
 
-- Kullanıcılarınız, rolleriyle birlikte birleştirilmiş hesaba alınacaktır.
-
-- Mevcut avantajlar ve Uzmanlıklar, yenileme yapılıncaya kadar her iki şirket için de korunacaktır. Yenileme sırasında hesaplar tek bir şirket olarak kabul edilir ve standart yenileme kuralları uygulanır.
+- Birleşme sonrasında yenilemeye kadar her iki şirket için de mevcut avantajlar ve yetkinlikler korunacak. Yenileme sırasında hesaplar tek bir şirket olarak kabul edilir ve standart yenileme kuralları uygulanır.
 
 ## <a name="understand-the-impacts-to-programs-and-benefits-when-partners-elect-to-merge-accounts"></a>İş ortakları hesapları birleştirmeyi seçerken programlar ve avantajların etkilerini anlayın
 
@@ -71,58 +69,58 @@ Hesapları birleştirme davetini kabul etme kararı verirseniz: · MPN KIMLIĞIN
 
 - Her iki şirketin da MCP KIMLIK ilişkilendirmeleri korunur ve PGA MPN KIMLIĞIYLE ilişkilendirilir.
 
-- Pazara sunma ve teknik avantajlar, temel avantajlı bir uzmanlık olarak sunulur. Birleştirme sonrası, doğruluk sağlamak için bankanızla ve vergi bilgilerinizin kontrol etmeniz önerilir.
+- Pazara satış ve teknik avantajlar uzmanlık temel avantajı olarak sunulur. Birleştirme sonrası, doğruluğu sağlamak için bankanızı ve vergi bilgilerini denetlemeniz önerilir.
 
-- Şirketiniz Azure Expert MSP programında ise, avantajlar yenileme yapılıncaya kadar korunur.
+- Şirketiniz yenilenme Azure Uzman MSP yenilemeye kadar korunur.
 
-- Şirketiniz gelişmiş uzmanlık kazanmışsa, her iki hesap arasında tutulur.
+- Şirketiniz gelişmiş uzmanlıklar kazanmışsa, her iki hesapta da bunlar korunur.
 
-- Tüm yazılım güvencesi fişleri her iki hesap arasında tutulur. 
+- Yazılım güvencesi kuponları her iki hesapta da korunur. 
 
-- DPOR veya PAL ilişkilendirmesi için bir etkisi yoktur. İlişkili gelir katkılarının tümü yeni Iş ortağı küresel hesabına akacak
+- DPOR veya PAL ilişkilendirmesi üzerinde hiçbir etkisi yoktur. İlişkili tüm gelir katkıları yeni İş Ortağı Genel Hesabına akmaya başlar
 
-## <a name="invite-a-company-to-merge-their-partner-center-account-with-your-partner-center-account"></a>İş Ortağı Merkezi hesabınızla Iş Ortağı Merkezi hesabını birleştirmek için bir şirket davet edin
+## <a name="invite-a-company-to-merge-their-partner-center-account-with-your-partner-center-account"></a>Bir şirketi şirket hesabıyla İş Ortağı Merkezi birleştirmesi için İş Ortağı Merkezi davet etme
 
 >[!Note]
->Hesap birleşmesi gerçekleştirmek için şirketiniz için **Hesap Yöneticisi** olmanız gerekir.
+>Hesap birleştirme işlemini gerçekleştirmek için, şirketinizin **Hesap yöneticisi** olmak gerekir.
 
-1. Iş Ortağı Merkezi panonuzdan **Ayarlar** ' ı seçin. 
+1. **Panodan** Ayarlar'İş Ortağı Merkezi seçin. 
 
-2. **Hesap birleştirmeyi** seçin.
+2. Hesap **birleştirme'yi seçin.**
 
-3. Sizinle birleştirmek üzere davet etmek istediğiniz hesabın **Iş ortağı profilinde** bulunan MPN kimliğini ekleyin. Iş ortağı küresel MPN KIMLIĞINI kullanmanız gerekir. MPN KIMLIĞI konumunu kullanamazsınız.
+3. Davet etmek istediğiniz hesabın **İş ortağı profilinde** bulunan MPN kimliğini ekleyin. İş Ortağı genel MPN kimliğini kullan gerekir. Konum MPN Kimliği'nin kullanılamayabilirsiniz.
 
-4. **Birleştir**' i seçtiğinizde, iş ortağı şirketine bir davetiye gönderilir. İsteğinizi kabul ettiğinde, Iş Ortağı Merkezi 'nde hesap birleştirmeyi başlatabilirsiniz. Şirket, hesapları birleştirme isteğinizi reddettiğinde, isteği reddettikleri nedenleri açıklayabilirler. Tüm hesap birleştirmelerinde, **birleştirme geçmişi** altında kullanabileceğiniz bir liste vardır.
+4. **Birleştir'i seçerek** iş ortağı şirkete bir davet gönderilir. İsteğinizi kabul eden kullanıcı, hesap birleştirmeyi İş Ortağı Merkezi. Şirket hesapları birleştirme isteğinizi reddederse, isteği neden reddettiklerini açıklayabilir. Tüm hesap birleştirmelerinin listesi, Birleştirme geçmişi altında **kullanılabilir.**
  
-### <a name="example-of-two-companies-merging-accounts"></a>Hesapları birleştiren iki şirket örneği
+### <a name="example-of-two-companies-merging-accounts"></a>İki şirketin hesap birleştirme örneği
 
 1. Contoso, Ltd. 
 
-    a. [küresel BIR MPN kimliği, 1111111](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile) ve bir alt [konum mpn kimliği 2222222](https://partner.microsoft.com/pcv/accountsettings/locationsprofile).
+    a. [11111111](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile) genel MPN kimliği ve [22222222](https://partner.microsoft.com/pcv/accountsettings/locationsprofile)alt konum MPN kimlikleri.
   
-    b. bir Azure AD kiracısı = @contoso.com
+    b. Azure AD kiracısı = @contoso.com
  
-    c. 1 Ekim 2020 ' de sona erecek bir altın uzmanlık
-2. Fabrikam, Inc.,
+    c. 1 Ekim 2020'de süresi dolan altın uzmanlık
+2. Fabrikam, Inc.
  
-    a.  Genel MPN KIMLIĞI 3333333 ve iki alt konum MPN kimliği 4444444 ve 5555555
+    a.  33333333 genel MPN kimliği ve 4444444 ve 5555555'e sahip iki alt konum MPN Kimliği
 
-    b.  bir Azure AD kiracısı = @fabrikam.com
+    b.  Azure AD kiracısı = @fabrikam.com
 
-    c.  1 Aralık 2020 ' de sona ermek üzere iki adet altın uzmanlık
-3.  Contoso, Fabrikam 'ı satın alarak birleştirme isteği başlatmak için [buraya](https://partner.microsoft.com/dashboard/account/merger) gider.
-4.  Fabrikam Iş Ortağı Merkezi 'nde oturum açar ve contoso isteğini onaylamak için #3 adımında contoso ile aynı sayfaya gider.
-5.  Contoso, birleştirme ayrıntılarını aynı sayfada inceler ve hesap birleşmesine devam etmek için onay sağlar.
-6.  Merkli sonrasında şirket hesabı şöyle görüntülenecektir:
+    c.  1 Aralık 2020'de süresi dolan iki altın uzmanlık
+3.  Contoso Fabrikam'ı satın alır [ve birleştirme](https://partner.microsoft.com/dashboard/account/merger) isteği başlatmak için buraya gider.
+4.  Fabrikam, İş Ortağı Merkezi ve Contoso'nun isteğini onaylamak için #3 contoso ile aynı sayfaya gider.
+5.  Contoso aynı sayfada birleştirmenin ayrıntılarını gözden alır ve hesap birleştirme işlemine devam etmek için onay sağlar.
+6.  Birleşmeden sonra şirket hesabı şu şekilde görüntülenir:
 
-    a.  1111111, 2222222, 3333333, 4444444 ve 5555555 genel MPN KIMLIĞINE sahip contoso adlı bir şirket, ve 4 alt konum MPN kimliği
+    a.  11111111 ve 4 alt konum MPN kimliği 2222222, 3333333, 4444444 ve 555555 olan Contoso adlı bir şirket
     
-    b.  @contoso.com @fabrikam.com Aynı Iş Ortağı Merkezi hesabına erişimi olan ıkı Azure AD kiracısından (+) sahip olacaktır
+    b.  Aynı hesap hesabına erişimi olan iki Azure AD kiracısı ( @contoso.com + ) İş Ortağı Merkezi @fabrikam.com olur
     
-    c.  1 Ekim 2020 ' de süresi dolan diğeri 1 Aralık 2020 süresi dolan iki uzmanlık avantajı paketine sahip olacaktır. 1 Aralık 2020 ' de tek bir uzmanlık avantajları paketi olarak yenileyebilecektir. Her yenilediklerinde, contoso yalnızca tek bir avantaj paketini koruyabilse de üç uzmanlığın tümünü korur.
+    c.  Biri 1 Ekim 2020'de sona eren diğeri de 1 Aralık 2020'de süresi dolan iki uzmanlık avantajları paketine sahip olacak. 1 Aralık 2020'de tek bir uzmanlık avantajları paketi olarak yenilenabilecekler. Yenilese de Contoso yalnızca tek bir avantaj paketini koruysa bile üç yetkinliği de korur.
     
-7.  Contoso yöneticileri, kullanıcıları için Iş Ortağı Merkezi rollerini yönetmeye devam edecektir @contoso.com . Fabrikam 'ın yöneticileri, Iş Ortağı Merkezi rollerini kullanıcıları için yönetmeye devam edecektir @fabrikam.com . Contoso yöneticileri yalnızca fabrikam 'ın kiracısına Konuk olarak davet edildiklerinde fabrikam kullanıcılarını yönetebilir.
-8.  Contoso, kiracıyı yok saymaya karar verebilir @fabrikam.com ve Fabrikam çalışanlarının yeni @contoso.com kimlik bilgilerini yeni roller ve izinlerle yeniden yayımladı.
+7.  Contoso'nun yöneticileri, kullanıcıları için İş Ortağı Merkezi rollerini @contoso.com yönetmeye devam edecektir. Fabrikam'ın yöneticileri, kullanıcıları için İş Ortağı Merkezi rollerini @fabrikam.com yönetmeye devam edecektir. Contoso yöneticileri yalnızca Fabrikam'ın kiracısına konuk olarak davet edilirse Fabrikam'ın kullanıcılarını yönetebilirsiniz.
+8.  Contoso kiracıyı yoksaymak ve Fabrikam çalışanlarını yeni roller ve izinlerle yeni kimlik @fabrikam.com bilgileri vermek için karar @contoso.com verdi.
 
 ## <a name="next-steps"></a>Sonraki adımlar
 

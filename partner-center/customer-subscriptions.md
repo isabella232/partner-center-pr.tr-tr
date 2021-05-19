@@ -9,21 +9,16 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6ae63c2cacbdea7a1aa2bf08ffff8a3cde512668
-ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
+ms.openlocfilehash: 894d0152920c37c0c6d719fce562c43dbf96a6c4
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106502756"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147369"
 ---
 # <a name="how-csp-program-partners-can-sell-subscriptions-to-customers"></a>CSP program iş ortaklarının müşterilere abonelikleri nasıl satın alabilir
 
-**Uygun roller**
-
-- Yönetim Aracısı
-- Genel yönetici
-- Yardım Masası Aracısı
-- Satış Aracısı
+**Uygun roller**: yönetici Aracısı | Genel yönetici | Yardım Masası Aracısı | Satış Aracısı
 
 Bir CSP iş ortağı olarak, yaptığınız merkezi şeylerden biri, müşterilerinize Microsoft ürünlerine yönelik abonelikler sunarız. Iş Ortağı Merkezi 'nde, her müşteri için tüm aboneliklerinizi yönetebilirsiniz. Abonelik ekleyebilir, mevcut aboneliklere Lisans ekleyebilir, hatta yazılım sürücüsünü test etmek isteyen müşterilere deneme abonelikleri de sunabilir. Ayrıca, müşterilerinizin yazılımı nasıl kullandığını anlamak için analizler ' i görüntüleyerek daha iyi destek sağlamanıza yardımcı olabilirsiniz.
 

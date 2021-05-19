@@ -1,50 +1,43 @@
 ---
-title: Günlük olarak derecelendirilen kullanım mutabakatı dosyaları
+title: Günlük olarak derecelendirilmiş kullanım mutabakat dosyaları
 ms.topic: article
 ms.date: 06/12/2020
-description: Iş Ortağı Merkezi 'nde günlük dereceli kullanım mutabakatı dosyalarını nasıl okuyacağınızı öğrenin. Keşfi dosyasındaki belirli alanların açıklamalarını içerir.
+description: Günlük olarak derecelendirilmiş kullanım mutabakat dosyalarını okuma hakkında bilgi İş Ortağı Merkezi. Mutabakat dosyasındaki belirli alanlar için açıklamalar içerir.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 89080cb580d9b451454d108c6ef0ce0a08c1bf0c
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: 9b5daf91646324a9d4ace92d25736cfd0361ad6c
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441906"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147284"
 ---
-# <a name="learn-how-to-read-daily-rated-usage-reconciliation-files-in-partner-center"></a>Iş Ortağı Merkezi 'nde günlük dereceli kullanım mutabakatı dosyalarını nasıl okuyacağınızı öğrenin
+# <a name="learn-how-to-read-daily-rated-usage-reconciliation-files-in-partner-center"></a>Günlük olarak değerlendirilen kullanım mutabakat dosyalarını okuma hakkında bilgi İş Ortağı Merkezi
 
-**Şunlara uygulanır**
+**Uygulama:** İş Ortağı Merkezi | İş Ortağı Merkezi için Microsoft Cloud for US Government
 
-- Microsoft Cloud for US Government için İş Ortağı Merkezi
+**Uygun roller:** Yönetici aracısı | Faturalama yöneticisi | Satış aracısı | Yardım masası aracısı
 
-**Uygun roller**
-
-- Yönetim Aracısı
-- Faturalama yöneticisi
-- Satış Aracısı
-- Yardım Masası Aracısı
-
-Bu makalede, günlük dereceli kullanım mutabakatı dosyalarının nasıl okunacağı açıklanır.
+Bu makalede, günlük olarak derecelendirilmiş kullanım mutabakat dosyalarının nasıl okunma durumu açıklanmıştır.
 
 >[!NOTE]
->Günlük olarak derecelendirilen kullanımlar, Iş Ortağı Merkezi 'nde veya API aracılığıyla erişilecek 24 saat sürer.
+>Günlük olarak derecelendirilmiş kullanımın api'de görünmesi İş Ortağı Merkezi veya API üzerinden erişilebilir olması 24 saat sürer.
 
-## <a name="fields-in-daily-rated-usage-reconciliation-files"></a>Günlük olarak derecelendirilen kullanım mutabakatı dosyalarındaki alanlar
+## <a name="fields-in-daily-rated-usage-reconciliation-files"></a>Günlük olarak derecelendirilmiş kullanım mutabakat dosyalarında alanlar
 
 | Sütun | Açıklama |
 | ------ | ----------- |
-| İş ortağı kimliği | GUID biçiminde iş ortağı tanımlayıcısı. |
+| PartnerId | GUID biçiminde iş ortağı tanımlayıcısı. |
 | PartnerName | İş ortağının adı. |
 | CustomerId | Müşteri için GUID biçiminde benzersiz Microsoft tanımlayıcısı. |
-| CustomerName | Iş Ortağı Merkezi 'nde raporlanan müşterinin kuruluş adı. *Bu sütun, faturayı sistem bilgileriniz ile mutabık kılma açısından önemlidir.* |
+| CustomerName | Müşterinin kuruluş adı, İş Ortağı Merkezi. *Bu sütun, faturayı sistem bilgileriyle mu mutabakata varmak için önemlidir.* |
 | CustomerDomainName | Müşterinin etki alanı adı. |
 | CustomerCountry | Müşterinin bulunduğu ülke. |
-| Mpnıd | CSP iş ortağının MPN tanımlayıcısı. |
+| MpnId | CSP iş ortağının MPN tanımlayıcısı. |
 | Tier2MpnId | Abonelik için kayıt satıcısının MPN tanımlayıcısı. |
 | Faturanumarası | Belirtilen hareketin göründüğü fatura numarası. |
 | ProductId | Ürün için tanımlayıcı. |
@@ -85,12 +78,12 @@ Bu makalede, günlük dereceli kullanım mutabakatı dosyalarının nasıl okuna
 | Efekt, BirimFiyat | Her türlü iskontolar, kazanılan kredi vb. dahil olmak üzere birim başına ücretlendirilen gerçek değer. |
 | PCToBCExchangeRate | Ödeme para birimine fiyatlandırma para birimi için uygulanan döviz kuru. |
 | PCToBCExchangeRateDate | Faturalandırma para birimine yönelik fiyatlandırma para biriminin belirlendiği tarih. |
-| EntitlementId | Azure abonelik KIMLIĞINI temsil eder. |
-| EntitlementDescription | Azure abonelik KIMLIĞININ adını temsil eder. |
-| PartnerEarnedCreditPercentage | Satır öğesi için Partnerearnedkredisini görüntüler. Kazanılan kredi 0 veya %15 olacaktır |
-| CreditPercentage | Azure tüketim kredisi ' nı görüntüler. Kazanılan kredi 0 veya yüzde 100 olacaktır. |
-| CreditType | Kredi türü. Örneğin, **Azure kredisi uygulandı.** |
+| EntitlementId | Azure Abonelik Kimliğini temsil eder. |
+| EntitlementDescription | Azure Abonelik Kimliğinin adını temsil eder. |
+| PartnerEarnedCreditPercentage | Satır öğesi için PartnerEarnedCredit öğesini görüntüler. Kazanılan kredi yüzde 0 veya 15 olur |
+| CreditPercentage | Azure Tüketim Kredisi'ne göre görüntülenir. Kazanılan kredi yüzde 0 veya 100 olur. |
+| CreditType | Kredinin türü. Örneğin, **Azure Kredisi Uygulandı.** |
 >[!NOTE]
->Günlük olarak derecelendirilen kullanımlar, Iş Ortağı Merkezi 'nde veya API aracılığıyla erişilecek 24 saat sürer.
+>Günlük olarak derecelendirilmiş kullanımın normal olarak 24 saat içinde İş Ortağı Merkezi API aracılığıyla erişilebilir.
 
 

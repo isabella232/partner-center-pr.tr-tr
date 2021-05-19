@@ -9,18 +9,16 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cf0d3c38b301c363a4a990db5258cf2a3f30d487
-ms.sourcegitcommit: dc9438475ccc6298bec6a698bf5fc9bd5cf2aa81
+ms.openlocfilehash: da3fc23a51cc70eec91a304f14189eb191c71339
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/12/2021
-ms.locfileid: "109819386"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148117"
 ---
 # <a name="credit-limit-enforcement-cle"></a>Kredi limiti zorlama (CLE)
 
-**Uygun roller**
-
-- Faturalama yöneticisi
+**Uygun roller:** Faturalama yöneticisi
 
 ## <a name="your-credit-limit-and-how-it-works"></a>Kredi limiti ve nasıl çalıştığını
 
@@ -38,41 +36,41 @@ Ekleme döneminiz boyunca kredi limitini kiracı düzeyinde atariz. Bunu tahmini
 
 Kiracı düzeyi. Örneğin ABD, Kanada ve Japonya'dan faaliyette olduğunu varsayalım. Kanada kiracısı kredi sınırına ulaşırsa bu kiracı, kanada'da satın alma girişiminde İş Ortağı Merkezi. Diğer kiracılar etkilenmez. 
 
-### <a name="if-i-exceed-my-credit-limit-can-i-continue-servicing-existing-customers-and-subscriptions-with-full-access"></a>Kredi limitimi aşarsa, mevcut müşterilere ve aboneliklere tam erişimle hizmet vermeye devam miyim?
+### <a name="if-i-exceed-my-credit-limit-can-i-continue-servicing-existing-customers-and-subscriptions-with-full-access"></a>Kredi sınırınızı aşsam, var olan müşterilere ve aboneliklere tam erişimle hizmet vermeye devam edebilir miyim?
 
-Evet. Müşterilerin mevcut abonelikleri kesintisiz olarak devam eder. Ancak, müşterileriniz için yeni abonelikler satın aamazsınız.
+Evet. Müşterilerinizin mevcut abonelikleriniz kesinti olmadan devam edecektir. Ancak, müşterileriniz için yeni abonelikler satın alamaz.
 
-### <a name="does-cle-apply-to-both-direct-bill-partners-and-indirect-providers"></a>CLE hem doğrudan fatura iş ortakları hem de dolaylı sağlayıcılar için geçerli mi?
+### <a name="does-cle-apply-to-both-direct-bill-partners-and-indirect-providers"></a>Hem doğrudan fatura ortakları hem de dolaylı sağlayıcılar için su geçerlidir mı?
 
 Evet, her ikisi için de geçerlidir.
 
-### <a name="after-i-submit-my-payment-to-reinstate-my-account-when-can-i-purchase-more-subscriptions"></a>Hesabımı yeniden iade etmek için ödememi gönderdikten sonra, ne zaman daha fazla abonelik satın a bilmiyorum? 
+### <a name="after-i-submit-my-payment-to-reinstate-my-account-when-can-i-purchase-more-subscriptions"></a>Ödemem daha sonra hesabım halinde gönderdikten sonra daha fazla abonelik satın alabilir miyim? 
 
-Microsoft'un kredi denetimi işlemine devam etmek için tüm gereksinimleri aldığı varsayıldı ise, ödemenizi 24 saat içinde satın almayı sürdürebilirsiniz.
+Microsoft 'un kredi denetimi sürecine devam etmek için tüm gereksinimleri aldığı varsayılırsa, ödemenizin 24 saat içinde satın alınması devam edebilir.
 
-### <a name="how-can-i-check-my-credit-limit"></a>Kredi limitimi nasıl kontrol miyim?
+### <a name="how-can-i-check-my-credit-limit"></a>Kredi sınırınızı nasıl denetlerim?
 
-Kredi [ucmwrcsp@microsoft.com](mailto:ucmwrcsp@microsoft.com) limitini görmek ve son satın almalar hakkında bilgi almak için ile iletişime geçin.
+[ucmwrcsp@microsoft.com](mailto:ucmwrcsp@microsoft.com)Kredi sınırınızı görmek ve son satın alımlarla ilgili bilgi almak için iletişim kurun.
 
-### <a name="do-invoices-that-are-in-dispute-count-against-the-credit-limit"></a>İtiraz konusu olan faturalar kredi limiti üzerinde sayılır mı?
+### <a name="do-invoices-that-are-in-dispute-count-against-the-credit-limit"></a>İtiraz durumunda olan faturalar kredi limitine karşı yapılsın mı?
 
-Evet. Bununla birlikte, sorunu çözmek için microsoft [ucmwrcsp@microsoft.com](mailto:ucmwrcsp@microsoft.com) ile iletişime geçin.
+Evet. Bununla birlikte, sorunu çözmek için Microsoft ile iletişim kurun [ucmwrcsp@microsoft.com](mailto:ucmwrcsp@microsoft.com) .
 
-### <a name="how-soon-will-i-hear-back-if-i-write-to-ucmwrcspmicrosoftcom"></a>'a yazarsanız ne kadar kısa süre sonra geri ucmwrcsp@microsoft.com dinleyeceğiz?
+### <a name="how-soon-will-i-hear-back-if-i-write-to-ucmwrcspmicrosoftcom"></a>Yazdığımda ne kadar süre sonra geri almam gerekir ucmwrcsp@microsoft.com ?
 
-Yanıtın 24 saatten kısa bir sürede yanıta sahip olması gerekir. 
+24 saatten az bir yanıt almanız gerekir. 
 
-### <a name="what-criteria-does-microsoft-use-for-setting-a-partners-credit-limit"></a>Microsoft, iş ortağının kredi limitini ayarlarken hangi ölçütleri kullanır?
+### <a name="what-criteria-does-microsoft-use-for-setting-a-partners-credit-limit"></a>Microsoft, iş ortağının kredi limitini ayarlamak için hangi kriterleri kullanır?
 
-Kredi limitini tahmin edilen gelir, satın alma gücü ve ödeme geçmişinize göre belirleriz.
+Kredi sınırınızı tahmini gelirinize, satın alma destekine ve ödeme geçmişine göre belirliyoruz.
 
-### <a name="is-the-credit-limit-currently-enforced-on-the-new-commerce-experience"></a>Kredi limiti şu anda Yeni Ticaret Deneyimi'ne mi uygulanıyor?
+### <a name="is-the-credit-limit-currently-enforced-on-the-new-commerce-experience"></a>Kredi limiti Şu anda yeni ticaret deneyiminde zorlansın mı?
 
-Evet. Kredi limitleri, tüm csP programlarına ve ürünlerine İş Ortağı Merkezi.
+Evet. Kredi limitleri, Iş ortağı merkezindeki tüm CSP programları ve ürünleri için geçerlidir.
 
-### <a name="who-will-receive-the-notification-when-my-organization-is-nearing-its-credit-limit"></a>Kuruluşum kredi sınırına yaklaşacaksa kim bildirim alacak?
+### <a name="who-will-receive-the-notification-when-my-organization-is-nearing-its-credit-limit"></a>Kuruluşum kredi sınırına yaklaştığı zaman bildirimi alacak?
 
-Bildirimin, kuruluşun Finans Hesabı Borç ilgili kişisi tarafından verilmesi gerekir.
+Kuruluşunuzun finans hesabı borçları ilgili kişisi bildirimi almalıdır.
 
 ## <a name="next-steps"></a>Sonraki adımlar
 

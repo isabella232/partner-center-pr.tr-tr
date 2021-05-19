@@ -1,55 +1,52 @@
 ---
-title: Müşterinin yönetici ayrıcalıklarını edinin
+title: Müşterinin yönetici ayrıcalıklarını alma
 ms.topic: how-to
 ms.date: 12/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Müşterinin hizmetini veya aboneliğini kendi adınıza yönetmek için ihtiyacınız olan izinleri alın. İzinlerin nasıl verildiğini, iptal edildiğini ve yönetildiğini öğrenin.
+description: Bir müşterinin hizmetini veya aboneliğini kendi adına yönetmek için ihtiyacınız olan izinleri alın. İzinlerin nasıl verilmiş, iptal edilmiş ve yönetiliyor olduğunu öğrenin.
 author: BillLinzbach
 ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: high
-ms.openlocfilehash: 624b66c7912af1f0109b6aadeffb67c5d4e9ea4b
-ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
+ms.openlocfilehash: 779e76d6bb3e8df679a5ca6fa8ce441e42529161
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106502506"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147301"
 ---
-# <a name="obtain-permissions-to-manage-a-customers-service-or-subscription"></a>Müşterinin hizmetini veya aboneliğini yönetme izinleri alma
+# <a name="obtain-permissions-to-manage-a-customers-service-or-subscription"></a>Müşterinin hizmetini veya aboneliğini yönetmek için izinler alma
 
-**Uygun roller**
+**Uygun roller:** Yönetici aracısı | Satış aracısı
 
-- Yönetim Aracısı
-- Satış Aracısı
+Müşterinin hizmetini veya aboneliğini kendi adına yönetmek için, müşterinin size bu hizmet için yönetici izinleri ataması gerekir. Müşteriden yönetici izinleri almak için bir kurumsal bayi ilişkisi isteği e-postası gönderin. Müşteri isteğinizi onay verdikten sonra hizmetin yönetim portalında oturum açma ve hizmeti müşteri adına yönetme yetkisine sahip olur. 
 
-Müşterinin hizmet veya aboneliğini kendi adına yönetmek için müşterinin size bu hizmet için yönetici izinleri vermesi gerekir. Bir müşteriden yönetici izinleri almak için, satıcıya bir satıcı ilişki isteği gönderin. Müşteri isteğinizi onayladıktan sonra, hizmetin yönetici portalında oturum açabilir ve müşterinin adına hizmeti yönetebilirsiniz. 
+## <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you"></a>Müşteriyi, kurumsal bayi ilişkisi kurması için davet etme
 
-## <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you"></a>Bir müşteriyi sizinle bir satıcı ilişkisi kurmaya davet etme
-
-1.  **Müşteriler** ' i seçin ve ardından **bir satıcı ilişkisi iste**' yi seçin.
+1.  **Müşteriler'i** ve ardından Kurumsal **bayi ilişkisi isteğide bulun'ı seçin.**
 
 2.  Sonraki sayfada taslak e-posta iletisini gözden geçirin. Taslak iletiyi varsayılan e-posta uygulamanızda açabilir veya iletiyi panonuza kopyalayıp bir e-postaya yapıştırabilirsiniz. 
 
     >[!IMPORTANT]
     >E-postanın metnini düzenleyebilirsiniz ama bağlantıyı eklemeyi unutmayın çünkü bu müşteriyi doğrudan hesabınıza bağlayacak kişiselleştirilmiş bir bağlantıdır. 
     
-3.  Bu adımı tamamladığınızda **bitti** ' yi seçin.
+3.  Bu **adımı** tamamlandıktan sonra Bitti'yi seçin.
 
 4.  E-postayı müşterinize gönderin.
 
-5.  Müşteri davetinizi kabul ettikten sonra **müşteriler** sayfanızda görünürler ve servisi buradan müşteri için temin edebilir...
+5.  Müşteri daveti kabul ettikten sonra Müşteriler  sayfanıza görünür ve siz de müşteri için hizmeti orada s sağlama ve yönetmeye devam edebilirsiniz.
 
-6.  Müşterinin hesabını, hizmetlerini, kullanıcılarını ve lisanslarını yönetmek için, adının yanındaki aşağı oku seçerek müşterinin kaydını genişletin ve ardından yönetmek istediğiniz hizmetin yönetim portalını seçin.
+6.  Müşterinin hesabını, hizmetlerini, kullanıcılarını ve lisanslarını yönetmek için, adının yanındaki aşağı oku seçerek müşterinin kaydını genişletin ve ardından yönetmek istediğiniz hizmetin yönetici portalını seçin.
 
 >[!IMPORTANT]  
->Müşteriler, bir hizmetin yönetim portalında yönetici izinlerini yeniden atayabilir veya kaldırabilir. Bununla birlikte, yönetici izinlerinizi kaldıran müşteriye, sizin adına Microsoft 'a bir hizmet isteği açabilmeyeceğiniz anlamına gelir. Müşteriyle anlaşmanızı yeniden başlatana kadar bu hizmet isteği türlerini müşterinin adına açamazsınız.
+>Müşteriler, bir hizmetin yönetim portalında yönetici izinlerini yeniden ayalar veya kaldırabilir. Bununla birlikte, yönetici izinlerinizi kaldırmanın, artık Microsoft'a kendi adına bir hizmet isteği açamazsınız anlamına geldiğini müşteriye bildirmeniz gerekir. Müşteriyle sözleşmenizi yeniden anlaşmadan müşterinin adına bu tür hizmet isteklerini açamazsiniz.
 
-Müşterileriniz, iş ortaklarının Office 365 Yönetici portalı içinden kiracılarında yönetici ayrıcalıklarına sahip olduğunu bulabilir. Bunu yapmak için:
+Müşterileriniz, Office 365 yönetici portalında kiracılarında hangi iş ortaklarının yönetici ayrıcalıklarına sahip olduğunu bulabilir. Bunu yapmak için:
 
-1. Müşterinin, genel yönetici olarak Office 365 Yönetici portalında oturum açması gerekir.
+1. Müşterinin Office 365 yönetim portalında Genel yönetici olarak oturum açması gerekir.
 
-2. **Ayarlar**  >  **iş ortağı ilişkileri**' ni seçin.
+2. Ayarlar **İş Ortağı**  >  **ilişkileri'ne tıklayın.**
 
 3. **Ortak ilişkiler** sayfasında, müşteri, çalıştıkları iş ortaklarının bir listesini ve kiracının kendilerine atanmış yönetim ayrıcalıkları verildiğini görür.
 
@@ -78,27 +75,27 @@ Temsilcili yönetim ayrıcalıklarını bir iş ortağından kaldırmak için:
 
 - Yardım Masası aracı grubu, müşterinin Azure AD kiracısındaki yardım masası yönetici rolüne atanır.
 
-Atanan dizin rollerine bağlı olarak her iki grubun üyeleri, müşteri adına iş ortağı kimlik bilgilerini ve yöneticisini kullanarak müşterinin Azure AD kiracısında ve O365 hizmetlerinde oturum açabilir.
+Atanan dizin rollerine bağlı olarak, her iki grubun üyeleri de müşteri adına iş ortağı kimlik bilgilerini ve yöneticiyi kullanarak müşterinin Azure AD kiracısı ve O365 hizmetlerinde oturum açın.
 
-Müşteriniz, yönetici ayrıcalıkları atamasını kaldırırsa, Azure AD rol atamaları kaldırılır ve artık müşterinin Azure AD kiracısı yönetimeyeceksiniz.
+Müşteriniz yönetici temsilcisi ayrıcalıklarını kaldırırsa Azure AD rol atamaları kaldırılır ve artık müşterinin Azure AD kiracısını yönetemeyeceksiniz.
 
 ### <a name="azure-subscriptions-and-resource-management"></a>Azure abonelikleri ve kaynak yönetimi
 
-Her Azure aboneliğinin kendi kaynak yönetimi rolleri kümesi vardır. Bir CSP iş ortağının bir müşterinin Azure aboneliğini yönetebilmesi için, iş ortağının Azure aboneliğinin altındaki bir veya daha fazla role atanması gerekir. Özellikle:
+Her Azure aboneliğinin kendi kaynak yönetimi rolleri kümesi vardır. CSP iş ortağının müşterinin Azure aboneliğini yönetemeden önce iş ortağının Azure aboneliği altındaki bir veya daha fazla role atanmaları gerekir. Özellikle:
 
-- Bir müşteri bir satıcı davetini kabul ettiğinde ve bir iş ortağı için Temsilcili yönetim ayrıcalığı verdiğinde, iş ortağı müşteri kiracısı kapsamında mevcut Azure aboneliklerine otomatik olarak erişemez.
+- Müşteri bir kurumsal bayi davetini kabul edin ve bir iş ortağına temsilcili yönetim ayrıcalığı verdi mi, iş ortağı müşteri kiracısı altındaki mevcut Azure aboneliklerine otomatik olarak erişim elde etmez.
 
-- CSP iş ortağı müşteri için yeni bir Azure aboneliği sağlarken, CSP iş ortağı kiracısı altındaki yönetici aracıları grubuna aboneliğin altında otomatik olarak sahip rolü atanır. Bu rol ataması temelinde, Grup üyeleri abonelik kapsamındaki kaynaklara erişebilir ve bunları yönetebilir.
+- CSP iş ortağı müşteri için yeni bir Azure aboneliği sağlarken, CSP iş ortağı kiracısı altındaki Yönetici Aracıları grubuna abonelik altında otomatik olarak Sahip rolü atanır. Bu rol ataması temel alınarak, grubun üyeleri abonelik altındaki kaynaklara erişebilirsiniz ve kaynakları yönetebilir.
 
-- Bir müşteri, Office 365 portalını kullanarak bir iş ortağının Temsilcili yönetim ayrıcalıklarını kaldırdığında, iş ortağı hala abonelik kapsamındaki bir veya daha fazla role atandığı sürece iş ortağı müşterinin Azure aboneliğini yönetebilir. Ortağın Azure aboneliğini yönetmesini durdurmak için, müşterinin rol atamasını kaldırması gerekir.
+- Müşteri Office 365 Portal'ı kullanarak bir iş ortağından temsilcili yönetim ayrıcalıklarını kaldırdığı zaman, iş ortağı abonelik altındaki bir veya daha fazla role atandığı sürece müşterinin Azure aboneliğini yönetmeye devam eder. İş ortağının Azure aboneliğini yönetmesi için müşterinin rol atamayı kaldırması gerekir.
 
 ## <a name="windows-autopilot"></a>Windows Autopilot
 
-Iş Ortağı Merkezi 'nden, CSP iş ortakları, bu koşullarda yönetici ayrıcalıklarına sahip olmaksızın müşterileri için Autopilot profillerini yönetebilir: 
+CSP İş Ortağı Merkezi, şu koşullarda yönetici ayrıcalıkları temsilcisi olmadan müşterileri için Autopilot profillerini yönetebilir: 
 
-- Bir müşteri Temsilcili yönetim ayrıcalıklarını kaldırırsa ancak sizinle bir satıcı ilişkisi koruursa, Autopilot profillerini yönetmeye devam edebilirsiniz.
+- Müşteri temsilcili yönetim ayrıcalıklarını kaldırırsa ancak kurumsal bayi ilişkisini korursa, bu müşteriler için Autopilot profillerini yönetmeye devam edersiniz.
 
-- Siz veya başka bir iş ortağının eklemiş olduğu müşteri cihazlarını yönetebilirsiniz. 
+- Sizin veya başka bir iş ortağının ekleymüş olduğu müşteri cihazlarını yönetebilirsiniz. 
 
 - Müşterinizin Iş Microsoft Store, eğitim için Microsoft Store veya Microsoft Intune Portal aracılığıyla eklediği cihazları yönetemezsiniz.
 

@@ -8,18 +8,16 @@ ms.author: sukumart
 author: sukumart
 ms.date: 06/01/2020
 localization_priority: Normal
-ms.openlocfilehash: 96d18c8f728c56b705d378ac56dcf46e777157f0
-ms.sourcegitcommit: f8fd51e1acdbfafdde86d6490bade66c63033ebd
+ms.openlocfilehash: 583e9c40bb8d161c30440f12331dc8dcbf3db417
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/28/2021
-ms.locfileid: "108172436"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146434"
 ---
 # <a name="migrate-kaizala-pro-standalone-subscriptions-to-microsoft-365-or-office-365-versions"></a>Kaizala Pro tek başına aboneliklerini Microsoft 365 veya Office 365 sürümlerine geçirin
 
-**Uygun roller**
-
-- Satış Aracısı
+**Uygun roller**: satış Aracısı
 
 1 Temmuz 2020 ' den itibaren geçerli olan Microsoft, Kaizala Pro tek başına hizmetinin satışlarını sonlandırıyor. Müşteriler artık bu tarihten sonra yeni Kaizala Pro abonelikleri satın amayacak ve mevcut Kaizala Pro abonelikleri süreleri dolduğunda otomatik olarak yenilenmeyecektir.
 
@@ -41,36 +39,36 @@ Yeni planlar sayesinde, müşterileriniz Microsoft 365 yeni özelliklerden ve i�
 - [**Frontline için Microsoft 365**](https://www.microsoft.com/microsoft-365/microsoft-365-enterprise-f3?activetab=pivot:overviewtab), şunlar dahil:
    - Microsoft 365 F3 (eski adıyla Microsoft 365 F1) ve Office 365 F3
     
-- Aşağıdakiler dahil olmak üzere [**Microsoft 365**](https://www.microsoft.com/microsoft-365/compare-microsoft-365-enterprise-plans): 
+- [**Microsoft 365 için şu şekildedir:**](https://www.microsoft.com/microsoft-365/compare-microsoft-365-enterprise-plans) 
    - Office 365 E1
    - Microsoft 365 E3 ve Office 365 E3
    - Microsoft 365 E5 ve Office 365 E5
 
-- [**Eğitim için Microsoft 365**](https://www.microsoft.com/education/buy-license/microsoft365), şunlar dahil: 
-    - Microsoft 365 a1 ve Office 365 a1
-    - Microsoft 365 a3 ve Office 365 a3
-    - Microsoft 365 a5 ve Office 365 a5
+- [**Microsoft 365 için eğitim,**](https://www.microsoft.com/education/buy-license/microsoft365)örneğin: 
+    - Microsoft 365 A1 ve Office 365 A1
+    - Microsoft 365 A3 ve Office 365 A3
+    - Microsoft 365 A5 ve Office 365 A5
 
-## <a name="transition-customers-to-new-product-plans"></a>Müşterilerin yeni ürün planlarına geçişini sağlar
+## <a name="transition-customers-to-new-product-plans"></a>Müşterileri yeni ürün planlarına geçiş
 
-Microsoft, iş ortaklarımız için sürekli olarak yeni ürün ve hizmetler sunar. Bu gibi durumlarda, müşterileri yeni hizmetlere yükseltmeniz veya sonunda kapatılacak SKU 'lardan aboneliklerini geçirmeniz gerekebilir. Müşterilerin Kullanımdan kaldırılmış SKU 'lardan daha yeni bir sürümüne geçirilmesi aşağıdaki adımları gerektirir:
+Microsoft, iş ortaklarımıza sürekli olarak yeni ürün ve hizmetler sunmaktadır. Bu gibi durumlarda, müşterileri yeni hizmetlere yükseltmeniz veya aboneliklerini sonunda kapatılacak olan SKUS'lardan geçirmeniz gerekir. Müşterileri, eski SKÜ'lerden yeni SKUS'lara şu adımların atılması gerekir:
 
-A. Yeni aboneliği satın alın
+A. Yeni aboneliği satın alma
 
-B. Geçerli kullanıcı lisanslarını yeniden ata
+B. Geçerli kullanıcı lisanslarını yeniden atama
 
-C. Eski aboneliği iptal et
+C. Eski aboneliği iptal etme
 
 
-## <a name="migrate-your-customers-to-new-plans"></a>Müşterilerinizi yeni planlara geçirin
+## <a name="migrate-your-customers-to-new-plans"></a>Müşterilerinizi yeni planlara geçirme
 
-### <a name="a-purchase-the-new-subscription"></a>A. Yeni aboneliği satın alın
+### <a name="a-purchase-the-new-subscription"></a>A. Yeni aboneliği satın alma
 
-1. Yeni aboneliği satın almak için **Iş Ortağı Merkezi** menüsünden **müşteriler**' i seçin, taşımak istediğiniz müşteriyi seçin ve ardından **Abonelik Ekle**' yi seçin.
+1. Yeni aboneliği satın almak için, **İş Ortağı Merkezi** menüsünden Müşteriler'i **seçin,** taşımak istediğiniz müşteriyi seçin ve ardından Abonelik **ekle'yi seçin.**
 
-2. Katalogdan satın almak istediğiniz aboneliği seçin (Bu durumda yukarıdaki seçeneklerden biri), lisansların sayısını girin ve ardından **Gönder**' i seçin.
+2. Katalogdan satın almak istediğiniz aboneliği seçin (bu durumda, yukarıdaki seçeneklerden biri), lisans sayısını girin ve gönder'i **seçin.**
 
-Müşterinizin artık eski ve yeni abonelikleri, eski Kaizala Pro tek başına aboneliği ve yeni ' Target ' aboneliği olmalıdır; örneğin, 1-Office 365 Kurumsal F1.
+Müşterinizin artık hem eski hem de yeni abonelikleri, eski Kaizala Pro Tek Başına aboneliği ve yeni 'hedef' aboneliği (örneğin, Seçenek 1 - Office 365 Kurumsal F1) olması gerekir.
 
 ### <a name="b-reassign-current-user-licenses"></a>B. Geçerli kullanıcı lisanslarını yeniden ata
 

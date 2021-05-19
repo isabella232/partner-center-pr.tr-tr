@@ -1,53 +1,48 @@
 ---
-title: Iş ortağı merkezi faturalama faturalarını anlama
+title: Fatura İş Ortağı Merkezi anlama
 ms.topic: article
 ms.date: 05/18/2020
-description: Iş Ortağı Merkezi faturalaması için fatura dosyanızdaki alanları anlayın. Dahil edilen alanlar ve tanımlar tüm fatura alanları ve tek seferlik ücret alanları için kullanılır.
+description: Fatura dosyanız için fatura dosyasındaki alanları İş Ortağı Merkezi olun. Tüm fatura alanları ve tek ücret alanları için alanlar ve tanımlar dahildir.
 author: sodeb
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 44bda5256b14722f143a5bf937e73b2533b8c9f5
-ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
+ms.openlocfilehash: 5cb60c775bd8de38b8d7ca69c4dd97cf11b919fd
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "106178910"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146621"
 ---
-# <a name="understand-partner-center-billing-invoice-fields"></a>Iş ortağı merkezi faturalama faturası alanlarını anlayın
+# <a name="understand-partner-center-billing-invoice-fields"></a>Fatura İş Ortağı Merkezi alanlarını anlama
 
-**Uygun roller**
+**Uygun roller:** Genel yönetici | Kullanıcı yönetimi yönetici | Faturalama yöneticisi | Yardım masası aracısı
 
-- Genel yönetici
-- Kullanıcı Yönetimi Yöneticisi
-- Faturalama yöneticisi
-- Yardım Masası Aracısı
-
-Iş ortağı merkezi fatura dosyalarındaki alanları anlamak için aşağıdaki tabloları kullanabilirsiniz.
+Fatura dosyalarında yer alan alanları anlamak için aşağıdaki İş Ortağı Merkezi kullanabilirsiniz.
 
 ## <a name="invoice-file-fields"></a>Fatura dosyası alanları
 
-Fatura dosyalarınızda aşağıdaki alanlar görüntülenir.
+Fatura dosyalarında aşağıdaki alanlar görünür.
 
 | Alan | Tanım |
 | ----- | ---------- |
-| BIZE FEDA | Federal Işveren kimlik numaranız (FEIN). Bu Birleşik Devletler federal vergi tanımlayıcı numarasıdır. |
+| US FEIN | Federal İşveren Kimlik Numaranız (FEIN). Bu, Birleşik Devletler vergi numarasıdır. |
 | Müşteri numarası | Müşteri numaranız. |
-| Fatura adresi | Faturanızı gönderdiğimiz adres. Şirket adınızı ve adresinizi, Iş ortağı merkezi faturalama profilinizde değiştirebilirsiniz. |
-| Lisans tabanlı ücretler | Satın alınan kullanım tabanlı lisanslarınız için aylık veya yıllık ücretler, hizmette önceden faturalandırılır. Bu sayı, lisans tabanlı mutabakat dosyanızdaki **alt toplam** sütunundaki (sütun **T**) tüm ücretlerin toplamıdır. |
-| Kullanım tabanlı ücretler | Azure kullanımınız. Bu, faturalama döneminde etkinleştirilen ve kullanılan yeni hizmetleri veya uygulamaları içerir. Bu sayı, kullanım tabanlı mutabakat dosyanızdaki **Pretaxcharges** sütunundaki ( **Z** sütunu) tüm ücretlerin toplamıdır. |
-| İndirimler | Müşterinin aboneliğin normal fiyatından aldığı indirim. Bu sayı, birim veya lisans başına fiyat olarak değil, *sabit bir tutar* olarak gösterilir. |
-| Krediler | Aboneliklerde yapılan değişiklikler için krediler veya Ayarlamalar (örneğin, lisans artar veya azalır). |
-| Ara toplam | Vergiler ve vergi dışlamalı ücretler ve kredilerin toplam sayısı. |
-| Vergi | Faturanızda sayfa 2 ' den itibaren **Ayrıntılar** bölümünde toplanan geçerli ücretler için toplam vergi. Bu sayı, kullanım tabanlı mutabakat dosyanızdaki **TaxAmount** sütunundaki (sütun **AA**) tüm giderlerin toplamıdır ve lisans tabanlı mutabakat dosyanızdaki **vergi** sütunu (sütun **U**). |
-| Diğer krediler | Vergi dışlamalı krediler. |
-| Toplam geçerli ücret | Fatura dönemi için faturalandırma para biriminiz için gereken miktar. Bu ücretler, ödeme bitiş tarihi ile kaynaklanmaktadır. |
-| Ödeme yönergeleri | Bölgenize göre faturanızı nasıl ödeyabileceğinize ilişkin açıklama. *Ödeme yaparken her zaman fatura numaranızı eklediğinizden emin olun.* |
-| Fatura No | Faturanızda bulunan sayı. |
-| Faturalama dönemi | Aylık dönem, fatura tarihine kadar önde gelen. Bu, kullanım tabanlı hizmetlerin kullanıldığı ve lisans sayımında yapılan kredi ayarlamaları ya da değişiklikler için lisans tabanlı hizmetlerin Uzlaştırılmakta olduğu dönemdir. |
-| Fatura tarihi | Faturanızda her ay oluşturulan faturalandırma tarihi veya yıldönümü tarihi. |
+| Fatura adresi | Faturanızı gönder adresi. Şirket adı ve adresinizi faturalama profilinde İş Ortağı Merkezi değiştirebilirsiniz. |
+| Lisans tabanlı ücretler | Satın aldığınız kullanım tabanlı lisansların aylık veya yıllık sabit ücretleri, hizmet öncesinde faturalandırıldı. Bu sayı, lisans tabanlı mutabakat **dosyanızdaki Alt toplam** sütunundaki **(sütun T)** tüm ücretlerin toplamıdır. |
+| Kullanım tabanlı ücretler | Azure kullanımınız. Bu, faturalama döneminde etkin ve kullanılan yeni hizmetleri veya uygulamaları içerir. Bu sayı, kullanım tabanlı mutabakat dosyanız içinde **PretaxCharges** sütunundaki **(sütun Z)** tüm ücretlerin toplamıdır. |
+| İndirimler | Müşterinin aboneliğin normal fiyatından aldığı indirim. Bu sayı birim veya *lisans başına fiyat* olarak değil sabit bir miktar olarak gösterilir. |
+| Krediler | Aboneliklerde yapılan değişiklikler için krediler veya düzeltmeler (örneğin, lisans artışları veya düşüşleri). |
+| Ara toplam | Vergiler ve vergiye özel ücretler ile kredilerden önce toplam. |
+| Vergi | Faturanın 2. sayfasından itibaren Ayrıntılar bölümünde **toplam** olarak geçerli ücretlerinizin toplam vergisi. Bu sayı, kullanım tabanlı mutabakat dosyanız **içinde TaxAmount** sütunundaki **(AA** sütunu)  ve lisans tabanlı mutabakat dosyanız içinde Vergi sütunu **(sütun U)** olan tüm ücretlerin toplamıdır. |
+| Diğer krediler | Vergiye özel krediler. |
+| Toplam geçerli ücretler | Faturalama dönemi için faturalama para biriminize bağlı olan tutar. Bu ücretler ödemenin son tarihine göredir. |
+| Ödeme yönergeleri | Bölgenize göre faturanızı ödemenin açıklaması. *Ödeme yaparken her zaman fatura numaranızı dahil etmek için emin olun.* |
+| Fatura no | Faturanın numarası. |
+| Faturalama dönemi | Fatura tarihine kadar olan aylık dönem. Bu süre, kullanım tabanlı hizmetlerin tüketildiği ve lisans tabanlı hizmetlerin tüm kredi ayarlamaları veya lisans sayısı değişiklikleri için mu mutabakata varılacağı dönemdir. |
+| Fatura tarihi | Faturanın her ay oluşturulacak faturalama tarihi veya yıldönümü tarihi. |
 | Ödeme koşulları | Ödeme dönemi. Tek seferlik satın alımlarda bu, her zaman 60 gün olur. |
 | Ödeme bitiş tarihi | Ödemenizin alınması gereken tarih. |
 | Müşteri PO 'su | Satın alma numaranız siparişiniz. |
@@ -67,4 +62,4 @@ Aşağıdaki alanlar yalnızca Iş ortağı merkezindeki **tek seferlik ücretle
 | İndirimler | Geçerli iskontolar. |
 | Vergi öncesi tutar | Vergi öncesi satın alımlarınızın alt toplamı. |
 | Satış vergisi | Vergi tutarı. |
-| Toplam | Ödenecek toplam miktar. |
+| Toplam | Toplam ödeme tutarı. |

@@ -9,18 +9,16 @@ author: billlinzbach
 ms.author: billLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f72a4cffaa8557e7e8f56dd2253c99449e3a696d
-ms.sourcegitcommit: 7dd8aa793922160102a7a6aaca2c7e8f9a49b8a9
+ms.openlocfilehash: 8afa7b060d2d78c7f2dfaee7007bb13756917d13
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/30/2020
-ms.locfileid: "93045407"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147573"
 ---
-# <a name="cloud-solution-provider-program"></a>Bulut çözümü sağlayıcısı programı 
+# <a name="cloud-solution-provider-program"></a>Bulut Çözümü Sağlayıcısı programı 
 
-**Şunlara uygulanır**
-
-- İş Ortağı Merkezi
+**Uygun roller**: CSP hakkında daha fazla bilgi edinmek isteyen tüm iş ortakları
 
 Bu makale, bulut çözümü sağlayıcısı (CSP) programına genel bir bakış sağlar ve farklı işlem modellerinin ve gereksinimlerinin yanı sıra bu programda satıma hakkında diğer ayrıntıları da açıklar.  CSP programı, müşterilerinizin işletmelerinde daha fazla yer sağlamanıza yardımcı olur ve lisansları yeniden satmadan, ve aşağıdaki avantajları içerebilir: 
 
@@ -39,21 +37,21 @@ Dolaylı bir satıcı olarak, müşteri ilişkinizi yönetmenize yardımcı olac
 İhtiyacınız olacak: 
 
 - Microsoft İş Ortağı Ağı ve MPN KIMLIĞINDE, satmak istediğiniz konum için etkin bir üyelik.
-- Kuruluşunuz adına yasal sözleşmeleri imzalama özelliği
-- Bulut çözümü sağlayıcısı programındaki [Resmi Microsoft dolaylı sağlayıcısıyla](https://partnercenter.microsoft.com/partner/find-a-provider) ilişki
+- Kuruluş adına yasal sözleşmeler imzalama olanağı
+- Bulut Çözümü Sağlayıcısı programında [resmi bir Microsoft](https://partnercenter.microsoft.com/partner/find-a-provider) dolaylı sağlayıcısıyla ilişki
 
 ### <a name="direct-bill-model"></a>Doğrudan fatura modeli
 
-Doğrudan fatura modelinde, iş ortakları Microsoft ürünlerini ve aboneliklerini doğrudan Microsoft 'tan satın alabilir ve şirket içi satış personeli aracılığıyla müşterilerine doğrudan müşterilere satış sağlar. Zaten çalışan veya geliştirmeye yönelik iş ortakları, uygun satış, faturalandırma ve destek altyapısı doğrudan modeli seçebilir. 27 Ekim 2020 itibariyle doğrudan fatura ortakları için kayıt gereksinimlerini güncelleştirdik.
+Doğrudan fatura modelinde iş ortakları, Microsoft ürünlerini ve aboneliklerini doğrudan Microsoft'tan satın alan ve bunları kendi satış personeli aracılığıyla doğrudan müşterilerine satmaktadır. Zaten faaliyete olan veya geliştirmeye istekli olan iş ortakları, uygun satış, faturalama ve destek altyapısı doğrudan modeli seçebilir. 27 Ekim 2020'den bu yana doğrudan fatura iş ortaklarının kayıt gereksinimlerini güncelleştirildi.
 
 #### <a name="requirements"></a>Gereksinimler
 
-Bulut çözümü sağlayıcısı programında doğru model ile daha fazla karlı bir işi nasıl oluşturup genişletebileceğiniz hakkında daha fazla bilgi için güncelleştirilmiş doğrudan fatura kayıt gereksinimlerini ve önerilerini gözden geçirin:  
+Aşağıdaki güncelleştirilmiş doğrudan fatura kaydı gereksinimlerini ve önerilerini gözden geçirerek aşağıdaki önerilere bakın. Bu programda doğru modelle daha karlı bir işletmeyi nasıl geliştirip genişletebilirsiniz Bulut Çözümü Sağlayıcısı değerlendirin:  
 
-- **Destek:** Microsoft 'un gelişmiş destek ortağı paketi ile tek bir, öncelikli bir bulut desteği satın alarak destek yeteneklerinizi genişletin. Ya da, proaktif hizmetlerin tam kataloğuna, 24/7 yükseltilmiş kesme/onarım desteğine ve bulut, karma ve şirket içinde teknik hesap yönetimine erişmek için bir Microsoft Premier Destek Iş ortağı paketi seçin. Destek yükümlülüğünüzü anlamak için Microsoft Iş ortağı Sözleşmesi ' ni gözden geçirin
-- **Performans gereksinimi:** Önceki on iki ay boyunca dolaylı bir satıcı olarak en az USD300K bulut çözümü sağlayıcısı programı yıllık gelir içerdiğinden emin olun. İş ortakları, izleyen on iki aylık geliri Iş Ortağı Merkezi 'nde gözden geçirebilir. USD300K son on iki aylık geliri oluşturan satış, Microsoft tarafından incelenmek ve doğrulanmasıdır ve ek bilgi sağlamanız istenebilir. USD300K gelir gereksinimi, bulut gelirine göre hesaplanır ve CSP 'de kalıcı yazılımları hariç bırakır.
-- Faturalandırma ve sağlama gibi en düşük altyapı yeteneklerini karşılayın
-- Microsoft İş Ortağı Ağı ve MPN KIMLIĞINDE, satmak istediğiniz konum için etkin bir üyelik.
+- **Destek:** İş Ortakları için Microsoft Gelişmiş Destek paketiyle bire bir, öncelikli bulut desteği satın alarak destek özelliklerinizi genişletin. 7/24 yükseltilmiş kesme/düzeltme desteği ve bulut, karma ve şirket içi genelinde teknik hesap yönetimi gibi proaktif hizmetlerin tam kataloğuna erişmek için bir İş Ortakları için Microsoft Premier Destek paketi de seçebilirsiniz. Destek yükümlülüklerinizi Microsoft İş Ortağı Sözleşmesi için aşağıdaki gözden geçirmeyi gözden geçirme
+- **Performans gereksinimi:** Dolaylı kurumsal bayi olarak son on iki ay boyunca Bulut Çözümü Sağlayıcısı program yıllık geliri için en az 300.000 ABD dolarının olduğundan emin olmak. İş ortakları, son on iki aylık gelirlerini gözden geçirerek İş Ortağı Merkezi. On iki aylık geliri takip eden USD300.000 ABD doları geliri sağlayan satışlar Microsoft tarafından gözden geçirilecek ve doğrulanacak ve ek bilgi sağlamanız istenebilirsiniz. 300.000 ABD doları gelir gereksinimi bulut geliri temel alarak hesaplanır ve CSP'de kalıcı yazılımları dışlar.
+- Faturalama ve sağlama gibi en düşük altyapı özelliklerini karşılama
+- Satış yapmak istediğiniz konum Microsoft İş Ortağı Ağı MPN Kimliği'ne sahip etkin bir üyelik.
 
 #### <a name="recommendations"></a>Öneriler
 

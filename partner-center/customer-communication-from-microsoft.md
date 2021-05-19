@@ -4,34 +4,30 @@ ms.topic: article
 ms.date: 07/10/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Microsoft 'un, bulut çözümü sağlayıcısı programındaki müşteriler ve iş ortakları arasında müşteri iletişimlerinin nasıl gerçekleşmesini beklediğini öğrenin.
+description: Microsoft'un müşteri ve iş ortakları arasında müşteri iletişimlerini nasıl Bulut Çözümü Sağlayıcısı öğrenin.
 author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 6de0d50364930999a7d0f335016a7c5a1864d8ab
-ms.sourcegitcommit: 1899307642f057070b1bdd647594fc46ba61fb08
+ms.openlocfilehash: 407b133d37d3f1c3ca46c8a9c15b3a75e93f2922
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/30/2021
-ms.locfileid: "108284358"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147454"
 ---
-# <a name="guidelines-for-successful-customer-communication-with-microsoft"></a>Microsoft ile başarılı müşteri iletişimine yönelik yönergeler
+# <a name="guidelines-for-successful-customer-communication-with-microsoft"></a>Microsoft ile başarılı müşteri iletişimi için yönergeler
 
-**Şunlara uygulanır**
+**Uygulama:** İş Ortağı Merkezi | İş Ortağı Merkezi için Microsoft Cloud for US Government
 
-- Microsoft Cloud for US Government için İş Ortağı Merkezi
+**Uygun roller:** Yardım masası aracısı
 
-**Uygun roller**
+Genel olarak, müşteriyle yapılan tüm iletişimlerin müşteri iş ortağından Bulut Çözümü Sağlayıcısı bekleriz. Müşteri faturalama ilişkisi size ait olduğundan Microsoft, abonelikleriyle ilgili iletişimleri doğrudan müşterilerinize göndermez.
 
-- Yardım Masası Aracısı
+Microsoft, müşterilerle hizmet olayları veya diğer operasyonel bilgiler hakkında doğrudan iletişim kurabilir.
 
-Genel olarak, bulut çözümü sağlayıcısı ortağından gelen müşteriyle tüm iletişimleri bekliyoruz. Müşteri faturalandırma ilişkisine sahip olduğunuzdan, Microsoft, abonelikleriyle ilgili doğrudan müşterilerinize doğrudan iletişim göndermez.
-
-Microsoft, hizmet olayları veya diğer işletimsel bilgiler hakkında doğrudan müşterilerle iletişim kurabilir.
-
-Microsoft ile zaten mevcut ticari ilişkilerine sahip olan müşteriler için Microsoft, CSP olmayan ürün ve hizmetleriyle ilgili olarak doğrudan iletişim kurmaya devam edecektir.
+Microsoft ile zaten ticari ilişkileri olan müşteriler için Microsoft, CSP olmayan ürün ve hizmetleriyle doğrudan iletişim kurmaya devam edecektir.
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-- [Microsoft Office 365 Yönetim Merkezi aracılığıyla veya Azure portal aracılığıyla müşterinin kendi kendini destekleme](customer-self-support.md)
+- [365 yönetim merkezinden Microsoft Office müşteri kendine destek veya Azure portal](customer-self-support.md)

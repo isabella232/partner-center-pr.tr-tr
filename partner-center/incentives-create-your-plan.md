@@ -8,20 +8,16 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 1ad11a42a91cfacb625a05b850b0cdfee3d48d0b
-ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
+ms.openlocfilehash: 31bed9eabcd63f80c7924b264e7abf04dab4b543
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "106179267"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146808"
 ---
 # <a name="generate-a-marketing-plan-for-your-incentives-program"></a>Teşvikleri programınız için bir pazarlama planı oluşturma
 
-**Uygun roller**
-
-- Teşvikleri Yöneticisi
-- Faturalama yöneticisi
-- Genel yönetici
+**Uygun roller**: teşvikleri admin | Faturalandırma Yöneticisi | Genel yönetici
 
 Ortak op talep planı, pazarlama kampanyaları, etkinlikler ve programınızı nasıl başarılı hale getirmek istediğinizi açıklayan diğer ayrıntıları serisidir. Planınızı oluşturduktan sonra, bunu onay için Microsoft 'a gönderebilirsiniz.
 

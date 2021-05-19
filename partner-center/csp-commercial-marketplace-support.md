@@ -9,20 +9,17 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 140dd5b7ad8af0f29dabd452dd59f22e3314cdd5
-ms.sourcegitcommit: a78dd3c532860d01867d116bfb4e2c88b84bcd25
+ms.openlocfilehash: 1a758129a2610cbc42a6cc031d8527ed874d083b
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/08/2021
-ms.locfileid: "97979558"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147828"
 ---
 # <a name="support-for-commercial-marketplace-products-in-the-csp-program"></a>CSP programındaki ticari Market ürünleri için destek
 
 
-**Uygun roller**
-
-- Genel yönetici
-- Yönetim Aracısı
+**Uygun roller**: genel yönetici | Yönetim Aracısı
 
 CSP programındaki iş ortakları, ticari Market 'ten müşteriler için satın alınan tüm üçüncü taraf ISV abonelikleri veya ürünleri ile ilgili müşteri faturalandırma veya abonelik yönetimi sorularına yönelik ilk iletişim noktasıdır.
 
@@ -36,18 +33,18 @@ CSP programındaki iş ortakları, ticari Market 'ten müşteriler için satın 
 
 - **CSP programındaki ortağın Destek rolü:** CSP programındaki iş ortağı, üçüncü taraf ISV teklifleri için diğer tüm destekten sorumludur. Bu destek, müşterilerin faturalandırma soruları, hesap kurulumu ve ödemeyle ilgili olabilir. CSP programındaki iş ortağı, müşterilerin Technical Support sorgularını ISV yayımcısı tarafından sunulan destek kişilerine doğrudan yönlendirebilir.
 
-- **Microsoft 'un destek rolü:** Microsoft, üçüncü taraf ISV yayımcısına ve Microsoft ticaret sistemi işlevselliğiyle ilgili CSP programındaki iş ortağı için destek sağlar. Bu, Microsoft 'un CSP program iş ortağı etkinliklerindeki iş ortağı tarafından ve Microsoft ticaret sisteminde gerçekleşen ve Azure tabanlı ISV çözümleri için ekleme/teklif yönetimi, işlemler, faturalama, hesap desteği ve dağıtım ve sağlama gibi belirli etkinliklerin yönetiminden sorumlu olacağı anlamına gelir.
+- **Microsoft'un destek rolü:** Microsoft, üçüncü taraf ISV yayımcısı ve CSP programı iş ortağına Microsoft ticaret sistemi işlevselliğiyle ilgili destek sağlar. Bu, Microsoft'un CSP programı iş ortağı etkinlikleri ve Microsoft ticaret sistemi içinde oluşan ISV tarafından yapılan ekleme/teklif yönetimi, işlemler, faturalama, hesap desteği ve Azure tabanlı ISV çözümleri için dağıtım ve sağlama gibi belirli etkinliklerin destekten sorumlu olduğu anlamına gelir.
 
-    Microsoft, üçüncü taraf ISV yayımcıları tarafından sunulan ticari Market ürünleri için destek sağlamaz. Bununla birlikte, Microsoft, CSP programının iş ortağı tarafından ISV yayımcısının destek iletişim bilgilerine erişmesini sağlar. CSP programındaki iş ortakları, teklifleri için diğer destek türlerini elde etmek üzere ISV yayımcısı (yukarıdaki) ile iletişim kurmanız gerekir.
+    Microsoft, üçüncü taraf ISV yayımcıları tarafından sunulan ticari market ürünleri için destek sağlamamaktadır. Ancak Microsoft, CSP programı iş ortağına ISV yayımcısı destek iletişim bilgilerine erişim verecek. CSP programı iş ortaklarının tekliflerine diğer destek türlerini almak için ISV yayımcısı (yukarıda) ile iletişim kurması gerekir.
 
-[Dolaylı CSP modelinde](csp-overview.md#indirect-model), bu destek sorumlulukları dolaylı sağlayıcı ve dolaylı satıcı arasında paylaşılır. Dolaylı bir satıcıysanız, Ayrıntılar için dolaylı sağlayıcınızı sorun.
+Dolaylı [CSP modelinde,](csp-overview.md#indirect-model)bu destek sorumlulukları dolaylı sağlayıcı ile dolaylı kurumsal bayi arasında paylaşılır. Dolaylı kurumsal bayiyebilirsiniz, dolaylı sağlayıcınızdan ayrıntılar için sorun.
 
 ## <a name="how-to-find-isv-contact-information"></a>ISV iletişim bilgilerini bulma
 
-Çoğu ISV iletişim ayrıntıları, iş ortağı Merkezi [panosundan](https://partner.microsoft.com/dashboard)sunulan Iş Ortağı Merkezi **Teklif Ayrıntıları** sayfasında görünür. Bu, ISV, müşteri desteği ve tüm CSP program hizmetlerine yönelik bir mühendislik kişisi içerir. Burada ISV tarafından verilen bilgiler, Kullanıcı belgelerini, satış sağlamalarına ve CSP program pazarlama malzemeleri bağlantısını da içerebilir.
+IsV iletişim ayrıntılarının çoğu İş Ortağı Merkezi **sayfasında** görünür ve bu sayfada İş Ortağı Merkezi [görüntülenir.](https://partner.microsoft.com/dashboard) Buna ISV için bir mühendislik ilgili kişisi, müşteri desteği ve csP programı ilgili kişisi dahildir. Burada ISV tarafından sağlanan bilgiler kullanıcı belgelerini, satış temsilcisini ve CSP programı pazarlama malzemelerinin bağlantısını da içerebilir.
 
-**Teklif Ayrıntıları** sayfasına erişmek için bkz. [ticari Market 'te teklifleri bulma](csp-commercial-marketplace-discover.md#view-marketplace-offers-in-partner-center).
+Teklif ayrıntıları **sayfasına erişmek için** [bkz. Ticari markette teklifleri bulma.](csp-commercial-marketplace-discover.md#view-marketplace-offers-in-partner-center)
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-- [Ticari Market ürünleriyle ilgili sözleşmeler hakkında bilgi edinin](csp-commercial-marketplace-contracting.md)
+- [Ticari market ürünleriyle ilgili sözleşmeler hakkında bilgi alın](csp-commercial-marketplace-contracting.md)

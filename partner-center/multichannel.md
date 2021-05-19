@@ -9,24 +9,18 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9bf577b6869a8b48215cb404df872d79f38e6a5e
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: bd0bb946c2f59f50c27aff58569d497bc21bf30b
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441991"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146417"
 ---
 # <a name="multi-channel-support---using-other-partners-to-support-customer-subscriptions-purchased-elsewhere"></a>Çoklu kanal desteği-başka bir yerde satın alınan müşteri aboneliklerini desteklemek için diğer iş ortakları kullanma
 
-**Şunlara uygulanır**
+**Uygulama hedefi**: Iş Ortağı Merkezi | ABD kamu için Microsoft Bulut iş ortağı Merkezi
 
-- Microsoft Cloud for US Government için İş Ortağı Merkezi
-
-**Uygun roller**
-
-- Genel yönetici
-- Kullanıcı Yönetimi Yöneticisi
-- Satış Aracısı
+**Uygun roller**: genel yönetici | Kullanıcı Yönetimi Yöneticisi | Satış Aracısı
 
 Iş ortağı merkezinin çok kanallı özelliği, bir müşteri, başka bir yerde satın aldıkları bir aboneliği yönetmek ve desteklemek için bir iş ortağı işe almak istediğinde senaryoları destekler. Müşteri şu durumlarda çok kanallı destek geçerlidir:
 
@@ -40,12 +34,12 @@ Iş ortağı merkezinin çok kanallı özelliği, bir müşteri, başka bir yerd
 |Kullanım tabanlı hizmetler     |  Danışman, açık veya EA gibi başka bir kanaldan Microsoft Azure zaten aboneliği olan bir müşteri için, Iş Ortağı Merkezi 'nde yeni bir Azure aboneliği oluşturmanız, abonelik ayrıntılarını el ile girmeniz ve sonra bireysel Hizmetleri ya da aboneliğin tamamını iptal etmeniz gerekir. Azure CSP, farklı kanallarla birlikte bulunamaz.<br/><br/> Örneğin, başka bir iş ortağından Microsoft Azure zaten aboneliği olan bir müşteri için, Azure hizmetlerini diğer iş ortağına geçirebilirsiniz.  Daha fazla bilgi için bkz. [Azure aboneliklerini farklı bir ortağa değiştirme](switch-azure-subscriptions-to-a-different-partner.md). |
 
 > [!IMPORTANT]  
-> CSP iş ortağı çevrimiçi hizmetler şu anda başka bir CSP ortağına yeniden satıtamaz. Microsoft, tüm programların ilkelerini ve yeteneklerini sürekli olarak inceler. Özellik sürümleri hakkında herhangi bir duyuru, Iş ortağı merkezi de dahil olmak üzere, normal iletişim kanalları aracılığıyla duyurulacaktır.
+> CSP iş ortağı şu anda çevrimiçi hizmetler CSP iş ortağına yeniden satışa açamaz. Microsoft, tüm programların ilkelerini ve özelliklerini sürekli gözden almaktadır. Özellik yayınları hakkında duyurular, sürümler de dahil olmak üzere normal iletişim İş Ortağı Merkezi.
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
 [Diğer iş ortaklarıyla çalışma](work-with-other-partners.md)
 
-- Dolaylı bir satıcıysanız, bkz. [dolaylı sağlayıcılarla Iş ortağı](indirect-reseller-tasks-in-partner-center.md).
+- Dolaylı kurumsal bayiysiniz, bkz. [Dolaylı sağlayıcılarla iş ortağı.](indirect-reseller-tasks-in-partner-center.md)
 
-- Dolaylı bir sağlayıcısıysanız, bkz. [dolaylı satıcılarla Iş ortağı](indirect-provider-tasks-in-partner-center.md).
+- Dolaylı sağlayıcıysanız bkz. [Dolaylı kurumsal bayilerle iş ortağı.](indirect-provider-tasks-in-partner-center.md)

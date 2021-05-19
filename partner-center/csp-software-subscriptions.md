@@ -4,39 +4,36 @@ ms.topic: how-to
 ms.date: 03/08/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: CSP programındaki iş ortaklarının, müşteriler için Azure ayrılmış örnekleri ve sunucu abonelikleri satın almak, yönetmek, satmak ve iptal etmek için Iş Ortağı Merkezi 'ni nasıl kullanabileceği hakkında bilgi edinin.
+description: CSP programı iş ortaklarının Azure ayrılmış örneklerini ve İş Ortağı Merkezi için Sunucu aboneliklerini satın almak, yönetmek, satmak ve iptal etmek için bu hizmetleri nasıl kullanabileceğini öğrenin.
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ac6169ea6680ea0b36cd5caa3f3e8276f557bea2
-ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
+ms.openlocfilehash: bdf6495d86da09b7d1d167c3fa1b3b5f15a35ab6
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106502561"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147505"
 ---
-# <a name="sell-software-subscriptions-through-the-cloud-solution-provider-csp-program"></a>Bulut çözümü sağlayıcısı (CSP) programı aracılığıyla yazılım abonelikleri satma
+# <a name="sell-software-subscriptions-through-the-cloud-solution-provider-csp-program"></a>Bulut Çözümü Sağlayıcısı (CSP) programı aracılığıyla yazılım abonelikleri satma
 
-**Uygun roller**
+**Uygun roller:** Yönetici aracısı | Genel yönetici
 
-- Yönetim Aracısı
-- Genel yönetici
+Azure rezervasyonları ve Sunucu abonelikleri (Windows Server ve SQL Server abonelikleri) ile CSP programı iş ortakları, yüksek oranda tahmin edilebilir ve kalıcı bulut iş yüklerini desteklemek için daha uygun maliyetli çözümlere yönelik hızlı büyüyen müşteri talebini daha iyi karşılar. 
 
-Azure ayırmaları ve sunucu abonelikleri (Windows Server ve SQL Server abonelikleri) sayesinde, CSP programındaki iş ortakları, yüksek düzeyde öngörülebilir ve kalıcı bulut iş yüklerini desteklemeye yönelik daha uygun maliyetli çözümler için hızlı büyümekte olan müşteri taleplerini daha iyi ele alabilir. 
+Artık azure rezervasyonlarını ve Sunucu aboneliklerini İş Ortağı Merkezi ve Azure portal aracılığıyla ticari müşteriler adına Azure Hibrit Avantajı.
 
-Artık Azure ayırmaları ve sunucu aboneliklerini, Iş ortağı merkezi ve Azure portal aracılığıyla ticari müşteriler adına alabilir, sağlayabilir ve yönetebilir Azure Hibrit Avantajı.
+Bu Azure Hibrit Avantajı, Windows Server lisanslarından daha fazla değer elde etmek ve sanal makinelerde yüzde 40'a varan tasarruflar elde etmek için size yardımcı olur. Avantajı, lisans kapsamındaki Windows Server Datacenter ve Standard sürüm lisansları ile Yazılım Güvencesi. Sürüme bağlı olarak, Lisanslarınızı dönüştürerek veya yeniden kullanarak Azure'da Windows Server sanal makinelerini çalıştırabilirsiniz ve daha düşük bir taban işlem ücreti (örneğin Linux sanal makine ücretleri) ödeyebilirsiniz.
 
-Azure Hibrit Avantajı, Windows Server lisanslarınızdan daha fazla değer almanıza ve sanal makinelerde yüzde 40 ' e varan tasarruf etmenize yardımcı olur. Yazılım Güvencesi kapsamındaki Windows Server Datacenter ve Standard Edition lisanslarıyla avantajını kullanabilirsiniz. Sürüme bağlı olarak, Azure 'da Windows Server sanal makinelerini çalıştırmak için lisanslarınızı dönüştürebilir veya yeniden kullanabilir ve daha düşük bir temel işlem ücreti (örneğin, Linux sanal makine ücretleri) ödeyebilirsiniz.
-
-## <a name="azure-reservations-unavailable-markets"></a>Azure ayırmaları kullanılamayan pazarlar
+## <a name="azure-reservations-unavailable-markets"></a>Azure rezervasyonları kullanılamayan pazarlar
 
 >[!IMPORTANT]
->Azure ayırmaları **aşağıdaki pazarlarda kullanılamaz:**  
+>Azure **rezervasyonları aşağıdaki** pazarlarda kullanılamaz:  
 >  
 > **Kullanılamayan pazarlar (alfabetik sırada)**
 >
-> |A-GI   | Gr-PAL  | PAP-Z |
+> |A'dan Gi'ye   | Gr to Pal  | Pap'dan Z'ye |
 > |--------------------------------|-----------------------------------|------------------------------------------|
 > | Aland Adaları     | Grönland     | Papua Yeni Gine     |
 > | Amerikan Samoası     | Grenada     | Pitcairn Adaları     |
@@ -49,7 +46,7 @@ Azure Hibrit Avantajı, Windows Server lisanslarınızdan daha fazla değer alma
 > | Benin     | Haiti       | Saint Vincent ve Grenadinler     |
 > | Butan     | Heard Adası ve McDonald Adaları       | Samoa     |
 > | Bonaire     | Man Adası     | San Marino     |
-> | Bouvet Adası     | Jan Mayen     | Sao Tome ve Principe   |
+> | Bouvet Adası     | Jan Mayen     | Séo Tomé ve Préncipe   |
 > | Britanya Hint Okyanusu Toprakları       | Jersey     | Seyşeller   |
 > | Britanya Virjin Adaları     | Kiribati       | Sierra Leone   |
 > | Burkina Faso     | Kosova     | Sint Eustatius     |
@@ -58,7 +55,7 @@ Azure Hibrit Avantajı, Windows Server lisanslarınızdan daha fazla değer alma
 > | Orta Afrika Cumhuriyeti     | Liberya     | Somali     |
 > | Çad     | Madagaskar     | Güney Georgia ve Güney Sandwich Adaları     |
 > | Çin     | Malavi     | Güney Sudan     |
-> | Christmas Adası     | Maldivler     | Saint Helena, Ascension ve Tristan da Cunha     |
+> | Christmas Adası     | Maldivler     | St Helena, Ascension, Tristan da Cunha     |
 > | Cocos (Keeling) Adaları     | Mali     | Surinam     |
 > | Komorlar     | Marshall Adaları     | Svalbard     |
 > | Kongo Cumhuriyeti     | Martinique     | Svaziland     |
@@ -68,17 +65,17 @@ Azure Hibrit Avantajı, Windows Server lisanslarınızdan daha fazla değer alma
 > | Dominika     | Montserrat     | Tonga   |
 > | Ekvator Ginesi     | Mozambik     | Turks ve Caicos Adaları   |
 > | Eritre     | Myanmar     | Tuvalu   |
-> | Falkland Adaları     | Nauru     | ABD harici Adaları   |
+> | Falkland Adaları     | Nauru     | ABD'de Outlying Adaları   |
 > | Fransız Guyanası     | Yeni Kaledonya     | Vanuatu   |
 > | Fransız Polinezyası     | Nijer     | Vatikan   |
-> | Fransız Güney Toprakları     | Niue     | Wallis ve Futuna   |
+> | Fransız Güney Toprakları     | Niue     | Wallis veUçsuzuna   |
 > | Gabon     | Norfolk Adası     | Yemen   |
 > | Gambiya     | Kuzey Mariana Adaları     |    |
 > | Cebelitarık     | Palau       |    |
 
-## <a name="buy-software-subscriptions-on-behalf-of-customers"></a>Yazılım aboneliklerini müşteriler adına satın alın
+## <a name="buy-software-subscriptions-on-behalf-of-customers"></a>Müşteriler adına yazılım abonelikleri satın alma
 
-Yazılım aboneliklerini bir müşteri adına satın almak için:
+Bir müşteri adına yazılım abonelikleri satın almak için:
 
 1. Iş Ortağı Merkezi [panosunda](https://partner.microsoft.com/dashboard)oturum açın.
 
@@ -110,56 +107,56 @@ Yazılımınızı satın aldıktan sonra siz veya müşterilerinizin bu uygulama
 
 ## <a name="server-subscription-download-and-license-keys-available-through-microsoft-365-admin-center-for-customers"></a>Sunucu aboneliği indirme ve lisans anahtarları, müşteriler için Microsoft 365 Yönetim Merkezi aracılığıyla kullanılabilir 
 
-Müşterileriniz, Microsoft 365 Yönetim merkezinden CSP sunucu aboneliği lisans anahtarları ve İndirmeleri alabilir. CSP sunucu aboneliği lisans anahtarlarını ve indirmelerini görmek için, müşterinin Microsoft 365 Yönetici Merkezi > **faturalandırma > ürün > yazılım sekmesi**' ne gitmeniz gerekir. Daha fazla ayrıntı için bkz. [Faturalandırma bölümünde yazılım sekmesi](/microsoft-365/admin/whats-new-in-preview#billing--subscriptions).  
+Müşterileriniz, Yönetim Merkezi'nde CSP sunucusu abonelik lisans anahtarlarını ve Microsoft 365 edinebilirsiniz. CsP sunucusu abonelik lisans anahtarlarını ve indirmelerini görmek için müşterinin Microsoft 365 Yönetim Merkezi > **Faturalama > Ürünleriniz > Yazılım sekmesine gitmeleri gerekir.** Diğer ayrıntılar için Faturalama altındaki [Yazılım Sekmesine bakın.](/microsoft-365/admin/whats-new-in-preview#billing--subscriptions)  
 
-## <a name="view-activity-for-software-key-access-and-software-downloads"></a>Yazılım anahtarı erişimi ve Yazılım İndirmeleri için etkinliği görüntüleme
+## <a name="view-activity-for-software-key-access-and-software-downloads"></a>Yazılım anahtarı erişimi ve yazılım indirmeleri için etkinliği görüntüleme
 
-Denetim veya uyumluluk amaçları için, sunucu aboneliği yazılım anahtarlarına veya indirilen sunucu aboneliği yazılımına erişen kullanıcıların listesini denetlemeniz gerekebilir. Bu bilgilere erişmek için aşağıdaki yordamı kullanın. 
+Denetim veya uyumluluk amacıyla, Sunucu aboneliği yazılım anahtarlarına erişen veya Sunucu aboneliği yazılımını indiren kullanıcıların listesini denetlemeniz gerekir. Bu bilgilere erişmek için aşağıdaki yordamı kullanın. 
 
 >[!NOTE]
->Bu etkinlik günlüklerini görmek için bir genel yönetici, hesap yöneticisi, başvuru Yöneticisi veya pazarlama içerik yöneticisi olmanız gerekir. 
+>Bu etkinlik günlüklerini görmek Genel yönetici yöneticisi, Referans yöneticisi veya Pazarlama içeriği yöneticisi olmak gerekir. 
 
-1. Iş Ortağı Merkezi [panosunda](https://partner.microsoft.com/dashboard)oturum açın.
+1. İş Ortağı Merkezi [oturum açın.](https://partner.microsoft.com/dashboard)
 
 2. Sağ üst köşedeki dişli simgesini seçin.
 
-3. Menüsünde **etkinlik günlüğü**' nü seçin.
+3. Menüde Etkinlik **günlüğü'yü seçin.**
 
-4. Görmek istediğiniz etkinliğin tarih aralığını girin. Etkinlik günlüğü, belirtilen süre boyunca yazılım anahtarlarına ya da yazılım indirmiş olan kullanıcıların listesini görüntüler. 
+4. Görmek istediğiniz etkinliğin tarih aralığını girin. Etkinlik günlüğü, belirttiğiniz süre boyunca yazılım anahtarlarına erişen veya yazılımı indiren kullanıcıların listesini görüntüler. 
 
-## <a name="cancel-a-purchase"></a>Satın almayı iptal et
+## <a name="cancel-a-purchase"></a>Satın alma işlemini iptal etme
 
-Satın alma tarihinin 60 gün içinde bir yazılım satın alımını iptal edebilirsiniz. Bu ilk 60 gün içinde iptal ederseniz erken sonlandırma ücreti ödemeyecektir. 60 gün sonra, artık satın alma işlemini iptal edemezsiniz. (Bu iptal kuralına yönelik önemli kısıtlamalara göz atın. Yazılım satın alma işlemini iptal ettikten sonra ne olacağı hakkında bilgi edinmek için bu adımların ardından da önemli bir nota bakın.) 
+Yazılım satın alma tarihini takip etmek için 60 gün içinde satın alma işlemini iptal edebilirsiniz. Bu ilk 60 günlük süre içinde iptal edersiniz, erken sonlandırma ücreti ödemezsiniz. 60 gün sonra artık satın alma işlemini iptal etmenize gerek yoktur. (Bu iptal kuralına yönelik önemli kısıtlamalar için bkz. Not. Yazılım satın alma işlemini iptal etmenizden sonra ne olduğu hakkında bilgi edinmek için bu adımlardan sonra önemli nota da bakın.) 
 
 >[!NOTE]
->Satın alma işlemini iptal etmek için aşağıdaki adımlar yalnızca, satın alma işleminden sonraki ilk 60 gün içinde olduğu gibi belirli bir iptal penceresi içinde iptali karşılayan yazılımlar için geçerlidir. Bu adımlar, Azure 'da SUSE Linux veya RedHat yazılım planına da uygulanmaz. Bu sırada, bir SUSE veya RedHat yazılım planını iptal edemez veya değiştiremezsiniz. SUSE Linux veya RedHat planlarını kullanma hakkında [daha fazla bilgi edinin](/azure/virtual-machines/linux/prepay-suse-software-charges) .
+>Satın alma işlemini iptal etmek için aşağıdaki adımlar yalnızca belirli bir iptal penceresi içinde iptal için uygun olan yazılımlar için geçerlidir( örneğin, satın alma sonrasındaki ilk 60 gün içinde). Bu adımlar Azure'daki bir SUSE Linux veya RedHat yazılım planı için de geçerli değildir. Şu anda, bir SUSE veya RedHat yazılım planını iptal veya değiştirme işlemi olamaz. SUSE Linux [veya](/azure/virtual-machines/linux/prepay-suse-software-charges) RedHat planlarını kullanma hakkında daha fazla bilgi.
 
 Satın alma işlemini iptal etmek için aşağıdaki adımları izleyin:
 
 >[!NOTE]
->Satın alma işlemini iptal etmek için bir yönetim aracısı olmanız gerekir. Aşağıdaki adımlarda, Iş Ortağı Merkezi panosunda satın alma işlemini iptal etme adımları açıklanır. Bunu [Iş ortağı MERKEZI API](/partner-center/develop/cancel-software-purchases)'sini kullanarak da yapabilirsiniz.
+>Satın alma işlemini iptal etmek için Yönetici aracısı olmak gerekir. Aşağıdaki adımlar, panoda satın alma işleminin nasıl İş Ortağı Merkezi açıklar. Bunu api'sini kullanarak da [İş Ortağı Merkezi.](/partner-center/develop/cancel-software-purchases)
 
-1. İptal işlemine başlamadan önce, aşağıdakilere sahip olduğunuzdan emin olun:
+1. İptal işlemini başlatmadan önce aşağıdakilere sahip olduğundan emin olun:
 
-    - Müşterinin adı, kiracı GUID 'SI veya etki alanı adı
+    - Müşterinin adı, kiracı GUID'si veya etki alanı adı
 
     - İptal etmek istediğiniz ürünün adı
     
-    - Sipariş KIMLIĞI
+    - Sipariş Kimliği
 
-2. Iş Ortağı Merkezi [panosunda](https://partner.microsoft.com/dashboard)oturum açın.
+2. İş Ortağı Merkezi [oturum açın.](https://partner.microsoft.com/dashboard)
 
-3. Iş Ortağı Merkezi menüsünde **müşteriler**' i seçin ve listeden bir müşteri seçin.
+3. Yeni İş Ortağı Merkezi **Müşteriler'i ve** ardından listeden bir müşteri seçin.
 
-4. Müşteri için satın alınan yazılımların listesini görmek için müşterinin ayrıntılar sayfasında **yazılım** ' i seçin. 
+4. Müşterinin ayrıntılar sayfasında Yazılım'ı  seçerek müşteri için satın alınan yazılımların listesini görebilirsiniz. 
 
-5. İptal etmek istediğiniz yazılım satın alma işlemini bulun ve ardından **iptal**' i seçin. Bir iletişim kutusu görüntülenir.
+5. İptal etmek istediğiniz yazılım satın alma işlemini bulun ve İptal'i **seçin.** Bir iletişim kutusu görüntülenir.
 
-6. Sıra numarası aşağı açılan listesinden, iptal etmek istediğiniz doğru sipariş KIMLIĞI numarasını seçin. (Müşterinin **Sipariş geçmişi** sayfasından sipariş veya sipariş kimliği numarası hakkında daha fazla bilgi edinebilirsiniz.)
+6. Sipariş numarası açılan listesinden iptal etmek istediğiniz doğru sipariş kimliği numarasını seçin. (Müşterinin Sipariş geçmişi sayfasından sipariş veya sipariş kimliği numarası hakkında daha fazla **bilgi edinebilirsiniz.)**
 
-7. İptal ile ilgili **önemli** iletiyi okuduğunuzu onaylamak için onay kutusunu işaretleyin. (Satın alma işlemini iptal ettikten sonra ne olacağı hakkında daha fazla bilgi edinmek için aşağıdaki **önemli** nota bakın.)
+7. İptalle ilgili Önemli iletiyi okuduğunızı kabul **etmek için** onay kutusunu seçin. (Satın alma işlemini **iptal etmenizden** sonra ne olduğu hakkında daha fazla bilgi edinmek için aşağıdaki Önemli nota bakın.)
 
-8. Satın alma işlemini iptal etmek için **Gönder** ' i seçin. Bir müşteri için birden çok siparişi iptal etmek istiyorsanız, her benzersiz sipariş KIMLIĞI numarası için 4 ile 6 arasındaki adımları tekrar gerçekleştirmeniz gerekecektir.
+8. Satın alma **işleminizi** iptal etmek için Gönder'i seçin. Bir müşteri için birden çok siparişi iptal etmek için her biri benzersiz sipariş kimliği numarası olan 4 ile 6. Adımları tekrar gerçekleştirmeniz gerekir.
 
 Bir siparişi iptal etmeye çalıştığınızda, Iş ortağı merkezi de size diğer bilgileri (sıra numarası aşağı açılan listesinin altında görünür) verebilir. Bu bilgiler şunları içerebilir:
 
@@ -190,26 +187,26 @@ Iş Ortağı Merkezi aracılığıyla bir yazılım satın alma işlemini iptal 
 
 2. **Ayrıntılar** altında, sorun türü listesinde, **müşteriler adına CSP satın al/para iadesi**' ni seçin.
 
-3. Etki ve başlık alanlarını girin.
+3. Etki ve Başlık alanlarını doldurun.
 
-4. Açıklama alanına aşağıdakileri sağlayın:
+4. Açıklama alanında şunları girin:
 
-    - Müşteri kiracı GUID veya etki alanı adı
+    - Müşteri kiracı GUID'si veya etki alanı adı
     
-    - Sipariş KIMLIĞI veya abonelik KIMLIĞI
+    - Sipariş Kimliği veya Abonelik Kimliği
     
     - Para iadesi nedeni
 
-    - İstenen miktar
+    - İstenen tutar
 
-5. Kişi alanına adınızı, e-posta adresinizi ve telefon numaranızı girin.
+5. Kişi alanına adınız, e-posta adresinizi ve telefon numarasını girin.
 
-6. Herhangi bir nedenle bir dosya iliştirmeye ihtiyacınız varsa dosya **Ekle**' yi seçin. Bu adım isteğe bağlıdır.
+6. Herhangi bir nedenle dosya eklemeniz gerekirse Dosya **ekle'yi seçin.** Bu adım isteğe bağlıdır.
 
-7. İşiniz bittiğinde **Gönder**' i seçin.
+7. Bitirdikten sonra Gönder'i **seçin.**
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-- [Iş Ortağı Merkezi 'ni kullanarak ticari Market ürünlerine müşteri abonelikleri satma](sell-marketplace-products.md)
+- [Müşterilere İş Ortağı Merkezi ticari market ürünlerine satış yapmak için abonelikleri kullanma](sell-marketplace-products.md)
  
-- [Iş Ortağı Merkezi 'nde müşterilere Azure abonelikleri atama](assign-azure-subscriptions.md)
+- [Azure aboneliklerini müşterilere İş Ortağı Merkezi](assign-azure-subscriptions.md)

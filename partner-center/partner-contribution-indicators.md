@@ -9,20 +9,16 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: dcd4d322a0a62644dbceb4ba4b4910d218495121
-ms.sourcegitcommit: e462f562e7f26b7d6870c22638a2a841499109d6
+ms.openlocfilehash: beb7888f947e766f753906c1f6452118cc5efb99
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/11/2021
-ms.locfileid: "109740378"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110147012"
 ---
 # <a name="use-partner-contribution-indicators-to-attain-the-cloud-business-applications-competency"></a>Bulut İş Uygulamaları yetkinliğine ulaşmak için İş Ortağı Katkısı Göstergelerini kullanın
 
-**Uygun roller**
-
-- Genel yönetici
-- MPN iş ortağı yöneticisi
-- Hesap yöneticisi
+**Uygun roller:** Genel yönetici | MPN iş ortağı yönetici | Hesap yöneticisi
 
 Bu makalede, bir iş ortağının Silver veya Gold Cloud Business Applications uzmanlığını elde etme veya elde tutma yönünde ilerlemesini değerlendirmek için kullanılan yedi önemli İş Ortağı Katkı Göstergesi (PCI) açıklanmıştır.
 
@@ -43,7 +39,7 @@ Bu makale aşağıdakiler hakkında bilgi içerir:
 
 ## <a name="overview-of-partner-contribution-indicators-for-this-competency"></a>Bu uzmanlık için İş Ortağı Katkı Göstergelerine genel bakış
 
-İş Ortağı Katkı Göstergeleri, bir iş ortağının başarılı müşteri sonuçları elde etme ve bu sayede Silver veya Gold Cloud Business Applications yetkinliğine sahip olduğunda pazarda daha fazla fark elde etme etkisine yönelik bütünsel bir ölçü sağlar.
+İş Ortağı Katkı Göstergeleri, bir iş ortağının başarılı müşteri sonuçları elde etme ve bu sayede Silver veya Gold Cloud Business Applications yetkinliğine sahip olduğunda pazarda daha fazla fark elde etme konusunda bütünsel bir ölçü sağlar.
 
 PCI ile iş ortakları, başarılı dağıtımlar ve kullanımı artırma gibi müşteri başarısının temel ölçüleri için kredi alır. Bu ekipler, teknik özelliklerine yatırım yapmaya ve ölçeğini ölçeklendirmeye devam ettiği için ödüllendirilir.
 
@@ -77,7 +73,7 @@ PCI, ortağın teknik özelliklerine, müşteri başarısını ve bunların sat�
 7. **Aylık etkin kullanıcı büyümesi:** Son 12 ay içinde tüm müşterileriniz genelinde aylık etkin kullanıcılarda büyüme. (Bu ölçümle ilgili ayrıntılar için [bkz. Aylık etkin kullanıcı büyümesi tanımları.)](partner-contribution-indicators.md#definitions-for-pci-metric-7---monthly-active-user-growth)
 
 ### <a name="how-pci-score-impacts-competency-eligibility"></a>PCI puanı uzmanlık uygunluğunu nasıl etkiler?
-Elde edilen her gösterge için puanlar ve ardından tek bir PCI puanı elde edilir. En fazla 100 nokta mümkündür. 
+Elde edilen her gösterge için puanlar ve ardından tek bir PCI puanı elde edilir. Maksimum 100 nokta mümkündür. 
 
 PCI puanınız uzmanlık uygunluğunu aşağıdaki gibi belirler:
 
@@ -176,7 +172,7 @@ Bir iş ortağı, Dynamics 365 Online Services Advisor (OSA) teşviki veya Dynam
 Bir iş ortağı, ürün içinde abonelik düzeyinde bir müşteriyle ilişki kurarak DPOR olur.
 
 > [!NOTE]
-> Belirli bir müşteri aboneliği için hem CPOR hem de DPOR mevcut olduğunda, CPOR bu abonelikle ilişkili ilgili PCI ölçümleri için kredi alır. İlişkilik OSA (gelir talebi) üzerinden yapıldı ise, CPOR Net yeni gelir kredisi alır ve Net müşteri ekler. İlişkilik OSU (kullanım talebi) üzerinden yapıldı ise, CPOR Yeni dağıtımlar ve Aylık etkin kullanıcı büyümesi için kredi alır. Ön satış talepleri PCI için uygun değildir.
+> Belirli bir müşteri aboneliği için hem CPOR hem de DPOR mevcut olduğunda, CPOR bu abonelikle ilişkili ilgili PCI ölçümleri için kredi alır. İlişki OSA (gelir talebi) üzerinden yapıldı ise, CPOR Net yeni gelir kredisi alır ve Net müşteri ekler. İlişkilik OSU (kullanım talebi) üzerinden yapıldı ise, CPOR Yeni dağıtımlar ve Aylık etkin kullanıcı büyümesi için kredi alır. Ön satış talepleri PCI için uygun değildir.
 
 ## <a name="detailed-pci-metrics-definitions-for-this-competency"></a>Bu uzmanlık için ayrıntılı PCI ölçüm tanımları
 
@@ -286,7 +282,7 @@ NET müşteri eklemeleri bir [performans göstergesidir](partner-contribution-in
 
 - Temel anlık görüntü daha sonra bir sonraki Bulut hizmeti Business Applications yenileme tarihine sıfırlanır.
 
-- Noktalara uygun olmak için, temel anlık görüntü alınırken En az **15** İşlev Danışmanı Geliştirme pazar iş ortakları için İş Ortakları ve Pazar iş ortakları geliştirmek için **5'e** sahip olmak gerekir.
+- Noktalara uygun olmak için, temel anlık görüntü alınırken en az **15** İşlev Danışmanı Geliştirme pazar iş ortakları için İş Ortakları ve Pazar iş ortakları geliştirmek için **5'e** sahip olmak gerekir.
 
 - **Kısmi puanlar kazanmayacak.** Temel anlık görüntü üzerinde büyümenin aşağıdaki tabloda belirtilen eşikleri karşılaması veya aşması gerekir. Tabloda puan kazanmak **için gereken** **işlevsel** danışman temeli ile Geliştirilmiş ve Geliştiriliyor sütunu yer alır.
 
@@ -373,11 +369,11 @@ Aylık etkin kullanıcı büyümesi bir [müşteri başarısı göstergesidir](p
 
   - Finans ve Operasyonlar'ın puanlara uygun olması için, Gelişmiş pazar iş ortaklarının en az **100** aylık etkin kullanıcı temellerine sahip olması ve Pazar geliştirme iş ortaklarının 12 ay önce tüm müşteri tabanı genelinde **50** aylık etkin kullanıcı temeli olması gerekir.
   
-  (Geliştirilen ve gelişen pazarlar hakkında ayrıntılı bilgi için bu Microsoft İş Ortağı Ağı [bakın.](https://assetsprod.microsoft.com/mpn/mpn-developed-and-developing-countries.pdf)
+  (Geliştirilen ve gelişen pazarlar hakkında ayrıntılı bilgi için bu [Microsoft İş Ortağı Ağı bakın.](https://assetsprod.microsoft.com/mpn/mpn-developed-and-developing-countries.pdf)
 
 - İş ortakları, abonelik düzeyinde kiracılarla ilişkilendirilmektedir. Abonelikler, uygun Customer Engagement ürünlerine veya uygun Finans ve Operasyon ürünlerine eşlenmiş.
 
-- Bir kiracı altındaki ücretli abonelikle ilişkilendirilmiş tüm iş ortakları, tüm Customer Engagement veya Finance and Operations aylık etkin kullanıcılarının o kiracı altındaki tüm ücretli aboneliklerde topladığı krediyi alacak.
+- Bir kiracı altındaki ücretli abonelikle ilişkilendirilmiş tüm iş ortakları, tüm Customer Engagement veya Finance and Operations aylık etkin kullanıcılarının o kiracı altındaki tüm ücretli abonelikler genelinde topladığı krediye sahip olur.
 
 ## <a name="how-to-access-partner-contribution-indicators"></a>İş Ortağı Katkı Göstergelerine erişme
 
@@ -389,12 +385,12 @@ Bu bölümde, iş ortağı panosundan İş Ortağı Katkısı Göstergelerine İ
 
 2. Gezinti **menüsünden CSP'yi** ve ardından İş Ortağı Katkısı **Göstergeleri'ni seçin.** 
 
-   İlişkili grafiklerin yer alan İş Ortağı Katkısı Göstergeleri panosuna bakabilirsiniz.
+   İlişkili grafiklere sahip İş Ortağı Katkısı Göstergeleri panosu görüntülenir.
 
    :::image type="content" source="images/pci/howto.png" alt-text="Grafiği okuma":::
 
    > [!NOTE]
-   > Bu seçenekleri görmüyorsanız menüden **MPN'yi** ve ardından İş Ortağı Katkısı **Göstergeleri'yi seçmeyi deneyin.** Bu seçenekleri hala bulamıyorsanız, bu seçenekte uygun kullanıcı rolü atanmamış İş Ortağı Merkezi. Yardım için İş Ortağı Merkezi genel yöneticinize veya MPN iş ortağı yöneticinize ulaşın.
+   > Bu seçenekleri görmüyorsanız menüden **MPN'yi** ve ardından İş Ortağı Katkı **Göstergeleri'yi seçmeyi deneyin.** Bu seçenekleri hala bulamıyorsanız, bu seçenekte uygun kullanıcı rolü atanmamış İş Ortağı Merkezi. Yardım için İş Ortağı Merkezi Genel yöneticinize veya MPN iş ortağı yöneticinize ulaşın.
 
 Bu alanı kullanma hakkında daha fazla bilgi için bu makalenin sonunda bulunan kaynak ve video koleksiyonuna bakın.
 

@@ -4,47 +4,42 @@ ms.topic: how-to
 ms.date: 11/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Iş Ortağı Merkezi 'nde ölçümleri nasıl kullanacağınızı öğrenin. Ölçümler, işletmenizin büyüdüğünü, müşterilerin lisanslarını nasıl kullandığını ve yatırımın nerede odaklandığını gösterebilir.
+description: İş Ortağı Merkezi'da ölçümlerin nasıl İş Ortağı Merkezi. Ölçümler, işletmenizin büyüp büyümey olduğunu, müşterilerin lisanslarını nasıl kullanalarını ve yatırıma nereye odaklanmaları gerektir olduğunu gösterebilir.
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7a42381e6c7f3b33acae887f78fb87b5d309279e
-ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
+ms.openlocfilehash: e8c0935ecf4cf7dba799eefbcbb74ed5e6702994
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "106178944"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146672"
 ---
-# <a name="use-metrics-in-partner-center-to-increase-adoption-and-satisfaction"></a>Benimseme ve memnuniyet düzeyini artırmak için Iş Ortağı Merkezi 'nde ölçümleri kullanın
+# <a name="use-metrics-in-partner-center-to-increase-adoption-and-satisfaction"></a>Benimsemeyi ve memnuniyeti İş Ortağı Merkezi için ölçümler kullanın
 
-**Uygun roller**
+**Uygun roller:** Genel yönetici | Kullanıcı yönetimi yönetici | Yönetici aracısı | Satış aracısı
 
-- Genel yönetici
-- Kullanıcı Yönetimi Yöneticisi
-- Yönetim Aracısı
-- Satış Aracısı
+İş ortaklarımız, işletmelerinin büyüyip büyüme olmadığını ve yatırıma nereye odaklanacaklarını ölçmek için birçok ölçüm kullanıyor. İş Ortağı Merkezi, müşterilerin satın alınan lisansları kullanmaları ve kullanmaları hakkında veri sağlayarak size yardımcı olabilir. Bu bilgiler Office ürünleri (SharePoint ile OneDrive İş dahil) için kullanılabilir.
 
-İş ortaklarımız, işletmenizin büyüdüğünü ve yatırımın nerede odaklanıp odaklanmadığını ölçmek için birçok ölçüm kullanır. İş Ortağı Merkezi, müşterilerinizin satın aldıkları lisansları ve bunları nasıl kullandığını öğrenmek için veri sağlamaya yardımcı olabilir. Bu bilgiler, Office ürünleri (SharePoint ile birlikte sayılan OneDrive Iş dahil) için kullanılabilir.
-
-Bulut çözümü sağlayıcısı programı aracılığıyla tüm müşterileriniz için verileri görebilirsiniz. Bazı müşteriler diğer iş ortaklarından veya doğrudan Microsoft 'tan lisans satın alabilir. Bu durumlar için tüm iş ortakları genelinde toplam lisans görürsünüz. Yalnızca kendi lisanslarınızı görmek için, bunun yerine müşterinin aboneliklerine gidin.
+Bulut Çözümü Sağlayıcısı programı aracılığıyla tüm müşterilerinize Bulut Çözümü Sağlayıcısı. Bazı müşteriler, diğer iş ortaklarından veya doğrudan Microsoft'tan lisans satın alabilir. Bu gibi durumlarda tüm iş ortaklarının toplam lisanslarını göreceğiz. Yalnızca kendi lisanslarınızı görmek için müşterinin abonelikleri'ne gidin.
 
 > [!NOTE]  
-> Şu anda yalnızca Office 365 ve Dynamics 365 için verileri gösteririz. Gelecekte ek ürünler için veri etkinleştirilecektir.
+> Şu anda yalnızca Office 365 ve Dynamics 365 verileri gösteriyoruz. Gelecekte ek ürünler için verileri etkinleştireceğiz.
 
-## <a name="find-license-and-user-data"></a>Lisans ve Kullanıcı verilerini bulma
+## <a name="find-license-and-user-data"></a>Lisans ve kullanıcı verilerini bulma
 
-Tek bir müşteri veya portföyünüzün lisans ve Kullanıcı verilerini bulabilirsiniz.
+Tek bir müşteri için veya portföy genelinde lisans ve kullanıcı verilerini bulabilirsiniz.
 
-### <a name="find-license-and-user-data-for-a-single-customer"></a>Tek bir müşteri için lisans ve Kullanıcı verilerini bulma
+### <a name="find-license-and-user-data-for-a-single-customer"></a>Tek bir müşteri için lisans ve kullanıcı verilerini bulma
 
-1. Iş Ortağı Merkezi [panosunda](https://partner.microsoft.com/dashboard)oturum açın.
+1. İş Ortağı Merkezi [oturum açın.](https://partner.microsoft.com/dashboard)
 
-2. **Iş Ortağı Merkezi** 'nden **müşterileri** seçin
+2. Listeden **Müşteriler'i** **İş Ortağı Merkezi**
 
 3. Bir müşteri seçin.
 
-4. **Müşteri öngörülerini** seçin.
+4. Müşteri **içgörüleri'ne seçin.**
 
 ### <a name="find-license-and-user-data-across-your-portfolio"></a>Portföyünüzde lisans ve Kullanıcı verileri bulma
 
@@ -82,15 +77,15 @@ Birçok yardım ve nasıl yapılır sorusunu tercih ediyorsanız, hesabınızdak
 
 **Sorun**: Kullanıcı benimseme oranı düşük, çok sayıda lisans kullanılmıyor.
 
-**Göz önüne almanız gerekenler**: müşteriler, yazılımın sağlayabilecekleri değeri anlamayabilir. Bunlar, zaten yapmakta oldukları görevleri basitleştirmek veya yeni üretkenlik türlerini etkinleştirmek üzere kendi günlerinden planlama yardımcı olur.
+**Dikkate gerekenler:** Müşteriler yazılımın sağd olabileceği değeri anlamayabilirsiniz. Zaten yaptıkları görevleri basitleştirmek veya yeni üretkenlik türlerine olanak sağlamak için bunları günlerine dahil etmenin yollarını hayal etmek için yardıma ihtiyaçları var.
 
-**Deneyebileceğiniz şeyler**: örnek olay incelemeleri, Kullanıcı referansları belirli senaryolar, öğretici Bloglar veya videolar hakkında bilgi sağlar.
+**Denemeler:** Örnek olay incelemeleri, belirli senaryolar, öğretici blogları veya videolar hakkında kullanıcı referansları.
 
-**Sorun**: yardım ve nasıl yapılır soruları için yüksek hacimli destek çağrıları vardır.
+**Sorun:** Yardım ve nasıl çözülen sorular için çok fazla destek çağrısı vardır.
 
-**Göz önüne almanız gerekenler**: müşteriler yazılım için, ürün sürümüne veya onların görevine göre yeni olabilir.
+**Dikkate alınanlar:** Müşteriler yazılımda, ürün sürümünde veya görevlerinde yeni olabilir.
 
-**Deneyebileceğiniz şeyler**: müşterilerin genel uzmanlığını artırmak ve ayrıca müşterilere sunulan bazı self servis seçenekleri de yükseltmek için eğitim sunumu (kişi veya çevrimiçi) sunan iki stratejiyi kullanabilirsiniz.
+**Denemeniz gerekenler:** Müşterilerin genel uzmanlığını artırmak için eğitim (kişisel veya çevrimiçi) sunan ikili bir stratejiyi kullanabilir, ayrıca müşterilerin kullanabileceği self servis seçeneklerin bazılarını da tanıtabilirsiniz.
 
-Destek sitenizi, destek iletişim bilgilerinizin yanı sıra [müşterinin kendi kendine destek](customer-self-support.md) bölümünde açıklanan self servis seçeneklerini de içerecek şekilde yeniden tasarlayabilmeniz gerekebilir.
+Destek sitenizi, destek iletişim bilgilerine ek olarak Müşteri [](customer-self-support.md) kendi kendine destek makalesinde açıklanan self servis seçeneklerini de içerecek şekilde yeniden tasarlamak iyi olabilir.
 

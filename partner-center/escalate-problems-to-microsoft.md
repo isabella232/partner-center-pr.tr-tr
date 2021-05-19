@@ -1,6 +1,6 @@
 ---
 title: Sorunları Microsoft'a aktar
-description: Microsoft iş ortaklarının müşterileri için kendilerini çözmeleri beklenen sorunları ve Microsoft 'a iletmek için ihtiyacı olan sorunları öğrenin.
+description: Microsoft iş ortaklarının müşterileri için kendilerini çözmesi beklenen sorunları ve Microsoft'a hangi sorunları yükseltmeleri gerekeceğini öğrenin.
 ms.topic: how-to
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,53 +9,46 @@ ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/18/2020
-ms.openlocfilehash: 4422c5b002f8233f9d6225e7d4e7a82f6e37a280
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: 9504f66a53b2dc2303303e3f82020b591ce1f94f
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441855"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110146978"
 ---
-# <a name="escalate-problems-to-microsoft-and-learn-which-issues-are-more-suited-to-microsoft-escalation"></a>Sorunları Microsoft 'a iletin ve Microsoft 'a yükseltme için hangi sorunların daha uygun olduğunu öğrenin  
+# <a name="escalate-problems-to-microsoft-and-learn-which-issues-are-more-suited-to-microsoft-escalation"></a>Sorunları Microsoft'a yükseltme ve Microsoft yükseltme için daha uygun olan sorunları öğrenme  
 
-**Şunlara uygulanır**
+**Için geçerlidir:** İş Ortağı Merkezi | İş Ortağı Merkezi için Microsoft Cloud for US Government
 
-- Microsoft Cloud for US Government için İş Ortağı Merkezi
+**Uygun roller:** Yönetici aracısı | Genel yönetici | Satış aracısı | Yardım masası aracısı
 
-**Uygun roller**
+Müşterileriniz adına sorunları çözmeniz beklenir. İlk adımlarınız, mevcut [ve belgelenmiş sorunların](check-service-health.md) hizmet durumunu kontrol etmektir. Bu, müşteri sorunlarını giderene kadar yazılım, ayarlar ve yapılandırma sorunlarını gidermek için yönetici ayrıcalıklarınızı kullanabilirsiniz.
 
-- Yönetim Aracısı
-- Genel yönetici
-- Satış Aracısı
-- Yardım Masası Aracısı
+Ancak, düzeltmek için Microsoft'a teslim etmek zorunda olacak çeşitli sorun kategorileri vardır:
 
-Müşterilerinizin adına sorunları çözeceğiniz için bu işlem beklenmektedir. İlk adımlarınız, mevcut, belgelenen sorunlar için [hizmet durumunu denetlemelidir](check-service-health.md) . Bu, müşteri sorununa yönelik değilse, yazılım, ayarlar ve yapılandırma sorunlarını gidermek için yönetici ayrıcalıklarınızı kullanabilirsiniz.
-
-Ancak, bunu çözmek için Microsoft 'a uygulamanız gereken birkaç sorun kategorisi vardır:
-
-- Hizmet açıklamalarına göre çalışan hizmetlerle ilgili açıklanmayan sorunlar.
+- Hizmet açıklamalarını göre çalışmamış hizmetlerle ilgili belgelenmemiş sorunlar.
 
 - Kullanılamayan hizmetler
 
-- Hatalar ve hizmet görünümünü veya işlemi etkileyen diğer dar
+- Hizmet görünümünü veya işlemi etkileyen hatalar ve diğer düzensizlikler
 
 - Büyük ölçekli ağ kesintileri
 
-- Çok kiracılı etki ile bölgesel sorunlar
+- Çok kiracılı etkiyle ilgili bölgesel sorunlar
 
-## <a name="submit-a-support-request"></a>Destek isteği gönder
+## <a name="submit-a-support-request"></a>Destek isteği gönderme
 
-1. Iş Ortağı Merkezi [panosunda](https://partner.microsoft.com/dashboard)oturum açın.
+1. İş Ortağı Merkezi [oturum açın.](https://partner.microsoft.com/dashboard)
 
-2. Iş Ortağı Merkezi menüsünde **müşteriler**' i seçin ve ardından destek gerektiren müşteriyi seçin.
+2. Destek İş Ortağı Merkezi Müşteriler'i **ve** ardından dede ihtiyacı olan müşteriyi seçin.
 
-3. **Hizmet yönetimi** ' ni seçin ve **hizmet istekleri**' ni seçin.
+3. Hizmet **yönetimi'ne** ve ardından **Hizmet istekleri'ne seçin.**
 
-4. **Yeni istek** ' ı seçin ve ardından **Microsoft Office 365**' i seçin.
+4. Yeni **istek'i** ve ardından **365 Microsoft Office seçin.**
 
-5. Iş ortağı merkezi kimlik bilgilerinizi kullanarak oturum açmanız gereken Office 365 portalına yönlendirilirsiniz.
+5. Office 365 portalına alınırsınız ve bu portalda kimlik bilgilerinizi kullanarak İş Ortağı Merkezi gerekir.
 
-6. **Destek**, sol taraftaki menüden **yeni hizmet isteği** ' ni seçin.
+6. Sol **menüden** **Destek , Yeni** hizmet isteği'ne tıklayın.
 
 7. Destek konusunu seçin.
 
