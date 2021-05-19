@@ -1,6 +1,6 @@
 ---
 title: Lisans tabanlı faturalama
-description: Lisans tabanlı faturalandırma 'nin, Iş Ortağı Merkezi 'nde, lisans başına faturalandırıldığınız (lisans kullanımına göre değil), kullanım tabanlı faturalandırma 'den farklı olduğunu öğrenin.
+description: Lisans tabanlı faturalamanın, lisans başına nasıl faturalandırıldık (lisans kullanımına göre değil) dahil olmak üzere İş Ortağı Merkezi'daki kullanım tabanlı faturalamadan nasıl farklı olduğunu öğrenin.
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,57 +9,52 @@ ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/18/2020
-ms.openlocfilehash: 007a15091a018755c60c4e02c394ad31868d4233
-ms.sourcegitcommit: 6498c57e75aa097861523b206dc142f789deeb36
+ms.openlocfilehash: 8232ab784611a04990044049c16e84c1a47b9567
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/02/2021
-ms.locfileid: "106179420"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110151840"
 ---
-# <a name="license-based-billing-in-partner-center"></a><span data-ttu-id="20994-103">Iş Ortağı Merkezi 'nde lisans tabanlı faturalandırma</span><span class="sxs-lookup"><span data-stu-id="20994-103">License-based billing in Partner Center</span></span>
+# <a name="license-based-billing-in-partner-center"></a><span data-ttu-id="b467b-103">İş Ortağı Merkezi'de lisans tabanlı faturalama</span><span class="sxs-lookup"><span data-stu-id="b467b-103">License-based billing in Partner Center</span></span>
 
-<span data-ttu-id="20994-104">**Uygun roller**</span><span class="sxs-lookup"><span data-stu-id="20994-104">**Appropriate roles**</span></span>
+<span data-ttu-id="b467b-104">**Uygun roller:** Genel yönetici | Kullanıcı yönetimi yönetici | Faturalama yöneticisi | Yönetici aracısı</span><span class="sxs-lookup"><span data-stu-id="b467b-104">**Appropriate roles**: Global admin | User management admin | Billing admin | Admin agent</span></span>
 
-- <span data-ttu-id="20994-105">Genel yönetici</span><span class="sxs-lookup"><span data-stu-id="20994-105">Global admin</span></span>
-- <span data-ttu-id="20994-106">Kullanıcı Yönetimi Yöneticisi</span><span class="sxs-lookup"><span data-stu-id="20994-106">User management admin</span></span>
-- <span data-ttu-id="20994-107">Faturalama yöneticisi</span><span class="sxs-lookup"><span data-stu-id="20994-107">Billing admin</span></span>
-- <span data-ttu-id="20994-108">Yönetim Aracısı</span><span class="sxs-lookup"><span data-stu-id="20994-108">Admin agent</span></span>
+<span data-ttu-id="b467b-105">Lisans gerektiren bir çevrimiçi hizmetler İş Ortağı Merkezi satın almak veya satın almak İş Ortağı Merkezi lisans *için* faturalandırabilirsiniz.</span><span class="sxs-lookup"><span data-stu-id="b467b-105">When you buy products or online services in Partner Center that require **licenses**, you're billed *for each license* that you buy.</span></span> <span data-ttu-id="b467b-106">Bu *lisanslar için kullanım* tarafından faturalandırlanmaz.</span><span class="sxs-lookup"><span data-stu-id="b467b-106">You're *not billed* by usage for these licenses.</span></span> <span data-ttu-id="b467b-107">(Kullanım tabanlı faturalama ve diğer faturalama türleri hakkında bilgi için [bkz.](./billing-basics.md)İş Ortağı Merkezi.)</span><span class="sxs-lookup"><span data-stu-id="b467b-107">(For information on usage-based billing and other billing types, see [Types of billing in Partner Center](./billing-basics.md).)</span></span>
 
-<span data-ttu-id="20994-109">Iş Ortağı Merkezi 'ne **Lisans** gerektiren ürünler veya çevrimiçi hizmetler satın aldığınızda, satın aldığınız *her lisans için* faturalandırılırsınız.</span><span class="sxs-lookup"><span data-stu-id="20994-109">When you buy products or online services in Partner Center that require **licenses**, you're billed *for each license* that you buy.</span></span> <span data-ttu-id="20994-110">Bu lisanslar için kullanım için *faturalandırılırsınız* .</span><span class="sxs-lookup"><span data-stu-id="20994-110">You're *not billed* by usage for these licenses.</span></span> <span data-ttu-id="20994-111">(Kullanım tabanlı faturalandırma ve diğer faturalandırma türleri hakkında bilgi için bkz. [Iş Ortağı Merkezi 'nde faturalandırma türleri](billing-different-types.md).)</span><span class="sxs-lookup"><span data-stu-id="20994-111">(For information on usage-based billing and other billing types, see [Types of billing in Partner Center](billing-different-types.md).)</span></span>
+## <a name="license-billing-frequency"></a><span data-ttu-id="b467b-108">Lisans faturalama sıklığı</span><span class="sxs-lookup"><span data-stu-id="b467b-108">License billing frequency</span></span>
 
-## <a name="license-billing-frequency"></a><span data-ttu-id="20994-112">Lisans faturalandırma sıklığı</span><span class="sxs-lookup"><span data-stu-id="20994-112">License billing frequency</span></span>
+<span data-ttu-id="b467b-109">Lisanslar için ayda bir kez (aylık faturalama) veya yılda **bir** kez (yıllık faturalama)**faturalandırılacak şekilde seçebilirsiniz.**</span><span class="sxs-lookup"><span data-stu-id="b467b-109">You can choose to be billed for licenses once a month (**monthly billing**) or once a year (**annual billing**).</span></span> 
 
-<span data-ttu-id="20994-113">Bir ay (**aylık faturalandırma**) veya yılda bir kez (**yıllık faturalandırma**) lisanslarda faturalandırmayı seçebilirsiniz.</span><span class="sxs-lookup"><span data-stu-id="20994-113">You can choose to be billed for licenses once a month (**monthly billing**) or once a year (**annual billing**).</span></span> 
+## <a name="billing-date-for-licenses"></a><span data-ttu-id="b467b-110">Lisanslar için faturalama tarihi</span><span class="sxs-lookup"><span data-stu-id="b467b-110">Billing date for licenses</span></span>
 
-## <a name="billing-date-for-licenses"></a><span data-ttu-id="20994-114">Lisanslar için faturalama tarihi</span><span class="sxs-lookup"><span data-stu-id="20994-114">Billing date for licenses</span></span>
+<span data-ttu-id="b467b-111">Lisans tabanlı abonelikler, aboneliğin yıldönümü tarihine göre önceden **fatura edilir.**</span><span class="sxs-lookup"><span data-stu-id="b467b-111">License-based subscriptions are billed in advance on the subscription's **anniversary date**.</span></span> <span data-ttu-id="b467b-112">Yıldönümü tarihi, aboneliği satın aldığınız ayın günü olur.</span><span class="sxs-lookup"><span data-stu-id="b467b-112">The anniversary date is the day of the month that you purchased the subscription.</span></span>
 
-<span data-ttu-id="20994-115">Lisans tabanlı abonelikler, aboneliğin **yıldönümü** tarihinde önceden faturalandırılır.</span><span class="sxs-lookup"><span data-stu-id="20994-115">License-based subscriptions are billed in advance on the subscription's **anniversary date**.</span></span> <span data-ttu-id="20994-116">Yıldönümü tarihi, aboneliğin satın alındığı ayın günüdür.</span><span class="sxs-lookup"><span data-stu-id="20994-116">The anniversary date is the day of the month that you purchased the subscription.</span></span>
+<span data-ttu-id="b467b-113">Örnek:</span><span class="sxs-lookup"><span data-stu-id="b467b-113">For example:</span></span>
 
-<span data-ttu-id="20994-117">Örnek:</span><span class="sxs-lookup"><span data-stu-id="20994-117">For example:</span></span>
+- <span data-ttu-id="b467b-114">15 **Ocak'ta aylık** abonelik satın aldıysanız yıldönümü tarihi her ayın 15'inde olacaktır.</span><span class="sxs-lookup"><span data-stu-id="b467b-114">If you purchased a **monthly subscription** on January 15, the anniversary date will be the 15th of each month.</span></span>
+- <span data-ttu-id="b467b-115">15 **Ocak'ta yıllık** abonelik satın aldıysanız yıl dönümü tarihi her yılın 15 Ocak tarihi olur.</span><span class="sxs-lookup"><span data-stu-id="b467b-115">If you purchased an **annual subscription** on January 15, the anniversary date will be January 15 of each year.</span></span>
 
-- <span data-ttu-id="20994-118">15 Ocak 'ta **aylık bir abonelik** satın aldıysanız, yıl dönümü tarihi her ayın 15 ' i olur.</span><span class="sxs-lookup"><span data-stu-id="20994-118">If you purchased a **monthly subscription** on January 15, the anniversary date will be the 15th of each month.</span></span>
-- <span data-ttu-id="20994-119">15 Ocak 'ta **yıllık bir abonelik** satın aldıysanız, yıldönümü tarihi her yıl 15 Ocak 'ta olur.</span><span class="sxs-lookup"><span data-stu-id="20994-119">If you purchased an **annual subscription** on January 15, the anniversary date will be January 15 of each year.</span></span>
+## <a name="license-term"></a><span data-ttu-id="b467b-116">Lisans süresi</span><span class="sxs-lookup"><span data-stu-id="b467b-116">License term</span></span>
 
-## <a name="license-term"></a><span data-ttu-id="20994-120">Lisans dönemi</span><span class="sxs-lookup"><span data-stu-id="20994-120">License term</span></span>
+<span data-ttu-id="b467b-117">Tüm lisans tabanlı aboneliklerin satın alma tarihinde başlayan 12 aylık ücretli dönemi vardır.</span><span class="sxs-lookup"><span data-stu-id="b467b-117">All license-based subscriptions have a 12-month paid term, which begins on the purchase date.</span></span>
 
-<span data-ttu-id="20994-121">Lisans tabanlı tüm abonelikler, satın alma tarihinde başlayan 12 aylık ücretli bir dönemi kapsar.</span><span class="sxs-lookup"><span data-stu-id="20994-121">All license-based subscriptions have a 12-month paid term, which begins on the purchase date.</span></span>
+## <a name="license-cancellation"></a><span data-ttu-id="b467b-118">Lisans iptali</span><span class="sxs-lookup"><span data-stu-id="b467b-118">License cancellation</span></span>
 
-## <a name="license-cancellation"></a><span data-ttu-id="20994-122">Lisans iptali</span><span class="sxs-lookup"><span data-stu-id="20994-122">License cancellation</span></span>
+<span data-ttu-id="b467b-119">Lisans dönemi boyunca herhangi bir noktada lisansı iptal [edebilirsiniz.](#license-term)</span><span class="sxs-lookup"><span data-stu-id="b467b-119">You can cancel a license at any point during the [license term](#license-term).</span></span> <span data-ttu-id="b467b-120">Ancak iptal etmek istediğiniz ay, iptal edilen lisans için ne kadar kredi alasınız?</span><span class="sxs-lookup"><span data-stu-id="b467b-120">However, the month in which you cancel impacts how much credit you will receive for the canceled license.</span></span>
 
-<span data-ttu-id="20994-123">Lisansı, [Lisans dönemi](#license-term)boyunca dilediğiniz zaman iptal edebilirsiniz.</span><span class="sxs-lookup"><span data-stu-id="20994-123">You can cancel a license at any point during the [license term](#license-term).</span></span> <span data-ttu-id="20994-124">Ancak, iptal ettiğiniz ay, iptal edilen lisans için ne kadar kredi alacağını etkiler.</span><span class="sxs-lookup"><span data-stu-id="20994-124">However, the month in which you cancel impacts how much credit you will receive for the canceled license.</span></span>
+<span data-ttu-id="b467b-121">1. ayda bir aboneliği askıya alırsanız %100 kredi alırsınız.</span><span class="sxs-lookup"><span data-stu-id="b467b-121">If you suspend a subscription in month 1, you will be credited 100%.</span></span>
 
-<span data-ttu-id="20994-125">1. ayda bir aboneliği askıya alırsanız, %100 alacaklandırılcaksınız.</span><span class="sxs-lookup"><span data-stu-id="20994-125">If you suspend a subscription in month 1, you will be credited 100%.</span></span>
+<span data-ttu-id="b467b-122">Aboneliği 2-12 arası askıya aldıysanız, eşit dağıtılmış olarak alacaklandırılırsınız.</span><span class="sxs-lookup"><span data-stu-id="b467b-122">If you suspend a subscription in months 2-12, you will be credited on a prorated basis.</span></span>
 
-<span data-ttu-id="20994-126">Aboneliği 2-12 arası askıya aldıysanız, eşit dağıtılmış olarak alacaklandırılırsınız.</span><span class="sxs-lookup"><span data-stu-id="20994-126">If you suspend a subscription in months 2-12, you will be credited on a prorated basis.</span></span>
+## <a name="license-renewal"></a><span data-ttu-id="b467b-123">Lisans yenileme</span><span class="sxs-lookup"><span data-stu-id="b467b-123">License renewal</span></span>
 
-## <a name="license-renewal"></a><span data-ttu-id="20994-127">Lisans yenileme</span><span class="sxs-lookup"><span data-stu-id="20994-127">License renewal</span></span>
+<span data-ttu-id="b467b-124">Tüm lisans tabanlı abonelikler, ücretli dönem başladıktan 12 ay sonra otomatik olarak yeniler.</span><span class="sxs-lookup"><span data-stu-id="b467b-124">All license-based subscriptions auto-renew 12-months after the paid term begins.</span></span>
 
-<span data-ttu-id="20994-128">Tüm lisans tabanlı abonelikler, ücretli dönemde 12 ay sonra otomatik olarak yenileme işlemi başlar.</span><span class="sxs-lookup"><span data-stu-id="20994-128">All license-based subscriptions auto-renew 12-months after the paid term begins.</span></span>
+## <a name="next-steps"></a><span data-ttu-id="b467b-125">Sonraki adımlar</span><span class="sxs-lookup"><span data-stu-id="b467b-125">Next steps</span></span>
 
-## <a name="next-steps"></a><span data-ttu-id="20994-129">Sonraki adımlar</span><span class="sxs-lookup"><span data-stu-id="20994-129">Next steps</span></span>
+- [<span data-ttu-id="b467b-126">Iş Ortağı Merkezi faturalandırmaya genel bakış</span><span class="sxs-lookup"><span data-stu-id="b467b-126">Overview of Partner Center billing</span></span>](billing-basics.md)
 
-- [<span data-ttu-id="20994-130">Iş Ortağı Merkezi faturalandırmaya genel bakış</span><span class="sxs-lookup"><span data-stu-id="20994-130">Overview of Partner Center billing</span></span>](billing-basics.md)
+- [<span data-ttu-id="b467b-127">İş Ortağı Merkezi'ndeki faturalama türleri</span><span class="sxs-lookup"><span data-stu-id="b467b-127">Types of billing in Partner Center</span></span>](./billing-basics.md)
 
-- [<span data-ttu-id="20994-131">İş Ortağı Merkezi'ndeki faturalama türleri</span><span class="sxs-lookup"><span data-stu-id="20994-131">Types of billing in Partner Center</span></span>](billing-different-types.md)
-
-- [<span data-ttu-id="20994-132">Ana faturalandırma ve vergi makaleleri</span><span class="sxs-lookup"><span data-stu-id="20994-132">Main billing and tax articles</span></span>](billing.md)
+- [<span data-ttu-id="b467b-128">Ana faturalandırma ve vergi makaleleri</span><span class="sxs-lookup"><span data-stu-id="b467b-128">Main billing and tax articles</span></span>](billing.md)
