@@ -1,49 +1,47 @@
 ---
 title: Office 365 deneme teklifleriyle müşteri ekleme
 ms.topic: article
-ms.date: 05/06/2020
+ms.date: 05/13/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Yetkili Microsoft danışmanlarının Office 365 aboneliklerini nasıl büyütireceğinizi öğrenin. Müşterilere Office 365 deneme davetleri ve satın alma teklifleri oluşturun ve gönderin.
+description: Yetkili Microsoft danışmanlarının Office 365 aboneliklerini nasıl büyüteceklerini öğrenin. Office 365 deneme davetleri oluşturun ve istemcilere teklif satın alın.
 author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 31d8be49e0270f32c472f3fbe0a54d5ceadc9098
-ms.sourcegitcommit: 5ef0b231023395fb4bf01cb82d0eabd83e6cdaf4
+ms.openlocfilehash: bd7e10aaf0bf339f92fbc9dc2f73f403c81693a3
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/07/2021
-ms.locfileid: "106557741"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150395"
 ---
-# <a name="advisors-build-your-client-base-with-office-365-trial-invitations-and-purchase-offers"></a>Danışmanları: Office 365 deneme davetleri ve satın alma tekliflerle istemci tabanınızı derleme
+# <a name="advisors-build-your-client-base-with-office-365-trial-invitations-and-purchase-offers"></a>Danışmanlar: Office 365 deneme davetleri ve satın alma teklifleri ile istemci tabanınızı oluşturma
 
 
-**Uygun roller**
-
-- Advisor
+**Uygun roller:** Danışman
 
 
-Yetkili bir Microsoft danışmanı olarak, **Iş Ortağı Merkezi** , istemci tabanınızı büyütmenize ve istemcileriniz ile yatırım ilişkileri oluşturmanıza yönelik bir fırsat sunar. Iş Ortağı Merkezi ile istemcilerinizi deneme davetlerini ve satın alma tekliflerinizi gönderebilir ve sağlama yetkiniz olan hizmetlere bağlı olarak onlara Temsilcili Yönetim Hizmetleri sunabilirsiniz.
+Yetkili bir Microsoft danışmanı **İş Ortağı Merkezi,** istemci tabanınızı büyüterek istemcileriniz ile uzun bir ilişki oluşturma fırsatı sunar. Bu İş Ortağı Merkezi, müşterilerinize deneme davetleri ve satın alma teklifleri gönderebilir ve sağlama yetkiniz olan hizmetlere bağlı olarak onlara temsilcili yönetim hizmetleri sunabilirsiniz.
 
-İş Ortağı Merkezi 'nde oturum açtığınızda, **deneme ve satın alma teklifleri**' ne gidin, işinizi büyütmeye yardımcı olacak bazı araçlar ve görevler görürsünüz.
+İş Ortağı Merkezi'da oturum İş Ortağı Merkezi deneme ve satın alma teklifleri'ne gidin. İşletmenizi büyütecek bazı araçlar ve görevlerle karşınıza çıkabilirsiniz.
 
 ## <a name="create-and-send-trial-invitations"></a>Deneme davetleri oluşturma ve gönderme
 
 > [!NOTE]
-> Bu özellik yalnızca abonelik danışmanları yetkili olan iş ortakları tarafından kullanılabilir.
+> Bu özellik yalnızca yetkili abonelik danışmanları olan iş ortakları tarafından kullanılabilir.
 
-Müşterilerinizin Office 365 ' i deneyebilmesi için, müşterilerinize göndermek üzere davetiye oluşturabilir ve gönderebilirsiniz. Bir davet, tek bir deneme aboneliği içerebilir.
+Office 365'i denemeleri için müşterilerinize göndermek için davetler oluşturabilir ve göndersiniz. Davet tek bir deneme aboneliği içerebilir.
 
-Temsilcili yönetim sunmaya sertifikalıdıysanız, deneme davetine, aboneliğinizi Müşterinizin adına yönetmenizi sağlayan bir seçenek ekleyebilirsiniz. Bu, müşterinizin Office 365 denemesini kolaylaştırır.
+Temsilci ile yönetim sunma sertifikasına sahipseniz deneme davetine aboneliği müşteriniz adına yönetmenizi sağlayan bir seçenek ebilirsiniz. Bu, müşterinizin Office 365'i denemelerini kolaylaştırır.
 
-Deneme daveti oluşturduğunuzda sizin için özel bir URL oluşturulur. URL, sizi Abonelik danışmanı olarak tanımlayan katıştırılmış bir kod içerir. Bu URL 'YI bir müşteri veya birden çok müşteri için kullanabilirsiniz. Müşterinizin URL 'sini bir e-posta ile gönderebilir veya Web sitenizde postalayabilirsiniz.
-Deneme davetiyeleri hakkında daha fazla bilgi için bkz. [deneme davetiyesi oluşturma](advisors-create-a-trial-invitation.md).
+Deneme daveti oluşturulduğunda sizin için özel bir URL oluşturulur. URL'de sizi abonelik danışmanı olarak tanımlayan ekli bir kod vardır. Bu URL'yi bir müşteri veya birden çok müşteri için kullanabilirsiniz. URL'yi bir e-postayla müşterinize gönderebilir veya web sitenize gönderebilirsiniz.
+Deneme davetleri hakkında daha fazla bilgi için [bkz. Deneme daveti oluşturma.](advisors-create-a-trial-invitation.md)
 
 ## <a name="create-and-send-purchase-offers"></a>Satın alma teklifleri oluşturma ve gönderme
 
 > [!NOTE]
-> Bu özellik yalnızca abonelik danışmanları yetkilendirilmiş Microsoft Iş ortakları tarafından kullanılabilir.
+> Bu özellik yalnızca yetkili abonelik danışmanları olan Microsoft İş Ortakları tarafından kullanılabilir.
 
 Müşterilerinize bir deneme daveti gönderdikten sonra, bir satın alma teklifiyle izleyin. Bir teklifi özelleştirerek, müşteri gereksinimlerinize özgü hizmetleri ve doğru sayıda kullanıcı lisansını içerir. Temsilcili yönetim sunmaya sertifikalıdıysanız, satın alma teklifine, aboneliğinizi Müşterinizin adına yönetmenizi sağlayan bir seçenek ekleyebilirsiniz.
 
@@ -53,4 +51,6 @@ Müşteriniz farklı sayıda lisansa istiyorsa, bu kişilere yeni bir teklif gö
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-Satın alma teklifleri hakkında daha fazla bilgi için bkz. [satın alma teklifi oluşturma](advisor-create-a-purchase-offer.md).
+- [Satın alma teklifi oluşturun](advisor-create-a-purchase-offer.md).
+
+- [İş ortakları artık danışmanları olarak kayıt olamaz](advisors-no-csp.md)

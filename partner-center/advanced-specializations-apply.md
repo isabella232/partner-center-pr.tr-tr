@@ -9,19 +9,16 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 62dab81a265a4bf1fe926cd1a8f583153821d0ef
-ms.sourcegitcommit: 5ef0b231023395fb4bf01cb82d0eabd83e6cdaf4
+ms.openlocfilehash: 44574f49d49a8300c65432463de16841af483ca4
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/07/2021
-ms.locfileid: "106557792"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150514"
 ---
 # <a name="use-partner-center-to-apply-for-advanced-specializations-and-check-their-status"></a>Ortak Uzmanlıkları uygulamak ve durumlarını denetlemek için Iş Ortağı Merkezi 'ni kullanın
 
-**Uygun roller**
-
-- Genel yönetici
-- Hesap yöneticisi
+**Uygun roller**: genel yönetici | Hesap Yöneticisi
 
 Bu makalede, Iş Ortağı Merkezi panosunun [Gelişmiş bir özelleştirme](advanced-specializations.md)için nasıl kullanılacağı, ilerleme durumunu kontrol etme ve gerekli adımları ve doğrulamaları tamamlaması açıklanmaktadır. Ayrıca, bir denetim veya müşteri başvuruları gerektiren belirli Gelişmiş uzmanlık sağlamak için Iş Ortağı Merkezi 'ni kullanma örnekleri de göreceksiniz.
 
@@ -115,12 +112,12 @@ Ardından, Iş Ortağı Merkezi 'nde müşteri başvuruları sağlamak için şu
 
    :::image type="content" source="images/advancedspecializations/as-2.png" alt-text="Müşteri başvuruları gerektiren örnek gelişmiş specialmeler önkoşulları sayfası.":::
 
-4. Bu sayfada gösterilen tüm önkoşulları karşılayana ve müşteri başvuruları sağlayacağından, durumunuz **başlatılmayacak**. Tüm önkoşullar karşılandıktan sonra durumunuz **etkin** olarak değişir.
+4. Bu sayfada gösterilen tüm önkoşulları karşılayana ve müşteri başvuruları sağlayacağından, durumunuz **başlatılmayacak**. Tüm önkoşullar karşı ardından durumunuz Etkin olarak **değişir.**
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-- [Gelişmiş Uzmanlıklar, avantajları ve benzersiz gereksinimler](https://partner.microsoft.com/membership/advanced-specialization)hakkında daha fazla bilgi edinin.
+- Gelişmiş [uzmanlıklar, avantajları ve benzersiz gereksinimleri hakkında daha fazla bilgi edinebilirsiniz.](https://partner.microsoft.com/membership/advanced-specialization)
 
-- [Microsoft gümüş veya altın üyelik Uzmanlıklar](learn-about-competencies.md)hakkında bilgi edinin.
+- Microsoft Silver [veya Gold üyelik yetkinliklerini elde etme hakkında bilgi.](learn-about-competencies.md)
 
-- [Microsoft iş ortağı ağı yetkinlikleri](https://partner.microsoft.com/membership/competencies)hakkında daha fazla bilgi edinin.
+- Microsoft İş Ortağı Ağı [hakkında daha fazla bilgi.](https://partner.microsoft.com/membership/competencies)

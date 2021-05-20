@@ -9,19 +9,16 @@ author: kaushikgMSFT
 ms.author: kaushikg
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 99098b49ded4808edfd4ee895565d1563c52675a
-ms.sourcegitcommit: 868f90c54f26a037eee29749c207a7316bb4b475
+ms.openlocfilehash: 5e5f8000032fa09d7752f8c6206325630b995b63
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/11/2021
-ms.locfileid: "103022716"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148729"
 ---
 # <a name="earn-cooperative-marketing-funds"></a>İşbirlikçi pazarlama fonlarını kazanma
 
-**Uygun roller**
-
-- Teşvikleri Yöneticisi
-- Teşvikleri kullanıcısı
+**Uygun roller**: teşvikleri admin | Teşvikleri kullanıcısı
 
 Ortak pazarlama (Co-op) fon, Microsoft ürün tanımayı destekleyen etkinlikler için geri ödeme yaparak Microsoft 'un programlarını karşıladığınız fonlardır. Bulut çözümü sağlayıcısı, yönetilen satıcı, barındırma ve yüzey teşvikleri programlara örnek olarak verilebilir.
 
@@ -43,33 +40,33 @@ Teşvikleri program kılavuzumuzun ödeme temposunda ve bölünmüş yüzdesi ha
 
 ## <a name="when-to-claim-your-funds"></a>Fonlarınızı talep etmek için
 
-Ortak çalışma fonları için zaman çizelgesi 2 6 aylık dönemler, H1 ve H2 olarak bölünür. ("H", mali yarı yıl için temsil eder.)
+İşbirliği fonlarının zaman çizelgesi iki altı aylık dönemlere (H1 ve H2) ayrılmıştır. ("H", mali yarı yılın açılımıdır.)
 
-- H1, mali yılın ilk yarısında, 1 Temmuz 31 ' dir.
-- H2, mali yılın ikinci yarısında, 1 Ocak 30 Haziran.
+- H1, 1 Temmuz - 31 Aralık mali yılın ilk yarısıdır.
+- H2, mali yılın ikinci yarısıdır, 1 Ocak - 30 Haziran.
 
-Gelirinizi tahakkuk ettirmek için gereken altı aylık dönem **kazanç döneminizin** olur. Bu kazancı, aşağıdaki altı aylık **kullanım döneminde** bir noktada kullanmanız gerekir. Kullanım süresinin sonuna kadar kazanç kullanmıyorsanız, bunları beğenirsiniz. Talep eden **Dönem** , ister bir program etkinlikleriniz için geri ödeme talebinde bulunmak için gereken altı aylık bir süredir.
+Kazançlarınızı tahakkuk eden altı aylık dönem Kazanç **döneminiz olur.** Bu kazançları, sonraki altı aylık Kullanım döneminde bir noktada **kullanabilirsiniz.** Kazançlarınızı kullanım döneminin sonuna kadar kullanmayacaksanız, bu kazançları kullanım süresi sona erer. Talep **dönemi,** teşvik programı etkinlikleriniz için geri ödeme talepte bulundurabilirsiniz altı aylık dönemdir.
 
-Aşağıdaki tabloda, farklı kazanç, kullanım ve talep eden dönemler gösterilmektedir. Aksi belirtilmediği takdirde, dönemler ilk ayın ilk gününden geçen ayın son gününe kadar genişler.
+Aşağıdaki tabloda farklı kazanç, kullanım ve talep dönemleri gösterilmiştir. Aksi belirtilmedikçe dönemler ilk ayın ilk gününden son ayın son gününe kadar uzatılacaktır.
 
-|  Kazanç/tahakkuk süreniz  |Mali yarı yıl döneminiz  |  Kullanım süreniz  |  Bu süre  |
+|  Kazanç/tahakkuk döneminiz  |Mali yarı yıllık döneminiz:  |  Kullanım döneminiz şu şekildedir:  |  Talep döneminiz şu şekildedir:  |
 | :-----------: | :-----------: | :-----------: | :-----------: |
-|**Haziran-Aralık 2020**| FY21 H1  |  Oca-Haziran 2021  |  Şub 16 Ağu 15 2021  |
-|**Oca-Haziran 2021** |  FY21 H2  |  Haziran-Aralık 2021  |  Ağu 16 2021-Şub 15 2022  |
-|**Haziran-Aralık 2021**|  FY22 H1  |  Oca-Haziran 2022  |  Şub 16 Ağu 15 2022  |
-|**Oca-Haziran 2022** |  FY22 H2  |  Haziran-Aralık 2022  |  Ağu 16 2022-Şub 15 2023  |
+|**Temmuz - Ara 2020**| FY21 H1  |  Ocak - Haziran 2021  |  16 Şubat - 15 Ağustos 2021  |
+|**Ocak - Haziran 2021** |  FY21 H2  |  Temmuz - Ara 2021  |  16 Ağu 2021 - 15 Şubat 2022  |
+|**Temmuz - Ara 2021**|  FY22 H1  |  Ocak - Haziran 2022  |  16 Şubat - 15 Ağustos 2022  |
+|**Ocak - Haziran 2022** |  FY22 H2  |  Temmuz - Ara 2022  |  16 Ağu 2022 - 15 Şubat 2023  |
 
 >[!NOTE]
->Microsoft, orijinal yürütme (PoE) belgeleri sağlamasını isteme hakkını saklı tutar. Etkinlik tarihinden sonra tüm orijinal belgelerinizi 24 ay boyunca saklamanız gerekir.
+>Microsoft, özgün yürütme kanıtı (PoE) belgeleri talep hakkına sahiptir. Tüm özgün belgelerinizi etkinlik tarihinden sonra 24 ay boyunca tutabilirsiniz.
 
-Aşağıdaki kaynaklar, birlikte çalışma taleplerini kullanmaya başlamanıza yardımcı olur.
+Aşağıdaki kaynaklar ortak çalışma talepleri ile çalışmaya başlamanıza yardımcı olur.
 
 | Bunu yapmak için | Bunu okuyun |
 | ------ | ----------- |
-| Talep Gönder |  [Teşvikleri program ortak işlem talebi oluşturma ve yönetme](create-incentives-claims.md)  |
-| Gönderilen talebi yönetme | [Teşvikleri program ortak işlem talebi oluşturma ve yönetme](create-incentives-claims.md)    |
-| Etkinlik talebi için temel gereksinimleri anlama | [Gereksinimler programınızdaki etkinliklerin temel gereksinimleri](core-requirements.md)   |
-| Teşvikleri programınızın ayrıntılarını gözden geçirin | [Partner teşvikleri Co-op kılavuz kitabı](https://assetsprod.microsoft.com/co-op-guidebook.pdf)  |
+| Talep gönderme |  [Teşvik programı ortak çalışma talebi oluşturma ve yönetme](create-incentives-claims.md)  |
+| Gönderilen talebi yönetme | [Teşvik programı ortak çalışma talebi oluşturma ve yönetme](create-incentives-claims.md)    |
+| Etkinlik talebi için temel gereksinimleri anlama | [Teşvik programınız kapsamındaki etkinlikler için temel gereksinimler](core-requirements.md)   |
+| Teşvik programı ayrıntılarınızı gözden geçirme | [Partner teşvikleri Co-op kılavuz kitabı](https://assetsprod.microsoft.com/co-op-guidebook.pdf)  |
 | Müşteri ilişkisi oluşturma ve talep gönderme | [CPOR modelini kullanarak bir müşteri ilişkilendirmesi oluşturma](submit-osa-claim.md)   |
 
 ## <a name="next-steps"></a>Sonraki adımlar

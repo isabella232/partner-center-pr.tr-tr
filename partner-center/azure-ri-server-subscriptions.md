@@ -9,23 +9,17 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1d5386dd4b2b19e641cc9d731d4a3d0f44ab5ad6
-ms.sourcegitcommit: 531151a5dbc999b8b7de478d72ea115e6d579ff1
+ms.openlocfilehash: 79175fc7e67fdcdc3195b33859f3609c4caf942f
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/13/2021
-ms.locfileid: "98182503"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110149426"
 ---
 # <a name="acquire-provision--manage-azure-reserved-vm-instances-ri--server-subscriptions-for-customers"></a>Azure ayrılmış VM örnekleri (RI) ve müşteriler için sunucu abonelikleri alma, sağlama, & yönetme
 
 
-**Uygun roller**
-
-- Yönetim Aracısı
-- Genel yönetici
-- Yardım Masası Aracısı
-- Satış Aracısı
-- Kullanıcı Yönetimi Yöneticisi
+**Uygun roller**: yönetici Aracısı | Genel yönetici | Yardım Masası Aracısı | Satış Aracısı | Kullanıcı Yönetimi Yöneticisi
 
 
 ## <a name="what-are-azure-reservations"></a>Azure Ayırmaları nedir?
@@ -39,17 +33,17 @@ Müşteriler, uzun süreler boyunca çalışan sanal makinelere, Azure Cosmos DB
 ### <a name="compelling-new-azure-offer-in-csp"></a>CSP 'de etkileyici yeni Azure teklifi
 
 Microsoft, Azure ayırmaları ve sunucu aboneliklerini CSP programına getirerek, iş ortaklarının yüksek düzeyde öngörülebilir ve kalıcı bulut iş yüklerini desteklemeye yönelik daha uygun maliyetli çözümler için hızlı büyümekte olan müşteri taleplerini ele aldığının daha iyi hale getirilmesi daha iyidir. CSP programı, iş ortaklarının Microsoft Iş ortağı merkezi ve Azure portal aracılığıyla ticari müşteriler adına Azure ayırmaları ve sunucu abonelikleri almasına, sağlamasını ve yönetmesine olanak sağlar.
-Azure rezervasyonların nasıl satın alınabileceğine ilişkin CSP programımızda iş ortakları da sunuyoruz. CSP iş ortakları, [müşteri adına Azure ayırmaları satın](azure-reservations-buying.md) alabilir veya müşterinin iş ortağının satın aldığı önceki bir Azure aboneliğinden [kendi ayırmalarını satın](give-customers-permission.md) almasını sağlayabilir.
+Azure rezervasyonların nasıl satın alınabileceğine ilişkin CSP programımızda iş ortakları da sunuyoruz. CSP iş ortakları bir müşteri adına [Azure](azure-reservations-buying.md) rezervasyonları satın alabilir veya müşterinin, iş ortağının kendileri için satın aldıklarından önceki bir Azure aboneliğinden kendi rezervasyonlarını satın almalarına olanak sağlar. [](give-customers-permission.md)
 
-Azure ayırmaları, müşterilere geliştirme ve test, uygulama çalıştırma ve veri merkezini genişletme gibi çok çeşitli bilgi işlem çözümleri için sanallaştırma esnekliği sunar.
+Azure Rezervasyonları müşterilere geliştirme ve test etme, uygulamaları çalıştırma ve veri merkezini genişletme gibi çok çeşitli bilgi işlem çözümleri için sanallaştırma esnekliği sağlar.
 
-[Azure ayrılmış sanal makine örnekleri](https://azure.microsoft.com/pricing/reserved-vm-instances/) ile, ticari müşteriler artık %72 ' e kadar ve Kullandıkça Öde Azure VM fiyatlandırmasına yalnızca 1 veya 3 yıllık bir dönem için sanal makine satın alabilir. Yazılım Güvencesi kapsamındaki Azure Hibrit Avantajı olan Windows Server müşterileri, Kullandıkça Öde fiyatlandırmasına ve %80 ' e kadar tasarruf sağlayabilecektir.
+Örneğin [Azure Ayrılmış VM Örnekleri](https://azure.microsoft.com/pricing/reserved-vm-instances/) müşteriler artık yalnızca 1 veya 3 yıllık bir süre için sanal makineyi satın alarak veya "satın alarak" azure VM fiyatlandırması yerine %72'ye varan tasarruflar kullanabilir. Yazılım Güvencesi'a Azure Hibrit Avantajı sahip Windows Server müşterileri, %80'e varan tasarruflar ve öde fiyatlandırması ile karşı karşıyadır.
 
-İlgi çekici fiyatlandırma ve eşleşmeyen dağıtım esnekliğinden oluşan eşleşmeyen bir birleşimiyle, müşteriler Azure ayırmaları seçerken en iyi genel değeri görür.
+Cazip fiyatlandırma ve eşleşmeyen dağıtım esnekliğinin eşleşmeyen bir birleşimiyle, müşteriler Azure Rezervasyonları'ı seçtikleri zaman en iyi genel değeri elde eder.
 
-- Bkz. Azure portalında [satın alma ayırmaları](/azure/cost-management-billing/reservations/prepare-buy-reservation#purchase-reservations) .
+- [Bkz.](/azure/cost-management-billing/reservations/prepare-buy-reservation#purchase-reservations) Azure Portal'da Rezervasyon satın alma.
 
-- Yazılım abonelikleri ve Linux ISV yıllık abonelikleri için Iş Ortağı Merkezi 'nde [fiyatlandırma ve teklifler](https://partner.microsoft.com/dashboard/sell/pricingandoffers) sayfasındaki **Microsoft Azure ayrılmış örnekler** KATEGORISI altındaki **Azure RI CSP ticari fiyat listesine** bakın.
+- Yazılım abonelikleri ve Linux ISV **yıllık abonelikleri** için Microsoft Azure [](https://partner.microsoft.com/dashboard/sell/pricingandoffers) Fiyatlandırma ve Teklifler sayfasındaki Ayrılmış Örnekler İş Ortağı Merkezi kategorisindeki Azure **RI CSP** Ticari Fiyat Listesi'ne bakın.
 
 
  
@@ -63,24 +57,24 @@ Azure ayırmaları, müşterilere geliştirme ve test, uygulama çalıştırma v
 
 - CloudSimple tarafından sunulan Azure VMware Çözümü
 
-## <a name="getting-started"></a>Başlarken
+## <a name="getting-started"></a>Kullanmaya başlama
 
-Azure ayırmalarını müşterilerinizle nasıl konumlandırabileceğinizi anlamak için, mümkün olduğunca hızlı bir şekilde çalışmaya başlayın ve en kısa sürede çalışır duruma getirmek için, hazırlık malzemelerini gözden geçirmek için aşağıdaki yaklaşımı öneririz:
+Azure Rezervasyonlarını müşterilerinizle nasıl konumlandırmanız ve mümkün olan en kısa sürede çalışır duruma getirin ve çalışır duruma getirin, hazırlık malzemelerini gözden geçirmek için aşağıdaki yaklaşımı öneririz:
 
-1. [Iş Ortağı Merkezi yeni ticaret işlemleri kılavuzunu](https://partner.microsoft.com/resources/detail/partner-center-new-commerce-operations-guide-pdf)gözden geçirin ve anlayın.
+1. Yeni ticaret operasyonları kılavuzunu [İş Ortağı Merkezi ve anlıyoruz.](https://partner.microsoft.com/resources/detail/partner-center-new-commerce-operations-guide-pdf)
 
-2. [Iş Ortağı Merkezi API 'sindeki (API/SDK)](/partner-center/develop/purchase-azure-reserved-vm-instances)Azure ayırmaları ve sunucu abonelikleri güncelleştirmelerini anlayın.
+2. [İş Ortağı Merkezi API'sinde (API/SDK)](/partner-center/develop/purchase-azure-reserved-vm-instances)Azure Rezervasyonları ve Sunucu Abonelikleri güncelleştirmelerini anlama.
 
 
-### <a name="sales-readiness"></a>Satış hazırlığı
+### <a name="sales-readiness"></a>Satış için hazır olma
 
-- [Uzak Masaüstü Hizmetleri (RDS) Istemci erişim lisansı (CAL) (duyuru)](https://cloudblogs.microsoft.com/windowsserver/2018/10/03/remote-desktop-services-2019-generally-available-with-windows-server-2019/)
+- [Uzak Masaüstü Hizmetleri (RDS) İstemci Erişim Lisansı (CAL) (duyuru)](https://cloudblogs.microsoft.com/windowsserver/2018/10/03/remote-desktop-services-2019-generally-available-with-windows-server-2019/)
 
-- [Azure ayrılmış VM örnekleri (Azure portal)](/azure/virtual-machines/windows/prepay-reserved-vm-instances)
+- [Azure Ayrılmış VM Örnekleri (Azure portal)](/azure/virtual-machines/windows/prepay-reserved-vm-instances)
 
-- [Sunucu abonelikleri](./csp-software-subscriptions.md)
+- [Sunucu Abonelikleri](./csp-software-subscriptions.md)
 
-- [SQL DB ayırmaları (Azure portal)](/azure/sql-database/sql-database-reserved-capacity)
+- [SQL DB Ayırmaları (Azure portal)](/azure/sql-database/sql-database-reserved-capacity)
 
 - [Azure Cosmos DB (Azure portal)](/azure/cosmos-db/cosmos-db-reserved-capacity)
 
@@ -96,7 +90,7 @@ Azure ayırmalarını müşterilerinizle nasıl konumlandırabileceğinizi anlam
 
 - [Azure fiyatlandırmasına genel bakış](https://azure.microsoft.com/pricing/)
 
-- [Azure Fiyatlandırma Hesaplayıcı](https://azure.microsoft.com/pricing/calculator)
+- [Azure Fiyatlandırma Hesaplayıcısı](https://azure.microsoft.com/pricing/calculator)
 
 - [Azure Databricks birim ayırmaları](/azure/billing/billing-prepay-databricks-reserved-capacity)
 
@@ -114,7 +108,7 @@ Azure ayırmalarını müşterilerinizle nasıl konumlandırabileceğinizi anlam
 
 - CSP 'de Azure ayırmaları genel bakış (Mayıs 2018)
 
-## <a name="operations"></a>İşlemler
+## <a name="operations"></a>Operations
 
 [Iş Ortağı Merkezi yeni ticari işlemler Kılavuzu](https://partner.microsoft.com/resources/detail/partner-center-new-commerce-operations-guide-pdf): anlaşma, Iş Ortağı Merkezi, fatura, Fiyat Listesi ayrıntıları, teşvikleri, mutabakat dosyası, API/SDK, korumalı alan ve Azure Iş ortağı paylaşılan hizmetleri gibi önemli ilke ve operasyonel yönleri kapsayan kapsamlı kılavuz.
 

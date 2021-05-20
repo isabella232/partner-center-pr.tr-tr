@@ -9,21 +9,19 @@ author: vikrambmsft
 ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: 1f8d9f04920a4f2a0fab40523c217835d9b0e4ef
-ms.sourcegitcommit: 9cb7dc98faae06c255dbc025f8e452d75380c16a
+ms.openlocfilehash: 6ddb9544e0c6f6a29540fe30d03d307318ddfdf8
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 02/04/2021
-ms.locfileid: "99530842"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150225"
 ---
 # <a name="analyze-your-leads---see-how-well-you-attract-target-customers-and-potential-referrals"></a>Müşteri adaylarınızı analiz edin: Hedef müşterileri ve potansiyel referansları ne kadar iyi çektiğinizi görün
 <!-- 
 https://go.microsoft.com/fwlink/?linkid=849120
 -->
 
-**Uygun roller**
-
-- Başvuru Yöneticisi
+**Uygun roller**: başvuru Yöneticisi
 
 Başvurularda **analiz** bölümünün altındaki **müşteri adayları** sayfası, başvurularınızın nasıl çalıştığını görmenizi sağlar. Dikkat edilmesi gereken eğilimleri veya alanı belirlemek için bu ölçümleri düzenli olarak gözden geçirin ve iş hedeflerinize doğru bir şekilde sürüyi başlatın.
 
@@ -41,21 +39,21 @@ Bu sayfadaki tüm verileri müşteri adı, ülke, anlaşma türü, anlaşma yön
 - **Durum**: **Tümü** varsayılandır, ancak verileri kabul edilen, reddedilen, süresi biten, kaybolan ve kazanıldı gibi bir veya daha fazla başvuru durum türü içeren başvurularda sınırlamayı seçebilirsiniz.
 - **Nitelik türü**: **Tümü** varsayılandır, ancak verileri Market müşteri adayları veya nitelikli müşteri adayları olan başvurulardan sınırlandırmaya de seçebilirsiniz.
 
-Aşağıda belirtilen grafiklerin tümünde bulunan bilgiler, aşağıda belirtilenler dışında, tarih aralığını ve seçtiğiniz filtreleri yansıtır. Bazı bölümler, belirli bir çözüme filtreleme gibi ek filtreler uygulamanıza da imkan tanır.
+Aşağıda listelenen tüm grafiklerde yer alan bilgiler, aşağıda belirtilenler dışında seçtiğiniz tarih aralığını ve filtreleri gösterir. Bazı bölümler, belirli bir çözüme filtreleme gibi ek filtreler uygulamana da olanak sağlar.
 
-## <a name="referrals-summary"></a>Başvurular Özeti
+## <a name="referrals-summary"></a>Referans özeti
 
-Bu kartta, müşteri adaylarınızın nasıl çalıştığı hakkında genel bakış gösterilmektedir.
+Bu kart, müşteri adaylarının performansına genel bir bakış sağlar.
 
-Grafik, sayfa ziyaretlerinin toplam sayısını, eylem çağrısı sayısını (Iletişim ortağı) tıklamalarını, müşteriler eyleme tıklandıktan sonra oluşturulan müşteri adaylarının sayısını ve seçilen zaman dilimi için kazanılan toplam müşteri adaylarını gösterir.
+Grafikte toplam sayfa ziyaret sayısı, eylem çağrısı düğmesinin (kişi iş ortağı) tıklama sayısı, müşterilerin eylem çağrısına tıklanmalarının ardından oluşturulan müşteri adaylarının sayısı ve seçilen zaman dönemi için kazanmış olan toplam müşteri adayı sayısı yer almaktadır.
 
-Yüzde değişiklik ölçümleri (kırmızı veya yeşil renkle gösterilir, ok göstergesi ile), **Seçilen tarih aralığındaki son tam ay** ve **Bu aralıktaki ilk tam ay** arasındaki farkı gösterir. Örneğin, geçerli tarih 15 Haziran ve son üç aya ait verileri göstermek için **3D** filtresini seçtiğinizi varsayalım. Bu durumda, bu ölçümler, Mayıs (seçili zaman aralığındaki son tam ay) ve Mart (seçili dönemdeki ilk tam ay) arasındaki farkı gösterir. Seçili tarih aralığı son **3H** ise, karşılaştırma için veriler ve Mart verileri arasında olur.
+Yüzde değişikliği ölçümleri (kırmızı veya yeşil, ok göstergesiyle gösterilir)  seçilen tarih aralığındaki son tam ay ile bu aralıkta ilk tam **ay arasındaki farkı gösterir.** Örneğin, geçerli tarihin 15 Haziran olduğunu ve son üç aya göre verileri göstermek için **3M** filtresini seçtiğinizi diyelim. Bu durumda, bu ölçümler Mayıs (seçilen zaman aralığındaki son tam ay) ile Mart (seçilen zaman aralığındaki ilk tam ay) tarih aralığı son **3 milyon** arasındaki farkı gösterir; karşılaştırma Mayıs verileriyle Mart verileri arasında olur.
 
-:::image type="content" source="images/referrals/leadsanalyticssummary.png" alt-text="Müşteri adayları analizinin Özet kartını gösteren resim.":::
+:::image type="content" source="images/referrals/leadsanalyticssummary.png" alt-text="Müşteri adayı analizinin özet kartını gösteren resim.":::
 
-## <a name="conversion-funnel"></a>Dönüştürme huni
+## <a name="conversion-funnel"></a>Dönüşüm hunisi
 
-Bu bölümde, anlaşmaların yaşam döngüsü boyunca bir durumdan diğerine nasıl geçilerek ilgili görsel bir gösterge gösterilmektedir. Tüm yaşam döngüsünü, bu bölümün ana özetine bağlı olarak, işlem hacmine ve ABD Doları cinsinden anlaşma değerine göre görüntüleyebilirsiniz. İlk bölüm, türe göre birim veya değer için görsel bir gösterge sağlayacak olan anlaşma türüyle etiketlidir. Ayrıca bir bölüm de vardır. Bu, **geçmişteki bir müşteri adayı**, bunları kabul ediyor/reddediliyor veya rapor için seçili olan süre içinde kazanıldı/kaybedildi olarak işaretleme eylemi gerçekleştirmiş olan anlaşmaları göstermek için kullanılır. Tüm yaşam döngülerinde çeşitli aşamalardaki anlaşmalar ilerlemesini görüntülemek için filtreler uygulayabilirsiniz.
+Bu bölümde, anlaşmalarının yaşam döngüsü boyunca bir durumdan diğerine nasıl taşınacaklarına gösteren görsel bir gösterge yer almaktadır. Bu bölümün ana özete göre satış hacmine ve ABD doları değerindeki satış anlaşması değerine göre yaşam döngüsünün tamamını görüntüebilirsiniz. İlk bölüm, birimin veya değerin türüne göre görsel bir göstergesini vermek için satış anlaşması türüyle etiketlenmiş. Ayrıca geçmişten gelen müşteri adayları bölümü de vardır. Bu bölüm, bunları kabul etme/gerileme veya rapor için seçilen zaman dönemi içinde kazanildi/kaybedildi olarak işaretleme eylemini hangi anlaşmalar için yaptıklarını belirtmek için kullanılır. Anlaşmaların yaşam döngülerinin çeşitli aşamalarındaki ilerlemesini görüntülemek için filtreler uygulayabilirsiniz.
 
 :::image type="content" source="images/referrals/leadsanalyticsfunnel.png" alt-text="Başvurular için dönüştürme huni gösteren resim.":::
 
@@ -84,27 +82,27 @@ Karşılaştırma bölümü, her ikisi de birim üzerinde birden fazla boyuta ve
 Verileri karşılaştırmak için seçebileceğiniz üç boyut
 
 - Nitelik türü
-- Pazar
-- Başvuru programı
+- Piyasa
+- Referans programı
 
-Nitelik türü seçildiğinde, Market liderlerine ve nitelikli müşteri adaylarına göre başvuru performansını karşılaştırma seçeneğiniz vardır. Hem pazarlar hem de başvuru programı için performansını karşılaştırmak üzere üç farklı seçenek belirleyebilirsiniz. Bir çubuk grafik olan ilk grafikte, hacim veya anlaşmalar değeri kazanılan ana özete göre ayda ay eğilimi ile sunulan veriler bulunur. Ayrıca, çubuk grafiğin sağında aynı veriler için dağılımı yüzde olarak gösteren bir pasta grafiği de vardır.
+Nitelik türü seçildiğinde, referans performansını market müşteri adayları ve nitelikli müşteri adayları ile karşılaştırma seçeneğiniz vardır. Hem pazarlar hem de referans programı için performanslarını karşılaştırmak için üç farklı seçenek seçebilirsiniz. Çubuk grafik olan ilk grafikte, ana özete göre aylık eğilimle birlikte sunulan veriler (birim veya kazanılacak anlaşma değeri) yer aya göre gösterilir. Çubuk grafiğin sağında, aynı verilerin yüzdeye göre dağılımını gösteren bir pasta grafiği de vardır.
 
 :::image type="content" source="images/referrals/leadsanalyticscompare.png" alt-text="Karşılaştırma bölümünü gösteren resim.":::
 
 ## <a name="raw-data-table"></a>Ham veri tablosu
 
-Müşteri adaylarıyla ilgili tüm ham verilerin bulunduğu aşağıdaki tablo, gerçekleştirmek istediğiniz ayrıntılı veya özel analizler için verileri hızlı bir şekilde **dışa aktarmaya** yardımcı olacaktır.
+Aşağıdaki tabloda müşteri adayları ile ilgili tüm ham  veriler, gerçekleştirmek istediğiniz ayrıntılı veya özel analizler için verileri hızla dışarı aktarmanıza yardımcı olacaktır.
 
-:::image type="content" source="images/referrals/leadsanalyticsrawdata.png" alt-text="Müşteri adayları için ham veri tablosunu gösteren resim.":::
+:::image type="content" source="images/referrals/leadsanalyticsrawdata.png" alt-text="Müşteri adayları için ham veri tablosu gösteren resim.":::
 
 ## <a name="no-data"></a>Veri yok
 
-Aşağıda açıklandığı gibi müşteri adayları analizine erişirken aşağıdaki gibi boş bir grafik almanızı sağlayabilirsiniz.
+Aşağıda açıklandığı gibi müşteri adayı analizine erişirken aşağıdaki gibi boş bir grafik elde ediyorsanız bunun birden çok nedeni olabilir.
 
-- Bu hesap için veri yok. Bu raporun doldurulduğu anlaşmalar oluşturmayı deneyin.
-- Bazı ağ bağlantısı sorunu var. İnternet bağlantınızı denetleyip yeniden deneyin.
-- Uyguladığınız filtrelerle eşleşen bir kayıt yok. Filtreleri sıfırlamayı deneyin.
-- Müşteri adayı durumu değişikliği ve analiz raporunda aynı şekilde güncelleştirileceği bir gecikme vardır. 24 saat sonra raporu kontrol edin.
+- Bu hesap için veri yok. Bu raporun doldurulması için anlaşma oluşturmayı deneyin.
+- Bazı ağ bağlantısı sorunları var. İnternet bağlantınızı kontrol edin ve yeniden deneyin.
+- Uygulanan filtrelerle eşleşen kayıt yoktur. Filtreleri sıfırlamayı deneyin.
+- Müşteri adayı durumu değişikliği ile aynı değişikliğin analiz raporunda güncelleştirilmesinde bir gecikme vardır. 24 saat sonra raporu kontrol edin.
 
 :::image type="content" source="images/referrals/nodata.png" alt-text="Müşteri adayları için veri görselleştirmesi olmadığını gösteren resim.":::
 

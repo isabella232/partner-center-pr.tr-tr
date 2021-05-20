@@ -8,18 +8,16 @@ ms.subservice: partnercenter-mpn
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
-ms.openlocfilehash: adce1c8740489731c12e705c71962aba004b5bd3
-ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
+ms.openlocfilehash: 578a5bdb6dffa985e9ce78eea5309b2564071313
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "97354471"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148491"
 ---
 # <a name="competencies---frequently-asked-questions"></a>Uzmanlıklar-sık sorulan sorular
 
-**Uygun roller**
-
-- MPN iş ortağı Yöneticisi
+**Uygun roller**: MPN iş ortağı Yöneticisi
 
 Bu makalede, Microsoft İş Ortağı Ağı uzmanlığa erişme ile ilgili sınavlar, sertifikalar ve yazılım avantajları hakkında genel sorular yanıtlanmaktadır.
 
@@ -46,30 +44,30 @@ Bunu, Iş Ortağı Merkezi 'nden şu şekilde gerçekleştirebilir:
 
 1. Uzmanlıklar sayfasının en üstüne doğru, **özellikleri indir rapor** seçeneğini bulun ve seçin.
 
-Kuruluşunuzun becerilerine ilişkin diğer raporların de Iş Ortağı Merkezi 'ndeki [Iş Ortağı Merkezi öngörüleri](partner-center-insights.md) alanından de erişilebilir olması gerekir. Bu raporları görüntülemek için, **rapor Görüntüleyicisi** veya **Executive rapor Görüntüleyicisi**'nin Öngörüler 'e özgü bir rolü atanması gerekebilir. Bu rollerden birine erişim sağlamak için MPN iş ortağı yöneticinize başvurmanız gerekebilir.
+Ayrıca, kuruluş becerileriyle ilgili diğer raporlar da İş Ortağı Merkezi [Insights İş Ortağı Merkezi.](partner-center-insights.md) Bu raporları görüntülemek için Rapor Görüntüleyicisi'nin veya Yönetici Rapor Görüntüleyicisi'nin Insights'a **özgü** **bir rolüne sahip olması gerekir.** MPN iş ortağı yöneticinizden bu rollerden biri için size erişim izni vermelerini istemeniz gerekir.
 
-Öngörüler raporlarını aşağıdaki gibi görüntüleyin:
+Insights raporlarını aşağıdaki gibi görüntüebilirsiniz:
 
-1. Iş Ortağı Merkezi [panosunda](https://partner.microsoft.com/dashboard)oturum açın.
+1. İş Ortağı Merkezi [oturum açın.](https://partner.microsoft.com/dashboard)
 
-1. Iş Ortağı Merkezi menüsünden **Öngörüler** ' i ve ardından **kuruluş becerileri**' nı seçin. Daha küçük bir menü görünür.
+1. İlke **menüsünden** Öngörüler'İş Ortağı Merkezi ve ardından Kuruluş **becerileri'ne tıklayın.** Daha küçük bir menü görüntülenir.
 
-1. Menüden **eğitim** veya **Microsoft Learn** seçeneklerinden birini belirleyin.
+1. Menüden **Eğitim** **veya Microsoft Learn'yi** seçin.
 
-   - Kuruluşunuzun sertifikaları, değerlendirmeleri ve sınavlarının belirli bir zaman diliminde bir özetini görmek için **eğitim** ' i seçin. Bu rapor hakkında daha fazla bilgi için bkz. [eğitim](pci-training-dashboard.md).
+   - Belirli **bir** zaman çerçevesi içinde, kuruluş sertifikalarının, değerlendirmelerinin ve sınavlarının özetini görmek için Eğitim'i seçin. Bu rapor hakkında daha fazla bilgi için bkz. [Eğitim.](pci-training-dashboard.md)
 
-   - Kuruluşunuzun tamamlanmış modüllerinizin özetini ve belirli bir zaman diliminde öğrenme yollarını görmek için **Microsoft Learn** seçin. Bu rapor hakkında daha fazla bilgi için bkz. [Microsoft Learn Analytics Report](ms-learn-analytics.md).
+   - Belirli **Microsoft Learn** modüllerinin ve Öğrenme yollarının özetini görmek için Microsoft Learn'yi seçin. Bu rapor hakkında daha fazla bilgi için [bkz. Microsoft Learn raporu.](ms-learn-analytics.md)
 
-## <a name="q-how-long-does-it-take-to-see-the-latest-user-assessments-in-the-partner-center-user-skills-report"></a>S. Iş Ortağı Merkezi kullanıcı becerileri raporundaki en son kullanıcı değerlendirmelerini görmek ne kadar sürer?
+## <a name="q-how-long-does-it-take-to-see-the-latest-user-assessments-in-the-partner-center-user-skills-report"></a>S. Kullanıcı Becerileri Raporu'İş Ortağı Merkezi en son kullanıcı değerlendirmelerini görmek ne kadar zaman alır?
 
-Iş ortağı Üniversitesi hesabı, Iş Ortağı Merkezi kullanıcı hesabıyla ilişkilendirilir. Kullanıcı değerlendirmeleri, Iş Ortağı Merkezi kullanıcı becerileri raporunda **72 saat** içinde görüntülenir.
+Partner University hesabı, kullanıcı hesabıyla İş Ortağı Merkezi ilişkilendirilecek. Kullanıcının değerlendirmeleri, 72 saat İş Ortağı Merkezi Kullanıcı Becerileri **Raporu'nun içinde görünür.**
 
-Bu raporda yalnızca Uzmanlıklar ve Iş ortağı merkezindeki programlarla ilgili yetenekler görüntülenir. (Kullanımdan kaldırılan bazı yetenekler, devre dışı bırakıldıktan sonra 12 ay veya daha fazlası için de görünebilir).
+Bu raporda yalnızca İş Ortağı Merkezi ve programlarla ilgili beceriler görüntülenir. (Bazı eski beceriler, 12 ay veya daha uzun bir süre boyunca da görünebilir.
 
-Belirli uzmanlıklar için gereksinimleri denetlediğinizden emin olun. Denetlemek için, Iş Ortağı Merkezi [panosunda](https://partner.microsoft.com/dashboard) veya [Microsoft iş ortağı ağı Uzmanlıklar sayfasında](https://partner.microsoft.com/membership/competencies), **Uzmanlıklar** menü seçeneğini kullanın.
+Belirli yetkinliklerin gereksinimlerini kontrol edin. Kontrol etmek için, **İş Ortağı Merkezi** panosunda veya Microsoft İş Ortağı Ağı [](https://partner.microsoft.com/dashboard) [seçeneğini kullanın.](https://partner.microsoft.com/membership/competencies)
 
 > [!NOTE]
-> Bir sınav, değerlendirme veya sertifika belirli bir uzmanlığa göre özellikle bir gereksinim olarak belirtilmedikçe, bu uzmanlığa yaklaşmayı göz önünde bulundurulmaz.
+> Bir sınav, değerlendirme veya sertifikasyon özellikle belirli bir yetkinliğe sahip bir gereksinim olarak bahsediliyorsa, bu yetkinliğe uygun olarak dikkate alınmaz.
 
 ## <a name="q-what-are-the-software-benefits-such-as-license-use-rights-that-i-am-entitled-to-when-i-achieve-a-gold-or-silver-competency-or-buy-a-microsoft-action-pack-subscription-maps"></a>S. Altın veya gümüş bir uzmanlığa ulaştığım veya bir Microsoft Eylem Paketi aboneliği (HARITALAR) satın alırken hak kazandığım yazılım avantajları (örneğin, lisans kullanım hakları) nelerdir?
 

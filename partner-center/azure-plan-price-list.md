@@ -9,23 +9,16 @@ author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f11031c6071dadb427d2d5b93edd90af1a844131
-ms.sourcegitcommit: fc1f9cb5a542bdc92d62d2a7e1ab2f4e69903e49
+ms.openlocfilehash: 6d8e73e664d400e8e6d80e529326e566c5fd88a8
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 01/28/2021
-ms.locfileid: "98924977"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110149579"
 ---
 # <a name="price-list-for-the-new-commerce-experience-in-csp-for-azure"></a>Azure için CSP'de yeni ticari deneyim için fiyat listesi
 
-**Uygun roller**
-
-- Yönetim Aracısı
-- Faturalama yöneticisi
-- Genel yönetici
-- Yardım Masası Aracısı
-- Satış Aracısı
-- Kullanıcı Yönetimi Yöneticisi
+**Uygun roller**: yönetici Aracısı | Faturalandırma Yöneticisi | Genel yönetici | Yardım Masası Aracısı | Satış Aracısı | Kullanıcı Yönetimi Yöneticisi
 
 CSP 'de yeni Azure Ticaret deneyiminin fiyat listesi Iş Ortağı Merkezi ' nde gönderilir. Fiyat listesi, gerçek zamanlı doğru bir dosyada dinamik olarak dağıtılır ve fiyatlar yalnızca USD olarak gösterilir. 25 Ocak 2021 tarihinden itibaren, AB/EFTA ve Birleşik Krallık bölgesindeki iş ortakları, yeni müşteriler ve mevcut CSP müşterileri, kiracıların 11 Mayıs 2020 ' den önce oluşturulduğu ilk kez yeni ticaret teklifleri satın alarak, iş ortağı konumu para birimi için bu Satınalmalar için faturalandırılır.  AB/EFTA ve UK bölgesinin dışında bulunan iş ortakları, iş ortağı konumu para biriminde faturalandırılmaya devam edecektir, [Azure planı-faturalandırma](azure-plan-billing.md)' i okuyun.
 
@@ -55,23 +48,23 @@ CSP 'de yeni Azure Ticaret deneyiminin fiyat listesi Iş Ortağı Merkezi ' nde 
 
 - Dışarı aktarma seçenekleri şunlardır:
 
-  - **Bugünün fiyatlandırması**: Bu, ayın 1 ' inden geçerli ayın geçerli tarihine kadar olan tüm ölçümleri ve fiyatları içerir. Buna yeni fiyatlar, değiştirilen fiyatlar veya kaldırılan fiyatlar dahildir. Tüm fiyatların yeni mi yoksa kaldırılmış mı olduğunu açıklamak için geçerli başlangıç ve bitiş tarihleri olacaktır.
+  - **Bugünün fiyatlandırması**: Bu, ayın 1 ' inden geçerli ayın geçerli tarihine kadar olan tüm ölçümleri ve fiyatları içerir. Buna yeni fiyatlar, değiştirilen fiyatlar veya kaldırılan fiyatlar dahildir. Tüm fiyatlar, yeni veya kaldırılmış olup olmadığını açıklamak için geçerli başlangıç ve bitiş tarihlerine sahip olur.
 
-  - **Önceki ayın fiyatlandırması**: her kaynak türünün İndirmeleri aya göre olacaktır. Fiyatlandırma dosyaları için, bu ay içinde kullanılabilir olan tüm ölçümleri dahil eder. Ayın ortasında yeni bir ölçüm göründüyse, kullanılabilirliğini yansıtan etkin bir tarih ile ölçüm olarak gösterilecektir. Etkin olmayan fiyatlara benzer ve bu, artık kullanılamadığı zaman geçerli bir bitiş tarihi ile gösteriliyor.
+  - **Önceki ayın fiyatlandırması:** Her kaynak türünün indirmeleri aya göre olacak. Fiyatlandırma dosyaları için bu, o ay boyunca kullanılabilen tüm metreleri içerir. Ayın ortasında yeni bir ölçüm belirse, kullanılabilirliğini yansıtan geçerli bir tarihe sahip bir ölçüm olarak gösterirum. Durdurulan fiyatlara benzer şekilde, artık ne zaman kullanılabilir olduklarını açıklayan geçerli bir bitiş tarihiyle gösteriliyor.
 
-  - **FX ücretleri**: FX oranları, ayın 1 ' inden önceki günü, 18:00 PST 'yi indirmek için kullanılabilir olacak. Örneğin, Kasım ücretleri istiyorsanız 31 Ekim 'e kadar olan ücretleri indirin. Önceki ay FX ücretleri de kullanıma sunulacaktır.
+  - **FX Oranları:** FX fiyatları, ayın 13:00 PST'sinde 18:00'den önceki bir gün indirilebilir. Örneğin, Kasım için fiyatları görmek için 31 Ekim'de fiyatları indirin. Önceki ay FX fiyatları da kullanılabilir olacak.
 
-- Fiyat listelerindeki fiyatlar doğrudan fiyatlardır. Bazı iş ortakları, iş ortağı tarafından kazanılan krediler için uygun olabilir. Ortağın kazanılan kredisi nasıl hesaplandığı hakkında daha fazla bilgi için, [ortağın kazanıldığını ve ödendiğini](partner-earned-credit-explanation.md)okuyun.
+- Fiyat listelerinde yer alan fiyatlar doğrudan fiyatlardır. Bazı iş ortakları, iş ortağı tarafından kazanılan krediler için uygun olabilir. İş ortağı tarafından kazanılan kredinin nasıl hesaplanması hakkında bilgi için iş ortağı [tarafından kazanılan kredinin hesaplanması ve ücretli olduğu makaleyi okuyun.](partner-earned-credit-explanation.md)
 
-- **Uygun hizmetler**: iş ortağı kazanılmış kredisi, Azure planı [fiyatlandırma](https://partner.microsoft.com/commerce/sales) sayfasından dışarı aktarma işlemi için **Azure plan tüketim fiyatlandırma** iş ortakları ' nda listelenen hizmetler için geçerlidir. Azure plan tüketim fiyat listesi ve Azure plan ayırmaları 'nin Etiketler sütununda "üçüncü taraf" olarak tanımlanan üçüncü taraf ürünleri dahil, ancak bunlarla sınırlı olmamak üzere bir istisna vardır.
+- **Uygun hizmetler:** İş ortağı tarafından kazanılan **kredi, Azure planı** tüketim fiyatlandırma iş ortaklarının Azure planı fiyatlandırma sayfasından dışarı aktarabilecekleri [hizmetler için](https://partner.microsoft.com/commerce/sales) geçerlidir. Azure planı tüketim fiyatı listesinin Ve Azure Planı rezervasyonlarının Etiketler sütununda "Üçüncü Taraf" olarak tanımlanan üçüncü taraf ürünleri de dahil ancak bunlarla sınırlı olmayan özel durumlar olduğunu unutmayın.
 
 ## <a name="price-list-data"></a>Fiyat listesi verileri
 
 |**Alan**   |**Açıklama**   |
 |--------------------------|:---------------------------|
 |ProductTitle  |Ürünün başlığı veya adı|
-|ProductID   |Ürünün KIMLIĞI|
-|SkuId|SKU KIMLIĞI|
+|ProductID   |Ürünün kimliği|
+|SKuId|SKU kimliği|
 |SkuTitle|SKU 'nun başlığı veya adı|
 |Publisher|Birinci taraf her zaman Microsoft olacaktır|
 |SkuDescription|SKU 'nun açıklaması|
@@ -84,17 +77,17 @@ CSP 'de yeni Azure Ticaret deneyiminin fiyat listesi Iş Ortağı Merkezi ' nde 
 |PricingTierRangeMax|Katmanlı fiyatlandırma için en yüksek fiyat geçerli olur|
 |Efektbaşlangıçtarihi|Fiyatlandırma başlangıç tarihi|
 |EffectiveEndDate|Fiyatlandırma bitiş tarihi|
-|MeterIds|Ürün SKU 'sunun ölçüm KIMLIĞI|
-|MeterType|Ölçüm türü|
-|Etiketler|Bu öğe için özellikler, Azure plan fiyatlandırması için Azure ya da Azure ve rezervasyonlar (özellikle rezervasyonlar için) olacaktır|
+|MeterIds|Ürün sku'su ölçüm kimliği|
+|MeterType|Ölçüm Türü|
+|Etiketler|Öğenin özellikleri, Azure planı fiyatlandırması için bu Azure veya Azure ve Rezervasyonlar 'dır (özel olarak rezervasyonlar için)|
 
-Azure planına yönelik fiyat listeleri, Iş Ortağı Merkezi 'nde [fiyatlandırma ve teklifler sayfasından](https://partner.microsoft.com/dashboard/sell/pricingandoffers) aktarılabilir.
+Azure planı için fiyat listeleri, fiyatlandırma ve teklifler sayfasından dışarı [İş Ortağı Merkezi.](https://partner.microsoft.com/dashboard/sell/pricingandoffers)
 
 ## <a name="tiered-pricing"></a>Katmanlı fiyatlandırma
 
-Bazı Azure plan tüketim Hizmetleri katmanlı fiyatlandırmayı destekler. İş ortakları, Azure plan fiyatı listesinde bu ürünleri ve SKU 'ları bulabilir. Fiyatlandırma Katmanı aralığı sütunlarında değer bulunan öğeler, iş ortaklarının, kullanımı temel alarak fiyatı anlamasına imkan sağlar. Aşağıdaki örnekte, örnek verileri kullanarak üç Fiyatlandırma Katmanı içeren bir Ürün SKU 'su vardır.
+Bazı Azure planı tüketim hizmetleri katmanlı fiyatlandırmayı destekler. İş ortakları bu ürünleri ve SKU'ları Azure planı fiyat listesinde bulabilir. Fiyatlandırma katmanı aralık sütunlarında değerleri olan öğeler, iş ortaklarının kullanımı temel alarak fiyatı anlamalarına olanak sağlar. Aşağıdaki örnekte örnek verileri kullanarak üç fiyatlandırma katmanına sahip bir ürün sku'suz vardır.
 
-|**ProductID**   |**SkuId**   |**UnitPrice**   |**PricingTierRangeMin**   |**PricingTierRangeMax**   |
+|**Productıd**   |**SkuId**   |**UnitPrice**   |**PricingTierRangeMin**   |**PricingTierRangeMax**   |
 |:---------------|:-----------|:---------------|:-------------------------|:-------------------------|
 |DDD123456ABC|01AB|.50|100001|9223372036854780000|
 |DDD123456ABC|01AB|.80|101|100000|

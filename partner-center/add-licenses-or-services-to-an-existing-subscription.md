@@ -1,42 +1,36 @@
 ---
-title: Bir müşteri aboneliğini yükseltme
+title: Müşteri aboneliğini yükseltme
 ms.topic: article
 ms.date: 05/07/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Bir müşterinin aboneliğini nasıl yükselteceğinizi veya değiştireceğinizi öğrenin. Daha fazla lisans ekleyin veya daha fazla hizmet ile farklı bir sürüme taşıyın.
+description: Müşterinin aboneliğini yükseltmeyi veya değiştirmeyi öğrenin. Daha fazla lisans ekleyin veya daha fazla hizmetle farklı bir sürüme geçin.
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7b6c5f1f6d86398ab65e60a498614bfc9f42976e
-ms.sourcegitcommit: 4043c791402f0acebee6ede160a135e87fe92493
+ms.openlocfilehash: 366114cd78e96f95cd1ac649573a0164f6d062a9
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96474232"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150531"
 ---
 # <a name="add-licenses-or-more-services-to-a-customers-subscription"></a>Müşterinin aboneliğine lisans veya daha fazla hizmet ekleme
 
-**Uygun roller**
+**Uygun roller:** Genel yönetici | Kullanıcı yönetimi yönetici | Yönetici aracısı | Satış aracısı | Yardım masası aracısı
 
-- Genel yönetici
-- Kullanıcı Yönetimi Yöneticisi
-- Yönetim Aracısı
-- Satış Aracısı
-- Yardım Masası Aracısı
-
-Müşterinizin geçerli aboneliğinden daha fazla lisansa ihtiyacı varsa veya ek hizmetlere sahip farklı bir sürüm varsa, aboneliği yükseltebilirsiniz. Daha fazla bilgi için bkz. [iş için farklı Microsoft 365 uygulamalar planına geçme](/microsoft-365/commerce/subscriptions/switch-to-a-different-plan).
+Müşterinizin geçerli aboneliğinin sağladığından daha fazla lisansa veya ek hizmetlere sahip farklı bir sürüme ihtiyacı varsa aboneliği yükseltebilirsiniz. Daha fazla bilgi için [bkz. İş için uygulamalar Microsoft 365 farklı bir uygulama planına geçme.](/microsoft-365/commerce/subscriptions/switch-to-a-different-plan)
 
 ## <a name="upgrades-supported-in-the-csp-program"></a>CSP programında desteklenen yükseltmeler <a id="upgradesubscription"></a>
 
-Aşağıdaki yükseltmeler bulut çözümü sağlayıcısı programında desteklenir:
+Aşağıdaki yükseltmeler, Bulut Çözümü Sağlayıcısı desteklemektedir:
 
 | Sunduğu | Olası yükseltmeler|
 |---:|:---|
-| İş için Microsoft 365 uygulamalar   | -Microsoft 365 İş Premium ¹ <br/>  -Enterprise için Microsoft 365 uygulamalar <br/> -Office 365 Kurumsal E3 <br/> -Office 365 Kurumsal E5 <br/> |
-| Microsoft 365 İş standart    | -Office 365 Kurumsal E3 <br/> -Office 365 Kurumsal E5 <br/> |
-| Microsoft 365 İş temel | -Microsoft 365 İş standart ¹ <br/> -Office 365 Enterprise E1 <br/> -Office 365 Kurumsal E3<br/> -Office 365 Kurumsal E5 <br/> |
+| Microsoft 365 apps for business   | - Microsoft 365 business Premium[ <br/>  - Microsoft 365 için Uygulamalar <br/> - Office 365 Kurumsal E3 <br/> - Office 365 Kurumsal E5 <br/> |
+| Microsoft 365 İş Standardı    | - Office 365 Kurumsal E3 <br/> - Office 365 Kurumsal E5 <br/> |
+| Microsoft 365 Business Basic | - Microsoft 365 business standardı <br/> -Office 365 Enterprise E1 <br/> -Office 365 Kurumsal E3<br/> -Office 365 Kurumsal E5 <br/> |
 
 ¹ Microsoft 365 for Business Hindistan ve Microsoft 365 İş Basic Hindistan, Microsoft 365 İş standart değil Microsoft 365 İş standart Hindistan 'a yükseltilebilir.
 
@@ -65,13 +59,13 @@ Faturalandırma üzerindeki etkisi hakkında daha fazla bilgi için bkz. bir abo
 
 3. Yeni teklifi seçip **Gönder**' i seçin.
 
-4. Bazı hizmetler için bazı Kullanıcı hesaplarını geçirmeye yönelik ek iş olabilir. Bu durumda Iş Ortağı Merkezi, etkilenen hesapların ve hizmetlerin bir listesini sağlar. Yardım için, [Office 365 ' deki planları değiştirdiğinizde lisansları yeniden atama](/microsoft-365/commerce/subscriptions/switch-to-a-different-plan)konusunda bilgi Bankası makalesi sorunları bölümüne bakın.
+4. Bazı hizmetler için bazı Kullanıcı hesaplarını geçirmeye yönelik ek iş olabilir. Bu durumda Iş Ortağı Merkezi, etkilenen hesapların ve hizmetlerin bir listesini sağlar. Yardım için Office [365'te](/microsoft-365/commerce/subscriptions/switch-to-a-different-plan)planlar arasında geçiş yaparken lisansları yeniden atama sorunları bilgi bankası makalesine bakın.
 
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-- [İş planına farklı bir Microsoft 365 geçin](/microsoft-365/commerce/subscriptions/switch-to-a-different-plan)
+- [İş planı için farklı Microsoft 365 geçiş](/microsoft-365/commerce/subscriptions/switch-to-a-different-plan)
 
-- [Yönetici temsilcisi ayrıcalıkları iste](request-a-relationship-with-a-customer.md)
+- [Yönetici temsilcisi ayrıcalıkları isteği](request-a-relationship-with-a-customer.md)
 
-- [Genel faturalandırma senaryoları hakkında bilgi edinin](common-billing-scenarios.md)
+- [Yaygın faturalama senaryoları hakkında bilgi](common-billing-scenarios.md)

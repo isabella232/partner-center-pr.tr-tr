@@ -1,6 +1,6 @@
 ---
-title: Azure planına taşımaya başlayın
-description: İlk adımlar, güvenlik önlemleri ve nasıl çalışmaya başladıklarını dahil olmak üzere Azure Kullandıkça Öde planını kullanma hakkında bilgi edinmek için sizin ve müşterilerinizin ne olduğunu öğrenin.
+title: Azure planına taşımaya başlama
+description: İlk adımlar, güvenlik önlemleri ve kullanmaya başlama dahil olmak üzere, sizin ve müşterileriniz için Azure kullandırılan ödeme planını kullanma hakkında neleri öğrenmeniz gerekir?
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,28 +9,25 @@ ms.author: amrava
 ms.custom: SEOAPR.20
 ms.localizationpriority: High
 ms.date: 12/02/2019
-ms.openlocfilehash: fcf75acef4afb80c5aec889911ffc2b4a53b6edd
-ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
+ms.openlocfilehash: 58feabdefb02660559c69f61190070310768b947
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "96534922"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110149664"
 ---
-# <a name="begin-using-pay-as-you-go-rates-with-the-azure-plan"></a>Azure planıyla Kullandıkça Öde tarifesine kadar kullanmaya başlayın
+# <a name="begin-using-pay-as-you-go-rates-with-the-azure-plan"></a>Azure planıyla kullansanız öde ücretlerini kullanmaya başlama
 
-**Uygun roller**
-
-- Yönetim Aracısı
-- Satış Aracısı
+**Uygun roller:** Yönetici aracısı | Satış aracısı
 
 
-Microsoft, Iş Ortağı Merkezi 'nde yeni bir ticari deneyim sunmuştur.  Bu yeni ticaret deneyimiyle, iş ortakları, Microsoft Müşteri anlaşmasındaki müşterilere yönelik Kullandıkça Öde tarifelerine göre Azure hizmetlerine erişim kazanacaktır.
+Microsoft, yeni bir ticari deneyim İş Ortağı Merkezi.  Bu yeni ticaret deneyimiyle iş ortakları, azure hizmetleri için uygun fiyat kapsamındaki müşteriler için azure Microsoft Müşteri Sözleşmesi.
 
-Bu plan, satın alma deneyimini basitleştirir; bir Azure planında birden çok Azure aboneliğine sahip olabilirsiniz. Artık Azure aboneliği başına ayrı bir sıra göndermeniz gerekmez. Azure için sunulan bu yeni ticaret deneyiminde, CSP iş ortaklarının yayımlanan fiyatlarla Azure 'u sunmasına olanak tanıyan tek bir küresel fiyatlandırma ilkesine göre hizalandık.
+Bu plan satın alma deneyimini basitleştiriyor. Bir Azure planında birden çok Azure aboneliğiniz olabilir. Artık Azure aboneliği başına ayrı bir sipariş göndermeniz gerekmeyecek. Azure için bu yeni ticaret deneyiminde, CSP iş ortaklarının Yayımlanan fiyatlarda Azure'a teklif sunmalarını sağlayan tek bir genel fiyatlandırma ilkesine uygun hareket ettik.
 
-Müşterilerimizin dijital dönüştürme gereksinimi, iş ortaklarından yeni yetenekler gerektirir. Birçok müşteri, bulut yolculuğunun daha sorunsuz hale getirme ve Azure hizmetlerini verimli bir şekilde kullanmanıza yardımcı olmak için iş ortaklarının üzerinde hizmet ve işlem işlemlerini daha iyi kullanmasını sağlar. Microsoft iş ortakları, müşteri yaşam döngüsünün tüm aşamalarında kritik bir rol oynar. Bu tür iş ortağı hizmetleri, yerleşik olarak bulunur ve Azure 'da izleme, ilke ve idare yönetimi, ince ayar yapma ve yapılandırma, teknik destek ve diğer çeşitli hizmetleri içerir. Müşterilerin, müşterinin Azure ortamına içkin hakkında bilgi sahibi olmaları ve yönettikleri temel kaynakların sürekli ve uygun yönetimi ve denetimi olması gerekir. Bu 24 X 7 bulut-işlem yönetimini sağlayan faturalandırma ortakları, bu iş için **yönetilen hizmetler için bir Iş ortağı tarafından kazanılan kredi** için uygun hale gelir.
+Müşterilerimizin dijital dönüşüm ihtiyaçları, iş ortaklarının yeni becerilere ihtiyacı vardır. Birçok müşteri, bulut yolculuğunu daha sorunsuz hale getirir ve Azure hizmetlerini verimli bir şekilde tüketmeye yardımcı olmak için iş ortaklarının işlemlerin üzerinde ve ötesinde hizmetler sağlamalarını sağlar. Microsoft iş ortakları, müşteri yaşam döngüsünün tüm aşamalarında kritik bir rol oynar. Bu tür iş ortağı hizmetleri doğası gereği devam ediyor ve Azure emlak izleme, ilke ve idare yönetimi, ayarlama ve yapılandırmada ince ayarlama, teknik destek ve diğer birçok farklı hizmeti içerir. Bir iş ortağının müşterinin Azure ortamı hakkında bilgi sahibi olması ve yönetecekleri temel kaynakların sürekli ve uygun idare ve denetimine sahip olması gerekir. Bu 24 X 7 bulut operasyonları yönetimini sağlayan faturalama iş ortakları, bu iş için yönetilen hizmetler için İş ortağı tarafından kazanılan **kredi** için uygun hale gelir.
 
-## <a name="make-sure-your-customers-have-signed-the-microsoft-customer-agreement"></a>Müşterilerinizin Microsoft Müşteri sözleşmesinin imzalandığından emin olun
+## <a name="make-sure-your-customers-have-signed-the-microsoft-customer-agreement"></a>Müşterileriniz tarafından imzalanmış olduğundan emin Microsoft Müşteri Sözleşmesi
 
 1 Ekim 2019 ' den itibaren, tam dijital işlemle müşteri satın alma deneyimini kolaylaştıran ve basitleştiren bir kalıcı anlaşma olan Microsoft Müşteri Sözleşmesi, kullanılabilir. Azure için CSP 'deki yeni ticari deneyimden yararlanmak isteyen tüm müşterilerin Microsoft Müşteri sözleşmesini imzalaması gerekir.
 

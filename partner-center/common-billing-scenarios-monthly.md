@@ -1,43 +1,38 @@
 ---
-title: Genel Aylık faturalandırma senaryoları
+title: Yaygın aylık faturalama senaryoları
 ms.topic: article
 ms.date: 05/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Aylık faturalandırma kullandığınızda Iş Ortağı Merkezi 'ndeki yaygın senaryolar-yeni abonelikler ekleme, lisans miktarını değiştirme ve abonelikleri askıya alma dahildir.
+description: 'Aylık faturalamayı İş Ortağı Merkezi yaygın senaryolar: Yeni abonelik ekleme, lisans miktarını değiştirme ve abonelikleri askıya alma gibi senaryolar.'
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4fe5c33fe549604f25500dd333d187e6b70ad73e
-ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
+ms.openlocfilehash: 66c9ec09f707d87248fdef31e4cf66f4ca927ce1
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106502523"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148661"
 ---
-# <a name="sample-monthly-billing-scenarios-for-new-subscriptions-changing-license-amounts-or-suspensions"></a>Yeni abonelikler için örnek aylık faturalandırma senaryoları, lisans tutarlarını değiştirme veya getirilmesi
+# <a name="sample-monthly-billing-scenarios-for-new-subscriptions-changing-license-amounts-or-suspensions"></a>Yeni abonelikler, lisans tutarlarını değiştirme veya askıya alma işlemleri için örnek aylık faturalama senaryoları
 
-**Uygun roller**
+**Uygun roller:** Yönetici aracısı | Faturalama yöneticisi | Yardım masası aracısı | Satış aracısı
 
-- Yönetim Aracısı
-- Faturalama yöneticisi
-- Yardım Masası Aracısı
-- Satış Aracısı
-
-Bu örnek [genel faturalandırma senaryoları](common-billing-scenarios.md) , Iş Ortağı Merkezi 'nde aylık faturalandırma kullanıyorsanız geçerlidir.
+Bu örnek [yaygın faturalama senaryoları,](common-billing-scenarios.md) faturalar için aylık faturalama İş Ortağı Merkezi.
 
 ## <a name="new-monthly-subscription"></a>Yeni aylık abonelik
 
-Fatura faturanızı her ayın 15 ' i vardır. 13 Ocak 'ta, $4/ay için bir lisansa sahip yeni bir abonelik satın alıp aylık faturalandırma ' i seçersiniz. 15 Ocak lisans tabanlı mutabakat dosyası aşağıdaki faturalandırma satırlarını içerir:
+Faturalama tarihiniz her ayın 15'indedir. 13 Ocak'ta, aylık 4 ABD doları için tek lisansla yeni bir abonelik satın alın ve aylık faturalamayı seçin. 15 Ocak lisans tabanlı mutabakat dosyası aşağıdaki fatura satırlarını içerir:
 
-|Ücret başlangıç tarihi |Ücretlendirme bitiş tarihi |Ücret türü |Birim Fiyatı |Miktar |Miktar |
+|Ücret Başlangıç Tarihi |Ücret Bitiş Tarihi |Ücret Türü |Birim Fiyatı |Miktar |Miktar |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
-|1/13/2018         |2/12/2018    |Bisiklet ücreti   |4.00       |1        |4.00 |
+|1/13/2018         |2/12/2018    |Döngü ücreti   |4.00       |1        |4.00 |
 
-15 Şubat lisans tabanlı mutabakat dosyası aşağıdaki faturalandırma satırını içerir:
+15 Şubat lisans tabanlı mutabakat dosyası aşağıdaki fatura satırına sahip olur:
 
-|Ücret başlangıç tarihi |Ücretlendirme bitiş tarihi |Ücret türü |Birim Fiyatı |Miktar |Miktar |
+|Ücret Başlangıç Tarihi |Ücret Bitiş Tarihi |Ücret Türü |Birim Fiyatı |Miktar |Miktar |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 |2/13/2018         |3/12/2018    |Bisiklet ücreti   |4.00       |1        |4.00 |
 
@@ -53,24 +48,24 @@ Fatura faturanızı her ayın 15 ' i vardır. 13 Ocak 'ta, $4/ay için bir lisan
 
 |Ücret başlangıç tarihi |Ücretlendirme bitiş tarihi |Ücret türü |Birim Fiyatı |Miktar |Miktar |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
-| 1/13/2018        |2/12/2018    |Bisiklet örneği eşit   |-4,00       |1        |-4,00   |
-|1/13/2018         |1/31/2018    | Bisiklet örneği eşit   |2.45       |1        |2.45    |
-|01.02.2018         |2/12/2018    | Bisiklet örneği eşit   |1,55       |2        |3,10    |
-|2/13/2018         |3/12/2018    | Bisiklet örneği eşit   |4.00       |2        |8,00    |
+| 1/13/2018        |2/12/2018    |Bisiklet örneği eşit   |-4,00       |1        |-4.00   |
+|1/13/2018         |1/31/2018    | Döngü Örneği Hızı   |2.45       |1        |2.45    |
+|01.02.2018         |2/12/2018    | Döngü Örneği Hızı   |1,55       |2        |3.10    |
+|2/13/2018         |3/12/2018    | Döngü Örneği Hızı   |4.00       |2        |8.00    |
 
-Aylık fiyat 4,00 ' dir ve – 2/12/2018 servis 1/13/2018 döneminde 31 gün vardır. Bu, gün 0,129 (4/31) günlük fiyatına karşılık gelir.
+Aylık fiyat 4,00'dır ve 13.01.2018 – 12.02.2018 hizmet döneminde 31 gün vardır. Bu, günlük 0,129 (4/31) fiyatına eşit olur.
 
-1/13/2018 – 1/31/2018 ' de, eşit dönemde 19 gün vardır.
+13.01.2018 – 31.01.2018 tarihindeki proration döneminde 19 gün vardır.
 
-Eşit bir birim fiyatı = 2,451 = 19 x 0,129
+Proration birim fiyatı = 2,451 = 19 x 0,129
 
-2/1/2018 – 2/12/2018 olan eşit dönemde 12 gün vardır.
+1/2/2018 – 12.02.2018 tarihindeki proration döneminde 12 gün vardır.
 
 Proration birim fiyatı = 1,54 = 12 x 0,129
 
-## <a name="suspend-before-30-days"></a>30 günden önce askıya al
+## <a name="suspend-before-30-days"></a>30 gün önce askıya alma
 
-Fatura faturanızı her ayın 15 ' i vardır. 13 Ocak 'ta, $4/ay için bir lisansa sahip yeni bir abonelik satın alıp aylık faturalandırma ' i seçersiniz. 15 Ocak lisans tabanlı mutabakat dosyası aşağıdaki faturalandırma satırlarını içerir:
+Faturalama tarihiniz her ayın 15'indedir. 13 Ocak'ta, aylık 4 ABD doları için tek lisansla yeni bir abonelik satın alın ve aylık faturalamayı seçin. 15 Ocak lisans tabanlı mutabakat dosyası aşağıdaki faturalandırma satırlarını içerir:
 
 |Ücret başlangıç tarihi |Ücretlendirme bitiş tarihi |Ücret türü |Birim Fiyatı |Miktar |Miktar |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
@@ -84,21 +79,21 @@ Fatura faturanızı her ayın 15 ' i vardır. 13 Ocak 'ta, $4/ay için bir lisan
 
 ## <a name="suspend-after-30-days"></a>30 gün sonra askıya al
 
-Fatura faturanızı her ayın 15 ' i vardır. 13 Ocak 'ta, $4/ay için bir lisansa sahip yeni bir abonelik satın alıp aylık faturalandırma ' i seçersiniz. 15 Ocak lisans tabanlı mutabakat dosyası aşağıdaki faturalandırma satırlarını içerir:
+Fatura faturanızı her ayın 15 ' i vardır. 13 Ocak 'ta, $4/ay için bir lisansa sahip yeni bir abonelik satın alıp aylık faturalandırma ' i seçersiniz. 15 Ocak lisans tabanlı mutabakat dosyası aşağıdaki fatura satırlarını içerir:
 
-|Ücret başlangıç tarihi |Ücretlendirme bitiş tarihi |Ücret türü |Birim Fiyatı |Miktar |Miktar |
+|Ücret Başlangıç Tarihi |Ücret Bitiş Tarihi |Ücret Türü |Birim Fiyatı |Miktar |Miktar |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
-1/13/2018|2/12/2018|Bisiklet ücreti|4.00|1|4.00
+1/13/2018|2/12/2018|Döngü Ücreti|4.00|1|4.00
 
-15 Şubat lisans tabanlı mutabakat dosyası aşağıdaki faturalandırma satırını içerir:
+15 Şubat lisans tabanlı mutabakat dosyası aşağıdaki fatura satırına sahip olur:
 
-|Ücret başlangıç tarihi |Ücretlendirme bitiş tarihi |Ücret türü |Birim Fiyatı |Miktar |Miktar |
+|Ücret Başlangıç Tarihi |Ücret Bitiş Tarihi |Ücret Türü |Birim Fiyatı |Miktar |Miktar |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
-2/13/2018|3/12/2018|Bisiklet ücreti|4.00|1|4.00
+2/13/2018|3/12/2018|Döngü Ücreti|4.00|1|4.00
 
-1 Mart 'ta aboneliği askıya alırsınız. 15 Mart lisans tabanlı mutabakat dosyası aşağıdaki faturalandırma satırını içerir:
+1 Mart'ta aboneliği askıya alırsınız. 15 Mart lisans tabanlı mutabakat dosyasında aşağıdaki fatura satırı yer alacağız:
 
-|Ücret başlangıç tarihi |Ücretlendirme bitiş tarihi |Ücret türü |Birim Fiyatı |Miktar |Miktar |
+|Ücret Başlangıç Tarihi |Ücret Bitiş Tarihi |Ücret Türü |Birim Fiyatı |Miktar |Miktar |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 3/1/2018|3/12/2018|Ücreti iptal et|-1,72|1|-1,72
 

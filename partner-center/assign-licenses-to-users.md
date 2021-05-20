@@ -1,62 +1,58 @@
 ---
-title: Kullanıcıları müşteri hesaplarına göre yönetme
+title: Müşteri hesapları için kullanıcıları yönetme
 ms.topic: how-to
 ms.date: 02/25/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Iş Ortağı Merkezi 'nde müşterileriniz için kullanıcıları yönetme-Kullanıcı hesapları oluşturma, kullanıcı lisansları ekleme veya kaldırma, parolaları sıfırlama ve Kullanıcı hesaplarını silme veya geri yükleme.
+description: İş Ortağı Merkezi'da müşterileriniz için kullanıcıları yönetme- kullanıcı hesapları oluşturun, kullanıcı lisansları ekleyin veya kaldırın, parolaları sıfırlayın ve kullanıcı hesaplarını silin veya geri yükleme.
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0e2bb4ceb146174da83e9c08a9ff030380298bd0
-ms.sourcegitcommit: bff907bdbddc769716c7418a2b4a94ca37c2d590
+ms.openlocfilehash: dc896ec3ce16ab0f05a8131de14f573ad96a8141
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/03/2021
-ms.locfileid: "101756090"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110149902"
 ---
 # <a name="manage-users-and-user-licenses-for-customer-accounts"></a>Müşteri hesapları için kullanıcıları ve kullanıcı lisanslarını yönetme 
 
-**Uygun roller**
-
-- Genel yönetici
-- Kullanıcı Yönetimi Yöneticisi
-- Yönetim Aracısı
+**Uygun roller:** Genel yönetici | Kullanıcı yönetimi yönetici | Yönetici aracısı
 
 
-Müşterinin hesabındaki yeni kullanıcıları oluşturabilir ve silebilirsiniz. Ayrıca, silmenin 30 gün içinde daha önce sildiğiniz bir veya daha fazla kullanıcı hesabını geri yükleyebilirsiniz. Kullanıcının önceki abonelik atamaları da geri yüklenecektir (önceki ayırmaların kullanılabildiği varsayılarak).
+Müşterinin hesabında yeni kullanıcılar oluşturabilir ve silebilirsiniz. Daha önce sildikten sonra 30 gün içinde silmiş olduğunu bir veya daha fazla kullanıcı hesabını da geri yükleyebilirsiniz. Kullanıcının önceki abonelik atamaları da geri yüklenir (önceki ayırmalarının kullanılabilir olduğu varsayıldı).
 
-Bir müşteri için yeni abonelikler satın aldığınızda, müşteri size hesap, Kullanıcı izinleri ve her kullanıcının ihtiyacı olan hizmetlere sahip olan tüm kullanıcıların bir listesini vermelidir.  
+Bir müşteri için yeni abonelikler satın alırsanız, müşteri size hesap, kullanıcı izinleri ve her kullanıcının hangi hizmetlere ihtiyacı olacak olan tüm kullanıcıların listesini versin.  
 
 >[!NOTE]
->**Müşteri** sekmesinin **Kullanıcılar ve lisanslar** bölümü, belirli bir müşterinin kiracısında oluşturulan, başka bir CSP ortağından veya başka bir satın alma kanalından satın alınmış lisanslardan oluşan kullanıcılar dahil olmak üzere tüm kullanıcıları gösterir.
+>Müşteri **sekmesinin Kullanıcılar**  ve lisanslar bölümünde, başka bir CSP iş ortağından veya başka bir satın alma kanalından satın alınan lisanslara sahip kullanıcılar da dahil olmak üzere belirli bir müşterinin kiracısı içinde oluşturulan tüm kullanıcılar görüntülenir.
 
-[Excel uyumlu bir. csv elektronik tablo dosyası](adding-multiple-users-to-a-customer-account.md)kullanarak adları içeri aktararak aynı anda [birden fazla kullanıcıya abonelik atayabilirsiniz](bulk-license-provisioning-for-multiple-users.md) .
+Excel ile [uyumlu bir](bulk-license-provisioning-for-multiple-users.md) .csv elektronik tablo dosyası kullanarak adları içeri aktararak birden çok kullanıcıya [abonelik atabilirsiniz.](adding-multiple-users-to-a-customer-account.md)
 
 <a href="" id="createuseraccounts"></a>
 
 ## <a name="create-user-accounts-for-a-customer"></a>Müşteri için kullanıcı hesapları oluşturma
 
-1. Iş Ortağı Merkezi [panosunda](https://partner.microsoft.com/dashboard)oturum açın.
+1. İş Ortağı Merkezi [oturum açın.](https://partner.microsoft.com/dashboard)
 
-2. Iş Ortağı Merkezi menüsünde **müşteriler**' i seçin ve listeden bir müşteri seçin.
+2. Yeni İş Ortağı Merkezi **Müşteriler'i** ve ardından listeden bir müşteri seçin.
 
-3. Müşteri menüsünde, **Kullanıcılar ve lisanslar**' ı seçin.
+3. Müşteri menüsünde Kullanıcılar ve **lisanslar'ı seçin.**
 
-4. Eklediğiniz her kullanıcı için **Abonelik Ekle**' yi seçin ve ardından izinler ve lisanslar dahil olmak üzere bilgileri doldurun. Değişikliklerinizi **kaydedin** .
+4. Ekleyilen her kullanıcı için Abonelik **ekle'yi** seçin ve ardından izinler ve lisanslar dahil olmak üzere bilgileri doldurun. **Değişikliklerinizi** kaydedin.
 
-5. Kullanıcıya göndermek için Kullanıcı adını ve geçici parolayı kaydettiğinizden emin olun.
+5. Kullanıcıya göndermek için kullanıcı adını ve geçici parolayı kaydetmeyi emin olun.
 
-6. Birden çok kullanıcıyı aynı anda ekliyorsanız, **başka bir Kullanıcı Ekle** öğesini kullanın.
+6. Bir defada birden çok kullanıcı ekliyorsanız Başka bir kullanıcı **ekle'yi kullanın.**
 
-7. Ayrıca, [Excel ile uyumlu bir. csv elektronik tablo dosyasını içeri aktararak](adding-multiple-users-to-a-customer-account.md)aynı anda birden fazla kullanıcı ekleyebilirsiniz. Onay ekranından adları ve parolaları göndermeden veya yazdırmadan önce tüm küme ile işiniz tamamlanana kadar bekleyebilirsiniz.
+7. Excel ile uyumlu bir .csv elektronik tablo [dosyasını içeri aktararak aynı anda birden çok kullanıcı abilirsiniz.](adding-multiple-users-to-a-customer-account.md) Onay ekranından adları ve parolaları e-posta ile göndermeden veya yazdırmadan önce tüm kümeyi tamamlaya kadar bekleyebilirsiniz.
 
 <a href="" id="userlicensing"></a>
 
-## <a name="add-or-remove-user-licenses-for-a-customer"></a>Müşteri için kullanıcı lisansları ekleme veya kaldırma
+## <a name="add-or-remove-user-licenses-for-a-customer"></a>Müşteri için kullanıcı lisanslarını ekleme veya kaldırma
 
-Aşağıdaki adımlar, Microsoft ürünlerine yönelik kullanıcı lisanslarını eklemek veya kaldırmak için geçerlidir. Ticari Market 'teki lisans tabanlı SaaS aboneliklerine yönelik kullanıcı lisanslarını eklemek veya kaldırmak için bkz. [SaaS aboneliği için lisans ekleme veya kaldırma](csp-commercial-marketplace-manage.md#add-or-remove-licenses-for-a-saas-subscription).
+Aşağıdaki adımlar, Microsoft ürünleri için kullanıcı lisansları eklemek veya kaldırmak için geçerlidir. Ticari Market 'teki lisans tabanlı SaaS aboneliklerine yönelik kullanıcı lisanslarını eklemek veya kaldırmak için bkz. [SaaS aboneliği için lisans ekleme veya kaldırma](csp-commercial-marketplace-manage.md#add-or-remove-licenses-for-a-saas-subscription).
 
 1. Iş Ortağı Merkezi [panosunda](https://partner.microsoft.com/dashboard)oturum açın.
 
@@ -64,9 +60,9 @@ Aşağıdaki adımlar, Microsoft ürünlerine yönelik kullanıcı lisansların�
 
 3. Müşteri menüsünde, **Kullanıcılar ve lisanslar**' ı seçin.
 
-4. Listeden bir veya daha fazla kullanıcı seçin. Örneğin, müşteri yeni lisanslar satın almış ve bunları henüz sahip olmayan kişilere atamak istediğinizde, doğru grubu bulmak için **kullanıcıları filtreleme...** seçeneğini kullanabilirsiniz.
+4. Listeden bir veya birden fazla kullanıcı seçin. Örneğin, müşteri yeni lisanslar satın almış ve bunları henüz sahip olmayan kişilere atamak istediğinizde, doğru grubu bulmak için **kullanıcıları filtreleme...** seçeneğini kullanabilirsiniz.
 
-5. **Lisansları Yönet**' i seçin. Değişikliklerinizi yapın ve **kaydedin**.
+5. **Lisansları Yönet**’i seçin. Değişikliklerinizi yapın ve **kaydedin**.
 
 > [!NOTE]
 > [Azure Market ürünleri](csp-commercial-marketplace-manage.md#assign-licenses-and-activate-a-subscription-on-behalf-of-a-customer)için lisans atama ve etkinleştirme, ürünü yayımlayan bağımsız yazılım SATıCıSı (ISV) üzerinden yönetilir.

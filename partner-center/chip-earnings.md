@@ -9,18 +9,16 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 09ed80e4be53f210341279193bae71dc47f87eec
-ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
+ms.openlocfilehash: 74606a4c7f52e5aa23f7e963cab27e491c436b59
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "97354500"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110149035"
 ---
 # <a name="view-earnings-using-the-chip-tool"></a>YONGA aracını kullanarak kazançları görüntüleme
 
-**Uygun roller**
-
-- Birincil kişi veya Program Yöneticisi
+**Uygun roller**: birincil iletişim veya Program Yöneticisi
 
 Teşvikleri deyiminize Channel teşvikleri platform Tool (yonga) aracılığıyla erişebilirsiniz.
 
@@ -36,7 +34,7 @@ Teşvikleri deyiminize Channel teşvikleri platform Tool (yonga) aracılığıyl
 
 ### <a name="explanation-of-details-tabs"></a>Ayrıntılar sekmelerinin açıklaması
 
-|**Sekmesinde**|**Tanım**|
+|**Sekme**|**Tanım**|
 |-------------|--------------------------|
 |DetailReport-Flatfile|Müşteri adı, sözleşme, Manya ayrıntıları dahil olmak üzere seçili zaman aralığı için teşvikleri programına ilişkin ayrıntıları içerir|
 |DeltaReport-Pivot|Yalnızca Enterprise için yayımlanan son bildiri güncelleştirmeleri|

@@ -9,18 +9,16 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9395a64a5bdf5aa0219bb9457d581e71bef777c2
-ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
+ms.openlocfilehash: d46b37aa903d10ec97b780eec9dde1deec623277
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "97354636"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148984"
 ---
 # <a name="solution-assessment-incentives-faq-for-the-channel-incentives-platform-chip"></a>Channel teşvikleri platformu (yonga) için çözüm değerlendirmesi teşvikleri SSS 
 
-**Uygun roller**
-
-- Birincil kişi veya Program Yöneticisi
+**Uygun roller**: birincil iletişim veya Program Yöneticisi
 
 Aşağıdaki sık sorulan soruların yanıtlarını bulun.
 
@@ -37,7 +35,7 @@ Ekleme işlemine başlamadan önce, iş ortaklarının, şirketlerinin, yerelle�
 
 ## <a name="how-do-i-submit-my-bank-and-tax-details"></a>Nasıl yaparım? bankamı ve vergi ayrıntılarımı gönder?
 
-Banka ve vergi profillerinizi nasıl göndereceğiniz hakkında adım adım yönergeler için [yongada](chip-intro.md) ilerleyin.
+Banka ve vergi profillerinizi nasıl göndereceğiniz hakkında adım adım yönergeler için [yongadaki](chip-intro.md) adımları okuyun.
 
 ## <a name="my-deal-status-has-been-approved-in-chip-why-hasnt-it-been-paid-yet"></a>Kendi anlaşma durumum YONGASıNDA onaylandı. Neden henüz ödenmedi?
 
@@ -59,14 +57,14 @@ Fırsat kapatıldıktan sonra, teşvikleri için artık uygun değildir. Daha fa
 
 Birincil Iş ortağı kişisinin (yönetici), şirketteki diğer tüm kullanıcıları YONGADA kaydettirmek üzere davet etme sorumluluğu vardır. Şirketten ayrılmaları gereken kullanıcıların devre dışı bırakılması da dahil olmak üzere Kullanıcı erişiminden de sorumludur. Lütfen [Channel teşvikleri platform kılavuzunu](chip-intro.md)okuyun.
 
-## <a name="the-primary-admin-has-left-our-company-how-do-we-change-my-primary-admin-in-chip"></a>Birincil yönetici şirketimizin bıraktı. YONGADAKI birincil yöneticimi nasıl değiştirebilirim?
+## <a name="the-primary-admin-has-left-our-company-how-do-we-change-my-primary-admin-in-chip"></a>Birincil Yönetici şirketten ayrıldı. CHIP'te birincil yöneticimi nasıl değiştirebiliriz?
 
-YONGADAKI birincil yönetici, MPN 'deki birincil Iş ortağı kişisi olmalıdır. Lütfen MPN 'nin yeni kişiyle güncelleştirildiğinden emin olun ve YONGADAKI değişikliği istemek için bölgesel destek ekibinize başvurun.
+CHIP'te Birincil Yönetici MPN'de Birincil İş Ortağı Kişisi olmalı. MPN'nin yeni ilgili kişi ile güncelleştirilmiş olduğundan emin olun ve CHIP'te değişiklik isteğinde bulunulması için bölgesel destek takımınıza başvurun.
 
-Iş Ortağı Merkezi panosunda, sol taraftaki menüden **destek** ' i seçin. Kategori olarak **teşvikleri** ' u seçin veya "konularda araştırma" alanında program adınızı arayın.
+Panodan İş Ortağı Merkezi **menüden Destek'i** seçin. Kategoriniz **olarak** Teşvikler'i seçin veya "Konulara Gözat" alanında program adınız için arama yazın.
 
-İlgili konuya özgü yardımı görüntüledikten sonra, hala yardıma ihtiyacınız varsa, önerilen belgelerden bir bilet oluşturabilirsiniz – **bir destek bileti oluşturabilirsiniz** .
+Konuya özgü kullanılabilir yardımı görüntüledikten sonra, hala yardıma ihtiyacınız varsa, hemen Önerilen Belgeler - Destek bileti oluştur seçeneğinden **bir bilet oluşturabilirsiniz.**
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-- [YONGAYA git](chip-intro.md)
+- [CHIP'te gezinme](chip-intro.md)

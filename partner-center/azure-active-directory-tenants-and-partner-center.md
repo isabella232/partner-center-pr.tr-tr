@@ -1,50 +1,47 @@
 ---
-title: İş hesabınızı iş ortağı merkezine bağlama
+title: İş hesabınıza erişim için bağlantı İş Ortağı Merkezi
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Şirketinizi Iş Ortağı Merkezi hesabınıza bağlayan bir iş hesabı oluşturun. Bu, şirketinizdeki çalışanların Iş Ortağı Merkezi 'ne erişmesini sağlar.
+description: Şirketinizi şirket hesabınıza İş Ortağı Merkezi oluşturun. Bu, şirketinizin çalışanlarının İş Ortağı Merkezi.
 author: vinayks
 ms.author: vinayks
 ms.custom: SEOAPR.20
 ms.localizationpriority: high
 ms.date: 11/25/2019
-ms.openlocfilehash: bc837db5a9dbcf92fbfead54b552695a218ae675
-ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
+ms.openlocfilehash: a06a38ef9d96b4c2a1e95328d510eb2fd71ff0e3
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "96534803"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110149851"
 ---
-# <a name="create-a-work-account-that-links-your-company-to-your-partner-center-account"></a>Şirketinizi Iş Ortağı Merkezi hesabınıza bağlayan bir iş hesabı oluşturun
+# <a name="create-a-work-account-that-links-your-company-to-your-partner-center-account"></a>Şirketinizi şirket hesabınıza İş Ortağı Merkezi oluşturma
 
-**Uygun roller**
-
-- Genel yönetici
-- Kullanıcı Yönetimi Yöneticisi
+**Uygun roller:** Genel yönetici | Kullanıcı yönetimi yöneticisi
 
 ## <a name="why-you-need-a-work-account"></a>Neden bir iş hesabına ihtiyacınız var?
 
-Microsoft, şirketinizin iş hesabını yeni Iş Ortağı Merkezi hesabınıza bağlamanız gerekir. Bağlantı, hesap kullanıcılarınızın iş hesabı kullanıcı adları ve parolalarla iş ortağı merkezi 'nde oturum açmasını sağlar.
+Microsoft, şirket iş hesabını yeni iş hesabınıza bağlamanızı İş Ortağı Merkezi gerektirir. Bu bağlantı, hesap kullanıcılarının iş hesabı kullanıcı adları İş Ortağı Merkezi parolalarıyla oturum açmasını sağlar.
 
 ## <a name="the-work-account-email-address"></a>İş hesabı e-posta adresi
 
-İş hesabınız veya iş e-postanız, şirketiniz tarafından size sağlanmış olan e-posta adresidir. Bir iş hesabı e-postası genellikle biçimindedir `you@yourcompany.com` . Hotmail, Gmail veya Yahoo gibi kişisel e-posta adresleri iş e-postası değildir ve iş ortağı merkezi hesabınız için kullanılamaz.
+İş hesabınız veya iş e-postanız, şirket tarafından size sağlanan e-posta adresidir. İş hesabı e-postası genellikle `you@yourcompany.com` biçimindedir. Hotmail, Gmail veya Yahoo gibi kişisel e-posta adresleri iş e-postası İş Ortağı Merkezi kullanılamaz.
 
-Birden fazla geçerli iş e-posta adresiniz varsa, bölgesel departman yerine şirket merkezinizdeki ilişkili olanı kullanın, örneğin, `contoso.com` adres yerine e-postanızı kullanın `contoso.uk` .
+Birden fazla geçerli iş e-posta adresiniz varsa, bölgesel departman yerine Şirket Merkezi'niz ile ilişkilendirilmiş olan adresi kullanın; örneğin, adres yerine `contoso.com` e-postanızı `contoso.uk` kullanın.
 
 > [!NOTE]  
-> Mevcut bir iş hesabını kullanmaya karar vermeden önce, hesapta kaç kullanıcının iş ortağı merkezi 'nde çalışması gerektiğini düşünün. Hesapta iş ortağı merkezi 'nde çalışması gerekmeyen kullanıcılarınız varsa, yalnızca iş ortağı merkezinde çalışması gereken kullanıcılar için yeni bir hesap oluşturmayı göz önünde bulundurun.
+> Mevcut bir iş hesabını kullanmaya karar vermeden önce, hesapta kaç kullanıcının bu hesapta çalışması İş Ortağı Merkezi. Hesapta çalışması gerekmayacak kullanıcılarınız varsa İş Ortağı Merkezi yalnızca bu hesapta çalışması gereken kullanıcılar için yeni bir hesap İş Ortağı Merkezi.
 
-## <a name="not-sure-if-your-company-already-has-a-work-account"></a>Şirketiniz zaten bir iş hesabına sahip olup olmadığından emin değil misiniz?
+## <a name="not-sure-if-your-company-already-has-a-work-account"></a>Şirketinizin zaten bir iş hesabı olup olmadığını emin değil misiniz?
 
-Şirketinizde bir iş hesabı olup olmadığından emin değilseniz, denetlemek için aşağıdaki adımları izleyin. Microsoft Azure veya Office 365 için etkin bir aboneliğiniz varsa, zaten bir iş hesabınız olması gerekir.
+Şirketinizin bir iş hesabı olup olduğundan emin değilsanız, kontrol etmek için aşağıdaki adımları izleyin. Microsoft Azure veya Office 365 için etkin bir aboneliğiniz varsa zaten bir iş hesabınız vardır.
 
 1. [Azure portalında](https://portal.azure.com) oturum açın.
 
-2. Menüden Azure Active Directory ' ı seçin ve ardından etki alanı adları ' nı seçin.
+2. Menüden Azure Active Directory'yi ve ardından Etki Alanı Adları'ı seçin.
 
-3. Zaten bir iş hesabınız varsa, etki alanı adınız listelenecektir.
+3. Zaten bir iş hesabınız varsa, etki alanı adınız listelenir.
 
 Şirketinizde zaten bir iş hesabı yoksa, kayıt işlemi sırasında bir tane oluşturabilirsiniz.
 

@@ -9,21 +9,16 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e317cb58e9ebf4b0efad2933f866d5db19d8dc1a
-ms.sourcegitcommit: 3d7d5064c5e021079ed7e6f93f03869cbf425a32
+ms.openlocfilehash: 764d5a3cb0dc6f409e5272d4119424396caff53b
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106502472"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148644"
 ---
 # <a name="common-billing-scenarios-for-license-based-saas-transactions-in-partner-center"></a>Iş Ortağı Merkezi 'nde lisans tabanlı SaaS işlemleri için genel faturalandırma senaryoları
 
-**Uygun roller**
-
-- Yönetim Aracısı
-- Faturalama yöneticisi
-- Yardım Masası Aracısı
-- Satış Aracısı
+**Uygun roller**: yönetici Aracısı | Faturalandırma Yöneticisi | Yardım Masası Aracısı | Satış Aracısı
 
 
 Bu örnek [genel faturalandırma senaryoları](common-billing-scenarios.md) , Iş Ortağı Merkezi 'nde lisans tabanlı yazılım hizmeti (SaaS) abonelikleri için geçerlidir.
@@ -55,18 +50,18 @@ Keşfi dosyası aşağıdaki ücretleri içerir:
 | 06/10/2019 | 06/10/2019 | 07/09/2019 | 0 USD | 11 | 0 USD | Yeni | Ücretsiz deneme sürümü |
 | 06/10/2019 | 06/10/2019 | 07/09/2019 | 0 USD | 11 | 0 USD | İptal | Ücretsiz deneme sürümü |
 
-## <a name="convert-custom-meter-saas-subscription-to-another-sku"></a>Özel Ölçüm SaaS aboneliğini başka bir SKU 'ya Dönüştür
+## <a name="convert-custom-meter-saas-subscription-to-another-sku"></a>Özel ölçüm SaaS aboneliğini başka bir SKU'ya dönüştürme
 
-Bu senaryoda, bir özel ölçüm SaaS aboneliğinin aynı ürün için aynı ürüne ait bir stok tutma biriminden (SKU) başka bir SKU 'ya nasıl dönüştürüleceği açıklanır.
+Bu senaryoda, aynı tarihte bir özel ölçüm SaaS aboneliğinin bir stok tutma biriminden (SKU) aynı ürün için başka bir SKU'ya nasıl dönüştürülmesi açıkmektedir.
 
-Bu senaryoda, bir ürün altında bir SKU (Gümüş) satın aldınız ve bu ürünün altında bulunan başka bir SKU 'ya (Bronz) aynı tarihte dönüştürüyoruz.
+Bu senaryoda, bir ürün altında bir SKU (Silver) satın aldı ve aynı tarihte bu ürünün altında başka bir kullanılabilir SKU'ya (Bronz) dönüştürtün.
 
-Keşfi dosyası aşağıdaki ücretleri içerir:
+Mutabakat dosyası aşağıdaki ücretleri içerir:
 
-| Satın alma tarihi | SKU | Ücret başlangıç tarihi | Ücretlendirme bitiş tarihi | Birim fiyat | Birim miktarı | Toplam tutar | Ücret türü | Abonelik açıklaması |
+| Satın alma tarihi | SKU | Ücret başlangıç tarihi | Ücret bitiş tarihi | Birim fiyat | Birim miktarı | Toplam tutar | Ücret türü | Abonelik açıklaması |
 | ------------- | ----------------- | ----------------- | --------------- | ---------- | ------------- | ------------ | ----------- | ----------------- |
-| 06/10/2019 | Silver | 06/10/2019 | 06/10/2019 | 20 USD | 1 | 20 USD | Yeni | Özel Ölçüm SaaS aboneliği |
-| 06/10/2019 | Silver | 06/10/2019 | 06/10/2019 | 20 USD | 1 | -$20 | Dönüştür | Özel Ölçüm SaaS aboneliği için eşit olarak dağıtılmış yeniden faturalandırılır |
+| 06/10/2019 | Silver | 06/10/2019 | 06/10/2019 | 20 USD | 1 | 20 USD | Yeni | Özel ölçüm SaaS aboneliği |
+| 06/10/2019 | Silver | 06/10/2019 | 06/10/2019 | 20 USD | 1 | -20 ABD doları | Dönüştür | Özel ölçüm SaaS aboneliği için prorated rebill |
 | 06/10/2019 | Bronz | 06/10/2019 | 06/10/2019 | 10$ | 1 | 10$ | Dönüştür | Özel Ölçüm SaaS aboneliği |
 
 ## <a name="purchase-and-cancel-a-customer-meter-saas-subscription-on-same-date"></a>Müşteri ölçer SaaS aboneliğini aynı tarihte satın alıp iptal etme
@@ -78,4 +73,4 @@ Bu senaryoda, Azure portal bir özel ölçüm SaaS aboneliği satın aldınız. 
 | Satın alma tarihi | SKU | Ücret başlangıç tarihi | Ücretlendirme bitiş tarihi | Birim fiyat | Birim miktarı | Toplam tutar | Ücret türü | Abonelik açıklaması |
 | ------------- | ------------- |----------------- | --------------- | ---------- | ------------- | ------------ | ----------- | ----------------- |
 | 06/10/2019 | Bronz | 06/10/2019 | 06/10/2019 | 10$ | 1 | 10$ | Yeni | Özel Ölçüm SaaS aboneliği |
-| 06/10/2019 | Bronz | 06/10/2019 | 06/10/2019 | 10$ | 1 | -$10 | CancelImmediate | Özel Ölçüm SaaS aboneliği |
+| 06/10/2019 | Bronz | 06/10/2019 | 06/10/2019 | 10$ | 1 | -10 ABD doları | CancelImmediate | Özel ölçüm SaaS aboneliği |

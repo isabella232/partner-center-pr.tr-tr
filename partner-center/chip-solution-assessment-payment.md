@@ -2,45 +2,43 @@
 title: Çözüm değerlendirmesi ödeme durumu
 ms.topic: how-to
 ms.date: 11/09/2020
-description: Çözüm değerlendirmesi fırsatları, hesaplamaları ve bunların ödeme durumu hakkında bilgi edinmek için Channel teşvikleri platform (yonga) kullanın.
+description: Çözüm Değerlendirmesi fırsatları, hesaplamaları ve ödeme durumları hakkında bilgi bulmak için Channel Incentives Platform'unu (CHIP) kullanın.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f005db5d69fe6febf79720544642ee9f3d8c2e75
-ms.sourcegitcommit: 22d79fb31cce852ae809078ea2310ebc80030739
+ms.openlocfilehash: 4184d155ceff22a34e1a85d2909f4e1b17a46daa
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/12/2020
-ms.locfileid: "97354415"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148882"
 ---
-# <a name="solution-assessment-payment-status-and-calculation-info"></a>Çözüm değerlendirmesi ödeme durumu ve hesaplama bilgileri
+# <a name="solution-assessment-payment-status-and-calculation-info"></a>Çözüm Değerlendirmesi ödeme durumu ve hesaplama bilgileri
 
-**Uygun roller**
+**Uygun roller:** Birincil kişi veya program yöneticisi
 
-- Birincil kişi veya Program Yöneticisi
+CHIP'te Çözüm Değerlendirmesi fırsat durumunun ödeme durumunu gözden geçirsiniz.
 
-YONGADAKI bir çözüm değerlendirmesi fırsat durumunun ödeme durumunu gözden geçirebilirsiniz.
+## <a name="how-to-review-your-payment-status"></a>Ödeme durumunu gözden geçirme
 
-## <a name="how-to-review-your-payment-status"></a>Ödeme durumunuzu gözden geçirme
-
-1. YONGASıNı açın ve Microsoft hesabınızla (önceki Live ID) oturum açın.
-2. **Fırsat kimliği** alanında, fırsatın kimlik numarasını yazın veya yapıştırın.
+1. CHIP'i açın ve Microsoft Hesabınızla (önceki Canlı Kimlik) oturum açın.
+2. Fırsat **Kimliği alanına** fırsatın kimlik numarasını yazın veya yapıştırın.
 3. **Ara**’ya tıklayın.
 4. Fırsat ayrıntılarını görüntülemek için fırsat adını seçin.
-5. Ödeme isteğinin oluşturulup oluşturulmadıysa emin olmak için **Ödeme istekleri** bölümünü kontrol edin.
-6. Fırsatın durumunu gözden geçirin.
+5. Ödeme **istekleri bölümünü kontrol** edin ve bir ödeme isteği oluşturularak oluşturulmadı.
+6. Fırsatın durumunu gözden geçirme.
 
-    - Ödeme isteği oluşturulmadıysa, fırsatın çözüm değerlendirmesi teşvik etmek için uygunluk ölçütlerini karşıladığından emin olun. [Çözüm değerlendirmesinde](chip-solution-assessment.md)uygunluk ölçütlerini denetleme hakkında daha fazla bilgi edinebilirsiniz.
-    - Ödeme isteği oluşturulursa, adım 7 ' ye geçin.
+    - Ödeme isteği oluşturulmazsa, fırsatın Çözüm Değerlendirmeleri teşvikini kazanmak için uygunluk ölçütlerine uygun olduğundan emin olun. Çözüm Değerlendirmesi'nin uygunluk ölçütlerini denetleme hakkında daha fazla [bilgi bulabilirsiniz.](chip-solution-assessment.md)
+    - Ödeme isteği oluşturulduktan sonra 7. adıma geçin.
 7. Ödeme isteğinin durumunu kontrol edin.
 
-    - Bekleyen ödeme Incelemesi: daha fazla araştırma için kanal teşvikleri ekibine başvurun – aşağıda listelenen iletişim ayrıntıları.
-    - Ödeme onaylandı: ödeme, Microsoft tarafından aylık 35 gün içinde, ödeme isteğinin oluşturulduğu YONGADAKI katılım bütünlüğü sertifikası aşağıdaki şekilde
-    -  Gönderilen ödeme: ödeme sürümü ayrıntılarını görüntülemek için durum köprüsüne tıklayın.
-    - Ödeme Iptal edildi: reddetme nedenini görüntülemek için durum köprüsüne tıklayın. Daha fazla ayrıntı için kanal teşvikleri ekibine başvurun.
+    - Bekleyen Ödeme gözden geçirmesi: Daha fazla araştırma için Kanal Teşvikleri Ekibine ulaşın – aşağıda listelenen iletişim ayrıntıları.
+    - Ödeme Onaylı: Ödeme, ödeme isteğinin oluşturulmakta olduğu CHIP'te EM Katılım tamlığının onaylanmasından sonraki 35 gün içinde Microsoft tarafından işlenir
+    -  Ödeme Gönderildi: Ödeme sürümü ayrıntılarını görüntülemek için durum köprüsüne tıklayın.
+    - Ödeme İptal Edildi: Reddetme nedenini görüntülemek için durum köprüsüne tıklayın. Diğer ayrıntılar için Kanal Teşvikleri Ekibi'ne ulaşın.
 
 ## <a name="calculations-for-solutions-assessment"></a>Çözüm değerlendirmesi için hesaplamalar
 

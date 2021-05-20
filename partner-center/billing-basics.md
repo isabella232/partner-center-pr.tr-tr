@@ -1,59 +1,53 @@
 ---
-title: Iş Ortağı Merkezi faturalandırmaya genel bakış
+title: Faturalamaya İş Ortağı Merkezi bakış
 ms.topic: article
 ms.date: 01/28/2021
-description: Iş Ortağı Merkezi 'nde CSP iş ortakları için temel faturalandırma ve fatura bilgilerini öğrenin. Müşterilerin faturalandırılma ve faturanızı nasıl bulacağınızı ve okuyabileceğinizi içerir.
+description: CsP iş ortakları için temel faturalama ve fatura bilgilerini İş Ortağı Merkezi. Müşterilerin faturasını nasıl faturalandıracaklarını ve faturanızı nasıl bulup okuyacaklarını içerir.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 051d638024200fe58ca5e07f42b758b304b58219
-ms.sourcegitcommit: 58432bbb7eb0aed123547da65642ca728cb9b32c
+ms.openlocfilehash: 7fe03aa2b1d30c1146b8a14b6659c82cdcc52d9d
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/07/2021
-ms.locfileid: "106964395"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110149239"
 ---
 # <a name="billing-overview-for-csp-program-partners-working-in-partner-center"></a>İş Ortağı Merkezi’nde çalışan CSP programı iş ortakları için faturalamaya genel bakış 
 
-**Uygun roller**
+**Uygun roller:** Yönetici aracısı | Faturalama yöneticisi | Genel yönetici | Yardım masası aracısı | Satış aracısı
 
-- Yönetim Aracısı
-- Faturalama yöneticisi
-- Genel yönetici
-- Yardım Masası Aracısı
-- Satış Aracısı
-
-Bu makale, Iş Ortağı Merkezi 'ndeki CSP iş ortakları için temel faturalandırma ve fatura bilgilerini, müşterilerin faturalandırılması ve faturanızı nasıl bulacağınızı ve okuyabileceğinizi de içerir.
+Bu makalede, müşterilerin faturasını nasıl faturalandıracak ve faturanızı nasıl İş Ortağı Merkezi dahil olmak üzere csP iş ortakları için temel faturalama ve fatura bilgileri sunulmaktadır.
 
 
-## <a name="find-your-bill"></a>Faturanızı bulun
+## <a name="find-your-bill"></a>Faturanızı bulma
 
 Faturanızı bulmak için:
 
 1. İş Ortağı Merkezi [panosunda](https://partner.microsoft.com/dashboard/home) oturum açın.
 
-2. Iş Ortağı Merkezi menüsünde **faturalandırma**' i seçin.
+2. Fatura menüsünden İş Ortağı Merkezi'yi **seçin.**
 
-3. **Faturalandırma** sayfasında, en son faturanızı Indirebilir veya **Faturalama geçmişi** bölümünde önceki faturaları indirebilirsiniz.
+3. Faturalama **sayfasında,** Faturalama geçmişi bölümünde en son faturanızı indirebilir veya önceki **faturalarınızı indirebilirsiniz.**
 
-## <a name="bill-your-customers"></a>Müşterilerinize fatura
+## <a name="bill-your-customers"></a>Müşterilerinize fatura ödeme
 
-Microsoft 'un kendi faturalamayı nasıl işleyeceğinizi gösteren hiçbir gereksinimi veya koşulu yoktur.
+Microsoft'un kendi faturalamanızı nasıl işleyebilirsiniz konusunda herhangi bir gereksinimleri veya koşulları yoktur.
 
-Müşterinin kullanımını öğrenmek için [Mutabakat dosyalarınıza](#find-your-bill)bakın. Kullanımı öğrenmek için müşteri adını ve diğer ilgili alanları kullanın.
+Müşterinin kullanımını belirlemek için mutabakat [dosyalarınıza bakın.](#find-your-bill) Kullanımı belirlemek için müşteri adını ve diğer ilgili alanları kullanın.
 
-### <a name="billing-types"></a>Faturalandırma türleri
+### <a name="billing-types"></a>Faturalama türleri
 
-Iş ortağı merkezindeki faturalandırma türleri **Lisans tabanlı faturalandırma**, **Kullanım tabanlı faturalandırma** ve **tek seferlik faturalandırma** içerir. 
+Faturalama türleri İş Ortağı Merkezi **tabanlı faturalama, kullanım tabanlı** faturalama ve **tek** **kullanımlık faturalamayı içerir.** 
 
 ### <a name="billing-currency"></a>Faturalama para birimi
 
-**Lisans tabanlı ve kullanım tabanlı faturalandırma**: ürün (ler) in bulunduğu ülkenin veya bölgenin para birimi cinsinden faturalandırılırsınız. Ürün (ler) i sattığınız müşterinin konumundan bağımsız olarak faturalandırılırsınız.
+**Lisans tabanlı ve kullanım tabanlı faturalama:** Ürünler için, içinde bulunduğu ülke veya bölgenin para birimiyle faturalandırabilirsiniz. Ürün veya ürünleri sattığınız müşterinin konumu ne olursa olsun aynı şekilde faturalandırılırsınız.
 
-**Tek seferlik faturalandırma**: 15 Ocak 2021 tarihinden ıtıbaren, AB/EFTA ve Birleşik Krallık bölgesindeki iş ortakları ve yeni müşteriler ve mevcut CSP müşterileri, kiracıların 11 Mayıs 2020 ' den önce oluşturulduğu ilk kez yeni ticaret teklifleri satın alarak, iş ortağı konumu para birimi için bu Satınalmalar için faturalandırılır.  AB/EFTA ve UK bölgesinin dışında bulunan iş ortakları, iş ortağı konumu para birimiyle faturalandırılmaya devam edecektir. [Kerelik ve yineleniyor](azure-plan-billing.md)hakkında daha fazla bilgi edinin. 
+**Tek sefer** faturalama: 28 Ocak 2021'den başlayarak, AB/EFTA ve Birleşik Krallık bölgesinde yeni müşterileri olan iş ortakları ve kiracıları 11 Mayıs 2020'den önce oluşturulmuş olan yeni ticaret tekliflerini ilk kez satın alan mevcut CSP müşterileri, bu satın almalar için iş ortağı konumu para birimi cinsinden faturalandıracak.  EU/EFTA ve Birleşik Krallık bölgesi dışında bulunan iş ortakları, iş ortağı konumu para birimiyle faturalandır olmaya devam edecektir. [Kerelik ve yineleniyor](azure-plan-billing.md)hakkında daha fazla bilgi edinin. 
 
 ## <a name="invoices"></a>Faturalar
 
@@ -83,32 +77,32 @@ Kredi veya ayarlama uygulandıktan sonra, bir sonraki fatura faturanızda **ayar
 
 Vadesi geçmiş miktardan ödeme yaptığınızda askıya alınmış hesaplarınızın tam işlevselliğini geri kazanabilirsiniz.
 
-Düzeltilen faturalandırma bilgileri sağlandığında, ödeme ortağı merkezi faturalama sayfasında 5 iş günü içinde görünür olacaktır.
+Düzeltilen faturalama bilgileri sağlandıktan sonra, ödemeniz 5 iş günü İş Ortağı Merkezi faturalama sayfasında görünür.
 
 ### <a name="taxes-and-vat"></a>Vergiler ve KDV
 
-Faturalama ilişkisi Microsoft ile sizin arasında olduğundan, ayrıntılarınız (müşterilerinizin ayrıntılarına değil) temel alınır. Hesap Kurulum işlemi sırasında veya daha sonra bir destek talebi aracılığıyla vergi tanımlarınızı gönderebilirsiniz. Değişikliklerin bir sonraki fatura döngünüzde yansıtıldığını görürsünüz.
+Faturalama ilişkisi Microsoft ile sizin arasında olduğundan, ayrıntılarınıza (müşterinizin ayrıntılarına değil) bağlı olarak vergi ödemeniz gerekir. Hesap kurulum işlemi sırasında veya daha sonra bir destek isteği aracılığıyla vergi tanımlayıcınızı gönderebilirsiniz. Değişikliklerin bir sonraki faturalama döneminize yansıdığını görüyorsunuz.
 
-**Stopaj ve satış vergisi muafiyeti** için, bir destek isteğiyle vergi belgelerini göndermeniz gerekir. Değişiklikleri ve bir sonraki fatura döngünüzde uygun para iadelerini görürsünüz. [Stopaj vergisini gönderme](withholding-tax-credit-form.md)hakkında daha fazla bilgi edinin. 
+Stopaj **ve satış vergisi muafiyeti için,** bir destek isteği aracılığıyla vergi belgelerini göndermeniz gerekir. Değişiklikleri ve uygun para iadelerini bir sonraki faturalama döneminiz boyunca göreceğiniz. Stopaj vergisi gönderme [hakkında daha fazla bilgi bulabilirsiniz.](withholding-tax-credit-form.md) 
 
-**Değer eklenmiş vergi (KDV) muafiyeti** için, bir hizmet ISTEğI ÜZERINDEN KDV kimliğinizi (Microsoft tarafından doğrulanan) göndermeniz gerekir.  KDV KIMLIĞI hesap kurulumundan sonra gönderilirse (bir destek talebi aracılığıyla), bu istekten önceki faturanızda fatura PDF 'sinde bir KDV KIMLIĞI damgalı olmayacaktır. Değişiklikleri bir sonraki fatura döngünüzde göreceksiniz.
+Katma **değerli vergi (KDV) muafiyeti** için, KDV No'nuzu (Microsoft tarafından doğrulanmış) bir hizmet isteği aracılığıyla göndermeniz gerekir.  KDV No, hesap kurulumundan sonra (destek isteği aracılığıyla) gönderildiyse, bu istekten önceki faturalarda fatura PDF'nize DAMGALI KDV No olmaz. Değişiklikleri bir sonraki faturalama döneminize bakarak göreceğiz.
 
-Yerel vergi Ofisinizden veya vergi danışmanınızdan daha fazla vergi ayrıntısı bulabilirsiniz.
+Yerel vergi ofisiniz veya vergi danışmanından daha fazla vergi ayrıntıları bulabilirsiniz.
 
-### <a name="adjustmentscreditscancellations"></a>Ayarlamalar/krediler/Iptaller
+### <a name="adjustmentscreditscancellations"></a>Düzeltmeler/Krediler/İptaller
 
-Lisanslı hizmetler için iptal kredileri, orta-döngülü iptalleri için kullanılmayan günler için Pro derecelendirilir (Ayrıca, bu formüle göre lisans azalır:
+Lisanslı tabanlı hizmetler için iptal kredileri, döngü ortası iptalleri için kullanılmayan günlere göre derecelendirilmiştir (lisans şu formüle göre azalır):
 
-[ROUND ((birim fiyatı * miktar/gün sayısı, Pro ölçülen ay sayısı, 2) *, Pro-derecelendirilen gün sayısı)/miktar, 2) * miktar] 
+[ROUND(ROUND(Unit Price * Quantity / Number of days in pro-rated Month, 2) * Number of pro-rated days) / Quantity, 2) * Quantity] 
 
-Microsoft, lisans tabanlı hizmetlerin iptali için erken sonlandırma ücretleri alınmaz.
+Microsoft, lisans tabanlı hizmetlerin iptali için erken sonlandırma ücretlerini ödemez.
 
-### <a name="billing-rules"></a>Faturalandırma kuralları
+### <a name="billing-rules"></a>Faturalama kuralları
 
-Bugün iki tür faturalandırma sıklığı vardır: yıllık & aylık.  
-Ölçülen hizmet ücretleri, fatura döngüsünün içinde değişebilir.
+Bugün iki tür faturalama sıklığı vardır: Yıllık &.  
+Tarifeli hizmet fiyatları fatura döngüsü içinde değişebilir.
 
-#### <a name="annual-billing-rules"></a>Yıllık faturalandırma kuralları 
+#### <a name="annual-billing-rules"></a>Yıllık faturalama kuralları 
 
 - Abonelikler yıllık ve otomatik olarak yenilenir.  
 
@@ -138,12 +132,12 @@ Aşağıdaki nedenlerden dolayı kredi veya fatura istemeniz gerekebilir:
 - Adres veya satın alma sipariş düzeltmeleri yapmanız gerekir.
 - Fatura oluşturulduktan sonra bir vergi iadesi uygulandı. Vergi iadesi orijinal faturaya geri çekmesini sağlamak için kredi veya fatura isteyebilirsiniz. Ayrıca, para iadesi için de geçerlidir. Orijinal faturaya ait bir kredi veya fatura talep edebilir, ardından bir para iadesi çekebilirsiniz.
 
-**Tek seferlik ve yinelenen Işlemler için**, Microsoft, kredi veya fatura istediğinizde Kredi dekontu verebilir. Kredi verildiğinde fatura iptal edilir. 
+**Tek seferlik ve yinelenen Işlemler için**, Microsoft, kredi veya fatura istediğinizde Kredi dekontu verebilir. Fatura, kredinin iptal edilmesiyle iptal edilir. 
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-- [Faturanızı ve mutabakat dosyanızı anlayın](read-your-bill.md)
-- [CSP program iş ortakları için genel faturalandırma senaryoları](common-billing-scenarios.md)
+- [Fatura ve mutabakat dosyanızı anlama](read-your-bill.md)
+- [CSP programı iş ortakları için yaygın faturalama senaryoları](common-billing-scenarios.md)
 - [Faturalama sıklığını değiştirme](common-billing-scenarios.md)
 - [Müşteri sipariş geçmişi](csp-offers.md) 
 - [Fiyatlandırma ve teklifler](pricing-and-offers.md)

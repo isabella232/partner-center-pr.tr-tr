@@ -1,6 +1,6 @@
 ---
-title: İşletmenizin büyümesine yardımcı olması için Azure kullanımını çözümleyin
-description: Müşterilerinizin Azure aboneliklerinin kullanımı hakkında veri almak için Iş Ortağı Merkezi 'ni nasıl kullanacağınızı öğrenin. Veriler, satılan ve kullanımda olan abonelikleri içerir.
+title: İşletmenizi büyümesine yardımcı olmak için Azure kullanımını analiz etme
+description: Müşterinizin Azure İş Ortağı Merkezi hakkında veri almak için İş Ortağı Merkezi kullanmayı öğrenin. Veriler satılan, risk altında ve kullanımda olan abonelikleri içerir.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: amitravat
@@ -9,46 +9,41 @@ ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/01/2020
-ms.openlocfilehash: 0a7bc34ded62eb9e19dbbad8e214eb30534b8ea6
-ms.sourcegitcommit: 7beb7327472dc1b0c07c101d121196fb2830bbf8
+ms.openlocfilehash: e2acdb777e0ef77ebf9d08eed3d3842c74af9e18
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96439117"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150242"
 ---
-# <a name="get-data-about-how-well-your-customers-and-azure-subscriptions-are-doing"></a>Müşterilerinizin ve Azure aboneliklerinizin ne kadar iyi yaptığına ilişkin verileri alın
+# <a name="get-data-about-how-well-your-customers-and-azure-subscriptions-are-doing"></a>Müşterilerin ve Azure aboneliklerin ne kadar iyi olduğu hakkında veri edinin
 
 
 
-**Uygun roller**
+**Uygun roller:** Genel yönetici | Kullanıcı yönetimi yönetici | Yönetici aracısı | Satış aracısı
 
-- Genel yönetici
-- Kullanıcı Yönetimi Yöneticisi
-- Yönetim Aracısı
-- Satış Aracısı
+Veriler iş kararlarını verir. Başarılarınızı ve daha fazla **dikkat gereken** alanları belirlemek için Azure kullanım sayfasındaki ölçümleri kullanın. Yeni iş hedeflerini planlarken bu bilgileri kullanın.
 
-Veri sürücüleri iş kararları. **Azure kullanımı** sayfasındaki ölçümleri, daha fazla ilgilenilmesi gereken başarıları ve alanlarınızı belirlemek için kullanın. Yeni iş hedeflerini planlarken bu bilgileri kullanın.
-
-**Azure kullanımına** ulaşmak Için Iş Ortağı Merkezi [panosunda](https://partner.microsoft.com/dashboard)oturum açın. Iş Ortağı Merkezi menüsünden **analiz** ' ı seçin ve ardından **Azure kullanımı**' nı seçin.
+Azure kullanımına **almak için panoda** İş Ortağı Merkezi [açın.](https://partner.microsoft.com/dashboard) İş Ortağı Merkezi  menüsünde Analiz'i ve ardından **Azure kullanımı'ı seçin.**
 
 > [!NOTE]
-> Azure Kullanım Analizi yalnızca bulut çözümü sağlayıcısı programındaki iş ortakları için kullanılabilir.
+> Azure kullanım analizi yalnızca iş ortağı programı Bulut Çözümü Sağlayıcısı kullanılabilir.
 
 Aşağıdaki ölçümleri izliyoruz:
 
 ## <a name="summary"></a>Özet
 
-- **Satılan toplam Azure aboneliği**: belirtilen dönemde satılan abonelik sayısı  
-- **Kullanım olan müşteriler**: belirtilen dönemde Azure kullanımı olan müşteri sayısı  
-- **Kullanım olmayan müşteriler**: belirtilen dönemde Azure kullanımı olmayan müşterilerin sayısı  
+- **Satılan toplam Azure aboneliği** sayısı: Belirtilen süre içinde satılan abonelik sayısı  
+- **Kullanımı olan müşteriler:** Belirtilen zaman dönemi içinde Azure kullanımı olan müşterilerin sayısı  
+- **Kullanımı olmayan müşteriler:** Belirtilen süre içinde Azure kullanımı olmayan müşterilerin sayısı  
 
-## <a name="top-5-customers-in-category"></a>Kategoride ilk 5 müşteri
+## <a name="top-5-customers-in-category"></a>Kategorideki ilk 5 müşteri
 
-- Belirtilen kategori için en iyi 5 müşteri  
+- Belirtilen kategori için ilk 5 müşteri  
 
 ## <a name="azure-subscriptions-at-risk"></a>Risk altında Azure abonelikleri
 
-Bu bölüm, Azure aboneliklerine yönelik tahmini dalgalanma riskini gösterir. Bu bilgiler, iş ortakları tarafından müşterilerle etkileşim kurmak ve karmaşıklığı en aza indirmek için kullanılabilir
+Bu bölüm, Azure abonelikleri için tahmin edilen veri kaynağı riskini gösterir. Bu bilgiler, iş ortakları tarafından müşterilerle etkileşime ve dalgalanmayı en aza indirmek için kullanılabilir
 
 ## <a name="subscriptions-without-usage"></a>Kullanım olmadan abonelikler
 

@@ -1,47 +1,45 @@
 ---
-title: Danışmanları-satın alma teklifi oluşturma
+title: Danışmanlar - satın alma teklifi oluşturma
 ms.topic: article
-ms.date: 05/17/2020
+ms.date: 05/13/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Yetkili bir abonelik Danışmanı 'nın, Office 365 deneme davetlerinde içerilecek bir satın alma teklifi ve özel URL oluşturmak için Iş Ortağı Merkezi 'ni nasıl kullanabileceği hakkında bilgi edinin.
+description: Yetkili bir abonelik danışmanının Office 365 deneme İş Ortağı Merkezi davetlerine dahil etmek üzere bir satın alma teklifi ve özel URL oluşturmak için İş Ortağı Merkezi'yi nasıl kullanabileceğini öğrenin.
 author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a60b75c9eee3601b488fd52fe22b4d2551b526e3
-ms.sourcegitcommit: 5ef0b231023395fb4bf01cb82d0eabd83e6cdaf4
+ms.openlocfilehash: 41337f6c760152122b050fe3b39d1545527b4a81
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/07/2021
-ms.locfileid: "106557758"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150446"
 ---
-# <a name="advisors-create-a-purchase-offer"></a>Danışmanları: satın alma teklifi oluşturma
+# <a name="advisors-create-a-purchase-offer"></a>Danışmanlar: Satın alma teklifi oluşturma
 
  
-**Uygun roller**
-
-- Advisor
+**Uygun roller:** Danışman
 
 
 > [!NOTE]
-> Bu özellik yalnızca abonelik danışmanları yetkilendirilmiş Microsoft iş ortakları tarafından kullanılabilir.
+> Bu özellik yalnızca yetkili abonelik danışmanları olan Microsoft iş ortakları tarafından kullanılabilir.
 
-Bir istemciye Office 365 için deneme sürümü daveti gönderdikten sonra, istemcinizin ihtiyaçlarını karşılayacak şekilde özelleştirilmiş bir satın alma teklifi oluşturup göndererek izleyebilirsiniz. Temsilcili yönetim sunmaya sertifikalıyorsanız, satın alma teklifine, hesabı istemciniz adına yönetmenizi sağlayan bir seçenek ekleyebilirsiniz.
+Bir istemciye Office 365 için deneme daveti gönderdikten sonra, istemcinizin gereksinimlerine uyacak şekilde özelleştirilmiş bir satın alma teklifi oluşturarak ve göndererek bunu takip edin. Temsilcili yönetim teklifine onay verdiyseniz satın alma teklifine, hesabı istemciniz adına yönetmenizi sağlayan bir seçenek eklemek için kullanabilirsiniz.
 
-Satın alma teklifini oluşturduğunuzda, **satın alma teklifi oluştur** Sihirbazı sizin için özel bir URL oluşturur. URL, sizi Abonelik danışmanı olarak tanımlayan katıştırılmış bir kod içerir. Bu URL 'YI bir veya daha fazla istemci için kullanabilirsiniz. URL 'YI bir e-posta ile istemcisine gönderin. Ya da URL 'YI Web sitenizde gönderebilirsiniz. İstemciniz teklifi kabul ediyorsa, istemciniz satın alma ile ilişkilendirilir.
+Satın alma teklifini oluştururken, Satın **alma teklifi oluşturma sihirbazı** sizin için özel bir URL oluşturur. URL'de sizi abonelik danışmanı olarak tanımlayan ekli bir kod vardır. Bu URL'yi bir veya daha fazla istemci için kullanabilirsiniz. URL'yi e-postayla istemcinize gönderin. Veya URL'yi web sitenize de paylaşabilirsiniz. İstemciniz teklifi kabul ederse, istemcinizin satın alma ile ilişkilendirilen bir kullanıcı olur.
 
-İstemciniz farklı sayıda lisans istiyorsa, bu kişilere yeni bir teklif gönderin veya aboneliği satın alırken lisansların sayısını değiştirebilirler.
+İstemciniz farklı sayıda lisans istiyorsa yeni bir teklif gönderin veya aboneliği satın alan lisans sayısını değiştirebilir.
 
 ## <a name="to-create-a-purchase-offer"></a>Satın alma teklifi oluşturmak için
 
-1. **Denemeler ve satın alma teklifleri**  >  **Oluştur teklifi**' ne gidin.
+1. Denemeler **ve satın alma teklifleri Teklif**  >  **oluştur'a gidin.**
 
-2. **Satın alma teklifi oluştur** sayfasında, dahil etmek istediğiniz satın alma teklifi seçeneklerini belirleyin:
+2. Satın **alma teklifi oluştur** sayfasında, dahil etmek istediğiniz satın alma teklifi seçeneklerini belirleyin:
 
-    - **Iş ortağı ofisi**: Şirketinizde birden çok ofis varsa, bu satın alma teklifini ilişkilendirmek istediğiniz ofisi seçin.
+    - **İş ortağı** ofisi: Şirketinizin birden çok ofisi varsa, bu satın alma teklifini ilişkilendirmek istediğiniz ofisi seçin.
 
-        İş ortağı ofis konumları eklemek için bkz. [konum ekleme](manage-locations.md). Yeni ofis konumları, **Iş ortağı ofisi** listesinde görünen 24 saate kadar sürebilir.
+        İş ortağı ofisi konumlarını eklemek için [bkz. Konum ekleme.](manage-locations.md) Yeni ofis konumları oluşturulduktan 24 saat sonra İş ortağı ofis listesinde **görünmesini** gerektirir.
 
     - **Kullanım konumu**: istemcinizin Hizmetleri kullanacağı konumu seçin.
     - **Abonelikler**: seçebileceğiniz aboneliklerin listesi, istemcinizin ülke veya bölgesinin kullanım konumu tarafından belirlenir. İstemcinizi sunduğunuz abonelik veya aboneliklerin kutusunu işaretleyin.
@@ -70,3 +68,4 @@ Satın alma teklifini oluşturduğunuzda, **satın alma teklifi oluştur** Sihir
 ## <a name="next-steps"></a>Sonraki adımlar
 
 - [Office 365 deneme davetlerini ve satın alma tekliflerinizi kullanarak istemci tabanınızı oluşturun](advisors-build-your-business.md)
+- [İş ortakları artık danışmanları olarak kayıt olamaz](advisors-no-csp.md)

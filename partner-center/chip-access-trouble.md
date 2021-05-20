@@ -9,18 +9,16 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 87a39479d8a567759356e1b101fdab83a2fa0d94
-ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
+ms.openlocfilehash: eec04bb75a1c8b2979a6d543770fd31d21f607c2
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96570612"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110149069"
 ---
 # <a name="troubleshoot-issues-with-accessing-chip"></a>YONGADA erişme sorunlarını giderme
 
-**Uygun roller**
-
-- Birincil kişi veya Program Yöneticisi
+**Uygun roller**: birincil iletişim veya Program Yöneticisi
 
 >[!NOTE]
 >YONGA platformu 2021 sonunda kullanımdan kaldırılacaktır.

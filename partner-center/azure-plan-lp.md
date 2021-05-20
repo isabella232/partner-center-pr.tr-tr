@@ -9,20 +9,16 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 87638a036086db933e0375ec232f2d512d73653e
-ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
+ms.openlocfilehash: de0f13bab73eebde3c1cf12db586d07c47b277f6
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "96534752"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110149630"
 ---
 # <a name="introduction-azure-plan-lets-partners-buy-azure-at-pay-as-you-go-rates-for-customers"></a>Giriş: Azure planı, iş ortaklarının müşteriler için Kullandıkça Öde tarifesine Azure satın almasını sağlar
 
-**Uygun roller**
-
-- Yönetim Aracısı
-- Satış Aracısı
-- Genel yönetici
+**Uygun roller**: yönetici Aracısı | Satış Aracısı | Genel yönetici
 
 Microsoft, Azure planı olan Iş Ortağı Merkezi 'nde yeni bir ticari deneyim sunmuştur.  Bu yeni ticaret deneyimiyle, iş ortakları, Microsoft Müşteri anlaşmasındaki müşterilere yönelik Kullandıkça Öde tarifelerine göre Azure hizmetlerine erişim kazanacaktır.
 
@@ -41,12 +37,12 @@ Mevcut CSP Azure tekliflerinden müşterilerinizi, Iş Ortağı Merkezi 'nin iç
 |**Bunu yapmak için**   |**Bunu okuyun**   |
 |------------------|---------------------|
 |Azure planına geçmeyi Başlat|[Azure planına taşıma-kullanmaya başlama](azure-plan-get-started.md)
-|Müşterilerinizin PAYG 'den Azure planına geçişini yapın|[Müşterinizi Azure planına geçirin](azure-plan-transition.md)|
-|Müşterileriniz için Azure planı satın alın|[Azure planı satın alma](purchase-azure-plan.md)|
-|24 X 7 bulut-operasyon yönetimi sağlayan faturalandırma ortakları, bu iş için **yönetilen hizmetler için bir Iş ortağı tarafından kazanılan kredi** için uygun hale gelir.|[Iş ortağı kazanılmış kredi-genel bakış](partner-earned-credit.md) ve [ortağın kazanıldığı kredi nasıl belirlenir-Ayrıntılar](partner-earned-credit-explanation.md)|
-|Azure teklif türlerinin yan yana karşılaştırmasını görün|[Azure tekliflerini karşılaştırma](compare-azure-offers.md)|
-|Azure planı kapsamındaki müşterilerin aboneliklerini ve kaynaklarını yönetme|[Azure planı kapsamındaki abonelikleri ve kaynakları yönetme](azure-plan-manage.md)|
-|Azure plan fiyat listesini okumayı öğrenin   |[Azure planı fiyat listesi açıklanıyor](azure-plan-price-list.md)|
-|Azure planı nerede kullanılabilir?|[Azure planının kullanılabildiği ülkelerin/bölgelerin tam listesi](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3QN0x)
-|Ortağın kazanılmış kredisi nasıl hesaplanacağını görmek için Iş Ortağı Merkezi Pano fiyat listenizde oturum açmanız gerekir|[İş Ortağı Merkezi panosu](https://partner.microsoft.com/dashboard/home)|
-|Azure planı altında faturalandırma|[Azure Faturalandırma](azure-plan-billing.md)|
+|Müşterilerinize PAYG'den Azure planına geçiş|[Müşterinizi Azure planına geçirin](azure-plan-transition.md)|
+|Müşterileriniz için Azure planını satın alma|[Azure planı satın alma](purchase-azure-plan.md)|
+|7/24 bulut operasyonları yönetimi sağlayan faturalama iş ortakları, bu iş için yönetilen hizmetler için İş ortağı tarafından kazanılan **kredi** için uygun hale gelir.|[İş ortağı tarafından kazanılan kredi - genel](partner-earned-credit.md) bakış ve İş ortağı tarafından kazanılan kredi nasıl belirlenir ? [ayrıntılar](partner-earned-credit-explanation.md)|
+|Bkz. Azure teklifi türlerinin yan yana karşılaştırması|[Azure tekliflerini karşılaştırma](compare-azure-offers.md)|
+|Azure planı kapsamında müşterilerin aboneliklerini ve kaynaklarını yönetme|[Azure planı kapsamındaki abonelikleri ve kaynakları yönetme](azure-plan-manage.md)|
+|Azure planı fiyat listesini okumayı öğrenin   |[Azure planı fiyat listesi açıklandı](azure-plan-price-list.md)|
+|Azure planı nerede kullanılabilir?|[Azure planının kullanılabilir olduğu ülkelerin/bölgelerin tam listesi](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3QN0x)
+|İş ortağı tarafından kazanılan kredinin nasıl hesaplanmış olduğunu görmek için pano fiyat İş Ortağı Merkezi oturum açmanız gerekir|[İş Ortağı Merkezi panosu](https://partner.microsoft.com/dashboard/home)|
+|Azure planı kapsamında faturalama|[Azure faturalaması](azure-plan-billing.md)|

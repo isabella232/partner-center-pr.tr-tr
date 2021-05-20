@@ -1,44 +1,42 @@
 ---
-title: Azure planı-abonelikleri & kaynakları yönetme
+title: Azure planı - Abonelikleri ve & yönetme
 ms.topic: article
 ms.date: 05/06/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: İş ortaklarının, bir müşterinin Azure kaynaklarının işletimsel denetimini ve yönetimini sağlamak için farklı rol tabanlı erişim denetimi (RBAC) seçeneklerini nasıl kullanabileceğinizi öğrenin.
+description: İş ortaklarının müşterinin Azure kaynaklarının operasyonel denetimi ve yönetimini elde etmek için farklı rol tabanlı erişim denetimi (RBAC) seçeneklerini nasıl kullanabileceğini öğrenin.
 author: amitravat
 ms.author: amrava
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 31e9c6862a5aa19407fa6da5e15333bb7e696720
-ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
+ms.openlocfilehash: 18cc5c62beaa76f6e3ade79f2f2069e0f2bd3c7e
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "96534939"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110149613"
 ---
 # <a name="manage-subscriptions-and-resources-under-the-azure-plan"></a>Azure planı kapsamındaki abonelikleri ve kaynakları yönetme
 
-**Uygun roller**
-
-- Yönetim Aracısı
+**Uygun roller:** Yönetici aracısı
 
 
-Bu makalede, CSP iş ortaklarının bir müşterinin Azure kaynaklarının işletimsel denetimini ve yönetimini sağlamak için farklı rol tabanlı erişim denetimi (RBAC) seçeneklerini nasıl kullanabileceği açıklanmaktadır. Bir müşteriyi Azure planına aktardığınızda, varsayılan olarak Azure 'da ayrıcalıklı yönetici hakları (adına yönetici aracılığıyla abonelik sahibi hakları) atanır.
+Bu makalede, CSP iş ortaklarının müşterinin Azure kaynaklarının operasyonel denetimi ve yönetimini elde etmek için farklı rol tabanlı erişim denetimi (RBAC) seçeneklerini nasıl kullanabileceği açıklanmıştır. Bir müşteriyi Azure planına geçişte size varsayılan olarak Azure'da ayrıcalıklı yönetici hakları (adına yönetici aracılığıyla abonelik sahibi hakları) atanır.
 
  > [!NOTE]
- > Azure aboneliğine yönetici hakları bir abonelik, kaynak grubu veya iş yükü düzeyinde müşteri tarafından kaldırılabilir. 
+ > Azure aboneliğine yönelik yönetici hakları müşteri tarafından abonelik, kaynak grubu veya iş yükü düzeyinde kaldırılabilir. 
 
- İş ortakları, rol tabanlı erişim denetimi özelliği (RBAC) ile sunulan farklı seçenekleri kullanarak bir müşterinin Azure kaynaklarını, CSP 'de 7/24 işletimsel denetim ve yönetim elde edebilir. 
+ İş ortakları, rol tabanlı erişim denetimi özelliği (RBAC) aracılığıyla sağlanan farklı seçenekleri kullanarak CSP'de müşterinin Azure kaynaklarının 7x24 operasyonel denetimine ve yönetimine sahip olabilir. 
 
-- **Adına yönetici (Aobo)** - [AOCE](https://channel9.msdn.com/Series/cspdev/Module-11-Admin-On-Behalf-Of-AOBO)ile, Iş ortağı kiracısında yönetici aracı rolüne sahip HERHANGI bir Kullanıcı, CSP programı aracılığıyla oluşturduğunuz Azure aboneliklerine RBAC sahibi erişimine sahip olur.
+- **Adına Yönetici (AOBO)** - [AOBO](https://channel9.msdn.com/Series/cspdev/Module-11-Admin-On-Behalf-Of-AOBO)ile, iş ortağı kiracısında Yönetici Aracısı rolüne sahip tüm kullanıcılar, CSP programı aracılığıyla oluşturacakları Azure aboneliklerine RBAC sahibi erişimine sahip olur.
 
-- **Azure açık Thouse**: Aobo, farklı müşterilerle çalışan ayrı gruplar oluşturma veya gruplar veya kullanıcılar için farklı rolleri etkinleştirme esnekliğine izin vermez. Azure Athouse kullanarak farklı müşterilere veya rollere farklı gruplar atayabilirsiniz. Kullanıcılar, Azure tarafından atanan kaynak yönetimi aracılığıyla uygun düzeyde erişime sahip olacağı için, Yönetim Aracısı rolüne sahip kullanıcı sayısını azaltabilir (ve bu nedenle tam AOBO erişimi vardır). Bu, müşterilerinizin kaynaklarına gereksiz erişimi sınırlayarak güvenliği artırmaya yardımcı olur. Ayrıca, birden çok müşteriyi ölçekli olarak yönetme konusunda daha fazla esneklik sağlar. Daha fazla bilgi için [Azure açık Thouse ve bulut çözümü sağlayıcısı programı](/azure/lighthouse/concepts/cloud-solution-provider)makalesini okuyun.
+- **Azure Lighthouse:** AOBO, farklı müşterilerle birlikte çalışmak veya gruplar ya da kullanıcılar için farklı roller etkinleştirmek için ayrı gruplar oluşturma esnekliğine izin vermez. Bu Azure Lighthouse kullanarak farklı müşterilere veya rollere farklı gruplar at attırma. Kullanıcılar Azure tarafından temsilci olarak yetki verilen kaynak yönetimi aracılığıyla uygun erişim düzeyine sahip olduğundan, Yönetici Aracısı rolüne (ve dolayısıyla tam AOBO erişimine sahip olan) kullanıcı sayısını azaltabilirsiniz. Bu, müşterilerin kaynaklarına gereksiz erişimi sınırlandırarak güvenliğin iyileştirilmesine yardımcı olur. Ayrıca, büyük ölçekte birden çok müşteriyi yönetmek için daha fazla esneklik sağlar. Daha fazla bilgi için [Azure Lighthouse programı Bulut Çözümü Sağlayıcısı okuyun.](/azure/lighthouse/concepts/cloud-solution-provider)
 
 - **Dizin veya Konuk kullanıcılar veya [hizmet sorumluları](/azure/active-directory/develop/app-objects-and-service-principals)**: müşteri dizinine kullanıcı ekleyerek veya Konuk KULLANıCıLAR ekleyerek ve belırlı RBAC rolleri atayarak CSP aboneliklerine ayrıntılı erişim yetkisini atayabilirsiniz.
 
 Microsoft, kullanıcıların işlerini bir güvenlik uygulaması olarak gerçekleştirmesi için gereken en düşük izinlere sahip olmasını önerir. Bkz. [Azure Active Directory Privileged Identity Management kaynakları](/azure/active-directory/privileged-identity-management/pim-configure).
 
-## <a name="link-your-partner-id-mpn-idto-your-credentials-for-managing-customers-azure-resources"></a>İş ortağı KIMLIĞINIZI (MPN KIMLIĞI), müşterinin Azure kaynaklarını yönetmek için kimlik bilgilerinizle ilişkilendirin
+## <a name="link-your-partner-id-mpn-id-to-your-credentials-for-managing-customers-azure-resources"></a>İş ortağı KIMLIĞINIZI (MPN KIMLIĞI), müşterinin Azure kaynaklarını yönetmek için kimlik bilgilerinizle ilişkilendirin
 
 Aşağıdaki tabloda, iş ortağı KIMLIĞINIZI çeşitli RBAC erişim seçenekleriyle ilişkilendirmek için kullanılan yöntemler gösterilmektedir.
 
@@ -75,16 +73,16 @@ Müşteriler Azure portal **Access Control** giderek aboneliklerine erişimi yö
 
 - [Rol tabanlı erişim denetimi (RBAC)](/azure/role-based-access-control/overview)ile sunulan erişimi kullanın.
 
-- [Azure ışıklı kullanımı](https://azure.microsoft.com/services/azure-lighthouse/)üzerinden sunulan erişimi kullanın.
+- üzerinden sağlanan erişimi [Azure Lighthouse.](https://azure.microsoft.com/services/azure-lighthouse/)
 
-Rol tabanlı erişim, yönetici erişiminden farklıdır. Roller, ne yapabileceğinize ve yapabileceğinize tam olarak göre sınırlandırın. Yönetici erişimi daha geniş.
+Rol tabanlı erişim, yönetici erişiminden farklıdır. Roller, neler yapa ve neleri yapamaylarını tam olarak sınırlandırma. Yönetici erişimi daha geniştir.
 
-PEC kazanmak için uygun rolleri görmek için, [iş ortağı tarafından kazanılan kredi Için rolleri ve izinleri](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3QuW2)okuyun.
+PEC puanı almaya uygun rolleri görmek için bkz. İş ortağı tarafından kazanılan [kredi için roller ve izinler.](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3QuW2)
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-- [Azure CSP abonelikleri için yönetici ayrıcalıklarını iptal etme ve yeniden verme](revoke-reinstate-csp.md)
+- [Abonelikler için yönetici ayrıcalıklarını iptal Azure CSP geri alma](revoke-reinstate-csp.md)
 
-- [İş ortağı kazanılmış kredi-genel bakış](partner-earned-credit.md)
+- [İş ortağı tarafından kazanılan kredi - genel bakış](partner-earned-credit.md)
 
-- [Yönetilen hizmetler için iş ortağı kazanılmış kredisi](partner-earned-credit-explanation.md)
+- [Yönetilen hizmetler için iş ortağı tarafından kazanılan kredi](partner-earned-credit-explanation.md)

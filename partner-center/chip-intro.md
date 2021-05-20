@@ -9,21 +9,19 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 386acaadc74c1c8247a42cebc98c3d325ba43511
-ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
+ms.openlocfilehash: ebee6f49a57eb56429f33291768347be505e3b37
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96570412"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148967"
 ---
 # <a name="navigate-the-channel-incentives-platform-chip"></a>Channel teşvikleri platformunda (yonga) gezinme
 
+**Uygun roller**: yonga Yöneticisi
+
 >[!NOTE]
 >YONGA platformu 2021 sonunda kullanımdan kaldırılacaktır.
-
-**Uygun roller**
-
-- YONGA Yöneticisi
 
 ## <a name="sign-into-the-chip-dashboard"></a>YONGA panosunda oturum açın
 

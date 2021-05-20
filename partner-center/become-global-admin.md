@@ -1,51 +1,48 @@
 ---
-title: Şirketiniz için genel yönetici olun
+title: Şirketiniz için genel yönetici olma
 ms.topic: how-to
 ms.date: 12/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: İş Ortağı Merkezi 'nde çalışmak için öncelikle etki alanınızı sahipliğini doğrulamanız gerekir. Bunu nasıl yapacağınızı ve Kullanıcı ekleyebilen bir genel yönetici olmaya nasıl yapılacağını öğrenin.
+description: Bir etki İş Ortağı Merkezi için öncelikle etki alanınız sahipliğini doğrulamanız gerekir. Bunu yapmayı ve kullanıcı ekley kullanıcılara genel yönetici olma hakkında bilgi edinebilirsiniz.
 author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bb6b167cafec3574906377281cf4699b0a15c32e
-ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
+ms.openlocfilehash: 94425b0695ed0e3ec89e5953f648f5de7a199432
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96570731"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110149307"
 ---
 # <a name="verify-your-domain-ownership-to-become-global-admin"></a>Genel yönetici olmak için etki alanının sahibi olduğunuzu doğrulayın 
 
 
-**Uygun roller**
+**Uygun roller:** Genel yönetici | Hesap yöneticisi
 
-- Genel yönetici
-- Hesap yöneticisi
+Şirket içinde İş Ortağı Merkezi için öncelikle etki alanınız sahipliğini doğrulamanız ve şirketinizin genel yöneticisi haline gelirsiniz. Ayrıca, çalışanlarınıza çalışmaya başlamak için gereken roller atanmamış olur.  Bu rolde İş Ortağı Merkezi için herkesin atanmış izinler içeren bir rolü olması gerekir.  
 
-İş Ortağı Merkezi 'nde çalışmak için, önce etki alanının sahipliğini doğrulamanız ve şirketiniz için bir genel yönetici olmanız gerekir. Ayrıca, çalışanlarınıza çalışmaya başlamak için gereken roller atanmaz.  İş Ortağı Merkezi 'nde çalışmak için herkese atanmış izinleri içeren bir rolü olması gerekir.  
+## <a name="verify-your-domain-ownership-to-become-a-global-admin-in-partner-center"></a>Etki alanı sahipliğinizi doğrulama ve etki alanında genel yönetici İş Ortağı Merkezi
 
-## <a name="verify-your-domain-ownership-to-become-a-global-admin-in-partner-center"></a>Etki alanı sahipliğiniz Iş Ortağı Merkezi 'nde genel yönetici olacak şekilde doğrulayın
+Şirketinizin genel yöneticisi olmak için etki alanı sahipliğini doğrulamanız gerekir.
 
-Şirketiniz için genel yönetici olmak üzere etki alanı sahipliğini doğrulamanız gerekir.
+1. Yeni İş Ortağı Merkezi sayfasındaki Üyelik teklifleri **sayfasında** Genel yönetici **olma'ya tıklayın.** 
 
-1. Iş Ortağı Merkezi panosunda **Üyelik teklifleri** sayfasında, **genel yönetici olun**' ı seçin. 
+2. Etki **alanı sahipliğini doğrula** sayfasında, tablodaki TXT değerlerini kopyalayın. Etki alanınız sizin için zaten seçilmiştir.
 
-2. **Etki alanı sahipliğini doğrula** sayfasında txt değerlerini tablodan kopyalayın. Etki alanınız sizin için zaten seçili olduğuna dikkat edin.
+3. Etki alanınız içinde oturum açma. 
 
-3. Etki alanında oturum açın. 
+4. TXT değerlerini DNS formuna yapıştırmak için etki alanınız tarafından belirtilen adımları izleyin.  Bu, çalışmaya çalıştığınız etki alanının size ait olduğunu doğrulamamızı sağlar.
 
-4. TXT değerlerini DNS formuna yapıştırmak için etki alanınızı sağlayan adımları izleyin.  Bu, çalışmayı denediğiniz etki alanının sahibi olduğunuzu doğrulamamızı sağlar.
+5. İş Ortağı Merkezi geri dönüp **Tamam'ı seçin, kaydı ekledim**
 
-5. Iş Ortağı Merkezi 'ne dönüp **Tamam 'ı seçin, kaydı ekledim**
+6. Doğrulama tamamlandıktan sonra oturum açmanız gerekir. Durumu yenilemek için yeniden oturum açma. 
 
-6. Doğrulama tamamlandıktan sonra oturumunuzu açmanız gerekir. Durumunuzu yenilemek için yeniden oturum açın. 
-
-Etki alanınızı sahipliğin doğrulanması, genel yönetici de sağlar. Genel yönetici rolüyle gelen bazı izinler şunlardır:
+Etki alanınız sahipliğini doğrulamak sizi genel yönetici yapar. Genel yönetici rolüyle birlikte gelen izinlerden bazıları:
 
 - Tüm Microsoft hesabı/hizmetlere tam ayrıcalıklarla erişebilir 
-- Iş Ortağı Merkezi için destek biletleri oluşturma
+- İş Ortağı Merkezi için destek biletleri oluşturma
 - Sözleşmeleri, Fiyat listelerini ve teklifleri görüntüleme
 - Faturalandırma
 - İş ortağı kullanıcılarını görüntüleme, oluşturma ve yönetme

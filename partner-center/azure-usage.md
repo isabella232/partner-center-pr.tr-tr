@@ -1,6 +1,6 @@
 ---
 title: Maksimum rezervasyon kullanımı için Azure VM boyutlandırması
-description: Bir sanal makineyi (VM), müşteriler için Microsoft Azure ayırmaları satın aldığınızda müşterilerinizin bilgi işlem ihtiyaçlarına göre nasıl boyutlandırdığını öğrenin.
+description: Bir sanal makineyi (VM) müşteriler için rezervasyon satın alan müşterilerin bilgi işlem ihtiyaçlarına göre Microsoft Azure öğrenin.
 ms.topic: how-to
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,51 +9,48 @@ ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
 ms.date: 08/06/2020
-ms.openlocfilehash: 226ebd27b4ca4cdef56ce833a58a10bed89f8056
-ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
+ms.openlocfilehash: 14d488091227e30909b3d41af0684494a8b55de7
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "96534956"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110149460"
 ---
 # <a name="microsoft-azure-vm-sizing-for-maximum-reservation-usage"></a>Maksimum ayırma kullanımı için Microsoft Azure VM boyutlandırması
 
-**Uygun roller**
+**Uygun roller:** Yönetici aracısı | Satış aracısı
 
-- Yönetim Aracısı
-- Satış Aracısı
-
-Bu makalede, bir sanal makinenin (VM) müşterilere bilgi işlem gereksinimlerine göre nasıl boyutlandırılacağını ve bunlara yönelik Microsoft Azure ayırmaları satın almanız açıklanmaktadır.
+Bu makalede, bir sanal makineyi (VM) müşteriler için rezervasyon satın alan müşterilerin bilgi işlem ihtiyaçlarına Microsoft Azure açıklanmıştır.
  
 > [!NOTE]
-> Bu makale yalnızca bulut çözümü sağlayıcısı (CSP) programındaki iş ortakları için geçerlidir. Diğer abonelik türleri (örneğin, Kullandıkça öde, bireysel, Microsoft Müşteri Sözleşmesi veya Kurumsal Anlaşma abonelikleri) kullanan müşteriler [Bu Azure ayırmaları belgelerini](/azure/cost-management-billing/reservations)okumalı olmalıdır.
+> Bu makale yalnızca Bulut Çözümü Sağlayıcısı (CSP) programı iş ortakları için geçerlidir. Diğer abonelik türlerini (kullansanız öde, bireysel, Microsoft Müşteri Sözleşmesi veya Kurumsal Anlaşma abonelikler gibi) kullanan müşterilerin bu Azure rezervasyonları belgelerini [okuması gerekir.](/azure/cost-management-billing/reservations)
 
-## <a name="determine-the-vm-size-for-a-customers-azure-reservation"></a>Müşterinin Azure ayırması için VM boyutunu belirleme
+## <a name="determine-the-vm-size-for-a-customers-azure-reservation"></a>Müşterinin Azure rezervasyonu için VM boyutunu belirleme
 
-Müşterileriniz adına Microsoft Azure ayırmaları satın alırken müşterinin bilgi işlem ihtiyaçlarını karşılamak için boyutlandırılmış bir sanal makine (VM) seçmeniz gerekir. Aşağıdaki yöntemlerden birini kullanarak bu bilgileri bulabilirsiniz:
+Müşterileriniz adına Microsoft Azure rezervasyon satın alırken, müşterinin bilgi işlem ihtiyaçlarını karşılamak için boyutlandırıldı bir sanal makine (VM) seçmeniz gerekir. Bu bilgileri şu yöntemlerden birini kullanarak bulabilirsiniz:
 
-- Azure kullanım API 'SI
+- Azure kullanım API'si
 - Azure portal
 - Azure PowerShell
-- Azure Resource Manager (ARM) API 'SI
+- Azure Resource Manager (ARM) API'si
 
-Bu yöntemlerin her birini kullanmaya yönelik yönergeler aşağıda verilmiştir. Bir rezervasyon satın aldıktan sonra, rezervasyon iskontosu, rezervasyonun öznitelikleriyle ve miktarıyla eşleşen sanal makinelere otomatik olarak uygulanır. Ayırmayı bir VM 'ye atamanız gerekmez.
+Bu yöntemlerin her birini kullanmaya ilişkin yönergeler aşağıda verilmiştir. Rezervasyon satın aldıktan sonra rezervasyon indirimi, rezervasyonun öznitelikleriyle ve miktarıyla eşleşen sanal makinelere otomatik olarak uygulanır. Rezervasyonu bir VM'ye atamanız gerek değildir.
 
 >[!NOTE]
->Rezervasyon iskontoları, klasik veya promosyon VM 'lerine uygulanmaz.
+>Rezervasyon indirimleri klasik veya promosyon amaçlı VM'ler için geçerli değildir.
 
 >[!IMPORTANT]
->Müşterinizin adına satın alacağınız VM 'nin türünü ve boyutunu doğru şekilde belirlemek için, VM Serisi türü Iş Ortağı Merkezi mutabakatı dosyalarında doğru görüntülenmediğinden aşağıda açıklanan yöntemlerden birini kullanmanız gerekir.
+>Müşteriniz adına satın alacak VM'nin türünü ve boyutunu doğru şekilde tanımlamak için, VM serisi türü, müşteri mutabakat dosyalarında doğru şekilde görüntülenmezken aşağıda açıklanan yöntemlerden birini İş Ortağı Merkezi gerekir.
 
-### <a name="get-vm-sizing-information-using-the-azure-utilization-api"></a>Azure kullanım API 'sini kullanarak VM boyutlandırma bilgilerini alın
+### <a name="get-vm-sizing-information-using-the-azure-utilization-api"></a>Azure kullanım API'sini kullanarak VM boyutlandırma bilgilerini edinin
 
-1. Satın alınan VM boyutunu belirlemek için API yanıtında AdditionalInfo öğesinden ServiceType özniteliği için değeri kullanın.
+1. Satın alacak VM boyutunu belirlemek için API yanıtta additionalInfo'dan ServiceType özniteliği değerini kullanın.
 
-2. Daha fazla bilgi için bkz. [Iş ortağı MERKEZI API](/partner-center/develop/)'de [Azure için bir müşterinin kullanım kayıtlarını edinme](/partner-center/develop/get-a-customer-s-utilization-record-for-azure) .
+2. Daha fazla bilgi için [api'sinde Azure için müşterinin](/partner-center/develop/get-a-customer-s-utilization-record-for-azure) kullanım kayıtlarını [İş Ortağı Merkezi bakın.](/partner-center/develop/)
 
-### <a name="get-vm-sizing-information-using-the-microsoft-azure-portal"></a>Microsoft Azure portal kullanarak VM boyutlandırma bilgilerini alın
+### <a name="get-vm-sizing-information-using-the-microsoft-azure-portal"></a>Sanal makineyi kullanarak VM boyutlandırma bilgilerini Microsoft Azure portal
 
-1. Iş Ortağı Merkezi 'nde **müşteriler** sayfanıza gidin.
+1. Bu İş Ortağı Merkezi Müşteriler **sayfanıza** gidin.
 
 2. Azure VM ayırmaları satın almak isteyen müşteriyi bulun ve ardından müşterinin bilgilerini genişletmek için aşağı oku seçin. **Microsoft Azure yönetim portalı** ' yi seçerek müşterinin kaydını Azure Portal açın.
 

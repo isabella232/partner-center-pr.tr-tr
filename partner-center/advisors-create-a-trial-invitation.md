@@ -1,44 +1,42 @@
 ---
 title: Office 365 deneme daveti oluşturma
 ms.topic: article
-ms.date: 04/28/2020
+ms.date: 05/13/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: İş ortaklarının, Office 365 ' i denemek üzere istemcileri için deneme davetleri oluşturup gönderebileceğine ve gönderebileceğine öğrenin. İş ortaklarının yetkili bir abonelik Danışmanı olması çok daha fazla.
+description: İş ortaklarının Office 365'i denemek için istemcileri için deneme davetleri oluşturma ve gönderme hakkında bilgi. İş ortakları, yetkili bir abonelik danışmanıdır.
 author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 8c6f6cb5ba700618aebe773cffd566e4077a676d
-ms.sourcegitcommit: 5ef0b231023395fb4bf01cb82d0eabd83e6cdaf4
+ms.openlocfilehash: 5e34ebe290941ee24a9e945c1b1b34abd9f4baa3
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/07/2021
-ms.locfileid: "106557724"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150327"
 ---
-# <a name="advisors-create-and-send-a-trial-invitation-for-clients-to-try-office-365"></a>Danışmanları: Office 365 ' i denemek için istemciler için deneme daveti oluşturma ve gönderme
+# <a name="advisors-create-and-send-a-trial-invitation-for-clients-to-try-office-365"></a>Danışmanlar: İstemcilerin Office 365'i denemesi için deneme daveti oluşturma ve gönderme
 
 
-**Uygun roller**
-
-- Advisor
+**Uygun roller:** Danışman
 
 > [!NOTE]
-> Bu özellik yalnızca abonelik danışmanları yetkilendirilmiş Microsoft Iş ortakları tarafından kullanılabilir.
+> Bu özellik yalnızca yetkili abonelik danışmanları olan Microsoft İş Ortakları tarafından kullanılabilir.
 
-Office 365 ' i deneyebilmeleri için, istemcilerinize deneme davetleri oluşturup gönderebilirsiniz. Deneme daveti oluşturduğunuzda **deneme daveti oluşturma** Sihirbazı sizin için özel bir URL oluşturur. URL, sizi Abonelik danışmanı olarak tanımlayan katıştırılmış bir kod içerir. Bu URL 'YI bir veya daha fazla istemci için kullanabilirsiniz. URL 'YI bir e-posta ile istemcisine gönderin veya diğer belgelerde URL 'YI kullanın. Abonelik, belirli bir teklifine bağlı olarak bir veya daha fazla hizmet içerebilir. Bir davet tek seferde yalnızca bir deneme aboneliği için gönderilebilir.
+Office 365'i denemeleri için istemcilerinize deneme davetleri oluşturabilir ve göndersiniz. Deneme daveti oluştururken, Deneme **daveti oluşturma sihirbazı** sizin için özel bir URL oluşturur. URL'de sizi abonelik danışmanı olarak tanımlayan ekli bir kod vardır. Bu URL'yi bir veya daha fazla istemci için kullanabilirsiniz. URL'yi e-postayla istemcinize gönderin veya DIĞER belgelerde kullanın. Abonelik, belirli bir teklife bağlı olarak bir veya daha fazla hizmet içerebilir. Aynı anda yalnızca bir deneme aboneliği için davet gönderebilirsiniz.
 
-Temsilcili yönetim sunmaya sertifikalıyorsanız, deneme davetine, hesabı istemciniz adına yönetmenizi sağlayan bir seçenek ekleyebilirsiniz. Bu, istemcinizin Office 365 ' i denemesini kolaylaştırır.
+Temsilci ile yönetim sunma sertifikasına sahipseniz, deneme davetine, hesabı istemciniz adına yönetmenizi sağlayan bir seçenek ebilirsiniz. Bu, istemcinizin Office 365'i denemesini kolaylaştırır.
 
-## <a name="to-create-a-trial-invitation"></a>Deneme davetiyesi oluşturmak için
+## <a name="to-create-a-trial-invitation"></a>Deneme daveti oluşturmak için
 
-1. **Denemeler ve satın alma teklifleri** için  >  **davetiye oluştur**' a gidin.
+1. Denemeler **ve satın alma teklifleri Davet**  >  **oluştur'a gidin.**
 
-2. **Deneme daveti oluştur** sayfasında, dahil etmek istediğiniz deneme davetiyesi seçeneklerini belirleyin:
+2. Deneme **daveti oluştur** sayfasında, eklemek istediğiniz deneme daveti seçeneklerini belirleyin:
 
-    - **Iş ortağı ofisi**: Şirketinizde birden çok ofis varsa, bu deneme daveti ile ilişkilendirmek istediğiniz ofisi seçin.
+    - **İş ortağı** ofisi: Şirketinizin birden çok ofisi varsa, bu deneme daveti ile ilişkilendirmek istediğiniz ofisi seçin.
 
-        İş ortağı ofis konumları eklemek için bkz. [konum ekleme](manage-locations.md). Yeni ofis konumları, Iş ortağı ofisi listesinde görünen 24 saate kadar sürebilir.
+        İş ortağı ofisi konumlarını eklemek için [bkz. Konum ekleme.](manage-locations.md) Yeni ofis konumları oluşturulduktan 24 saat sonra İş ortağı ofis listesinde görünmesini gerektirir.
 
     - **Kullanım konumu**: istemcinizin Hizmetleri kullanacağı konumu seçin.
     - **Deneme abonelikleri**: seçebileceğiniz deneme abonelikleri listesi, istemci ülke veya bölgesinin kullanım konumu tarafından belirlenir.
@@ -58,3 +56,4 @@ Temsilcili yönetim sunmaya sertifikalıyorsanız, deneme davetine, hesabı iste
 ## <a name="next-steps"></a>Sonraki adımlar
 
 - [Satın alma teklifi oluşturma](advisor-create-a-purchase-offer.md)
+- [İş ortakları artık danışmanları olarak kayıt olamaz](advisors-no-csp.md)

@@ -2,25 +2,23 @@
 title: CHIP hesabınıza kullanıcı ekleme
 ms.topic: how-to
 ms.date: 11/09/2020
-description: Kanal teşvikleri plaform (yonga) hesabınıza Kullanıcı eklemeyi öğrenin. YONGA platformunun 2021 sonunda devre dışı olacağını unutmayın.
+description: Kanal teşvikleri platformu (yonga) hesabınıza Kullanıcı eklemeyi öğrenin. YONGA platformunun 2021 sonunda devre dışı olacağını unutmayın.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 954011221af9c2c8d1da06de6fa6853a38252f2d
-ms.sourcegitcommit: 6b03ff400d1350db9696f9b457fcfe710310c5d3
+ms.openlocfilehash: e037d616fff8416fc15e59b4c58639f647c16841
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/03/2020
-ms.locfileid: "96570527"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110148797"
 ---
 # <a name="add-users-to-your-channel-incentives-platform-chip-account"></a>Kanal teşvikleri platformu (yonga) hesabınıza kullanıcı ekleme
 
-**Uygun roller**
-
-- Birincil iletişim YONGASıNDA yönetici
+**Uygun roller**: birincil iletişim yongasında yönetici
  
 >[!NOTE]
 >YONGA platformu 2021 sonunda kullanımdan kaldırılacaktır.

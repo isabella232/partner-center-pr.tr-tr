@@ -1,6 +1,6 @@
 ---
-title: Müşteriler için Microsoft Azure ayırmaları satın alın
-description: Iş Ortağı Merkezi 'nde müşterileriniz adına Azure ayırmaları satın almayı veya satın almayı öğrenin. Ayrıca, Azure ayırmalarının kullanılamadığı pazarları listeler.
+title: Müşteriler Microsoft Azure rezervasyonları satın alma
+description: Azure rezervasyonlarını müşteriler adına satın almayı veya satın almayı öğrenin İş Ortağı Merkezi. Ayrıca Azure rezervasyonlarının kullanılamay olduğu pazarları listeler.
 ms.topic: how-to
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,39 +9,33 @@ ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
 ms.date: 08/06/2020
-ms.openlocfilehash: 0e81a9561f3749aab281bb4ebd7cd0c38540ff31
-ms.sourcegitcommit: 2d9aab15ddc20cb3d9537e68ace33d36f7d8a250
+ms.openlocfilehash: cd8a78edab25b94e678aafd61ca96e61a625fb07
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/02/2020
-ms.locfileid: "96534616"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110149545"
 ---
-# <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-partner-center"></a>Iş Ortağı Merkezi 'nde müşterileriniz adına Microsoft Azure ayırmaları satın alın
+# <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-partner-center"></a>Microsoft Azure müşterileriniz adına rezervasyon satın İş Ortağı Merkezi
 
-**Uygun roller**
+**Uygun roller:** Yönetici aracısı | Genel yönetici | Yardım masası aracısı | Satış aracısı | Kullanıcı yönetimi yöneticisi
 
-- Yönetim Aracısı
-- Genel yönetici
-- Yardım Masası Aracısı
-- Satış Aracısı
-- Kullanıcı Yönetimi Yöneticisi
-
-Bu makalede, Iş Ortağı Merkezi 'nde müşterileriniz adına Azure ayırmaları satın alma veya satın alma işlemleri açıklanmaktadır. Ayrıca, Azure ayırmalarının kullanılamadığı pazarları tanımlar.
+Bu makalede, azure rezervasyonlarını müşteriler adına satın alma veya satın alma hakkında İş Ortağı Merkezi. Ayrıca Azure rezervasyonlarının kullanıla olmadığı pazarları da tanımlar.
  
 > [!NOTE]
-> Bu makale yalnızca bulut çözümü sağlayıcısı (CSP) programındaki iş ortakları için geçerlidir. Diğer abonelik türleri (örneğin, Kullandıkça öde, bireysel, Microsoft Müşteri Sözleşmesi veya Kurumsal Anlaşma abonelikleri) kullanan müşteriler [Bu Azure ayırmaları belgelerini](/azure/cost-management-billing/reservations)okumalı olmalıdır.
+> Bu makale yalnızca Bulut Çözümü Sağlayıcısı (CSP) programı iş ortakları için geçerlidir. Diğer abonelik türlerini (kullansanız öde, bireysel, Microsoft Müşteri Sözleşmesi veya Kurumsal Anlaşma abonelikler gibi) kullanan müşterilerin bu Azure rezervasyonları belgelerini [okuması gerekir.](/azure/cost-management-billing/reservations)
 
 ## <a name="before-you-begin"></a>Başlamadan önce
 
-Müşterileriniz adına Azure ayırmaları satın almadan önce aşağıdaki önemli bilgileri gözden geçirin. (Müşterilerin satın almış olduğunuz önceki bir Azure aboneliğinden kendi Azure ayırmalarını satın almasını ister misiniz? Bkz. [müşterilere kendi Azure ayırmalarını satın alma Izni verme](give-customers-permission.md#give-customers-permission-to-buy-their-own-azure-reservations).)
+Müşterileriniz adına Azure rezervasyonları satın almadan önce aşağıdaki önemli bilgileri gözden geçirebilirsiniz. (Müşterilerin, onlar için satın aldığınız önceki bir Azure aboneliğinden kendi Azure rezervasyonlarını satın alamalarını istiyor musunuz? Bkz. [Müşterilere kendi Azure rezervasyonlarını satın alma izni verme.)](give-customers-permission.md#give-customers-permission-to-buy-their-own-azure-reservations)
 
-- Müşteriniz yeni Microsoft Müşteri sözleşmesini imzaladığında (bkz [. Microsoft Müşteri sözleşmesinin müşteri kabulünü onaylama](confirm-customer-agreement.md)), Azure rezervasyonlarını Azure planı kapsamında satın almalısınız. Daha fazla bilgi için [satın alma Azure planını](purchase-azure-plan.md)okuyun.
+- Müşteriniz yeni aboneliği imzalarsa Microsoft Müşteri Sözleşmesi (bkz. Microsoft Müşteri Sözleşmesi [onaylayın),](confirm-customer-agreement.md)Azure planı kapsamında Azure rezervasyonları satın alasanız gerekir. Daha fazla bilgi için Azure [Planı satın alma makalelerini okuyun.](purchase-azure-plan.md)
 
-- Müşteriler adına ayırmaları satın alabilmek için önce etkin bir Azure aboneliğine sahip olmaları gerekir
+- Müşteriler adına rezervasyon satın alamadan önce etkin bir Azure aboneliğine sahip olması gerekir
   
-- SQL veritabanı veya SUSE Linux yazılımı gibi yazılım abonelik maliyetleri, Azure rezervasyon fiyatlarına dahil değildir
+- SQL Veritabanı veya SUSE Linux yazılımı gibi yazılım aboneliği maliyetleri Azure rezervasyon fiyatlarına dahil değildir
 
-- Microsoft 'un ticari fiyatlandırmasına, konumunuz Brezilya dışında vergiler dahil değildir. Konumunuz Brezilya ise, sizin için ticari fiyat uygun vergileri içerir
+- Konumunuz Brezilya değilse Microsoft'un sizin için ticari fiyatlandırması vergileri dahil değildir. Konumunuz Brezilya ise, uygun vergiler sizin için ticari fiyattır
 
 - Satış ve yardım masası aracılarının Azure aboneliğine açık erişimi olması gerekir ve bu sayede, bu kullanıcı adına, değiş tokuş ve para iadesi dahil olmak üzere Azure portal ve dosya desteği taleplerini satın alabilir veya yönetebilir.  
 
@@ -64,7 +58,7 @@ Müşterileriniz adına Azure ayırmaları satın almadan önce aşağıdaki ön
 > | Amerikan Samoası     | Grenada     | Pitcairn Adaları     |
 > | Andorra     | Guadeloupe     | Reunion     |
 > | Anguilla     | Guam     | Saba   |
-> | Antarktika     | Guernsey     | Saint Barthélimy   |
+> | Antarktika     | Guernsey     | Saint Barthelemy   |
 > | Antigua ve Barbuda       | Gine     | Saint Lucia   |
 > | Aruba       | Gine-Bissau     | Saint Martin   |
 > | Azerbaycan       | Guyana     | Saint Pierre ve Miquelon   |
@@ -90,7 +84,7 @@ Müşterileriniz adına Azure ayırmaları satın almadan önce aşağıdaki ön
 > | Dominika     | Montserrat     | Tonga   |
 > | Ekvator Ginesi     | Mozambik     | Turks ve Caicos Adaları   |
 > | Eritre     | Myanmar     | Tuvalu   |
-> | Falkland Adaları     | Nauru     | ABD Küçük Harici Adaları   |
+> | Falkland Adaları     | Nauru     | ABD harici Adaları   |
 > | Fransız Guyanası     | Yeni Kaledonya     | Vanuatu   |
 > | Fransız Polinezyası     | Nijer     | Vatikan   |
 > | Fransız Güney Toprakları     | Niue     | Wallis ve Futuna   |
@@ -98,41 +92,41 @@ Müşterileriniz adına Azure ayırmaları satın almadan önce aşağıdaki ön
 > | Gambiya     | Kuzey Mariana Adaları     |    |
 > | Cebelitarık     | Palau       |    |
 
-## <a name="purchase-azure-reservations"></a>Azure ayırmaları satın alma
+## <a name="purchase-azure-reservations"></a>Azure rezervasyonları satın alma
 
 Iş Ortağı Merkezi 'nde müşterileriniz adına Microsoft Azure ayırmaları satın almak için aşağıdaki adımları izleyin. (Müşterilerin satın almış olduğunuz önceki bir Azure aboneliğinden kendi Azure ayırmalarını satın almasını ister misiniz? Bkz. [müşterilere kendi Azure ayırmalarını satın alma Izni verme](give-customers-permission.md).)
 
 1. Iş Ortağı Merkezi menüsünden **müşteriler** ' i seçin.  
 
-2. **Müşteriler** sayfasında, Azure ayırmaları satın almak isteyen müşteriyi bulun ve ardından müşterinin satırını genişletmek için aşağı oku seçin.  
+2. Müşteriler **sayfasında,** Azure rezervasyonları satın almak isteyen müşteriyi bulun ve ardından aşağı oku seçerek müşterinin satırı genişletin.  
 
-3. **Ürün Ekle** ' yi seçin ve ardından **Azure**' u seçin. 
+3. Ürün **ekle'yi** ve ardından **Azure'ı seçin.** 
 
-    a. **Segment** listesinden müşterinin pazar segmentini seçin.
+    a. Segment listesinden müşterinin pazar **segmentini** seçin.
 
-    b. Ürün **türü** listesinden **ayırmalar** ' ı seçin.
+    b. Ürün **Türü** listesinden **Rezervasyonlar'ı** seçin.
 
-    c. Müşterinin rezervasyon **türü** listesinden istediği rezervasyon türünü seçin.
+    c. Rezervasyon türü listesinden müşterinin istediği rezervasyon **türünü** seçin.
 
-4. Azure ayırmaları etkin bir Azure aboneliğiyle ilişkilendirilmelidir. **Müşteri aboneliği** listesinden, Azure ayırmaları eklemek istediğiniz müşterinin aboneliğini seçin. 
+4. Azure rezervasyonları etkin bir Azure aboneliğiyle ilişkili olması gerekir. Müşteri aboneliği listesinden Azure rezervasyonlarını eklemek istediğiniz müşterinin **aboneliğini** seçin. 
 
    >[!IMPORTANT]
-   >Müşterinin zaten etkin bir Azure aboneliği yoksa, şimdi bir tane eklemek için **Azure** ' ı seçin. 
+   >Müşterinin etkin bir Azure aboneliği yoksa Şimdi eklemek için **Azure'ı** seçin. 
 
-5. Müşterilerinizin gereksinimlerini karşılayan sanal makinelerde Azure ayırmaları bulmak için filtreleri kullanın.  
+5. Müşterinizin gereksinimlerini karşılayacak sanal makinelerde Azure rezervasyonlarını bulmak için filtreleri kullanın.  
 
-6. Satın almak istediğiniz ayırmaları bulduktan sonra, müşterinin **Miktar** halinde ihtiyaç duyduğu ayrılmış örnek sayısını girin ve ardından **Sepete Ekle**' yi seçin.  
+6. Satın almak istediğiniz rezervasyonları buluduktan sonra müşterinin ihtiyacı olacak ayrılmış örnek sayısını **Miktar** alanına girin ve sepete **ekle'yi seçin.**  
 
-7. Gerekli tüm öğeleri sıraya ekleyinceye kadar 5 ve 6. adımları tekrarlayın. Siparişinizin doğru olduğunu doğrulamak için **gözden geçir** ' i seçin.  
+7. Gerekli tüm öğeleri siparişe ekleyene kadar 5. ve 6. adımları tekrarlayın. Siparişinizin **doğru** olduğunu doğrulamak için Gözden geçir'i seçin.  
 
-8. **Siparişlerinizi gözden geçirin** sayfasında şunları yapabilirsiniz: 
+8. Siparişlerinizi **gözden geçirme** sayfasında şunları sebilirsiniz: 
 
-    - Ayrılmış örnek miktarını doğrulayın veya değiştirin.
+    - Ayrılmış örnek miktarını doğrulayın veya değiştirme.
 
-    - Rezervasyonun kapsamını seçin. Ayırma kapsamı bir aboneliği veya birden çok aboneliği (paylaşılan kapsamı) kapsayabilir. Ayırmayı tek bir aboneliğe göre kapsamınızda, rezervasyon iskontosu yalnızca bu aboneliğe uygulanır. Paylaşılan ' i seçerseniz, rezervasyon indirimi müşterinin faturalandırma bağlamındaki tüm aboneliklere uygulanır. 
+    - Rezervasyonun kapsamını seçin. Rezervasyonun kapsamı bir aboneliği veya birden çok aboneliği (paylaşılan kapsam) kapsıyor olabilir. Rezervasyonun kapsamını tek bir abonelik olarak kapsamına asanız, rezervasyon indirimi yalnızca bu aboneliğe uygulanır. Paylaşılan'ı seçmeniz durumunda rezervasyon indirimi müşterinin faturalama bağlamındaki tüm aboneliklere uygulanır. 
 
       >[!NOTE] 
-      >Ayırmanın kapsamını tek bir Azure aboneliğiyle sınırlandırmayı tercih ediyorsanız, aboneliğin vCPU kotasını artırmanız gerekebilir. Aboneliğin vCPU kotasını artırmak için Azure portal bir destek isteği oluşturmanız gerekir. İsteği oluşturmak için [Bu konudaki](/azure/azure-supportability/resource-manager-core-quotas-request) yönergeleri izleyin. 
+      >Rezervasyonun kapsamını tek bir Azure aboneliğiyle sınırlamayı tercih ediyorsanız aboneliğin vCPU kotasını artırmanız gerekir. Aboneliğin vCPU kotasını artırmak için abonelikte bir destek isteği oluşturmanız Azure portal. İsteği oluşturmak için [Bu konudaki](/azure/azure-supportability/resource-manager-core-quotas-request) yönergeleri izleyin. 
 
       >[!NOTE]   
       >Müşteriniz Azure planının altındaysa, **kapsam** **paylaşılan** olarak ayarlanır. 
@@ -154,4 +148,4 @@ Iş Ortağı Merkezi 'nde müşterileriniz adına Microsoft Azure ayırmaları s
 |Azure ayırmalarını Iş Ortağı Merkezi 'nde yönetme | [Azure ayırmalarını Iş Ortağı Merkezi 'nde yönetme](azure-reservations-manage.md)
 |Doğru VM boyutunu belirleme ve müşteri VM kullanımını doğrulama   |[Maksimum Azure ayırma kullanımı için VM boyutu](azure-usage.md)   |
 |Iş Ortağı Merkezi API 'sini kullanarak Azure ayırmaları satın alma | [Azure ayrılmış VM örneklerini](/partner-center/develop/purchase-azure-reservations) Iş Ortağı Merkezi geliştirici belgelerinde satın alma   |
-|Müşterilere kendi Azure ayırmalarını satın alma izni verme  | [Müşterilere kendi Azure ayırmalarını satın alma izni verin](give-customers-permission.md)  |
+|Müşterilere kendi Azure ayırmalarını satın alma izni verme  | [Müşterilere kendi Azure rezervasyonlarını satın alma izni verme](give-customers-permission.md)  |
