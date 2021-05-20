@@ -9,19 +9,16 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b7d963bffcfeebed3b7540dfd02aadd876dfcaa6
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: 266baf0eb3501cba984ec0fbaed4508366b92b8b
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106086235"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152792"
 ---
 # <a name="download-reports"></a>Raporları indir
 
-**Uygun roller**
-
-- Executive rapor Görüntüleyicisi
-- Rapor Görüntüleyicisi
+**Uygun roller**: Executive rapor Görüntüleyici | Rapor Görüntüleyicisi
 
 ## <a name="introduction"></a>Giriş
 
@@ -44,27 +41,27 @@ Bir rapor oluşturmak için önce rapor **Seç** açılan listesinden raporu se�
 
 Aşağıdaki raporlar indirilebilir:
 
-**Iş ortağı profili** , iş ortağıyla ilgili ayrıntıları sağlar. Iş ortağı KIMLIĞI, Iş ortağı adı, Iş ortağı şehri ve Iş ortağı ülkesi gibi ayrıntılar raporda bulunabilir. Bu rapor için toplama veya geri dönüş uygulanmaz.
+**Iş ortağı profili** , iş ortağıyla ilgili ayrıntıları sağlar. Iş ortağı KIMLIĞI, Iş ortağı adı, Iş ortağı şehri ve Iş ortağı ülkesi gibi ayrıntılar raporda bulunabilir. Bu rapor için toplama veya geri arama geçerli olmayacaktır.
 
-**Müşteri ayrıntıları** , bir ortağın ilişkilendirildiği müşterilerin ayrıntılarını sağlar. Ayrıca, satılan lisanslar, toplanan ACR gibi temel ölçümler de sağlar. Rapor aylık olarak toplanır.
+**Müşteri ayrıntıları,** bir İş Ortağının ilişkili olduğu müşterilerin ayrıntılarını sağlar. Ayrıca satılan lisanslar, toplu ACR gibi önemli ölçümler de sağlar. Rapor aylık olarak toplanır.
 
-**Abonelik ayrıntıları** , iş ortağı tarafından satılan veya yönetilen aboneliklerin ayrıntılarını müşteri bilgileriyle birlikte sağlar. Rapor aylık olarak toplanır.
+**Abonelik ayrıntıları,** müşteri bilgileriyle birlikte İş Ortağı tarafından satılan veya yönetilen aboneliklerin ayrıntılarını sağlar. Rapor aylık olarak toplanır.
 
-**Azure kullanımı** , Azure kullanım ayrıntılarını sağlar. Bu ayrıntılar, Iş ortağı tarafından satılan veya yönetilen Azure aboneliklerine yöneliktir. Kullanım ayrıntıları ölçüm kategorisine ve diğer anahtar boyutlarına göre bölünür. Rapor aylık olarak toplanır.
+**Azure kullanımı,** Azure kullanım ayrıntılarını sağlar. Bu ayrıntılar İş Ortağı tarafından satılan veya yönetilen Azure abonelikleri için geçerlidir. Kullanım ayrıntıları ölçüm kategorisine ve diğer anahtar boyutlara göre ayrılır. Rapor aylık olarak toplanır.
 
-**Office365-lisans kullanımı** , iş ortağı tarafından satılan veya yönetilen O365 lisanslarının kullanım ayrıntılarını sağlar. Ayrıca, aylık etkin kullanıcılar (MAU) ve uygun yetkilendirmeler gibi müşteri bilgilerini ve önemli ölçümleri de sağlar. Rapor aylık olarak toplanır.
+**Office365 - Lisans Kullanımı,** İş Ortağı tarafından satılan veya yönetilen O365 lisanslarının kullanım ayrıntılarını sağlar. Ayrıca müşteri bilgilerini ve Aylık Etkin Kullanıcılar (MAU), nitelikli yetkilendirmeler gibi temel ölçümleri de sağlar. Rapor aylık olarak toplanır.
 
-**Enterprise Mobility – lisans kullanımı**  , iş ortağı tarafından satılan veya yönetilen kurumsal Mobility lisanslarının kullanım ayrıntılarını sağlar. Ayrıca, aylık etkin kullanıcılar (MAU) ve uygun yetkilendirmeler gibi müşteri bilgilerini ve önemli ölçümleri de sağlar. Rapor aylık olarak toplanır.
+**Enterprise Mobility – Lisans Kullanımı,**  İş Ortağı tarafından satılan veya yönetilen Enterprise Mobility lisanslarının kullanım ayrıntılarını sağlar. Ayrıca müşteri bilgilerini ve Aylık Etkin Kullanıcılar (MAU), nitelikli yetkilendirmeler gibi temel ölçümleri sağlar. Rapor aylık olarak toplanır.
 
-**Dynamics 365 – lisans kullanımı** , iş ortağı tarafından satılan veya yönetilen D365 lisanslarının kullanım ayrıntılarını sağlar. Ayrıca, aylık etkin kullanıcılar (MAU) ve uygun yetkilendirmeler gibi müşteri bilgilerini ve önemli ölçümleri de sağlar. Rapor aylık olarak toplanır.
+**Dynamics 365 – Lisans Kullanımı,** İş Ortağı tarafından satılan veya yönetilen D365 lisanslarının kullanım ayrıntılarını sağlar. Ayrıca müşteri bilgilerini ve Aylık Etkin Kullanıcılar (MAU), nitelikli yetkilendirmeler gibi temel ölçümleri de sağlar. Rapor aylık olarak toplanır.
 
-**Power BI-lisans kullanımı** , iş ortağı tarafından satılan veya yönetilen Power BI lisansların kullanım ayrıntılarını sağlar. Ayrıca, aylık etkin kullanıcılar (MAU) ve uygun yetkilendirmeler gibi müşteri bilgilerini ve önemli ölçümleri de sağlar. Rapor aylık olarak toplanır.
+**Power BI - Lisans Kullanımı,** İş Ortağı tarafından satılan veya Power BI lisansların kullanım ayrıntılarını sağlar. Ayrıca müşteri bilgilerini ve Aylık Etkin Kullanıcılar (MAU), nitelikli yetkilendirmeler gibi temel ölçümleri de sağlar. Rapor aylık olarak toplanır.
 
-Bu işlemler, iş ortağının çalışanları tarafından tamamlanan veya alınan sınavlar, sertifikalar, değerlendirmeler, parçalar, kurslar gibi **ayrıntıları sağlar.**
+**Eğitimler;** iş ortağının çalışanları tarafından tamamlanan veya alınan sınavlar, sertifikalar, değerlendirmeler, parçalar, kurslar gibi ayrıntıları sağlar.
 
-**Microsoft Learn** , iş ortağının Kullanıcı ayrıntılarıyla birlikte modüller, öğrenme yolu tamamlanma ayrıntıları hakkında ayrıntılı bilgi sağlar.
+**Microsoft Learn** modüllerle ilgili ayrıntıları, öğrenme yolu tamamlama ayrıntılarını ve iş ortağının kullanıcı ayrıntılarını sağlar.
 
-**Uzmanlıklar: Özet ve geçmiş** , bu iş ortağı için etkin, devam eden veya risk altında olan tüm uzmanlardan oluşan ayrıntıları sağlar. Ayrıca iş ortağının elde ettiği tüm uzmanlık geçmişini içerir.
+**Yetkinlikler : Özet ve geçmiş,** etkin, devam eden veya bu İş Ortağı için risk altında olan tüm yetkinliklerin ayrıntılarını sağlar. Ayrıca iş ortağı tarafından elde edilen tüm yetkinliklerin geçmişini içerir.
 
-**Uzmanlıklar: performans ayrıntıları** , belirli bir uzmanlık kümesini elde etmek üzere KPI 'lara yönelik olarak iş ortağının nasıl yaptığı hakkında ayrıntılı bilgi sağlar.
+**Yetkinlikler – Performans ayrıntıları,** iş ortağının belirli bir yetkinlik kümesine ulaşmak için KIP'lere göre nasıl performans sergileye dair ayrıntılı bilgiler sağlar.
 

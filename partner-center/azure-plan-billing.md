@@ -1,7 +1,7 @@
 ---
 title: Azure plan faturalandırma-fatura & keşfi dosyaları
 ms.topic: article
-ms.date: 01/20/2021
+ms.date: 05/19/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Azure planına yönelik faturalandırma ile ilgili fatura ve mutabakat dosya yapısına erişme ve bunları anlama hakkında bilgi edinin.
@@ -9,12 +9,12 @@ author: khpavan
 ms.author: sakhanda
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 757383ee264e58e7b4dc8ffefafe213cb49acb79
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 5ab086a4d15d16f094e33d19b81f1c93711916dc
+ms.sourcegitcommit: e0444145d7720df948b9d02ae2469206db48dba5
 ms.translationtype: MT
 ms.contentlocale: tr-TR
 ms.lasthandoff: 05/19/2021
-ms.locfileid: "110149800"
+ms.locfileid: "110201434"
 ---
 # <a name="new-commerce-experience-in-csp---azure-billing"></a>CSP'de yeni ticari deneyim - Azure faturalama 
 
@@ -44,27 +44,27 @@ Faturaya ve mutabakat dosyasına erişmek için:
 
 1. İş Ortağı Merkezi [panosunda](https://partner.microsoft.com/dashboard/) oturum açın.
 
-2. Iş Ortağı Merkezi menüsünde **faturalandırma**' i seçin.
+2. Fatura menüsünden İş Ortağı Merkezi'yi **seçin.**
 
-3. **Yinelenen** ve **tek seferlik** ve ilgilendiğiniz para biriminin sekmesini seçin.
+3. Yinelenen ve Tek Sefer **sekmesini** **ve ilgilendiğinizi** para birimini seçin.
 
-   :::image type="content" source="images/azure/billing3.png" alt-text="ödeme":::
+   :::image type="content" source="images/azure/billing3.png" alt-text="Fatura":::
 
-4. **Fatura** veya **Mutabakat dosyası** seçin.  
+4. Fatura **veya Mutabakat** dosyasını **seçin.**  
 
-   Geçmiş faturaları ve keşfi dosyalarını görüntülemek için, aşağıdaki faturalama geçmişi satırını genişletin.
+   Geçmiş faturaları ve mutabakat dosyalarını görüntülemek için aşağıdaki Faturalama geçmişi satırına bakın.
 
 ## <a name="understanding-usage-data"></a>Kullanım verilerini anlama 
 
 1. Azure planı, kullanım için kök veya üst düzey kapsayıcıdır. Tüm kullanımlar tek bir Azure planına geri bağlanır.
 
-2. Bir plan içinde, bir veya daha fazla Azure aboneliği olacaktır. Bunlar, kaynak yönetimi ve dağıtımı için kullanılan kapsayıcılardır. 
+2. Bir plan içinde bir veya daha fazla Azure aboneliği olur. Bunlar kaynak yönetimi ve dağıtımı için kullanılan kapsayıcılardır. 
 
-3. Bir abonelik içinde, kaynak grupları grup kaynaklarına ekler. Her kaynak bir kaynak grubuna dağıtılır. 
+3. Bir abonelik içinde kaynak grupları, grup kaynaklarına ekler. Her kaynak bir kaynak grubuna dağıtılır. 
 
-4. Kaynak örnekleri, sanal makineler ve depolama hesapları içerir. 
+4. Kaynak örnekleri arasında sanal makineler ve depolama hesapları yer almaktadır. 
 
-5. Kaynak yayma ölçümleri: ölçümler, bir kaynağın tüketim ölçümleridir ve bir kaynak birden fazla ölçüm için kullanım yayabilir. Ölçümler, bir ProductID, SKUId ve kullanılabilirlik kimliği ile tanımlanır. 
+5. Kaynak yayma ölçümleri: Ölçümler, bir kaynağın tüketiminin ölçümleridir ve bir kaynak birden çok ölçüm için kullanım yayıyor olabilir. Metre bir ProductId, SKUId ve AvailabilityId ile tanımlanır. 
 
 ### <a name="hierarchy-of-subscription-resource-groups-and-metering"></a>Abonelik kaynak grupları ve ölçüm hiyerarşisi
 
@@ -75,34 +75,34 @@ Faturaya ve mutabakat dosyasına erişmek için:
         - Sanal makine (kaynak)
             - İşlem ölçümü
         - Sanal ağ (kaynak)
-            - Faturalama ölçümü yok
+            - Faturalandırma ölçümü yok
 
     - ResourceGroup 2
         - Sanal makine (kaynak)
-            - Bilgisayar ölçümü
+            - Bilgisayar ölçer
         - Premium SSD yönetilen disk (kaynak)
             - Depolama kapasitesi ölçümü
             - Depolama işlemleri ölçümü
 
-- B Aboneliği -ResourceGroup 1 - Azure SQL (kaynak) - DTU ölçümü - VPN Gateway (kaynak) - VPN ağ geçidi ölçümü
+- Abonelik B-ResourceGroup 1-Azure SQL (kaynak)-DTU ölçer-VPN Gateway (kaynak)-VPN ağ geçidi ölçer
 
     - ResourceGroup 2
-        - Sanal Ağ Arabirimi (kaynak)
-            - Faturalama ölçümü yok
+        - Sanal ağ arabirimi (kaynak)
+            - Faturalandırma ölçümü yok
 
-## <a name="read-the-invoice"></a>Faturayı okuma
+## <a name="read-the-invoice"></a>Faturayı okuyun
 
-1. Fatura her ayın sekizlik günü kadar kullanılamaz.
+1. Fatura, her ayın sekizinci ' inden daha sonra kullanılabilir olacaktır.
 
-2. İş ortaklarının ödemelerini geri ödemesi için 60 günü olur.
+2. İş ortaklarının ödemeye havale etmek için 60 gün vardır.
 
-3. Faturalama dönemi, 10/1-10/31 gibi bir takvim ayı kapsar.
+3. Fatura dönemi belirli bir takvim ayını kapsar. Örneğin, 10/1-10/31.
 
-4. Ücretler net ayarlamalardır (tutar net olarak "Yönetilen hizmetler için iş ortağı tarafından kazanılmış kredidir").
+4. Ücretler, ayarlamaların miktarıdır ("hizmet için Iş ortağı kazanılmış kredinin yüzdesi").
 
-5. Ek faturalama ayrıntıları için fatura mutabakat dosyasını ve günlük olarak derecelendirilmiş kullanım dosyasını gözden geçirme.
+5. Fatura keşfi dosyasını ve günlük derecelendirmeli kullanım dosyasını, ek faturalandırma ayrıntıları için gözden geçirin.
 
-   :::image type="content" source="images/azure/invoice1.png" alt-text="Fatura":::
+   :::image type="content" source="images/azure/invoice1.png" alt-text="faturalayabilirsiniz":::
 
 ## <a name="read-the-invoice-reconciliation-file"></a>Fatura mutabakat dosyasını okuma
 
@@ -113,6 +113,9 @@ Faturaya ve mutabakat dosyasına erişmek için:
 3. İndirim veya iş ortağı tarafından kazanılan kredi için uygun olan belirli bir ölçüm için kaynak yoksa mutabakat dosyasında yalnızca bir faturalama satırı yer alır ve geçerli birim fiyat perakende fiyatı (birim fiyattır) olur.
 
 4. Ölçüm veya ölçümü yayan herhangi bir kaynak,  ayın bir parçası için yönetilen hizmetler için İş ortağı tarafından kazanılan kredi için uygunsa, mutabakat dosyasında iki faturalama satırı yer alacak. Bir satır ölçümün uygun olduğu günleri, ikinci satır ise ölçümün uygun olmadığının günlerini temsil edecek.
+
+>[!NOTE]
+>Azure tüketiminizi tek kullanımlık satın alma mutabakat dosyanıza uzlaştırabilirsiniz. Bunu yapmak için günlük olarak derecelendirilmiş kullanım mutabakat dosyanıza gidin ve SubscriptionID'nizi bulun. Bu, Azure Plan Kimliğiniz ile ilişkili tüm maliyetleri görüntüler. Azure SubscriptionID'niz EntitlementID olarak gösterilir.
 
 ## <a name="read-the-daily-usage-file"></a>Günlük kullanım dosyasını okuma
 
@@ -128,38 +131,38 @@ Faturaya ve mutabakat dosyasına erişmek için:
 
   - Ölçüm, **7/4** - 7/7 arasında yönetilen hizmetler için İş ortağı tarafından kazanılan kredi için uygun değildi (geçerli birim fiyatın perakende fiyatı olduğunu unutmayın).
 
-  - **7/8** - 7/31 arasında yönetilen hizmetler için İş ortağı tarafından kazanılan kredi için uygun ölçüm (geçerli birim fiyatın perakende fiyatı daha az iş ortağı tarafından kazanılan kredi olduğunu unutmayın).
+  - 7/8-7/31 ' dan **yönetilen hizmetler Için Iş ortağı kazanılmış kredi** için uygun ölçüm (geçerli birim fiyatı, perakende fiyatı daha az iş ortağı kazanılan kredidir).
 
    :::image type="content" source="images/azure/pecfinal.png" alt-text="recon2":::
 
-## <a name="invoice-in-customer-currency"></a>Müşteri para birimi cinsinden fatura
+## <a name="invoice-in-customer-currency"></a>Müşteri para biriminde fatura
 
-Azure planı aracılığıyla azure hizmetleri ABD doları olarak fiyatlandırılıyor ve müşterinin ülke tarafından atanan para birimi üzerinden faturalandırılıyor. Faturalama para birimi USD olmayan bir değerse, kullanılan Döviz kuru (FX) oranı faturanın son sayfasında gösterilir. FX fiyatları aylık olarak belirlenir ve aşağıdaki faturaya uygulanır. Ülke para birimlerinin tam listesi için lütfen yeni ticari teklifler ülke kullanılabilirliği ve müşteri [para birimi matrisi'ne bakın.](https://go.microsoft.com/fwlink/?linkid=2112354)
+Azure planı aracılığıyla Azure Hizmetleri, ABD Doları cinsinden fiyatlandırılır ve müşterinin ülke atanmış para birimiyle faturalandırılır. Faturalama para birimi ABD dışı ise, kullanılan yabancı Exchange (FX) ücreti faturanın son sayfasında gösterilir. FX ücretleri aylık olarak belirlenir ve aşağıdaki faturaya uygulanır. Ülke para birimlerinin tam listesi için lütfen [Yeni ticaret teklifleri ülke kullanılabilirliği ve müşteri para birimi matrisini](https://go.microsoft.com/fwlink/?linkid=2112354)görüntüleyin.
 
-Microsoft, dönüştürme için Londra Borsa'yı takip ediyor. Londra Borsa'da ayın son iş gününde yakalanan döviz kuruna eşit olan döviz kurlarını kullanıyoruz. FX fiyatları, geçerli olduğu ayın ilk gününden önceki gün yenilenir ve kullanılabilir.
+Microsoft, dönüştürme için Londra hisse senedi alışverişini izler. Londra 'daki ayın son gününde yakalanan Döviz oranına eşit olan döviz ücretini kullanırız. Bu değer, ayın son günü olan günün son gününde yakalanan Döviz ücretini kullanır. FX ücretleri, uygulandıkları ayın ilk günü önce yenilenir ve kullanılabilir.
 
 ## <a name="azure-reservations"></a>Azure rezervasyonları
 
 
-Bir [Azure planı aracılığıyla](azure-reservations.md) Azure rezervasyonları satın alırsanız, tek kullanımlık veya aylık faturalamayı seçebilirsiniz.
+Azure [ayırmaları](azure-reservations.md) bir Azure planıyla satın alıyorsa, tek seferlik veya aylık faturalandırma seçeneklerinden birini belirleyebilirsiniz.
 
 
 ## <a name="azure-spending"></a>Azure harcaması
 
-Mevcut Azure harcama deneyimi, azure'da yeni Azure planı faturalaması desteği İş Ortağı Merkezi. Bu, iş ortaklarının şunları sağlar:
+Mevcut Azure harcama deneyimi, Iş Ortağı Merkezi 'nde yeni Azure planı faturalandırmasını destekleyecek şekilde güncelleştirildi. Bu, iş ortaklarının şunları yapmasına olanak sağlar:
 
-- Müşteri düzeyinde ayarlanmış bütçe uyarılarını görüntüleme, yönetme ve alma 
+- Müşteri düzeyinde bütçe kümesi için uyarıları görüntüleyin, yönetin ve alın 
 
-- Azure planında toplam tahmini harcamayı görüntüleme (kaynağa ve ölçüm düzeyine göre aşağı doğru)
+- Bir Azure planında toplam tahmini harcama (kaynak ve ölçüm düzeyine göre ayrılmış) görüntüleyin
 
-Azure planı aracılığıyla Azure hizmetlerinin faturalama modeli ödeme sonrası tüketim olduğundan, beklenenden daha büyük bir faturayı önlemek için iş ortakları aylık bütçe uygulayabilir ve kullanım yüzdesini izleyebilir. Bütçe bir defada bir müşteriye veya birden çok müşteriye uygulanabilir. 
+Azure planı aracılığıyla Azure hizmetleri için faturalandırma modeli, daha büyük bir faturanız beklenenden daha büyük bir fatura olduğundan, iş ortakları aylık bir bütçe uygulayabilir ve kullanım yüzdesini izleyebilir. Bir bütçe, bir kerede bir müşteriye veya birden çok müşteriye uygulanabilir. 
 
 :::image type="content" source="images/azure/azurespend.png" alt-text="Azure harcaması":::
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-- İş ortağı tarafından kazanılan kredinin (PEC) nasıl hesaplanmasına bakın. İş Ortağı Merkezi [oturum](https://partner.microsoft.com/dashboard/) açın ve kullanılabilir fiyat listesini bulun.
+- Ortağın kazanılan kredisi (PEC) nasıl hesaplanacağını görün. Iş Ortağı Merkezi [panosunda](https://partner.microsoft.com/dashboard/) oturum açın ve kullanılabilir fiyat listesini bulun.
 
-- Azure planını [satın alma hakkında bilgi edinin](purchase-azure-plan.md)
+- [Azure planını satın alma](purchase-azure-plan.md) hakkında bilgi edinin
 
 - [CSP'de yeni ticaret deneyimi için fiyat listesine bakın](azure-plan-price-list.md)

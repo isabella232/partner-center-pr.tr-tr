@@ -9,19 +9,16 @@ ms.author: iswillia
 ms.localizationpriority: high
 ms.topic: conceptual
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e9ff61b34a9154cf305efbb42147e99b9579a17f
-ms.sourcegitcommit: 08a175c06ff4c6a2b12713f081adfa489e16e7a1
+ms.openlocfilehash: c9bba02744d466741d7625b1624995084c0a3492
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/10/2021
-ms.locfileid: "109686288"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152571"
 ---
 # <a name="security-requirements-status-report"></a>Güvenlik gereksinimleri durum raporu
 
-**Uygun roller**
-
-- CPV Yöneticisi
-- Genel yönetici
+**Uygun roller**: CPV Yöneticisi | Genel yönetici
 
 Bu makalede, Iş Ortağı Merkezi 'nde güvenlik gereksinimleri durum raporu açıklanır. Bu rapor, iş ortağı kiracınızdaki kullanıcılar için Multi-Factor Authentication (MFA) için [iş ortağı güvenlik gereksinimleriyle](partner-security-requirements.md) uyumluluk açısından ölçümler sunar.
 
@@ -36,18 +33,18 @@ Güvenlik gereksinimleri durum raporu, iş ortağı MFA uygulamasıyla ilgili ö
 
 ### <a name="mfa-configuration-on-a-partner-tenant"></a>Bir iş ortağı kiracısında MFA yapılandırması
 
-**MFA ile etkinleştirilen kullanıcı hesaplarının ölçüm yüzdesi, burada listelenen seçenekler kullanılarak zorlandı:** iş ortağı kiracınızda MFA 'ya zorlanan etkin kullanıcı hesaplarının yüzdesini gösterir. Uyumluluk elde etmek için bu [MFA seçeneklerinden](/azure/active-directory/fundamentals/concept-fundamentals-mfa-get-started) birini kullanabilirsiniz. Bu veriler günlük olarak yakalanır ve raporlanır. Örnek:
+**MFA ile etkinleştirilen kullanıcı hesaplarının ölçüm yüzdesi, burada listelenen seçenekler kullanılarak zorlandı:** iş ortağı kiracınızda MFA 'ya zorlanan etkin kullanıcı hesaplarının yüzdesini gösterir. Uyumluluk elde etmek için bu [MFA seçeneklerinden](/azure/active-directory/fundamentals/concept-fundamentals-mfa-get-started) birini kullanabilirsiniz. Bu veriler, günlük olarak yakalanır ve raporlanır. Örnek:
 
 - Contoso kiracıda 110 kullanıcı hesabına sahip bir CSP iş ortağıdır ve bu kullanıcı hesaplarından 10'ları devre dışı bırakılmıştır. 
 - 100 kullanıcı hesabının geri kalanında, sağlanan MFA seçenekleri kullanılarak 90 [MFA uygulanır.](/azure/active-directory/fundamentals/concept-fundamentals-mfa-get-started) Bu nedenle ölçüm %90 gösteriyor. 
 
 ### <a name="partner-center-requests-with-mfa"></a>İş Ortağı Merkezi MFA ile istekler
 
-Çalışanlarınız çalışmak için İş Ortağı Merkezi API'ler aracılığıyla veri almak veya göndermek için her oturum İş Ortağı Merkezi güvenlik durumlarıyla ilgili bir zorlukla karşı karşıyadır ve takiptedir. Ayrıca, uygulamalarınız ve denetim masası satıcı uygulamaları, güvenlik durumu izlemesine de dahildir. Bu veriler, **MFA** ile yapılan İş Ortağı Merkezi yüzdesi altındaki ölçümlerde gösterilir ve son yedi günü yansıtıyor.
+Çalışanlarınız çalışmak için İş Ortağı Merkezi API'ler aracılığıyla veri almak veya göndermek için her oturum İş Ortağı Merkezi güvenlik durumlarıyla ilgili bir zorlukla karşı karşıyadır ve takiptedir. Uygulamalarınız ve denetim masası satıcı uygulamaları, güvenlik durumu izlemesine de dahildir. Bu veriler, **MFA** ile yapılan İş Ortağı Merkezi yüzdesi altındaki ölçümlerde gösterilir ve son yedi günü yansıtıyor.
 
 #### <a name="dashboard-mfa-verification"></a>Pano MFA doğrulaması
 
-Portal aracılığıyla **İş Ortağı Merkezi,** panonun içindeki etkinliklerle İş Ortağı Merkezi olur. MFA doğrulamayı tamamlayan kullanıcılar tarafından yapılan işlemlerin yüzdesini ölçür. Örnek:
+İş Ortağı Merkezi **portalı üzerinden ölçüm,** panonun içindeki etkinliklerle İş Ortağı Merkezi olur. MFA doğrulamayı tamamlayan kullanıcılar tarafından yapılan işlemlerin yüzdesini ölçür. Örnek:
 
 - Contoso, Jane ve John adlı iki yönetici aracıya sahip bir CSP iş ortağıdır.
 - İlk gün Jane, MFA doğrulaması olmadan İş Ortağı Merkezi panoda oturum açtı ve üç işlem yaptı.
@@ -60,37 +57,37 @@ Portal aracılığıyla **İş Ortağı Merkezi,** panonun içindeki etkinlikler
 
 #### <a name="appuser-mfa-verification"></a>Uygulama+Kullanıcı MFA doğrulaması
 
-API veya **SDK aracılığıyla ölçüm, API** istekleri aracılığıyla App+User İş Ortağı Merkezi ilgilidir. MFA talebiyle erişim belirteci kullanılarak yapılan API isteklerinin yüzdesini ölçür. Örnek:
+API veya **SDK aracılığıyla ölçüm, API** istekleri aracılığıyla App+User İş Ortağı Merkezi ilgilidir. MFA talebine sahip bir erişim belirteci kullanılarak yapılan API isteklerinin yüzdesini ölçer. Örnek:
 
-- Fabrikam bir CSP iş ortağıdır ve App+User kimlik doğrulaması ile yalnızca uygulama kimlik doğrulama yöntemlerinin bir karışımını kullanan bir CSP uygulamasına sahip.
-- İlk gün, uygulama MFA doğrulaması olmadan App+User kimlik doğrulama yöntemi aracılığıyla alınan bir erişim belirteci tarafından desteklene üç API isteğinde bulundu.
-- İkinci gün, uygulama yalnızca Uygulama kimlik doğrulaması kullanılarak alınan bir erişim belirteci tarafından desteklene beş API isteği yaptı.
-- Üçüncü gün, uygulama MFA doğrulaması ile App+User kimlik doğrulama yöntemi kullanılarak alınan bir erişim belirteci tarafından desteklene iki API isteğinde bulundu.
-- Kalan dört gün içinde iki aracı tarafından da herhangi bir işlem yoktu.
-- İkinci gün, yalnızca Uygulama kimlik doğrulaması aracılığıyla alınan bir erişim belirteci tarafından desteklene beş API isteği, kullanıcı kimlik bilgilerini kullanmamalarından ölçümden atlanır. Kalan beş işlemden ikisi, MFA doğrulaması ile alınan bir erişim belirteci tarafından desteklandı. Bu nedenle ölçüm %40 gösteriyor.
+- Fabrikam bir CSP iş ortağıdır ve App + kullanıcı kimlik doğrulaması ve yalnızca uygulama kimlik doğrulama yöntemlerinin bir karışımını kullanan bir CSP uygulamasına sahiptir.
+- İlk günde uygulama, MFA doğrulaması olmadan uygulama + kullanıcı kimlik doğrulama yöntemi aracılığıyla elde edilen bir erişim belirteciyle desteklenen üç API isteği yaptı.
+- İkinci gün, uygulama yalnızca uygulama kimlik doğrulaması kullanılarak edinilen bir erişim belirteciyle desteklenen beş API isteği yaptı.
+- Üçüncü günde uygulama, MFA doğrulaması ile App + kullanıcı kimlik doğrulama yöntemi kullanılarak edinilen bir erişim belirteciyle desteklenen iki API isteği yaptı.
+- Kalan dört gün içinde herhangi bir aracı tarafından bir işlem yapılmadı.
+- İkinci gün üzerindeki beş API isteği, yalnızca uygulama kimlik doğrulaması aracılığıyla elde edilen bir erişim belirteci tarafından desteklenen, Kullanıcı kimlik bilgilerini kullanmadığından ölçüden çıkarılır. Kalan beş işlemin dışında, bunların ikisi MFA doğrulaması ile elde edilen bir erişim belirteciyle destekleniyor. Bu nedenle, ölçüm %40 gösterir.
 
-Hangi Uygulama+kullanıcı etkinliklerinin bu ölçümde %100 olmayan bir sonuçla sonuç olduğunu anlamak için dosyaları kullanın:
+Bu ölçüm üzerinde %100 olmayan bir uygulama ve Kullanıcı etkinliği olduğunu anlamak istiyorsanız, dosyaları kullanın:
 
-- **Uygulamaya göre genel** MFA durumunu anlamak için API istekleri özeti.
-- **Kiracınız kullanıcıları** tarafından yapılan her API isteğinin ayrıntısını anlamak için yapılan tüm API istekleri, daha iyi indirme deneyimi için en çok 10.000 istekle sınırlıdır.
+- API, uygulamanın genel MFA durumunu anlamak için **Özet ister** .
+- **Tüm API** istekleri kiracınızın kullanıcıları tarafından YAPıLAN her API isteğinin ayrıntılarını anlamak için, sonuç daha iyi indirme deneyimi için en çok 10.000 en son istek ile sınırlıdır.
 
-## <a name="actions-for-mfa-status-below-100"></a>MFA durumunun %100'den az olduğu eylemler
+## <a name="actions-for-mfa-status-below-100"></a>MFA durumu eylemleri %100 altında
 
-MFA uygulayan bazı iş ortakları rapor ölçümlerini %100'in altında görebilir. Bunun nedenlerini anlamak için göz önünde bulundurarak bazı faktörlere göz önünde bulundurarak.
+MFA 'yı uygulayan bazı iş ortakları rapor ölçümlerini %100 oranında görebilirler. Nedenini anlamak için göz önünde bulundurmanız gereken bazı etmenler aşağıda verilmiştir.
 
 > [!NOTE]
-> İş ortağı kiracınız için kimlik yönetimi ve MFA uygulaması hakkında bilgi sahibi olan bir kullanıcıyla birlikte çalışmanız gerekir.
+> Kuruluşunuz tarafından iş ortağı kiracınızın kimlik yönetimi ve MFA uygulamasıyla ilgili bilgi sahibi olan bir kişi ile çalışmanız gerekir.
 
-### <a name="implemented-mfa-for-your-partner-tenant"></a>İş ortağı kiracınız için MFA uygulama
+### <a name="implemented-mfa-for-your-partner-tenant"></a>İş ortağı kiracınız için MFA uygulandı
 
-İş ortağı kiracınız için uyumluluk sağlamak için MFA uygulamanız gerekir. MFA uygulama hakkında ayrıntılı bilgi için bkz. İş Ortağı Merkezi veya [İş Ortağı Merkezi api'lerini kullanmaya yönelik güvenlik gereksinimleri.](partner-security-requirements.md)
+Uyumluluğa ulaşmak için iş ortağı kiracınız için MFA uygulamanız gerekir. MFA uygulama hakkında ayrıntılı bilgi için bkz. İş Ortağı Merkezi veya [İş Ortağı Merkezi api'lerini kullanmaya yönelik güvenlik gereksinimleri.](partner-security-requirements.md)
 
 >[!NOTE]
-> MFA ölçümleri günlük olarak hesaplanır ve son yedi gün içinde gerçekleştirilen işlemleri dikkate alır. İş ortağı kiracınız için MFA uygulamasını yalnızca kısa süre önce tamamladıysanız, ölçümler henüz %100'leri göstereyem olabilir.
+> MFA ölçümleri günlük olarak hesaplanır ve son yedi gün içinde gerçekleştirilen işlemleri dikkate alır. İş ortağı kiracınız için MFA uygulamasını yalnızca yakın zamanda tamamladıysanız, ölçümler henüz %100 göstereyem olabilir.
 
 ### <a name="verify-mfa-on-all-user-accounts"></a>Tüm kullanıcı hesaplarından MFA'nın doğrula
 
-Geçerli MFA uygulamanın tüm kullanıcı hesaplarını mı yoksa yalnızca bir hesabı mı kapsıyor olduğunu anlama. Bazı MFA çözümleri ilke tabanlıdır ve kullanıcı dışlama desteği sunarken, diğerleri MFA'yi kullanıcı başına açıkça etkinleştirmeniz gerektirmektedir. Geçerli MFA uygulamanıza hiçbir kullanıcı dışlamamanızı doğrulayın. CsP, CPV veya Advisor ile ilgili herhangi bir İş Ortağı Merkezi gerçekleştirmek için dışlanan ve oturum açtığı tüm kullanıcı hesapları, ölçümlerin %100'e varmama durumuna neden olabilir.
+Geçerli MFA uygulamanın tüm kullanıcı hesaplarını mı yoksa yalnızca bir hesabı mı kapsıyor olduğunu anlama. Bazı MFA çözümleri ilke tabanlıdır ve kullanıcı dışlama desteği sunarken, diğerleri MFA'yi kullanıcı başına açıkça etkinleştirmeniz gerektirmektedir. Geçerli MFA uygulamanıza hiçbir kullanıcı dışlamamanızı doğrulayın. CsP, CPV veya Advisor ile ilgili herhangi bir İş Ortağı Merkezi gerçekleştirmek üzere dışlanan ve oturum açtığı tüm kullanıcı hesapları, ölçümlerin %100'e varmama durumuna neden olabilir.
 
 ### <a name="review-your-mfa-conditions"></a>MFA koşullarınızı gözden geçirme
 

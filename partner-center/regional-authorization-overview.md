@@ -1,52 +1,52 @@
 ---
-title: CSP küresel pazarlar
+title: CSP küresel pazarları
 ms.topic: article
 ms.date: 04/15/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Şirketinizin konumuna göre CSP teklifleri oluşturabileceğiniz ülkelere, bölgelere ve para birimlerine bakın.
+description: CsP tekliflerini, şirketin konumunu temel alarak satabilirsiniz ülkeler, bölgeler ve para birimlerine bakın.
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 15203b24188bd8303f61f362ff5f0f901714a813
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: c3467ec4cf056d04392d3cbe9a61c66a80fc9bdb
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855786"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110153013"
 ---
-# <a name="cloud-solution-provider-program-regional-markets-and-currencies-where-you-can-sell-csp-offers"></a>CSP teklifleri oluşturabileceğiniz bulut çözümü sağlayıcısı program bölgesel pazarlar ve para birimleri
+# <a name="cloud-solution-provider-program-regional-markets-and-currencies-where-you-can-sell-csp-offers"></a>Bulut Çözümü Sağlayıcısı CSP tekliflerini satarak bölgesel pazarları ve para birimlerini programla
 
-**Uygun roller**: genel yönetici
+**Uygun roller:** Genel yönetici
 
-Pazarınızı belirleyen şirketinizin konumudur. Market, bulut çözümü sağlayıcısı (CSP) program tekliflerini satmanıza yönelik bölgeleri ve/veya ülkeleri içerir.
+Pazarınızı belirleyen şirketinizin konumudur. Pazarınız, (CSP) program tekliflerini satıp Bulut Çözümü Sağlayıcısı bölgeleri ve/veya ülkeleri içerir.
 
-Örneğin, şirketiniz Birleşik Devletler yer alıyorsa ABD 'de ve ABD 'de ABD 'de müşterilere CSP teklifleri satın alabilirsiniz. Şirketiniz Brezilya 'da bulunuyorsa, yalnızca Brezilya 'da müşterilere CSP teklifleri satıtabilirsiniz. Şirketiniz Afrika bölgesinde bulunuyorsa, Afrika bölgesindeki tüm 18 ülkede müşterilere CSP teklifleri satıtabilirsiniz.
+Örneğin, şirket şirket Birleşik Devletler, CSP tekliflerini ABD'de ve ABD'de Bulunan Adaları'nda müşterilere satarak. Şirketiniz Brezilya'da bulunuyorsa CSP tekliflerini yalnızca Brezilya'daki müşterilere sattırın. Şirketiniz Afrika bölgesinde bulunuyorsa, AFRIKA bölgesinde 18 ülkenin tamamlarında bulunan müşterilere CSP teklifleri sattırın.
 
-CSP tekliflerini bir müşteri adına sipariş etmeden önce, müşterinin Microsoft Müşteri sözleşmesini imzalaması gerekir. Bölgeniz/ülkeniz için geçerli Microsoft Müşteri Sözleşmesi ' ni [buradan](agreements.md)edinebilirsiniz.
+CsP tekliflerini müşteri adına sipariş etmek için önce müşterinin csp tekliflerini Microsoft Müşteri Sözleşmesi. Bölgeniz/ülkeniz için Microsoft Müşteri Sözleşmesi uygun uygun bölgeyi burada [bulabilirsiniz.](agreements.md)
 
-## <a name="azure-plan-for-csp-region-availability"></a>CSP bölge kullanılabilirliği için Azure planı  
+## <a name="azure-plan-for-csp-region-availability"></a>CSP bölge kullanılabilirliği için Azure Planı  
 
-CSP için Azure planı, CSP için Azure yazılımından daha az bölgede kullanılabilir. Azure planına yönelik bölgesel kullanılabilirlik hakkında en son güncelleştirmeler için bkz. [Azure planını satın alma](purchase-azure-plan.md).
+CSP için Azure Planı, CSP için Azure Yazılımı'dan daha az bölgede kullanılabilir. Azure Planı'nın bölgesel kullanılabilirliğiyle ilgili en son güncelleştirmeler için [bkz. Azure planını satın alma.](purchase-azure-plan.md)
 
 >[!IMPORTANT]
-> Bir müşterinin Microsoft Müşteri anlaşmasını imzalayan kişi hakkında bilgi sağlayarak kabul ettiğini onaylamanız gerekir. Daha fazla bilgi için bkz. [müşterinin Microsoft Müşteri Sözleşmesi 'ni kabul ettiğini doğrulayın](confirm-consent.md) .
+> İmzalayan kişi hakkında bilgi sağlayarak müşterinin Microsoft Müşteri Sözleşmesi kabul etmiş olduğunu onaylamanız gerekir. Daha [fazla bilgi için bkz. Müşterinin Microsoft Müşteri Sözleşmesi](./confirm-customer-agreement.md) onaylayın.
 
-CSP tekliflerini nerede oluşturabileceğiniz hakkında bilgi edinmek için, aşağıdaki listelerden birinde şirketinizin konumunu bulun. Satmak istediğiniz konum için etkin bir Microsoft İş Ortağı Ağı (MPN) KIMLIĞINIZ olmalıdır.  
+CSP tekliflerini nerede satabilirsiniz, belirlemek için aşağıdaki listelerden biri içinde şirket konumunu bulun. Satış yapmak istediğiniz konum için Microsoft İş Ortağı Ağı (MPN) kimliğine sahip olmak gerekir.  
 
 
 ## <a name="for-unsupported-countries"></a>Desteklenmeyen ülkeler için
 
-Ülkeniz desteklenmiyorsa, Office Yönetici URL 'sini kullanarak müşteri CSP 'si ilişkisini kurun. 
+Ülkeniz desteklenmiyorsa Office yönetici URL'sini kullanarak müşteri CSP ilişkisini belirtin. 
 
-- Doğrudan fatura ortakları Şu URL 'yi kullanır: https://portal.office.com/partner/partnersignup.aspx?type=ResellerRelationship&id=partnertenantguid&csp=1&msppid=0 . **partnertenantguid yerine** kiracı kimliğiniz girin. 
+- Doğrudan fatura iş ortakları şu URL'yi kullanır: https://portal.office.com/partner/partnersignup.aspx?type=ResellerRelationship&id=partnertenantguid&csp=1&msppid=0 . **Partnertenantguıd değerini** kiracı Kimliğinizle değiştirin. 
 
-- Dolaylı kurumsal bayilerin URL'si: https://portal.office.com/partner/partnersignup.aspx?type=IndirectResellerRelationship&id=IRtenantguid&csp=1&msppid=IRMPNID&indirectCSP=IPtenantguid . **IRtenantguid yerine** kiracı kimliğinizi girin. **IRMPNID yerine** MPN kimliğinizi, **IPtenantguid** yerine de dolaylı sağlayıcı kiracı kimliğinizi girin.
+- Dolaylı satıcıların URL 'SI: https://portal.office.com/partner/partnersignup.aspx?type=IndirectResellerRelationship&id=IRtenantguid&csp=1&msppid=IRMPNID&indirectCSP=IPtenantguid . **Irtenantguıd değerini** kiracı Kimliğinizle değiştirin. **Impnıd** 'yi MPN Kimliğinizle değiştirin ve **ıptenantguıd** ÖĞESINI dolaylı sağlayıcı kiracı Kimliğinizle değiştirin.
 
-## <a name="africa-region-and-market"></a>Afrika bölgesi ve pazarı
+## <a name="africa-region-and-market"></a>Afrika bölgesi ve Pazar
 
-Şirketin konumu aşağıdaki listede yer alıyorsa CSP tekliflerini listede yer alan tüm konumlarda müşterilere satabilirsiniz.
+Şirketinizin konumu aşağıdaki listede ise, müşteriler için listedeki tüm konumlarda CSP teklifleri satın alabilirsiniz.
 
 | Ülke/Bölge           | Para Birimi |
 | ------------------------ |:--------:|
@@ -86,22 +86,22 @@ CSP tekliflerini nerede oluşturabileceğiniz hakkında bilgi edinmek için, aş
 | Nijerya                  |   USD    |
 | Reunion                  |   USD    |
 | Ruanda                   |   USD    |
-| Séo Tomé ve Préncipe    |   USD    |
+| Sao Tome ve Principe    |   USD    |
 | Senegal                  |   USD    |
 | Seyşeller               |   USD    |
 | Sierra Leone             |   USD    |
 | Somali                  |   USD    |
 | Güney Sudan              |   USD    |
-| St Helena, Ascension, Tristan da Cunha|    USD   |
+| Saint Helena, Ascension ve Tristan da Cunha|    USD   |
 | Tanzanya                 |   USD    |
 | Togo                     |   USD    |
 | Uganda                   |   USD    |
 | Zambiya                   |   USD    |
 |
 
-## <a name="asia-and-pacific-region-and-market"></a>Asya ve Pasifik bölgesi ve pazarı
+## <a name="asia-and-pacific-region-and-market"></a>Asya ve Pasifik bölgesi ve Pazar
 
-Şirketin konumu aşağıdaki listede yer alıyorsa CSP tekliflerini listede yer alan tüm konumlarda müşterilere satabilirsiniz.
+Şirketinizin konumu aşağıdaki listede ise, müşteriler için listedeki tüm konumlarda CSP teklifleri satın alabilirsiniz.
 
 | Ülke/Bölge     | Para Birimi |
 | --------------     |:--------:|
@@ -125,9 +125,9 @@ CSP tekliflerini nerede oluşturabileceğiniz hakkında bilgi edinmek için, aş
 |  Vietnam           |   USD    |
 |
 
-## <a name="australia-region-and-market"></a>Avustralya bölgesi ve pazarı
+## <a name="australia-region-and-market"></a>Avustralya bölgesi ve Pazar
 
-Şirketin konumu aşağıdaki listede yer alıyorsa CSP tekliflerini listede yer alan tüm konumlarda müşterilere satabilirsiniz.
+Şirketinizin konumu aşağıdaki listede ise, müşteriler için listedeki tüm konumlarda CSP teklifleri satın alabilirsiniz.
 
 |  Ülke/Bölge        | Para Birimi |
 |  --------------        |:--------:|
@@ -153,21 +153,21 @@ CSP tekliflerini nerede oluşturabileceğiniz hakkında bilgi edinmek için, aş
 |  Tokelau               |   AUD    |
 |  Tonga                 |   AUD    |
 |  Tuvalu                |   AUD    |
-|  Wallis veUçsuzuna     |   AUD    |
+|  Wallis ve Futuna     |   AUD    |
 |
 
-## <a name="brazil-region-and-market"></a>Brezilya bölgesi ve pazarı
+## <a name="brazil-region-and-market"></a>Brezilya bölgesi ve Pazar
 
-Şirketin konumu Brezilya ise CSP tekliflerini Brezilya'daki müşterilere satabilirsiniz.
+Şirketinizin konumu Brezilya ise, Brezilya 'daki müşterilere CSP teklifleri satın alabilirsiniz.
 
 |  Ülke/Bölge | Para Birimi |
 |  -------------- |:--------:|
 |  Brezilya         |   USD    |
 |
 
-## <a name="canada-region-and-market"></a>Kanada bölgesi ve pazarı
+## <a name="canada-region-and-market"></a>Kanada bölgesi ve Pazar
 
-Şirketin konumu aşağıdaki listede yer alıyorsa CSP tekliflerini listede yer alan tüm konumlarda müşterilere satabilirsiniz.
+Şirketinizin konumu aşağıdaki listede ise, müşteriler için listedeki tüm konumlarda CSP teklifleri satın alabilirsiniz.
 
 |  Ülke/Bölge | Para Birimi |
 |  -------------- |:--------:|
@@ -175,13 +175,13 @@ CSP tekliflerini nerede oluşturabileceğiniz hakkında bilgi edinmek için, aş
 |  Saint Pierre ve Miquelon|  CAD   |
 |
 
-## <a name="europe-region-and-market"></a>Avrupa bölgesi ve pazarı
+## <a name="europe-region-and-market"></a>Avrupa bölgesi ve Pazar
 
-Şirketin konumu aşağıdaki listede yer alıyorsa CSP tekliflerini listede yer alan tüm konumlarda müşterilere satabilirsiniz.
+Şirketinizin konumu aşağıdaki listede ise, müşteriler için listedeki tüm konumlarda CSP teklifleri satın alabilirsiniz.
 
 |  Ülke/Bölge | Para Birimi  |
 |  -------------- |:--------:|
-|  Åland Adaları  |   EUR    |
+|  Bir i Adaları  |   EUR    |
 |  Andorra        |   EUR    |
 |  Avusturya        |   EUR    |
 |  Belçika        |   EUR    |
@@ -228,36 +228,36 @@ CSP tekliflerini nerede oluşturabileceğiniz hakkında bilgi edinmek için, aş
 |  Vatikan   |          |
 |
 
-## <a name="india-region-and-market"></a>Hindistan bölgesi ve Pazar
+## <a name="india-region-and-market"></a>Hindistan bölgesi ve pazarı
 
-Şirketinizin konumu Hindistan ise, Hindistan 'daki müşterilere CSP teklifleri satın alabilirsiniz.
+Şirketin konumu Hindistan ise, CSP tekliflerini Hindistan'daki müşterilere satabilirsiniz.
 
 |  Ülke/Bölge | Para Birimi |
 |  -------------- |:--------:|
 |  Hindistan          |   INR    |
 |
 
-## <a name="japan-region-and-market"></a>Japonya bölgesi ve Pazar
+## <a name="japan-region-and-market"></a>Japonya bölgesi ve pazarı
 
-Şirketinizin konumu Japonya ise, Japonya 'daki müşterilere CSP teklifleri satıtabilirsiniz.
+Şirketin konumu Japonya ise CSP tekliflerini Japonya'daki müşterilere satabilirsiniz.
 
 |  Ülke/Bölge | Para Birimi |
 |  -------------- |:--------:|
 |  Japonya          |   JPY    |
 |
 
-## <a name="korea-republic-of-region-and-market"></a>Kore, bölge ve Pazar Cumhuriyeti
+## <a name="korea-republic-of-region-and-market"></a>Kore, Bölge ve Pazar Cumhuriyeti
 
-Şirketinizin konumu Kore, Cumhuriyeti ise, Kore 'deki müşterilere CSP teklifleri satın alabilirsiniz.
+Şirketin konumu Kore Cumhuriyeti ise, CSP tekliflerini Kore Cumhuriyeti'nde müşterilere satabilirsiniz.
 
 |  Ülke/Bölge    | Para Birimi |
 |  --------------    |:--------:|
 |  Kore Cumhuriyeti|   KRW    |
 |
 
-## <a name="latin-america-and-the-caribbean-region-and-market"></a>Latin Amerika ve Karayipler Bölgesi ve Pazar
+## <a name="latin-america-and-the-caribbean-region-and-market"></a>Latin Amerika bölgesi ve pazarı
 
-Şirketinizin konumu aşağıdaki listede ise, müşteriler için listedeki tüm konumlarda CSP teklifleri satın alabilirsiniz.
+Şirketin konumu aşağıdaki listede yer alıyorsa CSP tekliflerini listede yer alan tüm konumlarda müşterilere satabilirsiniz.
 
 |  Ülke/Bölge | Para Birimi |
 |  -------------- |:--------:|
@@ -316,9 +316,9 @@ CSP tekliflerini nerede oluşturabileceğiniz hakkında bilgi edinmek için, aş
 |  Virgin Adaları, ABD| USD |
 |
 
-## <a name="middle-east-central-europe-and-eastern-europe-region-and-market"></a>Orta Doğu, Orta Avrupa ve Doğu Avrupa bölgesi ve Pazar
+## <a name="middle-east-central-europe-and-eastern-europe-region-and-market"></a>Orta Doğu, Orta Avrupa ve Doğu Avrupa bölgesi ve pazarı
 
-Şirketinizin konumu aşağıdaki listede ise, müşteriler için listedeki tüm konumlarda CSP teklifleri satın alabilirsiniz.
+Şirketin konumu aşağıdaki listede yer alıyorsa CSP tekliflerini listede yer alan tüm konumlarda müşterilere satabilirsiniz.
 
 |  Ülke/Bölge | Para Birimi |
 |  -------------- |:--------:|
@@ -343,7 +343,7 @@ CSP tekliflerini nerede oluşturabileceğiniz hakkında bilgi edinmek için, aş
 |  Lübnan        |   USD    |
 |  Lesotho        |   USD    |
 |  Libya          |   USD    |
-|  Makedonya Cumhuriyeti|   |
+|  Kuzey Avrupa Cumhuriyeti|   |
 |  Moritanya     |   USD    |
 |  Moldova        |   USD    |
 |  Moğolistan       |   USD    |
@@ -352,7 +352,7 @@ CSP tekliflerini nerede oluşturabileceğiniz hakkında bilgi edinmek için, aş
 |  Mozambik     |   USD    |
 |  Umman           |   USD    |
 |  Pakistan       |   USD    |
-|  Filistin toprakları, dolu |        |
+|  Palestinian Territory, Occupied |        |
 |  Katar          |   USD    |
 |  Suudi Arabistan   |   USD    |
 |  Sırbistan         |   USD    |
@@ -369,9 +369,9 @@ CSP tekliflerini nerede oluşturabileceğiniz hakkında bilgi edinmek için, aş
 |  Zimbabve       |   USD    |
 |
 
-## <a name="new-zealand-region-and-market"></a>Yeni Zelanda bölgesi ve Pazar
+## <a name="new-zealand-region-and-market"></a>Yeni Zelanda bölgesi ve pazarı
 
-Şirketinizin konumu aşağıdaki listede ise, müşteriler için listedeki tüm konumlarda CSP teklifleri satın alabilirsiniz.
+Şirketin konumu aşağıdaki listede yer alıyorsa CSP tekliflerini listede yer alan tüm konumlarda müşterilere satabilirsiniz.
 
 |  Ülke/Bölge | Para Birimi |
 |  -------------- |:--------:|
@@ -381,30 +381,30 @@ CSP tekliflerini nerede oluşturabileceğiniz hakkında bilgi edinmek için, aş
 |  Vanuatu        |   NZD    |
 |
 
-## <a name="russia-region-and-market"></a>Rusya bölgesi ve Pazar
+## <a name="russia-region-and-market"></a>Rusya bölgesi ve pazarı
 
-Şirketinizin konumu Rusya ise, Rusya 'daki müşterilere CSP teklifleri satıtabilirsiniz.
+Şirketin konumu Rusya ise, CSP tekliflerini Rusya'daki müşterilere satabilirsiniz.
 
 |  Ülke/Bölge | Para Birimi |
 |  -------------- |:--------:|
 |  Rusya         |    RUB   |
 |
 
-## <a name="taiwan-region-and-market"></a>Tayvan Bölgesi ve Pazar
+## <a name="taiwan-region-and-market"></a>Tayvan bölgesi ve pazarı
 
-Şirketinizin konumu Tayvan ise, Tayvan 'daki müşterilere CSP teklifleri satıtabilirsiniz.
+Şirketin konumu Tayvan ise, Tayvan'daki müşterilere CSP teklifleri satabilirsiniz.
 
 |  Ülke/Bölge | Para Birimi |
 |  -------------- |:--------:|
 |  Tayvan         |   TWD    |
 |
 
-## <a name="united-states-region-and-market"></a>Bölge ve Pazar Birleşik Devletler
+## <a name="united-states-region-and-market"></a>Birleşik Devletler bölge ve pazar
 
-Şirketinizin konumu aşağıdaki listede ise, müşteriler için listedeki tüm konumlarda CSP teklifleri satın alabilirsiniz.
+Şirketin konumu aşağıdaki listede yer alıyorsa CSP tekliflerini listede yer alan tüm konumlarda müşterilere satabilirsiniz.
 
 |  Ülke/Bölge       | Para Birimi |
 |  -------------        |:--------:|
 |  Birleşik Devletler        |   USD    |
-|  ABD'de Outlying Adaları|   USD    |
+|  ABD harici Adaları|   USD    |
 |

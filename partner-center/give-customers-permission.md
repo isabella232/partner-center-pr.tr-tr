@@ -1,6 +1,6 @@
 ---
-title: Müşterilerin CSP 'de kendi hizmetlerini satın almasına izin ver
-description: CSP program iş ortaklarının, müşterilerin, Iş Ortağı Merkezi 'nde satın alınan bir abonelik için Azure ayırmaları gibi kendi hizmetlerini satın almasına nasıl yardımcı olabileceğini öğrenin.
+title: Müşterilerin CSP'de kendi hizmetlerini satın almalarına izin verme
+description: CSP programı iş ortaklarının, müşterilere azure rezervasyonları gibi kendi hizmetlerini satın almalarına nasıl izin ve İş Ortağı Merkezi.
 ms.topic: how-to
 ms.date: 05/18/2020
 ms.service: partner-dashboard
@@ -9,37 +9,34 @@ author: amitravat
 ms.author: amrava
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4feaa8cba8ba17f553b5e936dcf892ffbf7ccc82
-ms.sourcegitcommit: 3c26a61982082787bbdaf5d1e92553b26f3a5076
+ms.openlocfilehash: 9fabd6bd188c9d596128672d9fce3321db9b5432
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/06/2021
-ms.locfileid: "106441311"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150769"
 ---
-# <a name="give-customers-permission-in-partner-center-to-buy-their-own-products-or-services"></a>Iş Ortağı Merkezi 'nde müşterilere kendi ürünlerini veya hizmetlerini satın alma izni verin
+# <a name="give-customers-permission-in-partner-center-to-buy-their-own-products-or-services"></a>Müşterilere kendi İş Ortağı Merkezi hizmetlerini satın almaları için izin verme
 
-**Uygun roller**
+**Uygun roller:** Yönetici aracısı | Satış aracısı
 
-- Yönetim Aracısı
-- Satış Aracısı
+Bu makalede, Bulut Çözümü Sağlayıcısı (CSP) programı kapsamındaki bir iş ortağının bir müşteriye kendi hizmet veya kaynaklarını satın alma izni vermesine nasıl izin ver olduğu gösterir.
 
-Bu makalede, bulut çözümü sağlayıcısı (CSP) programındaki bir ortağın bir müşterinin kendi hizmet veya kaynaklarından bazılarını satın alma izni verme yöntemi gösterilmektedir.
+CSP programı iş ortakları genellikle İş Ortağı Merkezi ve ticari marketini kullanarak müşterilerine çözüm ve hizmet satın alır. İş ortakları daha sonra bazı müşterilerin bu hizmetleri doğrudan doğrudan hizmetlerden sağlamalarına Azure portal.
 
-CSP programındaki iş ortakları, müşterilerine yönelik çözümler ve hizmetler satın almak için genellikle Iş Ortağı Merkezi 'ni ve ticari marketi 'ni kullanır. İş ortakları daha sonra bazı müşterilerin bu hizmetleri doğrudan Azure portal sağlamasına izin verir.
+Aşağıda bir örneği yer alır. Bir müşteri için azure planı aboneliği satın alasınız ve İş Ortağı Merkezi. Ardından bu aboneliğe müşteri adına başka kaynaklar veya hizmetler eklemeye karar veriyorsanız. Bu durumda, müşterinin aboneliğine (ayrılmış sanal makine örnekleri ekleme gibi) Azure rezervasyonları ekebilirsiniz. Daha sonra müşterinin Azure rezervasyon kaynaklarını daha fazla sağlamalarına izin ve Azure portal.
 
-Aşağıda bir örneği yer alır. Iş Ortağı Merkezi 'nde müşteri için bir Azure plan aboneliği satın aldığınızı varsayalım. Daha sonra bu aboneliğe diğer kaynakları veya Hizmetleri Müşterinin adına eklemeye karar verirsiniz. Bu durumda, müşterinin aboneliğine Azure ayırmaları ekleyebilirsiniz (örneğin, ayrılmış, sanal makine örnekleri ekleme). Daha sonra müşterinin Azure portal Azure ayırma kaynaklarını daha fazla sağlamasını sağlayabilirsiniz.
+Şimdi Müşteri izinleri **özelliğiyle,** Müşterilere Azure kaynaklarıyla daha fazla self servis seçeneği sunarsınız. Müşterinin izinlerini kullanarak, müşterilerin kendi kaynaklarını satın almalarına (örneğin, kendi Azure rezervasyonlarını satın almalarına) izin vesersiniz.  
 
-Artık **Müşteri izinleri** özelliği Ile müşterilere Azure kaynaklarıyla daha fazla self servis seçeneği verirsiniz. Müşteri için izinleri etkinleştirerek müşterilerin kendi kaynaklarını satın almasını (örneğin, kendi Azure ayırmalarını satın almasını) sağlayabilirsiniz.  
+## <a name="overview-of-customer-permissions-in-partner-center"></a>İş Ortağı Merkezi'daki müşteri izinlerine genel bakış
 
-## <a name="overview-of-customer-permissions-in-partner-center"></a>Iş Ortağı Merkezi 'nde müşteri izinlerine genel bakış
+Müşteri **izinlerini** açmak (veya kapatmak) için Müşteri Hesabı sayfasını kullanın. Şu anda bu özellik şunları destekler:
 
-Müşteri izinlerini açmak (veya devre dışı bırakmak) için müşteri **hesabı** sayfasını kullanın. Şu anda bu özellik şunları destekler:
+- **Azure rezervasyonları:** Bu iznin açması, müşterinin sizin satın aldığınız belirli bir Azure aboneliği için kendi Azure rezervasyonlarını satın almalarına olanak sağlar.
 
-- **Azure ayırmaları:** Bu izni açmak, müşterinin satın almış olduğunuz belirli bir Azure aboneliği için kendi Azure ayırmalarını satın almasına izin verir.
+Müşteri izinlerini açmadan önce şu önemli noktalara dikkat olun:
 
-Müşteri izinlerini açmadan önce şu önemli noktaları aklınızda bulabilirsiniz:
-
-- Varsayılan olarak, Iş Ortağı Merkezi 'nde müşteri izinleri otomatik olarak devre dışı bırakılır (kapalı bırakılır).
+- Varsayılan olarak, müşteri izinleri otomatik olarak devre dışı bırakılır (İş Ortağı Merkezi.
 
 - Bir müşteri için izinleri açmak (veya devre dışı bırakmak) için önce Iş Ortağı Merkezi ' nde yönetici Aracısı rolüne atanmalısınız.
 
@@ -65,31 +62,31 @@ Azure ayırmaları, Azure hizmetlerini indirimli bir ücret karşılığında sa
 Artık zaten yaptığınız gibi müşterileriniz adına Azure ayırmaları satın alma seçeneğiniz vardır. Ya da müşterilere kendi Azure ayırmalarını satın alma izni verebilirsiniz.
 
 >[!NOTE]
-> Müşterilere kendi Azure ayırmalarını satın alma izni verdikten sonra, satın aldıkları rezervasyonları yönetmesine yardımcı olun. Daha fazla bilgi için bkz. [müşterilerin satın aldıkları ayırmaları yönetmesine yardımcı olma](give-customers-permission.md#help-customers-manage-reservations-they-purchase).
+> Müşterilere kendi Azure rezervasyonlarını satın alma izni verdikten sonra, satın aldıkları rezervasyonları yönetmelerine yardımcı olur. Daha fazla bilgi için [bkz. Müşterilerin satın aldıkları rezervasyonları yönetmeye yardımcı olur.](give-customers-permission.md#help-customers-manage-reservations-they-purchase)
 
-### <a name="to-enable-customers-to-buy-their-own-azure-reservations"></a>Müşterilerin kendi Azure ayırmalarını satın almasını sağlamak için
+### <a name="to-enable-customers-to-buy-their-own-azure-reservations"></a>Müşterilerin kendi Azure rezervasyonlarını satın almalarını sağlamak için
 
-1. Müşterinin kendi adına satın aldığınız mevcut bir Azure planına veya Azure genel aboneliğine sahip olduğunu doğrulayın.
+1. Müşterinin kendi adına satın aldığınız bir Azure Planı veya Azure Genel aboneliği olduğunu doğrulayın.
 
-2. Müşterinin bu abonelik için **sahip** rolüne atandığını doğrulayın.
+2. Müşteriye bu abonelik için Sahip **rolü atandığı** doğrulayın.
 
-3. Kendi Azure ayırmalarını satın almak için müşteri izinlerini etkinleştirin (Bu özelliği **etkinleştirin).**
+3. Kendi Azure rezervasyonlarını satın almak için **müşteri** izinlerini etkinleştirin (bu özelliği Aç) .
 
 Her adım aşağıda görünür.
 
-### <a name="verify-the-customer-has-an-existing-azure-subscription"></a>Müşterinin mevcut bir Azure aboneliğine sahip olduğunu doğrulayın
+### <a name="verify-the-customer-has-an-existing-azure-subscription"></a>Müşterinin mevcut bir Azure aboneliğine sahip olduğunu doğrulama
 
-Müşterilere kendi Azure ayırmalarını satın alma izni vermeden önce, müşterinin mevcut bir Azure planına veya Azure genel aboneliğine sahip olduğunu doğrulamanız gerekir. Müşteri, Iş Ortağı Merkezi 'nde geçerli bir Azure aboneliği gösteriyorsa, müşteri izinlerini açmadan önce bu abonelik için bir abonelik satın almanız gerekir.
+Müşterilere kendi Azure rezervasyonlarını satın alma izni vermeden önce müşterinin mevcut bir Azure Planı veya Azure Genel aboneliğine sahip olduğunu doğrulamanız gerekir. Müşteri abonelikte geçerli Azure aboneliğini İş Ortağı Merkezi, müşteri izinlerini açmadan önce onun için bir abonelik satın alasınız.
 
-- Bir müşterinin zaten bir Azure aboneliğine sahip olup olmadığını görmek için Iş Ortağı Merkezi panosunda oturum açın ve ardından **CSP** ' yi ve ardından **müşteriler**' i seçin. Listeden belirli müşteriyi seçin. Ardından **abonelikler** ' i seçin ve Azure planı ya da Azure Global için kullanım tabanlı abonelikler için arama yapın.
+- Müşterinin zaten bir Azure aboneliği olup olduğunu görmek için İş Ortağı Merkezi panosunda oturum açın, **ardından CSP'yi** ve ardından **Müşteriler'i seçin.** Listeden belirli bir müşteriyi seçin. Ardından **Abonelikler'i** seçin ve Azure Planı veya Azure Genel için kullanım tabanlı abonelikleri arama.
 
-- Bir müşterinin mevcut bir Azure aboneliği yoksa, bunlar için bir abonelik satın alabilirsiniz. Bkz. [Azure planını satın alma](purchase-azure-plan.md).
+- Müşterinin mevcut bir Azure aboneliği yoksa, onun için bir abonelik satın alabilirsiniz. Bkz. [Azure Planı satın alma.](purchase-azure-plan.md)
 
-### <a name="verify-the-customer-has-been-assigned-the-correct-role-in-azure"></a>Müşterinin Azure 'da doğru rolün atandığını doğrulayın
+### <a name="verify-the-customer-has-been-assigned-the-correct-role-in-azure"></a>Müşteriye Azure'da doğru rolün atandığı doğrulayın
 
-Müşterinin mevcut bir Azure aboneliğine sahip olduğunu doğruladıktan sonra, müşterinizin ilişkilendirildiği anahtar kullanıcılara bu Azure aboneliği için doğru **sahip** rolü atandığını da doğrulamanız gerekir. Bu, müşterinin satın aldığınız bir Azure aboneliği için Azure ayırmaları satın alması gereken rol tabanlı erişimdir (RBAC).
+Müşterinin mevcut bir Azure aboneliğine sahip olduğunu doğruladikten sonra, müşteriyle ilişkili önemli kullanıcılara bu Azure aboneliği için doğru **Sahip** rolünün atandığı da doğru olur. Bu, müşterinin satın aldığınız Azure aboneliği için Azure rezervasyonları satın almaları gereken rol tabanlı erişimdir (RBAC).
 
-Bazı iş ortakları, kendi Azure kaynaklarını etkin bir şekilde yönetmek ve sağlamak isteyen müşterilere **sahip** rolüne zaten atanmış olabilir. Satın aldığınız önceki abonelikleri yönetmek üzere bir müşteriye zaten **sahip** durumu atadıysanız, bu adımı atlayabilirsiniz.  
+Bazı iş ortakları, kendi Azure kaynaklarını **etkin bir** şekilde yönetmek ve sağlamak isteyen müşterilere Zaten Sahip rolü atamış olabilir. Satın aldığınız önceki abonelikleri yönetmek üzere bir müşteriye zaten **sahip** durumu atadıysanız, bu adımı atlayabilirsiniz.  
 
 > [!IMPORTANT]
 > Bir müşteriye **sahip** rolü atanmamışsa, Azure ayırmaları satın almasını önlemek Azure Portal bir hata alırlar.
@@ -144,18 +141,18 @@ Azure ayırmalarının bu yönlerini yönetme hakkında daha fazla bilgi edinmek
 - Müşteriler, bir paylaşılan kapsama sahip ayırmaları satın aldığında ne olur?
 - Müşteriler bir ayırmayı değiştirmek, iptal etmek ve yenilemek ya da kapsamını değiştirmek istiyorsam ne olur?
 
-**Müşteriler, ayırmaları için ödeme yapacak fiyatlar.** Müşteriniz, CSP iş ortağı faturalandırma hesabınızda daha önce satın aldığınız bir aboneliğe göre Azure ayırmaları satın alır. Müşterinin, bu aboneliğe göre satın aldıkları tüm Azure ayırmaları için fiyatı sizin sizin tarafınızdan de ayarlanır. Bu fiyat, müşterinin Azure portal gördüğü web doğrudan fiyatından farklı olabilir.
+**Müşteriler, ayırmaları için ödeme yapacak fiyatlar.** Müşteriniz, CSP iş ortağı faturalandırma hesabınızda daha önce satın aldığınız bir aboneliğe göre Azure ayırmaları satın alır. Bu aboneliğe göre satın aldıkları Tüm Azure rezervasyonları için müşterinin fiyatı da sizin tarafından ayarlanır. Bu fiyat, müşterinin hizmette gördüğü Web Direct fiyatından farklı Azure portal.
 
-**Müşteriler bir ayırma kullanımını nasıl iyileştirebilirler.** Bazı müşteriler, bir ayırma kullanımını iyileştirmek veya satın alma sırasında rezervasyonun ilk kapsamını atamak hakkında daha fazla bilgi edinmeye yarar sağlayabilir. Daha fazla bilgi için müşterilerin [Azure kaynakları için ayırmaları yönetme](/azure/cost-management-billing/reservations/manage-reserved-vm-instance)bilgilerini okumasını isteyin.
+**Müşterilerin rezervasyon kullanımını nasıl en iyi duruma getirmeleri.** Bazı müşteriler, rezervasyon kullanımını iyileştirme veya satın alma sırasında rezervasyonun ilk kapsamını atama hakkında daha fazla bilgi elde etme avantajından yararlanabilir. Daha fazla bilgi için, müşterilerden Azure kaynakları [için rezervasyonları yönetme makalelerini okumalarını sorun.](/azure/cost-management-billing/reservations/manage-reserved-vm-instance)
 
-**Bir müşteri, paylaşılan bir kapsama sahip bir rezervasyon satın aldığında ne olur?** Müşteriler önceki bir CSP aboneliğine göre bir ayırma satın alıp bu ayırmaya bir paylaşılan kapsam atadıktan sonra, müşterinin CSP tarafından verilen tüm indirimler, CSP iş ortağı tarafından satın alınan tüm abonelikler için eşleşen kullanım için geçerlidir.
+**Müşteri, paylaşılan kapsamda bir rezervasyon satın aldıktan sonra ne olur?** Müşteriler önceki bir CSP aboneliğine göre rezervasyon satın alan ve bu rezervasyona paylaşılan bir kapsam atasa, CSP tarafından müşteriye verilen indirimler, CSP iş ortağının o müşteri için satın alan tüm abonelikler için eşleşen kullanım için geçerli olur.
 
-**Müşteriler, yapmış oldukları bir satın alma, iptal etme veya yenileme ya da bir ayırmanın başlangıç kapsamını değiştirme amacıyla ne yapması gerekir?** Müşterilerin, bir ayırmanın ilk kapsamını değiştirmesine yardımcı olması için iş ortağlarına sormaları gerekir. Ayrıca, bir ayırmayı Exchange, iptal etme veya yenileme için bir iş ortağının yardımına de ihtiyacı vardır. Bu görevleri, kendilerine bir CSP iş ortağı tarafından satın alınan abonelikler temelinde rezervasyon ile gerçekleştiremez.
+**Müşterilerin, yapmış olduğu bir satın alma işlemini değiştirmek, iptal etmek veya yenilemek ya da rezervasyonun ilk kapsamını değiştirmek istemeleri durumunda ne yapmaları gerekir?** Müşterilerin iş ortaklarından rezervasyonun ilk kapsamını değiştirmelerine yardımcı olmak istemesi gerekir. Ayrıca rezervasyonu değiştirme, iptal etme veya yenileme için bir iş ortağının yardımı da gerekir. CsP iş ortağı tarafından satın alınan abonelikleri temel alan rezervasyonlarla bu görevleri kendileri gerçekleştirebilirler.
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-- [Müşterileriniz adına Azure ayırmaları satın alın](azure-reservations-buying.md)
+- [Müşterileriniz adına Azure rezervasyonları satın alma](azure-reservations-buying.md)
 
-- [İş Ortağı Merkezi-Microsoft ayırmaları satma](azure-reservations.md)
+- [İş Ortağı Merkezi - Microsoft rezervasyonları satma](azure-reservations.md)
 
-- [Azure rezervasyonlarını müşterileriniz adına yönetme](azure-reservations-manage.md)
+- [Müşterileriniz adına Azure rezervasyonlarını yönetme](azure-reservations-manage.md)

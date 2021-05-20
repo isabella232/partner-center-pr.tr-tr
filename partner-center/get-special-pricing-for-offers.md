@@ -1,6 +1,6 @@
 ---
 title: Özelleştirilmiş sektörlere satış
-description: Eğitim müşterileri, kar amacı olmayan müşteriler ve kamu kullanıcıları dahil olmak üzere, Microsoft 'un belirli müşteri grupları için özel, azaltılan fiyatlar hakkında bilgi edinin.
+description: Eğitim müşterileri, kar amacı gütmeyen müşteriler ve kamu kullanıcıları dahil olmak üzere belirli müşteri grupları için Microsoft'un özel, azaltılmış fiyatlandırması hakkında bilgi edinin.
 ms.topic: how-to
 ms.date: 05/04/2021
 ms.service: partner-dashboard
@@ -9,40 +9,36 @@ author: alikhaki
 ms.author: alikhaki
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bff69796cb753f93225bb44324629180d981a721
-ms.sourcegitcommit: 22e257d5b334ca8d3fc072f59010a508e1022694
+ms.openlocfilehash: 38985e48923bb0a3c6ad54eb600a44d419b5ad85
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/06/2021
-ms.locfileid: "108702697"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110150803"
 ---
 # <a name="sell-to-specialized-industries-like-education-non-profit-and-government-users"></a>Eğitim, kar amacı gütmeyen kuruluş ve kamu kullanıcıları gibi özelleştirilmiş sektörlere satış yapma
 
-**Uygun roller**
+**Uygun roller:** Genel yönetici | Yönetici aracısı | Satış aracısı
 
-- Genel yönetici
-- Yönetim Aracısı
-- Satış Aracısı
-
-Microsoft, Eğitim müşterileri, kar amacı olmayan müşteriler, küçük işletmeler ve kamu kurumları dahil olmak üzere belirli müşteri grupları için özel, daha düşük bir fiyatlandırma sağlar. Hem siz hem de müşterinizin özel fiyatlandırma sunmadan önce nitelikli olması gerekir. Bu özel fiyatlandırılır Şu anda yalnızca Microsoft 365, Dynamics, Intune vb. **Lisans tabanlı hizmetler için sunulmaktadır** . Diğer türler (yazılım abonelikleri, kalıcı yazılım veya Azure ürünleri) için kullanılamaz.
+Microsoft eğitim müşterileri, kar amacı gütmeyen müşteriler, küçük işletmeler ve kamu varlıkları gibi belirli müşteri grupları için özel ve azaltılmış fiyatlandırma sağlar. Özel fiyatlandırma sunmadan önce hem sizin hem de müşterinizin nitelikli olması gerekir. Bu özel fiyat teklifleri şu anda **yalnızca** Microsoft 365, Dynamics, Intune gibi lisans tabanlı hizmetler için kullanılabilir. Diğer türler (yazılım abonelikleri, kalıcı yazılım veya Azure ürünleri) için kullanılamaz.
 
 ## <a name="requirements-to-sell-to-specialized-industries"></a>Özelleştirilmiş sektörlere satış gereksinimleri
 
-|**Özel fiyatlandırma**   |**Satıcı gerekli nitelikleri**   |**Müşterinin gerektirdiği nitelikler**   |
+|**Özel fiyatlandırma**   |**Kurumsal bayi gerekli nitelikler**   |**Müşteri için gerekli nitelikler**   |
 |----------------------------|:---------------------------------|:------------------------------------------|
-|Eğitim   |Yok   | [Nitelikli bir eğitim kullanıcısı](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7)olmalıdır.   |
-|Kamu   |Azure 'u satmak için [MICROSOFT ABD kamu bulutu doğrulama formunu](https://azuregov.microsoft.com/csp)kullanarak kaydolun. Kamu 'ya lisans tabanlı abonelikler satmak için gerekli bir nitelik yoktur.|   Yok|
-|Kar Amacı Gütmeyen  |Yok<br/> , Kar olmayan Azure Active Directory kiracıya sahip olmalıdır.<br/> [Kar amacı gütmeyen özel teklifler](https://assetsprod.microsoft.com/mpn/nonprofit-skus-in-csp-faq.pdf) hakkında daha fazla bilgi edinin.   |Uygun olması için [Microsoft kar amacı olmayan programda](https://nonprofit.microsoft.com/#/register) kaydolun.   |
+|Eğitim   |Hiçbiri   | Nitelikli Eğitim [Kullanıcısı olması gerekir.](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7)   |
+|Kamu   |Azure'ı satmak için [Microsoft US Government Bulut Doğrulama formunu kullanarak kaydolabilirsiniz.](https://azuregov.microsoft.com/csp) Kamuya lisans tabanlı abonelikler satmak için gerekli bir nitelik yoktur.|   Hiçbiri|
+|Kar Amacı Gütmeyen  |Hiçbiri<br/> Kiracıda kar amacı gütmeyen bir Azure Active Directory olması gerekir.<br/> [Kar amacı gütmeyen özel teklifler](https://assetsprod.microsoft.com/mpn/nonprofit-skus-in-csp-faq.pdf) hakkında daha fazla bilgi edinin.   |Uygun olması için [Microsoft kar amacı gütmeyen program](https://nonprofit.microsoft.com/#/register) aracılığıyla kaydolabilirsiniz.   |
 
-## <a name="check-your-reseller-qualifications"></a>Satıcı niteliklerinizi denetleyin
+## <a name="check-your-reseller-qualifications"></a>Kurumsal bayi niteliklerinizi denetleme
 
-Aşağıdaki adımlar yalnızca dolaylı sağlayıcılar ve doğrudan fatura ortakları için geçerlidir. Dolaylı satıcıların, uygun eğitim kullanıcılarına akademik fiyatlı teklifler sunmak için dolaylı bir sağlayıcıya bağlanması gerekir.
+Aşağıdaki adımlar yalnızca dolaylı sağlayıcılar ve doğrudan fatura iş ortakları için geçerlidir. Dolaylı kurumsal bayilerin, nitelikli eğitim kullanıcılarına akademik olarak fiyatlandırarak teklif sunmak için dolaylı bir sağlayıcıyla bağlanması gerekir.
 
-1. Iş Ortağı Merkezi [panonuzda](https://partner.microsoft.com/dashboard), **Hesap ayarlarını** açmak için pencerenin sağ üst köşesindeki dişli simgesini seçin.
+1. Pano [İş Ortağı Merkezi,](https://partner.microsoft.com/dashboard)Hesap ayarları'ı açmak için pencerenin sağ üst köşesindeki dişli **simgesini seçin.**
 
-2. **Yasal profilinizde**, **Program bilgileri** bölümünde **satıcı nitelikleri**' ni arayın.
+2. Yasal **profilinizde,** Program bilgileri **bölümünde** Kurumsal Bayi **niteliklerini bulun.**
 
-3. **Satıcı niteliklerini** görmüyorsanız, henüz özel bir teklif satın alma yetkiniz yok demektir.
+3. Kurumsal Bayi **niteliklerini görmüyorsanız,** henüz herhangi bir özel teklif satın alma yetkisine sahip değilsiniz.
 
 ## <a name="check-the-customer-qualifications"></a>Müşteri niteliklerini denetleyin
 

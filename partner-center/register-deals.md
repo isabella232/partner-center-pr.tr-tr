@@ -4,47 +4,47 @@ ms.topic: article
 ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Bu anlaşmada kazan kazanarak İş Ortağı Merkezi, Microsoft'un gelecekte size daha fazla fırsat sağlamanıza yardımcı olur.
+description: Iş Ortağı Merkezi 'nde kazandığınızı bir anlaşmayı kaydettiğinizde, Microsoft 'un gelecekte daha fazla fırsat sağlamasına yardımcı olur.
 author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8f8b3a086f968ed00deefa718d3abc18223ba600
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: ba2610280de4ed989ce2bd139e2021a62fbb008b
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855752"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152996"
 ---
-# <a name="register-deals-youve-won-in-partner-center-so-you-can-get-more-opportunities-later"></a>Daha sonra daha fazla fırsat elde İş Ortağı Merkezi için İş Ortağı Merkezi anlaşmaları kaydetme
+# <a name="register-deals-youve-won-in-partner-center-so-you-can-get-more-opportunities-later"></a>Daha sonra daha fazla fırsat alabilmeniz için Iş Ortağı Merkezi 'nde kazandığı anlaşmaları kaydedin
 
-**Uygun roller:** Referans yöneticisi
+**Uygun roller**: başvuru Yöneticisi
 
-Anlaşma hakkında daha fazla bilgi sağlayarak İş Ortağı Merkezi anlaşmaları kaydedebilirsiniz. Bu bilgiler gelecekte size daha fazla fırsat sağlamamıza yardımcı olur.
+Sözleşme hakkında ek bilgiler sunarak, Iş Ortağı Merkezi 'nde kazanılan anlaşmaları kaydedebilirsiniz. Bu bilgiler ileride daha fazla fırsat sağlamanıza yardımcı olur.
 
-Belirli uygun çözümler için referans yanıt [](manage-leads.md) **sürecinde Kazan'ı** seçmenizin ardından anlaşmanızı kaydetmek için ek bilgi sağlamanız istenecek. Microsoft, size sağilen bilgileri gözden geçirecek ve inceleme işlemi sırasında ek ayrıntılar sorabilir.
+Belirli uygun çözümler için, [başvuru yanıt Işleminde](manage-leads.md) **kazanıldı** ' ı seçtikten sonra, sizden anlaşmayı kaydetmek için ek bilgiler sağlamanız istenecektir. Microsoft, sağladığınız bilgileri gözden geçirir ve gözden geçirme işlemi sırasında ek ayrıntılar isteyebilir.
 
-Ayrıca, bir referans aracılığıyla kaynaklansa bile çözümlerinizi kullanan yeni anlaşmaları da [kaydederek kazanacaksınız.](referrals.md) 
+Ayrıca, bir [başvuruya](referrals.md)ait olmasalar bile, çözümlerinizin birini kullanan yeni anlaşmalar da kaydedebilirsiniz. 
 
-## <a name="register-a-new-deal"></a>Yeni bir anlaşma kaydetme
+## <a name="register-a-new-deal"></a>Yeni bir anlaşma Kaydet
 
-Yeni bir anlaşma kaydetmek için Referanslar ve Anlaşma **kayıtları> a gidin > Eylem gerekiyor'a gidin** ve **+Yeni anlaşma'ya tıklayın.**
+Yeni bir anlaşma kaydetmek için, **başvurular > işleme kayıtları > eylem gereklidir** ve **+ Yeni anlaşma**' i seçin.
 
-Yeni **anlaşma sayfasında** aşağıdaki bilgileri ekleyin.
+**Yeni işlem** sayfasında, aşağıdaki bilgileri sağlayın.
 
-- **Müşteri ayrıntıları:** **Müşterinizin Şirket** adını girin ve **Ülke/Bölge olarak seçin.** Ardından şehirlerini **ve** **eyaletlerini/bölgelerini girin.**
-- **Çözüm:** Anlaşma için kullanılacak çözümü seçin. Doğru çözümü listede görmüyorsanız de destekle iletişime geçin.
-- **Sözleşme türü:** Bunun Yeni anlaşma mı **yoksa** önceki bir **sözleşmenin Yenilemesi** mi olduğunu belirtin.
-- **Toplam sözleşme değeri:** Katılım için beklenen toplam değer. Bu, tüm yazılım ve hizmet ücretlerini içermeli, ancak donanım maliyetlerini içermemektedir. Uygun para birimini seçmeyi emin olun.
-- **Çözüm değeri:** Anlaşma için kullanılacak bulut çözümünün toplam değeri. Yazılım ve bakım ücretleri ile ilişkili tüm maliyetleri eklediğinizden, ancak Microsoft tarafından ödenen reimbursable öğelerini, tekrarsız özelleştirme ücretlerini veya doğrudan ilişkili CSP lisans ücretlerini eklemeyin.
-- **Dağıtım tarihi**: **Azure** veya **başka** birini seçin.
-- **Çözüm nereye dağıtılacak?**: **Müşteri kiracısını** veya **iş ortağı kiracısını** seçin.
-- **Sözleşme başlangıç tarihi**: sözleşmenin başlayacağı tarih. Kullandıkça Öde (PAYG) anlaşmaları için ilk faturanın tarihini kullanın.
-- **Sözleşme bitiş tarihi**: sözleşme belirli bir tarihte sona eruygunsa **bitiş tarihi** olan ' ı seçin ve bu tarihi belirtin. Sözleşmenin belirli bir bitiş tarihi yoksa, **kalıcı**' ı seçin. Kullandıkça Öde (PAYG) anlaşmaları için son veya en son faturanın tarihini kullanın.
-- **Sözleşme imzalı tarihi**: son sözleşmenin kuruluşunuz tarafından ve müşteri tarafından imzalandığı tarih. Kullandıkça Öde (PAYG) anlaşmaları için ilk faturanın tarihini kullanın.
-- **Kayıt kişisi**: kuruluşunuzdaki bir kişinin **adı**, **Soyadı**, **telefon numarası** ve **e-posta** , burada belirtilen bilgilerden herhangi biri hakkında daha fazla ayrıntıya ihtiyacımız olursa sizinle iletişim kuruyoruz.
+- **Müşteri ayrıntıları**: Müşterinizin **şirket adını** girin ve **ülke/bölge** değerlerini seçin. Ardından, **şehir** ve **Eyalet/bölge** değerlerini girin.
+- **Çözüm**: anlaşma için kullanılacak çözümü seçin. Doğru çözümü listede görmüyorsanız desteğe başvurun.
+- **Anlaşma türü**: bunun **Yeni** bir sözleşme olup olmadığını veya önceki bir sözleşmenin **yenilenmesini** belirtin.
+- **Toplam anlaşma değeri**: katılım için beklenen toplam değer. Bu, tüm yazılım ve hizmet ücretlerini içermelidir, ancak donanım maliyetlerini içermez. Uygun para birimini seçtiğinizden emin olun.
+- **Çözüm değeri**: Bu işlem için kullanılacak bulut çözümünün toplam değeri. Yazılım ve bakım ücretleriyle ilişkili tüm maliyetleri dahil etmek için, ancak geri ödemesi yapılan öğeleri, yinelenen olmayan özelleştirme ücretlerini veya Microsoft tarafından ödenen doğrudan ilişkili CSP lisans ücretlerini dahil etmeyebilirsiniz.
+- **Dağıtıldı:** **Azure'ı veya Diğer'i** **seçin.**
+- **Çözüm nerede dağıtılacak?**: Müşteri kiracısı **veya İş ortağı** **kiracısı seçin.**
+- **Sözleşme başlangıç** tarihi: Sözleşmenin başlayacağı tarih. Kullanila öde (PAYG) anlaşmaları için ilk faturanın tarihini kullanın. Tasarıma İş Ortağı Merkezi, anlaşma imzalama tarihten önceki bir başlangıç tarihi girmenize izin vermemektedir. Bu, imzalama tarihinden önce başlatan IP dağıtımları gibi bazı anlaşmaları etkiler. Bu anlaşmaları başarılı bir şekilde girmek için lütfen  hem imzalama tarihi hem de başlangıç tarihi alanları için sözleşme imzalama tarihini kullanın. (ACV'nin düzgün şekilde hesaplanması için anlaşmanın süresini sözleşme açıkça belirtmiş olmalıdır.)
+- **Sözleşme bitiş tarihi:** Sözleşme belirli bir tarihte sona ererse Bitiş tarihi **var'ı seçin ve** bu tarihi sağlayın. Sözleşmenin belirli bir bitiş tarihi yoksa Kalıcı'ı **seçin.** Kullanila öde (PAYG) anlaşmaları için son veya en son faturanın tarihini kullanın.
+- **Sözleşmenin imza** tarihi: Son sözleşmenin kurum ve müşteri tarafından imzalandırılma tarihi. Kullanila öde (PAYG) anlaşmaları için ilk faturanın tarihini kullanın.
+- **Kayıt ilgili** kişisi: Burada **sağlanan** **bilgilerden herhangi** biri hakkında daha fazla ayrıntıya ihtiyacımız olursa, kuruluşta iletişim kurarak iletişim kurabilirsiniz kişinin Adı, **Soyadı,** Telefon numarası ve E-posta. 
 
-Sayfanın tüm bölümlerini tamamladığınızda **Kaydet**' i seçin. Ardından, anlaşma kaydı **devam ediyor** sayfasına taşınır. Microsoft, verdiğiniz bilgileri gözden geçirir.
+Sayfanın tüm bölümlerini tamamlandıktan sonra Kaydol'a **tıklayın.** Ardından anlaşma kaydı Devam ediyor **sayfasına taşınır.** Microsoft daha sonra sağlanan bilgileri gözden geçirecek.
 
 Bir anlaşma bir başvurunun kaynaklandığı ve henüz kaydolmadıysanız, **eylem gerekli** sayfasında listelenen anlaşmayı görürsünüz. Oluşturulan ve kaydedilen kayıtları, ancak burada daha fazla güncelleştirme kullanılmasını gerektiren kayıtlar da gösteriliyor. Filtreleri yalnızca **eksik** veya **gerekli** anlaşma kayıtlarını görüntülemek için kullanabilirsiniz.
 
@@ -54,14 +54,14 @@ Yeni, etkin ve kapalı anlaşma kayıtlarını farklı sayfalarda **> anlaşma k
 
 ### <a name="action-required"></a>Eylem gerekiyor
 
-Referanslar **> Anlaşma kayıtları > Eylem** gerekli sayfasında henüz kayıtlı veya güncelleştirme gerektirmiş yeni kayıtları görebilirsiniz. Filtreleri kullanarak yalnızca Eksik veya Güncelleştirme **gerekli** anlaşma **kayıtlarını** gösterebilirsiniz. **Eksik** anlaşma kayıtları, referanslardan kaynaklanan ancak henüz kayıtlı olan anlaşma kayıtlarıdır. **Güncelleştirme gerekli** anlaşma kayıtları, oluşturulan ve kaydedilen kayıtlardır, ancak sağladığınız bilgileri güncelleştirmeniz gerekir.
+**> anlaşma kayıtları > eylem gerekiyor** sayfasında, henüz kaydedilmemiş veya güncelleştirme gerektiren yeni kayıtlar görürsünüz. Filtreleri yalnızca **eksik** veya **gerekli** anlaşma kayıtlarını görüntülemek için kullanabilirsiniz. **Tamamlanmamış** anlaşma kayıtları, başvurulardan kaynaklanan, ancak henüz kaydedilmemiş olan kayıtlardır. **Güncelleştirme gerekli** anlaşma kayıtları oluşturulup kaydolmuşlardır, ancak verdiğiniz bilgileri güncelleştirmeniz gerekir.
 
 ### <a name="in-progress"></a>Sürüyor
 
-Referanslar **> Anlaşma kayıtları >** Devam Ediyor sayfasında, Microsoft'un gözden geçirmekte olduğu anlaşma kayıtlarını görebilirsiniz. Daha fazla bilgiye ihtiyacımız olursa, sağladığınız **Kayıt iletişim** bilgilerini kullaneceğiz.
+**> anlaşma kayıtları > devam ediyor** sayfasında, Microsoft 'un gözden geçirdikleri anlaşma kayıtlarını görürsünüz. Daha fazla bilgiye ihtiyacımız varsa, verdiğiniz **kayıt iletişim** bilgilerini kullanacağız.
 
-Herhangi bir bilgi güncelleştirilebilirse, anlaşma kaydını Eylem gerekiyor **sayfasına taşıyabilirsiniz.**
+Herhangi bir bilginin güncelleştirilmesi gerekiyorsa, **işlem kaydını eylem gerekli** sayfasına taşıyabiliriz.
 
 ### <a name="closed"></a>Kapatıldı
 
-Referanslar **> Anlaşma kayıtları >** Kapalı sayfasında, Microsoft tarafından başarıyla kaydedilen ve gözden geçirılan anlaşmaları görebilirsiniz. Filtreleri yalnızca Onaylanan veya Reddedilen **satış anlaşmalarını** **göstermek** için kullanabilirsiniz.
+**> anlaşma kayıtları > kapalı** sayfasında, Microsoft tarafından başarıyla kaydedilen ve gözden geçirilmiş anlaşmalar görürsünüz. Filtreleri yalnızca **onaylanmış** veya **reddedilmiş** anlaşma kayıtlarını göstermek için kullanabilirsiniz.

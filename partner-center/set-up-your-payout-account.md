@@ -2,17 +2,17 @@
 title: Ödeme hesabı & vergi formları ayarlama-Microsoft ticari Market
 description: Ticari Market 'teki teklif satışlarından para almak için, ödeme hesabınızı ayarlamayı ve gerekli vergi formlarını doldurmayı öğrenin.
 ms.topic: conceptual
-ms.service: partner-dashboard
-ms.subservice: partnercenter-mpn
+ms.service: marketplace
+ms.subservice: partnercenter-marketplace-publisher
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 12/10/2019
-ms.openlocfilehash: 255ae28af5b29645b06ad0ae6a1f9660ad334c3c
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 2dbbab72ea68246bf0cb99d57a5ce3640f25c867
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109854852"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152928"
 ---
 # <a name="set-up-your-payout-account-and-tax-forms"></a>Ödeme hesabınızı ve vergi formlarınızı ayarlama
 
@@ -42,7 +42,7 @@ Vergi profilinizi ve vergi formlarınızı Iş Ortağı Merkezi 'nin **ödeme ve
 İlk olarak, bir vergi profili oluşturmanız ve katılmayı yaptığınız programlara atamanız gerekir. Iş Ortağı Merkezi 'nde *vergi profilinizi* oluşturmak veya güncelleştirmek için aşağıdaki adımları kullanın. Vergi formlarınızı Iş Ortağı Merkezi panosunda elektronik olarak tamamlayabilir ve gönderebilirsiniz. Çoğu durumda, herhangi bir formu yazdırmanız ve postalarınıza gerek kalmaz.
 
 > [!IMPORTANT]
-> Farklı ülkeler ve bölgeler farklı vergi gereksinimlerine sahiptir. Vergilerde ödemeniz gereken tutar, teklifinizi satıp satmayı seçtiğiniz ülkelere ve bölgelere bağlıdır. [Microsoft'un Microsoft Azure Market ve](https://go.microsoft.com/fwlink/p/?LinkID=699560) sizin adına vergiyi hangi ülkeler/bölgeler için kullana olduğunu bulmak için Microsoft Azure Market Yayımcı Sözleşmesi'ne bakın. Diğer ülkelerde/bölgelerde, kayıtlı bulunduğunuz yere bağlı olarak satışları geri ödemeniz ve teklif satışları için vergiyi doğrudan yerel vergi yetkilisine göstermeniz gerekir. Ayrıca, elde edilen uygulama satışları gelir olarak vergiye tutulabilir. Ticari market etkinlikleriniz için doğru vergi bilgilerini belirlemenize en iyi şekilde yardımcı olacak ülkeniz veya bölgeniz için ilgili yetkiliye başvurabilirsiniz.
+> Farklı ülkeler ve bölgeler farklı vergi gereksinimlerine sahiptir. Vergilerde ödemeniz gereken tutar, teklifinizi satıp satmayı seçtiğiniz ülkelere ve bölgelere bağlıdır. [Microsoft'un Microsoft Azure Market ve](/legal/marketplace/msft-publisher-agreement) sizin adına vergiyi hangi ülkeler/bölgeler için kullana olduğunu bulmak için Microsoft Azure Market Yayımcı Sözleşmesi'ne bakın. Diğer ülkelerde/bölgelerde, kayıtlı bulunduğunuz yere bağlı olarak satışları geri ödemeniz ve teklif satışları için vergiyi doğrudan yerel vergi yetkilisine göstermeniz gerekir. Ayrıca, elde edilen uygulama satışları gelir olarak vergiye tutulabilir. Ticari market etkinlikleriniz için doğru vergi bilgilerini belirlemenize en iyi şekilde yardımcı olacak ülkeniz veya bölgeniz için ilgili yetkiliye başvurabilirsiniz.
 
 1. Panoda [İş Ortağı Merkezi sağ](https://partner.microsoft.com/dashboard)üst **köşedeki** Ayarlar dişli simgesini ve ardından Hesap **ayarları'ı seçin.**
 
@@ -105,7 +105,7 @@ Bir ödeme hesabı, satışınızdan devam eden bir banka hesabıdır. Profil sa
 4. Profil *ataması sayfasına* geri dönüp ödemelerinizi sağlarken kullanmamızı istediğiniz para birimini seçin.
 
     > [!WARNING]
-    > Bankanız, sizin seçerek ödeme para birimini kabul eder.
+    > Bankanız, seçenen ödeme para birimini kabul eder.
 
 5. Katıldığınız her program için bir ödeme profili seçmeniz gerekir, ancak birden çok program için aynı profili kullanabilirsiniz.
 
@@ -160,7 +160,7 @@ Bazı ülkelerde ve bölgelerde, ödeme hesapları için ek gereksinimler izlenm
 
 Form-R, bir Pakistan bankacılık mevzuatı gereksinimidir. Abroad 'tan fonların alınması amacını ve nedenini belirtmek için kullanılır. Bu nedenle, Microsoft 'tan aylık bir ödeme için uygun olduğunuzda, ödeme hesabınıza yayınlanmadan önce bankanızla bir form göndermeniz gerekir. Form-R ' n i n bir kopyasının nasıl alınacağını açıklayan yönergeler için yerel banka dalınızla iletişim kurun.
 
-Bir ödemeye uygun olduğunuz her ay bankanızla bir form göndermeniz gerekir. Örneğin, yılın her ayında bir ödeme almak bekliyorsanız, Form-R'yi 12 kez (her ay bir kez) göndermeniz gerekir.
+Bir ödemeye uygun olduğunuz her ay bankanızla bir form göndermeniz gerekir. Örneğin, yılın her ayında bir ödeme görmeyi bekliyorsanız, Form-R'yi 12 kez (her ay bir kez) göndermeniz gerekir.
 
 Ödeme bankanıza gönderildikten sonra Bir Form-R göndermek için 30 gün süreniz olur. 30 gün içinde gönderilmezse, fonLar Microsoft'a döndürülür.
 
@@ -169,12 +169,12 @@ Bir ödemeye uygun olduğunuz her ay bankanızla bir form göndermeniz gerekir. 
 Rusya'da yaşayan bir yayımcıysanız, bankanız hesabınıza fonlar ödemeden önce bankanıza belge sağlamanız gerekir. Ödemeye uygunsanız, size bir e-posta iletisinde aşağıdaki belgeleri sağlarız:
 
 - Kabul Sertifikası (AC): Hesabınıza aktarılan ödeme miktarını içerir.
-- [Microsoft Azure Market Sözleşmesi:](https://go.microsoft.com/fwlink/p/?LinkID=699560)  Yayımcı anlaşmasının sayaç imzalı olması gereken imzalı bir kopyası.
+- [Microsoft Azure Market Sözleşmesi:](/legal/marketplace/msft-publisher-agreement)  Yayımcı anlaşmasının sayaç imzalı olması gereken imzalı bir kopyası.
 
 Ödemenizin başarılı olduğundan emin olmak için şunların doğru olduğundan emin olun:
 
 - Ödeme **hesabınız için İş Ortağı Merkezi** hesap sahibi adı, banka hesabınızla ilişkili tam olarak aynı adda olması gerekir. Örneğin, banka hesabı adınız bir ara ad içeriyorsa, Hesap sahibinin adına bir **orta ad ekleyin.**
-- Ödemeler doğrudan Microsoft'tan Banka hesabınıza Transfer (BANK) para birimiyle aktarılır.
+- Ödemeler doğrudan Microsoft'tan, Hesap (MİS) para birimi cinsinden banka hesabınıza aktarılır.
 - Latin karakterlerde İş Ortağı Merkezi banka bilgileri Kiril karakterlerine çevrilir.
 - Ödemelerin bir banka kartına değil, bir banka hesabına yapılmış olması gerekir.
 
@@ -183,25 +183,25 @@ Rusya'da yaşayan bir yayımcıysanız, bankanız hesabınıza fonlar ödemeden 
 Avrupa'da yaşayan bir yayımcıysanız, bankanız hesabınıza fonlar ödemeden önce bankanıza belge sağlamanız gerekir. Ödemeye uygunsanız, size bir e-posta iletisinde aşağıdaki belgeleri sağlarız:
 
 - Kabul Sertifikası (AC): Hesabınıza aktarılan ödeme miktarını içerir.
-- [Microsoft Azure Market Sözleşmesi:](https://go.microsoft.com/fwlink/p/?LinkID=699560) Yayımcı anlaşmasının sayaç imzalı olması gereken imzalı bir kopyası.
+- [Microsoft Azure Market Sözleşmesi:](/legal/marketplace/msft-publisher-agreement) Yayımcı anlaşmasının sayaç imzalı olması gereken imzalı bir kopyası.
 - Değişiklik Sözleşmesi (AA) – Bu belge bankanız tarafından ödeme fonlarınızı tanımlamanıza yardımcı olmak için kullanılabilir.
 
-microsoft, ilk ödemeniz denenen üç belgeyi de sağlar. Sonraki ödemelerde yalnızca AC belgesini alırsınız. Bankanız tarafından gelecekte ödeme almaları gerektirecek ada ve AA belgelerini koruma.
+microsoft, ilk ödemeniz denenen üç belgeyi de sağlar. Sonraki ödemelerde, yalnızca AC belgesini alacaksınız. ADA ve AA belgelerini, bankanınızdan gelecek ödemeleri almak için ihtiyaç duymanız durumunda saklayın.
 
 ### <a name="create-a-paypal-payment-profile"></a>PayPal ödeme profili oluşturma
 
-Ödeme almak için bir banka hesabı kullanmayı seçilirse, banka hesabını yapılandırmak için aşağıdaki işlemi tamamlarsınız.
+Ödemeler almak için bir banka hesabı kullanmayı seçtiyseniz, banka hesabınızı yapılandırmak için aşağıdaki işlemi tamamlayabilirsiniz.
 
-1. *PayPal sayfasında,* PayPal hesabınız hakkında gerekli bilgileri ekleyin.
-2. PayPal hesap ayrıntılarınızı sağlama.
+1. *PayPal* sayfasında, PayPal hesabınız hakkında gerekli bilgileri sağlayın.
+2. PayPal hesabınızın ayrıntılarını sağlayın.
 
     > [!NOTE]
-    > Hesap bilgilerinizi sağlamak için kullanabileceğiniz alanlar yalnızca alfasayısal karakterleri kabul eder.
+    > Hesap bilgilerinizi sağlamak için kullandığınız alanlar yalnızca alfasayısal karakterleri kabul eder.
 
-3. Yararlanan ayrıntıları sağlama.
-4. Profil *ataması sayfasına* geri dönüp ödemelerinizi sağlarken kullanmamızı istediğiniz para birimini seçin.
-5. Katıldığınız her program için bir ödeme profili seçmeniz gerekir, ancak birden çok program için aynı profili kullanabilirsiniz.
-6. Değişikliklerinizi kaydetmek için Gönder'i seçin.
+3. Lehdar ayrıntılar sağlayın.
+4. *Profil atama* sayfasına geri döndüğünüzde, ödemlarınızı yayınlıyoruz, kullanmak istediğiniz para birimini seçin.
+5. Birden fazla program için aynı profili kullanabilmeniz için, katılmış olduğunuz her bir program için bir ödeme profili seçmeniz gerekir.
+6. Değişikliklerinizi kaydetmek için Gönder ' i seçin.
 
 ## <a name="next-steps"></a>Sonraki adımlar
 

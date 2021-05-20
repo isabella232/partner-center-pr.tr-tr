@@ -9,21 +9,16 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 292b5535bdcc40164e738ec967a689c51f6d8f47
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: 2053c4b0a31232a6e2e9182a11fad2e2048d96f1
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106086269"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152894"
 ---
 # <a name="competencies-report-available-from-the-partner-center-insights-dashboard"></a>Iş Ortağı Merkezi Öngörüler panosundan Uzmanlıklar raporu kullanılabilir
 
-**Uygun roller**
-
-- Genel yönetici
-- Yönetim Aracısı
-- Rapor Görüntüleyicisi
-- Executive rapor Görüntüleyicisi
+**Uygun roller**: genel yönetici | Yönetici Aracısı | Rapor Görüntüleyici | Executive rapor Görüntüleyicisi
 
 Uzmanlıklar, şirketinizin Microsoft çözümlerini sunmaya yönelik teknik becerinizi görüntülemesine olanak tanır. Microsoft Uzmanlıklar, müşterilerinizin ihtiyaçlarını karşılayacak şekilde tasarlanmıştır ve olası müşterilere uzmanlığınızı sergileme. Bunlar, Azure 'un dahil edilen miktarları, Office 365, teknik destek, pazara sunma teklifleri ve diğerleri gibi bulut ürünlerine yönelik yetkilendirmeler gibi Microsoft 'un sunduğu çok sayıda avantajla birlikte gelirler. Şu kategorilerdeki toplam 19 Uzmanlıklar vardır: **uygulama ve altyapı**, **iş uygulamaları**, **veri ve AI** ve **modern çalışma alanı**. Uzmanlıklar, örneğin gümüş veya altın düzeylerine göre katmanlanlardır. Altın uzmanlık ve ilişkili daha yüksek bir pazarlama kaynağı, teklif ve program düzeyi için daha yüksek bir çubuk mevcuttur.  
 
@@ -31,32 +26,32 @@ Uzmanlığın yaşam döngüsü, uzmanlığın kullanımı ve diğer uzmanlık r
 
 ## <a name="competency-life-cycle"></a>Uzmanlığa yaşam döngüsü
 
-Yaşam döngüsü açısından iş ortakları, belirli uzmanlıklar sağlamak için gerekli olan ana performans göstergelerini (KPI) oluşturarak başlar. Tüm gerekli ölçümler genelinde belirli bir uzmanlığa yönelik eşik kümesine ulaştıktan sonra, bu, bir uzmanlığa **uygun** hale gelir. İş ortakları daha sonra uzmanlığa ulaşmak ve bu uzmanlığa karşı **etkin** hale gelmesi için uzmanlığa sahip teklif (gümüş veya altın) için ödeme yapabilir. Uzmanlığın **etkin** olduğu bir yıl, uzmanlığın sorumlu olma tarihinden itibaren geçerli olur (Bu, uzmanlığın **yıldönümü tarihi** olarak adlandırılır). Yıldönümü yılının sonunda iş ortaklarının uzmanlığa gereksinimleri karşılaması gerekir. Bu gereksinimleri tekrar karşılamıyorsa, uzmanlığa zarar verirler. Daha önce kullanılan bir uzmanlığa yönelik **risk** durumu, belirli önemli ölçümlerin, bu yetenek **yıldönümü tarihindeki** eşiğin altına düşecek şekilde yansıtılmasıdır.
+Yaşam döngüsü açısından iş ortakları, belirli uzmanlıklar sağlamak için gerekli olan ana performans göstergelerini (KPI) oluşturarak başlar. Tüm gerekli ölçümler genelinde belirli bir uzmanlığa yönelik eşik kümesine ulaştıktan sonra, bu, bir uzmanlığa **uygun** hale gelir. İş ortakları daha sonra uzmanlığa ulaşmak ve bu uzmanlığa karşı **etkin** hale gelmesi için uzmanlığa sahip teklif (gümüş veya altın) için ödeme yapabilir. Uzmanlığın **etkin** olduğu bir yıl, uzmanlığın sorumlu olma tarihinden itibaren geçerli olur (Bu, uzmanlığın **yıldönümü tarihi** olarak adlandırılır). Yıldönümü yılının sonunda iş ortaklarının uzmanlık gereksinimlerini karşılaması gerekir. Bu gereksinimleri tekrar karşılamıyorsa yetkinliği kaybederler. Daha **önce elde** edilen bir uzmanlık için At risk durumu, belirli temel ölçümlerin bu uzmanlık yıldönümü tarihi olan eşiğin altına **düşmesinin hedeflenği anlamına gelir.**
 
-## <a name="competency-attainment"></a>Uzmanlığa erişme
+## <a name="competency-attainment"></a>Uzmanlık elde etme
 
-Her bir uzmanlığa karşılamak için belirli bir gereksinim kümesi vardır. Bulut uzmanlığına yönelik gereksinimler iki kategoriye ayrılır: yetenekler ve performans.
+Her uzmanlık, yerine getirmek için belirli bir gereksinimler kümesine sahiptir. Bulut uzmanlığı gereksinimleri iki kategoriye ayrılır: beceriler ve performans.
 
-- Yetenekler: gereksinimler genellikle şirketinizdeki kişilerin geçmesi gereken sınavları, değerlendirmeleri veya sertifikaları içerir.
+- Beceriler: Gereksinimler genellikle şirketi içindeki kişilerin geçmesi gereken sınavları, değerlendirmeleri veya sertifikaları içerir.
 
-- Performans: bir uzmanlığa uygun olmak Için şirketiniz, uzmanlık alanına göre hizalı belirli performans eşiklerini karşılamalıdır. Örneğin, şirketinizin son 12 ay boyunca en düşük miktarda Azure kullanımını karşılaması gerekebilir.
+- Performans: Yetkinliğe uygun olmak için, şirketinizin uzmanlık alanına uygun olan belirli performans eşiklerini karşılaması gerekir. Örneğin, şirketinizin son 12 ay içinde en az Azure tüketimini karşılaması gerekiyor olabilir.
 
-## <a name="competencies-report-details"></a>Ylilikler rapor ayrıntıları
+## <a name="competencies-report-details"></a>Yetkinlikler rapor ayrıntıları
 
-Aşağıdaki bölümleri Uzmanlıklar raporundan görebilirsiniz:
+Yetkinlikler raporundan aşağıdaki bölümleri kullanabilirsiniz:
 
 - Özet
-- Uzmanlığa yönelik ölçüm Analizi
+- Uzmanlık ölçümleri analizi
 - Uzmanlık geçmişi
 
  > [!NOTE]
- > Bu rapor, Öngörüler panosundan kullanılabilir. Bu raporu görüntülemek için Iş Ortağı Merkezi 'nde genel yönetici, hesap yöneticisi, rapor Görüntüleyicisi veya Executive rapor Görüntüleyicisi gibi belirli bir rol atanması gerekir. Daha fazla bilgi için şirketinizin genel Yöneticisi ' ne bakın. bu rapordaki belirli veri türleri yalnızca, Executive rapor Görüntüleyicisi ayrıcalıklarına sahip kullanıcılar tarafından kullanılabilir.
+ > Bu rapor, Öngörüler panosundan edinebilirsiniz. Bu raporu görüntülemek için Genel Yönetici, Hesap Yöneticisi, Rapor Görüntüleyicisi İş Ortağı Merkezi Yönetici Rapor Görüntüleyicisi gibi belirli bir rol atanmış olması gerekir. Daha fazla bilgi için, bkz. şirketinizin Genel Yöneticisi. Bu rapora özgü veri türleri yalnızca Yönetici Rapor Görüntüleyicisi ayrıcalıklarına sahip kullanıcılar tarafından da kullanılabilir.
 
 ### <a name="summary"></a>Özet
 
-Özet görünümü, uzmanlık yaşam döngüsünün tüm aşamalarında her bir uzmanlık düzeyinde (Altın/Gümüş) adlara sahip Uzmanlıklar sayısını gösterir. Uzmanlık yaşam döngüsünün aşamaları şunlardır: **başlatıldı**, **nitelikli**, **etkin** ve **riskli risk**. Örnek: bulut uzmanlığına ilişkin gereksinimler iki kategoride yer almalıdır: beceriler ve performans.
+Özet görünümü, uzmanlık yaşam döngüsünün tüm aşamalarında her uzmanlık düzeyinde (Altın/Gümüş) adlarıyla birlikte bir yetkinlik sayısı sunar. Uzmanlık yaşam döngüsünün aşamaları şunlardır: **Başlatıldı,** **Nitelikli,** **Etkin** ve **Risk altında.** Örnek: Bulut Uzmanlığı gereksinimleri iki kategoriye ayrılır: beceriler ve performans.
 
-- Başlatıldı: sürmekte olan bir veya daha fazla temel gereksinimi olan uzmanlık sayısı.
+- Başlatıldı: Devam eden temel gereksinimlerin biri veya daha fazlası için yetkinlik sayısı.
 Uzmanlıklar, uzmanlığa göre (Gümüş/altın) uzmanlık adlarına göre sayılır.
 
 - Nitelikli: gereksinimleri karşıladığınız Uzmanlıklar, ancak henüz ilişkili gümüş/altın teklifini satın almamış olabilir veya olmayabilir. Uzmanlık alanları olan uzmanlık düzeyi (Gümüş/altın) kadar nitelikli uzmanlık sayısı dökümü.
@@ -90,7 +85,7 @@ Bu görünüm, şimdiye kadar kullandığınız tüm uzmanlardan, uzmanlık düz
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-- Daha fazla rapor için bkz. [Partner Center öngörüleri](partner-center-insights.md).
+- Daha fazla rapor için [bkz. İş Ortağı Merkezi Insights](partner-center-insights.md).
 
 >[!NOTE] 
-> Bu raporu, Öngörüler panosundaki raporları Indir bölümünden elde eden ham verileri indirebilirsiniz. [Daha Fazla Bilgi](pci-download-reports.md) 
+> Bu raporu güçlü bir şekilde kullanarak ham verileri Öngörüler panosunun Raporları İndir bölümünden indirebilirsiniz. [Daha Fazla Bilgi](pci-download-reports.md) 

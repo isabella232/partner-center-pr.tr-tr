@@ -1,48 +1,45 @@
 ---
-title: İş Ortağı Merkezi öngörüleri Microsoft Learn Analizi
+title: İş Ortağı Merkezi Insights Microsoft Learn analizi
 ms.topic: article
 ms.date: 08/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Bireysel eğitim, tamamlanan modüller, tamamlanan öğrenme yolları ve daha fazlasını kullanarak şirketinizdeki öğrendiklerinizi izleyin.
+description: Bireysel eğitim, tamamlanmış modüller, tamamlanmış öğrenme yolları ve daha fazlası ile ilgili veriden yararlanarak şirketinize gelenleri takip edin.
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5b9a0ea8c4eefee1a87b9ccd626b1f2864234521
-ms.sourcegitcommit: f24089cd27b1de6ecf6ddbefb6cbb2d340e144de
+ms.openlocfilehash: 132583352e1697a2f9dfa624eb9532692be6d734
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/01/2021
-ms.locfileid: "106132335"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152639"
 ---
-# <a name="the-microsoft-learn-analytics-report-shows-the-status-of-learners-in-your-company"></a>Microsoft Learn Analytics raporu, şirketinizdeki öğreniplerin durumunu gösterir
+# <a name="the-microsoft-learn-analytics-report-shows-the-status-of-learners-in-your-company"></a>Microsoft Learn analiz raporu, şirketiniz için öğrenciler durumunu gösterir
 
-**Uygun roller**
+**Uygun roller:** Genel yönetici | MPN iş ortağı yöneticisi
 
-- Genel yönetici
-- MPN iş ortağı Yöneticisi
-
-Microsoft Learn raporu, sizin tamamladığınız modüller ve bulundukları öğrenme yolları dahil olmak üzere şirketinizdeki öğrenipler hakkında bilgi sağlar. Rapor her bireysel öğrenici durumunu görüntüler. Şirketinizin genel yöneticisi ve MPN Yöneticisi, verileri görüntüleyebilir.
+Microsoft Learn raporu, tamamlamış olduğu modüller ve üzerinde bulunduğu öğrenme yolları da dahil olmak üzere şirketinize dahil olan öğrenciler hakkında bilgi sağlar. Raporda her bir kişinin durumu görüntülenir. Genel yönetici ve şirketinizin MPN yöneticisi verileri görüntülemenizi sağlar.
 
 ## <a name="how-to-read-the-report"></a>Raporu okuma
 
 ### <a name="summary-charts"></a>Özet grafikler
 
-Bu grafikler, eğitilen bireyler, modül tamamlamalar ve öğrenme yolları için say ve aylık toplu eğilimleri özetler.
+Bu grafikler eğitilen bireyler için sayı ve aylık kümülatif eğilimleri, modül tamamlamalarını ve öğrenme yollarını özetler.
 
 
-**Eğitilen kişiler sayısı**: Seçili tarih aralığı sırasında en az bir modül tamamlayan tüm ayrı öğreniplerin sayısı 
+**Eğitilen bireyler** sayısı: Seçilen tarih aralığında en az bir modülü tamamlamış olan tüm ayrı öğrenenlerin sayısı 
 
-**Eğitilen kişiler eğilimi mini grafik**: aylık aylık etkin öğreniplerin toplam sayısı 
+**Eğitilen bireyler eğilim mini grafiği:** Etkin öğrenciler için aydan aya göre kümülatif sayısı 
 
-**Modül tamamlama sayısı**: Seçili tarih aralığı boyunca iş ortağının şirketindeki öğrenipleri tarafından tamamlanmış modül sayısı.
-Örneğin, "modül 1", 15 kişi tarafından tamamlanırsa ve "modül 2" aynı 15 kişi tarafından tamamlanırsa, tamamlama sayısı 30 olur. Modül tamamlama tarihi seçili tarih aralığına denk gelmelidir.
+**Modül tamamlama sayısı:** Seçilen tarih aralığında iş ortağının şirketinde öğrenenlerin modül tamamlamalarının sayısı.
+Örneğin, "Modül 1" 15 kişi tarafından tamamlanır ve "Modül 2" aynı 15 birey tarafından tamamlanırsa, modül tamamlama sayısı 30 olur. Modülün tamamlanma tarihi, seçilen tarih aralığında olmalıdır.
 
-**Modül tamamlama eğilimi mini grafik**: aylık ay, tamamlama modülünün toplam sayısı 
+**Modül tamamlama eğilimi mini grafiği:** Modül tamamlamalarının aylara göre toplam sayısı 
 
-**Öğrenme yolu tamamlama sayısı**: Seçili tarih aralığı boyunca iş ortağının şirketindeki öğrenipleri tarafından tamamlanan öğrenme yolu sayısı.
-Örneğin, "path 1" öğrenme yolu 20 kişi tarafından tamamlanırsa ve "yol 2" öğrenme yolu aynı 20 kişi tarafından tamamlanırsa, öğrenme yolu tamamlanma sayısı 40 olacaktır. Öğrenme yolu tamamlanma tarihi, seçilen tarih aralığı içinde olmalıdır.
+**Öğrenme yolu tamamlama sayısı:** Seçilen tarih aralığında iş ortağının şirketinde öğrenenlerin Öğrenme yolu tamamlamalarının sayısı.
+Örneğin, "Yol 1" Öğrenme Yolu 20 kişi tarafından tamamlanır ve "yol 2" Öğrenme Yolu aynı 20 kişi tarafından tamamlanırsa Öğrenme Yolu tamamlanma sayısı 40 olur. Öğrenme yolu tamamlanma tarihi, seçilen tarih aralığında olmalıdır.
 
 **Öğrenme yolu tamamlama eğilimi mini grafik**: aylık ay öğrenme yolu tamamlama sayısı 
 
@@ -74,35 +71,35 @@ Bu veriler, şirketinizin kullanıcıları tarafından bu ay boyunca tamamlanan 
 
 **Modül sekmesi**
 
-Bu sekme, şirketinizde en çok beş modül adı ile tamamlanan modüllerin dökümünü içerir; modülün ilişkilendirildiği ürün; ve modülün ilgili Kullanıcı rolü.  
+Bu sekme, şirketinize en çok beş modül adı tarafından tamamlanan modüllerin dökümünü içerir; modülün ilişkili olduğu ürün; ve modülle ilgili kullanıcı rolü.  
 
-- Modül, halka grafik tamamlama modülü: modül adlarına göre tamamlama modülünün (Özet bölümünde görünen sayı) dökümü.
+- Modül tamamlamaları donut chart: modül tamamlamalarının dökümü (özet bölümünde gösterilen sayı) modül adlarında.
 
-Grafiğin ortasında görünen sayı, tamamlanan toplam modüllerdir
+Grafiğin merkezinde görüntülenen sayı, tamamlanan toplam modül sayısıdır
 
-- Role göre tamamlama: modülün rolü tarafından tamamlanan modülün dökümü. Bir modül birden çok rolle ilişkiliyse, her bir rol tamamlama modülünün sayısına eklenir.
+- Role göre tamamlamalar: modül tamamlamalarının modül rolüne göre dökümü. Bir modül birden çok rolle ilişkili ise, rollerin her biri modül tamamlama sayısına eklenir.
 
-Grafiğin ortasında görünen sayı, tamamlama modülünün farklı rollerinin sayısıdır. 
+Grafiğin merkezinde görüntülenen sayı, modül tamamlamaları için farklı rollerin sayısıdır. 
 
-- Ürüne göre tamamlama: modülün eşlendiği ürün tarafından tamamlanan modülün dökümü. Bir modül birden çok ürünle ilişkiliyse, ürünlerin her biri tamamlama modülünün sayısına eklenir.    
+- Ürüne göre tamamlamalar: Modülün eşlenmiş olduğu ürüne göre modül tamamlamalarının dökümü. Bir modül birden çok ürünle ilişkili ise, ürünlerin her biri modül tamamlama sayısına eklenir.    
 
-Grafiğin ortasında görünen sayı, tamamlama modülünün farklı ürün sayısıdır.  
+Grafiğin merkezinde görüntülenen sayı, modül tamamlamaları için farklı ürünlerin sayısıdır.  
 
 **Öğrenme yolu sekmesi**   
 
-Bu sekme, şirketinizde ilk beş modül adına göre tamamlanan öğrenme yollarının dökümünü içerir; öğrenme yolunun eşlendiği ürün; ve bu öğrenme yolunun ilgili rolü.  
+Bu sekme, şirketinize en iyi beş modül adı ile tamamlanan öğrenme yollarının dökümünü içerir; öğrenme yolunun eşlenmiş olduğu ürün; ve bu öğrenme yolundaki rolü.  
 
-- Halka grafik tamamlanan öğrenme yolları: ad ile tamamlama öğrenme yolu (Özet bölümünde görünen sayısı) dökümü.
+- Öğrenme yolları tamamlamaları donut grafiği: Öğrenme yolu tamamlamalarının dökümü (özet bölümünde gösterilen sayı) adına göre.
 
-- Role göre tamamlama *: rolün tamamlayarak öğrenme yollarının dökümü. Bir modül birden çok rolle ilişkiliyse, her bir rol tamamlama modülünün sayısına eklenir.
+- Role*göre tamamlamalar: Role göre öğrenme yollarının tamamlanmasının dökümü. Bir modül birden çok rolle ilişkili ise, rollerin her biri modül tamamlama sayısına eklenir.
 
-- Ürüne göre tamamlama: öğrenme yolunun eşlendiği ürün tarafından tamamlama öğrenme yollarının dökümü. Bir modül birden çok ürünle ilişkiliyse, ürünlerin her biri tamamlama modülünün sayısına eklenir.
+- Ürüne göre tamamlamalar: Öğrenme yolunun eşlenmiş olduğu Ürüne göre öğrenme yolu tamamlamalarının dökümü. Bir modül birden çok ürünle ilişkili ise, ürünlerin her biri modül tamamlama sayısına eklenir.
 
-### <a name="completions-by-learning-individuals"></a>Bireyler öğrenerek tamamlama
+### <a name="completions-by-learning-individuals"></a>Bireyleri öğrenerek tamamlamalar
 
-Bu, şirketinizdeki eğitilen kullanıcıları ve tamamlanmış modülleri ile öğrenme yollarının ayrıntılarını listeler.
+Bu, şirketiniz içinde eğitilen kullanıcıları ve tamamlanan modüllerin ve öğrenme yollarının ayrıntılarını listeler.
 
-Microsoft Learn, bir kullanıcı nesnesi KIMLIĞIYLE öğrenenler tanımlar. **Modüller sekmesinin** altında, tüm öğrenenler, tamamlanan modüllere göre sıralanır. Microsoft Learn Kullanıcı adı, nesne KIMLIĞI ve modül sayısıyla birlikte görüntülenir. Kullanıcı adını kullanarak arama yapabilirsiniz. 
+Microsoft Learn kullanıcı nesne kimliğine sahip olan öğrenicileri tanımlar. **Modüller sekmesinin** altında, tüm öğrenenler, tamamlanan modüllere göre sıralanır. Microsoft Learn Kullanıcı adı, nesne KIMLIĞI ve modül sayısıyla birlikte görüntülenir. Kullanıcı adını kullanarak arama yapabilirsiniz. 
 
 **Öğrenme yolları sekmesinde** , öğrenme yolları tarafından sıralanan tüm öğrenenler, Learner görünen adı, nesne kimliği ve modül sayısı ile birlikte görüntülenir.
 
@@ -138,7 +135,7 @@ Eğitim için yalnızca MSA hesaplarını kullanan kullanıcılar için, yakın 
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-Daha fazla rapor için bkz. [Partner Center öngörüleri](partner-center-insights.md).
+Daha fazla rapor için [bkz. İş Ortağı Merkezi Insights](partner-center-insights.md).
 
 >[!NOTE] 
-> Bu raporu, Öngörüler panosundaki raporları Indir bölümünden elde eden ham verileri indirebilirsiniz. [Daha Fazla Bilgi](pci-download-reports.md) 
+> Bu raporu güçlü bir şekilde kullanarak ham verileri Öngörüler panosunun Raporları İndir bölümünden indirebilirsiniz. [Daha Fazla Bilgi](pci-download-reports.md) 

@@ -1,7 +1,7 @@
 ---
 title: Iş Ortağı Merkezi 'nde müşteri abonelikleri oluşturma
 ms.topic: how-to
-ms.date: 05/17/2021
+ms.date: 05/19/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Microsoft tarafından yayımlanan ürünlerin yanı sıra üçüncü taraf ISV 'Ler tarafından yayımlanan SaaS ürünleri için müşterilerinize abonelik satma hakkında bilgi edinin.
@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
-ms.openlocfilehash: 3269fa994d704c0a0dae067087bad8589a7ce031
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 9052954c81ef55a2bfa06778ace651c9d0f9b26f
+ms.sourcegitcommit: e0444145d7720df948b9d02ae2469206db48dba5
 ms.translationtype: MT
 ms.contentlocale: tr-TR
 ms.lasthandoff: 05/19/2021
-ms.locfileid: "110148218"
+ms.locfileid: "110201417"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>Müşteri aboneliklerini oluşturma, askıya alma veya iptal etme
 
@@ -29,6 +29,9 @@ Bazı teklifler müşteri başına bir abonelikle sınırlıdır. Hangi teklifle
 >[!IMPORTANT]
 > CSP programındaki bir iş ortağı olarak, Iş Ortağı Merkezi 'nde ISV yayımcılarından **Lisans tabanlı** veya **ölçülen** SaaS abonelikleri satın alabilirsiniz. Bu, tüm **Lisans tabanlı** veya **tarifeli** SaaS tekliflerini, erişiminiz olan [özel TEKLIFLER](csp-commercial-marketplace-discover.md#learn-about-marketplace-exclusive-offers) de dahil olmak üzere ISV yayımcısı kullanımınıza sunabileceğiniz anlamına gelir. ISV 'lerden diğer, ticari Market tekliflerini satın almak veya yönetmek için (Azure uygulamaları, kapsayıcılar veya VM 'Leri içeren Kullanım tabanlı teklifler gibi) [Azure Portal](https://portal.azure.com/)gitmeniz gerekir.
 
+>[!NOTE]
+>Iş Ortağı Merkezi 'nde tüm tarihler ve saatler, evrensel saat Eşgüdümlü (UTC) zaman standardına göre verilmiştir. Bu, yerel saatinizden 24 saate kadar farklılık gösterebilir.
+
 ## <a name="create-a-new-subscription"></a>Yeni abonelik oluştur
 
 1. [İş Ortağı Merkezi panosunda](https://partner.microsoft.com/dashboard) oturum açın.
@@ -38,8 +41,8 @@ Bazı teklifler müşteri başına bir abonelikle sınırlıdır. Hangi teklifle
 3. **Abonelik Ekle**' yi seçin. **Çevrimiçi hizmetler** sekmesinde, tüm kullanılabilir Market SaaS teklifleri gösterilir.
 
 4. Yalnızca belirli abonelik türlerini görmek için, kullanılabilir filtrelerdeki seçimleri yapın:
-   - **Yayımcı**: ISV 'ler tarafından yayımlanan ticari Market ürünlerini görmek Için yalnızca Microsoft 'un veya **iş ortağının** tekliflerini görmek üzere **Microsoft** 'u seçin.
-   - **Faturalandırma türü**: kullanmak istediğiniz abonelik faturalandırması türünü seçin: **Lisans** veya **kullanım**. Aylık [ve yıllık faturalama sıklığı](license-based-billing.md) arasında karar alamanıza yardımcı olacak bilgiler için bkz. Lisans tabanlı faturalama.
+   - **Yayımcı:** Yalnızca **Microsoft'un** tekliflerini  görmek için Microsoft'u veya ISV'ler tarafından yayımlanan ticari market ürünlerini görmek için İş Ortağı'ı seçin.
+   - **Faturalama türü:** Kullanmak istediğiniz abonelik faturalama türünü seçin: **Lisans veya** **Kullanım.** Aylık [ve yıllık faturalama sıklığı](license-based-billing.md) arasında karar alamanıza yardımcı olacak bilgiler için bkz. Lisans tabanlı faturalama.
    - **Kategori:** Kurumsal, **Küçük** **işletme veya** Deneme'yi **seçin.** Deneme abonelikleri hakkında bilgi için [bkz. Müşterilerinize Microsoft ürünlerinin denemelerini teklif edin.](offer-your-customers-trials-of-microsoft-products.md)
 
 5. Müşteriniz için satın almak istediğiniz ürün aboneliklerini seçin. Gördüğünüz ürünler, müşteri segmenti türüne (eğitim, kamu vb.) ve sizin uyguladık filtrelere bağlıdır. Market'te gösterilen bazı teklifler belirli bir müşteri veya belirli bir CSP iş ortağı tarafından her zaman kullanılabilir olabilir. Bunun nedeni:
@@ -58,7 +61,7 @@ Bazı teklifler müşteri başına bir abonelikle sınırlıdır. Hangi teklifle
 
 9. Bir müşteri için abonelik satın alırsınız, aşağıdakiler gerçekleşir:
 
-    - Müşterinin Abonelikler sayfasından abonelik adını seçerek aboneliği gözden geçirebilirsiniz veya **düzenleyebilirsiniz.** Buradan, varsa eklenti lisanslarını seçin, lisans miktarını değiştirebilir veya aboneliği askıya alın.
+    - Bu müşterinin **abonelikler** sayfasından abonelik adı ' nı seçerek aboneliği gözden geçirebilir veya düzenleyebilirsiniz. Buradan, varsa eklenti lisanslarını seçebilirsiniz, lisans miktarını değiştirebilir veya aboneliği askıya alabilirsiniz.
 
     **ISV SaaS (lisans tabanlı ve tarifeli) abonelikler için:**
     - ISV yayımcısının sitesine bir bağlantı alacaksınız. Bu bağlantı, müşterinin aboneliğine ait dağıtım veya hesap kurulumunu tamamlamanıza yardımcı olmalıdır.
@@ -90,11 +93,11 @@ Eklentilerin başlangıç tarihleri temel abonelikle uyumludur; ücretler Ücret
 
 ## <a name="suspend-or-cancel-a-subscription"></a>Aboneliği askıya alma veya iptal etme
 
-İş ortakları, müşteri tarafından isteniyorsa veya ödeme veya sahtekarlık durumlarında bir aboneliği askıya alabilir veya iptal edebilir.
+İş ortakları, müşteri tarafından talep edilmesi ya da ödememe veya sahtekarlık durumlarında aboneliği askıya alabilir veya iptal edebilir.
 
 ### <a name="suspend-a-subscription"></a>Bir aboneliği askıya alma
 
-Aboneliğin durumunu **askıya alındı** olarak değiştirdiğinizde, kullanıcılar oturum açamaz veya hizmetlere erişemez.
+Aboneliğin durumunu Askıya Alındı olarak **değiştirebilirsiniz.** Kullanıcılar oturum alamiyor veya hizmetlere erişemiyor.
 
 1. İş Ortağı Merkezi [oturum açın.](https://partner.microsoft.com/dashboard)
 
@@ -130,7 +133,7 @@ Yıllık olarak faturalandırılan teklifler için:
 Bu süreler sona erdikten sonra aboneliği iptal etme seçeneğini artık göremeyeceksiniz.
 
 > [!NOTE]
-> Kullanım tabanlı ve tarifeli, üçüncü taraf ISV hizmetleri (örneğin, sanal makineleri veya kapsayıcıları kullananlar) iade için uygun değildir. Kullanım tabanlı hizmetler bir iptal yöntemi olarak kullanımdan silindi. Ücretler kullanımdan sonra faturalandırılana bu hizmetler para iadesi için uygun değildir.
+> Kullanım tabanlı ve tarifeli, üçüncü taraf ISV Hizmetleri (örneğin, sanal makineleri veya kapsayıcıları kullanan), return için uygun değildir. Kullanım tabanlı hizmetler, iptal yöntemi olarak geçersiz bir şekilde sağlanabilir. Ücretler kullanım sonrasında faturalandırıladıklarından, bu hizmetler para iadesi için uygun değildir.
 
 Lisans tabanlı bir SaaS aboneliğini ISV yayımcısından iptal etmek için aşağıdakileri yapın:
 
@@ -171,6 +174,6 @@ Etkin bir ticari Market aboneliğini otomatik olarak yenilemeyi durdurmak için:
 
 - [Müşterileriniz için ticari Market ürünleri satın alın](csp-commercial-marketplace-purchase.md)
 
-- [Müşterileriniz için ticari Market ürünlerini yönetme](csp-commercial-marketplace-manage.md)
+- [Müşterileriniz için ticari market ürünlerini yönetme](csp-commercial-marketplace-manage.md)
 
 - [Ticari markete genel bakış](csp-commercial-marketplace-overview.md)

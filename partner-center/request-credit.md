@@ -9,12 +9,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 74dd5c2c9457961f07dd0dd8d5a6ead9047c5579
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 100a3d2988c19d57f7426c7212b7464d8e96dc94
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855565"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152962"
 ---
 # <a name="how-and-when-to-request-a-service-level-agreement-sla-credit-from-microsoft"></a>Microsoft'tan hizmet düzeyi sözleşmesi (SLA) kredisi nasıl ve ne zaman talep edilebilir?
 
@@ -24,17 +24,17 @@ Müşterileriniz için sağlamakta olduğu bir hizmette kesinti olursa Microsoft
 
 ## <a name="sla-credit-calculation"></a>SLA kredi hesaplaması
 
-Microsoft'un SLA kredileri, hangi hizmetlerden etkilenlerine bağlı olarak belirlenir. Örneğin, müşterinizin bir Office 365 paketi varsa ancak yalnızca SharePoint kesintisi yaşanıyorsa, SLA kredisi yalnızca SharePoint için onaylanır ve müşterinin planının tamamı için onaylanmaz.
+Microsoft'un SLA kredileri, hangi hizmetlerden etkilenenin bağlı olarak belirlenir. Örneğin, müşterinizin bir Office 365 paketi varsa ancak yalnızca SharePoint kesintisi yaşanıyorsa, SLA kredisi yalnızca SharePoint için onaylanır ve müşterinin planının tamamı için onaylanmaz.
 
-*Krediler, etkilenen hizmete ve kesinti süresine göre provok olarak derecelendirilmiştir.* SLA kredileri için uygun olan senaryo türlerini görmek için Çevrimiçi Hizmetler Birleştirilmiş [SLA belgesine bakın.](http://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=37) Bu bilgiler, Bulut Çözümü Sağlayıcısı programı aracılığıyla satılan hizmetler için de geçerlidir.
+*Krediler, etkilenen hizmete ve kesinti süresine göre provok olarak derecelendirilmiştir.* SLA kredileri için uygun senaryo türlerini görmek için Çevrimiçi Hizmetler Birleştirilmiş [SLA belgesine bakın.](http://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=37) Bu bilgiler, Bulut Çözümü Sağlayıcısı programı aracılığıyla satılan hizmetler için de geçerlidir.
 
 
 ## <a name="request-an-sla-credit"></a>SLA kredisi isteği
 
-*Bulut Çözümü Sağlayıcısı (CSP) iş ortağının talebi ve tüm gerekli bilgileri olayın meydana geldiği aydan sonraki takvim ayı sonuna kadar göndermesi gerekir.* Örneğin, olay 15 Şubat'ta oluştu ise Microsoft'un talebi ve tüm gerekli bilgileri 31 Mart'a kadar almaları gerekir. Son müşteriler ve dolaylı kurumsal bayiler SLA kredi talepleri gönderemektedir; Dolaylı sağlayıcı veya doğrudan fatura iş ortağının talepleri kendileri adına göndermesi gerekir.
+*Bulut Çözümü Sağlayıcısı (CSP) iş ortağının talebi ve tüm gerekli bilgileri olayın meydana geldiği ayı takip eden takvim ayı sonuna kadar göndermesi gerekir.* Örneğin, olay 15 Şubat'ta oluştu ise Microsoft'un talebi ve tüm gerekli bilgileri 31 Mart'a kadar almaları gerekir. Son müşteriler ve dolaylı kurumsal bayiler SLA kredi talepleri gönderemektedir; Dolaylı sağlayıcı veya doğrudan fatura iş ortağının talepleri kendileri adına göndermesi gerekir.
 
 >[!NOTE]
->Danışmanlık olayları ([Hizmet durumunu Microsoft 365)](https://docs.microsoft.com/microsoft-365/enterprise/view-service-health?&preserve-view=trueo365-worldwide#incidents-and-advisories)SLA kredileri için uygun değildir.
+>Danışmanlık olayları ([Hizmet durumunu Microsoft 365)](/microsoft-365/enterprise/view-service-health#incidents-and-advisories)SLA kredileri için uygun değildir.
 
 ### <a name="required-information"></a>Gerekli bilgiler
 

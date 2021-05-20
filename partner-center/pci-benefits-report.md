@@ -1,53 +1,48 @@
 ---
-title: İş Ortağı Merkezi Öngörüler avantajları raporu
+title: İş Ortağı Merkezi Insights avantajları raporu
 ms.topic: article
 ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: İşinizi büyütmenize, verimliliği artırmaya ve takımınızın yeteneklerini geliştirmeye yardımcı olmak için hangi tür Microsoft Iş ortağı avantajlarına izin verildiğini görün.
+description: İşletmenizi geliştirmeye, verimliliği artırmaya ve takımınıza yardımcı olmak için size verilen Microsoft İş Ortağı avantajlarının türlerini görme.
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5b730eb9c6689c9d779a2e3f16f70fd3232601da
-ms.sourcegitcommit: 10765386b2df0d4c2e8da9b302a692f452e1090d
+ms.openlocfilehash: 488d5641422de3036cb36818c0aa21bdc81a3628
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/31/2021
-ms.locfileid: "106087017"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110152554"
 ---
-# <a name="benefits-report-available-from-the-partner-center-insights-dashboard"></a>Iş Ortağı Merkezi Öngörüler panosundan sunulan avantajlar raporu
+# <a name="benefits-report-available-from-the-partner-center-insights-dashboard"></a>İş Ortağı Merkezi Insights panosundan kullanılabilen avantajlar raporu
 
-**Uygun roller**
+**Uygun roller:** Genel yönetici | Yönetici aracısı | Rapor görüntüleyici | Yönetici raporu görüntüleyicisi
 
-- Genel yönetici
-- Yönetim Aracısı
-- Rapor Görüntüleyicisi
-- Executive rapor Görüntüleyicisi
-
-Bir Microsoft Iş ortağı olarak, takımınızın yeteneklerini geliştirmenize, verimliliği artırmaya ve işletmenizi büyütmenize yardımcı olmak için en son teknolojiyi ve yenilikleri kullanan bir avantaj ana bilgisayarına erişebilirsiniz. Avantajlar paketleri şunlardır: lisanslı yazılım, bulut Hizmetleri, Visual Studio abonelikleri ve destek ayırmaları. Bu paketler aynı zamanda belirli bir pazara karşı kaynak kaynakları, teklifleri ve programları da içerebilir. Avantajlar raporu, eriştiğiniz avantajların ve seçilen tarih aralığında bunların kullanım eğilimlerini gösterir.
+Microsoft İş Ortağı olarak, takımınızı becerilerini geliştirmenize, verimliliği artırmanıza ve işlerinizi geliştirmenize yardımcı olmak için en son teknolojiyi ve yenilikleri kullanan birçok avantaja erişin. Avantajlar paketleri şunlardır: lisanslı yazılım ayırmaları, bulut hizmetleri, Visual Studio abonelikleri ve destek. Bu paketler belirli Pazara Satış kaynaklarını, teklifleri ve programları da içerebilir. Avantajlar raporu, eriştiğiniz avantajların eğilimlerini ve bunların seçili tarih aralığındaki kullanımını gösterir.
 
 :::image type="content" source="images/pci/pci-benefits-intro-1.png" alt-text="avantajlar sayfasına genel bakış":::
 
 Avantajlar raporunda aşağıdaki grafikleri görselleştirebilirsiniz:
 
 - Özet
-- Verilen bulut Hizmetleri
+- Verilen bulut hizmetleri
 - Yazılım ürünleri
 - Visual Studio abonelikleri
 - Teknik avantajlar
-- Pazara git
+- Pazara satış
 
  > [!NOTE]
- > Bu rapor, Öngörüler panosundan kullanılabilir. Bu raporu görüntülemek için Iş Ortağı Merkezi 'nde genel yönetici, hesap yöneticisi, rapor Görüntüleyicisi veya Executive rapor Görüntüleyicisi gibi belirli bir rol atanması gerekir. Daha fazla bilgi için şirketinizin genel Yöneticisi ' ne bakın. bu rapordaki belirli veri türleri yalnızca, Executive rapor Görüntüleyicisi ayrıcalıklarına sahip kullanıcılar tarafından kullanılabilir.
+ > Bu rapor, Öngörüler panosundan edinebilirsiniz. Bu raporu görüntülemek için Genel Yönetici, Hesap Yöneticisi, Rapor Görüntüleyicisi İş Ortağı Merkezi Yönetici Rapor Görüntüleyicisi gibi belirli bir rol atanmış olması gerekir. Daha fazla bilgi için, bkz. şirketinizin Genel Yöneticisi. Bu rapora özgü veri türleri yalnızca Yönetici Rapor Görüntüleyicisi ayrıcalıklarına sahip kullanıcılar tarafından da kullanılabilir.
 
 ## <a name="summary"></a>Özet
 
-Özet bölümü lisanslı yazılım, bulut Hizmetleri (Azure dışı), Visual Studio abonelikleri, teknik destek ve belirli bir pazara karşı pazarlama hizmetleri veya teklifleri bakımından verilen avantajları sunar.
+Özet bölümünde lisanslı yazılımlar, bulut hizmetleri (Azure dışı), Visual Studio abonelikleri, teknik destek ve belirli Pazara Satış hizmetleri veya teklifleri açısından verilen avantajlar yer alır.
 
-Örnek: Microsoft İş Ortağı Ağı (MPN) üyelik iş ortakları, şirket içi ürünlerin ve bulut ürünlerinin teknik desteği için uygundur. Gümüş uzmanlığa sahip iş ortakları, şirket içi ürünlerin 15 olayı için teknik destek verilmesini ister. Gerektiğinde bu desteği tüketebilirler. 
+Örnek: Microsoft İş Ortağı Ağı (MPN) üyelik iş ortakları, şirket içi ürünler ve bulut ürünleri için teknik destek almaya uygundur. Silver uzmanlığına sahip olan iş ortaklarına, şirket içi ürünler için 15 olay için teknik destek verildi. Bu destek gerektiğinde tüketir. 
 
-:::image type="content" source="images/pci/pci-benefits-summary-2.png" alt-text="avantajlar Özeti":::
+:::image type="content" source="images/pci/pci-benefits-summary-2.png" alt-text="avantajlar özeti":::
 
 ## <a name="cloud-services-granted"></a>Verilen bulut Hizmetleri
 
@@ -82,10 +77,10 @@ Verilen belirli bir destek avantajı eğilimini görüntülemek için grafiğin 
 
 Bu grafik, seçilen tarih aralığında ve seçilen bir pazara karşı bir teklif veya hizmet kategorisi için ayrılan, pazara karşı pazara sunulan tekliflere veya hizmetlere yönelik aylık eğilimi gösterir.
 
-Şirketinizde bulunan seçili pazara yönelik bu hizmetlerin eğilimini görüntülemek için grafiğin üstündeki açılan listeden bir pazara karşı teklif veya hizmet kategorisi seçin. Grafikteki sütunlarda go-to-market teklifleri veya Hizmetleri etkinleştirilmiş olarak temsil etmektedir. Çizgi grafik, şirketinize verilen genel pazara yönelik teklifleri veya hizmetleri temsil eder.
+Şirketinizde bulunan seçili pazara yönelik bu hizmetlerin eğilimini görüntülemek için grafiğin üstündeki açılan listeden bir pazara karşı teklif veya hizmet kategorisi seçin. Grafikte yer alan sütunlar, Etkinleştirilen Pazara Satış tekliflerini veya hizmetleri temsil ediyor. Çizgi grafik, genel Pazara Satış tekliflerini veya şirketinize verilen hizmetleri temsil eder.
 
-:::image type="content" source="images/pci/pci-benefits-go-to-market-7.png" alt-text="Go-to-market teklifleri":::
+:::image type="content" source="images/pci/pci-benefits-go-to-market-7.png" alt-text="Pazara Git teklifleri":::
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-- Daha fazla rapor için bkz. [Partner Center öngörüleri](partner-center-insights.md).
+- Daha fazla rapor için [bkz. İş Ortağı Merkezi Insights](partner-center-insights.md).

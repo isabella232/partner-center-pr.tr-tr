@@ -8,19 +8,16 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.date: 04/27/2021
-ms.openlocfilehash: 91f64faeec0b97be2797d489e152cb84cbb2e192
-ms.sourcegitcommit: 8bd2e2f2f0f6bcd0fa202787df5b3c1f786f88f9
+ms.openlocfilehash: 430aea81964d1b75514b6e1377bd2ba1af41b538
+ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 04/29/2021
-ms.locfileid: "108213463"
+ms.lasthandoff: 05/19/2021
+ms.locfileid: "110153047"
 ---
 # <a name="cloudascent-propensity-reports-available-from-partner-center-dashboard"></a>Cloudadscent eğilimini raporları Iş Ortağı Merkezi panosundan kullanılabilir
 
-**Uygun roller**
-
-- Executive rapor Görüntüleyicisi
-- Rapor Görüntüleyicisi
+**Uygun roller**: Executive rapor Görüntüleyici | Rapor Görüntüleyicisi
 
 Iş Ortağı Merkezi panosu, Cloudadscent programından indirilebilir eğilimini verileri sağlar. Veriler, müşterilerin Microsoft ürünlerini satın alma olasılığını gösterir.  Bu makalede bu verilerin dökümü, Puanlama kullanımı ve ne anlama geldiğini açıklanmaktadır.
 
@@ -40,28 +37,28 @@ Küçük ve orta ölçekli iş (SMB) segmenti üç farklı alt parçaya bölün�
 
    En üst yönetilmeyen olarak iki şekilde tanımlanır:
 
-   - **Üst yönetilmeyen Kullanıcı tabanlı**– 300 veya daha fazla çalışan hesapları içerir. User-Based hesapları, Microsoft 365, Dynamics 365 veya yüzey gibi kullanıcı tabanlı abonelik ürünlerinin ilk kez satın alınması veya genişletilmesi için harika hedeflerdir.
-   - **Üst yönetilmeyen Işlem tabanlı** – Azure, $10.000 ' den büyük olan hesapları içerir. İşlem tabanlı hesaplar var olan Azure 'ı içerir. daha önce Azure satın alma, ancak Azure 'un en fazla $10.000 ' den büyük olması gereken önemli gelecek yıl potansiyeli hesaplar.
+   - **Üst yönetilmeyen Kullanıcı tabanlı**– 300 veya daha fazla çalışan hesapları içerir. User-Based hesapları ilk kez satın alma veya Microsoft 365, Dynamics 365 veya Surface gibi kullanıcı tabanlı abonelik ürünlerinin genişletilmesi için harika hedeflerdir.
+   - **En İyi Unmanaged Compute Based:** Azure potansiyeli 10 bin ABD dolarından büyük olan hesapları içerir. İşlem tabanlı hesaplar mevcut Azure'ları içerir. gelecek yıl için önemli bir potansiyele sahip olan hesaplar ve henüz Azure'a satın almamış ancak Azure için 10 bin DOlardan fazla potansiyele sahip olan hesaplar.
 
-2. **Orta ölçekli işletmeler** , 25 ila 300 çalışanı olan mevcut müşterileri ve aday hesap hesaplarını içerir.
+2. **Medium Business,** 25-300 çalışanı olan mevcut müşterileri ve potansiyel müşteri hesaplarını içerir.
 
-3. **Küçük işletmeler** , 10-25 çalışanı olan işletmeler içerir.
+3. **Small Business,** 10-25 çalışanı olan işletmeler içerir.
 
-4. **Çok küçük işletmeler** , 1-9 çalışanı olan işletmeler içerir.
+4. **Çok Küçük İşletmeler,** 1-9 çalışanı olan işletmeler içerir.
 
-:::image type="content" source="images/pci/cust-oppor-2.png" alt-text="Müşteri, SMC türüne göre.":::
+:::image type="content" source="images/pci/cust-oppor-2.png" alt-text="SMC türüne göre müşteri.":::
 
-**En Iyi yönetilmeyen** ve **Orta ölçekli iş** alt kesimleri, Microsoft ve Microsoft iş ortakları için yüksek yaşam süresi değeri (LTV) müşterilerini temsil eder. Bu nedenle, bu kesimde büyüme için odaklanabilecek öncü alanlardır. Bu iki alt kesimde, yuvayı Microsoft 365, D365/Azure iş kolu (LOB) uygulamaları ile daha iyi bir şekilde almak ve Microsoft için yüksek bir KTV hakkında daha iyi konumlandırılıyoruz.
+**En İyi Unmanaged** **ve Medium Business** alt kesimleri, Microsoft ve Microsoft İş Ortakları için yüksek yaşam süresi değeri (LTV) müşterilerini temsil eder. Bu nedenle, bu segmentte büyümeyi devamtırma odak noktası bunlardır. Bu iki alt abonelikte yuvayı Microsoft 365 ile almak, D365/Azure iş hattı (LOB) uygulamalarıyla daha fazla gelir elde etmek ve Microsoft için yüksek bir LTV gerçekleştirmek için daha iyi konumlara sahip oluruz.
 
-Bugün, 1. fırsat için iki temel alan sunuyoruz. müşterimiz büyüme ekliyor; iki. bulut yuvalarını Microsoft 365 önde edindiğimiz için, Dynamics 365 ve Azure 'da büyük bir fırsattır.
+Bugün iki önemli fırsat alanımız vardır: 1. müşterimiz büyümeye devam ediyor; 2. Bulut yuvalarını en iyi şekilde Microsoft 365 dynamics 365 ve Azure'da büyük bir fırsatımız var.
 
-Aşağıdaki ekran görüntüsünde dört SMB alt bölümü temsil eder. Cloudadtik, tüm üst yönetilmeyen ve orta ölçekli Iş hesaplarının profil oluşturma, Puanlama ve modellemesini önceliklendirmez.
+Aşağıdaki ekran görüntüsü dört SMB Altgegment'larını temsil eder. CloudAscent, tüm En İyi Unmanaged ve Medium Business hesaplarının profil oluşturma, puanlama ve modelleme önceliklerini belirleme.
 
-:::image type="content" source="images/pci/cust-oppor-32.png" alt-text="SMB alt kesimlerinin ekran görüntüsü.":::
+:::image type="content" source="images/pci/cust-oppor-32.png" alt-text="SMB alt ayrımlarının ekran görüntüsü.":::
 
-## <a name="cloudascent-machine-learning"></a>Cloudadsent Machine Learning
+## <a name="cloudascent-machine-learning"></a>CloudAscent Machine Learning
 
-SMB, en üst yönetilmeyen ve orta ölçekli Iş segmentlerinde satış ve pazarlama müşteri tahminlerini yönlendirmek için makine öğrenimi teknolojisini kullanır. Sinyaller nasıl toplanır ve eğilimini önerilere nasıl etkinleştirilir?
+SMB, En İyi Unmanaged ve Medium Business segmentleri içinde satış ve pazarlama müşterisi tahminlerini sağlamak için makine öğrenmesi teknolojisini kullanır. Sinyaller nasıl toplanır ve yayma önerilerine nasıl dönüşer?
 
 - **Veri toplama**: web gezginleri şirket etki alanlarını ve blog yayınlarını izleyerek, yayınlar, sosyal akışlar ve teknik Forumlar ' e basarak milyarlarca müşteri sinyalleri tarar ve toplar.  Toplanan sinyallere ek olarak, firmograf bilgileri, D&B, Microsoft Iç aboneliği ve işlem verileri gibi iç ve dış kaynaklardan toplanır.
 
@@ -89,33 +86,33 @@ Web gezginleri aracılığıyla toplanan sinyalleri ve çeşitli kaynaklardan ge
 
    - Sosyal medya ve müşterinin çevrimiçi davranışı ile ilgili sinyaller amaç tanımlar.
 
-   - Amaç Puanlama, kümeleri tanımlamak için sığacak kadar yer alır.
+   - Amaç puanlama, kümeleri tanımlamak için uygun olan üst düzeye atlar.
 
-   - Amaç Puanlama aylık olarak güncelleştirilir.
+   - Amaç puanlama aylık olarak güncelleştirilir.
 
-   :::image type="content" source="images/pci/cust-oppor-5.png" alt-text="Cloudadtik SMB tahmine dayalı modeller.":::
+   :::image type="content" source="images/pci/cust-oppor-5.png" alt-text="CloudAscent SMB tahmine dayalı modelleri.":::
 
 3. Kümeleme
 
-   Sığdırma ve amaç sinyalleri bir kümeleme puanına birleştirilir. Cloudadtik dört kümeye sahiptir:
+   Fit ve amaç sinyalleri bir kümeleme puanında birleştirilmiştir. CloudAscent dört kümeye sahip:
 
-      - Şimdi davran-satış için hazır müşteriler
-      - Değerlendirme-pazarlama için hazırlık müşterileri
-      - Nurture-Drive tanıma kampanyaları
-      - Eğitime-amacı ve izleyiciyi eğitin
+      - Hemen Harekete Geç - satışa hazır müşteriler
+      - Değerlendirme - pazarlamaya hazır müşteriler
+      - Besleme - farkındalık kampanyalarını artırma
+      - Eğitin - amaç için eğitin ve izleme
 
-   Kümeleme, kullanıcıların belirli müşterileri, segment faktörlerine göre satış ve pazarlama girişimleri için hedeflemesini sağlar, örneğin: ürün, coğrafi, sektör ve dikey.
+   Kümeleme, kullanıcıların segment faktörlerine (örneğin ürün, coğrafi, sektör ve dikey) göre satış ve pazarlama girişimleri için belirli müşterileri hedeflemelerine olanak sağlar.
 
-   Clouduscent çalışma kitaplarındaki **eğilimini model** sekmesi, eğilimini ve tahmini boşluk gelirini paylaşır. Sığdırma ve amaç kümelemesini tanımlamak için aşağıdaki adımlardan ilerliyoruz:
+   CloudAscent Workbooks'daki Yayma modeli sekmesi, eğilimi ve tahmini boşluk gelirini paylaşıyor.  Fit ve Intent kümelelerini tanımlamak için aşağıdaki adımları izleyin:
 
-      1. ML modellerini kullanarak, ilk olarak 100 ölçeğinde müşterinin sığması puanı ve amaç puanı hesaplandık.  Tam puanlar, ML modellerine göre farklılık gösterir.  Aşağıdaki örnek puanları:
+      1. ML Modellerini kullanarak önce 100 ölçeğinde Customer Fit Score ve intent Score hesaplarız.  Tam Puanlar ML Modellerine göre farklılık gösterir.  Aşağıdaki Örnek Puanlar:
 
-         |**Sınıflandırma**|**Inızı**|
+         |**Sınıflandırma**|**Puan**|
          |---------|:---------|
-         |Yüksek|75-100|
-         |Orta|55-74|
+         |Yüksek|75 - 100|
+         |Orta|55 - 74|
          |Düşük|30 - 54|
-         |Çok düşük|0 - 29|
+         |Çok Düşük|0 - 29|
 
       2. Yukarıdaki kuralı kullanarak, şirketlerin hem müşteri hem de amaç sinyallerine göre yüksek, orta, düşük ve çok düşük olmasını sağladık.
 
