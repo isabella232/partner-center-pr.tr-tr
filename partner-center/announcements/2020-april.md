@@ -1,6 +1,6 @@
 ---
 title: Nisan 2020 duyuruları
-description: Yeni yetenekler, promosyonlar, teklifler, pazarlar veya mevcut tekliflerle ilgili değişiklikler gibi Microsoft Iş Ortağı Merkezi için Nisan 2020 duyuruları.
+description: Yeni özellikler, promosyonlar, teklifler, pazarlar veya mevcut tekliflerdeki değişiklikler gibi Microsoft İş Ortağı Merkezi için Nisan 2020 duyuruları.
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -8,49 +8,49 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 04/01/2020
-ms.openlocfilehash: cf83cd6eedf982a416f683fa1767e7afa23200c1
-ms.sourcegitcommit: 7beb7327472dc1b0c07c101d121196fb2830bbf8
+ms.date: 05/21/2021
+ms.openlocfilehash: e2efd42acaf0abae8837891758c55f89a4dd7df8
+ms.sourcegitcommit: b59d886d372338eb31bbeb6a7d554ce543738bae
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 12/01/2020
-ms.locfileid: "96439136"
+ms.lasthandoff: 05/24/2021
+ms.locfileid: "110325488"
 ---
 # <a name="april-2020-announcements"></a>Nisan 2020 duyuruları
 
-Bu sayfa, 2020 Nisan için Microsoft Iş Ortağı Merkezi bildirilerini ayrıntılarıyla ayrıntılardır.
+Bu sayfada Nisan 2020 için Microsoft İş Ortağı Merkezi duyuruları ayrıntılı olarak açıklanıyor.
 
-2020 Duyurular: [January 2020](2020-january.md)  |  [Haziran](2020-february.md)2020  |  [Mart 2020 2020](2020-march.md) | 2020 Nisan | [Mayıs 2020](2020-may.md)
+2020 duyuruları: [Ocak 2020](2020-january.md)  |  [Şubat 2020](2020-february.md)  |  [Mart 2020](2020-march.md) | Nisan 2020 | [Mayıs 2020](2020-may.md)
 
 _________________
 
-## <a name="updated-promotions-for-office-365"></a><a id="14"/></a>Office 365 için güncelleştirilmiş yükseltmeler
+## <a name="updated-promotions-for-office-365"></a><a id="14"/></a>Office 365 yükseltmeleri güncelleştirildi
 
 ### <a name="categories"></a>Kategoriler
 
 - Tarih: 2020-04-30
-- Tür: yetenekler
+- Tür: Özellikler
 
 
 
 ### <a name="summary"></a>Özet
 
-4 Mayıs 2020 ' de (12:01har UTC), Microsoft, 365 Office 365 E1 ve Microsoft 365 İş temel için yeni promosyonları tanıtmaktadır ve yeni müşteriler için geçerli 6 aylık ücretsiz deneme sürümünü ister.
+4 Mayıs 2020 (12:01 UTC), Microsoft yeni müşteriler için geçerli altı aylık Office 365 E1 deneme sürümü yerine Office 365 E1 ve Microsoft 365 Business Basic için yeni promosyonlar tanıtacak.
 
-### <a name="impacted-audience"></a>Etkilenen hedef kitle
+### <a name="impacted-audience"></a>Etkilene hedef kitle
 
-Tüm iş ortakları bulut çözümü sağlayıcısı (CSP) programı üzerinden deneyimidir. Bu promosyon yalnızca net yeni ticari müşteriler için kullanılabilir.
+Bulut Çözümü Sağlayıcısı (CSP) programı aracılığıyla işlem yapılan tüm iş ortakları. Bu promosyon yalnızca net yeni ticari müşteriler tarafından kullanılabilir.
 
 ### <a name="details"></a>Ayrıntılar
 
-Microsoft 'un bu sürümü bu zamanlarda, bu [ücretsiz saatlerde müşterilere yaptığı taahhütte](https://www.microsoft.com/microsoft-365/blog/2020/03/05/our-commitment-to-customers-during-covid-19/) , yeni MÜŞTERILER için CSP 'de 6 aylık Office 365 E1 kullanıma sunulmuştur (aşağıdaki tanıma bakın).
-Microsoft, 4 Mayıs 2020 ' de, yeni müşteriler için aylık faturalandırılan yıllık aboneliğin ilk 6 ayı boyunca ücretsiz olarak bu ürünleri sunmak üzere Office 365 E1 ve Microsoft 365 İş temel için yeni indirim promosyonları sunmaktadır.
+[Microsoft'un bu](https://www.microsoft.com/microsoft-365/blog/2020/03/05/our-commitment-to-customers-during-covid-19/) benzeri olmayan zamanlarda müşterilere verdiği taahhüdün bir parçası olarak, yeni müşteriler için CSP'de altı aylık Office 365 E1 deneme sürümü kullanılabilir oldu (aşağıdaki tanıma bakın).
+4 Mayıs 2020'de Microsoft, office 365 E1 ve Microsoft 365 Business Basic için yeni indirim promosyonları sunarak bu ürünleri yeni müşteriler için aylık faturalandırmış yıllık aboneliklerinin ilk altı ayında ücretsiz olarak sunacak.
 
-Bu yükseltmeler, geçerli Office 365 E1 deneme teklifini değiştirecek ve aşağıdaki yollarla farklılık gösterir:
+Bu promosyonlar geçerli Office 365 E1 deneme sürümü teklifinin yerini alacak ve aşağıdaki şekillerde farklılık gösterir:
 
-- İş ortakları yıllık Office 365 E1 veya Microsoft 365 İş temel SKU 'Ları, benzersiz bir 6 aylık deneme SKU 'SU yerine ilk 6 ay boyunca %100 indirimi uygulayan bir CSP promosyon özelliğinden yararlanarak kullanacaktır. [CSP yükseltmeleri hakkında daha fazla bilgi edinin](../promotions.md).
-- Sipariş, yalnızca yazılı ilke aracılığıyla yeni müşterilerle kısıtlanan Office 365 E1 deneme sürümü yerine "yalnızca yeni müşteriler" ile kısıtlanır. 
-- SMB müşterileri için Microsoft 365 İş temel, bu yükseltmeye dahil edilecek. Bu, iş ortaklarının, en Microsoft 365 iş için doğru ürün ailesinde 300 ' den az lisans vererek müşterileri başlatabilmesini sağlar.
+- İş ortakları, benzersiz altı aylık deneme SKU'su yerine ilk altı ay için %100 indirim uygulanan bir CSP Promosyonu kullanarak yıllık Office 365 E1 veya Microsoft 365 Business Basic SKU'larını kullanacak. [CSP yükseltmeleri hakkında daha fazla bilgi.](../promotions.md)
+- Sipariş, yalnızca yazılı ilke aracılığıyla yeni müşterilerle sınırlı olan Office 365 E1 deneme sürümü yerine teknik olarak "yalnızca yeni müşteriler" ile kısıtlanır. 
+- SMB müşterileri için Microsoft 365 Business Basic bu promosyona dahil edilecektir. Bu, iş ortaklarının doğru ürün ailesinde 300'den az boş yer olan müşterileri işletmeye Microsoft 365 sağlar.
 Şu anda Office 365 E1 ile lisanslanan müşteriler (4 Mayıs 2020 tarihine kadar kullanılabilir) geçerli planda kalacaktır. bu değişiklik yalnızca net yeni müşterileri etkiler.
 
 Yeni müşterilerin tanımı
@@ -68,11 +68,11 @@ Bu promosyon için uygun olan yeni müşteriler şunlardır:
 
 ### <a name="next-steps"></a>Sonraki adımlar
 
-Lütfen yukarıdaki değişiklikler, 2020 Mayıs fiyat listesi hakkında bilgi edinin ve bu bilgileri kuruluşunuzdaki ilgili tüm kişilerle paylaşabilirsiniz.
+Yukarıdaki değişiklikler, 2020 Mayıs fiyat listesi hakkında bilgi edinin ve bu bilgileri kuruluşunuzdaki ilgili tüm kişilerle paylaşabilirsiniz.
 
 ### <a name="questions"></a>Sorularınız mı var?
 
-Bu teklifler hakkında daha fazla soru için, lütfen ilgili Yammer topluluklarınızı denetleyin ve Microsoft hesabı takımda temsilcinizle iletişime geçin.
+Bu teklifler hakkında daha fazla soru için, ilgili Yammer topluluklarınızı denetleyin ve Microsoft hesabı takımda temsilcinizle iletişime geçin.
 
 _________________
 
@@ -100,43 +100,43 @@ Azure ayırmaları, Azure hizmetlerini indirimli bir ücret karşılığında sa
 Özelliğin nasıl çalıştığına ilişkin bazı ayrıntılar aşağıda verilmiştir:
 
 - İş ortakları, bireysel müşteri hesap düzeyinde özelliği etkinleştirmeyi seçebilir ve müşteriye satın alma denetimi verebilir.
-- Varsayılan olarak, yetenek "kapalı" olarak ayarlanır ve iş ortağı, müşteri iznini etkinleştirip izin vermeyi seçer.
-- İş ortakları, müşterinin satın alımını Iş Ortağı Merkezi 'nde doğrulayabilecek ve yönetebilecektir.
-- API 'Ler, süreci otomatikleştirmek için ölçek üzerinde müşteri iznini etkinleştirmek üzere kullanılabilir.
+- Varsayılan olarak, özellik "kapalı" olarak ayarlanır ve iş ortağı müşteri iznini etkinleştirip verilmesini seçer.
+- İş ortakları, müşterinin satın alma stratejilerini doğrulama ve yönetme İş Ortağı Merkezi.
+- API'ler, süreci otomatikleştirmek için büyük ölçekte müşteri iznini etkinleştirmek için kullanılabilir.
 
 ### <a name="next-steps"></a>Sonraki adımlar
 
-1. Müşterilerinizin yeni özelliği kullanarak kendi Azure ayırmalarını satın almasını sağlamaya yardımcı olmaya başlayın.
-2. [Teknik belgeler](../give-customers-permission.md), iş ortağı deneyimi Kılavuzu ve müşteri deneyimi kılavuzu gibi daha fazla bilgi sağlayan [Bu koleksiyonda bulunan kaynakları gözden geçirin](https://partner.microsoft.com/resources/collection/customer-permission-to-purchase#/) .
+1. Yeni özelliği kullanarak müşterilerinize kendi Azure rezervasyonlarını satın almalarına yardımcı olmak için çalışmaya başlama.
+2. [Bu koleksiyonda bulunan ve teknik belgeler,](https://partner.microsoft.com/resources/collection/customer-permission-to-purchase#/) iş ortağı deneyimi izlenecek yolu ve müşteri deneyimi adım adım kılavuz dahil olmak üzere daha fazla bilgi sağlayan kaynakları gözden geçirebilirsiniz. [](../give-customers-permission.md)
 
 _________________
 
-## <a name="microsoft-reversed-the-csp-eur-price-for-microsoft-365-e3"></a><a id="12"/></a>Microsoft, CSP Microsoft 365 E3 için fiyat EUR 'yi tersine çevrildi.
+## <a name="microsoft-reversed-the-csp-eur-price-for-microsoft-365-e3"></a><a id="12"/></a>Microsoft, E3 için CSP EUR fiyatını Microsoft 365 verdi.
 
 ### <a name="categories"></a>Kategoriler
 
 - Tarih: 2020-04-24
-- Tür: teklifler/pazarlar
-- Durum: şimdi kullanılabilir
+- Tür: Teklifler/Pazarlar
+- Durum: Artık Kullanılabilir
 - [Daha fazla bilgi edinin](https://flow.microsoft.com/ui-flows/)
 
 ### <a name="summary"></a>Özet
 
-Microsoft, 1 Nisan 2020 ' de Microsoft 365 (M365) E3 için EUR fiyatlandırmasında bir hata düzeltildi. Ancak, 22 Nisan 2020 ' de, Microsoft bu olağandışı koşullarda iş ortaklarına yardımcı olmak için fiyatı geçici olarak geri döndürdü.
+Microsoft, 1 Nisan 2020'de Microsoft 365 (M365) E3 için EUR fiyatlandırması hatasını düzeltti. Ancak 22 Nisan 2020'de Microsoft, bu olağanüstü durumlarda iş ortaklarına yardımcı olmak için fiyatı geçici olarak geri döndürmektedir.
 
-### <a name="impacted-audience"></a>Etkilenen hedef kitle
+### <a name="impacted-audience"></a>Etkilene hedef kitle
 
-Tüm iş ortakları, bulut çözümü sağlayıcısı programındaki EUR fiyat listesi aracılığıyla deneyimidir M365 E3.
+M365 E3'ü, Bulut Çözümü Sağlayıcısı programda EUR fiyat listesi aracılığıyla işlem Bulut Çözümü Sağlayıcısı iş ortakları.
 
 ### <a name="details"></a>Ayrıntılar
 
-2020 ' den önceki sürümlerde, CSP 'de Microsoft 365 E3 için EUR fiyatlandırmasında bir hata bulduk: net Price, daha düşük olmalıdır. Fiyatı düzeltmek üzere bir sistem güncelleştirmesi planlıyoruz, 1 Nisan 2020 ' de teklif için fiyat noktasını düzeltir.
+2020'nin başlarında CSP'de Microsoft 365 E3 için EUR fiyatlandırması hatası tespit edildi: net fiyat olması gerekenden daha düşük. Fiyatı düzeltmek için bir sistem güncelleştirmesi zamanlandı ve teklifin fiyat noktasını 1 Nisan 2020'de düzelttiniz.
 
-Fiyatlandırma hatalı olsa da, bu durumda düzeltme ve fiyatları artırma, olağandışı koşullara uygun değildir. Bu nedenle, 22 Nisan 2020 ' de geçerli olan önceki, daha düşük net fiyatlandırmamız geçici olarak geri döndürüyoruz. Tüm faturalar, önceki daha düşük fiyatlandırmayı hemen yansıtır, ancak fiyat listesi, öngörülebilir bir geleceğe karşı, Mayıs 2020 fiyat listesinden daha düşük fiyatlandırmayı görüntüler.
+Fiyatlandırma hataya neden olsa da, şu anda düzeltme yapılması ve fiyatların artırılması olağanüstü koşullarda uygun değildir. Bu nedenle, 22 Nisan 2020'den itibaren geçerli olan daha düşük net fiyatlandırmamıza geçici olarak geri dönüyoruz. Tüm faturalar hemen önceki düşük fiyatlandırmayı yansıtacakken fiyat listesi, öngörülebilir gelecekte Mayıs 2020 fiyat listesinden düşük fiyatlandırmayı görüntüler.
 
-İş ortakları, Nisan 2020 fiyat listesinde listelenen M365 E3 EUR fiyatlandırmasını kullanmamalıdır; Bunun yerine, lütfen Mart 2020 fiyat listesinde listelenen fiyatlandırmayı inceleyin.
+İş ortakları Nisan 2020 fiyat listesinde listelenen M365 E3 EUR fiyatlandırmalarını kullanmamalı; Bunun yerine Mart 2020 fiyat listesinde listelenen fiyatlandırmaya bakın.
 
-İş ortağı topluluğumuzun bu, bu bir süre boyunca yaptığımız tüm harika işleri beğentik.
+İş ortağı topluluğumuz tarafından bu benzeri görülmemiş süre boyunca yapılan tüm harika çalışmaları takdir edersiniz.
 
 ### <a name="next-steps"></a>Sonraki adımlar
 
@@ -144,7 +144,7 @@ Bu bilgileri kuruluşunuzdaki ilgili tüm kişilerle paylaşabilirsiniz.
 
 ### <a name="questions"></a>Sorularınız mı var?
 
-Microsoft ile operasyonlarınızla ilgili desteğe ihtiyacınız varsa lütfen sorular, sorgular veya daha fazla bilgi için desteğe başvurun.
+Microsoft ile operasyonlarınızla ilgili desteğe ihtiyacınız varsa, sorular, sorgular veya daha fazla bilgi için desteğe başvurun.
 
 _________________
 
@@ -173,41 +173,41 @@ Son olarak, tüm iş ortağı kiracılarına yönelik yönetici adına yönetici
 
 ### <a name="next-steps"></a>Sonraki adımlar
 
-- **Kiracınızı ve kullanıcılarınızı korumak için önerilen güvenlik gereksinimlerini etkinleştirmediyseniz**, lütfen hemen devam edın ve CSP 'de müşterileri veya deneyimidir yönetme konusundaki tüm iş kesintilerini önleyin. Güvenlik gereksinimlerini uygulamayan iş ortakları, risk altında CSP programına katılımını uygulayabilir.
-- Dolaylı sağlayıcılar, kendi işletmeleri için bu güvenlik gereksinimlerini uygulamalıdır ve bu e-posta şablonunu kullanmanın yanı sıra gereksinimleri de gerçekleştirdiklerinden emin olmak için satıcılarla birlikte çalışır. Ayrıca, e-posta iletişimleri aracılığıyla satıcılarınızla doğrudan iletişime geçebiliriz.
-- İlerleme durumunu ve yapılacak anahtar eylemlerinizi belirlemek için [Iş Ortağı Merkezi güvenlik gereksinimleri durum sayfasını](https://partner.microsoft.com/commerce/security/compliance) ziyaret edin. Kiracılarınızın her biri için düzenli olarak güvenlik gereksinimlerinizin ilerlemesini denetlemek için genel yöneticinizle birlikte çalışın.
-- Bir denetim masası satıcısı (CPV) çözümü kullanıyorsanız, lütfen CPV 'nize danışın.
+- **Kiracınızı ve kullanıcılarınızı korumak için önerilen güvenlik gereksinimlerini etkinleştirmediyseniz**, bunu hemen devam etmek ve CSP 'de müşterileri veya deneyimidir yönetme konusunda herhangi bir iş kesintilerini önlemek için yapmanız gerekir. Güvenlik gereksinimlerini uygulamayan iş ortakları, risk altında CSP programına katılımını uygulayabilir.
+- Dolaylı sağlayıcılar kendi işletmeleri için bu güvenlik gereksinimlerini uygulamalı ve bu e-posta şablonunu kullanarak gereksinimlerin uygulanmasını sağlamak için kurumsal bayilerle birlikte çalışmalıdır. Ayrıca e-posta iletişimleri aracılığıyla doğrudan kurumsal bayilerinize de ulaşabilirsiniz.
+- İlerlemenizi [ve İş Ortağı Merkezi için güvenlik gereksinimleri](https://partner.microsoft.com/commerce/security/compliance) durum sayfasını ziyaret edin. Her kiracınız için güvenlik gereksinimlerinizin ilerlemesini düzenli olarak kontrol etmek için genel yöneticinizle birlikte çalışma.
+- Denetim Masası Vendor (CPV) çözümü kullanıyorsanız, CPV'nize başvurun.
 
 ### <a name="additional-resources"></a>Ek kaynaklar
 
-Güvenlik gereksinimlerini uygulamayla ilgili size yardımcı olmak için bu kaynakları gözden geçirin.
+Güvenlik gereksinimlerini uygulama konusunda size yardımcı olmak için bu kaynakları gözden geçirme.
 
-- İş ortağı güvenlik gereksinimlerini uygulamak için [adım adım kılavuza](../partner-security-requirements.md) göz atın.
-- İş ortağı güvenlik gereksinimleriyle ilgili [sık sorulan sorular](../partner-security-requirements-faq.md) ve yanıtlar bölümüne bakın.
-- [Güvenlik gereksinimi durum denetimi kılavuzunu](../partner-security-compliance.md)görüntüleyin.
-- [İş ortağı güvenlik gereksinimleri](https://partner.microsoft.com/resources/collection/partner-security-requirements#/) koleksiyonunda ek kaynaklara erişin.
-- [Iş Ortağı Merkezi Güvenlik Kılavuzu topluluk grubuna](https://aka.ms/MPCSecurityGuidance)yer işareti ekleyin.
+- İş ortağı [güvenlik gereksinimlerini uygulamak için adım](../partner-security-requirements.md) adım kılavuza göz atabilirsiniz.
+- İş ortağı [güvenlik gereksinimleriyle ilgili sık](../partner-security-requirements-faq.md) sorulan sorulara ve yanıtlarına bakın.
+- Güvenlik gereksinimi [durum denetleme kılavuzunu görüntüleme.](../partner-security-compliance.md)
+- İş ortağı güvenlik gereksinimlerini uygulama [koleksiyonunda ek kaynaklara](https://partner.microsoft.com/resources/collection/partner-security-requirements#/) erişin.
+- İş Ortağı Merkezi [Güvenlik Kılavuzu topluluk grubuna yer işareti ekleyin.](https://aka.ms/MPCSecurityGuidance)
 
-Teknik sorunlarla ilgili ek yardım için lütfen [bir destek bileti gönderebilirsiniz](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?topicid=32674991). Lütfen bu e-postayı, bu güvenlik gereksinimlerini uygulamak için işlem yapması gerekebilecek kuruluşunuzdaki diğer kişilere iletin.
+Teknik sorunlar hakkında ek yardım için [bir destek bileti gönderin.](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?topicid=32674991) Bu e-postayı, bu güvenlik gereksinimlerini uygulamak için işlem yapmak zorunda olan kuruluşta diğer kişilere iletin.
 
-İş ortaklığınızda ve ekosistemimizin güvende çalıştığından emin olmanın taahhüdünde teşekkürler.
+İş ortaklığınız ve ekosistemimizin güven üzerinde çalışır olmasını sağlama taahhüdü için teşekkür ediyoruz.
 
 >[!NOTE] 
->Temel ilkeleri kullanıyorsanız ve güvenlik Varsayılanları ilkesine veya [DIĞER MFA uygulama seçeneklerine](..\partner-security-requirements.md#implementing-multi-factor-authentication)geçmediyse, [burada anahtar kaynaklarına](https://partner.microsoft.com/resources/collection/security-defaults-enable-mfa#/)başvurarak en kısa sürede geçiş yapın.
+>Temel ilkeleri kullanıyorsanız ve güvenlik varsayılanları ilkesine veya diğer [MFA](..\partner-security-requirements.md#implementing-multi-factor-authentication)uygulama seçeneklerine geçiş yaptıysanız, buradaki temel kaynaklara başvurarak mümkün olan en kısa sürede [geçiş yapabilirsiniz.](https://partner.microsoft.com/resources/collection/security-defaults-enable-mfa#/)
 
 ### <a name="change-log"></a>Değişiklik günlüğü
 
-- 3 Nisan 2020: özgün duyuru.
-- 23 Nisan 2020 güncelleştirmesi: Microsoft, e-posta aracılığıyla satıcılara doğrudan ulaşacaktır.
+- 3 Nisan 2020: Özgün duyuru.
+- 23 Nisan 2020 Güncelleştirmesi: Microsoft, kurumsal bayilere e-posta yoluyla doğrudan ulaşacak.
 
 _________________
 
-## <a name="microsoft-customer-agreement-standard-amendments-have-moved"></a><a id="10"/></a>Microsoft müşteri anlaşması standart değişiklik açıklamaları taşındı
+## <a name="microsoft-customer-agreement-standard-amendments-have-moved"></a><a id="10"/></a>Microsoft Müşteri Sözleşmesi Standart Ekleri taşındı
 
 ### <a name="categories"></a>Kategoriler
 
 - Tarih: 2020-04-21
-- Tür: yetenekler
+- Tür: Özellikler
 - Durum: şimdi kullanılabilir
 
 ### <a name="impacted-audience"></a>Etkilenen hedef kitle
@@ -236,36 +236,36 @@ Değişikliğe ulaşmak için aşağıdaki adımları izleyin:
 - 3. Adım: seçin, "çözümleri gözden geçir" seçeneğine tıklayın
 - 4. Adım: ihtiyacınız olan değişikliğe tıklayın
 
-Alternatif olarak, iş ortağı Merkezi ' nde oturum açın ve [Bu URL](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?stage=2&topicid=c007d538-f817-84e3-06b5-ff4005c1a6bb)'ye gidin.
+Alternatif olarak, iş ortağı Merkezi ' nde oturum açın ve [Bu URL](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?stage=2&topicid=0570a74b-e021-7aa6-9a81-d0fe505b8df5)'ye gidin.
 
 ### <a name="additional-resources"></a>Ek kaynaklar
 
-Microsoft müşteri anlaşması hakkında daha fazla bilgi için [buradaki](https://partner.microsoft.com/resources/collection/Microsoft-Customer-Agreement-in-the-CSP-program#/)koleksiyonu ziyaret edin.
+Veri koleksiyonu hakkında daha fazla Microsoft Müşteri Sözleşmesi için buradaki koleksiyonu ziyaret [edin.](https://partner.microsoft.com/resources/collection/Microsoft-Customer-Agreement-in-the-CSP-program#/)
 
 _________________
 
-## <a name="announcing-microsoft-defender-advanced-threat-protection-mdatp-for-servers-offer-available-for-csp-on-april-1-2020"></a><a id="9"/></a>1 Nisan 2020 tarihinde CSP için kullanılabilen sunucular için Microsoft Defender Gelişmiş tehdit koruması (MDADTP) duyurusu.
+## <a name="announcing-microsoft-defender-advanced-threat-protection-mdatp-for-servers-offer-available-for-csp-on-april-1-2020"></a><a id="9"/></a>Sunucular için Microsoft Defender Gelişmiş Tehdit Koruması (MDATP) teklifinin 1 Nisan 2020'de CSP'de sun sunl sun sunacağız.
 
 ### <a name="categories"></a>Kategoriler
 
 - Tarih: 2020-04-17
-- Tür: teklifler/pazarlar
-- Durum: şimdi kullanılabilir
+- Tür: Teklifler/Pazarlar
+- Durum: Artık Kullanılabilir
 
 ### <a name="summary"></a>Özet
 
-Sunucu SKU 'SU için Microsoft Defender ATP, 1 Nisan 2020 ' de, aylık olarak 5 ABD Doları üzerinden kullanılabilir.
+Sunucular için Microsoft Defender ATP SKU'su 1 Nisan 2020'de CSP için 5/OSE/ay fiyatla kullanılabilir.
 
-### <a name="impacted-audience"></a>Etkilenen hedef kitle
+### <a name="impacted-audience"></a>Etkilene hedef kitle
 
-Bu yeni SKU, sunucu uç noktası koruması için Microsoft Defender ATP 'yi istediğiniz en az sayıda 50 lisansa (MDADTP, Win E5, M365 güvenliği, M365 E5) sahip Microsoft Defender Gelişmiş tehdit koruması (ATP) müşterileri tarafından kullanılabilir.
+Bu yeni SKU, en az 50 lisans (MDATP, Win E5, M365 Security, M365 E5) olan ve sunucu uç noktası koruması için Microsoft Defender ATP'yi isteyen Microsoft Defender Gelişmiş Tehdit Koruması (ATP) müşterileri için kullanılabilir.
 
 ### <a name="details"></a>Ayrıntılar
 
-Microsoft 'un sunucular üzerinde Endpoint Protection (Şirket içi ve Azure 'da) teklifi, Azure Güvenlik Merkezi standardına sahiptir. Azure Güvenlik Merkezi standart maliyetleri, her ay sunucu Işletim sistemi ortamı başına $15. Müşterilerin Endpoint Server koruması için E5 ile tutarlı bir şekilde satın alınabilecek daha düşük bir fiyat noktasında daha az işlevsellik için bir seçeneğe sahip olmasını istiyoruz.
-Müşterilerin ihtiyaçlarına yanıt olarak, müşteri talebini ele almak için sunucu SKU 'SU için yeni Microsoft Defender ATP 'sini sunuyoruz ve bu SKU 'YU kullanan müşterilerin büyük bir kısmını şirket içi sunucuları kapsayan bir yandan bekletireceğiz, ancak bu kullanım örneği ile sınırlı değildir. Azure Güvenlik Merkezi Standart, gelişmiş bir tehdit koruması özelliği olan Hero SKU 'SU olarak kalır ve iş ortakları, Azure Güvenlik Merkezi Standart Hero SKU 'SU olan müşterilerle konuşmaları Azure iş yükleri için özellikle de müşteri adayı ile görüşmelidir. Ancak Microsoft, Microsoft iş ortaklarının sunucu SKU 'SU için Microsoft Defender ATP ile Endpoint Protection pazarında daha rekabetçi olmasını sağlamak üzere daha düşük bir fiyat noktasında Endpoint Protection sunabilir.
+Microsoft'un sunucularda (şirket içi ve Azure'da) uç nokta koruması teklifi standart Azure Güvenlik Merkezi tasarlanmıştır. Azure Güvenlik Merkezi Standart, Sunucu İşletim Sistemi Ortamı başına aylık 15 ABD dolarıdır. Müşterilerden, uç nokta sunucu koruması için E5 ile tutarlı bir şekilde satın alınarak daha düşük bir fiyat noktasında daha düşük işlevsellik seçeneğine sahip olmak olduklarını duyduk.
+Müşterilerin ihtiyaçlarına yanıt olarak, müşteri talebini karşılamak için yeni Sunucular için Microsoft Defender ATP SKU'su sunuyoruz ve bu SKU kullanan müşterilerin çoğunun şirket içi sunucuları kapsamasını bekliyoruz, ancak bu kullanım durumuyla sınırlı değildir. Azure Güvenlik Merkezi Standard, genişletilmiş bir tehdit koruma özellikleri kümesine sahip hero SKU'su olmaya devam eder ve iş ortaklarının özellikle Azure iş yükleri olan müşteriler için Azure Güvenlik Merkezi Standard hero SKU'su ile müşterilerle konuşmalara liderlik edecektir. Ancak Artık Microsoft, Sunucular için Microsoft Defender ATP SKU'su ile Microsoft iş ortaklarının uç nokta koruma pazarında daha rekabetçi olması için daha düşük bir fiyat noktasında uç nokta koruması sunmaktadır.
 
-En az 50 lisansa sahip Microsoft Defender ATP müşterileri, sunucu uç noktası koruması için, her ay sunucu Işletim sistemi ortamı başına $5 ' de yeni Microsoft Defender ATP 'yi kullanabilir. Sunucular için geliştirilmiş bulut iş yükü koruması için, sunucular için Microsoft Defender ATP müşterileri, Azure Güvenlik Merkezi Standart SKU 'ya yükseltebilir. Bu, sunucu başına her gün için ek $10 ve Uyarlamalı uygulama denetimleri, tam zamanında sanal makine erişimi, dosya bütünlüğü izleme ve Azure ile gelecekteki tümleştirme gibi ek değerler gibi özelliklerden yararlanabilir.
+En az 50 lisansa sahip Microsoft Defender ATP müşterileri, sunucu uç noktası koruması için sunucu uç noktası koruması için aylık 5 ABD doları olan yeni Sunucular için Microsoft Defender ATP'yi kullanabilir. Sunucular için geliştirilmiş bulut iş yükü koruması için, sunucular için Microsoft Defender ATP müşterileri, Azure Güvenlik Merkezi Standart SKU 'ya yükseltebilir. Bu, sunucu başına her gün için ek $10 ve Uyarlamalı uygulama denetimleri, tam zamanında sanal makine erişimi, dosya bütünlüğü izleme ve Azure ile gelecekteki tümleştirme gibi ek değerler gibi özelliklerden yararlanabilir.
 
 Şu anda Azure Güvenlik standardında değişiklik yok. Azure Güvenlik Merkezi Standart, yalnızca sanal makine uç noktalarına değil, çok sayıda Azure kaynağı da IoT, Azure Kubernetes Hizmetleri (Önizleme), Azure Container Registry (Önizleme), Key Vault (Önizleme), uygulama hizmetleri, SQL ve depolama dahil olmak üzere geniş kapsamlı Azure kaynakları kümesini korumak için tümleşik bir kullanıcı deneyimi sağlamaya devam etmektedir.
 
@@ -277,7 +277,7 @@ Sunucular için MDADTP 350158a2-f253-4ea3-988e-eef9d1b828cf
 
 ### <a name="next-steps"></a>Sonraki adımlar
 
-Lütfen bu bilgileri kuruluşunuzdaki uygun kişilerle paylaşabilirsiniz. Bu, uygun yerlerde müşteriler ile 1:1 paylaşılabilir.
+Bu bilgileri, kuruluşunuzdaki uygun kişilerle paylaşabilirsiniz. Bu, uygun yerlerde müşteriler ile 1:1 paylaşılabilir.
 
 Daha sonra müşterileriyle paylaşmak için yılda daha fazla genel bilgi göndereceğiz.
 
@@ -288,7 +288,7 @@ Daha sonra müşterileriyle paylaşmak için yılda daha fazla genel bilgi gönd
 
 ### <a name="questions"></a>Sorularınız mı var?
 
-Microsoft ile işlemlarınızla ilgili sorularınız varsa lütfen [Iş ortağı panonuz aracılığıyla desteğe başvurun](https://partner.microsoft.com/pcv/servicerequests/create).
+Microsoft ile işlemlarınızla ilgili sorularınız varsa, [Iş ortağı panonuz aracılığıyla desteğe başvurun](https://partner.microsoft.com/pcv/servicerequests/create).
 
 ### <a name="change-log"></a>Değişiklik günlüğü
 
@@ -312,39 +312,39 @@ Reno 'da Microsoft Kuzey Operations Center adresi, Nevada değişiyor ve tüm si
 
 ### <a name="impacted-audience"></a>Etkilenen hedef kitle
 
-Kuzey Operations Center ile iletişim kuran herkes ve deneyimidir
+Amerika Operasyon Merkezi ile iletişim kuran ve işlemde bulunan herkes
 
 ### <a name="details"></a>Ayrıntılar
 
-2020 Mayıs geçerlidir, Microsoft Kuzey Operations Center yeni bir adrese sahip olur.
+Mayıs 2020'den itibaren geçerli olacak şekilde, Microsoft Americas Operations Center'ın yeni bir adresi olacak.
 
-Geçerli randevu adresine sahip mevcut malzemelerin güncellenmesi gerekir. Tüm iş ortakları, müşteriler ve tedarikçiler sistemlerini yeni adresle hemen güncelleştirmeli ve tüm güncelleştirmelerin 2020 Mayıs 'a kadar tamamlandığından emin olmalıdır.
+Geçerli Reno adresine sahip tüm mevcut malzemelerin güncelleştirilmiş olması gerekir. Tüm iş ortakları, müşteriler ve tedarikçilerin sistemlerini yeni adresle hemen güncelleştirmeleri ve Tüm güncelleştirmelerin Mayıs 2020'ye kadar tamamlandığından emin olması gerekir.
 
-Adres değişikliğinin ayrıntıları için lütfen aşağıya bakın.
+Adres değişikliğinin ayrıntıları için aşağıya bakın.
 
 |**Mevcut iletişim bilgileri**|**Yeni iletişim bilgileri**|
 |-------------------|:------|
-|6100 Neıl Road </br>Reno, NV 89511|6880 Sierra Center Parkway </br>Reno, NV 89511|
+|6100 Road </br>Reno, NV 89511|6880 Sierra Center Parkway </br>Reno, NV 89511|
 
-Bu yalnızca bir adres değişikdir ve mevcut sözleşmeleri çekilmeye gerek yoktur. Güncelleştirilmiş olabileceğinden, her zaman Microsoft portallarındaki en son şablonlara başvurmalısınız.
+Bu yalnızca bir adres değişikliğidir ve mevcut anlaşmaları yeniden atamaya gerek yoktur. Microsoft portalları güncelleştirilmiş olabilir ve her zaman en son şablonlara başvurabilirsiniz.
 
 ### <a name="next-steps"></a>Sonraki adımlar
 
-Lütfen tüm sistemlerin, yazışmalar ve belgelerin, 15 Mayıs 2020 ' ye kadar yeni iletişim bilgileriyle güncelleştirildiğinden emin olun. Bu tarihe yaklaşmak için diğer eylemler gerekebilir.
+Tüm sistemlerin, yazışmaların ve belgelerin 15 Mayıs 2020'ye kadar yeni iletişim bilgileriyle güncelleştirildiğinden emin olun. Bu tarihe yakın başka eylemler gerekebilir.
 
 ### <a name="questions"></a>Sorularınız mı var?
 
-Lütfen sorular, sorgular veya daha fazla bilgi için [desteğe başvurun](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?category=csp) .
+[Sorular,](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?category=csp) sorgular veya daha fazla bilgi için Destek'e başvurun.
 
 _________________
 
-## <a name="commercial-microsoft-365-e3---unattended-license-will-be-relaunched-on-may-1-2020"></a><a id="7"/></a>Ticari Microsoft 365 E3-katılımsız lisans 1 Mayıs 2020 ' de çalışır.
+## <a name="commercial-microsoft-365-e3---unattended-license-will-be-relaunched-on-may-1-2020"></a><a id="7"/></a>Ticari Microsoft 365 E3 - Katılımsız Lisans 1 Mayıs 2020'de yeniden lisanslandıracak
 
 ### <a name="categories"></a>Kategoriler
 
 - Tarih: 2020-04-10
-- Tür: yetenekler
-- Durum: çok yakında
+- Tür: Özellikler
+- Durum: Çok Yakında
 
 ### <a name="summary"></a>Özet
 
@@ -365,7 +365,7 @@ Ayrıca, bu teklifi 2020 Mayıs 'ta eğitim ve kamu müşterilerine genişletmey
 
 Bu başlatma için oluşturulan özgün teklif KIMLIĞI: katılımsız lisans için Microsoft 365 E3: ec3ac2d1-dd66-475A-95c8-59c32c472778
 
-Güncelleştirilmiş teklif KIMLIĞINI bulmak için lütfen 1 Mayıs 2020 ' de Mayıs ve üretim fiyatı listenizdeki duyurularımızı denetleyin.
+Güncelleştirilmiş teklif KIMLIĞINI bulmak için 1 Mayıs 2020 ' de Mayıs ve üretim fiyatı listenizdeki duyurularımızı denetleyin.
 
 ### <a name="additional-background-on-unattended-license"></a>Katılımsız lisanda ek arka plan
 
@@ -375,11 +375,11 @@ Bu yeni lisans, Microsoft Graph gibi ürün API 'Leri Otomasyon gereksinimlerini
 
 ### <a name="next-steps"></a>Sonraki adımlar
 
-Lütfen bu bilgileri kuruluşunuzdaki tüm ilgili kişilerle paylaşabilir ve gelecekteki güncelleştirmeler için [partner.Microsoft.com](https://partner.microsoft.com) adresindeki duyuruları denetleyin.
+Bu bilgileri kuruluşunuzdaki ilgili tüm kişilerle paylaşabilir ve gelecekteki güncelleştirmeler için [partner.Microsoft.com](https://partner.microsoft.com) adresindeki duyuruları denetleyin.
 
 ### <a name="questions"></a>Sorularınız mı var?
 
-Bu teklifler hakkında daha fazla soru için, lütfen Microsoft hesabı ekipteki temsilcinizle iletişime geçin veya ilgili Yammer topluluklarınızı kontrol edin.
+Bu teklifler hakkında daha fazla soru için Microsoft hesabı ekibine temsilcinizle iletişim kurun veya ilgili Yammer topluluklarınızı kontrol edin.
 
 _________________
 
@@ -389,43 +389,43 @@ _________________
 
 - Tarih: 2020-04-10
 - Tür: teklifler/pazarlar
-- Durum: şimdi kullanılabilir
+- Durum: Artık Kullanılabilir
 - [Daha fazla bilgi edinin](https://flow.microsoft.com/ui-flows/)
 
 ### <a name="summary"></a>Özet
 
-1 Nisan 2020 ' de, Microsoft a5 uyumluluk eklentisi fiyatlandırma değişikliği olmadan ek değer aldı. Ayrıca, Yeni Kullanıcı senaryolarına yönelik üç mini paket tanıtıldık
+1 Nisan 2020'de Microsoft A5 Uyumluluğu eklentisinde fiyatlandırmada değişiklik yapılmasına gerek olmayan ek değer alındı. Ayrıca, yeni kullanıcı senaryolarını ele alan üç mini paketleri de tanıttık
 
-### <a name="impacted-audience"></a>Etkilenen hedef kitle
+### <a name="impacted-audience"></a>Etkilene hedef kitle
 
-Tüm iş ortakları deneyimidir eğitimi, bulut çözümü sağlayıcısı (CSP) programı aracılığıyla sunulur.
+Eğitim tekliflerini Bulut Çözümü Sağlayıcısı (CSP) programı aracılığıyla işlemden geçen tüm iş ortakları.
 
 ### <a name="details"></a>Ayrıntılar
 
 **Daha büyük değer, aynı fiyat**
 
-Microsoft, 1 Nisan 2020 ' de, bir fiyatlandırma değişikliği olmadan a5 uyumluluk tekliflerini Microsoft 365 için yeni bir değer eklemiştir. Ek değer şunları içerir
+1 Nisan 2020'de Microsoft, fiyatlandırmada değişiklik Microsoft 365 A5 Uyumluluğu tekliflerine yeni bir değer ekledi. Ek değer şunları içerir:
 
-- Gelişmiş denetim
-- Insider risk yönetimi
-- İletişim uyumluluğu
-- Kayıt yönetimi
+- Gelişmiş Denetim
+- Insider Risk Management
+- İletişim Uyumluluğu
+- Kayıt Yönetimi
 - Microsoft Cloud App Security (MCAS)
 
-Lütfen fiyat listesindeki aşağıdaki teklif kimliklerine başvurun:
+Fiyat listesinde aşağıdaki teklif kimlikleri'ne bakın:
 
-- Fakülteler için a5 uyumluluğu Microsoft 365 | 9f8f1756-F56F-421e-901A-e80e857cadb8
-- Öğrenciler için Microsoft 365 a5 uyumluluğu | f0f9f37a-539f-4f44-aef6-e37070149499
+- Microsoft 365 için A5 Uyumluluğu | 9f8f1756-f56f-421e-901a-e80e857cadb8
+- Microsoft 365 için A5 Uyumluluğu | f0f9f37a-539f-4f44-aef6-e37070149499
 
-### <a name="microsoft-365-a5-compliance-mini-suites"></a>Microsoft 365 a5 uyumluluk mini paketleri
+### <a name="microsoft-365-a5-compliance-mini-suites"></a>Microsoft 365 A5 Uyumluluğu mini paketleri
 
-Microsoft iş ortakları, 1 Nisan 2020 itibariyle aşağıdaki mini paketleri de sunabilir. Bu eklenti teklifleri, belirli kullanım örnekleri ve müşteri ihtiyaçları için ek müşteri büyüme fırsatı sağlayan Microsoft 365 a5 uyumluluk değerinin belirli alt kümelerini sağlar.
+1 Nisan 2020'den itibaren Microsoft iş ortakları aşağıdaki mini paketleri de sunabilirsiniz. Bu eklenti teklifleri, belirli kullanım örnekleri ve müşteri Microsoft 365 ek müşteri büyüme fırsatı sağlayarak A5 Uyumluluk değerinin belirli alt kümelerini sağlar.
 
-- Microsoft 365 a5 Information Protection ve Idare
+- Microsoft 365 A5 Information Protection ve İdare
 - Microsoft 365 a5 Insider risk yönetimi
 - Microsoft 365 a5 eBulma ve denetim
 
-Lütfen fiyat listesindeki aşağıdaki teklif kimliklerine başvurun:
+Fiyat listesindeki aşağıdaki teklif kimliklerine başvurun:
 
 - Fakülteler için Microsoft 365 a5 Information Protection ve Idare | 0514821c-f7d8-41fc-8c94-59e59d3d6034
 - Öğrenciler için Microsoft 365 a5 Information Protection ve Idare | a91941ff-79a2-4476-a064-c5a6922e0bbd
@@ -438,7 +438,7 @@ Lütfen fiyat listesindeki aşağıdaki teklif kimliklerine başvurun:
 
 Yukarıdaki değişikliklere ek olarak Microsoft, Office 365 gelişmiş uyumluluk ve Azure Information Protection (AıP) plan 2 ' yi de sunmadır. Bu teklifler, 1 Nisan 2020 ' den itibaren net yeni müşterilere yönelik fiyat listesinde artık kullanılamaz ve mevcut müşteriler için otomatik yenileme kapatılmış.
 
-Lütfen, Mini paketler veya daha geniş Microsoft 365 a5 uyumluluk teklifi aracılığıyla BT için en iyi çözümü anlamak üzere müşterilerinizin tekliflerini tartışın.
+Kısa paketler veya daha geniş Microsoft 365 a5 uyumluluk teklifi aracılığıyla, bu kullanıcılara yönelik en iyi çözümü anlamak için tekliflerinizi tartışın.
 
 Etkilenen bir teklif kimliği listesinin aşağıda bulabilirsiniz:
 
@@ -449,45 +449,45 @@ Etkilenen bir teklif kimliği listesinin aşağıda bulabilirsiniz:
 - Azure Information Protection Premium P2 Buy_CSP_CRTY_03c4a7a5-d45d-4a7e-8225-f32c87ab916f
 - Azure Information Protection Premium P2_Buy_MSP_0962a210-418f-4d36-ba9c-4f01c673f57c
 - Azure Information Protection Premium P2_Buy_MSP_FAC_d10fa413-a055-4196-b18f-a014908c7208
-- Azure Information Protection Premium P2_Buy_MSP_STU_edf471ca-1ff8-4378-A057-276ef3b430ba
+- Azure Information Protection Premium P2_Buy_MSP_STU_edf471ca-1ff8-4378-a057-276ef3b430ba
 
 ### <a name="next-steps"></a>Sonraki adımlar
 
-Lütfen fiyat listesi hakkında bilgi edinin ve bu bilgileri kuruluşunuzdaki ilgili tüm kişilerle paylaşabilirsiniz.
+Fiyat listesini tanıma ve bu bilgileri kuruluşta tüm ilgili kişilerle paylaşma.
 
 ### <a name="questions"></a>Sorularınız mı var?
 
-Bu teklifler hakkında daha fazla soru için, Microsoft operasyonlarınızla ilgili herhangi bir sorun yaşıyorsanız lütfen Microsoft hesabı ekibinizdeki temsilcinizle iletişime geçin. lütfen [bir hizmet isteği açın](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=aa679372-d996-73df-e244-cb28bbbf28e8).
+Bu teklifler hakkında daha fazla soru için Microsoft hesabı ekibinde temsilcinize başvurun. Microsoft işlemleriyle ilgili herhangi bir sorun varsa bir [Hizmet İsteği açın.](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=aa679372-d996-73df-e244-cb28bbbf28e8)
 
 _________________
 
-## <a name="office-365-e1-trial-now-available-to-csp-partners"></a><a id="5"/></a>Office 365 E1 deneme sürümü artık CSP iş ortakları için kullanılabilir
+## <a name="office-365-e1-trial-now-available-to-csp-partners"></a><a id="5"/></a>Office 365 E1 Deneme Sürümü artık CSP iş ortakları tarafından kullanılabilir
 
 ### <a name="categories"></a>Kategoriler
 
 - Tarih: 2020-04-07
-- Tür: teklifler/pazarlar
-- Durum: şimdi kullanılabilir
+- Tür: Teklifler/Pazarlar
+- Durum: Artık Kullanılabilir
 
 ### <a name="summary"></a>Özet
 
-1 Nisan 2020 itibariyle, CSP 'de satın alınabilecek yeni bir Office 365 E1 denemesi vardır. Teklif, uzak çalışmadaki son artışı karşılamak için fiyat listesinde kullanılabilir duruma getirilir.
+1 Nisan 2020'den itibaren CSP'de yeni bir Office 365 E1 Deneme Sürümü satın alınabilir. Teklif, uzaktan çalışmada yaşanan son artışı ele alan fiyat listesinde kullanılabilir yapıldı.
 
-### <a name="impacted-audience"></a>Etkilenen hedef kitle
+### <a name="impacted-audience"></a>Etkilene hedef kitle
 
-Tüm iş ortakları bulut çözümü sağlayıcısı (CSP) programında deneyimidir.
+Bulut Çözümü Sağlayıcısı (CSP) programında işlem yapılan tüm iş ortakları.
 
 ### <a name="details"></a>Ayrıntılar
 
-Dünyanın dört bir yanındaki kişiler ve takımlar, uzaktan çalışma düzenlemelerine taşınıyor. İş ortakları, müşterileri desteklemek için hızlı bir şekilde ayarlanıyor ve aynı şekilde ayarlanıyor.
+Dünyanın her yerlerinden insanlar ve ekipler uzaktan çalışma düzenlemelerini benimser. İş ortakları hızlı bir şekilde müşterilerini desteklemek için ayarlamalar yapmakta ve biz de ayarlamaları yapmak için çalışıyoruz.
 
-CSP 'de yeni bir Office 365 E1 denemesi duyurmaktan mutluluk duyuyoruz ve özellikle de, uzak ve akıllı çalışma için gelişen gereksinimlere iş ortağı yanıtını desteklemek üzere oluşturulmuştur. Bu deneme teklifi, 1 Nisan 2020 ' den daha fazla bildirimde bulununcaya kadar sunulmaktadır.
+CsP'de, özellikle uzak ve akıllı çalışma için artan ihtiyaçlara iş ortağının yanıtını desteklemek için oluşturulmuş yeni bir Office 365 E1 Deneme Sürümü duyurmaktan heyecanlanıyoruz. Bu deneme teklifi 1 Nisan 2020'den sonraki bir bildirime kadar kullanılabilir.
 
-CSP Office 365 E1 deneme sürümü, geçerli Microsoft ekipleri CSP denemesine (Exchange ve 2 GB depolama alanı olmayan) ek olarak artık kullanılabilir. Yeni deneme sürümü, Office 365 E1 denemesine eşdeğer işlevlere sahip olacaktır ve en fazla 3.000 kullanıcı için 6 aylık ücretsiz kullanım sağlar. CSP aracılığıyla kullanılabilen bu teklif, iş ortaklarının deneme deneyimini başlatmasına ve yönetmesine olanak tanır.
+CSP Office 365 E1 Deneme Sürümü, mevcut Microsoft Teams CSP Deneme sürümüne ek olarak kullanılabilir (Exchange ve 2 GB depolama alanı yoktur). Yeni deneme sürümü, Office 365 E1 deneme sürümüyle eşdeğer işlevlere sahip olacak ve 3.000 adede kadar kullanıcı için altı ay boyunca ücretsiz kullanım sağlayacak. CSP aracılığıyla kullanılabilen bu teklif, iş ortaklarının deneme deneyimini başlatmalarına ve yönetmelerini sağlar.
 
 ### <a name="offer-id"></a>Teklif Kimliği
 
-- Görünen ad: Office 365 E1 deneme sürümü
+- Görünen ad: Office 365 E1 Deneme Sürümü
 - Deneme teklif KIMLIĞI: c0c1386f-4A95-466b-8974-cefd71414def
 
 Bu teklif, 1 Nisan 2020 ' den üretim fiyatı listesinde satın alınması için hemen kullanılabilir hale getirilir.
@@ -503,7 +503,7 @@ Bu teklif, 1 Nisan 2020 ' den üretim fiyatı listesinde satın alınması için
 
 ### <a name="questions"></a>Sorularınız mı var?
 
-Bu tekliflerle ilgili sorularınız varsa ilgili Yammer topluluklarınızı kontrol edin. Diğer sorunlar için lütfen Iş ortağı merkezi desteği ' ne bir bilet gönderebilirsiniz.
+Bu tekliflerle ilgili sorularınız varsa ilgili Yammer topluluklarınızı kontrol edin. Diğer sorunlar için Iş ortağı merkezi desteği ' ne bir bilet gönderebilirsiniz.
 
 _________________
 
@@ -527,33 +527,33 @@ Bulut çözümü sağlayıcısı (CSP) programı aracılığıyla Dynamics 365 '
 
 Microsoft, 1 Nisan 2020 ' de Dynamics Business Central online ve Dynamics biz uygulamaları ve güç platformları için yeni ürünler yayımlamıştır. Dynamics 365 için ek yeni teklifler 1 Mayıs 2020 ' de kullanıma sunulacaktır.
 
-### <a name="dynamics-business-central-online-offers"></a>Dynamics Iş Merkezi çevrimiçi teklifleri
-1 Nisan 2020 ' de, Dynamics Iş Merkezi çevrimiçi tekliflerle ilgili olarak aşağıdaki değişiklikler yapılmıştır.
+### <a name="dynamics-business-central-online-offers"></a>Dynamics Business Central Online Teklifleri
+1 Nisan 2020'de Dynamics Business Central Online tekliflerine aşağıdaki değişiklikler yapıldı.
 
-- CSP 'de Iş Merkezi için yeni Dynamics Business teklifleri
-- Sales Pro ve Customer Service Pro Attach SKU 'Larını güncelleştirme
+- CSP'de Business Central için yeni Dynamics Business teklifleri
+- Sales Pro ve Customer Service Pro Attach SKUS'larını güncelleştirme
 
-### <a name="dynamics-biz-apps-and-power-platform-products"></a>Dynamics biz uygulamaları ve güç platformu ürünleri
+### <a name="dynamics-biz-apps-and-power-platform-products"></a>Dynamics Biz Apps ve Power Platform Ürünleri
 
-1 Nisan 2020 ' de, Dynamics biz uygulamalarında ve Power platform ürünlerinde aşağıdaki değişiklikler yapılmıştır.
+1 Nisan 2020'de Dynamics Biz Apps ve Power Platform yapıldı.
 
-- Birinci taraf robot Işlem Otomasyonu (RPA) teklifleri
+- Birinci taraf Robotik Süreç Otomasyonu (RPA) teklifleri
 - RPA teklifleri için yeni BOT ürünü
 
-Lütfen Dynamics CSP teklifi Updates-Mar 2020 dosyasındaki belirli değişikliklere [bakın.](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)
+Dynamics CSP Offer Updates-Mar 2020 dosyasındaki belirli değişikliklere buradan [bakın.](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)
 
-### <a name="robotic-process-automation"></a>Robot Işlem Otomasyonu
+### <a name="robotic-process-automation"></a>Robotik Süreç Otomasyonu
 
-Microsoft, 1 Mayıs 2020 ' de yeni RPA tekliflerinin eğitim programlarına uygunluğunu genişletiyor.
-CSP 'de yetkili eğitim Iş ortağı programındaki değişiklikler hakkında daha fazla bilgi edinmek için [buraya](https://partner.microsoft.com/resources/collection/csp-aer-partner-qualification-retirement#/)tıklayın. Bu, Iş Ortağı Merkezi 'nde var olan bir koleksiyonun bağlantıdır.
+1 Mayıs 2020'de Microsoft, yeni RPA tekliflerinin kullanılabilirliğini Eğitim programlarına genişletecek.
+CSP'de Yetkili Eğitim İş Ortağı Programı'nın değişiklikleri hakkında daha fazla bilgi edinmek için buraya [tıklayın.](https://partner.microsoft.com/resources/collection/csp-aer-partner-qualification-retirement#/) Bu, İş Ortağı Merkezi) üzerinde var olan bir koleksiyonun bağlantısıdır.
 
-Yeni SKU bilgileri için lütfen ilgili [indirme bölümündeki ekli](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/) **Dynamics CSP teklifi Updates-May 2020 dosyasını** inceleyin.
+Yeni SKU **bilgileri için ilgili indirme bölümünde Updates-May Dynamics CSP Offer Updates-May 2020** [](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/) dosyasını gözden geçirebilirsiniz.
 
-### <a name="ecommerce-changes"></a>Eticaret değişiklikleri
+### <a name="ecommerce-changes"></a>e-ticaret değişiklikleri
 
-1 Nisan 2020 ' den itibaren geçerli olan eCommerce, son fiyat sayfalarında görünen ad ve/veya PFAD değişiklikleri sunar. Değişiklikler aşağıdaki tabloda özetlenmiştir.
+1 Nisan 2020'den itibaren geçerli olan e-ticaret tekliflerini, son fiyat sayfalarında görünen ad ve/veya PFAM değişiklikleri vardır. Değişiklikler aşağıdaki tabloda özetlenmiştir.
 
-|**Görünen ad ve/veya PFAD değişikliği**|**1 Mart 2020**|**1 Nisan 2020**|
+|**Görünen Ad ve/veya PFAM Değişikliği**|**1 Mart 2020**|**1 Nisan 2020**|
 |-------------------|:------|:-----|
 |Görünen Ad|Eticaret derecelendirmeleri ve Incelemeleri|Ticari derecelendirmeler ve Incelemeler|
 |Görünen Ad|Eticaret önerileri|Ticari öneriler|
@@ -570,40 +570,40 @@ Yeni SKU bilgileri için lütfen ilgili [indirme bölümündeki ekli](https://pa
 - [Microsoft Dynamics 365 lisansı](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)
 - [Dynamics 365 ve güç platformları-kullanılabilirlik, veri konumu, dil ve yerelleştirme içeriği](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)
 - [FY20 yenilikler Web semineri serisi](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)
-- [FY20 Teknik Hazırlık Web semineri serisi](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)
-- [Robot Işlem Otomasyonu (RPA)](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)
+- [FY20 Technical Readiness Webinar Series](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)
+- [Robotik Süreç Otomasyonu (RPA)](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)
 
 ### <a name="next-steps"></a>Sonraki adımlar
 
-Lütfen bu bilgileri kuruluşunuzdaki uygun kişilerle paylaşabilirsiniz. Lisanslama güncelleştirmeleri ve değer teklifi hakkında daha fazla bilgi için lütfen "ek kaynaklar" bölümünde ve PartnerSource 'ta hazır olma içeriğimizi öğrenmeye çalışın.
+Bu bilgileri, kuruluşta uygun kişiler ile paylaşın. Lisans güncelleştirmeleri ve değer teklifi hakkında daha fazla bilgi için "Ek kaynaklar" bölümünde ve PartnerSource'ta hazır olma içeriğimizi okuyun.
 
 ### <a name="questions"></a>Sorularınız mı var?
 
-Microsoft ile işlemlerinizin tamamen ilişkili olduğu konusunda yardım almak için lütfen [desteğe ulaşın](https://partner.microsoft.com/pcv/servicerequests/create).
+Microsoft ile olan işlemleriniz hakkında yardım almak için de destek [ile iletişime geçin.](https://partner.microsoft.com/pcv/servicerequests/create)
 
 _________________
 
-## <a name="now-available---operations-readiness-resources-in-one-place"></a><a id="3"/></a>Artık kullanılabilir-Işlem hazırlık kaynakları tek bir yerde
+## <a name="now-available---operations-readiness-resources-in-one-place"></a><a id="3"/></a>Artık kullanılabilir - Operasyon hazırlığı kaynakları tek bir yerde
 
 ### <a name="categories"></a>Kategoriler
 
 - Tarih: 2020-04-03
-- Tür: yetenekler
-- Durum: şimdi kullanılabilir
+- Tür: Özellikler
+- Durum: Artık Kullanılabilir
 - [Daha fazla bilgi edinin](https://partner.microsoft.com/resources/collection/readiness-in-one-place#/)
 
-### <a name="impacted-audience"></a>Etkilenen hedef kitle
+### <a name="impacted-audience"></a>Etkilene hedef kitle
 - Tüm CSP iş ortakları
 
 ### <a name="summary"></a>Özet
 
-[Işlem hazırlığı kaynak konumu](https://partner.microsoft.com/resources#/) artık canlı olduğundan, işlemler için tek bir konuma sahip iş ortakları sağlar ve tüm Microsoft kanalları ve programları genelinde en son güncelleştirmeler ve temel işlem hazırlık kaynaklarını bulmayı her zamankinden daha kolay hale getirir. CSP programı güncelleştirme kaynak Galerisi ve Microsoft hazırlık içeriği, Işlem hazırlık kaynağı konumuna taşındı ve CSP program güncelleştirme kaynak galerisine () işaret eden URL, [https://partner.microsoft.com/resources#/](https://partner.microsoft.com/resources#/) Işlem hazırlığı kaynak konumunu işaret etmek üzere güncelleştirildi.
+Operasyon [hazırlığı kaynak](https://partner.microsoft.com/resources#/) konumu artık canlıdır ve iş ortaklarına operasyon hazırlığı kaynakları için tek bir konum sağlayarak tüm Microsoft kanallarında ve programlarında en son güncelleştirmeleri ve önemli operasyonel hazır olma kaynaklarını bulmalarını hiç olmadığı kadar kolay hale getirir. CSP Programı Güncelleştirmeleri Kaynak galerisi ve Microsoft Hazır Olma içeriği İşlemler Hazırlığı kaynak konumuna taşındı ve CSP Programı Güncelleştirme Kaynak Galerisi'ne ( ) işaret alan URL İşlem hazırlığı kaynak konumunu işaret etmek için [https://partner.microsoft.com/resources#/](https://partner.microsoft.com/resources#/) güncelleştirildi.
 
-Bu yeni deneyim hakkında daha fazla bilgi ve önümüzdeki birkaç hafta içinde gelişmeye devam edecek bazı alanlarla ilgili daha fazla ayrıntı için lütfen burada [GÜNCELLEŞTIRILMIŞ SSS](https://assetsprod.microsoft.com/mpn/readiness-in-one-place-partner-login-faq.pdf) 'yi gözden geçirin.
+Bu yeni deneyim ve önümüzdeki birkaç hafta içinde gelişmeye devam edecek bazı alanlar hakkında daha fazla bilgi için buradaki güncelleştirilmiş [SSS](https://assetsprod.microsoft.com/mpn/readiness-in-one-place-partner-login-faq.pdf) bölümünü gözden geçirin.
 
-**Görüşleriniz bizim için önemlidir!** Yeni Işlem hazırlığı konumunu kullanırken, deneyiminizi iyileştirmeye devam edebilmemiz için sizi geri bildirimde bulunmamaya davet ediyoruz. Bu **sayfa yardımcı oldu mu? ile bunu yapabilirsiniz. Evet |** Her sayfanın en altında yer aldığı geri bildirim aracı yok.
+**Geri bildiriminiz bizim için önemlidir!** Yeni operasyon hazırlığı konumunu kullana olarak, deneyiminizi geliştirmeye devam etmek için sizi geri bildirim bırakmanız için davet ediyoruz. Bu sayfa yararlı oldu **mu? Evet | Her** sayfanın alt kısmında geri bildirim aracı yok.
 
-Microsoft, ilettiğimiz ve tüm Microsoft programlarında hazırlık malzemeleri sağlama yöntemini kolaylaştırmış. ' De Microsoft iş ortağı web sitesinde [https://partner.microsoft.com](https://partner.microsoft.com) varlıkları, [CSP program güncelleştirmeleri kaynak Galerisi](https://partner.microsoft.com/resources#/) ve [Microsoft hazırlık sitesi](https://www.microsoftreadiness.com/)' nden birleştiren bir işlem hazırlığı kaynak konumu tanıtıyoruz.
+Microsoft, tüm Microsoft programlarında iletişim kurma ve hazırlık malzemeleri sağlama yollarımız hakkında bilgi sağlar. MICROSOFT iş ortağı web sitesinde CSP Program Güncelleştirmeleri Kaynak Galerisi'nden ve Microsoft Hazır olma sitesinden varlıklarını birleştiren bir İşlem Hazırlığı [https://partner.microsoft.com](https://partner.microsoft.com) [kaynak konumu tanıtlanmaktadır.](https://www.microsoftreadiness.com/) [](https://partner.microsoft.com/resources#/)
 
 İşlem hazırlık kaynakları için tek bir konum ile, iş ortaklarının tüm Microsoft kanalları ve programları genelinde en son güncelleştirmeleri, kritik duyuruları ve önemli işlem hazırlık kaynaklarını bulması her zamankinden daha kolay olacaktır. Çoklu oturum açma deneyimi ve gelişmiş arama, filtre ve sıralama özellikleri iş ortakları, işletmelerini kolayca erişebilir, kullanabilir ve Microsoft ile BT için çalışan bir şekilde iş gerçekleştirebilir.
 
@@ -615,49 +615,49 @@ Partner.microsoft.com üzerindeki işlem hazırlığı kaynak konumu, geçerli C
 - **Güçlü Galeri araması:** İçerik filtreleri, programlar ve içerikler arasında içerik bulmayı daha hızlı ve daha basit hale getirir, örneğin, CSP.
 - **Duyurular:** Belirli bir program için en son duyuruların ve en son belge güncelleştirmelerinin bulunması, yalnızca bu program için içeriğe önceden filtrelenmiş sayfalarla daha kolay olacaktır. CSP için bir program sayfası da olacaktır, ancak CSP duyuruları Iş Ortağı Merkezi 'ne nakledilmeye devam edecektir.
 - **Yeni konum:** Operations kaynakları için yeni konum partner.microsoft.com üzerinde canlı olduktan sonra, Microsoft hazırlık sitesi ve CSP program güncelleştirmeleri kaynak Galerisi artık erişilebilir olmayacaktır ve kullanıcıları yeni işlemler kaynak konumuna yönlendirir. İş ortakları, CSP 'ye veya diğer belirli program kaynaklarına filtre uygulamak için içerik programı filtrelerinden faydalanabilir.
-- **Genişletilmiş içerik:** Microsoft hazırlık sitesinin ve CSP program güncelleştirmeleri kaynak galerisindeki tüm son ve ilgili içerikler yeni işlem hazırlığı konumuna yeniden konumlandırılıp, daha fazla programın içeriğinin tek bir konumda kullanıma sunulacaktır.
+- **Genişletilmiş içerik:** Microsoft Hazır Olma sitesinden ve CSP Program Güncelleştirmeleri Kaynak Galerisi'nden alınan tüm son ve ilgili içerikler yeni işlemler için hazır olma konumu olarak yeniden konumlara alınarak daha fazla programın içeriği artık tek bir konumda tutulacak.
 
 ### <a name="next-steps"></a>Sonraki adımlar
 
-Hazırlanmak için ne yapmanız gerekir?
+Hazırlamak için ne gerekir?
 
-- Galeri koleksiyonundaki güncelleştirilmiş hazırlık malzemelerini gözden geçirerek [,](https://partner.microsoft.com/resources/collection/readiness-in-one-place#/)işlem hazırlık kaynakları Için yeni Microsoft iş ortağı web sitesi konumu hakkında **daha fazla bilgi edinin** .
-- Yeni deneyim hakkında daha fazla bilgi edinmek ve soru sormak için **bir Nisan iş ortağı topluluk çağrısına katılın** :[https://globalpbocomm.eventbuilder.com/GlobalCSP](https://globalpbocomm.eventbuilder.com/GlobalCSP)
+- **Galeri koleksiyonunda** güncelleştirilmiş hazırlık malzemelerini gözden geçirerek operasyon hazırlığı kaynakları için yeni Microsoft iş ortağı web sitesi konumu hakkında daha fazla bilgi Çok yakında - operasyon hazırlığı [kaynakları tek bir yerde.](https://partner.microsoft.com/resources/collection/readiness-in-one-place#/)
+- **Yeni deneyim hakkında daha fazla bilgi edinecek** ve sorular sorabilirsiniz: [https://globalpbocomm.eventbuilder.com/GlobalCSP](https://globalpbocomm.eventbuilder.com/GlobalCSP)
 
 ### <a name="questions"></a>Sorularınız mı var?
 
-Lütfen sorular, sorgular veya daha fazla bilgi için [desteğe başvurun](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?category=csp) .
+[Sorular,](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?category=csp) sorgular veya daha fazla bilgi için Destek'e başvurun.
 
 ### <a name="change-log"></a>Değişiklik günlüğü
 
-- 3 Nisan 2020: şimdi kullanılabilir olarak güncelleştirildi
-- 23 Mart 2020: CSP program kaynak galerisini güncelleştirme Işlemi hazırlık kaynak konumu 3 Nisan 2020 tarihinde güncelleştirildi
-- 9 Mart 2020:30 günlük bildirim, güncelleştirilmiş hazırlık malzemeleri
-- 14 Şubat 2020: özgün yayın tarihi
+- 3 Nisan 2020: Artık Kullanılabilir Olarak Güncelleştirildi
+- 23 Mart 2020: CSP Program Güncelleştirmeleri Kaynak Galerisi İşlem hazırlığı kaynak konumu 3 Nisan 2020'ye güncelleştirildi
+- 9 Mart 2020: 30 günlük bildirim, güncelleştirilmiş hazırlık malzemeleri
+- 14 Şubat 2020: Özgün yayın tarihi
 
 _________________
 
-## <a name="microsoft-365-business-voice-available-to-csp-partners-from-april-1-2020"></a><a id="2"/></a>1 Nisan 2020 ' den Microsoft 365 İş, CSP iş ortakları için kullanılabilir ses
+## <a name="microsoft-365-business-voice-available-to-csp-partners-from-april-1-2020"></a><a id="2"/></a>Microsoft 365 Business Voice, 1 Nisan 2020'den itibaren CSP iş ortakları tarafından kullanılabilir
 
 ### <a name="categories"></a>Kategoriler
 
 - Tarih: 2020-04-01
-- Tür: teklifler/pazarlar
-- Durum: şimdi kullanılabilir
+- Tür: Teklifler/Pazarlar
+- Durum: Artık Kullanılabilir
 - [Daha fazla bilgi edinin](https://partner.microsoft.com/resources/collection/microsoft_365_business_voice_in_csp#/)
 
 ### <a name="summary"></a>Özet
 
-Küçük ve orta ölçekli işletmeler için tasarlanan bulut tabanlı bir telefon sistemi olan Microsoft 365 İş Voice, burada listelenen ülkelerde 1 Nisan 2020 ' den itibaren kullanıma sunulacaktır.
+Microsoft 365 orta ölçekli işletmeler için bulut tabanlı bir telefon sistemi olan Microsoft 365 Business Voice, 1 Nisan 2020'den itibaren burada listelenen ülkelerde kullanılabilir olacak.
 
-### <a name="impacted-audience"></a>Etkilenen hedef kitle
+### <a name="impacted-audience"></a>Etkilene hedef kitle
 
-- [Bu ülkelerde](https://partner.microsoft.com/resources/collection/microsoft_365_business_voice_in_csp#/)çalışan tüm CSP iş ortakları.
-- Avustralya 'daki iş ortakları aşağıdaki kılavuzumuzu denetlemelidir.
+- Bu ülkelerde faaliyet gösteren tüm CSP [iş ortakları.](https://partner.microsoft.com/resources/collection/microsoft_365_business_voice_in_csp#/)
+- Avustralya'daki iş ortaklarının aşağıdaki kılavuzlarımızı denetlemesi gerekir.
 
 ### <a name="details"></a>Ayrıntılar
 
-Microsoft, 1 Nisan 2020 ' de, ek coğrafi bölgelerde Microsoft 365 İş sesi tanıtacaktır. İki teklif kullanılabilir: Microsoft 365 İş ses ve Microsoft 365 İş plan çağrısı olmadan ses (doğrudan yönlendirme kullanarak). Her iki teklif da ABD 'de kullanılabilir olacaktır
+1 Nisan 2020'de Microsoft, Microsoft 365 Business Voice'u ek coğrafyalara tanıtacak. İki teklif kullanılabilir olacak: Microsoft 365 Ses ve Microsoft 365 Planı Olmadan İş Sesi (doğrudan yönlendirme kullanarak). Her iki teklif de ABD'de kullanılabilir olacak
 
 ### <a name="customer-value-proposition"></a>Müşteri değer teklifi
 
@@ -682,29 +682,29 @@ Microsoft 365 İş ses, aşağıdaki planlara eklenti olarak kullanılabilir:
 - Kurumsal kullanıma hazır hale getirme ve modern iletişim aracı Microsoft ekipleri kullanmaya başlamak için Kullanıcı benimseme/eğitim hizmetleri sunma.
 - Kalite raporlama, cihaz yönetimi ve Kullanıcı desteği gibi yönetilen hizmetlerle müşteri ortamını destekleme ve izleme.
 
-**Microsoft 365 İş ses (Birleşik Devletler, Kanada, Birleşik Krallık)**
+**Microsoft 365 Business Voice (Birleşik Devletler, Kanada, Birleşik Krallık)**
 
-1 Nisan 2020 ' de, çağrı planlarına sahip Iş sesi Birleşik Devletler satın alınabilir ve ABD 'de, Kasım 2019 ' deki ABD ve Kanada 'da lansman için kullanıma sunulacaktır.
+Kasım 2019'daki Birleşik Krallık ve Kanada'daki lansmandan sonra, 1 Nisan 2020'de arama planlarına sahip Business Voice, Birleşik Devletler'da satın alınacaktır.
 
-Bu müşterilere uluslararası çağırma özellikleri arayan bir eklenti teklifi de sunulacaktır.
+Uluslararası arama özelliklerine sahip olmak isteyen müşteriler için bir eklenti teklifi de kullanılabilir.
 
-- Microsoft 365 İş Voice: 9f9f2c7b-c961-402b-9421-8e3c9207eeb3
-- SMB için uluslararası çağrı planını Microsoft 365: c01a89e5-d246-42d6-b21a-f4a1e9b04f56
+- Microsoft 365 İş Sesi: 9f9f2c7b-c961-402b-9421-8e3c9207eeb3
+- Microsoft 365 SMB için Uluslararası Arama Planı: c01a89e5-d246-42d6-b21a-f4a1e9b04f56
 
-**Plan çağrılmadan ses Microsoft 365 İş (70 + ülke)**
+**Microsoft 365 Planı Çağırmadan İş Sesi (70'den fazla ülke)**
 
-Alternatif olarak, 1 Nisan 2020 ' den itibaren, telefon sistemi ve ses konferansı içeren plan teklifi olmadan Iş sesini satın alabilirsiniz. Bu teklif burada listelenen tüm ülkelerde kullanılabilir.
+Alternatif olarak, 1 Nisan 2020'den itibaren telefon sistemi ve sesli konferans gibi Arama Planı Olmadan İş Sesi teklifini satın alın. Bu teklif, burada listelenen tüm ülkelerde kullanılabilir.
 
-- **Yalnızca Birleşik Devletler:** Plan çağrılmadan Microsoft 365 İş ses: 39d77d0f-eb8f-4ebc-B618-692e1cc59c8f
-- **Dünyanın geri kalanı:** Plan çağrılmadan Microsoft 365 İş ses: cc69a07c-8c51-457f-bb2a-f21a62d6bede
+- **Birleşik Devletler:** Microsoft 365 ÇağırmaDan İş Sesi Planı: 39d77d0f-eb8f-4ebc-b618-692e1cc59c8f
+- **Dünyanın geri kalanı:** Microsoft 365 ÇağırmaDan İş Sesi Planı: cc69a07c-8c51-457f-bb2a-f21a62d6bede
 
-Bu tekliften nasıl avantaj sağladığını öğrenmek için lütfen yerel yan kuruluşuna katılın.
+Bu tekliften nasıl yararlanabileceklerini anlamak için yerel yan kuruluşla iletişim kurma.
 
-### <a name="additional-guidance-for-partners-in-the-united-states-and-puerto-rico"></a>Birleşik Devletler ve Porto Riko 'da iş ortakları için ek rehberlik
+### <a name="additional-guidance-for-partners-in-the-united-states-and-puerto-rico"></a>Birleşik Devletler ve Porto Riko'daki iş ortakları için ek rehberlik
 
-ABD ve Porto Riko 'da, Iş sesi vergi dahil bir tekliftir. Iş ortaklarına faturalandırılan ve Iş ortakları tarafından Microsoft 'a ödenen fiyat, ilgili ABD vergi vergilerini ve ücretlerini içerir. Diğer pazarlarda, vergiler normal faturalandırma süreci uyarınca uygulanır. Lütfen Iş sesinizi işaretlemek için geçerli olan vergilerle konuşun. Iş sesi işaretlenmişse, ortağın telefon vergilerini havale etmek için bir yol olması gerekir. Aksi takdirde, iş ortağı, işaret üzerinde artımlı vergi olarak ödenmez ve bu da vergi ihlallerine yol açar. Microsoft, ABD 'de Iş için Iş ortaklarına, olası kenar boşluğu eksikliğine telafi sağlamak için ek CSP teşvikleri sağlar.
+ABD ve Porto Riko'da İş Sesi, vergi dahil bir tekliftir. İş Ortakları tarafından faturalandırıp İş Ortakları tarafından Microsoft'a ödenen fiyat, geçerli ABD telco vergilerini ve ücretlerini içerir. Diğer pazarlarda normal faturalama sürecine göre vergiler uygulanır. İş Sesi'nin işaretlerini işaretlemeye karar vermeden önce yasal danışmanızla vergileri geri ödeme hakkında konuşarak. İş Sesi işaretlenmişse İş Ortağının telco vergilerini geri ödemesi için bir yol gerekir. Aksi takdirde iş ortağı, işaretlemede artımlı vergi ödemez ve bu da vergi ihlallerine neden olur. Microsoft, potansiyel marj eksikliğini telafi etmek için ABD'de İş Sesi iş ortaklarına ek CSP teşvikleri sağlar.
 
-### <a name="guidance-for-partners-in-australia"></a>Avustralya 'da iş ortakları için rehberlik
+### <a name="guidance-for-partners-in-australia"></a>Avustralya'daki iş ortakları için rehberlik
 
 Avustralya 'daki iş ortakları, bir plan olmadan teklif Microsoft 365 İş Voice 'ın, 1 Nisan 2020 ' de üretim fiyatı listesinde mevcut olmayacaktır ve bu da Mart 2020 ' deki önizleme fiyatı listesinde kullanılabilir olmasına dikkat edilmelidir. Anlaşıldığınız için teşekkürler.
 
@@ -715,12 +715,12 @@ Zaman içinde, Microsoft 365 İş sesini Office 365 ve Microsoft 365 kullanılab
 ### <a name="next-steps"></a>Sonraki adımlar
 
 - Bu teklifin değer teklifi hakkında daha fazla bilgi edinmek ve Microsoft ekipleri uygulamanızı oluşturmak ve birleştirmek için iş ortağı galerimize bakın: [CSP 'de Microsoft 365 iş ses kullanılabilirliği](https://partner.microsoft.com/resources/collection/microsoft_365_business_voice_in_csp#/)
-- Lütfen önizleme fiyatı listesini öğrenin ve bu bilgileri kuruluşunuzdaki ilgili tüm kişilerle paylaşabilirsiniz.
-- Bu teklif hakkında daha fazla bilgi edinmek ve pazara etkin bir şekilde gitmek için lütfen yerel bir ticari Iş ortağı ekibinize katılın
+- Önizleme fiyatı listesini öğrenmeye çalışın ve bu bilgileri kuruluşunuzdaki uygun kişilerle paylaşabilirsiniz.
+- Bu teklif hakkında daha fazla bilgi edinmek ve pazara etkin bir şekilde gitmek için yerel bir ticari Iş ortağı ekibinize katılın
 
 ### <a name="questions"></a>Sorularınız mı var?
 
-Bu teklifler hakkında daha fazla soru için lütfen Microsoft One ticari Iş ortağı ekibinin temsilcinizle iletişime geçin.
+Bu tekliflerle ilgili daha fazla soru için, Microsoft One ticari Iş ortağı ekibinin temsilcinizle iletişime geçin.
 
 ### <a name="change-log"></a>Değişiklik günlüğü
 
@@ -742,37 +742,37 @@ _________________
 ### <a name="impacted-audience"></a>Etkilenen hedef kitle
 Tüm CSP iş ortakları.
 
-**1 nisan 2020 güncelleştirmesi** 31 Ocak 2020 itibariyle, bulut çözümü sağlayıcısı (CSP) programındaki tüm iş ortakları, tüm deneyimidir CSP kiracılarının sözleşmesini kabul etmiş olmalıdır. Daha önce, sözleşmenin sonraki aşamasının 2020 Nisan 'da başlayacağından emin veriyoruz.İş kesintilerini önlemeye yardımcı olmak için, uygulamanın sonraki aşamasını 2020 Nisan 'dan daha fazla genişletmeye karar verdik. Bulut çözümü sağlayıcısı Iş ortaklarından bazılarının MPA 'yı kabul etmeyle ilgili sorunlarla karşılaştıkları hakkında geri bildirim aldık. Bu koşullara bağlı olarak, sözleşmeyi kabul etmede sorun yaşayan iş ortaklarını desteklemek için Microsoft kaynaklarının yerinde olduğundan emin olmaya çalışıyoruz.
+**1 nisan 2020 güncelleştirmesi** 31 Ocak 2020 itibariyle, bulut çözümü sağlayıcısı (CSP) programındaki tüm iş ortakları, tüm deneyimidir CSP kiracılarının sözleşmesini kabul etmiş olmalıdır. Daha önce, sözleşmenin sonraki aşamasının 2020 Nisan 'da başlayacağından emin veriyoruz.İş kesintilerini önlemeye yardımcı olmak için, uygulamanın sonraki aşamasını 2020 Nisan 'dan daha fazla genişletmeye karar verdik. Bulut Çözümü Sağlayıcısı İş Ortaklarımızdan MPA'yı kabul etme sorunlarıyla ilgili geri bildirim aldık. Bu koşulları temel alarak, anlaşmayı kabul etme konusunda sorun yaşıyor olan iş ortaklarını desteklemek için Microsoft kaynaklarının yerinde olmasını sağlamaya çalışıyoruz.
 
 ### <a name="summary"></a>Özet
 31 Ocak 2020 itibarıyla Dolaylı Satıcılar dahil olmak üzere Bulut Çözümü Sağlayıcısı programına katılmış olan tüm iş ortaklarının, CSP programında yeni müşteri oluşturma veya var olan müşteriler için yeni sipariş ekleme konusunda sorun yaşamamaları adına Microsoft İş Ortağı Sözleşmesi'ni kabul etmiş olmaları gerekir. Microsoft İş Ortağı Sözleşmesi'nin CSP programındaki tüm iş ortakları tarafından kabul edilmesi zorunludur.
 
-Nisan 2020 ' den itibaren:
-- Microsoft Iş ortağı sözleşmesi 'Ni kabul edilmeyen doğrudan fatura ortakları ve dolaylı sağlayıcılar, yeni siparişler yerleştirmeyecektir ve yalnızca mevcut abonelikler yönetilüyle sınırlı olacaktır.
-- Microsoft Iş ortağı sözleşmesi 'Ni kabul edilmeyen dolaylı satıcılar artık yeni siparişlerdeki kayıt ortağı olarak hareket etmek için uygun olmayacaktır.
+Nisan 2020'den başlayarak:
+- Bu teklifi kabul etmeyen Doğrudan Fatura iş ortakları Microsoft İş Ortağı Sözleşmesi Dolaylı Sağlayıcılar yeni siparişler verilemeyecek ve yalnızca mevcut abonelikleri yönetmekle sınırlı olacaktır.
+- Bu teklifi kabul etmeyen dolaylı Microsoft İş Ortağı Sözleşmesi artık yeni siparişlerde kayıt ortağı olarak hareket etmeye uygun olmayacaktır.
 
-**Şimdiye kadar yapmadıysanız, lütfen aşağıdaki eylemleri hemen doldurun.**
+**Henüz tamamlamadıysanız aşağıdaki eylemleri hemen gerçekleştirin.**
 
-### <a name="actions-for-direct-bill-partners"></a>Doğrudan fatura ortakları için Eylemler:
-1. Microsoft Iş ortağı Sözleşmesi ' ni gözden geçirmek için kuruluşunuzdaki önemli hissedarları bilgilendirin.
+### <a name="actions-for-direct-bill-partners"></a>Doğrudan fatura iş ortakları için eylemler:
+1. Değerlendirmeyi gözden geçirmeleri için, kuruluşta önemli proje katılımcılarını Microsoft İş Ortağı Sözleşmesi.
 2. Genel Yönetici kimlik bilgilerini kullanarak [İş Ortağı Merkezi'ndeki CSP Genel Bakış sayfasında](https://partner.microsoft.com/pcv/dashboard/overview) Microsoft İş Ortağı Sözleşmesi'ni kabul edin.
 
-Daha fazla bilgi ve kaynak, CSP Galerisi sayfası aracılığıyla [burada](https://partner.microsoft.com/resources/collection/new-microsoft-cloud-agreement-csp#/)bulunabilir.
+Daha fazla bilgi ve kaynaklara buradan CSP Galerisi sayfasından [ulaşabilirsiniz.](https://partner.microsoft.com/resources/collection/new-microsoft-cloud-agreement-csp#/)
 
-### <a name="actions-for-indirect-providers"></a>Dolaylı sağlayıcılar için Eylemler
-1. Microsoft Iş ortağı Sözleşmesi ' ni gözden geçirmek için kuruluşunuzdaki önemli hissedarları bilgilendirin.
+### <a name="actions-for-indirect-providers"></a>Dolaylı sağlayıcılar için eylemler
+1. Değerlendirmeyi gözden geçirmeleri için, kuruluşta önemli proje katılımcılarını Microsoft İş Ortağı Sözleşmesi.
 2. Genel Yönetici kimlik bilgilerini kullanarak [İş Ortağı Merkezi'ndeki CSP Genel Bakış sayfasında](https://partner.microsoft.com/pcv/dashboard/overview) Microsoft İş Ortağı Sözleşmesi'ni kabul edin.
-3. [Dolaylı Bayi imza durumunuzu doğrulamak Için API 'yi](/partner-center/develop/verify-indirect-reseller-mpa-status)kullanın.
-4. Aşağıdaki eylemleri tamamlamada dolaylı satıcılarınıza yardımcı olun.
+3. Dolaylı kurumsal [bayinin imzalama durumunu doğrulamak için API'yi kullanın.](/partner-center/develop/verify-indirect-reseller-mpa-status)
+4. Dolaylı kurumsal bayilerinizi aşağıdaki eylemleri tamamlama konusunda yardımcı olur.
 
-Daha fazla bilgi ve kaynak, CSP Galerisi sayfası aracılığıyla [burada](https://partner.microsoft.com/resources/collection/new-microsoft-cloud-agreement-csp#/)bulunabilir.
+Daha fazla bilgi ve kaynaklara buradan CSP Galerisi sayfasından [ulaşabilirsiniz.](https://partner.microsoft.com/resources/collection/new-microsoft-cloud-agreement-csp#/)
 
-İşlem zorlama yeteneklerini test eden dolaylı sağlayıcılar tarafından karşılaşılan teknik sorunlardan haberdar veriyoruz. Bu sorunlar Nisan, 2020 ile çözümlenir.
+Dolaylı Sağlayıcıların işlem zorlama özelliklerini test etmesinde karşılaşılan teknik sorunların farkındayız. Bu sorunlar Nisan 2020'ye kadar çözülecek.
 
-### <a name="actions-for-indirect-resellers"></a>Dolaylı satıcıların eylemleri
-1. Dolaylı bir satıcı olarak [Iş Ortağı Merkezi 'ne](https://partner.microsoft.com/resources/collection/indirect-reseller-onboarding-for-mpa-in-csp#/) dahil edin ve ekleme sürecinin bir parçası olarak Microsoft Iş ortağı sözleşmesi 'ni kabul edin.
-2. Daha önce dolaylı bir satıcı olarak Iş Ortağı Merkezi eklendi, genel yönetici kimlik bilgilerini kullanarak [iş ortağı merkezi Pano](https://partner.microsoft.com/pcv/dashboard/overview) sayfasında Microsoft Iş ortağı sözleşmesi 'ni kabul edin.
-Dolaylı satıcıya özgü bilgilere ve kaynaklara [buradaki](https://partner.microsoft.com/resources/collection/indirect-reseller-onboarding-for-mpa-in-csp#/)satıcı CSP Galerisi sayfası üzerinden ulaşabilirsiniz.
+### <a name="actions-for-indirect-resellers"></a>Dolaylı kurumsal bayiler için eylemler
+1. [Dolaylı İş Ortağı Merkezi](https://partner.microsoft.com/resources/collection/indirect-reseller-onboarding-for-mpa-in-csp#/) kurumsal bayi olarak Microsoft İş Ortağı Sözleşmesi ekleme işleminin bir parçası olarak kabul edin.
+2. Daha önce İş Ortağı Merkezi kurumsal bayi olarak Microsoft İş Ortağı Sözleşmesi Genel Yönetici kimlik bilgilerini kullanarak [İş Ortağı Merkezi](https://partner.microsoft.com/pcv/dashboard/overview) panosu sayfasındaki bilgileri kabul edin.
+Dolaylı kurumsal bayiye özgü bilgiler ve kaynaklar, buradaki kurumsal bayi CSP Galerisi [sayfasından edinebilirsiniz.](https://partner.microsoft.com/resources/collection/indirect-reseller-onboarding-for-mpa-in-csp#/)
 
 ### <a name="change-log"></a>Değişiklik günlüğü
 
