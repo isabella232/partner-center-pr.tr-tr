@@ -3,15 +3,15 @@ title: Microsoft AppSource ve Azure Market için para iadesi ilkeleri
 description: Microsoft AppSource ve Azure Marketi 'nde satılan ürünlerin para iadesi ilkelerini öğrenin
 ms.service: marketplace-customer
 ms.topic: article
-author: anbene
+author: jeweber
 ms.author: jeweber
-ms.date: 11/20/2020
-ms.openlocfilehash: 10055b164610d5a9d0eb9da5e7240164581afbee
-ms.sourcegitcommit: 3a2415ab9833d5c574ad76d462f526a131c24f33
+ms.date: 06/02/2021
+ms.openlocfilehash: 37be38030ece0b78629fe1ebbb77c41f2cbcb8fb
+ms.sourcegitcommit: 771a7fca2125a9895226a06e9f1f3988dcc561ea
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "103412684"
+ms.lasthandoff: 06/04/2021
+ms.locfileid: "111446864"
 ---
 # <a name="refund-policies-for-microsoft-appsource-and-azure-marketplace"></a>Microsoft AppSource ve Azure Market için para iadesi ilkeleri
 
@@ -21,11 +21,11 @@ Microsoft AppSource veya Azure Marketi 'nde satın alma işlemleri bir para iade
 
 Aylık planlar için, aboneliğinizi satın alma işleminden bir gün içinde iptal ederseniz tam para iadesi için uygunsunuz demektir. Yıllık planlar için, aboneliğinizi satın alma işleminden 14 gün içinde iptal ederseniz tam para iadesi için uygun olursunuz. Yukarıdaki süre sonunda abonelikler iptal edildiğinde para iadesi kullanılamaz.
 
-Aboneliğinizi aboneliğinizden kaldırırsanız, abonelik döneminin kalan kısmına göre kısmi bir para iadesi için uygun olursunuz.
+Değişken ücretler için para iadesi verilmez. Örneğin, bir SaaS, bir e-posta platformundan gönderilen e-postaların sayısına göre faturalandırılır.
 
 ## <a name="office-add-ins"></a>Office eklentileri
 
-Bir Office eklentisi satın alırsanız, aboneliği satın alma veya yenileme işleminden bir gün içinde iptal ederseniz tam para iadesi için uygun olursunuz.  Satınalmayı bir günden sonra iptal ederseniz, teklifin kalan kısmına göre kısmi bir para iadesi için uygun olursunuz.  Aboneliğinizi değiştirirseniz, abonelik döneminin kalan kısmına göre kısmi bir para iadesi için uygun olabilirsiniz.
+Bir Office eklentisi satın alırsanız, aboneliği satın alma veya yenileme işleminden bir gün içinde iptal ederseniz tam para iadesi için uygun olursunuz. Satınalmayı bir günden sonra iptal ederseniz, teklifin kalan kısmına göre kısmi bir para iadesi için uygun olursunuz. Aboneliğinizi değiştirirseniz, abonelik döneminin kalan kısmına göre kısmi bir para iadesi için uygun olabilirsiniz.
 
 ## <a name="azure-developer-services"></a>Azure Geliştirici Hizmetleri
 
