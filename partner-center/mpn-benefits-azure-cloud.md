@@ -1,45 +1,45 @@
 ---
-title: Azure ve bulut avantajları-MPN
+title: Azure ve Bulut avantajları - MPN
 ms.topic: article
 ms.date: 01/28/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Abonelikleri etkinleştirme dahil olmak üzere Azure ve bulut ürünlerine yönelik Microsoft İş Ortağı Ağı (MPN) avantajları hakkında bilgi edinin.
+description: Abonelikleri Microsoft İş Ortağı Ağı dahil olmak üzere Azure ve Bulut ürünlerine Microsoft İş Ortağı Ağı (MPN) avantajları hakkında bilgi edinin.
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1f575a79039ae78e64e28c680a8b533d575200bc
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: a873e6dcac03ae781b776204fb8801581fefdec5
+ms.sourcegitcommit: e90293bc643963fe9ce3f838bc8861fbd304b16d
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110146366"
+ms.lasthandoff: 06/14/2021
+ms.locfileid: "112066497"
 ---
-# <a name="explore-the-azure-and-cloud-products-benefits-area-in-partner-center"></a>Iş Ortağı Merkezi 'nde Azure ve bulut ürünleri avantajları alanını keşfet
+# <a name="explore-the-azure-and-cloud-products-benefits-area-in-partner-center"></a>İş Ortağı Merkezi'daki Azure ve bulut ürünleri avantajları İş Ortağı Merkezi
 
-**Uygun roller**: genel yönetici | MPN iş ortağı Yöneticisi
+**Uygun roller:** Genel yönetici | MPN iş ortağı yöneticisi
 
-Bu makalede, iş ortağı Merkezi içinden iş ortakları için sunulan belirli Azure ve bulut avantajları açıklanmaktadır. Ayrıca, belirli Azure ve bulut abonelikleri türlerini nasıl etkinleştireceğinizi öğreneceksiniz.
+Bu makalede iş ortaklarının iş ortaklarının belirli Azure ve bulut avantajları İş Ortağı Merkezi. Ayrıca belirli türlerde Azure ve bulut aboneliklerini etkinleştirmeyi de öğrenirsiniz.
  
 ## <a name="overview"></a>Genel Bakış
 
-Microsoft İş Ortağı Ağı bir iş ortağı olarak, farklı alanlarda birçok teknik ve pazara ulaşma avantajlarına erişebilirsiniz. Iş Ortağı Merkezi 'nde yukarıdaki rollerden birini atadıysanız, bu avantajlardan birçoğunu doğrudan Iş Ortağı Merkezi panosundan inceleyebilirsiniz.
+İş ortağı olarak Microsoft İş Ortağı Ağı, farklı alanlar için birçok teknik ve pazara açık [avantaja](https://assetsprod.microsoft.com/mpn-maps-software-iur-competency-license-table.docx) erişiminiz olabilir. İş Ortağı Merkezi'de yukarıdaki rollerden biri size atanmışsa, bu avantajların birçoğunun doğrudan İş Ortağı Merkezi keşfedebilirsiniz. 
 
 > [!NOTE]
-> Iş Ortağı Merkezi avantajları alanına erişmek için yalnızca Iş Ortağı Merkezi [panosunda](https://partner.microsoft.com/dashboard) oturum açmanız ve sol gezinti menüsünden **MPN** ' yi seçmeniz gerekir. Ardından, menüden **avantajlar** ' ı seçin ve ardından incelemek istediğiniz belirli avantajlar seçeneğini veya alanı bulun.
+> İş Ortağı Merkezi Avantajlar alanına erişmek için İş Ortağı Merkezi panosunda oturum açmanız ve [](https://partner.microsoft.com/dashboard) sol gezinti **menüsünden MPN'yi** seçmeniz gerekir. Ardından **menüden Avantajlar'ı** ve ardından keşfetmek istediğiniz belirli avantajlar seçeneğini veya alanı seçin.
 
-**Azure & bulut ürünlerinde** kullanabileceğiniz avantajlardan biridir. Iş Ortağı Merkezi 'nin **avantajları** menüsünden **Azure & bulutu** ' nı seçtiğinizde, **Azure & Bulut ürünleri** sayfası görüntülenir.
+Size uygun olan avantajlardan biri, Azure bulut & **seçenekleridir.** İş Ortağı Merkezi Avantajları **menüsünden Azure** & **bulut** seçeneğini & Azure **bulut ürünleri** sayfası görüntülenir.
 
-Bu sayfa aşağıdaki ayrıntıları gösterir:
+Bu sayfada aşağıdaki ayrıntılar görüntülenir:
 
-- Lisans tabanlı abonelikler veya kullanım tabanlı abonelikler için kullanabileceğiniz çeşitli Azure & bulut ürün aboneliği avantajları
+- Lisans & abonelikler veya kullanım tabanlı abonelikler gibi çeşitli Azure bulut ürünü aboneliği avantajlarınız vardır
 - Her ürün için atanan lisans miktarı
-- Size belirli bir avantaj ürünü sağlayan teklif türü
-- Avantaj türü (çekirdek veya artımlı 'den geliyor olsun)
-- Belirli bir avantajın bitiş tarihi
+- Size belirli bir avantaj ürünü sağlanan teklif türü
+- Avantaj türü (çekirdekten mi yoksa artımlıdan mı geliyor)
+- Belirli bir avantajın süresinin dolma tarihi
 
-:::image type="content" source="images/benefits/mpn-benefits-azure-cloud-1.png" alt-text="Azure ve bulut ürünleri sayfası abonelik avantajlarının listesi size sunulmuştur." border="false":::
+:::image type="content" source="images/benefits/mpn-benefits-azure-cloud-1.png" alt-text="Size uygun abonelik avantajlarını listeleen Azure ve bulut ürünleri sayfası." border="false":::
 
 ## <a name="usage-based-vs-license-based-subscriptions"></a>Kullanım tabanlı ve lisans tabanlı abonelikler
 
@@ -57,11 +57,11 @@ Bu teklifler için sağ yalnızca Azure aylık kredisi ve/veya *Azure* toplu *(y
 *Veya*
 - **Azure toplu (yıllık) kredisi için sağlama:** Bu değer 6000 ABD doları/yıl, 12000 ABD doları/yıl ve/veya yıllık 13000 ABD doları (veya her biri yerel para birimiyle eşdeğer) gibi görünebilir
 
-Bir Microsoft Azure aboneliğini İş Ortağı Merkezi için şirket içindeki bir kullanıcıya (veya konuk kullanıcıya) erişim atamanız gerekir. Kullanıcının kiracınız içinde oluşturulmuş bir kullanıcı girdisi Azure Active Directory gerekir. Ardından şu adımları izleyin:
+Bir Microsoft Azure aboneliğini İş Ortağı Merkezi için şirket içindeki bir kullanıcıya (veya konuk kullanıcıya) erişim atamanız gerekir. Kullanıcının kiracınız içinde oluşturulmuş bir kullanıcı girişi Azure Active Directory gerekir. Ardından şu adımları izleyin:
 
 1. Kullanıcının Azure AD kiracınıza bir kullanıcı girişi giriş yaptığına emin olduktan sonra, azure ad İş Ortağı Merkezi [oturum açın.](https://partner.microsoft.com/dashboard)
 
-1. Sol **gezinti menüsünden MPN'yi** ve ardından Avantajlar'ı **ve** ardından Azure ve **bulut'u seçin.**
+1. Sol **gezinti menüsünden MPN'yi,** ardından Avantajlar'ı **ve ardından** Azure ve **bulut'u seçin.**
 
 1. Etkinleştirmek istediğiniz kullanım tabanlı abonelik **için** sağdaki Ayrıntıları görüntüle sütununu aşağı oku seçin. 
 
@@ -69,36 +69,40 @@ Bir Microsoft Azure aboneliğini İş Ortağı Merkezi için şirket içindeki b
 
    :::image type="content" source="images/benefits/mpn-benefits-azure-cloud-2.png" alt-text="Kullanıcı atama alanı gösteren Azure ve bulut ürünleri sayfası." border="false":::
 
-- Ayda $100 (veya yerel para biriminde eşdeğer) gibi bir Azure aylık kredisi atadığınızda, bu aboneliğe istediğiniz zaman kullanıcı ekleyip kaldırabileceğinizi unutmayın.
+- Aylık 100 ABD doları (veya yerel para birimiyle eşdeğeri) gibi bir Azure aylık kredisi atadığınız zaman, kullanıcıları istediğiniz zaman bu abonelikten ekli veya kaldırabilirsiniz.
 
-- Azure toplu (yıllık) kredisi atadığınızda, Iş Ortağı Merkezi 'nde **kaldırma** seçeneğinin sunulmadığını unutmayın. Bunun yerine, kayıt yılınızda toplu krediyi başka birine aktarmanız gerekir. Azure toplu (yıllık) kredi aboneliği Ayrıca diğer lisanslama, ön ödemeli veya kredi tekliflerle birleştirilemez (örneğin, Microsoft Kurumsal Anlaşma, bulut çözümü sağlayıcısı, Open ile Azure, Azure Pass, Microsoft Eylem Paketi vb.).
+- Azure toplu (yıllık) krediyi atadığınız zaman  Kaldır seçeneğinin azure aboneliğinde İş Ortağı Merkezi. Bunun yerine, toplu krediyi kayıt yılınız boyunca başka birine aktarmanız gerekir. Azure toplu (yıllık) kredi aboneliği diğer lisanslama, ön ödemeli veya kredi teklifleri (örneğin Microsoft Kurumsal Anlaşma, Bulut Çözümü Sağlayıcısı, Open ile Azure, Azure Pass, Microsoft Eylem Paketi vb.) ile birleştirilamaz.
 
 ### <a name="license-based-subscriptions"></a>Lisans tabanlı abonelikler
 
-Azure ve bulut ürünleri sayfasının lisans tabanlı abonelikler bölümünde, etkinleştirme için Microsoft O365, Microsoft Dynamics, Microsoft Intune, Azure AD temel, Power BI vb. gibi bir ürün anahtarı gerektiren tüm bulut ürünlerini bulabilirsiniz. Bu ürünler, Microsoft İş Ortağı Ağı bir iş ortağı olarak kullanabileceğiniz etkin teklifin türüne göre sunulmaktadır. Bu tür teklifler Microsoft Eylem Paketi, Gümüş uzmanlık üyeliği veya altın uzmanlık üyeliği içerebilir.
+Azure ve Bulut ürünleri sayfasının lisans tabanlı abonelikler bölümünde etkinleştirme için ürün anahtarı gerektiren tüm bulut ürünlerini (Microsoft O365, Microsoft Dynamics, Microsoft Intune, Azure AD temel, Power BI vb.) bulabilirsiniz. Bu ürünler, iş ortağı olarak size sunulan etkin teklifin türüne göre Microsoft İş Ortağı Ağı. Bu tür teklifler Microsoft Eylem Paketi, silver uzmanlık üyeliği veya altın uzmanlık üyeliği olabilir.
 
-Lisans tabanlı bir aboneliği etkinleştirmek için: 
+Lisans tabanlı aboneliği etkinleştirmek için: 
 
 1. Azure ve bulut ürünleri sayfasında belirli bir aboneliği bulun. 
 
-1. Sağ taraftaki aşağı açılan oku seçin ve bu aboneliğin **Ayrıntılar sütununu görüntüleyin** . 
+1. Bu aboneliğin Ayrıntıları görüntüle sütunundaki **açılan** oku seçin. 
 
-1. Sonraki sayfada yer alan yönergeleri okuyun. Bunun yapılması, anahtarların nasıl kullanılacağına ilişkin daha fazla bilgi sağlar. 
+1. Sonraki sayfada yer alan yönergeleri okuyun. Bunu yapmak, anahtarların nasıl kullanılası hakkında daha fazla bilgi sağlar. 
 
-   :::image type="content" source="images/benefits/mpn-benefits-azure-cloud-3.png" alt-text="Ayrıntıları görüntüle ile Azure ve bulut ürünleri sayfası." border="false":::
+   :::image type="content" source="images/benefits/mpn-benefits-azure-cloud-3.png" alt-text="Görünüm ayrıntılarının yer alan Azure ve bulut ürünleri sayfası." border="false":::
 
 
-1. Anahtarı kullanmaya hazır olduğunuzda, bu sayfanın en altında bulunan **etkinleştirme** Kılavuzu seçeneğini belirleyin.
-   - Yeni bir aboneliği etkinleştirmek istiyorsanız veya var olan aboneliğiniz devre dışı/zaman aşımına uğradı, **özel veya geçersiz bir tarayıcı** açın, ardından aşağıdaki bağlantıyı kopyalayıp yapıştırın ve yönergeleri izleyin:
+1. Anahtarı kullanmaya hazırsanız, bu sayfanın **alt kısmında** bulunan Etkinleştirme Gözden Geçirmesi seçeneğini belirleyin.
+   - Yeni bir aboneliği etkinleştirmek istiyorsanız veya mevcut aboneliğiniz devre dışı bırakıldı/süresi doldu, özel veya gizli bir tarayıcı **açın,** ardından aşağıdaki bağlantıyı kopyalayıp yapıştırın ve yönergeleri izleyin:
 
       [https://signup.microsoft.com/productkeystart](https://signup.microsoft.com/productkeystart)
+
+> [!Note]
+> Office 365 E3, Office 365 E5, Enterprise Mobility + Security, Microsoft Intune ve Windows 10 Enterprise avantajları artık uzmanlık avantajı paketlerinin bir parçası değildir. E3'Microsoft 365 etkinleştirebilirsiniz veya Microsoft 365 kaldıran tek başına avantaj paketlerinin yerini alan E5 avantajlarını etkinleştirebilirsiniz.
+M365 avantajlarının yüklenmesi veya dağıtımıyla ilgili yardıma ihtiyacınız varsa lütfen teknik avantajlarınızı kullanarak teknik [destek biletini yükseltin](mpn-benefits-technical-support.md)
       
    - Bitiş tarihini uzatmak veya mevcut abonelik kopyasına daha fazla lisans/lisans eklemek isterseniz aşağıdaki bağlantıyı özel veya gizli bir tarayıcı **penceresine** yapıştırın ve yönergeleri izleyin:
  
       [https://admin.microsoft.com/AdminPortal/Home#/subscriptions](https://admin.microsoft.com/AdminPortal/Home#/subscriptions)
 
 > [!Note]
-> Bir anahtardan sonra aynı anahtar ikinci kez kullanılamaz. Ayrıca aşağıdaki önemli noktalara dikkat etme:
+> Bir anahtar kullandırıldıktan sonra aynı anahtar ikinci kez kullanılamaz. Ayrıca aşağıdaki önemli noktalara dikkat etme:
 >
 > - Daha fazla lisans (lisans), kaç lisans eklemeniz gerekip gerekip gerek olmadığını ve bitiş tarihini uzatıp uzatmamanızı onaylayın. Daha fazla lisans (lisans) eklemeyi seçerseniz  ve bitiş tarihini uzatmayacaksanız, sistem size 12 aydan az etkin abonelik sağlar. 
 >
@@ -118,7 +122,7 @@ Daha fazla lisans eklemek veya mevcut aboneliğin bitiş tarihini uzatmak için 
 
    - Mevcut aboneliği yenilemek için Lisans **alanında Bitiş tarihini** uzat seçeneğini belirleyin. Bitiş tarihini uzatmak aboneliğin süresini uzatırken lisans/lisans sayısını da aynı tutacaktır. 
 
-   - Mevcut bir aboneliğe daha fazla lisans (lisans) eklemek için Lisans **alanında** Lisans Ekle seçeneğini belirleyin. Mevcut aboneliği de **yenilemek için Lisans** Ekle'yi seçmeyebilirsiniz. Lisans **ekle'yi** seçmek abonelik süresini azaltır ve abonelikte lisans sayısını artıracaktır.
+   - Mevcut bir aboneliğe daha fazla lisans (lisans) eklemek için Lisans **alanında** Lisans Ekle seçeneğini belirleyin. Mevcut aboneliği de yenilemek **için Lisans** Ekle'yi seçmeyebilirsiniz. Lisans **ekle'yi** seçmek abonelik süresini azaltır ve abonelikte lisans sayısını artıracaktır.
 
    :::image type="content" source="images/benefits/mpn-benefits-azure-cloud-4.png" alt-text="Lisans eklemeyi gösteren Azure ve bulut ürünleri sayfası." border="false":::
 
@@ -126,10 +130,10 @@ Daha fazla lisans eklemek veya mevcut aboneliğin bitiş tarihini uzatmak için 
 
 1. Ürün anahtarını girin ve ardından **doğrula'ya** seçerek anahtar ayrıntılarını doğrulayın. 
 
-1. işlemi **tamamlamak** için Kullan'ı seçin.
+1. İşlem **tamamlamak için** Kullan'ı seçin.
 
    > [!NOTE]
-   > Her ürün anahtarı, kullanıcılara ürün anahtarını kullanmakta olduğunuz tarihten itibaren 12 ay boyunca hizmet sağlar. Ancak mevcut kullanıcılarınızı erken yenileme tarihine sahipse, tüm kullanıcılarınız için tek bir bitiş tarihine göre aboneliklerinizi yönetmeyi kolaylaştırmak için iki tarihin ortalaması alınacaktır. Hesaplama sırasında zaman eklenmez veya kaybedilir. İki tarihi ortalamak için kullanılan hesaplama şu şekildedir:
+   > Her ürün anahtarı, kullanıcılara ürün anahtarını kullanmakta olduğunuz tarihten itibaren 12 ay boyunca hizmet sağlar. Ancak mevcut kullanıcılarınız erken yenileme tarihine sahipse, tüm kullanıcılarınız için tek bir bitiş tarihine göre aboneliklerinizi yönetmeyi kolaylaştırmak için iki tarihin ortalaması alınacaktır. Hesaplama sırasında zaman eklenmez veya kaybedilir. İki tarihi ortalamak için kullanılan hesaplama şu şekildedir:
    >
    > **Hesaplama:** \[ A (ilk kullanıcılar) x B (abonelikte kalan süre) \+ C (yeni kullanıcılar) x (12 \] ay) ÷ kullanıcı sayısı = kalan yeni süre.
 
@@ -146,36 +150,38 @@ Bir aboneliği ilk kez etkinleştirıyorsanız bu adımları izleyin. Aboneliği
 
 1. Dosyadan alınan 25 basamaklı anahtarı girin İş Ortağı Merkezi'yi **seçin.**
 
-2. Görüntülenmiş ürün ayrıntılarını, lisans sayısını ve abonelik süresini doğrulayın. Hazırsanız, aboneliği **etkinleştirmek için kullan** ' ı seçin.
+2. Görüntülenen ürün ayrıntılarını, lisans sayısını ve abonelik süresini doğrulayın. Hazır olduğunda, aboneliği etkinleştirmek **için Kullan'ı** seçin.
 
-   Yeni etkinleştirilen abonelik, M365 yönetim merkezinin **Ürünler Sekmesinizde** kullanıma sunulacaktır.
+   Yeni etkinleştirilen abonelik, M365 **Yönetim** Merkezi'nin Ürünleriniz sekmesinde kullanılabilir.
 
-## <a name="licensing-scenarios"></a>Lisans senaryoları
+## <a name="licensing-scenarios"></a>Lisanslama senaryoları
 
-Bu bölümde, Azure ve bulut ürünleriyle ilişkili abonelikler için birkaç örnek lisans senaryosu açıklanmaktadır. Bu senaryolarda, abonelik bitiş tarihlerinin nasıl hesaplanacağını öğreneceksiniz.
+Bu bölümde, Azure ve bulut ürünleriyle ilişkili aboneliklere yönelik birkaç örnek lisanslama senaryosu açık bulunmaktadır. Bu senaryolarda abonelik bitiş tarihlerinin nasıl hesaplanmış olduğunu öğrenirsiniz.
 
 ### <a name="scenario-1"></a>1\. Senaryo
 
-Abonelik üzerinde etkin 100 lisans varsa ve 25 lisans içeren bir anahtar kullanarak bitiş tarihini genişletmeye çalışıyorsanız, son tarih 100 lisanslanmış abonelik için üç (3) aya göre genişletilir.
+Bir abonelikte etkin 100 lisansınız varsa ve 25 lisansa sahip bir anahtar kullanarak bitiş tarihini uzatmaya çalışıyorsanız, bitiş tarihi 100 lisansa sahip abonelik için üç (3) ay uzatılır.
 
 ### <a name="scenario-2"></a>2\. Senaryo
 
-Bir abonelikte 100 lisans etkinse ve 100 lisanslarına sahip bir anahtar kullanarak bitiş tarihini genişletmeye çalışıyorsanız, bitiş tarihi 12 aya göre genişletilir.
+Bir abonelikte etkin 100 lisansınız varsa ve 100 lisansa sahip bir anahtar kullanarak bitiş tarihini uzatmaya çalışıyorsanız, bitiş tarihi 12 ay uzatılır.
 
 ### <a name="scenario-3"></a>3\. Senaryo
 
-Bir abonelikte beş (5) lisansınız etkin olduğunda ve 10 lisanslanmış bir anahtar kullanarak bitiş tarihini genişletmeye çalışıyorsanız, son tarih beş (5) lisansa (veya lisans) sahip abonelik için 24 ay uzatılır.
+Bir abonelikte etkin beş (5) lisansınız varsa ve 10 lisansa sahip bir anahtar kullanarak bitiş tarihini uzatmaya çalışıyorsanız, beş (5) lisansa (veya lisansa) sahip abonelik için bitiş tarihi 24 ay uzatılır.
 
 ### <a name="scenario-4"></a>4\. Senaryo
 
-En fazla 3x etkin lisans/lisans sahibi olan bir anahtar kullanarak bitiş tarihini genişletmeye çalışıyorsanız, aşağıdaki hata iletisi görüntülenir. Abonelik bitiş tarihi en fazla 3 yıl uzatılayabileceğinizden bu ileti tasarıma göre yapılır.
+3 kat etkin lisansa/lisansa sahip bir anahtar kullanarak bitiş tarihini uzatmaya çalışıyorsanız aşağıdaki hata iletisi görüntülenir. Abonelik bitiş tarihi en fazla 3 yıl uzatılana kadar uzatılalaa iletiyi tasarlar.
 
 :::image type="content" source="images/benefits/mpn-benefits-azure-cloud-6.png" alt-text="Azure ve bulut ürünleri hata iletisi." border="false":::
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-- [Office 365 E3 ' den Microsoft 365 iş Premium 'a geçme](/microsoft-365/business/migrate-from-e3) hakkında bilgi edinin
+- Office [365 E3'den İş Ekstra'ya Microsoft 365 hakkında bilgi](/microsoft-365/business/migrate-from-e3)
    
-- [Microsoft 365 iş ses](/microsoftteams/business-voice/whats-business-voice) hakkında daha fazla bilgi edinin
+- [Microsoft 365 Business Voice hakkında daha fazla bilgi](/microsoftteams/business-voice/whats-business-voice)
   
-- [Iş sesinin ülke ve bölge kullanılabilirliği](/microsoftteams/business-voice/country-region-availability) hakkında bilgi edinin
+- Business [Voice için ülke ve bölge kullanılabilirliği hakkında bilgi edinin](/microsoftteams/business-voice/country-region-availability)
+
+- Windows 10 [ile Microsoft 365](/windows/deployment/deploy-m365)
