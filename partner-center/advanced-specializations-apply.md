@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 44574f49d49a8300c65432463de16841af483ca4
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 6c617d3bde3bbfe17896631b3c761c01fe2f299a
+ms.sourcegitcommit: cc9e47219f6e2cdf77118b5c8986e86ebecfe260
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110150514"
+ms.lasthandoff: 06/16/2021
+ms.locfileid: "112125982"
 ---
 # <a name="use-partner-center-to-apply-for-advanced-specializations-and-check-their-status"></a>Ortak Uzmanlıkları uygulamak ve durumlarını denetlemek için Iş Ortağı Merkezi 'ni kullanın
 
@@ -64,6 +64,10 @@ Her iki görev da Iş Ortağı Merkezi 'nde gerçekleştirilebilir.
 - Microsoft Windows Sanal Masaüstü
 - Microsoft Azure'a Web Uygulamaları Modernleştirmesi
 - Microsoft Azure'a Windows Server ve SQL Server Geçişi
+- Microsoft Azure içindeki AI ve Machine Learning
+- Microsoft Azure Stack HCı ile karma bulut altyapısı
+- Microsoft Azure Arc ile karma Işlemler ve yönetim
+- Microsoft Azure VMware çözümü
 
 Müşteri başvuruları gerektiren gelişmiş uzmanlık şunları içerir:
 
@@ -74,6 +78,13 @@ Müşteri başvuruları gerektiren gelişmiş uzmanlık şunları içerir:
 - Ekip Çalışması Dağıtımı
 - Kimlik ve Erişim Yönetimi
 - Tehdit Koruması
+- Information Protection ve Idare
+- Bulut Güvenliği
+
+Denetim veya müşteri başvurusu gerektirmeyen gelişmiş specialmeler şunlardır:
+
+- Düşük kod uygulama geliştirme
+- Küçük ve orta ölçekli Işletme Yönetimi
 
 Aşağıdaki bölümlerde, bir denetimin nasıl planlandığı veya Iş Ortağı Merkezi 'nde müşteri başvurularının sağlanması açıklanır.
 
@@ -112,12 +123,81 @@ Ardından, Iş Ortağı Merkezi 'nde müşteri başvuruları sağlamak için şu
 
    :::image type="content" source="images/advancedspecializations/as-2.png" alt-text="Müşteri başvuruları gerektiren örnek gelişmiş specialmeler önkoşulları sayfası.":::
 
-4. Bu sayfada gösterilen tüm önkoşulları karşılayana ve müşteri başvuruları sağlayacağından, durumunuz **başlatılmayacak**. Tüm önkoşullar karşı ardından durumunuz Etkin olarak **değişir.**
+4. Bu sayfada gösterilen tüm önkoşulları karşılayana ve müşteri başvuruları sağlayacağından, durumunuz **başlatılmayacak**. Tüm önkoşullar karşılandıktan sonra durumunuz **etkin** olarak değişir.
+
+## <a name="how-azure-consumption-revenue-acr-is-calculated-for-each-advanced-specialization"></a>Azure tüketim gelirinin (ACR) her Gelişmiş özelleştirme için nasıl hesaplandığı:
+
+- İş ortaklarının müşteri ilişkilendirmeleri: bir müşteriyle [kayıt Ilişkisinin dijital Iş ortağı](https://support.microsoft.com/topic/link-a-partner-id-for-azure-performance-pal-or-dpor-a8eed43b-82a8-f017-3b1a-f9c8aa385d32) veya bir müşteri veya [Iş ortağı yönetıcı bağlantısı (PAL)](/azure/cost-management-billing/manage/link-partner-id) için CSP dolaylı satıcısı veya bir müşteriyle ilgili CSP dolaylı satıcısı.
+- Teklif türlerine sahip aboneliklerden ACR deneme sürümü, avantajlar programları, destek ve dahili, gelişmiş özelleşme doğru sayılmaz.
+
+**Azure tüketim gelir alanları**
+
+| Alan Adı | Alan açıklaması |
+|-------------|----------------------|
+| Hizmet düzeyi 1 | Azure hizmetlerinin paketlenmiş en yüksek düzey (bkz https://azure.microsoft.com/services/) .:. |
+| Hizmet düzeyi 2 | İkinci en yüksek düzey Azure Hizmetleri tabanlı (örn.: https://azure.microsoft.com/pricing/) |
+| Hizmet düzeyi 3 | Üçüncü en yüksek düzey Azure Hizmetleri tabanlı (örn.: https://azure.microsoft.com/pricing/details/virtual-machines/linux/) |
+| Hizmet düzeyi 4 | Dördüncü en yüksek düzey Azure Hizmetleri tabanlı (örn.: https://azure.microsoft.com/pricing/details/virtual-machines/linux/) |
+| Hizmet grubu 2 | Azure hizmetlerini bir hizmet kategorisine göre gruplandırma |
+| Hizmet grubu 3 | Azure hizmetlerini bir hizmet alt kategorisine göre gruplandırma |
+| Hizmet etkileyen | Belirli bir tüketim etkinliğiyle eşlenen Azure hizmetlerinin gruplandırılması |
+| İşlem işletim sistemi | İşlem Işletim sistemi |
+| İşlem çekirdek yazılımı | İşlem çekirdek yazılımı |
+
+**Gelişmiş özelleşmeye yönelik Azure tüketim geliri filtreleri**
+
+- Microsoft Azure'a Veri Ambarı Geçişi
+    - SQL DW ACR: hizmet düzeyi 1 = veritabanları ve hizmet düzeyi 2 = SQL veri ambarı
+- Microsoft Azure'da Kubernetes
+    - Azure Kubernetes hizmeti (AKS) ACR: Service RG encer = AKS, AKS-Engine
+- Microsoft Windows sanal masaüstü
+    - Windows sanal masaüstü ACR: Service RG encer = NATIVE WVD
+- Microsoft Azure'a Web Uygulamaları Modernleştirmesi
+    - Azure App Service ACR: hizmet düzeyi 1 = Işlem ve hizmet düzeyi 2 = Azure App Service
+- Microsoft Azure Analytics
+    - Azure SYNAPSE Analytics ACR: hizmet grubu 3 = SQL DW
+    - Data Lake ACR: hizmet grubu 3 = Azure Data Lake
+    - Databricks ACR: Service Grup3 = Databricks, Databricks VM
+    - Azure Data Factory ACR: Service Grup3 = Data Factory  
+- Microsoft Azure Stack HCı ile karma bulut altyapısı
+    - Azure Stack CI ACR: hizmet düzeyi 2 = Azure Stack HCı
+- Microsoft Azure VMware çözümü
+    - Azure VMware çözümleri (AVS) ACR: hizmet düzeyi 4 = Azure VMware çözümü, CloudSimple 'a göre Azure VMware çözümü, Virtustream, özel Işlem Azure VMware çözümü
+- Microsoft Azure Arc ile karma Işlemler ve yönetim 
+    - Arc etkin sunucu ACR: hizmet düzeyi 4 = Azure Ilkesi
+    - Arc etkin Kubernetes ACR: hizmet düzeyi 4 = Azure Arc
+- Microsoft Azure içindeki AI ve Machine Learning
+    - AI ACR: hizmet grubu 2 = AI
+
+
+- Microsoft Azure'a Windows Server ve SQL Server Geçişi
+    - Windows ACR: 
+        - ACR ayarlama türü = N/A, Işlem çekirdeği SW = çekirdek,
+        - İşlem OS = WINDOWS daha sonra Işlem IŞLETIM sistemi özniteliği = WINDOWS, BILINMEYEN veya Işlem OS = LINUX Işlem işletim sistemi özniteliği = WINDOWS-AHUB
+        - Hizmet düzeyi 2 = Cloud Services, Container Instances, Container Registry, özel Işlem, sanal makineler, sanal makine lisansları
+    - SQL veritabanı (DB) ACR: hizmet grubu 3 = SQLDB
+    - SQL yönetilen örneği (mı) ACR: hizmet grubu 3 = SQL DB MI
+    - SQL VM ACR: hizmet grubu 3 = IaaS üzerinde SQL, IaaS VM üzerinde SQL
+- Linux ve Open-Source veritabanı geçişi Microsoft Azure
+    - Linux Sanal Makineleri (VM) ACR:
+        - 1. Seçenek:
+            - ACR ayarlama türü = N/A, hizmet düzeyi 2 = sanal makineler, Işlem OS = Linux, Işlem OS özniteliği = Windows dışı, BILINMEYEN, Windows
+            - Hizmet düzeyi 4 = tümü Cloud Services MS serisi, sanal makineler MS serisi, sanal makineler MS Series Windows, sanal makineler MSv2 serisi, sanal makineler MSv2 Series Windows, MS serisi adanmış ana bilgisayar, MSv2 serisi adanmış ana bilgisayar
+        - Seçenek 2: yalnızca hizmet düzeyi 4 ' te filtre gerektir, Işlem OS/Işlem işletim sistemi öznitelikleri gibi diğer alanlar gerekli değildir
+            - Hizmet düzeyi 4 = Red Hat Enterprise Linux, Red Hat Enterprise Linux HA, SUSE Linux Enterprise Server Basic, SUSE Linux Enterprise Server for HPC Priority, SUSE Linux Enterprise Server for HPC Standard, SUSE Linux Enterprise Server Priority, SUSE Linux Enterprise Server Standard
+    - MariaDB ACR için Azure veritabanı (DB): hizmet düzeyi 1 = veritabanları ve hizmet düzeyi 2 = MariaDB için Azure veritabanı
+    - MySql için Azure DB ACR: hizmet düzeyi 1 = veritabanları ve hizmet düzeyi 2 = Azure 'da MySQL için Azure veritabanı ve MySQL veritabanı
+    - Postgre için Azure DB SQL ACR: hizmet düzeyi 1 = veritabanları ve hizmet düzeyi 2 = PostgreSQL
+    - Azure COSMOS DB ACR: hizmet düzeyi 1 = veritabanları ve hizmet düzeyi 2 = CosmosDB
+- Tehdit Koruması
+    - Azure Sentinel ACR: hizmet düzeyi 4 = Sentinel
+- Bulut Güvenliği
+    - Karma ortam XDR ve ağ güvenliği ACR: hizmet düzeyi 4 = SQL için Azure Defender, kapsayıcı için Azure Defender kayıt defterleri, Kubernetes için Azure Defender, Application Gateway WAF v2, WAF Application Gateway, Azure Active Directory B2C, Azure Active Directory Domain Services Azure Active Directory, dış kimlikler, Azure savunma, Azure DDOS koruması, Azure Güvenlik Duvarı , Azure Güvenlik Duvarı Yöneticisi, Azure ön kapı hizmeti, IoT için Azure Defender, Azure adanmış HSM, Key Vault, ağ Izleyicisi, App Service için Azure Defender, sunucular için Azure Defender, Sentinel
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-- Gelişmiş [uzmanlıklar, avantajları ve benzersiz gereksinimleri hakkında daha fazla bilgi edinebilirsiniz.](https://partner.microsoft.com/membership/advanced-specialization)
+- [Gelişmiş Uzmanlıklar, avantajları ve benzersiz gereksinimler](https://partner.microsoft.com/membership/advanced-specialization)hakkında daha fazla bilgi edinin.
 
-- Microsoft Silver [veya Gold üyelik yetkinliklerini elde etme hakkında bilgi.](learn-about-competencies.md)
+- [Microsoft gümüş veya altın üyelik Uzmanlıklar](learn-about-competencies.md)hakkında bilgi edinin.
 
-- Microsoft İş Ortağı Ağı [hakkında daha fazla bilgi.](https://partner.microsoft.com/membership/competencies)
+- [Microsoft iş ortağı ağı yetkinlikleri](https://partner.microsoft.com/membership/competencies)hakkında daha fazla bilgi edinin.

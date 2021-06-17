@@ -1,45 +1,45 @@
 ---
-title: Öngörüler Eğitim panosu
+title: Insights Eğitim Panosu
 ms.topic: article
 ms.date: 06/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Iş ortağı merkezi eğitim panosunu gezin. Eğitim, Partner Center Insights (PCI) alanında bulunan raporlardan biridir.
+description: Eğitim İş Ortağı Merkezi'i keşfedin. Eğitim, İş Ortağı Merkezi Insights (PCI) alanında bulunan raporlardan biri.
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e3beb1d051d2407229deebbb94b938a8f8b7218e
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 6af4f5f82c145aa932c03a176dbf8592d095a930
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109854562"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276289"
 ---
-# <a name="trainings-dashboard"></a>Çekim panosu
+# <a name="trainings-dashboard"></a>Eğitimler panosu
 
-**Uygun roller**: Executive rapor Görüntüleyici | Rapor Görüntüleyicisi
+**Uygun roller:** Yönetici rapor görüntüleyicisi | Rapor görüntüleyicisi
 
-Seyahat panosu, şirket çalışanları şirketiniz tarafından gerçekleştirilen sertifikalar, değerlendirmeler ve Examinations hakkında öngörüler sağlar. Seyahat Panosu aşağıdaki bölümleri içerir:
+Eğitimler panosu, şirket çalışanları şirketi tarafından alınan sertifikalar, değerlendirmeler ve incelemeler hakkında içgörüler sağlar. Eğitimler panosu aşağıdaki bölümleri içerir:
 
 - Özet
-- Sertifikalarına, değerlendirmelere ve sınavlarına göre eğitim performansı
-- Sertifikalar, değerlendirmeler, sınavlar gibi kimlik bilgilerine göre bireyler
+- Eğitim Performansı sertifikalara, değerlendirmelere, sınavlara göre bölündü
+- Sertifikalar, değerlendirmeler, sınavlar gibi kimlik bilgilerine göre kişiler
 - Etkinlik ayrıntıları
 
 >[!NOTE] 
->Bu rapor, Iş Ortağı Merkezi 'nde Öngörüler hub 'ında bulunur. Bu raporu görüntülemek için, rapor Görüntüleyicisi veya Executive rapor Görüntüleyicisi rolü atanmalıdır. Bu raporun birkaç bölümü yalnızca Executive rapor Izleyicileri olan kullanıcılar için görünür olacaktır. Öngörüler raporları için erişim denetimi hakkında daha fazla bilgi için lütfen bkz. [PCI rolleri](pci-roles.md).
+>Bu rapor, İş Ortağı Merkezi'daki Insights merkezi altında İş Ortağı Merkezi. Bu raporu görüntülemek için Size Rapor Görüntüleyicisi veya Yönetici Rapor Görüntüleyicisi rolü atanmış olması gerekir. Bu raporun birkaç bölümü yalnızca Yönetici Rapor Görüntüleyicileri olan kullanıcılar tarafından görülebilir. Insights raporlarına yönelik erişim denetimi hakkında daha fazla bilgi için bkz. [PCI rolleri.](pci-roles.md)
 
 ## <a name="summary"></a>Özet
 
-Özet bölümü, taşmalarınız ile ilgili çeşitli performans göstergelerinin bir sayısal anlık görüntü görünümünü sunar. Çeşitli performans göstergeleri, sertifikalı bireyler, sertifikalardır, sınav kimlik bilgileri, sınav kimlik bilgileri, değerlendirme kimlik bilgileri ve değerlendirme kimlik bilgileri olan bireyler. Bu bölümdeki veriler, üç ay (3K), altı ay (6Dk) ve 12 ay (1Y) veya özel bir veri aralığı (özel) olabilen seçili tarih aralığına göre yenilenir. 
+Özet bölümü, eğitimlerinize ilişkin çeşitli performans göstergelerinin sayısal bir anlık görüntü görünümünü sunar. Çeşitli performans göstergeleri Sertifikalı Bireyler, Sertifikalar, Sınav Kimlik Bilgilerine Sahip Bireyler, Sınav Kimlik Bilgileri, Değerlendirme Kimlik Bilgilerine sahip Bireyler ve Değerlendirme Kimlik Bilgileridir. Bu bölümdeki veriler seçilen tarih aralığına göre yenilenir. Bu aralık üç ay (3 milyon), altı ay (6 milyon) ve 12 ay (1Y) veya özel veri aralığı (Özel) olabilir. 
 
-:::image type="content" source="images/pci/td-summary.png" alt-text="Özet":::
+:::image type="content" source="images/pci/td-summary.png" alt-text="Özet.":::
 
-- **Sertifikalarla olan bireyler**: şirketinizde sertifikaları olan ayrı kişilerin sayısını temsil eder.
-- Sertifika **sayısı**: şirketinizdeki bireyler tarafından alınan toplam sertifika sayısını temsil eder.
-- **Değerlendirmelere sahip bireyler**: şirketinizde değerlendirme kimlik bilgilerine sahip benzersiz kişilerin sayısını temsil eder. 
-- **Değerlendirme sayısı**: şirketinizdeki bireyler tarafından alınan toplam değerlendirme sayısını temsil eder.
+- **Sertifikalara sahip kişiler:** Şirketiniz içinde sertifikalara sahip olan ayrı bireylerin sayısını temsil eder.
+- **Sertifikasyon sayısı:** Şirketiniz içinde yer alan kişilerin ettiği toplam sertifika sayısını temsil eder.
+- **Değerlendirmeleri olan bireyler:** şirketinizin değerlendirme kimlik bilgilerine sahip olan ayrı bireylerin sayısını temsil eder. 
+- **Değerlendirme sayısı:** şirketinizin bireyleri tarafından yapılan toplam değerlendirme sayısını temsil eder.
 - **Sınavları olan bireyler:** şirketiniz içinde sınav kimlik bilgilerine sahip olan ayrı bireylerin sayısını temsil eder. 
 - **Sınav sayısı:** Şirketinizin bireyleri tarafından yapılan toplam sınav sayısını temsil eder.
 
@@ -47,16 +47,16 @@ Seyahat panosu, şirket çalışanları şirketiniz tarafından gerçekleştiril
 
 Eğitim performansı, aylık kişi sayısını ve şirketinizin bireyler tarafından tamamlanan eğitimlerini sunar. Seçilen tarih aralığı için grafik şeklinde sertifikalara, değerlendirmelere ve sınavlara göre ayrılır. X ekseni, seçilen tarih aralığı için ayları temsil eder. Y ekseni, seçilen eğitim türü için ayrı kişi sayısını ve alınan eğitim sayısını temsil eder. Dökümü eğitim türüne göre görüntülemek için grafiğin üzerindeki ilgili sekmeleri seçin. Grafik verileri, seçilen tarih aralığı için .tsv biçimindeki indirme simgesi aracılığıyla indirilebilir.
 
-:::image type="content" source="images/pci/td-training-performance.png" alt-text="Eğitim Performansı":::
+:::image type="content" source="images/pci/td-training-performance.png" alt-text="Eğitim Performansı.":::
 
 ## <a name="individuals-performance"></a>Kişilerin performansı
 
 Kişiler'in performans bölümünde, seçilen tarih aralığı için şirketiniz içinde yer alan kişiler tarafından alınan eğitimin ayrıntıları yer almaktadır. Bölümün sol panelinde bir kişinin adını arama ve seçme. Seçilen kişiye ilişkin eğitim ayrıntıları, bölümün sağ panelinde görüntülenir.
 
-:::image type="content" source="images/pci/td-indiviual-performance.png" alt-text="Gerçek Performans":::
+:::image type="content" source="images/pci/td-indiviual-performance.png" alt-text="Gerçek Performans.":::
 
 >[!NOTE] 
-> Bireysel performans bölümü yalnızca yönetici rapor görüntüleyicisi olan kullanıcılar tarafından kullanılabilir. 
+> Kişiler performansı bölümü yalnızca yönetici rapor görüntüleyicisi olan kullanıcılar tarafından kullanılabilir. 
 
 ## <a name="next-steps"></a>Sonraki Adımlar
 

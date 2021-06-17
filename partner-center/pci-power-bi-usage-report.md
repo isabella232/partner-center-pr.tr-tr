@@ -8,12 +8,12 @@ description: Müşterilerinizin sattığı ve yönettiğiniz Power BI abonelikle
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: 9626ceda405b54ea2043814fef3d7f5c81bc35af
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 36993633ab2e2be0a726c70bf930f842bfaf890f
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109854607"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276306"
 ---
 # <a name="power-bi-usage-report-available-from-the-partner-center-insights-dashboard"></a>Power BI kullanım raporu, Iş Ortağı Merkezi Öngörüler panosundan kullanılabilir
 
@@ -46,39 +46,39 @@ Power BI kullanım raporu, müşterileriniz için satılan veya yönettiğiniz P
 
    Mikro grafik, seçili zaman dilimi boyunca aylık etkin olan her bir bilgisayar için aylık bir eğilim sunar.
 
-- Etkin Kullanım %: Seçilen zaman çerçevesi için kullanılabilir olan yerlerin yüzdesi olarak ifade edilen toplam etkin yer sayısı. 
+- Etkin kullanım%: seçili zaman çerçevesi için kullanılabilir koltuk yüzdesi olarak ifade edilen toplam etkin lisans sayısı. 
 
-   Mikro grafik, seçili zaman dönemi boyunca etkin kullanım yüzdesinin aylık eğilimini gösterir.
+   Mikro grafik, seçili zaman dilimi boyunca etkin kullanım yüzdesinin aylık eğilimini gösterir.
 
-:::image type="content" source="images/pci/pci-pbi-usage-summary.png" alt-text="Power BI özeti":::
+:::image type="content" source="images/pci/pci-pbi-usage-summary.png" alt-text="Power BI Kullanım Özeti.":::
 
-## <a name="power-bi-usage-by-geography"></a>Power BI göre kullanım
+## <a name="power-bi-usage-by-geography"></a>Coğrafya tarafından Power BI kullanımı
 
-Coğrafi **Power BI kullanım alanı,** kullanılabilir yerlerin ve etkin yerlerin müşteri ülkelerinin dağılımını gösterir. Harita üzerinde daha açık renkler düşük değerleri, koyu renkler ise daha yüksek değerleri temsil eder. Yakınlaştırmak için kılavuzda bir ülke arayabilir ve bu ülkeyi seçin.
+**Coğrafya tarafından Power BI kullanımı** , kullanılabilir bilgisayar ve etkin olan bilgisayar müşterilerinin müşteri ülkesinden dağılımını gösterir. Haritadaki daha açık renkler daha düşük değerleri temsil ederken, daha koyu renkler daha yüksek değerleri temsil eder. Yakınlaştırmak için kılavuzdaki bir ülkeyi arayabilir ve seçebilirsiniz.
 
-**Ülke/bölge sayısı tablosu,** Azure kullanım olaylarının oluşturularak toplam ülke/bölge sayısını gösterir.
+**Ülke/bölge tablosu sayısı** , Azure kullanım olaylarının oluşturulduğu toplam ülkeleri/bölgeleri gösterir.
 
-Haritanın konumunu yakınlaştırmak için kılavuzda bir ülke arayabilir ve bu ülkeyi seçin. Özgün **görünüme** dönmek için haritada Giriş seçeneğini belirleyin.
+Haritada konum yakınlaştırmak için kılavuzda bir ülke arayabilir ve seçebilirsiniz. Özgün görünüme dönmek için haritada **giriş** seçeneğini belirleyin.
 
-:::image type="content" source="images/pci/pci-pbi-usage-geography.png" alt-text="Power BI göre kullanım":::
+:::image type="content" source="images/pci/pci-pbi-usage-geography.png" alt-text="Coğrafya tarafından Power BI kullanımı.":::
 
-## <a name="power-bi-usage-by-sku"></a>Power BI SKU'ya göre kullanım
+## <a name="power-bi-usage-by-sku"></a>SKU tarafından Power BI kullanımı
 
-SKU Power BI kullanım alanı, SKU'lara göre aylık kullanılabilir yer, etkin yer ve atanmış yer sayısı eğilimini gösterir.
+SKU tarafından Power BI kullanımı, kullanılabilir koltuk, etkin koltuk ve SKU 'Lar tarafından atanan koltuk için aylık eğilimi gösterir.
 
-:::image type="content" source="images/pci/pci-pbi-usage-sku.png" alt-text="Power BI SKU'ya göre kullanım":::
+:::image type="content" source="images/pci/pci-pbi-usage-sku.png" alt-text="SKU tarafından Power BI kullanımı.":::
 
 ## <a name="subscriptions-performance"></a>Abonelik performansı
 
-Abonelik performansı, müşteri aboneliği başına aylık etkin kullanım eğilimini gösterir. Faturalı gelire göre ilk 100 müşteriye ilişkin veriler tabloda gösterilir ve tüm aboneliklerin ayrıntılarını görüntülemek için herhangi bir müşteriyi arayabilir veya ham verileri indirebilirsiniz.
+Abonelikler performansı, müşteri aboneliği başına etkin kullanım için aylık eğilimi gösterir. Faturalandırılan ilk 100 müşterinin verileri, tabloda gösterilir ve tüm Aboneliklerle ilgili ayrıntıları görüntülemek için herhangi bir müşteriyi arayabilir veya ham verileri indirebilirsiniz.
 
-:::image type="content" source="images/pci/pci-pbi-usage-subscription.png" alt-text="Power BI performansını değerlendirme":::
+:::image type="content" source="images/pci/pci-pbi-usage-subscription.png" alt-text="Abonelik performansını Power BI.":::
 
-## <a name="power-bi-usage-distribution"></a>Power BI dağıtımı
+## <a name="power-bi-usage-distribution"></a>Kullanım dağıtımı Power BI
 
-Kullanım Power BI dağıtımında, SKI'lara göre kullanılabilir yerlerin, etkin yerlerin ve atanan yerlerin dökümü yer almaktadır.
+Power BI kullanım dağıtımı, kullanılabilir koltuk, etkin koltuk ve SKU 'Lar tarafından atanan koltuk dökümünü gösterir.
 
-:::image type="content" source="images/pci/pci-pbi-usage-distribution.png" alt-text="Kullanım dağıtımı Power BI":::
+:::image type="content" source="images/pci/pci-pbi-usage-distribution.png" alt-text="Kullanım dağıtımı Power BI.":::
 
 ## <a name="next-steps"></a>Sonraki adımlar
 

@@ -8,12 +8,12 @@ description: Ortak satış bağlayıcılarını kullanma hakkında sık sorulan 
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: 49a2b6e5461dacbe87c34b36805a5c240c2e5fd1
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: bb7a227624c548a29046b80d3bd5fa363a4aee2f
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110148355"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276951"
 ---
 # <a name="troubleshoot-co-sell-referrals-connectors"></a>Ortak satış referans bağlayıcıları sorunlarını giderme
 
@@ -37,34 +37,34 @@ Sistem yöneticisi veya sistem özelleştiricisi olan kullanıcılar değişikli
 
 4. CRM ortamınıza ilk olarak hangi alanların ayarlanmış olması gerekir? 
 
-• Para biriminiz konumunuza uygun olduğundan ve CRM ortamınızda doğru olduğundan emin olun. • Satış ekibiniz, CRM ortamınızda CRM kullanıcıları olarak listelenmiş olmalıdır.
+• Para biriminizin konumunuz için uygun olduğundan ve CRM ortamınıza uygun olduğundan emin olun. • Satış takımınız CRM ortamınıza CRM kullanıcıları olarak listelenmiş olmalı.
 
-5. Power otomatikleştirin ortam oluşturma için gerekenler ne gerekir?
+5. Ortam oluşturmak için hangi önk Power Automate gerekir?
 
-Power otomatikleştir ortamını kullanmak için şunlar gerekir:
+Ortam ortamını Power Automate için aşağıdakiler gerekir:
 
-- Güç otomatikleştirme lisansı gereklidir.
-- En az 1 GB depolama alanı gereklidir.
+- Bir Power Automate lisansı gereklidir.
+- En az 1 GB depolama gereklidir.
 
-6.  Salesforce bağlayıcıları çözümünü kullanmak için bir Dynamics 365 aboneliğine ihtiyacınız var mı?
+6.  Salesforce Bağlayıcıları çözümünü kullanmak için Dynamics 365 aboneliğine ihtiyacınız var mı?
 
-Salesforce bağlayıcı çözümü, diğer CRM sistemleriyle eşitlemeyi destekleyen "Dynamics Flow" türüdür. Çözüm, Dynamics 365 örneğine veya aboneliğine sahip olmanızı gerektirmez. Salesforce çözümünü yüklerken şirketinizdeki mevcut CD 'leri içeren bir açılır liste görüntülenebilir. Bu ortamı seçmeniz gerekir. Ayrıca, "oturum açan kullanıcıya bağlı bir Dynamics 365 organizasyonu bulamadık" hatasını alırsanız, bağlayıcı için yeni ortam oluşturmanız gerekir.
+Salesforce Bağlayıcısı çözümü, diğer CRM sistemleriyle eşitlemeyi destekleyen "Dynamics Flow" türündedir. Çözüm için Dynamics 365 örneğine veya aboneliğe sahip olmak gerekli değildir. Salesforce çözümünü yüklerken, şirketiniz içinde var olan CDS ortamına sahip bir açılan liste görünebilir. Bu ortamı seçmeniz gerekir. Ayrıca, "Oturum alıkan kullanıcıya bağlı bir Dynamics 365 kuruluşu bulamadı" hatasını alırsanız bağlayıcı için yeni bir ortam oluşturmanız gerekir.
 
-## <a name="questions-and-answers-about-configuration"></a>Yapılandırma ile ilgili sorular ve yanıtlar
+## <a name="questions-and-answers-about-configuration"></a>Yapılandırmayla ilgili sorular ve yanıtlar
 
-1. Power otomatikleştir platformunda akışları etkinleştirirken aşağıdaki hatayla karşılaşırsanız ne yapmalısınız?
+1. Power Automate Platform'da akışları etkinleştirirken aşağıdaki hatayla karşılaşıyorsanız ne Power Automate gerekir?
 
-Hata: Azure Resource Manager Isteği şu hatayla başarısız oldu: ' {"Error": {"Code": "WorkflowTriggerNotFound", "Message": "iş akışı ' e14d00f1-1fdf-4b1b-AAAC-54a5064093d3 ' tetikleyici ' Manual ' bulunamadı."}} '. 
+Hata: Azure Resource Manager isteği şu hatayla başarısız oldu: '{"error":{"code":"WorkflowTriggerNotFound","message":"'e14d00f1-1fdf-4b1b-aaac-54a5064093d3' tetikleyicisi 'manual' bulunamadı."}}'. 
 
-Bu sorun giderme adımlarını izleyin:
+Şu sorun giderme adımlarını izleyin:
 
-- CD bağlantısını silin ve ardından CD bağlantılarını yeniden oluşturun.
+- CDS bağlantısını silin ve ardından CDS bağlantılarını yeniden oluşturun.
 - Alt akışı kapatma ve açma 
 - Çözümü silin ve çözümü yeniden yükleyin. 
 
-2.  Power otomatikleştir platformunda bir Iş Ortağı Merkezi Bağlayıcısı eklenirken "oturum aç" hatası varsa ne yapmalısınız?
+2.  Power Automate Platform'da bir İş Ortağı Merkezi bağlayıcısı eklerken "Oturum açma" hatasıyla karşılaşıyorsanız ne Power Automate gerekir?
 
-:::image type="content" source="images/cosellconnectors/failure.png" alt-text="Oturum açma gerektiren hata iletisi":::
+:::image type="content" source="images/cosellconnectors/failure.png" alt-text="Oturum açma gerektiren hata iletisi.":::
 
 Bu sorun giderme adımını izleyin:
 
@@ -73,7 +73,7 @@ Bu sorun giderme adımını izleyin:
 
 3. Power Automate Platform'da CRM akışına İş Ortağı Merkezi etkinleştirirken aşağıdaki hatayı alırsanız ne Power Automate gerekir?
  
-:::image type="content" source="images/cosellconnectors/powererror.png" alt-text="Güncelleştirme gerektiren hata iletisi":::
+:::image type="content" source="images/cosellconnectors/powererror.png" alt-text="Güncelleştirme gerektiren hata iletisi.":::
 
 Şu sorun giderme adımlarını izleyin:
 
@@ -83,16 +83,16 @@ Bu sorun giderme adımını izleyin:
 
 4. Akışı düzenlemeye çalışmadan akışa bağlantı ekleye değilken ne yapacaksınız?
 
-Akış çalışırken akışa bağlantılar ekler ve her akışa ayrı bağlantılar eklersiniz.  Bağlantı ekleme iletişim kutusu akışı düzenlerken otomatik olarak açılmazsa, akışların adımlarını ve alt adımlarını tek tek düzenleyebilirsiniz.
+Akış çalışırken akışa bağlantılar ekler ve her akışa ayrı olarak eklersiniz.  Bağlantı ekleme iletişim kutusu akışı düzenlerken otomatik olarak açılmazsa, akışların adımlarını ve alt adımlarını tek tek düzenleyebilirsiniz.
 
 - Her akışı seçin ve ayrı ayrı düzenleyin.
 - Akışta tüm adımları genişletin 
 
-:::image type="content" source="images/cosellconnectors/flowsteps.png" alt-text="Bağlantı gereken adımlar":::
+:::image type="content" source="images/cosellconnectors/flowsteps.png" alt-text="Bağlantı gereken adımlar.":::
 
 - Bağlantıları ilişkilendirmek ve bağlantı eklemek için bir uyarı simgesi gördüğünüz adımları seçin. 
 
-:::image type="content" source="images/cosellconnectors/editflow.png" alt-text="Akışı adım adım düzenleme":::
+:::image type="content" source="images/cosellconnectors/editflow.png" alt-text="Akışı adım adım düzenleyin.":::
 
 
 5. Ortak Satış Referansları Bağlayıcıları çözümünün akışları açık yoksa ne yapacaksınız?
@@ -100,40 +100,40 @@ Akış çalışırken akışa bağlantılar ekler ve her akışa ayrı bağlant�
 A. Bu Power Automate, akışları aşağıdaki sırayla düzenlemeniz ve doğru bağlantıları kullanmak üzere güncelleştirmeniz gerekir:
 
 - İş Ortağı Merkezi Web Kancası Kaydı (Insider Önizlemesi)
-- Ortak satış başvurusu oluşturma-Salesforce 'a Iş Ortağı Merkezi 'ne (Insider Preview)
-- İş Ortağı Merkezi Microsoft ortak-başvuru güncelleştirmelerini Salesforce 'a satma (Insider Preview)
-- İş ortağı merkezini Salesforce 'a (Insider Preview)
-- Salesforce-Iş Ortağı Merkezi (Insider Preview)
-- Salesforce Iş Ortağı Merkezi (Insider Preview)
-- Salesforce Microsoft çözümlerini Iş Ortağı Merkezi 'ne (Insider Preview)
+- Ortak Satış Referansı Oluşturma - İş Ortağı Merkezi salesforce (Insider Önizleme)
+- İş Ortağı Merkezi Microsoft Ortak Satış Referans Güncelleştirmelerini Salesforce'a (Insider Önizleme) yönlendirme
+- İş Ortağı Merkezi'a (Insider Önizleme)
+- Salesforce'tan İş Ortağı Merkezi 'a (Insider Önizleme)
+- Salesforce Opportunity to İş Ortağı Merkezi (Insider Preview)
+- İş Ortağı Merkezi için Salesforce Microsoft Solutions (Insider Önizleme)
 
- B. Her akış için **yalnızca kullanıcıları Çalıştır** seçeneğini belirleyin. **Yalnızca çalıştırma kullanıcısı tarafından sağlanarak** **bağlantı kullan** ' ı seçin.  
+ B. Akışın her biri için Yalnızca kullanıcıları **çalıştır seçeneğini** belirleyin. Yalnızca **çalıştıran kullanıcı** tarafından **sağlanan yerine Bağlantıyı kullan'ı seçin.**  
 
-:::image type="content" source="images/cosellconnectors/runonly.png" alt-text="Bir akışı etkinleştirmek için":::
+:::image type="content" source="images/cosellconnectors/runonly.png" alt-text="Akışı etkinleştirmek için.":::
 
 
-C. Bu yukarıda belirtilen akışlara aşağıdaki akışları etkinleştirin:
+C. Aşağıda belirtilen akışları etkinleştirin:
 
- - İş Ortağı Merkezi Microsoft ortak-başvuru güncelleştirmelerini Salesforce 'a satma (Insider Preview)
+ - İş Ortağı Merkezi Microsoft Ortak Satış Referans Güncelleştirmelerini Salesforce'a (Insider Önizleme) yönlendirme
 
-- Salesforce-Iş Ortağı Merkezi (Insider Preview)
+- Salesforce'tan İş Ortağı Merkezi 'a (Insider Önizleme)
 
     
 D. Kalan tüm akışları etkinleştirin.
 
-E. Flow Iş Ortağı Merkezi Web kancası kaydında **Çalıştır**' ı seçin. **Iş Ortağı Merkezi** 'ndeki Ilk eylemden Salesforce akışına **http url 'sini** sağlayın. **Kaydolmak Için olaylar** bölümündeki tüm dört seçeneği seçin ve üzerine yazmak için **Evet** ' i seçin.
+E. Web Kancası İş Ortağı Merkezi akışında Çalıştır'ı **seçin.** **İş Ortağı Merkezi'de Salesforce akışına ilk eylemden http URL'sini** girin.  Kaydolmak için Olaylar altında dört **seçeneğin de hepsini seçin ve Üzerine** Yaz için **evet'i** seçin.
 
-## <a name="questions-and-answers-about-runmaintenance"></a>Çalıştırma/bakım ile ilgili sorular ve yanıtlar
+## <a name="questions-and-answers-about-runmaintenance"></a>Çalıştırma/Bakım hakkında sorular ve yanıtlar
 
-1. Power otomatikleştirin akış yürütme sırasında hatalardan nasıl sorun giderilir?
+1. Akış yürütme sırasındaki hataları Power Automate giderin?
 
-Güç otomatikleştirebileceğiniz akışlarınızın beklenen şekilde çalıştığından emin olmak ve yürütme sırasında hataların sorunlarını gidermek için bkz. [akış başarısızlıklarını](/power-automate/fix-flow-failures)giderme.
+Akış akışlarının beklediğiniz Power Automate olduğundan emin olmak ve yürütme sırasındaki hataları gidermek için [bkz. Akış hatalarını düzeltme.](/power-automate/fix-flow-failures)
 
-2. Iş ortağı merkezi veya CRM ortamında düzgün şekilde eşitlenmemiş başvurular görürseniz ne yapmalısınız?
+2. İş Ortağı Merkezi VEYA CRM ortamında düzgün eşitlenmemiş referanslar görüyorsanız ne yapacaksınız?
  
 Referans eşitleme durumunu belirlemek için Denetle'yi **seçin.** 
 
-:::image type="content" source="images/cosellconnectors/synch.png" alt-text="Referansları eşitleme":::
+:::image type="content" source="images/cosellconnectors/synch.png" alt-text="Referansları eşitleme.":::
 
 Aşağıdaki koşulların karşı olduğundan emin olmak:
 
@@ -149,25 +149,25 @@ Aşağıdaki adımları uygulayın:
 
 - İş ortağı satıcılarının CRM bölümünde İş Ortağı Merkezi **eşitle seçeneğini etkinleştirmiş** olduğundan emin olmalıdır.
 
-:::image type="content" source="images/cosellconnectors/enablesynch.png" alt-text="Eşitleme'yi etkinleştirildiğinden emin olun":::
+:::image type="content" source="images/cosellconnectors/enablesynch.png" alt-text="Eşitle'yi etkinleştirdikten emin olun.":::
 
 - Satış satıcılarının müşteri adayını kabul etmek için gelir ve kapanış tarihi sağlamaları gerekir.
 
 - CRM Kimliği ortak satış  fırsatının oluşturma veya güncelleştirme aşamasında sağlanıyorsa ancak CRM'de bu kimliğin bulunduğu bir müşteri adayı fırsatı yoksayılırsa güncelleştirme veya oluşturma yoksayılır. 
 
-- Referans para birimi alanını Salesforce ortamında yapılandırıldığından emin olmak. 
+- Referans para biriminin Salesforce ortamında yapılandırıldığından emin olmak. 
 
 4. Bağlayıcının bağlantısı kesilirse ve referans eşitlemesini kaçırırsanız ne yapacaksınız?
 
 Deneyebilirsiniz seçeneklerden birkaçı şunlardır:
 
-- Referans yöneticisi rollerine sahip kullanıcı adı veya parolanın İş Ortağı Merkezi olup olmadığını kontrol edin.
+- Iş Ortağı Merkezi kullanıcısı için başvuru yöneticisi rollerine sahip kullanıcı adının veya parolanın dolup dolmadığını denetleyin.
 
-- Eşitlenmemiş fırsata gidebilir, küçük bir güncelleştirme gerçekleştirip referansın eşitlenmiş olup olmadığını gözlemlersiniz.
+- Eşitlenmemiş fırsata gidebilir, küçük bir güncelleştirme yapabilir ve başvurunun eşitlenip eşitlenmediğini gözlemleyebilirsiniz.
 
-- Akışlar çalıştırlı ve başarısız olmuşsa akışı seçin ve başarısız olan çalıştırmayı yeniden gönderin.
+- Akışlar çalıştırılmışsa ve başarısız olursa, akışı seçip başarısız olan çalıştırmayı yeniden gönderebilirsiniz.
 
-5. Erişim reddedildi hatalarına sahip olursanız ne yapacaksınız?
+5. Erişim reddedildi hatalarını aldığınızda ne yapmalısınız?
 
 Uygun rollerin mevcut olduğundan emin olun
 

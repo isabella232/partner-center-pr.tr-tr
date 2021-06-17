@@ -8,12 +8,12 @@ description: Iş ortağı merkezindeki başvurularınızı Salesforce CRM 'niz i
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: fa9b35343e1251cfce5caff107de8dff344f4e68
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 74894671966ac0409f6366f33c91ddadfae1ba4c
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110148423"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276986"
 ---
 # <a name="co-sell-connector-for-salesforce-crm---overview"></a>Salesforce için ortak satış Bağlayıcısı CRM-genel bakış
 
@@ -30,28 +30,28 @@ ms.locfileid: "110148423"
 |Microsoft İş Ortağı Ağı KIMLIĞI |Geçerli bir MPN KIMLIĞI gerekir|[MPN](https://partner.microsoft.com/) 'ye katılması için|
 |Ortak satış hazırlanıyor|IP/hizmet çözümünüz ortak satış için hazırlık olmalıdır.|[Microsoft ile satış](https://partner.microsoft.com/membership/sell-with-microsoft)| 
 |İş Ortağı Merkezi hesabı|Iş Ortağı Merkezi kiracısı ile ilişkili MPN KIMLIĞI, ortak satış çözümünüz ile ilişkili MPN KIMLIĞIYLE aynı olmalıdır. Bağlayıcıları dağıtmadan önce Iş Ortağı Merkezi portalındaki ortak satış başvurularınızı görebildiğinizi doğrulayın.|[Hesabınızı yönetme](create-user-accounts-and-set-permissions.md)|
-|İş Ortağı Merkezi rollerini atama|Bağlayıcıları yükecek ve kullanacak olan çalışanın Referans yöneticisi olması gerekir|[Kullanıcı rollerini ve izinlerini atama](create-user-accounts-and-set-permissions.md)|
-|Salesforce CRM|CRM kullanıcı rolü Sistem yöneticisi veya Sistem özelleştiricisi|[Salesforce CRM'de rol atama](https://help.salesforce.com/articleView?id=assigning_users_to_roles.htm&type=5)|
-|Power Automate Flow Hesabı|CRM [Sistem Power Automate](https://flow.microsoft.com) veya Sistem özelleştiricisi için etkin bir hesap. Bu kullanıcının yüklemeden önce [Power Automate](https://flow.microsoft.com) kez oturum açması gerekir.|
+|İş Ortağı Merkezi Kullanıcı rolleri|Bağlayıcıları yükleyecek ve kullanacak çalışana bir başvuru Yöneticisi olmalıdır|[Kullanıcı rollerini ve izinlerini atama](create-user-accounts-and-set-permissions.md)|
+|Salesforce CRM|CRM Kullanıcı rolü, Sistem Yöneticisi veya sistem özelleştiricisi|[Salesforce CRM 'de rol atama](https://help.salesforce.com/articleView?id=assigning_users_to_roles.htm&type=5)|
+|Güç otomatikleştirme akış hesabı|CRM Sistem Yöneticisi veya sistem özelleştirici için etkin bir [Güç otomatikleştirme](https://flow.microsoft.com) hesabı. Bu kullanıcının, yüklemeden önce en az bir kez [Power otomatikleştirmek](https://flow.microsoft.com) için oturum açması gerekir.|
 
-## <a name="installation-of-salesforce-package-for-microsoft-custom-fields"></a>Microsoft Özel Alanları için Salesforce Paketini Yükleme 
+## <a name="installation-of-salesforce-package-for-microsoft-custom-fields"></a>Microsoft özel alanları için Salesforce paketi yüklemesi 
 
-İş Ortağı Merkezi ve Salesforce CRM'de referansları eşitlemek için Power Automate çözümün Microsoft'a özgü referans alanlarını net bir şekilde tanımlaması gerekir. Bu karar, iş ortağı satıcı ekiplerine ortak satış için Microsoft ile paylaşmak istediğiniz referansları verme olanağı sağlar.
+Iş ortağı merkezi ve Salesforce CRM genelindeki başvuruları senkronize etmek için, Power otomatikleştir çözümünün Microsoft 'a özgü başvuru alanlarını açıkça tanımlaması gerekir. Bu düzenleme, iş ortağı satıcı ekiplerine ortak satış için Microsoft ile hangi başvuruları paylaşacağına karar verme olanağı sunar.
 
-1. Salesforce'ta **Notlar'ı** etkinleştirin ve fırsatlarla ilgili listeye ekleyin. 
+1. Salesforce 'ta **notları** etkinleştirin ve fırsatlar ilgili listesine ekleyin. 
 [Başvuru](https://help.salesforce.com/articleView?err=1&id=notes_admin_setup.htm&type=5)
 
-2. Aşağıdaki **adımları kullanarak** Fırsat ekiplerini etkinleştirin: 
-    - Kurulum'da, Fırsat **Ekibi Ayarları'nı** bulmak için Hızlı Bul kutusunu kullanın.
-    - Ayarları gereken şekilde tanımlayın.
+2. Aşağıdaki adımları izleyerek **fırsat ekiplerini** etkinleştirin: 
+    - Kurulum 'da, fırsat ekibi ayarlarını bulmak için **hızlı bul** kutusunu kullanın.
+    - Ayarları gerektiği gibi tanımlayın.
 [Başvuru](https://help.salesforce.com/articleView?id=teamselling_enabling.htm&type=5]) 
 
-3. Salesforce'ta, paket yükleyicisini kullanarak özel alanlar ve [nesneler yükleyin.](https://login.salesforce.com/packaging/installPackage.apexp?p0=04t2w000006WIwV) Paketi herhangi bir şirkete yüklemek için bunu kullanın.
+3. Salesforce 'ta, [paket yükleyicisini](https://login.salesforce.com/packaging/installPackage.apexp?p0=04t2w000006WIwV)kullanarak özel alanlar ve nesneler yükleme. Paketi herhangi bir şirkete yüklemek için bunu kullanın.
 
 >[!NOTE]
->Korumalı alanı yüklüyorsanız URL'nin ilk bölümünü ile değiştirmeniz gerekir http://test.salesforce.com
+>Bir korumalı alana yüklüyorsanız, URL 'nin başlangıçtaki bölümünü ile değiştirmelisiniz http://test.salesforce.com
 
-4. Salesforce'ta Microsoft Solutions'u **Fırsatla ilgili listesine** ekleyin. Eklendiktan sonra, İngiliz anahtarı **simgesini** seçin ve özellikleri güncelleştirin
+4. Salesforce. Microsoft çözümlerini **fırsatla** ilgili listeye ekleyin. Eklendikten sonra, **wrancon** simgesini ve Update özelliklerini seçin
 
 ## <a name="best-practice-test-before-you-go-live"></a>En iyi yöntem: canlı çalışmadan önce test edin
 
@@ -75,88 +75,88 @@ ms.locfileid: "110148423"
 
 4. Üstteki menüde **AppSource 'U aç** bağlantısını seçin.
 
-   :::image type="content" source="images/cosellconnectors/openappsource.png" alt-text="AppSource 'u aç":::
+   :::image type="content" source="images/cosellconnectors/openappsource.png" alt-text="AppSource 'u açın.":::
 
 5. Açılır ekranda **Salesforce Için Iş Ortağı Merkezi başvuruları bağlayıcıları** arayın.  
 
-   :::image type="content" source="images/salesforce/salesforce1.png" alt-text="Salesforce":::
+   :::image type="content" source="images/salesforce/salesforce1.png" alt-text="Satış.":::
 
 6. **Şimdi al** düğmesini seçin ve sonra **devam edin**.
 
 7. Bu, uygulamayı yüklemek için Salesforce CRM ortamını seçebileceğiniz sayfayı açar.  Hüküm ve koşulları kabul edin.
 
-   :::image type="content" source="images/salesforce/available-crm.png" alt-text="Kullanılabilir CRMS 'ler":::
+   :::image type="content" source="images/salesforce/available-crm.png" alt-text="Kullanılabilir CRMS 'ler.":::
 
-8. Daha sonra **çözümlerinizi yönetme** sayfasına yönlendirilirsiniz.  Sayfanın alt kısmındaki ok düğmelerini kullanarak "Iş Ortağı Merkezi başvuruları" na gidin. **Zamanlanan yükleme,** Referanslar çözümünün İş Ortağı Merkezi görün gerekir. Yükleme 10-15 dakika sürer.
+8. Daha sonra **çözümlerinizi yönetme** sayfasına yönlendirilirsiniz.  Sayfanın alt kısmındaki ok düğmelerini kullanarak "Iş Ortağı Merkezi başvuruları" na gidin. **Yükleme zamanlandı** , Iş Ortağı Merkezi başvuruları çözümünün yanında görünmelidir. Yükleme, 10-15 dakika sürer.
 
-9. Yükleme tamamlandıktan sonra çalışma alanına geri Power Automate sol [gezinti](https://flow.microsoft.com) **alanında Çözümler'i** seçin. **Salesforce İş Ortağı Merkezi Referans Eşitlemesi'nin** Çözümler listesinde kullanılabilir olduğunu fark edin.
+9. Yükleme tamamlandıktan sonra [Power otomatikleştirmeye](https://flow.microsoft.com) dönün ve sol gezinti alanından **çözümler** ' i seçin. **Salesforce Için Iş Ortağı Merkezi başvuruları** , çözümler listesinden kullanılabilir olduğuna dikkat edin.
 
-10. **Salesforce İş Ortağı Merkezi Referans Eşitleme'yi seçin.** Aşağıdaki Power Automate ve varlıklar kullanılabilir:
+10. **Salesforce Için Iş Ortağı Merkezi başvuruları eşitlemesini** seçin. Aşağıdaki güç otomatikleşme akışları ve varlıkları mevcuttur:
 
-    :::image type="content" source="images/cosellconnectors/salesforce10.png" alt-text="Salesforce akışları":::
+    :::image type="content" source="images/cosellconnectors/salesforce10.png" alt-text="Salesforce akışları.":::
 
 
 
 ## <a name="configure-the-solution"></a>Çözümü yapılandırma
 
-1. Çözümü CRM örneğine yüklekten sonra [Power Automate.](https://flow.microsoft.com/)
+1. Çözümü CRM Örneğinizde yükledikten sonra [Power otomatikleştirmek](https://flow.microsoft.com/)' a geri gidin.
 
-2. Sağ **üst** köşedeki Ortamlar açılan listesinden, Power Automate çözümünü yüklemiş Power Automate seçin.
-3. Üç kullanıcı hesabını ilişkilendirilen bağlantılar oluşturmanız gerekir:
-    - İş Ortağı Merkezi yönetici kimlik bilgilerine sahip bir kullanıcı
+2. Sağ üst köşedeki **ortamlar** açılan penceresinden, Power otomatikleştir çözümünü yüklediğiniz CRM örneğini seçin.
+3. Üç Kullanıcı hesabını ilişkilendiren bağlantılar oluşturmanız gerekir:
+    - Ortak Merkezi Kullanıcı başvuruları yönetici kimlik bilgileri
     - İş Ortağı Merkezi Etkinlikleri
-    - Çözümde akış Power Automate CRM yöneticisi.
-4. Sol **gezinti** çubuğundan Bağlantılar'ı seçin ve listeden "İş Ortağı Merkezi Referanslar" çözümünü seçin.
+    - Çözüm içindeki Power otomatikleştirmede CRM Yöneticisi.
+4. Sol gezinti çubuğundan **Bağlantılar** ' ı seçin ve listeden "Iş Ortağı Merkezi başvuruları" çözümünü seçin.
 
-5. Bağlantı oluştur'a **tıklayarak bağlantı oluşturun.**
+5. **Bağlantı oluştur**' a tıklayarak bir bağlantı oluşturun.
 
-:::image type="content" source="images/cosellconnectors/salesforce12.png" alt-text="Bağlantı oluşturma":::
+:::image type="content" source="images/cosellconnectors/salesforce12.png" alt-text="Bağlantı oluştur.":::
 
-- Sağ İş Ortağı Merkezi arama çubuğunda Referanslar (önizleme) araması gerçekleştirin.
+- Sağ üst köşedeki arama çubuğunda Iş Ortağı Merkezi başvurularını (Önizleme) arayın.
 
-- Referans yöneticisinin kimlik bilgileri İş Ortağı Merkezi kullanıcınız için bir bağlantı oluşturun.
+- Iş Ortağı Merkezi kullanıcılarınız için, başvuru yöneticisinin kimlik bilgileri rolüyle bir bağlantı oluşturun.
 
--  Ardından, referans İş Ortağı Merkezi kimlik bilgileriyle İş Ortağı Merkezi için bir Olay bağlantısı oluşturun.
+-  Daha sonra, Iş Ortağı Merkezi kullanıcılarınız için, referanslar yöneticisinin kimlik bilgileriyle bir Iş Ortağı Merkezi olaylar bağlantısı oluşturun.
 
-- CRM yönetici kullanıcısı için Salesforce için bir bağlantı oluşturun.
+- CRM yönetici kullanıcısı için Salesforce bağlantısı oluşturun.
 
--  Tüm Bağlantılar eklendiktan sonra, ortamınıza aşağıdaki Bağlantıları görüyor gerekir:
+-  Tüm bağlantılar eklendikten sonra ortamınızda aşağıdaki bağlantıları görmeniz gerekir:
 
- :::image type="content" source="images/cosellconnectors/salesforce13.png" alt-text="Bağlantıları gözlemle":::
+ :::image type="content" source="images/cosellconnectors/salesforce13.png" alt-text="Bağlantıları gözlemleyin.":::
 
 ### <a name="edit-the-connections"></a>Bağlantıları düzenleme
 
-1. Çözümler sayfasına geri dönüp Varsayılan **Çözüm'i seçin.**  Tüm **'e tıklayarak Bağlantı Başvurusu (önizleme)** **öğesini seçin.**
+1. Çözümler sayfasına dönün ve **Varsayılan çözüm**' ı seçin.  **Tüm**' a tıklayarak **Bağlantı başvurusunu (Önizleme)** seçin.
  
-:::image type="content" source="images/cosellconnectors/salesforce14.png" alt-text="Bağlayıcı düzenlemeye başlama":::
+:::image type="content" source="images/cosellconnectors/salesforce14.png" alt-text="Bağlayıcı düzenlemeyi Başlat.":::
 
-2. Üç nokta simgesini seçerek Bağlantılar'ın her bir öğesini tek tek düzenleyin. İlgili bağlantıları ekleyin.
+2. Üç nokta simgesini seçerek her bir bağlantıyı tek tek düzenleyin. İlgili bağlantıları ekleyin.
 
-:::image type="content" source="images/cosellconnectors/salesforce15.png" alt-text="Bağlayıcıları düzenleme":::
+:::image type="content" source="images/cosellconnectors/salesforce15.png" alt-text="Bağlayıcıları düzenleyin.":::
 
-3. Akışları aşağıdaki sırayla aç:
+3. Akışları aşağıdaki sırada açın:
 
-- İş Ortağı Merkezi Web Kancası Kaydı (Insider Önizlemesi)
-- Ortak Satış Referansı Oluşturma - İş Ortağı Merkezi Salesforce (Insider Önizleme)
-- İş Ortağı Merkezi Microsoft Ortak Satış Referans Güncelleştirmelerini Salesforce'a (Insider Önizleme) yönlendirme
-- İş Ortağı Merkezi'a (Insider Önizleme)
-- Salesforce'tan İş Ortağı Merkezi 'a (Insider Önizleme)
-- Salesforce Opportunity to İş Ortağı Merkezi (Insider Preview)
-- İş Ortağı Merkezi için Salesforce Microsoft Solutions (Insider Önizleme)
+- İş Ortağı Merkezi Web kancası kaydı (Insider Preview)
+- Ortak satış başvurusu oluşturma-Salesforce 'a Iş Ortağı Merkezi 'ne (Insider Preview)
+- İş Ortağı Merkezi Microsoft ortak-başvuru güncelleştirmelerini Salesforce 'a satma (Insider Preview)
+- İş ortağı merkezini Salesforce 'a (Insider Preview)
+- Salesforce-Iş Ortağı Merkezi (Insider Preview)
+- Salesforce Iş Ortağı Merkezi (Insider Preview)
+- Salesforce Microsoft çözümlerini Iş Ortağı Merkezi 'ne (Insider Preview)
 
-## <a name="use-webhook-apis-to-register-for-resource-change-events"></a>Kaynak değişikliği olaylarını kaydetmek için Web Kancası API'lerini kullanma
+## <a name="use-webhook-apis-to-register-for-resource-change-events"></a>Kaynak değişikliği olaylarına kaydolmak için Web kancası API 'Lerini kullanma
 
-Web İş Ortağı Merkezi API'leri, kaynak değişikliği olaylarına kaydolmaya olanak sağlar. Bu değişiklik olayları URL'nize HTTP gönderileri olarak gönderilir.
+Iş Ortağı Merkezi Web kancası API 'Leri, kaynak değişiklik olaylarına kaydolmanızı sağlar. Bu değişiklik olayları, URL 'nize HTTP gönderileri olarak gönderilir.
 
-1. URL'nizi kaydetmek için Web **Kancası İş Ortağı Merkezi (Insider Önizleme) Power Automate** seçin.
+1. URL 'nizi kaydetmek için **Iş Ortağı Merkezi Web kancası kaydı (Insider Preview)** güç otomatikleştirme akışı ' nı seçin.
 
 2. (A.) Iş Ortağı Merkezi kullanıcısına, aşağıdaki vurgulanmış şekilde, başvuru Yöneticisi kimlik bilgileri (b.) Iş Ortağı Merkezi etkinliklerine yönelik bağlantılar ekleyin
 
-   :::image type="content" source="images/cosellconnectors/triggerflow.png" alt-text="Tetikleyici":::
+   :::image type="content" source="images/cosellconnectors/triggerflow.png" alt-text="Tetikleyicinin.":::
 
 3. Bu güncelleştirmeleri yaptığınızda şunu görürsünüz:
 
-   :::image type="content" source="images/cosellconnectors/webhook1.png" alt-text="Web Kancaları":::
+   :::image type="content" source="images/cosellconnectors/webhook1.png" alt-text="Web kancaları.":::
 
 4. Değişikliklerinizi kaydedin ve **Aç '** ı seçin.
 
@@ -168,7 +168,7 @@ Web İş Ortağı Merkezi API'leri, kaynak değişikliği olaylarına kaydolmaya
 
 7. Belirtilen HTTP POST URL 'sini kopyalamak için **Kopyala** simgesini seçin.
 
-   :::image type="content" source="images/salesforce/copy-url.png" alt-text="URL'yi Kopyala":::
+   :::image type="content" source="images/salesforce/copy-url.png" alt-text="URL 'YI kopyalayın.":::
 
 8. Şimdi "Iş Ortağı Merkezi Web kancası kaydı 'nı (Insider Preview)" Power otomatikleştirmeyi seçin ve **Çalıştır**' ı seçin.
 
@@ -224,48 +224,48 @@ Her bir güç otomatikleştirme akışının birden çok adımı gereksinimlerin
 
 4. CRM için alanları, oluşturma olayları için bir BILGISAYAR başvurusu eşitlemesine göre özelleştirmek için?
 
-   1. Akışı **düzenlemek/özelleştirmek**  için Düzenle'Power Automate seçin.
+   1. Power otomatikleştir akışını düzenlemek/özelleştirmek için **Düzenle**  ' yi seçin.
 
-   2. **(Kapsam) Referansları Eşitle'yi seçin.**
+   2. **Başvuruları eşitleme (kapsam)** seçeneğini belirleyin.
 
-   3. Oluşturma olayları için CRM alan eşlemelerini özelleştirmek için (alan eşlemeleri kılavuzuna göre) **Microsoft Referansı Oluştur'u seçin.**
+   3. Olay oluşturma için CRM alan eşlemelerini özelleştirmek için (alan eşlemeleri kılavuzuna göre) **Microsoft başvurusu oluştur**' u seçin.
 
-Bu bölümdeki eşlemeleri Alan Eşleme Kılavuzu'na göre düzenleyebilirsiniz.
+Bu bölümdeki eşlemeleri alan eşleme kılavuzuna göre düzenleyebilirsiniz.
 
 
-## <a name="end-to-end-bi-directional-co-sell-referral-synchronization"></a>4- uç çift yönlü ortak satış referans eşitlemesi
+## <a name="end-to-end-bi-directional-co-sell-referral-synchronization"></a>Uçtan uca iki yönlü ortak satış başvuru eşitlemesi
 
-Power Automate çözümünü yüklemiş, yapılandırmış ve özelleştirmiş olduktan sonra Salesforce CRM ile İş Ortağı Merkezi arasında ortak satış referans eşitlemesi için test İş Ortağı Merkezi.
+Power otomatikleştir çözümünü yükledikten, yapılandırdıktan ve özelleştirdikten sonra Salesforce CRM ve Iş ortağı merkezi arasında ortak satış başvuruları eşitlemesini test edebilirsiniz.
 
 ### <a name="pre-requisites"></a>Ön koşullar
 
-İş Ortağı Merkezi ve Salesforce CRM'de referansları eşitlemek için Power Automate çözümünün Microsoft'a özgü referans alanlarını net bir şekilde delelenmesi gerekir. Bu kimlik, satış ekibinize ortak satış için Microsoft ile paylaşmak istediğiniz referansları belirleme olanağı sağlar.
+Iş ortağı merkezi ve Salesforce CRM genelindeki başvuruları senkronize etmek için, Power otomatikleştir çözümünün Microsoft 'a özgü başvuru alanlarını açıkça ortadan kaldırma ihtiyacı vardır. Bu kimlik, satıcı ekiplerinizi, ortak satış için Microsoft ile hangi referansları paylaşmak istediğlerine karar vermenize olanak sağlar.
 
-Salesforce CRM çözümü fırsat varlığı için Referans Eşitleme İş Ortağı Merkezi bir dizi özel **alan** mevcuttur. CRM yönetici kullanıcısnın Fırsat özel alanlarıyla ayrı bir CRM **bölümü oluşturması** gerekir.
+Bir dizi özel alan, Salesforce CRM çözümü **fırsat** varlığı Için Iş Ortağı Merkezi başvuruları eşitlemesinin bir parçası olarak kullanılabilir. Bir CRM yönetici kullanıcısının **fırsat** özel alanlarıyla ayrı bir CRM bölümü oluşturması gerekir.
 
-Aşağıdaki özel alanlar CRM bölümünün bir parçası olması gerekir:
+Aşağıdaki özel alanlar CRM bölümünün bir parçası olmalıdır:
 
-- **İş Ortağı Merkezi ile eşitleme:** Fırsatın Microsoft İş Ortağı Merkezi ile eşit İş Ortağı Merkezi
+- **Iş Ortağı Merkezi Ile Eşitle**: fırsatın Microsoft Iş Ortağı Merkezi ile eşitlenmeyeceğini belirtir
 
-- **Referans Tanımlayıcısı:** Microsoft referans başvurusu için salt İş Ortağı Merkezi alanı
+- **Başvuru tanımlayıcısı**: Microsoft Iş Ortağı Merkezi başvurusu için salt okunurdur bir tanımlayıcı alanı
 
-- **Referans Bağlantısı:** Microsoft İş Ortağı Merkezi'de referansın salt okunur bağlantısı
+- **Başvuru bağlantısı**: Microsoft Iş Ortağı Merkezi 'nde başvuruya yönelik salt okunurdur bir bağlantı
 
-- **Microsoft nasıl yardımcı olabilir:** Referans için Microsoft'tan gereken yardım
+- **Microsoft 'un yardımı**: başvuru için Microsoft 'un gerekli yardımı
 
-- **Ürünler:** Bu fırsatla ilişkili ürünlerin listesi
+- **Ürünler**: Bu fırsatla ilişkili ürünlerin listesi
 
-- **Denetim:** Referanslarla eşitleme için salt okunur bir denetim İş Ortağı Merkezi izi
+- **Denetim**: Iş Ortağı Merkezi başvurularına eşitleme için salt okunurdur bir denetim izi
 
-### <a name="scenarios"></a>Senaryo:
+### <a name="scenarios"></a>LARLA
 
-1. Referans CRM'de oluşturulduğunda veya güncelleştirildiğinde ve referansta eşit İş Ortağı Merkezi:
+1. CRM 'de başvuru oluşturulduğunda veya güncelleştirilirken ve Iş Ortağı Merkezi 'nde eşitlendiğinde başvuru eşitlemesi:
 
-   1. CRM'nin Fırsat bölümünde görünürlüğü olan kullanıcıyla Salesforce CRM **ortamında** oturum açma.
+   1. CRM 'nin **fırsat** bölümünde görünürlük olan KULLANıCıYLA Salesforce CRM ortamınızda oturum açın.
 
    2. Salesforce CRM ortamında "yeni fırsat" oluşturduğunuzda aşağıdaki bölümün mevcut olduğundan emin olun.
 
-      :::image type="content" source="images/salesforce/salesforce-scenario-1.png" alt-text="Salesforce ortamı":::
+      :::image type="content" source="images/salesforce/salesforce-scenario-1.png" alt-text="Salesforce ortamı.":::
 
    3. Bu fırsatı Microsoft Iş Ortağı Merkezi ile eşleştirmek için, kart görünümünde aşağıdaki alanları ayarlamış olduğunuzdan emin olun:
 
@@ -291,7 +291,7 @@ Aşağıdaki özel alanlar CRM bölümünün bir parçası olması gerekir:
 
     5. **Açık fırsatlara** gidin. Microsoft Iş Ortağı Merkezi 'nde oluşturulan başvuru artık Salesforce CRM 'de eşitlendi.
 
-       :::image type="content" source="images/salesforce/salesforce-casino-e.png" alt-text="Salesforce fırsat ekranı":::
+       :::image type="content" source="images/salesforce/salesforce-casino-e.png" alt-text="Salesforce fırsat ekranı.":::
 
     6. Eşitlenmiş bir başvuruyu seçtiğinizde, kart Görünümü ayrıntıları doldurulur.
 

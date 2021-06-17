@@ -6,28 +6,28 @@ ms.service: partner-dashboard
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 04/26/2021
-ms.openlocfilehash: 5ba7e5a4713c3cb92e7c5b8eee8e0370c8099d14
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 06abd261e4d71b2e5e37eb2d77c1e62794c99a95
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110152758"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112277768"
 ---
 # <a name="tax-details-for-commercial-marketplace-publishers"></a>Ticari market yayıncıları için vergi bilgileri
 
 **Uygun roller:** Genel yönetici
 
-Bu sayfada, ticari Market Yayımcıları (Yayımcılar) ve Tüketici Market Geliştiricileri (Geliştiriciler) için vergi sorumlulukları ve vergi konuları, sırasıyla [Microsoft Azure Market Yayımcı](/legal/marketplace/msft-publisher-agreement) Sözleşmesi ve [](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4o4bH)Uygulama Geliştiricisi Sözleşmesi ile uyumlu yayımcı/geliştirici ürünleri satın almaları ile bağlantılı olarak ayarlanacak.  Aşağıdaki bilgiler, Microsoft Yayımcı Sözleşmesi'nin ve sözleşmenin hüküm ve koşullarının yanı sıra bu koşulların yerine Uygulama Geliştiricisi Sözleşmesi.  Aksi belirtilmedikçe, aşağıdaki bilgiler ürünlerini/tekliflerini Microsoft Marketleri aracılığıyla satışa sunan hem Ticari Market Yayımcıları hem de Tüketici Marketi Geliştiricileri için geçerlidir. 
+Bu sayfada, ticari Market Yayımcıları (Yayımcılar) ve Tüketici Market Geliştiricileri (Geliştiriciler) için vergi sorumlulukları ve vergi konuları, sırasıyla [Microsoft Azure Market Yayımcı](/legal/marketplace/msft-publisher-agreement) Sözleşmesi ve [](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4o4bH)Uygulama Geliştiricisi Sözleşmesi ile uyumlu yayımcı/geliştirici ürünleri satın almaları ile bağlantılı olarak ayarlanacak.  Aşağıdaki bilgiler, Microsoft Yayımcı Sözleşmesi'nin ve sözleşmenin hüküm ve koşullarının yanı sıra bu koşulların yerine Uygulama Geliştiricisi Sözleşmesi.  Aksi belirtilmedikçe, aşağıdaki bilgiler hem Ticari Market Yayımcıları hem de Tüketici Marketi Geliştiricileri için geçerlidir ve bu geliştiriciler ürünlerini/tekliflerini Microsoft Marketleri üzerinden satışa sunar. 
 
 ## <a name="end-customer-taxation"></a>End Customer Taxation
 
 Microsoft'un ve Yayımcıların/Geliştiricilerin satış, kullanım, mal ve hizmetler, katma değer veya benzer vergiler gibi sorumluluklarının her biri, son müşteri satışları **(Son** Müşteri Vergileri) Yayımcıların/Geliştiricilerin ürünleri/teklifleri son müşterilere satış için Microsoft Market'lar aracılığıyla satışa sunduğu ülkeye bağlıdır. Aşağıdaki tabloda, müşteriler aracılığıyla satışa uygun olan ülkelerdeKimlik Müşteri Vergilerinin koşulları ve sorumluluğu Microsoft Market verilmiştir.  Aşağıdaki bilgiler değişebilir ve geçerli, doğru bilgiler için bu sayfayı gözden geçirmek Yayımcılar/Geliştiricilerden sorumludur.
 
-**Yayımcı/Geliştirici tarafından yönetilen ülkelerde** Microsoft, Yayımcı/Geliştirici için bir aracı veya yetki (geçerli) olarak hareket ediyor. Yayımcılar/geliştiriciler, yayımcıların/geliştiricilerin, kayıt, vergi hesaplama, vergi tahsilatı, vergi havalesi, müşterilerin iş durumunun doğrulanması ve müşterilere vergi faturaları sağlama dahil, son müşteri vergilendirme ve yönetimi için gereken tüm uyumluluğun belirlenmesi için tek sorumluluğu olduğunu kabul ediyor ve kabul ediyor. Yayımcılar/geliştiriciler, yayımcı/geliştirici tarafından yönetilen bir ülkede herhangi bir satışla ilgili olarak, Microsoft şu anda, yayımcılar/geliştiricilerin müşterilere vergi faturaları sağlaması için gereken işlem ayrıntılarını sağlayamayabilir. 
+**Yayımcı/Geliştirici tarafından yönetilen ülkelerde** Microsoft, Yayımcı/Geliştirici'nin bir aracısı veya aracısı (uygulanabilir) olarak görev yapıyor. Yayımcılar/Geliştiriciler, Yayımcıların/Geliştiricilerin kayıt, vergi hesaplaması, vergi toplama, vergi ödemesi, müşterilerin iş durumunu doğrulama ve müşterilere vergi faturaları sağlama dahil olmak üzere tüm uyumlulukları belirleme ve yönetme ve yönetme sorumluluğunun tek sorumluluğu olduğunu kabul eder ve kabul eder. Yayımcılar/Geliştiriciler, Yayımcı/Geliştirici Tarafından Yönetilen Ülkede yapılan herhangi bir satışla ilgili olarak, Microsoft'un şu anda Yayımcılar/Geliştiriciler için müşterilere vergi faturaları sağlamaları için gereken işlem ayrıntılarını sağlayamayabileceklerini kabul eder. 
 
-Microsoft **tarafından yönetilen ülkelerde**, Microsoft yayımcı/geliştiricinin bir Aracısı olarak davranır. Microsoft, belirli vergileri hesaplama, toplama ve/veya yeniden ayırma dahil olmak üzere, son müşteri vergilendirme yönetiminin sorumluluğunu üstlenir. Ticari Market için bu, vergi kayıt numaraları veya muafiyet sertifikaları elde ederek son müşterilerin iş durumunun doğrulanmasını de içerebilir. Microsoft, yerel bağlı kuruluşları ya da yerel olarak kaydedilen uzak bağlı kuruluşları kullanarak son müşteri Vergilenmasını yönetir. Microsoft 'un kayıt numarası altında Microsoft faturaları. Microsoft, Microsoft 'un vergi dönüşinden son müşterilerden toplanan tüm vergileri içerir.
+**Microsoft tarafından yönetilen ülkelerde** Microsoft, Yayımcı/Geliştirici Aracısı olarak hareket ediyor. Microsoft, belirli vergileri hesaplama, toplama ve/veya geri ödeme de dahil olmak üzere Son Müşteri Vergisini yönetme sorumluluğunu üstlenen bir hizmettir. Ticari Market için bu, vergi kayıt numaralarını veya muafiyet sertifikalarını edinerek son müşterilerin iş durumunu doğrulamayı da içerebilir. Microsoft, Son Müşteri Vergisini yerel bağlı kuruluşlar veya yerel olarak kayıtlı uzak bağlı kuruluşlar aracılığıyla yönetir. Microsoft'un kayıt numarası altındaki Microsoft faturaları. Microsoft, Microsoft'un vergi iadesiyle ilgili olarak son müşterilerden toplanan vergileri içerir.
 
-Microsoft, Microsoft 'un eylemlerin Microsoft tarafından yönetilen ülkelerde yayımcı/geliştirici yükümlülüklerinden tamamen karşılamasına hiçbir garanti vermez.  Microsoft tarafından yönetilen tüm ülkeler için, Microsoft tarafından yönetilen vergi havalelerinin, yayımcıların '/geliştiricilerin ' uyumluluk gereksinimlerini yeterince adreslenmediğini belirlememek üzere yayımcılar/geliştiricilerin kendi vergi danışmanlarıyla birlikte çalışmalarını önemle önerir. Bu, yayımcıların/geliştiricilerin ürünlerini/tekliflerini satmakta olduğu Microsoft tarafından yönetilen tüm ülkelerde özellikle önemlidir.  Microsoft, Microsoft tarafından yönetilen ülkelerde yayımcı/geliştirici Aracısı olarak davranır.
+Microsoft, Microsoft'un eylemlerinin Microsoft tarafından yönetilen ülkelerde yayımcı/geliştirici yükümlülüklerini tamamen karşılay bir garanti etmez.  Microsoft tarafından yönetilen tüm ülkelerde Microsoft, Yayımcıların/Geliştiricilerin, Microsoft tarafından yönetilen vergi havalesini Yayımcıların/Geliştiricilerin uyumluluk gereksinimlerine yeterince uygun olup olmadığının tespit etmek için kendi vergi danışmanlarıyla birlikte çalışması önemle tavsiye edilir. Bu durum özellikle Yayımcıların/Geliştiricilerin ürünlerini/tekliflerini satacakları Microsoft tarafından yönetilen ülkeler için kritik öneme sahip.  Microsoft, Microsoft tarafından yönetilen ülkelerde Yayımcı/Geliştirici aracısı olarak hareket ediyor.
 
 Kurumsal **Bayi ülkelerde** Microsoft, Yayımcı/Geliştirici aracısı yerine kurumsal bayi olarak hareket eder ve Yayımcı/Geliştirici ürünlerini/tekliflerini son müşterilere satış için kullanılabilir hale Microsoft Market.  Yayımcılar/Geliştiriciler, Microsoft'a ürün/teklif satışıyla ilgili satış, kullanım, mal ve hizmetler, katma değer veya benzer vergilerden sorumludur ve son müşterilere yeniden satışla ilgili tüm Son Müşteri Vergilerinden Microsoft sorumludur.
 
@@ -56,8 +56,8 @@ Kurumsal **Bayi ülkelerde** Microsoft, Yayımcı/Geliştirici aracısı yerine 
 |Butan|Gabon|Marshall Adaları|
 |Bolivya|Gana|Martinque|
 |Bonaire|Gürcistan|Moritanya|
-|Boşnakça & İleri|Cebelitarık|Mauritius|
-|Botsvana|Grönland|Ma Ote|
+|Bosna & Hersek|Cebelitarık|Mauritius|
+|Botsvana|Grönland|Ma ote|
 |Bouvet Adası|Grenada|Mikronezya|
 |Britanya Virjin Adaları|Guadeloupe|Moldova
 |Brunei|Guam|Moğolistan|
@@ -67,7 +67,7 @@ Kurumsal **Bayi ülkelerde** Microsoft, Yayımcı/Geliştirici aracısı yerine 
 |Kamboçya|Gine-Bissau|Mozambik|
 |Kamerun|Guyana|Myanmar|
 |Cayman Adaları|Haiti|Namibya|
-|Orta Afrika Cumhuriyeti|Heard Island & McDonald Adaları|Nauru|
+|Orta Afrika Cumhuriyeti|Heard Adası & McDonald Adaları|Nauru|
 |Çad|Honduras|Nepal|
 |Christmas Adası|Irak|Nikaragua|
 |Cocos (Keeling) Adaları|İsrail|Nijer|
@@ -77,7 +77,7 @@ Kurumsal **Bayi ülkelerde** Microsoft, Yayımcı/Geliştirici aracısı yerine 
 
 ### <a name="microsoft-managed-countries"></a>Microsoft tarafından yönetilen ülkeler
 
-| Ülkeler | Ülkeler (devam) | Ülkeler (devam) | Ülkeler (devam) |
+| Ülkeler | Ülkeler (devamı) | Ülkeler (devamı) | Ülkeler (devamı) |
 |---------|-----------|--------|----|
 |Ermenistan|Finlandiya|Lüksemburg|Singapur|
 |Avusturya|Fransa|Malezya|Slovakya|
@@ -86,10 +86,10 @@ Kurumsal **Bayi ülkelerde** Microsoft, Yayımcı/Geliştirici aracısı yerine 
 |Belçika|Macaristan|Hollanda|Güney Kore|
 |Kanada|İzlanda|Yeni Zelanda|İspanya|
 |Şili|Hindistan|Norveç|İsveç|
-|Columbia|Endonezya|Polonya|İsviçre|
+|Kolumbiyası|Endonezya|Polonya|İsviçre|
 |Hırvatistan|İrlanda|Portekiz|Tayvan|
 |Kıbrıs|İtalya|Romanya|Türkiye|
-Çekya|Letonya|Rusya|BAE|
+Czechia|Letonya|Rusya|BAE|
 |Danimarka|Liechtenstein|Suudi Arabistan|Birleşik Krallık|
 |Estonya|Litvanya|Sırbistan|Porto Riko dahil Birleşik Devletler|
 
@@ -112,49 +112,49 @@ Yayımcılar/geliştiriciler tarafından yönetilen ülkelerde, Microsoft, yayı
 
 Microsoft tarafından yönetilen ilgili ülkelerde ve satıcılardan, Microsoft, yayımcıların/geliştiricilerin Mağazası ücretine ve geçerli olan vergilere göre yapılır: son müşteri vergi, stopaj vergisi ve satış, kullanım, mal ve hizmetler, katma değer veya mağaza ücretine benzer vergiler. Microsoft 'un yayımcılar/geliştiriciler için kullanılabilir hale getiren [raporlar](payout-statement.md) bu vergilerin miktarını belirler. 
 
-Microsoft, Yayımcıların/Geliştiricilerin ürünler/teklifler aracılığıyla son müşterilere satış için ürün/teklif sunmak için aşağıdaki ülkelerde mağaza ücretlerine Microsoft Market toplar:
+Microsoft, yayımcıların/geliştiricilerin, Microsoft Market (s) üzerinden son müşterilere satışa sunulmasını sağlayan aşağıdaki ülkelerde, mağaza ücretleri üzerinde vergi toplar:
 
-|**Ülke**|**Ticari Market**|**Tüketici Marketi**|
+|**Ülke**|**Ticari Market**|**Tüketici marketi**|
 |----------------|-----------------------------|-----------------------|
-|Avustralya|Hizmet ücretiyle ilgili vergi|Hizmet ücreti vergisi|
-|Kanada|Hizmet ücretiyle ilgili vergi|Hizmet ücretiyle ilgili vergi|
-|Meksika|Yok|Hizmet Ücreti vergisi|
-|Yeni Zelanda|Hizmet ücretiyle ilgili vergi|Hizmet ücretiyle ilgili vergi|
-|Singapur|Hizmet ücretiyle ilgili vergi|Hizmet ücretiyle ilgili vergi|
+|Avustralya|Hizmet ücreti üzerinden vergi|Hizmet ücreti üzerinden vergi|
+|Kanada|Hizmet ücreti üzerinden vergi|Hizmet ücreti üzerinden vergi|
+|Meksika|Yok|Hizmet ücreti üzerinden vergi|
+|Yeni Zelanda|Hizmet ücreti üzerinden vergi|Hizmet ücreti üzerinden vergi|
+|Singapur|Hizmet ücreti üzerinden vergi|Hizmet ücreti üzerinden vergi|
 
 ## <a name="commercial-marketplace-payout-scenarios"></a>Ticari Market ödeme senaryoları
 
-### <a name="end-customer-taxation"></a>Son müşteri vergileme
+### <a name="end-customer-taxation"></a>Son müşteri vergilendirme
 
-- Senaryo bir: Yayımcı tarafından yönetilen bir ülkede müşteri satın alma teklifi
+- Senaryo One: Yayımcı tarafından yönetilen bir ülke satın alma teklifinin müşterisi
 
-  :::image type="content" source="images/tax/scenario-one.png" alt-text="Yayımcının nasıl ödemesi olduğunu gösteren grafik.":::
+  :::image type="content" source="images/tax/scenario-one.png" alt-text="Yayımcının nasıl ödeme yapıldığını gösteren grafik.":::
 
-- Senaryo iki: Microsoft tarafından yönetilen bir ülke satın alma teklifinde müşteri (Yayımcı ülkeyle ilgisiz)
+- Senaryo iki: Microsoft tarafından yönetilen bir ülkede satın alma teklifinin müşterisi (yayımcı ülkesi ilgisiz)
 
-  :::image type="content" source="images/tax/scenario-two.png" alt-text="Microsoft tarafından yönetilen ülkede vergileri gösteren grafik":::
+  :::image type="content" source="images/tax/scenario-two.png" alt-text="Microsoft tarafından yönetilen ülkede vergilendirme gösteren grafik.":::
 
-- Senaryo üç: Yabancı yayımcı, Microsoft tarafından yönetilen bir ülkede bulunan EU-KDV Kayıtlı Müşteriye sınırlar arası satış yapar
+- Senaryo üç: yabancı Yayımcı, Microsoft tarafından yönetilen bir ülkede bulunan bir AB-KDV kayıtlı müşterisi için çapraz sınır satışı yapar
 
-  :::image type="content" source="images/tax/scenario-three.png" alt-text="AB-KDV'nin vergiyi nasıl etkilediğini gösteren grafik"::: 
+  :::image type="content" source="images/tax/scenario-three.png" alt-text="AB-KDV 'nin vergiyi nasıl etkilediğini gösteren grafik."::: 
 
 - Senaryo dört: yabancı Yayımcı, Microsoft tarafından yönetilen bir ülkede ya da Isviçre 'deki bir müşteriye ait yurtiçi olmayan bir satışla bir müşteriye yurtiçi satışı yapar
 
-  :::image type="content" source="images/tax/scenario-four.png" alt-text="KDV 'nin nasıl işlendiğini gösteren grafik":::
+  :::image type="content" source="images/tax/scenario-four.png" alt-text="KDV 'nin nasıl işlendiğini gösteren grafik.":::
 
 - Senaryo beş: Microsoft tarafından yönetilen bir ülkede satın alma, mağaza servisi ücreti üzerinden vergi olduğunu teklif eden müşteri
 
-  :::image type="content" source="images/tax/scenario-five.png" alt-text="Mağaza hizmeti ücretinin vergiyi nasıl etkilediğini gösteren grafik":::
+  :::image type="content" source="images/tax/scenario-five.png" alt-text="Mağaza hizmeti ücretinin vergiyi nasıl etkilediğini gösteren grafik.":::
 
 ### <a name="withholding-tax"></a>Stopaj vergisi
 
 - Senaryo bir: yabancı Yayımcı (vergi profilinde geçerli vergi anlaşmalar avantajları olmadan) bıze satışı yapar. 
 
-  :::image type="content" source="images/tax/withholding-one.png" alt-text="Vergi anlaşmalar olmadan stopaj vergisini gösteren grafik":::
+  :::image type="content" source="images/tax/withholding-one.png" alt-text="Vergi anlaşmalar olmadan stopaj vergisini gösteren grafik.":::
 
 - Senaryo iki: bir anlaşmalar sayesinde yabancı Yayımcı (vergi profilinde yüzde sıfır oranına sahip geçerli vergi fırsatısına sahip olan), bıze müşteri satışı yapar. 
 
-  :::image type="content" source="images/tax/withholding-two.png" alt-text="Vergi treaile stopaj vergisini gösteren grafik":::
+  :::image type="content" source="images/tax/withholding-two.png" alt-text="Vergi anlaşmalar ile stopaj vergisini gösteren grafik.":::
 
 ## <a name="next-steps"></a>Sonraki adımlar
 

@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 15658abdbf23c1181fb411fd66673fc9699250ae
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 8ab1ec5001e3b21d9661d0db0e7b8e51f12acda2
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855174"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112277479"
 ---
 # <a name="product-licenses-report-in-the-partner-center-insights-dashboard"></a>Partner Center Insights panosundaki ürün lisansları raporu
 
@@ -34,7 +34,7 @@ ms.locfileid: "109855174"
 
 Özet bölümü, satılan, dağıtılan ve kullanılan bulut Ürün lisanslarıyla ilişkili ana performans göstergelerinin (KPI) anlık görüntü görünümünü sağlar. Bu, müşterilerinize satılan lisanslarda etkin kullanımı izlemenize yardımcı olur.
 
-:::image type="content" source="images/pci/pci-licenses-report-summary-1.png" alt-text="Lisans raporu Özeti":::
+:::image type="content" source="images/pci/pci-licenses-report-summary-1.png" alt-text="Lisans raporu Özeti.":::
 
 Özetin her bölümü hakkında daha fazla bilgi için aşağıya bakın:
 
@@ -61,27 +61,27 @@ ms.locfileid: "109855174"
 
 Haritada konum yakınlaştırmak için kılavuzda bir ülke arayabilir ve seçebilirsiniz. Varsayılan görünüme dönmek için haritanın **giriş** seçeneğine basın. Müşteri ülkesine göre geçerli lisansları ve etkin lisansları görüntülemek için haritaya gelin. Kılavuzdaki her iki alan de sıralanabilir.
 
-:::image type="content" source="images/pci/pci-licenses-report-geo-spread-2.png" alt-text="Lisans coğrafi yayma":::
+:::image type="content" source="images/pci/pci-licenses-report-geo-spread-2.png" alt-text="Lisans coğrafi yayılmasının.":::
 
 ## <a name="license-adds"></a>Lisans eklemeleri
 
 Bu görünümde, seçilen tarih aralığında eklenen lisansların eğilimi gösterilmektedir. 
 
-Ürüne ve hizmete/iş yüküne göre eğilimi sunmak için ekranın üst kısmında bir Ürün ve SKUS açılan listesinden bir hizmet/iş yükü seçin.
+Bu eğilimi ürün ve hizmet/iş yüküne göre sunmak için, ekranın en üstündeki bir ürünü ve SKU 'Lar açılan listesinden bir hizmet/iş yükünü seçin.
 
-X ekseni seçilen tarih aralığının aylarını temsil eder. Y ekseni, eklenen lisans sayısını temsil eder. Belirli bir dönemi yakınlaştırmak için grafiğin üst kısmında yer alan kaydırıcıyı kullanın.
+X ekseni, seçilen tarih aralığının ayları temsil eder. Y ekseni eklenen lisansların sayısını temsil eder. Belirli bir dönemi yakınlaştırmak için grafiğin üstündeki kaydırıcıyı kullanın.
 
-:::image type="content" source="images/pci/pci-licenses-report-license-adds-3.png" alt-text="lisans ekler":::
+:::image type="content" source="images/pci/pci-licenses-report-license-adds-3.png" alt-text="Lisans eklemeleri.":::
 
 ## <a name="license-distribution"></a>Lisans dağıtımı
 
-Bu görünümde, ürüne ve müşteri ülkenize/bölgenize göre müşteri lisanslarınızı gösteren bir döküm yer almaktadır. Ürüne göre lisans pasta **grafiğinde bir** ürün seçerek, bitişik grafikte müşteri bölgeye göre lisans dökümü görüntülenir.
+Bu görünüm, ürün ve müşteri ülkesi/bölgesi ile müşteri lisanslarınızın dökümünü gösterir. Ürün pasta grafiği **tarafından lisansdaki** bir ürünü seçtiğinizde, bitişik grafik size müşteri bölgesine göre bir lisans dökümü gösterir.
 
-:::image type="content" source="images/pci/pci-licenses-report-license-distrib-4.png" alt-text="lisans dağıtımı":::
+:::image type="content" source="images/pci/pci-licenses-report-license-distrib-4.png" alt-text="lisans dağıtımı.":::
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-Daha fazla rapor için [bkz. İş Ortağı Merkezi Insights](partner-center-insights.md).
+Daha fazla rapor için bkz. [Partner Center öngörüleri](partner-center-insights.md).
 
 >[!NOTE] 
-> Bu raporu güçlü bir şekilde kullanarak ham verileri Öngörüler panosunun Raporları İndir bölümünden indirebilirsiniz. [Daha Fazla Bilgi](pci-download-reports.md)
+> Bu raporu, Öngörüler panosundaki raporları Indir bölümünden elde eden ham verileri indirebilirsiniz. [Daha Fazla Bilgi](pci-download-reports.md)

@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2053c4b0a31232a6e2e9182a11fad2e2048d96f1
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: e480481304bda816afe0bf08c66fcb4b063f1f49
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110152894"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112277547"
 ---
 # <a name="competencies-report-available-from-the-partner-center-insights-dashboard"></a>Iş Ortağı Merkezi Öngörüler panosundan Uzmanlıklar raporu kullanılabilir
 
@@ -26,32 +26,32 @@ Uzmanlığın yaşam döngüsü, uzmanlığın kullanımı ve diğer uzmanlık r
 
 ## <a name="competency-life-cycle"></a>Uzmanlığa yaşam döngüsü
 
-Yaşam döngüsü açısından iş ortakları, belirli uzmanlıklar sağlamak için gerekli olan ana performans göstergelerini (KPI) oluşturarak başlar. Tüm gerekli ölçümler genelinde belirli bir uzmanlığa yönelik eşik kümesine ulaştıktan sonra, bu, bir uzmanlığa **uygun** hale gelir. İş ortakları daha sonra uzmanlığa ulaşmak ve bu uzmanlığa karşı **etkin** hale gelmesi için uzmanlığa sahip teklif (gümüş veya altın) için ödeme yapabilir. Uzmanlığın **etkin** olduğu bir yıl, uzmanlığın sorumlu olma tarihinden itibaren geçerli olur (Bu, uzmanlığın **yıldönümü tarihi** olarak adlandırılır). Yıldönümü yılının sonunda iş ortaklarının uzmanlık gereksinimlerini karşılaması gerekir. Bu gereksinimleri tekrar karşılamıyorsa yetkinliği kaybederler. Daha **önce elde** edilen bir uzmanlık için At risk durumu, belirli temel ölçümlerin bu uzmanlık yıldönümü tarihi olan eşiğin altına **düşmesinin hedeflenği anlamına gelir.**
+Yaşam döngüsü açısından iş ortakları, belirli uzmanlıklar sağlamak için gerekli olan ana performans göstergelerini (KPI) oluşturarak başlar. Tüm gerekli ölçümler genelinde belirli bir uzmanlığa yönelik eşik kümesine ulaştıktan sonra, bu, bir uzmanlığa **uygun** hale gelir. İş ortakları daha sonra uzmanlığa ulaşmak ve bu uzmanlığa karşı **etkin** hale gelmesi için uzmanlığa sahip teklif (gümüş veya altın) için ödeme yapabilir. Uzmanlığın **etkin** olduğu bir yıl, uzmanlığın sorumlu olma tarihinden itibaren geçerli olur (Bu, uzmanlığın **yıldönümü tarihi** olarak adlandırılır). Yıldönümü yılının sonunda iş ortaklarının uzmanlığa gereksinimleri karşılaması gerekir. Bu gereksinimleri tekrar karşılamıyorsa, uzmanlığa zarar verirler. Daha önce kullanılan bir uzmanlığa yönelik **risk** durumu, belirli önemli ölçümlerin, bu yetenek **yıldönümü tarihindeki** eşiğin altına düşecek şekilde yansıtılmasıdır.
 
-## <a name="competency-attainment"></a>Uzmanlık elde etme
+## <a name="competency-attainment"></a>Uzmanlığa erişme
 
-Her uzmanlık, yerine getirmek için belirli bir gereksinimler kümesine sahiptir. Bulut uzmanlığı gereksinimleri iki kategoriye ayrılır: beceriler ve performans.
+Her bir uzmanlığa karşılamak için belirli bir gereksinim kümesi vardır. Bulut uzmanlığına yönelik gereksinimler iki kategoriye ayrılır: yetenekler ve performans.
 
-- Beceriler: Gereksinimler genellikle şirketi içindeki kişilerin geçmesi gereken sınavları, değerlendirmeleri veya sertifikaları içerir.
+- Yetenekler: gereksinimler genellikle şirketinizdeki kişilerin geçmesi gereken sınavları, değerlendirmeleri veya sertifikaları içerir.
 
-- Performans: Yetkinliğe uygun olmak için, şirketinizin uzmanlık alanına uygun olan belirli performans eşiklerini karşılaması gerekir. Örneğin, şirketinizin son 12 ay içinde en az Azure tüketimini karşılaması gerekiyor olabilir.
+- Performans: bir uzmanlığa uygun olmak Için şirketiniz, uzmanlık alanına göre hizalı belirli performans eşiklerini karşılamalıdır. Örneğin, şirketinizin son 12 ay boyunca en düşük miktarda Azure kullanımını karşılaması gerekebilir.
 
-## <a name="competencies-report-details"></a>Yetkinlikler rapor ayrıntıları
+## <a name="competencies-report-details"></a>Ylilikler rapor ayrıntıları
 
-Yetkinlikler raporundan aşağıdaki bölümleri kullanabilirsiniz:
+Aşağıdaki bölümleri Uzmanlıklar raporundan görebilirsiniz:
 
 - Özet
-- Uzmanlık ölçümleri analizi
+- Uzmanlığa yönelik ölçüm Analizi
 - Uzmanlık geçmişi
 
  > [!NOTE]
- > Bu rapor, Öngörüler panosundan edinebilirsiniz. Bu raporu görüntülemek için Genel Yönetici, Hesap Yöneticisi, Rapor Görüntüleyicisi İş Ortağı Merkezi Yönetici Rapor Görüntüleyicisi gibi belirli bir rol atanmış olması gerekir. Daha fazla bilgi için, bkz. şirketinizin Genel Yöneticisi. Bu rapora özgü veri türleri yalnızca Yönetici Rapor Görüntüleyicisi ayrıcalıklarına sahip kullanıcılar tarafından da kullanılabilir.
+ > Bu rapor, Öngörüler panosundan kullanılabilir. Bu raporu görüntülemek için Iş Ortağı Merkezi 'nde genel yönetici, hesap yöneticisi, rapor Görüntüleyicisi veya Executive rapor Görüntüleyicisi gibi belirli bir rol atanması gerekir. Daha fazla bilgi için şirketinizin genel Yöneticisi ' ne bakın. bu rapordaki belirli veri türleri yalnızca, Executive rapor Görüntüleyicisi ayrıcalıklarına sahip kullanıcılar tarafından kullanılabilir.
 
 ### <a name="summary"></a>Özet
 
-Özet görünümü, uzmanlık yaşam döngüsünün tüm aşamalarında her uzmanlık düzeyinde (Altın/Gümüş) adlarıyla birlikte bir yetkinlik sayısı sunar. Uzmanlık yaşam döngüsünün aşamaları şunlardır: **Başlatıldı,** **Nitelikli,** **Etkin** ve **Risk altında.** Örnek: Bulut Uzmanlığı gereksinimleri iki kategoriye ayrılır: beceriler ve performans.
+Özet görünümü, uzmanlık yaşam döngüsünün tüm aşamalarında her bir uzmanlık düzeyinde (Altın/Gümüş) adlara sahip Uzmanlıklar sayısını gösterir. Uzmanlık yaşam döngüsünün aşamaları şunlardır: **başlatıldı**, **nitelikli**, **etkin** ve **riskli risk**. Örnek: bulut uzmanlığına ilişkin gereksinimler iki kategoride yer almalıdır: beceriler ve performans.
 
-- Başlatıldı: Devam eden temel gereksinimlerin biri veya daha fazlası için yetkinlik sayısı.
+- Başlatıldı: sürmekte olan bir veya daha fazla temel gereksinimi olan uzmanlık sayısı.
 Uzmanlıklar, uzmanlığa göre (Gümüş/altın) uzmanlık adlarına göre sayılır.
 
 - Nitelikli: gereksinimleri karşıladığınız Uzmanlıklar, ancak henüz ilişkili gümüş/altın teklifini satın almamış olabilir veya olmayabilir. Uzmanlık alanları olan uzmanlık düzeyi (Gümüş/altın) kadar nitelikli uzmanlık sayısı dökümü.
@@ -61,7 +61,7 @@ Uzmanlıklar, uzmanlığa göre (Gümüş/altın) uzmanlık adlarına göre say�
 - Risk altında (sonraki yıl): Şu anda **etkin** olan ve bir sonraki yıla ait gereksinimlerin karşılanmadığında de **riskli** olan uzmanlık sayısı.
 Bir sonraki yıl için uygun olmayan bir risk altında olan Uzmanlıklar (Gümüş/altın gibi Gümüşlik düzeyine göre).
 
-:::image type="content" source="images/pci/pci-competencies-summary-1.png" alt-text="Uzmanlıklar Özeti":::
+:::image type="content" source="images/pci/pci-competencies-summary-1.png" alt-text="Uzmanlıklar Özeti.":::
 
 ### <a name="competency-metric-analysis"></a>Uzmanlığa yönelik ölçüm Analizi
 
@@ -72,7 +72,7 @@ Rapor, aşağıdaki iki tarih aralıklarıyla özetlenebilir:
 1. TTA görünümü: Bu, son 12 ay içindeki iş ortağı performansını sıralar (TTD).
 2. Yıldönümü yıl görünümü: Bu, önceki Yıldönümü tarihinden sonraki yıl tarihine kadar iş ortağı performansını numaralandırır.
 
-:::image type="content" source="images/pci/pci-competencies-comp-metrics-analysis-2.png" alt-text="uzmanlığa yönelik ölçüm Analizi":::
+:::image type="content" source="images/pci/pci-competencies-comp-metrics-analysis-2.png" alt-text="uzmanlığa yönelik ölçüm analizi.":::
 
 > [!NOTE]
  > Tüm ölçümler analizin kapsamında değildir. Şu anda, öğrenme ve Sertifikasyon ile ilişkili ölçümler, Uzmanlıklar raporunda desteklenmez. Bulut Business Applications (CBA) Uzmanlıklar, **etkin** uzmanlık durumu için ölçüm analizinde de desteklenmemektedir.
@@ -81,11 +81,11 @@ Rapor, aşağıdaki iki tarih aralıklarıyla özetlenebilir:
 
 Bu görünüm, şimdiye kadar kullandığınız tüm uzmanlardan, uzmanlık düzeyi ve uzmanlık aşamasına sahip olan ayrıntılı bir tablo gösterir.
 
-:::image type="content" source="images/pci/pci-competencies-comp-history-3.png" alt-text="uzmanlık geçmişi":::
+:::image type="content" source="images/pci/pci-competencies-comp-history-3.png" alt-text="uzmanlık geçmişi.":::
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-- Daha fazla rapor için [bkz. İş Ortağı Merkezi Insights](partner-center-insights.md).
+- Daha fazla rapor için bkz. [Partner Center öngörüleri](partner-center-insights.md).
 
 >[!NOTE] 
-> Bu raporu güçlü bir şekilde kullanarak ham verileri Öngörüler panosunun Raporları İndir bölümünden indirebilirsiniz. [Daha Fazla Bilgi](pci-download-reports.md) 
+> Bu raporu, Öngörüler panosundaki raporları Indir bölümünden elde eden ham verileri indirebilirsiniz. [Daha Fazla Bilgi](pci-download-reports.md) 

@@ -1,148 +1,148 @@
 ---
-title: CSP programındaki dolaylı sağlayıcılarla çalışma
+title: CSP programında dolaylı sağlayıcılarla çalışma
 ms.topic: how-to
 ms.date: 01/27/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Müşteri desteği ve faturalandırmayla ilgili yardım almak için dolaylı satıcıların Microsoft dolaylı sağlayıcıları (veya dağıtımlarıyla) ile nasıl çalışacağınızı öğrenin.
+description: Dolaylı kurumsal bayilerin müşteri desteği ve faturalama ile ilgili yardım almak için Microsoft dolaylı sağlayıcılarıyla (veya dağıtımcılarla) nasıl çalışalarını öğrenin.
 ms.prod: ''
 ms.custom: contperf-fy21q2
 author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
-ms.openlocfilehash: 236cee00ec6a28468361c4893f7888882a17f5e4
-ms.sourcegitcommit: 715368e56fe669d29c7981906e08bc8d7d5d62a4
+ms.openlocfilehash: 2c869b35e85215c4f49e0494dddf316be6716638
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/23/2021
-ms.locfileid: "104880795"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276816"
 ---
-# <a name="learn-how-to-partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Bulut çözümü sağlayıcısı programındaki dolaylı sağlayıcılarla iş ortağı hakkında bilgi edinin
+# <a name="learn-how-to-partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Bulut Çözümü Sağlayıcısı programda dolaylı sağlayıcılarla iş Bulut Çözümü Sağlayıcısı öğrenin
 
 **Uygun roller**
 
 - Genel yönetici
 
-Bulut tabanlı çözümler ve hizmetler için hızla büyüyen talepler, her boyuttaki Microsoft iş ortakları için, karlı bulut çözümü işletmeleri oluşturmaya yönelik birçok fırsat sağlar. Pazara girmeye, ancak birden çok satıcıyı yönetmek zorunda olan veya uçtan uca bir müşteri ilişkisi yönetim altyapısına sahip olmayan iş ortakları, Microsoft 'un bulut çözümü sağlayıcısı (CSP) programına dolaylı satıcılar olarak kaydedilebilir.
+Bulut tabanlı çözümlere ve hizmetlere yönelik hızla artan talep, her boyuttaki Microsoft iş ortakları için karlı bulut çözümü işletmeleri oluşturmak için birçok fırsat sağlar. Pazara girmeye hazır olan ancak birden çok satıcıyı yönetmek zorunda olmak istemeyen veya 1- uç müşteri ilişkileri yönetim altyapısına sahip olmayan iş ortakları, Microsoft'un Bulut Çözümü Sağlayıcısı (CSP) programına dolaylı kurumsal bayi olarak kaydolabilirsiniz.
 
-CSP 'de dolaylı bir satıcı olarak, Microsoft ile doğrudan bir ilişkiye sahip olan dolaylı sağlayıcılarla (dağıtıcılar olarak da bilinir) çalışırsınız ve size müşteri desteği ve faturalandırma sağlayabilirsiniz. Dolaylı sağlayıcılarla çalışma, kendi kendinize başlamanız gerekmediği anlamına gelir. Bunun yerine, başarınızı güvence altına almak için deneyimli bir teknoloji sağlayıcısıyla çalışabilirsiniz. Sağlayıcı-satıcı (iki katmanlı) modelinde sağlayıcı, Microsoft 'tan bulut çözümlerini ve hizmetlerini satın sunuyor. Daha sonra bunları müşterilere yeniden satmanız gerekir.
+CSP'de dolaylı kurumsal bayi olarak, Microsoft ile doğrudan ilişkisi olan dolaylı sağlayıcılarla (dağıtımcı olarak da bilinir) çalışır ve size müşteri desteği ve faturalama s sağlar. Dolaylı sağlayıcılarla çalışmak, kendi sağlayıcılarınızı başlatmak zorunda olmadığınız anlamına gelir. Bunun yerine, başarınızı sağlamaya yardımcı olmak için deneyimli bir teknoloji sağlayıcısıyla çalışabilirsiniz. Sağlayıcı-kurumsal bayi (iki katmanlı) modelinde sağlayıcı, Microsoft'tan bulut çözümleri ve hizmetleri satın alır. Ardından bunları müşterilere yeniden satışa sunarsiniz.
 
-Farklı dolaylı sağlayıcılar çeşitli destek ve hizmetler sunar. Gereksinimlerinizi en iyi şekilde karşıladığını öğrenmek için bölgenizdeki sağlayıcıları değerlendirin. Genellikle, çoğu sağlayıcı şunları olur:
+Farklı dolaylı sağlayıcılar çeşitli destek ve hizmetler sunar. İhtiyaçlarınızı en iyi şekilde karşılamak için bölgenize gelen sağlayıcıları değerlendirin. Genellikle çoğu sağlayıcı şunları sağlar:
 
-- Size teknik eğitim ve yardım sağlama
-- Ürün ve hizmetlerinizi pazarlamanıza yardımcı olun
-- Finans ve kredi koşulları sağlamanıza yardımcı olun
+- Teknik eğitim ve yardım sağlama
+- Ürün ve hizmetlerinizi pazara sunarken size yardımcı olur
+- Para ve kredi koşullarını kurmanıza yardımcı olur
 
-Zaten bir sağlayıcı (dağıtımcı olarak da bilinir) ile çalışmıyorsanız, [Resmi Microsoft sağlayıcıları listesinde](https://partnercenter.microsoft.com/partner/find-a-provider) bir tane bulmak için arama yapabilirsiniz.
+Henüz bir sağlayıcıyla (dağıtımcı olarak da bilinir) çalışmıyorsanız, resmi [Microsoft](https://partnercenter.microsoft.com/partner/find-a-provider) sağlayıcıları listesinde arama gerçekleştirebilirsiniz.
 
-CSP programında dolaylı bir satıcı olarak satış için gerekenler hakkında daha fazla bilgi için, [Microsoft iş ortağı ağı Web sitesinde](https://partner.microsoft.com/) [dolaylı bir satıcı olarak çalışmaya başlama](https://partner.microsoft.com/cloud-solution-provider/whats-required) konusuna bakın.
+CSP programında dolaylı kurumsal bayi olarak satış yapmak için gerekenler [](https://partner.microsoft.com/cloud-solution-provider/whats-required) hakkında daha fazla bilgi için Kullanmaya başlayın web sitesinde dolaylı kurumsal bayi [olarak Microsoft İş Ortağı Ağı bakın.](https://partner.microsoft.com/)
 
 ## <a name="enroll-as-an-indirect-reseller-in-the-cloud-solution-provider-program"></a>Bulut Çözümü Sağlayıcısı programına dolaylı kurumsal bayi olarak kaydolun
 
 > [!NOTE]  
-> Zaten CSP 'ye kaydolduysanız, Iş Ortağı Merkezi 'nde satıcı hesabı oluşturmak için yalnızca müşteri desteği iletişim bilgilerini sağlamanız gerekebilir.
+> CSP'ye zaten kaydolduysanız, kurumsal bayi hesabı oluşturmak için yalnızca müşteri desteği iletişim bilgilerini İş Ortağı Merkezi.
 
 ### <a name="before-you-begin"></a>Başlamadan önce
 
-2020 Ekim itibariyle, CSP ile yeni olan tüm Microsoft iş ortakları, CSP programına dolaylı bir satıcı olarak kaydolacaktır. Daha sonra Iş Ortağı Merkezi 'nde bir hesap oluşturmanız gerekir. Bunu yapmak için kayıt işlemi sırasında aşağıdaki bilgileri sağlarsınız. Başlamadan önce bu öğelerin toplanması birkaç dakika geçmesi gerekebilir:
+Ekim 2020'den sonra CSP'de yeni olan tüm Microsoft iş ortakları, dolaylı kurumsal bayi olarak CSP programına kaydolacak. Ardından hesapta bir hesap oluşturmanız İş Ortağı Merkezi. Bunu yapmak için kayıt işlemi sırasında aşağıdaki bilgileri sağlayacaktır. Başlamadan önce bu öğeleri toplamak için birkaç dakika sürebilir:
 
-- **İş hesabınız için genel yönetici kimlik bilgileri**
+- **Genel yönetici hesabınız için kimlik bilgilerini doğrulama**
 
-   Office 365, Microsoft Azure veya Microsoft Dynamics CRM 'de oturum açmak için kullandığınız kullanıcı adını ve parolayı sağlamanız gerekir. Bir iş hesabınız yoksa, kayıt işlemi sırasında bir tane oluşturabilirsiniz. Zaten bir iş hesabınız olup olmadığını bilmiyorsanız, bkz. [iş hesapları ve Iş Ortağı Merkezi](azure-active-directory-tenants-and-partner-center.md).
+   Office 365, Microsoft Azure veya Microsoft Dynamics CRM'de oturum a0 için kullanabileceğiniz kullanıcı adını ve parolayı sağlayabilirsiniz. İş hesabınız yoksa kayıt işlemi sırasında bir hesap oluşturabilirsiniz. Zaten bir iş hesabınız olup olmadığını bilmiyorsanız bkz. [İş hesapları ve İş Ortağı Merkezi.](azure-active-directory-tenants-and-partner-center.md)
 
-- **Iş ortağı üyelik Merkezi sitesinde oturum açmak için kullandığınız Kullanıcı adı ve parola**
+- **Partner Membership Center sitesinde oturum a0 için kullanabileceğiniz kullanıcı adı ve parola**
 
-   Bu bilgileri şirketinizin Microsoft İş Ortağı Ağı KIMLIĞINI (MPN KIMLIĞI) yeni Iş Ortağı Merkezi hesabınızla bağlamak için kullanırız. Daha sonra, Iş ortağı merkezindeki üyelik avantajlarınızı ve verilerinizi yönetebilirsiniz.
+   Bu bilgileri kullanarak, şirketinizin Microsoft İş Ortağı Ağı kimliğini (MPN ID) yeni İş Ortağı Merkezi kullanıyoruz. Daha sonra, üyelik avantajlarınızı ve verilerinizi İş Ortağı Merkezi.
 
-- **Şirketinizin yasal iş adı, adresi, birincil kişisi ve destek ayrıntıları**
+- **Şirketin yasal iş adı, adresi, birincil ilgili kişisi ve destek ayrıntıları**
 
-   Şirketinizin Microsoft ile kurulu bir profili olduğunu ve adına işlem yapmaya yetkili olduğunu doğrulamak için bu bilgilere ihtiyacımız var.
+   Bu bilgilere, şirketinizin Microsoft ile kurulmuş bir profili olduğunu ve onun adına hareket etmek için yetkiniz olduğunu doğrulamak için ihtiyacımız var.
 
-   Sağladığınız bilgileri gözden geçirip doğrulayabilmeniz birkaç gün sürebilir. İncelemenizi tamamladığımızda birincil kişimize e-posta göndereceğiz.
+   Sağladığınız bilgileri gözden geçirmemiz ve doğrulamamız birkaç gün sürer. Gözden geçirmeyi tamamlayana kadar birincil ilgili kişinize e-posta ile gönderebilirsiniz.
 
 ### <a name="get-started"></a>başlarken
 
-1. Kayıt işlemini hemen kapatmak için, kaydolmak üzere [**hoş geldiniz sayfasına**](https://partnercenter.microsoft.com/pcv/register/joinnow/enrollmentwelcome/valueaddedreseller) gidin.
+1. Kayıt işlemini ilk olarak kaydetmek için Hoş [**Geldiniz sayfasına**](https://partnercenter.microsoft.com/pcv/register/joinnow/enrollmentwelcome/valueaddedreseller) gidin.
 
-2. Kaydolmak için gereken bilgilere sahip olduğunuzdan emin olmak için **hoş geldiniz sayfasını** gözden geçirin ve ardından **İleri**' yi seçin.
+2. Kaydolmanız **gereken bilgilere** sahip olduğundan emin olmak için Hoş Geldiniz sayfasını gözden geçirerek Sonraki'yi **seçin.**
 
-3. İş hesabınızı kullanarak oturum açın-Office 365, Microsoft Azure veya Microsoft Dynamics CRM için genel yönetici olarak oturum açmak için kullandığınız Kullanıcı adı ve parola. Bir iş hesabınız yoksa, şimdi bir tane ayarlamak için **Oluştur** ' u seçin. İş hesabınızı oluşturduktan sonra, yeni hesabınız için genel yönetici kimlik bilgilerini kullanarak oturum açın.
+3. İş hesabınızla oturum açın: Office 365, Microsoft Azure veya Microsoft Dynamics CRM'de genel yönetici olarak oturum a Microsoft Azure kullanıcı adı ve parola. İş hesabınız yoksa Oluştur'a **seçerek şimdi** bir tane ayarlayın. İş hesabınız oluşturdukta, yeni hesabınız için genel yönetici kimlik bilgilerini kullanarak oturum açın.
   
 
-4. Şirketinizin yasal iş profilini, birincil iletişim bilgilerini ve müşteri destek bilgilerini sağlayın veya güncelleştirin. (Yasal iş bilgilerinizi bulmak için **kuruluş profili** ' ni seçin ve ardından **yasal bilgiler**' i seçin.) **Şimdi kaydet**' i seçin.
+4. Şirketin yasal iş profilini, birincil iletişim bilgilerini ve müşteri destek bilgilerini sağlama veya güncelleştirme. (Yasal iş bilgilerinizi bulmak için Kuruluş **profili'ne ve ardından** Yasal **bilgiler'i seçin.)** Şimdi **kaydol'u seçin.**
 
-   Birincil iletişim sorumlusu, şirketinizde sizinle iletişim kurabildiğimiz kişidir. Bu, sizin veya şirketinizdeki başka bir kişi olabilir. Note: Gmail, Yahoo! gibi Web tabanlı e-posta hizmetlerinden e-posta adreslerini kabul etmedik Mail, iCloud Mail, AOL Mail veya Outlook Mail.
+   Birincil kişi, şirketinizin uygulama hakkında iletişim kurabilirsiniz kişidir. Siz veya şirketinizin başka bir kişisi olabilir. Not: Gmail, Yahoo! gibi Web tabanlı e-posta hizmetlerinden gelen e-posta adreslerini kabul etmedik! Mail, iCloud Mail, AOL Mail veya Outlook Mail.
 
    > [!IMPORTANT]  
-   > Şirketinizin güvenliğinin ve gizliliğinin sağlanmasına yardımcı olmak için, birincil kişinize e-posta ile bir Iş Ortağı Merkezi hesabına kaydolup (1), bu e-posta adresinin şirketinize ait olduğunu doğrulayın. Birincil iletişim e-posta adresini doğruladıktan sonra, verdiğiniz bilgileri gözden geçirmemiz için devam edeceğiz. Kayıt durumu güncelleştirmelerini birincil ilgili kişiye e-posta ile göndereceğiz.
+   > Şirketinizin güvenliğini ve gizliliğini sağlamaya yardımcı olmak için birincil ilgili kişinize e-posta ile (1) bir İş Ortağı Merkezi hesabı için kayıt olduğunu ve (2) bu e-posta adresinin şirketinize ait olduğunu doğrulamamız gerekir. Birincil kişi e-posta adresini doğruladikten sonra, sağladığınız bilgileri gözden geçirmemize devam edeceğiz. Kayıt durumu güncelleştirmelerini birincil ilgili kişinin adresine e-posta ile gönderebilirsiniz.
 
-5. MPN KIMLIĞINIZI CSP hesabınızla ilişkilendirin. CSP hesabınız ve ilişkili MPN KIMLIĞI aynı ülkede bulunmalıdır ve MPN KIMLIĞINIZ Iş Ortağı Merkezi 'nde olmalıdır.
+5. MPN kimliğinizi CSP Hesabınızla ilişkilendirme. CSP hesabınız ve ilişkili MPN Kimliği aynı ülkede olmalı ve MPN kimliğiniz aynı ülkede İş Ortağı Merkezi.
   
 
-   a. "MPN" hesabı kimlik bilgilerinizle Iş Ortağı Merkezi 'Nde oturum açın (MPN kimlik bilgileriniz CSP kimlik bilgilerinizle farklı olabilir).
+   a. "MPN" İş Ortağı Merkezi kimlik bilgilerinizle oturum açın (MPN kimlik bilgileriniz CSP kimlik bilgilerinizden farklı olabilir).
    
-   b. **Ayarlar**  ->  **Hesap ayarları**  ->  **kuruluş profili**  ->  **tanımlayıcıları**' na gidin.
+   b. Ayarlar Hesap **Ayarları**  ->  **Kuruluş Profili**  ->  **Tanımlayıcıları'ne**  ->  **gidin.**
  
-    c. Bu CSP hesabının ülkimiyle eşleşen "konum" türündeki MPN KIMLIĞINI bulun. 
+    c. Bu CSP hesabının ülkesiyle eşleşen "Konum" Türüne sahip MPN Kimliğini bulun. 
 
-    d. Kullanmak istediğiniz CSP hesabıyla eşleşen MPN KIMLIĞI konumunu bulamazsanız yeni bir MPN KIMLIĞI oluşturacak yeni bir konum ekleyebilirsiniz. Daha fazla bilgi edinin, [konumları yönetin](manage-locations.md).
+    d. Kullanmak istediğiniz CSP hesabıyla eşleşen konum MPN Kimliğini bulamazsanız, yeni bir MPN kimliği oluşturacak yeni bir konum eklersiniz. Daha fazla bilgi [için, Konumları yönetme.](manage-locations.md)
 
-    e. Bu adımı şimdilik erteleyebilirsiniz; ancak, MPN KIMLIĞINIZI CSP hesabınızla ilişkilendirmeyi tamamlayana kadar, Microsoft Iş ortağı Sözleşmesi (MPA) veya Transact 'yı CSP 'de imzalayamayabileceksiniz.
+    e. Bu adımı şimdilik erteleyebilirsiniz ancak MPN kimliğinizi CSP hesabınızla Microsoft İş Ortağı Sözleşmesi (MPA) veya CSP'de işlem yapmak mümkün olmayacaktır.
 
  > [!IMPORTANT]  
- > Iş Ortağı Merkezi 'nde ve CSP hesabınızla aynı ülkede bulunan MPN KIMLIĞINI seçin ve MPN KIMLIĞINIZIN Iş Ortağı Merkezi 'nde olduğundan emin olun.
+ > CSP hesabınızla aynı ülkede ve İş Ortağı Merkezi'de bulunan MPN kimliğini seçin ve MPN id'nizin İş Ortağı Merkezi.
 
-6. Microsoft, 3-5 iş günü süren kayıt doğrulamanızı tamamladıktan sonra, genel yönetici kimlik bilgilerini kullanarak [Iş Ortağı Merkezi panosuna genel bakış](https://partner.microsoft.com/pcv/dashboard/overview) ' da Microsoft Iş ortağı Sözleşmesi ' ni imzalayın. **Microsoft Iş ortağı sözleşmesi** 'ni imzalamadan önce görüntüleyip indirmek için aşağıda gösterildiği gibi Microsoft Iş ortağı sözleşmesi bağlantısına tıklayın.  Hesabınız 5 iş günü sonra doğrulandığından, [Hesap doğrulama işlemini](verification-responses.md)okuyun.
+6. Microsoft, 3-5 iş günü içinde kayıt doğrulamanızı tamamlandıktan sonra Genel yönetici Microsoft İş Ortağı Sözleşmesi kullanarak [İş Ortağı Merkezi](https://partner.microsoft.com/pcv/dashboard/overview) genel bakış sayfasında oturum açın. İmzalamadan önce **Microsoft İş Ortağı Sözleşmesi** indirmek için aşağıda gösterildiği gibi Microsoft İş Ortağı Sözleşmesi Bağlantı'ya tıklayın.  Hesabınız 5 iş günü sonra doğrulamada takıldıktan sonra hesap doğrulama [işlemi'ne okuyun.](verification-responses.md)
 
 
-:::image type="content" source="images/agreement-three.png" alt-text="Yeni MPA sözleşmesi konumu":::
+:::image type="content" source="images/agreement-three.png" alt-text="Yeni MPA sözleşmesi konumu.":::
 
  
-7. Iş ortağı profilinin **Program bilgileri** bölümünde Microsoft Iş ortağı Sözleşmesi ' ni imzaladığınızı doğrulayın. Ayrıca, CSP Genel Bakış sayfasında bir onay başlığı bildirimi görürsünüz. 
+7. İş ortağı profilinin Program Bilgileri Microsoft İş Ortağı Sözleşmesi oturum **ayı imzalamış** olduğunu onaylayın. Ayrıca CSP Genel Bakış sayfasında bir onay başlığı bildirimi de görüntülenir. 
 
-:::image type="content" source="images/mpagreen.png" alt-text="Yeşil kabul edilen başlık":::
+:::image type="content" source="images/mpagreen.png" alt-text="Yeşil kabul edilen başlık.":::
 
 
-8. Iş Ortağı Merkezi hesabınız kullanıma hazırsa, Yönetim Aracısı grubuna eklendiğinizi doğrulayın. Diğer kullanıcıları ekleme dahil olmak üzere hesabınızı ayarlamayı tamamlaması için yönetici Aracısı izinlerinizin olması gerekir. İzinlerinizi görüntülemek veya güncelleştirmek için şu adımları izleyin:
+8. İş Ortağı Merkezi hesabınız kullanıma hazır olduğunda, yönetici aracısı grubuna ekli olduğunu doğrulayın. Başka kullanıcılar eklemek de dahil olmak üzere, hesabınız ayarlamayı tamamlamak için yönetici aracısı izinlerine sahipsiniz. İzinlerinizi görüntülemek veya güncelleştirmek için şu adımları izleyin:
 
-   1. Iş Ortağı Merkezi panosunda, **Ayarlar** simgesini seçin ve ardından **Hesap ayarları** altında **Kullanıcı yönetimi**' ni seçin.
+   1. Panodan İş Ortağı Merkezi simgesini seçin ve **ardından** Hesap ayarları'nın **altında Kullanıcı** **yönetimi'ne tıklayın.**
 
-   2. Kullanıcı listesinden adınızı seçin. Daha sonra seçili değilse **yönetici Aracısı** ' nı seçin. **Güncelleştir**’i seçin.
+   2. Kullanıcı listesinden adınız seçin. Daha önce **seçilmemişse** Yönetici aracısı'ı seçin. **Güncelleştir**’i seçin.
 
 ## <a name="connect-with-an-indirect-provider"></a>Dolaylı sağlayıcıyla bağlantı kurma
 
-Dolaylı sağlayıcıyla çalışmak, müşterilerinize Microsoft’un bulut tabanlı hizmetlerinden ve çözümlerinden daha fazla seçenek sunmanızı sağlar. Dolaylı sağlayıcılar, sağlam bir faturalandırma ve destek düzeyi sunmak için sistemlere ve altyapıya sahiptir. Bu şekilde bu şekilde güvenmek, teknoloji çözümlerinizi ve müşteri görevlendirmelerine odaklanmanızı sağlar.
+Dolaylı sağlayıcıyla çalışmak, müşterilerinize Microsoft’un bulut tabanlı hizmetlerinden ve çözümlerinden daha fazla seçenek sunmanızı sağlar. Dolaylı sağlayıcılar, sağlam bir faturalama ve destek düzeyi sunan sistemlere ve altyapıya sahiptir. Bu şekilde bunları kullanarak teknoloji çözümlerinize ve müşteri etkileşimlerine odaklanın.
 
-Zaten bir sağlayıcı (dağıtımcı olarak da bilinir) ile çalışmıyorsanız, [Resmi Microsoft sağlayıcıları listesinde](https://partnercenter.microsoft.com/partner/find-a-provider) bir tane bulmak için arama yapabilirsiniz. İlişki kurmak istediğiniz bir sağlayıcı bulduğunuzda, Bayi programlarını, destek düzeyini ve koşulları tartışmak için doğrudan bunlarla iletişim kurun. Hem siz hem de sağlayıcı birlikte çalışmak istiyorsanız, hesaplarınızı Iş Ortağı Merkezi ' nde bağlamanız gerekir.
+Henüz bir sağlayıcıyla (dağıtımcı olarak da bilinir) çalışmıyorsanız, resmi [Microsoft](https://partnercenter.microsoft.com/partner/find-a-provider) sağlayıcıları listesinde arama gerçekleştirebilirsiniz. İş ortağı olmak istediğiniz bir sağlayıcı bulurken, kurumsal bayi programlarını, destek düzeyini ve koşulları tartışmak için doğrudan bu sağlayıcıyla iletişime geçin. Hem siz hem de sağlayıcı birlikte çalışmak istiyorsanız, hesaplarınızı İş Ortağı Merkezi.
 
-Dolaylı bir sağlayıcı Iş Ortağı Merkezi 'nde sizinle bağlantı kurmak isterse, aşağıdaki iş akışını devre dışı bırakır:
+Dolaylı bir sağlayıcı, İş Ortağı Merkezi ile bağlantı kuracaksa aşağıdaki iş akışını başlatacak:
 
-1. Dolaylı sağlayıcı, bunları dolaylı sağlayıcınız olarak yetkilendirmek için size bir davetiye e-postası gönderir. E-posta, Iş Ortağı Merkezi 'ne bir bağlantı içerir ve hesabınızı sağlayıcının hesabıyla ilişkilendirir.
+1. Dolaylı sağlayıcı, size dolaylı sağlayıcınız olarak yetkilendirmek için size bir davet e-postası iletir. E-posta, İş Ortağı Merkezi bağlantısını içerir ve hesabı sağlayıcının hesabıyla ilişkilendirilecek.
 
-2. Daveti kabul etmek için sağlayıcının e-postasında bağlantısını izleyin. Iş Ortağı Merkezi 'nde yeniden oturum açmanız gerekebilir.
+2. Daveti kabul etmek için sağlayıcının e-posta adresine gelen bağlantıyı izleyin. Yeniden oturum açmanız İş Ortağı Merkezi.
 
-3. Sağlayıcıyla ortaklığı onaylamak için, kutuyu işaretleyin ve ardından **dolaylı sağlayıcıyı Yetkilendir**' i seçin. Sağlayıcı artık **dolaylı sağlayıcılar** sayfanızda listelenmiş ve şirketiniz artık sağlayıcının **dolaylı satıcıları** sayfasında listeleniyor.
+3. Sağlayıcıyla ortaklığı onaylamak için kutuyu işaretleyin ve dolaylı sağlayıcıyı **yetkilendir'i seçin.** Sağlayıcı artık Dolaylı sağlayıcılar **sayfanıza,** şirket de sağlayıcının Dolaylı kurumsal bayiler **sayfasında** listelenir.
 
    > [!NOTE]  
-   > Dolaylı bir sağlayıcıyla iş ortaklığı oluşturduğunuzda, bu kullanıcılara sipariş göndermek ve müşteriler adına abonelik eklemek için yetki vermiş olursunuz ve kullanıcılara şirketinizin iş hesabına erişim hakkı vermiş olursunuz. Sağlayıcı ile ortaklığı kurulduktan sonra, Office 365 portalındaki iş hesabınıza sağlayıcının yönetici erişimini kaldırabilirsiniz.
+   > Dolaylı bir sağlayıcıyla iş ortaklığı kurduğunda, onlara siparişleri gönderme ve müşterileriniz adına abonelik ekleme yetkisi veriyor ve bu sağlayıcılara, şirketin iş hesabına yönetici erişimi veriyorsunuz. Sağlayıcıyla iş ortaklığınız kurulduktan sonra, Office 365 portalında sağlayıcının iş hesabınıza yönetici erişimini kaldırabilirsiniz.
 
-4. Iş ortaklığınızda bulunan sağlayıcıların listesini görmek için **Iş Ortağı Merkezi** menüsünden **dolaylı sağlayıcılar** ' ı seçin.
+4. İş **ortaklığınız** olan **sağlayıcıların İş Ortağı Merkezi** menüyü seçerek Dolaylı sağlayıcılar'ı seçin.
 
-5. Siz ve sağlayıcı paylaşımının müşteriler listesini görmek için **müşterileri görüntüle** ' yi seçin.
+5. Sizin **ve sağlayıcı** paylaşımının müşteri listesini görmek için Müşterileri görüntüle'yi seçin.
 
-6. Aynı anda hem siz hem de dolaylı sağlayıcınız ile satıcı ilişkilerini yetkilendirmesini istemek için yeni **müşterileri davet et** ' i seçin. Davet etmek için müşterinin e-posta adresine sahip olduğunuzdan emin olun.  
+6. Yeni **bir müşteriden hem** sizin hem de dolaylı sağlayıcınızla aynı anda kurumsal bayi ilişkilerini yetkilendirmelerini istemek için Yeni müşterileri davet et'i seçin. Daveti onlara e-posta ile gönderebilirsiniz.  
 
    > [!IMPORTANT]  
-   > Dolaylı sağlayıcılarınızın, kendi adına sipariş göndermek için müşterilerinizle birlikte satıcı ilişkisine sahip olması gerekir.
+   > Dolaylı sağlayıcınızın, kendi adına sipariş göndermesi için müşterilerinizle bir kurumsal bayi ilişkisi olması gerekir.
 
-## <a name="your-csp-country-and-the-csp-regions-where-you-do-business"></a>CSP ülkeniz ve iş yaptığınız CSP bölgeleri
+## <a name="your-csp-country-and-the-csp-regions-where-you-do-business"></a>İş yapmak için csp ülkeniz ve CSP bölgeleriniz
 
-CSP dolaylı satıcısı olarak yasal iş konumunuz, iş yapabileceğiniz dolaylı sağlayıcıları ve CSP iş yapabileceğiniz bölgeleri belirler. [Bulut çözüm sağlayıcısı programı bölgesel pazarları ve CSP teklifleri sattığınız para birimlerini](regional-authorization-overview.md)okuyarak daha fazla bilgi edinin.
+CSP dolaylı kurumsal bayisi olarak yasal işletme konumunuz, hem birlikte çalışabilirsiniz dolaylı sağlayıcıları hem de CSP işlerinizi hangi bölgelerde yapalarınızı belirler. CSP tekliflerini [satarak Bulut Çözümü Sağlayıcısı program bölgesel pazarları ve para birimleri hakkında bilgi edinerek daha fazla bilgi edinin.](regional-authorization-overview.md)
 
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-- [Dolaylı sağlayıcılar, satıcıların Microsoft Iş ortağı sözleşmesi 'Ni benimsemesine nasıl yardımcı olabilir-SSS](mpa-indirect-provider-faq.md)
+- [Dolaylı sağlayıcıların kurumsal bayilerinin kurumsal bayileri benimsemelerine nasıl Microsoft İş Ortağı Sözleşmesi - SSS](mpa-indirect-provider-faq.md)
 
 - [Microsoft İş Ortağı Sözleşmesi](microsoft-partner-agreement.md)
 
@@ -154,7 +154,7 @@ CSP dolaylı satıcısı olarak yasal iş konumunuz, iş yapabileceğiniz dolayl
 
 - [İş profili oluşturma](create-a-marketing-profile.md)
 
-- [Doğrulama süreci hakkında bilgi edinin](verification-responses.md)
+- [Doğrulama işlemi hakkında bilgi edinin](verification-responses.md)
 
-- [Bkz. doğrudan fatura ortağı gereksinimleri](direct-partner-new-requirements.md)
+- [Bkz. Doğrudan fatura iş ortağı gereksinimleri](direct-partner-new-requirements.md)
 

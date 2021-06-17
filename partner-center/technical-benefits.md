@@ -8,15 +8,17 @@ author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.date: 02/24/2021
-ms.openlocfilehash: 3e3f1d576c03e437c218f7902c7770a1203eba70
-ms.sourcegitcommit: 35fe0fdc41886f6f5af71ec74e4a4ebd245dfe1d
+ms.date: 03/30/2021
+ms.openlocfilehash: b6de912047a327e89e2572504329e9eff23e7dbf
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/22/2021
-ms.locfileid: "104768729"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276391"
 ---
 # <a name="explore-technical-presales-and-deployment-services-tpd"></a>Teknik satış ve dağıtım hizmetlerini (TPD) keşfet 
+
+**Uygun roller**: MPN iş ortağı Yöneticisi
 
 Danışmanlık, ön satış yardımı, danışmanlık saatleri ve daha fazlası dahil olmak üzere teknik satış ve Dağıtım Hizmetleri için alacağınız Microsoft İş Ortağı Ağı (MPN) avantajları hakkında bilgi edinin.
 
@@ -40,7 +42,34 @@ Tüm bulut veya karma çözümler, şirket içi Windows 10, Windows Server ve Mi
 
 **[Teknik bir satış ve Dağıtım Hizmetleri (TPD) Isteği oluşturmak](https://partner.microsoft.com/dashboard/mpn/membership/benefits/technical/createadvisoryhours-servicerequest)** için herhangi bir MPN ilişkili kullanıcı hesabıyla oturum açın (Teknik avantaj etkinleştirmesi gerekmez).
 
-:::image type="content" source="images/technical-benefits.png" lightbox="images/technical-benefits.png" alt-text="Teknik satış öncesi ve dağıtım avantajları" border="false":::
+## <a name="delivery-scenarios"></a>Teslim senaryoları
+
+- **Teknik ön satış danışmanları** , değer teklifini tanımlamak, maliyet tahminleri sağlamak, müşteri nesnelerinizi yönetmek, rakip mesajlaşmaya yanıt vermek, teknik çözümler, kavram kanıtı veya mimari planlama ve tasarım lideri bir iş bildirimine eklemek için kullanılır.
+
+  - *Desteklenmez:* Satış işlem hattı planlama, fiyatlandırma ve fiyat listeleri.
+
+
+- **Dağıtım danışmanları** , mimari planlama ve tasarım kılavuzu, en iyi uygulamalar, dağıtım kılavuzu, ürün başvuruları ve belgeler için kullanılır.
+
+  - *Desteklenmez:* Onarım desteği/sorunlarını giderme, site içi hizmetler, uzun süreli danışmanlık, doğrudan bir üretim ortamında müşteri desteği veya uygulamalı destek. 
+
+
+- **Market danışmanları** , Microsoft Commercial Market 'te devam eden lider oluşturma için çözümünüzü yayımlama amacıyla kullanılır. Geliştiriciler, hizmet yapılandırması, mimari veya tasarım danışmanları, şirket içi çözümlerden geçiş, kod incelemesi ve uygulama yayımlama yardımı.
+
+  - *Desteklenmez:* Kod hata ayıklaması, uygulama geliştirme, kavram kanıtı kavramı ötesinde.
+
+## <a name="in-scope-products-and-services"></a>In-Scope ürünleri ve Hizmetleri
+
+Aşağıdaki ürünler ve hizmetler, teknik satış ve Dağıtım Hizmetleri için kapsamdadır:
+- **Microsoft 365**: Microsoft ekipleri, Exchange Online, SharePoint Online, OneDrive, Yammer, Project Online, Skype kurumsal sunucu 2019, Enterprise Mobility + Security, Microsoft Intune, Azure Active Directory, Azure Information Protection gibi tüm Microsoft Office 365 bileşenleri
+  - *Kapsam dışı: yalnızca şirket içi Office sunucuları – Exchange ve SharePoint*
+- **Business Applications**: microsoft Dynamics 365 (çevrimiçi), Microsoft Power platform (Power Apps, Power otomatikleştir, Power BI)
+  - *Kapsam dışı: Dynamics 365, GP, SL, AX, NAV 'un yalnızca şirket içi sürümleri*
+- **Microsoft Azure**: hizmet olarak altyapı ve hizmet olarak platform, veri platformu, bı analizi, bilişsel hizmetler, Azure Machine Learning Azure Stack gibi tüm Microsoft Azure çözümler ve ilgili hizmetler
+- **Windows Server**: temel desteklenen Windows Server ( **[ürün yaşam döngüsü](/lifecycle/policies/fixed)** kapsamında yönetilir)
+  - System Center, bulut veya hibrit senaryolarıyla ilişkiliyse, SCCM gibi ilgili ürünleri içerir
+- **Windows 10**: Windows 10 işletim sistemi, cihazlar, evrensel uygulamalar
+- **Özel veya genel önizlemede bulunan ürünler**: üretim dışı ortamlar ve bilgi kullanılabilirliği veya yanıt süresi garantisi olmadan, yardım en iyi çabalara göre sunulmaktadır.
 
 ## <a name="submit-a-technical-presales-and-deployment-services-request"></a>Teknik satış öncesi ve dağıtım hizmetleri isteği gönderme 
 
@@ -60,7 +89,11 @@ Iş Ortağı Merkezi 'nde teknik avantajlarınızı görüntülemek için:
 
 3. **[Teknik satış öncesi ve dağıtım Isteği Gönder '](https://partner.microsoft.com/dashboard/mpn/membership/benefits/technical/createadvisoryhours-servicerequest)** i seçin.
 
+:::image type="content" source="images/benefits/mpn-tpd-5.png" lightbox="images/benefits/mpn-tpd-3.png" alt-text="Teknik satış öncesi ve dağıtım avantajları." :::
+
 4. **Arama ürünlerini** kullanın ve ilgili ürünü girin. Çok fazla sonuç alırsanız çözüm alanına göre filtre uygulayabilir veya her bir taksonomi düzeyini filtrelemek için konulara gidebilirsiniz.
+
+:::image type="content" source="images/benefits/mpn-tpd-2.png" lightbox="images/benefits/mpn-tpd-2.png" alt-text="Teknik satış ve dağıtım avantajları-ürünleri arayın.":::
 
    > [!NOTE]
    > ASfP veya PSfP destek planınızın bir parçası olarak bir bulut uygulamasına danışmanız gerekiyorsa lütfen destek hesabı yöneticinize (SAM) başvurun.

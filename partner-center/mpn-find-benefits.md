@@ -9,18 +9,18 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7e48e137de3fc9b3084729e5095223229b87c289
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 85a6a43a1e28a7a6917361dc1fc74cc3d5e8d502
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110152401"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276578"
 ---
 # <a name="locate-your-microsoft-partner-network-benefits"></a>Microsoft İş Ortağı Ağı avantajlarınızı keşfedin 
 
 **Uygun roller:** MPN iş ortağı yöneticisi | Genel yönetici
 
-Bu makalede, Microsoft İş Ortağı Ağı (MPN) üyelerine MPN avantajlarını panoda nasıl İş Ortağı Merkezi anlatabilirsiniz. Bu bilgiler arasında, teknik avantajlarla ilişkilendirilmiş Sözleşme Kimliği ve Erişim Kimliği gibi, şirketinize özgü ürün destek kimliklerini nasıl bulamıyorum.
+Bu makalede, Microsoft İş Ortağı Ağı (MPN) üyelerine MPN avantajlarını panoda nasıl İş Ortağı Merkezi anlatabilirsiniz. Bu bilgiler arasında, teknik avantajlarla ilişkilendirilmiş Sözleşme Kimliği ve Erişim Kimliği gibi, şirketin belirli ürün destek kimliklerini nasıl bulamıyorum.
 
 >[!NOTE]
 > İş Microsoft İş Ortağı Ağı hala Partner Membership Center (PMC) ise, belirli avantajları görüntülemenize veya etkinleştirmenize yardımcı olmak için İş Ortağı Ön Hattı gibi başka bir kaynakla iletişim kurmanız gerekir. Ayrıntılar için [bkz. İş Ortağı Merkezi dışında teknik avantajları etkinleştirme.](partner-membership-center-tech-benefits-activate.md)
@@ -43,10 +43,10 @@ Bir Microsoft İş Ortağı Ağı olarak, şirketinizin işletmenizi büyümesin
 
 3. Bir avantajı genişleterek ( + ) belirli bir avantajı etkinleştirmeye yardımcı olacak ek bilgiler bulabilirsiniz.
 
-   :::image type="content" source="images/benefits/expandbenefits.png" alt-text="Genişletilmiş avantajlar":::
+   :::image type="content" source="images/benefits/expandbenefits.png" alt-text="Genişletilmiş avantajlar.":::
 
    > [!NOTE]
-   > Avantajları etkinleştirmek için genel yönetici veya MPN iş ortağı yöneticisi rolünüz İş Ortağı Merkezi. Ancak bir şirkette yer alan diğer tüm kullanıcıların ürün destek kimlikleri gibi İş Ortağı Merkezi ayrıntılarını görüntüleyene sahip olması gerekir. Rol atama hakkında daha fazla İş Ortağı Merkezi için [bkz. Kullanıcı rollerini ve izinlerini İş Ortağı Merkezi.](permissions-overview.md)
+   > Avantajları etkinleştirmek için genel yönetici veya MPN iş ortağı yöneticisi rolünüz İş Ortağı Merkezi. Ancak bir şirkette yer alan diğer tüm kullanıcılar, ürün destek kimlikleri gibi İş Ortağı Merkezi ayrıntıları görüntüleyene kadar tüm avantajlara sahip olabilir. Rol atama hakkında daha fazla İş Ortağı Merkezi için [bkz. Kullanıcı rollerini ve izinlerini İş Ortağı Merkezi.](permissions-overview.md)
 
 ## <a name="specific-benefit-offers"></a>Belirli avantaj teklifleri
 

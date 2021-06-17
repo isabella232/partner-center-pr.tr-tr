@@ -1,49 +1,49 @@
 ---
-title: Azure CSP için yönetici ayrıcalıklarını yeniden Azure CSP
+title: Azure CSP için yeniden devreye sokma yönetici ayrıcalıkları
 ms.topic: how-to
 ms.date: 05/27/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: İş ortağının müşterinin iş ortağı aboneliklerini yönetmeye yardımcı olmak için müşterilerin iş ortağının yönetici ayrıcalıklarını yeniden Azure CSP öğrenin.
+description: Müşterilerin bir müşterinin Azure CSP aboneliklerini yönetmeye yardımcı olması için, ortağın yönetici ayrıcalıklarını yeniden devreye sokmasını nasıl sağlayacağınızı öğrenin.
 author: dhirajgandhi
 ms.author: dhgandhi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 90c8f413398fcb9f65f7fef402a1cdcd092abbc4
-ms.sourcegitcommit: 212471150efc8fd2c30023bc6a981a7e052e79ef
+ms.openlocfilehash: 81df7578f7f15def64a3c20b15f95f3b89a28d1c
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/11/2021
-ms.locfileid: "112025964"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112277785"
 ---
-# <a name="reinstate-admin-privileges-for-a-customers-azure-csp-subscriptions"></a>Müşterinin abonelikleri için yönetici ayrıcalıklarını yeniden Azure CSP olun  
+# <a name="reinstate-admin-privileges-for-a-customers-azure-csp-subscriptions"></a>Müşterinin Azure CSP abonelikleri için yeniden devreye sokma yönetici ayrıcalıkları  
 
-**Uygun roller:** Genel yönetici | Yönetici aracısı
+**Uygun roller**: genel yönetici | Yönetim Aracısı
 
-CSP iş ortağı olarak müşterileriniz genellikle Azure kullanımlarını ve sistemlerini onlar için yöneteceklerini bekler. Bunu yapmak için yönetici ayrıcalıklarına sahip olmanız gerekir. Müşteriyle kurumsal bayi ilişkiniz kurulu olduğunda bazı ayrıcalıklar verir. Başkalarına da müşteriniz tarafından izin ve verildi.
+Bir CSP iş ortağı olarak, müşterileriniz genellikle Azure kullanımını ve sistemlerini kendileri için yöneteceksiniz. Bunu yapmak için yönetici ayrıcalıklarına sahip olmanız gerekir. Müşteri ile satıcı ilişkiniz oluşturulduğunda bazı ayrıcalıklar verilir. Başkaları sizin tarafınızdan size verilir.
 
-## <a name="admin-privileges-for-azure-in-csp"></a>CSP'de Azure için yönetici ayrıcalıkları
+## <a name="admin-privileges-for-azure-in-csp"></a>CSP 'de Azure için yönetici ayrıcalıkları
 
-Kullanıcılar için iki yönetici ayrıcalıkları CSP'de Azure.
+CSP 'de Azure için iki yönetim ayrıcalıkları düzeyi vardır.
 
-- **Kiracı düzeyinde yönetici ayrıcalıkları (Yönetici ayrıcalıkları temsilcisi)**: CSP iş ortakları, müşterilerle CSP kurumsal bayi ilişkisi kurulurken bu ayrıcalıkları alır. Temsilcili yönetici ayrıcalıkları, CSP iş ortaklarının müşterilerinin kiracılarına erişmesini sağlar. Bu erişim, kullanıcı ekleme/yönetme, parolaları sıfırlama ve kullanıcı lisanslarını yönetme gibi yönetim işlevlerini yapmalarına olanak sağlar.
-- **Abonelik düzeyi yönetici ayrıcalıkları:** CSP iş ortakları, müşterileri için Azure CSP abonelikleri oluştururken bu ayrıcalıkları elde eder. Bu ayrıcalıklara sahip olmak, CSP iş ortaklarının bu aboneliklere tam erişim sağlamalarını ve Azure kaynaklarını yönetmelerini sağlar.
+- **Kiracı düzeyinde yönetici ayrıcalıkları (yönetici ayrıcalıkları temsilcisi)**: CSP iş ortakları, müşterilerle CSP satıcısı ilişkisi oluştururken bu ayrıcalıkları alır. Yönetici ayrıcalıkları, CSP iş ortaklarının müşterilerinin kiracılarına erişmesini sağlar. Bu erişim, kullanıcıların kullanıcı ekleme/yönetme, parolaları sıfırlama ve kullanıcı lisanslarını yönetme gibi yönetim işlevleri yapmasına izin verir.
+- **Abonelik düzeyi yönetici ayrıcalıkları**: CSP iş ortakları, müşterileri IÇIN Azure CSP abonelikleri oluştururken bu ayrıcalıkları alır. Bu ayrıcalıklara sahip olmak, CSP iş ortaklarının bu aboneliklerde Azure kaynaklarını sağlamasına ve yönetmesine olanak tanıyan tüm erişimleri olmasını sağlar.
 
-## <a name="reinstate-csp-a-partners-admin-privileges"></a>İş ortağının yönetici ayrıcalıklarını CSP'ye yeniden iade edin
+## <a name="reinstate-csp-a-partners-admin-privileges"></a>Yeniden devreye alındı CSP bir ortağın yönetici ayrıcalıkları
 
-Müşterinize AdminAgents grubunun sağlamasını sağlarsanız müşteriniz CSP rol `object ID` atamasını yeniden oluşturabilir. Temsilci yönetici ayrıcalıklarını yeniden kazanmak için aşağıdaki adımlarla müşteriyle çalışmanız gerekir.
+Müşterinizden AdminAgents grubunu sağlarsanız, müşteriniz CSP rol atamasını yeniden oluşturabilir `object ID` . Yetkilendirilmiş yönetici ayrıcalıklarını yeniden kazanmak için aşağıdaki adımlar aracılığıyla müşterinizden çalışmanız gerekir.
 
-1. Panoda İş Ortağı Merkezi açın.
+1. Iş Ortağı Merkezi panosunda oturum açın.
 
-2. Yeni İş Ortağı Merkezi Müşteriler'i **seçin.**
+2. Iş Ortağı Merkezi menüsünde **müşteriler**' i seçin.
 
-3. Üzerinde çalışmakta olduğunu müşteriyi seçin ve **bir kurumsal bayi ilişkisi talep edin.** Bu eylem kiracı yönetici haklarına sahip olan müşteriye bir bağlantı üretir.
+3. Çalıştığınız müşteriyi seçin ve **bir satıcı ilişkisi isteyin**. Bu eylem, kiracı yönetici haklarına sahip olan müşteriye bir bağlantı oluşturur.
 
-4. Müşterinizin bağlantıyı seçmesi ve kurumsal bayi ilişkisi isteğini onaylaması gerekir.
+4. Müşterinizin bağlantıyı seçmesini ve satıcı ilişki isteğini onaylaması gerekir.
 
-   :::image type="content" source="images/azure/revoke4.png" alt-text="Kurumsal bayi ilişkisi oluşturma e-posta örneği":::
+   :::image type="content" source="images/azure/revoke4.png" alt-text="Satıcı ilişkisi oluştur e-posta örneği.":::
 
-5. İş ortağı olarak AdminAgents grubunun Nesne Kimliğini almak için iş ortağı kiracısına bağlanmanız gerekir.
+5. İş ortağının, AdminAgents grubunun nesne KIMLIĞINI almak için iş ortağı kiracısına bağlanması gerekir.
   
    ```powershell
    Connect-AzAccount -Tenant "Partner tenant"
@@ -51,17 +51,17 @@ Müşterinize AdminAgents grubunun sağlamasını sağlarsanız müşteriniz CSP
    Get-AzADGroup -DisplayName AdminAgents
    ```
 
-6. Daha sonra müşterinizin PowerShell veya Azure CLI kullanarak aşağıdaki adımları gerçekleştirebilirsiniz. Müşterinizin şunların olması gerekir:
+6. Müşterinizin, PowerShell veya Azure CLı kullanarak aşağıdaki adımları yapması gerekir. Müşterinizin şunları uygulamanız gerekir:
 
-- Sahip veya **kullanıcı** erişimi **yöneticisi rolü** 
-- Abonelik düzeyinde rol ataması oluşturma izinleri
+- **Sahip** veya **Kullanıcı erişimi Yöneticisi** rolü 
+- Abonelik düzeyinde rol atamaları oluşturma izinleri
 
-   a. Yalnızca PowerShell için müşterinin modülü güncelleştirmesi `Az.Resources` gerekir.
+   a. Yalnızca PowerShell için, müşterinin modülü güncelleştirmesi gerekir `Az.Resources` .
    ```powershell
    Update-Module Az.Resources
    ```
 
-   b. Müşteri CSP aboneliğinin bulunduğu kiracıya bağlanır.
+   b. Müşteri, CSP aboneliğinin bulunduğu kiracıya bağlanır.
    ```powershell
    Connect-AzAccount -TenantID "<Customer tenant>"
    ```
@@ -69,7 +69,7 @@ Müşterinize AdminAgents grubunun sağlamasını sağlarsanız müşteriniz CSP
    az login --tenant <Customer tenant>
    ```
 
-   c. Müşteri aboneliğe bağlanır. Bu yalnızca *kullanıcının* kiracıda birden çok abonelik üzerinde rol atama izinlerine sahip olması için geçerlidir.
+   c. Müşteri, aboneliğe bağlanır. Bu, *yalnızca* kullanıcının Kiracıdaki birden çok abonelik üzerinde rol atama izinlerine sahip olması durumunda geçerlidir.
 
    ```powershell
    Set-AzContext -SubscriptionID <"CSP Subscription ID">
@@ -78,7 +78,7 @@ Müşterinize AdminAgents grubunun sağlamasını sağlarsanız müşteriniz CSP
    az account set --subscription <CSP Subscription ID>
    ```
 
-   d. Müşteri daha sonra rol ataması oluşturur.
+   d. Müşteri daha sonra rol atamasını oluşturur.
     
    ```powershell
    New-AzRoleAssignment -ObjectID "<Object ID of the Admin Agents group provided by partner>" -RoleDefinitionName "Owner" -Scope "/subscriptions/'<CSP subscription ID>'"
@@ -87,7 +87,7 @@ Müşterinize AdminAgents grubunun sağlamasını sağlarsanız müşteriniz CSP
    az role assignment create --role "Owner" --assignee-object-id <Object Id of the Admin Agents group provided by partner> --scope "/subscriptions/<CSP Subscription Id>"
    ```
 
-Abonelik kapsamında sahip izinleri vermek yerine kaynak grubu veya kaynak düzeyinde izin veebilirsiniz. 
+Abonelik kapsamında sahip izinleri vermek yerine, kaynak grubu veya kaynak düzeyinde izin verebilirsiniz. 
 
 - Kaynak grubu düzeyinde
 
@@ -107,7 +107,7 @@ Abonelik kapsamında sahip izinleri vermek yerine kaynak grubu veya kaynak düze
    az role assignment create --role "Owner" --assignee-object-id <Object Id of the Admin Agents group provided by partner> --scope "<Resource URI>"
    ```
 
-Yukarıdaki adımlar işe çalışmıyorsa veya deneme sırasında hatalarla karşınıza çıkarsanız, müşteriniz için yönetici haklarını yeniden sağlamak için aşağıdaki "hepsini yakala" yordamını deneyin.
+Yukarıdaki adımlar işe yoksa veya bu işlemleri gerçekleştirmeye çalışırken hata alırsanız, müşterinizin yönetici haklarını yeniden devreye sokmak için aşağıdaki "catch-all" yordamını deneyin.
 
 ```powershell
 Install-Module -Name Az.Resources -Force -Verbose
@@ -119,19 +119,19 @@ New-AzRoleAssignment -ObjectId <principal ID> -RoleDefinitionName "Owner" -Scope
 
 ### <a name="troubleshooting"></a>Sorun giderme
 
-Müşteri yukarıdaki 6. adımı tamamlayamazsa müşterinin aşağıdaki komutu denemesi gerekir:
+Müşteri yukarıdaki 6. adımı tamamlayamadıysanız, müşterinin aşağıdaki komutu denemesini sağlayabilirsiniz:
 
 ```powershell
 New-AzRoleAssignment -ObjectId <principal ID> -RoleDefinitionName "Owner" -Scope "/subscriptions/<costumer subscription>" -ObjectType "ForeignGroup" -Debug > newRoleAssignment.log
 ```
 
-Daha fazla analiz için `newRoleAssignment.log` elde edilen dosyayı Microsoft'a sağlama.
+`newRoleAssignment.log`Daha fazla analiz için elde edilen dosyayı Microsoft 'a sağlayın.
 
-sırasında "hepsini yakala" yordamı başarısız olursa `Import-Module` aşağıdaki adımları deneyin:
+Sırasında "catch-all" yordamı başarısız olursa `Import-Module` , aşağıdaki adımları deneyin:
 - Modül kullanımda olduğundan içeri aktarma başarısız olursa, tüm pencereleri kapatıp yeniden açarak PowerShell oturumunu yeniden başlatın.
-- ile sürümünü `Az.Resources` kontrol `Get-Module Az.Resources -ListAvailable` edin.
-- Sürüm 4.1.1 kullanılabilir listede yoksa, kullansanız `Update-Module Az.Resources -Force` gerekir.
-- Hata belirli bir sürüm `Az.Accounts` olması gerektiğini belirttiyse, yerine bu modülü de `Az.Resources` `Az.Accounts` güncelleştirin. Ardından PowerShell oturumunu yeniden başlatmanız gerekir.
+- Sürümünü ile denetleyin `Az.Resources` `Get-Module Az.Resources -ListAvailable` .
+- Sürüm 4.1.1, kullanılabilir liste içinde değilse, kullanmanız gerekir `Update-Module Az.Resources -Force` .
+- Hata, `Az.Accounts` belirli bir sürüm olması gerektiğini belirtir, bu modülü de `Az.Resources` ile değiştirin `Az.Accounts` . Ardından PowerShell oturumunu yeniden başlatmanız gerekir.
 
 
 ## <a name="next-steps"></a>Sonraki adımlar

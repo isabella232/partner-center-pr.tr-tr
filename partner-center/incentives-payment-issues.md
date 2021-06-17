@@ -2,36 +2,36 @@
 title: Ödeme ve kazanç sorunlarını giderme
 ms.topic: article
 ms.date: 02/05/2021
-description: Eksik veya yanlış kazançlar, uygunluk sorunları gibi sorunları çözmeyi ve teşvik kazançlarınızı mudaviz etmeyi öğrenin.
+description: Eksik veya yanlış kazanç, uygunluk sorunları ve teşvikleri gelirinizi mutabık kılma gibi sorunları çözmeyi öğrenin.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 7b67564fbf469ac23ad514d96c3ec7b27bb3a5e6
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: ad71a6e02d6472ae844c504491e5acb05d5d6426
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110151959"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112277870"
 ---
-# <a name="troubleshooting-missing-payments-incorrect-earnings-and-other-issues"></a>Eksik ödemeler, yanlış kazançlar ve diğer sorunları giderme
+# <a name="troubleshooting-missing-payments-incorrect-earnings-and-other-issues"></a>Eksik ödemeler, yanlış kazanç ve diğer sorunlar hakkında sorun giderme
 
-**Uygun roller:** Teşvikler yöneticisi
+**Uygun roller**: teşvikleri admin
 
-Bu makale teşvik programınıza ilişkin kazanç veya ödeme sorunlarını çözmenize yardımcı olur. Kapsamına dahil olan konular arasında ödemelerin zamanlaması, kazanç uygunluğunu denetleme ve ödeme ve vergi profillerinizi düzgün bir şekilde ayarlamanın önemi yer almaktadır.
+Bu makale, teşvikleri programınızdaki kazanç veya ödeme sorunlarını çözmenize yardımcı olur. Kapsanan konular, ödemelerin zamanlamasını, kazanç uygunluğunuzu kontrol etmeyi ve ödeme ve vergi profillerinizi doğru şekilde ayarlamanın önemini içerir.
 
-## <a name="who-can-create-or-update-payout-and-tax-profiles-for-my-organization"></a>Kuruluşum için ödeme ve vergi profillerini kim oluşturabilir veya güncelleştirebilirsiniz?
+## <a name="who-can-create-or-update-payout-and-tax-profiles-for-my-organization"></a>Kuruluşum için ödeyen ve vergi profilleri kimler oluşturabilir veya güncelleştirebilir?
 
-İlgili teşvik programı ve MPN konumu için İş Ortağı Merkezi yöneticisi rolüne sahip kullanıcılar, kuruluşun ödeme ve vergi profillerini güncelleştirin ve görebilir.
+İlgili müşteriler programı ve MPN konumu için Iş Ortağı Merkezi 'nde teşvik yönetici rolüne sahip kullanıcılar, kuruluşun ödeme ve vergi profillerini güncelleştirebilir ve görebilir.
 
 ## <a name="how-long-does-it-take-for-microsoft-to-approve-my-pending-payout-andor-tax-profiles"></a>Microsoft’un bekleyen ödeme ve/veya veri profillerimi onaylaması ne kadar sürer?
 
-Doğrulama 48 saate kadar sürebilir. Bu süre boyunca Genel Bakış sayfasındaki profil durumunuz Kayıt doğrulanıyor olarak gösterilir. İşlem tamamlandıktan sonra, durum başarılı  olursa Kaydoldu olarak veya Eylem Gerekiyor – Gerekirse Ödeme **ve/veya vergi ayrıntılarını güncelleştir olarak** gösterir.
+Doğrulama 48 saate kadar sürebilir. Bu süre boyunca Genel Bakış sayfasındaki profil durumunuz Kayıt doğrulanıyor olarak gösterilir. İşlem tamamlandıktan sonra, durum, **başarılı olursa ya da** **eylem gerekliyse – ödeme ve/veya vergi ayrıntılarını güncelleştir** ' i yeniden gösterir.
 
 ## <a name="how-do-i-know-if-i-have-completed-my-payout-and-tax-profile-correctly"></a>Ödeme ve vergi profilimi doğru tamamladığımdan nasıl emin olabilirim?
 
-Kaydınızın durumu Genel Bakış sayfasında görüntülenir. Profillerinizi oluşturmayı bitirdikten sonra durumunuz Kaydı **doğrular olur.** Bilginizi doğrulandıktan sonra durumunuz Kayıtlı olarak **değişir.** Bu durum, ödeme ve vergi profilinizin ve kaydınızı başarıyla tamamlamış olduğunu gösterir.
+Kaydınızın durumu Genel Bakış sayfasında görüntülenir. Profillerinizi oluşturmayı tamamladıktan sonra durumunuz **kayıt doğrulaması** yapılır. Bilgilerinizi doğrulandıktan sonra durumunuz **kayıtlı** olarak değişir. Bu durum, ödeme ve vergi profilinizin ve kaydınıza başarıyla tamamlandığını gösterir.
 
 ## <a name="why-do-i-need-to-update-my-tax-profile-to-use-it-with-a-new-incentive-program"></a>Neden vergi profilimi yeni bir teşvik programıyla kullanmak için güncelleştirmem gerekiyor?
 
@@ -41,48 +41,48 @@ Teşvikler için ödemeyi, teşvik türüne bağlı olarak farklı konumlardan y
 
 Microsoft şu anda ödeme ve vergi profillerini silme seçeneğini desteklemez.
 
-## <a name="my-payment-is-missing-or-incorrect"></a>Ödemem eksik veya yanlış
+## <a name="my-payment-is-missing-or-incorrect"></a>Ödeme eksik veya hatalı
 
 Eksik veya hatalı ödemelere genellikle aşağıdakilerden biri neden olur:
 
-- **Uygun olmadığınız bir durum olabilir.**  Kazanç sağlamak için Operasyonel Uygunluk Gereksinimlerini karşılamanız, başka bir deyişle ilgili programın kazanç dönemine kaydolmuş olmanız gerekir.
-- **Gereksinimleri karşılamıyor olabilir.**  Istediğiniz teşvik için uygunluk ve uygun gelir kurallarına uyup uymama konusunda bilgi edin.
+- **Uygun olmayabilir.**  Kazanç sağlamak için Operasyonel Uygunluk Gereksinimlerini karşılamanız, başka bir deyişle ilgili programın kazanç dönemine kaydolmuş olmanız gerekir.
+- **Gereksinimleri karşılamamış olabilirsiniz.**  Aradığınız özenlerle ilgili uygunluk ve uygun gelir kurallarını karşıladığınızı kontrol edin.
 
-  **Uygunluk durumunuzu kontrol etmek için**
+  **Uygunluk bilgilerinizi denetlemek için**
 
-  1. İş ortağı [teşvikleri'ne oturum açma.](https://partner.microsoft.com/membership/partner-incentives)
+  1. [Iş ortağı teşvikleri](https://partner.microsoft.com/membership/partner-incentives)oturum açın.
 
-  2. Ekranı kaydırarak programınıza uygun belgelere inin.
+  2. Programınızın belgelerine gidin.
   
-  3. İstediğiniz belge bağlantısını seçin ve bölümleri gözden geçirme 
+  3. İstediğiniz belge bağlantısını seçin ve ardından bölümleri gözden geçirin 
 
-**İş ortağı uygunluğu** **ve Uygun gelir kuralları.**
+**Iş ortağı uygunluk** ve **uygun gelir kuralları**.
 
-- **Ödeme profiliniz eksik olabilir.** Teşvik kazançlarınızın başlangıç tarihi, ödeme ve veri ayrıntılarıyla eklenme de dahil olmak üzere tüm uygunluk gereksinimlerini karşıladığınız ayın ilk günü olacaktır. Ödeme ve veri ayrıntılarının tamamlanmasından önceki aylar için kazanç sağlanmaz. Örneğin Nisan 2020 boyunca tüm gereksinimleri tamamladıysanız kazanç başlangıç tarihi 1 Nisan 2020 olacaktır.
-- **Bekleyen bir eyleme sahip olabilir.**  Sizden bir eylem beklendiği için teşvikleriniz işlenmiyor olabilir.
+- **Ödeme profiliniz tamamlanmamış olabilir.** Teşvik kazançlarınızın başlangıç tarihi, ödeme ve veri ayrıntılarıyla eklenme de dahil olmak üzere tüm uygunluk gereksinimlerini karşıladığınız ayın ilk günü olacaktır. Ödeme ve veri ayrıntılarının tamamlanmasından önceki aylar için kazanç sağlanmaz. Örneğin Nisan 2020 boyunca tüm gereksinimleri tamamladıysanız kazanç başlangıç tarihi 1 Nisan 2020 olacaktır.
+- **Bekleyen bir eyleminiz olabilir**.  Sizden bir eylem beklendiği için teşvikleriniz işlenmiyor olabilir.
 
   **Bekleyen eylemlerinizi görüntülemek için**
 
-  1. İş ortağı [teşvikleri'ne oturum açma.](https://partner.microsoft.com/membership/partner-incentives)
-  2. İşlem **geçmişi sayfasını** açın. Bekleyen Vergi profili, Bekleyen ödeme profili veya Bekleyen vergi faturası gönderimi gibi tamamlanacak bekleyen eylemler **için** bu sayfada yer alan alanları **gözden geçirebilirsiniz.**
+  1. [Iş ortağı teşvikleri](https://partner.microsoft.com/membership/partner-incentives)oturum açın.
+  2. **İşlem geçmişi** sayfasını açın. **Bekleyen vergi profili**, **bekleyen ödeme profili** veya **bekleyen vergi fatura gönderimi** gibi bekleyen tüm eylemlerin tamamlanması için bu sayfadaki alanları gözden geçirin.
 
-Bu eylemler yardımcı olmazsa ve ödemelerinizi hala eksik veya yanlışsa denetim ile iletişime [geçin.](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives)
+Bu eylemler yardım yoksa ve ödemeler hala eksik veya yanlış ise [desteğe](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives)başvurun.
 
-## <a name="how-can-i-reconcile-my-adjustments"></a>Ayarlamalarımı nasıl muadi uzlaştır musunuz?
+## <a name="how-can-i-reconcile-my-adjustments"></a>Ayarlamalarımı nasıl giderebilirim?
 
-Kazanç ve işlem ayrıntılarınızı indirerek ayarlamalarınızı bulup uzlaştırabilirsiniz.
+Telafi ve işlem ayrıntılarınızı indirerek düzeltmelerinizi bulabilir ve mutabık hale getirebilirsiniz.
 
 1. [İş Ortağı Merkezi panosunda](https://partner.microsoft.com/dashboard/) oturum açın.
-2. Üst gezinti çubuğunda para simgesini ve ardından İşlem **geçmişi'ni seçin.**
-3. Uygun filtreleri uygulama. (Aşağıdaki **Önemli nota** bakın.)
-4. Verilerinizi filtrelenin sonra İndirmeyi başlat'ı **ve** ardından Verileri dışarı **aktar'ı seçin.** Verileriniz bir CSV dosyasında açılır.
-5. CSV dosyasında Sütun P, Kazanç **türü'ne gidin.**
-6. Bu sütunu **Adjustment-Rebate için filtrele.** Sütun S'de her düzeltmenin ayı görüntülenir.
+2. Üst gezinti çubuğunda para simgesini seçin ve ardından **işlem geçmişi**' ni seçin.
+3. Uygun filtreleri uygulayın. (Aşağıdaki **önemli** nota bakın.)
+4. Verilerinizi filtreledikten sonra **Indirmeyi Başlat**' ı seçin ve ardından **verileri dışarı aktar**' ı seçin. Verileriniz bir CSV dosyasında açılır.
+5. CSV dosyasında, sütun P, **atma türü**' ne gidin.
+6. Bu sütunu **ayarlama-indirim** için filtreleyin. Her bir ayarlamanın ayını sütun S ' de görebilirsiniz.
 
 >[!IMPORTANT]
->Önceki kazanç dönemleri için uygulanan düzeltmeler, düzeltmenin uygulandığı aya göre kazançlarda görünmez. Düzeltmeler her zaman düzeltmenin uygulandığı ayın kazanç raporuna yansıtılacaktır.
+>Önceki kazanç dönemlerine uygulanan ayarlamalar, ayarlamanın uygulandığı aya ait kazanç açısından görünmez. Ayarlamalar, ayarlamanın uygulandığı aya ait kazanç raporunda her zaman yansıtılacaktır.
 >
->Örneğin, Eylül 2019'da işlenen Ocak 2019 kazançları için düzeltme, Eylül 2019 için kazanç tutarına yansıtmayacak. Ancak, Eylül 2019 ' den Itibaren ödeme alındığında, Eylül ayında uygulanan 2019 Ocak için ayarlamayı dahil eder. Bu senaryoda, uygulanan ayarlamayı görmek için 2019 Ocak için işlem ayrıntılarını indirmeniz gerekir.
+>Örneğin, 2019 Eylül 2019 ' de işlenen Ocak kazancı için bir ayarlama, 2019 Eylül ayının kazanç miktarında yansıtılacaktır. Ancak, Eylül 2019 ' den Itibaren ödeme alındığında, Eylül ayında uygulanan 2019 Ocak için ayarlamayı dahil eder. Bu senaryoda, uygulanan ayarlamayı görmek için 2019 Ocak için işlem ayrıntılarını indirmeniz gerekir.
 >
 >Tarih filtrelerinizi ayarladığınızda bunu göz önünde bulundurun. Yukarıda belirtildiği gibi, önceki dönemlerin ayarlamaları yalnızca ayarlamanın uygulandığı ay içinde görünür olur. Tarih aralığı ' nın, bulmaya çalıştığınız ayarlamanın ayına karşılık geldiğinden emin olun. Filtrelerinizi kaldırmak için **Tümünü Temizle** ' yi seçmeniz ve sonra yenilerini uygulamanız gerekebilir.
 
@@ -114,21 +114,21 @@ Eksik veya hatalı kazançların nedeni aşağıdaki sorunlardan biri olabilir:
 
 Kazançlar hem **işlem geçmişi** sayfasında hem de **ödemeler** sayfasında görüntülenir. Iş Ortağı Merkezi ' nde gezinti çubuğundaki **ödeme** simgesini seçerek her iki sayfaya da erişebilirsiniz.
 
-:::image type="content" source="images/incentives/paymenticon.png" alt-text="İşlem bilgileri":::
+:::image type="content" source="images/incentives/paymenticon.png" alt-text="İşlem bilgileri.":::
 
 Işlem geçmişi görünümünde aylık kazanç miktarları, belirli bir ay için alınan ödeme tutarına göre hizalanmayabilir. Bunun nedeni, gelecekteki ödemeler için uygulanan önceki ödeme dönemlerine yönelik yeniden hesaplamalar ve ayarlamalardır.
 
-Örneğin, Eylül 2019'da işlenen Ocak 2019 kazançları için düzeltme, Eylül 2019 için kazanç tutarına yansıtlanmaz; Ancak Eylül 2019 ödemesi alınca Eylül ayında uygulanan Ocak 2019 düzeltmesi de dahil olacak.
+Örneğin, 2019 Eylül 2019 ' de işlenen Ocak kazancı için bir ayarlama, 2019 Eylül ayının kazanç miktarına yansıtılmaz; Ancak, Eylül 2019 ' den Itibaren ödeme alındığında, Eylül ayında uygulanan 2019 Ocak için ayarlamayı dahil eder.
 
-Bu senaryoda, ödemenize dahil edilen tüm kazançların tam görünümünü elde etmek için işlem ayrıntılarını indirmeniz gerekir.  Ayrıca, her ödeme için işlemleri indirmek için Ödemeler görünümüne de bakabilirsiniz.
+Bu senaryoda, ödemenizin içerdiği tüm gelirin tamamını görmek için işlem ayrıntılarını indirmeniz gerekir.  Ayrıca, her ödeme için işlemleri indirmek üzere ödemeler görünümüne gidebilirsiniz.
 
 ### <a name="transaction-history"></a>İşlem geçmişi
 
-Bu görünüm, aya göre kazanç ve ödeme eğilimlerini, durumuna göre kazançları ve işlem ayrıntılarını ve her bir işlem için ödeme durumunu gösterir. Veriler yalnızca teşvik kullanıcısı veya yöneticisi olduğunuz programlar ve MPN kimlikleri için görünür.
+Bu görünüm, her bir işlemin ödeme durumuyla birlikte aya göre kazanç ve ödeme eğilimlerini, duruma göre kazanç ve işlem ayrıntılarını gösterir. Veriler yalnızca bir kullanıcı veya yönetici olduğunuz programlar ve MPN kimlikleri için görülebilir.
 
 ### <a name="payments"></a>Ödemeler
 
-Bu görünüm, tüm programlar ve MPN kimlikleri için ödemeleri görüntülemenizi sağlar. Veriler yalnızca teşvik kullanıcısı veya yöneticisi olduğunuz programlar ve MPN kimlikleri için görünür. Bu görünümden, havaleyi indirebilir veya ödemeye göre işlem ayrıntılarını görüntüebilirsiniz.
+Bu görünüm tüm programlar ve MPN kimlikleri için ödemeleri görüntülemenize olanak sağlar. Veriler yalnızca bir kullanıcı veya yönetici olduğunuz programlar ve MPN kimlikleri için görülebilir. Bu görünümden, havalesi indirebilir veya işlem ayrıntılarını ödemeye göre görüntüleyebilirsiniz.
 
 | Bunu yapmak için | Buraya gidin |
 | ------ | :----------- | 
@@ -139,31 +139,31 @@ Bu görünüm, tüm programlar ve MPN kimlikleri için ödemeleri görüntüleme
 
 ### <a name="missing-or-incorrect-earnings-and-payments"></a>Eksik veya yanlış kazançlar ve ödemeler
 
-Bir ödeme veya işlem ayrıntılarını bulamıyorsanız, doğru filtreleri uygulanıp uygulanmadığını kontrol edin. Bazı program adları değiştiği için (örneğin, CSP 1T doğrudan Iş ortağı artık CSP doğrudan Bill partner), birden çok seçim kullanmanız gerekebilir.
+Ödeme veya işlem ayrıntılarını bulamıyorsanız doğru filtreleri uygulama olup olmadığını denetleyin. Bazı program adları değişti (örneğin, CSP 1T Doğrudan İş Ortağı CSP Direct Bill Partner) birden çok seçim kullanmak zorunda olabilir.
 
-Gelirinizi hala bulamadıysanız veya gösterilen kazanç doğru değilse, [desteğe](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives)başvurun.
+Kazançlarınızı hala bulamıyorsanız veya gösterilen kazançların yanlış olduğuna inanıyorsanız Destek'e [başvurun.](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives)
 
-## <a name="how-do-i-reconcile-my-earnings"></a>Nasıl yaparım? kazançlarını uzlaştırır mi?
+## <a name="how-do-i-reconcile-my-earnings"></a>Nasıl yaparım? mu muayedi olarak kabul mü edersiniz?
 
 Kazançlarınızda bir tutarsızlık varsa aşağıdaki adımları izleyin:
 
-1. **Kazançlar için uygun olduğunuzu doğrulayın.**  Kazançlar yalnızca, [Program uygunluk](incentives-determined-your-program-eligibility.md) ve [kazanç uygunluk koşullarını](incentives-confirm-your-earnings-eligibility.md)karşıladıysanız kullanılabilir.
+1. **Kazançlar için uygun olduğunuzu doğrulayın.**  Kazançlar yalnızca hem program uygunluğunu hem de kazanç [uygunluğunu](incentives-determined-your-program-eligibility.md) [karşılarsanız kullanılabilir.](incentives-confirm-your-earnings-eligibility.md)
 
 2. **Ödeme profilinizin eksiksiz olduğunu doğrulayın.**  Teşvik kazançlarınızın başlangıç tarihi, ödeme ve veri ayrıntılarıyla eklenme de dahil olmak üzere tüm uygunluk gereksinimlerini karşıladığınız ayın ilk günü olacaktır. Ödeme ve veri ayrıntılarının tamamlanmasından önceki aylar için kazanç sağlanmaz. Örneğin Nisan 2020 boyunca tüm gereksinimleri tamamladıysanız kazanç başlangıç tarihi 1 Nisan 2020 olacaktır. 
 
-3. **Gereksinimleri karşıladığınızı doğrulayın.**  Özensiz programınız için [uygunluk](#my-payment-is-missing-or-incorrect) ve uygun gelir kuralları karşılanıp karşılanmadığını denetleyin.
+3. **Gereksinimleri karşıladığınızı doğrulayın.**  Teşvik programınız için uygunluk ve uygun [gelir](#my-payment-is-missing-or-incorrect) kurallarına uyup uymamanızı kontrol edin.
 
-Bu eylemler yardım yoksa ve gelirleriniz hala mutabık kılınmadığında [desteğe](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives)başvurun.
+Bu eylemler yardımcı olmazsa ve kazançlarınız hala mutabık kılınmamışsa Destek ile iletişime [geçin.](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives)
 
 ## <a name="where-can-i-find-my-rates"></a>Ücretlerimi nerede bulabilirim?
 
-1. [Iş ortağı teşvikleri](https://partner.microsoft.com/membership/partner-incentives)oturum açın.
+1. İş ortağı [teşvikleri'ne oturum açma.](https://partner.microsoft.com/membership/partner-incentives)
 
-2. Programınızın belgelerine erişmek için aşağı kaydırın.
+2. Ekranı aşağı kaydırarak programınıza uygun belgelere erişin.
 
-3. İlgili program için belge bağlantısını seçin.
+3. İlgili programın belge bağlantısını seçin.
 
-4. Belgesinde, **Program yapısına ve oranlarına** bakın.
+4. Belgede Program yapısı ve **Rates bölümüne bakın.**
 
 ## <a name="next-steps"></a>Sonraki adımlar
 

@@ -8,12 +8,12 @@ description: Müşterileriniz için satmanız veya yönetmeniz gereken Dynamics 
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: 0e2880f8548b220d708c61c08a0ea9fb37700240
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 2c0b90fdeaf8bf1715d89221959aeb49e186d150
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110152809"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112277513"
 ---
 # <a name="dynamics-usage-report-available-from-the-partner-center-insights-dashboard"></a>Iş Ortağı Merkezi Öngörüler panosundan Dynamics kullanım raporu
 
@@ -46,39 +46,39 @@ Dynamics kullanım raporu, müşterileriniz için satmış olduğunuz veya yöne
 
    Mikro grafik, seçili zaman dilimi boyunca aylık etkin olan her bir bilgisayar için aylık bir eğilim sunar.
 
-- Etkin Kullanım %: Seçilen zaman çerçevesi için kullanılabilir olan yerlerin yüzdesi olarak ifade edilen toplam etkin yer sayısı. 
+- Etkin kullanım%: seçili zaman çerçevesi için kullanılabilir koltuk yüzdesi olarak ifade edilen toplam etkin lisans sayısı. 
 
-   Mikro grafik, seçili zaman dönemi boyunca etkin kullanım yüzdesinin aylık eğilimini gösterir.
+   Mikro grafik, seçili zaman dilimi boyunca etkin kullanım yüzdesinin aylık eğilimini gösterir.
 
-:::image type="content" source="images/pci/pci-dynamics-usage-summary.png" alt-text="Dynamics kullanım özeti":::
+:::image type="content" source="images/pci/pci-dynamics-usage-summary.png" alt-text="Dynamics Kullanım Özeti.":::
 
-## <a name="dynamics-usage-by-geography"></a>Coğrafyaya göre Dynamics kullanımı
+## <a name="dynamics-usage-by-geography"></a>Coğrafya tarafından Dynamics kullanımı
 
-Coğrafyaya **göre Dynamics kullanımı,** kullanılabilir yerlerin ve etkin yerlerin müşteri ülkelerine göre dağılımını gösterir. Haritada daha açık renkler düşük değerleri, koyu renkler ise daha yüksek değerleri temsil eder. Kılavuzda bir ülke arayabilir ve bu ülkeyi seçin. Daha yakından bakmak için de yakınlaştırın.
+**Coğrafya tarafından sunulan Dynamics kullanımı** , kullanılabilir bilgisayar ve etkin bilgisayar, müşteri ülkesine göre dağılımını gösterir. Haritadaki daha açık renkler daha düşük değerleri temsil ederken, daha koyu renkler daha yüksek değerleri temsil eder. Kılavuzdaki bir ülkeyi arayabilir ve seçebilirsiniz. Daha yakından bir görünüm için de yakınlaştırma yapabilirsiniz.
 
-**Ülke/bölge sayısı tablosu,** Azure kullanım olaylarının oluşturularak toplam ülke/bölge sayısını gösterir.
+**Ülke/bölge tablosu sayısı** , Azure kullanım olaylarının oluşturulduğu toplam ülkeleri/bölgeleri gösterir.
 
-Haritanın konumunu yakınlaştırmak için kılavuzda bir ülke arayabilir ve bu ülkeyi seçin. Özgün **görünüme** dönmek için haritada Giriş seçeneğini belirleyin.
+Haritada konum yakınlaştırmak için kılavuzda bir ülke arayabilir ve seçebilirsiniz. Özgün görünüme dönmek için haritada **giriş** seçeneğini belirleyin.
 
-:::image type="content" source="images/pci/pci-dynamics-usage-geography.png" alt-text="Coğrafyaya göre Dynamics kullanımı":::
+:::image type="content" source="images/pci/pci-dynamics-usage-geography.png" alt-text="Coğrafya tarafından Dynamics kullanımı.":::
 
-## <a name="dynamics-usage-by-sku"></a>SKU'ya göre Dynamics kullanımı
+## <a name="dynamics-usage-by-sku"></a>SKU tarafından Dynamics kullanımı
 
-SKU'nun Dynamics kullanımı, SKU'lara göre aylık kullanılabilir yer, etkin yer ve atanmış yer eğilimlerini gösterir.
+SKU tarafından sunulan Dynamics kullanımı, kullanılabilir koltuk, etkin koltuk ve SKU 'Lar tarafından atanan koltuk için aylık eğilimi gösterir.
 
-:::image type="content" source="images/pci/pci-dynamics-usage-sku.png" alt-text="SKU'ya göre Dynamics kullanımı":::
+:::image type="content" source="images/pci/pci-dynamics-usage-sku.png" alt-text="SKU tarafından Dynamics kullanımı.":::
 
-## <a name="subscriptions-performance"></a>Aboneliklerin performansı
+## <a name="subscriptions-performance"></a>Abonelik performansı
 
-Abonelik performansı, müşteri aboneliği başına etkin kullanım aylık eğilimini gösterir. Faturalı gelire göre ilk 100 müşteriye ilişkin veriler tabloda gösterilir ve tüm aboneliklerin ayrıntılarını görüntülemek için herhangi bir müşteriyi arayabilir veya ham verileri indirebilirsiniz.
+Abonelik performansı, müşteri aboneliği başına etkin kullanım için aylık eğilimi gösterir. Faturalandırılan ilk 100 müşterinin verileri, tabloda gösterilir ve tüm Aboneliklerle ilgili ayrıntıları görüntülemek için herhangi bir müşteriyi arayabilir veya ham verileri indirebilirsiniz.
 
-:::image type="content" source="images/pci/pci-dynamics-usage-subscription.png" alt-text="Dynamics aboneliği performansı":::
+:::image type="content" source="images/pci/pci-dynamics-usage-subscription.png" alt-text="Dynamics abonelik performansı.":::
 
 ## <a name="dynamics-usage-distribution"></a>Dynamics kullanım dağıtımı
 
 Dynamics kullanım dağıtımı, kullanılabilir koltuk, etkin koltuk ve SKU 'Lar tarafından atanan koltuk dökümünü gösterir.
 
-:::image type="content" source="images/pci/pci-dynamics-usage-distribution.png" alt-text="Dynamics kullanım dağıtımı":::
+:::image type="content" source="images/pci/pci-dynamics-usage-distribution.png" alt-text="Dynamics kullanım dağıtımı.":::
 
 ## <a name="next-steps"></a>Sonraki adımlar
 

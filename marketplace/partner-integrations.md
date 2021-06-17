@@ -1,50 +1,50 @@
 ---
 title: Azure Market iş ortağı tümleştirmeleri
-description: Azure ortamınız ile tümleştirilen Azure Market çözümleri hakkında bilgi edinin ve Microsoft iş ortaklarından dağıtım kılavuzlarının bağlantısını alın.
+description: Azure ortamınız Azure Market tümleştirilen farklı çözümler hakkında bilgi edinin ve Microsoft iş ortaklarının dağıtım kılavuzlarına bağlantı edinin.
 ms.service: partner-services
 ms.topic: conceptual
 author: JasonWHowell
 ms.author: jasonh
 ms.date: 11/16/2020
-ms.openlocfilehash: b31486000e59f3d85ee30019ecea000252b297a8
-ms.sourcegitcommit: 1aa43438ad181278052788f15e017f9ae7777943
+ms.openlocfilehash: 56e72af367cdcb264cc444446c5fcbedcd880451
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 11/21/2020
-ms.locfileid: "95006914"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276493"
 ---
 # <a name="azure-marketplace-partner-integrations"></a>Azure Market iş ortağı tümleştirmeleri
 
-İş ortağı çözümlerini Azure ortamınız ile tümleştirmeyi öğrenin. Bu makalede, her bir çözüme genel bakış ve ayrıntılı dağıtım kılavuzlarıyla bağlantılar sunulmaktadır. Çözümler alfabetik sırada listelenmiştir. 
+İş ortağı çözümlerini Azure ortamınıza tümleştirin. Bu makalede, her çözüme genel bir bakış ve ayrıntılı dağıtım kılavuzlarına bağlantılar yer verir. Çözümler alfabetik sırada listelenir. 
 
-## <a name="apache-kafka-on-confluent-cloud"></a>Konluent bulutu üzerinde Apache Kafka
+## <a name="apache-kafka-on-confluent-cloud"></a>Confluent Cloud’da Apache Kafka
 
-![Uyumlu bulut](./media/partners/confluent-cloud.png)
+![Confluent Cloud.](./media/partners/confluent-cloud.png)
 
-Azure, bulut uygulamalarınıza ek olarak, confluent bulutu ile tümleştirmenize olanak sağlar. Uyumlu müşteriler genellikle Azure portal ve uyumlu bulut arasında geziniyor. Örneğin, bir Kullanıcı Azure Marketi 'nde bir saldırgan bulut teklifi satın aldıktan sonra, bu, daha sonra, daha sonra, Confcloud ile bir hesap ayarlamış olmaları beklenir. Bu işlem karmaşıklık ve zaman ekler ve kullanıcıların iki Portal arasında yapılandırma ve kaynakları yönetmesini gerektirir. Microsoft, platformlar genelinde yönetme yükünü azaltmak için, Azure 'dan confluent bulutu ile tümleşik bir sağlama katmanı inşa edin. Çözüm, Azure Market 'te kullanılabilir ve Azure 'da confluent bulut teklifini kullanmak için sorunsuz bir deneyim sağlar
+Azure, bulut uygulamalarınıza ek olarak Confluent Cloud ile de tümleştirin. Confluent müşterileri genellikle Azure portal Confluent Cloud arasında gezinmektedir. Örneğin, bir kullanıcı Azure Market'da Confluent Cloud teklifi satın aldıktan sonra Confluent Cloud ile bir hesap ayarlaması beklenir. Bu işlem karmaşıklık ve zaman ekler ve kullanıcıların iki portal arasında yapılandırmayı ve kaynakları yönetmelerini gerektirir. Platformlar arasında yönetimin yükünü azaltmak için Microsoft, Confluent Cloud ortaklığıyla Azure'dan Confluent Cloud'a tümleşik bir sağlama katmanı oluşturur. Çözüm, Azure'Azure Market Confluent Cloud teklifi kullanımı için sorunsuz bir deneyim sunar
 
-Çözüm, Azure 'da, confluent bulut kaynakları sağlamak için etkinleştirilen bir kaynak sağlayıcısı kullanır. Bu, kullanıcıların Azure portal, Azure CLı ve Azure SDK 'Ları aracılığıyla gerçek zamanlı olay akışına erişmesini sağlar. Uyumlu bulut, ortamlar, kümeler, konular, API anahtarları ve yönetilen bağlayıcılar içeren SaaS uygulamasını sahiptir ve çalıştırır.
+Çözüm, Confluent Cloud kaynaklarının sağlanması için Azure'da etkinleştirilmiş bir kaynak sağlayıcısı kullanır. Bu, kullanıcıların Azure portal, Azure CLI ve Azure SDK'ları aracılığıyla gerçek zamanlı olay akışına erişmesine olanak sağlar. Confluent Cloud ortamlar, kümeler, konu başlıkları, API anahtarları ve yönetilen bağlayıcılar içeren SaaS uygulamasının sahibidir ve bu uygulamayı çalıştırır.
 
-Confluent bulutu ile derin tümleştirme aşağıdaki özellikleri sunar:
+Confluent Cloud ile derin tümleştirme aşağıdaki özellikleri sağlar:
 
-- Tam olarak yönetilen altyapıyla Azure portal yeni bir confluent bulut kuruluş kaynağı sağlayın.
-- Azure Active Directory ile Azure 'da tek bir oturum açmayı kolaylaştırın ve; confluent bulut portalında ayrı kimlik doğrulama gerekmez.
-- Azure abonelik faturalaması aracılığıyla, uyumlu bulut tüketim ücretlerinden oluşan Birleşik faturalandırma ücretini alın.
-- Azure portal, Azure kaynaklarınızın yanı sıra, **tüm kaynaklar** sayfasında bulunan confluent bulut kaynaklarını yönetin ve izleyin.
+- Buluttan tam olarak yönetilen altyapıyla yeni bir Confluent Azure portal kaynağı sağlama.
+- Azure Active Directory ile Azure'dan Confluent Cloud'a çoklu oturum Azure Active Directory; Confluent Bulut portalında ayrı kimlik doğrulaması gerekmez.
+- Azure aboneliği faturalaması aracılığıyla Confluent Bulut tüketim ücretlerinin birleşik faturalarını alın.
+- Confluent Cloud kaynaklarını azure Azure portal azure kaynaklarınızı ve  tüm kaynaklar sayfasından takip edin.
 
-[Uyuş bulut dağıtım kılavuzlarını](https://docs.confluent.io/current/cloud/marketplace/index.html)
+[Confluent Bulut dağıtım kılavuzları](https://docs.confluent.io/current/cloud/marketplace/index.html)
 
-Azure 'da güvenlikle ilgili sorunlar için adresine gidin [https://support.confluent.io](https://support.confluent.io) . İlk kez kullanıcı değilseniz, şifre destek portalında oturum açmadan önce parolanızı sıfırlayın. Confan hesabınız yoksa, lütfen adresine bir e-posta gönderin [cloud-support@confluent.io](mailto:cloud-support@confluent.io) .
+Azure'da Confluent ile ilgili sorunlar için [https://support.confluent.io](https://support.confluent.io) gidin. İlk kez kullanıcıysanız Confluent Destek Portalı'da oturum açmadan önce parolanızı sıfırlayın. Confluent hesabınız yoksa adresine bir e-posta [cloud-support@confluent.io](mailto:cloud-support@confluent.io) gönderin.
 
 ## <a name="datadog"></a>Datadog
 
-![Dataköpek logosu](./media/partners/datadog.png)
+![DataDog Logosu.](./media/partners/datadog.png)
 
-Dataköpek, Azure kullanıcılarına, karma ve çok bulut ortamlarında uygulamalarının sistem durumunu ve performansını anlamalarına yönelik Observability ve güvenlik araçları sağlar. Ancak, gerekli tümleştirmelerin yapılandırılması genellikle Azure portal ve veri köpek arasında gezinme gerektirir. Microsoft, portallarda yapılandırma ve kaynak yönetimini basitleştirmek için Azure 'da tümleşik bir Dataköpek çözümü oluşturmak üzere veri Köbir şekilde çalışmıştır. Azure Marketi aracılığıyla sunulan bu çözüm, Azure müşterilerinin Dataköpek 'nın bulut izleme çözümünü kullanmasına yönelik sorunsuz bir deneyim sunar.
+Datadog, Azure kullanıcılarına hibrit ve çok bulutlu ortamlarda uygulamalarının sistem durumunu ve performansını anlamaları için gözlemlenebilirlik ve güvenlik araçları sağlar. Ancak gerekli tümleştirmelerin yapılandırılması için genellikle veri kaynağı ile Datadog Azure portal gezinmesi gerekir. Microsoft, portallar genelinde yapılandırma ve kaynak yönetimini basitleştirmek için Datadog ile birlikte azure'da tümleşik bir Datadog çözümü oluşturmak için çalıştı. Bu çözüm Azure Market, Azure müşterilerinin Datadog'un bulut izleme çözümünü kullanmaları için sorunsuz bir deneyim sağlar.
 
-Bu çözüm hakkında daha fazla bilgi edinmek ve genel önizlemeye kaydolmak için bkz. [Azure izleyici belgeleri](/azure/azure-monitor/platform/partners#datadog) .
+Bu çözüm [Azure İzleyici daha](/azure/azure-monitor/platform/partners#datadog) fazla bilgi edinmek ve genel önizlemeye kaydolmak için aşağıdaki belgeye bakın.
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-- [Azure Market çevrimiçi Mağazası](https://azure.microsoft.com/marketplace/)
+- [Azure Market çevrimiçi mağaza](https://azure.microsoft.com/marketplace/)
 - [Microsoft Learn: Azure hesabı oluşturma](/learn/modules/create-an-azure-account/)

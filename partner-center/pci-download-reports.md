@@ -1,47 +1,47 @@
 ---
-title: Öngörüler Indirme raporu panosu
+title: Insights Download Report Dashboard
 ms.topic: article
 ms.date: 10/14/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Iş Ortağı Merkezi Birleşik raporlama panosundan ve Iş Ortağı Merkezi öngörülerinin verilerini indirme ve dışa aktarma hakkında bilgi edinin.
+description: Birleştirilmiş raporlama panosundan ve İş Ortağı Merkezi Insights raporlarından verileri indirmeyi İş Ortağı Merkezi öğrenin.
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 266baf0eb3501cba984ec0fbaed4508366b92b8b
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 6124e20efe16e134c441bb1fd72f022e841083b0
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110152792"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276243"
 ---
 # <a name="download-reports"></a>Raporları indir
 
-**Uygun roller**: Executive rapor Görüntüleyici | Rapor Görüntüleyicisi
+**Uygun roller:** Yönetici rapor görüntüleyicisi | Rapor görüntüleyicisi
 
 ## <a name="introduction"></a>Giriş
 
-Öngörüler panosundaki rapor Indirme Merkezi, Iş Ortağı Merkezi öngörülerinin sekmeyle ayrılmış değer (TSV) biçiminde gücünü sağlayan ham veri kümelerini dışa aktarabilirsiniz. Bu, iş gereksinimlerine bağlı olarak veriler üzerinde ayrıntılı analiz yapmanızı sağlar.
+Öngörüler panosunda Raporları İndir hub'ı, İş Ortağı Merkezi Insights raporlarına güç sağlayan ham veri kümelerini sekmeyle ayrılmış değer (TSV) biçiminde dışarı aktarmayı sağlar. Bu, iş ihtiyaçlarına göre veriler üzerinde daha derin analizler yapmanizi sağlar.
 
-Oluşturulduktan sonra rapor, Microsoft Excel gibi araçları kullanarak indirmeniz ve çözümlemeniz için **oluşturulan raporlar** bölümünde kullanılabilir olacaktır.
+Oluşturulan rapor, Microsoft Excel gibi araçları **kullanarak** indirip analiz etmeniz için Oluşturulan raporlar bölümünde kullanılabilir.
 
-**Yeni rapor oluştur**
+**Yeni rapor oluşturma**
 
-Bir rapor oluşturmak için önce rapor **Seç** açılan listesinden raporu seçin. Ardından **Tarih aralığı Seç** açılan menüsünden Tarih aralığını seçin. **Oluştur**' u seçin. Rapor, sekmeyle ayrılmış değer (TSV) biçiminde oluşturulur ve birkaç dakika içinde **oluşturulan raporlar** bölümünde indirilebilir. Önceki 14 gün içinde oluşturulan raporlar indirilmek üzere kullanılabilir olacaktır.
+Rapor oluşturmak için önce Raporu seç açılan **listesinden** raporu seçin. Ardından Tarih aralığı seçin açılan **listesinden tarih aralığını** seçin. **Oluştur'a seçin.** Rapor, sekmeyle ayrılmış değer (TSV) biçiminde oluşturulur ve birkaç dakika içinde **Oluşturulan** raporlar bölümünde indirilebilir. Son 14 gün içinde oluşturulan raporlar indirilebilir.
 
-:::image type="content" source="images/pci/create-new-report.png" alt-text="Yeni rapor oluştur":::
+:::image type="content" source="images/pci/create-new-report.png" alt-text="Yeni rapor oluşturun.":::
 
-:::image type="content" source="images/pci/generated-reports.png" alt-text="Oluşturulan raporlar":::
+:::image type="content" source="images/pci/generated-reports.png" alt-text="Oluşturulan raporlar.":::
 
 >[!NOTE] 
->Yalnızca Executive rapor izleyicileri olan kullanıcılar raporları indirebilir. Öngörüler panosu raporlarına rol tabanlı erişim hakkında daha fazla bilgi için lütfen [PCI rollerine](pci-roles.md)bakın. 
+>Yalnızca yönetici rapor görüntüleyicisi olan kullanıcılar raporları indirebilir. Insights pano raporlarına rol tabanlı erişim hakkında daha fazla bilgi için lütfen [PCI rolleri'ne bakın.](pci-roles.md) 
 
 ## <a name="available-reports"></a>Kullanılabilir raporlar
 
 Aşağıdaki raporlar indirilebilir:
 
-**Iş ortağı profili** , iş ortağıyla ilgili ayrıntıları sağlar. Iş ortağı KIMLIĞI, Iş ortağı adı, Iş ortağı şehri ve Iş ortağı ülkesi gibi ayrıntılar raporda bulunabilir. Bu rapor için toplama veya geri arama geçerli olmayacaktır.
+**İş ortağı** profili, iş ortağıyla ilgili ayrıntıları sağlar. İş Ortak Kimliği, İş ortağı adı, İş ortağı şehri ve İş ortağı ülkesi gibi ayrıntılar raporda mevcuttur. Bu rapor için toplama veya geri arama geçerli olmayacaktır.
 
 **Müşteri ayrıntıları,** bir İş Ortağının ilişkili olduğu müşterilerin ayrıntılarını sağlar. Ayrıca satılan lisanslar, toplu ACR gibi önemli ölçümler de sağlar. Rapor aylık olarak toplanır.
 
@@ -51,7 +51,7 @@ Aşağıdaki raporlar indirilebilir:
 
 **Office365 - Lisans Kullanımı,** İş Ortağı tarafından satılan veya yönetilen O365 lisanslarının kullanım ayrıntılarını sağlar. Ayrıca müşteri bilgilerini ve Aylık Etkin Kullanıcılar (MAU), nitelikli yetkilendirmeler gibi temel ölçümleri de sağlar. Rapor aylık olarak toplanır.
 
-**Enterprise Mobility – Lisans Kullanımı,**  İş Ortağı tarafından satılan veya yönetilen Enterprise Mobility lisanslarının kullanım ayrıntılarını sağlar. Ayrıca müşteri bilgilerini ve Aylık Etkin Kullanıcılar (MAU), nitelikli yetkilendirmeler gibi temel ölçümleri sağlar. Rapor aylık olarak toplanır.
+**Enterprise Mobility – Lisans Kullanımı,**  İş Ortağı tarafından satılan veya yönetilen Enterprise Mobility lisanslarının kullanım ayrıntılarını sağlar. Ayrıca müşteri bilgilerini ve Aylık Etkin Kullanıcılar (MAU), nitelikli yetkilendirmeler gibi temel ölçümleri de sağlar. Rapor aylık olarak toplanır.
 
 **Dynamics 365 – Lisans Kullanımı,** İş Ortağı tarafından satılan veya yönetilen D365 lisanslarının kullanım ayrıntılarını sağlar. Ayrıca müşteri bilgilerini ve Aylık Etkin Kullanıcılar (MAU), nitelikli yetkilendirmeler gibi temel ölçümleri de sağlar. Rapor aylık olarak toplanır.
 
@@ -63,5 +63,5 @@ Aşağıdaki raporlar indirilebilir:
 
 **Yetkinlikler : Özet ve geçmiş,** etkin, devam eden veya bu İş Ortağı için risk altında olan tüm yetkinliklerin ayrıntılarını sağlar. Ayrıca iş ortağı tarafından elde edilen tüm yetkinliklerin geçmişini içerir.
 
-**Yetkinlikler – Performans ayrıntıları,** iş ortağının belirli bir yetkinlik kümesine ulaşmak için KIP'lere göre nasıl performans sergileye dair ayrıntılı bilgiler sağlar.
+**Yetkinlikler – Performans ayrıntıları,** iş ortağının belirli bir yetkinlik kümesine ulaşmak için KIP'lere göre nasıl yaptığına ilişkin ayrıntılı bilgiler sağlar.
 

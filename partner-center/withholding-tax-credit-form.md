@@ -9,12 +9,12 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 63aea520279dc6d126253969cb3175a253b9b3c6
-ms.sourcegitcommit: 837d3c5b52ab056b2b761cd85eb2426f56b62614
+ms.openlocfilehash: 8674dfa337f0620b6c916f685fced9882134032a
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/12/2021
-ms.locfileid: "109795032"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276374"
 ---
 # <a name="receive-credit-on-your-partner-center-account-for-tax-withholding"></a>Vergi stopajı için İş Ortağı Merkezi kredi alma
 
@@ -39,32 +39,32 @@ Yeni bir vergi stopajı göndermek için şu adımları izleyin:
 
 3. Yetkilerini **göndermek** istediğiniz faturanın yanındaki Yeni gönder'e tıklayın. Yeni gönder bağlantısı sizi Yeni vergi **stopajı isteği sayfasına** alır.
 
-   :::image type="content" source="images/wht1.png" alt-text="Fatura için yeni vergi stopajı gönderme":::
+   :::image type="content" source="images/wht1.png" alt-text="Fatura için Yeni vergi stopajı gönderin.":::
 
 4. Doğru fatura için istekte bulundurarak fatura ayrıntılarını gözden geçirebilirsiniz.
 
-   :::image type="content" source="images/wht2.png" alt-text="Bir faturaya yönelik tüm vergi stopajı ayrıntıları":::
+   :::image type="content" source="images/wht2.png" alt-text="Fatura için vergi stopajı ayrıntılarını tamamlama.":::
 
-5. **Vergi stopajı ayrıntıları** altında "stopaj toplamı" nu girin. "Stopaj toplamı", alacaklandırılma beklemeniz beklenen tutardır.
+5. Vergi stopajı ayrıntıları'nın altına **"Stopaj toplamı" girin.** "Stopaj toplamı", alacak olarak kabul görmeyi beklediğiniz tutardır.
 
-6. Vergi Sertifikası **ekleyin** . Vergi stopajı **sertifikanızın** **dijital bir kopyasını** dahil etmeniz gerekecektir. Bu sertifikayı, vergilerinizi yerel vergi yetkilinizle ödeyerek yerel vergi kurumınızdan almış olursunuz. Stopaj vergisi sertifikasındaki fatura vergi tutarı, vergi stopajı talebinizdeki toplam tutarla aynı olmalıdır.
+6. **Vergi** sertifikası ekleme. Vergi stopajı **isteğinize** stopaj **vergisi sertifikanın dijital** bir kopyasını dahil etmek gerekir. Vergilerinizi yerel vergi yetkilinize öderken bu sertifikayı yerel vergi kurumundan almış oldunız. Stopaj vergisi sertifikasının fatura vergi tutarı, vergi stopajı isteğinizin toplam tutarıyla eşleşmesi gerekir.
 
    > [!IMPORTANT]
-   > Ortağın sağladığı toplam tutar toplamı, bağlı vergi sertifikasından fatura satırı öğesiyle eşleşmelidir. Bağlı vergi sertifika dosyaları şu dosya biçimlerinden birinde olmalıdır:. Yalnızca PDF veya görüntü (. JPEG,. PNG ve. GıF). Ayrıca, dosya adları boşluk veya özel karakter içermemelidir. Dosya boyutları 1 MB 'ı aşamaz.
+   > İş ortağının sağladığı toplam tutar, ekli vergi sertifikasından gelen fatura satırı öğesiyle eşleşmeli. Ekli vergi sertifikası dosyaları şu dosya biçimlerinden biri içinde yer alalı: .PDF veya Görüntü ( . JPEG, .PNG ve .GIF). Ayrıca, dosya adları boşluk veya özel karakter içermemalıdır. Dosya boyutları 1 MB'yi aşamaz.
 
-7. Vergi stopajı isteğini **Gönder** .
+7. **Vergi** stopajı isteğini gönderin.
 
-   Gönderildikten sonra istek, tamamlanma için onaylanabileceği veya düzeltmeler gerekliyse size geri gönderildiğinde onay sürecine gider. İstek KIMLIĞI ve isteklerinizin durumunu ve yeni isteği gönderdiğiniz **faturalandırma geçmişini** görüntüleyin.
+   İstek gönderildikten sonra onay sürecine gider ve burada tamamlanmak üzere onaylanır veya düzeltmeler gerekirse size geri gönderilir. İsteklerin kimliğini ve durumunu ve yeni isteği **göndererek** faturalama geçmişinde görüntüleme.
 
-   İsteğiniz size geri gönderildiyse, stopaj miktarını değiştirebilir ve onunla ilgili bir sorun varsa sertifikayı değiştirebilirsiniz.
+   İsteğiniz size geri gönderilirse, stopaj miktarını değiştirebilir ve bir sorun varsa sertifikayı değiştirebilirsiniz.
 
-## <a name="update-request-and-resubmit"></a>İsteği güncelleştir ve yeniden gönder
+## <a name="update-request-and-resubmit"></a>İsteği güncelleştirme ve yeniden kuyruza geri yükleme
 
-Gözden geçirme ekibi, onaylanabilmesi için önce düzeltmeler yapıp isteği yeniden gönderebilmeniz gerekebilir. Durumu, **bekleyen iş ortağı eylemi** olarak değiştirir. İsteği düzeltmek ve yeniden göndermek için:
+Gözden geçirme ekibi, onaylanabilecek düzeltmeler yapma ve isteği yeniden kuyruza alma isteğinde bulundurma isteğinde bulundurmadan önce gerekli olabilir. Durumu Bekleyen iş ortağı eylemi **olarak değiştirir.** İsteği düzeltmek ve yenidenububmit etmek için:
 
 1. İş Ortağı Merkezi [panosunda](https://partner.microsoft.com/dashboard/home) oturum açın.
 
-2. Sol taraftaki menüde **faturalandırma** ' i seçin.
+2. Sol menüde Faturalama'ya **tıklayın**
 
 3. Faturalama **sayfasının** Faturalama geçmişi **sayfasında vergi** stopajı isteğini bulun. Dikkat çekmeniz gereken istekler "bekleyen iş ortağı eylemi" durumuna sahip olur.
 
@@ -89,23 +89,23 @@ Temizli tutarlar Faturalama sayfası **faturalama geçmişi bölümüne yansıt�
    > [!IMPORTANT]
    > Önceki faturalar yeniden üretlenmez veya yeniden üretlenmez. Netlik tutarı yalnızca önceki aylara uygulanan ödemelere uygulanır.
 
-Vergi sertifikasının ve tutarın doğru olduğu varsayarak vergi stopajı isteklerinin tamamlanması iki gün sürer. Gerekli değişiklikler varsa, düzeltilmesi ve yeniden atlanmış olması nedeniyle bu daha uzun sürer.
+Vergi sertifikasının ve tutarın doğru olduğu varsayarak vergi stopajı isteklerinin tamamlanması iki gün sürer. Gerekli değişiklikler varsa, düzeltilmesi ve yeniden atlanmış olması gerektiğinden bu daha uzun sürer.
 
 Stopaj vergisi kredisi isteği süreci hakkında sorularınız varsa İş Ortağı Desteği'ne bir bilet gönderin. Soruları çözmek için vergi stopajı istek kimliğine ihtiyacınız olacak.
 
 ## <a name="german-tax-withholding"></a>Almanya vergi stopajı
 
-Almanya vergi stopajı istekleri gönderen iş ortakları, stopaj vergisi sertifikanızın sabit kopyalarını şu adrese göndermelidir:
+Almanya vergi stopajı istekleri gönderen iş ortaklarının, stopaj vergisi sertifikanızı aşağıdaki adrese sabit kopyalarını postayla göndermeyi unutmaları gerekir:
 
-- ATTN: EOC vergi ekibi Marianne Gannon
-- Microsoft EMEA Operations Center
-- Tek bir Microsoft yeri,
-- Güney Ilçe Iş Park
-- Leopardstown, Dublin 18, Irlanda
+- ATTN: EOC Vergi Ekibiİskene G gl
+- Microsoft EMEA Operasyon Merkezi
+- One Microsoft Place,
+- South County Business Park
+- Leopards london, Dublin 18, İrlanda
 
-### <a name="questions-and-assistance-for-tax-withholding-requests"></a>Vergi stopajı istekleri için sorular ve yardım
+### <a name="questions-and-assistance-for-tax-withholding-requests"></a>Vergi stopajı istekleriyle ilgili sorular ve yardım
 
-İş ortakları, yeni istekleri göndermek ve yeni vergi stopajı istekleri için destek talebi oluşturmayı artık kullanmamaları için yukarıda ayrıntılandırılmış yeni süreci kullanmalıdır. Vergi stopajı istekleri hakkında ek sorulara sahip iş ortakları, [destek istekleri gönderebilir](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?stage=2&topicid=9227afa6-babf-3917-acee-67db7860f5ed). Destek istekleri, mevcut istekler için iş ortaklarına yardımcı olmaya yöneliktir, bu nedenle yeni bir bilet göndermek için kendi **Istek kimliğine** sahip olmaları gerekir. İş ortakları yeni işlemi kullanarak bir istek göndereiyorlarsa, destek isteği formuna bir sayı (tümü 1) girmemelidir. 
+İş ortakları yeni istekler göndermek için yukarıda ayrıntılı olarak belirtilen yeni işlemi kullanmalı ve artık yeni vergi stopajı istekleri için destek isteği oluşturma işlemini kullanmamalı. Vergi stopajı istekleri hakkında ek sorularla iş ortakları [destek istekleri göndererek.](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?stage=2&topicid=9227afa6-babf-3917-acee-67db7860f5ed) Destek istekleri, mevcut istekler için iş ortaklarına yardımcı olmak üzere tasarlanmıştır, bu nedenle yeni bir bilet **göndermek** için İstek Kimliklerine sahip olması gerekir. İş ortakları yeni işlemi kullanarak bir istek göndereyeese destek isteği formuna bir sayı (1'in hepsi) girmeleri gerekir. 
 
    > [!IMPORTANT]
-   > İş ortaklarının, istek durumu **tamamlandıysa** desteğe başvurması gerekmez. Bu durum, gönderim faturasının yanındaki **Faturalama geçmişinde** görüntülenir. Faturanın yanındaki **son ödeme** miktarları, isteğin **tamamlandı** olarak işaretlendiğine göre on gün sonra vergi stopaj tutarını yansıtmalıdır.
+   > İş ortaklarının istek durumu Tamamlandı ise de destekle iletişim kurması **gerek değildir.** Bu durum, gönderim **için faturanın** yanındaki Faturalama geçmişinde gösterir. **Faturanın** yanındaki son ödeme tutarları, istek Tamamlandı olarak işaretlendikten sonraki on gün içinde vergi stopajı tutarını **yansıtacak.**

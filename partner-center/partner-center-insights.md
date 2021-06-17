@@ -9,14 +9,14 @@ ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/26/2020
-ms.openlocfilehash: 6661fb013b25e55785dac9156e5f3561f5b50c97
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 05fad9c7eecbc8b7f639faa24b654fb0474245ca
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110151024"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112277632"
 ---
-# <a name="partner-center-insights---a-dashboard-that-shows-how-a-microsoft-commercial-partner-is-doing"></a>İş Ortağı Merkezi Insights - Microsoft ticari iş ortağının nasıl iş yaptığını gösteren bir pano
+# <a name="partner-center-insights---a-dashboard-that-shows-how-a-microsoft-commercial-partner-is-doing"></a>İş Ortağı Merkezi Insights : Microsoft ticari iş ortağının nasıl iş yaptığını gösteren bir pano
 
 **Uygun roller:** Genel yönetici | Hesap yöneticisi | Yönetici raporu görüntüleyicisi | Rapor görüntüleyicisi
 
@@ -26,7 +26,7 @@ ms.locfileid: "110151024"
 
 ## <a name="role-based-access-control-to-the-insights-dashboard"></a>Öngörüler panosuna rol tabanlı erişim denetimi
 
-Öngörüler'e erişim için İş Ortağı Merkezi iki yeni rol vardır: **Rapor** Görüntüleyicisi ve **Yönetici Rapor Görüntüleyicisi.** Yönetici Rapor Görüntüleyicisi rolünde bulunan kullanıcılar tüm raporlama veri kümelerine erişime sahipken Rapor Görüntüleyicisi rolünde bulunan kullanıcılar gelir ve müşteri/çalışan kişisel verileri gibi hassas veri kümelerine erişene sahip olmaz. 
+Öngörüler'e erişim için İş Ortağı Merkezi iki yeni rol vardır: **Rapor** Görüntüleyicisi ve **Yönetici Rapor Görüntüleyicisi.** Yönetici Rapor Görüntüleyicisi rolünde bulunan kullanıcılar tüm raporlama veri kümelerine erişime sahipken Rapor Görüntüleyicisi rolünde bulunan kullanıcılar gelir ve müşteri/çalışan kişisel verileri gibi hassas veri kümelerine erişemayacak. 
 
 Genel yönetici veya Hesap yöneticisi kullanıcılara bu rolleri atayabilir ve şirketin tamamı veya belirli bir MPN konumu için atanır.  
 
@@ -37,36 +37,36 @@ Genel yönetici veya Hesap yöneticisi kullanıcılara bu rolleri atayabilir ve 
 
 Aşağıdaki raporlar, Öngörüler panosunun bir parçası olarak kullanılabilir.
 
-**Genel** Bakış: Genel Bakış raporu; Müşteri sayısı, Etkin Abonelik sayısı, Azure Tüketim Geliri, Etkin lisanslar gibi ilginiz olan çeşitli KIP'lere ilişkin bir anlık görüntü sunar.
+**Genel** Bakış: Genel Bakış raporu; Müşteri sayısı, Etkin Abonelik sayısı, Azure Tüketim Geliri, Etkin lisanslar gibi ilginiz olan çeşitli KIP'lerin anlık görüntüsünü sunar.
 
-**Müşteri**: müşteri raporu, müşterilerinizin etrafında müşteri Alım verileri, etkin müşteriler vb. gibi analizler sunar.
+**Müşteri:** Müşteri raporu, Müşteri edinme verileri, Etkin müşteriler gibi müşterilerinizle ilgili analizler sunar.
 
-**Ürün-abonelikler**: abonelikler raporu, bulut abonelikleriniz için alım ve kullanım analizlerini (O365, Azure, Dynamics vb.) sunar
+**Ürün - Abonelikler:** Abonelikler raporu, Bulut abonelikleriniz (O365, Azure, Dynamics vb.) için edinme ve kullanım analizi sunar.
 
-**Ürün lisansları**: lisanslar panosu, O365, Dynamics, Power BI vb. gibi lisans tabanlı bulut ürünleri için lisans analizi sunar.
+**Ürün- Lisanslar:** Lisanslar panosu O365, Dynamics ve Power BI gibi lisans tabanlı Bulut ürünleri için lisans analizi sunar.
 
-**Ürün-Azure kullanımı**: Azure kullanım raporu, Azure tüketim geliri ve ölçüm kategorilerine göre kullanım dahil olmak üzere müşterilerinizin Azure abonelikleri ile ilgili ölçümleri sunar.
+**Ürün - Azure kullanımı:** Azure Kullanımı raporu, ölçüm kategorilerine göre Azure tüketim geliri ve kullanımı dahil olmak üzere müşterinizin Azure abonelikleri ile ilgili ölçümleri sunar.
 
-**Uzmanlıklar**: Uzmanlıklar raporu, etkin, nitelikli ve risk altındaki uzmanlarınız hakkında ölçümler sunar.
+**Yetkinlikler:** Yetkinlikler raporu Etkin, Nitelikli ve Risk altında yetkinliklerinize göre ölçümler sunar.
 
-**Avantajlar**: avantajlar raporu, kazanılan ve tüketilen iş ortağı avantajları hakkında analizler sunar.
+**Avantajlar:** Avantajlar raporu, kazanılmış ve tüketilen iş ortağı avantajlarına göre analiz sunar.
 
-## <a name="navigating-the-insights-reports"></a>Öngörüler raporlarında gezinme
+## <a name="navigating-the-insights-reports"></a>Insights raporlarında gezinme
 
-**Tarih aralığı filtreleri**: her sayfanın sağ üst köşesinde bir tarih aralığı seçimi bulabilirsiniz. Genel Bakış sayfası grafiklerinin çıktısı, son 3, 6 veya 12 aya göre veya özel bir tarih aralığı seçilerek bir tarih aralığı seçilerek özelleştirilebilir. Varsayılan tarih aralığı seçimi 12 aydır. 
+**Tarih aralığı filtreleri:** Her sayfanın sağ üst köşesinde bir tarih aralığı seçimi bulabilirsiniz. Genel bakış sayfası grafiklerinin çıkışı, son 3, 6 veya 12 aya göre bir tarih aralığı seçerek veya özel bir tarih aralığı seçerek özelleştirilebilir. Varsayılan tarih aralığı seçimi 12 aydır. 
 
-:::image type="content" source="images/pci/intro1.png" alt-text="Giriş Haritası":::
+:::image type="content" source="images/pci/intro1.png" alt-text="Giriş haritası.":::
 
-**Geri bildirim düğmesi**: tüm Öngörüler raporlarında her bir grafik/denetim, bir rapor özelliğinde örnek geri bildirim sağlamanıza olanak sağlamak için bir geri bildirim düğmesi ile birleştirilir. 
+**Geri bildirim** düğmesi: Tüm Insights raporlarında yer alan her grafik/denetim, bir rapor özelliğiyle ilgili örnek geri bildirim sağlamanız için bir geri bildirim düğmesiyle birtir. 
 
  
-**Sayfa düzeyi filtreleri**: genel bakış, avantajlar ve uzmanlık raporlarının dışında, tüm Öngörüler raporları sayfa düzeyi filtreleri uygulamanıza olanak tanır. 
+**Sayfa düzeyi filtreleri:** Genel Bakış, Avantajlar ve Yetkinlikler raporları dışında, tüm Insights raporları sayfa düzeyi filtreleri uygulamana olanak sağlar. 
 
-- Seçilen filtreler, Özet bölümü dahil olmak üzere bir sayfadaki tüm grafikler ve ölçümler için geçerli olacaktır. Filtre ölçütlerinde herhangi bir veriniz varsa, bir filtre öğesi kullanılabilir. 
+- Seçilen filtreler, özet bölümü de dahil olmak üzere bir sayfada yer alan tüm grafikler ve ölçümler için geçerlidir. Bu filtre ölçütleri içinde herhangi bir veriniz varsa bir filtre öğesi kullanılabilir. 
 
-- Her bir filtre listesinin varsayılan seçimi **hepsi**'dir. Örneğin, ürünler filtresinde belirli bir ürünü seçmediyseniz, varsayılan seçim tüm ürünler olacaktır.
+- Her filtre listesinin varsayılan **seçimidir.** Örneğin, ürünler filtresinde belirli bir ürünü seçmemişsiniz, varsayılan seçim tüm ürünler olur.
 
-- Seçilen filtreler sayfanın üstünde görüntülenir. 
+- Seçilen filtreler sayfanın üst kısmında görüntülenir. 
 
 :::image type="content" source="images/pci/filters.png" alt-text="Products, Customer Markets, Partner atbutions ve Sales kanalları için filtre seçimlerinin yer alan Uygulanan filtreler çubuğunu gösteren kısmi ekran görüntüsü.":::
 
@@ -76,7 +76,7 @@ Aşağıdaki raporlar, Öngörüler panosunun bir parçası olarak kullanılabil
 - Müşteri pazarları: Müşteri ülkeleri listesi
 - İş ortağı ilişkilendirmeleri: Dijital kayıt ortağı (DPOR), Yönetici ayrıcalığı (DAP) ve İş Ortağı Yöneticisi bağlantısı (PAL) gibi, müşteri abonelikleriyle ilişkilendirme türünüz. 
 - İş ortağı konumları: Tüm kuruluş MPN konumlarının listesi.
-- Satış kanalları: CSP, EA, CSP indirect, Direct, Advisor, Open ve diğerleri gibi ürün ve hizmetleri satın aldığınız/sağ aldığınız tüm satış kanalı/fiyatlandırması
+- Satış kanalları: CSP, EA, CSP indirect, Direct, Advisor, Open ve diğerleri gibi ürün ve hizmetleri satın aldığınız/temin ettiğini tüm satış kanalı/fiyatlandırması
 - Müşteri segmentleri: İş ortakları müşteri tabanı genelindeki müşteri segmentlerinin listesi.
 
 ## <a name="read-about-each-of-the-dashboards-and-reports"></a>Panoların ve raporların her biri hakkında bilgi edinebilirsiniz:

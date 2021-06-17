@@ -1,53 +1,53 @@
 ---
-title: İş Ortağı Merkezi Insights'a Genel Bakış panosu
+title: İş Ortağı Merkezi öngörüleri Genel Bakış Panosu
 ms.topic: article
 ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Lisanslar, abonelikler ve Azure tüketimiyle satış ve dağıtım, müşteri büyümesi ve gelir artışı ile ilgili işlemlerinizin anlık görüntüsüne bakın.
+description: Satış ve dağıtım, müşteri büyümesi ve lisanslar, abonelikler ve Azure tüketimiyle gelir artışını nasıl yapmakta olduğumun bir anlık görüntüsüne bakın.
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e274b0a637c7fd4944a395ba7e38154e36d2a9e3
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: aea78f2a9b60f5d8adcc7962d15749479424c9f1
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855208"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112277496"
 ---
-# <a name="overview-dashboard-reports-available-in-partner-center-insights"></a>İş Ortağı Merkezi Insights'ta kullanılabilen pano raporlarına genel bakış
+# <a name="overview-dashboard-reports-available-in-partner-center-insights"></a>Iş Ortağı Merkezi öngörülerine Genel Bakış Panosu raporları
  
-**Uygun roller:** Genel yönetici | Yönetici aracısı | Rapor görüntüleyici | Yönetici raporu görüntüleyicisi
+**Uygun roller**: genel yönetici | Yönetici Aracısı | Rapor Görüntüleyici | Executive rapor Görüntüleyicisi
 
-Öngörülere Genel Bakış panosu Müşteriler, Abonelikler, Azure Tüketim Geliri ve Lisanslar gibi Ana Performans Göstergelerinin anlık görüntüsünü sağlar. Genel Bakış raporunda aşağıdaki grafikleri görselleştirebilirsiniz.
+Öngörüler Genel Bakış Panosu, müşteriler, abonelikler, Azure tüketim geliri ve lisanslar gibi ana performans göstergelerinin bir anlık görüntü görünümünü sağlar. Genel Bakış raporunda aşağıdaki grafikleri görselleştirebilirsiniz.
 
 - Özet  
-- Müşterileriniz, aboneliklerinizi ve lisanslarınızı coğrafi olarak yayma  
+- Müşterilerinizin, aboneliklerinizin ve lisanslarınızın coğrafi yayılmasının  
 - Müşterilerin büyüme eğilimi 
-- Aboneliklerin büyüme eğilimi 
-- Azure tarafından tüketilen gelir artışı eğilimi 
-- Lisansların büyüme eğilimi 
+- Abonelik büyüme eğilimi 
+- Azure tüketilen gelir büyüme eğilimi 
+- Lisans büyüme eğilimi 
 
 ## <a name="summary"></a>Özet
 
-Özet; müşteriler, Azure Tüketim Geliri (ACR), satılan abonelikler, etkin abonelikler ve dağıtılan lisanslar hakkında bilgi içerir. 
+Özet, müşteriler, Azure tüketilen gelir (ACR), satılan abonelikler, etkin abonelikler ve lisansların dağıtıldığı hakkında bilgiler içerir. 
 
-:::image type="content" source="images/pci/summary.png" alt-text="Özet lisansları":::
+:::image type="content" source="images/pci/summary.png" alt-text="Özet lisanslar.":::
 
-Özet'in her bölümü hakkında daha fazla bilgi aşağıda verilmiştir.
+Özetin her bölümü hakkında daha fazla bilgi aşağıdadır.
 
 ### <a name="customers"></a>Müşteriler
 
-Müşteriler **alanı** şunları içerir:
+**Müşteriler** alanı şunları içerir:
 
-- Farklı asif türleri aracılığıyla ve tüm bulut ürünleri arasında en az bir etkin aboneliği olan tüm müşterilerin geçerli sayısı.
-- Seçilen tarih aralığındaki müşterilerin büyüme yüzdesi.
-- Mikro grafik, seçilen tarih aralığındaki müşteri sayısına göre aylara göre eğilim gösterir.
+- Farklı atfı türleri ve tüm bulut ürünlerinde şirketinizle ilişkilendirilen en az bir etkin aboneliğe sahip tüm müşterilerin geçerli sayısı.
+- Seçilen tarih aralığında müşterilerin yüzde artışı.
+- Mikro grafik, seçilen tarih aralığındaki müşteri sayısının ay içinde olan eğilimini gösterir.
 
-### <a name="azure-consumed-revenue-acr"></a>Azure Tüketim Geliri (ACR)
+### <a name="azure-consumed-revenue-acr"></a>Azure tüketilen gelir (ACR)
 
-Özet **Azure Tüketim Geliri (ACR)** alanı şunları içerir:
+Özetteki **Azure tüketilen gelir (ACR)** alanı şunları içerir:
 
 - Seçilen tarih aralığında size atanan toplam Azure geliri (ABD Doları cinsinden).
 - Seçilen tarih aralığı boyunca (ABD $ içinde) bir artış veya reddetme yüzdesi.
@@ -80,38 +80,38 @@ Müşteriler **alanı** şunları içerir:
 - Seçilen tarih aralığı sırasında bu lisanslarda büyüme veya reddetme yüzdesi. 
 - Mikro grafik, seçilen tarih aralığında bu atanan lisansların sayından aya ait ay eğilimi gösterir.
 
-## <a name="geographical-spread-of-your-customers-subscriptions-and-licenses"></a>Müşterileriniz, aboneliklerinizi ve lisanslarınızı coğrafi olarak yayma
+## <a name="geographical-spread-of-your-customers-subscriptions-and-licenses"></a>Müşterilerinizin, aboneliklerinizin ve lisanslarınızın coğrafi yayılmasının
 
-Bu görünüm, toplam müşterilerin, aboneliklerin ve lisansların müşteri ülkelerinin coğrafi dağılımıdır. Bu içgörüleri haritada görüntülemek için farklı sekmeleri seçin. Haritanın konumunu yakınlaştırmak için kılavuzda bir ülke arayabilir ve bu ülkeyi seçin. Haritada Giriş düğmesine basarak özgün görünüme geri dönebilirsiniz. Her sekmeye (örneğin, Müşteriler, Abonelikler) tıklarken her ülke için ölçümün değeri ve ülke için Toplam değeri görüntülenir.  
+Bu görünüm müşteri ülkesine göre toplam müşterilerin, aboneliklerin ve lisansların coğrafi bir dağılımı olur. Haritada bu öngörülerin her birini görüntülemek için farklı sekmeleri seçin. Haritada konum yakınlaştırmak için kılavuzda bir ülke arayabilir ve seçebilirsiniz. Haritadaki giriş düğmesine basarak özgün görünüme dönün. Her bir sekmeye tıklamak (örneğin, müşteriler, abonelikler) her ülkenin ölçüm değerini ve ülkenin toplam yüzdesini gösterir.  
 
-:::image type="content" source="images/pci/geosummary.png" alt-text="Coğrafi özet":::
+:::image type="content" source="images/pci/geosummary.png" alt-text="Coğrafi Özet.":::
 
 ## <a name="customers-growth-trend"></a>Müşterilerin büyüme eğilimi
 
-Seçilen tarih aralığı için toplam müşteri sayılarının aylık eğilimi. X ekseni seçilen tarih aralığının aylarını, Y ekseni ise söz konusu ay için toplam müşteri sayısını temsil eder. 
+Toplam müşterilerin aylık eğilimi, seçilen tarih aralığı için sayılır. X ekseni, seçilen tarih aralığının ayları, Y ekseni ise söz konusu aya ait toplam müşteri sayısını temsil eder. 
 
-:::image type="content" source="images/pci/customergrowth.png" alt-text="müşterilerin büyüme eğilimi":::
+:::image type="content" source="images/pci/customergrowth.png" alt-text="müşterilerin büyüme eğilimi.":::
 
-## <a name="subscriptions-growth-trend"></a>Aboneliklerin büyüme eğilimi
+## <a name="subscriptions-growth-trend"></a>Abonelik büyüme eğilimi
 
-Bu, seçilen tarih aralığı için müşteri abonelik sayısı eğilimini gösterir. X ekseni seçilen tarih aralığının aylarını, Y ekseni ise ürünün seçili abonelik sayısını temsil eder. Grafiği belirli bir zaman dönemine yakınlaştırmak için grafiğin üst kısmında kaydırıcıyı kaydırın. 
+Bu, seçilen tarih aralığı için müşteri abonelik Sayın eğilimini gösterir. X ekseni, seçilen tarih aralığının aylarının ve Y ekseninin, ürünün abonelik sayısını temsil ettiğini temsil eder. Grafiği belirli bir döneme yakınlaştırmak için grafiğin üstündeki kaydırıcıyı kaydırın. 
 
-:::image type="content" source="images/pci/subscriptiongrowth.png" alt-text="Abonelik büyüme eğilimi":::
+:::image type="content" source="images/pci/subscriptiongrowth.png" alt-text="Abonelik büyüme eğilimi.":::
 
-## <a name="azure-consumed-revenue-growth-trend"></a>Azure Tüketim Geliri büyüme eğilimi
+## <a name="azure-consumed-revenue-growth-trend"></a>Azure tüketilen gelir büyüme eğilimi
 
-Seçili tarih aralığında size atfedilen Aylık Azure tüketilen gelir ABD Doları eğilimi. X ekseni, seçilen tarih aralığının aylarını, Y ekseni ise ay boyunca size atfedilen toplam Azure tüketilen gelir ABD$ rakamlarını temsil eder.
+Azure 'un tüketilen gelir ABD Doları ile seçtiğiniz tarih aralığında size atanan aylık eğilim. X ekseni, seçilen tarih aralığının ayını temsil eder ve Y ekseni, ay içinde size atanan toplam Azure gelir ABD Doları ' nı temsil eder.
 
 > [!NOTE]
-> Azure Tüketim Geliri (ACR) yalnızca Yönetici Rapor Görüntüleyicisi Rolü atanmış kullanıcılara görünür. 
+> Azure tüketilen gelir (ACR) yalnızca, Executive rapor Görüntüleyicisi rolü atanmış kullanıcılar tarafından görülebilir. 
 
-:::image type="content" source="images/pci/azureconsumed.png" alt-text="Azure tüketimi":::
+:::image type="content" source="images/pci/azureconsumed.png" alt-text="Azure kullanımı.":::
 
 ## <a name="licenses-growth-trend"></a>Lisans büyüme eğilimi
  
 Seçilen tarih aralığı boyunca tüm müşteriler tarafından atanan lisansların eğilimi. X ekseni, seçilen tarih aralığının aylarını temsil eder ve Y ekseni seçtiğiniz ürünün lisans sayısını temsil eder. Grafiği belirli bir döneme yakınlaştırmak için grafiğin üstündeki kaydırıcıyı kaydırın.  
 
-:::image type="content" source="images/pci/licensesgrowth.png" alt-text="lisanslar":::
+:::image type="content" source="images/pci/licensesgrowth.png" alt-text="lisanslarının.":::
 
 ## <a name="next-steps"></a>Sonraki adımlar
 

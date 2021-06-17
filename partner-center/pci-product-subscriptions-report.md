@@ -1,50 +1,50 @@
 ---
-title: İş Ortağı Merkezi Insights abonelikleri raporu
+title: İş Ortağı Merkezi Öngörüler abonelikleri raporu
 ms.topic: article
 ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: İyi işlerinizi ve müşterileriniz için satış veya yönetimle ilgili bulut aboneliklerini geliştirebilirsiniz.
+description: Müşterilerinizin sattığı ve yönettiğiniz bulut abonelikleriyle ilgili olarak neleri iyileştirebileceğinizi görün.
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 89806b08485bc4bd286c2e14a19924ca0e281b6d
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: bf2663122ca95e8d610c8be792a26682ae1718bf
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109854477"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276323"
 ---
-# <a name="product-subscriptions-report-available-from-the-partner-center-insights-dashboard"></a>İş Ortağı Merkezi Insights panosundan kullanılabilen Ürün Abonelikleri raporu
+# <a name="product-subscriptions-report-available-from-the-partner-center-insights-dashboard"></a>Ürün abonelikleri raporu Iş Ortağı Merkezi Öngörüler panosu 'nda mevcuttur
 
-**Uygun roller:** Genel yönetici | Yönetici aracısı | Rapor görüntüleyici | Yönetici raporu görüntüleyicisi
+**Uygun roller**: genel yönetici | Yönetici Aracısı | Rapor Görüntüleyici | Executive rapor Görüntüleyicisi
 
-Ürün Abonelikleri raporu, müşterileriniz için sattığınız veya sizin yönettiğiniz bulut abonelikleri üzerinde analiz sunar. Bu rapor Office 365, Azure, Dynamics ve diğerleri gibi bulut ürünleriyle ilişkili aboneliklerin performansını içeren ürüne özgü bir rapordür.
+Ürün abonelikleri raporu, satmış olduğunuz veya müşterileriniz için yönettiğiniz bulut aboneliklerine ilişkin analizler sunar. Bu, Office 365, Azure, Dynamics ve diğerleri gibi bulut ürünleriyle ilişkili aboneliklerin performansını içeren ürüne özgü bir rapordur.
 
-Ürün Abonelikleri raporundan aşağıdaki bölümleri görüntüebilirsiniz.
+Ürün abonelikleri raporundan aşağıdaki bölümleri görüntüleyebilirsiniz.
 
 - Özet
-- Aboneliklerin coğrafi yayılması
-- Abonelik ekleme/veri eğilimi
-- İş ortağı konumlara, satış kanalına, STU'lara, iş ortağı ekleme türüne, segmente göre abonelik dağıtımı
-- Abonelik eyaletlere göre eğilim
-- Ürünler eğilimi
+- Aboneliklerin coğrafi yayılmasının
+- Abonelikler ekleme/karmaşıklık eğilimi
+- İş ortağı konumlarına göre abonelik dağıtımı, satış kanalı, SKU 'Lar, iş ortağı iliştirme türü, segment
+- Abonelik durumlarına göre eğilim
+- Ürün eğilimi
 
  > [!NOTE]
- > Bu rapor, Öngörüler panosundan edinebilirsiniz. Bu raporu görüntülemek için Genel Yönetici, Hesap Yöneticisi, Rapor Görüntüleyicisi İş Ortağı Merkezi Yönetici Rapor Görüntüleyicisi gibi belirli bir rol atanmış olması gerekir. Daha fazla bilgi için, bkz. şirketinizin Genel Yöneticisi. Bu rapora özgü veri türleri yalnızca Yönetici Rapor Görüntüleyicisi ayrıcalıklarına sahip kullanıcılar tarafından da kullanılabilir.
+ > Bu rapor, Öngörüler panosundan kullanılabilir. Bu raporu görüntülemek için Iş Ortağı Merkezi 'nde genel yönetici, hesap yöneticisi, rapor Görüntüleyicisi veya Executive rapor Görüntüleyicisi gibi belirli bir rol atanması gerekir. Daha fazla bilgi için şirketinizin genel Yöneticisi ' ne bakın. bu rapordaki belirli veri türleri yalnızca, Executive rapor Görüntüleyicisi ayrıcalıklarına sahip kullanıcılar tarafından kullanılabilir.
 
 ## <a name="summary"></a>Özet
 
-Özet bölümü, müşterileriniz için sizin tarafından satılan veya yönetilen aboneliklerle ilgili ana performans göstergelerinin (KIP) anlık görüntü görünümünü sunar.  
+Özet bölümü, müşterileriniz için sizin tarafınızdan satılan veya yönetilen Aboneliklerle ilgili ana performans göstergelerinin (KPI) bir anlık görüntü görünümünü sunar.  
 
-:::image type="content" source="images/pci/pci-sub-report-summary-1.png" alt-text="abonelikler rapor özeti":::
+:::image type="content" source="images/pci/pci-sub-report-summary-1.png" alt-text="Abonelikler rapor Özeti.":::
 
 Özetin her bölümü hakkında daha fazla bilgi için aşağıya bakın:
 
 - Abonelikler:
-  - Sizin tarafından satılan veya yönetilen bulut ürünü aboneliklerinin geçerli sayısı.
-  - Seçtiğiniz tarih aralığı boyunca aboneliklerin büyüme veya reddetme yüzdesi.
+  - Sizin tarafınızdan satılan veya yönetilen bulut ürün aboneliklerinin güncel sayısı.
+  - Seçtiğiniz tarih aralığınızı sırasında aboneliklerin artış veya reddetme yüzdesi.
   - Mikro grafik, seçtiğiniz tarih aralığınızdan abonelik sayısı için aylık bir eğilim gösterir.
 
 - Etkin Abonelikler:
@@ -68,31 +68,31 @@ ms.locfileid: "109854477"
 
 **Coğrafya görünümüne göre abonelikler** , toplam aboneliklerin müşteri pazarlarına göre coğrafi dağılımını gösterir. Toplam abonelik miktarı hem satılan abonelikler hem de etkin abonelikler içerir.
 
-**Ülke/bölge sayısı tablosu,** abonelikleri olan toplam ülkeler/bölgeler ile toplam ve etkin aboneliklerin ülke başına tutarını gösterir.
+**Ülke/bölge tablosu sayısı** , aboneliklerinizin bulunduğu toplam ülkeleri/bölgeleri ve toplam ve etkin abonelikler için ülke başına miktarı gösterir.
 
-Haritanın konumunu yakınlaştırmak için kılavuzda bir ülke arayabilir ve bu ülkeyi seçin. Özgün **görünüme** dönmek için haritada Giriş seçeneğine basın. Ülkeye göre tüm abonelikleri ve etkin abonelikleri görüntülemek için haritanın üzerine gelin. Kılavuzda her iki alan da sıralanabilir.
+Haritada konum yakınlaştırmak için kılavuzda bir ülke arayabilir ve seçebilirsiniz. Özgün görünüme dönmek için haritanın **giriş** seçeneğine basın. Ülkeye göre tüm abonelikleri ve etkin abonelikleri görüntülemek için haritaya gelin. Kılavuzdaki her iki alan de sıralanabilir.
 
-:::image type="content" source="images/pci/pci-sub-report-sub-by-geography-2.png" alt-text="coğrafyaya göre abonelikler":::
+:::image type="content" source="images/pci/pci-sub-report-sub-by-geography-2.png" alt-text="Coğrafya tarafından abonelikler.":::
 
-## <a name="subscription-addschurns"></a>Abonelik ekleri/veri churn'ları
+## <a name="subscription-addschurns"></a>Abonelik eklemeleri/churns
 
-Bu görünüm bir abonelik eğilimi sunar. Bunlar, seçilen tarih aralığı için farklı kategorilere (Yeni, Mevcut, Eski) ayrılır. X ekseni seçilen tarih aralığının aylarını temsil eder. Y ekseni abonelik sayısını temsil eder. Churned abonelikler Y ekseninin negatif ölçeğinde temsil eder. 
+Bu görünüm, aboneliklerin eğilimini gösterir. Bunlar, seçilen tarih aralığı için farklı kategorilere ayrılır (yeni, varolan, Çüşsal). X ekseni, seçilen tarih aralığının ayları temsil eder. Y ekseni abonelik sayısını temsil eder. Tek başına abonelikler, Y ekseninin negatif ölçeğinde temsil edilir. 
 
-Yığılmış sütun grafiği, ay için yeni, mevcut ve eskitılmış aboneliklerin dökümünü sunar. Sütun grafiğini belirli yığın öğeleriyle birlikte yeniden oluşturabilirsiniz. Bunu yapmak için göstergedeki belirli öğeleri seçin. Ayrıca grafiğin üst kısmında yer alan kaydırıcıyı kullanarak belirli bir dönemi yakınlaştırabilirsiniz.
+Yığılmış sütun grafiği, ay için yeni, mevcut ve birlikte bulunan aboneliklerin dökümünü gösterir. Sütun grafiğini, belirli yığın öğeleriyle ayrılmış şekilde yeniden oluşturabilirsiniz. Bunu yapmak için, göstergede söz konusu öğeleri seçin. Ayrıca, belirli bir döneme yakınlaştırmak için grafiğin üstündeki kaydırıcıyı de kullanabilirsiniz.
 
-:::image type="content" source="images/pci/pci-sub-report-sub-adds-churns-3.png" alt-text="abonelik ekleri ve veri churn'ları":::
+:::image type="content" source="images/pci/pci-sub-report-sub-adds-churns-3.png" alt-text="abonelik ekler ve churns.":::
 
 ## <a name="subscription-distribution"></a>Abonelik dağıtımı
 
-Bu görünüm MPN konumlarınızı, müşteri segmentlerinizi, satış kanalınızı/Azure fiyatlandırma modelinizi ve asif türünü (örneğin, DPOR, DAP ve diğerleri) kullanarak geçerli aboneliklerinizi dökümünü sunar. Bu kategorilere göre dökümünü görüntülemek için ilgili sekmeleri seçin. Pasta grafiğini belirli öğe kategorilerinin bir dökümü ile oluşturmak için, göstergede bu öğe kategorilerini seçin.
+Bu görünüm, MPN konumlarınız, müşteri segmentleriniz, satış kanalı/Azure fiyatlandırma modeliniz ve atılama türü (örneğin, DPOR, DAP ve diğerleri) tarafından geçerli aboneliklerinizin dökümünü gösterir. Bu kategorilerin dökümünü görüntülemek için ilgili sekmeleri seçin. Pasta grafiğini belirli öğe kategorilerinin bir dökümü ile oluşturmak için, göstergede bu öğe kategorilerini seçin.
 
-:::image type="content" source="images/pci/pci-sub-report-distribution-4.png" alt-text="abonelik dağıtımı":::
+:::image type="content" source="images/pci/pci-sub-report-distribution-4.png" alt-text="abonelik dağıtımı.":::
 
 ## <a name="subscription-state-distribution"></a>Abonelik durumu dağılımı
 
 Bu görünüm, geçerli müşteri aboneliklerinizin abonelik durumu veya durumuna göre dağılımını gösterir. Bu, şu abonelik durumlarını içerir: **etkin**, **devre dışı**, **desağlanmamış**, **Open**, **yetkisizkullanımsüresinde**, **Closed** ve **diğerleri**.
 
-:::image type="content" source="images/pci/pci-sub-report-sub-states-5.png" alt-text="Abonelik durumu dağılımı":::
+:::image type="content" source="images/pci/pci-sub-report-sub-states-5.png" alt-text="Abonelik durumu dağıtımı.":::
 
 ## <a name="products-trend"></a>Ürün eğilimi
 
@@ -100,7 +100,7 @@ Bu görünüm bir çubuk grafiği ve iki pasta grafiği gösterir. Çubuk grafik
 
 İki pasta grafik, geçerli müşteri aboneliklerinizin dökümünü gösterir. İlk pasta grafik, ürünlere göre abonelikleri ayırır. İkinci pasta grafik, STB veya planlara göre abonelikleri ayırır. **Ürünlere göre** döküm pasta grafiğinde bir ürünü seçtiğinizde, bitişik pasta grafiğinde bu ürüne ait aboneliklerde SKU 'lara ait bir döküm gösterilir.
 
-:::image type="content" source="images/pci/pci-sub-report-prods-trend-6.png" alt-text="Ürün eğilimi":::
+:::image type="content" source="images/pci/pci-sub-report-prods-trend-6.png" alt-text="Ürün eğilimi.":::
 
 > [!NOTE]
  > SKU 'Lar tarafından kesilen abonelik sayısı, bu ürün için her zaman toplam abonelik sayısıyla eşleşmeyebilir. Bu durum, bir müşterinin aynı ürün aboneliği kapsamında birden çok SKU satın almış olması durumunda gerçekleşebilir.

@@ -8,18 +8,18 @@ description: Microsoft İş Ortağı Merkezi müşterilerinizle iş yapmak için
 author: laurabrenner
 ms.author: labrenne
 ms.localizationpriority: high
-ms.openlocfilehash: 7d476404bbfdb5814f325b7fdafd34d44780fb66
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: dc34044753b540545086113e356e194c3c99138a
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110151126"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112277666"
 ---
 # <a name="what-is-partner-center"></a>İş Ortağı Merkezi nedir?
 
 **Uygun roller:** İş ortaklarıyla İş Ortağı Merkezi
 
-[İş Ortağı Merkezi,](https://partner.microsoft.com/dashboard/home) Microsoft iş ortaklarının Microsoft ve müşterileri ile ilişkilerini yönetmesini kolaylaştırmak için çeşitli iş süreçlerini kolaylaştırır. İş Ortağı Merkezi, iş yapmak için ihtiyacınız olan araçlara kolay erişim sağlar. Aşağıdaki İş Ortağı Merkezi kullanın:
+[İş Ortağı Merkezi,](https://partner.microsoft.com/dashboard/home) Microsoft iş ortaklarının Microsoft ve müşterileri ile ilişkilerini yönetmesini kolaylaştırmak için çeşitli iş süreçlerini kolaylaştırır. İş Ortağı Merkezi, iş yapmak için ihtiyacınız olan araçlara kolay erişim sağlar. Şunları İş Ortağı Merkezi kullanın:
 
 - Kullanıcılarınızı Microsoft hesabı yönetme
 - Müşterilerle etkileşim kurma
@@ -31,11 +31,11 @@ ms.locfileid: "110151126"
 - Desteğe başvurun
 - [Microsoft](/azure/marketplace)ticari marketi tekliflerini yayımlayın veya keşfedin. Bağımsız yazılım satıcısı (ISV) iş ortaklarımız tarafından müşterilere yönelik binlerce işlem gerçekleştirilebilir hizmet ve uygulama kataloğu.
 
-:::image type="content" source="images/home.png" alt-text="İş Ortağı Merkezi genel bakış":::
+:::image type="content" source="images/home.png" alt-text="İş Ortağı Merkezi genel bakış.":::
 
 ## <a name="manage-your-account"></a>Hesabınızı yönetme
 
-Bulut Çözümü Sağlayıcısı programında iş ortağı olun veya uygulamalarınızı satan bir geliştirici iş ortağı olun, İş Ortağı Merkezi hesabınız tek bir hesap ayarları konumdan yönetirsiniz: İş Ortağı Merkezi [panosu.](https://partner.microsoft.com/dashboard/home) Buradan yasal bilgileri, vergi ayrıntılarını, kiracıları, iş konumlarını, kullanıcıları ve izinleri ve şirketinizin kayıtlı olduğu belirli programları değiştirebilirsiniz.
+Bulut Çözümü Sağlayıcısı programında iş ortağı veya uygulamalarınızı satan bir geliştirici iş ortağı olun, İş Ortağı Merkezi hesabınız tek bir hesap ayarları konumdan [yönetebilirsiniz:](https://partner.microsoft.com/dashboard/home)İş Ortağı Merkezi panosu. Buradan yasal bilgileri, vergi ayrıntılarını, kiracıları, iş konumlarını, kullanıcıları ve izinleri ve şirketinizin kayıtlı olduğu belirli programları değiştirebilirsiniz.
 
 Bu dosyalarda neleri görebilir ve İş Ortağı Merkezi rolünüz ve izinlerine bağlıdır. Roller ve izinler [hakkında daha fazla bilgi.](permissions-overview.md)
 
@@ -47,7 +47,7 @@ Bu İş Ortağı Merkezi uzmanlık kazanma ve gelişmiş uzmanlık Eylem Paketi 
 
 ## <a name="connect-with-customers"></a>Müşterilerle bağlantı kurma
 
-Şirketinizin uzmanlık alanlarını görüntülemek için iş profilinizi oluşturun. Teknik ve çözüm alanı uzmanlığınızı vurgulayın, becerilerinizi ve derinliğinizi sergilenin ve yeni pazar fırsatlarına liderlik edin. İş İş Ortağı Merkezi, pazarlama kaynaklarına erişimi artırarak pazarlama sürecini hızlandırmalarına, müşteri adayları oluşturmalarına ve bulut işletmelerini büyüterek onlara yardımcı olur. Ürün ve hizmetleri içeren ticari market Microsoft AppSource Azure Market, bilgi ve ürün içinde satın alma deneyimleri sunabilirsiniz. Çözümleriniz, sizi dünyanın her yanındaki işletmelerle, kuruluşlarla ve kamu kurumlarıyla bağlayarak kendi Microsoft çözümlerimizin yanındaki çevrimiçi mağazalarda listelenmiştir. Referanslar hakkında daha fazla bilgi edinmek için müşteri sorguları, pazarlama nitelikli müşteri adayları ve satışa uygun müşteri adayları gibi [farklı müşteri adaylarını yönetme makalelerini okuyun.](manage-leads.md) İş profiliniz hakkında daha fazla bilgi edinmek için İş [profili oluşturma makalelerini okuyun.](create-a-marketing-profile.md)
+Şirketinizin uzmanlık alanlarını görüntülemek için iş profilinizi oluşturun. Teknik ve çözüm alanı uzmanlığınızı vurgulayın, becerilerinizi ve derinliğinizi sergilenin ve yeni pazar fırsatlarına liderlik edin. İş İş Ortağı Merkezi, pazarlama kaynaklarına erişimi artırarak pazarlama sürecini hızlandırmalarına, müşteri adayları oluşturmalarına ve bulut işletmelerini büyüterek onlara yardımcı olur. Microsoft AppSource ve Azure Market içeren ticari market ürün kataloğu, bilgi ve ürün içinde satın alma deneyimleri sunabilirsiniz. Çözümleriniz, sizi dünyanın her yanındaki işletmelerle, kuruluşlarla ve kamu kurumlarıyla bağlayarak kendi Microsoft çözümlerimizin yanındaki çevrimiçi mağazalarda listelenmiştir. Referanslar hakkında daha fazla bilgi edinmek için müşteri sorguları, pazarlama nitelikli müşteri adayları ve satışa uygun müşteri adayları gibi [farklı müşteri adaylarını yönetme makalelerini okuyun.](manage-leads.md) İş profiliniz hakkında daha fazla bilgi edinmek için İş [profili oluşturma makalelerini okuyun.](create-a-marketing-profile.md)
 
 ## <a name="co-sell-with-microsoft-and-other-partners"></a>Microsoft ve diğer iş ortaklarıyla ortak satış
 
@@ -68,7 +68,7 @@ Panodan birkaç farklı türde veri İş Ortağı Merkezi erişin:
 - İş Ortağı Katkı Göstergeleri (PCI), müşteri başarısının yedi temel ölçü üzerindeki iş ortağı etkisini gösterir
 - İş Ortağı Öngörüleri veri raporları, satışların yüksek olduğu yeri tespit eder, aboneliklerini dağıtan veya dede ihtiyacı olan müşterileri bulan ve ürünlerinizin satışlarının ne kadar iyi olduğunu göstermenize yardımcı olur.
 
-:::image type="content" source="images/pci/pci-licenses-report-license-adds-3.png" alt-text="Lisanslarınızı belirleme":::
+:::image type="content" source="images/pci/pci-licenses-report-license-adds-3.png" alt-text="Lisansların nerede olduğunu belirleme.":::
 
 ## <a name="next-steps"></a>Sonraki adımlar
 

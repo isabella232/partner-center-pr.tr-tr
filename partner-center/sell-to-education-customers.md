@@ -9,12 +9,12 @@ author: alikhaki
 ms.author: alikhaki
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1b1b89841faf77a78c8cc268357daaaf95307223
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 9d0cff4883e084ccc0acb37d8c3119d91e3f5530
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855412"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112276459"
 ---
 # <a name="how-to-sell-offers-to-education-customers-and-how-to-create-an-education-customer-in-partner-center"></a>Eğitim müşterilerine teklif satma ve Iş Ortağı Merkezi 'nde eğitim müşterisi oluşturma
 
@@ -37,42 +37,42 @@ Bu makalede, Iş Ortağı Merkezi 'nde eğitim müşterisi oluşturma ve bunlara
    - **Müşteri iletişim bilgileri**: Bu ayrıntılar doğrulama sürecinin bir parçası olarak kullanılacaktır
    - **Birincil etki alanı adı**: Müşterinin hesabı ve e-posta adreslerini oluşturmak için kullanılır.  Boşluk veya özel karakter içermeyen şirket adına benzer bir ad seçin.  Bu ad daha sonra değiştirilemez.
 
-3. Bitirdikten sonra Gözden Geçir'i **seçin.**
+3. İşiniz bittiğinde **gözden geçir**' i seçin.
 
-   :::image type="content" source="images/eduaccountinfo.png" alt-text="Eğitim müşteri hesabı":::
+   :::image type="content" source="images/eduaccountinfo.png" alt-text="Eğitim müşteri hesabı.":::
 
-4. Gözden Geçir onay **verdikten** sonra, gönderilen bilgilerin geçerli olması durumunda Bir **InReview** durumu alırsınız. 
+4. **Gözden geçirmeyi** onayladıktan sonra, gönderilen bilgiler geçerliyse bir **ınreview** durumu alırsınız. 
 
-    :::image type="content" source="images/edu/create-review.png" alt-text="İncelemede eğitim müşteri hesabı"lightbox="images/edu/create-review-expanded.png":::
+    :::image type="content" source="images/edu/create-review.png" alt-text="Gözden geçirideki eğitim müşteri hesabı."lightbox="images/edu/create-review-expanded.png":::
 
-### <a name="confirm-your-education-customers-verification-status"></a>Eğitim müşterinizin doğrulama durumunu onaylama
+### <a name="confirm-your-education-customers-verification-status"></a>Eğitim müşterinizin doğrulama durumunu onaylayın
 
-Müşterinin Hesap sayfasında **bkz.** Özel **nitelik durumu.**
+Müşterinin **Hesap** sayfasında, bkz. **özel nitelik durumu**.
 Durum örnekleri:
 
-- Müşteri doğrulamayı geçti mi: Eğitim
+- Müşteri doğrulamayı geçirtiyse: eğitim
 
-   :::image type="content" source="images/edupassedvetting.png" alt-text="Eğitim doğrulaması başarılı oldu":::
+   :::image type="content" source="images/edupassedvetting.png" alt-text="Eğitim doğrulaması başarılı oldu.":::
 
-- Müşteri doğrulamayı geçemedi ise: Eğitim müşterisi değil
+- Müşteri doğrulamayı geçemezse: eğitim müşterisi değil
 
-   :::image type="content" source="images/edu/fail-reason.png" alt-text="Eğitim doğrulaması başarısız oldu" lightbox="images/edu/fail-reason-expanded.png":::
+   :::image type="content" source="images/edu/fail-reason.png" alt-text="Eğitim doğrulaması başarısız oldu." lightbox="images/edu/fail-reason-expanded.png":::
 
-- Müşteri Eğitim müşterisi olarak etiketlenmişse: Yok
+- Müşteri eğitim müşterisi olarak etiketlenmediyse: yok
 
-   :::image type="content" source="images/edu/account-one.png" alt-text="eğitim müşterisi bu şekilde etiketlenmiş değildir" lightbox="images/edu/account-one-expanded.png":::
+   :::image type="content" source="images/edu/account-one.png" alt-text="Eğitim müşterisi bu şekilde etiketlenemez." lightbox="images/edu/account-one-expanded.png":::
 
-- Müşteri Eğitim müşterisi olarak gözden geçirilse: İncelemede
+- Müşteri eğitim müşterisi olarak incelenmek için: Gözden geçirme aşamasında
 
-    :::image type="content" source="images/edu/in-review.png" alt-text="eğitim müşterisi incelemede" lightbox="images/edu/in-review-expanded.png":::
+    :::image type="content" source="images/edu/in-review.png" alt-text="Eğitim müşterisi gözden geçirme aşamasında." lightbox="images/edu/in-review-expanded.png":::
 
-## <a name="correct-the-customer-account-info-and-resubmit-for-verification"></a>Müşteri hesabı bilgilerini düzeltme ve doğrulama için yeniden kuyruza alma
+## <a name="correct-the-customer-account-info-and-resubmit-for-verification"></a>Müşteri hesabı bilgilerini düzeltin ve doğrulama için yeniden gönderin
 
-Müşteriniz ilk doğrulamada başarısız olursa, artık bilgileri düzeltebilirsiniz ve yeniden sıntebilirsiniz.
+Müşterinizin ilk doğrulamayı başaramazsa, artık bilgileri düzeltip yeniden gönderebilirsiniz.
 
 ### <a name="correct-the-customer-account-information"></a>Müşteri hesabı bilgilerini düzeltme
 
-Müşterinin bilgilerini güncelleştirmek için Genel yönetici ayrıcalıklarına sahip olmanız gerekir. Office 365 portalında bilgileri güncelleştirebilirsiniz çünkü bu veriler İş Ortağı Merkezi güncelleştirilemez.
+Müşterinin bilgilerini güncelleştirmek için genel yönetici ayrıcalıklarına sahip olmanız gerekir. Bu veriler Iş Ortağı Merkezi portalından güncelleştirilemediğinden, Office 365 portalındaki bilgileri güncelleştirmiş olursunuz.
 
 1. **Hesap** sayfasında, müşteri niteliğin "eğitim müşterisi değil" olarak kabul alındığını belirten bilgileri görürsünüz.
 

@@ -8,12 +8,12 @@ description: Müşterilerinizin sattığı ve yönettiğiniz Enterprise Mobility
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: 8b0784e2d81b4483eb374120be2411729d922a47
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: d230f8abfa01f0c00494af9f626f26fb35b80c1c
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109854630"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112277836"
 ---
 # <a name="enterprise-mobility--security-usage-report-available-from-the-partner-center-insights-dashboard"></a>Enterprise Mobility + Security kullanım raporu, Iş Ortağı Merkezi Öngörüler panosundan kullanılabilir
 
@@ -46,35 +46,35 @@ Enterprise Mobility + Security kullanım raporu, müşterileriniz için satılan
 
    Mikro grafik, seçilen zaman dilimi boyunca kullanılan lisansların aylık eğilimini gösterir.
 
-:::image type="content" source="images/pci/pci-ems-usage-summary.png" alt-text="EMS kullanım özeti":::
+:::image type="content" source="images/pci/pci-ems-usage-summary.png" alt-text="EMS Kullanım Özeti.":::
 
-## <a name="enterprise-mobility--security-usage-by-geography"></a>Enterprise Mobility + Security göre kullanım
+## <a name="enterprise-mobility--security-usage-by-geography"></a>Coğrafya tarafından Enterprise Mobility + Security kullanımı
 
-Coğrafi **Enterprise Mobility + Security kullanım verileri,** müşteri ülkesi tarafından Aylık Etkin Kullanıcıların (MAU) ve Ücretli Kullanılabilir Birimlerin (PAU) dağılımını gösterir. MAU, önceki ay kullanılan lisans sayısını, PAU ise seçilen zaman çerçevesi içinde satılan veya yönetilen ücretli lisans sayısını ifade eder. Harita üzerinde daha açık renkler düşük değerleri, koyu renkler ise daha yüksek değerleri temsil eder. Kılavuzda bir ülke arayabilir ve bu ülkeyi seçin. Daha yakından bakmak için de yakınlaştırın.
+**Coğrafya tarafından Enterprise Mobility + Security kullanımı** , aylık etkin kullanıcıların (Mau) ve ücretli kullanılabilir birimlerin (Pau) müşteri ülkesine dağılımını gösterir. MAU, önceki ay boyunca kullanılan lisansların sayısına başvurur ve PAU seçili zaman diliminde satılan veya yönetilen ücretli bilgisayar sayısını ifade eder. Haritadaki daha açık renkler daha düşük değerleri temsil ederken, daha koyu renkler daha yüksek değerleri temsil eder. Kılavuzdaki bir ülkeyi arayabilir ve seçebilirsiniz. Daha yakından bir görünüm için de yakınlaştırma yapabilirsiniz.
 
-**Ülke/bölge sayısı tablosu,** Azure kullanım olaylarının oluşturularak toplam ülke/bölge sayısını gösterir.
+**Ülke/bölge tablosu sayısı** , Azure kullanım olaylarının oluşturulduğu toplam ülkeleri/bölgeleri gösterir.
 
-Haritanın konumunu yakınlaştırmak için kılavuzda bir ülke arayabilir ve bu ülkeyi seçin. Özgün **görünüme** dönmek için haritada Giriş seçeneğini belirleyin.
+Haritada konum yakınlaştırmak için kılavuzda bir ülke arayabilir ve seçebilirsiniz. Özgün görünüme dönmek için haritada **giriş** seçeneğini belirleyin.
 
-:::image type="content" source="images/pci/pci-ems-usage-geography.png" alt-text="Coğrafyaya göre EMS kullanımı":::
+:::image type="content" source="images/pci/pci-ems-usage-geography.png" alt-text="Coğrafya tarafından kullanılan EMS kullanımı.":::
 
-## <a name="enterprise-mobility--security-usage-by-sku"></a>Enterprise Mobility + Security SKU'ya göre kullanım
+## <a name="enterprise-mobility--security-usage-by-sku"></a>SKU tarafından Enterprise Mobility + Security kullanımı
 
-SKU Enterprise Mobility + Security kullanımı, MAU ve PAU'nun SKU'lara göre aylık dökümünü gösterir.
+SKU tarafından Enterprise Mobility + Security kullanımı, SKU 'Lara göre MAU ve PAU 'ların aylık dökümünü gösterir.
 
-:::image type="content" source="images/pci/pci-ems-usage-sku.png" alt-text="SKU'ya göre EMS kullanımı":::
+:::image type="content" source="images/pci/pci-ems-usage-sku.png" alt-text="SKU tarafından EMS kullanımı.":::
 
 ## <a name="subscriptions-performance"></a>Abonelik performansı
 
-Abonelik performansı, müşteri aboneliği başına SKU'lara göre MAU ve PAU dökümünü içerir. Faturalı gelire göre ilk 100 müşteriye ilişkin veriler tabloda gösterilir ve herhangi bir müşteriyi arayabilir veya tüm müşterilerin ayrıntılarını görüntülemek için ham verileri indirebilirsiniz.
+Abonelik performansı, MAU ve PAU 'ların müşteri aboneliği başına SKU 'Ları tarafından dökümünü gösterir. Faturalandırılan ilk 100 müşterinin verileri, tabloda gösterilir ve tüm müşterilerin ayrıntılarını görüntülemek için herhangi bir müşteriyi arayabilir veya ham verileri indirebilirsiniz.
 
-:::image type="content" source="images/pci/pci-ems-usage-subscription.png" alt-text="EMS aboneliği performansı":::
+:::image type="content" source="images/pci/pci-ems-usage-subscription.png" alt-text="EMS abonelik performansı.":::
 
-## <a name="enterprise-mobility--security-usage-distribution"></a>Enterprise Mobility + Security dağıtımı
+## <a name="enterprise-mobility--security-usage-distribution"></a>Kullanım dağıtımı Enterprise Mobility + Security
 
-Bu Enterprise Mobility + Security dağıtımı, PAU ve Aboneliklerin SKU'lara göre dökümünü gösterir.
+Enterprise Mobility + Security kullanım dağıtımı, SKU 'Lara göre PAU ve aboneliklerinin dökümünü gösterir.
 
-:::image type="content" source="images/pci/pci-ems-usage-distribution.png" alt-text="EMS kullanım dağıtımı":::
+:::image type="content" source="images/pci/pci-ems-usage-distribution.png" alt-text="EMS kullanım dağıtımı.":::
 
 ## <a name="next-steps"></a>Sonraki adımlar
 

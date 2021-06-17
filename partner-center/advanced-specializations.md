@@ -1,59 +1,63 @@
 ---
-title: Gelişmiş specialmeler hakkında bilgi edinin
+title: Gelişmiş uzmanlıklar hakkında bilgi
 ms.topic: article
 ms.date: 01/21/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: İş profilinizi Microsoft iş ortağı dizininde güçlendirin. Mevcut altın ve gümüş uzmanlıklarınızla birlikte elde ettiğiniz Gelişmiş Uzmanlıklar hakkında bilgi edinin.
+description: Microsoft iş ortağı dizininde iş profilinizi güçlendirin. Mevcut Gold ve Silver yetkinlikleri ile elde etmek için ileri düzey uzmanlıklar hakkında bilgi alın.
 author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 785bed684e883c19782d820bf2644e050842b54b
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 91c182f2eb42bbe834926c7985d343524305485a
+ms.sourcegitcommit: cc9e47219f6e2cdf77118b5c8986e86ebecfe260
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110150463"
+ms.lasthandoff: 06/16/2021
+ms.locfileid: "112125931"
 ---
-# <a name="earn-an-advanced-specialization-to-showcase-your-validated-capabilities"></a>Doğrulanan olanaklarınızı göstermek için gelişmiş bir özelleşme kazanın
+# <a name="earn-an-advanced-specialization-to-showcase-your-validated-capabilities"></a>Doğrulanmış özelliklerinizi göstermek için gelişmiş uzmanlık kazanma
 
-**Uygun roller**: genel yönetici | Hesap Yöneticisi
+**Uygun roller:** Genel yönetici | Hesap yöneticisi
 
-Microsoft Gelişmiş uzmanlık, bir ortağın kazanılabilecek ilgili [altın uzmanlık](learn-about-competencies.md) özelliklerini oluşturur. Altın uzmanlık ve ilgili gelişmiş uzmanlıklarla birlikte, iş ortaklarının, yeteneklerini müşterilere daha da ayırt etmesine olanak tanır.
+Microsoft gelişmiş uzmanlıkları, bir iş ortağının [kazanabilirsiniz ilgili](learn-about-competencies.md) altın uzmanlıklarını temel almaktadır. Altın uzmanlıklar kazanmanın yanı sıra ilgili gelişmiş uzmanlıkları, iş ortaklarının özelliklerini müşterilere daha fazla ayırt estirlerine olanak sağlar.
 
-Bir iş ortağı, gelişmiş bir özelleşmeyi kazanmak için genellikle müşteri başvuruları alma, üçüncü taraf bir denetim, ilgili bir beceri kümesi ve belirli performans ölçümlerine erişme gibi yoğun gereksinimleri karşılar.
+Gelişmiş uzmanlık kazanmak için bir iş ortağının genellikle müşteri başvurularını alma, üçüncü taraf denetimine geçmesi, ilgili beceri kümesine ulaşmayı kanıtlaması ve belirli performans ölçümlerini karşılaması gibi zorlu gereksinimleri karşılaması gerekir.
 
-Bu katı gereksinimleri karşılaarak, iş ortakları daha sonra, yüksek müşteri talebi ve ilgi alanı için uyarlanmış, müşteri çözümleri sunma konusunda derin bilgi, kapsamlı deneyim ve kendini kanıtlamış başarıyı doğrulayabilir.
+Bu katı gereksinimleri karşılayan iş ortakları daha sonra derin bilgilerinden, kapsamlı deneyimlerinden ve yüksek müşteri talebi ve ilgi düzeyine sahip alanlar için uyarlanmış, müşteri çözümleri sunma başarısını doğrular.
 
-Gelişmiş bir özelleştirmeye sahip iş ortakları, [Microsoft çözüm sağlayıcısı Finder](https://www.microsoft.com/solution-providers/home)'da iş profilinde görüntülenebilecek, müşteriye yönelik bir etiket elde eder. Bu etiket iş ortağının yeteneklerini daha da doğrular, bu sayede ilgili avantajlara, genişletilmiş müşteri erişimine ve daha fazla müşteri güvenlerine erişim sağlar.
+Gelişmiş uzmanlık kazanan iş ortakları, Microsoft çözüm sağlayıcısı bulıcısı içinde iş profilinde görüntüley yaptıkları müşteriye yönelik [bir etiket elde eder.](https://www.microsoft.com/solution-providers/home) Bu etiket, iş ortağının özelliklerini doğrular ve onlara ilişkili avantajlara, genişletilmiş müşteri erişimine ve daha fazla müşteri güvenine erişim sağlar.
 
 > [!NOTE]
-> Gelişmiş Uzmanlıklar hakkında daha fazla bilgi edinmek için [Microsoft iş ortağı ağı gelişmiş specialmeler sayfasını](https://partner.microsoft.com/membership/advanced-specialization)ziyaret edin.
+> Gelişmiş uzmanlıklar hakkında daha fazla bilgi edinmek için gelişmiş [Microsoft İş Ortağı Ağı sayfasını ziyaret edin.](https://partner.microsoft.com/membership/advanced-specialization)
 
-## <a name="advanced-specialization-areas"></a>Gelişmiş özelleşme bölgeleri
+## <a name="advanced-specialization-areas"></a>Gelişmiş özelleştirme alanları
 
-Her Gelişmiş özelleştirme bir çözüm alanına karşılık gelir:
+Her gelişmiş uzmanlık bir çözüm alanına karşılık gelen bir çözümdür:
 
 - Azure
 - İş Uygulamaları
-- Modern Iş
+- Modern Çalışma
 - Güvenlik
 
-**Azure** gelişmiş specialmeler şunlardır:
+**Azure** gelişmiş uzmanlıkları şunları içerir:
 
-- Microsoft Azure Analytics
+- Microsoft Azure'da analiz
 - Microsoft Azure'a Veri Ambarı Geçişi
 - Microsoft Azure'da Kubernetes
-- Linux ve açık kaynak veritabanları Microsoft Azure 'e geçiş
+- Linux ve Açık Kaynak Veritabanlarının Microsoft Azure
 - Microsoft Windows Sanal Masaüstü
 - Microsoft Azure'a Web Uygulamaları Modernleştirmesi
 - Microsoft Azure’da SAP
 - Microsoft Azure'a Windows Server ve SQL Server Geçişi
+- Microsoft Azure'Machine Learning ve Microsoft Azure
+- Microsoft Azure Stack HCI ile Hibrit Bulut Altyapısı
+- Microsoft Azure Arc ile Karma İşlemler ve Yönetim
+- Microsoft Azure VMware Çözümü
 
-**Business Applications** gelişmiş specialmeler şunlardır:
+**Business Applications** uzmanlıklar şunlardır:
 
-- Düşük kod uygulama geliştirme
+- Düşük Kodlu Uygulama Geliştirme
 - Küçük ve Orta Ölçekli İş Yönetimi
 
 **Modern çalışma** gelişmiş uzmanlıkları şunları içerir:
@@ -67,6 +71,8 @@ Her Gelişmiş özelleştirme bir çözüm alanına karşılık gelir:
 
 - Kimlik ve Erişim Yönetimi
 - Tehdit Koruması
+- Information Protection ve İdare
+- Bulut Güvenliği
 
 > [!NOTE]
 > Her gelişmiş uzmanlık hakkında bilgi edinmek ve önkoşullarını ve gereksinimlerini öğrenmek için Gelişmiş [uzmanlıklar sayfasını ziyaret edin.](https://partner.microsoft.com/membership/advanced-specialization) Gelişmiş uzmanlık için başvurmaya hazır olduğunda, İş Ortağı Merkezi panosunda oturum [açın.](https://partner.microsoft.com/dashboard) Uygulamanın bu alanına erişme hakkında daha fazla İş Ortağı Merkezi için [bkz. Gelişmiş uzmanlık için uygula.](advanced-specializations-apply.md)

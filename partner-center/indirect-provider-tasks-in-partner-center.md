@@ -1,6 +1,6 @@
 ---
-title: CSP 'de dolaylı satıcılarla iş ortağı
-description: Dolaylı bir sağlayıcı veya dağıtıcı olarak, dolaylı satıcılarla ortaklık ile nasıl genişletireceğinizi öğrenin. Bu, Iş Ortağı Merkezi 'nde gerçekleştirebileceğiniz görevleri içerir.
+title: CSP'de dolaylı kurumsal bayilerle iş ortağı
+description: Dolaylı sağlayıcı veya dağıtımcı olarak, dolaylı kurumsal bayilerle iş ortağı olarak genişletmeyi öğrenin. Bu, bu işlemde gerçekleştirebilirsiniz İş Ortağı Merkezi.
 ms.topic: how-to
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,38 +9,38 @@ ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
 ms.date: 03/23/2021
-ms.openlocfilehash: bd11b65fb1f11839cba50d8bc1da94668009c56c
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: ec673f7dcf620f055be58dc3a333575addcd6cd1
+ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110146689"
+ms.lasthandoff: 06/17/2021
+ms.locfileid: "112277853"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>Bulut Çözümü Sağlayıcısı programında dolaylı kurumsal bayilerle iş ortaklığı yapma
 
-**Uygun roller**: genel yönetici | Kullanıcı Yönetimi Yöneticisi | Yönetici Aracısı | Satış Aracısı
+**Uygun roller:** Genel yönetici | Kullanıcı yönetimi yönetici | Yönetici aracısı | Satış aracısı
 
-Bu tür karmaşık ve hızlı bir şekilde değişen teknoloji marketi sayesinde müşteriler, teknoloji çözümlerinin bu kullanıcılara sunmalarına olanak tanımak için rekabet ucunu ister. Bu tür bir uçda, iş ortaklarının teklifleri genişletmek ve müşterilerin daha fazla iş kullanmasını sağlamak için iş ortakları için iş ortağı katılımında yatırım yapması mantıklıdır.
+Bu kadar karmaşık ve hızla değişen bir teknoloji marketi sayesinde müşteriler, teknoloji çözümlerinin onlara rekabet avantajı sağlamak istiyor. Böyle bir iklimde, iş ortaklarının teklifleri genişletmek ve müşterilerin daha da fazlasını yapmalarını sağlamak için iş ortaklarının iş ortağıyla etkileşime yatırım yapmaları mantıklıdır.
 
-Yeni satıcılar, pazarlarını ve yerel ayarları dışındaki müşterilere kendi çözümlerini sunmaya yönelik pazara ve arama yollarını giriyor. Kurulu bir teknoloji sağlayıcısı olarak, pazara yönlendirilme yolunda iyi bir şekilde konumlanıyoruz. Bulut çözümü sağlayıcısı (CSP) programındaki, diğer iş ortaklarıyla bağlantı kurmak, pazara yeni çözümler getirmek ve bulut hizmetleri benimsemesi için dolaylı satıcılarla iş ortağı.
+Pazara giren yeni kurumsal bayiler, çözümlerini pazarları ve yerel bayileri dışındaki müşterilere sunmak için yollar arıyor. Köklü bir teknoloji sağlayıcısı olarak, pazara satış rotası olarak iyi konumlara sahipsiniz. Diğer iş ortaklarıyla bağlantı Bulut Çözümü Sağlayıcısı, pazara yeni çözümler getirmek ve müşterilerin bulut hizmetlerini benimsemesini ilerletmelerini sağlamak için Bulut Çözümü Sağlayıcısı (CSP) programında dolaylı kurumsal bayilerle iş ortağı olun.
 
-Dolaylı sağlayıcı-satıcı (iki katmanlı) modelinde, Microsoft bulut çözümlerini müşterilere sunmaya yönelik dolaylı satıcılarla iş ortağı olursunuz. Ürünleri ve abonelikleri doğrudan Microsoft 'tan satın alın ve ardından bu çözümleri satıcılarınız aracılığıyla müşterilere sunun.
+Dolaylı sağlayıcı-kurumsal bayi (iki katmanlı) modelinde, müşterilere Microsoft bulut çözümleri sunmak için dolaylı kurumsal bayilerle iş ortağı oluruz. Ürünleri ve abonelikleri doğrudan Microsoft'tan satın alır ve ardından bu çözümleri kurumsal bayileri aracılığıyla müşterilere sunarsınız.
 
-Dolaylı bir sağlayıcı olarak, Iş ortağı merkezini kullanarak şunları yapabilirsiniz:
+Dolaylı sağlayıcı olarak, aşağıdakiler için İş Ortağı Merkezi kullanırsiniz:
 
-- Erişim ve müşteri tabanınızı genişletmenizi sağlayan dolaylı satıcılarla bağlantı kurmak
+- Bağlantınızı ve müşteri tabanınızı genişletmenize yardımcı olacak dolaylı kurumsal bayilerle bağlantı kurabilirsiniz
 
-- Yalnızca ortak müşterilere hizmeti sağlamak için size izin veren dolaylı satıcılarla ortaklık kurun
+- Her ikisinde de ortak müşterilere hizmet vermesine olanak sağlayan dolaylı kurumsal bayilerle iş ortaklığı kurma
 
-- Belirli müşterileri ve abonelikleri yönetmek için dolaylı satıcıları belirleme
+- Belirli müşterileri ve abonelikleri yönetmek için dolaylı kurumsal bayileri atama
 
-- Microsoft, müşteriler ve dolaylı satıcılarla ilişkilerinizi tek bir yerde yönetin
+- Microsoft, müşteriler ve dolaylı kurumsal bayilerle ilişkilerinizi tek bir yerde yönetin
 
-CSP programına dolaylı bir satıcı olarak katılmak için gerekenler hakkında daha fazla bilgi için, [Microsoft iş ortağı ağı Web sitesinde](https://partner.microsoft.com) [dolaylı bir satıcı olarak kullanmaya başlama](https://partner.microsoft.com/membership/cloud-solution-provider/) bölümüne bakın.
+CSP programına dolaylı kurumsal bayi olarak katılmak için gerekenler [](https://partner.microsoft.com/membership/cloud-solution-provider/) hakkında bilgi için Kullanmaya başlayın web sitesinde dolaylı kurumsal [bayi olarak Microsoft İş Ortağı Ağı bakın.](https://partner.microsoft.com)
 
 ## <a name="indirect-provider-tasks-in-the-partner-center"></a>İş Ortağı Merkezi'nde dolaylı sağlayıcı görevleri
 
-Dolaylı satıcılarla ve müşterilerle iş ortaklarınızı oluşturmak ve yönetmek için aşağıdaki adımları izleyin. Adım 2 ve 3 aşağıda daha ayrıntılı olarak açıklanmıştır.
+Dolaylı kurumsal bayiler ve müşterilerle iş ortaklığınızı kurmak ve yönetmek için aşağıdaki adımları tamamlayın. 2. ve 3. adımlar aşağıda daha ayrıntılı olarak açıklanmıştır.
 
 1. Microsoft'un resmi dolaylı [sağlayıcılar listesinde şirket profilinizi gözden geçirme.](https://partnercenter.microsoft.com/partner/find-a-provider)
 
@@ -63,13 +63,13 @@ Bu adımları tamamlandıktan sonra Dolaylı kurumsal bayiler  sayfasındaki kur
 
 ## <a name="connect-with-indirect-resellers"></a>Dolaylı kurumsal bayilerle bağlanma
 
-Kurumsal bayilerde dolaylı kurumsal bayilerle etkileşim İş Ortağı Merkezi etkileşim kurmak için onlarla bir iş ortaklığı kurmamız gerekir. Dolaylı kurumsal bayi ile iş ortaklığı yapmak, size ve kurumsal bayinin ortak müşterilere hizmet etmelerini sağlar.
+Kurumsal bayilerle etkileşim kurmak ve dolaylı kurumsal İş Ortağı Merkezi etkileşim kurmak için onlarla bir iş ortaklığı kurmamız gerekir. Dolaylı kurumsal bayi ile iş ortaklığı yapmak, size ve kurumsal bayinin ortak müşterilere hizmet etmelerini sağlar.
 
 İş ortaklığı kurmak için kurumsal bayiye bir iş ortaklığı isteği e-postası gönderin. Başlamadan önce kurumsal bayinin e-posta adresinin sağ tarafta olduğundan emin olun.
 
 Abonelik ayrıntıları sayfasındaki Kurumsal Bayi (MPN KIMLIĞI) alanında, çalışmak istediğiniz kurumsal bayiyi ekleyin. Kurumsal bayinin iş ortağına ekleme yapmak için kullandığı İş Ortağı Konumu Hesabı ile ilişkili MPN kimliğini İş Ortağı Merkezi. Bu, kurumsal bayinin uygun teşvikleri almalarını ve işlemle etkileşime Microsoft İş Ortağı Sözleşmesi etkin bir iş ortağına sahiplerini sağlar.
 
-1. Kurumsal **bayiler menüsünden** Dolaylı **kurumsal İş Ortağı Merkezi** seçin.
+1. **Menüyüzden Dolaylı** kurumsal **bayiler'İş Ortağı Merkezi** seçin.
 
 2. Dolaylı kurumsal **bayiler sayfasında** İş ortaklığı **isteğide bulun'a tıklayın.** Taslak bir e-posta iletisi görüntülenir.
 
@@ -102,13 +102,13 @@ Mevcut abonelikler için dolaylı kurumsal bayiyle çalışmaya karar verdiyebil
 
 ## <a name="remove-partnership-with-indirect-resellers"></a>Dolaylı kurumsal bayilerle iş ortaklığını kaldırma
 
-Mevcut dolaylı kurumsal bayiyle olan ortaklığı kaldırmak için aşağıdaki adımları izleyin. 
+Mevcut dolaylı kurumsal bayiyle ortaklığı kaldırmak için aşağıdaki adımları izleyin. 
 
 1. Panonun İş Ortağı Merkezi Dolaylı kurumsal **bayiler'i seçin.** 
 
 2. Dolaylı kurumsal **bayiler sayfasında** Ortaklığı **kaldır'ı seçin.** Onay isteyen bir ileti görüntülenir. Devam etmek için Evet'i **seçin.**
 
-:::image type="content" source="images/ip-ir-relationship.png" alt-text="İş ortaklığı kaldırma":::
+:::image type="content" source="images/ip-ir-relationship.png" alt-text="İş ortaklığını kaldırma.":::
 
 >[!IMPORTANT]
 >Dolaylı kurumsal bayiyle ilişkilendirilmiş müşteriler kaldırılamaz. Verilen tüm yönetici temsilcisi ayrıcalıkları değişmeden kalır.
@@ -116,28 +116,28 @@ Mevcut dolaylı kurumsal bayiyle olan ortaklığı kaldırmak için aşağıdaki
 >Sözleşmeniz gerektiriyorsa, müşterinize veya iş ortağınıza sonlandırma hakkında yasal bildirim sağlanız gerekir. Bu araç, müşteriye veya iş ortağına bildirim oluşturmaz.
 
 3. İş ortaklığını kaldıran dolaylı kurumsal bayi listede görünmez.
-Erişim düzeyine ve katılım düzeyine bağlı olarak, dolaylı kurumsal bayiye ve son müşteriye bu değişiklik hakkında iletişim kurmak istiyor olabilirsiniz.
+Erişim ve katılım düzeyine bağlı olarak, dolaylı kurumsal bayiye ve son müşteriye bu değişiklik hakkında iletişim kurmak istiyor olabilir.
 
 
 ## <a name="connect-with-customers"></a>Müşterilerle bağlantı kurma
 
 Yeni müşteriler elde etmek için bu müşteriler için hesap oluşturmanız İş Ortağı Merkezi. Yeni bir müşteri hesabı eklerken, hesabı yönetmek ve müşterilerin aboneliklerini ve hizmetlerini kendi adına yönetmek için belirli bir kurumsal bayiyi kullanabilirsiniz.
 
-Yeni bir müşteri hesabıyla bir satıcı ilişkilendirdiğinizde, satıcıya hesap ve abonelik yönetimi temsilcisi olarak atanır. Bu, satıcının müşterinin aboneliklerine ve hizmetlerine yönetici erişimi olduğu ve bunları müşteri adına yönetebileceği anlamına gelir.
+Kurumsal bayiyi yeni bir müşteri hesabıyla ilişkilendirmek için kurumsal bayiye hesap ve abonelik yönetimi yetkisi alırsınız. Bu, kurumsal bayinin müşterinin aboneliklerine ve hizmetlerine yönetici erişimine sahip olduğu ve bunları müşteri adına yöneteci olduğu anlamına gelir.
 
-### <a name="add-new-customers-and-associate-them-with-indirect-resellers"></a>Yeni müşteriler ekleyin ve bunları dolaylı satıcılarla ilişkilendirin
+### <a name="add-new-customers-and-associate-them-with-indirect-resellers"></a>Yeni müşteriler ekleme ve dolaylı kurumsal bayilerle ilişkilendirme
 
-1. **Iş Ortağı Merkezi** menünüzden **dolaylı satıcılar** ' i seçin.
+1. **Menüyüzden Dolaylı** kurumsal **bayiler'İş Ortağı Merkezi** seçin.
 
-2. Yeni müşterileri atamak istediğiniz dolaylı satıcısı bulun ve ardından **yeni müşteri Ekle**' yi seçin. Dolaylı satıcının, müşteri ayrıntısı formunda sizin için zaten seçili olduğunu unutmayın. Müşterinin ayrıntılarını girip **İleri: abonelikler**' i seçin.
+2. Yeni müşteriler atamak istediğiniz dolaylı kurumsal bayiyi bulun ve Yeni müşteri **ekle'yi seçin.** Dolaylı kurumsal bayinin müşteri ayrıntıları formunda sizin için zaten seçili olduğunu unutmayın. Müşterinin ayrıntılarını ve ardından **Sonraki: Abonelikler'i seçin.**
 
-3. **Yeni abonelik** sayfasında, müşterinin satın almak istediği abonelikleri seçin ve ardından müşterinin ihtiyacı olan lisans sayısını girin.
+3. Yeni **abonelik sayfasında** müşterinin satın almak istediği abonelikleri seçin ve ardından müşterinin ihtiyacı olan lisans sayısını girin.
 
 4. Şunu seçin: **İleri: Gözden Geçir**.
 
-5. Sıra doğruysa **Gönder**' i seçin. Sıra yanlışsa, tüm işlemi iptal etmek ve baştan başlamak için **Iptal 'i** seçin.
+5. Sipariş doğruysa Gönder'i **seçin.** Sipariş yanlışsa, tüm işlemi **iptal etmek ve** baştan başlamak için İptal'i seçin.
 
-6. Siparişi gönderdikten sonra **onay** sayfası görüntülenir. **Kurulum bilgileri** altında yönetici kullanıcı hesabı adı ve geçici parola görüntülenir. Kullanıcı hesabı adını ve parola bilgilerini kopyalayarak yeni müşteriye gönderebilirsiniz.
+6. Siparişi gönderdikten sonra **Onay sayfası** görüntülenir. Kurulum **bilgileri altında** yönetici kullanıcı hesabı adı ve geçici parola görüntülenir. Kullanıcı hesabı adını ve parola bilgilerini kopyalayıp yeni müşteriye gönderebilirsiniz.
 
     > [!IMPORTANT]  
     > Bu sayfayı kapattıktan sonra bu bilgilere erişemiyoruz, Kullanıcı hesabı adını ve parolayı bir yere göz önünde olduğunuzdan emin olun.
@@ -150,24 +150,24 @@ Müşteriler yeni abonelikler satın almak, mevcut olanları yükseltmek veya ek
 
 1. **Iş Ortağı Merkezi** menünüzden **müşteriler** ' i seçin.
 
-2. Hesabını değiştirmek istediğiniz müşteriyi bulun. Seçimlerinizi daraltmak için listeyi dolaylı kurumsal bayiye göre filtreleebilirsiniz. Aşağı oku ve ardından Abonelik ekle'yi seçerek müşterinin **kaydını genişletin.**
+2. Hesabını değiştirmek istediğiniz müşteriyi bulun. Seçimlerinizi daraltmak için listeyi dolaylı satıcıya göre filtreleyebilirsiniz. Aşağı oku ve ardından **Abonelik Ekle**' yi seçerek müşterinin kaydını genişletin.
 
-3. Yeni **abonelik sayfasında** abonelikleri seçin ve müşterinin satın almak istediği lisans sayısını girin.
+3. **Yeni abonelik** sayfasında, abonelik (ler) i seçin ve müşterinin satın almak istediği lisansların sayısını girin.
 
-4. Aboneliği bir kurumsal bayiyle ilişkilendirmek için listeden kurumsal bayinin adını ve ardından Gönder'i **seçin.** Kurumsal bayiyi abonelikle birlikte bağ kurarak, uygunsa teşvik kazanmalarını sağlar.
+4. Aboneliği bir satıcı ile ilişkilendirmek için, listeden satıcının adını seçin ve ardından **Gönder**' i seçin. Satıcının abonelikle ilişkilendirilmesi, varsa teşvikleri kazanmalarını sağlar.
 
-5. Yeni abonelikler müşterinin abonelik listesinde görünür.
+5. Yeni abonelik (ler) müşterinin abonelikler listesinde görünür.
 
-6. Kurumsal bayinin yeni abonelik için müşteri desteği isteklerini işlemesi için aboneliği ve ardından Belirlenen destek kişi listesinden **kurumsal bayiyi** seçin. 
+6. Satıcının yeni abonelik için müşteri destek taleplerini işlemesini istiyorsanız, aboneliği seçin ve ardından **belirlenen destek kişisi** listesinden satıcı ' yı seçin. 
 
-7. Tamamlandığında **Gönder'i** seçin.
+7. Bittiğinde **Gönder** ' i seçin.
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-Aşağıdakiler hakkında sorularınıza yanıt Microsoft İş Ortağı Sözleşmesi
+Microsoft Iş ortağı sözleşmesi hakkındaki sorularınızın yanıtlarını bulun
 
-- [Dolaylı sağlayıcıların kurumsal bayilerinin kurumsal bayileri benimsemelerine nasıl Microsoft İş Ortağı Sözleşmesi - SSS](mpa-indirect-provider-faq.md)
+- [Dolaylı sağlayıcılar, satıcıların Microsoft Iş ortağı sözleşmesi 'Ni benimsemesine nasıl yardımcı olabilir-SSS](mpa-indirect-provider-faq.md)
 
-Müşteri hesaplarını ve aboneliklerini yönetme hakkında daha fazla bilgi için bkz:
+Müşteri hesaplarını ve abonelikleri yönetme hakkında daha fazla bilgi için bkz.:
 
 - [Müşteri abonelikleri](customer-subscriptions.md)
