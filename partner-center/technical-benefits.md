@@ -1,6 +1,6 @@
 ---
-title: MPN avantajları-teknik satış öncesi ve dağıtım (TPD)
-description: Teknik satış öncesi ve Dağıtım Hizmetleri (TPD) için Microsoft İş Ortağı Ağı (MPN) avantajları hakkında bilgi edinin
+title: MPN avantajları - Teknik Satış Öncesi ve Dağıtım (TPD)
+description: Teknik Satış Microsoft İş Ortağı Ağı Dağıtım hizmetleri (TPD) için Microsoft İş Ortağı Ağı (MPN) avantajları hakkında bilgi
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 ms.topic: article
@@ -9,102 +9,103 @@ ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 03/30/2021
-ms.openlocfilehash: b6de912047a327e89e2572504329e9eff23e7dbf
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: fb991e8e5792e2be2087e05cc371b064ea11d02e
+ms.sourcegitcommit: 0410e2a3f91b7e6b592cc47e7af1dfbe468c7881
 ms.translationtype: MT
 ms.contentlocale: tr-TR
 ms.lasthandoff: 06/17/2021
-ms.locfileid: "112276391"
+ms.locfileid: "112318104"
 ---
-# <a name="explore-technical-presales-and-deployment-services-tpd"></a>Teknik satış ve dağıtım hizmetlerini (TPD) keşfet 
+# <a name="explore-technical-presales-and-deployment-services-tpd"></a>Teknik Satış Öncesi ve Dağıtım hizmetlerini (TPD) keşfetme 
 
-**Uygun roller**: MPN iş ortağı Yöneticisi
+**Uygun roller:** Kuruluş etkin bir yetkinliğe sahip olduğu veya Microsoft tarafından yetkinliğe sahip olduğu sürece herhangi bir MPN Eylem Paketi.
 
-Danışmanlık, ön satış yardımı, danışmanlık saatleri ve daha fazlası dahil olmak üzere teknik satış ve Dağıtım Hizmetleri için alacağınız Microsoft İş Ortağı Ağı (MPN) avantajları hakkında bilgi edinin.
+Danışmanlıklar, Microsoft İş Ortağı Ağı, danışmanlık saatleri ve daha fazlası dahil olmak üzere Teknik Satış Öncesi ve Dağıtım hizmetleri için elde Microsoft İş Ortağı Ağı (MPN) avantajları hakkında bilgi öğrenin.
 
-## <a name="develop-your-technical-know-how"></a>Teknik bilmeniz gerekenleri geliştirme-nasıl yapılır
+## <a name="develop-your-technical-know-how"></a>Teknik bilginizi geliştirme
 
-Satışları artırmak, daha verimli bir şekilde dağıtmak ve uygulama geliştirmeyi hızlandırmak için teknik olanaklarınızı daha hızlı bir şekilde oluşturmak üzere, bir uzaktan kişiselleştirilmiş bire bir danışmanın teknik kullanım satışları ve Dağıtım Hizmetleri 'ni (TPD) kullanın. [Daha fazla bilgi edinin](https://aka.ms/TPD).
+Satışları artırmak, daha etkili bir şekilde dağıtmak ve uygulama geliştirmeyi hızlandırmak için teknik özelliklerinizi daha hızlı oluşturmak üzere uzaktan kişiselleştirilmiş bire bir danışmanlıklar için Teknik Satış Öncesi ve Dağıtım Hizmetleri'nin (TPD) kullanın. [Daha fazla bilgi edinin](https://aka.ms/TPD).
 
-Tüm bulut veya karma çözümler, şirket içi Windows 10, Windows Server ve Microsoft SQL Server ek olarak desteklenir. 
+Şirket içi depolama, Windows Server ve Windows 10'ye ek olarak tüm Bulut veya Karma Microsoft SQL Server. 
 
-- Gold, gümüş ve Işlem paketi teklifleri olan iş ortakları, danışmanları için Iş ortağı danışmanlık saatlerini kullanabilir. 
+- Gold, Silver ve Eylem paketi tekliflerine sahip iş ortakları, danışmanlık için İş Ortağı Danışmanlık Saatlerini kullanabilir. 
 
-- Altın ve gümüş iş ortakları sınırsız satış yardımı alır. 
+- Gold ve Silver iş ortakları sınırsız satış öncesi yardım alır. 
 
-- Ağ üyeleri beş danışmanlık saati almak için [eylem paketi](https://partner.microsoft.com/membership/action-pack) satın alabilir.  
+- Ağ üyeleri, beş [Eylem Paketi](https://partner.microsoft.com/membership/action-pack) saat almak için satın alma siparişi satın alınabilir.  
 
-|     Teklif türü    | Danışmanlık saati sayısı |   Teknik satış öncesi   |
+|     Teklif türü    | Danışmanlık saat sayısı |   Teknik ön satışlar   |
 |:-----------------:|:------------------------:|:----------------------:|
 |        Gold       |            50            |        Sınırsız       |
 |       Silver      |            20            |        Sınırsız       |
-| Eylem Paketi (HARITALAR) |             5            | Kesintiler öneri saatleri |
+| Eylem Paketi(MAPS) |             5            | Danışmanlık Saatlerini Kesintiye Neden Olur |
 
-**[Teknik bir satış ve Dağıtım Hizmetleri (TPD) Isteği oluşturmak](https://partner.microsoft.com/dashboard/mpn/membership/benefits/technical/createadvisoryhours-servicerequest)** için herhangi bir MPN ilişkili kullanıcı hesabıyla oturum açın (Teknik avantaj etkinleştirmesi gerekmez).
+Teknik Ön Satış ve Dağıtım Hizmetleri **[(TPD)](https://partner.microsoft.com/dashboard/mpn/membership/benefits/technical/createadvisoryhours-servicerequest)** isteği oluşturmak için MPN ile ilişkili herhangi bir kullanıcı hesabıyla oturum açın (teknik avantajı etkinleştirme gerekli değildir).
 
-## <a name="delivery-scenarios"></a>Teslim senaryoları
+## <a name="delivery-scenarios"></a>Teslim Senaryoları
 
-- **Teknik ön satış danışmanları** , değer teklifini tanımlamak, maliyet tahminleri sağlamak, müşteri nesnelerinizi yönetmek, rakip mesajlaşmaya yanıt vermek, teknik çözümler, kavram kanıtı veya mimari planlama ve tasarım lideri bir iş bildirimine eklemek için kullanılır.
+- **Teknik Satış** Öncesi Danışmanlıklar değer önermeyi tanımlamak, maliyet tahminleri sağlamak, teknik lisanslama, müşteri itirazlarını yönetmek, rakip mesajlaşmaya yanıt verme, teknik çözümler, kavram kanıtı veya bir Çalışma Bildirimine yol gösteren mimari planlama ve tasarım sağlamak için kullanılır.
 
-  - *Desteklenmez:* Satış işlem hattı planlama, fiyatlandırma ve fiyat listeleri.
-
-
-- **Dağıtım danışmanları** , mimari planlama ve tasarım kılavuzu, en iyi uygulamalar, dağıtım kılavuzu, ürün başvuruları ve belgeler için kullanılır.
-
-  - *Desteklenmez:* Onarım desteği/sorunlarını giderme, site içi hizmetler, uzun süreli danışmanlık, doğrudan bir üretim ortamında müşteri desteği veya uygulamalı destek. 
+  - *Desteklenmiyor:* Satış işlem hattı planlaması, son müşteri tartışmaları, lisanslama fiyatlandırması ve fiyat listeleri.
 
 
-- **Market danışmanları** , Microsoft Commercial Market 'te devam eden lider oluşturma için çözümünüzü yayımlama amacıyla kullanılır. Geliştiriciler, hizmet yapılandırması, mimari veya tasarım danışmanları, şirket içi çözümlerden geçiş, kod incelemesi ve uygulama yayımlama yardımı.
+- **Dağıtım Danışmaları** mimari planlama ve tasarım kılavuzu, en iyi yöntemler, dağıtım kılavuzu, ürün başvuruları ve belgeler için kullanılır.
 
-  - *Desteklenmez:* Kod hata ayıklaması, uygulama geliştirme, kavram kanıtı kavramı ötesinde.
+  - *Desteklenmiyor:* Düzeltme desteği/sorun giderme, düzeltmeler, yerinde hizmetler, uzun vadeli danışmanlık (etkileşim başına 25 saatten az), doğrudan müşteri desteğine veya üretim ortamında uygulamalı destana. 
 
-## <a name="in-scope-products-and-services"></a>In-Scope ürünleri ve Hizmetleri
 
-Aşağıdaki ürünler ve hizmetler, teknik satış ve Dağıtım Hizmetleri için kapsamdadır:
-- **Microsoft 365**: Microsoft ekipleri, Exchange Online, SharePoint Online, OneDrive, Yammer, Project Online, Skype kurumsal sunucu 2019, Enterprise Mobility + Security, Microsoft Intune, Azure Active Directory, Azure Information Protection gibi tüm Microsoft Office 365 bileşenleri
-  - *Kapsam dışı: yalnızca şirket içi Office sunucuları – Exchange ve SharePoint*
-- **Business Applications**: microsoft Dynamics 365 (çevrimiçi), Microsoft Power platform (Power Apps, Power otomatikleştir, Power BI)
-  - *Kapsam dışı: Dynamics 365, GP, SL, AX, NAV 'un yalnızca şirket içi sürümleri*
-- **Microsoft Azure**: hizmet olarak altyapı ve hizmet olarak platform, veri platformu, bı analizi, bilişsel hizmetler, Azure Machine Learning Azure Stack gibi tüm Microsoft Azure çözümler ve ilgili hizmetler
-- **Windows Server**: temel desteklenen Windows Server ( **[ürün yaşam döngüsü](/lifecycle/policies/fixed)** kapsamında yönetilir)
-  - System Center, bulut veya hibrit senaryolarıyla ilişkiliyse, SCCM gibi ilgili ürünleri içerir
-- **Windows 10**: Windows 10 işletim sistemi, cihazlar, evrensel uygulamalar
-- **Özel veya genel önizlemede bulunan ürünler**: üretim dışı ortamlar ve bilgi kullanılabilirliği veya yanıt süresi garantisi olmadan, yardım en iyi çabalara göre sunulmaktadır.
+- **Market Danışmanlıkları,** microsoft ticari markette devam eden müşteri adayı oluşturma çözümlerinizi yayımlamak için kullanılır. Geliştiriciler için, hizmet yapılandırması, mimari veya tasarım danışmanlıkları, şirket içi çözümlerden geçiş, kod inceleme ve uygulama yayımlama yardımı.
 
-## <a name="submit-a-technical-presales-and-deployment-services-request"></a>Teknik satış öncesi ve dağıtım hizmetleri isteği gönderme 
+  - *Desteklenmiyor:* Kodda hata ayıklama, kavram kanıtının ötesinde uygulama geliştirme.
 
-Teknik satış ve Dağıtım Hizmetleri (TPD) avantajlarınız otomatik olarak etkinleştirilir ve tüm MPN ilişkili kullanıcılar tarafından kullanılabilir. 
+## <a name="in-scope-products-and-services"></a>In-Scope hizmetleri ve hizmetleri
 
-Iş Ortağı Merkezi 'nde teknik avantajlarınızı görüntülemek için:
+Aşağıdaki ürün ve hizmetler Teknik Ön Satışlar ve Dağıtım Hizmetleri kapsamındadır:
+- **Microsoft 365:** Microsoft Teams, Exchange Online, SharePoint Online, OneDrive, Yammer, Project Online, Skype Kurumsal Sunucu 2019, Enterprise Mobility + Security, Microsoft Intune, Azure Active Directory, Azure Information Protection gibi tüm Microsoft Office 365 bileşenleri
+  - *Kapsam Dışında: Özel olarak şirket içi Office Sunucuları – Exchange ve SharePoint*
+- **Business Applications:** Microsoft Dynamics 365 (çevrimiçi), Microsoft Power Platform (Power Apps, Power Automate, Power BI)
+  - *Kapsam Dışında: Yalnızca şirket içi Dynamics 365, GP, SL, AX, NAV sürümleri*
+- **Microsoft Azure:** Microsoft Azure altyapı, hizmet olarak platform, Veri Platformu, BI Analizi, Bilişsel Hizmetler, Azure Machine Learning, Azure Stack
+- **Windows Server ve SQL Server:** Ürün yaşam döngüsü tarafından yönetilen Temel **[destek içinde](/lifecycle/policies/fixed)**)
+  - System Center, bulut veya karma senaryolarla ilgili ise SCCM gibi ilgili ürünleri içerir
+- **Windows 10:** Windows 10 sistemi, cihazları, evrensel uygulamaları kullanma
+- **Özel veya Genel Önizleme'de Ürünler:** Yardım, üretim dışı ortamlar için en iyi çaba temelinde ve bilgi kullanılabilirliği veya yanıt süresi garantisine sahip olmayan bir şekilde sağlanır
 
-1. MPN ilişkili hesabınızla Iş Ortağı Merkezi [panosu](https://partner.microsoft.com/dashboard)' nda oturum açın. 
+## <a name="submit-a-technical-presales-and-deployment-services-request"></a>Teknik ön satışlar ve dağıtım hizmetleri isteği gönderme 
 
-   > [!NOTE]
-   > Hesabınız yalnızca CSP ile ilişkiliyse ve MPN ile ilişkili değilse, "Bu eylem için yetkiniz yok" hata iletisini görürsünüz. Bir MPN ilişkili hesabınız olmalıdır.
+Teknik Satış Öncesi ve Dağıtım Hizmetleri (TPD) avantajlarınız otomatik olarak etkinleştirilir ve MPN ile ilişkili tüm kullanıcılar tarafından kullanılabilir. 
 
-2. , Sol gezinti menüsünde **avantajlar** ' ı genişletin, **Teknik avantajlar**' ı seçin. Teknik avantajlar sayfası, altın, gümüş veya Microsoft Eylem Paketi üyelik tekliflerinizin sunduğu teknik destek avantajlarının bir listesi ile birlikte görüntülenir. 
+Teknik avantajlarınızı İş Ortağı Merkezi:
+
+1. MPN ilişkili hesabınızla oturum açın ve İş Ortağı Merkezi [açın.](https://partner.microsoft.com/dashboard) 
 
    > [!NOTE]
-   > Etkin üyelik yoksa, "henüz avantajınız yok" iletisini görürsünüz. Şirketinizde etkin üyelik teklifleri varsa ancak bunları göremiyorsanız yanlış hesabı kullanarak oturum açmış olabilirsiniz. Hesabınızı denetlemek için sayfanın sağ üst kısmındaki **Hesap** simgesine tıklayın ve **başka bir hesapla oturum aç** (gerekliyse) seçeneğine tıklayın.
+   > Hesabınız yalnızca CSP ile ilişkili ve MPN ile ilişkili değil, "Bu eylem için yetkiniz yok" hata iletisini alırsınız. MPN ile ilişkili bir hesabınız olması gerekir.
 
-3. **[Teknik satış öncesi ve dağıtım Isteği Gönder '](https://partner.microsoft.com/dashboard/mpn/membership/benefits/technical/createadvisoryhours-servicerequest)** i seçin.
+2. Sol **gezinti menüsünde** Avantajlar'ı genişletin ve Teknik **avantajlar'ı seçin.** Altın, Silver veya Microsoft üyelik teklifleriyle ilgili teknik destek avantajlarının bir listesinin yer Eylem Paketi görüntülenir. 
+
+   > [!NOTE]
+   > Etkin Üyelik teklifiniz yoksa "Henüz herhangi bir avantaja sahip değil gibi görünüyor" iletisiyle karşınız. Şirketinizin etkin üyelik teklifleri varsa ama bunları görmüyorsanız, yanlış hesabı kullanarak oturummış olabilirsiniz. Hesabı kontrol etmek için sayfanın sağ **üst** köşesindeki Hesap simgesine tıklayın ve başka bir hesapla oturum **açın** (gerekirse) tıklayın.
+
+3. Teknik **[ön satışları ve dağıtım isteğini gönder'i seçin.](https://partner.microsoft.com/dashboard/mpn/membership/benefits/technical/createadvisoryhours-servicerequest)**
 
 :::image type="content" source="images/benefits/mpn-tpd-5.png" lightbox="images/benefits/mpn-tpd-3.png" alt-text="Teknik satış öncesi ve dağıtım avantajları." :::
 
-4. **Arama ürünlerini** kullanın ve ilgili ürünü girin. Çok fazla sonuç alırsanız çözüm alanına göre filtre uygulayabilir veya her bir taksonomi düzeyini filtrelemek için konulara gidebilirsiniz.
+4. Ürünleri **Ara'ya** basın ve ilgili ürünü girin. Çok fazla sonuç elde ediyorsanız, her sınıflandırma düzeyini filtrelemek için Çözüm alanına veya Konulara göz at'a göre filtre atabilirsiniz.
 
-:::image type="content" source="images/benefits/mpn-tpd-2.png" lightbox="images/benefits/mpn-tpd-2.png" alt-text="Teknik satış ve dağıtım avantajları-ürünleri arayın.":::
+:::image type="content" source="images/benefits/mpn-tpd-2.png" lightbox="images/benefits/mpn-tpd-2.png" alt-text="Teknik satış öncesi ve dağıtım avantajları - Ürünleri Ara.":::
 
    > [!NOTE]
-   > ASfP veya PSfP destek planınızın bir parçası olarak bir bulut uygulamasına danışmanız gerekiyorsa lütfen destek hesabı yöneticinize (SAM) başvurun.
+   > ASfP veya PSfP destek planınız kapsamında bir Bulut Danışmanına ihtiyaç ediyorsanız lütfen destek hesabı yöneticinize (SAM) başvurun.
 
-5. **Formu doldurun ve gönder.** Telefon numaranızı tam uluslararası arama kodunu eklediğinizden emin olun. Birden çok Timezones kapsayan ülkeler için örneğin, ABD, Rusya, saat diliminizi ve tercih edilen çalışma saatlerinizi gösterir.
+5. **Formu doldurun ve gönderin.** Telefon numaranıza tam uluslararası arama kodunu dahil etmek için emin olun. Birden çok saat dilimini (örneğin ABD, Rusya) içeren ülkeler için saat diliminizi ve tercih edilen çalışma saatlerinizi belirtin.
 
    > [!IMPORTANT]
-   > İsteğiniz nerede yönlendirildiğini belirlerken ilgili ülkeyi (veya bölgeyi) ve dili seçtiğinizden emin olun.
+   > İsteğinizin yönlendirilen yeri belirleyecekleri için ilgili ülkeyi (veya bölgeyi) ve dili seçin.
 
-6. Onay sayfasında, destek isteği numarası ve açıklaması gösterilir. Ayrıca, Iş Ortağı Merkezi 'nden servis talebi numarasıyla bir onay e-postası alacaksınız.
+6. Onay sayfasında destek isteği numarası ve açıklaması görüntülenir. Ayrıca, olay numarasını içeren bir İş Ortağı Merkezi e-postası alırsınız.
 
 ## <a name="next-steps"></a>Sonraki adımlar
+[Şirket içi veya Bulut ürünleri için Teknik Destek](/mpn-benefits-technical-support.md)
 
-[Microsoft İş Ortağı Ağı avantajlarınızı ve tekliflerinizi yönetin](manage-your-partner-network-benefits.md)
+[Avantajlarınızı Microsoft İş Ortağı Ağı tekliflerinizi yönetme](manage-your-partner-network-benefits.md)
