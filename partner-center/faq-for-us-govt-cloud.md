@@ -1,67 +1,67 @@
 ---
-title: SSS - İş Ortağı Merkezi - Microsoft Cloud for US Government
-description: Daha fazla bilgi için Bulut Çözümü Sağlayıcısı (CSP) programı hakkında sık sorulan soruların (SSS) Microsoft Cloud for US Government.
+title: SSS-Iş Ortağı Merkezi-ABD Kamu kamu Microsoft Bulut
+description: ABD kamu sektörü için Microsoft Bulut Bulut çözümü sağlayıcısı (CSP) programı hakkında sık sorulan sorulara yanıtlar (SSS) konusuna bakın.
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 author: mowree
 ms.author: mowrim
 ms.localizationpriority: medium
-ms.date: 11/20/2019
-ms.openlocfilehash: e2bff940dc2d145a783dddad3a71aba14e1ba25a
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.date: 6/17/2021
+ms.openlocfilehash: a10235d002007c8b2dfd3ab460ccb67fd5384cc3
+ms.sourcegitcommit: 8511fec63961d8c77a4d1eea3e3f1d37cdea46c6
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110150973"
+ms.lasthandoff: 06/19/2021
+ms.locfileid: "112373384"
 ---
-# <a name="frequently-asked-questions-for-partner-center-for-microsoft-cloud-for-us-government"></a>Bu sorun için sık İş Ortağı Merkezi sorular Microsoft Cloud for US Government
+# <a name="frequently-asked-questions-for-partner-center-for-microsoft-cloud-for-us-government"></a>ABD kamu için Microsoft Bulut Iş Ortağı Merkezi hakkında sık sorulan sorular
 
-**Uygulama için** geçerlidir: İş Ortağı Merkezi için Microsoft Cloud for US Government
+**Uygulama hedefi**: ABD kamu için Microsoft bulut Iş Ortağı Merkezi
 
-**Uygun roller:** Genel yönetici
+**Uygun roller**: genel yönetici
 
 ## <a name="general-questions"></a>Genel sorular
 
-Bulut Çözümü Sağlayıcısı (CSP) programı hakkında daha fazla bilgi edinmek için bu sık sorulan Microsoft Cloud for US Government. Daha fazla bilgi için hesap yöneticinize de başvurabilirsiniz.
+ABD kamu sektörü için Microsoft Bulut Bulut çözümü sağlayıcısı (CSP) programı hakkında daha fazla bilgi edinmek için bu sık sorulan soruları kullanın. Daha fazla bilgi için hesap yöneticinize da başvurabilirsiniz.
 
-### <a name="what-is-microsoft-cloud-for-us-government"></a>Hangi Microsoft Cloud for US Government?
+### <a name="what-is-microsoft-cloud-for-us-government"></a>ABD hükümeti için Microsoft Bulut nedir?
 
-Abd hükümeti için en iyi şekilde tasarlanmış olan Microsoft Cloud for US Government, Birleşik Devletler federal kurumlardan küçük şehir kamu kuruluşlarına kadar hizmet sektöründeki kamu sektörü müşterilerinin bir dizi bulut bilişim hizmeti seçmesine olanak sağlar. Microsoft, müşterilerin özel ihtiyaçlarını karşılamak için veri merkezlerine önemli yatırımlar yapmış ve ABD federal ve eyalet ilkeleri, zorunluları ve gereksinimleriyle uyumluluğu karşılamaya ayrılmıştır.
+ABD kamu sektörü için tasarlanan ABD hükümeti için Microsoft Bulut, büyük federal kurumlardan küçük kasalara kadar, bulut bilgi işlem hizmetlerinden birini seçmek için Birleşik Devletler kamu sektörü müşterilerini sağlar. Microsoft, müşterilerin belirli ihtiyaçlarını karşılamak için veri merkezlerinde önemli bir yatırım yaptı ve ABD federal ve eyalet ilkeleriyle, mantarihlere ve gereksinimlerle uyumluluğu karşılayacak şekilde ayrılmıştır.
 
-### <a name="who-is-eligible-for-the-csp-program-for-microsoft-cloud-for-us-government"></a>CsP programı için kimler Microsoft Cloud for US Government?
+### <a name="who-is-eligible-for-the-csp-program-for-microsoft-cloud-for-us-government"></a>ABD hükümeti için Microsoft Bulut CSP programına kimler uygun?
 
-Abd Federal Birleşik Devletler ve yerel kamu varlıklarına kamu kapasitelerinde hizmet veren Birleşik Devletler iş ortakları, hizmet vermek için CSP programı Microsoft Cloud for US Government. Microsoft, iş ortaklarının erişim iznine erişmeden önce uygunluğu belirlemek için katı bir doğrulama Microsoft Cloud for US Government. Bu haklara sahip olmak için kamu müşterileriyle birlikte çalışmakta olduğunu kanıtlamamız gerekir. Microsoft Could for US Government'ta CSP programına kaydolma işlemi, doğrulamayı gerçekleştirmek için daha fazla veri yakalamak üzere genişletilmiştir. Kanıt türleri, kamu müşterinizin resmi sözleşme numaralarını ve sponsorluk mektubunu içerebilir ancak bunlarla sınırlı değildir.
+ABD kamu kapasitelerine ABD Federal, eyalet ve yerel kamu varlıkları sağlayan Birleşik Devletler iş ortakları, ABD devlet için Microsoft Bulut CSP programına uygundur. Microsoft, iş ortaklarının ABD kamu sektörü için Microsoft Bulut erişmeden önce uygunluğu belirlemede katı bir doğrulama programına sahiptir. Uygun olması için, kamu müşterileri ile çalışmanız gerektiğini kanıtlamanız gerekir. Microsoft 'taki CSP programına yönelik kaydolma işlemi, bızı devlet için daha fazla veri yakalamaya yönelik olarak geliştirilmiştir. Kanıtlama türleri, kamu müşterinizden kamu sözleşmesi numaralarını ve sponsorluk harfini içerebilir, ancak bunlarla sınırlı değildir.
 
-### <a name="is-customer-pricing-the-same-as-for-csp-commercial"></a>Müşterinin fiyatlandırması CSP Ticari ile aynı mı?
+### <a name="is-customer-pricing-the-same-as-for-csp-commercial"></a>Müşteri fiyatlandırması CSP Commercial ile aynı mı?
 
-Hayır. Fiyatlandırma, uygulamanın benzersiz değerini sağlamak için ek maliyetleri Microsoft Cloud for US Government.
+Hayır. Fiyatlandırma, ABD kamu için Microsoft Bulut benzersiz değerini sağlamak üzere ek maliyetleri yansıtır.
 
-### <a name="is-the-partner-discounting-model-the-same"></a>İş ortağı indirim modeli aynı mı?
+### <a name="is-the-partner-discounting-model-the-same"></a>İş ortağı modeli aynı şekilde ayırsın mı?
 
-Evet. CsP Programı için iş ortağı Microsoft Cloud for US Government modeli, CSP Commercial için iş ortağı indirim modeliyle aynıdır.
+Evet. ABD hükümeti için Microsoft Bulut CSP programının iş ortağı için modeli, iş ortağı tarafından CSP Commercial için bir model kasaymaya dahil değildir.
 
-### <a name="csp-commercial-is-an-existing-partner-program-how-is-the-csp-program-for-microsoft-government-cloud-different"></a>CSP Commercial, mevcut bir iş ortağı programıdır. Microsoft Kamu bulutu için CSP programı nasıl farklıdır?
+### <a name="csp-commercial-is-an-existing-partner-program-how-is-the-csp-program-for-microsoft-government-cloud-different"></a>CSP Commercial, mevcut bir iş ortağı programıdır. Microsoft kamu bulutu için CSP programı nasıl farklıdır?
 
-Aşağıdaki alanlarda Microsoft Cloud for US Government CSP Commercial'dan farklıdır:
+ABD kamu sektörü için Microsoft Bulut CSP programı aşağıdaki alanlarda CSP Commercial 'dan farklıdır:
 
-- Uygunluk: Microsoft Cloud for US Government CSP programı yalnızca ABD Federal, eyalet Birleşik Devletler yerel kamu varlıklarına kamu kapasitelerinde hizmet eden Birleşik Devletler iş ortakları tarafından kullanılabilir. Microsoft, iş ortaklarının ABD Kamu bulutuna erişmeden önce uygun olup olmadığını belirlemek için bir doğrulama programına sahip.
+- Uygunluk: ABD kamu için Microsoft Bulut CSP programı, kamu kapasitelerine yalnızca ABD Federal, eyalet ve yerel kamu varlıklarını sunan Birleşik Devletler iş ortakları tarafından kullanılabilir. Microsoft 'un iş ortaklarının ABD kamu bulutuna erişebilmesi için uygunluğu belirlemesi için bir doğrulama programı vardır.
 
-- Ekleme: İş ortaklarının CSP Ticari'den ayrı olarak Microsoft Cloud for US Government CSP programına eklemesi gerekir.
+- Ekleme: Iş ortaklarının, CSP Commercial 'den ayrı olarak ABD kamu için Microsoft Bulut CSP programına eklenmesi gerekir.
 
-- Ürün kullanılabilirliği: Office 365, Enterprise Mobility + Security ve Dynamics 365 gibi hem Azure Kamu hem de lisans tabanlı hizmetler, Microsoft Cloud for US Government için CSP programında kullanılabilir.
+- Ürün kullanılabilirliği: Office 365, Enterprise Mobility + Security ve Dynamics 365 gibi Azure Kamu ve lisans tabanlı hizmetler, ABD hükümeti için Microsoft Bulut CSP programında bulunabilir.
 
-- Sözleşme: Microsoft Bulut Kurumsal Bayi Sözleşmesi (MCRA), benzersiz kamu koşullarını yansıtacak şekilde güncelleştirildi.
+- Karşıtlık: Microsoft Bulut satıcı Sözleşmesi (MCRA), benzersiz kamu şartlarını yansıtacak şekilde güncelleştirilmiştir.
 
-- İş Ortağı Merkezi işlevselliği: İş Ortağı Merkezi ve uyumluluk gereksinimlerini karşılamak için CSP programı için Microsoft Cloud for US Government özellikleri etkinleştirilmez. İş ortakları, Azure Active Directory ve grup [yönetimiyle Graph API](/partner-center/develop/developing-for-partner-center-for-microsoft-national-cloud#partner_center_msftcloudUS) görevleri gerçekleştirmek için Graph API (Azure AD) veya Azure AD'leri kullanabilir. Çok kanallı ve çok iş ortağı senaryolarını desteklemeye ilişkin İlişki isteği özelliği, lisans tabanlı hizmetler csP'de kullanılabilir olduğunda başlatma sonrası Microsoft Cloud for US Government.
+- İş Ortağı Merkezi işlevi: Iş Ortağı Merkezi 'nin bazı özellikleri, ABD kamu sektörü için Microsoft Bulut CSP programı için, mevzuat ve uyumluluk gereksinimlerini karşılayacak şekilde etkinleştirilmeyecektir. İş ortakları bunun yerine, Kullanıcı ve grup yönetimiyle ilgili görevleri gerçekleştirmek için Azure Active Directory (Azure AD) veya [Graph API](/partner-center/develop/developing-for-partner-center-for-microsoft-national-cloud#partner_center_msftcloudUS) kullanabilir. Otomatik Ilişki isteği özelliği 2021 Ekim ayının kullanımına yöneliktir.
 
-### <a name="i-am-not-a-csp-partner-yet-where-can-i-find-more-information-on-how-to-become-a-csp-partner"></a>Henüz CSP iş ortağı değilim. CSP iş ortağı olma hakkında daha fazla bilgiyi nereden bulamıyorum?
+### <a name="i-am-not-a-csp-partner-yet-where-can-i-find-more-information-on-how-to-become-a-csp-partner"></a>Henüz bir CSP iş ortağı değilim. CSP iş ortağı olma hakkında daha fazla bilgiyi nereden bulabilirim?
 
-İş ortaklarının sahip olduğu kayıt modelleri hakkında daha fazla bilgi edinmek [için Bulut Çözümü Sağlayıcısı bilgi Microsoft İş Ortağı Ağı.](https://partner.microsoft.com/cloud-solution-provider)
+İş ortakları için kullanılabilen kayıt modelleri hakkında daha fazla bilgi edinmek için [Microsoft iş ortağı ağı bulut çözümü sağlayıcısı](https://partner.microsoft.com/cloud-solution-provider)' na bakın.
 
 ### <a name="how-does-licensing-work"></a>Lisans nasıl çalışır?
 
-*Microsoft Bulut Kurumsal Bayi Sözleşmesi (MCRA)*
+*Microsoft Bulut satıcı Sözleşmesi (MCRA)*
 
 MCRA, CSP kullanarak yeniden satmak için iş ortakları yetkilendirir. Bu sözleşmenin ABD kamu bulutu sürümü ABD kamu için Microsoft Bulut eklenirken kabul edilir. Bu sürüm, ABD kamu bulutu ekine sahiptir ve standart bulut satıcısı anlaşmasından sonra bir sergiler.
 
@@ -109,19 +109,19 @@ Hayır. ABD kamu sektörü için Microsoft Bulut CSP programı için faturaland�
 
 ### <a name="for-data-hosted-in-commercial-data-centers-is-it-possible-to-change-to-microsoft-cloud-for-us-government"></a>Ticari veri merkezlerinde barındırılan veriler için ABD hükümeti için Microsoft Bulut değiştirilebilir mi?
 
-Bir müşterinin yalıtımını kolaylaştırmak ve bütünlüğünü korumak Microsoft Cloud for US Government, müşterinin mevcut hizmetlerini Microsoft Cloud for US Government. Bir müşteri veya iş ortağının Azure'a sahip olması, verilerin azure'da yeni bir ortama Microsoft Cloud for US Government.
+ABD hükümeti için Microsoft Bulut yalıtımının bütünlüğünü kolaylaştırmak ve korumak için, müşterinin mevcut hizmetlerini ABD Kamu kamu Microsoft Bulut içine taşımanın bir mekanizması yoktur. Bir müşteri veya iş ortağının Azure 'a sahip olması durumunda, her türlü veri, ABD hükümeti için Microsoft Bulut dahilinde yeni bir ortama taşınacaktır.
 
-## <a name="questions-about-microsoft-cloud-for-us-government-for-azure"></a>Azure için Microsoft Cloud for US Government soruları
+## <a name="questions-about-microsoft-cloud-for-us-government-for-azure"></a>Azure için ABD Kamu kamu Microsoft Bulut hakkında sorular
 
-### <a name="what-is-microsoft-cloud-for-us-government-for-azure"></a>Azure Microsoft Cloud for US Government nedir?
+### <a name="what-is-microsoft-cloud-for-us-government-for-azure"></a>Azure için ABD hükümeti için Microsoft Bulut nedir?
 
-Azure Kamu, temel güvenlik, gizlilik ve denetim, uyumluluk ve saydamlık ilkeleri üzerine kurulu bir bulut platformu sunar. Kamu Sektörü varlıkları, mimarisi üzerinde Microsoft Azure tüm sistemler ve uygulamalar için ABD kamu için kritik öneme sahip birinci sınıf güvenlik ve uyumluluk hizmetlerini kullanarak fiziksel olarak yalıtılmış bir güvenlik örneği alır. Bu hizmetler FedRAMP ve DoD uyumluluk sertifikalarını, CJIS durum düzeyi sözleşmelerini, HIPAA İş Ortağı Sözleşmelerini yapma olanağını ve IRS 1075 desteğini içerir. Abd'de çalışan ve Azure Kamu, şirket içinde veya bulutta çözüm oluşturma ve dağıtmaya yönelik birden çok karma senaryoyu destekler. Genel Sektör varlıkları, hiper ölçekli bir bulut hizmetinin anlık ölçeklenebilirlik ve garantili çalışma süresi avantajını da kullanılabilir.
+Azure Kamu bulutu, güvenlik, gizlilik ve denetim, uyumluluk ve saydamlığın temel ilkelerini temel alan bir bulut platformu sunar. Genel sektör varlıkları, mimaride yerleşik olarak bulunan tüm sistemler ve uygulamalar için ABD hükümeti için önemli olan birinci sınıf güvenlik ve uyumluluk hizmetlerini kullanan Microsoft Azure fiziksel olarak yalıtılmış bir örneğini alır. Bu hizmetler, Fedrampa ve DoD uyumluluk sertifikaları, CJıS eyalet düzeyi sözleşmeleri, HIPAA Iş ilişkileri sözleşmeleri verme özelliği ve IRS 1075 için destek içerir. Azure Kamu, ekranda çalışan veya bulutta çözüm oluşturmaya ve dağıtmaya yönelik birden çok karma senaryoyu destekler. Ortak sektör varlıkları Ayrıca, bir hiper ölçekli bulut hizmetinin anlık ölçeklenebilirlik ve garantili çalışma süresinin avantajlarından yararlanabilir.
 
-### <a name="does-the-csp-program-for-microsoft-cloud-for-us-government-offer-all-azure-services"></a>Microsoft Cloud for US Government CSP programı tüm Azure hizmetlerini sunuyor mu?
+### <a name="does-the-csp-program-for-microsoft-cloud-for-us-government-offer-all-azure-services"></a>ABD hükümeti için Microsoft Bulut CSP programı tüm Azure hizmetlerini sunuyor mu?
 
-Hizmet olarak altyapı (IaaS) ile temel platform ve veri teklifleri artık kullanılabilir. Yol haritası sürekli olarak güncelleştirilir ve İş Ortağı Merkezi (kimlik doğrulaması gereklidir) içindeki CSP Commercial belgelerine benzer belgeler sağlarız. Şu anda Azure Kamu Hizmetler'i gözden geçirip klasik işlem, ağ, depolama ve bulut hizmetleri gibi bazı hizmetlerin CSP için tasarlanmamış ve csP için çalışmamış olduğunu unutmayın.
+Hizmet olarak altyapı (IaaS) ve temel platform ve veri teklifleri artık kullanılabilir. Yol haritası sürekli olarak güncelleştirilir ve Iş Ortağı Merkezi 'nde CSP Commercial for belgelerine benzer belgeler sağlıyoruz (kimlik doğrulaması gerekir). Şu anda kullanılabilir olan Azure kamu hizmetlerini inceleyebilirsiniz, ancak klasik işlem, ağ, depolama ve bulut hizmetleri gibi bazı hizmetlerin CSP için tasarlanmadığını ve bu hizmetler için çalışmadığına Not edebilirsiniz.
 
-### <a name="what-do-i-need-to-do-to-develop-with-the-csp-program-for-microsoft-cloud-for-us-government"></a>Microsoft Cloud for US Government için CSP programıyla geliştirmek için ne Microsoft Cloud for US Government?
+### <a name="what-do-i-need-to-do-to-develop-with-the-csp-program-for-microsoft-cloud-for-us-government"></a>ABD hükümeti için Microsoft Bulut CSP programıyla geliştirme için ne yapmam gerekir?
 
 ABD kamu için Microsoft Bulut Iş Ortağı Merkezi ile geliştirme hakkında daha fazla bilgi için bkz. [Microsoft kamu bulutu Için Iş Ortağı Merkezi Ile geliştirme](/partner-center/develop/developing-for-partner-center-for-microsoft-national-cloud#partner_center_msftcloudUS).
 
@@ -146,25 +146,25 @@ ABD kamu için Microsoft Bulut CSP programı için API 'Ler ve tümleştirme ger
 > **Lisans Yönetimi**
 >- Kullanılabilir lisansların bir listesini alma
 >- Bir kullanıcıya lisans atama
->-  Bir kullanıcıya hangi lisansların atandığını denetleme
+>-  Kullanıcıya hangi lisansların atandığı kontrol edin
 
-### <a name="is-there-a-workaround-for-apis-not-available-in-the-csp-program-for-microsoft-cloud-for-us-government"></a>ABD hükümeti için Microsoft Bulut CSP programında kullanılamayan API 'Ler için geçici bir çözüm var mı?
+### <a name="is-there-a-workaround-for-apis-not-available-in-the-csp-program-for-microsoft-cloud-for-us-government"></a>CsP programında api'ler için geçici bir çözüm mevcut Microsoft Cloud for US Government?
 
-İş ortakları Azure portal, Azure AD PowerShell veya iş ortağı Kullanıcı hesabı yönetimi Graph API kullanabilir. Daha fazla teknik bilgi için bkz. [kamu bulutu Için Iş Ortağı Merkezi Ile geliştirme](https://msdn.microsoft.com/partner-center/partner-center-for-microsoft-us-govt-cloud).
+İş ortakları, Azure portal kullanıcı hesabı yönetimi için Graph API Azure AD PowerShell'i veya hesabı kullanabilir. Daha fazla teknik bilgi için [bkz. Kamu Bulutu İş Ortağı Merkezi ile geliştirme.](https://msdn.microsoft.com/partner-center/partner-center-for-microsoft-us-govt-cloud)
 
-## <a name="questions-about-other-resources"></a>Diğer kaynaklarla ilgili sorular
+## <a name="questions-about-other-resources"></a>Diğer kaynaklar hakkında sorular
 
 ### <a name="where-can-i-learn-more"></a>Nereden daha fazla bilgi edinebilirim?
 
-CSP programını tanımak ve ABD kamu için Microsoft Bulut Iş Ortağı Merkezi ile geliştirme hakkında bilgi edinmek için aşağıdaki bağlantıları kullanın.
+CSP programı hakkında bilgi edinmek ve bu programla geliştirme hakkında bilgi edinmek için aşağıdaki bağlantıları İş Ortağı Merkezi Microsoft Cloud for US Government.
 
-- [Azure Kamu hakkında bilgi edinmek için](https://azure.microsoft.com/overview/clouds/government/)
+- [Daha fazla bilgi Azure Kamu](https://azure.microsoft.com/overview/clouds/government/)
 
 - [CSP hakkında bilgi edinmek için](https://partner.microsoft.com/cloud-solution-provider)
 
-- [ABD kamu için Microsoft Bulut Iş Ortağı Merkezi ile geliştirme hakkında bilgi edinmek için](/partner-center/develop/developing-for-partner-center-for-microsoft-national-cloud#partner_center_msftcloudUS)
+- [Microsoft Cloud for US Government için İş Ortağı Merkezi geliştirme hakkında bilgi Microsoft Cloud for US Government](/partner-center/develop/developing-for-partner-center-for-microsoft-national-cloud#partner_center_msftcloudUS)
 
-### <a name="where-should-i-go-if-i-still-have-questions"></a>Hala sorularım varsa nereye gitmem gerekir?
+### <a name="where-should-i-go-if-i-still-have-questions"></a>Sorularım devam ediyorsa nereye gidebilirim?
 
 Daha fazla bilgi için hesap yöneticinize ulaşın. Ayrıca, Azure Kamu için [CSP'ye özgü Yammer grubumuza katılın.](https://www.yammer.com/cloudpartnercommunity/#/threads/inGroup?type=in_group&feedId=11509777)
 
