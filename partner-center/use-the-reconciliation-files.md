@@ -9,20 +9,20 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 755881d0bd96b9d601346ebb6271bd524c31d0a3
-ms.sourcegitcommit: 837d3c5b52ab056b2b761cd85eb2426f56b62614
+ms.openlocfilehash: 1a7d5f3169c4b338a07475a7e246e87841b8dcfb
+ms.sourcegitcommit: bce54ddb9fff7332a03d6aa228ba9414a87d76b7
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/12/2021
-ms.locfileid: "109794964"
+ms.lasthandoff: 06/22/2021
+ms.locfileid: "112431565"
 ---
-# <a name="learn-how-to-read-the-line-items-in-your-partner-center-reconciliation-files"></a>Mutabakat dosyalarında satır öğelerini okumayı İş Ortağı Merkezi öğrenin
+# <a name="learn-how-to-read-the-line-items-in-your-partner-center-reconciliation-files"></a>Veri mutabakat dosyalarında satır öğelerini İş Ortağı Merkezi öğrenin
 
 **Uygun roller:** Faturalama yöneticisi | Genel yönetici
 
 Bir faturalama döngüsünde her bir İş Ortağı Merkezi ayrıntılı ve satır öğesi görünümü için mutabakat dosyalarınızı bir hesaptan indirebilirsiniz. Satır öğesi ayrıntıları, her müşterinin aboneliklerinin ücretlerini ve ayrıntılı olayları (bir aboneliğe lisansların orta dönem eklemesi gibi) içerir.
 
-Faturanızı okuma hakkında bilgi **için bkz.** [Faturanızı okuma.](read-your-bill.md)
+Faturanızı okuma hakkında bilgi için **bkz.** [Faturanızı okuma.](read-your-bill.md)
 
 ## <a name="understand-reconciliation-file-fields"></a>Mutabakat dosyası alanlarını anlama
 
@@ -44,34 +44,34 @@ Mutabakat dosyalarınıza ilişkin biçimlendirme sorunlarını düzeltmek için
 1. Mutabakat dosyasını (.csv biçiminde) Microsoft Excel'de açın.
 2. Dosyadaki ilk sütunu seçin.
 3. Metni **Sütunlara Dönüştürme Sihirbazı'nı açın.** Şeritte Veri'yi **ve ardından** Metinden **Sütunlar'a'ı seçin.**
-4. Sihirbazda Sınırlandırılmış **dosya türü'ne tıklayın.** Ardından **İleri**' yi seçin.
-5. **Sınırlayıcılar** alanında **virgül**' yi seçin. ( **Sekmesi** zaten seçildiyse, bu seçeneği seçili bırakabilirsiniz.) Ardından **İleri**' yi seçin.
-6. **Sütun veri biçimi** alanında **Tarih: mdy**' yi seçin. Ardından **İleri**' yi seçin.
-7. **Sütun veri biçimi** alanında, tüm miktar sütunları için **metin** ' i seçin. Ardından **Son**'u seçin.
+4. Sihirbazda Sınırlandırılmış **dosya türü'ne tıklayın.** Ardından, **Sonraki'yi seçin.**
+5. **Sınırlayıcılar alanında Virgül'i** **seçin.** (Sekme **zaten** seçiliyse, bu seçeneği seçili bırakın.) Ardından, **Sonraki'yi seçin.**
+6. Sütun veri biçimi alanında **Tarih:MDY'yi seçin.**  Ardından, **Sonraki'yi seçin.**
+7. Sütun veri **biçimi alanında tüm** tutar sütunları için **Metin'i** seçin. Ardından **Son**'u seçin.
 
-## <a name="download-reconciliation-files-programmatically"></a>Karşılaştırma dosyalarını programlı olarak indir
+## <a name="download-reconciliation-files-programmatically"></a>Mutabakat dosyalarını program aracılığıyla indirme
 
-Mutabakat dosyaları çok büyük olabilir ve bazen indirmek zordur. Karşılaştırma dosyalarını program aracılığıyla indirmek için bkz. [fatura satırı öğelerini Al](/partner-center/develop/get-invoiceline-items).
+Mutabakat dosyaları çok büyük olabilir ve bazen indirmek zordur. Mutabakat dosyalarını program aracılığıyla indirmek için bkz. [Fatura satırı öğelerini al.](/partner-center/develop/get-invoiceline-items)
 
-## <a name="if-your-file-exceeds-the-row-limit-in-excel"></a>Dosyanız Excel 'deki satır sınırını aşarsa
+## <a name="if-your-file-exceeds-the-row-limit-in-excel"></a>Dosyanız Excel'de satır sınırını aşarsa
 
-Bir mutabakat dosyasını indirebiliyor ancak Microsoft Excel 'de açmadıysanız, dosyada Excel 'In izin vermeyeceği daha fazla satır bulunduğu anlamına gelir. Bu durumda, dosyayı açmak için aşağıdaki yordamlardan birini kullanabilirsiniz.
+Mutabakat dosyasını indire ancak Microsoft Excel'de açamıyorsanız, dosya büyük olasılıkla Excel'in izin ver alanından daha fazla satır içerdiği anlamına gelir. Bu durumda, dosyayı açmak için aşağıdaki yordamlardan birini kullanabilirsiniz.
 
-### <a name="open-a-recon-file-in-power-bi"></a>Power BI bir keşfi dosyası açın
+### <a name="open-a-recon-file-in-power-bi"></a>Bir mutabakat dosyasını Power BI
 
-1. Mutabakat dosyasını normalde yaptığınız gibi indirin.
-2. Power BI örneğini indirin, yükleyin ve açın.
-3. Power BI **giriş** sekmesinde **veri al**' ı seçin.
-4. **Ortak veri kaynakları** listesinde **metin/CSV**' yi seçin.
-5. İstendiğinde, keşfi dosyanızı açın.
+1. Mutabakat dosyasını normalde olduğu gibi indirin.
+2. Microsoft Power BI'nin bir örneğini indirin, yükleyin ve açın.
+3. Giriş Power BI **Veri** al'ı **seçin.**
+4. Ortak veri kaynakları listesinde **Metin/CSV'yi seçin.** 
+5. İstendiğinde, mutabakat dosyanızı açın.
 
-### <a name="open-a-recon-file-in-an-excel-pivot-table"></a>Excel Pivot tablosunda bir keşfi dosyası açma
+### <a name="open-a-recon-file-in-an-excel-pivot-table"></a>Excel özet tablosunda mutabakat dosyası açma
 
-1. Mutabakat dosyasını normalde yaptığınız gibi indirin.
+1. Mutabakat dosyasını normalde olduğu gibi indirin.
 2. Microsoft Excel'de yeni bir dosya açın.
 3. Veri sekmesinde **Veri al'ı** seçin, **Dosyadan'ı ve ardından** **Metin/CSV'yi seçin.** 
 4. İstendiğinde, mutabakat dosyanızı açın. Verileriniz görüntülenir.
-5. Yükle **açılan menüsünde,** Üzerine **yükle'yi ve ardından** Tamam'ı **seçin.**
+5. Yükle açılan **menüsünde,** Üzerine **yükle'yi ve ardından** Tamam'ı **seçin.**
 6. Verilerinizi İçeri **Aktar iletişim** kutusunda **PivotTable Raporu'nı seçerek** dosyanızı açın.
 
 ## <a name="negative-amount-displayed"></a>Negatif tutar görüntülenir
@@ -94,28 +94,28 @@ Vergileri veya katma değerli vergileri (KDV) faturanıza eşlemek için:
 
 Dolaylı modelde **iş ortakları,** bu ek alanları hem lisans tabanlı hem de kullanım tabanlı mutabakat dosyalarında kullanarak dosyaları kurumsal bayiye göre öğe hale kullanabilir.
 
-| MPN Kimliği | Description |
+| MPN Kimliği | Açıklama |
 | ------ | ----------- |
 | MPN Kimliği | Microsoft İş Ortağı Ağı (CSP) iş ortağının Bulut Çözümü Sağlayıcısı (MPN) tanımlayıcısını (doğrudan veya dolaylı). |
-| [Kurumsal Bayi MPN Kimliği](#reseller-mpn-id) | Aboneliğin [kaydının kurumsal bayisinde MPN tanımlayıcısı.](#reseller-mpn-id) Bu alan, belirli bir abonelik için listelenen kurumsal bayi kimliğine karşılık İş Ortağı Merkezi. Yalnızca dolaylı modeldeki iş ortakları için mutabakat dosyaları üzerinde görüntülenir. |
+| [Kurumsal Bayi MPN Kimliği](#reseller-mpn-id) | Aboneliğin [kaydının kurumsal bayisinde MPN tanımlayıcısı.](#reseller-mpn-id) Bu alan, belirli bir abonelik için listelenen kurumsal bayi kimliğine karşılık İş Ortağı Merkezi. Yalnızca dolaylı modelde iş ortakları için mutabakat dosyalarında görünür. |
 
-### <a name="reseller-mpn-id"></a>Satıcı MPN KIMLIĞI
+### <a name="reseller-mpn-id"></a>Kurumsal Bayi MPN Kimliği
 
-Bir CSP iş ortağı aboneliği doğrudan müşteriye satmışsa **MPN kimliği** , hem **MPN kimliği** hem de **satıcı MPN kimliği** olarak iki kez listelenir.
+CsP iş ortağı aboneliği doğrudan müşteriye satsa **MPN** kimliği iki kez listelenir ve **hem MPN Kimliği** hem de **Kurumsal Bayi MPN Kimliği olarak listelenir.**
 
-Bir CSP iş ortağının **MPN kimliği** olmayan bir satıcısı varsa, bu değer bunun yerine ortağın **MPN kimliğine** ayarlanır.
+CSP iş ortağının **MPN** kimliğine sahip bir kurumsal bayisi varsa, bu değer bunun yerine iş **ortağının MPN kimliğine** ayarlanır.
 
-CSP iş ortağı bir **satıcı MPN kimliğini** kaldırdığında bu değer *-1* olarak ayarlanır.
+CSP iş ortağı kurumsal bayi **MPN kimliğini** kaldırırsa bu değer *-1 olarak ayarlanır.*
 
-**Satıcı MPN kimliğini** görüntülemek veya güncelleştirmek için:
+Kurumsal Bayi MPN Kimliğini **görüntülemek veya güncelleştirmek için:**
 
 1. İş Ortağı Merkezi'nde oturum açın.
-2. Iş Ortağı Merkezi menüsünde **müşteriler**' i seçin.
+2. Yeni İş Ortağı Merkezi Müşteriler'i **seçin.**
 3. Listeden müşteriyi seçin.
-4. Müşteri menüsünde **abonelikler**' i seçin.
+4. Müşteri menüsünde Abonelikler'i **seçin.**
 5. Listeden aboneliği seçin.
-6. **Satıcıdan (MPN kimliği)** değiştirmek için **Güncelleştir** ' i seçin.
+6. Kurumsal **Bayiyi** **(MPN Kimliği) değiştirmek için güncelleştir'i seçin.**
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-- [Faturanız & keşfi dosyanızı okuma](read-your-bill.md) 
+- [Mutabakat dosyası için faturanızı & okuma](read-your-bill.md) 

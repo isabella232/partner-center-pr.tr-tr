@@ -9,12 +9,12 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8674dfa337f0620b6c916f685fced9882134032a
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: 05bf6e09c5dc5982c3faa3e426f7b99acfc09949
+ms.sourcegitcommit: bce54ddb9fff7332a03d6aa228ba9414a87d76b7
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112276374"
+ms.lasthandoff: 06/22/2021
+ms.locfileid: "112431719"
 ---
 # <a name="receive-credit-on-your-partner-center-account-for-tax-withholding"></a>Vergi stopajı için İş Ortağı Merkezi kredi alma
 
@@ -22,7 +22,7 @@ ms.locfileid: "112276374"
 
 ## <a name="overview"></a>Genel Bakış
 
-Bazı ülkelerdeki CSP iş ortakları vergileri içeren fatura tutarlarını alır. Bu iş ortaklarından bazıları Microsoft yerine yerel vergi yetkilisine ödeme sağlar. Yerel vergi yetkilinize ödeme yaparsanız, önceki faturalardan vergiye yansıtilen tutarı temizlemek için vergi sertifikanızı da içeren bir vergi stopajı isteği göndermeniz gerekir. Bu temizli tutarlar, fatura **sayfasındaki** Son ödeme **sütununa İş Ortağı Merkezi.**
+Bulut Çözümü Sağlayıcısı (CSP) iş ortakları vergileri içeren fatura tutarlarını alır. Bu iş ortaklarından bazıları Microsoft yerine yerel vergi yetkilisine ödeme sağlar. Yerel vergi yetkilinize ödeme yaparsanız, önceki faturalardan vergiye yansıtilen tutarı temizlemek için vergi sertifikanızı da içeren bir vergi stopajı isteği göndermeniz gerekir. Bu temizli tutarlar, fatura **sayfasındaki** Son ödeme **sütununa İş Ortağı Merkezi.**
 
 Hizmet istekleri (İş ortağı destek biletleri) oluşturarak vergi stopajı isteklerini göndermek için kullanılan iş İş Ortağı Merkezi. Bu işlem Ocak 2020'de değişti. Şimdi CSP iş ortaklarının Destek İstekleri oluşturmak yerine Faturalama sayfasında **vergi** stopajı istekleri göndermesi gerekir.
 
@@ -37,7 +37,7 @@ Yeni bir vergi stopajı göndermek için şu adımları izleyin:
 
 2. Sol menüde Faturalama'ya tıklayın **ve Faturalama** **geçmişi'ne gidin.**
 
-3. Yetkilerini **göndermek** istediğiniz faturanın yanındaki Yeni gönder'e tıklayın. Yeni gönder bağlantısı sizi Yeni vergi **stopajı isteği sayfasına** alır.
+3. Yetkilerini **göndermek** istediğiniz faturanın yanındaki Yeni gönder'i seçin. Yeni gönder bağlantısı sizi Yeni vergi **stopajı isteği sayfasına** alır.
 
    :::image type="content" source="images/wht1.png" alt-text="Fatura için Yeni vergi stopajı gönderin.":::
 
@@ -66,9 +66,9 @@ Gözden geçirme ekibi, onaylanabilecek düzeltmeler yapma ve isteği yeniden ku
 
 2. Sol menüde Faturalama'ya **tıklayın**
 
-3. Faturalama **sayfasının** Faturalama geçmişi **sayfasında vergi** stopajı isteğini bulun. Dikkat çekmeniz gereken istekler "bekleyen iş ortağı eylemi" durumuna sahip olur.
+3. Faturalama **sayfasının** Faturalama geçmişi **sayfasında vergi** stopajı isteğini bulun. Dikkat çekmeniz gereken istekler "İş ortağı eylemi bekleniyor" durumuna sahip olur.
 
-4. Sizi isteğin sayfasına götürerek vergi stopajı istek kimliğine ve durumuna tıklayın.
+4. Sizi isteğin sayfasına alan vergi stopajı istek kimliğini ve durumunu seçin.
 
 5. **Güncelleştir'i seçin ve Status (Durum) altında resubmit (Güncelleştir)** **seçeneğinin altında resubmit (Güncelleştir) öğesini seçin.**
 
@@ -82,14 +82,14 @@ Gözden geçirme ekibi, onaylanabilecek düzeltmeler yapma ve isteği yeniden ku
 
 ### <a name="approved-requests"></a>Onaylanan istekler
 
-Onaylanan vergi stopajı istekleri bir sonraki faturanıza göre yürütülür ve borç tutarı silinir. Tamamlandı olarak işaretlenen **istekler** 10 iş günü içinde uygulanmalıdır. 
+Onaylanan vergi stopajı istekleri, bir sonraki faturanıza göre yürütülerek borç tutarı silinir. Tamamlandı olarak işaretlenen **istekler** 10 iş günü içinde uygulanmalıdır. 
 
 Temizli tutarlar Faturalama sayfası **faturalama geçmişi bölümüne yansıtıldı.** Temizilen tutarlar, **isteğin gönder** olduğu faturanın yanındaki Son ödeme sütununda görüntülenir.
 
    > [!IMPORTANT]
    > Önceki faturalar yeniden üretlenmez veya yeniden üretlenmez. Netlik tutarı yalnızca önceki aylara uygulanan ödemelere uygulanır.
 
-Vergi sertifikasının ve tutarın doğru olduğu varsayarak vergi stopajı isteklerinin tamamlanması iki gün sürer. Gerekli değişiklikler varsa, düzeltilmesi ve yeniden atlanmış olması gerektiğinden bu daha uzun sürer.
+Vergi sertifikasının ve tutarın doğru olduğu varsayarak vergi stopajı isteklerinin tamamlanması iki gün sürer. Gerekli değişiklikler varsa, düzeltilmesi ve yeniden atlanmış olması nedeniyle bu daha uzun sürer.
 
 Stopaj vergisi kredisi isteği süreci hakkında sorularınız varsa İş Ortağı Desteği'ne bir bilet gönderin. Soruları çözmek için vergi stopajı istek kimliğine ihtiyacınız olacak.
 
@@ -97,7 +97,7 @@ Stopaj vergisi kredisi isteği süreci hakkında sorularınız varsa İş Ortağ
 
 Almanya vergi stopajı istekleri gönderen iş ortaklarının, stopaj vergisi sertifikanızı aşağıdaki adrese sabit kopyalarını postayla göndermeyi unutmaları gerekir:
 
-- ATTN: EOC Vergi Ekibiİskene G gl
+- ATTN: EOC Vergi Ekibiİskene G sınırında
 - Microsoft EMEA Operasyon Merkezi
 - One Microsoft Place,
 - South County Business Park
@@ -105,7 +105,7 @@ Almanya vergi stopajı istekleri gönderen iş ortaklarının, stopaj vergisi se
 
 ### <a name="questions-and-assistance-for-tax-withholding-requests"></a>Vergi stopajı istekleriyle ilgili sorular ve yardım
 
-İş ortakları yeni istekler göndermek için yukarıda ayrıntılı olarak belirtilen yeni işlemi kullanmalı ve artık yeni vergi stopajı istekleri için destek isteği oluşturma işlemini kullanmamalı. Vergi stopajı istekleri hakkında ek sorularla iş ortakları [destek istekleri göndererek.](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?stage=2&topicid=9227afa6-babf-3917-acee-67db7860f5ed) Destek istekleri, mevcut istekler için iş ortaklarına yardımcı olmak üzere tasarlanmıştır, bu nedenle yeni bir bilet **göndermek** için İstek Kimliklerine sahip olması gerekir. İş ortakları yeni işlemi kullanarak bir istek göndereyeese destek isteği formuna bir sayı (1'in hepsi) girmeleri gerekir. 
+İş ortakları yeni istekler göndermek için yukarıda ayrıntılı olarak belirtilen yeni işlemi kullanmalı ve artık yeni vergi stopajı istekleri için destek isteği oluşturma işlemini kullanmamalı. Vergi stopajı istekleri hakkında daha fazla sorusu olan iş ortakları [destek istekleri göndermektedir.](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?stage=2&topicid=9227afa6-babf-3917-acee-67db7860f5ed) Destek istekleri, mevcut istekler için iş ortaklarına yardımcı olmak üzere tasarlanmıştır, bu nedenle yeni bir bilet **göndermek** için İstek Kimliklerine sahip olması gerekir. İş ortakları yeni işlemi kullanarak bir istek göndereyeese destek isteği formuna bir sayı (1'in hepsi) girmeleri gerekir. 
 
    > [!IMPORTANT]
    > İş ortaklarının istek durumu Tamamlandı ise de destekle iletişim kurması **gerek değildir.** Bu durum, gönderim **için faturanın** yanındaki Faturalama geçmişinde gösterir. **Faturanın** yanındaki son ödeme tutarları, istek Tamamlandı olarak işaretlendikten sonraki on gün içinde vergi stopajı tutarını **yansıtacak.**

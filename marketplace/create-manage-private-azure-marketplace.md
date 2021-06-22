@@ -6,12 +6,12 @@ ms.topic: how-to
 author: msjogarrig
 ms.author: jogarrig
 ms.date: 02/24/2021
-ms.openlocfilehash: 8cfe0e95d1655530c9bc9d24b1efe85e6432236b
-ms.sourcegitcommit: e8e8362d2777d25efac3e1076af5939765ed13d0
+ms.openlocfilehash: 9da9eb4944508e815d1664fb44b13bce52f37150
+ms.sourcegitcommit: bce54ddb9fff7332a03d6aa228ba9414a87d76b7
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/20/2021
-ms.locfileid: "104712775"
+ms.lasthandoff: 06/22/2021
+ms.locfileid: "112431663"
 ---
 # <a name="create-and-manage-private-azure-marketplace-in-the-azure-portal"></a>Azure portal özel Azure Marketi oluşturun ve yönetin
 
@@ -291,6 +291,9 @@ Kullanıcılar, ve onaylanmamış teklifler arasında filtre uygulayabilir:
 
 > [!NOTE]
 > Gönderildikten sonra, onay isteği formu Market yöneticisinin isteği gözden geçirmesi ve işlem yapması için [bildirim merkezine](#private-azure-marketplace-notification-center) gönderilir.
+
+> [!CAUTION]
+> Özel Market 'e onay, bir çözümün temin ini göstermez.
 
 ## <a name="frequently-asked-questions-faqs"></a>Sık sorulan sorular (SSS)
 
