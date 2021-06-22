@@ -9,12 +9,12 @@ author: vijvala
 ms.author: vijvala
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 37373c032dc34315c0e3274987805d7518d0b595
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: 9cdb83c8b58b75606275c9773cba79eba75d5d0d
+ms.sourcegitcommit: 7cc83714e17337b472727819243f98c84ae181ba
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112276612"
+ms.lasthandoff: 06/22/2021
+ms.locfileid: "112450816"
 ---
 # <a name="set-up-your-users-with-multi-factor-authentication"></a>Kullanıcılarınız için çok faktörlü kimlik doğrulaması ayarlama
 
@@ -32,14 +32,14 @@ Kullanıcılarınız için MFA'yi Azure AD kiracınıza eklerken etkinleştirmek
 1. Çok **faktörlü kimlik doğrulaması'ı seçin.**
 1. Etkinleştirmek istediğiniz kullanıcıyı seçin ve ardından **Etkinleştir'i seçin.**
 
-Bu, bu kullanıcı için MFA'ya olanak sağlar. Etkin, kullanıcının ilk kez oturum a açması için MFA doğrulamasını ayarlaması istenecek anlamına gelir. Bundan sonra, oturum açmalarında, e-posta veya kısa mesaj aracılığıyla (ayarlanacaklarına bağlı olarak) onlara gönderilen bir kod sağlamaları istenecek.  
+Bu, bu kullanıcı için MFA'yi etkinleştirir. Etkin, kullanıcının ilk kez oturum a açması için MFA doğrulamasını ayarlaması istenecek anlamına gelir. Bundan sonra, oturum açmalarında, e-posta veya kısa mesaj aracılığıyla (ayarlanacaklarına bağlı olarak) onlara gönderilen bir kod sağlamaları istenecek.  
 
-:::image type="content" source="images/MFA/securityverification.png" alt-text="Doğrulamayı belirtin.":::
+:::image type="content" source="images/multi-factor-authentication/security-verification.png" alt-text="Doğrulamayı belirtin.":::
 
 >[!NOTE]
 >Yukarıdaki **adımların** aynısını kullanarak ve Zorla'ya seçerek kullanıcılarınızı MFA kullanmaya **zorabilirsiniz.** Daha fazla bilgi edinmek için oturum [açma olaylarının güvenliğini sağlamak için kullanıcı başına Azure Multi-Factor Authentication'a etkinleştirme makalelerini okuyun.](/azure/active-directory/authentication/howto-mfa-userstates) 
 
-Tüm kullanıcılar Devre Dışı olarak **başlar.** Multi-Factor Authentication'da kullanıcıları kullanıcı Azure Active Directory kaydedip durumu Etkin olarak **değişir.** Etkinleştirildiğinde kullanıcılar oturum atayarak kayıt işlemini tamamlar ve durumları Zorlanan **olarak değişir.** 
+Tüm kullanıcılar Devre Dışı olarak **başlar.** Multi-Factor Authentication için kullanıcıları kullanıcı başına Azure Active Directory, durumları Etkin olarak **değişir.** Etkinleştirildiğinde kullanıcılar oturum atayarak kayıt işlemini tamamlar ve durumları Zorlanan **olarak değişir.** 
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
