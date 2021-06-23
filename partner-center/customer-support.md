@@ -9,12 +9,12 @@ ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
 ms.date: 01/22/2021
-ms.openlocfilehash: 81a8d656c876d39ca6389fedeec3a154dd778ce1
-ms.sourcegitcommit: 7cc83714e17337b472727819243f98c84ae181ba
+ms.openlocfilehash: 83006da3a25285105d6fc073a203bedb19e681fe
+ms.sourcegitcommit: 09eabb559aae25518caf3f2a59ef16a3e123c207
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/22/2021
-ms.locfileid: "112450756"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112489892"
 ---
 # <a name="providing-different-types-of-support-to-your-customers"></a>Müşterilerinize farklı türlerde destek sağlama
 
@@ -36,7 +36,7 @@ CSP müşterileri kendi kendine destek bileti oluşturamaz. Destek için sizinle
 
   - [Iş ortakları için Premier destek (PSfP)](https://partner.microsoft.com/support/microsoft-services-premier-support) (ücret tabanı, tüm ürünler için kullanım)
 
-  - [Iş ortakları Için gelişmiş destek (ASfP](https://partner.microsoft.com/support/advanced-cloud-support) (ücret tabanı, yalnızca bulut ürünleri için kullanım)
+  - [Iş ortakları Için gelişmiş destek (ASfP)](https://partner.microsoft.com/support/advanced-cloud-support) (ücret tabanı, yalnızca bulut ürünleri için kullanın)
 
   - [Imza bulutu desteği](manage-your-partner-network-benefits.md) (altın veya gümüş Uzmanlıklar için MPN avantajlarına dahildir ve yalnızca bulut ürünleri için kullanın. [Teknik avantajları](mpn-benefits-technical-support.md)görün)
 

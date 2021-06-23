@@ -9,18 +9,18 @@ author: mowree
 ms.author: mowrim
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 212eef8294b7d293a9bc9f55b56498e12e3f402a
-ms.sourcegitcommit: 9292a85c4c142109e46462ee4088bd95efb62456
+ms.openlocfilehash: cccb1701e196781b2e002ef6bb37f0e47521b2b5
+ms.sourcegitcommit: 09eabb559aae25518caf3f2a59ef16a3e123c207
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/21/2020
-ms.locfileid: "92531254"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112489943"
 ---
 # <a name="participate-in-software-assurance-programs-including-training-vouchers-and-planning-services"></a>Eğitim fişleri ve planlama hizmetleri dahil olmak üzere yazılım güvencesi programlarına katılın
 
 Yazılım Güvencesi Eğitim fişleri (SATV) ve planlama hizmetleri dahil olmak üzere yazılım güvencesi programlarına katılım, Microsoft kurumsal müşterileri ile işinizi büyütmeye yönelik bir fırsat sağlar. 
 
-- Yazılım Güvencesi Eğitim fişleri iş ortağı olarak, Microsoft, Microsoft uzmanları tarafından geliştirilen, eğitmen ve teknik sınıf eğitimi sağlamak için sizi telafi eder. 
+- Microsoft, bir SATV iş ortağı olarak Microsoft uzmanlarıyla geliştirilen, eğitmen ve teknik sınıf eğitimi sağlamak için sizi telafi eder. 
 
 - Microsoft, planlama hizmeti ortağı olarak önceden tanımlanmış uygulama planlama görevlendirmesine yönelik olarak sizi telafi eder. 
 

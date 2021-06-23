@@ -1,6 +1,6 @@
 ---
 title: Lisans tabanlı müşterileri CSP programına taşıma
-description: Lisans tabanlı müşterileri, Iş Ortağı Merkezi 'ndeki bulut çözümü sağlayıcısı (CSP) programına diğer kanallardan veya başka bir iş ortağından taşımayı öğrenin.
+description: Lisans tabanlı müşterileri diğer kanallardan veya başka bir iş ortağından Bulut Çözümü Sağlayıcısı (CSP) programına İş Ortağı Merkezi.
 ms.topic: how-to
 ms.date: 06/30/2020
 ms.service: partner-dashboard
@@ -9,30 +9,30 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b1d5f415680cad8466da631a68fb6249a5298a2d
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 2cfea9bc672ff12868a7944cf81601e5292dae80
+ms.sourcegitcommit: 09eabb559aae25518caf3f2a59ef16a3e123c207
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855990"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112489909"
 ---
-# <a name="move-license-based-customers-from-other-channels--partners-to-the-cloud-solution-provider-program"></a>Lisans tabanlı müşterileri diğer kanallara & iş ortaklarından bulut çözümü sağlayıcısı programına taşıyın
+# <a name="move-license-based-customers-from-other-channels--partners-to-the-cloud-solution-provider-csp-program"></a>Lisans tabanlı müşterileri iş ortaklarının & (CSP) programına Bulut Çözümü Sağlayıcısı kanallardan taşıma
 
-**Uygun roller**: Hesap Yöneticisi | Satış Aracısı | Faturalandırma Aracısı
+**Uygun roller:** Hesap yöneticisi | Satış aracısı | Faturalama aracısı
 
-Müşteriniz birden çok iş ortağı sağlamak, aboneliklerini başka bir ortağa aktarmak veya başka bir yerde satın alınan aboneliklerinizi yönetmek isterse, bunları el ile taşıyabilirsiniz. Ayrıca, müşterileri başka bir kanaldan Iş ortağı merkezine de taşıyabilirsiniz.
+Müşteriniz birden çok iş ortağını işe almak, aboneliklerini başka bir iş ortağına devredecek veya başka bir yerde satın alınan aboneliklerini yönetmek istiyorsa, bunları el ile taşıyabilirsiniz. Ayrıca, müşterileri başka bir kanaldan İş Ortağı Merkezi başka bir kanala da taşımaya devam edersiniz.
 
-## <a name="move-your-customers-license-based-subscriptions-to-the-cloud-solution-provider-program-csp"></a>Müşterinizin lisans tabanlı aboneliklerini bulut çözümü sağlayıcısı programına (CSP) taşıma
+## <a name="move-your-customers-license-based-subscriptions-to-the-csp-program"></a>Müşterinizin lisans tabanlı aboneliklerini CSP Programına taşıma
 
-1. Iş Ortağı Merkezi menüsünden **müşteriler** ' i seçin ve ardından **bir satıcı ilişkisi iste**' yi seçin. Birden çok kanallı hesaplara destek sağlamak için aynı şeyi yapabilirsiniz.
+1. İş Ortağı Merkezi  menüsünden Müşteriler'i seçin ve ardından Satıcı **ilişkisi isteğide bulun'a tıklayın.** Çok kanallı hesaplar için destek sağlamak için aynı şeyi yaparsınız.
 
-2. Müşteri davetinizi kabul ettikten sonra müşteri için istenen abonelikleri ve lisansları temin edebilirsiniz (örneğin, müşterinin daha önce satın aldığı Office 365 teklifi).
+2. Müşteri daveti kabul etti mi, müşteri için istenen abonelikleri ve lisansları sağabileceksiniz (örneğin, müşterinin daha önce satın aldığınız Office 365 teklifi).
 
-3. Müşteri, orijinal aboneliklerin kullanım süresini sona ermelerine izin verebilir veya iptal edebilir. Ancak, iptal edilen aboneliklerde bir para iadesi olmadığından, aboneliklerin doğal süre sonu tarihlerine yaklaşmasından önce beklemek en iyisidir.
+3. Müşteri, özgün aboneliklerin süresinin dolmasına veya iptal edilmesine izin vere. Ancak iptal edilen aboneliklerde para iadesi yapılmaz. En iyisi aboneliklerin doğal sona erme tarihlerine yakın olmasıdır.
 
 
    >[!NOTE]
-   >Müşteri, Microsoft 365 (M365) Yönetici portalı üzerinden satın aldıklarında (örneğin, aylık veya yıllık doğrudan Microsoft 'tan faturalandırma) kredi için uygun olabilir. Doğrudan Microsoft 'tan satın alınan aboneliklerin kredileri, **M365 faturalandırma desteği** tarafından işlenir. [M365 aboneliğinizi iptal etme](/microsoft-365/commerce/subscriptions/cancel-your-subscription)hakkında M365 rehberlik bölümüne bakın. Müşteri için yönetici ayrıcalıklarına sahipseniz, müşterinizin adına M65 desteği ile iletişime başvurabilirsiniz. Aksi takdirde, lütfen müşterinizin ne kadar kredi olduğunu ve bu kredilerin bunlara nasıl verildiğine ilişkin bilgi edinmek için doğrudan M365 destek 'e başvurmasını isteyin. [Yönetici ayrıcalıkları Temsilcili](customers-revoke-admin-privileges.md)hakkında bilgi edinin.
+   >Müşteri, Microsoft 365 (M365) yönetici portalında (örneğin, Microsoft'tan aylık veya yıllık faturalama yoluyla) satın aldı ise kredi için uygun olabilir. Doğrudan Microsoft'tan satın alınan abonelikler için krediler **M365 faturalama desteği tarafından ele alınarak yapılır.** M365 aboneliğinizi iptal etme hakkında [M365 kılavuzuna bakın.](/microsoft-365/commerce/subscriptions/cancel-your-subscription) Müşteri için yönetim ayrıcalıkları temsilciniz varsa, müşteriniz adına M65 desteğine başvurabilir. Yoksa lütfen müşteriden M365 desteğine doğrudan başvurarak ne kadar krediye uygun olduğunu ve bu kredinin nasıl verildiğini bulmalarını sorun. Yönetici ayrıcalıkları [temsilcisiyle ilgili bilgileri okuyun.](customers-revoke-admin-privileges.md)
 
 
 4. Daha sonra müşteri, kesintisiz olarak sağmış olduğunuz aboneliklerle devam eder.
@@ -42,7 +42,7 @@ Müşterinizin sunduğu tekliflerin aynısını sağlarsanız lisansları yenide
 Kullanımdan kaldırılmış tekliflere sahip müşterileri aktarırsanız veri kaybını önlemek için eşdeğer bir teklif bulmanız gerekir. Müşteriyi farklı bir teklife taşırsanız lisans atamasını güncelleştirmeniz gerekir.
 
 >[!NOTE]
-> CSP iş ortağı olarak, bu müşteriyi size geçiş yapmak için müşteri kiracısı ile aynı bölgede yer alasiniz.
+> CSP iş ortağı olarak, bu müşteriyi size geçiş için müşteri kiracısı ile aynı bölgede yer alasiniz.
 
 ## <a name="next-steps"></a>Sonraki adımlar
 

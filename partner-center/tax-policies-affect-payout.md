@@ -7,12 +7,12 @@ ms.subservice: partnercenter-mpn
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 02/09/2021
-ms.openlocfilehash: a93e94912f840e4cb69c3cc834f03af1b34f19aa
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 32c5cda9558aaaeddaf194eb8258ba732e2ac698
+ms.sourcegitcommit: 09eabb559aae25518caf3f2a59ef16a3e123c207
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109856024"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112489977"
 ---
 # <a name="how-tax-policies-affect-payout-for-azure-marketplace"></a>Azure Marketi için vergi ilkelerinin ödeme nasıl etkilediği
 
@@ -20,7 +20,7 @@ ms.locfileid: "109856024"
 
 ## <a name="introduction"></a>Giriş
 
-Microsoft ticari marketi 'nde küresel erişim vardır. İşlemler, kenarlıkların tamamında ve ISV ve müşterinin bulunduğu yere bağlı olarak, vergi etkilerine karşı farklılık gösterebilir. Microsoft AppSource ve Azure Marketi, ISV 'nin ülkesini öğrenmek için Iş Ortağı Merkezi vergi profili bilgilerini kullanır. Müşterinin ülkesini öğrenmek için müşterinin fatura bilgilerini kullanın ya da müşteri AB 'de ise iki farklı bilgi parçası kullanıyoruz.
+Microsoft ticari marketi 'nde küresel erişim vardır. İşlemler, sınırlar genelinde gerçekleşir ve bağımsız yazılım satıcısının (ISV) ve müşterinin bulunduğu yere bağlı olarak, vergi etkilerine karşı farklılık gösterebilir. Microsoft AppSource ve Azure Marketi, ISV 'nin ülkesini öğrenmek için Iş Ortağı Merkezi vergi profili bilgilerini kullanır. Müşterinin ülkesini öğrenmek için müşterinin fatura bilgilerini kullanın ya da müşteri AB 'de ise iki farklı bilgi parçası kullanıyoruz.
 
 Aşağıdaki senaryoları daha iyi anlamak için, Microsoft 'un yayımcı adına vergi toplayıp ödemediğini veya bu sorumluluğun yayımcıya ait olup olmadığını gösteren [vergi ayrıntıları](tax-details-marketplace.md) tablosuna bakın.
 
@@ -37,35 +37,35 @@ ABD dışı Yayımcı ve ABD müşterisi arasındaki işlemler için bkz. [senar
 
 ## <a name="publisher-transacts-in-microsoft-managed-tax-country-where-marketplace-fee-is-taxable-service"></a>Microsoft tarafından yönetilen ve Market ücreti vergilendirilebilir servis olan Microsoft tarafından yönetilen vergi ülkede yayımcı transacts
 
-**Senaryo B** : ABD tabanlı bir Yayımcı (Iş Ortağı Merkezi vergi profili bilgileri tarafından tanımlandığı gibi) arasında, ülkenin Market ücretine (vergilendirilebilir hizmet) bir vergi sunan Microsoft tarafından yönetilen bir vergi ülkesindeki bir müşteriye yaptığı işlemler. Bu senaryoda, mağaza hizmeti ücretine vergi yayımcının ödemelerinden çıkarılacaktır.
+**Senaryo B** : ABD tabanlı bir Yayımcı (Iş Ortağı Merkezi vergi profili bilgileri tarafından tanımlandığı gibi) arasında, ülkenin Market ücretine (vergilendirilebilir hizmet) bir vergi sunan Microsoft tarafından yönetilen bir vergi ülkesindeki bir müşteriye yaptığı işlemler. Bu senaryoda, mağaza hizmeti masrafında vergi, yayımcının ödemsından çıkarılır.
 
-:::image type="content" source="images/tax-policies/payout-scenario-b.png" alt-text="Ödeme süreci senaryosu B için iş akışını gösterir.":::
+:::image type="content" source="images/tax-policies/payout-scenario-b.png" alt-text="Ödeme işlem senaryosu B için iş akışını gösterir.":::
 
-## <a name="publisher-transacts-in-publisher-managed-tax-country"></a>Yayımcı tarafından yönetilen Vergi Ülkesinde Yayımcı Transacts
+## <a name="publisher-transacts-in-publisher-managed-tax-country"></a>Yayımcı tarafından yönetilen vergi ülkesi içindeki Publisher transacts
 
-**Senaryo C** : Yayımcı ile yayımcı tarafından yönetilen bir vergi ülkesi içinde yer alan ve müşterilere stopaj vergisi dayatmayacak olan müşteriler arasında yapılan işlemler. Müşteriler satış noktasında vergi ödemez ve yayımcının tüm geçerli vergileri ödeme yükümlülüğü vardır.
+**Senaryo C** : müşteriler üzerinde bir stopaj vergisi uygulamayan yayımcı tarafından yönetilen bir vergi ülkesindeki bir yayımcı ve müşteri arasında gerçekleşen işlemler. Müşteriler satış noktasında vergi ödemesiz ve yayımcının tüm geçerli vergileri ödemekle ilgili yükümlülüğünüz.
 
-Ülkeye özgü fiyatlandırma (örneğin yaklaşan vergilendirmeyi dengelemek için) hakkında daha fazla bilgi için bkz. Ticari market [teklifleri için planlar ve fiyatlandırma.](/azure/marketplace/plans-pricing#custom-prices)
+Ülkeye özgü fiyatlandırmayla ilgili daha fazla bilgi için (örneğin, yaklaşan vergilendirme 'yi kaydırmak için) bkz. [ticari Market teklifleri Için planlar ve fiyatlandırma](/azure/marketplace/plans-pricing#custom-prices).
 
-:::image type="content" source="images/tax-policies/payout-scenario-c.png" alt-text="Ödeme süreci senaryosu C için iş akışını gösterir.":::
+:::image type="content" source="images/tax-policies/payout-scenario-c.png" alt-text="Ödeme işlem senaryosu C için iş akışını gösterir.":::
 
-## <a name="foreign-publisher-transacts-with-us-customer"></a>ABD Müşterisi ile Yabancı Yayımcı Transacts
+## <a name="foreign-publisher-transacts-with-us-customer"></a>ABD müşterisi ile yabancı yayımcı transacts
 
-**Senaryo D** – ABD merkezli bir müşteriye satış yapan (müşteri hesabı adresiyle tanımlandığı gibi) abd merkezli bir müşteriye satış yapan (senaryo [E'ye](#foreign-publisher-with-a-treaty-transacts-with-us-customer)bakın) olmayan ülkelerdeki tüm yabancı yayımcılar (İş Ortağı Merkezi Vergi Profili Bilgileriyle tanımlandığı şekilde). ABD kamu, Yayımcı adına Microsoft stopaj vergisi gerektirir. Ödemeden yayımcıya kadar olan vergiler teklif fiyatına göre hesaplanır.
+**Senaryo D** – tüm yabancı yayımcılar (Iş Ortağı Merkezi vergi profili bilgileri tarafından tanımlandığı şekilde) ABD 'de bir müşteriye (müşteri hesabı adresleri tarafından tanımlandığı [gibi) bir](#foreign-publisher-with-a-treaty-transacts-with-us-customer)satış yapma. ABD Kamu, Microsoft 'un yayımcı adına vergi stopajın olmasını gerektirir. Ödemelerden yayımcıya kesilen vergi, teklif fiyatına göre hesaplanır.
 
-:::image type="content" source="images/tax-policies/payout-scenario-d.png" alt-text="Ödeme süreci senaryosu D için iş akışını gösterir.":::
+:::image type="content" source="images/tax-policies/payout-scenario-d.png" alt-text="Ödeme işlem senaryosu D için iş akışını gösterir.":::
 
-## <a name="foreign-publisher-with-a-treaty-transacts-with-us-customer"></a>ABD müşterisi ile Transacts olan yabancı yayımcı
+## <a name="foreign-publisher-with-a-treaty-transacts-with-us-customer"></a>ABD müşterisi ile bir Treaty transacts ile yabancı Yayımcı
 
-**Senaryo E:** ABD tabanlı bir müşteriye satış yapan (müşteri hesabı adresiyle tanımlandığı şekilde) ABD'de bir satıcıya sahip olan tüm yabancı yayımcılar (İş Ortağı Merkezi Vergi Profili Bilgileri ile tanımlandığı şekilde). ABD kamu, Microsoft'un yayımcı adına vergi stopajı gerektirmez.
+**Senaryo E** – tüm yabancı yayımcılar (Iş Ortağı Merkezi vergi profili bilgileri tarafından tanımlandığı gibi) ABD ile ilgili bir müşteriye satış yapan (müşteri hesabı adresleri tarafından tanımlandığı şekılde) ABD ABD Kamu, Microsoft 'un yayımcı adına vergi stopaj uygulamasına gerek yoktur.
 
-:::image type="content" source="images/tax-policies/payout-scenario-e.png" alt-text="Ödeme süreci senaryosu E için iş akışını gösterir.":::
+:::image type="content" source="images/tax-policies/payout-scenario-e.png" alt-text="Ödeme işlem senaryosu E için iş akışını gösterir.":::
 
-## <a name="foreign-publisher-sells-to-an-eu-vat-registered-customer-in-a-microsoft-managed-country-outside-ireland"></a>Yabancı yayımcı, Microsoft tarafından yönetilen bir ülkede (İrlanda dışında) AB'ye kayıtlı bir müşteriye satışlar
+## <a name="foreign-publisher-sells-to-an-eu-vat-registered-customer-in-a-microsoft-managed-country-outside-ireland"></a>Yabancı Yayımcı, Microsoft tarafından yönetilen bir ülkede (Irlanda dışında) bir AB KDV 'ye kayıtlı müşteriye satış sağlar
 
-**Senaryo F:** Bir ülkede yabancı yayımcılar ve AB'de KDV kayıtlı müşteriler (İrlanda dışında) Microsoft-Managed işlemler. Müşteri satışta vergi ödemez.
+**Senaryo F** – bir Microsoft-Managed ülkede yabancı YAYıMCıLAR ve AB katma VERGI (KDV) ile kaydedilen müşteriler arasındaki tüm işlemler. Müşteri, satışla ilgili vergiyi ödemez.
 
-:::image type="content" source="images/tax-policies/payout-scenario-f.png" alt-text="Ödeme süreci senaryosu F için iş akışını gösterir.":::
+:::image type="content" source="images/tax-policies/payout-scenario-f.png" alt-text="Ödeme işlem senaryosu F için iş akışını gösterir.":::
 
 ## <a name="foreign-publisher-sells-to-an-eu-vat-registered-customer-in-a-microsoft-managed-country-in-ireland"></a>Yabancı Yayımcı, Microsoft tarafından yönetilen bir ülkede bir AB KDV 'ye kayıtlı müşteriye satıl (Irlanda 'da)
 
