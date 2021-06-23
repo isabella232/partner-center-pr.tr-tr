@@ -1,47 +1,47 @@
 ---
-title: Kısıtlanmış doğrudan fatura özellikleri
+title: Kısıtlı doğrudan fatura özellikleri
 ms.topic: article
 ms.date: 10/09/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: CSP doğrudan fatura ortağı gereksinimleri hakkında bilgi edinin ve yeteneklerin kısıtlanmasını önlemek için ne yapmanız gerektiğini öğrenin. Olanaklarınızın kısıtlanıp kısıtlanmayacağını öğrenin.
+description: Doğrudan fatura Bulut Çözümü Sağlayıcısı (CSP) gereksinimleri hakkında bilgi ve yeteneklerin kısıtlanmış olmasından kaçınmak için ne yapmaları gerekir? Özelliklerinizin kısıtlanmış olup olduğunu bulun.
 author: billLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b3b1f3e1593f7e35bd3b9ed6c56ea28683bff95a
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: e5bc33101809a805ba591be5a9b51d8dfff2397b
+ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855497"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112551427"
 ---
-# <a name="restricted-direct-bill-capabilities-and-the-requirements-needed-for-csp-direct-bill-partners"></a>Kısıtlanmış doğrudan fatura özellikleri ve CSP doğrudan fatura ortakları için gereken gereksinimler
+# <a name="restricted-direct-bill-capabilities-and-the-requirements-needed-for-csp-direct-bill-partners"></a>Kısıtlı doğrudan fatura özellikleri ve CSP doğrudan fatura iş ortakları için gereken gereksinimler
 
-**Uygun roller**: genel yönetici
+**Uygun roller:** Genel yönetici
 
 ## <a name="overview"></a>Genel Bakış
 
-Doğrudan fatura ortakları, CSP doğrudan fatura ortağı programında kalacak yeni [gereksinimleri](direct-partner-new-requirements.md) karşılamalıdır. Aksi takdirde, doğrudan fatura özelliklerine erişimleri bu süre sonunda kısıtlanmıştır ve müşterileri için yeni satın alma işlemleri gibi belirli görevleri daha fazla gerçekleştirebilir.
+Doğrudan fatura iş ortaklarının yeni gereksinimleri [karşılaması](direct-partner-new-requirements.md) ve Bulut Çözümü Sağlayıcısı (CSP) doğrudan fatura iş ortağı programında kalması gerekir. Aksi takdirde, doğrudan fatura özelliklerine erişimleri sonunda kısıtlanır ve müşterileri için yeni satın almalar yapma gibi belirli görevleri daha uzun süre gerçekleştirebilir.
 
 > [!Note]
-> CSP doğrudan fatura iş ortağı programı için yeni gereksinimleri karşılamayan doğrudan fatura ortakları, doğrudan fatura özellikleri sınırlandırılacağı zaman Microsoft tarafından bilgilendirilir. Bu, [doğrudan fatura ortağından dolaylı satıcılara geçiş](transition-direct-to-indirect.md) yapılıp yapılmayacağını kabul etmeksizin tüm doğrudan fatura ortakları için geçerlidir.  
+> CSP doğrudan fatura iş ortağı programı için yeni gereksinimleri karşılamayan doğrudan fatura iş ortakları, doğrudan fatura özellikleri kısıtlansa Microsoft tarafından bilgi sahibi olur. Bu, doğrudan fatura iş ortağından dolaylı kurumsal bayilere geçişi kabul edip edmse de tüm doğrudan fatura [iş ortakları için](transition-direct-to-indirect.md) geçerlidir.  
 
-## <a name="how-to-tell-if-your-direct-bill-capabilities-has-been-restricted"></a>Doğrudan fatura olanaklarınızın kısıtlanmasını nasıl söylüyorsunuz
+## <a name="how-to-tell-if-your-direct-bill-capabilities-has-been-restricted"></a>Doğrudan fatura özelliklerinizin kısıtlanmış olup olduğunu nasıl söyleyebilirim?
 
-Doğrudan fatura ortağı kiracısından doğrudan fatura özelliklerine erişimin kısıtlanıp kısıtlanmadığını doğrulamak için aşağıdaki adımları izleyin.
+Doğrudan fatura iş ortağı kiracıdan doğrudan fatura özelliklerine erişimin kısıtlanmış olup olmadığını onaylamak için aşağıdaki adımları izleyin.
 
 1. [İş Ortağı Merkezi panosunda](https://partner.microsoft.com/dashboard) oturum açın.
 
-2. **Hesap ayarları**  ->  **yasal profili**' ne gidin.
+2. Hesap ayarları **Yasal**  >  **Profil'e gidin.**
 
-3. **Program bilgileri** altında **Microsoft bulut çözüm sağlayıcısı durumunu** arayın.
+3. Program **bilgileri altında,** durumunu **Microsoft Bulut Çözümü Sağlayıcısı bakın.**
 
-4. Program durumunun **kısıtlı** değeri varsa, doğrudan fatura iş ortağı kiracının doğrudan fatura özelliklerine erişiminin kısıtlandığı anlamına gelir.
+4. Program durumu kısıtlı **değerine sahipse,** doğrudan fatura iş ortağı kiracısının doğrudan fatura özelliklerine erişimi kısıtlanmış demektir.
 
 ## <a name="affected-direct-bill-capabilities"></a>Etkilenen doğrudan fatura özellikleri
 
-Doğrudan fatura olanaklarınız kısıtlanmışsa, Iş Ortağı Merkezi 'nde müşterileriniz için artık yeni satın alma işlemleri yapamamaktadır. Bu kısıtlama şunları içerir:
+Doğrudan fatura özellikleriniz kısıtlanmışsa, artık bu hizmette müşterileriniz için yeni satın İş Ortağı Merkezi. Bu kısıtlama şunları içerir:
 
 - Azure abonelikleri
 
@@ -49,9 +49,9 @@ Doğrudan fatura olanaklarınız kısıtlanmışsa, Iş Ortağı Merkezi 'nde m�
 
 - Mevcut lisans tabanlı aboneliklere yeni eklentiler ekleyin.
 
-- Yazılım ve rezervasyon ürünlerini tek seferlik satın alma (örneğin, yazılım abonelikleri, kalıcı yazılım ve Azure ayrılmış sanal makine örnekleri) yapın.
+- Yazılım ve rezervasyon ürünleri (örneğin, yazılım abonelikleri, kalıcı yazılım ve Azure Ayrılmış Sanal Makine örnekleri) için tek kullanımlık satın alma işlemleri yapma.
 
-Kendi kullanımınız için yeni [Azure abonelikleri satın almak için](shared-services.md) CSP programı kapsamındaki Azure iş ortağı paylaşılan hizmetleri teklifini de kullanamazsınız.
+CsP programı [kapsamındaki Azure iş ortağı](shared-services.md) paylaşılan hizmetleri teklifini kendi kullanımınız için yeni Azure abonelikleri satın almak için de kullanamazsınız.
 
 Mevcut doğrudan fatura abonelikleri etkilenmez. Bunlar geçerli kalır ve otomatik olarak yeniler. İptal edilene kadar doğrudan Microsoft tarafından faturalandır olmaya devam edersiniz. Mevcut abonelikleri yönetmek için aşağıdaki yöntemleri kullanabilirsiniz:
 
@@ -70,7 +70,7 @@ Yeni satın almalara ek olarak, aşağıdaki doğrudan fatura özelliklerine de 
 
 - Yeni müşteri kiracıları oluşturamazsiniz. Müşteriler **sayfasındaki** Müşteriler **sayfasında** müşteri İş Ortağı Merkezi seçeneği kullanılamaz.
 
-- Doğrudan kurumsal bayi ilişkisi isteğine davet oluşturamazsiniz. Kurumsal **bayi ilişkisi isteğinde** **bulun sayfasındaki** Müşteriler İş Ortağı Merkezi seçeneği kullanılamaz.
+- Doğrudan kurumsal bayi ilişkisi isteğine davet oluşturamazsiniz. Aşağıdakiler **sayfasındaki** Müşteriler **sayfasındaki** Satıcı İş Ortağı Merkezi isteğinde bulun seçeneği kullanılamaz.
 
     >[!NOTE]
     >Doğrudan fatura iş ortağından dolaylı kurumsal bayiye geçişin bir parçası olarak, doğrudan fatura iş ortağı kiracınızı dolaylı kurumsal bayi olarak zaten kaydettiynize, bunun yerine dolaylı kurumsal bayi ilişkisi isteğine davet eden müşteriye davette bulunabilirsiniz.
@@ -79,6 +79,6 @@ Yeni satın almalara ek olarak, aşağıdaki doğrudan fatura özelliklerine de 
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-- [Dolaylı satıcı olma hakkında ek bilgiler](https://assetsprod.microsoft.com/csp-directbill-to-indirect-transition.pdf)
+- [Dolaylı kurumsal bayi olma hakkında ek bilgiler](https://assetsprod.microsoft.com/csp-directbill-to-indirect-transition.pdf)
 
-- [CSP doğrudan iş ortağı yeni gereksinimler](direct-partner-new-requirements.md)
+- [CSP doğrudan iş ortağı yeni gereksinimleri](direct-partner-new-requirements.md)

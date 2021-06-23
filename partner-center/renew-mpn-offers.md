@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 02/04/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Yetkinlikler Microsoft İş Ortağı Ağı (MPN) tekliflerini yenile - yenileme penceresi satın alma tarihi ile bir gün arasında yıl dönümü başlar.
+description: Yetkinlikler Microsoft İş Ortağı Ağı (MPN) tekliflerini yenileme - yenileme penceresi, satın alma tarihi ile bir gün arasında yıl dönümü başlar.
 author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 72e5c797f292329e779924177b0500e80754e3df
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 2b88e3ceee001a79b80a38408e6bb6b1f1940a07
+ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855684"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112551682"
 ---
 # <a name="renew-your-mpn-offers-for-competencies-and-advanced-specializations-during-the-renewal-window"></a>Yenileme penceresi sırasında yetkinlikler ve gelişmiş uzmanlıklar için MPN tekliflerinizi yenileme
 
@@ -22,11 +22,11 @@ ms.locfileid: "109855684"
 
 ## <a name="responding-to-covid-19-microsoft-partner-network-update"></a>COVID-19'a yanıt verme: Microsoft İş Ortağı Ağı güncelleştirme
 
-Microsoft, yıl dönümü tarihleri (AD) olan iş ortakları için 1 Ocak 2021 ile 30 Haziran 2021 arasında uzmanlık uzantısı (Cloud Business Applications uzmanlığı dışında) ve gelişmiş uzmanlık uzantısı sunuyor. Daha fazla bilgi için iş ortağı [blog gönderisi'ne bakın.](https://blogs.partner.microsoft.com/mpn/responding-to-covid-19-microsoft-partner-network/)
+Microsoft, yıl dönümü tarihleri 1 Ocak 2021 ile 30 Haziran 2021 arasında olan iş ortakları için uzmanlık uzantısı (Cloud Business Applications uzmanlığı dışında) ve gelişmiş uzmanlık uzantısı sunuyor. Daha fazla bilgi için iş ortağı [blog gönderisi'ne bakın.](https://blogs.partner.microsoft.com/mpn/responding-to-covid-19-microsoft-partner-network/)
 
 ## <a name="renewal-reminders"></a>Yenileme anımsatıcıları
 
-Yıl dönümü tarihinizi yenilemek için 30 gün sonranız var. Avantajlarınız bu süre boyunca devam eder. Yıldönümü tarihinize on beş gün önce Microsoft size yaklaşan yıldönümünü anımsatacak. Yıldönümü tarihinize 23 gün sonra bir anımsatıcı daha alırsınız. Bu yıl dönümü ve 30 günlük süre boyunca yenilemeniz, avantajlarınız değişmeden kalır. Yenileme pencereniz içinde yenilemezsanız avantajlarınız ve yetkinliklerinizi kaybedersiniz.
+Yıl dönümü tarihinizi yenilemek için 30 gün sonranız var. Avantajlarınız bu süre boyunca devam eder. Yıldönümü tarihinize on beş gün önce Microsoft size yaklaşan yıldönümünü anımsatacak. Yıl dönümü tarihinize 23 gün sonra bir anımsatıcı daha alırsınız. Bu yıl dönümü ve 30 günlük süre boyunca yenilemeniz, avantajlarınız değişmeden kalır. Yenileme pencereniz içinde yenilemezsanız avantajlarınız ve yetkinliklerinizi kaybedersiniz.
 
 Yenileme penceresinde yeniledikten sonra yeni yıl dönümü tarihiniz, geçerli yıl dönümünden 365 gün sonra olur.
 
@@ -38,9 +38,9 @@ Yenileme penceresinde yeniledikten sonra yeni yıl dönümü tarihiniz, geçerli
 
 3. Yetkinliklerinden birini seçin. Gereksinimleri karşılamadan sonraki yenileme tarihinize kadar size muafiyet verildiğini fark edin.
 
-4. Bu tekliflerden yararlanmak için Üyelik **teklifleri'ne gidin.** Uzmanlığa satın alma veya yenileme durumunuza bağlı olarak, süreci tamamlamaya yönelik uzmanlığa ücret ödemenizi sağlayabilirsiniz.
+4. Bu tekliflerden yararlanmak için Üyelik **teklifleri'ne gidin.** Uzmanlık satın alma veya yenileme durumunuza bağlı olarak, işlemi tamamlamak için uzmanlık ücreti ödemeniz gerekir.
 
-Uzantının avantajlarından yararlanabilmek için, uzmanlarınızı yenilemek ve ücreti ödemek üzere Iş ortağı üyelik Merkezi 'nden (PMC) üyeliğinizi Iş Ortağı Merkezi 'ne taşımalısınız. Üyeliğinizi taşımadığınız takdirde [daha fazla bilgi edinin](prepare-pmc-pc-migration.md)   ve [geçişi bugün yapın](https://partners.microsoft.com/partnerprogram/Welcome.aspx)   .  
+Uzantıdan yararlanmak için yetkinliğinizi yenilemek ve ücreti ödemek için Partner Membership Center (PMC) İş Ortağı Merkezi aboneliğinize taşınmış olması gerekir. Üyeliğinizi henüz taşıdıysanız daha fazla [bilgi edinmek ve](partner-membership-center-retirement-faq.md)geçişi bugün    [yapmak.](https://partners.microsoft.com/partnerprogram/Welcome.aspx)    
 
 ## <a name="next-steps"></a>Sonraki adımlar
 

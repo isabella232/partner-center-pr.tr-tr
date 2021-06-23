@@ -4,23 +4,23 @@ ms.topic: how-to
 ms.date: 05/27/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Müşterilerin bir müşterinin Azure CSP aboneliklerini yönetmeye yardımcı olması için, ortağın yönetici ayrıcalıklarını yeniden devreye sokmasını nasıl sağlayacağınızı öğrenin.
+description: Müşterilerin bir müşterinin Azure bulut çözümü sağlayıcısı (CSP) aboneliklerinin yönetilmesine yardımcı olması için müşterilerin bir ortağın yönetici ayrıcalıklarını yeniden devreye sokmasını nasıl sağlayabileceğini öğrenin.
 author: dhirajgandhi
 ms.author: dhgandhi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 81df7578f7f15def64a3c20b15f95f3b89a28d1c
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: 5d784aef33cce2a722583a77e73c35d5fc8136b1
+ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112277785"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112551597"
 ---
 # <a name="reinstate-admin-privileges-for-a-customers-azure-csp-subscriptions"></a>Müşterinin Azure CSP abonelikleri için yeniden devreye sokma yönetici ayrıcalıkları  
 
 **Uygun roller**: genel yönetici | Yönetim Aracısı
 
-Bir CSP iş ortağı olarak, müşterileriniz genellikle Azure kullanımını ve sistemlerini kendileri için yöneteceksiniz. Bunu yapmak için yönetici ayrıcalıklarına sahip olmanız gerekir. Müşteri ile satıcı ilişkiniz oluşturulduğunda bazı ayrıcalıklar verilir. Başkaları sizin tarafınızdan size verilir.
+Bir bulut çözümü sağlayıcısı (CSP) iş ortağı olarak, müşterileriniz genellikle Azure kullanımını ve sistemlerini kendileri için yöneteceksiniz. Bunu yapmak için yönetici ayrıcalıklarına sahip olmanız gerekir. Müşteri ile satıcı ilişkiniz oluşturulduğunda bazı ayrıcalıklar verilir. Başkaları sizin tarafınızdan size verilir.
 
 ## <a name="admin-privileges-for-azure-in-csp"></a>CSP 'de Azure için yönetici ayrıcalıkları
 

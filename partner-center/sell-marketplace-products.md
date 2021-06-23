@@ -9,21 +9,21 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4ab3aca1ef576501fcc6b912b83cfeccbf029022
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: df8ec36dbd88ff6b9ddbcbfcc9ef2e246112a548
+ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855395"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112551342"
 ---
 # <a name="use-partner-center-to-sell-customers-subscriptions-to-commercial-marketplace-products"></a>Müşterilere İş Ortağı Merkezi ticari market ürünlerine satış yapmak için abonelikleri kullanma
 
 **Uygun roller:** Satış aracısı
 
-CSP programında iş ortağı olarak, İş Ortağı Merkezi müşterilere abonelikleri, Bağımsız Yazılım Satıcıları (ISV) tarafından ticari markette[(Microsoft AppSource](https://appsource.microsoft.com/) ve [Azure Market)](https://azuremarketplace.microsoft.com/)yayımlanan Hizmet Olarak Yazılım (SaaS) ürünlerine satış yapmak için Microsoft AppSource ve Azure Market) kullanabilirsiniz.
+Bulut Çözümü Sağlayıcısı (CSP) programında iş ortağı olarak, İş Ortağı Merkezi kullanarak müşterilere abonelikleri, bağımsız yazılım satıcıları (ISV) tarafından ticari markette[(Microsoft AppSource](https://appsource.microsoft.com/) ve [Azure Market)](https://azuremarketplace.microsoft.com/)yayımlanan Hizmet Olarak Yazılım (SaaS) ürünlerine satabilirsiniz.
 
-Bu, işletmenizi ayırt etmeye yardımcı olabilir ve müşterilerinize iş ihtiyaçlarına uygun yazılım paketleri sağlar. Bu Market SaaS ürünlerinin lisanslarını ve aboneliklerini Microsoft ürünleriyle aynı şekilde yönetirsiniz.
+Bu, işletmenizi ayırt etmeye yardımcı olabilir ve müşterilerinize kendi özel iş ihtiyaçlarını karşılamak için yazılım paketleri sağlar. Bu Market SaaS ürünlerinin lisanslarını ve aboneliklerini Microsoft ürünleriyle aynı şekilde yönetirsiniz.
 
 CSP programı iş ortaklarının ticari marketi nasıl kullanabileceğini öğrenmek için bkz. Bulut Çözümü Sağlayıcıları [için Ticari markete genel bakış.](csp-commercial-marketplace-overview.md)
 
-Veya ticari markette isv'lerin farklı rolü hakkında bilgi edinmek için bkz. [Market SSS](/azure/marketplace/marketplace-faq-publisher-guide).
+Veya ticari markette ISV'lerin farklı rolü hakkında bilgi edinmek için bkz. [Market SSS](/azure/marketplace/marketplace-faq-publisher-guide).

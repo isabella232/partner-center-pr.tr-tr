@@ -9,18 +9,18 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 24eba2969552b0403de9828e86d4fc73abfec585
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: ab23e04afd3ffd5c287cc057aa51e872ab725f4d
+ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112276272"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112551189"
 ---
 # <a name="purchase-the-azure-plan-for-customers--access-the-latest-azure-services-at-pay-as-you-go-rates"></a>Müşteriler için Azure planını satın & ve en son Azure hizmetlerine, sizin için öde fiyatlarıyla erişin
 
 **Uygun roller:** Genel yönetici | Kullanıcı yönetimi yönetici | Satış aracısı
 
-Microsoft Müşteri Sözleşmesi kapsamında müşterileriniz için bir Azure planı satın aldığınız zaman, en son Azure hizmetlerinin tam kataloğuna, öde fiyatlarıyla erişebilirsiniz. CSP iş ortakları artık genel kullanıma hazır hale geldiğinde herhangi bir Azure hizmetine erişecek. Bir iş ortağının bir Azure planı kapsamında birden çok Azure aboneliği olabilir. 
+Microsoft Müşteri Sözleşmesi kapsamında müşterileriniz için bir Azure planı satın aldığınız zaman, en son Azure hizmetlerinin tam kataloğuna, öde fiyatlarıyla erişebilirsiniz. Bulut Çözümü Sağlayıcısı (CSP) iş ortakları artık genel kullanıma hazır hale geldiğinde herhangi bir Azure hizmetine erişecek. Bir iş ortağının bir Azure planı kapsamında birden çok Azure aboneliği olabilir. 
 
 ## <a name="countryregion-availability"></a>Ülke/bölge kullanılabilirliği
 
@@ -60,9 +60,9 @@ Azure **planının eklenmiştir.** Ürün ekle sayfasına geri dönersiniz. Sat�
 
 ## <a name="purchase-azure-reservations-under-the-azure-plan"></a>Azure Planı kapsamında Azure rezervasyonları satın alma 
   
-Azure planı kapsamında Microsoft Azure rezervasyonları satın almak için azure planında müşterileriniz adına İş Ortağı Merkezi. (Veya isterseniz, müşterilerinize, önceden satın aldığınız bir abonelikten kendi [Azure](give-customers-permission.md) rezervasyonlarını satın alma izni veabilirsiniz.)
+Azure planı kapsamında Microsoft Azure rezervasyonlar satın almak için azure planında müşterileriniz adına İş Ortağı Merkezi. (Veya isterseniz, müşterilerinize, önceden satın aldığınız bir abonelikten kendi [Azure](give-customers-permission.md) rezervasyonlarını satın alma izni veabilirsiniz.)
 
-1. Pano İş Ortağı Merkezi menüsünden [Müşteriler'i](https://partner.microsoft.com/dashboard/) **seçin.** Azure rezervasyonlarını satın almak isteyen müşteriyi bulun ve ardından aşağı oku seçerek müşterinin satırı genişletin.
+1. Pano İş Ortağı Merkezi menüsünden [Müşteriler'i](https://partner.microsoft.com/dashboard/) **seçin.** Azure rezervasyonları satın almak isteyen müşteriyi bulun ve ardından aşağı oku seçerek müşterinin satırı genişletin.
 
 2. Ürün **ekle'yi** ve ardından **Azure'ı seçin.** 
 
@@ -95,9 +95,9 @@ Abonelikler **sayfasındaki** kullanım tabanlı bölümde, **Azure** planı'nı
 
 ## <a name="add-subscriptions-and-configure-resources"></a>Abonelik ekleme ve kaynakları yapılandırma
 
-Abonelikler ekecek ve bu hizmetlerde müşteriniz için Azure portal. Ayrıca müşterinizin ortamını iş yüküne veya projeye göre ayırabilirsiniz. Abonelikleri hem abonelikler aracılığıyla [Azure Lighthouse](https://azure.microsoft.com/services/azure-lighthouse/) hem de Azure portal. 
+Abonelikler ekecek ve bu hizmetlerde müşteriniz için Azure portal. Ayrıca müşterinizin ortamını iş yüküne veya projeye göre ayırabilirsiniz. Abonelikleri Azure Lighthouse ve [Azure portal.](https://azure.microsoft.com/services/azure-lighthouse/) 
 
-Müşterinizin kaynaklarını ve aboneliklerini yönetmek için Adına **Yönetici** (AOBO) ayrıcalıklarına sahip olmanız gerekir. Erişiminizi yönetme hakkında bilgi için Azure [planı altında abonelikleri ve kaynakları yönetme makalesi'ne bakın](azure-plan-manage.md)
+Müşterinizin kaynaklarını ve aboneliklerini yönetmek için Adına **Yönetici** (AOBO) ayrıcalıklarına sahip olmanız gerekir. Erişiminizi yönetme hakkında daha fazla bilgi için Azure [planı altında abonelikleri ve kaynakları yönetme makalelerini okuyun](azure-plan-manage.md)
 
 ## <a name="next-steps"></a>Sonraki adımlar
 

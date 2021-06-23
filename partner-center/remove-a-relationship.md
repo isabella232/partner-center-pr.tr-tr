@@ -1,61 +1,61 @@
 ---
-title: Müşteriyle kurumsal bayi ilişkisini kaldırma
+title: Satıcı ilişkisini bir müşteriyle kaldır
 ms.topic: how-to
 ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Microsoft doğrudan iş ortaklarının müşterilerini listelerinden nasıl kaldırabilir, temsilci yönetici ayrıcalıklarını kaldırabilir ve müşteri için destek veya satın almayı nasıl durdurabilirsiniz?
+description: Microsoft doğrudan iş ortaklarının müşterileri kendi listesinden nasıl kaldırabileceğini, yönetici ayrıcalıkları temsilcilerin nasıl kaldırılacağını ve bir müşterinin desteğini veya satın almayı durdurmasını öğrenin.
 author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 735a8b2c2436df61216ceb476be4a55b18785325
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 83259f2f895be9ef34c55db5613ccfe6891a4424
+ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855701"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112551478"
 ---
 # <a name="how-to-remove-a-reseller-relationship-with-a-customer-in-partner-center"></a>İş Ortağı Merkezi'nde müşteriyle kurumsal bayi ilişkisini kaldırma
 
-**Uygun roller:** Genel yönetici
+**Uygun roller**: genel yönetici
 
-Bu makalede, bir müşteriyle kurumsal bayi ilişkisinin İş Ortağı Merkezi.
+Bu makalede, Iş Ortağı Merkezi 'nde müşteri ile satıcı ilişkisinin nasıl kaldırılacağı açıklanır.
 
-Doğrudan iş ortakları veya Dolaylı sağlayıcılar: Artık bir müşteriyle işlemde değilken, müşteriyle ilişki İş Ortağı Merkezi.
+Doğrudan iş ortakları veya dolaylı sağlayıcılar: bir müşteriyle artık deneyimidir, Iş Ortağı Merkezi ' nde ilişkiyi kaldırabilirsiniz.
 
 İlişkinin kaldırılması şu sonuçları doğurur:
 
 - Müşteriyi, İş Ortağı Merkezi'ndeki müşteri listenizden kaldırır
-- Sizi müşteriniz [için kullanılabilir destek kişileri](assign-support-contacts.md) listesinden kaldırır
+- Müşteriniz için [kullanılabilir destek kişileri listesinden](assign-support-contacts.md) sizi kaldırır
 - Müşteri için temsilci yönetici ayrıcalıklarınızı kaldırır
 - Müşteri için ileride satın alma işlemleri yapmanızı engeller
 
 ## <a name="how-to-remove-a-relationship"></a>İlişkiyi kaldırma
 
-İlişkiyi kaldırmak için önce Azure RI rezervasyonlarını iptal etmeniz, yazılım satın almalarını iptal etmeniz ve kalan etkin abonelikleri askıya alasınız.
+İlişkiyi kaldırmak için, Azure ayrılmış örnek (RI) ayırmalarını iptal etmeniz, yazılım satın alımlarını iptal etmeniz ve kalan tüm etkin abonelikleri askıya almanız gerekir.
 
 1. **Etkin abonelikleri askıya alın.**
 
-   1. Aşağıdaki İş Ortağı Merkezi **Müşteriler'e gidin** ve bir müşteri seçin
+   1. Iş ortağı merkezinden **müşteriler** ' e gidin ve müşteri seçin
 
-   2. **Abonelikler'in** altında bir abonelik seçin.
+   2. **Abonelikler**' in altında bir abonelik seçin.
 
-   3. Askıya **Alındı'yi seçin**
+   3. **Askıya alındı** seçin
 
-   4. Bu adımları her etkin abonelik için tekrarlayın.
+   4. Her etkin abonelik için bu adımları tekrarlayın.
 
-2. **İlişkiyi İş Ortağı Merkezi:**
+2. **Iş Ortağı Merkezi 'nde ilişkiyi kaldırın:**
 
-   a. Müşteri İş Ortağı Merkezi'a **gidin ve** bir müşteri seçin.
+   a. Iş Ortağı Merkezi ' nden **müşteriler** ' e gidin ve bir müşteri seçin.
 
-   b. Hesabı **seçin.**
+   b. **Hesabı** seçin.
 
-   c. Kurumsal bayi **ilişkisini kaldır'ı seçin.**
+   c. **Satıcı Ilişkisini kaldır**' ı seçin.
 
    > [!NOTE]
-   > Hala etkin olan abonelikler varsa Kurumsal **bayi ilişkisini kaldır** bağlantısı devre dışı kalır.
+   > Herhangi bir abonelik hala etkinse, **satıcı Ilişkisini kaldır** bağlantısı devre dışı bırakılır.
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-- [Müşteriyle ilişki isteği veya yeniden kurma](request-a-relationship-with-a-customer.md)
+- [Müşteriyle ilişki isteme veya yeniden oluşturma](request-a-relationship-with-a-customer.md)

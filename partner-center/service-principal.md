@@ -9,18 +9,18 @@ author: dhirajgandhi
 ms.author: dhgandhi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7d12bb66574e6bcee60b2a1df1673dc9171fbee2
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 3698032a632384e8416664c9564819d7c4da9c38
+ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109854936"
+ms.lasthandoff: 06/23/2021
+ms.locfileid: "112551563"
 ---
 # <a name="add-an-azure-ad-application-service-principal-in-partner-center"></a>Azure AD uygulaması (hizmet sorumlusu) İş Ortağı Merkezi
 
 **Uygun roller:** Genel yönetici
 
-İş Ortağı Merkezi'daki Ticari Market programında artık bir Azure AD uygulamasını (hizmet sorumlusu) kullanıcı olarak İş Ortağı Merkezi. (Daha önce Bulut İş Ortağı Portalı veya CPP hesapta bunu yapasınız. İş Ortağı Merkezi'a geçiş İş Ortağı Merkezi CPP hesabı salt okunur olur.)
+İş Ortağı Merkezi'daki Ticari Market programında artık Microsoft Azure Active Directory (Azure AD) uygulamasını (hizmet sorumlusu) kullanıcı olarak İş Ortağı Merkezi. (Daha önce Bulut İş Ortağı Portalı (CPP) hesabınızla bunu yapasınız. İş Ortağı Merkezi'a geçiş İş Ortağı Merkezi CPP hesabı salt okunur olur.)
  
 >[!Note] 
 >Hizmet sorumlusu, Azure AD uygulamasıyla eş anlamlıdır.
@@ -33,7 +33,7 @@ ms.locfileid: "109854936"
 
 3. Mevcut bir Azure AD uygulamasını seçin veya yeni bir uygulama oluşturun.
 
-4. Yeni bir Azure AD Uygulaması sanız aşağıdaki bilgileri dahil edin:  
+4. Yeni bir Azure AD uygulaması sanız aşağıdaki bilgileri dahil edin:  
 
    - **Yanıt URL'si:** Kullanıcıların Azure AD uygulamalarınızı kullanmak için oturum açmasını istediğiniz URL.
 
