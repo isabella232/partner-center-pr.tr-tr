@@ -9,18 +9,18 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: aea78f2a9b60f5d8adcc7962d15749479424c9f1
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: cca136670fa2891eea32e4561b97692ca98a77a9
+ms.sourcegitcommit: 4118de5cf55d1bd618ecca13c1b2ec59d80f43db
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112277496"
+ms.lasthandoff: 06/24/2021
+ms.locfileid: "112565415"
 ---
 # <a name="overview-dashboard-reports-available-in-partner-center-insights"></a>Iş Ortağı Merkezi öngörülerine Genel Bakış Panosu raporları
  
 **Uygun roller**: genel yönetici | Yönetici Aracısı | Rapor Görüntüleyici | Executive rapor Görüntüleyicisi
 
-Öngörüler Genel Bakış Panosu, müşteriler, abonelikler, Azure tüketim geliri ve lisanslar gibi ana performans göstergelerinin bir anlık görüntü görünümünü sağlar. Genel Bakış raporunda aşağıdaki grafikleri görselleştirebilirsiniz.
+Öngörüler Genel Bakış Panosu, müşteriler, abonelikler, Azure tüketim geliri ve lisanslar gibi ana performans göstergelerinin (KPI) anlık görüntü görünümünü sağlar. Genel Bakış raporunda aşağıdaki grafikleri görselleştirebilirsiniz.
 
 - Özet  
 - Müşterilerinizin, aboneliklerinizin ve lisanslarınızın coğrafi yayılmasının  
@@ -49,12 +49,12 @@ ms.locfileid: "112277496"
 
 Özetteki **Azure tüketilen gelir (ACR)** alanı şunları içerir:
 
-- Seçilen tarih aralığında size atanan toplam Azure geliri (ABD Doları cinsinden).
-- Seçilen tarih aralığı boyunca (ABD $ içinde) bir artış veya reddetme yüzdesi.
-- Mikro grafik, bir ACR US $ 'ın seçtiğiniz tarih aralığında size atanan bir aylık eğilimini sunar 
+- Seçtiğiniz tarih aralığında size atanan toplam ACR (ABD Doları cinsinden).
+- Seçilen tarih aralığı boyunca (ABD Doları cinsinden) bir artış veya reddetme yüzdesi.
+- Mikro grafik, ABD Doları cinsinden, seçilen tarih aralığında size atanan bir ACR eğilimi sunar 
 
 > [!NOTE]
-> Azure tüketilen gelir (ACR) verileri, Executive rapor Görüntüleyicisi rolü atanmış kullanıcılar tarafından kullanılabilir 
+> ACR verileri, Executive rapor Görüntüleyicisi rolü atanmış kullanıcılar tarafından kullanılabilir.
  
 ### <a name="subscriptions-sold"></a>Satılan abonelikler
 
@@ -68,7 +68,7 @@ ms.locfileid: "112277496"
 
 Özetteki **Etkin Abonelikler** alanı şunları içerir:
 
-- Ürün telemetrisine göre ölçülen etkin kullanım ile bulut ürün aboneliklerinin güncel sayısı. Bu, Azure abonelikleri durumunda tüm deneme aboneliklerini dışlar.  
+- Ürün telemetrisine göre ölçülen etkin kullanım ile bulut ürün aboneliklerinin güncel sayısı. Bu, tüm deneme Azure aboneliklerini dışlar.  
 - Seçilen tarih aralığı boyunca etkin aboneliklerden yüzde büyüme.
 - Mikro grafik, seçili tarih aralığı boyunca etkin abonelikler için aylık aydan eğilimi gösterir.
  
@@ -100,10 +100,10 @@ Bu, seçilen tarih aralığı için müşteri abonelik Sayın eğilimini göster
 
 ## <a name="azure-consumed-revenue-growth-trend"></a>Azure tüketilen gelir büyüme eğilimi
 
-Azure 'un tüketilen gelir ABD Doları ile seçtiğiniz tarih aralığında size atanan aylık eğilim. X ekseni, seçilen tarih aralığının ayını temsil eder ve Y ekseni, ay içinde size atanan toplam Azure gelir ABD Doları ' nı temsil eder.
+Azure tüketilen gelirin, seçtiğiniz tarih aralığında size atanan ABD Doları cinsinden aylık eğilimi. X ekseni, seçilen tarih aralığının ayını temsil eder ve Y ekseni, ay boyunca size atanan ABD Doları cinsinden tüketilen toplam Azure gelirini temsil eder.
 
 > [!NOTE]
-> Azure tüketilen gelir (ACR) yalnızca, Executive rapor Görüntüleyicisi rolü atanmış kullanıcılar tarafından görülebilir. 
+> ACR, yalnızca Executive rapor Görüntüleyicisi rolüne atanmış kullanıcılar tarafından görülebilir. 
 
 :::image type="content" source="images/pci/azureconsumed.png" alt-text="Azure kullanımı.":::
 

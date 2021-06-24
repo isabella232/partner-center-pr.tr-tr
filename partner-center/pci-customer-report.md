@@ -9,18 +9,18 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8a9207e793865bcf7fa2f205fc69b0b5def65b4d
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: f1ec30db0d568c7477b6fba9639e6481ffecaaf5
+ms.sourcegitcommit: 4118de5cf55d1bd618ecca13c1b2ec59d80f43db
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110152911"
+ms.lasthandoff: 06/24/2021
+ms.locfileid: "112565534"
 ---
 # <a name="customers-dashboard-reports-from-partner-center-insights"></a>Iş Ortağı Merkezi öngörülerinin müşteriler Pano raporları
 
 **Uygun roller**: genel yönetici | Yönetici Aracısı | Rapor Görüntüleyici | Executive rapor Görüntüleyicisi
 
-Müşteriler panosu, sizin için Office, Azure, Dynamics vb. gibi bulut ürünlerini almış veya sizin için bu ürünleri kiracılar içinde dağıtmak ve yönetmek için kullandığınız müşterilerin verilerini sunar. 
+Müşteriler panosu, Office, Azure ve Dynamics gibi bulut ürünlerini almış olan müşterilerinizin verilerini sunar. veya sizin için bu ürünleri kiracılar içinde dağıtmak ve yönetmek için kullanılır. 
  
 Müşteriler Panosu aşağıdaki bölümlere sahiptir: 
 
@@ -34,62 +34,62 @@ Müşteriler Panosu aşağıdaki bölümlere sahiptir:
 
 ## <a name="summary"></a>Özet
 
-Özet bölümü, müşterilerinizle ilgili müşteriler, etkin müşteriler, abonelikler, müşteriler, eklenen müşteriler ve müşteriler gibi çeşitli KPI 'lerin bir anlık görüntü görünümünü sunar. Sayfa düzeyi filtreleri her bölüm için geçerlidir.
+Özet bölümü müşterileri, etkin müşterileri, abonelikleri, müşteriler eklenen müşterileri, müşteriler tarafından yapılan müşterileri ve müşterilerin her ürüne göre müşterileri gibi çeşitli ana performans göstergelerinin (KPI) bir anlık görüntü görünümünü sunar. Sayfa düzeyi filtreleri her bölüm için geçerlidir.
 
 :::image type="content" source="images/pci/customerproduct.png" alt-text="Müşteriler Özet panosunda, çubuk grafikler ve müşterilerin sayısı etkin, son eklenen, kaybolan/veya belirli bir ürün tarafından gösterilir.":::
 
 ### <a name="customers"></a>Müşteriler
 
-- Kuruluşunuzun, Office, Azure, Dynamics vb. gibi tüm bulut ürünlerinde farklı atfı türleri aracılığıyla ilişkilendirildiği tüm müşterilerin geçerli sayısı. Etkin durumdaki en az bir aboneliğiniz varsa, müşteri sayılır.  
+- Kuruluşunuzun, Office, Azure ve Dynamics gibi tüm bulut ürünlerinde farklı atfı türleri aracılığıyla ilişkilendirildiği tüm müşterilerin geçerli sayısı. Etkin durumdaki en az bir aboneliğiniz varsa, müşteri sayılır.  
 - Seçilen tarih aralığında müşterilerin% ' i reddetme 
 - Mikro grafik, müşterilerin seçili tarih aralığında sayımında bir ay boyunca aylık bir eğilim sunar
 
 ### <a name="active-customers"></a>Etkin müşteriler
 
-- Herhangi bir bulut ürününde etkin kullanım gibi etkin ürün kullanımı olan müşterilerin geçerli sayısı.
-- Seçili dönemde etkin müşterilerin büyüme veya reddetme oranı
-- Mikro grafik, etkin müşterilerin seçili tarih aralığına göre aylara göre bir eğilim gösterir.
+- Herhangi bir bulut ürününde etkin kullanım gibi etkin ürün kullanımı olan geçerli müşteri sayısı.
+- Seçilen dönemde etkin müşterilerin% büyüme veya reddetme yüzdesi
+- Mikro grafik, seçilen tarih aralığında etkin müşterilerin sayından aya göre aylık bir eğilim gösterir.
 
 ### <a name="customers-added"></a>Eklenen müşteriler
 
-- Seçilen zaman dönemi boyunca eklenen tüm müşterilerin sayısı.
-- Seçilen aralık sırasında eklenen müşterilerin büyüme veya reddetme oranı.
-- Mikro grafik, seçilen tarih aralığına eklenen müşterilerin aylara göre aylık eğilimini gösterir.
+- Seçilen dönemde eklenen tüm müşterilerin sayısı.
+- Seçilen sate aralığında eklenen müşterilerin büyüme veya reddetme yüzdesi.
+- Mikro grafik, seçilen tarih aralığı boyunca eklenen müşterilerin ayda bir eğilimini gösterir.
 
-### <a name="customers-churned"></a>Müşterilerde bir aksıma oldu
-- Seçilen zaman dönemi boyunca her ay daha fazla zaman alan tüm müşterilerin sayısı. Müşterinin etkin durumu olan tek bir aboneliği yoksa müşteri kayıp olarak kabul edilir. 
-- Seçilen tarih aralığındaki müşterilerin oranı düştü 
-- Mikro grafik, seçilen zaman dönemi boyunca verim alan müşterilerin aylık eğilimini gösterir 
+### <a name="customers-churned"></a>Müşteriler tarafından kullanılan
+- Seçilen dönemde her ay tüm müşterilerin sayısı. Müşterinin etkin durumu olan tek bir aboneliği yoksa, bir müşteri kaybedilmez olarak kabul edilir. 
+- Seçilen tarih aralığı boyunca kullanılan müşterilerin yüzdesi 
+- Mikro grafik, seçilen zaman dilimi boyunca geçen müşterilerin aylık eğilimi eğilimlerini gösterir 
  
 ### <a name="customers-by-products"></a>Ürünlere göre müşteriler
 
-- O365, Azure, Dynamics gibi çeşitli Bulut ürünlerine dağıtılmış olan müşterilerin geçerli sayısı.  
+- Office 365, Azure ve Dynamics gibi çeşitli bulut ürünlerinde dağıtılan müşterilerin güncel sayısı.  
 
-## <a name="geographical-spread-of-your-customers"></a>Müşterilerin coğrafi olarak yayılması
+## <a name="geographical-spread-of-your-customers"></a>Müşterilerinizin coğrafi yayılmasının
 
-Seçilen tarih aralığında yeni eklenen geçerli müşterilerin, geçerli etkin müşterilerin ve müşterilerin sayısı, müşterinin ülkesi kullanılarak coğrafi olarak eşlenmiştir. Ölçümün altında görüntülenen yüzdeler, söz konusu ölçümün Toplam ülkesi için yüzde katkı yüzdesini belirtir. Haritanın üzerine gelerek ilgili ülkenin toplam, etkin ve yeni müşterilerini görüntüabilirsiniz. Haritanın konumunu yakınlaştırmak için kılavuzda bir ülke arayabilir ve bu ülkeyi seçin. Haritada Giriş düğmesini seçerek **özgün görünüme** geri dönebilirsiniz. Kılavuzda tüm sütunlar sıralanabilir.  
+Seçilen tarih aralığında yeni eklenen geçerli müşteri sayısı, geçerli etkin müşteriler ve müşteriler, müşterinin ülkesi kullanılarak coğrafi olarak eşleştirilir. Ölçümün altında görüntülenen yüzdeler, bu ölçüm için toplam ülkenin yüzde katkısını gösterir. Bu ülkenin toplam, etkin ve yeni müşterilerini görüntülemek için haritada üzerine gelebilmeniz gerekir. Haritada konum yakınlaştırmak için kılavuzda bir ülke arayabilir ve seçebilirsiniz. Haritadaki **giriş** düğmesini seçerek özgün görünüme dönün. Kılavuzdaki tüm sütunlar sıralanabilir.  
 
-:::image type="content" source="images/pci/customersgeo.png" alt-text="Coğrafyaya İş Ortağı Merkezi Insights Müşteri raporunun ekran görüntüsü, bölgeye göre toplam, eklenen ve yeni müşterilerin dünya haritasını ve listesini gösterir.":::
+:::image type="content" source="images/pci/customersgeo.png" alt-text="Coğrafya tarafından Iş Ortağı Merkezi öngörüleri müşteri raporu, bölgelere göre dünya haritasını ve toplam, eklenen ve yeni müşterilerin listesini gösterir.":::
 
-## <a name="customer-adds-and-churns"></a>Müşteri ekler ve veri verisi ekler
+## <a name="customer-adds-and-churns"></a>Müşteri eklemeleri ve churns
 
-Seçilen tarih aralığı için yeni, mevcut ve verim verisi alınarak dökümünü alan müşterilerin eğilimi. X ekseni seçilen tarih aralığının aylarını, Y ekseni ise müşterilerin sayısını temsil eder. Verim verisi alan müşteriler Y Ekseninin negatif ölçeğinde temsil edildi. Yığılmış sütun grafik, ay için yeni, mevcut ve verim alan müşterilerin ayrılmalarını gösterir. Göstergedeki öğeleri seçerek sütun grafiğini belirli yığın öğeleriyle yeniden oluşturabilirsiniz. Grafiği belirli bir süre yakınlaştırmak için grafiğin üst kısmında kaydırıcıdan faydalanabilirsiniz. 
+Seçili tarih aralığı için yeni, mevcut ve yerleşik olarak dökümdeki müşterilerin eğilimi. X ekseni, seçilen tarih aralığının ve Y ekseninin, müşteriler sayısını temsil eden ayları temsil eder. Tek başına müşteriler, Y ekseninin negatif ölçeğinde temsil edilir. Yığılmış sütun grafiği, aya ait yeni, mevcut ve en fazla müşterilerin dağılımını gösterir. Göstergede olanları seçerek sütun grafiğini belirli yığın öğeleriyle yeniden oluşturabilirsiniz. Belirli bir döneme yakınlaştırmak için grafiğin üstündeki kaydırıcıyı kullanabilirsiniz. 
 
-:::image type="content" source="images/pci/customerslost.png" alt-text="Çubuk İş Ortağı Merkezi içgörüler Müşteri raporunun ekran görüntüsü, belirli bir süre içinde eklenen ve kaybolan veya kaybedilen müşteri sayısını gösterir.":::
+:::image type="content" source="images/pci/customerslost.png" alt-text="Iş Ortağı Merkezi öngörüleri müşteri raporunun çubuk grafik görüntüsü, belirli bir süre boyunca eklenen ve kaybolan veya ortaya geçen müşterilerin sayısını gösterir.":::
 
 ## <a name="customer-distribution"></a>Müşteri dağıtımı
 
-Geçerli müşterinizin MPN konumlarınızı, müşteri segmentlerinizi, satış kanalınızı/Azure fiyatlandırma modelinizi ve adisyon türünü (örneğin, DPOR, DAP) göre dökümü. Bu kategorilere göre dökümü görüntülemek için grafiğin üzerindeki ilgili sekmeleri seçin. Gösterge öğelerini seçerek/belirli boyutları seçerek grafiği yeniden oluşturabilirsiniz. 
+Geçerli müşterilerinizin Microsoft İş Ortağı Ağı (MPN) konumlarınıza, müşteri segmentlerine, Satış kanalına/Azure fiyatlandırma modeline ve atısyon türüne göre dökümünü yapın. Bu kategorilerin dökümünü görüntülemek için grafiğin üzerindeki ilgili sekmeleri seçin. Gösterge öğelerini seçerek belirli boyutları seçerek/seçerek grafiği yeniden oluşturabilirsiniz. 
 
 ## <a name="customers-by-products"></a>Ürünlere göre müşteriler
 
-Geçerli müşteri saylarınızı ürünlere ve SKUS'lara/planlara göre çözümleme. Ürün kesme pasta grafiğinde bir ürün seçerek SKUS'lara/planlara göre ayrılmayı yanındaki grafikte görüntüebilirsiniz.
+Ürünlerin ve SKU 'Ların/planların geçerli müşterilerinin sayımının dökümünü yapın. Ürünün yanında bulunan SKU 'Ların/planların ölçeğini görüntülemek için ürün yukarı grafik pasta grafiğinde bir ürün seçin.
 
-:::image type="content" source="images/pci/customerbyprod.png" alt-text="Ürüne göre müşteriler raporunun ekran görüntüsü, biri ürüne göre müşteri dökümü, diğeri SKU'ya göre müşteri dökümü olan iki radyal grafik gösterir.":::
+:::image type="content" source="images/pci/customerbyprod.png" alt-text="Ürün raporuna göre müşterilerin ekran görüntüsü, bir ürüne göre müşteri dökümlerinden biri olan diğeri SKU 'ya göre müşteri dökümlerinden oluşan iki Radyal grafiği gösterir.":::
 
 ## <a name="customer-distribution-trend"></a>Müşteri dağıtım eğilimi 
 
-Pazarlara, segmentlere, MPN konumlarına ve edinilen ürünlere göre seçilen tarih aralığındaki müşteri dağılımının aylık eğilimi. Bu kategorilere göre eğilimi görüntülemek için grafikteki ilgili sekmeleri seçin. X ekseni seçtiğiniz tarih aralığı için ayları temsil eder ve Y ekseni seçili kategori (sekme seçimi) için müşteri sayısına sahiptir. Her yığının üzerine yığar değerleri görüntülemek için grafik sütunlarında üzerine gelebilmeniz gerekir. Belirli bir döneme yakınlaştırmak için grafiğin üstündeki kaydırıcıyı kullanabilirsiniz.   
+Pazarlara, segmentlere, MPN konumlarınıza ve elde ettikleri ürünlere göre seçilen tarih aralığı boyunca müşterilerinizin dağıtımına yönelik aylık eğilim. Bu kategorilere göre eğilimi görüntülemek için grafikteki ilgili sekmeleri seçin. X ekseni seçtiğiniz tarih aralığı için ayları temsil eder ve Y ekseni seçili kategori (sekme seçimi) için müşteri sayısına sahiptir. Her yığının üzerine yığar değerleri görüntülemek için grafik sütunlarında üzerine gelebilmeniz gerekir. Belirli bir döneme yakınlaştırmak için grafiğin üstündeki kaydırıcıyı kullanabilirsiniz.   
 
 :::image type="content" source="images/pci/customerdistri.png" alt-text="Pazara, segmente, iş ortağı konumuna veya ürünlere göre görüntüleyebileceğiniz çubuk grafiklerini gösteren müşteri dağıtım eğilimi raporunun ekran görüntüsü.":::
 

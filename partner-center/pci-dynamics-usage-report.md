@@ -8,18 +8,18 @@ description: Müşterileriniz için satmanız veya yönetmeniz gereken Dynamics 
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: 2c0b90fdeaf8bf1715d89221959aeb49e186d150
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: 76a589037817707378e39f4301313eee7284422a
+ms.sourcegitcommit: 4118de5cf55d1bd618ecca13c1b2ec59d80f43db
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112277513"
+ms.lasthandoff: 06/24/2021
+ms.locfileid: "112565466"
 ---
 # <a name="dynamics-usage-report-available-from-the-partner-center-insights-dashboard"></a>Iş Ortağı Merkezi Öngörüler panosundan Dynamics kullanım raporu
 
 **Uygun roller**: genel yönetici | Yönetici Aracısı | Rapor Görüntüleyici | Executive rapor Görüntüleyicisi
 
-Dynamics kullanım raporu, müşterileriniz için satmış olduğunuz veya yönettiğiniz Dynamics 365 abonelikleri için kullanım verileri sağlar. Dynamics kullanım raporundan aşağıdaki bölümleri görüntüleyebilirsiniz.
+Dynamics kullanım raporu, müşterileriniz için satmış olduğunuz veya yönettiğiniz Microsoft Dynamics 365 abonelikleri için kullanım verileri sağlar. Dynamics kullanım raporundan aşağıdaki bölümleri görüntüleyebilirsiniz.
 
 - Özet
 - Coğrafya tarafından Dynamics kullanımı
@@ -28,7 +28,7 @@ Dynamics kullanım raporu, müşterileriniz için satmış olduğunuz veya yöne
 - Dynamics kullanım dağıtımı
 
  > [!NOTE]
- > Bu rapor, Öngörüler panosundan kullanılabilir. Bu raporu görüntülemek için Iş Ortağı Merkezi 'nde genel yönetici, hesap yöneticisi, rapor Görüntüleyicisi veya Executive rapor Görüntüleyicisi gibi belirli bir rol atanması gerekir. Daha fazla bilgi için şirketinizin genel Yöneticisi ' ne bakın. bu rapordaki belirli veri türleri yalnızca, Executive rapor Görüntüleyicisi ayrıcalıklarına sahip kullanıcılar tarafından kullanılabilir.
+ > Bu rapor, Öngörüler panosundan kullanılabilir. Bu raporu görüntülemek için Iş Ortağı Merkezi 'nde genel yönetici, hesap yöneticisi, rapor Görüntüleyicisi veya Executive rapor Görüntüleyicisi gibi belirli bir rol atanması gerekir. Daha fazla bilgi için şirketinizin genel Yöneticisi ' ne bakın. Bu rapordaki belirli veri türleri yalnızca, Executive rapor Görüntüleyicisi ayrıcalıklarına sahip kullanıcılar tarafından kullanılabilir.
 
 ## <a name="summary"></a>Özet
 

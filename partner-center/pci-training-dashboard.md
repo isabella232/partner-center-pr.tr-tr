@@ -9,12 +9,12 @@ author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6af4f5f82c145aa932c03a176dbf8592d095a930
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: 37a4f6cdce2b77f194fc91e0490e1c87ee137b43
+ms.sourcegitcommit: 4118de5cf55d1bd618ecca13c1b2ec59d80f43db
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112276289"
+ms.lasthandoff: 06/24/2021
+ms.locfileid: "112565109"
 ---
 # <a name="trainings-dashboard"></a>Eğitimler panosu
 
@@ -28,7 +28,7 @@ Eğitimler panosu, şirket çalışanları şirketi tarafından alınan sertifik
 - Etkinlik ayrıntıları
 
 >[!NOTE] 
->Bu rapor, İş Ortağı Merkezi'daki Insights merkezi altında İş Ortağı Merkezi. Bu raporu görüntülemek için Size Rapor Görüntüleyicisi veya Yönetici Rapor Görüntüleyicisi rolü atanmış olması gerekir. Bu raporun birkaç bölümü yalnızca Yönetici Rapor Görüntüleyicileri olan kullanıcılar tarafından görülebilir. Insights raporlarına yönelik erişim denetimi hakkında daha fazla bilgi için bkz. [PCI rolleri.](pci-roles.md)
+>Bu rapor, İş Ortağı Merkezi'daki Insights merkezi altında İş Ortağı Merkezi. Bu raporu görüntülemek için Size Rapor görüntüleyicisi veya Yönetici rapor görüntüleyicisi rolü atanmalı. Bu raporun birkaç bölümü yalnızca Yönetici Rapor Görüntüleyicileri olan kullanıcılar tarafından görülebilir. Insights raporlarına yönelik erişim denetimi hakkında daha fazla bilgi için bkz. [PCI rolleri.](pci-roles.md)
 
 ## <a name="summary"></a>Özet
 

@@ -9,18 +9,18 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8ab1ec5001e3b21d9661d0db0e7b8e51f12acda2
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: e5500e975f5fa8baea91a0db55896426983d19a8
+ms.sourcegitcommit: 4118de5cf55d1bd618ecca13c1b2ec59d80f43db
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112277479"
+ms.lasthandoff: 06/24/2021
+ms.locfileid: "112565364"
 ---
 # <a name="product-licenses-report-in-the-partner-center-insights-dashboard"></a>Partner Center Insights panosundaki ürün lisansları raporu
 
 **Uygun roller**: genel yönetici | Yönetici Aracısı | Rapor Görüntüleyici | Executive rapor Görüntüleyicisi
 
-Ürün lisansları raporu, Office 365, Dynamics, Microsoft 365, Power BI ve diğerleri gibi lisans tabanlı bulut ürünleri için lisans analizi sunar. Burada sunulan analiz, satmış olduğunuz veya müşterileriniz için yönettiğiniz lisansların kullanımıyla ilişkilendirilir. Ürün lisansları raporundan aşağıdaki bölümleri görüntüleyebilirsiniz.
+Ürün lisansları raporu, Office 365, Dynamics, Microsoft 365, Microsoft Power BI ve diğerleri gibi lisans tabanlı bulut ürünleri için lisans analizi sunar. Burada sunulan analiz, satmış olduğunuz veya müşterileriniz için yönettiğiniz lisansların kullanımıyla ilişkilendirilir. Ürün lisansları raporundan aşağıdaki bölümleri görüntüleyebilirsiniz.
 
 - Özet
 - Lisansların coğrafi yayılmasının
@@ -28,7 +28,7 @@ ms.locfileid: "112277479"
 - İş ortağı konumlarına, Satış kanalına, SKU 'Lara, iş ortağı iliştirme türüne, segmente göre lisans dağıtımı
 
  > [!NOTE]
- > Bu rapor, Öngörüler panosundan kullanılabilir. Bu raporu görüntülemek için Iş Ortağı Merkezi 'nde genel yönetici, hesap yöneticisi, rapor Görüntüleyicisi veya Executive rapor Görüntüleyicisi gibi belirli bir rol atanması gerekir. Daha fazla bilgi için şirketinizin genel Yöneticisi ' ne bakın. bu rapordaki belirli veri türleri yalnızca, Executive rapor Görüntüleyicisi ayrıcalıklarına sahip kullanıcılar tarafından kullanılabilir.
+ > Bu rapor, Öngörüler panosundan kullanılabilir. Bu raporu görüntülemek için Iş Ortağı Merkezi 'nde genel yönetici, hesap yöneticisi, rapor Görüntüleyicisi veya Executive rapor Görüntüleyicisi gibi belirli bir rol atanması gerekir. Daha fazla bilgi için şirketinizin genel Yöneticisi ' ne bakın. Bu rapordaki belirli veri türleri, yalnızca Executive Report ıewer ayrıcalıklarına sahip olan kullanıcılar tarafından da kullanılabilir.
 
 ## <a name="summary"></a>Özet
 
@@ -39,7 +39,7 @@ ms.locfileid: "112277479"
 Özetin her bölümü hakkında daha fazla bilgi için aşağıya bakın:
 
 - Lisanslarının 
-  - Office 365, Dynamics, Microsoft 365, Power BI ve diğerleri gibi lisans tabanlı bulut ürünleri için sizin tarafınızdan satılan veya yönetilen tüm lisansların geçerli sayısı.
+  - Office 365, Dynamics, Microsoft 365, Microsoft Power BI ve diğerleri gibi lisans tabanlı bulut ürünleri için sizin tarafınızdan satılan veya yönetilen tüm lisansların geçerli sayısı.
   - Bu lisansların seçili tarih aralığında büyüme veya reddetme yüzdesi.
   - Lisans eğilimi mikro grafik: mikro grafik, seçilen tarih aralığı boyunca lisans sayımlarının ay içinde eğilimini gösterir
 
@@ -67,7 +67,7 @@ Haritada konum yakınlaştırmak için kılavuzda bir ülke arayabilir ve seçeb
 
 Bu görünümde, seçilen tarih aralığında eklenen lisansların eğilimi gösterilmektedir. 
 
-Bu eğilimi ürün ve hizmet/iş yüküne göre sunmak için, ekranın en üstündeki bir ürünü ve SKU 'Lar açılan listesinden bir hizmet/iş yükünü seçin.
+Bu eğilimi ürün ve hizmet/iş yüküne göre sunmak için, ekranın en üstündeki bir ürünü ve **SKU 'lar** açılan listesinden bir hizmet/iş yükünü seçin.
 
 X ekseni, seçilen tarih aralığının ayları temsil eder. Y ekseni eklenen lisansların sayısını temsil eder. Belirli bir dönemi yakınlaştırmak için grafiğin üstündeki kaydırıcıyı kullanın.
 

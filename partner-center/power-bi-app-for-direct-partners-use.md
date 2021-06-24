@@ -1,87 +1,87 @@
 ---
-title: İş Ortağı Merkezi Analytics'i Power BI
+title: Power BI için Iş Ortağı Merkezi analizlerini kullanma
 ms.topic: article
 ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Power BI için İş Ortağı Merkezi Analiz uygulaması kullanarak iş verilerinizi görüntülemeyi öğrenin (CSP'de doğrudan iş ortakları için).
+description: Power BI için Partner Center Analytics uygulamasını kullanarak iş verilerinizi görüntülemeyi öğrenin (bulut çözümü sağlayıcısı (CSP) programındaki doğrudan iş ortakları için).
 fwlink: https://go.microsoft.com/fwlink/?linkid=852581
 author: v-sumukh
 ms.author: v-sumukh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 96fe57f6e89928a69051c2e201c444882500b844
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 95eb018a3284d2de98c0ce6a9cd0ce6299d5571a
+ms.sourcegitcommit: 4118de5cf55d1bd618ecca13c1b2ec59d80f43db
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855038"
+ms.lasthandoff: 06/24/2021
+ms.locfileid: "112564990"
 ---
-# <a name="view-your-business-data-with-the-partner-center-analytics-app-for-microsoft-power-bi"></a>Microsoft Power BI için İş Ortağı Merkezi Analytics uygulamasıyla iş verilerinizi Power BI
+# <a name="view-your-business-data-with-the-partner-center-analytics-app-for-microsoft-power-bi"></a>İş verilerinizi Microsoft için Partner Center Analytics uygulaması ile görüntüleyin Power BI
 
 
 
-**Uygun roller:** Genel yönetici | Kullanıcı yönetimi yönetici | Satış aracısı | Yönetici aracısı
+**Uygun roller**: genel yönetici | Kullanıcı Yönetimi Yöneticisi | Satış Aracısı | Yönetim Aracısı
 
-## <a name="view-your-business-data"></a>İş verilerinizi görüntüleme
+## <a name="view-your-business-data"></a>İş verilerinizi görüntüleyin
 
-Aşağıdakiler dahil olmak üzere iş verilerinizin görsel bir Power BI için İş Ortağı Merkezi Analiz uygulaması elde elde Power BI için İş Ortağı Merkezi Analiz uygulaması:
+Aşağıdakiler de dahil olmak üzere Microsoft Power BI için Partner Center Analytics uygulaması ile iş verilerinizin görsel bir temsilini alın:
 
-- Müşteri tabanınızı, aboneliklerinizi ve lisanslarınızı büyüme
+- Müşteri tabanınız, abonelikleriniz ve lisanslarınızın büyümesi
 
-- Office 365, Microsoft Dynamics ve Microsoft Azure kullanımı
+- Office 365, Microsoft Dynamics ve Microsoft Azure ürünlerinin kullanımı
 
-- Son 60 gün boyunca her Azure aboneliğinde tarifeli her kaynağın günlük tüketim birimleri
+- Son 60 güne ait her bir Azure aboneliğinde ölçülen her kaynak için günlük tüketim birimleri
 
 - Tahmini maliyet (en son fiyat kartına göre)
 
-- Müşteri başına dahil olmak üzere veri kümelerini dışarı aktarma ve özel raporlar oluşturma olanağı.
+- Veri kümelerini dışarı aktarma ve müşteri başına dahil özel raporlar oluşturma özelliği.
 
-### <a name="about-the-partner-center-analytics-app-preview-release"></a>İş Ortağı Merkezi Analytics uygulaması önizleme sürümü hakkında
+### <a name="about-the-partner-center-analytics-app-preview-release"></a>Iş ortağı merkezi analizi uygulama Önizleme sürümü hakkında
 
-- Bu uygulama, yalnızca Bulut Çözümü Sağlayıcısı iş ortaklarına yöneliktir. CSP'de (örneğin dolaylı kurumsal bayiler) diğer iş ortakları oturum açmayacak.
+- Bu uygulama yalnızca bulut çözümü sağlayıcısı (CSP) programındaki doğrudan iş ortakları içindir. CSP 'deki diğer iş ortakları (örneğin, dolaylı satıcılar) oturum açamaz.
 
-- Tahmini maliyetler vergi öncesi faturalama/fatura verileridir ve yasal olarak bağlayıcı değildir. Tahmini maliyetler yalnızca veri içgörüleri için kullanılır.
+- Tüm tahmini maliyetler ön vergi faturalandırma/fatura verileri olduğundan, yasal olmayan bir şekilde bağlanmamalıdır. Tahmini maliyetlerin yalnızca veri öngörüleri için kullanılması amaçlanmıştır.
 
-- Müşteri bilgileri abonelikleri temel alan bilgilerdir. Kısa süre önce hesap oluşturduğunuz ancak henüz abonelikleri olmayan müşteriler sayılara dahil değildir.
+- Müşteri bilgileri, abonelikleri temel alır. Son zamanlarda hesap oluşturduğunuz, ancak henüz abonelikleri olmayan müşteriler, sayımlar halinde dahil değildir.
 
-- Tahmini maliyet, CSP fiyatlandırması temel alınan en son fiyat kartına göredir.
+- Tahmini maliyet, CSP fiyatlandırmasını temel alan en son fiyat kartını temel alır.
 
-- Günler takvim günleridir.
+- Gün sayısı takvim gündür.
 
-### <a name="business-insights-report"></a>Business Insights raporu
+### <a name="business-insights-report"></a>İş öngörüleri raporu
 
-- **Müşteri kiracıları:** Abonelik satın alan müşterilerin farklı Azure AD kiracılarının sayısı
+- **Müşteri kiracılar**: abonelikleri satın almış olan müşterilerin ayrı Azure Active Directory (Azure AD) kiracılarının sayısı
 
-- **Yeni (son 30 gün)**: Son 30 gün içinde en az bir abonelik satın alan yeni müşteriler
+- **Yeni (son 30 gün)**: son 30 gün içinde en az bir abonelik satın alan yeni müşteriler
 
-- **Churn (son 30 gün):**"etkin", "yetkisiz kullanım" veya "devre dışı" abonelikleri olmayan müşteriler
+- **Karmaşıklık (son 30 gün)**: "etkin", "yetkisiz kullanım" veya "devre dışı" abonelikler olmadan müşteriler
 
-- **Yeni (son 24 saat)**: Son 24 saat içinde en az bir abonelik satın alan yeni müşteriler
+- **Yeni (son 24 saat)**: son 24 saat içinde en az bir abonelik satın alan yeni müşteriler
 
-- **Son 12 aya** göre tahmini aylık maliyet: Son 12 aylık dönemde aylık olarak toplanan tahmini vergi öncesi fatura dolar tutarı eğilimi
+- **Son 12 ay Içinde tahmini aylık maliyet**: aylık aylık, son 12 ay boyunca aylık olarak toplanan tahmini vergi öncesi fatura doları tutarının aylık eğilimi
 
-- **Son 12 aya** göre tahmini ürün maliyeti: Satılan ürünler, son 12 aylık dönemde toplanmış tahmini vergi öncesi fatura dolar tutarına göre sıralanmış. Bu durum en çok gelir getiren ürünleri gösterir.
+- **Son 12 ay içinde ürüne göre tahmini maliyet**: satılan ürünler, son 12 ay süresince toplanan tahmini vergi öncesi fatura doları tutarına göre sıralanır. Bu durum, en fazla gelir getiren en popüler ürünleri gösterir.
 
-- **Son 12** ay boyunca müşteriler: Son 12 aylık dönemde aylık olarak toplanan yeni müşterilerin ve veri düşüşlerinin aylara göre eğilimi
+- **Son 12 ay Içindeki müşteriler**: aylık son 12 ay boyunca aylık olarak toplanan yeni müşteriler ve değişim müşterilerinin aylık ayı eğilimi
 
-- **Son 12 ay** içinde müşteriye göre tahmini maliyet: Müşteriler, son 12 aylık dönemde toplanan tahmini vergi öncesi fatura dolar tutarına göre sıralanmış. Bu durum, en çok gelir elde edilen müşterilerin olduğunu gösterir.
+- **Son 12 ay boyunca müşteriye göre tahmini maliyet**: müşteriler, son 12 ay süresince toplanan tahmini vergi öncesi fatura dolar tutarına göre sıralanır. Bu durum, en çok gelir getiren popüler müşterileri gösterir.
 
-- **Ürüne göre müşteri sayısı:** Satılan ürünler ilişkili müşterilere göre sıralanmış. Bu durum, müşterilerin çoğuna en çok satılan ürünleri gösterir.
+- **Ürüne göre müşteri sayısı**: satılan ürünler, ilişkili müşterilere göre sıralanır. Bu durum, çoğu müşteriye satılan en popüler ürünleri gösterir.
 
-### <a name="subscription-insights-report"></a>Subscription Insights raporu
+### <a name="subscription-insights-report"></a>Abonelik öngörüleri raporu
 
-- **Abonelik durumu:**
+- **Abonelik durumu**:
 
-- Etkin: "etkin" veya "yetkisiz kullanım" durumuna sahip abonelikler
+- Etkin: "etkin" ya da "yetkisiz kullanım" durumuna ait abonelikler
 
-  - Askıya alındı: "devre dışı" duruma ait abonelikler
+  - Askıya alındı: "devre dışı" durumuna ait abonelikler
 
-  - Sağlamayı geri alındı: "sağlamayı geri alındı" veya "süresi doldu" durumuna ait abonelikler
+  - Serbest sağlanmış: "önceden sağlanmış" veya "süre sonu" durumuna ait abonelikler
 
-- **Süre sonu durumu:**
+- **Süre sonu durumu**:
 
-  - Süresi Doldu: Süresi dolmuş abonelikler (aboneliğin bitiş tarihi geçmiştir)
+  - Süresi geçti: süresi zaten geçmiş abonelikler (abonelik bitiş tarihi geçmiş)
 
   - 30 gün sonra süresi doluyor: 30 gün sonra süresi dolacak abonelikler (abonelik bitiş tarihi sonraki 30 gün sonra olduğunda)
 
@@ -149,16 +149,16 @@ Aşağıdakiler dahil olmak üzere iş verilerinizin görsel bir Power BI için 
 
 - **Son 60 gün içinde abonelik tarafından tahmini kullanım maliyeti**: son 60 günün dönemi boyunca toplanan tahmini vergi öncesi fatura doları tutarına göre kullanım tabanlı abonelikler.
 
-- **Harcama bütçesine göre müşteri tahmini** kullanım maliyeti: Müşteriler, geçerli kullanım harcaması bütçesinin eşiğini (%100) aşan yüzdesine göre sıralanmış.
+- **Bütçe harcamasına göre müşterinin tahmini kullanım maliyeti**: müşteriler, geçerli kullanım harcama bütçesi yüzdesine göre sıralanır (%100%).
 
-### <a name="azure-resource-usage-report"></a>Azure Kaynak Kullanımı raporu:
+### <a name="azure-resource-usage-report"></a>Azure Kaynak kullanımı raporu:
 
-- **Azure kaynaklarının seçilen dönem** için güne göre kullanımı: Son 60 gün içindeki seçili dönem için her kullanım tabanlı abonelikte tarifeli her kaynak için günlük tüketim birimleri.
+- **Seçili dönem için güne göre Azure kaynakları kullanımı**: son 60 gün içindeki seçili dönem için her bir kullanım tabanlı abonelikte her bir ölçülen kaynak için günlük tüketim birimleri.
 
-- **Seçilen dönem için Azure** kaynaklarının tahmini kullanım maliyeti: Son 60 gün içindeki belirli bir dönem için her kullanım tabanlı abonelikte tarifeli her kaynağın en son fiyat kartına göre tahmini maliyet. 
+- **Seçili dönem Için Azure kaynaklarının tahmini kullanım maliyeti**: son 60 gün içindeki seçili dönem için her bir kullanım tabanlı abonelikte her bir ölçülen kaynak için en son fiyat kartına göre tahmini maliyet. 
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-- [İş Ortağı Merkezi için Power BI Analytics'e genel bakış](power-bi-app-for-direct-partners.md)
+- [Power BI uygulamasına genel bakış için iş ortağı merkezi analizi](power-bi-app-for-direct-partners.md)
 
 - [Microsoft Power BI için İş Ortağı Merkezi Analizi uygulamasını yükleme ve önizleme](power-bi-app-for-direct-partners-install.md)

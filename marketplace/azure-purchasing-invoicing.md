@@ -1,82 +1,84 @@
 ---
-title: Azure Marketi 'nden yazılım ve çözüm satın alma
-description: Azure Marketi 'nde yazılım satın alımları ve yönetimini kolaylaştıran ve kolaylaştıran araçlar hakkında bilgi edinin.
+title: Yazılım ve çözüm satın alma Azure Market
+description: Yazılım satın alma ve yönetim süreçlerini basitleştirerek kolaylaştıran araçlar hakkında bilgi Azure Market.
 ms.service: marketplace-customer
 ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
-ms.date: 01/18/2021
-ms.openlocfilehash: 11145280aad1ecd9777ec2fb7540e7d6479acfae
-ms.sourcegitcommit: bce54ddb9fff7332a03d6aa228ba9414a87d76b7
+ms.date: 06/22/2021
+ms.openlocfilehash: 0e79674825f8ab28fa4b0e68dd01c9c1b7e8c27a
+ms.sourcegitcommit: 4118de5cf55d1bd618ecca13c1b2ec59d80f43db
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/22/2021
-ms.locfileid: "112431556"
+ms.lasthandoff: 06/24/2021
+ms.locfileid: "112565194"
 ---
-# <a name="azure-marketplace-purchasing"></a>Azure Marketi satın alma
+# <a name="azure-marketplace-purchasing"></a>Azure Market satın alma
 
-Azure Marketi, satın alma ilkesi satın alma, faturalama ve yönetme sürecini kolaylaştıran ve kolaylaştırmaya yönelik çeşitli araçlara ve özelliklere sahiptir.
+Azure Market satın alma, faturalama ve satın alma ilkesi yönetme sürecini basitleştiren ve kolaylaştıran çok sayıda araç ve özelik vardır.
 
 ## <a name="simplified-procurement"></a>Basitleştirilmiş tedarik
 
-Azure Market farklı satın alma seçenekleriyle tedarik sürecini basitleştirmenize yardımcı olur. Azure hesabınızla ilişkili bir kredi kartıyla ürün satın alırsanız, tüm satın alımlar tek bir faturada birleştirilir ve seçtiğiniz kredi kartına faturalandırılır. Büyük bir müşteriyseniz Kurumsal Anlaşma kullanarak satın alabilirsiniz. Bir EA ile, tüm yazılım satın alımları Azure faturanızda otomatik olarak eklenir. Faturanızda önce Azure kullanım ücretleri ve onun ardından Azure Market ücretleri yer alır.
+Azure Market farklı satın alma seçenekleriyle tedarik sürecini basitleştirmenize yardımcı olur. Azure hesabınızla ilişkili bir kredi kartı kullanarak ürün satın alırsanız, tüm satın almalar tek bir faturada birleştirilmiş olur ve tercihen kredi kartına faturalandırılır. Büyük bir müşteriysiniz, satın almak için bir Kurumsal Anlaşma. EA ile tüm yazılım satın almaları otomatik olarak Azure faturanıza dahil edilir. Faturanızda önce Azure kullanım ücretleri ve onun ardından Azure Market ücretleri yer alır.
 
-Azure Marketi aracılığıyla satın aldığınızda, tek tek satıcı ilişkilerini ve faturalarını yönetme karmaşıklığını ortadan kaldırmış olursunuz. Azure Market satın alımlarınızı ve Azure ücretlerinizi içeren, Microsoft 'un sunduğu tek bir birleştirilmiş aylık faturanız alırsınız.
+Satın alma Azure Market, tek tek satıcı ilişkilerini ve faturalarını yönetme karmaşıklığını ortadan kaldırmış oluruz. Microsoft'tan hem satın aldığınız satın almaları hem de Azure ücretlerinizi içeren Azure Market birleştirilmiş aylık fatura alırsiniz.
 
 ## <a name="permission-to-purchase"></a>Satın alma izni
 
-Doğru yazılım uygulamasını bulduktan sonra, satın alma işlemi basit olur. Bununla birlikte, Azure aboneliği içinde uygun izinlere ihtiyacınız olacaktır. Azure, [rol tabanlı Access Control](/azure/role-based-access-control/overview) (RBAC) modeli üzerinde çalıştığından, satın alma yapmak için hesabınızın **sahip** veya **katkıda bulunan** izinlerinin olması gerekir.
+Doğru yazılım uygulamasını buladıktan sonra satın alma işlemlerini tamamlamak oldukça kolaydır. Ancak, Azure aboneliği içinde uygun izinlere ihtiyacınız olacak. Azure rol tabanlı [bir](/azure/role-based-access-control/overview) Access Control (RBAC) modeli üzerinde çalışma  yaptığı  için, hesabınız satın alma için abonelik sahibi veya katkıda bulunan izinlerine ihtiyaç gösterir.
 
-Satın alma işlemini tamamlamadan önce, kullanıcının Azure kiracısında doğru yapılandırmaya sahip olduğundan emin olun. Bu, satın alma sırasında hataları önlemeye yardımcı olur.
+Satın alma işlemi tamamlamadan önce kullanıcının Azure kiracısı için doğru yapılandırmaya sahip olduğundan emin olun. Bu, satın alma sırasında hataları önlemeye yardımcı olur.
 
-Azure portal Azure Marketi deneyiminde satın almak istediğiniz uygulamayı bulun ve **Oluştur** veya **Ayarla + abone ol**' u seçin. Yeni çözümünüzü kullanabilmeniz için bazı bilgileri gerçekleştirmeniz istenecektir.
+Uygulama Azure Market deneyiminde Azure portal satın almak istediğiniz uygulamayı bulun ve Oluştur veya **Ayarla** + abone **ol'ı seçin.** Yeni çözümlerinizi kullanamadan önce bazı bilgileri tamamlamanız istenir.
 
 > [!CAUTION]
-> Özel Market 'e onay, bir çözümün temin ini göstermez.
+> Özel Market'e onay, çözümün tedariki için bir işaret değildir.
 
-:::image type="content" source="media/overview/offer-create-screen.png" alt-text="Teklif oluştur düğmesi.":::
+:::image type="content" source="media/overview/offer-create-screen.png" alt-text="Teklif Oluştur düğmesi.":::
 
 :::image type="content" source="media/overview/button-set-up-and-subscribe.png" alt-text="Ayarla + abone ol düğmesi.":::
 
-Azure Marketi çevrimiçi mağazasından bir çözüm dağıtmak istiyorsanız, ürün açıklaması sayfasında **Şimdi al** ' ı seçin ve ardından Azure hesabı kimlik bilgilerinizle oturum açın.
+Azure Market çevrimiçi mağazasından bir çözüm dağıtmak için ürün  açıklaması sayfasında Şimdi edinin'i seçin ve azure hesabı kimlik bilgilerinizle oturum açın.
 
-:::image type="content" source="media/overview/sign-in-to-azure-marketplace.png" alt-text="Azure Marketi oturum açma iletişim kutusu.":::
+:::image type="content" source="media/overview/sign-in-to-azure-marketplace.png" alt-text="Oturum Azure Market iletişim kutusu.":::
 
-Oturum açtıktan sonra, satın alımınızın tamamlanabilmesi için Azure portal ürüne yönlendirilirsiniz.
+Oturum açma işlemi tamamlandıktan sonra satın alma işleminizi tamamlamak için Azure portal ürüne yönlendirilmesi gerekir.
 
-## <a name="purchase-policy-management"></a>Satın alma ilkesi yönetimi
+## <a name="purchase-policy-management"></a>İlke yönetimi satın alma
 
-Microsoft, Azure abonelik Yöneticisi olarak faturalandırma profiliniz aracılığıyla kullanıcı satın alımlarınızı yönetmenizi sağlar. Üç seçenekten birini belirleyin:
+Microsoft, azure abonelik yöneticisi olarak faturalama profiliniz aracılığıyla kullanıcı satın almalarını yönetmenize olanak sağlar. Üç seçenekten birini belirleyin:
 
-- **Ücretsiz + ücretli** – kullanıcıların herhangi bir Azure Market yazılım uygulaması almasına izin verir.
-- **Ücretsiz** – kullanıcıların Azure Marketi 'nden yalnızca ücretsiz yazılım dağıtmaları için izin verir.
-- **Hayır** : kullanıcıların Azure Marketi 'nden herhangi bir yazılım dağıtmalarını engeller.
+- **Ücretsiz + Ücretli** – Kullanıcıların herhangi bir yazılım uygulamasına Azure Market sağlar.
+- **Ücretsiz** – Kullanıcıların yalnızca sanal ağlardan ücretsiz yazılım Azure Market.
+- **Hayır** – Kullanıcıların yazılımdan yazılım dağıtmasını Azure Market.
 
-Bu ayarlar, Azure aboneliğinize erişimi olan tüm kullanıcılar için geçerlidir. Bu, size Azure portal aracılığıyla BT satın alma özelliğini denetlemenize olanak tanır.
+Bu ayarlar, Azure aboneliğinize erişimi olan tüm kullanıcılar için geçerlidir ve bu sayede azure aboneliğiniz aracılığıyla IT tedarikini denetleme Azure portal.
 
-:::image type="content" source="media/overview/billing-profile-policy-settings.png" alt-text="BT tedarik Azure portal aracılığıyla denetleniyor.":::
+:::image type="content" source="media/overview/billing-profile-policy-settings.png" alt-text="Azure portal aracılığıyla IT tedarikini denetleme.":::
 
 ## <a name="cost-management"></a>Maliyet yönetimi
 
-Ürünleri Azure Marketi 'nden satın alırken, maliyetleri yönetmenize yardımcı olan Öngörüler elde etmek istersiniz. Azure maliyet yönetimi, satın aldığınız ürünlerle ilgili bilgileri görüntülemek için ücretsiz bir araçtır. Maliyet yönetimi 'ni kullanarak, zaman içinde hangi hizmetlerin para harcadığınızı ve bu maliyetlerin ayarladığınız bütçelerle nasıl izlendiklerine ilişkin ayrıntıları görebilirsiniz. Bütçeleri ayarlamaya ek olarak, raporlar zamanlayabilir ve abonelik maliyetlerini çözümleyebilirsiniz. [Maliyetleri analiz etme ve Azure maliyet yönetimi ile bütçeler oluşturma](/learn/modules/analyze-costs-create-budgets-azure-cost-management/)hakkında Microsoft Learn modülünü tamamlayarak Azure maliyet yönetimi hakkında daha fazla bilgi edinin.
+Ürün satın aldığınız Azure Market, maliyetleri yönetmenize yardımcı olacak içgörüler elde etmek istersiniz. Azure Maliyet Yönetimi satın aldığınız ürünlerle ilgili bilgileri görüntülemeye ilişkin ücretsiz bir araçtır. Maliyet Yönetimi'ne bakarak zaman içinde hangi hizmetlere para harcadığınız ve bu maliyetlerin ayar maliyetlerini nasıl takip ettiyebilirsiniz. Bütçe ayarlamaya ek olarak raporları zamanlamayı ve abonelik maliyetlerini analiz edebilirsiniz. Maliyetleri analiz etme ve Azure Maliyet Yönetimi bütçe oluşturma Microsoft Learn modülünü tamamlayarak daha [fazla bilgi Azure Maliyet Yönetimi.](/learn/modules/analyze-costs-create-budgets-azure-cost-management/)
 
 Azure Maliyet Yönetimi'nin altındaki maliyet analizi aracında Azure Market ücretlerinizi ve faturalarınızı görüntüleyebilirsiniz.
 
-:::image type="content" source="media/overview/azure-cost-management.png" alt-text="Satın alınan ürünlerinizle ilgili Öngörüler elde etmek için Azure maliyet yönetimi 'ni kullanın.":::
+:::image type="content" source="media/overview/azure-cost-management.png" alt-text="Satın Azure Maliyet Yönetimi içgörüler elde etmek için Azure Maliyet Yönetimi'i kullanın.":::
 
-## <a name="purchase-validation-checks"></a>Doğrulama denetimleri satın alma
+## <a name="purchase-validation-checks"></a>Satın alma doğrulama denetimleri
 
-Azure Marketi aracılığıyla bir teklif satın almak farklı nedenlerle başarısız olabilir. Bir satın alma için komut satırı arabirimi (CLı) kullanmanın, Azure Marketi 'nde kullanılamayan veya görünmeyen bir teklif satın almaya çalıştığınız için hatalara neden olma olasılığı yüksektir. Satın alma işlemi başarısız olmasına neden olabilecek denetimler aşağıda verilmiştir:
+Teklif satın alma Azure Market farklı nedenlerle başarısız olabilir. Satın alma için komut satırı arabirimini (CLI) kullanmak hatalara neden olma olasılığı daha fazladır çünkü bu teklifte kullanılabilir veya görünür olmayan bir teklif Azure Market. Satın almanın başarısız olmasına neden olan denetimler aşağıda ve ardından ve ardından ve bu denetimler yer amektedir:
 
-1. Abonelik bir Kurumsal Anlaşma (EA) ve EA yönetici tarafından devre dışı bırakılmış Azure Marketi satın almalara aittir.
-1. EA Yöneticisi yalnızca ücretsiz teklifler için satın alma işlemlerini etkinleştirdi ve teklif ücretli bir tekliftir.
-1. Teklif Market 'te bulunamadı.
-1. Bağımsız yazılım satıcısı (ISV), teklifi en azından bölgenizde satmaya durdurdu.
-1. Kullandığınız abonelik, teklifin kullanılamadığı bir bölgedeki faturalandırma hesabına aittir.
-1. Abonelik/Faturalandırma hesabı geçerli bir ödeme gereci (örn. geçerli bir kredi kartı) ile ilişkilendirilmemiş.
-1. Abonelik bir bulut çözümü sağlayıcısına (CSP) ait ve ISV, CSP aracılığıyla satış için reddedildi.
-1. Özel Market abonelik için etkinleştirilmiştir ve teklif izin verilen teklifler listesinde değildir.
-1. Teklif, belirli müşteriler için özel/önizlemedir ve abonelik izin verilen müşteriler listesinde değildir.
+1. Abonelik bir kuruluşa (EA) Kurumsal Anlaşma ve EA yöneticisi satın almaları devre Azure Market devre dışı bırakılmıştır.
+1. EA yöneticisi yalnızca ücretsiz teklifler için satın almaları etkinleştirmiş ve teklif ücretli bir tekliftir.
+1. Teklif markette bulunamıyor.
+1. Bağımsız Yazılım Satıcısı (ISV), en azından bölgenize göre teklifi satmayı durdurdu.
+1. Kullanmakta olduğu abonelik, teklifin kullanılabilir olduğu bir bölgedeki ödeme hesabına aittir.
+1. Abonelik/ödeme hesabı geçerli bir ödeme aracıyla (geçerli bir kredi kartı gibi) ilişkili değildir.
+1. Abonelik bir Bulut Çözümü Sağlayıcısı (CSP) ait ve ISV CSP aracılığıyla satmayı reddetti.
+1. Abonelik için Özel Market etkindir ve teklif izin verilen teklifler listesinde yer almamaktadır.
+1. Teklif, belirli müşteriler için Özel/Önizlemedir ve abonelik izin verilen müşteriler listesinde yer almamaktadır.
+
+Market tekliflerini satın alma, kuruluşta Azure yöneticisi tarafından Azure İlkesi olarak çakışıyorsa başarısız olabilir. Örneğin, microsoft.SaaS satın alasanız, bu, kuruluş izin verilenler listesinde **yer almaz.** Ayrıntılar için [bkz. Azure İlkesi bakın.](/azure/governance/policy/)
 
 ## <a name="next-steps"></a>Sonraki adımlar
 

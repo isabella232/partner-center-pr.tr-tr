@@ -1,58 +1,58 @@
 ---
-title: SSS-Power BI için Iş ortağı merkezi analizi
+title: SSS - İş Ortağı Merkezi Analytics Power BI
 ms.topic: article
 ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Power BI için Iş ortağı merkezi analizi uygulamasıyla ilgili bu genel bakışı ve sık sorulan soruları inceleyin.
+description: Bulut Çözümü Sağlayıcısı (CSP) programında doğrudan iş ortakları için tasarlanmış olan Power BI için İş Ortağı Merkezi Analiz uygulaması bu genel bakışı ve sık sorulan soruları keşfedin.
 fwlink: https://go.microsoft.com/fwlink/?linkid=852582
 author: v-sumukh
 ms.author: v-sumukh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 28fb6e9a963228f45a927089e0bb8ae3ecd452ff
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 83514f3e15e41d809e4cb7af20be198d8f801d10
+ms.sourcegitcommit: 4118de5cf55d1bd618ecca13c1b2ec59d80f43db
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109854545"
+ms.lasthandoff: 06/24/2021
+ms.locfileid: "112565330"
 ---
-# <a name="overview-and-faqs-for-the-partner-center-analytics-app-for-power-bi-direct-partners-in-csp"></a>Power BI için Partner Center Analytics uygulamasına genel bakış ve SSS (CSP 'de doğrudan iş ortakları)
+# <a name="faqs-for-the-partner-center-analytics-app-for-power-bi"></a>Power BI için İş Ortağı Merkezi Analiz uygulaması için SSS
 
 
 
-**Uygun roller**: genel yönetici | Kullanıcı Yönetimi Yöneticisi | Satış Aracısı | Yönetim Aracısı
+**Uygun roller:** Genel yönetici | Kullanıcı yönetimi yönetici | Satış aracısı | Yönetici aracısı
 
-Power BI için Partner Center Analytics uygulamasıyla iş verilerinizin görsel bir temsilini alın. Bulut çözüm sağlayıcısı programı 'nda (CSP) doğrudan iş ortakları için tasarlanan uygulama tanıdık Power BI çerçevesine takar.
+Microsoft Power BI için İş Ortağı Merkezi Analytics uygulamasıyla iş verilerinizin görsel bir Power BI. Bulut Çözümü Sağlayıcısı (CSP) programında doğrudan iş ortakları için tasarlanan uygulama, bilinen Power BI takmaktadır.
 
 > [!NOTE]  
-> Doğrudan Microsoft ve müşterilerle iş yapıyorsanız doğrudan bir iş ortağıyız.
+> Doğrudan Microsoft ve müşterilerle iş yapmak için doğrudan iş ortağı olursanız.
 
-Grafik görünümlerini almak için uygulamayı yüklemek:
+Aşağıdakilerin grafik görünümlerini almak için uygulamayı yükleyin:
 
-- Müşteri tabanınız, abonelikleriniz ve lisanslarınızın büyümesi
+- Müşteri tabanınızı, aboneliklerinizi ve lisanslarınızı büyüme
 
-- Office 365, Microsoft Dynamics ve Microsoft Azure ürünlerinin kullanımı
+- Office 365, Microsoft Dynamics ve Microsoft Azure kullanımı
 
-- Son 60 güne ait her bir Azure aboneliğinde ölçülen her kaynak için günlük tüketim birimleri
+- Son 60 gün boyunca her Azure aboneliğinde tarifeli her kaynağın günlük tüketim birimleri
 
 - En son fiyat kartına göre tahmini maliyet
 
-- Veri kümelerini dışarı aktarma ve müşteri başına dahil özel raporlar oluşturma özelliği
+- Müşteri başına dahil olmak üzere veri kümelerini dışarı aktarma ve özel raporlar oluşturma olanağı
 
 ## <a name="frequently-asked-questions"></a>Sık sorulan sorular
 
-Uygulamayı yüklemeden önce sık sorulan soruların yanıtlarını incelemenizi öneririz.
+Uygulamayı yüklemeden önce sık sorulan soruların yanıtlarını gözden geçirmenizi öneririz.
 
 | **Soru** | **Yanıt** |
 | --- | ---------- |
-| Uygulamanın maliyeti nedir? | Uygulamanın kendisi ücretsizdir. Uygulamayı önizlemek için, [ücretsiz Power BI hizmeti kaydolabilir](https://go.microsoft.com/fwlink/p/?linkid=845347) ve panoları ve raporları özelleştirmek için kullanabilirsiniz. Şirketinizdeki başkalarının uygulamayı kullanmasına izin vermek için, Microsoft Power BI Professional veya Microsoft Power BI Premium için etkin bir aboneliğiniz olması gerekir. |
-| Iş Ortağı Merkezi Analytics uygulamasına kimler bağlanabilir? | Uygulamanın bu sürümü, bulut çözümü sağlayıcısı programındaki doğrudan iş ortakları (Katman 1) için tasarlanmıştır. Doğrudan Microsoft ve müşterilerle iş yapmak için doğrudan iş ortağı olursanız. Uygulamayı yüklemek için, şirket hesabı için genel yönetici, yönetici aracısı veya faturalama yöneticisi olmak gerekir. |
+| Uygulamanın maliyeti nedir? | Uygulama ücretsizdir. Uygulamanın önizlemesini görmek için [ücretsiz oturum açma Power BI hizmeti](https://go.microsoft.com/fwlink/p/?linkid=845347) panoları ve raporları özelleştirmek için kullanabilirsiniz. Şirketinize dahil olan diğer kullanıcıların uygulamayı kullanmasına izin vermek için Microsoft Power BI Professional veya Microsoft Power BI Premium. |
+| İş Ortağı Merkezi Analytics uygulamasına kimler bağlanabilirsiniz? | Uygulamanın bu sürümü, CSP programında doğrudan iş ortakları (katman 1) için tasarlanmıştır. Doğrudan Microsoft ve müşterilerle iş yapmak için doğrudan iş ortağı olursanız. Uygulamayı yüklemek için, şirket hesabı için genel yönetici, yönetici aracısı veya faturalama yöneticisi olmak gerekir. |
 | Dolaylı sağlayıcıyım; Uygulamayı kullanabilir miyim? | Evet. Genel yöneticiniz, yönetici temsilciniz veya faturalama yöneticiniz uygulamayı yükleyebilir ve doğrudan müşterilerinizle ilgili verileri görebilir. Gelecek sürümlerde dolaylı kurumsal bayilerle ilgili verileri de görmenizi sağlayacak özelliklere sahip olabilir. |
-| Gelecek sürümler hakkında nasıl bilgi öğrenebilirim? | Duyurular ve önizleme sürümler, erken benimseyen İş Ortağı Merkezi aracılığıyla kullanılabilir. Geri bildiriminizi erken benimseyen program aracılığıyla da paylaşabilirsiniz. Programa henüz katılmadısanız katılmayı öğrenin. Bkz. [İş Ortağı Merkezi API'sini ve SDK Erken Benimseyen Programına Katılma.](/partner-center/develop/early-adopter-program)  |
+| Gelecek sürümler hakkında nasıl bilgi öğrenebilirim? | Duyurular ve önizleme sürümler, erken benimseyen İş Ortağı Merkezi aracılığıyla kullanılabilir. Geri bildiriminizi erken benimseyen program aracılığıyla da paylaşabilirsiniz. Henüz programa katılmadısanız katılmayı öğrenin. Bkz. [İş Ortağı Merkezi API'sini ve SDK Erken Benimseyen Programına Katılma.](/partner-center/develop/early-adopter-program)  |
 | Uygulamanın panolarını ve raporlarını kimler özelleştirilebilir? | Yalnızca uygulamayı yüken genel yönetici, yönetici aracısı veya faturalama yöneticisi panoyu özelleştirilebilir veya web arabiriminde Power BI oluşturabilir. |
-| Uygulamanın panolarını ve raporlarını kimler görüntüleyebilirsiniz? | Uygulamayı yüken genel yönetici, yönetici aracısı veya faturalama yöneticisi, uygulamanın verilerini Microsoft Power BI Professional veya Microsoft Power BI Premium aboneliği olan herkesle paylaşabilir. |
-| Uygulamayı kullanarak birden çok Azure AD kiracısına ve farklı konumlara yönelik verileri görüntülemeye yardımcı olabilir miyim? | Bu sürümle birlikte, yalnızca genel yönetici veya yönetici aracınız tarafından oturum açık olan Azure AD kiracısı verilerini görüntüebilirsiniz. | 
+| Uygulamada panoları ve raporları kimler görüntüleyebilirsiniz? | Uygulamayı yüken genel yönetici, yönetici aracısı veya faturalama yöneticisi, uygulamanın verilerini Microsoft Power BI Professional veya Microsoft Power BI Premium aboneliği olan herkesle paylaşabilir. |
+| Uygulamayı, farklı konumlarda birden çok kiracı (Azure AD) Azure Active Directory verileri görüntülemek için kullanabilir miyim? | Bu sürümle birlikte, yalnızca genel yönetici veya yönetici aracınız tarafından oturum açık olan Azure AD kiracısı verilerini görüntüebilirsiniz. | 
 | Uygulama ne zaman ek dillerde kullanılabilir olacak? | Yol haritası duyuruları, erken benimseyen İş Ortağı Merkezi programı aracılığıyla yayımlar. Programa henüz katılmadısanız, şimdi de bu programa [https://partnercenter.microsoft.com/partner/early-adopter-program](https://partnercenter.microsoft.com/partner/early-adopter-program) kaydolabilirsiniz. Geri bildiriminizi erken benimseyen program aracılığıyla da paylaşabilirsiniz. | 
 
 
@@ -61,4 +61,4 @@ Uygulamayı yüklemeden önce sık sorulan soruların yanıtlarını incelemeniz
 
 [Microsoft Power BI için İş Ortağı Merkezi Analizi uygulamasını yükleme ve önizleme](power-bi-app-for-direct-partners-install.md)
 
-[İş verilerinizi Microsoft için Partner Center Analytics uygulaması ile görüntüleyin Power BI](power-bi-app-for-direct-partners-use.md)
+[Microsoft Power BI için İş Ortağı Merkezi Analytics uygulamasıyla iş verilerinizi Power BI](power-bi-app-for-direct-partners-use.md)

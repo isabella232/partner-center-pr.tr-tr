@@ -1,50 +1,50 @@
 ---
-title: İş Ortağı Merkezi Insights bilinen sorunları
+title: İş Ortağı Merkezi öngörülerinin bilinen sorunları
 ms.topic: article
 ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: İş Ortağı Merkezi Insights (PCI) raporlarıyla ilişkili bilinen sorunlar hakkında bilgi edinin. Bilgiler bilinen işleme sorunlarını veya raporlama sınırlamalarını içerebilir.
+description: Partner Center Insights (PCI) raporlarıyla ilişkili tüm bilinen sorunlar hakkında bilgi edinin. Bilgiler, bilinen işleme sorunları veya Raporlama sınırlamaları içerebilir.
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9c85ff428fd6ffb6ced38be16f4bd163c2b0b548
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 5b3976d34cbe70b3d26577fbda86751ebda29fbd
+ms.sourcegitcommit: 4118de5cf55d1bd618ecca13c1b2ec59d80f43db
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855225"
+ms.lasthandoff: 06/24/2021
+ms.locfileid: "112565075"
 ---
-# <a name="partner-insights--frequently-asked-questions"></a>İş Ortağı Öngörüleri – Sık Sorulan Sorular
+# <a name="partner-insights--frequently-asked-questions"></a>İş ortağı öngörüleri – sık sorulan sorular
 
-**Uygun roller:** Rapor görüntüleyici | Yönetici raporu görüntüleyicisi
+**Uygun roller**: rapor Görüntüleyici | Executive rapor Görüntüleyicisi
 
-Bu makale, Insights ile ilişkili raporları görüntüleme veya işlemeyle ilgili bilinen sorunları kapsar.
+Bu makalede, öngörülerle ilişkili raporları görüntülemek veya işlemek için bilinen sorunlar ele alınmaktadır.
 
-S) İş Ortağı Merkezi hesabımda Insights **hub' İş Ortağı Merkezi göremiyorum. Ne yapabilirim?**
+S) **Iş Ortağı Merkezi Hesabmda Öngörüler merkezini görmüyorum. Ne yapmam gerekir?**
 
-Y) Kuruluş için MPN hesabında oturum açtığınızdan emin olun. CSP hesabınızla Öngörüler panosuna erişesiniz. Genel Yöneticiniz tarafından Size Rapor Görüntüleyicisi veya Yönetici Rapor Görüntüleyicisi rolü erişimi sağlanmıştır.  Roller hakkında daha fazla bilgi için bu [makaleye bakın.](./pci-roles.md)
+A) kuruluşunuzun Microsoft İş Ortağı Ağı (MPN) hesabında oturum açtığınızdan emin olun. Öngörüler panosuna bulut çözümü sağlayıcısı (CSP) hesabından erişemezsiniz. Ayrıca, genel yöneticiniz tarafından rapor Görüntüleyicisi veya Executive rapor Görüntüleyicisi rolü erişimi sağladığınızdan emin olun.  Roller hakkında daha fazla bilgi için [Bu makaleye](./pci-roles.md)bakın.
 
-S) **Raporlarımda Faturalı Gelir veya Azure Tüketim Geliri (ACR) verilerini göremiyorum. Bu neden?**
+S) **Raporlarım faturalanan geliri veya Azure tüketilen gelir (ACR) verilerini göremiyorum. Neden?**
 
-A) Faturalandırılacak Gelir ve ACR verileri yalnızca Yönetici Rapor Görüntüleyicisi olan kullanıcılar tarafından kullanılabilir.  Roller hakkında daha fazla bilgi için bu [makaleye bakın.](./pci-roles.md)
+A) faturalandırılan gelir ve ACR verileri yalnızca Executive rapor izleyicileri olan kullanıcılar tarafından kullanılabilir.  Roller hakkında daha fazla bilgi için [Bu makaleye](./pci-roles.md)bakın.
 
-S) **Raporlarımda Faturalı Gelir veya Azure Tüketim Geliri (ACR) verilerini göremiyorum. Bu neden?**
+S) **Raporlarım faturalanan geliri veya Azure tüketilen gelir (ACR) verilerini göremiyorum. Neden?**
 
-A) Faturalandırılacak Gelir ve ACR verileri yalnızca Yönetici Rapor Görüntüleyicisi olan kullanıcılar tarafından kullanılabilir. Roller hakkında daha fazla bilgi için bu [makaleye bakın.](./pci-roles.md)
+A) faturalandırılan gelir ve ACR verileri yalnızca Executive rapor izleyicileri olan kullanıcılar tarafından kullanılabilir. Roller hakkında daha fazla bilgi için [Bu makaleye](./pci-roles.md)bakın.
 
-S) **Müşterim için bildirilen ülke yanlış görünüyor. Bu neden?**
+S) **müşterimin bildirdiği ülke yanlış gibi görünüyor. Neden?**
 
-Y) Müşteri ülkesi, o müşterinin Genel üst kuruluştan türetilen ülkedir. Bu ülke, işlemde bulundurmış olabileceğiniz müşterinin ülkesiyle farklı olabilir. Bu nedenle, müşterinin rapor ettiği ülke beklediğinizden farklı olabilir.
+A) müşteri ülkesi, bu müşterinin küresel ana kuruluşunun ülkesinden türetilir. Bu ülke, işlem yapmış olabileceğiniz müşterinin ülkesinden farklı olabilir. Bu nedenle müşterinin bildirdiği ülke, beklediğiniz kadar farklı olabilir.
 
 S) **raporlarda birkaç müşteri adı olduğunu görüyorum. Beklensin mi?**
 
-A) uyumluluk nedenlerinden dolayı belirli abonelikler için müşteri adları kararsallardır. Bununla birlikte, müşteri TPıD 'si kullanılabilir ve bu, müşteri adlarını buradan aramak için kullanabilirsiniz.
+A) uyumluluk nedenlerinden dolayı belirli abonelikler için müşteri adları kararsallardır. Bununla birlikte, müşterinin en üst üst KIMLIĞI (TPıD) kullanılabilir ve bu, müşteri adlarını buradan aramak için kullanabilirsiniz.
 
 S) **raporların tipik gecikme süresi nedir?**
 
-A) abonelikler ve müşteriler verileri her gün yenilenir ve veriler bir haftalık gecikme süresiyle bildirilir. Azure kullanım verileri bir haftalık gecikme süresiyle bildirilir. Office365, takımlar, Dynamic365, EMS ve Power BI kullanım verileri bir aylık gecikme süresiyle raporlanır.
+A) abonelikler ve müşteriler verileri her gün yenilenir ve veriler bir haftalık gecikme süresiyle bildirilir. Azure kullanım verileri bir haftalık gecikme süresiyle bildirilir. Office 365, takımlar, Dynamics 365, Enterprise Mobility and Security (EMS) ve Power BI kullanım verileri bir aylık gecikmeyle bildirilir.
 
 S) **Raporlar Internet Explorer 'da Işlenmiyor. bu beklenen bir midir?**
 
