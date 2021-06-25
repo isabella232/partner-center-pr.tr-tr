@@ -1,25 +1,25 @@
 ---
-title: Microsoft AppSource SaaS teklifleri satın alma
-description: Microsoft AppSource 'de Microsoft iş ortakları 'ndan hizmet olarak yazılım (SaaS) uygulamaları satın almayı öğrenin.
+title: Microsoft AppSource SaaS uygulamaları satın alma
+description: Microsoft AppSource Microsoft iş ortaklarından bir hizmet olarak yazılım (SaaS) uygulaması satın alın.
 ms.service: marketplace-customer
 ms.topic: how-to
 author: Guyshu
 ms.author: gushuchm
 ms.date: 11/20/2020
-ms.openlocfilehash: 0a0bd1dff70ed18ed8f4fc45b78d8b935f24adaf
-ms.sourcegitcommit: 3a2415ab9833d5c574ad76d462f526a131c24f33
+ms.openlocfilehash: e51f4593624a764e14ecae473f96cf0779c2ff10
+ms.sourcegitcommit: cce4d53127fa33e6c2bbf158dda6edd41b82441d
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "103412701"
+ms.lasthandoff: 06/25/2021
+ms.locfileid: "112896807"
 ---
-# <a name="how-to-purchase-saas-apps-on-microsoft-appsource"></a>Microsoft AppSource SaaS uygulamaları satın alma
+# <a name="purchase-saas-apps-on-microsoft-appsource"></a>Microsoft AppSource SaaS uygulamaları satın alma
 
 [Microsoft AppSource](https://appsource.microsoft.com/) , hizmet olarak yazılım (SaaS) uygulamaları ve Dynamics 365, Microsoft 365, Power BI ve güç uygulamaları için eklentiler dahil binlerce iş uygulaması içerir. AppSource ücretsiz uygulamalar, denemeler ve ücretli abonelikler içerir ve [Microsoft 365 Yönetim merkezini](/microsoft-365/admin/admin-overview/about-the-admin-center)kullanarak ücretleri, yükseltmeleri, eski sürümleri ve iptalleri tek bir yerde yönetebilirsiniz. Bu makalede, ödemeli SaaS aboneliklerinin AppSource 'ta nasıl satın alınması açıklanmaktadır.
 
 ## <a name="requirements"></a>Gereksinimler
 
-SaaS uygulaması satın almak için şunlar gerekir:
+SaaS uygulamasının satın alınması şunları gerektirir:
 
 - İş veya okul hesabı. Bir iş veya okul hesabınız yoksa, satın alma sürecinde "ücretsiz hesap için kaydolun" bağlantısını izleyin.
 
@@ -37,9 +37,9 @@ SaaS uygulaması satın almak için şunlar gerekir:
 
     1. Koltuk sayısını ayarlama
     1. Faturalandırma terimini ayarlayın.
-    
+
 1. Fatura adresinizi girin.
-1. Ödeme yönteminizi girin (kredi kartı bilgileri).    
+1. Ödeme yönteminizi girin (kredi kartı bilgileri).
 1. **Siparişi yerleştir**' i seçin.
 
 ## <a name="configure-the-application"></a>Uygulamayı yapılandırma
