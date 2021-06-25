@@ -9,12 +9,12 @@ author: alikhaki
 ms.author: alikhaki
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 38985e48923bb0a3c6ad54eb600a44d419b5ad85
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: e715ec2c787ea3df623256904f8af1e7d8f4e9c8
+ms.sourcegitcommit: d96ad93449da4c914becfffab167cdc1aa165ada
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110150803"
+ms.lasthandoff: 06/25/2021
+ms.locfileid: "112915584"
 ---
 # <a name="sell-to-specialized-industries-like-education-non-profit-and-government-users"></a>Eğitim, kar amacı gütmeyen kuruluş ve kamu kullanıcıları gibi özelleştirilmiş sektörlere satış yapma
 
@@ -27,7 +27,8 @@ Microsoft eğitim müşterileri, kar amacı gütmeyen müşteriler, küçük iş
 |**Özel fiyatlandırma**   |**Kurumsal bayi gerekli nitelikler**   |**Müşteri için gerekli nitelikler**   |
 |----------------------------|:---------------------------------|:------------------------------------------|
 |Eğitim   |Hiçbiri   | Nitelikli Eğitim [Kullanıcısı olması gerekir.](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7)   |
-|Kamu   |Azure'ı satmak için [Microsoft US Government Bulut Doğrulama formunu kullanarak kaydolabilirsiniz.](https://azuregov.microsoft.com/csp) Kamuya lisans tabanlı abonelikler satmak için gerekli bir nitelik yoktur.|   Hiçbiri|
+| ABD Federal Kamu   |Azure'ı satmak için [Microsoft US Government Bulut Doğrulama formunu kullanarak kaydolabilirsiniz.](https://azuregov.microsoft.com/csp) Kamuya lisans tabanlı abonelikler satmak için gerekli bir nitelik yoktur.|   Hiçbiri|
+| Diğer tüm kamu varlıkları | Hiçbiri<br />İş ortaklarının "kurumsal" teklifleri kullanarak sağlamaları gerekir. | Hiçbiri
 |Kar Amacı Gütmeyen  |Hiçbiri<br/> Kiracıda kar amacı gütmeyen bir Azure Active Directory olması gerekir.<br/> [Kar amacı gütmeyen özel teklifler](https://assetsprod.microsoft.com/mpn/nonprofit-skus-in-csp-faq.pdf) hakkında daha fazla bilgi edinin.   |Uygun olması için [Microsoft kar amacı gütmeyen program](https://nonprofit.microsoft.com/#/register) aracılığıyla kaydolabilirsiniz.   |
 
 ## <a name="check-your-reseller-qualifications"></a>Kurumsal bayi niteliklerinizi denetleme
@@ -40,41 +41,40 @@ Aşağıdaki adımlar yalnızca dolaylı sağlayıcılar ve doğrudan fatura iş
 
 3. Kurumsal Bayi **niteliklerini görmüyorsanız,** henüz herhangi bir özel teklif satın alma yetkisine sahip değilsiniz.
 
-## <a name="check-the-customer-qualifications"></a>Müşteri niteliklerini denetleyin
+## <a name="check-the-customer-qualifications"></a>Müşteri niteliklerini denetleme
 
-1. **Iş Ortağı Merkezi** menüsünde **müşteriler**' i seçin. Listeden müşteriyi seçin.
+1. Veri **İş Ortağı Merkezi** Müşteriler'i **seçin.** Listeden müşteriyi seçin.
 
-2. Müşteri menüsünde **Hesap**' ı seçin. **Şirket bilgileri** bölümünde **özel nitelikler**' i arayın.
+2. Müşteri menüsünde Hesap'ı **seçin.** Şirket **bilgileri bölümünde** Özel **nitelikler'i seçin.**
 
-3. **Özel nitelikler** **hiçbiri** olarak ayarlandıysa, ancak müşteri nitelikleri karşılıyorsa, ayrıntılarını bunları içerecek şekilde **güncelleştirebilirsiniz** .
+3. Özel **nitelikler** Hiçbiri olarak **ayarlanmışsa** ama müşteri niteliklere gerçekten uygunsa, ayrıntılarını güncelleştirebilirsiniz. 
 
-## <a name="where-to-find-special-offers"></a>Özel tekliflerin nerede bulunacağı
+## <a name="where-to-find-special-offers"></a>Özel teklifler nerede bulur?
 
-Siz ve müşteriniz özel bir teklif programı için uygun olduktan sonra, [bir abonelik eklemek](create-a-new-subscription.md)için adımları izleyin. **Yeni abonelik** sayfasının **Katalog** bölümünde, satışlarınıza özel teklifleri görmek için özel bir sektör seçin.
+Siz ve müşteriniz özel bir teklif programı için uygun olduktan sonra, abonelik eklemek [için adımları izleyin.](create-a-new-subscription.md) Yeni **abonelik** sayfasının Katalog **bölümünde,** satabilirsiniz özel teklifleri görmek için özelleştirilmiş bir sektör seçin.
 
 ## <a name="purchase-rules-for-special-segments"></a>Özel segmentler için satın alma kuralları
 
 İş ortakları müşterilere yalnızca belirli ölçütlere uyan özel teklifleri satabilir. 
 
-- Eğitim teklifleri yalnızca müşteri eğitim kurumu olarak yetkilendirilirse satın alınabilir. Eğitim müşterisi yalnızca eğitim ve ticari teklifler alabilir, ancak kar veya devlet dışı bir topluluk bulutu (GCC) değil.
-- İş ortakları GCC müşterileri için yalnızca GCC abonelikleri satın alabilir. Bir müşterinin GCC aboneliği olduktan sonra, iş ortakları ticari, eğitim veya kar amacı olmayan abonelikler satın alamaz.
-- İş ortakları yalnızca kar amacı gütmeyen müşteriler için ticari veya kar amacı olmayan abonelikler satın alabilir. İş ortakları, kar amacı gütmeyen müşteriler için GCC veya eğitim abonelikleri satın alamaz.
-- Eyalet ait varlıkların [uygunluk ölçütlerini](https://www.microsoft.com/legal/compliance/anticorruption/criteria)karşılaması gerekir.
+- Eğitim teklifleri yalnızca Müşteri bir Eğitim kurumu olarak yetkilendirilmişse satın alınabilir. Eğitim müşterisi yalnızca Eğitim ve Ticari teklifleri alsa da Kar amacı gütmeyen veya Kamu topluluk bulutu (GCC) almayacak.
+- İş ortakları yalnızca GCC müşterileri için GCC abonelikleri satın alınabilir. Müşteri GCC aboneliğine sahip olduktan sonra iş ortakları ticari, eğitim veya kar amacı gütmeyen abonelik satın alamayacak.
+- İş ortakları yalnızca kar amacı gütmeyen müşteriler için ticari veya kar amacı gütmeyen abonelikler satın alınabilir. İş ortakları kar amacı gütmeyen müşteriler için GCC veya eğitim abonelikleri satın aamaz.
+- Eyalete Ait Varlıklar Uygunluk [ölçütlerini karşılamalı.](https://www.microsoft.com/legal/compliance/anticorruption/criteria)
 
-Müşterilere özel teklifler satmaya yönelik satın alma kuralları:
+Müşterilere özel teklifler satışı için satın alma kuralları:
 
-|**Müşteri türü**   |**Satılabilir**   |**Satılamaz**   |
+|**Müşteri türü**   |**Satılma**   |**Satılmama**   |
 |:----------------------------|:---------------------------------|:------------------------------------------|
-| Ticari |Ticari | Kar, eğitim veya kamu topluluğu bulutu |
-| Kar dışı |Ticari, kar amacı gütmeyen | Eğitim veya kamu Community bulutu |
-| Eğitim |Ticari, eğitim | Kar amacı gütmeyen veya kamu topluluğu bulutu |
-| Kamu Community bulutu |Kamu Community bulutu | Kar, eğitim veya ticari olmayan |
-| Eyalet sahibi olan varlık  | Ticari  | Kar, eğitim veya kamu topluluğu bulutu  |
-| Eğitim ve eyalet sahibi olan varlık | Ticari, eğitim | Kar amacı gütmeyen veya kamu topluluğu bulutu |
-| Eyalete aitse varlık ve kamu topluluğu bulutu | Kamu Community bulutu | Kar, eğitim veya ticari olmayan |
+| Ticari |Ticari | Kar amacı gütmeyen, eğitim veya Government Community Cloud |
+| Kar amacı gütme -yen |Ticari, Kar Amacı Gütmeyen | Eğitim veya Government Community Cloud |
+| Eğitim |Ticari, Eğitim | Kar amacı gütmeyen veya Government Community Cloud |
+| Government Community Cloud |Government Community Cloud | Kar Amacı Gütmeyen, Eğitim veya Ticari |
+| Eyalete Ait Varlık  | Ticari  | Kar amacı gütmeyen, eğitim veya Government Community Cloud  |
+| Eğitim ve Eyalete Ait Varlık | Ticari, Eğitim | Kar amacı gütmeyen veya Government Community Cloud |
+| Eyalete Ait Varlık ve Government Community Cloud | Government Community Cloud | Kar Amacı Gütmeyen, Eğitim veya Ticari |
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-- [Eğitim müşterilerine Minecrat: eğitim sürümü abonelikleri satma](minecraft-subscriptions.md)
-
+- [Eğitim müşterilerine Minecraft: Education Edition abonelikleri satma](minecraft-subscriptions.md)
 - [Microsoft Cloud for US Government için İş Ortağı Merkezi](partner-center-for-microsoft-us-govt-cloud.md)

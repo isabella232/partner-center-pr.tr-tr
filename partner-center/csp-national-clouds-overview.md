@@ -9,12 +9,12 @@ author: billLinzbach
 ms.author: billLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d890a4dff5fef28fd0b698000635643f5f801998
-ms.sourcegitcommit: 7c7e2705873df2b500b8114235c8f67a22112c62
+ms.openlocfilehash: 1ccd03a3155e9942dcd5e5b4d8381a62e03e90dd
+ms.sourcegitcommit: d96ad93449da4c914becfffab167cdc1aa165ada
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/25/2021
-ms.locfileid: "110398177"
+ms.lasthandoff: 06/25/2021
+ms.locfileid: "112915550"
 ---
 # <a name="apply-to-sell-in-microsoft-national-clouds-as-part-of-the-csp-program"></a>CSP programının bir parçası olarak Microsoft Ulusal bulutlarında satış için geçerlidir
 
@@ -38,21 +38,21 @@ Nitelikli iş ortakları, Microsoft bulut çözümlerini bu ulusal bulutlarda m�
 
 ## <a name="microsoft-cloud-for-us-government"></a>ABD kamu sektörü için Microsoft Bulut
 
-[**Microsoft Cloud for US Government**](https://www.microsoft.com/trustcenter/cloudservices/nationalcloud#Microsoft_Cloud_for_US) Microsoft Cloud for Government, ABD hükümeti için en temelden tasarlanmış olan Birleşik Devletler'daki kamu sektörü müşterilerinin (büyük federal kurumlardan küçük şehir kamu kuruluşlarına kadar) bir dizi bulut bilişim hizmeti seçmesine olanak sağlar. Microsoft, müşterilerinin belirli ihtiyaçlarını en iyi şekilde karşılamak için veri merkezlerine önemli yatırımlar yapmış ve ABD federal ve eyalet ilkeleri, zorunluları ve gereksinimleriyle uyumluluğu karşılamaya ayrılmıştır. 
+[**ABD kamu sektörü için Microsoft bulut**](https://www.microsoft.com/trustcenter/cloudservices/nationalcloud#Microsoft_Cloud_for_US) ABD kamu sektörü için tasarlanan kamu sektörü, büyük federal kurumlardan küçük kasalara kadar, bulut bilgi işlem hizmetlerinden birini seçmek için Birleşik Devletler kamu sektörü müşterilerinin Microsoft Bulut olanak sağlar. Microsoft, müşterilerinin belirli ihtiyaçlarını en iyi şekilde çözmek için veri merkezlerinde önemli bir yatırım yaptı ve ABD federal ve eyalet ilkeleriyle, mantarih ve gereksinimlerle uyumluluğu karşılayacak şekilde tasarlanmıştır. 
 
-Microsoft Cloud for US Government'da müşterilere kaydolma ve müşterilere satış hakkında bilgi için [bkz. İş Ortağı Merkezi için Microsoft Cloud for US Government.](partner-center-for-microsoft-us-govt-cloud.md)
+ABD hükümeti için Microsoft Bulut müşterilere kaydolma ve bu müşterilere satış hakkında bilgi için bkz. [ABD kamu için Microsoft bulut Iş Ortağı Merkezi](partner-center-for-microsoft-us-govt-cloud.md).
 
-## <a name="microsoft-cloud-germany"></a>Microsoft Bulut Almanya
+## <a name="microsoft-cloud-germany"></a>Almanya Microsoft Bulut
 
-[**Microsoft Bulut Almanya**](https://www.microsoft.com/trustcenter/cloudservices/nationalcloud#Microsoft_Cloud_Germany) Microsoft Bulut Almanya, benzersiz bir model aracılığıyla Almanya veri merkezlerinden Azure, Office 365 ve Dynamics 365'i sunar. Bu modelde müşteri verilerine erişim, Almanya yasalarına göre çalışan bağımsız bir Alman Veri Mütelesi tarafından denetlenmektedir. Deutsche Telekom'un bir yan kuruluşu olan T-Systems International GmbH, Microsoft Bulut Almanya'nın bağımsız Veri Müteahdisi olarak hareket ediyor.
+[**Almanya Microsoft bulut**](https://www.microsoft.com/trustcenter/cloudservices/nationalcloud#Microsoft_Cloud_Germany) Microsoft Bulut Almanya, benzersiz bir model aracılığıyla Almanya veri merkezlerinden Azure, Office 365 ve Dynamics 365 ' i sunmaktadır. Bu modelde, müşteri verilerine erişim, Almanya yasaları kapsamında çalışan bağımsız bir Almanya veri güvenliği tarafından denetlenir. Deutsche Telekod 'nin yan kuruluşu olan T-Systems International GmbH, Microsoft Bulut Almanya için bağımsız veri güvenliği işlevi görür.
 
 > [!IMPORTANT]  
-> Müşterilerin ihtiyaçlarına göre Almanya için bulut stratejimiz, küresel bulut teklifimiz ile tutarlı olan yeni bulut bölgelerinin Almanya'da teslimi üzerine odaklanacak. Bu odakta, artık yeni müşterileri kabul etmeyecek veya şu anda kullanılabilir olan Microsoft Bulut Almanya'dan yeni hizmetler dağıtmayacak. Mevcut müşteriler, gerekli güvenlik güncelleştirmeleriyle sürdüreceğimiz geçerli bulut hizmetlerini kullanmaya devam eder.
+> Müşterilerin ihtiyaçlarına bağlı olarak, Almanya için bulut stratejimiz, genel bulut teklifimiz ile tutarlı olan Almanya 'daki yeni bulut bölgelerinin teslimatını odaklamaktadır. Bu odak sayesinde, artık yeni müşterileri kabul etmiyoruz veya mevcut Almanya Microsoft Bulut yeni hizmetleri dağıtacağız. Mevcut müşteriler, gerekli güvenlik güncelleştirmeleriyle korunabilediğimiz geçerli bulut hizmetlerini kullanmaya devam edebilir.
 >  
-> Daha sonra yeni müşteriler, kullanılabilir olduğunda şu anda kullanılabilir olan Avrupa bölgelerini veya Almanya'daki yeni bölgeleri kullanma seçeneğine sahip olur. Daha fazla bilgi için [bkz. Microsoft'un Almanya'daki yeni veri merkezlerinden bulut hizmetleri teslimi.](https://news.microsoft.com/europe/2018/08/31/microsoft-to-deliver-cloud-services-from-new-datacentres-in-germany-in-2019-to-meet-evolving-customer-needs/)
+> İleri doğru hareket eden yeni müşteriler kullanılabilir hale geldiğinde mevcut Avrupa bölgelerini veya Almanya 'daki yeni bölgeleri kullanma seçeneğine sahiptir. Daha fazla bilgi için bkz. [Microsoft, Almanya 'daki yeni veri merkezlerinden bulut hizmetleri sunma](https://news.microsoft.com/europe/2018/08/31/microsoft-to-deliver-cloud-services-from-new-datacentres-in-germany-in-2019-to-meet-evolving-customer-needs/).
 
     
-## <a name="azure-and-office-365-operated-by-21vianet-in-china"></a>Çin'de 21Vianet tarafından çalıştırılan Azure ve Office 365
+## <a name="azure-and-office-365-operated-by-21vianet-in-china"></a>Çin 'de 21Vianet tarafından işletilen Azure ve Office 365
 
 Microsoft, Shanghai mavi bulut teknolojisi co., Ltd. (21Vianet) ile benzersiz bir Iş ortaklığı sunarak, PIMA PI, ana bilgisayar, barındırma, yönetilen ağ ve, Çin 'de bulut bilgi işlem altyapısı Hizmetleri olan en büyük taşıyıcı-bağımsız Internet sağlayıcıdır. 
 
@@ -62,4 +62,4 @@ Microsoft teknoloji sağlayıcıdır, ancak hizmeti çalışmaz; 21Vianet, Micro
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-- [ABD kamu için Microsoft Bulut Iş Ortağı Merkezi hakkında sık sorulan sorular](faq-for-us-govt-cloud.md)
+- [ABD kamu için Microsoft Bulut Iş Ortağı Merkezi hakkında sık sorulan sorular](faq-for-us-govt-cloud.yml)
