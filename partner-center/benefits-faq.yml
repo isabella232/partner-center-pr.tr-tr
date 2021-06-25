@@ -1,0 +1,99 @@
+### YamlMime:FAQ
+metadata:
+  title: Microsoft İş Ortağı Ağı avantajları - sık sorulan sorular
+  ms.topic: article
+  ms.date: 12/15/2020
+  description: Azure, bulut, abonelikler ve teknik ve destek avantajları için avantaj süre sonu, yenileme ve lisansları etkinleştirme Visual Studio soruların yanıtları
+  ms.service: partner-dashboard
+  ms.subservice: partnercenter-mpn
+  author: arpithakanuganti
+  ms.author: v-arkanu
+  ms.localizationpriority: medium
+  ms.custom: SEOJUNE20
+  ms.openlocfilehash: 72db9073e071581e1f8b7eb685da1d1d7db56294
+  ms.sourcegitcommit: d96ad93449da4c914becfffab167cdc1aa165ada
+  ms.translationtype: MT
+  ms.contentlocale: tr-TR
+  ms.lasthandoff: 06/25/2021
+  ms.locfileid: "112915688"
+title: Microsoft İş Ortağı Ağı avantajları - sık sorulan sorular (SSS)
+summary: >
+  **Uygun roller:** MPN iş ortağı yöneticisi
+
+
+  Bu makalede, Microsoft İş Ortağı Ağı (MPN) avantajları hakkında sık sorulan birçok soru ele alınıyor.
+sections:
+- name: Genel sorular
+  questions:
+  - question: "\"Avantaj Sona Erme Tarihi\" ne anlama geliyor?\n"
+    answer: "Avantajın sona erme tarihi, avantajlarınızı etkinleştirmek için son tarih anlamına gelir.\n\nBir yıllık kayıt döneminiz boyunca mevcut olan avantajları kullanmak için yenileme tarihinize kadar süreniz vardır. Yenileme başlangıç tarihinizi MPN [panosunun](https://partner.microsoft.com/dashboard/mpn/offers) Üyelik Teklifleri sayfasında bulabilirsiniz.\n\nAncak ürün anahtarlarını ilgili bulut portallarında kullandıklarından itibaren bir yıl boyunca kullanabilirsiniz.\n\nÖrneğin, 31 Ocak 2021 tarihinde avantajınız sona ererse anahtarları 31 Ocak 2021'den önce uygun bulut portalında kullanabilirsiniz. Ürün anahtarınızı 1 Aralık 2020'de kullanırsanız, avantajınız sona erme tarihi 31 Ocak olsa bile bu anahtarı 1 Aralık 2021'e kadar kullanabilirsiniz.\n\n> [!NOTE]  \n> Kullanıcı ataması gerektiren avantajlarınız varsa (Visual Studio abonelikleri gibi), bu avantajları kayıt yenileme tarihini takip eden 30 gün daha etkinleştirebilirsiniz ve kullanabilirsiniz.\n"
+  - question: >
+      Nasıl yaparım? yenile
+    answer: >
+      Avantajlarınızı yenilemek için aşağıdaki yordamı kullanın:
+
+
+      1. [İş Ortağı Merkezi panosunda](https://partner.microsoft.com/dashboard/) oturum açın.
+
+
+      2. Sol gezinti çubuğunda **MPN'yi seçin.**
+
+
+      3. **MPN sekmesinde** Avantajlar **seçeneğini** belirleyin.
+
+
+      4. Istediğiniz avantajı etkinleştirin.
+
+
+      İstediğiniz avantaj kullanılamıyorsa, İş Ortağı Merkezi aboneliğinizi yenilemeniz ve yukarıdaki işlemi tekrarlamanız gerekir.
+  - question: >
+      Aboneliğimin süresinin dolmak üzere olduğunu ve ne yapabilirim?
+    answer: >
+      Bildirimi oluşturan bulut portalında oturum açın, mevcut aboneliklerin sona erme tarihini gözden geçirin ve süresi dolan aboneliğe lisans ekleyin veya var olan aboneliği bir sonraki kayıt yılı için uzatın.
+  - question: >
+      Üyeliğimi ne zaman yenilerim?
+    answer: >
+      Mevcut üyelik, yenilemenin başlangıç tarihinden sonra herhangi bir gün yenilenebilir.
+- name: Azure ve bulut etkinleştirme avantajları
+  questions:
+  - question: >
+      Azure'da lisans ekleme, genişletme/yenileme nasıl çalışır?
+    answer: "Lisansları eklerken mevcut aboneliğinizin toplam lisans sayısını artırabilirsiniz.\n\nAbonelikleri yenile veya genişletken lisans sayısı aynı kalır, ancak bu aboneliklerin süresini uzatabilirsiniz.\n\n> [!IMPORTANT]  \n> Mevcut bir aboneliğe lisans eklemeyi seçerseniz, mevcut ve eklenen lisans sayısına bağlı olarak aboneliğin süresi 12 aydan kısa bir süre içinde dolar. Bir anahtarı kullandıktan sonra tekrar kullanasınız. Anahtarınızı kullanmadan önce lisans eklemeniz veya aboneliği yenilemeniz/genişletmeniz gerekip gerek olmadığını anlayın.\n"
+  - question: >
+      Müşterimin hesabında lisansı etkinleştirebilirsiniz
+    answer: >
+      Hayır. Ürün lisansları tanıtım amaçlı olarak verilenler. Satış ve pazarlama çalışanlarınız ürünleri müşterilerinize göstermek için bu yazılımı kullanabilir, ancak tanıtım ürünleri müşteri donanımına veya altyapısına yük olamaz ve iş ortağı denetimiyle kullanılmalıdır.
+  - question: >
+      Azure Toplu Kredisi'ne kullanıcı atarken sorunm var. Ne yapabilirim?
+    answer: >
+      Azure Toplu Kredi tekliflerini diğer tekliflerle birleştiresiniz. Kullanıcı ataması çalışmıyorsa, büyük olasılıkla atamak istediğiniz kullanıcı zaten Microsoft Kurumsal Anlaşma, Bulut Çözümü İş Ortağı, Open ile Azure, Azure Pass, Eylem Paketi gibi diğer lisanslama, ön ödemeli veya kredi tekliflerini kullanıyor demektir. Kullanıcı bu sözleşmelerden veya planlardan hiçbirlerine abone değilse ve yine de atayamazsanız, kullanıcıyla Microsoft Desteği.
+- name: Visual Studio Avantajları
+  questions:
+  - question: >
+      Etkinleştirme Visual Studio nasıl İş Ortağı Merkezi
+    answer: "Abonelikleri, aşağıdaki adımları gerçekleştirerek İş Ortağı Merkezi (AAD) kiracınız Azure Active Directory Kullanıcı Yönetimi listesinden herhangi birine atabilirsiniz:\n\n1. [İş Ortağı Merkezi panosunda](https://partner.microsoft.com/dashboard/) oturum açın.\n\n2. Menüyü İş Ortağı Merkezi **MPN'yi seçin.**\n\n3. **Avantajlar'ı** ve ardından **Visual Studio.**\n\n4. İstediğiniz kullanıcıları mevcut abonelikleri kullanılabilir Visual Studio attayabilirsiniz.\n\nAboneliği atadikten sonra, kullanıcının aboneliği yönetmek için Visual Studio oturum açması gerekir.\n\n> [!Note]  \n> Visual Studio ilk atamadan bu yana 90 gün geçmişse abonelikler bir aboneden diğerine yeniden atanabilir.\n"
+- name: Teknik avantajlar ve destek
+  questions:
+  - question: >
+      İş Ortağı Merkezi'dan indirdiğiniz yazılımı yükley İş Ortağı Merkezi. Nasıl yaparım? al
+    answer: >
+      Yükleme, etkinleştirme ve ürünle ilgili diğer yardımlar Microsoft Desteği. Yardım almak için aşağıdaki adımları uygulayın:
+
+
+      1. [İş Ortağı Merkezi panosunda](https://partner.microsoft.com/dashboard/) oturum açın.
+
+
+      2. Menüyü İş Ortağı Merkezi **MPN'yi seçin.**
+
+
+      3. **Avantajlar'ı** ve ardından Teknik **Avantajlar'ı seçin.**
+
+
+      4. Erişim Kimliğini/Sözleşme Kimliğini etkinleştirmek ve almak için Teknik Avantajlar bölümünü kullanın.
+
+
+      5. Microsoft Desteği. [](https://support.microsoft.com/supportforbusiness/productselection)
+
+
+      6. Yüklemek istediğiniz ürünü seçin ve ardından teknik destek bileti oluşturun.
+additionalContent: "\n## <a name=\"next-steps\"></a>Sonraki adımlar\n\n- [Uzmanlığınızı göstermek için gelişmiş uzmanlık kazanma](advanced-specializations.md)"
