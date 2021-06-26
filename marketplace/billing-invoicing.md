@@ -5,13 +5,13 @@ ms.service: marketplace-customer
 ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
-ms.date: 11/20/2020
-ms.openlocfilehash: d45d301abfea03e06a8fc67e759012d4275d7dec
-ms.sourcegitcommit: 8511fec63961d8c77a4d1eea3e3f1d37cdea46c6
+ms.date: 05/04/2021
+ms.openlocfilehash: 6fdbbf9ad2b31e2b61eec20193717f60dd8e199a
+ms.sourcegitcommit: b6959846c30d062d05028c9b4ba14c07e903e61a
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/19/2021
-ms.locfileid: "112373465"
+ms.lasthandoff: 06/25/2021
+ms.locfileid: "112970200"
 ---
 # <a name="azure-marketplace-billing-and-invoicing"></a>Azure Market faturalamayı seçin
 
@@ -49,11 +49,11 @@ Satın aldığınız dönemde yinelenen satın almalar için faturalandırmış 
 > Hizmet dönemi, hizmeti kullanmak için ödediğiniz dönemdir. Siz önceden iptal etmedikçe hizmet döneminin ve dönemlerini otomatik olarak yeniler.
 
 > [!NOTE]
-> Yenileme ayı tarihi satın alma ayı tarihine eşit yoksa faturalama ayın son günü olarak ayarlanır. Başka bir anlama gelir: 31/1'de abone olunacaksa Şubat 27'nin faturalama bitiş tarihi 2/27 olur ve yeni faturalama dönemi 28/28'de (2/28 ve artık bir yılda başlıyorsa 2/29) başlayacaktır.
+> Yenileme ayı tarihi satın alma ayı tarihine eşit olamazsa faturalama dönemi (veya faturalama ayın son günü) ayarlanır. Başka bir anlama gelir: 31.1.31'e abone olmak için faturalama bitiş tarihi 2/27 olarak ayarlanır ve yenileme tarihi 28/28 (2/28 ve 2/29), artık bir yılda başlanacaksa 2/29 olarak ayarlanır.
 
 ## <a name="invoices"></a>Faturalar
 
-Faturanız her takvim ayı başında faturanız kullanılabilir olduğunda bir e-posta Azure portal. Faturanız, takvim ayı boyunca satın aldığınız ve/veya tüketilen tüm ücretsiz ve ücretli teklifleri gösterir. Yalnızca ücretsiz teklifleriniz varsa yalnızca 0 ABD doları satır öğeleriyle karşılanır ve herhangi bir ödeme eylemine ihtiyacınız olmayacaktır. **Kurumsal Anlaşma müşteriler** hem Azure hem de Azure Market (Avustralya, Japonya ve Singapur'daki müşteriler hariç) gösteren birleştirilmiş bir fatura alır. **Doğrudan Azure Market satın alan** müşteriler, yalnızca satın alma Azure Market fatura alır. Ayrıntılar için [bkz. MOSP hesapları için faturalar.](/azure/cost-management-billing/understand/download-azure-invoice#invoices-for-mosp-billing-accounts)
+Faturanız her takvim ayı başında faturanız kullanılabilir olduğunda bir e-posta Azure portal. Faturanız, takvim ayı boyunca satın aldığınız ve/veya tüketilen tüm ücretsiz ve ücretli teklifleri gösterir. Yalnızca ücretsiz teklifleriniz varsa yalnızca 0 ABD doları satırlık ürünle karşılanır ve herhangi bir ödeme eylemine ihtiyacınız olmayacaktır. **Kurumsal Anlaşma müşteriler** hem Azure hem de Azure Market (Avustralya, Japonya ve Singapur'daki müşteriler hariç) gösteren birleştirilmiş fatura alır. **Doğrudan Azure Market satın alan** müşteriler, yalnızca satın alma Azure Market fatura alır. Ayrıntılar için [bkz. MOSP hesapları için faturalar.](/azure/cost-management-billing/understand/download-azure-invoice#invoices-for-mosp-billing-accounts)
 
 Faturanızı alırsanız aşağıdakiler değişir:
 
