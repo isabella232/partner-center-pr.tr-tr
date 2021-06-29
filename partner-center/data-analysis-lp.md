@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1693545449abf33bc7a4f5216b7d6ef0d5713829
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: ae31e7d917e96763e107212a78f28bfa10acf2f4
+ms.sourcegitcommit: 3ac88f7925bfe1df90e267ee5c1ee4d752ac92d4
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112276867"
+ms.lasthandoff: 06/29/2021
+ms.locfileid: "113013327"
 ---
 # <a name="use-analytics-to-learn-more-about-subscription-revenue"></a>Abonelik geliri hakkında daha fazla bilgi edinmek için analiz kullanın
 
@@ -33,7 +33,7 @@ CSP işinizi geliştirmenin yollarını planlarken müşterilerinizin Microsoft 
 
 ## <a name="trailing-twelve-month-ttm-csp-revenue"></a>Sondaki Twelve-Month (TTD) CSP geliri
 
-Son 12 aylık CSP geliri, Iş ortağı küresel hesap düzeyinde ABD Doları cinsinden sondaki bulut çözümü sağlayıcısı programı gelirini temsil eder. Veriler, önceki aya kadar son on iki aylık geliri göstermek için her ayın sekizinci ' i üzerinde yenilenir. Örneğin, 9 Eylül 2020 ' de, 5 2020 2019 Eylül ayının 5. ayında, için TTı 'yi görmeniz gerekir.
+Son 12 aylık CSP geliri, Iş ortağı küresel hesap düzeyinde ABD Doları cinsinden sondaki bulut çözümü sağlayıcısı programı gelirini temsil eder. Veriler, önceki aya kadar son on iki aylık geliri göstermek için her ayın sekizinci ' i üzerinde yenilenir. Örneğin, 9 Eylül 2020 ' de, 5 2020 2019 Eylül ayının 5. ayında, için TTı 'yi görmeniz gerekir. Yazılım abonelikleri hariç tutulur. TTE geliri yalnızca faturaların zaten ödeneceği uygun geliri yansıtır. 
 
 Iş Ortağı Merkezi 'nde görüntülenecek gelir, 12 aylık sabit bir zaman aralığı için hesaplanır ve daha kısa bir zaman dilimine değiştirilemez.
 
