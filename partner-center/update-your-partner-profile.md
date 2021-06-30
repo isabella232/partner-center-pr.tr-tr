@@ -1,108 +1,111 @@
 ---
-title: Şirket Profilinizi doğrulama
+title: Şirket profilinizi doğrulama
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Birincil iletişim, adres ve program bilgileri gibi şirketinizin ayrıntılarını nasıl doğrulayacağınızı öğrenin. Yasal ve fatura adreslerinizi de güncelleştirebilirsiniz.
+description: Birincil kişi, adres ve program bilgileri gibi şirket ayrıntılarınızı doğrulamayı öğrenin. Ayrıca yasal ve faturalama adreslerinizi de güncelleştirebilirsiniz.
 author: parthpandyaMSFT
 ms.author: parthp
 ms.topic: how-to
 ms.date: 04/12/2021
 ms.localizationpriority: medium
 ms.custom: contperf-fy21q4
-ms.openlocfilehash: 49f5e30df241c8a29c3282c1958b39ebd9add36e
-ms.sourcegitcommit: bce54ddb9fff7332a03d6aa228ba9414a87d76b7
+ms.openlocfilehash: 9f9a055ce3bfbff568287267b74b04e8f9d03ad1
+ms.sourcegitcommit: 8235c89e789cdb5115fc1c19151fa8e97c743fe5
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/22/2021
-ms.locfileid: "112431733"
+ms.lasthandoff: 06/30/2021
+ms.locfileid: "113080631"
 ---
-# <a name="verify-or-update-your-company-profile-information"></a>Şirket profili bilgilerinizi doğrulama veya güncelleştirme 
+# <a name="verify-or-update-your-company-profile-information"></a>Şirket profili bilgilerini doğrulama veya güncelleştirme 
 
-**Uygun roller**: genel yönetici | MPN Hesap Yöneticisi
+**Uygun roller:** Genel yönetici | MPN hesap yöneticisi
 
-Iş Ortağı Merkezi 'Nde genel yönetici olarak ilk kez oturum açtığınızda tüm şirket ayrıntılarınızın doğru olduğunu onaylamanız gerekir. Bunlar birincil iletişim, yasal iş adı ve adresi ve program bilgilerini içerir. Şirketinizde birden fazla konum varsa, konum verilerinizi doğruluk açısından inceleyin. Genel yönetici, faturalandırma Yöneticisi veya yönetici Aracısı olarak faturalandırma ve vergi bilgilerinizi görebilir ve güncelleştirebilirsiniz.
+Genel yönetici olarak İş Ortağı Merkezi ilk kez oturum aken, tüm şirket ayrıntılarınızı doğru onaylamanız gerekir. Bunlar birincil iletişim, yasal işletme adı ve adresi ile program bilgilerini içerir. Şirketinizin birden fazla konumu varsa, doğruluk için konum verilerinizi gözden geçirebilirsiniz. Genel yönetici, Faturalama yöneticisi veya Yönetici aracısı olarak faturalama ve vergi bilgilerinizi de görebilir ve güncelleştirebilirsiniz.
 
-İş ortağı profiliniz, yasal iş bilgileriniz, birincil iletişim adı ve e-postalarınız, şirketinizin katıldığı programlar ve varsa diğer şirketleriniz, artık yasal işletmeniz kapsamında birleştirilmiş olan diğer şirketlerinizden oluşur. Yasal iş profilinizdeki şirket adı ve adresinin, yazım hatalarını ve kısaltmalarının olmadığından ve resmi şirket iş kayıt kayıtlarınızı tam olarak eşleştiğinden emin olun. Tek bir proprietor olarak çalışıyorsanız, geçerli adınız olarak şirketinizin adını kullanmanız gerekir.
+> [!NOTE]
+> Faturalama adresinizi güncelleştirmek için Genel yönetici siz olun.
+
+İş ortağı profiliniz yasal iş bilgilerinden, birincil iletişim adınızdan ve e-postadan, şirketinizin katıldığı programlardan ve uygunsa yasal işletmeniz kapsamında birleştirilen diğer şirketlerden oluşur. Yasal işletme profilinizde Şirket adı ve adresinin yazım hataları ve kısaltmaları olduğundan ve resmi şirket iş kaydı kayıtlarınıza tam olarak uygun olduğundan emin olun. Tek Şirket Sahibi olarak çalışıyorsanız, yasal adınız olarak şirket adını kullansanız gerekir.
 
 
-## <a name="locate-the-legal-business-profile"></a>Yasal iş profilini bulun
+## <a name="locate-the-legal-business-profile"></a>Yasal iş profilini bulma
 
-1. Iş Ortağı Merkezi 'nde **Ayarlar** simgesini seçin ve ardından **Hesap ayarları**' nı seçin.
+1. Bu İş Ortağı Merkezi Ayarlar simgesini **ve** ardından Hesap **ayarları'ı seçin.**
  
-1. **Kuruluş profili** seçin. 
+1. Kuruluş **profili'ne tıklayın.** 
 
-2. **Yasal iş profili**, **birincil Iletişim bilgileri** ve **Program bilgileri** değerlerini gözden geçirin.
+2. Yasal iş **profili, Birincil iletişim bilgileri** ve Program **bilgileri** değerlerini **gözden geçirebilirsiniz.**
 
-Diğer şirketlerinizi yasal işletmeniz kapsamında birleştirdiyseniz, bu bilgileri de gözden geçirebilirsiniz. 
+Yasal işletmeniz kapsamında diğer şirketlerinizi birleştirtiyebilirsiniz, bu bilgileri de gözden geçirebilirsiniz. 
 
 ## <a name="update-your-legal-business-profile"></a>Yasal iş profilinizi güncelleştirme 
 
-Iş Ortağı Merkezi 'nde yasal şirket adınızı veya adresinizi güncelleştirin.
+Yasal şirket adı veya adresinizi şirket İş Ortağı Merkezi.
 
 >[!Important]
->- Microsoft İş Ortağı Ağı (MPN) hesapları için, hem genel yönetici hem de hesap yöneticisi yasal şirket adını güncelleştirebilir.
->- Bulut çözümü sağlayıcısı (CSP) dolaylı satıcı hesapları için, yasal şirket adını yalnızca genel yönetici güncelleştirebilir. 
->- Hesap doğrulama durumu **yetkilendirilirse** doğrudan fatura ortakları ve dolaylı sağlayıcılar, şirketinin yasal adını değiştiremezler. Adı değiştirmeniz gerekiyorsa, bir [destek bileti](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=eb74583c-61b3-2124-bffc-00920e0ae772)oluşturmanız gerekir.
+>- Daha Microsoft İş Ortağı Ağı (MPN) hesapları için hem Genel yönetici hem de Hesap yöneticisi yasal şirket adını güncelleştirebilirsiniz.
+>- Diğer Bulut Çözümü Sağlayıcısı (CSP) Dolaylı kurumsal bayi hesapları için yalnızca Genel yönetici yasal şirket adını güncelleştirebilirsiniz. 
+>- Hesap doğrulama durumu Yetkili ise doğrudan fatura iş ortakları ve Dolaylı sağlayıcılar, şirketin yasal **adını** değiştiremez. Adı değiştirmeniz gerekirse bir Destek bileti oluşturmanız [gerekir.](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=eb74583c-61b3-2124-bffc-00920e0ae772)
 
 
 
-1. Iş Ortağı Merkezi 'nde **Ayarlar**' ı seçin, **Hesap ayarları**' nı ve ardından **kuruluş profili**' ni seçin.
+1. Bu İş Ortağı Merkezi Ayarlar'ı **seçin,** Hesap **ayarları'ı ve** ardından Kuruluş **profili'ne tıklayın.**
 
-2. **Yasal**' ı seçin ve ardından güncelleştirmek istediğiniz yasal iş profilini (iş ortağı veya satıcı) seçin.
+2. **Yasal'ı** ve ardından güncelleştirmek istediğiniz Yasal iş profilini (İş Ortağı veya Kurumsal Bayi) seçin.
 
-1. Şirket adının/adresinin yanındaki **Güncelleştir** ' i seçin ve ayrıntıları değiştirin.
+1. Şirket  adının/adresinin yanındaki Güncelleştir'i seçin ve ayrıntıları değiştirme.
  
-1. **Gönder**' i seçtiğinizde yasal kimliğiniz yeniden atanır. Yalnızca değiştirdiklerinizi yeniden atamamız.
+1. **Gönder'i** seçerek yasal kimliğiniz yeniden değerlendirilecek. Yalnızca değiştirmiş olduğunu yeniden değerlendirmiş oluruz.
 
-1. Doğrulama başarısız olursa, [sorunu nasıl düzelteceğinizi](verification-responses.md)öğrenin.
+1. Doğrulama başarısız olursa, sorunu nasıl [çözebilirsiniz?](verification-responses.md)
 
 >[!Important]
->Bir CSP iş ortağıysanız, yasal adresiniz ile ilişkili ülkeyi değiştiremezsiniz. Yasal adres ülkeniz, kiracı ve hizmetlerinize ve iş yaptığınız para birimine bağlıdır. MPN ülke güncelleştirmeleri hakkında bilgi edinmek için  [MPN ülke güncelleştirmelerini](manage-locations.md#change-country-of-partner-global-account)okuyun.
+>CSP iş ortağıysanız, yasal adresinizle ilişkili ülkeyi değiştiremezsiniz. Yasal adres ülkeniz, kiracınıza ve hizmetlerinize ve iş yapmak için kullanılan para birimine bağlı. MPN ülke güncelleştirmeleri hakkında bilgi edinmek için [MPN ülke güncelleştirmeleri makalelerini okuyun.](manage-locations.md#change-country-of-partner-global-account)
 
 
-### <a name="who-can-update-legal-business-name-and-when"></a>Yasal iş adını ve ne zaman güncel,
+### <a name="who-can-update-legal-business-name-and-when"></a>Yasal işletme adını ve ne zaman güncelleştirenler
 
-|**Program**|**Şirket adını kimlerin güncelleştirebilen**|**(Durum) güncelleştirilemeyebilir**|**İzin verildi**|
+|**Program**|**Şirket adını güncelleştirenler**|**Ne zaman (durum) güncelleştirilebilir?**|**İzin verildi**|
 |---------------------|:-------------------------------|:------------|:-----------------|
-MPN|Genel yönetici; Hesap Yöneticisi|Yetkisi yayınlan reddedilecek| İzin Verildi|
-|CSP: dolaylı satıcı|Genel yönetici|Yetkisi yayınlan reddedilecek| İzin Verildi|
+MPN|Genel yönetici; Hesap yöneticisi|Yetkili; beklemede; Reddetti| İzin Verildi|
+|CSP: Dolaylı kurumsal bayi|Genel yönetici|Yetkili; beklemede; Reddetti| İzin Verildi|
 
 
-## <a name="update-your-mpn-global-business-account"></a>MPN küresel Iş Hesabınızı güncelleştirin
+## <a name="update-your-mpn-global-business-account"></a>MPN Genel İş Hesabı'nızı güncelleştirme
 
-İş ortağı üyeliği merkezinden Iş Ortağı Merkezi 'ne geçiş yaparken, yasal iş olarak yanlış iş hesabı tanımlanmışsa, bunu doğru yasal iş hesabına dönüştürebilirsiniz.
+Partner Membership Center İş Ortağı Merkezi geçiş sırasında, yanlış iş hesabı yasal işletme olarak tanımlandıysa, bunu doğru yasal iş hesabıyla değiştirebilirsiniz.
 
-Bu güncelleştirmeleri yapmak için genel yönetici ya da hesap yöneticisi olmanız gerekir. [MPN Genel konum hesaplarınızı yönetmeyi](manage-locations.md) öğrenin
+Bu güncelleştirmeleri yapmak için Genel yönetici veya Hesap yöneticisi olmak gerekir. [MPN Genel konum hesaplarınızı yönetmeyi öğrenin](manage-locations.md)
 
 
 ## <a name="update-your-mpn-id-associated-with-your-csp-account"></a>CSP hesabınızla ilişkilendirilmiş MPN Kimliğinizi güncelleştirin
 
-CSP hesabınızla ilişkili MPN KIMLIĞINI güncelleştirmek için:
+CSP hesabınızla ilişkili MPN kimliğini güncelleştirmek için:
 
-1. Iş Ortağı Merkezi [PANOSUNDA](https://partner.microsoft.com/dashboard/home) CSP hesabı kimlik bilgilerinizle genel yönetici olarak oturum açın ve ardından **Ayarlar**' ı seçin. (MPN ve CSP kimlik bilgileriniz farklı olabilir.)
+1. CSP hesabı İş Ortağı Merkezi [genel](https://partner.microsoft.com/dashboard/home) yönetici olarak panoda oturum açın ve Ayarlar'ı **seçin.** (MPN ve CSP kimlik bilgileriniz farklı olabilir.)
  
-1. **Hesap ayarlarından** **tanımlayıcılar** ' ı seçin.
+1. Hesap **ayarlarından** **Tanımlayıcılar'ı seçin.**
 
-1. **CSP** bölümünde, CSP hesabınızla ilişkili MPN kimliğini güncelleştirmek için **Güncelleştir** bağlantısını kullanın 
+1. **CSP bölümünde,** CSP **Hesabınızla** ilişkili MPN kimliğini güncelleştirmek için Güncelleştir bağlantısını kullanın 
 
 
-## <a name="update-your-csp-legal-billing-address"></a>CSP yasal faturalandırma adresinizi güncelleştirme
+## <a name="update-your-csp-legal-billing-address"></a>CSP yasal faturalama adresinizi güncelleştirme
 
-Genel yönetici, faturalandırma Yöneticisi veya yönetici aracılarınız varsa faturanızda **ödeme ve vergi profilinizde** görüntülenen adresi değiştirebilirsiniz. Ancak fatura sisteminin koyduğu sınırlamalar nedeniyle faturanızdaki şirket adını değiştiremezsiniz.
+Genel yöneticiyseniz, Ödeme ve vergi profilinizde faturanıza görünen **adresi değiştirebilirsiniz.** Şu anda fatura sistemiyle ilgili bir sınırlama nedeniyle faturanıza şirket adını değiştiremezsiniz.
 
-:::image type="content" source="images/billing-profile.png" alt-text="Faturalama bilgilerinin eklendiği alanın Ekran yakalaması.":::
+:::image type="content" source="images/billing-profile.png" alt-text="Faturalama bilgisinin ekli olduğu alanı ekran yakalama.":::
 
 |**Alan**  |**Açıklama**|  
 |---------------------|:------------------|
-|Fatura-şirket adı|CSP faturanızda Bill-To bilgilerinde görüntülenen şirket adı.  Bu, Iş Ortağı Merkezi 'nde düzenlenemez.  Güncelleştirmek için bir destek bileti oluşturun.|
-|Fatura adresi|CSP faturasında gösterilen fatura adresi. [Faturalandırma profilinden](https://partner.microsoft.com/dashboard/account/v3/accountsettings/billingprofile#commercial)güncelleştirilebilen olabilir.|
-|Fatura-Ilgili kişisi|CSP hesabı için faturalandırma iletişim ayrıntıları (ad, soyadı, birincil sayı).  [Faturalandırma profilinden](https://partner.microsoft.com/dashboard/account/v3/accountsettings/billingprofile#commercial)güncelleştirilebilen olabilir.|
-|PO numarası|İş ortağı faturasında görünen satınalma siparişi numarası. [Faturalandırma profilinden](https://partner.microsoft.com/dashboard/account/v3/accountsettings/billingprofile#commercial)güncelleştirilebilen olabilir.|
-|Şirket vergi KIMLIĞI|Bazı ülkelerdeki işletmeler, [değer dahil vergi (KDV) numarasını veya yerel eşdeğerini](./organization-tax-info.md)sağlayabilir. Vergi/KDV numaranızı güncelleştirmek için genel yönetici, faturalama yöneticisi veya yönetim aracısı olmanız gerekir.|
-|Faturalama para birimi|CSP hesabınız için faturalandırma para birimi, CSP hesabının yasal ülkesine göre belirlenir.  Bu, CSP hesabı oluşturulduktan sonra değiştirilemez.|
+|Fatura-Şirket adı|CSP faturanıza ilişkin Bill-To görünen şirket adı.  Bu bilgiler İş ortağı merkezinde düzenlenemez.  Güncelleştirmek için bir destek bileti oluşturun.|
+|Fatura Adresi|CSP faturada gösterilen Fatura adresi. Faturalama profilinden [güncelleştirilebilir.](https://partner.microsoft.com/dashboard/account/v3/accountsettings/billingprofile#commercial)|
+|Fatura İlgili Kişisi|CSP hesabı için faturalama ilgili kişi ayrıntıları (ad, soyadı, birincil numara).  Faturalama profilinden [güncelleştirilebilir.](https://partner.microsoft.com/dashboard/account/v3/accountsettings/billingprofile#commercial)|
+|Po Numarası|İş ortağı faturada görüntülenen Satın Alma Siparişi numarası. Faturalama profilinden [güncelleştirilebilir.](https://partner.microsoft.com/dashboard/account/v3/accountsettings/billingprofile#commercial)|
+|Şirket Vergi Numarası|Bazı ülkelerdeki işletmeler katma değerli vergi [(KDV) numarasını veya yerel eşdeğerini sağlanıyor olabilir.](./organization-tax-info.md) Vergi/KDV numaranızı güncelleştirmek için genel yönetici, faturalama yöneticisi veya yönetim aracısı olmanız gerekir.|
+|Faturalama Para Birimi|CSP hesabınız için faturalama para birimi, CSP hesabının yasal ülkesi tarafından belirlenir.  CSP hesabı oluşturulduktan sonra bu bilgiler değiştirilemez.|
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-- [Doğrulama durumunuzu denetleyin](verification-responses.md)
+- [Doğrulama durumunu denetleme](verification-responses.md)
 
 - [MPN konumlarını yönetme](manage-locations.md)

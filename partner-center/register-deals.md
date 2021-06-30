@@ -1,85 +1,83 @@
 ---
 title: Anlaşmalarınızı kaydetme
 ms.topic: article
-ms.date: 06/05/2020
+ms.date: 06/29/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
 description: Iş Ortağı Merkezi 'nde kazandığınızı bir anlaşmayı kaydettiğinizde, Microsoft 'un gelecekte daha fazla fırsat sağlamasına yardımcı olur.
 author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: medium
-ms.custom: SEOMAY.20
-ms.openlocfilehash: 4709236b8887bc262cac3bf36b5dd7fcf3c17c92
-ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
+ms.openlocfilehash: eaa9bb6f8e57033669ef584e7c52c0d050a532e0
+ms.sourcegitcommit: 8235c89e789cdb5115fc1c19151fa8e97c743fe5
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "112551155"
+ms.lasthandoff: 06/30/2021
+ms.locfileid: "113080674"
 ---
-# <a name="register-deals-youve-won-in-partner-center-so-you-can-get-more-opportunities-later"></a>Daha sonra daha fazla fırsat alabilmeniz için Iş Ortağı Merkezi 'nde kazandığı anlaşmaları kaydedin
+# <a name="register-deals-youve-won-in-partner-center"></a>Iş Ortağı Merkezi 'nde kazandığı anlaşmaları kaydetme
 
 **Uygun roller**: başvuru Yöneticisi
 
 Sözleşme hakkında ek bilgiler sunarak, Iş Ortağı Merkezi 'nde kazanılan anlaşmaları kaydedebilirsiniz. Bu bilgiler ileride daha fazla fırsat sağlamanıza yardımcı olur.
 
-Belirli uygun çözümler için, [başvuru yanıt Işleminde](manage-leads.md) **kazanıldı** ' ı seçtikten sonra, sizden anlaşmayı kaydetmek için ek bilgiler sağlamanız istenecektir. Microsoft, sağladığınız bilgileri gözden geçirir ve gözden geçirme işlemi sırasında daha fazla ayrıntı isteyebilir.
+Anlaşma kaydına yol açabilecek iki yol vardır:
 
-Ayrıca, bir [başvuruya](referrals.md)ait olmasalar bile, çözümlerinizin birini kullanan yeni anlaşmalar da kaydedebilirsiniz.
+- **Ortak satış fırsatları** bölümünde yeni bir anlaşma oluşturdunuz ve cihazınız, anlaşma kaydı ölçütlerini karşılıyor.
+- Microsoft ile birlikte satılan kapalı bir ISV bağlantısı anlaşmayı raporlamak istiyorsunuz.
 
-## <a name="register-a-new-deal"></a>Yeni bir anlaşma Kaydet
+## <a name="register-a-deal-originating-from-a-co-sell-opportunity"></a>Ortak satış fırsatlarından kaynaklanan bir anlaşmayı kaydetme
 
-Yeni bir **IP ortak satış** fırsatıını kaydetmek için, ilgili ortak satış fırsatına gidin ve "şirketinizin anlaşma ilerlemesi" bölümünde **Kaydet** ' i seçin.
+Ortak satış fırsatlarından kaynaklanan bir anlaşmayı kaydetmek istiyorsanız, aşağıdaki uygunluk gereksinimlerini karşılamanız gerekir:
 
-**Taslak işlem** sayfasında, aşağıdaki bilgileri sağlayın.
+- Anlaşma türü ortak satış veya iş ortağı tarafıydır (Microsoft satıcıların bu anlaşmayı görüntülemesine izin vermeyi seçtiniz).
+- İşlem için en az bir özenle uygun çözüm vardır. Bir çözüm, aşağıdaki etiketlerden en az birini içeriyorsa, özensiz olarak uygundur:
+  - Azure IP ortak satışı
+  - Business Applications Premium
+  - Business Applications standart
+- Anlaşma durumu "kazanıldı" dır.
+- Anlaşma türü ortak satış ise, Microsoft daveti kabul etmiş ya da Kazanıldı olarak işaretlenmiş olmalıdır. Microsoft 'un durumu ' nu, Microsoft kartına, anlaşma ayrıntılarınızın altına bakarak görebilirsiniz.
 
-- **Market işlem durumu**: Azure Marketi 'nde işlem yapılacak bir işlem için kayıt oluşturmak üzere kutuyu işaretleyin.
-- **Market işlem tarihi**: market işlem durumu ile ilgili Box işaretliyse, bu alan kullanılabilir ve yapılandırılmalıdır. Değer, geçmiş bir işlem tarihidir veya işlemin tahmini gelecek bir tarihidir.
-- **Toplam anlaşma değeri**: katılım için beklenen toplam değer. Bu, tüm yazılım ve hizmet ücretlerini içermelidir, ancak donanım maliyetlerini içermez. Uygun para birimini seçtiğinizden emin olun.
-- **Çözüm değeri**: Bu işlem için kullanılacak bulut çözümünün toplam değeri. Yazılım ve bakım ücretleri ile ilişkili tüm maliyetleri eklediğinizden, ancak Microsoft tarafından ödenen reimbursable öğelerini, tekrarsız özelleştirme ücretlerini veya doğrudan ilişkili bulut çözümü sağlayıcısı (CSP) lisans ücretlerini eklemeyin.
-- **Dağıtım tarihi**: **Azure** veya **başka** birini seçin.
-- **Çözüm nereye dağıtılacak?**: **Müşteri kiracısını** veya **iş ortağı kiracısını** seçin.
-- **Sözleşme imzalı tarihi**: son sözleşmenin kuruluşunuz tarafından ve müşteri tarafından imzalandığı tarih. Kullandıkça Öde (PAYG) anlaşmaları için ilk faturanın tarihini kullanın.
-- **Sözleşme başlangıç tarihi**: sözleşmenin başlayacağı tarih. PAYG anlaşmaları için ilk faturanın tarihini kullanın. Tasarıma göre Iş Ortağı Merkezi, sözleşmenin işaret tarihinden önceki bir başlangıç tarihi girmenize izin vermez. Bu, oturum tarihinden önce başlayan IP dağıtımları gibi bazı anlaşmaları etkileyebilir. Bu anlaşmaları başarıyla girmek için, gönderme sırasında **her iki** oturum açma tarihi ve başlangıç tarihi alanları için sözleşme işareti tarihini kullanın. (Sözleşme, ACV 'nin doğru hesaplanabilmesi için anlaşmanın süresini açıkça sağlamalıdır.)
-- **Sözleşme bitiş tarihi**: sözleşme belirli bir tarihte sonlanacaktır, bu tarihi belirtin. PAYG anlaşmaları için son veya en son faturanın tarihini kullanın.
-- **Sözleşme türü**: IP ortak satış anlaşmaları için geçerli değildir.
-- **Kayıt kişisi**: kuruluşunuzdaki bir kişinin **adı**, **Soyadı**, **telefon numarası** ve **e-posta** , burada belirtilen bilgilerden herhangi biri hakkında daha fazla ayrıntıya ihtiyacımız olursa sizinle iletişim kuruyoruz.
+Uygunluk gereksinimlerini karşıladıysanız, işlem ilerleme çubuğunda, **Şimdi kaydet** düğmesine bir kayıt yaptırmanız gerekir:
 
-Sayfanın tüm bölümlerini tamamladığınızda **Kaydet**' i seçin. Ardından, anlaşma kaydı, **gönderilen** duruma taşınır. Microsoft daha sonra, anlaşma durumu ' **nun altına** geçtikten sonra verdiğiniz bilgileri gözden geçirir. Durumlarını durumlarına göre izlemek için bu filtreleri kullanabilirsiniz.
+:::image type="content" source="images/register-deals.png" alt-text="Anlaşma ilerleme çubuğunu gösteren ekran görüntüsü.":::
 
-Kapalı bir **ISV bağlantısı anlaşmayı** kaydetmek Için **+ rapor kapalı ISV bağlantısı dağıt** ' ı seçin.
+> [!NOTE]
+> Anlaşma **kayıt** öğesi, sizin için anlaşma ilerleme çubuğunda görünmüyorsa, anlaşma, anlaşma kaydı gereksinimlerini karşılamaz.
 
-**Yeni işlem** sayfasında, aşağıdaki bilgileri sağlayın.
+**Şimdi kaydet**'e tıkladıktan sonra, teslim kayıt sayfasına yönlendirilirsiniz ve müşteri ve çözümünüz için önceden doldurulmuş bilgiler içeren bir form doldurmanız istenir. Aşağıdaki yönergeleri kullanarak formu doldurun ve **Kaydet**' e tıklayın.
+
+Kayıt sırasında, çözüme göre oluşturulan bir veya iki anlaşma kaydı kaydı olur.
+
+- Çözümünüz ISV Connect için uygun ise, bir ISV Connect anlaşma kayıt kaydı oluşturulur. Bu işlem kaydı kaydı, faturalandırma için kullanılacaktır.
+- Çözümünüz IP ortak satışı teşvikleri için uygun ise, bir IP ortak satış anlaşma kaydı kaydı oluşturulur. Bu işlem kaydı kaydı, ortak satış anlaşma değerlendirmesi ekibi tarafından incelenip onaylanacaktır.
+
+## <a name="report-a-closed-isv-connect-deal"></a>Kapalı bir ISV bağlantısı anlaşmayı raporla
+
+Kapalı bir ISV bağlantısı anlaşmayı raporlamak için, **anlaşma kaydı** sekmesine gidin ve **+ kapalı ISV bağlantısı dağıt**' a tıklayın. Gerekli alanları doldurun ve **Kaydet**' e tıklayın. Bu işlem kaydı kaydı, faturalandırma için kullanılacaktır.
+
+## <a name="fill-out-the-deal-registration-form"></a>İşlem kaydı formunu doldurun
+
+> [!NOTE]
+> Anlaşmaları müşteri adına, duruma ve anlaşma türüne göre filtreleyebilirsiniz. Bunu yapmak için, anlaşma kayıt sayfasının en üstündeki **filtre** düğmesine tıklayın.
+
+Bir ortak satış fırsatınızdan kayıt yapmanız veya Microsoft ile birlikte satılmamış kapalı bir ISV Connect işlemi bildirmeniz durumunda, anlaşma kayıt formunda aşağıdaki alanları doldurmanız istenecektir.
 
 - **Müşteri ayrıntıları**: Müşterinizin **şirket adını** girin ve **ülke/bölge** değerlerini seçin. Ardından, **şehir** ve **Eyalet/bölge** değerlerini girin.
 - **Çözüm**: anlaşma için kullanılacak çözümü seçin. Doğru çözümü listede görmüyorsanız desteğe başvurun.
-- **Anlaşma türü**: bunun **Yeni** bir sözleşme olup olmadığını veya önceki bir sözleşmenin **yenilenmesini** belirtin.
-- **Toplam anlaşma değeri**: katılım için beklenen toplam değer. Bu, tüm yazılım ve hizmet ücretlerini içermelidir, ancak donanım maliyetlerini içermez. Uygun para birimini seçtiğinizden emin olun.
+- **Anlaşma türü**: Bu anlaşmanın **Yeni** bir sözleşme mi yoksa önceki bir sözleşmenin **yenilenmesi** mi olduğunu belirtin.
+- **Toplam anlaşma değeri**: katılım için beklenen toplam değer. Bu değer, tüm yazılım ve hizmet ücretlerini içermelidir, ancak donanım maliyetlerini içermez. Uygun para birimini seçtiğinizden emin olun.
 - **Çözüm değeri**: Bu işlem için kullanılacak bulut çözümünün toplam değeri. Yazılım ve bakım ücretleri ile ilişkili tüm maliyetleri eklediğinizden, ancak Microsoft tarafından ödenen reimbursable öğelerini, tekrarsız özelleştirme ücretlerini veya doğrudan ilişkili CSP lisans ücretlerini eklemeyin.
-- **Dağıtım tarihi**: **Azure** veya **başka** birini seçin.
-- **Çözüm nereye dağıtılacak?**: **Müşteri kiracısını** veya **iş ortağı kiracısını** seçin.
-- **Sözleşme başlangıç tarihi**: sözleşmenin başlayacağı tarih. PAYG anlaşmaları için ilk faturanın tarihini kullanın. Tasarıma göre Iş Ortağı Merkezi, sözleşmenin işaret tarihinden önceki bir başlangıç tarihi girmenize izin vermez. Bu, oturum tarihinden önce başlayan IP dağıtımları gibi bazı anlaşmaları etkileyebilir. Bu anlaşmaları başarıyla girmek için, gönderme sırasında **her iki** oturum açma tarihi ve başlangıç tarihi alanları için sözleşme işareti tarihini kullanın. (Sözleşme, ACV 'nin doğru hesaplanabilmesi için anlaşmanın süresini açıkça sağlamalıdır.)
+- **Çözüm Azure 'da dağıtılacak mı? Aksi takdirde, diğer ' i seçin**: **Azure** veya **başka** birini seçin.
+- **Çözüm tüketimi iş ortağı kiracısında veya müşteri kiracısında mi çalışacak?**: **Müşteri kiracısını** ya da **iş ortağı kiracısını** seçin.
+- **Sözleşme başlangıç tarihi**: sözleşmenin başlayacağı tarih. Kullandıkça Öde (PAYG) anlaşmaları için ilk faturanın tarihini kullanın. Tasarıma göre Iş Ortağı Merkezi, sözleşmenin işaret tarihinden önceki bir başlangıç tarihi girmenize izin vermez. Bu, oturum tarihinden önce başlayan IP dağıtımları gibi bazı anlaşmaları etkileyebilir. Bu anlaşmaları başarıyla girmek için, gönderme sırasında **her iki** oturum açma tarihi ve başlangıç tarihi alanları için sözleşme işareti tarihini kullanın. (Sözleşme, ACV 'nin doğru hesaplanabilmesi için anlaşmanın süresini açıkça sağlamalıdır.)
 - **Sözleşme bitiş tarihi**: sözleşme belirli bir tarihte sona eruygunsa **bitiş tarihi** olan ' ı seçin ve bu tarihi belirtin. Sözleşmenin belirli bir bitiş tarihi yoksa, **kalıcı**' ı seçin. Kullandıkça Öde (PAYG) anlaşmaları için son veya en son faturanın tarihini kullanın.
-- **Sözleşme imzalı tarihi**: son sözleşmenin kuruluşunuz tarafından ve müşteri tarafından imzalandığı tarih. PAYG anlaşmaları için ilk faturanın tarihini kullanın.
+- **Sözleşme imzalı tarihi**: son sözleşmenin kuruluşunuz tarafından ve müşteri tarafından imzalandığı tarih. Kullandıkça Öde (PAYG) anlaşmaları için ilk faturanın tarihini kullanın.
 - **Kayıt kişisi**: kuruluşunuzdaki bir kişinin **adı**, **Soyadı**, **telefon numarası** ve **e-posta** , burada belirtilen bilgilerden herhangi biri hakkında daha fazla ayrıntıya ihtiyacımız olursa sizinle iletişim kuruyoruz.
 
-Sayfanın tüm bölümlerini tamamladığınızda **Kaydet**' i seçin. Ardından, anlaşma kaydı **devam ediyor** sayfasına taşınır. Microsoft, verdiğiniz bilgileri gözden geçirir.
+Sayfanın tüm bölümlerini tamamladıktan sonra **Kaydet**' e tıklayın.
 
-Filtreleri yalnızca **eksik** veya **gerekli** anlaşma kayıtlarını görüntülemek için kullanabilirsiniz.
+- Anlaşma bir ISV bağlantısı ise, anlaşma durumunun "gönderilme, tamamlandı" olduğunu fark edeceksiniz. Bu işlem kaydı kaydında daha fazla eylem gerekmez. Bu kayıt, faturalandırma için kullanılacaktır.
+- Anlaşma bir IP ortak satışı ise, anlaşma durumunun "gönderilme" olduğunu fark edeceksiniz. Microsoft ortak satış anlaşma değerlendirmesi ekibi, bu işlem kaydı kaydında verdiğiniz bilgileri gözden geçirir. Gözden geçirme ekibi, gerektiğinde daha fazla eylem ister veya doğrudan anlaşmayı onaylayabilir/reddedebilir.
+- Ortak satış fırsatlarından kaynaklanan bir anlaşmayı kaydediyorsanız ve iki anlaşma kaydı kaydının oluşturulduğunu görürseniz, bu çözüm, her iki ISV bağlantısı ve IP ortak satışı için uygun olduğu anlamına gelir. ISV Connect kaydı, faturalandırma için kullanılır. IP ortak satış kaydı, ortak satış anlaşma doğrulama ekibi tarafından incelenmeyecektir.
 
-## <a name="viewing-active-and-closed-deal-registrations"></a>Etkin ve kapatılmış satış kayıtlarını görüntüleme
-
-Sayfanın sağ üst köşesinde bulunan filtre bölümünde bulunan durum filtresini kullanarak, yeni, etkin ve kapalı anlaşma kayıtlarını farklı durumlarıyla **> referanslar** altında farklı durumlarıyla gözden geçirebilirsiniz.
-
-### <a name="action-required"></a>Eylem gerekiyor
-
-İşlem kayıtları sayfasında, eylem gerekli durumu için filtre uygulayın, henüz kaydedilmemiş veya güncelleştirme gerektiren yeni kayıtlar görürsünüz. Filtreleri yalnızca **eksik** veya **gerekli** anlaşma kayıtlarını görüntülemek için kullanabilirsiniz. **Tamamlanmamış** anlaşma kayıtları, başvurulardan kaynaklanan, ancak henüz kaydedilmemiş olan kayıtlardır. **Güncelleştirme gerekli** anlaşma kayıtları oluşturulup kaydolmuşlardır, ancak verdiğiniz bilgileri güncelleştirmeniz gerekir.
-
-### <a name="under-review"></a>Gözden geçiriliyor
-
-Anlaşma kayıtları sayfasında, gözden geçirme durumu ' nun altına filtre uygulayın, Microsoft 'un gözden geçirdikleri işlem kayıtlarını görürsünüz. Daha fazla bilgiye ihtiyacımız varsa, verdiğiniz **kayıt iletişim** bilgilerini kullanacağız.
-
-Herhangi bir bilginin güncelleştirilmesi gerekiyorsa, **işlem kaydını eylem gerekli** durumuna taşıyabiliriz.
-
-### <a name="closed"></a>Kapatıldı
-
-Işlem kayıtları sayfasında, Kapalı durumuna göre filtreleyin, Microsoft tarafından başarıyla kaydedilen ve gözden geçirilen anlaşmaları görürsünüz. Filtreleri yalnızca **onaylanmış** veya **reddedilmiş** anlaşma kayıtlarını göstermek için kullanabilirsiniz.
