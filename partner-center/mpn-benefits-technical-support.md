@@ -9,12 +9,12 @@ ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 06/17/2021
-ms.openlocfilehash: 0052f4dd352789245eadf157823119cd5f05f2a8
-ms.sourcegitcommit: 8511fec63961d8c77a4d1eea3e3f1d37cdea46c6
+ms.openlocfilehash: 7cdb5e04482f32d1b57346c86fa9db218cb11452
+ms.sourcegitcommit: 5d5747d245bdd967fd82df4bcc0a1f8a30a55cea
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/19/2021
-ms.locfileid: "112373315"
+ms.lasthandoff: 06/30/2021
+ms.locfileid: "113105048"
 ---
 # <a name="technical-support-for-on-premises-or-cloud-products"></a>Şirket içi veya bulut ürünleri için teknik destek
 
@@ -52,7 +52,7 @@ Iş Ortağı Merkezi 'nde teknik avantajlarınızı görüntüleme veya etkinle�
    > [!NOTE]
    > Hesabınız yalnızca CSP ile ilişkiliyse ve MPN ile ilişkili değilse, "Bu eylem için yetkiniz yok" hata iletisini görürsünüz. Bir MPN ilişkili hesabınız olmalıdır.
 
-2. , Sol gezinti menüsünde **avantajlar** ' ı genişletin, **Teknik avantajlar**' ı seçin. Teknik avantajlar sayfasında, kuruluşlarınızın etkin altın, gümüş veya Microsoft Eylem Paketi üyelik teklifleri görüntülenir.
+2. , Sol gezinti menüsünde **avantajlar** ' ı genişletin, [**Teknik avantajlar**](https://partner.microsoft.com/dashboard/mpn/membership/benefits/technical)' ı seçin. Teknik avantajlar sayfasında, kuruluşlarınızın etkin altın, gümüş veya Microsoft Eylem Paketi üyelik teklifleri görüntülenir.
 
    :::image type="content" source="images/mpn-benefits-technical-support/technical-benefits-1.png" lightbox="images/mpn-benefits-technical-support/technical-benefits-1.png" alt-text="Teknik avantajlar daha sonra avantajlar" :::
 
@@ -123,18 +123,18 @@ Azure, Dynamics 365 ve diğer bulut ürünlerinin avantajlarını ilk kez kullan
 
 Azure istekleri oluşturan CSP iş ortakları, destek sözleşmesi eklemeden "bulut çözümü sağlayıcısı" destek planını kullanabilir.
 
-Yönetici Aracısı **rolüne sahip** [kullanıcılar,](https://partner.microsoft.com/commerce/customers/list) sol gezinti menüsünde CSP altında Müşteriler'i, **Hizmet Yönetimi'ni ve Yeni** istek'i **seçebilirsiniz.**  İlgili iş yükünü seçerek iş yüküne özgü portal açılır ve bir destek sözleşmesi ekp bir istek oluşturmanız gerekir.
+Yönetici Aracısı **rolüne sahip** [kullanıcılar,](https://partner.microsoft.com/commerce/customers/list) sol gezinti menüsünde CSP altında Müşteriler'i, **Hizmet Yönetimi'ni ve** Yeni istek'i **seçebilirsiniz.**  İlgili iş yükünü seçerek iş yüküne özgü portal açılır ve bir destek sözleşmesi ekp bir istek oluşturmanız gerekir.
 
-### <a name="azure-portal-error-access-id-is-already-associated-"></a>Azure portal "Erişim Kimliği zaten ilişkili ..."
+### <a name="azure-portal-error-access-id-is-already-associated-"></a>Azure portal "Erişim Kimliği zaten ilişkili ..." hatası
 
 Azure portal' Signature Bulut Desteği Yardım + Destek, Destek Planları'nın ardından "Destek avantajlarını bağlama" seçeneğini kullanarak erişim kimliğini ve Sözleşme Kimliğini girersiniz.
 
 > [!NOTE]
-> Microsoft Eylem Paketi, yalnızca Microsoft Ürün Desteği (Şirket içi) dahil Signature Bulut Desteği Bulut desteğine sahip olmaz
+> Microsoft Eylem Paketi, yalnızca Microsoft Ürün Desteği (Şirket içi) dahil Signature Bulut Desteği Bulut desteği alamayabilirsiniz
 
-hata iletisini `This Access ID is already associated to an account. Please contact your Technical Account Manager to obtain a new Access ID` alabilirsiniz. Bu hata iletisi geçersiz ve yoksayılacak. Hatanın devre dışı bırakılabilir ve yerine yararlı bir tanılama hata iletisi değiştirilebilir.
+hata iletisini `This Access ID is already associated to an account. Please contact your Technical Account Manager to obtain a new Access ID` alabilirsiniz. Bu hata iletisi geçersiz ve yoksayılacak. Hatanın devre dışı bırakılacak ve yararlı bir tanılama hata iletisiyle değiştirilmesini talep ettik.
 
-Bir destek sözleşmesini bir hesapla birden çok kez ilişkilendirmek için aşağıdaki hatayı `Access ID is already associated …` Azure portal. Aşağıdaki senaryolara bakın:
+Destek sözleşmesini bir hesapla birden çok kez ilişkilendirmek için yukarıdaki hatayı `Access ID is already associated …` Azure portal. Aşağıdaki senaryolara bakın:
 
 1. Altın veya gümüş teknik avantajlarınız varsa ve daha önce şirket içi destek için sözleşmeyi eklediyebilirsiniz, Azure portal'ı kullanır ve sözleşmeyi aynı hesaba ikinci kez eklersiniz. Destek sözleşmesini bir hesapla yalnızca bir kez ilişkilendirmeniz gerekir ve bu nedenle Azure'da destek avantajlarını bağlamanız gerek değildir. Sözleşme hesapla ilişkilendirilmiş durumdayken Bağlantı desteği avantajlarını kullanırsanız, hatayı alırsınız ve yoksayılırsınız. + Yeni Destek isteği kullanın ve normal şekilde bir destek olayı oluşturun; Destek planı görüntülenir.
 
@@ -146,7 +146,7 @@ Bir destek sözleşmesini bir hesapla birden çok kez ilişkilendirmek için aş
 
 Microsoft'tan teknik destek ve çok çeşitli ek hizmet seçenekleri içeren ücretli destekten yararlanabilirsiniz.
 
-İş ortağı [destek planlarını karşılaştırarak](https://partner.microsoft.com/support/partnersupport) iş ortağına özgü planlar için aşağıdakilere bakın:
+İş ortağı [desteği planlarını karşılaştırarak](https://partner.microsoft.com/support/partnersupport) iş ortağına özgü planlar için aşağıdakilere bakarak şunları yapabilirsiniz:
 
 - [Premier Destek için destek](https://partner.microsoft.com/support/microsoft-services-premier-support) - Microsoft'un en üst düzey teknik desteği
 - [İş Ortakları için Gelişmiş Destek](https://partner.microsoft.com/support/advanced-cloud-support) - Yalnızca Bulut Ürünleri
