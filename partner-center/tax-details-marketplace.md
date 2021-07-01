@@ -3,15 +3,15 @@ title: Microsoft ticari Market için vergi ayrıntıları
 description: Fiyat seçimine, ödeme etkilerine ve ülkelere/dağıtım Bölgelerinizle ilgili vergi sorumluluğuna ilişkin vergi konuları hakkında bilgi edinin.
 ms.topic: conceptual
 ms.service: partner-dashboard
-author: mingshen-ms
-ms.author: mingshen
-ms.date: 04/26/2021
-ms.openlocfilehash: 673620843ea8d469f1a665982f2a120b4b1e2d7e
-ms.sourcegitcommit: 09eabb559aae25518caf3f2a59ef16a3e123c207
+author: jasongroce
+ms.author: davjan
+ms.date: 06/29/2021
+ms.openlocfilehash: 66f60f88c1e7aa0d6af49f90a2def165f6eb39b5
+ms.sourcegitcommit: c7ab71d9e7fdbf6141c24f535b0144cfcb0403ea
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "112490028"
+ms.lasthandoff: 07/01/2021
+ms.locfileid: "113129117"
 ---
 # <a name="tax-details-for-commercial-marketplace-publishers"></a>Ticari market yayıncıları için vergi bilgileri
 
@@ -34,64 +34,63 @@ Microsoft, Microsoft 'un eylemlerin Microsoft tarafından yönetilen ülkelerde 
 
 ### <a name="publisherdeveloper-managed-countries"></a>Yayımcı/geliştirici tarafından yönetilen ülkeler: 
 
-| Ülkeler | Ülkeler (devamı) | Ülkeler (devamı) | Ülkeler (devamı) |
-|---------------|:------------------|:--------|:----------|
-|ABD Virjin Adaları|Kongo (KDC)|Jersey|Norfolk Adası|
-|Afganistan|Cook Adaları|Ürdün|Kuzey Makedonya|
-|Arnavutluk|Kosta Rika|Kazakistan|Ukrayna|
-|Cezayir|Fildişi d'Ivore|Kenya|Vanuatu|
-|Amerikan Samoası|Curacao|Kiribati|Vatikan|
-|Andorra|Dübouti|Kuveyt|Venezuela|
-|Angola|Dominika|Kırgızistan|Vietnam|
-|Anguilla|Dominik Cumhuriyeti|Laos|Wallis & Futuna|
-|Antarktika|Ekvador|Lübnan|Yemen|
-|Antigua & Barbuda|Mısır|Lesotho|Zambiya|
-|Aruba|El Salvador|Liberya|Uruguay|
-|Azerbaycan|Ekvator Ginesi|Libya|
-|Bangladeş|Eritre|Makao |
-|Barbados|Etiyopya|Madagaskar|
-|Belize|Falkland Adaları|Malavi|
-|Benin|Faroe Adaları|Maldivler|
-|Bermuda|Fiji|Mali|
-|Butan|Gabon|Marshall Adaları|
-|Bolivya|Gana|Martinique|
-|Bonaire|Gürcistan|Moritanya|
-|Bosna & Hersek|Cebelitarık|Mauritius|
-|Botsvana|Grönland|Ma ote|
-|Bouvet Adası|Grenada|Mikronezya|
-|Britanya Virjin Adaları|Guadeloupe|Moldova
-|Brunei|Guam|Moğolistan|
-|Burkina Faso|Guatemala|Karadağ|
-|Burundi|Guernsey|Montserrat|
-|Cabo Verde|Gine|Fas|
-|Kamboçya|Gine-Bissau|Mozambik|
-|Kamerun|Guyana|Myanmar|
-|Cayman Adaları|Haiti|Namibya|
-|Orta Afrika Cumhuriyeti|Heard Adası & McDonald Adaları|Nauru|
-|Çad|Honduras|Nepal|
-|Christmas Adası|Irak|Nikaragua|
-|Cocos (Keeling) Adaları|İsrail|Nijer|
-|Komorlar|Jamaika|Nijerya|
-|Kongo Cumhuriyeti|Japonya|Niue|
-
+| Ülkeler                | Ülkeler (devamı)             | Ülkeler (devamı) | Ülkeler (devamı) |
+|--------------------------|-----------------------------------|-----------------------|-----------------------|
+| Afganistan              | Kongo Cumhuriyeti                             | Jamaika               | Niue                  |
+| Arnavutluk                  | Kongo (KDC)                       | Japonya                 | Norfolk Adası        |
+| Cezayir                  | Cook Adaları                      | Jersey                | Kuzey Makedonya       |
+| Amerikan Samoası           | Kosta Rika                        | Ürdün                | Pakistan              |
+| Andorra                  | Fildişi d'Ivore                      | Kazakistan            | Filistin Yönetimi |
+| Angola                   | Curacao                           | Kenya                 | Panama                |
+| Anguilla                 | Dübouti                           | Kiribati              | Paraguay              |
+| Antarktika               | Dominika                          | Kuveyt                | Peru                  |
+| Arjantin                | Dominik Cumhuriyeti                | Kırgızistan            | Filipinler           |
+| Antigua & Barbuda        | Ekvador                           | Laos                  | Saint Kitts ve Nevis |
+| Aruba                    | Mısır                             | Lübnan               | Senegal               |
+| Azerbaycan               | El Salvador                       | Lesotho               | Sri Lanka             |
+| Bangladeş               | Ekvator Ginesi                 | Liberya               | Tacikistan             |
+| Barbados                 | Eritre                           | Libya                 | Tanzanya              |
+| Belize                   | Etiyopya                          | Makao                 | Tayland              |
+| Benin                    | Falkland Adaları                  | Madagaskar            | Trinidad ve Tobago   |
+| Bermuda                  | Faroe Adaları                     | Malavi                | Tunus               |
+| Butan                   | Fiji                              | Maldivler              | Türkmenistan          |
+| Bolivya                  | Gabon                             | Mali                  | Uganda                |
+| Bonaire                  | Gana                             | Marshall Adaları      | Ukrayna               |
+| Bosna-Hersek   | Gürcistan                           | Martinique            | Uruguay               |
+| Botsvana                 | Cebelitarık                         | Moritanya            | ABD Virjin Adaları     |
+| Bouvet Adası            | Grönland                         | Mauritius             | Özbekistan            |
+| Britanya Virjin Adaları   | Grenada                           | Ma Ote                | Vanuatu               |
+| Brunei                   | Guadeloupe                        | Mikronezya            | Vatikan          |
+| Bulgaristan                 | Guam                              | Moldova               | Venezuela             |
+| Burkina Faso             | Guatemala                         | Moğolistan              | Vietnam               |
+| Burundi                  | Guernsey                          | Karadağ            | Wallis veUçsuzuna     |
+| Cabo Verde               | Gine                            | Montserrat            | Yemen                 |
+| Kamboçya                 | Gine-Bissau                     | Fas               | Zambiya                |
+| Kamerun                 | Guyana                            | Mozambik            | Zimbabve              |
+| Cayman Adaları           | Haiti                             | Myanmar               |                       |
+| Orta Afrika Cumhuriyeti | Heard Adası ve McDonald Adaları | Namibya               |                       |
+| Çad                     | Honduras                          | Nauru                 |                       |
+| Christmas Adası         | Hong Kong ÖİB                     | Nepal                 |                       |
+| Cocos (Keeling) Adaları  | Irak                              | Nikaragua             |                       |
+| Komorlar                  | İsrail                            | Nijer                 |                       |
 
 ### <a name="microsoft-managed-countries"></a>Microsoft tarafından yönetilen ülkeler
 
-| Ülkeler | Ülkeler (devamı) | Ülkeler (devamı) | Ülkeler (devamı) |
-|---------|-----------|--------|----|
-|Ermenistan|Finlandiya|Lüksemburg|Singapur|
-|Avusturya|Fransa|Malezya|Slovakya|
-|Belarus|Almanya|Malta|Slovenya|
-|Bulgaristan|Yunanistan|Monako|Güney Afrika|
-|Belçika|Macaristan|Hollanda|Güney Kore|
-|Kanada|İzlanda|Yeni Zelanda|İspanya|
-|Şili|Hindistan|Norveç|İsveç|
-|Kolumbiyası|Endonezya|Polonya|İsviçre|
-|Hırvatistan|İrlanda|Portekiz|Tayvan|
-|Kıbrıs|İtalya|Romanya|Türkiye|
-Czechia|Letonya|Rusya|BAE|
-|Danimarka|Liechtenstein|Suudi Arabistan|Birleşik Krallık|
-|Estonya|Litvanya|Sırbistan|Birleşik Devletler Riko dahil olmak üzere|
+| Ülkeler                | Ülkeler (devam)             | Ülkeler (devam) | Ülkeler (devam)               |
+|--------------------------|-----------------------------------|-----------------------|-------------------------------------|
+| Ermenistan                  | Finlandiya                           | Lüksemburg            | Singapur                           |
+| Avusturya                  | Fransa                            | Malezya              | Slovakya                            |
+| Belarus                  | Almanya                           | Malta                 | Slovenya                            |
+| Bulgaristan                 | Yunanistan                            | Monako                | Güney Afrika                        |
+| Belçika                  | Macaristan                           | Hollanda           | Güney Kore                         |
+| Kanada                   | İzlanda                           | Yeni Zelanda           | İspanya                               |
+| Şili                    | Hindistan                             | Norveç                | İsveç                              |
+| Kolombiya                 | Endonezya                         | Polonya                | İsviçre                         |
+| Hırvatistan                  | İrlanda                           | Portekiz              | Tayvan                              |
+| Kıbrıs                   | İtalya                             | Romanya               | Türkiye                              |
+| Çekya                  | Letonya                            | Rusya                | Birleşik Arap Emirlikleri                |
+| Danimarka                  | Liechtenstein                     | Suudi Arabistan          | Birleşik Krallık                      |
+| Estonya                  | Litvanya                         | Sırbistan                | Birleşik Devletler Riko dahil olmak üzere |
 
 
 ### <a name="end-customer-taxation-with-differences-in-marketplace"></a>Market farkları ile son müşteri vergileri
@@ -100,10 +99,11 @@ Czechia|Letonya|Rusya|BAE|
 |------------------|:-----------------|:---------------|
 |Brezilya|Kurumsal bayi hariç: Bulut Çözümü Sağlayıcısı (CSP) müşteri satın alma senaryosu aracılığıyla yapılan satın almalar için yönetilen yayımcı|Geliştirici tarafından yönetilenler dışında: Kurumsal bayi üzerinde çalışan cihazlar aracılığıyla yapılan satın Windows 10|
 |Meksika|Microsoft tarafından yönetilenler hariç: Kurumsal anlaşma müşteri satın alma senaryosu aracılığıyla yapılan satın almalar için kurumsal bayi|Microsoft tarafından yönetilen|
-|Avustralya|Microsoft tarafından yönetilenler hariç: Kurumsal anlaşma müşteri satın alma senaryosu aracılığıyla yapılan satın almalar için kurumsal bayi|Microsoft tarafından yönetilen|
+|Avustralya|Microsoft hariç yönetilen: Kurumsal anlaşma müşteri satın alma senaryosu aracılığıyla satın almalar için yönetilen Yayımcı|Microsoft tarafından yönetilen|
 Çin|Market etkin değil|Şu dışında etkin kurumsal bayi: Windows Phone 7.x çalıştıran mobil iletişim cihazları için ve Windows 8.x çalıştıran kişisel bilgisayarlarda yönetilen kurumsal bayi|
-|Bahreyn|Yayımcı tarafından yönetilen|Microsoft tarafından yönetilen|
-|Umman|Yayımcı tarafından yönetilen|Microsoft tarafından yönetilen|
+| Bahreyn | Yayımcı tarafından yönetilen | Microsoft tarafından yönetilen                      |
+| Umman | Yayımcı tarafından yönetilen | Microsoft tarafından yönetilen                         |
+| Nijerya | Yayımcı tarafından yönetilen | Microsoft tarafından yönetilen                      |
 
 
 ## <a name="tax-considerations-on-payouts"></a>Ödemelerde vergiyle ilgili dikkat edilmesi gerekenler
@@ -116,11 +116,11 @@ Microsoft, Yayımcıların/Geliştiricilerin ürünler/teklifler aracılığıyl
 
 |**Ülke**|**Ticari Market**|**Tüketici Marketi**|
 |----------------|-----------------------------|-----------------------|
-|Avustralya|Hizmet ücretiyle ilgili vergi|Hizmet ücretiyle ilgili vergi|
-|Kanada|Hizmet ücretiyle ilgili vergi|Hizmet ücretiyle ilgili vergi|
-|Meksika|Yok|Hizmet Ücreti vergisi|
-|Yeni Zelanda|Hizmet ücretiyle ilgili vergi|Hizmet ücretiyle ilgili vergi|
-|Singapur|Hizmet ücretiyle ilgili vergi|Hizmet ücretiyle ilgili vergi|
+|Avustralya|Hizmet ücreti vergisi|Hizmet ücreti vergisi|
+|Kanada|Hizmet ücreti vergisi|Hizmet ücreti vergisi|
+|Meksika|Yok|Hizmet ücreti vergisi|
+|Yeni Zelanda|Hizmet ücreti vergisi|Hizmet ücreti vergisi|
+|Singapur|Hizmet ücreti vergisi|Hizmet ücreti vergisi|
 
 ## <a name="commercial-marketplace-payout-scenarios"></a>Ticari Market ödeme senaryoları
 
@@ -140,7 +140,7 @@ Microsoft, Yayımcıların/Geliştiricilerin ürünler/teklifler aracılığıyl
 
 - Senaryo dört: Yabancı yayımcı, Microsoft tarafından yönetilen bir ülkede bulunan bir Müşteriye veya İsviçre'deki bir Müşteriye yerel olmayan bir satış yapar
 
-  :::image type="content" source="images/tax/scenario-four.png" alt-text="KDV'nin nasıl işlen olduğunu gösteren grafik.":::
+  :::image type="content" source="images/tax/scenario-four.png" alt-text="KDV'nin nasıl iş olduğunu gösteren grafik.":::
 
 - Senaryo beş: Microsoft tarafından yönetilen bir ülkede müşteri, Mağaza Hizmeti Ücreti üzerinden verginin olduğu bir teklif satın almaktadır
 
