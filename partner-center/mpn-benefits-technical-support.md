@@ -9,12 +9,12 @@ ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 06/17/2021
-ms.openlocfilehash: 7cdb5e04482f32d1b57346c86fa9db218cb11452
-ms.sourcegitcommit: 5d5747d245bdd967fd82df4bcc0a1f8a30a55cea
+ms.openlocfilehash: fae1f29f2fdc804764a29f81f2cddb7353dbf7f7
+ms.sourcegitcommit: c4601069340445135b551fa96bee6d9923d8aa97
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/30/2021
-ms.locfileid: "113105048"
+ms.lasthandoff: 07/01/2021
+ms.locfileid: "113173657"
 ---
 # <a name="technical-support-for-on-premises-or-cloud-products"></a>Şirket içi veya bulut ürünleri için teknik destek
 
@@ -54,20 +54,20 @@ Iş Ortağı Merkezi 'nde teknik avantajlarınızı görüntüleme veya etkinle�
 
 2. , Sol gezinti menüsünde **avantajlar** ' ı genişletin, [**Teknik avantajlar**](https://partner.microsoft.com/dashboard/mpn/membership/benefits/technical)' ı seçin. Teknik avantajlar sayfasında, kuruluşlarınızın etkin altın, gümüş veya Microsoft Eylem Paketi üyelik teklifleri görüntülenir.
 
-   :::image type="content" source="images/mpn-benefits-technical-support/technical-benefits-1.png" lightbox="images/mpn-benefits-technical-support/technical-benefits-1.png" alt-text="Teknik avantajlar daha sonra avantajlar" :::
+   :::image type="content" source="images/mpn-benefits-technical-support/technical-benefits-1.png" lightbox="images/mpn-benefits-technical-support/technical-benefits-1.png" alt-text="Teknik avantajlar daha sonra avantajlar ' ı genişletir." :::
 
    > [!NOTE]
    > Etkin üyelik yoksa, "henüz avantajınız yok" iletisini görürsünüz. Şirketinizde etkin üyelik teklifleri varsa ancak bunları göremiyorsanız yanlış hesabı kullanarak oturum açtınız. Hesabınızı denetlemek için sayfanın sağ üst kısmındaki **Hesap** simgesini seçin ve **başka bir hesapla oturum aç** ' ı (gerekliyse) seçin.
 
 3. Microsoft ürün desteği veya Imza ürün desteğini kullanmak için avantajı etkinleştirmeniz gerekir. Avantajı etkinleştirmek için **Etkinleştir** düğmesini seçin. Etkinleştirme için kullanılan Kullanıcı hesabı, genel yönetici veya MPN Iş ortağı yöneticisi rollerini gerektirir.
 
-   :::image type="content" source="images/mpn-benefits-technical-support/technical-benefits-2.png" lightbox="images/mpn-benefits-technical-support/technical-benefits-2.png" alt-text="Teknik avantajlar etkinleştir ' i seçin" :::
+   :::image type="content" source="images/mpn-benefits-technical-support/technical-benefits-2.png" lightbox="images/mpn-benefits-technical-support/technical-benefits-2.png" alt-text="Teknik avantajlar etkinleştir ' i seçin." :::
 
 4. Erişim KIMLIĞI ve sözleşme KIMLIĞI, başarıyla etkinleştirilmesinden sonra tüm kullanıcılara görüntülenecektir. Erişim KIMLIĞI ve sözleşme KIMLIĞI görüntülenirken Microsoft ürün desteği ve Imza ürün desteğini (altın ve gümüş Üyeler) kullanabilirsiniz.
 
    Etkinleştir düğmesi gri ise, hesabınız genel yönetici veya MPN Iş ortağı Yöneticisi güvenlik rolüne sahip değildir. Avantajlarınızı etkinleştirmek üzere bir kullanıcı bulmak için  [Kullanıcı yönetimi](https://partner.microsoft.com/dashboard/account/v3/usermanagement#users) ve genel yönetici ya da MPN Iş ortağı Yöneticisi ' ni kullanın.
 
-   :::image type="content" source="images/mpn-benefits-technical-support/technical-benefits-3.png" lightbox="images/mpn-benefits-technical-support/technical-benefits-3.png" alt-text="Etkinleştirilen teknik avantajlar erişim KIMLIĞI ve sözleşme KIMLIĞINI gösterir" :::
+   :::image type="content" source="images/mpn-benefits-technical-support/technical-benefits-3.png" lightbox="images/mpn-benefits-technical-support/technical-benefits-3.png" alt-text="Etkinleştirilen teknik avantajlar, erişim KIMLIĞI ve sözleşme KIMLIĞINI gösterir." :::
 
    > [!NOTE]
    > Her hesap için Microsoft ürün desteği veya Imza ürün desteğini ilk kez kullandığınızda erişim KIMLIĞI ve sözleşme KIMLIĞI gerekir. Avantajları hesabınızla ilişkilendirdikten sonra, erişim KIMLIĞI ve sözleşme KIMLIĞINI yeniden kullanmanız gerekmez.  
@@ -86,7 +86,7 @@ Microsoft İş Ortağı Ağı üyeliğinin bir parçası olarak, iş ortakları 
 | Microsoft ürün desteği<br>Son Şirket Içi için <br>yalnızca ürünler | 10 olay | 15 olay | 20 olay |
 | İmza bulutu desteği<br>Yalnızca bulut ürünleri için | | Bulut Uzmanlıklar:<br>Sınırsız<br><br>Diğer Uzmanlıklar:<br>5 olay | Bulut Uzmanlıklar:<br>Sınırsız<br>          <br>Diğer Uzmanlıklar:<br>10 olay   | 
 
-Bulut uzmanlığına şunlar dahildir: güvenlik uzmanlığına, bulut Business Applications, bulut platformu, bulut üretkenliği, kurumsal Mobility yönetimi, küçük ve orta Pazar bulut çözümleri.
+bulut uzmanlığına şunlar dahildir: güvenlik uzmanlığına, bulut Business Applications, bulut platformu, bulut üretkenlik, Enterprise Mobility yönetimi, küçük ve orta pazar bulut çözümleri.
 
 ## <a name="microsoft-product-support-on-premises"></a>Microsoft ürün desteği (Şirket içi)
 
@@ -121,7 +121,7 @@ Azure, Dynamics 365 ve diğer bulut ürünlerinin avantajlarını ilk kez kullan
 > [!NOTE]  
 > Kullanırken Azure portal. Destek sözleşmeniz zaten hesapla ilişkili ise, "erişim KIMLIĞI zaten ilişkilendirilmiş..." hata iletisini görürsünüz. Erişim KIMLIĞI ve sözleşme KIMLIĞINI eklediğinizde. aşağıya bakın
 
-Azure istekleri oluşturan CSP iş ortakları, destek sözleşmesi eklemeden "bulut çözümü sağlayıcısı" destek planını kullanabilir.
+Azure istekleri oluşturan CSP iş ortakları, destek sözleşmesi eklemeden "Bulut Çözümü Sağlayıcısı" destek planını kullanabilir.
 
 Yönetici Aracısı **rolüne sahip** [kullanıcılar,](https://partner.microsoft.com/commerce/customers/list) sol gezinti menüsünde CSP altında Müşteriler'i, **Hizmet Yönetimi'ni ve** Yeni istek'i **seçebilirsiniz.**  İlgili iş yükünü seçerek iş yüküne özgü portal açılır ve bir destek sözleşmesi ekp bir istek oluşturmanız gerekir.
 
