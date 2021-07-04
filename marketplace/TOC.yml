@@ -2,19 +2,25 @@
   href: index.yml
 - name: Microsoft AppSource
   items:
-    - name: Microsoft AppSource hakkında
+    - name: Hakkında
       href: appsource-overview.md
-    - name: AppSource’ta yazılım satın alma
+    - name: Satın alma yazılımı
       href: purchase-software-appsource.md
+    - name: Özel planlar
+      href: appsource-private-plans.md
 - name: Azure Market
   items:
-    - name: Azure Market hakkında
+    - name: Hakkında
       href: azure-marketplace-overview.md
     - name: Satın alma
       href: azure-purchasing-invoicing.md
+    - name: Azure portal SaaS teklifi satın alma
+      href: purchase-saas-offer-in-azure-portal.md
     - name: Ödeme ve faturalama
       href: billing-invoicing.md
-    - name: Özel teklifler
+    - name: Azure tüketim taahhüdü avantajı
+      href: azure-consumption-commitment-benefit.md
+    - name: Özel planlar
       href: private-offers.md
     - name: Abonelik aktarımı koşullarına uygunluk
       href: transfer-eligibility.md
@@ -22,8 +28,8 @@
       href: create-manage-private-azure-marketplace.md
     - name: Özel Azure Market’i yönetme - PowerShell
       href: manage-private-azure-marketplace-powershell.md
-    - name: Azure Market iş ortağı tümleştirmeleri
-      href: partner-integrations.md
+    - name: Azure 'ı iş ortaklarının çözümleriyle genişletme
+      href: /azure/partner-solutions/overview
 - name: Genel kaynaklar
   items:
     - name: Para iadesi ilkeleri
@@ -36,5 +42,3 @@
   items:
     - name: Azure PowerShell
       href: /powershell/module/az.marketplace
-    - name: Tercih edilen çözümler
-      href: preferred-solutions.md
