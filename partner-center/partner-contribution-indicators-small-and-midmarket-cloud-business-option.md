@@ -9,21 +9,21 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6fdc5687379d7bca08802f2301fdb8587f38da20
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: 44a5d2a6b845168cf73dbabfea05c218e9357091
+ms.sourcegitcommit: b0d1413ffa2099ddf11d013d41378afa50953f32
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112277649"
+ms.lasthandoff: 07/05/2021
+ms.locfileid: "113297644"
 ---
 # <a name="use-partner-contribution-indicators-to-attain-the-small-and-midmarket-cloud-solutions-competency"></a>Küçük ve Orta Ölçekli Piyasa Bulut Çözümleri yetkinliğine ulaşmak için İş Ortağı Katkısı Göstergelerini kullanın
 
 **Uygun roller**: genel yönetici | MPN iş ortağı Yöneticisi | Hesap Yöneticisi
 
-Bu makalede, bir iş ortağının bir gümüş veya altın küçük ve orta Pazar bulut çözümlerini bulut Business Applications SMB seçeneği aracılığıyla dengelemeye veya saklamaya yönelik ilerleme durumunu değerlendirmek için kullanılan altı temel Iş ortağı katkı göstergeleri (PCI) açıklanmaktadır.
+bu makalede, bir iş ortağının bir gümüş veya altın küçük ve orta pazar bulut çözümlerini bulut Business Applications SMB seçeneği aracılığıyla dengelemeye veya saklamaya yönelik ilerleme durumunu değerlendirmek için kullanılan altı temel iş ortağı katkı göstergeleri (pcı) açıklanmaktadır.
 
 > [!NOTE]
-> İş ortaklarının gümüş veya altın bulut Business Applications uzmanlığına ulaşmak için farklı bir Iş ortağı katkısı göstergesi ölçümleri kullandığını öğrenin. Daha fazla bilgi için bkz. [bulut Business Applications uzmanlığına yönelik Iş ortağı katkısı göstergelerini kullanma](partner-contribution-indicators.md). Ayrıca, kullanılabilir farklı Uzmanlıklar ve gereksinimleri hakkında [daha fazla](https://partner.microsoft.com/membership/competencies) bilgi edinebilirsiniz.
+> iş ortaklarının gümüş veya altın bulut Business Applications uzmanlığına ulaşmak için farklı bir iş ortağı katkısı göstergesi ölçümleri kullandığını öğrenin. daha fazla bilgi için bkz. [bulut Business Applications uzmanlığına yönelik iş ortağı katkısı göstergelerini kullanma](partner-contribution-indicators.md). Ayrıca, kullanılabilir farklı Uzmanlıklar ve gereksinimleri hakkında [daha fazla](https://partner.microsoft.com/membership/competencies) bilgi edinebilirsiniz.
 
 Bu makale aşağıdakiler hakkında bilgiler içerir:
 
@@ -37,18 +37,18 @@ Bu makale aşağıdakiler hakkında bilgiler içerir:
 
 ## <a name="overview-of-partner-contribution-indicators-for-this-competency"></a>Bu uzmanlığa yönelik Iş ortağı katkı göstergelerine genel bakış
 
-İş ortağı katkı göstergeleri, bir iş ortağının başarılı müşteri sonuçlarını sunma konusunda bir bütünsel ölçümü sağlar ve bu nedenle, bir iş ortağı küçük ve orta Pazar bulut çözümlerini bulut Business Applications SMB seçeneği aracılığıyla uzmanlığa karşı korur veya koruursa pazara daha fazla farklılık gösterir.
+iş ortağı katkı göstergeleri, bir iş ortağının başarılı müşteri sonuçlarını sunma konusunda bir bütünsel ölçümü sağlar ve bu nedenle, bir iş ortağı küçük ve orta pazar bulut çözümlerini bulut Business Applications SMB seçeneği aracılığıyla uzmanlığa karşı korur veya koruursa pazara daha fazla farklılık gösterir.
 
 PCI ile iş ortakları, başarılı dağıtımlar ve kullanımı artırma gibi müşteri başarısı için önemli ölçümler için kredi alır. Bu kişiler, yatırım ve teknik yeteneklerini ölçeklendirmeye devam etmek için yeniden çarpılar.
 
-Bir iş ortağı, anahtar göstergelerinde belirli düzeyde etki elde edildiğinde, iş ortağı küçük ve orta Pazar bulut çözümlerini bulut Business Applications SMB seçeneği aracılığıyla kullanabilir (veya koruyabilir).
+bir iş ortağı, anahtar göstergelerinde belirli düzeyde etki elde edildiğinde, iş ortağı küçük ve orta pazar bulut çözümlerini bulut Business Applications SMB seçeneği aracılığıyla kullanabilir (veya koruyabilir).
 
 > [!NOTE]
 > Uzmanlıklar kullanmanın avantajları hakkında daha fazla bilgi edinmek için bkz. [Microsoft iş ortağı Uzmanlıklar](https://partner.microsoft.com/membership/competencies).
 
 ## <a name="pci-scoring-based-on-six-key-indicators"></a>Altı tuşlu gösterge temelinde PCI Puanlama
 
-PCI, ortağın teknik özelliklerine, müşteri başarısını ve bunların satış performansına yönelik gelişmiş bir görünüm sağlar. Ortakların, bulut Business Applications SMB seçeneği aracılığıyla gümüş veya altın küçük ve orta Pazar bulut çözümlerini uzmanlığına sağlamasına yardımcı olmak için, şirketinizin altı ana göstergelerden önceki yıllık performansını ölçer:
+PCI, ortağın teknik özelliklerine, müşteri başarısını ve bunların satış performansına yönelik gelişmiş bir görünüm sağlar. ortakların, bulut Business Applications SMB seçeneği aracılığıyla gümüş veya altın küçük ve orta pazar bulut çözümlerini uzmanlığına sağlamasına yardımcı olmak için, şirketinizin altı ana göstergelerden önceki yıllık performansını ölçer:
 
 *Performans göstergeleri:*
 
@@ -84,7 +84,7 @@ Aşağıdaki görüntüde hızlı ve görsel bir başvuru sunulmaktadır.
 
 ### <a name="maximum-pci-indicator-scores-for-this-competency"></a>Bu uzmanlığa yönelik maksimum PCI göstergesi puanları
 
-Her gösterge toplam 'a eklenen bir puan getirir. Her gösterge için kazanılabilecek en fazla puan, bulut Business Applications SMB seçeneğinde gümüş veya altın küçük ve orta Pazar bulut çözümlerini uzmanlığına ulaşmak için şunlardır:
+Her gösterge toplam 'a eklenen bir puan getirir. her gösterge için kazanılabilecek en fazla puan, bulut Business Applications SMB seçeneğinde gümüş veya altın küçük ve orta pazar bulut çözümlerini uzmanlığına ulaşmak için şunlardır:
 
 |Bu gösterge için | Bu uzmanlığa yönelik en büyük puanınız  |
 |:------------|:--------------:|
@@ -97,7 +97,7 @@ Her gösterge toplam 'a eklenen bir puan getirir. Her gösterge için kazanılab
 
 ## <a name="thresholds-for-each-pci-metric-for-this-competency"></a>Bu uzmanlığa yönelik her PCI ölçümü için eşikler
 
-Her bir PCI ölçümü, Microsoft tarafından şirket en yüksek noktalarına sahip olan ve bulut Business Applications SMB seçeneği aracılığıyla gümüş veya altın küçük ve orta Pazar bulut çözümlerini uzmanlık altına almak için Microsoft tarafından ayarlanan eşiklere sahiptir.
+her bir pcı ölçümü, Microsoft tarafından şirket en yüksek noktalarına sahip olan ve bulut Business Applications SMB seçeneği aracılığıyla gümüş veya altın küçük ve orta pazar bulut çözümlerini uzmanlık altına almak için Microsoft tarafından ayarlanan eşiklere sahiptir.
 
 Her ölçüm içindeki noktaların ayrı bir PCI puanı elde etmek için kullanılır. Bu puan aylık olarak güncelleştirilir.
 
@@ -105,7 +105,7 @@ Her ölçüm içindeki noktaların ayrı bir PCI puanı elde etmek için kullan�
 
 Örneğin, net yeni gelir $15.000 olan bir pazar ortağı, en fazla 10 noktasının yarısını ($ 15000/$ 30000) kazanacaktır.
 
-Aşağıdaki tabloda, bulut Business Applications SMB seçeneğinde gümüş veya altın küçük ve orta Pazar bulut çözümleri uzmanlığına ulaşmak üzere en fazla puan kazanmak için kullanabileceğiniz belirli Iş ortağı katkı göstergesi eşikleri açıklanmaktadır.
+aşağıdaki tabloda, bulut Business Applications SMB seçeneğinde gümüş veya altın küçük ve orta pazar bulut çözümleri uzmanlığına ulaşmak üzere en fazla puan kazanmak için kullanabileceğiniz belirli iş ortağı katkı göstergesi eşikleri açıklanmaktadır.
 
 | PCI ölçümü | Performans göstergesi: net yeni gelir | Performans göstergesi: net müşteri eklemeleri | Yetenek göstergesi: Işlevsel danışmanları | Yetenek göstergesi: geliştiriciler | Müşteri başarı göstergesi: Yeni dağıtımlar | Müşteri başarı göstergesi: aylık etkin kullanıcı büyümesi |
 |---|:---:|:---:|:------:|:---:|:---:|:----:|
@@ -126,12 +126,12 @@ Bu PCI ölçümleri için yalnızca aşağıdaki iş ortağı-müşteri ilişkil
 - Bu müşterinin Talepte Bulunan Kayıtlı İş Ortağı ücretli aboneliğin (CPOR) sahibisiniz
 - Müşterinin kiracısına ait ücretli abonelik için Dijital Kayıt İş Ortağı (DPOR)siniz
 
-Bir iş ortağı, Dynamics 365 Online Services Advisor (OSA) teşviki veya [](https://support.microsoft.com/help/4501560/online-services-advisor-osa-sell-incentives-faq) Dynamics 365 [Online Services Kullanımı](https://support.microsoft.com/help/4489988/online-services-usage-osu-incentives-faq) (OSU) teşviki aracılığıyla bir müşteriyle abonelik düzeyinde ilişki kurarak CPOR olur.
+Bir iş ortağı, Dynamics 365 Online Services Advisor (OSA) teşviki veya Dynamics 365 Online Services Kullanımı (OSU) teşviki aracılığıyla bir müşteriyle abonelik düzeyinde ilişki kurarak CPOR olur.
 
 Bir iş ortağı, ürün içinde abonelik düzeyinde bir müşteriyle ilişki kurarak DPOR olur.
 
 > [!NOTE]
-> Belirli bir müşteri aboneliği için hem CPOR hem de DPOR mevcut olduğunda, CPOR bu abonelikle ilişkili ilgili PCI ölçümleri için kredi alır. İlişki OSA aracılığıyla yapıldı ise, CPOR Net yeni gelir kredisi alır ve Net müşteri ekler. İlişki OSU aracılığıyla yapıldı ise, CPOR Yeni dağıtımlar ve Aylık etkin kullanıcı büyümesi için kredi alır.
+> Belirli bir müşteri aboneliği için hem CPOR hem de DPOR mevcut olduğunda, CPOR bu abonelikle ilişkili ilgili PCI ölçümleri için kredi alır. İlişki OSA aracılığıyla yapıldı ise, CPOR Net yeni gelir kredisi alır ve Net müşteri ekler. İlişki OSU aracılığıyla yapıldı ise, CPOR Yeni dağıtımlar ve Aylık etkin kullanıcı büyümesi kredisini alır.
 
 ## <a name="detailed-pci-metrics-definitions-for-this-competency"></a>Bu uzmanlık için ayrıntılı PCI ölçüm tanımları
 
@@ -154,10 +154,10 @@ Net yeni gelir bir performans [göstergesidir.](partner-contribution-indicators-
 - Net yeni gelir, 12 aylık bir dönemde toplanıyor ve 10 puanlık maksimum kazanç elde ediyor.
 - Net yeni gelir için puanlar, faturalama eksi kredileri olarak hesaplanır ve 12 ay boyunca toplanır.
 - Net yeni gelir, aşağıdaki uygun ürünleri temel alarak hesaplanır:
-  - Dynamics 365 Customer Engagement uygun ürünleri şunlardır: Satış, Pazarlama, Müşteri Hizmetleri, Saha Hizmeti, Proje sunucusu, Plan 1, Otomasyon, Pazarlama, Microsoft İlişki Satışları
-  - Finans ve Operasyonlara uygun ürünler şunlardır: Dynamics 365 Business Central, Kapasite ve Depolama, Finans ve Operasyonlar (Sahtekarlık koruması, operasyonlar, perakende, İk, plan 2), karma gerçeklik, Ekip Üyesi
+  - Dynamics 365 Customer Engagement uygun ürünler şunlardır: Satış, Pazarlama, Müşteri Hizmetleri, Saha Hizmeti, Project sunucusu, Plan 1, Otomasyon, Pazarlama, Microsoft İlişki Satışları
+  - Finans ve Operasyonlara uygun ürünler şunlardır: Dynamics 365 Business Central, Capacity and Depolama, Finance and Operations (Sahtekarlık koruması, operasyonlar, perakende, İk, plan 2), karma gerçeklik, Ekip Üyesi
   
-- Satış kanalları arasında Kurumsal Anlaşma (EA), Bulut Çözümü Sağlayıcısı (CSP) ve Web Direct yer almaktadır.
+- Satış kanalları Kurumsal Anlaşma (EA), Bulut Çözümü Sağlayıcısı (CSP) ve Web Direct'i içerir.
 - Yalnızca Kurumsal Anlaşma gelir: Bu gelir, sözleşmenin ilk yılındaki geliri içerir. İkinci ve üçüncü yılın yinelenen geliri dahil değildir.
 
 ### <a name="definitions-for-pci-metric-2---net-customer-adds"></a>PCI ölçüm tanımı tanımları #2 - Net müşteri ekler
@@ -166,7 +166,7 @@ Net müşteri ekler bir performans [göstergesidir.](partner-contribution-indica
 
 - Net müşteri ekleri, sonda geçen 12 aylık dönemde toplanıyor. 
 
-- Toplam 10 net müşteri eklemesi mümkündür ve mümkün olan maksimum kazanç 10 puandır (her net müşteri için bir nokta ekler).
+- Toplam 10 net müşteri eklemesi mümkündür ve mümkün olan en fazla 10 kazanç (her net müşteri için bir nokta ekler).
 
 - Tüm satış kanallarına net müşteriler eklenir.
 
@@ -174,19 +174,19 @@ Net müşteri ekler bir performans [göstergesidir.](partner-contribution-indica
 
 - Müşteri **eklemesi** şu koşullar altında tanımlanır: Bir müşterinin önceki ay içinde tüm aboneliklerinde ücretli yer yok ancak geçerli ay içinde en az bir ücretli yer vardır.
 
-- Müşteri **kaybedilir** şu koşullar altında tanımlanır: Bir müşterinin önceki bir ay içinde  tüm aboneliklerinde en az bir ücretli yer varsa ve geçerli ay içinde hiç ücretli yer yoksa.
+- Müşteri **kaybedilir** şu koşullar altında tanımlanır: Bir müşterinin önceki bir ay içinde  tüm aboneliklerinde en az bir ücretli yer varsa ve geçerli ay içinde ücretli bir yer yoksa.
 
 - Net müşteri ekleri için maksimum ve kısmi puan kazanılır.
 
-- Satış kanalları arasında Kurumsal Anlaşma (EA), Bulut Çözümü Sağlayıcısı (CSP) ve Web Direct yer almaktadır.
+- Satış kanalları Kurumsal Anlaşma (EA), Bulut Çözümü Sağlayıcısı (CSP) ve Web Direct'i içerir.
 
 - Doğrudan Microsoft ile çalışan birden çok iş ortağı/aynı müşteri  veya  müşteri için: Birden çok iş ortağının farklı abonelikler aracılığıyla aynı müşteriyle ilişkili olduğu veya müşterinin zaten doğrudan Microsoft ile çalıştığı durumlar için müşteri ekleri ve müşteri kayıplarıyla ilgili farklı hesaplamalar vardır. Bu hesaplamalar aşağıda görünür.
 
   **Birden çok iş ortağı, aynı müşteri, farklı abonelikler için:**
 
-  - Müşteriyle ilişkili tüm iş ortakları, yeni müşteri eklemesi için müşterinin ekli olduğu ay kredi alacak.
+  - Müşteriyle ilişkilendirilmiş tüm iş ortakları, yeni müşteri eklemesi için müşterinin ek ödemesi için kredi alacaklarını alacak.
   
-  - Eski veya yeni abonelikler aracılığıyla aynı müşteriyle irdeleyen iş ortakları bu müşteri için yeni müşteri ekleme kredisi almayacak.
+  - Eski veya yeni abonelikler aracılığıyla aynı müşteriyle irdeleyen iş ortakları, bu müşteri için yeni müşteri ekleme kredisi almayacak.
   
   - Müşteriyle ilişkili tüm iş ortakları, yeni müşteri eklemesi için müşterinin kaybedil olduğu ay krediyi kaybeder.
   
@@ -194,7 +194,7 @@ Net müşteri ekler bir performans [göstergesidir.](partner-contribution-indica
   
   **Müşteri zaten doğrudan Microsoft ile çalışırken:**
 
-   - Müşteri zaten doğrudan Microsoft ile çalışıyorsa ve yeni müşteri ekleme ölçütlerini karşılamışsa, daha sonra eski veya yeni abonelikler aracılığıyla aynı müşteriyle irdeleyen iş ortakları bu müşteri için yeni müşteri ekleme kredisi almayacak.
+   - Müşteri zaten doğrudan Microsoft ile çalışıyorsa ve yeni müşteri ekleme ölçütlerini karşılamışsa, daha sonra eski veya yeni abonelikler aracılığıyla aynı müşteriyle ilişken iş ortakları bu müşteri için yeni müşteri ekleme kredisi almayacak.
 
 ### <a name="definitions-for-pci-metric-3---functional-consultants"></a>PCI ölçüm tanımı tanımları #3 - İşlev danışmanları
 
@@ -209,7 +209,7 @@ Bu yetkinliğe ulaşma yönünde en fazla **30** İşlev danışmanı puanı kaz
 - Finance and Operations İşlev Danışmanı sertifikası
 - Business Central İşlev Danışmanı sertifikası
 
-Beş danışmana ulaşmak için iş ortakları, üç sertifikasyon türüne sahip olan danışmanları bir şekilde karıştırıp eşler.
+Beş danışmana ulaşmak için, iş ortakları üç sertifikasyon türüne sahip olan danışmanları bir şekilde karıştırıp eşler.
 
 Customer Engagement İşlev Danışmanı İş Ortağı sertifikası kazanmak için bir kişinin aşağıdaki sınavdan geçmesi gerekir:
   - PL-200<br/>
@@ -235,7 +235,7 @@ Geliştiriciler bir [yetenek göstergesidir.](partner-contribution-indicators-sm
 
 - İş ortakları, beş danışmana ulaşmak için aşağıdaki gibi herhangi bir sertifikasyon türüne sahip olan danışmanları karıştırıp eşler:
 
-  Customer Engagement Geliştirici İş Ortağı sertifikası kazanmak için bir kişinin aşağıdaki sınavdan geçmesi gerekir:
+  Müşteri Katılımı Geliştirici İş Ortağı sertifikası kazanmak için bir kişinin aşağıdaki sınavdan geçmesi gerekir:
   - PL-400
 
   Finans ve Operasyon Geliştirici İş Ortağı sertifikası kazanmak için bir kişinin şu sınavlardan geçmesi gerekir:
@@ -261,8 +261,8 @@ Yeni dağıtımlar müşteri [başarısının göstergesidir.](partner-contribut
 - Aylık etkin kullanıcılar her ayın sonunda hesaplanır.
 
 - İş ortakları, abonelik düzeyinde kiracılarla ilişkilendirilmektedir. Abonelikler aşağıdaki uygun ürünlerle eşlenmiş:
-  - Dynamics 365 Customer Engagement uygun ürünleri şunlardır: Satış, Pazarlama, Müşteri Hizmetleri, Saha Hizmeti, Proje sunucusu, Plan 1, Otomasyon, Pazarlama, Microsoft İlişki Satışları
-  - Finans ve Operasyona uygun ürünler şunlardır: Business Central, Capacity and Storage, Finance and Operations (Sahtekarlık koruması, operasyonlar, perakende, İk, plan 2), karma gerçeklik, Ekip Üyesi
+  - Dynamics 365 Customer Engagement uygun ürünler şunlardır: Satış, Pazarlama, Müşteri Hizmetleri, Saha Hizmeti, Project sunucusu, Plan 1, Otomasyon, Pazarlama, Microsoft İlişki Satışları
+  - Finans ve Operasyona uygun ürünler şunlardır: Business Central, Capacity and Depolama, Finance and Operations (Sahtekarlık koruması, operasyonlar, perakende, İk, plan 2), karma gerçeklik, Ekip Üyesi
 
 - Bir kiracı altındaki ücretli abonelikle ilişkilendirilmiş tüm iş ortakları, bu kiracı altındaki tüm üretim örnekleri için kredi elde edilir. 
 
@@ -286,7 +286,7 @@ Aylık etkin kullanıcı büyümesi, müşteri [başarısının göstergesidir.]
 
 ## <a name="how-to-access-partner-contribution-indicators"></a>İş Ortağı Katkı Göstergelerine erişme
 
-Bu bölümde İş Ortağı Katkısı Göstergelerinin ayrıntılarına ve iş ortağı ilerleme durumuna nasıl erişilen açık bir şekilde anlattır.
+Bu bölümde, İş Ortağı Katkısı Göstergelerinin ayrıntılarına ve iş ortağı ilerleme durumuna nasıl erişilen açık bir şekilde açık bir şekilde anlatabilirsiniz.
 
 ### <a name="access-partner-contribution-indicators"></a>İş Ortağı Katkı Göstergelerine Erişme
 
@@ -300,7 +300,7 @@ Bu bölümde İş Ortağı Katkısı Göstergelerinin ayrıntılarına ve iş or
 
 4. Özet bölümünde ilerlemenizi, başarılarınızı ve ilgili puanlarınızı o tarihe kadar görüntüebilirsiniz.
 
-   :::image type="content" source="images/partner-contribution-indicators-small-and-midmarket-view-progress.png" alt-text="İş Ortağı Katkısı Göstergeleri tablosu nasıl okunur?":::
+   :::image type="content" source="images/partner-contribution-indicators-small-and-midmarket-view-progress.png" alt-text="İş Ortağı Katkısı Göstergeleri tablosu nasıl okunur.":::
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
