@@ -1,7 +1,7 @@
 ---
 title: Gelişmiş uzmanlıklar hakkında bilgi
 ms.topic: article
-ms.date: 01/21/2021
+ms.date: 07/07/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
 description: Microsoft iş ortağı dizininde iş profilinizi güçlendirin. Mevcut Gold ve Silver yetkinlikleri ile elde etmek için ileri düzey uzmanlıklar hakkında bilgi alın.
@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 91c182f2eb42bbe834926c7985d343524305485a
-ms.sourcegitcommit: cc9e47219f6e2cdf77118b5c8986e86ebecfe260
+ms.openlocfilehash: 779e6d344d9fc75a45a4d89a65ebff3ace8ce8cb
+ms.sourcegitcommit: 312f3800d0a0464af9df4d7ffb0d9faec273fd74
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/16/2021
-ms.locfileid: "112125931"
+ms.lasthandoff: 07/08/2021
+ms.locfileid: "113489818"
 ---
 # <a name="earn-an-advanced-specialization-to-showcase-your-validated-capabilities"></a>Doğrulanmış özelliklerinizi göstermek için gelişmiş uzmanlık kazanma
 
@@ -45,7 +45,7 @@ Her gelişmiş uzmanlık bir çözüm alanına karşılık gelen bir çözümdü
 - Microsoft Azure'da analiz
 - Microsoft Azure'a Veri Ambarı Geçişi
 - Microsoft Azure'da Kubernetes
-- Linux ve Açık Kaynak Veritabanlarının Microsoft Azure
+- Linux ve Açık Kaynak Veritabanlarını Microsoft Azure
 - Microsoft Windows Sanal Masaüstü
 - Microsoft Azure'a Web Uygulamaları Modernleştirmesi
 - Microsoft Azure’da SAP
@@ -54,20 +54,23 @@ Her gelişmiş uzmanlık bir çözüm alanına karşılık gelen bir çözümdü
 - Microsoft Azure Stack HCI ile Hibrit Bulut Altyapısı
 - Microsoft Azure Arc ile Karma İşlemler ve Yönetim
 - Microsoft Azure VMware Çözümü
+- DevOps üzerinde GitHub ile Microsoft Azure
+- Microsoft Azure'de Ağ Hizmetleri
 
-**Business Applications** uzmanlıklar şunlardır:
 
-- Düşük Kodlu Uygulama Geliştirme
+**Business Applications** uzmanlıkları şunlardır:
+
+- Düşük KodLu Uygulama Geliştirme
 - Küçük ve Orta Ölçekli İş Yönetimi
 
-**Modern çalışma** gelişmiş uzmanlıkları şunları içerir:
+**Modern İş** gelişmiş uzmanlıkları şunları içerir:
 
 - Benimseme ve Değişiklik Yönetimi
 - Microsoft Teams çağrısı
 - Microsoft Teams için Toplantılar ve Toplantı Odaları
 - Ekip Çalışması Dağıtımı
 
-**Güvenlik** gelişmiş uzmanlıkları şunları içerir:
+**Güvenlik** gelişmiş uzmanlıkları şunlardır:
 
 - Kimlik ve Erişim Yönetimi
 - Tehdit Koruması
@@ -75,7 +78,7 @@ Her gelişmiş uzmanlık bir çözüm alanına karşılık gelen bir çözümdü
 - Bulut Güvenliği
 
 > [!NOTE]
-> Her gelişmiş uzmanlık hakkında bilgi edinmek ve önkoşullarını ve gereksinimlerini öğrenmek için Gelişmiş [uzmanlıklar sayfasını ziyaret edin.](https://partner.microsoft.com/membership/advanced-specialization) Gelişmiş uzmanlık için başvurmaya hazır olduğunda, İş Ortağı Merkezi panosunda oturum [açın.](https://partner.microsoft.com/dashboard) Uygulamanın bu alanına erişme hakkında daha fazla İş Ortağı Merkezi için [bkz. Gelişmiş uzmanlık için uygula.](advanced-specializations-apply.md)
+> Her gelişmiş uzmanlık hakkında bilgi edinmek ve önkoşullarını ve gereksinimlerini öğrenmek için Gelişmiş [uzmanlıklar sayfasını ziyaret edin.](https://partner.microsoft.com/membership/advanced-specialization) Gelişmiş uzmanlık için başvurmaya hazır olduğunda, uygulama panosunda oturum İş Ortağı Merkezi [kontrol edin.](https://partner.microsoft.com/dashboard) Uygulamanın bu alanına erişme hakkında daha fazla İş Ortağı Merkezi için [bkz. Gelişmiş uzmanlık için uygula.](advanced-specializations-apply.md)
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
