@@ -9,27 +9,13 @@
     - name: Microsoft ile iş ortaklığı yapma
       href: mpn-overview.md
       displayName: mpn
-    - name: Iş Ortağı Merkezi 'nde MPN hesabı oluşturma
+    - name: İş Ortağı Merkezi'nde bir MPN hesabı oluşturma
       href: mpn-create-a-partner-center-account.md
       displayName: mpn
     - name: Hesap kurulumu sorunlarını giderme
       href: troubleshoot-account-sign-n.md
-    - name: PMC'den geçişler
-      items:
-        - name: PMC'den geçiş yapmaya hazırlanma
-          href: prepare-pmc-pc-migration.md
-          displayName: 'role, roles, ro, mpn'
-        - name: PMC'den geçiş yapma kılavuzu
-          href: guide-to-migration.md
-        - name: PMC ve PC'yi karşılaştırma
-          href: move-pmc-pc-map.md
-        - name: Birden çok şirketi geçirme
-          href: move-multiple-companies.md
-        - name: Şirketleri birleştirme
-          href: consolidate-accounts.md
-        - name: PMC için avantajları etkinleştirme
-          href: partner-membership-center-tech-benefits-activate.md
-          displayName: mpn
+    - name: Partner Membership Center emeklilik
+      href: partner-membership-center-retirement-faq.md
     - name: Üyelik avantajları
       items:
         - name: Avantajlara genel bakış
@@ -41,18 +27,18 @@
         - name: Tekliflerinizi yenileme
           href: renew-mpn-offers.md
           displayName: mpn
-        - name: Para iadesi isteme
+        - name: Para iadesi isteği
           href: mpn-refund-request.md
           displayName: mpn
         - name: MPN avantajlarınızı bulma
           href: mpn-find-benefits.md
           displayName: mpn
-        - name: Avantajlar ilkesi ve kullanımı-SSS
-          href: benefits-faq-new.md
+        - name: Avantajlar ilkesi ve kullanımı - SSS
+          href: benefits-faq-new.yml
         - name: Avantajlar hakkında SSS'ler
-          href: benefits-faq.md
+          href: benefits-faq.yml
           displayName: 'renew, license,'
-        - name: MPN faturanızı görüntüleyin veya indirin
+        - name: MPN faturanızı görüntüleme veya indirme
           href: mpn-view-print-maps-invoice.md
     - name: Kullanılabilir avantajlar
       items:
@@ -65,7 +51,7 @@
         - name: Azure ve bulut avantajları
           href: mpn-benefits-azure-cloud.md
           displayname: 'activate, azure license, mpn, renew'
-        - name: Yazılım ürünleri
+        - name: Yazılım Ürünleri
           href: mpn-benefits-software.md
           displayname: 'software, on-premise benefit, mpn'
         - name: Visual Studio avantajları
@@ -74,10 +60,10 @@
         - name: Teknik Ön Satış ve Dağıtım Hizmetleri
           href: technical-benefits.md
           displayname: 'TPD, presales, deployment, technical'
-        - name: Teknik avantajlar
+        - name: Teknik Avantajlar
           href: mpn-benefits-technical-support.md
           displayname: 'support, incidents, technical'
-        - name: Logo Oluşturucu kullanarak logo oluşturma
+        - name: Logo Oluşturucusu'nu kullanarak logo oluşturma
           href: mpn-logo-builder.md
     - name: Marketplace Rewards
       href: marketplace-rewards.md
@@ -97,29 +83,30 @@
         - name: Yetkinlikler hakkında bilgi edinin
           href: learn-about-competencies.md
           displayName: mpn
-        - name: Bir öğrenme Iş ortağı olarak kaydetme
+        - name: İş Ortağı olarak Learning olun
           href: mpn-benefits-map-competency-learning-option-enroll.md
           displayName: mpn
         - name: Yetkinlikler hakkında SSS
-          href: competencies-faq.md
+          href: competencies-faq.yml
           displayName: 'renew, mpn'
-        - name: Uzmanlığa yönelik ücretler ödeyin
+        - name: Uzmanlık ücretleri ödeme
           href: mpn-pay-fee-silver-gold-competency.md
           displayName: mpn
         - name: Uygulama Geliştirme yetkinlik istisnası
           href: app-dev-isv.md
-        - name: Yetenekler raporunu kullanma
+        - name: Beceri raporunu kullanma
           href: mpn-skills-report.md
     - name: Gelişmiş uzmanlıklar
       items:
         - name: Uzmanlığınızı gösterme
           href: advanced-specializations.md
+          displayName: Advanced specializations
         - name: Başvurma veya durumu kontrol etme
           href: advanced-specializations-apply.md
-          displayName: mpn
+          displayName: 'mpn, Advanced specializations'
     - name: Azure Uzman MSP olma
       href: azure-expert-msp.md
-- name: Bulut çözümü sağlayıcısı programı (CSP)
+- name: Bulut Çözümü Sağlayıcısı programı (CSP)
   href: csp-overview.md
   displayName: csp
   items:
@@ -134,12 +121,12 @@
     - name: CSP doğrudan faturayı dolaylı kurumsal bayiye geçirme
       href: transition-direct-to-indirect.md
       displayName: csp
-    - name: İş ortakları artık danışmanları olarak kayıt olamaz
+    - name: İş ortakları artık Danışman olarak kaydedilemeyecek
       href: advisors-no-csp.md
 - name: CSP anlaşmaları
   href: microsoft-partner-agreement.md
   items:
-    - name: 'Dolaylı sağlayıcılar, satıcılarına MPA ''yı benimseme konusunda nasıl yardımcı olabilir'
+    - name: Dolaylı sağlayıcılar kurumsal bayilerinin MPA'yı benimsemelerine nasıl yardımcı olabilir?
       href: mpa-indirect-provider-faq.md
       displayName: 'csp, mpa, indirect, provider'
     - name: 'CSP sözleşmeleri, fiyat listeleri, teklifler'
@@ -147,7 +134,7 @@
       displayName: csp
     - name: 'Microsoft Müşteri Sözleşmeleri (bölgeye, dile göre)'
       href: agreements.md
-    - name: Microsoft Müşteri sözleşmesinin müşteri kabulünü onaylama
+    - name: Müşterinin kabulünü onaylama Microsoft Müşteri Sözleşmesi
       href: confirm-customer-agreement.md
     - name: 'CSP bölgesel pazarlar, para birimleri'
       href: regional-authorization-overview.md
@@ -161,7 +148,7 @@
         - name: Microsoft Cloud for US Government için İş Ortağı Merkezi
           href: partner-center-for-microsoft-us-govt-cloud.md
         - name: SSS'ler - Microsoft Cloud for US Government
-          href: faq-for-us-govt-cloud.md
+          href: faq-for-us-govt-cloud.yml
           displayName: csp
         - name: Microsoft Bulut Almanya için İş Ortağı Merkezi
           href: partner-center-for-microsoft-cloud-germany.md
@@ -204,6 +191,8 @@
         - name: İş ortağı profilinizi güncelleştirme
           href: update-your-partner-profile.md
           displayName: mpn
+        - name: İş Ortağı Bulıcı listeleme sertifikası
+          href: partner-finder-certification.md
         - name: Kayıt kimliği numarası bilgileri
           href: reg-number-id.md
         - name: Denetim Paneli Satıcısı olma
@@ -263,12 +252,12 @@
           href: bulk-operations.md
         - name: Ortak satış CRM bağlayıcıları kullanma
           items:
-            - name: Dynamics 365 için
+            - name: Dynamics 365 bağlayıcısı
               href: connector-dynamics.md
-            - name: Salesforce için
+            - name: Salesforce bağlayıcısı
               href: connector-salesforce.md
-        - name: Bağlayıcılarla ilgili sorunları giderme
-          href: connectors-troubleshoot.md
+            - name: Bağlayıcılarla ilgili sorunları giderme
+              href: connectors-troubleshoot.md
         - name: Ortak satış - PSC'den PC'ye geçiş
           href: psc-to-pc.md
           displayName: mpn
@@ -365,7 +354,7 @@
         - name: Çözüm Değerlendirmesi ödeme durumu
           href: chip-solution-assessment-payment.md
         - name: Çözüm Değerlendirmesi hakkında SSS
-          href: chip-faq.md
+          href: chip-faq.yml
         - name: CHIP’e erişim sorunları
           href: chip-access-trouble.md
 - name: Faturalama ve vergiler
@@ -511,7 +500,7 @@
         - name: Market tekliflerini satın alma
           href: csp-commercial-marketplace-purchase.md
           displayName: csp
-        - name: Market tekliflerini lisanslama yönetme
+        - name: Market teklifte lisanslamayı yönetme
           href: csp-commercial-marketplace-licensing.md
           displayName: csp
         - name: Bağımsız Yazılım Satıcılarından markete özel teklifler
@@ -576,7 +565,7 @@
         - name: Azure aboneliklerini aktarma
           href: switch-azure-subscriptions-to-a-different-partner.md
           displayName: csp
-        - name: Müşterinin Azure planı aboneliklerini farklı bir iş ortağına aktarma
+        - name: Müşterinin Azure planı aboneliklerini farklı bir ortağa aktarma
           href: transfer-azure-subscriptions-under-azure-plan.md
     - name: Yazılım abonelikleri
       href: csp-software-subscriptions.md
@@ -787,5 +776,5 @@
       href: partner-security-compliance.md
       displayName: csp
     - name: Sık sorulan sorular
-      href: partner-security-requirements-faq.md
+      href: partner-security-requirements-faq.yml
       displayName: 'sandbox, csp'

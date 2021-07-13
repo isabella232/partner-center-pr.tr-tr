@@ -1,0 +1,69 @@
+### YamlMime:FAQ
+metadata:
+  title: Solution Assessment Incentives Hakkında SSS
+  ms.topic: how-to
+  ms.date: 11/09/2020
+  description: Channel teşvikleri platformunda (yonga) çözüm değerlendirmesi hakkında sık sorulan soruların yanıtlarını öğrenin.
+  ms.service: partner-dashboard
+  ms.subservice: partnercenter-incentives
+  author: Karthic83
+  ms.author: kashanum
+  ms.localizationpriority: medium
+  ms.custom: SEOMAY.20
+  ms.openlocfilehash: 60586dbabfc289d2ebc355e5d7bacf5bb11fcfe5
+  ms.sourcegitcommit: 0b6e24e54faf9ccd05d11e673bbd9add27c82567
+  ms.translationtype: MT
+  ms.contentlocale: tr-TR
+  ms.lasthandoff: 07/13/2021
+  ms.locfileid: "113658023"
+title: Channel teşvikleri platformu (yonga) için çözüm değerlendirmesi teşvikleri SSS
+summary: >
+  **Uygun roller**: birincil iletişim veya Program Yöneticisi
+
+
+  Aşağıdaki sık sorulan soruların yanıtlarını bulun.
+sections:
+- name: Yoksayıldı
+  questions:
+  - question: >
+      Çözüm değerlendirmesi teşvik programı için uygunluk gereksinimleri nelerdir?
+    answer: "Etkin ve kayıtlı durumundaki iş ortakları, FY20 içindeki çözüm değerlendirme teşvik programı, etkin bir MPN üyeliği ve etkin gümüş ya da altın MPN uzmanlığına sahip olmaları durumunda FY21 teşvikleri için uygun olmaya devam edecektir. İş ortağı nitelikleri, yıllık uygunluk açısından incelenmeyecektir.  Belirlenen iş ortakları geçerli yılda uygunluk ve katılım gereksinimlerini gerçekleştirmediği takdirde, bu, bir sonraki yıllık incelemede kaldırılacaktır.  Tüm yeni iş ortakları, kendi alanındaki yerel çözüm değerlendirmesi uzmanı (SAS) üzerinden eklendi.  SAS, iş ortağı şirketteki yeteneklerin ve uzmanlığın eşleşmesini ve SAS tarafından desteklenen yan kuruluşların iş ihtiyaçlarını temel alarak eklendi iş ortaklarını belirler.\nEkleme işlemine başlamadan önce, iş ortaklarının, şirketlerinin, yerelleştirmelerinde değerlendirmelerin desteklenmesi için sahip oldukları yetenekler ile tartışılabilmeleri gerekir. \n\nŞu anda, bu iş ortaklarının çözüm değerlendirmesi teşvik etmek için uygun olması için aşağıdaki FY21 maları ölçütlerini karşılaması gerekir. Ayrıntılar için [çözüm değerlendirmesi uygunluk](chip-solutions-assessment-eligible.md)konusunu okuyun.\n"
+  - question: >
+      Çözüm değerlendirme programmasına Nasıl yaparım? kayıt yapılsın mı?
+    answer: >
+      İşlemi başlatmak için yerel çözüm değerlendirme uzmanlarınız (SAS) ile iletişim kurun.
+  - question: >
+      Nasıl yaparım? bankamı ve vergi ayrıntılarımı gönder?
+    answer: >
+      Banka ve vergi profillerinizi nasıl göndereceğiniz hakkında adım adım yönergeler için [yongadaki](chip-intro.md) adımları okuyun.
+  - question: >
+      Kendi anlaşma durumum YONGASıNDA onaylandı. Neden henüz ödenmedi?
+    answer: >
+      Anlaşma durumuna ek olarak, bir fırsat ödeme için gönderilmeden önce de POE durumunun YONGASıNDA onaylanması gerekir. POE 'in yonga içindeki POE doğrulama ekibi tarafından yüklendiğinden ve onaylandığından emin olmak için lütfen YONGADAKI fırsatınızı gözden geçirin. POE durumunu görüntülemek için YONGADA oturum açın ve gerekli olan **Ara anlaşmalar** ' **ı seçin..** . menüsünü seçerek erişebilirsiniz. **Fırsat kimliği** ' ni girip **Ara**' yı seçin. Arama sonuçlarında, POE altında ' Düzenle ' köprüsünü seçin. Elde edilen sayfada, POE durumunu görmek için ' gözden geçir ' bölümüne gidin. Ayrıca, POE ekibinin POE hakkında ek bilgiler istediği durumlarda ' Comments ' alanını gözden geçirin.
+  - question: >
+      Neden fırsat için kilometre taşı 1 için ödeme almıyorum?
+    answer: >
+      15 Ağustos 2020 ' den itibaren, kilometre taşı 1, onaylanan risk düzeyinin %0 ' ından ve bu aşama 2 ' nin %100 ' de onaylanan risk düzeyinin% ' inden ödenmekte 15 Ağustos 2020 ' den önce tüm açık yonga kayıtlı görevlendirmeleri, FY20 Kılavuzu altında ödenmeye devam edecektir. Kilometre taşı işlemindeki değişiklikler hakkında rehberlik için [Iş ortağı SSS](https://assetsprod.microsoft.com/solution-assessment-incentive-program-faq.pdf) ' ye göz atın.
+  - question: >
+      Aldığım bir fırsatı veya ödemeyi nasıl planlarım?
+    answer: >
+      Lütfen bu istekle ilgili rehberlik sağlayabilen sa 'lara ulaşın.
+  - question: >
+      Fırsat, POE 'in karşıya yüklenmesini önleyecek YONGADA kapatılmış. Fırsatın ödemesini almak için ne yapabilirim?
+    answer: >
+      Fırsat kapatıldıktan sonra, teşvikleri için artık uygun değildir. Daha fazla rehberlik için SAS 'nize ulaşın.
+  - question: >
+      YONGAYA yeni bir yönetim/Kullanıcı mi eklemek Nasıl yaparım??
+    answer: >
+      Birincil Iş ortağı kişisinin (yönetici), şirketteki diğer tüm kullanıcıları YONGADA kaydettirmek üzere davet etme sorumluluğu vardır. Şirketten ayrılmaları gereken kullanıcıların devre dışı bırakılması da dahil olmak üzere Kullanıcı erişiminden de sorumludur. Lütfen [Channel teşvikleri platform kılavuzunu](chip-intro.md)okuyun.
+  - question: >
+      Birincil yönetici şirketimizin bıraktı. YONGADAKI birincil yöneticimi nasıl değiştirebilirim?
+    answer: >
+      YONGADAKI birincil yönetici, MPN 'deki birincil Iş ortağı kişisi olmalıdır. Lütfen MPN 'nin yeni kişiyle güncelleştirildiğinden emin olun ve YONGADAKI değişikliği istemek için bölgesel destek ekibinize başvurun.
+
+
+      Iş Ortağı Merkezi panosunda, sol taraftaki menüden **destek** ' i seçin. Kategori olarak **teşvikleri** ' u seçin veya "konularda araştırma" alanında program adınızı arayın.
+
+
+      İlgili konuya özgü yardımı görüntüledikten sonra, hala yardıma ihtiyacınız varsa, önerilen belgelerden bir bilet oluşturabilirsiniz – **bir destek bileti oluşturabilirsiniz** .
+additionalContent: "\n## <a name=\"next-steps\"></a>Sonraki adımlar\n\n- [YONGAYA git](chip-intro.md)"
