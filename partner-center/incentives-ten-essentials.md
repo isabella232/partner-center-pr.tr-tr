@@ -8,18 +8,18 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 09/15/2020
-ms.openlocfilehash: 5aead530797d8d122ea871a693c774439b412171
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 32b7575e0110eba8c04e971845f54ca71bfb45c5
+ms.sourcegitcommit: d1deaeb1703cf2c25119037c5fb624c44fca74b4
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110146723"
+ms.lasthandoff: 07/14/2021
+ms.locfileid: "113753366"
 ---
 # <a name="the-10-essentials-for-working-with-incentives"></a>Teşviklerle çalışmak için 10 temel bilgi
 
 **Uygun roller:** Teşvik yöneticisi | Teşvikler kullanıcısı
 
-Microsoft Teşvikler programı, iş ortaklarını Microsoft ürün ve hizmetleriyle müşterilerle etkileşimli çalışmalarına yardımcı olan güçlü bir araçtır. Programı ne kadar iyi anlarsınız, başarı olasılığınız o kadar iyi olur.
+Microsoft Teşvikler programı, müşterilerin Microsoft ürün ve hizmetleriyle etkileşimli çalışmalarına yardımcı olan güçlü bir araçtır. Programı ne kadar iyi anlarsınız, başarı olasılığınız o kadar iyi olur.
 
 Teşvik programına başlamadan önce aşağıda listelenen 10 **temel** bilgiden faydalanmanız önerilir. Teşvik deneyiminizin iyi bir deneyim olduğundan emin olur ve teşvik ödemeleri gecikmelerini önlemeye yardımcı olur.
 
@@ -37,31 +37,31 @@ Teşvik sürecindeki neredeyse tüm ödeme gecikmeleri veya diğer kesintiler, h
 
 ## <a name="4-learn-about-roles-and-permissions"></a>4. Roller ve izinler hakkında bilgi
 
-Teşvikleri programına dahil olan roller ve izinlerin katı bir şekilde anlaşılması önemlidir. Bunu yaptıktan sonra, şirketinizdeki kişilere hangi rollerin atanacağına karar verebilirsiniz. Daha fazla bilgi edinmek için bkz. [hangi kullanıcı rolleri kullanılabilir?](incentives-faq.md#what-user-roles-are-available)
+Teşvik programına dahil olan roller ve izinler hakkında sağlam bir anlayışa sahip olmak önemlidir. Bunu yaptıktan sonra, şirketinize hangi rollerin atanacak olduğuna karar ve ardından siz de karar vesersiniz. Daha fazla bilgi edinmek için [bkz. Hangi kullanıcı rolleri kullanılabilir?](incentives-faq.yml#what-user-roles-are-available-)
 
-## <a name="5-review-the-incentives-faq"></a>5. teşvikleri SSS 'sini inceleyin
+## <a name="5-review-the-incentives-faq"></a>5. Teşvikler hakkında SSS bölümünü gözden geçirin
 
-Sık sorulan teşvikleri soruların yanıtlarını sormadan önce alın. Microsoft Desteği bilgileri kullanarak ve doğrudan ortaklarla iletişim kurmak için teşvikleri SSS 'yi sıklıkla güncelleştiririz. SSS 'yi [buradan](incentives-faq.md)görebilirsiniz.
+Daha sormadan önce yaygın teşvik sorularının yanıtlarını elde etmek. İş ortaklarıyla doğrudan iletişim kurarak teşviklerle ilgili SSS Microsoft Desteği bilgileri kullanarak güncelleştireceğiz. SSS bölümünü burada [görüntüebilirsiniz.](incentives-faq.yml)
 
-## <a name="6-confirm-your-program-eligibility"></a>6. programınızın uygunluğunu onaylayın
+## <a name="6-confirm-your-program-eligibility"></a>6. Program uygunluğunızı onaylayın
 
-Bu, genellikle Microsoft 'un gerekli tüm şirket profili belgelerini ve gerekli Uzmanlıklar elde ettiğinizden emin olmanızı içerir. Bkz. [programınızın uygunluğunu onaylayın](incentives-determined-your-program-eligibility.md).
+Bu genellikle Microsoft'a gerekli tüm şirket profili belgelerini sağladığından ve gerekli tüm yetkinlikleri elde edinenlerden emin olundur. Bkz. [Program uygunluğunu onaylama.](incentives-determined-your-program-eligibility.md)
 
-## <a name="7-confirm-your-earnings-eligibility"></a>7. kazanç uygunluğunu onaylayın
+## <a name="7-confirm-your-earnings-eligibility"></a>7. Kazanç uygunluğunu onaylayın
 
-Önceki görevde olduğu gibi, bu genellikle Microsoft 'un ihtiyaç duyduğumuz tüm bilgileri sağladığınızdan emin olmanızı içerir. Bkz. [kazanç uygunluğunu onaylayın](incentives-confirm-your-earnings-eligibility.md).
+Önceki görev gibi bu da genellikle Microsoft'a ihtiyacımız olan tüm bilgileri sağladığından emin olmaktır. Bkz. [Kazanç uygunluğunu onaylama.](incentives-confirm-your-earnings-eligibility.md)
 
-## <a name="8-gather-the-necessary-enrollment-information"></a>8. gerekli kayıt bilgilerini toplayın
+## <a name="8-gather-the-necessary-enrollment-information"></a>8. Gerekli kayıt bilgilerini toplayın
 
-Teşvikleri programına kaydolma, şirketiniz hakkında belirli bir miktarda bilgi gerektirir. Başlamadan önce tüm bunların birlikte bulunduğundan emin olun. Daha fazla bilgi edinmek için [Iş Ortağı Merkezi PDF dosyasında teşvik kaydını](https://assetsprod.microsoft.com/partner-center-incentives-enrollment.pdf) indirip okuyun.
+Teşvik programına kaydolmak için, şirketiniz hakkında belirli miktarda bilgi gerekir. Başlamadan önce bunların bir arada olduğundan emin olun. Daha fazla bilgi edinmek için pdf [dosyasındaki Teşvik İş Ortağı Merkezi](https://assetsprod.microsoft.com/partner-center-incentives-enrollment.pdf) indirin ve okuyun.
 
-## <a name="9-learn-how-other-partners-do-it"></a>9. diğer iş ortaklarının bunu nasıl yaptığı hakkında bilgi edinin
+## <a name="9-learn-how-other-partners-do-it"></a>9. Diğer iş ortaklarının bunu nasıl yapacaklarını öğrenin
 
-Microsoft teşvikleri ve Iş Ortağı Merkezi 'nin genel olarak, [başarılı Microsoft iş ortaklarının beş özniteliği](https://www.microsoft.com/en-us/us-partner-blog/2019/08/29/the-five-attributes-of-successful-microsoft-partners/)gibi birçok iyi makale mevcuttur.
+Başarılı Microsoft iş ortaklarının beş özniteliği gibi, Microsoft teşvikleri İş Ortağı Merkezi genel olarak çok sayıda iyi [makale mevcuttur.](https://www.microsoft.com/en-us/us-partner-blog/2019/08/29/the-five-attributes-of-successful-microsoft-partners/)
 
-## <a name="10-read-the-partner-center-online-help"></a>10. Iş Ortağı Merkezi çevrimiçi yardımını okuyun
+## <a name="10-read-the-partner-center-online-help"></a>10. Çevrimiçi İş Ortağı Merkezi okuma
 
-Yukarıda listelenen tüm görevleri gerçekleştirmeye ilişkin ayrıntılı yordamlar bulabilirsiniz. Teşvikler bölümünün tamamını yaklaşık bir saat içinde okuyabilirsiniz ve çoğu makale yalnızca bir veya iki dakika sürer. Yardımı okumaya başlamak için bkz. [Başlarken.](incentives-get-started-intro.md)
+Yukarıda listelenen tüm görevleri gerçekleştirmeye ilişkin ayrıntılı yordamlar bulabilirsiniz. Teşvikler bölümünün tamamını yaklaşık bir saat içinde okuyabilirsiniz ve çoğu makale yalnızca bir veya iki dakika sürer. Yardımı okumaya başlamak için [bkz. Başlarken.](incentives-get-started-intro.md)
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
