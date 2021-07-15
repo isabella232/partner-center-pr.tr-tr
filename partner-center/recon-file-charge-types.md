@@ -9,16 +9,16 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5a1f45de59fc9dac6a443bb8a14c3a80b36ba3f7
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 10438ba30c6eb5ba5b1daef1ad16521f1f8e77c6
+ms.sourcegitcommit: 70b8ebbe0d431c7a13529f9eabd1b24f40108a46
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855888"
+ms.lasthandoff: 07/14/2021
+ms.locfileid: "113989783"
 ---
 # <a name="understand-the-different-charge-types-in-partner-center-reconciliation-files"></a>Iş Ortağı Merkezi mutabakatı dosyalarındaki farklı ücret türlerini anlayın
 
-**Uygulama hedefi**: Iş Ortağı Merkezi | ABD kamu için Microsoft Bulut iş ortağı Merkezi
+**Uygulama hedefi**: Iş Ortağı Merkezi | Microsoft Cloud for US Government için iş ortağı Merkezi
 
 **Uygun roller**: yönetici Aracısı | Faturalandırma Yöneticisi | Genel yönetici
 
@@ -31,7 +31,7 @@ Hem [Kullanım tabanlı](usage-based-recon-files.md) hem de [Lisans tabanlı mut
 
 ## <a name="map-charge-types-to-invoice-charges"></a>Ücret türlerini fatura ücretlerine eşleyin
 
-Fatura ve mutabakat dosyanız arasında çapraz başvuru ücret miktarları için, Microsoft Excel 'deki filtre seçeneklerini kullanın. Mutabakat dosyasındaki ücretlendirme türlerine göre filtreleme yaparak fatura ücretlerini mutabakat dosyasındaki bir dizi ücret dökümü ile eşleyin.
+Fatura ve mutabakat dosyanız arasında çapraz başvuru ücret miktarları için Microsoft Excel ' deki filtre seçeneklerini kullanın. Mutabakat dosyasındaki ücretlendirme türlerine göre filtreleme yaparak fatura ücretlerini mutabakat dosyasındaki bir dizi ücret dökümü ile eşleyin.
 
 ## <a name="license-based-charges"></a>Lisans tabanlı ücretler
 
@@ -40,42 +40,44 @@ Bu lisans tabanlı ücretleri faturanızda eşlemek için, lisans tabanlı dosya
 | Ücretlendirme açıklaması (mutabakat dosyasındaki ChargeType sütunu) | Ücret açıklaması |
 | ------------------------------------------------------------- | ------------------ |
 | Etkinleştirme ücreti | Satın alma işleminden sonra aboneliği kullandıklarında müşteriye ücretlendirilen miktar. |
-| Ücreti iptal et | İlişkili lisanslar değiştiriken müşteriye iade edilecek, proratlı ücretler. |
-| Örnek prorate işlemini iptal etme | Aylık aboneliği olan müşterinin aboneliği askıya alındı ve ilişkili lisanslar aynı ay içinde değişti. |
-| Döngü ücreti | Bir abonelik için düzenli ücretler. |
-| Döngü örneği hızı | İlişkili lisanslar değiştiriken müşteri tarafından değerlendirilen, proratılmış ücretler. |
-| İptal edilirken ücretlerin prorate işlemi | İptalin ardından hizmetin kullanılmayan kısmı için prorated para iadesi. |
-| Geçerli tekliften dönüştürülürken ücretlerin prorate (prorate) | Geçerli aylık abonelikten yıllık aboneliğe dönüştürüldikten sonra prorated ücretler. |
-| Yeni bir teklife dönüştüren ücretlerin prorate (prorate) | Aylık abonelik yeni bir yıllık aboneliğe dönüştürüldikten sonra prorated ücretler. |
-| Satın almada ücret prorate | Aylık veya yıllık faturalama kullanırken aboneliğin ücret türü. |
-| Yenilemede prorate ücreti | Abonelik yenilemesi sırasında prorated ücretler. |
-| Ücreti yenileme | Aboneliği yenileme ücreti |
-| Etkinleştiren ücretler için prorate (prorate) | Etkinleştirmeden faturalama döneminin sonuna kadar protratılmış ücretler. |
+| Ücreti iptal et | İlişkili lisanslar değiştirildiğinde müşteriye eşit olarak dağıtılmış ücretler müşteriye iade edildi. |
+| Örnek eşit olarak iptal et | Aylık aboneliğe sahip müşteri, abonelik askıya alındı ve ilişkili lisanslar aynı ay içinde değiştiği zaman eşit olarak dağıtılmış ücretler iptal edilir. |
+| Bisiklet ücreti | Bir abonelik için dönemsel ücretler. |
+| Bisiklet örneği eşit | İlişkili lisanslar değiştirildiğinde müşteriden alınan eşit oranda dağıtılmış ücretler. |
+| İptal edildiğinde eşit ücret ücretleri | İptal sonrasında hizmetin kullanılmayan bölümü için eşit olarak dağıtılmış para iadesi. |
+| Geçerli sunumdan uzakta değişiklik yaparken eşit ücretler | Geçerli aylık abonelikten bir yıllık aboneliğe dönüştürmeden sonra eşit olarak dağıtılmış ücretler. |
+| Yeni bir teklife dönüştürülürken eşit ücretler ücretleri | Aylık bir aboneliği yeni bir yıllık aboneliğe dönüştürdükten sonra eşit olarak dağıtılmış ücretler. |
+| Satın alma sırasında ücretleri eşit oranda artır | Aylık veya yıllık faturalandırma kullanılırken bir abonelik için ücret türü. |
+| Yenileme sırasında eşit ücret ücreti | Abonelik yenileme sonrasında eşit olarak dağıtılmış ücretler. |
+| Ücretleri Yenile | Abonelik yenileme ücreti |
+| Etkinleştirmede eşit ücretler | Faturalandırma döneminin sonuna kadar etkinleştirilmesinin eşit olarak dağıtılmış ücretleri. |
 
 ## <a name="one-time-charges"></a>Tek seferlik ücretler
 
-Bu tek seferlik ücretleri faturanıza eşlemek için lisans tabanlı **dosyadan** Amount sütununu topla.
+Bu tek seferlik ücretleri faturanızda eşlemek için, **tutar** sütununu lisans tabanlı dosyadan toplayın.
 
-| Ücret açıklaması (mutabakat dosyasında ChargeType sütunu) | Ücret açıklaması |
+| Ücretlendirme açıklaması (mutabakat dosyasındaki ChargeType sütunu) | Ücret açıklaması |
 | ------------------------------------------------------------- | ------------------ |
-| Yeni | Yeni bir satın alma oluşturulduğunda kullanılır. |
-| addQuantity | Hem özgün satın alma para iadesi hem de artış sonrasında yeni miktar için kullanılır. |
-| removeQuantity | Hem özgün satın alma para iadesi hem de düşüş sonrasında yeni miktar için kullanılır. |
-| İptal | Abonelik iptal edilirken kullanılır. |
-| Dönüştür | Bir lisans yükseltilirken, ancak lisans sayısı değişmeden kalır. |
+| new | Yeni bir satın alma oluşturulduğunda kullanılır. |
+| yenileme | Dönem sonundan sonra bir abonelik yenilendiğinde kullanılır. |
+| addQuantity | Hem orijinal satınalmanın para iadesi hem de bir artmadan sonraki yeni miktarın kullanıldığı. |
+| removeQuantity | Orijinal satınalmanın para iadesi ve yeni miktarın bir azalmadan sonraki aşamasında kullanılır. |
+| cancelImmediate | Abonelik iptal edildiğinde kullanılır. |
+| dönüştürme | Bir lisans yükseltildiğinde kullanılır. |
+| Müşterinin kredisi | Kredi (örn. Azure, SLA, vb.) bir işleme göre verildiğinde kullanılır. |
 
 ## <a name="usage-charges"></a>Kullanım ücretleri
 
-Bu kullanım ücretlerini faturanıza eşlemek için kullanım tabanlı dosyadan **PretaxCharges** sütununu toplamanız gerekir.
+Bu kullanım ücretlerini faturanızda eşlemek için, kullanım tabanlı dosyadaki **Pretaxcharges** sütununu toplayın.
 
-| Ücret açıklaması (mutabakat dosyasında ChargeType sütunu) | Ücret açıklaması |
+| Ücretlendirme açıklaması (mutabakat dosyasındaki ChargeType sütunu) | Ücret açıklaması |
 | ------------------------------------------------------------- | ------------------ |
-| İptal edilirken kullanım ücretini değerlendirme | Geçerli faturalama dönemi boyunca ödenmemiş kullanım iptali sırasında kullanım ücretine erişin. |
-| Geçerli döngü için kullanım ücretini değerlendirme | Geçerli faturalama dönemi için kullanım ücretine erişin. |
+| İptal edildiğinde kullanım ücretini değerlendir | Geçerli fatura döneminde ücretsiz kullanım için İptalden sonra kullanım ücretini erişin. |
+| Geçerli döngüyle ilgili kullanım ücretini değerlendir | Geçerli fatura dönemi için kullanım ücretine erişin. |
 
 ### <a name="credits"></a>Krediler
 
-Bu kredileri faturanıza eşlemek için:
+Bu kredileri faturanızda eşlemek için:
 
 - Lisans tabanlı dosyadan **Totalforcustomer** toplamını toplayın.
 - Kullanım tabanlı dosyadaki **Posttaxtotal** sütununu toplayın.

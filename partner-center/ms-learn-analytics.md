@@ -1,5 +1,5 @@
 ---
-title: İş Ortağı Merkezi Insights Microsoft Learn analizi
+title: İş Ortağı Merkezi Analizler Microsoft Learn analizi
 ms.topic: article
 ms.date: 08/13/2020
 ms.service: partner-dashboard
@@ -9,18 +9,18 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 132583352e1697a2f9dfa624eb9532692be6d734
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: e5d73582d3cfe0aa19483526d9b77e55a4c7e0a0
+ms.sourcegitcommit: 70b8ebbe0d431c7a13529f9eabd1b24f40108a46
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110152639"
+ms.lasthandoff: 07/14/2021
+ms.locfileid: "113989766"
 ---
-# <a name="the-microsoft-learn-analytics-report-shows-the-status-of-learners-in-your-company"></a>Microsoft Learn analiz raporu, şirketiniz için öğrenciler durumunu gösterir
+# <a name="use-microsoft-learn-analytics-reports"></a>Microsoft Learn analiz raporlarını kullanma
 
 **Uygun roller:** Genel yönetici | MPN iş ortağı yöneticisi
 
-Microsoft Learn raporu, tamamlamış olduğu modüller ve üzerinde bulunduğu öğrenme yolları da dahil olmak üzere şirketinize dahil olan öğrenciler hakkında bilgi sağlar. Raporda her bir kişinin durumu görüntülenir. Genel yönetici ve şirketinizin MPN yöneticisi verileri görüntülemenizi sağlar.
+Bu [Microsoft Learn](/learn/) raporu, tamamlamış olduğu modüller ve üzerinde bulunduğu öğrenme yolları da dahil olmak üzere şirketinize dahil olan öğrenciler hakkında bilgi sağlar. Raporda her bir kişinin durumu görüntülenir. Bir şirketin genel yöneticileri ve MPN yöneticileri verileri görüntülemeye devam ediyor.
 
 ## <a name="how-to-read-the-report"></a>Raporu okuma
 
@@ -28,48 +28,47 @@ Microsoft Learn raporu, tamamlamış olduğu modüller ve üzerinde bulunduğu �
 
 Bu grafikler eğitilen bireyler için sayı ve aylık kümülatif eğilimleri, modül tamamlamalarını ve öğrenme yollarını özetler.
 
+**Eğitilen bireyler** sayısı: Seçilen tarih aralığı boyunca en az bir modülü tamamlamış olan tüm ayrı öğrenenlerin sayısı 
 
-**Eğitilen bireyler** sayısı: Seçilen tarih aralığında en az bir modülü tamamlamış olan tüm ayrı öğrenenlerin sayısı 
-
-**Eğitilen bireyler eğilim mini grafiği:** Etkin öğrenciler için aydan aya göre kümülatif sayısı 
+**Eğitilen bireyler eğilim mini grafiği:** Aydan aya göre etkin öğrenciler için toplam sayı 
 
 **Modül tamamlama sayısı:** Seçilen tarih aralığında iş ortağının şirketinde öğrenenlerin modül tamamlamalarının sayısı.
 Örneğin, "Modül 1" 15 kişi tarafından tamamlanır ve "Modül 2" aynı 15 birey tarafından tamamlanırsa, modül tamamlama sayısı 30 olur. Modülün tamamlanma tarihi, seçilen tarih aralığında olmalıdır.
 
 **Modül tamamlama eğilimi mini grafiği:** Modül tamamlamalarının aylara göre toplam sayısı 
 
-**Öğrenme yolu tamamlama sayısı:** Seçilen tarih aralığında iş ortağının şirketinde öğrenenlerin Öğrenme yolu tamamlamalarının sayısı.
-Örneğin, "Yol 1" Öğrenme Yolu 20 kişi tarafından tamamlanır ve "yol 2" Öğrenme Yolu aynı 20 kişi tarafından tamamlanırsa Öğrenme Yolu tamamlanma sayısı 40 olur. Öğrenme yolu tamamlanma tarihi, seçilen tarih aralığında olmalıdır.
+**Learning tamamlama sayısı:** Seçilen Learning iş ortağının şirketinde öğrenciler tarafından yapılan yol tamamlama işlemlerinin sayısı.
+Örneğin, Learning Yolu "Yol 1" 20 kişi tarafından tamamlanır ve "yol 2" Learning Yolu aynı 20 kişi tarafından tamamlanırsa, Learning Yolu tamamlama sayısı 40 olur. Yol Learning tamamlanma tarihi, seçilen tarih aralığı içinde olmalıdır.
 
-**Öğrenme yolu tamamlama eğilimi mini grafik**: aylık ay öğrenme yolu tamamlama sayısı 
+**Learning tamamlama eğilimi mini grafiği:** Öğrenme yolu tamamlamalarının aylara göre toplam sayısı 
 
 ### <a name="trained-individuals-monthly-trend"></a>Eğitilen kişilerin aylık eğilimi
 
-Bu veriler, şirketinizin bu ay içinde ilk kez bir modülü tamamlamış olan kullanıcılarının eğilimi olur. 
+Bu veriler, bir modülü o ay ilk kez tamamlayan şirket kullanıcılarının eğilimidir. 
 
-**X ekseni** , saat filtresinin seçildiği bir aydır. 
+**X Ekseni,** seçilen zaman filtresinin ayıdır. 
 
-**Y ekseni** , söz konusu ay içinde (bir modülün ilk kez tamamlanması) kayıtlı olan etkin öğreniplerin sayısıdır. Bu birikimli değildir.
+**Y Ekseni,** o ay boyunca kayıtlı (bir modülü ilk kez tamamla) etkin olan öğrencilerdir. Bu kümülatif değildir.
 
-### <a name="module-completions-monthly-trend"></a>Aylık eğilim tamamlanan modül
+### <a name="module-completions-monthly-trend"></a>Aylık modül tamamlama eğilimi
 
-Bu veriler, tüm şirketinizin kullanıcıları tarafından bu ay boyunca tamamlanan modüllerin eğilimi olur. (toplu değil) 
+Bu veriler, o ay boyunca tüm şirket kullanıcıları tarafından tamamlanan modüllerin eğilimidir. (kümülatif değil) 
 
-**X ekseni** , saat filtresinin seçildiği bir aydır. 
+**X Ekseni,** seçilen zaman filtresinin ayıdır. 
 
-**Y ekseni** , söz konusu ay boyunca tamamlanan modülün sayısıdır. Bu birikimli değildir.
+**Y Ekseni,** o ay boyunca yapılan modül tamamlamalarının sayısıdır. Bu kümülatif değildir.
 
-### <a name="learning-path-completions-monthly-trend"></a>Aylık eğilim için öğrenme yolu
+### <a name="learning-path-completions-monthly-trend"></a>Learning tamamlamaları aylık eğilimi
 
-Bu veriler, şirketinizin kullanıcıları tarafından bu ay boyunca tamamlanan öğrenme yollarının eğilimi olur. (toplu değil) 
+Bu veriler, bu ay boyunca şirket kullanıcıları tarafından tamamlanan öğrenme yollarının eğilimidir. (kümülatif değil) 
 
-**X ekseni** , saat filtresinin seçildiği bir aydır. 
+**X Ekseni,** seçilen zaman filtresinin ayıdır. 
 
-**Y ekseni** , söz konusu ay içinde tamamlanmış modül sayısıdır. Bu birikimli değildir.
+**Y Ekseni,** o ayki modül tamamlama sayısıdır. Bu kümülatif değildir.
 
-### <a name="learning-path-completion-tabs"></a>Öğrenme yolu tamamlama sekmeleri 
+### <a name="learning-path-completion-tabs"></a>Learning tamamlama sekmelerini seçin
 
-**Modül sekmesi**
+#### <a name="module-tab"></a>Modül sekmesi
 
 Bu sekme, şirketinize en çok beş modül adı tarafından tamamlanan modüllerin dökümünü içerir; modülün ilişkili olduğu ürün; ve modülle ilgili kullanıcı rolü.  
 
@@ -85,13 +84,13 @@ Grafiğin merkezinde görüntülenen sayı, modül tamamlamaları için farklı 
 
 Grafiğin merkezinde görüntülenen sayı, modül tamamlamaları için farklı ürünlerin sayısıdır.  
 
-**Öğrenme yolu sekmesi**   
+#### <a name="learning-path-tab"></a>Learning yolu sekmesi
 
 Bu sekme, şirketinize en iyi beş modül adı ile tamamlanan öğrenme yollarının dökümünü içerir; öğrenme yolunun eşlenmiş olduğu ürün; ve bu öğrenme yolundaki rolü.  
 
-- Öğrenme yolları tamamlamaları donut grafiği: Öğrenme yolu tamamlamalarının dökümü (özet bölümünde gösterilen sayı) adına göre.
+- Learning tamamlamalar donut grafiği: Learning yol tamamlamalarının dökümü (özet bölümünde gösterilen sayı) adına göre.
 
-- Role*göre tamamlamalar: Role göre öğrenme yollarının tamamlanmasının dökümü. Bir modül birden çok rolle ilişkili ise, rollerin her biri modül tamamlama sayısına eklenir.
+- Role göre tamamlamalar: Role göre öğrenme yolu tamamlamalarının dökümü. Bir modül birden çok rolle ilişkili ise, rollerin her biri modül tamamlama sayısına eklenir.
 
 - Ürüne göre tamamlamalar: Öğrenme yolunun eşlenmiş olduğu Ürüne göre öğrenme yolu tamamlamalarının dökümü. Bir modül birden çok ürünle ilişkili ise, ürünlerin her biri modül tamamlama sayısına eklenir.
 
@@ -99,43 +98,46 @@ Bu sekme, şirketinize en iyi beş modül adı ile tamamlanan öğrenme yolları
 
 Bu, şirketiniz içinde eğitilen kullanıcıları ve tamamlanan modüllerin ve öğrenme yollarının ayrıntılarını listeler.
 
-Microsoft Learn kullanıcı nesne kimliğine sahip olan öğrenicileri tanımlar. **Modüller sekmesinin** altında, tüm öğrenenler, tamamlanan modüllere göre sıralanır. Microsoft Learn Kullanıcı adı, nesne KIMLIĞI ve modül sayısıyla birlikte görüntülenir. Kullanıcı adını kullanarak arama yapabilirsiniz. 
+Microsoft Learn kullanıcı nesne kimliğine sahip olan öğrenicileri tanımlar. Modüller **sekmesinde,** tüm öğrenciler tamamlanan modüllere göre sıralanır. Kullanıcı adı, Nesne Microsoft Learn ve modül sayısıyla birlikte görüntülenir. Kullanıcı adını kullanarak arama yapın. 
 
-**Öğrenme yolları sekmesinde** , öğrenme yolları tarafından sıralanan tüm öğrenenler, Learner görünen adı, nesne kimliği ve modül sayısı ile birlikte görüntülenir.
+Öğrenme **Learning sekmesi** altında, tamamlanan öğrenme yollarına göre sıralanmış tüm öğrenciler, öğrenici görünen adı, Nesne Kimliği ve modül sayısı ile görüntülenir.
 
-Kullanıcı nesne KIMLIĞINI kullanarak öğrenner 'in ayrıntılarını almak için: 
+Kullanıcı Nesne Kimliğini kullanarak bir öğrenicinin ayrıntılarını almak için: 
 
-1. [Graph Explorer](https://developer.microsoft.com/graph/graph-explorer )'da oturum açın. (Şirketinizin Azure AD kiracısının genel yöneticisi olmanız gerekir.)
+1. [Graph Explorer'da oturum açın.](https://developer.microsoft.com/graph/graph-explorer ) (Şirketinizin Azure AD kiracısı genel yöneticisi olmak gerekir.)
 
-2. Kullanıcı nesnesi KIMLIĞINI Graph Explorer 'da [vurgulanan alana](https://graph.microsoft.com/v1.0/users/a9633ad7-c8dc-4587-b119-0bc286b0711f) kopyalayın. 
+2. Kullanıcı nesnesi kimliğini [Gezgin'de vurgulanan](https://graph.microsoft.com/v1.0/users/a9633ad7-c8dc-4587-b119-0bc286b0711f) Graph kopyalayın. 
 
-## <a name="faq"></a>SSS
+## <a name="frequently-asked-questions-faq"></a>Sık sorulan sorular (SSS)
 
-1. Şirketimin öğrenme ayrıntılarını göremiyorum.
+1. Şirketimin Learn ayrıntılarını göremiyorum.
 
-Bu rapor, Iş Ortağı Merkezi 'nde bir hesabı olan iş ortakları tarafından kullanılabilir. Hala Iş ortağı üyeliği merkezinizde bu raporu göremezsiniz.
+   Bu rapor, İş Ortağı Merkezi'da hesabı olan iş İş Ortağı Merkezi. Henüz Partner Membership Center bu raporu göreyebilirsiniz.
 
-2.  Şirketimizdeki kim bu raporu görüntüleyebilir? 
+2. Who şirketimde bu raporu nasıl görüntülebilirsiniz? 
 
-Genel yönetici ve MPN Yöneticisi raporu görüntüleyebilir.
+   Genel yönetici ve MPN yöneticisi raporu görüntülemeye devam etti.
 
-3. Tüm kullanıcılarımızın Microsoft Learn hesaplarını Iş Ortağı Merkezi hesabıyla ilişkilendirme konusunda nasıl emin olabilirim?
+3. Tüm kullanıcılarımızın kendi Microsoft Learn hesabıyla İş Ortağı Merkezi emin olabilirim?
 
-Genel yönetici yeni bir kullanıcı ekledikten sonra, bu kullanıcının Microsoft Learn hesaplarını ilişkilendirmek için kendi **profilimi** eklemesi gerekir.
+   *Genel yönetici yeni bir kullanıcı* ekledikten sonra, [](/learn/) kullanıcının Microsoft Learn (AD) kurumsal hesabını veya Azure Active Directory hesabını Learn hesabıyla bağlaması için Azure Active Directory'a gitmeleri gerekir. Bu, Analizler Learning sekmesinin doğru dersleri ve becerileri göstermelerini sağlar.
+   
+   Kullanıcının şunları yapmak zorunda olması gerekir:
+   
+   1. Microsoft Learn. [](/learn/)
+   2. Profil resmini seçin, sonra da **Profilim.**
+   3. **Ayarlar**'ı seçin.
+   4. Hesap **yönetimi altında,** iş hesaplarını Bağlı hesaplar **altına ekleyin.**
 
-- Panonun sağ köşesindeki **Hesap simgenizi** seçin ve sonra **profilimi** seçin. 
+4. Bu raporda MSA hesabıyla oturum Microsoft Learn şirketin tüm kullanıcılarını görebilir miyim?
 
--  **Öğrendiğiniz** Kullanıcı, Microsoft Learning hesabını ilişkilendirebilir ve Microsoft hesabı Iş ortağı University 'e bağlayabilecektir.
+   Şu anda bunu yapmak için en iyi yol, bu kullanıcıları Azure AD kiracınıza eklemek ve sonra İş Ortağı Merkezi'a eklemektir. Böylece, Microsoft Learn hesaplarını Profilim İş Ortağı Merkezi.  
 
-3. Bu raporda bir MSA hesabıyla Microsoft Learn oturum açan tüm şirket kullanıcılarını görebilir miyim?
-
-Şu anda bunu yapmanın en iyi yolu, bu kullanıcıları Azure AD kiracınıza eklemektir ve sonra iş ortağı merkezi 'ne ekleyerek Microsoft Learn hesaplarını Iş ortağı merkezindeki **Profilim** aracılığıyla ilişkilendirebilirler. 
-
-Eğitim için yalnızca MSA hesaplarını kullanan kullanıcılar için, yakın gelecekte Microsoft Learn ekibi, iş e-postalarını Microsoft Learn profiliyle ilişkilendirmelerine olanak tanır. 
+   MSA hesabını yalnızca eğitim için kullanan kullanıcılar için, yakın gelecekte Microsoft Learn ekibi iş e-postalarını kendi iş profiliyle ilişkilendirmelerine olanak Microsoft Learn sağlayacaktır. 
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-Daha fazla rapor için [bkz. İş Ortağı Merkezi Insights](partner-center-insights.md).
+Daha fazla rapor için [bkz. İş Ortağı Merkezi Analizler.](partner-center-insights.md)
 
 >[!NOTE] 
-> Bu raporu güçlü bir şekilde kullanarak ham verileri Öngörüler panosunun Raporları İndir bölümünden indirebilirsiniz. [Daha Fazla Bilgi](pci-download-reports.md) 
+> Bu raporu güçlü bir şekilde kullanarak ham verileri panonun Raporları İndir bölümünden Analizler indirebilirsiniz. [Daha Fazla Bilgi](pci-download-reports.md) 
