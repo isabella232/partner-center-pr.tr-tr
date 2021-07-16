@@ -1,6 +1,6 @@
 ---
-title: İş Ortağı Merkezi Insights
-description: Bu birleşik İş Ortağı Merkezi panoyu keşfedin. Satış ve dağıtım, müşteri geliştirme ve daha fazlası için KIP'lerde nasıl ilerlersiniz?
+title: iş ortağı merkezi Analizler
+description: Bu Iş Ortağı Merkezi Birleşik raporlama panosunu gezin. Satış ve dağıtım için KPI 'ler, müşteri geliştirme ve daha fazlasını öğrenin.
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -9,88 +9,88 @@ ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/26/2020
-ms.openlocfilehash: 05fad9c7eecbc8b7f639faa24b654fb0474245ca
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: a16cca546142d3a8091643607534697e0403fff9
+ms.sourcegitcommit: 4f1702683336d54f24c0ba283f7d13dda581923d
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112277632"
+ms.lasthandoff: 07/16/2021
+ms.locfileid: "114373767"
 ---
-# <a name="partner-center-insights---a-dashboard-that-shows-how-a-microsoft-commercial-partner-is-doing"></a>İş Ortağı Merkezi Insights : Microsoft ticari iş ortağının nasıl iş yaptığını gösteren bir pano
+# <a name="partner-center-insights---a-dashboard-that-shows-how-a-microsoft-commercial-partner-is-doing"></a>iş ortağı merkezi Analizler-bir Microsoft ticari iş ortağının nasıl yaptığını gösteren bir pano
 
-**Uygun roller:** Genel yönetici | Hesap yöneticisi | Yönetici raporu görüntüleyicisi | Rapor görüntüleyicisi
+**Uygun roller**: genel yönetici | Hesap Yöneticisi | Executive rapor Görüntüleyicisi | Rapor Görüntüleyicisi
 
 ## <a name="introduction"></a>Giriş
 
-Öngörüler panosu, Microsoft'un İş Ortağı Merkezi (MPN) programına kayıtlı Ticari iş ortaklarına yönelik Microsoft İş Ortağı Ağı birleştirilmiş bir raporlama panosu. Öngörüler panosu Office, Azure, Dynamics gibi Bulut ürünleri genelindeki ana performans göstergelerinizin (KPI) 360 derecelik bir görünümünün yanı sıra CSP ve EA gibi lisanslama modellerine de sahiptir. Bu rapor, kuruluş için veri odaklı kararlar a a yardımcı olmak için zengin bir KPI raporu kümesi sağlar. 
+Analizler panosu, Microsoft 'un Microsoft İş Ortağı Ağı (mpn) programına kayıtlı ticari iş ortakları için iş ortağı merkezi 'nde birleştirilmiş bir raporlama panodur. Analizler panosu, Office, Azure, Dynamics ve CSP ve EA gibi lisanslama modelleri gibi bulut ürünlerinde önemli performans göstergelerinin (kpı) 360 derece görünümünü sağlar. Kuruluşunuz için veri odaklı kararlar almanıza yardımcı olabilecek zengin bir KPI raporu kümesi sunar. 
 
-## <a name="role-based-access-control-to-the-insights-dashboard"></a>Öngörüler panosuna rol tabanlı erişim denetimi
+## <a name="role-based-access-control-to-the-insights-dashboard"></a>Analizler panosuna rol tabanlı erişim denetimi
 
-Öngörüler'e erişim için İş Ortağı Merkezi iki yeni rol vardır: **Rapor** Görüntüleyicisi ve **Yönetici Rapor Görüntüleyicisi.** Yönetici Rapor Görüntüleyicisi rolünde bulunan kullanıcılar tüm raporlama veri kümelerine erişime sahipken Rapor Görüntüleyicisi rolünde bulunan kullanıcılar gelir ve müşteri/çalışan kişisel verileri gibi hassas veri kümelerine erişemayacak. 
+iş ortağı merkezi 'nde, Analizler erişimi için özel olarak tasarlanan iki yeni rol vardır: **rapor görüntüleyicisi** ve **Executive rapor görüntüleyicisi**. Yönetim rapor Görüntüleyicisi rolündeki kullanıcıların tüm raporlama veri kümelerine erişimi vardır, ancak rapor Görüntüleyicisi rolündeki kullanıcılar gelir ve müşteri/çalışan kişisel verileri gibi hassas veri kümelerine erişemez. 
 
-Genel yönetici veya Hesap yöneticisi kullanıcılara bu rolleri atayabilir ve şirketin tamamı veya belirli bir MPN konumu için atanır.  
+Genel yönetici veya hesap yöneticisi, kullanıcılara bu rolleri atayabilir ve tüm şirket veya belirli bir MPN konumu için atanır.  
 
 >[!Note] 
->20 Ocak 2020'den sonra MPN yöneticisi olan kullanıcılar otomatik olarak şirket genelindeki rapor görüntüleyicisi rolüne eklendi. Genel yönetici veya Hesap yöneticisi tarafından herhangi bir açık eylem gerekmeden raporlara rapor görüntüleyicisi olarak erişebilirsiniz. Genel yöneticiler veya hesap yöneticisi gerekirse bu atamaları geçersiz kabilirsiniz. 
+>20 Ocak 2020 itibariyle MPN yönetici olan kullanıcılar, şirket genelinde rapor Görüntüleyicisi rolüne otomatik olarak eklenmiştir. Genel yönetici veya hesap yöneticisi için gereken açık bir eylem olmadan raporlara rapor Görüntüleyicisi olarak erişebilirler. Gerekirse, genel Yöneticiler veya hesap yöneticisi bu atamaları geçersiz kılabilir. 
 
 ## <a name="reports-available"></a>Kullanılabilir raporlar
 
-Aşağıdaki raporlar, Öngörüler panosunun bir parçası olarak kullanılabilir.
+aşağıdaki raporlar Analizler panosunun bir parçası olarak kullanılabilir.
 
-**Genel** Bakış: Genel Bakış raporu; Müşteri sayısı, Etkin Abonelik sayısı, Azure Tüketim Geliri, Etkin lisanslar gibi ilginiz olan çeşitli KIP'lerin anlık görüntüsünü sunar.
+**Genel bakış**: genel bakış raporu, size müşteri sayısı, etkin abonelik sayısı, Azure tüketim geliri, etkin lisanslar vb. gibi çeşitli KPI 'lerin bir anlık görüntü görünümünü sunar.
 
-**Müşteri:** Müşteri raporu, Müşteri edinme verileri, Etkin müşteriler gibi müşterilerinizle ilgili analizler sunar.
+**Müşteri**: müşteri raporu, müşterilerinizin etrafında müşteri Alım verileri, etkin müşteriler vb. gibi analizler sunar.
 
-**Ürün - Abonelikler:** Abonelikler raporu, Bulut abonelikleriniz (O365, Azure, Dynamics vb.) için edinme ve kullanım analizi sunar.
+**Ürün-abonelikler**: abonelikler raporu, bulut abonelikleriniz için alım ve kullanım analizlerini (O365, Azure, Dynamics vb.) sunar
 
-**Ürün- Lisanslar:** Lisanslar panosu O365, Dynamics ve Power BI gibi lisans tabanlı Bulut ürünleri için lisans analizi sunar.
+**ürün lisansları**: lisanslar panosu, O365, Dynamics, Power BI vb. gibi lisans tabanlı bulut ürünleri için lisans analizi sunar.
 
-**Ürün - Azure kullanımı:** Azure Kullanımı raporu, ölçüm kategorilerine göre Azure tüketim geliri ve kullanımı dahil olmak üzere müşterinizin Azure abonelikleri ile ilgili ölçümleri sunar.
+**Ürün-Azure kullanımı**: Azure kullanım raporu, Azure tüketim geliri ve ölçüm kategorilerine göre kullanım dahil olmak üzere müşterilerinizin Azure abonelikleri ile ilgili ölçümleri sunar.
 
-**Yetkinlikler:** Yetkinlikler raporu Etkin, Nitelikli ve Risk altında yetkinliklerinize göre ölçümler sunar.
+**Uzmanlıklar**: Uzmanlıklar raporu, etkin, nitelikli ve risk altındaki uzmanlarınız hakkında ölçümler sunar.
 
-**Avantajlar:** Avantajlar raporu, kazanılmış ve tüketilen iş ortağı avantajlarına göre analiz sunar.
+**Avantajlar**: avantajlar raporu, kazanılan ve tüketilen iş ortağı avantajları hakkında analizler sunar.
 
-## <a name="navigating-the-insights-reports"></a>Insights raporlarında gezinme
+## <a name="navigating-the-insights-reports"></a>Analizler raporlarında gezinme
 
-**Tarih aralığı filtreleri:** Her sayfanın sağ üst köşesinde bir tarih aralığı seçimi bulabilirsiniz. Genel bakış sayfası grafiklerinin çıkışı, son 3, 6 veya 12 aya göre bir tarih aralığı seçerek veya özel bir tarih aralığı seçerek özelleştirilebilir. Varsayılan tarih aralığı seçimi 12 aydır. 
+**Tarih aralığı filtreleri**: her sayfanın sağ üst köşesinde bir tarih aralığı seçimi bulabilirsiniz. Genel Bakış sayfası grafiklerinin çıktısı, son 3, 6 veya 12 aya göre veya özel bir tarih aralığı seçilerek bir tarih aralığı seçilerek özelleştirilebilir. Varsayılan tarih aralığı seçimi 12 aydır. 
 
-:::image type="content" source="images/pci/intro1.png" alt-text="Giriş haritası.":::
+:::image type="content" source="images/insights/introduction.png" alt-text="Giriş haritası.":::
 
-**Geri bildirim** düğmesi: Tüm Insights raporlarında yer alan her grafik/denetim, bir rapor özelliğiyle ilgili örnek geri bildirim sağlamanız için bir geri bildirim düğmesiyle birtir. 
+**geri bildirim düğmesi**: tüm Analizler raporlardaki her bir grafik/denetim, bir rapor özelliğinde örnek geri bildirim sağlamanıza olanak sağlamak için bir geri bildirim düğmesi ile birleştirilir. 
 
  
-**Sayfa düzeyi filtreleri:** Genel Bakış, Avantajlar ve Yetkinlikler raporları dışında, tüm Insights raporları sayfa düzeyi filtreleri uygulamana olanak sağlar. 
+**sayfa düzeyi filtreleri**: genel bakış, avantajlar ve uzmanlık raporlarının dışında, tüm Analizler raporları sayfa düzeyi filtreleri uygulamanıza olanak tanır. 
 
-- Seçilen filtreler, özet bölümü de dahil olmak üzere bir sayfada yer alan tüm grafikler ve ölçümler için geçerlidir. Bu filtre ölçütleri içinde herhangi bir veriniz varsa bir filtre öğesi kullanılabilir. 
+- Seçilen filtreler, Özet bölümü dahil olmak üzere bir sayfadaki tüm grafikler ve ölçümler için geçerli olacaktır. Filtre ölçütlerinde herhangi bir veriniz varsa, bir filtre öğesi kullanılabilir. 
 
-- Her filtre listesinin varsayılan **seçimidir.** Örneğin, ürünler filtresinde belirli bir ürünü seçmemişsiniz, varsayılan seçim tüm ürünler olur.
+- Her bir filtre listesinin varsayılan seçimi **hepsi**'dir. Örneğin, ürünler filtresinde belirli bir ürünü seçmediyseniz, varsayılan seçim tüm ürünler olacaktır.
 
-- Seçilen filtreler sayfanın üst kısmında görüntülenir. 
+- Seçilen filtreler sayfanın üstünde görüntülenir. 
 
-:::image type="content" source="images/pci/filters.png" alt-text="Products, Customer Markets, Partner atbutions ve Sales kanalları için filtre seçimlerinin yer alan Uygulanan filtreler çubuğunu gösteren kısmi ekran görüntüsü.":::
+:::image type="content" source="images/insights/filters.png" alt-text="Uygulanan filtreler çubuğunu ürünlerin, müşteri pazarlarının, Iş ortağı attribuve satış kanallarının filtre seçimleriyle gösteren kısmi ekran görüntüsü.":::
 
-### <a name="filters-definitions"></a>Filtreler tanımları:
+### <a name="filters-definitions"></a>Filtre tanımları:
 
-- Ürünler: O365, Azure, D365, EMS, Power BI vb. gibi, kuruluş tarafından satılan/yönetilen tüm Microsoft Bulut ürünlerinin listesi.
-- Müşteri pazarları: Müşteri ülkeleri listesi
-- İş ortağı ilişkilendirmeleri: Dijital kayıt ortağı (DPOR), Yönetici ayrıcalığı (DAP) ve İş Ortağı Yöneticisi bağlantısı (PAL) gibi, müşteri abonelikleriyle ilişkilendirme türünüz. 
-- İş ortağı konumları: Tüm kuruluş MPN konumlarının listesi.
-- Satış kanalları: CSP, EA, CSP indirect, Direct, Advisor, Open ve diğerleri gibi ürün ve hizmetleri satın aldığınız/temin ettiğini tüm satış kanalı/fiyatlandırması
-- Müşteri segmentleri: İş ortakları müşteri tabanı genelindeki müşteri segmentlerinin listesi.
+- ürünler: kuruluşunuz tarafından satılan/yönetilen tüm Microsoft Bulut ürünlerin listesi (örneğin, O365, Azure, D365, EMS, Power BI vb.).
+- Müşteri pazarları: müşteri ülkelerin listesi
+- İş ortağı attribu, örneğin dijital kayıt iş ortağı (DPOR), yönetici temsilcisi ayrıcalığı (DAP) ve Iş ortağı yönetici bağlantısı (PAL) gibi müşterilerinizin abonelikleriyle birlikte ilişki türüdür. 
+- İş ortağı konumları: tüm kuruluşunuzun MPN konumlarının listesi.
+- Satış Kanalları: CSP, EA, CSP dolaylı, doğrudan, danışman, açık, diğerleri için satın alma/sağlama yaptığınız tüm satış kanalı/fiyatlandırma
+- Müşteri segmentleri: iş ortakları müşteri tabanı genelinde Müşteri segmentlerinin listesi.
 
-## <a name="read-about-each-of-the-dashboards-and-reports"></a>Panoların ve raporların her biri hakkında bilgi edinebilirsiniz:
+## <a name="read-about-each-of-the-dashboards-and-reports"></a>Panolar ve raporlardan her biri hakkında bilgi edinin:
 
-- [İş Ortağı Merkezi Insights - Genel bakış panosu](pci-overview-report.md)
+- [iş ortağı merkezi Analizler-genel bakış panosu](insights-overview-report.md)
 
-- [İş Ortağı Merkezi Insights - Müşteri panosu](pci-customer-report.md)
+- [iş ortağı merkezi Analizler-müşteri panosu](insights-customer-report.md)
 
-- [İş Ortağı Merkezi Insights - Abonelikler raporu](pci-product-subscriptions-report.md)
+- [iş ortağı merkezi Analizler-abonelikler raporu](insights-product-subscriptions-report.md)
 
-- [İş Ortağı Merkezi Insights - Lisanslar raporu](pci-product-licenses-report.md)
+- [iş ortağı merkezi Analizler-lisanslar raporu](insights-product-licenses-report.md)
 
-- [İş Ortağı Merkezi Insights - Azure kullanım raporu](pci-azure-usage-report.md)
+- [iş ortağı merkezi Analizler-Azure kullanım raporu](insights-azure-usage-report.md)
 
-- [İş Ortağı Merkezi Insights - Yetkinlikler raporu](pci-competencies-report.md)
+- [iş ortağı merkezi Analizler-yetkinlikleri raporu](insights-competencies-report.md)
 
-- [İş Ortağı Merkezi Insights - Avantajlar raporu](pci-benefits-report.md)
+- [iş ortağı merkezi Analizler avantajları raporu](insights-benefits-report.md)

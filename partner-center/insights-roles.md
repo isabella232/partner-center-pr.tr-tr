@@ -1,0 +1,34 @@
+---
+title: iş ortağı merkezi Analizler rol tabanlı erişim
+ms.topic: article
+ms.date: 05/19/2020
+ms.service: partner-dashboard
+ms.subservice: partnercenter-csp
+description: iş ortağı merkezi Analizler raporlarını görmek için gereken belirli roller hakkında bilgi edinin. Bunlar, Executive rapor Görüntüleyicisi ve rapor görüntüleyicisinin rollerini içerir.
+author: shganesh-dev
+ms.author: shganesh
+ms.localizationpriority: medium
+ms.custom: SEOMAY.20
+ms.openlocfilehash: 836ae2ab193437fca501dc5c5713a4fe09b49ef4
+ms.sourcegitcommit: 4f1702683336d54f24c0ba283f7d13dda581923d
+ms.translationtype: MT
+ms.contentlocale: tr-TR
+ms.lasthandoff: 07/16/2021
+ms.locfileid: "114376869"
+---
+# <a name="role-based-access-control-to-the-partner-center-insights-dashboard"></a>iş ortağı merkezi Analizler panoya rol tabanlı erişim denetimi
+
+**Uygun roller**: genel yönetici | Yönetici Aracısı | Rapor Görüntüleyici | Executive rapor Görüntüleyicisi
+
+Analizler panosu, çalışanların raporlar-Executive rapor görüntüleyicisine ve rapor görüntüleyicisine erişimini yönetmek için iş ortağı merkezi 'nde iki yeni rol kullanır.  Yönetim rapor Görüntüleyicisi rolündeki kullanıcıların tüm raporlama veri kümelerine erişimi vardır, ancak rapor Görüntüleyicisi rolündeki kullanıcıların gelir ve müşteri/çalışan kişisel verileri gibi hassas veri kümelerine erişimi olmayacaktır.  
+
+Diğer Iş Ortağı Merkezi rollerinde olduğu gibi, genel yönetici veya hesap yöneticisi Kullanıcı Yönetimi sayfasında bu rollere Kullanıcı atayacaktır. Roller tüm şirket genelinde veya belirli Microsoft İş Ortağı Ağı (MPN) konumlarına uygulanabilir. Belirli MPN konumları için atanan roller, kullanıcıyı yalnızca seçili MPN konumuyla ilişkili raporlama verilerini görüntülemeye göre sınırlandırır. İş ortağı aşağıdaki görünümden bir veya daha fazla konum seçebilir.
+
+:::image type="content" source="images/insights/roles.png" alt-text="rapor görüntüleyicisi ve Executive rapor görüntüleyicisi için konuma özgü iş ortağı merkezi Analizler rol ayarlarını gösterir.":::
+
+>[!Note]
+> 20 Ocak 2020 itibariyle MPN iş ortağı yöneticileri olan kullanıcılar, söz konusu kiracının tüm konumları için şirket genelinde **Yönetim rapor Görüntüleyicisi** rolüne otomatik olarak eklenir. Bu kullanıcılar, genel yönetici veya hesap yöneticisi için gerekli herhangi bir açık eylem olmadan raporlara bir Executive rapor Görüntüleyicisi olarak erişebilirler. Genel Yöneticiler ve hesap yöneticileri bu kullanıcıların yeteneklerini daha fazla artırmak veya sınırlamak için otomatik atanan rolleri geçersiz kılabilir.
+
+## <a name="next-steps"></a>Sonraki adımlar
+
+- [iş ortağı merkezi Analizler](partner-center-insights.md) ve çeşitli raporları hakkında daha fazla bilgi edinin.

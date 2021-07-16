@@ -1,110 +1,110 @@
 ---
-title: Kullanıcılara & rol atama
+title: Kullanıcılara roller & izinleri atama
 ms.topic: article
 ms.date: 10/30/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Şirket içinde ticari işlemleri, referansları, teşvikleri veya MPN üyeliklerini yöneten şirket kullanıcıları için en iyi rolleri İş Ortağı Merkezi.
+description: Iş Ortağı Merkezi 'nde ticari işlemleri, başvuruları, teşvikleri veya MPN üyeliklerini yöneten şirketinizin kullanıcılarına en uygun rolleri öğrenin.
 author: hemas
 ms.author: hemas
 ms.localizationpriority: high
 ms.custom: SEOMAY.20, contperf-fy21q1
-ms.openlocfilehash: 582fdc98617be7d82c0bc61a0bf46ceb662954d3
-ms.sourcegitcommit: 4118de5cf55d1bd618ecca13c1b2ec59d80f43db
+ms.openlocfilehash: a9cca322d7a37dce099c5bec44530b2006da7758
+ms.sourcegitcommit: 4f1702683336d54f24c0ba283f7d13dda581923d
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/24/2021
-ms.locfileid: "112565092"
+ms.lasthandoff: 07/16/2021
+ms.locfileid: "114373671"
 ---
-# <a name="assign-users-roles-and-permissions-for-a-companys-users-needing-to-work-in-partner-center"></a>Bir şirketin şirket içinde çalışması gereken kullanıcıları için kullanıcı rollerini ve izinlerini İş Ortağı Merkezi
+# <a name="assign-users-roles-and-permissions-for-a-companys-users-needing-to-work-in-partner-center"></a>Şirket kullanıcılarının iş ortağı merkezi 'nde çalışması gereken kullanıcı rollerini ve izinlerini atama
 
-**Uygun roller:** Genel yönetici | Kullanıcı yönetimi yönetici | MPN iş ortağı yöneticisi
+**Uygun roller**: genel yönetici | Kullanıcı Yönetimi Yöneticisi | MPN iş ortağı Yöneticisi
 
-Yasal ad ve adres, destek ayrıntıları, dosya vergi muafiyetleri, banka bilgileri ve şirketinizin birincil ilgili kişisi dahil olmak üzere iş ortağı profilinizi ayarladınız. Sonraki adım: Kullanıcılarınızı parolalar ve rollerle ayarlamalarını, böylece kullanıcılarınızı İş Ortağı Merkezi başlamalarını sağlar.
+İş ortağı profilinizi, yasal ad ve adres, destek ayrıntıları, dosya vergi muafiyeti, banka bilgileri ve şirketinizin birincil ilgili kişisi dahil olmak üzere ayarlamış olursunuz. Sonraki adım: kullanıcılarınızın sizinle Iş Ortağı Merkezi 'nde çalışmaya başlayabilmesi için parolalar ve rollerle birlikte kurulumunu öğrenin.
 
-## <a name="set-up-your-employees-to-work-in-partner-center"></a>Çalışanlarınızı şirket içinde çalışacak şekilde İş Ortağı Merkezi
+## <a name="set-up-your-employees-to-work-in-partner-center"></a>Çalışanlarınızı iş ortağı merkezi 'nde çalışacak şekilde ayarlama
 
-Kullanıcılarının sahip olduğu erişim türlerini İş Ortağı Merkezi izinlere göre belirlersiniz. Roller, işletmenizin dahil olduğu programlarla ilgilidir. Örneğin, işletmeniz bir Bulut Çözümü Sağlayıcısı (CSP) işletmesi ise, genel yönetici gibi standart Azure Active Directory (Azure AD) kiracı yönetimi rollerine sahip olmakla birlikte CSP programına özgü rollere de ihtiyacınız vardır. Her programın belirli rolleri vardır.
+Kullanıcılarınıza verdiğiniz roller ve izinler tarafından Iş Ortağı Merkezi 'ne sahip olan erişim türlerini belirlersiniz. Roller, işletmenizin dahil olduğu program (ler) ile ilgilidir. örneğin, işiniz Bulut Çözümü Sağlayıcısı (CSP) bir iş ise, genel yönetici gibi yalnızca standart Azure Active Directory (Azure AD) kiracı yönetim rollerine sahip olmayacaktır, ancak CSP programına özgü rollere ihtiyaç duyarsınız. Her programın kendisine özgü rolleri vardır.
 
 >[!Note]
-> Azure AD kiracı rolleri genel yönetici, kullanıcı yöneticisi ve CSP rollerini içerir. Azure AD dışı roller, kiracıyı yönetmeyen rollerdir ve MPN (Microsoft İş Ortağı Ağı) iş ortağı yöneticisi, iş profili yöneticisi, referans yöneticisi, teşvik yöneticisi ve teşvik kullanıcısını içerir. 
+> Azure AD kiracı rolleri, genel yönetici, Kullanıcı Yöneticisi ve CSP rollerini içerir. Azure dışı AD rolleri, kiracıyı yönetmeyen rollerdir ve MPN (Microsoft İş Ortağı Ağı) iş ortağı Yöneticisi, iş profili Yöneticisi, başvuru Yöneticisi, teşvik Yöneticisi ve kullanıcıyı teşvik eder. 
 
-### <a name="manage-commercial-transactions-in-partner-center-azure-ad-and-csp-roles"></a>Ticari işlemleri İş Ortağı Merkezi (Azure AD ve CSP rolleri)
+### <a name="manage-commercial-transactions-in-partner-center-azure-ad-and-csp-roles"></a>Iş Ortağı Merkezi 'nde ticari işlemleri yönetme (Azure AD ve CSP rolleri)
 
-|**Role**|**Neler yapabiliriz?**|**Daha fazla bilgi edinin**|
+|**Role**|**Neler yapabilecekleri**|**Daha fazla bilgi edinin**|
 |----------------------------------|---|:---------------------------------|
 |Genel yönetici|* Tüm Microsoft hesabı/hizmetlere tam ayrıcalıklarla erişebilir|[İş Ortağı Merkezi hesabınızı yönetme](partner-center-account-setup.md)
-|      |* Uygulama için destek biletleri İş Ortağı Merkezi
-||* İş ortağı destek biletlerini görüntüle
-||* Anlaşmaları, fiyat listelerini ve teklifleri görüntüleme
+|      |* Iş Ortağı Merkezi için destek biletleri oluşturma
+||* Oluşturduğunuz iş ortağı destek biletlerini görüntüle
+||* Sözleşmeleri, Fiyat listelerini ve teklifleri görüntüleme
 ||* İş ortağı kullanıcılarını görüntüleme, oluşturma ve yönetme|
-||  Faturalama, faturalar ve mutabakat dosyalarını görüntüleme, oluşturma ve yönetme
-|Kullanıcı yönetimi yöneticisi   | * Kullanıcıları görüntüleme, oluşturma ve yönetme|[Microsoft İş Ortağı Ağı üyelik avantajlarınızı ve tekliflerinizi İş Ortağı Merkezi](manage-your-partner-network-benefits.md)
-||* Tümünü görüntüle iş ortağı profilleri
-||* Uygulama için destek biletleri İş Ortağı Merkezi
-||* İş ortağı destek biletlerini görüntüle
-|Faturalama yöneticisi | - Faturalama, faturalar ve mutabakat dosyalarını görüntüleme, oluşturma ve yönetme|[Faturanızı okuma](billing.md)
-||* Fiyatlandırmayı görüntüleme
-||* Uygulama için destek biletleri İş Ortağı Merkezi
-||* İş ortağı destek biletlerini görüntüle
-|Varsayılan kullanıcı|  Görünüm Profilim   |[Parolanızı sıfırlama](reset-my-pasword.md)
-|Yönetici aracısı | * Müşteri yönetimi|[Müşterilerinizle bağlantı kurma](connect-with-your-customers.md)
-||* Cihaz listesini cihaz listesine İş Ortağı Merkezi
-||* Cihazlara profil oluşturma ve uygulama
+||  Faturalandırma, faturalar ve keşfi dosyalarını görüntüleme, oluşturma ve yönetme
+|Kullanıcı Yönetimi Yöneticisi   | * Kullanıcıları görüntüleme, oluşturma ve yönetme|[Iş Ortağı Merkezi 'nde Microsoft İş Ortağı Ağı üyelik avantajlarınızı ve tekliflerini yönetme](manage-your-partner-network-benefits.md)
+||* Tüm iş ortağı profillerini görüntüle
+||* Iş Ortağı Merkezi için destek biletleri oluşturma
+||* Oluşturduğunuz iş ortağı destek biletlerini görüntüle
+|Faturalama yöneticisi | -Faturalandırma, faturalar ve keşfi dosyalarını görüntüleyin, oluşturun ve yönetin|[Faturanızı okuma](billing.md)
+||* Fiyatlandırmayı görüntüle
+||* Iş Ortağı Merkezi için destek biletleri oluşturma
+||* Oluşturduğunuz iş ortağı destek biletlerini görüntüle
+|Varsayılan Kullanıcı|  Profilimi görüntüle   |[Parolanızı sıfırlama](reset-my-pasword.md)
+|Yönetim Aracısı | * Müşteri yönetimi|[Müşterilerinizle bağlantı kurma](connect-with-your-customers.md)
+||* Iş Ortağı Merkezi 'ne cihaz listesi ekleme
+||* Cihazlara profiller oluşturma ve uygulama
 ||* Abonelik yönetimi
 ||* Müşteriler için hizmet durumu ve hizmet istekleri
-||* Yönetici temsilcisi ayrıcalıkları isteği
-||* Fiyatlandırmayı ve teklifleri görüntüleme
-||* Faturalama
+||* Yönetici temsilcisi ayrıcalıkları iste
+||* Fiyatlandırma ve teklifleri görüntüleme
+||* Faturalandırma
 ||* Müşteri adına yönetme
-||* Katma değerli kurumsal bayi kaydetme
-||* Uygulama için destek biletleri İş Ortağı Merkezi
-||* İş ortağı destek biletlerini görüntüle|
-|Satış aracısı | * Müşteri yönetimi|[Müşterileriniz için faturalama desteği sağlama ve faturalama sorularını yanıtlamaya yardımcı olun](provide-billing-support.md)
-||* Cihaz listesini cihaz listesine İş Ortağı Merkezi
+||* Katma değerli satıcı kaydetme
+||* Iş Ortağı Merkezi için destek biletleri oluşturma
+||* Oluşturduğunuz iş ortağı destek biletlerini görüntüle|
+|Satış Aracısı | * Müşteri yönetimi|[Müşterileriniz için faturalandırma desteği sağlayın ve faturalandırma sorularını cevaplayın](provide-billing-support.md)
+||* Iş Ortağı Merkezi 'ne cihaz listesi ekleme
 ||* Abonelik yönetimi
-||* Destek biletlerini görüntüleme
-||* Müşteriyle ilişki isteği
-||* Fiyatlandırmayı ve teklifleri görüntüleme
+||* Destek biletlerini görüntüle
+||* Müşteriyle ilişki isteme
+||* Fiyatlandırma ve teklifleri görüntüleme
 ||* Müşteri adaylarını yönetme
-||* Müşteri sözleşmelerini görüntüleme
-||* Katma değerli kurumsal bayi kaydetme
-||* Uygulama için destek biletleri İş Ortağı Merkezi
-||* İş ortağı destek biletlerini görüntüle|
-|Yardım masası aracısı| * Müşteri arama ve görüntüleme|[Sorunları Microsoft'a yükseltme ve Microsoft yükseltme için daha uygun olan sorunları öğrenme](escalate-problems-to-microsoft.md)
+||* Müşteri anlaşmasını görüntüleme
+||* Değere eklenen bir bayi Kaydet
+||* Iş Ortağı Merkezi için destek biletleri oluşturma
+||* Oluşturduğunuz iş ortağı destek biletlerini görüntüle|
+|Yardım Masası Aracısı| * Bir müşteriyi arayın ve görüntüleyin|[Sorunları Microsoft 'a iletin ve Microsoft 'a yükseltme için hangi sorunların daha uygun olduğunu öğrenin](escalate-problems-to-microsoft.md)
 ||* Müşteri ayrıntılarını düzenleme
-||* Faturalama veya abonelik yönetimiyle ilgili müşteri sorunlarını çözme yardımı
-||* Müşteriler adına destek isteği 
-||* Müşteriler adına abonelikleri ve faturalama sorunlarını yönetme
-||* Uygulama için destek biletleri İş Ortağı Merkezi
-||* İş ortağı destek biletlerini görüntüle| 
+||* Faturalandırma veya abonelik yönetimiyle ilgili müşteri sorunlarını çözmeye yardımcı olun
+||* Müşteriler adına destek isteyin 
+||* Müşteriler adına abonelikleri ve faturalandırma sorunlarını yönetme
+||* Iş Ortağı Merkezi için destek biletleri oluşturma
+||* Oluşturduğunuz iş ortağı destek biletlerini görüntüle| 
 
-### <a name="control-panel-vendor-cpv-csp-role-and-non-azure-ad-role"></a>Denetim Masası Satıcısı (CPV). (CSP rolü ve Azure AD dışı rol)
+### <a name="control-panel-vendor-cpv-csp-role-and-non-azure-ad-role"></a>Denetim Masası satıcısı (CPV). (CSP rolü ve Azure dışı AD rolü)
 
-CPV'ler, sistemlerini farklı API'lerle tümleştirerek CSP iş ortakları tarafından İş Ortağı Merkezi geliştirmektedir. 
+CPVs, CSP iş ortakları tarafından sistemlerini Iş Ortağı Merkezi API 'Leri ile tümleştirmelerini sağlamak için kullanmak üzere uygulamalar geliştirir. 
 
 |**Role**   |**Yapabilecekleriniz**|**Daha fazla bilgi edinin**|
 |------------------------------|:----------------------------|----|
-|Genel yönetici| Denetim Masası Vendor (CPV) profilinizi görüntüleme ve yönetme|[CSP iş ortağı sistemlerini Denetim Masası API'lerle tümleştirin ve satıcı olarak İş Ortağı Merkezi olun](enroll-as-cpv.md)
-||CPV özelliklerine erişmesi gereken kullanıcılarınızı görüntüleme ve yönetme|
+|Genel yönetici| Denetim Masası satıcısı (CPV) profilinizi görüntüleyin ve yönetin|[CSP iş ortağı sistemlerini Iş Ortağı Merkezi API 'Leriyle tümleştirmenize yardımcı olmak için Denetim Masası satıcısı olarak kaydetme](enroll-as-cpv.md)
+||CPV özelliklerine erişmesi gereken kullanıcılarınızı görüntüleyin ve yönetin|
 
-### <a name="guest-user-must-be-added-to-the-azure-ad-tenant"></a>Konuk kullanıcı (Azure AD kiracısına eklenmiştir)
+### <a name="guest-user-must-be-added-to-the-azure-ad-tenant"></a>Konuk Kullanıcı (Azure AD kiracısına eklenmelidir)
 
-|**Konuk kullanıcı**   | **Roller**|
+|**Konuk Kullanıcı**   | **Roller**|
 |---------------------------|:--------------------|
-||MPN iş ortağı yöneticisi|
-||İş profili yöneticisi|
-||Referans yöneticisi|
+||MPN iş ortağı Yöneticisi|
+||İş profili Yöneticisi|
+||Başvuru Yöneticisi|
 
 
 ## <a name="manage-mpn-membership-and-your-company"></a>MPN üyeliğini ve şirketinizi yönetme 
 
-Bu roller Azure AD rolleri değildir. Bu roller kiracı yerine şirket işletmelerini yönetir.
+Bu roller Azure AD rolleri değildir. Bu roller, kiracı yerine şirket işletmelerini yönetir.
 
 |**Role** | **Yapabilecekleriniz**|**Daha fazla bilgi edinin**|
 |----------------------------|:----------------------------|-----|
-|MPN iş ortağı yöneticisi|* İş ortağı hizmet isteklerini görüntüleme, oluşturma ve yönetme|[Microsoft Eylem Paketi aboneliği veya Silver ve Gold uzmanlık satın alma veya yenileme](mpn-get-action-pack.md)
-||* Yasal, şirket, işletme ve MPN profillerini görüntüleme
+|MPN iş ortağı Yöneticisi|* İş ortağı hizmeti isteklerini görüntüleyin, oluşturun ve yönetin|[Microsoft Eylem Paketi aboneliği veya Silver ve Gold uzmanlık satın alma veya yenileme](mpn-get-action-pack.md)
+||* Yasal, şirket, iş ve MPN profillerini görüntüleme
 ||* Kullanıcı ayrıntılarını ve beceri verilerini görüntüleme
 ||* Yetkinlikleri görüntüleme
 ||* Avantajları görüntüleme ve yönetme
@@ -128,14 +128,14 @@ Bu roller Azure AD rolleri değildir. Bu roller kiracı yerine şirket işletmel
 |**Role** | **Yapabilecekleriniz**|**Daha fazla bilgi edinin**
 |------------------------------|:-------------------------|---|
 |Referans yöneticisi|Verilerde Referanslar sekmesinde her şeyi oluşturma ve İş Ortağı Merkezi|[Ortak satış fırsatlarını yönetme](manage-co-sell-opportunities.md)
-||    Tüm ortak satış fırsatlarını ve müşteri adaylarını görüntüleme ve düzenleme
+||    Tüm ortak satış fırsatlarını ve müşteri adaylarını görüntüleyemez ve düzenleyebilir
 ||    Anlaşma için ekip üyeleri atay olabilir
 ||    İş profillerini görüntüleme ve düzenleme
 ||    Kazandı olarak işaretlenen ve anlaşma kaydı için uygun olan fırsatlar için anlaşmaları görüntüleme ve kaydetme
 ||    Destek biletleri oluşturabilir ve görüntüleme
 |Referans kullanıcısı|Ortak satış fırsatlarını yalnızca ekibin bir parçası olanlar için oluşturma ve yönetme |[Ortak satış fırsatlarını yönetme](manage-co-sell-opportunities.md)
 ||    Rolün atandığı konumlar için ortak satış fırsatları oluşturabilir.
-||    Takım üyesi olan, kazanildi olarak işaretlenen ve anlaşma kaydı için uygun olan fırsatlar için anlaşmaları görüntüleme ve kaydetme.
+||    Takım üyesi olan, kazanildi olarak işaretlenen ve anlaşma kaydı için uygun olarak işaretlenen fırsatları görüntüleme ve kaydetme.
 ||    Destek biletleri oluşturabilir ve görüntüleme
 |İş profili yöneticisi|İş profilleri oluşturma ve yönetme | [İş profillerini yönetme](create-a-marketing-profile.md)
 ||    Destek biletleri oluşturabilir ve görüntüleme
@@ -155,7 +155,7 @@ Yeni referans kullanıcı rolünün yanı sıra anlaşmaların konum kapsamını
 
 |**Role** | **Yapabilecekleriniz**|**Daha fazla bilgi edinin**
 |------------------------------|:-------------------------|---|
-|Teşvikler yöneticisi|* Teşvikleri başlatma ve yönetme |[Teşvikleri kullanmaya başlamanıza yardımcı olmak için bu kaynakları kullanın](incentives-get-started-intro.md)
+|Teşvikler yöneticisi|* Teşvikleri başlatıyor ve yönetir |[Teşvikleri kullanmaya başlamanıza yardımcı olmak için bu kaynakları kullanın](incentives-get-started-intro.md)
 ||* Teşvik programlarının tüm yönlerini görüntüleme ve düzenleme
 ||* Banka ve vergi ayrıntılarını görüntüleme ve düzenleme
 ||* İndirim ve ortak kazançları görüntüleme
@@ -167,12 +167,12 @@ Yeni referans kullanıcı rolünün yanı sıra anlaşmaların konum kapsamını
 ||* Uygulama için destek biletleri İş Ortağı Merkezi
 ||* İş ortağı destek biletlerini görüntüle
 
-## <a name="view-partner-center-insights-data"></a>İş Ortağı Merkezi Insights verilerini görüntüleme
+## <a name="view-partner-center-insights-data"></a>Veri İş Ortağı Merkezi Analizler görüntüleme
 
 |**Role** | **Yapabilecekleriniz**|**Daha fazla bilgi edinin**|
 |------------------------------|:-------------------------|---|
-|Yönetici raporu görüntüleyicisi|Tüm raporlama veri kümelerine erişim, iş ortağı destek biletleri oluşturma, sizin oluşturdukları iş ortağı destek biletlerini görüntüleme|[İş Ortağı Merkezi Insights'ta kullanılabilen pano raporlarına genel bakış](pci-overview-report.md)
-|Rapor görüntüleyicisi|Gelir ve müşteri ve çalışan kişisel verileri dışında veri raporlarına erişim, iş ortağı destek biletleri oluşturma, sizin oluşturdurarak iş ortağı destek biletlerini görüntüleme|
+|Yönetici raporu görüntüleyicisi|Tüm raporlama veri kümelerine erişim, iş ortağı destek biletleri oluşturma, sizin oluşturdukları iş ortağı destek biletlerini görüntüleme|[Genel bakış pano raporları İş Ortağı Merkezi Analizler](insights-overview-report.md)
+|Rapor görüntüleyicisi|Gelir ve müşteri ve çalışan kişisel verileri dışında veri raporlarına erişim, iş ortağı destek biletleri oluşturma, sizin oluşturduz iş ortağı destek biletlerini görüntüleme|
 
 ## <a name="next-steps"></a>Sonraki adımlar
 

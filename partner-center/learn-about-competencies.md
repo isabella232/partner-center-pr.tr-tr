@@ -1,74 +1,74 @@
 ---
-title: Microsoft Gold, Gümüş uzmanlık gereksinimleri
+title: Microsoft gold, silver uzmanlık gereksinimleri
 ms.topic: article
 ms.date: 01/26/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Microsoft iş ortağı durumunu nasıl edineceğinizi ve yeni müşteriler sunarak altın ve gümüş üyelik düzeylerini kazanmanıza yönelik uzmanlığa yönelik gereksinimleri karşılamayı öğrenin.
+description: Altın ve gümüş üyelik düzeyleri kazanmak için uzmanlık gereksinimlerini karşılar ve elit Microsoft iş ortağı durumu kazanmayı ve yeni müşterileri çekmeyi öğrenin.
 author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 74144defb1b5b5bfd0cf67c98e4b9401f22ea93d
-ms.sourcegitcommit: 41e34d6c97a45e6f0b76d76a797398cd06665634
+ms.openlocfilehash: ff9be32e88c839186ede4cc081aabf75a822a23d
+ms.sourcegitcommit: 4f1702683336d54f24c0ba283f7d13dda581923d
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/28/2021
-ms.locfileid: "112989351"
+ms.lasthandoff: 07/16/2021
+ms.locfileid: "114373722"
 ---
-# <a name="differentiate-your-business-by-attaining-microsoft-competencies"></a>Microsoft Uzmanlıklar sunarak işletmenizi farklılaştırın
+# <a name="differentiate-your-business-by-attaining-microsoft-competencies"></a>Microsoft yetkinliğine ulaşarak işletmenizi ayırt etme
 
-**Uygun roller**: genel yönetici | Kullanıcı Yönetimi Yöneticisi
+**Uygun roller:** Genel yönetici | Kullanıcı yönetimi yöneticisi
 
-İş için bir veya daha fazla özelleşmiş iş alanında kalite çözümleri sunma konusunda kendini kanıtlamış uzmanlığınızı gösterir. Microsoft Uzmanlıklar, size müşterilerinizin ihtiyaçlarını karşılayacak şekilde hazırlanmak ve Microsoft Sertifikalı Çözüm sağlayıcılarını arayan yeni müşterileri çekmenize yardımcı olmak için tasarlanmıştır. Microsoft iş ortaklarının elime katmanını birleştirin ve eşlerinizde kullanıma hazır yapın.
+Bir veya daha fazla özelleştirilmiş iş alanında kaliteli çözümler sunma konusundaki kanıtlanmış uzmanlığınızı gösterme. Microsoft yetkinlikleri, sizi müşterilerin ihtiyaçlarını karşılayacak şekilde hazırlamak ve Microsoft sertifikalı çözüm sağlayıcılarını arayan yeni müşterileri çekmenize yardımcı olmak için tasarlanmıştır. Microsoft iş ortaklarının elit katmanına katılın ve iş ortaklarınızı öne çıkarın.
 
-- Tutarlı becerinizi ve taahhütünüzü göstermek için **gümüş** bir uzmanlığa ulaşmak.
+- Tutarlı **yeteneğinizi** ve taahhüdlerinizi göstermek için bir gümüş uzmanlık elde etme.
 
-- Microsoft çözüm alanı içindeki en iyi sınıf özelliği göstermek için **altın** bir uzmanlığa ulaşmak.
+- Microsoft **çözüm** alanında sınıfının en iyisi özelliğinizi göstermek için altın bir uzmanlık elde etme.
 
-Uzmanlığa erişme, daha fazla avantaj ve fırsat için de bir giriş olabilir:
+Uzmanlık elde etmek, diğer avantajlara ve fırsatlara da giriş olabilir:
 
-- İşletmenizi genişletmenize ve büyütmenize yardımcı olabilecek güçlü, [pazara](mpn-learn-about-go-to-market-benefits.md) açık teklifler ve programlar sayesinde yararlanın. [Microsoft ile nasıl pazara gideceğinizi öğrenin](https://partner.microsoft.com/solutions/go-to-market).
+- İşletmenizi [genişletmenize ve büyütmenize](mpn-learn-about-go-to-market-benefits.md) yardımcı olacak güçlü pazara satış tekliflerini ve programlarını ortaya açın. [Microsoft ile pazara nasıl gidersiniz? hakkında daha fazla bilgi edinmek için.](https://partner.microsoft.com/solutions/go-to-market)
 
-- Altın bir uzmanlığa sahip olmak, size bir fırsat fırsatı sunar ve Portföyünüze daha [Gelişmiş uzmanlık](advanced-specializations.md) ekler. Gelişmiş uzmanlık, müşterilere büyüyen uzmanlığınızı sergilemenize yardımcı olur. [Gelişmiş specialmeler hakkında daha fazla bilgi edinin](https://partner.microsoft.com/membership/advanced-specialization).
+- Altın bir uzmanlık elde etmek, portföyünize daha gelişmiş uzmanlıklar elde etme ve bu [uzmanlıkları geliştirme](advanced-specializations.md) fırsatı sunar. Gelişmiş uzmanlıklar, büyüyen uzmanlığınızı müşterilere göstermek için size yardımcı olur. [Gelişmiş uzmanlıklar hakkında daha fazla bilgi.](https://partner.microsoft.com/membership/advanced-specialization)
 
-## <a name="check-your-status-as-you-attain-a-competency"></a>Bir uzmanlığa ulaşmak için durumunuzu denetleyin
+## <a name="check-your-status-as-you-attain-a-competency"></a>Yetkinliğe ulaşarak durumu kontrol edin
 
-Gereksinimleri ve şirketinizin Iş Ortağı Merkezi panonuzun uzmanlık alanından elde edildiğini görebilirsiniz.
+Gereksinimleri ve şirket başarılarını panonun uzmanlık alanında İş Ortağı Merkezi görebilirsiniz.
 
 1. İş Ortağı Merkezi [panosunda](https://partner.microsoft.com/dashboard/home) oturum açın.
 
 2. İş Ortağı Merkezi menüsündeki MPN bölümünün altında **Yetkinlikler**’i seçin.
 
-3. Ayrıntılarını görmek için yetkinlik adını ve belirli bir yetkinlik seçeneğini belirtin. Tamamladığınız şeyi görebilir ve belirli sınavların ve kullanımdan kaldırılan sınavların doğrulama tarihlerinin tam gereksinimlerini ve bağlantılarını görebilirsiniz.
+3. Ayrıntılarını görmek için yetkinlik adını ve belirli bir yetkinlik seçeneğini belirtin. Tamamlayanın ne olduğunu görebilir, ayrıca belirli sınavların ve sınav doğrulama tarihlerinin tüm gereksinimlerini ve bağlantılarını da bulabilirsiniz.
 
-## <a name="competency-areas"></a>Uzmanlık alanı
+## <a name="competency-areas"></a>Uzmanlık alanları
 
-Gümüş veya altın üyelik uzmanlığını elde etmek için çeşitli iş ve teknoloji alanlarında uzmanlığa sahip olmanız istenir.
+Gümüş veya altın renkli üyelik uzmanlığı elde etmek için çeşitli iş ve teknoloji alanlarında uzmanlığı göstermeniz isteniyor.
 
-|**Alan**            |**Uzmanlığı**                    |
+|**Alan**            |**Yetkinlik**                    |
 |--------------------|--------------------------------|
-|Uygulamalar ve altyapı| -Uygulama geliştirme<br/> -Uygulama tümleştirmesi<br/> -Bulut platformu<br/> -DevOps<br/> - Datacenter |
-|İş Uygulamaları | -Cloud Business Applications</br> -Kurumsal kaynak planlama (ERP)</br> -Proje ve Portföy |
-|Veri ve AI| -Veri Analizi<br/> -Veri platformu |
-|Modern çalışma alanı ve güvenlik | -İşbirliği ve Içerik<br/> -İletişimler<br/> -Bulut verimliliği<br/> -Enterprise Mobility Management (EMM)<br/> -Mesajlaşma<br/> -Güvenlik<br/> -Küçük ve orta Pazar bulut çözümleri<br/> -Windows ve cihazlar |
+|Uygulamalar ve Altyapı| - Uygulama Geliştirme<br/> - Uygulama Tümleştirmesi<br/> - Bulut Platformu<br/> - DevOps<br/> - Datacenter |
+|İş Uygulamaları | - Bulut Business Applications</br> - Enterprise Planlama (ERP)</br> - Project ve Portföy |
+|Veri ve AI| - Veri Analizi<br/> - Veri Platformu |
+|Modern Çalışma Alanı ve Güvenlik | - İşbirliği ve İçerik<br/> - İletişimler<br/> - Bulut Üretkenliği<br/> - Enterprise Mobility Management (EMM)<br/> - Mesajlaşma<br/> - Güvenlik<br/> - Küçük ve Orta Ölçekli Pazar Bulut Çözümleri<br/> - Windows ve Cihazlar |
 
-Gümüş ve altın uzmanlık düzeyleri, her bir alan için farklı gereksinimlere sahiptir. Her alan dahilinde, şirketinizdeki çalışanların istediğiniz uzmanlık düzeyini elde etmek için atabileceğiniz sınıflar ve sınavlardır. 
+Silver ve gold uzmanlık düzeyleri, alanların her biri için farklı gereksinimlere sahiptir. Her alan içinde, şirketinizin çalışanlarının istediğiniz yetkinlik düzeyini elde etmek için gerçekleştirecekleri sınıflar ve sınavlar yer alır. 
 
-Gümüş ve altın uzmanlık becerilerine ulaşmak için gerekenler hakkında daha fazla bilgi edinmek için bkz. [Microsoft iş ortağı ağı Uzmanlıklar](https://partner.microsoft.com/membership/competencies).
+Gümüş ve altın uzmanlık elde etmek için gerekenler hakkında daha fazla bilgi edinmek için Microsoft İş Ortağı Ağı [bakın.](https://partner.microsoft.com/membership/competencies)
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-- [Gümüş ve altın uzmanlık becerilerine ulaşmak için gereksinimler](https://partner.microsoft.com/membership/competencies)hakkında daha fazla bilgi edinin.
+- Gümüş ve altın [uzmanlıklarına sahip olmak için gerekenler hakkında daha fazla bilgi edinebilirsiniz.](https://partner.microsoft.com/membership/competencies)
 
-- Bir veya daha fazla [Gelişmiş uzmanlığa](advanced-specializations.md)sahip bir gold uzmanlığını eşleştirerek uzmanlığınızı nasıl daha ayrıntılı olarak sergiletireceğinizi öğrenin.
+- Altın bir uzmanlığı bir veya daha fazla gelişmiş uzmanlıkla eşleştirerek uzmanlığınızı nasıl daha [fazla sergileycenizi öğrenin.](advanced-specializations.md)
 
-- Uzmanlıklar kapsamında yer alan belirli [pazara yönelik belirli kaynaklar](mpn-learn-about-go-to-market-benefits.md) hakkında bilgi edinin.
+- Yetkinliklere [dahil edilen belirli pazara açık kaynaklar](mpn-learn-about-go-to-market-benefits.md) hakkında bilgi edinmek.
 
-- [Uzmanlıklar için faturalar ve vergiler](mpn-view-print-maps-invoice.md)hakkında bilgi edinin.
+- Yetkinlikler [için faturalar ve vergiler hakkında bilgi alın.](mpn-view-print-maps-invoice.md)
 
-- Gümüş veya altın uzmanlık üyeliğiyle ilişkili [ücreti ödemeyi](mpn-pay-fee-silver-gold-competency.md) öğrenin.
+- Gümüş veya [altın uzmanlık üyeliğiyle](mpn-pay-fee-silver-gold-competency.md) ilişkili ücreti nasıl ödeylun öğrenin.
 
-- Uzmanlarınızın geçerli durumunu gösteren bir Iş Ortağı Merkezi Öngörüler [uzmanıyları raporunu](pci-competencies-report.md) görüntüleyin.
+- Yetkinliklerinizi İş Ortağı Merkezi Analizler [durumunu gösteren](insights-competencies-report.md) bir İş Ortağı Merkezi Analizler uzmanlık raporu görüntüleme.
 
-- Uzmanlıklar hakkında [sık sorulan soruların](competencies-faq.yml) yanıtlarını alın.
+- Yetkinlikler hakkında [sık sorulan soruların](competencies-faq.yml) yanıtlarını elde etmek.
