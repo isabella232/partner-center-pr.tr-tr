@@ -500,7 +500,7 @@
         - name: Market tekliflerini satın alma
           href: csp-commercial-marketplace-purchase.md
           displayName: csp
-        - name: Market teklifleri için lisanslamayı yönetme
+        - name: Market teklifte lisanslamayı yönetme
           href: csp-commercial-marketplace-licensing.md
           displayName: csp
         - name: Bağımsız Yazılım Satıcılarından markete özel teklifler
@@ -647,90 +647,48 @@
           href: partner-center-insights.md
           displayName: data
         - name: İçgörüler rol tabanlı erişimi
-          href: insights-roles.md
+          href: pci-roles.md
         - name: İçgörüler raporları
           items:
             - name: Genel Bakış
-              href: insights-overview-report.md
+              href: pci-overview-report.md
             - name: Müşteri
-              href: insights-customer-report.md
+              href: pci-customer-report.md
             - name: Kurumsal bayi performansı
-              href: insights-resellers-performance.md
+              href: pci-resellers-performance.md
               displayName: 'indirect, reseller'
             - name: Ürün abonelikleri
-              href: insights-product-subscriptions-report.md
+              href: pci-product-subscriptions-report.md
             - name: Azure kullanımı
-              href: insights-azure-usage-report.md
+              href: pci-azure-usage-report.md
             - name: Teams kullanımı
-              href: insights-teams-usage-report.md
+              href: pci-teams-usage-report.md
             - name: Office 365 kullanımı
-              href: insights-office-365-usage-report.md
+              href: pci-office-365-usage-report.md
             - name: Dynamics kullanımı
-              href: insights-dynamics-usage-report.md
+              href: pci-dynamics-usage-report.md
             - name: Enterprise Mobility + Security kullanımı
-              href: insights-enterprise-mobility-security-usage-report.md
+              href: pci-enterprise-mobility-security-usage-report.md
             - name: Power BI kullanımı
-              href: insights-power-bi-usage-report.md
+              href: pci-power-bi-usage-report.md
             - name: Eğitim
-              href: insights-training-dashboard.md
+              href: pci-training-dashboard.md
             - name: Microsoft Learn analizi
               href: ms-learn-analytics.md
             - name: Yetkinlikler
-              href: insights-competencies-report.md
+              href: pci-competencies-report.md
             - name: Avantajlar
-              href: insights-benefits-report.md
+              href: pci-benefits-report.md
             - name: CloudAscent eğilimi
-              href: insights-customer-opportunities.md
+              href: pci-customer-opportunities.md
             - name: Ürün lisansları
-              href: insights-product-licenses-report.md
+              href: pci-product-licenses-report.md
         - name: İçgörüler-SSS
-          href: insights-known-issues.md
+          href: pci-known-issues.md
         - name: İçgörüler raporlarını indirme
-          href: insights-download-reports.md
-        - name: Analiz için programlı erişim
-          items:
-            - name: başlarken
-              href: insights-programmatic-get-started.md
-            - name: Programlı erişim önkoşulları
-              href: insights-programmatic-prerequisites.md
-            - name: Programlı erişim paradigması
-              href: insights-programmatic-access-paradigm.md
-            - name: İlk programlı API çağrısını yapın
-              href: insights-programmatic-first-api-call.md
-            - name: Sistem sorgularının listesi
-              href: insights-programmatic-system-queries.md
-            - name: Örnek sorgular
-              href: insights-programmatic-sample-queries.md
-            - name: Özel sorgu belirtimi
-              href: insights-programmatic-custom-query.md
-            - name: Örnek uygulama
-              href: insights-programmatic-sample-application.md
-            - name: Sık sorulan sorular
-              href: insights-programmatic-faq.md
-            - name: API başvuruları
-              items:
-                - name: Kullanılabilir API’ler
-                  href: insights-programmatic-analytics-available-api.md
-                - name: Tüm veri kümelerini al
-                  href: insights-programmatic-analytics-api-get-dataset.md
-                - name: Rapor sorgularını al
-                  href: insights-programmatic-analytics-api-get-report-queries.md
-                - name: Rapor sorgularını Sil
-                  href: insights-programmatic-analytics-api-delete-report-queries.md
-                - name: Rapor sorgularını deneyin
-                  href: insights-programmatic-analytics-api-try-report-queries.md
-                - name: Rapor al
-                  href: insights-programmatic-analytics-api-get-report.md
-                - name: Raporu güncelleştirme
-                  href: insights-programmatic-analytics-api-update-report.md
-                - name: Raporu sil
-                  href: insights-programmatic-analytics-api-delete-report.md
-                - name: Rapor yürütmelerini duraklatma
-                  href: insights-programmatic-analytics-api-pause-report-executions.md
-                - name: Rapor yürütmelerini sürdürme
-                  href: insights-programmatic-analytics-api-resume-report-executions.md
+          href: pci-download-reports.md
         - name: İçgörü verilerinin tanımları
-          href: insights-data-definitions.md
+          href: pci-data-definitions.md
     - name: İş Ortağı Katkısı Göstergeleri
       items:
         - name: Bulutta İş Uygulamaları yeterliliği için
