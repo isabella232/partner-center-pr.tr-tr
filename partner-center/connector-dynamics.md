@@ -1,6 +1,6 @@
 ---
-title: Dynamics 365 CRM Iş Ortağı Merkezi için ortak satış Bağlayıcısı
-description: Ürün ortağı merkezindeki başvuruları, Dynamics 365 CRM için ortak satış Bağlayıcınız ile eşitler. Daha sonra CRM sisteminizin içinden Microsoft ile ortak satış yapabilirsiniz.
+title: Dynamics 365 CRM için ortak satış bağlayıcısı İş Ortağı Merkezi
+description: Şirket içinde İş Ortağı Merkezi Dynamics 365 CRM ortak satış bağlayıcınız ile eşitler. Daha sonra CRM sisteminizin içinde Microsoft ile ortak satışlar da kullanabilirsiniz.
 ms.topic: how-to
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
@@ -8,210 +8,221 @@ author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.date: 03/01/2021
-ms.openlocfilehash: 87083c8124762f0952b0c98cbc209164151dcb0c
-ms.sourcegitcommit: 6a6e8f9af0a58b32770c7fce9f567dd4795b9797
+ms.openlocfilehash: 2e5f434ef76e4018e04421371935357abc296d0b
+ms.sourcegitcommit: f269c41e01c36eb526ed9f551fb4f79e903e9212
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/29/2021
-ms.locfileid: "113029201"
+ms.lasthandoff: 07/26/2021
+ms.locfileid: "114702137"
 ---
-# <a name="co-sell-connector-for-dynamics-365-crm-overview"></a>Dynamics 365 için ortak satış Bağlayıcısı CRM 'ye Genel Bakış
+# <a name="co-sell-connector-for-dynamics-365-crm-overview"></a>Dynamics 365 CRM için ortak satış bağlayıcısı genel bakış
 
-**Uygun roller**: başvuru Yöneticisi | CRM 'de Sistem Yöneticisi veya sistem özelleştiricisi
+**Uygun roller:** Referans yöneticisi | CRM'de sistem yöneticisi veya sistem özelleştiricisi
 
-İş Ortağı Merkezi ortak satış bağlayıcıları, satıcılarınızın CRM sistemlerinizden Microsoft ile ortak satıtabmasını sağlar. Ortak satış kurdukları anlaşmaları yönetmek için Iş Ortağı Merkezi 'ni kullanmaya eğitilmeleri gerekmez. Ortak satış bağlayıcılarını kullanarak Microsoft satıcı ile etkileşim kurun, Microsoft satıcı ile başvuruları alın, başvuruları kabul edin veya reddedin ve anlaşma değeri ve kapanış tarihi gibi işlem verilerini değiştirin. Ayrıca, bu ortak satış konusunda Microsoft satıcılarından herhangi bir güncelleştirme de alabilirsiniz. Tüm başvurularınızı iş ortağı Merkezi yerine tercih ettiğiniz CRM 'de yönetebilirsiniz.
+İş Ortağı Merkezi ortak satış bağlayıcıları, satış satıcılarının müşteri ilişkileri sistemi (CRM) sistemlerinizin içinde Microsoft ile ortak satışlar oluşturmalarına olanak sağlar. Ortak satış anlaşmalarını yönetmek için bu İş Ortağı Merkezi kullanmak üzere eğitilmaları gerek olmayacaktır. Ortak satış bağlayıcılarını kullanarak aşağıdakilere yeni bir ortak satış başvurusu oluşturun:
 
-Çözüm, Power otomatikleştirmeye dayalıdır ve Iş Ortağı Merkezi API 'Lerini kullanır.
+- Microsoft satıcısıyla etkileşim kurma
+- Microsoft satıcısından referans alma
+- Referansları kabul etme veya reddetme
+- Anlaşma değeri ve kapanış tarihi gibi anlaşma verilerini değiştirme 
+ 
+Bu ortak satış anlaşmaları hakkında Microsoft satıcılarından güncelleştirmeleri de edinirsiniz. Tüm referanslarınızı yönetmek yerine kendi tercihlerinizi CRM'de İş Ortağı Merkezi.
+
+Çözüm, api'leri Power Automate temel İş Ortağı Merkezi kullanır.
 
 ## <a name="prerequisites"></a>Önkoşullar
 
-Çözümü yüklemeden önce, aşağıdaki önkoşulları karşıladığınızdan emin olun.
+Çözümü yüklemeden önce aşağıdaki önkoşullara uygun olduğundan emin olun.
 
-|**Konu başlıkları**   |**Ayrıntılar**   |**Bağlantılar**   |
+| Konu başlıkları   | Ayrıntılar   | Bağlantılar   |
 |--------------|--------------------|------|
-|Microsoft İş Ortağı Ağı (MPN) KIMLIĞI |Geçerli bir MPN KIMLIĞI gereklidir.|[Iş ortağı ağına katılarak](https://partner.microsoft.com/)|
-|Ortak satış hazırlanıyor|IP/hizmet çözümünüz ortak satış için hazırlık olmalıdır.|[Microsoft ile satış](https://partner.microsoft.com/membership/sell-with-microsoft)|
-|İş Ortağı Merkezi hesabı|Iş Ortağı Merkezi kiracısı ile ilişkili MPN KIMLIĞI, ortak satış çözümünüz ile ilişkili MPN KIMLIĞIYLE aynı olmalıdır. Bağlayıcıları dağıtmadan önce ortak satış başvurularınızı Iş Ortağı Merkezi portalında görebildiğinizi doğrulayın.|[Hesabınızı yönetme](create-user-accounts-and-set-permissions.md)|
-|İş Ortağı Merkezi Kullanıcı rolleri|Bağlayıcıları yükleyecek ve kullanacak olan çalışanın bir başvuru Yöneticisi olması gerekir.|[Kullanıcı rollerini ve izinlerini atama](create-user-accounts-and-set-permissions.md)|
-|Dynamics 365 CRM|CRM Kullanıcı rolü, Sistem Yöneticisi veya sistem özelleştiricisi.|[Dynamics 365 ' de rol atama](/dynamics365/customerengagement/on-premises/customize/privileges-required-customization)|
-|Güç otomatikleştirme akış hesabı|Test, hazırlama ve üretim için bir veritabanı ile yeni bir üretim ortamı oluşturun. Bir veritabanı olan bir üretim ortamınız varsa, yeniden kullanılabilir. Bağlayıcı çözümünü yüklemeye devam eden kullanıcının bu ortama yönelik bir güç otomatikleştirme lisansı ve erişimi olmalıdır. İlerleme durumunu izleyebilir ve yükleme başarısız olursa [Power otomatikleştirmede](https://flow.microsoft.com/) daha fazla bilgi edinebilirsiniz. **Çözümler** altında **geçmişi görüntüle** ' yi seçin.|[Ortam oluşturma veya yönetme](/power-platform/admin/create-environment#create-an-environment-with-a-database)|
+| Microsoft İş Ortağı Ağı (MPN) Kimliği |Geçerli bir MPN kimliğine ihtiyacınız vardır. | [İş Ortağı ağına katılma](https://partner.microsoft.com/) |
+| Ortak satışa hazır|IP/Hizmetler çözümünüz ortak satışa hazır olmalı. | [Microsoft ile satış](https://partner.microsoft.com/membership/sell-with-microsoft) |
+| İş Ortağı Merkezi hesabı | Kiracıyla ilişkilendirilmiş MPN İş Ortağı Merkezi ortak satış çözümünüzle ilişkili MPN Kimliği ile aynı olması gerekir. Bağlayıcıları dağıtmadan önce ortak satış referanslarınızı İş Ortağı Merkezi portalında gördüğünüzü doğrulayın. | [Hesabınızı yönetme](create-user-accounts-and-set-permissions.md) |
+| İş Ortağı Merkezi rollerini atama | Bağlayıcıları yükecek ve kullanacak olan çalışanın Referans yöneticisi olması gerekir.|[Kullanıcı rollerini ve izinlerini atama](create-user-accounts-and-set-permissions.md) |
+| Dynamics 365 CRM|CRM kullanıcı rolü Sistem yöneticisi veya Sistem özelleştiricisi'dir.|[Dynamics 365'te rol atama](/dynamics365/customerengagement/on-premises/customize/privileges-required-customization) |
+| Power Automate akışı hesabı|Test, hazırlama ve üretim için veritabanıyla yeni bir üretim ortamı oluşturun. Veritabanına sahip mevcut bir üretim ortamınız varsa bu ortam yeniden kullanılabilir. Bağlayıcı çözümünü yükacak kullanıcının bu ortama erişim için bir Power Automate lisansına sahip olması gerekir. Yükleme başarısız olursa ilerleme durumunu izleyebilir ve Power Automate [daha](https://flow.microsoft.com/) fazla bilgi edinebilirsiniz. Çözümler **altında Geçmişi gör'i** **seçin.** | [Ortam oluşturma veya yönetme](/power-platform/admin/create-environment#create-an-environment-with-a-database) |
 
-## <a name="install-partner-center-referrals-synchronization-for-dynamics-365-power-automate-solution"></a>Dynamics 365 için Iş Ortağı Merkezi başvuruları eşitlemesini (Power otomatikleştir çözümü) yükler
+## <a name="install-partner-center-referrals-synchronization-for-dynamics-365-power-automate-solution"></a>Dynamics 365 İş Ortağı Merkezi Referans eşitlemesini yükleme (Power Automate çözümü)
 
-1. [Power otomatikleştirir](https://flow.microsoft.com)' a gidin ve sağ üst köşedeki **ortamlar** ' ı seçin. Bu adımda, kullanılabilir CRM örnekleri gösterilir.
+1. Power Automate [gidin](https://flow.microsoft.com)ve sağ **üst köşedeki** Ortamlar'ı seçin. Bu adım size kullanılabilir CRM örneklerini gösterir.
 
-1. Sağ üst köşedeki aşağı açılan listeden uygun CRM örneğini seçin.
+2. Sağ üst köşedeki açılan listeden uygun CRM örneğini seçin.
 
-1. Sol tarafta **çözümler** ' i seçin.
+3. Sol **tarafta** Çözümler'i seçin.
 
-1. Üstteki menüde **AppSource 'U aç** bağlantısını seçin.
+4. Üst **menüden AppSource'ı** Aç bağlantısını seçin.
 
-   :::image type="content" source="images/cosellconnectors/open-appsource.png" alt-text="Açık AppSource gösteren ekran görüntüsü.":::
+   :::image type="content" source="images/cosellconnectors/open-appsource.png" alt-text="AppSource'a Aç'ın ekran görüntüsü.":::
 
-1. Açılır ekranda **Dynamics 365 Için Iş Ortağı Merkezi başvuruları bağlayıcılarını** arayın.  
+5. Açılan **İş Ortağı Merkezi Dynamics 365 için** Referans Bağlayıcıları araması gerçekleştirin.  
 
-1. **Şimdi al** düğmesini seçin ve ardından **devam**' ı seçin.
+6. Şimdi **al düğmesini ve** ardından Devam'ı **seçin.**
 
-1. Uygulamayı yüklemek için CRM (Dynamics 365) ortamını seçebileceğiniz bir sayfa görüntülenir. Hüküm ve koşulları kabul edin.
+7. Uygulamayı yüklemek için CRM (Dynamics 365) ortamını seçerek bir sayfa görüntülenir. Hüküm ve koşulları kabul etmek.
 
-1. İlerlemeyi izleyebilir ve yükleme başarısız olursa, **çözüm** altında **geçmişi göster** ' i seçerek Power otomatikleştirmede daha fazla bilgi edinebilirsiniz.
+8. İlerleme durumunu izleyebilirsiniz ve yükleme başarısız olursa Çözümler'in altında Geçmişi Power Automate'ı seçerek daha **fazla** ayrıntıya **inebilirsiniz.**
 
-1. Yükleme tamamlandıktan sonra [Power otomatikleştirmeye](https://flow.microsoft.com) dönün ve sol taraftaki **çözümler** ' i seçin. **Dynamics 365 Için Iş Ortağı Merkezi başvuruları eşitleme** artık **çözüm** listesinde bulunabilir.
+9. Yükleme tamamlandıktan sonra, uygulamanın [Power Automate](https://flow.microsoft.com) ve sol **tarafta Çözümler'i** seçin. **İş Ortağı Merkezi Dynamics 365** için Referans Eşitlemesi artık Çözümler **listesinde** kullanılabilir.
 
-1. **Dynamics 365 Için Iş Ortağı Merkezi başvuruları eşitlemesini** seçin. Aşağıdaki güç otomatikleşme akışları ve varlıkları kullanılabilir.
+10. **Dynamics 365 İş Ortağı Merkezi Referans Eşitleme'yi seçin.** Aşağıdaki Power Automate ve varlıklar kullanılabilir.
 
-    :::image type="content" source="images/cosellconnectors/dynamics-available-crms.png" alt-text="Kullanılabilir CRMs 'yi gösteren ekran görüntüsü.":::
+    :::image type="content" source="images/cosellconnectors/dynamics-available-crms.png" alt-text="Kullanılabilir CRM'leri gösteren ekran görüntüsü.":::
 
-## <a name="test-before-you-go-live"></a>Canlı çalışmadan önce test edin
+## <a name="test-before-you-go-live"></a>Canlı yayına başlamadan önce test
 
-Üretim ortamında güç otomatikleştirme çözümünü yüklemeden, yapılandırmadan ve özelleştirebilmeniz için, çözümü bir hazırlama CRM örneğinde test ettiğinizden emin olun. Şunları yapmanız gerekir:
+Üretim ortamında Power Automate yapılandırmadan ve özelleştirmeden önce, çözümü hazırlama CRM örneğinde test edersiniz. Şunları yapmak gerekir:
 
-- Güç otomatikleştirme çözümünü bir hazırlama ortamı CRM örneğine yükler.
-- Güç otomatikleştirme çözümünü hazırlama ortamında yapılandırın ve özelleştirin.
-- Çözümü bir hazırlama CRM örneğinde test edin.
-- Başarılı bir testten sonra, üretim örneğine yönetilen bir çözüm olarak içeri aktarın.
+- Hazırlama Power Automate CRM örneğine uygulama çözümünü yükleyin.
+- Hazırlama ortamında Power Automate yapılandırma ve özelleştirme.
+- Çözümü hazırlama CRM örneğinde test etmek.
+- Başarılı bir test sonrasında yönetilen çözüm olarak üretim örneğine aktarın.
 
 ## <a name="configure-the-solution"></a>Çözümü yapılandırma
 
-1. Çözümü CRM Örneğinizde yükledikten sonra [Power otomatikleştirmeye](https://flow.microsoft.com/)geri dönün.
+1. Çözümü CRM örneğine yükledikten sonra [Power Automate.](https://flow.microsoft.com/)
 
-1. Sağ üst köşedeki **ortamlar** açılan listesinden, Power otomatikleştir çözümünü yüklediğiniz CRM örneğini seçin.
+2. Sağ **üst** köşedeki Ortamlar açılan listesinden, Power Automate çözümünü yüklemiş Power Automate seçin.
 
-1. Üç Kullanıcı hesabını ilişkilendiren bağlantılar oluşturmanız gerekir:
+3. Üç kullanıcı hesabını ilişkilendirilen bağlantılar oluşturmanız gerekir:
 
-   - Ortak Merkezi Kullanıcı başvuruları yönetici kimlik bilgileri
+   - İş Ortağı Merkezi yönetici kimlik bilgilerine sahip bir kullanıcı
    - İş Ortağı Merkezi Etkinlikleri
-   - Çözümdeki güç otomatikleştirme akışları ile CRM Yöneticisi
+   - Çözümde akış Power Automate CRM yöneticisi
 
-   1. Sol taraftaki **Bağlantılar** ' ı seçin ve listeden **Iş Ortağı Merkezi başvuruları** çözümünü seçin.
+   a. Sol **tarafta** Bağlantılar'ı seçin ve **İş Ortağı Merkezi Referanslar** çözümünü seçin.
 
-   1. **Bağlantı oluştur** seçeneğini belirleyerek bir bağlantı oluşturun.
+   b. Bağlantı oluştur'a **seçerek bağlantı oluşturun.**
 
-         :::image type="content" source="images/cosellconnectors/dynamics-1.png" alt-text="Bağlantı oluştur ' un gösterildiği ekran görüntüsü.":::
+      :::image type="content" source="images/cosellconnectors/dynamics-1.png" alt-text="Bağlantı oluştur'ları gösteren ekran görüntüsü.":::
 
-   1. Sağ üst köşedeki arama çubuğunda **Iş Ortağı Merkezi başvurularını (Önizleme)** arayın.
+   c. Sağ **İş Ortağı Merkezi arama çubuğunda Referanslar (önizleme)** araması gerçekleştirin.
 
-   1. Iş Ortağı Merkezi kullanıcılarınız için, başvuru yöneticisinin kimlik bilgileri rolüyle bir bağlantı oluşturun.
+   d. Referans yöneticisinin kimlik bilgileri İş Ortağı Merkezi kullanıcınız için bir bağlantı oluşturun.
 
-   1. Ardından, Iş Ortağı Merkezi kullanıcılarınız için, başvuru Yöneticisi kimlik bilgileri ile bir Iş Ortağı Merkezi olaylar bağlantısı oluşturun.
+   e. Ardından, Referanslar İş Ortağı Merkezi kimlik bilgileriyle İş Ortağı Merkezi kullanıcınız için bir Olay bağlantısı oluşturun.
 
-   1. CRM yönetici kullanıcısı için Common Data Service (geçerli ortam) bağlantısı oluşturun.
+   f. CRM yönetici kullanıcısı için Common Data Service (geçerli ortam) için bir bağlantı oluşturun.
      
-   1. Tüm bağlantıları ekledikten sonra ortamınızda aşağıdaki bağlantıları görmeniz gerekir.
+   örneğin: Tüm bağlantıları ekledikten sonra ortamınıza aşağıdaki bağlantıları görüyor gerekir.
 
       :::image type="content" source="images/cosellconnectors/dynamics-2.png" alt-text="Bağlantıları gösteren ekran görüntüsü.":::
 
 ## <a name="edit-the-connections"></a>Bağlantıları düzenleme
 
-1. **Çözümler** sayfasına dönün ve **Varsayılan çözüm**' ı seçin. **Tümünü** seçerek **Bağlantı başvurusunu (Önizleme)** seçin.
+1. Çözümler sayfasına **geri dönüp** Varsayılan **Çözüm'i seçin.** Tüm **'i seçerek Bağlantı Başvurusu (önizleme)** **öğesini seçin.**
 
-   :::image type="content" source="images/connection-reference-video.gif" alt-text="Bağlantıların düzenlendiğinin gösterildiği ekran görüntüsü.":::
+   :::image type="content" source="images/connection-reference-video.gif" alt-text="Bağlantıları düzenlemeyi gösteren ekran görüntüsü.":::
 
-1. Üç nokta simgesini seçerek her bir bağlantıyı tek tek düzenleyin. İlgili bağlantıları ekleyin.
+2. Üç nokta simgesini seçerek bağlantıların her bir öğesini tek tek düzenleyin. İlgili bağlantıları ekleyin.
 
    :::image type="content" source="images/cosellconnectors/dynamics-4.png" alt-text="Listelenen bağlantıları gösteren ekran görüntüsü.":::
 
-1. **Çözümler** sayfasına dönün, **Dynamics 365 Için Iş Ortağı Merkezi başvuruları eşitlemesini** seçin ve aşağıdaki dizideki her akışın yanındaki üç nokta simgesini seçerek akışı açın. Akışı açtığınızda herhangi bir sorunla karşılaşırsanız, bkz. [özelleştirme adımları](connector-dynamics.md#customize-synchronization-steps) ve [sorun giderme adımları](connectors-troubleshoot.md).
+3. Çözümler sayfasına **geri** dönüp **Dynamics 365** için İş Ortağı Merkezi Referans Eşitlemesi'ne tıklayın ve aşağıdaki sırayla her akışın yanındaki üç nokta simgesini seçerek akışı açabilirsiniz. Akışı açma sırasında herhangi bir sorunla karşılaşırsanız bkz. Özelleştirme [adımları ve Sorun](connector-dynamics.md#customize-synchronization-steps) giderme [adımları.](connectors-troubleshoot.md)
 
-Akışları aşağıdaki sırada açın:
+   Akışları aşağıdaki sırayla aç:
 
-- İş Ortağı Merkezi Web kancası kaydı (Insider Preview)
-- Ortak satış başvurusu oluşturma – Dynamics 365-Iş Ortağı Merkezi (Insider Preview)
-- Kişiselleştirin Dynamics 365 akışından ayrıntılar oluşturun veya alın
-- İş Ortağı Merkezi-Dynamics 365-Yardımcısı (Insider Preview)
-- İş Ortağı Merkezi Microsoft ortak satış başvuruları Dynamics 365 'a (Insider Preview)
-- İş Ortağı Merkezi-Dynamics 365 (Insider Preview)
-- Dynamics 365-Iş Ortağı Merkezi (Insider Preview)
-- Dynamics 365 Iş Ortağı Merkezi (Insider Preview) fırsatı
-- Dynamics 365 Microsoft Solutions for Partner Center (Insider Preview)
+   a. İş Ortağı Merkezi Web Kancası Kaydı (Insider Önizlemesi)
+   
+   b. [Özelleştirme] Dynamics 365 akışından Ayrıntıları Oluşturma veya Al
+   
+   c. Ortak Satış Referansı Oluşturma – Dynamics 365 -İş Ortağı Merkezi (Insider Önizleme)
+   
+   d. İş Ortağı Merkezi dynamics 365 - Helper (Insider Preview)
+   
+   e. İş Ortağı Merkezi Microsoft'un Dynamics 365'e Ortak Satış Referans Güncelleştirmeleri (Insider Önizlemesi)
+   
+   f. İş Ortağı Merkezi Dynamics 365'e (Insider Önizleme)
+   
+   örneğin: Dynamics 365 -İş Ortağı Merkezi (Insider Önizleme)
+   
+   h. Dynamics 365 Opportunity to İş Ortağı Merkezi (Insider Preview)
+   
+   i. Dynamics 365 Microsoft Solutions to İş Ortağı Merkezi (Insider Preview)
  
-## <a name="use-webhook-apis-to-register-for-resource-change-events"></a>Kaynak değişikliği olaylarına kaydolmak için Web kancası API 'Lerini kullanma
+## <a name="use-webhook-apis-to-register-for-resource-change-events"></a>Kaynak değişikliği olaylarını kaydetmek için web kancası API'lerini kullanma
 
-Kaynak değiştirme olaylarına kaydolmak için Iş Ortağı Merkezi Web kancası API 'Lerini kullanabilirsiniz. Bu değişiklik olayları, URL 'nize HTTP gönderileri olarak gönderilir.
+Kaynak değişikliği olaylarını İş Ortağı Merkezi için web kancası API'lerini kullanabilirsiniz. Bu değişiklik olayları URL'nize HTTP gönderileri olarak gönderilir.
 
-1. **Iş Ortağı Merkezi 'Ni Dynamics 365 'e (Insider Preview)** seçin.
+1. **Dynamics 365 İş Ortağı Merkezi (Insider Preview) öğesini seçin.**
 
-1. **Düzenle** simgesini seçin ve **bir http isteği alındığında** öğesini seçin.
+2. Düzenle **simgesini seçin** ve HTTP **isteği geldiğinde seçeneğini seçin.**
 
-1. Belirtilen HTTP POST URL 'sini kopyalamak için **Kopyala** simgesini seçin.
+3. Sağlanan  HTTP POST URL'sini kopyalamak için Kopyala simgesini seçin.
 
-   :::image type="content" source="images/webhook-video.gif" alt-text="Kaynak değişikliklerini kaydetmek için Web kancalarını kullanmayı gösteren ekran görüntüsü.":::
+   :::image type="content" source="images/webhook-video.gif" alt-text="Kaynak değişikliklerini kaydetmek için web kancalarını kullanmayı gösteren ekran görüntüsü.":::
 
-1. **Iş Ortağı Merkezi Web kancası kaydı (Insider Preview)** güç otomatikleştir akışını seçin ve sonra **Çalıştır**' ı seçin.
+4. Web **Kancası İş Ortağı Merkezi (Insider Preview)** Power Automate'ı ve ardından Çalıştır'ı **seçin.**
 
-1. **Akış Çalıştır** penceresinin sağ bölmede açıldığından emin olun ve **devam**' ı seçin.
+5. Akışı çalıştır **penceresinin sağ** bölmede açıldığından emin olduktan sonra Devam'ı **seçin.**
 
-1. Şu ayrıntıları girin:
+6. Şu ayrıntıları girin:
 
-   - **Http tetikleyici uç noktası**: Bu URL önceki bir adımdan kopyalanmış.
-   - **Kaydolmak Için olaylar**: kullanılabilir tüm olayları (**başvuru-oluşturulan**, **başvuru-güncelleştirilmiş**, **ilişkili-başvuru-oluşturma** ve **ilgili-başvuru-güncelleştirilmiş**) seçin.
-   - Varsa **var olan tetikleyici uç noktalarının üzerine yaz**: Evet. Belirli bir Web kancası olayı için yalnızca bir URL kaydedilebilir.
+   - **Http Tetikleyici Uç** Noktası: Bu URL önceki bir adımdan kopyalandı.
+   - **Kaydedilebilecek Olaylar:** Tüm kullanılabilir olayları seçin (**referans oluşturuldu,** **referans güncelleştirildi,** **ilgili-referans oluşturuldu** ve **ilgili-referans-güncelleştirildi).**
+   - **Mevcut tetikleyici uç noktalarının üzerine yaz?**: Evet. Bir web kancası olayı için yalnızca bir URL kaydedebilirsiniz.
 
-1. **Akış Çalıştır**' ı seçin ve bitti ' yi seçin **.**
+7. Akışı **çalıştır'ı** ve ardından **Bitti'yi seçin.**
 
-Web kancası artık olayları dinleyebilir, oluşturabilir ve güncelleştirebilir.
+Web kancası artık olayları dinlemek, oluşturmak ve güncelleştirmek için kullanabilir.
 
 ## <a name="customize-synchronization-steps"></a>Eşitleme adımlarını özelleştirme
 
-CRM sistemleri büyük ölçüde özelleştirilir ve CRM kurulumunuzu temel alarak Power otomatikleştir çözümünü özelleştirebilirsiniz. Ortak satış başvuruları Iş ortağı merkezi ve CRM sisteminiz arasında eşitlendiğinde, Iş Ortağı Merkezi BILGISAYAR üzerinde eşitlenen alanlar [özel alan eşleme kılavuzunda](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWxL6S)listelenir.
+CRM sistemleri yüksek oranda özelleştirilmiştir ve CRM kurulum Power Automate özelleştirilebilir. Ortak satış referansları İş Ortağı Merkezi CRM sisteminiz arasında eşitlenmişse, İş Ortağı Merkezi pc'de eşitlenen alanlar Özel alan eşleme [kılavuzunda listelenir.](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RWxL6S)
 
-Alan eşleme kılavuzunu izleyin ve gerekirse, [özelleştirme] bölümünde uygun değişiklikleri yapın **Dynamics 365 Flow veya ortam değişkenlerinden ayrıntılar oluşturun veya alın** . Daha sonraki çözüm yükseltmelerini etkileyebileceğinden, Power otomatikleştir çözümündeki diğer akışları güncelleştirmeyin.
+Alan eşleme kılavuzunu izleyin ve **gerekirse [Özelleştir] Dynamics 365** akışından veya ortam değişkenlerinden Ayrıntıları Al'da uygun değişiklikleri yapın. Gelecekteki çözüm yükseltmelerini etkileye Power Automate diğer akışları güncelleştirin.
 
 Aşağıdaki özelleştirmeler kullanılabilir:
 
-- **Fırsat adında onay Işareti göster**: varsayılan olarak, Iş Ortağı Merkezi ile DYNAMICS 365 CRM arasındaki eşitlemenin başarıyla gerçekleştiği anlamına gelen fırsat adının yanında bir onay işareti görüntülenir. Benzer şekilde, eşitleme başarısız olursa bir çapraz işaret görüntülenir. Fırsat adına bir denetim veya çapraz işaret eklemekten kaçınmak için, **fırsat adı ortam değişkeninde görünen onay işaretinin** geçerli değerini Hayır olarak ayarlayın.
-- **Anlaşma değeri**: varsayılan olarak, Iş Ortağı Merkezi 'nden anlaşma DEĞERI, CRM 'deki **estimatedvalue** ile ve bu değerden eşitlenecek. CRM 'de eşitlenecek anlaşma değeri için farklı bir alanınız varsa:
+- **Fırsat adı içinde onay işaretini görüntüle:** Varsayılan olarak, İş Ortağı Merkezi ile Dynamics 365 CRM arasında eşitlemenin başarıyla devam ediyor olduğunu belirtmek için fırsat adının yanında bir onay işareti görüntülenir. Benzer şekilde, eşitleme başarısız olursa bir çapraz işaret görüntülenir. Fırsat adına onay veya çapraz işaret eklemekten kaçınmak için fırsat adı ortam değişkensinde Görünen onay işaretinin geçerli **değerini** Hayır olarak ayarlayın.
+- **Satış anlaşması** değeri: Varsayılan olarak, İş Ortağı Merkezi crm'de ile arasında eşitlenen satış `estimatedvalue` anlaşması değeri. CRM'de eşitlenen satış anlaşması değeri için farklı bir alanınız varsa:
 
-  - Dynamics 365 ortam değişkeninde, CRM 'nin alan adı ile **anlaşma değeri** alan adını güncelleştirin. Alanın adını, görünen adını değil, sağladığınızdan emin olun.
-  - Düzenle **[özelleştirme] Dynamics 365 akışından ayrıntılar oluşturun veya** GÜNCELLEŞTIRIN ve CRM 'de **fırsat oluştur veya Güncelleştir** ' e gidin ve **Yeni bir fırsat oluşturun** ve **Mevcut fırsat eylemlerini güncelleştirin** ve CRM 'de doğru alana **satıcılarla değer** değerini atayın. Ayrıca, **tahmini gelir** alanından **satıcılarla değer** atamasını kaldırın.
+  - Dynamics  365 ortam değişkeninin Satış değeri alan adını CRM'nin alan adıyla güncelleştirin. Alanın görünen adını değil, adının sağ olduğundan emin olun.
+  - **Düzenle [Özelleştirme] Dynamics 365** akışından Ayrıntılar oluşturun  veya Alın ve CRM'de fırsat  oluşturma veya güncelleştirme'ye gidin ve Yeni fırsat oluştur ve Mevcut fırsat eylemlerini güncelleştir'i güncelleştirin ve **DealValue** değerini CRM'de doğru alana atacak şekilde güncelleştirin.  Ayrıca Tahmini Gelir **alanından DealValue** **atamayı kaldırın.**
 
-- **Müşteri hesabı ülke kodu**: yeni bir başvuru oluştururken iki harfli bir ülke kodu (ISO 3166) sağlamanız zorunludur. Ülke kodu, varsayılan olarak, CRM 'deki **address1_country** alanından ve bu hesaba eşitlenir. CRM 'de eşitlenecek ülke kodunun farklı bir alanına sahipseniz:
+- **Müşteri Hesabı Ülke Kodu:** Yeni bir referans oluşturmak için iki harfli ülke kodu (ISO 3166) sağlayabilirsiniz. Varsayılan olarak, ülke kodu CRM'de hesabın address1_country **eşitler.** CRM'de ülke kodunun eşitley için farklı bir alanınız varsa:
 
-  - Hesapta iki harfli bir kod içeren arama olmayan ülke kodu alanı için:
-    - Dynamics 365 ortam değişkenindeki **müşteri hesabı ülke kodu** alan adını, CRM 'nin alan adıyla güncelleştirin. Alanın adını, görünen adını değil, sağladığınızdan emin olun.
-    - Düzenle **[Özelleştir] Dynamics 365 akışından ayrıntılar oluşturun veya bu hesaptan ayrıntıları alın** ve CRM 'de doğru alana bir **ülke** değeri atamak için CRM eyleminde **müşteri hesabı oluştur veya Al** ' a gidin. Ayrıca, **ülke** değeri atamasını **Adres 1: ülke/bölge** alanından kaldırın.
+  - Hesapta iki harfli kod içeren birlookup olmayan ülke kodu alanı için Dynamics 365 ortam değişkeninin Müşteri Hesabı **Ülke** Kodu alan adını CRM'nin alan adıyla güncelleştirin. Alanın görünen adını değil, adının sağ olduğundan emin olun. Düzenle **[Özelleştirme] Dynamics 365** akışından Ayrıntılar oluşturun  veya Alın ve CRM'de doğru  alana ülke değeri atamak için CRM eylemde müşteri hesabı oluşturma veya al'a gidin. Ayrıca Adres  **1: Ülke/Bölge alanından Ülke değeri atamayı** kaldırın.
 
-  - Hesaptaki arama temelli bir ülke kodu alanı için:
-    - Hesaba yeni bir özel alan ekleyin ve arama tabanlı alanda seçilen değere göre iki harfli bir ülke kodu (ISO 3166) ile otomatik olarak doldurun ve tam tersi de geçerlidir.
-    - Yeni bir özel alanı CRM 'den ve Iş Ortağı Merkezi 'nden eşitlemek için, arama dışı ülke kodu alanına yönelik önceki adımları izleyin.
+  - Hesapta arama tabanlı bir ülke kodu alanı için hesaba yeni bir özel alan ekleyin ve bu alanı arama tabanlı alanda seçilen değere göre iki harfli ülke koduyla (ISO 3166) otomatik olarak ekleyin. CRM'den yeni bir özel alanı şirket içi ve dışına eşitlemek için, sonraki adımları izleyin ve bu alandan İş Ortağı Merkezi.
 
-- **Fırsat alanları**: **fırsatta** doldurulması gereken zorunlu alanlar varsa, düzenleme **[özelleştirme] Dynamics 365 akışından ayrıntıları oluşturma veya GÜNCELLEŞTIRME hakkında bilgi alın** ve CRM 'de **fırsat oluştur veya Güncelleştir** ' e gidin ve iş gereksinimlerinize göre zorunlu alanlara değer atamak için **Yeni bir fırsat oluşturma eylemi oluşturun** .
-- **Lider alanları**: **müşteri adayıyla** doldurulması gereken zorunlu alanlar varsa, **[Özelleştir] Dynamics 365 akışından ayrıntıları oluşturma veya güncelleştirme hakkında bilgi edinmek** Için, CRM 'de **müşteri adayı oluştur veya Güncelleştir** ' i ve güncelleştirme ' ye gidin ve iş gereksinimlerinize göre zorunlu alanlara değer atamak için **Yeni bir müşteri adayı eylemi oluşturun** .
-- **Müşteri hesabı**: Iş ortağı MERKEZI 'nden CRM 'ye yeni bir başvuru eşitlendiğinde, Power otomatikleştir çözümü müşterinin Şirket adı ve posta kodunu kullanarak CRM 'de mevcut bir hesabı aramaya çalışır. Bir tane bulamazsa, CRM 'de yeni bir müşteri hesabı oluşturulur. Arama ölçütünü ve yeni hesap oluşturma ayrıntılarını güncelleştirmek için, düzenleme **[özelleştirme] Dynamics 365 akışından ayrıntılar oluşturun veya alın** ve CRM ve **müşteri hesabı oluşturma eyleminde** **müşteri hesabı oluştur veya Al** ' a gidin.
+- **Fırsat alanları:** **Fırsat'ta** doldurulması gereken zorunlu alanlar varsa **[ Özelleştirme] Dynamics 365** akışından  Oluşturma veya Ayrıntıları Al'a  gidin, CRM'de fırsat oluşturma veya güncelleştirme'ye gidin ve İş gereksinimlerinize göre zorunlu alanlara değer atamak için Yeni bir fırsat eylemi oluştur'a gidin.
+- **Müşteri adayı** alanları: Müşteri adayı  alanında doldurulması gereken zorunlu alanlar varsa **[Özelleştirme] Dynamics 365**  akışından Oluşturma veya Ayrıntıları  Al'a gidin, CRM'de müşteri adayı oluşturma veya güncelleştirme'ye gidin ve İş gereksinimlerinize göre zorunlu alanlara değer atamak için Yeni müşteri adayı eylemi oluştur'a gidin.
+- **Müşteri hesabı:** İş Ortağı Merkezi'den CRM'ye yeni bir referans eşitlen olduğunda, Power Automate çözümü müşteri şirket adını ve posta kodunu kullanarak CRM'de mevcut bir hesabı aramaya çalışır. Bir hesap bulamazsa CRM'de yeni bir müşteri hesabı oluşturulur. Arama ölçütlerini ve yeni hesap oluşturma ayrıntılarını güncelleştirmek için  **[Özelleştirme] Dynamics 365** akışından Ayrıntıları Oluştur veya Al'a gidin ve CRM'de müşteri hesabı oluşturma veya al ve Müşteri hesabı oluştur **eylemine gidin.**
 
-## <a name="update-environment-variable"></a>Ortam değişkenini Güncelleştir
+## <a name="update-environment-variable"></a>Ortam değişkenlerini güncelleştirme
 
-Bir ortam değişken değerini güncelleştirmek için:
+Ortam değişkeni değerini güncelleştirmek için:
 
-1. **Çözümler** sayfasına gidin ve **Varsayılan çözüm**' ı seçin. **Tümü**' nü seçerek **ortam değişkenini** seçin.
+1. Çözümler sayfasına **gidin ve** Varsayılan **Çözüm'i seçin.** Tüm **'i seçerek** Ortam Değişkeni'ne **seçin.**
 
-1. Güncelleştirilmesi gereken değer için ortam değişkenini seçin ve üç nokta simgesini kullanarak **Düzenle** ' yi seçin.
+2. Güncelleştirilmiş olması gereken değer için ortam değişkenlerini seçin ve üç **nokta** simgesini kullanarak Düzenle'yi seçin.
 
-1. **Yeni değer** seçeneğini kullanarak ve değeri sağlayarak **geçerli değeri** güncelleştirin ( **varsayılan değeri** güncelleştirmeyin). Değerin, değişkenin veri türüyle eşleşmesi gerekir. Örneğin, Evet veya Hayır veri türü Evet ya da Hayır değerini kabul eder.
+3. Yeni **değer seçeneğini** kullanarak ve değeri sağlayarak **Geçerli** Değeri güncelleştirin (Varsayılan **Değeri** güncelleştirin). Değerin değişkenin veri türüyle eşleşmesi gerekir. Örneğin, Evet veya Hayır veri türü Evet veya Hayır değerini kabul eder.
 
-   :::image type="content" source="images/cosellconnectors/environment-variables-video.gif" alt-text="Ortam değişkenlerini güncelleştirme ' nin gösterildiği ekran görüntüsü.":::
+   :::image type="content" source="images/cosellconnectors/environment-variables-video.gif" alt-text="Ortam değişkenlerini güncelleştir'i gösteren ekran görüntüsü.":::
 
-## <a name="end-to-end-bidirectional-co-sell-referral-synchronization"></a>Uçtan uca çift yönlü ortak satış başvuru eşitlemesi
+## <a name="end-to-end-bidirectional-co-sell-referral-synchronization"></a>4-2 2 yönlü ortak satış referans eşitlemesi
 
-Power otomatikleştir çözümünü yükledikten, yapılandırdıktan ve özelleştirdikten sonra, Dynamics 365 ve Iş ortağı merkezi arasında ortak satış başvuruları eşitlemesini test edebilirsiniz.
+Power Automate çözümünü yükledikten, yapılandırıp özelleştirdikten sonra Dynamics 365 ile İş Ortağı Merkezi arasında ortak satış referans eşitlemesini test İş Ortağı Merkezi.
 
 ### <a name="prerequisites"></a>Önkoşullar
 
-Iş ortağı merkezi ve Dynamics 365 CRM arasındaki başvuruları eşleştirmek için, Power otomatikleştir çözümü, Microsoft 'a özgü başvuru alanlarını açıkça ortadan kaldırır. Bu kimlik, satıcı ekiplerine ortak satış için Microsoft ile hangi referansları paylaşmak istediğini belirleme olanağı sağlar.
+Power Automate çözümü, İş Ortağı Merkezi Dynamics 365 CRM'de referansları eşitlemek için Microsoft'a özgü referans alanlarını açıkça sınırlar. Bu kimlik, satıcı ekiplerinize ortak satış için Microsoft ile hangi referansları paylaşmak istediğinize karar verme olanağı verir.
 
-Bir dizi özel alan ve nesne, çözüm yüklemesinin parçası olarak eklenir. Bir CRM yönetici kullanıcısının **fırsat** özel alanlarıyla ayrı bir CRM bölümü oluşturması gerekir.
+Çözüm yüklemesi kapsamında bir dizi özel alan ve nesne eklenecektir. CRM yönetici kullanıcısnın Fırsat özel alanlarıyla ayrı bir CRM **bölümü oluşturması** gerekir.
 
-Aşağıdaki özel alanlar CRM bölümünün bir parçası olmalıdır:
+Aşağıdaki özel alanlar CRM bölümünün bir parçası olması gerekir:
 
-- **Iş Ortağı Merkezi Ile Eşitle**: fırsatın Iş Ortağı Merkezi ile eşitlenmeyeceğini belirtir. Varsayılan olarak, bu alanın değeri Hayır ' dır ve Microsoft ile bir fırsat paylaşmak için satıcı tarafından açıkça Evet olarak ayarlanması gerekir. Iş Ortağı Merkezi 'nden CRM 'ye paylaşılan yeni başvurular, bu alan değeri Evet olarak ayarlanmıştır.
-- **Başvuru tanımlayıcısı**: Iş Ortağı Merkezi başvurusu için salt okunurdur bir tanımlayıcı alanı.
-- **Başvuru bağlantısı**: Iş Ortağı Merkezi 'nde başvurunun salt okunurdur bağlantısı.
-- **Microsoft nasıl yardım edebilir?**: başvuru için Microsoft 'un gerekli olduğu yardım. Ortak satış başvurusu oluşturmak için, Microsoft 'tan gereken uygun yardımı seçin. Ortak satış başvurusu oluşturmak için bir müşteri kişisinin fırsatla ilişkilendirilmesi gerekir. Ortak satış olmayan bir başvuru oluşturmak için bu alanı seçmeyin. Ortak satış olmayan bir başvuru, uygun yardım-gerekli seçeneği belirlenerek her zaman ortak satış başvuruya dönüştürülebilir.
-- **Microsoft Iş ortağı merkezi başvuru görünürlüğü**: Iş Ortağı Merkezi başvurusu için görünürlük ' i seçin. Ortak satış olmayan bir başvuru, Microsoft satıcıları için görünür hale getirerek ortak satış olarak dönüştürülebilir. Microsoft Yardım gerektiğinde, başvuru varsayılan olarak Microsoft satıcılarıyla görülebilir. Bu alan görünür olarak işaretlendikten sonra geri döndürülemez.
-- **MICROSOFT CRM tanımlayıcısı**: Microsoft tarafından bir ortak satış başvurusu oluşturulup kabul edildiğinde, bu alan MICROSOFT 'un CRM tanımlayıcısı ile doldurulur.
-- **Ürünler: kullanılmıyor**: bu alanı KULLANMAYıN veya CRM bölümüne ekleyin. Yalnızca geriye dönük uyumluluk için kullanılabilir. Bunun yerine Iş Ortağı Merkezi çözümlerini kullanın.
-- **Denetim**: Iş Ortağı Merkezi başvurularına eşitleme için salt okunurdur bir denetim izi.
-- **Microsoft Iş ortağı merkezi çözümleri**: ortak satış için hazırlanma çözümlerini veya Microsoft çözümlerini fırsatla ilişkilendirmek için özel bir nesne. Fırsatta bir veya daha fazla çözüm eklenebilir veya kaldırılabilir. Microsoft ile paylaşmadan önce fırsata en az bir ortak satış veya Microsoft çözümü eklemek zorunludur. Bu nesneyi fırsatla ilişkilendirmek için CRM 'de **fırsat** formunu güncelleştirin.
+- **İş Ortağı Merkezi ile eşitleme:** Fırsatın İş Ortağı Merkezi. Varsayılan olarak, bu alanın değeri Hayır'dır ve Satıcınız tarafından Microsoft ile bir fırsat paylaşmak için açıkça Evet olarak ayar yapılması gerekir. İş Ortağı Merkezi CRM'ye paylaşılan yeni referanslarda bu alan değeri Evet olarak ayarlanır.
+- **Referans Tanımlayıcısı:** Referans başvurusu için salt İş Ortağı Merkezi alanı.
+- **Referans Bağlantısı:** Referansta referansın salt okunur İş Ortağı Merkezi.
+- **Microsoft nasıl yardımcı olabilir?**: Referans için Microsoft'tan yardım gerekir. Ortak satış referansı oluşturmak için Microsoft'tan gereken uygun yardımı seçin. Ortak satış referansı oluşturma fırsatıyla bir müşteri ilgili kişisi ilişkili olması gerekir. Ortak satış dışı bir referans oluşturmak için bu alanı seçmeyin. Ortak satış olmayan bir referans, uygun yardım gerekli seçeneği seçerek ortak satış referansı olarak dönüştürmek için kullanılabilir.
+- **Microsoft İş Ortağı Merkezi Referans Görünürlüğü:** Referans için İş Ortağı Merkezi seçin. Bunu Microsoft satış satıcılarının kullanımına açık hale dönüştürerek ortak satış olmayan bir referans ortak satışa dönüştürülmüş olabilir. Microsoft yardımı gerektiğinde referans, Varsayılan olarak Microsoft satıcılarının kullanımına açıktır. Bu alan görünür olarak işaretlendikten sonra geri döndürülmeyebilir.
+- **Microsoft CRM:** Ortak satış referansı oluşturulduğunda ve Microsoft tarafından kabul edilirken, bu alan Microsoft'un CRM tanımlayıcısıyla doldurulur.
+- **Ürünler: Eski:** Bu alanı kullanma veya CRM bölümüne ekleme. Yalnızca geriye dönük uyumluluk için kullanılabilir. Bunun İş Ortağı Merkezi çözümlerini kullanın.
+- **Denetim:** Referanslarla eşitlemek için salt okunur bir İş Ortağı Merkezi izi.
+- **Microsoft İş Ortağı Merkezi Çözümleri:** Ortak satışa hazır çözümleri veya Microsoft çözümlerini fırsatla ilişkilendirmek için özel bir nesne. Fırsatta bir veya daha fazla çözüm eklenebilir veya kaldırılabilir. Microsoft ile paylaşmadan önce fırsata en az bir ortak satış veya Microsoft çözümü eklemek zorunludur. Bu nesneyi fırsatla ilişkilendirmek için CRM 'de **fırsat** formunu güncelleştirin.
 
   **Fırsat** formunda uygun sekmesini seçin ve burada gösterildiği gibi bir alt ızgara ekleyin.
 
@@ -219,7 +230,7 @@ Aşağıdaki özel alanlar CRM bölümünün bir parçası olmalıdır:
 
   :::image type="content" source="images/cosellconnectors/dynamics-7.png" alt-text="Microsoft çözümlerini gösteren ekran görüntüsü.":::
 
-- Microsoft çözümlerini ekledikten sonra, satıcılarınızın bunları eklemek zorunda kalmaması için ortak satış için kullanılabilir çözüm ayrıntılarını önceden girebilirsiniz. Yeni bir çözüm ayrıntısı eklemek için, CRM 'deki Microsoft çözüm ayrıntıları nesnesine gidin ve bir giriş eklemek için **kayıt Ekle** ' yi seçin veya birden çok giriş eklemek için **Excel karşıya yüklemeyi** kullanın.
+- Microsoft çözümlerini ekledikten sonra, satıcılarınızın bunları eklemek zorunda kalmaması için ortak satış için kullanılabilir çözüm ayrıntılarını önceden girebilirsiniz. yeni bir çözüm ayrıntısı eklemek için, CRM 'deki Microsoft çözüm ayrıntıları nesnesine gidin ve bir giriş eklemek için **kayıt ekle** ' yi seçin veya birden çok giriş eklemek için **Excel karşıya yükleme** ' yi kullanın.
 
   :::image type="content" source="images/cosellconnectors/dynamics-solution-1.png" alt-text="Yeni Microsoft çözüm ayrıntılarını gösteren ekran görüntüsü.":::
 
@@ -269,5 +280,5 @@ Aşağıdaki özel alanlar CRM bölümünün bir parçası olmalıdır:
 
 - [Müşteri adaylarını yönetme](manage-leads.md)
 - [Ortak satış fırsatlarını yönetme](manage-co-sell-opportunities.md)
-- [Microsoft Power otomatikleştir platformu hakkında daha fazla bilgi](/power-automate/)
+- [Microsoft Power Automate platformu hakkında daha fazla bilgi](/power-automate/)
 - [İş Ortağı Merkezi web kancaları](/partner-center/develop/partner-center-webhooks)

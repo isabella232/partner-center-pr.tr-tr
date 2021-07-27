@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 31c09817530e78620663f3b625db0e55f8924b91
-ms.sourcegitcommit: 9667763ae6eb405314dbb96bd4fa484ec964ab58
+ms.openlocfilehash: 965d655d6216cf2d50315c73afb87ff01d511238
+ms.sourcegitcommit: d133c8b923b90ac5518cb989c0ce4dd69713abf4
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/15/2021
-ms.locfileid: "114224743"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "114433886"
 ---
 # <a name="learn-about-the-microsoft-partner-agreement-mpa-for-csp-program-partners"></a>CSP programı Microsoft İş Ortağı Sözleşmesi (MPA) hakkında bilgi edinmek için
 
@@ -31,7 +31,7 @@ CSP programına katılmaya devam etmek için 31 Ocak 2020 Microsoft İş Ortağ�
 
 ## <a name="verify-your-mpn-id-is-active-and-migrated-to-partner-center"></a>MPN kimliğinizin etkin olduğunu ve İş Ortağı Merkezi
 
-1. MPN hesabını Partner Membership Center 'den (PMC) İş Ortağı Merkezi'a geçirmedıysanız, [MPN](move-pmc-pc-map.md)hesabını İş Ortağı Merkezi. Geçişi tamamladıktan sonra kalan adımları tamamlarsiniz. 
+1. MPN hesabını Partner Membership Center 'den (PMC) İş Ortağı Merkezi'a geçirmedıysanız, [MPN](./partner-membership-center-retirement-faq.md)hesabını İş Ortağı Merkezi. Geçişi tamamladıktan sonra kalan adımları tamamlarsiniz. 
 
 1. MPN hesabınız veya kimliğiniz yoksa ilk önce Microsoft İş Ortağı Ağı programına katılmalısınız. [MPN'ye katılmayı öğrenin.](mpn-create-a-partner-center-account.md)
 
@@ -58,13 +58,13 @@ CSP programına katılmaya devam etmek için 31 Ocak 2020 Microsoft İş Ortağ�
 
 1. Program bilgileri **bölümünü** kontrol edin. Bilgileriniz Dolaylı kurumsal bayi durumunu **gösterene** kadar dolaylı kurumsal [bayi olarak kaydolmanız gerekir.](indirect-reseller-tasks-in-partner-center.md)
 
-1. Dolaylı  **kurumsal bayi** durumu Etkin **ise,** etkin bir Dolaylı kurumsal bayisiniz İş Ortağı Merkezi.
+1. Dolaylı  **kurumsal bayi** durumu Etkin **ise,** etkin bir Dolaylı kurumsal bayi İş Ortağı Merkezi.
  
 4. Dolaylı **kurumsal bayi** durumu Uygun **ise,** MPA'yı kabul etmek için Panoya genel bakış'a gidin ve hesabı etkinleştirin. [](https://partner.microsoft.com/pcv/dashboard/overview)
  
-1. Dolaylı kurumsal bayi durumu Reddedildi **veya** **Reddedildi ise,** hesap doğrulamanız başarısız olmuş olur. Doğrulama [sorununun](verification-responses.md) nasıl çözüleceklerini bulmak için Doğrulama işlemi konusunu okuyun.
+1. Dolaylı kurumsal bayi durumu Reddedildi **veya** **Reddedildi ise** hesap doğrulamanız başarısız olur. Doğrulama [sorununun](verification-responses.md) nasıl çözüleceklerini bulmak için Doğrulama işlemi konusunu okuyun.
 
-1. Daha önce dolaylı İş Ortağı Merkezi kurumsal bayi olarak Microsoft İş Ortağı Sözleşmesi Genel Yönetici kimlik bilgilerini kullanarak İş Ortağı Merkezi panosuna genel bakış bilgilerini kabul edin. CsP Genel Bakış Microsoft İş Ortağı Sözleşmesi İş Ortağı [](https://partner.microsoft.com/pcv/accountsettings/partnerprofile) profili **Programı** bilgilerinden veya başlık bildiriminden, iş ortağının daha önce imzalanmış olup olduğunu onayleyebilirsiniz.
+1. Daha önce dolaylı İş Ortağı Merkezi kurumsal bayi olarak Microsoft İş Ortağı Sözleşmesi Genel Yönetici kimlik bilgilerini kullanarak İş Ortağı Merkezi panosuna genel bakış bilgilerini kabul edin. CsP Genel Bakış Microsoft İş Ortağı Sözleşmesi İş Ortağı [](https://partner.microsoft.com/pcv/accountsettings/partnerprofile) profili **Programı** bilgilerinden veya başlık bildiriminden, iş ortağının daha önce imzalı olduğunu onayleyebilirsiniz.
 
 Dolaylı sağlayıcınızla CSP ilişki isteğini kabul etme.
 
@@ -86,7 +86,7 @@ Dolaylı sağlayıcınızla CSP ilişki isteğini kabul etme.
 
 MPA'yı imzalarsanız:
 
- Şirketinizin Genel yöneticisi olarak [CSP'nize](https://partner.microsoft.com/pcv/dashboard/overview) Genel Bakış'a gidin ve MPA'yı kabul etmiş olduğunu size size haber veren yeşil başlığı görmek için kontrol edin.
+ Şirketinizin Genel yöneticisi olarak [CSP'nize](https://partner.microsoft.com/pcv/dashboard/overview) Genel Bakış'a gidin ve MPA'yı kabul etmiş olduğunu size iletir yeşil başlığı görmek için kontrol edin.
 
  
 :::image type="content" source="images/banner-boxed.png" alt-text="MPA kabulünü gösteren yeşil başlık.":::

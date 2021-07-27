@@ -9,12 +9,12 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 19b9378e3e2de0742ea6bc7d6fb96cf58bd5c3de
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: d7f37e6ea8873071d432d376a3e03f7830217690
+ms.sourcegitcommit: d133c8b923b90ac5518cb989c0ce4dd69713abf4
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112277717"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "114434175"
 ---
 # <a name="manage-your-partner-center-account---company-profile-bank-information-roles-permissions-and-more"></a>Iş Ortağı Merkezi hesabınızı, şirket profilinizi, banka bilgilerini, rolleri, izinleri ve daha fazlasını yönetin
 
@@ -22,20 +22,20 @@ ms.locfileid: "112277717"
 
 Kayıt sırasında iş e-postanız ve iş bilgileriniz olduğunda iş ortağı merkezi 'nde oluşturduğunuz hesap. Hesap oluşturduktan sonra, destek ayrıntıları, uygunsa dosya vergi muafiyetleri ve birincil iletişim bilgileri dahil olmak üzere şirketinizin tam profilini ayarlamayı tamamlayacaksınız. Şirketinizin hesabı, takımınızdaki Iş ortağı merkezini kullanacak herkes için Kullanıcı hesapları da içerir. Yapabilecekleri iş, müşteri ekleme veya yönetme, abonelik satma, faturalandırma ve faturalama ile çalışma, iş profilleri oluşturma, başvuruları yönetme, teşvikleri programlarıyla çalışma, destek sağlama ve daha fazlasını içerir.
 
-Ayrıca bkz. makalelere [çalışanları Iş ortağı merkezine katılmaya davet etme](guide-to-migration.md) ve [Yeni bir kullanıcı ekleme](create-user-accounts-and-set-permissions.md).
+Ayrıca bkz. makalelere [çalışanları Iş ortağı merkezine katılmaya davet etme](./partner-membership-center-retirement-faq.md) ve [Yeni bir kullanıcı ekleme](create-user-accounts-and-set-permissions.md).
 
 >[!NOTE]
->Hesap ayarları menüsü, kaydolduğu programlara bağlı olarak değişecektir. Örneğin, bulut çözümü sağlayıcısı programı 'nda (CSP) bir iş ortağıysanız, Azure Paylaşılan hizmetlerinizi **hesap ayarlarından** yönetebileceksiniz.
+>Hesap ayarları menüsü, kaydolduğu programlara bağlı olarak değişecektir. örneğin, Bulut Çözümü Sağlayıcısı programda (CSP) bir iş ortağıysanız, Azure paylaşılan hizmetlerinizi **hesap ayarlarından** yönetebileceksiniz.
 
 ## <a name="account-management"></a>Hesap yönetimi
 
-Tüm ticari ve geliştirici iş ortakları, Iş Ortağı Merkezi [panosunda](https://partner.microsoft.com/dashboard) oturum açarak ve ekranın sağ üst köşesindeki **Ayarlar** (dişli simgesi) ve ardından **Hesap ayarları**' nı seçerek iş ortağı merkezi 'nde **hesap yönetimine** erişir. Artık Iş ortağı ve geliştirici ayarları arasında seçim yapmanız gerekmez. Tüm profiller ve ayarlar artık birleştirilir.
+tüm ticari ve geliştirici iş ortakları, iş ortağı merkezi [panosunda](https://partner.microsoft.com/dashboard) oturum açarak ve ekranın sağ üst köşesindeki **Ayarlar** (dişli simgesi) öğesini seçip **hesap ayarları**' nı seçerek iş ortağı merkezi 'nde **hesap yönetimine** erişir. Artık Iş ortağı ve geliştirici ayarları arasında seçim yapmanız gerekmez. Tüm profiller ve ayarlar artık birleştirilir.
 
 :::image type="content" source="images/accountsettings/opening.png" alt-text="Ayarlar simgesi.":::
 
 Bu, hesap ayarları sayfasını görüntüler.
 
-:::image type="content" source="images/accountsettings/account-settings-sv.png" alt-text="Ayarlar menüsü.":::
+:::image type="content" source="images/accountsettings/account-settings-sv.png" alt-text="Ayarlar menü.":::
 
 ### <a name="locate-your-mpn-id"></a>MPN KIMLIĞINIZI bulun
 
@@ -43,7 +43,7 @@ Bu, hesap ayarları sayfasını görüntüler.
 
 ## <a name="account-settings---partners-resellers"></a>Hesap ayarları-iş ortakları, satıcılar
 
-**Ayarlar** simgesini seçtiğinizde ve **Hesap ayarları** menüsünü açtığınızda, şirketiniz bulut çözümü sağlayıcısı programının parçasıysa, varsayılan görünüm, Iki sekme, **Iş ortağı** ve **Bayi** görüntüleyen **yasal bilgiler** olur. Her sekme, işletmenizin yönlerini içerir.
+**Ayarlar** simgesini seçtiğinizde ve **hesap ayarları** menüsünü açtığınızda, şirketiniz Bulut Çözümü Sağlayıcısı programın bir parçasıysa, bu, iki sekme, **iş ortağı** ve **bayi** görüntüleyen **yasal bilgiler** olur. Her sekme, işletmenizin yönlerini içerir.
 
 :::image type="content" source="images/accountsettings/reseller.png" alt-text="Menü, Iş ortakları ve satıcılar için sekmeleri gösterir.":::
 
@@ -93,7 +93,7 @@ Bu sayfa, Azure AD kiracılarınız ile ticari ve geliştirici hakkında tüm bi
 
 ### <a name="identifiers"></a>Tanımlayıcılar
 
-Bu sayfa, şirketinizin Iş Ortağı Merkezi kimliklerini içerir: MPN kimlikleri, yayımcı kimlikleri, Windows Publisher kimlikleri ve daha fazlası.  Her bir alan genişletilebilir ve düzenlenebilir, örneğin, yayımlama işinizle ilgili birincil kişi kolayca bulunur.
+bu sayfa, şirketinizin iş ortağı merkezi kimliklerini içerir: mpn kimlikleri, yayımcı kimlikleri, Windows yayımcı kimlikleri ve daha fazlası.  Her bir alan genişletilebilir ve düzenlenebilir, örneğin, yayımlama işinizle ilgili birincil kişi kolayca bulunur.
 
 ### <a name="company-profile"></a>Şirket profili
 
@@ -120,7 +120,7 @@ Tercih edilen e-postanızı Iş Ortağı Merkezi bildirimlerini alacak şekilde 
 
 ### <a name="find-your-user-role"></a>Kullanıcı rolünüzü bulun
 
-1. **Ayarlar** ' a gidin ve **profilimi** seçin.
+1. **Ayarlar** gidin ve **profilimi** seçin.
 
 1. **Ayrıntılar** sayfasında, kişisel bilgilerinizi, çalışmanız ve öğrenimi, sınavlar ve sertifika verileriniz ile ilgili olarak görürsünüz.
 
@@ -158,7 +158,7 @@ Belirli programlara kaydolma hakkında İş Ortağı Merkezi için aşağıdaki 
 - [İş ortağı profilinizi güncelleştirme](update-your-partner-profile.md)
 - [Kullanıcı hesapları oluşturma ve izinleri ayarlama](create-user-accounts-and-set-permissions.md)
 - [Kullanıcı rollerini ve izinlerini atama](permissions-overview.md)
-- [MPN hesaplarınızı yönetme: Konumlar](manage-locations.md)
+- [MPN hesabını yönetme: Konumlar](manage-locations.md)
 - [Kullanıcı parolasını sıfırlama](reset-a-user-password.md)
 - [API: İş ortağı yasal iş profilini edinin](/partner-center/develop/get-legal-business-profile)
 - [Ticari markette teklifleri ve İş Ortağı Merkezi keşfedin](csp-commercial-marketplace-discover.md)

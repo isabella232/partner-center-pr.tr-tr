@@ -1,20 +1,20 @@
 ---
 title: Bulut Çözümü Sağlayıcısı programına kaydolma
 ms.topic: how-to
-ms.date: 05/10/2021
+ms.date: 07/19/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Bulut çözümü sağlayıcısı (CSP) için en iyisi olan, dolaylı satıcı veya doğrudan fatura iş ortağı gibi bulut çözümü sağlayıcısı (CSP) program satış modelinde nasıl kayıt yapılacağını öğrenin.
+description: işletmeniz için en uygun Bulut Çözümü Sağlayıcısı (CSP) program satışı modeline (dolaylı satıcı veya doğrudan fatura ortağı gibi) nasıl kaydolacağınızı öğrenin.
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0e5128b8b97a22c9bcbab669d10df47fe921782a
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 6d2bf3f99687830392d939be99ad34999abc1903
+ms.sourcegitcommit: d133c8b923b90ac5518cb989c0ce4dd69713abf4
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110147029"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "114433920"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>Bulut Çözümü Sağlayıcısı programına kaydolma
 
@@ -22,52 +22,55 @@ ms.locfileid: "110147029"
 
 ## <a name="get-started"></a>başlarken
 
-Bulut tabanlı çözümler ve hizmetler için hızla büyüyen talepler, her boyuttaki Microsoft iş ortakları için, karlı bulut çözümü işletmeleri oluşturmaya yönelik birçok fırsat sağlar. Pazara girmeye, ancak birden çok satıcıyı yönetmek zorunda olan veya uçtan uca bir müşteri ilişkisi yönetim altyapısına sahip olmayan iş ortakları, Microsoft 'un bulut çözümü sağlayıcısı (CSP) programına dolaylı satıcılar olarak kaydedilebilir.
+Bulut tabanlı çözümler ve hizmetler için hızla büyüyen talepler, her boyuttaki Microsoft iş ortakları için, karlı bulut çözümü işletmeleri oluşturmaya yönelik birçok fırsat sağlar. pazara girmeye, ancak birden çok satıcıyı yönetmek zorunda olan veya uçtan uca bir müşteri ilişkisi yönetim altyapısına sahip olmayan iş ortakları, Microsoft 'un Bulut Çözümü Sağlayıcısı (CSP) programını dolaylı satıcılar olarak kaydedebilir.
 
-Bulut çözümü sağlayıcısı programına kaydolmak için önce bir MPN KIMLIĞI gerekir. Henüz bir tane yok mu? [Buraya](https://partner.microsoft.com/)katılarak.
+Bulut Çözümü Sağlayıcısı programa kaydolmak için önce bir mpn kimliği gerekir. Henüz bir tane yok mu? [Buraya](https://partner.microsoft.com/)katılarak.
 
 CSP uygulamasını tamamlayabilmeniz için şirketinizin MPN KIMLIĞI, tamamlanmış iş adresi, banka bilgileri ve iş için iş e-postasına, iş ortağı Merkezi için yönetici olarak davranacak şekilde ihtiyacınız olacak.
 
 1. İş e-postalarınız (Azure AD Kiracı kimlik bilgileriniz) ile Partner Center 'da oturum açın.
 
-2. İş ortağı profilinizi oluşturun ve MPN KIMLIĞINIZI profilinizle ilişkilendirin.
-Sağladığınız bilgileri gözden geçirip doğrulayabilmeniz birkaç gün sürebilir. İnceleme yaptığımız tamamlandığında size e-posta göndereceğiz.
+2. İş ortağı profilinizi oluşturun. Şirket Profilinizi arayabilir veya şirket bilgilerini el ile girebilirsiniz. Şirketiniz [Dun & Bradstreet](https://partner.microsoft.com/marketing/usisvshowcase/dunandbrad)ile kayıtlıysa, şirket bilgilerinizi aramak için DLııD kimliğini kullanın. Şirket ayrıntılarınızı kendiniz sağlamak istiyorsanız  **El Ile gir**' i seçin.
 
-3. Bilgilerinizi doğruladıktan sonra, Microsoft dolaylı satıcı koşulları sözleşmesini kabul edin.
+    Bazı ülkelerde, adresinizi el ile girdiğinizde adresinizi doğrulayacağız. Girdiğiniz adres doğrulanan bir kaynaktan farklıysa, doğrulanan adresi kullanmanızı öneririz. Bu, adresin öğelerinin, ülkenin posta yetkilisi tarafından tanımlanan, doğru şekilde biçimlendirilen ve sevkedilebilir şekilde standartlaştırılmış olmasını sağlar.
+
+3. MPN KIMLIĞINIZI profiliniz ile ilişkilendirin. Doğrulama sırasında sizden ek belgeler isteyebilir veya bir soru formunu doldurmanız istenebilir. Sağladığınız bilgileri gözden geçirip doğrulayabilmeniz birkaç gün sürebilir. İnceleme yaptığımız tamamlandığında size e-posta göndereceğiz.
+
+4. Bilgilerinizi doğruladıktan sonra, Microsoft dolaylı satıcı koşulları sözleşmesini kabul edin.
 
 > [!IMPORTANT]  
 > CSP programındaki bir iş ortağı, şu anda CSP programındaki başka bir ortağa çevrimiçi hizmetler yeniden satıtamaz. Bu kısıtlama yalnızca CSP işlemleri yürütmek için kullanılan kiracı için geçerlidir. Şirket kullanımı için CSP olmayan bir kiracı kullanan CSP iş ortakları, başka bir CSP ortağından çevrimiçi hizmetler satın alabilir. Microsoft, tüm programların ilkelerini ve yeteneklerini sürekli olarak inceler. Özellik sürümleri veya ilke değişiklikleri hakkındaki tüm haberler, [Iş Ortağı Merkezi duyuruları](announcements/index.md)dahil olmak üzere olağan iletişim kanalları aracılığıyla duyurulacaktır.
 
 ## <a name="enroll-as-an-indirect-reseller"></a>Dolaylı satıcı olarak kaydetme
 
-CSP programına dolaylı kurumsal bayi olarak kaydolduysanız ürünleri doğrudan Microsoft'tan satın almaz veya doğrudan Microsoft tarafından faturalandırılması mümkün olmayacaktır. Bunun yerine, doğrudan Microsoft ile işlem yapan dolaylı sağlayıcılarla (dağıtımcı olarak da bilinir) çalışacaktır.
+CSP programını dolaylı bir satıcı olarak kaydediyorsanız doğrudan Microsoft tarafından doğrudan veya faturalandırılmayan ürünleri satın almazsınız. Bunun yerine, doğrudan Microsoft ile Transact ve dolaylı sağlayıcılar (dağıtıcılar olarak da bilinir) ile çalışırsınız.
 
-Dolaylı sağlayıcıyla iş ortağı olmak, pazara gitmek veya doğrudan Microsoft'tan satın almak için altyapıya sahip olmak zorunda olmadığınız, bunun yerine başarılı olunması için deneyimli bir teknoloji sağlayıcısıyla çalışabilirsiniz. Sağlayıcı-kurumsal bayi modelinde sağlayıcı, Microsoft'tan bulut çözümleri ve hizmetleri satın alır ve ürünleri dağıtmak ve hizmet etmek için size bağlıdır.
+Dolaylı bir sağlayıcı ile ortaklık sağlamak, bir altyapıyı pazara gitmeniz veya doğrudan Microsoft 'tan satın almanız gerekmez, ancak bunun yerine başarınızın sağlanmasına yardımcı olması için deneyimli bir teknoloji sağlayıcısıyla birlikte çalışabilir. Sağlayıcı-satıcı modelinde sağlayıcı, Microsoft 'tan bulut çözümlerini ve hizmetlerini satın alır ve ürünleri dağıtıp hizmet vermek için size dayanır.
 
-Farklı dolaylı sağlayıcılar farklı destek ve hizmetler sunar, bu nedenle alanınıza gelen sağlayıcıları değerlendirerek hangilerinin ihtiyaçlarına en uygun olduğunu belirlemeniz gerekir. Genellikle çoğu sağlayıcı şunları sağlar:
+Farklı dolaylı sağlayıcılar farklı destek ve hizmetler sunmaktadır. bu nedenle, gereksinimlerinizi en iyi şekilde karşılayan Hizmetleri öğrenmek için bölgenizdeki sağlayıcıları değerlendirmelisiniz. Genellikle, çoğu sağlayıcı şunları olur:
 
-- Teknik eğitim ve yardım sağlama
+- Size teknik eğitim ve yardım sağlama
 
-- Ürün ve hizmetlerinizi pazara sunarken size yardımcı olur
+- Ürün ve hizmetlerinizi pazarlamanıza yardımcı olun
 
-- Para ve kredi koşullarını kurmanıza yardımcı olur
+- Finans ve kredi koşulları sağlamanıza yardımcı olun
 
-Henüz bir sağlayıcıyla (dağıtımcı olarak da bilinir) çalışmıyorsanız, resmi [Microsoft](https://partnercenter.microsoft.com/partner/find-a-provider) sağlayıcıları listesinde arama gerçekleştirebilirsiniz.
+Zaten bir sağlayıcı (dağıtımcı olarak da bilinir) ile çalışmıyorsanız, [Resmi Microsoft sağlayıcıları listesinde](https://partnercenter.microsoft.com/partner/find-a-provider) bir tane bulmak için arama yapabilirsiniz.
 
-CSP programına dolaylı kurumsal bayi olarak katılmak için gerekenler hakkında [](https://partner.microsoft.com/cloud-solution-provider/whats-required) daha fazla bilgi için Kullanmaya başlayın web sitesinde dolaylı kurumsal bayi [olarak Microsoft İş Ortağı Ağı bakın.](https://partner.microsoft.com/)
+CSP programına dolaylı bir satıcı olarak katılması gereken özellikler hakkında daha fazla bilgi için, [Microsoft iş ortağı ağı Web sitesinde](https://partner.microsoft.com/) [dolaylı bir satıcı olarak kullanmaya başlama](https://partner.microsoft.com/cloud-solution-provider/whats-required) konusuna bakın.
 
-## <a name="enroll-as-a-direct-bill-partner"></a>Doğrudan fatura iş ortağı olarak kaydolma
+## <a name="enroll-as-a-direct-bill-partner"></a>Doğrudan fatura ortağı olarak kaydet
 
-Doğrudan fatura iş ortağı olarak, müşteriniz ve Microsoft ile uzlas araklı bir ilişkiye sahip oluruz. 27 Ekim 2020'den beri doğrudan fatura iş ortaklarının kayıt gereksinimlerini güncelleştirildi. Bu gereksinimler, doğru program modeliyle iş büyümenizi hızlandırmanıza Bulut Çözümü Sağlayıcısı ve katma değerli hizmetler ve destekle müşteri ilişkilerinizi güçlendirmenize yardımcı olur.  
+Doğrudan bir fatura ortağı olarak, müşterinizin ve Microsoft ile uçtan uca ilişkiniz vardır. 27 Ekim 2020 itibariyle doğrudan fatura ortakları için kayıt gereksinimlerini güncelleştirdik. bu gereksinimler, doğru Bulut Çözümü Sağlayıcısı program modeliyle işletmenizin büyümesini hızlandırmanıza ve müşteri ilişkilerinizi katma değerli hizmetler ve destekle güçlendirietmenize yardımcı olur.  
 
 ### <a name="minimum-requirements"></a>Minimum gereksinimler
 
 |**Gereksinim**|  **Açıklama**  |
 |--------------------------------|--------------------------------------------------------------|
-|**MPN Kimliği**   |Satış yapmak istediğiniz konum Microsoft İş Ortağı Ağı MPN Kimliği'ne sahip etkin bir üyelik.    |
-|**Onay anahtarı**   |Kuruluş adına yasal anlaşmaları kabul etme ve imzalama yetkisi.|
+|**MPN Kimliği**   |Microsoft İş Ortağı Ağı ve MPN KIMLIĞINDE, satmak istediğiniz konum için etkin bir üyelik.    |
+|**Onay anahtarı**   |Kuruluşunuz adına yasal sözleşmeleri kabul etme ve imzalama yetkisi.|
 |**Destek**   |Müşterilerinize bulut ürün desteğinin ilk düzeyini sağlama özelliği. <br>Gereksinimlerinize bağlı olarak Iş ortakları için gelişmiş destek (ASfP) veya Iş ortakları için Premier Destek (PSfP) için bir Microsoft destek planı. [Destek planlarını karşılaştırın](https://partner.microsoft.com/support/partnersupport).<br> ÖNEMLI: bir destek planı satın almadan önce bir kredi denetimi geçirmeniz gerekir. Kredi denetimini geçtiğinde size e-posta göndereceğiz. |
-|**Gelir gereksinimi**|, Önceki 12 ay boyunca dolaylı satıcı olarak en az USD300K bulut çözüm sağlayıcısı programı yıllık geliri ile Buluşmalıdır. İş ortakları, izleyen 12 aylık geliri Iş Ortağı Merkezi 'nde gözden geçirebilir.<br/>USD300K sondaki 12 aylık geliri oluşturan Sales, Microsoft tarafından incelenmek ve doğrulanarak Microsoft tarafından incelenmek ve daha fazla bilgi sağlamanız istenebilir. USD300K gelir gereksinimi, bulut gelirine göre hesaplanır ve CSP 'de kalıcı yazılımları hariç bırakır.|
+|**Gelir gereksinimi**|dolaylı satıcı olarak önceki 12 ay boyunca Bulut Çözümü Sağlayıcısı program yıllık gelirinin en az USD300K karşılaması gerekir. İş ortakları, izleyen 12 aylık geliri Iş Ortağı Merkezi 'nde gözden geçirebilir.<br/>USD300K sondaki 12 aylık geliri oluşturan Sales, Microsoft tarafından incelenmek ve doğrulanarak Microsoft tarafından incelenmek ve daha fazla bilgi sağlamanız istenebilir. USD300K gelir gereksinimi, bulut gelirine göre hesaplanır ve CSP 'de kalıcı yazılımları hariç bırakır.|
 |**Alacak hesaplar** |Müşteri faturalandırma ve sağlamayı yönetmek için yer aldığı kurumsal altyapı.|
 |**Öneri**|             |
 |**Yönetilen hizmet**   |En az bir yönetilen hizmet, IP hizmeti veya müşteri çözümü uygulaması. [Yönetilen hizmetler](https://partner.microsoft.com/business-opportunities/managed-services-provider)ekleme hakkında daha fazla bilgi edinin.|
@@ -78,22 +81,22 @@ Doğrudan fatura ortağı olarak kaydolmak için minimum gereksinimleri karşıl
 
 Şirketinizin doğrudan bir fatura ortağı olarak kaydedilmesi için uygunluk gereksinimlerini karşıladığını doğruladıktan sonra ve kayıt uygulamasını tamamladıktan sonra, kayıt sürecinde sağladığınız iş bilgilerini gözden geçireceğiz ve doğrulayacağız. Bu incelemenin bir parçası olarak şirketinizin krediyi denetliyoruz. Şirketiniz kredi denetimini geçtiğinde size e-posta ile bilgi vereceğiz.
 >[!IMPORTANT]
->Şirketinizin kredilerini kontrol etmek birkaç gün veya daha uzun sürebilir. Bu süre boyunca bir Microsoft destek planı satın almamanız önemlidir. Bir Microsoft destek planı satın alalı ancak kredi çeklerini aldığınızı size bildirdikten sonra satın alalız.
+>Şirketinizin kredinizin denetlenmesi birkaç gün veya daha fazla sürebilir. Bu süre boyunca, bir Microsoft destek planı satın almanız önemlidir. Yalnızca kredi denetimini geçirdiğimiz hakkında bilgi sahibi olduktan sonra bir Microsoft destek planı satın almanız gerekir.
 
-### <a name="transition-from-direct-bill-to-indirect-reseller"></a>Doğrudan faturadan dolaylı kurumsal bayiye geçiş
+### <a name="transition-from-direct-bill-to-indirect-reseller"></a>Doğrudan faturanızda dolaylı satıcıya geçiş
 
-CSP programı gelişmeye ve büyümeye devam ettikçe, doğrudan fatura iş ortağı yerine dolaylı kurumsal bayi olarak katılmayı tercih edersiniz. Doğrudan fatura kiracınızı doğrudan kurumsal bayi modeline İş Ortağı Merkezi.
+CSP programı gelişmeye ve büyümeye devam ettiğinden, doğrudan fatura ortağı yerine dolaylı bir satıcı olarak katılmayı tercih edebilirsiniz. Doğrudan fatura kiracınızı Iş Ortağı Merkezi 'nde dolaylı satıcı modeline taşıyabilirsiniz.
 
-Doğrudan fatura iş Bulut Çözümü Sağlayıcısı dolaylı kurumsal bayiye geçiş hakkında bilgi için bkz. Bulut Çözümü Sağlayıcısı [(CSP)](transition-direct-to-indirect.md) doğrudan fatura iş ortağından CSP dolaylı kurumsal bayiye geçiş.
+doğrudan fatura ortağından dolaylı bir satıcıya geçiş hakkında bilgi için bkz. [Bulut Çözümü Sağlayıcısı (CSP) doğrudan fatura ortağınızdan csp dolaylı satıcısına geçiş](transition-direct-to-indirect.md) .
 
-## <a name="csp-regional-markets-and-currencies"></a>CSP bölgesel pazarları ve para birimleri
+## <a name="csp-regional-markets-and-currencies"></a>CSP bölgesel pazarlar ve para birimleri
 
-Pazarınızı belirleyen şirketinizin konumudur. Pazarınız, CSP tekliflerini satabileceğiniz bölgeleri ve/veya ülkeleri kapsar. Pazar Bulut Çözümü Sağlayıcısı para birimleri için bölgesel [pazarları ve](regional-authorization-overview.md) para birimlerini programla birlikte görme.
-CSP işletmesi [için yeni bir konum eklemek amacıyla Önkoşullar'a okuduğundan emin olun.](manage-locations.md)
+Pazarınızı belirleyen şirketinizin konumudur. Pazarınız, CSP tekliflerini satabileceğiniz bölgeleri ve/veya ülkeleri kapsar. bkz. [Bulut Çözümü Sağlayıcısı program bölgesel pazarlar ve](regional-authorization-overview.md) piyasa konumları ve para birimleri için para birimleri.
+[CSP iş için yeni bir konum eklemek üzere önkoşulları](manage-locations.md)okuduğunuzdan emin olun.
 
-## <a name="provide-partner-registration-id-number-for-specific-countries"></a>Belirli ülkeler için iş ortağı kayıt kimliği numarasını girin
+## <a name="provide-partner-registration-id-number-for-specific-countries"></a>Belirli ülkeler için iş ortağı kayıt KIMLIĞI numarasını girin
 
-Dolaylı sağlayıcı, Doğrudan fatura iş ortağı veya Dolaylı kurumsal bayiysiniz ve aşağıdaki ülkelerdeki yeni veya mevcut müşterilerle iş yapıyorsanız işletmeniz için kayıt kimliği numaralarını sağlayabilirsiniz. İş yapmakta olduğu ülke aşağıda listelenmiyorsa kayıt kimliği isteğe bağlıdır.
+Dolaylı bir Sağlayıcıysanız, doğrudan faturanız veya dolaylı satıcısıysanız ve aşağıdaki ülkelerde yeni veya mevcut müşterilerle iş yapıyorsanız, işletmeniz için kayıt KIMLIĞI numaraları sağlamanız gerekir. İş yapmakta olduğunuz ülke aşağıda listelenmiyorsa kayıt KIMLIĞI isteğe bağlıdır.
 
 - Ermenistan 
 - Azerbaycan 
@@ -121,8 +124,8 @@ Dolaylı sağlayıcı, Doğrudan fatura iş ortağı veya Dolaylı kurumsal bayi
 - Vietnam 
 
 
-Daha fazla bilgi için Kayıt [Kimliği numarası bilgilerini okuyun](reg-number-id.md)
+Daha fazla bilgi için [kayıt kimliği numarası bilgilerini](reg-number-id.md) okuyun
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-[CSP programı Microsoft İş Ortağı Sözleşmesi (MPA) hakkında bilgi edinmek için](microsoft-partner-agreement.md)
+[CSP program iş ortakları için Microsoft Iş ortağı Sözleşmesi (MPA) hakkında bilgi edinin](microsoft-partner-agreement.md)

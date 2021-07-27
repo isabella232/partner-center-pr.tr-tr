@@ -1,82 +1,108 @@
 ---
-title: Yönetilen hizmetler için iş ortağı tarafından kazanılan kredi
+title: Yönetilen hizmetler için iş ortağı kazanılmış kredisi
 ms.topic: article
-ms.date: 12/16/2020
+ms.date: 07/22/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Yönetilen hizmetler için Microsoft iş ortağı tarafından kazanılan kredinin (PEC) nasıl hesaplanmış ve ücretli olduğunu ve uygun olduğundan emin olun.
+description: Yönetilen hizmetler için Microsoft iş ortağı kredisi (PEC) nasıl hesaplanacağını ve ödendiğini ve uygun şekilde nasıl emin olduğunuzu öğrenin.
 author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ba422a2feae2affb9c2b60ad345c4d6bb0d525c7
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: b6574f7eaec230c9808564bedda4a5d3809b8aa4
+ms.sourcegitcommit: d133c8b923b90ac5518cb989c0ce4dd69713abf4
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110145873"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "114434158"
 ---
 # <a name="how-the-partner-earned-credit-is-calculated-and-paid"></a>İş ortağı kazanılmış kredisinin hesaplanması ve ödenmesi
 
-**Uygun roller:** Genel yönetici | Kullanıcı yönetimi yönetici | Yönetici aracısı | Faturalama yöneticisi | Satış aracısı
+**Uygun roller**: genel yönetici | Kullanıcı Yönetimi Yöneticisi | Yönetici Aracısı | Faturalandırma Yöneticisi | Satış Aracısı
 
-Yönetilen hizmetler (PEC) için iş ortağı tarafından kazanılan kredi, müşterilerinin Azure ortamının tamamını veya parçalarının 7x24 IT operasyonel denetimine ve yönetimine sahip olan iş ortaklarını tanır ve ödüllendirir. CSP'de varsayılan olarak, iş ortaklarına müşterinin aboneliğinde gerekli erişim hakları ve ardından abonelikte 7/24 operasyonel yönetim ve denetim gerçekleştirmelerine olanak sağlar. Müşterilerin işlem ortakları için erişim sağlamanın diğer yolları aşağıdaki bölümde açıklanmıştır. Aylık fatura tutarı, iş ortağı tarafından kazanılan kredinin net tutarıdır. İş ortakları, aylık mutabakat dosyasında PEC ayrıntılarını görebilir. Müşterinin işlem ortağına erişim sağlamanın diğer yolları için Azure planı altındaki Abonelikleri [ve kaynakları yönetme makalelerini okuyun.](azure-plan-manage.md)
+Yönetilen hizmetler için iş ortağı kazanılmış kredisi (PEC), müşterilerin Azure ortamının bir kısmını veya tümünü, BT tarafından işletimsel denetim ve yönetimine sahip olan ortakları tanır ve depolar. 
 
-Ayrıca [abonelikler için yönetici ayrıcalıklarını yeniden Azure CSP okuyun](revoke-reinstate-csp.md)
+Varsayılan olarak, bir CSP iş ortağı olarak, müşterinizin aboneliğine gerekli erişim hakları vermiş olursunuz ve bu, abonelik üzerindeki kaynakların işletimsel yönetimini ve denetimini gerçekleştirmenize olanak tanır. Müşterilerin deneyimidir iş ortakları için erişim sağlayabildiği diğer yollar aşağıdaki bölümde açıklanmıştır.
 
-## <a name="eligibility"></a>Uygunluk
+Aylık fatura miktarı, iş ortağının kazanılan kredisinin bir ağı olur. , Aylık keşfi dosyanızda PEC ayrıntılarını görebilirsiniz. Müşterinin deneyimidir iş ortağı için erişim sağlayabildiği ek yollar için aşağıdaki makalelere bakın:
 
-İş ortağı tarafından kazanılan krediyi (PEC) almak için aşağıdaki gereksinimler geçerlidir: 
+- [Azure planı kapsamındaki abonelikleri ve kaynakları yönetme](azure-plan-manage.md)
+- [Azure CSP abonelikleri için yönetici ayrıcalıklarını yeniden devreye sokma](/revoke-reinstate-csp.md)
 
-- Yönetmekte olduğu Azure varlıkları için kazanılan krediyi almak için etkin bir MPN sözleşmeniz ve geçerli rol tabanlı erişim denetimi (RBAC) rolünüz olmalıdır.
+## <a name="eligibility"></a>Önceliği
 
-- CSP'de müşterinin Azure kaynaklarının 7x24 operasyonel denetimine ve yönetimine sahip olmak gerekir. Bu, müşterinin Azure aboneliği, Azure kaynak grubu ve Azure kaynağı üzerinde yönetici ayrıcalıklarına sahip olmanız gerektiğini gösterir. Dolaylı sağlayıcılar ve dolaylı kurumsal bayileri durumunda, dolaylı sağlayıcı veya dolaylı kurumsal bayi ya da her ikisi de bu işlem denetimine sahipse dolaylı sağlayıcı PEC için uygun olur. Bu konuda daha fazla bilgi edinmek için [bkz. Abonelikler için yönetici ayrıcalıklarını Azure CSP.](./revoke-reinstate-csp.md)
+Ortağın kazanılmış kredisi (PEC) almak için aşağıdaki gereksinimler geçerlidir:
 
-- PEC, yukarıdaki gereksinimlere ek olarak yalnızca Azure plan [fiyatlandırma](https://partner.microsoft.com/commerce/sales) sayfasından dışarı aktarmak için Azure plan tüketim fiyatlandırması 'nda listelenen hizmetlere uygulanabilir.
-
-- PEC, aşağıdaki hizmetler için geçerli **değildir** :
+- Etkin bir MPN sözleşmenize ve geçerli rol tabanlı [erişim denetimi](azure-roles-perms-pec.md) [(RBAC)](/azure/role-based-access-control/overview) rolüne sahip olmanız gerekir.
+- Müşterinin Azure aboneliğinde, Azure Kaynak grubunda veya Azure kaynağında veya geçerli bir [RBAC rolünde](azure-roles-perms-pec.md) [adına yönetici (Aobo)](https://channel9.msdn.com/Series/cspdev/Module-11-Admin-On-Behalf-Of-AOBO) ayrıcalıklarına sahip olmanız gerekir.
+- Dolaylı sağlayıcılar ve dolaylı satıcılarında, dolaylı sağlayıcı veya dolaylı satıcı veya her ikisinin de AOBO ayrıcalıklarına veya uygun bir RBAC rolüne sahip olması durumunda, bir dolaylı sağlayıcı PEC 'e uygundur. Daha fazla bilgi için bkz. [Azure CSP abonelikleri için yeniden devreye sokma yönetici ayrıcalıkları](revoke-reinstate-csp.md).
+- İş ortağı MPN KIMLIĞI, Satınalmacı MPN KIMLIĞI veya kayıt Iş ortağı (POR) MPN KIMLIĞI ile aynı v-org 'a ait olmalıdır. Daha fazla bilgi için bkz. [İş ortağı kimliğinizi, temsilci atanan kaynaklardaki etkinizi izleyecek şekilde bağlama](/azure/lighthouse/how-to/partner-earned-credit).
+- PEC, Azure Kaynak düzeyinde, kaynak grubunda veya abonelikte kazanıldır. Bir iş ortağı, abonelik veya kaynak grubu düzeyinde geçerli erişime sahipse, daha yüksek varlığa kaydolan her kaynak PEC 'e kazanacaktır.
+- PEC, aşağıdaki hizmetler için geçerli değildir:
     - Azure plan ayırmaları
     - Azure plan tüketim fiyatının Etiketler sütununda üçüncü taraf olarak tanımlanan üçüncü taraf ürünleri
     - Market fiyat listesindeki ürünler
     - [Azure spot sanal makineleri](https://partner.microsoft.com/resources/collection/azure-spot-in-csp#/)
 
-- PEC, Azure Kaynak düzeyine kadar kazanılmakta. Abonelik veya kaynak grubu düzeyinde geçerli erişiminiz varsa, daha yüksek varlığa kaydolan her kaynak PEC 'e kazanacaktır.
+PEC, yukarıdaki gereksinimlere ek olarak yalnızca Azure plan tüketim fiyatlandırması 'nda listelenen hizmetlere uygulanabilir. Bunu [Azure plan fiyatlandırma](https://partner.microsoft.com/commerce/sales) sayfasından görüntüleyebilir ve dışarı aktarabilirsiniz.
 
-- PEC ile ilgili ayrıntılar için [Azure maliyet yönetimi](/azure/cost-management-billing/costs/get-started-partners) sayfasından da ulaşılabilir.
+PEC hakkında daha fazla bilgi için bkz. [Azure maliyet yönetimi](/azure/cost-management-billing/costs/get-started-partners) sayfası.
 
-### <a name="calculation"></a>Hesaplama
+Uygunluk hakkında daha fazla bilgi için bkz. [iş ortağı kazanılmış krediyi kazanmak için gereken roller ve izinler](azure-roles-perms-pec.md).
 
-PEC günlük olarak hesaplanır ve günlük kullanım dosyasında ve aylık fatura keşfi dosyasında görüntülenebilir. Bir iş ortağı (dolaylı sağlayıcı veya dolaylı satıcı), PEC kazanıdıklarından emin olmak için tüm gün (7/24) erişimi olmalıdır. PEC, yönetilen Azure varlıklarının her gün temelinde hesaplanır. İş ortakları ayda kalıcı ayrıcalıklı erişimi (erişim kapsamı) ve tüm uygun kaynakların (erişim kapsamı) tam PEC kazanmasına sahip olur. Kapsam ve yayılma azaltma, ay için daha düşük PEC oranına neden olur. Günlük olarak derecelendirilen kullanım dosyası, PEC 'in uygulanıp uygulanmadığı bir Azure varlığı üzerinde günlük olarak gösterilir. İş ortakları, kalıcı ayrıcalıklı erişimdeki değişiklikleri izlemek için uyarılara de kaydolabilir.
+## <a name="calculation"></a>Hesaplama
 
-## <a name="azure-cost-management"></a>Azure Maliyet Yönetimi
+PEC, günlük olarak hesaplanır. Her bir abonelik için uygun şekilde erişim sahibi olduğunuz her gün için ücret ödemiştir. PEC ayrıntıları aylık faturanızda görünmese de, PEC kazancı faturada ayarlanan net ücretler satırına doğru şekilde bölünmüştür. [Günlük kullanım dosyasında](daily-rated-usage-recon-files.md) ve aylık fatura keşfi dosyasında daha fazla PEC ayrıntısı bulabilirsiniz.
 
-Maliyet analizini kullanan Azure maliyet yönetimi (ACM), PEC 'in avantajını almış olan maliyetleri görüntülemek için bir iş ortağı olarak size olanak sağlar.  
+Aşağıdaki tabloda, aylık fatura keşfi dosyasında bulunan PEC öğeleri açıklanmaktadır. Tüm değerler, AI, PricingCurrency sütununda gösterildiği gibi ABD doları cinsindendir.
 
-1. [Azure Portal](https://portal.azure.com), iş ortağı kiracınızda oturum açın ve **maliyet yönetimi + faturalandırma**' i seçin.
+| Sütun  | Açıklama  |
+| --------  | -------  |
+| Sütun C  | CustomerName  |
+| Sütun P | UnitPrice |
+| Sütun AD | Efekt. Bu, PEC uygulandıktan ve gereksinimlerin karşılandıktan sonraki fiyatıdır. PEC uygulandığında, AD sütunundaki efekt değeri, P sütunundaki UnitPrice değerinden küçük bir yüzde olduğunu görürsünüz.   |
+| Sütun V  | PriceAdjustmentDescription. PEC için bir gereksinim karşılanmazsa veya BirimFiyat 'a uygulanacak PEC 'e sahip değilse bu boş olur. Ancak, ek krediler için uygun olabilirsiniz. Varsa, bu sütunda listelenecektir. Örnek: %100 katman 1 Indirim.   |
 
-2. **Maliyet yönetimi** Seç
+PEC erişimini izlemek için:
 
-3. **Maliyet analizini** seçin
+- **Günlük derecelendirildi kullanım dosyası** , her gün PEC 'in uygulandığını (veya değil) gösterir
 
-   Maliyet Analizi görünümü, Microsoft'un ödemesi yapılan fiyatlarla satın alınan ve tüketilen tüm hizmetler için ödeme hesabınız için maliyetleri görüntüler.
+- [**Azure izleyici uyarıları**](azure-plan-manage.md) kalıcı ayrıcalıklı erişimdeki değişiklikleri izler.
 
-4. PEC uygulanmış maliyetleri görmek için özet grafiğin açılan listesinde **PartnerEarnedCreditApplied** öğesini seçin. **PartnerEarnedCreditApplied** özelliği True olduğunda ilişkili maliyet, iş ortağı tarafından kazanılan kredinin avantajına sahip olur. 
+## <a name="partner-earned-credit-api"></a>İş ortağı kazanılmış kredi API 'SI
 
-   PartnerEarnedCreditApplied özelliği False olduğunda, ilişkili maliyet kredi için gerekli uygunluğu karşılamamış veya satın alınan hizmet iş ortağı tarafından kazanılan kredi için uygun değildir.
+PEC API 'SI, Azure API araç takımının bir parçası olarak kullanılabilir. PowerShell ve CLı API 'Leri hakkında bilgi için bkz. [Azure hesabını bir iş ortağı kimliğine bağlama](/azure/cost-management-billing/manage/link-partner-id).
 
-   >[!NOTE] 
-   >Genellikle, hizmetlerin kullanımının Maliyet Yönetimi'ne görünmesi  8-24 saat sürer ve PEC kredilerinin erişimden itibaren 48 saat içinde Azure Maliyet Yönetimi.
+## <a name="azure-cost-management-and-pec"></a>Azure maliyet yönetimi ve PEC
 
-5. PEC'e ve PEC uygulanmamış maliyetlere detaya gitme için  Grupla ve Filtre özellikleri ekle'yi kullanarak **PartnerEarnedCreditApplied** özelliğine göre de gruplandırabilirsiniz.
+Maliyet analizini kullanan Azure maliyet yönetimi (ACM), PEC 'in avantajını almış olan maliyetleri görüntülemek için bir iş ortağı olarak size olanak sağlar. ACM üzerinde ayrıntılı bir sunum için [mayıs 2021 CSP Spotlight çağrısına](https://commercial_licensing.eventbuilder.com/2021MayCSPSpotlight)bakın.
+
+## <a name="use-acm-to-view-your-partner-earned-credit"></a>İş ortağınızın kazanılmış krediyi görüntülemek için ACM kullanın
+
+1. [Azure Portal](https://portal.azure.com/), iş ortağı kiracınızda oturum açın ve **maliyet yönetimi + faturalandırma**' i seçin.
+2. **Maliyet yönetimi**' ni seçin.
+3. **Maliyet analizini** seçin.
+Maliyet analizi görünümü, satın alınan ve Microsoft 'a ödediğiniz fiyatlarla tüketilen tüm hizmetler için faturalandırma hesabınızın maliyetlerini görüntüler.
+4. Özet Grafik açılan listesinde, Partnerearnedtappnda ' ı seçin. 
+
+    Bu değer **true** ise, ilişkili maliyet, ortağın kazanılan kredisi avantajına sahiptir.
+
+    Bu değer **false** ise, ilişkili maliyet kredi için gereken uygunluğu karşılanmaz veya satın alınan hizmet, ortağın kazanıldığı kredi için uygun değildir.
+
+>[!NOTE]
+>Genellikle, hizmetler için kullanım maliyet yönetiminde 8-24 saat sürer ve PEC kredileri, Azure maliyet yönetimi 'nde erişim zamanından itibaren 48 saat içinde görünür.
+
+Ayrıca, **Gruplandırma** ölçütü ve filtre özellikleri **Ekle** ' yi kullanarak iş **ortağı** tarafından da gruplandırabilirsiniz ve filtre uygulayabilirsiniz. Bu, PEC 'e sahip maliyetlerin ve PEC uygulanmamış maliyetlerin ayrıntılarına gitmenizi sağlar.
+
+## <a name="how-is-pec-paid"></a>PEC nasıl ücretli?
+PEC kazancı, faturada ayarlanan net ücretler satırına bölünmüştür. Ayarlama ayrıntıları için aylık fatura mutabakatı dosyasına ve Azure günlük derecelendirmeli kullanım dosyasına bakın.
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-- [İş ortağı tarafından kazanılan kredi - genel bakış](partner-earned-credit.md)
-
-- İş ortağı tarafından kazanılan kredi hesaplamalarının ayrıntılı örnekleri, İş Ortağı Merkezi panosu aracılığıyla ulaşabilirsiniz fiyat listesinde bulunur (oturum açma gerekir).
-
-- [Azure planına taşıma - çalışmaya başlama](azure-plan-get-started.md)
-
+- [CSP 'de Azure için yeni ticari deneyim fiyat listesi](azure-plan-price-list.md)
 - [Azure planı kapsamındaki abonelikleri ve kaynakları yönetme](azure-plan-manage.md)
-
-- [Abonelikler için yönetici ayrıcalıklarını iptal Azure CSP yeniden iade etme](revoke-reinstate-csp.md)
+- [CSP'de yeni ticari deneyim - Azure faturalama](azure-plan-billing.md)
+- [Azure CSP abonelikleri için yönetici ayrıcalıklarını yeniden devreye sokma](revoke-reinstate-csp.md)
+- [İş ortağı kazanılmış kredi-genel bakış](partner-earned-credit.md)
+- [Roller, iş ortağı kazanılmış kredi için izinler](azure-roles-perms-pec.md)
+- [Iş ortağı kazanılmış krediyi anlama (kılavuz)](https://partner.microsoft.com/resources/detail/understanding-partner-earned-credit-pdf) (oturum açma gerekir)

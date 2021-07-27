@@ -9,7 +9,7 @@
     - name: Microsoft ile iş ortaklığı yapma
       href: mpn-overview.md
       displayName: mpn
-    - name: İş Ortağı Merkezi'nde bir MPN hesabı oluşturma
+    - name: İş Ortağı Merkezi'de MPN hesabı oluşturma
       href: mpn-create-a-partner-center-account.md
       displayName: mpn
     - name: Hesap kurulumu sorunlarını giderme
@@ -121,7 +121,7 @@
     - name: CSP doğrudan faturayı dolaylı kurumsal bayiye geçirme
       href: transition-direct-to-indirect.md
       displayName: csp
-    - name: İş ortakları artık Danışman olarak kaydedilemeyecek
+    - name: İş ortakları artık Danışman olarak kaydolamaz
       href: advisors-no-csp.md
 - name: CSP anlaşmaları
   href: microsoft-partner-agreement.md
@@ -134,7 +134,7 @@
       displayName: csp
     - name: 'Microsoft Müşteri Sözleşmeleri (bölgeye, dile göre)'
       href: agreements.md
-    - name: Müşterinin kabulünü onaylama Microsoft Müşteri Sözleşmesi
+    - name: Müşterinin müşterinin kabulünü onaylama Microsoft Müşteri Sözleşmesi
       href: confirm-customer-agreement.md
     - name: 'CSP bölgesel pazarlar, para birimleri'
       href: regional-authorization-overview.md
@@ -252,9 +252,9 @@
           href: bulk-operations.md
         - name: Ortak satış CRM bağlayıcıları kullanma
           items:
-            - name: Dynamics 365 için bağlayıcı
+            - name: Dynamics 365 bağlayıcısı
               href: connector-dynamics.md
-            - name: Salesforce için bağlayıcı
+            - name: Salesforce bağlayıcısı
               href: connector-salesforce.md
             - name: Bağlayıcılarla ilgili sorunları giderme
               href: connectors-troubleshoot.md
@@ -265,7 +265,7 @@
       href: register-deals.md
     - name: Referans içgörüleri alma
       href: referral-insights.md
-    - name: Müşteri adayları öngörülerini alın
+    - name: Müşteri adayı içgörüleri alın
       href: analyze-your-marketing-profile.md
       displayName: mpn
 - name: Teşvikler
@@ -381,7 +381,7 @@
       href: modern-invoice-reconciliation-file.md
     - name: Geçerli birim fiyat hesaplaması
       href: effective-unit-price-calculation.md
-    - name: Kredi limiti zorlaması
+    - name: Kredi limiti zorlama
       href: credit-limit-enforcement.md
     - name: Yaygın fatura senaryoları
       href: common-billing-scenarios.md
@@ -433,7 +433,7 @@
           displayName: 'region, regio'
         - name: Microsoft'tan SLA iade isteğinde bulunma
           href: request-credit.md
-        - name: Vergi ilkelerinin ödeme nasıl etkilediği
+        - name: Vergi ilkeleri ödemeyi nasıl etkiler?
           href: tax-policies-affect-payout.md
     - name: Müşterileriniz için Azure harcama bütçesi ayarlama
       href: set-an-azure-spending-budget-for-your-customers.md
@@ -500,7 +500,7 @@
         - name: Market tekliflerini satın alma
           href: csp-commercial-marketplace-purchase.md
           displayName: csp
-        - name: Market teklifte lisanslamayı yönetme
+        - name: Market tekliflerini lisanslama yönetme
           href: csp-commercial-marketplace-licensing.md
           displayName: csp
         - name: Bağımsız Yazılım Satıcılarından markete özel teklifler
@@ -551,6 +551,12 @@
         - name: İş ortağı kazanılmış kredisi için roller ve izinler
           href: azure-roles-perms-pec.md
           displayName: 'role, roles, ro'
+        - name: İş ortağı tarafından kazanılan kredi hakkında SSS
+          href: partner-earned-credit-faq.md
+          displayName: 'faq, partner earned credit'
+        - name: İş ortağı tarafından kazanılan kredi sorunlarını giderme
+          href: partner-earned-credit-troubleshoot.md
+          displayName: 'partner earned credit, troubleshooting'
         - name: CSP'de yeni ticari deneyim - Azure faturalama
           href: azure-plan-billing.md
           displayName: invoice
@@ -565,7 +571,7 @@
         - name: Azure aboneliklerini aktarma
           href: switch-azure-subscriptions-to-a-different-partner.md
           displayName: csp
-        - name: Müşterinin Azure planı aboneliklerini farklı bir ortağa aktarma
+        - name: Müşterinin Azure planı aboneliklerini farklı bir iş ortağına aktarma
           href: transfer-azure-subscriptions-under-azure-plan.md
     - name: Yazılım abonelikleri
       href: csp-software-subscriptions.md
@@ -647,48 +653,90 @@
           href: partner-center-insights.md
           displayName: data
         - name: İçgörüler rol tabanlı erişimi
-          href: pci-roles.md
+          href: insights-roles.md
         - name: İçgörüler raporları
           items:
             - name: Genel Bakış
-              href: pci-overview-report.md
+              href: insights-overview-report.md
             - name: Müşteri
-              href: pci-customer-report.md
+              href: insights-customer-report.md
             - name: Kurumsal bayi performansı
-              href: pci-resellers-performance.md
+              href: insights-resellers-performance.md
               displayName: 'indirect, reseller'
             - name: Ürün abonelikleri
-              href: pci-product-subscriptions-report.md
+              href: insights-product-subscriptions-report.md
             - name: Azure kullanımı
-              href: pci-azure-usage-report.md
+              href: insights-azure-usage-report.md
             - name: Teams kullanımı
-              href: pci-teams-usage-report.md
+              href: insights-teams-usage-report.md
             - name: Office 365 kullanımı
-              href: pci-office-365-usage-report.md
+              href: insights-office-365-usage-report.md
             - name: Dynamics kullanımı
-              href: pci-dynamics-usage-report.md
+              href: insights-dynamics-usage-report.md
             - name: Enterprise Mobility + Security kullanımı
-              href: pci-enterprise-mobility-security-usage-report.md
+              href: insights-enterprise-mobility-security-usage-report.md
             - name: Power BI kullanımı
-              href: pci-power-bi-usage-report.md
+              href: insights-power-bi-usage-report.md
             - name: Eğitim
-              href: pci-training-dashboard.md
+              href: insights-training-dashboard.md
             - name: Microsoft Learn analizi
               href: ms-learn-analytics.md
             - name: Yetkinlikler
-              href: pci-competencies-report.md
+              href: insights-competencies-report.md
             - name: Avantajlar
-              href: pci-benefits-report.md
+              href: insights-benefits-report.md
             - name: CloudAscent eğilimi
-              href: pci-customer-opportunities.md
+              href: insights-customer-opportunities.md
             - name: Ürün lisansları
-              href: pci-product-licenses-report.md
+              href: insights-product-licenses-report.md
         - name: İçgörüler-SSS
-          href: pci-known-issues.md
+          href: insights-known-issues.md
         - name: İçgörüler raporlarını indirme
-          href: pci-download-reports.md
+          href: insights-download-reports.md
+        - name: Analize programlı erişim
+          items:
+            - name: başlarken
+              href: insights-programmatic-get-started.md
+            - name: Programlı erişim için önkoşullar
+              href: insights-programmatic-prerequisites.md
+            - name: Programlı erişim paradigması
+              href: insights-programmatic-access-paradigm.md
+            - name: İlk programlı API çağrınızı yapma
+              href: insights-programmatic-first-api-call.md
+            - name: Sistem sorgularının listesi
+              href: insights-programmatic-system-queries.md
+            - name: Örnek sorgular
+              href: insights-programmatic-sample-queries.md
+            - name: Özel sorgu belirtimi
+              href: insights-programmatic-custom-query.md
+            - name: Örnek uygulama
+              href: insights-programmatic-sample-application.md
+            - name: Sık sorulan sorular
+              href: insights-programmatic-faq.md
+            - name: API başvuruları
+              items:
+                - name: Kullanılabilir API’ler
+                  href: insights-programmatic-analytics-available-api.md
+                - name: Tüm veri kümelerini al
+                  href: insights-programmatic-analytics-api-get-dataset.md
+                - name: Rapor sorgularını al
+                  href: insights-programmatic-analytics-api-get-report-queries.md
+                - name: Rapor sorgularını Sil
+                  href: insights-programmatic-analytics-api-delete-report-queries.md
+                - name: Rapor sorgularını deneyin
+                  href: insights-programmatic-analytics-api-try-report-queries.md
+                - name: Rapor al
+                  href: insights-programmatic-analytics-api-get-report.md
+                - name: Raporu Güncelleştir
+                  href: insights-programmatic-analytics-api-update-report.md
+                - name: Raporu sil
+                  href: insights-programmatic-analytics-api-delete-report.md
+                - name: Rapor yürütmelerini Duraklat
+                  href: insights-programmatic-analytics-api-pause-report-executions.md
+                - name: Rapor yürütmelerini sürdürür
+                  href: insights-programmatic-analytics-api-resume-report-executions.md
         - name: İçgörü verilerinin tanımları
-          href: pci-data-definitions.md
+          href: insights-data-definitions.md
     - name: İş Ortağı Katkısı Göstergeleri
       items:
         - name: Bulutta İş Uygulamaları yeterliliği için

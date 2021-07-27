@@ -4,36 +4,39 @@ ms.topic: how-to
 ms.date: 03/08/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: CSP programı iş ortaklarının şirket içi yazılım aboneliklerini şirket içi yazılım abonelikleri satın alıp yönetip satıp iptal etmelerini nasıl İş Ortağı Merkezi.
+description: CSP programındaki iş ortaklarının, Iş Ortağı Merkezi 'nde müşteriler adına şirket içi yazılım abonelikleri satın alabilir, yönetebilir, satmasını ve iptal edebilmesini öğrenin.
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: fc082f40a778d09e96f6f8cb5a563197e2de6f18
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: e304f1f852437412ebf6be161a663fcabe02f027
+ms.sourcegitcommit: d133c8b923b90ac5518cb989c0ce4dd69713abf4
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110147624"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "114433971"
 ---
 # <a name="sell-on-premises-software-through-the-cloud-solution-provider-csp-program"></a>Bulut Çözümü Sağlayıcısı (CSP) programı aracılığıyla şirket içi yazılım satma
 
-**Uygun roller:** Yönetici aracısı | Genel yönetici
+**Uygun roller**: yönetici Aracısı | Genel yönetici
 
-CSP'de şirket içi yazılım, şirket içi yazılımları bulut odaklı bir programda tanıtarak buluta sorunsuz bir geçişi destekler.Bu yeni teklif, tüm Microsoft ürünlerinin işlem için tek bir platform sağlamaları sayesinde katma değerli iş ortağını her satın alma senaryosuna getirmelerine yardımcı olur. CSP olarak artık Open, EA ve şu anda İş Ortağı Merkezi diğer programlara ek olarak şirket içi yazılımları İş Ortağı Merkezi aracılığıyla da satabilirsiniz.  
+CSP 'de şirket içi yazılım, bulut odaklı bir programda şirket içi yazılım sunarak buluta sorunsuz bir şekilde geçiş desteği sağlar.Bu yeni teklif, tüm Microsoft ürünlerini Transact için tek bir platform sağladıklarında, değer katan iş ortağını her satın alma senaryosuna getirmeye yardımcı olur. Bir CSP olarak, artık açık, EA ve kullanımda olan diğer programların yanı sıra Iş Ortağı Merkezi aracılığıyla şirket içi yazılım satıtabilirsiniz.  
  
-Şirket içi yazılım lisanslama seçenekleriyle genel olarak en iyi müşteri değerini sağlarken, iş modelini de mümkün olduğunca iş ortağı dostu yaptık. CSP'de şirket içi yazılımların sorunsuz lisanslaması, maliyet öngörülebilirliği ve sizin için kolaylaştırılmış bir satış süreci anlamına gelir. Bu yeni iş modeli, müşterileriniz için şirket içi yazılım teminini, yönetimini ve fiyatını kolaylaştırarak, genişletilmiş bir IT yönetimi katma değerli çözüm portföyüyle işletmeyi kazanmaya odaklanmanızı sağlar.
+Şirket içi yazılım lisanslama seçenekleriyle en iyi genel müşteri değerini sağlarken, iş modelini mümkün olduğunca iş ortağı kolay olarak da yaptık. CSP 'de şirket içi yazılımların doğrudan lisanslanması, maliyet öngörülebilirlik ve sizin için kolaylaştırılmış bir satış süreci anlamına gelir. Bu yeni iş modeli, müşterileriniz için şirket içi yazılımları kolayca temin etmek, yönetmek ve fiyatlamanızı sağlar. böylece, BT yönetimi 'nin değerli çözümlerinin genişletilmiş bir portföyüyle işletmenize odaklanırsınız.
 
-## <a name="buy-software-subscriptions-on-behalf-of-customers"></a>Müşteriler adına yazılım abonelikleri satın alma
+## <a name="buy-software-subscriptions-on-behalf-of-customers"></a>Yazılım aboneliklerini müşteriler adına satın alın
 
-Bir müşteri adına yazılım abonelikleri satın almak için müşterinin ayrıntı sayfasına gidin, Ürün ekle'yi seçin ve ekrandaki yönergeleri izleyerek siparişinizi oluşturun ve ödemenizi alın.
+Yazılım aboneliklerini bir müşteri adına satın almak için müşterinin ayrıntı sayfasına gidin, ürün Ekle ' yi seçin ve ardından, sipariş oluşturmak ve siparişiniz için ödeme yapmak üzere ekrandaki yönergeleri uygulayın.
+
+> [!NOTE]
+> Daha fazla bilgi için bu kılavuza bkz. [Iş Ortağı Merkezi 'ni sıralama ve karşılama](https://partner.microsoft.com/resources/detail/guide-to-ordering-and-fulfillment-through-partner-center-pdf).
 
 ## <a name="activate-and-manage-software-subscriptions"></a>Yazılım aboneliklerini etkinleştirme ve yönetme
 
-Yazılımınızı satın aldıktan sonra siz veya müşterileriniz indirmeniz gerekir (İş Ortağı Merkezi kullanan iş ortakları; Microsoft 365 Yönetim Merkezi'ni kullanan müşteriler). Bunu yapmak için aşağıdaki yordamı kullanın. Bağlantı kopyalama ve yazılım indirme ile ilgili riskleri anlamak önemlidir. Daha fazla bilgi için Yeni **Ticaret İş Ortağı Merkezi Kılavuzu'nda** müşteri yazılımı indirmelerini ve lisans anahtarlarını almak [İş Ortağı Merkezi bkz. Müşteri yazılım indirmelerini ve lisans anahtarlarını almak için İş Ortağı Merkezi kullanma.](https://partner.microsoft.com/resources/detail/partner-center-new-commerce-operations-guide-pdf)
+yazılımınızı satın aldıktan sonra siz veya müşterilerinizin bu uygulamayı (iş ortağı merkezi 'ni kullanarak iş ortakları; Microsoft 365 Yönetici merkezini kullanan müşteriler) indirmeniz gerekir. Bunu yapmak için aşağıdaki yordamı kullanın. Bağlantı kopyalama ve yazılım indirme ile ilişkili riskleri anlamak önemlidir. Daha fazla bilgi için bkz. iş ortağı merkezi 'ni kullanarak [Iş Ortağı Merkezi yeni ticaret Işlemleri Kılavuzu](https://partner.microsoft.com/resources/detail/partner-center-new-commerce-operations-guide-pdf)'nda **Müşteri Yazılım İndirmeleri ve lisans anahtarları edinme** .
 
->[!NOTE]
->Anahtar ve indirmelerin bağlantısını edinmek için Iş Ortağı Merkezi 'nde bir yönetim aracısı olmanız gerekir.
+> [!NOTE]
+> Anahtar ve indirmelerin bağlantısını edinmek için Iş Ortağı Merkezi 'nde bir yönetim aracısı olmanız gerekir.
 
 1. Müşterinizin ayrıntı sayfasına gidin ve ardından **yazılım**' ı seçin. Müşteri adına satın aldığınız tüm yazılımların bir listesini görürsünüz.
 
@@ -47,15 +50,15 @@ Yazılımınızı satın aldıktan sonra siz veya müşterileriniz indirmeniz ge
 
 6. Ayrıca, yazılım siparişini **iptal** edebilir ve %100 kredi alabilirsiniz (60 gün iptal ilkesi dönemi içinde yapıldıysa).
 
->[!NOTE]
->Yalnızca müşterilerin ürün anahtarlarını ve indirme bilgilerini Microsoft 365 Yönetim Merkezi 'nde (genel yönetici rolü gereklidir) görme erişimi vardır. İş ortaklarının bu bilgileri görmek için Iş ortağı merkezini kullanması gerekir.
+> [!NOTE]
+> yalnızca müşterilerin ürün anahtarlarını ve indirme bilgilerini Microsoft 365 Yönetici merkezi 'nde (genel yönetici rolü gerekli) görmesini sağlamak için erişimi vardır. İş ortaklarının bu bilgileri görmek için Iş ortağı merkezini kullanması gerekir.
 
 ## <a name="cancel-a-purchase"></a>Satın almayı iptal et
 
 Satın alma işlemini iptal etmek için aşağıdaki yordamı kullanın. İptal işlemi tamamlandıktan sonra yazılım anahtarı iptal edilir.
 
->[!NOTE]
->Satın alma işlemini iptal etmek için bir yönetim aracısı olmanız gerekir. 
+> [!NOTE]
+> Satın alma işlemini iptal etmek için bir yönetim aracısı olmanız gerekir. 
 
 1.  İşleme başlamadan önce, aşağıdakilere sahip olduğunuzdan emin olun: 
     - Müşteri kiracı GUID veya etki alanı adı
@@ -65,20 +68,20 @@ Satın alma işlemini iptal etmek için aşağıdaki yordamı kullanın. İptal 
 
 2.  Müşterinin ayrıntılar sayfasında **yazılım**' i seçin. Satın aldığınız tüm yazılımların bir listesini görürsünüz. 
 
-3.  İptal etmek istediğiniz yazılımı bulun ve İptal'i **seçin.** Sorun **bildir sayfası İş Ortağı Merkezi** açılır. 
+3.  İptal etmek istediğiniz yazılımı bulun ve **iptal**' i seçin. **Iş Ortağı Merkezi ile ilgili sorun bildir** sayfası açılır. 
 
-4.  Ayrıntılar **altında,** Sorun **türü listesinde,** müşteriler adına **CSP Satın Alma/Para İadesi'ne tıklayın.**
+4.  **Ayrıntılar** altında, **sorun türü** listesinde, **müşteriler adına CSP satın al/para iadesi**' ni seçin.
 
-5.  Etki ve **Başlık** **alanlarını** doldurun. 
+5.  **Etki** ve **başlık** alanlarını girin. 
 
-6.  Açıklama **alanında** şunları girin: 
-    -   Müşteri kiracı GUID'si veya etki alanı adı
-    -   Sipariş Kimliği veya Abonelik Kimliği
+6.  **Açıklama** alanına aşağıdakileri sağlayın: 
+    -   Müşteri kiracı GUID veya etki alanı adı
+    -   Sipariş KIMLIĞI veya abonelik KIMLIĞI
     -   Para iadesi nedeni
-    -   İstenen tutar
+    -   İstenen miktar
 
-7.  Kişi **alanına** adınız, e-posta adresinizi ve telefon numarasını girin. 
+7.  **Kişi** alanına adınızı, e-posta adresinizi ve telefon numaranızı girin. 
 
-8.  Herhangi bir nedenle dosya eklemeniz gerekirse Dosya **ekle'yi seçin.** Bu adım isteğe bağlıdır. 
+8.  Herhangi bir nedenle bir dosya iliştirmeye ihtiyacınız varsa dosya **Ekle**' yi seçin. Bu adım isteğe bağlıdır. 
 
-9.  Bitirdikten sonra Gönder'i **seçin.**
+9.  İşiniz bittiğinde **Gönder**' i seçin.

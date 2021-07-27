@@ -1,51 +1,51 @@
 ---
-title: Microsoft İş Ortağı Ağı üyelik avantajları
+title: Microsoft İş Ortağı Ağı avantajları
 ms.topic: article
 ms.date: 10/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-mpn
-description: Pazara ve çözümlerinizi satmaya gitmek için Microsoft Eylem Paketi, Uzmanlıklar veya program seçenekleri gibi Microsoft İş Ortağı Ağı (MPN) avantajları hakkında bilgi edinin.
+description: Microsoft Microsoft İş Ortağı Ağı, yetkinlikler Eylem Paketi veya program seçenekleri gibi Microsoft İş Ortağı Ağı (MPN) avantajları hakkında bilgi edinmek ve çözümlerinizi satmayı öğrenin.
 author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6edd8d18610947f61f88af8c3e3563508244586e
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 1ed25c3f1c9e5f8cec5384762fa9bdf5d09e5b76
+ms.sourcegitcommit: d133c8b923b90ac5518cb989c0ce4dd69713abf4
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110152231"
+ms.lasthandoff: 07/22/2021
+ms.locfileid: "114433652"
 ---
-# <a name="partner-with-microsoft-and-discover-membership-benefits"></a>Microsoft ile iş ortağı ve üyelik avantajlarını keşfet
+# <a name="partner-with-microsoft-and-discover-membership-benefits"></a>Microsoft ile iş ortağı olun ve üyelik avantajlarını keşfedin
 
-**Uygun roller**: genel yönetici | MPN iş ortağı Yöneticisi | Kullanıcı Yönetimi Yöneticisi | Yönetim Aracısı
+**Uygun roller:** Genel yönetici | MPN iş ortağı yönetici | Kullanıcı yönetimi yönetici | Yönetici aracısı
 
-Microsoft İş Ortağı Ağı (MPN), işletmenizi ayırt etmek, Pazar alanına gitmek ve çözümlerinizi satmak için sektör ve program seçeneklerindeki en geniş ürün yelpazörünü sağlar. Ücretsiz olarak katılarak bir Microsoft eylem paketi, Starter Kit veya uzmanlığa sahip ortaklığınızda yatırım yapın.
+Bu Microsoft İş Ortağı Ağı (MPN), işletmenizi ayırt etmek, pazara gitmek ve çözümlerinizi satmanız için sektördeki ve program seçeneklerinde en geniş ürün yelpazesini sunar. Hiç ücretden katılın, ardından Microsoft eylem paketi, başlangıç seti veya uzmanlıkla ortaklığınıza nasıl yatırım yapacaklarını seçin.
 
-Bir Microsoft iş ortağı programına katılırsanız, müşterilerinize Amaze ve iş büyümesi için gereken ilişkilere, öngörülere, araçlara, kaynaklara ve programlara bağlanmanızı sağlayan küresel bir topluluğun parçası haline gelir. İş hedeflerinizi elde ettiğiniz sırada, daha fazla avantaja erişmek ve ağ üzerindeki diğer iş ortaklarıyla ilişkinizi geliştirmek için, programa benzersiz ihtiyaçlarınıza uygun düzeyde katılın. 
+Bir Microsoft iş ortağı programına katılarak, sizi müşterilerinize yardımcı olmak ve iş büyümesi sağlamak için ihtiyacınız olan ilişkilere, içgörülere, araçlara, kaynaklara ve programlara bağlayan küresel bir topluluğun parçası oluruz. İş hedeflerinizi elde ettikçe, daha fazla avantaja erişmek için benzersiz ihtiyaçlarınıza uygun düzeyde programa katılın ve bizle ve ağ ağının diğer iş ortaklarıyla ilişkinizi geliştirin. 
 
-## <a name="join-the-microsoft-partner-network"></a>Microsoft İş Ortağı Ağı birleştirin
+## <a name="join-the-microsoft-partner-network"></a>Microsoft İş Ortağı Ağı
 
-Microsoft İş Ortağı Ağı katmak için, MPN Web sitesindeki [ **Üyelik** sayfasına](https://partner.microsoft.com/membership) gidin ve **Kaydet** veya **Şimdi Birleştir**' i seçin.
+Kullanıcı ekleme Microsoft İş Ortağı Ağı MPN web [ **sitesinin**](https://partner.microsoft.com/membership) Üyelik sayfasına gidin ve Şimdi kaydol veya **Katıl'ı** **seçin.**
 
 ## <a name="action-pack"></a>Eylem Paketi
 
-Eylem Paketi, Microsoft uygulamalarını bulut ve mobil öncelikli bir dünyada başlatmak, derlemek ve büyütmek isteyen işletmeler için yazılım, destek ve avantajlar sunmaktadır.
+Eylem Paketi, Microsoft uygulamalarına bulut ve mobil bir dünyada başlamak, oluşturmak ve büyümeye başlamak isteyen işletmeler için yazılım, destek ve avantajlar sunar.
 
-Eylem Paketi hakkında daha fazla bilgi edinmek için aşağıdaki kaynakları gözden geçirin:
+Daha fazla bilgi edinmek için aşağıdaki kaynakları gözden Eylem Paketi:
 
-- [Bulut işletmenizi Microsoft Eylem Paketi ileri taşıyın](https://partner.microsoft.com/membership/action-pack)
+- [Microsoft Eylem Paketi ile bulut işlerinizi ileri Eylem Paketi](https://partner.microsoft.com/membership/action-pack)
 
-- [Eylem Paketi alın](mpn-get-action-pack.md)
+- [Get the Eylem Paketi](mpn-get-action-pack.md)
   
     >[!IMPORTANT]
-    >Eylem Paketi aboneliğinizi Iş Ortağı Merkezi ' nde yönetirsiniz. Şirketiniz henüz iş ortağı üyeliği merkezinden Iş Ortağı Merkezi 'ne taşınmadıysa, [Iş Ortağı Merkezi 'ne geçiş Için hazırlama](prepare-pmc-pc-migration.md) konusunu okuyun  
+    >Eylem Paketi aboneliğinizi İş Ortağı Merkezi. Şirket henüz İş Ortağı Merkezi'Partner Membership Center taşınmadı İş Ortağı Merkezi [](./partner-membership-center-retirement-faq.md)  
 
 - [MPN tekliflerinizi yenileme](renew-mpn-offers.md)
 
 ## <a name="competencies"></a>Yetkinlikler
 
-Özelleştirilmiş bir iş alanında kalite çözümleri sunma konusunda kanıtlanmış uzmanlığınızı gösterir. Microsoft Uzmanlıklar, geçerli müşterilerinizin ihtiyaçlarını karşılayacak ve olası bir şekilde tanınabilir olacak şekilde tasarlanmıştır. Microsoft iş ortaklarının elit katmanına katılın ve iş ortaklarınızı öne çıkarın.
+Özelleştirilmiş bir iş alanında kaliteli çözümler sunma konusundaki kanıtlanmış uzmanlığınızı gösterme. Microsoft yetkinlikleri, mevcut müşterilerin ihtiyaçlarını karşılayacak ve olası müşterilerin farkını karşılayacak şekilde tasarlanmıştır. Microsoft iş ortaklarının elit katmanına katılın ve iş ortaklarınızı öne çıkarın.
 
 Yetkinlikler hakkında daha fazla bilgi edinmek için aşağıdaki kaynakları gözden geçirme:
 
