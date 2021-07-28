@@ -9,12 +9,12 @@ author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b1bb86a493ce81cb02b14c9555f82767d10f841c
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 0790bfa717840f5cd60b99ef4f50cf3c242149b0
+ms.sourcegitcommit: e4aed966f3f843e938a1e584eeeae0a0ca386bd7
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855957"
+ms.lasthandoff: 07/28/2021
+ms.locfileid: "114749148"
 ---
 # <a name="get-referral-insights-in-partner-center-and-find-out-how-your-referrals-are-doing"></a>Referans içgörülerini İş Ortağı Merkezi ve referansların nasıl olduğunu öğrenin
 
@@ -25,7 +25,7 @@ Referanslar **bölümündeki Analiz** bölümünün **altındaki** Ortak satış
 Ortak satış fırsatları içgörü verilerinizi görmek için İş Ortağı Merkezi menüsünden Referanslar > **Analytics > Ortak Satış Fırsatları'ne gidin.**
 
 > [!Important]
-> Anlaşma türü filtresi, tüm veriler için **Ortak satış** türü seçili olarak önceden uygulanır. Özel ve iş ortağı tarafından yönlendirilen anlaşmalarla ilgili verileri analiz etmek için filtreyi kaldırın.
+> Anlaşma türü filtresi, tüm veriler için **Ortak satış ve İş** Ortağı **liderliğindeki** tür seçili olarak önceden uygulanır. Tüm veya belirli anlaşmaların verilerini analiz etmek için filtreyi kaldırın.
 
 ## <a name="apply-filters"></a>Filtreleri uygulama
 
@@ -35,26 +35,26 @@ Bu sayfadaki **tüm verileri** Müşteri adı, Ülke, Satış türü, Satış y�
 
 - **Müşteri adı:** Varsayılan değer **All**'tir, ancak verileri, seçerek bir veya daha fazla müşteriyle sınırabilirsiniz.
 - **Ülke:** Varsayılan **değer All**'tir, ancak verileri, sizin seçerek müşterinin bir veya daha fazla ülkesiyle sınırlandırabilirsiniz.
-- **Satış türü:** Varsayılan **değer** Ortak satış'tır ancak Seçiminize bağlı olarak Tüm'i seçerek veya verileri Özel veya İş Ortağı tarafından yönlendirilen satış anlaşmaları ile sınırlandırabilirsiniz.
-- **Anlaşma yönü** Varsayılan değer **Tümü**' dir, ancak verileri **gelen** başvuruların (aldığınız olanlar) veya **giden** başvuruların (gönderdiğiniz) sınırlarını seçebilirsiniz.
-- **Çözüm adı**: **Tümü** varsayılandır, ancak verileri seçtiğiniz bir veya daha fazla çözümü içeren başvurularda sınırlamayı tercih edebilirsiniz.
-- **Durum**: **Tümü** varsayılandır, ancak verileri oluşturulan, kabul edilen, reddedilen, süresi biten, kaybolan ve kazanıldı gibi bir veya daha fazla başvuru durum türü içeren başvurularda sınırlamayı tercih edebilirsiniz.
+- **Satış anlaşması türü:** Varsayılan değer  Ortak satış ve İş Ortağı tarafından yönlendirilen'tir, ancak seçiminize bağlı olarak Tüm'i seçerek veya verileri Özel veya İş Ortağı tarafından yönlendirilen anlaşmalarla sınırlandırabilirsiniz. 
+- **Anlaşma yönü** Varsayılan değer **Tüm 'tir,** ancak verileri  Gelen referanslar (alınanlar)  veya Giden referanslar (sizin gönderdikleri) ile sınırlamayı seçebilirsiniz.
+- **Çözüm adı:** Varsayılan **değer All**'dür, ancak verileri seçtiğiniz bir veya daha fazla çözümü içeren referanslar ile sınırlamayı seçebilirsiniz.
+- **Durum:** Varsayılan değer **All**'tir, ancak verileri seçtiğiniz oluşturma, kabul etme, reddetme, süresi doldu, kaybedildi ve kazandı gibi bir veya daha fazla referans durumu türü içeren referanslar ile sınırlamayı seçebilirsiniz.
 
-Aşağıda belirtilen grafiklerin tümünde bulunan bilgiler, aşağıda belirtilenler dışında, tarih aralığını ve seçtiğiniz filtreleri yansıtır. Bazı bölümler, belirli bir çözüme filtreleme gibi ek filtreler uygulamanıza da imkan tanır.
+Aşağıda listelenen tüm grafiklerde yer alan bilgiler, aşağıda belirtilenler dışında seçtiğiniz tarih aralığını ve filtreleri gösterir. Bazı bölümler ayrıca belirli bir çözüme filtreleme gibi ek filtreler uygulamana da olanak sağlar.
 
-## <a name="referrals-summary"></a>Başvurular Özeti
+## <a name="referrals-summary"></a>Referans özeti
 
-Bu kartta, ortak satış fırsatlarınızın nasıl yaptığına ilişkin bir genel bakış sunulmaktadır.
+Bu kart, Ortak satış fırsatlarının nasıl iş yaptığına ilişkin bir genel bakış gösterir.
 
-Grafik, seçilen dönem için toplam anlaşmalar sayısını, kazanılan numarayı, kaybedilen sayıyı ve toplam anlaşma hacmini (USD cinsinden) gösterir.
+Grafik, seçilen zaman dönemi için toplam Anlaşma sayısını, kazanan s numarayı, kaybedilmiş olan s numarayı ve toplam satış hacmini (ABD doları) gösterir.
 
-Yüzde değişiklik ölçümleri (kırmızı veya yeşil renkle gösterilir, ok göstergesi ile), **Seçilen tarih aralığındaki son tam ay** ve **Bu aralıktaki ilk tam ay** arasındaki farkı gösterir. Örneğin, geçerli tarih 15 Haziran ve son üç aya ait verileri göstermek için **3D** filtresini seçtiğinizi varsayalım. Bu durumda, bu ölçümler, Mayıs (seçili zaman aralığındaki son tam ay) ve Mart (seçili dönemdeki ilk tam ay) arasındaki farkı gösterir. Seçili tarih aralığı son **3H** ise, karşılaştırma için veriler ve Mart verileri arasında olur.
+Yüzde değişikliği ölçümleri (kırmızı veya yeşil, ok göstergesiyle gösterilir)  seçilen tarih aralığındaki son tam ay ile bu aralıkta ilk tam **ay arasındaki farkı gösterir.** Örneğin, geçerli tarihin 15 Haziran olduğunu ve son üç aya göre verileri göstermek için **3M** filtresini seçtiğinizi diyelim. Bu durumda, bu ölçümler Mayıs (seçilen zaman aralığındaki son tam ay) ile Mart (seçilen zaman aralığındaki ilk tam ay) tarih aralığı son **3 milyon** arasındaki farkı gösterir; karşılaştırma Mayıs verileriyle Mart verileri arasında olur.
 
-:::image type="content" source="images/referrals/cosellanalyticssummary.png" alt-text="Ortak satış fırsatları analizinin Özet kartını gösteren resim.":::
+:::image type="content" source="images/referrals/cosellanalyticssummary.png" alt-text="Ortak satış fırsatları analizinin özet kartını gösteren resim.":::
 
-## <a name="conversion-funnel"></a>Dönüştürme huni
+## <a name="conversion-funnel"></a>Dönüşüm hunisi
 
-Bu bölümde, anlaşmaların yaşam döngüsü boyunca bir durumdan diğerine nasıl geçilerek ilgili görsel bir gösterge gösterilmektedir. Yaşam döngüsünün tamamını, bu bölümün ana özet bölümüne göre satış hacmine ve ABD doları değerindeki satış anlaşması değerine göre görüntüebilirsiniz. İlk bölüm, birimin veya değerin türüne göre görsel bir göstergesini vermek için hem durum hem de satış anlaşması türü ile etiketlenmiş. Ayrıca, bunları kabul etme/gerileme veya rapor için seçilen zaman dönemi içinde kazanildi/kaybedildi olarak işaretleme eylemini gerçekleştirmiş olduğu anlaşmaları belirtmek için kullanılan, geçmişteki Referanslar bölümü de vardır. Anlaşmaların yaşam döngülerinin çeşitli aşamalarındaki ilerlemesini görüntülemek için filtreler uygulayabilirsiniz.
+Bu bölümde, anlaşmalarının yaşam döngüsü boyunca bir durumdan diğerine nasıl taşınacaklarına gösteren görsel bir gösterge yer almaktadır. Yaşam döngüsünün tamamını, bu bölümün ana özet bölümüne göre satış hacmine ve ABD doları değerindeki satış anlaşması değerine göre görüntüebilirsiniz. İlk bölüm, birimin veya değerin türüne göre görsel bir göstergesini vermek için hem durum hem de satış anlaşması türü ile etiketlenmiş. Ayrıca, bunları kabul etme/gerileme veya rapor için seçilen zaman dönemi içinde kazanildi/kaybedildi olarak işaretleme eylemini gerçekleştirmiş olduğu anlaşmaları belirtmek için kullanılan, geçmişteki Referanslar bölümü de vardır. Anlaşmaların yaşam döngülerinin çeşitli aşamalarındaki ilerlemesini görüntülemek için filtreler uygulayabilirsiniz.
 
 Ortak satış gelen satış anlaşmaları, iş ortaklarının gelen ortak satış anlaşmalarını Kabul Etmek veya Reddetmek zorunda olduğu için Kabul Edildi, Reddedildi veya Süresi Doldu olarak birleşebilirsiniz.
 
@@ -78,35 +78,39 @@ Bu grafik, çözümlerinizin hangilerinin en çok referans ve en yüksek anlaşm
 Özet seçiminize bağlı olarak, çözüme göre toplu anlaşmaların performansını görebilir.
 
 > [!NOTE]
-> Bir anlaşmaya birden çok çözüm dahil edilirse tabloda tüm bu çözümler için aynı anlaşma sayısı göstereceğiz. Çözümlerle ilgili değerleri eklemeli ve diğer referans hacmi ölçümleriyle karşılaştırmamalısınız. Bu görünüm çözüm özeti ile anlaşma performansını anlamanıza yardımcı olmak için tasarlanmıştır.
+> Bir anlaşmaya birden çok çözüm dahil edilirse tabloda tüm bu çözümler için aynı anlaşma sayısı göstereceğiz. Çözümlerle ilgili değerleri eklemeli ve diğer referans hacmi ölçümleriyle karşılaştırmamalısınız. Bu görünüm, çözüm özetle anlaşma performansını anlamanıza yardımcı olmak için tasarlanmıştır.
 
-Tabloda, çözüme dahil edilen toplam anlaşmalar ve kazanılan anlaşmalar, anlaşmalar kaybı, kaybedilen anlaşmalar ve ABD para birimi cinsinden kaybedilen anlaşmalar gibi ilgili durumlar bulunur. Ayrıca, toplam anlaşmalar sayısını gösteren tablo sağında bir anlaşmalar eğilimi grafiği ve seçilen çözüme bağlı olarak ABD Doları para biriminde kazanılan anlaşma değeri mevcuttur. Varsayılan seçim tüm çözümlerdir.
+Tabloda çözümün dahil olduğu toplam anlaşmalar ve anlaşmalar kazanıldı, anlaşmalar kaybedildi, anlaşmaların süresi doldu ve toplam anlaşma değeri kazanıldı ve ABD doları cinsinden kaybedildi gibi ilgili eyaletler yer alıyor. Ayrıca tablonun sağ tarafından, seçilen çözüme göre TOPLAM anlaşma sayısını ve ABD doları cinsinden kazanilen satış anlaşması değerini gösteren bir satış anlaşması eğilim grafiği de vardır. Varsayılan seçim tüm çözümlerdir.
 
-:::image type="content" source="images/referrals/cosell-analytics-solutions-v2.png" alt-text="Çözüm performansını gösteren resim.":::
+:::image type="content" source="images/referrals/cosell-analytics-solutions-v2.png" alt-text="Çözüm performansını gösteren görüntü.":::
 
-## <a name="declined--lost-reasons"></a>& kayıp nedeni reddedildi
+## <a name="declined--lost-reasons"></a>Reddeden & nedenler
 
-Bu bölüm, anlaşmanızın şirketiniz tarafından **reddedildi** veya **kaybedilir** olarak işaretlenme nedenlerini analiz etmenize yardımcı olur. Bu temsiller içindeki seçenekler, satıcılarınızın reddettiği veya kaybolduğu sürece, satıcılarınızın seçtiği nedenlerdir.
+Bu bölüm, anlaşmaların şirket tarafından Reddedildi veya Kaybedildi olarak işaretlenen nedenlerini **analiz** **etmenize** yardımcı olur. Bu gösterimlerdeki seçenekler, satış satıcılarının anlaşmayı kapatırken seçtiği nedenlerle reddeden veya kaybedilen seçeneklerdir.
 
-:::image type="content" source="images/referrals/cosellanalyticsreasons.png" alt-text="Reddetme veya kayıp olarak bir anlaşma yaparken iş ortağı tarafından seçilen nedenleri gösteren resim.":::
+:::image type="content" source="images/referrals/cosellanalyticsreasons.png" alt-text="İş ortağı tarafından seçilen, anlaşmaları kaybederken veya anlaşma yaparken nedenlerin seçil olduğunu gösteren resim.":::
 
 ## <a name="comparison-charts"></a>Karşılaştırma grafikleri
 
-Karşılaştırma bölümü, her ikisi de birimdeki birden çok boyut ve ABD Doları Özeti kazanılan anlaşmalar değeri temelinde başvurularıyla ilgili verileri karşılaştırmanıza yardımcı olur. Verileri karşılaştırmak için seçebileceğiniz üç boyut şunlardır:
+Karşılaştırma bölümü, referanslarla ilgili verileri hem birim hem de USD pivot ile elde edecek olan anlaşma değerine göre birden çok boyuta göre karşılaştırmanıza yardımcı olur. Verileri karşılaştırmak için seçebilirsiniz üç boyut:
 
 - Anlaşma türü
-- Pazar
+- Piyasa
 - Çözümler
 
-Anlaşma türü seçildiğinde, başvuru performansını ortak satış fırsatları, Iş ortağı ve özel anlaşmalar açısından karşılaştırabilirsiniz. Hem pazarlar hem de çözümler için performanslarını karşılaştırmak üzere üç farklı seçenek belirleyebilirsiniz. Bir çubuk grafik olan ilk grafikte, hacim veya anlaşmalar değeri kazanılan ana özete göre ayda ay eğilimi ile sunulan veriler bulunur. Ayrıca, çubuk grafiğin sağında aynı veriler için dağılımı yüzde olarak gösteren bir pasta grafiği de vardır.
+Satış anlaşması türü seçildiğinde referansların performansını Ortak satış fırsatları, İş ortağı liderliğindeki ve Özel anlaşmalar ile karşılaştırabilirsiniz. Hem pazarlar hem de çözümler için performanslarını karşılaştırmak için üç farklı seçenek seçebilirsiniz. Çubuk grafik olan ilk grafikte, ana özete göre aylık eğilimle birlikte sunulan veriler (birim veya kazanılacak anlaşma değeri) yer aya göre gösterilir. Çubuk grafiğin sağında, aynı verilerin yüzdeye göre dağılımını gösteren bir pasta grafiği de vardır.
 
 :::image type="content" source="images/referrals/cosell-analytics-compare-v2.png" alt-text="Karşılaştırma bölümünü gösteren resim.":::
 
-## <a name="raw-data-table"></a>Ham veri tablosu
+## <a name="export"></a>Dışarı Aktarma
 
-Ortak satış fırsatlarıyla ilgili tüm ham veriler aşağıdaki tabloda, gerçekleştirmek  istediğiniz ayrıntılı veya özel analizler için verileri hızla dışarı aktarmanıza yardımcı olacaktır.
+Referans ve anlaşma kayıt verilerini dışarı aktarabilirsiniz. Aşağıdaki bilgiler dışarı aktarma işlevini açıklar.
 
-:::image type="content" source="images/referrals/cosellanalyticsrawdata.png" alt-text="Referanslar için ham veri tablosu gösteren resim.":::
+- Dışarı aktar düğmesine **tıklayarak en fazla 5000** kaydı dışarı **aktarabilirsiniz.** Kayıtlar, referans oluşturma tarihine göre azalan düzende sıralanmış olur.
+- Dışarı aktarma işlevi zaman çizelgesini ve uygulanmış filtreleri dikkate alır.
+- İş ortağı, raporu CSV (Virgülle ayrılmış değer) veya TSV (Sekmeyle ayrılmış değer) biçiminde indirmeyi seçebilir.
+- Kayıtları indirmek birkaç dakika sürebilir.
+- İndirme işleminin tamamlandıktan sonra tamamlanacak şekilde beklemeniz gerekiyor. Uzakta gezinmek dışarı aktarmayı iptal eder.
 
 ## <a name="no-data"></a>Veri yok
 
@@ -121,7 +125,7 @@ Aşağıda açıklandığı gibi Ortak satış analizine erişirken aşağıdaki
 :::image type="content" source="images/referrals/nodata.png" alt-text="Referanslar için veri görselleştirmesi olmadığını gösteren resim.":::
 
 > [!NOTE]
-> **Referanslar** içgörü sayfasında yalnızca İş Ortağı Merkezi'nde oluşturulan tavsiyelere ait veriler gösteriliyor. İş Ortağı Satış Bağlantısı veya başka bir mekanizma aracılığıyla [oluşturulan referanslara](psc-to-pc.md) yönelik verileri göstermez.
+> **Referanslar** içgörü sayfasında yalnızca İş Ortağı Merkezi'nde oluşturulan tavsiyelere ait veriler gösteriliyor. İş Ortağı Satışları veya başka bir mekanizma aracılığıyla oluşturulan [Bağlan](psc-to-pc.md) verileri göstermez.
 
 > [!TIP]
 > İş profilinizin nasıl bir çözüm sağlayıcısı deneyimi [bul'da](https://www.microsoft.com/solution-providers/home) nasıl performans sergile olduğunu görmek için İş profili [içgörüleri sayfasını gözden geçirebilirsiniz.](analyze-your-marketing-profile.md)
