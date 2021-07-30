@@ -3,17 +3,17 @@ title: İş Ortağı Merkezi Öngörüler Dynamics kullanım raporu
 ms.topic: article
 ms.date: 01/11/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-insights
 description: Müşterileriniz için satmanız veya yönetmeniz gereken Dynamics aboneliklerinin kullanımı hakkında daha fazla bilgi alabilirsiniz.
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: 99536a8a80f11a8aa31c83349686b90b6eca7a28
-ms.sourcegitcommit: 4f1702683336d54f24c0ba283f7d13dda581923d
+ms.openlocfilehash: ecc4edbd509557da1314eb7e54fcc013e41682a7
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/16/2021
-ms.locfileid: "114377425"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114838317"
 ---
 # <a name="dynamics-usage-report-available-from-the-partner-center-insights-dashboard"></a>Dynamics kullanım raporu iş ortağı merkezi Analizler panosu 'nda kullanılabilir
 

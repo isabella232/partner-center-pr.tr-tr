@@ -1,70 +1,70 @@
 ---
-title: İş Ortağı Merkezi Öngörüler takımlar kullanım raporu
+title: İş ortağı merkezi içgörüleri ekipleri kullanım raporu
 ms.topic: article
 ms.date: 01/11/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
-description: müşterilerinizin sattığı ve yönettiğiniz Teams aboneliklerin kullanımı ile ilgili olarak neler yapabileceğinizi görün.
+ms.subservice: partnercenter-insights
+description: İyi bir şekilde neler yaptığına ve müşterileriniz için satıp Teams aboneliklerin kullanımıyla ilgili olarak geliştirebilirsiniz.
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: 236cc9d8d2252f5c1b05f8654ec5c81828dc63fe
-ms.sourcegitcommit: 4f1702683336d54f24c0ba283f7d13dda581923d
+ms.openlocfilehash: 390c81496c16afb20ede58420c1201b24349708e
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/16/2021
-ms.locfileid: "114376870"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114846171"
 ---
-# <a name="teams-usage-report-available-from-the-partner-center-insights-dashboard"></a>Teams kullanım raporu, iş ortağı merkezi Analizler panosundan kullanılabilir
+# <a name="teams-usage-report-available-from-the-partner-center-insights-dashboard"></a>Teams panosundan kullanılabilen İş Ortağı Merkezi Analizler raporu
 
-**Uygun roller**: genel yönetici | Yönetici Aracısı | Rapor Görüntüleyici | Executive rapor Görüntüleyicisi
+**Uygun roller:** Genel yönetici | Yönetici aracısı | Rapor görüntüleyici | Yönetici raporu görüntüleyicisi
 
-Teams kullanım raporu, müşterileriniz için sattığınız veya yönettiğiniz Teams iş yükleriniz ile ilgili ölçümleri sunar. Teams kullanım raporundan aşağıdaki bölümleri görüntüleyebilirsiniz.
+Kullanım Teams raporu, müşterileriniz için sattığınız veya Teams iş yükleriniz ile ilgili ölçümleri sunar. Teams Usage raporundan aşağıdaki Teams görüntüebilirsiniz.
 
 - Özet
-- Konuşmalar eğilimi
-- iş yüklerine göre Teams kullanımı
-- Kullanıma göre popüler müşteriler
+- Konuşma eğilimi
+- Teams göre kullanımı dengeleme
+- Kullanımlara göre en iyi müşteriler
 
  > [!NOTE]
- > bu rapor Analizler panosundan kullanılabilir. Bu raporu görüntülemek için Iş Ortağı Merkezi 'nde genel yönetici, hesap yöneticisi, rapor Görüntüleyicisi veya Executive rapor Görüntüleyicisi gibi belirli bir rol atanması gerekir. Daha fazla bilgi için şirketinizin genel Yöneticisi ' ne bakın. Bu rapordaki belirli veri türleri yalnızca, Executive rapor Görüntüleyicisi ayrıcalıklarına sahip kullanıcılar tarafından kullanılabilir.
+ > Bu rapor, Analizler kullanılabilir. Bu raporu görüntülemek için genel yönetici, hesap İş Ortağı Merkezi, Rapor görüntüleyicisi veya Yönetici rapor görüntüleyicisi gibi belirli bir rol atanmış olması gerekir. Daha fazla bilgi için bkz. şirketin Genel yöneticisi. Bu rapora özgü veri türleri yalnızca Yönetici rapor görüntüleyici ayrıcalıklarına sahip kullanıcılar tarafından da kullanılabilir.
 
 ## <a name="summary"></a>Özet
 
-özet bölümü, müşterileriniz için sizin tarafınızdan satılan veya yönetilen Teams iş yükleriyle ilgili temel göstergelerin bir anlık görünümünü sunar.  
+Özet bölümü, müşterileriniz için sizin tarafından satılan veya yönetilen iş yüklerinin Teams ana göstergelerin anlık görüntü görünümünü sunar.  
 
-- Müşteriler: seçili süre için iş yükü olarak Teams kullanan farklı müşteri sayısı.
+- Müşteriler: Seçilen süre boyunca Teams iş yükü olarak kullanan müşterilerin ayrı sayısı.
 
-- toplantı sayısı: müşterilerinizin yaptığı Teams toplantılarının sayısı.
+- Toplantı sayısı: Müşterileriniz Teams yapılan toplantı sayısı.
 
-- Müşteri başına günlük ortalama Toplantı sayısı: müşteri başına günlük ortalama Toplantı sayısı. 
+- Müşteri başına günlük ortalama toplantı sayısı: Müşteri başına günlük ortalama toplantı sayısı. 
 
-- Toplantı süresi (saat): toplam toplantı süresi saat cinsinden. 
+- Toplantı süresi (saat): Saat olarak toplam toplantı süresi. 
 
-- Ortalama toplantı süresi (dakika): dakika cinsinden ortalama toplantı süresi. 
+- Ortalama toplantı süresi (dakika): Dakika olarak ortalama toplantı süresi. 
 
-:::image type="content" source="images/insights/teams-usage-summary.png" alt-text="Teams kullanım özeti.":::
+:::image type="content" source="images/insights/teams-usage-summary.png" alt-text="Teams özeti.":::
 
-## <a name="conversations-trend"></a>Konuşmalar eğilimi
+## <a name="conversations-trend"></a>Konuşma eğilimi
 
-konuşmalar eğilimi raporu, ortalama toplantı süresi ile birlikte Teams toplantıların, çağrıların ve telefon sistemlerinin aylık eğilimini gösterir.
+Konuşmalar eğilim raporu, dakikalar içinde ortalama toplantı süresiyle Teams, arama ve telefon sistemlerinin aylık eğilimini gösterir.
 
-:::image type="content" source="images/insights/teams-usage-conversation-trends.png" alt-text="takımlar kullanım konuşması eğilimleri.":::
+:::image type="content" source="images/insights/teams-usage-conversation-trends.png" alt-text="ekip kullanımı konuşma eğilimleri.":::
 
-## <a name="teams-usage-by-workloads"></a>iş yüklerine göre Teams kullanımı
+## <a name="teams-usage-by-workloads"></a>Teams göre kullanımı dengeleme
 
-iş yükleri tarafından Teams kullanımı raporu, masaüstü, mobil ve web kullanıcılarının iş yükleri tarafından bölüneceği Teams aylık olarak bölünmesini gösterir.
+İş Teams kullanımı raporu, iş yüklerini kullanan kullanıcıların aylık masaüstü, mobil ve web Teams bölmesini gösterir.
 
-:::image type="content" source="images/insights/teams-usage-workload.png" alt-text="iş yüklerine göre Teams kullanımı.":::
+:::image type="content" source="images/insights/teams-usage-workload.png" alt-text="Teams göre kullanımı dengeleme.":::
 
-## <a name="top-customers-by-usage"></a>Kullanıma göre popüler müşteriler
+## <a name="top-customers-by-usage"></a>Kullanımlara göre en iyi müşteriler
 
-kullanıma göre popüler müşteriler raporu, Teams toplantılar, çağrılar ve telefon sistemleri ve üçüncü taraf uygulamalar için en popüler müşterilerin kullanımını gösterir.
+Kullanım raporuna göre en iyi müşteriler raporu, toplantı, Teams telefon sistemleri ve üçüncü taraf uygulamalar için en iyi müşterilerin kullanımını gösterir.
 
-:::image type="content" source="images/insights/teams-usage-top-customer.png" alt-text="Kullanıma göre popüler müşteriler.":::
+:::image type="content" source="images/insights/teams-usage-top-customer.png" alt-text="Kullanımlara göre en iyi müşteriler.":::
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-- daha fazla rapor için bkz. [iş ortağı merkezi Analizler](partner-center-insights.md).
+- Daha fazla rapor için [bkz. İş Ortağı Merkezi Analizler.](partner-center-insights.md)
 
-- ham verileri, Analizler panosundaki raporları indir bölümünden bu raporu güçden indirebilirsiniz. [Daha Fazla Bilgi](insights-download-reports.md) 
+- Bu raporu güçlü bir şekilde kullanarak ham verileri panonun Raporları İndir bölümünden Analizler indirebilirsiniz. [Daha Fazla Bilgi](insights-download-reports.md) 

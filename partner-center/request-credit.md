@@ -2,87 +2,87 @@
 title: Microsoft'tan SLA iade isteğinde bulunma
 ms.topic: article
 ms.date: 03/31/2021
-description: Müşterileriniz hizmet kesintisi yaşamaları için Microsoft'tan hizmet düzeyi sözleşmesi (SLA) kredisi talep etmek için avantajları, kısıtlamaları ve yordamları öğrenin.
+description: Müşterileriniz bir hizmet kesintisi yaşanırsa, Microsoft 'tan bir hizmet düzeyi sözleşmesi (SLA) kredisi istemek için avantajları, kısıtlamaları ve yordamları öğrenin.
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-billing
 author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 3a0bb85143efe3d4135b56985b9a04e2dbe5e4cc
-ms.sourcegitcommit: 57442bbbef15a70bd9a042642140cbf2c8608b09
+ms.openlocfilehash: d98130f22fee81a50b40b8ae08a3fcf909201389
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/09/2021
-ms.locfileid: "113519437"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114839694"
 ---
-# <a name="how-and-when-to-request-a-service-level-agreement-sla-credit-from-microsoft"></a>Microsoft'tan hizmet düzeyi sözleşmesi (SLA) kredisi nasıl ve ne zaman talep edilebilir?
+# <a name="how-and-when-to-request-a-service-level-agreement-sla-credit-from-microsoft"></a>Microsoft 'tan bir hizmet düzeyi sözleşmesi (SLA) kredisi isteme
 
-**Uygun roller:** Yönetici aracısı | Genel yönetici
+**Uygun roller**: yönetici Aracısı | Genel yönetici
 
-Müşterileriniz için sağlamakta olduğu bir hizmette kesinti olursa Microsoft'tan hizmet düzeyi sözleşmesi **(SLA)** kredileri talep edilebilir.
+Müşterileriniz için sağladığınızı bir hizmet kesintiye neden olursa, Microsoft 'tan **hizmet düzeyi sözleşmesi (SLA) kredileri** isteyebilirsiniz.
 
 ## <a name="sla-credit-calculation"></a>SLA kredi hesaplaması
 
-Microsoft'un SLA kredileri, hangi hizmetlerden etkilenlerine bağlı olarak belirlenir. Örneğin, müşterinizin bir Office 365 paketi varsa ancak yalnızca SharePoint kesintisi yaşanıyorsa, SLA kredisi yalnızca SharePoint için onaylanır ve müşterinin planının tamamı için onaylanmaz.
+Microsoft 'tan alınan SLA kredileri, hangi hizmet (ler) in etkilendiğini temel alır. örneğin, müşterinizin bir Office 365 paketi varsa ancak yalnızca bir SharePoint kesintisi yaşanıyorsa, SLA kredisi yalnızca SharePoint için onaylanır ve müşterinin tüm planı değildir.
 
-*Krediler, etkilenen hizmete ve kesinti süresine göre provok olarak derecelendirilmiştir.* SLA kredileri için uygun olan senaryo türlerini görmek için Çevrimiçi Hizmetler Birleştirilmiş [SLA belgesine bakın.](http://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=37) Bu bilgiler, Bulut Çözümü Sağlayıcısı (CSP) programı aracılığıyla satılan hizmetler için de geçerlidir.
+*Krediler, etkilenen hizmet ve kesinti süresi temel alınarak Pro derecelendirilir.* SLA kredilerine uygun olan senaryoların türlerini görmek için bkz. [çevrimiçi hizmetler BIRLEŞTIRILMIŞ SLA belgesi](http://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=37). bu bilgiler, Bulut Çözümü Sağlayıcısı (CSP) programı aracılığıyla satılan hizmetler için geçerlidir.
 
 
-## <a name="request-an-sla-credit"></a>SLA kredisi isteği
+## <a name="request-an-sla-credit"></a>SLA Kredisi isteme
 
-*CSP iş ortağının talebi ve tüm gerekli bilgileri olayın meydana geldiği aydan sonraki takvim ayı sonuna kadar göndermesi gerekir.* Örneğin, olay 15 Şubat'ta oluştu ise Microsoft'un talebi ve tüm gerekli bilgileri 31 Mart'a kadar almaları gerekir. Son müşteriler ve dolaylı kurumsal bayiler SLA kredi talepleri gönderemektedir; Dolaylı sağlayıcı veya doğrudan fatura iş ortağının talepleri kendileri adına göndermesi gerekir.
+*CSP iş ortağı, olayın gerçekleştiği ay sonra takvim ayının sonuna kadar talebi ve tüm gerekli bilgileri göndermesi gerekir.* Örneğin, olay 15 Şubat 'da oluştuysa, Microsoft talep ve tüm gerekli bilgileri 31 Mart 'a almalıdır. Son müşteriler ve dolaylı satıcılar SLA kredi taleplerini gönderemez; dolaylı sağlayıcı veya doğrudan fatura ortağı kendi adına talepler göndermesi gerekir.
 
 > [!NOTE]
-> Danışmanlık olayları genellikle SLA kredileri için uygun değildir. Hizmet Durumu Panosu'na gönderilen bir  olay, kiracının etki altında olduğunu gösterir ve yayımlama zamanında Microsoft'un sahip olduğu en iyi bilgileri temsil eder. Sistem durumu sayfası verileri bir hizmetin genel kullanılabilirliğini temsil eder. Tek tek hizmet etkisi, azaltma ve çözüm farklılık gösterebilir. Diğer ayrıntılar için son Olay Gönderisini ve Olay Sonrası Gözden Geçirmeyi gözden geçirebilirsiniz. Daha [fazla bilgi için Microsoft 365 hizmet durumunu](/microsoft-365/enterprise/view-service-health#incidents-and-advisories) denetleme.
+> Danışmanlık olayları genellikle SLA kredileri için uygun değildir. Hizmet durumu panosuna gönderilen bir olay, *bir kiracının etkilenip etkilenmeyeceğini* ve Microsoft 'un yayımlama sırasında sahip olduğu en iyi bilgileri temsil ettiğini gösterir. Sağlık sayfası verileri bir hizmetin genel kullanılabilirliğini temsil eder. Tek tek hizmet etkisi, risk azaltma ve çözüm farklılık gösterebilir. Daha fazla ayrıntı için son olay sonrası ve olay sonrası Incelemesini gözden geçirebilirsiniz. daha fazla bilgi için bkz. [Microsoft 365 hizmeti sistem durumunu denetleme](/microsoft-365/enterprise/view-service-health#incidents-and-advisories) .
 
 ### <a name="required-information"></a>Gerekli bilgiler
 
-Müşteri adı, kiracı tanımlayıcısı, iş ortağı bileti# ve oluşturulan bilet tarih/saat damgası bir talebin işlenmesi için yeterli değildir.
+Müşteri adı, kiracı tanımlayıcısı, iş ortağı bileti # ve bilet oluşturma tarih/saat damgası, bir talebin işlenmesine yetecek kadar yeterli değildir.
 
-[Microsoft'a bir SLA kredi isteği](#submit-sla-credit-request) göndermeden önce destek **biletinize** eklemek için aşağıdaki tüm bilgileri toplamanız gerekir:
+Microsoft 'a [BIR SLA Kredisi isteği göndermeden](#submit-sla-credit-request) önce, destek biletine dahil etmek için aşağıdaki **Tüm** bilgileri toplamanız gerekir:
 
-- Müşteri kiracısı GUID'si
-- Kesinti [olayı tanımlayıcısı?](#outage-incident-identifier)
-- Müşterinin kesintiden etki olduğuna ve SLA kredisi isteğine sahip olduğuna dair kanıt.
-- Etkilene abonelikler CSP aracılığıyla mı satın alındı? (*evet* veya *hayır*)
+- Müşteri kiracının GUID 'SI
+- [Kesinti olayı tanımlayıcısı](#outage-incident-identifier)?
+- Müşterinin kesinti tarafından etkilendiğine ve bir SLA Kredisi istemiş olduğunu kanıtlandı.
+- CSP aracılığıyla satın alınan etkilenen abonelikler mi? (*Evet* veya *Hayır*)
 
-#### <a name="evidence-that-proves-customer-impact"></a>Müşterinin etkisini kanıtlayacak kanıt
+#### <a name="evidence-that-proves-customer-impact"></a>Müşteri etkisini kanıtlayan kanıt
 
-- Kapalı kalma süresi ve süresiyle ilgili bilgiler
+- Kapalı kalma süresinin süresi ve süresiyle ilgili bilgiler
 - Etkilenen kullanıcıların sayısı ve konumları (varsa)
-- Olay oluşma zamanında olayı çözümlemeye yönelik girişimlerinizin açıklamaları
-- Etkilene müşteriden destek ve daha sonra kredi talep eden bir e-posta
-- Hizmet etkisini çözümleme konusunda destek bileti numarası ve müşteriyle iletişimin ayrıntıları
+- Olay oluşma sırasında çözülmesi girişimlerinizin açıklamaları
+- Etkilenen müşteriden gelen ve daha sonra kredi isteyen bir e-posta
+- Hizmet etkisini çözme ile ilgili olarak müşteri kişisinin destek bileti numarası ve ayrıntıları
 
 
 #### <a name="outage-incident-identifier"></a>Kesinti olayı tanımlayıcısı
 
-Kesinti olayı tanımlayıcısını hizmet durumu sayfasındaki **Hizmet** Durumu sayfasında Microsoft 365 yönetim merkezi. Kesinti **Olay Kimliği,** etkilenen hizmeti belirten iki harfli bir kısaltmadan önce gelen bir sayıdır (örneğin, bir kesinti için *EX25194* Exchange Online). Aşağıdaki tabloda Common Service kısaltmaları açıkmektedir:
+kesinti olayı tanımlayıcısını Microsoft 365 yönetim merkezi **hizmet durumu** sayfasında bulabilirsiniz. **kesinti olayı kimliği** , etkilenen hizmeti gösteren iki harfli kısaltmadan önce gelen bir sayıdır (örneğin, bir Exchange Online kesintisi için *EX25194* ). Takip tablosu yaygın hizmet kısaltmalarını açıklar:
 
 | İki harfli kısaltma | Microsoft hizmeti |
 | ----------------------- | ----------------- |
-| Ex | Exchange Online |
-| Fo | Exchange Online Protection |
-| Sb | Skype Kurumsal Çevrimiçi (eski adı Lync Online) |
-| İşletim Sistemi | Office Abonelik |
+| DEĞERINE | Exchange Online |
+| INFO | Exchange Online Protection |
+| Ise | Skype Kurumsal Çevrimiçi (eski adıyla Lync Online) |
+| İşletim Sistemi | Office Aboneliğiniz |
 | PB | Office 365 için Power BI |
-| Sp | SharePoint Online |
-| YA | Yammer Enterprise |
+| SP2 | SharePoint Online |
+| ASKıYA | Yammer Enterprise |
 | MO | Portal hatası |
 
-### <a name="submit-sla-credit-request"></a>SLA kredi isteği gönderme
+### <a name="submit-sla-credit-request"></a>SLA kredi isteği gönder
 
-SLA kredi isteğinizi Microsoft'a İş Ortağı Merkezi için:
+SLA kredi isteğinizi Iş Ortağı Merkezi panosu üzerinden Microsoft 'a göndermek için:
 
 1. İş Ortağı Merkezi panosunda oturum açın.
-2. Sol menüde Hizmet istekleri'ne ve ardından **İş ortağı** destek **istekleri'ne tıklayın.**
-3. İş ortağı **isteği sayfasında Yeni** **istek'i seçin.**
-4. İsteği **başlat sayfasında** **CSP - müşteriler, siparişler ve abonelikler bölümünü bulun.** Bu bölümde Sorun türü **seçin'i ve ardından** Müşteri hizmetleri **kredi istekleri'ne tıklayın.**
-5. Önerilen **çözümler sayfasında, Daha** fazla yardıma **ihtiyacınız var mı?** altında Evet'i **seçin.**
-6. Ayrıntılar **sayfasında** Sorun ayrıntıları **bölümünü** doldurun. Ayrıntılar **metin** kutusuna daha önce toplanmış olan [gerekli bilgileri](#required-information) girmeyin.
-7. SLA **kredi** isteğinizi göndermek için Gönder'i seçin.
+2. Sol taraftaki menüde **hizmet istekleri**' ni seçin ve **iş ortağı destek istekleri**' ni seçin.
+3. **Iş ortağı isteği** sayfasında, **yeni istek**' ı seçin.
+4. **Isteği Başlat** sayfasında, **CSP-müşteriler, siparişler ve abonelikler** bölümünü bulun. Bu bölümde, **bir sorun türü seçin**' i seçin ve ardından **Müşteri Hizmetleri kredi istekleri**' ni seçin.
+5. **Önerilen çözümler** sayfasında, **daha fazla yardıma mı ihtiyacınız var?** altında **Evet**' i seçin.
+6. **Ayrıntılar** sayfasında, **Sorun ayrıntıları** bölümünü doldurun. **Ayrıntılar** metin kutusunda, daha önce topladığınız [gerekli bilgileri](#required-information) girdiğinizden emin olun.
+7. SLA kredi isteğiniz içinde göndermek için **Gönder** ' i seçin.
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-- [Sorunları müşteriniz adına bildirme](report-problems-on-behalf-of-a-customer.md)
+- [Müşterinizin adına sorunları bildirin](report-problems-on-behalf-of-a-customer.md)

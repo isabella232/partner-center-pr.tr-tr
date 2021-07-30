@@ -1,43 +1,43 @@
 ---
-title: Müşterilere rezervasyon Microsoft Azure satış
-description: Bir Bulut Çözümü Sağlayıcısı olarak, müşteriler için Azure rezervasyonları satın alabilir, satabilirsiniz veya yönetabilirsiniz. İş Ortağı Merkezi, Azure portal API'sini veya İş Ortağı Merkezi kullanın.
+title: rezervasyonları Microsoft Azure müşterilere satma
+description: Bulut Çözümü Sağlayıcısı olarak, müşteriler için Azure ayırmaları satın alabilir, satmanıza veya yönetebilirsiniz. Iş Ortağı Merkezi, Azure portal veya Iş Ortağı Merkezi API 'sini kullanın.
 ms.topic: article
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-pricing
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 08/06/2020
-ms.openlocfilehash: b97cafea9ad2f36718418c7c7cfca5f91ee8849c
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 10a9789d10d03a1a6ddd0aa2cd5ccc0e320b9c07
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110149477"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114838335"
 ---
-# <a name="sell-microsoft-azure-reservations-to-customers-using-partner-center-the-azure-portal-or-apis"></a>Microsoft Azure, Azure portal VEYA API'leri kullanarak müşterilere İş Ortağı Merkezi rezervasyonları satma
+# <a name="sell-microsoft-azure-reservations-to-customers-using-partner-center-the-azure-portal-or-apis"></a>iş ortağı merkezi, Azure portal veya apı 'leri kullanarak müşterilere Microsoft Azure ayırmaları satma
 
-**Uygun roller:** Yönetici aracısı | Genel yönetici | Yardım masası aracısı | Satış aracısı | Kullanıcı yönetimi yöneticisi
+**Uygun roller**: yönetici Aracısı | Genel yönetici | Yardım Masası Aracısı | Satış Aracısı | Kullanıcı Yönetimi Yöneticisi
 
-Bulut Çözümü Sağlayıcısı programı (CSP) iş ortağı olarak müşteriler için Azure rezervasyonlarını satın alabilir, satabilirsiniz veya yönetabilirsiniz. İş Ortağı Merkezi, Azure portal API'sini veya İş Ortağı Merkezi kullanın.
+Bulut Çözümü Sağlayıcısı programında (CSP) bir iş ortağı olarak müşteriler için Azure ayırmaları satın alabilir, sattabilir veya yönetebilirsiniz. Iş Ortağı Merkezi, Azure portal veya Iş Ortağı Merkezi API 'sini kullanın.
 
 > [!NOTE]
-> Bu makale yalnızca CSP'de iş ortakları için geçerlidir. Diğer abonelik türlerini (kullansanız öde, bireysel, Microsoft Müşteri Sözleşmesi veya Kurumsal Anlaşma abonelikler gibi) kullanan müşterilerin bu Azure rezervasyonları belgelerini [okuması gerekir.](/azure/cost-management-billing/reservations)
+> Bu makale yalnızca CSP 'deki iş ortakları için geçerlidir. diğer abonelik türleri (örneğin, kullandıkça öde, bireysel, Microsoft müşteri sözleşmesi veya Kurumsal Anlaşma abonelikleri) kullanan müşteriler [bu Azure ayırmaları belgelerini](/azure/cost-management-billing/reservations)okumalı olmalıdır.
 
-CSP programı iş ortakları, müşterilerine farklı rezervasyonlar Microsoft Azure sunabilirsiniz. Müşteriler önceden rezervasyonları yapılana kadar önemli tasarruflar elde eder. Azure rezervasyonları müşterilere aşağıdaki yollarla kolaylık ve esneklik sunar:
+CSP programındaki iş ortakları, müşterilerine Microsoft Azure ayırmaları sunabilir. Müşteriler, önceden ayrıldıklarında önemli tasarruf elde edebilirler. Azure ayırmaları, müşterileri basitliği ve esnekliği aşağıdaki yollarla sunmaktadır:
 
-- Bir veya üç yıllık rezervasyon koşulları
-- Kolayca çalışmaya başlama; kurulum saniyeler içinde tamamlandı
-- Ayarlanmış para iadesi için ayrılmış örnekleri istediğiniz zaman iptal etme veya değiştirme
-- Ayrılmış örnek kullanımını kuruluş veya bireysel departman düzeyinde yönetme
+- Bir veya üç yıllık rezervasyon terimi
+- Kullanmaya başlamak kolaydır; Kurulum saniye cinsinden tamamlandı
+- Ayarlanmış para iadesi için dilediğiniz zaman ayrılan örnekleri iptal edin veya değiştirin
+- Ayrılmış örnek kullanımını kurumsal veya ayrı departman düzeyinde yönetme
 
-Azure rezervasyonları aşağıdaki yollarla müşterilere hitap eder:
+Azure ayırmaları, müşterilere aşağıdaki yollarla yol açabilir:
 
-- Rezervasyonlar, öde (PAYG) fiyatlandırması üzerinden önemli tasarruflar sun olabilir
-- Bir yıllık veya üç yıllık dönemler için peşin ödeme ile daha iyi bütçe ve tahmin
-- Ofislerine en yakın Azure bölgesinde öncelikli bilgi işlem kapasitesi
-- Azure ayırmaları, Microsoft Windows Server ve Azure SQL veritabanı gibi yazılımlarla birleştirildiğinde uçtan uca altyapı çözümlerine yönelik temel sağlar
+- Rezervasyonlar, Kullandıkça Öde (PAYG) fiyatlandırmasına göre önemli tasarruf sağlayabilir
+- Tek yıllık veya üç yıllık şartlar için ön ödeme ile daha iyi bütçeleme ve tahmin
+- Azure bölgesinde ofislerine en yakın önceliğe sahip bilgi işlem kapasitesi
+- Azure ayırmaları, Microsoft Windows Server ve Azure SQL Veritabanı gibi yazılımlarla birleştirildiğinde uçtan uca altyapı çözümlerine yönelik temel sağlar.
 
 >[!NOTE]
 > Azure ayırmalarını hem Iş ortağı merkezi hem de Azure portal satın alabilir, satın alabilir ve yönetebilirsiniz ve Iş Ortağı Merkezi API 'sini kullanabilirsiniz. Müşterilerinize satın almış olduğunuz bir Azure aboneliğinden kendi Azure ayırmalarını satın alma izni verebilirsiniz. Hakkında bilgi edinmek için aşağıdaki bağlantıları izleyin.

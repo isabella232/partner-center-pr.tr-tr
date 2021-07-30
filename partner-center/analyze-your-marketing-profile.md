@@ -1,43 +1,43 @@
 ---
-title: Müşteri adaylarınızı çözümleyin
+title: Müşteri adaylarınızı analiz etme
 ms.topic: article
 ms.date: 06/15/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
-description: Müşteri adayları içgörüleri sayfasını kullanarak hedef müşterilerinizin dikkatini nerede yakalamadığını ve başvuruları oluşturmayı öğrenin.
+ms.subservice: partnercenter-referrals
+description: Müşteri adayları içgörüleri sayfasını kullanarak hedef müşterilerinize ne kadar iyi bir şekilde dikkat çekmek ve referanslar oluşturmak için ne kadar iyi olduğunu öğrenin.
 author: vikrambmsft
 ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: 6ddb9544e0c6f6a29540fe30d03d307318ddfdf8
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 55e502895b63e1c1a7e41f3d316355bedd7f7001
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110150225"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114839116"
 ---
 # <a name="analyze-your-leads---see-how-well-you-attract-target-customers-and-potential-referrals"></a>Müşteri adaylarınızı analiz edin: Hedef müşterileri ve potansiyel referansları ne kadar iyi çektiğinizi görün
 <!-- 
 https://go.microsoft.com/fwlink/?linkid=849120
 -->
 
-**Uygun roller**: başvuru Yöneticisi
+**Uygun roller:** Referans yöneticisi
 
-Başvurularda **analiz** bölümünün altındaki **müşteri adayları** sayfası, başvurularınızın nasıl çalıştığını görmenizi sağlar. Dikkat edilmesi gereken eğilimleri veya alanı belirlemek için bu ölçümleri düzenli olarak gözden geçirin ve iş hedeflerinize doğru bir şekilde sürüyi başlatın.
+Referanslar **bölümündeki** Analiz bölümünün **altındaki** Müşteri Adayları sayfası, referanslarınızı nasıl performansla karşılar. Dikkat gereken eğilimleri veya alanları belirlemek için bu ölçümleri düzenli olarak gözden geçirin ve iş hedeflerinize doğru ilerlenin.
 
-Müşteri adayları öngörülerini görmek için, Iş Ortağı Merkezi menüsünden başvurular ' a gidin **> müşteri adaylarını analiz edin >**.
+Müşteri adayları içgörü verilerinizi görmek için İş Ortağı Merkezi menüsünden Referanslar ve Müşteri Adaylarını **> > gidin.**
 
 ## <a name="apply-filters"></a>Filtreleri uygulama
 
-**Müşteri adayları** sayfasının en üstünde, verileri göstermek istediğiniz zaman dilimini seçebilirsiniz. Varsayılan seçim **3Dk** (üç ay) olur, ancak verileri altı ay veya bir yılda bir dönem için göstermeyi tercih edebilirsiniz. Ayrıca, belirli bir dönemdeki tüm başvuruların verilerini görmek için **özel** ' i de seçebilirsiniz.
+Müşteri Adayları **sayfasının** üst kısmından verileri göstermek istediğiniz zaman dönemini seçin. Varsayılan seçim **3 milyon** (üç ay) olur, ancak bunun yerine altı aylık veya bir yıllık bir süre için verileri göstermeyi seçebilirsiniz. Belirli bir zaman **dönemi içinde tüm** referanslara yönelik verileri görmek için Özel'i de kullanabilirsiniz.
 
-Bu sayfadaki tüm verileri müşteri adı, ülke, anlaşma türü, anlaşma yönü, çözüm adı ve durum ile filtrelemenizi sağlayan paneli açmak için filtreler düğmesine tıklayabilirsiniz. Bu filtrelerin ayrıntıları aşağıda verilmiştir.
+Bu sayfadaki tüm verileri Müşteri adı, Ülke, Anlaşma türü, Anlaşma yönü, Çözüm adı ve Durum'a göre filtrelemenizi sağlayan paneli açmak için Filtreler düğmesine tıklayabilirsiniz. Bu filtrelerin ayrıntıları aşağıda verilmiştir.
 
-- **Müşteri adı**: **Tümü** varsayılandır, ancak verileri seçtiğiniz bir veya daha fazla müşteriyle sınırlayabilirsiniz.
-- Ülke: **Tümü** varsayılandır, ancak verileri seçtiğiniz bir veya daha fazla müşterinin bir veya daha fazla **ülkesine** sınırlayabilirsiniz.
-- **Başvuru programı**: varsayılan **varsayılandır, ancak** verileri belirli bir başvuru programıyla sınırlayabilirsiniz. Bu filtre yalnızca kuruluşunuz başvuru programına kayıtlıysa görülebilir.
-- **Durum**: **Tümü** varsayılandır, ancak verileri kabul edilen, reddedilen, süresi biten, kaybolan ve kazanıldı gibi bir veya daha fazla başvuru durum türü içeren başvurularda sınırlamayı seçebilirsiniz.
-- **Nitelik türü**: **Tümü** varsayılandır, ancak verileri Market müşteri adayları veya nitelikli müşteri adayları olan başvurulardan sınırlandırmaya de seçebilirsiniz.
+- **Müşteri adı:** Varsayılan değer **All**'tir, ancak verileri, seçerek bir veya daha fazla müşteriyle sınırabilirsiniz.
+- **Ülke:** Varsayılan **değer All**'tir, ancak verileri, sizin seçerek müşterinin bir veya daha fazla ülkesiyle sınırlandırabilirsiniz.
+- **Referans programı:** Varsayılan değer **All 'tir,** ancak verileri belirli bir referans programıyla sınırlandırabilirsiniz. Bu filtre yalnızca, kuruluş referans programına kayıtlı ise görünür.
+- **Durum:** Varsayılan değer **All**'tir, ancak verileri kabul edilen, reddedilen, süresi dolmuş, kaybedilmiş ve seçtiğiniz kazandı gibi bir veya daha fazla referans durumu türü içeren referanslar ile sınırlamayı seçebilirsiniz.
+- **Nitelik türü:** Varsayılan **değer All**'tir, ancak verileri market müşteri adayları veya nitelikli müşteri adayları olan referanslar ile sınırlamayı seçebilirsiniz.
 
 Aşağıda listelenen tüm grafiklerde yer alan bilgiler, aşağıda belirtilenler dışında seçtiğiniz tarih aralığını ve filtreleri gösterir. Bazı bölümler, belirli bir çözüme filtreleme gibi ek filtreler uygulamana da olanak sağlar.
 
@@ -53,33 +53,33 @@ Yüzde değişikliği ölçümleri (kırmızı veya yeşil, ok göstergesiyle g�
 
 ## <a name="conversion-funnel"></a>Dönüşüm hunisi
 
-Bu bölümde, anlaşmalarının yaşam döngüsü boyunca bir durumdan diğerine nasıl taşınacaklarına gösteren görsel bir gösterge yer almaktadır. Bu bölümün ana özete göre satış hacmine ve ABD doları değerindeki satış anlaşması değerine göre yaşam döngüsünün tamamını görüntüebilirsiniz. İlk bölüm, birimin veya değerin türüne göre görsel bir göstergesini vermek için satış anlaşması türüyle etiketlenmiş. Ayrıca geçmişten gelen müşteri adayları bölümü de vardır. Bu bölüm, bunları kabul etme/gerileme veya rapor için seçilen zaman dönemi içinde kazanildi/kaybedildi olarak işaretleme eylemini hangi anlaşmalar için yaptıklarını belirtmek için kullanılır. Anlaşmaların yaşam döngülerinin çeşitli aşamalarındaki ilerlemesini görüntülemek için filtreler uygulayabilirsiniz.
+Bu bölümde, anlaşmalarının yaşam döngüsü boyunca bir durumdan diğerine nasıl taşınacaklarına gösteren görsel bir gösterge yer almaktadır. Bu bölümün ana özete göre satış hacmine ve ABD doları değerindeki satış anlaşması değerine göre yaşam döngüsünün tamamını görüntüebilirsiniz. İlk bölüm, birimin veya değerin türüne göre görsel bir göstergesini vermek için satış anlaşması türüyle etiketlenmiş. Ayrıca geçmişteki Müşteri Adayları bölümü de vardır. Bu bölüm, bunları kabul etme/gerileme veya rapor için seçilen zaman dönemi içinde kazanildi/kaybedildi olarak işaretleme eylemini hangi anlaşmalar için yaptıklarını belirtmek için kullanılır. Anlaşmaların yaşam döngülerinin çeşitli aşamalarındaki ilerlemesini görüntülemek için filtreler uygulayabilirsiniz.
 
-:::image type="content" source="images/referrals/leadsanalyticsfunnel.png" alt-text="Başvurular için dönüştürme huni gösteren resim.":::
+:::image type="content" source="images/referrals/leadsanalyticsfunnel.png" alt-text="Referanslar için dönüştürme hunisi gösteren resim.":::
 
-## <a name="leads-by-geography"></a>Coğrafya ile müşteri adayları
+## <a name="leads-by-geography"></a>Coğrafyaya göre müşteri adayları
 
-Bu bölümde, her bir ülke/bölge ile ilgili ayrıntıların yanı bilgi verilen anlaşmalar/bölgeler gösterilir. Her ülkenin işlem ayrıntılarının, tüm ülkelerin harita görünümüyle birlikte bir tablo görünümü vardır. Tablodaki belirli bir ülkeye tıklayabilirsiniz veya belirli bir ülkeyi yakınlaştırmak için harita görünümüne tıklayabilirsiniz.
+Bu bölümde anlaşmaların geldiği ülkeler/bölgeler ve her ülke/bölgeye ilişkin ayrıntılar yer almaktadır. Her ülke için anlaşma ayrıntılarının tablo görünümü ve tüm ülkelerin harita görünümü vardır. Tabloda belirli bir ülkeye tıklar veya harita görünümüne tıklar ve belirli bir ülkeyi yakınlaştırabilirsiniz.
 
-:::image type="content" source="images/referrals/leadsanalyticsgeodistribution.png" alt-text="Başvuruların coğrafi dağılımını gösteren resim.":::
+:::image type="content" source="images/referrals/leadsanalyticsgeodistribution.png" alt-text="Referansların coğrafi dağılımını gösteren resim.":::
 
 ## <a name="leads-by-program"></a>Programa göre müşteri adayları
 
-Bu tablo ve grafik birleşimi, başvuru programınızın hangi müşteri adaylarına en fazla başvuruları ve en yüksek anlaşma değerini yönlendirdiğini görmenizi sağlar.
-Tabloda toplam müşteri adayları, SLA 'da (24 saat), hem yüzde hem de mutlak koşullarda kabul edilmiş olan müşteri adayları, süresi geçmiş olan müşteri adayları ve toplam müşteri adayları değeri ABD para birimi cinsinden kazanılan müşteri adayları vardır. Ayrıca, toplam anlaşmalar sayısını gösteren bir müşteri adayları eğilimi grafiği ve seçilen programa bağlı olarak ABD Doları cinsinden kazanılan işlem değeri de vardır. Varsayılan seçim tüm çözümlerdir.
+Bu tablo ve grafik birleşimi, referans programı müşteri adaylarından hangilerinin en çok referans ve en yüksek anlaşma değerine sahip olduğunu görmenizi sağlar.
+Tabloda toplam müşteri adayları, SLA (24 saat) ile hem yüzde hem de mutlak terimlerle kabul edilen müşteri adayları, süresi dolan müşteri adayları ve abd doları cinsinden kazanıldı olan müşteri adaylarının toplam müşteri adayı değeri vardır. Ayrıca tablonun sağ tarafından, seçilen programa göre toplam satış sayısını ve ABD doları cinsinden kazanilen satış anlaşması değerini gösteren bir müşteri adayı eğilim grafiği de vardır. Varsayılan seçim tüm çözümlerdir.
 
-:::image type="content" source="images/referrals/leadsanalyticsreferralsprogram.png" alt-text="Nitelikli başvuruları gösteren görüntü, performansı doğurur.":::
+:::image type="content" source="images/referrals/leadsanalyticsreferralsprogram.png" alt-text="Nitelikli referanslar programını gösteren görüntü performansı artırır.":::
 
-## <a name="declined--lost-reasons"></a>& kayıp nedeni reddedildi
+## <a name="declined--lost-reasons"></a>Reddeden & nedenler
 
-Bu bölüm, müşteri adaylarının şirketiniz tarafından **reddedildi** veya **kaybedilir** olarak işaretlenme nedenlerini analiz etmenize yardımcı olur. Bu temsiller içindeki seçenekler, satıcılarınızın müşteri adayını reddedildi veya kaybedildi olarak kapatırken seçtiği nedenlerdir.
+Bu bölüm, müşteri adayları şirket tarafından Reddedildi veya Kayboldu olarak işaretlenirken nedenlerini **analiz** **etmenize** yardımcı olur. Bu gösterimlerdeki seçenekler, satış satıcılarının müşteri adayını kapatırken seçtikleriyle aynı nedenlerle reddedildi veya kayboldu.
 
-:::image type="content" source="images/referrals/leadsanalyticsreasons.png" alt-text="Bir müşteri adayının kaybedildiği veya kaybolması sırasında iş ortağının seçtiği nedenleri gösteren resim.":::
+:::image type="content" source="images/referrals/leadsanalyticsreasons.png" alt-text="İş ortağı tarafından bir müşteri adayının kaybedilerek seçilme nedenlerini gösteren resim.":::
 
 ## <a name="comparison-charts"></a>Karşılaştırma grafikleri
 
-Karşılaştırma bölümü, her ikisi de birim üzerinde birden fazla boyuta ve ABD Doları Özeti ' nde kazanıldı değerine göre müşteri adaylarıyla ilgili verileri karşılaştırmanıza yardımcı olur.
-Verileri karşılaştırmak için seçebileceğiniz üç boyut
+Karşılaştırma bölümü, müşteri adayları ile ilgili verileri hem birim hem de müşteri adayları tarafından ABD doları özet olarak kazanilen değere göre birden çok boyuta göre karşılaştırmanıza yardımcı olur.
+Verileri karşılaştırmak için seçebilirsiniz üç boyut:
 
 - Nitelik türü
 - Piyasa
@@ -91,7 +91,7 @@ Nitelik türü seçildiğinde, referans performansını market müşteri adaylar
 
 ## <a name="raw-data-table"></a>Ham veri tablosu
 
-Aşağıdaki tabloda müşteri adayları ile ilgili tüm ham  veriler, gerçekleştirmek istediğiniz ayrıntılı veya özel analizler için verileri hızla dışarı aktarmanıza yardımcı olacaktır.
+Aşağıdaki tabloda müşteri adayları ile ilgili tüm ham  veriler, gerçekleştirmek istediğiniz ayrıntılı veya özel analizler için verileri hızlı bir şekilde dışarı aktarmanıza yardımcı olacaktır.
 
 :::image type="content" source="images/referrals/leadsanalyticsrawdata.png" alt-text="Müşteri adayları için ham veri tablosu gösteren resim.":::
 
@@ -107,7 +107,7 @@ Aşağıda açıklandığı gibi müşteri adayı analizine erişirken aşağıd
 :::image type="content" source="images/referrals/nodata.png" alt-text="Müşteri adayları için veri görselleştirmesi olmadığını gösteren resim.":::
 
 > [!TIP]
-> Ortak satış fırsatlarınızın nasıl çalıştığını görmek için, [ortak satış fırsatları öngörüleri sayfasını](referral-insights.md)gözden geçirin.
+> Ortak satış fırsatlarının nasıl performansa sahip olduğunu görmek için Ortak satış fırsatları [içgörüleri sayfasını gözden geçirebilirsiniz.](referral-insights.md)
 
 ## <a name="next-steps"></a>Sonraki adımlar
 

@@ -2,19 +2,19 @@
 title: Dolaylı satıcıların performansını çözümleme
 description: Dolaylı satıcılarınızın, hem başarıları hem de daha fazla ilgilenilmesi gerekebilecek alanlarında nasıl çalıştığını öğrenmek için analiz kullanın.
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-insights
 author: shganesh
 ms.author: shganesh
 ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/13/2020
-ms.openlocfilehash: 50a527f8fd3690ff73b198e572b356706889e72b
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: a7d04e437a2546c887b40f37a7381605535e8ca9
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110150191"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114839099"
 ---
 # <a name="use-analytics-to-analyze-the-performance-of-your-indirect-resellers"></a>Dolaylı satıcılarınızın performansını çözümlemek için Analizi kullanın
 
@@ -24,7 +24,7 @@ ms.locfileid: "110150191"
 Veri sürücüleri iş kararları. Ortamınızı, dolaylı satıcılarınızın başarıları ve daha fazla ilgilenilmesi gereken bölgeleri belirlemek için **satıcı analizi** sayfasındaki ölçümleri kullanın. Yeni iş hedeflerini planlarken bu bilgileri kullanın.
 
 > [!NOTE]
-> Dolaylı satıcı Analizi yalnızca bulut çözümü sağlayıcısı programındaki dolaylı sağlayıcılar için kullanılabilir.
+> dolaylı satıcı analizi yalnızca Bulut Çözümü Sağlayıcısı programdaki dolaylı sağlayıcılar için kullanılabilir.
 
 ## <a name="types-of-reseller-analytics-metrics-you-can-view"></a>Görüntüleyebileceğiniz Satıcı Analizi ölçümlerinin türleri
 
@@ -44,32 +44,32 @@ Aşağıdaki ölçümleri izliyoruz:
 
 **Abonelik sayısına göre popüler ürünler**  
  - **Dynamics 365**: satılan aboneliklere göre sıralanan Dynamics 365 ürünleri  
- - **EMS:** Satılan Enterprise Management Services aboneliklerinin sayısı  
- - **Microsoft 365:** Satılan Microsoft 365 sayısı  
- - **Office 365:** Satılan aboneliklere göre sıralanmış Office 365 ürünleri  
+ - **EMS**: satılan Enterprise Management Services abonelikleri sayısı  
+ - **Microsoft 365**: satılan Microsoft 365 aboneliklerin sayısı  
+ - **Office 365**: satılan aboneliklere göre sıralanmış Office 365 ürünleri  
 
 **Yeni abonelikler**  
- - Tarihe göre eklenen yeni abonelik sayısı  
+ - Tarihe göre eklenen yeni aboneliklerin sayısı  
 
-**Abonelik churn**  
- - **Yeni abonelikler:** Tarihe göre eklenen yeni aboneliklerin sayısı  
- - **Askıya alınan abonelikler:** Tarihten itibaren yeniden askıya alınan veya askıya alınan aboneliklerin sayısı  
+**Abonelik karmaşıklığı**  
+ - **Yeni abonelikler**: tarihe göre eklenen yeni aboneliklerin sayısı  
+ - Sağlaması **kaldırılmış abonelikler**: tarihe göre sağlanan veya askıya alınan abonelik sayısı  
 
-**Yeni kurumsal bayi ayrıntıları**  
- - **Kurumsal bayi** adı: Dolaylı kurumsal bayilerin adları  
- - **Konum:** Dolaylı kurumsal bayilerin faaliyete bulunduğu pazarlar  
- - **Abonelikler:** Kurumsal bayinin satılan abonelik sayısı  
- - **Lisanslar:** Kurumsal bayinin tüm aboneliklerde satılan toplam lisans sayısı  
+**Yeni satıcı ayrıntıları**  
+ - **Satıcı adı**: dolaylı satıcıların adları  
+ - **Konum**: dolaylı satıcıların çalışacağı pazarlar  
+ - **Abonelikler**: satıcıdan satılan abonelik sayısı  
+ - **Lisanslar**: satıcıdan tüm abonelikler arasında satılan toplam lisans sayısı  
 
-**MPA imzalı durum**
+**MPA imzalı durumu**
 
-Bu bölüm, CSP Dolaylı Kurumsal Bayilerinin MPA imzalı durumunu sağlar.
+Bu bölüm, CSP dolaylı satıcıların MPA imzalı durumunun durumunu sağlar.
 
- - **Kurumsal bayi** adı: CSP dolaylı kurumsal bayinin adı
- - **MPN Kimliği:** Dolaylı kurumsal bayinin MPN kimliği
- - **Bölge:** Dolaylı kurumsal bayinin faaliyete bulunduğu bölge
- - **MPN uygunluk durumu:** Dolaylı kurumsal bayinin uygunluk durumu
- - **MPA imzalı durum:** Dolaylı kurumsal bayi için MPA imzalama durumu
+ - **Satıcı adı**: CSP dolaylı satıcı adı
+ - **MPN kimliği**: dolaylı satıcıdan MPN kimliği
+ - **Bölge**: dolaylı satıcıdan çalışan bölge
+ - **MPN vetting durumu**: dolaylı satıcının durumu
+ - **MPa imzalı durum**: dolaylı satıcı için MPa imzalama durumu
 
 MPA imzalı durum verilerini ek boyutlarla indirmek için grafikteki indir simgesine tıklayın
   

@@ -3,24 +3,24 @@ title: Yeni müşteri kaydı ekleme
 ms.topic: how-to
 ms.date: 04/27/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
-description: Yeni bir müşteri kaydı ekleme hakkında bilgi İş Ortağı Merkezi. Ardından müşteri aboneliklerini satıp faturalamayı yönetebilir veya müşteri desteği sebilirsiniz.
+ms.subservice: partnercenter-customers
+description: İş Ortağı Merkezi'da yeni müşteri kaydı İş Ortağı Merkezi. Ardından müşteri aboneliklerini satıp faturalamayı yönetebilir veya müşteri desteği sebilirsiniz.
 author: parthp
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 76e15992355eff88e3a9391ea4af327c3ad969e0
-ms.sourcegitcommit: 8511fec63961d8c77a4d1eea3e3f1d37cdea46c6
+ms.openlocfilehash: dccc5365d6b05ebae474c5afeb7bd7d091d86d34
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/19/2021
-ms.locfileid: "112373367"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114839541"
 ---
 # <a name="how-to-add-a-new-customer-record-in-partner-center"></a>İş Ortağı Merkezi'da yeni müşteri kaydı ekleme
 
 **Uygun roller:** Genel yönetici | Kullanıcı yönetimi yönetici | Yönetici aracısı | Satış aracısı
 
-Bu makalede, İş Ortağı Merkezi'daki müşteri listenize yeni bir müşteri İş Ortağı Merkezi. Abonelikleri satmadan, faturalamayı yönetemeden veya müşteriye destek sağlaymadan önce bu adımlar gereklidir.
+Bu makalede, İş Ortağı Merkezi'da müşteri listenize yeni bir müşteri İş Ortağı Merkezi. Abonelikleri satmadan, faturalamayı yönetemeden veya müşteriye destek sağlaymadan önce bu adımlar gereklidir.
 
 >[!NOTE]
 >Çok kanallı veya Çok Kanallı bir senaryo aracılığıyla İş Ortağı Merkezi müşteri [](multipartner.md) kayıtlarına sahip olan mevcut [](request-a-relationship-with-a-customer.md)müşteriler de dahil olmak üzere, buradaki adımları takip etmek yerine onlarla bir ilişki isteğinde bulundurabilirsiniz. [](multichannel.md)
@@ -29,7 +29,7 @@ Bu makalede, İş Ortağı Merkezi'daki müşteri listenize yeni bir müşteri �
 
 1. İş Ortağı Merkezi  menüsünden Müşteriler'i ve ardından Müşteri **ekle'yi seçin.**
 
-2. Hesap **bilgileri sayfasında** müşterinin ayrıntılarını ve birincil iletişim bilgilerini girin. Müşterinin en son sürümü kabul etmiş ve imzalamış olduğunu da [Microsoft Müşteri Sözleşmesi.](agreements.md)
+2. Hesap **bilgileri sayfasında** müşterinin ayrıntılarını ve birincil iletişim bilgilerini girin. Müşterinin en son sürümü kabul etmiş ve imzalamış olduğunu [Microsoft Müşteri Sözleşmesi.](agreements.md)
 
    >[!NOTE]
    >

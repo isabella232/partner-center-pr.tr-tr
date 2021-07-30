@@ -1,43 +1,43 @@
 ---
-title: Bir müşteri hesabı için birden çok kullanıcının içeri aktarılacağı. csv dosyası alanları
+title: Bir .csv hesabı için birden çok kullanıcı içeri aktarmaya uygun dosyanın alanları
 ms.topic: article
 ms.date: 08/01/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
-description: Bir müşteri hesabına birden çok kullanıcı eklemek için uygun alanlara sahip bir virgülle ayrılmış değer (. csv) dosyası oluşturun.
+ms.subservice: partnercenter-customers
+description: Bir müşteri hesabına birden çok kullanıcı eklemek için uygun alanlara sahip bir virgülle .csv (.csv) dosyası oluşturun.
 author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 152daadde25a9325937797f7a3daa90dfb59a9b4
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 7d8cbeecf081dc82448625daeedc0ce21b31174e
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110150990"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114838351"
 ---
-# <a name="add-multiple-users-to-a-customer-account-by-creating-a-csv-file"></a>Bir. csv dosyası oluşturarak müşteri hesabına birden çok kullanıcı ekleme
+# <a name="add-multiple-users-to-a-customer-account-by-creating-a-csv-file"></a>Bir .csv dosyası oluşturarak müşteri hesabına birden .csv ekleme
 
-**Uygun roller**: genel yönetici
+**Uygun roller:** Genel yönetici
 
-Bir veri dosyasını, virgülle ayrılmış değer dosya biçimi 'ne (. csv) Iş Ortağı Merkezi 'ne yükleyerek bir müşterinin hesabına tek seferde birden fazla kullanıcı ekleyin. Ortak merkezinden bir örnek veri dosyası indirebilir ve ardından kullanım için düzenleyebilir veya aşağıda tanımlanan veri modelini kullanarak yeni bir veri dosyası oluşturabilirsiniz.
+Virgülle ayrılmış değer dosyası biçimindeki (.csv) bir veri dosyasını aynı anda müşterinin hesabına yük İş Ortağı Merkezi. Örnek veri dosyasını dosyadan indirip İş Ortağı Merkezi için düzenleyebilir veya aşağıda tanımlanan veri modelini kullanarak yeni bir veri dosyası oluşturabilirsiniz.
 
 ## <a name="data-file-requirements"></a><a href="" id="creatingtheimportcsvfile"></a>Veri dosyası gereksinimleri
 
-Toplu karşıya yükleme işlemini kullanarak bir müşterinin hesabına birden çok kullanıcı eklemek için aşağıdaki gereksinimleri karşılamanız gerekir:
+Toplu karşıya yükleme işlemini kullanarak müşterinin hesabına birden çok kullanıcı eklemek için aşağıdaki gereksinimleri karşılamanız gerekir:
 
-- Müşteri hesabı için genel yönetici izinlerine sahip olmanız gerekir;
-- Her kullanıcının e-posta etki alanına (ler) eklenen benzersiz bir e-posta adresi olmalıdır.
-- Tek seferde en fazla 100 kayıt yükleyebilirsiniz. 100 'den fazla Kullanıcı eklemeniz gerekiyorsa, ek veri dosyaları oluşturun ve karşıya yükleyin.
-- Tüm kullanıcılar aynı coğrafi **konumda** olmalıdır.
-- Yalnızca aşağıda açıklanan verileri girin. Gereksiz veriler karşıya yüklemenin başarısız olmasına neden olur.
+- Müşteri hesabı üzerinde genel yönetici izinlerine sahip olmak;
+- Her kullanıcının, müşterinin e-posta etki alan adlarının sonuna benzersiz bir e-posta adresi eklemesi gerekir;
+- Aynı anda en fazla 100 kayıt yükleyebilirsiniz. 100'den fazla kullanıcı eklemeniz gerekirse ek veri dosyaları oluşturun ve karşıya yükleyin.
+- Tüm kullanıcıların aynı coğrafi Konumda olması **gerekir.**
+- Yalnızca aşağıda açıklanan verileri girin. Fazlalık veriler karşıya yüklemenin başarısız olmasına neden olur.
 
 Veri dosyasına aşağıdaki verileri girin:
 
 | **Sütun adı** | **Açıklama**  | **Sınırlama**  |
 |:-------- |:------  |:----- |
-| Ad  | Kullanıcının adı (isteğe bağlı alan)  | 50-karakter sınırı  |
-| Soyadı  | Kullanıcının Soyadı (isteğe bağlı alan)  | 50-karakter sınırı  |
+| Ad  | Kullanıcının adı (isteğe bağlı alan)  | 50 karakterlik sınır  |
+| Soyadı  | Kullanıcının soyadı (isteğe bağlı alan)  | 50 karakterlik sınır  |
 | Görünen ad    | Ad, İş Ortağı Merkezi (gerekli alan)                            | 50 karakterlik sınır                         |
 | E-posta   | Müşterinin müşteri şirketinde iş e-posta adresi (gerekli alan)           | Her kullanıcının benzersiz bir e-posta adresi olmalıdır |
 | Durum güncelleştirmesi   | Yeni kullanıcı kaydının başarıyla oluşturulıp oluşturula olmadığını belirtmek için kullanılır | \*\*Boş bırakın\*\*                        |

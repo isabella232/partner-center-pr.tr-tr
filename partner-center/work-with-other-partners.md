@@ -3,24 +3,24 @@ title: Diğer iş ortaklarıyla çalışma
 ms.topic: article
 ms.date: 11/29/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
-description: Bulut çözümü sağlayıcısı (CSP) programındaki dolaylı satıcılarla dolaylı olarak iş ortaklarının nasıl yapılacağını öğrenin ve hangi rolün sizin için uygun olduğunu saptayın.
+ms.subservice: partnercenter-customers
+description: dolaylı sağlayıcıların Bulut Çözümü Sağlayıcısı (CSP) programında dolaylı satıcılarla iş ortağı olduğunu öğrenin ve hangi rolün sizin için uygun olduğunu saptayın.
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d8370b213a3d0fd96a4d2ef457de1140ee4549f6
-ms.sourcegitcommit: 837d3c5b52ab056b2b761cd85eb2426f56b62614
+ms.openlocfilehash: 93ebd29529812535d2847485d2c9fe751fa5a9f8
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/12/2021
-ms.locfileid: "109794896"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114845678"
 ---
 # <a name="different-ways-you-can-work-with-other-partners-in-partner-center"></a>İş Ortağı Merkezi 'nde diğer iş ortaklarıyla çalışabilmeniz için farklı yollar
 
 **Uygun roller**: Hesap Yöneticisi
 
-Microsoft 'un bulut çözümü sağlayıcısı (CSP) programı, iş ortaklarının bu yollarla birlikte çalışması için fırsatlar sunar.
+Microsoft 'un Bulut Çözümü Sağlayıcısı (CSP) programı, iş ortaklarının bu yollarla birlikte çalışması için fırsatlar sunar.
 
 ## <a name="indirect-provider-indirect-reseller-model"></a>Dolaylı sağlayıcı-dolaylı satıcı modeli
 
@@ -42,15 +42,15 @@ CSP 'ye dolaylı satıcı olarak mı yoksa doğrudan iş ortağı olarak mı kay
 
 ## <a name="multi-partner-support"></a>Çoklu iş ortağı desteği
 
-İş Ortağı Merkezi 'nin çoklu iş ortağı özelliği, bir müşterinin birden fazla iş ortağıyla çalışması gerektiğinde senaryolar destekler. Örneğin, Office 365'te uzmanlığı için bir iş ortağı işe almak, aynı zamanda Office 365'te uzman olan farklı bir iş Microsoft Azure. Daha [fazla bilgi için bkz.](multipartner.md) Çoklu iş ortağı desteği.
+İş Ortağı Merkezi 'nin çoklu iş ortağı özelliği, bir müşterinin birden fazla iş ortağıyla çalışması gerektiğinde senaryolar destekler. örneğin, Office 365 uzmanlığı için bir iş ortağı sağlamak isteyebilir, aynı zamanda Microsoft Azure ' de uzmanlaşmış farklı bir iş ortağı da işe alabilir. Daha fazla bilgi için bkz. [Çoklu iş ortağı desteği](multipartner.md) .
 
-Microsoft'un ulusal bulut tekliflerde de çok iş ortağı desteği mevcuttur.
+Çoklu iş ortağı desteği, Microsoft 'un ulusal bulut teklifleriyle de sunulmaktadır.
 
 ## <a name="multi-channel-support"></a>Çok kanallı destek
 
-İş Ortağı Merkezi kanal özelliği, müşterinin başka bir yerde satın alan bir aboneliği sağlamak ve desteklemek için bir iş ortağını işe almak istediği senaryoları destekler. Daha [fazla bilgi için bkz.](multichannel.md) Çok kanallı destek.
+İş Ortağı Merkezi 'nin çok kanallı özelliği, bir müşteri, başka bir yerde satın aldıkları bir aboneliği sağlamak ve desteklemek için bir iş ortağı işe almak istediğinde senaryoları destekler. Daha fazla bilgi için bkz. [çok kanallı destek](multichannel.md) .
 
-Microsoft'un ulusal bulut tekliflerde de çok kanallı destek mevcuttur.
+Microsoft 'un ulusal bulut tekliflerinden çok kanallı destek de mevcuttur.
 
 > [!IMPORTANT]  
-> CSP programında bir iş ortağı şu anda CSP çevrimiçi hizmetler başka bir iş ortağına yeniden satışa açamaz. Bu kısıtlama yalnızca CSP işlemlerini yürütmek için kullanılan kiracı için geçerlidir. Kurumsal kullanımları için CSP olmayan bir kiracı kullanan CSP iş ortakları, başka çevrimiçi hizmetler CSP iş ortağından lisans satın alınabilir. Microsoft, tüm programların ilkelerini ve özelliklerini sürekli gözden almaktadır. Özellik yayınları veya ilke değişiklikleriyle ilgili tüm haberler, yayın duyuruları da dahil olmak üzere normal [İş Ortağı Merkezi duyurular.](announcements/index.md)
+> CSP programındaki bir iş ortağı, şu anda CSP programındaki başka bir ortağa çevrimiçi hizmetler yeniden satıtamaz. Bu kısıtlama yalnızca CSP işlemleri yürütmek için kullanılan kiracı için geçerlidir. Şirket kullanımı için CSP olmayan bir kiracı kullanan CSP iş ortakları, başka bir CSP ortağından çevrimiçi hizmetler satın alabilir. Microsoft, tüm programların ilkelerini ve yeteneklerini sürekli olarak inceler. Özellik sürümleri veya ilke değişiklikleri hakkındaki tüm haberler, [Iş Ortağı Merkezi duyuruları](announcements/index.md)dahil olmak üzere olağan iletişim kanalları aracılığıyla duyurulacaktır.

@@ -3,18 +3,18 @@ title: Bulut Çözümü Sağlayıcısı programına kaydolma
 ms.topic: how-to
 ms.date: 07/19/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-enroll
 description: işletmeniz için en uygun Bulut Çözümü Sağlayıcısı (CSP) program satışı modeline (dolaylı satıcı veya doğrudan fatura ortağı gibi) nasıl kaydolacağınızı öğrenin.
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6d2bf3f99687830392d939be99ad34999abc1903
-ms.sourcegitcommit: d133c8b923b90ac5518cb989c0ce4dd69713abf4
+ms.openlocfilehash: 2d265dfb2db76b89f589cc4b9cd1edfd5105c52e
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "114433920"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114845780"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>Bulut Çözümü Sağlayıcısı programına kaydolma
 
@@ -124,8 +124,8 @@ Dolaylı bir Sağlayıcıysanız, doğrudan faturanız veya dolaylı satıcısı
 - Vietnam 
 
 
-Daha fazla bilgi için [kayıt kimliği numarası bilgilerini](reg-number-id.md) okuyun
+Daha fazla bilgi için Kayıt [Kimliği numarası bilgilerini okuyun](reg-number-id.md)
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-[CSP program iş ortakları için Microsoft Iş ortağı Sözleşmesi (MPA) hakkında bilgi edinin](microsoft-partner-agreement.md)
+[CSP programı Microsoft İş Ortağı Sözleşmesi (MPA) hakkında bilgi edinmek için](microsoft-partner-agreement.md)

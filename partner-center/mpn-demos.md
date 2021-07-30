@@ -2,39 +2,39 @@
 title: MPN iş ortakları için tanıtımlar
 ms.topic: article
 ms.date: 02/05/2021
-description: MPN gümüş, altın ve Eylem Paketi iş ortakları için kullanılabilen gösterileri bulmayı öğrenin.
+description: MPN Silver, Gold ve diğer iş ortaklarının sahip olduğu tanıtımları Eylem Paketi öğrenin.
 ms.service: partner-dashboard
-ms.subservice: partnercenter-mpn
+ms.subservice: partnercenter-benefits
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: c49b8de69d65a4417e9533a80f72c4bd2ef80b8f
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: cd165bfe4bc908b3016d7a3e50c42310dcbd8e0b
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110152418"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114845542"
 ---
-# <a name="demos-for-mpn-partners--microsoft-365-dynamics-365-teams-and-more"></a>MPN iş ortakları için tanıtımlar – Microsoft 365, Dynamics 365, takımlar ve daha fazlası
+# <a name="demos-for-mpn-partners--microsoft-365-dynamics-365-teams-and-more"></a>MPN iş ortakları için tanıtımlar : Microsoft 365, Dynamics 365, Teams ve daha fazlası
 
-**Uygun roller**: MPN iş ortağı Yöneticisi | Hesap Yöneticisi
+**Uygun roller:** MPN iş ortağı yöneticisi | Hesap yöneticisi
 
-Microsoft İş Ortağı Ağı (MPN), gümüş, altın ve Eylem Paketi Iş ortakları için çok çeşitli tanıtımlar sağlar.
+Microsoft İş Ortağı Ağı (MPN), Silver, Gold ve İş Ortakları için çok çeşitli Eylem Paketi sağlar.
 
-## <a name="access-mpn-demos"></a>MPN tanıtımına erişin
+## <a name="access-mpn-demos"></a>MPN tanıtımlarına erişme
 
-MPN tanıtımına erişmek için:
+MPN tanıtımlarına erişmek için:
 
-- MPN hesabınızı kullanarak [CDX.Transform.Microsoft.com](https://cdx.transform.microsoft.com/) 'de oturum açın.
+- MPN [cdx.transform.microsoft.com](https://cdx.transform.microsoft.com/) oturum açın.
 
 >[!NOTE]
->MPN üyeliğiniz için aynı kiracı de kullanılıyorsa yalnızca CSP olarak oturum açabilirsiniz.
+>CSP olarak oturum açmanızı yalnızca MPN üyeliğiniz için aynı kiracının da kullanılıyor olması gerekir.
 
-Varolan içeriği görüntülemek için bkz. [deneyimler](https://cdx.transform.microsoft.com/experiences).
+Mevcut içeriği görüntülemek için bkz. [Deneyimler.](https://cdx.transform.microsoft.com/experiences)
 
-Bir kiracı oluşturmak için [Ortamlarım](https://cdx.transform.microsoft.com/my-tenants)' a bakın.
+Kiracı oluşturmak için bkz. [Ortamlarım](https://cdx.transform.microsoft.com/my-tenants).
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-- Gösterileri inceleyin [SSS](https://cdx.transform.microsoft.com/help/faq)
-- [Microsoft gösterileri desteğini](https://cdx.transform.microsoft.com/submit-request) ziyaret edın ve MPN ile ilişkili hesabınızı kullanarak oturum açın
+- Tanıtımlar hakkında [SSS bölümünü gözden geçirin](https://cdx.transform.microsoft.com/help/faq)
+- [Microsoft Tanıtım Desteği'ne ziyaret](https://cdx.transform.microsoft.com/submit-request) edin ve MPN ile ilişkili hesabınızla oturum açın

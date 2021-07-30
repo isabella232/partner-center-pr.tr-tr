@@ -3,24 +3,24 @@ title: Ağustos 2020 duyuruları
 description: Yeni yetenekler, promosyonlar, teklifler, pazarlar veya mevcut tekliflerle ilgili değişiklikler gibi Microsoft Iş Ortağı Merkezi için Ağustos 2020 duyuruları.
 ms.topic: article
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-action-center
 author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 08/14/2020
-ms.openlocfilehash: f3503e4edf9b5e9081eb53b80a32f451db861a70
-ms.sourcegitcommit: 7e32544cf91f932cbeb053c9de506ba9ee773fe2
+ms.openlocfilehash: c163258d59c0e0640c8d8f3a0469a94d45582d1d
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 11/20/2020
-ms.locfileid: "94947690"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114839048"
 ---
 # <a name="august-2020-announcements"></a>Ağustos 2020 duyuruları
 
 Bu sayfada, Ağustos 2020 için Microsoft Iş Ortağı Merkezi duyuruları ayrıntılı olarak yer
 
-2020 [Duyurular:](2020-january.md)  |  [February](2020-february.md)  |  [Haziran Mart](2020-march.md)  |  [Nisan](2020-april.md)  |  [,](2020-may.md)  |  [June](2020-june.md)  |  [Temmuz ayı](2020-july.md) | Ağustos
+2020 [Duyurular:](2020-january.md)  |  [](2020-february.md)  |  [Haziran Mart](2020-march.md)  |  [Nisan](2020-april.md)  |  [,](2020-may.md)  |  [](2020-june.md)  |  [Temmuz ayı](2020-july.md) | Ağustos
 
 ________________
 
@@ -33,11 +33,11 @@ ________________
 
 ### <a name="impacted-audience"></a>Etkilenen hedef kitle
 
-Bulut çözümü sağlayıcısı (CSP) programı aracılığıyla akademik teklifler satan iş ortakları 
+akademik teklifleri Bulut Çözümü Sağlayıcısı (CSP) programı aracılığıyla satan iş ortakları 
 
 ### <a name="summary"></a>Özet
 
-Microsoft, güvende çalışır ve bulut çözümü sağlayıcısı programındaki deneyimidir akademik teklifleri için uyumlu, güvenli ve güvenli bir müşteri doğrulaması yöntemi sağlamaya yöneliktir. Bu taahhütünün bir parçası olarak, bu mali yılın (FY21 S2) iki çeyreğinde, Iş Ortağı Merkezi API 'SI ve Kullanıcı arabirimi geliştirmeleri sunuyoruz ve müşterilerin daha doğru veri girişi yapma özelliği ve bu da daha doğru verileri girme imkanına sahiptir. 
+Microsoft güvende çalışır ve Bulut Çözümü Sağlayıcısı programda deneyimidir akademik teklifleri için uyumlu, güvenli ve güvenli bir müşteri doğrulama yöntemi sağlamaya çalışıyoruz. Bu taahhütünün bir parçası olarak, bu mali yılın (FY21 S2) iki çeyreğinde, Iş Ortağı Merkezi API 'SI ve Kullanıcı arabirimi geliştirmeleri sunuyoruz ve müşterilerin daha doğru veri girişi yapma özelliği ve bu da daha doğru verileri girme imkanına sahiptir. 
 
 #### <a name="partner-center-enhancements"></a>İş ortağı merkezi geliştirmeleri
 
@@ -72,7 +72,7 @@ ________________
 
 ### <a name="details"></a>Ayrıntılar
 
-Daha önce duyurulan Microsoft 365 İş ses yükseltmede bazı güncelleştirmeler yaptık. [Iş Ortağı Merkezi kaynak Galerisi](https://partner.microsoft.com/resources/detail/announcement-microsoft-365-business-voice-promotion-deactivation-pdf)' ni ziyaret ederek ayrıntıları alabilirsiniz. 
+daha önce duyurulan Microsoft 365 Küçük İşletmeler için Ses yükseltmede bazı güncelleştirmeler yaptık. [Iş Ortağı Merkezi kaynak Galerisi](https://partner.microsoft.com/resources/detail/announcement-microsoft-365-business-voice-promotion-deactivation-pdf)' ni ziyaret ederek ayrıntıları alabilirsiniz. 
 
 ________________
 
@@ -89,19 +89,19 @@ Iş ortağı merkezi .NET SDK 'sını kullanan CSP programına katılan doğruda
 
 ### <a name="summary"></a>Özet
 
-21 Temmuz 2020 itibariyle Iş ortakları, güncelleştirilmiş ortak **Iş ortağı MERKEZI SDK GitHub örnekleri** ile bırlıkte **.NET Standard SDK Microsoft iş ortağı merkezi** .NET SDK v 1.16.1 sürümünü indirmeye başlayabilir.
+21 temmuz 2020 itibariyle iş ortakları, güncelleştirilmiş ortak **iş ortağı merkezi sdk GitHub örnekleri** ile birlikte **.NET Standard SDK Microsoft iş ortağı merkezi** .net sdk v 1.16.1 sürümünü indirmeye başlayabilir.
 
 ### <a name="details"></a>Ayrıntılar
 
-CSP programına katılan doğrudan fatura ortakları ve dolaylı sağlayıcılar, .NET Standard SDK 'nın en son sürümünü karşıdan yüklemeye uygundur. Bu değişiklikler SDK 'Yı mevcut uygulamayla uyumlu hale getirir .NET Framework 4.6.1 ve üstünü kullanın. .NET Standard .NET Core 2,0 ve üstünü destekleyecektir.
+CSP programına katılan doğrudan fatura ortakları ve dolaylı sağlayıcılar, .NET Standard SDK 'nın en son sürümünü karşıdan yüklemeye uygundur. bu değişiklikler SDK 'yı mevcut uygulamayla uyumlu hale getirir .NET Framework 4.6.1 ve üstünü kullanın. .NET Standard .NET Core 2,0 ve üstünü destekleyecektir.
 
-.NET Standard 'de SDK isteyen iş ortaklarından çok büyük bir talep vardı. Geçerli SDK sürümü iş ortakları, .NET Core uygulamalarıyla yavaş ve maliyetli bir şekilde ASP.NET Framework 'te yazılmış uygulamaları kullanmaya zorlar. Bu nedenle, .NET Standard 'a geçiş, .NET Core ile performansla veya uyumlulukla ilgili sorunları ele almanıza yardımcı olabilir.
+.NET Standard 'de SDK isteyen iş ortaklarından çok büyük bir talep vardı. geçerli SDK sürümü iş ortaklarının, .net core uygulamalarıyla yavaş ve maliyetli bir şekilde karşılaştırıldığı ASP.NET Framework 'te yazılmış uygulamaları kullanmasına zorlar. Bu nedenle, .NET Standard 'a geçiş, .NET Core ile performansla veya uyumlulukla ilgili sorunları ele almanıza yardımcı olabilir.
  
 **Önemli Noktalar**
 - .NET Framework 4,8 için Microsoft 'tan daha fazla sürüm yok.
 - .NET Core veya .NET Standard için, mevcut Framework sürümünü desteklememe gibi kitaplıkların çoğu için en son geliştirmeyi sınırlandırır.
 - .NET Core, hafif doğası nedeniyle kapsayıcılarla birlikte kullanmak için yeterli.
-- Windows Server ve Linux için yüksek performanslı sunucu çalışma zamanı, .NET Core 'u en iyi şekilde gerçekleştiren bir Web çerçevesi yapar.
+- Windows server ve Linux için yüksek performanslı sunucu çalışma zamanı, .net Core 'u en iyi şekilde gerçekleştiren bir web çerçevesi yapar.
 
 ### <a name="next-steps"></a>Sonraki Adımlar
 
@@ -113,7 +113,7 @@ CSP programına katılan doğrudan fatura ortakları ve dolaylı sağlayıcılar
 
 ________________
 
-## <a name="self-service-purchasing-for-microsoft-project-and-microsoft-visio-coming-soon"></a><a name="5"></a>Microsoft Project ve Microsoft Visio için self servis satın alma çok yakında
+## <a name="self-service-purchasing-for-microsoft-project-and-microsoft-visio-coming-soon"></a><a name="5"></a>Microsoft Project ve Microsoft Visio için Self servis satın alma çok yakında kullanıma sunulacak
 ### <a name="categories"></a>Kategoriler
 
 - Tarih: 2020-08-12
@@ -125,27 +125,27 @@ Ticari müşterilere çevrimiçi hizmetler satan iş ortakları
 
 ### <a name="details"></a>Ayrıntılar
 
-Microsoft 'un bireylere ve takımlara doğrudan Select hizmetleri satın almasını sağlayan [son yılı](https://partner.microsoft.com/resources/detail/power-apps-power-automate-self-service-pdf) paylaştık. Bugün, Microsoft Project ve Microsoft Visio ürünleri için self servis satın alma yeteneklerini yakında sunuyoruz. 15 Eylül 2020 ' den, dünyanın her yerindeki kişiler self servis aracılığıyla aşağıdaki ürünler için abonelikler satın alabilir:
+Microsoft 'un bireylere ve takımlara doğrudan Select hizmetleri satın almasını sağlayan [son yılı](https://partner.microsoft.com/resources/detail/power-apps-power-automate-self-service-pdf) paylaştık. bugün, Microsoft Project ve Microsoft Visio ürünleri için self servis satın alma yeteneklerini yakında sunuyoruz. 15 Eylül 2020 ' den, dünyanın her yerindeki kişiler self servis aracılığıyla aşağıdaki ürünler için abonelikler satın alabilir:
 
-- [Visio plan 1](https://products.office.com/visio/visio-plan-1?activetab=pivot:overviewtab) ve [Visio planı 2](https://www.microsoft.com/microsoft-365/visio/visio-plan-2?rtc=2&SilentAuth=1&activetab=pivot:overviewtab)
-- [Proje planı 1](https://www.microsoft.com/microsoft-365/project/project-plan-1?rtc=1&activetab=pivot:overviewtab) ve [Proje planı 3](https://www.microsoft.com/microsoft-365/project/project-plan-3?rtc=1&activetab=pivot:overviewtab)
+- [Visio Plan 1](https://products.office.com/visio/visio-plan-1?activetab=pivot:overviewtab) ve [Visio Plan 2](https://www.microsoft.com/microsoft-365/visio/visio-plan-2?rtc=2&SilentAuth=1&activetab=pivot:overviewtab)
+- [Project Plan 1](https://www.microsoft.com/microsoft-365/project/project-plan-1?rtc=1&activetab=pivot:overviewtab) ve [Project Plan 3](https://www.microsoft.com/microsoft-365/project/project-plan-3?rtc=1&activetab=pivot:overviewtab)
 
 **Note:** Self servis satın alma özellikleri, Hindistan 'da veya kamu veya eğitim teklifleri için uygun olan müşteriler tarafından kullanılamaz.
 
 #### <a name="partner-benefits"></a>İş ortağı avantajları
 
-Gerekli lisansları elde etmek için merkezi BT satın alma sürecini kullanarak hizmetlerinizi bireylere ve ekiplere sunabileceksiniz. Hizmetleriniz, Microsoft 365 ve güç platformuyla tümleştirme senaryolarına bağlı olarak Project ve Visio 'a yayılabilir. 
+Gerekli lisansları elde etmek için merkezi BT satın alma sürecini kullanarak hizmetlerinizi bireylere ve ekiplere sunabileceksiniz. hizmetleriniz, Microsoft 365 ve güç platformuyla tümleştirme senaryolarına göre Project ve Visio yayılabilir. 
 
-Microsoft bu oturum [yeniden oluşturma ve Microsoft Visio Ile Power platform ile iş Için Microsoft 'un iş yerinde yeniden oluşturma ve yeniden Imagine ile iş](https://www.microsoft.com/microsoft-365/partners/videos/inspire-visio-power-platform)ortağı fırsatları hakkında daha fazla bilgi edinin. Daha fazla bilgi için lütfen [self servis yönetici kılavuzunu](/microsoft-365/commerce/subscriptions/manage-self-service-purchases-admins)ziyaret edin.
+microsoft [Visio ve güç platformuyla microsoft esire oturum yeniden oluşturma ve yeniden ımagine iş](https://www.microsoft.com/microsoft-365/partners/videos/inspire-visio-power-platform)üzerinde Visio ve güç platformu çözümleriyle iş ortağı fırsatları hakkında daha fazla bilgi edinin. Daha fazla bilgi için lütfen [self servis yönetici kılavuzunu](/microsoft-365/commerce/subscriptions/manage-self-service-purchases-admins)ziyaret edin.
 
 #### <a name="additional-resources"></a>Ek kaynaklar
 
 - Işlem hazırlık kaynakları galerisindeki tüm hazırlık kaynaklarını gözden geçirin: [Müşteri Self servis satın alma özelliği](https://partner.microsoft.com/resources/collection/customer-self-serve-purchase#/).
-- Müşteriler Visio [planı 1 ve Visio plan 2](https://partner.microsoft.com/resources/collection/visio-availability-announcing-trial-offers#/)ve [Proje planı 1](https://www.microsoft.com/microsoft-365/project/compare-microsoft-project-management-software)Için artık kullanılabilir olan Visio ve proje denemeleri ile satın almadan önce deneyebilir.
+- müşteriler Visio ve Project denemelerinden önce [Visio Plan 1 ve Visio Plan 2](https://partner.microsoft.com/resources/collection/visio-availability-announcing-trial-offers#/)ve [Project Plan 1](https://www.microsoft.com/microsoft-365/project/compare-microsoft-project-management-software)için artık kullanılabilir.
 
 ________________
 
-## <a name="new-microsoft-teams-advanced-communications-skus-are-now-available"></a><a name="4"></a>Yeni Microsoft ekipleri gelişmiş Iletişim SKU 'Ları artık kullanılabilir
+## <a name="new-microsoft-teams-advanced-communications-skus-are-now-available"></a><a name="4"></a>yeni Microsoft Teams gelişmiş iletişim sku 'ları artık kullanılabilir
 ### <a name="categories"></a>Kategoriler
 
 - Tarih: 2020-08-04
@@ -153,149 +153,149 @@ ________________
 
 ### <a name="summary"></a>Özet
 
-Microsoft ekipleri için yeni gelişmiş Iletişim eklentisi SKU 'Ları 1 Ağustos 2020 ' de kullanıma sunulmuştur.
+Microsoft Teams için yeni gelişmiş iletişim eklentisi sku 'ları 1 ağustos 2020 ' de kullanıma sunulmuştur.
 
 ### <a name="impacted-audience"></a>Etkilenen hedef kitle
 
-Tüm iş ortakları bulut çözümü sağlayıcısı (CSP) programı üzerinden deneyimidir
+tüm iş ortakları deneyimidir Bulut Çözümü Sağlayıcısı (CSP) programı
 
 ### <a name="details"></a>Ayrıntılar
 
-Microsoft ekipleri için yeni gelişmiş Iletişim eklentisi artık kullanıcı/ay $12 ile sunulmaktadır. Eklenti SKU 'Ları, Microsoft ekipleri içeren başka bir Microsoft 365 paketinin üzerine satın alınabilir. Gelişmiş Iletişimler, BT yönetimine yönelik gelişmiş araçlara ek olarak büyük toplantılar, iletişim ilkeleri ve Tümleştirmeler için yeni bir özellik kümesi sağlar. 
+Microsoft Teams için yeni gelişmiş iletişim eklentisi artık kullanıcı/ay $12 ' de sunulmaktadır. eklenti sku 'ları, Microsoft Teams içeren herhangi bir Microsoft 365 paketinin üzerine satın alınabilir. Gelişmiş Iletişimler, BT yönetimine yönelik gelişmiş araçlara ek olarak büyük toplantılar, iletişim ilkeleri ve Tümleştirmeler için yeni bir özellik kümesi sağlar. 
 
 #### <a name="advanced-communications-features"></a>Gelişmiş Iletişim özellikleri
 
 Başlatma sırasında yayınlandı
 - 20 K katılımcı için canlı etkinlik limitleri (50 eşzamanlı, 16 saat)
 
-Daha sonra CY2020 içinde yayınlandı
-- 1.000-kişi etkileşimli takımlar toplantısı 
-- Bir ' yalnızca görüntüleme ' toplantısı deneyiminde 20.000 ' ye kadar etkinleştirme yeteneğine sahip 1.000 katılımcılarının etkileşimli toplantıları. 
-- Özel markalı toplantı lobi
-- Ek özelleştirmeler, Araçlar ve iletişim geliştirmeleri, bu, takvim yılı boyunca SKU 'ya eklenecektir
+CY2020'de daha sonra yayınlandı
+- 1.000 kişilik etkileşimli Teams toplantı 
+- 'Yalnızca görüntüleme' toplantı deneyiminde 20.000'e kadar etkinleştirme özelliğine sahip 1.000 katılımcı için etkileşimli toplantılar. 
+- Özel markalı toplantı salonu
+- Takvim yılı boyunca SKU'ya ek özelleştirmeler, araçlar ve iletişim geliştirmeleri eklenecektir
 
-#### <a name="offer-details"></a>Teklif Ayrıntıları
+#### <a name="offer-details"></a>Teklif ayrıntıları
 
-   |**Teklif adı**|**Teklif Kimliği**|**Malzeme KIMLIĞI**|
+   |**Teklif adı**|**Teklif Kimliği**|**Malzeme Kimliği**|
    |-------------------|:------|:------|
-   |Gelişmiş Iletişimler|efb0c254-e9c6-4e9b-be12-eb2b7849953f|1UC-00006|
-   |Fakülte gelişmiş Iletişimler|13219baa-468f-4EEB-bfaa-243216dbddca|2P8-00005|
-   |Öğrenciler için gelişmiş Iletişimler|31a690b0-3945-4adf-98ab-644e0a879b3f|2P8-00006|
+   |Gelişmiş İletişimler|efb0c254-e9c6-4e9b-be12-eb2b7849953f|1UC-00006|
+   |Fakülteler için Gelişmiş İletişimler|13219baa-468f-4eeb-bfaa-243216dbddca|2P8-00005|
+   |Öğrenciler için Gelişmiş İletişimler|31a690b0-3945-4adf-98ab-644e0a879b3f|2P8-00006|
 
 #### <a name="frequently-asked-questions"></a>Sık sorulan sorular
 
-- **Gelişmiş Iletişimler nelerdir?** Bu yeni Microsoft ekipleri eklentisi, müşterilerin iletişim deneyimlerini daha da geliştirmesini sağlar. Abone oldukları Microsoft 365 SKU 'sunun üzerine satın alınabilir.
-- **Fiyatı nedir?** Ticari ERP, Kullanıcı başına/ayda $12 ABD doları olur. 
-- **Hangi müşteriler eklentiyi satın alabilir?** Ticari, dünya çapında ticari kamu sektörü, eğitim ve kar amacı.
+- **Gelişmiş İletişim nedir?** Bu yeni Microsoft Teams, müşterilerin iletişim deneyimini daha da geliştirmesini sağlar. Abone olunan tüm SKU'Microsoft 365 üzerine satın alınabilir.
+- **Fiyatı nedir?** Ticari ERP, kullanıcı başına aylık 12 ABD dolarıdır. 
+- **Eklentiyi hangi müşteriler satın alınabilir?** Ticari, Dünya Çapında Ticari Kamu Sektörü, Eğitim ve Kar Amacı Gütmeyen.
 - **Nasıl satın alınabilir?** Eklenti EA/EAS, EES, CSP veya Web Direct aracılığıyla satın alınabilir.
-- **Satılabilir mi?** Tüm geçerli pazarlarda satılabilir.
-- **Önkoşulların önkoşulları nelerdir?** Microsoft ekipleri içeren herhangi bir Microsoft 365/Office 365 paketi.
+- **Nerede satılır?** Tüm geçerli pazarlarda satılmalarına neden olabilir.
+- **Önkullar nedir?** Bu Microsoft 365/Office 365 paketi Microsoft Teams.
 
 ### <a name="next-steps"></a>Sonraki Adımlar
 
-- Bu bilgileri kuruluşunuzdaki ilgili kişilerle paylaşıp, büyük satış ve çapraz satış fırsatlarını anlayın. [Takımlar Iş ortağı kılavuzunun](https://aka.ms/teamscallingmeetingsguide)kaynaklar bölümünü gözden geçirin.
+- Bu bilgileri, kuruluşta ilgili kişilerle paylaşın ve satış ve çapraz satış fırsatlarını anlıyoruz. İş Ortağı Kılavuzu'Teams [gözden geçirme.](https://aka.ms/teamscallingmeetingsguide)
 
 ________________
 
-## <a name="microsoft-defender-advanced-threat-protection-atp-for-servers-for-education-available-in-september"></a><a name="3"></a>Eylül ayında kullanılabilir olan sunucular için Microsoft Defender Gelişmiş tehdit koruması (ATP)
+## <a name="microsoft-defender-advanced-threat-protection-atp-for-servers-for-education-available-in-september"></a><a name="3"></a>Microsoft Defender Gelişmiş Tehdit Koruması Için Sunucular (ATP) Eylül'de kullanılabilir
 ### <a name="categories"></a>Kategoriler
 
 - Tarih: 2020-08-04
 - Teklifler/Pazarlar
 
-### <a name="impacted-audience"></a>Etkilenen hedef kitle
+### <a name="impacted-audience"></a>Etkilene hedef kitle
 
 CSP programına katılan tüm iş ortakları
 
 ### <a name="details"></a>Ayrıntılar
 
-Eğitim için sunucular için Microsoft Defender Gelişmiş tehdit koruması (ATP), 1 Eylül 2020 ' de bulut çözümü sağlayıcısı (CSP) programında mevcuttur.
+Microsoft Defender Gelişmiş Tehdit Koruması Için Sunucular (ATP), 1 Eylül 2020'de Bulut Çözümü Sağlayıcısı (CSP) programında kullanılabilir.
 
-#### <a name="product-details"></a>Ürün Ayrıntıları
+#### <a name="product-details"></a>Ürün ayrıntıları
 
-- Teklif adı: eğitim için sunucular için Microsoft Defender ATP
-- Teklif KIMLIĞI: c7b9ab7e-8f80-4b4b-8aed-dcad61f28995
+- Teklif adı: Eğitim Sunucuları için Microsoft Defender ATP
+- Teklif Kimliği: c7b9ab7e-8f80-4b4b-8aed-dcad61f28995
 
 ### <a name="next-steps"></a>Sonraki Adımlar
 
-- Bu bilgileri, kuruluşunuzdaki uygun kişilerle paylaşabilirsiniz.
-- Ürün hakkında daha fazla bilgi için [Microsoft Defender ATP belgelerini](/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-advanced-threat-protection) okuyun.
+- Bu bilgileri, kuruluşta uygun kişiler ile paylaşın.
+- Ürün hakkında [daha fazla bilgi için Microsoft Defender ATP](/windows/security/threat-protection/microsoft-defender-atp/microsoft-defender-advanced-threat-protection) belgelerini okuyun.
 
 ________________
 
-## <a name="new-dynamics-365-sales-premium-bundle-offer"></a><a name="2"></a>Yeni Dynamics 365 Sales Premium paket teklifi
+## <a name="new-dynamics-365-sales-premium-bundle-offer"></a><a name="2"></a>Yeni Dynamics 365 Sales Premium paketi teklifi
 ### <a name="categories"></a>Kategoriler
 
 - Tarih: 2020-08-03
 - Teklifler/Pazarlar
 
-### <a name="impacted-audience"></a>Etkilenen hedef kitle
+### <a name="impacted-audience"></a>Etkilene hedef kitle
 
-İş ortakları deneyimidir Microsoft Dynamics 365
+Microsoft Dynamics 365'i işlemden alan iş ortakları
 
 ### <a name="summary"></a>Özet
 
-Microsoft, 1 Ağustos 2020 ' de, tüm programlarda ve ülkelerde ve bölgelerde ticari müşteriler için yeni bir Dynamics 365 Sales Premium paket teklifi yayımlamıştır.
+1 Ağustos 2020'de Microsoft, tüm programlarda ve ülkelerde ve bölgelerde ticari müşteriler için yeni bir Dynamics 365 Sales Premium paketi teklifi yayımlamıştı.
 
 ### <a name="details"></a>Ayrıntılar
 
-1 Ağustos 2020 ' den itibaren, Microsoft, tüm programlardaki müşteriler için yeni bir Dynamics 365 Sales Premium paket teklifi ve Dynamics 365 Enterprise ve Dynamics 365 Sales Insights 'ın zaten kullanılabildiği ülkeler ve bölgeler yayımlamıştır.
+Microsoft, 1 Ağustos 2020'den itibaren tüm programlarda ve Dynamics 365 Enterprise ve Dynamics 365 Sales Analizler'nin mevcut olduğu ülkelerde ve bölgelerdeki müşteriler için yeni bir Dynamics 365 Sales Premium paketi teklifi yayımlar.
 
-Bu teklifler hakkındaki ayrıntılar için [DYNAMICS CSP Offers-August 2020 Excel belgesini](https://partner.microsoft.com/resources/collection/microsoft-dynamics-365-power-platform-offers-products-fraud-protection-vl-csp-collection#/) gözden geçirin. 
+Bu [tekliflere ilişkin ayrıntılar için Dynamics CSP Offers-August 2020 Excel](https://partner.microsoft.com/resources/collection/microsoft-dynamics-365-power-platform-offers-products-fraud-protection-vl-csp-collection#/) belgesini gözden geçirebilirsiniz. 
 
 #### <a name="additional-resources"></a>Ek kaynaklar
 
-- [Microsoft Dynamics 365 sahtekarlık koruması](https://partner.microsoft.com/resources/collection/microsoft-dynamics-365-power-platform-offers-products-fraud-protection-vl-csp-collection#/)
-- [Microsoft Dynamics 365 lisansı](https://partner.microsoft.com/resources/collection/microsoft-dynamics-365-power-platform-offers-products-fraud-protection-vl-csp-collection#/)
+- [Microsoft Dynamics 365 Sahtekarlık Koruması](https://partner.microsoft.com/resources/collection/microsoft-dynamics-365-power-platform-offers-products-fraud-protection-vl-csp-collection#/)
+- [Microsoft Dynamics 365 Lisanslama](https://partner.microsoft.com/resources/collection/microsoft-dynamics-365-power-platform-offers-products-fraud-protection-vl-csp-collection#/)
 
 ### <a name="next-steps"></a>Sonraki Adımlar
 
-Bu bilgileri kuruluşunuzdaki uygun kişilerle paylaşabilir ve önizleme fiyatı listesini öğrenmeye çalışın. 
+Bu bilgileri, kuruluşta uygun kişilerle paylaşın ve önizleme fiyat listesi hakkında bilgi edinin. 
 
 ________________
 
-## <a name="announcing-the-availability-of-visio-plan-1-and-plan-2-trial-offers"></a><a name="1"></a>Visio plan 1 ve plan 2 deneme tekliflerinin kullanılabilirliği duyuruluyor 
+## <a name="announcing-the-availability-of-visio-plan-1-and-plan-2-trial-offers"></a><a name="1"></a>Visio Plan 1 ve Plan 2 Deneme Tekliflerinin kullanılabilirliğinin açıklanması 
 
 ### <a name="categories"></a>Kategoriler
 
 - Tarih: 2020-08-03
 - Teklifler/Pazarlar
 
-### <a name="impacted-audience"></a>Etkilenen hedef kitle
+### <a name="impacted-audience"></a>Etkilene hedef kitle
 
-Bulut çözümü sağlayıcısı (CSP) programına katılan tüm iş ortakları
+Bulut Çözümü Sağlayıcısı (CSP) programına katılan tüm iş ortakları
 
 ### <a name="summary"></a>Özet
 
-Microsoft, Visio plan 1 ve plan 2 ' den başlayarak 1 Ağustos 2020 ' e kadar deneme teklifleri sunmaktadır. 
+Microsoft, 1 Ağustos 2020'Visio Plan 1 plan 2 için deneme teklifleri sunmaktadır. 
 
 ### <a name="details"></a>Ayrıntılar
 
-Microsoft Visio, kullanıcıların profesyonel diyagramlar kolay bir şekilde oluşturmalarına, daha verimli işbirliği yapmasına, gerçek zamanlı verilere bağlanmasına ve iş akışlarını otomatikleştirmesine olanak tanır. Visio plan 1 ve plan 2 için deneme teklifleri 1 Ağustos 2020 tarihinden itibaren kullanılabilir.
+Microsoft Visio kullanıcıların zahmetsizce profesyonel diyagramlar oluşturmalarını, daha verimli işbirliği yapmalarını, gerçek zamanlı verilere bağlanmalarını ve iş akışlarını otomatikleştirmelerini sağlar. Visio Plan 1 Plan 2 için deneme teklifleri 1 Ağustos 2020'den başlayarak kullanılabilir olacak.
 
-Microsoft Visio, Microsoft 365, Microsoft ekipleri ve güç platformu çözümlerine tümleştirerek bir dizi sektör ve rol arasında kullanılabilir. Müşterilerinize işletmelerini çalıştırmak için ihtiyaç duydukları araçları sunun.
+Microsoft Visio, Microsoft 365, Microsoft Teams ve Power Platform çözümleriyle tümleştirme ile çeşitli sektörlerde ve rollerde kullanılabilir. Müşterilerinize, işletmelerini çalıştırmak için ihtiyaçlarında olan araçları verme.
 
-#### <a name="what-are-the-partner-benefits"></a>İş ortağı avantajları nelerdir?
+#### <a name="what-are-the-partner-benefits"></a>İş ortağının avantajları nelerdir?
 
-Microsoft Visio, size yardımcı olacak bir üründür:
+Microsoft Visio size yardımcı olacak bir üründür:
 
-- Kurumsal grafik şablonu ve tümleştirme senaryolarını Excel ve Power BI kullanarak, sürdürülebilir bir kurumsal yapı oluşturma
-- Sosyal distancing yönergelerini birleştirmek için Visio floorplanlarla çalışma alanına güvenli bir geri dönüş planlayın
-- İş modellerini uyarlayın: Iş analizi, Visio değer teklifi 'nin çekirdeğinden oluşur. İş modellerini yeni çalışma yoluna uyarlayarak, önemli iş süreçlerini Visio ile eşleyerek ve yeniden tasarlamaya ve bu uygulamaya gömülü Power BI ve Visio diyagramlarıyla zamanında veri öngörüleri elde edin. 
-- Değer ve maliyet azaltmaya odaklanın: yinelenen işlemleri belirleyip otomatikleştirin ve müşterilerinizin BT yönetimi, Insan kaynakları ve diğerleri gibi yaygın işlevsel roller için self servis iş yükleri geliştirmesine yardımcı olun.
+- Sürdürülebilir bir kuruluş yapısı oluşturmak için kuruluş grafiği şablonunu ve Excel Power BI senaryolarını kullanma
+- Sosyal ayrım yönergelerini dahil etmek için Visio çalışma yerine güvenli bir geri dönüş planlama
+- İş modellerini uyarlama: İş analizi, en önemli Visio dır. Visio ile kritik iş işlemlerini eşler ve yeniden tasarlar ve bu uygulamaya eklenmiş Power BI ve Visio diyagramları ile zamanında veri içgörüleri elde edin. 
+- Değer ve maliyet azaltmaya odaklanın: Yinelenen işlemleri belirleyin ve otomatikleştirin ve müşterilerin, IT yönetimi, İnsan Kaynakları ve diğerleri gibi yaygın işlevsel roller için self servis iş yükleri geliştirmesine yardımcı olur.
 
-Müşterilerinizin bu avantajlardan faydalanmaya yardımcı olmak için Visio plan 1 ve Visio plan 2 için 30 günlük ücretsiz bir deneme sunuyoruz. İş ortakları, Iş Ortağı Merkezi 'nde fiyatlandırma ve teklifler sayfasındaki aylık fiyat listesinde denemeleri bulabilir. Deneme tekliflarında, Fiyat listesi Ikincil lisans türü sütununda "deneme" listelenir.
+Müşterilerinize bu avantajları yaşamanıza yardımcı olmak için Visio Plan 1 Visio Plan 2 ücretsiz 30 günlük deneme sürümü sunuyoruz. İş ortakları, aylık fiyat listesinde denemeleri fiyatlandırma ve teklifler sayfasında bulabilirsiniz İş Ortağı Merkezi. Deneme teklifleri, İkincil Lisans Türü sütunundaki fiyat listesinde "DENEME" olarak listelenir.
 
-#### <a name="offer-details"></a>Teklif Ayrıntıları
+#### <a name="offer-details"></a>Teklif ayrıntıları
 
    |**Teklif adı**|**Teklif Kimliği**|
    |-------------------|:------|
-   |Visio plan 1 deneme sürümü|7b6bb5a6-15c9-4ede-8eba-e2dfe2118b69|
-   |Visio plan 2 deneme sürümü|20f1b560-c19a-4FC7-abc0-d8a797c06338|
+   |Visio Plan 1 Deneme|7b6bb5a6-15c9-4ede-8eba-e2dfe2118b69|
+   |Visio Plan 2 Deneme|20f1b560-c19a-4fc7-abc0-d8a797c06338|
 
 ### <a name="next-steps"></a>Sonraki Adımlar
 
-- [Operations Resource Gallery](https://partner.microsoft.com/resources/collection/visio-availability-announcing-trial-offers#/) 'de Visio plan 1 ve plan 2 hakkında daha fazla bilgi edinin 
-- Ayrıca, [müşterilerin Microsoft Visio ve Power platform ile işletmelerin yeniden bağlanmasını ve yeniden sunulmasını sağlamak üzere](https://www.microsoft.com/microsoft-365/partners/videos/inspire-visio-power-platform)esire oturumunun görüntülenmesini öneririz.
+- Visio Plan 1 ve Plan 2 hakkında daha fazla bilgi edinmek için [İşlemler Kaynak Galerisi'ni ziyaret edin](https://partner.microsoft.com/resources/collection/visio-availability-announcing-trial-offers#/) 
+- Ayrıca, Müşterilerin Microsoft Visio ve Power Platform ile işletmeleri yeniden teşvik etmelerine yardımcı olmak için Inspire [oturumunu Power Platform.](https://www.microsoft.com/microsoft-365/partners/videos/inspire-visio-power-platform)
 
 ________________

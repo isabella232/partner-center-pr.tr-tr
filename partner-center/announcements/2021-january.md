@@ -1,92 +1,92 @@
 ---
 title: Ocak 2021 duyuruları
-description: Microsoft ocak 2021 duyuruları İş Ortağı Merkezi özellikler, promosyonlar, teklifler, pazarlar veya mevcut tekliflerde yapılan değişiklikler de dahil.
+description: Yeni yetenekler, promosyonlar, teklifler, pazarlar veya mevcut tekliflerle ilgili değişiklikler dahil olmak üzere Microsoft Iş Ortağı Merkezi için Ocak 2021 duyuruları.
 ms.topic: article
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-action-center
 author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 07/02/2021
-ms.openlocfilehash: 06593db6a55299170c696e3179b5ad1a666aacc7
-ms.sourcegitcommit: 9667763ae6eb405314dbb96bd4fa484ec964ab58
+ms.openlocfilehash: 4a59d3cdddd01dcd6fac105cbbb69c079bbd389d
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/15/2021
-ms.locfileid: "114224692"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114838742"
 ---
 # <a name="january-2021-announcements"></a>Ocak 2021 duyuruları
 
-Bu sayfada, Ocak 2021 İş Ortağı Merkezi Microsoft İş Ortağı Merkezi duyuruları ayrıntılı olarak açıklanmaz.
+Bu sayfada, Ocak 2021 için Microsoft Iş Ortağı Merkezi duyuruları ayrıntılı olarak yer aldığı yer.
 
-2021 duyuruları: Ocak
+2021 Duyuruları: Ocak
 
-2020 duyuruları: [Haziran](2020-may.md)  |  [Haziran Ağustos](2020-june.md)  |  [](2020-july.md)  |  [Eylül](2020-august.md)  |  [Ekim](2020-september.md)  |  [](2020-October.md)  |  [Kasım Aralık](2020-november.md)  |  [](2020-december.md)  
+2020 [Duyurular:](2020-may.md)  |  [](2020-june.md)  |  [](2020-july.md)  |  [](2020-august.md)  |  [](2020-september.md)  |  Kasım ayında[Ekim](2020-October.md)  |  [](2020-november.md)  |  [ayında](2020-december.md) Haziran ayı  
 
 _____________ 
 
-## <a name="phase-1-now-live-euefta--uk-change-of-partner-billing-currency-for-new-commerce-offers"></a><a name="15"></a> 1. Aşama Artık Canlı: AB/EFTA & Birleşik Krallık'ta yeni ticari teklifler için İş Ortağı Faturalama Para Birimi Değişikliği
+## <a name="phase-1-now-live-euefta--uk-change-of-partner-billing-currency-for-new-commerce-offers"></a><a name="15"></a> Aşama 1 artık canlı: AB/EFTA & UK Birleşik Krallık, yeni ticaret teklifleri için Iş ortağı faturalandırma para birimi değişikliği
 
 ### <a name="categories"></a>Kategoriler
 
 - Tarih: 2021-01-28
 - Özellikler
 
-### <a name="impacted-audience"></a>Etkilene hedef kitle
+### <a name="impacted-audience"></a>Etkilenen hedef kitle
 
-- AB/EFTA Bulut Çözümü Sağlayıcısı Birleşik Krallık'ta & İş Ortakları
+- ab/efta & UK Bulut Çözümü Sağlayıcısı programı aracılığıyla tüm iş ortakları deneyimidir
 
 ### <a name="details"></a>Ayrıntılar
 
-Avrupa Birliği (AB)/Avrupa Serbest Ticaret Birliği (EFTA) ve Birleşik Krallık 'ta (Birleşik Krallık) Bulut Çözümü Sağlayıcısı programı kapsamındaki tüm yeni ticaret teklifleri, müşteri faturalama konumu yerine iş ortağı faturalama konumunu kullanır. Bu nedenle iş ortakları, müşterilerinin konum para birimine değil, konum para birimine göre faturalandırılır. Bu değişiklikler iki aşamada yapılır:
+avrupa birliği (ab)/avrupa serbest ticaret birliği (efta) ve birleşik krallık (UK) içinde, Bulut Çözümü Sağlayıcısı programdaki tüm yeni ticaret teklifleri müşteri faturalandırma konumu yerine iş ortağı faturalandırma konumunu kullanır. Bu nedenle, iş ortakları Microsoft tarafından müşterilerin konum para birimine değil, konum para birimine göre faturalandırılacaktır. Bu değişiklikler iki aşamada yapılır:
 
 **1. Aşama:**
 
-- CSP'de yeni bir ticari teklif satın alan yeni müşteri
+- CSP 'de yeni bir ticari teklif satın alan yeni müşteri
 
-- Mevcut müşteriler yeni ticaret tekliflerini ilk kez satın alma - 11 Mayıs 2020'den önce oluşturulan kiracı
+- Mevcut müşteriler, 11 Mayıs 2020 ' den önce oluşturulan yeni ticari teklifler için ilk kez satın alma
 
-28 Ocak 2021'den başlayarak, yeni bir ticaret teklifi satın alan net yeni müşterilere sahip olan iş ortakları veya 11 Mayıs 2020'den önce oluşturulan kiracıları olan mevcut müşteriler, iş ortağı konumu para biriminde bu satın almalar için faturalandıracak.  
+28 Ocak 2021 tarihinden itibaren, yeni bir ticaret teklifi satın alan net yeni müşterilere sahip olan iş ortakları veya 11 Mayıs 2020 ' den önce oluşturulan kiracılar ile mevcut müşteriler, iş ortağı konumu para birimiyle satın alınan satın almalara göre faturalandırılır.  
 
-CSP'de yeni ticari teklifler satın alan mevcut müşterilerle iş ortakları, bu aşamada müşterinin faturalama konumunun para birimiyle faturalandır olmaya devam edecektir. Ayrıca, kiracıları 11 Mayıs 2020'de veya sonrasında oluşturulmuş olan yeni bir ticaret teklifini ilk kez satın alan mevcut müşterilerle iş ortakları, müşterinin para birimi üzerinden faturalandır olmaya devam edecektir.
+CSP 'de zaten yeni ticaret teklifleri satın almış mevcut müşterileri olan iş ortakları, bu aşamada müşterinin faturalandırma konumunun para birimi cinsinden faturalandırılmaya devam edecektir. Ayrıca, mevcut müşterilerine sahip iş ortakları, kiracılar 11 Mayıs 2020 ' de veya sonrasında oluşturulan yeni bir ticaret teklifinin ilk kez satın alınması sırasında müşterinin para biriminde faturalandırılmaya devam edecektir.
 
 **2. Aşama:**
 
-- 1. Aşama'dan önce CSP'de yeni bir ticaret teklifi satın alan mevcut müşteriler
-- Mevcut müşteriler yeni ticaret tekliflerini ilk kez satın alma - 11 Mayıs 2020'de veya sonrasında oluşturulan kiracı
+- 1. aşamasından önce CSP 'de yeni bir ticaret teklifi satın almış olan mevcut müşteriler
+- Mevcut müşteriler ilk kez yeni ticaret teklifleri satın alma-kiracı, 11 Mayıs 2020 Mayıs 'ta veya sonrasında oluşturulmuştur
 
-1. Aşama'dan ve 2021 takvim yılından sonra Microsoft, CSP'de 1. Aşama'dan önce yeni bir ticaret teklifi satın alan mevcut müşterilerle iş ortakları için yeni ticaret tekliflerinin faturasını ve kiracılarını 11 Mayıs 2020'de veya sonrasında müşteri konumu para biriminden iş ortağı konumu para birimine devredecek. Bu değişiklik uygulanmadan önce iş ortaklarına önceden iyi bir şekilde bildirilecek.
+Aşağıdaki 1. aşama ve takvim yılı 2021 sırasında, Microsoft, iş ortakları için yeni ticaret tekliflerinin faturalandırmasını, 1. aşamasından önce CSP 'de yeni bir ticaret teklifi satın almış ve bu durumda, kiracılarının müşteri konumu para biriminden iş ortağı konum para birimine göre 11 Mayıs 2020 ' den fazla Bu değişiklik uygulanmadan önce iş ortakları iyi bir şekilde bildirilir.
 
-2. Aşama'dan sonra, AB/EFTA & Birleşik Krallık'ta iş ortakları, tüm müşteriler ve tüm CSP satın almaları için iş ortağı konumu para birimi cinsinden faturalandırılır.
+2. aşama sonrasında, AB/EFTA & UK 'teki iş ortakları tüm müşteriler ve tüm CSP satınalmaları için iş ortağı konum para birimiyle faturalandırılır.
 
 >[!NOTE]
->Bu değişiklik, CSP'de yeni ticaret tekliflerinin fiyatlandırması için değil yalnızca iş ortağı faturalama para birimini etkiler. Bu değişiklik kapsamındaki yeni ticaret teklifleri: Azure planının parçası olan Azure abonelikleri, Azure rezervasyonları, sunucu abonelikleri, kalıcı yazılım ve Bulut Çözümü Sağlayıcısı microsoft ticari market satın almaları.
+>Bu değişiklik, CSP 'deki yeni ticaret tekliflerinin Fiyatlandırmasını değil, yalnızca iş ortağı faturalandırma para birimini etkiler. bu değişiklik için kapsamdaki yeni ticaret teklifleri şunlardır: azure planının bir parçası olan azure abonelikleri, azure ayırmaları, sunucu abonelikleri, kalıcı yazılımlar ve Microsoft ticari market satın alımlarının Bulut Çözümü Sağlayıcısı program.
 
 ### <a name="partner-benefits"></a>İş ortağı avantajları
 
-Bu güncelleştirme, ab/EFTA ve Birleşik Krallık'ta yeni ticaret deneyimi için çok para birimili faturalama & karmaşıklığı ve ek yükü azaltacak.
+Bu güncelleştirme, yeni ticaret deneyimi için AB/EFTA & UK 'teki çoklu para birimi faturalaması ile karmaşıklığı ve ek yükü azaltır.
 
-- İş ortakları tek bir para biriminde birleştirilmiş bir fatura alır ve artık her müşteri konumu para birimi için fatura almamaktadır
-- Teşvik ödemeleri, iş ortağının fatura para birimiyle aynı para biriminde olur
-- İş ortakları, çok para birimili faturalamanın neden olduğu faturalama karmaşıklığının az olduğunu fark eder ve bu da şu anda mutabakat hesaplarıyla ilişkili olan kaynakları ve zamanı serbest bırakmaktadır
-- Henüz yeni ticari teklifleri benimsemeyen iş ortakları için bu değişiklik, önceki iş ortağı faturalama modeliyle uyumlu olduğundan iş ortaklarının CSP'de yeni ticaret deneyimine daha kolay geçişe olanak sağlar
+- İş ortakları, birleştirilmiş bir faturayı tek bir para birimiyle alacak ve artık her müşteri konumu para birimi için bir fatura almamayacaktır
+- Teşvik eden ödemeler, ortağın fatura para birimiyle aynı para birimiyle olacaktır
+- İş ortakları, birden çok para birimi faturalaması nedeniyle oluşan faturalandırma karmaşıklığını azaltacaktır ve bu, şu anda mutabakat olan hesaplarla ilişkili zaman ve kaynakları boşaltacaktır.
+- Yeni ticaret tekliflerini henüz benimseyen iş ortakları için, bu değişiklik önceki iş ortağı faturalama modeliyle hizalanır ve iş ortaklarının CSP 'de yeni ticaret deneyimine daha kolay geçişe olanak tanır
 
 ### <a name="next-steps"></a>Sonraki adımlar
 
-Microsoft iş ortağı web sitesinin İşlemler [Galerisi'nde](https://partner.microsoft.com/resources/collection/eu-efta-changes-collection#/) (oturum açma gereklidir) bu konu başlığıyla ilgili bilgileri gözden geçirebilirsiniz.  
+Microsoft iş ortağı web sitesinde [Işlemler galerisinde](https://partner.microsoft.com/resources/collection/eu-efta-changes-collection#/) bu konuyla ilgili bilgileri gözden geçirin (gerekli oturum açın).  
 
 ### <a name="questions"></a>Sorularınız mı var?
 
-Bu bildirimle ilgili tüm sorular için destek [İş Ortağı Merkezi](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals) (oturum açma gereklidir) ile iletişime geçin.
+Bu bildirimle ilgili sorular için [Iş Ortağı Merkezi desteğiyle](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals) iletişim kurun (oturum açma gerekir).
 
 ### <a name="change-log"></a>Değişiklik günlüğü
 
-- 17 Kasım 2020: Özgün yayın
-- 7 Ocak 2021: 1. Aşama ve 2. Aşama için ek senaryo dahil edildi
+- 17 Kasım 2020: özgün yayın
+- 7 Ocak 2021:1. aşama ve 2. aşama için ek senaryo eklendi
 - 28 Ocak 2021: 
-    -    1. Aşama yayında 
-    -    Birleşik Krallık'ın EU/EFTA'ya dahil olmadığını netleştirme, [Microsoft](../regional-authorization-overview.md) Avrupa bölgesi ve pazarının bir parçası ve bundan etkilenecektir
+    -    Duyurun 1. aşaması canlı 
+    -    Birleşik Krallık, AB/EFTA dahil edilirken, [Microsoft Avrupa bölgesinin ve pazarın](../regional-authorization-overview.md) bir parçasıdır ve bundan etkilenir
 
 ________________
 ## <a name="changes-to-the-cloud-solution-provider-csp-customer-onboarding-requirements"></a><a name="14"></a>Bulut Çözümü Sağlayıcısı (CSP) müşteri ekleme gereksinimlerinde yapılan değişiklikler
@@ -94,23 +94,23 @@ ________________
 ### <a name="categories"></a>Kategoriler
 
 - Tarih: 2021-04-02
-- Gelişmiş Güvenlik ve Uyumluluk
+- Gelişmiş güvenlik ve uyumluluk
 
 ### <a name="summary"></a>Özet
 
-İş ortaklarına ve müşterilerin iş ortaklarına ve iş ortaklarına güvene dayalı olarak işlerini çalıştırmalarına yardımcı olmaya ilişkin taahhüdimizin bir parçası olarak, 25 Mart 2021'den itibaren geçerli olmak için ek müşteri bilgileri talep ediyoruz.
+İş ortakları ve müşterilerin işlerini güvenle çalıştırmasına yardımcı olma çabamız kapsamında, 25 Mart 2021 ' den itibaren geçerli olan ek müşteri bilgileri isteyeceğiz.
 
-### <a name="impacted-audience"></a>Etkilene hedef kitle
+### <a name="impacted-audience"></a>Etkilenen hedef kitle
 
-CsP doğrudan fatura iş ortakları ve sonraki bölümde listelenen ülkelerde yeni veya mevcut müşterileri olan dolaylı sağlayıcılar
+CSP doğrudan fatura ortakları ve sonraki bölümde listelenen ülkelerde yeni veya mevcut müşteriler bulunan dolaylı sağlayıcılar
 
 ### <a name="details"></a>Ayrıntılar
 
-Microsoft güven üzerinde çalışır. CSP programında müşteri aboneliklerini işlemeye yardımcı olmak için uyumlu, güvenli ve güvenli bir müşteri doğrulama yöntemi sağlamayı taahhüt etmek istiyoruz. 25 Mart 2021'de, aşağıdaki ölçütlerin her ikisini de karşıleyen iş ortaklarını etkileyecek İş Ortağı Merkezi API'si ve kullanıcı arabirimi (UI) geliştirmeleri tanıtacağız:
+Microsoft, güvende çalışır. CSP programında deneyimidir müşteri abonelikleri için uyumlu, güvenli ve güvenli bir müşteri doğrulama yöntemi sağlamayı taahhüt ediyoruz. 25 Mart 2021 ' de, aşağıdaki ölçütlerin her ikisini de karşılayan iş ortaklarını etkileyecek Iş Ortağı Merkezi API 'SI ve Kullanıcı arabirimi (UI) geliştirmeleri sunacağız:
 
-1. İş ortağının Microsoft ile doğrudan faturalama ilişkisi vardır (bu da iş ortağının doğrudan fatura iş ortağı veya dolaylı sağlayıcı olduğu anlamına gelir).
+1. İş ortağı Microsoft ile doğrudan faturalandırma ilişkisine sahiptir (Bu, ortağın doğrudan bir fatura ortağı veya dolaylı bir sağlayıcı olduğu anlamına gelir).
 
-2. İş ortağı, aşağıdaki ülkelerdeki yeni veya mevcut müşterilerle iş yapar:
+2. İş ortağı aşağıdaki ülkelerde yeni veya mevcut müşteriler ile iş yapar:
 
     - Tayland
     - Vietnam
@@ -126,11 +126,11 @@ Microsoft güven üzerinde çalışır. CSP programında müşteri aboneliklerin
     - Birleşik Arap Emirlikleri
     - Venezuela
 
-Ölçütlere uyan iş ortaklarının, müşterinin şirket kayıt kimliğini (müşterinin kuruluş INN'si olarak da bilinir) ve bu müşteri için bir sonraki güncelleştirme veya abonelik oluşturma işlemi sırasında telefon numarasını göndermesi gerekir. Ayrıca bu iş ortakları müşteri için isteğe bağlı bir ikinci ad da girebilir.
+Ölçütlere uyan iş ortaklarının bir müşterinin Şirket kayıt KIMLIĞINI (müşterinin kuruluş adı olarak da bilinir) ve telefon numarasını bir sonraki güncelleştirdiklerinde ve bu müşteri için bir abonelik oluştururken göndermesi gerekecektir. Ayrıca bu iş ortakları müşteri için isteğe bağlı bir ikinci ad da girebilir.
 
-Şirket kayıt kimliğinizi eklerken, müşterinin kişisel kimliğini değil, iş verginizi kullanmanız gerektiğini unutmayın.
+Şirket kayıt KIMLIĞINIZI eklediğinizde müşterinin kişisel KIMLIĞINI değil iş vergi KIMLIĞINIZI kullanmanız gerektiğini unutmayın.
 
-Aşağıdaki ülkelerde yeni veya mevcut müşterilerle iş yapan iş ortakları, Kasım 2020'de önceki bir sürüme zaten ekli.
+Aşağıdaki ülkelerde yeni veya mevcut müşteriler ile iş yapan iş ortakları, Kasım 2020 ' de daha önceki bir sürüm ile zaten eklendi.
 
 - Ermenistan
 - Azerbaycan
@@ -144,22 +144,22 @@ Aşağıdaki ülkelerde yeni veya mevcut müşterilerle iş yapan iş ortakları
 - Ukrayna
 - Özbekistan
 
-Dünyanın geri kalanındaki müşterilerle iş ortakları, Mart 2021'in sonunda isteğe bağlı ayrıntılar olarak müşterilerin şirket kayıt kimliğini, telefon numarasını ve ara adını girme olanağına sahip olacak.
+Dünyanın geri kalanında müşterilere sahip iş ortakları, 2021 Mart 'ın sonunda, müşteriler için isteğe bağlı ayrıntılar olarak şirket kayıt KIMLIĞI, telefon numarası ve orta adı girme yeteneğine sahip olacaktır.
 
 ### <a name="next-steps"></a>Sonraki adımlar
 
-- Daha ayrıntılı rehberlik için ayrılmış iş ortağı koleksiyonunda teknik belgeleri [ve sık](https://partner.microsoft.com/resources/collection/additionalfields-csp-customers-selected-geos#/) sorulan soruları gözden geçirme.
-- Api ve web kullanıcı deneyimini İş Ortağı Merkezi değişiklikleri dahil etmek için hazırlanma. API/SDK'lar test için kullanılabilir.
-- Yeni müşteri ekleme veya mevcut müşteri ayrıntılarını değiştirme ile ilgili ek verileri gönderdiğinizden emin olun.
-- Denetim masası satıcısı (CPV) çözümü kullanıyorsanız CPV'nize başvurun.
+- Daha ayrıntılı rehberlik için, adanmış [iş ortağı koleksiyonundaki](https://partner.microsoft.com/resources/collection/additionalfields-csp-customers-selected-geos#/) teknik belgeleri ve sık sorulan soruları gözden geçirin.
+- Iş Ortağı Merkezi API 'sini ve Web kullanıcısı deneyimini kullanarak değişiklikleri dahil etmek için hazırlanın. API/SDK 'lar test için kullanılabilir olacak.
+- Yeni müşterileri eklerken veya mevcut müşteri ayrıntılarını değiştirirken ek verileri gönderdiğinizden emin olun.
+- Bir denetim masası satıcısı (CPV) çözümü kullanıyorsanız, CPV 'nize başvurun.
 
 ### <a name="questions"></a>Sorularınız mı var?
 
-Şirket kayıt kimliğiyle (INN veya TIN olarak da adlandırılan) ilgili sorularınız varsa vergi danışmanınıza veya yerel vergi ofisinize ulaşın. Microsoft, vergi konularıyla ilgili rehberlik sağamaz.
+Şirket kayıt KIMLIĞI (ıNN veya tın olarak da bilinir) ile ilgili sorularınız varsa vergi danışmanınıza veya yerel vergi ofisine başvurun. Microsoft, vergi konusunda önemli yönergeler sağlayamaz.
 
-Microsoft ile işlemleriniz için de destek gerekirse bir hizmet [isteği açın.](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=aa679372-d996-73df-e244-cb28bbbf28e8)
+Microsoft ile işlemlerinizi desteklemek için bir [hizmet isteği](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=aa679372-d996-73df-e244-cb28bbbf28e8)açın.
 
-### <a name="change-log"></a>Değişiklik Günlüğü:
+### <a name="change-log"></a>Değişiklik günlüğü:
 
 17 Aralık 2020: Özgün yayın
 
@@ -460,7 +460,7 @@ Fiyat listesi önizlemesini gözden geçirin ve kuruluşta uygun paydaşlarla pa
 
 ### <a name="questions"></a>Sorularınız mı var?
 
-Bu teklifler hakkında daha fazla soru için ilgili topluluklarınızı Yammer edin. 
+Bu teklifler hakkında daha fazla soru için ilgili topluluklarınızı Yammer kontrol edin. 
 
 _____________ 
 

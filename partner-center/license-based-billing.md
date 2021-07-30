@@ -3,18 +3,18 @@ title: Lisans tabanlı faturalama
 description: Lisans tabanlı faturalamanın, lisans başına nasıl faturalandırıldık (lisans kullanımına göre değil) dahil olmak üzere İş Ortağı Merkezi'daki kullanım tabanlı faturalamadan nasıl farklı olduğunu öğrenin.
 ms.topic: article
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-billing
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/18/2020
-ms.openlocfilehash: 8232ab784611a04990044049c16e84c1a47b9567
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 838dc5cbce503f449c2796c8397625266f826059
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110151840"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114846154"
 ---
 # <a name="license-based-billing-in-partner-center"></a>İş Ortağı Merkezi'de lisans tabanlı faturalama
 
@@ -30,7 +30,7 @@ Lisanslar için ayda bir kez (aylık faturalama) veya yılda **bir** kez (yıll�
 
 Lisans tabanlı abonelikler, aboneliğin yıldönümü tarihine göre önceden **fatura edilir.** Yıldönümü tarihi, aboneliği satın aldığınız ayın günü olur.
 
-Örnek:
+Örneğin:
 
 - 15 **Ocak'ta aylık** abonelik satın aldıysanız yıldönümü tarihi her ayın 15'inde olacaktır.
 - 15 **Ocak'ta yıllık** abonelik satın aldıysanız yıl dönümü tarihi her yılın 15 Ocak tarihi olur.
@@ -53,8 +53,8 @@ Tüm lisans tabanlı abonelikler, ücretli dönem başladıktan 12 ay sonra otom
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-- [Iş Ortağı Merkezi faturalandırmaya genel bakış](billing-basics.md)
+- [Faturalamaya İş Ortağı Merkezi bakış](billing-basics.md)
 
 - [İş Ortağı Merkezi'ndeki faturalama türleri](./billing-basics.md)
 
-- [Ana faturalandırma ve vergi makaleleri](billing.md)
+- [Ana faturalama ve vergi makaleleri](billing.md)

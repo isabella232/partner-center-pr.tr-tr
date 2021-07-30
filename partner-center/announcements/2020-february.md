@@ -3,18 +3,18 @@ title: Şubat 2020 duyuruları
 description: Yeni yetenekler, promosyonlar, teklifler, pazarlar veya mevcut tekliflerle ilgili değişiklikler gibi Microsoft Iş Ortağı Merkezi için Şubat 2020 duyuruları.
 ms.topic: article
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-action-center
 author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 02/01/2020
-ms.openlocfilehash: 7e608752b76c940e83434d7ec7daf3e4058512bd
-ms.sourcegitcommit: 98f5eebe7d08ba214ed5a078f1ac770439e41eb7
+ms.openlocfilehash: 59884a0bcf25af224bb37035625a608737118ec7
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/31/2020
-ms.locfileid: "93132853"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114838997"
 ---
 # <a name="february-2020-announcements"></a>Şubat 2020 duyuruları
 
@@ -31,7 +31,7 @@ _________________
 - Tarih: 2020-02-25
 - Tür: teklifler/pazarlar
 - Durum: şimdi kullanılabilir
-- [Daha fazla bilgi](https://partner.microsoft.com/resources/collection/submit-tax-withholding-credit-request#/)
+- [Daha fazla bilgi edinin](https://partner.microsoft.com/resources/collection/submit-tax-withholding-credit-request#/)
 
 ### <a name="impacted-audience"></a>Etkilenen hedef kitle
 
@@ -60,7 +60,7 @@ _________________
 - Tarih: 2020-02-25
 - Tür: yetenekler
 - Durum: şimdi kullanılabilir
-- [Daha fazla bilgi](https://partner.microsoft.com/resources/collection/Microsoft-Customer-Agreement-in-the-CSP-program#/)
+- [Daha fazla bilgi edinin](https://partner.microsoft.com/resources/collection/Microsoft-Customer-Agreement-in-the-CSP-program#/)
 
 ### <a name="impacted-audience"></a>Etkilenen hedef kitle:
 
@@ -68,12 +68,12 @@ _________________
 
 ### <a name="summary"></a>Özet:
 
-İş ortakları artık hem yeni hem de mevcut müşterileri Microsoft Müşteri anlaşmasını doğrudan kimliği doğrulanmış bir Microsoft portalında (Microsoft 365 Yönetim Merkezi) gözden geçirmek ve kabul etmek için davet edebilir.
+iş ortakları artık hem yeni hem de mevcut müşterileri microsoft müşteri anlaşmasını doğrudan kimliği doğrulanmış bir microsoft portalında (Microsoft 365 Yönetici Center) gözden geçirmek ve kabul etmek için davet edebilir.
 
 Bu yeni özellik, iş ortaklarının, müşterilerine Microsoft Müşteri Sözleşmesi sunarken [iki seçeneğe sahip](../confirm-customer-agreement.md) olduğu anlamına gelir:
 
 - **Seçenek 1:** İş ortakları, müşterilerine daha önce Microsoft Bulut anlaşmasıyla aynı şekilde yeni Microsoft Müşteri Sözleşmesi sunabilir. Müşteri anlaşmayı inceledikten ve kabul ettikten sonra iş ortakları, müşterinin Microsoft ile kabulünü kabul etmelidir. Iş Ortağı Merkezi panosu, Iş Ortağı Merkezi API 'SI ve .NET SDK, Microsoft Müşteri sözleşmesinin bu şekilde kabul edildiğini onaylayan bir ortağı destekleyecek şekilde güncelleştirilmiştir.
-- **Seçenek 2 (yeni özellik):** İş ortakları, anlaşmayı görüntülemek ve imzalamak için kullanıcıları kimliği doğrulanmış bir Microsoft portalına (Microsoft 365 Yönetim Merkezi) davet edebilir. Bu seçenek, müşteri doğrudan Microsoft 365 Yönetim Merkezi 'nde kabul ettiğinde iş ortakları için Basitleştirilmiş anlaşma yönetimi, daha hızlı uygulama ve daha az iş sağlar. Bu, koşulların onayını onaylar.
+- **Seçenek 2 (yeni özellik):** iş ortakları, anlaşmayı görüntülemek ve imzalamak için kullanıcıları kimliği doğrulanmış bir Microsoft portalına (Microsoft 365 Yönetici Center) davet edebilir. bu seçenek, müşteri doğrudan Microsoft 365 Yönetici merkezi içinde kabul ettiğinde iş ortakları için basitleştirilmiş anlaşma yönetimi, daha hızlı uygulama ve daha az iş sağlar. bu, koşulların onayını onaylar.
 
 İş ortakları, müşterilerin Iş Ortağı Merkezi panosunda bulunan yeni işlevleri kullanarak veya [Bu yenı API](/partner-center/develop/get-direct-sign-status-of-customer-agreement)aracılığıyla yeni sözleşmeyi kabul etmiş olup olmadığını öğrenmiş olabilir.
 
@@ -84,11 +84,11 @@ Bu yeni özellik, iş ortaklarının, müşterilerine Microsoft Müşteri Sözle
 
 ### <a name="next-steps"></a>Sonraki adımlar:
 
-- Müşteri Microsoft Müşteri anlaşmasını kabul etmediyse, yeni siparişler için 1 Şubat 2020 itibariyle zorunludur. İş ortakları atmalıdır. Seçenek 1: müşteriler sözleşmeyi kabul etmiş veya 2. seçenek: müşterileri, sözleşmeyi doğrudan Microsoft 365 Yönetim Merkezi aracılığıyla kabul edecek şekilde davet edebilir.
+- Müşteri Microsoft Müşteri anlaşmasını kabul etmediyse, yeni siparişler için 1 Şubat 2020 itibariyle zorunludur. İş ortakları atmalıdır. seçenek 1: müşteriler sözleşmeyi kabul etmiş veya 2. seçenek: müşterileri sözleşmeyi doğrudan Microsoft 365 Yönetici merkezi aracılığıyla kabul edecek şekilde davet edin.
 - Mevcut Microsoft Bulut sözleşmesi kanıtlaması için API 'Leri kullanan iş ortaklarının, güncelleştirilmiş API ile mevcut uygulamasını gözden geçirmeniz gerekir.
 - Yeni sözleşme koşullarında aracılarınızı ve satıcılarınızı eğitme ve yeni sözleşmeyi sunma ve müşteri kabulünü doğrulama.
 
-### <a name="additional-resources"></a>Ek kaynaklar:
+### <a name="additional-resources"></a>Ek Kaynaklar:
 
 İş ortakları, bu [CSP Galerisi sayfasında](https://partner.microsoft.com/resources/collection/Microsoft-Customer-Agreement-in-the-CSP-program#/)bulunan Microsoft Müşteri Sözleşmesi içeriğini görüntüleyebilir. Şunları içerir:
 
@@ -128,19 +128,19 @@ Bu iki yeni teklif, önizleme dosyasında yapılan tek değişikliklerdir. Mart 
 
 Aşağıdaki teklif kullanılamıyor ve gelecekteki fiyat listelerinden kaldırılacak:
 
-Teklif: Microsoft 365 telefon sistemi-Sanal Kullanıcı deneme teklif KIMLIĞI:  `b9a1d576-43fd-464b-8ad9-4b1eafc5db77`
+teklif: Microsoft 365 Telefon Sistemi-sanal kullanıcı deneme teklif kimliği:`b9a1d576-43fd-464b-8ad9-4b1eafc5db77`
 
 Bu teklifler, teklif listesi matrisinde kullanılabilir ancak mevcut değildir. Teklif matrisi ayrıntıları için Ocak 2020 ' den önceki teklif listesi matrisine başvurun.
 
-Teklif: Dynamics 365 Birleşik Işlem teklifi KIMLIĞI için Pro Direct desteği: `09dc6202-bfbb-44fb-9c87-b12c90084010`
+teklif: Dynamics 365 birleşik işlem teklifi kimliği için doğrudan destek Pro:`09dc6202-bfbb-44fb-9c87-b12c90084010`
 
-Teklif: Dynamics 365 Birleşik Işlemleri için profesyonel doğrudan destek teklif KIMLIĞI: `c3b23a21-76e2-46e7-ae4f-60e1bdb96bea`
+teklif: fakülteler için Dynamics 365 birleşik işlem teklif kimliği için doğrudan destek Pro:`c3b23a21-76e2-46e7-ae4f-60e1bdb96bea`
 
-Teklif: öğrenciler için Dynamics 365 Birleşik Işlemleri için doğrudan destek teklif KIMLIĞI: `1835808d-06a2-42c5-9f09-82c2e7ed5c72`
+teklif: öğrencilerle ilgili olarak Dynamics 365 birleşik işlemleri için Pro doğrudan destek teklif kimliği:`1835808d-06a2-42c5-9f09-82c2e7ed5c72`
 
 Bu teklifler fiyat listesinde yoktu, ancak olmalıdır. Bu teklif için fiyatlar değişmediğinden, 19 Aralık fiyat listesine başvurun.
 
-Teklif: Microsoft 365 a1 teklif KIMLIĞI: `778a4dce-0014-4d53-8647-314ef2b091d2`
+teklif: Microsoft 365 A1 teklif kimliği:`778a4dce-0014-4d53-8647-314ef2b091d2`
 
 Teklif: Dynamics 365 uzaktan yardım Iliştirme deneme teklif KIMLIĞI: `7ce81df9-f10c-49a3-843d-e9de6fdc779f`
 
@@ -159,162 +159,162 @@ _________________
 - Tarih: 2020-02-12
 - Tür: yetenekler
 - Durum: şimdi kullanılabilir
-- [Daha fazla bilgi](https://partner.microsoft.com/resources/collection/partner-security-requirements#/)
+- [Daha fazla bilgi edinin](https://partner.microsoft.com/resources/collection/partner-security-requirements#/)
 
 ### <a name="target-audiences"></a>Hedef kitleler
 
 - CSP programındaki tüm iş ortakları
 - Danışmanlar
-- Denetim Masası satıcıları
+- Denetim masası satıcıları
 
 ### <a name="summary"></a>Özet:
 
-Bu önemli güncelleştirme, [zorunlu iş ortağı güvenlik gereksinimleriyle](https://blogs.partner.microsoft.com/mpn/safeguard-business-security-best-practices/)ilgili olarak. **29 şubat 2020** , Azure Active Directory (Azure AD) ["temel" ilkeleri kaldırılacak ve bu ilkeler](/azure/active-directory/fundamentals/whats-new#replacement-of-baseline-policies-with-security-defaults) , siz ve müşterileriniz için daha kapsamlı bir koruma ilkeleri kümesi olan "güvenlik Varsayılanları" ile değiştirilmelidir. Azure AD 'deki güvenlik Varsayılanları, kuruluşunuzun yaygın saldırılar için önceden yapılandırılmış güvenlik ayarlarıyla korunmasına yardımcı olabilir.
+Zorunlu iş ortağı güvenlik [gereksinimleriyle ilgili bu önemli güncelleştirme.](https://blogs.partner.microsoft.com/mpn/safeguard-business-security-best-practices/) **29 Şubat 2020'den** itibaren geçerli olmak Azure Active Directory (Azure AD) ["temel"](/azure/active-directory/fundamentals/whats-new#replacement-of-baseline-policies-with-security-defaults) ilkeleri kaldırılacak ve sizin ve müşterileriniz için daha kapsamlı bir koruma ilkeleri kümesi olan "güvenlik varsayılanları" ile değiştiriliyor. Azure AD'de güvenlik varsayılanları, yaygın saldırılar için önceden yapılandırılmış güvenlik ayarlarıyla, kurumlarınızı korumaya yardımcı olabilir.
 
-Sistemimiz, kuruluşunuzun Şu anda temel ilkeleri kullandığını ancak henüz güvenlik varsayılanlarına geçirilmediğini gösterir. **29 Şubat 'tan önce güvenlik varsayılanlarına geçiş yapmazsanız, iş ortağı kiracılarınız üzerinde ana hat ilkeleriyle Multi-Factor Authentication (MFA) seçeneğini kaybedersiniz. Tüm iş kesintilerini önlemek için, güvenlik varsayılanlarını mümkün olan en kısa sürede etkinleştirin** .
+Sistemimiz, şu anda kuruluşta temel ilkelerin kullandığını ancak henüz güvenlik varsayılanlarına geçiş olmadığını gösteriyor. 29 Şubat'tan önce güvenlik varsayılanlarına geçeseniz, iş ortağı kiracılar üzerinde temel ilkelerle etkinleştirilen çok faktörlü kimlik **doğrulamasını (MFA) kaybedersiniz. İş kesintilerini önlemek için güvenlik varsayılanlarını mümkün olan en kısa sürede etkinleştirin.**
 
 ### <a name="key-considerations"></a>Dikkat edilmesi gereken temel konular
 
-Güvenlik Varsayılanları ilkesi, iş gereksinimlerine bağlı olarak iş ortaklarının MFA 'yı güvenlik gereksinimlerine göre uygulamak için seçim yapabileceğiniz [seçeneklerden](../partner-security-requirements.md#implementing-multi-factor-authentication) biridir. Ek bir ücret ödemeden temel düzeyde güvenlik özelliği sunar. [Azure AD ile kuruluşunuz IÇIN MFA 'yı etkinleştirme](/azure/active-directory/fundamentals/concept-fundamentals-mfa-get-started) ve aşağıdaki önemli noktalar hakkında gözden geçirin:
+Güvenlik varsayılanları ilkesi, iş [ortaklarının](../partner-security-requirements.md#implementing-multi-factor-authentication) iş gereksinimlerine bağlı olarak güvenlik gereksinimleri için MFA'nın uygulanmasına karar vekil seçeneklerden birisidir. Ek ücret ödemeden etkinleştirilebilir temel bir güvenlik düzeyi sunar. [Azure AD ile MFA'nın nasıl etkinleştirildi ve](/azure/active-directory/fundamentals/concept-fundamentals-mfa-get-started) aşağıdaki önemli noktalara göz atın:
 
-- [Koşullu erişim](/azure/active-directory/conditional-access/concept-conditional-access-policy-common)kullanan iş ortakları için güvenlik Varsayılanları kullanılabilir olmayacaktır.
-- Güvenlik Varsayılanları, Yöneticiler için gerekli MFA ilkesi, son kullanıcı koruma ilkesi ve hizmet yönetimi için gerekli MFA dahil olmak üzere tüm ilkeleri bir kez uygular.
-- Şu anda iş ortakları için eski kimlik doğrulamasını engelleme zorlanmayacak. Ancak, güvenliği aşılmış kimlikler ile ilgili olayların çoğu eski kimlik doğrulamasını kullanan oturum açma girişimlerinden karşılaştığından, iş ortaklarının bu eski protokollerden taşınması önerilir.
-- Güvenlik Varsayılanları Azure AD Connect eşitleme hesabını otomatik olarak dışlar.
-- Güvenlik Varsayılanları, Önizleme [temeli ilkelerinin](/azure/active-directory/conditional-access/concept-baseline-protection)genel kullanıma sunulduğuna yönelik olarak değişiklik yapar. Bir iş ortağı güvenlik varsayılanlarını etkinleştirdikten sonra, artık temel ilkeleri etkinleştiremeyecektir.
+- Koşullu erişim kullanan iş [ortakları için](/azure/active-directory/conditional-access/concept-conditional-access-policy-common)güvenlik varsayılanları kullanılamaz.
+- Güvenlik varsayılanları, yöneticiler için gerekli MFA ilkesi, son kullanıcı koruma ilkesi ve hizmet yönetimi için gerekli MFA dahil olmak üzere tüm ilkeleri aynı anda zorlar.
+- Eski kimlik doğrulamasını engelleme işlemi şu anda iş ortakları için uygulanmaz. Ancak, güvenliği tehlikeye atılmış kimliklerle ilgili olayların çoğu eski kimlik doğrulaması kullanan oturum açma girişimlerinden geldikçe, iş ortaklarının bu eski protokollerden uzaklaşmaları teşvik edilecektir.
+- Güvenlik varsayılanları, Azure AD Bağlan Eşitleme hesabını otomatik olarak dışlar.
+- Güvenlik varsayılanları, önizleme temeli ilkelerinin genel kullanılabilirlik [değiştirmesidir.](/azure/active-directory/conditional-access/concept-baseline-protection) İş ortağı güvenlik varsayılanlarını etkinleştirildiğinde, artık temel ilkeleri etkinleştiremeyecektir.
 
 ### <a name="next-steps-and-resources-for-security-defaults"></a>Güvenlik varsayılanları için sonraki adımlar ve kaynaklar
 
-Şu anda ana hat ilkelerini kullanan iş ortakları:
+Şu anda temel ilkeleri kullanan iş ortakları:
 
-- [Güvenlik Varsayılanları](/azure/active-directory/fundamentals/concept-fundamentals-security-defaults#enabling-security-defaults) hakkında daha fazla bilgi edinin ve [Kuruluşunuz için MFA 'yı etkinleştirme](/azure/active-directory/fundamentals/concept-fundamentals-mfa-get-started).
-- Temel ilkelerin güvenlik ayarlarına geçişini planlayın.
-- [Güvenlik varsayılanlarını,](/azure/active-directory/fundamentals/concept-fundamentals-security-defaults#enabling-security-defaults) her iş ortağı kiracısı için mümkün olan en kısa sürede tek tıklamayla etkinleştirin. Güvenlik Varsayılanları ihtiyaçlarınızı karşılamıyorsa, diğer seçenekleri göz önünde bulundurun.
+- Güvenlik varsayılanları [ve MFA'nın](/azure/active-directory/fundamentals/concept-fundamentals-security-defaults#enabling-security-defaults) [kuruluş için etkinleştirilmesi hakkında daha fazla bilgi.](/azure/active-directory/fundamentals/concept-fundamentals-mfa-get-started)
+- Temel ilkelerden güvenlik varsayılanlarına geçişi planlama.
+- [Her iş ortağı kiracısı için mümkün olan en kısa](/azure/active-directory/fundamentals/concept-fundamentals-security-defaults#enabling-security-defaults) sürede tek tıklamayla güvenlik varsayılanlarını etkinleştirin. Güvenlik varsayılanları, İhtiyaçlarınızı karşılayamasa diğer seçenekleri göz önünde bulundurabilirsiniz.
 
 Dolaylı sağlayıcılar:
 
-- Microsoft CSP programındaki satıcılarınızı değişiklik hakkında bilgilendirin ([Bu e-posta şablonunu kullanın](https://assetsprod.microsoft.com/security-defaults-indirect-reseller-template.docx)). Şu anda temel ilkeleri kullanıyorsa, satıcılarınızın güvenlik varsayılanlarını etkinleştirdiğinden emin olun.
+- Microsoft CSP programında kurumsal bayilerinizi değişiklik hakkında bilgilendirin[(bu e-posta şablonunu kullanın).](https://assetsprod.microsoft.com/security-defaults-indirect-reseller-template.docx) Kurumsal bayinizin şu anda temel ilkeleri kullanıyorsa güvenlik varsayılanlarını etkinleştirildiğinden emin olun.
 
 >[!Note] 
->Microsoft ayrıca, ana hat ilkelerini kullanan ve Iş Ortağı Merkezi iletişim bilgilerine sahip olan satıcılarınız ile doğrudan iletişim kurar.
+>Microsoft ayrıca şu anda temel ilkeleri kullanan ve ilgili kişi bilgilerine sahip olan kurumsal İş Ortağı Merkezi iletişim kurar.
 
-İş ortağı güvenlik gereksinimleriyle ilgili sorularınız varsa, [burada](https://aka.ms/security-requirements)ek kaynaklara göz atın.
+İş ortağı güvenlik gereksinimleriyle ilgili sorularınız varsa buradaki ek kaynaklara [göz atın.](https://aka.ms/security-requirements)
 
-İş ortaklığımızı ve ekosistemimizin güven üzerinde çalışmasını sağlamaya yönelik taahhütimize saygımız veriyoruz.
+İş ortaklığınızı ve ekosistemimizin güven üzerinde çalışır olmasını sağlamaya yönelik taahhüdlerinizi saygıyla aniyoruz.
 
 ### <a name="change-log"></a>Değişiklik Günlüğü
 
-- 8 Ocak 2020: özgün duyuru yayımlandı
-- 12 Şubat 2020: anımsatıcı duyurusu yayımlandı
+- 8 Ocak 2020: Özgün duyuru yayımlandı
+- 12 Şubat 2020: Anımsatıcı duyurusu yayımlandı
 
 _________________
 
-## <a name="audio-conferencing-offers-introduced-to-multinational-customers-with-users-in-india-on-february-1-2020"></a><a id="5"/></a>1 Şubat 2020 ' de Hindistan 'da kullananlar için çok uluslu müşterilere sunulan sesli konferans teklifleri
+## <a name="audio-conferencing-offers-introduced-to-multinational-customers-with-users-in-india-on-february-1-2020"></a><a id="5"/></a>Hindistan'da kullanıcıları olan çok uluslu müşterilere 1 Şubat 2020'de tanıtılan Sesli Konferans teklifleri
 
 ### <a name="categories"></a>Kategoriler
 
 - Tarih: 2020-02-05
-- Tür: teklifler/pazarlar
-- Durum: şimdi kullanılabilir
-- [Daha fazla bilgi](https://partner.microsoft.com/resources/collection/audio-conf-india-users-overview#/)
+- Tür: Teklifler/Pazarlar
+- Durum: Artık Kullanılabilir
+- [Daha fazla bilgi edinin](https://partner.microsoft.com/resources/collection/audio-conf-india-users-overview#/)
 
 ### <a name="summary"></a>Özet:
 
-Microsoft, Hindistan 'daki kullanıcıları 1 Şubat 2020 ' de kullananlar için çok uluslu müşterilere sunulan sesli konferans tekliflerini sunmaktadır. NET yeni ve yenileme müşterileri için teklifleri kullanabilirsiniz.
+Microsoft, Hindistan'da kullanıcıları olan çok uluslu müşterilere 1 Şubat 2020'de Sesli Konferans teklifleri sunmaktadır. Teklifleri yeni ve yeni müşteriler için kullanabilirsiniz.
 
-### <a name="impacted-audience"></a>Etkilenen hedef kitle:
+### <a name="impacted-audience"></a>Etkilene Hedef Kitle:
 
- , Hindistan 'da kullanıcıları olabilecek, ses konferansı kullanan müşterilerle bulut çözümü sağlayıcısı (CSP) iş ortakları.
+ Bulut Çözümü Sağlayıcısı (CSP) iş ortaklarının Hindistan'da kullanıcıları olan Sesli Konferans'ı kullanmalarını sağlar.
 
 ### <a name="details"></a>Ayrıntılar
- Microsoft, Hindistan 'ı temel alarak kullanıcılarına çok uluslu şirketler için yeni bir Kullanıcı ses konferansı teklifi sunmuştur.
+ Microsoft, Hindistan'da kullanıcıları olan çok uluslu şirketlere yeni bir kullanıcı Sesli Konferans teklifi sunmıştı.
 
-### <a name="who-needs-to-purchase-the-new-offer"></a>Yeni teklifi satın alması gereken
+### <a name="who-needs-to-purchase-the-new-offer"></a>Who teklifi satın almak için gerekenler
 
-Bu teklifi yalnızca, Hindistan 'ın dışında bulunan müşterilerimiz Hindistan 'da fiziksel olarak bulunan kullanıcılara abonelikler atadıysanız satın almalısınız. Bu durumda, kullanıcıların Hindistan 'da fiziksel olarak bulunduğu kadar çok sayıda eklenti teklifi satın almanız gerekir.
+Bu teklifi yalnızca Hindistan dışında bulunan müşterileriniz, Fiziksel olarak Hindistan'da bulunan kullanıcılara abonelik atadı ise satın alasınız. Bu durumda, Fiziksel olarak Hindistan'da bulunan kullanıcılar olduğu kadar çok eklenti teklifi satın alasiniz.
 
-Müşterinizin yasal tüzel kişiliği Hindistan 'a dayanıyorsa teklifi satın almanız gerekmez. En iyi ilerlemeniz için yerel Microsoft hesabı ekibine danışın.
+Müşterinizin yasal varlığı Hindistan'da bulunuyorsa teklifi satın almamanız gerekir. Devam etmek için yerel Microsoft hesabı ekibine sorun.
 
-### <a name="when-to-purchase"></a>Ne zaman satın alınalım
+### <a name="when-to-purchase"></a>Satın alma zamanları
 
-Geçerli kullanıcılar USD4 teklifini yenilemeye kadar tutabilir. Hindistan 'daki kullanıcılarla net yeni ve çok uluslu müşterilerin yenilenmesi, yeni teklifin öne çıkabilmesi gerekir.
+Geçerli kullanıcılar yenilemeye kadar USD4 teklifini tutabilirsiniz. Hindistan'daki kullanıcılarla yeni ve çok uluslu müşterileri yenilemek için yeni teklifin daha sonra tekliflenmesi gerekir.
 
 ### <a name="new-offers"></a>Yeni teklifler
 
-Teklif listesi 0aa62437-b86a-48bd-ae51-85c8dcec5e6d ' ye başvurun.
+0aa62437-b86a-48bd-ae51-85c8dcec5e6d teklif listesine bakın.
 
 ### <a name="next-steps"></a>Sonraki adımlar
 
-Fiyat listesi hakkında bilgi edinin. Ayrıca, bu bilgileri kuruluşunuzdaki ilgili tüm kişilerle, özellikle de satış takımınızla paylaşabilirsiniz.
+Fiyat listesini tanıma. Ayrıca bu bilgileri, başta satış takımınız olmak üzere, kuruluşta tüm ilgili kişilerle paylaşın.
 
-**UL?**
+**Soru?**
 
-Bu tekliflerle ilgili sorularınız varsa ilgili Yammer iş ortağı grubunuzu kontrol edin.
+Bu teklifler hakkında sorularınız varsa ilgili iş ortağı grubu Yammer kontrol edin.
 
 _________________
 
-## <a name="new-price-sheet-and-foreign-exchange-rate-apis-available-for-azure-plan-pricing"></a><a id="4"/></a>Yeni fiyat listesi ve yabancı değişim oranı API 'Leri Azure plan fiyatlandırması için kullanılabilir
+## <a name="new-price-sheet-and-foreign-exchange-rate-apis-available-for-azure-plan-pricing"></a><a id="4"/></a>Azure planı fiyatlandırması için yeni fiyat listesi ve döviz kuru API'leri kullanılabilir
 
 ### <a name="categories"></a>Kategoriler
 
 - Tarih: 2020-02-04
-- Tür: yetenekler
-- Durum: şimdi kullanılabilir
-- [Daha fazla bilgi](https://partner.microsoft.com/resources/collection/new-commerce-experience-api-documentation#)
+- Tür: Özellikler
+- Durum: Artık Kullanılabilir
+- [Daha fazla bilgi edinin](https://partner.microsoft.com/resources/collection/new-commerce-experience-api-documentation#)
 
-### <a name="impacted-audience"></a>Etkilenen hedef kitle:
+### <a name="impacted-audience"></a>Etkilene Hedef Kitle:
 
-CSP programındaki doğrudan fatura ve dolaylı sağlayıcılar, Azure planı kullanım ölçümlerini ve ayırmalarını deneyimidir ve yeniden satmakta ve iş ortağı merkezi API 'Lerini Microsoft Iş Ortağı Merkezi ile tümleştirmede kullanıyor.
+CSP programında Azure planı tüketim sayaçlarını ve rezervasyonlarını işlemden geçen ve yeniden satın alan doğrudan fatura ve dolaylı sağlayıcılar, Microsoft İş Ortağı Merkezi tümleştirmesinde iş ortağı merkezi API'lerini kullanır.
 
 ### <a name="summary"></a>Özet:
 
-[CSP 'de Azure için yeni ticari deneyim](https://blogs.partner.microsoft.com/mpn/grow-your-business-with-the-new-commerce-experience-for-azure-in-the-csp-program/) sayesinde daha fazla müşteri edinebilir ve kolaylaştırılmış satın alma ve satış deneyimleri sayesinde daha yüksek karlılık elde edebilirsiniz.
+CSP'de Azure [için yeni ticaret deneyimi,](https://blogs.partner.microsoft.com/mpn/grow-your-business-with-the-new-commerce-experience-for-azure-in-the-csp-program/) daha fazla müşteri elde etmeye ve kolay satın alma ve satış deneyimleri ile daha yüksek kârlılığı elde etmeye yardımcı olabilir.
 
- Yeni deneyimin bir parçası olarak, Microsoft tarafından desteklenen faturalandırma para birimleri için tüketim ve rezervasyonlar ve **yabancı Exchange ücretleri dizinleri** **için Azure plan fiyatlandırmasını** programlı bir şekilde alan [Yeni fiyatlandırma API 'lerinin](/partner/develop/pricing) kullanılabilirliğini duyurmak için heyecanlıyız. Yeni fiyatlandırma API 'SI ile, iş ortakları fiyatlandırma bilgilerini alma işlemini otomatikleştirebilir ve basitleştirebilir.
+ Yeni deneyimin bir parçası olarak, Microsoft tarafından [](/partner/develop/pricing) desteklenen faturalama para birimleri için tüketim ve rezervasyonlar  ve döviz kurları dizinleri için **Azure planı** fiyatlandırmasını program aracılığıyla alan yeni fiyatlandırma API'lerinin kullanılabilirliğini duyurmak için heyecanla duyurulmaktadır. Yeni fiyatlandırma API'si ile iş ortakları fiyatlandırma bilgilerini alma sürecini otomatikleştirebilir ve basitleştirebilir.
 
-### <a name="the-new-pricing-apis-provide-the-following-capabilities"></a>Yeni fiyatlandırma API 'Leri aşağıdaki özellikleri sağlar:
+### <a name="the-new-pricing-apis-provide-the-following-capabilities"></a>Yeni fiyatlandırma API'leri aşağıdaki özellikleri sağlar:
 
-- İş ortaklarının Azure hizmetleri ve değişim oranı verileri için program aracılığıyla fiyatlandırma almasına olanak sağlar
-- Azure planına uygulandığında iş ortaklarının Azure kaynakları ve ayırmaları için ABD Doları cinsinden ölçüm fiyatları dahil fiyatlandırma bilgilerini almasını sağlar
-- İş ortaklarının, desteklenen faturalandırma para birimleri için yeni deneyim altında aylık Döviz kurlarını almasına olanak sağlar (Azure planı)
-- Geçerli ay veya önceki aylar için fiyatlandırma ya da yabancı döviz kurlarını alma olanağı sunar
+- İş ortaklarının Azure hizmetleri ve döviz kuru verileri için fiyatlandırmayı program aracılığıyla almalarına olanak sağlar
+- İş ortaklarının Azure planına uygulandığında Azure kaynakları ve rezervasyonlar için ABD doları olarak ölçüm fiyatlandırması dahil olmak üzere fiyatlandırma bilgilerini almalarına yardımcı olur
+- İş ortaklarının yeni deneyim kapsamında desteklenen faturalama para birimleri için aylık döviz kurlarını almalarına olanak sağlar (Azure planı)
+- Geçerli aya veya önceki aya yönelik fiyatlandırma veya döviz kurlarını alma olanağı sunar
 
 >[!Note] 
->Bu, Azure plan fiyatlandırmasına özgü bir net-yeni API kaynağıdır.
-- Mevcut bir [ratecard API 'si](/partner-center/develop/get-prices-for-microsoft-azure) yine de Azure planının parçası olan önceki Azure aboneliklerine dağıtılan mevcut Azure kaynakları veya rezervasyonlar için kullanılmalıdır.
-- Bu API 'Ler, Iş Ortağı Merkezi API 'Lerine farklı bir uç noktası (API 'YI barındıran etki alanı) üzerinde bulunur.
+>Bu, Azure planı fiyatlandırmaya özgü net yeni bir API kaynağıdır.
+- Mevcut [RateCard API'si,](/partner-center/develop/get-prices-for-microsoft-azure) Azure planının parçası değil, önceki Azure aboneliklere dağıtılmış mevcut Azure kaynakları veya rezervasyonlar için yine de kullanılmalıdır.
+- Bu API'ler api'lere farklı bir uç noktasında (API'yi barındıran bir etki İş Ortağı Merkezi sahiptir.
 
-### <a name="partner-next-steps-and-resources"></a>İş ortağı sonraki adımlar ve kaynaklar:
+### <a name="partner-next-steps-and-resources"></a>İş ortağının sonraki adımları ve kaynakları:
 
-- [Geliştirici belgelerini](https://partner.microsoft.com/resources/collection/new-commerce-experience-api-documentation#/) gözden geçirin
-- [Yeni API 'yi](/partner/develop/pricing) kullanarak otomatikleştirilmiş işlem Uygula
-- Fiyatlandırma ile ilgili sorular için [Azure planı fiyatlandırma belgelerine](../azure-plan-price-list.md) bakın.
-- [CSP 'de Azure planı ve yeni ticaret deneyimi hakkında daha fazla bilgi edinin](https://partner.microsoft.com/resources/collection/new-azure-experience-in-csp#/)
+- Geliştirici belgelerini [gözden geçirme](https://partner.microsoft.com/resources/collection/new-commerce-experience-api-documentation#/)
+- Yeni API'yi kullanarak [otomatik işlem uygulama](/partner/develop/pricing)
+- Fiyatlandırmayla ilgili [sorular için Azure planı](../azure-plan-price-list.md) fiyatlandırma belgelerine bakın.
+- [CSP'de Azure planı ve yeni ticaret deneyimi hakkında daha fazla bilgi edinin](https://partner.microsoft.com/resources/collection/new-azure-experience-in-csp#/)
 
 ### <a name="change-log"></a>Değişiklik Günlüğü
 
-- 4 Şubat 2020: özgün duyuru yayımlandı
+- 4 Şubat 2020: Özgün duyuru yayımlandı
 
 _________________
 
-## <a name="changes-to-partner-center-support-experience"></a><a id="3"/></a>İş Ortağı Merkezi Destek deneyiminde yapılan değişiklikler
+## <a name="changes-to-partner-center-support-experience"></a><a id="3"/></a>İş ortağı merkezi destek deneyiminde yapılan değişiklikler
 
 ### <a name="categories"></a>Kategoriler
 
 - Tarih: 2020-02-04
-- Tür: yetenekler
-- Durum: şimdi kullanılabilir
+- Tür: Özellikler
+- Durum: Artık Kullanılabilir
 
-### <a name="impacted-audience"></a>Etkilenen hedef kitle:
+### <a name="impacted-audience"></a>Etkilene Hedef Kitle:
 
-- Iş Ortağı Merkezi 'nde destek istekleri oluşturan tüm kullanıcılar.
+- Uygulama içinde destek istekleri oluşturan tüm İş Ortağı Merkezi.
 
 ### <a name="summary"></a>Özet:
 
-İş Ortağı Merkezi, tüm Iş Ortağı Merkezi programları için destek isteği akışını kolaylaştırarak.
+İş Ortağı Merkezi tüm iş programları için destek isteği akışını İş Ortağı Merkezi sağlar.
 
 ### <a name="details"></a>Ayrıntılar
- Ortağın sorununu en iyi şekilde açıklayan destek konusunun belirlenmesi, Iş Ortağı Merkezi 'nin sorun için gereken tüm bilgileri toplamasını ve bunu doğru destek mühendislerine daha hızlı bir şekilde almasını sağlar. İş ortaklarının hizmet isteklerini günlüğe kaydetmek için en iyi yeri nasıl bulabileceğinizi basitleştirmek için değişiklikler yapıyoruz:
+ İş ortağının sorununa en iyi şekilde açıklayan bir destek konusu seçmek, İş Ortağı Merkezi için gerekli tüm bilgileri toplamayı ve doğru destek mühendislerine daha hızlı şekilde toplamayı sağlar. İş ortaklarının hizmet isteklerini günlüğe kaydetmek için en iyi yeri nasıl bulabileceğinizi basitleştirmek için değişiklikler yapıyoruz:
 
 - Hızlı arama, sorunu en iyi şekilde açıklayan konuyu bulmayı kolaylaştırır.
 - Kullanıcılar, kullanılabilir destek konularında gezinmek için "filtreleri göster" i de alabilir.
@@ -339,7 +339,7 @@ _________________
 - Tarih: 2020-02-04
 - Tür: yetenekler
 - Durum: şimdi kullanılabilir
-- [Daha fazla bilgi](https://www.microsoft.com/licensing/docs/customeragreement)
+- [Daha fazla bilgi edinin](https://www.microsoft.com/licensing/docs/customeragreement)
 
 ### <a name="impacted-audience"></a>Etkilenen hedef kitle:
 
@@ -347,9 +347,9 @@ _________________
 
 ### <a name="summary"></a>Özet:
 
-Bulut çözümü sağlayıcısı (CSP) programındaki yeni [Microsoft Müşteri Sözleşmesi](https://www.microsoft.com/licensing/docs/customeragreement) , 2019 Ekim ' de geçerli hale geldi ve mevcut Microsoft bulut sözleşmesinin yerini alarak kullanılabilir. Yeni ve Basitleştirilmiş müşteri anlaşması, müşterilerin satın almayı seçme yönteminden bağımsız olarak müşteriler için tutarlı satın alma koşulları sağlar.
+Bulut Çözümü Sağlayıcısı (CSP) programınızdaki yeni [Microsoft müşteri sözleşmesi](https://www.microsoft.com/licensing/docs/customeragreement) , mevcut Microsoft Bulut sözleşmesinin yerini alarak 2019 ekim 'e uygun hale geldi. Yeni ve Basitleştirilmiş müşteri anlaşması, müşterilerin satın almayı seçme yönteminden bağımsız olarak müşteriler için tutarlı satın alma koşulları sağlar.
 
-**1 şubat 2020 ' den itibaren, Microsoft genel bulutu 'nın altındakı CSP teklifleri için müşterinin Microsoft Müşteri Sözleşmesi 'nin kabul edildiğini doğrulamak üzere CSP 'de doğrudan fatura ve dolaylı sağlayıcılar gereklidir** . Müşterilerin yeni sözleşme için kabul edildiğini onaylamadan, iş ortakları bu tarihten itibaren mevcut satınalmaların bilgisayar sayısını ve yenilenmesini (otomatik yenileme etkilenmeyecektir) dahil olmak üzere müşteri için yeni bir satın alma yapamayacak.
+**1 şubat 2020 ' den itibaren, Microsoft genel bulutu 'nın altındakı CSP teklifleri için müşterinin Microsoft Müşteri Sözleşmesi 'nin kabul edildiğini doğrulamak üzere CSP 'de doğrudan fatura ve dolaylı sağlayıcılar gereklidir**. Müşterilerin yeni sözleşme için kabul edildiğini onaylamadan, iş ortakları bu tarihten itibaren mevcut satınalmaların bilgisayar sayısını ve yenilenmesini (otomatik yenileme etkilenmeyecektir) dahil olmak üzere müşteri için yeni bir satın alma yapamayacak.
 
 İş ortakları, mevcut Microsoft Bulut anlaşmasıyla aynı şekilde müşterilere yeni anlaşmayı sunabilir. Bir müşteri anlaşmayı gözden geçirdikten ve kabul ettikten sonra, iş ortakları müşterinin Iş Ortağı Merkezi 'nin kabulünü onaylamasını sağlamalıdır. Iş Ortağı Merkezi Web Kullanıcı arabirimi, API ve .NET SDK, yeni sözleşmeyi destekleyecek şekilde güncelleştirilmiştir.
 
@@ -362,7 +362,7 @@ Daha fazla bilgi için, [Bu sayfada](https://partner.microsoft.com/resources/col
 - Aracılarınızı ve bayilerinizi [yeni sözleşme koşulları](https://www.microsoft.com/licensing/docs/customeragreement) konusunda eğitin; yeni sözleşmeyi sunun ve müşteri kabulünü doğrulayın.
 
 >[!NOTE] 
->Microsoft Müşteri sözleşmesinin müşteri kabul edilmesi, Ayrıca, Kasım 2019 ' de yayınlanan [Azure IÇIN CSP 'deki yeni ticari deneyim](https://partner.microsoft.com/resources/collection/new-azure-experience-in-csp#/) aracılığıyla satın alma için de gereklidir. Q1 CY2020 'de, CSP 'deki iş ortakları, iş ortaklarının müşterileri kimlik doğrulamalı bir Microsoft portalına (Microsoft 365 Yönetim Merkezi) davet etmesini ve müşterilerin Microsoft Müşteri anlaşmasını doğrudan görüntülemesini ve imzalamasını sağlamak üzere Iş Ortağı Merkezi 'nde ek seçeneği de başlatacak.
+>Microsoft Müşteri sözleşmesinin müşteri kabul edilmesi, Ayrıca, Kasım 2019 ' de yayınlanan [Azure IÇIN CSP 'deki yeni ticari deneyim](https://partner.microsoft.com/resources/collection/new-azure-experience-in-csp#/) aracılığıyla satın alma için de gereklidir. s1 CY2020 'de, CSP 'deki iş ortakları, iş ortaklarının müşterileri kimlik doğrulamalı bir Microsoft portalına (Microsoft 365 Yönetici Center) davet etmesini ve müşterilerin Microsoft müşteri anlaşmasını doğrudan görüntülemesini ve imzalamasını sağlamak üzere iş ortağı merkezi 'nde ek seçeneği de başlatacak.
 
 ### <a name="change-log"></a>Değişiklik günlüğü:
 
@@ -385,7 +385,7 @@ Microsoft, 1 Şubat 2020 ' de ek Dynamics 365 ürünleri yayımlamıştır.
 
 ### <a name="impacted-audience"></a>Etkilenen hedef kitle:
 
-- Dynamics 365 'i bulut çözümü sağlayıcısı (CSP) programı aracılığıyla (farklı bir şekilde önerilmediği durumlar) sunan iş ortakları
+- dünya çapında Bulut Çözümü Sağlayıcısı (CSP) programı aracılığıyla Dynamics 365 teklif eden iş ortakları (farklı şekilde önermedikleri takdirde)
 
 ### <a name="details"></a>Ayrıntılar
 
@@ -410,7 +410,7 @@ Eticaret adı değişikliği
 
 - Dynamics 365 perakende teklifi Dynamics 365 ticareti olarak değiştirilmiştir.
 
-Lisans güncelleştirmesi Customer Insights. Aşağıdaki SKU 'Lar, lisans türünün AddOn iken şu olmayan şekilde değiştirildiğini:
+lisans güncelleştirmesi Customer Insights. Aşağıdaki SKU 'Lar, lisans türünün AddOn iken şu olmayan şekilde değiştirildiğini:
 
 - Dyn365ECstmrInsights ShrdSvr ALNG alt SVL MVL
 - Dyn365ECstmrInsightsEDU ShrdSvr ALNG alt SVL MVL
@@ -428,7 +428,7 @@ Microsoft, 1 Şubat 2020 ' de bazı ürün aileleri ve tekliflerinin adlarını,
 - [Dynamics 365 giriş sayfası](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)
 - [Karma Gerçeklik uygulamalar Kılavuzu giriş sayfası](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)
 - [Biz uygulama dolandırıcılığı ana sayfası](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)
-- [FY20 PowerApps ve Flow lisanslama güncelleştirmeleri](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)
+- [FY20 powerapps ve Flow lisanslama güncelleştirmeleri](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)
 - [Microsoft Dynamics 365 lisansı](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)
 
 ### <a name="next-steps"></a>Sonraki adımlar

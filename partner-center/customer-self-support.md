@@ -3,34 +3,34 @@ title: Müşteri kendi kendine desteği
 ms.topic: article
 ms.date: 05/05/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
-description: Müşterilerin kendi hesaplarını yönetmek için ne zaman ve nerede kendi kendine destek gerçekleştireceklerini ve bu müşterilerin kendi iş ortağıyla ne Bulut Çözümü Sağlayıcısı öğrenin.
+ms.subservice: partnercenter-support
+description: müşterilerin kendi hesaplarını yönetmek için kendi kendine destek gerçekleştirebilecekleri ve Bulut Çözümü Sağlayıcısı iş ortağıyla iletişim kurabilmesi gereken zamanı öğrenin.
 author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 89d7cf65d34911cc4098206dbc70d72cd2998e7f
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 5163952f7fa90c13001cfdb160558d0ee7462691
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110147471"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114845627"
 ---
-# <a name="customer-self-support-through-microsoft-office-365-admin-center-or-through-the-azure-portal"></a>365 yönetim merkezinden Microsoft Office müşteri kendine destek veya Azure portal
+# <a name="customer-self-support-through-microsoft-office-365-admin-center-or-through-the-azure-portal"></a>Microsoft Office 365 yönetim merkezi aracılığıyla veya Azure portal aracılığıyla müşterinin kendi kendini destekleme
 
-**Uygulama:** İş Ortağı Merkezi | İş Ortağı Merkezi için Microsoft Cloud for US Government
+**Uygulama hedefi**: Iş Ortağı Merkezi | Microsoft Cloud for US Government için iş ortağı Merkezi
 
-**Uygun roller:** Yardım masası aracısı
+**Uygun roller**: Yardım Masası Aracısı
 
-Müşteriler kendi hesaplarını yönetmek için Microsoft Office 365 yönetim merkezinde veya Azure portal oturum açın:
+müşteriler kendi hesaplarını yönetmek için kendi Microsoft Office 365 yönetici merkezinde veya Azure portal oturum açabilir:
 
-- Hizmet durumu bilgileri gibi ürün içinde iletişimleri ve bildirimleri İleti Merkezi.
+- Ileti merkezindeki hizmet durumu bilgileri gibi ürün içi iletişimleri ve bildirimleri görüntüleyin.
 
-- Tüm hizmet yapılandırmasını ve yönetici görevlerini doğrudan Microsoft'tan satın almaları gibi gerçekleştirin. Bu görevler Exchange Online, SharePoint Online, Skype Kurumsal veya satın alınan diğer hizmetleri yapılandırmayı içerir.
+- Tüm hizmet yapılandırma ve yönetici görevlerini doğrudan Microsoft 'tan satın almış gibi gerçekleştirin. bu görevler Exchange Online, SharePoint çevrimiçi, Skype Kurumsal veya satın aldıkları diğer hizmetleri yapılandırmayı içerir.
 
-Ek abonelik satın almak veya aboneliklerini iptal etmek için müşterilerin kendi iş ortağıyla Bulut Çözümü Sağlayıcısı gerekir. Müşteriler kendi aboneliklerini doğrudan Microsoft ile değiştiremez.
+ek abonelikler satın almak veya aboneliklerini iptal etmek için müşterilerin Bulut Çözümü Sağlayıcısı iş ortağıyla iletişim kurabilmesi gerekir. Müşteriler kendi aboneliklerini doğrudan Microsoft ile değiştiremezler.
 
-Müşteriler ürünlerle ilgili yardıma ihtiyaç olduğunda Destek'de ürün kaynaklarını [bulabilir.](https://partnercenter.microsoft.com/partner/support) İş ortaklarının ilk adım olarak müşterilerini bu kaynaklara işaretlerini teşvik ediyoruz.
+Müşterilerin ürünlerle ilgili yardıma ihtiyacı olduğunda, [destek](https://partnercenter.microsoft.com/partner/support)üzerinde ürün kaynaklarını bulabilirler. İş ortaklarının müşterileri bu kaynaklara ilk adım olarak işaret etmelerini öneririz.
 
  
 

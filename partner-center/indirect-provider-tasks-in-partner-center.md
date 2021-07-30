@@ -3,18 +3,18 @@ title: CSP'de dolaylı kurumsal bayilerle iş ortağı
 description: Dolaylı sağlayıcı veya dağıtımcı olarak, dolaylı kurumsal bayilerle iş ortağı olarak genişletmeyi öğrenin. Bu, bu işlemde gerçekleştirebilirsiniz İş Ortağı Merkezi.
 ms.topic: how-to
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-customers
 author: BillLinzbach
 ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
 ms.date: 03/23/2021
-ms.openlocfilehash: d72b7de4d1411b602e8a4c9ab69da5e643d3a560
-ms.sourcegitcommit: 9667763ae6eb405314dbb96bd4fa484ec964ab58
+ms.openlocfilehash: c773d21f5e19bdb9712ed7a5d62061187d83281f
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/15/2021
-ms.locfileid: "114224709"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114839779"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>Bulut Çözümü Sağlayıcısı programında dolaylı kurumsal bayilerle iş ortaklığı yapma
 

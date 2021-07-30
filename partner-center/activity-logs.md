@@ -1,48 +1,48 @@
 ---
-title: Müşteri etkinlik günlükleri ile içgörüler elde edin
+title: Müşteri etkinlik günlükleriyle içgörü elde etme
 ms.topic: how-to
 ms.date: 05/13/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
-description: Müşteri hesabı işlemleri ve müşteriyle ilgili diğer iş ortağı yönetimi etkinlikleri hakkında içgörü elde etmek için etkinlik günlüklerini görüntülemeyi ve dışarı aktarmayı öğrenin.
+ms.subservice: partnercenter-customers
+description: Müşteri hesabı işlemleri ve müşteriyle ilgili diğer iş ortağı yönetim etkinlikleri hakkında bilgi edinmek için etkinlik günlüklerini görüntülemeyi ve dışarı aktarmayı öğrenin.
 author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1bb98dd71c9e46914b90d5efbfe14404d08275f9
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: e21db0b6d054c62cec0378a3b93201dea072128f
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110150599"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114839524"
 ---
-# <a name="view-or-export-customer-activity-logs-for-more-insight-into-customer-transactions"></a>Müşteri işlemleriyle ilgili daha fazla içgörü için müşteri etkinlik günlüklerini görüntüleme veya dışarı aktarma
+# <a name="view-or-export-customer-activity-logs-for-more-insight-into-customer-transactions"></a>Müşteri işlemlerine ilişkin daha fazla bilgi için müşteri etkinlik günlüklerini görüntüleyin veya dışarı aktarın
 
-**Uygun roller:** Genel yönetici | Faturalama yöneticisi | Kullanıcı yönetimi yönetici | Yönetici aracısı | Satış aracısı | Yardım masası aracısı
+**Uygun roller**: genel yönetici | Faturalandırma Yöneticisi | Kullanıcı Yönetimi Yöneticisi | Yönetici Aracısı | Satış Aracısı | Yardım Masası Aracısı
 
-Etkinlik günlükleri, müşteriler için işlemler ve İş ortağı yönetimi eylemleri hakkında bilgi sağlar. İşlemlerin günlükleri, satın alınan abonelikler de dahil olmak üzere işlem hakkında ayrıntılı bilgi sağlar. Etkinlik günlüklerini Excel ile uyumlu virgülle ayrılmış değer dosyası biçimine (.csv) de aktarabilirsiniz.
+Etkinlik günlükleri, müşteriler için işlemler ve Iş ortağı yönetim eylemleri hakkında bilgi sağlar. İşlem günlükleri, satın alınan abonelikler dahil olmak üzere işlem hakkında ayrıntılı bilgi sağlar. ayrıca, etkinlik günlüklerini Excel uyumlu bir virgülle ayrılmış değer dosya biçimine (.csv) aktarabilirsiniz.
 
-Etkinlik günlükleri, müşteri hesapları ve ürün işlemleriyle ilgili iş ortağı eylemleri için kayıtlar sağlar. Etkinlik günlüklerini bir .csv dosyasına da aktarabilirsiniz.
+Etkinlik günlükleri, müşteri hesaplarında ve ürün işlemlerinde Iş ortağı eylemlerine ait kayıtlar sağlar. Ayrıca, etkinlik günlüklerini bir .csv dosyasına dışarı aktarabilirsiniz.
 
-## <a name="view-and-export-activity-logs"></a>Etkinlik günlüklerini görüntüleme ve dışarı aktarma
+## <a name="view-and-export-activity-logs"></a>Etkinlik günlüklerini görüntüle ve dışarı aktar
 
-1. İş Ortağı Merkezi [oturum açın.](https://partner.microsoft.com/dashboard)
+1. Iş Ortağı Merkezi [panosunda](https://partner.microsoft.com/dashboard)oturum açın.
 
-2. Hesap ayarları **menüsünde Etkinlik** **Günlüğü'yü seçin.**
+2. **Hesap ayarları** menüsünde **etkinlik günlüğü**' nü seçin.
 
-3. From and to alanlarında **etkinlik günlüğü** **dönemini** seçin. Etkinlik günlüğü dışarı aktarma varsayılan olarak en son aya göredir.
+3. **Kimden** **ve '** alanlarında etkinlik günlüğü dönemini seçin. Etkinlik günlüğü dışarı aktarma varsayılan olarak en son aya kaydedilir.
 
-   Her etkinlik günlüğü, listelenen müşterinin Abonelikler sayfasına bir **bağlantı** sağlar.
+   Her etkinlik günlüğü, listelenen müşterinin **abonelikler** sayfasına bir bağlantı sağlar.
 
-   Günlüğe kaydedilen bir eylemle ilgili ayrıntıları görüntülemek için herhangi bir etkinlik günlüğü için aşağı oku seçin. Tek bir etkinlik günlüğü, birden çok ürün sipariş etmek gibi önemli miktarda veri gösterebilir.
+   Günlüğe kaydedilen bir eylemle ilgili ayrıntıları görüntülemek için herhangi bir etkinlik günlüğü için bir aşağı ok seçin. Tek bir etkinlik günlüğü, birden fazla ürünün sıralaması gibi önemli miktarda veriyi gösterebilir.
 
-4. Günlüğün veri sütunları aşağıdakileri içerir:
-   - **Tarih-Saat**- eylemin tarihi ve saati;
-   - **Etkilenen müşteri**— müşterinin şirket adı;
+4. Günlüğün veri sütunları şunları içerir:
+   - **Tarih-saat**-eylemin tarihi ve saati;
+   - **Etkilenen müşteri**— müşterinin Şirket adı;
    - **Eylem**— "bir başvuru oluşturuldu" gibi müşteri tarafından gerçekleştirilen eylem;
    - **Iş Ortağı kullanıcısı**— faaliyetle ilişkili iş ortağı.
 
-5. Müşterinin abonelik verilerini bir. csv dosyasına kopyalamak ve bilgisayarınızdaki varsayılan indirme klasörüne indirmek için **günlüğü dışarı aktar** ' ı seçin.
+5. Müşterinin abonelik verilerini bir .csv dosyasına kopyalamak ve bilgisayarınızdaki varsayılan indirme klasörüne indirmek için **günlüğü dışarı aktar** ' ı seçin.
 
 ## <a name="next-steps"></a>Sonraki adımlar
 

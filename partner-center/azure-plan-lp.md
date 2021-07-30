@@ -3,18 +3,18 @@ title: Azure planı - Azure'a ücretsiz ödeme fiyatlarıyla satın alma
 ms.topic: article
 ms.date: 07/10/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-pricing
 description: Azure hizmetlerini müşteriler için öde fiyatlarıyla satın almak için Azure plan ticari deneyimi hakkında bilgi edinin. Yeni güvenlik gereksinimleri hakkında da bilgi edinebilirsiniz.
 author: rbars
 ms.author: rbars
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 74595843e4aaf2fe0e92fb92d417343dd7e4b81d
-ms.sourcegitcommit: 3ac88f7925bfe1df90e267ee5c1ee4d752ac92d4
+ms.openlocfilehash: c7653a885c6ae57194e3bcc519ce6fb645fc457a
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/29/2021
-ms.locfileid: "113013310"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114838385"
 ---
 # <a name="introduction-azure-plan-lets-partners-buy-azure-at-pay-as-you-go-rates-for-customers"></a>Giriş: Azure planı, iş ortaklarının müşteriler için Azure'a ücretsiz olarak satın almalarına olanak sağlar
 
@@ -31,7 +31,7 @@ CsP programı içindeki yeni ticaret deneyiminde, mevcut CSP Azure tekliflerinde
 - İş ortağı ve son müşteri, İş Ortağı Merkezi aracılığıyla kurumsal bayi ilişkisine sahip olmalı Microsoft Müşteri Sözleşmesi.
 
 >[!Note]
->1 Şubat 2020'den başlayarak, Microsoft Bulut Anlaşması csP programından kaldırılacaktır. O zaman, Microsoft 365, Dynamics 365 ve mevcut Azure dahil olmak üzere yeni Microsoft Müşteri Sözleşmesi için iş ortağı onayı (onay) gerekli olacak. CSP'de iş ortakları, iş ortaklarının müşteri için yeni bir siparişte Microsoft Müşteri Sözleşmesi. Tüm ayrıntılar için, müşteri [kabulü onaylayın makalesinde Microsoft Müşteri Sözleşmesi.](confirm-customer-agreement.md)
+>1 Şubat 2020'den başlayarak, Microsoft Bulut Anlaşması csP programından kaldırılacaktır. Bu süre içinde Microsoft 365, Dynamics 365 ve mevcut Azure dahil olmak üzere yeni Microsoft Müşteri Sözleşmesi için iş ortağı onayı (onay) gerekli olacak. CSP'de iş ortakları, iş ortaklarının müşteri için yeni bir siparişte Microsoft Müşteri Sözleşmesi. Tüm ayrıntılar için, müşteri [kabulü onaylayın makalesinde Microsoft Müşteri Sözleşmesi.](confirm-customer-agreement.md)
 
 
 ## <a name="next-steps"></a>Sonraki adımlar

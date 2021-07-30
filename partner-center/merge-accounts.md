@@ -1,19 +1,19 @@
 ---
 title: İş ortağı hesabınızı başka bir iş ortağı hesabıyla birleştirme
-description: Şirket içinde etkin Microsoft iş ortakları olan şirketler için iş ortağı İş Ortağı Merkezi başka bir iş ortağı hesabıyla birleştirmeyi İş Ortağı Merkezi.
+description: şirket içinde etkin Microsoft iş ortakları olan şirketler için iş ortağı İş Ortağı Merkezi başka bir iş ortağı hesabıyla birleştirmeyi İş Ortağı Merkezi.
 ms.topic: article
 ms.service: partner-dashboard
-ms.subservice: partnercenter-mpn
+ms.subservice: partnercenter-enroll
 author: parthpandyaMSFT
 ms.author: parthp
 ms.custom: seodec18
 ms.date: 06/12/2020
-ms.openlocfilehash: bcef4c771d748b0e2fbeae8cf1daaf41d7f53b43
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: f7019f6288b5705430ef3c4f24a1cab3dbd05957
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112276646"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114846137"
 ---
 # <a name="merge-your-partner-account-with-another-partner-account"></a>İş ortağı hesabınızı başka bir iş ortağı hesabıyla birleştirme
 
@@ -43,7 +43,7 @@ Etkin Microsoft iş ortakları olan ve şirket içinde hesapları İş Ortağı 
 
 :::image type="content" source="images/merge-accounts/account-merge.png" alt-text="Hesap birleştirme.":::
 
-## <a name="what-to-expect-if-you-have-been-invited-to-merge-your-partner-center-account-with-another-partner-center-account"></a>İş Ortağı Merkezi hesabınızla başka bir İş Ortağı Merkezi birleştirebilirsiniz
+## <a name="what-to-expect-if-you-have-been-invited-to-merge-your-partner-center-account-with-another-partner-center-account"></a>İş Ortağı Merkezi hesabınız başka bir İş Ortağı Merkezi davet edildi
 
 Hesapları birleştirme davetini kabul etmeye karar veriyorsanız: · MPN kimlikleri ve konumlarınız, sizi davet eden iş ortağı hesabının PGA'sı ile birleştirilir.
 
@@ -59,7 +59,7 @@ Hesapları birleştirme davetini kabul etmeye karar veriyorsanız: · MPN kimlik
 
 - Hesap birleştirme sırasında ve bir sonraki yenilemeye kadar her hesap kendi Eylem Paketi ve/veya uzmanlık avantajlarını korur. Yenilemede standart Eylem Paketi ve yetkinlik yenileme kuralları uygulanır.
 
-- Yenilemeden sonra, uzmanlık elde etme ve Eylem Paketi iş ortağı şirketinin iş ortağı genel hesabı için uygulanan avantajlar:
+- Yenilemeden sonra, uzmanlık elde etme ve Eylem Paketi, iş ortağı şirketinin iş ortağı genel hesabı için uygulanır:
 
   - Microsoft Eylem Paketi: İş ortağı şirket, iş ortağı genel hesabı başına Eylem Paketi hesap satın aabilecektir.
 
@@ -84,7 +84,7 @@ Hesapları birleştirme davetini kabul etmeye karar veriyorsanız: · MPN kimlik
 >[!Note]
 >Hesap birleştirme işlemini gerçekleştirmek için, şirketinizin **Hesap yöneticisi** olmak gerekir.
 
-1. **Panodan** Ayarlar'İş Ortağı Merkezi seçin. 
+1. Panodan **Ayarlar'İş Ortağı Merkezi** seçin. 
 
 2. Hesap **birleştirme'yi seçin.**
 
@@ -96,14 +96,14 @@ Hesapları birleştirme davetini kabul etmeye karar veriyorsanız: · MPN kimlik
 
 1. Contoso, Ltd. 
 
-    a. [11111111](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile) genel MPN kimliği ve [22222222](https://partner.microsoft.com/pcv/accountsettings/locationsprofile)alt konum MPN kimlikleri.
+    a. genel [mpN kimliği 1111111](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile) ve bir alt konum [MPN kimlikleri 2222222.](https://partner.microsoft.com/pcv/accountsettings/locationsprofile)
   
     b. Azure AD kiracısı = @contoso.com
  
     c. 1 Ekim 2020'de süresi dolan altın uzmanlık
 2. Fabrikam, Inc.
  
-    a.  33333333 genel MPN kimliği ve 4444444 ve 5555555'e sahip iki alt konum MPN Kimliği
+    a.  genel mpN kimliği 3333333 ve iki alt konum MPN kimliği 4444444 ve 5555555
 
     b.  Azure AD kiracısı = @fabrikam.com
 
@@ -113,7 +113,7 @@ Hesapları birleştirme davetini kabul etmeye karar veriyorsanız: · MPN kimlik
 5.  Contoso aynı sayfada birleştirmenin ayrıntılarını gözden alır ve hesap birleştirme işlemine devam etmek için onay sağlar.
 6.  Birleşmeden sonra şirket hesabı şu şekilde görüntülenir:
 
-    a.  11111111 ve 4 alt konum MPN kimliği 2222222, 3333333, 4444444 ve 555555 olan Contoso adlı bir şirket
+    a.  genel MPN kimliği 1111111 ve 2222222, 3333333, 4444444 ve 5555555 alt konum MPN kimlikleri ile Contoso adlı bir 5555555
     
     b.  Aynı hesap hesabına erişimi olan iki Azure AD kiracısı ( @contoso.com + ) İş Ortağı Merkezi @fabrikam.com olur
     

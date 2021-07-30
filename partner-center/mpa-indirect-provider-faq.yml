@@ -4,18 +4,18 @@ metadata:
   ms.topic: article
   ms.date: 02/17/2021
   ms.service: partner-dashboard
-  ms.subservice: partnercenter-csp
+  ms.subservice: partnercenter-enroll
   description: Microsoft Iş ortağı sözleşmesi cevaplarıyla ilgili önemli sorular
   author: vinayks
   ms.author: vinayks
   ms.localizationpriority: medium
   ms.custom: SEOMAY.20
-  ms.openlocfilehash: a6d0905ba604e6811e7a1eded1881a24da64bf96
-  ms.sourcegitcommit: 9667763ae6eb405314dbb96bd4fa484ec964ab58
+  ms.openlocfilehash: 1eac4c58981ee5097ab429480e33072a39b9c20c
+  ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
   ms.translationtype: MT
   ms.contentlocale: tr-TR
-  ms.lasthandoff: 07/15/2021
-  ms.locfileid: "114346710"
+  ms.lasthandoff: 07/29/2021
+  ms.locfileid: "114846052"
 title: Dolaylı sağlayıcılar dolaylı satıcıların Microsoft Iş ortağı sözleşmesi 'Ni (MPA) kabul etmesine nasıl yardımcı olabilir
 summary: "**Uygun roller**: genel yönetici | Yönetici Aracısı | Satış Aracısı\n\nAşağıdaki sorular ve yanıtlar, dolaylı satıcıların yanı sıra MPA 'nın nasıl ve neden kabul edeceğini anlamalarına yönelik olası sorunları ve çözümleri ele alın. \n\nBulut Çözümü Sağlayıcısı programdaki dolaylı sağlayıcılar, doğrudan fatura ortakları ve dolaylı satıcılar bu bilgileri faydalı bulur.\n"
 sections:
@@ -54,11 +54,11 @@ sections:
   - question: >
       Satıcım, MPA 'nın şirketi kapatan bir çalışan tarafından zaten kabul edildiğini söylüyor. Yeniden kabul etmeleri gerekiyor mu?
     answer: >
-      Hayır
+      No
   - question: >
       Satıcım yakın zamanda şirket adı değiştirdi ancak MPA 'yı kabul etti. Yeniden kabul etmeleri gerekiyor mu?
     answer: >
-      Hayır
+      No
   - question: >
       MPA 'yı kabul etmeyle ilgili satıcılarımızla iletişim kurmamız gerekiyor mu, yoksa Microsoft yalnızca MPA 'yı kabul etmek için doğrudan satıcılarla çalışacak mı?
     answer: >
