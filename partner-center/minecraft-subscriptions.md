@@ -1,34 +1,34 @@
 ---
-title: Eğitim müşterilerine Minecminft eğitim sürümü abonelikleri satma
+title: eğitim müşterilerine Minecraft eğitim sürümü abonelikleri satma
 ms.topic: article
 ms.date: 03/15/2019
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
-description: Daha sonra Microsoft eğitim mağazalarından indirebilen, nitelikli eğitim müşterilerine Minecminft eğitim sürümü abonelikleri satma.
+ms.subservice: partnercenter-pricing
+description: daha sonra Microsoft eğitim mağazasından indirebilen uygun eğitim müşterilerine Minecraft eğitim sürümü abonelikleri satma.
 author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
-ms.openlocfilehash: 06cb4d1d23d20a0d5f6f7031608a5369fdc1b89d
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 86efabf41d8a1d22b08a7e2ceae5fb47e2bd42c0
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110146400"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114843111"
 ---
-# <a name="sell-minecraft-education-edition-subscriptions-to-education-customers"></a>Eğitim müşterilerine Minecrat: eğitim sürümü abonelikleri satma
+# <a name="sell-minecraft-education-edition-subscriptions-to-education-customers"></a>eğitim müşterilerine Minecraft: Education Edition abonelikleri satma
 
 **Uygun roller**: genel yönetici | Kullanıcı Yönetimi Yöneticisi | Satış Aracısı | Yönetim Aracısı
 
-Eğitim kurumlarıyla çalışan iş ortakları, bu kullanıcılara **Minecrat: eğitim sürümü** abonelikleri sunabilir. Aboneliği Iş Ortağı Merkezi ' nde müşterinin adına satın alırsınız ve müşteri, yazılımı [eğitim için Microsoft Store](https://educationstore.microsoft.com)indirir. 
+eğitim kurumlarıyla çalışan iş ortakları, bunlara **Minecraft: Education Edition** abonelikleri sunabilir. aboneliği iş ortağı merkezi ' nde müşterinin adına satın alırsınız ve ardından müşteri [Eğitim İçin Microsoft Store](https://educationstore.microsoft.com)yazılımı indirir. 
 
 >[!IMPORTANT]
->Eğitim müşterilerine eğitim teklifleri satmak için, bulut çözümü sağlayıcısı (CSP) programına kaydolmanız ve [yetkili eğitim satıcı (AEP)](https://www.mepn.com)olmanız gerekir. Ayrıca, müşterinizin [nitelikli bir eğitim kullanıcısı](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7)olması gerekir.  
+>eğitim müşterilerine eğitim teklifleri satmak için Bulut Çözümü Sağlayıcısı (CSP) programına kaydolmanız ve [yetkili eğitim satıcı (aep)](https://www.mepn.com)olmanız gerekir. Ayrıca, müşterinizin [nitelikli bir eğitim kullanıcısı](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7)olması gerekir.  
 
  
-## <a name="buy-minecraft-education-edition-on-behalf-of-your-customer"></a>Müşterinizin adına **Minecrayft: eğitim sürümü** satın alın
+## <a name="buy-minecraft-education-edition-on-behalf-of-your-customer"></a>**Minecraft: Education Edition** müşterinizin adına satın alın
 
-[Iş Ortağı Merkezi](https://partnercenter.microsoft.com/pcv/dashboard/overview
-) 'Nde **Minecrayft: eğitim sürümü** abonelikleri satın almak için aşağıdaki adımları izleyin (oturum açmak gerekir):
+[iş ortağı merkezi](https://partnercenter.microsoft.com/pcv/dashboard/overview
+) 'nde **Minecraft: Education Edition** abonelikleri satın almak için aşağıdaki adımları izleyin (oturum açmak gerekir):
 
   1.  Iş Ortağı Merkezi menüsünden **müşteriler** ' i seçin.
   
@@ -36,14 +36,14 @@ Eğitim kurumlarıyla çalışan iş ortakları, bu kullanıcılara **Minecrat: 
   
   3.  Gereksinimlerinizi en iyi karşılayan faturalandırma sıklığını seçin ve ardından **Katalog** bölümünde **eğitim** ' i seçin.
 
-  4.  Müşterinizin adına satın almak istediğiniz Mineckıft aboneliğini seçin ve lisans sayısını girin. Şunu seçin: **İleri: Gözden Geçir**.
+  4.  müşterinizin adına satın almak istediğiniz Minecraft aboneliğini seçin ve lisansların sayısını girin. Şunu seçin: **İleri: Gözden Geçir**.
 
       >[!NOTE]
-      >Bu lisansları Iş Ortağı Merkezi 'nde görebilir ve yönetebilirsiniz. Cucstomer, bu lisansları [Minecrayft: eğitim sürümü ayrıntıları sayfasında](https://educationstore.microsoft.com/store/details/minecraft-education-edition/9nblggh4r2r6) görebilir ve yönetebilir (Ayrıntılar sayfasını görmek Için Eğitim deposunda oturum açmanız gerekir). 
+      >Bu lisansları Iş Ortağı Merkezi 'nde görebilir ve yönetebilirsiniz. cucstomer, bu lisansları [Minecraft: Education Edition ayrıntıları sayfasında](https://educationstore.microsoft.com/store/details/minecraft-education-edition/9nblggh4r2r6) envanterinden görebilir ve yönetebilir (ayrıntılar sayfasını görmek için eğitim deposunda oturum açmış olmanız gerekir). 
 
   5.  Sıra doğruysa **Gönder**' i seçin. Sırada değişiklik yapmanız gerekiyorsa, **iptal** ' i seçin ve istediğiniz değişiklikleri yapın.   
 
-  6.  Aboneliği başarıyla satın aldıktan sonra eğitim müşterinizi [eğitim için Microsoft Store](https://educationstore.microsoft.com) , yazılımın indirileceği ve lisansları dağıtan envanterine yönlendirin.
+  6.  aboneliği başarıyla satın aldıktan sonra, yazılımı indirmek ve lisansları dağıtmak için eğitim müşterinizi [Eğitim İçin Microsoft Store](https://educationstore.microsoft.com) envanterine yönlendirin.
 
       Müşterinizin yazılım lisanslarını kullanıcılarına dağıtma hakkında daha fazla bilgiye ihtiyacı varsa, [buradan daha fazla](/education/windows/school-get-minecraft#distribute-minecraft)bilgi edinebilirsiniz.  
   

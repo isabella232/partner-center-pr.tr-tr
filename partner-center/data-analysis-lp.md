@@ -3,24 +3,24 @@ title: Abonelik öngörüleri için Analizi kullanma
 ms.topic: article
 ms.date: 11/13/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-insights
 description: İşletmenizi ve müşterilerinizin satın aldığınız lisansları nasıl kullandığını daha iyi anlamak için iş ortağı merkezi 'nde analizler kullanmayı öğrenin.
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ae31e7d917e96763e107212a78f28bfa10acf2f4
-ms.sourcegitcommit: 3ac88f7925bfe1df90e267ee5c1ee4d752ac92d4
+ms.openlocfilehash: e94a57b6e93c86a24458862a3dd4a6ccc0b14885
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/29/2021
-ms.locfileid: "113013327"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114842125"
 ---
 # <a name="use-analytics-to-learn-more-about-subscription-revenue"></a>Abonelik geliri hakkında daha fazla bilgi edinmek için analiz kullanın
 
 **Uygun roller**: genel yönetici | MPN iş ortağı Yöneticisi
 
-CSP işinizi geliştirmenin yollarını planlarken müşterilerinizin Microsoft ürünlerini nasıl kullandığını anlamalısınız. İş Ortağı Merkezi 'nde veri toplamaya yönelik çeşitli seçenekleriniz vardır ve hem işiniz hem de müşterilerinizin satın aldıkları lisansları nasıl kullandığı hakkında veri toplayabilirsiniz. CSP doğrudan modelinde çalışıyorsanız, ek veri toplamak için Power BI için Partner Center Analytics uygulamasını yükleyip kullanabilirsiniz.
+CSP işinizi geliştirmenin yollarını planlarken müşterilerinizin Microsoft ürünlerini nasıl kullandığını anlamalısınız. İş Ortağı Merkezi 'nde veri toplamaya yönelik çeşitli seçenekleriniz vardır ve hem işiniz hem de müşterilerinizin satın aldıkları lisansları nasıl kullandığı hakkında veri toplayabilirsiniz. CSP doğrudan modelinde çalışıyorsanız, ek veri toplamak için Power BI için İş Ortağı Merkezi Analiz uygulaması yükleyip kullanabilirsiniz.
 
 ## <a name="access-to-the-subscription-analytics"></a>Abonelik analizinden erişim
 
@@ -33,7 +33,7 @@ CSP işinizi geliştirmenin yollarını planlarken müşterilerinizin Microsoft 
 
 ## <a name="trailing-twelve-month-ttm-csp-revenue"></a>Sondaki Twelve-Month (TTD) CSP geliri
 
-Son 12 aylık CSP geliri, Iş ortağı küresel hesap düzeyinde ABD Doları cinsinden sondaki bulut çözümü sağlayıcısı programı gelirini temsil eder. Veriler, önceki aya kadar son on iki aylık geliri göstermek için her ayın sekizinci ' i üzerinde yenilenir. Örneğin, 9 Eylül 2020 ' de, 5 2020 2019 Eylül ayının 5. ayında, için TTı 'yi görmeniz gerekir. Yazılım abonelikleri hariç tutulur. TTE geliri yalnızca faturaların zaten ödeneceği uygun geliri yansıtır. 
+son 12 aylık CSP gelir bir iş ortağı küresel hesap düzeyinde abd doları cinsinden sondaki Bulut Çözümü Sağlayıcısı program gelirini temsil eder. Veriler, önceki aya kadar son on iki aylık geliri göstermek için her ayın sekizinci ' i üzerinde yenilenir. Örneğin, 9 Eylül 2020 ' de, 5 2020 2019 Eylül ayının 5. ayında, için TTı 'yi görmeniz gerekir. Yazılım abonelikleri hariç tutulur. TTE geliri yalnızca faturaların zaten ödeneceği uygun geliri yansıtır. 
 
 Iş Ortağı Merkezi 'nde görüntülenecek gelir, 12 aylık sabit bir zaman aralığı için hesaplanır ve daha kısa bir zaman dilimine değiştirilemez.
 
@@ -70,7 +70,7 @@ Bu filtrelerin uygulanması, bu raporun en üstünde yer alacak olan TTD gelir �
 
 - [Müşterilerinizin satın aldıkları lisansları nasıl kullandığını çözümleyin](increasing-adoption-and-satisfaction.md)  
 - [Müşteri etkinlik günlüklerini görüntüleme](activity-logs.md)
-- [Power BI için iş ortağı merkezi analizi uygulaması](power-bi-app-for-direct-partners.md)
+- [Power BI için İş Ortağı Merkezi Analiz uygulaması](power-bi-app-for-direct-partners.md)
 
 
 

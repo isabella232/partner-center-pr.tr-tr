@@ -4,17 +4,17 @@ description: Lisans tabanlı müşterileri diğer kanallardan veya başka bir i�
 ms.topic: how-to
 ms.date: 06/30/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-customers
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2cfea9bc672ff12868a7944cf81601e5292dae80
-ms.sourcegitcommit: 09eabb559aae25518caf3f2a59ef16a3e123c207
+ms.openlocfilehash: 810c01c16bd6a2f9c6fa863289e1b788a057b627
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "112489909"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114842430"
 ---
 # <a name="move-license-based-customers-from-other-channels--partners-to-the-cloud-solution-provider-csp-program"></a>Lisans tabanlı müşterileri iş ortaklarının & (CSP) programına Bulut Çözümü Sağlayıcısı kanallardan taşıma
 
@@ -26,13 +26,13 @@ Müşteriniz birden çok iş ortağını işe almak, aboneliklerini başka bir i
 
 1. İş Ortağı Merkezi  menüsünden Müşteriler'i seçin ve ardından Satıcı **ilişkisi isteğide bulun'a tıklayın.** Çok kanallı hesaplar için destek sağlamak için aynı şeyi yaparsınız.
 
-2. Müşteri daveti kabul etti mi, müşteri için istenen abonelikleri ve lisansları sağabileceksiniz (örneğin, müşterinin daha önce satın aldığınız Office 365 teklifi).
+2. Müşteri davetini kabul etti mi, müşteri için istenen abonelikleri ve lisansları sağabileceksiniz (örneğin, müşterinin daha önce satın Office 365 aynı abonelik teklifi).
 
-3. Müşteri, özgün aboneliklerin süresinin dolmasına veya iptal edilmesine izin vere. Ancak iptal edilen aboneliklerde para iadesi yapılmaz. En iyisi aboneliklerin doğal sona erme tarihlerine yakın olmasıdır.
+3. Müşteri, özgün aboneliklerin süresinin dolmasına veya iptal edilmesine izin vere. Ancak iptal edilen aboneliklerde para iadesi yapılmaz. En iyisi aboneliklerin süre sonu tarihine yakın olana kadar beklemenizdir.
 
 
    >[!NOTE]
-   >Müşteri, Microsoft 365 (M365) yönetici portalında (örneğin, Microsoft'tan aylık veya yıllık faturalama yoluyla) satın aldı ise kredi için uygun olabilir. Doğrudan Microsoft'tan satın alınan abonelikler için krediler **M365 faturalama desteği tarafından ele alınarak yapılır.** M365 aboneliğinizi iptal etme hakkında [M365 kılavuzuna bakın.](/microsoft-365/commerce/subscriptions/cancel-your-subscription) Müşteri için yönetim ayrıcalıkları temsilciniz varsa, müşteriniz adına M65 desteğine başvurabilir. Yoksa lütfen müşteriden M365 desteğine doğrudan başvurarak ne kadar krediye uygun olduğunu ve bu kredinin nasıl verildiğini bulmalarını sorun. Yönetici ayrıcalıkları [temsilcisiyle ilgili bilgileri okuyun.](customers-revoke-admin-privileges.md)
+   >Müşteri, Microsoft 365 (M365) yönetici portalında (örneğin, Microsoft'tan aylık veya yıllık faturalama yoluyla) satın aldı ise kredi için uygun olabilir. Doğrudan Microsoft'tan satın alınan abonelikler için **krediler, M365 faturalama desteği tarafından ele alınarak yapılır.** M365 aboneliğinizi iptal etme hakkında [M365 kılavuzuna bakın.](/microsoft-365/commerce/subscriptions/cancel-your-subscription) Müşteri için yönetim ayrıcalıkları temsilciniz varsa, müşteriniz adına M65 desteğine başvurabilir. Yoksa lütfen müşteriden M365 desteğine doğrudan başvurarak ne kadar krediye uygun olduğunu ve bu kredinin nasıl verildiğini bulmalarını sorun. Yönetici ayrıcalıkları [temsilcisiyle ilgili bilgileri okuyun.](customers-revoke-admin-privileges.md)
 
 
 4. Daha sonra müşteri, kesintisiz olarak sağmış olduğunuz aboneliklerle devam eder.

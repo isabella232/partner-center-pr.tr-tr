@@ -3,18 +3,18 @@ title: Maksimum rezervasyon kullanımı için Azure VM boyutlandırması
 description: Bir sanal makineyi (VM) müşteriler için rezervasyon satın alan müşterilerin bilgi işlem ihtiyaçlarına göre Microsoft Azure öğrenin.
 ms.topic: how-to
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-pricing
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
 ms.date: 08/06/2020
-ms.openlocfilehash: 650618de7460f4667c60ac58cbe6716530db7f16
-ms.sourcegitcommit: b55f63a029d88c73cd5190bbac2df1b5990e6e44
+ms.openlocfilehash: dc9b9100e01191c24c03c76e9a9ff5a6ffe335d1
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "113510202"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114842193"
 ---
 # <a name="microsoft-azure-vm-sizing-for-maximum-reservation-usage"></a>Maksimum ayırma kullanımı için Microsoft Azure VM boyutlandırması
 
@@ -79,9 +79,9 @@ Rezervasyon satın almak istediğiniz VM'nin konumunu ve boyutunu almak için a�
 
 ## <a name="verify-azure-vm-usage-and-reservation-discount"></a>Azure VM kullanımını ve rezervasyon indirimi doğrulama
 
-Müşteri adına bir Azure Ayrılmış VM Örneği satın aldığınız zaman, VM alanı için önceden ödemeye uygulanan indirim, müşterinin rezervasyon öznitelikleriyle ve miktarıyla eşan sanal makinelere otomatik olarak uygulanır.
+Müşteri adına bir Azure Ayrılmış VM Örneği satın aldıktan sonra, VM alanı için önceden ödemeye uygulanan indirim, müşterinin rezervasyon öznitelikleriyle ve miktarıyla eşan sanal makinelere otomatik olarak uygulanır.
 
-Aşağıdaki yöntemlerden birini kullanarak müşterinin rezervasyon kullanımını doğrular ve rezervasyon indirimlerinin hangi sanal makinelere uygulandığını kontrol edin:
+Müşterinin rezervasyon kullanımını doğrular ve aşağıdaki yöntemlerden birini kullanarak rezervasyon indirimlerinin hangi sanal makinelere uygulandığını kontrol edin:
 
 - Azure portal
 - Azure kullanım API'si

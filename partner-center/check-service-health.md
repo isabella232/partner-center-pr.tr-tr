@@ -3,18 +3,18 @@ title: Müşterinin hizmet durumunu denetleme
 ms.topic: how-to
 ms.date: 05/05/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-support
 description: Iş Ortağı Merkezi 'ni kullanarak bir hizmetle ilgili sorun yaşayan bir müşterinin hizmet durumunu nasıl denetleyeceğinizi öğrenin.
 author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: db5856914ab988a8fc3beefeb5c425846383a921
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: d8d9bc05d2fe5ca87c5fa9f13371305a48fb6a52
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110149137"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114842720"
 ---
 # <a name="check-service-health-for-a-customer-reporting-a-potential-service-problem-or-outage"></a>Olası bir hizmet sorunu veya kesintisi bildiren bir müşterinin hizmet durumunu denetleme
 
@@ -31,13 +31,13 @@ Bu makalede, bir hizmetle ilgili sorun yaşayan bir müşterinin hizmet durumunu
 >[!NOTE] 
 > **Hizmet yönetimi** sayfalarındaki hizmet durumu bağlantıları, M365 Yönetim Merkezi 'ne veya Azure Portal **yönetici temsilcisi** olarak iş ortağı alır. İş ortağı hedefe ulaştıktan sonra, kesinti hakkında daha fazla ayrıntı için iş ortağı her iki portalda da hizmet durumu sayfalarına gidebilir.
  
-Hizmet kesintisi sırasında, Microsoft, sorunu gidermek için çalıştıkları sırada düzenli güncelleştirmeler sağlar. Bu bildirimler ayrıca Microsoft Azure portal ya da Microsoft 365 Yönetim merkezinde görüntülenir.
+Hizmet kesintisi sırasında, Microsoft, sorunu gidermek için çalıştıkları sırada düzenli güncelleştirmeler sağlar. bu bildirimler ayrıca Microsoft Azure portalında veya Microsoft 365 yönetim merkezinde de görüntülenir.
 
 ## <a name="next-steps"></a>Sonraki adımlar 
 
 - Hizmet kesintisi sona başladıktan sonra sorun devam ederse, bir hizmet isteği gönderir. Bkz. [müşteri adına sorun bildirme](report-problems-on-behalf-of-a-customer.md).
 
-- Microsoft 365 ve Microsoft Azure her biri, iş ortaklarının gerçek zamanlı hizmet durumunu, ileti merkezi iletişimini ve planlı bakım olaylarını [almak için kullanabileceği API 'ler](get-automated-service-notifications-with-our-apis.md)sağlar.
+- Microsoft 365 ve Microsoft Azure her biri, iş ortaklarının gerçek zamanlı hizmet durumunu, ileti merkezi iletişimini ve planlı bakım olaylarını [almak için kullanabileceği apı 'ler](get-automated-service-notifications-with-our-apis.md)sağlar.
 
  
 

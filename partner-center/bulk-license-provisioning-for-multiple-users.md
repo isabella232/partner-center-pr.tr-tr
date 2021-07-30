@@ -3,52 +3,52 @@ title: Birden fazla kullanıcıya lisans atama veya atanmış lisansları iptal 
 ms.topic: how-to
 ms.date: 07/02/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
-description: Bir kullanıcıya veya birden çok kullanıcıya aynı anda lisans ve hizmet atamak veya hizmetleri iptal etmek için bir müşteri hesabı kullanmayı öğrenin.
+ms.subservice: partnercenter-customers
+description: Bir kullanıcıya veya aynı anda birden çok kullanıcıya lisans ve hizmet atamak veya iptal etmek için bir müşteri hesabını nasıl kullanacağınızı öğrenin.
 author: amitravat
 ms.author: amrava
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: 79f66e759385f6c7c7928dba58e052ea8699cf21
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 256e93499a3a9b2786d8d1a309077b645aecd81c
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110149222"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114842380"
 ---
-# <a name="assign-or-revoke-licenses-at-the-same-time-to-multiple-users-in-a-customer-account"></a>Bir müşteri hesabında birden çok kullanıcıya aynı anda lisans atama veya iptal etme
+# <a name="assign-or-revoke-licenses-at-the-same-time-to-multiple-users-in-a-customer-account"></a>Bir müşteri hesabındaki birden fazla kullanıcıya aynı anda lisans atama veya iptal etme
 
-**Uygun roller:** Yönetici aracısı | Genel yönetici | Yardım masası aracısı | Satış aracısı | Kullanıcı yönetimi yöneticisi
+**Uygun roller**: yönetici Aracısı | Genel yönetici | Yardım Masası Aracısı | Satış Aracısı | Kullanıcı Yönetimi Yöneticisi
 
-Bir kullanıcıya veya birden çok kullanıcıya aynı anda bir müşteri hesabıyla lisans ve hizmet atayabilirsiniz ve kullanıcılara lisans atamalarını iptal etme.
+Bir kullanıcıya veya bir müşteri hesabında aynı anda birden fazla kullanıcıya lisans ve hizmet atayabilir ve kullanıcılara lisans atamalarını iptal edebilirsiniz.
 
-Bu İş Ortağı Merkezi, müşteriye ait tüm lisans yetkilendirmelerini izler ve gösterir.
+Iş Ortağı Merkezi, müşterinin sahip olduğu tüm lisans yetkilendirmelerini izler ve gösterir.
 
 ## <a name="assign-licenses-to-multiple-users"></a>Birden çok kullanıcıya lisans atama
 
-1. Yeni **İş Ortağı Merkezi** **Müşteriler'i** seçin ve ardından listeden bir müşteri seçin.
+1. **Iş Ortağı Merkezi** menüsünden **müşteriler**' i seçin ve ardından listeden bir müşteri seçin.
 
-2. Kullanıcılar **ve lisanslar'ı seçin.**
+2. **Kullanıcılar ve lisanslar ' ı** seçin.
 
-3. Listeden iki veya daha fazla kullanıcı için onay kutusunu seçin. (Geçerli sayfada tüm kullanıcıları seçmek için Kullanıcılar sütunlarının üst kısmında yer alan onay **kutusunu** işaretleyin.)
+3. Listeden iki veya daha fazla kullanıcının onay kutusunu seçin. (Geçerli sayfadaki tüm kullanıcıları seçmek için, **Kullanıcılar** sütununun en üstündeki onay kutusunu seçin.)
 
-    İlk, Önceki , Sonraki ve Son araçlarını kullanarak birden **çok** **sayfada kullanıcıları** **bulabilir** **ve seçebilirsiniz.**
+    **İlk**, **önceki**, **sonraki** ve **son** araçları kullanarak birden çok sayfada Kullanıcı bulabilir ve seçebilirsiniz.
 
-4. Seçili **Kullanıcılar bağlantısını** seçin. Görüntülenen listede seçili kullanıcılar gösterilir.
+4. **Seçili kullanıcılar** bağlantısını seçin. Gösterilen listede seçilen kullanıcılar gösterilir.
 
-5. Lisansları **yönet bağlantısını** seçin.
+5. **Lisansları Yönet** bağlantısını seçin.
 
-    Lisansları yönet sayfasında müşteri hesapları için lisans yetkilendirmelerinin listesi ve her ürün için **Kullanılabilir lisans** sayısı görüntülenir.
+    Lisansları Yönet sayfasında, müşteri hesapları için lisans yetkilendirmeleri ve her ürün için **kullanılabilir lisans** sayısı gösterilir.
 
-    - Product sütunundaki onay **kutuları,** müşteri tarafından seçilen ürünler için seçilen tüm kullanıcıların durumunu gösterir:
+    - **Ürün** sütunundaki onay kutuları, müşterinin sahip olduğu ürünler için seçilen tüm kullanıcıların durumunu gösterir:
 
-       - Seçili tüm kullanıcılar zaten bir lisansa sahip olduğunda ürünün onay kutusu doldurulur.
+       - Tüm seçili kullanıcılar zaten bir lisansa sahip olduğunda, ürünün onay kutusu doldurulur.
 
-       - Seçilen kullanıcılardan bazılarının bir ürün lisansı varsa, ürünün onay kutusu kısmen doldurulur.
+       - Seçili kullanıcılardan bazılarının ürün lisansı varsa, ürünün onay kutusu kısmen doldurulur.
 
-       - Seçili kullanıcıların hiçbiri ürün lisansına sahip değilse onay kutusu temizdir.
+       - Seçili kullanıcılardan hiçbirinin bir ürün lisansı yoksa, onay kutusu net olur.
 
-    - Seçilen her kullanıcı sayfanın üst kısmında bulunan küçük bir kutuda görünür. Kullanıcılar sıralanmış sırada görüntülenir.
+    - Seçili her kullanıcı sayfanın üst kısmındaki küçük bir kutu içinde görüntülenir. Kullanıcılar sıralanmış sırada görüntülenir.
 
     - **Atanmış** sütundaki herhangi bir bağlantıyı, zaten lisansı olan seçili kullanıcıları gösteren bir araç ipucu listesini görüntülemek için seçin.
 
@@ -56,7 +56,7 @@ Bu İş Ortağı Merkezi, müşteriye ait tüm lisans yetkilendirmelerini izler 
 
 6. **Lisans ata ve iptal et** altında yeni kullanıcılar için Ürün lisanslarını seçin. 
 
-   Örneğin, seçili kullanıcılardan hiçbiri Office 365 Kurumsal lisanslarına sahip değilse ve bunları eklemek istiyorsanız onay kutusunu işaretleyin. Seçilen her ürün için yeterli lisansa sahip olmanız gerekir.
+   örneğin, seçili kullanıcılardan hiçbirinin Office 365 Kurumsal lisansı yoksa ve bunları eklemek istiyorsanız onay kutusunu işaretleyin. Seçilen her ürün için yeterli lisansa sahip olmanız gerekir.
 
 7. Her bir ürünün onay kutusunu seçerek kullanıcılar için birden fazla ürün seçin.
     -   Kullanıcılara gereken hizmet planlarını görüntülemek ve seçmek için herhangi bir ürün için **hizmet planlarını görüntüle** ' yi seçin.
@@ -76,13 +76,13 @@ Bu İş Ortağı Merkezi, müşteriye ait tüm lisans yetkilendirmelerini izler 
 
     Diğer kullanıcıları bulmak ve seçmek için **ilk**, **önceki**, **sonraki** ve **son** araçların bulunduğu sayfa. Birden çok sayfa arasında seçim yapabilirsiniz.
 
-4. Kullanıcıları seçtikten sonra Seçili Kullanıcılar **bağlantısını** seçin. Görüntülenen listede yalnızca seçili kullanıcılar gösterilir.
+4. Kullanıcıları seçtikten sonra **Seçili kullanıcılar** bağlantısını seçin. Gösterilen listede yalnızca seçili kullanıcılar gösterilir.
 
-5. Lisansları **yönet bağlantısını** seçin.
+5. **Lisansları Yönet** bağlantısını seçin.
 
-6. Lisans **ata ve iptal etme** altında, kullanıcılara atanan ürünlerin onay kutularını temizleyin.
+6. **Lisansları ata ve iptal et** altında kullanıcılara atanan ürünlerin onay kutularını temizleyin.
 
-   Örneğin, seçilen tüm kullanıcıların Office 365 Kurumsal lisansları varsa ve bunları iptal etmek istiyorsanız, bunu temizlemek için onay kutusunu işaretleyin.
+   örneğin, seçilen tüm kullanıcılar Office 365 Kurumsal lisanslarına sahip olursa ve bunları iptal etmek istiyorsanız, temizlemek için onay kutusunu işaretleyin.
 
 7. **Kaydet**’i seçin.
 
@@ -90,4 +90,4 @@ Bu İş Ortağı Merkezi, müşteriye ait tüm lisans yetkilendirmelerini izler 
 
 - [Bir kullanıcıya lisans atama](assign-licenses-to-users.md)
 
-- [Müşterinin abonelikleri için yönetici ayrıcalıklarını yeniden Azure CSP olun](revoke-reinstate-csp.md)
+- [Müşterinin Azure CSP abonelikleri için yeniden devreye sokma yönetici ayrıcalıkları](revoke-reinstate-csp.md)

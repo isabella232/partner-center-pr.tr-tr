@@ -1,75 +1,75 @@
 ---
-title: Azure Iş ortağı paylaşılan hizmetleri ekleme
-description: Azure Iş ortağı paylaşılan hizmetleri 'ni kullanarak kendi kullanım için Azure abonelikleri satın alın ve Azure 'u satın alma, izleme ve yönetmeye yönelik Tekdüzen bir yönteme sahip olun.
+title: Yeni Azure İş Ortağı Paylaşılan Hizmetleri
+description: Kendi Azure İş Ortağı Paylaşılan Hizmetleri Azure abonelikleri satın almak ve Azure'ın satın alma, izleme ve yönetme için tekdüz bir yöntemine sahip olmak için azure aboneliklerini kullanın.
 ms.topic: article
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-pricing
 author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 11/11/2020
-ms.openlocfilehash: 40ba485cecce394dc81632d01f8774859690c522
-ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
+ms.openlocfilehash: 35c5d378f66071f3c97abdf74eec27e78a8ac778
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "112551614"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114842057"
 ---
-# <a name="add-azure-partner-shared-services-so-partners-can-buy-azure-subscriptions-for-their-own-use"></a>Azure Iş ortağı paylaşılan hizmetleri 'ni ekleyerek iş ortaklarının kendi kullanımları için Azure abonelikleri satın alabilir
+# <a name="add-azure-partner-shared-services-so-partners-can-buy-azure-subscriptions-for-their-own-use"></a>İş Azure İş Ortağı Paylaşılan Hizmetleri kendi kullanımları için Azure abonelikleri satın allarına yardımcı olacak yeni abonelikler ekleme
 
-**Uygun roller**: genel yönetici | Yönetici Aracısı | Satış Aracısı
+**Uygun roller:** Genel yönetici | Yönetici aracısı | Satış aracısı
 
-Azure Iş ortağı paylaşılan hizmetleri (APSS), bulut çözümü sağlayıcısı (CSP) programındaki iş ortakları için, iş ortaklarının Azure aboneliklerini kendi kullanımları için satın almasını sağlayan yeni bir teklif türüdür.İş ortaklarının Azure lisanslarını birleştirme ve Microsoft ile yeniden satma yeteneğine ek olarak Azure 'u satın almak, izlemek ve yönetmek için Tekdüzen bir yöntem kullanması için bir fırsat oluşturur. APSS sayesinde, iş ortakları artık Microsoft Kurumsal Anlaşma ve web doğrudan programlarında olduğu gibi CSP 'de Azure aboneliklerini kullanmak için aynı esnekliğe sahiptir: geliştirme ve test ortamları oluşturma, iç iş yüklerini dağıtma ve paylaşılan hizmetleri veya çok kiracılı uygulamaları barındırma.  
+Azure İş Ortağı Paylaşılan Hizmetleri (APSS), iş ortaklarının kendi kullanımları için Azure abonelikleri satın almalarını sağlayan Bulut Çözümü Sağlayıcısı (CSP) programı kapsamındaki iş ortakları için yeni bir teklif t t türlerindendir.İş ortaklarının Azure lisanslama ve Microsoft ile yeniden satış sözleşmelerini birleştirme olanağının yanı sıra Azure'ı satın almak, izlemek ve yönetmek için tekdüz bir yöntem kullanma fırsatı da sunar. APSS sayesinde iş ortakları artık Microsoft Kurumsal Anlaşma ve Web Direct programlarında olduğu gibi CSP'de Azure aboneliklerini kullanma esnekliğine sahiptir. Geliştirme ve test ortamları oluşturma, iç iş yüklerini dağıtma ve paylaşılan hizmetleri veya çok kiracılı uygulamaları barındırma gibi senaryoları açma.  
 
-## <a name="create-the-shared-services-tenant"></a>Paylaşılan hizmetler kiracısını oluşturma
+## <a name="create-the-shared-services-tenant"></a>Paylaşılan hizmetler kiracısı oluşturma
 
-1. **Ayarlar**  >  **Hesap ayarları**  >  **paylaşılan hizmetler**' e gidin.
+1. Hesap ayarları **Ayarlar**  >  **Hizmetler'e**  >  **gidin.**
 
-   :::image type="content" source="images/sharedservices2.png" alt-text="Hesap ayarları > paylaşılan hizmetler":::
+   :::image type="content" source="images/sharedservices2.png" alt-text="Paylaşılan hizmetler > ayarları":::
 
-2. Zaten bir paylaşılan hizmetler kiracınız yoksa, **paylaşılan hizmetler oluştur**' u seçin.
+2. Paylaşılan hizmetler kiracınız yoksa Paylaşılan hizmetler **oluştur'a seçin.**
 
-   :::image type="content" source="images/sharedservices3.png" alt-text="Paylaşılan Hizmetleri oluşturun.":::
+   :::image type="content" source="images/sharedservices3.png" alt-text="Paylaşılan hizmetler oluşturun.":::
 
-3. Bu, paylaşılan kaynaklar ve iç iş yükü için kullanılmak üzere paylaşılan bir hizmet kiracısı oluşturur ve Azure CSP paylaşılan hizmetleri aboneliğini satın alır.
+3. Bu, paylaşılan kaynaklar ve iç iş yükü için Azure CSP paylaşılan hizmetler kiracısı oluşturur ve Paylaşılan Hizmetler aboneliğini satın alan bir kiracı oluşturur.
 
    :::image type="content" source="images/sharedservices5.png" alt-text="Kiracıyı oluşturun ve aboneliği satın alın.":::
 
-## <a name="about-the-azure--internalshared-services-offer"></a>Azure Dahili/Paylaşılan Hizmetler teklifi hakkında
+## <a name="about-the-azure--internalshared-services-offer"></a>Azure Dahili/Paylaşılan Hizmetler hakkında
 
-- Azure Dahili/Paylaşılan Hizmetler aboneliği, iş ortaklarının kendi Azure kullanımlarını aldığı Iş Ortağı Merkezi aracılığıyla erişilebilen CSP 'de yeni bir Azure teklif türüdür.
+- Bu Azure Dahili/Paylaşılan Hizmetler, iş ortaklarının kendi Azure kullanımı için edinilen İş Ortağı Merkezi CSP'de yeni bir Azure teklifi t t t'dır.
 
-- Azure Iş ortağı paylaşılan hizmetleri abonelikleri uygun ve RIS satın almak için kullanılabilir.
+- Azure İş Ortağı Paylaşılan Hizmetleri abonelikler uygundur ve RU satın almak için kullanılabilir.
 
-- Azure Dahili/Paylaşılan Hizmetler teklif yalnızca paylaşılan hizmetler kiracısına uygulanabilir.
+- Azure Dahili/Paylaşılan Hizmetler teklifi yalnızca paylaşılan hizmetler kiracısına uygulanabilir.
 
-- Azure Dahili/Paylaşılan Hizmetler aboneliğin birincil kullanımı, kendi geliştirme amaçlarınız için Azure 'ı kullanabilmeniz için kullanılır. Bu teklifi sağlamak için kullandığınız paylaşılan kiracı, Office 365 veya Dynamics lisansları gibi diğer hizmetler için kullanılamaz.
+- Azure Dahili/Paylaşılan Hizmetler aboneliği için birincil kullanım, Azure'ın kendi geliştirme amaçlarınız için kullana biliyor olmaktır. Bu teklifi sunmak için kullanılan paylaşılan kiracı, Office 365 veya Dynamics lisansları gibi diğer hizmetler için kullanılamaz.
 
-- Aboneliği diğer abonelikler gibi iptal edebilirsiniz. **Ayarlar**  >  **Tüm ayarlar**  >  **paylaşılan hizmetleri**' ne bakın. Azure Dahili/Paylaşılan Hizmetler aboneliğini seçin ve iptal edin.
+- Aboneliği diğer abonelikler gibi iptal edebilirsiniz. Paylaşılan hizmetler **ayarları Tümünü görüntüle**  >    >  **ayarlarına gidin.** Azure Dahili/Paylaşılan Hizmetler aboneliğini seçin ve iptal edin.
 
-## <a name="accessing-azure-partner-shared-services-consumption-details"></a>Azure Iş ortağı paylaşılan hizmetleri tüketim ayrıntılarına erişme
+## <a name="accessing-azure-partner-shared-services-consumption-details"></a>Azure İş Ortağı Paylaşılan Hizmetleri ayrıntılarına erişme
 
-Azure kullanımını CSP faturanızda ve mutabakat dosyasında bulabilirsiniz. Faturaya Microsoft Azure satırı öğesinin bir parçası olarak dahil edilir. Ayrıntılı tüketim bilgileri, bu teklif için oluşturulan kiracıya yönelik olarak günlüğe kaydedilen mutabakat dosyasında kullanıma sunulacaktır.
+CSP faturanız ve mutabakat dosyanız üzerinde Azure tüketimini bulabilirsiniz. Faturaya bir satır Microsoft Azure parçası olarak dahil edilir. Ayrıntılı tüketim bilgileri, bu teklif için oluşturulan kiracıda günlüğe kaydedilen mutabakat dosyasında kullanılabilir.
 
-## <a name="azure-partner-shared-services-pricing"></a>Azure Iş ortağı Paylaşılan Hizmetleri Fiyatlandırması
+## <a name="azure-partner-shared-services-pricing"></a>Azure İş Ortağı Paylaşılan Hizmetleri fiyatlandırması
 
-APSS 'nin yeni fiyatlandırma dosyasını görmek için, **Satış**  >  **fiyatları ve teklifleri** ' ne gidin ve geçerli ayın fiyat listesini seçin. Önümüzdeki haftalarda, belirli bir ücret kartı API 'si de yayımlanır.
+APSS'nin yeni fiyatlandırma dosyasını görmek için Satış Fiyatlandırması ve  >  **teklifleri'ne** gidin ve geçerli ayın fiyat listesini seçin. Önümüzdeki haftalarda belirli bir hız kartı API'si de yayımlanacak.
 
-## <a name="marketplace-offers-and-azure-partner-shared-services"></a>Market teklifleri ve Azure Iş ortağı paylaşılan hizmetleri
+## <a name="marketplace-offers-and-azure-partner-shared-services"></a>Market teklifleri ve Azure İş Ortağı Paylaşılan Hizmetleri
 
-1 Mart 2019 itibariyle, APSS artık Market tekliflerini desteklememektedir.
+1 Mart 2019'dan sonra APSS artık Market tekliflerini desteklemez.
 
-|**Market desteği**   |**APSS, 1 Mart 2019 ' den önce destekleniyor**|**1 Mart 2019 ' den sonra**|
+|**Market desteği**   |**1 Mart 2019'dan önce desteklenen APSS**|**1 Mart 2019'dan sonra**|
 |---------------------------|:----------------------------|:-------------------|
-|Kendi lisansınızı getirin (KLG) ve ücretsiz hizmetler   | Yes   | Hayır|
-|Diğer üçüncü taraf Market teklifleri   | Hayır   |Hayır|
+|Kendi lisansını getir (BYOL) ve ücretsiz hizmetler   | Yes   | Hayır|
+|Diğer üçüncü taraf market teklifleri   | Hayır   |Hayır|
 
-APSS kullanılarak dağıtılan KLG veya ücretsiz hizmetleri olan iş ortakları bundan etkilenmez; Ancak, 1 Mart 2019 ' den sonra yeni KLG veya ücretsiz hizmetler satın amazlar.
+APSS kullanılarak dağıtılan BYOL veya ücretsiz hizmetlere sahip iş ortakları etkilenmez; ancak 1 Mart 2019'dan sonra yeni BYOL veya ücretsiz hizmetler satın alınmayacak.
 
-Market tekliflerinin (yalnızca KLG ve ücretsiz hizmetler değil) tam kataloğundan faydalanmak için, CSP iş ortaklarının Web doğrudan Azure abonelikleri kullanarak paylaşılan hizmetleri dağıtmalarını öneririz.  Daha önce Market 'ten üçüncü taraf KLG ve ücretsiz hizmet kaynakları dağıtmış olan CSP iş ortakları ve bunları kullanmaya devam etmek ve daha fazla üçüncü taraf teklifi dağıtmak, APSS aboneliğini [mevcut Azure aboneliklerinin doğrudan geçişine](/azure/cloud-solution-provider/migration/migration#migrating-existing-azure-subscriptions)Web 'e geçirmeye önerilir.
+Kullanılabilir Market tekliflerinin (yalnızca BYOL ve ücretsiz hizmetler değil) tam kataloğunu kullanmak için CSP iş ortaklarının paylaşılan hizmetleri web doğrudan Azure aboneliklerini kullanarak dağıtmalarını öneririz.  Daha önce Market'ten üçüncü taraf BYOL ve ücretsiz hizmet kaynakları dağıtan ve bunları kullanmaya devam etmek ve daha fazla üçüncü taraf teklifi dağıtmak isteyen CSP iş ortaklarının APSS aboneliğini mevcut Azure Aboneliklerini doğrudan web'e geçirmesi teşvik [edilecektir.](/azure/cloud-solution-provider/migration/migration#migrating-existing-azure-subscriptions)
 
-İş ortakları, 1 Mart 2019 ' den sonra APSS aboneliğini kullanmaya devam etmeyi planlıyor ve yeni üçüncü taraf [KLG hizmetlerini](https://azuremarketplace.microsoft.com/marketplace/apps?filters=byol) veya ücretsiz hizmetleri dağıtmak istiyor. BUNLARı APSS aboneliklerine dağıtmak için ISV 'lerden gelen yönergeleri uygulayabilir.
+1 Mart 2019'dan sonra APSS aboneliğini kullanmaya devam etmek isteyen ve yeni üçüncü taraf [BYOL](https://azuremarketplace.microsoft.com/marketplace/apps?filters=byol) hizmetleri veya ücretsiz hizmetler dağıtmak isteyen iş ortakları, ISV'lerden gelen yönergeleri izleyerek bunları APSS aboneliklerine dağıtabilirsiniz.
 
 ## <a name="next-steps"></a>Sonraki adımlar
 

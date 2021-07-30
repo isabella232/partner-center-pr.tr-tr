@@ -1,84 +1,84 @@
 ---
-title: İş Ortağı Merkezi Analytics'i Power BI
+title: Power BI için Iş ortağı merkezi analizi 'Ni yükler
 ms.topic: article
 ms.date: 07/10/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
-description: Uygulama yükleme ve önizlemesini (CSP'de doğrudan Power BI için İş Ortağı Merkezi Analiz uygulaması için) yüklemek ve önizlemek için bu makaledeki adımları izleyin.
+ms.subservice: partnercenter-pricing
+description: Power BI için İş Ortağı Merkezi Analiz uygulaması yüklemek ve önizlemek için bu makaledeki adımları izleyin (doğrudan CSP 'deki iş ortakları için).
 fwlink: https://go.microsoft.com/fwlink/?linkid=852583
 author: v-sumukh
 ms.author: v-sumukh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ff95f989ac847bd2c17558d062c86a52110b2ddf
-ms.sourcegitcommit: 4118de5cf55d1bd618ecca13c1b2ec59d80f43db
+ms.openlocfilehash: a07742a55df088842f6bac1a1cbdd65bf0db8282
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/24/2021
-ms.locfileid: "112565058"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114842669"
 ---
 # <a name="install-and-preview-the-partner-center-analytics-app-for-microsoft-power-bi"></a>Microsoft Power BI için İş Ortağı Merkezi Analizi uygulamasını yükleme ve önizleme
 
 
-**Uygun roller:** Genel yönetici | Kullanıcı yönetimi yönetici | Satış aracısı | Yönetici aracısı
+**Uygun roller**: genel yönetici | Kullanıcı Yönetimi Yöneticisi | Satış Aracısı | Yönetim Aracısı
 
 ## <a name="before-you-begin"></a>Başlamadan önce
 
-Aşağıdaki kullanılabilir Microsoft uygulamaları listesinden işletmeniz için en uygun Power BI seçin:
+aşağıdaki kullanılabilir Microsoft Power BI apps listesinden işletmeniz için en uygun uygulamayı seçin:
 
-- [Doğrudan Sağlayıcı](https://appsource.microsoft.com/product/power-bi/partnercenteranalytics.direct_provider_partner_analytics)
+- [Doğrudan sağlayıcı](https://appsource.microsoft.com/product/power-bi/partnercenteranalytics.direct_provider_partner_analytics)
 
-- [Dolaylı Sağlayıcı](https://appsource.microsoft.com/product/power-bi/partnercenteranalytics.indirect_provider_partner_analytics)
+- [Dolaylı sağlayıcı](https://appsource.microsoft.com/product/power-bi/partnercenteranalytics.indirect_provider_partner_analytics)
 
-- [Dolaylı Kurumsal Bayi](https://appsource.microsoft.com/product/power-bi/partnercenteranalytics.indirect_reseller_partner_analytics)
+- [Dolaylı satıcı](https://appsource.microsoft.com/product/power-bi/partnercenteranalytics.indirect_reseller_partner_analytics)
 
-İş Ortağı Merkezi Analytics uygulama önizleme sürümünü yüklemeden önce, aşağıdaki gereksinimleri karşılasanız emin olun.
+Iş ortağı merkezi analizi uygulama Önizleme sürümünü yüklemeden önce, aşağıdaki gereksinimleri karşıladığınızdan emin olun.
 
-- İşletmeniz için doğru Power BI uygulamayı seçersiniz.
+- işletmeniz için doğru Power BI uygulamayı seçebilirsiniz.
 
-- Pro lisansınız Power BI sahipsiniz.
+- Power BI pro lisansına sahipsiniz.
 
-- Kiracınıza şablon uygulamaları yükleme izinlerine sahipsiniz.
+- Kiracınıza şablon uygulamaları yüklemek için izinleriniz var.
 
-- Bu oturum açma Power BI.
+- Power BI oturum açabilirsiniz.
 
-- Genel yönetici, yönetici aracısı veya faturalama yöneticisi olarak, şirketinizin Azure Active Directory [(Azure AD) kiracısı olarak oturumabilirsiniz.](azure-active-directory-tenants-and-partner-center.md)
+- [şirketinizin Azure Active Directory (Azure AD) kiracısında](azure-active-directory-tenants-and-partner-center.md)genel yönetici, yönetici aracısı veya faturalandırma yöneticisi olarak oturum açabilirsiniz.
 
 ## <a name="to-install-the-app"></a>Uygulamayı yüklemek için
 
-1. Yukarıdaki bölümde verilen uygulama kaynağı bağlantısını (Doğrudan Sağlayıcı/Dolaylı Sağlayıcı/Dolaylı Kurumsal Bayi) seçin.
+1. Yukarıdaki bölümde verilen uygulama kaynak bağlantısını (doğrudan sağlayıcı/dolaylı sağlayıcı/dolaylı satıcı) seçin.
 
-2. ŞIMDI **AL'ı seçin.** 
+2. **Şimdi al**' ı seçin. 
 
-3. Devam'ı seçerek hüküm ve koşulları **kabul edersiniz.**
+3. **Devam**' i seçerek hüküm ve koşulları kabul edin.
 
-4. Zaten bir hesabınız mı var? Oturum **Açma'ya seçin.**
+4. Zaten bir hesabınız var mı? **oturum aç '** ı seçin.
 
-5. Sonraki sayfada, kullanıcı adı Power BI parolanızı girin ve ardından **Oturum'ı seçin.**
+5. sonraki sayfada, Power BI kullanıcı adınızı ve parolanızı girip **oturum aç '** ı seçin.
 
-6. Çalışma alanı adını sağlayarak çalışma alanını yükleyin.
+6. Çalışma alanı adını sağlayarak çalışma alanını yükler.
 
-7. Yüklü şablon uygulamalarını Uygulamalar Bölümünde bulabilirsiniz.
+7. Uygulamalar bölümünde yüklü şablon uygulamalarını bulabilirsiniz.
 
-8. **Uygulamalar'ı** ve yüklü uygulamaları seçin.
+8. **Uygulamalar** ' ı seçin ve yüklü uygulamaları seçin.
 
-9. Başla uygulama ekranınız açılır.
+9. yeni uygulama ekranla Başlarken açılır.
 
-10. Verilere bağlanmak için Bağlan'ı **seçin.**
+10. verilere bağlanmak için **Bağlan**' yi seçin.
 
-11. İş Ortağı Merkezi **Analytics'e** bağlan açılır penceresinde, Kimlik doğrulama  yönteminin oAuth2 olarak ayar olduğunu doğrulayın veya ayarlanmazsa listeden **oAuth2'yi** seçin.  
+11. **iş ortağı merkezi Analytics** açılır penceresinde Bağlan, **kimlik doğrulama yönteminin** **oAuth2** olarak ayarlandığını veya listede **oAuth2** ' yi seçin. 
 
 > [!NOTE]  
 >  Bu pencerenin görünmesi birkaç dakika sürebilir.
 
-12. İş Ortağı Merkezi **Analytics Bağlayıcısı** sayfasında, şirketinizin Azure AD kiracısı için genel yönetici, yönetici aracısı veya faturalama yöneticisi kimlik bilgileriyle oturum açma ve ardından Oturum **Açma'ya tıklayın.**
+12. **Iş Ortağı Merkezi Analytics Bağlayıcısı** sayfasında, ŞIRKETINIZIN Azure AD kiracısı için genel yönetici, yönetici Aracısı veya faturalandırma Yöneticisi kimlik bilgileriyle oturum açın ve **oturum aç**' ı seçin.
  
-13. Erişim istendiğinde Kabul Et'i **seçin.** 
+13. Erişim istendiğinde **kabul et**' i seçin. 
 
-İş Ortağı Merkezi Analytics hizmeti Power BI veri yüklenmeye başlar. Veri miktarına bağlı olarak bu süre 10 dakika kadar sürebilir. 
+iş ortağı merkezi analizi hizmeti Power BI bağlandığında, veriler yüklenmeye başlayacaktır. Veri miktarına bağlı olarak, bu işlem 10 dakikaya kadar sürebilir. 
 
-Verilerin yüklenmesi tamam olduktan sonra, İş Ortağı Merkezi Analytics uygulama panosu ve raporları Power BI.
+Verilerin yüklenmesi tamamlandıktan sonra, Power BI ' de Iş ortağı merkezi analizi uygulama panosunu ve raporlarını kullanmaya başlayabilirsiniz.
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-[Microsoft Power BI için İş Ortağı Merkezi Analytics uygulamasıyla iş verilerinizi Power BI](power-bi-app-for-direct-partners-use.md)
+[İş verilerinizi Microsoft için Partner Center Analytics uygulaması ile görüntüleyin Power BI](power-bi-app-for-direct-partners-use.md)

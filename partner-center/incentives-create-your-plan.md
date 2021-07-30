@@ -1,34 +1,34 @@
 ---
-title: Teşvikleri planınızı oluşturma
+title: Teşvik planınızı oluşturma
 ms.topic: article
 ms.date: 09/11/2020
-description: Teşvikleri programınız için başarılı bir pazarlama planı oluşturmak üzere gerekli bilgileri toplayın ve oluşturun.
+description: Teşvik programınız için başarılı bir pazarlama planı oluşturmak için gerekli bilgileri toplayın ve oluşturun.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 31bed9eabcd63f80c7924b264e7abf04dab4b543
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 387be6313a1e775963c86714a6c5c825a2ca8169
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110146808"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114842346"
 ---
-# <a name="generate-a-marketing-plan-for-your-incentives-program"></a>Teşvikleri programınız için bir pazarlama planı oluşturma
+# <a name="generate-a-marketing-plan-for-your-incentives-program"></a>Teşvik programınız için bir pazarlama planı oluşturma
 
-**Uygun roller**: teşvikleri admin | Faturalandırma Yöneticisi | Genel yönetici
+**Uygun roller:** Teşvik yöneticisi | Faturalama yöneticisi | Genel yönetici
 
-Ortak op talep planı, pazarlama kampanyaları, etkinlikler ve programınızı nasıl başarılı hale getirmek istediğinizi açıklayan diğer ayrıntıları serisidir. Planınızı oluşturduktan sonra, bunu onay için Microsoft 'a gönderebilirsiniz.
+Ortak çalışma talepleri planı, programınızı nasıl başarılı bir şekilde tamamlay diye açıklayan bir dizi pazarlama kampanyası, etkinlik ve diğer ayrıntılardır. Planınızı oluşturdukta onay için Microsoft'a göndersiniz.
 
-## <a name="create-your-incentives-plan"></a>Teşvikleri planınızı oluşturma
+## <a name="create-your-incentives-plan"></a>Teşvik planınızı oluşturma
 
-Planınızı, **teşvikleri** sayfanızda **plan yönetimi** ' ni seçerek ve ardından istediğiniz programı açarak görüntüleyebilirsiniz.
+Teşvikler sayfasında Plan Yönetimi'yi **seçerek** **ve** ardından istediğiniz programı açarak planlarınızı görüntüleyebilirsiniz.
 
 >[!NOTE]
->Teşvikleri sayfanızda plan yönetimi görmeyebilirsiniz. Bunun nedeni, Iş Ortağı Merkezi panosunun dinamik olmasından kaynaklanır ve yalnızca belirli rol ve etkinlikleriniz için nelerin uygun olduğunu gösterir. Teşvikleri sayfanızda plan Yönetimi ' ni görmüyorsanız, büyük olasılıkla planları olan bir programa kayıtlı olmadığınız anlamına gelir. Yardım için teşvikleri yöneticinize başvurun.
+>Teşvikler sayfasında Plan Yönetimi'nin görmeyebilirsiniz. Bunun nedeni İş Ortağı Merkezi panonun dinamik olması ve yalnızca belirli rol ve etkinlikleriniz için uygun olan öğeleri görüntülemesidir. Teşvikler sayfasında Plan Yönetimi'nin olmadığınız, büyük olasılıkla planları olan bir programa kayıtlı olmadığınız anlamına gelir. Yardım için Teşvikler yöneticinize başvurun.
 
-Belirli teşvikleri programınızın planları hakkında daha fazla bilgi için, program kılavuzumuza bakın.
+Belirli bir programınıza ilişkin planlar hakkında daha Teşvikler programı için program kılavuzuna bakın.
 
 ## <a name="how-to-submit-a-plan"></a>Planı gönderme
 
@@ -36,25 +36,25 @@ Belirli teşvikleri programınızın planları hakkında daha fazla bilgi için,
 
 2. Sol gezintideki **Teşvikler**’in altında **Program**’ı seçin ve sonra da programınızı seçin. 
 
-3. **Program** sayfasında, planınız için uygun pazarı bulun ve **plan oluştur**' u seçin. 
+3. Program **sayfasında planınız** için uygun pazarı bulun ve Plan oluştur'a **tıklayın.** 
 
-4. **Yeni plan** sayfasında, gerekli alanları doldurun. **Para birimi** , planın yansıtılmasını istediğiniz değerdir. **Gözden geçiren e-postası** , Hesap yöneticinizin Microsoft e-posta adresi olmalıdır. MPN kimliği, fon, program ve süre başına tek bir plan oluşturulabileceğini unutmayın. **Kaydet**’i seçin.
+4. Yeni **plan sayfasında** gerekli alanları doldurun. **Para** birimi, planın yansıtması istediğiniz değerdir. **Gözden geçiren** e-postası, hesap yöneticinizin Microsoft e-posta adresi olabilir. MPN kimliği, fon, program ve süre başına tek bir plan oluşturulabileceğini unutmayın. **Kaydet**’i seçin.
 
 5. Planın durum sayfasında görüntülenen bilgileri gözden geçirin. Bilgilerden herhangi birini güncelleştirmek için **Düzenle**’yi seçin.
 
-6. Bu sayfadaki bilgiler doğru olduğunda **Yeni kampanya**' i seçin.
+6. Bu sayfada yer alan bilgiler doğru olduğunda Yeni **kampanya'ya tıklayın.**
 
-7. **Yeni kampanya** sayfasında gerekli alanları doldurun ve **Kaydet**' i seçin.
+7. Yeni kampanya sayfasında gerekli **alanları doldurun ve** Kaydet'i **seçin.**
 
 8. Durum sayfasında **Yeni etkinlik**’i seçin. 
 
 9. **Yeni etkinlik** sayfasında gerekli alanları doldurun. Birden çok ülke seçebilirsiniz. İşiniz bittiğinde **Kaydet**'i seçin. 
 
-10. Durum sayfasında bilgilerinizi yeniden gözden geçirin. Bir planı gönderdikten sonra düzenleyemezsiniz. Bitirdiğinizde **Gönder**’i seçi ve sonra da **Onayla**’yı seçin.
+10. Durum sayfasında bilgilerinizi yeniden gözden geçirin. Bir plan gönderdiniz mi, bunu düzenleyemezsiniz. Bitirdiğinizde **Gönder**’i seçi ve sonra da **Onayla**’yı seçin.
 
 Planınız artık gönderilmiştir. Microsoft onaylandığında veya daha fazla bilgi istediğinde Teşvik yöneticinize bunu bildirecektir. Durum sayfasının Durum penceresinde planınızın ilerleme durumunu görüntüleyebilirsiniz.
 
-## <a name="view-the-status-of-your-plan"></a>Planınızın durumunu görüntüleyin
+## <a name="view-the-status-of-your-plan"></a>Plan durumunu görüntüleme
 
 1. [İş Ortağı Merkezi panosunda](https://partner.microsoft.com/dashboard/) oturum açın.
 
@@ -62,7 +62,7 @@ Planınız artık gönderilmiştir. Microsoft onaylandığında veya daha fazla 
 
 3. **Planlar** bölümünde, her planın durumu **Durum** sütununda listelenir.
 
-   Aşağıda, ortak işlem talep planınız için çeşitli olası durumlar verilmiştir.
+   Aşağıda, ortak operasyon talep planınız için çeşitli olası durumlara yer vetir.
 
    - Gönderildi
    - Gözden geçiriliyor
@@ -71,20 +71,20 @@ Planınız artık gönderilmiştir. Microsoft onaylandığında veya daha fazla 
    - Onaylandı
    - Reddedildi
 
-## <a name="plan-submission-timelines"></a>Gönderim zaman çizelgelerini planlayın
+## <a name="plan-submission-timelines"></a>Gönderme zaman çizelgelerini planlama
 
 Planınızı program yılının son gününe kadar oluşturmalı ve göndermelisiniz. Gerekirse bundan sonraki 90 gün içinde planı düzenleyebilir ve yeniden gönderebilirsiniz ama planın program yılı içinde oluşturulması ve ilk gönderiminin yapılması gerekir.
 
 >[!NOTE]
-> Bir program yılı için yalnızca bir plan her fon türü oluşturabilirsiniz.
+> Program yılı için fon türü başına yalnızca bir plan oluşturabilirsiniz.
 
 ## <a name="plan-payments"></a>Plan ödemeleri
 
 Microsoft size kazançlarınız ve planınızın sınırları temelinde her ay ödeme yapar. Ödemeler izleyen ayın 15. günü yapılır.
 
-Örneğin, planınız $10.000 için onaylanırsa ve Nisan ayında $5.000 ' i kazandıysanız, 15 Mayıs 'ta $5.000 ' i alacaksınız.
+Örneğin, planınız 10.000 ABD doları için onaylandı ve Nisan ayında 5.000 ABD doları kazandınız, 15 Mayıs'ta 5.000 ABD doları alırsınız.
 
-Aynı plan kapsamında, Nisan ayında $15.000 kazandıysanız, "planınız için sınır $10.000 olduğundan, 15 Mayıs 'ta $10.000 ' i alacaksınız. Daha fazla ödeme almak için sonraki ay için planınızın sınırını artırmanız gerekir.
+Aynı planda Nisan ayında 15.000 ABD doları kazanırsanız 15 Mayıs'ta 10.000 ABD doları alırsınız çünkü planınız için sınır 10.000 ABD dolarıdır. Daha fazla ödeme almak için sonraki ay için planınızın sınırını artırmanız gerekir.
 
 ## <a name="next-steps"></a>Sonraki adımlar
 

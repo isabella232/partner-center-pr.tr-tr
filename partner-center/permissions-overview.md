@@ -3,18 +3,18 @@ title: Kullanıcılara roller & izinleri atama
 ms.topic: article
 ms.date: 10/30/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-enroll
 description: Iş Ortağı Merkezi 'nde ticari işlemleri, başvuruları, teşvikleri veya MPN üyeliklerini yöneten şirketinizin kullanıcılarına en uygun rolleri öğrenin.
 author: hemas
 ms.author: hemas
 ms.localizationpriority: high
 ms.custom: SEOMAY.20, contperf-fy21q1
-ms.openlocfilehash: a9cca322d7a37dce099c5bec44530b2006da7758
-ms.sourcegitcommit: 4f1702683336d54f24c0ba283f7d13dda581923d
+ms.openlocfilehash: 07bfa5fc59f7f3b29abbc3902f2cb2dd98738c28
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/16/2021
-ms.locfileid: "114373671"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114843077"
 ---
 # <a name="assign-users-roles-and-permissions-for-a-companys-users-needing-to-work-in-partner-center"></a>Şirket kullanıcılarının iş ortağı merkezi 'nde çalışması gereken kullanıcı rollerini ve izinlerini atama
 
@@ -128,7 +128,7 @@ Bu roller Azure AD rolleri değildir. Bu roller, kiracı yerine şirket işletme
 |**Role** | **Yapabilecekleriniz**|**Daha fazla bilgi edinin**
 |------------------------------|:-------------------------|---|
 |Referans yöneticisi|Verilerde Referanslar sekmesinde her şeyi oluşturma ve İş Ortağı Merkezi|[Ortak satış fırsatlarını yönetme](manage-co-sell-opportunities.md)
-||    Tüm ortak satış fırsatlarını ve müşteri adaylarını görüntüleyemez ve düzenleyebilir
+||    Tüm ortak satış fırsatlarını ve müşteri adaylarını görüntüleme ve düzenleme
 ||    Anlaşma için ekip üyeleri atay olabilir
 ||    İş profillerini görüntüleme ve düzenleme
 ||    Kazandı olarak işaretlenen ve anlaşma kaydı için uygun olan fırsatlar için anlaşmaları görüntüleme ve kaydetme
@@ -172,7 +172,7 @@ Yeni referans kullanıcı rolünün yanı sıra anlaşmaların konum kapsamını
 |**Role** | **Yapabilecekleriniz**|**Daha fazla bilgi edinin**|
 |------------------------------|:-------------------------|---|
 |Yönetici raporu görüntüleyicisi|Tüm raporlama veri kümelerine erişim, iş ortağı destek biletleri oluşturma, sizin oluşturdukları iş ortağı destek biletlerini görüntüleme|[Genel bakış pano raporları İş Ortağı Merkezi Analizler](insights-overview-report.md)
-|Rapor görüntüleyicisi|Gelir ve müşteri ve çalışan kişisel verileri dışında veri raporlarına erişim, iş ortağı destek biletleri oluşturma, sizin oluşturduz iş ortağı destek biletlerini görüntüleme|
+|Rapor görüntüleyicisi|Gelir ve müşteri ve çalışan kişisel verileri dışında veri raporlarına erişim, iş ortağı destek biletleri oluşturma, sizin oluşturdurarak iş ortağı destek biletlerini görüntüleme|
 
 ## <a name="next-steps"></a>Sonraki adımlar
 

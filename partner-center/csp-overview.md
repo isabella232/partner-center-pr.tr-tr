@@ -1,42 +1,42 @@
 ---
-title: Bulut çözümü sağlayıcısı programına genel bakış
+title: Bulut Çözümü Sağlayıcısı programa genel bakış
 ms.topic: article
 ms.date: 10/29/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
-description: İşletmenizin yeni müşterilerle ve yeni uzmanlığa karşı büyümesini sağlamak için bulut çözümü sağlayıcısı (CSP) programındaki avantajlar ve farklı modeller hakkında daha fazla bilgi edinin.
+ms.subservice: partnercenter-enroll
+description: İşletmenizin yeni müşteriler ve yeni uzmanlıklarla büyümesine yardımcı olmak için Bulut Çözümü Sağlayıcısı (CSP) programı kapsamındaki avantajlar ve farklı modeller hakkında daha fazla bilgi edinin.
 author: billlinzbach
 ms.author: billLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8afa7b060d2d78c7f2dfaee7007bb13756917d13
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 61117b77efdb447abad482654afc7220aa2bcce6
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110147573"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114842345"
 ---
 # <a name="cloud-solution-provider-program"></a>Bulut Çözümü Sağlayıcısı programı 
 
-**Uygun roller**: CSP hakkında daha fazla bilgi edinmek isteyen tüm iş ortakları
+**Uygun roller:** CSP hakkında daha fazla bilgi öğrenmek isteyen tüm iş ortakları
 
-Bu makale, bulut çözümü sağlayıcısı (CSP) programına genel bir bakış sağlar ve farklı işlem modellerinin ve gereksinimlerinin yanı sıra bu programda satıma hakkında diğer ayrıntıları da açıklar.  CSP programı, müşterilerinizin işletmelerinde daha fazla yer sağlamanıza yardımcı olur ve lisansları yeniden satmadan, ve aşağıdaki avantajları içerebilir: 
+Bu makale, Bulut Çözümü Sağlayıcısı (CSP) programına genel bir bakış sağlar ve farklı operasyonel modelleri ve bunların gereksinimlerini ve bu program aracılığıyla satışla ilgili diğer ayrıntıları açıklar.  CSP programı, lisansları yeniden satın almak dışında müşterilerimizin işletmeleri arasında daha fazla yer alamanıza yardımcı olur ve aşağıdaki avantajları içerebilir: 
 
-- Daha derin müşteri görevlendirmeleri: müşterilerinizle düzenli olarak toplantı, iş ve ihtiyaçlarını daha iyi anlayabileceğiniz anlamına gelir.
-- Daha fazla kazanç: kendi kendinize veya dolaylı bir sağlayıcı aracılığıyla daha fazla destek ve faturalandırma hizmeti sunma, yeni gelir akışları açar.  
-- Değer Ekle: müşterilere, Microsoft ürünleriyle paketlenmiş sektöre özgü çözümler sunabileceksiniz.
-- Yönetilen hizmetler sağla: yönetilen hizmetler için müşteri taleplerini karşılamak üzere iyi konumlanır. 
+- Daha derin müşteri etkileşimleri: Müşterilerinizle düzenli olarak toplantı yapmak, onların iş ve ihtiyaçlarını daha iyi anlamanız anlamına gelir.
+- Artan kar: İster kendi başına ister dolaylı bir sağlayıcı aracılığıyla daha fazla destek ve faturalama hizmeti sunarak yeni gelir akışları elde edersiniz.  
+- Değer ekleme: Müşterilere Microsoft ürünleriyle birlikte sektöre özgü çözümler sunabileceksiniz.
+- Yönetilen hizmetler sağlama: Yönetilen hizmetlere olan müşteri talebini karşılamak için uygun konumda oluruz. 
 
-## <a name="which-csp-model-is-best-for-me"></a>Benim için hangi CSP modeli en iyisidir?
+## <a name="which-csp-model-is-best-for-me"></a>Hangi CSP modeli benim için en iyisidir?
 
 ### <a name="indirect-model"></a>Dolaylı model
 
-Microsoft, bulut çözümü sağlayıcısı programına katılan tüm iş ortaklarının, işletmelerini büyütmeye yönelik en iyi modeli bulmasına yardımcı olur. Microsoft, iş ortaklarının bulut işletmelerini bulut çözümü sağlayıcısı programında başarıyla büyütmesine yardımcı olan bir genel dolaylı sağlayıcılar ağı oluşturdu. Dolaylı bir satıcı olarak katılarak, en aza küçültülmüş işlemsel karmaşıklık sayesinde pazara hazır olursunuz. 
+Microsoft, Bulut Çözümü Sağlayıcısı programına katılan tüm iş ortaklarının, işletmelerinin büyümesi için en iyi modeli bulmalarına yardımcı olur. Microsoft, iş ortaklarının bulut işletmelerini başarılı bir şekilde bu programda büyümesine yardımcı olan nitelikli dolaylı sağlayıcılardan Bulut Çözümü Sağlayıcısı ağına sahip. Dolaylı kurumsal bayi olarak katılarak, operasyonel karmaşıklığı en aza indirerek pazara gitme sürecinizi hızlandırabilirsiniz. 
 
-Dolaylı bir satıcı olarak, müşteri ilişkinizi yönetmenize yardımcı olacak araçlar ve kaynaklar sağlayabilen dolaylı sağlayıcılarla çalışabilirsiniz. Dolaylı modelle, müşteri desteği ve faturalandırma için sizinle işbirliği yapabileceğiniz bir dolaylı sağlayıcıdan satın alabilirsiniz.
-İhtiyacınız olacak: 
+Dolaylı kurumsal bayi olarak, müşteri ilişkilerinizi yönetmenize yardımcı olacak araçları ve kaynakları sağlayabiliyor dolaylı sağlayıcılarla çalışabilirsiniz. Dolaylı modelle, müşteri desteği ve faturalama için işbirliği yapan dolaylı bir sağlayıcıdan satın alabilirsiniz.
+Size gerekenler: 
 
-- Microsoft İş Ortağı Ağı ve MPN KIMLIĞINDE, satmak istediğiniz konum için etkin bir üyelik.
+- Satış yapmak istediğiniz Microsoft İş Ortağı Ağı mpN kimliği ve mpn kimliği için etkin bir üyelik.
 - Kuruluş adına yasal sözleşmeler imzalama olanağı
 - Bulut Çözümü Sağlayıcısı programında [resmi bir Microsoft](https://partnercenter.microsoft.com/partner/find-a-provider) dolaylı sağlayıcısıyla ilişki
 
@@ -51,27 +51,27 @@ Aşağıdaki güncelleştirilmiş doğrudan fatura kaydı gereksinimlerini ve ö
 - **Destek:** İş Ortakları için Microsoft Gelişmiş Destek paketiyle bire bir, öncelikli bulut desteği satın alarak destek özelliklerinizi genişletin. 7/24 yükseltilmiş kesme/düzeltme desteği ve bulut, karma ve şirket içi genelinde teknik hesap yönetimi gibi proaktif hizmetlerin tam kataloğuna erişmek için bir İş Ortakları için Microsoft Premier Destek paketi de seçebilirsiniz. Destek yükümlülüklerinizi Microsoft İş Ortağı Sözleşmesi için aşağıdaki gözden geçirmeyi gözden geçirme
 - **Performans gereksinimi:** Dolaylı kurumsal bayi olarak son on iki ay boyunca Bulut Çözümü Sağlayıcısı program yıllık geliri için en az 300.000 ABD dolarının olduğundan emin olmak. İş ortakları, son on iki aylık gelirlerini gözden geçirerek İş Ortağı Merkezi. On iki aylık geliri takip eden USD300.000 ABD doları geliri sağlayan satışlar Microsoft tarafından gözden geçirilecek ve doğrulanacak ve ek bilgi sağlamanız istenebilirsiniz. 300.000 ABD doları gelir gereksinimi bulut geliri temel alarak hesaplanır ve CSP'de kalıcı yazılımları dışlar.
 - Faturalama ve sağlama gibi en düşük altyapı özelliklerini karşılama
-- Satış yapmak istediğiniz konum Microsoft İş Ortağı Ağı MPN Kimliği'ne sahip etkin bir üyelik.
+- Satış yapmak istediğiniz Microsoft İş Ortağı Ağı mpN kimliği ve mpn kimliği için etkin bir üyelik.
 
 #### <a name="recommendations"></a>Öneriler
 
-- **Temel özellikleri gösterir:** En az bir yönetilen hizmet, IP hizmeti veya müşteri çözümü uygulaması sağlabileceğinizi gösterir. [Yönetilen hizmetler ekleme hakkında daha fazla bilgi edinin](https://partner.microsoft.com/solutions/managed-services). 
+- **Temel özellikleri gösterme:** En az bir yönetilen hizmet, IP hizmeti veya müşteri çözümü uygulaması sağlamayı gösterme. [Yönetilen hizmetler ekleme hakkında daha fazla bilgi.](https://partner.microsoft.com/solutions/managed-services) 
 
-## <a name="where-can-i-sell-through-the-csp-program"></a>CSP programını nereden satabilirim?
+## <a name="where-can-i-sell-through-the-csp-program"></a>CSP programı aracılığıyla nereden satabilirsiniz?
 
-Pazarınızı belirleyen şirketinizin konumudur. Pazarınız, CSP tekliflerini satabileceğiniz bölgeleri ve/veya ülkeleri kapsar. CSP pazarlarından ve para birimlerinden oluşan tüm liste için bkz. [bulut çözümü sağlayıcısı program bölgesel pazarlar ve para birimleri](regional-authorization-overview.md) .
+Pazarınızı belirleyen şirketinizin konumudur. Pazarınız, CSP tekliflerini satabileceğiniz bölgeleri ve/veya ülkeleri kapsar. CSP [Bulut Çözümü Sağlayıcısı tam listesi için](regional-authorization-overview.md) bkz. bölgesel pazarlar ve para birimleri için program bölgesel pazarları ve para birimleri.
 
-CSP tekliflerini bir müşteri adına sipariş etmeden önce, müşterinin Microsoft Müşteri sözleşmesini imzalaması gerekir. Müşterinin konumu için ilgili Microsoft Müşteri Sözleşmesi ' ni [buradan](agreements.md)edinebilirsiniz.  
+CsP tekliflerini müşteri adına sipariş etmek için önce müşterinin csp tekliflerini Microsoft Müşteri Sözleşmesi. Müşterinizin konumu için uygun Microsoft Müşteri Sözleşmesi için burada [bulabilirsiniz.](agreements.md)  
 
-## <a name="what-can-i-sell-through-the-csp-program"></a>CSP programı aracılığıyla neleri satırım?
+## <a name="what-can-i-sell-through-the-csp-program"></a>CSP programı aracılığıyla ne satabilirsiniz?
 
-[Microsoft bulut hizmetlerinin](https://partner.microsoft.com/cloud-solution-provider/products-and-services)tam aralığını ve sık değişen çeşitli ek teklifleri satabilirsiniz. Geçerli aya yönelik CSP tekliflerini görmek için Iş Ortağı Merkezi ' nde oturum açın ve ardından [**fiyatlandırma ve teklifler**](https://partnercenter.microsoft.com/pcv/sales) sayfasına gidin.
+Çok çeşitli Microsoft bulut hizmetlerinin [yanı sıra](https://partner.microsoft.com/cloud-solution-provider/products-and-services)sık sık değişime neden olan çeşitli ek teklifleri de satabilirsiniz. Geçerli aya göre CSP tekliflerini görmek için İş Ortağı Merkezi fiyatlandırma ve teklifler [**sayfasına**](https://partnercenter.microsoft.com/pcv/sales) gidin.
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
 - [CSP programına kaydolma](enrolling-in-the-csp-program.md)
-- [Her CSP modeli için gereksinimleri gözden geçirin](https://partnercenter.microsoft.com/partner/cloud-solution-provider)|
-- [Microsoft Ulusal bulutlarında satış için geçerlidir](csp-national-clouds-overview.md)
-- [Bölgeye ve dile göre Microsoft Müşteri anlaşmaları](agreements.md)
+- [Her CSP modeli için gereksinimleri gözden geçirme](https://partnercenter.microsoft.com/partner/cloud-solution-provider)|
+- [Microsoft ulusal bulutlarında satış için uygulama](csp-national-clouds-overview.md)
+- [Bölgeye ve dile göre Microsoft Müşteri Sözleşmeleri](agreements.md)
 - [Bulut Çözümü Sağlayıcısı programında dolaylı kurumsal bayilerle iş ortaklığı yapma](indirect-provider-tasks-in-partner-center.md)
-- [Bulut çözümü sağlayıcısı programındaki dolaylı sağlayıcılarla iş ortağı](indirect-reseller-tasks-in-partner-center.md)
+- [Bulut Çözümü Sağlayıcısı programda dolaylı sağlayıcılarla iş ortağı](indirect-reseller-tasks-in-partner-center.md)

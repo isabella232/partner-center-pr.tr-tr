@@ -3,18 +3,18 @@ title: Analizler Eğitim Panosu
 ms.topic: article
 ms.date: 06/16/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-insights
 description: Eğitim İş Ortağı Merkezi'i keşfedin. Eğitim, İş Ortağı Merkezi Analizler (PCI) alanında bulunan raporlardan birisidir.
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3b80944074666a161a4f5794a3c35ed3ca2d6376
-ms.sourcegitcommit: 4f1702683336d54f24c0ba283f7d13dda581923d
+ms.openlocfilehash: 8749bdc1c2249f97d5db288f953eded1c4c06b02
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/16/2021
-ms.locfileid: "114376881"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114843179"
 ---
 # <a name="trainings-dashboard"></a>Eğitimler panosu
 
@@ -28,7 +28,7 @@ Eğitimler panosu, şirket çalışanları şirketi tarafından alınan sertifik
 - Etkinlik ayrıntıları
 
 >[!NOTE] 
->Bu rapor, Analizler hub' İş Ortağı Merkezi. Bu raporu görüntülemek için Size Rapor görüntüleyicisi veya Yönetici rapor görüntüleyicisi rolü atanmış olması gerekir. Bu raporun birkaç bölümü yalnızca Yönetici Rapor Görüntüleyicileri olan kullanıcılar tarafından görülebilir. Raporlarda erişim denetimi hakkında daha fazla bilgi Analizler bkz. [PCI rolleri.](insights-roles.md)
+>Bu rapor, Analizler hub' İş Ortağı Merkezi. Bu raporu görüntülemek için Size Rapor görüntüleyicisi veya Yönetici rapor görüntüleyicisi rolü atanmalı. Bu raporun birkaç bölümü yalnızca Yönetici Rapor Görüntüleyicisi olan kullanıcılar tarafından görülebilir. Raporlarda erişim denetimi hakkında daha fazla bilgi Analizler bkz. [PCI rolleri.](insights-roles.md)
 
 ## <a name="summary"></a>Özet
 
@@ -40,7 +40,7 @@ Eğitimler panosu, şirket çalışanları şirketi tarafından alınan sertifik
 - **Sertifikasyon sayısı:** Şirketiniz içinde yer alan kişilerin toplam sertifika sayısını temsil eder.
 - **Değerlendirmeleri olan bireyler:** şirketinizin değerlendirme kimlik bilgilerine sahip olan ayrı bireylerin sayısını temsil eder. 
 - **Değerlendirme sayısı:** şirketinizin bireyleri tarafından yapılan toplam değerlendirme sayısını temsil eder.
-- **Sınavları olan bireyler:** şirketiniz içinde sınav kimlik bilgilerine sahip olan ayrı bireylerin sayısını temsil eder. 
+- **Sınavları olan bireyler:** Şirketiniz içinde sınav kimlik bilgilerine sahip olan ayrı bireylerin sayısını temsil eder. 
 - **Sınav sayısı:** Şirketinizin bireyleri tarafından yapılan toplam sınav sayısını temsil eder.
 
 ## <a name="training-performance"></a>Eğitim performansı
@@ -56,7 +56,7 @@ Kişiler'in performans bölümünde, seçilen tarih aralığı için şirketiniz
 :::image type="content" source="images/insights/training-dashboard-individual-performance.png" alt-text="Bireysel Performans.":::
 
 >[!NOTE] 
-> Kişiler performansı bölümü yalnızca yönetici rapor görüntüleyicisi olan kullanıcılar tarafından kullanılabilir. 
+> Bireysel performans bölümü yalnızca yönetici rapor görüntüleyicisi olan kullanıcılar tarafından kullanılabilir. 
 
 ## <a name="next-steps"></a>Sonraki Adımlar
 

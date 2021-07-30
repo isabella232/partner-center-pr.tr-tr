@@ -9,12 +9,12 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 74606a4c7f52e5aa23f7e963cab27e491c436b59
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: a8703d9a8c482ac3fba5497780b2f5163bf86061
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110149035"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114842668"
 ---
 # <a name="view-earnings-using-the-chip-tool"></a>YONGA aracını kullanarak kazançları görüntüleme
 
@@ -37,7 +37,7 @@ Teşvikleri deyiminize Channel teşvikleri platform Tool (yonga) aracılığıyl
 |**Sekme**|**Tanım**|
 |-------------|--------------------------|
 |DetailReport-Flatfile|Müşteri adı, sözleşme, Manya ayrıntıları dahil olmak üzere seçili zaman aralığı için teşvikleri programına ilişkin ayrıntıları içerir|
-|DeltaReport-Pivot|Yalnızca Enterprise için yayımlanan son bildiri güncelleştirmeleri|
+|DeltaReport-Pivot|yalnızca Enterprise için son yayımlanan deyimlerden güncelleştirmeler|
 |DetailReport-Pivot|Para birimi ve ödeme tutarı dahil olmak üzere ödeme ayrıntılarının Özeti|
 |Başarı ayrıntıları|Yalnızca SPLAR için taban çizgisi değeri, başarı ve büyüme yüzdesi|
 
