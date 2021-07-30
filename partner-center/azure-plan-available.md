@@ -1,39 +1,39 @@
 ---
 title: Azure CSP’de sağlanan Azure hizmetleri
-description: Bu makalede, Azure Bulut Çözümü Sağlayıcısı (CSP) programında mevcut Azure Bulut Çözümü Sağlayıcısı Azure hizmetleri açıklanmıştır.
+description: bu makalede, azure Bulut Çözümü Sağlayıcısı (CSP) programında bulunmayan ve kullanılamayan azure hizmetleri açıklanmaktadır.
 ms.topic: article
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-pricing
 author: amitravat
 ms.author: amrava
 ms.localizationpriority: high
 ms.date: 05/13/2020
 ms.custom: SEOMAY.20
-ms.openlocfilehash: da97dded531b6792a4468d9be9b63367f818b352
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 3147836916f827e6962fb436b74d9ce1716d9f4a
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110149749"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114841683"
 ---
-# <a name="azure-services-available-in-the-azure-cloud-solution-provider-csp-program"></a>Azure Bulut Çözümü Sağlayıcısı (CSP) programında kullanılabilen Azure hizmetleri
+# <a name="azure-services-available-in-the-azure-cloud-solution-provider-csp-program"></a>azure Bulut Çözümü Sağlayıcısı (CSP) programında bulunan azure hizmetleri
 
-**Uygun roller:** Yönetici aracısı | Faturalama yöneticisi | Genel yönetici | Yardım masası aracısı | Satış aracısı | Kullanıcı yönetimi yöneticisi
+**Uygun roller**: yönetici Aracısı | Faturalandırma Yöneticisi | Genel yönetici | Yardım Masası Aracısı | Satış Aracısı | Kullanıcı Yönetimi Yöneticisi
 
 ## <a name="available-azure-services-in-azure-csp"></a>Azure CSP’de sağlanan Azure hizmetleri
 
-Bu makalede, Azure Bulut Çözümü Sağlayıcısı (CSP) programında mevcut Azure Bulut Çözümü Sağlayıcısı Azure hizmetleri listelemektedir. Ayrıca, ulusal bulutlarda hizmet kullanılabilirliğini ve [Microsoft Azure Almanya](https://azure.microsoft.com/overview/clouds/germany/) [Microsoft Azure Kamu.](https://azure.microsoft.com/overview/clouds/government/)
+bu makalede, azure Bulut Çözümü Sağlayıcısı (CSP) programında bulunmayan ve kullanılamayan azure hizmetleri listelenir. ayrıca, almanya ve [Microsoft Azure kamu](https://azure.microsoft.com/overview/clouds/government/) [Microsoft Azure](https://azure.microsoft.com/overview/clouds/germany/) ulusal bulutlarda hizmet kullanılabilirliği de ele alınmaktadır.
 
 >[!Note]
-> [Azure Çin,](https://www.azure.cn/) Azure CSP programda kullanılamaz.
+> Azure [Çin](https://www.azure.cn/) , Azure CSP programında kullanılamaz.
 
-## <a name="global-cloud"></a>Küresel Bulut
+## <a name="global-cloud"></a>Küresel bulut
 
-Azure Resource Manager tabanlı tüm hizmetler CSP Programı'da kullanılabilir.  CsP Azure Resource Manager olmayan hizmetler kullanılamaz.  
+Azure Resource Manager modeli temel alan tüm hizmetler CSP programında kullanılabilir.  Azure Resource Manager olmayan hizmetler CSP programında kullanılamaz.  
 
-## <a name="csp-specific-service-configurations"></a>CSP-Specific Hizmeti Yapılandırmaları
+## <a name="csp-specific-service-configurations"></a>CSP-Specific hizmeti yapılandırması
 
-Aşağıdaki hizmetler CSP'de özel yapılandırmalar gerektirir:
+Aşağıdaki hizmetler CSP 'de özel yapılandırma gerektirir:
 
 - [StorSimple](/azure/storsimple/storsimple-partner-csp-overview)
 
@@ -41,31 +41,31 @@ Aşağıdaki hizmetler CSP'de özel yapılandırmalar gerektirir:
 
 - [Anahtar Kasası](https://azurecsp.blob.core.windows.net/files/key-vault-in-csp.docx)
 
-- [Azure Time Series Insights](https://azure.microsoft.com/services/time-series-insights/) Yalnızca müşteri kiracısı kullanıcıları kendi kiracı ortamındaki verilere Time Series Insights erişebilirsiniz. İş ortakları, varsayılan Time Series Insights müşteri ortamını yönetebilir, ancak bu ortamdaki verilere erişmeleri gerekirse, bunların müşteri kiracısına eklenmeleri gerekir.
+- [Azure Time Series Insights](https://azure.microsoft.com/services/time-series-insights/) yalnızca müşteri kiracısındaki kullanıcılar Time Series Insights ortamındaki verilere erişebilir. iş ortakları, varsayılan olarak müşterilerinin Time Series Insights ortamını yönetebilir, ancak içindeki verilere erişmesi gerekiyorsa, müşteri kiracısına eklenmeleri gerekir.
 
 ## <a name="visual-studio-marketplace"></a>Visual Studio Market
 
-Artık üçüncü taraf uzantıları hariç olmak Visual Studio Market aşağıda listelenen öğeleri satın alın.
+artık Visual Studio market 'ten aşağıda listelenen öğeleri üçüncü taraf uzantıları dışında satın alabilirsiniz.
 
 - [Azure DevOps](https://www.visualstudio.com/team-services/)
 
 - [Visual Studio abonelikleri](https://www.visualstudio.com/subscriptions/)
 
-- [Xamarin University eğitim](https://marketplace.visualstudio.com/items?itemName=ms.xamarin-university)
+- [Xamarin University eğitimi](https://marketplace.visualstudio.com/items?itemName=ms.xamarin-university)
 
-Çalışmaya başlamanıza yardımcı olmak için, CSP'de çalışmalarınızı [ayarlama,](/vsts/billing/csp/set-up-csp-customer) satın alma ve yönetme hakkında Azure DevOps belgeler oluşturduk.
+başlamanıza yardımcı olmak için, CSP 'de [Azure DevOps ayarlama, satın alma ve yönetme](/vsts/billing/csp/set-up-csp-customer) ile ilgili videoları ve belgeleri oluşturduk.
 
 ## <a name="azure-marketplace-items-in-azure-csp"></a>Azure CSP’de Azure Market öğeleri
 
-Tüm Azure Market şu anda aboneliklerde Azure CSP yoktur.
+Azure Marketi öğelerinin hepsi Azure CSP aboneliklerinde Şu anda kullanılabilir değil.
 
-- Microsoft tabanlı Azure hizmetleri: Bu hizmetler kullanılabilir. Önceki tabloyu ve yorumları gözden geçirme.
+- Microsoft tabanlı Azure hizmetleri: Bu hizmetler kullanılabilir. Önceki tablo ve açıklamaları gözden geçirin.
 
-- Kendi lisansını getir (BYOL) öğeleri: Bu öğeler kullanılabilir. KLG özellikli Azure Marketi öğelerinin tam listesi [Azure MARKETI KLG sayfasında](https://azuremarketplace.microsoft.com/marketplace/apps?filters=byol)bulunabilir.
+- Kendi lisansını getir (KLG) öğeleri: Bu öğeler kullanılabilir. KLG özellikli Azure Marketi öğelerinin tam listesi [Azure MARKETI KLG sayfasında](https://azuremarketplace.microsoft.com/marketplace/apps?filters=byol)bulunabilir.
 
 - Kullandıkça Öde üçüncü taraf Azure Market öğeleri: Bu öğeler, sağlayıcı CSP kanalına yayımlanmışsa kullanılabilir. Daha fazla bilgi için bkz. [Azure Market ürünlerine abonelik satma](csp-commercial-marketplace-overview.md).
 
-- Citrix XenApp Essentials: Iş ortakları, CSP 'de müşteriler için XenApp Essentials satın alabilir. Daha fazla bilgi için, [Microsoft bulut çözüm sağlayıcısı kanalı aracılığıyla XenApp Essentials](https://www.citrix.com/blogs/2018/02/01/xenapp-essentials-now-available-through-microsoft-cloud-solution-provider-channel/)aşağıdaki Citrix blog dağıtımına bakın.
+- Citrix XenApp Essentials: Iş ortakları, CSP 'de müşteriler için XenApp Essentials satın alabilir. daha fazla bilgi için, [Microsoft Bulut Çözümü Sağlayıcısı kanal aracılığıyla XenApp Essentials](https://www.citrix.com/blogs/2018/02/01/xenapp-essentials-now-available-through-microsoft-cloud-solution-provider-channel/)şu Citrix web günlüğü dağıtımı ' na bakın.
 
 ## <a name="national-clouds"></a>Ulusal bulutlar
 
@@ -104,7 +104,7 @@ Aşağıdaki tabloda, Ulusal bulutlarda CSP için kullanılabilir birinci taraf 
 |  Media Services  |  X  |  X  |
 |  Notification Hubs  |  X  |  X  |
 |  Azure Search  |    |    |
-|  Azure App Service Logic Apps özelliği  |    |    |
+|  Logic Apps özelliğini Azure App Service  |    |    |
 |  **Kapsayıcılar**  |    |    |
 |  App Service  |  X  |  X  |
 |  Linux’ta App Service  |    |  X  |
@@ -146,7 +146,7 @@ Aşağıdaki tabloda, Ulusal bulutlarda CSP için kullanılabilir birinci taraf 
 |  Location-Based Hizmetleri  |    |    |
 |  Notification Hubs  |  X  |  X  |
 |  Time Series Insights  |    |    |
-|  **Kurumsal Tümleştirme**  |    |    |
+|  **Enterprise Entegrasyon**  |    |    |
 |  StorSimple  |  X  |    |
 |  API Management  |    |    |
 |  Event Grid  |    |    |
@@ -154,7 +154,7 @@ Aşağıdaki tabloda, Ulusal bulutlarda CSP için kullanılabilir birinci taraf 
 |  Service Bus  |  X  |  X  |
 |  Veri Kataloğu  |    |    |
 |  SQL Server Stretch Database  |    |  X  |
-|  Azure App Service Logic Apps özelliği  |    |    |
+|  Logic Apps özelliğini Azure App Service  |    |    |
 |  **Güvenlik ve Kimlik**  |    |    |
 |  Azure Active Directory  |  X  |  X  |
 |  Azure Active Directory B2C  |    |    |
@@ -176,12 +176,12 @@ Aşağıdaki tabloda, Ulusal bulutlarda CSP için kullanılabilir birinci taraf 
 |  Otomasyon  |  X  |  X  |
 |  Log Analytics  |  X  |    |
 |  Azure İzleyici  |    |    |
-|  Azure-Managed uygulamalar  |    |    |
+|  Azure-Managed Uygulamaları  |    |    |
 |  Azure Geçişi  |    |    |
 |  Yönetim Grupları  |    |  
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-- Iş Ortağı Merkezi 'nde Azure için kullanılabilen yetenekler hakkında [bilgi edinin](/azure/cloud-solution-provider/overview/partner-center-overview) .
+- [Azure](/azure/cloud-solution-provider/overview/partner-center-overview) için kullanılabilir özellikler hakkında bilgi edinin İş Ortağı Merkezi.
 
-- Azure CSP 'de ilk müşteriyi [oluşturun](/azure/cloud-solution-provider/customer-management/create-new-customer) ve Azure hizmetlerini dağıtın.
+- [Şirket](/azure/cloud-solution-provider/customer-management/create-new-customer) içinde ilk müşterinizi Azure CSP Azure hizmetlerini dağıtın.

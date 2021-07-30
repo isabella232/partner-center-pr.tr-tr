@@ -3,18 +3,18 @@ title: Başvuru-Iş ortağı merkezi faturalama makaleleri
 description: Iş Ortağı Merkezi ' nde faturalandırma ve vergi konuları hakkında bilgi edinin. Bilgiler faturalandırma kaynakları, faturalar, CSP faturalandırma ve vergileri içerir.
 ms.topic: article
 ms.service: partner-dashboard
-ms.subservice: partnercenter-mpn
+ms.subservice: partnercenter-billing
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 04/05/2020
-ms.openlocfilehash: 03880b4ae9483b4b49410364eabdafdccbcabcdc
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: bb7bea476a79096890e3ae33c0256200eae18968
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110149205"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114840748"
 ---
 # <a name="overview-main-billing-and-tax-articles-in-partner-center"></a>Genel Bakış: Iş Ortağı Merkezi 'nde ana faturalandırma ve vergi makaleleri
 
@@ -34,9 +34,9 @@ Bu makalede faturalandırma kaynakları, faturalar, CSP faturalandırma ve vergi
 | [Vergi sorumlulukları ve muafiyetleri](tax-and-tax-exemptions.md) | Iş Ortağı Merkezi satışları için vergi sorumluluklarınızın ve vergi muafiyetlerinin açıklaması. |
 | [Azure harcama bütçesi](set-an-azure-spending-budget-for-your-customers.md) | Müşterileriniz için bir Azure harcama bütçesi ayarlama. |
 | [Ödeme olmayan, sahtekarlık veya kötüye kullanma](non-payment-fraud-misuse.md) | Iş Ortağı Merkezi 'nde müşterileriniz tarafından ödeme dışı, sahtekarlık veya kötüye kullanımı yönetme. |
-| [Kesintiler için SLA kredisi isteği](request-credit.md) | Hizmet kesintisi olduğunda müşterileriniz için Microsoft'tan SLA kredisi talep etmek. |
+| [Kesintiler için SLA Kredisi isteme](request-credit.md) | Hizmet kesintisi olduğunda müşterileriniz için Microsoft 'tan bir SLA Kredisi isteği isteme. |
 
-Api faturalama bilgilerini İş Ortağı Merkezi kaynakları arıyorsanız, geliştirici faturalama [belgelerine bakın.](/partner-center/develop/manage-billing)
+Iş Ortağı Merkezi API faturalandırma bilgilerini ve kaynaklarını arıyorsanız, bkz. [Geliştirici faturalandırma belgeleri](/partner-center/develop/manage-billing).
 
 ## <a name="next-steps"></a>Sonraki adımlar
 

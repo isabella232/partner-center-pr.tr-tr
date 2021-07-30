@@ -3,18 +3,18 @@ title: Yönetilen hizmetler için iş ortağı kazanılmış kredisi
 ms.topic: article
 ms.date: 07/22/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-pricing
 description: Yönetilen hizmetler için Microsoft iş ortağı kredisi (PEC) nasıl hesaplanacağını ve ödendiğini ve uygun şekilde nasıl emin olduğunuzu öğrenin.
 author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b6574f7eaec230c9808564bedda4a5d3809b8aa4
-ms.sourcegitcommit: d133c8b923b90ac5518cb989c0ce4dd69713abf4
+ms.openlocfilehash: 6af1e55ffdd1b807c71914ba3247ecc2d189c6ad
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "114434158"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114839949"
 ---
 # <a name="how-the-partner-earned-credit-is-calculated-and-paid"></a>İş ortağı kazanılmış kredisinin hesaplanması ve ödenmesi
 

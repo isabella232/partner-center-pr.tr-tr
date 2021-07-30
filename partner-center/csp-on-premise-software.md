@@ -3,18 +3,18 @@ title: CSP aracılığıyla şirket içi yazılım satma
 ms.topic: how-to
 ms.date: 03/08/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-customers
 description: CSP programındaki iş ortaklarının, Iş Ortağı Merkezi 'nde müşteriler adına şirket içi yazılım abonelikleri satın alabilir, yönetebilir, satmasını ve iptal edebilmesini öğrenin.
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e304f1f852437412ebf6be161a663fcabe02f027
-ms.sourcegitcommit: d133c8b923b90ac5518cb989c0ce4dd69713abf4
+ms.openlocfilehash: 4e55e3069dc7e086ecac10d11e92e70942d63b78
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "114433971"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114841411"
 ---
 # <a name="sell-on-premises-software-through-the-cloud-solution-provider-csp-program"></a>Bulut Çözümü Sağlayıcısı (CSP) programı aracılığıyla şirket içi yazılım satma
 

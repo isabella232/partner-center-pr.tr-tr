@@ -3,18 +3,18 @@ title: Müşterilerinizle bağlantı kurma
 description: CSP programında dolaylı bir satıcıysanız, bu makale yeni ve mevcut müşterilerinizle bağlantı sağlamanıza yardımcı olur.
 ms.topic: how-to
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-customers
 ms.custom: contperf-fy21q2
 author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.date: 10/12/2020
-ms.openlocfilehash: 6fe2eb7af3fbfa826496c1de409675cd84d92ef5
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 9d9798bdbf83bbe7d812f5bbf83b81fb8fcde373
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110148440"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114840289"
 ---
 # <a name="connect-with-customers"></a>Müşterilerle bağlantı kurma
 
@@ -24,9 +24,9 @@ ms.locfileid: "110148440"
 
 Iş ortağı merkezindeki müşterilerle Transact için, müşterilerinizin Iş Ortağı Merkezi hesapları olması ve bunlarla birlikte satıcı ilişkileri oluşturmanız gerekir. Dolaylı sağlayıcınızın müşterilerinizin adına abonelik ve hizmet satın almasını sağlamak için, sağlayıcının müşterilerle olan satıcı ilişkilerine de sahip olması gerekir.
 
-## <a name="connect-with-existing-customers"></a>Mevcut müşterilerle bağlanma
+## <a name="connect-with-existing-customers"></a>mevcut müşterilerle Bağlan
 
-Dolaylı bir satıcı olarak başarıyla kaydolduktan sonra, iş ortağı merkezi 'nde zaten diğer portallarda iş yaptığınız müşterilerin aynısını görürsünüz. Bu tür diğer portallar Office 365 Yönetim merkezini veya Azure portal içerir. Müşteri listenizi görmek için **Iş Ortağı Merkezi** menüsünden **müşteriler** ' i seçin.
+Dolaylı bir satıcı olarak başarıyla kaydolduktan sonra, iş ortağı merkezi 'nde zaten diğer portallarda iş yaptığınız müşterilerin aynısını görürsünüz. bu tür diğer portallar Office 365 yönetim merkezi veya Azure portal içerir. Müşteri listenizi görmek için **Iş Ortağı Merkezi** menüsünden **müşteriler** ' i seçin.
 
 Dolaylı bir sağlayıcıya bağlandığınızda, dolaylı sağlayıcının müşterilerine otomatik olarak sahip olursunuz. Benzer şekilde, kendi kendinize veya dolaylı sağlayıcınız aracılığıyla çalıştığınız müşteriler iş ortağı merkezi 'nde kayıt yaptığınızda müşteri listenizde otomatik olarak görünmez. Iş Ortağı Merkezi ' nde Transact için müşterilerle bir satıcı ilişkisi kurmanız gerekir.  Bunu yapmak için, aşağıda açıklandığı gibi Iş Ortağı Merkezi 'nde sizinle bağlantı kurmak için onlara bir davet e-postası gönderin.
 
@@ -44,7 +44,7 @@ Dolaylı bir sağlayıcıya bağlandığınızda, dolaylı sağlayıcının mü�
 
 5. Müşterinin hesabını, hizmetlerini, kullanıcılarını ve lisanslarını yönetmek için, adının yanındaki aşağı oku seçerek müşterinin kaydını genişletin.
 
-## <a name="connect-with-new-customers"></a>Yeni müşterilerle bağlanma
+## <a name="connect-with-new-customers"></a>yeni müşterilerle Bağlan
 
 Yeni müşterileri çektireceksiniz, Iş Ortağı Merkezi ' nde bunlarla bağlanmanız gerekir. Aşağıdakiler dahil olmak üzere birden çok kanaldan yeni müşteriler alabilirsiniz:
 

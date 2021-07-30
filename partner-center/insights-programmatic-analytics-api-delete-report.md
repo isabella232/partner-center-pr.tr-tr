@@ -1,25 +1,25 @@
 ---
-title: rapor apı 'si Analizler verileri silme
+title: Rapor API'sini silme - Analizler silme
 ms.topic: reference
 ms.date: 07/14/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
-description: Iş Ortağı Merkezi öngörülerine ait herhangi bir raporu silmek için bu API 'yi kullanın.
+ms.subservice: partnercenter-insights
+description: Bu API'yi kullanarak içgörüler için İş Ortağı Merkezi silin.
 author: kshitishsahoo
 ms.author: ksahoo
 ms.localizationpriority: medium
-ms.openlocfilehash: e060104f8f09f69c213ab1b22d4be08d58babced
-ms.sourcegitcommit: 4f1702683336d54f24c0ba283f7d13dda581923d
+ms.openlocfilehash: a8a94fc1a6e69bab0a7671bd27949e271a77dbbe
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/16/2021
-ms.locfileid: "114377422"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114840068"
 ---
-# <a name="delete-report-api"></a>Rapor API 'sini Sil
+# <a name="delete-report-api"></a>Rapor API'sini silme
 
-Bu API, yürütme sırasında tüm rapor ve rapor yürütme kayıtlarını siler.
+Yürütme sırasında bu API tüm rapor ve rapor yürütme kayıtlarını siler.
 
-**İstek sözdizimi**
+**İstek söz dizimi**
 
 |    Yöntem    |    İstek URI'si    |
 |    ----    |    ----    |
@@ -28,9 +28,9 @@ Bu API, yürütme sırasında tüm rapor ve rapor yürütme kayıtlarını siler
 
 **İstek üst bilgisi**
 
-|    Üst bilgi    |    Tür    |    Açıklama    |
+|    Üst bilgi    |    Tür    |    Description    |
 |    ----    |    ----    |    ----    |
-|    Yetkilendirme    |    string    |    Gereklidir. formdaki Azure Active Directory (AAD) erişim belirteci`Bearer <token>`    |
+|    Yetkilendirme    |    string    |    Gereklidir. Formda Azure Active Directory (AAD) erişim belirteci`Bearer <token>`    |
 |    İçerik Türü    |    string    |    `Application/JSON`    |
 |        |        |        |
 
@@ -38,7 +38,7 @@ Bu API, yürütme sırasında tüm rapor ve rapor yürütme kayıtlarını siler
 
 |    Parametre Adı    |    Tür    |    Gerekli    |    Açıklama    |
 |    ----    |    ----    |    ----    |    ----    |
-|    reportId     |    dize    |    No    |    Silinen raporun KIMLIĞI    |
+|    reportId     |    dize    |    No    |    Silinen raporun kimliği    |
 |        |        |        |        |
 
 **Sorgu parametresi**
@@ -55,7 +55,7 @@ Hiçbiri
 
 **Response**
 
-Yanıt yükü aşağıdaki şekilde yapılandırılır:
+Yanıt yükü aşağıdaki gibi yapılandırılmıştır:
 
 Yanıt kodu: 200, 400, 401, 403, 404, 500
 
@@ -91,27 +91,27 @@ Yanıt yükü örneği:
 
 **Sözlük**
 
-Bu tablo, yanıttaki anahtar öğeleri tanımlar:
+Bu tablo yanıtta önemli öğeleri tanımlar:
 
 |    Parametre    |    Açıklama    |
 |    ----    |    ----    |
-|    REPORTID     |    Silinen raporun evrensel benzersiz tanımlayıcısı (UUID)     |
-|    ReportName     |    Oluşturma sırasında rapora verilen ad     |
-|    Açıklama     |    Raporun oluşturulması sırasında verilen açıklama     |
-|    QueryId     |    Rapor oluşturulduğu sırada geçirilen sorgu KIMLIĞI     |
+|    ReportId     |    Silinen raporun evrensel olarak benzersiz tanımlayıcısı (UUID)     |
+|    Raporadı     |    Oluşturma sırasında rapora verilen ad     |
+|    Description     |    Rapor oluşturma sırasında verilen açıklama     |
+|    Queryıd     |    Sorgu kimliği raporun oluşturulma zamanında geçirildi     |
 |    Sorgu     |    Bu rapor için yürütülecek sorgu metni     |
-|    Kullanıcı     |    Raporu oluşturmak için kullanılan Kullanıcı KIMLIĞI     |
-|    CreatedTime     |    Raporun oluşturulduğu zaman. Saat biçimi yyyy-MM-ddTHH: mm: ssZ şeklindedir     |
-|    ModifiedTime     |    Raporun son değiştirilme zamanı. Saat biçimi yyyy-MM-ddTHH: mm: ssZ şeklindedir     |
-|    ExecuteNow     |    ExecuteNow bayrağı rapor oluşturulduğu sırada ayarlandı     |
-|    StartTime     |    Rapor yürütmenin başlayacağı zaman. Saat biçimi yyyy-MM-ddTHH: mm: ssZ şeklindedir     |
-|    ReportStatus     |    Rapor yürütmenin durumu. Olası değerler duraklatıldı, etkin ve etkin değildir.     |
-|    Recurrenceınterval     |    Rapor oluşturma sırasında belirtilen yinelenme aralığı     |
-|    RecurrenceCount     |    Rapor oluşturma sırasında belirtilen yinelenme sayısı     |
-|    CallbackUrl     |    İstekte belirtilen geri çağırma URL 'SI     |
-|    CallbackMethod    |    İstekte belirtilen geri çağırma yöntemi    |
+|    Kullanıcı     |    Raporu oluşturmak için kullanılan kullanıcı kimliği     |
+|    CreatedTime     |    Raporun oluşturulma zamanı. Saat biçimi yyyy-MM-ddTHH:mm:ssZ'dir     |
+|    ModifiedTime     |    Raporun en son değiştirilma zamanı. Saat biçimi yyyy-MM-ddTHH:mm:ssZ'dir     |
+|    ExecuteNow     |    Raporun oluşturulma zamanında ayarlanmış ExecuteNow bayrağı     |
+|    StartTime     |    Rapor yürütmenin başlayacağı zaman. Saat biçimi yyyy-MM-ddTHH:mm:ssZ'dir     |
+|    ReportStatus     |    Rapor yürütme durumu. Olası değerler Duraklatılmış, Etkin ve Devre Dışı'dır.     |
+|    RecurrenceInterval     |    Rapor oluşturma sırasında sağlanan yinelenme aralığı     |
+|    RecurrenceCount     |    Rapor oluşturma sırasında sağlanan yinelenme sayısı     |
+|    CallbackUrl     |    İstekte sağlanan geri çağırma URL'si     |
+|    CallbackMethod    |    İstekte sağlanan geri çağırma yöntemi    |
 |    Biçimlendir     |    Rapor dosyalarının biçimi     |
-|    TotalCount     |    Değer dizisindeki veri kümesi sayısı     |
-|    İleti     |    API 'nin yürütülmesindeki durum iletisi     |
-|    Durum     |    Sonuç kodu. Olası değerler 200, 400, 401, 403, 500     |
+|    TotalCount     |    Değer dizisinde veri kümesi sayısı     |
+|    İleti     |    API'nin yürütülmesinden gelen durum iletisi     |
+|    Statuscode     |    Sonuç Kodu. Olası değerler: 200, 400, 401, 403, 500     |
 |        |        |

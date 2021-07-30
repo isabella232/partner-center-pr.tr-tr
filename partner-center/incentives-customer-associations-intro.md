@@ -8,12 +8,12 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 05/20/2021
-ms.openlocfilehash: 9bcdd9e99f9db5271a1ca51dab01c376c938acc9
-ms.sourcegitcommit: 75b84d0918802325019577930d368bc3df193ab2
+ms.openlocfilehash: b540f3f667095704bddd78873faac94246fbf59a
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/21/2021
-ms.locfileid: "110236092"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114840408"
 ---
 # <a name="use-these-resources-to-make-customer-association-claims-for-specific-incentives-programs"></a>Belirli teşvikleri programları için müşteri ilişkisi talepleri oluşturmak üzere bu kaynakları kullanın
 
@@ -21,7 +21,7 @@ ms.locfileid: "110236092"
 
 Bu makalede, aşağıdaki ölçütlere uyan Microsoft iş ortakları için kaynaklar paylaşır:
 
-- Şu Microsoft teşvikleri programlarının bir parçası olursunuz: çevrimiçi hizmetler Danışma belgesi (OSA) satışı, çevrimiçi hizmetler kullanımı (OSU)-Microsoft 365 ve OSU-Business Application teşvikleri.
+- şu Microsoft teşvikleri programlarının bir parçası olursunuz: çevrimiçi hizmetler danışma belgesi (OSA) satışı, çevrimiçi hizmetler kullanımı (OSU)-Microsoft 365 ve OSU-Business Application teşvikleri.
 
 - Microsoft 365 veya Dynamics 365 müşterileri ile çalışırsınız ve yukarıdaki teşvik programlarında bu çalışmanın bir kısmını referans veya talep etmek isteyebilirsiniz.
 
@@ -33,26 +33,26 @@ CPOR, Microsoft 'un müşterilerin iş hedeflerine ve bulutta değer elde etmele
 
 ## <a name="how-do-customer-associations-and-cpor-relate-to-incentives"></a>Müşteri ilişkileri ve cpnasıl yapılır veya teşvikleri ile nasıl ilişkili?
 
-Microsoft artık Talepte Bulunan Kayıtlı İş Ortağı ve Dynamics 365 müşterilerinizle olan ilişkilendirmelerinizi yönetmek için Microsoft 365 (CPOR) modelini kullanıyor.
+Microsoft artık, Microsoft 365 ve Dynamics 365 müşterilerinizle sahip olduğunuz ilişkilendirmeleri yönetmek için kayıt iş ortağı (cpor) modeli kullanır.
 
-Bu model şu teşvik programlarında müşterileriniz için geçerlidir: Çevrimiçi Hizmetler Danışmanlığı (OSA) Satış, Çevrimiçi Hizmet Kullanımı (OSU)-Microsoft 365 ve OSU-Business Uygulama teşvikleri.
+bu model, şu teşvikleri programlarındaki müşterilerle çalışmanız için geçerlidir: çevrimiçi hizmetler danışma belgesi (OSA) satışı, çevrimiçi hizmetler kullanımı (OSU)-Microsoft 365 ve OSU-Business Application teşvikleri.
 
-Microsoft tüm teşvik taleplerini doğrular.
+Microsoft tüm teşvikleri taleplerini doğrular.
 
-Bu noktada sizden daha fazla bilgi istememiz gerekir. Ayrıca müşteriye ilişkilendirme isteğinizi bildirerek. Müşterilerin geri almak için beş iş günü vardır. Kabul etmezlerse, bu kiracıyla ve iş yüküyle olan ilişkilendirmeniz resmi olur.
+Bu noktada daha fazla bilgi için sizden sorun yaşayabilirsiniz. İlişki isteğinizin müşterisini de bilgilendireceğiz. Müşterilerin kabul etmek için beş iş günü vardır. Devre dışı kalmazsanız, bu belirli kiracı ve iş yüküyle olan ilişkilendirmeniz resmi olur.
 
-İlişki verme isteğinizi kabul eden müşteri, size bazı verilerine erişim izni vererek yönetim hizmetleri sağlamanızı sağlar. 
+İlişki isteğiniz kabul edildiğinde, müşteri bu kullanıcılara Yönetim Hizmetleri sağlayabilmeniz için bazı verilerine erişmenizi sağlar. 
 
 ## <a name="resources-to-help-you-create-and-manage-customer-associations"></a>Müşteri ilişkilendirmeleri oluşturmanıza ve yönetmenize yardımcı olacak kaynaklar
 
 
 |  **Bunu yapmak için**  |  **Bunu okuyun**  |
 |--------------|-----------|
-| Müşteri ilişkilendirmesi oluşturma hakkında bilgi  | [CPOR modelini kullanarak müşteri ilişkilendirmesi oluşturma](submit-osa-claim.md)  |
-|Müşteri ilişkilendirmelerinizi yönetmeyi anlama  | [Müşteri ilişkilendirmelerini yönetme](incentives-manage-customer-associations.md)  |
+| Müşteri ilişkilendirmesi oluşturmayı öğrenin  | [CPOR modelini kullanarak bir müşteri ilişkilendirmesi oluşturma](submit-osa-claim.md)  |
+|Müşteri ilişklarınızın nasıl yönetileceğini anlayın  | [Müşteri ilişkilendirmelerini yönetme](incentives-manage-customer-associations.md)  |
 |Müşteri ilişkilendirme sorunlarını giderme  | [Müşteri ilişkilendirme sorunları](incentives-customer-association-issues.md)  |
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-- Teşvikler yeni mi? Çalışmaya başlama için nelere [ihtiyacınız olduğunu keşfetme](incentives-get-started-intro.md)
-- İşbirliği talepleri hakkında [daha fazla bilgi edinmek için](claims-overview.md)
+- Teşvikleri için yeni misiniz? [Kullanmaya](incentives-get-started-intro.md) başlamak için gerekenleri öğrenin
+- [Teşvikleri Co-op talepleri](claims-overview.md) hakkında daha fazla bilgi edinin

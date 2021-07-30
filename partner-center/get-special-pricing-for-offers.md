@@ -4,23 +4,23 @@ description: Eğitim müşterileri, kar amacı gütmeyen müşteriler ve kamu ku
 ms.topic: how-to
 ms.date: 05/04/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-pricing
 author: alikhaki
 ms.author: alikhaki
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e715ec2c787ea3df623256904f8af1e7d8f4e9c8
-ms.sourcegitcommit: d96ad93449da4c914becfffab167cdc1aa165ada
+ms.openlocfilehash: d875a5a511851168ed6aa7e58b81057513b413ab
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/25/2021
-ms.locfileid: "112915584"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114840459"
 ---
 # <a name="sell-to-specialized-industries-like-education-non-profit-and-government-users"></a>Eğitim, kar amacı gütmeyen kuruluş ve kamu kullanıcıları gibi özelleştirilmiş sektörlere satış yapma
 
 **Uygun roller:** Genel yönetici | Yönetici aracısı | Satış aracısı
 
-Microsoft eğitim müşterileri, kar amacı gütmeyen müşteriler, küçük işletmeler ve kamu varlıkları gibi belirli müşteri grupları için özel ve azaltılmış fiyatlandırma sağlar. Özel fiyatlandırma sunmadan önce hem sizin hem de müşterinizin nitelikli olması gerekir. Bu özel fiyat teklifleri şu anda **yalnızca** Microsoft 365, Dynamics, Intune gibi lisans tabanlı hizmetler için kullanılabilir. Diğer türler (yazılım abonelikleri, kalıcı yazılım veya Azure ürünleri) için kullanılamaz.
+Microsoft eğitim müşterileri, kar amacı gütmeyen müşteriler, küçük işletmeler ve kamu varlıkları gibi belirli müşteri grupları için özel ve azaltılmış fiyatlandırma sağlar. Özel fiyatlandırma sunmadan önce hem sizin hem de müşterinizin nitelikli olması gerekir. Bu özel fiyat teklifleri şu anda **yalnızca Microsoft 365,** Dynamics, Intune gibi lisans tabanlı hizmetler için kullanılabilir. Diğer türler (yazılım abonelikleri, kalıcı yazılım veya Azure ürünleri) için kullanılamaz.
 
 ## <a name="requirements-to-sell-to-specialized-industries"></a>Özelleştirilmiş sektörlere satış gereksinimleri
 
@@ -57,9 +57,9 @@ Siz ve müşteriniz özel bir teklif programı için uygun olduktan sonra, abone
 
 İş ortakları müşterilere yalnızca belirli ölçütlere uyan özel teklifleri satabilir. 
 
-- Eğitim teklifleri yalnızca Müşteri bir Eğitim kurumu olarak yetkilendirilmişse satın alınabilir. Eğitim müşterisi yalnızca Eğitim ve Ticari teklifleri alsa da Kar amacı gütmeyen veya Kamu topluluk bulutu (GCC) almayacak.
-- İş ortakları yalnızca GCC müşterileri için GCC abonelikleri satın alınabilir. Müşteri GCC aboneliğine sahip olduktan sonra iş ortakları ticari, eğitim veya kar amacı gütmeyen abonelik satın alamayacak.
-- İş ortakları yalnızca kar amacı gütmeyen müşteriler için ticari veya kar amacı gütmeyen abonelikler satın alınabilir. İş ortakları kar amacı gütmeyen müşteriler için GCC veya eğitim abonelikleri satın aamaz.
+- Eğitim teklifleri yalnızca Müşteri bir Eğitim kurumu olarak yetkilendirilmişse satın alınabilir. Eğitim müşterisi yalnızca Eğitim ve Ticari teklifleri alsa da Kar amacı gütmeyen veya Kamu topluluk bulutu (GCC).
+- İş ortakları yalnızca GCC müşteriler için GCC satın alınabilir. Müşterinin bir abonelik GCC iş ortakları ticari, eğitim veya kar amacı gütmeyen abonelik satın alamayacak.
+- İş ortakları yalnızca kar amacı gütmeyen müşteriler için ticari veya kar amacı gütmeyen abonelikler satın alınabilir. İş ortakları kar amacı GCC veya eğitim abonelikleri satın aamaz.
 - Eyalete Ait Varlıklar Uygunluk [ölçütlerini karşılamalı.](https://www.microsoft.com/legal/compliance/anticorruption/criteria)
 
 Müşterilere özel teklifler satışı için satın alma kuralları:
@@ -76,5 +76,5 @@ Müşterilere özel teklifler satışı için satın alma kuralları:
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-- [Eğitim müşterilerine Minecraft: Education Edition abonelikleri satma](minecraft-subscriptions.md)
+- [Eğitim Minecraft: Education Edition abonelikleri satış](minecraft-subscriptions.md)
 - [Microsoft Cloud for US Government için İş Ortağı Merkezi](partner-center-for-microsoft-us-govt-cloud.md)

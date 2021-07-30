@@ -9,25 +9,25 @@ author: kaushikgMSFT
 ms.author: kaushikg
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 5e5f8000032fa09d7752f8c6206325630b995b63
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 180756cb5c658b5ed16119e03bfe9e1271b68599
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110148729"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114840357"
 ---
 # <a name="earn-cooperative-marketing-funds"></a>İşbirlikçi pazarlama fonlarını kazanma
 
 **Uygun roller**: teşvikleri admin | Teşvikleri kullanıcısı
 
-Ortak pazarlama (Co-op) fon, Microsoft ürün tanımayı destekleyen etkinlikler için geri ödeme yaparak Microsoft 'un programlarını karşıladığınız fonlardır. Bulut çözümü sağlayıcısı, yönetilen satıcı, barındırma ve yüzey teşvikleri programlara örnek olarak verilebilir.
+Ortak pazarlama (Co-op) fon, Microsoft ürün tanımayı destekleyen etkinlikler için geri ödeme yaparak Microsoft 'un programlarını karşıladığınız fonlardır. teşvikleri programlarına örnek olarak Bulut Çözümü Sağlayıcısı, yönetilen satıcı, barındırma ve yüzey verilebilir.
 
 Ortak çalışma fonları, marka tanıma ve sürücü satışları işlem hattı büyümesini artıracak pazarlama etkinlikleri yürütmenize imkan tanır. Hazır olma durumunu kolaylaştırmak, Uzmanlıklar geliştirmek veya Microsoft sertifikalarına ulaşmak için, odaklanmış çözüm uygulamalarına ve üstün merkezlerine sahip olan etkinliklere yönelik faaliyetlere ortak op yatırmaya yatırım yapabilirsiniz.
 
 [Co-op fon kaynakları](https://partner.microsoft.com/asset/collection/co-op-funds-resources#/) sayfasında daha fazla bilgi edinebilirsiniz.
 
 >[!Important]
->Ortak op talepleri, çevrimiçi hizmetler danışmanlık (OSA) satışı, çevrimiçi hizmetler kullanımı (OSU)-Microsoft 365 ve OSU-Business uygulama teşvik programları için geçerlidir. Bu programlardan birine yönelik bir talep göndermek için, bkz. [CPOR modelini kullanarak müşteri ile ilişkili Kullanıcı oluşturma](submit-osa-claim.md).
+>ortak op talepleri, çevrimiçi hizmetler danışmanlık (OSA) satışı, çevrimiçi hizmetler kullanımı (OSU)-Microsoft 365 ve OSU-Business uygulama teşvik programları için geçerlidir. Bu programlardan birine yönelik bir talep göndermek için, bkz. [CPOR modelini kullanarak müşteri ile ilişkili Kullanıcı oluşturma](submit-osa-claim.md).
 
 ## <a name="how-co-op-funds-are-calculated"></a>Ortak işlem fonları nasıl hesaplanır
 
@@ -40,33 +40,33 @@ Teşvikleri program kılavuzumuzun ödeme temposunda ve bölünmüş yüzdesi ha
 
 ## <a name="when-to-claim-your-funds"></a>Fonlarınızı talep etmek için
 
-İşbirliği fonlarının zaman çizelgesi iki altı aylık dönemlere (H1 ve H2) ayrılmıştır. ("H", mali yarı yılın açılımıdır.)
+Ortak çalışma fonları için zaman çizelgesi 2 6 aylık dönemler, H1 ve H2 olarak bölünür. ("H", mali yarı yıl için temsil eder.)
 
-- H1, 1 Temmuz - 31 Aralık mali yılın ilk yarısıdır.
-- H2, mali yılın ikinci yarısıdır, 1 Ocak - 30 Haziran.
+- H1, mali yılın ilk yarısında, 1 Temmuz 31 ' dir.
+- H2, mali yılın ikinci yarısında, 1 Ocak 30 Haziran.
 
-Kazançlarınızı tahakkuk eden altı aylık dönem Kazanç **döneminiz olur.** Bu kazançları, sonraki altı aylık Kullanım döneminde bir noktada **kullanabilirsiniz.** Kazançlarınızı kullanım döneminin sonuna kadar kullanmayacaksanız, bu kazançları kullanım süresi sona erer. Talep **dönemi,** teşvik programı etkinlikleriniz için geri ödeme talepte bulundurabilirsiniz altı aylık dönemdir.
+Gelirinizi tahakkuk ettirmek için gereken altı aylık dönem **kazanç döneminizin** olur. Bu kazancı, aşağıdaki altı aylık **kullanım döneminde** bir noktada kullanmanız gerekir. Kullanım süresinin sonuna kadar kazanç kullanmıyorsanız, bunları beğenirsiniz. Talep eden **Dönem** , ister bir program etkinlikleriniz için geri ödeme talebinde bulunmak için gereken altı aylık bir süredir.
 
-Aşağıdaki tabloda farklı kazanç, kullanım ve talep dönemleri gösterilmiştir. Aksi belirtilmedikçe dönemler ilk ayın ilk gününden son ayın son gününe kadar uzatılacaktır.
+Aşağıdaki tabloda, farklı kazanç, kullanım ve talep eden dönemler gösterilmektedir. Aksi belirtilmediği takdirde, dönemler ilk ayın ilk gününden geçen ayın son gününe kadar genişler.
 
-|  Kazanç/tahakkuk döneminiz  |Mali yarı yıllık döneminiz:  |  Kullanım döneminiz şu şekildedir:  |  Talep döneminiz şu şekildedir:  |
+|  Kazanç/tahakkuk süreniz  |Mali yarı yıl döneminiz  |  Kullanım süreniz  |  Bu süre  |
 | :-----------: | :-----------: | :-----------: | :-----------: |
-|**Temmuz - Ara 2020**| FY21 H1  |  Ocak - Haziran 2021  |  16 Şubat - 15 Ağustos 2021  |
-|**Ocak - Haziran 2021** |  FY21 H2  |  Temmuz - Ara 2021  |  16 Ağu 2021 - 15 Şubat 2022  |
-|**Temmuz - Ara 2021**|  FY22 H1  |  Ocak - Haziran 2022  |  16 Şubat - 15 Ağustos 2022  |
-|**Ocak - Haziran 2022** |  FY22 H2  |  Temmuz - Ara 2022  |  16 Ağu 2022 - 15 Şubat 2023  |
+|**Haziran-Aralık 2020**| FY21 H1  |  Oca-Haziran 2021  |  Şub 16 Ağu 15 2021  |
+|**Oca-Haziran 2021** |  FY21 H2  |  Haziran-Aralık 2021  |  Ağu 16 2021-Şub 15 2022  |
+|**Haziran-Aralık 2021**|  FY22 H1  |  Oca-Haziran 2022  |  Şub 16 Ağu 15 2022  |
+|**Oca-Haziran 2022** |  FY22 H2  |  Haziran-Aralık 2022  |  Ağu 16 2022-Şub 15 2023  |
 
 >[!NOTE]
->Microsoft, özgün yürütme kanıtı (PoE) belgeleri talep hakkına sahiptir. Tüm özgün belgelerinizi etkinlik tarihinden sonra 24 ay boyunca tutabilirsiniz.
+>Microsoft, orijinal yürütme (PoE) belgeleri sağlamasını isteme hakkını saklı tutar. Etkinlik tarihinden sonra tüm orijinal belgelerinizi 24 ay boyunca saklamanız gerekir.
 
-Aşağıdaki kaynaklar ortak çalışma talepleri ile çalışmaya başlamanıza yardımcı olur.
+Aşağıdaki kaynaklar, birlikte çalışma taleplerini kullanmaya başlamanıza yardımcı olur.
 
 | Bunu yapmak için | Bunu okuyun |
 | ------ | ----------- |
-| Talep gönderme |  [Teşvik programı ortak çalışma talebi oluşturma ve yönetme](create-incentives-claims.md)  |
-| Gönderilen talebi yönetme | [Teşvik programı ortak çalışma talebi oluşturma ve yönetme](create-incentives-claims.md)    |
-| Etkinlik talebi için temel gereksinimleri anlama | [Teşvik programınız kapsamındaki etkinlikler için temel gereksinimler](core-requirements.md)   |
-| Teşvik programı ayrıntılarınızı gözden geçirme | [Partner teşvikleri Co-op kılavuz kitabı](https://assetsprod.microsoft.com/co-op-guidebook.pdf)  |
+| Talep Gönder |  [Teşvikleri program ortak işlem talebi oluşturma ve yönetme](create-incentives-claims.md)  |
+| Gönderilen talebi yönetme | [Teşvikleri program ortak işlem talebi oluşturma ve yönetme](create-incentives-claims.md)    |
+| Etkinlik talebi için temel gereksinimleri anlama | [Gereksinimler programınızdaki etkinliklerin temel gereksinimleri](core-requirements.md)   |
+| Teşvikleri programınızın ayrıntılarını gözden geçirin | [Partner teşvikleri Co-op kılavuz kitabı](https://assetsprod.microsoft.com/co-op-guidebook.pdf)  |
 | Müşteri ilişkisi oluşturma ve talep gönderme | [CPOR modelini kullanarak bir müşteri ilişkilendirmesi oluşturma](submit-osa-claim.md)   |
 
 ## <a name="next-steps"></a>Sonraki adımlar

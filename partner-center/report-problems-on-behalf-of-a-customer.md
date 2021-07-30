@@ -3,46 +3,46 @@ title: Bir müşteri adına sorun bildirme
 ms.topic: how-to
 ms.date: 02/26/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
-description: Bir müşteri hizmeti sorununun Microsoft 'a ne zaman ilerletilbileceğinizi ve farklı Microsoft Hizmetleri türleri için destek bileti dosyasını nasıl yükleyeceğinizi öğrenin.
+ms.subservice: partnercenter-customers
+description: Müşteri hizmetleri sorununu Microsoft'a ne zaman yükseltmeniz ve farklı hizmet türleri için destek bileti Microsoft hizmetleri.
 author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6ba25d0bfc4796ca43d36bb34bf6d9e82889881c
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: 4d4c82149638ad117d54ea9b518a68ec9ae19b2b
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109855718"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114841156"
 ---
-# <a name="report-a-service-problem-on-behalf-of-a-customer---including-when-and-how-to-do-so"></a>Ne zaman ve nasıl yapılacağı gibi bir müşteri adına bir hizmet sorunu bildirin
+# <a name="report-a-service-problem-on-behalf-of-a-customer---including-when-and-how-to-do-so"></a>Müşteri adına bir hizmet sorunu bildirme - bunun ne zaman ve nasıl olduğu da dahil
 
-**Uygulama hedefi**: Iş Ortağı Merkezi | ABD kamu için Microsoft Bulut iş ortağı Merkezi
+**Için geçerlidir:** İş Ortağı Merkezi | İş Ortağı Merkezi için Microsoft Cloud for US Government
 
-**Uygun roller**: genel yönetici
+**Uygun roller:** Genel yönetici
 
-Müşteriniz çözemeyen bir hizmet sorunu yaşıyorsa ve [sorunları Microsoft 'A iletin](escalate-problems-to-microsoft.md)bölümünde açıklanan ölçütlere uyuyorsa, dolaylı sağlayıcınız bu kişilere yönelik bir destek bileti dosyası oluşturabilir. Bu işlem, faturalandırma sorunlarını veya anlaşmazlıkları yürüyen ve sahtekarlık sorunları için de kullanışlıdır.
+Müşteriniz çöze olmadığınız bir hizmet sorunuyla karşılaşıyorsa ve sorunları [Microsoft'a](escalate-problems-to-microsoft.md)yükseltme konusunda açıklanan ölçütleri karşılarsa, dolaylı sağlayıcınız onlar için bir destek bileti açabilir. Bu işlem faturalama sorunlarını veya uyuşmazlıklarını yükseltmenin yanı sıra sahtekarlık kaygıları için de yararlıdır.
 
-## <a name="submit-a-service-request-for-a-customer"></a>Müşteri için bir hizmet isteği gönderme
+## <a name="submit-a-service-request-for-a-customer"></a>Müşteri için hizmet isteği gönderme
 
-1. CSP altındaki Iş Ortağı Merkezi menüsünden **müşteriler** ' i seçin
+1. CSP altındaki İş Ortağı Merkezi menüsünde **Müşteriler** öğesini seçin
 
 2. Müşteriler sayfasında istediğiniz müşteriyi seçin veya arayın
     
-3. Müşteri menüsünden **hizmet istekleri** ' ni seçin.
+3. Müşteri menüsünde **Hizmet istekleri**'ni seçin
 
-4. **Yeni istek** açılan menüsünden **Azure** veya **Office 365, Dynamics 365, Enterprise Mobility Suite** seçeneklerinden birini belirleyin. Microsoft Azure portal ya da Office 365 yönetim merkezine yönlendirilirsiniz.
+4. Yeni istek **açılan menüsünden** **Azure** veya **Office 365, Dynamics 365, Enterprise Mobility Suite'i seçin.** Microsoft Azure portalına veya Office 365 yönlendiriliyorsınız.
 
 >[!NOTE]
->Deneyimidir Dynamics 365, CSP 'de, Iş ortakları için destek sözleşmesinin (ASfP) planı veya üzeri destek sözleşmesi sağlamak için gereklidir. Bu destek sözleşmesi, bir CSP müşterisi adına Dynamics 365 olaylarını göndermek için gereklidir. Destek Sözleşmesi seçenekleri hakkında [daha fazla bilgi edinin](https://partner.microsoft.com/support/partnersupport) .
+>CSP'de Dynamics 365'i işlemden alan Destek Operasyonları iş ortaklarının, İş Ortağı için Gelişmiş Destek (ASfP) planı veya daha yüksek bir destek sözleşmesine sahip olması gerekir. CsP müşterisi adına Dynamics 365 olaylarını göndermek için bu destek sözleşmesi gereklidir. [Destek sözleşmesi seçenekleri](https://partner.microsoft.com/support/partnersupport) hakkında daha fazla bilgi.
 
 ### <a name="microsoft-azure"></a>Microsoft Azure
 
 > [!IMPORTANT]
-> Azure 'da müşteriniz için bir hizmet isteği oluşturmanız gerektiğinde, aşağıdakilere dikkat edin:
+> Azure'da müşteriniz için bir hizmet isteği oluşturmanız gerekirken, aşağıdakilere dikkat edin:
 >
->- Azure 'da müşteriniz için hizmet istekleri oluşturmak üzere dolaylı satıcı olarak, dolaylı sağlayıcınız müşterinin Azure hesabına erişim vermelidir. Bu, Office 365 için müşteriler adına yönetten farklıdır.
+>- Dolaylı kurumsal bayi olarak, Azure'da müşteriniz için hizmet istekleri oluşturmak için dolaylı sağlayıcınızın size müşterinin Azure hesabına erişim izni vermek zorunda olması gerekir. Bu, müşteriler adına yönetimden farklı bir Office 365.
 >
 >- İş Ortağı Merkezi yardım masası yöneticisi Azure hizmet portalında hizmet istekleri oluşturamasa da, azure hizmet portalında bir destek grubu oluşturmak ve bu gruba destek isteklerini günlüğe alma izinleri vermektir.
 
@@ -50,11 +50,11 @@ Müşteriniz çözemeyen bir hizmet sorunu yaşıyorsa ve [sorunları Microsoft 
 
 2. Destek isteğini uygun bilgilerle doldurun ve Oluştur'a **seçin:**
 
-   - Destek **isteğinin** Temel bilgiler bölümünde, Destek planı alanında Bulut Çözümü Sağlayıcısı seçeneğini **Bulut Çözümü Sağlayıcısı** **emin** olun.
+   - Destek **isteğinin** Temel bilgiler bölümünde, Destek planı alanında **Bulut Çözümü Sağlayıcısı'ı** **seçin.**
 
    - Destek **isteğinin** İletişim bilgileri bölümünde, müşterinizin bilgilerini değil, bilginizi girin.
 
-3. Daha sonra Destek isteklerini yönet'i seçerek müşterinizin Microsoft Azure portal hizmet **isteklerini gözden geçirebilirsiniz.**
+3. Daha sonra Destek isteklerini yönet'i seçerek Microsoft Azure portalında müşterinizin hizmet **isteklerini gözden geçirebilirsiniz.**
 
 Müşteri için yönetici izinlerine sahip olmadığınız bir müşteri için destek isteği oluşturmanız gerekir. Bu durum iki senaryodan biri olabilir:
 
@@ -81,33 +81,33 @@ Bu iki durumda da, bir destek isteği oluşturmak için aşağıdaki yordamı ku
    > [!TIP]
    > Müşterinizin bilgilerini değil iletişim bilgilerini de dahil edin.
 
-3. Daha sonra Office 365 yönetim merkezine gidip Tüm destek biletlerini gör'ü seçerek müşterinizin **hizmet isteklerini gözden geçirebilirsiniz.**
+3. Daha sonra, yönetim merkezine gidip Tüm destek biletlerini gör'Office 365 **müşterinizin hizmet isteklerini gözden geçirebilirsiniz.**
 
-### <a name="support-for-commercial-marketplace-products"></a>Ticari Market ürünleri desteği
+### <a name="support-for-commercial-marketplace-products"></a>Ticari market ürünleri desteği
 
-Microsoft, ticari Market ürünleri için ürün desteği sağlamaz. Destek almak için ürünü yayımlayan bağımsız yazılım satıcısı (ISV) ile iletişim kurmanız gerekir.
+Microsoft, ticari market ürünleri için ürün desteği sağlamamaktadır. Destek almak için ürünü yayımladığı Bağımsız Yazılım Satıcısına (ISV) başvurabilirsiniz.
 
-ISV 'nin iletişim bilgilerini bulmak için:
+ISV'nin iletişim bilgilerini bulmak için:
 
-1.  **Market** sayfasında, yardım almak istediğiniz ürünü seçin.
+1.  Market **sayfasında** yardıma ihtiyacınız olan ürünü seçin.
 
-2.  Ürünün sayfasında, destek iletişim bilgilerini bulacaksınız. Bu, aşağıdaki seçeneklerden biri veya daha fazlası olabilir:
+2.  Ürünün sayfasında destek iletişim bilgilerini bulabilirsiniz. Bu, aşağıdaki seçeneklerden biri veya daha fazlası olabilir:
 
-    - ISV 'nin Web sitesinde bir destek giriş noktası bağlantısı
+    - ISV'nin web sitesinde destek giriş noktasına bağlantı
     - Destek e-postası
-    - Bir destek kişisi telefon numarası
+    - Destek iletişim telefon numarası
 
 ## <a name="faq"></a>SSS
 
-Müşteri adına gönderebileceğiniz hizmet istekleri hakkında sık sorulan aşağıdaki sorulara bakın. 
+Müşteri adına gönder olabileceğiniz hizmet istekleri hakkında aşağıdaki sık sorulan sorulara bakın. 
 
-### <a name="what-is-included-as-part-of-the-support-entitlement"></a>Destek yetkilendirme 'nin bir parçası olarak neler dahildir?
+### <a name="what-is-included-as-part-of-the-support-entitlement"></a>Destek Yetkilendirmesi'nin bir parçası olarak ne dahildir?
 
-Hizmet isteklerinin Iş Ortağı Merkezi aracılığıyla dosyalanmış olması gerekir. Azure, Microsoft Office 365, Microsoft Dynamics CRM Online ve Enterprise Mobility Suite için kullanılabilir. Bulut çözümü sağlayıcısı programına katılan bir iş ortağı olarak, önemli sorunlarınız için öncelik yanıt süresini de bekleyebilir.
+Hizmet istekleri, İş Ortağı Merkezi. Bunlar Azure, Microsoft Office 365, Microsoft Dynamics CRM Online ve mobility suite Enterprise kullanılabilir. Bulut Çözümü Sağlayıcısı programına katılan bir iş ortağı olarak, başlıca sorunlarınıza öncelikli yanıt süresi beklemeniz gerekir.
 
-Kendi iş ortağı kiracınız için destek, CSP desteği avantajı 'nın bir parçası olarak dahil değildir. Ancak, Office 365, Microsoft Dynamics CRM Online ve Enterprise Mobility Suite iş ortakları veya müşteriler için ayrı bir destek aboneliği ücreti ödemeyin. Azure bir ücret ödeyerek, ancak Imzaya bulut desteği veya diğer Microsoft İş Ortağı Ağı (MPN) avantajlarına hak kazandıysanız, bu ücretleri ödemek için bu avantajları kullanabilirsiniz.
+Kendi iş ortağı kiracınız için destek, CSP destek avantajının bir parçası olarak dahil değildir. Öte Office 365, Microsoft Dynamics CRM Online ve Enterprise Mobility Suite iş ortakları veya müşteriler için ayrı bir destek aboneliği ücreti ödemez. Azure ücret öder, ancak Signature Bulut Desteği veya diğer Microsoft İş Ortağı Ağı (MPN) avantajlarını kullanma yetkisine sahipysiniz, bu avantajları kullanarak bu ücreti ödemeniz gerekir.
 
-Bu avantaj, bulut çözümü sağlayıcısı programına katılan tüm iş ortakları için, ücretli veya deneme süresi içinde geçerlidir. Faturalandırma ve abonelik yönetimi desteği Ayrıca bu paketin ücretsiz bir bileşeni olarak da dahildir.
+Bu avantaj ücretli veya deneme süresi Bulut Çözümü Sağlayıcısı tüm iş ortakları için geçerlidir. Faturalama ve abonelik yönetimi desteği de bu paketin ücretsiz bir bileşeni olarak dahil edilir.
 
 ### <a name="how-quickly-will-i-get-an-initial-response"></a>İlk yanıtı ne kadar hızlı alalım?
 
@@ -128,19 +128,19 @@ Hayır, bu program için telefon desteği sunm.
 
 ### <a name="what-happens-if-i-sign-into-the-azure-portal-and-bypass-partner-center"></a>Azure portal'da oturum İş Ortağı Merkezi?
 
-Doğrudan oturum Microsoft Azure portal, merkezi müşterinin bağlamında değil kendi bağlamınız içinde görüntülersiniz. Bu nedenle, kendi abonelikleriniz için bir hizmet isteği Microsoft Azure portal doğrudan oturum açmanız gerekir.
+Microsoft Azure portalında doğrudan oturum asanız, merkezi müşterinin bağlamında değil kendi bağlamınız içinde görüntülersiniz. Bu nedenle, kendi abonelikleriniz için bir hizmet isteği oluştururken Microsoft Azure portalında doğrudan oturum açmanız gerekir.
 
-CSP programı destek yetkilendirmeniz, kendi İş Ortağı aboneliğiniz için destek sağlamaz. Bu nedenle, kendi İş Ortağı aboneliğinizi ilgilendiren bir hizmet isteği oluşturma sırasında geçerli destek planı yetkilendirmenizi sağlayabilirsiniz. MPN sözleşme KIMLIĞI, Premier veya bir Azure destek planı örnekleri bulunur. Daha fazla bilgi için bkz. [Azure DESTEĞI SSS](https://go.microsoft.com/fwlink/?LinkId=717532).
+CSP programı destek yetkilendirmeniz, kendi İş Ortağı aboneliğiniz için destek sağlamaz. Bu nedenle, kendi İş Ortağı aboneliğinizi ilgilendiren bir hizmet isteği oluşturma sırasında geçerli destek planı yetkilendirmenizi sağlayabilirsiniz. ÖRNEK OLARAK MPN sözleşme kimliği, Premier veya Azure desteği olabilir. Daha fazla bilgi için bkz. [SSS Azure Desteği bakın.](https://go.microsoft.com/fwlink/?LinkId=717532)
 
-### <a name="what-happens-if-i-sign-into-the-office-365-admin-center-portal-and-bypass-partner-center"></a>Office 365 Yönetim Merkezi portalında oturum açıp Iş Ortağı Merkezi 'Ni atlayarak ne olur?
+### <a name="what-happens-if-i-sign-into-the-office-365-admin-center-portal-and-bypass-partner-center"></a>Office 365 yönetim merkezi portalında oturum İş Ortağı Merkezi?
 
-Office 365 Yönetim merkezinde doğrudan oturum açarsanız, merkezi bir müşterinin bağlamına değil kendi bağlamınızla görüntülüyorsunuz demektir. Bu nedenle, yalnızca kendi abonelikleriniz için bir hizmet isteği oluştururken doğrudan Office 365 yönetim merkezine kaydolmanız gerekir.
+Office 365 yönetim merkezinde doğrudan oturum asanız, merkezi müşterinin bağlamında değil kendi bağlamınız içinde görüntülersiniz. Bu nedenle, kendi abonelikleriniz için bir hizmet isteği oluştururken Office 365 yönetim merkezinde doğrudan oturum açmanız gerekir.
 
-### <a name="how-do-i-get-additional-dynamics-365-support"></a>Nasıl yaparım? ek Dynamics 365 desteği mi?
+### <a name="how-do-i-get-additional-dynamics-365-support"></a>Nasıl yaparım? Dynamics 365 desteği mi alasınız?
 
-İle ilgili sorunlar yaşıyorsanız: Dynamics 365 plan abonelikleri, lisanslama, faturalandırma, finans & Işlemler, Dynamics 365 ürün lisansları veya daha fazla teknik destek almanız gerekir:
+Şu konularla ilgili sorunlar yaşıyorsanız: Dynamics 365 Plan Abonelikleri, Lisanslama, Faturalama, Finans & İşlemleri, Dynamics 365 ürün lisansları veya daha fazla teknik desteğe ihtiyaç var:
  
-[Dynamics desteğiyle](/dynamics365/customer-engagement/admin/contact-technical-support) iletişim kurun
+[Dynamics Desteği'ne başvurun](/dynamics365/customer-engagement/admin/contact-technical-support)
 
 ## <a name="next-steps"></a>Sonraki adımlar
 

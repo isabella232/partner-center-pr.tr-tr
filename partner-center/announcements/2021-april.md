@@ -3,7 +3,7 @@ title: Nisan 2021 duyuruları
 description: Microsoft İş Ortağı Merkezi, promosyonlar, teklifler, pazarlar veya mevcut tekliflerde yapılan değişiklikler dahil olmak üzere Nisan 2021 duyuruları.
 ms.topic: article
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-action-center
 author: brentserbus
 ms.author: brserbus
 ms.custom:
@@ -11,12 +11,12 @@ ms.custom:
 - references_regions
 ms.localizationpriority: high
 ms.date: 04/29/2021
-ms.openlocfilehash: 13b8ec9ddd82b38a265606809b8c39c07436e548
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 31f6fadc0eb25b899bc2dee3a0475daf17c54c2c
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110150140"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114841774"
 ---
 # <a name="april-2021-announcements"></a>Nisan 2021 duyuruları
 
@@ -48,26 +48,26 @@ Yanıt aşağıdaki durum iletilerinden birini geri dönecektir:
 | Durum     | Açıklama |    Döndürülen önerilen adres sayısı |
 |-------|---------------|-------------------|
 |Doğrulanmış gönderilebilir | Adres doğrulanır ve adresine gönderebilirsiniz. | Tek |
-|Doğrulanamayan | Adres doğrulandı. | Tek |
-|Etkileşim gerekli | Önerilen adres önemli ölçüde değiştirildi ve kullanıcı onayı gerekiyor. | Tek |
-|Cadde kısmi | Adreste verilen cadde kısmi ve daha fazla bilgi gerekiyor. | Birden çok — en fazla üç |
-|Şirket içi kısmi | Verilen şirket içi (bina numarası, paket numarası ve diğerleri) kısmi ve daha fazla bilgi gerekiyor. | Birden çok — en fazla üç |
-|Birden çok | Adreste kısmi olan birden çok alan vardır (büyük olasılıkla cadde kısmi ve şirket içi kısmı da dahil). | Birden çok — en fazla üç |
+|Doğrulandı | Adres doğrulandı. | Tek |
+|Etkileşim gerekiyor | Önerilen adres önemli ölçüde değiştirildi ve kullanıcı onayı gerekiyor. | Tek |
+|Sokak kısmii | Adreste verilen sokak kısmidir ve daha fazla bilgiye ihtiyaç vardır. | Çoklu— en fazla üç |
+|Kısmi şirket içi | Verilen şirket (bina numarası, paket numarası ve diğerleri) kısmidir ve daha fazla bilgiye ihtiyaç vardır. | Çoklu— en fazla üç |
+|Birden çok | Adreste kısmi olan birden çok alan vardır (kısmi sokak ve kısmi şirket de dahil olmak üzere). | Çoklu— en fazla üç |
 |Hiçbiri | Adres yanlış. | Hiçbiri |
-|Doğrulanmamış | Adres, doğrulama işlemi aracılığıyla gönderilemedi. | Hiçbiri |
+|Doğrulanmamış | Adres doğrulama işlemi aracılığıyla gönderileemedi. | Hiçbiri |
 
-ABD Post kodları, dört basamaklı ek olarak dört basamak döndürür. Örneğin, 12345-6789.
+ABD posta kodları ek dört basamak + kısa çizgi (örneğin, 12345-6789) dönecektir.
 
 ### <a name="next-steps"></a>Sonraki adımlar
 
-- Daha ayrıntılı rehberlik için, [adanmış iş ortağı koleksiyonundaki](https://partner.microsoft.com/resources/collection/additionalfields-csp-customers-selected-geos#/) teknik belgeleri ve sık sorulan soruları gözden geçirin.
-- Iş Ortağı Merkezi API 'sini ve Web kullanıcısı deneyimini kullanarak değişiklikleri içerecek şekilde hazırlayın. 
-- Güncelleştirme için hazırlamaya başlayabilmeniz için, korumalı alan kiracı KIMLIĞINIZI, test uçuşna dahil edilecek konu uzmanı (Ali Haki) ile paylaşabilirsiniz. 
-- Bir denetim masası satıcısı (CPV) çözümü kullanıyorsanız, CPV 'nize başvurun.
+- Daha ayrıntılı rehberlik için ayrılmış iş ortağı koleksiyonunda teknik [belgeleri ve sık](https://partner.microsoft.com/resources/collection/additionalfields-csp-customers-selected-geos#/) sorulan soruları gözden geçirme.
+- İş Ortağı Merkezi API'sini ve web kullanıcı deneyimini kullanarak değişiklikleri dahil etmek için hazırlanma. 
+- Güncelleştirme için hazırlanmaya başlayabilirsiniz. Bu nedenle, korumalı alan kiracı kimliğinizi test uçuşuna dahil edilecek konu uzmanı (AliSinki) ile paylaşın. 
+- Denetim masası satıcısı (CPV) çözümü kullanıyorsanız CPV'nize başvurun.
 
 ### <a name="questions"></a>Sorularınız mı var?
 
-Microsoft ile işlemlere yönelik desteğe ihtiyacınız varsa iş ortağı destek Yammer grubuna ulaşın veya bir [hizmet isteği](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=aa679372-d996-73df-e244-cb28bbbf28e8)açın.
+Microsoft ile olan işlemleriniz için de destek gerekirse, iş ortağı destek grubuyla Yammer veya bir hizmet [isteği açın.](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=aa679372-d996-73df-e244-cb28bbbf28e8)
 
 _______________
 ## <a name="new-location-for-partner-center-api-swagger-documentation"></a><a name="9"></a>Api Swagger İş Ortağı Merkezi için yeni konum
@@ -79,7 +79,7 @@ _______________
 
 ### <a name="summary"></a>Özet
 
-İş Ortağı Merkezi API Swagger belgeleri önceki [Swagger Belgeleri sitesinden](https://apidocs.microsoft.com/services/partnercenter) yeni bir [Swagger Belgeleri sitesine geçirildi.](/rest/api/partner-center-rest/)
+İş Ortağı Merkezi API Swagger belgeleri önceki [Swagger Belgeleri](https://apidocs.microsoft.com/services/partnercenter) sitesinden yeni bir [Swagger Belgeleri](/rest/api/partner-center-rest/)sitesine geçirildi.
 
 ### <a name="impacted-audience"></a>Etkilene hedef kitle
 
@@ -99,10 +99,10 @@ Uygun ekibin işlemlerini gözden geçire incelemesi ve güncelleştirmesi için
 
 ### <a name="questions"></a>Sorularınız mı var?
 
-Bu teklifler hakkında sorularınız için ilgili Yammer topluluklarınızı kontrol edin.
+Bu teklifler hakkında sorularınız için ilgili topluluklar için Yammer kontrol edin.
 
 ________________
-## <a name="cloud-solution-provider-csp-software-return-period-policy-and-download-link-expiry-notice"></a><a name="8"></a>Bulut Çözümü Sağlayıcısı (CSP) yazılım iade dönemi ilkesi ve indirme bağlantısı süre sonu bildirimi
+## <a name="cloud-solution-provider-csp-software-return-period-policy-and-download-link-expiry-notice"></a><a name="8"></a>Bulut Çözümü Sağlayıcısı (CSP) yazılım dönüş dönemi ilkesi ve indirme bağlantısı süre sonu bildirimi
 
 ### <a name="categories"></a>Kategoriler
 
@@ -135,7 +135,7 @@ Bu ileti, dönüş dönemi ve MPA'daki diğer güncelleştirmeler ile ilgili ola
 
 #### <a name="software-download-link-expiry"></a>Yazılım indirme bağlantısı süre sonu
 
-3 Haziran 2021'den itibaren, İş Ortağı Merkezi üzerinden kalıcı yazılım ve yazılım aboneliği ürün satın alımları için yazılım indirme bağlantıları, ilk indirmeden itibaren beş günlük bir sona erme tarihine sahip olacak. Süre sonu, 3 Haziran 2021'den önceki ve 3 Haziran 2021'den sonra yapılan tüm satın almalar için geçerlidir.
+3 Haziran 2021'den itibaren, İş Ortağı Merkezi üzerinden kalıcı yazılım ve yazılım aboneliği ürün satın almaları için yazılım indirme bağlantıları, ilk indirmeden itibaren beş günlük bir sona erme tarihine sahip olur. Süre sonu, 3 Haziran 2021'den önceki ve 3 Haziran 2021'den sonra yapılan tüm satın almalar için geçerlidir.
 
 ### <a name="next-steps"></a>Sonraki adımlar
 
@@ -143,7 +143,7 @@ Bu ileti, dönüş dönemi ve MPA'daki diğer güncelleştirmeler ile ilgili ola
 
 ### <a name="questions"></a>Sorularınız mı var?
 
-Bu teklifler hakkında sorularınız için ilgili Yammer topluluklarınızı kontrol edin.
+Bu teklifler hakkında sorularınız için ilgili topluluklar için Yammer kontrol edin.
 
 ________________
 ## <a name="open-licensing-program-transitioning-resellers-to-the-cloud-solution-provider-csp-program"></a><a name="7"></a>Açık Lisans programı: Kurumsal bayileri Bulut Çözümü Sağlayıcısı (CSP) programına geçiş
@@ -151,19 +151,19 @@ ________________
 ### <a name="categories"></a>Kategoriler
 
 - Tarih: 2021-04-19
-- İşletmenizi Büyüt
+- Işletmenizi büyütün
 
 ### <a name="summary"></a>Özet
 
-Bu iletişim, yakında Open Licensing programına gelecek değişikliklere nasıl hazırlanacaklarını ayrıntılarıyla açıklayacak.
+Bu iletişim, açık lisanslama programına yakında sunulacak değişiklikler için nasıl hazırlanacağına ilişkin ayrıntıları sağlar.
 
-### <a name="impacted-audience"></a>Etkilene hedef kitle
+### <a name="impacted-audience"></a>Etkilenen hedef kitle
 
-CSP ve Açık Lisans iş ortakları
+CSP ve açık lisans iş ortakları
 
 ### <a name="details"></a>Ayrıntılar
 
-2020'de [Microsoft,](https://blogs.partner.microsoft.com/mpn/general-availability-of-perpetual-software-licenses-in-the-cloud-solution-provider-program/) kalıcı yazılım lisanslarının Bulut Çözümü Sağlayıcısı (CSP) programı aracılığıyla iş ortaklarının ve müşterilerin kullanımına açık olacağını duyurdu. İlk kilometre taşı, ticari kalıcı yazılım teklifleri kullanılabilir hale geldiğinde Ocak 2021'de ulaşıldı. Bir sonraki önemli kilometre taşı, kamu sektörü [](https://aka.ms/openlicensepublicsector) tekliflerini kullanılabilir hale geldiğinde Temmuz 2021'de gerçekleşecektir. Ayrıca, [](https://blogs.partner.microsoft.com/mpn/expanding-opportunities-for-partners-in-the-cloud-solution-provider-program/) 1 Ocak 2022'den itibaren geçerli olan açık lisans programı aracılığıyla yeni yazılım lisansı satın Yazılım Güvencesi veya çevrimiçi hizmetler yenilemelerinin yapılamayacak olduğunu da ilettik.
+2020 ' de, Microsoft kalıcı yazılım lisanslarının Bulut Çözümü Sağlayıcısı (CSP) programı aracılığıyla iş ortakları ve müşteriler için genel kullanıma sunulduğunu [duyurmuştur](https://blogs.partner.microsoft.com/mpn/general-availability-of-perpetual-software-licenses-in-the-cloud-solution-provider-program/) . Ticari kalıcı yazılım teklifi kullanılabilir duruma geldiğinde, 2021 Ocak 'ta ilk kilometre taşına ulaşıldı. Bir sonraki anahtar kilometre taşı, [genel sektör](https://aka.ms/openlicensepublicsector) teklifleri kullanılabilir olduğunda 2021 Temmuz 'da gerçekleşecektir. [Ayrıca,](https://blogs.partner.microsoft.com/mpn/expanding-opportunities-for-partners-in-the-cloud-solution-provider-program/) 1 Ocak 2022 ' den itibaren geçerli olan, yazılım güvencesi veya çevrimiçi hizmetler yeni yazılım lisansı satın alma veya yenileme Işlemleri açık lisans programı aracılığıyla yapılabilir.
 
 Kalıcı yazılımın yeni ticaret deneyiminde CSP programına geçişi, iş ortaklarının farklı çözümler ve yönetilen hizmetler sunmak üzere fırsatları genişletmesine yardımcı olur. Bu, müşterilerin buluta geçişini de hızlandıracaktır.  Hem iş ortaklarımız hem de müşterilerimiz için sorunsuz bir geçişin sağlanmasına yardımcı olmak üzere bu düzeltmeleri ve malzemeleri bu dijital dönüştürmeyi hızlandırmak için yaptık:
 
@@ -177,7 +177,7 @@ Kalıcı yazılımın yeni ticaret deneyiminde CSP programına geçişi, iş ort
 
 - 1 Temmuz: kamu sektörü müşterileri için kullanılabilir kalıcı yazılım lisansları
 
-- 7 Temmuz: Visual Studio Pro ve tüm kesimlerde kullanılabilen orijinal Windows sözleşmesi kalıcı yazılım lisanslarını al
+- 7 temmuz: Visual Studio Pro ve Orijinal Windows Edinme sözleşmesi tüm kesimlerde kullanılabilir kalıcı yazılım lisansları
 
 ##### <a name="open-value"></a>Açık değer
 
@@ -199,22 +199,22 @@ Gelecek ayları kullanarak, iş ortağı topluluk olaylarına katılarak ve sat�
 
 - Satıcılar için [lisansdan CSP geçiş malzemelerini açın](https://partner.microsoft.com/resources/collection/reseller-open-license-to-csp-transition-materials#/): özelleştirilebilir genel bakış sunumu, e-posta şablonu, CSP dolaylı Bayi ekleme Kılavuzu ve daha fazlası, satıcılarınızın ölçeğini ölçeklendirmenize yardımcı olur.
 
-- Microsoft Iş Işlemleri tarafından barındırılan [CSP Iş ortağı topluluk olayları](https://globalpbocomm.eventbuilder.com/GlobalCSP) .  CSP temel bilgilerini (CSP temelleri) öğrenmek veya güncel kalmak ve CSP 'deki yazılımla ilgili sorular sormak (soru-cevap&) için çeşitli oturumlara katılarak.
+- [CSP iş ortağı Community](https://globalpbocomm.eventbuilder.com/GlobalCSP) Microsoft iş işlemleri tarafından barındırılan olaylar.  CSP temel bilgilerini (CSP temelleri) öğrenmek veya güncel kalmak ve CSP 'deki yazılımla ilgili sorular sormak (soru-cevap&) için çeşitli oturumlara katılarak.
 
 - (Çok yakında) CSP dolaylı satıcısı – Microsoft Iş Işlemleri tarafından barındırılan odaklı eğitim oturumu.
 
-#### <a name="open-license-resellers"></a>Açık Lisans kurumsal bayileri
+#### <a name="open-license-resellers"></a>Açık Lisans satıcıları
 
-- Kuruluş şu anda CSP programına kayıtlı değilse, nasıl başlatılacakları hakkında bilgi almak için dağıtımcınıza ulaşın. Burada dolaylı bir sağlayıcıyla [bağlantı kurun.](https://partner.microsoft.com/membership/cloud-solution-provider/find-a-provider)
+- Kuruluşunuz Şu anda CSP programına kayıtlı değilse, kullanmaya başlama hakkında bilgi edinmek için dağıtıcıya başvurun. [burada](https://partner.microsoft.com/membership/cloud-solution-provider/find-a-provider)dolaylı bir sağlayıcı ile Bağlan.
 
-- Organizasyonuz CSP programına zaten kayıtlı ise, burada CSP'de kalıcı yazılım hakkında daha fazla bilgi edinmek için buraya [bakabilirsiniz.](https://partner.microsoft.com/resources/collection/software-in-csp)
+- Kuruluşunuz zaten CSP programına kaydedildiyse, [burada](https://partner.microsoft.com/resources/collection/software-in-csp)CSP 'de kalıcı yazılımlar hakkında daha fazla bilgi edinin.
 
 ### <a name="questions"></a>Sorularınız mı var?
 
-Bu teklifler hakkında daha fazla soru için ilgili Yammer topluluklarınızı kontrol edin.
+bu teklifler hakkında daha fazla soru için ilgili Yammer topluluklarınızı denetleyin.
 
 ________________
-## <a name="now-live-global-promo-readiness-guide"></a><a name="6"></a>Artık canlı: Küresel promosyon için hazır olma kılavuzu
+## <a name="now-live-global-promo-readiness-guide"></a><a name="6"></a>Şimdi canlı: genel promosyon hazırlığı Kılavuzu
 
 ### <a name="categories"></a>Kategoriler
 
@@ -223,87 +223,87 @@ ________________
 
 ### <a name="summary"></a>Özet
 
-Launch Readiness, Operations Readiness kaynak [galerisinde yeni bir](https://partner.microsoft.com/resources/detail/operations-promo-guide-pdf) genel promosyon hazırlığı kılavuzu yayımladı. Bu kılavuz tüm etkin genel promosyonların [birleştirilmiş bir görünümünü sağlar.](https://partner.microsoft.com/resources/collection/global-promo-readiness-guide-collection#/)
+Başlatma hazırlığı, Işlem hazırlık kaynağı galerisinde yeni bir [genel promosyon hazırlığı Kılavuzu](https://partner.microsoft.com/resources/detail/operations-promo-guide-pdf) yayımladı. Bu kılavuz, tüm etkin [küresel promosyonların](https://partner.microsoft.com/resources/collection/global-promo-readiness-guide-collection#/)birleştirilmiş bir görünümünü sağlar.
 
-### <a name="impacted-audience"></a>Etkilene hedef kitle
+### <a name="impacted-audience"></a>Etkilenen hedef kitle
 
-Tüm Toplu Lisanslama (VL), Dynamics Fiyat Listesi (DPL) ve Bulut Çözümü Sağlayıcısı (CSP) iş ortakları
+tüm toplu lisanslama (VL), Dynamics fiyat listesi (dpl) ve Bulut Çözümü Sağlayıcısı (CSP) iş ortakları
 
 ### <a name="details"></a>Ayrıntılar
 
-Microsoft iş ortakları, destek ayrıntılarıyla birlikte tüm genel promosyonların birleştirilmiş bir görünümünü sağlama ihtiyacıyla bizimle paylaştı. Bu birleştirilmiş kılavuzun, tüm kullanılabilir bilgilere merkezi ve kullanışlı bir konumdan kolayca erişil hazır olacağının güveni ile promosyonları kullanmanıza yardımcı olmak istediniz.
+Microsoft iş ortakları, destekleyici ayrıntıların bulunduğu tüm küresel promosyonların birleştirilmiş bir görünümünü sağlama gereksinimiyle paylaşılır. Bu birleştirilmiş kılavuzun, tüm kullanılabilir bilgilerin merkezi ve uygun bir konumda erişilebilir olacağı güvenle birlikte yükseltmeleri kullanmanıza yardımcı olacak
 
-Nisan 2021'den itibaren, Microsoft bu kılavuzu aylık olarak güncelleştirecek ve Operasyon hazırlığı kaynak galerisinde ayrılmış bir Küresel Promosyon Hazırlığı Kılavuzu koleksiyonunda kullanılabilir olacak.
+Microsoft, 2021 Nisan 'dan itibaren bu kılavuzu aylık olarak güncelleştirecek ve Işlem hazırlık kaynağı galerisinde adanmış bir genel promosyon hazırlığı kılavuz koleksiyonunda kullanılabilir olacaktır.
 
-Bu kılavuzun bağlantıları aşağıdaki koleksiyonlara da dahil edilir:
+Bu kılavuza bağlantılar da aşağıdaki koleksiyonlara dahil edilecek:
 
-- [Yaklaşan değişikliklerin ve](https://partner.microsoft.com/resources/collection/csp-announcement-calendar#/)fırlatmaların merkezi bir görünümünü sağlayan takvim koleksiyonunu başlatma.
+- Yaklaşan değişikliklerin merkezi bir görünümünü sağlayan ve başlatılan [Takvim koleksiyonunu başlatın](https://partner.microsoft.com/resources/collection/csp-announcement-calendar#/).
 
-- [Aylık iş ortağı](https://partner.microsoft.com/resources/collection/april-2021-csp-partner-community-content#/)çağrılarımız için destek malzemeleri içeren topluluk koleksiyonları, yaklaşan değişiklikleri ve operasyonel ilgi alanlarına ilişkin zamanında konu başlıklarını vurgular.
+- aylık iş ortağı aramalarımız için destekleyici malzemeler içeren [Community koleksiyonlar](https://partner.microsoft.com/resources/collection/april-2021-csp-partner-community-content#/), yaklaşan değişiklikleri ve işletimsel ilgi çekici konuları vurgular.
 
-- [CSP Aylık](https://partner.microsoft.com/resources/collection/csp-monthly-update#/)Güncelleştirmesi gibi iş ortağı bültenleri
+- CSP aylık güncelleştirmesi gibi [Iş ortağı bültenleri](https://partner.microsoft.com/resources/collection/csp-monthly-update#/)
 
-Aylık anımsatıcı olarak, genel promosyon hazırlığı kılavuzunun her İş Ortağı Merkezi yeni bir duyuru yayımlayız.
+Aylık bir anımsatıcı olarak, genel promosyon hazırlığı Kılavuzu 'ndaki her yeni sorunla bir Iş Ortağı Merkezi duyurusu de yayımlayacağız.
 
 ### <a name="next-steps"></a>Sonraki adımlar
 
-Her ayın başında, operasyon hazırlığı [](https://partner.microsoft.com/resources/detail/operations-promo-guide-pdf) kaynak galerisinde en son genel promosyon hazırlığı [kılavuzunu bulabilirsiniz.](https://partner.microsoft.com/resources)
+Her ayın başlangıcında, en son [genel promosyon hazırlığı kılavuzunu](https://partner.microsoft.com/resources/detail/operations-promo-guide-pdf) , [işlem hazırlık kaynağı galerisinde](https://partner.microsoft.com/resources)bulabilirsiniz.
 
-Bu bilgileri kuruluşlarınıza uygun kişilerle paylaşın ve "Bu sayfa yararlı oldu mu?" sayfasından kılavuzun ne kadar yararlı olduğunu bize haber ver düğmesini seçin.
+Bu bilgileri kuruluşlarınızın ilgili kişileri ile paylaşabilir ve "Bu sayfa yardımcı oldu mu?" kılavuzunun ne kadar faydalı olduğunu bize bildirmek için düğmesini her sayfanın sonundaki düğme.
 
 ________________
-## <a name="april-cloud-solution-provider-csp-community-update-and-reminders"></a><a name="5"></a>Nisan Bulut Çözümü Sağlayıcısı (CSP) topluluk güncelleştirmeleri ve anımsatıcılar
+## <a name="april-cloud-solution-provider-csp-community-update-and-reminders"></a><a name="5"></a>nisan Bulut Çözümü Sağlayıcısı (CSP) topluluk güncelleştirmesi ve anımsatıcıları
 
 ### <a name="categories"></a>Kategoriler
 
 - Tarih: 2021-04-16
-- Topluluk | Davetler ve anımsatıcılar
+- Community | Davetlere ve anımsatıcıları
 
 ### <a name="summary"></a>Özet
 
-CSP topluluk kaynakları isteğe bağlı olarak kullanılabilir ve CSP programında değişiklik yapmak için sizi bilgilendirip hazırlıklı olmak için aylık olarak güncelleştirilir.
+CSP Community kaynakları isteğe bağlı olarak kullanılabilir ve CSP programında değişiklik için hazır ve hazırlanmaya hazırlıklı olmak üzere aylık olarak güncelleştirilir.
 
-### <a name="impacted-audience"></a>Etkilene hedef kitle
+### <a name="impacted-audience"></a>Etkilenen hedef kitle
 
-CSP doğrudan fatura iş ortakları ve dolaylı sağlayıcılar
+CSP doğrudan fatura ortakları ve dolaylı sağlayıcılar
 
 ### <a name="details"></a>Ayrıntılar
 
-Bu ay kaynaklar aşağıdaki önemli konuları içerir:
+Bu ay, kaynaklar aşağıdaki temel konuları içerir:
 
-- [CSP programı evrimi ve Açık Lisans programı değişikliklerine güncelleştirme](https://partner.microsoft.com/resources/collection/csp-open-evolution-to-a-better-experience#/)
+- [CSP program evrimi ve açık lisans programı değişikliklerinde Güncelleştir](https://partner.microsoft.com/resources/collection/csp-open-evolution-to-a-better-experience#/)
 
-- [Belirli bölgelerde CSP müşteri ekleme gereksinimlerinde yapılan değişiklikler](https://partner.microsoft.com/resources/collection/additionalfields-csp-customers-selected-geos#/)
+- [Belirli bölgelerde CSP müşterisi ekleme gereksinimlerinde yapılan değişiklikler](https://partner.microsoft.com/resources/collection/additionalfields-csp-customers-selected-geos#/)
 
-- [CSP programında yeni ticari PDF faturası için yeni biçim](https://partner.microsoft.com/resources/collection/introducing-new-format-for-the-new-commerce-invoice-in-csp#/)
+- [CSP programındaki yeni ticaret PDF faturası için yeni biçim](https://partner.microsoft.com/resources/collection/introducing-new-format-for-the-new-commerce-invoice-in-csp#/)
 
-[CSP topluluk koleksiyonunda](https://partner.microsoft.com/resources/collection/april-2021-csp-partner-community-content#/)şunları bulabilirsiniz:
+[CSP topluluk koleksiyonu](https://partner.microsoft.com/resources/collection/april-2021-csp-partner-community-content#/)içinde şunları bulabilirsiniz:
 
-- Son [CSP duyurularını,](https://partner.microsoft.com/resources/detail/csp-monthly-update-april-2021-global)güncelleştirmelerini, olayları ve anımsatıcıları kolay okunur bir belgede toplanmış indirilebilir CSP Aylık Güncelleştirme bülteni.
+- En son CSP bildirilerini, güncelleştirmeleri, olayları ve anımsatıcıları kolay okunabilir bir belgede toplayan, indirilebilir [CSP aylık güncelleştirme Bülteni](https://partner.microsoft.com/resources/detail/csp-monthly-update-april-2021-global).
 
-- Programı etkileyen yaklaşan değişikliklerin zaman çizelgesi görünümünü sağlayan [CSP](https://partner.microsoft.com/resources/detail/csp-announcement-calendar-april-2021)Duyuru Takvimi.
+- Programın etkilediği yaklaşan değişikliklerin zaman çizelgesi görünümünü sağlayan [CSP duyurusu takvimi](https://partner.microsoft.com/resources/detail/csp-announcement-calendar-april-2021).
 
-- Yaklaşan [ürün lansmanlarını](https://partner.microsoft.com/resources/detail/product-launch-calendar-april-pdf)ve tekliflerini görüntüyebilirsiniz yeni ürün lansman takvimi.
+- Yaklaşan ürünün sunduğu ve tekliflerinin görüntüleneceği yeni [ürün başlatma takvimi](https://partner.microsoft.com/resources/detail/product-launch-calendar-april-pdf).
 
-- [CSP, önemli işlem değişikliklerinde](https://partner.microsoft.com/resources/collection/april-2021-csp-launch-topics-collection#/) kullanımı kolay içerikle güncelleştirme kaynaklarını başlatacak.
+- CSP, anahtar işletimsel değişiklikler üzerinde kullanımı kolay içerik ile [güncelleştirme kaynaklarını başlatın](https://partner.microsoft.com/resources/collection/april-2021-csp-launch-topics-collection#/) .
 
-- [İlgi ve sorgu alan önemli](https://partner.microsoft.com/resources/detail/csp-april-2021-refreshers-and-reminders-pdf) CSP konu başlıklarına ilişkin yenilemeler ve anımsatıcılar.
+- Önemli CSP ile ilgili [Yenileiciler ve anımsatıcıları](https://partner.microsoft.com/resources/detail/csp-april-2021-refreshers-and-reminders-pdf) , ilgi ve sorguları alma konuları.
 
-#### <a name="csp-community-call-qas"></a>CSP Community Call Q&As
+#### <a name="csp-community-call-qas"></a>CSP Community&çağrı Q
 
-Topluluk Çağrısı&As, yaklaşan değişikliklerle ilgili sorularda size yardımcı olabilir. CSP topluluk çağrısı soru-cevap&Nisan, Mayıs ve Haziran 'da gerçekleşirken hemen kaydolun. Bunlar en son başlatmalar, önemli yenileiciler ve anımsatıcıları üzerine odaklanacaktır.
+Community Yaklaşan değişikliklerle ilgili sorularınız konusunda size yardımcı olmak için&soru-cevap ' i arayın. CSP için şimdi kaydolun Community nisan, mayıs ve haziran 'da gerçekleşen soru-cevap çağrısı&. Bunlar en son başlatmalar, önemli yenileiciler ve anımsatıcıları üzerine odaklanacaktır.
 
 [Buraya kaydolun](https://globalpbocomm.eventbuilder.com/GlobalCSP).
 
 ### <a name="next-steps"></a>Sonraki adımlar
 
-Topluluk kaynaklarını gözden geçirin ve topluluk çağrısı Q&A için kaydolun.
+topluluk kaynaklarını gözden geçirin ve soru-cevap Community çağrısı A&kaydolun.
 
-Soru-cevap&topluluk çağrısından en iyi şekilde yararlantığınızdan emin olmak için, isteğe bağlı topluluk içeriğini gözden geçirin ve sorularınızı çağrıdan önce 48 saate kadar iletin.
+&soru-cevap Community çağrısından en iyi şekilde yararlantığınızdan emin olmak için, isteğe bağlı topluluk içeriğini gözden geçirin ve sorularınızı çağrıdan 48 saate kadar iletin.
 
 ### <a name="questions"></a>Sorularınız mı var?
 
-Aylık CSP topluluk çağrısı Q&A, CSP programındaki değişikliklerle ilgili soruların en iyi yerdir. Her ay, sizin için en önemli olan konularda oturum harcayabilmeniz için malzemeleri gözden geçirin ve sorularınızı önceden gönderebilirsiniz.
+Community aylık csp, csp programındaki değişikliklerle ilgili soruların en iyi yeri olan soru-cevap&çağrı. Her ay, sizin için en önemli olan konularda oturum harcayabilmeniz için malzemeleri gözden geçirin ve sorularınızı önceden gönderebilirsiniz.
 
 Daha fazla bilgi için [desteğe](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?category=csp)başvurun.
 
@@ -318,33 +318,33 @@ ________________
 
 ### <a name="impacted-audience"></a>Etkilenen hedef kitle
 
-Iş Ortağı Merkezi API 'sini kullanarak bulut çözümü sağlayıcısı programı aracılığıyla akademik, kar amacı gütmeyen ve kamu Community bulutu (GCC) satan iş ortakları
+ortaklık, kar amacı ve Government Community Cloud (GCC) satan iş ortakları, iş ortağı merkezi apı 'sini kullanarak Bulut Çözümü Sağlayıcısı programı aracılığıyla sunulur
 
 ### <a name="details"></a>Ayrıntılar
 
-Bu duyuru, [Aralık ayında yayınlanan](./2020-december.md#1)Iş ortağı merkezi geliştirmeleri için bir izdir. Bu yayının bir parçası olarak, yeni GET ve POST nitelikleri API 'Leri dağıtılır ve sonuç olarak, **mevcut Get niteliği 6 mayıs 2021 tarihinde kullanımdan** kaldırılacaktır. Bu süre içinde, yeni GÖNDERI Ortağı Merkezi API 'Lerini kullanmak için geçiş yapmanız gerekir. Yeni GÖNDERI API 'Leri, eğitim teklifleri satın almanızı sağlayacaktır, ancak yeni GET API 'Leri, önceden nitelikli kar ve GCC teklifleri satın almanızı sağlayacaktır.
+Bu duyuru, [Aralık ayında yayınlanan](./2020-december.md#1)Iş ortağı merkezi geliştirmeleri için bir izdir. Bu sürümün bir parçası olarak yeni GET ve POST Nitelik API'leri dağıtıldı ve sonuç olarak mevcut GET niteliği 6 Mayıs **2021'de kaldırılacaktır.** Bu süre boyunca yeni POST api'lerini kullanmaya İş Ortağı Merkezi gerekir. Yeni POST API'leri Eğitim tekliflerini satın alarken yeni GET API'leri önceden nitelikli Kar Amacı Gütmeyen kuruluş ve GCC sunar.
 
 ### <a name="next-steps"></a>Sonraki adımlar
 
-- Başarılı ve zamanında geçiş için **yeni API 'Lere güncelleştirin** .
+- **Başarılı ve zamanında geçiş için** yeni API'lere güncelleştirin.
 
-- Işlem hazırlık kaynaklarında **Yeni Iş Ortağı Merkezi API 'si değişikliklerini ve kılavuzunu gözden geçirin** : [Partner Center eğitim müşteri doğrulama işlemi geliştirmeleri](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/).
+- **Yeni API değişikliklerini İş Ortağı Merkezi** İşlem hazırlığı kaynaklarında Kılavuzu gözden geçirme: [İş Ortağı Merkezi Eğitim müşteri doğrulama süreci geliştirmeleri.](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/)
 
-- Bu bilgileri kuruluşunuzdaki uygun ekiplerle ve bu değişikliklere hazırlanmalarına yardımcı olmak için satıcılarla birlikte paylaşabilirsiniz.
+- Bu bilgileri, bu değişikliklere hazırlanmalarına yardımcı olmak için kuruluş içindeki uygun ekiplerle ve kurumsal bayilerle paylaşın.
 
 ### <a name="questions"></a>Sorularınız mı var?
 
-Bu bildirimle ilgili sorularınız için [Iş ortağı merkezi desteği](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals)'ne başvurun.
+Bu bildirimle ilgili tüm sorular için destek için [İş Ortağı Merkezi başvurun.](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals)
 
 ### <a name="change-log"></a>Değişiklik günlüğü
 
 - 4 Mayıs 2021: GET niteliğinin kullanımdan kalkacak olmasıyla ilgili son anımsatıcı
 
-- 9 Nisan 2021: GET niteliğinin kullanımdan kalkacak olduğunu anımsatmak 
+- 9 Nisan 2021: GET niteliğinin kullanımdan kalkacak olduğunu anımsatıcı 
 
 - Şubat: GET ve PUT niteliklerinin kullanımdan & güncelleştirildi
 
-- Ocak: GET ve PUT niteliklerinin gelecek kullanımdan & anımsatıcısı
+- Ocak: GET ve PUT niteliklerinin kullanımdan & anımsatıcısı
 
 ________________
 ## <a name="new-format-for-the-new-commerce-pdf-invoice-in-csp"></a><a name="3"></a>CSP'de yeni ticari PDF faturası için yeni biçim
@@ -356,7 +356,7 @@ ________________
 
 ### <a name="summary"></a>Özet
 
-Microsoft, fatura ayrıntılarını SKU açıklaması yerine ürün ayrıntılarına göre görüntülemek için Bulut Çözümü Sağlayıcısı (CSP) programında yeni ticari PDF faturası için yeni bir biçim sunuyor.
+Microsoft, SKU açıklaması yerine ürün ayrıntılarına göre faturalama ayrıntılarını görüntülemek için Bulut Çözümü Sağlayıcısı (CSP) programında yeni ticari PDF faturası için yeni bir biçim sunuyor.
 
 ### <a name="impacted-audience"></a>Etkilene hedef kitle
 
@@ -382,18 +382,18 @@ Aşağıdaki öğeler etkilenmez:
 
 - Fatura PDF'leri sayfasındaki faturalama özeti sayfası
 
-- Mevcut faturalandırma API 'Leri
+- Mevcut faturalama API'leri
 
-- Karşılaştırma dosyaları (keşfi dosyaları, parçalı verileri almak için kullanılabilir.) 
+- Mutabakat dosyaları (Ayrıntılı verileri almak için Mutabakat dosyaları kullanılabilir.) 
 
 - Kullanım ve lisans tabanlı ücretler faturaları
 
 ### <a name="next-steps"></a>Sonraki adımlar
 
-Microsoft iş ortağı web sitesinin [Işlem hazırlık kaynağı galerisinde](https://partner.microsoft.com/resources/collection/introducing-new-format-for-the-new-commerce-invoice-in-csp#/) bu konuyla ilgili bilgileri gözden geçirin. Faturalandırma kaynakları, faturalar, CSP faturalandırma ve vergiler dahil faturalandırma ve vergi konuları hakkında daha fazla bilgi için Iş Ortağı Merkezi ' nde [faturalandırma bölümünü](../billing.md) ziyaret edin.
+Microsoft iş ortağı web sitesinin İşlem hazırlığı kaynak [galerisinde bu konu](https://partner.microsoft.com/resources/collection/introducing-new-format-for-the-new-commerce-invoice-in-csp#/) hakkında bilgileri gözden geçirebilirsiniz. Faturalama kaynakları, faturalar, CSP faturalaması ve vergiler gibi faturalama [](../billing.md) ve vergi konuları hakkında daha fazla bilgi için, İş Ortağı Merkezi.
 
 ________________
-## <a name="changes-to-the-cloud-solution-provider-csp-customer-onboarding-requirements"></a><a name="2"></a>Bulut çözümü sağlayıcısı (CSP) müşteri ekleme gereksinimleriyle yapılan değişiklikler
+## <a name="changes-to-the-cloud-solution-provider-csp-customer-onboarding-requirements"></a><a name="2"></a>Bulut Çözümü Sağlayıcısı (CSP) müşteri ekleme gereksinimlerinde yapılan değişiklikler
 
 ### <a name="categories"></a>Kategoriler
 
@@ -402,19 +402,19 @@ ________________
 
 ### <a name="summary"></a>Özet
 
-İş ortakları ve müşterilerin işlerini güvenle çalıştırmasına yardımcı olma çabamız kapsamında, 25 Mart 2021 ' den itibaren geçerli olan ek müşteri bilgileri isteyeceğiz.
+İş ortaklarına ve müşterilerin iş ortaklarına ve iş ortaklarına güvene dayalı olarak işlerini çalıştırmalarına yardımcı olmaya ilişkin taahhüdüm kapsamında, 25 Mart 2021'den itibaren geçerli olacak şekilde ek müşteri bilgileri talep ediyoruz.
 
-### <a name="impacted-audience"></a>Etkilenen hedef kitle
+### <a name="impacted-audience"></a>Etkilene hedef kitle
 
-CSP doğrudan fatura ortakları ve sonraki bölümde listelenen ülkelerde yeni veya mevcut müşteriler bulunan dolaylı sağlayıcılar
+CsP doğrudan fatura iş ortakları ve sonraki bölümde listelenen ülkelerde yeni veya mevcut müşterileri olan dolaylı sağlayıcılar
 
 ### <a name="details"></a>Ayrıntılar
 
-Microsoft, güvende çalışır. CSP programında deneyimidir müşteri abonelikleri için uyumlu, güvenli ve güvenli bir müşteri doğrulama yöntemi sağlamayı taahhüt ediyoruz. 25 Mart 2021 ' de, aşağıdaki ölçütlerin her ikisini de karşılayan iş ortaklarını etkileyecek Iş Ortağı Merkezi API 'SI ve Kullanıcı arabirimi (UI) geliştirmeleri sunacağız:
+Microsoft güven üzerinde çalışır. CSP programında müşteri aboneliklerini işlemeye yardımcı olmak için uyumlu, güvenli ve güvenli bir müşteri doğrulama yöntemi sağlamayı taahhüt etmek istiyoruz. 25 Mart 2021'de, aşağıdaki ölçütlerin her ikisini de karşıleyen iş ortaklarını etkileyecek İş Ortağı Merkezi API'si ve kullanıcı arabirimi (UI) geliştirmeleri tanıtacağız:
 
-- İş ortağı Microsoft ile doğrudan faturalandırma ilişkisine sahiptir (Bu, ortağın doğrudan bir fatura ortağı veya dolaylı bir sağlayıcı olduğu anlamına gelir).
+- İş ortağının Microsoft ile doğrudan faturalama ilişkisi vardır (bu da iş ortağının doğrudan fatura iş ortağı veya dolaylı sağlayıcı olduğu anlamına gelir).
 
-- İş ortağı aşağıdaki ülkelerde yeni veya mevcut müşteriler ile iş yapar:
+- İş ortağı, aşağıdaki ülkelerdeki yeni veya mevcut müşterilerle iş yapar:
 
     - Tayland
     - Vietnam
@@ -430,11 +430,11 @@ Microsoft, güvende çalışır. CSP programında deneyimidir müşteri abonelik
     - Birleşik Arap Emirlikleri
     - Venezuela
 
-Ölçütlere uyan iş ortaklarının bir müşterinin Şirket kayıt KIMLIĞINI (müşterinin kuruluş adı olarak da bilinir) ve telefon numarasını bir sonraki güncelleştirdiklerinde ve bu müşteri için bir abonelik oluştururken göndermesi gerekecektir. Ayrıca bu iş ortakları müşteri için isteğe bağlı bir ikinci ad da girebilir.
+Ölçütlere uyan iş ortaklarının, bir sonraki müşteri için bir abonelik güncelleştirmesi veya oluşturması için müşterinin şirket kayıt kimliğini (müşterinin kuruluş INN'si olarak da bilinir) ve telefon numarasını göndermesi gerekir. Ayrıca bu iş ortakları müşteri için isteğe bağlı bir ikinci ad da girebilir.
 
-Şirket kayıt KIMLIĞINIZI eklediğinizde müşterinin kişisel KIMLIĞINI değil iş vergi KIMLIĞINIZI kullanmanız gerektiğini unutmayın.
+Şirket kayıt kimliğinizi eklerken, müşterinin kişisel kimliğini değil, iş verginizi kullanmanız gerektiğini unutmayın.
 
-Aşağıdaki ülkelerde yeni veya mevcut müşteriler ile iş yapan iş ortakları, Kasım 2020 ' de daha önceki bir sürüm ile zaten eklendi.
+Aşağıdaki ülkelerde yeni veya mevcut müşterilerle iş yapan iş ortakları, Kasım 2020'de önceki bir sürümle birlikte zaten ek açıklamaya alınmaktadır.
 
 - Ermenistan
 - Azerbaycan
@@ -459,7 +459,7 @@ Dünyanın geri kalanındaki müşterilerle iş ortakları, Mart 2021'in sonunda
 
 ### <a name="questions"></a>Sorularınız mı var?
 
-Şirket kayıt kimliğiyle (INN veya TIN olarak da adlandırılan) ilgili sorularınız varsa vergi danışmanınıza veya yerel vergi ofisinize ulaşın. Microsoft, vergiler konusunda rehberlik sağamaz.
+Şirket kayıt kimliğiyle (INN veya TIN olarak da adlandırılan) ilgili sorularınız varsa vergi danışmanınıza veya yerel vergi ofisinize ulaşın. Microsoft, vergi konularıyla ilgili rehberlik sağamaz.
 
 Microsoft ile işlemleriniz için de destek gerekirse bir hizmet [isteği açın.](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=aa679372-d996-73df-e244-cb28bbbf28e8)
 
@@ -476,16 +476,16 @@ Nisan 2021 ürün lansman takvimi yayımlandı.
 
 ### <a name="impacted-audience"></a>Etkilene hedef kitle
 
-Bulut Çözümü Sağlayıcısı (CSP) programı aracılığıyla işlem yapılan tüm iş ortakları
+tüm iş ortakları Bulut Çözümü Sağlayıcısı (CSP) programı üzerinden deneyimidir
 
 ### <a name="details"></a>Ayrıntılar
 
-Nisan 2021 [ürün lansman takvimi](https://partner.microsoft.com/resources/collection/product-launch-calendar-collection#/) artık İşlemler için hazır olma kaynak galerisinde kullanılabilir. Yaklaşan ürün lansmanlarını ve tekliflerini burada görüntüle.
+Nisan 2021 [ürün başlatma takvimi](https://partner.microsoft.com/resources/collection/product-launch-calendar-collection#/) artık işlem hazırlık kaynağı galerisinde kullanılabilir. Yakında çıkacak ürünü görüntüleyin ve burada teklif edin.
 
 ### <a name="next-steps"></a>Sonraki adımlar
 
-Ürün [lansman takvimini](https://partner.microsoft.com/resources/collection/product-launch-calendar-collection#/)gözden geçirin ve bilgileri kuruluşta uygun proje katılımcıları ile paylaşın.  
+[Ürün başlatma takvimini](https://partner.microsoft.com/resources/collection/product-launch-calendar-collection#/)gözden geçirin ve bilgileri kuruluşunuzdaki uygun hissedarlarla paylaşabilirsiniz.  
 
 ### <a name="questions"></a>Sorularınız mı var?
 
-Bu teklifler hakkında daha fazla soru için ilgili Yammer topluluklarınızı kontrol edin.
+bu teklifler hakkında daha fazla soru için ilgili Yammer topluluklarınızı kontrol edin.

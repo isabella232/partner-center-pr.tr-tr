@@ -3,18 +3,18 @@ title: Sorunları Microsoft'a aktar
 description: Microsoft iş ortaklarının müşterileri için kendilerini çözmesi beklenen sorunları ve Microsoft'a hangi sorunları yükseltmeleri gerekeceğini öğrenin.
 ms.topic: how-to
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-support
 author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/18/2020
-ms.openlocfilehash: 9504f66a53b2dc2303303e3f82020b591ce1f94f
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 276747cffb3007e5403cb8238b0540fe191e34cb
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110146978"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114840629"
 ---
 # <a name="escalate-problems-to-microsoft-and-learn-which-issues-are-more-suited-to-microsoft-escalation"></a>Sorunları Microsoft'a yükseltme ve Microsoft yükseltme için daha uygun olan sorunları öğrenme  
 
@@ -44,16 +44,16 @@ Ancak, düzeltmek için Microsoft'a teslim etmek zorunda olacak çeşitli sorun 
 
 3. Hizmet **yönetimi'ne** ve ardından **Hizmet istekleri'ne seçin.**
 
-4. Yeni **istek'i** ve ardından **365 Microsoft Office seçin.**
+4. Yeni **istek'i** seçin ve **sonra** da Microsoft Office 365.
 
-5. Office 365 portalına alınırsınız ve bu portalda kimlik bilgilerinizi kullanarak İş Ortağı Merkezi gerekir.
+5. Office 365 portala alınırsınız ve burada kimlik bilgilerinizi kullanarak İş Ortağı Merkezi gerekir.
 
 6. Sol **menüden** **Destek , Yeni** hizmet isteği'ne tıklayın.
 
 7. Destek konusunu seçin.
 
 >[!NOTE]
->İş ortağı ve müşteri arasındaki ilişkinin korunmasını sağlamak için Iş Ortağı Merkezi panosundan başlamak önemlidir. 
+>İş ortağı ve müşteri arasındaki ilişkinin İş Ortağı Merkezi için panodan başlamak önemlidir. 
 
-Müşterinin adına sorunları bildirme hakkında bilgi için bkz. [müşteri adına sorun bildirme](report-problems-on-behalf-of-a-customer.md).
+Sorunları müşteri adına raporlama hakkında bilgi için bkz. [Sorunları müşteri adına bildirme.](report-problems-on-behalf-of-a-customer.md)
 

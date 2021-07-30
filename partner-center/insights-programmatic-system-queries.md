@@ -1,33 +1,33 @@
 ---
-title: İş ortağı içgörüleri programlı erişimi için sistem sorgularının listesi
-description: İş ortağı içgörüleri analiz verilerine erişmek için kullanabileceğiniz sistem sorguları hakkında daha fazla bilgi edinin.
+title: İş ortağı öngörüleri programlama erişimi için sistem sorgularının listesi
+description: İş ortağı öngörüleri Analizi verilerine erişmek için kullanabileceğiniz sistem sorguları hakkında daha fazla bilgi edinin.
 ms.topic: reference
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-insights
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.date: 07/14/2021
-ms.openlocfilehash: 4b0bd5411d02463b015cf812cde78e34ef853814
-ms.sourcegitcommit: 4f1702683336d54f24c0ba283f7d13dda581923d
+ms.openlocfilehash: 9f82907d24a1693097d8c9cfc42094be067639b1
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/16/2021
-ms.locfileid: "114376918"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114840017"
 ---
-# <a name="list-of-system-queries-for-partner-insights-programmatic-access"></a>İş ortağı içgörüleri programlı erişimi için sistem sorgularının listesi
+# <a name="list-of-system-queries-for-partner-insights-programmatic-access"></a>İş ortağı öngörüleri programlama erişimi için sistem sorgularının listesi
 
-Aşağıdaki sistem sorguları doğrudan QueryId ile [Rapor Oluşturma API'sinde](insights-programmatic-access-paradigm.md#create-report-api) kullanılabilir. Sistem sorguları, altı aylık (6 milyon) İş Ortağı Merkezi raporları dışarı aktarma raporlarına benzer.
+Aşağıdaki sistem sorguları, [rapor oluşturma API](insights-programmatic-access-paradigm.md#create-report-api) 'sinde doğrudan bir QueryId ile kullanılabilir. Sistem sorguları, altı aylık (6M) hesaplama dönemi için Iş ortağı merkezindeki dışa aktarma raporlarına benzer.
 
-Sütun adları, öznitelikler ve açıklama hakkında daha fazla bilgi için lütfen Veri [Tanımları'na bakın](insights-data-definitions.md)
+Sütun adları, öznitelikler ve açıklama hakkında daha fazla bilgi için lütfen [veri tanımlarına](insights-data-definitions.md) bakın
 
-Aşağıdaki bölümlerde çeşitli raporlar için rapor sorguları sağlanmıştır.
+Aşağıdaki bölümlerde çeşitli raporlar için rapor sorguları sağlanmaktadır.
 
 ## <a name="customers"></a>Müşteriler
 
-Son altı aya göre Müşteriler raporu
+Son altı ay için müşteriler raporu
 
-Sorgu Kimliği: `6664daf3-c161-423a-92a1-0ea6db2c0384`
+Sorgu KIMLIĞI: `6664daf3-c161-423a-92a1-0ea6db2c0384`
 
 ### <a name="report-query"></a>Rapor sorgusu
 ```sql
@@ -38,11 +38,11 @@ IsDuplicateRowForPGA,AvailableSeats,BilledRevenueUSD,AzureConsumedRevenueUSD
 FROM CustomersAndTenants TIMESPAN LAST_6_MONTHS
 ```
 
-## <a name="seats-subscriptions-and-revenue"></a>Seats Subscriptions and Revenue
+## <a name="seats-subscriptions-and-revenue"></a>Koltuk abonelikleri ve geliri
 
-Son altı ay için yer, abonelik ve gelir raporu
+Son altı ay için koltuk, abonelik ve gelir raporu
 
-Sorgu Kimliği: `c9fc1c79-4408-49ff-97f9-e1aa3f155804`
+Sorgu KIMLIĞI: `c9fc1c79-4408-49ff-97f9-e1aa3f155804`
 
 ### <a name="report-query"></a>Rapor sorgusu
 
@@ -55,11 +55,11 @@ IsDuplicateRowForPGA,SubscriptionStartMonth,TotalSoldSeats,TotalAssignedSeats,Bi
 AzureConsumedRevenueUSD FROM SeatsSubscriptionsAndRevenue TIMESPAN LAST_6_MONTHS
 ```
 
-## <a name="partner-profile"></a>İş Ortağı Profili
+## <a name="partner-profile"></a>İş ortağı profili
 
 Profil verileri
 
-Sorgu Kimliği: `e65f3a4f-fb99-4319-97ff-59e57566a871`
+Sorgu KIMLIĞI: `e65f3a4f-fb99-4319-97ff-59e57566a871`
 
 ### <a name="report-query"></a>Rapor sorgusu
 
@@ -68,11 +68,11 @@ SELECT MPNId,PartnerName,PGA_MPNId,PGA_PartnerName,City,Country,HierarchyLevel
 FROM Profile
 ```
 
-## <a name="azure-usage"></a>Azure Kullanımı
+## <a name="azure-usage"></a>Azure kullanımı
 
-Son altı ay için AzureUsage raporu
+Son altı ay için Azurekullanım raporu
 
-Sorgu Kimliği: `d1a4d75e-5ca8-4847-845f-ee0a9be6f07b`
+Sorgu KIMLIĞI: `d1a4d75e-5ca8-4847-845f-ee0a9be6f07b`
 
 ### <a name="report-query"></a>Rapor sorgusu
 
@@ -84,11 +84,11 @@ IsACRDuplicateAtPGALevel,ResellerID,ResellerName,MonthlySubscriptionLevelACR,Tot
 FROM AzureUsage TIMESPAN LAST_6_MONTHS
 ```
 
-## <a name="office-usage"></a>Office Kullanım
+## <a name="office-usage"></a>Office Kullanımıyla
 
-Son altı ay için OfficeUsage raporu
+Son altı ay için Officekullanım raporu
 
-Sorgu Kimliği: `d8349f7b-a7d1-467e-b26d-434d4a50f26a`
+Sorgu KIMLIĞI: `d8349f7b-a7d1-467e-b26d-434d4a50f26a`
 
 ### <a name="report-query"></a>Rapor sorgusu
 
@@ -98,11 +98,11 @@ CustomerMarket,CustomerSegment,MPNId,PartnerName,PartnerLocation,PartnerAttribut
 FROM OfficeUsage TIMESPAN LAST_6_MONTHS
 ```
 
-## <a name="dynamics-usage"></a>Dynamics Kullanımı
+## <a name="dynamics-usage"></a>Dynamics kullanımı
 
-DynamicsUsage raporu altı ay boyunca
+Altı ay için DynamicsUsage raporu
 
-Sorgu Kimliği: `6209a8fd-93af-442e-8b3f-3df0f77e8463`
+Sorgu KIMLIĞI: `6209a8fd-93af-442e-8b3f-3df0f77e8463`
 
 ### <a name="report-query"></a>Rapor sorgusu
 
@@ -116,9 +116,9 @@ FROM DynamicsUsage TIMESPAN LAST_6_MONTHS
 
 ## <a name="power-bi-usage"></a>Power BI kullanımı
 
-Altı ay boyunca PowerBIUsage raporu
+Altı ay için PowerBIUsage raporu
 
-Sorgu Kimliği: `40ebfe2f-7183-4427-a911-5c9b45b6df15`
+Sorgu KIMLIĞI: `40ebfe2f-7183-4427-a911-5c9b45b6df15`
 
 ### <a name="report-query"></a>Rapor sorgusu
 
@@ -130,11 +130,11 @@ AssignedSeats,ActiveSeats,DeploymentOpportunity,ActiveUsagePercent
 FROM PowerBIUsage TIMESPAN LAST_6_MONTHS
 ```
 
-## <a name="ems-usage"></a>EMS Kullanımı
+## <a name="ems-usage"></a>EMS kullanımı
 
-ALTı ay boyunca EMSUsage raporu
+Altı ay için EMSUsage raporu
 
-Sorgu Kimliği: `d7f20ea4-8751-4d6b-b1d7-821c316acd6a`
+Sorgu KIMLIĞI: `d7f20ea4-8751-4d6b-b1d7-821c316acd6a`
 
 ### <a name="report-query"></a>Rapor sorgusu
 
@@ -146,11 +146,11 @@ MonthlyActiveUsers,AADPPaidAvailableUnits,IntunePaidAvailableUnits,AzipPaidAvail
 AADPMonthlyActiveUsers,IntuneMonthlyActiveUsers,AzipMonthlyActiveUsers FROM EMSUsage TIMESPAN LAST_6_MONTHS
 ```
 
-## <a name="competency-performance-requirement-report"></a>Uzmanlık Performansı gereksinim raporu
+## <a name="competency-performance-requirement-report"></a>Uzmanlık performansı gereksinimi raporu
 
-CompetencyPeformanceRequirement raporu altı ay boyunca
+Altı ay için CompetencyPeformanceRequirement raporu
 
-Sorgu Kimliği: `3a0e1adc-f5c1-42ac-9422-8e944bf81ae5`
+Sorgu KIMLIĞI: `3a0e1adc-f5c1-42ac-9422-8e944bf81ae5`
 
 ### <a name="report-query"></a>Rapor sorgusu
 
@@ -161,13 +161,13 @@ FROM CompetencyPeformanceRequirement
 TIMESPAN LAST_6_MONTHS
 ```
 
-## <a name="cloud-products-reseller-performance"></a>Bulut ürünleri kurumsal bayi performansı
+## <a name="cloud-products-reseller-performance"></a>Bulut ürünleri satıcı performansı
 
 ### <a name="report-description"></a>Rapor açıklaması
 
-Altı ay boyunca CloudProductsResellerPerformance raporu
+Altı ay için CloudProductsResellerPerformance raporu
 
-Sorgu Kimliği: `c09c2eda-861b-4664-8ee8-48a14745a26a`
+Sorgu KIMLIĞI: `c09c2eda-861b-4664-8ee8-48a14745a26a`
 
 ### <a name="report-query"></a>Rapor sorgusu
 
@@ -178,11 +178,11 @@ CustomerMarket,ResellerStatus
 FROM CloudProductsResellerPerformance TIMESPAN LAST_6_MONTHS
 ```
 
-## <a name="clas-agreement-renewal-propensity"></a>CLAS Sözleşmesi Yenileme eğilimi
+## <a name="clas-agreement-renewal-propensity"></a>CLAS sözleşmesi yenileme eğilimini
 
-CLASAgreementRenewalsPropensity raporu altı ay boyunca
+Altı ay için CLASAgreementRenewalsPropensity raporu
 
-Sorgu Kimliği: `c4fc87ac-4cca-44cd-bf4d-835ac513f9ee`
+Sorgu KIMLIĞI: `c4fc87ac-4cca-44cd-bf4d-835ac513f9ee`
 
 ### <a name="report-query"></a>Rapor sorgusu
 
@@ -195,11 +195,11 @@ AzureUpsellCustomer,M365UpsellCustomer,RevSumDivisionName
 FROM CLASAgreementRenewalsPropensity
 ```
 
-## <a name="clas-azure-propensity"></a>CLAS Azure eğilimi
+## <a name="clas-azure-propensity"></a>CLAS Azure eğilimini
 
-ALTı ay boyunca CLASAzurePropensity raporu
+Altı ay için CLASAzurePropensity raporu
 
-Sorgu Kimliği: `9a18bd70-8f90-4bd2-8266-5f6e453e3ee7`
+Sorgu KIMLIĞI: `9a18bd70-8f90-4bd2-8266-5f6e453e3ee7`
 
 ### <a name="report-query"></a>Rapor sorgusu
 
@@ -229,11 +229,11 @@ HasAWS,HasEA,HasOpen
 FROM CLASAzurePropensity
 ```
 
-## <a name="clas-d365-propensity"></a>CLAS D365 eğilimi
+## <a name="clas-d365-propensity"></a>CLAS D365 eğilimini
 
-ALTı ay boyunca CLASD365Propensity raporu
+Altı ay için CLASD365Propensity raporu
 
-Sorgu Kimliği: `258fdcac-6e9c-4072-af27-b1b3d97be16c`
+Sorgu KIMLIĞI: `258fdcac-6e9c-4072-af27-b1b3d97be16c`
 
 ### <a name="report-query"></a>Rapor sorgusu
 
@@ -261,11 +261,11 @@ DynamicsOnPremAXorCRM_HasOpenRenewal,M365UpsellCustomer,HasGoogle,HasAWS,HasEA,H
 FROM CLASD365Propensity
 ```
 
-## <a name="clas-m365-propensity"></a>CLAS M365 eğilimi
+## <a name="clas-m365-propensity"></a>CLAS M365 eğilimini
 
-CLASM365Propensity raporu altı ay boyunca
+Altı ay için CLASM365Propensity raporu
 
-Sorgu Kimliği: `fbe00e32-fdde-4465-b3e4-41bbd021a130`
+Sorgu KIMLIĞI: `fbe00e32-fdde-4465-b3e4-41bbd021a130`
 
 ### <a name="report-query"></a>Rapor sorgusu
 
@@ -289,11 +289,11 @@ M365UpsellCustomer,HasGoogle,HasAWS,HasEA,HasOpen
 FROM CLASM365Propensity
 ```
 
-## <a name="teams-usage-3p-apps"></a>Teams Kullanım 3P Uygulamaları
+## <a name="teams-usage-3p-apps"></a>Teams Kullanım 3P Apps
 
-TeamsUsage3PApps raporu altı ay boyunca
+Altı ay için TeamsUsage3PApps raporu
 
-Sorgu Kimliği: `42d287be-cc76-4109-a066-f3140ad97fe2`
+Sorgu KIMLIĞI: `42d287be-cc76-4109-a066-f3140ad97fe2`
 
 ### <a name="report-query"></a>Rapor sorgusu
 
@@ -302,11 +302,11 @@ SELECT CustomerId,CustomerTenantId,CustomerName,CustomerCountry,DateKey,AppName,
 FROM TeamsUsage3PApps TIMESPAN LAST_6_MONTHS
 ```
 
-## <a name="teams-usage-workload"></a>Teams iş yükü kullanma
+## <a name="teams-usage-workload"></a>Teams kullanımı iş yükü
 
-TeamsUsageWorkload raporu altı ay boyunca
+Altı ay için TeamsUsageWorkload raporu
 
-Sorgu Kimliği: `817fe875-acb0-4c45-9201-b7a35a60235a`
+Sorgu KIMLIĞI: `817fe875-acb0-4c45-9201-b7a35a60235a`
 
 ### <a name="report-query"></a>Rapor sorgusu
 
@@ -315,11 +315,11 @@ SELECT CustomerId,CustomerTenantId,MonthKey,SubWorkload,DesktopUsers,WebUsers,Mo
 FROM TeamsUsageWorkload TIMESPAN LAST_6_MONTHS
 ```
 
-## <a name="teams-usage-meetings-and-calls"></a>Teams toplantılarını ve çağrıları kullanma
+## <a name="teams-usage-meetings-and-calls"></a>kullanım toplantıları ve çağrıları Teams
 
-TeamsUsageMeetingsAndCalls raporu altı ay boyunca
+Altı ay için Teamsusagemeeting ınsandgörüşmelerini raporu
 
-Sorgu Kimliği: `b7bd73a8-47e8-4c57-b915-445708cfd7bf`
+Sorgu KIMLIĞI: `b7bd73a8-47e8-4c57-b915-445708cfd7bf`
 
 ### <a name="report-query"></a>Rapor sorgusu
 
@@ -328,11 +328,11 @@ SELECT CustomerId,CustomerTenantId,DateKey,SubWorkload,MeetingCount,MeetingDurat
 FROM TeamsUsageMeetingsAndCalls TIMESPAN LAST_6_MONTHS
 ```
 
-## <a name="competency-summary-history"></a>Uzmanlık özeti geçmişi
+## <a name="competency-summary-history"></a>Uzmanlık Özeti geçmişi
 
-CompetencySummaryHistory raporu altı ay boyunca
+Altı ay için CompetencySummaryHistory raporu
 
-Sorgu Kimliği: `fddab2aa-523d-47f6-90fe-588557306db4`
+Sorgu KIMLIĞI: `fddab2aa-523d-47f6-90fe-588557306db4`
 
 ### <a name="report-query"></a>Rapor sorgusu
 
@@ -341,11 +341,11 @@ SELECT CompetencyName,CompetencyLevel,CompetencyStatus,CompetencyStartDate,Compe
 FROM CompetencySummaryHistory TIMESPAN LAST_6_MONTHS
 ```
 
-## <a name="training-completion"></a>Eğitimin tamamlanması
+## <a name="training-completion"></a>Eğitim tamamlama
 
-Altı ay boyunca Eğitim Tamamlamaları raporu
+Altı ay için eğitim tamamlama raporu
 
-Sorgu Kimliği: `20f5da57-3c2a-481b-b6a0-ec34d6db14e2`
+Sorgu KIMLIĞI: `20f5da57-3c2a-481b-b6a0-ec34d6db14e2`
 
 ### <a name="report-query"></a>Rapor sorgusu
 
@@ -357,9 +357,9 @@ FROM TrainingCompletions TIMESPAN LAST_6_MONTHS
 
 ## <a name="microsoft-learn"></a>Microsoft Learn
 
-Microsoft Learn altı aya göre rapor
+Son altı ay için Microsoft Learn raporu
 
-Sorgu Kimliği: `0e06c7c3-75ab-4cd5-8178-8cf1a2de49cc`
+Sorgu KIMLIĞI: `0e06c7c3-75ab-4cd5-8178-8cf1a2de49cc`
 
 ### <a name="report-query"></a>Rapor sorgusu
 
@@ -370,5 +370,5 @@ FROM MSLearn TIMESPAN LAST_6_MONTHS
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-- [İş ortağı içgörüleri analiz verilerine erişmek için API'ler](insights-programmatic-analytics-available-api.md)
-- [İş ortağı içgörüleri analiz verilerine erişmek için örnek uygulama](insights-programmatic-sample-application.md)
+- [Partner Insights Analytics verilerine erişim için API 'Ler](insights-programmatic-analytics-available-api.md)
+- [Partner Insights Analytics verilerine erişmek için örnek uygulama](insights-programmatic-sample-application.md)
