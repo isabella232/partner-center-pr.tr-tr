@@ -3,18 +3,18 @@ title: iş ortağı merkezi Analizler Microsoft Learn analizi
 ms.topic: article
 ms.date: 08/13/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-insights
 description: Bireysel eğitim, tamamlanan modüller, tamamlanan öğrenme yolları ve daha fazlasını kullanarak şirketinizdeki öğrendiklerinizi izleyin.
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d9f9ce631fe667030638e1a9167809e3dae69830
-ms.sourcegitcommit: 4f1702683336d54f24c0ba283f7d13dda581923d
+ms.openlocfilehash: b291ee52c9c6e72dc50aab9aa386177d9778cbd1
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/16/2021
-ms.locfileid: "114373878"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114845423"
 ---
 # <a name="use-microsoft-learn-analytics-reports"></a>Microsoft Learn Analytics raporlarını kullanma
 

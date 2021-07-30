@@ -3,17 +3,17 @@ title: Bir Microsoft iş ortağı bulun
 ms.topic: article
 ms.date: 08/25/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-referrals
 description: Bir Microsoft iş ortağı olarak, müşterilerinize veya belirli programlarınıza nasıl yardımcı olabileceği hakkında sorularınız olabilir. Yardımcı olabilecek diğer iş ortaklarını bulun.
 author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
-ms.openlocfilehash: be12ede0c725a859892985e4cfb9032d7fb2abe8
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 1a5da21326ae789e4b6f570c14f9a52e0348bb64
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110150956"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114845304"
 ---
 # <a name="find-a-partner-or-solution-provider-to-answer-questions-about-programs-licensing-or-customer-deals"></a>Programlar, lisanslama veya müşteri anlaşmaları hakkında soruları yanıtlamak için bir iş ortağı veya çözüm sağlayıcısı bulun 
 
@@ -25,7 +25,7 @@ Bu makalede, Microsoft iş ortaklarına, Microsoft ürün ve hizmetleriyle müş
 
 Microsoft iş ortağı ekosisteminde çok sayıda iş ortağı veya dağıtıcılar vardır. Bu makalede ele alınan bazı nedenler şunlardır:
 
-- Bulut çözümü sağlayıcısı (CSP) program dolaylı satıcıları ve bunların dolaylı sağlayıcıları
+- Bulut Çözümü Sağlayıcısı (CSP) program dolaylı satıcıları ve bunların dolaylı sağlayıcıları
 - Toplu Lisanslama program dağıtıcıları
 - OEM dağıtımcıları
 
@@ -39,9 +39,9 @@ Bir iş ortağı veya dağıtıcı bulmanıza yardımcı olması için aşağıd
 |:------------------|:--------------- |
 |CSP dolaylı sağlayıcısı bulun *(henüz atanmış bir dolaylı sağlayıcıya sahip olmayan CSP dolaylı satıcıları için)* | [Microsoft İş Ortağı Ağı dolaylı sağlayıcı arama sayfası](https://partner.microsoft.com/membership/cloud-solution-provider/find-a-provider)  |
 |Toplu lisanslama programı çözüm sağlayıcısı veya Dağıtıcı bulun  | [Microsoft çözüm sağlayıcısı arama sayfası](https://www.microsoft.com/solution-providers/home)  |
-|Microsoft tarafından yetkilendirilmiş bir OEM kanal dağıtıcısı bulun  | [Microsoft Device İş Ortağı Merkezi OEM arama sayfası](https://devicepartner.microsoft.com/connect/distributor)  |
+|Microsoft tarafından yetkilendirilmiş bir OEM kanal dağıtıcısı bulun  | [Microsoft cihaz Iş Ortağı Merkezi OEM arama sayfası](https://devicepartner.microsoft.com/connect/distributor)  |
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-- [CSP programında dolaylı kurumsal bayi olma](https://partner.microsoft.com/licensing)
-- [CSP programında dolaylı kurumsal bayiler ve dolaylı sağlayıcılar hakkında daha fazla bilgi edinin](work-with-other-partners.md)
+- [CSP programında dolaylı satıcı olma](https://partner.microsoft.com/licensing)
+- [CSP programındaki dolaylı satıcılar ve dolaylı sağlayıcılar hakkında daha fazla bilgi edinin](work-with-other-partners.md)

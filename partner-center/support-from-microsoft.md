@@ -3,22 +3,22 @@ title: Microsoft 'tan destek
 ms.topic: article
 ms.date: 06/03/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-support
 description: Bir Microsoft hizmeti veya Iş Ortağı Merkezi ile ilgili sorunlar yaşıyorsanız, yardım için Microsoft 'a gönderebilir ve sorunu çözümlenene kadar izleyebilirsiniz.
 author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d9ae853b095339b54f7b4d2eb0f41fecd5f53f80
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: bc9f52cd015e8c1f7b8b91fd72d58f2445a3fce8
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109854783"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114844981"
 ---
 # <a name="support-from-microsoft"></a>Microsoft 'tan destek
 
-**Uygulama hedefi**: Iş Ortağı Merkezi | ABD kamu için Microsoft Bulut iş ortağı Merkezi
+**Uygulama hedefi**: Iş Ortağı Merkezi | Microsoft Cloud for US Government için iş ortağı Merkezi
 
 **Uygun roller**: Yardım Masası Aracısı
 

@@ -1,33 +1,33 @@
 ---
-title: Kullanmaya başlama-analiz verilerine programlı erişim
+title: Kullanmaya başlayın - analiz verilerine programlı erişim
 ms.topic: article
 ms.date: 07/14/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
-description: API 'yi kullanarak partner Insights Analytics verilerine erişim hakkında bilgi edinin.
+ms.subservice: partnercenter-insights
+description: İş ortağı içgörüleri analiz verilerine erişmek için API'yi kullanmayı öğrenin.
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: 54cd1809b4b2e6ca2a1dbdf6a53bc6ba132d0b9a
-ms.sourcegitcommit: 4f1702683336d54f24c0ba283f7d13dda581923d
+ms.openlocfilehash: 4e8b70b027995ddf7ccf9de2da9eb9be764dced8
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/16/2021
-ms.locfileid: "114377404"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114845134"
 ---
 # <a name="get-started-with-programmatic-access-to-analytics-data"></a>Analiz verilerine program aracılığıyla erişimi kullanmaya başlama
 
-bu kılavuz, iş ortağı Analizler analiz verilerine programlı erişimi kullanmaya başlamanıza yardımcı olur. Gelir, ACR 'yi izlemek için analitik raporlara programlı bir şekilde nasıl erişebileceğinizi öğrenirsiniz, kârlılığı artırmak için performansı ve akıllı öngörüleri değerlendirin. Geliştirilmiş analiz araçları, performans sonuçları üzerinde işlem yapma ve müşterilerinizle ve satıcılarınızla daha iyi ilişkiler elde etme olanağı sağlar.  
+Bu kılavuz, İş Ortağı ve Analiz verilerine programlı erişimi kullanmaya Analizler yardımcı olur. Geliri, ACR'i izlemek, performansı değerlendirmek ve kârlılığı geliştirmek için akıllı içgörüleri değerlendirmek için analitik raporlara program aracılığıyla erişmeyi öğrenirsiniz. Geliştirilmiş analiz araçları, performans sonuçları üzerinde harekete geçebilirsiniz ve müşterilerinizle ve kurumsal bayilerle daha iyi ilişkiler sürdürebilirsiniz.  
 
-Bu kılavuzda belgelenen yöntemleri ve API 'Leri kullanarak, iç analiz sistemlerinizde özel raporlar zamanlayabilir ve temel veri kümeleri oluşturabilirsiniz.
+Bu kılavuzda belgelenmiş yöntemleri ve API'leri kullanarak özel raporlar zamanlamayı ve ana veri kümelerini iç analiz sistemlerinize ekleyebilirsiniz.
 
-İş ortağı öngörüleri raporlarına erişim API 'SI, analiz verilerinizin özel raporlarını zaman uyumsuz olarak zamanlamanıza olanak sağlar. Özelliği, gereksinimlerinize göre raporlama sorguları/şablonları tanımlamanızı, zamanlama ayarlamanıza ve zamanlanan aralıklarda zamanında ve güvenilir raporlar almanıza olanak sağlar.
+İş ortağı içgörüleri raporlarına erişme API'si, analiz verilerinizin özel raporlarını zaman uyumsuz olarak zamanlamanıza olanak sağlar. Bu özellik, ihtiyaçlarınıza göre raporlama sorguları/şablonları tanımlamanızı, bir zamanlama ayarlamanızı ve zamanlanan aralıklarla zamanında ve güvenilir raporlar amanızı sağlar.
 
-İş ortağı öngörüleri analiz verilerine programlı erişimin temel değeri, raporlama ve dahili bı sistemleri ve platformları ile tümleştirme için tasarlanmıştır.
+İş ortağı içgörüleri analiz verilerine program aracılığıyla erişmenin temel değeri, özelleştirilmiş raporlama ve iç iş ortağı sistemleri ve platformlarla tümleştirmedir.
 
 > [!NOTE]
 > İş ortaklarının API arabiriminde tek seferlik ekleme işlemini yapmak için ayrılmış mühendislik kaynaklarına ihtiyacı olacaktır.
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-[Analiz verilerine programlı olarak erişim önkoşulları](insights-programmatic-prerequisites.md)
+[Analiz verilerine program aracılığıyla erişmek için önkoşullar](insights-programmatic-prerequisites.md)

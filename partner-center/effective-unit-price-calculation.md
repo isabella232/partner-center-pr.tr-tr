@@ -2,19 +2,19 @@
 title: Geçerli birim fiyat hesaplaması
 ms.topic: how-to
 ms.date: 04/02/2021
-description: Geçerli birim fiyatı ve nasıl hesaplanmış olduğu hakkında bilgi edinmek. Bu makalede ayrıca bir örnek hesaplama da yer alanmıştır.
+description: Geçerli birim fiyatı ve nasıl hesaplanmış olduğu hakkında bilgi edinmek. Bu makale ayrıca bir örnek hesaplama içerir.
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-billing
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 84beac77d41b8c11be9ac3cad87460eec9632ac4
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 4148e9be6ab5bd3e5a146c0ed5479d8ad9723204
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110147131"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114837331"
 ---
 # <a name="effective-unit-price-calculation-for-azure-plan-consumption"></a>Azure planı tüketimi için geçerli birim fiyat hesaplaması
 
@@ -46,24 +46,24 @@ Aşağıdaki tabloda, açık dönem boyunca geçerli birim fiyatı nasıl hesapl
 
 Tabloda aşağıdaki değerler geçerlidir: 
 
-- **Up** = kaynağın birim fiyatı/saat = 0,868
+- **UP** = Kaynağın birim fiyatı/saat = 0,868
 
-- **BCU** = ölçüm için faturalandırılabilir tüketim birimi
+- **BCU** = Ölçüm için faturalanabilir tüketim birimi
 
-- **BC** = BCU * UP * 0,85 ölçümü için faturalandırılabilir maliyet. Bu, %15 PEC indirimle ilgili bir ayarlamayı yansıtır. Daha sonra, minimum miktarı ücretlendirmeniz için değeri ondalık işaretinden sonra iki basamakla sınırlamak üzere işlevin alt sınırını kullanıyoruz. 
+- **BC** = Ölçüm için faturalanabilir maliyet = BCU * UP * 0,85. Bu, %15 PEC indirimi için bir ayarlamayı yansıtıyor. Ardından, minimum tutarı ücret düşürmek için işlevin alt sınırını kullanarak değeri ondalık ayırıcıdan sonra gelen iki basamakla sınırlandırmış oluruz. 
 
-- **Etkin birim fiyatı** = BCU/BC
+- **Geçerli birim fiyatı** = BCU/BC
 
 >[!NOTE]
 
->Not: Bu örnekteki ölçüm fiyatlandırma veya diğer indirimlerdeki katmanlara sahip değildir. indirim yüzdeleri ve diğer ayarlamalar için geçerli birim fiyat faktörleri.
+>Not: Bu örnekteki ölçüm, fiyatlandırma veya diğer indirimlerde katmana sahip değildir. Geçerli Birim Fiyat, indirim yüzdelerini ve diğer ayarlamaları gösterir.
 
 
 | Tarih | BCU (Faturalanabilir tüketim birimi) | BC (Faturalanabilir maliyet) | Geçerli birim fiyatı |
 | ------ | ----------- | ----------- | ----------- |  
-| 3-Ağu | 29 | 21,39 | 0.737586206896552 |
-| 10 Ağu | 210,950039 | 155,63 | 0.737757626107858 |
-| 25 Ağu | 555,950039 | 410,17 | 0.737782122900436 |
+| 3-Ağu | 29 | 21.39 | 0.737586206896552 |
+| 10-Ağu | 210.950039 | 155.63 | 0.737757626107858 |
+| 25-Ağu | 555.950039 | 410.17 | 0.737782122900436 |
 
 ## <a name="next-steps"></a>Sonraki adımlar
 

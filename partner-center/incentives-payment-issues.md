@@ -8,12 +8,12 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: ad71a6e02d6472ae844c504491e5acb05d5d6426
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: 7e3f3e206c851fbcc68ecd47f6027a2d5856478e
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112277870"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114844784"
 ---
 # <a name="troubleshooting-missing-payments-incorrect-earnings-and-other-issues"></a>Eksik ödemeler, yanlış kazanç ve diğer sorunlar hakkında sorun giderme
 
@@ -21,7 +21,7 @@ ms.locfileid: "112277870"
 
 Bu makale, teşvikleri programınızdaki kazanç veya ödeme sorunlarını çözmenize yardımcı olur. Kapsanan konular, ödemelerin zamanlamasını, kazanç uygunluğunuzu kontrol etmeyi ve ödeme ve vergi profillerinizi doğru şekilde ayarlamanın önemini içerir.
 
-## <a name="who-can-create-or-update-payout-and-tax-profiles-for-my-organization"></a>Kuruluşum için ödeyen ve vergi profilleri kimler oluşturabilir veya güncelleştirebilir?
+## <a name="who-can-create-or-update-payout-and-tax-profiles-for-my-organization"></a>Who, kuruluşumun ödeme ve vergi profillerini oluşturabilir ya da güncelleştirebilir mi?
 
 İlgili müşteriler programı ve MPN konumu için Iş Ortağı Merkezi 'nde teşvik yönetici rolüne sahip kullanıcılar, kuruluşun ödeme ve vergi profillerini güncelleştirebilir ve görebilir.
 
@@ -132,38 +132,38 @@ Bu görünüm tüm programlar ve MPN kimlikleri için ödemeleri görüntülemen
 
 | Bunu yapmak için | Buraya gidin |
 | ------ | :----------- | 
-| Yerel para birimi cinsinden kazanç ve ödeme tutarları da dahil olmak üzere ödeme bilgilerini satıra göre görüntüleme  | Ödeme **Listesi alanına** bakın   |
-| Havale harfi indirme   |  Ödeme **havalesi'yi seçin**  |
-| Belirli bir ödeme için işlem düzeyi ayrıntılarını görüntüleme |  **Görünüm'e tıklayın**  |
-| İşlem ayrıntılarını Excel'e aktarma  |  İndirmeyi **başlat'ı** ve ardından Verileri dışarı **aktar'ı seçin.** Seçilen tüm filtreler dışarı aktaran verilere uygulanır. Durum Tamamlandı olarak değiştirildiktan sonra İndir'i **seçin** ve ayrıntılı işlemler raporunu dışarı aktarma yönergelerini izleyin. Durum beş dakika içinde güncelleştirilmezse sayfayı yenileyin.  |
+| Ödeme bilgilerinizi satıra göre görüntüleme, yerel para birimi cinsinden kazanç ve ödeme miktarları dahil  | **Ödemeler listesi alanının listesini** görüntüleyin   |
+| Bir havale mektubu indirin   |  **Ödeme havalesi** seçin  |
+| Belirli bir ödemenin işlem düzeyi ayrıntılarını görüntüleme |  **Görünüm** Seç  |
+| İşlem ayrıntılarını Excel dışarı aktar  |  **Indirmeyi Başlat**' ı seçin ve ardından **verileri dışarı aktar**' ı seçin. Seçilen tüm filtreler, verilecek verilere uygulanır. Durum tamamlandı olarak değiştirildikten sonra **İndir** ' i seçin ve ayrıntılı işlemler raporunu dışarı aktarmak için istemleri izleyin. Durum beş dakika içinde güncellenmemişse sayfayı yenileyin.  |
 
-### <a name="missing-or-incorrect-earnings-and-payments"></a>Eksik veya yanlış kazançlar ve ödemeler
+### <a name="missing-or-incorrect-earnings-and-payments"></a>Eksik veya yanlış kazanç ve ödemeler
 
-Ödeme veya işlem ayrıntılarını bulamıyorsanız doğru filtreleri uygulama olup olmadığını denetleyin. Bazı program adları değişti (örneğin, CSP 1T Doğrudan İş Ortağı CSP Direct Bill Partner) birden çok seçim kullanmak zorunda olabilir.
+Bir ödeme veya işlem ayrıntılarını bulamıyorsanız, doğru filtreleri uygulanıp uygulanmadığını kontrol edin. Bazı program adları değiştiği için (örneğin, CSP 1T doğrudan Iş ortağı artık CSP doğrudan Bill partner), birden çok seçim kullanmanız gerekebilir.
 
-Kazançlarınızı hala bulamıyorsanız veya gösterilen kazançların yanlış olduğuna inanıyorsanız Destek'e [başvurun.](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives)
+Gelirinizi hala bulamadıysanız veya gösterilen kazanç doğru değilse, [desteğe](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives)başvurun.
 
-## <a name="how-do-i-reconcile-my-earnings"></a>Nasıl yaparım? mu muayedi olarak kabul mü edersiniz?
+## <a name="how-do-i-reconcile-my-earnings"></a>Nasıl yaparım? kazançlarını uzlaştırır mi?
 
 Kazançlarınızda bir tutarsızlık varsa aşağıdaki adımları izleyin:
 
-1. **Kazançlar için uygun olduğunuzu doğrulayın.**  Kazançlar yalnızca hem program uygunluğunu hem de kazanç [uygunluğunu](incentives-determined-your-program-eligibility.md) [karşılarsanız kullanılabilir.](incentives-confirm-your-earnings-eligibility.md)
+1. **Kazançlar için uygun olduğunuzu doğrulayın.**  Kazançlar yalnızca, [Program uygunluk](incentives-determined-your-program-eligibility.md) ve [kazanç uygunluk koşullarını](incentives-confirm-your-earnings-eligibility.md)karşıladıysanız kullanılabilir.
 
 2. **Ödeme profilinizin eksiksiz olduğunu doğrulayın.**  Teşvik kazançlarınızın başlangıç tarihi, ödeme ve veri ayrıntılarıyla eklenme de dahil olmak üzere tüm uygunluk gereksinimlerini karşıladığınız ayın ilk günü olacaktır. Ödeme ve veri ayrıntılarının tamamlanmasından önceki aylar için kazanç sağlanmaz. Örneğin Nisan 2020 boyunca tüm gereksinimleri tamamladıysanız kazanç başlangıç tarihi 1 Nisan 2020 olacaktır. 
 
-3. **Gereksinimleri karşıladığınızı doğrulayın.**  Teşvik programınız için uygunluk ve uygun [gelir](#my-payment-is-missing-or-incorrect) kurallarına uyup uymamanızı kontrol edin.
+3. **Gereksinimleri karşıladığınızı doğrulayın.**  Özensiz programınız için [uygunluk](#my-payment-is-missing-or-incorrect) ve uygun gelir kuralları karşılanıp karşılanmadığını denetleyin.
 
-Bu eylemler yardımcı olmazsa ve kazançlarınız hala mutabık kılınmamışsa Destek ile iletişime [geçin.](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives)
+Bu eylemler yardım yoksa ve gelirleriniz hala mutabık kılınmadığında [desteğe](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives)başvurun.
 
 ## <a name="where-can-i-find-my-rates"></a>Ücretlerimi nerede bulabilirim?
 
-1. İş ortağı [teşvikleri'ne oturum açma.](https://partner.microsoft.com/membership/partner-incentives)
+1. [Iş ortağı teşvikleri](https://partner.microsoft.com/membership/partner-incentives)oturum açın.
 
-2. Ekranı aşağı kaydırarak programınıza uygun belgelere erişin.
+2. Programınızın belgelerine erişmek için aşağı kaydırın.
 
-3. İlgili programın belge bağlantısını seçin.
+3. İlgili program için belge bağlantısını seçin.
 
-4. Belgede Program yapısı ve **Rates bölümüne bakın.**
+4. Belgesinde, **Program yapısına ve oranlarına** bakın.
 
 ## <a name="next-steps"></a>Sonraki adımlar
 

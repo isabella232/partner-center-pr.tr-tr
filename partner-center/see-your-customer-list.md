@@ -1,43 +1,43 @@
 ---
-title: Müşteri listenizi yönetin
+title: Müşteri listenizi yönetme
 ms.topic: how-to
 ms.date: 06/03/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
-description: Müşteri kayıtları en önemli bilgi varlıklarının arasındadır. Iş ortağı merkezi müşteri listenizde bilgileri görüntülemeyi, aramanızı, güncelleştirmeyi, & dışarı aktarmayı öğrenin.
+ms.subservice: partnercenter-customers
+description: Müşteri kayıtları en önemli bilgi varlıkları arasında yer alan varlıklardır. Müşteri listenizin bilgilerini görüntülemeyi, aramayı, & ve dışarı aktarmayı İş Ortağı Merkezi öğrenin.
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6e73aa98e0cfaf82521a5fe63e34ebf0b44363fb
-ms.sourcegitcommit: 7a6836bd962d5b426a8cb34a9132a87cbbbf39f7
+ms.openlocfilehash: df0f72deb14eac6d75f8579f7099ab3c6b6a2905
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/13/2021
-ms.locfileid: "109854511"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114837280"
 ---
-# <a name="manage-your-customer-list---search-update-or-export-customers-in-partner-center"></a>Müşteri listenizi yönetme-Iş Ortağı Merkezi 'nde müşterileri arama, güncelleştirme veya dışarı aktarma
+# <a name="manage-your-customer-list---search-update-or-export-customers-in-partner-center"></a>Müşteri listenizi yönetme - müşteriler için arama, güncelleştirme veya dışarı İş Ortağı Merkezi
 
-**Uygulama hedefi**: Iş Ortağı Merkezi | ABD kamu için Microsoft Bulut iş ortağı Merkezi
+**Uygulama:** İş Ortağı Merkezi | İş Ortağı Merkezi için Microsoft Cloud for US Government
 
-**Uygun roller**: yönetici Aracısı | Genel yönetici
+**Uygun roller:** Yönetici aracısı | Genel yönetici
 
-Müşteri kayıtları, Iş Ortağı Merkezi 'nde en önemli bilgi varlıklarınız arasındadır. Müşteri hesabı veritabanınızda arama yapabilir, tüm müşteri veritabanını dışarı aktarabilir veya bir alt kümeyi Excel uyumlu bir virgülle ayrılmış değer dosya biçimine (. csv) aktarabilirsiniz. Ayrıca, bir müşterinin abonelik bilgilerini bir. csv dosyasına dışarı aktarabilirsiniz.
+Müşteri kayıtları, en önemli bilgi varlıklarınızı İş Ortağı Merkezi. Müşteri hesapları veritabanınızı arayabilir, tüm müşteri veritabanını dışarı aktarabilir veya bir alt kümeyi, Excel uyumlu virgülle ayrılmış değer dosya biçimine (.csv) aktarabilirsiniz. Ayrıca, bir müşterinin abonelik bilgilerini bir .csv aktarabilirsiniz.
 
-Etkinlik günlükleri, müşterilere yönelik işlemler ve yönetim eylemleri üzerinde dışarı aktarılabilir veriler de sağlar. Daha fazla bilgi için bkz. [Müşteri etkinlik günlüklerini görüntüleme](activity-logs.md).
+Etkinlik günlükleri ayrıca müşteriler için işlemler ve yönetim eylemleriyle ilgili dışarı aktarılabilir veriler sağlar. Daha fazla bilgi için [bkz. Müşteri etkinlik günlüklerini görüntüleme.](activity-logs.md)
 
-## <a name="search-for-a-customer"></a>Müşteri arayın
+## <a name="search-for-a-customer"></a>Müşteri arama
 
-1. **Iş Ortağı Merkezi** menüsünde **müşteriler**' i seçin.
-2. Bir müşteriyi aramak için, arama kutusuna müşteri adını veya etki alanı adını girin.
-3. Microsoft KIMLIKLERINI ve bunlarla ilişkili abonelikleri ve hizmetleri hızlı bağlantılarını görmek için bir müşteri satırının sonundaki **aşağı oku** seçin.
+1. Veri **İş Ortağı Merkezi** Müşteriler'i **seçin.**
+2. Müşteri aramak için arama kutusuna müşteri adını veya etki alanı adını girin.
+3. Microsoft kimliğini **ve** ilişkili abonelikleri ile hizmetleri hızlı bağlantılarını görmek için müşteri satırı sonundaki aşağı oku seçin.
 
 ## <a name="update-a-customers-company-name"></a>Müşterinin şirket adını güncelleştirme
 
-**Iş Ortağı Merkezi** menüsünde **müşteriler**' i seçin.
-2. Bir müşteriyi aramak için, arama kutusuna müşteri adını veya etki alanı adını girin.
-3. Microsoft KIMLIKLERINI ve bunlarla ilişkili abonelikleri ve hizmetleri hızlı bağlantılarını görmek için bir müşteri satırının sonundaki **aşağı oku** seçin.
-4. Müşterinin **Fatura** bilgileri altında şirket adını güncelleştirin. Yeni değeri kaydetmeniz, müşteri listesine yansıtacak. Bu, yalnızca Fatura şirketi adını ve müşteri listesi değerini değiştirir. Bu durum başka bir yere yansıtmayacak.
+Veri **İş Ortağı Merkezi** Müşteriler'i **seçin.**
+2. Müşteri aramak için arama kutusuna müşteri adını veya etki alanı adını girin.
+3. Microsoft kimliğini **ve** ilişkili abonelikleri ile hizmetleri hızlı bağlantılarını görmek için müşteri satırı sonundaki aşağı oku seçin.
+4. Müşterinin Fatura bilgileri **altında** şirket adını güncelleştirin. Yeni değeri kaydetmeniz, müşteri listesine yansıtacak. Bu, yalnızca Fatura şirketi adını ve müşteri listesi değerini değiştirir. Bu durum başka bir yere yansıtmayacak.
 
 ## <a name="export-your-customer-list"></a>Müşteri listenizi dışarı aktarma
 
@@ -53,7 +53,7 @@ Etkinlik günlükleri, müşterilere yönelik işlemler ve yönetim eylemleri ü
 
     Varsayılan olarak, İş Ortağı Merkezi ne olursa olsun tüm müşteri listesini dışarı aktarabilirsiniz. Ayrıca, şirket adına veya etki alanına göre müşteri listesinde arama ve bu veri alt kümesini dışarı aktarabilirsiniz.
 
-3. Dolaylı sağlayıcıysanız, müşteri listenizi dolaylı kurumsal bayiye göre filtre alabilirsiniz. Listeden **Dolaylı kurumsal bayiye göre** filtrele'yi ve ardından bir kurumsal bayi seçin.
+3. Dolaylı sağlayıcıysanız müşteri listenizi dolaylı kurumsal bayiye göre filtre alabilirsiniz. Listeden **Dolaylı kurumsal bayiye göre** filtrele'yi ve ardından bir kurumsal bayi seçin.
 
 
 ## <a name="export-customer-subscription-information"></a>Müşteri aboneliği bilgilerini dışarı aktarma
@@ -62,7 +62,7 @@ Etkinlik günlükleri, müşterilere yönelik işlemler ve yönetim eylemleri ü
 
 2. Herhangi bir **müşteri için** Şirket adı'ı seçin. Müşterinin Abonelikler **sayfası** açılır ve ürün aboneliklerinin tam listesi görüntülenir.
 
-3. Abonelikleri **dışarı aktar'ı seçin.** İş Ortağı Merkezi müşterinin abonelik verilerini bir .csv dosyasına dönüştürür ve bilgisayarınızda varsayılan indirme klasörüne yükler. Veri sütunları aşağıdakileri içerir:
+3. Abonelikleri **dışarı aktar'ı seçin.** İş Ortağı Merkezi, müşterinin abonelik verilerini bir .csv dosyasına dönüştürür ve bilgisayarınızda varsayılan indirme klasörüne yükler. Veri sütunları aşağıdakileri içerir:
    - **Abonelik Kimliği**;
    - **Abonelik**— aboneliğin ürün adı;
    - **Miktar**—satın alınan lisans sayısı;

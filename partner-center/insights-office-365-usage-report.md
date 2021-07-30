@@ -3,23 +3,23 @@ title: İş ortağı merkezi içgörüleri Office 365 kullanım raporu
 ms.topic: article
 ms.date: 01/11/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-insights
 description: İyi bir şekilde neler yaptığına ve müşterileriniz için satıp Office 365 aboneliklerin kullanımıyla ilgili olarak geliştirebilirsiniz.
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: 094ff56c6bce3c9ac865c0b174cbfe8ff3029987
-ms.sourcegitcommit: 4f1702683336d54f24c0ba283f7d13dda581923d
+ms.openlocfilehash: 882b912a01301506bf163087f71bf70d0ed1aa41
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/16/2021
-ms.locfileid: "114377399"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114837416"
 ---
 # <a name="office-365-usage-report-available-from-the-partner-center-insights-dashboard"></a>Office 365 panosundan kullanılabilen İş Ortağı Merkezi Analizler raporu
 
 **Uygun roller:** Genel yönetici | Yönetici aracısı | Rapor görüntüleyici | Yönetici raporu görüntüleyicisi
 
-Office 365 raporu, müşterileriniz için sattığınız veya Office 365 aboneliklere yönelik kullanım verilerini sağlar. Aşağıdaki bölümleri kullanım raporu Office 365 görüntüebilirsiniz.
+Office 365 raporu, müşterileriniz için sattığınız veya Office 365 aboneliklere yönelik kullanım verilerini sağlar. Aşağıdaki bölümleri Office 365 görüntüebilirsiniz.
 
 - Özet
 - Office 365 göre kullanım
@@ -57,7 +57,7 @@ Coğrafyaya **Office 365 kullanım alanı,** müşteri ülkesi tarafından Aylı
 Haritanın konumunu yakınlaştırmak için kılavuzda bir ülke arayabilir ve bu ülkeyi seçin. Özgün **görünüme** dönmek için haritada Giriş seçeneğini belirleyin.
 
 
-:::image type="content" source="images/insights/o365-usage-geography.png" alt-text="Office 365 göre kullanımı kullanma.":::
+:::image type="content" source="images/insights/o365-usage-geography.png" alt-text="Office 365 göre kullanımları gösterir.":::
 
 ## <a name="office-365-usage-by-workload"></a>Office 365 göre kullanımı dengeleme
 

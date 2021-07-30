@@ -3,18 +3,18 @@ title: iş ortağı merkezi Analizler genel bakış panosu
 ms.topic: article
 ms.date: 05/19/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-insights
 description: Satış ve dağıtım, müşteri büyümesi ve lisanslar, abonelikler ve Azure tüketimiyle gelir artışını nasıl yapmakta olduğumun bir anlık görüntüsüne bakın.
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 46a750749aeb6835c132b971b74bb9f066dc13cc
-ms.sourcegitcommit: 4f1702683336d54f24c0ba283f7d13dda581923d
+ms.openlocfilehash: 5c063788b11dfb2507ff88a1774a94f21f6ebca5
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/16/2021
-ms.locfileid: "114377381"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114845236"
 ---
 # <a name="overview-dashboard-reports-available-in-partner-center-insights"></a>iş ortağı merkezi 'nde bulunan pano raporlarının genel bakış Analizler
  

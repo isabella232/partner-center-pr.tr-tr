@@ -3,18 +3,18 @@ title: Dynamics 365 Business Edition'ı geçirme
 ms.topic: article
 ms.date: 05/18/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-pricing
 description: Tam Dynamics 365 Business Edition tekliflerini süresi dolmadan önce daha yeni sürümlere geçirmeyi öğrenin.
 author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8232ab165ea68ebefdfbb30f3ac52c907e1b7278
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 2e8eca0a645656388516c4c25f0091713424caf0
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110151534"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114838300"
 ---
 # <a name="migrate-dynamics-365-business-edition-offers-to-newer-versions"></a>Dynamics 365 Business Edition Tekliflerini daha yeni sürümlere geçirme
 
@@ -22,7 +22,7 @@ ms.locfileid: "110151534"
 
 Dynamics 365 Business Edition abonelikleri olan müşteriler 1 Ocak 2019'dan itibaren bu eski tekliflere yenilenmeyecektir; mevcut aboneliklerin süresi dolduğunda otomatik olarak yenilenmez. Aboneliğin ayrıntı sayfasında abonelik durumu "[date]" ile "[date] üzerinde otomatik yenileme" olarak değişir.
 
-Müşterilerin sürekliliğini sağlamak için, süresi dolan abonelikleri aşağıda listelenen desteklenen bir seçen geçişlisiniz. Müşteriler için hizmet kesintilerini önlemek için müşterileri aboneliğin yıllık bitiş tarihi öncesinde yeni aboneliklere taşımanız önerilir.
+Müşterilerin sürekliliğini sağlamak için, süresi dolan abonelikleri aşağıda listelenen desteklenen bir seçen geçişlisiniz. Müşteriler için hizmet kesintilerini önlemek için müşterilerin aboneliğin yıllık bitiş tarihine kadar yeni aboneliklere taşınmalarını öneririz.
 
 API'yi (CREST veya İş Ortağı Merkezi) kullanıyorsanız, aboneliğin bitiş tarihini ve otomatik yenileme = False özelliğini değerlendirerek süresi dolan abonelikleri bulabilirsiniz. Söz konusu abonelikler 1 Ocak 2019'da otomatik olarak yenilenecek=False olarak ayarlanır. Müşterileri yeni bir plana her zaman taşımanız gerekir. 
 
@@ -38,7 +38,7 @@ Dynamics 365 Business Edition müşterileri, 30 Haziran 2020'ye kadar yeni Busin
 
 ## <a name="transition-customers-to-new-product-plans"></a>Müşterileri yeni ürün planlarına geçiş
 
- Müşterilerin eski SKÜ'lerden yeni SKUS'lara taşınmaları için bu sırayla aşağıdaki adımlar gerekir:
+ Müşterilerin eski SKUS'lardan yeni SKUS'lara taşınmaları için bu sırayla aşağıdaki adımlar gerekir:
 
 - Yeni aboneliği satın alma
 - Geçerli kullanıcı lisanslarını yeniden atama

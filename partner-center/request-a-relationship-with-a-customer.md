@@ -3,17 +3,17 @@ title: Bir müşteriyle kurumsal bayi ilişkisi isteme
 ms.topic: how-to
 ms.date: 06/17/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-customers
 description: Çoklu iş ortakları, çok kanallı senaryolar veya bir müşterinin Temsilcili yönetici ayrıcalıklarına geri yüklenmesi gerekiyorsa bir müşteriyle ilişki isteyin.
 author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
-ms.openlocfilehash: 83f615e69a9285365e68305fa909104e0da52992
-ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
+ms.openlocfilehash: 5b80cc15ade94a9003ec1b21293d86c3b5ac8ace
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "112551648"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114844488"
 ---
 # <a name="how-to-request-a-reseller-relationship-from-a-customer-in-partner-center"></a>İş Ortağı Merkezi'nde müşteriden kurumsal bayi ilişkisi isteğinde bulunma
 
@@ -24,7 +24,7 @@ Müşterinin hizmet veya aboneliğini kendi adına yönetmek istiyorsanız, mü�
 Bir müşteriyle satıcı ilişkisi kurmak ve yalnızca sağladığınız Azure aboneliklerini yönetmek istiyorsanız, yönetici izinlerini edinmeniz gerekmez.
 
 >[!NOTE] 
->İzin isteme seçeneği, ABD devlet veya Microsoft Bulut Almanya için Microsoft Bulut çalışan iş ortakları için kullanılamaz. Daha fazla bilgi edinmek için bkz. [müşteriler iş ortakları için yönetim ayrıcalıkları temsilcisidir](customers-revoke-admin-privileges.md).
+>izin isteme seçeneği Microsoft Cloud for US Government veya almanya Microsoft Bulut çalışan iş ortakları için kullanılamaz. Daha fazla bilgi edinmek için bkz. [müşteriler iş ortakları için yönetim ayrıcalıkları temsilcisidir](customers-revoke-admin-privileges.md).
 
 ## <a name="invite-a-customer-to-establish-a-reseller-relationship-with-you"></a>Bir müşteriyi sizinle bir satıcı ilişkisi kurmaya davet etme
 
@@ -32,7 +32,7 @@ Bir müşteriyle satıcı ilişkisi kurmak ve yalnızca sağladığınız Azure 
 
 1. **Iş Ortağı Merkezi** menünüzden **müşteriler** ' i seçin ve ardından **bir satıcı ilişkisi iste**' yi seçin.
 
-2. Bu müşteriden yönetici izinleri istemek için, **Azure Active Directory ve Office 365 için yetkilendirilmiş yönetim ayrıcalıklarını dahil et**' i seçin. Yönetici izinleri istemeden ilişki kurmak için bu seçeneği temizleyin.
+2. bu müşteriden yönetici izinleri istemek için **Azure Active Directory ve Office 365 için yetkilendirilmiş yönetim ayrıcalıklarını dahil et**' i seçin. Yönetici izinleri istemeden ilişki kurmak için bu seçeneği temizleyin.
 
 3. Sonraki sayfada taslak e-posta iletisini gözden geçirin. Taslak iletiyi varsayılan e-posta uygulamanızda açabilir veya iletiyi panonuza kopyalayıp bir e-postaya yapıştırabilirsiniz.
 
@@ -52,13 +52,13 @@ Bir müşteriyle satıcı ilişkisi kurmak ve yalnızca sağladığınız Azure 
 
 ## <a name="changes-to-the-customer-invitation-experience"></a>Müşteri davet deneyiminde yapılan değişiklikler
 
-Bir bulut çözümü sağlayıcısı (CSP) ortağından bir satıcı ilişki davetini kabul etmeye yönelik müşteri deneyimi, müşteriye yönelik farklı portallara göre barındırılır. Portal konumu, bir müşterinin Microsoft ortak bulut veya ulusal bulut olmasına bağlıdır:
+bir Bulut Çözümü Sağlayıcısı (CSP) ortağından bir satıcı ilişki davetini kabul etmeye yönelik müşteri deneyimi, müşteriye yönelik farklı portallara göre barındırılır. Portal konumu, bir müşterinin Microsoft ortak bulut veya ulusal bulut olmasına bağlıdır:
 
 |Bulut müşterisi türleri  | Müşteri, satıcı ilişki davetini nereden kabul ediyor? |
 |---------|---------
-| Genel buluttaki müşteriler | Microsoft 365 Yönetim Merkezi |
-| Microsoft Bulut Almanya için Iş Ortağı Merkezi 'nde müşteriler | Yönetici portalı Microsoft Office |
-| ABD kamu için Microsoft Bulut Iş Ortağı Merkezi 'ndeki müşteriler | Yönetici portalı Microsoft Office |
+| Genel buluttaki müşteriler | Microsoft 365 Yönetici Merkezinden |
+| Microsoft Bulut Almanya için Iş Ortağı Merkezi 'nde müşteriler | Microsoft Office Yönetici portalı |
+| Microsoft Cloud for US Government için Iş Ortağı Merkezi 'nde müşteriler | Microsoft Office Yönetici portalı |
 |
 
 ## <a name="next-steps"></a>Sonraki adımlar

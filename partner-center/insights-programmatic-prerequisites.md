@@ -3,17 +3,17 @@ title: Analiz verilerine programlı olarak erişim önkoşulları
 description: Analiz verilerine programlı olarak erişim önkoşulları
 ms.topic: article
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-insights
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.date: 07/14/2021
-ms.openlocfilehash: d4c39025aa3804435dd4d2359b93cd4a2e13ccc4
-ms.sourcegitcommit: 4f1702683336d54f24c0ba283f7d13dda581923d
+ms.openlocfilehash: 12c466cce37ac252fedf5f72ef90e390bb1af256
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/16/2021
-ms.locfileid: "114376953"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114845100"
 ---
 # <a name="prerequisites-to-programmatically-access-analytics-data"></a>Analiz verilerine programlı olarak erişim önkoşulları
 

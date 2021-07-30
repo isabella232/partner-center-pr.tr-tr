@@ -3,23 +3,23 @@ title: CSP bölgesel yetkilendirme kiracı birleştirmesi
 ms.topic: how-to
 ms.date: 07/15/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-customers
 description: Farklı ülkeler/bölgeler için kiracılar birleştirmek üzere bu yönergeleri kullanın. Bu, müşteri hesaplarını ve müşteri aboneliklerini geçirmeye yönelik adımları içerir.
 author: billLinzbach
 ms.author: billLi
 ms.localizationpriority: medium
 robots: noindex,nofollow
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 84e5f7f2674e9b2f3c3c26ed2ea49f9bba0e96e0
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: f4df62bddba501552eafe2142f4c0656b8eefc7c
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112276884"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114844420"
 ---
 # <a name="instructions-for-csp-regional-authorization-tenant-consolidation"></a>CSP bölgesel yetkilendirme kiracı birleştirme yönergeleri
 
-**Uygulama hedefi**: Iş Ortağı Merkezi | ABD kamu için Microsoft Bulut iş ortağı Merkezi
+**Uygulama hedefi**: Iş Ortağı Merkezi | Microsoft Cloud for US Government için iş ortağı Merkezi
 
 **Uygun roller**: genel yönetici | Yönetim Aracısı
 
@@ -44,7 +44,7 @@ ms.locfileid: "112276884"
 
 3. **Satıcı Ilişkisi iste**' yi seçin. Müşterilerinize göndermek için varsayılan bir e-posta iletisi sunulur. Bu ileti, yeni Iş Ortağı Merkezi hesabınıza özel kuruluş KIMLIĞINE sahip bir URL içerir.
 
-4. **Müşteri eylemi:** Geçirmek istediğiniz her bir etkin müşterilerin bu URL 'YI ziyaret etmesini sağlayın. URL 'YI açarken, müşterinin Office 365 portalında oturum açması istenir. Müşteri, Azure ve Office 365 yönetim portallarına erişmek için kullandıkları aynı kuruluş KIMLIĞINI kullanarak oturum açar.
+4. **Müşteri eylemi:** Geçirmek istediğiniz her bir etkin müşterilerin bu URL 'YI ziyaret etmesini sağlayın. URL 'yi açarken, müşterinin Office 365 portalında oturum açması istenir. müşteri, Azure ve Office 365 yönetim portallarına erişmek için kullandıkları aynı kuruluş kimliğini kullanarak oturum açar.
 
 5. Oturum açtıktan sonra, **müşteri hesabına** ait genel YÖNETICININ yeni CSP hesabına yönetici ayrıcalıkları sağlayan bir anlaşma göndermesi istenir. Kabul ederse, müşteri onay kutusunu seçer ve ilişkiye izin vermeyi kabul eder.
 
@@ -75,7 +75,7 @@ Bir sonraki bölüme geçmeden önce **, iş ortağı** hesaplarından geçiş a
 > [!NOTE]
 > İş ortakları, iş ortağı Merkezi **'nde iş ortağı** kiracı hesabından geçiş sırasında abonelikleri askıya almalıdır. bu abonelikler, Çift faturalandırma işleminin gerçekleşmemesini sağlamak için Iş Ortağı Merkezi 'nde **iş ortağı kiracı** hesabı altına geçirilir ve ayarlanır. Aboneliklerden geçiş işleminin doğru şekilde devre dışı bırakılmasından kaynaklanan bir çakışma nedeniyle, destek istekleri krediler için  reddedilir.
 
-## <a name="disabling-the-office-365-subscriptions-under-the-transitioning-from-partner-account"></a>İş ortağı hesabından geçilen Office 365 aboneliklerini devre dışı bırakma
+## <a name="disabling-the-office-365-subscriptions-under-the-transitioning-from-partner-account"></a>iş ortağı hesabından geçilen Office 365 aboneliklerini devre dışı bırakma
 
 **İş ortağı** hesaplarından GEÇIŞ altında CSP aboneliğini devre dışı bırakmak gelecekteki faturalandırmayı durduruyor. Azure abonelikleri, geçiş işlemi sırasında otomatik olarak devre dışı bırakıldığından Azure aboneliklerini el ile devre dışı bırakmanız gerekmez.
 
@@ -96,7 +96,7 @@ Bir sonraki bölüme geçmeden önce **, iş ortağı** hesaplarından geçiş a
 
 ## <a name="migrating-azure-usage-based-subscriptions"></a>Azure kullanım tabanlı abonelikleri geçirme
 
-Office 365 CSP aboneliklerinden farklı olarak, Azure, kullanım tabanlı CSP aboneliklerinin el ile geçirilmesi gerekmez. Microsoft Azure **desteği, Azure** aboneliklerini ve dağıtılan tüm hizmet veya kaynakları, CSP satıcı hesaplarından geçiş **aşamasından CSP satıcısı** hesabına geçişe geçirmeye cektir. Bu geçiş sırasında müşteriye hizmet kesintisi olmaz.
+Office 365 CSP aboneliklerinden farklı olarak, Azure, kullanım tabanlı CSP aboneliklerinin el ile geçirilmesi gerekmez. Microsoft Azure Destek, Azure aboneliklerini ve dağıtılan tüm hizmet veya kaynakları **, CSP satıcı** hesaplarından geçiş **aşamasından CSP satıcı hesabına geçme durumuna** geçirmeye yönelik olarak geçirilir. Bu geçiş sırasında müşteriye hizmet kesintisi olmaz.
 
 1. Azure abonelikleri 'nin geçirileceği müşteri hesaplarının, yeni CSP hesabına **geçme** ile ilişkilendirilecek anlaşmayı kabul ettiğinden emin olun.
 
@@ -132,7 +132,7 @@ Office 365 CSP aboneliklerinden farklı olarak, Azure, kullanım tabanlı CSP ab
 
 2. İstenen müşteri adını açın.
 
-3. **Abonelikler sayfasında,** aboneliklerin ayrıntılarını bir Excel dosyasına dışarı aktarmak Için **abonelikleri dışarı aktar** ' ı seçin.
+3. **abonelikler sayfasında,** aboneliklerin ayrıntılarını bir Excel dosyasına dışarı aktarmak için **abonelikleri dışarı aktar** ' ı seçin.
 
 4. Yeni birleştirilmiş kiracınızdaki abonelikleri yeniden oluşturmak için bu listeyi kullanın.
 
@@ -142,4 +142,4 @@ API kaydı hakkında daha fazla bilgi için bkz. [Iş Ortağı Merkezi 'NDE API 
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-- [CSP teklifleri oluşturabileceğiniz bulut çözümü sağlayıcısı program bölgesel pazarlar ve para birimleri](regional-authorization-overview.md)
+- [CSP teklifleri satın oluşturabileceğiniz Bulut Çözümü Sağlayıcısı program bölgesel pazarlar ve para birimleri](regional-authorization-overview.md)

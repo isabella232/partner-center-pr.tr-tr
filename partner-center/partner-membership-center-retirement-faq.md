@@ -3,17 +3,17 @@ title: İş ortağı üyeliği merkezi kullanımdan kaldırma SSS
 ms.topic: article
 ms.date: 06/15/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-membership
 description: Iş ortağı üyelik Merkezi 'nin (PMC) kullanımdan kaldırılması ve Iş Ortağı Merkezi 'ne geçme hakkında soruların yanıtlarını alın.
 author: jasongroce
 ms.author: misherma
 ms.localizationpriority: high
-ms.openlocfilehash: 2aea685cf2bd468fcfa4e3b7530672ad1cc474eb
-ms.sourcegitcommit: cc9e47219f6e2cdf77118b5c8986e86ebecfe260
+ms.openlocfilehash: 9f46389ac0c1174690090d571305d6163cabb09e
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/16/2021
-ms.locfileid: "112126773"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114837314"
 ---
 # <a name="partner-membership-center-retirement-faq"></a>İş ortağı üyeliği merkezi kullanımdan kaldırma SSS
 **Uygun roller**: genel yönetici | Kullanıcı Yönetimi Yöneticisi
@@ -28,11 +28,11 @@ ms.locfileid: "112126773"
 #### <a name="i-have-been-working-in-partner-membership-center-why-is-it-no-longer-available"></a>Iş ortağı üyelik Merkezi 'nde çalışıyoruz. Neden artık kullanılamıyor?
 Microsoft 'un eski araçlardan modern iş ortağı ekosistemine geçişi neredeyse tamamlanmıştır. PMC tarafından desteklenen üyelik işlevleri, Iş Ortağı Merkezi 'ne tamamen geçirilir.
 
-#### <a name="my-company-is-a-cloud-solution-provider-how-do-we-get-an-mpn-id-and-accept-the-microsoft-partner-agreement"></a>Şirketim bir bulut çözüm sağlayıcısıdır. MPN KIMLIĞI nasıl alınır ve Microsoft Iş ortağı sözleşmesi 'Ni kabul ediyoruz?
+#### <a name="my-company-is-a-cloud-solution-provider-how-do-we-get-an-mpn-id-and-accept-the-microsoft-partner-agreement"></a>şirketim bir Bulut Çözümü Sağlayıcısı. MPN KIMLIĞI nasıl alınır ve Microsoft Iş ortağı sözleşmesi 'Ni kabul ediyoruz?
 [Microsoft iş ortağı ağı](https://partner.microsoft.com/dashboard/account/v3/enrollment/introduction/partnership)kaydedin, sonra yeni Microsoft iş ortağı ağı (MPN) kimliğinizin [CSP hesabınızla](update-your-partner-profile.md#update-your-mpn-id-associated-with-your-csp-account)ilişkili olduğundan emin olun. Bundan sonra, [Microsoft Iş ortağı sözleşmesinin](microsoft-partner-agreement.md)imzalanması sürecini doldurun.
 
 #### <a name="my-company-is-blocked-from-signing-the-microsoft-partner-agreement-mpa-and-i-am-unable-to-migrate-my-mpn-membership-from-pmc-to-partner-center-what-should-i-do"></a>Şirketimin Microsoft Iş ortağı sözleşmesi 'nin (MPA) imzalanması engellendi ve MPN üyeliğimi PMC 'den Iş Ortağı Merkezi 'ne geçiremiyorum. Ne yapmalıyım?
-Yukarıdaki "Şirketim bir bulut çözümü sağlayıcısı" sorusuna bakın.
+yukarıdaki "şirketim bir Bulut Çözümü Sağlayıcısı" sorusuna bakın.
 
 #### <a name="can-i-enroll-into-microsoft-partner-network-with-my-company-email-id"></a>Şirket e-posta KIMLIĞINIZLE Microsoft İş Ortağı Ağı kaydedebilir miyim?
 Evet, şirket e-posta kimlikleri desteklenir, ancak kişisel e-posta kimlikleri desteklenmez. [Kayıt](mpn-create-a-partner-center-account.md) hakkında daha fazla bilgi de mevcuttur. 

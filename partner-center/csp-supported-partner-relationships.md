@@ -3,38 +3,38 @@ title: Desteklenen CSP iş ortağı ilişkileri
 ms.topic: article
 ms.date: 05/12/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
-description: CSP programında iş ortakları için farklı iş ortağı ilişkileri ve desteklenen işlem senaryoları hakkında bilgi edinmek.
+ms.subservice: partnercenter-enroll
+description: CSP programındaki iş ortakları için farklı iş ortağı ilişkileri ve desteklenen işlem senaryoları hakkında bilgi edinin.
 author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b70f8f152bc3711e5a715b6a4f0316f8aaa9b903
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 4f5a7e63a4e4ae79d85f07f07f0951d32535d815
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110147522"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114845321"
 ---
-# <a name="learn-how-partners-can-work-with-other-partners-in-the-csp-program"></a>CSP programında iş ortaklarının diğer iş ortaklarıyla nasıl çalışalarını öğrenin
+# <a name="learn-how-partners-can-work-with-other-partners-in-the-csp-program"></a>İş ortaklarının CSP programındaki diğer iş ortaklarıyla nasıl çalışabileceğine öğrenin
 
-**Uygun roller:** CSP hakkında daha fazla bilgi öğrenmek isteyen tüm iş ortakları
+**Uygun roller**: CSP hakkında daha fazla bilgi edinmek isteyen tüm iş ortakları
 
-Bu makalede, Microsoft Bulut Çözümü Sağlayıcısı (CSP) programı Microsoft Bulut Çözümü Sağlayıcısı ilişki türleri açıklanmıştır. Ayrıca CSP programı iş ortakları için çeşitli kullanım örnekleri, avantajları ve desteklenen işlem senaryolarını açıklar.
+bu makalede, Microsoft Bulut Çözümü Sağlayıcısı (CSP) programındaki iş ortağı ilişkilerinin anahtar türleri açıklanmaktadır. Ayrıca, CSP program iş ortakları için çeşitli kullanım örnekleri, avantajlar ve desteklenen işlem senaryoları açıklanmaktadır.
 
-CSP programında iş ortağı olmak, müşterilerimizin işletmesinde daha fazla yer alamanızı sağlamak için lisansları yeniden satın almaktan ötesine geçesiniz. CSP programı, iş ortaklarını müşteriyle ilişkinin merkezine koyar. Bu, müşterilerinizle daha derin bir etkileşime, bir müşterinin işletmeye bakış açısına ve yeni satış fırsatlarını ortaya çıkarma şansına yol açmaktadır. Hatta müşterinizin dijital dönüşüm sürecini hızlandırmanıza da yardımcı olabilir.
+CSP programında iş ortağı olması, müşterilerin işletmenize daha fazla yardımcı olmak için lisansların yeniden satılmasını sağlar. CSP programı, iş ortaklarını müşteriyle ilişkinin merkezine yerleştirir. Bu, müşterilerinizle daha derin katılım, bir kullanıcının işletmelerine bir Insider görünümü ve yeni satış fırsatlarını açığa çıkarmak için bir şansa yol açar. Bu, müşterinizin dijital dönüşümünü hızlandırmanıza da yardımcı olabilir.
 
-CSP programı iş ortağı olmak, ek kârlılık akışlarını da faydalanma anlamına gelir. Bunu yapmak için Microsoft (birinci taraf) tekliflerini ve üçüncü taraf tekliflerini kendi katma değerli hizmetleriniz ile tümleştirin. Bu, iş portföyünü genişletiyor ve artan müşteri taleplerini karşılar.
+Ayrıca, CSP program iş ortağı olmak, ek karlılık akışlarını da kullanabileceğiniz anlamına gelir. Bunu, Microsoft (birinci taraf) tekliflerini ve üçüncü taraf tekliflerini kendi, katma değerli hizmetlerle tümleştirerek yapabilirsiniz. Bu, iş portföyünüzü genişletir ve büyüyen müşteri taleplerini karşılamak için sizi daha iyi konumlandırır.
 
-## <a name="types-of-partner-relationships-in-the-csp-program"></a>CSP programında iş ortağı ilişkisi türleri
+## <a name="types-of-partner-relationships-in-the-csp-program"></a>CSP programındaki iş ortağı ilişkilerinin türleri
 
-CSP programında iş ortağı olarak, Microsoft ve diğerleriyle nasıl etkileşim kurmak istediğinize karar veabilirsiniz. CSP programı şu anda üç ana işlemsel ilişki türlerini destekler:
+CSP programında bir iş ortağı olarak, Microsoft ile ve diğer kullanıcılarla nasıl etkileşim kurmak istediğinize karar verebilirsiniz. CSP programı Şu anda üç, işlemsel ilişki türünü desteklemektedir:
 
 - Dolaylı sağlayıcılar
-- Dolaylı kurumsal bayiler
+- Dolaylı satıcılar
 - Doğrudan fatura iş ortakları
 
-**Dolaylı sağlayıcılar** (dağıtımcı olarak da bilinir) Microsoft marketten birinci taraf teklifleri ve üçüncü taraf teklifleri satın alır. Dolaylı sağlayıcı olarak, bu teklifleri satın almak ve kendi mevcut ticaret veya marketi ile tümleştirebilirsiniz. Böylece, dolaylı satıcılarınızın bu teklif tekliflerini temin etmenize ve bunları kendi müşterilerine yeniden satmasına olanak tanır. Dolaylı bir sağlayıcı olması, ölçekteki dolaylı satıcıları desteklemeye yönelik altyapı ve yetenekler olduğu anlamına gelir. Ayrıca, müşteri desteği ve faturalama gibi dolaylı satıcılarınız adına müşterilere ek hizmetler sağlayabilmeniz anlamına gelir. Dolaylı sağlayıcıların dolaylı satıcılarla nasıl bağlanacağı hakkında daha fazla bilgi edinmek için, [CSP programındaki dolaylı satıcılarla Iş ortağı](indirect-provider-tasks-in-partner-center.md)konusuna bakın.
+**Dolaylı sağlayıcılar** (dağıtıcılar olarak da bilinir), Microsoft Market 'ten birinci taraf teklifleri ve üçüncü taraf teklifleri satın alın. Dolaylı bir sağlayıcı olarak, bu teklifleri kendi kendinize, mevcut ticari veya Market 'ınızla satın alabilir ve tümleştirebilirsiniz. Böylece, dolaylı satıcılarınızın bu teklif tekliflerini temin etmenize ve bunları kendi müşterilerine yeniden satmasına olanak tanır. Dolaylı bir sağlayıcı olması, ölçekteki dolaylı satıcıları desteklemeye yönelik altyapı ve yetenekler olduğu anlamına gelir. Ayrıca, müşteri desteği ve faturalama gibi dolaylı satıcılarınız adına müşterilere ek hizmetler sağlayabilmeniz anlamına gelir. Dolaylı sağlayıcıların dolaylı satıcılarla nasıl bağlanacağı hakkında daha fazla bilgi edinmek için, [CSP programındaki dolaylı satıcılarla Iş ortağı](indirect-provider-tasks-in-partner-center.md)konusuna bakın.
 
 **Dolaylı satıcılar** , boyut ve iş kapsamında değişen, ancak Microsoft ile doğrudan faturalandırma ilişkisine sahıp olmayan CSP programındaki iş ortaklarıdır. Dolaylı bir satıcı olarak, CSP programındaki Transact 'ya dolaylı sağlayıcılara bağlı olursunuz. Ayrıca, bazı dolaylı satıcılar müşterilere yönetilen hizmetler, destek ve faturalandırma çözümleri sunabilir. Dolaylı sağlayıcılarla iş ortaklığınızdan birkaç avantaj elde edebilirsiniz. Deneyimli teknoloji sağlayıcılarıyla çalışarak, büyük bir yatırım yapmak zorunda kalmadan pazara gidebilirsiniz. Dolaylı bir satıcı olarak, Microsoft ve üçüncü taraf çözümlerinin daha geniş bir portföyüne de erişebilirsiniz. Dolaylı bir satıcı olma hakkında daha fazla bilgi edinmek için bkz. [Partner Center 'Da dolaylı satıcı görevleri](indirect-reseller-tasks-in-partner-center.md).
 
@@ -42,36 +42,36 @@ CSP programında iş ortağı olarak, Microsoft ve diğerleriyle nasıl etkileş
 
 ## <a name="csp-program-requirements-signing-the-microsoft-partner-agreement-mpa"></a>CSP program gereksinimleri: Microsoft Iş ortağı sözleşmesi 'Ni (MPA) Imzalama
 
-Bulut Çözümü Sağlayıcısı sürekli geliştirmelerinin bir parçası olarak, CSP programına katılmak isteyen iş ortakları için mevcut anlaşmaları güncelleştirildi.
+Bulut Çözümü Sağlayıcısı programın sürekli geliştirmelerinin bir parçası olarak, CSP programına katılması isteyen iş ortakları için mevcut sözleşmeleri güncelleştirdik.
 
-İş **Microsoft İş Ortağı Sözleşmesi (MPA)** iş ortaklarına yeni iş senaryolarını destekleyen kolaylaştırılmış, dijital bir anlaşma, birden çok iş ortağı sözleşmesine daha az ihtiyaç ve küresel, yasal gereksinimlerle daha kolay uyumluluk sağlar.
+**Microsoft Iş ortağı Sözleşmesi (MPa)** , iş ortaklarına yeni iş senaryolarını destekleyen, birden fazla iş ortağı sözleşmesi gereksinimini azaltılan ve küresel, yasal gereksinimlerle daha kolay uyumluluk sağlayan, kolaylaştırılmış, dijital bir anlaşma sağlar.
 
 >[!IMPORTANT]
-> 1 Şubat 2020'den başlayarak Microsoft İş Ortağı Sözleşmesi CSP programında işlem yapan tüm iş ortakları tarafından imzalanacak. Buna dolaylı sağlayıcılar, doğrudan fatura iş ortakları ve dolaylı kurumsal bayiler dahildir.
+> Microsoft Iş ortağı sözleşmesinin, 1 Şubat 2020 ' den itibaren, CSP programında Transact 'nin tüm iş ortakları tarafından imzalanması gerekir. Buna dolaylı sağlayıcılar, doğrudan fatura ortakları ve dolaylı satıcılar dahildir.
 
-Dolaylı kurumsal bayinin aşağıdaki etkinliklere katılamadan önce MPA'yı imzalaması gerekir:
+Dolaylı bir satıcının, satıcıdan aşağıdaki etkinliklere katılamayabilmesi için MPA 'yı imzalaması gerekir:
 
-- Dolaylı sağlayıcının dolaylı kurumsal bayinin MPN kimliğini yeni bir CSP aboneliğiyle ilişkilendirmeden önce
-- Dolaylı bir sağlayıcının bu kurumsal bayiyle yeni iş yapmak için önce
+- Dolaylı bir sağlayıcı, dolaylı satıcının MPN KIMLIĞINI yeni bir CSP aboneliğine ilişkilendirebilmeniz için
+- Dolaylı bir sağlayıcının bu satıcıyla yeni iş kullanabilmesi için
 
-Aslında dolaylı kurumsal bayilerin iş programıyla yeni iş yapmaları için önce üç Bulut Çözümü Sağlayıcısı gerekir:
+aslında, dolaylı satıcıların Bulut Çözümü Sağlayıcısı programda transact 'dan yeni iş yapabilmeleri için üç şey yapması gerekir:
 
-- İş Ortağı Merkezi'a ekleme
-- Dolaylı kurumsal bayi olarak kaydolma
-- Oturum açma Microsoft İş Ortağı Sözleşmesi (MPA)
+- Iş Ortağı Merkezi 'ne ekleme
+- Dolaylı satıcı olarak kaydetme
+- Microsoft Iş ortağı sözleşmesi 'Ni (MPA) imzala
 
-Daha fazla bilgi için [bkz. CSP Microsoft İş Ortağı Sözleşmesi için genel bilgiler (MPA).](microsoft-partner-agreement.md)
+Daha fazla bilgi için bkz. [CSP iş ortakları Için Microsoft Iş ortağı Sözleşmesi (MPa)](microsoft-partner-agreement.md).
 
 ## <a name="supported-partner-transactions-in-the-csp-program"></a>CSP programında desteklenen iş ortağı işlemleri
 
-CSP programı iş ortaklarına birlikte çalışmak için birçok fırsat sunulur. Aşağıdaki bölümde, CSP programında birkaç örnek iş ortağı senaryosunun nasıl desteklenip destekleneyy olduğu açıklandı.
+CSP programındaki iş ortaklarına birlikte çalışmak için birçok fırsat sunulur. Aşağıdaki bölümde, birkaç örnek iş ortağı senaryosunun CSP programında nasıl desteklenmiş olabileceği veya desteklenmeyebilir.
 
-**Örnek senaryo 1:** Bir iş ortağı müşteriye satış yapmak, uz-uzamaz ilişki sahibi olmak, faturalama ve müşteri desteğinden sorumlu olmak istiyorsa ne olur?
+**Örnek senaryo 1:** Bir iş ortağı müşteriye satmak isterse, uçtan uca ilişkiye sahip olmak ve faturalandırma ve müşteri desteğinden sorumlu olmak istiyor musunuz?
 
-Bu senaryo iki işlemsel ilişki türü tarafından de desteklene bir senaryodur:
+Bu senaryo iki tür işlemsel ilişki tarafından desteklenir:
 
-- **İlişki 1:** Microsoft, doğrudan fatura iş ortağına satışlar sağlar. Daha sonra doğrudan fatura ortağı son müşteriye satışlar.<br>
-- **İlişki 2:** Microsoft dolaylı sağlayıcıya satışlar sağlar. Dolaylı sağlayıcı daha sonra dolaylı satıcıya satış sağlar. Dolaylı satıcı daha sonra son müşteriye satış sağlar.</br>
+- **İlişki 1:** Microsoft, doğrudan fatura ortağına satış sağlar. Doğrudan fatura ortağı daha sonra son müşteriye satış sağlar.<br>
+- **İlişki 2:** Microsoft dolaylı sağlayıcıya sattığı. Dolaylı sağlayıcı daha sonra dolaylı satıcıya satış sağlar. Dolaylı satıcı daha sonra son müşteriye satış sağlar.</br>
 
 **Örnek senaryo 2:** Bir iş ortağı, başka bir CSP program ortağı tarafından sunulan belirli bir hizmete veya çözüme ihtiyaç duyan bir müşteriye sahip olduğunda ne olacak?
 
@@ -85,7 +85,7 @@ Müşteri, aboneliklerini yönetmek için birden çok iş ortağına geçebilir.
 
 İş ortağı, dolaylı bir satıcıdan ya da doğrudan fatura ortağından müşteri olarak satın alabilir. Ancak bunu yapmak için, CSP için kullanılandan farklı bir kiracı kullanmaları gerekir.
 
-Bu durumda, iş ortağı tarafından satın alınan hizmetlerin müşteri türü olarak belirtilen bir kiracıya sağlanması gerekir (yalnızca iç kullanım için kiracı). Bu hizmetler, mevcut ortağın CSP kiracısına (bulut çözümü sağlayıcısı programında iş ortağı tarafından kullanılan kiracı **) sağlanamıyor.**</br>
+Bu durumda, iş ortağı tarafından satın alınan hizmetlerin müşteri türü olarak belirtilen bir kiracıya sağlanması gerekir (yalnızca iç kullanım için kiracı). bu hizmetler, mevcut ortağın CSP kiracısına (Bulut Çözümü Sağlayıcısı programında iş ortağı tarafından kullanılan kiracı **) sağlanamıyor.**</br>
 
 **Örnek senaryo 5:** CSP programındaki bir iş ortağı bir son müşteri olarak kendilerini satmak istiyorsa ne olacak?
 
@@ -93,29 +93,29 @@ Sözleşmeye göre, CSP programındaki iş ortaklarının kendilerine (son müş
 
 **Örnek senaryo 6:** Dolaylı bir satıcı son müşteri olarak satın almak istiyorsa ne olacak?
 
-Belirli dolaylı Bayi, CSP programındaki dolaylı bir sağlayıcıdan kendi kullanımları için lisans satın almak isteyebilir. Bu senaryo için dolaylı kurumsal bayinin kuruluşu zaten dolaylı sağlayıcı-dolaylı kurumsal bayi ilişkisi kurmış olabilir. Bunu yapmak, iş ortağının aynı dolaylı sağlayıcıya sahip bir son müşteri olarak yeni ilişki türü kurmasını önler.
+Belirli dolaylı Bayi, CSP programındaki dolaylı bir sağlayıcıdan kendi kullanımları için lisans satın almak isteyebilir. Bu senaryoda, dolaylı satıcının organizasyonu zaten dolaylı bir sağlayıcı dolaylı satıcı ilişkisi oluşturmuş olabilir. Bunun yapılması, ortağın aynı dolaylı sağlayıcıya sahip bir son müşteri olarak herhangi bir yeni ilişki türü oluşturmasını engeller.
 
-Bu durumda dolaylı kurumsal bayi aşağıdaki seçeneklerden birini kullanabilir:
+Bu durumda, dolaylı satıcı aşağıdaki seçeneklerden birini kullanabilir:
 
-- **1. Seçenek:** İş ortakları, müşterileri için ayrı bir ortam olan başka bir Azure AD kiracısı ayarlamaya yöneliktir.
+- **Seçenek 1:** İş ortakları, müşterileri için ayrı bir ortam olan başka bir Azure AD kiracısı ayarlayabilir.
 
-- **2. Seçenek:** Dolaylı kurumsal bayi, bir dolaylı sağlayıcıyla ilişkiyi bitirip başka bir dolaylı sağlayıcıyla yeni bir CSP ilişkisi kurabilirsiniz. Bu sayede dolaylı kurumsal bayi, farklı bir CSP doğrudan fatura iş ortağından şirketin kendi kullanımı için abonelik satın alır.
+- **Seçenek 2:** Dolaylı satıcı, bir dolaylı sağlayıcıyla ilişkiyi sonlandırabilir ve başka bir dolaylı sağlayıcıyla yeni bir CSP ilişkisi oluşturabilir. Bunun yapılması dolaylı satıcının, farklı bir CSP doğrudan fatura ortağından kendi şirketinin kendi kullanımı için abonelikler satın almasına olanak tanır.
 
    >[!NOTE]
-   >Dolaylı sağlayıcı ile dolaylı kurumsal bayi arasındaki ilişkiyi sona ert etmek için [Microsoft Desteği.](support-from-microsoft.md)
+   >Dolaylı bir sağlayıcı ve dolaylı satıcı arasındaki ilişkiyi sonlandırmak için [Microsoft desteği](support-from-microsoft.md)başvurun.
 
-- **3. Seçenek:** Kurumsal bayi, müşteri ilişkilerini mevcut dolaylı sağlayıcıyla tutarak başka bir dolaylı sağlayıcıyla başka bir dolaylı kurumsal bayi ilişkisi oluşturabilir.
+- **Seçenek 3:** Satıcı, mevcut dolaylı sağlayıcıyla müşteri ilişkilerini tutabilir ve başka bir dolaylı sağlayıcı ile başka bir dolaylı satıcı ilişkisi oluşturabilir.
 
-**Örnek senaryo 7:** Dolaylı kurumsal bayi farklı bir bölgede yer alan bir müşteriye satış yapmak isterse ne olur?
+**Örnek senaryo 7:** Dolaylı bir satıcı, farklı bir bölgedeki müşteriye satış yapmak isterse ne olur?
 
-CSP programı içinde bir iş ortağı yalnızca aynı bölgedeki müşterilere satabilirsiniz. Daha fazla bilgi için [bkz. Bulut Çözümü Sağlayıcısı pazarları ve para birimlerini programla.](regional-authorization-overview.md)
+CSP programındaki bir iş ortağı yalnızca aynı bölgedeki müşterilere satış yapabilir. daha fazla bilgi için bkz. [Bulut Çözümü Sağlayıcısı program bölgesel pazarlar ve para birimleri](regional-authorization-overview.md).
 
-**Örnek senaryo 8:** Dolaylı sağlayıcı farklı bir bölgedeki dolaylı satıcıyla ilişki kurmak isterse ne olur?
+**Örnek senaryo 8:** Dolaylı bir sağlayıcı, farklı bir bölgedeki dolaylı bir satıcıyla ilişki kurmak istiyorsa ne olacak?
 
-İş ortağı yalnızca aynı bölgeden bir iş ortağıyla ilişki kurmaktadır.
+İş ortağı yalnızca aynı bölgedeki bir iş ortağıyla ilişki kurabilir.
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-- [CSP programında dolaylı kurumsal bayilerle iş ortağı](indirect-provider-tasks-in-partner-center.md)
-- [İş Ortağı Merkezi'daki dolaylı kurumsal bayi İş Ortağı Merkezi](indirect-reseller-tasks-in-partner-center.md)
-- [Doğrudan fatura iş ortağı olarak kaydolma](enrolling-in-the-csp-program.md#enroll-as-a-direct-bill-partner)
+- [CSP programındaki dolaylı satıcılarla iş ortağı](indirect-provider-tasks-in-partner-center.md)
+- [Iş Ortağı Merkezi 'nde dolaylı satıcı görevleri](indirect-reseller-tasks-in-partner-center.md)
+- [Doğrudan fatura ortağı olarak kaydetme](enrolling-in-the-csp-program.md#enroll-as-a-direct-bill-partner)

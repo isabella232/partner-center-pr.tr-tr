@@ -3,17 +3,17 @@ title: Örnek sorgu listesi
 description: İş ortağı öngörüleri analiz verilerine programlı bir şekilde erişmek için örnek sorguları kullanın.
 ms.topic: reference
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-insights
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.date: 07/14/2021
-ms.openlocfilehash: e25784585a1ac505db99e58265939a8851edcbad
-ms.sourcegitcommit: 4f1702683336d54f24c0ba283f7d13dda581923d
+ms.openlocfilehash: 36da8a59548142bf09daf42dbc936fba15d46d1e
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/16/2021
-ms.locfileid: "114376941"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114844692"
 ---
 # <a name="sample-queries-for-partner-center-insights-report"></a>Iş Ortağı Merkezi Öngörüler için örnek sorgular raporu
 

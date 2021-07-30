@@ -3,18 +3,18 @@ title: Satıcı ilişkisini bir müşteriyle kaldır
 ms.topic: how-to
 ms.date: 06/05/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-customers
 description: Microsoft doğrudan iş ortaklarının müşterileri kendi listesinden nasıl kaldırabileceğini, yönetici ayrıcalıkları temsilcilerin nasıl kaldırılacağını ve bir müşterinin desteğini veya satın almayı durdurmasını öğrenin.
 author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 83259f2f895be9ef34c55db5613ccfe6891a4424
-ms.sourcegitcommit: 8dc9f28f15d9760a8363826513b4470b76b40ff3
+ms.openlocfilehash: 355f4917098ae6f6e383bf1a889197a725777311
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "112551478"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114844980"
 ---
 # <a name="how-to-remove-a-reseller-relationship-with-a-customer-in-partner-center"></a>İş Ortağı Merkezi'nde müşteriyle kurumsal bayi ilişkisini kaldırma
 

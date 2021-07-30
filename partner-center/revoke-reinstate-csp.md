@@ -3,18 +3,18 @@ title: Azure CSP için yeniden devreye sokma yönetici ayrıcalıkları
 ms.topic: how-to
 ms.date: 05/27/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-customers
 description: müşterilerin bir müşterinin Azure Bulut Çözümü Sağlayıcısı (CSP) aboneliklerinin yönetilmesine yardımcı olması için, ortağın yönetici ayrıcalıklarını yeniden devreye sokmasını nasıl sağlayacağınızı öğrenin.
 author: dhirajgandhi
 ms.author: dhgandhi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 196b38d30942278beb00096529f5965db7dfb96c
-ms.sourcegitcommit: b55f63a029d88c73cd5190bbac2df1b5990e6e44
+ms.openlocfilehash: 0a3af74158b36442118d41662744fc921277963c
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/08/2021
-ms.locfileid: "113510185"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114845338"
 ---
 # <a name="reinstate-admin-privileges-for-a-customers-azure-csp-subscriptions"></a>Müşterinin Azure CSP abonelikleri için yeniden devreye sokma yönetici ayrıcalıkları  
 

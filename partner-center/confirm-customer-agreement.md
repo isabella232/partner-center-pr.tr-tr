@@ -1,20 +1,20 @@
 ---
 title: Müşterinizin, Microsoft Müşteri anlaşmasını CSP programına kabul ettiğini onaylama
-description: Bulut çözümü sağlayıcısı (CSP) iş ortaklarının, müşteriler için Microsoft hizmetlerini sipariş etmeden önce Microsoft Müşteri sözleşmesinin müşteri tarafından kabul edilmesini onaylamanız gerekir.
+description: Bulut Çözümü Sağlayıcısı (CSP) iş ortaklarının, müşteriler için Microsoft hizmetleri sipariş etmeden önce Microsoft müşteri sözleşmesinin müşteri kabulünü onaylamasını gerekir.
 ms.topic: how-to
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-customers
 author: aarzh-AaronZhang
 ms.author: v-aarzh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 03/24/2021
-ms.openlocfilehash: 9deebf3d9aab2d4dc7953da67a7eb17078b3d30c
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: 054920e490b84420a99938f7b28046e9999ddde4
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112277020"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114837399"
 ---
 # <a name="how-to-confirm-that-your-customer-has-accepted-the-microsoft-customer-agreement-to-the-csp-program"></a>Müşterinizin, Microsoft Müşteri anlaşmasını CSP programına kabul ettiğini onaylama
 
@@ -25,7 +25,7 @@ Müşterilerin, Microsoft Müşteri anlaşmasını kabul ettikleri iki seçeneğ
 
 **Seçenek 1**: müşteri kabulünü kabul eden iş ortağı kanıtı Iş Ortağı Merkezi API/SDK kullanarak veya Iş Ortağı Merkezi panosu aracılığıyla müşteri kabulünü doğrulayabilirler.
 
-**Seçenek 2**: müşteri doğrudan kabul-iş ortağı, Microsoft 365 Yönetim merkezinde sözleşmeyi gözden geçirmek ve kabul etmek IÇIN bir URL aracılığıyla müşteriyi davet edebilir.
+**seçenek 2**: müşteri doğrudan kabul-ortağı, Microsoft 365 Yönetici merkezindeki sözleşmeyi gözden geçirmek ve kabul etmek için bir URL aracılığıyla müşteriyi davet edebilir.
 
 ## <a name="access-microsoft-customer-agreement-template"></a>Microsoft müşteri anlaşması şablonuna erişin
 
@@ -63,7 +63,7 @@ Bunu yapmak için bir Yönetim Aracısı veya satış aracısı olmanız gerekir
 
 3. **Microsoft Müşteri Sözleşmesi** altında **Güncelleştir**' i seçin.
 
-4. Sözleşmeyi kabul eden kişinin **adı**, **Soyadı**, **e-posta adresi** ve **telefon numarasını** (isteğe bağlı) girin. **Sözleşme kabul tarihi** altında, uygun tarihi girin. Bunu gelecekteki bir tarihle ayarlayamazsınız.
+4. sözleşmeyi kabul eden kişinin **adı**, **soyadı**, **e-posta adresi** ve **Telefon numarasını** (isteğe bağlı) girin. **Sözleşme kabul tarihi** altında, uygun tarihi girin. Bunu gelecekteki bir tarihle ayarlayamazsınız.
 
 5. **Kaydet** ve devam et ' i seçin.
 
@@ -91,9 +91,9 @@ Iş Ortağı Merkezi API/SDK 'sını, Microsoft Müşteri sözleşmesinin müşt
 
 - [Microsoft müşteri anlaşması şablonu için bir indirme bağlantısı alın](/partner-center/develop/download-customer-agreement-template)
 
-## <a name="option-2-customer-acceptance-in-microsoft-365-admin-center"></a>Seçenek 2: Microsoft 365 Yönetim merkezinde müşteri kabulü
+## <a name="option-2-customer-acceptance-in-microsoft-365-admin-center"></a>seçenek 2: Microsoft 365 Yönetici merkezinde müşteri kabulü
 
-İş ortakları yeni ve mevcut müşterileri bir URL aracılığıyla davet ederek Microsoft 365 Yönetim Merkezi 'ndeki sözleşmeyi gözden geçirebilir ve kabul edebilir. Sonraki birkaç bölümde nasıl yapılacağı gösterilmektedir:
+iş ortakları yeni ve mevcut müşterileri bir URL aracılığıyla davet ederek Microsoft 365 Yönetici merkezi içindeki sözleşmeyi gözden geçirebilir ve kabul edebilir. Sonraki birkaç bölümde nasıl yapılacağı gösterilmektedir:
 
 - Yeni bir müşteri oluşturun ve sözleşmeyi gözden geçirmek ve kabul etmek için müşteriyi davet edin.
 
@@ -106,13 +106,13 @@ Iş Ortağı Merkezi API/SDK 'sını, Microsoft Müşteri sözleşmesinin müşt
 
 ## <a name="create-a-new-customer-and-invite-the-customer-to-review-and-accept-the-agreement"></a>Yeni bir müşteri oluşturun ve sözleşmeyi gözden geçirmek ve kabul etmek için müşteriyi davet edin
 
-Iş Ortağı Merkezi 'nde yeni bir müşteri oluşturmak için aşağıdaki adımları kullanın ve ardından Microsoft 365 Yönetim Merkezi 'nde Microsoft Müşteri anlaşmasını gözden geçirip kabul edin.
+iş ortağı merkezi 'nde yeni bir müşteri oluşturmak için aşağıdaki adımları kullanın, ardından Microsoft 365 Yönetici Center içindeki Microsoft müşteri sözleşmesini gözden geçirip kabul edin.
 
 1. Iş Ortağı Merkezi 'nin içindeki **müşteriler** sekmesinden **Müşteri Ekle**' yi seçin.
 
 2. **Hesap bilgileri** altında, müşterinin Şirket adı ve birincil ilgili kişisi dahil olmak üzere tüm gerekli alanlara yeni müşteri hakkındaki bilgileri girin.
 
-3. **Müşteri Sözleşmesi**' nin altında, **Microsoft 365 Yönetim Merkezi ' ndeki Microsoft Müşteri anlaşmasını kabul etmesi istenecek müşteri**' yi seçin. Sayfadaki diğer tüm gerekli alanları doldurun.
+3. **müşteri sözleşmesi**' nin altında, **müşteri Microsoft 365 Yönetici merkezi 'nde Microsoft müşteri anlaşmasını kabul etmesi istenecektir**. Sayfadaki diğer tüm gerekli alanları doldurun.
 
 4. Ileri ' yi seçin **: gözden geçirin** ve ardından müşteri kiracısını oluşturma adımlarına devam edin. 
 
@@ -123,7 +123,7 @@ Iş Ortağı Merkezi 'nde yeni bir müşteri oluşturmak için aşağıdaki adı
 
 5. Yeni müşteri iş akışındaki **onay** ekranına ulaştığınızda müşteri kimlik bilgilerini kaydedin. Bu kimlik bilgilerini müşterinize daha sonra sağlamanız gerekir.
 
-6. Iş ortağı merkezi dışında, Microsoft 365 Yönetim merkezinde Microsoft Müşteri anlaşmasını kabul etmek üzere müşteriyi davet eden bir e-posta oluşturun ve gönderin. Bu öğeleri e-postaya eklediğinizden emin olun:
+6. iş ortağı merkezi dışında, Microsoft müşteri anlaşmasını Microsoft 365 Yönetici Center 'da kabul etmek üzere müşteriyi davet eden bir e-posta oluşturun ve gönderin. Bu öğeleri e-postaya eklediğinizden emin olun:
 
    - Bu [URL](https://admin.microsoft.com/AdminPortal/Home?ref=/BillingAccounts/agreement) 'ye bir bağlantı (oturum açma gerekir)
 
@@ -131,7 +131,7 @@ Iş Ortağı Merkezi 'nde yeni bir müşteri oluşturmak için aşağıdaki adı
 
 7. Müşteri, daha sonra iş ortağından gelen daveti alacak ve [URL 'yi](https://admin.microsoft.com/AdminPortal/Home?ref=/BillingAccounts/agreement)seçmeyecektir.
 
-8. Müşteri, girdiğiniz müşteri kimlik bilgilerini kullanarak Microsoft 365 Yönetim Merkezi 'Nde oturum açar.
+8. müşteri, verdiğiniz müşteri kimlik bilgilerini kullanarak Microsoft 365 Yönetici Center 'da oturum açar.
 
 9. Müşteri, Microsoft Müşteri anlaşmasını kabul etmek için kutuyu kontrol eder.
 
@@ -141,7 +141,7 @@ Yeni bir müşteriyi gözden geçirmek ve satıcı ilişkilerini ve Microsoft M�
 
 1. Iş Ortağı Merkezi 'nin içindeki **müşteriler** sekmesinden **bir satıcı ilişki iste** bağlantısı ' nı seçin. 
 
-2. Metin ve müşteriyi Microsoft 365 yönetim merkezine yönlendiren parametreli bir URL dahil olmak üzere otomatik e-posta şablonu oluşturulacaktır.
+2. metin ve müşteriyi Microsoft 365 Yönetici merkezine yönlendiren parametreli bir URL dahil olmak üzere otomatik e-posta şablonu oluşturulacaktır.
 
 3. Otomatik olarak oluşturulan e-posta şablonunu özelleştirebilir ve sonra **Panoya Kopyala** ' yı seçerek **e-posta ile açabilirsiniz**.
 
@@ -151,7 +151,7 @@ Yeni bir müşteriyi gözden geçirmek ve satıcı ilişkilerini ve Microsoft M�
 
 5. Müşteri e-posta ile davet alır ve parametreli URL 'yi tıklatır. 
 
-6. Müşteri, Microsoft 365 Yönetim Merkezi 'Nde oturum açmak için e-posta içinde sağladığınız kimlik bilgilerini kullanır.
+6. müşteri e-posta içinde Microsoft 365 Yönetici merkezi 'nde oturum açmak için sağladığınız kimlik bilgilerini kullanır.
 
 7. Müşteri, **satıcı ilişkilerini** ve **Microsoft Müşteri anlaşmasını** kabul etmek için kutuyu kontrol eder. 
 
@@ -168,7 +168,7 @@ Mevcut bir müşteriyi gözden geçirmek ve Microsoft Müşteri anlaşmasını k
 
 2. Müşteriniz daveti e-posta yoluyla alır ve [URL 'yi](https://admin.microsoft.com/AdminPortal/Home?ref=/BillingAccounts/agreement)tıklatır. 
 
-3. Müşteri kimlik bilgilerini Microsoft 365 yönetim merkezine girer.
+3. müşteri, kimlik bilgilerini Microsoft 365 Yönetici merkezine girer.
 
 4. Müşteriniz, Microsoft Müşteri anlaşmasını kabul etmek için kutuyu kontrol eder. 
 
@@ -179,29 +179,29 @@ Mevcut bir müşteriyi gözden geçirmek ve Microsoft Müşteri anlaşmasını k
 >[!NOTE]
 >Bazı senaryolarda, müşteriler Microsoft Müşteri anlaşmasını doğrudan kabul edemeyebilir. Bu durumlar hakkında daha fazla bilgi edinmek için, aşağıdaki Müşterinizin adına sınamanız gereken Iki senaryoyu okuyun.
 
-## <a name="two-scenarios-where-you-need-to-attest-on-behalf-of-your-customer"></a>Müşteriniz adına bunu test etmek için ihtiyacınız olan iki senaryo
+## <a name="two-scenarios-where-you-need-to-attest-on-behalf-of-your-customer"></a>Müşterinizin adına test etmeniz gereken iki senaryo
 
-Müşterilerin Yönetim Merkezi'nde doğrudan Microsoft Müşteri Sözleşmesi kabul Microsoft 365 senaryo vardır.
+müşterilerin, Microsoft müşteri anlaşmasını Microsoft 365 Yönetici merkezi 'nde doğrudan kabul edebilecekleri iki senaryo vardır.
 
-**Senaryo 1:** Mevcut bir müşteri, mevcut iş ortağı ilişkisi aracılığıyla aşağıdakilerin herhangi birini satın aldı: teklifler, yazılım veya yazılım abonelikleri, Ayrılmış Örnekler veya Azure Planı. Müşteri şimdi yeni satın alma işlemleri yapmaya (otomatik yenileme hariç) başvurur. Müşteri URL'ye tıkladığında "Lütfen İş Ortağınıza ulaşarak url'yi kabul Microsoft Müşteri Sözleşmesi."  
+**Senaryo 1**: mevcut bir müşteri, mevcut bir iş ortağı ilişkisi aracılığıyla aşağıdakilerden birini satın aldı: teklifler, yazılım veya yazılım abonelikleri, ayrılmış örnekler veya Azure planı. Müşteri artık yeni satın alma işlemi gerçekleştirmeye çalışıyor (otomatik yenileme hariç). Bu müşteri URL 'YI tıklattığında, "Microsoft Müşteri anlaşmasını kabul etmek için lütfen Iş ortağınıza ulaşın" iletisini alırlar.  
 
-**Sorununu çözmek** için: Müşteri adına bunu doğrulayın.
+**Çözümlemek için**: müşteri adına test etmeniz gerekir.
 
-:::image type="content" source="images/mca/accept-scenario-1.png" alt-text="İş Microsoft 365 kabul etmek için iş ortağınıza ulaşmanızı isteyen Yönetim Merkezi sayfasının ekran Microsoft Müşteri Sözleşmesi.":::
+:::image type="content" source="images/mca/accept-scenario-1.png" alt-text="Microsoft müşteri sözleşmesinin kabul edildiğini onaylamak için iş ortağınıza ulaşmanızı isteyen Microsoft 365 Yönetici Center sayfasının ekran görüntüsü.":::
 
-**Senaryo 2:** Mevcut bir müşteri aşağıdaki tekliflerden, yazılım ve yazılım aboneliklerinin, Ayrılmış Örneklerin ve Azure Planı'nın herhangi birini satın aldı. Müşteri şimdi yeni bir iş ortağıyla yeni satın alma girişiminde bulundu.
+**Senaryo 2**: mevcut bir müşteri, aşağıdaki tekliflerden, yazılım ve yazılım aboneliklerinden, ayrılmış örneklerden ve Azure planından herhangi birini satın almış. Müşteri artık yeni bir iş ortağıyla yeni satın alma yapmaya çalışıyor.
 
-Müşteri yeni iş ortağı ilişkisini ve sözleşmeyi kabul etmek için Microsoft 365 Yönetim Merkezi'nin URL'sini tıkladığında" "Lütfen İş Ortağınıza ulaşarak bu ilişkiyi kabul ettiğiniz Microsoft Müşteri Sözleşmesi."  
+müşteri yeni iş ortağı ilişkisini ve sözleşmeyi kabul etmek için Microsoft 365 Yönetici Center URL 'sini tıkladığında, "Microsoft müşteri sözleşmesi 'ni kabul etmiş olduğunuz için iş ortağınıza ulaşın" iletisini alırlar.  
 
-**Sorununu çözmek** için: Müşteri adına bunu doğrulayın.  
+**Çözümlemek için**: müşteri adına test etmeniz gerekir.  
 
-## <a name="confirm-that-a-customer-has-accepted-the-agreement"></a>Müşterinin sözleşmeyi kabul etmiş olduğunu onaylayın
+## <a name="confirm-that-a-customer-has-accepted-the-agreement"></a>Müşterinin sözleşmeyi kabul ettiğini onaylama
 
-Daha önce onaylamadınız mevcut bir müşteri için yeni bir sipariş oluşturmanız gerekirse, onayı tamamlamanız için bir istem alırsınız. Bunu yapmak için aşağıdaki yordamı kullanın.
+Daha önce teyit edilmemiş mevcut bir müşteri için yeni bir sipariş oluşturmayı denerseniz, onayı tamamlamaya yönelik bir istem alırsınız. Bunu yapmak için aşağıdaki yordamı kullanın.
 
-1. Sözleşmeyi **kabul eden** kullanıcının **Ad,** Soyadı, **E-posta** adresi ve Telefon numarasını (isteğe bağlı) girin. 
+1. sözleşmeyi kabul eden kullanıcının **adını**, **soyadını**, **e-posta adresini** ve **Telefon numarasını** (isteğe bağlı) girin.
 
-2. Sözleşme **kabul tarihi'nin** altında uygun tarihi girin. Bunu gelecekteki bir tarihe ayaramazsiniz.
+2. **Sözleşme kabul tarihi** altında, uygun tarihi girin. Bunu gelecekteki bir tarihle ayarlayamazsınız.
 
 3. **Kaydet ve devam et**’i seçin. 
 

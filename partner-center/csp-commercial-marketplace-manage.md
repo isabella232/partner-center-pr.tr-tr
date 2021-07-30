@@ -1,49 +1,49 @@
 ---
-title: Market ürünlerini ve & yönetme
+title: Market ürünlerini & tekliflerini yönetme
 ms.topic: how-to
 ms.date: 07/02/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
-description: Bulut İş Ortağı Merkezi Kullanarak, Bulut Çözümü Sağlayıcılarının ticari marketten müşteriler için satın alınan üçüncü taraf ISV tekliflerini nasıl yöneteceklerini öğrenin.
+ms.subservice: partnercenter-pricing
+description: Iş Ortağı Merkezi 'ni kullanarak, bulut çözümü sağlayıcılarının müşteriler için satın alınan üçüncü taraf ISV tekliflerini ticari Market 'ten nasıl yönetebileceğini öğrenin.
 author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e1bb2752dad5325478496c83fc368943780d8afb
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: fb6b64ef6117f0e26f0fd41d215816c38d5b7b80
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110147913"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114837739"
 ---
-# <a name="manage-commercial-marketplace-products-and-offers-for-your-customers"></a>Müşterileriniz için ticari market ürünlerini ve tekliflerini yönetme
+# <a name="manage-commercial-marketplace-products-and-offers-for-your-customers"></a>Müşterileriniz için ticari Market ürünlerini ve tekliflerini yönetin
 
 
-**Uygun roller:** Genel yönetici | Yönetici aracısı
+**Uygun roller**: genel yönetici | Yönetim Aracısı
 
-Bulut Çözümü Sağlayıcısı (CSP) programı iş ortakları, ticari marketten müşterileri için İş Ortağı Merkezi ISV SaaS tekliflerini veya aboneliklerini satın almak için İş Ortağı Merkezi portalını kullanabilir. Bir teklifi satın aldığınız zaman, bunu yönetmek için çeşitli yollarınız vardır.
+Bulut Çözümü Sağlayıcısı (CSP) programındaki iş ortakları, ticari market 'ten müşterileri için birçok ısv SaaS teklifi veya aboneliği satın almak üzere iş ortağı merkezi portalını kullanabilir. Bir teklif satın aldıktan sonra, bunları yönetmenin çeşitli yolları vardır.
 
-## <a name="view-or-edit-a-subscription"></a>Aboneliği görüntüleme veya düzenleme
+## <a name="view-or-edit-a-subscription"></a>Abonelik görüntüleme veya düzenleme
 
-Bir üçüncü taraf ISV yayımcısı aboneliği satın aldıktan sonra, aboneliği aşağıdaki gibi gözden geçirebilirsiniz veya düzenleyebilirsiniz:
+Üçüncü taraf bir ISV yayımcısından bir abonelik satın aldıktan sonra, bunu aşağıdaki gibi gözden geçirebilir veya düzenleyebilirsiniz:
 
-1. Panoda oturum İş Ortağı Merkezi [ve](https://partner.microsoft.com/dashboard)ardından **sol** gezinti menüsünden Müşteriler'i seçin.
+1. Iş Ortağı Merkezi [panosunda](https://partner.microsoft.com/dashboard)oturum açın ve ardından sol gezinti menüsünden **müşteriler** ' i seçin.
 
-2. Uygun müşteriyi ve ardından Abonelikler'i **seçin.** Bu, müşteri için satın aldığınız tüm lisans tabanlı abonelikleri listeler.
+2. Uygun bir müşteri seçip **abonelikler**' i seçin. Bu, müşteri için satın aldığınız lisans tabanlı abonelikleri listeler.
 
-3. Abonelik **sütununda** görüntülemek veya düzenlemek istediğiniz aboneliği seçin. Bu, teklifi ayarlamak veya sağlama hakkında daha fazla bilgi sağlar. (Teklifte daha fazla eylem gerekirse Durum sütununda "Eylem Gerekiyor" durumu da görüntüleniyor olabilir. Buna ISV yayımcısı sitesine bir bağlantı da eşlik ediyor olabilir.)
+3. **Abonelik** sütununda, görüntülemek veya düzenlemek istediğiniz aboneliği seçin. Bu, teklifi ayarlama veya sağlama hakkında daha fazla bilgi sağlar. (Teklifte daha fazla eylem gerekliyse, durum sütununda bir "eylem gerekiyor" durumu görüntülenmiş de görebilirsiniz. Bu da ISV yayımcısının sitesinin bir bağlantısı ile birlikte olabilir.)
 
-4. Görüntülemek veya düzenlemek istediğiniz aboneliği seçmenizin ardından abonelik ayrıntı sayfası, aboneliği düzenlemenizi ve aşağıdaki gibi şeyler yapmanizi sağlar:
+4. Görüntülemek veya düzenlemek istediğiniz aboneliği seçtikten sonra, abonelik ayrıntısı sayfası, aboneliği düzenlemenize ve şunun gibi işlemler yapmanızı sağlar:
 
-    - Abonelik takma adını değiştirme
+    - Abonelik takma adı 'nı değiştirme
 
-    - Abonelikte lisans ekleme/azaltma
+    - Abonelikteki lisansların sayısını ekleme/azaltma
 
-    - Aboneliği iptal etme
+    - Aboneliği iptal et
 
     - Otomatik yenilemeyi kapat
 
-    - Varsa Dolaylı Kurumsal Bayi MPN Kimliği ekleme
+    - Varsa dolaylı satıcı KIMLIĞI ekleyin
 
 > [!NOTE]
 > Abonelik iptal etme gibi bir abonelikte bazı değişiklikler yapabilmeniz için önce ISV yayımcısı tarafından tanımlanan belirli adımları gerçekleştirmeniz gerekebilir.
@@ -75,37 +75,37 @@ Yayımcı size kişiselleştirilmiş bir bağlantı ve belirli satın alma bilgi
 
 4. Yayımcıya gerekli bilgileri sağlamadıktan sonra, yayımcı uygun lisansları sağlayacak ve atayacaktır. Abonelik faturalandırması yalnızca aşağıdaki olaylar gerçekleşdikten sonra başlayacak:
 
-    - ISV yayımcısı uygun lisansları başarıyla atadı
+    - ISV yayımcısı uygun lisansları başarıyla atamış
 
-    - ISV yayımcısı Microsoft'a (ayrı bir SaaS gerçekleştirme API'si aracılığıyla) hesap kurulumunun başarıyla tamamlanmıştır
+    - ISV yayımcısı, hesap kurulumunun başarıyla tamamlandığını Microsoft 'a (ayrı, SaaS karşılama API 'SI aracılığıyla) onayladı
 
-## <a name="cancel-a-license-based-saas-subscription-from-an-isv-publisher"></a>ISV yayımcısı için lisans tabanlı SaaS aboneliğini iptal etme
+## <a name="cancel-a-license-based-saas-subscription-from-an-isv-publisher"></a>Bir ISV yayımcısından lisans tabanlı SaaS aboneliğini iptal etme
 
-Ticari markette bir ISV yayımcısı tarafından sunulan lisans tabanlı Bir SaaS ürününe abone olursanız, aboneliği belirlenen iptal süresi içinde iptal etme seçeneğiniz vardır. Bu iptal süresi, aylık veya yıllık aboneliğiniz olup olmadığınıza bağlı olarak değişir. Ayrıca aboneliği otomatik olarak yenilemeyi de seçebilirsiniz.
+Ticari Market 'teki bir ISV yayımcısı tarafından sunulan lisans tabanlı bir SaaS ürününe abone olduğunuzda, aboneliği belirlenen iptal döneminde iptal etme seçeneğiniz vardır. Bu iptal süresi, aylık veya yıllık aboneliğiniz olmasına bağlı olarak değişir. Ayrıca, aboneliğin otomatik olarak yenilenmesi gerekip gerekmediğini de belirleyebilirsiniz.
 
-Geçerli iptal dönemleri, aboneliği iptal etme veya bir aboneliği otomatik yenileme hakkında daha fazla bilgi için bkz.
+Uygulanan iptal dönemleri hakkında daha fazla bilgi için, nasıl iptal edileceği veya bir aboneliğin otomatik olarak yenileneceği hakkında daha fazla bilgi için bkz.:
 
-- [Aboneliği iptal etme](create-a-new-subscription.md#cancel-a-subscription)
+- [Aboneliği iptal et](create-a-new-subscription.md#cancel-a-subscription)
 
-- [Ticari market aboneliğini otomatik yenileme](create-a-new-subscription.md#choose-whether-to-automatically-renew-a-commercial-marketplace-subscription)
+- [Ticari Market aboneliğini otomatik yenileme](create-a-new-subscription.md#choose-whether-to-automatically-renew-a-commercial-marketplace-subscription)
 
 ## <a name="add-or-remove-licenses-for-a-saas-subscription"></a>SaaS aboneliği için lisans ekleme veya kaldırma
 
-SaaS ticari market tekliflerinde müşteri aboneliği için kullanıcı lisansları ekleyebilir veya kaldırabilirsiniz.
+SaaS ticari Market teklifleri için bir müşteri aboneliğine yönelik kullanıcı lisansları ekleyebilir veya kaldırabilirsiniz.
 
-1. Panoda oturum İş Ortağı Merkezi [ve](https://partner.microsoft.com/dashboard)ardından **sol** gezinti menüsünden Müşteriler'i seçin.
+1. Iş Ortağı Merkezi [panosunda](https://partner.microsoft.com/dashboard)oturum açın ve ardından sol gezinti menüsünden **müşteriler** ' i seçin.
 
-2. Uygun müşteriyi ve ardından Abonelikler'i **seçin.** Bu, müşteri için satın aldığınız tüm lisans tabanlı abonelikleri listeler.
+2. Uygun bir müşteri seçip **abonelikler**' i seçin. Bu, müşteri için satın aldığınız lisans tabanlı abonelikleri listeler.
 
-3. Abonelik **sütununda** değiştirmek istediğiniz aboneliği seçin.
+3. **Abonelik** sütununda, değiştirmek istediğiniz aboneliği seçin.
 
-4. Abonelik ayrıntıları sayfasında **Quantity alanını** bulun. Burada lisans sayısını artırabilir veya azaltabilirsiniz.
+4. Abonelik Ayrıntıları sayfasında, **Miktar** alanını bulun. Bu, lisansların sayısını artırabileceğiniz veya azaltırabileceğiniz yerdir.
 
-5. Miktarı değiştirerek Gönder'i **seçin.**
+5. Miktarı değiştirin ve ardından **Gönder**' i seçin.
 
-## <a name="manage-subscriptions-using-partner-center-apis"></a>Api'leri kullanarak İş Ortağı Merkezi yönetme
+## <a name="manage-subscriptions-using-partner-center-apis"></a>Iş Ortağı Merkezi API 'Lerini kullanarak abonelikleri yönetme
 
-Ayrıca aboneliklerinize İş Ortağı Merkezi yönetimi gerçekleştirmek ve faturaları yönetmek için api'leri kullanabilirsiniz. Daha fazla bilgi için bkz. [ticari Market ürünleri için abonelik oluşturma](/partner-center/develop/create-subscription-azure-marketplace-products).
+Ayrıca, yaşam döngüsü yönetimi gerçekleştirmek ve abonelikleriniz için faturaları yönetmek üzere Iş Ortağı Merkezi API 'Lerini de kullanabilirsiniz. Daha fazla bilgi için bkz. [ticari Market ürünleri için abonelik oluşturma](/partner-center/develop/create-subscription-azure-marketplace-products).
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
