@@ -3,17 +3,17 @@ title: Rapor yürütme API'sini sürdürme - Analizler yürütme
 ms.topic: reference
 ms.date: 07/14/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-insights
 description: Bu API'yi kullanarak herhangi bir duraklatılmış raporun içgörülerde yürütülmesini İş Ortağı Merkezi kullanın.
 author: kshitishsahoo
 ms.author: ksahoo
 ms.localizationpriority: medium
-ms.openlocfilehash: 1372823425f3aefd025ffc3441623c1ceee34e1e
-ms.sourcegitcommit: 4f1702683336d54f24c0ba283f7d13dda581923d
+ms.openlocfilehash: 1019e9e6f679084ca0a388d685b5239ecc2e09e2
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/16/2021
-ms.locfileid: "114377415"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114836277"
 ---
 # <a name="resume-report-executions-api"></a>Rapor yürütme API'sini sürdürme
 
@@ -28,7 +28,7 @@ Yürütme sırasında, bu API duraklatılmış bir raporun zamanlanmış yürüt
 
 **İstek üst bilgisi**
 
-|    Üst bilgi    |    Tür    |    Açıklama    |
+|    Üst bilgi    |    Tür    |    Description    |
 |    ----    |    ----    |    ----    |
 |    Yetkilendirme    |    string    |    Gereklidir. Formda Azure Active Directory (AAD) erişim belirteci`Bearer <token>`    |
 |    İçerik Türü    |    string    |    `Application/JSON`    |
@@ -97,7 +97,7 @@ Bu tablo yanıtta önemli öğeleri tanımlar:
 |    ----    |    ----    |
 |    ReportId     |    Sürdürülen raporun evrensel olarak benzersiz tanımlayıcısı (UUID)     |
 |    Raporadı     |    Oluşturma sırasında rapora verilen ad     |
-|    Açıklama     |    Rapor oluşturma sırasında verilen açıklama     |
+|    Description     |    Rapor oluşturma sırasında verilen açıklama     |
 |    Queryıd     |    Sorgu kimliği raporun oluşturulma zamanında geçirildi     |
 |    Sorgu     |    Bu rapor için yürütülecek sorgu metni     |
 |    Kullanıcı     |    Raporu oluşturmak için kullanılan kullanıcı kimliği     |

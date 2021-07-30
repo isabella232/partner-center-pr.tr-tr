@@ -3,17 +3,17 @@ title: tüm veri kümelerini al API-Analizler verileri
 ms.topic: reference
 ms.date: 07/14/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-insights
 description: Iş Ortağı Merkezi öngörülerine tüm kullanılabilir veri kümelerinin ayrıntılarını almak için bu API 'yi kullanın.
 author: kshitishsahoo
 ms.author: ksahoo
 ms.localizationpriority: medium
-ms.openlocfilehash: 42ff7cc1f097e2423be5f1f7f9a7f62214d64949
-ms.sourcegitcommit: 4f1702683336d54f24c0ba283f7d13dda581923d
+ms.openlocfilehash: 8f4e69c8759c16bc38e64a361c8c077989447d3e
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/16/2021
-ms.locfileid: "114376960"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114843808"
 ---
 # <a name="get-all-datasets-api"></a>Tüm veri kümeleri API 'sini al
 
@@ -28,7 +28,7 @@ Tüm veri kümelerini al API 'SI kullanılabilir tüm veri kümelerini alır. Ve
 
 **İstek üst bilgisi**
 
-|    Üst bilgi    |    Tür    |    Açıklama    |
+|    Üst bilgi    |    Tür    |    Description    |
 |    ----    |    ----    |    ----    |
 |    Yetkilendirme    |    string    |    Gereklidir. formdaki Azure Active Directory (AAD) erişim belirteci`Bearer <token>`    |
 |    İçerik Türü    |    string    |    `Application/JSON`    |

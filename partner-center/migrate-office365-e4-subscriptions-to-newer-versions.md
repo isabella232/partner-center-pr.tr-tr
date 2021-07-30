@@ -1,56 +1,56 @@
 ---
-title: Office 365 E4 aboneliklerini geçirme
+title: E4 Office 365 geçirme
 ms.topic: article
 ms.date: 05/18/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
-description: Microsoft Office 365 Enterprise E4 Edition 7 Nisan 2017 tarihinden itibaren kullanımdan kaldırıldı. Müşteri aboneliklerinizi Office 365 ' in daha yeni sürümlerine geçirmeyi öğrenin.
+ms.subservice: partnercenter-pricing
+description: Microsoft Office 365 Enterprise E4 sürümü 7 Nisan 2017'den itibaren kaldırıldı. Müşteri aboneliklerinizi daha yeni sürümlere geçirmeyi Office 365.
 author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f738ddace805838cdf202c23cca8535c11cbdf54
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: a1b47860f0af3427342d89945528e9118ecfc0aa
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110151568"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114843332"
 ---
 # <a name="migrate-office-365-e4-subscriptions-to-newer-office-365-versions"></a>Office 365 E4 aboneliklerini yeni Office 365 sürümlerine geçirme
 
-**Uygun roller**: genel yönetici | Kullanıcı Yönetimi Yöneticisi | Yönetici Aracısı | Satış Aracısı
+**Uygun roller:** Genel yönetici | Kullanıcı yönetimi yönetici | Yönetici aracısı | Satış aracısı
 
-Office 365 Enterprise E4 planı kullanımdan kalkmışsa, 7 Nisan 2017 ' de geçerli değildir. Bu tarihten sonra yeni Office 365 E4 abonelikleri satın alınmaz ve var olan E4 abonelikleri süreleri dolduğunda otomatik olarak yenilenmeyecektir.
+Bu Office 365 Kurumsal E4 planı 7 Nisan 2017'den itibaren geçerli olacak şekilde kaldırıldı. Bu tarihten sonra yeni E4 Office 365 satın alasınız ve mevcut E4 abonelikleri süresi dolduğunda otomatik olarak yenilenmez.
 
-E4 abonelikleri sona erdirmek için iptal edilir. Müşterilerin devamlılığını sağlamak için, süresi dolan E4 abonelikleriyle müşterileri aşağıda listelenen desteklenen bir SKU seçeneğine geçirmeniz gerekir. Müşterilerin hizmet kesintilerinden kaçınmak için, aboneliğin yıllık bitiş tarihinden önce müşterileri yeni aboneliklere taşımayı öneririz. 
+E4 abonelikleri sona erer ve iptal edilir. Müşterilerin sürekliliğini sağlamak için, süresi dolan E4 abonelikleri olan müşterileri aşağıda listelenen desteklenen bir SKU seçeneğine geçişlisiniz. Müşteriler için hizmet kesintilerini önlemek için müşterilerin aboneliğin yıllık bitiş tarihine kadar yeni aboneliklere taşınmalarını öneririz. 
 
 > [!NOTE]  
-> Hem Office 365 Enterprise E4 ticari hem de kamu SKU 'Ları devre dışı bırakıldı.
+> Hem Office 365 Kurumsal E4 kamu SKUS'ları kullanımdan kaldırıldı.
  
-Aboneliğin ayrıntı sayfasında, E4 abonelik durumu "otomatik yenilemede [Tarih]" içinde "süre sonu" olarak değiştirildi. 
+Aboneliğin ayrıntı sayfasındaki "[date]" ile E4 aboneliğinin durumu "[date] üzerinde otomatik yenileme" ile "[date]" olarak değiştirilmiştir. 
 
-API 'YI (CREST veya Partner Center) kullanıyorsanız, Otomatik Yenile = false özelliğiyle birlikte Aboneliğin bitiş tarihini değerlendirerek süresi dolan abonelikleri bulabilirsiniz. 
+API'yi (CREST veya İş Ortağı Merkezi) kullanıyorsanız, aboneliğin bitiş tarihini ve otomatik yenileme = False özelliğini değerlendirerek süresi dolan abonelikleri keşfedebilirsiniz. 
 
-E4 abonelikleri, 7 Nisan 2017 ' de Otomatik Yenile = false olarak ayarlanacak. Müşterileri dilediğiniz zaman yeni bir plana taşıyabilirsiniz. 
+E4 abonelikleri 7 Nisan 2017'de otomatik yenileme=False olarak ayarlanacak. Müşterileri yeni bir plana her zaman taşımanız gerekir. 
 
-## <a name="office-365-enterprise-e4-edition-replacement-plans"></a>Office 365 Enterprise E4 Edition değiştirme planları
+## <a name="office-365-enterprise-e4-edition-replacement-plans"></a>Office 365 Kurumsal E4 sürümü değiştirme planları
 
-E4 ile aynı işlevselliği korumayı seçebilirsiniz veya müşterilerinizin Office 365 ve Skype Kurumsal Çevrimiçi sürüm 'deki yeni özellik ve işlevlerden faydalanmasını sağlayabilirsiniz. Fiyatlandırma ayrıntıları, Iş Ortağı Merkezi 'nde fiyat listesi ve teklif listesi matrisinde bulunur. Güvenli ürün Kurumsal E3 veya güvenli üretkenlik Kurumsal E5, sırasıyla Office 365 Enterprise E3 veya Office 365 Kurumsal E5 için aşağıdaki seçenekler yerine kullanılabilir.
+E4 ile aynı işlevselliği sürdürmeyi veya müşterilerinize Office 365 ve Skype Kurumsal Online'daki yeni özelliklerden ve işlevlerden yararlanmayı seçebilirsiniz. Fiyatlandırma ayrıntıları, fiyat listesinde ve teklif listesi matrisinde İş Ortağı Merkezi. Güvenli Ürün Enterprise E3 veya Secure Productive Enterprise E5 E3 veya E5 için aşağıdaki seçeneklerde Office 365 Kurumsal E3 Office 365 Kurumsal kullanılabilir.
 
-- Seçenek 1: Office 365 Kurumsal E5
+- 1. Seçenek: Office 365 Kurumsal E5
 
-- Seçenek 2: Office 365 Enterprise E3 + Skype Kurumsal Bulut PBX
+- 2. Seçenek: Office 365 Kurumsal E3 + Skype Kurumsal Cloud PBX
 
 - 3. Seçenek: Office 365 Kurumsal E3 + Skype Kurumsal Plus CAL (E4 ile fiyat ve işlevsellik eşlik)
 
 - 4. Seçenek: Office 365 Kurumsal E3
 
 
-| Özellik | 1\. Seçenek | 2\. Seçenek | 3. Seçenek | 4. Seçenek |
+| Özellik | 1\. Seçenek | 2\. Seçenek | 3\. Seçenek | 4\. Seçenek |
 | :---    | :------: |   :---:  |   :---:  |   :---:  |
-| Office 365 Kurumsal E4'e dahil olan tüm özellikleri alıyor musunuz? | Yes | Yes | Yes | Hayır |
-| Office 365'te yönetilen telefon numaraları | Yes | Yes | Hayır | Hayır |
-| Hem şirket içinde hem de Office 365'te (karma dağıtım) yönetilen telefon numaraları? | Yes | Yes | Hayır | Hayır |
+| Office 365 Kurumsal E4'a dahil edilen tüm özellikleri Office 365 Kurumsal E4? | Yes | Yes | Yes | Hayır |
+| Telefon yönetilen sayılar Office 365? | Yes | Yes | Hayır | Hayır |
+| Telefon (karma dağıtım) hem şirket içinde hem de Office 365 yönetilen sayılar var mı? | Yes | Yes | Hayır | Hayır |
 | PSTN sesli arama planı ekleme seçeneği var mı? | Yes | Yes | Hayır | Hayır |
 | PSTN Konferans? | Yes | Hayır | Hayır | Hayır |
 | İşbirliği, analiz ve güvenlik için gelişmiş araçlar? | Yes | Hayır | Hayır | Hayır |
@@ -65,39 +65,39 @@ Microsoft, iş ortaklarımıza sürekli olarak yeni ürün ve hizmetler sunmakta
 -   Geçerli kullanıcı lisanslarını yeniden atama
 -   Eski aboneliği iptal etme
 
-Müşterinin Office 365 Kurumsal E4 aboneliğini yukarıdaki tabloda yer alan seçeneklerden biri olarak geçirmek için bu adımları izleyin.
+Müşterinin abonelik aboneliğini yukarıdaki tabloda yer alan Office 365 Kurumsal E4 geçirmek için bu adımları izleyin.
 
-### <a name="step-1---purchase-the-new-subscription"></a>1. adım-yeni aboneliği satın alma
+### <a name="step-1---purchase-the-new-subscription"></a>1. Adım - Yeni aboneliği satın alma
 
-1. **Iş Ortağı Merkezi** menüsünden **müşteriler**' i seçin, taşımak istediğiniz müşteriyi seçin ve ardından **Abonelik Ekle**' yi seçin.
+1. İş Ortağı Merkezi **menüsünden** **Müşteriler'i** seçin, taşımak istediğiniz müşteriyi seçin ve ardından Abonelik ekle'yi **seçin.**
 
-2. Katalogdan satın almak istediğiniz aboneliği seçin (Bu durumda yukarıdaki seçeneklerden biri), lisansların sayısını girin ve ardından **Gönder**' i seçin.
+2. Katalogdan satın almak istediğiniz aboneliği seçin (bu durumda, yukarıdaki seçeneklerden biri), lisans sayısını girin ve gönder'i **seçin.**
 
-   Müşterinizin artık eski ve yeni abonelikleri, eski Office 365 Enterprise E4 aboneliği ve yeni ' Target ' aboneliği olmalıdır; örneğin, 1-Office 365 Enterprise E5.
+   Müşterinizin artık hem eski hem de yeni abonelikleri, eski Office 365 Kurumsal E4 aboneliği ve yeni 'hedef' aboneliğine sahip olması gerekir. Örneğin, Seçenek 1 - Office 365 Kurumsal E5.
 
-### <a name="step-2---reassign-the-customers-users-licenses"></a>2. adım-müşterinin kullanıcılarının lisanslarını yeniden atama
+### <a name="step-2---reassign-the-customers-users-licenses"></a>2. Adım: Müşterinin kullanıcı lisanslarını yeniden atama
 
-1. **Iş Ortağı Merkezi** menüsünden **müşteriler**' i seçin, taşımak istediğiniz müşteriyi seçin ve ardından **Kullanıcılar ve lisanslar**' ı seçin. Müşterinin kullanıcılar ve lisanslar sayfası açılır.
+1. İş Ortağı Merkezi **menüsünden** Müşteriler'i **seçin,** taşımak istediğiniz müşteriyi seçin ve ardından Kullanıcılar ve **lisanslar'ı seçin.** Müşterinin Kullanıcılar ve Lisanslar sayfası açılır.
 
-2. Kullanıcı lisanslarını yeniden atamak için, yeniden atanacak kullanıcıyı seçin ve ardından **Lisansları Yönet**' i seçin.
+2. Kullanıcı lisanslarını yeniden atamak için, yeniden ataması yapılan kullanıcıyı seçin ve ardından Lisansları **yönet'i seçin.**
 
-3. **Lisansları Yönet** sayfasında, **Office 365 Kurumsal E4** Lisansı onay kutusunu temizleyin ve müşterinin taşınmakta olduğu abonelik için yeni bir hizmet planı seçin.
+3. Lisansları **yönet sayfasında** lisans  Office 365 Kurumsal E4 kutusunun işaretini kaldırın ve müşterinin taşınarak aboneliğe yeni bir hizmet planı seçin.
 
-4. **Gönder**’i seçin. Bir onay sayfası yeni lisans atamalarını listeler.
+4. **Gönder**’i seçin. Onay sayfasında yeni lisans atamaları listelemektedir.
 
-5. Lisans yeniden ataması gerektiren diğer müşteri kullanıcılarıyla aynı adımlara devam edin.
+5. Lisans yeniden ataması gereken diğer tüm müşteri kullanıcılarının adımlarına devam edin.
 
-Kullanıcı lisanslarını yeni hizmete taşıdıktan sonra, kullanımdan kaldırılan aboneliği en üst müşteri düzeyinde güvenle iptal edebilirsiniz.
+Kullanıcı lisanslarını yeni hizmete taşımanın ardından, kullanımdan kaldıran aboneliği en üst Müşteri düzeyinde güvenli bir şekilde iptal edebilirsiniz.
 
-### <a name="step-3---cancel-the-old-subscription"></a>3. adım-eski aboneliği Iptal et
+### <a name="step-3---cancel-the-old-subscription"></a>3. Adım - Eski aboneliği iptal etme
 
-1. **Iş Ortağı Merkezi** menüsünde **müşteriler**' i seçin. Taşımak istediğiniz müşteriyi seçin ve iptal etmek istediğiniz aboneliği seçin.
+1. Veri **İş Ortağı Merkezi** Müşteriler'i **seçin.** Taşımak istediğiniz müşteriyi seçin ve iptal etmek istediğiniz aboneliği seçin.
 
-2. Abonelik Ayrıntıları sayfasında, abonelik durumunu **askıya alındı** olarak ayarlayın.
+2. Abonelik ayrıntıları sayfasında abonelik durumunu Askıya Alındı olarak **ayarlayın.**
 
 3. **Gönder**’i seçin.
 
-Eski abonelik askıya alındı ve yeni abonelik etkin. Askıya alınan abonelik 120 gün sonra otomatik olarak sağlanacaktır. Müşteri, eski abonelik için ek maliyet içermez.
+Eski abonelik askıya alınır ve yeni abonelik etkindir. Askıya alınan abonelik, 120 gün sonra otomatik olarak sağlanacak. Müşteri, eski abonelik için ek ücret ödemez.
 
 
 

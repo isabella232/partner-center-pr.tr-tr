@@ -3,18 +3,18 @@ title: Microsoft iş ortağı işletmenizi büyütün
 ms.topic: article
 ms.date: 05/18/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-referrals
 description: Microsoft iş ortağı işletmenizi büyümeye yönelik kaynaklar hakkında bilgi edinin. Bu, Microsoft 'tan satış liderlerine (başvuruların) nasıl alınacağını içerir.
 author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9d53a07f8060c8bdd893aa1d774130b89a7c8ec9
-ms.sourcegitcommit: 51e3c912eba8cfa72733206c0fee22386fbc34aa
+ms.openlocfilehash: 485fddb8ce689d5e45b19f751f91a80ec321991b
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/22/2020
-ms.locfileid: "92531711"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114844012"
 ---
 # <a name="grow-your-microsoft-partner-business---learn-how-to-get-leads--set-your-company-apart"></a>Microsoft iş ortağı işletmenizi büyütün-müşteri adaylarını nasıl alabileceğinizi öğrenin & şirketinizi ayrı olarak ayarlayın
 
@@ -29,18 +29,18 @@ Iş Ortağı Merkezi 'ni şu şekilde kullanın:
 - Ek pazarlarda satış (CSP iş ortakları)
 
 > [!NOTE]  
-> Şirketinizin Microsoft İş Ortağı Ağı kayıtlı olması ve bu özelliklerden faydalanmak için bir Iş Ortağı Merkezi hesabına sahip olması gerekir. Ağa katılma hakkında bilgi için bkz. [Microsoft iş ortağı ağı birleştirme](mpn-overview.md) . Bazı yetenekler için, bulut çözümü sağlayıcısı (CSP) programında da satıcı olmanız gerekir. Bu program aracılığıyla satış hakkında bilgi için bkz. [bulut çözümü sağlayıcısına genel bakış](csp-overview.md) .
+> Şirketinizin Microsoft İş Ortağı Ağı kayıtlı olması ve bu özelliklerden faydalanmak için bir Iş Ortağı Merkezi hesabına sahip olması gerekir. Ağa katılma hakkında bilgi için bkz. [Microsoft iş ortağı ağı birleştirme](mpn-overview.md) . bazı yetenekler için Bulut Çözümü Sağlayıcısı (CSP) programında da satıcı olmanız gerekir. bu program aracılığıyla satış hakkında bilgi için bkz. [Bulut Çözümü Sağlayıcısı genel bakış](csp-overview.md) .
 
 ## <a name="resources-to-help-your-business-grow"></a>İşletmenizin büyümesine yardımcı olacak kaynaklar
 
-|  **Bunu yapmak için**  |  **Nasıl yapılacağını öğrenmek için bunu okuyun**  |  **Uygulama hedefi**  |
+|  **Bunu yapmak için**  |  **Nasıl yapılacağını öğrenmek için bunu okuyun**  |  **Şunlara uygulanır**  |
 |--------------|-----------|--------------
 | Satış fırsatlarını alın ve yönetin | Bu kısa videoyu izleyin, müşterilerin çözüm sağlayıcılarını ararken sizi bulabilmesi için iş profili oluşturmak üzere [iş profilinizi iyileştirin ](https://player.vimeo.com/video/252788046 ) ve ardından [başvurularına yanıt verme](manage-leads.md)hakkında bilgi edinebilirsiniz. | Tüm ağ ortakları |
 | Gümüş veya altın iş ortağı durumu kazanma | Gümüş veya altın üyelik düzeylerine uygun hale getirmek hakkında bilgi edinmek için Microsoft İş Ortağı Ağı sitesindeki [uzmanlığa sahip iş ortaklarını](https://partner.microsoft.com/membership/competencies) okuyun. Uzmanlık bilgilerinizi Iş Ortağı Merkezi 'ne taşımaya hazırsanız, [Iş Ortağı Merkezi 'nde uzmanlarınızı yönetme](learn-about-competencies.md)makalesini okuyun. | Tüm ağ ortakları |
 | Müşterilerinizin deneme aboneliklerini Microsoft ürünlerine sunun | Müşteri tabanınızı daha fazla satmaya yönelik deneme aboneliklerini nasıl kullanacağınızı öğrenmek için [müşterilerinizin Microsoft ürünlerine yönelik denemelerinden faydalanmayı](offer-your-customers-trials-of-microsoft-products.md) okuyun.| CSP iş ortakları |
 | Müşterilerinizin Microsoft abonelikleri üzerinde promosyon fiyatlandırmasını sunun | Microsoft, lisans tabanlı Aboneliklerde yapılan yükseltmeleri sunarak müşterilere tasarruf etmenizi ve işinizi büyütmenize olanak tanır. Müşterilerinizin nasıl yapılacağını öğrenmek için [Microsoft aboneliklerinde müşterilerinizin promosyon fiyatlandırmasını sunun](promotions.md) . | CSP iş ortakları |
-| Ek pazarlarda satış | Bulut çözümü sağlayıcısı satış kanalı birçok bölgede ve ülkede kullanılabilir. Listeyi gözden geçirmek için [bulut çözümü sağlayıcısı pazarlarına](agreements.md) bakın. Bulut çözümü sağlayıcısı kanalına giriş için bkz. [bulut çözümü sağlayıcısına genel bakış](csp-overview.md).  | CSP iş ortakları |
+| Ek pazarlarda satış | Bulut Çözümü Sağlayıcısı satış kanalı birçok bölgede ve ülkede kullanılabilir. listeyi gözden geçirmek için [Bulut Çözümü Sağlayıcısı pazarlarına](agreements.md) bakın. Bulut Çözümü Sağlayıcısı kanalına giriş için bkz. [Bulut Çözümü Sağlayıcısı genel bakış](csp-overview.md).  | CSP iş ortakları |
 Kar amacı gütmeyen ve eğitim gibi özelleştirilmiş sektörler satma|[Özelleştirilmiş sektörlere satış](get-special-pricing-for-offers.md)|CSP iş ortakları|
 |Teşvikleri Co-op programında bulunan çok sayıda etkinlik aracılığıyla işletmenizi büyütün. Iş Ortağı Merkezi aracılığıyla etkinlikler için dosya talepleri.| [Teşvik taleplerini oluşturma ve yönetme](create-incentives-claims.md)|CSP iş ortakları|
-|Ticari Market ürünlerine abonelik satma|[CSP ticari Market etkinliklerini anlama](csp-commercial-marketplace-overview.md)|CSP iş ortakları|
+|Ticari market ürünlerine abonelik satışı|[CSP ticari Market etkinliklerini anlama](csp-commercial-marketplace-overview.md)|CSP iş ortakları|
 |Şirketiniz Azure satmaya ve yönetmeye yönelik bir süper yıldız mi? Azure Expert Microsoft hizmet sağlayıcı programına kaydolmak için uygulayın|[Azure uzman Microsoft Hizmetleri sağlayıcı programı](azure-expert-msp.md)|CSP iş ortakları|

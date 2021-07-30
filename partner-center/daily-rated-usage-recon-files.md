@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 06/12/2020
 description: Günlük olarak derecelendirilmiş kullanım mutabakat dosyalarını okuma hakkında bilgi İş Ortağı Merkezi. Mutabakat dosyasındaki belirli alanlar için açıklamalar içerir.
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-billing
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9b5daf91646324a9d4ace92d25736cfd0361ad6c
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 9b9c422124227804dcf1ac70286a73155d2e71d3
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110147284"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114844080"
 ---
 # <a name="learn-how-to-read-daily-rated-usage-reconciliation-files-in-partner-center"></a>Günlük olarak değerlendirilen kullanım mutabakat dosyalarını okuma hakkında bilgi İş Ortağı Merkezi
 
@@ -25,7 +25,7 @@ ms.locfileid: "110147284"
 Bu makalede, günlük olarak derecelendirilmiş kullanım mutabakat dosyalarının nasıl okunma durumu açıklanmıştır.
 
 >[!NOTE]
->Günlük olarak derecelendirilmiş kullanımın api'de görünmesi İş Ortağı Merkezi veya API üzerinden erişilebilir olması 24 saat sürer.
+>Günlük olarak derecelendirilmiş kullanımın api'de görünmesi İş Ortağı Merkezi veya API üzerinden erişilemediklerinden 24 saat sürer.
 
 ## <a name="fields-in-daily-rated-usage-reconciliation-files"></a>Günlük olarak derecelendirilmiş kullanım mutabakat dosyalarında alanlar
 
@@ -38,52 +38,52 @@ Bu makalede, günlük olarak derecelendirilmiş kullanım mutabakat dosyaların�
 | CustomerDomainName | Müşterinin etki alanı adı. |
 | CustomerCountry | Müşterinin bulunduğu ülke. |
 | MpnId | CSP iş ortağının MPN tanımlayıcısı. |
-| Tier2MpnId | Abonelik için kayıt satıcısının MPN tanımlayıcısı. |
-| Faturanumarası | Belirtilen hareketin göründüğü fatura numarası. |
-| ProductId | Ürün için tanımlayıcı. |
+| Tier2MpnId | Abonelik için kayıt kurumsal bayinin MPN tanımlayıcısı. |
+| InvoiceNumber | Belirtilen işlemi görünen fatura numarası. |
+| ProductId | Ürünün tanımlayıcısı. |
 | SkuId | Belirli bir SKU için tanımlayıcı. |
-| Kullanılabilirlik kimliği | Belirli bir SKU 'nun kullanılabilirliğine yönelik tanımlayıcı. Bu sütun, SKU 'nun verilen ülke, para birimi, sektör segmenti vb. için kullanılabilir olup olmadığını gösterir. |
-| SkuName | Belirli bir SKU için başlık. |
+| AvailabilityId | Belirli bir SKU'nun kullanılabilirliği için tanımlayıcı. Bu sütunda SKU'nun belirli bir ülkede, para biriminde, sektör segmentinde vb. satın alınıp alınamayabiliyor olduğu gösterir. |
+| SkuName | Belirli bir SKU'nun başlığı. |
 | ProductName | Ürünün adı. |
 | PublisherName | Yayımcının adı. |
-| PublisherId | GUID biçimindeki yayımcının tanımlayıcısı. |
-| Abonelik açıklaması | Fiyat listesinde tanımlandığı şekilde, müşteri tarafından satın alınan hizmet sunumunun adı. (Bu sütun, **Offername** ile özdeş bir alandır). |
-| SubscriptionId | Microsoft faturalandırma platformunda bir abonelik için benzersiz tanımlayıcı. Mutabakat için kullanılmıyor. *Bu tanımlayıcı, iş ortağı yönetim konsolundaki **ABONELIK kimliğiyle** aynı değildir.* |
-| ChargeStartDate | Fatura döngüsünün başlangıç tarihi (önceki fatura döngüsünden daha önce ücretlendirilmeyen kullanım verilerinin tarihlerini sunmadan hariç). Saat her zaman günün başlangıcıdır (00:00). |
-| ChargeEndDate | Fatura döngüsünün bitiş tarihi (önceki fatura döngüsünden daha önce ücretlendirilmeyen kullanım verilerinin tarihlerini sunmadan hariç). Saat daima günün sonu, 23:59. |
-| UsageDate | Hizmet kullanımı tarihi. |
+| PublisherId | YAYıMCının GUID biçimindeki tanımlayıcısı. |
+| SubscriptionDescription | Fiyat listesinde tanımlandığı gibi müşteri tarafından satın alınan hizmet teklifi adı. (Bu sütun OfferName ile aynı **alandır).** |
+| SubscriptionId | Microsoft faturalama platformunda bir aboneliğin benzersiz tanımlayıcısı. Mutabakat için kullanılamaz. *Bu tanımlayıcı, iş ortağı yönetici **konsolunda Abonelik Kimliği** ile aynı değildir.* |
+| ChargeStartDate | Faturalama döngüsünün başlangıç tarihi (önceki faturalama döngüsünden daha önce ücret ödememiş olan gizli kullanım verilerini sunmak dışında). Saat her zaman günün başlangıcıdır (00:00). |
+| ChargeEndDate | Faturalama döngüsünün bitiş tarihi (önceki faturalama döngüsünden daha önce ücret ödememiş olan gizli kullanım verilerini gösterirken olduğu tarihler hariç). Saat her zaman günün sonu, 23:59'dır. |
+| UsageDate | Hizmet kullanım tarihi. |
 | MeterType | Ölçüm türü. |
 | MeterCategory | Kullanım için en üst düzey hizmet. |
-| MeterId | Kullanılan ölçüm için tanımlayıcı. |
-| MeterSubCategory | Hızı etkileyebilecek Azure hizmetinin türü. |
-| MeterName | Tüketilmekte olan ölçüm için ölçü birimi. |
-| MeterRegion | Bu sütun, MeterRegion 'in uygulanabilir ve doldurulmuş olduğu hizmetler için bölge içindeki bir veri merkezinin konumunu tanımlar. |
-| Birim | Kaynak **adının** birimi. |
-| ResourceLocation | Ölçüm 'in çalıştığı veri merkezi. |
-| ConsumedService | Kullandığınız Azure platform hizmeti. |
-| adlı yönetilen örnek, | Bir Azure çözümü için ilgili kaynakları tutan kapsayıcıyı temsil eder. |
-| ResourceURI | Kullanılan kaynağın URI 'SI. |
+| MeterId | Kullanılan ölçümün tanımlayıcısı. |
+| MeterSubCategory | Hızı etkileyebilecek Azure hizmeti türü. |
+| MeterName | Tüketilen ölçüm için ölçü birimi. |
+| MeterRegion | Bu sütun, MeterRegion'ın geçerli ve doldurulmuş olduğu hizmetler için bölge içindeki bir veri merkezinin konumunu tanımlar. |
+| Birim | Kaynak Adı **birimi.** |
+| ResourceLocation | Ölçümün çalıştır bulunduğu veri merkezi. |
+| ConsumedService | Kullanılan Azure platform hizmeti. |
+| adlı yönetilen örnek, | Azure çözümü için ilgili kaynakları tutan bir kapsayıcıyı temsil eder. |
+| ResourceURI | Kullanılan kaynağın URI'si. |
 | ChargeType | Ücretin veya düzeltmenin türü.  |
-| UnitPrice | Satın alma sırasında fiyat listesinde yayınlanan lisans başına fiyat. Bu fiyatın, mutabakat sırasında faturalandırma sisteminizde depolanan bilgilerle eşleştiğinden emin olun. |
-| Miktar | Lisans sayısı. Bu fiyatın, mutabakat sırasında faturalandırma sisteminizde depolanan bilgilerle eşleştiğinden emin olun. |
-| UnitType | Ölçüm 'in ücretlendirildiği birim türü.  |
-| BillingPreTaxTotal | Vergi öncesi fatura tutarının toplam sayısı.<br/> _**Billingpretaxtotal** = Floor (([ @EffectiveUnitPrice ]*[ @Quantity ]*[ @PCToBCExchangeRate ]), 2)_ |
-| BillingCurrency | Müşterinin coğrafi bölgesindeki para birimi. |
-| PricingPreTaxTotal | Vergiler dahil olmak üzere fiyatlandırma. |
+| UnitPrice | Satın alma zamanında fiyat listesinde yayımlanan lisans başına fiyat. Bu fiyatın mutabakat sırasında faturalama sisteminize depolanmış bilgilerle eş olduğundan emin olun. |
+| Miktar | Lisans sayısı. Bu fiyatın mutabakat sırasında faturalama sisteminize depolanmış bilgilerle eş olduğundan emin olun. |
+| Unittype | Ölçümün ücret ödemesi yapılan birim türü.  |
+| BillingPreTaxTotal | Vergilerden önceki toplam fatura tutarı.<br/> _**BillingPreTaxTotal** = FLOOR(([ @EffectiveUnitPrice ]*[ @Quantity ]*[ @PCToBCExchangeRate ]), 2)_ |
+| BillingCurrency | Müşterinin coğrafi bölgesinde para birimi. |
+| PricingPreTaxTotal | Vergiler eklenmeden önce fiyatlandırma. |
 | PricingCurrency | Fiyat listesindeki para birimi. |
-| ServiceInfo1 | Verilen bir gün için sağlanan ve kullanılan Service Bus bağlantısı sayısı. |
+| ServiceInfo1 | verilen bir gün için sağlanan ve kullanılan Service Bus bağlantısı sayısı. |
 | ServiceInfo2 | İsteğe bağlı hizmete özgü meta verileri yakalayan eski bir alan. |
 | Etiketler | Kullanıcı tarafından belirlenen bir Azure kaynakları mantıksal organizasyonunu temsil eder. |
 | AdditionalInfo | Diğer sütunlarda yer almayan ek bilgiler. |
 | Efekt, BirimFiyat | Her türlü iskontolar, kazanılan kredi vb. dahil olmak üzere birim başına ücretlendirilen gerçek değer. |
-| PCToBCExchangeRate | Ödeme para birimine fiyatlandırma para birimi için uygulanan döviz kuru. |
+| PCToBCExchangeRate | ödeme para birimine fiyatlandırma para birimi için Exchange ücret uygulandı. |
 | PCToBCExchangeRateDate | Faturalandırma para birimine yönelik fiyatlandırma para biriminin belirlendiği tarih. |
-| EntitlementId | Azure Abonelik Kimliğini temsil eder. |
-| EntitlementDescription | Azure Abonelik Kimliğinin adını temsil eder. |
-| PartnerEarnedCreditPercentage | Satır öğesi için PartnerEarnedCredit öğesini görüntüler. Kazanılan kredi yüzde 0 veya 15 olur |
-| CreditPercentage | Azure Tüketim Kredisi'ne göre görüntülenir. Kazanılan kredi yüzde 0 veya 100 olur. |
-| CreditType | Kredinin türü. Örneğin, **Azure Kredisi Uygulandı.** |
+| EntitlementId | Azure abonelik KIMLIĞINI temsil eder. |
+| EntitlementDescription | Azure abonelik KIMLIĞININ adını temsil eder. |
+| PartnerEarnedCreditPercentage | Satır öğesi için Partnerearnedkredisini görüntüler. Kazanılan kredi 0 veya %15 olacaktır |
+| CreditPercentage | Azure tüketim kredisi ' nı görüntüler. Kazanılan kredi 0 veya yüzde 100 olacaktır. |
+| CreditType | Kredi türü. Örneğin, **Azure kredisi uygulandı.** |
 >[!NOTE]
->Günlük olarak derecelendirilmiş kullanımın normal olarak 24 saat içinde İş Ortağı Merkezi API aracılığıyla erişilebilir.
+>Günlük olarak derecelendirilen kullanımlar, Iş Ortağı Merkezi 'nde veya API aracılığıyla erişilecek 24 saat sürer.
 
 

@@ -3,22 +3,22 @@ title: Ödeme yapılmaması, sahtekarlık veya suistimal durumlarını yönetme
 description: Iş Ortağı Merkezi 'nde bu riskleri yönetmek ve azaltmak için çevrimiçi işlemlere ve en iyi yöntemlere dahil olan çeşitli riskler hakkında bilgi edinin.
 ms.topic: article
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-payouts
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 07/14/2020
-ms.openlocfilehash: 1d8e59ea2d2e8d40163ea06b305845c37a356f16
-ms.sourcegitcommit: dc9438475ccc6298bec6a698bf5fc9bd5cf2aa81
+ms.openlocfilehash: f74a1c091a4c5cd838f8856152c1498f3ecd9d2b
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/12/2021
-ms.locfileid: "109818669"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114836753"
 ---
 # <a name="managing-non-payment-fraud-or-misuse-in-partner-center"></a>Ödeme alınamaması, dolandırıcılık veya kötüye kullanım durumlarını İş Ortağı Merkezi’nde yönetme
 
-**Uygulama hedefi**: Iş Ortağı Merkezi | ABD kamu için Microsoft Bulut iş ortağı Merkezi
+**Uygulama hedefi**: Iş Ortağı Merkezi | Microsoft Cloud for US Government için iş ortağı Merkezi
 
 **Uygun roller**: genel yönetici | Kullanıcı Yönetimi Yöneticisi | Yönetici Aracısı | Faturalama yöneticisi
 
@@ -45,34 +45,34 @@ Bu Microsoft 'un kabul edilebilir kullanım ilkesi ihlalleri örnekleri şunlar 
 - Kötü amaçlı yazılım dağıtımı
 - Korsan aboneliklerin el satımı
 
-## <a name="theft-of-service-risks"></a>Hizmet hırsızlığı riskleri
+## <a name="theft-of-service-risks"></a>Hizmet riskleri hırsızlığı
 
-**Hizmet risklerinin çalınma,** tüketilen hizmetler için ödemeye yönelik bir amacının olmadığını ifade eder. Bu hırsızlık, çalınan ödeme araçları kullanmayı, yanlış faturalama bilgileri sağlamayı ve/veya ödenmemiş bakiyeleri varsayılan olarak kullanmayı da içeriyor olabilir.
+**Hizmet riskleri hırsızlığı** , tüketilen hizmetler için ödeme yapma amacı olmayan müşteriler anlamına gelir. Bu hırsızlık, çalınmış ödeme araçları 'nı kullanarak, yanlış faturalandırma bilgileri sağlar ve/veya bekleyen bakiyelerde varsayılan değerleri içerir.
 
 ### <a name="examples-of-service-theft"></a>Hizmet hırsızlığı örnekleri
 
-Bu çevrimiçi işlem risklerinin örnekleri şunlar olabilir:
+Bu çevrimiçi işlem risklerine örnek olarak şunlar verilebilir:
 
-- Kişi tarafından meydana gelen işlemler ("kredi kartı yok" işlemleri)
-- Yanlış tanıtmış kimlikler
+- Kişide olmayan işlemler ("kredi kartı yok" işlemleri)
+- Yanlış temsil edilen kimlikler
 - İlk ödeme alınmadan önce sağlanan ve kullanılan hizmetler
-- Çevrimiçi sahtekarlık için gelişmekte olan pazarlar ve/veya yüksek riskli bölgeler
-- Hatalı aktörler tarafından hesap oluşturma ve satın alma işlemini otomatikleştirme
+- Çevrimiçi sahtekarlık için gelişen pazarlar ve/veya yüksek riskli bölgeler
+- Hesap oluşturmayı otomatikleştirin ve hatalı aktör yaparak satın alabilirsiniz
 
 ## <a name="managing-online-risk"></a>Çevrimiçi riski yönetme
 
-Müşteri ilişkilerinizin yaşam döngüsünde çevrimiçi işlem risklerine maruz kalma risklerinizi azaltmaya yönelik ilkeler ve uygulamalar geliştirmenize yardımcı olmak için aşağıdaki önerileri kullanabilirsiniz.
+Müşteri ilişkilerinizin yaşam döngülerinde çevrimiçi işlem risklerinin pozlamasını azaltmak üzere ilke ve uygulamalar geliştirmenize yardımcı olması için aşağıdaki önerileri kullanabilirsiniz.
 
-### <a name="onboarding-new-customers"></a>Yeni müşteriler ekleme
+### <a name="onboarding-new-customers"></a>Yeni müşterileri ekleme
 
-Yeni müşteriler eklemeye yönelik çevrimiçi riskleri azaltmaya yönelik öneriler şunlardır:
+Yeni müşterileri ekleme sırasında çevrimiçi riskleri azaltmaya yönelik öneriler şunlardır:
 
-- Mümkün olduğunda müşterilerle kişisel ilişkiler kurma (örneğin, müşterilerle telefonla iletişim kurma).
-- Daha iyi yöntemlerle (kredi bürosu veya iş ticari rapor kurumları kullanma gibi) müşterilerin kimlik bilgilerini ve arka planını doğrulayın.
-- Robotik hesap oluşturma ve satın alma risklerini en aza indirmek için kaydolma sırasında çok faktörlü kimlik doğrulamasını (SMS doğrulaması gibi) kullanın.
-- Hizmetleri (dijital kimlik hizmetleri gibi) kullanarak kimlikleri yönetme ve izleme.
-- Sıkı kredi kartı sahtekarlığı algılama sistemleri aracılığıyla müşterinin finansal gücünü değerlendirin.
-- Net bir koleksiyon ilkesi kurma. Koleksiyonlar işleminizi ayrıntılandırın ve aboneliklerde erişim ne zaman ödemesiz olarak etkilenecektir. (Ödeme dışı [bir müşterinin aboneliğini](create-a-new-subscription.md#suspend-a-subscription) devre dışı bırakabilir veya askıya alabilirsiniz.)
+- Mümkün olduğunda müşterilerle kişisel ilişkiler oluşturun (örneğin, müşterilere telefonla iletişim kurun).
+- Daha iyi Yöntemler (kredi ofisleri veya iş ticari rapor kuruluşlarını kullanma gibi) sayesinde müşterilerin kimlik bilgilerini ve arka planını doğrulayın.
+- Robot hesap oluşturma ve satın alma işlemlerini en aza indirmek için kaydolma sırasında Multi-Factor Authentication (SMS doğrulaması gibi) kullanın.
+- Hizmetleri (dijital kimlik hizmetleri gibi) kullanarak kimlikleri yönetin ve izleyin.
+- Yoğun kredi kartı sahtekarlık algılama sistemleriyle müşterinin mali gücünü değerlendirin.
+- Açık koleksiyonlar ilkesi oluşturun. Koleksiyonlar işleminizi ayrıntılandırın ve aboneliklerde erişim ne zaman ödemesiz olarak etkilenecektir. (Ödeme dışı [bir müşterinin aboneliğini](create-a-new-subscription.md#suspend-a-subscription) devre dışı bırakabilir veya askıya alabilirsiniz.)
 
 ### <a name="managing-customer-accounts"></a>Müşteri hesaplarını yönetme
 

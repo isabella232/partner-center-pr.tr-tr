@@ -3,18 +3,18 @@ title: Yazılım Güvencesi Eğitim Kuponu programını emeklilik
 ms.topic: article
 ms.date: 04/07/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-mpn
+ms.subservice: partnercenter-benefits
 description: Yazılım Güvencesi Kupon programı kaldıriliyor.
 author: mowree
 ms.author: mowrim
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: a8c465b38d8613a107d1900f220c4885fc9655e1
-ms.sourcegitcommit: 09eabb559aae25518caf3f2a59ef16a3e123c207
+ms.openlocfilehash: c0c65c962fdc46ce4685ee3bb63bacdec036f1e8
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/23/2021
-ms.locfileid: "112490096"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114843536"
 ---
 # <a name="training-vouchers-program-retirement"></a>Eğitim Kuponları Programı'nın emeklilik
 
@@ -48,7 +48,7 @@ Bu makalede her adımın nasıl tamamlanacakları açıklanmıştır.
 
 ## <a name="confirm-program-eligibility"></a>Program uygunluğunu onaylama
 
-SATV programına kaydolmadan önce, Microsoft İş Ortağı Ağı (MPN) Öğrenme seçeneğinin gereksinimlerini tamamlamanız gerekir. Bu seçenek, Microsoft Learning yerini alamıyor. Öğrenme seçeneğiyle çalışmaya [başlamayı öğrenin.](https://partner.microsoft.com/membership/learning-partners)
+SATV programına kaydolmadan önce Microsoft Learning uzmanlığının yerini alan Microsoft İş Ortağı Ağı (MPN) Learning seçeneğinin gereksinimlerini tamamlamanız gerekir. Learning [seçeneğini kullanarak çalışmaya Learning öğrenin.](https://partner.microsoft.com/membership/learning-partners)
 
 Şirket içinde geçerli yetkinlik ve değerlendirme gereksinimleri de dahil olmak üzere, şirket uygunluğunu İş Ortağı Merkezi. Daha fazla ayrıntı ve ekran görüntüsü için SATV iş akışının [1. adımındaki](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB) yönergeleri izleyin.
 
@@ -79,7 +79,7 @@ Eğitimi tamamlandıktan sonra kuponu kullan gerekir. Ödeme isteğinde olmak i�
 
 ## <a name="request-payment-from-microsoft"></a>Microsoft'tan ödeme isteği
 
-Ödemeler, Kupon Avantajı (SAVB) Yazılım Güvencesi Aracı aracılığıyla İrdekler. SAVB aracılığıyla [Microsoft'a fatura](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB) göndermek için iş akışının 8. adımını izleyin. 
+Ödemeler, Kupon Avantajı (SAVB) Yazılım Güvencesi Aracı aracılığıyla işleme alın. SAVB aracılığıyla [Microsoft'a fatura](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4s3bB) göndermek için iş akışının 8. adımını izleyin. 
 
 Ek bilgi için [SSS bölümünü okuyun](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3kz5o) ve [SATV program ilkelerini gözden geçirin.](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3koEP)
 

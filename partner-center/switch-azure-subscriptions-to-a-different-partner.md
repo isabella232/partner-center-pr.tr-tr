@@ -2,19 +2,19 @@
 title: Azure aboneliğini başka bir ortağa aktarma
 ms.topic: article
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-customers
 description: müşterinin Azure abonelikleri ile ilişkili Bulut Çözümü Sağlayıcısı program ortağını değiştirme hakkında bilgi edinin.
 ms.custom: SEOMAY.20
 ms.localizationpriority: medium
 author: dhirajgandhi
 ms.author: dhgandhi
 ms.date: 07/21/2021
-ms.openlocfilehash: 3eafd4eb293e5a2f3e5d1f5ccb5f4426e579ad72
-ms.sourcegitcommit: d133c8b923b90ac5518cb989c0ce4dd69713abf4
+ms.openlocfilehash: c1bc82e852c6777bc9e8c01a33b0976269e31b2f
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "114434107"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114843604"
 ---
 # <a name="learn-how-to-transfer-a-customers-azure-subscriptions-to-another-partner"></a>Müşterinin Azure aboneliklerini başka bir iş ortağına aktarmayı öğrenin
 

@@ -3,18 +3,18 @@ title: Microsoft gold, silver uzmanlık gereksinimleri
 ms.topic: article
 ms.date: 01/26/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-membership
 description: Altın ve gümüş üyelik düzeyleri kazanmak için uzmanlık gereksinimlerini karşılar ve elit Microsoft iş ortağı durumu kazanmayı ve yeni müşterileri çekmeyi öğrenin.
 author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ff9be32e88c839186ede4cc081aabf75a822a23d
-ms.sourcegitcommit: 4f1702683336d54f24c0ba283f7d13dda581923d
+ms.openlocfilehash: 2eecc1963c83ea3deb4caf5116b05aaccbf857af
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/16/2021
-ms.locfileid: "114373722"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114836361"
 ---
 # <a name="differentiate-your-business-by-attaining-microsoft-competencies"></a>Microsoft yetkinliğine ulaşarak işletmenizi ayırt etme
 

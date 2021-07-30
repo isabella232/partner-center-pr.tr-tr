@@ -3,17 +3,17 @@ title: Sertifika ilkelerini listeleme iş ortağı Bulucu
 ms.topic: article
 ms.date: 06/16/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-customers
 description: Iş ortağı Bulucu listelemesi için gereksinimler hakkında bilgi edinin.
 author: jasongroce
 ms.author: v-mhanscom
 ms.localizationpriority: medium
-ms.openlocfilehash: 73dd369d4e6edc51b9b2d4a4441b3fd8e3e49c44
-ms.sourcegitcommit: 0410e2a3f91b7e6b592cc47e7af1dfbe468c7881
+ms.openlocfilehash: 712b26d56886b5265038a385dbf1ce1e68bb5081
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112320452"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114836092"
 ---
 # <a name="partner-finder-listing-certification-policies"></a>Sertifika ilkelerini listeleme iş ortağı Bulucu
 

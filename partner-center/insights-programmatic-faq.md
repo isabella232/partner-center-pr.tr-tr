@@ -3,17 +3,17 @@ title: İş ortağı öngörülerine yönelik genel sorular programlama erişimi
 description: API aracılığıyla partner Insights verilerine erişme hakkında sık sorulan soruların yanıtlarını alın.
 ms.topic: troubleshooting
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-insights
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.date: 07/14/2021
-ms.openlocfilehash: 5645a834c2b6a84920ba032198f7f62aa1487c47
-ms.sourcegitcommit: 4f1702683336d54f24c0ba283f7d13dda581923d
+ms.openlocfilehash: 418af23ae50e1f8d9086b2eb6247ba964e4c1516
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/16/2021
-ms.locfileid: "114377402"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114836974"
 ---
 # <a name="programmatic-access-of-analytics-data-common-questions"></a>Analiz verilerine program aracılığıyla erişim hakkında sık sorulan sorular
 

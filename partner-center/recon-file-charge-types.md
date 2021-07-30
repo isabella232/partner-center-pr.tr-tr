@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 06/05/2020
 description: Iş Ortağı Merkezi mutabakatı dosyalarındaki ücret türlerini (örneğin, lisans tabanlı, kullanım tabanlı ve tek seferlik), kredilerin ve indirimlerle bulun.
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-billing
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 10438ba30c6eb5ba5b1daef1ad16521f1f8e77c6
-ms.sourcegitcommit: 70b8ebbe0d431c7a13529f9eabd1b24f40108a46
+ms.openlocfilehash: fe37a7cdc6ac8e60b9cc5672f4b53813e1f194f8
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/14/2021
-ms.locfileid: "113989783"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114844250"
 ---
 # <a name="understand-the-different-charge-types-in-partner-center-reconciliation-files"></a>Iş Ortağı Merkezi mutabakatı dosyalarındaki farklı ücret türlerini anlayın
 

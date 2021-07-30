@@ -1,105 +1,105 @@
 ---
-title: İş ortağı kiracınız için çok faktörlü kimlik doğrulamasını (MFA) mandating
+title: İş ortağı kiracınız için Mandating Multi-Factor Authentication (MFA)
 ms.topic: article
 ms.date: 10/29/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
-description: İş ortağı kiracılar için MFA'nın zorunlu tutularak müşteri kaynaklarına erişiminizin güvenliğinin nasıl altına yardımcı olduğunu öğrenin. Örnek senaryoları içerir.
+ms.subservice: partnercenter-enroll
+description: İş ortağı kiracılarınız için Mandating MFA 'nın müşteri kaynaklarına erişiminizi güvenli hale getirmenize nasıl yardımcı olacağını öğrenin. Örnek senaryolar içerir.
 author: isaiahwilliams
 ms.author: iswillia
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9fe1d894ec933072a64f2abdfbb795b6ef046168
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: ba45c4c3d596c926bb6bfb8cf786e7e873c2a6c7
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112276017"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114836736"
 ---
-# <a name="mandating-multi-factor-authentication-mfa-for-your-partner-tenant"></a>İş ortağı kiracınız için çok faktörlü kimlik doğrulamasını (MFA) mandating
+# <a name="mandating-multi-factor-authentication-mfa-for-your-partner-tenant"></a>İş ortağı kiracınız için Mandating Multi-Factor Authentication (MFA)
 
-**Uygun roller:** Yönetici aracısı | Satış aracısı | Yardım masası aracısı | Faturalama yöneticisi | Genel yönetici
+**Uygun roller**: yönetici Aracısı | Satış Aracısı | Yardım Masası Aracısı | Faturalandırma Yöneticisi | Genel yönetici
 
-Bu makalede, çok faktörlü kimlik doğrulamasını (MFA) iş birliğinde İş Ortağı Merkezi. Bu özelliğin amacı, iş ortaklarının kimlik bilgilerinin tehlikeye atarak müşteri kaynaklarına erişiminin güvenliğini sağlamalarına yardımcı olmaktır. İş ortaklarının, konuk kullanıcılar da dahil olmak üzere iş ortağı kiracılarında tüm kullanıcı hesapları için MFA'nın uygulanması gerekir. Kullanıcıların aşağıdaki alanlar için MFA doğrulamayı tamamlamaları zorunlu tutulacak:
+Bu makale, Iş Ortağı Merkezi 'nde Mandating Multi-Factor Authentication (MFA) için ayrıntılı örnekler ve kılavuzluk sağlar. Bu özelliğin amacı, iş ortaklarının, kimlik bilgilerinin güvenliğinin aşılmasına karşı müşteri kaynaklarına erişiminin güvenliğini sağlamaya yardımcı olmak. İş ortakları, Konuk kullanıcılar dahil olmak üzere iş ortağı kiracısındaki tüm Kullanıcı hesapları için MFA 'yı zorlamak için gereklidir. Kullanıcılar, aşağıdaki alanlarda MFA doğrulamasını tamamlamaya uygulanan olacaktır:
 
-- [İş Ortağı Merkezi Panosu](#partner-center-dashboard)
+- [İş Ortağı Merkezi panosu](#partner-center-dashboard)
 - [İş Ortağı Merkezi API’si](#partner-center-api)
-- [İş Ortağı Temsilci Yönetimi](#partner-delegated-administration)
+- [Ortak temsilci yönetimi](#partner-delegated-administration)
 
-Daha büyük ve sürekli güvenlik ve gizlilik korumaları en önemli önceliklerimiz arasında yer almaktadır ve iş ortaklarının müşterilerini ve kiracılarını korumasına yardımcı olmaya devam ediyoruz. Bulut Çözümü Sağlayıcısı (CSP) programına katılan tüm iş ortakları, Denetim Masası Satıcıları (CPV) ve Danışmanlar, uyumlu kalmak için İş Ortağı [Güvenlik](partner-security-requirements.md) Gereksinimlerini uygulamalıdır.
+Daha büyük ve sürekli güvenlik ve gizlilik korumaları, popüler önceliklerimiz arasında olduğundan iş ortaklarının müşterileri ve kiracılarını korumalarına yardımcı olmaya devam ediyoruz. Bulut Çözümü Sağlayıcısı (CSP) programına katılan tüm iş ortakları, denetim masası satıcıları (cpvs) ve danışmanların uyumlu kalması için [iş ortağı güvenlik gereksinimlerini](partner-security-requirements.md) uygulaması gerekir.
 
-İş ortaklarının işletmelerini ve müşterilerini kimlik hırsızlığına ve yetkisiz erişime karşı korumasına yardımcı olmak için, MFA'nın zorunlu tutularak ve doğrulandırarak iş ortağı kiracıları için ek güvenlik önlemlerini etkinleştirildik. 
+İş ortaklarının, işletmelerini ve müşterileri kimlik hırsızlığı ve yetkisiz erişimden korumalarına yardımcı olmak için, iş ortağı kiracılarına yönelik ek güvenlik korumalarını ve MFA 'yı doğrular. 
 
 ## <a name="partner-center-dashboard"></a>İş Ortağı Merkezi panosu
 
-Aşağıdakiler dahil olmak İş Ortağı Merkezi panoda belirli sayfalar MFA korumalı olur:
+Iş Ortağı Merkezi panosundaki belirli sayfalar, aşağıdakiler dahil olmak üzere MFA korumalı olacaktır:
 
-- Müşteriler sekmesinin **altındaki** tüm sayfalar, örneğin aşağıdaki URL aracılığıyla erişilebilen tüm sayfalar: https://partner.microsoft.com/commerce/*
-- Destek Ve Müşteri **> sekmesindeki** tüm sayfalar, örneğin altında erişilen sayfa https://partner.microsoft.com/dashboard/support/csp/customers/*
+- **Müşteriler** sekmesinin altındaki tüm sayfalar, ÖRNEĞIN aşağıdaki URL aracılığıyla erişilebilen tüm sayfalar:https://partner.microsoft.com/commerce/*
+- **Destek > müşteri istekleri** sekmesi altındaki tüm sayfalar, örneğin altında erişilen sayfahttps://partner.microsoft.com/dashboard/support/csp/customers/*
 - Faturalandırma sayfası
 
-Aşağıdaki tabloda, hangi kullanıcı türlerinin bu MFA korumalı sayfalara erişim yetkisi olduğu (ve bu nedenle bu özellikten etkilendiği) gösterir.
+Aşağıdaki tabloda, bu MFA ile korunan sayfalara hangi Kullanıcı türlerinin (ve bu özellikten etkilenildiği) erişme yetkisi verilmiştir.
 
 
-| MFA korumalı sayfa       | Yönetici aracıları      |  Satış temsilcileri     |   Yardım masası aracıları     | Genel yönetici      |  Faturalama yöneticisi     | 
+| MFA korumalı sayfa       | Yönetici aracıları      |  Satış aracıları     |   Yardım Masası aracıları     | Genel yönetici      |  Faturalama yöneticisi     | 
 |---    |---    |---    |---    |---    |---    |
-| Müşteriler sekmesinin altındaki tüm sayfalar      |   x    |    x   |  x     |       |       |
-| Destek ve Müşteri > altındaki tüm sayfalar     | x      |       |    x   |       |       |
+| Müşteriler sekmesi altındaki tüm sayfalar      |   x    |    x   |  x     |       |       |
+| Destek > müşteri istekleri sekmesi altındaki tüm sayfalar     | x      |       |    x   |       |       |
 | Faturalandırma sayfası     |   x    |       |       |    x   |   x    |
 
-Bu sayfalardan herhangi bir'a erişmeyi dener ve daha önce MFA doğrulamayı tamamladıysanız, bunu yapmak zorunda oluruz. Genel bakış İş Ortağı Merkezi, Hizmet Durumu denetim sayfası gibi sayfalarda MFA gerekli değildir.
+Bu sayfalardan birine erişmeyi denerseniz ve MFA doğrulamasını daha önce tamamlamadıysanız bunu yapmanız gerekecektir. Genel Bakış sayfası, hizmet durumu denetimi sayfası gibi Iş ortağı merkezindeki diğer sayfalar MFA gerektirmez.
 
 ## <a name="verification-examples"></a>Doğrulama örnekleri
 
-Doğrulamanın İş Ortağı Merkezi nasıl çalıştığını göstermek için aşağıdaki örnekleri göz önünde bulundurabilirsiniz.
+Iş Ortağı Merkezi panosunda doğrulamanın nasıl çalıştığını görmek için aşağıdaki örnekleri göz önünde bulundurun.
 
-### <a name="example-1-partner-has-implemented-azure-ad-mfa"></a>Örnek 1: İş ortağı Azure AD MFA'sı uygulamaya alındı
+### <a name="example-1-partner-has-implemented-azure-ad-mfa"></a>Örnek 1: Iş ortağı Azure AD MFA uygulamış
 
-1. Jane, Contoso CSP'de çalışıyor. Contoso, Azure Active Directory (Azure AD) MFA'sı kullanarak Contoso iş ortağı kiracısı altındaki tüm kullanıcıları için MFA'ya sahip oldu.
+1. Gamze, CSP Contoso için çalışmaktadır. contoso, contoso iş ortağı kiracısı kapsamında Azure Active Directory (Azure AD) mfa kullanarak tüm kullanıcıları için mfa uygulamıştır.
 
-2. Jane yeni bir tarayıcı oturumu başlatır ve İş Ortağı Merkezi panoya genel bakış sayfasına (MFA korumalı değildir) gidin. İş Ortağı Merkezi, Jane'i oturum açması için Azure AD'ye yeniden yönlendirer.
+2. Gamze yeni bir tarayıcı oturumu başlatır ve Iş Ortağı Merkezi panosuna genel bakış sayfasına gider (MFA korumalı değildir). İş Ortağı Merkezi, oturum açmak için Gamze 'yi Azure AD 'ye yönlendirir.
 
-3. Contoso tarafından mevcut Azure AD MFA kurulumu nedeniyle Jane'in MFA doğrulamayı tamamlaması gerekir. Başarılı oturum açma ve MFA doğrulamasının ardından Jane, panoya İş Ortağı Merkezi sayfasına geri yönlendirildi.
+3. Contoso 'ya göre var olan Azure AD MFA kurulumu nedeniyle, MFA doğrulamasının tamamlanması için kemal gereklidir. Başarılı oturum açma ve MFA doğrulaması sonrasında, Gamze Iş Ortağı Merkezi panosuna genel bakış sayfasına yeniden yönlendirilir.
 
-4. Jane, veri koruma altındaki MFA korumalı sayfalardan İş Ortağı Merkezi. Jane daha önce oturum açma sırasında MFA doğrulamasını zaten tamamlamış olduğu için, Jane yeniden MFA doğrulamasından geçerek MFA korumalı sayfaya erişebilirsiniz.
+4. Gamze, Iş Ortağı Merkezi 'nde MFA korumalı sayfalardan birine erişmeyi dener. Gamze, daha önce oturum açma sırasında MFA doğrulamasını zaten tamamladığından, Gamze, MFA doğrulaması için gerekli olmadan MFA ile korunan sayfaya erişebilir.
 
-### <a name="example-2-partner-has-implemented-third-party-mfa-using-identity-federation"></a>Örnek 2: İş ortağı kimlik federasyonu kullanarak üçüncü taraf MFA'sı uygulamaya aldı
+### <a name="example-2-partner-has-implemented-third-party-mfa-using-identity-federation"></a>Örnek 2: Iş ortağı, Kimlik Federasyonu kullanarak üçüncü taraf MFA uygulamıştır
 
-1. Trent, CSP Wingtip için çalışır. Wingtip, kimlik federasyonu aracılığıyla Azure AD ile tümleştirilmiş üçüncü taraf MFA kullanarak Wingtip iş ortağı kiracısı altındaki tüm kullanıcıları için MFA'ya sahip oldu.
+1. Nent, CSP Wingtip için geçerlidir. Wingtip, Kimlik Federasyonu aracılığıyla Azure AD ile tümleştirilmiş olan üçüncü taraf MFA kullanarak, Wingtip partner kiracısı kapsamındaki tüm kullanıcıları için MFA 'yı uygulamıştır.
 
-2. Trent yeni bir tarayıcı oturumu başlatır ve İş Ortağı Merkezi panoya genel bakış sayfasına (MFA korumalı değildir) gidin. İş Ortağı Merkezi için Trent'i Azure AD'ye yeniden yönlendirin.
+2. Trent yeni bir tarayıcı oturumu başlatır ve Iş Ortağı Merkezi panosuna genel bakış sayfasına gider (MFA korumalı değildir). İş Ortağı Merkezi, oturum açmak için Azure AD 'ye yeniden yönlendirme sağlar.
 
-3. Wingtip'te kimlik federasyonu ayarlandıktan sonra Azure AD, Oturum açma ve MFA doğrulamasını tamamlamak için Trent'i federasyon kimlik sağlayıcısına yeniden yönlendirmektedir. Başarılı oturum açma ve MFA doğrulamasının ardından, Trent Azure AD'ye geri ve ardından panoya İş Ortağı Merkezi sayfasına yeniden yönlendirildi.
+3. Wingtip tarafından kurulum Kimlik Federasyonu olduğundan, Azure AD oturum açma ve MFA doğrulamasını gerçekleştirmek için federal kimlik sağlayıcısına yeniden yönlendirme yapın. Başarılı oturum açma ve MFA doğrulamadan sonra, Azure AD 'ye yeniden yönlendirilir ve sonra Iş Ortağı Merkezi panosuna genel bakış sayfasına yönlendirilirsiniz.
 
-4. Trent, İş Ortağı Merkezi'daki MFA korumalı sayfalardan İş Ortağı Merkezi. Trent daha önce oturum açma sırasında MFA doğrulamasını zaten tamamlamış olduğu için, Trent yeniden MFA doğrulamasından geçerek MFA korumalı sayfasına erişebilirsiniz.
+4. Trent, Iş Ortağı Merkezi 'nde MFA korumalı sayfalardan birine erişmeyi dener. Daha önce oturum açma sırasında MFA doğrulaması zaten tamamlanmış olduğundan, Trent MFA doğrulaması için gerekli olmadan MFA korumalı sayfasına erişebilir.
 
-### <a name="example-3-partner-hasnt-implemented-mfa"></a>Örnek 3: İş ortağı MFA uygulamadı
+### <a name="example-3-partner-hasnt-implemented-mfa"></a>Örnek 3: ortak, MFA uygulanmamış
 
-1. John, CSP Fabrikam'da çalışıyor. Fabrikam, Fabrikam iş ortağı kiracısı altındaki hiçbir kullanıcı için MFA uygulamadı.
+1. John, CSP Fabrikam için geçerlidir. Fabrikam, Fabrikam iş ortağı kiracısı kapsamındaki herhangi bir kullanıcı için MFA gerçekleştirmemiştir.
 
-2. John yeni bir tarayıcı oturumu başlatır ve İş Ortağı Merkezi panosuna genel bakış sayfasına (MFA korumalı değildir) gidin. İş Ortağı Merkezi john'u Azure AD'ye yeniden yönlendirin.
+2. John yeni bir tarayıcı oturumu başlatır ve Iş Ortağı Merkezi panosuna genel bakış sayfasına gider (MFA korumalı değildir). İş Ortağı Merkezi John 'ı Azure AD 'ye yönlendirir ve oturum açın.
 
-3. Fabrikam MFA uygulamamış olduğu için John'un MFA doğrulamayı tamamlaması gerekmez. Oturum başarıyla oturum açmanın ardından John panoya genel bakış İş Ortağı Merkezi yeniden yönlendirildi.
+3. Fabrikam MFA uygulamadığından, John 'un MFA doğrulamasını tamamlaması gerekmez. Oturum açma başarılı olduğunda John Iş Ortağı Merkezi panosuna genel bakış sayfasına yeniden yönlendirilir.
 
-4. John, bir MFA korumalı sayfadan bir veritabanına erişmeye İş Ortağı Merkezi. John MFA doğrulamayı tamamlamamış olduğu için İş Ortağı Merkezi, MFA doğrulamayı tamamlamak için John'u Azure AD'ye yeniden yönlendirmektedir. Bu, John'un MFA'nın ilk kez tamamlanması gerektiğinden, John'dan [MFA'ya kaydolması da istenmektedir.](#mfa-registration-experience) Başarılı bir MFA kaydı ve MFA doğrulamasının ardından John artık MFA korumalı sayfasına erişebilirsiniz.
+4. John, Iş Ortağı Merkezi 'nde MFA korumalı sayfalardan birine erişmeyi dener. John, MFA doğrulaması tamamlanmadığından, Iş Ortağı Merkezi John 'u Azure AD 'ye yönlendirdiğinden MFA doğrulamasını tamamlayacak. Bu ilk John 'un MFA 'yı tamamlaması gerektiğinde, John 'un de [MFA 'ya kaydolması](#mfa-registration-experience)istenir. MFA kayıt ve MFA doğrulaması başarılı olduğunda John, artık MFA korumalı sayfasına erişebilir.
 
-5. Fabrikam'ın herhangi bir kullanıcı için MFA uygulamadan bir gün önce, John yeni bir tarayıcı oturumu başlatır ve İş Ortağı Merkezi panoya genel bakış sayfasına (MFA korumalı değildir) gidin. İş Ortağı Merkezi, John'u MFA istemi olmadan oturum açması için Azure AD'ye yeniden yönlendirer. 
+5. Diğer bir gün, Fabrikam 'ın herhangi bir kullanıcı için MFA uygulamadan önce yeni bir tarayıcı oturumu başlatır ve Iş Ortağı Merkezi panosuna genel bakış sayfasına (MFA korumalı değildir) gider. İş Ortağı Merkezi John 'ı Azure AD 'ye yönlendirir ve MFA istemi olmadan oturum açın. 
 
-6. John, bir MFA korumalı sayfadan bir veritabanına erişmeye İş Ortağı Merkezi. John MFA doğrulamayı tamamlamamış olduğu için İş Ortağı Merkezi, MFA doğrulamayı tamamlamak için John'u Azure AD'ye yeniden yönlendirmektedir. John MFA'ya kayıtlı olduğu için bu kez yalnızca MFA doğrulamayı tamamlaması istenmektedir.
+6. John, Iş Ortağı Merkezi 'nde MFA korumalı sayfalardan birine erişmeyi dener. John, MFA doğrulaması tamamlanmadığından, Iş Ortağı Merkezi John 'u Azure AD 'ye yönlendirdiğinden MFA doğrulamasını tamamlayacak. John, MFA 'ya kaydolduğundan, bu kez yalnızca MFA doğrulamasının tamamlanabilmesi istenir.
 
 > [!NOTE]
->Eylem: Şirket yöneticilerinin MFA [uygulamak](partner-security-requirements.md#implementing-multi-factor-authentication) için üç seçeneği vardır.
+>Eylem: Şirket yöneticilerinin MFA 'yı uygulamak için [üç seçeneği](partner-security-requirements.md#implementing-multi-factor-authentication) vardır.
 
 ## <a name="partner-center-api"></a>İş Ortağı Merkezi API’si
 
-İş Ortağı Merkezi API'si hem Yalnızca uygulama kimlik doğrulamasını hem de App+User kimlik doğrulamasını destekler. 
+Iş Ortağı Merkezi API 'SI yalnızca uygulama kimlik doğrulaması ve uygulama + kullanıcı kimlik doğrulamasını destekler. 
 
-Uygulama+Kullanıcı kimlik doğrulaması kullanılırken, İş Ortağı Merkezi kimlik doğrulaması gerekir. Daha açık olarak, bir iş ortağı uygulama İş Ortağı Merkezi API isteği göndermek istiyorsa, isteğin Yetkilendirme üst bilgisinde bir erişim belirteci içermesi gerekir. 
+Uygulama + kullanıcı kimlik doğrulaması kullanıldığında, Iş Ortağı Merkezi MFA doğrulaması gerektirir. Daha belirgin olarak, bir iş ortağı uygulaması Iş Ortağı Merkezi 'ne API isteği göndermek istediğinde, isteğin yetkilendirme üstbilgisine bir erişim belirteci içermelidir. 
 
 > [!NOTE]
->Güvenli Uygulama Modeli [çerçevesi,](/partner-center/develop/enable-secure-app-model) Microsoft Azure API'leri çağıran MFA mimarisi aracılığıyla CSP iş ortaklarının ve CPU'İş Ortağı Merkezi ölçeklenebilir bir çerçevedir. Kiracınız üzerinde MFA'ya etkinleştirmeden önce bu çerçeveyi uygulamanız gerekir. 
+>[güvenli uygulama modeli çerçevesi](/partner-center/develop/enable-secure-app-model) , iş ortağı merkezi apı 'lerini çağırırken Microsoft Azure MFA mimarisine göre CSP iş ortakları ve cp'leri kimlik doğrulamaya yönelik ölçeklenebilir bir çerçevedir. Kiracınızda MFA 'yı etkinleştirmeden önce bu çerçeveyi uygulamanız gerekir. 
 
-Bu İş Ortağı Merkezi App+User kimlik doğrulaması kullanılarak alınan erişim belirteci ile bir API isteği aldığında, İş Ortağı Merkezi API'si Kimlik Doğrulama Yöntemi Başvurusu *(AMR)* talepte *MFA* değerinin varlığını kontrol eder. Bir erişim belirtecin beklenen kimlik doğrulama yöntemi başvurusu (AMR) değerini içerdiğini doğrulamak için JWT kod çözücüsü kullanabilirsiniz:
+Iş Ortağı Merkezi, uygulama + kullanıcı kimlik doğrulaması kullanılarak elde edilen bir erişim belirtecine sahip bir API isteği aldığında, Iş Ortağı Merkezi API 'SI, *kimlik doğrulama yöntemi başvurusu (AMR)* talebinde *MFA* değeri olup olmadığını denetler. Bir erişim belirtecinin beklenen kimlik doğrulama yöntemi başvurusu (AMR) değerini içerip içermediğini doğrulamak için bir JWT kod çözücüsü kullanabilirsiniz:
 
 ``` csharp
 {
@@ -129,7 +129,7 @@ Bu İş Ortağı Merkezi App+User kimlik doğrulaması kullanılarak alınan eri
 }
 ```
 
-Değer varsa, MFA İş Ortağı Merkezi tamamlandıktan ve API isteğini işlemektedir. Değer yoksa, İş Ortağı Merkezi API aşağıdaki yanıtla isteği reddeder:
+Değer varsa, Iş Ortağı Merkezi MFA doğrulamasının tamamlandığını ve API isteğini işler. Değer yoksa, Iş Ortağı Merkezi API 'SI aşağıdaki Yanıtla isteği reddeder:
 
 ``` csharp
 HTTP/1.1 401 Unauthorized - MFA required
@@ -139,26 +139,26 @@ WWW-Authenticate: Bearer error="invalid_token"
 Date: Thu, 14 Feb 2019 21:54:58 GMT
 ```
 
-Kimlik App-Only, kimlik doğrulamasını destekleyen API'App-Only MFA gerektirmeden sürekli olarak çalışmaya devam ediyor.
+App-Only kimlik doğrulaması kullanıldığında, App-Only kimlik doğrulamasını destekleyen API 'Ler MFA gerektirmeksizin sürekli olarak çalışır.
 
-## <a name="partner-delegated-administration"></a>İş Ortağı Temsilci Yönetimi
+## <a name="partner-delegated-administration"></a>Ortak temsilci yönetimi
 
-Yönetici Aracıları ve Yardım Masası Aracıları dahil olmak üzere iş ortağı hesapları, Microsoft Online Services Portalları, komut satırı arabirimi (CLI) ve API'ler (App+User kimlik doğrulamasını kullanarak) aracılığıyla müşteri kaynaklarını yönetmek için İş Ortağı Temsilci Yönetici Ayrıcalıklarını kullanabilir.
+Yönetim aracıları ve yardım masası aracıları dahil iş ortağı hesapları, Microsoft Online Services portalları, komut satırı arabirimi (CLı) ve API 'Ler (uygulama + kullanıcı kimlik doğrulaması kullanarak) ile müşteri kaynaklarını yönetmek için Iş ortağı tarafından atanan yönetici ayrıcalıklarını kullanabilir.
 
-### <a name="using-service-portals"></a>Hizmet portallarını kullanma
+### <a name="using-service-portals"></a>Hizmet portalları kullanma
 
-Müşteri kaynaklarını yönetmek için İş Ortağı Temsilcisi Yönetici Ayrıcalıkları (Yönetici-Adına) kullanarak Microsoft Online Services Portallarına erişirken, bu portalların çoğu, müşteri Azure AD kiracısı kimlik doğrulama bağlamı olarak ayarlanmış şekilde etkileşimli olarak kimlik doğrulaması yapmak için iş ortağı hesabının kimlik doğrulamasını gerektirir. Müşteri kiracısı oturum açması için iş ortağı hesabı gereklidir.
+Müşteri kaynaklarını yönetmek için Iş ortağı yönetici ayrıcalıkları (Şirket adına yönetici) kullanılarak Microsoft Online Services portallarına erişirken, bu portalların çoğu iş ortağı hesabının kimlik doğrulama bağlamı olarak ayarlanmış olan müşteri Azure AD kiracısı tarafından etkileşimli olarak kimlik doğrulaması yapmasını gerektirir. iş ortağı hesabı, müşteri kiracısında oturum açmak için gereklidir.
 
-Azure AD bu tür kimlik doğrulama isteklerini aldığında, iş ortağı hesabının MFA doğrulamasını tamamlaması gerekir. İş ortağı hesabının yönetilen mi yoksa federasyon kimliği mi olduğuna bağlı olarak iki olası kullanıcı deneyimi vardır:
+Azure AD, bu tür kimlik doğrulama isteklerini aldığında, iş ortağı hesabının MFA doğrulamasını tamamlamaları gerekir. İş ortağı hesabının yönetilen veya federal bir kimlik olmasına bağlı olarak, iki olası kullanıcı deneyimi vardır:
 
-- İş ortağı hesabı yönetilen bir **kimlikse** Azure AD doğrudan kullanıcıdan MFA doğrulamayı tamamlaması istenir. İş ortağı hesabı daha önce Azure AD'ye MFA'ya kayıtlı değilse, kullanıcıdan önce [MFA kaydını tamamlaması istenecek.](#mfa-registration-experience)
+- İş ortağı hesabı **yönetilen** bir kimlik Ise, Azure AD kullanıcıdan MFA doğrulamasını tamamlamasını ister. İş ortağı hesabı daha önce Azure AD ile MFA için kaydedilmemişse, kullanıcıdan önce [MFA kaydını tamamlaması](#mfa-registration-experience) istenir.
 
-- İş ortağı hesabı bir **federasyon kimliği ise** deneyim, iş ortağı yöneticisinin Azure AD'de federasyonu nasıl yapılandırmış olduğuna bağlıdır. Azure AD'de federasyon ayarlarken, iş ortağı yöneticisi Azure AD'ye federasyon kimlik sağlayıcısının MFA'ya destek olup olmadığını belirtebilirsiniz. Öyleyse Azure AD, MFA doğrulamayı tamamlamak için kullanıcıyı federasyon kimlik sağlayıcısına yeniden yönlendirecek. Aksi takdirde, Azure AD doğrudan kullanıcıdan MFA doğrulamayı tamamlaması istenir. İş ortağı hesabı daha önce Azure AD'ye MFA'ya kayıtlı değilse, kullanıcıdan önce [MFA kaydını tamamlaması istenecek.](#mfa-registration-experience)
+- İş ortağı hesabı bir **Federasyon** kimliği ise, deneyim iş ortağı YÖNETICISININ Azure AD 'de Federasyonu nasıl yapılandırdığınıza bağlıdır. Azure AD 'de Federasyon ayarlarken, iş ortağı Yöneticisi Azure AD 'ye federal kimlik sağlayıcısının MFA 'yı destekleyip desteklemediğini gösterebilir. Bu durumda, Azure AD, MFA doğrulamasını tamamlaması için kullanıcıyı federal kimlik sağlayıcısına yönlendirir. Aksi takdirde, Azure AD kullanıcıdan MFA doğrulamasını tamamlamayı doğrudan soracaktır. İş ortağı hesabı daha önce Azure AD'ye MFA'ya kayıtlı değilse, kullanıcıdan önce [MFA kaydını tamamlaması istenecek.](#mfa-registration-experience)
 
-Genel deneyim, son müşteri kiracısı yöneticileri için MFA'nın uygulanmış olduğu senaryoya benzer. Örneğin, müşteri [kiracısı, Yönetici](/azure/active-directory/fundamentals/concept-fundamentals-security-defaults)Aracıları ve Yardım Masası Aracıları dahil olmak üzere MFA doğrulaması ile müşteri kiracısına oturum açması için yönetici haklarına sahip tüm hesapların gerektirdiği Azure AD güvenlik varsayılanlarını etkinleştirdi. Test amacıyla, iş ortakları müşteri kiracısı [içinde Azure AD](/azure/active-directory/fundamentals/concept-fundamentals-security-defaults) güvenlik varsayılanlarını etkinleştirebilir ve ardından müşteri kiracısına erişmek için İş Ortağı Temsilcisi Yönetim Ayrıcalıklarını kullanmayı deneyebilir.
+Genel deneyim, son müşteri kiracısı yöneticileri için MFA'nın uygulanmış olduğu senaryoya benzer. Örneğin, müşteri kiracısı [Yönetici](/azure/active-directory/fundamentals/concept-fundamentals-security-defaults)Aracıları ve Yardım Masası Aracıları dahil olmak üzere MFA doğrulaması ile müşteri kiracısına oturum açması için yönetici haklarına sahip tüm hesapların gerektirdiği Azure AD güvenlik varsayılanlarını etkinleştirdi. Test amacıyla, iş ortakları müşteri kiracısı içinde [Azure AD](/azure/active-directory/fundamentals/concept-fundamentals-security-defaults) güvenlik varsayılanlarını etkinleştirebilir ve ardından müşteri kiracısına erişmek için İş Ortağı Temsilcisi Yönetim Ayrıcalıklarını kullanmayı deneyebilir.
 
 > [!NOTE]
-> Tüm Microsoft Online Service Portalları, İş Ortağı Temsilcisi Yönetici Ayrıcalıkları kullanarak müşteri kaynaklarına erişirken iş ortağı hesaplarının müşteri kiracısı içinde oturum açmasını gerektirmez. Bunun yerine, yalnızca iş ortağı hesaplarının iş ortağı kiracıda oturum açmasını gerektirir. Örneğin Exchange Yönetim Merkezi. Zaman içinde, bu portalların İş Ortağı Temsilcisi Yönetici Ayrıcalıkları kullanırken iş ortağı hesaplarının müşteri kiracısına oturum açmasını gerektirmesi gerekir.
+> Tüm Microsoft Online Service Portalları, İş Ortağı Temsilcisi Yönetici Ayrıcalıkları kullanarak müşteri kaynaklarına erişirken iş ortağı hesaplarının müşteri kiracısı içinde oturum açmasını gerektirmez. Bunun yerine, yalnızca iş ortağı hesaplarının iş ortağı kiracıda oturum açmasını gerektirir. Yönetim Merkezi'nin Exchange örneğidir. Zaman içinde, bu portalların İş Ortağı Temsilcisi Yönetici Ayrıcalıkları kullanırken iş ortağı hesaplarının müşteri kiracısına oturum açmasını gerektirmesi gerekir.
 
 ### <a name="using-service-apis"></a>Hizmet API'lerini kullanma
 
@@ -166,9 +166,9 @@ Bazı Microsoft Online Services API'leri (Azure Resource Manager, Azure AD Graph
 
 Azure AD kimlik doğrulama isteği gibi bir yanıt aldığında Azure AD, MFA doğrulamasını tamamlamak için iş ortağı kullanıcı hesabı gerektirir. İş ortağı kullanıcı hesabı daha önce MFA'ya kayıtlı değilse, kullanıcı hesabından önce MFA kaydını tamamlaması istenir.
 
-İş Ortağı Temsilcisi Yönetici Ayrıcalıkları kullanılarak bu API'lerle tümleştirilmiş tüm iş ortağı uygulamaları bu özellikten etkilenir. İş ortağı uygulamalarının kesinti olmadan bu API'lerle çalışmaya devam etmek için:
+İş Ortağı Yönetici Temsilcisi Ayrıcalıkları kullanılarak bu API'lerle tümleştirilmiş tüm iş ortağı uygulamaları bu özellikten etkilenir. İş ortağı uygulamalarının kesinti olmadan bu API'lerle çalışmaya devam etmek için:
 
-- İş ortağının erişim belirteci almak için Azure AD ile etkileşimli olmayan kullanıcı kimlik doğrulama yöntemini kullanmaktan kaçınması gerekir. Parola Akışı gibi etkileşimli olmayan kullanıcı kimlik doğrulama [yöntemi](https://github.com/AzureAD/azure-activedirectory-library-for-dotnet/wiki/Acquiring-tokens-with-username-and-password)kullanılırken Azure AD, kullanıcıdan MFA doğrulamasını tamamlamasını isteminde olmayacaktır. İş ortağının akış akışı gibi etkileşimli kullanıcı kimlik doğrulama [yöntemini OpenID Connect olması](/azure/active-directory/develop/v1-protocols-openid-connect-code) gerekir.
+- İş ortağının erişim belirteci almak için Azure AD ile etkileşimli olmayan kullanıcı kimlik doğrulama yöntemini kullanmaktan kaçınması gerekir. Password [Flow](https://github.com/AzureAD/azure-activedirectory-library-for-dotnet/wiki/Acquiring-tokens-with-username-and-password)gibi etkileşimli olmayan kullanıcı kimlik doğrulama yöntemi kullanılırken Azure AD, kullanıcıdan MFA doğrulamasını tamamlamasını isteminde olmayacaktır. İş ortağının bunun yerine OpenID gibi etkileşimli kullanıcı kimlik [doğrulama yöntemini Bağlan gerekir.](/azure/active-directory/develop/v1-protocols-openid-connect-code)
 
 - Etkileşimli kullanıcı kimlik doğrulama yöntemi sırasında, iş ortağı MFA için zaten etkinleştirilmiş bir iş ortağı kullanıcı hesabı kullan olmalıdır. Alternatif olarak, Azure AD tarafından istendiğinde iş ortağı oturum açma sırasında MFA kaydını ve MFA doğrulamasını tamamlar.
 
@@ -176,7 +176,7 @@ Azure AD kimlik doğrulama isteği gibi bir yanıt aldığında Azure AD, MFA do
 
 ### <a name="mfa-registration-experience"></a>MFA kayıt deneyimi
 
-MFA doğrulaması sırasında, iş ortağı hesabı daha önce MFA'ya kayıtlı değilse, Azure AD kullanıcıdan önce MFA kaydını tamamlaması istenir:
+MFA doğrulaması sırasında, iş ortağı hesabı daha önce MFA'ya kayıtlı değilse Azure AD kullanıcıdan önce MFA kaydını tamamlaması istenir:
 
 :::image type="content" source="images/MfaRegistration1.png" alt-text="MFA kaydı 1. adım.":::
 
@@ -191,7 +191,7 @@ Kayıt başarıyla tamamlandıktan sonra kullanıcının, kullanıcı tarafında
 MFA [gereksiniminden teknik özel](#how-to-submit-a-request-for-technical-exception) durum için başvurmadan önce, isteğinizin geçerli olup olmadığını anlamak için diğer iş ortakları tarafından bildirilen yaygın sorunların listesini gözden geçirebilirsiniz.
 
 #### <a name="issue-1-partner-needs-more-time-to-implement-mfa-for-their-partner-agents"></a>Sorun 1: İş ortağının iş ortağı aracıları için MFA'nın uygulanması için daha fazla zaman gerekiyor
-bir iş ortağı, müşteri kaynaklarını yönetmek için İş Ortağı Temsilcisi Yönetim Ayrıcalıkları kullanarak Microsoft Online Services Portallarına erişmesi gereken iş ortağı aracıları için MFA'nın uygulanmasına henüz başlamadı veya hala devam ediyor. İş ortağının MFA uygulamasını tamamlaması için daha fazla zaman gerekir. Bu sorun teknik özel durum için geçerli bir neden mi?
+İş ortağı henüz başlamadı veya müşteri kaynaklarını yönetmek için İş Ortağı Temsilcisi Yönetim Ayrıcalıkları kullanarak Microsoft Online Services Portallarına erişmesi gereken iş ortağı aracıları için MFA uygulama sürecindedir. İş ortağının MFA uygulamasını tamamlaması için daha fazla zaman gerekir. Bu sorun teknik özel durum için geçerli bir neden mi?
 
 **Cevap:** Hayır. İş ortağının kesintiyi önlemek için kullanıcıları için MFA uygulama planları yapmaları gerekir.
 
@@ -201,25 +201,25 @@ bir iş ortağı, müşteri kaynaklarını yönetmek için İş Ortağı Temsilc
 ##### <a name="issue-2-partner-has-not-implemented-mfa-for-user-accounts-not-using-delegated-admin-privileges"></a>Sorun 2: İş ortağı, Yönetici Ayrıcalıkları Temsilcisi kullanmayan kullanıcı hesapları için MFA uygulamadı
 bir iş ortağının iş ortağı kiracılarında, İş Ortağı Temsilcisi Yönetim Ayrıcalıkları kullanarak müşteri kaynaklarını yönetmek için Microsoft Online Services Portallarına erişim gerektirmeyen bazı kullanıcıları vardır. İş ortağı bu kullanıcılar için MFA uygulama sürecindedir ve tamamlanması için daha fazla zaman gerekir. Bu sorun teknik özel durum için geçerli bir neden mi?
 
-**Cevap:** Hayır. Bu kullanıcı hesapları müşteri kaynaklarını yönetmek için İş Ortağı Temsilcisi Yönetim Ayrıcalıkları kullanmayacaklarından, müşteri kiracısı için oturum açmaları gerekmez. Müşteri kiracısına oturum açma sırasında MFA doğrulaması gerektiren Azure AD'den etkilenmezler.
+**Cevap:** Hayır. Bu kullanıcı hesapları müşteri kaynaklarını yönetmek için İş Ortağı Temsilcisi Yönetim Ayrıcalıkları kullanmayacaklarından, müşteri kiracılarında oturum açmaları gerekmez. Müşteri kiracısına oturum açma sırasında MFA doğrulaması gerektiren Azure AD'den etkilenmezler.
 
 ##### <a name="issue-3-partner-has-not-implemented-mfa-for-user-service-accounts"></a>Sorun 3: İş ortağı kullanıcı hizmeti hesapları için MFA uygulamadı
-Bir iş ortağının, iş ortağı kiracılarında cihazlar tarafından hizmet hesabı olarak kullanılan bazı kullanıcı hesapları vardır. Bunlar, İş Ortağı Temsilcisi Yönetim Ayrıcalıkları'İş Ortağı Merkezi müşteri kaynaklarını yönetmek için Microsoft Online Services Portallarına veya Microsoft Online Services Portallarına erişim gerektirmeyen düşük ayrıcalıklı hesaplardır. Bu sorun teknik özel durum için geçerli bir neden mi?
+bir iş ortağının, iş ortağı kiracılarında cihazlar tarafından hizmet hesabı olarak kullanılan bazı kullanıcı hesapları vardır. Bunlar, İş Ortağı Temsilcisi Yönetim Ayrıcalıkları'İş Ortağı Merkezi müşteri kaynaklarını yönetmek için Microsoft Online Services Portallarına veya Microsoft Online Services Portallarına erişim gerektirmeyen düşük ayrıcalıklı hesaplardır. Bu sorun teknik özel durum için geçerli bir neden mi?
 
-**Cevap:** Hayır. Bu kullanıcı hesapları müşteri kaynaklarını yönetmek için İş Ortağı Temsilcisi Yönetim Ayrıcalıkları kullanmayacaklarından, müşteri kiracısı için oturum açmaları gerekmez. Müşteri kiracısına oturum açma sırasında MFA doğrulaması gerektiren Azure AD'den etkilenmezler.
+**Cevap:** Hayır. Bu kullanıcı hesapları müşteri kaynaklarını yönetmek için İş Ortağı Temsilcisi Yönetim Ayrıcalıkları kullanmayacaklarından, müşteri kiracılarında oturum açmaları gerekmez. Müşteri kiracısına oturum açma sırasında MFA doğrulaması gerektiren Azure AD'den etkilenmezler.
 
 ##### <a name="issue-4-partner-cannot-implement-mfa-using-ms-authenticator-app"></a>Sorun 4: İş ortağı MS Authenticator Uygulaması kullanarak MFA uygulayamaz
-Bir iş ortağının, çalışanların kişisel mobil cihazlarını iş alanlarına getirmelerine izin vermeyen "temiz masa" ilkesi vardır. Çalışanlar, kişisel mobil cihazlarına erişim olmadan, Azure AD güvenlik varsayılanları tarafından desteklenen tek MFA doğrulaması olan MS Authenticator Uygulamasını yükleyemeden. Bu sorun teknik özel durum için geçerli bir neden mi?
+Bir iş ortağının, çalışanların kişisel mobil cihazlarını iş alanlarına getirmelerine izin vermeyen "temiz masa" ilkesi vardır. Çalışanlar, kişisel mobil cihazlarına erişim olmadan, Azure AD güvenlik varsayılanları tarafından desteklenen tek MFA doğrulaması olan MS Authenticator Uygulamasını yükleyemzamaz. Bu sorun teknik özel durum için geçerli bir neden mi?
 
 **Cevap:** Hayır, bu teknik özel durum için geçerli bir neden değildir. İş ortağı aşağıdaki alternatifleri göz önünde İş Ortağı Merkezi:
-- İş ortağı ayrıca ek doğrulama Azure AD Premium veya üçüncü taraf MFA çözümlerine (Azure AD ile uyumlu) kaydolabilirsiniz.
+- İş ortağı ayrıca ek doğrulama Azure AD Premium üçüncü taraf MFA çözümlerine (Azure AD ile uyumlu) kaydolabilirsiniz.
 
 ##### <a name="issue-5-partner-cannot-implement-mfa-due-to-the-use-of-legacy-authentication-protocols"></a>Sorun 5: İş ortağı eski kimlik doğrulama protokollerinin kullanımı nedeniyle MFA uygulayamaz
-Bir iş ortağının hala MFA uyumlu olmayan eski kimlik doğrulama protokollerini kullanan bazı iş ortağı aracıları vardır. Örneğin, kullanıcılar hala eski kimlik doğrulama protokollerini temel alan Outlook 2010 kullanıyor. Bu iş ortağı aracıları için MFA'nın etkinleştirilmesi, eski kimlik doğrulama protokollerinin kullanımını kesintiye neden olur.
+Bir iş ortağının hala MFA uyumlu olmayan eski kimlik doğrulama protokollerini kullanan bazı iş ortağı aracıları vardır. Örneğin, kullanıcılar hala eski kimlik doğrulama protokollerini Outlook 2010'da kullanıyor. Bu iş ortağı aracıları için MFA'nın etkinleştirilmesi, eski kimlik doğrulama protokollerinin kullanımını kesintiye neden olur.
 
 **Cevap:** Hayır, bu teknik özel durum için geçerli bir neden değildir. Bu protokoller MFA doğrulamasıyla korunamaya ve kimlik bilgilerinin tehlikeye atlanmasına karşı çok daha duyarlı olduğundan, olası güvenlik etkileri nedeniyle iş ortaklarının eski kimlik doğrulama protokollerinin kullanımından uzak olması önemle tavsiye edilecektir. Eski kimlik doğrulama protokollerinin kullanımından uzaklaşan bir seçenek yoksa, iş ortaklarının Uygulama Parolaları kullanımını destekleyen Azure AD Premium için kaydolmayı göz önünde bulundurabilirsiniz. Uygulama Parolaları, sistem tarafından oluşturulan tek bir paroladır ve genellikle insan tarafından oluşturulan parolalardan daha güçlü olur. İş ortakları, Uygulama Parolalarını kullanarak kullanıcıları için MFA'yi uygulamaya alırken yalnızca eski kimlik doğrulama protokolleri için Uygulama Parolaları'ne geri döner.
 
-Outlook için eski kimlik doğrulamasını destekleme planı hakkında en son planı anlamak için Temel Kimlik Doğrulaması ve [Exchange Online](https://techcommunity.microsoft.com/t5/exchange-team-blog/basic-auth-and-exchange-online-february-2020-update/ba-p/1191282) ile ilgili gönderiyi okuyun ve gelecek haberleri almak için Exchange ekip [bloglarını](https://techcommunity.microsoft.com/t5/exchange-team-blog/bg-p/Exchange) izleyin. 
+Outlook için eski kimlik doğrulamasını [desteklemeye](https://techcommunity.microsoft.com/t5/exchange-team-blog/basic-auth-and-exchange-online-february-2020-update/ba-p/1191282) Exchange Online planı anlamak için Temel Kimlik Doğrulaması ve Exchange ile ilgili gönderiyi okuyun ve [Exchange ekip bloglarını](https://techcommunity.microsoft.com/t5/exchange-team-blog/bg-p/Exchange) takip edin. 
 
 > [!NOTE]
 > İş ortağı, iş ortağı aracıları için MFA uygulamamış olsa da iş ortağı aracıları, müşteri kiracısına oturum açma sırasında istendiğinde MFA kaydını ve MFA doğrulamasını tamamlayabilecekleri şartıyla İş Ortağı Temsilcisi Yönetim Ayrıcalıklarını kullanarak Microsoft Online Services Portallarına erişmeye devam eder. MFA kaydının tamamlanması, kullanıcının MFA için otomatik olarak etkinleştirmez.
@@ -227,7 +227,7 @@ Outlook için eski kimlik doğrulamasını destekleme planı hakkında en son pl
 ##### <a name="issue-6-partner-has-implemented-third-party-mfa-that-isnt-recognized-by-azure-ad"></a>Sorun 6: İş ortağı Azure AD tarafından tanınmamış üçüncü taraf MFA'sı uygulamaya aldı
 Bir iş ortağı, üçüncü taraf bir MFA çözümü kullanarak kullanıcıları için MFA uygulamaya aldı. Ancak iş ortağı, kullanıcı kimlik doğrulaması sırasında MFA doğrulamasının tamamlandıktan sonra Azure AD'ye geçiş yapmak için üçüncü taraf MFA çözümünü doğru yapılandıramaz. Bu teknik özel durum için geçerli bir neden mi?
 
-**Cevap:** Evet, bu sorun teknik özel durum için geçerli bir neden olarak değerlendirebilir. Teknik özel durum isteği göndermeden önce, üçüncü taraf MFA çözüm sağlayıcısıyla MFA çözümünün *authenticationmethodsreferences* talebini *(multipleauthn* değeriyle) Azure AD'ye akışla göndererek kullanıcı kimlik doğrulaması sırasında MFA doğrulamasının tamamlandıktan emin olun. Teknik özel durum isteği gönderme sırasında kullanılan üçüncü taraf MFA çözümünün ayrıntılarını sağlamanız ve tümleştirme yöntemini (örneğin kimlik federasyonu veya Azure AD Özel Denetimi kullanımı aracılığıyla) göstermeniz ve destek belgeleri olarak teknik özel durum isteğinde aşağıdaki bilgileri sağlamanız gerekir:
+**Cevap:** Evet, bu sorun teknik özel durum için geçerli bir neden olarak değerlendirebilir. Teknik özel durum isteği göndermeden önce, üçüncü taraf MFA çözüm sağlayıcısına MFA çözümünün *authenticationmethodsreferences* talebini *(multipleauthn* değeriyle) azure AD'ye akışla göndererek kullanıcı kimlik doğrulaması sırasında MFA doğrulamasının tamamlandıktan emin olun. Teknik özel durum isteği gönderme sırasında kullanılan üçüncü taraf MFA çözümünün ayrıntılarını sağlamanız ve tümleştirme yöntemini (örneğin kimlik federasyonu veya Azure AD Özel Denetimi kullanımı aracılığıyla) göstermeniz ve destek belgeleri olarak teknik özel durum isteğinde aşağıdaki bilgileri sağlamanız gerekir:
 
 - Üçüncü taraf MFA yapılandırmaları.
 
@@ -245,7 +245,7 @@ Teknik özel durum isteği göndermek için:
 
 2. Destek İş Ortağı destek istekleri'ne giderek ve Yeni istek'i  >  **seçerek yeni** bir iş ortağı hizmet isteği **oluşturun.**
 
-3. **MFA ara - Arama kutusunda özel** durum isteği; veya **Kategori'den CSP'yi** seçin, ardından **Hesaplar, Ekleme,** Konu başlığından Erişim'i ve ardından alt konu başlığından **MFA -** Özel durum isteği'yi seçin ve ardından sonraki **adımı seçin.**
+3. **MFA ara - Arama kutusunda özel** durum isteği; veya **Kategori'den CSP'yi** seçin, sonra **Hesaplar, Ekleme,** Konu başlığından Erişim'i ve ardından alt konu başlığından **MFA -** Özel durum isteği'yi seçin ve ardından sonraki **adımı seçin.**
 
 4. Teknik özel durum için bir hizmet isteği göndermek için istenen ayrıntıları s sağlama ve Gönder'i **seçin.**
 

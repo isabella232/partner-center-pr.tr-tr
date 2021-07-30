@@ -3,18 +3,18 @@ title: Microsoft Eylem Paketi satın alma veya yenileme
 ms.topic: how-to
 ms.date: 12/15/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-mpn
+ms.subservice: partnercenter-benefits
 description: Microsoft Eylem Paketi aboneliği satın Eylem Paketi öğrenin. Ayrıca faturanızı yenilemeyi, iptal etmeyi, görüntülemeyi ve daha fazlasını öğrenin.
 author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: dc7be1fdf92249c31e8b2c6aa6611015e8b9b42f
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 8124d05f971149cffe0d4c49f7ec68c38ea54156
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110152316"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114836362"
 ---
 # <a name="buy-or-renew-a-microsoft-action-pack-subscription-or-silver-and-gold-competencies"></a>Microsoft Eylem Paketi aboneliği veya Silver ve Gold uzmanlık satın alma veya yenileme
 
@@ -42,39 +42,39 @@ Uzmanlık iş [ortağı olun.](https://partner.microsoft.com/membership/competen
 ### <a name="check-your-renewal-eligibility"></a>Yenileme uygunluğunu denetleme
 
 >[!IMPORTANT]
->İş Ortağı Merkezi aboneliğinizi yenilemek için davet edildiyseniz yenileme penceresi ilkemizi değiştirdiğini ve aboneliğinizi ancak süresi dolsa da yenileyebilirsiniz. Örneğin, aboneliğinizin süresi 22 Haziran'da dolsa, 23 Haziran'dan başlayarak ve 30 gün boyunca yeni edebilirsiniz.
+>İş Ortağı Merkezi aboneliğinizi yenilemek için davet edildiyseniz yenileme penceresi ilkemizi değiştirdiğini ve aboneliğinizi ancak süresi dolsa da yenileyebilirsiniz. Örneğin, aboneliğinizin süresi 22 Haziran'da sona ererse, 23 Haziran'dan başlayarak ve 30 gün boyunca yeni edebilirsiniz.
 >Aboneliğinizin sona erme tarihini Üyelik teklifleri [**sayfasında**](https://partnercenter.microsoft.com/pcv/partnership/offers) bulabilirsiniz (oturum açma gereklidir). Abonelikte yenilemeye uygun İş Ortağı Merkezi adımları izleyin.  
 
 ### <a name="to-renew-a-microsoft-action-pack-subscription-in-the-partner-center"></a>Microsoft Eylem Paketi aboneliğini yenilemek İş Ortağı Merkezi
 
-1. Üyelik teklifleri [**sayfanıza**](https://partnercenter.microsoft.com/pcv/partnership/offers) gidin. **Microsoft eylem paketi abonelik** kutucuğunu bulun.  
+1. Üyelik teklifleri [**sayfanıza**](https://partnercenter.microsoft.com/pcv/partnership/offers) gidin. Microsoft **Eylem Paketi kutucuğunu** bulun.  
 
-2. **Aboneliği Yenile** ' yi seçin ve ardından ödeme yönteminizi seçin. Kredi kartı veya elektronik banka aktarımı kullanarak ödeme yapabilirsiniz.
+2. Aboneliği **yenile'yi** ve ardından ödeme yönteminizi seçin. Kredi kartı veya elektronik banka havalesi kullanarak ödeme.
 
     >[!NOTE]
-    >**Yenileme aboneliği** görüntülenmiyorsa veya gri ise, eylem paketi aboneliğinizi yenilemeye henüz hak kazanmış olursunuz. Aboneliğinizi yalnızca süresi dolduktan **sonra** yenileyebilmeniz için yenileme penceresi ilkenizi değiştirdik. Örneğin, aboneliğinizin süresi 22 Haziran tarihinde dolarsa, 23 Haziran 'dan itibaren ve sonrasında 30 gün boyunca yenileme yapabilirsiniz.  
+    >Aboneliği **yenile** görüntülenmezse veya soluk görüntülenirse, henüz aboneliğinizi yenileye Eylem Paketi olmazsınız. Yenileme penceresi ilkemizi, aboneliğinizi ancak süresi dolsa yenilensin **diye** değiştirdik. Örneğin, aboneliğinizin süresi 22 Haziran'da sona ererse, 23 Haziran'dan başlayarak ve 30 gün boyunca yeni edebilirsiniz.  
 
-3. Kredi kartı ile ödeme yapıyorsanız, kredi kartı bilgilerinizi ekleme yönergelerini izleyin. Elektronik banka aktarımına göre ödeme yaptıysanız, bir kişi adı, telefon numarası ve e-posta adresi girip **Gönder**' i seçin.
+3. Kredi kartıyla ödeme yaptıysanız, kredi kartı bilgilerini ekleme yönergelerini izleyin. Elektronik banka havalesi ile ödeme yaptıysanız bir iletişim adı, telefon numarası ve e-posta adresi girin ve Gönder'i **seçin.**
 
-4. Sipariş ayrıntılarınızı gözden geçirin ve Eylem Paketi satın almaya hazırsanız **satın al** ' ı seçin. Kredi kartınız hemen ücretlendirilir.
+4. Sipariş ayrıntılarınızı gözden geçirerek **satın** almaya hazırsanız Satın al'ı Eylem Paketi. Kredi kartınız hemen ücret tahsil edilecektir.
 
 5. Siparişiniz onaylandı. **Kapat**’ı seçin.
 
-### <a name="update-your-bill-to-address"></a>Faturanızda adresinizi güncelleştirme
+### <a name="update-your-bill-to-address"></a>Fatura adresinizi güncelleştirme
 
-Eylem Paketi yenileme veya satın alma işleminde, fatura adresini doğrulama olanağınız vardır.
+Faturanızı yenileme veya satın alma Eylem Paketi fatura adresinizi doğrulama fırsatınız vardır.
 
- 1. **Gönder**' i seçtikten sonra, satın alımınızın ayrıntılarını gözden geçirebilirsiniz. Adresinizin güncelleştirilmesi gerektiğini görürseniz **Güncelleştir** ' i seçin.
+ 1. Gönder'i **seçerek** satın alma ayrıntılarınızı gözden geçirebilirsiniz. **Adresinizin** güncelleştirilmiş olması gerektiğini görüyorsanız Güncelleştir'i seçin.
   
- 1. **Yasal profil** sayfasında, adresinizi güncelleştirin.
+ 1. Yasal **profil sayfasında,** adresinizi güncelleştirin.
 
 ## <a name="cancel-your-action-pack-subscription"></a>Eylem Paketi aboneliğinizi iptal etme
 
-Microsoft Eylem Paketi aboneliğinizi iptal etmek için Iş ortağı desteğine başvurmanız gerekebilir.
+Microsoft Eylem Paketi aboneliğinizi iptal etmek için İş Ortağı Desteği'ne başvurabilirsiniz.
 
-1. [**Üyelik teklifleri**](https://partnercenter.microsoft.com/pcv/partnership/offers) sayfanıza gidin. Abonelik ayrıntılarınızı görüntülemek için **Microsoft eylem paketi aboneliği** ' ni seçin. 
+1. Üyelik teklifleri [**sayfanıza**](https://partnercenter.microsoft.com/pcv/partnership/offers) gidin. Abonelik **ayrıntılarınızı Eylem Paketi Microsoft** Abonelik'i seçin. 
 
-3. **Aboneliği Iptal et**' i seçin. Destek isteği oluşturma yönergelerini izleyin. 
+3. Aboneliği **iptal et'i seçin.** Destek isteği oluşturma yönergelerini izleyin. 
 
 4. Destek isteği formunda aşağıdaki değerleri seçerek isteğinizi düzgün bir şekilde yönlendirin:
 
@@ -88,7 +88,7 @@ Hizmet isteğinizin durumunu kontrol etmek için Destek'İş Ortağı Merkezi **
 
 ## <a name="download-your-action-pack-invoice"></a>Faturanızı Eylem Paketi indirme
 
-1. Üyelik teklifleri [**sayfanıza**](https://partnercenter.microsoft.com/pcv/partnership/offers) gidin. Abonelik **Eylem Paketi görüntülemek için Microsoft** Eylem Paketi Aboneliği'ne tıklayın. 
+1. Üyelik teklifleri [**sayfanıza**](https://partnercenter.microsoft.com/pcv/partnership/offers) gidin. Abonelik **ayrıntılarınızı Eylem Paketi Microsoft** Abonelik'i seçin. 
 
 3. Faturayı **indir'i seçin.**
  

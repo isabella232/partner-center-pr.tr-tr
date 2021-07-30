@@ -3,19 +3,19 @@ title: Power BI için Iş Ortağı Merkezi analizlerini kullanma
 ms.topic: article
 ms.date: 05/19/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
-description: Power BI için Partner Center Analytics uygulamasını kullanarak iş verilerinizi görüntülemeyi öğrenin (bulut çözümü sağlayıcısı (CSP) programındaki doğrudan iş ortakları için).
+ms.subservice: partnercenter-pricing
+description: Power BI için İş Ortağı Merkezi Analiz uygulaması kullanarak iş verilerinizi görüntülemeyi öğrenin (Bulut Çözümü Sağlayıcısı (CSP) programında doğrudan iş ortakları için).
 fwlink: https://go.microsoft.com/fwlink/?linkid=852581
 author: v-sumukh
 ms.author: v-sumukh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 95eb018a3284d2de98c0ce6a9cd0ce6299d5571a
-ms.sourcegitcommit: 4118de5cf55d1bd618ecca13c1b2ec59d80f43db
+ms.openlocfilehash: eea221af22e9bd7aa684bc5120b0799f083f8663
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/24/2021
-ms.locfileid: "112564990"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114836109"
 ---
 # <a name="view-your-business-data-with-the-partner-center-analytics-app-for-microsoft-power-bi"></a>İş verilerinizi Microsoft için Partner Center Analytics uygulaması ile görüntüleyin Power BI
 
@@ -25,7 +25,7 @@ ms.locfileid: "112564990"
 
 ## <a name="view-your-business-data"></a>İş verilerinizi görüntüleyin
 
-Aşağıdakiler de dahil olmak üzere Microsoft Power BI için Partner Center Analytics uygulaması ile iş verilerinizin görsel bir temsilini alın:
+aşağıdakiler de dahil olmak üzere Microsoft Power BI için Partner Center Analytics uygulaması ile iş verilerinizin görsel bir temsilini alın:
 
 - Müşteri tabanınız, abonelikleriniz ve lisanslarınızın büyümesi
 
@@ -39,7 +39,7 @@ Aşağıdakiler de dahil olmak üzere Microsoft Power BI için Partner Center An
 
 ### <a name="about-the-partner-center-analytics-app-preview-release"></a>Iş ortağı merkezi analizi uygulama Önizleme sürümü hakkında
 
-- Bu uygulama yalnızca bulut çözümü sağlayıcısı (CSP) programındaki doğrudan iş ortakları içindir. CSP 'deki diğer iş ortakları (örneğin, dolaylı satıcılar) oturum açamaz.
+- bu uygulama yalnızca Bulut Çözümü Sağlayıcısı (CSP) programda doğrudan iş ortakları içindir. CSP 'deki diğer iş ortakları (örneğin, dolaylı satıcılar) oturum açamaz.
 
 - Tüm tahmini maliyetler ön vergi faturalandırma/fatura verileri olduğundan, yasal olmayan bir şekilde bağlanmamalıdır. Tahmini maliyetlerin yalnızca veri öngörüleri için kullanılması amaçlanmıştır.
 
@@ -49,9 +49,9 @@ Aşağıdakiler de dahil olmak üzere Microsoft Power BI için Partner Center An
 
 - Gün sayısı takvim gündür.
 
-### <a name="business-insights-report"></a>İş öngörüleri raporu
+### <a name="business-insights-report"></a>iş Analizler raporu
 
-- **Müşteri kiracılar**: abonelikleri satın almış olan müşterilerin ayrı Azure Active Directory (Azure AD) kiracılarının sayısı
+- **müşteri kiracılar**: abonelikleri satın almış olan müşterilerin ayrı Azure Active Directory (Azure AD) kiracılarının sayısı
 
 - **Yeni (son 30 gün)**: son 30 gün içinde en az bir abonelik satın alan yeni müşteriler
 
@@ -69,7 +69,7 @@ Aşağıdakiler de dahil olmak üzere Microsoft Power BI için Partner Center An
 
 - **Ürüne göre müşteri sayısı**: satılan ürünler, ilişkili müşterilere göre sıralanır. Bu durum, çoğu müşteriye satılan en popüler ürünleri gösterir.
 
-### <a name="subscription-insights-report"></a>Abonelik öngörüleri raporu
+### <a name="subscription-insights-report"></a>abonelik Analizler raporu
 
 - **Abonelik durumu**:
 
@@ -105,7 +105,7 @@ Aşağıdakiler de dahil olmak üzere Microsoft Power BI için Partner Center An
 
 - **Müşteri aboneliği ayrıntıları**: müşterilerin, aboneliklerin ve tekliflerin ayrıntılı görünümü
 
-### <a name="license-insights-report"></a>Lisans öngörüleri raporu:
+### <a name="license-insights-report"></a>lisans Analizler raporu:
 
 - **Toplam** lisans sayısı: lisans tabanlı tüm abonelikler genelinde toplanan toplam lisans sayısı
 
@@ -137,7 +137,7 @@ Aşağıdakiler de dahil olmak üzere Microsoft Power BI için Partner Center An
 
 - **Müşteri tarafından kullanılan lisanslar**: müşteriler ve ürünler tarafından kullanılan lisansların ve lisansların ayrıntılı görünümü
 
-### <a name="azure-insights-report"></a>Azure Insights raporu:
+### <a name="azure-insights-report"></a>Azure Analizler raporu:
 
 - **Son 12 ay Içinde kullanım tabanlı müşteriler**: son 12 ay boyunca aylık olarak toplanan yeni kullanım tabanlı müşterilerin aylık ayı eğilimi ve tek başına kullanılan kullanım tabanlı müşteriler
 

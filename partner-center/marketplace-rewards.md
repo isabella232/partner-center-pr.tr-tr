@@ -3,18 +3,18 @@ title: Market remaronları yönetme
 ms.topic: article
 ms.date: 05/28/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-benefits
 description: Ticari Market için teklifleri yayımlayan iş ortakları, pazarlama desteği sunan avantajlar için uygundur.
 author: billlinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2ee643ca713da3509705560d93e15b3c7e5ab192
-ms.sourcegitcommit: 11901a72e9c9d432c324d0c5b1e0214c0eddb96f
+ms.openlocfilehash: 9765f180e60154dc1a3e9be6160157e6d4248695
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/29/2021
-ms.locfileid: "110687717"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114843408"
 ---
 # <a name="manage-marketplace-rewards-in-partner-center--activate-marketing-sales-and-technical-benefits"></a>Market, satış ve teknik avantajları etkinleştirmek & Iş Ortağı Merkezi 'nde Market Remarlarınızı yönetin
 
@@ -50,18 +50,18 @@ Market Reslikleri uygunluğu, PGA MPN şirketine bağlı tüm yayımcı profille
 
 ## <a name="why-cant-i-see-the-commercial-marketplace-rewards-program-on-my-dashboard"></a>Panomda Commercial Marketplace Rewards programını neden göremiyorum?
 
-Market yeniden kullanım bilgileri, Iş Ortağı Merkezi hesabınızı oluşturmak için kullanılan Azure AD kiracısı ve MPN KIMLIĞI aracılığıyla kullanılabilir. Bu hesap, şirketinizin ortak genel hesabı (PGA) olarak adlandırılır. Azure AD kiracınız MPN ekleme için kullanılan kiracıdan farklı ise, Commercial Rewards Market menüsünü görmek için bunu şirket PGA'sı ile ilişkilendirmeniz gerekir.
+Market yeniden kullanım bilgileri, Iş Ortağı Merkezi hesabınızı oluşturmak için kullanılan Azure AD kiracısı ve MPN KIMLIĞI aracılığıyla kullanılabilir. Bu hesap, şirketinizin ortak genel hesabı (PGA) olarak adlandırılır. Azure AD kiracınız MPN ekleme için kullanılan bunlardan farklıysa, ticari Refeş Market menüsünü görmeniz için bunu şirketinizin PGA ile ilişkilendirmeniz gerekir.
 
-### <a name="to-associate-an-azure-ad-tenant-with-the-pga-of-your-company"></a>Bir Azure AD kiracısı ile şirketinizin PGA'sı arasında ilişkilendirmek için
+### <a name="to-associate-an-azure-ad-tenant-with-the-pga-of-your-company"></a>Bir Azure AD kiracısını şirketinizin PGA ile ilişkilendirmek için
 
-1. Genel yönetici veya hesap yöneticisi olarak PGA'da oturum İş Ortağı Merkezi.
+1. Genel yönetici veya hesap yöneticisi olarak Iş Ortağı Merkezi 'nde PGA 'de oturum açın.
 
-2. Ayarlar **(sağ** üstte), Hesap ayarları **, Kiracılar'ı** **seçin.**
+2. **Ayarlar** (sağ üst köşedeki), **hesap ayarları**, **kiracılar**' ı seçin.
 
-3. Başka **bir Azure AD kiracısı ilişkilendirme'yi** seçin ve PGA ile ilişkilendirmek istediğiniz Azure AD kiracıyı seçin.
+3. **Başka bir Azure AD kiracısı ilişkilendir** ' i seçin ve PGA ile Ilişkilendirmek ISTEDIĞINIZ Azure AD kiracısını seçin.
 
-4. Ilişkilendirmek istediğiniz Azure AD kiracısına herhangi bir kullanıcının kullanıcı adını ve parolasını ekleyin ve Gönder'i **seçin.**
+4. İlişkilendirmek istediğiniz Azure AD kiracısında herhangi bir kullanıcının Kullanıcı adını ve parolasını ekleyin ve **Gönder**' i seçin.
 
-5. Oturum İş Ortağı Merkezi ve ardından PGA ile ilişkilendirilmiş kiracının kullanıcı adını ve parolasını kullanarak oturum açma.
+5. Iş Ortağı Merkezi oturumunuzu kapatın ve ardından PGA ile ilişkilendirdiğiniz kiracı için Kullanıcı adını ve parolayı kullanarak oturum açın.
 
-6. Artık sol gezinti menüsünde Commercial Rewards Market programı bilgilerini görebilirsiniz.
+6. Artık, sol gezinti menüsünde ticari ödüller marketi program bilgilerini görebileceksiniz.

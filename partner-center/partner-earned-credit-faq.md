@@ -3,18 +3,18 @@ title: İş ortağı tarafından kazanılan kredi hakkında SSS
 ms.topic: article
 ms.date: 07/22/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-pricing
 description: İş ortağı tarafından kazanılan kredi (PEC) ile ilgili sık sorulan soruların yanıtlarını bulun.
 author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e5d6aa77a02a24648828f06fb2c56640abdbfc56
-ms.sourcegitcommit: d133c8b923b90ac5518cb989c0ce4dd69713abf4
+ms.openlocfilehash: 3b66c4cf8b199263c3869a4235c4ee3b16ee369c
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "114434226"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114836702"
 ---
 # <a name="frequently-asked-questions-for-partner-earned-credit"></a>İş ortağı tarafından kazanılan kredi için sık sorulan sorular
 
@@ -61,7 +61,7 @@ CSP'de uygun RBAC erişimi olmayan bir iş ortağı, müşterinin Azure faturala
 
 ## <a name="how-do-i-know-if-im-earning-pec"></a>Nasıl yaparım? PEC kazancım olduğunu biliyor musunuz?
 
-bir iş ortağının müşterinin Azure kaynaklarına uygun erişime sahip olduğunu onaylamanın birkaç yolu vardır.
+bir iş ortağının müşterinin Azure kaynaklarına uygun erişime sahip olduğunu onaylaması için çeşitli yollar vardır.
 
 - Günlük kullanım dosyasını gözden geçirme: Bir iş ortağı Yönetilen Hizmetler için İş Ortağı Tarafından Kazanılan Krediyi alıyorsa yönetici erişimine sahip olur. Bu, günlük kullanım dosyasındaki birim fiyatı ve geçerli birim fiyatı gözden geçirerek ve indirim uygulanıyorsa onay ile belirlenebilirsiniz.
 - Özel Azure İzleyici oluşturma: CSP [](/azure/azure-monitor/platform/alerts-activity-log) aboneliklerinden RBAC Azure İzleyici kaldırıldığı zaman bildirim almak için Azure İzleyici kullanarak etkinlik günlüğü uyarıları oluşturabilirsiniz. İş Ortağı Tarafından Kazanılan Krediyi Anlama kılavuzuna ve teknik belgelere bakın.

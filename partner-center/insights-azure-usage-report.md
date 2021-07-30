@@ -3,18 +3,18 @@ title: İş Ortağı Merkezi Analizler Azure kullanım raporunu kullanma
 ms.topic: article
 ms.date: 05/19/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-insights
 description: İyi işlerinizi ve müşterileriniz için satış veya yönetim için azure aboneliklerini kullanımınızı geliştirebilirsiniz.
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 78c8d42186d96e359f0771ca19eb7fbf4b46a8e1
-ms.sourcegitcommit: 4f1702683336d54f24c0ba283f7d13dda581923d
+ms.openlocfilehash: 75f326fab8ebc59628dadc43b048dfefe48c22cb
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/16/2021
-ms.locfileid: "114377468"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114843995"
 ---
 # <a name="azure-usage-report-available-from-the-partner-center-insights-dashboard"></a>Azure Kullanım raporu, İş Ortağı Merkezi Analizler panosundan kullanılabilir
 
@@ -37,7 +37,7 @@ Azure Kullanım raporu, müşterinizin Azure abonelikleri ile ilgili ölçümler
 Seçilen tarih aralığında bu Azure aboneliklerinin büyüme veya reddetme yüzdesi.
 
 Mikro grafik, seçtiğiniz tarih aralığı için aylık Azure abonelik sayısı eğilimini gösterir.
-- Etkin Azure Abonelikleri: Son 30 gün içinde etkin kullanımı olan ve sizin sattığınız veya yönetilen Azure aboneliklerinin geçerli sayısı.
+- Etkin Azure Abonelikleri: Son 30 gün içinde etkin kullanımı olan ve sizin tarafından satılan veya yönetilen Azure aboneliklerinin geçerli sayısı.
 Bu aboneliklerin seçilen tarih aralığındaki büyüme veya düşüş yüzdesi.
 
 Mikro grafik, seçtiğiniz tarih aralığı boyunca Azure etkin abonelik sayısına göre aylık eğilimi gösterir.

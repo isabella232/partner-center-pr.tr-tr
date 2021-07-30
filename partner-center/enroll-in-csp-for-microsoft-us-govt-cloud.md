@@ -3,19 +3,19 @@ title: CSP programına kaydolma
 titleSuffix: Microsoft Cloud for US Government - Partner Center
 ms.topic: how-to
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-enroll
 description: İş ortakları için Bulut Çözümü Sağlayıcısı programına kaydolmak isteyen iş ortakları için CSP Microsoft Cloud for US Government.
 author: mowrim
 ms.author: mowrim
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
 ms.date: 10/05/2020
-ms.openlocfilehash: e2b206b049050efa520099d74230d8535ac93793
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 2cdcf88d765ab37200e0e62bdbff2bbc8d26027d
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110147182"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114844301"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-for-us-government"></a>Bulut Çözümü Sağlayıcısı için Microsoft Cloud for US Government
 
@@ -25,7 +25,7 @@ ms.locfileid: "110147182"
 
 Microsoft iş ortakları artık Microsoft'un bulut çözümlerini ve hizmetlerini Bulut Çözümü Sağlayıcısı programı (CSP) aracılığıyla ABD federal, eyalet, yerel ve tribal varlıklarına Microsoft Cloud for US Government.
 
-Microsoft Cloud for US Government, ABD yönetiminin veri güvenliği, gizlilik ve uyumluluk gereksinimlerini Microsoft Azure özel, ayrılmış ve yalıtılmış bir örnek sağlar. Şirket, microsoft'un uygunluk gereksinimlerini karşılar ve bu gereksinimleri karşılamak için CSP programına Microsoft Cloud for US Government. Daha fazla bilgi için [bkz. İş Ortağı Merkezi için Microsoft Cloud for US Government.](partner-center-for-microsoft-us-govt-cloud.md)
+Microsoft Cloud for US Government, ABD yönetiminin veri güvenliği, gizlilik ve uyumluluk gereksinimlerini Microsoft Azure özel, ayrılmış ve yalıtılmış bir örnek sağlar. Şirket, şirket için CSP programına katılmak üzere Microsoft'un uygunluk gereksinimlerini Microsoft Cloud for US Government. Daha fazla bilgi için [bkz. İş Ortağı Merkezi için Microsoft Cloud for US Government.](partner-center-for-microsoft-us-govt-cloud.md)
 
 ## <a name="before-you-begin"></a>Başlamadan önce
 
@@ -33,55 +33,55 @@ Microsoft Cloud for US Government için CSP programına kaydolmadan önce, şirk
 
 İş Ortağı Merkezi hesabı oluşturmak ve Microsoft Cloud for US Government CSP'ye kaydolmak için aşağıdaki bilgileri (kayıt işlemini başlamadan önce bu bilgileri toplamanız gerekir) gerekir:
 
-- Microsoft Cloud for US Government için, kuruluşun yeni Azure AD kiracısı için genel yönetici Microsoft Cloud for US Government
+- Kuruluş için yeni Azure AD kiracısı için genel yönetici kimlik Microsoft Cloud for US Government
 - Kuruluş kimlik Microsoft İş Ortağı Ağı (MPN) kimliği
 - İş yeri adresi Birleşik Devletler
 
 > [!IMPORTANT]  
-> Iş Ortağı Merkezi 'nde mevcut bir hesabınız varsa ve ABD kamu için Microsoft Bulut CSP 'ye kaydolmak istiyorsanız, ABD kamu pazarına özel olarak yeni ve ayrı bir hesap oluşturmanız gerekir.
+> İş Ortağı Merkezi'de mevcut bir hesabınız varsa ve Microsoft Cloud for US Government CSP'ye kaydolmak için ABD Kamu pazarına özel olarak yeni ve ayrı bir hesap oluşturmanız gerekir.
 
-## <a name="how-to-enroll"></a>Kaydetme
+## <a name="how-to-enroll"></a>Kaydolma
 
-### <a name="step-1---create-a-partner-center-account-for-microsoft-cloud-for-us-government"></a>1. adım-ABD kamu için Microsoft Bulut için bir Iş Ortağı Merkezi hesabı oluşturun
+### <a name="step-1---create-a-partner-center-account-for-microsoft-cloud-for-us-government"></a>1. Adım : İş Ortağı Merkezi hesabı Microsoft Cloud for US Government
 
-1. Kayıt işlemini [buradan](https://partnercenter.microsoft.com/register/resellerusgjoinnow)başlatın.
+1. Kayıt işlemini burada [işleminin ardından .](https://partnercenter.microsoft.com/register/resellerusgjoinnow)
 
-2. ABD hükümeti için Microsoft Bulut için kuruluşunuzun Azure AD kiracısının genel yönetici kimlik bilgileriyle oturum açın. Kuruluşunuzda bu portal için bir hesap yoksa, [Microsoft kamu bulutu doğrulama formunu](https://azuregov.microsoft.com/csp)tamamlayarak bir tane isteyebilirsiniz.
+2. Daha fazla bilgi için, kuruluşun Azure AD kiracısı için genel yönetici kimlik Microsoft Cloud for US Government. Kuruluşta bu portal için bir hesap yoksa, Microsoft Kamu Bulut Doğrulama formunu tamamlayarak [bir hesap isteğite bulundurabilirsiniz.](https://azuregov.microsoft.com/csp)
 
-### <a name="step-2---apply-to-participate-in-the-cloud-solution-provider-program-for-microsoft-cloud-for-us-government"></a>2. adım-ABD kamu için Microsoft Bulut Bulut Çözümü Sağlayıcısı programına katılmak için geçerlidir
+### <a name="step-2---apply-to-participate-in-the-cloud-solution-provider-program-for-microsoft-cloud-for-us-government"></a>2. Adım: Bulut Çözümü Sağlayıcısı için Microsoft Cloud for US Government
 
-1. Microsoft İş Ortağı Ağı KIMLIĞINIZ ve kuruluşunuzun müşteri destek ayrıntıları dahil olmak üzere kayıt formundaki eksik bilgileri girin.
+1. Kayıt formunda, kayıt kimliğiniz ve Microsoft İş Ortağı Ağı destek ayrıntıları gibi eksik bilgileri doldurun.
 
-2. **Kabul et ve devam et '** i seçin. Uygulamanızı gözden geçirmek birkaç gün sürebilir. İnceleme yaptığımız tamamlandığında size e-posta göndereceğiz.
+2. Kabul et **ve devam et'i seçin.** Uygulamanın gözden geçirmesi birkaç gün sürer. Gözden geçirmeyi tamamlayana kadar size e-posta ile gönderebilirsiniz.
 
    > [!IMPORTANT]
-   > **Kabul et ve devam et**' i seçerek kuruluşunuzun adına işlem yapma yetkiniz olduğunu onaylıyoruz ve Microsoft 'un kuruluşunuzun bulut çözümü sağlayıcısı uygulamasını gözden geçirmeden önce bir arka plan kredisi denetimi çalıştırmasına izin kabul etmiş olursunuz.
+   > Kabul **et** ve devam et'i seçerek, kuruluş adına hareket etme yetkisine sahip olduğunu onaylar ve Microsoft'un, kuruluşun Bulut Çözümü Sağlayıcısı uygulamasını gözden geçirmeden önce arka plan kredi denetimi çalıştırmasına izin vermeyi kabul edersiniz.
 
-### <a name="step-3---sign-the-reseller-agreement-for-microsoft-cloud-for-us-government"></a>3. adım-ABD kamu için Microsoft Bulut satıcı sözleşmesini Imzalama
+### <a name="step-3---sign-the-reseller-agreement-for-microsoft-cloud-for-us-government"></a>3. Adım: Kurumsal bayi sözleşmesi Microsoft Cloud for US Government
 
-1. Uygulama onay e-postasında belirtilen bağlantıyı kullanarak ABD kamu sektörü için Iş ortağı Microsoft Bulut Merkezi ' nde oturum açın.
+1. Uygulama onayı İş Ortağı Merkezi verilen bağlantıyı Microsoft Cloud for US Government için oturum açma.
 
-2. **Sözleşme** sayfasında, koşulları okuyun ve kabul EDIYORSANıZ, ABD kamu için Microsoft bulut satıcı sözleşmesini dijital olarak Imzalamak Için kabul et ' i seçin **ve devam edin** . Hesabınızı oluşturmak birkaç saat sürebilir. ABD hükümeti için Microsoft Bulut Iş Ortağı Merkezi oturumunuzu kapatıp daha sonra tekrar oturum açabilirsiniz.
+2. Anlaşma **sayfasında koşulları** okuyun ve kabul ediyorsanız  Kabul Et'i seçin ve kurumsal bayi sözleşmelerini imzalamaya devam Microsoft Cloud for US Government. Hesabınız birkaç saat sürebilir. Oturum açma İş Ortağı Merkezi ve Microsoft Cloud for US Government sonra yeniden oturum açma.
 
-### <a name="step-4---assign-users-to-the-admin-agent-role-in-the-microsoft-azure-admin-portal-for-microsoft-cloud-for-us-government"></a>4. adım-ABD kamu için Microsoft Bulut için Microsoft Azure yönetim portalı 'nda yönetici Aracısı rolüne kullanıcı atama
+### <a name="step-4---assign-users-to-the-admin-agent-role-in-the-microsoft-azure-admin-portal-for-microsoft-cloud-for-us-government"></a>4. Adım : Kullanıcıları yönetici portalında yönetici Microsoft Azure yönetici rolüne Microsoft Cloud for US Government
 
-ABD hükümeti için Microsoft Bulut, kamu uyumluluğu, güvenlik ve gizlilik standartlarını karşılayan Microsoft Azure ayrı bir örneğini sağlar. Yöneticilerin Microsoft Azure portal kullanıcıları ve lisansları yönetmesine izin vermek için, yönetici Aracısı rolünü bunlara el ile atamanız gerekir.
+Microsoft Cloud for US Government, kamu uyumluluğu, Microsoft Azure ve gizlilik standartlarına uygun ayrı bir güvenlik örneği sağlar. Yöneticilerin Microsoft Azure portalında kullanıcıları ve lisansları yönetmesine izin vermek için onlara Yönetici Aracısı rolünü el ile atamanız gerekir.
 
 > [!NOTE]
-> Kullanıcıları yönetici Aracısı rolüne atadıktan sonra, **müşteriler** sayfasında müşteri listenize erişebilecek ve [yeni müşteriler ekleyebilecektir](add-a-new-customer.md).
+> Kullanıcıları Yönetici Aracısı rolüne atadikten sonra, Müşteriler sayfasındaki müşteri listenize **erişe ve** yeni [müşteriler ekleyebilirler.](add-a-new-customer.md)
 
-1. Üzerinde Microsoft Azure yönetici portalında oturum açın [https://portal.azure.us/](https://portal.azure.us/) .
+1. Microsoft Azure yönetici portalında oturum [https://portal.azure.us/](https://portal.azure.us/) açın.
 
-2. Yönetim Aracısı rolünü kuruluşunuzdaki uygun kullanıcılara atayın. Bunu yapmak için, bu kullanıcıları yerleşik **Adminagent** grubuna eklemeniz gerekir. Bunun nasıl yapılacağı hakkında bilgi için, bkz. [Azure Active Directory Grup üyelerini yönetme](/azure/active-directory/active-directory-groups-members-azure-portal) .
+2. Yönetici Aracısı rolünü, kuruluşta uygun kullanıcılara attayabilirsiniz. Bunu yapmak için bu kullanıcıları yerleşik **AdminAgent grubuna eklemeniz** gerekir. Bunun [nasıl olduğu hakkında bilgi için bkz. Azure Active Directory](/azure/active-directory/active-directory-groups-members-azure-portal) grup üyelerini yönetme.
 
 ## <a name="connect-with-us"></a>Bize bağlanın
 
-- Sorularınız mı var? Bize e-posta gönderin azgovcsp@microsoft.com
+- Sorularınız mı var? Adresine e-posta gönderin azgovcsp@microsoft.com
 
-- [Yammer](https://www.yammer.com/cloudpartnercommunity/#/threads/inGroup?type=in_group&feedId=11509777) 'da bize katılarak
+- [Yammer'de bize katılın](https://www.yammer.com/cloudpartnercommunity/#/threads/inGroup?type=in_group&feedId=11509777)
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
 - [Microsoft Cloud for US Government için İş Ortağı Merkezi](partner-center-for-microsoft-us-govt-cloud.md)
 
-- [ABD kamu için Microsoft Bulut Iş Ortağı Merkezi 'nde Kullanıcı ve lisans yönetimi](user-management-in-partner-center-for-microsoft-us-govt-cloud.md)
+- [İş Ortağı Merkezi için Microsoft Cloud for US Government](user-management-in-partner-center-for-microsoft-us-govt-cloud.md)

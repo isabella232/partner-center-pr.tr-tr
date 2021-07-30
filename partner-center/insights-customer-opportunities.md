@@ -3,17 +3,17 @@ title: iş ortağı merkezi Analizler-cloudadscent eğilimini raporları
 description: Iş Ortağı Merkezi 'nde Cloudadscent eğilimini raporları hakkında bilgi edinin. Microsoft ürünlerini satın almak için bir müşterinin eğilimini hakkında bilgiler içerir.
 ms.topic: conceptual
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-insights
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.date: 04/27/2021
-ms.openlocfilehash: 6916d44e3f028fbfd788d3bee54671dbadd874d1
-ms.sourcegitcommit: 4f1702683336d54f24c0ba283f7d13dda581923d
+ms.openlocfilehash: 4248c3d72512073ba361bf1e0ee276a766b04176
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/16/2021
-ms.locfileid: "114377448"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114837110"
 ---
 # <a name="cloudascent-propensity-reports-available-from-partner-center-dashboard"></a>Cloudadscent eğilimini raporları Iş Ortağı Merkezi panosundan kullanılabilir
 

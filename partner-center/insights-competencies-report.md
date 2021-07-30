@@ -3,30 +3,30 @@ title: İş Ortağı Merkezi Analizler yetkinlikleri raporu
 ms.topic: article
 ms.date: 05/19/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-insights
 description: microsoft çözümleri sunmanıza yardımcı olacak Microsoft yetkinlikleri, yetkinlik düzeyleri ve tekliflerle ilgili olarak neleri iyi bir şekilde geliştirin.
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4789048c944f6e3adae9a047dbca097f1912d89e
-ms.sourcegitcommit: 4f1702683336d54f24c0ba283f7d13dda581923d
+ms.openlocfilehash: 0d5eab0684c52c94c0709f09f254031dd80d8a28
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/16/2021
-ms.locfileid: "114377456"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114843910"
 ---
 # <a name="competencies-report-available-from-the-partner-center-insights-dashboard"></a>İş Ortağı Merkezi Analizler panosundan İş Ortağı Merkezi Analizler raporu
 
 **Uygun roller:** Genel yönetici | Yönetici aracısı | Rapor görüntüleyici | Yönetici raporu görüntüleyicisi
 
-Yetkinlikler, şirketinizin Microsoft çözümleri sunmak için teknik yeteneğinizi göstermesine olanak sağlar. Microsoft yetkinlikleri, müşterilerimizin ihtiyaçlarını karşılamak ve uzmanlığınızı olası müşterilere göstermek için tasarlanmıştır. Microsoft'un sunduğu zengin avantajlarla gelir. Örneğin dahil edilen Azure tüketimi miktarları, Office 365 gibi Bulut ürünleri için yetkilendirmeler, teknik destek, Pazara Satış teklifleri ve diğerleri. Günümüzde şu kategorilerde toplam 19 yetkinlik vardır: **Uygulama ve Altyapı,** **İş uygulamaları,** Veri **ve AI** ve **Modern çalışma alanı.** Uzmanlıklar, örneğin Silver veya Gold düzeylerinde katmanlandı. Gold uzmanlığı için daha yüksek bir çubuk ve kullanılabilir pazarlama kaynakları, teklifler ve programlar ile ilişkili daha yüksek bir düzey vardır.  
+Yetkinlikler, şirketinizin Microsoft çözümleri sunmak için teknik yeteneğinizi göstermesine olanak sağlar. Microsoft yetkinlikleri, müşterilerimizin ihtiyaçlarını karşılamak ve uzmanlığınızı olası müşterilere göstermek için tasarlanmıştır. Microsoft'un sunduğu zengin avantajlarla gelir. Örneğin dahil edilen Azure tüketimi miktarları, Office 365 gibi Bulut ürünleri için yetkilendirmeler, teknik destek, Pazara Satış teklifleri ve diğerleri. Günümüzde şu kategorilerde toplam 19 yetkinlik vardır: **Uygulama ve Altyapı,** **İş uygulamaları,** Veri **ve AI** ve **Modern çalışma alanı.** Uzmanlıklar, örneğin Silver veya Gold düzeylerinde katmanlandı. Gold uzmanlığı için daha yüksek bir çubuk ve kullanılabilir pazarlama kaynakları, teklifler ve programlarla ilişkili daha yüksek bir düzey vardır.  
 
 Uzmanlık yaşam döngüsü, yetkinlik elde etme ve diğer uzmanlık raporu ayrıntıları hakkında daha fazla bilgi edinecek olursanız uzmanlık raporundan daha fazla kullanım elde edersiniz.
 
 ## <a name="competency-life-cycle"></a>Uzmanlık yaşam döngüsü
 
-Yaşam döngüsü açısından, iş ortakları belirli yetkinlikleri elde etmek için gereken ana performans göstergelerini (KIP' ler) temel alan bir şekilde başlar. Gerekli tüm ölçümlerde verilen bir uzmanlık için ayarlanmış eşik değerine ulaştıktan sonra yetkinlik **için** nitelikli hale geldi. İş ortakları daha sonra yetkinliği elde etmek ve bu uzmanlıkta Etkin olmak için uzmanlık teklifi (Silver veya Gold) için ödeme yapacaktır.  Uzmanlık Etkin **durumu,** uzmanlığın elde edildiklerinden itibaren bir yıl boyunca geçerlidir  (bu, yetkinliğe Yıldönümü tarihi olarak da denir). Yıldönümü yılının sonunda iş ortaklarının uzmanlık gereksinimlerini karşılaması gerekir. Bu gereksinimleri tekrar karşılamıyorsa yetkinliği kaybederler. Daha **önce elde** edilen bir uzmanlık için At risk durumu, belirli temel ölçümlerin bu uzmanlık yıldönümü tarihi olan eşiğin altına **düşmesinin hedeflenği anlamına gelir.**
+Yaşam döngüsü açısından, iş ortakları belirli yetkinlikleri elde etmek için gereken ana performans göstergelerini (KIP) temel alan bir şekilde başlar. Gerekli tüm ölçümlerde verilen bir uzmanlık için ayarlanmış eşik değerine ulaştıktan sonra yetkinlik **için** nitelikli hale geldi. İş ortakları daha sonra yetkinliği elde etmek ve bu uzmanlıkta Etkin olmak için uzmanlık teklifi (Silver veya Gold) için ödeme yapacaktır.  Uzmanlık Etkin **durumu,** uzmanlığın elde edildiklerinden itibaren bir yıl boyunca geçerlidir  (bu, yetkinliğe Yıldönümü tarihi olarak da denir). Yıldönümü yılının sonunda iş ortaklarının uzmanlık gereksinimlerini karşılaması gerekir. Bu gereksinimleri tekrar karşılamıyorsa yetkinliği kaybederler. Daha **önce elde** edilen bir uzmanlık için At risk durumu, belirli temel ölçümlerin bu uzmanlık yıldönümü tarihi olan eşiğin altına **düşmesinin hedeflenği anlamına gelir.**
 
 ## <a name="competency-attainment"></a>Uzmanlık elde etme
 

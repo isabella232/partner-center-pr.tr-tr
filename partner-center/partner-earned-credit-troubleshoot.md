@@ -1,53 +1,53 @@
 ---
-title: İş ortağı kazanılmış kredisi sorunlarını giderme
+title: İş ortağı tarafından kazanılan kredi sorunlarını giderme
 ms.topic: article
 ms.date: 07/22/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
-description: İş ortağı kazanılmış kredisi (PEC) ile ilgili fatura sorunlarını ve diğer sorunları nasıl ele alabileceğinizi öğrenin.
+ms.subservice: partnercenter-pricing
+description: İş ortağı tarafından kazanılan kredi (PEC) ile ilgili fatura sorunlarını ve diğer sorunları çözmeyi öğrenin.
 author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9d7376b6224047176b5e6608ee190191a8f44824
-ms.sourcegitcommit: d133c8b923b90ac5518cb989c0ce4dd69713abf4
+ms.openlocfilehash: 7ce31bd688c32da956f466d63beede3f0fc9f9ef
+ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "114434225"
+ms.lasthandoff: 07/29/2021
+ms.locfileid: "114843553"
 ---
-# <a name="troubleshooting-partner-earned-credit"></a>İş ortağı kazanılmış kredisi sorunlarını giderme
+# <a name="troubleshooting-partner-earned-credit"></a>İş ortağı tarafından kazanılan kredi sorunlarını giderme
 
-**Uygun roller**: genel yönetici | Kullanıcı Yönetimi Yöneticisi | Yönetici Aracısı | Faturalandırma Yöneticisi | Satış Aracısı
+**Uygun roller:** Genel yönetici | Kullanıcı yönetimi yönetici | Yönetici aracısı | Faturalama yöneticisi | Satış aracısı
 
 ## <a name="troubleshooting-guide"></a>Sorun giderme kılavuzu
 
-Erişim veya eksik bilgiler gibi PEC ile ilgili sorunlarınız varsa, listelenen sırayla aşağıdaki öğeleri kontrol edin.
+Erişim veya eksik bilgiler gibi PEC ile ilgili sorunlarız varsa, aşağıdaki öğeleri listelenen sırayla kontrol edin.
 
-1. G (modern) faturasına ve keşfi dosyasına baktığınızdan emin olun. Azure planı ve PEC, D (eski) faturasında veya keşfi dosyasında gösterilmez.
+1. G (Modern) fatura ve mutabakat dosyasına bakarak emin olun. Azure planı ve PEC, D (Eski) fatura veya mutabakat dosyasında gösterilmez.
 
-2. İş ortağının türünü belirler. (Dolaylı satıcılar uygun değildir.)
+2. İş ortağının türünü belirleme. (Dolaylı Kurumsal Bayiler uygun değildir.)
 
-3. MPN sözleşmenizin etkin olduğunu doğrulayın.
+3. MPN sözleşmenizin etkin olduğunu onaylayın.
 
-4. Dolaylı sağlayıcılar için, Iş Ortağı Merkezi 'ne (veya API aracılığıyla) girilen Bayi MPN KIMLIĞININ Azure portal, satıcıdan girilen MPN KIMLIĞIYLE eşleştiğinden emin olun.
+4. Dolaylı Sağlayıcılar için, İş Ortağı Merkezi 'a (veya API aracılığıyla) girilen kurumsal bayi MPN Kimliğinin, kurumsal bayinin mpN kimliğiyle eş olduğundan emin Azure portal.
 
-5. Teklifinizin uygun olduğunu onaylayın. (Eski Azure teklifleri, Azure ayrılmış örnekleri ve üçüncü taraf ürünleri uygun değildir.)
+5. Teklifinizin uygun olduğunu onaylayın. (Eski Azure teklifleri, Azure Ayrılmış Örnekleri ve üçüncü taraf ürünleri uygun değildir.)
 
-6. Abonelik/kaynak grubu/kaynak için geçerli bir Yönet adına (AOBO) veya Role-Based Access Control (RBAC) rolüne sahip olduğunu doğrulayın.
+6. Abonelik/kaynak grubu/kaynak için geçerli bir Adına Yönet (AOBO) veya Role-Based Access Control (RBAC) rolüne sahip olduğunu onaylayın.
 
-7. Müşterinin RBAC rolünüzü kaldırıp kaldırmadığını belirleme. Bu durumda, bkz. bir müşterinin Azure CSP abonelikleri için yeniden devreye sokma yönetici ayrıcalıkları
+7. Müşterinin RBAC rollerinizi kaldırıp kaldıra olmadığını belirleme. Öyleyse, bir müşterinin abonelikleri için yönetici ayrıcalıklarını yeniden Azure CSP bakın
 
-8. Tüm gün için yönetici erişiminizin olduğunu doğrulayın.
+8. Gün boyunca yönetici erişimine sahip olduğunu onaylayın.
 
-9. Günlük kullanım dosyanızda doğru sütunları gözden geçirolduğunuzu onaylayın.
+9. Günlük kullanım dosyanıza doğru sütunları gözden geçirerek onaylayın.
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-- [CSP 'de Azure için yeni ticari deneyim fiyat listesi](azure-plan-price-list.md)
+- [Yeni ticari deneyim için fiyat listesi CSP'de Azure](azure-plan-price-list.md)
 - [Azure planı kapsamındaki abonelikleri ve kaynakları yönetme](azure-plan-manage.md)
 - [CSP'de yeni ticari deneyim - Azure faturalama](azure-plan-billing.md)
 - [Azure CSP abonelikleri için yönetici ayrıcalıklarını yeniden devreye sokma](revoke-reinstate-csp.md)
-- [İş ortağı kazanılmış kredi-genel bakış](partner-earned-credit.md)
-- [Roller, iş ortağı kazanılmış kredi için izinler](azure-roles-perms-pec.md)
-- [Iş ortağı kazanılmış krediyi anlama (kılavuz)](https://partner.microsoft.com/resources/detail/understanding-partner-earned-credit-pdf) (oturum açma gerekir)
+- [İş ortağı tarafından kazanılan kredi - genel bakış](partner-earned-credit.md)
+- [Roller, iş ortağı tarafından kazanılan kredi izinleri](azure-roles-perms-pec.md)
+- [İş Ortağı Tarafından Kazanılan Krediyi Anlama (kılavuz)](https://partner.microsoft.com/resources/detail/understanding-partner-earned-credit-pdf) (oturum açma gereklidir)
