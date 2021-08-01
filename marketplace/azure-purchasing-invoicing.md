@@ -1,17 +1,17 @@
 ---
 title: Yazılım ve çözüm satın alma Azure Market
-description: Yazılım satın alma ve yönetim süreçlerini basitleştirerek kolaylaştıran araçlar hakkında bilgi Azure Market.
+description: Yazılım satın alma ve yönetim süreçlerini basitleştiren ve kolaylaştıran araçlar hakkında bilgi Azure Market.
 ms.service: marketplace-customer
 ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
 ms.date: 06/22/2021
-ms.openlocfilehash: 0e79674825f8ab28fa4b0e68dd01c9c1b7e8c27a
-ms.sourcegitcommit: 4118de5cf55d1bd618ecca13c1b2ec59d80f43db
+ms.openlocfilehash: 42e08be73fb6bd1b26e75f461ede51b1e18b909b
+ms.sourcegitcommit: b53616cd7bfeb68298dee69935a8007827b19d21
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/24/2021
-ms.locfileid: "112565194"
+ms.lasthandoff: 08/01/2021
+ms.locfileid: "115014709"
 ---
 # <a name="azure-marketplace-purchasing"></a>Azure Market satın alma
 
@@ -48,7 +48,7 @@ Oturum açma işlemi tamamlandıktan sonra satın alma işleminizi tamamlamak i�
 
 Microsoft, azure abonelik yöneticisi olarak faturalama profiliniz aracılığıyla kullanıcı satın almalarını yönetmenize olanak sağlar. Üç seçenekten birini belirleyin:
 
-- **Ücretsiz + Ücretli** – Kullanıcıların herhangi bir yazılım uygulamasına Azure Market sağlar.
+- **Ücretsiz + Ücretli** – Kullanıcıların herhangi bir yazılım uygulamasını Azure Market sağlar.
 - **Ücretsiz** – Kullanıcıların yalnızca sanal ağlardan ücretsiz yazılım Azure Market.
 - **Hayır** – Kullanıcıların yazılımdan yazılım dağıtmasını Azure Market.
 
@@ -66,19 +66,20 @@ Azure Maliyet Yönetimi'nin altındaki maliyet analizi aracında Azure Market ü
 
 ## <a name="purchase-validation-checks"></a>Satın alma doğrulama denetimleri
 
-Teklif satın alma Azure Market farklı nedenlerle başarısız olabilir. Satın alma için komut satırı arabirimini (CLI) kullanmak hatalara neden olma olasılığı daha fazladır çünkü bu teklifte kullanılabilir veya görünür olmayan bir teklif Azure Market. Satın almanın başarısız olmasına neden olan denetimler aşağıda ve ardından ve ardından ve bu denetimler yer amektedir:
+Teklif satın alma Azure Market farklı nedenlerle başarısız olabilir. Satın alma için komut satırı arabirimini (CLI) kullanmak hatalara neden olma olasılığı daha yüksek olacaktır çünkü teklifte kullanılabilir veya görünür olmayan bir teklif Azure Market. Satın almanın başarısız olmasına neden olan denetimler aşağıda ve ardından ve ardından ve bu denetimler yer amektedir:
 
 1. Abonelik bir kuruluşa (EA) Kurumsal Anlaşma ve EA yöneticisi satın almaları devre Azure Market devre dışı bırakılmıştır.
 1. EA yöneticisi yalnızca ücretsiz teklifler için satın almaları etkinleştirmiş ve teklif ücretli bir tekliftir.
 1. Teklif markette bulunamıyor.
 1. Bağımsız Yazılım Satıcısı (ISV), en azından bölgenize göre teklifi satmayı durdurdu.
 1. Kullanmakta olduğu abonelik, teklifin kullanılabilir olduğu bir bölgedeki ödeme hesabına aittir.
-1. Abonelik/ödeme hesabı geçerli bir ödeme aracıyla (geçerli bir kredi kartı gibi) ilişkili değildir.
-1. Abonelik bir Bulut Çözümü Sağlayıcısı (CSP) ait ve ISV CSP aracılığıyla satmayı reddetti.
+1. Abonelik/ödeme hesabı geçerli bir ödeme aracıyla (geçerli bir kredi kartı gibi) ilişkilendirilmiştir.
+1. Abonelik bir Bulut Çözümü Sağlayıcısı 'ye (CSP) ait ve ISV CSP aracılığıyla satmayı reddetti.
 1. Abonelik için Özel Market etkindir ve teklif izin verilen teklifler listesinde yer almamaktadır.
 1. Teklif, belirli müşteriler için Özel/Önizlemedir ve abonelik izin verilen müşteriler listesinde yer almamaktadır.
 
-Market tekliflerini satın alma, kuruluşta Azure yöneticisi tarafından Azure İlkesi olarak çakışıyorsa başarısız olabilir. Örneğin, microsoft.SaaS satın alasanız, bu, kuruluş izin verilenler listesinde **yer almaz.** Ayrıntılar için [bkz. Azure İlkesi bakın.](/azure/governance/policy/)
+> [!NOTE]
+> Market tekliflerini satın alma, kuruluşta Azure yöneticisi tarafından Azure İlkesi olarak çakışıyorsa başarısız olabilir. Örneğin, microsoft.SaaS satın alasanız, bu, kuruluş izin verilenler listesinde **yer almaz.** Ayrıntılar için [bkz. Azure İlkesi bakın.](/azure/governance/policy/)
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
