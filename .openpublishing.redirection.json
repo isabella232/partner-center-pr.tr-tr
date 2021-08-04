@@ -166,6 +166,11 @@
             "redirect_document_id": "False"
         },
         {
+            "source_path": "marketplace/private-offers.md",
+            "redirect_url": "/marketplace/private-plans",
+            "redirect_document_id": "False"
+        },
+        {
             "source_path": "partner-center/attest-acceptance-customer-agreement.md",
             "redirect_url": "/partner-center/confirm-customer-agreement",
             "redirect_document_id": "False"
