@@ -3,37 +3,37 @@ title: Kullanıcı parolasını sıfırlama
 ms.topic: how-to
 ms.date: 06/05/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-enroll
-description: Iş Ortağı Merkezi 'nde Kullanıcı parolasını sıfırlama hakkında bilgi edinin. Kullanıcılar, Iş Ortağı Merkezi 'Nde bir sonraki oturum açtıklarında geçici bir parola alırlar.
+ms.subservice: partnercenter-account
+description: İş Ortağı Merkezi'da kullanıcı parolasını sıfırlamayı İş Ortağı Merkezi. Kullanıcılar, bir sonraki oturum açmaları için geçici bir parola İş Ortağı Merkezi.
 author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6e6be8edb32f1469cac8eb13ff8746f58b662b2e
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 803d04b4496cd677f5a74049da32ed649d515819
+ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114842856"
+ms.lasthandoff: 08/04/2021
+ms.locfileid: "115102087"
 ---
-# <a name="reset-a-users-password-in-partner-center"></a>Kullanıcının Iş Ortağı Merkezi 'nde parolasını sıfırlama
+# <a name="reset-a-users-password-in-partner-center"></a>İş Ortağı Merkezi'de kullanıcının parolasını sıfırlama
 
-**Uygun roller**: genel yönetici
+**Uygun roller:** Genel yönetici
 
 > [!NOTE]  
-> Microsoft Bulut almanya 'daki Bulut Çözümü Sağlayıcısı (CSP) programına kaydolduysanız, kullanıcı parolasını sıfırlama hakkında bilgi için bkz. [Microsoft Bulut almanya için iş ortağı merkezi 'nde kullanıcı yönetimi](user-management-in-partner-center-for-microsoft-cloud-germany.md) .
+> Microsoft Bulut Almanya'da Bulut Çözümü Sağlayıcısı (CSP) programına kaydolduysanız, bir kullanıcının parolasını sıfırlama hakkında bilgi için [bkz. Microsoft Bulut](user-management-in-partner-center-for-microsoft-cloud-germany.md) İş Ortağı Merkezi için İş Ortağı Merkezi'da kullanıcı yönetimi.
 
-Kullanıcılar parolalarını unutur, geçici bir parola atayın. Bu, Iş Ortağı Merkezi 'nde bir dahaki sefer oturum açtıklarında bu uygulamayı kullanabilir.
+Kullanıcılar parolalarını unutursa, onlara geçici bir parola atalım. Bu bilgileri bir sonraki oturum açmalarında kullanabilirler İş Ortağı Merkezi.
 
-## <a name="reset-a-user-password-as-an-admin"></a>Kullanıcı parolasını yönetici olarak sıfırlama
+## <a name="reset-a-user-password-as-an-admin"></a>Yönetici olarak kullanıcı parolasını sıfırlama
 
-1. **Ayarlar** &gt; **kullanıcı yönetimi**' ne gidin.
+1. Ayarlar  Kullanıcı &gt; **yönetimi'ne gidin.**
 
 2. Listeden kullanıcı seçin.
 
-3. Sayfanın alt kısmındaki **Parolayı Sıfırla**' yı seçin.
+3. Sayfanın **alt kısmından** Parolayı sıfırla'yı seçin.
 
-4. Geçici bir parola içeren bir onay ekranı göreceksiniz. Geçici parolayı kopyalayın ve yeni kullanıcıya gönderin; ekrandan ayrıldığınızda geçici parola erişilebilir olmayacaktır. Kullanıcı ilk kez oturum açtığında, bu kullanıcıların parolasını güncelleştirmesi istenir.
+4. Geçici parolaya sahip bir onay ekranı görürsünüz. Geçici parolayı kopyalayın ve yeni kullanıcıya gönderin. Ekrandan ayrılarak geçici parolaya erişilemez. Kullanıcı ilk kez oturum adiğinde, kullanıcıdan parolasını güncelleştirmesi istenir.
 
 ## <a name="next-steps"></a>Sonraki adımlar
 

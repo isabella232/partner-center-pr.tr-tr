@@ -2,19 +2,19 @@
 title: IOT İş Ortakları için Bağlan Satış Temsilcisinden (PSC) geçiş
 ms.topic: article
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-referrals
 description: Microsoft IOT iş ortaklarının İş Ortağı Satış Hizmetleri'nden (PSC) Bağlan satış anlaşması İş Ortağı Merkezi satış anlaşması oluşturma veya yönetmeye nasıl yardımcı olduğunu öğrenin.
 author: vikramb
 ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 07/07/2021
-ms.openlocfilehash: 5d3aeca08bd879675355cf6bd6a49317759c406e
-ms.sourcegitcommit: f269c41e01c36eb526ed9f551fb4f79e903e9212
+ms.openlocfilehash: 1850ffe388349cdb7e4c685e5db0004d74735e80
+ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/26/2021
-ms.locfileid: "114703017"
+ms.lasthandoff: 08/04/2021
+ms.locfileid: "115101659"
 ---
 # <a name="guide-to-create-and-manage-iot-deals-in-partner-center-pc-for-iot-partners-migrating-from-partner-sales-connect-psc"></a>İş Ortağı Satış anlaşmasından (PSC) İş Ortağı Merkezi IOT iş ortakları için IOT anlaşmaları oluşturma ve yönetme Bağlan kılavuzu
 

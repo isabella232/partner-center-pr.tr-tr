@@ -9,12 +9,12 @@ author: amitravat
 ms.author: amrava
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: aced617bbe46465d9a82478a41b2f1c4a05309be
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 23ca72fada539b5036dfd6cf0ac04a5c18b5d96d
+ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114841428"
+ms.lasthandoff: 08/04/2021
+ms.locfileid: "115100189"
 ---
 # <a name="give-customers-permission-in-partner-center-to-buy-their-own-products-or-services"></a>Müşterilere kendi İş Ortağı Merkezi hizmetlerini satın almaları için izin verme
 
@@ -24,7 +24,7 @@ Bu makalede, Bulut Çözümü Sağlayıcısı (CSP) programı kapsamındaki bir 
 
 CSP programı iş ortakları genellikle İş Ortağı Merkezi ve ticari marketini kullanarak müşterilerine çözüm ve hizmet satın alır. İş ortakları daha sonra bazı müşterilerin bu hizmetleri doğrudan doğrudan hizmetlerden sağlamalarına Azure portal.
 
-Aşağıda bir örneği yer alır. Bir müşteri için azure planı aboneliği satın alasınız ve İş Ortağı Merkezi. Ardından bu aboneliğe müşteri adına başka kaynaklar veya hizmetler eklemeye karar veriyorsanız. Bu durumda, müşterinin aboneliğine (ayrılmış sanal makine örnekleri ekleme gibi) Azure rezervasyonları ekebilirsiniz. Daha sonra müşterinin Azure rezervasyon kaynaklarını daha fazla sağlamalarına izin ve Azure portal.
+Aşağıda bir örneği yer alır. Azure planı aboneliği satın alan bir müşteri için azure planı aboneliği satın İş Ortağı Merkezi. Ardından bu aboneliğe müşteri adına başka kaynaklar veya hizmetler eklemeye karar veriyorsanız. Bu durumda, müşterinin aboneliğine (ayrılmış sanal makine örnekleri ekleme gibi) Azure rezervasyonları ekebilirsiniz. Daha sonra müşterinin Azure rezervasyon kaynaklarını daha fazla sağlamalarına izin ve Azure portal.
 
 Şimdi Müşteri izinleri **özelliğiyle,** Müşterilere Azure kaynaklarıyla daha fazla self servis seçeneği sunarsınız. Müşterinin izinlerini alarak, müşterilerin kendi kaynaklarını satın almalarına (örneğin, kendi Azure rezervasyonlarını satın almalarına) izin vesersiniz.  
 
@@ -66,7 +66,7 @@ Artık zaten yapıyor gibi müşterileriniz adına Azure rezervasyonları satın
 
 ### <a name="to-enable-customers-to-buy-their-own-azure-reservations"></a>Müşterilerin kendi Azure rezervasyonlarını satın almalarını sağlamak için
 
-1. Müşterinin kendi adına satın aldığınız bir Azure Planı veya Azure Genel aboneliği olduğunu doğrulayın.
+1. Müşterinin kendi adına satın aldığınız bir Azure planına veya Azure Genel aboneliğine sahip olduğunu doğrulayın.
 
 2. Müşteriye bu abonelik için Sahip **rolü atandığı** doğrulayın.
 
@@ -76,11 +76,11 @@ Her adım aşağıda görünür.
 
 ### <a name="verify-the-customer-has-an-existing-azure-subscription"></a>Müşterinin mevcut bir Azure aboneliğine sahip olduğunu doğrulama
 
-Müşterilere kendi Azure rezervasyonlarını satın alma izni vermeden önce müşterinin mevcut bir Azure Planı veya Azure Genel aboneliğine sahip olduğunu doğrulamanız gerekir. Müşteri abonelikte geçerli Azure aboneliğini İş Ortağı Merkezi, müşteri izinlerini açmadan önce onun için bir abonelik satın alasınız.
+Müşterilere kendi Azure rezervasyonlarını satın alma izni vermeden önce müşterinin mevcut bir Azure planına veya Azure Genel aboneliğine sahip olduğunu doğrulamanız gerekir. Müşteri abonelikte geçerli Azure aboneliğini İş Ortağı Merkezi, müşteri izinlerini açmadan önce onun için bir abonelik satın alasınız.
 
-- Müşterinin zaten bir Azure aboneliği olup olduğunu görmek için İş Ortağı Merkezi panosunda oturum açın, **ardından CSP'yi** ve ardından **Müşteriler'i seçin.** Listeden belirli bir müşteriyi seçin. Ardından **Abonelikler'i** seçin ve Azure Planı veya Azure Genel için kullanım tabanlı abonelikleri arama.
+- Müşterinin zaten bir Azure aboneliği olup olduğunu görmek için İş Ortağı Merkezi panosunda oturum açın, **ardından CSP'yi** ve ardından **Müşteriler'i seçin.** Listeden belirli bir müşteriyi seçin. Ardından **Abonelikler'i** seçin ve Azure planı veya Azure Genel için kullanım tabanlı abonelikleri arama.
 
-- Müşterinin mevcut bir Azure aboneliği yoksa, onun için bir abonelik satın alabilirsiniz. Bkz. [Azure Planı satın alma.](purchase-azure-plan.md)
+- Müşterinin mevcut bir Azure aboneliği yoksa, onun için bir abonelik satın alabilirsiniz. Bkz. [Azure planını satın alma.](purchase-azure-plan.md)
 
 ### <a name="verify-the-customer-has-been-assigned-the-correct-role-in-azure"></a>Müşteriye Azure'da doğru rolün atandığı doğrulayın
 

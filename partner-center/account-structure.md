@@ -1,46 +1,46 @@
 ---
-title: MPN iş ortağı hesaplarının iki düzeyi
+title: İki MPN iş ortağı hesabı düzeyi
 ms.topic: article
 ms.date: 06/17/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-enroll
-description: MPN iş ortakları, iş ortağı Merkezi, iş ortağı küresel hesabı (PGA) ve Iş ortağı konumu hesabı (PLA) için iki hesap düzeyi hakkında bilgi alabilir.
+ms.subservice: partnercenter-account
+description: MPN iş ortakları, İş Ortağı Genel Hesabı (PGA) ve İş Ortağı Merkezi Konum Hesabı (PLA) olmak İş Ortağı Merkezi iki hesap düzeyi hakkında bilgi öğrenebilir.
 author: parthp
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 367e94410bbdfb0fb67124935f5bf6e730816c9d
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: d5d0df94cd89ea2c37a164c61ecea7da8bdb5e06
+ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114839643"
+ms.lasthandoff: 08/04/2021
+ms.locfileid: "115101710"
 ---
-# <a name="partner-center-has-two-levels-of-accounts-for-mpn-partners"></a>İş Ortağı Merkezi 'nin MPN iş ortakları için iki hesap düzeyi vardır
+# <a name="partner-center-has-two-levels-of-accounts-for-mpn-partners"></a>İş Ortağı Merkezi MPN iş ortakları için iki hesap düzeyine sahiptir
 
-**Uygun roller**: Hesap Yöneticisi | Genel yönetici
+**Uygun roller:** Hesap yöneticisi | Genel yönetici
 
-Şirketinizde Iş Ortağı Merkezi 'nde iki hesap düzeyi vardır.
+Şirketinizin iki farklı hesap düzeyi İş Ortağı Merkezi.
 
-## <a name="the-top-level-account-is-the-partner-global-account-pga"></a>En üst düzey hesap Iş ortağı genel hesabıdır (PGA)
+## <a name="the-top-level-account-is-the-partner-global-account-pga"></a>Üst düzey hesap, İş ortağı genel hesabıdır (PGA)
 
-- Ortak küresel hesap, şirketinizin geçerli iş adresini ve birincil ilgili kişisini içerir. 
-- **Ayarlar**  >  **kuruluş profili**  >  **yasal profilinden** iş ortağı küresel hesabınızın ayrıntılarını görüntüleyin.
-- Ayrıntılar Iş ortağı küresel hesap MPN KIMLIĞINI de içerir. 
-- pga, şirketinizin üst öğesidir ve teşvikleri programları veya Bulut Çözümü Sağlayıcısı ilişkilendirmek için kullanılmaz. 
-- Bu tür ilişkilendirmeler için konumlar kullanılmalıdır.
+- İş ortağı genel hesabı, yasal iş adresini ve şirketinizin birincil ilgili kişisi içerir. 
+- Ayarlar Profili Yasal profilinden **İş ortağı genel**  >  **hesabınızla ilgili** ayrıntıları  >  **görüntüleme.**
+- Ayrıntılar ayrıca İş Ortağı genel hesabı MPN kimliğini de içerir. 
+- PGA, şirketinizin üst öğesidir ve Teşvikler programları veya şirket Bulut Çözümü Sağlayıcısı. 
+- Konumlar bu tür ilişkilendirmeler için kullanılmalıdır.
 
-## <a name="the-second-level-account-is-the-location-account-called-partner-location-account-pla"></a>İkinci düzey hesap, Iş ortağı konum hesabı (PLA) adlı konum hesabıdır
+## <a name="the-second-level-account-is-the-location-account-called-partner-location-account-pla"></a>İkinci düzey hesap, İş Ortağı Konum Hesabı (PLA) adlı konum hesabıdır
 
-PGA 'niz kapsamında ek iş konumlarına sahip olabilir. Her konumun kendi MPN KIMLIĞI veya Iş ortağı konumu hesabı (PLA) vardır. MPN KIMLIK konumunu, işlemsel iş için ve bilgisayar, ister.
+PGA'nız altında fazladan iş konumları olabilir. Her konumun kendi MPN Kimliği veya İş Ortağı Konum Hesabı (PLA) vardır. İşlem işletmesi ve teşvik programlarına kaydolmak için konum MPN kimliğini kullanırsiniz.
 
-- Her Iş ortağı konum hesabının kendi yasal adresi ve birincil kişisi olabilir. Konumlar aynı zamanda küresel hesapla veya diğer konumlarla yasal adresi paylaşabilir.
-- Ayarlar konumlardan iş ortağı konum hesaplarının listesini görüntüleyin   ->  .
-- Tüm konum hesapları aynı düzeyindedir ve Iş ortağı genel hesabı altında bulunur.
+- Her İş Ortağı Konumu Hesabının kendi yasal adresi ve birincil ilgili kişisi olabilir. Konumlar, yasal adresi genel hesapla veya başka konumlarla da paylaşabilir.
+- Ayarlar Konumlarından İş Ortağı **Ayarlar**  ->  **listesini görüntüleme.**
+- Tüm konum hesapları aynı düzeyde ve İş ortağı genel hesabı altındadır.
 - Hesap yöneticileri konum ekleyebilir.
 
 :::image type="content" source="images/accountstructure.png" alt-text="Hesap yapısı." border="false":::
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-- Konumları yönetme hakkında daha fazla bilgi için [iş ortağı hesabınızı yönetme: konumlar](manage-locations.md)' ı okuyun.
+- Konumları yönetme hakkında daha fazla bilgi için İş [ortağınızı yönetme: Konumlar'a bakın.](manage-locations.md)

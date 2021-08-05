@@ -3,24 +3,24 @@ title: İş Ortağı Merkezi hesabınızı yönetme
 ms.topic: conceptual
 ms.date: 03/18/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-enroll
+ms.subservice: partnercenter-account
 description: Şirket profilinizi, İş Ortağı Merkezi bilgileri, rolleri, izinleri ve daha fazlasını yönetmek için İş Ortağı Merkezi'i nasıl kullanabileceğinizi öğrenin.
 author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bce76c9c2d44d00bd41eae7012113b104bd1aa05
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 2cfb8e05a9d09aa3b7214ac3c1024348348416d5
+ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114841462"
+ms.lasthandoff: 08/04/2021
+ms.locfileid: "115101967"
 ---
 # <a name="manage-your-partner-center-account---company-profile-bank-information-roles-permissions-and-more"></a>Şirket İş Ortağı Merkezi, banka bilgileri, roller, izinler ve daha fazlası gibi hesaplarınızı yönetin
 
 **Uygun roller:** Genel yönetici | Hesap yöneticisi
 
-Bu hesapta, İş Ortağı Merkezi e-postanız ve iş adresinizdir. Bir hesap oluşturduktan sonra destek ayrıntıları, uygunsa dosya vergi muafiyetleri ve birincil iletişim bilgileri de dahil olmak üzere, şirketin tam profilini ayarlamayı tamamlarsınız. Ayrıca, şirketinizin hesabı, takımınız üzerinde kullanıcı hesabı İş Ortağı Merkezi. Müşteri ekleme veya yönetme, abonelikleri satma, faturalama ve faturalama ile çalışma, iş profilleri oluşturma, referansları yönetme, teşvik programları ile çalışma, destek sağlama ve daha fazlası bu iş için kullanılabilir.
+Bu hesapta, İş Ortağı Merkezi e-postanız ve iş adresinizdir. Bir hesap oluşturduktan sonra destek ayrıntıları, uygunsa dosya vergi muafiyetleri ve birincil iletişim bilgileri de dahil olmak üzere, şirketin tam profilini ayarlamayı tamamlarsınız. Ayrıca, şirketinizin hesabı, takımınız üzerinde kullanıcı hesabı İş Ortağı Merkezi. Müşteri ekleme veya yönetme, abonelikleri satma, faturalama ve faturalama ile çalışma, iş profilleri oluşturma, referansları yönetme, teşvik programları ile çalışma, destek sağlama ve daha fazlası bu işlerden faydalanabilecek.
 
 Ayrıca, Çalışanları bir [kullanıcıya katılmaya İş Ortağı Merkezi](./partner-membership-center-retirement-faq.md) ve [Yeni kullanıcı ekleme makalelerini de okuyun.](create-user-accounts-and-set-permissions.md)
 
@@ -158,7 +158,7 @@ Belirli programlara kaydolma hakkında İş Ortağı Merkezi için aşağıdaki 
 - [İş ortağı profilinizi güncelleştirme](update-your-partner-profile.md)
 - [Kullanıcı hesapları oluşturma ve izinleri ayarlama](create-user-accounts-and-set-permissions.md)
 - [Kullanıcı rollerini ve izinlerini atama](permissions-overview.md)
-- [MPN hesaplarınızı yönetme: Konumlar](manage-locations.md)
+- [MPN hesabını yönetme: Konumlar](manage-locations.md)
 - [Kullanıcı parolasını sıfırlama](reset-a-user-password.md)
 - [API: İş ortağı yasal iş profilini edinin](/partner-center/develop/get-legal-business-profile)
 - [Ticari markette teklifleri ve İş Ortağı Merkezi keşfedin](csp-commercial-marketplace-discover.md)

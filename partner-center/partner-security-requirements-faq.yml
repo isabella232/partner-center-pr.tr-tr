@@ -1,243 +1,243 @@
 ### YamlMime:FAQ
 metadata:
-  title: İş ortağı güvenlik gereksinimleri SSS
+  title: İş ortağı güvenlik gereksinimleri hakkında SSS
   ms.topic: article
   ms.date: 05/26/2020
   ms.service: partner-dashboard
-  ms.subservice: partnercenter-enroll
-  description: İş ortağı güvenlik gereksinimleri hakkında sık sorulan sorular-ne olduğu, iş ortaklarının bunları nasıl uygulaması gerektiği ve bunları karşıladığınızı öğrenin.
+  ms.subservice: partnercenter-account
+  description: İş ortağı güvenlik gereksinimleri, bunların ne olduğu, iş ortaklarının bunları nasıl uygulaması gerektiği ve bunları karşılarsanız nasıl bilgili olduğunuz hakkında sık sorulan sorular.
   author: isaiahwilliams
   ms.author: iswillia
   ms.localizationpriority: high
   ms.custom: SEOMAY.20
-  ms.openlocfilehash: cdcbbb2c622f5d58cf6109ec08267b5289ea8e44
-  ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+  ms.openlocfilehash: 48f19e9745830eb2bccedd615a4a60f4803e8b71
+  ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
   ms.translationtype: MT
   ms.contentlocale: tr-TR
-  ms.lasthandoff: 07/29/2021
-  ms.locfileid: "114843060"
-title: İş ortağı güvenlik gereksinimleriyle ilgili sık sorulan sorular
-summary: "**Uygun roller**: tüm Iş Ortağı Merkezi kullanıcıları\n\nBu makalede, [iş ortağı güvenlik gereksinimleriyle](partner-security-requirements.md)ilgili bazı yaygın sorular yanıtlanmaktadır.\n\n## <a name=\"what-are-the-partner-security-requirements-and-why-should-partners-implement-them\"></a>İş ortağı güvenlik gereksinimleri nelerdir ve iş ortaklarının bunları neden uygulamalıdır?\n\nDaha büyük ve sürekli güvenlik ve gizlilik korumaları, popüler önceliklerimiz arasında olduğundan iş ortaklarının müşterileri ve kiracılarını korumalarına yardımcı olmaya devam ediyoruz. Birincil olarak kimlik güvenliği çözme olayları ile ilgili daha gelişmiş, artan güvenlik saldırılarına karşı daha fazla bilgi görmeye devam ediyoruz. Engelleyici denetimler, güvenlik saldırılarına karşı genel savunma stratejisinde önemli bir rol oynadığında, 2019 ' de [zorunlu güvenlik gereksinimleri](partner-security-requirements.md) sunuyoruz. Bulut Çözümü Sağlayıcısı (CSP) programına katılan tüm iş ortakları, denetim masası satıcıları ve danışmanların uyumlu kalmak için gereksinimleri uygulaması gerekir.\n        \n## <a name=\"what-are-the-key-timelines-and-milestones\"></a>Anahtar zaman çizelgeleri ve kilometre taşları nelerdir?\n\nZaman çizelgeleri ve kilometre taşları dahil olmak üzere bu güvenlik gereksinimleriyle ilişkili koşullar, [Microsoft Iş ortağı sözleşmesi](microsoft-partner-agreement.md)'ne dahildir. CSP programına katılımınız ile uyumlu kalmak için, bu güvenlik gereksinimlerini en kısa sürede uygulamanız gerekir.\n        \n## <a name=\"what-will-happen-if-i-dont-implement-these-partner-security-requirements\"></a>Bu iş ortağı güvenlik gereksinimlerini uygulamadığımda ne olur?\n\nMicrosoft Iş ortağı sözleşmesi, Kullanıcı hesapları için Multi-Factor Authentication 'ı zorunlu hale getirmek ve Iş Ortağı Merkezi API 'siyle etkileşim kurmak için güvenli uygulama modelini benimsemenizi gerektirir. \n        \nBu güvenlik uygulamalarında olmayan iş ortakları, CSP programını Transact veya temsilci yönetici hakları kullanarak müşteri kiracılarını yönetme olanağını kaybedebilir.\n        \n## <a name=\"do-the-security-requirements-apply-to-all-geographies\"></a>Güvenlik gereksinimleri tüm coğrafi lıklar için geçerlidir mi?\n\nEvet, güvenlik gereksinimleri tüm coğrafi lıklar için geçerlidir. Bir sogeign bulutu (ABD devlet ve Almanya) üzerinden deneyimidir tüm iş ortaklarının bu yeni güvenlik gereksinimlerini hemen benimsemesini ve benimsemesini önemle öneririz. Ancak, bu iş ortakları Şu anda güvenlik gereksinimlerini karşılamak için gerekli değildir. Microsoft, daha sonra da bu güvenlik gereksinimlerinin zorlanmasıyla ilgili ek ayrıntılar sağlar.\n\n## <a name=\"is-it-possible-to-get-an-exclusion-for-an-account\"></a>Bir hesap için dışlama almak mümkün midir?\n\nHayır, çok faktörlü kimlik doğrulamasının (MFA) zorlanmasına sahip olma gereksiniminden herhangi bir kullanıcı hesabını dışlamak mümkün değildir. İş ortağı olmak üzere yüksek ayrıcalıklı bir doğası verildiğinde, Microsoft Iş ortağı sözleşmesi, iş ortağı kiracınızdaki her bir kullanıcı hesabı için Multi-Factor Authentication 'ın uygulanmasını gerektirir.\n\n## <a name=\"how-do-i-know-if-i-have-met-the-partner-security-requirements\"></a>Nasıl yaparım? iş ortağı güvenlik gereksinimlerini karşıladığım hakkında bilgi sahibi misiniz?\n\nAşağıdaki adımları tamamlayın:\n        \n- [İş ortağı güvenlik gereksinimlerinde](partner-security-requirements.md)özetlenen tüm gereksinimleri karşılamanız gerekir.\n- İş ortağı kiracınızdaki tüm Kullanıcı hesaplarının Multi-Factor Authentication 'ı zordığından emin olmanız gerekir.\n        \nEylem gerçekleştirebileceğiniz önemli alanların tanımlanmasına yardımcı olmak için Iş Ortağı Merkezi aracılığıyla kullanılabilen [güvenlik gereksinimleri durum raporunu](https://partner.microsoft.com/commerce/security/compliance) sunuyoruz.\n        \nDurum raporu hakkında daha fazla bilgi için bkz. [iş ortağı güvenlik gereksinimleri durumu](partner-security-compliance.md).\n        \n"
+  ms.lasthandoff: 08/04/2021
+  ms.locfileid: "115101222"
+title: İş ortağı güvenlik gereksinimleri hakkında sık sorulan sorular
+summary: "**Uygun roller:** Tüm İş Ortağı Merkezi kullanıcılar\n\nBu makalede iş ortağı güvenlik gereksinimleriyle ilgili bazı [yaygın sorular yanıtlanmıştır.](partner-security-requirements.md)\n\n## <a name=\"what-are-the-partner-security-requirements-and-why-should-partners-implement-them\"></a>İş ortağı güvenlik gereksinimleri nelerdir ve iş ortakları bunları neden uygulamalıdır?\n\nDaha büyük ve sürekli güvenlik ve gizlilik önlemleri en önemli önceliklerimiz arasında yer almaktadır ve iş ortaklarının müşterilerini ve kiracılarını korumasına yardımcı olmaya devam ediyoruz. Daha karmaşık ve artan güvenlik saldırılarının sayısını görmeye devam edeceğiz. Bu saldırılar öncelikli olarak kimlik güvenliğinin tehlikeye atarak ortaya çıktı. Önleyici denetimler, güvenlik saldırılarını önlemek için genel savunma stratejisinde önemli [](partner-security-requirements.md) bir rol oynadığı için 2019'da zorunlu güvenlik gereksinimleri sunduk. Bulut Çözümü Sağlayıcısı (CSP) programına, Denetim Masası Satıcılara ve Danışmanlara katılan tüm iş ortaklarının uyumlu kalmak için gereksinimleri uygulaması gerekir.\n        \n## <a name=\"what-are-the-key-timelines-and-milestones\"></a>Önemli zaman çizelgeleri ve kilometre taşları nedir?\n\nZaman çizelgeleri ve kilometre taşları da dahil olmak üzere bu güvenlik gereksinimleriyle ilişkili terimler, [Microsoft İş Ortağı Sözleşmesi.](microsoft-partner-agreement.md) CSP programına katılımınıza uygun kalmak için bu güvenlik gereksinimlerini mümkün olan en kısa sürede uygulamanız gerekir.\n        \n## <a name=\"what-will-happen-if-i-dont-implement-these-partner-security-requirements\"></a>Bu iş ortağı güvenlik gereksinimlerini uygulamazsanız ne olur?\n\nBu Microsoft İş Ortağı Sözleşmesi, kullanıcı hesapları için çok faktörlü kimlik doğrulamasını zorlamanız ve kullanıcı API'si ile etkileşim kurmak için güvenli uygulama modelini İş Ortağı Merkezi gerektirir. \n        \nBu güvenlik uygulamalarına uymayan iş ortakları, CSP programında işlem yapma veya yönetici temsilcisi haklarını kullanarak müşteri kiracılarını yönetme becerisini kaybedebilir.\n        \n## <a name=\"do-the-security-requirements-apply-to-all-geographies\"></a>Güvenlik gereksinimleri tüm coğrafyalar için geçerli mi?\n\nEvet, güvenlik gereksinimleri tüm coğrafyalar için geçerlidir. Bağımsız bir bulut (ABD Kamu ve Almanya) üzerinden işlem yapılan tüm iş ortaklarının bu yeni güvenlik gereksinimlerini hemen harekete geçerek benimsemelerini kesinlikle öneririz. Ancak, bu iş ortaklarının şu anda güvenlik gereksinimlerini karşılaması gerekli değildir. Microsoft, gelecekte bağımsız bulutlar için bu güvenlik gereksinimlerini uygulamayla ilgili ek ayrıntılar sağlayacaktır.\n\n## <a name=\"is-it-possible-to-get-an-exclusion-for-an-account\"></a>Bir hesap için dışlama elde etmek mümkün mü?\n\nHayır, hiçbir kullanıcı hesabını çok faktörlü kimlik doğrulaması (MFA) zorlama gereksiniminin dışında tutmak mümkün değildir. İş ortağı olmanın yüksek ayrıcalıklı yapısı göz Microsoft İş Ortağı Sözleşmesi iş ortağı kiracınız için çok faktörlü kimlik doğrulamasının zorunlu kılınmasını gerektirir.\n\n## <a name=\"how-do-i-know-if-i-have-met-the-partner-security-requirements\"></a>Nasıl yaparım? güvenlik gereksinimlerini karşıladım mı?\n\nAşağıdaki adımları tamamlayın:\n        \n- İş ortağı güvenlik gereksinimlerinde belirtilen tüm gereksinimleri [karşılamanız gerekir.](partner-security-requirements.md)\n- İş ortağı kiracınız içinde tüm kullanıcı hesaplarının çok faktörlü kimlik doğrulamasının zorunlu olduğundan emin olun.\n        \nEylem gerçekleştirebilirsiniz önemli alanları belirlemeye yardımcı olmak için, güvenlik gereksinimleri [durum](https://partner.microsoft.com/commerce/security/compliance) raporu aracılığıyla kullanılabilir İş Ortağı Merkezi.\n        \nDurum raporu hakkında daha fazla bilgi için bkz. [iş ortağı güvenlik gereksinimleri durumu.](partner-security-compliance.md)\n        \n"
 sections:
 - name: Gerekli eylemler
   questions:
   - question: >
-      Gereksinimleri karşılamak için yapmam gereken önemli eylemler nelerdir?
+      Gereksinimleri karşılamak için hangi önemli eylemleri gerçekleştir ihtiyacım var?
     answer: >
-      CSP programındaki tüm iş ortakları (doğrudan fatura, dolaylı sağlayıcı ve dolaylı satıcı), danışmanların ve Denetim Masası satıcılarının gereksinimleri karşılaması gerekir.
+      CSP programı (doğrudan fatura, dolaylı sağlayıcı ve dolaylı kurumsal bayi), Danışmanlar ve Denetim Masası Satıcılarının gereksinimleri karşılaması gerekir.
 
 
-      1. **Tüm kullanıcılar için MFA 'yı zorla**
+      1. **Tüm kullanıcılar için MFA zorlama**
 
-          CSP programındaki tüm iş ortakları, danışmanları ve Denetim Masası satıcıları, iş ortağı kiracısındaki tüm kullanıcılar için MFA 'yı zorlamak için gereklidir.
+          CSP programı, Danışmanlar ve Denetim Masası Satıcılarının iş ortağı kiracılarında tüm kullanıcılar için MFA'nın uygulanması gerekir.
 
           Ek hususlar:
 
-          - Dolaylı sağlayıcıların, Iş Ortağı Merkezi 'ne eklemek için dolaylı satıcılarla birlikte çalışması gerekir ve satıcıları gereksinimleri karşılayacak şekilde teşvik eder.
-          - Azure MFA, Azure AD güvenlik Varsayılanları aracılığıyla iş ortağı kiracısındaki tüm kullanıcılar için, zamana bağlı bir kerelik parolaları (TOTP) destekleyen bir kimlik doğrulayıcı uygulamasının tek doğrulama yöntemiyle kullanılabilir hale getirilir.
-          - telefon araması veya kısa mesaj gibi başka yöntemler gerekliyse [Azure Active Directory Premium](/azure/active-directory/fundamentals/active-directory-get-started-premium) sku 'ları aracılığıyla ek doğrulama yöntemleri kullanılabilir.
+          - Dolaylı sağlayıcıların, henüz bunu yapmamışsa İş Ortağı Merkezi dolaylı kurumsal bayilerle birlikte çalışması ve kurumsal bayilerini gereksinimleri karşılamaya teşvik etmek için çalışması gerekir.
+          - Azure MFA, zaman tabanlı tek kullanımlık parolaları (TOTP) destekleyen bir kimlik doğrulayıcı uygulamanın tek doğrulama yöntemiyle Azure AD güvenlik varsayılanları aracılığıyla iş ortağı kiracısı tüm kullanıcılara ücretsiz olarak sunulmaktadır.
+          - Telefon çağrısı veya kısa mesaj [Azure Active Directory Premium](/azure/active-directory/fundamentals/active-directory-get-started-premium) diğer yöntemler varsa SKUS'lar aracılığıyla ek doğrulama yöntemleri kullanılabilir.
           - İş ortakları, Microsoft ticari bulut hizmetlerine erişirken her hesap için bir üçüncü taraf MFA çözümü de kullanabilir.
 
-      2. **Güvenli uygulama modeli çerçevesini benimseyin**
+      2. **Güvenli Uygulama Modeli benimseme**
 
-          herhangi bir apı (Azure Resource Manager, Microsoft Graph, iş ortağı merkezi apı, vb.) kullanarak özel tümleştirme geliştiren tüm iş ortaklarının veya PowerShell gibi araçlar kullanılarak özel otomasyon uygulayan, Microsoft bulut hizmetleriyle tümleştirmek için [güvenli uygulama modeli çerçevesini](/partner-center/develop/enable-secure-app-model) benimsemeleri gerekir. Bunun yapılmaması, MFA dağıtımı nedeniyle kesintiye neden olabilir. Aşağıdaki kaynaklar, modelin nasıl benimseneceği hakkında bir genel bakış ve kılavuz sağlar.
+          Herhangi bir API (Azure Resource Manager, Microsoft Graph, İş Ortağı Merkezi API gibi) kullanarak özel tümleştirme geliştiren veya PowerShell gibi araçları kullanarak özel otomasyon uygulayan tüm iş ortaklarının Microsoft bulut hizmetleriyle tümleştirilecek [Güvenli Uygulama Modeli](/partner-center/develop/enable-secure-app-model) çerçevesini benimsemesi gerekir. Bunu yapmaması, MFA dağıtımı nedeniyle kesintiye neden olabilir. Aşağıdaki kaynaklar, modeli benimsemeye ilişkin bir genel bakış ve rehberlik sağlar.
 
-          - [Güvenli uygulama modeline genel bakış](/partner-center/develop/enable-secure-app-model)
-          - [İş Ortağı Merkezi: güvenli uygulama modeli Kılavuzu](https://assetsprod.microsoft.com/secure-application-model-guide.pdf)
-          - [CSP programındaki iş ortakları: güvenli uygulama modelini etkinleştirmek için .NET örnek kodu](/samples/microsoft/partner-center-dotnet-samples/secure-app-model/)
-          - [CSP programındaki iş ortakları: güvenli uygulama modelini etkinleştirmek için Java örnek kodu](/samples/microsoft/partner-center-java-samples/secure-app-model/)
-          - [İş ortağı merkezi kimlik doğrulama belgesi](/partner-center/develop/partner-center-authentication)
+          - [Güvenli Uygulama Modeli genel bakış](/partner-center/develop/enable-secure-app-model)
+          - [İş Ortağı Merkezi: Güvenli Uygulama Modeli kılavuzu](https://assetsprod.microsoft.com/secure-application-model-guide.pdf)
+          - [CSP programındaki iş ortakları: Uygulamanın etkinleştirilmesi için .NET Güvenli Uygulama Modeli](/samples/microsoft/partner-center-dotnet-samples/secure-app-model/)
+          - [CSP programındaki iş ortakları: Uygulamaları etkinleştirmek için Java Güvenli Uygulama Modeli](/samples/microsoft/partner-center-java-samples/secure-app-model/)
+          - [İş Ortağı Merkezi kimlik doğrulaması belgesi](/partner-center/develop/partner-center-authentication)
           - [İş Ortağı Merkezi PowerShell Multi-Factor Authentication (MFA) belgesi](/powershell/partnercenter/multi-factor-auth)
 
-          Güvenli uygulama modeli çerçevesinin benimsenmesiyle ilgili bir denetim masası kullanıyorsanız, satıcıya başvurun.
+          Güvenli Uygulama Modeli çerçevesinin benimsenmesiyle ilgili bir denetim masası kullanıyorsanız satıcıya başvurun.
 
-          Denetim Masası satıcıları, Iş Ortağı Merkezi 'ne Denetim Masası satıcısı olarak eklemek ve bu gereksinimi hemen uygulamaya [başlamak için gereklidir](enroll-as-cpv.md) . [Iş Ortağı Merkezi: güvenli uygulama modeli çerçevesi](https://assetsprod.microsoft.com/secure-application-model-guide.pdf)' ne bakın. Denetim Masası satıcıları kimlik bilgileri yerine CSP iş ortaklarının onayını kabul edip Yönetmeli ve tüm mevcut CSP iş ortaklarının kimlik bilgilerini temizlemelidir.
+          Denetim masası satıcılarının denetim [masası satıcısı](enroll-as-cpv.md) olarak İş Ortağı Merkezi ve bu gereksinimi hemen uygulamaya başlaması gerekir. İş Ortağı Merkezi: [Güvenli Uygulama Modeli bakın.](https://assetsprod.microsoft.com/secure-application-model-guide.pdf) Denetim masası satıcılarının kimlik bilgileri yerine CSP iş ortaklarının onaylarını kabul etmeleri ve yönetmeleri ve tüm mevcut CSP iş ortaklarının kimlik bilgilerini temizlemeleri gerekir.
 - name: Multi-factor authentication
   questions:
   - question: >
-      Multi-Factor Authentication (MFA) nedir?
+      Çok faktörlü kimlik doğrulaması (MFA) nedir?
     answer: >
-      MFA, birden fazla gerekli güvenlik ve doğrulama yordamıyla kişilerin kimliğini doğrulamak için bir güvenlik mekanizmasıdır. Aşağıdaki kimlik doğrulama yöntemlerinin iki veya daha fazlasını gerektirerek işe yarar:
+      MFA, birden fazla gerekli güvenlik ve doğrulama yordamı aracılığıyla kişilerin kimliğini doğrulamaya yönelik bir güvenlik mekanizmasıdır. Aşağıdaki kimlik doğrulama yöntemlerden iki veya daha fazlasını gerektirerek çalışır:
 
 
-      - Bildiğiniz bir şey (genellikle bir parola)
+      - Biliyorsanız (genellikle bir parola)
 
-      - Sahip olduğunuz bir şey (telefon gibi kolayca çoğaltılmayan güvenilir bir cihaz)
+      - Sahip olduğunuz bir şey (telefon gibi kolayca çoğaltılan güvenilir bir cihaz)
 
-      - Bir şeyler (Biyometri)
+      - Sahip olduğunuz bir şey (biyometri)
   - question: >
-      MFA 'yı etkinleştirme maliyeti nedir?
+      MFA'nın etkinleştirilme maliyeti nedir?
     answer: >
-      Microsoft, Azure AD güvenlik Varsayılanları 'nın uygulanması aracılığıyla MFA 'yı ücretsiz olarak sağlar. MFA 'nın bu sürümü kullanılarak kullanılabilen tek doğrulama seçeneği bir Authenticator uygulamasıdır. telefon araması veya SMS mesajı gerekliyse, [Azure Active Directory Premium](/azure/active-directory/fundamentals/active-directory-get-started-premium) lisansın satın alınması gerekir. Alternatif olarak, iş ortağı kiracınızdaki her bir kullanıcı için MFA sağlamak üzere bir üçüncü taraf çözümünü kullanabilirsiniz. Bu durumda, MFA çözümünüzün zorlandığından ve uyumlu olduğunuzdan emin olmak sizin sorumluluğunuzdadır.
+      Microsoft, Azure AD güvenlik varsayılanlarının uygulanmasıyla MFA'ya ücretsiz olarak sahip olur. Bu MFA sürümü kullanılarak kullanılabilen tek doğrulama seçeneği bir kimlik doğrulayıcı uygulamasıdır. Telefon çağrısı veya SMS mesajı gerekirse, Azure Active Directory Premium [lisansı](/azure/active-directory/fundamentals/active-directory-get-started-premium) satın alın gerekir. Alternatif olarak, iş ortağı kiracınız olan her kullanıcıya MFA sağlamak için üçüncü taraf bir çözümden faydalanmak da gerekir. Bu durumda, MFA çözümünün zorunlu tutul olduğundan ve uyumlu olduğundan emin olmak sizin sorumluluğundadır.
   - question: >
-      MFA çözümünüz varsa hangi eylemleri gerçekleştirmeniz gerekir?
+      Zaten bir MFA çözümüm varsa hangi eylemleri uygulamam gerekir?
     answer: >
-      Bu güvenlik gereksinimlerine göre, bir iş ortağı kiracısındaki kullanıcıların, Microsoft ticari bulut hizmetlerine erişirken MFA kullanarak kimlik doğrulaması yapması gerekir. Üçüncü taraf çözümler, bu gereksinimleri karşılamak için kullanılabilir. Microsoft artık Azure Active Directory uyumluluk için bağımsız kimlik sağlayıcılarına doğrulama testi sağlamaz. Ürününüzü birlikte çalışabilirlik için test etmek üzere bu [yönergelere](https://www.microsoft.com/download/details.aspx?id=56843)bakın.
+      Bu güvenlik gereksinimleri aracılığıyla, iş ortağı kiracısı kullanıcılarının Microsoft ticari bulut hizmetlerine erişirken MFA kullanarak kimlik doğrulaması yapmaları gerekir. Bu gereksinimleri karşılamak için üçüncü taraf çözümler kullanılabilir. Microsoft artık bağımsız kimlik sağlayıcılarına kimlik sağlayıcılarıyla uyumluluk için doğrulama testi Azure Active Directory. Üründe birlikte çalışabilirlik testi yapmak için bu yönergelere [bakın.](https://www.microsoft.com/download/details.aspx?id=56843)
 
 
       > [!IMPORTANT]
 
-      > Üçüncü taraf bir çözüm kullanırken, çözümün MFA değerini içeren kimlik doğrulama yöntemi başvurusu (AMR) talebini yayınlamasını doğrulamak önemlidir. Üçüncü taraf çözümünüzün beklenen talebi nasıl doğruladığını öğrenmek için bkz. [Iş ortağı güvenlik gereksinimlerini test etme](/powershell/partnercenter/test-partner-security-requirements) .
+      > Üçüncü taraf bir çözüm kullanırken, çözümün MFA değerini içeren kimlik doğrulama yöntemi başvurusu (AMR) talebi olduğunu doğrulamak önemlidir. Üçüncü [taraf çözüm doğrulamanın beklenen](/powershell/partnercenter/test-partner-security-requirements) talebi nasıl vermesi hakkında ayrıntılı bilgi için bkz. İş Ortağı Güvenlik Gereksinimlerini Test Etme.
   - question: >
-      Transact için birden çok iş ortağı kiracıyı kullanıyorum. Bunlara MFA 'yı uygulamam gerekir mi?
-    answer: "evet, CSP programıyla veya danışman programıyla ilişkilendirilen Azure Active Directory her bir kiracı için MFA 'yı zorunlu kılabilirsiniz. Azure Active Directory Premium lisansı satın almak için, her bir Azure Active Directory kiracısındaki kullanıcılar için bir Azure Active Directory lisansı satın almanız gerekir. \n"
+      Işlem yapmak için birden çok iş ortağı kiracısı kullanıyorum. Bunların üzerinde MFA uygulamam gerekiyor mu?
+    answer: "Evet, CSP programı veya Danışman programıyla ilişkilendirilmiş her Azure Active Directory kiracı için MFA'nın zorunlu tutulacak. Bir Azure Active Directory Premium satın almak için her kiracıda kullanıcılara Azure Active Directory lisans satın Azure Active Directory gerekir. \n"
   - question: >
-      İş ortağı kiracısındaki her bir kullanıcı hesabının MFA 'nın zorlanmış olması gerekir mi?
+      İş ortağı kiracımda her kullanıcı hesabının MFA'nın uygulanması gerekiyor mu?
     answer: >
-      Evet, her kullanıcının MFA 'nın zorlanmış olması gerekir. Ancak, Azure AD güvenlik varsayılanlarını kullanıyorsanız, bu özellik tüm Kullanıcı hesapları için MFA uyguladığından, ek bir işlem yapmanız gerekmez. Güvenlik varsayılanlarını etkinleştirmek, Kullanıcı hesaplarınızın MFA ile uyumlu olduğundan ve MFA zorlandığında etkilenmediğinden emin olmanın ücretsiz ve kolay bir yoludur.
+      Evet, her kullanıcının MFA'nın uygulanması gerekir. Ancak, Azure AD güvenlik varsayılanlarını kullanıyorsanız, bu özellik tüm kullanıcı hesapları için MFA'nın zorunlu tutularak ek bir eyleme gerek yoktur. Güvenlik varsayılanlarını etkinleştirmek, kullanıcı hesaplarınızı MFA uyumlu olduğundan ve MFA zorunlu kılınca etkilemeyebilirsiniz.
   - question: >
-      Microsoft ile doğrudan bir Bill partner kullanıyorum. Neler yapmam gerekir?
+      Microsoft ile doğrudan fatura iş ortağıyım. Neler yapmam gerekir?
     answer: >
-      doğrudan bill Bulut Çözümü Sağlayıcısı iş ortakları, iş ortağı kiracılarında her kullanıcı için MFA 'yı zorlayamalıdır.
+      Doğrudan fatura Bulut Çözümü Sağlayıcısı iş ortaklarının, iş ortağı kiracısı olan her kullanıcı için MFA'nın uygulanması gerekir.
   - question: >
-      Bir dolaylı satıcıyım ve yalnızca bir dağıtıcı Transact. MFA 'yı etkinleştirmeyi hala yapmam gerekir mi?
+      Ben dolaylı bir kurumsal bayiyim ve yalnızca dağıtımcı olarak işlemdeyim. Hala MFA'yi etkinleştirmem mi gerek?
     answer: >
-      Tüm dolaylı satıcıların, iş ortağı kiracısındaki her bir kullanıcı için MFA 'yı zorlaması gerekir. Dolaylı satıcı MFA 'yı etkinleştirmelidir.
+      Tüm dolaylı kurumsal bayilerin iş ortağı kiracısı olan her kullanıcı için MFA'nın uygulanması gerekir. Dolaylı kurumsal bayinin MFA'yi etkinleştirmesi gerekir.
   - question: >
-      Iş Ortağı Merkezi API 'sini kullanmıyorum. MFA 'yı yine de uygulamam gerekir mi?
+      İş Ortağı Merkezi API'sini kullanmam. Hala MFA uygulamam gerekiyor mu?
     answer: >
-      Evet, bu güvenlik gereksinimi, ortak yönetici kullanıcıları ve bir iş ortağı kiracısındaki son kullanıcılar dahil tüm kullanıcılara yöneliktir.
+      Evet, bu güvenlik gereksinimi iş ortağı yönetici kullanıcıları ve bir iş ortağı kiracısı olan son kullanıcılar dahil olmak üzere tüm kullanıcılara aittir.
   - question: >
-      Hangi üçüncü taraf satıcıları Azure Active Directory ile uyumlu MFA çözümleri sağlıyor?
+      Hangi üçüncü taraf satıcılar, Azure Active Directory ile uyumlu MFA Azure Active Directory?
     answer: >
-      MFA satıcıları ve çözümlerini gözden geçirirken iş ortakları, seçtikleri çözümün Azure Active Directory uyumlu olduğundan emin olmalıdır.
+      MFA satıcılarını ve çözümlerini gözden geçirerek iş ortaklarının seçtikleriyle uyumlu olduğundan emin Azure Active Directory.
 
 
-      Microsoft artık Azure Active Directory uyumluluk için bağımsız kimlik sağlayıcılarına doğrulama testi sağlamaz. Ürününüzü birlikte çalışabilirlik için test etmek isterseniz, bu [yönergelere](https://www.microsoft.com/download/details.aspx?id=56843)bakın.
+      Microsoft artık bağımsız kimlik sağlayıcılarına kimlik sağlayıcılarıyla uyumluluk için doğrulama testi Azure Active Directory. Üründe birlikte çalışabilirlik testi yapmak için bu yönergelere [bakın.](https://www.microsoft.com/download/details.aspx?id=56843)
 
 
-      Daha fazla bilgi için bkz. [Azure AD Federasyon uyumluluğu listesi](/azure/active-directory/hybrid/how-to-connect-fed-compatibility).
+      Daha fazla bilgi için [bkz. Azure AD federasyon uyumluluk listesi.](/azure/active-directory/hybrid/how-to-connect-fed-compatibility)
   - question: >
-      Tümleştirme korumalı alanında MFA 'yı nasıl test edebilirim?
+      Tümleştirme korumalı alanımızda MFA'ya nasıl test bilmiyorum?
     answer: >
-      Azure AD güvenlik Varsayılanları özelliği etkinleştirilmelidir veya alternatif olarak, Federasyon kullanan bir üçüncü taraf çözümü kullanabilirsiniz.
+      Azure AD güvenlik varsayılanları özelliğinin etkinleştirilmesi gerekir veya alternatif olarak federasyon kullanan bir üçüncü taraf çözümü kullanabilirsiniz.
   - question: >
-      MFA 'nın, müşterimin kiracısıyla nasıl etkileşime gireceğini etkilemesi gerekir mi?
+      MFA'nın etkinleştirilmesi müşterimin kiracısı ile etkileşim kurmamı etkileyecek mi?
     answer: >
-      Hayır. Bu güvenlik gereksinimlerinin yerine getirilmesi, müşterilerinizi nasıl yöneteceğinizi etkilemeyecektir. Temsilcili yönetim işlemlerini gerçekleştirme olanağınız kesintiye uğramaz.
+      Hayır. Bu güvenlik gereksinimlerinin yerine getirilmesi, müşteri yönetiminizi etkilemez. Temsilcili yönetim işlemleri gerçekleştirme beceriniz kesintiye uğramaz.
   - question: >
-      Müşterilerimiz iş ortağı güvenlik gereksinimlerine tabidir mi?
+      Müşterilerim iş ortağı güvenlik gereksinimlerine tabi mi?
     answer: >
-      Hayır, müşterinizin Azure AD kiracılarındaki her bir kullanıcı için MFA 'yı zorlayabilmeniz gerekli değildir. Ancak, kullanıcılarının ne kadar en iyi şekilde korunacağını öğrenmek için her müşteriyle çalışmanız önerilir.
+      Hayır, müşterinizin Azure AD kiracılarında her kullanıcı için MFA zorlamanız gerekmez. Ancak, kullanıcılarını en iyi şekilde korumak için her müşteriyle birlikte çalışmanız önerilir.
   - question: >
-      Herhangi bir Kullanıcı, MFA gereksiniminden dışlanamaz mi?
+      Herhangi bir kullanıcı MFA gereksiniminin dışında tutulacak mı?
     answer: >
-      Hayır, iş ortağı kiracınızdaki hizmet hesapları da dahil olmak üzere her kullanıcının MFA kullanarak kimlik doğrulaması yapması gerekecektir.
+      Hayır, iş ortağı kiracınıza hizmet hesapları dahil olmak üzere her kullanıcının MFA kullanarak kimlik doğrulaması yapmaları gerekir.
   - question: >
-      İş ortağı güvenlik gereksinimleri tümleştirme korumalı alanı için mi uygulanır?
+      İş ortağı güvenlik gereksinimleri tümleştirme korumalı alanı için geçerli mi?
     answer: >
-      Evet, iş ortağı güvenlik gereksinimleri tümleştirme korumalı alanı için geçerlidir. Bu, tümleştirme korumalı alanı kiracısındaki kullanıcılar için uygun MFA çözümünü uygulamanız gereken anlamına gelir. MFA sağlamak için Azure AD güvenlik varsayılanlarını uygulamanız önerilir.
+      Evet, iş ortağı güvenlik gereksinimleri tümleştirme korumalı alanı için geçerlidir. Bu, tümleştirme korumalı alanı kiracısı kullanıcıları için uygun MFA çözümünü uygulamanız gerektir. MFA sağlamak için Azure AD güvenlik varsayılanlarını uygulamanız önerilir.
   - question: >
-      Acil bir erişim (kesme camı) hesabı Nasıl yaparım? mi?
+      Nasıl yaparım? erişim (acil durum) hesabı mı yapılandırabilirsiniz?
     answer: >
-      Azure AD kiracınızdan yanlışlıkla kilitlenmesini engellemek için bir veya iki acil durum erişim hesabı oluşturmak için en iyi uygulama olarak kabul edilir. İş ortağı güvenlik gereksinimlerine göre, her kullanıcının MFA kullanarak kimlik doğrulaması yapması gerekir. Bu gereksinim, bir acil durum erişim hesabının tanımını değiştirmeniz gereken anlamına gelir. MFA için bir üçüncü taraf çözümü kullanan bir hesap olabilir.
+      Azure AD kiracınıza yanlışlıkla kilitlenmeyi önlemek için bir veya iki acil durum erişim hesabı oluşturmak en iyi yöntem olarak kabul edilir. İş ortağı güvenlik gereksinimlerine göre, her kullanıcının MFA kullanarak kimlik doğrulaması yapmaları gerekir. Bu gereksinim, acil durum erişim hesabının tanımını değiştirmeniz gerektir. MFA için üçüncü taraf çözümü kullanan bir hesap olabilir.
   - question: >
-      Üçüncü taraf bir çözüm kullandığım takdirde Active Directory Federasyon Hizmeti (ADFS) gerekiyor mu?
+      Üçüncü taraf Federasyon Hizmeti active directory çözümü (ADFS) gerekiyor mu?
     answer: >
-      Hayır, üçüncü taraf bir çözüm kullanıyorsanız Active Directory Federasyon Hizmeti (ADFS) olması gerekmez. Çözüm için gereksinimlerin ne olduğunu belirlemek için çözümün satıcısı ile çalışmanız önerilir.
+      Hayır, üçüncü taraf bir çözüm Federasyon Hizmeti Active Directory Federasyon Hizmeti (ADFS) olması gerekmez. Çözümünün gereksinimlerini belirlemek için çözümün satıcısıyla birlikte çalışmanız önerilir.
   - question: >
-      Azure AD güvenlik varsayılanlarını etkinleştirmek için bir gereksinim mı var?
+      Azure AD güvenlik varsayılanlarını etkinleştirme gereksinimi var mı?
     answer: >
-      Hayır, Azure AD güvenlik varsayılanlarını etkinleştirmeniz gerekli değildir.
+      Hayır, Azure AD güvenlik varsayılanlarını etkinleştirmeniz gerekmez.
   - question: >
       MFA gereksinimini karşılamak için koşullu erişim kullanılabilir mi?
     answer: >
-      Evet, iş ortağı kiracınızdaki hizmet hesapları da dahil olmak üzere her bir kullanıcı için MFA 'yı zorlamak üzere koşullu erişimi kullanabilirsiniz. Bununla birlikte, her kullanıcının her bir tek kimlik doğrulaması için MFA sınamasına sahip olduğundan emin olmak için, iş ortağı olmak üzere yüksek ayrıcalıklı bir iş ortağı olarak verilmiştir. Bu, MFA gereksinimini atlayabilecek koşullu erişim özelliğini kullanmayamayabilmeniz anlamına gelir.
+      Evet, iş ortağı kiracınıza hizmet hesapları da dahil olmak üzere her kullanıcı için MFA uygulamak üzere koşullu erişimi kullanabilirsiniz. Ancak, iş ortağı olmanın yüksek ayrıcalıklı doğası gereği her kullanıcının her bir kimlik doğrulamasında bir MFA zora sahip olduğundan emin olmak gerekir. Bu, MFA gereksinimini yitiren koşullu erişim özelliğini kullana anlamına gelir.
   - question: >
-      Azure AD Connect tarafından kullanılan hizmet hesabı iş ortağı güvenlik gereksinimlerinden etkilensin mi?
+      Azure AD tarafından kullanılan hizmet Bağlan iş ortağı güvenlik gereksinimleri etkilemayacak mı?
     answer: >
-      hayır, Azure AD Connect tarafından kullanılan hizmet hesabı iş ortağı güvenlik gereksinimlerinden etkilenmeyecektir. MFA zorlama sonucu Azure AD Connect ile ilgili bir sorun yaşıyorsanız, Microsoft desteği ile bir teknik destek isteği açın.
-- name: Güvenli uygulama modeli
+      Hayır, Azure AD hizmet hesabı Bağlan iş ortağı güvenlik gereksinimleri etkilenmez. MFA'nın zorlanma nedeniyle Azure AD Bağlan bir sorun yaşamanız, ardından Microsoft desteğiyle bir teknik destek isteği açın.
+- name: Güvenli Uygulama Modeli
   questions:
   - question: >
-      Who, gereksinimleri karşılamak için güvenli uygulama modelini benimsemelidir mi?
+      Who karşılamak için güvenli uygulama modelini benimsemeniz gerekir mi?
     answer: >
-      Microsoft, Multi-Factor Authentication kullanan Bulut Çözümü Sağlayıcısı (CSP) iş ortakları ve denetim masası satıcılarının (cpv) kimlik doğrulaması için güvenli ve ölçeklenebilir bir çerçeve sunuyor. Daha fazla bilgi için bkz. [güvenli uygulama modeli Kılavuzu](https://assetsprod.microsoft.com/secure-application-model-guide.pdf). herhangi bir apı (Azure Resource Manager, Microsoft Graph, iş ortağı merkezi apı, vb.) kullanarak özel tümleştirme geliştiren tüm iş ortaklarının veya PowerShell gibi araçlar kullanılarak özel otomasyon uygulayan, Microsoft bulut hizmetleriyle tümleştirmek için [güvenli uygulama modeli çerçevesini](/partner-center/develop/enable-secure-app-model) benimsemeleri gerekir.
+      Microsoft, Multi-Factor Authentication kullanan Bulut Çözümü Sağlayıcısı (CSP) iş ortaklarının ve Denetim Masası Satıcılarının (CPV) kimlik doğrulamasını sağlamak için güvenli, ölçeklenebilir bir çerçeve tanıtmaktadır. Daha fazla bilgi için [bkz. Güvenli Uygulama Modeli kılavuzu.](https://assetsprod.microsoft.com/secure-application-model-guide.pdf) Herhangi bir API (Azure Resource Manager, Microsoft Graph, İş Ortağı Merkezi API gibi) kullanarak özel tümleştirme geliştiren veya PowerShell gibi araçları kullanarak özel otomasyon uygulayan tüm iş ortaklarının Microsoft bulut hizmetleriyle tümleştirilecek [Güvenli Uygulama Modeli](/partner-center/develop/enable-secure-app-model) çerçevesini benimsemesi gerekir.
   - question: >
-      Güvenli uygulama modeli nedir?
-    answer: "Microsoft, Multi-Factor Authentication yararlanan Bulut Çözümü Sağlayıcısı (CSP) iş ortakları ve denetim masası satıcıları (cpv) kimlik doğrulaması için güvenli ve ölçeklenebilir bir çerçeve sunuyor. Daha fazla bilgi için bkz. [güvenli uygulama modeli Kılavuzu](https://assetsprod.microsoft.com/secure-application-model-guide.pdf) .  \n"
+      Hangi Güvenli Uygulama Modeli?
+    answer: "Microsoft, Multi-Factor Authentication'Bulut Çözümü Sağlayıcısı (CSP) iş ortaklarının ve Denetim Masası Satıcılarının (CPV) kimlik doğrulamasını sağlamak için güvenli, ölçeklenebilir bir çerçeve tanıtmaktadır. Daha fazla [Güvenli Uygulama Modeli için bkz.](https://assetsprod.microsoft.com/secure-application-model-guide.pdf) Güvenli Uygulama Modeli kılavuzu.  \n"
   - question: >
-      Güvenli uygulama modelini uygulama Nasıl yaparım? mı?
+      Nasıl yaparım? uygulamak Güvenli Uygulama Modeli?
     answer: >
-      herhangi bir apı (Azure Resource Manager, Microsoft Graph, iş ortağı merkezi apı, vb.) kullanarak özel tümleştirme geliştiren tüm iş ortaklarının veya PowerShell gibi araçlar kullanılarak özel otomasyon uygulayan, Microsoft bulut hizmetleriyle tümleştirmek için [güvenli uygulama modeli çerçevesini](/partner-center/develop/enable-secure-app-model) benimsemeleri gerekir. Bunun yapılmaması, MFA dağıtımı nedeniyle kesintiye neden olabilir. Aşağıdaki kaynaklar, modelin nasıl benimseneceği hakkında bir genel bakış ve kılavuz sağlar.
+      Herhangi bir API (Azure Resource Manager, Microsoft Graph, İş Ortağı Merkezi API gibi) kullanarak özel tümleştirme geliştiren veya PowerShell gibi araçları kullanarak özel otomasyon uygulayan tüm iş ortaklarının Microsoft bulut hizmetleriyle tümleştirilecek [Güvenli Uygulama Modeli](/partner-center/develop/enable-secure-app-model) çerçevesini benimsemesi gerekir. Bunu yapmaması, MFA dağıtımı nedeniyle kesintiye neden olabilir. Aşağıdaki kaynaklar, modeli benimsemeye ilişkin bir genel bakış ve rehberlik sağlar.
 
 
-      - [Güvenli uygulama modeline genel bakış](/partner-center/develop/enable-secure-app-model)
+      - [Güvenli Uygulama Modeli genel bakış](/partner-center/develop/enable-secure-app-model)
 
-      - [İş Ortağı Merkezi: güvenli uygulama modeli Kılavuzu](https://assetsprod.microsoft.com/secure-application-model-guide.pdf)
+      - [İş Ortağı Merkezi: Güvenli Uygulama Modeli kılavuzu](https://assetsprod.microsoft.com/secure-application-model-guide.pdf)
 
-      - [CSP programındaki iş ortakları: güvenli uygulama modelini etkinleştirmek için .NET örnek kodu](/samples/microsoft/partner-center-dotnet-samples/secure-app-model/)
+      - [CSP programındaki iş ortakları: Uygulamanın etkinleştirilmesi için .NET Güvenli Uygulama Modeli](/samples/microsoft/partner-center-dotnet-samples/secure-app-model/)
 
-      - [CSP programındaki iş ortakları: güvenli uygulama modelini etkinleştirmek için Java örnek kodu](/samples/microsoft/partner-center-java-samples/secure-app-model/)
+      - [CSP programındaki iş ortakları: Uygulamaları etkinleştirmek için Java Güvenli Uygulama Modeli](/samples/microsoft/partner-center-java-samples/secure-app-model/)
 
-      - [İş ortağı merkezi kimlik doğrulama belgesi](/partner-center/develop/partner-center-authentication)
+      - [İş Ortağı Merkezi kimlik doğrulaması belgesi](/partner-center/develop/partner-center-authentication)
 
       - [İş Ortağı Merkezi PowerShell Multi-Factor Authentication (MFA) belgesi](/powershell/partnercenter/multi-factor-auth)
 
 
-      Bir denetim masası kullanıyorsanız, güvenli uygulama modeli çerçevesinin benimsenmesiyle ilgili olarak satıcıya danışmanız gerekir.
+      Denetim masası kullanıyorsanız, Güvenli Uygulama Modeli çerçevesinin benimsenmesi konusunda satıcıya başvurmanız gerekir.
 
 
-      Denetim Masası satıcıları, Iş Ortağı Merkezi 'ne Denetim Masası satıcısı olarak eklemek ve bu gereksinimi hemen uygulamaya [başlamak için gereklidir](enroll-as-cpv.md) . [Iş Ortağı Merkezi: güvenli uygulama modeli çerçevesi](https://assetsprod.microsoft.com/secure-application-model-guide.pdf)' ne bakın. Denetim Masası satıcıları kimlik bilgileri yerine CSP iş ortaklarının onayını kabul edip Yönetmeli ve tüm mevcut CSP iş ortaklarının kimlik bilgilerini temizlemelidir.
+      Denetim masası satıcılarının denetim [masası satıcısı](enroll-as-cpv.md) olarak İş Ortağı Merkezi ve bu gereksinimi hemen uygulamaya başlaması gerekir. İş Ortağı Merkezi: [Güvenli Uygulama Modeli bakın.](https://assetsprod.microsoft.com/secure-application-model-guide.pdf) Denetim masası satıcılarının kimlik bilgileri yerine CSP iş ortaklarının onaylarını kabul etmeleri ve yönetmeleri ve tüm mevcut CSP iş ortaklarının kimlik bilgilerini temizlemeleri gerekir.
   - question: >
-      Güvenli uygulama modelinin yalnızca Iş Ortağı Merkezi API/SDK için uygulanması gerekiyor mu?
-    answer: "Tüm Kullanıcı hesaplarında Multi-Factor Authentication 'ı zorunlu tutarak, etkileşimli olmayan bir şekilde çalışmak için tasarlanan tüm otomasyon veya tümleştirme etkilenecektir. İş ortağı güvenlik gereksinimleri, Iş Ortağı Merkezi API 'SI için güvenli uygulama modelini etkinleştirmenizi gerektirdiğinden, otomasyon ve tümleştirmeyle ikinci bir kimlik doğrulama gereksinimini karşılamak için kullanılabilir.\n\n>[!Note] \n>Erişilmekte olan kaynakların belirteç tabanlı kimlik doğrulamasına erişimi desteklemesi gerekir.\n"
+      Uygulamanın Güvenli Uygulama Modeli API/SDK için İş Ortağı Merkezi gerekiyor mu?
+    answer: "Tüm kullanıcı hesapları için çok faktörlü kimlik doğrulamasını zorlayarak, etkileşimli olmayan bir şekilde çalışması amaçlanan tüm otomasyon veya tümleştirmeler bundan etkileniyor. İş ortağı güvenlik gereksinimleri, İş Ortağı Merkezi API'si için güvenli uygulama modelini etkinleştirmeniz gerektirmektedir ancak otomasyon ve tümleştirme ile ikinci bir kimlik doğrulaması faktörüne ihtiyaç karşılamak için kullanılabilir.\n\n>[!Note] \n>Erişilen kaynakların, erişim belirteci tabanlı kimlik doğrulamasını desteklemesi gerekir.\n"
   - question: >
-      PowerShell gibi Otomasyon araçlarını kullanıyorum. Güvenli uygulama modelini uygulama Nasıl yaparım? mı?
-    answer: "Otomasyonunun etkileşimli olmayan şekilde çalıştırılması amaçlanıyorsa ve kimlik doğrulaması için Kullanıcı kimlik bilgilerini temel alıyorsa güvenli uygulama modelini uygulamanız gerekir. Bkz. [güvenli uygulama modeli | ](/powershell/partnercenter/multi-factor-auth) Bu çerçevenin nasıl uygulanacağını gösteren yönergeler için iş ortağı merkezi PowerShell.  \n\n>[!Note] \n>Tüm otomasyon araçları, erişim belirteçlerini kullanarak kimlik doğrulaması yapma olanağı sağlamaz. Hangi değişikliklerin yapılması gerektiğini anlamak için yardıma ihtiyacınız varsa [Iş Ortağı Merkezi Güvenlik Kılavuzu](https://www.microsoftpartnercommunity.com/t5/Partner-Center-Security-Guidance/ct-p/partner-center-security-guidance) grubuna bir ileti gönderin. \n"
+      PowerShell gibi otomasyon araçlarını kullanıyorum. Nasıl yaparım? uygulamak Güvenli Uygulama Modeli?
+    answer: "Otomasyonun etkileşimli olmayan Güvenli Uygulama Modeli kimlik doğrulaması için kullanıcı kimlik bilgilerine bağlı olması için bu yapılandırmayı uygulamanız gerekir. Bkz. [Güvenli Uygulama Modeli | İş Ortağı Merkezi çerçeveyi uygulamaya](/powershell/partnercenter/multi-factor-auth) yönelik kılavuz için PowerShell'i destekle.  \n\n>[!Note] \n>Tüm otomasyon araçları erişim belirteçlerini kullanarak kimlik doğrulaması yapma olanağı sağlamaz. Hangi değişikliklerin İş Ortağı Merkezi [yardıma ihtiyacınız](https://www.microsoftpartnercommunity.com/t5/Partner-Center-Security-Guidance/ct-p/partner-center-security-guidance) varsa Güvenlik Kılavuzu grubunda bir ileti gönderin. \n"
   - question: >
-      Uygulama Yöneticisi, onay işlemini gerçekleştirirken hangi kullanıcı kimlik bilgilerini sağlamalıdır?
+      Onay işlemi sırasında uygulama yöneticisinin hangi kullanıcı kimlik bilgilerini sağlaması gerekir?
     answer: >
-      En az ayrıcalıklı izinlere atanmış bir hizmet hesabı kullanmanız önerilir. Iş Ortağı Merkezi API 'sine göre, Sales Agent veya admin Agents rolüne atanmış bir hesabı kullanmanız gerekir.
+      En az ayrıcalıklı izinlere atanmış bir hizmet hesabı kullanılması önerilir. İş Ortağı Merkezi API'si ile ilgili olarak, Satış Aracısı veya Yönetici Aracıları rolüne atanmış bir hesap kullansanız iyi olur.
   - question: >
-      Uygulama Yöneticisi neden onay işlemini gerçekleştirirken genel yönetici kullanıcı kimlik bilgilerini sağlamamalıdır?
+      Uygulama yöneticisi, onay işlemini yaparken neden genel yönetici kullanıcı kimlik bilgilerini sağlamasın?
     answer: >
-      En az ayrıcalıklı kimlik kullanmak en iyi uygulamadır.  Bu, riski azaltır. Bu, gerekenden daha fazla izin sağlayacağından, genel yönetici ayrıcalıklarına sahip bir hesap kullanılması önerilmez.
+      En az ayrıcalıklı kimlik kullanmak en iyi uygulamadır.  Bu, riski azaltır. Gerekenden daha fazla izin sağlayan genel yönetici ayrıcalıklarına sahip bir hesap kullanılması önerilmez.
   - question: >
-      Bir CSP iş ortağıyım. Nasıl yaparım? Denetim Masası satıcımın (CPV) çözümü uygulamaya çalışıp çalışmadığını bilir mi?
+      CSP iş ortağıyım. Nasıl yaparım? Satıcım (CPV) Denetim Masası uygulamak için çalışsa da çalışmadığını biliyor musunuz?
     answer: >
-      Bulut Çözümü Sağlayıcısı (CSP) programında transact için denetim masası satıcısı (cpv) çözümünü kullanan iş ortakları için, cpv 'nize danışmanız sizin sorumluluğunuzdadır.
+      Bulut Çözümü Sağlayıcısı (CSP) programında işlem yapmak için bir Denetim Masası Vendor (CPV) çözümü kullanan iş ortakları için, CPV'nize danışmak sizin sorumluluğuzdur.
   - question: >
-      Who bir denetim masası satıcısı (cpv) mi?
+      Who Satıcı (CPV Denetim Masası mi?
     answer: >
-      Denetim Masası satıcısı, CSP Iş ortakları tarafından Iş Ortağı Merkezi API 'Leri ile tümleştirme için kullanılacak uygulamaları geliştiren bağımsız bir yazılım satıcıdır. Bir denetim masası satıcısı, Iş Ortağı Merkezi panosuna veya API 'Lerine doğrudan erişimli bir CSP Iş ortağı değildir. Iş Ortağı Merkezi 'nde ayrıntılı bir açıklama mevcuttur [: güvenli uygulamalar model Kılavuzu](https://assetsprod.microsoft.com/secure-application-model-guide.pdf).
+      Bir Denetim Masası, CSP İş Ortakları tarafından uygulama geliştirerek uygulama geliştiren bağımsız bir yazılım satıcısıdır ve bu uygulamaları İş Ortağı Merkezi sağlar. Bir Denetim Masası satıcı, panoya veya API'lere doğrudan erişimi olan İş Ortağı Merkezi CSP İş Ortağı değildir. Ayrıntılı bir açıklama, [İş Ortağı Merkezi: Güvenli Uygulama Modeli kılavuzunda mevcuttur.](https://assetsprod.microsoft.com/secure-application-model-guide.pdf)
   - question: >
-      Bir CPV kullanıyorum. Nasıl yaparım? kaydetmek istiyor musunuz?
+      Ben bir CPV'yim. Nasıl yaparım? mi?
     answer: >
-      Bir denetim masası satıcısı (CPV) olarak kaydetmek için, [burada](enroll-as-cpv.md)belirtilen yönergeleri izleyin.
+      Denetim masası satıcısı (CPV) olarak kaydolmak için burada sağlanan yönergeleri [izleyin.](enroll-as-cpv.md)
 
 
-      CPVs, [CPVHelp@microsoft.com](mailto:CPVHelp@microsoft.com) kayıt bağlantısını almak ve CPV ile iş ilişkisine sahip olan veya işletmelerini bilen bir Microsoft çalışanı sponsori sağlamak için başvurmalıdır. Örneğin, bir Iş ortağı Geliştirme Yöneticisi (PDM).
+      CPV'lerin kayıt bağlantısını almak ve CPV ile iş ilişkisi olan veya işletmesini bilen bir Microsoft çalışanı sponsoru sağlamak için [CPVHelp@microsoft.com](mailto:CPVHelp@microsoft.com) iletişim kurması gerekir. Örneğin, bir İş Ortağı Geliştirme Yöneticisi (PDM).
 
 
-      Iş Ortağı Merkezi 'ne kaydolduktan ve uygulamalarınızı kaydettikten sonra, Iş Ortağı Merkezi API 'Lerine erişebilirsiniz. Yeni bir CPV kullanıyorsanız, bir Iş Ortağı Merkezi bildirimi aracılığıyla korumalı alan bilgilerinizi alacaksınız. Kayıt işlemini Microsoft CPV olarak tamamladıktan sonra CPV sözleşmesini kabul etmiş olursunuz, şunları yapabilirsiniz:
+      Uygulamanıza kaydol İş Ortağı Merkezi ve uygulamalarınızı kaydettiniz mi, bu API'lere İş Ortağı Merkezi sahip oluruz. Yeni bir CPV'niz İş Ortağı Merkezi korumalı alan bilgilerini bir uyarı bildirimiyle alırsınız. Microsoft CPV olarak kaydı tamamlandıktan ve CPV anlaşmasını kabul ettiktan sonra:
 
 
-      -  Çok kiracılı uygulamayı yönetin (Azure portal uygulamalar ekleyin ve Iş Ortağı Merkezi 'nde uygulamaları kaydedin ve kaydını kaldırın).
+      -  Çok kiracılı uygulamayı yönetme (uygulamaları Azure portal uygulama ekleme ve uygulama kayıttan İş Ortağı Merkezi).
 
          >[!Note]
-         >Iş Ortağı Merkezi API 'Lerine yetki almak için, CPVs 'nin uygulamalarını Iş Ortağı Merkezi 'ne kaydetmesi gerekir. Uygulamaları tek başına Azure portal eklemek, Iş Ortağı Merkezi API 'Leri için CPV uygulamalarına yetki vermez.
+         >CPV'lerin api'ler için yetkilendiril İş Ortağı Merkezi uygulamalarını İş Ortağı Merkezi gerekir. Uygulamalar tek başına Azure portal api'ler için CPV uygulamalarını İş Ortağı Merkezi yetkilendirmez.
 
-      - CPV profilinizi görüntüleyin ve yönetin.
+      - CPV profilinizi görüntüleme ve yönetme.
 
 
-      - CPV özelliklerine erişmesi gereken kullanıcılarınızı görüntüleyin ve yönetin. Bir CPV yalnızca genel yönetici rolüne sahip olabilir.
+      - CPV özelliklerine erişmesi gereken kullanıcılarınızı görüntüleme ve yönetme. CPV yalnızca Genel Yönetici rolüne sahip olabilir.
   - question: >
-      Iş Ortağı Merkezi SDK 'sını kullanıyorum. SDK, güvenli uygulama modelini otomatik olarak benimsesin mi?
+      İş Ortağı Merkezi SDK'sı. SDK, otomatik olarak bu Güvenli Uygulama Modeli?
     answer: >
-      Hayır, [güvenli uygulama modeli kılavuzunda](https://assetsprod.microsoft.com/secure-application-model-guide.pdf)belirtilen yönergeleri izlemeniz gerekir.
+      Hayır, bu kılavuzda sağlanan yönergeleri Güvenli Uygulama Modeli [gerekir.](https://assetsprod.microsoft.com/secure-application-model-guide.pdf)
   - question: >
-      MFA 'nın etkin olmadığı hesaplara sahip güvenli uygulama modeli için yenileme belirteci oluşturabilir miyim?
+      MFA'nın etkin olduğu hesaplarla güvenli uygulama modeli için bir yenileme belirteci oluşturmam gerekir mi?
     answer: >
-      Evet, bir yenileme belirteci MFA Zorlanmış olmayan bir hesap kullanılarak oluşturulabilir. Ancak, bu kaçınılmalıdır. MFA 'nın etkin olmadığı bir hesap kullanılarak oluşturulan herhangi bir belirteç, MFA gereksinimi nedeniyle kaynaklara erişemeyecektir.
+      Evet, MFA uygulanmadan bir hesap kullanılarak yenileme belirteci oluşturulabilirsiniz. Ancak bu durum önılmalıdır. MFA etkin değil bir hesap kullanılarak oluşturulan herhangi bir belirteç, MFA gereksinimi nedeniyle kaynaklara erişe olmayacaktır.
   - question: >
-      MFA 'yı etkinleştireceğim uygulamamın erişim belirtecini nasıl alması gerekir?
+      MFA'yi etkinleştirirken uygulamam nasıl erişim belirteci elde eder?
     answer: >
-      Yeni güvenlik gereksinimleriyle uyumlu hale getirmek için nasıl yapılacağı hakkında ayrıntılı bilgi sağlayan [güvenli uygulama modeli kılavuzunu](https://assetsprod.microsoft.com/secure-application-model-guide.pdf) izlemeniz gerekir. [Burada .NET örnek kodunu ve Java](http://github.com/microsoft/Partner-Center-DotNet-Samples/tree/master/secure-app-model) örnek kodunu [burada](http://github.com/microsoft/Partner-Center-Java-Samples/tree/master/secure-app-model)bulabilirsiniz.
+      Yeni güvenlik gereksinimlerine [uygun Güvenli Uygulama Modeli](https://assetsprod.microsoft.com/secure-application-model-guide.pdf) ayrıntıları sağlayan Güvenli Uygulama Modeli kılavuzuna uyması gerekir. .NET örnek kodunu burada ve Java [örnek](http://github.com/microsoft/Partner-Center-DotNet-Samples/tree/master/secure-app-model) kodunu burada [bulabilirsiniz.](http://github.com/microsoft/Partner-Center-Java-Samples/tree/master/secure-app-model)
   - question: >
-      Bir CPV olarak, CPV kiracımızda veya CSP iş ortağının kiracısında bir Azure AD uygulaması oluştururum mı?
+      CPV olarak, CPV kiracımızda veya CSP iş ortağının kiracısı olarak bir Azure AD uygulaması oluşturabilir miyim?
     answer: >
-      cpv 'nin, kendi kaydıyla ilişkili kiracıda bir cpv olarak Azure Active Directory uygulamayı oluşturması gerekir.
+      CPV'nin CPV olarak Azure Active Directory kiracıda bir uygulama oluşturması gerekir.
   - question: >
       Yalnızca uygulama kimlik doğrulaması kullanan bir CSP kullanıyorum. Herhangi bir değişiklik yapmam gerekiyor mu?
     answer: >

@@ -1,26 +1,26 @@
 ---
 title: Mart 2021 duyuruları
-description: Yeni yetenekler, promosyonlar, teklifler, pazarlar veya mevcut tekliflerle ilgili değişiklikler dahil olmak üzere Microsoft Iş Ortağı Merkezi için Mart 2021 duyuruları.
+description: Yeni özellikler, promosyonlar, teklifler, pazarlar İş Ortağı Merkezi mevcut tekliflerde yapılan değişiklikler dahil olmak üzere Microsoft İş Ortağı Merkezi için Mart 2021 duyuruları.
 ms.topic: article
 ms.service: partner-dashboard
-ms.subservice: partnercenter-action-center
+ms.subservice: partnercenter-announcements
 author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 04/02/2021
-ms.openlocfilehash: f9b9b0af0e46591e981c6421cb2ce30e271eee79
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: d03bbc6c48f7048dd111a7b83210d11c5c266977
+ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114838691"
+ms.lasthandoff: 08/04/2021
+ms.locfileid: "115100421"
 ---
 # <a name="march-2021-announcements"></a>Mart 2021 duyuruları
 
-Bu sayfada Mart 2021 için Microsoft Iş Ortağı Merkezi duyuruları sağlanmaktadır.
+Bu sayfa, Mart 2021 için Microsoft İş Ortağı Merkezi duyurularını sağlar.
 
-## <a name="readiness-changes-to-the-cloud-solution-provider-csp-customer-address-validation-api-going-live-in-june-testing-capability-now-available"></a><a name="19"></a>hazırlık: Bulut Çözümü Sağlayıcısı (CSP) müşteri adresi doğrulama apı 'sindeki değişiklikler haziran ayında etkin olacak. test özelliği artık kullanılabilir
+## <a name="readiness-changes-to-the-cloud-solution-provider-csp-customer-address-validation-api-going-live-in-june-testing-capability-now-available"></a><a name="19"></a>Hazır olma: Bulut Çözümü Sağlayıcısı (CSP) müşteri adresi doğrulama API'sinde yapılan değişiklikler Haziran ayında yayınlanacak; test özelliği artık kullanılabilir
 
 ### <a name="categories"></a>Kategoriler
 
@@ -29,34 +29,34 @@ Bu sayfada Mart 2021 için Microsoft Iş Ortağı Merkezi duyuruları sağlanmak
 
 ### <a name="summary"></a>Özet
 
-İş ortakları ve müşterilerin işletmelerini temel alarak işlerini çalıştırmasına yardımcı olmak için iş ortaklarını, dünyanın her yerindeki tüm ülkeler için doğrulama adresi API 'sine test etmek üzere davet edeceğiz.
+İş ortaklarının ve müşterilerin işletmelerini güvene dayalı olarak çalıştırmalarına yardımcı olmak için, iş ortaklarını dünya genelindeki tüm ülkeler için Adresi Doğrula API'lerinde yapılan değişiklikleri test etmeye davet ediyoruz.
 
-### <a name="impacted-audience"></a>Etkilenen hedef kitle
+### <a name="impacted-audience"></a>Etkilene hedef kitle
 
-CSP doğrudan fatura ortakları ve yeni yeni veya mevcut müşterileri güncelleştiren dolaylı sağlayıcılar adres ayrıntıları.
+CsP doğrudan fatura iş ortakları ve mevcut müşterilerin adres ayrıntılarını yeni veya güncelleştiren dolaylı sağlayıcılar.
 
 ### <a name="details"></a>Ayrıntılar
 
-Microsoft, güvende çalışır. CSP programındaki deneyimidir müşteri abonelikleri için uyumlu, güvenli ve güvenli bir müşteri adresi doğrulama yöntemi sağlamayı taahhüt ediyoruz. 31 Mart 2021 itibariyle, Haziran 2021 ' deki değişikliklerle çalışmaya başlamadan önce iş ortaklarını test etmek üzere davet ettiğimiz doğrulama adresi API 'sine yönelik değişiklikler sunuyoruz.
+Microsoft güven üzerinde çalışır. CSP programında müşteri aboneliklerinin işlemesi için uyumlu, güvenli ve güvenli bir müşteri adresi doğrulama yöntemi sağlama konusunda kararlıyız. 31 Mart 2021'den baş olarak, Haziran 2021'de yapılan değişikliklerle birlikte canlı yayına devam etmek için iş ortaklarını test etmek için davet edilen Adresi Doğrula API'sinde değişikliklerini açıkladık.
 
-Değişiklikler yalnızca adresi doğrula API 'sini etkiler. Müşteri oluşturma ve faturalandırma profilini güncelleştirme API 'Leri etkilenmemektedir.
+Değişiklikler yalnızca Adresi Doğrula API'sini etkiler. Müşteri Oluşturma ve Faturalama Profili API'lerini güncelleştirme işlemi etkilenmez.
 
-Yanıt aşağıdaki durum iletilerinden birini döndürür:
+Yanıt aşağıdaki durum iletilerinden birini geri dönecektir:
 
-| Durum     | Açıklama |    Döndürülen önerilen adreslerin sayısı |
+| Durum     | Açıklama |    Döndürülen önerilen adres sayısı |
 |-------|---------------|-------------------|
-|Doğrulanan sevk özellikli | Adres doğrulanır ve sevk edilebilir. | Tek |
-|Doğrulanamayan | Adres doğrulandı. | Tek |
-|Etkileşim gerekli | Önerilen adres önemli ölçüde değiştirildi ve kullanıcı onayı gerekiyor. | Tek |
-|Cadde kısmi | Adreste verilen cadde kısmi ve daha fazla bilgi gerekiyor. | Birden çok — en fazla üç |
-|Şirket içi kısmi | Verilen şirket içi (bina numarası, paket numarası ve diğerleri) kısmi ve daha fazla bilgi gerekiyor. | Birden çok — en fazla üç |
-|Birden çok | Adreste kısmi olan birden çok alan vardır (büyük olasılıkla cadde kısmi ve şirket içi kısmı da dahil). | Birden çok — en fazla üç |
+|Doğrulanmış gönderilebilir | Adres doğrulanır ve adresine gönderebilirsiniz. | Tek |
+|Doğrulandı | Adres doğrulandı. | Tek |
+|Etkileşim gerekiyor | Önerilen adres önemli ölçüde değiştirildi ve kullanıcı onayı gerekiyor. | Tek |
+|Sokak kısmii | Adreste verilen sokak kısmidir ve daha fazla bilgiye ihtiyaç vardır. | Çoklu— en fazla üç |
+|Kısmi şirket içi | Verilen şirket (bina numarası, paket numarası ve diğerleri) kısmidir ve daha fazla bilgiye ihtiyaç vardır. | Çoklu— en fazla üç |
+|Birden çok | Adreste kısmi olan birden çok alan vardır (kısmi sokak ve kısmi şirket de dahil olmak üzere). | Çoklu— en fazla üç |
 |Hiçbiri | Adres yanlış. | Hiçbiri |
-|Doğrulanmamış | Adres, doğrulama işlemi aracılığıyla gönderilemedi. | Hiçbiri |
+|Doğrulanmamış | Adres doğrulama işlemi aracılığıyla gönderileemedi. | Hiçbiri |
 
-ABD Post kodları, 4 basamaklı bir ve daha fazla tire döndürür. Örneğin, 12345-6789.
+ABD posta kodları ek 4 rakam + kısa çizgi (örneğin, 12345-6789) dönüşecek.
 
-Adres doğrulama API 'SI aracılığıyla doğrulama için bir adres gönderildikten sonra, aşağıdaki yanıt şeması döndürülür:
+Adresi Doğrulama API'si aracılığıyla doğrulama için bir adres gönderildikten sonra aşağıdaki yanıt şeması döndürülür:
 
 ```csharp
 
@@ -99,7 +99,7 @@ public class AddressValidationResponse
    public string ValidationMessage { get; set; }
    ```
 
-Bu örnek yanıta göz atın. ABD için, posta kodu için yalnızca beş basamak girerseniz, yanıt posta kodu satırı için dört basamaklı ek bir sonek döndürdüğüne göz önünde koyun.
+Bu örnek yanıta göz at. Posta kodu için yalnızca beş basamak girersiniz, ABD için yanıt posta kodu satırı için dört basamaklı ek bir sonek daha dönecektir.
 
 ```csharp
 
@@ -124,22 +124,22 @@ Bu örnek yanıta göz atın. ABD için, posta kodu için yalnızca beş basamak
 
 ### <a name="next-steps"></a>Sonraki adımlar
 
-- Güncelleştirme için hazırlamaya başlayabilmeniz için, korumalı alan kiracı KIMLIĞINIZI, test uçuşna dahil edilecek konu uzmanı (Ali Haki) ile paylaşabilirsiniz.
+- Güncelleştirme için hazırlanmaya başlayabilirsiniz. Bu nedenle, korumalı alan kiracı kimliğinizi test uçuşuna dahil edilecek konu uzmanı (AliSinki) ile paylaşın.
 
-- Bir denetim masası satıcısı (CPV) çözümü kullanıyorsanız, CPV 'nize başvurun.
+- Denetim masası satıcısı (CPV) çözümü kullanıyorsanız CPV'nize başvurun.
 
 ### <a name="questions"></a>Sorularınız mı var?
 
-Microsoft ile işlemlere yönelik desteğe ihtiyacınız varsa, iş ortağı destek Yammer grubunuza ulaşın.
+Microsoft ile olan işlemleriniz için de destek gerekirse, iş ortağı destek grubuyla Yammer olun.
 
 ### <a name="change-log"></a>Değişiklik günlüğü:
 
-- 31 Mart 2020: özgün yayın
+- 31 Mart 2020: Özgün yayın
 
-- 30 Nisan 2021: örnek yanıt ve ZIP kodu ayrıntıları için güncelleştirmeler
+- 30 Nisan 2021: Örnek yanıt ve Posta kodu ayrıntıları için güncelleştirmeler
 
 ________________
-## <a name="new-exchange-admin-center-eac-experience"></a><a name="18"></a>yeni Exchange yönetim merkezi (eac) deneyimi
+## <a name="new-exchange-admin-center-eac-experience"></a><a name="18"></a>Yeni Exchange yönetim merkezi (EAC) deneyimi
 
 ### <a name="categories"></a>Kategoriler
 
@@ -148,68 +148,68 @@ ________________
 
 ### <a name="summary"></a>Özet
 
-27 nisan 2021 ' den itibaren, Exchange yönetim merkezi (eac), kullanıcılar için günlük verimliliği iyileştirecek yeni bir deneyim kullanıma sunacaktır.
+27 Nisan 2021'den başlayarak Exchange yönetim merkezi (EAC) kullanıcılar için günlük verimliliği geliştirecek yeni bir deneyim sunuyor.
 
-### <a name="impacted-audience"></a>Etkilenen hedef kitle
+### <a name="impacted-audience"></a>Etkilene hedef kitle
 
-iş ortağı merkezi üzerinden Exchange erişen yönetici temsilcileri
+Exchange üzerinden İş Ortağı Merkezi
 
 ### <a name="details"></a>Ayrıntılar
 
-27 nisan 2021 ' den itibaren, iş ortağı merkezi üzerinden Exchange ' a giderek çalışan iş ortakları yeni eac 'ya yönlendirilir.
+27 Nisan 2021'den başlayarak, Exchange aracılığıyla İş Ortağı Merkezi iş ortakları yeni EAC'ye yeniden yönlendirecek.
 
-Bu yeni deneyim Şu anda önizleme olarak sunulmaktadır ve Yöneticiler, klasik EAC içinde sağ üst köşedeki geçişi seçerek bu deneyimi etkinleştirebilir. Ayrıca, tüm sayfalarda görüntülenen "Şimdi deneyin" başlığını seçerek yeni duyak 'e gidebilir.
+Bu yeni deneyim şu anda önizleme olarak sunulmaktadır ve yöneticiler klasik EAC'nin sağ üst köşesindeki iki durumlu düğmeyi seçerek bu deneyimi etkinleştirerek bu deneyimi etkinleştir kullanılabilir. Ayrıca tüm sayfalarda görüntülenen "Şimdi deneyin" başlığı seçerek yeni EAC'ye de gidebilirsiniz.
 
-Yeni EAC 'nin avantajları şunlardır:
+Yeni EAC'nin avantajları şunlardır:
 
-- Posta akışı ile ilgili sorunlar için Öngörüler, raporlar ve uyarı mekanizmaları eklendi. 
+- Posta akışıyla ilgili sorunlar için içgörüler, raporlar ve uyarı mekanizmaları eklendi. 
 
 - Üretkenliği artırmak için kişiselleştirilmiş panolar.
 
-Yeni deneyimin içinde gezinmenize yardımcı olmak için, yeni EAC deneyiminde **eğitim & Kılavuzu** bölümünde videolar bulunur. Bu, size yeni portalı en iyi şekilde nasıl kullanabileceğinizi gösteren bir genel bakış sunar.
+Yeni deneyimde gezinmenize yardımcı olmak için yeni EAC **deneyiminin Eğitim &** Kılavuzu bölümünde videolar mevcuttur. Bunlar, yeni portalı en iyi şekilde nasıl kullanabileceğiniz hakkında genel bir bakış sağlar.
 
 >[!NOTE]
->Bu değişiklik ile klasik EAC deneyimi kullanım dışı olmayacaktır. Herhangi bir değişiklik uygulanmadan önce iyi bir bildirim alırsınız.
+>Bu değişiklikle, klasik EAC deneyimi kullanım dışı olmayacaktır. Herhangi bir değişiklik uygulanmadan önce size önceden bildirilecek.
 
 ### <a name="next-steps"></a>Sonraki adımlar
 
-- Yeni deneyimin ekran görüntülerini görüntüleyebileceğiniz [Bu konuyla ilgili kaynaklara](https://partner.microsoft.com/resources/collection/new-exchange-admin-center-experience#/)göz atın.
+- Yeni [deneyimin ekran görüntülerini](https://partner.microsoft.com/resources/collection/new-exchange-admin-center-experience#/)görüntüyebilirsiniz. Bu konu başlığıyla ilgili kaynaklara göz atabilirsiniz.
 
-- Bu bilgileri, kuruluşunuzdaki uygun paydaşlarla paylaşabilirsiniz. 
+- Bu bilgileri, kuruluşta uygun proje katılımcıları ile paylaşın. 
 
 ### <a name="questions"></a>Sorularınız mı var?
 
-bu değişiklikler hakkında herhangi bir soru için ilgili Yammer topluluklarınızı kontrol edin.
+Bu değişikliklerle ilgili sorularınız için ilgili toplulukları Yammer kontrol edin.
 
 ________________
-## <a name="microsoft-operations-introducing-the-product-launch-calendar"></a><a name="17"></a>Microsoft Işlemleri: ürün başlatma takvimini tanıtma
+## <a name="microsoft-operations-introducing-the-product-launch-calendar"></a><a name="17"></a>Microsoft İşlemleri: Ürün lansman takvimini tanıtma
 
 ### <a name="categories"></a>Kategoriler
 
 - Tarih: 2021-03-25
-- Teklifler | Modern çalışma alanı
+- Teklif | Modern Çalışma Alanı
 
 ### <a name="summary"></a>Özet
 
-İş ortağı geri bildirimlerine yanıt olarak, Microsoft Işlemleri ürün başlatma ile ilgili iletişimleri kolaylaştıracaktır.
+İş ortağı geri bildirimlerine yanıt olarak Microsoft İşlemleri, ürün lansmanları için iletişimi kolaylaştıracak.
 
-### <a name="impacted-audience"></a>Etkilenen hedef kitle
+### <a name="impacted-audience"></a>Etkilene hedef kitle
 
 Bulut Çözümü Sağlayıcısı (CSP) iş ortakları
 
 ### <a name="details"></a>Ayrıntılar
 
-Microsoft, iş ortağı deneyimlerini sürekli olarak geliştirmeye kararlıdır. Microsoft 'tan çok fazla iletişim aldığınızı ve ürün başlatma için tekrarlanan Duyurular dahil ettiğimiz hakkında geri bildirimde bulunduk.
+Microsoft, iş ortağı deneyimlerini sürekli geliştirmeye kararlıdır. Microsoft'tan çok fazla iletişim aldığını ve ürün lansmanları için yinelenen duyurular da dahil olmak üzere geri bildirim aldık.
 
-Microsoft, geri bildiriminiz doğrultusunda, yeni ve mevcut tekliflerle ilgili ürün için hazırlık deneyimini kolaylaştırmıştır.
+Geri bildiriminize yanıt olarak Microsoft, yeni ve mevcut teklifler için ürün lansmanlarına hazır olma deneyimini kolaylaştırdı.
 
-Artık, Işlem hazırlık kaynağı galerisinde yayınlanan ürünün tek bir aylık görünümünü sunuyoruz. Bu aylık [ürün başlatma takvimi görünümü](https://partner.microsoft.com/resources/collection/product-launch-calendar-collection#/) , işlem hazırlık kaynağı galerisindeki ve Iş Ortağı Merkezi bildirilerinde tek tek ürün başlatma iletişimlerinin yerini alır.
+Şimdi operasyon hazırlığı kaynak galerisinde yayımlanan ürün lansmanlarının tek bir aylık görünümünü sağlarız. Bu aylık [ürün lansman takvim görünümü,](https://partner.microsoft.com/resources/collection/product-launch-calendar-collection#/) İşlemler için hazır olma kaynak galerisinde ve uygulama duyurularında ürün İş Ortağı Merkezi yerini alacak.
 
-Bu [ürün başlatma takvimine](https://partner.microsoft.com/resources/collection/product-launch-calendar-collection#/) [topluluk koleksiyonları](https://partner.microsoft.com/resources/collection/product-launch-calendar-collection#/), [Takvim görünümleri](https://partner.microsoft.com/resources/assets#/?type=collection&search=Calendar&sort=updated)ve [CSP bültenleri](https://partner.microsoft.com/resources/collection/csp-monthly-update#/)' nden de erişebilirsiniz. Her ayın ürün başlatma takvimini, Işlem hazırlık kaynağı galerisinde bir duyuru ile yayımladığımızda sizi bilgilendireceğiz.
+Bu ürün lansman [takvimine topluluk](https://partner.microsoft.com/resources/collection/product-launch-calendar-collection#/) [koleksiyonlarından, takvim görünümlerinden](https://partner.microsoft.com/resources/collection/product-launch-calendar-collection#/) [ve](https://partner.microsoft.com/resources/assets#/?type=collection&search=Calendar&sort=updated) [CSP bültenlerinden de erişebilirsiniz.](https://partner.microsoft.com/resources/collection/csp-monthly-update#/) Her ayın ürün lansman takvimini, İşlemler için hazır olma kaynak galerisinde bir duyuru ile yayımlayacaz.
 
-Fiyat listesi önizlemesi ve fiyat listesi değişiklik günlüklerinde ve ürün bloglarında, lisanslama kılavuzlarında ve ürün pazarlama sayfalarında yeni ve mevcut tekliflerle ilgili bilgiler bulabilirsiniz.
+Yeni ve mevcut tekliflere ilişkin bilgileri fiyat listesi önizleme ve fiyat listesi değişiklik günlüklerinde, ayrıca ürün bloglarında, lisanslama kılavuzlarında ve ürün pazarlama sayfalarında bulabilirsiniz.
 
-Değişiklik, aşağıdaki ürünler için başlatılır.
+Bu değişiklik, aşağıdaki ürünler için lansmanlar için geçerli olacaktır:
 
 - Dynamics şirket içi
 - Microsoft 365
@@ -631,7 +631,7 @@ Bu konu başlığıyla ilgili kaynakları gözden geçirme ve bu bilgileri kurul
 
 ### <a name="questions"></a>Sorularınız mı var?
 
-Bu teklifler hakkında sorularınız için ilgili topluluklar için Yammer kontrol edin.
+Bu teklifler hakkında sorular için ilgili topluluklar için Yammer kontrol edin.
 
 ________________
 ## <a name="migrate-your-solutions-from-one-commercial-partner-ocp-go-to-market-gtm-to-the-microsoft-commercial-marketplace"></a><a name="7"></a> Çözümlerinizi Bir Ticari İş Ortağından (OCP) pazara satışa (GTM) Microsoft ticari markete geçirme
@@ -895,7 +895,7 @@ Teklif adının fiyat listesi önizlemeden biraz farklı olduğunu unutmayın.
 
 ### <a name="next-steps"></a>Sonraki adımlar
 
-Fiyat listesi ve genel bakış hakkında bilgi [Evrensel Yazdırma edinebilirsiniz.](/universal-print/fundamentals/universal-print-whatis) Bu bilgileri, kuruluşta tüm uygun kişilerle paylaşın.
+Fiyat listesi ve genel bakış hakkında bilgi [Evrensel Yazdırma edinebilirsiniz.](/universal-print/fundamentals/universal-print-whatis) Bu bilgileri, kuruluşta tüm uygun kişiler ile paylaşın.
 
 ### <a name="questions"></a>Sorularınız mı var?
 

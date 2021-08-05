@@ -3,18 +3,18 @@ title: Atadığınız rolü bulun
 description: Atadığınız rolü, izinlerinizi ve genel yöneticinizle bulmak için Iş Ortağı Merkezi 'ne nereden gidebileceğinizi öğrenin.
 ms.topic: how-to
 ms.service: partner-dashboard
-ms.subservice: partnercenter-enroll
+ms.subservice: partnercenter-account
 ms.custom: contperf-fy21q2
 author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.date: 10/12/2020
-ms.openlocfilehash: ea42372fe9a39dc0a58c83957d2bccb0405bd54e
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: e7e18c967481e0bfb6e6b8466746beb5ed8459b9
+ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114840696"
+ms.lasthandoff: 08/04/2021
+ms.locfileid: "115100026"
 ---
 # <a name="find-your-role-your-permissions-and-your-global-admin"></a>Rolünüzü, izinlerinizi ve genel yöneticinizle bulun
 

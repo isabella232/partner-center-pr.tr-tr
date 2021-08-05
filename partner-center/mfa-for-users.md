@@ -3,18 +3,18 @@ title: Kullanıcılarınız için çok faktörlü kimlik doğrulaması ayarlama
 ms.topic: how-to
 ms.date: 12/15/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-enroll
+ms.subservice: partnercenter-account
 description: MFA ile çalışanlarınızın kurulumunu öğrenin
 author: vijvala
 ms.author: vijvala
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ee457193a23de0601b60b2291cdee985aceaaeb8
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 4ff0aa89224c13eddcc6b935c8494188298aeb12
+ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114846120"
+ms.lasthandoff: 08/04/2021
+ms.locfileid: "115100731"
 ---
 # <a name="set-up-your-users-with-multi-factor-authentication"></a>Kullanıcılarınız için çok faktörlü kimlik doğrulaması ayarlama
 

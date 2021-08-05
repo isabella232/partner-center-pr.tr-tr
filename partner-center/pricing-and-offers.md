@@ -1,76 +1,75 @@
 ---
 title: Fiyatlandırma ve teklifler
 ms.topic: article
-ms.date: 01/07/2021
+ms.date: 07/30/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-pricing
-description: Office 365, Microsoft Dynamics CRM ve Enterprise Mobility Suite gibi lisans tabanlı hizmetler ve Azure gibi kullanım tabanlı hizmetler için geçerli fiyat listelerine bakın.
+description: Office 365, Microsoft Dynamics CRM ve Enterprise Mobility Suite gibi lisans tabanlı hizmetler için geçerli fiyat listelerine ve Azure gibi kullanım tabanlı hizmetlere bakın.
 author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 87f3f287c02b6dfe4af3f70a0985e8290e76a4e3
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: d03300ec89a877af3e02b6bd6567f6b1a832a397
+ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114841088"
+ms.lasthandoff: 08/04/2021
+ms.locfileid: "115101745"
 ---
 # <a name="pricing-and-offers-for-office-365-dynamics-crm-enterprise-mobility-suite-azure-and-more"></a>Office 365, Dynamics CRM, Enterprise Mobility Suite, Azure ve daha fazlası için fiyatlandırma ve teklifler
 
+**Uygun roller**: genel yönetici | Kullanıcı Yönetimi Yöneticisi | Yönetici Aracısı | MPN iş ortağı Yöneticisi | Satış Aracısı | Faturalama yöneticisi
 
-**Uygun roller:** Genel yönetici | Kullanıcı yönetimi yönetici | Yönetici aracısı | MPN iş ortağı yönetici | Satış aracısı | Faturalama yöneticisi
+en son Bulut Çözümü Sağlayıcısı (CSP) programlarını ve tekliflerini görmek için, iş ortağı portalı panosundan **satış > fiyatları ve teklifleri**' ne gidin. Kullanılabilir farklı ürün türleri için ayrı fiyat listeleri bulacaksınız. **Fiyatlandırma ve teklifler** sayfasında aşağıdaki fiyat listeleri mevcuttur:
 
-En son Bulut Çözümü Sağlayıcısı (CSP) programlarını ve tekliflerini görmek için İş Ortağı Portalı panosundan Fiyatlandırma ve Teklifler **>'ye gidin.** Kullanılabilir farklı ürün türleri için ayrı fiyat listeleri bulabilirsiniz. Aşağıdaki fiyat listeleri Fiyatlandırma ve Teklifler **sayfasında** mevcuttur:
-
-- **Lisans tabanlı hizmetler,** Office 365, Enterprise Mobility ve Security E3 ve Dynamics 365 için fiyatlandırma bilgilerini içerir. Lisans tabanlı fiyatlandırma bölümü geçerli ve önizleme fiyatlandırmasını ve teklif listesi matrisini içerir. Fiyat listeleri, desteklenen tüm para birimlerinde teklifler için liste fiyatını ve tahmini perakende fiyatlarını (ERP) içerir. Teklif listesi matrisi, pazar kullanılabilirliğini ve teklifler hakkında diğer önemli bilgileri içerir. Bu dosyalar her ayın ilk gününde güncelleştirilir.
+- **lisans tabanlı hizmetler** Office 365, Enterprise Mobility ve Security E3 ve Dynamics 365 için fiyatlandırma bilgilerini içerir. Lisans tabanlı fiyatlandırma bölümü, geçerli ve önizleme fiyatlandırmasını ve teklif listesi matrisini içerir. Fiyat listeleri, tüm desteklenen para birimlerindeki teklifler için liste fiyatını ve tahmini perakende fiyatlarını (ERP) içerir. Teklif listesi matrisi, Pazar kullanılabilirliği ve tekliflerle ilgili diğer önemli bilgileri içerir. Bu dosyalar her ayın ilk gününde güncelleştirilir.
    > [!NOTE]
-   > Liste ve ERP fiyatları aylık faturalama sıklığına göredir. Yıllık faturalama sıklığı için aylık fiyatı 12 ile çarpın.
-- **Kullanım tabanlı hizmetler,** veri ve hizmet Microsoft Azure fiyatlandırma Visual Studio. CSP Fiyatlandırma [Hesaplayıcısı'nın Azure Hizmetleri'ni de kullanabilirsiniz.](https://azure.microsoft.com/pricing/calculator/) Kullanım tabanlı indirme hem desteklenen tüm para birimleri için CSP fiyat listelerini hem de ERP'de Paylaşılan Hizmetler fiyatlandırma dosyalarını içerir. Bu dosyalar her ayın ilk gününde güncelleştirilir.
-- **Microsoft Azure Örnekleri,** Azure Ayrılmış Örnekleri için desteklenen tüm para birimlerine ilişkin fiyatlandırma bilgilerini içerir. Fiyatlandırma indirmesi ERP'de Paylaşılan Hizmetler fiyatlandırması da içerir. Bu dosyalar her ayın ilk gününde güncelleştirilir.
-- **Yazılım abonelikleri,** desteklenen tüm para birimleri için terim tabanlı yazılım abonelikleri için fiyatlandırma içerir. Fiyat dosyası liste fiyatı ve üretici tarafından önerilen perakende fiyatı (MSRP) ile desteklenen tüm para birimlerini içerir. Bu dosyalar her ayın ilk gününde güncelleştirilir.
-- **Azure planı fiyatlandırması,** Azure planı tüketim hizmetleri ve Azure planı rezervasyon fiyatlandırması için fiyatlandırma bilgilerini içerir. Fiyatlar doğrudan fiyatlar veya ERP'dir ve desteklenen herhangi bir pazar için alınamıyor. Bu dosyalarda yer alan veriler her gün yenilenir.
-- **Döviz kurları,** ABD doları ile iş ortaklarının yerel para birimi arasında ücret tahsil edilecek faturalamayı hesaplamak için kullanılır. Fiyatlar her ayın ilk günü güncelleştirilir ve verilen ay için fiyatlar kullanılabilir yapılır. Bu dosyalar her ayın ilk gününde güncelleştirilir.
-- **Market,** Microsoft'un ticari marketlerinden bağımsız yazılım satıcısı (ISV) çözümleri için fiyatlandırma içerir. Fiyatlar pazar başına alınır. Bu dosyalarda yer alan veriler her gün yenilenir.
+   > Liste ve ERP fiyatları, aylık faturalandırma sıklığıyla aynıdır. Yıllık faturalandırma sıklığı için aylık fiyatı 12 ile çarpın.
+- **kullanım tabanlı hizmetler** Microsoft Azure ve Visual Studio için fiyatlandırma bilgilerini içerir. Ayrıca, [CSP Fiyatlandırma Hesaplayıcı ' da Azure hizmetlerini](https://azure.microsoft.com/pricing/calculator/)kullanabilirsiniz. Kullanım tabanlı indirme, her türlü desteklenen para birimi için CSP fiyat listelerini ve ERP 'de paylaşılan hizmetler fiyatlandırma dosyalarını içerir. Bu dosyalar her ayın ilk gününde güncelleştirilir.
+- **Microsoft Azure ayrılmış örnekler** , Azure ayrılmış örnekleri için desteklenen tüm para birimlerine yönelik fiyatlandırma bilgilerini içerir. Fiyatlandırma indirmesi, ERP 'de paylaşılan hizmetler fiyatlandırmasını de içerir. Bu dosyalar her ayın ilk gününde güncelleştirilir.
+- **Yazılım abonelikleri** , desteklenen tüm para birimlerine yönelik terim tabanlı yazılım abonelikleri için fiyatlandırma içerir. Fiyat dosyası, liste fiyatı ve üretici tarafından önerilen perakende fiyatı (MSRP) içeren tüm desteklenen para birimlerini içerir. Bu dosyalar her ayın ilk gününde güncelleştirilir.
+- Azure **plan fiyatlandırması** , Azure plan tüketim Hizmetleri ve Azure plan rezervasyon fiyatlandırması için fiyatlandırma bilgilerini içerir. Fiyatlar doğrudan fiyatlar veya ERP olur ve desteklenen herhangi bir pazar için alınabilir. Bu dosyalardaki veriler her gün yenilenir.
+- **Yabancı Exchange ücretleri** , USD ve iş ortakları yerel para birimi arasında ücretlendirilen faturalandırmayı hesaplamak için kullanılır. Ücretler her ayın ilk gününde güncelleştirilir ve verilen ay için doğru, ücretleri kullanılabilir hale getirir. Bu dosyalar her ayın ilk gününde güncelleştirilir.
+- **Market** , Microsoft 'un ticari Market 'ten bağımsız yazılım SATıCıSı (ISV) çözümleri için fiyatlandırma içerir. Fiyatlar, Pazar başına alınır. Bu dosyalardaki veriler her gün yenilenir.
 
 > [!Note] 
-> Yalnızca işlem yeteneğine sahip CSP iş ortakları fiyat listelerini görüntüleme ve indirme olanağına sahip olabilir. Dolaylı kurumsal bayilerin [fiyatlandırmayla ilgili ayrıntıları talep etmek için CSP]( https://partner.microsoft.com/cloud-solution-provider/find-a-provider) sağlayıcısıyla iletişim kurması gerekir
+> Yalnızca Transact özelliğine sahip CSP iş ortakları fiyat listelerini görüntüleyebilir ve indirebilir. Dolaylı satıcıların fiyatlandırma hakkındaki ayrıntıları istemesi için [CSP sağlayıcısıyla iletişim kurabilmesi]( https://partner.microsoft.com/cloud-solution-provider/find-a-provider) gerekir
 
-## <a name="price-list-preview-and-change-frequency"></a>Fiyat listesi önizlemesi ve değişiklik sıklığı 
+## <a name="price-list-preview-and-change-frequency"></a>Fiyat listesi önizleme ve değiştirme sıklığı 
 
-Lisans tabanlı hizmetler, değişikliklerden 30 gün önce sağlanan fiyat listesi önizlemesini içerir. Fiyat listesi önizlemesini görmek için Bkz. **Fiyatlandırma ve teklifler > satış.** Bu hizmetler dinamik olduğu için kullanım tabanlı hizmetler için fiyat önizlemesi yoktur. Aşağıdaki tabloda fiyat listesi tablosu nasıl okunacak açık açıklamadır.
+Lisans tabanlı hizmetler, herhangi bir değişiklikten önce 30 gün içinde sunulan bir fiyat listesi önizlemesi içerir. Fiyat listesi önizlemesini görmek için, **satış > fiyatlandırma ve teklifleri**' ne gidin. Bu hizmetler dinamik olduğundan, kullanım tabanlı hizmetler için bir fiyat önizleme yoktur. Aşağıdaki tabloda, Fiyat listesi tablosunun nasıl okunacağı açıklanmaktadır.
 
 |**Öğe**        |**Tanım**      |
 |:-----------   |:-----------   |
-|Ekle   |Fiyat listesinde yeni bir öğe|
-|Çetin   |Aydan aya kadar liste fiyatında değişiklikler. Liste fiyatıyla ilgili diğer değişiklikler oluşabilir, iş ortaklarının diğer özelliklerde yapılan değişiklikleri belirlemek için fiyat listelerini aylar arasında karşılaştırması gerekir.|
-|DEL   |Fiyat listesinden kaldırılan öğe|
-|UNC   |Önceki ayın fiyat listesinden değişmeyen liste fiyatı  |
-|Geçerlilik başlangıç tarihi   |Teklifin sipariş edilebilir ilk tarihi    |
-|Geçerlilik tarihi   |Bir teklifin sipariş edilebilir son tarihi   |
-|Teklif görünen adı   |Teklif için müşteriye yönelik ad   |
+|EKLEYEMIYORUM   |Fiyat listesine yeni bir öğe|
+|CHG   |Liste fiyatındaki aydan aya kadar olan değişiklikler. Liste fiyatıyla ilgili olan diğer değişiklikler ortaya çıkabilir, iş ortakları diğer özelliklerde yapılan değişiklikleri öğrenmek için aylar arasındaki fiyat listelerini karşılaştırmalıdır.|
+|DEL   |Fiyat listesinden kaldırılan bir öğe|
+|UNC   |Önceki ayın fiyat listesinden fiyat listesi  |
+|Geçerlilik bitiş tarihi   |Teklifin sipariş edilebilir ilk tarihi    |
+|Geçerli tarih   |Teklifin sipariş edileceği son tarih   |
+|Teklif görünen adı   |Teklifin müşterinin karşısındaki adı   |
 |Teklif Kimliği   |Teklifin iç tanımlayıcısı   |
-|Lisans sözleşmesi türü   |Lisans sözleşmesi türleri kurumsal, kamu veya akademik olabilir. Anlaşma türü, teklifin hangi müşteri türlerine satıldığını belirler.|
+|Lisans sözleşmesi türü   |Lisans sözleşmesi türleri Şirket, kamu veya akademik olabilir. Anlaşma türü, teklifin hangi müşteri türlerine satılamayabileceğini belirler.|
 |Satın alma birimi   |Satın alınan teklifin süresi. Satın alma birimleri genellikle bir aydır.   |
-|İkincil lisans türü   |İkincil lisans türleri özel olmayan, eklenti veya deneme sürümü olur. Eklenti, müşterinin eklentiyi satın almadan önce satın almaları gereken önkoşul ürünleri olduğunu gösterir.|
-|Son müşteri türü   |Lisans sözleşmesi türüyle ilgilidir: kurumsal lisans - bulut kurumsal bayi kurumsal, kamu lisansı - bulut kurumsal bayi kamu veya akademik lisans - bulut kurumsal bayi fakülteleri veya bulut kurumsal bayi öğrenci   |
-|Liste fiyatı   |İş ortağının ödey ücreti   |
-|ERP fiyatı   |Müşteriye tahmini veya önerilen perakende fiyatı   |
+|İkincil lisans türü   |İkincil lisans türleri, belirli olmayan, eklenti veya deneme sürümü olacaktır. Eklenti, müşterinin eklentiyi satın almadan önce satın alması gereken önkoşul ürünleri olduğunu gösterir.|
+|Son müşteri türü   |Lisans Sözleşmesi ile geri ilişki: Kurumsal Lisans-bulut satıcısı kurumsal, Kamu Lisansı-bulut satıcısı kamu veya akademik lisans-bulut satıcısı fakülte veya bulut Bayi öğrenci   |
+|Fiyat listesi   |Ortağın ödeyeceğiniz fiyat   |
+|ERP fiyatı   |Müşteriye yönelik tahmini veya önerilen perakende fiyatı   |
 
 ## <a name="price-changes"></a>Fiyat değişiklikleri
 
-Fiyat değişiklikleri yaygın bir durumdur. İş ortakları, fiyat listesi önizleme sürümüne bakarak lisans tabanlı teklifler için fiyat değişikliklerini tahmin ediyor olabilir. Fiyat İş Ortağı Merkezi önizlemesini görmek için Fiyatlandırma ve Teklifler sayfasını açın.
+Fiyat değişiklikleri ortak bir oluşumtır. İş ortakları, Fiyat listesi önizlemesine bakarak lisans tabanlı tekliflerle ilgili fiyat değişikliklerini tahmin edebilir. Fiyat listesi önizlemesini görmek için Iş Ortağı Merkezi panosunda fiyatlandırma ve teklifler sayfasını açın.
 
-Ancak Azure kullanım tabanlı fiyatlandırmanın önizlemesi yoktur. İş ortakları RateCard API'sini kullanarak Azure tüketim fiyatı değişikliklerini takip ediyor olabilir. Bu API, ilgili günün ölçüm fiyatlandırmasını döndürür.
+Ancak, Azure kullanım tabanlı fiyatlandırmadan önizleme yoktur. İş ortakları, bu güne ait ölçüm fiyatlandırmasını döndüren RateCard API 'sini kullanarak Azure tüketim fiyat değişiklikleriyle devam edebilir.
 
 |**Ürün türü**   |**Ürün örnekleri**  |**Önizleme kullanılabilir** |**Değişiklik ayrıntıları**|
 |-----------------------|:-----------------------|:-------------------|------------------|
-|Lisans tabanlı|Office, Dynamics, Intune, Windows Enterprise|30 günlük|Önizleme fiyat listelerinde CHNG olarak işaretlenen fiyat değişikliklerini listele|
-|Kullanım tabanlı|Azure kaynakları|Kullanılamaz|Önceki ayın fiyat listesinin Değişiklik Geçmişi sekmesinde bulunan **değişiklik günlüğü**|
-|Yazılım||Kullanılamaz|Fiyat listelerini aydan aya el ile karşılaştırma|
-|Rezervasyonlar|Sanal makineler, ön ödeme|Kullanılamaz|Fiyat listelerini aydan aya el ile karşılaştırma|
+|Lisans tabanlı|Office, Dynamics, ıntune, Windows Enterprise|30 gün|Önizleme fiyatı listelerinde CHNG olarak işaretlenmiş fiyat değişikliklerini Listele|
+|Kullanım tabanlı|Azure kaynakları|Kullanılamaz|Önceki ayın fiyat listesinin **değişiklik geçmişi** sekmesinde kullanılabilir değişiklik günlüğü|
+|Yazılım||Kullanılamaz|Fiyat listelerini aydan aya kadar el ile karşılaştırın|
+|Rezervasyonlar|Sanal makineler, önceden ücretli|Kullanılamaz|Fiyat listelerini aydan aya kadar el ile karşılaştırın|
 
-Kullanım tabanlı fiyatlar bir ay boyunca değişebilir. Bu Azure kaynakları için ' geçerli ' günlük fiyatlandırma almak için iş ortaklarının RateCard API 'sini çağırması gerekir. 
+Kullanım tabanlı fiyatlar, bir ay boyunca değişebilir. Bu Azure kaynakları için ' geçerli ' günlük fiyatlandırma almak için iş ortaklarının RateCard API 'sini çağırması gerekir. 
 
 > [!Note] 
 > Abonelik fiyat değişiklikleri yalnızca yenileme sırasında uygulanır. Bir iş ortağının aylık ücreti, satın alma fiyatı veya bir abonelik oluşturma sırasında fiyat olarak belirlenir. Yıllık dönem alındıktan sonra bir fiyat artar veya azaldıysanız, iş ortağı, genellikle 12 aylık dönemde yenileme işlemi yapılıncaya kadar, değiştirilen fiyat üzerinden ücretlendirilmez.
@@ -134,52 +133,78 @@ Teklif limiti kapsamı, teklif listesi matrisinde bir sütun olarak kaydedilir v
 
 İş Ortağı Merkezi CSP fiyat listelerindeki tüm fiyatlar vergi dahil değildir. Iş ortağı merkezi belge [vergileri ve vergi muafiyetleri](tax-and-tax-exemptions.md)hakkında daha fazla bilgi için.
 
+## <a name="offer-attestation"></a>Teklif kanıtlama
+
+Bazı teklifler, iş ortağının almadan önce kabul etmesi gerekir. bu işleme kanıtlama adı verilir ve 1 ağustos 2021 itibariyle, kanıtlama gerektiren tek teklifler, Windows hibrit avantajı Windows 365 iş tekliflerdir. iş ortakları, bu teklifleri satın alırken gözden geçirme ekranında metin görür. "Windows 365 iş Windows hibrit avantajını kullanan her kişinin, birincil iş cihazında Windows 10/11 Pro geçerli bir kopyasının olması gerektiğini anladım." İş ortakları satın almadan önce bunu kabul etmelidir.
+
+Kanıtlama, hem Iş Ortağı Merkezi portalının hem de iş ortağı merkezi API 'Lerinin yanı sıra sipariş gönderirken ve sepetleri kullanıma alırken geçerlidir. İş ortakları, [teklif](/partner-center/develop/offer-resources#attestationproperties) veya [SKU](/partner-center/develop/product-resources#attestationproperties) nesnelerinde AttestationProperties ' i denetleyerek hangi tekliflerin kanıtlama gerektirdiğini tespit edebilir. Bu özellikler, kanıtlama türünü açıklayacak ve kanıtlama satın alma işlemleri için zorlandığında (Enforcekanıtlama = true). Gerekirse, iş ortakları AttestationAccepted yalnızca sepet veya sipariş [satırı öğelerinde](/partner-center/develop/cart-resources)true olarak ayarlanır.
+
+Aşağıda, şu anda satın almadan önce kanıtlama gerektiren teklifler verilmiştir.
+
+ | **Teklif adı** |**Teklif Kimliği** |
+|:------------------------------------------- |:--------------------------------------- |
+| Windows 365 iş 1 vcpu, 2 gb, 64 gb (Windows hibrit avantajı ile) | 5f3a7cd2-c76f-4b21-9ddc-f48f09869cf6 |
+| Windows 365 iş 2 vcpu, 4 gb, 128 GB (Windows hibrit avantajı ile) | 7612386a-d98d-4110-94b8-554bd612a5ab |
+| Windows 365 iş 2 vcpu, 4 gb, 128 GB (Windows hibrit avantajı ile) deneme sürümü | ab170880-1254-4534-abb9-fd0bf60cde71 |
+| Windows 365 iş 2 vcpu, 4 gb, 256 GB (Windows hibrit avantajı ile) | cc624387-162c-4f31-9d6e-252d39d5324b |
+| Windows 365 iş 2 vcpu, 4 gb, 64 GB (Windows hibrit avantajı ile) | f9777f60-19ae-4bd2-b881-6dc674564a2e |
+| Windows 365 iş 2 vcpu, 8 gb, 128 gb (Windows hibrit avantajı ile) | 39dada752-18b7-4918-b4eb-cf27cf617ee2 |
+| Windows 365 iş 2 vcpu, 8 gb, 128 gb (Windows hibrit avantajı ile) deneme sürümü | d5623401-b8e0-429f-86df-29b6efdf4d95 |
+| Windows 365 iş 2 vcpu, 8 gb, 256 gb (Windows hibrit avantajı ile) | 8fe4271f-c761-45F8-8261-5ab575195152 |
+| Windows 365 iş 4 vcpu, 16 gb, 128 gb (Windows hibrit avantajı ile) | 037cff0f-c231-4cce-a7ef-5324c755ba9a |
+| Windows 365 iş 4 vcpu, 16 gb, 128 gb (Windows hibrit avantajı ile) deneme sürümü | 46448c4c-8b12-4ea1-9be7-76b35d69bcf5 |
+| Windows 365 iş 4 vcpu, 16 gb, 256 gb (Windows hibrit avantajı ile) | 977318cf-57a5-4c3f-a8b6-aa58853dd2e9 |
+| Windows 365 iş 4 vcpu, 16 gb, 512 gb (Windows hibrit avantajı ile) | 1a3bdfb8-fb09-4331-8303-2c07e895c6d9 |
+| Windows 365 iş 8 vcpu, 32 gb, 128 GB (Windows hibrit avantajı ile) | 1b96db48-9c02-4c95-8c0b-98e4e6aa187c |
+| Windows 365 iş 8 vcpu, 32 gb, 256 GB (Windows hibrit avantajı ile) | 3ff72e53-c37f-41d5-b932-793cb39c837b |
+| Windows 365 iş 8 vcpu, 32 gb, 512 GB (Windows hibrit avantajı ile) | aca639ae-ae81-4298-a76a-094b6880913b |
+
 ## <a name="multi-year-term-offers"></a>Çok yıllık dönem teklifleri
 
 ### <a name="36-month-offers"></a>36 aylık teklifler
 
-Üç yıllık koşullara sahip yaklaşık 50 Dynamics teklifi vardır. Bunlar, tekliflerin başlığında **(36 Mo)** tanımlanır. Bu teklifler yıllık dönem tekliflerine benzer. Tek fark, dönemi etrafında. Bu teklifler üç yıllık bir terime sahiptir, böylece abonelikler üç yıl sonra otomatik olarak yenilenmez. Aşağıda, bu tekliflerin nasıl iş sunduğuna bir özet verilmiştir:
+Üç yıllık koşullara sahip yaklaşık 50 Dynamics teklifi vardır. Bunlar, tekliflerin başlığında **(36 Mo)** tanımlanır. Bu teklifler yıllık dönem tekliflerine benzer. Tek fark, dönemi etrafında. Bu teklifler üç yıllık bir terime sahiptir, böylece abonelikler üç yıl sonra otomatik olarak yenilenmez. Aşağıda bu tekliflerin nasıl çalıştığı hakkında bir Özet verilmiştir:
 
-- Koşullar 36 aydır, abonelikler üç yıl sonra otomatik olarak yenilenir
-- İş ortakları abonelik süresi boyunca lisans sayısını iptal edebilir veya değiştirebilir
-- Yıllık yenileme, üç yıllık dönem için satın alma süresi fiyatında olur
-- Faturalama sıklığı hala yıllık veya aylık
+- Koşullar 36 aylardır; abonelikler üç yıldan sonra otomatik olarak yenilenecek
+- İş ortakları, aboneliğin dönemi boyunca lisans sayısını iptal edebilir veya değiştirebilir
+- Yıllık yenileme, üç yıllık dönem için satın alma zamanının fiyatında olacaktır
+- Faturalandırma sıklığı, hala yıllık veya aylık
 
 ### <a name="72-month-offers"></a>72 aylık teklifler
 
-Microsoft 365 A1 teklifin altı yıllık bir süresi var.  Bu Office 365 A1 satın alma sonrasında ek eklentiler kullanılabilir. 
+Microsoft 365 A1 taban teklifinin altı yıllık bir dönemi vardır.  Office 365 A1 eklentiler, bu temel teklifi satın aldıktan sonra kullanılabilir. 
 
 |**Teklif adı**   |**Teklif Kimliği**   |**Tür**|
 |-------------------|-----------------------|----------------------------|
-|Microsoft 365 A1|778a4dce-0014-4d53-8647-314ef2b091d2|Temel teklif|
-|Office 365 A1 için Office 365 A1 (Cihaz için)|0757d14e-7c57-456f-8dab-47d164f2ff1f|Eklenti|
-|Office 365 A1 için Office 365 A1 (Cihaz için)|bae285a9-d56b-4384-b02f-38adc61a6f12|Eklenti|
+|Microsoft 365 A1|778a4dce-0014-4D53-8647-314ef2b091d2|Temel teklif|
+|fakülteler için Office 365 A1 (cihaz için)|0757d14e-7c57-456f-8DAB-47d164f2ff1f|Eklenti|
+|öğrenciler için Office 365 A1 (cihaz için)|bae285a9-d56b-4384-b02f-38adc61a6f12|Eklenti|
 
-Aşağıda, bu tekliflerin nasıl iş sunduğuna bir özet verilmiştir:
+Aşağıda bu tekliflerin nasıl çalıştığı hakkında bir Özet verilmiştir:
 
-- Süre 72 ay veya altı yıldır
-- Abonelik yenilenmedi ve altı yıl sonra süresi doldu
-- Teklifte faturalama sıklığı yıllık olarak gösterir, ancak iş ortağı, abonelik alındıktan sonra ilk faturada ön faturaya yansıtıldı
-- 72 aylık A1 tekliflerine ait abonelikler satın alma sonrasında kilitlenir ve iptal edilir ve ilk satın alma sonrasında lisans sayıları aboneliğe ek olamaz
-- Bu abonelik iptal edilemez ve para iadesi alınamaz.
+- Dönem, 72 ay veya altı yıl içindir
+- Abonelik yenilenmez ve altı yıl sonra sona erer
+- Teklifin faturalandırma sıklığı yıllık olarak gösterilir, ancak abonelik alındıktan sonra iş ortağının ilk faturasında ön faturalandırılır
+- A1 72-ay teklifleri için abonelikler satın alma işleminden sonra kilitlidir ve iptal edilemez ve ilk satın alma işleminden sonra lisans sayıları aboneliğe eklenemez
+- Bu abonelik iptal edilemez ve reddedilmeyen.
 
 ## <a name="estimated-retail-price-erp"></a>Tahmini perakende fiyatı (ERP)
 
-Çoğu fiyat listesinde liste fiyatı, iş ortağının faturalandırmış olduğu fiyat ve tahmini perakende fiyatı yer alıyor. Tahmini perakende fiyatı (ERP), Microsoft tarafından önerilen perakende fiyatı veya MSRP olarak da ifade edilmektedir. Erp ve MSRP olmak üzere bu iki değer, bir müşterinin ürünleri doğrudan Microsoft'tan satın almaları gerektirse ürünlerin tahmini pazar değerini temsil eder. Her ürün veya hizmet türü için ERP/MSRP ayrıntıları aşağıda verilmiştir. 
+Çoğu fiyat listesi, bir liste fiyatını, ortağın faturalandırılan fiyatını ve tahmini perakende fiyatını içerir. Tahmini perakende fiyatı (ERP), Microsoft 'un önerdiği perakende fiyatı veya MSRP olarak da adlandırılır. Bu iki değer olan ERP ve MSRP, bir müşteri ürünleri doğrudan Microsoft 'tan satın aldıysanız ürünlerin tahmini pazar değerini temsil eder. Her ürün veya hizmet türü için ERP/MSRP ayrıntılarının nerede bulunacağı aşağıda verilmiştir. 
 
 
 |**Ürün veya Hizmet**        |**ERP ve MSRP fiyat listesi ayrıntıları**      |
 |:-----------   |:-----------   |
 |Ürün veya Hizmet  |ERP ve MSRP fiyat listesi ayrıntıları  |
 |Lisans tabanlı hizmetler  |Lisans tabanlı fiyat listelerinde ERP olarak listelenir  |
-|Azure kullanım tabanlı hizmetler  |Paylaşılan Hizmetler eşdeğer fiyat listelerinde bulunabilir  |
-|Azure rezervasyonları  |Paylaşılan Hizmetler eşdeğer fiyat listelerinde bulunabilir  |
-|Azure planı kullanım tabanlı  |Fiyatlar perakendedir, fiyat fiyatlarında indirimsizdir  |
-|Azure planı rezervasyonları  |Azure rezervasyonları paylaşılan hizmetler fiyat listelerine bakın  |
-|Yazılım abonelikleri  |Yazılım abonelikleri fiyat listelerinde MSRP olarak listelenir  |
-|Market  |Market fiyat listelerinde MSRP olarak listelenir  |
+|Azure kullanım tabanlı hizmetler  |, Paylaşılan hizmetler eşdeğer fiyat listelerinde bulunabilir  |
+|Azure rezervasyonları  |, Paylaşılan hizmetler eşdeğer fiyat listelerinde bulunabilir  |
+|Azure planı kullanımı tabanlı  |Fiyatlar perakende, indirimli olmayan fiyat sayfalarıdır  |
+|Azure plan ayırmaları  |Azure ayırmaları paylaşılan hizmetleri fiyat listelerine başvur  |
+|Yazılım abonelikleri  |Yazılım abonelikleri fiyat listelerinde MSRP olarak listelendi  |
+|Market  |Market fiyat listelerinde MSRP olarak listelendi  |
 
 Daha fazla kaynak: 
 
 - [Azure planı fiyatlandırması](azure-plan-price-list.md)
-- [Azure fiyatlandırmaya genel bakış](https://azure.microsoft.com/pricing/)
+- [Azure fiyatlandırmasına genel bakış](https://azure.microsoft.com/pricing/)

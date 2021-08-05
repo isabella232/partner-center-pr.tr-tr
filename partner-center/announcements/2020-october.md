@@ -1,46 +1,46 @@
 ---
 title: Ekim 2020 duyuruları
-description: Yeni yetenekler, promosyonlar, teklifler, pazarlar veya mevcut tekliflerle ilgili değişiklikler gibi Microsoft Iş Ortağı Merkezi için Ekim 2020 duyuruları.
+description: Microsoft İş Ortağı Merkezi için Yeni özellikler, promosyonlar, teklifler, pazarlar veya mevcut tekliflerde yapılan değişiklikler gibi Ekim 2020 duyuruları.
 ms.topic: article
 ms.service: partner-dashboard
-ms.subservice: partnercenter-action-center
+ms.subservice: partnercenter-announcements
 author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 10/30/2020
-ms.openlocfilehash: 8c5ae3f84417cfeeb02bfc84cc1fa69546a978cc
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: a8c56ee7b60345d64ff0fe3c82ffaa45256cea13
+ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114841836"
+ms.lasthandoff: 08/04/2021
+ms.locfileid: "115102560"
 ---
 # <a name="october-2020-announcements"></a>Ekim 2020 duyuruları
 
-Bu sayfa, 2020 Ekim 'e yönelik Microsoft Iş Ortağı Merkezi bildirilerini ayrıntılarıyla ayrıntılardır.
+Bu sayfada Ekim 2020 için Microsoft İş Ortağı Merkezi duyuruları ayrıntılı olarak açıklanıyor.
 
-2020 Duyurular: [](2020-march.md)  |  [Nisan](2020-april.md)Mart  |  [,](2020-may.md)  |  Eylül ayında[Haziran](2020-june.md)  |  [ayı](2020-july.md)  |  [](2020-august.md)  |  [](2020-september.md) | 'Den
+2020 duyuruları: [Mart](2020-march.md)  |  [Nisan Mayıs](2020-april.md)  |  [Haziran](2020-may.md)  |  [Ağustos](2020-june.md)  |  [](2020-july.md)  |  [Ağustos](2020-august.md)  |  [|](2020-september.md) Ekim
 
 ______________
 
-## <a name="correction-to-calling-plan-expansion"></a><a name="18"></a>Plan genişletmeyi çağırma düzeltmesi 
+## <a name="correction-to-calling-plan-expansion"></a><a name="18"></a>Arama Planı genişletme düzeltmesi 
 
 ### <a name="categories"></a>Kategoriler
 
 - Tarih: 2020-10-29
 - Teklifler/Pazarlar
 
-### <a name="impacted-audience"></a>Etkilenen hedef kitle
+### <a name="impacted-audience"></a>Etkilene hedef kitle
 
-Doğrudan sağlayıcılar, dolaylı sağlayıcılar ve dolaylı satıcılar
+Doğrudan sağlayıcılar, dolaylı sağlayıcılar ve dolaylı kurumsal bayiler
 
 ### <a name="details"></a>Ayrıntılar
 
-1 ekim 2020 ' de, [yeni pazarlarda Office 365 çağrı planının kullanılabilirliğini](2020-september.md#2)duyurduk. Bu duyuru doğru değil ve yurtiçi planları için Kullanıcı başına aylık 240 dakika, daha önce belirtildiği gibi kullanılamaz. 
+1 Ekim 2020'de, yeni pazarlarda [Office 365 Planı'nın kullanılabilirliğini duyurduk.](2020-september.md#2) Bu duyuru doğru değil ve daha önce belirtildiği gibi, Kullanıcı başına aylık 240 dakika İç hat planları için kullanılamaz. 
 
 
-çağırma planlarının ayrıntıları için Microsoft Teams [ürün belgelerine](/microsoftteams/calling-plan-landing-page)bakın.
+Arama Planları hakkında ayrıntılı bilgi için ürün Microsoft Teams [bakın.](/microsoftteams/calling-plan-landing-page)
 
 
 ________________
@@ -52,22 +52,22 @@ ________________
 - Tarih: 2020-10-29
 - Özellikler
 
-### <a name="impacted-audience"></a>Etkilenen hedef kitle
+### <a name="impacted-audience"></a>Etkilene hedef kitle
 
-daha önce Windows Server standard yazılım abonelikleri satın almış Bulut Çözümü Sağlayıcısı (CSP) iş ortakları
+Bulut Çözümü Sağlayıcısı Server standart yazılım abonelikleri satın alan Windows (CSP) iş ortakları
 
 ### <a name="details"></a>Ayrıntılar
 
-Microsoft, Windows Server yazılım abonelikleri için 30 ekim 2020 ' de yeni bir özellik güncelleştirmesi yayını duyurur. güncelleştirme Windows server yazılım aboneliği ürünlerini içerir: Windows sunucu standardı, **sürüm 20h2** (CSP ürün kimliği: DG7GMGF0DVT9). Güncelleştirilmiş indirme dosyası artık bu ürün için kullanılabilir. İş ortakları, yeni özellikleri almak için en son dosyayı indirmeyi seçebilir.
+Microsoft, Windows Server yazılım abonelikleri için CSP'ye 30 Ekim 2020'de yeni bir özellik güncelleştirmesi yayımla duyurur. Güncelleştirme, Windows Server yazılım aboneliği ürünlerini içerir: Windows Server Standard, **sürüm 20H2** (CSP ürün kimliği: DG7GMGF0DVT9). Güncelleştirilmiş indirme dosyası artık bu ürün için kullanılabilir. İş ortakları yeni özellikleri almak için en son dosyayı indirmeyi seçebilir.
 
 ### <a name="next-steps"></a>Sonraki adımlar
 
-- Lütfen bu bilgileri kuruluşunuzdaki uygun kişilerle paylaşabilirsiniz.
-- [Windows server sürümü 20h2 belgelerini](/windows/release-information/status-windows-10-20h2) gözden geçirin
+- Lütfen bu bilgileri, kuruluşta uygun kişiler ile paylaşın.
+- Sunucu [Windows 20H2 belgelerini gözden geçirme](/windows/release-information/status-windows-10-20h2)
 
 ________________
 
-## <a name="windows-10-education-upgrade-is-now-available-to-qualified-cloud-solution-provider-csp-education-customers"></a><a name="16"></a>Windows 10 Education yükseltmesi artık nitelenmiş Bulut Çözümü Sağlayıcısı (CSP) eğitim müşterileri tarafından kullanılabilir
+## <a name="windows-10-education-upgrade-is-now-available-to-qualified-cloud-solution-provider-csp-education-customers"></a><a name="16"></a>Windows 10 Education(CSP) Eğitim müşterilerine Bulut Çözümü Sağlayıcısı yükseltme kullanılabilir
 
 ### <a name="categories"></a>Kategoriler
 
@@ -76,66 +76,66 @@ ________________
 
 ### <a name="summary"></a>Özet
 
-eğitim müşterileri için Microsoft 365 A3/a5 veya Windows 10 Enterprise A3/A5 abonelikleri satın almış CSP iş ortakları artık Windows 10 Home cihazlarını Windows 10 Education yükseltmesine yardımcı olabilir.
+Eğitim müşterileri için Microsoft 365 A3/A5 veya Windows 10 Enterprise A3/A5 abonelikleri satın alan CSP İş Ortakları artık Windows 10 Home cihazlarını Windows 10 Education.
 
-### <a name="impacted-audience"></a>Etkilenen hedef kitle
+### <a name="impacted-audience"></a>Etkilene hedef kitle
 
-eğitim müşterileri için Microsoft 365 A3/a5 veya Windows 10 Enterprise A3/A5 abonelikleri satın almış CSP iş ortakları
+Eğitim müşterileri için Microsoft 365 A3/A5 veya Windows 10 Enterprise A3/A5 abonelikleri satın alan CSP İş Ortakları
 
 ### <a name="details"></a>Ayrıntılar
 
 1 Kasım 2020’den başlayarak Microsoft 365 A3/A5 veya Windows 10 Enterprise A3/A5 abonelikleri satın alan CSP’ler Education müşterilerinin Windows 10 Home’dan hem sınıfta hem de uzaktan öğrenme için tasarlanmış Windows 10 Education’a yükseltme yapmasına yardımcı olabilir.
 
-1 kasım 2020 ' den Windows 10 Home, Microsoft Bulut anlaşmasıyla (CSP aracılığıyla) lisanslanan eğitim müşterileri için uygun bir işletim sistemi olacaktır. artık toplu lisanslama (VL) eğitim programlarında kullanılabilir olana kadar bu uygunluk, Microsoft 365 yönetici portalı desteği aracılığıyla etkinleştirilmiştir. 
+1 Kasım 2020'den itibaren Windows 10 Home, Microsoft Bulut Anlaşması (CSP aracılığıyla) ile lisansa sahip Eğitim müşterileri için uygun bir işletim sistemi olacak. Şimdiye kadar yalnızca Toplu Lisanslama (VL) eğitim programlarında kullanılabilen bu uygunluk, yönetici portalı desteği Microsoft 365 etkinleştirilmiştir. 
 
-#### <a name="how-the-upgrade-process-works"></a>Yükseltme işlemi nasıl işler?
+#### <a name="how-the-upgrade-process-works"></a>Yükseltme işlemi nasıl çalışır?
 
-CSP Iş ortakları, kendi adına bir destek isteği göndererek müşterilerinin yükseltmesine yardımcı olabilir. Microsoft Desteği müşterinizin uygun olduğundan emin olmak için isteği gözden geçirir; istek onaylandıktan sonra müşteriye Windows 10 Pro Education anahtarı sağlanır.
+CSP İş Ortakları, kendi adına bir destek isteği göndererek müşterilerinin yükseltmelerine yardımcı olabilir. Microsoft Desteği müşterinizin uygun olduğundan emin olmak için isteği gözden geçirir; istek onaylandıktan sonra müşteriye Windows 10 Pro Education anahtarı sağlanır.
 
-müşteri, anahtarı yüklediğinde ve cihaz kiracı etki alanına Azure Active Directory (AAD) aracılığıyla katıldığında, cihaz otomatik olarak Windows 10 Education (abonelik) sürümüne yükseltilir.   
+Müşteri anahtarı yükledikten sonra cihaz Azure Active Directory (AAD) aracılığıyla kiracı etki alanına katılırsa, cihaz otomatik olarak Windows 10 Education (abonelik) olarak yükseltilir.   
 
-Müşterilerin nasıl yükseltileceğiyle ilgili ayrıntılar [adım adım Kılavuzu ve sık sorulan sorular konusunda](../upgrade-windows-to-education.md)bulunabilir.
+Müşterileri yükseltmeye ilişkin ayrıntılar adım adım [kılavuzunda ve sık sorulan sorular konusunda bulunabilir.](../upgrade-windows-to-education.md)
 
 ### <a name="next-steps"></a>Sonraki adımlar
 
-- Uygun müşterilerinize bildirme ve adım adım işlemler aracılığıyla rehberlik edin.
-- Bu bilgileri kuruluşunuzdaki uygun kişilerle paylaşabilirsiniz.  
+- Uygun müşterilerinize bildirme ve adım adım süreç boyunca onlara rehberlik edin.
+- Bu bilgileri, kuruluşta uygun kişilerle paylaşın.  
 
 ________________
 
-## <a name="refreshed-cloud-solution-provider-csp-digital-experience-now-available"></a><a name="15"></a>yenilenen Bulut Çözümü Sağlayıcısı (CSP) dijital deneyim artık kullanılabilir
+## <a name="refreshed-cloud-solution-provider-csp-digital-experience-now-available"></a><a name="15"></a>Yenilenmiş Bulut Çözümü Sağlayıcısı (CSP) dijital deneyimi artık kullanılabilir
 
 ### <a name="categories"></a>Kategoriler
 
 - Tarih: 2020-10-28
 - Özellikler
 
-### <a name="impacted-audience"></a>Etkilenen hedef kitle
+### <a name="impacted-audience"></a>Etkilene hedef kitle
 
-CSP Iş ortakları
+CSP İş Ortakları
 
 ### <a name="details"></a>Ayrıntılar
 
-Microsoft, iş ortaklarımızın potansiyelini en üst düzeye çıkarmasına, yenilikçi çözümler oluşturmasına ve Microsoft İş Ortağı Ağı daha fazla müşteri başarısı sağlamanıza yardımcı olmaya kararlıdır. Bulut Çözümü Sağlayıcısı (CSP) programı, 90.000 ' den fazla katılan şirkete sahip en hızlı büyüyen programlarınızdan biridir.
-Bulut Çözümü Sağlayıcısı programdaki iş ortaklarının iş artışını hızlandırmaya yardımcı olmak için, Microsoft İş Ortağı Ağı web sitesinde ve yeni bir CSP kılavuz kitabı üzerinde yenilenen bir bulut çözümü programı (CSP) dijital deneyimi sunuyoruz. Bu yeniden kullanıma yönelik bu deneyim ve yeni kaynaklar, iş ortaklarının yeni fırsatların kilidini açma ve CSP programında işlerini daha etkili bir şekilde büyütmesine yardımcı olur.
+Microsoft, iş ortaklarımızın potansiyellerini en üst düzeye çıkarmalarına, yenilikçi çözümler oluşturmalarına ve iş ortaklarına daha fazla müşteri Microsoft İş Ortağı Ağı. Bulut Çözümü Sağlayıcısı (CSP) programı, 90.000'den fazla katılımcı şirketle en hızlı büyüyen programlardan biri.
+Bulut Çözümü Sağlayıcısı programında iş ortaklarının iş büyümesini hızlandırmaya yardımcı olmak için Microsoft İş Ortağı Ağı web sitesinde yenilenmiş bir Bulut Çözümü Programı (CSP) dijital deneyimini ve yeni bir CSP kılavuzu tanıtacağız. Bu yenilenmiş deneyim ve yeni kaynaklar, iş ortaklarının CSP programında yeni fırsatların kilidini açmalarına ve işletmelerini daha verimli bir şekilde büyümesine yardımcı olur.
 
 Bu yeni dijital deneyim şunları içerir:
 
-- İş ortağı iş artışını hızlandırmaya yardımcı olmak için CSP dijital deneyimi yenilendi: yenilenen CSP sayfası, iş ortağının kaydetme, derleme uygulamaları, pazara ulaşma ve satış arasındaki yolculuğun yolculuğuna kılavuzluk eden kolaylaştırılmış bir deneyim sunar. İş ortakları, satış yürütme kampanyaları ve pazara karşı pazarlama kaynakları ile gelir fırsatlarını büyüyebilir. Diğer tümleşik kaynaklar, CSP programında iş ortaklarının güncel ve kolay bir şekilde güncelleştirilmesini sağlar.
-- iş ortaklarının yeni fırsatları belirlemesine yardımcı olmak için yeni Bulut Çözümü Sağlayıcısı program rehberi kitabı: bu adım adım kılavuzda, iş ortakları, programda bulut iş büyümesinin hızlandırmasına ve gelir fırsatlarınızı genişletmenize kılavuzluk sağlar.
-- Çözüm çalışma alanındaki CSP program içeriği: çözüm çalışma alanı, fikirlerinizi pazara daha hızlı hale getirmek için size, isteğe bağlı kaynaklar için tek bir hedef sunan dijital bir deneyimdir. Artık hizmet sağlayıcıları, çözüm çalışma alanında CSP programına özgü içerik ve kaynakları bulabilir.
+- İş ortağının büyümesine hız kazandırmanıza yardımcı olmak için yenilenmiş CSP dijital deneyimi: Yenilenmiş CSP sayfası, iş ortağının kaydetme, derleme uygulamaları, pazara giriş ve satış yolculuğuna yol gösteren kolaylaştırılmış bir deneyim sunar. İş ortakları satış kampanyaları ve pazara satış kaynaklarıyla gelir fırsatlarını büyütebilirsiniz. Diğer tümleşik kaynaklar, iş ortaklarının CSP programında güncel ve kolay iş yapmalarına yardımcı olur.
+- İş Bulut Çözümü Sağlayıcısı yeni fırsatları belirlemeye yardımcı olmak için yeni bir program kılavuzu: Bu adım adım kılavuz, iş ortaklarına programla bulut işletmesi büyümenizi hızlandırma ve gelir fırsatlarınızı genişletme konusunda rehberlik sağlar.
+- Çözüm Çalışma Alanı'daki CSP programı içeriği: Çözüm Çalışma Alanı, fikirlerinizi pazara daha hızlı bir şekilde getirmek için isteğe bağlı kaynaklar için tek bir hedef sağlayan dijital bir deneyimdir. Artık Hizmet sağlayıcıları Çözüm Çalışma Alanında CSP programına özgü içeriği ve kaynakları bulabilir.
 
 ### <a name="additional-resources"></a>Ek kaynaklar
 
-- [Yenılenen CSP sayfasını](https://aka.ms/CSP) ziyaret edin 
-- [Yenı CSP program kılavuzu kitabı](https://aka.ms/cspguidebook) ' nı gözden geçirin ve büyüme fırsatları hakkında daha fazla bilgi edinin
-- Uygulamalarınızı derlemek ve adımlarınızı basitleştirmek için çözüm çalışma alanını kullanmaya başlayın
-- Satış özellikli kaynaklar ile daha fazla kampanya sürücüsü 
-- Lütfen iş arkadaşlarınızı CSP sayfasını ziyaret edin ve kuruluşunuzdaki kaynakları paylaşın. Dolaylı sağlayıcılarınız varsa, lütfen kaynakları dolaylı satıcılarınızla paylaşabilirsiniz.
+- Yenilenmiş [CSP sayfasını ziyaret edin](https://aka.ms/CSP) 
+- Yeni [CSP programı kılavuzunu gözden geçirip büyüme](https://aka.ms/cspguidebook) fırsatları hakkında daha fazla bilgi edinin
+- Çözüm Çalışma Alanını kullanarak uygulamalarınızı derlemeye ve adımlarınızı basitleştirmeye başlama
+- Satış oyunu kaynaklarıyla daha fazla kampanyaya yol 
+- Lütfen iş arkadaşlarınızı CSP sayfasını ziyaret etmesini ve yukarıdaki kaynakları kuruluşta paylaşmalarını teşvik edin. Dolaylı sağlayıcılarsanız lütfen kaynakları dolaylı kurumsal bayilerle paylaşın.
 
 ________________
 
-## <a name="october-2020-cloud-solution-provider-csp-software-subscriptions-price-list-updates"></a><a name="14"></a>2020 ekim Bulut Çözümü Sağlayıcısı (CSP) yazılım abonelikleri fiyat listesi güncelleştirmeleri
+## <a name="october-2020-cloud-solution-provider-csp-software-subscriptions-price-list-updates"></a><a name="14"></a>Ekim 2020 Bulut Çözümü Sağlayıcısı (CSP) yazılım abonelikleri fiyat listesi güncelleştirmeleri
 
 ### <a name="categories"></a>Kategoriler
 
@@ -144,35 +144,35 @@ ________________
  
 ### <a name="summary"></a>Özet
 
-2020 Ekim için yazılım abonelikleri fiyat listesi güncelleştirildi.
+Ekim 2020 için yazılım abonelikleri fiyat listesi güncelleştirildi.
 
-### <a name="impacted-audience"></a>Etkilenen hedef kitle
+### <a name="impacted-audience"></a>Etkilene hedef kitle
 
-tüm iş ortakları Bulut Çözümü Sağlayıcısı (CSP) programı üzerinden deneyimidir
+Bulut Çözümü Sağlayıcısı (CSP) programı aracılığıyla işlem yapılan tüm iş ortakları
 
 ### <a name="details"></a>Ayrıntılar
 
-Ekim 2020, yazılım abonelikleri fiyat listesi, daha önce atlanan iki ürünü içerecek şekilde güncelleştirilmiştir.
+Ekim 2020 yazılım abonelikleri fiyat listesi, daha önce atlanmış iki ürünü içerecek şekilde güncelleştirildi.
 
-[Windows 7 yıl 2 esu](#3) 2020 ekim 'de kullanıma sunuldu. 2. yıl fiyatlandırma, artık yazılım abonelikleri fiyat listesinde sunulmaktadır.
-- Ürün KIMLIĞI: DG7GMGF0FL73
-- SKU KIMLIĞI: 0003
+[Windows 2. Yıl ESU Ekim](#3) 2020'de kullanılabilir. 2. yıl fiyatlandırması artık yazılım abonelikleri fiyat listesinde mevcuttur.
+- Ürün Kimliği: DG7GMGF0FL73
+- Sku Kimliği: 0003
 
-[Azure SQL Edge](2020-september.md#9) , geç eylül 2020 ' de kullanıma sunuldu. Artık geçerli Iş ortağı merkezi fiyat listesinde kullanılabilir. 
-- Ürün KIMLIĞI: DG7GMGF0GJC2
+[Azure SQL Edge,](2020-september.md#9) Eylül 2020'nin sonlarında yayınlandı. Artık geçerli fiyat listesinde İş Ortağı Merkezi kullanılabilir. 
+- Ürün Kimliği: DG7GMGF0GJC2
 
-Tüm CSP Iş ortağı merkezi fiyat listeleri, Iş Ortağı Merkezi 'Nde oturum açarak ve satış/tekliflere ve fiyatlandırmaya gidilerek kullanılabilir.
+Tüm CSP İş Ortağı Merkezi listelerinde oturum açmak ve İş Ortağı Merkezi/Teklifler ve Fiyatlandırma'ya giderek kullanılabilir.
 
 ### <a name="additional-resources"></a>Ek kaynaklar
 
-- [Windows 7 destek sss sayfası](/troubleshoot/windows-client/windows-7-eos-faq/windows-7-end-support-faq)
-- [Windows 7 desteği ve Microsoft 365 Uygulamaları](/deployoffice/endofsupport/windows-7-support)
-- [Windows 7 esu kaynak galerisi](https://partner.microsoft.com/resources/collection/windows-esu-csp#/)
+- [Windows 7 Destek SSS sayfası](/troubleshoot/windows-client/windows-7-eos-faq/windows-7-end-support-faq)
+- [Windows 7 destek ve Microsoft 365 Uygulamaları](/deployoffice/endofsupport/windows-7-support)
+- [Windows 7 ESU Kaynak Galerisi](https://partner.microsoft.com/resources/collection/windows-esu-csp#/)
 - [Azure SQL Edge sitesi](https://aka.ms/sqledge)
 
 ________________
 
-## <a name="introducing-a-performance-standard-for-direct-bill-partner-requirements-in-the-cloud-solution-provider-csp-program"></a><a name="13"></a>Bulut Çözümü Sağlayıcısı (CSP) programındaki doğrudan fatura ortağı gereksinimleri için bir performans standardı tanıtma
+## <a name="introducing-a-performance-standard-for-direct-bill-partner-requirements-in-the-cloud-solution-provider-csp-program"></a><a name="13"></a>Bulut Çözümü Sağlayıcısı (CSP) programında doğrudan fatura iş ortağı gereksinimleri için performans standardı
 
 ### <a name="categories"></a>Kategoriler
 
@@ -181,63 +181,63 @@ ________________
  
 ### <a name="summary"></a>Özet
 
-Doğrudan fatura iş ortağı gereksinimlerinin bir parçası olarak bir performans standardını Bulut Çözümü Sağlayıcısı tanıtıyoruz.
+Bulut Çözümü Sağlayıcısı programındaki doğrudan fatura ortağı gereksinimlerinin bir parçası olarak bir performans standardı tanıtıyoruz.
 
-### <a name="impacted-audience"></a>Etkilene hedef kitle
+### <a name="impacted-audience"></a>Etkilenen hedef kitle
 
-Bulut Çözümü Sağlayıcısı programda doğrudan fatura iş ortakları.
+Bulut Çözümü Sağlayıcısı programda doğrudan fatura ortakları.
 
 ### <a name="details"></a>Ayrıntılar
 
-İş ortaklarına ve Microsoft Bulut Çözümü Sağlayıcısı yeni bir ticaret deneyimine yolculuğumuza devam etmek, bu programı büyümenin ve iyileştirmenin önemli bir parçası. Bu nedenle, programı müşterilerin değişen ihtiyaçlarını karşılayacak şekilde geliştirmeye ve size iş ortaklarımız için en verimli ve karlı deneyimi sağlamaya devam edeceğiz.
+Microsoft Bulut Çözümü Sağlayıcısı programın büyümesi ve en iyi duruma getirilmesi, iş ortakları ve müşteriler için yeni bir ticari deneyime giden yolculuğun önemli bir parçasıdır. Bu nedenle, programın müşterilerin değişen ihtiyaçlarını karşılayacak şekilde gelişmeye devam edeceğiz ve iş ortaklarımız için en verimli ve karlı bir deneyim sağlar.
 
-Bugün, Bulut Çözümü Sağlayıcısı programı kapsamında doğrudan fatura iş ortaklarının gereksinimlerine yönelik birkaç değişiklik Bulut Çözümü Sağlayıcısı paylaşacağız.
+bugün, Bulut Çözümü Sağlayıcısı programındaki doğrudan fatura iş ortakları için gereksinimlerde yapılan birkaç değişikliği paylaşıyoruz.
 
-İlk **olarak, doğrudan fatura iş ortağı gereksinimlerinin bir parçası olarak bir performans standardı tanıtıyoruz.** Bulut Çözümü Sağlayıcısı programına doğrudan fatura iş ortağı olarak kaydolmak isteyen iş ortaklarının, gerekli destek sözleşmesi yenileme tarihinden 12 ay önce Bulut Çözümü Sağlayıcısı programı geliri için en az 300.000 ABD doları [karşılaması](https://partner.microsoft.com/support/partnersupport) gerekir.
+İlk olarak, **doğrudan fatura ortağı gereksinimlerinin bir parçası olarak bir performans standardı tanıtıyoruz**. Bulut Çözümü Sağlayıcısı programda doğrudan fatura ortakları olarak kaydetmek isteyen iş ortakları, [gerekli destek sözleşmesi](https://partner.microsoft.com/support/partnersupport) yenileme tarihinden önce 12 ay boyunca Bulut Çözümü Sağlayıcısı program gelirinin en az USD300K ' i karşılamalıdır.
 
 Bu performans standardı, geçerli doğrudan fatura iş ortakları için Ocak 2021'de yürürlüğe girecektir ve iş ortağı destek planı yenileme tarihinize kadar ilgili gereksinimleri karşılamanız beklenmektedir.
 
-Güncelleştirilmiş doğrudan fatura iş ortağı gereksinimlerini karşılamıyor veya karşılamıyorsanız, Bulut Çözümü Sağlayıcısı programına dolaylı kurumsal bayi olarak yeniden kaydolmanız gerekir. 
+güncelleştirilmiş doğrudan fatura ortağı gereksinimlerini karşılayamaz veya bunu tercih edemediyseniz, Bulut Çözümü Sağlayıcısı programında dolaylı bir satıcı olarak yeniden kaydetmeniz gerekir. 
 
-Bu yeni gelir gereksinimi, Bulut Çözümü Sağlayıcısı programı iş ortaklarının daha net bir performans standardıyla doğru model aracılığıyla daha kârlı bir iş oluşturmalarına ve daha az altyapı ve operasyonel ek yükü olan müşterilere daha fazla değer sunmaya odaklanmalarına yardımcı olur.
+bu yeni gelir gereksinimi, Bulut Çözümü Sağlayıcısı programdaki iş ortaklarının doğru model aracılığıyla daha net bir performans standardı olacak şekilde daha fazla bir iş oluşturmasını ve müşterilere daha az altyapı ve operasyonel ek yüke daha fazla değer sunmaya odaklanmaya yardımcı olur.
 
-İkincisi, Ağustos 2018'de doğrudan fatura iş ortağı gereksinimlerini iş ortaklarının nitelikli iş ortağı destek planı satın almaları için yeni ölçütlerle güncelleştirildi. Bu programın tüm doğrudan fatura iş ortakları için gerekli olan önemini yeniden Bulut Çözümü Sağlayıcısı vurgulamaktadır.
+İkincisi, Ağustos 2018 ' de, tam bir iş ortağı destek planı satın almak üzere iş ortaklarının yeni ölçütlerine sahip doğrudan fatura ortağı gereksinimlerini güncelleştirdik. Bulut Çözümü Sağlayıcısı programındaki tüm doğrudan fatura ortakları için bu gerekli önem derecesini yeniden vurgularız.
 
-### <a name="direct-bill-partner-requirements"></a>Doğrudan fatura iş ortağı gereksinimleri
+### <a name="direct-bill-partner-requirements"></a>Doğrudan fatura ortağı gereksinimleri
 
-Güncelleştirilmiş doğrudan fatura iş ortağı [gereksinimlerini](../direct-partner-new-requirements.md#minimum-requirements) ve önerilerini gözden geçirerek aşağıdaki programda doğru modelle daha karlı bir işletmeyi nasıl Bulut Çözümü Sağlayıcısı değerlendirin:
+Bulut Çözümü Sağlayıcısı programında doğru modelle nasıl daha fazla bir iş oluşturabileceğiniz ve genişletebileceğiniz hakkında daha fazla bilgi için [güncelleştirilmiş doğrudan fatura ortağı gereksinimlerini](../direct-partner-new-requirements.md#minimum-requirements) ve önerilerini gözden geçirin:
 
-1.**Yeni gelir performansı gereksinimi**
+1.**yeni gelir performansı gereksinimi**
 
-**Şu anda** doğrudan fatura iş ortakları olarak Bulut Çözümü Sağlayıcısı mevcut iş ortaklarının Ocak 2021'den başlayarak yeni performans standardını karşılaması gerekir. Gereksinimleri karşılamak için bir sonraki iş ortağı destek planı yenileme tarihine kadar vaktiniz olur. Bu kılavuzu takip İş Ortağı Merkezi takip eden on iki aylık geliri [gözden geçirabilirsiniz.](https://partner.microsoft.com/resources/detail/new-subscription-analytics-report-on-partner-center-guide-pdf)
+şu anda Bulut Çözümü Sağlayıcısı programına doğrudan fatura ortakları olarak kayıtlı **olan mevcut iş ortaklarının** , 2021 ocak 'tan başlayarak yeni performans standardını karşılaması gerekir. Bir sonraki iş ortağınızdan, gereksinimleri karşılamak için yenileme tarihine kadar bir süre olacaktır. [Bu kılavuzu](https://partner.microsoft.com/resources/detail/new-subscription-analytics-report-on-partner-center-guide-pdf)izleyerek, son on iki aylık gelirinizi Iş ortağı merkezinde inceleyebilirsiniz.
 
-Bulut Çözümü Sağlayıcısı programına kaydolan yeni iş ortakları, Ekim **2020'den** itibaren geçerli olacak dolaylı kurumsal bayiler olarak başlayacaktır. Son 12 ay boyunca CSP geliri en az 300 bin USD'ye sahip olması gerekir. Bu kılavuzu takip İş Ortağı Merkezi takip eden 12 aylık geliri [gözden geçirabilirsiniz.](https://partner.microsoft.com/resources/detail/new-subscription-analytics-report-on-partner-center-guide-pdf) 
+Bulut Çözümü Sağlayıcısı programa kaydolan yeni iş ortakları, **2020 ekim tarihinde** geçerli olan dolaylı satıcılar olarak başlayacak. Yukarıdaki 12 ay boyunca en az USD300K CSP gelir olmalıdır. [Bu kılavuzu](https://partner.microsoft.com/resources/detail/new-subscription-analytics-report-on-partner-center-guide-pdf)izleyerek, son 12 aylık gelirinizi Iş Ortağı Merkezi 'nde inceleyebilirsiniz. 
 
-2.**Destek sözleşmesi gereksinimi** 
+2.**destek sözleşmesi gereksinimi** 
 
-İki destek sözleşmesi seçeneğiden birini satın alarak destek özelliklerinizi genişletin:  
+İki destek sözleşmesi seçeneğinden birini satın alarak destek yeteneklerinizi genişletin:  
 
-   - İş Ortakları için Microsoft Gelişmiş Destek (ASfP): Bire bir, öncelikli bulut desteği  
-   - İş ortakları Premier Destek Microsoft Premier Destek (PSfP): Proaktif hizmetlerin, 7/24 yükseltilmiş kesme/düzeltme desteğinin ve bulut, karma ve şirket içi teknik hesap yönetiminin tam kataloğuna erişin. 
+   - Iş ortakları için Microsoft Gelişmiş desteği (ASfP): bire bir, öncelikli bulut desteği  
+   - Iş ortakları için Microsoft Premier Destek (PSfP): proaktif hizmetlerin tam kataloğuna, 24/7 yükseltilmiş kesme/onarım desteğine ve bulut, karma ve şirket içi teknik hesap yönetimine erişin. 
 
-Nitelikli bir [plan satın almak](https://partner.microsoft.com/support/partnersupport) için destek sözleşmesi seçeneklerini karşılaştırın.
+[Destek sözleşmesi seçeneklerini](https://partner.microsoft.com/support/partnersupport) uygun bir plan satın alarak karşılaştırın.
 
-### <a name="direct-bill-partner-recommendations"></a>Doğrudan fatura iş ortağı önerileri
+### <a name="direct-bill-partner-recommendations"></a>Doğrudan fatura ortağı önerileri
 
-**Temel özellikleri gösterme**
+**Temel özellikleri gösterir**
 
-Doğrudan fatura programını desteklemek için gereken altyapı hakkında hazır ve bilgi sahibi olmak için bazı ek önerilerimiz vardır. En az bir yönetilen hizmet, IP hizmeti veya müşteri çözümü uygulaması sağlamayı gösterme. İş ortaklarının yalnızca hizmetlerimizi düz olarak yeniden satın alamadan Microsoft Bulut hizmetlerinin üzerine değer eklemesi gerekir. Bu, iş ortağının pazara satış stratejisinin önemli bir parçası. [Yönetilen hizmetler ekleme](https://partner.microsoft.com/solutions/managed-services) hakkında daha fazla bilgi. Faturalama ve sağlama gibi en düşük altyapı özelliklerini karşılamanız önerilir. 
+Doğrudan fatura programını desteklemek için gereken altyapı hakkında daha fazla bilgi sahibi olduğunuzdan emin olmak için bazı ek önerilere ihtiyacımız var. En az bir yönetilen hizmet, IP hizmeti veya müşteri çözümü uygulaması sağlabileceğinizi gösterir. İş ortakları, yalnızca hizmetlerimizin doğrudan yeniden satılması için Microsoft Bulut hizmetlerin üzerine değer eklemektir. Bu, ortağın pazara Alım stratejisinin önemli bir parçasıdır. Yönetilen hizmetler ekleme hakkında [daha fazla bilgi edinin](https://partner.microsoft.com/solutions/managed-services) . Faturalandırma ve sağlama gibi en düşük altyapı yeteneklerini karşılamanızı öneririz. 
 
-CSP programında yeni gereksinimleri karşılamayan doğrudan fatura iş ortaklarının, program içinde dolaylı kurumsal bayi olarak yeniden kaydolması Microsoft İş Ortağı Ağı. [Doğrudan fatura](../transition-direct-to-indirect.md) iş ortağından dolaylı kurumsal bayiye geçiş yapmayı öğrenin.  
+CSP programındaki yeni gereksinimleri karşılamayan doğrudan fatura ortakları, Microsoft İş Ortağı Ağı programda dolaylı satıcılar olarak yeniden kaydolmanız gerekecektir. Doğrudan bir fatura ortağından dolaylı bir satıcıya geçiş yapma hakkında [daha fazla bilgi edinin](../transition-direct-to-indirect.md) .  
 
 ### <a name="next-steps"></a>Sonraki adımlar
 
-- Güncelleştirilmiş [doğrudan fatura iş ortağı gereksinimlerini gözden geçirme.](../direct-partner-new-requirements.md#minimum-requirements)
-- Microsoft iş ortağı web sitesinin İşlemler Kaynak [Galerisi'nde SSS ve diğer bilgileri gözden geçirin.](https://partner.microsoft.com/resources/collection/new-performance-standard-for-direct-bill-partner-requirements-in-csp#/)
-- Dolaylı [kurumsal bayi seçeneği iş ihtiyaçlarınıza daha](https://partner.microsoft.com/membership/cloud-solution-provider/find-a-provider) uygunsa, üzerinde çalışılması gereken dolaylı bir sağlayıcı bulun.
+- [Güncelleştirilmiş doğrudan fatura ortağı gereksinimlerini](../direct-partner-new-requirements.md#minimum-requirements)gözden geçirin.
+- [Microsoft iş ortağı web sitesinde bulunan Operations Resource Gallery](https://partner.microsoft.com/resources/collection/new-performance-standard-for-direct-bill-partner-requirements-in-csp#/)hakkında SSS ve diğer bilgileri gözden geçirin.
+- Dolaylı satıcı seçeneği iş gereksinimlerinize göre daha iyi uyum [sağladıysanız, birlikte çalışmak üzere dolaylı bir sağlayıcı](https://partner.microsoft.com/membership/cloud-solution-provider/find-a-provider) bulun.
 ________________________________
 
-## <a name="microsoft-365-business-voice-offer-updates"></a><a name="12"></a>Microsoft 365 Küçük İşletmeler için Ses Teklif Güncelleştirmeleri
+## <a name="microsoft-365-business-voice-offer-updates"></a><a name="12"></a>Microsoft 365 Küçük İşletmeler için Ses Teklif güncelleştirmeleri
 
 ### <a name="categories"></a>Kategoriler
 
@@ -246,42 +246,42 @@ ________________________________
  
 ### <a name="summary"></a>Özet
 
-Kasım fiyat listesi önizlemesinde teklif kimlikleri yanlıştı.
+Kasım fiyat listesi önizlemesindeki teklif kimlikleri yanlış.
 
-### <a name="impacted-audience"></a>Etkilene hedef kitle
+### <a name="impacted-audience"></a>Etkilenen hedef kitle
 
-Bulut Çözümü Sağlayıcısı (CSP) programı aracılığıyla işlem yapılan tüm iş ortakları
+tüm iş ortakları Bulut Çözümü Sağlayıcısı (CSP) programı üzerinden deneyimidir
 
 ### <a name="details"></a>Ayrıntılar
 
-Kısa süre önce Kasım ayında yakında gelecek olan yeni teklifler hakkında duyurular paylaştık: [kar amacı gütmeyen](#10) kuruluşlar için Microsoft 365 Küçük İşletmeler için Ses ve [Microsoft 365 Küçük İşletmeler için Ses.](#9)
+son zamanlarda kasım ayında sunulan yeni tekliflerle ilgili duyurular hakkında daha fazla bilgi [için Microsoft 365 Küçük İşletmeler için Ses: kar amacı gütmeyen kuruluşlar](#10) ve [Microsoft 365 Küçük İşletmeler için Ses](#9).
 
 
-Bu duyurularda yer alan birkaç teklif kimlikleri düzeltildi. Düzeltilen bu teklif kimlikleri, önümüzdeki haftalarda Kasım fiyat listesi güncelleştirmesinde yayımlanacak.
+Bu duyurularda birkaç teklif kimliği düzeltildi. Bu düzeltilen teklif kimliklerinin önümüzdeki haftalarda Kasım fiyat listesi güncelleştirmesinde yayımlanmasını bekliyor.
 
-#### <a name="correct-offer-ids"></a>Teklif kimliklerini düzeltme
+#### <a name="correct-offer-ids"></a>Doğru teklif kimlikleri
 
-   |**Teklif adı**|**Teklif Kimliği**|**Malzeme Kimliği**|
+   |**Teklif adı**|**Teklif Kimliği**|**Malzeme KIMLIĞI**|
    |-------------------|:------|:------|
-   |Microsoft 365 Küçük İşletmeler için Ses Benimseme Promosyonu (YALNIZDA ABD)|4244aed3-90ae-4754-8dc8-37f2e8d84e85|PZW-00020|
-   |Microsoft 365 Küçük İşletmeler için Ses (Kar Amacı Gütmeyen Personel Fiyatlandırması)|8ede98bb-64b1-44b6-a6a9-96e8346b2e15|PZW-00018|
+   |Microsoft 365 Küçük İşletmeler için Ses Benimseme promosyon (yalnızca ABD)|4244aed3-90ae-4754-8dc8-37f2e8d84e85|PZW-00020|
+   |Microsoft 365 Küçük İşletmeler için Ses (kar amacı gütmeyen personel fiyatlandırması)|8ede98bb-64b1-44b6-a6a9-96e8346b2e15|PZW-00018|
 
-#### <a name="incorrect-offer-ids"></a>Yanlış teklif kimlikleri
+#### <a name="incorrect-offer-ids"></a>Hatalı teklif kimlikleri
 
-Aşağıdaki Kasım fiyat listesi önizlemesi Teklif Kimliği bilgileri göz ardı edilir. 
+Aşağıdaki Kasım fiyat listesi önizleme teklifi KIMLIK bilgileri göz ardı edilmelidir. 
 
    |**Teklif adı**|**Teklif Kimliği**|
    |-------------------|:------|
-   |Microsoft 365 Küçük İşletmeler için Ses Benimseme Promosyonu (YALNIZDA ABD)|93a8771f-ddc7-4c68-ac21-6bd1b17d1e5b|
-   |Microsoft 365 Küçük İşletmeler için Ses (Kar Amacı Gütmeyen Personel Fiyatlandırması)|ae54a18d-3472-473a-9b21-9831b8e658f3|
+   |Microsoft 365 Küçük İşletmeler için Ses Benimseme promosyon (yalnızca ABD)|93a8771f-ddc7-4c68-ac21-6bd1b17d1e5b|
+   |Microsoft 365 Küçük İşletmeler için Ses (kar amacı gütmeyen personel fiyatlandırması)|ae54a18d-3472-473a-9b21-9831b8e658f3|
 
 ### <a name="next-steps"></a>Sonraki adımlar
 
-- Önizleme fiyat listesi hakkında bilgi edinin ve bu bilgileri kuruluşta tüm ilgili kişilerle paylaşın.
-- CSP Program Güncelleştirmeleri Kaynak Galerisi'nde küçük ve orta ölçekli işletmeler için [Microsoft 365 Küçük İşletmeler için Ses hazırlık malzemelerini gözden geçirebilirsiniz.](https://partner.microsoft.com/resources/collection/m365-voice-smb)
+- Önizleme fiyatı listesini öğrenmeye çalışın ve bu bilgileri kuruluşunuzdaki uygun kişilerle paylaşabilirsiniz.
+- CSP Program güncelleştirmeleri kaynak galerisinde, [küçük ve orta ölçekli işletmeler için Microsoft 365 Küçük İşletmeler için Ses tanıtma](https://partner.microsoft.com/resources/collection/m365-voice-smb)tüm hazırlık malzemelerini gözden geçirin.
 ________________
 
-## <a name="november-2020-update-online-services-and-software-channel-authorization-guide"></a><a name="11"></a>Kasım 2020 Güncelleştirmesi: Çevrimiçi Hizmetler ve Yazılım Kanalı Yetkilendirme Kılavuzu
+## <a name="november-2020-update-online-services-and-software-channel-authorization-guide"></a><a name="11"></a>Kasım 2020 güncelleştirmesi: çevrimiçi hizmetler ve yazılım kanalı yetkilendirme Kılavuzu
 
 ### <a name="categories"></a>Kategoriler
 
@@ -289,21 +289,21 @@ ________________
 - Özellik
  
 ### <a name="summary"></a>Özet 
-MPA Yetkilendirme güncelleştirmeleri kılavuzu.
+MPA yetkilendirme kılavuzundaki güncelleştirmeler.
 
-### <a name="impacted-audience"></a>Etkilene hedef kitle
+### <a name="impacted-audience"></a>Etkilenen hedef kitle
 
-Doğrudan fatura, dolaylı sağlayıcılar ve çok katmanlı iş ortakları Bulut Çözümü Sağlayıcısı (CSP) programı.
+doğrudan fatura, dolaylı sağlayıcılar ve Bulut Çözümü Sağlayıcısı (CSP) programına katılan çok katmanlı iş ortakları.
 
 ### <a name="details"></a>Ayrıntılar
-Çevrimiçi Hizmetler ve Yazılım Kanalı Yetkilendirmesi'nin bu alt bölümüne uygun olarak, Microsoft İş Ortağı Sözleşmesi – Microsoft tarafından çevrimiçi hizmetler ve yazılım kanalı yetkilendirme kılavuzunun güncelleştiriliyor olduğunu size bildirerek , "Kılavuzlarda Değişiklikler" başlıklı "Değişiklik Bildirimi" başlıklı bölüm altında; Güncelleştirilmiş kılavuzun önizlemesini [burada görebilirsiniz.](https://partner.microsoft.com/resources/detail/update-guide-online-services-software-channel-authorization-pdf) Bu güncelleştirme, bu bildirimin tarihten itibaren 30 gün geçerli olacak; sizin için başka bir eyleme gerek yoktur.
+Çevrimiçi hizmetler ve yazılım kanalı yetkilendirmesi 'nin bu alt bölümüne uygun olarak, Microsoft Iş ortağı sözleşmenizde "değişikliklere ilişkin değişiklikler" başlıklı, Microsoft Iş ortağı anlaşmanızda, Microsoft, çevrimiçi hizmetler ve yazılım kanalı yetkilendirme kılavuzunun güncelleştirildiği konusunda size bildirimde bulunur. güncelleştirilmiş kılavuzun Önizlemesi [buradan sunulmaktadır](https://partner.microsoft.com/resources/detail/update-guide-online-services-software-channel-authorization-pdf). Bu güncelleştirme, bu bildirimin tarihinden itibaren 30 gün geçerli olacak. sizin tarafınızdan alınması gereken başka bir işlem yok.
 
 ### <a name="next-steps"></a>Sonraki adımlar
-Eylem gerekmez. Bu yalnızca bir bildirimdir.
+Eylem gerekmiyor. Bu yalnızca bir bildirimde bulunur.
 
 ________________
 
-## <a name="introducing-microsoft-365-business-voice-for-non-profit-organizations"></a><a name="10"></a>Kar Microsoft 365 Küçük İşletmeler için Ses kuruluşlara özel tanıtım
+## <a name="introducing-microsoft-365-business-voice-for-non-profit-organizations"></a><a name="10"></a>kar amacı gütmeyen kuruluşlar için Microsoft 365 Küçük İşletmeler için Ses tanıtma
 
 ### <a name="categories"></a>Kategoriler
 
@@ -312,90 +312,90 @@ ________________
  
 ### <a name="summary"></a>Özet 
 
-1 Kasım 2020'de Microsoft, kar amacı gütmeyen kuruluşlar için Microsoft 365 Küçük İşletmeler için Ses SKUS'ları tanıtacak.
+Microsoft, 1 kasım 2020 ' de, kar amacı gütmeyen kuruluşlar için yeni sku 'ları Microsoft 365 Küçük İşletmeler için Ses.
 
-### <a name="impacted-audience"></a>Etkilene hedef kitle
+### <a name="impacted-audience"></a>Etkilenen hedef kitle
 
-Doğrudan sağlayıcılar, dolaylı sağlayıcılar ve dolaylı kurumsal bayiler
+Doğrudan sağlayıcılar, dolaylı sağlayıcılar ve dolaylı satıcılar
 
 ### <a name="details"></a>Ayrıntılar
 
-1 Kasım 2020'de Microsoft, business Voice için yeni SKUS'ları tanıtacak. Paketin tamamını Kanada, Birleşik Krallık ve Birleşik Devletler. Business Voice (Arama Planı olmadan) diğer tüm pazarlarda kullanılabilir olacak. 
+Microsoft, 1 Kasım 2020 ' de Iş sesi için yeni SKU 'Ları tanıtacaktır. Tam paket, Kanada, Birleşik Krallık ve Birleşik Devletler kullanılabilir. İş sesi (arama planı olmadan) diğer tüm pazarlarda kullanılabilir olacaktır. 
 
-Microsoft 365 Küçük İşletmeler için Ses, şirket içinde yerleşik olarak yer alan küçük ve orta ölçekli işletmeler için bulut tabanlı bir telefon Office 365. Müşterinin Office 365 aboneliğine İş Sesi eklemek, tek bir uygulamada arama, sohbet ve toplantılarla birlikte hepsi bir bütün olarak iletişim ve işbirliği Microsoft Teams.
+Microsoft 365 Küçük İşletmeler için Ses, Office 365 yerleşik olan küçük ve orta ölçekli işletmeler için bulut tabanlı bir telefon sistemidir. iş sesini bir müşterinin Office 365 aboneliğine eklemek, tek bir uygulamada Microsoft Teams çağrı, sohbet ve toplantılar sayesinde bir hepsi bir arada iletişim ve işbirliği çözümü sunar.
 
 Fiyatlandırma ayrıntıları için fiyat listesine bakın.  
 
-Hizmet katmanında Birleşik Devletler için fiyat listesi önizleme teklif kimliği Microsoft 365 Küçük İşletmeler için Ses (Kar Amacı Gütmeyen Personel Fiyatlandırması) yanlış olduğunu unutmayın. İş Ortağı Merkezi Promosyon Teklifi Kimliği kullanılabilir olduğunda Ekim ayının ortasında güncelleştirilmiş iletişim bilgilerine sahip olacak. Fiyatlandırma doğru.
+Birleşik Devletler müşteriler, fiyat listesi önizlemesi 'nin Microsoft 365 Küçük İşletmeler için Ses (kar amacı olmayan personel fiyatlandırması) için kimlik bilgilerinin yanlış olduğunu göz önünde sunmalıdır. Promosyon teklifi KIMLIĞI kullanılabilir olduğunda iş ortağı merkezi 'nin orta Ekim 'de iletişimi güncelleştirilecektir. Fiyatlandırma doğru.
 
-Microsoft 365 Küçük İşletmeler için Ses 300 kullanıcıya kadar aşağıdaki aboneliklere eklenebilir: 
-- Office 365: business Essentials, Business Premium, A1, E1, A3 ve E3  
-- Microsoft 365: İş, A3 ve E3
+Microsoft 365 Küçük İşletmeler için Ses, 300 kullanıcıya kadar aşağıdaki aboneliklere eklenebilir: 
+- Office 365: iş temelleri, iş Premium, A1, E1, A3 ve E3  
+- Microsoft 365: Business, A3 ve E3
 
 ### <a name="next-steps"></a>Sonraki adımlar
 
-- Önizleme fiyat listesi hakkında bilgi edinin ve bu bilgileri kuruluşta tüm ilgili kişilerle paylaşın.
-- Bulut Çözümü Sağlayıcısı (CSP) Program Güncelleştirmeleri Kaynak Galerisi: Küçük ve orta ölçekli işletmeler için Microsoft 365 VOICE ile ilgili [hazırlık malzemelerini gözden geçirebilirsiniz.](https://partner.microsoft.com/resources/collection/m365-voice-smb#/)
+- Önizleme fiyatı listesini öğrenmeye çalışın ve bu bilgileri kuruluşunuzdaki uygun kişilerle paylaşabilirsiniz.
+- Bulut Çözümü Sağlayıcısı (CSP) Program güncelleştirmeleri kaynak galerisinde tüm hazırlık malzemelerini gözden geçirin: [küçük ve orta ölçekli işletmeler için Microsoft 365 iş seslerine giriş](https://partner.microsoft.com/resources/collection/m365-voice-smb#/).
 
 ________________
 
-## <a name="cloud-solution-provider-csp-promo-for-microsoft-365-audio-conferencing-now-available-and-microsoft-365-business-voice-coming-on-november-1-2020"></a><a name="9"></a>Bulut Çözümü Sağlayıcısı Sesli Konferans için Microsoft 365 (CSP) tanıtımı 1 Kasım 2020'de Microsoft 365 Küçük İşletmeler için Ses olacak
+## <a name="cloud-solution-provider-csp-promo-for-microsoft-365-audio-conferencing-now-available-and-microsoft-365-business-voice-coming-on-november-1-2020"></a><a name="9"></a>Microsoft 365 ses konferansı için Bulut Çözümü Sağlayıcısı (CSP) promosyon artık kullanılabilir ve 1 kasım 2020 ' de geliyor Microsoft 365 Küçük İşletmeler için Ses
 
 ### <a name="categories"></a>Kategoriler
 
 - Tarih: 2020-10-09
 - Teklifler/Pazarlar
 
-### <a name="impacted-audience"></a>Etkilene hedef kitle
+### <a name="impacted-audience"></a>Etkilenen hedef kitle
 
-CSP programı aracılığıyla işlem yapılan tüm iş ortakları
+Tüm iş ortakları CSP programı üzerinden deneyimidir
 
 ### <a name="details"></a>Ayrıntılar
 
-Microsoft, iş ortaklarının toplantı çözümü olarak Teams için iki yeni CSP promosyonu başlatıyor. Her iki promosyon da Sesli Konferans'ı Microsoft 365 lisansa eklemeyle ilgili sürtüşmeleri azaltarak müşterilere toplantı Microsoft 365 arama çözümü olarak Microsoft 365 Teams tam değerini verir.
-Müşteriler, 1 Ekim 2020 ile 31 Mart 2021 arasında 12 ay boyunca Microsoft 365 aboneliğine eklenti SKU'su olarak Microsoft 365 Sesli Konferans ekleyebilir.
+Microsoft, iş ortakları için bir toplantı çözümü olarak Teams benimseme için iki yeni CSP yükseltmeleri başlatıyor. her iki promosyon de Microsoft 365 bir lisansa ses konferansı eklemekle ilişkili olan ve bir toplantı ve çözüm olarak müşterilere Microsoft 365 ve Teams tam değeri vererek bir sorun olduğunu azaltır.
+müşteriler, 1 ekim 2020 ' den 31 mart 2021 ' den itibaren, bir Microsoft 365 aboneliğine 12 ay boyunca ücretsiz olarak bir eklenti SKU 'su olarak Microsoft 365 ses konferansı ekleyebilir.
 
-#### <a name="offer-details"></a>Teklif ayrıntıları
+#### <a name="offer-details"></a>Teklif Ayrıntıları
 
-   |**Teklif adı**|**Teklif Kimliği**|**Malzeme Kimliği**|
+   |**Teklif adı**|**Teklif Kimliği**|**Malzeme KIMLIĞI**|
    |-------------------|:------|:------|
-   |Microsoft 365 Sesli Konferans Benimseme Promosyonu|106da677-5af6-492a-ac7f-52b3b29a9762|TJ7-00023|
+   |Microsoft 365 Ses konferansı benimseme promosyon|106dad677-5af6-492a-ac7f-52b3b29a9762|TJ7-00023|
 
-1 Kasım 2020 ile 30 Nisan 2021 arasında, Arama Planı ve Arama Planı olmadan Microsoft 365 Küçük İşletmeler için Ses ile Microsoft 365 Küçük İşletmeler için Ses'nin yeni ve yenileme abonelikleri indirimli fiyatlandırmaya tabi olacak. Microsoft 365 Küçük İşletmeler için Ses planında 12 ay boyunca yüzde 25 indirim, Arama Planı olmayan Microsoft 365 Küçük İşletmeler için Ses ise 12 ay boyunca yüzde 33 indirime tabi olur.
+1 kasım 2020 ' den 30 nisan 2021 ' e kadar, arama planı ve Microsoft 365 Küçük İşletmeler için Ses plan olmadan Microsoft 365 Küçük İşletmeler için Ses yeni ve yenileme abonelikleri, indirim fiyatlandırmasına tabi olacaktır. çağrı planı ile Microsoft 365 Küçük İşletmeler için Ses 12 ay boyunca yüzde 25 oranında indirime tabi olur ve Plan çağrılmadan Microsoft 365 Küçük İşletmeler için Ses, 12 ay boyunca yüzde 33 indirimle ilgili olacaktır.
 
-   |**Teklif adı**|**Teklif Kimliği**|**Malzeme Kimliği**|
+   |**Teklif adı**|**Teklif Kimliği**|**Malzeme KIMLIĞI**|
    |-------------------|:------|:------|
-   |Microsoft 365 Küçük İşletmeler için Ses Benimseme Promosyonu|e7d1d0fa-b769-45c7-aaea-c3e6f7402691|PZX-00006|
-   |Microsoft 365 Küçük İşletmeler için Ses Benimseme Promosyonu|ef3ff6bb-a288-4a56-9204-97b37ff9a0b8|PZW-00019|
-   |Microsoft 365 Küçük İşletmeler için Ses Benimseme Promosyonu|93a8771f-ddc7-4c68-ac21-6bd1b17d1e5b|PZW-00020|
-   |Microsoft 365 Küçük İşletmeler için Ses Planı Çağırmadan) Benimseme Promosyonu|b71df433-6fd9-4549-886d-577f7aa06070|PZY-00019|
-   |Microsoft 365 Küçük İşletmeler için Ses Planı Çağırmadan) Benimseme Promosyonu|4ba4d580-4902-42b0-8411-a27358dd5405|PZY-00016|
-   |Microsoft 365 Küçük İşletmeler için Ses Planı Çağırmadan) Benimseme Promosyonu|bbfd896b-e3d4-45ba-9319-14104d400069|PZY-00018|
-   |Microsoft 365 Küçük İşletmeler için Ses Benimseme Promosyonu için Microsoft 365 Küçük İşletmeler için Ses (Plan Çağırmadan)|9b05d0b7-cfb4-42f1-9cc3-f698dba2838e|PZY-00017|
+   |Microsoft 365 Küçük İşletmeler için Ses Benimseme promosyon|e7d1d0fa-b769-45c7-aaea-c3e6f7402691|PZX-00006|
+   |Microsoft 365 Küçük İşletmeler için Ses Benimseme promosyon|ef3ff6bb-a288-4a56-9204-97b37ff9a0b8|PZW-00019|
+   |Microsoft 365 Küçük İşletmeler için Ses Benimseme promosyon|93a8771f-ddc7-4c68-ac21-6bd1b17d1e5b|PZW-00020|
+   |Microsoft 365 Küçük İşletmeler için Ses (Plan çağrılmadan) benimseme promosyon|b71df433-6fd9-4549-886d-577f7aa06070|PZY-00019|
+   |Microsoft 365 Küçük İşletmeler için Ses (Plan çağrılmadan) benimseme promosyon|4ba4d580-4902-42b0-8411-a27358dd5405|PZY-00016|
+   |Microsoft 365 Küçük İşletmeler için Ses (Plan çağrılmadan) benimseme promosyon|bbfd896b-e3d4-45ba-9319-14104d400069|PZY-00018|
+   |abd benimseme promosyon için Microsoft 365 Küçük İşletmeler için Ses (Plan çağrısı olmadan)|9b05d0b7-cfb4-42f1-9cc3-f698dba2838e|PZY-00017|
    
-Bu promosyonlar aşağıdaki müşterileri etkiler:
-- Net yeni müşteri kiracıları
-- CSP, Web Direct veya diğer Microsoft ticari kanallarında herhangi bir Business Voice veya Sesli Konferans lisansı üzerinde etkin veya yakın zamanda iptal edilmiş (son 30 gün içinde) olmayan mevcut müşteri kiracıları
+Bu yükseltmeler aşağıdaki müşterileri etkiler:
+- NET yeni müşteri kiracılar
+- CSP, Web Direct veya diğer Microsoft ticari kanallarında, etkin veya son zamanlarda iptal olmayan mevcut müşteri kiracılar (son 30 gün içinde).
 
 #### <a name="additional-resources"></a>Ek kaynaklar
 
-- İş Ortağı [Microsoft 365 Küçük İşletmeler için Ses daha fazla](https://www.microsoft.com/microsoft-365/partners/businessvoice) bilgi edinmek için İş Ortağı Sayfasını ziyaret edin. 
-- Daha fazla Sesli Konferans Microsoft 365 için bkz. [Sesli Konferans.](/microsoftteams/audio-conferencing-in-office-365)
-- Bu promosyonlar hakkında daha fazla bilgi için ilgili İş Ortağı [SSS bölümüne bakın.](https://www.microsoft.com/microsoft-365/partners/resources/faq-business-voice-audio-conferencing-promo)
+- iş sesi hakkında daha fazla bilgi edinmek için [Microsoft 365 Küçük İşletmeler için Ses iş ortağı sayfasını](https://www.microsoft.com/microsoft-365/partners/businessvoice) ziyaret edin. 
+- daha fazla bilgi edinmek için Microsoft 365 ['de ses konferansı](/microsoftteams/audio-conferencing-in-office-365)bölümüne bakın.
+- İlgili [Iş ortağı SSS](https://www.microsoft.com/microsoft-365/partners/resources/faq-business-voice-audio-conferencing-promo)bölümünde Bu promosyonlar hakkında daha fazla bilgi edinin.
 
 ### <a name="next-steps"></a>Sonraki adımlar
 
-- Bu toplantı ve promosyon fırsatlarını çağırma hakkında bilgi edinin ve bu bilgileri kuruluşta tüm ilgili kişilerle paylaşın.
-- Bu teklifleri satış promosyonları Microsoft 365 dahil etmek.
-- İşletmelere İş Sesli veya Sesli Konferans eklemenin ne kadar önemli olduğu konusunda müşterilerle Teams.
+- Bu toplantıyla ilgili bilgi edinmek ve promosyon fırsatlarını çağırmak ve bu bilgileri kuruluşunuzdaki uygun kişilerle paylaşmak için.
+- bu teklifleri Microsoft 365 satış promosyonlarına ekleyin.
+- Teams için Iş sesi veya ses konferansı ekleme değeri hakkındaki müşterilerle bir tanıma sürücü.
 
 ### <a name="questions"></a>Sorularınız mı var?
 
-Bu teklifler hakkında sorular için, destek ekibinde veya Microsoft hesabı temsilcinize başvurun.
+Bu tekliflerle ilgili sorular için Microsoft hesabı ekibi veya destek bölümünde temsilcinizle iletişime geçin.
 
 ________________
 
-## <a name="simplified-azure-apps-experience-in-azure-marketplace"></a><a name="8"></a>Azure Market'da basitleştirilmiş Azure uygulamaları deneyimi
+## <a name="simplified-azure-apps-experience-in-azure-marketplace"></a><a name="8"></a>Azure Market 'te Basitleştirilmiş Azure uygulamaları deneyimi
 
 ### <a name="categories"></a>Kategoriler
 
@@ -404,30 +404,30 @@ ________________
  
 ### <a name="summary"></a>Özet 
 
-Kullanıcı Azure portal (UX) kısa süre önce tüm Azure uygulamaları için değiştirildi. Bu, bağımsız yazılım satıcıları (ISV) için nelerin bekleneceğini ve sonraki adımlarla ilgili bir güncelleştirmedir.
+Azure portal Kullanıcı deneyimi (UX) son zamanlarda tüm Azure uygulamaları için değiştirilmiştir. Bu, bekleneceğiniz ve sonraki adımlarda bağımsız yazılım satıcıları (ISV 'Ler) için bir güncelleştirmedir.
 
-### <a name="impacted-audience"></a>Etkilene hedef kitle
+### <a name="impacted-audience"></a>Etkilenen hedef kitle
 
-Tüm ISV'ler Azure uygulamalarını yayımlar
+Tüm ISV 'Ler Azure uygulamalarını yayımlanıyor
 
 ### <a name="details"></a>Ayrıntılar
 
-Azure uygulamaları için UX'i Azure portal.
+Azure portal Azure uygulamaları için UX 'i basitleştirdik.
 
-Azure uygulamalarını (çözüm şablonları ve yönetilen uygulamalar) yayımlamak için Azure Market.
+Bu e-postayı, Azure Market 'te (çözüm şablonları ve yönetilen uygulamalar) yayımladığınızdan veya yayımlamak üzere kaydolduğunuz için alıyorsunuz.
 
-Müşterilerin Azure uygulamalarını kullanma ve yönetme [Azure portal](https://ms.portal.azure.com/) için bu hizmette bazı değişiklikler yaptık. **Yeni deneyimi yansıtacak** şekilde müşteri belgelerinizi ve başvuru malzemelerinizi gözden geçirin ve güncelleştirin.
-Azure portal'daki yeni Azure portal:
+Müşterilerin Azure uygulamalarını nasıl kullandığını ve yönettireceğiz için [Azure Portal](https://ms.portal.azure.com/) bazı değişiklikler yaptık. Yeni deneyimi yansıtdıklarından emin olmak için müşteri belgelerinizi ve başvuru malzemelerinizi **gözden geçirin ve güncelleştirin** .
+Azure portal yenilikler aşağıda verilmiştir:
 
-- Önceki bölümü tamamlamak zorunda kalmadan herhangi bir bölümdeki bilgileri görüntülemenizi, düzenlemenizi ve kaydetmenizi sağlayan esnek gezinti.
-- Birden çok iç içe düzey olmadan yeni tam sayfa görünümü.
-- Azure kaynaklarını etiketlemek ve düzenlemek için yeni işlevsellik. Etiketleme hakkında daha fazla bilgi edinmek için [bkz. Azure kaynaklarınızı düzenlemek için etiketleri kullanma.](/azure/azure-resource-manager/management/tag-resources)
+- Önceki bölümü tamamlamaya gerek kalmadan herhangi bir bölümde bilgileri görüntülemenizi, düzenlemenizi ve kaydetmenizi sağlayan esnek gezinme.
+- Birden çok iç içe düzey içermeyen yeni tam sayfa görünümü.
+- Azure kaynaklarını etiketlemek ve düzenlemek için yeni işlevsellik. Etiketleme hakkında daha fazla bilgi edinmek için bkz. [Azure kaynaklarınızı düzenlemek için etiketleri kullanma](/azure/azure-resource-manager/management/tag-resources).
 
-Bu değişiklikler hakkında sorularınız varsa destek ekibimize [başvurun.](https://aka.ms/marketplacepublishersupport)
+Bu değişiklikler hakkında sorularınız varsa [destek ekibimize](https://aka.ms/marketplacepublishersupport)başvurun.
 
 ### <a name="next-steps"></a>Sonraki adımlar
 
-Yeni deneyimi yansıtacak şekilde müşteri belgelerinizi ve başvuru malzemelerinizi gözden geçirin ve güncelleştirin.
+Yeni deneyimi yansıtdıklarından emin olmak için müşteri belgelerinizi ve başvuru malzemelerinizi gözden geçirin ve güncelleştirin.
 
 ________________
 
@@ -440,63 +440,63 @@ ________________
  
 ### <a name="summary"></a>Özet 
 
-Microsoft Teams Odaları Premium (CSP) Microsoft Teams SKU'Bulut Çözümü Sağlayıcısı 1 Kasım 2020'de kullanılabilir olacak. 
+Bulut Çözümü Sağlayıcısı (CSP) programı aracılığıyla Microsoft Teams için Microsoft Teams Odaları Premium SKU 'su 1 kasım 2020 ' de kullanıma sunulacaktır. 
 
-### <a name="impacted-audience"></a>Etkilene hedef kitle
+### <a name="impacted-audience"></a>Etkilenen hedef kitle
 
-CSP programı aracılığıyla iş ortakları deneyimidir
+CSP programı aracılığıyla işlem yapılan iş ortakları
 
 ### <a name="details"></a>Ayrıntılar
 
-Microsoft Teams Odaları için yeni Microsoft Teams Odaları Premium SKU 'su, her ay cihaz başına USD50 üzerinden size CSP satın alma ile sunulmaktadır. Microsoft Teams Odaları Premium sku 'su Microsoft Teams Odaları standart sku 'sunun (daha önce Meeting Room lisansı olarak adlandırılır) bir alternatifidir. bu SKU, standart sunumdaki her şeyi içerir, örneğin Microsoft Teams, çevrimiçi Skype Kurumsal ve ıntune yönetimi için gerekli lisanslar. sunum ayrıca, kullanılabilir olduğunda, ortak anahtarlı telefon ağı (PSTN) tümleştirmesi ve ses konferansı için gerekli Telefon Sistemi da sunar.
+Yeni Microsoft Teams Odaları Premium SKU'Microsoft Teams Odaları artık cihaz başına aylık 50 ABD doları üzerinden CSP satın alan müşterileriniz tarafından kullanılabilir. SKU Microsoft Teams Odaları Premium standart SKU'ya (daha önce Microsoft Teams Odaları lisansı olarak da adlandırılan) alternatif Meeting Room seçenektir. Bu SKU Standart teklifte yer alan her şeyi içerir; örneğin, Microsoft Teams, Skype Kurumsal Online ve Intune yönetimi için gerekli lisanslar. Teklif ayrıca, Telefon Sistemi Anahtarlı Telefon Ağı (PSTN) tümleştirmesi ve uygunsa Sesli Konferans için gerekli olan güvenlik açıklarını da sağlar.
 
-Premium teklifiyle, müşteriler, uzmanların müşteri adına toplantı odalarına yönelik yönetimi ve işlemleri işleyeceği, yeni yayınlanan Microsoft Teams Odaları yönetilen hizmetlere erişimi vardır. bu bulut tabanlı bt yönetimi ve izleme hizmeti, Microsoft Teams Odaları cihazları ve bunların çevre birimlerini güncel ve güvenli hale getirmeye, ayrıca, daha iyi izlenen ve yönetilen bir ortamı, daha iyi bir oda içi deneyim için optimize edilmiş ve yönetilmeye devam eder.
+Premium teklifiyle, müşteriler yeni yayımlanan Microsoft Teams Odaları Yönetilen Hizmetler'e erişime sahiptir. Uzmanlar, toplantı odalarının yönetim ve işlemlerini müşteri adına ele almaktadır. Bu bulut tabanlı IT yönetim ve izleme hizmeti, Microsoft Teams Odaları cihazları ve çevre birimlerini güncel ve güvenli tutar, ayrıca proaktif olarak izlenilen ve yönetilen, harika bir oda deneyimi için iyileştirilmiş bir ortamı korur.
 
-#### <a name="released-at-launch"></a>Başlatma sırasında yayınlandı
+#### <a name="released-at-launch"></a>Başlatmada yayınlandı
 
-   |**Hizmet**|**Microsoft Teams Odaları Ayda standart USD15 cihaz**|**aylık yeni Microsoft Teams Odaları Premium USD50 cihaz**|
+   |**Hizmet**|**Microsoft Teams Odaları Aylık Standart USD15 Cihaz**|**Yeni Microsoft Teams Odaları Premium AYLıK 50 ABD Doları Cihaz**|
    |-------------------|:------|:------|
    |Skype Kurumsal|Dahil|Dahil|
    |Microsoft Teams|Dahil|Dahil|
    |Telefon Sistemi|Dahil|Dahil|
-   |Ses konferansı|Dahil|Dahil|
+   |Sesli Konferans|Dahil|Dahil|
    |Microsoft Intune|Dahil|Dahil|
-   |Microsoft Teams Odaları Yönetilen hizmetler|Dahil Değil|Dahil|
-   |Dünya çapında kullanılabilirlik|Dahil|Pazarlar seçin|
+   |Microsoft Teams Odaları Yönetilen Hizmetler|Dahil Değil|Dahil|
+   |Dünya Çapında Kullanılabilirlik|Dahil|Pazarlar'ı seçin|
 
-#### <a name="microsoft-teams-rooms-managed-services"></a>Microsoft Teams Odaları Yönetilen hizmetler
+#### <a name="microsoft-teams-rooms-managed-services"></a>Microsoft Teams Odaları Yönetilen Hizmetler
 
-- Proaktif Yönetim: ek düzeltme, yapılandırma yönetimi ve daha fazlasını içeren oda sistemlerinizde 24x7x365 yönetimi.
-- Gerçek zamanlı izleme ve kök neden analizi: Izleme ve algılama, Microsoft tarafından, gerektiğinde müşteriyle koordine olarak yönetilen olay yönetimi yanıtı ile
-- yönetilen güncelleştirmeler: uygulama, Windows KB ve bellenim güncelleştirmelerinin yönetimi ve teslimi.
-- Müşteri desteği: otomatik olmayan durumlar için yardımlı olay düzeltme ile adanmış hizmet işlem merkezimiz aracılığıyla 24x7x365 bilet desteği.
-- Analizler ve önerileri: oda sağlık, kullanım, çevrimiçi toplantılar ve olay eğilimleri hakkında müşteriler ve raporlar hakkında toplu öngörüler.
+- Proaktif yönetim: Düzeltme eki uygulama, yapılandırma yönetimi ve daha fazlası dahil olmak üzere oda sistemlerinizin 7x24 yönetimi.
+- Gerçek zamanlı izleme ve kök neden analizi: Gerektiğinde müşteriyle eşgüdümlü olarak Microsoft tarafından yönlendirilen, olay yönetimi yanıtıyla izleme ve algılama.
+- Yönetilen güncelleştirmeler: Uygulama yönetimi ve teslimi, Windows KB ve üretici yazılımı güncelleştirmeleri.
+- Müşteri desteği: Otomatik olmayan durumlar için yardımlı olay düzeltmesi ile ayrılmış hizmet operasyon merkezimiz aracılığıyla 7x24 bilet desteği.
+- Analizler ve öneriler: Müşteriler ve raporlarda oda durumu, kullanımı, çevrimiçi toplantılar ve olay eğilimleri hakkında toplu içgörüler.
 
-#### <a name="offer-details"></a>Teklif Ayrıntıları
+#### <a name="offer-details"></a>Teklif ayrıntıları
 
-   |**Teklif adı**|**Teklif Kimliği**|**Malzeme KIMLIĞI**|
+   |**Teklif adı**|**Teklif Kimliği**|**Malzeme Kimliği**|
    |-------------------|:------|:------|
-   |Teams Odaları Premium |5db9aa31-f039-4740-B122-a33514e4c492|6XB-00007|
-   |Teams Odaları Premium (abd ve CAN)|03070f91-cc77-4c2e-B269-4a214b3698ab|6XB-00008|
-   |fakülteler için Teams Odaları Premium|d0c9a9a9-c9b6-41d7-9148-b60115c36c95|6Yı5-00005|
+   |Teams Odaları Premium |5db9aa31-f039-4740-b122-a33514e4c492|6XB-00007|
+   |Teams Odaları Premium (ABD ve CAN)|03070f91-cc77-4c2e-b269-4a214b3698ab|6XB-00008|
+   |Teams Odaları Premium için eğitim|d0c9a9a9-c9b6-41d7-9148-b60115c36c95|6Y5-00005|
 
-Yeni teklif ve coğrafi kullanılabilirlik hakkında bilgi sahibi olmanıza yardımcı olmak için [sık sorulan sorular (SSS)](https://partner.microsoft.com/resources/detail/faq-microsoft-teams-rooms-premium-sku-for-microsoft-teams-pdf)sayfasını ziyaret edin.
+Yeni teklif ve coğrafi kullanılabilirlik hakkında bilgi sahibi olmak için sık sorulan soruları [(SSS) ziyaret edin.](https://partner.microsoft.com/resources/detail/faq-microsoft-teams-rooms-premium-sku-for-microsoft-teams-pdf)
 
 ### <a name="next-steps"></a>Sonraki adımlar
 
-- [Rooms.Microsoft.com](https://rooms.microsoft.com/)adresinde Microsoft odaları ve ilgili teklifler hakkında daha fazla bilgi edinin. 
-- [Teams iş ortağı kılavuzunu](https://aka.ms/teamscallingmeetingsguide) kullanarak uygulamanızı Teams toplantı odalarından geliştirin ve ortak satış için sunulan bir teklif oluşturun. 
-- ürün çözümü ve hizmetleri hakkında daha fazla bilgi için [Microsoft Teams Odaları sss](https://aka.ms/PartnerMTRFAQ) makalesini inceleyin. 
-- Bu bilgileri kuruluşunuzdaki ilgili tüm kişilerle paylaşmak için, büyük satış ve çapraz satış fırsatlarını anlayın.
+- Microsoft Odaları ve ilgili teklifler hakkında daha fazla bilgi için [rooms.microsoft.com.](https://rooms.microsoft.com/) 
+- Teams [Toplantı](https://aka.ms/teamscallingmeetingsguide) Odaları ile alıştırmanızı geliştirmek ve ortak satışa Teams teklif oluşturmak için İş Ortağı Kılavuzu'nun kullanın. 
+- Ürün çözümü [Microsoft Teams Odaları hakkında daha](https://aka.ms/PartnerMTRFAQ) fazla bilgi için SSS bölümünü gözden geçirin. 
+- Bu bilgileri, kuruluşta tüm ilgili kişilerle paylaşın ve satış ve çapraz satış fırsatlarını anlıyoruz.
 
 ### <a name="questions"></a>Sorularınız mı var?
 
-bu teklifler hakkında daha fazla soru için ilgili Yammer topluluklarınızı denetleyin.
+Bu teklifler hakkında daha fazla soru için ilgili toplulukları Yammer kontrol edin.
 
 ________________
 
 
-## <a name="microsoft-calling-plans-are-now-available-in-new-markets"></a><a name="6"></a>Microsoft çağırma planları artık yeni pazarlarda kullanılabilir
+## <a name="microsoft-calling-plans-are-now-available-in-new-markets"></a><a name="6"></a>Microsoft Arama Planları artık yeni pazarlarda kullanılabilir
 
 ### <a name="categories"></a>Kategoriler
 
@@ -505,32 +505,32 @@ ________________
 
 ### <a name="summary"></a>Özet
 
-Microsoft, Microsoft çağırma planlarının şu yeni pazarlarda kullanıma sunulduğunu duyurmaktan mutluluk duyur: Avusturya, Danimarka, Italya, Portekiz, Isveç ve Isviçre.
+Microsoft, Microsoft Arama Planları'nın şu yeni pazarlarda kullanılabilir olduğunu duyurmak için heyecanla: Almanya, İsviçre, İtalya, Portekiz, İsveç ve İsviçre.
  
-### <a name="impacted-audience"></a>Etkilenen hedef kitle
+### <a name="impacted-audience"></a>Etkilene hedef kitle
 
-Bulut Çözümü Sağlayıcısı (CSP) doğrudan sağlayıcılar, dolaylı sağlayıcılar ve dolaylı satıcılar
+Bulut Çözümü Sağlayıcısı (CSP) doğrudan sağlayıcılar, dolaylı sağlayıcılar ve dolaylı kurumsal bayiler
 
 ### <a name="details"></a>Ayrıntılar
 
-Microsoft, 1 Ekim 2020 itibariyle Microsoft çağırma planlarının şu yeni pazarlarda kullanıma sunulduğunu duyurmaktan mutluluk duyuyoruz: Avusturya, Danimarka, Italya, Portekiz, Isveç ve Isviçre. yeni coğrafi kullanılabilirlik, ticari, dünya çapındaki kamu sektörü, kar amacı gütmeyen ve Government Community Cloud Kurumsal Anlaşma (ea) veya Kurumsal Anlaşma aboneliği (EAS) aracılığıyla, eğitim çözümleri için kayıt (ees), Web Direct ve CSP aracılığıyla başlatılmıştı.
+Microsoft, 1 Ekim 2020'den bu yana Microsoft Arama Planları'nın şu yeni pazarlarda kullanılabilir olduğunu duyurmakta heyecanlanıyor: İsviçre, İtalya, Portekiz, İsveç ve İsviçre. Yeni coğrafi kullanılabilirlik Ticari, Dünya Çapında Kamu Sektörü, Kar Amacı Gütmeyen ve Government Community Cloud'da Kurumsal Anlaşma (EA) veya Kurumsal Anlaşma Aboneliği (EAS), Eğitim Çözümleri için Kayıt (EES), Web Direct ve CSP aracılığıyla başlatıldı.
 
-Tüm Microsoft çağrı planı özellikleri, Microsoft 'un bir ayda 120, 240 ve 1.200 dakika (p/u/m) yurtiçi planları ve Uluslararası plan olan 1.200 yurtiçi, p/u/m ve 600 Uluslararası dakikada p/u/m dahil olmak üzere, Microsoft 'un yurtiçi ve uluslararası arama planlarıyla sunulmaktadır.
+Microsoft'un Yerel ve Uluslararası Arama Planları için, kullanıcı başına aylık 120, 240 ve 1.200 dakika (p/u/m) İç planlar ve 1.200 yerel dakika ile Uluslararası Plan p/u/m ve 600 uluslararası dakika dahil olmak üzere tüm Microsoft Arama Planları özellikleri kullanılabilir.
 
-Microsoft çağırma planları daha önce Şu pazarlarda kullanıma sunulmuştur: Belçika, Kanada, Fransa, Almanya, Irlanda, Hollanda, Porto Riko (yalnızca EA ve EES ile sınırlı kanal kullanılabilirliği ile), Ispanya, Birleşik Krallık ve Birleşik Devletler (Avustralya ve Japonya 'da üçüncü taraf çağrı planı kullanılabilirliğiyle).
+Microsoft Arama Planları daha önce şu pazarlarda kullanılabilir hale getirimiştir: Belgium, Canada, France, Almanya, İrlanda, Hollanda, Porto Riko (yalnızca EA ve EES ile sınırlı kanal kullanılabilirliği ile), İspanya, Birleşik Krallık ve Birleşik Devletler (Avustralya ve Japonya'da üçüncü taraf Arama Planı kullanılabilirliği ile).
 
-#### <a name="offer-details"></a>Teklif Ayrıntıları
+#### <a name="offer-details"></a>Teklif ayrıntıları
 
-   |**Teklif adı**|**Teklif Kimliği**|**Malzeme KIMLIĞI**|
+   |**Teklif adı**|**Teklif Kimliği**|**Malzeme Kimliği**|
    |-------------------|:------|:------|
-   |Microsoft 365 Yurtiçi arama planı|52b01454-aa44-4e03-8049-c4d57496a430|4ıD-00002|
-   |Microsoft 365 Yurtiçi arama planı|0f598efe-F330-4d79-b79f-c9480bb7ce3e|AAA-13706|
-   |Microsoft 365 Yurtiçi çağrı planı (kamu fiyatlandırması)|96b96fd8-b77d-41A4-ae5d-0a6652f454b7|AAA-13707|
-   |Microsoft 365 Öğrenciler için yurtiçi çağrı planı|da2034e1-c147-4aae-afab-9c15acf16ea5|AAA-22335|
-   |Microsoft 365 Fakülte için yurtiçi çağrı planı|5e8853ed-611c-4f9c-af21-540ba351a636|AAA-22334|
-   |Microsoft 365 GCC için yurtiçi çağrı planı|7099743e-F474-48BE-97bc-d4fb22f059bf|AAD-25690|
-   |Microsoft 365 Yurtiçi ve uluslararası arama planı|ded34535-507f-4246-8370-f9180318c537|AAA-13708|
-   |Microsoft 365 Yurtiçi ve uluslararası arama planı (kamu fiyatlandırması)|d97b23b4-627c-41db-8f55-ce342b0db656|AAA-13709|
+   |Microsoft 365 İç Arama Planı|52b01454-aa44-4e03-8049-c4d57496a430|4ID-00002|
+   |Microsoft 365 İç Arama Planı|0f598efe-f330-4d79-b79f-c9480bb7ce3e|AAA-13706|
+   |Microsoft 365 Yerel Arama Planı (Kamu Fiyatlandırması)|96b96fd8-b77d-41a4-ae5d-0a6652f454b7|AAA-13707|
+   |Microsoft 365 Öğrenciler için Yerel Arama Planı|da2034e1-c147-4aae-afab-9c15acf16ea5|AAA-22335|
+   |Microsoft 365 Fakülteler için Yerel Arama Planı|5e8853ed-611c-4f9c-af21-540ba351a636|AAA-22334|
+   |Microsoft 365 GCC için Yerel Arama Planı|7099743e-f474-48be-97bc-d4fb22f059bf|AAD-25690|
+   |Microsoft 365 Yerel ve Uluslararası Arama Planı|ded34535-507f-4246-8370-f9180318c537|AAA-13708|
+   |Microsoft 365 Yerel ve Uluslararası Arama Planı (Kamu Fiyatlandırması)|d97b23b4-627c-41db-8f55-ce342b0db656|AAA-13709|
    |Microsoft 365 Öğrenciler için Yerel ve Uluslararası Arama Planı|64ed3fb4-9f46-4e8a-b287-7a3662245c37|AAA-22337|
    |Microsoft 365 Fakülteler için Yerel ve Uluslararası Arama Planı|492b8a14-381c-4536-bf63-bd5785c14734|AAA-22336|
    |Microsoft 365 GCC için Yerel ve Uluslararası Arama Planı|0cf5df85-ecf5-43f5-93b0-04a950e906a3|AAD-25680|
@@ -671,10 +671,10 @@ Bu konu başlığıyla ilgili kaynakları gözden geçirme ve bu bilgileri kurul
 
 ### <a name="questions"></a>Sorularınız mı var?
 
-bu teklifler hakkında daha fazla soru için ilgili Yammer topluluklarınızı kontrol edin. 
+Bu teklifler hakkında daha fazla soru için ilgili topluluklarınızı Yammer kontrol edin. 
 ________________
 
-## <a name="new-skus-bring-the-power-of-project-cortex-and-more-to-customers"></a><a name="2"></a>yeni sku 'lar Cortex Projesi ve daha fazlasını müşterilerin gücünden çıkarır
+## <a name="new-skus-bring-the-power-of-project-cortex-and-more-to-customers"></a><a name="2"></a>Yeni SKUS'lar müşterilere Cortex Projesi daha fazlasının gücünü getirir
 
 ### <a name="categories"></a>Kategoriler
 
@@ -683,49 +683,49 @@ ________________
 
 ### <a name="summary"></a>Özet
 
-müşterilerin [Cortex Projesi](https://resources.techcommunity.microsoft.com/project-cortex-microsoft-365/) ve Microsoft Arama gücünden yararlanmasına yardımcı olmak için yeni sku 'ların 1 ekim 2020 ' de kullanılabilirliğini duyurmaktan mutluluk duyuyoruz.
+Müşterilerin Cortex Projesi ve Microsoft Arama'ın gücüten faydalanmalarında yardımcı olmak için 1 Ekim 2020'de yeni SKUS'ların kullanılabilirliğini duyurmak Microsoft Arama. [](https://resources.techcommunity.microsoft.com/project-cortex-microsoft-365/)
  
-### <a name="impacted-audience"></a>Etkilenen hedef kitle
+### <a name="impacted-audience"></a>Etkilene hedef kitle
 
-Bulut Çözümü Sağlayıcısı programı aracılığıyla iş ortakları deneyimidir
+Bulut Çözümü Sağlayıcısı programı aracılığıyla işlem Bulut Çözümü Sağlayıcısı iş ortakları
 
 ### <a name="details"></a>Ayrıntılar
 
-müşterilerin Microsoft Arama [Cortex Projesi](https://resources.techcommunity.microsoft.com/project-cortex-microsoft-365/) gücünden yararlanmasına yardımcı olmak ve kullanıcıların bilgileri daha verimli bir şekilde bulmasını ve yönetmesini sağlamak için, yeni sku 'lar ve değerin 1 ekim 2020 ' de kullanılabilirliğini duyurmak heyecanlıyız.  
+1 Ekim 2020'de müşterilerin Cortex Projesi ve [Microsoft Arama'nin](https://resources.techcommunity.microsoft.com/project-cortex-microsoft-365/) gücüden faydalanarak kullanıcılarının bilgileri daha verimli bir şekilde bulmalarına ve yönetmelerine yardımcı olmak için yeni SKUS'ların ve değerin 1 Ekim 2020'de kullanılabilirliğini duyurmaktan heyecan ediyoruz.  
 
-**SharePoint Syntex (daha önce akıllı içerik hizmetleri)**  
-SharePoint Syntex, içeriğin yakalanmasını, etiketlemesini ve yönetimini otomatikleştirmek için gelişmiş aı kullanır. yüksek hacimli içerik işleme, işlem otomasyonu için meta verileri ayıklama, ayrıntılı güvenlik ve uyumluluk için SharePoint oluşturulur. Bilgi ağınıza daha akıllı içerik sağlayarak bilgi işlem ve bulma deneyimlerini daha iyi hale getirir. 
+**SharePoint Syntex (daha önce Intelligent Content Services)**  
+SharePoint Syntex yakalama, etiketleme ve yönetimi otomatikleştirmek için gelişmiş AI kullanır. Yüksek hacimli içerik SharePoint, işlem otomasyonu için meta verileri ayıklamak ve çok daha fazla güvenlik ve uyumluluk sağlamak için çok daha fazla kaynak sunar. Bilgi ağınıza daha akıllı içerikler sağlayarak bilgi curation ve keşif deneyimlerini daha iyi hale sağlar. 
 
-SharePoint Syntex SKU 'Lar, 1 Ekim fiyat listelerinde (1 Eylül 'de, yansıtılan akıllı Içerik Hizmetleri) kullanıma sunulacaktır. Microsoft Lisanslama Koşulları, 1 Kasım 2020 ' e kadar eski adı, akıllı Içerik Hizmetleri altında Bu SKU 'ya başvurabilirler.
+SharePoint Syntex SKU'lar 1 Ekim fiyat listelerinde kullanılabilir olacak (1 Eylül fiyat listesi önizlemesi Intelligent Content Services'i yansıttı). Microsoft lisans koşulları, 1 Kasım 2020'ye kadar bu SKU'ya eski adı Olan Intelligent Content Services adını vermeye devam ediyor olabilir.
 
-**Microsoft Arama için Microsoft Graph bağlayıcılar**  
+**Graph için Microsoft Microsoft Arama**  
 
-Microsoft Graph bağlayıcılarıyla müşteriler, Microsoft Arama sonuçlarına eklenmek üzere dış depolardaki öğelerin dizinini oluşturabilir. 1 Ekim 2020 ' den itibaren:
+Microsoft Graph bağlayıcıları ile, müşteriler dış depolarda öğeleri dizine dahil etmek için Microsoft Arama olabilir. 1 Ekim 2020'den itibaren:
 
-- Microsoft 365 E5 ve Office 365 E5, Microsoft Arama Microsoft Graph bağlayıcıları kullanarak en fazla 500 öğeyi dizinleyebilme özelliğini içerir (A5 dahil değildir).  
-- bir SharePoint veya OneDrive planı içeren bir pakete veya bağımsız lisansa sahip herhangi bir kullanıcı, Microsoft Arama için Microsoft Graph bağlayıcılarından arama sonuçlarını görebilecektir. 
-- 1.000.000 ek öğeye kadar dizin oluşturmak için yeni bir **ek Graph bağlayıcı kapasitesi SKU 'su** sunulacaktır.
+- Microsoft 365 E5 Office 365 E5, microsoft Graph bağlayıcılarını kullanarak en fazla 500 öğenin dizine Microsoft Arama (A5'e dahil değildir) olanağını içerir.  
+- SharePoint veya OneDrive planı içeren bir paket veya tek başına lisansı olan tüm kullanıcılar, Microsoft Arama için Microsoft Graph bağlayıcılarından arama sonuçlarını görebilir. 
+- 1 **milyon adede kadar ek öğenin** dizinini oluşturması için yeni bir Ek Graph Bağlayıcı Kapasitesi SKU'su kullanılabilir.
 
-#### <a name="offer-details"></a>Teklif Ayrıntıları
+#### <a name="offer-details"></a>Teklif ayrıntıları
 
-   |**Teklif adı**|**Teklif Kimliği**|**Malzeme KIMLIĞI**|
+   |**Teklif adı**|**Teklif Kimliği**|**Malzeme Kimliği**|
    |-------------------|:------|:------|
    |SharePoint Syntex|2e969027-6eca-44a3-88fb-e7923e2c147f|5YI-00004|
-   |SharePoint Syntex (kar amacı gütmeyen personel fiyatlandırması)|48db24e2-0aac-47bd-bd74-40bde9ff7748|5YI-00005|
-   |fakülteler için SharePoint Syntex|4a8f9036-791e-4ce4-a788-6c5af859fd82|5Z1-00005|
-   |ek Graph bağlayıcı kapasitesi|9c8b008f-d84f-46cd-A588-fea84947161d|1LA-00002|
-   |fakülteler için ek Graph bağlayıcı kapasitesi|0e0eb210-86e7-4038-9905-4fd5bf71c4bd|1TL-00003|
+   |SharePoint Syntex (Kar Amacı Gütmeyen Personel Fiyatlandırması)|48db24e2-0aac-47bd-bd74-40bde9ff7748|5YI-00005|
+   |SharePoint Syntex için eğitim|4a8f9036-791e-4ce4-a788-6c5af859fd82|5Z1-00005|
+   |Ek Graph Bağlayıcı Kapasitesi|9c8b008f-d84f-46cd-a588-fea84947161d|1LA-00002|
+   |Fakülteler Graph Ek Bağlayıcı Kapasitesi|0e0eb210-86e7-4038-9905-4fd5bf71c4bd|1TL-00003|
 
 ### <a name="next-steps"></a>Sonraki adımlar
 
-Bu konuyla ilgili kaynakları gözden geçirin ve kuruluşunuzdaki uygun hissedarlarla paylaşabilirsiniz.
+Bu konu başlığıyla ilgili kaynakları gözden geçirme ve kuruluşta uygun proje katılımcıları ile paylaşma.
 
 ### <a name="questions"></a>Sorular
 
-bu teklifler hakkında daha fazla soru için ilgili Yammer topluluklarınızı denetleyin. 
+Bu teklifler hakkında daha fazla soru için ilgili toplulukları Yammer kontrol edin. 
 ________________
 
-## <a name="fiscal-year-2021-fy21-cloud-solution-provider-csp-incentive-program-announcement"></a><a name="1"></a>mali yıl 2021 (FY21) Bulut Çözümü Sağlayıcısı (CSP) teşvik programı duyurusu
+## <a name="fiscal-year-2021-fy21-cloud-solution-provider-csp-incentive-program-announcement"></a><a name="1"></a>Mali yıl 2021 (FY21) Bulut Çözümü Sağlayıcısı (CSP) teşvik programı duyurusu
 
 ### <a name="categories"></a>Kategoriler
 
@@ -734,23 +734,23 @@ ________________
 
 ### <a name="summary"></a>Özet
 
-FY21 CSP teşvik program dönemi 1 Ekim 2020 ' de başlar. FY21 teşvik kılavuzlarından ve yürüpler artık Iş Ortağı Merkezi 'nde kullanılabilir.
+FY21 CSP teşvik programı dönemi 1 Ekim 2020'de başlıyor. FY21 teşvik kılavuzları ve adım adım desteleri artık İş Ortağı Merkezi.
  
-### <a name="impacted-audience"></a>Etkilenen hedef kitle
+### <a name="impacted-audience"></a>Etkilene hedef kitle
 
-CSP doğrudan fatura ortakları, dolaylı sağlayıcılar ve dolaylı satıcılar
+CSP doğrudan fatura iş ortakları, dolaylı sağlayıcılar ve dolaylı kurumsal bayiler
 
 ### <a name="details"></a>Ayrıntılar
 
-FY20 CSP, program dönemi 30 Eylül 2020 ' de sona erer. FY21 CSP, program dönemi 1 Ekim 2020 tarihinde başlar ve 30 Eylül 2021 ' den Itibaren çalıştırılır. FY21 maları program kılavuzlarını, genel bakış slaytlarını ve yürüyen noktaları artık [iş ortağı Web sitesindeki](https://aka.ms/partnerincentives/)ilgili CSP teşvik programı varlık koleksiyonlarına gönderilir. İş ortaklarının FY21 program varlıklarını indirmesi ve gözden geçirmesi önerilir.
+FY20 CSP teşvik programı dönemi 30 Eylül 2020'de sona erdi. FY21 CSP teşvik programı dönemi 1 Ekim 2020'de başlar ve 30 Eylül 2021'e kadar çalışır. FY21 teşvik programı kılavuzları, genel bakış slaytları ve adım adım desteler artık iş ortağı web sitesinde ilgili CSP teşvik programı varlık [koleksiyonları üzerinde yayınlanmıştır.](https://aka.ms/partnerincentives/) İş ortaklarının FY21 program varlıklarını indirmesini ve gözden geçirmesini teşvik ederiz.
 
-Güncelleştirilmiş FY21 program ücretleri 1 Ekim 2020 ' den itibaren geçerli olacaktır. İş ortakları, 15 Aralık 2020, ödeme döngüsünden itibaren aylık müşteriler ödemelerinde ilgili değişiklikleri fark edecektir.
+Güncelleştirilmiş FY21 program hızları 1 Ekim 2020'den itibaren geçerli olacak. İş ortakları, 15 Aralık 2020'den itibaren aylık teşvik ödemelerinde değişiklik olduğunu fark eder.
 
 ### <a name="next-steps"></a>Sonraki adımlar
 
-- FY21 program varlıklarını gözden geçirin ve ürünlerin ve müşteri tarifelerinin fiyatlarını teşvik etmek için güncelleştirmeler hazırlayın.
+- FY21 program varlıklarını gözden geçirerek belirli ürünler ve müşteri hareketlerinde teşvik oranlarına yönelik güncelleştirmelere hazırlanma.
 
 ### <a name="questions"></a>Sorularınız mı var?
 
-Öneri ile ilgili sorulara yönelik önerilen adımlar ve kendi kendine Yardım makaleleri, Iş Ortağı Merkezi 'nin arama çubuğunda **teşvikleri** arayarak kullanılabilir. 
+Teşvikle ilgili sorular için önerilen adımlar ve kendi  kendine yardım makalelerini bulmak için aşağıdaki arama çubuğunda Teşvikler araması İş Ortağı Merkezi. 
 ________________

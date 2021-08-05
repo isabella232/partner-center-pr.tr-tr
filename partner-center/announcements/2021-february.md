@@ -3,7 +3,7 @@ title: Şubat 2021 duyuruları
 description: Yeni özellikler, promosyonlar, teklifler, pazarlar veya mevcut tekliflerde yapılan değişiklikler dahil olmak üzere Microsoft İş Ortağı Merkezi için Şubat 2021 duyuruları.
 ms.topic: article
 ms.service: partner-dashboard
-ms.subservice: partnercenter-action-center
+ms.subservice: partnercenter-announcements
 author: brentserbus
 ms.author: brserbus
 ms.custom:
@@ -11,12 +11,12 @@ ms.custom:
 - references_regions
 ms.localizationpriority: high
 ms.date: 04/08/2021
-ms.openlocfilehash: 9926c29b6b111120218df38b323c6859dc59d772
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: c7ae6a138f90f79e85c0ab8132873988524b9890
+ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114838741"
+ms.lasthandoff: 08/04/2021
+ms.locfileid: "115101582"
 ---
 # <a name="february-2021-announcements"></a>Şubat 2021 duyuruları
 
@@ -159,7 +159,7 @@ ________________
 
 ### <a name="summary"></a>Özet
 
-İş ortaklarına ve müşterilerin iş ortaklarına ve iş ortaklarına güvene dayalı olarak işlerini çalıştırmalarına yardımcı olmaya ilişkin taahhüdüm kapsamında, 25 Mart 2021'den itibaren geçerli olacak şekilde ek müşteri bilgileri talep ediyoruz.
+İş ortaklarına ve müşterilerin iş ortaklarına ve iş ortaklarına güvene dayalı olarak işlerini çalıştırmalarına yardımcı olmaya ilişkin taahhüdimizin bir parçası olarak, 25 Mart 2021'den itibaren geçerli olmak için ek müşteri bilgileri talep ediyoruz.
 
 ### <a name="impacted-audience"></a>Etkilene hedef kitle
 
@@ -187,11 +187,11 @@ Microsoft güven üzerinde çalışır. CSP programında müşteri aboneliklerin
     - Birleşik Arap Emirlikleri
     - Venezuela
 
-Ölçütlere uyan iş ortaklarının, bir sonraki müşteri için bir abonelik güncelleştirmesi veya oluşturması için müşterinin şirket kayıt kimliğini (müşterinin kuruluş INN'si olarak da bilinir) ve telefon numarasını göndermesi gerekir. Ayrıca bu iş ortakları müşteri için isteğe bağlı bir ikinci ad da girebilir.
+Ölçütlere uyan iş ortaklarının, müşterinin şirket kayıt kimliğini (müşterinin kuruluş INN'si olarak da bilinir) ve bu müşteri için bir sonraki güncelleştirme veya abonelik oluşturma işlemi sırasında telefon numarasını göndermesi gerekir. Ayrıca bu iş ortakları müşteri için isteğe bağlı bir ikinci ad da girebilir.
 
 Şirket kayıt kimliğinizi eklerken, müşterinin kişisel kimliğini değil, iş verginizi kullanmanız gerektiğini unutmayın.
 
-Aşağıdaki ülkelerde yeni veya mevcut müşterilerle iş yapan iş ortakları, Kasım 2020'de önceki bir sürümle birlikte zaten ek açıklamaya alınmaktadır.
+Aşağıdaki ülkelerde yeni veya mevcut müşterilerle iş yapan iş ortakları, Kasım 2020'de önceki bir sürüme zaten ekli.
 
 - Ermenistan
 - Azerbaycan
@@ -453,100 +453,100 @@ Premium değerlendirmeleri Uyumluluk Yöneticisi'ne isteğe bağlı bir eklentid
 |CSP - Corp - Eklenti|[76be61a7-2c03-4b3e-8330-63b11bd904ed](https://commoffertool.catalog.cp.microsoft.com/Prod/Office365/offer/details/76be61a7-2c03-4b3e-8330-63b11bd904ed)|8JA-00003|
 |CSP - Corp - Deneme|[f2f6ae44-24fe-450c-9cd7-529e7c8cfcb4](https://commoffertool.catalog.cp.microsoft.com/Prod/Office365/offer/details/f2f6ae44-24fe-450c-9cd7-529e7c8cfcb4)|8JA-00004|
 |CSP - Eğitim - Fakülteler - Eklenti|[fa7f5773-063a-48cf-b3e2-de509ea1262f](https://commoffertool.catalog.cp.microsoft.com/Prod/Office365/offer/details/fa7f5773-063a-48cf-b3e2-de509ea1262f)|8JB-00003|
-|CSP - Eğitim - Fakülte - Deneme|[828cecbd-8728-4339-b0c2-51e009a67d88](https://commoffertool.catalog.cp.microsoft.com/Prod/Office365/offer/details/828cecbd-8728-4339-b0c2-51e009a67d88)|8JB-00004|
+|CSP-eğitim-fakülte deneme|[828cecbd-8728-4339-b0c2-51e009a67d88](https://commoffertool.catalog.cp.microsoft.com/Prod/Office365/offer/details/828cecbd-8728-4339-b0c2-51e009a67d88)|8JB-00004|
 
 ### <a name="next-steps"></a>Sonraki adımlar
 
-Bu konu için aşağıdaki kaynakları gözden geçirin ve bilgileri kuruluşta uygun proje katılımcıları ile paylaşın.   
+Bu konuda aşağıdaki kaynakları gözden geçirin ve bilgileri kuruluşunuzdaki uygun hissedarlarla paylaşabilirsiniz.   
 
-- [Microsoft 365 E5 ve uyumluluk](https://www.microsoft.com/licensing/product-licensing/microsoft-365-enterprise?rtc=1&activetab=m365-enterprise:primaryr5)
-- [Microsoft Uyumluluk Yöneticisi'nde değerlendirmeleri oluşturma ve yönetme](/microsoft-365/compliance/compliance-manager-assessments?preserve-view=true&view=o365-worldwide)
+- [Microsoft 365 E5 güvenlik ve uyumluluk](https://www.microsoft.com/licensing/product-licensing/microsoft-365-enterprise?rtc=1&activetab=m365-enterprise:primaryr5)
+- [Microsoft Uyumluluk Yöneticisi 'nde değerlendirmeler oluşturma ve yönetme](/microsoft-365/compliance/compliance-manager-assessments?preserve-view=true&view=o365-worldwide)
 
 _________________________________________________________
 
-## <a name="responding-to-covid-19-microsoft-partner-network-update"></a><a name="3"></a> COVID-19'a yanıt verme: Microsoft İş Ortağı Ağı güncelleştirme
+## <a name="responding-to-covid-19-microsoft-partner-network-update"></a><a name="3"></a> COVıD-19: Microsoft İş Ortağı Ağı Update 'e yanıt verme
 
 ### <a name="categories"></a>Kategoriler
 
 - Tarih: 4 Şubat 2021
 - Özellikler
 
-### <a name="impacted-audience"></a>Etkilene hedef kitle
+### <a name="impacted-audience"></a>Etkilenen hedef kitle
 
 Tüm iş ortakları
 
 ### <a name="details"></a>Ayrıntılar
 
-Microsoft, yıl dönümü tarihleri (AD) olan iş ortakları için 1 Ocak 2021 ile 30 Haziran 2021 arasında uzmanlık uzantısı (Cloud Business Applications uzmanlığı dışında) ve gelişmiş uzmanlık uzantısı sunuyor. Daha fazla [bilgi için iş ortağı blog](https://blogs.partner.microsoft.com/mpn/responding-to-covid-19-microsoft-partner-network/) gönderimizi gözden geçirme.
+Microsoft, 1 ocak 2021 ve 30 haziran 2021 tarihleri arasında tarih (AD) olan iş ortakları için uzman uzantı (bulut Business Applications uzmanlığı hariç) ve gelişmiş özelleştirme uzantısı sunmaktadır. Daha fazla bilgi için [iş ortağı blog gönderimizi](https://blogs.partner.microsoft.com/mpn/responding-to-covid-19-microsoft-partner-network/) gözden geçirin.
 ________________
-## <a name="new-updates-to-the-referrals-module-in-partner-center"></a><a name="2"></a> İş Ortağı Merkezi'de Referanslar modülüne İş Ortağı Merkezi
+## <a name="new-updates-to-the-referrals-module-in-partner-center"></a><a name="2"></a> Iş Ortağı Merkezi 'nde başvurular modülüne yönelik yeni güncelleştirmeler
 
 ### <a name="categories"></a>Kategoriler
 
 - Tarih: 5 Şubat 2021
 - Özellikler
  
-### <a name="impacted-audience"></a>Etkilene hedef kitle
+### <a name="impacted-audience"></a>Etkilenen hedef kitle
 
-- Ortak Satışa Hazır tekliflerle iş ortakları
-- Ticari markette Azure teşvike uygun bir çözüm kullanarak işlem edilebilir teklife sahip iş ortakları
-- Bu modülde Referanslar modülünü kullanan tüm İş Ortağı Merkezi.
+- Ortak satış için sunulan tekliflere sahip iş ortakları
+- Ticari markette uygun bir Azure çözümü kullanarak transactable teklifi olan iş ortakları
+- Iş Ortağı Merkezi 'nde referanslar modülünü kullanan tüm iş ortakları.
 
 ### <a name="details"></a>Ayrıntılar
 
-Yeni yıla geçerek, yeni yılda ortak satış deneyimini geliştirme ve zenginleştirme özellikleri İş Ortağı Merkezi. Bu yeni özellikler satış hızını hızlandırmanıza, satıcı erişimini genişletmenize ve işlerinizi daha iyi ölçeklendirmenize yardımcı olur. Referanslar modülünde tanıt alınan bu yeni eklemeler, işlem hattınızı Microsoft ile tek bir konumda yöneterek diğer Microsoft iş ortakları veya Microsoft satıcılarıyla daha fazla müşteriye ulaşmanıza yardımcı olur.  
+Yeni yıla geçtiğimiz gibi Iş Ortağı Merkezi 'nde ortak satış deneyimini geliştirmek ve zenginleştirmek için yetenekler ekliyoruz. Bu yeni özellikler, işlem hızını hızlandırmanıza, satıcı erişimini genişletmenize ve işinizi daha iyi ölçeklendirmenize yardımcı olur. Referanslar modülünde sunulan bu yeni eklemeler, diğer Microsoft iş ortakları veya Microsoft satıcıları aracılığıyla daha fazla müşteriye ulaşmanıza yardımcı olur. böylece işlem hattınızı Microsoft ile tek bir konumda yönetin.  
 
-İş Ortağı Merkezi Referansları modülünde İş Ortağı Merkezi:
+İşte Iş Ortağı Merkezi başvuruları modülündeki yenilikler:
 
-#### <a name="all-partners-using-the-referrals-module-in-partner-center"></a>İş Ortağı Merkezi'da Referanslar modülünü kullanan tüm iş İş Ortağı Merkezi  
+#### <a name="all-partners-using-the-referrals-module-in-partner-center"></a>Iş Ortağı Merkezi 'nde referanslar modülünü kullanan tüm iş ortakları  
 
-- [Yeni SMB bağlantıları oluşturma:](../connect-with-your-customers.md)Microsoft satıcılarının ortak satışını yapmak ve SMB müşterileri ile ilgili gelen fırsatları elde etmek için bu satıcılarla birlikte çalışma.
+- [Yenı SMB bağlantıları oluşturma](../connect-with-your-customers.md): SMB müşterilerle ilgili gelen fırsatları kazanmak için ortak satış yapın ve Microsoft satıcılarıyla birlikte çalışın.
 
-- [Referans izinlerini](../permissions-overview.md#manage-referrals)genişletin: Yönetici izinlerine (tüm ortak satış fırsatlarına erişim) veya kullanıcı izinlerine (kullanıcının belirli ortak satış fırsatlarına erişim) sahip olmak isteyip istemediklerine bağlı olarak kullanıcıların referans izinlerini attayın.
+- [Başvuru Izinlerini Genişlet](../permissions-overview.md#manage-referrals): kullanıcıların, yönetici izinlerine sahip olmasını isteyip istememe (tüm ortak satış fırsatlarına erişim) veya Kullanıcı izinleri (kullanıcının belirli ortak satış fırsatlarına erişim) temelinde başvuru izinleri atama.
 
-- [İş Ortağı Bağlan](../psc-to-pc.md#user-migration)geçişi: Mevcut İş Ortağı Satışları Bağlan kullanıcı izinlerini ilgili İş Ortağı Merkezi Referans yöneticisi ve referans kullanıcı izinlerine eşle ve ardından yeni izinleri kullanıcılara toplu olarak uygula. Referans [yönetimi hakkında daha fazla](../permissions-overview.md#manage-referrals) bilgi edinmek için referans izinleri belgelerini gözden geçirme.  
+- [iş ortağı satışları Bağlan kullanıcı geçişi](../psc-to-pc.md#user-migration): mevcut iş ortağı satış Bağlan kullanıcı izinlerini ilgili iş ortağı merkezi başvuru yöneticisi ve başvuru kullanıcı izinleriyle eşleyin ve ardından kullanıcılara yeni izinleri toplu olarak uygulayın. Başvurular yönetimi hakkında daha fazla bilgi edinmek için [başvuru izinleri belgelerini](../permissions-overview.md#manage-referrals) gözden geçirin.  
 
-#### <a name="partners-with-co-sell-ready-offers"></a>Ortak Satışa Hazır tekliflerle iş ortakları
+#### <a name="partners-with-co-sell-ready-offers"></a>Ortak satış için sunulan tekliflere sahip iş ortakları
 
-- [Diğer iş ortaklarıyla ortak satış:](../manage-co-sell-opportunities.md)Güçlü iş ortağı ekosistemimizden başka bir iş ortağını, birlikte satış yapmak ve daha fazla müşteri kitlesi için erişim sağlamak için davet etme.  
+- [Diğer iş ortaklarıyla ortak satış](../manage-co-sell-opportunities.md): güçlü iş ortağı ekosistemimizin sizinle ortak satış için başka bir iş ortağı davet edin ve daha fazla müşteri kitlelerine erişimi açın.  
 
-#### <a name="partners-with-a-transactable-offer-using-an-azure-incentive-eligible-solution-in-the-commercial-marketplace"></a>Ticari markette Azure teşvike uygun bir çözüm kullanarak işlem edilebilir teklife sahip iş ortakları
+#### <a name="partners-with-a-transactable-offer-using-an-azure-incentive-eligible-solution-in-the-commercial-marketplace"></a>Ticari markette uygun bir Azure çözümü kullanarak transactable teklifi olan iş ortakları
 
-- [Otomatik anlaşma kaydını kullanma:](../register-deals.md)"Bu anlaşma/kazanma işlemi Azure Market veya AppSource aracılığıyla yapılacaktır." onay kutusunu kullanarak işlem yapılabilir Microsoft Ticari Market Azure tekliflerini kaydederek zamandan tasarruf edin ve doğruluğu garanti edin. İşlem tarihiniz doğru olduğu sürece satış anlaşması kaydı bilgileri doğrudan Microsoft ticari marketten çekilir.
+- [Otomatik anlaşma kaydı kullan](../register-deals.md): transactable Microsoft ticari Market Azure tekliflerini onay kutusunu kullanarak kaydederek doğruluğu kesin ve "Bu anlaşma/Win, Azure Marketi veya appsource aracılığıyla işlem yapılır." İşlem tarihi doğru olduğu sürece, anlaşma kaydı bilgileri doğrudan Microsoft ticari Market 'ten çekilir.
 
 ### <a name="questions"></a>Sorularınız mı var?
 
-Yeni özelliklerden herhangi birini kullanma konusunda yardıma [](../referrals.md) ihtiyacınız varsa bilgi bankasımızda Referanslar bölümüne veya Ortak satış deneyimi galerimizde [bulunan](https://aka.ms/CoSellExperience) nasıl yapılır destek malzemelerimize (oturum açma gereklidir) göz atabilirsiniz.
+Yeni özelliklerden herhangi birini kullanmayla ilgili yardıma ihtiyacınız varsa, bilgi Bankamız veya [ortak satış deneyimi galerimizde](https://aka.ms/CoSellExperience) (oturum açma gerekir) bulunan nasıl yapılır destek malzemelerimiz hakkındaki [başvurular bölümüne](../referrals.md) bakın.
 
-Destek [için İş Ortağı Desteği ekibimize bir bilet](https://partner.microsoft.com/support/?stage=1) açtırın.
+Destek için [Iş ortağı destek ekibimizin bulunduğu bir bileti açabilirsiniz](https://partner.microsoft.com/support/?stage=1) .
 
 ________________
-## <a name="deprecation-and-retirement-of-put-qualification-apis-for-the-education-customer-validation-process-by-february-25-2021-and-get-qualification-by-may-4-2021"></a><a name="1"></a> Eğitim müşteri doğrulama işlemi için PUT Nitelik API'lerinin 25 Şubat 2021'e kadar kullanımdan kalkacak ve kullanımdan kalkacak ve 4 Mayıs 2021'e kadar GET yeterliliği elde edildi.
+## <a name="deprecation-and-retirement-of-put-qualification-apis-for-the-education-customer-validation-process-by-february-25-2021-and-get-qualification-by-may-4-2021"></a><a name="1"></a> 25 Şubat 2021 ' den önce eğitim müşteri doğrulama işlemi için nitelik API 'Leri YERLEŞTIRME ve devre dışı bırakma ve 4 Mayıs 2021 ' ye kadar nitelik edınme.
 
 ### <a name="categories"></a>Kategoriler
 
 - Tarih: 4 Şubat 2021
 - Özellikler
 
-### <a name="impacted-audience"></a>Etkilene hedef kitle
+### <a name="impacted-audience"></a>Etkilenen hedef kitle
 
-Bulut Çözümü Sağlayıcısı API'sini kullanarak Bulut Çözümü Sağlayıcısı, Kar Amacı Gütmeyen GCC ve İş Ortağı Merkezi satış yapan iş ortakları
+iş ortağı merkezi apı 'sini kullanarak Bulut Çözümü Sağlayıcısı program aracılığıyla akademik, kar amacı ve GCC teklifler satan iş ortakları
 
 ### <a name="details"></a>Ayrıntılar
 
-Bu duyuru, Aralık ayında yayımlanan İş Ortağı Merkezi [bir takiptir.](./2020-december.md#1) Bu sürümün bir parçası olarak, yeni GET ve POST NitelikLER API'leri dağıtıldı ve sonuç olarak mevcut **PUT Nitelik API'leri İş Ortağı Merkezi API'leri 25 Şubat 2021'e ve 4 Mayıs 2021'e** kadar GET niteliğini kaldıracak. Eğitim tekliflerini ve önceden nitelikli Kar amacı gütmeyen kar amacı gütmeyen ve kar amacı gütmeyen teklif satın almak için yeni GET nitelikler API'sini satın almak için yeni POST İş Ortağı Merkezi API'lerini kullanmaya GCC gerekir.
+Bu duyuru, [Aralık ayında yayınlanan](./2020-december.md#1)Iş ortağı merkezi geliştirmeleri için bir izdir. Bu yayının bir parçası olarak, yeni GET ve POST nitelikleri API 'Leri dağıtılır ve sonuç olarak, **var olan nitelik API 'Leri Iş Ortağı Merkezi API 'leri 25 şubat 2021 ' de devre dışı bırakılır ve 4 mayıs 2021 ' ye kadar NITELIK alır**. bu sırada, eğitim tekliflerini satın almak için yeni gönderi iş ortağı merkezi apı 'lerini kullanmak için geçiş yapmanız ve önceden nitelikli kar dışı ve GCC teklifleri satın almak için yeni GET nitelikleri apı 'si kullanmaya geçiş yapmanız gerekir.
 
 ### <a name="next-steps"></a>Sonraki adımlar
 
-- **Başarılı ve zamanında geçiş için** yeni API'lere güncelleştirme
-- **Yeni API değişikliklerini İş Ortağı Merkezi** Operations Readiness kaynaklarında Kılavuzu gözden geçirme: [İş Ortağı Merkezi Eğitim müşteri doğrulama süreci geliştirmeleri](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/)
-- **Bu bilgileri, bu değişikliklere hazırlanmalarına** yardımcı olmak için kuruluş içindeki uygun ekiplerle ve kurumsal bayilerle paylaşın.
+- Başarılı ve zamanında geçiş için **yeni API 'Lere güncelleştirme**
+- Işlem hazırlık kaynaklarında **Yeni Iş ortağı MERKEZI API değişikliklerini ve kılavuzunu gözden geçirin** : [Iş Ortağı Merkezi eğitimi müşteri doğrulama işlemi geliştirmeleri](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/)
+- **Bu bilgileri kuruluşunuzdaki uygun ekiplerle** ve satıcılarınız ile paylaşarak, bu değişikliklere hazırlanmalarına yardımcı olun.
 
 ### <a name="questions"></a>Sorularınız mı var?
 
-Bu bildirimle ilgili tüm sorular için destek için [İş Ortağı Merkezi başvurun.](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals)
+Bu bildirimle ilgili sorular için [Iş Ortağı Merkezi desteğiyle](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals)iletişim kurun.
 
 ### <a name="change-log"></a>Değişiklik günlüğü
 
-- Şubat: GET ve PUT niteliklerinin kullanımdan & güncelleştirildi
-- Ocak: GET ve PUT niteliklerinin kullanımdan & anımsatıcısı
+- Şubat: GET & PUT nitelikleri 'nin kullanımdan kaldırılması için zaman çizelgeleri güncelleştirildi
+- Ocak: GET & PUT nitelikleri için yaklaşan kullanım dışı bırakın

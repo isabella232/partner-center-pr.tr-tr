@@ -1,30 +1,30 @@
 ---
 title: Aralık 2020 duyuruları
-description: Yeni yetenekler, promosyonlar, teklifler, pazarlar veya mevcut tekliflerle ilgili değişiklikler dahil olmak üzere Microsoft Iş Ortağı Merkezi için Aralık 2020 duyuruları.
+description: Microsoft İş Ortağı Merkezi, promosyonlar, teklifler, pazarlar veya mevcut tekliflerde yapılan değişiklikler dahil olmak üzere Aralık 2020 duyuruları.
 ms.topic: article
 ms.service: partner-dashboard
-ms.subservice: partnercenter-action-center
+ms.subservice: partnercenter-announcements
 author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/18/2021
-ms.openlocfilehash: c57e6cae405ec31d5393a098bd6925a523f23ec3
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: dd9a93421dd3418ba0f60dcd4bb60459aa5dac03
+ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114839014"
+ms.lasthandoff: 08/04/2021
+ms.locfileid: "115100626"
 ---
 # <a name="december-2020-announcements"></a>Aralık 2020 duyuruları
 
-Bu sayfada, Kasım 2020 ' de Microsoft Iş Ortağı Merkezi duyuruları ayrıntılı olarak yer alındı.
+Bu sayfada Kasım 2020 için Microsoft İş Ortağı Merkezi duyuruları ayrıntılı olarak açıklanıyor.
 
-2020 Duyuruları: [Nisan](2020-april.md)ayında  |  [](2020-may.md)  |  [](2020-june.md)  |  [](2020-july.md)  |  [](2020-august.md)  |  [](2020-september.md)  |  [](2020-October.md)  |  [Kasım](2020-november.md) ayında Haziran ayında | Ayının
+2020 duyuruları: [Nisan](2020-april.md)  |  [Mayıs Haziran](2020-may.md)  |  [Ağustos](2020-june.md)  |  [Ağustos](2020-july.md)  |  [](2020-august.md)  |  [Eylül](2020-september.md)  |  [](2020-October.md)  |  [Ekim |](2020-november.md) Aralık
 
 ________________
 
-## <a name="unused-channel-incentive-co-operative-marketing-fund-co-op-funds-from-the-fy21-h1-usage-period-to-be-rolled-over-to-the-h2-usage-period"></a><a name="13"></a>Kullanılmayan kanal, FY21 H1 kullanım döneminden, H2 kullanım dönemine devredilme kadar ortak pazarlama fonu (Co-op) fonlarını teşvik etmelidir
+## <a name="unused-channel-incentive-co-operative-marketing-fund-co-op-funds-from-the-fy21-h1-usage-period-to-be-rolled-over-to-the-h2-usage-period"></a><a name="13"></a>FY21 H1 kullanım döneminden kullanılmayan kanal teşviki ortak pazarlama fon (ortak operasyon) fonlarını H2 kullanım dönemine aktaracak
 
 ### <a name="categories"></a>Kategoriler
 
@@ -33,133 +33,133 @@ ________________
 
 ### <a name="summary"></a>Özet
 
-FY21 H1 kullanım dönemi için kullanılmayan ortak op fonları (1 Temmuz 31 Aralık 2020), FY21 H2 kullanım dönemine (1 Ocak 30 Haziran 2021) alınacaktır
+FY21 H1 kullanım dönemi (1 Temmuz - 31 Aralık 2020) için kullanılmayan ortak operasyon fonlarının FY21 H2 kullanım dönemine (1 Ocak - 30 Haziran 2021) aktarılmış olması gerekir
 
-### <a name="impacted-audience"></a>Etkilenen hedef kitle
+### <a name="impacted-audience"></a>Etkilene hedef kitle
 
-Bulut Çözümü Sağlayıcısı (CSP) doğrudan bill partner, dolaylı sağlayıcı ve dolaylı satıcı teşvik programlarına katılan iş ortakları
+Bulut Çözümü Sağlayıcısı (CSP) doğrudan fatura iş ortağı, dolaylı sağlayıcı ve dolaylı kurumsal bayi teşvik programlarına katılan iş ortakları
 
 ### <a name="details"></a>Ayrıntılar
 
-Bu zorlayıcı sürelerin iş ortaklarımızın ve müşterilerinin sürekli etkisini tanıdık. İş ortakları için ek esneklik sağlamak üzere, 1 Temmuz 'dan 31 Aralık 2021 ' de çalışan geçerli FY21 H1 kullanım döneminden, kullanılmayan ortak op üzerinden bir kerelik bir geçiş veriyoruz. Birlikte çalışma kredileri, daha iyi bir pazarlama, talep oluşturma ve hazırlık etkinlikleri için talep edilebilir.
+Bu zorlu zamanların iş ortaklarımız ve müşterileri üzerindeki etkisinin devam edeceğinin farkındayız. İş ortaklarına ek esneklik sağlamak için, 1 Temmuz ile 31 Aralık 2021 arasında devam eden geçerli FY21 H1 kullanım döneminden kullanılmayan ortak çalışma fonlarının tek kullanımlık bir kez teslimi sağlıyoruz. İşbirliği fonlarını teşvik kazançlarının bir parçası olarak ödüllendirir ve uygun pazarlama, talep oluşturma ve hazırlık etkinlikleri için talep edilir.
 
-Bu rollover ile, H1 talep ediliyor dönemi kapandıktan sonra hesabınızda kalan kullanılmayan ortak op fonları, 1 Ocak 2021 ' den 30 Haziran ' den itibaren çalışan FY21 H2 kullanım döneminde uygun ortak op etkinlikleri için kullanılabilir.  
+Bu rollover ile H1 talep dönemi sona erecek olan kullanılmayan ortak çalışma fonlarını, 1 Ocak ile 30 Haziran 2021 arasında çalışan FY21 H2 kullanım dönemi boyunca uygun ortak çalışma etkinlikleri için kullanılabilir.  
 
-Talepler, etkinlik tamamlanma 45 gün içinde Iş Ortağı Merkezi [talep aracı](https://partner.microsoft.com/dashboard/incentives/claims/web/) aracılığıyla gönderilmeli ve 15 Ağustos 2021 tarihine kadar kabul edilecektir.
+Talepler, etkinlik tamamlandıktan İş Ortağı Merkezi [](https://partner.microsoft.com/dashboard/incentives/claims/web/) 45 gün içinde talepler aracı aracılığıyla gönder gerekir ve 15 Ağustos 2021'e kadar kabul edilir.
 
-Ortak çalışma bakiyenizi Iş Ortağı Merkezi [kazanç panonuzda](https://partner.microsoft.com/dashboard/incentives/enrollment/summary)denetleyebilirsiniz. Uygun etkinlikler, talep gönderimi ve daha fazlası hakkında daha fazla bilgi için Microsoft iş ortağı Web sitesindeki [ortak op varlık koleksiyonuna](https://partner.microsoft.com/asset/collection/co-op-funds-resources#/) bakın.
+Ortak iş dengenizi kazançlar panosunda İş Ortağı Merkezi [kontrol edebilirsiniz.](https://partner.microsoft.com/dashboard/incentives/enrollment/summary) Uygun [etkinlikler, talep gönderme ve daha](https://partner.microsoft.com/asset/collection/co-op-funds-resources#/) fazlası hakkında ek bilgi için Microsoft iş ortağı web sitesinde ortak çalışma varlığı koleksiyonuna bakın.
 
 ### <a name="next-steps"></a>Sonraki adımlar
 
-- Pazarlama, talep oluşturma ve hazırlık çabalarını çalıştırmaya devam edin ve 45 gün boyunca uygun etkinlikler için talepler sunun.
-- 30 Haziran 2021 ' de H2 kullanım döneminin tamamına kadar tüm miktarı kullandığınızdan emin olmak için, ortak işletim hesabı bakiyenizi düzenli olarak denetleyin.
+- Pazarlama, talep oluşturma ve hazırlık çalışmalarına devam etmek ve tamamlanmasının ardından 45 gün içinde uygun etkinlikler için talepler gönderin.
+- Tutarın tamamını 30 Haziran 2021'de H2 kullanım döneminin yakınına kadar kullanmaya devam etmek için ortak çalışma hesabı bakiyenizi düzenli olarak kontrol edin.
 
 ### <a name="questions"></a>Sorularınız mı var?
 
-Iş Ortağı Merkezi giriş sayfasındaki arama çubuğuna "teşvikleri" yazarak, özenilen sorulara yönelik önerilen adımları ve kendi kendine yardım makalelerini bulabilirsiniz. Ek Yardım için doğrudan Iş Ortağı Merkezi 'nde bir [destek isteği](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?category=csp) oluşturabilirsiniz. [Aka.MS/IncentivesSupport](https://aka.ms/IncentivesSupport)adresinde daha fazla bilgi edinin.
+Giriş sayfasındaki arama çubuğuna "teşvikler" yazarak teşvikle ilgili sorular için önerilen adımları ve kendi kendine İş Ortağı Merkezi bulabilirsiniz. Ek yardım için doğrudan [](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?category=csp) İş Ortağı Merkezi. daha fazla bilgi için [aka.ms/IncentivesSupport.](https://aka.ms/IncentivesSupport)
 
 ________________
 
-## <a name="docusign-migration-to-adobe-sign-in-2021-for-partners-who-have-microsoft-partner-agreements-mpas"></a><a name="12"></a>Microsoft Iş ortağı sözleşmeleri (MPAs) olan iş ortakları için Adobe oturum açma 2021 ' ye DocuSign geçişi
+## <a name="docusign-migration-to-adobe-sign-in-2021-for-partners-who-have-microsoft-partner-agreements-mpas"></a><a name="12"></a>Microsoft İş Ortağı Sözleşmesi (MPA) olan iş ortakları için Adobe Sign in 2021'e DocuSign geçişi
 
 ### <a name="categories"></a>Kategoriler
 
 - Tarih: 2020-12-22
-- Yetenekler-güvenlik & uyumluluğunu geliştirir
+- Özellikler - Güvenlik ve Uyumluluk & İyileştirilmişTir
 
 ### <a name="summary"></a>Özet
 
-Microsoft, tüm elektronik imza işlemlerini DocuSign 'dan Adobe Sign 'a geçiyor.
+Microsoft tüm elektronik imza işlemeyi DocuSign'tan Adobe Sign'a devredecek
 
-### <a name="impacted-audience"></a>Etkilenen hedef kitle
+### <a name="impacted-audience"></a>Etkilene hedef kitle
 
-Microsoft iş ortağı sözleşmeleri (mpas) ile Bulut Çözümü Sağlayıcısı (CSP) iş ortakları
+Bulut Çözümü Sağlayıcısı Sözleşmeleriyle (MPAs) iş ortakları (CSP)
 
 ### <a name="details"></a>Ayrıntılar
 
-Adobe Sign, Microsoft 'un tercih ettiği elektronik Imza çözümüdür (ESS). Microsoft, Ocak 2021 ' de, tüm elektronik imza işlemlerini MPAs 'den başlayarak, DocuSign 'den Adobe Sign 'a geçirmeyi başlatır. Kesintisiz bir geçiş beklemelisiniz. Geçişten sonra, bir hesaptan e-posta alacaksınız [adobesign@adobesign.com](mailto:adobesign@adobesign.com) , bu da size yeni bir imzalama ortamına yönelik bağlantı sağlar. En iyi deneyim için [adobesign@adobesign.com](mailto:adobesign@adobesign.com) Güvenli Gönderenler listenize ekleyin.
+Adobe Sign, Microsoft'un tercih ettiği Elektronik İmza Çözümüdür (ESS). Ocak 2021'de Microsoft, MPA'lardan başlayarak tüm elektronik imza işlemeyi DocuSign'tan Adobe Sign'a geçişe başlayacaktır. Sorunsuz bir geçiş beklemelisiniz. Geçişten sonra, bir hesaptan e-posta alırsınız ve bu size [adobesign@adobesign.com](mailto:adobesign@adobesign.com) yeni imzalama ortamının bağlantısını sağlar. En iyi deneyimi sağlamak [adobesign@adobesign.com](mailto:adobesign@adobesign.com) için, güvenli gönderenler listenize ekleyin.
 
-Adobe Sign 'a geçiş, müşterilerimize ve iş ortaklarımıza daha fazla değer sunacak güvenli ve etkili bir elektronik imza deneyimi sağlar. Hesap geçiş planlarıyla ilgili daha fazla bilgiyi, 2021 Ocak 'ta Adobe oturum açmak üzere alacaksınız.  
+Adobe Sign'a geçiş, müşterilerimize ve iş ortaklarımıza daha fazla değer sağlayacak güvenli ve verimli bir elektronik imza deneyimi sağlar. Ocak 2021'de Adobe Sign'a hesap geçiş planları hakkında daha fazla bilgi edinebilirsiniz.  
 
 ### <a name="next-steps"></a>Sonraki adımlar
 
-Bu bilgileri, kuruluşunuzdaki uygun paydaşlarla paylaşabilirsiniz. Geçişle ilgili daha fazla bilgiyi Ocak 2021 ' de göndereceğiz.
+Bu bilgileri, kuruluşta uygun proje katılımcıları ile paylaşın. Ocak 2021'de geçişle ilgili daha fazla bilgi göndeririz.
 
 ### <a name="questions"></a>Sorularınız mı var?
 
-Sorularınız varsa, [https://clt.partners.extranet.microsoft.com/CLT](https://clt.partners.extranet.microsoft.com/CLT) [Explore.MS](https://www.explore.ms/publichome.aspx)aracılığıyla veya aracılığıyla çağrı günlüğü aracı 'nı (CLT) kullanarak bölgesel işlemler merkezinize başvurun. Sorgunuzu mümkün olduğunca çabuk çözebilmemiz için standart CLT sürecini yakından izleyin.
+Sorularınız varsa, üzerinden veya Bölgesel Operasyon Merkezi Günlük Kaydı Aracı'nı (CLT) kullanarak [https://clt.partners.extranet.microsoft.com/CLT](https://clt.partners.extranet.microsoft.com/CLT) yöneticinize [explore.ms.](https://www.explore.ms/publichome.aspx) Sorgunuza mümkün olan en hızlı şekilde çözüm getireciz için standart CLT işlemini yakından izleyin.
 
 ______________
 
-## <a name="january-2021-pricing-and-catalog-schedules"></a><a name="11"></a>Ocak 2021 fiyatlandırma ve Katalog zamanlamaları
+## <a name="january-2021-pricing-and-catalog-schedules"></a><a name="11"></a>Ocak 2021 fiyatlandırma ve katalog zamanlamaları
 
 ### <a name="categories"></a>Kategoriler
 
 - Tarih: 2020-12-22
 - Özellikler
 
-### <a name="impacted-audience"></a>Etkilenen hedef kitle
+### <a name="impacted-audience"></a>Etkilene hedef kitle
 
 Bulut Çözümü Sağlayıcısı (CSP) programına katılan doğrudan fatura ve dolaylı sağlayıcılar.
 
 ### <a name="details"></a>Ayrıntılar
 
-Genellikle ayın ilk gününde gerçekleşmek üzere zamanlanan iş ortağı merkezi fiyatlandırma ve Katalog güncelleştirmeleri, Ocak 2021 için zamanlamaya göre küçük değişikliklere sahip olacaktır. Tüm fiyatlandırma dosyaları her zamanki gibi, 31 Aralık 2020 ' de, yaklaşık 6PM Pasifik Standart saatinde (PST) kullanılabilir. Ancak, normalde ayın ilk gününde oluşan aşağıdaki güncelleştirmeler biraz gecikecek. 
+İş Ortağı Merkezi fiyatlandırma ve katalog güncelleştirmelerinin normalde ayın ilk günü gerçekleşecek şekilde zamanlanmış olması, Ocak 2021 için zamanlamada küçük değişiklikler yapılacaktır. Tüm fiyatlandırma dosyaları her zamanki gibi, 31 Aralık 2020'de yaklaşık 18:00 Pasifik Standart Saati'nde (PST) kullanılabilir olacak. Ancak, normalde ayın ilk günü oluşan aşağıdaki güncelleştirmeler biraz gecikir. 
 
-- Azure kullanım tabanlı fiyat listeleri, iş günü 4 Ocak 2021 ' den itibaren gecikecek. 1 Ocak 2021 ' de Azure kullanım tabanlı fiyatlandırma dosyaları yalnızca 21 2020 Aralık 'a kadar ücretlendirilir. 4 Ocak 'ta dosyalar güncelleştirilir.
-- Lisans tabanlı fiyatlandırma dosyaları 1 Ocak 2021 tarihinden itibaren güncel olacaktır, ancak katalogda satın alma için yeni teklifler sunuluncaya kadar küçük bir gecikme olur. Lisans tabanlı Katalog güncelleştirmesi 5 Ocak 2021 17:00 pasıfık saati için zamanlanır. 
+- Azure kullanım tabanlı fiyat listeleri iş günü 4 Ocak 2021'e kadar geciktirilir. Azure kullanım tabanlı fiyatlandırma dosyaları 1 Ocak 2021'de yalnızca 21 Aralık 2020'ye kadar fiyatlandırmaya sahip olur. 4 Ocak'ta dosyalar güncelleştirilecek.
+- Lisans tabanlı fiyatlandırma dosyaları 1 Ocak 2021'de güncel olur, ancak katalogda satın alma için yeni teklifler kullanılabilir olana kadar küçük bir gecikme olur. Lisans tabanlı katalog güncelleştirmesi 5 Ocak 2021 17:00 PST için zamanlandı. 
 
-Tüm diğer fiyat listesi dosyalarının olağan zamanlamaya göre kullanılabilir olması için zamanlandığını, yalnızca yukarıdaki iki teslim eden öğelerin biraz gecikecek şekilde olduğunu unutmayın.
+Diğer tüm fiyat listesi dosyalarının normal zamanlamada kullanılabilir olması için zamanlanmış olduğunu, yalnızca yukarıdaki iki teslim edilebilir dosyanın biraz gecikecek olduğunu fark etmek.
 
 ### <a name="next-steps"></a>Sonraki adımlar
 
-Özetle, aşağıdaki fiyatlandırma dosyaları yaklaşık 31 Aralık 2020 ' de her zamanki gibi, yaklaşık 6PM PST:
+Özetle, aşağıdaki fiyatlandırma dosyaları 31 Aralık 2020'de yaklaşık 18:00 PST'de her zamanki gibi kullanılabilir olacak:
 
 - Lisans tabanlı fiyat listesi dosyaları ve teklif listesi matrisi
-- Kullanım tabanlı fiyat dosyaları, ancak yalnızca 21 Aralık 2020 ' e kadar olan güncelleştirmeler ile
-- Kullanım tabanlı rezervasyonlar fiyat listeleri
+- Kullanım tabanlı fiyat dosyaları, ancak yalnızca 21 Aralık 2020'ye kadar olan güncelleştirmeler
+- Kullanım tabanlı rezervasyon fiyat listeleri
 - Yazılım abonelikleri fiyat listeleri
 - Kalıcı yazılım fiyat listeleri
-- Azure planı tüketim fiyatı listeleri
-- Azure plan ayırmaları fiyat listeleri
-- Azure plan tüketimi yabancı Exchange ücretleri
+- Azure planı tüketim fiyat listeleri
+- Azure planı rezervasyonları fiyat listeleri
+- Azure planı tüketim döviz kurları
 
-Aşağıdaki fiyatlandırma dosyası 4 Ocak 2021 ' de 6PM PST ile güncelleştirilir:
+Aşağıdaki fiyatlandırma dosyası 4 Ocak 2021 tarihinde 18:00 PST tarafından güncelleştirilecek:
 
 - Kullanım tabanlı fiyat dosyaları
 
-İş Ortağı Merkezi kataloğu, Ocak 2021 tarihinde 6PM PST 5 Ocak 2021 ile yenilenecektir.
+İş Ortağı Merkezi kataloğu 5 Ocak 2021'de 18:00 PST tarafından Ocak 2021 güncelleştirmeleriyle yenilenecektir.
  
 ______________
 
-## <a name="microsoft-365-apps-and-services-support-of-internet-explorer-11-and-microsoft-edge-legacy-announcement"></a><a name="10"></a>Microsoft 365 uygulamaları ve hizmetleri ınternet Explorer 11 ' i ve Microsoft Edge eski duyuruyu destekler
+## <a name="microsoft-365-apps-and-services-support-of-internet-explorer-11-and-microsoft-edge-legacy-announcement"></a><a name="10"></a>Microsoft 365 11 ve daha eski Internet Explorer uygulama ve Microsoft Edge desteği
 
 ### <a name="categories"></a>Kategoriler
 
 - Tarih: 2020-12-21
 - Özellikler
 
-### <a name="impacted-audience"></a>Etkilenen hedef kitle
+### <a name="impacted-audience"></a>Etkilene hedef kitle
 
-BT yöneticileri, BT karar mekanizmaları, bilgi ofisleri ve son kullanıcılar
+IT yöneticileri, IT kararlarını verenler, baş bilgi yöneticileri ve son kullanıcılar
 
 ### <a name="details"></a>Ayrıntılar
 
-Microsoft 365 aboneler hem tüketici hem de ticari bağlamlarda, Outlook, Teams, SharePoint ve daha fazlası gibi gündelik araç kümelerinde daha fazla özellik kümesine daha hızlı ve daha fazla yanıt veren web erişimi sayesinde bu değişikliğe göre daha hızlı ve daha hızlı bir şekilde hizmet verir.
+Microsoft 365 hem tüketici hem de ticari bağlamda tüm abonelere, Outlook, Teams, SharePoint ve daha fazlası gibi günlük araç setlerindeki daha fazla özellik kümesine daha hızlı ve daha hızlı yanıt veren web erişimi aracılığıyla bu değişiklikle iyi hizmet ve olacaktır.
 
-yeni Microsoft Edge modern bir tarayıcı için en iyi ifadedir ve müşterilerin bu şekilde karşılaşmaları için heyecanlıyız. yeni Microsoft Edge sunduğumuz ve Windows 10 müşterilerinin çoğunu yeni tarayıcıya yükselttireceğimize göre, Microsoft Edge eski masaüstü uygulaması için destek bitiyoruz.
+Yeni Microsoft Edge modern bir tarayıcının en iyi ifadesidir ve müşterilerin bu deneyimi yaşamasını heyecanla sunuyoruz. Yeni uygulamayı gönderdikten ve Windows 10 müşterilerimizin Microsoft Edge çoğunu yeni tarayıcıya yükselttik. Artık eski masaüstü uygulaması için Microsoft Edge desteği sonlandır ediyoruz.
 
-**Değişikliğin etkileri**
+**Değişikliğin etkisi**
 
-- **30 2020 kasım**'dan müşteriler artık ınternet Explorer 11 ' de Microsoft Teams web uygulamasına bağlanamayacak. Microsoft, [yeni Microsoft Edge](https://www.microsoft.com/edge/business?form=MO12H3&OCID=MO12H3)kullanılırken müşterilerin Microsoft 365 en iyi ve modern bir tarayıcının en iyi ifadesi almasını düşündüğü düşünür.
-- **mart 9 2021**' den sonra, eski Microsoft Edge için oluşturulan uygulamalar ve siteler yeni Microsoft Edge çalışmaya devam edecektir, ancak bir uyumluluk sorunu oluşursa, uygulamanın destek sağlaması için [taahhüdünü güvence altına](/fasttrack/products-and-capabilities#app-assure) almaya devam eder.
-- **17 2021 ağustos 'tan** sonra müşteriler düzeyi düşürülmüş bir deneyimle karşılaşacaktır veya ınternet Explorer 11 ' de Microsoft 365 uygulamalara ve hizmetlere bağlanamaz. Microsoft, [yeni Microsoft Edge](https://www.microsoft.com/edge/business?form=MO12H3&OCID=MO12H3)kullanılırken müşterilerin Microsoft 365 en iyi ve modern bir tarayıcının en iyi ifadesi almasını düşündüğü düşünür.
+- **30 Kasım 2020'den** itibaren müşteriler, 11 kasım tarihinde Microsoft Teams web Internet Explorer bağlanamaz. Microsoft, yeni tarayıcıyı kullanırken müşterilerin Microsoft 365 ve modern tarayıcının en iyi ifadelerinden en iyi [şekilde Microsoft Edge.](https://www.microsoft.com/edge/business?form=MO12H3&OCID=MO12H3)
+- **9 Mart 2021'den** sonra, Microsoft Edge için oluşturulan uygulamalar ve siteler yeni Microsoft Edge'da çalışmaya devam edecektir, ancak bir uyumluluk sorunu ortaya [çıkarsa, App Assure'ın](/fasttrack/products-and-capabilities#app-assure) destek sağlamayı vaat ettiği bir durum söz konusudur.
+- **17 Ağustos 2021'den** sonra müşteriler düzeyi düşürülmüş bir deneyime sahip olacak veya Microsoft 365 11.11'de Internet Explorer bağlanamaz. Microsoft, yeni tarayıcıyı kullanırken müşterilerin Microsoft 365 ve modern tarayıcının en iyi ifadelerinden en iyi [şekilde Microsoft Edge.](https://www.microsoft.com/edge/business?form=MO12H3&OCID=MO12H3)
 
 ### <a name="next-steps"></a>Sonraki adımlar
 
-- Duyurunun ayrıntılarını anlamak için blog gönderisini okuyun.
-- Yeni Microsoft Edge dağıtmaya yardımcı olması için iş ortaklarınıza ulaşmak üzere bu fırsatı kullanın.
-- Ek kaynaklar ve daha fazla bilgi: [kenar YouTube](https://www.youtube.com/channel/UCIGx7oT8p6-jUpOfg98yelA) veya [kenar benimseme](https://www.microsoft.com/edge/business?form=MO12H3&OCID=MO12H3)
+- Duyurunun ayrıntılarını anlamak için blog gönderilerini okuyun.
+- Yeni uygulama dağıtımına yardımcı olmak için iş ortaklarına ulaşmak için bu Microsoft Edge.
+- Ek kaynaklar ve daha fazla bilgi: [Edge YouTube veya](https://www.youtube.com/channel/UCIGx7oT8p6-jUpOfg98yelA) [Edge'i benimseme](https://www.microsoft.com/edge/business?form=MO12H3&OCID=MO12H3)
 
 ### <a name="questions"></a>Sorular
 
@@ -196,7 +196,7 @@ ______________
 
 ### <a name="summary"></a>Özet
 
-İş ortaklarına ve müşterilerin iş ortaklarına ve iş ortaklarına güvene dayalı olarak işlerini çalıştırmalarına yardımcı olmaya ilişkin taahhüdüm kapsamında, 25 Mart 2021'den itibaren geçerli olacak şekilde ek müşteri bilgileri talep ediyoruz.
+İş ortaklarına ve müşterilerin iş ortaklarına ve iş ortaklarına güvene dayalı olarak işlerini çalıştırmalarına yardımcı olmaya ilişkin taahhüdimizin bir parçası olarak, 25 Mart 2021'den itibaren geçerli olmak için ek müşteri bilgileri talep ediyoruz.
 
 ### <a name="impacted-audience"></a>Etkilene hedef kitle
 
@@ -224,7 +224,7 @@ Microsoft güven üzerinde çalışır. CSP programında müşteri aboneliklerin
     - Birleşik Arap Emirlikleri
     - Venezuela
 
-Ölçütlere uyan iş ortaklarının, bir sonraki müşteri için bir abonelik güncelleştirmesi veya oluşturması için müşterinin şirket kayıt kimliğini (müşterinin kuruluş INN'si olarak da bilinir) ve telefon numarasını göndermesi gerekir. Ayrıca bu iş ortakları müşteri için isteğe bağlı bir ikinci ad da girebilir.
+Ölçütlere uyan iş ortaklarının, müşterinin şirket kayıt kimliğini (müşterinin kuruluş INN'si olarak da bilinir) ve bu müşteri için bir sonraki güncelleştirme veya abonelik oluşturma işlemi sırasında telefon numarasını göndermesi gerekir. Ayrıca bu iş ortakları müşteri için isteğe bağlı bir ikinci ad da girebilir.
 
 Şirket kayıt kimliğinizi eklerken, müşterinin kişisel kimliğini değil, iş verginizi kullanmanız gerektiğini unutmayın.
 
@@ -269,7 +269,7 @@ Microsoft ile işlemleriniz için de destek gerekirse bir hizmet [isteği açın
 
 ______________
 
-## <a name="reminder-perpetual-software-in-the-cloud-solution-provider-csp-program-broadly-available-from-january-2021"></a><a name="7"></a>Anımsatıcı: Bulut Çözümü Sağlayıcısı (CSP) programı içinde kalıcı yazılım Ocak 2021'den itibaren geniş bir kitleye sunulmaktadır
+## <a name="reminder-perpetual-software-in-the-cloud-solution-provider-csp-program-broadly-available-from-january-2021"></a><a name="7"></a>Anımsatıcı: Bulut Çözümü Sağlayıcısı (CSP) programı içinde kalıcı yazılım Ocak 2021'den itibaren geniş bir şekilde kullanılabilir
 
 ### <a name="categories"></a>Kategoriler
 
@@ -299,48 +299,48 @@ Aynı tarihte de aşağıdakiler olur:
 
 ### <a name="perpetual-software-in-csp"></a>CSP'de kalıcı yazılım
 
-CsP programına kalıcı yazılımların yeni ticaret deneyimine ek olarak, iş ortaklarının birden çok lisans programını yönetmek için harcaması gereken süre ve maliyetler azalır. Bu da satış, operasyonel ve yönetim özelliklerini geliştirmenizi sağlayacaktır. İş ortakları, hibrit bulut ortamları için lisansları ve yönetilen hizmetleri birleştirme esnekliğiyle birlikte çeşitli çözümler ve yönetilen hizmetler sunarak, müşterilerinin buluta geçişlerini daha da hızlandırarak işletmelerini genişletebilirsiniz. Müşteriler de basitleştirilmiş bir yaklaşımdan ve yazılım lisansları satın alma konusunda daha fazla esneklikten yararlanabilir. Bu satın alma işlemini anlamak kolaydır, doğrudan lisanslama varlık yönetimini iyiler ve tahmin edilebilir maliyetlere sahip olur.
+Yeni ticaret deneyiminde CSP programına kalıcı yazılımların ek olarak, iş ortaklarının birden çok lisans programını yönetmek için harcaması gereken süre ve maliyetler azalır. Bu da satış, operasyonel ve yönetim özelliklerini geliştirmenizi sağlayacaktır. İş ortakları, hibrit bulut ortamları için lisansları ve yönetilen hizmetleri birleştirme esnekliğiyle birlikte çeşitli çözümler ve yönetilen hizmetler sunarak, müşterilerinin buluta geçişlerini daha da hızlandırarak işletmelerini genişletebilirsiniz. Müşteriler de basitleştirilmiş bir yaklaşımdan ve yazılım lisansları satın alma konusunda daha fazla esneklikten yararlanabilir. Bu satın alma işlemini anlamak kolaydır, doğrudan lisanslama varlık yönetimini iyiler ve tahmin edilebilir maliyetlere sahip olur.
 
 ### <a name="next-steps"></a>Sonraki adımlar
 
-Aşağıdaki kaynakları gözden geçirme ve bunları kuruluşta ilgili kişilerle paylaşma:
+Aşağıdaki kaynakları gözden geçirin ve kuruluşunuzdaki ilgili kişilerle paylaşabilirsiniz:
 
-- [CSP Kalıcı yazılım ürünleri ve coğrafyaları](https://partner.microsoft.com/resources/detail/software-in-csp-new-products-geos-pdf) 19 Ocak 2021'de eklendi
+- [CSP kalıcı yazılım ürünleri ve coğrafi](https://partner.microsoft.com/resources/detail/software-in-csp-new-products-geos-pdf) olarak 19 Ocak 2021 ' de ekleniyor
 
-- Microsoft 365 Yönetici Merkeze [genel](https://support.microsoft.com/office/admin-center-overview-fa715fa8-6eda-456d-b177-d1c156edd1b3)bakış, [ortak görevler](/microsoft-365/admin/admin-overview/about-the-admin-center?preserve-view=true&view=o365-worldwide)ve lisans anahtarı gerçekleştirme [özellikleri](https://partner.microsoft.com/resources/detail/microsoft-365-admin-center-software-key-download-pdf)
+- Microsoft 365 Yönetici Merkezden [genel bakış](https://support.microsoft.com/office/admin-center-overview-fa715fa8-6eda-456d-b177-d1c156edd1b3), [ortak görevler](/microsoft-365/admin/admin-overview/about-the-admin-center?preserve-view=true&view=o365-worldwide)ve [Lisans anahtarı yerine getirme özellikleri](https://partner.microsoft.com/resources/detail/microsoft-365-admin-center-software-key-download-pdf)
 
-- [Bulut Çözümü Sağlayıcısı programı (iş ortağı duyurusu) kapsamındaki iş ortakları](https://blogs.partner.microsoft.com/mpn/expanding-opportunities-for-partners-in-the-cloud-solution-provider-program/) için fırsatları genişletme
+- [Bulut Çözümü Sağlayıcısı programında iş ortakları için fırsatları genişletme](https://blogs.partner.microsoft.com/mpn/expanding-opportunities-for-partners-in-the-cloud-solution-provider-program/) (iş ortağı duyurusu)
 
-- [Genel bakış sunusu Bulut Çözümü Sağlayıcısı](https://partner.microsoft.com/resources/collection/software-in-csp#/) lisanslama kılavuzu, iş ortağı SSS, operasyonel ve teknik (SDK/API) web seminerleri ve daha birçok yararlı kaynak da dahil olmak üzere, Bulut Çözümü Sağlayıcısı programı hazırlık malzemelerinin kalıcı yazılımı. Rolünüz [için doğru bilgileri](https://partner.microsoft.com/resources/detail/software-in-csp-readiness-map-pdf) hızla bulmak üzere bu hazır olma haritasını kullanın.
+- [Bulut Çözümü Sağlayıcısı program](https://partner.microsoft.com/resources/collection/software-in-csp#/) hazırlık malzemelerinden, genel bakış sunumu, lisanslama kılavuzu, iş ortağı sss, işletimsel ve teknik (SDK/apı) web seminerleri ve daha birçok yararlı kaynak gibi kalıcı yazılımlar. Rolünüzün doğru bilgilerini hızlı bir şekilde bulmak için bu [hazırlık haritasını](https://partner.microsoft.com/resources/detail/software-in-csp-readiness-map-pdf) kullanın.
 
 ### <a name="questions"></a>Sorularınız mı var?
 
-Bu teklifler hakkında daha fazla soru için ilgili topluluklarınızı Yammer kontrol edin.
+bu teklifler hakkında daha fazla soru için ilgili Yammer topluluklarınızı kontrol edin.
 
-### <a name="change-log"></a>Değişiklik Günlüğü:
+### <a name="change-log"></a>Değişiklik günlüğü:
 
-- 17 Aralık 2020: Özgün yayın 
+- 17 Aralık 2020: özgün yayın 
 
-- 5 Mart 2021: Yazılım ve lisans anahtarı gerçekleştirme özelliğinin yeniden İş Ortağı Merkezi ile ilgili en üst düzeye not eklendi.
+- 5 Mart 2021: Iş Ortağı Merkezi yazılımının en önde gelen ve lisans anahtarı karşılama yeteneğinin konusuna göz ekledi.
 
 ______________
 
-## <a name="online-services-and-software-channel-authorization-guide"></a><a name="6"></a>Çevrimiçi Hizmetler ve Yazılım Kanalı Yetkilendirme Kılavuzu
+## <a name="online-services-and-software-channel-authorization-guide"></a><a name="6"></a>Çevrimiçi hizmetler ve yazılım kanalı yetkilendirme Kılavuzu
 
 ### <a name="categories"></a>Kategoriler
 
 - Tarih: 2020-12-17
 - Özellikler
  
-### <a name="impacted-audience"></a>Etkilene hedef kitle
+### <a name="impacted-audience"></a>Etkilenen hedef kitle
 
-Doğrudan fatura, dolaylı sağlayıcılar ve çok katmanlı iş ortakları Bulut Çözümü Sağlayıcısı (CSP) programı.
+doğrudan fatura, dolaylı sağlayıcılar ve Bulut Çözümü Sağlayıcısı (CSP) programına katılan çok katmanlı iş ortakları.
 
 ### <a name="details"></a>Ayrıntılar
 
-Microsoft, Microsoft İş Ortağı Sözleşmesi **(Çevrimiçi** Hizmetler ve Yazılım Kanalı Yetkilendirme – Değişiklikler Bildirimi – Kılavuzlarda Değişiklikler bölümüne bakın) uygun olarak, Microsoft çevrimiçi hizmetler ve yazılım kanalı yetkilendirme kılavuzunun güncelleştiriliyor olduğunu size bildirmektedir. 
+Microsoft Iş ortağı sözleşmenize uygun olarak (bkz. **çevrimiçi hizmetler ve yazılım kanalı yetkilendirmesi – değişikliklere Ilişkin değişiklikler – kılavuzlarda yapılan değişiklikler**), Microsoft 'un, çevrimiçi hizmetler ve yazılım kanalı yetkilendirme kılavuzunun güncellendiğine yönelik olarak. 
 
-Güncelleştirilmiş kılavuzun önizlemesi [burada mevcuttur ve](https://partner.microsoft.com/resources/detail/update-guide-online-services-software-channel-authorization-jan-pdf)burada kullanılabilir değişiklikleri belirten bir kırmızı çizgi [vardır.](https://partner.microsoft.com/resources/detail/update-guide-online-services-software-channel-authorization-jan-redline-pdf) Bu güncelleştirme, bu bildirimden itibaren 30 gün geçerli olacak; Şu anda başka bir eyleme gerek yoktur.
+Burada, [burada kullanılabilen](https://partner.microsoft.com/resources/detail/update-guide-online-services-software-channel-authorization-jan-redline-pdf)değişiklikleri belirten bir Redline ile güncelleştirilmiş kılavuzun Önizlemesi [kullanılabilir](https://partner.microsoft.com/resources/detail/update-guide-online-services-software-channel-authorization-jan-pdf). Bu güncelleştirme, bu bildirimin tarihinden itibaren 30 gün geçerli olacak. Şu anda sizin için başka bir işlem yapmanız gerekmez.
 
 ### <a name="next-steps"></a>Sonraki adımlar
 
@@ -355,87 +355,87 @@ ______________
 - Tarih: 2020-12-16
 - Teklifler/Pazarlar
 
-### <a name="impacted-audience"></a>Etkilene hedef kitle
+### <a name="impacted-audience"></a>Etkilenen hedef kitle
 
-Bulut Çözümü Sağlayıcısı (CSP) programı aracılığıyla işlem yapılan tüm iş ortakları
+tüm iş ortakları Bulut Çözümü Sağlayıcısı (CSP) programı üzerinden deneyimidir
 
 ### <a name="details"></a>Ayrıntılar
 
-Power Apps Başlangıçta 1 Aralık 2020 için planlanan promosyon teklifi biraz geciktirildi. Teklif 16 Aralık 2020'de kullanılabilir olacak. Bu teklif daha düşük bir fiyatla kullanılabilir ve bu teklifte bulunan tipik tekliflerden başka önemli İş Ortağı Merkezi.
+Power Apps Başlangıçta 1 Aralık 2020 için planlanan promosyon teklifi biraz gecikti. Teklif 16 Aralık 2020 ' de kullanılabilir olmalıdır. Bu teklif, daha düşük bir fiyatla sunulur ve Iş Ortağı Merkezi 'nde tipik tekliflerden başka bir önemli fark içerir.
  
-**Teklif ayrıntıları**
+**Teklif Ayrıntıları**
 
-- Teklif 30 Haziran 2021'e kadar satın alınabilir.
-- Teklif, diğer CSP teklifleri gibi daha düşük bir fiyatla 12 aylık bir dönemdir.
-- Bu teklif otomatik olarak yenileyecektir ve 12 aylık süre sonunda sona erer. Başlangıçta, otomatik yenileme özelliği **True** olarak ayarlanır, ancak teklifin 12 aylık süresinin sonunda teklifin süresi dolacak şekilde bu özellik değiştirilir.
-- İş ortaklarının, ilk promosyon teklifi tarafından sağlanan hizmetleri kullanmaya devam etmek istemeleri için, 12 aylık süre dolmadan önce promosyon fiyatı olmayan teklifi (teklif kimliği: 5e1087b6-246b-4503-b88a-b60bdf0b3840) satın almaları gerekir.
+- Teklif, 30 Haziran 2021 ' e kadar satın alınabilir.
+- Teklif, diğer CSP teklifleri gibi, daha düşük bir fiyata göre 12 aylık bir terimdir.
+- Bu teklif, autorenew değil ve 12 aylık dönemin sonunda sona erecektir. Başlangıçta, autorenew özelliği **true** olarak ayarlanacak, ancak teklif 12 aylık dönemin sonunda teklifin süresi dolacak şekilde bu değiştirilecek.
+- İş ortaklarının, ilk promosyon teklifi tarafından sunulan hizmetleri kullanmaya devam etmek istiyorlarsa, promosyon olmayan fiyatsız teklifi (teklif KIMLIĞI: 5e1087b6-246B-4503-b88a-b60bdf0b3840), 12 aylık süre sonundan önce satın alması gerekir.
 
 **Fiyatlandırma ayrıntıları**
 
-Bu teklife ilişkin aşağıdaki teklif fiyatlandırma ayrıntıları Ocak 2021 fiyat listesinde yer almaktadır.
+Bu teklif için aşağıdaki teklif fiyatlandırma ayrıntıları Ocak 2021 fiyat listesinde olacaktır.
 
-- Teklif Görünen Adı: Power Apps planı başına yükseltme (200 seat min)
-- Teklif Kimliği: 988b7b06-e034-4b3e-89ea-51198cb2723e
-- Lisans Sözleşmesi Türü: Kurumsal
-- Satın Alma Birimi: 1 Ay
-- İkincil Lisans Türü: ÖZEL OLMAYAN
-- Liste Fiyatları: Liste fiyatları bu konumdan [indirilebilir.](https://partnercenter.microsoft.com/pc/api/cms/rtdownload?id=sales/RE4Lr1n) Not: Fiyatları indirmek için İş Ortağı Merkezi oturum açmış olması gerekir. Oturum açmadıysanız İş Ortağı Merkezi bir durum yetkisiz hata **iletisi** alırsınız.
-- ERP Fiyatı: Henüz kullanılamıyor, bu teklifin ERP'sini 1/1/2021'de bir sonraki Ocak fiyat listesi güncelleştirmesinde ara
-- Malzeme Kimliği: SEQ-00016
+- teklif görünen adı: uygulama planı yükseltmesi başına Power Apps (200 koltuk dk)
+- Teklif KIMLIĞI: 988b7b06-e034-4b3e-89EA-51198cb2723e
+- Lisans sözleşmesi türü: Kurumsal
+- Satın alma birimi: 1 ay
+- İkincil lisans türü: özel olmayan
+- Fiyatları listeleyin: liste fiyatları [Bu konumdan](https://partnercenter.microsoft.com/pc/api/cms/rtdownload?id=sales/RE4Lr1n)indirilebilir. Note: fiyatları indirmek için Iş Ortağı Merkezi 'Nde oturum açmanız gerekir. Iş Ortağı Merkezi 'Nde oturum açmadıysanız, bir **durum yetkisiz** hata iletisi alırsınız.
+- ERP fiyatı: henüz kullanılabilir değil, bu teklifin ERP 'yi 1/1/2021 tarihinde sonraki Ocak Fiyat listesi güncelleştirmesinde arayın
+- Malzeme KIMLIĞI: SEQ-00016
  
-**Teklif ayrıntıları**
+**Teklif Ayrıntıları**
 
-Bu teklifle ilgili aşağıdaki teklif ayrıntıları Ocak 2021 teklif listesi matrisinde yer almaktadır.
+Bu teklif için aşağıdaki teklif ayrıntıları Ocak 2021 teklif listesi matrisinde olacaktır.
 
-- Sağlama Kimliği: POWERAPPS_PER_APP
-- Süre: 1 Yıl
-- Faturalama Sıklığı: Aylık veya Yıllık
-- En Az Yer Sayısı: 200
-- Maksimum Seat Count: 10000000
-- Teklif Sınırı: Yok
-- İzin Verilen Ülkeler: ABD Outlying Adaları, İngilizce (Fransızca Güney Bölgeleri), Bouvet Adası, İngiliz Hint Okyanus Bölgesi, Ndeni, Heard And Mc Sierra Adaları, Wallis and Luisuna, Vanuatu, Antarctica, Tuvalu, Maua, Tokelau, Sierra Leone, Swnitland, St Maua, Ascension, Tristan da Cunha, STc£o TomTc© and PrUancipe, Pitcairn Adaları, Mauu, Island Islands, Nauru, Niue, Norfolk Island, Mauritania, Kuzey Mariana Adaları , Lesotho, Kirtinati, Ekquatorial Gine, Gine-Bissau, Cook Adaları,İlerire, Island Adası,Ilirina Faso, Orta Afrika Cumhuriyeti, Hindistan, Cocos (Ling) Adaları, Svalbard ve Jan Mayen, É... land Islands, South Sudan, South South Sandwich Adaları, Samoa, Saint BarthÂ©lemy, British Virgin Adaları, Saint Pierre and Miquelon, Virgin, Niger, Montserrat, Guyana, Kong, Gambia, Guam, Gine, Gabon, Grenada, Gibraltar, Vlnsey, Guiia, Micronesia, Falkland Adaları, Guia, Djibouti, Kongo, Kongo (DRC), Zimbabwe, Amerikan Samoa, Milibiya, Güney Afrika,Seyin, Vietnam, Saint Saint Ve Grenadines , U.S. Virjin Adaları, Meksika, Arjantin (Meksika Şehri), Arjantin, Afrika, Özbekistan, Birleşik Devletler, Tayvan, Tanzania, Tayvan, Trinidad ve Tobago, Türkiye, Asya, Tonga, Timor-Leste, Timor-Leste, Timmenistan, Tajikistan, Yerkök, Togo, ElBi, Sint Maarten, Turks ve Caicos Adaları, Suriname, Singapur, Sicos, San Marino, Senegal, Portekiz, İsveç, Ürkek, Suudi Arabistan, İsviçre, Rusya, Mart, RÉ©union, Bilgisayar, Nesle, Netanya , Territory, Occupied, Dale, Porto Riko,Ürek, Brezilya, Papua Yeni Gine, Fransızca Polinezya, Yeni Zelanda, Oman, Listenin, Hollanda, Norveç, Norveç, Norveç, Nikaragua, New Caledonia, Namibia, Mauambique, Malezya, Meksika, Martinique, Malawi, Malawi, Meksika, Mauritius, Zaman, Myanmar, Macao SAR, Mongolia, Mali, Madagascar, Marshall Adaları, Kuzey Afrika, FYRO, Saint Martin, Saint Martin, Nesle, Monaco, Milas, Milas, Macao SAR, Mongolia, Mali, Madagascar, Marshall Adaları, Kuzey Afrika, Saint Martin, Netanya, Monaco, Monaco, Her zaman , Virgin Islands, Angeles Adaları, Liechtenstein, Laos, Yerkoşul, Güney Kore, Comross, Cambodia, Saint Kitts and Saint Kitts and Saints, Kyrgyzstan, Japan, India, Jamale, İtalya, Virgin, Ireland, India, Indonesia, Isle of Man,Hitduras, India, Virginy, Hong Kong SAR, Virgin, Japan, Japan, Ghdeloupe, French Guiana, Greenland, Ghana, Faroe Adaları, Birleşik Krallık, Krallık, Krallık, Fransa, Fiji, Sağiçe, İspanyolca, Dil, İngilizce , Ecuhit, Zımni Cumhuriyeti, Zımni, Almanya, Norveç, Çek Cumhuriyeti, CuraÂ©ao, Cape Verde, Bae Rika, Arjantin, Cameroon, Brezilya, CÉ'te dâ€€a ™Ivoire, Kanada, İsviçre, Belize, Konsol, Botswana, Bhutan, Bahamas, Bonados, Sint Eustatius ve Saba, Brezilya, Benin, Brenei, Bermuda, Bolivia, Brezilya, Arjantin, Angola,Yük, Burundi, Boşnak, Arjantin, Angola, Gösteri, Zımni , Afrika, Anguilla, Andorra, Birleşik Arab Cal, Antigua ve Barbuda
+- Sağlama KIMLIĞI: POWERAPPS_PER_APP
+- Süre: 1 yıl
+- Faturalandırma sıklığı: aylık veya yıllık
+- En az koltuk sayısı: 200
+- En fazla bilgisayar sayısı: 10000000
+- Teklif sınırı: yok
+- İzin verilen ülkeler: ABD harici Adaları, Ingilizce (Fransız Güney toprakları), Bouvet Adası, Ingiliz Hint Okyanusu Toprakları Yemen, Heard ve Mc Donald Adaları, Wallis ve Futuna, Vanuatu, Antarktika, Tuvalu, Somalia, Tokelau, Sierra Taone, Swaziland, St Helena, Ascension, Tristan da Cunha, SÃ £ o TomÃ © ve PrÃncipe, Pitcairn Adaları, Damau, Solomon Adaları, Moruru, Niue, Norfolk Adası, Mortum , Lesotho, Kiribati, Ekvator Ginesi, Gine-Bissau, Cook Adaları, Eritre, Christmas Adası, Burkina Faso, Orta Afrika Cumhuriyeti, Kosovo, Cocos (Keeling) Adaları, Svalbard ve Jan Mayen, Ã... Land Adaları, Güney Sudan, Güney Georgia ve Güney Sandwich Adaları, Samoa, Saint BarthÃ © limy, Ingiliz Virgin Adaları, Saint Pierre ve Miquelon, Chad, Nijer, Montserrat, Guyana, Haiti, Gambiya, Thar, Gine, Gabon, Grenada, Gibraltar, Guernsey, Liberia, Mikzluk, POF, deniz IKA, Djibuti, Kongo, Kongo (KDC), Zimbabve, Amerikan Samoa, Zambiya, Güney Afrika, Mayotte, Vietnam, Saint Vincent ve Grenadinler , ABD Virgin Adaları, Venezuela, Pasee (Vatikan), Ukrayna, Uganda, Özbekistan, Birleşik Devletler, Uruguay, Tanzanya, Tayvan, Trinidad ve Tobago, Türkiye, Tunus, Tonga, Timor-Leste, Türkmenistan, Tacikistan, Tayland, Togo, El Salvador, Sint Maaron, Turks ve Caicos Adaları, Surinam, Singapur, Slovenya, San Marino, Senegal, Slovakya, Isveç, Seyşeller, Suudi Arabistan, Sırbistan, Ruanda, Rusya, Romanya, RÃ © Union, Qtor, Paraguay, Portekiz, Filipinler , Filistin toprakları, dolu, Polonya, Porto Riko, Pakistan, Peru, Panama, Papua Yeni Gine, Fransızca Polinezı, Yeni Zelanda, Umman, Nepal, Hollanda, Norveç, Nijerya, Nikaragua, Yeni Kaledonya, Namibia, Mozambik, Malezya, Meksika, Martinik, Malavi, Maldivler,, Malta, Myanmar, Makao ÖIB, Moğolistan, mali, Madagaskar, Marshall Adaları, EYC, , Sri Lanka, Cayman Adaları, Liechtenstein, Laos, Kazakistan, Kuveyt, Kore, Komorolar, Kamboçya, Saint Kitts ve Nevis, Kenya, Kırgızistan, Japonya, Ürdün, Jamaika, Jersey, Italya, Iceland, Irak, Irlanda, Hindistan, Endonezya, Man Adası, Honduras, Israil, Macaristan, Hong Kong ÖIB, Hırvatistan, Guatemala, Yunanistan, Guadeloupe, Fransızca Ginesi, Birleşik Krallık , Ekvador, Dominik Cumhuriyeti, Cezayir, Almanya, Danimarka, Kıbrıs, Çek Cumhuriyeti, CuraÃ § Ao, Cabo Verde, Kosta Rika, Şili, Kamerun, Kolombiya, CÃ ́te dâ €™ Ivoire, Kanada, Isviçre, Belize, Belarus, Botsvana, Bhutan, Bahamalar, Bonaire, Sint Eustatius ve Saba, Brezilya, Benin, Brunei, Bermuda, Bolivya, Belçika, Bulgaristan, Bahreyn, Burundi, Bosna-Hersek, Bangladeş, Barbados, Azerbaycan, Aruba, Avustralya, Arjantin, Avusturya , Arnavutluk, Anguilla, Andora, Birleşik Arap Emirlikleri, Antigua ve Barbuda
 
 ### <a name="next-steps"></a>Sonraki Adımlar
 
-- Promosyon teklifi 1 Ocak 2021, resmi CSP iş ortağı merkezi lisans-temel fiyat listesi ve teklif listesi matrisinde kullanılabilir olacak.
+- Promosyon teklifi 1 Ocak 2021, resmi CSP iş ortağı Merkezi Lisansı-taban fiyat listesi ve teklif listesi matrisinde kullanılabilir olacaktır.
 
 ______________
 
-## <a name="sdk-release-on-net-standard-v1163"></a><a name="4"></a>.NET Standard üzerinde SDK Sürümü (v1.16.3)
+## <a name="sdk-release-on-net-standard-v1163"></a><a name="4"></a>.NET Standard SDK sürümü (v 1.16.3)
 
 ### <a name="categories"></a>Kategoriler
 
 - Tarih: 2020-12-8
 - Özellikler
 
-### <a name="impacted-audience"></a>Etkilene hedef kitle
+### <a name="impacted-audience"></a>Etkilenen hedef kitle
 
-.NET SDK'sını kullanan CSP programına katılan Doğrudan Fatura iş ortakları İş Ortağı Merkezi Sağlayıcılar.
+Iş ortağı merkezi .NET SDK 'sını kullanan CSP programına katılan doğrudan fatura ortakları ve dolaylı sağlayıcılar.
 
 ### <a name="details"></a>Ayrıntılar
 
-İş ortakları 8 Aralık 2020'den başerek [MicrosoftPartnerCenter.NETSDK (NuGet Gallery | Microsoft.Store.PartnerCenter 1.16.3)](https://www.nuget.org/packages/Microsoft.Store.PartnerCenter/1.16.3)ve güncelleştirilmiş genel İş Ortağı Merkezi SDK'sı [GitHub örnekleri.](https://github.com/Microsoft/Partner-Center-DotNet-Samples) Bu sürüm aşağıdaki yöntemlere yapılan güncelleştirmeleri içerir:
+08 2020 aralık itibariyle iş ortakları, [microsoftpartnercenter. netsdk 'nın (NuGet galerisi) sürümünü indirmeye başlayabilir | Microsoft. Store. partnercenter 1.16.3)](https://www.nuget.org/packages/Microsoft.Store.PartnerCenter/1.16.3), güncelleştirilmiş ortak iş ortağı merkezi SDK [GitHub örneklerle](https://github.com/Microsoft/Partner-Center-DotNet-Samples)birlikte. Bu sürüm aşağıdaki yöntemlerin güncelleştirmelerini içerir:
  
-**SelfServePolicies - yeni işlevsellik eklendi**
+**SelfServePolicies-yeni işlevsellik eklendi**
 
 - [GetSelfServePolicies](/partner-center/develop/get-a-self-serve-policy-by-id)
-- [GetListOfSelfServicePolicies](/partner-center/develop/get-a-list-of-self-serve-policies)
+- [Getlıfselfservicepolicies](/partner-center/develop/get-a-list-of-self-serve-policies)
 - [CreateSelfServePolicies](/partner-center/develop/create-a-self-serve-policy)
 - [UpdateSelfServePolicies](/partner-center/develop/update-a-self-serve-policy)
 - [DeleteSelfServePolicies](/partner-center/develop/delete-a-self-serve-policy)
  
-**Müşteriler Şirket Profili**
+**Müşteriler şirket profili**
 
-- [OrganizationRegistrationNumber eklendi](/partner-center/develop/create-a-customer)
+- [Organizationregistrationnumber](/partner-center/develop/create-a-customer) eklendi
  
-**CustomerBillingProfile.DefaultAddress**
+**CustomerBillingProfile. DefaultAddress**
 
 - MiddleName eklendi
  
 ### <a name="next-steps"></a>Sonraki Adımlar
 
-- En son [MicrosoftPartnerCenter.NETSDK (NuGet Gallery | Microsoft.Store.PartnerCenter 1.16.3)](https://www.nuget.org/packages/Microsoft.Store.PartnerCenter/1.16.3)
-- Örnek uygulama örneklerini GitHub [gözden geçirme](https://github.com/Microsoft/Partner-Center-DotNet-Samples)
+- en son [microsoftpartnercenter. netsdk sürümünü indirin (NuGet galerisi | Microsoft. Store. PartnerCenter 1.16.3)](https://www.nuget.org/packages/Microsoft.Store.PartnerCenter/1.16.3)
+- [GitHub örnekleri](https://github.com/Microsoft/Partner-Center-DotNet-Samples) indirin ve gözden geçirin
 
 ______________
 
@@ -448,49 +448,49 @@ ______________
 
 ### <a name="summary"></a>Özet 
 
-Aralık 2020 lisans tabanlı fiyat listesi ve teklif listesi matrisinde birkaç sorun vardır.
+2020 Aralık lisans tabanlı fiyat listesi ve teklif listesi matrisinde bazı sorunlar vardır.
 
-### <a name="impacted-audience"></a>Etkilene Hedef Kitle 
+### <a name="impacted-audience"></a>Etkilenen hedef kitle 
 
-Bulut Çözümü Sağlayıcısı (CSP) programı aracılığıyla işlem yapılan tüm iş ortakları
+tüm iş ortakları Bulut Çözümü Sağlayıcısı (CSP) programı üzerinden deneyimidir
 
 ### <a name="details"></a>Ayrıntılar
 
-Aralık lisans tabanlı fiyat listeleri ve teklif listesi matris dosyaları birkaç anomali içerir. Bu sorunlar yalnızca lisans tabanlı fiyatlandırma dosyalarıyla ilgilidir ve Ocak 2021 güncelleştirmeleri ile düzeltilmiş olması gerekir.
+Aralık lisans tabanlı fiyat listeleri ve teklif listesi matris dosyaları bazı bozukluklar içerir. Bu sorunlar yalnızca lisans tabanlı fiyatlandırma dosyalarıyla ilgilidir ve Ocak 2021 güncelleştirmelerinde düzeltilmelidir.
 
-#### <a name="incorrect-offers-in-the-license-based-price-list"></a>Lisans tabanlı fiyat listesinde yanlış teklifler var
+#### <a name="incorrect-offers-in-the-license-based-price-list"></a>Lisans tabanlı fiyat listesindeki yanlış teklifler
 
-Aralık lisans tabanlı fiyat listeleri, fiyat listelerinde yer alan aşağıdaki teklifleri içerir. Bu teklifler daha önce hatayla fiyat listelerine dahil edildi ve yayımlanmazdı. Bu tekliflerin ne zaman kullanılabilir olduğuyla ilgili bir zamanlama yoktur. Gelecekte, geri eklenirseler gelecek önizleme fiyat listelerinde ADD olarak listelenirler.
+Aralık lisans tabanlı fiyat listeleri, Fiyat listelerinde olmaması gereken aşağıdaki teklifleri içerir. Bu teklifler daha önce hata halinde fiyat listelerine dahil edilmiştir ve yayımlanmamalıdır. Bu tekliflerin kullanılabildiği bir zamanlama yoktur. Gelecekte geri eklendiyse, gelecekteki önizleme fiyatı listelerine ekleme olarak listelenecektir.
 
    |**Teklif adı**|**Teklif Kimliği**|
    |-------------------|:------|
-   |Dynamics 365 İnsan Kaynakları (Kar Amacı Gütmeyen Kuruluşlar Fiyatlandırması)|1596fa61-7da1-4263-98f8-b27dfa4cfbb5|
-   |Dynamics 365 İnsan Kaynakları Uygun Dynamics 365 Temel Teklifine Ekleme (Kar Amacı Gütmeyen Kuruluşlar Fiyatlandırması)|8bf0b826-e05b-45aa-9cd1-9a9f742f7731|
-   |Dynamics 365 İnsan Kaynakları Uygun Dynamics 365 Temel Teklifine Ekleme (Kar Amacı Gütmeyen Fiyatlandırması) (Nitelikli Teklif)|f906435d-9dc9-42ba-bea6-2a2b08ca60db|
-   |Dynamics 365 İnsan Kaynakları Korumalı Alanı (Kar Amacı Gütmeyen Kuruluşlar Fiyatlandırması)|079ec5ba-d726-4384-95af-62d135c210d2|
-   |Dynamics 365 İnsan Kaynakları Self-Service (Kar Amacı Gütmeyen Kuruluşlar Fiyatlandırması)|931acecc-34c3-4f83-913e-c7fdbfd7e2a1|
-   |Dynamics 365 İşlemleri – Sipariş Satırları (Kar Amacı Gütmeyen Fiyatlandırma)|7dd6b78a-3d53-47f8-8a64-bd84609a9a70|
+   |Dynamics 365 Insan kaynakları (kar amacı gütmeyen fiyatlandırma)|1596fa61-7dad1-4263-98f8-b27dfa4cfbb5|
+   |Dynamics 365 Insan kaynakları, Dynamics 365 temel teklifini (kar amacı gütmeyen fiyatlandırma) nitelemek için Iliştirmiş|8bf0b826-e05b-45aa-9cd1-9a9f742f7731|
+   |Dynamics 365 Insan kaynakları, Dynamics 365 temel teklifini (kar amacı gütmeyen fiyatlandırma) uygun şekilde ekler (nitelikli teklif)|f906435d-9dc9-42ba-bea6-2a2b08ca60db|
+   |Dynamics 365 Insan kaynakları korumalı alanı (kar amacı gütmeyen fiyatlandırma)|079ec5ba-D726-4384-95af-62d135c210d2|
+   |Dynamics 365 Insan kaynakları Self-Service (kar amacı gütmeyen fiyatlandırma)|931acecc-34C3-4f83-913E-c7fdbfd7e2a1|
+   |Dynamics 365 Işlemleri – sipariş satırları (kar amacı gütmeyen fiyatlandırma)|7dd6b78a-3d53-47F8-8A64-bd84609a9a70|
    
 #### <a name="incorrect-offers-in-the-offer-list-matrix"></a>Teklif listesi matrisinde yanlış teklifler
    
-Aşağıdaki teklifler, teklif listesi matrisinde hata oluştu. Bunlar kullanılamıyor, henüz kullanılabilirlik için hedef tarih yok. İş ortaklarının bu satır öğelerini yoksaymaları gerekir.
+Aşağıdaki teklifler teklif listesi matrisinde hatalı. Bunlar mevcut değil, henüz kullanılabilirlik için bir hedef tarih yok. İş ortakları bu satır öğelerini yoksaymalıdır.
 
    |**Teklif adı**|**Teklif Kimliği**|
    |-------------------|:------|
-   |Dynamics 365 İşlemleri - Veritabanı Kapasitesi (Kar Amacı Gütmeyen Fiyatlandırma)|1d3f4d81-89b9-419e-a880-31b2c50b8d66|
-   |Dynamics 365 İşlemleri - Dosya Kapasitesi (Kar Amacı Gütmeyen Fiyatlandırma)|dc173a86-285b-444c-881e-3ece531f67da|
+   |Dynamics 365 Işlemleri-veritabanı kapasitesi (kar amacı gütmeyen fiyatlandırma)|1d3f4d81-89b9-419e-a880-31b2c50b8d66|
+   |Dynamics 365 Işlemleri-dosya kapasitesi (kar amacı gütmeyen fiyatlandırma)|dc173a86-285b-444c-881e-3ece531f67da|
 
-#### <a name="powerapps-offer"></a>Powerapps teklifi
+#### <a name="powerapps-offer"></a>PowerApps teklifi
 
-Bu teklif teklif listesi matrisinde yer aldı ancak Aralık fiyat listesine dahil edildi. Teklif kullanılabilir ve fiyatlandırma önceki ayın fiyat listesi Kasım dosyasında bulunabilir. Bu teklif, Ocak fiyat listesine geri eklenmiştir.
+Bu teklif, Aralık fiyat listesine değil teklif listesi matrisine eklenmiştir. Teklif kullanılabilir ve fiyatlandırma, önceki ayın fiyat listesi Kasım dosyasında bulunabilir. Bu teklif, Ocak Fiyat listesine geri eklenmelidir.
 
    |**Teklif adı**|**Teklif Kimliği**|
    |-------------------|:------|
-   |Power Apps planı başına uygulama sayısı|5e1087b6-246b-4503-b88a-b60bdf0b3840|
+   |uygulama planına göre Power Apps|5e1087b6-246B-4503-b88a-b60bdf0b3840|
 
 ### <a name="next-steps"></a>Sonraki adımlar
 
-Sürüm notlarını, diğer sorunlar ortaya çıkarılma sık sık bu duyuruya eklenirken kontrol edin.
+Diğer sorunlar açıklanmadığı için yayın notlarını sık sık denetleyin.
 
 ### <a name="last-updated"></a>Son güncelleştirme
 
@@ -498,7 +498,7 @@ Sürüm notlarını, diğer sorunlar ortaya çıkarılma sık sık bu duyuruya e
 
 ______________
 
-## <a name="an-update-of-the-us-microsoft-365-business-voice-with-calling-plan-offer-is-coming-soon"></a><a name="2"></a>Arama Planı teklifinin ABD Microsoft 365 Küçük İşletmeler için Ses güncelleştirmesi yakında geliyor
+## <a name="an-update-of-the-us-microsoft-365-business-voice-with-calling-plan-offer-is-coming-soon"></a><a name="2"></a>arama planı teklifiyle ilgili abd Microsoft 365 Küçük İşletmeler için Ses güncelleştirmesi çok yakında kullanıma sunulacak
 
 ### <a name="categories"></a>Kategoriler
 
@@ -507,90 +507,90 @@ ______________
 
 ### <a name="summary"></a>Özet 
 
-1 Ocak 2021'de Microsoft, ABD iş ortaklarını ve müşterilerini Arama Planı teklifiyle Microsoft 365 Küçük İşletmeler için Ses yeni bir çözüme geçişe başlayacaktır. İş ortağı eylemi gerekmez.
+Microsoft, 1 ocak 2021 ' de, iş ortakları ve müşterileri çağrı planı teklifiyle yeni bir Microsoft 365 Küçük İşletmeler için Ses çevirmeye başlayacaktır. İş ortağı eylemi gerekli değildir.
 
-### <a name="impacted-audience"></a>Etkilene Hedef Kitle 
+### <a name="impacted-audience"></a>Etkilenen hedef kitle 
 
-Bulut Çözümü Sağlayıcısı (CSP) programı aracılığıyla işlem yapılan tüm iş ortakları
+tüm iş ortakları Bulut Çözümü Sağlayıcısı (CSP) programı üzerinden deneyimidir
 
 ### <a name="details"></a>Ayrıntılar
 
-Microsoft, ABD'de mevcut Business Voice ile Arama planı teklifini telco ürünleri için iç gereksinimleri desteklemek için yeni bir teklifle değiştirecek. Yeni teklif aynı özellik kümesine ve fiyatlandırmaya sahip olacak. Teklif değişiklikleri Microsoft'un içindedir ve CSP iş ortaklarının Arama Planı ile business Voice teklifini pazarla, satma veya destekleme yolunu etkilemez. Değişiklik yalnızca bu teklif için geçerlidir.
+Microsoft, telefon ürünleri için dahili gereksinimleri desteklemeye yönelik olarak ABD 'deki çağrı planı teklifini içeren mevcut Iş sesini yeni bir teklifle değiştirecek. Yeni teklif aynı özellik kümesine ve fiyata sahip olacaktır. Teklif değişiklikleri Microsoft 'a dağıtılır ve CSP Iş ortaklarının, çağrı planı teklifiyle kurumsal seslendirme, satma veya destekleme şeklini etkilememelidir. Değişiklik yalnızca bu teklif için geçerlidir.
 
-Yeni satışlar için, 1 Ocak 2021'den başlayarak yeni teklifi kullanamaya başlayacaktır. Eski teklif, fiyat listesinde yeni teklifle değiştirilir.
+Yeni satış için yeni teklifi 1 Ocak 2021 tarihinden itibaren kullanacaksınız. Eski teklif, Fiyat listesindeki yeni teklifle değiştirilmiştir.
 
-Mevcut müşteriler yenileme tarihine göre otomatik olarak yeni teklife geçiş yapılacaktır. İş ortakları ve müşterileri yenilemek için herhangi bir işlem gerekmez.
+Mevcut müşteriler yenileme tarihleri üzerine otomatik olarak yeni teklifine geçirilir. İş ortaklarının hiçbir işlem yapması ve müşterileri yenilemesidir.
 
 
-**Yeni teklif ayrıntıları
+* * Yeni Teklif Ayrıntıları
  
-   |**Teklif adı**|**Teklif Kimliği**|**Malzeme Kimliği**|
+   |**Teklif adı**|**Teklif Kimliği**|**Malzeme KIMLIĞI**|
    |-------------------|:------|:------|
-   |Microsoft 365 Küçük İşletmeler için Ses (ABD)|86713ec1-ad33-42cf-a1ce-8397d4d875fe|PZW-00023|
+   |Microsoft 365 Küçük İşletmeler için Ses (abd)|86713ec1-AD33-42CF-a1ce-8397d4d875fe|PZW-00023|
    
-**Eski teklif ayrıntıları
+* * Eski Teklif Ayrıntıları
 
-   |**Teklif adı**|**Teklif Kimliği**|**Malzeme Kimliği**|
+   |**Teklif adı**|**Teklif Kimliği**|**Malzeme KIMLIĞI**|
    |-------------------|:------|:------|
-   |Microsoft 365 Küçük İşletmeler için Ses (ABD)|9f9f2c7b-c961-402b-9421-8e3c9207eeb3|PZW-00009|
+   |Microsoft 365 Küçük İşletmeler için Ses (abd)|9f9f2c7b-c961-402b-9421-8e3c9207eeb3|PZW-00009|
 
 ### <a name="next-steps"></a>Sonraki adımlar
 
-Fiyat listesini tanıma ve bu bilgileri kuruluşta tüm ilgili kişilerle paylaşma.
+Fiyat listesi hakkında bilgi edinin ve bu bilgileri kuruluşunuzdaki ilgili tüm kişilerle paylaşabilirsiniz.
 
 ______________
 
-## <a name="now-live-partner-center-api-updates-and-user-interface-enhancements-for-the-education-customer-validation-process"></a><a name="1"></a>Canlı: İş Ortağı Merkezi müşteri doğrulama süreci için API güncelleştirmelerini ve kullanıcı arabirimi geliştirmelerini kullanma
+## <a name="now-live-partner-center-api-updates-and-user-interface-enhancements-for-the-education-customer-validation-process"></a><a name="1"></a>Şimdi canlı: eğitim müşteri doğrulama işlemi için Iş Ortağı Merkezi API güncelleştirmeleri ve Kullanıcı arabirimi geliştirmeleri
 
 ### <a name="categories"></a>Kategoriler
 
 - Tarih: 2020-12-3
 - Özellikler
 
-### <a name="impacted-audience"></a>Etkilene Hedef Kitle 
+### <a name="impacted-audience"></a>Etkilenen hedef kitle 
 
-Bulut Çözümü Sağlayıcısı programı aracılığıyla Akademik teklif satışı yapan iş ortakları
+Bulut Çözümü Sağlayıcısı programı aracılığıyla akademik teklifler satan iş ortakları
 
 ### <a name="summary"></a>Özet 
 
-Microsoft güven üzerinde çalışır. Bulut Çözümü Sağlayıcısı programda Akademik tekliflerin işlemesi için uyumlu, güvenli ve güvenli bir müşteri doğrulama yöntemi sağlamak Bulut Çözümü Sağlayıcısı taahhütte bulunduk. Bu taahhüdün bir parçası olarak, müşteri inceleme sürecine netlik ve görünürlük eklemenin yanı sıra daha doğru veri girişi yapma olanağını da artıran İş Ortağı Merkezi API'si ve kullanıcı arabirimi iyileştirmeleri sağlıyoruz. 
+Microsoft, güvende çalışır. Bulut Çözümü Sağlayıcısı programda deneyimidir akademik teklifleri için uyumlu, güvenli ve güvenli bir müşteri doğrulama yöntemi sağlamaya kararlıdır. Bu taahhütünün bir parçası olarak, müşteri mücadele sürecine netlik ve görünürlük ekleyecek ve daha doğru veri girişi yapma yeteneğinin yanı sıra, iyileştirilmiş müşterilerin başarısını ele alacak şekilde Iş Ortağı Merkezi API 'SI ve Kullanıcı arabirimi geliştirmeleri sunuyoruz. 
 
-**İş Ortağı Merkezi geliştirmeleri** 
+**İş ortağı merkezi geliştirmeleri** 
 
-- Doğru veri girişini desteklemek ve Microsoft tarafından Eğitim müşterisi doğrulama sürecini geliştirmek için yeni GET ve POST Nitelikler API'leri. 
+- Yeni GET ve POST nitelikleri API 'Leri, doğru veri girişini destekler ve Microsoft tarafından eğitim müşteri doğrulama sürecini geliştirir. 
 
-- Doğru veri girişini desteklemek ve Microsoft'un Eğitim müşteri doğrulama sürecini geliştirmek için kullanıcı arabirimi geliştirmeleri. 
+- Doğru veri girişini desteklemeye yönelik kullanıcı arabirimi geliştirmeleri ve Microsoft 'un eğitim müşteri doğrulama sürecini geliştirir. 
 
-**Mevcut GET ve PUT Nitelik API'leri kullanımdan kalk** 
+**Mevcut GET ve PUT niteliği API 'Lerinin kullanımdan kaldırılması** 
 
-Mevcut GET ve PUT Nitelik API'leri Şubat **2021'in sonundan önce sona erer.** Bu sırada Eğitim tekliflerini satın almak için yeni GET ve POST İş Ortağı Merkezi API'lere geçiş yaptıyabilirsiniz.  
+Mevcut GET ve PUT niteliği API 'Leri, **şubat 2021 ' nin sonundan önce** devre dışı bırakılacak. Bu sırada, eğitim teklifleri satın alabilmek için yeni alma ve GÖNDERI Iş Ortağı Merkezi API 'Lerine geçiş yapmanız gerekir.  
 
 **Test etme** 
 
-Başarılı müşteri doğrulaması için gereken API'leri ve veri girişini daha iyi anlamak için iş ortakları bu geliştirmeleri test ediyor olabilir. Teste katılmak isteyen iş ortaklarının [hazırlama,](https://partner.microsoft.com/resources/detail/partner-center-edu-testing-guide-pdf) kaydolma ve test aşamasında neler beklen gerektiği hakkında bilgi için İş Ortağı Merkezi Education müşteri testi kılavuzunu indirmesi gerekir.
+Başarılı müşteri doğrulaması için gereken API 'Leri ve veri girişini daha iyi anlamak için, iş ortakları bu geliştirmeleri test edebilir. Teste katılmak isteyen iş ortakları, hazırlanma, kaydolma ve test aşamasında beklendiklere ilişkin yönergeler için [Iş ortağı merkezi eğitim müşteri test kılavuzunu](https://partner.microsoft.com/resources/detail/partner-center-edu-testing-guide-pdf) indirmelidir.
 
-**Library ve Library müşterileri** 
+**Kitaplık ve Museum müşterileri** 
 
-Yukarıdaki iyileştirmelere ek olarak, Kitaplık ve Kitaplık müşterileri için Akademik fiyatlarda teklifleri etkinleştirip CSP tekliflerini birlikte işlemde bulundurarak Eğitim müşterilerini genişleteceklerini duyurmak istiyoruz. 
+Yukarıdaki geliştirmelere ek olarak, kitaplık ve Museum müşterileri için akademik fiyatlı teklifleri etkinleştireceğiz ve bu müşterilere Transact CSP teklifleri sağlayan eğitim müşterilerini genişlettireceğiz duyuruyoruz. 
 
-Microsoft, herhangi bir müşterinin veya önerilen müşterinin durumunu nitelikli eğitim kullanıcısı olarak gözden geçirme hakkını hakkıyla karşılar. Tüm ayrıntılar [için bkz. Akademik Nitelikli Eğitim](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7) Kullanıcı Gereksinimleri. 
+Microsoft, herhangi bir müşterinin veya önerilen müşterinin durumunu tam eğitim kullanıcısı olarak gözden geçirme hakkını saklı tutar. Tüm ayrıntılar için [akademik nitelikli eğitim Kullanıcı gereksinimlerine](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7) bakın. 
 
 ### <a name="next-stepsadditional-resources"></a>Sonraki adımlar/ek kaynaklar
 
-- Yeni İş Ortağı Merkezi Kullanıcı Arabirimi, API değişiklikleri ve İşlem hazırlığı kaynaklarında Kılavuz'İş Ortağı Merkezi gözden geçirme:  [İş Ortağı Merkezi Eğitim](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/) müşteri doğrulama süreci geliştirmeleri 
+- Yeni Iş Ortağı Merkezi Kullanıcı arabirimini, API değişikliklerini ve Işlem hazırlık kaynakları içindeki kılavuzu gözden geçirin:  [Iş Ortağı Merkezi eğitimi müşteri doğrulama](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/) işlemi geliştirmeleri 
 
-- Kuruluşta Akademik Nitelikli Eğitim Kullanıcısı [gereksinimleri hakkında bilgi sahibi olduğundan emin olun.](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7) 
+- Kuruluşunuzun [akademik eğitim Kullanıcı gereksinimlerine uygun](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7)olduğundan emin olun. 
 
-- Bu bilgileri, bu değişikliklere hazırlanmalarına yardımcı olmak için kuruluş içindeki uygun ekiplerle ve kurumsal bayilerle paylaşın. 
+- Bu bilgileri kuruluşunuzdaki uygun ekiplerle ve satıcılarınız ile paylaşarak, bu değişikliklere hazırlanmalarına yardımcı olun. 
 
 ### <a name="change-log"></a>Değişiklik Günlüğü 
 
-_ 31 Ağustos 2020: Özgün yayın 
+_ 31 Ağustos 2020: özgün yayın 
 
-- 25 Eylül 2020: test penceresi güncelleştirmesi eklendi 
+- 25 Eylül 2020: Test penceresi güncelleştirmesi eklendi 
 
-- 4 Ekim 2020: test için kaydolmak üzere anımsatıcı 
+- 4 Ekim 2020: Teste kaydolmayı anımsatacak 
 
-- 10 Kasım 2020: test için kaydolmak üzere anımsatıcı 
+- 10 Kasım 2020: Teste kaydolmayı anımsatacak 
 
 - 3 Aralık 2020: API güncelleştirmeleri canlı

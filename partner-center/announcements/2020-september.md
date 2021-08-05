@@ -3,18 +3,18 @@ title: Eylül 2020 duyuruları
 description: Yeni özellikler, promosyonlar, teklifler, pazarlar veya mevcut tekliflerde yapılan değişiklikler gibi Microsoft İş Ortağı Merkezi Için Eylül 2020 duyuruları.
 ms.topic: article
 ms.service: partner-dashboard
-ms.subservice: partnercenter-action-center
+ms.subservice: partnercenter-announcements
 author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 03/08/2021
-ms.openlocfilehash: cccbedfc5e45ca6cf0e78db9c40dbcba2c2fdca2
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 51ef59c21322ff64b417163a8a4a4262c80894bd
+ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114838776"
+ms.lasthandoff: 08/04/2021
+ms.locfileid: "115102344"
 ---
 # <a name="september-2020-announcements"></a>Eylül 2020 duyuruları
 
@@ -156,222 +156,38 @@ Microsoft güven üzerinde çalışır. CSP programında Akademik tekliflerin i�
 
 ### <a name="testing"></a>Test Etme 
 
-İş ortakları Ekim 2020'den itibaren bu geliştirmeleri test etme fırsatına sahip olacak. Başarılı bir müşteri doğrulaması için gereken API'leri ve veri girişini daha iyi anlamak için bu fırsatı değerlendirin. Tam zamanlama ve katılım hakkında kısa süre içinde daha fazla ayrıntı sağlanacak. Mevcut İş Ortağı Merkezi API'leri FY21 Ç2'nin bitmeden önce kaldırılamayacak. Bu sırada yeni api'leri kullanmaya İş Ortağı Merkezi gerekir.
+İş ortakları Ekim 2020'den itibaren bu geliştirmeleri test etme fırsatına sahip olacak. Başarılı bir müşteri doğrulaması için gereken API'leri ve veri girişini daha iyi anlamak için bu fırsatı değerlendirin. Tam zamanlama ve katılım hakkında kısa süre içinde daha fazla ayrıntı sağlanacak. FY21 S2 'in sonundan önce mevcut Iş Ortağı Merkezi API 'Leri kullanımdan kaldırılacak. Bu sırada, yeni Iş Ortağı Merkezi API 'Lerini kullanarak öğesine geçiş yapmanız gerekir.
 
-### <a name="testing-update"></a>Test güncelleştirmesi 
+### <a name="testing-update"></a>Güncelleştirme sınanıyor 
 
-İş ortağı test tarihleri 2 Ekim 2020 ile 2 Aralık 2020 arasındadır. Katılmak isteyen iş [ortaklarının, İş Ortağı Merkezi,](https://partner.microsoft.com/resources/detail/partner-center-edu-testing-guide-pdf) kaydolma ve test aşamasında neler beklemeleri gerektiğine yönelik İş Ortağı Merkezi Education müşteri testi kılavuzunu gözden geçirmesi gerekir.
+İş ortağı test tarihleri 2 Ekim 2020 ile 2 Aralık 2020 arasında. Katılmak isteyen iş ortakları, [Iş Ortağı Merkezi eğitimi müşteri test kılavuzunu](https://partner.microsoft.com/resources/detail/partner-center-edu-testing-guide-pdf) inceleyerek nasıl hazırlanacağınıza, nasıl kayıt yapılacağını ve test aşamasında ne beklendiğini incelemelidir.
 
-### <a name="library-and-museum-customers"></a>Library ve Library müşterileri 
+### <a name="library-and-museum-customers"></a>Kitaplık ve Museum müşterileri 
 
-Daha önce açıklanan iyileştirmelere ek olarak, FY21 Ç2'de Kitaplık ve Kütüphane müşterileri için Akademik fiyat teklifleri etkinleştirecek ve EĞITIM müşterilerini CSP tekliflerini işlemeye ek olarak genişleteceklerini duyurmak istiyoruz. 
+Daha önce açıklanan geliştirmelere ek olarak, FY21 S2 'de, Transact CSP tekliflerinin sunduğu Eğitim müşterilerini genişleterek, kitaplık ve Museum müşterileri için akademik ücretlendirilen teklifleri etkinleştireceğiz. 
 
 >[!Note]
-> Microsoft, herhangi bir müşterinin veya önerilen müşterinin durumunu nitelikli bir eğitim kullanıcısı olarak gözden geçirme hakkını hakkıyla karşılar. Tüm ayrıntılar [için bkz. Akademik Nitelikli Eğitim](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7) Kullanıcı Gereksinimleri. 
+> Microsoft, herhangi bir müşterinin veya önerilen müşterinin durumunu tam eğitim kullanıcısı olarak gözden geçirme hakkını saklı tutar. Tüm ayrıntılar için [akademik nitelikli eğitim Kullanıcı gereksinimlerine](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7) bakın. 
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-- Yeni İş Ortağı Merkezi, API değişiklikleri ve Test Kılavuzu hakkında bilgi edinmek için Operations Readiness kaynaklarında İş Ortağı Merkezi Kullanıcı Arabirimi Eğitim müşteri doğrulama [süreci geliştirmelerini gözden geçirebilirsiniz.](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/) 
+- Yeni [Iş Ortağı Merkezi kullanıcı arabirimi, API değişiklikleri ve test Kılavuzu](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/)hakkında bilgi edinmek Için, işlem hazırlık kaynaklarında Iş Ortağı Merkezi eğitimi müşteri doğrulama süreci geliştirmelerini gözden geçirin. 
 
-- Teste katılmak için kaydolma (ayrıntılar [için bkz. Test](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/) Kılavuzu). 
+- Teste katılmak için kaydolun (Ayrıntılar için [Test kılavuzuna](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/) bakın). 
 
-- Kuruluşta Akademik Nitelikli Eğitim Kullanıcı [Gereksinimleri hakkında bilgi sahibi olduğundan emin olun.](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7) 
+- Kuruluşunuzun [akademik eğitim Kullanıcı gereksinimlerine uygun](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7)olduğundan emin olun. 
 
-- Bu bilgileri, bu değişikliklere hazırlanmalarına yardımcı olmak için kuruluş içindeki uygun ekiplerle ve kurumsal bayilerle paylaşın. 
+- Bu bilgileri kuruluşunuzdaki uygun ekiplerle ve satıcılarınız ile paylaşarak, bu değişikliklere hazırlanmalarına yardımcı olun. 
 
 ## <a name="questions"></a>Sorularınız mı var?
 
-Bu bildirimle ilgili sorularınız varsa destek için [İş Ortağı Merkezi geçin.](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals)
+Bu bildirimle ilgili sorularınız varsa, [Iş Ortağı Merkezi desteğiyle](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals)iletişim kurun.
 
-## <a name="update---csp-o365-usage-apis-and-csp-license-usage-reports"></a><a name="13"></a>Güncelleştirme - CSP O365 kullanım API'leri ve CSP Lisans kullanım raporları 
+## <a name="update---csp-o365-usage-apis-and-csp-license-usage-reports"></a><a name="13"></a>Update-CSP O365 kullanım API 'Leri ve CSP Lisansı kullanım raporları 
 
 ### <a name="categories"></a>Kategoriler
 
 - Tarih: 2020-09-29
-- Özellikler
-
-### <a name="impacted-audience"></a>Etkilene hedef kitle
-
-Tüm iş ortakları, Bulut Çözümü Sağlayıcısı (CSP) programı aracılığıyla işlem İş Ortağı Merkezi. 
-
-### <a name="summary"></a>Özet 
-
-İş ortaklarının O365 kullanımını ölçmelerine yardımcı olmak için CSP O365 kullanım API'lerinde ortaya çıkacak ölçümlerin tanımlarında güncelleştirmeler yapılacaktır. 
-
-### <a name="details"></a>Ayrıntılar
-
-Bu, 17 [Eylül 2020'de](#8) yapılan İş Ortağı Merkezi güncelleştirmedir. Api güncelleştirmelerinin geriye dönük uyumlu olduğundan emin olmak ve sizin için herhangi bir tümleştirme değişikliğinin gerekli olmayacağından emin olmak için güncelleştirmeler yapıyoruz. 
-
-Daha önce duyurulmuştu, 30 Eylül 2020'den itibaren CSP O365 kullanım ölçümleri bir güncelleştirmeden geçmektedir. 
-
-Bu değişiklikle birlikte, aşağıdaki CSP lisans kullanım API'leri aracılığıyla kullanılabilen ölçümlerin tanımları güncelleştirilir: 
-
-1. [Lisans kullanım bilgileri API'si.](/partner-center/develop/get-licenses-usage-information)
-
-2. [Müşteri lisans kullanım bilgileri API'si.](/partner-center/develop/get-customer-licenses-usage-information)
-
-3.  [İş ortağı lisans kullanım bilgileri API'si.](/partner-center/develop/get-partner-licenses-usage-information)
-
-Güncelleştirilmiş tanımlar aşağıda listelenmiştir. API şemasında değişiklik yoktur ve yeni tümleştirme gerekmez. 
-
-| **Ölçüm** | **Güncelleştirilmiş tanımlar** |
-|---------|:---------|
-|licensesActive |Son 28 gün içinde kullanılan lisans sayısı |
-|licensesQualified |Ürün SKU'su için kullanılabilen deneme sürümü ve deneme dışı lisans sayısı |
-|UsagePercent |Nitelikli lisansların yüzdesi olarak etkin lisanslar |
-|ProratedLicenseUsagePercent|İş ortağı için toplanan nitelikli lisansların yüzdesi olarak etkin lisanslar.  |
-
-### <a name="next-steps"></a>Sonraki Adımlar:
-
-Bu bilgileri, kuruluşta diğerleriyle paylaşın.
-________________
-
-## <a name="upcoming-russian-federal-law-vat-changes"></a><a name="12"></a>Yaklaşan Rusça Federal Yasası KDV değişiklikleri
-
-### <a name="categories"></a>Kategoriler
-
-- Tarih: 2020-09-25
-- Özellikler
-
-### <a name="impacted-audience"></a>Etkilene hedef kitle
-
-Rusça Toplu Lisanslama (VL), Microsoft Business Solutions (MBS) ve Bulut Çözümü Sağlayıcısı (CSP) kanal iş ortakları
-
-### <a name="summary"></a>Özet 
-
-1 Ocak 2021'den itibaren #265-FZ tarafından uygulanan KDV değişiklikleri uygulanacaktır.
-
-### <a name="details"></a>Ayrıntılar
-
-31 Temmuz 2020 tarihli #265-FZ, Rusça Vergi Yasası'nın 149. sn.2 sn.2'sinde değiştirilmiş alt sn.26'sı. Değişikliklere uygun olarak, 1 Ocak 2021'den sonra Rusya'da, Rusça yazılım ve  elektronik veritabanlarının birleşik yazmaca dahil olmayan yazılım ve elektronik veritabanları için özel IP hakları verilmesinin yanı sıra, bu tür yazılım ve veritabanları (güncelleştirmeler ve yükseltmeler dahil) için kullanım haklarının verilmesinin yanı sıra bu yazılım ve veritabanlarına İnternet üzerinden uzaktan erişim izni verilmesi artık KDV'den muaf **olmayacaktır.**  
-
-**Yukarıdaki değişikliklerden sonra, geçerli yasalar tarafından tanımlanan fiyatta KDV'nin MIOL tarafından Rusya'daki tüm somut olmayan Microsoft ürünlerine eklenmiştir.**
-
-Bu değişiklikle ilgili tüm sorgular için aşağıdaki gibi bir destek isteği gönderin:
-
-- Toplu Lisanslama: Sorularınız varsa, Çağrı Günlüğü Aracı'nı [(CLT)](https://clt.partners.extranet.microsoft.com/CLT) Bölgesel Operasyon Merkezi veya Explore.ms. Sorgunuza mümkün olan en hızlı şekilde çözüm getireciz için standart CLT işlemini yakından izleyin.
-- MBS/Dynamics: İş ortaklarının [PartnerSource Business Center'de OCL aracı aracılığıyla bir istek PartnerSource Business Center.](https://businesscenter.mbs.microsoft.com/) 
-- CSP: İş ortaklarının [bir destek isteğini günlüğe kaydettirleri gerekir](https://partnercenter.microsoft.com/partner/support)
-
-### <a name="next-steps"></a>Sonraki Adımlar:
-
-Bu bilgileri uygun olduğunu kabul ettiyebilirsiniz. Microsoft, vergi verginiz hakkında size öneride bulunamaz. Bu değişikliğin işletmenize etkisi hakkında kendi vergi danışmanlarınıza danışmanız gerekir. 
-________________
-
-## <a name="partner-center-insights--your-single-reporting-resource-for-understanding-your-business-with-microsoft"></a><a name="10"></a>İş Ortağı Merkezi Analizler: microsoft ile işlerinizi anlamak için tek raporlama kaynağınız.
-
-### <a name="categories"></a>Kategoriler
-
-- Tarih: 2020-09-23
-- Özellikler
-
-### <a name="impacted-audience"></a>Etkilene hedef kitle
-
-Kuruluşta yer alan tüm iş Microsoft İş Ortağı Ağı. 
-
-### <a name="summary"></a>Özet 
-
-İş Ortağı Merkezi Analizler yakında eski **myInsights raporlama aracının** yerini amayacak. İş Ortağı Merkezi Analizler daha zengin görseller, daha içgörü sahibi raporlama özellikleri ve müşterileri, abonelikleri, lisans kullanımını, kurumsal bayi performansını, eğitimi, yetkinlikleri ve avantajları kapsayan KIP'ler sunar. Microsoft ile işlerinizi net bir şekilde anlamak ve güvenle veri odaklı kararlar almak için bu akıllı içgörüleri kullanın. Çalışmaya başlama için sol **Analizler** menüden İş Ortağı Merkezi'yi seçin.
-
-**MyInsights** artık 30 Eylül 2020'den sonra kullanılamaz. 
-
-### <a name="what-is-insights"></a>Hangi Analizler?
-
-İş Ortağı Merkezi'daki Analizler panosu, Office 365, Azure, Dynamics 365 gibi Bulut ürünleri ve Bulut Çözümü Sağlayıcısı (CSP) ve Kurumsal Anlaşma (EA) gibi lisanslama modelleri genelinde iş ortağı kuruluşlarının ana performans göstergelerinin (KIP) birleşik, 360 derecelik bir görünümünü sağlar. Yeni özellikler sürekli olarak ekleniyor ve tüm raporlar [Ham](../insights-download-reports.md)veri dışarı aktarmayı desteklemektedir ve bu da iş ihtiyaçlarınıza göre geçici veri analizi gerçekleştirebilirsiniz. İki İş Ortağı Merkezi rol olan [Executive Report Viewer ve Report Viewer,](../insights-roles.md)kuruluş içindeki rapor kullanıcılarının erişimini ve Analizler daha iyi yönetmenize olanak sağlar.
-
-Son eklenen raporlar:
-
-- [Kurumsal bayi performans raporu ve veri dışarı aktarma:](../insights-resellers-performance.md) Çeşitli Dolaylı kurumsal bayilerinin performansına ilişkin CSP Dolaylı Sağlayıcılarına genel bir bakış sağlar.
-
-- [Müşteri fırsatları raporu ve veri dışarı aktarma:](../insights-customer-opportunities.md)Müşterilerin Microsoft ürünleri satın alma eğilimine genel bir bakış sağlar.
-
-[Raporlarda](../partner-center-insights.md) kullanılabilen raporların tam listesi için buraya Analizler.
-
-### <a name="next-steps"></a>Sonraki Adımlar:
-
-- Güncelleştirmeleri [ve İş Ortağı Merkezi Analizler hakkında](../partner-center-insights.md) bilgi edinmek için sık sık İş Ortağı Merkezi Analizler sayfasını kontrol edin.
-
-- Bu yeni özellikleri keşfetmenizi ve bu sekmede bulunan satır içi geri bildirim araçlarını kullanarak geri bildiriminizi Analizler teşvik ederiz.
-
-________________
-
-## <a name="sdk-release-on-net-standard-v1162"></a><a name="11"></a>.NET Standard'de SDK Sürümü (v1.16.2)
-
-### <a name="categories"></a>Kategoriler
-
-- Tarih: 2020-09-22
-- Özellikler
-
-### <a name="impacted-audience"></a>Etkilene hedef kitle
-
-.NET SDK'sını kullanan CSP programına katılan Doğrudan Fatura iş ortakları İş Ortağı Merkezi Sağlayıcılar.
-
-### <a name="summary"></a>Özet
-
-İş ortakları, 22 Eylül 2020'den başerek güncelleştirilmiş genel İş Ortağı Merkezi SDK'sı GitHub örnekleriyle birlikte .NET Standard SDK Microsoft İş Ortağı Merkezi .NET SDK v1.16.2 **sürümünü indirmeye başlayabilir.**
-
-### <a name="details"></a>Ayrıntılar
-
-Ayrıntılar [Microsoft İş Ortağı Merkezi .NET SDK](https://www.nuget.org/packages/Microsoft.Store.PartnerCenter/1.16.2) v1.16.2 artık genel kullanılabilirlik. güncelleştirilmiş [GitHub örnekleri](https://github.com/Microsoft/Partner-Center-DotNet-Samples) de mevcuttur. Bu sürüme aşağıdaki değişiklikler dahildir:
-
-- Denetim kaydı için desteklenen işlem türlerini güncelleştirin. Yeni eklenen olanlar [Denetim kaynaklarında](/partner-center/develop/auditing-resources) listelenir
-  - CreateSelfServePolicy
-  - UpdateSelfServePolicy
-  - DeleteSelfServePolicy
-  - RemovePartnerRelationship
-  - DeleteTipCustomer
-  - Createrelatedbaşvurunun
-  - Updaterelatedbaşvurunun
-
-- Hizmet isteği oluşturma artık kullanım dışıdır
-- Destek konuları artık kullanım dışıdır
-
-### <a name="next-steps"></a>Sonraki Adımlar
-
-- [.NET SDK v 1.16.2](https://www.nuget.org/packages/Microsoft.Store.PartnerCenter/1.16.2) 'ın en son sürümünü indirin
-- Sürüm: .NET SDK v 1.16.2
-- Örnek kod: [örnek kod](https://github.com/microsoft/Partner-Center-DotNet-Samples)
-- GA: 9/22/2020
-
-________________
-
-
-## <a name="announcing-the-general-availability-of-azure-sql-edge"></a><a name="9"></a>Azure SQL Edge 'in genel kullanıma sunulduğunu duyuruyor
-
-### <a name="categories"></a>Kategoriler
-
-- Tarih: 2020-09-22
-- Teklifler/Pazarlar
-
-### <a name="impacted-audience"></a>Etkilenen hedef kitle
-
-Microsoft alan ve iş ortakları 
-
-### <a name="summary"></a>Özet 
-
-en güvenli Microsoft SQL veri altyapısını Nesnelerin İnterneti (ıot) ağ geçitleri ve uç cihazlara getiren Azure SQL Edge artık kullanılabilir.
-
-### <a name="details"></a>Ayrıntılar
-
-günümüzde, ıot iş yükleri için iyileştirilmiş gerçek zamanlı bir veri altyapısı olan Azure SQL Edge kullanılabilirliği duyuruyoruz. aynı altyapı SQL Server ve Azure SQL üzerinde geliştirilen bu kapsayıcılı çözüm, çok sayıda ekibin zaten tanıdığınız ve güveneceği sektör lideri güvenlik, tanıdık geliştirici deneyimi ve araçları sağlar.
-Azure SQL Edge, bulut çözümü sağlayıcıları (csp 'ler) için **24 eylül salı** günü satın alacak şekilde sunulacaktır.
-
-[Azure SQL Edge](https://aka.ms/sqledge) , gerçek zamanlı içgörüler için veri akışı, depolama ve analizler sağlayan küçük bir kaplama kapsayıcısıdır. Sınır sunucularına, ağ geçitlerine ve cihazlara bağlı, bağlantısı kesik veya karma ortamlarda dağıtın.
-
-Azure SQL Edge, ıot dağıtımları için doğru boyuta sahip, 3 yıllık taahhüt veya her cihaz aboneliği için her ay $10 aylık $60 ' de olan bir yıllık kadar düşük olan basitleştirilmiş fiyatlandırmaya sahiptir.
-
-### <a name="next-stepsadditional-resources"></a>Sonraki adımlar/ek kaynaklar:
-
-- [Ignite 2020 bildiri blogunu](https://aka.ms/sqledge-ga) görüntüleme
-- bugün kullanmaya başlayın veya [SQL Edge sitesinde](https://aka.ms/sqledge) teknik incelemeler, örnek olay incelemeleri ve daha fazlasını görüntüleyin
-
-________________
-
-## <a name="upcoming-changes-to-csp-o365-usage-apis-and-csp-license-usage-reports-on-september-30-2020"></a><a name="8"></a>CSP O365 kullanım API 'Lerinde ve CSP lisans kullanım raporlarında, Eylül 30 2020 ' de yapılan değişiklikler
-
-### <a name="categories"></a>Kategoriler
-
-- Tarih: 2020-09-17
 - Özellikler
 
 ### <a name="impacted-audience"></a>Etkilenen hedef kitle
@@ -380,13 +196,15 @@ tüm iş ortakları iş ortağı merkezindeki Bulut Çözümü Sağlayıcısı (
 
 ### <a name="summary"></a>Özet 
 
-İş ortaklarının O365 kullanımını ölçmesine yardımcı olmak için, CSP O365 kullanım API 'Lerinde güncelleştirmeler yapılır.
+Güncelleştirmeler, iş ortaklarının O365 kullanımını ölçmesine yardımcı olmak için CSP O365 kullanım API 'Lerinde sunulan ölçümlerin tanımlarına uygulanır. 
 
 ### <a name="details"></a>Ayrıntılar
 
-30 2020 Eylül, CSP O365 kullanım ölçümleri de bir güncelleştirme üzerinden gider. O365 kullanımınızı ölçmenize yardımcı olacak PAU (ücretli kullanılabilir birimler) ve MAU (aylık etkin kullanıcılar) gibi yeni ölçümler sunacağız. 
+Bu, 17 Eylül 2020 ' de gerçekleştirilen [Iş Ortağı Merkezi duyurusu](#8) için bir güncelleştirmedir. API güncelleştirmelerinin, sizin yapmanız gereken tümleştirme değişikliği olmamasını sağlamak için geriye dönük olarak uyumlu olduğundan emin olmak için güncelleştirmeler yapıyoruz. 
 
-Bu değişiklik ile, aşağıdaki CSP lisans kullanım API 'Leri güncelleştirilecektir:  
+30 Eylül 2020 ' de geçerli olan, daha önce duyurulduğu gibi, CSP O365 kullanım ölçümleri de bir güncelleştirmeden geçer. 
+
+Bu değişiklik ile, aşağıdaki CSP lisans kullanım API 'Leri aracılığıyla kullanılabilen ölçümlerin tanımları güncelleştirilecektir: 
 
 1. [Lisans kullanım bilgileri API 'si](/partner-center/develop/get-licenses-usage-information).
 
@@ -394,25 +212,207 @@ Bu değişiklik ile, aşağıdaki CSP lisans kullanım API 'Leri güncelleştiri
 
 3.  [Iş ortağı lisans kullanım bilgileri API 'si](/partner-center/develop/get-partner-licenses-usage-information).
 
-Yönettiğiniz müşterilerin her biri için iş yükü başına MAU (aylık etkin kullanıcılar) sağlayacak yeni bir API de sunuyoruz.
+Güncelleştirilmiş tanımlar aşağıda listelenmiştir. API şemasında hiçbir değişiklik olmadığından, yeni bir tümleştirme gerekli olmayacaktır. 
 
-Bu güncelleştirmeler hakkında daha fazla bilgiyi [burada](https://partner.microsoft.com/resources/detail/guide-changes-to-csp-o365-usage-apis-and-csp-license-usage-reports-pdf)bulabilirsiniz.
+| **Ölçüm** | **Güncelleştirilmiş tanımlar** |
+|---------|:---------|
+|licensesActive |Son 28 gün içinde kullanılan lisansların sayısı |
+|Lisans nitelikli |Ürün SKU 'SU için kullanılabilen deneme ve deneme sürümü olmayan lisansların sayısı |
+|Usage yüzdesi |Nitelikli lisansların yüzdesi olarak etkin lisanslar |
+|Eşit oranda bulunan Licenseusagepercent|İş ortağı için toplanmış nitelikli lisansların yüzdesi olarak etkin lisanslar.  |
 
-Ayrıca, [CSP lisans kullanım analizi raporundaki](https://partner.microsoft.com/dashboard/analytics/usageanalytics)müşteri kullanım dökümü bölümünü de güncelleştiriyoruz. 30 2020 eylül tarihinden itibaren rapor, Exchange, SharePoint ve Skype/Teams için aylık etkin kullanımları yansıtacak şekilde geliştirilecektir.
+### <a name="next-steps"></a>Sonraki Adımlar:
 
-### <a name="next-stepsadditional-resources"></a>Sonraki adımlar/ek kaynaklar:
-
-Bu bilgileri kuruluşunuzdaki diğer kullanıcılarla paylaşabilirsiniz. Daha fazla bilgi için [Işlemler galerisine](https://partner.microsoft.com/resources/collection/upcoming-changes-to-csp-o365-usage-apis-and-csp-license-usage-reports#/) bakın.
+Bu bilgileri kuruluşunuzdaki diğer kullanıcılarla paylaşabilirsiniz.
 ________________
 
-## <a name="indirect-reseller-microsoft-partner-agreement-mpa-update-action-required-for-users-of-the-mpa-api-and-new-mpa-reporting"></a><a name="7"></a>Dolaylı satıcı Microsoft Iş ortağı Sözleşmesi (MPA) güncelleştirmesi. MPA API kullanıcıları ve yeni MPA raporlaması için eylem gereklidir
+## <a name="upcoming-russian-federal-law-vat-changes"></a><a name="12"></a>Yaklaşan Rusça federal yasalar KDV değişiklikleri
+
+### <a name="categories"></a>Kategoriler
+
+- Tarih: 2020-09-25
+- Özellikler
+
+### <a name="impacted-audience"></a>Etkilenen hedef kitle
+
+rusça toplu lisanslama (VL), Microsoft Business Solutions (mb) ve Bulut Çözümü Sağlayıcısı (CSP) kanal iş ortakları
+
+### <a name="summary"></a>Özet 
+
+Rusça federal yasalarla tanıtılan KDV değişiklikleri #265-FZ, 1 Ocak 2021 tarihinden itibaren geçerli olacak.
+
+### <a name="details"></a>Ayrıntılar
+
+Rusça federal yasalar #265-31 Temmuz 2020 tarihli FZ, değiştirme alt sn. 26/sn. 2/sanat. 149 Rusça vergi kodu. Değişikliklere uygun olarak, 2021 Ocak itibariyle, **Rusça** yazılım ve elektronik veritabanlarının birleştirilmiş kaydına dahil olmayan, yazılım ve elektronik veritabanları IÇIN özel IP hakları verme ve bu tür yazılımlar ve veritabanları için kullanım hakları verme (güncelleştirmeler ve yükseltmeler dahil) ve bunlara Internet üzerinden uzaktan erişim **verilmesinin** yanı sıra, bunlar **artık KDV muafiyeti olmayacaktır**. 
+
+**Yukarıdaki değişikliklerin ardından, geçerli yasaları tarafından tanımlanan fiyata ait KDV 'nin, Rusya 'daki maddi olmayan tüm Microsoft ürünlerine Maol tarafından eklendiğine dair bilgi edinin.**
+
+Bu değişiklik ile ilgili herhangi bir sorgu için aşağıdaki gibi bir destek isteği gönderebilirsiniz:
+
+- Toplu Lisanslama: sorularınız varsa, [çağrı günlüğü aracı 'nı (CLT)](https://clt.partners.extranet.microsoft.com/CLT) veya explore.MS aracılığıyla bölgesel Operations Center ile görüşün. Sorgunuzu mümkün olduğunca çabuk çözebilmemiz için standart CLT sürecini yakından izleyin.
+- MB/Dynamics: Iş ortakları, bir isteği [PartnerSource Business Center 'Daki OCL aracı](https://businesscenter.mbs.microsoft.com/)aracılığıyla günlüğe kaydeder. 
+- CSP: Iş ortakları [bir destek isteğini günlüğe kaydeder](https://partnercenter.microsoft.com/partner/support)
+
+### <a name="next-steps"></a>Sonraki Adımlar:
+
+Bu bilgileri kuruluşunuz genelinde, uygun bir şekilde paylaştıktan sonra paylaşabilirsiniz. Microsoft, vergi affa, sizi size yönelik olarak size yol alamaz. Bu değişikliğin işinize etkisi konusunda kendi vergi danışmanlarıyla birlikte başvurmanız gerekir. 
+________________
+
+## <a name="partner-center-insights--your-single-reporting-resource-for-understanding-your-business-with-microsoft"></a><a name="10"></a>iş ortağı merkezi Analizler: Microsoft ile işinizi anlamak için tek raporlama kaynağınız.
+
+### <a name="categories"></a>Kategoriler
+
+- Tarih: 2020-09-23
+- Özellikler
+
+### <a name="impacted-audience"></a>Etkilenen hedef kitle
+
+Microsoft İş Ortağı Ağı tüm iş ortağı kuruluşları. 
+
+### <a name="summary"></a>Özet 
+
+iş ortağı merkezi Analizler, yakında kullanımdan kaldırılan **myınsights** raporlama aracı 'nı değiştirecek. iş ortağı merkezi Analizler, daha zengin görseller, daha öngörülü raporlama özellikleri ve müşterileri, abonelikleri, lisans kullanımı, satıcı performansı, eğitim, yetenekler ve avantajları kapsayan kpı 'ler sunar. Microsoft ile işletmenizi daha iyi anlamak ve veri odaklı kararları güvenle gerçekleştirmek için bu akıllı öngörüleri kullanın. başlamak için iş ortağı merkezi sol gezinti menüsünden **Analizler** ' yi seçin.
+
+**Myınsights** , 30 Eylül 2020 ' den sonra artık kullanılamayacak. 
+
+### <a name="what-is-insights"></a>Analizler nedir?
+
+iş ortağı merkezindeki Analizler panosu, iş ortağı kuruluşunuzun ana performans göstergelerinin (kpı) Office 365, Azure, Dynamics 365 ve Bulut Çözümü Sağlayıcısı (CSP) ve Kurumsal Anlaşma (EA) gibi lisanslama modelleri gibi birleşik, 360 derece bir görünümünü sağlar. Yeni yetenekler sürekli olarak ekleniyor ve tüm raporlar [ham veri dışa aktarmayı](../insights-download-reports.md)desteklese de, iş gereksinimlerinize göre geçici veri analizini gerçekleştirmenize olanak tanır. iki iş ortağı merkezi raporlama rolü, [Executive rapor görüntüleyicisi ve rapor görüntüleyicisi](../insights-roles.md), kuruluşunuzun içindeki Analizler erişimini ve kullanımını daha iyi yönetmenizi sağlar.
+
+Son eklenen raporlar:
+
+- [Satıcı performans raporu ve veri dışa aktarma](../insights-resellers-performance.md) : CSP dolaylı sağlayıcıları Için çeşitli dolaylı satıcıların performansına ilişkin bir genel bakış sağlar.
+
+- [Müşteri fırsatları rapor ve veri dışarı aktarma](../insights-customer-opportunities.md): Microsoft ürünlerini satın almak için müşterilerin eğilimini genel bir görünümünü sağlar.
+
+Analizler bulunan raporların tam listesi için [buraya](../partner-center-insights.md) bakın.
+
+### <a name="next-steps"></a>Sonraki Adımlar:
+
+- raporlama güncelleştirmeleri ve geliştirmeleri hakkında bilgi edinmek için [iş ortağı merkezi Analizler sayfasını](../partner-center-insights.md) inceleyin.
+
+- bu yeni özellikleri araştırmanızı ve Analizler sekmesinde bulunan satır içi geri bildirim araçlarını kullanarak geri bildiriminizi paylaşmanızı öneririz.
+
+________________
+
+## <a name="sdk-release-on-net-standard-v1162"></a><a name="11"></a>.NET Standard SDK sürümü (v 1.16.2)
+
+### <a name="categories"></a>Kategoriler
+
+- Tarih: 2020-09-22
+- Özellikler
+
+### <a name="impacted-audience"></a>Etkilenen hedef kitle
+
+Iş ortağı merkezi .NET SDK 'sını kullanan CSP programına katılan doğrudan fatura ortakları ve dolaylı sağlayıcılar.
+
+### <a name="summary"></a>Özet
+
+22 2020 eylül itibariyle iş ortakları, güncelleştirilmiş ortak **iş ortağı merkezi sdk GitHub örnekleri** ile birlikte .NET Standard SDK Microsoft iş ortağı merkezi .net sdk v 1.16.2 sürümünü indirmeye başlayabilir.
+
+### <a name="details"></a>Ayrıntılar
+
+Ayrıntılar [Microsoft Iş ortağı merkezi .NET SDK](https://www.nuget.org/packages/Microsoft.Store.PartnerCenter/1.16.2) v 1.16.2 artık genel kullanıma sunuldu. Güncelleştirilmiş [GitHub örnekleri](https://github.com/Microsoft/Partner-Center-DotNet-Samples) de kullanılabilir. Bu sürüme aşağıdaki değişiklikler dahildir:
+
+- Denetim Kaydı için desteklenen işlem türlerini güncelleştirin. Yeni eklenenler Denetim [kaynakları'nda listelenir](/partner-center/develop/auditing-resources)
+  - CreateSelfServePolicy
+  - UpdateSelfServePolicy
+  - DeleteSelfServePolicy
+  - RemovePartnerRelationship
+  - DeleteTipCustomer
+  - CreateRelatedReferral
+  - UpdateRelatedReferral
+
+- Hizmet isteği oluşturma artık kullanım dışı
+- Destek konuları artık kullanım dışıdır
+
+### <a name="next-steps"></a>Sonraki Adımlar
+
+- [.NET SDK v1.16.2'nin en son sürümünü indirin](https://www.nuget.org/packages/Microsoft.Store.PartnerCenter/1.16.2)
+- Sürüm: .NET SDK v1.16.2
+- Örnek Kod: [Örnek Kod](https://github.com/microsoft/Partner-Center-DotNet-Samples)
+- GA: 22.09.2020
+
+________________
+
+
+## <a name="announcing-the-general-availability-of-azure-sql-edge"></a><a name="9"></a>Azure SQL Edge'in genel kullanılabilirliği hakkında bilgi
+
+### <a name="categories"></a>Kategoriler
+
+- Tarih: 2020-09-22
+- Teklifler/Pazarlar
+
+### <a name="impacted-audience"></a>Etkilene hedef kitle
+
+Microsoft alanı ve iş ortakları 
+
+### <a name="summary"></a>Özet 
+
+SQL (IoT) ağ geçitleri ve uç cihazlarına en güvenli Microsoft SQL altyapısını getiren Azure Nesnelerin İnterneti Edge artık kullanılabilir.
+
+### <a name="details"></a>Ayrıntılar
+
+Bugün, IoT iş yükleri için iyileştirilmiş gerçek zamanlı bir veri altyapısı olan Azure SQL Edge'in kullanılabilirliğini açıklarız. SQL Server ve Azure SQL'nin gücüyle aynı altyapıyı temel alan bu kapsayıcılı çözüm, sektör lideri güvenlik, tanıdık geliştirici deneyimi ve birçok ekibin zaten tanıyor ve güvenen araçları sağlar.
+Azure SQL Edge, Bulut Çözümü Sağlayıcılarının (CSP) 24 Eylül Perşembe günü satın **almaları için kullanılabilir olacak.**
+
+[Azure SQL Edge,](https://aka.ms/sqledge) gerçek zamanlı içgörüler için veri akışı, depolama ve analiz sağlayan küçük bir ayak izi kapsayıcısıdır. Uç sunucularda, ağ geçitlerinde ve bağlı, bağlantısı kesilmiş veya karma ortamlardaki cihazlara dağıtın.
+
+Azure SQL Edge, IoT dağıtımları için doğru boyutlandırılan, 3 yıllık taahhüt için cihaz başına yılda 60 ABD doları veya cihaz aboneliği başına aylık 10 ABD doları olan basitleştirilmiş fiyatlandırmaya sahip.
+
+### <a name="next-stepsadditional-resources"></a>Sonraki Adımlar/Ek Kaynaklar:
+
+- [Ignite 2020'den duyuru bloglarını görüntüleme](https://aka.ms/sqledge-ga)
+- Kullanmaya başlayın veya SQL Edge sitesinde teknik incelemeleri, örnek olay [incelemelerini ve daha fazlasını görüntü bulabilirsiniz](https://aka.ms/sqledge)
+
+________________
+
+## <a name="upcoming-changes-to-csp-o365-usage-apis-and-csp-license-usage-reports-on-september-30-2020"></a><a name="8"></a>30 Eylül 2020'de CSP O365 kullanım API'leri ve CSP Lisans kullanım raporlarında yapılacak değişiklikler
+
+### <a name="categories"></a>Kategoriler
+
+- Tarih: 2020-09-17
+- Özellikler
+
+### <a name="impacted-audience"></a>Etkilene hedef kitle
+
+Tüm iş ortakları, Bulut Çözümü Sağlayıcısı (CSP) programı aracılığıyla işlem İş Ortağı Merkezi. 
+
+### <a name="summary"></a>Özet 
+
+İş ortaklarının O365 kullanımını ölçmelerine yardımcı olmak için CSP O365 kullanım API'lerinde güncelleştirmeler yapılacaktır.
+
+### <a name="details"></a>Ayrıntılar
+
+CSP O365 kullanım ölçümleri 30 Eylül 2020'den itibaren bir güncelleştirmeden geçmektedir. O365 kullanımınızı ölçmenize yardımcı olacak PAU (Ücretli kullanılabilir birimler) ve MAU (aylık etkin kullanıcılar) gibi yeni ölçümler tanıtacak. 
+
+Bu değişiklikle birlikte, aşağıdaki CSP lisans kullanım API'leri güncelleştirilir:  
+
+1. [Lisans kullanım bilgileri API'si.](/partner-center/develop/get-licenses-usage-information)
+
+2. [Müşteri lisans kullanım bilgileri API'si.](/partner-center/develop/get-customer-licenses-usage-information)
+
+3.  [İş ortağı lisans kullanım bilgileri API'si.](/partner-center/develop/get-partner-licenses-usage-information)
+
+Ayrıca, yönetmekte olduğu her müşteri için iş yükü başına MAU (Aylık Etkin Kullanıcılar) sağlayacak yeni bir API de sunuyoruz.
+
+Bu güncelleştirmeler hakkında daha fazla bilgi için buraya [bakın.](https://partner.microsoft.com/resources/detail/guide-changes-to-csp-o365-usage-apis-and-csp-license-usage-reports-pdf)
+
+Ayrıca CSP Lisans Kullanımı Analizi raporunun Müşteri Kullanımı dökümü [bölümünü güncelleştireceksiniz.](https://partner.microsoft.com/dashboard/analytics/usageanalytics) Rapor, 30 Eylül 2020'den itibaren Exchange, SharePoint ve Skype/Teams için Aylık Etkin Kullanımları yansıtacak şekilde geliştirecek.
+
+### <a name="next-stepsadditional-resources"></a>Sonraki Adımlar/Ek Kaynaklar:
+
+Bu bilgileri, kuruluşta diğerleriyle paylaşın. Daha fazla [bilgi için İşlemler](https://partner.microsoft.com/resources/collection/upcoming-changes-to-csp-o365-usage-apis-and-csp-license-usage-reports#/) Galerisi'ne bakın.
+________________
+
+## <a name="indirect-reseller-microsoft-partner-agreement-mpa-update-action-required-for-users-of-the-mpa-api-and-new-mpa-reporting"></a><a name="7"></a>Dolaylı kurumsal Microsoft İş Ortağı Sözleşmesi (MPA) güncelleştirmesi. MPA API'si kullanıcıları ve yeni MPA raporlaması için gereken eylem
 
 ### <a name="categories"></a>Kategoriler
 
 - Tarih: 2020-09-16
 - Özellikler
 
-### <a name="impacted-audience"></a>Etkilenen hedef kitle
+### <a name="impacted-audience"></a>Etkilene hedef kitle
 
 Dolaylı sağlayıcılar
 
@@ -420,158 +420,158 @@ Dolaylı sağlayıcılar
 
 #### <a name="mpa-implementation-update"></a>MPA uygulama güncelleştirmesi
 
-Dolaylı satıcıların Microsoft Iş ortağı Sözleşmesi (MPA) uygulamasının ikinci aşaması, önümüzdeki birkaç aya göre yapılır. dolaylı satıcıların MPA 'yı kabul etmesinin ardından, yeni müşteri oluşturmaya veya yeni siparişleri (yenilemeler dahil) Bulut Çözümü Sağlayıcısı programda var olan müşterilere karşı yerleştirme yeteneği kesintiye uğracaktır.
+Dolaylı kurumsal bayiler için Microsoft İş Ortağı Sözleşmesi (MPA) uygulamasının ikinci aşaması önümüzdeki birkaç ay içinde uzacak. Dolaylı kurumsal bayiler MPA'yı kabul etmiyorsa, yeni müşteri oluşturma veya yeni müşteriler için yeni siparişler (yenilemeler dahil) alma Bulut Çözümü Sağlayıcısı kesintiye neden olur.
 
-Eylem
+Eylem:
 
-- Dolaylı satıcılarınızın MPA kabul durumu hakkında daha fazla bilgiye ulaşmak için aşağıda belirtilen güncelleştirilmiş API ve Iş ortağı merkezi raporlaması 'nı kullanın.
-- MPA 'yı kabul etmediyse dolaylı satıcılarınızla etkileşim kurun ve bu kullanıcılara, Bulut Çözümü Sağlayıcısı program kayıt deneyiminde nerede olduğunu temel alan [adım adım yönergeler](https://partner.microsoft.com/resources/collection/indirect-reseller-onboarding-for-mpa-in-csp#/) sağlar.
-- Dolaylı satıcılarınızın, Eylül ayında daha sonra başlayarak aylık olarak alacağı [bildirimleri](https://partner.microsoft.com/resources/collection/reseller-emails-mpa-implementation#/) gözden geçirin.
+- Dolaylı kurumsal bayilerinin MPA kabul durumunu anlamak için güncelleştirilmiş API'yi ve İş Ortağı Merkezi raporlamayı kullanın.
+- MPA'yı kabul etmeyen dolaylı kurumsal bayileri ile [](https://partner.microsoft.com/resources/collection/indirect-reseller-onboarding-for-mpa-in-csp#/) etkileşime geçin ve bu kurumsal bayilere program kaydı deneyiminde hangi aşamada olduklarını temel alan adım Bulut Çözümü Sağlayıcısı kılavuzluk edin.
+- Dolaylı [kurumsal bayilerin](https://partner.microsoft.com/resources/collection/reseller-emails-mpa-implementation#/) Eylül ayından başlayarak aylık olarak alacakları bildirimleri gözden geçirme.
 
 #### <a name="updated-api"></a>Güncelleştirilmiş API
 
-Mevcut API üzerinde yapılan değişiklikler, dolaylı satıcıların MPA kabul durumunu doğrulamasını sağlayan, Kasım ayında kullanılabilirlik için planlanmaktadır. İş ortakları, aşağıdaki eylemleri izleyerek Kasım API 'sine başlamadan önce, güncelleştirilmiş API 'ye erişim için uygulanabilir. Bu API 'YI kullanan iş ortakları, güncelleştirmeleri test etmek ve uygulamak için BT takımlarıyla birlikte çalışmalıdır. 
+Dolaylı sağlayıcıların dolaylı kurumsal bayilerinin MPA kabul durumunu doğrulamasını sağlayan mevcut API'de yapılan değişiklikler Kasım ayında kullanılabilir durumda olacak şekilde planlanmaktadır. İş ortakları, aşağıdaki eylemleri kullanarak Kasım'dan önce güncelleştirilmiş API'ye erişim için başvurabilir. Bu API'yi kullanan iş ortaklarının güncelleştirmeleri test etmek ve uygulamak için KENDI IT ekibiyle birlikte çalışması gerekir. 
 
-- **Var olan bir MPA API kullanıcısı varsa ve API güncelleştirmelerini yapmazsanız, 1 Kasım 2020 ' de API hatalarıyla karşılaşırsınız.** 
-- Güncelleştirilmiş API'de MPA, dolaylı kurumsal bayi tarafından kabul edilmezse dolaylı sağlayıcıya bir hata kodu ile hata iletisi gösterilir. Her hata kodu için "daha fazla bilgi" bağlantıları görüntülemek için [API belgelerini](/partner-center/develop/verify-indirect-reseller-mpa-status#csp-indirect-reseller-mpn-id-is-either-invalid-or-not-migrated-from-partner-membership-center-to-partner-center) denetleyin ve bu, dolaylı satıcılarınız ile paylaşılabilen düzeltme için kılavuzlar sağlar. 
+- **Mevcut bir MPA API kullanıcısıysanız ve API güncelleştirmelerini yapasanız, 1 Kasım 2020'de API hatalarında karşınız olur.** 
+- Güncelleştirilmiş API'de MPA, dolaylı kurumsal bayi tarafından kabul edilmezse dolaylı sağlayıcıya bir hata kodu ile hata iletisi gösterilir. Her hata [kodunun](/partner-center/develop/verify-indirect-reseller-mpa-status#csp-indirect-reseller-mpn-id-is-either-invalid-or-not-migrated-from-partner-membership-center-to-partner-center) "Daha Fazla Bilgi Edinin" bağlantılarını görüntülemek için API belgelerini inceleyin. Bu bağlantı, dolaylı kurumsal bayilerle paylaşılacak düzeltme kılavuzları sağlar. 
 
-Eylem
-- 1 Kasım 2020 tarihinden önce güncelleştirilmiş API 'ye erişim için, tüm kiracı kimliklerini (test veya üretim) sağlayarak [Bu formu](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR__XoYTV7iZJhSXvcfTPzq1UOTVRM1M4WlRGVzdDS1RRWElTUjVNRFBaWS4u) doldurun. Erişim, 48 saat içinde sağlanacaktır.
-- Güncelleştirilmiş API 'yi uygulamak ve dolaylı Bayi MPA kabulünün durumunu izlemek için BT ekibinizle birlikte çalışın. API güncelleştirmeleriyle ilgili daha fazla bilgi [API belgelerinde](/partner-center/develop/verify-indirect-reseller-mpa-status#csp-indirect-reseller-mpn-id-is-either-invalid-or-not-migrated-from-partner-membership-center-to-partner-center)bulunabilir.
-- API ve Iş ortağı merkezi raporlama güncelleştirmelerine yönelik bir anlatım için yaklaşan Web semineri serisine katılın. Aşağıya katılarak: 
+Eylem:
+- Güncelleştirilmiş API'ye 1 Kasım 2020'den [](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbR__XoYTV7iZJhSXvcfTPzq1UOTVRM1M4WlRGVzdDS1RRWElTUjVNRFBaWS4u) önce erişim için, herhangi bir kiracı kimlikleri (test veya üretim) sağlayarak bu formu doldurun. Erişim 48 saat içinde sağlanacaktır.
+- Güncelleştirilmiş API'yi uygulamak ve dolaylı kurumsal bayi MPA kabul durumunu izlemek için IT takımıyla birlikte çalışabilirsiniz. API güncelleştirmeleri hakkında daha fazla bilgiyi [API belgelerinde bulabilirsiniz.](/partner-center/develop/verify-indirect-reseller-mpa-status#csp-indirect-reseller-mpn-id-is-either-invalid-or-not-migrated-from-partner-membership-center-to-partner-center)
+- API'nin adım adım gözden geçirmesi ve güncelleştirmeleri raporlama hakkında bilgi almak için İş Ortağı Merkezi serisine katılabilirsiniz. Aşağıdaki birleşime katılın: 
 
-- [15 Eylül 8:30, Pasifik saati](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZjM5NjUwYzEtYzU5Yy00YWI5LWJkNTctY2FlZTM3YjdiMDEy%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%227014dada-1df3-405c-93ee-588d8ae65a53%22%2c%22IsBroadcastMeeting%22%3atrue%7d)
-- [16 Eylül 7:30 Pasifik saati](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZjhlN2Y3OTQtMTI3NC00NGYzLTk5MGEtM2YxZmFiOGUyZWYy%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%227014dada-1df3-405c-93ee-588d8ae65a53%22%2c%22IsBroadcastMeeting%22%3atrue%7d)
-- [22 Eylül 8:30, Pasifik saati](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODcyODcxYTAtM2M2Mi00NGFkLWIyMDUtNWYwZDc4YjkyOTkz%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%227014dada-1df3-405c-93ee-588d8ae65a53%22%2c%22IsBroadcastMeeting%22%3atrue%7d)
-- [23 Eylül 7:30 Pasifik saati](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NzJmOWJkNTgtNWZlMy00OGE3LTg1NTQtOTQ0YjE4OTlkMmJm%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%227014dada-1df3-405c-93ee-588d8ae65a53%22%2c%22IsBroadcastMeeting%22%3atrue%7d)
-- [29 Eylül 8:30 Pasifik saati](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTdiMGNhMmMtYjkwZi00MTE0LWE3MDYtOWFlNDhiNjkwNDc1%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%227014dada-1df3-405c-93ee-588d8ae65a53%22%2c%22IsBroadcastMeeting%22%3atrue%7d)
-- [30 Eylül 7:30 Pasifik saati](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MGRiNTFhNWMtNDU5My00NGY4LTlhZDctZTA2MDE5MjE2ZTQ0%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%227014dada-1df3-405c-93ee-588d8ae65a53%22%2c%22IsBroadcastMeeting%22%3atrue%7d)
+- [15 Eylül 08:30 Pasifik Saati](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZjM5NjUwYzEtYzU5Yy00YWI5LWJkNTctY2FlZTM3YjdiMDEy%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%227014dada-1df3-405c-93ee-588d8ae65a53%22%2c%22IsBroadcastMeeting%22%3atrue%7d)
+- [16 Eylül 19:30 Pasifik Saati](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZjhlN2Y3OTQtMTI3NC00NGYzLTk5MGEtM2YxZmFiOGUyZWYy%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%227014dada-1df3-405c-93ee-588d8ae65a53%22%2c%22IsBroadcastMeeting%22%3atrue%7d)
+- [22 Eylül 08:30 Pasifik Saati](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ODcyODcxYTAtM2M2Mi00NGFkLWIyMDUtNWYwZDc4YjkyOTkz%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%227014dada-1df3-405c-93ee-588d8ae65a53%22%2c%22IsBroadcastMeeting%22%3atrue%7d)
+- [23 Eylül 19:30 Pasifik Saati](https://teams.microsoft.com/l/meetup-join/19%3ameeting_NzJmOWJkNTgtNWZlMy00OGE3LTg1NTQtOTQ0YjE4OTlkMmJm%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%227014dada-1df3-405c-93ee-588d8ae65a53%22%2c%22IsBroadcastMeeting%22%3atrue%7d)
+- [29 Eylül 08:30 Pasifik Saati](https://teams.microsoft.com/l/meetup-join/19%3ameeting_ZTdiMGNhMmMtYjkwZi00MTE0LWE3MDYtOWFlNDhiNjkwNDc1%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%227014dada-1df3-405c-93ee-588d8ae65a53%22%2c%22IsBroadcastMeeting%22%3atrue%7d)
+- [30 Eylül 19:30 Pasifik Saati](https://teams.microsoft.com/l/meetup-join/19%3ameeting_MGRiNTFhNWMtNDU5My00NGY4LTlhZDctZTA2MDE5MjE2ZTQ0%40thread.v2/0?context=%7b%22Tid%22%3a%2272f988bf-86f1-41af-91ab-2d7cd011db47%22%2c%22Oid%22%3a%227014dada-1df3-405c-93ee-588d8ae65a53%22%2c%22IsBroadcastMeeting%22%3atrue%7d)
 
-#### <a name="mpa-reporting-in-partner-center"></a>Iş Ortağı Merkezi 'nde MPA raporlaması
+#### <a name="mpa-reporting-in-partner-center"></a>İş Ortağı Merkezi'de MPA raporlama
 
-1. Iş ortağı merkezindeki bir hesapla ve MPA kabul durumundaki dolaylı satıcılarınızın ayrıntılarını görüntülemek için MPA raporuna erişin. Raporu görüntülemek için Iş Ortağı Merkezi ' nde oturum açın ve Sol menüdeki **Çözümle/satıcı analizi** ' ne gidin.
+1. MPA raporuna erişin ve hesapta bir hesabı olan dolaylı kurumsal bayilerinizi İş Ortağı Merkezi ve MPA kabul durumlarını görüntüebilirsiniz. Raporu görüntülemek için İş Ortağı Merkezi oturum açın ve sol menüde **Analiz / Kurumsal** Bayi Analizi'ne gidin.
 
-2. Sağ taraftaki indir simgesine tıklayarak raporu indirin.
-3. boş bir Excel dosyası açın ve indirilen ". tsv" dosyasını Excel dosyasına sürükleyin.
+2. Sağ tarafta bulunan indirme simgesine tıklayarak raporu indirin.
+3. Boş bir Excel açın ve indirilen ".tsv" dosyasını Excel sürükleyin.
 
-Note: dolaylı satıcınızdan MPA 'yı aynı bölgede kabul etmiş en az bir kiracı varsa, başka bir eylem gerekmez. 
+Not: Dolaylı satıcınız aynı bölge içinde MPA'yı kabul etmiş en az bir kiracıya sahipse, başka bir işlem gerekmez. 
 
 ________________
 
-## <a name="self-service-purchasing-for-microsoft-project-and-microsoft-visio-now-available"></a><a name="6"></a>Microsoft Project ve Microsoft Visio Self servis satın alma artık kullanıma sunuldu
+## <a name="self-service-purchasing-for-microsoft-project-and-microsoft-visio-now-available"></a><a name="6"></a>Microsoft Project ve Microsoft Visio self servis satın alma artık kullanılabilir
 
 ### <a name="categories"></a>Kategoriler
 
 - Tarih: 2020-09-15
 - Teklifler/Pazarlar
 
-### <a name="impacted-audience"></a>Etkilenen hedef kitle
+### <a name="impacted-audience"></a>Etkilene hedef kitle
 
-Ticari müşterilere çevrimiçi hizmetler satan iş ortakları
+Ticari müşterilere çevrimiçi hizmetler satış yapan iş ortakları
 
 ### <a name="details"></a>Ayrıntılar
 
-Geçen yıl, Microsoft 'un bireyleri ve ekiplerin doğrudan Select hizmetleri satın almasını olanaklı olduğunu [biliyoruz](https://partner.microsoft.com/resources/detail/power-apps-power-automate-self-service-pdf) . günümüzde dünya genelindeki kişiler, self servis aracılığıyla aşağıdaki Microsoft Project ve Microsoft Visio ürünleri için abonelikler satın alabilir: 
+Geçen yıl, [Microsoft'un bireylerin](https://partner.microsoft.com/resources/detail/power-apps-power-automate-self-service-pdf) ve ekiplerin belirli hizmetleri doğrudan satın almalarına olanaklı olduğunu size bildirdik. Artık dünya genelindeki bireyler, self servis aracılığıyla Microsoft Project ve Microsoft Visio için abonelik satın alınabilir: 
 
 - [Visio Plan 1](https://products.office.com/visio/visio-plan-1?activetab=pivot:overviewtab) ve [Visio Plan 2](https://www.microsoft.com/microsoft-365/visio/visio-plan-2?rtc=2&SilentAuth=1&activetab=pivot:overviewtab)
 - [Project Plan 1](https://www.microsoft.com/microsoft-365/project/project-plan-1?rtc=1&activetab=pivot:overviewtab) ve [Project Plan 3](https://www.microsoft.com/microsoft-365/project/project-plan-3?rtc=1&activetab=pivot:overviewtab)
 
-Note: Self servis satın alma özellikleri şu anda Hindistan, Brezilya, Kongo Demokratik Cumhuriyeti (KDC) veya kamu veya eğitim teklifleri için uygun olan müşteriler için kullanılabilir değildir.  Tam ülke kullanılabilirliği ve güncelleştirmeleri için [self servis satın alma hakkında SSS bölümüne](/microsoft-365/commerce/subscriptions/self-service-purchase-faq?preserve-view=true&view=o365-worldwide) bakın.
+Not: Self servis satın alma özellikleri şu anda Hindistan, Brezilya, Demokratik Kongo Cumhuriyeti'nde (DRC) veya Kamu veya Eğitim tekliflerini almaya uygun müşteriler için kullanılamaz.  Tam ülke [kullanılabilirliği ve güncelleştirmeleri için self](/microsoft-365/commerce/subscriptions/self-service-purchase-faq?preserve-view=true&view=o365-worldwide) servis satın alma hakkında SSS sayfasını inceleyin.
 
 #### <a name="partner-benefits"></a>İş ortağı avantajları
 
-Gerekli lisansları elde etmek üzere merkezi bir BT satın alma süreci aracılığıyla hizmetlerinizi bireyler ve takımlar için sunabileceksiniz. hizmetleriniz, Microsoft 365 ve güç platformuyla tümleştirme senaryolarına göre Project ve Visio yayılabilir. müşteriler Visio ve Project denemelerinden önce [Visio Plan 1 ve Visio Plan 2](https://partner.microsoft.com/resources/collection/visio-availability-announcing-trial-offers#/)ve [Project Plan 1](https://www.microsoft.com/microsoft-365/project/compare-microsoft-project-management-software)için de kullanılabilir.
+Gerekli lisansları almak için merkezi bir IT tedarik sürecinden geçerek hizmetlerinizi bireylere ve ekiplere sunabileceksiniz. Hizmetleriniz, Project ve Visio tümleştirme senaryolarına göre Microsoft 365 ve Power Platform. Müşteriler, artık Visio Plan 1 ve Visio Plan 2 için kullanılabilen Visio ve Project denemeleri [ile satın almadan](https://partner.microsoft.com/resources/collection/visio-availability-announcing-trial-offers#/)önce [de Project Plan 1.](https://www.microsoft.com/microsoft-365/project/compare-microsoft-project-management-software)
 
 
 ### <a name="next-steps"></a>Sonraki adımlar
 
-- Işlem hazırlık kaynakları galerisindeki tüm hazırlık kaynaklarını gözden geçirin: [Müşteri Self servis satın alma özelliği](https://partner.microsoft.com/resources/collection/customer-self-serve-purchase#/). -microsoft [Visio ve güç platformuyla](https://www.microsoft.com/microsoft-365/partners/videos/inspire-visio-power-platform)microsoft esire oturumunda Visio ve power platform çözümleri ile iş ortağı fırsatları hakkında daha fazla bilgi edinin.
-- Daha fazla bilgi için [self servis yönetici kılavuzuna](/microsoft-365/commerce/subscriptions/manage-self-service-purchases-admins?preserve-view=true&view=o365-worldwide) bakın.
+- Operasyon Hazırlığı kaynakları galerisinde tüm hazırlık kaynaklarını gözden geçirme: [Müşteri self servis satın alma özelliği.](https://partner.microsoft.com/resources/collection/customer-self-serve-purchase#/) -Microsoft Inspire oturumunda Visio ve Power Platform çözümleriyle iş ortağı fırsatları hakkında daha fazla bilgi edinmek için [Microsoft](https://www.microsoft.com/microsoft-365/partners/videos/inspire-visio-power-platform)Visio ve Power Platform.
+- Daha fazla bilgi [için self servis yönetici](/microsoft-365/commerce/subscriptions/manage-self-service-purchases-admins?preserve-view=true&view=o365-worldwide) kılavuzuna bakın.
 
 ________________
 
-## <a name="new-skus-bring-the-power-of-project-cortex-and-more-to-customers"></a><a name="5"></a>yeni sku 'lar Cortex Projesi ve daha fazlasını müşterilerin gücünden çıkarır
+## <a name="new-skus-bring-the-power-of-project-cortex-and-more-to-customers"></a><a name="5"></a>Yeni SKUS'lar müşterilere Cortex Projesi daha fazlasının gücünü getirir
 
 ### <a name="categories"></a>Kategoriler
 
 - Tarih: 2020-09-08
 - Teklifler/Pazarlar
 
-### <a name="impacted-audience"></a>Etkilenen hedef kitle
+### <a name="impacted-audience"></a>Etkilene hedef kitle
 
-tüm iş ortakları Bulut Çözümü Sağlayıcısı (CSP) programı üzerinden deneyimidir
+Bulut Çözümü Sağlayıcısı (CSP) programı aracılığıyla işlem yapılan tüm iş ortakları
 
 ### <a name="summary"></a>Özet
 
-müşterilerin [Cortex Projesi](https://resources.techcommunity.microsoft.com/project-cortex-microsoft-365/) gücünden yararlanmasına yardımcı olacak yeni sku 'lar ve [Project](https://msturing.org/) , 1 ekim 2020 ' den transact tarafından kullanılabilir.
+Müşterilerin Cortex Projesi ve Project Turing'in gücünden faydalanmalarını sağlamak için yeni SKU'lar 1 Ekim 2020'den itibaren işlem için kullanılabilir olacak. [](https://resources.techcommunity.microsoft.com/project-cortex-microsoft-365/) [](https://msturing.org/)
 
 ### <a name="details"></a>Ayrıntılar
 
-kullanıcıların bilgileri daha verimli bir şekilde bulmasını ve yönetmesini sağlayacak [Cortex Projesi](https://resources.techcommunity.microsoft.com/project-cortex-microsoft-365/) (akıllı içerik hizmetleri) ve Microsoft Arama (arama için Microsoft Graph bağlayıcılar dahil) dahil olmak üzere 1 ekim 2020 ' de yeni sku 'ların kullanılabilirliğini duyurmaktan mutluluk duyuyoruz.  
+Kullanıcıların bilgileri daha verimli bir şekilde bulup yönetmelerini sağlayacak Cortex Projesi (Akıllı İçerik Hizmetleri) [ve Microsoft Arama](https://resources.techcommunity.microsoft.com/project-cortex-microsoft-365/) (Arama için Microsoft Graph Bağlayıcıları dahil) dahil olmak üzere yeni SKU'ların 1 Ekim 2020'de kullanılabilirliğini duyurmaktan heyecanlanıyoruz.  
 
-#### <a name="intelligent-content-services"></a>Akıllı Içerik Hizmetleri
+#### <a name="intelligent-content-services"></a>Akıllı İçerik Hizmetleri
   
-Akıllı Içerik Hizmetleri, içeriğin yakalanmasını, etiketlemesini ve yönetimini otomatikleştirmek için gelişmiş AI kullanır. yüksek hacimli içerik işleme, işlem otomasyonu için meta verileri ayıklama, ayrıntılı güvenlik ve uyumluluk için SharePoint oluşturulur. Akıllı İçerik Hizmetleri bilgi işlem ve bulma deneyimlerini, bilgi ağınıza daha doğru ve kesin içerik ileterek geliştirir. Yeni akıllı Içerik Hizmetleri SKU 'Ları **1 Ekim** 'de (ve 1 Eylül fiyat listesi önizlemesinde) kullanılabilir. 
+Akıllı İçerik Hizmetleri, içeriği yakalama, etiketleme ve yönetimi otomatikleştirmek için gelişmiş AI kullanır. Yüksek hacimli içerik SharePoint, işlem otomasyonu için meta verileri ayıklamak ve çok daha fazla güvenlik ve uyumluluk sağlamak için çok daha fazla kaynak sunar. Akıllı içerik hizmetleri, bilgi ağınıza daha doğru ve kesin içerikler iterek bilgi sergilerini ve keşif deneyimlerini geliştirmektedir. Yeni Intelligent Content Services SKU'ları 1 Ekim fiyat listesinde **(ve 1** Eylül fiyat listesi önizlemede) kullanılabilir. 
  
-**Note:** Akıllı Içerik Hizmetleri, 1 Ekim 2020 ' den sonra yeniden markalandırılan bu ürün için yer tutucu bir addır.
+**Not:** Intelligent Content Services, bu ürün için 1 Ekim 2020'den sonra yeni bir yer tutucu adıdır.
  
-**Microsoft Arama için Microsoft Graph bağlayıcılar** Microsoft Graph bağlayıcılar, müşterilerin Microsoft Arama sonuçlarına eklenmek üzere dış depolardaki öğelerin dizinini kurmasını sağlar. 
+**Microsoft Arama için Microsoft Graph bağlayıcıları** Microsoft Graph bağlayıcıları, müşterilerin dış depolarda öğeleri dizine eklemelerini ve sonuçların eklenmesini Microsoft Arama sağlar. 
 
-1 Ekim 2020 ' den: 
+1 Ekim 2020'den itibaren: 
 
-- Microsoft 365 E5 ve Office 365 E5, Microsoft Arama Microsoft Graph bağlayıcıları kullanarak en fazla 500 öğeyi dizinleyebilme özelliğini içerir (A5 dahil değildir).  
-- bir SharePoint veya OneDrive planı içeren bir pakete veya bağımsız lisansa sahip herhangi bir kullanıcı, Microsoft Arama için Microsoft Graph bağlayıcılarından arama sonuçlarını görebilecektir. 
-- 1.000.000 ek öğeye kadar dizin oluşturmak için yeni bir **ek Graph bağlayıcı kapasitesi SKU 'su** sunulacaktır.  
+- Microsoft 365 E5 Office 365 E5, microsoft Graph bağlayıcılarını kullanarak en fazla 500 öğenin dizine Microsoft Arama (A5'e dahil değildir) olanağını içerir.  
+- SharePoint veya OneDrive planı içeren bir paket veya tek başına lisansı olan tüm kullanıcılar, Microsoft Arama için Microsoft Graph bağlayıcılarından arama sonuçlarını görebilir. 
+- 1 **milyon adede kadar ek öğenin** dizinini oluşturması için yeni bir Ek Graph Bağlayıcı Kapasitesi SKU'su kullanılabilir.  
 
-#### <a name="offer-details"></a>Teklif Ayrıntıları
+#### <a name="offer-details"></a>Teklif ayrıntıları
 
-   |**Teklif adı**|**Teklif Kimliği**|**Malzeme KIMLIĞI**|
+   |**Teklif adı**|**Teklif Kimliği**|**Malzeme Kimliği**|
    |-------------------|:------|:------|
-   |Akıllı Içerik Hizmetleri|2e969027-6eca-44a3-88fb-e7923e2c147f|5YI-00004|
-   |Akıllı Içerik Hizmetleri (kar amacı gütmeyen personel fiyatlandırması)|48db24e2-0aac-47bd-bd74-40bde9ff7748|5YI-00005|
-   |Fakülte için akıllı Içerik Hizmetleri|4a8f9036-791e-4ce4-a788-6c5af859fd82|5Z1-00005|
-   |ek Graph bağlayıcı kapasitesi|9c8b008f-d84f-46cd-A588-fea84947161d|1LA-00002|
-   |fakülteler için ek Graph bağlayıcı kapasitesi|0e0eb210-86e7-4038-9905-4fd5bf71c4bd|1TL-00003|
+   |Akıllı İçerik Hizmetleri|2e969027-6eca-44a3-88fb-e7923e2c147f|5YI-00004|
+   |Akıllı İçerik Hizmetleri (Kar Amacı Gütmeyen Personel Fiyatlandırması)|48db24e2-0aac-47bd-bd74-40bde9ff7748|5YI-00005|
+   |Fakülteler için Akıllı İçerik Hizmetleri|4a8f9036-791e-4ce4-a788-6c5af859fd82|5Z1-00005|
+   |Ek Graph Bağlayıcı Kapasitesi|9c8b008f-d84f-46cd-a588-fea84947161d|1LA-00002|
+   |Fakülteler Graph Ek Bağlayıcı Kapasitesi|0e0eb210-86e7-4038-9905-4fd5bf71c4bd|1TL-00003|
 
 ### <a name="next-steps"></a>Sonraki adımlar
 
-- Bu konunun kaynaklarını gözden geçirin ve kuruluşunuzdaki uygun hissedarlarla paylaşabilirsiniz.
-- bu tekliflerle ilgili sorularınız varsa ilgili Yammer topluluklarınızı kontrol edin.
+- Bu konu başlığı için kaynakları gözden geçirme ve bunları kuruluşta uygun proje katılımcıları ile paylaşma.
+- Bu teklifler hakkında sorularınız varsa ilgili topluluklarınızı ve Yammer kontrol edin.
 
 ________________
 
-## <a name="enhanced-incentives-support-experience-and-ticket-creation-process"></a><a name="4"></a>Geliştirilmiş teşvikleri destek deneyimi ve bilet oluşturma işlemi
+## <a name="enhanced-incentives-support-experience-and-ticket-creation-process"></a><a name="4"></a>Gelişmiş Teşvikler destek deneyimi ve bilet oluşturma süreci
 
 ### <a name="categories"></a>Kategoriler
 
 - Tarih: 2020-09-02
 - Özellikler
 
-### <a name="impacted-audience"></a>Etkilenen hedef kitle
+### <a name="impacted-audience"></a>Etkilene hedef kitle
 
 Tüm iş ortakları
 
 ### <a name="summary"></a>Özet
 
-Iş ortağı teşvikleri destek deneyimi, geliştirilmiş kendi kendine yardım içeriği keşfedilebilirlik ve kolaylaştırılmış bir çevrimiçi bilet gönderim süreciyle geliştirilmiştir.
+İş Ortağı Teşvikleri destek deneyimi, geliştirilmiş kendi kendine yardım içeriği keşfedebilirliği ve kolaylaştırılmış bir çevrimiçi bilet gönderme işlemiyle geliştirilmiştir.
 
 ### <a name="details"></a>Ayrıntılar
 
-Iş ortağı teşvikleri için geliştirmeler eklenmiştir ve bu işlem, destek süreci sırasında geri ve ileri veri toplamayı azaltan kolaylaştırılmış bir bilet gönderim sürecinden daha iyi bir şekilde yardımcı olur.
+Daha iyi kendi kendine yardım içeriği keşfedebilirliği ve destek süreci sırasında geri dönüş veri toplamayı azaltan kolaylaştırılmış bir bilet gönderme işlemi aracılığıyla genel destek deneyiminizi geliştirmek için İş Ortağı Teşvikleri için geliştirmeler eklenmiştir.
 
 #### <a name="new-capabilities"></a>Yeni özellikler
 
-- Yeni arama tabanlı kendi kendine yardım deneyimine iş ortağı [Merkezi](https://aka.ms/IncentivesSupport) 'Nden ve iş ortağı olmayan orta hesaplara yönelik [Microsoft iş ortağı ağı](https://partner.microsoft.com/support/?stage=1) erişilebilir. Yeni deneyim, yeni sorun giderme adımlarını, SSS 'leri ve ilgili Self-yardım makalelerini ve Microsoft İş Ortağı Ağı destek sayfasını içeren bağlantıları içerir.
-- Doğrudan Iş Ortağı Merkezi 'nde yeni bir destek isteği başlatın. Uygun konuya özgü yardımı görüntüledikten sonra, hala yardıma ihtiyacınız varsa doğrudan Iş Ortağı Merkezi 'nden bir bilet oluşturabilirsiniz.
-- Yeni sorun kapsamı soruları, her kendi kendine yardım konusu için kullanılabilir. Bu soruların tamamlanması, en önemli ayrıntıların birçoğunu içeren aracıyı sağlayarak destek biletinin başlangıcında geri ve geriye doğru bir ölçüde azaltır.
+- Yeni arama tabanlı kendi kendine yardım [](https://aka.ms/IncentivesSupport) deneyimine İş Ortağı Merkezi [](https://partner.microsoft.com/support/?stage=1) ve Microsoft İş Ortağı Ağı olmayan hesaplarda İş Ortağı Merkezi erişilebilir. Yeni deneyim yeni sorun giderme adımlarını, SSS'leri ve ilgili kendi kendine yardım makalelerini ve destek Microsoft İş Ortağı Ağı içerir.
+- Doğrudan İş Ortağı Merkezi'da yeni bir destek isteği İş Ortağı Merkezi. Konuya özgü kullanılabilir yardımı görüntüledikten sonra, hala yardıma ihtiyacınız varsa yalnızca doğrudan İş Ortağı Merkezi.
+- Her kendi kendine yardım konusu için yeni soruna çözüm soruları mevcuttur. Bu soruların tamamlanması, aracıya önemli ayrıntıların çoğunu önden sağlayarak destek biletinin başındaki destek biletinin çoğunu azaltır.
 
 
 ### <a name="next-steps"></a>Sonraki adımlar
 
-- Bu bilgileri kuruluşunuzdaki diğer kullanıcılarla paylaşabilirsiniz. 
-- Tüm teşvikleri destek gereksinimleriniz için [Iş Ortağı Merkezi](https://aka.ms/IncentivesSupport) veya [Microsoft iş ortağı ağı](https://partner.microsoft.com/support/?stage=1) ile yeni destek deneyimini kullanın. 
+- Bu bilgileri, kuruluşta diğerleriyle paylaşın. 
+- Tüm Teşvik destek gereksinimleriniz [için İş Ortağı Merkezi](https://aka.ms/IncentivesSupport) veya [Microsoft İş Ortağı Ağı](https://partner.microsoft.com/support/?stage=1) yeni destek deneyimini kullanın. 
 
-**Note:** Bu işlev devre dışı olduğundan, destek istekleri doğrudan e-posta aracılığıyla kabul edilmez.
+**Not:** Destek istekleri doğrudan e-posta ile kabul edilmayacak çünkü bu işlev artık kaldırıldı.
 
 ________________
 
@@ -582,26 +582,26 @@ ________________
 - Tarih: 2020-09-01
 - Teklifler/Pazarlar
 
-### <a name="impacted-audience"></a>Etkilenen hedef kitle
+### <a name="impacted-audience"></a>Etkilene hedef kitle
 
-İş ortakları deneyimidir Microsoft Dynamics 365
+Microsoft Dynamics 365'i işlemden alan iş ortakları
 
 ### <a name="summary"></a>Özet
 
-Microsoft Dynamics 365 müşterileri için yakında sunulan teklifler Microsoft Project işlemlerin ve iş merkezi için ek ortamların bir sürümünü içerir.
+Microsoft Dynamics 365 müşterilerine yönelik yaklaşan teklifler, Microsoft Project Operations'ın ve Business Central için ek ortamların yayımlarını içerir.
 
 ### <a name="details"></a>Ayrıntılar
 
-Aşağıdaki yeni teklifler 1 Ekim 2020 ' de kullanıma sunulacaktır.
+Aşağıdaki yeni teklifler 1 Ekim 2020'de kullanılabilir olacak.
 
 #### <a name="project-operations"></a>Project Operations
 
-Microsoft, 1 ekim 2020 ' de, Bulut Çözümü Sağlayıcısı (CSP) programı için dynamics 365 Project işlemler tekliflerini serbest bırakmakta ve dynamics 365 Project Service Automation (psa) ' ı kaldıracak. yeni müşteriler Dynamics 365 Project işlemleri satın almalıdır. 
+1 Ekim 2020'de Microsoft, Dynamics 365 Project Operations tekliflerini yayımlar ve Bulut Çözümü Sağlayıcısı (CSP) programı için Dynamics 365 Project Service Automation'ı (PSA) kaldırır. Yeni müşterilerin Dynamics 365 Project satın almaları gerekir. 
 
-PSA ile mevcut Dynamics 365 müşterileri için:
+PSA'ya sahip mevcut Dynamics 365 müşterileri için:
 
-- 1 Ekim 2020 ' e kadar veya en son sözleşme veya yenilemesinin sonuna kadar, hangisi önce gerçekleşene kadar Dynamics 365 PSA kullanmaya devam edin.
-- Dynamics 365 PSA, 1 2021 Ekim tarihine kadar bir yıl boyunca autorenew, sözleşmelerin 1 Ekim 2022 ' e kadar devam etmesine olanak sağlar.
+- Dynamics 365 PSA'yı 1 Ekim 2020'ye kadar veya en son sözleşmesi veya yenilemesi (hangisi önce gerçekleşirse) sonuna kadar kullanmaya devam eder.
+- Dynamics 365 PSA, CSP'de 1 Ekim 2021'e kadar bir yıl boyunca otomatik olarak yenilemektedir ve anlaşmaların 1 Ekim 2022'ye kadar devam etmesini sağlar.
 - Dynamics 365 psa lisansları, 31 aralık 2020 ' ye kadar geçerli lisanslarının bir parçası olarak otomatik olarak Project işlemleri alacaktır.
 - Dynamics 365 psa sözleşmelerinin sonunda müşteriler, sıfır kullanıcı minimum psa geçişi SKU 'su olacak Project işlemlerine geçiş yapması gerekir.
 

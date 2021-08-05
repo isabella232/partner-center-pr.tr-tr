@@ -3,17 +3,17 @@ title: Anlaşmalarınızı kaydetme
 ms.topic: article
 ms.date: 06/29/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-referrals
 description: Iş Ortağı Merkezi 'nde kazandığınızı bir anlaşmayı kaydettiğinizde, Microsoft 'un gelecekte daha fazla fırsat sağlamasına yardımcı olur.
 author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: medium
-ms.openlocfilehash: 1a3d83dbac20cbcb038345ba90ae1a4dc345c060
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 085e3418ee6689203dfb7be699acb9955e7ed7f3
+ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114842550"
+ms.lasthandoff: 08/04/2021
+ms.locfileid: "115101625"
 ---
 # <a name="register-deals-youve-won-in-partner-center"></a>Iş Ortağı Merkezi 'nde kazandığı anlaşmaları kaydetme
 
@@ -83,7 +83,7 @@ Sayfanın tüm bölümlerini tamamladıktan sonra **Kaydet**' e tıklayın.
 
 ## <a name="simplified-deal-registration-for-commercial-marketplace-transactions"></a>Ticari Market işlemleri için Basitleştirilmiş anlaşma kaydı
 
-[Ticari Market](https://docs.microsoft.com/azure/marketplace/) aracılığıyla Co-Sell WINS deneyimidir, önemli basitleştirmenin, anlaşma kaydı formuna faydalanır.  Ayrıca, ticari Market aracılığıyla işlenen anlaşmalar ek anlaşma gözden geçirme çağrıları gerektirmez, işlem süresi ve efor tasarrufu gerektirmez.
+[Ticari Market](/azure/marketplace/) aracılığıyla Co-Sell WINS deneyimidir, önemli basitleştirmenin, anlaşma kaydı formuna faydalanır.  Ayrıca, ticari Market aracılığıyla işlenen anlaşmalar ek anlaşma gözden geçirme çağrıları gerektirmez, işlem süresi ve efor tasarrufu gerektirmez.
 
 Yalnızca üç parça bilgi sağlamanız gerekir:
 

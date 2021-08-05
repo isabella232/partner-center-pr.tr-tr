@@ -3,42 +3,42 @@ title: Parolamı sıfırlama
 ms.topic: how-to
 ms.date: 06/05/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-enroll
-description: Parolanızı sıfırlamayı İş Ortağı Merkezi veya şirketin Genel yöneticisinden yardım edinebilirsiniz. Ayrıca Genel yönetici olarak yeni bir İş Ortağı Merkezi öğrenin.
+ms.subservice: partnercenter-account
+description: Iş Ortağı Merkezi parolanızı sıfırlama veya şirketinizin genel yöneticisinden yardım alma hakkında bilgi edinin. Ayrıca, yeni bir Iş ortağı merkezi genel Yöneticisi ekleme hakkında bilgi edinin.
 author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c26c33947e35e83f643c6ef1c6ddf74dab460f6d
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: ceb54243f3032de0667b67fc2e84c1ba6d05cd5b
+ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114844471"
+ms.lasthandoff: 08/04/2021
+ms.locfileid: "115100043"
 ---
 # <a name="reset-my-password"></a>Parolamı sıfırlama
  
-**Uygun roller:** Genel yönetici | İş ortaklarıyla ilgilenen tüm İş Ortağı Merkezi
+**Uygun roller**: genel yönetici | Iş Ortağı Merkezi ile ilgilenen tüm iş ortakları
 
 
-Parolanızı hatırlaya İş Ortağı Merkezi sıfırlayabilirsiniz.
+Iş Ortağı Merkezi parolanızı hatırlayamıyorsanız, sıfırlamayı seçebilirsiniz.
 
-## <a name="to-reset-your-partner-center-password"></a>Parolanızı sıfırlamak İş Ortağı Merkezi için
+## <a name="to-reset-your-partner-center-password"></a>Iş Ortağı Merkezi parolanızı sıfırlamak için
 
-Bu yöntemi kullanmak için Genel yöneticinizin parolanızı kendiniz sıfırlama olanağını ayarlamış olması gerekir. (Genel yöneticiniz bu özelliği yapmamışsa parolanızı sizin için [sıfırlamasını istemeniz gerekir.)](reset-a-user-password.md)
+Bu yöntemi kullanmak için, genel yöneticinizin parolanızı sizin sıfırlayabilme özelliğini zaten ayarlamış olması gerekir. (Genel yöneticiniz bu özelliği yapmadıysanız, [parolanızı sizin için sıfırlamasını](reset-a-user-password.md)isteyin.)
 
-1. Oturum açma **ekranında Hesabınıza** **erişe miyim? seçeneğini ve ardından** Sonraki'yi **seçin.**
+1. **Oturum açma** ekranında **hesabınıza erişemez** ' i seçin ve ardından **İleri**' yi seçin.
 
-2. İş **veya okul hesabı'ı seçin.**
+2. **İş veya okul hesabı** seçin.
 
-3. Kullanıcı kimliğinizi ve resimdeki veya ses karakterlerini girin. Sonra **İleri**’yi seçin.
+3. Kullanıcı KIMLIĞINIZI ve resim veya ses içindeki karakterleri girin. Sonra **İleri**’yi seçin.
 
 4. Yeni parolanızı ayarlayın.
 
-## <a name="if-your-global-admin-has-left-the-company"></a>Genel yöneticiniz şirketten ayrıldı
+## <a name="if-your-global-admin-has-left-the-company"></a>Genel yöneticiniz şirketten ayrıldıysa
 
-Genel yöneticiniz şirketten ayrıldı veya başka bir role geçti ve yeni bir Genel yönetici eklemeniz gerekirse, Microsoft İş Ortağı Ağı portalında bir [hizmet isteğini günlüğe Microsoft İş Ortağı Ağı gerekir.](https://partner.microsoft.com/commercial#/) İstek sahibiniz gerekli kişisel kimlik bilgilerini sağlaya ve şirket hakkında ek bilgiler sağlayasa destek aracısı bir kullanıcının Genel yöneticiye yükseltimini talep ediyor olabilir. 
+Genel yöneticiniz şirketinizi bıraktı veya başka bir role taşınmışsa ve yeni bir genel yönetici eklemeniz gerekiyorsa, [Microsoft iş ortağı ağı portalında](https://partner.microsoft.com/commercial#/)bir hizmet isteğini günlüğe kaydedin. İstek sahibi, gerekli kişisel kimlik bilgilerini sağlayabiliyorsanız ve şirketiniz hakkında ek bilgiler sunmanızın yanı sıra, destek Aracısı bir kullanıcı için genel yönetici için yükseltme isteğinde bulunabilir. 
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-- [Oturum alasanız İş Ortağı Merkezi parolanızı sıfırlamanız gerekir](unable-to-sign-in.md)
+- [Iş Ortağı Merkezi 'Nde oturum açamıyor ve parolanızı sıfırlamanız gerekiyorsa](unable-to-sign-in.md)

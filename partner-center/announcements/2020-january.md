@@ -3,18 +3,18 @@ title: Ocak 2020 duyuruları
 description: Yeni özellikler, promosyonlar, teklifler, pazarlar veya mevcut tekliflerdeki değişiklikler gibi Microsoft İş Ortağı Merkezi için Ocak 2020 duyuruları.
 ms.topic: article
 ms.service: partner-dashboard
-ms.subservice: partnercenter-action-center
+ms.subservice: partnercenter-announcements
 author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 07/10/2020
-ms.openlocfilehash: 65bebf5346a248b55314d3d4ab2401cc43b11a69
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 2663e96eba7c36265a1fa7477935c6c64e73fea6
+ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114842023"
+ms.lasthandoff: 08/04/2021
+ms.locfileid: "115100438"
 ---
 # <a name="january-2020-announcements"></a>Ocak 2020 duyuruları
 
@@ -43,7 +43,7 @@ Rusya'da işlem yapılan tüm CSP iş ortakları
 ### <a name="details"></a>Ayrıntılar
 
 Azure rezervasyonlarının Aralık 2019'da yayımlanmalarından sonra Windows Server ve SQL Server aboneliklerinin 1 Şubat 2020'den itibaren Rusya'da satın alına bırakılamayacak olduğunu duyurmaktan heyecanlanıyoruz.
-Azure rezervasyonları ve Azure Hibrit Avantajı da dahil olmak üzere bu sunucu abonelikleri ile CSP programı iş ortakları, yüksek oranda tahmin edilebilir ve kalıcı bulut iş yüklerini desteklemek için daha uygun maliyetli çözümlere yönelik hızlı büyüyen müşteri talebini daha iyi karşılar.
+Azure rezervasyonları ve Azure Hibrit Avantajı dahil olmak üzere bu sunucu abonelikleri ile CSP programı iş ortakları, yüksek oranda tahmin edilebilir ve kalıcı bulut iş yüklerini desteklemek için daha uygun maliyetli çözümlere yönelik hızlı büyüyen müşteri talebini daha iyi karşılar.
 
 İş ortakları artık İş Ortağı Merkezi ve Azure portal aracılığıyla ticari müşteriler adına Azure rezervasyonlarını ve Windows Server ve SQL Server aboneliklerini edin İş Ortağı Merkezi ve Azure portal.
 
@@ -88,7 +88,7 @@ Microsoft, 7 Ocak 2020'den itibaren Meeting Room Microsoft 365 F1 için GCC'nin 
 
 Bu lansman, Teams, Microsoft 365 F1, güvenlik ve yenilikleri geliştiren gelişmiş kamu paketimiz olan Microsoft 365 F1 için yeni tekliflerimizi daha da geliştirmektedir.
 
-Microsoft Teams Odaları, Microsoft'un toplantılara ve toplantılara Microsoft Teams yerel Skype Kurumsal çözümüdür. Microsoft Teams Odaları için Meeting Room ve Toplantılar GCC, Teams ve Skype Kurumsal toplantılarına katılarak, katılımcıların konferans çağrılarına arayabilecekleri toplantılara ev sahipliği ve telefon sistemleri kullanarak telefon bağlantısı kurabilecekleri toplantılara katılabilecek şekilde GCC müşterilerinin toplantı odalarına ve toplantı alanlarına olanak sağlar.
+Microsoft Teams Odaları, Microsoft'un yerel konferans çözümüdür ve Microsoft Teams Skype Kurumsal sağlar. Microsoft Teams Odaları için Meeting Room ve Toplantılar GCC, Teams ve Skype Kurumsal toplantılarına katılarak, katılımcıların konferans çağrılarına arayabilecekleri toplantılara ev sahipliği ve telefon sistemleri kullanarak telefon bağlantısı kurabilecekleri toplantılara katılabilecek şekilde GCC müşterilerinin toplantı odalarına ve toplantı alanlarına olanak sağlar.
 
 ### <a name="offer-list"></a>Teklif Listesi
 
@@ -133,7 +133,7 @@ Self servis satın almayı geri almak isteyen müşteriler PowerShell'i uygulama
 
 IT **yöneticilerinin** ürün başına self servis satın alma özelliğini denetleme (açma veya kapatma) özelliğine olanak sağlayan PowerShell betiği **artık kullanılabilir.** Teknik belgeler için aşağıdaki Ek Kaynaklar bölümüne bakın.
 
-GÜNCELLE: Geçen hafta boyunca, son bir haftada, Power Platform ürünleri için self servis satın alma özelliklerimizin nasıl Power Platform dinliyoruz. Girdinizi verenlere teşekkür ederiz! Geri bildiriminize dayanarak, hem IT yöneticilerinin hem de kuruluşlar içindeki son kullanıcıların ihtiyaçlarını daha iyi karşılamak için yaklaşımımızı düzenledik. Planımızda aşağıdaki değişiklikleri yapıyoruz:
+GÜNCELLE: Geçen hafta boyunca, son bir haftada, Power Platform ürünleri için self servis satın alma özelliklerimizin nasıl Power Platform aldık. Girdinizi verenlere teşekkür ederiz! Geri bildiriminize dayanarak, hem IT yöneticilerinin hem de kuruluşlar içindeki son kullanıcıların ihtiyaçlarını daha iyi karşılamak için yaklaşımımızı düzenledik. Planımızda aşağıdaki değişiklikleri yapıyoruz:
 
 - 19 Kasım'da, IT yöneticilerine PowerShell aracılığıyla ürün başına self servis satın alma hizmetini kapatmanın bir yolunu sağlaacağız. Daha fazla ayrıntı gelecek.
 - Bu değişikliği hazırlamaya daha fazla zaman sağlamak için, Power Platform ürünlerinin tüm ticari bulut müşterileri için 14 Ocak'ta Power BI self servis satın alma özelliklerine yönelik lansmanını güncelleştiriyoruz. Daha fazla Power Apps ve Power Automate yakında açık olacak.
@@ -149,7 +149,7 @@ Microsoft Power Platform ürünleri (Power BI, Power Apps, Power Automate) için
 - Bu özellik şu anda kamu kuruluşları, kar amacı gütmeyen kuruluşlar veya eğitim müşterileri tarafından kullanılamaz.
 - Çok Power Apps Power Automate yakında.
 
-İş ortakları, Azure'a ve azure'a yayılan çözümler Power Platform. Yönetim erişimi olan iş ortakları, Power Platform satın alma Microsoft 365 yönetim merkezi tek tek görebilir ve bulut çözümleri için satış müşteri adayı olarak davranamaz.Örneğin, Power BI'ı benimseyen bir iş grubunu gören bir iş ortağı, Azure SQL veritabanlarından veya diğer iş uygulamalarından veri alan gelişmiş Power BI panoları oluşturma ve satış yapma fırsatına sahip olacaktır. Benimseme, kuruluşlara self servis satın almalardan yaygın olarak yayıldıklarından, iş ortakları merkezi IT'ye geniş Power Platform kapsamı da satabilirsiniz.
+İş ortakları, Azure'a ve azure'a yayılan çözümler Power Platform. Yönetim erişimine sahip iş ortakları, Power Platform satın alma Microsoft 365 yönetim merkezi tek tek görebilir ve bulut çözümleri için satış müşteri adayı olarak davranamaz.Örneğin, Power BI'ı benimseyen bir iş grubunu gören bir iş ortağı, Azure SQL veritabanlarından veya diğer iş uygulamalarından veri alan gelişmiş Power BI panoları oluşturma ve satış yapma fırsatına sahip olacaktır. Benimseme, kuruluşlara self servis satın almalardan yaygın olarak yayıldıklarından, iş ortakları merkezi IT'ye geniş Power Platform kapsamı da satabilirsiniz.
 
 Yönetim erişimine sahip olan iş ortakları yine de kavram kanıtı projeleri oluşturabilir ve hizmet satın alan kişiler için özel Power Platform oluşturabilir. Bu iş ortakları, son kullanıcılarla doğrudan çalışma çevikliği ve merkezi bir IT satın alma hareketlerinden yararlanmak zorunda kalmadan faydalanmaktadır. Başarılı bir iş ortağı etkileşimi Power BI benimseme, şirket içindeki iş ortağı güvenilirliğini sağlar ve kolayca başka fırsatlara yol açabiliyordu.
 
@@ -227,12 +227,12 @@ Bu Microsoft Müşteri Sözleşmesi, müşterilerin satın alma yöntemine bakı
 
 ### <a name="next-steps"></a>Sonraki adımlar
 
-- 31 Ocak 2020'den önce yeni Microsoft Müşteri Sözleşmesi kabulü onaylayın.
+- 31 Ocak 2020'den önce yeni Microsoft Müşteri Sözleşmesi onaylayın.
 - Aracılarınızı ve kurumsal bayilerinizi yeni sözleşme koşullarıyla eğitin, yeni sözleşmeyi sunarak ve müşteri kabulünü doğrularken. Dolaylı sağlayıcıların müşterinin kabulünü doğrulamak için dolaylı kurumsal bayilerle birlikte çalışması gerekir.
 - API'leri kullanan doğrudan fatura ve dolaylı sağlayıcıların, güncelleştirilmiş API'yi kullanarak mevcut Microsoft Müşteri Sözleşmesi uyum sağlayacak şekilde [güncelleştirmesi gerekir.](../confirm-customer-agreement.md)
 - Doğrudan fatura ve dolaylı sağlayıcılar, müşteri kabulünü onaylamak İş Ortağı Merkezi web kullanıcı arabirimini de kullanabilir.
 
-### <a name="additional-resources-partners-can-view-content-available-on-the-csp-gallery-page-including"></a>ek kaynaklar: İş ortakları [CSP](https://partner.microsoft.com/resources/collection/Microsoft-Customer-Agreement-in-the-CSP-program#/)Galerisi sayfasında bulunan içeriği görüntüleyebilirsiniz:
+### <a name="additional-resources-partners-can-view-content-available-on-the-csp-gallery-page-including"></a>Ek kaynaklar: İş ortakları [CSP](https://partner.microsoft.com/resources/collection/Microsoft-Customer-Agreement-in-the-CSP-program#/)Galerisi sayfasında bulunan içeriği görüntüleyebilirsiniz:
 
 - CSP Microsoft Müşteri Sözleşmesi hakkında SSS'Microsoft Müşteri Sözleşmesi bir bilgi
 - Bağlantı Microsoft Müşteri Sözleşmesi
@@ -281,7 +281,7 @@ Ocak lisans tabanlı fiyat listesinde, Şubat ayın fiyat listesi güncelleştir
 Bu teklifler fiyat listesinde yer alıyor olmalı ve önümüzdeki ay kaldırılacaktır:
 
 - Teklif: Microsoft 365 Telefon Sistemi - Sanal Kullanıcı Deneme Kimliği: b9a1d576-43fd-464b-8ad9-4b1eafc5db77
-- Teklif: Pro Için Formlar ve GCC Yanıtları: ac14473c-8e5d-4e44-aff1-6087109be980
+- Teklif: Pro Teklif Kimliği için Formlar ve GCC Yanıtları: ac14473c-8e5d-4e44-aff1-6087109be980
 - Teklif: Microsoft Forms Pro teklif kimliği için GCC USL: 1e9dab89-7a71-4aa9-a3e5-9b8be2f296ba
 
 Bu teklifler fiyat listesinde yer alıyor olmalı ve önümüzdeki ay kaldırılacaktır:
@@ -313,86 +313,86 @@ _________________
 
 ### <a name="impacted-audience"></a>Etkilene hedef kitle
 
-- Bulut Çözümü Sağlayıcısı (CSP) programı aracılığıyla Dynamics 365'i sunan iş ortakları (Bu güncelleştirmeler farklı bir şekilde tavsiye ediliyorsa dünya genelindeki tüm konumlarla ilgilidir.)
+- Bulut Çözümü Sağlayıcısı (CSP) programı aracılığıyla Dynamics 365 teklif eden iş ortakları (farklı şekilde önermedikleri takdirde bu güncelleştirmeler dünya genelindeki tüm konumlarla ilgilidir.)
 
 ### <a name="summary"></a>Özet
 
-Microsoft, bugün 2 Ocak 2020'de ek Dynamics 365 ürünleri yayımlamaktadır. Yeni ürünler de 1 Şubat 2020'de yayımlanacak.
+Microsoft, bugün 2 Ocak 2020 tarihinde ek Dynamics 365 ürünleri yayımlamıştır. Yeni ürünler de 1 Şubat 2020 ' de kullanıma sunulacaktır.
 
 ### <a name="details"></a>Ayrıntılar
 
-Bugün, 2 Ocak 2020'de Microsoft, Dynamics 365 Power Virtual Agent'ın yanı sıra Biz Apps ve Power Platform. 1 Şubat 2020'de Dynamics 365 Biz Apps ve Power Platform.
+Bugün, 2 Ocak 2020, Microsoft, Dynamics 365 Power Virtual Agent için yeni ürünler ve biz de biz uygulama ve güç platformu yayımladı. 1 Şubat 2020 ' de, Dynamics 365 biz uygulamaları ve güç platformu için ek yeni ürünler kullanıma sunulacaktır.
 
-### <a name="dynamics-365-power-virtual-agent"></a>Dynamics 365 Power Virtual Agent
+### <a name="dynamics-365-power-virtual-agent"></a>Dynamics 365 Power sanal Aracısı
 
-2 Ocak 2020'de aşağıdaki Power Virtual Agent teklifleri yayınlandı:
+2 Ocak 2020 ' de, aşağıdaki güç sanal aracı teklifleri yayımlanmıştır:
 
-- Müşteri Hizmetleri için Dynamics 365 Sanal Aracısı
+- Müşteri Hizmetleri için Dynamics 365 sanal Aracısı
 
-Buradaki "Dynamics CSP Offers 1-1-20" (Dynamics CSP Teklifleri 1-1-20) dosyasındaki ayrıntılı SKU [bilgilerine bakın.](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)
+"Dynamics CSP 1-1-20 tekliflerini" dosyasındaki ayrıntılı SKU bilgilerine [bakın.](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)
 
-Biz Apps ve Power Platform
+Biz uygulamaları ve güç platformu
 
-2 Ocak 2020'de aşağıdaki Biz Apps ve Power Platform teklifleri yayınlandı:
+2 Ocak 2020 ' de, aşağıdaki biz uygulama ve güç platformu teklifleri yayımlanmıştır:
 
-- Mevcut Uygulama başına PowerApps planı için öğrenci tekliflerinin tanıtımı
+- Uygulama başına mevcut PowerApps planına yönelik öğrenci tekliflerini giriş
 
-Buradaki "Dynamics CSP Offers 1-1-20" (Dynamics CSP Teklifleri 1-1-20) dosyasındaki ayrıntılı SKU [bilgilerine bakın.](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)
+"Dynamics CSP 1-1-20 tekliflerini" dosyasındaki ayrıntılı SKU bilgilerine [bakın.](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)
 
-1 Şubat 2020'de, Biz Apps ve Power Platform için aşağıdaki yeni ve güncelleştirilmiş teklifler yayımlamayacak:
+1 Şubat 2020 ' de, aşağıdaki yeni ve güncelleştirilmiş, biz de bu uygulamalar ve güç platformu için kullanıma sunulacaktır:
 
-İnsan Kaynakları yeni teklifleri
+İnsan kaynakları yeni teklifleri
 
-- Dynamics 365 İk kullanıcıları Dynamics 365 Unified Ops Additional DB/File Capacity USL tekliflerini satın alınabilir
+- Dynamics 365 ık kullanıcıları Dynamics 365 Birleşik Ops ek DB/dosya kapasitesi USL teklifleri satın alabilir
 - Dynamics 365 HR Self-Serve teklifleri
-- Dynamics 365 İnsan Kaynakları (kullanıcı, kiracı)
+- Dynamics 365 Insan kaynakları (Kullanıcı, kiracı)
 
-Tedarik Zinciri Yönetimi için loT Intelligence yeni teklifleri
+Tedarik zinciri yönetimi yeni teklifleri için loT zekası
 
-- IoT Intelligence Scenario (kiracı düzeyi)— en fazla altı senaryo ve on makine yetkilendirmesi içerir (önkoşul Tedarik Zinciri/Birleşik Operasyon Yönetimi kullanıcı tabanıdır veya SKU'yu eklemektir)
-- IoT Intelligence Ek Makinesi (kiracı düzeyi)—10 ek makine için lisans sağlayan IoT Intelligence Senaryosuna eklenti (bu teklifin önkolu)
+- IoT Intelligence senaryosu (kiracı düzeyi) — en fazla altı senaryo ve on makine için yetkilendirme içerir (önkoşul, tedarik zinciri/Birleşik Ops yönetimi Kullanıcı temeli veya SKU Ekle)
+- IoT Intelligence ek makinesi (kiracı düzeyi) — 10 ek makineye lisans sağlayan IoT Intelligence senaryosuna (bu teklifin önkoşulu) eklenti
 
-eTicaret adı değişikliği
+Eticaret adı değişikliği
 
-- Dynamics 365 Perakende teklifleri Dynamics 365 Commerce olarak değiştir değiştiri.
+- Dynamics 365 perakende teklifleri, Dynamics 365 ticareti olarak değiştirilecektir.
 
-Customer Insights lisans güncelleştirmesi
+Customer Insights lisansı güncelleştirmesi
 
-Aşağıdaki SKUS'larda lisans türü AddOn yerine NON olarak değiştirilmiştir:
+Aşağıdaki SKU 'Lar, lisans türünün AddOn iken şu olmayan şekilde değiştirilmesini sağlayacak:
 
-- Dyn365ECstmrInsights ShrdSvr ALNG SubsVL MVL
-- Dyn365ECstmrInsightsEDU ShrdSvr ALNG SubsVL MVL
+- Dyn365ECstmrInsights ShrdSvr ALNG alt SVL MVL
+- Dyn365ECstmrInsightsEDU ShrdSvr ALNG alt SVL MVL
 
-Aşağıdaki teklifler artık Dynamics 365 İnsan Kaynakları için kullanılamaz:
+Aşağıdaki teklifler Dynamics 365 Insan kaynakları için artık kullanılabilir olmayacaktır:
 
-- DYNAMICS 365 Talent, Dynamics 365 for Talent from SA, Attract, Onboard ve Comprehensive Hiring teklifleri
+- Dynamics 365 Tatatyi, SA, AVTUR, yerleşik ve kapsamlı Işe alım tekliflerden Taçine yönelik Dynamics 365
 
 Bekleyen SKU bilgileri
 
-1 Şubat 2020'de Microsoft, mevcut Dynamics 365 ve Power Platform tekliflerinin adlandırmalarını diğer kanal ve bölgelerde kullanılan adla uyumlu olacak şekilde bazı ürün ailelerinin adlarını ve tekliflerini değiştirecek.
+Microsoft, 1 Şubat 2020 ' de bazı ürün aileleri ve tekliflerinin adlarını değiştirerek mevcut Dynamics 365 ve güç platformu için adlandırmayı diğer kanallarda ve bölgelerde kullanılan ad ile hizalar.
 
-Buradaki "Dynamics CSP Teklif Adı Değişiklikleri – Şubat 2020" dosyasındaki belirli değişikliklere [bakın.](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)
+"Dynamics CSP teklif adı değişiklikleri – Şubat 2020" dosyasındaki belirli değişikliklere [bakın.](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)
 
 ### <a name="additional-resources"></a>Ek kaynaklar
 
 - [Dynamics 365 giriş sayfası](https://dynamics.microsoft.com/)
-- [Karma Gerçeklik Uygulamaları Kılavuzu giriş sayfası](https://dynamics.microsoft.com/mixed-reality/guides/)
-- [Biz Apps Sahtekarlık giriş sayfası](/dynamics365/fraud-protection/overview)
-- [Power Platform Ürünler giriş sayfası](/powerapps/maker/common-data-service/data-platform-intro#dynamics-365-and-the-common-data-service)
-- [FY20 Power Apps ve Flow Güncelleştirmeleri](https://mbs.microsoft.com/partnersource/global/pricing-ordering/licensing-policies/Dyn365PricingandLicensing)
-- [Microsoft Dynamics 365 Lisanslama](https://mbs.microsoft.com/partnersource/northamerica/pricing-ordering/licensing-policies/Dyn365BusinessCentralPricingLicensing)
+- [Karma Gerçeklik uygulamalar Kılavuzu giriş sayfası](https://dynamics.microsoft.com/mixed-reality/guides/)
+- [Biz uygulama dolandırıcılığı ana sayfası](/dynamics365/fraud-protection/overview)
+- [Güç platformu ürünleri giriş sayfası](/powerapps/maker/common-data-service/data-platform-intro#dynamics-365-and-the-common-data-service)
+- [FY20 Power Apps ve Flow lisanslama güncelleştirmeleri](https://mbs.microsoft.com/partnersource/global/pricing-ordering/licensing-policies/Dyn365PricingandLicensing)
+- [Microsoft Dynamics 365 lisansı](https://mbs.microsoft.com/partnersource/northamerica/pricing-ordering/licensing-policies/Dyn365BusinessCentralPricingLicensing)
 
 ### <a name="next-steps"></a>Sonraki adımlar
 
-- Bu bilgileri, kuruluşta uygun kişiler ile paylaşın.
-- Lisans güncelleştirmeleri ve değer teklifi hakkında daha fazla bilgi almak için Ek kaynaklar bölümünde ve PartnerSource'ta hazır olma içeriğimizi okuyun.
+- Bu bilgileri, kuruluşunuzdaki uygun kişilerle paylaşabilirsiniz.
+- Lisanslama güncelleştirmelerinin ve değer teklifini daha ayrıntılı bir şekilde incelemek istiyorsanız, ek kaynaklar bölümündeki ve PartnerSource üzerinde hazırlık içeriğimizi öğrenmeye çalışın.
 
 ### <a name="questions"></a>Sorularınız mı var?
 
-- Microsoft ile olan işlemleriniz hakkında kesinlikle sorularınız varsa Destek ile [iletişime geçin.](https://partner.microsoft.com/pcv/servicerequests/create)
+- Microsoft ile işlemlarınızla kesinlikle ilgili sorularınız varsa [desteğe başvurun](https://partner.microsoft.com/pcv/servicerequests/create).
 
 ### <a name="change-log"></a>Değişiklik günlüğü
 
-- 2 Ocak 2020: Yeni iletişim.
+- 2 Ocak 2020: yeni iletişim.
 
 _________________

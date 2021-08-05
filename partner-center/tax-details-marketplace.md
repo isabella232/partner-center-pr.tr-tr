@@ -2,37 +2,38 @@
 title: Microsoft ticari Market için vergi ayrıntıları
 description: Fiyat seçimine, ödeme etkilerine ve ülkelere/dağıtım Bölgelerinizle ilgili vergi sorumluluğuna ilişkin vergi konuları hakkında bilgi edinin.
 ms.topic: conceptual
-ms.service: partner-dashboard
+ms.service: marketplace
+ms.subservice: partnercenter-marketplace-publisher
 author: jasongroce
 ms.author: davjan
 ms.date: 06/29/2021
-ms.openlocfilehash: 66f60f88c1e7aa0d6af49f90a2def165f6eb39b5
-ms.sourcegitcommit: c7ab71d9e7fdbf6141c24f535b0144cfcb0403ea
+ms.openlocfilehash: 6f1d0805fab0488739cc35849c2fd5a64db7b35b
+ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/01/2021
-ms.locfileid: "113129117"
+ms.lasthandoff: 08/04/2021
+ms.locfileid: "115102121"
 ---
 # <a name="tax-details-for-commercial-marketplace-publishers"></a>Ticari market yayıncıları için vergi bilgileri
 
 **Uygun roller**: genel yönetici
 
-Bu sayfa, ticari Market yayımcıları (yayımcılar) ve tüketici marketi geliştiricileri (geliştiriciler) için, sırasıyla [Microsoft Azure Market Yayımcı Sözleşmesi](/legal/marketplace/msft-publisher-agreement) ve [uygulama geliştirici anlaşmasıyla](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4o4bH)Ilgili olarak yayımcı/geliştirici ürünlerinin son müşteri satın alımları ile bağlantılı olarak vergi sorumlulukları ve vergi değerlendirmeleri belirler.  Aşağıdaki bilgiler, Microsoft Publisher sözleşmesinin ve uygulama geliştirici anlaşmasındaki hüküm ve koşulların yanı sıra yerini almak için düşünülmemiştir.  Aksi belirtilmediği takdirde, aşağıdaki bilgiler hem ticari Market yayımcılarına hem de ürünlerini/tekliflerini Microsoft marketler aracılığıyla satışa sunabilen tüketici marketi geliştiricileri için geçerlidir. 
+bu sayfa, [Microsoft Azure market Publisher sözleşmesi](/legal/marketplace/msft-publisher-agreement) ve [uygulama geliştirici anlaşmasıyla](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4o4bH)ilgili olarak Publisher/developer ürünlerinin son müşteri satın alımları ile bağlantılı olarak ticari market yayımcıları (yayımcılar) ve tüketici marketi geliştiricileri (geliştiriciler) için vergi sorumlulukları ve vergi değerlendirmeleri belirler.  aşağıdaki bilgiler, Microsoft Publisher sözleşmesinin ve uygulama geliştirici anlaşmasındaki hüküm ve koşulların yanı sıra yerine geçecek şekilde düşünülmemiştir.  Aksi belirtilmediği takdirde, aşağıdaki bilgiler hem ticari Market yayımcılarına hem de ürünlerini/tekliflerini Microsoft marketler aracılığıyla satışa sunabilen tüketici marketi geliştiricileri için geçerlidir. 
 
 ## <a name="end-customer-taxation"></a>Son müşteri vergilendirme
 
 Microsoft 'un ve yayımcılarının satışları, kullanımı, malları ve Hizmetleri, katma değer veya benzer vergiler, varsa son müşteri satışları (**son müşteri vergilendirme**), yayımcıların/geliştiricilerin, Microsoft Market (s) üzerinden son müşterilere satış için satışa sunulmasını sağlayan ülkeye bağlıdır. Aşağıdaki tabloda, Microsoft Market (s) ile uygun satışları olan ülkelerde son müşteri vergilendirme durumları ve sorumluluğu ayarlanır.  Aşağıdaki bilgiler değişebilir ve yayımcılar/geliştiriciler bu sayfayı güncel, doğru bilgiler için gözden geçirmekten sorumludur.
 
-**Yayımcı/geliştirici tarafından yönetilen ülkelerde**, Microsoft, yayımcı/geliştirici için bir aracı veya temsilciniz (geçerli olduğu gibi) görevi görür. Yayımcılar/geliştiriciler, yayımcıların/geliştiricilerin, kayıt, vergi hesaplama, vergi tahsilatı, vergi havalesi, müşterilerin iş durumunun doğrulanması ve müşterilere vergi faturaları sağlama dahil, son müşteri vergilendirme ve yönetimi için gereken tüm uyumluluğun belirlenmesi için tek sorumluluğu olduğunu kabul ediyor ve kabul ediyor. Yayımcılar/geliştiriciler, yayımcı/geliştirici tarafından yönetilen bir ülkede herhangi bir satışla ilgili olarak, Microsoft şu anda, yayımcılar/geliştiricilerin müşterilere vergi faturaları sağlaması için gereken işlem ayrıntılarını sağlayamayabilir. 
+**Publisher/Developer-managed ülkelerinde**, Microsoft, Publisher/Developer. bir aracı ya da temsilciniz (geçerli olduğu gibi) görevi görür. Yayımcılar/geliştiriciler, yayımcıların/geliştiricilerin, kayıt, vergi hesaplama, vergi tahsilatı, vergi havalesi, müşterilerin iş durumunun doğrulanması ve müşterilere vergi faturaları sağlama dahil, son müşteri vergilendirme ve yönetimi için gereken tüm uyumluluğun belirlenmesi için tek sorumluluğu olduğunu kabul ediyor ve kabul ediyor. yayımcılar/geliştiriciler, Publisher/geliştirici tarafından yönetilen bir ülkede satışa karşı, Microsoft şu anda, yayımcılar/geliştiricilerin müşterilere vergi faturaları sağlaması için gereken işlem ayrıntılarını sağlayamayabilir. 
 
-Microsoft **tarafından yönetilen ülkelerde**, Microsoft yayımcı/geliştiricinin bir Aracısı olarak davranır. Microsoft, belirli vergileri hesaplama, toplama ve/veya yeniden ayırma dahil olmak üzere, son müşteri vergilendirme yönetiminin sorumluluğunu üstlenir. Ticari Market için bu, vergi kayıt numaraları veya muafiyet sertifikaları elde ederek son müşterilerin iş durumunun doğrulanmasını de içerebilir. Microsoft, yerel bağlı kuruluşları ya da yerel olarak kaydedilen uzak bağlı kuruluşları kullanarak son müşteri Vergilenmasını yönetir. Microsoft 'un kayıt numarası altında Microsoft faturaları. Microsoft, Microsoft 'un vergi dönüşinden son müşterilerden toplanan tüm vergileri içerir.
+microsoft **tarafından yönetilen ülkelerde**, microsoft Publisher/Developer. bir aracı olarak davranır Microsoft, belirli vergileri hesaplama, toplama ve/veya yeniden ayırma dahil olmak üzere, son müşteri vergilendirme yönetiminin sorumluluğunu üstlenir. Ticari Market için bu, vergi kayıt numaraları veya muafiyet sertifikaları elde ederek son müşterilerin iş durumunun doğrulanmasını de içerebilir. Microsoft, yerel bağlı kuruluşları ya da yerel olarak kaydedilen uzak bağlı kuruluşları kullanarak son müşteri Vergilenmasını yönetir. Microsoft 'un kayıt numarası altında Microsoft faturaları. Microsoft, Microsoft 'un vergi dönüşinden son müşterilerden toplanan tüm vergileri içerir.
 
-Microsoft, Microsoft 'un eylemlerin Microsoft tarafından yönetilen ülkelerde yayımcı/geliştirici yükümlülüklerinden tamamen karşılamasına hiçbir garanti vermez.  Microsoft tarafından yönetilen tüm ülkeler için, Microsoft tarafından yönetilen vergi havalelerinin, yayımcıların '/geliştiricilerin ' uyumluluk gereksinimlerini yeterince adreslenmediğini belirlememek üzere yayımcılar/geliştiricilerin kendi vergi danışmanlarıyla birlikte çalışmalarını önemle önerir. Bu, yayımcıların/geliştiricilerin ürünlerini/tekliflerini satmakta olduğu Microsoft tarafından yönetilen tüm ülkelerde özellikle önemlidir.  Microsoft, Microsoft tarafından yönetilen ülkelerde yayımcı/geliştirici Aracısı olarak davranır.
+microsoft, microsoft 'un eylemlerin microsoft tarafından yönetilen ülkelerde Publisher/geliştirici yükümlülüklerinden tamamen karşılamasına hiçbir garanti vermez.  Microsoft tarafından yönetilen tüm ülkeler için, Microsoft tarafından yönetilen vergi havalelerinin, yayımcıların '/geliştiricilerin ' uyumluluk gereksinimlerini yeterince adreslenmediğini belirlememek üzere yayımcılar/geliştiricilerin kendi vergi danışmanlarıyla birlikte çalışmalarını önemle önerir. Bu, yayımcıların/geliştiricilerin ürünlerini/tekliflerini satmakta olduğu Microsoft tarafından yönetilen tüm ülkelerde özellikle önemlidir.  microsoft, microsoft tarafından yönetilen ülkelerde Publisher/developer aracı olarak davranır.
 
-**Satıcı ülkelerinde**, Microsoft, yayımcı/geliştirici ürünleri/teklifleri Microsoft Market (s) üzerinden son müşterilere satış için kullanılabilir hale getirmek için yayımcı/geliştirici Aracısı yerine bir satıcı olarak davranır.  Yayımcılar/geliştiriciler satış, kullanım, mal ve hizmetlerden, değer eklenen veya benzer vergiler (varsa, ürünlerin/tekliflerin satışında) ve Microsoft 'un son müşterilere sunduğu tüm son müşteri vergilerinden sorumludur.
+**satıcı ülkelerinde**, Microsoft, son müşterilere Microsoft Market (s) üzerinden satış için sunulan Publisher/geliştirici ürünleri/teklifleri sağlamak Publisher/developer 'ın aracısı yerine bir satıcı olarak davranır.  Yayımcılar/geliştiriciler satış, kullanım, mal ve hizmetlerden, değer eklenen veya benzer vergiler (varsa, ürünlerin/tekliflerin satışında) ve Microsoft 'un son müşterilere sunduğu tüm son müşteri vergilerinden sorumludur.
 
 
-### <a name="publisherdeveloper-managed-countries"></a>Yayımcı/geliştirici tarafından yönetilen ülkeler: 
+### <a name="publisherdeveloper-managed-countries"></a>Publisher/Developer-managed ülkeleri: 
 
 | Ülkeler                | Ülkeler (devamı)             | Ülkeler (devamı) | Ülkeler (devamı) |
 |--------------------------|-----------------------------------|-----------------------|-----------------------|
@@ -97,20 +98,20 @@ Microsoft, Microsoft 'un eylemlerin Microsoft tarafından yönetilen ülkelerde 
 
 |**Ülke**|**Ticari Market (Azure Market & AppSource)**| **Tüketici Marketi (Microsoft Store)**|
 |------------------|:-----------------|:---------------|
-|Brezilya|Kurumsal bayi hariç: Bulut Çözümü Sağlayıcısı (CSP) müşteri satın alma senaryosu aracılığıyla yapılan satın almalar için yönetilen yayımcı|Geliştirici tarafından yönetilenler dışında: Kurumsal bayi üzerinde çalışan cihazlar aracılığıyla yapılan satın Windows 10|
+|Brezilya|Kurumsal bayi hariç: Publisher (CSP) müşteri satın alma senaryosu Bulut Çözümü Sağlayıcısı yapılan satın almalar için yönetilen kurumsal bayi|Geliştirici tarafından yönetilenler: Kurumsal bayi üzerinde çalışan cihazlar aracılığıyla yapılan satın almalar Windows 10|
 |Meksika|Microsoft tarafından yönetilenler hariç: Kurumsal anlaşma müşteri satın alma senaryosu aracılığıyla yapılan satın almalar için kurumsal bayi|Microsoft tarafından yönetilen|
-|Avustralya|Microsoft hariç yönetilen: Kurumsal anlaşma müşteri satın alma senaryosu aracılığıyla satın almalar için yönetilen Yayımcı|Microsoft tarafından yönetilen|
-Çin|Market etkin değil|Şu dışında etkin kurumsal bayi: Windows Phone 7.x çalıştıran mobil iletişim cihazları için ve Windows 8.x çalıştıran kişisel bilgisayarlarda yönetilen kurumsal bayi|
-| Bahreyn | Yayımcı tarafından yönetilen | Microsoft tarafından yönetilen                      |
-| Umman | Yayımcı tarafından yönetilen | Microsoft tarafından yönetilen                         |
-| Nijerya | Yayımcı tarafından yönetilen | Microsoft tarafından yönetilen                      |
+|Avustralya|Microsoft tarafından yönetilenler: Publisher Kurumsal anlaşma müşteri satın alma senaryosu aracılığıyla satın almalar için yönetilir|Microsoft tarafından yönetilen|
+Çin|Market etkin değil|Şu dışında etkin kurumsal bayi: Windows phone 7.x çalıştıran ve Windows 8.x çalıştıran kişisel bilgisayarlarda çalışan mobil iletişim cihazları için geliştirici tarafından yönetilen|
+| Bahreyn | Publisher yönetilen | Microsoft tarafından yönetilen                      |
+| Umman | Publisher yönetilen | Microsoft tarafından yönetilen                         |
+| Nijerya | Publisher yönetilen | Microsoft tarafından yönetilen                      |
 
 
 ## <a name="tax-considerations-on-payouts"></a>Ödemelerde vergiyle ilgili dikkat edilmesi gerekenler
 
 Yayımcılar/Geliştiriciler tarafından yönetilen ülkelerde, Yayımcılar/Geliştiricilere Microsoft ödemesi mağaza ücretine ve geçerli vergilere tabidir. Bu vergiler şunlardan herhangi birini içerebilir: stopaj vergisi ve satış, kullanım, mal ve hizmetler, mağaza ücretine eklenen değer veya benzer vergiler.
 
-Microsoft tarafından yönetilen geçerli ülkelerde ve Kurumsal Bayilerde, Yayımcılar/Geliştiricilere Microsoft ödemesi mağaza ücreti ve geçerli vergilerden net olarak kabul edilen bir ödemedir. Bu vergiler şunlardan herhangi birini içerebilir: End Customer Tax, stopaj vergisi ve satış, kullanım, mal ve hizmetler, mağaza ücretine eklenen değer veya benzer vergiler. [Microsoft'un](payout-statement.md) Yayımcılar/Geliştiriciler tarafından kullanılabilir olduğu raporlar, bu vergilerin miktarını tanımlar. 
+Geçerli Microsoft tarafından yönetilen ülkelerde ve Kurumsal Bayilerde, Yayımcılar/Geliştiricilere Microsoft ödemesi mağaza ücretine ve geçerli vergilere tabidir. Bu vergiler şunlardan herhangi birini içerebilir: Son Müşteri Vergisi, stopaj vergisi ve satış, kullanım, mal ve hizmetler, mağaza ücretine eklenen değer veya benzer vergiler. [Microsoft'un](payout-statement.md) Yayımcılar/Geliştiriciler tarafından kullanılabilir olduğu raporlar, bu vergilerin miktarını tanımlar. 
 
 Microsoft, Yayımcıların/Geliştiricilerin ürünler/teklifler aracılığıyla son müşterilere satış için kullanılabilir hale gelen ürünleri/teklifleri aşağıdaki ülkelerdeki mağaza ücretlerine Microsoft Market toplar:
 
@@ -126,11 +127,11 @@ Microsoft, Yayımcıların/Geliştiricilerin ürünler/teklifler aracılığıyl
 
 ### <a name="end-customer-taxation"></a>Son müşteri vergileme
 
-- Senaryo bir: Yayımcı tarafından yönetilen bir ülkede müşteri teklif satın almaktadır
+- Senaryo 1: Yönetilen Publisher müşteri teklif satın almaktadır
 
   :::image type="content" source="images/tax/scenario-one.png" alt-text="Yayımcının nasıl ödemesi olduğunu gösteren grafik.":::
 
-- Senaryo iki: Microsoft tarafından yönetilen bir ülkede müşteri teklif satın almaktadır (Yayımcı ülkeyle ilgisiz)
+- Senaryo iki: Microsoft tarafından yönetilen bir ülkede müşteri teklif satın almaktadır (Publisher ilgisiz)
 
   :::image type="content" source="images/tax/scenario-two.png" alt-text="Microsoft tarafından yönetilen ülkede vergileri gösteren grafik.":::
 
@@ -150,7 +151,7 @@ Microsoft, Yayımcıların/Geliştiricilerin ürünler/teklifler aracılığıyl
 
 - Senaryo bir: Yabancı yayımcı (vergi profilinde geçerli vergi muafiyeti avantajları yoktur) ABD müşterisini satışa sunar. 
 
-  :::image type="content" source="images/tax/withholding-one.png" alt-text="Vergi stopajı vergisini vergi ödemeden gösteren grafik.":::
+  :::image type="content" source="images/tax/withholding-one.png" alt-text="Vergi stopaj vergisinin vergiyi ödemeden gösteren grafik.":::
 
 - Senaryo iki: Yabancı yayımcı (vergi profilinde vergi indirimi avantajlarına sahip olan ve yüzde sıfır oranına sahip olan) bir satıcı ABD müşterisini satışa sunar. 
 
@@ -158,6 +159,6 @@ Microsoft, Yayımcıların/Geliştiricilerin ürünler/teklifler aracılığıyl
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-- [Yayımcı hakkında SSS](/azure/marketplace/marketplace-faq-publisher-guide) 
+- [Publisher SSS](/azure/marketplace/marketplace-faq-publisher-guide) 
 
 - [Ödeme ve vergi profilleri oluşturma yönergeleri](./set-up-your-payout-account.md?context=%2fazure%2fmarketplace%2fcontext%2fcontext#create-a-payment-profile)
