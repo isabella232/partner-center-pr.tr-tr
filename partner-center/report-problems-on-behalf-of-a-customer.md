@@ -9,12 +9,12 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4d4c82149638ad117d54ea9b518a68ec9ae19b2b
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: b373564c45c4b1792e1ec50cb8f073cf05259c3cc838519e5bc1610f7cf13b59
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114841156"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115678161"
 ---
 # <a name="report-a-service-problem-on-behalf-of-a-customer---including-when-and-how-to-do-so"></a>Müşteri adına bir hizmet sorunu bildirme - bunun ne zaman ve nasıl olduğu da dahil
 

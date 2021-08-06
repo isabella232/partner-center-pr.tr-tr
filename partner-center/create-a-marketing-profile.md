@@ -1,121 +1,121 @@
 ---
-title: Satış fırsatlarını al-iş profili oluşturma
+title: Satış müşteri adaylarını al - iş profili oluşturma
 ms.topic: article
 ms.date: 03/09/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-referrals
-description: Microsoft 'tan satış fırsatlarını nasıl alabileceğinizi öğrenin. Bir anahtar, iş ortağı merkezi 'nde müşterilerin daha kolay bulmasına imkan tanıyan bir iş profili oluşturmaktır.
+description: Microsoft'tan satış müşteri adaylarını nasıl elde etmeyi öğrenin. Anahtarlardan biri, müşterilerin sizi daha kolay İş Ortağı Merkezi bir iş profili oluşturmaktır.
 author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 51d55e14a00e17ed277bdc61aeb0ef64fbcbeac0
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: eb093f406f9776b3db0e091cd059ffa87836d0e946b4f9f5921388f52c81838a
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114838011"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115679861"
 ---
-# <a name="create-a-business-profile-to-get-microsoft-sales-leads-and-help-customers-find-you"></a>Microsoft satış müşteri adaylarını almak ve müşterilerin sizi bulmasına yardımcı olmak için bir iş profili oluşturun
+# <a name="create-a-business-profile-to-get-microsoft-sales-leads-and-help-customers-find-you"></a>Microsoft satış müşteri adaylarını almak ve müşterilerin sizi bulmalarına yardımcı olmak için bir iş profili oluşturma
 
-**Uygun roller**: iş profili Yöneticisi | Başvuru Yöneticisi
+**Uygun roller:** İş profili yöneticisi | Referans yöneticisi
 
-Nitelikli bir Microsoft iş ortağı olarak, işinizi iş ihtiyaçlarını karşılamak üzere benzersiz çözümleriniz ve uzmanlığınızı arayan müşterilere göstermek için bir iş profili oluşturabilirsiniz.
+Nitelikli bir Microsoft iş ortağı olarak, iş ihtiyaçlarını karşılamak için benzersiz çözümlerinizi ve uzmanlığınızı arayan müşterilere işlerinizi göstermek için bir iş profili oluşturabilirsiniz.
 
-Microsoft, pazarlama, satış ve hizmet çabalarıyla her yıl milyonlarca müşteriyi her yıl geçirir. Bu görevlendirmelerden çoğu, satış müşteri adayları biçiminde iş ortaklarımıza başvurular sunmamız için fırsat oluşturur. 
+Microsoft, pazarlama, satış ve hizmet çalışmaları aracılığıyla her yıl milyonlarca müşteriyle etkileşime geçmektedir. Bu etkileşimlerin çoğu, iş ortaklarımıza satış müşteri adayları şeklinde referans sağlama fırsatı sunar. 
 
-İş profili oluşturmak, başvuruları elde etmek için ilk adımdır. Microsoft ürünlerini ve çözümlerini şu şekilde uygulamaya yardımcı olabilecek iş ortakları arayan müşterilere profilinizi göstereceğiz:
+İş profili oluşturmak, referans almanın ilk adımıdır. Profilinizi, aşağıdakiler aracılığıyla Microsoft ürünlerini ve çözümlerini uygulamalarına yardımcı olacak iş ortaklarını arayan müşterilere göstereceğiz:
 
-- **[Çözüm sağlayıcısı](https://www.microsoft.com/solution-providers/home) arama deneyimini bulun**. Potansiyel müşteriler, arama ölçütlerini karşılayan iş ortaklarını bulmak için ortak listelerine kendi üzerinde arama yapabilir.
+- **Çözüm [sağlayıcısı bul arama](https://www.microsoft.com/solution-providers/home) deneyimi.** Potansiyel müşteriler, arama ölçütlerine uyan iş ortaklarını bulmak için iş ortağı listelemelerini kendi kendine arayabilir.
 
-- **Microsoft satış ve hizmet çalışanlarının başvuruları**. Bulut tabanlı teknoloji çözümlerini dağıtmaya ilgilenen potansiyel müşteriler, iş ihtiyaçlarını karşılayabilecek profesyonellerini bulma konusunda yardım almak için Microsoft 'a başvurun. Bu Microsoft uzmanları, daha sonra şirketinize potansiyel müşterileri belirtebilir.
+- **Microsoft satış ve hizmet çalışanlarından referanslar.** Bulut tabanlı teknoloji çözümleri dağıtmak isteyen potansiyel müşteriler, iş ihtiyaçlarını karşılandıracak uzmanları bulma konusunda yardım almak için Microsoft'a başvurmaktadır. Bu Microsoft uzmanları daha sonra olası müşterileri şirketinize başvurur.
 
 ## <a name="create-a-profile"></a>Profil oluşturma
 
 > [!NOTE]  
-> Bir iş profili oluşturabilmeniz için önce bir iş ortağı merkezi hesabınız olmalıdır. Zaten bir Iş Ortağı Merkezi hesabınız yoksa, oluşturma konusunda yardım için [Iş Ortağı Merkezi hesabı oluşturma](mpn-create-a-partner-center-account.md) konusuna bakın.
+> bir iş profili oluşturamadan önce bir İş Ortağı Merkezi gerekir. Henüz bir İş Ortağı Merkezi hesabınız yoksa, oluşturma yardımı için [İş Ortağı Merkezi hesabı](mpn-create-a-partner-center-account.md) oluşturma'ya bakın.
 
-İş için yetkiniz olan her bölge için profil oluşturun.
+İş yapmak için yetkilendirilen her bölge için profiller oluşturun.
 
-1. İş **Ortağı Merkezi** menüsünde, **referanslar** &gt; **iş profilleri** ' ni seçin bir &gt; ülke/bölge seçin > **[bir iş profili oluşturun](https://partner.microsoft.com/referrals/businessprofiles/)**.
+1. İş profili **İş Ortağı Merkezi'yi** seçin  ve ardından İş profili &gt;  &gt; oluştur'> **[ülke/bölge seçin.](https://partner.microsoft.com/referrals/businessprofiles/)**
 
-2. **İş profili oluştur** sayfasında, bir bölge seçin ve ardından profil bilgilerinizi girin.
+2. İş **profili oluştur sayfasında** bir bölge seçin ve profil bilgilerini girin.
    > [!NOTE]  
-   >  Iş ortağı merkezi birden çok dili desteklese de, açıklama ve serbest form etiketleri gibi bazı öğelerin, bu konuda belirtildiği gibi farklı dillerdeki metinleri içermesi gerekebilir.
+   >  Bu İş Ortağı Merkezi dil desteğine sahipken, açıklama ve serbest biçimli etiketler gibi bazı öğelerin bu konu başlığında da olduğu gibi farklı dillerdeki metinleri içermesi gerekir.
 
 ### <a name="partner-information"></a>İş ortağı bilgileri
 
-Şirketinizi tanıtın, bir logo ve kısa bir açıklama ve Web sitenizin bağlantısını ekleyin. 
+Bir logo ve kısa bir açıklama ek olarak web sitenizin bağlantısını ekleyerek şirketinizi tanıtın. 
 
-Logo, en fazla 300 piksel genişliği olan bir GIF, JPG veya PNG dosyası olabilir. Kare veya uzun boyut oranlarını kullanmanızı öneririz. Uzun boyut oranları önerilmez.
+Logo, en fazla 300 piksel genişliğinde bir GIF, JPG veya PNG dosyası olabilir. Kare veya uzun en boy oranları kullanılması önerilir. Uzun en boy oranları önerilmez.
 
-Açıklamanız en fazla 2500 karakter olabilir. harika bir açıklama için İpuçları: 
+Açıklamanız en fazla 2500 karakter olabilir. İpuçları bir açıklama için: 
 
--  İlk cümleden veya iki adımda önemli olan kısa, önde **olun**. Bu, müşterilerin dikkatini yakalayan başlık olmalıdır. İş ortağı arama deneyimini bul bölümünde, arama sonuçları önizlemesinde ilk satırı veya ikisini gösteririz.
--  **Microsoft 'a özgü tekliflerle şirketinizin deneyimlerine odaklanın**. Başvuruları arayan müşteriler genellikle Microsoft 'a özgü deneyimle iş ortaklarına bakıyor.
--  **Madde Işaretlerini kullanın**. Taramayı kolaylaştırmak için, bilgileri madde işaretli listelere bölün.
--  **Öğretmek kullanmaktan kaçının**. Tekliflerinizi kendi gerçekleştirdikleri gibi basit, gündelik bir dille ve müşterilerin gerçekleştirmesi için kullandıkları görev ya da amaca uygun bir şekilde kullanın.
--  **Arama anahtar sözcükleriyle açıklamayı doldurmaya endişelenmeyin**. Müşteri arama araçları, açıklama değil Iş ortağı uzmanlığı bölümünde oluşturulan anahtar sözcükleri arar.
--  **Profilinizi güncel tutun**. Her yazılım veya hizmet sürümünde, profilinizi güncelleştirin ve şirket web sitesiyle eşitlenmiş halde tutun.
--  Diğer bir **Microsoft iş ortağı şirkete**, bir yan kuruluş olmadığı veya başka türlü şirketinizle bağlantılı olmadığı ya da bu iş ortağı şirketiyle işbirliği yaparak iş ortaklığı ve/veya diğer paylaşılan iş fırsatları için yükseltme yapan geçerli bir anlaşmanız olduğu anlamına gelir.
--  **Birden çok dile sahip bölgeler için**, açıklamada bulunan birden çok dilden metin de dahil etmeyi göz önünde bulundurun.
+-  **Kısa,** ilk veya iki cümlede önemli olanlarla birlikte. Bu, müşterilerin dikkatini çeken başlıktır. İş ortağı bul arama deneyiminde, arama sonuçları önizlemesinde ilk veya iki satırı gösteririz.
+-  **Microsoft'a özgü tekliflerle şirketinizin deneyimlere odaklanın.** Referans arayan müşteriler genellikle Microsoft'a özgü deneyime sahip iş ortaklarını arıyor.
+-  **Madde işaretleri kullanın.** Taramayı kolaylaştırmak için bilgileri madde işaretli listelere kesin.
+-  **jargon'undan kaçının.** Basit, günlük dil kullanarak tekliflerinizi ne yapacaklarına göre adlandırabilirsiniz: ele alan iş ihtiyaçları veya müşterilerin başarmalarına yardımcı olacak görev veya hedef.
+-  **Açıklamayı arama anahtar sözcükleriyle doldurma konusunda endişelenmeyin.** Müşteri arama araçları, açıklama değil İş Ortağı Uzmanlığı bölümünde oluşturulan anahtar sözcükleri aramaktadır.
+-  **Profilinizi güncel tutma.** Her yazılım veya hizmet sürümüyle, profilinizi güncelleştirin ve bunu şirket web sitenize eşit olarak bırakın.
+-  **Bir yan kuruluş** olmadığı veya başka bir şekilde şirketinize bağlı olmadığı sürece ya da bu iş ortağı şirketiyle ortak hareket etmek ve/veya paylaşılan iş fırsatları için birbirini teşvik etmek için geçerli bir sözleşmeniz yoksa, başka bir Microsoft iş ortağı şirketine adıyla bakma.
+-  **Birden çok dili olan bölgeler için,** açıklamaya birden çok dilden metin eklemeyi göz önünde bulundurarak.
 
-#### <a name="linkedin-company-page-more-ways-to-connect"></a>LinkedIn Şirket sayfası: bağlanmanın daha fazla yolu
+#### <a name="linkedin-company-page-more-ways-to-connect"></a>LinkedIn şirket sayfası: Bağlanmanın diğer yolları
 
-Potansiyel müşterilere olan bağlantılarınızı güçlendirmek için LinkedIn Şirket sayfanızı ekleyin. 
+Potansiyel müşterilerle bağlantılarınızı güçlendirmek için LinkedIn şirket sayfanızı ekleyin. 
 
-Bu bağlantıyı eklediğinizde müşteriler LinkedIn platformu aracılığıyla kuruluşunuz hakkında daha fazla bilgi görüntüleyebilir.
+Bu bağlantıyı dahil edersiniz, müşteriler LinkedIn platformu aracılığıyla kuruluş hakkında daha fazla bilgi edinecek.
 
-Zaten LinkedIn Şirket sayfanız yoksa, [Şimdi bir tane oluşturabilirsiniz](https://www.linkedin.com/company/setup/new/).
+LinkedIn şirket sayfanız yoksa şimdi bir tane [oluşturabilirsiniz.](https://www.linkedin.com/company/setup/new/)
 
 ### <a name="partner-expertise"></a>İş ortağı uzmanlığı
 
-**Iş ortağı bul** arama araçları, uzmanlık etiketlerini arar. Profilinizin görünürlük kazanmasına yardımcı olmak için bu etiketleri iyileştirin.
+İş **Ortağı Bul arama** araçları uzmanlık etiketlerine bakar. Profilinizin görünürlük kazanmanıza yardımcı olmak için bu etiketleri en iyi duruma getirme.
 
-Iş ortağı uzmanlığı bölümüne kendi etiketlerinizi ekleyerek başlayın. Ekleyebileceğiniz Etiketler: 
+başlangıç olarak İş Ortağı Uzmanlığı bölümüne kendi etiketlerinizi ekleyin. Ekleyebilirsiniz etiketler: 
 
--  **Sektör odağı etiketleri**
--  **Ürünleri**. Microsoft ürünleriyle sınırlı
+-  **Sektöre odaklanan etiketler**
+-  **Ürünler.** Microsoft ürünleriyle sınırlıdır
 -  **Hizmet türü**
--  **Çözümler, yetenekler ve yetenekler**. Bu Etiketler serbest biçimli ve olanaklarınız için benzersiz olan arama anahtar sözcükleri ekleme olanağı sunar.
+-  **Çözümler, beceriler ve özellikler.** Bu etiketler serbest biçimlidir ve size özelliklerinize özgü arama anahtar sözcükleri ekleme olanağı sağlar.
 
-Aramada kullanılan diğer Etiketler:
+Aramada kullanılan diğer etiketler:
 
-- **Uzmanlığa ait Etiketler** , şirketinizin yeteneklerini gösteren bir kazanılan atamalardır.
+- **Uzmanlık etiketleri,** şirketinizin özelliklerini göstermek için kazanılan bir atamadır.
 
 ### <a name="customer-preferences"></a>Müşteri tercihleri
 
-#### <a name="target-size"></a>Hedef boyutu
+#### <a name="target-size"></a>Hedef boyut
 
-Hedef müşteri boyutunuzu karşılamayan işletmelerin başvurularını devre dışı bırakabilirsiniz.
+Hedef müşteri boyutuna uygun olan işletmelerden referansları geri 3' lersiniz.
 
-Birlikte çalışarak, çalışmayı tercih ettiğiniz işletmeler için bir eşleşme olan işletmeler için daha fazla zaman harcamanız gerekir.
+Bu seçeneği devre dışı bırakmanız, çalışmak için tercih ettiği işletmelere uygun olan işletmelere daha fazla zaman harcayabilirsiniz.
 
 #### <a name="locations"></a>Konumlar
 
-Her bölge için en fazla 5 şirketinizin en fazla konumunu ekleyebilirsiniz. Bu konumlar, müşteriler bir yakınlık ile iş ortakları ararken görüntülenir.
+Her bölge için en fazla 5 şirket konumu eklemeniz gerekir. Müşteriler yakınlıklarına göre iş ortakları araysa bu konumlar görünür.
 
-Resmi şirket konumları olan ve doğrulanabilen konumları belirtin. Sunmanız gereken pazarlar için merkezi olan konumları seçin ve şirketinizin yerine getirme yeteneğini en iyi şekilde temsil edin.
+Resmi şirket konumları olan ve doğrulanabilir konumları belirtebilirsiniz. Hizmet vermekte olduğu pazarların merkezi olan ve en iyi temsil eden konumları seçin.
 
-Konum bilgilerini güncelleştirmeyi tamamladığınızda, **Bu konumu** Kaydet ' i seçin veya **Bu konumu kaydedin ve başka bir tane ekleyin** (yalnızca bir konum ekliyorsanız bile).
+Konum bilgilerini güncelleştirmeyi bitirdikten sonra  Bu konumu kaydet veya Bu konumu kaydet'i seçin ve başka bir konum ekleyin **(yalnızca** bir konum ekliyorsanız bile).
 
-Eklediğiniz her konum ayrı bir profil sayfası haline gelir. Profil sayfalarını güncelleştirirken her konum için güncelleştirdiğinizden emin olun.
+Ekley istediğiniz her konum ayrı bir profil sayfası haline gelir. Profil sayfalarını güncelleştiriyorken, bunları her konum için güncelleştirin.
 
-Bir konumun adresini güncelleştirmek için önce konumu **silip** yeniden eklemeniz gerekir.
+Bir konumun adresini güncelleştirmek için önce konumu **silmeniz** ve yeniden eklemeniz gerekir.
 
-5 üst konumdayken ve birini değiştirmeniz gerekiyorsa, önce var olan konumu **silin** ve yeni konumu ekleyin.
+En üst 5 konumda yer aldıysanız ve bunlardan birini değiştirmeniz gerekirse **önce** Mevcut bir konumu silin ve yeni konumu ekleyin.
 
-## <a name="review-your-profile"></a>Profilinizi gözden geçirin
+## <a name="review-your-profile"></a>Profilinizi gözden geçirme
 
-Profilinizi yayımladıktan sonra, [çözüm bulma sağlayıcısında](https://www.microsoft.com/solution-providers/home) 24 saat içinde arama yapmak için güncelleştirmeler görüntülenir.
+Profilinizi yayımladıktan sonra güncelleştirmeler 24 [saat içinde Çözüm sağlayıcısı](https://www.microsoft.com/solution-providers/home) bul aramalarında görünür.
 
 ## <a name="improve-the-visibility-of-your-profile"></a>Profilinizin görünürlüğünü geliştirme
 
-- **[İstekleri hızla yanıtlayın](manage-leads.md)**. Bir müşteri başvurusu aldığınızda, daha hızlı bir yanıt, gelecekteki müşterilere yönelik arama sayfalarında daha iyi sonuçlar elde edebilir.
+- **[İsteklere hızla yanıt verin.](manage-leads.md)** Müşteri referansı alırsanız daha hızlı bir yanıt, gelecekteki müşteriler için arama sayfalarında daha iyi sonuçlara yol açabilirsiniz.
 
-- **Etiketlerinizi seçmeli olarak yapın**.  Şirketinizin tekliflerini, çözümlerini, değer prokonumlarını ve başarılı bir şekilde başarıyla gösterebileceğiniz benzersiz konumu en iyi şekilde temsil eden daha az etikete sahip olmak daha iyidir.  Bu, gelecekteki arama sonuçlarında ücret ödeyecektir.
-- Ürünlerimizde yeterliliğinizi göstermek için Microsoft ile **uzmanlığa yönelik Etiketler** kazanın.
+- **Etiketlerinize göre seçime bağlı olun.**  Şirketinizin tekliflerini, çözümlerini, değer tekliflerini ve başarıyı tutarlı bir şekilde gösterebilirsiniz benzersiz konumunu en iyi temsil eden daha az etikete sahip olmak daha iyidir.  Bu, gelecek arama sonuçlarında kar payı ödemesi sağlar.
+- **Microsoft aracılığıyla yetkinlik etiketleri** kazanarak ürünlerimizde yetkinliğinizi ortaya atabilirsiniz.
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-[Başvurularına yanıt verme](manage-leads.md)
+[Referanslara yanıt verme](manage-leads.md)

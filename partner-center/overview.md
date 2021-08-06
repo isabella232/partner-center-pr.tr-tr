@@ -8,12 +8,12 @@ description: İş ortağı merkezini Microsoft ve müşterilerinizle Transact Bu
 author: jasongroce
 ms.author: jasongroce
 ms.localizationpriority: high
-ms.openlocfilehash: d60adb307e57fb63e0257954f3f0cc578f9c25d1
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 381e523a47526edeb6756f72948a5c36f934304b58edfa003e9f2dad482224f1
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114843349"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115696571"
 ---
 # <a name="what-is-partner-center"></a>İş Ortağı Merkezi nedir?
 

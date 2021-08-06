@@ -10,12 +10,12 @@ author: v-sumukh
 ms.author: v-sumukh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: eea221af22e9bd7aa684bc5120b0799f083f8663
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: dd50b12bdffd9594367e699e9ee044306a226736f669366e2fae9ac94c338da2
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114836109"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115681408"
 ---
 # <a name="view-your-business-data-with-the-partner-center-analytics-app-for-microsoft-power-bi"></a>İş verilerinizi Microsoft için Partner Center Analytics uygulaması ile görüntüleyin Power BI
 

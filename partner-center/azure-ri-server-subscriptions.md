@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 11/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-pricing
-description: Müşteriler için Azure Bulut Çözümü Sağlayıcısı ve Sunucu aboneliklerini edinme, sağlama ve yönetme fırsatlarını öğrenin.
+description: Müşteriler için Bulut Çözümü Sağlayıcısı Azure rezervasyonlarını ve Sunucu aboneliklerini edinme, sağlama ve yönetme fırsatlarını öğrenin.
 author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 752b7b9eee2da69dec597f56d1ddc2968aa7c29a
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 18b52fe72614ef6c0b501af4ecb4aafffd0150d89eaf50f255663aa6f831345d
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114841394"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115680694"
 ---
 # <a name="acquire-provision--manage-azure-reserved-vm-instances-ri--server-subscriptions-for-customers"></a>Müşteriler için Azure ayrılmış vm & (RI) + sunucu aboneliklerini edinme, sağlama ve yönetme
 
@@ -28,7 +28,7 @@ Azure Rezervasyonları bir yıllık veya üç yıllık sanal makine, SQL Veritab
 
 ## <a name="why-should-customers-buy-a-reservation"></a>Müşteriler neden rezervasyon satın alsın?
 
-Müşterilerin sanal makineleri, Azure Cosmos DB veya SQL uzun süre çalıştıran veritabanları varsa, rezervasyon satın almak onlara en uygun maliyetli seçeneği sunar. Örneğin, bir müşteri sürekli olarak rezervasyon olmadan bir hizmetin dört örneğini çalıştırırsa, bu müşterilere, öde öde fiyatlarıyla ücret tahsil edilir. Bu kaynaklar için rezervasyon satın almaları durumunda hemen rezervasyon indirimi elde edilir. Kaynaklar artık kullandıkça öde tarifelerine göre ücretlendirilmez.
+Müşterilerin sanal makineleri, Azure Cosmos DB veya SQL uzun süre çalıştıran veritabanları varsa, rezervasyon satın almak onlara en uygun maliyetli seçeneği sunar. Örneğin, bir müşteri sürekli olarak rezervasyon olmadan bir hizmetin dört örneğini çalıştırırsa, bu müşteri, öde öde fiyatlarıyla ücret öder. Bu kaynaklar için rezervasyon satın almaları durumunda hemen rezervasyon indirimi elde edilir. Kaynaklar artık kullandıkça öde tarifelerine göre ücretlendirilmez.
 
 ### <a name="compelling-new-azure-offer-in-csp"></a>CSP'de Cazip Yeni Azure teklifi
 
@@ -63,7 +63,7 @@ Azure Rezervasyonlarını müşterilerinizle nasıl konumlandırmanız ve mümk�
 
 1. Yeni ticaret operasyonları kılavuzunu [İş Ortağı Merkezi ve anlıyoruz.](https://partner.microsoft.com/resources/detail/partner-center-new-commerce-operations-guide-pdf)
 
-2. [İş Ortağı Merkezi API'sinde (API/SDK)](/partner-center/develop/purchase-azure-reserved-vm-instances)Azure Rezervasyonları ve Sunucu Abonelikleri güncelleştirmelerini anlama.
+2. [İş Ortağı Merkezi API'sinde (API/SDK) Azure Rezervasyonları ve Sunucu Abonelikleri güncelleştirmelerini anlama.](/partner-center/develop/purchase-azure-reserved-vm-instances)
 
 
 ### <a name="sales-readiness"></a>Satış için hazır olma

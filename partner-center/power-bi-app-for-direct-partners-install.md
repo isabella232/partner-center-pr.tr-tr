@@ -10,12 +10,12 @@ author: v-sumukh
 ms.author: v-sumukh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a07742a55df088842f6bac1a1cbdd65bf0db8282
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 7c6ee1c14f79a0d521a94801272473369befa753a49557645681634e248b81e0
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114842669"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115681459"
 ---
 # <a name="install-and-preview-the-partner-center-analytics-app-for-microsoft-power-bi"></a>Microsoft Power BI için İş Ortağı Merkezi Analizi uygulamasını yükleme ve önizleme
 

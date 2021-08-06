@@ -1,6 +1,6 @@
 ---
-title: İş ortağı öngörüleri analiz verilerine erişmek için ilk API çağrısını yapın
-description: İş ortağı öngörüleri Analizi verilerine erişmek için API kullanmayı öğrenme örnekleri.
+title: İş ortağı içgörüleri analiz verilerine erişmek için ilk API çağrınızı yapma
+description: İş ortağı içgörüleri analiz verilerine erişmek için API'yi kullanmayı öğrenme örnekleri.
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-insights
@@ -8,22 +8,22 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.date: 07/14/2021
-ms.openlocfilehash: 9aac83645051f3e8f32945ae908ba1fe47c08d13
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 76fb1b113a44e195114d67d79f192b3c2dce1071b7502f01af20387f69d62a8f
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114840034"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115697474"
 ---
-# <a name="make-your-first-api-call-to-access-partner-insights-analytics-data"></a>İş ortağı öngörüleri analiz verilerine erişmek için ilk API çağrısını yapın
+# <a name="make-your-first-api-call-to-access-partner-insights-analytics-data"></a>İş ortağı içgörüleri analiz verilerine erişmek için ilk API çağrınızı yapma
 
-Partner Insights Analytics verilerine erişim için API 'lerin bir listesi için bkz. [partner Insights Analytics verilerine erişim Için API 'ler](insights-programmatic-analytics-available-api.md). ilk apı çağrısını yapmadan önce, iş ortağı Analizler analytics verilerine programlı bir şekilde erişmek için [önkoşulları](insights-programmatic-prerequisites.md) karşıladığınızdan emin olun.
+İş ortağı içgörüleri analiz verilerine erişmek için API'ler listesi için bkz. İş ortağı [içgörüleri analiz verilerine erişmek için API'ler.](insights-programmatic-analytics-available-api.md) İlk API çağrınızı yapmadan önce, İş [](insights-programmatic-prerequisites.md) Ortağına ve analiz verilerine program aracılığıyla erişmek için önkulları Analizler olun.
 
 ## <a name="token-generation"></a>Belirteç oluşturma
 
-yöntemlerden herhangi birini çağırmadan önce, önce bir Azure Active Directory (AAD) erişim belirteci edinmeniz gerekir. Azure AD erişim belirtecini API 'deki her yöntemin yetkilendirme üstbilgisine geçirmeniz gerekir. Erişim belirteci aldıktan sonra, süresi dolmadan önce onu kullanmanız 60 dakika sürer. Belirtecin süresi dolduktan sonra belirteci yenileyebilir ve API 'ye yönelik daha fazla çağrı için kullanmaya devam edebilirsiniz.
+Yöntemlerden herhangi birini çağırmadan önce bir Azure Active Directory (AAD) erişim belirteci elde edin. Api'de her yöntemin Yetkilendirme üst bilgisinde Azure AD erişim belirteci geçmeniz gerekir. Erişim belirteci edindikten sonra, süresi dolmadan önce kullanmak için 60 dakika süreniz vardır. Belirteci süresi dolsa da belirteci yeniler ve API'ye yapılan diğer çağrılar için kullanmaya devam edersiniz.
 
-Belirteç oluşturmak için aşağıdaki örnek bir isteğe başvurun. Belirteci oluşturmak için gereken üç değer `clientId` , ve ' dir `clientSecret` `tenantId` . Kaynak parametresi olarak ayarlanmalıdır `https://api.partnercenter.microsoft.com`
+Belirteç oluşturmak için aşağıdaki örnek isteğine bakın. Belirteci oluşturmak için gereken üç değer , `clientId` `clientSecret` ve `tenantId` değerleridir. Kaynak parametresi şu şekilde ayar olmalıdır: `https://api.partnercenter.microsoft.com`
 
 #### <a name="request-example"></a>İstek örneği
 
@@ -55,40 +55,40 @@ curl --location --request POST 'https://login.microsoftonline.com/<tenantId>/oau
 }
 ```
 
-Uygulamanız için bir Azure AD belirteci alma hakkında daha fazla bilgi için bkz [. Store Services kullanarak Analytics verilerine erişme.](/windows/uwp/monetize/access-analytics-data-using-windows-store-services#step-2-obtain-an-azure-ad-access-token)
+Uygulamanıza azure AD belirteci alma hakkında daha fazla bilgi için [bkz. Store hizmetlerini kullanarak analiz verilerine erişme.](/windows/uwp/monetize/access-analytics-data-using-windows-store-services#step-2-obtain-an-azure-ad-access-token)
 
 ## <a name="programmatic-api-call"></a>Programlı API çağrısı
 
-Önceki bölümde açıklandığı gibi AAD belirtecini elde ettikten sonra, ilk programlı erişim raporunuzu oluşturmak için aşağıdaki adımları izleyin.
+Önceki bölümde açıklandığı gibi AAD Belirteci'ne sahip olduktan sonra, ilk programlı erişim raporlarınızı oluşturmak için aşağıdaki adımları izleyin.
 
-Veriler aşağıdaki veri kümelerinden indirilebilir (datasetName):
+Veriler aşağıdaki veri kümelerinden (datasetName) indirilebilir:
 
-- Customersandkiracılar
+- CustomersAndTenants
 - SeatsSubscriptionsAndRevenue
-- Azurekullanım
-- Msöğren
-- Officekullanımı
+- AzureUsage
+- MSLearn
+- OfficeUsage
 - Profil
-- Tamamlama
+- TrainingCompletions
 - DynamicsUsage
 - CompetencySummaryHistory
 - PowerBIUsage
 - EMSUsage
 - CompetencyPeformanceRequirement
-- Resellerperformans
+- ResellerPerformance
 - CLASAgreementRenewalsPropensity
 - CLASAzurePropensity
 - CLASD365Propensity
 - CLASM365Propensity
 - TeamsUsage3PApps
 - TeamsUsageWorkload
-- Teamsusagemeeting ınsandçağrılarında
+- TeamsUsageMeetingsAndCalls
 
-Aşağıdaki bölümde, `SubscriptionId` DynamicsUsage veri kümesinden programlı olarak nasıl eriştireceğiz örnekleri görüyoruz.
+Aşağıdaki bölümde, DynamicsUsage veri kümesinden program aracılığıyla nasıl `SubscriptionId` erişilene örnekler göreceğiz.
 
-### <a name="step-1-make-a-rest-call-using-the-get-datasets-api"></a>1. Adım: Get DataSet API 'sini kullanarak REST çağrısı yapma
+### <a name="step-1-make-a-rest-call-using-the-get-datasets-api"></a>1. Adım: Veri kümelerini al API'sini kullanarak REST çağrısı yapma
 
-API yanıtı, raporu indirebileceğiniz veri kümesi adını sağlar. Belirli bir veri kümesi için, API yanıtı özel rapor şablonunuz için kullanılabilen seçilebilir sütunların listesini de sağlar. Ayrıca, sütunların adlarını almak için [veri tanımlarına](insights-data-definitions.md) de başvurabilirsiniz.
+API yanıtı, raporu indirebilirsiniz veri kümesi adını sağlar. Api yanıtı, belirli bir veri kümesi için özel rapor şablonunuz için değiştirilebilir sütunların listesini de sağlar. Sütunların adlarını almak [için Veri](insights-data-definitions.md) Tanımları'ne de başvurabilirsiniz.
 
 #### <a name="request-example"></a>İstek örneği
 
@@ -162,9 +162,9 @@ curl
 }
 ```
 
-### <a name="step-2-create-the-custom-query"></a>2. Adım: özel sorgu oluşturma
+### <a name="step-2-create-the-custom-query"></a>2. Adım: Özel Sorgu Oluşturma
 
-Bu adımda, istediğimiz rapor için özel bir sorgu oluşturmak üzere DynamicsUsage veri kümesinden SubscriptionID kullanacağız. Sorguda belirtilmemişse varsayılan TimeSpan 6 aydır.
+Bu adımda, DynamicsUsage veri kümesinden SubscriptionId kullanarak istediğiniz rapor için özel bir sorgu oluşturuz. Sorguda belirtilmezse varsayılan zaman süresi 6 aydır.
 
 #### <a name="request-example"></a>İstek örneği
 
@@ -205,11 +205,11 @@ curl
 }
 ```
 
-Sorgunun başarıyla yürütülmesi sırasında, `queryId` raporu oluşturmak için kullanılması gereken bir oluşturulur.
+Sorgunun başarıyla yürütülmesi `queryId` sırasında, raporu oluşturmak için kullanılacak bir oluşturulur.
 
-### <a name="step-3-execute-test-query-api"></a>3. Adım: test sorgu API 'sini yürütme
+### <a name="step-3-execute-test-query-api"></a>3. Adım: Test sorgusu API'sini yürütme
 
-Bu adımda, oluşturulan sorgunun ilk 100 satırını almak için test sorgu API 'sini kullanacağız.
+Bu adımda, oluşturulan sorgu için ilk 100 satırı almak üzere test sorgusu API'sini kullanıyoruz.
 
 #### <a name="request-example"></a>İstek örneği
 
@@ -267,9 +267,9 @@ curl
 }
 ```
 
-### <a name="step-4-create-the-report"></a>4. Adım: raporu oluşturma
+### <a name="step-4-create-the-report"></a>4. Adım: Raporu oluşturma
 
-Bu adımda, raporu oluşturmak için önceden oluşturulan QueryId 'yi kullanacağız.
+Bu adımda, raporu oluşturmak için önceden oluşturulmuş QueryId'leri kullanıyoruz.
 
 #### <a name="request-example"></a>İstek örneği
 
@@ -328,11 +328,11 @@ curl
 }
 ```
 
-Başarılı bir yürütme sırasında, `reportId` raporun karşıdan yüklenmesini zamanlamak için kullanılması gereken bir oluşturulur.
+Başarılı bir `reportId` yürütmede, raporun indirilmlerini zamanlaması için kullanılacak bir oluşturulur.
 
-### <a name="step-5-execute-report-executions-api"></a>5. Adım: rapor yürütmeleri API 'sini yürütme
+### <a name="step-5-execute-report-executions-api"></a>5. Adım: Rapor Yürütme API'sini Yürütme
 
-Bu adımda, raporun güvenli konumunu (URL) almak için rapor yürütmeleri API 'sini kullanacağız.
+Bu adımda, raporun güvenli konumunu (URL) almak için Rapor YürütmeLERI API'sini kullanıyoruz.
 
 #### <a name="request-example"></a>İstek örneği
 
@@ -373,4 +373,4 @@ Curl
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-- [Swagger API URL 'si](https://api.partnercenter.microsoft.com/insights/v1/mpn/swagger/index.html) aracılığıyla API 'leri deneyin
+- [Swagger API URL'si aracılığıyla API'leri deneyin](https://api.partnercenter.microsoft.com/insights/v1/mpn/swagger/index.html)

@@ -9,12 +9,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0fa4612a3617cd68a0a1c7c55a316143ed0aff37
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 6c119f46d0eb6f37e035037dc554e545770f5f5f21497ef184f7bcc1629915a8
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114844164"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115681102"
 ---
 # <a name="verify-your-account-information-when-you-enroll-in-a-new-partner-center-program"></a>Yeni bir İş Ortağı Merkezi programına kaydolarak hesap İş Ortağı Merkezi doğrulayın
 
@@ -23,7 +23,7 @@ ms.locfileid: "114844164"
 İş Ortağı Merkezi'da yeni bir programa kaydolarak, Microsoft kaydınızı (örneğin, şirket adınız, şirket adresiniz ve birincil iletişim ayrıntıları) doğrular. Bu işlem sırasında Microsoft, daha fazla doğrulama belgesi talep etmek için birincil ilgili kişinize e-posta gönderebilir.
 
 >[!NOTE]
->E-postayı alasınız diye e-postayı "güvenli" Microsoft.com olarak işaretlemeyi ve Gereksiz e-posta klasörleri'ne bakabilirsiniz.
+>E-postayı alasınız, e-postayı "güvenli" etki alanı Microsoft.com bayrakla işaretlemeyi ve Gereksiz e-posta klasörlerini denetlemeyi kontrol edin.
 
 Birincil kişi sizseniz (Genel yönetici veya Hesap yöneticisi), doğrulama durumunu izlemek ve ilerleme durumunu izlemek için İş Ortağı Profilinize gitmenizi öneririz.
 

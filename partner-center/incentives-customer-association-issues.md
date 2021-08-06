@@ -8,12 +8,12 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 09/11/2020
-ms.openlocfilehash: 8f1c087911e6dd7e58182c99e2b97b7a6b2246d8
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: d23c95981c39bb9b9773e3b1e6f474146f41325546cc5f96408237e2213280d2
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110152180"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115681816"
 ---
 # <a name="issues-with-claimed-partner-of-record-cpor-customer-associations"></a>Talep edilen kayıt Iş ortağı (CPOR) müşteri ilişkilendirmeleri ile ilgili sorunlar
 
@@ -27,7 +27,7 @@ Istenen kayıt Iş ortağı (CPOR) ilişki talep akışı içinde, müşteri kir
 
 ## <a name="subscription-errors-in-the-cpor-association-claim-flow"></a>CPOR ilişkilendirme talep akışındaki abonelik hataları
 
-CPOR ilişkilendirme talep akışında, Business Applications (Dynamics 365) aracılığıyla talep kurmaya çalıştığınız bir ürün için abonelik sağlamanız istenebilir. Ürünün ve aboneliğin, için talep edilen kiracıya ait olduğunu dinamik olarak denetliyoruz, aboneliği soruyoruz. Ayrıca aboneliğin etkin/yetkisiz kullanım durumunda olduğunu denetliyoruz.
+cpor ilişkilendirme talep akışında, Business Applications (Dynamics 365) aracılığıyla talep kurmaya çalıştığınız bir ürün için abonelik sağlamanız istenebilir. Ürünün ve aboneliğin, için talep edilen kiracıya ait olduğunu dinamik olarak denetliyoruz, aboneliği soruyoruz. Ayrıca aboneliğin etkin/yetkisiz kullanım durumunda olduğunu denetliyoruz.
 
 Hatayı alırsanız bunun çeşitli nedenleri olabilir:
 
@@ -44,21 +44,21 @@ Bu yol sorununuzu çözümlemezse [desteğe](https://partner.microsoft.com/dashb
 
 ## <a name="when-subscriptions-will-be-available-to-claim"></a>Abonelikler talep için kullanılabilir olacaktır
 
-Abonelik için işlem gerçekleştirirken abonelik henüz sağlanmadıysa bir hata alırsınız. Aboneliğin, abonelik veya platformun bu uygulamayı seçmesini ve talep etmek için kullanılabilir hale gelmesi için yapması gereken birkaç adım vardır. Bir aboneliği talep etmeye çalışırken hata alıyorsanız, sağ olduğundan ve talepte bulundurarak aboneliğin doğru olduğundan emin olmak için müşterinize ulaşın. Bu yolu zaten kullandıysanız destek ile iletişime [geçin.](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives)
+Abonelik için işlem gerçekleştirirken abonelik henüz sağlanmadıysa bir hata alırsınız. Aboneliğin, abonelik veya platformun bu uygulamayı seçmesini ve talep etmek için kullanılabilir hale gelmesi için yapması gereken birkaç adım vardır. Abonelik talep edilmeye çalışılırken bir hata alıyorsanız, sağlanmış olduğundan ve istediğiniz aboneliğin doğru olduğundan emin olmak için müşteri ile iletişim kurun. Bu yolu zaten aldıysanız, [desteğe](https://partner.microsoft.com/dashboard/support/incentives/servicerequests?category=incentives)başvurun.
 
-## <a name="which-activity-do-i-choose"></a>Hangi etkinliği seçerim?
+## <a name="which-activity-do-i-choose"></a>Hangi etkinliği seçeceğim?
 
-CPOR talep platformu, belirli bir çözüm alanıyla ve Business Applications CPOR ilişkilendirme Microsoft 365 sağlar. Her çözüm alanı için geçerli olan etkinlikler aşağıda verilmiştir. Gelecekte geri kabul etmek zorunda kalmamak için açıklamalara göre doğru etkinliği seçin. Hatalı bir etkinlikle talepte bulundurarak uygunluk ve teşvik kazançları eksik olabilir.
+cpor istek çözümü platformu, Business Applications ve Microsoft 365 çözüm alanlarıyla ilgili cpor ilişki taleplerine izin verir. Her çözüm alanı için geçerli olan etkinlikler aşağıda verilmiştir. Gelecekte geri kazanmak zorunda kalmamak için açıklamalara göre doğru etkinliği seçin. Yanlış bir etkinlikle Sonuçlama, eksik uygunluk ve bir kazanç elde edilmesine yol açabilir.
 
 
-| Çözüm alanı | Etkinlik | Şu için geçerlidir: |
+| Çözüm alanı | Etkinlik | İçin geçerlidir |
 | ------ | ----------- | ----------- |
-| İş uygulamaları      | Satış öncesi   | Uygun bir ürün satın almalarını etkilediy ve satış öncesi teşviklere başvurmayı seçin. Bu seçenek yalnızca müşterinin bu ürünleri Toplu Lisanslama sözleşmesi veya Web-Direct aracılığıyla satın almaları için geçerlidir. |
-|    |  Kullanım  | Uygun bir iş yükünün benimsenme ve kullanımını teşvik ediyorsanız ve kullanım teşvikleri için uygulamak mı istediğinizi seçin. Bu seçenek yalnızca müşterinin bu ürünleri Toplu Lisanslama sözleşmesi veya Web-Direct aracılığıyla satın almaları için geçerlidir. |
-|    | Gelir ilişkilendirmesi   | Uygun ürün seçiminin İş EtkisiNesnesi olarak etkilep etkilemediynizi seçin. Bu seçenek teşvik ödemeleri için değil yalnızca gelir ilişkilendirmesi için kullanılabilir. Bu seçenek yalnızca müşterinin bu ürünleri Toplu Lisanslama sözleşmesi veya Web-Direct aracılığıyla satın almaları için geçerlidir.   |
-| Microsoft 365   | Kullanım   | Uygun bir iş yükünün benimsenme ve kullanımını teşvik ediyorsanız ve kullanım teşvikleri için başvurup uygulamak istemiyorsanız seçin. |
+| İş uygulamaları      | Satış öncesi   | Uygun bir ürünün satın almasını etkileyenler ve satış öncesi teşvikleri için uygulama kullanmak istiyorsanız seçin. Bu seçenek yalnızca müşteri bu ürünleri toplu lisanslama sözleşmesi veya Web-Direct aracılığıyla satın aldıysa geçerlidir. |
+|    |  Kullanım  | Uygun bir iş yükünün benimseme ve kullanımını ve kullanım teşvikleri için uygulamak istediğinizi seçin. Bu seçenek yalnızca müşteri bu ürünleri toplu lisanslama sözleşmesi veya Web-Direct aracılığıyla satın aldıysa geçerlidir. |
+|    | Gelir ilişkisi   | Uygun bir ürünün seçimini bir Iş etkileyen olarak etkileyenler ' i seçin. Bu seçenek yalnızca gelir ilişkilendirmesi amaçlıdır, bu ödemeleri teşvik etmek için değildir. Bu seçenek yalnızca müşteri bu ürünleri toplu lisanslama sözleşmesi veya Web-Direct aracılığıyla satın aldıysa geçerlidir.   |
+| Microsoft 365   | Kullanım   | Uygun bir iş yükünün benimseme ve kullanımını ve kullanım teşvikleri için uygulamak istediğinizi seçin. |
 
-## <a name="which-mpn-do-i-choose"></a>Hangi MPN'yi seçerim?
+## <a name="which-mpn-do-i-choose"></a>Hangi MPN 'yi seçeceğim?
 
 CPOR ilişkilendirme talep akışında, son Müşterideki için yaptığınız iş ile ilişkilendirilmesi gereken bir şirket MPN seçmeniz istenir. Şirketiniz, bir kısmı bir veya daha fazla bilgisayar ve FRP FastTrack gibi bir iş ortağı türüyle ilişkili birçok MPNs olabilir. CPOR ilişkilendirme talep akışı, bir bir bir bir bir bir bir bir bir bir iş ortağı türü olarak hangi MPNs 'nin kaydedildiğini belirler, ancak belirli bir iş ortağı türü olan MPN olduğunu söylemez. İleride geri kazanmak zorunda kalmamak için doğru MPN 'yi seçmeniz önemlidir. Yanlış MPN ile Sonuçlama, eksik uygunluk ve teşvik kazanmına yol açabilir.
 
@@ -80,10 +80,10 @@ Zaten başka bir iş ortağıyla ilişkili olan bir müşteri ve ürünleri içi
 
 3. Her iki iş ortağının da ek bilgiler istenebilir ve bu da ilişkilendirme isteğinizi işlerken gecikmelere neden olabilir.
 
-4. Bu süre, daha uzun bir süre boyunca _Gözden geçirme altında_ kalabilse de, cpor ilişki talepiniz beş iş günü içinde incelenmeye devam edecektir. Bu senaryo, Microsoft şu anda ürüne/iş yüküne sahip olan iş ortağıyla birlikte çalışıyorsa meydana gelebilir. Bu durumda talebinizin açıklamalar bölümünde size bildirilecek. 
+4. Bu süre, daha uzun bir süre boyunca _Gözden geçirme altında_ kalabilse de, cpor ilişki talepiniz beş iş günü içinde incelenmeye devam edecektir. Bu senaryo, Microsoft şu anda ürüne/iş yüküne sahip olan iş ortağıyla birlikte çalışıyorsa meydana gelebilir. Bu durumda, talebin açıklamalar bölümünde bildirim alırsınız. 
 
 >[!IMPORTANT]
->CPOR ilişkilendirme yürütme kanıtınızı (PoE) doğrulamak için ek bilgi gerekirse, CPOR ilişkilendirme talebi yorumları bölümü aracılığıyla size ulaşabilirsiniz.
+>CPVEYA ilişkilendirme yürütmesinin (PoE) doğrulanması için ek bilgilere ihtiyaç duyuyorsanız, CPOR ilişkilendirme talep açıklamaları bölümü aracılığıyla sizinle iletişim kuracağız.
 
 ## <a name="next-steps"></a>Sonraki adımlar
 

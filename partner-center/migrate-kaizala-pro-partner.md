@@ -1,6 +1,6 @@
 ---
 title: Kaizala Pro aboneliklerini Microsoft 365'e geçirme
-description: Kaizala Pro aboneliklerini Microsoft 365 veya Office 365 sürümlerine geçirmeyi öğrenin. Müşterilerinizin geçişini hakkında daha fazla bilgi için bu makaleyi okuyun.
+description: Kaizala Pro aboneliklerini Microsoft 365 veya Office 365 öğrenin. Müşterilerinize geçiş hakkında daha fazla ayrıntı için bu makaleyi okuyun.
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-pricing
@@ -8,86 +8,86 @@ ms.author: sukumart
 author: sukumart
 ms.date: 06/01/2020
 localization_priority: Normal
-ms.openlocfilehash: e248657b9b4d4cf50cb7d38b2a0593ae6445bd28
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 1eae2a840d5f3b70875babca350cd0ca9d0a37e5047fc516ce8ec0b1e0ea8a74
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114843145"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115696742"
 ---
-# <a name="migrate-kaizala-pro-standalone-subscriptions-to-microsoft-365-or-office-365-versions"></a>tek başına Kaizala Pro aboneliklerini Microsoft 365 veya Office 365 sürümlere geçirme
+# <a name="migrate-kaizala-pro-standalone-subscriptions-to-microsoft-365-or-office-365-versions"></a>Tek Kaizala Pro abonelikleri Microsoft 365 veya Office 365 sürümlere geçirme
 
-**Uygun roller**: satış Aracısı
+**Uygun roller:** Satış aracısı
 
-1 temmuz 2020 tarihinden itibaren, Microsoft Kaizala Pro tek başına hizmetinin satışlarını sonlandırıyor. müşteriler artık bu tarihten sonra yeni Kaizala Pro abonelikleri satın amayacak ve mevcut Kaizala Pro abonelikleri süreleri dolduğunda otomatik olarak yenilenmeyecektir.
+Microsoft, 1 Temmuz 2020'den itibaren tek başına Kaizala Pro satışlarını sonlandırdı. Müşteriler bu tarihten sonra yeni Kaizala Pro abonelik satın alamayacak ve Kaizala Pro süresi dolduğunda otomatik olarak yenilenmeyecektir.
 
-müşterilerin devamlılığını sağlamak için, süresi dolan Kaizala Pro tek başına abonelikleriyle müşterileri aşağıda listelenen desteklenen bir SKU seçeneğine geçirmeniz gerekir. Müşterilerin hizmet kesintilerinden kaçınmak için, aboneliğin yıllık bitiş tarihinden önce müşterileri yeni aboneliklere taşımayı öneririz.
+Müşterilerin sürekliliğini sağlamak için, süresi dolan ve tek başına Kaizala Pro olan müşterileri aşağıda listelenen desteklenen bir SKU seçeneğine geçişlisiniz. Müşteriler için hizmet kesintilerini önlemek için müşterilerin aboneliğin yıllık bitiş tarihine kadar yeni aboneliklere taşınmalarını öneririz.
 
-API 'yi (CREST veya Partner Center) kullanıyorsanız, otomatik yenileme özelliği false olarak ayarlanmış şekilde, aboneliğin bitiş tarihini değerlendirerek süresi dolan abonelikleri bulabilirsiniz: `auto renew = False` .
+API'yi (CREST veya İş Ortağı Merkezi) kullanıyorsanız, aboneliğin bitiş tarihini ve otomatik yenileme özelliğini false olarak ayar kullanarak süresi dolan abonelikleri keşfedebilirsiniz: `auto renew = False` .
 
-E4 abonelikleri `auto renew=False` 1 temmuz 2020 tarihinde olarak ayarlanır. Müşterileri dilediğiniz zaman yeni bir plana taşıyabilirsiniz.
+E4 abonelikleri 1 `auto renew=False` Temmuz 2020'de olarak ayarlanır. Müşterileri yeni bir plana her zaman taşımanız gerekir.
 
 ## <a name="kaizala-pro-standalone-replacement-plans"></a>Kaizala Pro Tek başına değiştirme planları
 
-Yeni planlar sayesinde, müşterileriniz Microsoft 365 yeni özelliklerden ve işlevlerden faydalanabilir. Fiyatlandırma ayrıntıları, Iş Ortağı Merkezi 'nde fiyat listesi ve teklif listesi matrisinde bulunur.
+Yeni planlar ile müşterileriniz yeni özelliklerden ve işlevlerden faydalanarak Microsoft 365. Fiyatlandırma ayrıntıları, fiyat listesinde ve teklif listesi matrisinde İş Ortağı Merkezi.
 
-- [**iş için Microsoft 365**](https://www.microsoft.com/microsoft-365/compare-all-microsoft-365-products?&activetab=tab:primaryr2), şunlar dahil:  
+- [**Microsoft 365 için şu şekildedir:**](https://www.microsoft.com/microsoft-365/compare-all-microsoft-365-products?&activetab=tab:primaryr2)  
    - Microsoft 365 İş Temel
    - Microsoft 365 İş Standart
    - Microsoft 365 İş Ekstra
     
-- [**frontline için Microsoft 365**](https://www.microsoft.com/microsoft-365/microsoft-365-enterprise-f3?activetab=pivot:overviewtab), şunlar dahil:
-   - Microsoft 365 F3 (eski adıyla Microsoft 365 F1) ve Office 365 F3
+- [**Microsoft 365 için şu şekildedir:**](https://www.microsoft.com/microsoft-365/microsoft-365-enterprise-f3?activetab=pivot:overviewtab)
+   - Microsoft 365 F3 (eski Microsoft 365 F1) ve Office 365 F3
     
-- aşağıdakiler de dahil olmak üzere [**Enterprise Microsoft 365**](https://www.microsoft.com/microsoft-365/compare-microsoft-365-enterprise-plans): 
+- [**Microsoft 365 için Enterprise,**](https://www.microsoft.com/microsoft-365/compare-microsoft-365-enterprise-plans)örneğin: 
    - Office 365 E1
    - Microsoft 365 E3 ve Office 365 E3
    - Microsoft 365 E5 ve Office 365 E5
 
-- [**eğitim için Microsoft 365**](https://www.microsoft.com/education/buy-license/microsoft365), şunlar dahil: 
+- [**Microsoft 365 için eğitim,**](https://www.microsoft.com/education/buy-license/microsoft365)örneğin: 
     - Microsoft 365 A1 ve Office 365 A1
     - Microsoft 365 A3 ve Office 365 A3
     - Microsoft 365 A5 ve Office 365 A5
 
-## <a name="transition-customers-to-new-product-plans"></a>Müşterilerin yeni ürün planlarına geçişini sağlar
+## <a name="transition-customers-to-new-product-plans"></a>Müşterileri yeni ürün planlarına geçiş
 
-Microsoft, iş ortaklarımız için sürekli olarak yeni ürün ve hizmetler sunar. Bu gibi durumlarda, müşterileri yeni hizmetlere yükseltmeniz veya sonunda kapatılacak SKU 'lardan aboneliklerini geçirmeniz gerekebilir. Müşterilerin Kullanımdan kaldırılmış SKU 'lardan daha yeni bir sürümüne geçirilmesi aşağıdaki adımları gerektirir:
+Microsoft, iş ortaklarımıza sürekli olarak yeni ürün ve hizmetler sunmaktadır. Bu durumlarda, müşterileri yeni hizmetlere yükseltmeniz veya aboneliklerini sonunda kapatılacak olan SKUS'lardan geçirmeniz gerekir. Müşterileri, eski SKÜ'lerden yeni SKUS'lara şu adımların atılması gerekir:
 
-A. Yeni aboneliği satın alın
+A. Yeni aboneliği satın alma
 
-B. Geçerli kullanıcı lisanslarını yeniden ata
+B. Geçerli kullanıcı lisanslarını yeniden atama
 
-C. Eski aboneliği iptal et
+C. Eski aboneliği iptal etme
 
 
-## <a name="migrate-your-customers-to-new-plans"></a>Müşterilerinizi yeni planlara geçirin
+## <a name="migrate-your-customers-to-new-plans"></a>Müşterilerinizi yeni planlara geçirme
 
-### <a name="a-purchase-the-new-subscription"></a>A. Yeni aboneliği satın alın
+### <a name="a-purchase-the-new-subscription"></a>A. Yeni aboneliği satın alma
 
-1. Yeni aboneliği satın almak için **Iş Ortağı Merkezi** menüsünden **müşteriler**' i seçin, taşımak istediğiniz müşteriyi seçin ve ardından **Abonelik Ekle**' yi seçin.
+1. Yeni aboneliği satın almak için, **İş Ortağı Merkezi** menüsünde Müşteriler'i **seçin,** taşımak istediğiniz müşteriyi seçin ve ardından Abonelik ekle'yi **seçin.**
 
-2. Katalogdan satın almak istediğiniz aboneliği seçin (Bu durumda yukarıdaki seçeneklerden biri), lisansların sayısını girin ve ardından **Gönder**' i seçin.
+2. Katalogdan satın almak istediğiniz aboneliği seçin (bu durumda, yukarıdaki seçeneklerden biri), lisans sayısını girin ve gönder'i **seçin.**
 
-müşterinizin artık hem eski hem de yeni abonelikleri, eski Kaizala Pro tek başına aboneliği ve yeni ' target ' aboneliğini (örneğin, 1-Office 365 Kurumsal F1) sahip olması gerekir.
+Müşterinizin artık hem eski hem de yeni abonelikleri, eski Kaizala Pro Tek Başına aboneliği ve yeni 'hedef' aboneliğine sahip olması gerekir. Örneğin, Seçenek 1 - Office 365 Kurumsal F1.
 
-### <a name="b-reassign-current-user-licenses"></a>B. Geçerli kullanıcı lisanslarını yeniden ata
+### <a name="b-reassign-current-user-licenses"></a>B. Geçerli kullanıcı lisanslarını yeniden atama
 
-1. Müşterinin kullanıcılarının lisanslarını yeniden atamak için **Iş Ortağı Merkezi** menüsünden **müşteriler**' i seçin, taşıdığınız müşteriyi seçin ve ardından **Kullanıcılar ve lisanslar**' ı seçin. Müşterinin kullanıcılar ve lisanslar sayfası açılır.
+1. Müşterinin kullanıcı lisanslarını yeniden atamak için, **İş Ortağı Merkezi** menüsünden Müşteriler'i, hareket halindeki müşteriyi ve ardından Kullanıcılar ve lisanslar'ı **seçin.** Müşterinin Kullanıcılar ve Lisanslar sayfası açılır.
 
-2. Kullanıcı lisansını yeniden atamak için, yeniden atanacak kullanıcıyı seçin ve ardından **Lisansları Yönet**' i seçin.
+2. Kullanıcı lisansını yeniden atamak için, yeniden ataması yapılan kullanıcıyı seçin ve ardından Lisansları **yönet'i seçin.**
 
-3. **lisansları yönet** sayfasında, tek başına lisans Kaizala Pro onay kutusunu temizleyin ve müşterinin taşınmakta olduğu abonelik için yeni bir hizmet planı seçin.
+3. Lisansları **yönet sayfasında** tek başına Kaizala Pro onay kutusunun işaretini kaldırın ve müşterinin taşınarak aboneliğe yeni bir hizmet planı seçin.
 
-4.  **Gönder**’i seçin. Bir onay sayfası yeni lisans atamalarını listeler. Lisans atamaları gerektiren diğer kullanıcılar için aynı işleme devam edin.
+4.  **Gönder**’i seçin. Onay sayfasında yeni lisans atamaları listelemektedir. Lisans ataması gereken diğer kullanıcılar için de aynı işlemi devam eder.
 
-### <a name="c-cancel-old-subscription"></a>C. Eski aboneliği iptal et
+### <a name="c-cancel-old-subscription"></a>C. Eski aboneliği iptal etme
 
-Kullanıcı lisansını yeni hizmete taşıdıktan sonra, kullanımdan kaldırılan aboneliği müşteri düzeyinde güvenle iptal edebilirsiniz.
+Kullanıcı lisansını yeni hizmete taşımanın ardından kullanımdan kaldıran aboneliği müşteri düzeyinde güvenli bir şekilde iptal edebilirsiniz.
 
-1.  **Iş Ortağı Merkezi** menüsünde **müşteriler**' i seçin. Aboneliğini iptal ettiğiniz müşteriyi seçin.
+1.  Veri **İş Ortağı Merkezi** Müşteriler'i **seçin.** Aboneliğini iptal etmek istediğiniz müşteriyi seçin.
 
-2.  Abonelik Ayrıntıları sayfasında, aboneliği **askıya alındı** olarak ayarlayın.
+2.  Abonelik ayrıntıları sayfasında aboneliği Askıya Alındı olarak **ayarlayın.**
 
 3.  **Gönder**’i seçin.
 
-Eski abonelik askıya alındı ve yeni abonelik etkin. Askıya alınan abonelik 120 gün sonra otomatik olarak sağlanacaktır. Müşteri, eski abonelik için ek maliyet içermez.
+Eski abonelik askıya alınır ve yeni abonelik etkindir. Askıya alınan abonelik 120 gün sonra otomatik olarak sağlanacak. Müşteri, eski abonelik için ek ücret ödemez.

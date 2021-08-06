@@ -9,18 +9,18 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a2085713f1fef474dd26cb66a30a37f701789859
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: f8bf7c71a8309925e3a94b50b53264164df5bd82db8ae0e6a8a62a339d6eb9a9
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114845899"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115697236"
 ---
 # <a name="set-check-or-remove-monthly-azure-spending-budgets-for-customers-in-partner-center"></a>Azure'daki müşteriler için aylık Azure harcama bütçelerini ayarlama, denetleme veya İş Ortağı Merkezi
 
 **Uygun roller:** Yönetici aracısı
 
-[Azure'da müşterileriniz için aylık Azure harcama bütçesi](#set-azure-spending-budget) İş Ortağı Merkezi. Bu, müşterilerinize Azure harcamalarını yönetmeye yardımcı olur. Bu seçenek, müşterinizin Azure harcamalarını ay boyunca bütçeyle karşılaştırmanızı sağlar. Ayrıca, müşterilerin aylık faturalarının beklenenden yüksek olması için Azure harcamaları için bütçelerini düzenlemelerine de yardımcı olur.
+[Azure'da müşterileriniz için aylık Bir Azure harcama bütçesi](#set-azure-spending-budget) İş Ortağı Merkezi. Bu, müşterilerinize Azure harcamalarını yönetmeye yardımcı olur. Bu seçenek, müşterinizin Azure harcamalarını ay boyunca bütçeyle karşılaştırmanızı sağlar. Ayrıca, müşterilerin aylık faturalarının beklenenden yüksek olması için Azure harcamaları için bütçelerini düzenlemelerine de yardımcı olur.
 
 > [!NOTE]  
 > Bu özellik korumalı alan veya Üretimde Test (TIP) hesaplarında kullanılamaz.
@@ -101,7 +101,7 @@ Müşterinizin *aylık harcaması bütçe* sınırına yaklaşacaksa e-posta bil
 
 3. **Tercihlerim'i seçin.**
 
-4. Tercih edilen e-posta adresini yapılandırmadıysanız, bu adresi yapılandırma.
+4. Tercih edilen bir e-posta adresi yapılandırmadısanız.
 
 5. Bildirim için tercih edilen dili yapılandırma.
 

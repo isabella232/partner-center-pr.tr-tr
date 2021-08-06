@@ -2,68 +2,68 @@
 title: Geçerli birim fiyat hesaplaması
 ms.topic: how-to
 ms.date: 04/02/2021
-description: Geçerli birim fiyatı ve nasıl hesaplanmış olduğu hakkında bilgi edinmek. Bu makale ayrıca bir örnek hesaplama içerir.
+description: Geçerli birim fiyatı ve nasıl hesaplandığı hakkında bilgi edinin. Bu makale, örnek bir hesaplama da içerir.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-billing
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4148e9be6ab5bd3e5a146c0ed5479d8ad9723204
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: e043344b32a08db1ea5cddc333b43baab2e60aba0aabca0e554df6fa2f63f347
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114837331"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115679810"
 ---
-# <a name="effective-unit-price-calculation-for-azure-plan-consumption"></a>Azure planı tüketimi için geçerli birim fiyat hesaplaması
+# <a name="effective-unit-price-calculation-for-azure-plan-consumption"></a>Azure plan tüketimi için geçerli birim fiyat hesaplaması
 
-**Uygun roller:** Faturalama yöneticisi
+**Uygun roller**: Faturalandırma Yöneticisi
 
 ## <a name="the-effective-unit-price"></a>Geçerli birim fiyatı
 
-Geçerli birim fiyatı ölçüm düzeyinde (kaynak düzeyi yerine) hesaplanır ve ölçüm kullanımına göre günlük olarak ayarlanır.
+Etkin birim fiyatı ölçüm düzeyinde hesaplanır (kaynak düzeyinden farklı olarak) ve ölçüm kullanımına göre günlük olarak ayarlanır.
 
-Geçerli birim fiyatını hesaplamak için aşağıdaki üç faktörü kullanıyoruz:
+Geçerli birim fiyatını aşağıdaki üç faktörle hesapladık:
 
-- Faturalama döngüsü boyunca günlük olarak izlenen tüketim
-- Ölçüm için faturalanabilir maliyet
+- Fatura döngüsünün tamamında günlük izlenen tüketim
+- Ölçüm için faturalandırılabilir maliyet
 - Katmanlama (varsa)
 
-Faturalama dönemi boyunca tüketimi günlük olarak izlenmiz nedeniyle, geçerli birim fiyatı dalgalı olur. Tüketim hesaplaması durdurduktan ve faturalama dönemini kapatarak, verilen faturalama döneminin son fiyatı kullanılabilir. Dördüncü veya beşinci ondalık ayırıcıdan sonra tüketimde en fazla değişiklik olduğunu görüyorsunuz.
+Tüketimi faturalandırma döngüsünün tamamında günlük olarak izleyediğimiz için, etkin birim fiyatı dalgalanacaktır. Belirli bir faturalandırma döngüsünün son fiyatı, tüketim hesaplamasını durdurup faturalandırma dönemini kapatdığımızda kullanılabilir olacaktır. En fazla değişikliğin dördüncü veya beşinci ondalık konumdan sonra olduğunu görürsünüz.
 
-## <a name="find-out-whether-your-meter-uses-tiered-pricing"></a>Ölçümün katmanlı fiyatlandırmayı kullandığını bulma
+## <a name="find-out-whether-your-meter-uses-tiered-pricing"></a>Ölçenin katmanlı fiyatlandırma kullanıp kullanmadığını öğrenin
 
-Ölçümün katmanlı fiyatlandırma mı kullandığını bilmiyorsanız, bunu bulmak için aşağıdaki yordamı kullanın. 
+Ölçmeniz katmanlı fiyatlandırma kullanıp kullanmadığını bilmiyorsanız, öğrenmek için aşağıdaki yordamı kullanın. 
 
 1. [İş Ortağı Merkezi panosunda](https://partner.microsoft.com/dashboard/) oturum açın.
-2. **Satış'ı** seçin, Fiyatlandırma **ve teklifler'i ve** ardından Azure **planı fiyatlandırması'ı seçin.**
-3. Ölçüm kimliğiniz ile ilgili bilgileri bulun ve fiyatlandırma verilerinizi indirin. 
+2. **Satış** öğesini seçin, **fiyatlandırma ve teklifler**' i seçin ve ardından **Azure plan fiyatlandırması**' nı seçin.
+3. Ölçerinizi KIMLIĞE göre bulun ve ardından fiyatlandırma verilerinizi indirin. 
 
 ## <a name="sample-calculation"></a>Örnek hesaplama
 
-Aşağıdaki tabloda, açık dönem boyunca geçerli birim fiyatı nasıl hesaplay geçtiğimize bir örnek verilmiştir.
+Aşağıdaki tabloda, açık dönemde geçerli birim fiyatını nasıl hesapladığımızda bir örnek verilmiştir.
 
 Tabloda aşağıdaki değerler geçerlidir: 
 
-- **UP** = Kaynağın birim fiyatı/saat = 0,868
+- **Up** = kaynağın birim fiyatı/saat = 0,868
 
-- **BCU** = Ölçüm için faturalanabilir tüketim birimi
+- **BCU** = ölçüm için faturalandırılabilir tüketim birimi
 
-- **BC** = Ölçüm için faturalanabilir maliyet = BCU * UP * 0,85. Bu, %15 PEC indirimi için bir ayarlamayı yansıtıyor. Ardından, minimum tutarı ücret düşürmek için işlevin alt sınırını kullanarak değeri ondalık ayırıcıdan sonra gelen iki basamakla sınırlandırmış oluruz. 
+- **BC** = BCU * UP * 0,85 ölçümü için faturalandırılabilir maliyet. Bu, %15 PEC indirimle ilgili bir ayarlamayı yansıtır. Daha sonra, minimum miktarı ücretlendirmeniz için değeri ondalık işaretinden sonra iki basamakla sınırlamak üzere işlevin alt sınırını kullanıyoruz. 
 
-- **Geçerli birim fiyatı** = BCU/BC
+- **Etkin birim fiyatı** = BCU/BC
 
 >[!NOTE]
 
->Not: Bu örnekteki ölçüm, fiyatlandırma veya diğer indirimlerde katmana sahip değildir. Geçerli Birim Fiyat, indirim yüzdelerini ve diğer ayarlamaları gösterir.
+>Not: Bu örnekteki ölçüm fiyatlandırma veya diğer indirimlerdeki katmanlara sahip değildir. indirim yüzdeleri ve diğer ayarlamalar için geçerli birim fiyat faktörleri.
 
 
 | Tarih | BCU (Faturalanabilir tüketim birimi) | BC (Faturalanabilir maliyet) | Geçerli birim fiyatı |
 | ------ | ----------- | ----------- | ----------- |  
-| 3-Ağu | 29 | 21.39 | 0.737586206896552 |
-| 10-Ağu | 210.950039 | 155.63 | 0.737757626107858 |
-| 25-Ağu | 555.950039 | 410.17 | 0.737782122900436 |
+| 3-Ağu | 29 | 21,39 | 0.737586206896552 |
+| 10 Ağu | 210,950039 | 155,63 | 0.737757626107858 |
+| 25 Ağu | 555,950039 | 410,17 | 0.737782122900436 |
 
 ## <a name="next-steps"></a>Sonraki adımlar
 

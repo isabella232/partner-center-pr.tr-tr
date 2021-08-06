@@ -9,12 +9,12 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ca9cd1b09c840531c3652f71afbd9c66f657f877
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 373346311924059c9d3a6c54019fe1d3a03a1db71f7602769cfaf6712c345707
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114840391"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115680660"
 ---
 # <a name="roles-and-permissions-required-to-earn-partner-earned-credit"></a>İş ortağı kazanılmış kredisi kazanmak için gereken roller ve izinler
 
@@ -55,38 +55,38 @@ Azure Service Bus veri alıcısı | Azure Service Bus kaynaklarına erişim izni
 Azure Service Bus veri gönderici | Azure Service Bus kaynaklarına erişim izni verir. | Yes | 
 Kayıt sahibini Azure Stack | Azure Stack kayıtlarını yönetmenizi sağlar. | Yes | 
 Yedek Katılımcısı | Yedekleme hizmetini yönetmenizi sağlar, ancak kasaların oluşturamaz ve başkalarına erişim izni verebilir | Yes | 
-Yedekleme Operatörü | Yedeklemenin kaldırılması, kasa oluşturma ve başkalarına erişim verme dışında yedekleme hizmetlerini yönetmenize olanak sağlar | Yes | 
-Yedekleme Okuyucusu | Yedekleme hizmetlerini görüntüleme, ancak değişiklik yapma | No | 
-Faturalama Okuyucusu | Faturalama verilerine okuma erişimine izin verir | No | 
-BizTalk Katkıda Bulunanı | BizTalk hizmetlerini yönetmenize olanak sağlar, ancak bu hizmetlere erişmenizi sağlar. | Yes | 
-Blok Zinciri Üyesi Düğüm Erişimi (Önizleme) | Blok Zinciri Üyesi düğümlerine erişime izin verir | Yes | 
-Şema Katkıda Bulunanı | Şema tanımlarını yönetebilir, ancak bunları atayamaz. | Yes | 
-Şema İşleci | Mevcut yayımlanmış şemaları atayamaz, ancak yeni şemalar oluşturamaz. NOT: Bu yalnızca atama kullanıcı tarafından atanan yönetilen kimlikle yapılırsa çalışır. | Yes | 
-CDN Uç Nokta Katkıda Bulunanı | Uç CDN yönetebilir, ancak diğer kullanıcılara erişim izni vere değildir. | Yes | 
-CDN Uç Nokta Okuyucusu | Uç CDN görünümünde değişiklik yapabilirsiniz. | No | 
-CDN Profil Katkıda Bulunanı | Kullanıcı CDN uç noktalarını yönetebilir, ancak diğer kullanıcılara erişim izni vere değildir. | Yes | 
-CDN Profil Okuyucusu | Uygulama CDN uç noktalarını görüntüleme, ancak değişiklik yapmama. | No | 
-Klasik Ağ Katılımcısı | Klasik ağları yönetmenize olanak sağlar, ancak bu ağlara erişmenizi sağlar. | Yes | 
-Klasik Depolama Hesabı Katkıda Bulunanı | Klasik depolama hesaplarını yönetmenize olanak sağlar, ancak bu hesaplara erişmenizi sağlar. | Yes | 
-Klasik Depolama Hesap Anahtarı İşleci Hizmet Rolü | Klasik Depolama Hesap Anahtarı İşleçleri, Klasik HesapLarda anahtarları listeleye ve yeniden Depolama izin verilir | Yes | 
-Klasik Sanal Makine Katılımcısı | Klasik sanal makineleri yönetmenize olanak sağlar, ancak bu sanal makinelere erişmenizi değil, bağlı olduğu sanal ağı veya depolama hesabını yönetmenizi sağlar. | Yes | 
-Bilişsel Hizmetler Katkıda Bulunanı | Bilişsel Hizmetler anahtarları oluşturmanızı, okumanızı, güncelleştirmenizi, silmenizi ve yönetmenizi sağlar. | Yes | 
-Bilişsel Hizmetler Veri Okuyucusu (Önizleme) | Bilişsel Hizmetler verilerini okumana olanak sağlar. | No | 
-Bilişsel Hizmetler Kullanıcısı | Bilişsel Hizmetler'in anahtarlarını okuma ve listelemenizi sağlar. | No | 
-Cosmos DB Hesabı Okuyucusu Rolü | Azure veritabanı Cosmos verilerini okuyabilir. Azure veritabanı hesaplarını yönetmek için bkz. DocumentDB Cosmos Katkıda Bulunanı. | No | 
-Cosmos DB İşleci | Azure veritabanı Cosmos yönetmenize olanak sağlar, ancak bu hesaplarda verilere erişmenizi sağlar. Hesap anahtarlarına ve bağlantı dizelerine erişimi önler. | Yes | 
-CosmosBackupOperator | Cosmos DB veritabanı veya hesap kapsayıcısı için geri yükleme isteği gönderebilirsiniz | Yes | 
-Maliyet Yönetimi Katkıda Bulunanı | Maliyetleri görüntüleme ve maliyet yapılandırmasını yönetme (bütçeler, dışarı aktarmalar gibi) | Yes | 
-Maliyet Yönetimi Okuyucusu | Maliyet verilerini ve yapılandırmasını görüntüleme (bütçeler, dışarı aktarmalar gibi) | No | 
-Data Box Katkıda Bulunanı | Diğer kullanıcılara erişim vermek Data Box hizmet kapsamındaki her şeyi yönetmenize olanak sağlar. | Yes | 
-Data Box Okuyucu | Sipariş veya sipariş Data Box ve başkalarına erişim verme dışında, Hizmet'i yönetmenize olanak sağlar. | No | 
-Data Factory Katkıda Bulunanı | Veri fabrikalarının yanı sıra alt kaynakları da oluşturun ve yönetin. | Yes | 
-Data Lake Analytics Geliştirici | Kendi işlerinizi göndermenize, izlemenize ve yönetmenize olanak sağlar, ancak hesap oluşturmanızı veya Data Lake Analytics sağlar. | Yes | 
-Veri Temizleme | Analiz verilerini temizlebilirsiniz | Yes | 
-DevTest Labs Kullanıcısı | Sanal makinelerinizi sanal makinenize bağlamanıza, başlatmanıza, yeniden başlatmanıza ve kapatmanıza olanak Azure DevTest Labs. | Yes | 
-DNS Bölgesi Katkıda Bulunanı | Dns bölgelerini ve kayıt kümelerini Azure DNS ancak erişime sahip olanları denetlemenizi sağlar. | Yes | 
-DocumentDB Hesabı Katkıda Bulunanı | Azure veritabanı Cosmos yönetebilir. Azure Cosmos DB eski adı DocumentDB'dir. | Yes | 
-EventGrid EventSubscription Katkıda Bulunanı | EventGrid olay aboneliği işlemlerini yönetmenize olanak sağlar. | Yes | 
+Yedekleme Operatörü | Yedekleme kaldırma, kasa oluşturma ve başkalarına erişim verme dışında yedekleme hizmetlerini yönetmenizi sağlar | Yes | 
+Yedekleme okuyucusu | Yedekleme hizmetlerini görüntüleyebilir, ancak değişiklik yapamaz | No | 
+Faturalama Okuyucusu | Faturalandırma verilerine okuma erişimi sağlar | No | 
+BizTalk Katılımcısı | BizTalk hizmetlerini yönetmenizi sağlar ancak onlara erişim izni vermez. | Yes | 
+Blok zinciri üye düğümü erişimi (Önizleme) | Blok zinciri üye düğümlerine erişim sağlar | Yes | 
+Blueprint Katılımcısı | Şema tanımlarını yönetebilir, ancak atamazsınız. | Yes | 
+Blueprint Işleci | Varolan yayımlanmış şemaları atayabilir, ancak yeni şemaları oluşturamaz. Not: Bu yalnızca atama Kullanıcı tarafından atanan yönetilen bir kimlikle yapıldığında geçerlidir. | Yes | 
+CDN Uç nokta Katılımcısı | CDN uç noktalarını yönetebilir, ancak diğer kullanıcılara erişim izni veremez. | Yes | 
+CDN Uç nokta okuyucusu | CDN uç noktalarını görüntüleyebilir, ancak değişiklik yapamaz. | No | 
+CDN Profil Katılımcısı | CDN profillerini ve uç noktalarını yönetebilir, ancak diğer kullanıcılara erişim izni veremez. | Yes | 
+CDN Profil okuyucu | CDN profillerini ve uç noktalarını görüntüleyebilir, ancak değişiklik yapamaz. | No | 
+Klasik Ağ Katılımcısı | Klasik ağları yönetmenize izin verir, ancak bunlara erişemez. | Yes | 
+klasik Depolama hesabı katılımcısı | Klasik depolama hesaplarını yönetmenize izin verir, ancak bunlara erişimi kalmaz. | Yes | 
+klasik Depolama hesap anahtarı operatörü hizmet rolü | klasik Depolama hesap anahtarı işleçleri klasik Depolama hesaplarında anahtarları listeleme ve yeniden oluşturma izni verilir | Yes | 
+Klasik sanal makine Katılımcısı | Klasik sanal makineleri yönetmenizi sağlar ancak bunlara yönelik erişimi, bağlı oldukları sanal ağ veya depolama hesabı için değil. | Yes | 
+Bilişsel hizmetler Katılımcısı | Bilişsel hizmetler için anahtar oluşturma, okuma, güncelleştirme, silme ve yönetme olanağı sağlar. | Yes | 
+Bilişsel hizmetler veri okuyucu (Önizleme) | Bilişsel hizmetler verilerini okumanızı sağlar. | No | 
+Bilişsel hizmetler kullanıcısı | Bilişsel hizmetler 'in anahtarlarını okuyup listelemenizi sağlar. | No | 
+Cosmos DB hesabı okuyucu rolü | Azure Cosmos DB hesabı verilerini okuyabilir. Azure Cosmos DB hesaplarını yönetmek için DocumentDB hesabı katılımcısı konusuna bakın. | No | 
+Cosmos DB Işleci | Azure Cosmos DB hesaplarını yönetmenizi sağlar ancak içerdikleri verilere erişemez. Hesap anahtarlarına ve bağlantı dizelerine erişimi engeller. | Yes | 
+CosmosBackupOperator | bir Cosmos DB veritabanı veya bir hesabın kapsayıcısı için geri yükleme isteği gönderebilir | Yes | 
+Maliyet Yönetimi Katkıda Bulunanı | Maliyetleri görüntüleyebilir ve maliyet yapılandırmasını yönetebilir (örn. bütçeler, dışarı aktarmalar) | Yes | 
+Maliyet yönetimi okuyucusu | Maliyet verilerini ve yapılandırmayı görüntüleyebilir (örneğin, bütçeler, dışarı aktarmalar) | No | 
+Katkıda bulunan Data Box | , Diğer kullanıcılara erişim izni hariç Data Box hizmeti altındaki her şeyi yönetmenizi sağlar. | Yes | 
+Data Box okuyucu | Sipariş oluşturma veya düzenleme sırası ayrıntıları ve başkalarına erişim verme dışında Data Box hizmetini yönetmenizi sağlar. | No | 
+Katkıda bulunan Data Factory | Veri fabrikalarının yanı sıra bunların içindeki alt kaynakları oluşturun ve yönetin. | Yes | 
+Data Lake Analytics geliştirici | Kendi işlerinizi göndermenize, izlemenize ve yönetmenize izin verir, ancak Data Lake Analytics Hesapları oluşturamaz veya silemezsiniz. | Yes | 
+Veri Takiger | Analiz verilerini temizedebilir | Yes | 
+DevTest Labs kullanıcısı | Azure DevTest Labs sanal makinelerinizi bağlamanıza, başlatmanıza, yeniden başlatmanıza ve kapatımanıza olanak sağlar. | Yes | 
+DNS bölgesi Katılımcısı | Azure DNS, DNS bölgelerini ve kayıt kümelerini yönetmenizi sağlar, ancak bunlara kimlerin erişebileceğini denetlemenize izin vermez. | Yes | 
+DocumentDB hesabı Katılımcısı | , Azure Cosmos DB hesaplarını yönetebilir. Azure Cosmos DB daha önce DocumentDB olarak bilinirdi. | Yes | 
+EventGrid EventSubscription Katılımcısı | EventGrid olay aboneliği işlemlerini yönetmenizi sağlar. | Yes | 
 EventGrid EventSubscription Reader | EventGrid olay aboneliklerini okumana olanak sağlar. | No | 
 HDInsight Küme İşleci | HDInsight küme yapılandırmalarını okuma ve değiştirmenizi sağlar. | Yes | 
 HDInsight Etki Alanı Hizmetleri Katkıda Bulunanı | HDInsight Güvenlik Paketi için gereken Etki Alanı Hizmetleri ile ilgili işlemleri okuyabilir, Enterprise ve silebilir | Yes | 

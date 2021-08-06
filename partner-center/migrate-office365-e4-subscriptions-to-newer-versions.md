@@ -9,12 +9,12 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a1b47860f0af3427342d89945528e9118ecfc0aa
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: b440b7baaad26ac6ee1c1e8313a13c4aa3cc271f9d84f5421aeb07edf1ea8a84
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114843332"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115681527"
 ---
 # <a name="migrate-office-365-e4-subscriptions-to-newer-office-365-versions"></a>Office 365 E4 aboneliklerini yeni Office 365 sürümlerine geçirme
 
@@ -27,7 +27,7 @@ E4 abonelikleri sona erer ve iptal edilir. Müşterilerin sürekliliğini sağla
 > [!NOTE]  
 > Hem Office 365 Kurumsal E4 kamu SKUS'ları kullanımdan kaldırıldı.
  
-Aboneliğin ayrıntı sayfasındaki "[date]" ile E4 aboneliğinin durumu "[date] üzerinde otomatik yenileme" ile "[date]" olarak değiştirilmiştir. 
+Aboneliğin ayrıntı sayfasında, "[date] üzerinde otomatik yenilemeler" sayfasındaki E4 abonelik durumu "[date] üzerinde süresi dolmaktadır" olarak değiştirilmiştir. 
 
 API'yi (CREST veya İş Ortağı Merkezi) kullanıyorsanız, aboneliğin bitiş tarihini ve otomatik yenileme = False özelliğini değerlendirerek süresi dolan abonelikleri keşfedebilirsiniz. 
 
@@ -48,7 +48,7 @@ E4 ile aynı işlevselliği sürdürmeyi veya müşterilerinize Office 365 ve Sk
 
 | Özellik | 1\. Seçenek | 2\. Seçenek | 3\. Seçenek | 4\. Seçenek |
 | :---    | :------: |   :---:  |   :---:  |   :---:  |
-| Office 365 Kurumsal E4'a dahil edilen tüm özellikleri Office 365 Kurumsal E4? | Yes | Yes | Yes | Hayır |
+| Office 365 Kurumsal E4'da bulunan tüm özellikleri Office 365 Kurumsal E4? | Yes | Yes | Yes | Hayır |
 | Telefon yönetilen sayılar Office 365? | Yes | Yes | Hayır | Hayır |
 | Telefon (karma dağıtım) hem şirket içinde hem de Office 365 yönetilen sayılar var mı? | Yes | Yes | Hayır | Hayır |
 | PSTN sesli arama planı ekleme seçeneği var mı? | Yes | Yes | Hayır | Hayır |
@@ -97,7 +97,7 @@ Kullanıcı lisanslarını yeni hizmete taşımanın ardından, kullanımdan kal
 
 3. **Gönder**’i seçin.
 
-Eski abonelik askıya alınır ve yeni abonelik etkindir. Askıya alınan abonelik, 120 gün sonra otomatik olarak sağlanacak. Müşteri, eski abonelik için ek ücret ödemez.
+Eski abonelik askıya alınır ve yeni abonelik etkindir. Askıya alınan abonelik 120 gün sonra otomatik olarak sağlanacak. Müşteri, eski abonelik için ek ücret ödemez.
 
 
 

@@ -9,12 +9,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.date: 10/12/2020
-ms.openlocfilehash: 9d9798bdbf83bbe7d812f5bbf83b81fb8fcde373
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: b240d39da1e7c91fb8efee9aabced2a76092104e719d97cbfd33a53f1ca567ee
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114840289"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115681969"
 ---
 # <a name="connect-with-customers"></a>Müşterilerle bağlantı kurma
 

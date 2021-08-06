@@ -8,12 +8,12 @@ description: Bu API'yi kullanarak herhangi bir duraklatılmış raporun içgör�
 author: kshitishsahoo
 ms.author: ksahoo
 ms.localizationpriority: medium
-ms.openlocfilehash: 1019e9e6f679084ca0a388d685b5239ecc2e09e2
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 8c429913e269b88a42216ca99c4a4afbc545eb599b6dcfeb1d5fb79af5fdd50c
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114836277"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115697049"
 ---
 # <a name="resume-report-executions-api"></a>Rapor yürütme API'sini sürdürme
 

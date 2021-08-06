@@ -9,12 +9,12 @@ ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/26/2020
-ms.openlocfilehash: 2061286ecb048647d666438a34b4759175b7deb4
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 46a15d9f26421b78022e15090a5c498f956fb49dce688264074788be88d04cf2
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114844624"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115696317"
 ---
 # <a name="partner-center-insights---a-dashboard-that-shows-how-a-microsoft-commercial-partner-is-doing"></a>iş ortağı merkezi Analizler-bir Microsoft ticari iş ortağının nasıl yaptığını gösteren bir pano
 

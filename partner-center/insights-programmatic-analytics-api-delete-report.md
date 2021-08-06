@@ -8,12 +8,12 @@ description: Bu API'yi kullanarak içgörüler için İş Ortağı Merkezi silin
 author: kshitishsahoo
 ms.author: ksahoo
 ms.localizationpriority: medium
-ms.openlocfilehash: a8a94fc1a6e69bab0a7671bd27949e271a77dbbe
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 358e08363c203b82a5e80e2660be6e04224f58df393c94f8af9062fcb5ec67a7
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114840068"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115697219"
 ---
 # <a name="delete-report-api"></a>Rapor API'sini silme
 

@@ -9,12 +9,12 @@ ms.subservice: partnercenter-billing
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3048bad7912f101e1c332e54eff981473f0f31d7
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: f14b387649e6df8ded2e037858a7216eb361e848c8de6c8a71373d06ebe81d16
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114839660"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115681221"
 ---
 # <a name="understand-usage-based-reconciliation-files-and-their-specific-fields-in-partner-center"></a>Iş Ortağı Merkezi 'nde kullanım tabanlı karşılaştırma dosyalarını ve belirli alanlarını anlayın
 
@@ -53,24 +53,24 @@ Aşağıdaki alanlar hangi hizmetlerin kullanıldığını ve oranını açıkla
 | Fazla Agemiktarı | Teklifin bir parçası olarak dahil edilen birimler. Bunlar iş ortağı tarafından ödenmesi gerekir. **Tüketimi miktarı** eksi **ıncludedquantity** değerine eşit. | *11* |
 | ListPrice | Aboneliğin başlangıç tarihinde yürürlükte fiyat sunun. | *$0,0808* |
 | PretaxCharges | **Listprist** 'e eşit, en yakın bir değere yuvarlayarak, **overagequantity** ile çarpılır. | *$0,085* |
-| TaxAmount | Ücretlendirilen vergi tutarı. Pazar vergi kurallarına ve belirli koşullara göre. | *$0,08* |
-| PostTaxTotal | Vergi geçerli olduğunda verginin toplam sayısı. | *$0,93* |
-| Para Birimi | Para birimi türü. Her faturalandırma varlığının yalnızca bir para birimi vardır. İlk faturanızla ve sonra önemli faturalandırma platformu güncelleştirmelerinden sonra eşleşip eşleşmediğini denetleyin. | *EUR* |
-| PretaxEffectiveRate | Birim başına ön vergi fiyatı. **Fazla ödeme miktarına** bölünen, en yakın ilayana yuvarlanmış olan **pretaxcharges** 'e eşit. | *$0,08* |
-| PostTaxEffectiveRate | Birim başına vergi fiyatı. **Posttaxtotal** ile eşit olan, en yakın ilayana yuvarlanmış **miktarı fazla** Ya da, **PretaxEffectiveRate** değerine eşit ve birim miktarı başına vergi fiyatı, en yakın bir değere yuvarlanır. | *$0,08* |
-| ChargeType | Ücret veya ayarlamanın [türü](recon-file-charge-types.md) . | Bkz. [ücretlendirme türleri](recon-file-charge-types.md). |
+| TaxAmount | Ücret tahsil edilecek vergi tutarı. Marketin vergi kurallarına ve belirli koşullarına göre. | *0,08 ABD doları* |
+| PostTaxTotal | Vergi geçerli olduğunda toplam vergi sonrası. | *0,93 ABD doları* |
+| Para Birimi | Para birimi türü. Her faturalama varlığının yalnızca bir para birimi vardır. İlk faturanız ve ardından ana faturalama platformu güncelleştirmelerinden sonra bu faturanın eş olup olamayrını kontrol edin. | *EUR* |
+| PretaxEffectiveRate | Birim başına ön fiyat. **PretaxCharges değeri** **overageQuantity değerine bölünerek** en yakın sente yuvarlanır. | *0,08 ABD doları* |
+| PostTaxEffectiveRate | Birim başına vergi sonrası fiyat. **PostTaxTotal değerine** eşit olarak **OverageQuantity değerine** bölünerek en yakın sente yuvarlanır. Veya **PretaxEffectiveRate** ile birim tutarı başına vergi oranına ek olarak en yakın sente yuvarlanmış olabilir. | *0,08 ABD doları* |
+| ChargeType | Ücret [veya ayarlama](recon-file-charge-types.md) türü. | Bkz. [ücret türleri.](recon-file-charge-types.md) |
 | CustomerId | Müşteri için GUID biçiminde benzersiz Microsoft tanımlayıcısı. | *ORDDC52E52FDEF405786F0642DD0108BE4* |
-| DomainName | Müşterinin etki alanı adı. Bu alan, ikinci faturalandırma döngüsüne kadar boş görünebilir. | *example.onmicrosoft.com* |
-| BillingCycleType | Saat faturalandırma sıklığı.| **Aylık**  |
-| Birim | Kaynak **adının** birimi. | *GB* veya *saat* |
-| CustomerBillableAccount | Microsoft faturalandırma platformunda benzersiz hesap tanımlayıcısı. | *1280018095* |
-| UsageDate | Hizmet dağıtımının tarihi. | *2/1/2019 0:00* |
-| MeteredRegion | Bölge içindeki bir veri merkezinin konumunu tanımlar (Bu değerin uygulanabilir ve doldurulmuş olduğu hizmetler için). | *Doğu Asya*, *güney Doğu Asya*, *Kuzey Avrupa*, *Batı Avrupa*, *Orta Kuzey ABD*, *Orta Güney ABD* |
-| MeteredService | Her bir Azure hizmeti kullanımını, **ServiceName** sütununda özellikle tanımlanmadıkça tanımlar. örneğin, veri aktarımları **ServiceName** sütunundaki *Microsoft Azure-tüm hizmetler* olarak bildirilir. | *AccessControl*, *CDN*, *işlem*, *veritabanı*, *servicebus*, *Depolama* |
-| MeteredServiceType | Azure hizmeti kullanımı hakkında ek açıklama sağlayan **MeteredService** alanı için alt başlık. | *DıŞARıDAKI* |
+| DomainName | Müşterinin etki alanı adı. Bu alan, ikinci faturalama döngüsüne kadar boş görünebilir. | *example.onmicrosoft.com* |
+| BillingCycleType | Zaman faturalama sıklığı.| **Aylık**  |
+| Birim | Kaynak Adı **birimi.** | *GB veya* *SAAT* |
+| CustomerBillableAccount | Microsoft faturalama platformunda benzersiz hesap tanımlayıcısı. | *1280018095* |
+| UsageDate | Hizmet dağıtım tarihi. | *2/1/2019 0:00* |
+| MeteredRegion | Bölge içindeki bir veri merkezinin konumunu tanımlar (bu değerin geçerli olduğu ve doldurul olduğu hizmetler için). | *Doğu Asya*, *Güney Doğu Asya*, *Kuzey Avrupa,* *Batı Avrupa,* *Orta Kuzey ABD*, *Orta Güney ABD* |
+| MeteredService | **ServiceName** sütununda özel olarak tanımlanmayan tek tek Azure hizmet kullanımını tanımlar. Örneğin, veri aktarımları ServiceName *Microsoft Azure - Tüm Hizmetler* olarak **raporlandı.** | *AccessControl*, *CDN*, *Compute*, *Database*, *ServiceBus*, *Depolama* |
+| MeteredServiceType | Azure hizmet **kullanımına ek açıklama sağlayan MeteredService** alanı için alt başlık. | *Dış* |
 | Project | Hizmet örneği için müşteri tanımlı ad. | *ORDDC52E52FDEF405786F0642DD0108BE4* |
-| ServiceInfo | belirli bir günde sağlanan ve kullanılan Azure Service Bus bağlantılarının sayısı. | *1,000000 bağlantı/30 gün* (30 günlük bir ayda tek bir sağlanan bağlantınız varsa), *25 bağlantı/30 gün – kullanılır: 1,000000* (Service Bus bir bağlantı sağlanan 25 paketiniz varsa ve bu gün boyunca 1 ' i kullandıysanız) |
+| ServiceInfo | Azure Service Bus sağlanan ve kullanılan bağlantıların sayısı. | *1.00000 Bağlantı / 30* gün (30 günlük bir ay boyunca tek tek sağlanan bir bağlantınız varsa), *25 Bağlantı / 30 Gün – Kullanılır: 1.000000* (25 paket Service Bus bağlantınız varsa ve bu gün boyunca 1 kullandıysanız) |
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-- [Iş Ortağı Merkezi lisans tabanlı mutabakat dosyalarındaki alanları anlayın](license-based-recon-files.md)
+- [Lisans tabanlı mutabakat İş Ortağı Merkezi alanları anlama](license-based-recon-files.md)

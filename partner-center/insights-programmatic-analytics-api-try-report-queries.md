@@ -1,28 +1,28 @@
 ---
-title: Rapor sorguları API'sini deneme
+title: Rapor sorguları API 'sini deneyin
 ms.topic: reference
 ms.date: 07/14/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-insights
-description: Sorguyu test etmek ve sonuçları içgörülere göre doğrulamak için İş Ortağı Merkezi kullanın.
+description: Sorgunuzu test etmek ve Iş Ortağı Merkezi öngörülerinin sonuçlarını doğrulamak için bu API 'yi kullanın.
 author: kshitishsahoo
 ms.author: ksahoo
 ms.localizationpriority: medium
-ms.openlocfilehash: c83b56b7d52e0b9feb598597b4a8e1fdaec98a3b
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 8358366d4782473549403ca3def4c6a6ec3825c91899f401d6dc44b5a9192ea9
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114845610"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115696963"
 ---
-# <a name="try-report-queries-api"></a>Rapor sorguları API'sini deneme
+# <a name="try-report-queries-api"></a>Rapor sorguları API 'sini deneyin
 
-Bu API bir Rapor sorgusu deyimi yürütür. API, bir iş ortağı olarak verilerin beklendiği gibi olduğunu doğrulamak için kullanabileceğiniz yalnızca 100 kayıt döndürür.
+Bu API bir rapor sorgu ekstresi yürütür. API, verilerin beklediğiniz gibi olup olmadığını doğrulamak için yalnızca iş ortağı olarak kullandığınız 100 kaydı döndürür.
 
 > [!IMPORTANT]
-> Bu API'nin 100 saniyelik bir sorgu yürütme zaman aşımı var. API'nin 100 saniyeden uzun sürüyor olduğunu fark ediyorsanız, sorgunun bozulmamış olması büyük olasılıkla doğrudur, yoksa 200 dışında bir hata kodu alırsınız. Sorgu söz dizimi doğruysa gerçek rapor oluşturma başarılı olur.
+> Bu API, 100 saniyelik bir sorgu yürütme zaman aşımına uğradı. API 'nin 100 saniyeden daha fazla sürdüğünü fark ederseniz, sorgu sözdizimsel olarak yanlış olabilir veya 200 dışında bir hata kodu almış olursunuz. Sorgu söz dizimi doğruysa gerçek rapor oluşturma işlemi geçer.
 
-**İstek söz dizimi**
+**İstek sözdizimi**
 
 |    Yöntem    |    İstek URI'si    |
 |    ----    |    ----    |
@@ -33,7 +33,7 @@ Bu API bir Rapor sorgusu deyimi yürütür. API, bir iş ortağı olarak veriler
 
 |    Üst bilgi    |    Tür    |    Description    |
 |    ----    |    ----    |    ----    |
-|    Yetkilendirme    |    string    |    Gereklidir. Formda Azure Active Directory (AAD) erişim belirteci`Bearer <token>`    |
+|    Yetkilendirme    |    string    |    Gereklidir. formdaki Azure Active Directory (AAD) erişim belirteci`Bearer <token>`    |
 |    İçerik Türü    |    string    |    `Application/JSON`    |
 |        |        |        |
 
@@ -45,10 +45,10 @@ Hiçbiri
 
 |    Parametre Adı    |    Tür    |    Gerekli    |    Açıklama    |
 |    ----    |    ----    |    ----    |    ----    |
-|    exportQuery     |    dize    |    No    |    Yürütül olması gereken rapor sorgu dizesi     |
-|    Queryıd     |    dize    |    No    |    Geçerli bir mevcut sorgu kimliği. exportQuery parametresinde belirtilen sorgu dizesiyle birbirini dışlar    |
-|    startTime     |    dize    |    No    |    Verileri almak istediğiniz başlangıç zamanı. Sorguda belirtilen zaman zamanlarını geçersiz kılar    |
-|    endTime     |    dize    |    No    |    Verileri almak istediğiniz bitiş zamanı. Sorguda belirtilen zaman zamanlarını geçersiz kılar    |
+|    exportQuery     |    dize    |    No    |    Yürütülmesi gereken rapor sorgu dizesi     |
+|    QueryId     |    dize    |    No    |    Geçerli bir var olan sorgu KIMLIĞI. ExportQuery parametresinde belirtilen sorgu dizesiyle birbirini dışlayan dışlamalı    |
+|    startTime     |    dize    |    No    |    Verilerin olmasını istediğimiz başlangıç zamanı. Sorguda belirtilen TimeSpan 'yi geçersiz kılar    |
+|    endTime     |    dize    |    No    |    Verilerin ne kadar süre istediğini belirten bitiş zamanı. Sorguda belirtilen TimeSpan 'yi geçersiz kılar    |
 |        |        |        |        |
 
 **İstek yükü**
@@ -61,7 +61,7 @@ Hiçbiri
 
 **Response**
 
-Yanıt yükü aşağıdaki gibi yapılandırılmıştır:
+Yanıt yükü aşağıdaki şekilde yapılandırılır:
 
 Yanıt kodu: 200, 400, 401, 403, 404, 500
 
@@ -82,11 +82,11 @@ Top 100 rows of query execution
 
 **Sözlük**
 
-Bu tablo yanıtta önemli öğeleri tanımlar:
+Bu tablo, yanıttaki anahtar öğeleri tanımlar:
 
 |    Parametre    |    Açıklama    |
 |    ----    |    ----    |
-|    TotalCount     |    Değer dizisinde veri kümesi sayısı     |
-|    İleti     |    API'nin yürütülmesinden gelen durum iletisi     |
-|    Statuscode     |    Sonuç Kodu. Olası değerler: 200, 400, 401, 403, 500     |
+|    TotalCount     |    Değer dizisindeki veri kümesi sayısı     |
+|    İleti     |    API 'nin yürütülmesindeki durum iletisi     |
+|    Durum     |    Sonuç kodu. Olası değerler 200, 400, 401, 403, 500     |
 |        |        |

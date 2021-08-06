@@ -9,12 +9,12 @@ author: hemas
 ms.author: hemas
 ms.localizationpriority: high
 ms.custom: SEOMAY.20, contperf-fy21q1
-ms.openlocfilehash: 07bfa5fc59f7f3b29abbc3902f2cb2dd98738c28
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 5868438314d3dff4a6ba18518f9dd22899cb3c6abd68a620560dceb0c10e0343
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114843077"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115681476"
 ---
 # <a name="assign-users-roles-and-permissions-for-a-companys-users-needing-to-work-in-partner-center"></a>Şirket kullanıcılarının iş ortağı merkezi 'nde çalışması gereken kullanıcı rollerini ve izinlerini atama
 
@@ -104,77 +104,77 @@ Bu roller Azure AD rolleri değildir. Bu roller, kiracı yerine şirket işletme
 |**Role** | **Yapabilecekleriniz**|**Daha fazla bilgi edinin**|
 |----------------------------|:----------------------------|-----|
 |MPN iş ortağı Yöneticisi|* İş ortağı hizmeti isteklerini görüntüleyin, oluşturun ve yönetin|[Microsoft Eylem Paketi aboneliği veya Silver ve Gold uzmanlık satın alma veya yenileme](mpn-get-action-pack.md)
-||* Yasal, şirket, iş ve MPN profillerini görüntüleme
-||* Kullanıcı ayrıntılarını ve beceri verilerini görüntüleme
-||* Yetkinlikleri görüntüleme
-||* Avantajları görüntüleme ve yönetme
+||* Yasal, Şirket, iş ve MPN profillerini görüntüleme
+||* Kullanıcı ayrıntılarını ve yetenek verilerini görüntüleyin
+||* Uzmanlıklar görüntüle
+||* Avantajları görüntüleyin ve yönetin
 ||* MPN tekliflerini görüntüleme ve satın alma
-||* MPN tekliflerinin sipariş geçmişini ve faturalarını görüntüleme
-||* İş ortağı katkısı gösterge verilerini görüntüleme
-||* Kupon Doğrulama aracında çalışabilirsiniz|
-||* Müşteri veri analizini görüntüleme
-||* Şirket içindeki diğer kullanıcı rollerini görüntüleme, ancak rol ataymama
-||* Uygulama için destek biletleri İş Ortağı Merkezi
-||* İş ortağı destek biletlerini görüntüle
-|Hesap yöneticisi| Konum ekleme|[Konumları yönetme](manage-locations.md)
-|| Yönetici olduğunuz hesaplarla ilgili profilleri yönetme 
-||* Kiracılı kullanıcılar için Azure AD olmayan rollere roller atama 
+||* MPN 'nin sipariş geçmişini ve faturalarını görüntüleme
+||* İş ortağı katkısı gösterge verilerini görüntüle
+||*, Fiş doğrulama aracında çalışabilir|
+||* Müşteri verileri analizlerini görüntüle
+||* Şirket içindeki diğer Kullanıcı rollerini görüntüleme, ancak rolleri atayamıyorum
+||* Iş Ortağı Merkezi için destek biletleri oluşturma
+||* Oluşturduğunuz iş ortağı destek biletlerini görüntüle
+|Hesap yöneticisi| Konum Ekle|[Konumları yönetme](manage-locations.md)
+|| Yönetici olduğunuz hesaplarla ilgili Profilleri yönetme 
+||* Kiracıdaki kullanıcılara Azure dışı AD rollerine roller atama 
 ||* Konumları programlara kaydetme
-||* Uygulama için destek biletleri İş Ortağı Merkezi
-||* İş ortağı destek biletlerini görüntüle
+||* Iş Ortağı Merkezi için destek biletleri oluşturma
+||* Oluşturduğunuz iş ortağı destek biletlerini görüntüle
 
-## <a name="manage-referrals"></a>Referansları yönetme
+## <a name="manage-referrals"></a>Başvuruları yönetme
 
 |**Role** | **Yapabilecekleriniz**|**Daha fazla bilgi edinin**
 |------------------------------|:-------------------------|---|
-|Referans yöneticisi|Verilerde Referanslar sekmesinde her şeyi oluşturma ve İş Ortağı Merkezi|[Ortak satış fırsatlarını yönetme](manage-co-sell-opportunities.md)
-||    Tüm ortak satış fırsatlarını ve müşteri adaylarını görüntüleme ve düzenleme
-||    Anlaşma için ekip üyeleri atay olabilir
-||    İş profillerini görüntüleme ve düzenleme
-||    Kazandı olarak işaretlenen ve anlaşma kaydı için uygun olan fırsatlar için anlaşmaları görüntüleme ve kaydetme
-||    Destek biletleri oluşturabilir ve görüntüleme
-|Referans kullanıcısı|Ortak satış fırsatlarını yalnızca ekibin bir parçası olanlar için oluşturma ve yönetme |[Ortak satış fırsatlarını yönetme](manage-co-sell-opportunities.md)
+|Başvuru Yöneticisi|Iş Ortağı Merkezi 'nde Referanslar sekmesinde her şeyi oluşturun ve yönetin|[Ortak satış fırsatlarını yönetme](manage-co-sell-opportunities.md)
+||    Tüm ortak satış fırsatlarını ve müşteri adaylarını görüntüleyebilir ve düzenleyebilir
+||    , Bir anlaşma için takım üyeleri atayabilir
+||    İş profillerini görüntüleyebilir ve düzenleyebilir
+||    Kazanıldı olarak işaretlenen ve anlaşma kaydı için uygun olan fırsatlara yönelik anlaşmalar görüntüleyebilir ve kaydedebilirsiniz
+||    Destek biletleri oluşturabilir ve görüntüleyebilir
+|Başvuru kullanıcısı|Ortak satış fırsatlarını yalnızca ekibin bir parçasıysa oluşturun ve yönetin |[Ortak satış fırsatlarını yönetme](manage-co-sell-opportunities.md)
 ||    Rolün atandığı konumlar için ortak satış fırsatları oluşturabilir.
-||    Takım üyesi olan, kazanildi olarak işaretlenen ve anlaşma kaydı için uygun olarak işaretlenen fırsatları görüntüleme ve kaydetme.
-||    Destek biletleri oluşturabilir ve görüntüleme
-|İş profili yöneticisi|İş profilleri oluşturma ve yönetme | [İş profillerini yönetme](create-a-marketing-profile.md)
-||    Destek biletleri oluşturabilir ve görüntüleme
+||    Kazanıldı olarak işaretlenen ve ekip üyesi olmaları durumunda anlaşma kaydı için uygun olan fırsatlara yönelik anlaşmalar görüntüleyebilir ve kaydedebilirsiniz.
+||    Destek biletleri oluşturabilir ve görüntüleyebilir
+|İş profili Yöneticisi|İş profilleri oluşturma ve yönetme | [İş profillerini yönetme](create-a-marketing-profile.md)
+||    Destek biletleri oluşturabilir ve görüntüleyebilir
 
-Yeni referans kullanıcı rolünün yanı sıra anlaşmaların konum kapsamını da tanıtıyoruz. Aşağıdaki tabloda konuma göre deals-access açıklanmıştır.
+Yeni başvurular Kullanıcı rolüyle birlikte, anlaşmalar için de konum kapsamı da tanıtıyoruz. Aşağıdaki tabloda, konuma göre anlaşmalar erişimi açıklanmaktadır.
 
 |**Kapsam** | **Yapabilecekleriniz** |
 |------------------------------|:-------------------------|
-|Tüm şirket | Hem yöneticiler hem de kullanıcılar, şirketlerinde herhangi bir konum için anlaşma oluşturma erişimine sahiptir|
-|| Referans yöneticisinin tüm anlaşmaları görüntüleme ve düzenleme erişimi vardır |
-|| Referans kullanıcıları, yalnızca ekibin bir parçası olan tüm anlaşmaları görüntüleme ve düzenleme erişimine sahiptir |
-|Bir veya daha fazla konum | Hem yöneticiler hem de kullanıcılar, şirketlerinde atanan konum için anlaşma oluşturma erişimine sahiptir|
-|| Referans yöneticisi, atanan konumlara ait tüm anlaşmaları görüntüleme ve düzenleme erişimine sahiptir|
-|| Referans kullanıcıları, takımın parçası olan atanan konumlara ait olan tüm anlaşmaları görüntüleme ve düzenleme erişimine sahiptir|
+|Tüm şirket | Her iki yönetici ve Kullanıcı, şirketlerinde herhangi bir konum için anlaşmalar oluşturma erişimine sahiptir|
+|| Başvuru Yöneticisi tüm anlaşmaları görüntüleme ve düzenleme erişimine sahiptir |
+|| Başvuru kullanıcıları yalnızca ekibin bir parçası olduklarında tüm anlaşmaları görüntüleme ve düzenleme erişimine sahiptir |
+|Bir veya daha fazla konum | Her iki yönetici ve Kullanıcı, şirketlerinin atandığı konuma yönelik anlaşmalar oluşturmak için erişime sahiptir|
+|| Başvuru Yöneticisi atanan konumlara ait tüm anlaşmaları görüntüleme ve düzenleme erişimine sahiptir|
+|| Başvuru kullanıcıları ekibin parçasıysa atanan konumlara ait tüm anlaşmaları görüntüleme ve düzenleme erişimine sahiptir|
 
 ## <a name="manage-incentives"></a>Teşvikleri yönetme
 
 |**Role** | **Yapabilecekleriniz**|**Daha fazla bilgi edinin**
 |------------------------------|:-------------------------|---|
-|Teşvikler yöneticisi|* Teşvikleri başlatıyor ve yönetir |[Teşvikleri kullanmaya başlamanıza yardımcı olmak için bu kaynakları kullanın](incentives-get-started-intro.md)
-||* Teşvik programlarının tüm yönlerini görüntüleme ve düzenleme
-||* Banka ve vergi ayrıntılarını görüntüleme ve düzenleme
-||* İndirim ve ortak kazançları görüntüleme
+|Teşvikleri Yöneticisi|* Teşvikleri 'yi başlatır ve yönetir |[Teşvikleri kullanmaya başlamanıza yardımcı olması için bu kaynakları kullanın](incentives-get-started-intro.md)
+||* Teşvikleri programlarının tüm yönlerini görüntüleyebilir ve düzenleyebilir
+||* Banka ve vergi ayrıntılarını görüntüleyebilir ve düzenleyebilir
+||* İndirim ve ortak işlem kazançlarını görüntüleme
 ||* Erişim desteği
-||* Teşvik ödemeleri ile ilgili itiraz|
-|Teşvikler kullanıcısı|* Teşvik programlarını görüntüleme
-||* Teşvik taleplerini görüntüleme ve başlatma
-||* İndirim ve ortak kazançları görüntüleme
-||* Uygulama için destek biletleri İş Ortağı Merkezi
-||* İş ortağı destek biletlerini görüntüle
+||* İtiraz teşvikleri ödemeleri|
+|Teşvikleri kullanıcısı|* Teşvikleri programlarını görüntüleyebilir
+||* Teşvikleri taleplerini görüntüleyebilir ve başlatabilir
+||* İndirim ve ortak işlem kazançlarını görüntüleme
+||* Iş Ortağı Merkezi için destek biletleri oluşturma
+||* Oluşturduğunuz iş ortağı destek biletlerini görüntüle
 
-## <a name="view-partner-center-insights-data"></a>Veri İş Ortağı Merkezi Analizler görüntüleme
+## <a name="view-partner-center-insights-data"></a>iş ortağı merkezi Analizler verilerini görüntüle
 
 |**Role** | **Yapabilecekleriniz**|**Daha fazla bilgi edinin**|
 |------------------------------|:-------------------------|---|
-|Yönetici raporu görüntüleyicisi|Tüm raporlama veri kümelerine erişim, iş ortağı destek biletleri oluşturma, sizin oluşturdukları iş ortağı destek biletlerini görüntüleme|[Genel bakış pano raporları İş Ortağı Merkezi Analizler](insights-overview-report.md)
-|Rapor görüntüleyicisi|Gelir ve müşteri ve çalışan kişisel verileri dışında veri raporlarına erişim, iş ortağı destek biletleri oluşturma, sizin oluşturdurarak iş ortağı destek biletlerini görüntüleme|
+|Executive rapor Görüntüleyicisi|Tüm raporlama veri kümelerine erişim, iş ortağı destek biletleri oluşturma, oluşturduğunuz iş ortağı destek biletlerini görüntüleme|[iş ortağı merkezi 'nde bulunan pano raporlarının genel bakış Analizler](insights-overview-report.md)
+|Rapor Görüntüleyicisi|Gelir ve müşteri ve çalışan kişisel verileri dışında veri raporlarına erişim, iş ortağı destek biletleri oluşturma, oluşturduğunuz iş ortağı destek biletlerini görüntüleme|
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
 - [Kullanıcı hesabı oluşturup rol ve izin atama](create-user-accounts-and-set-permissions.md)
-- [Yeni bir İş Ortağı Merkezi programına kaydolarak hesap İş Ortağı Merkezi doğrulayın](verification-responses.md)
+- [Yeni bir Iş Ortağı Merkezi programına kayıt yaptığınızda hesap bilgilerinizi doğrulama](verification-responses.md)

@@ -8,12 +8,12 @@ description: Iş Ortağı Merkezi öngörülerine Kullanıcı tanımlı sorguyu 
 author: kshitishsahoo
 ms.author: ksahoo
 ms.localizationpriority: medium
-ms.openlocfilehash: f755bc13ff4e0c4bc3a2c6ceda123c6a2bc47dc5
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 4714d523ff9942838e9666fe75f3df21aae69e043b6d9be1e1819cbd52dfb6ff
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114836396"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115681663"
 ---
 # <a name="delete-report-queries-api"></a>Rapor sorguları API 'sini Sil
 

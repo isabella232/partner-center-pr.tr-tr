@@ -1,82 +1,82 @@
 ---
-title: CSP sözleşmeleri, Fiyat listeleri ve teklifler
+title: CSP anlaşmaları, fiyat listeleri ve teklifler
 ms.topic: article
 ms.date: 05/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-enroll
-description: Bulut Çözümü Sağlayıcısı program kılavuzlarındaki bağlantıları, iş ortağı sözleşmelerini, müşteri sözleşmelerini, fiyat listelerini ve teklifleri bulun.
+description: Program kılavuzları Bulut Çözümü Sağlayıcısı iş ortağı sözleşmelerine, müşteri sözleşmelerine, fiyat listelerine ve tekliflere bağlantılar bulun.
 author: billLinzbach
 ms.author: billli
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: eea3a3232996a86520627f58a0897bd2cc815e93
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: c3fb0dea0a51cb33699f2e9eb92ef8de6585518869243572ee8e4bfdd6d844f3
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114837654"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115681884"
 ---
 # <a name="cloud-solution-provider-program-guide-agreements-price-lists-and-offers"></a>Bulut Çözümü Sağlayıcısı program kılavuzu, sözleşmeler, fiyat listeleri ve teklifler
 
-**Uygulama hedefi**: Iş Ortağı Merkezi | Microsoft Cloud for US Government için iş ortağı Merkezi
+**Için geçerlidir:** İş Ortağı Merkezi | İş Ortağı Merkezi için Microsoft Cloud for US Government
 
-**Uygun roller**: genel yönetici | Yönetim Aracısı
+**Uygun roller:** Genel yönetici | Yönetici aracısı
 
-Microsoft 'un Bulut Çözümü Sağlayıcısı (CSP) programına katılma gereksinimlerini anlamak için bu makaledeki bilgileri gözden geçirin.
+Microsoft'un Bulut Çözümü Sağlayıcısı (CSP) programına katılma gereksinimlerini anlamak için bu makaledeki bilgileri gözden geçirebilirsiniz.
 
 ## <a name="cloud-solution-provider-program-guide"></a>Bulut Çözüm Sağlayıcısı program kılavuzu
 
-Bulut Çözümü Sağlayıcısı programda iş ortağı olma gereksinimlerini gözden geçirin.
+Bulut Çözümü Sağlayıcısı programda iş ortağı olma Bulut Çözümü Sağlayıcısı gözden geçirme.
 
-[Bulut Çözümü Sağlayıcısı iş ortakları için Program kılavuzu](https://go.microsoft.com/fwlink/p/?LinkId=617100)
+[İş ortaklarına Bulut Çözümü Sağlayıcısı kılavuzu](https://go.microsoft.com/fwlink/p/?LinkId=617100)
 
 >[!Note]
->Bulut Çözümü Sağlayıcısı programda onaylanan bir Microsoft iş ortağı olarak durumunuzu onaylama veya onaylama konusunda bir iş harfine ihtiyacınız varsa, bir tane istemek için [desteğe başvurun](https://partner.microsoft.com/pcv/servicerequests/create) .
+>Bulut Çözümü Sağlayıcısı programında onaylanmış bir Microsoft iş ortağı olarak onaylayan veya onaylayan bir [](https://partner.microsoft.com/pcv/servicerequests/create) iş mektubuna ihtiyaç Bulut Çözümü Sağlayıcısı bir iş ortağı isteğinde bulundurabilirsiniz.
 
-### <a name="additional-offer-terms-to-the-microsoft-partner-agreement"></a>Microsoft Iş ortağı sözleşmesi için ek teklif koşulları
+### <a name="additional-offer-terms-to-the-microsoft-partner-agreement"></a>Teklife Ek Teklif Koşulları Microsoft İş Ortağı Sözleşmesi
 
-[Çevrimiçi hizmet abonelikleri ve yazılım kanalı yetkilendirmesi için ek teklif koşulları Kılavuzu](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3NOo7)
+[Çevrimiçi Hizmetler Abonelikleri ve Yazılım Kanalı Yetkilendirmesi için Ek Teklif Koşulları Kılavuzu](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3NOo7)
 
-## <a name="microsoft-customer-agreement-customer-templates"></a>Microsoft Müşteri Sözleşmesi müşteri şablonları
+## <a name="microsoft-customer-agreement-customer-templates"></a>Microsoft Müşteri Sözleşmesi şablonlarını kullanma
 
-Müşterinin adına sipariş ekleyebilmeniz için müşterinin ilgili Microsoft Müşteri sözleşmesini kabul etmesi ve imzalaması gerekir. Microsoft Müşteri anlaşmaları bölgeye özeldir. Müşterinin konumuna göre doğru ülkeyi seçtiğinizden emin olun.
+Bir müşterinin adına sipariş alamadan önce müşterinin ilgili siparişi kabul etme ve imzalaması Microsoft Müşteri Sözleşmesi. Microsoft Müşteri Sözleşmelerini bölgeye özgü olarak kabul etmiş oluruz. Müşterinin konumunu temel alarak doğru ülkeyi seçmeyi emin olun.
 
-Microsoft müşteri anlaşması şablonunun en son sürümünü el ile indirmek için bu [URL 'yi](https://aka.ms/customeragreement)seçin.
+Uygulama şablonunun en son sürümünü el Microsoft Müşteri Sözleşmesi için bu [URL'yi seçin.](https://aka.ms/customeragreement)
 
 >[!IMPORTANT]
->Müşterinin Microsoft Müşteri anlaşmasını kabul ettiğini onaylamanız gerekir. Müşteri, sözleşmeyi kabul etmiş olduğunu ya da müşteriyi doğrudan sözleşmeyi kabul edecek şekilde davet ederek onaylayarak emin olabilirsiniz. Bkz. [müşterinin Microsoft Müşteri sözleşmesinin kabul edildiğini onaylama](confirm-customer-agreement.md).
+>Müşterinin bu hizmeti kabul etmiş olduğunu onaylamanız Microsoft Müşteri Sözleşmesi. Müşterinin anlaşmayı kabul etmiş olduğunu onaylayabilir veya müşteriyi sözleşmeyi doğrudan kabul etmeye davet ederek onay veabilirsiniz. Bkz. [Müşterinin Microsoft Müşteri Sözleşmesi'i kabul Microsoft Müşteri Sözleşmesi.](confirm-customer-agreement.md)
 
-### <a name="professional-secrecy-amendment-to-the-microsoft-cloud-agreement-germany"></a>Professional Gizlilik Microsoft Bulut Sözleşmesi (Almanya) ile düzeltilir
+### <a name="professional-secrecy-amendment-to-the-microsoft-cloud-agreement-germany"></a>Professional Microsoft Bulut Anlaşması 'de Gizlilik Değişikliği (Almanya)
 
-Almanya 'da, ceza kodu (Bölüm 203) ve profesyonel kullanım kodları, belirli istemci ilişkilerinin gizli tutulması gerekir, örneğin hastalar ve tıbbi doktorlarla arasındaki ilişki ve avukatlar ile istemcileri arasındaki ilişki. Bu meslek grupları profesyonel gizliliği güvence altına almak için gerekir. Bulut çözümü sağlayıcılarından bulut tabanlı hizmetler satın almak için bu ve diğer meslelere yönelik olarak, bulut hizmeti sağlayıcısı, profesyonel gizliliği sağlayan müşteriyle yazılı bir sözleşmeyi bitirmelidir.
+Almanya'da Ceza Kodu (Bölüm 203) ve profesyonel davranış kuralları, belirli istemci ilişkilerinin gizli tutulmasını gerektirir. Örneğin, hastalar ve tıbbi doktorları arasındaki ilişki ve avukatlarla müşterileri arasındaki ilişki. Bu grupların profesyonel gizlilik sağlanması gerekir. Bu ve diğer uzmanların bulut çözümü sağlayıcılarından bulut tabanlı hizmetler satın almaları için, bulut hizmeti sağlayıcısının müşteriyle profesyonel gizlilik sağlayan yazılı bir sözleşmeyi sonlandırmış olması gerekir.
 
-Almanya 'da iş yaparsanız, Microsoft Bulut Sözleşmeye ek olarak müşterilerinize bu profesyonel gizlilik düzeltmesi sağlamanız gerekebilir.
+Almanya'da iş yapacaksanız, bu profesyonel gizlilik düzeltmesine ek olarak bu profesyonel gizlilik değişikliğini de orada Microsoft Bulut Anlaşması.
 
-[almanya için Microsoft Bulut sözleşmesi Professional gizliliği düzeltme (EN)](https://go.microsoft.com/fwlink/?linkid=2030827&clcid=0x409)
+[Microsoft Bulut Anlaşması Professional Için Gizlilik Değişikliği (EN)](https://go.microsoft.com/fwlink/?linkid=2030827&clcid=0x409)
 
-[almanya için Microsoft Bulut sözleşmesi Professional gizliliği düzeltme (DE)](https://go.microsoft.com/fwlink/?linkid=2030827&clcid=0x407)
+[Microsoft Bulut Anlaşması Professional Için Gizlilik Değişikliği (DE)](https://go.microsoft.com/fwlink/?linkid=2030827&clcid=0x407)
 
 ## <a name="pricing"></a>Fiyatlandırma
 
-**Iş Ortağı Merkezi** menünüzden erişilebilen, **fiyatlandırma ve teklif** sayfasından lisans tabanlı, kullanım tabanlı ve tek seferlik satın alma işlemleri için fiyatlandırma ayrıntılarını indirin.
+Lisans tabanlı, kullanım tabanlı ve tek kullanımlı satın almalar  için fiyatlandırma ayrıntılarını Fiyatlandırma ve teklifler sayfasından indirin ve bu bilgileri İş Ortağı Merkezi **edinebilirsiniz.**
 
-Lisans tabanlı fiyat listesi aylık olarak güncelleştirilir ve Microsoft, etkin hale gelmeden önce 30 gün yeni fiyatlandırma yapar. lisans tabanlı hizmetlere örnek olarak Office 365, Enterprise Mobility Suite ve Microsoft Dynamics CRM verilebilir. 
+Lisans tabanlı fiyat listesi aylık olarak güncelleştirilir ve Microsoft yeni fiyatlandırmayı etkili olmadan 30 gün önce yayımlar. Lisans tabanlı hizmetlere örnek olarak Office 365, Enterprise Mobility Suite ve Microsoft Dynamics CRM. 
 
-Kullanım tabanlı fiyatlandırma, dinamik ve sık sık değişir. Kullanım tabanlı hizmetlere örnek olarak Microsoft Azure dahildir.
+Kullanım tabanlı fiyatlandırma dinamiktir ve sık sık değişir. Kullanım tabanlı hizmetlere örnek olarak Microsoft Azure.
 
-Tek seferlik satın alma fiyatlandırması de dinamiktir. tek seferlik satın alma örnekleri, Windows sunucu ve SQL yazılım Microsoft Azure rezervasyonları ve ilgili abonelikleri içerir.
+Tek sefer satın alma fiyatlandırması da dinamiktir. Tek seferlik satın alma örnekleri arasında Microsoft Azure ve Windows Server'a karşılık gelen abonelikler ve SQL yer almaktadır.
 
-Azure Marketi teklifleri hakkında fiyatlandırma bilgileri için Iş ortağı merkezi sol gezinti menüsünde **Market** ' e gidin. Yayımcı, SKU 'Lar ve fiyatlandırma hakkındaki bilgileri görmek için bir ürün seçin. Bu Azure Marketi ürünlerinin fiyatları sıklıkla değiştirilebilir. Tüm Market ürünlerinin güncel fiyatlandırma bilgilerini almak için, tüm fiyatlandırma verilerine sahip bir elektronik tablo oluşturmak üzere **Fiyat listesini dışarı aktar** ' ı seçin. Bu bilgiler günlük olarak güncelleştirilir, böylece istediğiniz sıklıkta kontrol edebilirsiniz.
+Teklif tekliflerini Azure Market için sol gezinti **menüsünde** markete İş Ortağı Merkezi gidin. Yayımcı, SKUS ve fiyatlandırma hakkında bilgi görmek için bir ürün seçin. Bu ürün Azure Market sık değişebilir. Tüm Market ürünleri için geçerli fiyatlandırma bilgilerini almak için Fiyat listesini **dışarı aktar'ı seçerek** tüm fiyatlandırma verilerini içeren bir elektronik tablo oluşturabilirsiniz. Bu bilgiler günlük olarak güncelleştirilir, bu nedenle istediğiniz sıklıkta kontrol edin.
 
 ## <a name="offers"></a>Teklifler
 
-CSP 'de bir iş ortağı olarak, Office 365, Enterprise Mobility Suite, Microsoft Dynamics ve Microsoft Azure dahil olmak üzere çok çeşitli Microsoft ürünleri, hizmetleri ve çözümleri satın alabilirsiniz. Bu ürün aileleri dahilinde Satım için hangi tekliflerin kullanılabildiği hakkında daha fazla bilgi için, **Iş Ortağı Merkezi** menünüzden erişilebilen **fiyatlandırma ve teklifler** sayfasındaki CSP teklifi matrisine bakın. Bu belge aylık olarak güncelleştirilir.
+CSP'de iş ortağı olarak Office 365, Enterprise Mobility Suite, Microsoft Dynamics ve Microsoft Azure. Bu ürün aileleri içinde satış için hangi tekliflerin kullanılabilir olduğu hakkında daha  fazla bilgi için Fiyatlandırma ve teklifler sayfasındaki CsP teklif matrisi'ne bakın ve İş Ortağı Merkezi **edinebilirsiniz.** Bu belge aylık olarak güncelleştirilir.
 
-Crest kullanım kaydı API 'sini kullanan CSP iş ortakları için, Microsoft ayrıca **fiyatlandırma ve teklifler** sayfasında CSP 'de Azure hizmetlerinin bir listesini yayımlar.
+Crest Kullanım Kaydı API'sini kullanan CSP iş ortakları için Microsoft, Fiyatlandırma ve teklifler sayfasında CSP'de Azure Hizmetlerinin **bir listesini de** yayımlar.
 
-Bağımsız yazılım satıcıları (ISV 'Ler) tarafından yayınlanan Azure Marketi teklifleri hakkında bilgi edinmek için sol gezinti menüsündeki **Market** sayfasını ziyaret edin. Şu anda yalnızca SaaS (hizmet olarak yazılım) ürün türleri Iş Ortağı Merkezi 'nde satın alınabilir. Azure Market tekliflerinin diğer türlerini edinmek için Azure portal ziyaret etmeniz gerekir.
+Bağımsız Yazılım Satıcıları Azure Market (ISV) tarafından yayımlanan teklif teklifleri hakkında bilgi edinmek için sol **gezinti** menüsündeki Market sayfasını ziyaret edin. Şu anda yalnızca SaaS (hizmet olarak yazılım) ürün türleri, ürün İş Ortağı Merkezi. Diğer teklif türlerini almak için Azure portal ziyaret Azure Market gerekir.
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-- [Microsoft Iş ortağı sözleşmesi hakkında bilgi edinin](microsoft-partner-agreement.md)
+- [Aşağıdakiler hakkında bilgi Microsoft İş Ortağı Sözleşmesi](microsoft-partner-agreement.md)
 - [Bulut Çözümü Sağlayıcısı programına kaydolma](enrolling-in-the-csp-program.md)

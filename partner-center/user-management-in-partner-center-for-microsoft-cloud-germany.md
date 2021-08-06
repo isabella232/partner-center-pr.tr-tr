@@ -10,12 +10,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 95a7c56bc8d20d86379637e7ed3e7499b941a079
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 014c9936159860b652ec64efafddbc783372c630c3d00eb689f6aabe3d214ea6
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114842040"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115681187"
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-germany"></a>Microsoft Bulut Almanya için Iş Ortağı Merkezi 'nde Kullanıcı ve lisans yönetimi
 

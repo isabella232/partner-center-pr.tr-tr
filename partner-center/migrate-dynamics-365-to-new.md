@@ -9,12 +9,12 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2e8eca0a645656388516c4c25f0091713424caf0
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 40be8c8a338f5bbcbc8a10ccd9343f7ef52817902cdf7a5a54e8631a2d2c8b4b
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114838300"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115681544"
 ---
 # <a name="migrate-dynamics-365-business-edition-offers-to-newer-versions"></a>Dynamics 365 Business Edition Tekliflerini daha yeni sürümlere geçirme
 
@@ -50,7 +50,7 @@ Dynamics 365 Business Edition müşterileri, 30 Haziran 2020'ye kadar yeni Busin
 2. Abonelik **Ekle'yi seçin.**
 3. Katalogdan satın almak istediğiniz aboneliği seçin (bu durumda, yukarıdaki seçeneklerden biri), lisans sayısını girin ve gönder'i **seçin.** 
 
-Müşteriniz artık hem eski aboneliğe hem de yeni aboneliğe sahip olur. Sonraki adımınız, lisansları müşterinin kullanıcılarına yeniden atamanızdır.
+Müşteriniz artık hem eski aboneliğe hem de yeni aboneliğe sahip olur. Bir sonraki adımınız, lisansları müşterinin kullanıcılarına yeniden atamanızdır.
 
 1. Sol **gezinti** çubuğundan Müşteriler'i ve ardından hareket halindeki müşteriyi seçin.
 2. Kullanıcılar **ve lisanslar'ı seçin.**
