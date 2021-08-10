@@ -9,12 +9,12 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 91bb81fce340a945d9b6e43277d06156a03f1db1
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: deebc1fdf8df31290413be28eb2aa54a6a0778d80303b9c3d709b362f6280ae2
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114836328"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115683158"
 ---
 # <a name="role-based-access-control-to-the-partner-center-insights-dashboard"></a>iş ortağı merkezi Analizler panoya rol tabanlı erişim denetimi
 

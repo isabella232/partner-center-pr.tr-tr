@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: billLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 73ccd5326447de52eef6f7de2a43b53c09d84dae
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 9480b944ef740a8a230c227fb53242c1a4d18230ca77a17facad5cfd3482ee4d
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114837620"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115690282"
 ---
 # <a name="office-365-government-gcc-for-csp-partner-and-customer-eligibility-criteria"></a>Office 365 Kamu GCC CSP İş Ortağı ve Müşteri uygunluk ölçütleri için genel bilgi 
 

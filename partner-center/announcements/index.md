@@ -8,13 +8,13 @@ author: brentserbus
 ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
-ms.date: 08/02/2021
-ms.openlocfilehash: cf03ec887e16f3e0d0b12e0e643d3fd437fe02da
-ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
+ms.date: 08/05/2021
+ms.openlocfilehash: a388dd92d2711484260b839eb7b753e2335e03788d4b16fe7483be6b618eb2d7
+ms.sourcegitcommit: 8aa666a297f567435c8bd3eb7e90d29d2b96b601
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/04/2021
-ms.locfileid: "115100499"
+ms.lasthandoff: 08/08/2021
+ms.locfileid: "116885465"
 ---
 # <a name="partner-center-announcements"></a>İş Ortağı Merkezi duyuruları
 
@@ -22,102 +22,103 @@ ms.locfileid: "115100499"
 
 |**Kategori**|**Ağustos 2021 duyuruları**|**Duyurulan**|
 |---------|:---------|:---------|
-|Teklifler/Pazarlar|[Yeni ticaret deneyimi için Azure planı fiyat listelerine yaklaşan değişiklikler](2021-august.md#6)| 4 Ağustos |
-|Özellikler|[Azure için CSP yeni ticari deneyim, Vatikan 'a genişletilir](2021-august.md#5)| 3 Ağustos |
-|Özellikler|[iş ortağı Analizler analytics verilerine programlı erişim](2021-august.md#4)| 3 Ağustos |
-|Teklifler/Pazarlar|[bazı Windows 365 teklifleri için teklif kanıtlama gerekir](2021-august.md#3)| 1 Ağustos |
-|Özellikler|[Windows 365 şu anda satın alınabilir: karma dünya için karma Windows](2021-august.md#2)| 1 Ağustos |
-|Özellikler|[Bu aya ait ürünün başlatılan ve tekliflerini görüntüleyin](2021-august.md#1)| 1 Ağustos |
+|Teklifler/Pazarlar|[En son promosyonları ve teklifleri görüntüleme](2021-august.md#7)| 6 Ağustos |
+|Teklifler/Pazarlar|[Yeni ticaret deneyimi için Azure planı fiyat listelerinde yapılacak değişiklikler](2021-august.md#6)| 4 Ağustos |
+|Özellikler|[Azure için CSP yeni ticaret deneyimi, Abd'ye genişletilen](2021-august.md#5)| 3 Ağustos |
+|Özellikler|[İş ortağı ve analiz verilerine program Analizler erişimi](2021-august.md#4)| 3 Ağustos |
+|Teklifler/Pazarlar|[Bazı 365 tekliflerini Windows için teklif taadi](2021-august.md#3)| 1 Ağustos |
+|Özellikler|[Windows 365 artık satın alınabilir: Hibrit Windows hibrit dünya için hibrit bulut](2021-august.md#2)| 1 Ağustos |
+|Özellikler|[Bu ayın ürün lansmanlarını ve tekliflerini görüntüleme](2021-august.md#1)| 1 Ağustos |
 |**Kategori**|**Temmuz 2021 duyuruları**|**Duyurulan**|
-|Özellikler|[Azure için CSP 'de yeni ticaret deneyimi Government Community Cloud genişletiliyor (GCC)](2021-july.md#16)| 26 Temmuz |
-|Özellikler|[Bulut Çözümü Sağlayıcısı (CSP) programındaki iş ortakları arasında Azure aboneliklerinin aktarılması için araç geliştirme](2021-july.md#15)| 21 Temmuz |
-|Özellikler|[Azure için CSP 'deki yeni ticari deneyim ile ilgili Azure teklif kullanılabilirliğine yönelik değişiklikler](2021-july.md#14)| 21 Temmuz |
-|Modern Çalışma Alanı|[Windows 365 ile tanışın: karma dünya için karma Windows](2021-july.md#13)| 20 Temmuz |
-|Özellikler|[Iş Ortağı Merkezi API 'Lerini çağıran iş ortaklarına API azaltma ile tanışın](2021-july.md#12)| 19 Temmuz |
-|Özellikler|[Bulut Çözümü Sağlayıcısı (CSP) programında sunulan yeni yazılım teklifleri ve açık lisans programı değişiklikleri](2021-july.md#11)| 19 Temmuz |
-|Teklifler/Pazarlar|[Enterprise Mobility & Security (EMS) için lisans tabanlı hizmetler fiyat listesi önizlemesine yönelik düzeltmeler E3](2021-july.md#10)| 16 Temmuz |
-|Özellikler|[Microsoft çin Corporation Limited (mccl) Bulut Çözümü Sağlayıcısı (CSP) ' de yazılım ve açık lisans değişikliği](2021-july.md#9)| 13 Temmuz |
-|Hazır Olma|[Bulut Çözümü Sağlayıcısı (CSP) müşteri adresi doğrulama apı 'sindeki değişiklikler 13 temmuz 2021 ' de etkin olacak şekilde](2021-july.md#8)| 12 Temmuz |
-|Özellikler|[temmuz Bulut Çözümü Sağlayıcısı (CSP) topluluk güncelleştirmesi ve anımsatıcıları](2021-july.md#7)| 12 Temmuz |
-|Özellikler|[Iş Ortağı Merkezi 'nden Microsoft sertifikalarınızı etkin tutun](2021-july.md#6)| 9 Temmuz |
-|Özellikler|[.NET Standard SDK sürümü (v 2.0.1'i)](2021-july.md#5)| 7 Temmuz |
-|Özellikler|[Müşteri Indirimi saydamlığının ilanı](2021-july.md#4)| 7 Temmuz |
-|Özellikler|[Windows 7 genişletilmiş güvenlik güncelleştirmeleri (esu) yıl 2 (2021) ürün anahtarı sorunu çözüldü](2021-july.md#3)|2 Temmuz |
-|Özellikler|[Bu aya ait ürünün başlatılan ve tekliflerini görüntüleyin](2021-july.md#2)|1 Temmuz|
-|Özellikler|[Dynamics 365 Buluta Geçiş indirimli tekliflerin yükseltilmesi ve kullanımdan kaldırılması](2021-july.md#1)|1 Temmuz|
+|Özellikler|[Azure için CSP'de yeni ticari deneyim Government Community Cloud (GCC)](2021-july.md#16)| 26 Temmuz |
+|Özellikler|[Bulut Çözümü Sağlayıcısı (CSP) programında iş ortakları arasında Azure aboneliklerinin aktarımı için araç geliştirmesi](2021-july.md#15)| 21 Temmuz |
+|Özellikler|[Azure için CSP'de yeni ticaret deneyimiyle ilgili Azure teklifi kullanılabilirliği değişiklikleri](2021-july.md#14)| 21 Temmuz |
+|Modern Çalışma Alanı|[365 Windows ye tanıtma: Hibrit Windows hibrit dünya için hibrit bulutlar](2021-july.md#13)| 20 Temmuz |
+|Özellikler|[Api'leri çağıran iş ortaklarına API İş Ortağı Merkezi tanıtımı](2021-july.md#12)| 19 Temmuz |
+|Özellikler|[Bulut Çözümü Sağlayıcısı (CSP) programında kullanılabilen yeni yazılım teklifleri ve Açık Lisans programı değişiklikleri](2021-july.md#11)| 19 Temmuz |
+|Teklifler/Pazarlar|[Enterprise Mobility & Security (EMS) E3 için Ağustos lisans tabanlı hizmetler fiyat listesi önizlemesinde düzeltmeler](2021-july.md#10)| 16 Temmuz |
+|Özellikler|[Microsoft China Corporation Limited (MCCL) Bulut Çözümü Sağlayıcısı (CSP) ve Açık Lisans değişikliği](2021-july.md#9)| 13 Temmuz |
+|Hazır Olma|[Bulut Çözümü Sağlayıcısı (CSP) müşteri adresi doğrulama API'sinde yapılan değişiklikler 13 Temmuz 2021'de yayınlanacak](2021-july.md#8)| 12 Temmuz |
+|Özellikler|[Temmuz Bulut Çözümü Sağlayıcısı (CSP) topluluğu güncelleştirmeleri ve anımsatıcılar](2021-july.md#7)| 12 Temmuz |
+|Özellikler|[Microsoft sertifikalarınızı, microsoft sertifikalarından gelen yardımla İş Ortağı Merkezi](2021-july.md#6)| 9 Temmuz |
+|Özellikler|[.NET Standard(v2.0.1) üzerinde SDK Sürümü](2021-july.md#5)| 7 Temmuz |
+|Özellikler|[Müşteri İndirimi Saydamlığı Duyurusu](2021-july.md#4)| 7 Temmuz |
+|Özellikler|[Windows 7 Genişletilmiş Güvenlik Güncelleştirmeleri (ESU) Yıl 2 (2021) ürün anahtarı sorunu çözüldü](2021-july.md#3)|2 Temmuz |
+|Özellikler|[Bu ayın ürün lansmanlarını ve tekliflerini görüntüleme](2021-july.md#2)|1 Temmuz|
+|Özellikler|[Dynamics 365 Buluta Geçiş indirimli tekliflerin promosyonu ve geri ödemesi](2021-july.md#1)|1 Temmuz|
 |**Kategori**|**Haziran 2021 duyuruları**|**Duyurulan**|
-|Özellikler|[2. aşama güncelleştirmesi: yeni ticaret teklifleri için AB/EFTA ve UK iş ortağı faturalandırma para birimi değişikliği](2021-june.md#9)|24 Haziran|
-|Özellikler|[En son yükseltmeleri ve teklifleri görüntüleme](2021-june.md#8)|22 Haziran|
-|Özellikler|[1. aşama: çok yakında kullanıma sunulacak yeni ticaret deneyimiyle ilgili Bulut Çözümü Sağlayıcısı (CSP) Azure teklifi kullanılabilirliğine yönelik değişiklikler](2021-june.md#7)|21 Haziran|
-|Işletmenizi büyütün|[haziran Bulut Çözümü Sağlayıcısı (CSP) topluluk güncelleştirmesi ve anımsatıcıları](2021-june.md#6)|11 Haziran|
-|Teklifler ve pazarlar|[Microsoft 365 ses konferansı ve Microsoft 365 Küçük İşletmeler için Ses için Bulut Çözümü Sağlayıcısı (CSP) promosyon uzantıları](2021-june.md#5)|11 Haziran|
+|Özellikler|[2. Aşama güncelleştirmesi: YENI ticari teklifler için AB/EFTA ve Birleşik Krallık'ta iş ortağı faturalama para birimi değişikliği](2021-june.md#9)|24 Haziran|
+|Özellikler|[En son promosyonları ve teklifleri görüntüleme](2021-june.md#8)|22 Haziran|
+|Özellikler|[1. Aşama: Yakında yeni ticaret deneyimiyle ilgili Bulut Çözümü Sağlayıcısı (CSP) azure teklifi kullanılabilirliği değişiklikleri](2021-june.md#7)|21 Haziran|
+|İşletmenizi Büyüt|[Haziran Bulut Çözümü Sağlayıcısı (CSP) topluluğu güncelleştirmeleri ve anımsatıcılar](2021-june.md#6)|11 Haziran|
+|Teklifler ve Pazarlar|[Bulut Çözümü Sağlayıcısı Konferans ve Konferans için Microsoft 365 (CSP) promosyon Microsoft 365 Küçük İşletmeler için Ses](2021-june.md#5)|11 Haziran|
 |Özellikler|[Kalıcı yazılım fiyat listesi düzeltildi ve yeniden yayımlandı](2021-june.md#4)|4 Haziran|
 |Özellikler|[Temmuz lisans tabanlı hizmetler fiyat listesi Önizlemesi ' ne düzeltmeler](2021-june.md#3)|4 Haziran|
-|Özellikler|[Azure kullanım raporlarında daha zengin bilgiler için ek sütunlar](2021-june.md#2)|2 Haziran|
-|Özellikler|[Bu ayın ürün lansmanlarını ve tekliflerini görüntüleme](2021-june.md#1)|1 Haziran|
+|Özellikler|[Azure kullanım raporlarında daha zengin bilgi için ek sütunlar](2021-june.md#2)|2 Haziran|
+|Özellikler|[Bu aya ait ürünün başlatılan ve tekliflerini görüntüleyin](2021-june.md#1)|1 Haziran|
 |**Kategori**|**Mayıs 2021 duyuruları**|**Duyurulan**|
-|Özellikler|[End- End API testlerini etkinleştirmek için dolaylı model için korumalı alan desteği](2021-may.md#15)|25 Mayıs|
-|Özellikler, Güvenlik ve Uyumluluk & İyiler |[Çevrimiçi Hizmetler (OLS) ve Yazılım Kanalı Yetkilendirme kılavuzu için Haziran güncelleştirmeleri](2021-may.md#14)|25 Mayıs|
-|Özellikler|[CSP'de kalıcı yazılım işlemle ilgili güncelleştirmeler ve Açık Lisans programında yapılan değişiklikler](2021-may.md#13)|17 May|
-|Özellikler|[2. aşama yakında: YENI ticaret teklifleri için AB/EFTA ve Birleşik Krallık'ta iş ortağı faturalama para birimi değişikliği](2021-may.md#12)|17 May|
-|Özellikler|[Microsoft 365 Küçük İşletmeler için Ses Başlarken Sihirbazı'nın (GSW) kullanımdan kaldırıldı](2021-may.md#11)|14 Mayıs|
-|Özellikler|[Mayıs Bulut Çözümü Sağlayıcısı (CSP) topluluk güncelleştirmesi ve anımsatıcılar](2021-may.md#10)|13 Mayıs|
-|Özellikler|[İş ortağı tarafından ortak satış anlaşmaları için analiz](2021-may.md#9)|10 Mayıs|
-|Özellikler|[Barındırma ve SPLA Kurumsal Bayi Teşvik programları 30 Eylül 2021'e kadar uzatıldı](2021-may.md#8)|7 Mayıs|
-|Özellikler|[Varsayılan banka profili işlevselliği, teşvik İş Ortağı Merkezi için kullanılabilir](2021-may.md#7)|7 Mayıs|
-|Özellikler|[Güncelleştirme: Zamanlayıcı ürün lansmanını geciktirdi](2021-may.md#6)|5 Mayıs|
-|Özellikler|[CSP Kalıcı yazılımı yakında Çin'e gelecek](2021-may.md#5)|5 Mayıs|
-|Özellikler|[Son anımsatıcı: 6 Mayıs 2021'de GET niteliği kullanımdan kalkacak](2021-may.md#4)|4 Mayıs|
-|Teklifler/Pazarlar|[1 Mayıs 2021 Lisans tabanlı hizmetler fiyat listesinde düzeltmeler](2021-may.md#3)|4 Mayıs|
-|Özellikler|[Eyalete Ait Varlık niteliğinin duyurusu](2021-may.md#2)|4 Mayıs|
-| Teklifler/Business Applications|[Bu ayın ürün lansmanlarını ve tekliflerini görüntüleme](2021-may.md#1)|3 Mayıs, 7 Mayıs'ta güncelleştirildi|
+|Özellikler|[Uçtan uca API sınamasını etkinleştirmek üzere dolaylı model için korumalı alan desteği](2021-may.md#15)|25 Mayıs|
+|Yetenekler, güvenlik & uyumluluğunu geliştirir |[Online Services (l) ve yazılım kanalı yetkilendirme Kılavuzu 'nda Haziran güncelleştirmeleri](2021-may.md#14)|25 Mayıs|
+|Özellikler|[CSP 'de deneyimidir kalıcı yazılım ve açık lisans programında yapılan değişiklikler üzerinde güncelleştirmeler](2021-may.md#13)|17 May|
+|Özellikler|[2. aşama yakında geliyor: AB/EFTA ve Birleşik Krallık, yeni ticaret teklifleri için iş ortağı faturalandırma para birimi değişikliği](2021-may.md#12)|17 May|
+|Özellikler|[Microsoft 365 Küçük İşletmeler için Ses kullanmaya başlama sihirbazı 'nı kullanımdan kaldırma (gsw)](2021-may.md#11)|14 Mayıs|
+|Özellikler|[Bulut Çözümü Sağlayıcısı (CSP) topluluk güncelleştirmesi ve anımsatıcıları](2021-may.md#10)|13 Mayıs|
+|Özellikler|[İş ortağı LED ortak satış anlaşmaları için analiz](2021-may.md#9)|10 Mayıs|
+|Özellikler|[Barındırma ve SPLA satıcısı, 30 Eylül 2021 ' ye kadar uzatılmış programları ister](2021-may.md#8)|7 Mayıs|
+|Özellikler|[Varsayılan banka profili işlevselliği, teşvik için Iş Ortağı Merkezi 'nde kullanılabilir](2021-may.md#7)|7 Mayıs|
+|Özellikler|[Güncelleştirme: Scheduler ürün başlatması gecikti](2021-may.md#6)|5 Mayıs|
+|Özellikler|[CSP kalıcı yazılımı yakında Çin 'e geliyor](2021-may.md#5)|5 Mayıs|
+|Özellikler|[Son anımsatıcı: 6 Mayıs 2021 ' de GET nitelemesini kullanımdan kaldırma](2021-may.md#4)|4 Mayıs|
+|Teklifler/Pazarlar|[1 Mayıs 2021, lisans tabanlı hizmetler fiyat listesine düzeltmeler](2021-may.md#3)|4 Mayıs|
+|Özellikler|[Eyalet sahibi varlık nitelendirme duyurusu](2021-may.md#2)|4 Mayıs|
+| Teklifler/Business Applications|[Bu aya ait ürünün başlatılan ve tekliflerini görüntüleyin](2021-may.md#1)|3 Mayıs 'ta güncelleştiriliyor 7 Mayıs|
 |**Kategori**|**Nisan 2021 duyuruları**|**Duyurulan**|
-|Hazır Olma|[CSP müşteri adresi doğrulama API'si Haziran ayında canlı olarak güncelleştirildi; test özelliği artık kullanılabilir](2021-april.md#10)|30 Nisan|
-|Özellikler|[Api Swagger İş Ortağı Merkezi için yeni konum](2021-april.md#9)|26 Nisan|
+|Hazır Olma|[Güncelleştirilmiş CSP müşteri adresi doğrulama API 'SI, Haziran ayında etkin olacak test özelliği artık kullanılabilir](2021-april.md#10)|30 Nisan|
+|Özellikler|[Iş Ortağı Merkezi API Swagger belgeleri için yeni konum](2021-april.md#9)|26 Nisan|
 |Özellikler|[Bulut Çözümü Sağlayıcısı (CSP) yazılım dönüş dönemi ilkesi ve indirme bağlantısı süre sonu bildirimi](2021-april.md#8)|21 Nisan|
-|İşletmenizi Büyüt|[Açık Lisans programı: Kurumsal bayileri Bulut Çözümü Sağlayıcısı (CSP) programına geçiş](2021-april.md#7)|19 Nisan|
-|Özellikler|[Artık canlı: Küresel promosyon için hazır olma kılavuzu](2021-april.md#6)|16 Nisan|
-|Community: Davetler ve anımsatıcılar|[Nisan Bulut Çözümü Sağlayıcısı (CSP) topluluk güncelleştirmeleri ve anımsatıcılar](2021-april.md#5)|16 Nisan|
-|Özellikler|[Anımsatıcı: 4 Mayıs 2021'de GET niteliğinin kullanımdan çıkarılması](2021-april.md#4)|9 Nisan|
-|Özellikler|[CSP'de yeni ticari PDF faturası için yeni biçim](2021-april.md#3)|5 Nisan|
+|Işletmenizi büyütün|[lisanslama programını açın: satıcıları Bulut Çözümü Sağlayıcısı (CSP) programına geçiş](2021-april.md#7)|19 Nisan|
+|Özellikler|[Şimdi canlı: genel promosyon hazırlığı Kılavuzu](2021-april.md#6)|16 Nisan|
+|Community: davetlere ve anımsatıcıları|[nisan Bulut Çözümü Sağlayıcısı (CSP) topluluk güncelleştirmesi ve anımsatıcıları](2021-april.md#5)|16 Nisan|
+|Özellikler|[Anımsatıcı: 4 Mayıs 2021 ' de GET nitelemesini kullanımdan kaldırma](2021-april.md#4)|9 Nisan|
+|Özellikler|[CSP 'de yeni ticaret PDF faturası için yeni biçim](2021-april.md#3)|5 Nisan|
 |Özellikler|[Bulut Çözümü Sağlayıcısı (CSP) müşteri ekleme gereksinimlerinde yapılan değişiklikler](2021-april.md#2)|2 Nisan|
-|Özellikler|[Bu ayın ürün lansmanlarını ve tekliflerini görüntüleme](2021-april.md#1)|1 Nisan|
+|Özellikler|[Bu aya ait ürünün başlatılan ve tekliflerini görüntüleyin](2021-april.md#1)|1 Nisan|
 |**Kategori**|**Mart 2021 duyuruları**|**Duyurulan**|
-|Özellikler|[Güncelleştirilmiş CSP müşteri adresi doğrulama API'si artık test için kullanılabilir](2021-march.md#18)|31 Mart|
-|Teklifler/Modern Çalışma Alanı|[Yeni Exchange yönetim merkezi (EAC) deneyimi](2021-march.md#17)|29 Mart|
-|Teklifler/Modern Çalışma Alanı|[Microsoft İşlemleri: Ürün lansman takvimini tanıtma](2021-march.md#16)|25 Mart|
+|Özellikler|[Güncelleştirilmiş CSP müşteri adresi doğrulama API 'SI artık test için kullanılabilir](2021-march.md#18)|31 Mart|
+|Teklifler/modern çalışma alanı|[yeni Exchange yönetim merkezi (eac) deneyimi](2021-march.md#17)|29 Mart|
+|Teklifler/modern çalışma alanı|[Microsoft Işlemleri: ürün başlatma takvimini tanıtma](2021-march.md#16)|25 Mart|
 |Özellikler|[CSP müşteri ekleme gereksinimlerinde yapılan değişiklikler](2021-march.md#15)|25 Mart|
-|Teklifler/Pazarlar|[1 Mart 2021 kalıcı yazılım fiyat listesinde yapılan düzeltmeler](2021-march.md#14)|23 Mart|
-|Özellikler|[.NET Standard(v1.17.0) üzerinde SDK Sürümü](2021-march.md#13)|23 Mart|
-|Özellikler|[UYGUN teklifler için CSP ticari market teklifi ve FY21 CSP teşvikleri](2021-march.md#12)|18 Mart|
-|Özellikler|[Power BI Premium adlandırma ve önkoşul güncelleştirmesi](2021-march.md#11)|18 Mart|
-|Teklifler/Pazarlar|[Microsoft 365 F3 için Mart fiyat Microsoft 365 F3](2021-march.md#10)|16 Mart|
-|Sürücü Verimliliği & Ölçeklendirme|[Yasal şirket adını şirket İş Ortağı Merkezi](2021-march.md#9)|16 Mart|
-|Özellikler|[Güncelleştirme: Bulut Çözümü Sağlayıcısı (CSP) programı evrimi ve Açık Lisans programı değişiklikleri](2021-march.md#8)|15 Mart|
-|İşletmenizi Büyüt|[Önceki bir duyuruya güncelleştirin: Premium Değerlendirmeleri, Uyumluluk Yöneticisi'ne bir eklenti](2021-march.md#7)|15 Mart|
-|Özellikler|[Çözümlerinizi Bir Ticari İş Ortağından (OCP) pazara satışa (GTM) Microsoft ticari markete geçirme](2021-march.md#6)|12 Mart|
-|Özellikler|[Azure'dan Rusya'ya Bulut Çözümü Sağlayıcısı (CSP) programı kapsamındaki yeni ticaret deneyimini genişletme](2021-march.md#5)|10 Mart|
-|Özellikler|[İş Ortağı Merkezi lisans anahtarını indirme ve gerçekleştirmeyi indirme](2021-march.md#4)|5 Mart|
-|Özellikler|[Anlaşmalarınızı İş Ortağı Satışları Bağlan (PSC) İş Ortağı Merkezi](2021-march.md#3)|5 Mart|
-|Özellikler|[1 Nisan 2021'de yeni Microsoft Dynamics 365 ürünleri ve teklifleri](2021-march.md#2)|4 Mart|
-|Özellikler|[Microsoft Evrensel Yazdırma artık bazı paketlerin içinde kullanılabilir](2021-march.md#1)|3 Mart|
+|Teklifler/Pazarlar|[1 Mart 2021 ' de yapılan düzeltmeler kalıcı yazılım fiyat listesi](2021-march.md#14)|23 Mart|
+|Özellikler|[.NET Standard SDK sürümü (v 1.17.0)](2021-march.md#13)|23 Mart|
+|Özellikler|[Uygun teklifler için CSP ticari Market teklifi ve FY21 CSP teşvikleri](2021-march.md#12)|18 Mart|
+|Özellikler|[Power BI Premium teklif adlandırma ve önkoşul güncelleştirme](2021-march.md#11)|18 Mart|
+|Teklifler/Pazarlar|[Microsoft 365 F3 için Mart fiyat güncelleştirmeleri](2021-march.md#10)|16 Mart|
+|Sürücü verimliliği & ölçeği|[Iş Ortağı Merkezi aracılığıyla yasal şirket adını güncelleştirme](2021-march.md#9)|16 Mart|
+|Özellikler|[Bulut Çözümü Sağlayıcısı (CSP) program evrimini güncelleştirme ve lisans programı değişikliklerini açma](2021-march.md#8)|15 Mart|
+|Işletmenizi büyütün|[önceki bir duyuruya güncelleştirme: uyumluluk yöneticisi 'ndeki bir eklenti olan Premium değerlendirmeleri](2021-march.md#7)|15 Mart|
+|Özellikler|[Çözümlerinizi bir ticari Iş ortağından (OCP) Microsoft ticari Market 'e (GTM) taşıma](2021-march.md#6)|12 Mart|
+|Özellikler|[Azure için Bulut Çözümü Sağlayıcısı (CSP) programında yeni ticaret deneyimini rusya 'ya genişletme](2021-march.md#5)|10 Mart|
+|Özellikler|[İş Ortağı Merkezi Yazılım lisans anahtarı ve indirme karşılama](2021-march.md#4)|5 Mart|
+|Özellikler|[iş ortağı satış Bağlan (PSC) üzerinden iş ortağı merkezi 'ne anlaşmalar geçirin](2021-march.md#3)|5 Mart|
+|Özellikler|[Yeni Microsoft Dynamics 365 ürünleri ve 1 Nisan 2021 ' de sunulan teklifler](2021-march.md#2)|4 Mart|
+|Özellikler|[Microsoft Evrensel Yazdırma artık bazı paketlerde kullanılabilir](2021-march.md#1)|3 Mart|
 |**Kategori**|**Şubat 2021 duyuruları**|**Duyurulan**|
-|Özellikler|[PUT Nitelik API'leri kaldırıldı, Mayıs'ta get to retire](2021-february.md#14)|25 Şubat|
-|Özellikler|[Toplu işlemler özelliğini kullanarak büyük ölçekte ortak satış İş Ortağı Merkezi satış anlaşmalarını paylaşma](2021-february.md#13)|25 Şubat|
-|Özellikler|[Yeni satış anlaşması geçiş özelliğini kullanarak Bağlan satış anlaşmalarınızı (PSC) geçirme](2021-february.md#12)|25 Şubat|
-|Özellikler|[İş ortağı tarafından ortak satış anlaşmaları ile daha fazla esneklik](2021-february.md#11)|25 Şubat|
+|Özellikler|[YERLEŞTIRME nitelendirme API 'Leri kullanımdan kalkmışsa, devre dışı bırakmaya al](2021-february.md#14)|25 Şubat|
+|Özellikler|[Iş ortağı merkezi toplu işlemler özelliğini kullanarak ortak satış anlaşmaları ölçeğini ölçeklendirerek paylaşma](2021-february.md#13)|25 Şubat|
+|Özellikler|[yeni anlaşma geçiş özelliğini kullanarak iş ortağı Sales Bağlan (PSC) üzerinden anlaşmalar geçirin](2021-february.md#12)|25 Şubat|
+|Özellikler|[İş ortağı LED ortak satış anlaşmaları ile daha fazla esneklik](2021-february.md#11)|25 Şubat|
 |Özellikler|[Bulut Çözümü Sağlayıcısı (CSP) müşteri ekleme değişiklikleri](2021-february.md#10)|25 Şubat|
-|Özellikler|[Şimdi Canlı: Microsoft İş Ortağı Anlaşmaları (MPAs) kapsamındaki iş ortakları için Adobe Sign'a DocuSign geçişi](2021-february.md#9)|16 Şubat|
-|İşletmenizi Büyüt|[Anımsatıcı: İş Ortağı Merkezi API’lerini çağıran iş ortakları için API azaltma kullanıma sunuldu](2021-february.md#8)|16 Şubat|
-|Özellikler|[Tanıtım Microsoft Viva Konular](2021-february.md#7)|12 Şubat|
-|Teklifler/Pazarlar|[Microsoft 365 E3 fiyat değişiklikleri Mart 2021'de yapılacak](2021-february.md#6)|11 Şubat|
-|Teklifler/Pazarlar|[Norveç kronu için lisans tabanlı önizleme fiyat listesi güncelleştirildi](2021-february.md#5)|10 Şubat|
-|Özellikler|[Premium Yöneticisi'ne bir eklenti olan ek değerlendirmeler 1 Mart 2021'de geliyor](2021-february.md#4)|5 Şubat|
-|Özellikler|[COVID-19'a yanıt verme: Microsoft İş Ortağı Ağı güncelleştirme](2021-february.md#3)|4 Şubat|
-|Özellikler|[İş Ortağı Merkezi'de Referanslar modülüne İş Ortağı Merkezi](2021-february.md#2)|4 Şubat|
-|Modern Çalışma Alanı|[Eğitim müşteri doğrulama işlemi için PUT Nitelik API'lerinin 25 Şubat 2021'e kadar kullanımdan kalkacak ve kullanımdan kalkacak ve 4 Mayıs 2021'e kadar GET yeterliliği elde edecek](2021-february.md#1)|4 Şubat|
+|Özellikler|[Artık canlı: Microsoft Iş ortağı sözleşmeleri (MPAs) altındaki iş ortakları için, Microsoft 'a yönelik DocuSign geçişi](2021-february.md#9)|16 Şubat|
+|Işletmenizi büyütün|[Anımsatıcı: İş Ortağı Merkezi API’lerini çağıran iş ortakları için API azaltma kullanıma sunuldu](2021-february.md#8)|16 Şubat|
+|Özellikler|[Microsoft Viva Konular tanıtımı](2021-february.md#7)|12 Şubat|
+|Teklifler/Pazarlar|[Microsoft 365 E3 mart 2021 ' de gelen fiyat değişiklikleri](2021-february.md#6)|11 Şubat|
+|Teklifler/Pazarlar|[Norveççe kronone için lisans tabanlı önizleme fiyat listesi güncelleştirildi](2021-february.md#5)|10 Şubat|
+|Özellikler|[uyumluluk yöneticisi eklentisi olan Premium değerlendirmeleri 1 mart 2021 ' de geliyor](2021-february.md#4)|5 Şubat|
+|Özellikler|[COVıD-19: Microsoft İş Ortağı Ağı Update 'e yanıt verme](2021-february.md#3)|4 Şubat|
+|Özellikler|[Iş Ortağı Merkezi 'nde başvurular modülüne yönelik yeni güncelleştirmeler](2021-february.md#2)|4 Şubat|
+|Modern Çalışma Alanı|[8 Şubat 2021 ' den itibaren eğitim müşteri doğrulama işlemi için nitelik API 'Leri YERLEŞTIRME ve devre dışı bırakma ve 4 Mayıs 2021 ' ye kadar nitelik edınme](2021-february.md#1)|4 Şubat|
 | **Kategori** | **Ocak 2021 duyuruları** | **Duyurulan** |
-|Modern Çalışma Alanı|[1. Aşama Artık Canlı: AB/EFTA & Birleşik Krallık'ta yeni ticari teklifler için İş Ortağı Faturalama Para Birimi Değişikliği](2021-january.md#15)|28 Ocak|
+|Modern Çalışma Alanı|[Aşama 1 artık canlı: AB/EFTA & UK Birleşik Krallık, yeni ticaret teklifleri için Iş ortağı faturalandırma para birimi değişikliği](2021-january.md#15)|28 Ocak|
 |Modern Çalışma Alanı|[Bulut Çözümü Sağlayıcısı (CSP) müşteri ekleme gereksinimlerinde yapılan değişiklikler](2021-january.md#14)|28 Ocak|
 |Özellikler|[Microsoft İş Ortağı Sözleşmesi (MPA) – dolaylı kurumsal bayi güncelleştirmesi & SSS](2021-january.md#13)|27 Ocak|
 |Özellikler|[İş Ortağı Merkezi dap için iki yeni İşlem Türü içerecek şekilde Denetim günlüğü değişikliklerini içerir](2021-january.md#12)|25 Ocak|

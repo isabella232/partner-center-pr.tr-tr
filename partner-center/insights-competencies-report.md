@@ -1,91 +1,91 @@
 ---
-title: İş Ortağı Merkezi Analizler yetkinlikleri raporu
+title: iş ortağı merkezi Analizler yetkinlikleri raporu
 ms.topic: article
 ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-insights
-description: microsoft çözümleri sunmanıza yardımcı olacak Microsoft yetkinlikleri, yetkinlik düzeyleri ve tekliflerle ilgili olarak neleri iyi bir şekilde geliştirin.
+description: Microsoft çözümlerini sunabilmenize yardımcı olmak için Microsoft uzmanlığına, uzmanlığa ve tekliflere ilişkin neler yapabileceğinizi görün.
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0d5eab0684c52c94c0709f09f254031dd80d8a28
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 18b2d83b71b258d5c3d59f9a87b8b519d868b5c2a410dd6f18cde643b7531f98
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114843910"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115683734"
 ---
-# <a name="competencies-report-available-from-the-partner-center-insights-dashboard"></a>İş Ortağı Merkezi Analizler panosundan İş Ortağı Merkezi Analizler raporu
+# <a name="competencies-report-available-from-the-partner-center-insights-dashboard"></a>yetenek raporları iş ortağı merkezi Analizler panosu 'nda mevcuttur
 
-**Uygun roller:** Genel yönetici | Yönetici aracısı | Rapor görüntüleyici | Yönetici raporu görüntüleyicisi
+**Uygun roller**: genel yönetici | Yönetici Aracısı | Rapor Görüntüleyici | Executive rapor Görüntüleyicisi
 
-Yetkinlikler, şirketinizin Microsoft çözümleri sunmak için teknik yeteneğinizi göstermesine olanak sağlar. Microsoft yetkinlikleri, müşterilerimizin ihtiyaçlarını karşılamak ve uzmanlığınızı olası müşterilere göstermek için tasarlanmıştır. Microsoft'un sunduğu zengin avantajlarla gelir. Örneğin dahil edilen Azure tüketimi miktarları, Office 365 gibi Bulut ürünleri için yetkilendirmeler, teknik destek, Pazara Satış teklifleri ve diğerleri. Günümüzde şu kategorilerde toplam 19 yetkinlik vardır: **Uygulama ve Altyapı,** **İş uygulamaları,** Veri **ve AI** ve **Modern çalışma alanı.** Uzmanlıklar, örneğin Silver veya Gold düzeylerinde katmanlandı. Gold uzmanlığı için daha yüksek bir çubuk ve kullanılabilir pazarlama kaynakları, teklifler ve programlarla ilişkili daha yüksek bir düzey vardır.  
+Uzmanlıklar, şirketinizin Microsoft çözümlerini sunmaya yönelik teknik becerinizi görüntülemesine olanak tanır. Microsoft Uzmanlıklar, müşterilerinizin ihtiyaçlarını karşılayacak şekilde tasarlanmıştır ve olası müşterilere uzmanlığınızı sergileme. bunlar, Microsoft 'un dahil olduğu çeşitli Azure tüketimi, Office 365, teknik destek, pazara sunma teklifleri ve diğerleri gibi bulut ürünlerine yönelik yetkilendirmeler sağlar. Şu kategorilerdeki toplam 19 Uzmanlıklar vardır: **uygulama ve altyapı**, **iş uygulamaları**, **veri ve AI** ve **modern çalışma alanı**. Uzmanlıklar, örneğin gümüş veya altın düzeylerine göre katmanlanlardır. Altın uzmanlık ve ilişkili daha yüksek bir pazarlama kaynağı, teklif ve program düzeyi için daha yüksek bir çubuk mevcuttur.  
 
-Uzmanlık yaşam döngüsü, yetkinlik elde etme ve diğer uzmanlık raporu ayrıntıları hakkında daha fazla bilgi edinecek olursanız uzmanlık raporundan daha fazla kullanım elde edersiniz.
+Uzmanlığın yaşam döngüsü, uzmanlığın kullanımı ve diğer uzmanlık rapor ayrıntıları hakkında daha fazla bilgi edinmek istiyorsanız uzmanlığın raporundan daha fazla kullanım elde edersiniz.
 
-## <a name="competency-life-cycle"></a>Uzmanlık yaşam döngüsü
+## <a name="competency-life-cycle"></a>Uzmanlığa yaşam döngüsü
 
-Yaşam döngüsü açısından, iş ortakları belirli yetkinlikleri elde etmek için gereken ana performans göstergelerini (KIP) temel alan bir şekilde başlar. Gerekli tüm ölçümlerde verilen bir uzmanlık için ayarlanmış eşik değerine ulaştıktan sonra yetkinlik **için** nitelikli hale geldi. İş ortakları daha sonra yetkinliği elde etmek ve bu uzmanlıkta Etkin olmak için uzmanlık teklifi (Silver veya Gold) için ödeme yapacaktır.  Uzmanlık Etkin **durumu,** uzmanlığın elde edildiklerinden itibaren bir yıl boyunca geçerlidir  (bu, yetkinliğe Yıldönümü tarihi olarak da denir). Yıldönümü yılının sonunda iş ortaklarının uzmanlık gereksinimlerini karşılaması gerekir. Bu gereksinimleri tekrar karşılamıyorsa yetkinliği kaybederler. Daha **önce elde** edilen bir uzmanlık için At risk durumu, belirli temel ölçümlerin bu uzmanlık yıldönümü tarihi olan eşiğin altına **düşmesinin hedeflenği anlamına gelir.**
+Yaşam döngüsü açısından iş ortakları, belirli uzmanlıklar sağlamak için gerekli olan ana performans göstergelerini (KPI) oluşturarak başlar. Tüm gerekli ölçümler genelinde belirli bir uzmanlığa yönelik eşik kümesine ulaştıktan sonra, bu, bir uzmanlığa **uygun** hale gelir. İş ortakları daha sonra uzmanlığa ulaşmak ve bu uzmanlığa karşı **etkin** hale gelmesi için uzmanlığa sahip teklif (gümüş veya altın) için ödeme yapabilir. Uzmanlığın **etkin** olduğu bir yıl, uzmanlığın sorumlu olma tarihinden itibaren geçerli olur (Bu, uzmanlığın **yıldönümü tarihi** olarak adlandırılır). Yıldönümü yılının sonunda iş ortaklarının uzmanlığa gereksinimleri karşılaması gerekir. Bu gereksinimleri tekrar karşılamıyorsa, uzmanlığa zarar verirler. Daha önce kullanılan bir uzmanlığa yönelik **risk** durumu, belirli önemli ölçümlerin, bu yetenek **yıldönümü tarihindeki** eşiğin altına düşecek şekilde yansıtılmasıdır.
 
-## <a name="competency-attainment"></a>Uzmanlık elde etme
+## <a name="competency-attainment"></a>Uzmanlığa erişme
 
-Her uzmanlık, yerine getirmek için belirli bir gereksinimler kümesine sahiptir. Bulut uzmanlığı gereksinimleri iki kategoriye ayrılır: beceriler ve performans.
+Her bir uzmanlığa karşılamak için belirli bir gereksinim kümesi vardır. Bulut uzmanlığına yönelik gereksinimler iki kategoriye ayrılır: yetenekler ve performans.
 
-- Beceriler: Gereksinimler genellikle şirketi içindeki kişilerin geçmesi gereken sınavları, değerlendirmeleri veya sertifikaları içerir.
+- Yetenekler: gereksinimler genellikle şirketinizdeki kişilerin geçmesi gereken sınavları, değerlendirmeleri veya sertifikaları içerir.
 
-- Performans: Yetkinliğe uygun olmak için, şirketinizin uzmanlık alanına uygun olan belirli performans eşiklerini karşılaması gerekir. Örneğin, şirketinizin son 12 ay içinde en az Azure tüketimini karşılaması gerekiyor olabilir.
+- Performans: bir uzmanlığa uygun olmak Için şirketiniz, uzmanlık alanına göre hizalı belirli performans eşiklerini karşılamalıdır. Örneğin, şirketinizin son 12 ay boyunca en düşük miktarda Azure kullanımını karşılaması gerekebilir.
 
-## <a name="competencies-report-details"></a>Yetkinlikler rapor ayrıntıları
+## <a name="competencies-report-details"></a>Ylilikler rapor ayrıntıları
 
-Yetkinlikler raporundan aşağıdaki bölümleri kullanabilirsiniz:
+Aşağıdaki bölümleri Uzmanlıklar raporundan görebilirsiniz:
 
 - Özet
-- Uzmanlık ölçümleri analizi
+- Uzmanlığa yönelik ölçüm Analizi
 - Uzmanlık geçmişi
 
  > [!NOTE]
- > Bu rapor, Analizler kullanılabilir. Bu raporu görüntülemek için Genel Yönetici, Hesap Yöneticisi, Rapor Görüntüleyicisi İş Ortağı Merkezi Yönetici Rapor Görüntüleyicisi gibi belirli bir rol atanmış olması gerekir. Daha fazla bilgi için, bkz. şirketinizin Genel Yöneticisi. Bu rapora özgü veri türleri yalnızca Yönetici Rapor Görüntüleyicisi ayrıcalıklarına sahip kullanıcılar tarafından da kullanılabilir.
+ > bu rapor Analizler panosundan kullanılabilir. Bu raporu görüntülemek için Iş Ortağı Merkezi 'nde genel yönetici, hesap yöneticisi, rapor Görüntüleyicisi veya Executive rapor Görüntüleyicisi gibi belirli bir rol atanması gerekir. Daha fazla bilgi için şirketinizin genel Yöneticisi ' ne bakın. bu rapordaki belirli veri türleri yalnızca, Executive rapor Görüntüleyicisi ayrıcalıklarına sahip kullanıcılar tarafından kullanılabilir.
 
 ### <a name="summary"></a>Özet
 
-Özet görünümü, uzmanlık yaşam döngüsünün tüm aşamalarında her uzmanlık düzeyinde (Altın/Gümüş) adlarıyla birlikte bir yetkinlik sayısı sunar. Uzmanlık yaşam döngüsünün aşamaları şunlardır: **Başlatıldı,** **Nitelikli,** **Etkin** ve **Risk altında.** Örnek: Bulut Uzmanlığı gereksinimleri iki kategoriye ayrılır: beceriler ve performans.
+Özet görünümü, uzmanlık yaşam döngüsünün tüm aşamalarında her bir uzmanlık düzeyinde (Altın/Gümüş) adlara sahip Uzmanlıklar sayısını gösterir. Uzmanlık yaşam döngüsünün aşamaları şunlardır: **başlatıldı**, **nitelikli**, **etkin** ve **riskli risk**. Örnek: bulut uzmanlığına ilişkin gereksinimler iki kategoride yer almalıdır: beceriler ve performans.
 
-- Başlatıldı: Devam eden temel gereksinimlerin biri veya daha fazlası için yetkinlik sayısı.
-Uzmanlık adlarına sahip uzmanlık düzeyine (Silver/Gold) göre çalışmaya başlama yetkinliklerinin sayısı dökümünü.
+- Başlatıldı: sürmekte olan bir veya daha fazla temel gereksinimi olan uzmanlık sayısı.
+Uzmanlıklar, uzmanlığa göre (Gümüş/altın) uzmanlık adlarına göre sayılır.
 
-- Nitelikli: Gereksinimleri karşılamış ancak ilgili Silver/Gold teklifini henüz satın almamış veya satın almamış olabileceğiniz yetkinlikler. Yetkinlik adlarla yetkinlik düzeyine (Silver/Gold) göre nitelikli yetkinlik sayısı dökümü.
+- Nitelikli: gereksinimleri karşıladığınız Uzmanlıklar, ancak henüz ilişkili gümüş/altın teklifini satın almamış olabilir veya olmayabilir. Uzmanlık alanları olan uzmanlık düzeyi (Gümüş/altın) kadar nitelikli uzmanlık sayısı dökümü.
 
-- Etkin: Gereksinimleri karşılar ve Bir Silver/Gold teklifi satın aldığınız yetkinlikler. Uzmanlık adlarının yer alan yetkinlik düzeyine (Silver/Gold) göre etkin yetkinlik sayısı dökümünü.
+- Etkin: gereksinimleri karşıladığınız ve gümüş/altın bir teklif satın aldığınız Uzmanlıklar. Etkin uzmanlık alanları, uzmanlığa göre (Gümüş/altın) ve uzmanlık adlarına göre sayılır.
 
-- Risk altında (sonraki yıl): Şu anda  Etkin  olan ancak aynı zamanda gelecek yılın gereksinimlerini karşılamama riski olan yetkinliklerin sayısı.
-Yetkinliklerin dökümü (uzmanlık adlarına sahip Silver/Gold gibi uzmanlık düzeyine göre) ve gelecek yıl için uygun değil riski vardır.
+- Risk altında (sonraki yıl): Şu anda **etkin** olan ve bir sonraki yıla ait gereksinimlerin karşılanmadığında de **riskli** olan uzmanlık sayısı.
+Bir sonraki yıl için uygun olmayan bir risk altında olan Uzmanlıklar (Gümüş/altın gibi Gümüşlik düzeyine göre).
 
-:::image type="content" source="images/insights/competencies-summary.png" alt-text="uzmanlık özeti.":::
+:::image type="content" source="images/insights/competencies-summary.png" alt-text="Uzmanlıklar Özeti.":::
 
-### <a name="competency-metric-analysis"></a>Uzmanlık ölçümü analizi
+### <a name="competency-metric-analysis"></a>Uzmanlığa yönelik ölçüm Analizi
 
-Bu görünümde, iş ortaklarının yetkinliği Silver/Gold düzeyinde elde etmek/korumak için gereken eşiklere göre yetkinlik ölçümlerinin durumu gösterir. 
+Bu görünüm, iş ortaklarının gümüş/altın düzeyde uzmanlığa ulaşmak/sağlamak için gereken eşiklere göre yetenek ölçümlerinin durumunu gösterir. 
 
-Rapor aşağıdaki iki tarih aralığına göre özet olabilir:
+Rapor, aşağıdaki iki tarih aralıklarıyla özetlenebilir:
 
-1. TTM görünümü: Bu, son 12 aya (TTM) göre iş ortağı performansını numaralar.
-2. Yıldönümü Yılı görünümü: Bu, önceki Yıldönümü tarihiyle sonraki Yıldönümü tarihine kadar olan iş ortağı performansını numaralar.
+1. TTA görünümü: Bu, son 12 ay içindeki iş ortağı performansını sıralar (TTD).
+2. Yıldönümü yıl görünümü: Bu, önceki Yıldönümü tarihinden sonraki yıl tarihine kadar iş ortağı performansını numaralandırır.
 
-:::image type="content" source="images/insights/competencies-comp-metrics-analysis.png" alt-text="uzmanlık ölçüm analizi.":::
+:::image type="content" source="images/insights/competencies-comp-metrics-analysis.png" alt-text="uzmanlığa yönelik ölçüm analizi.":::
 
 > [!NOTE]
- > Tüm ölçümler analiz kapsamında değildir. Şu anda Uzmanlıklar raporunda öğrenme ve sertifikasyonla ilişkili ölçümler desteklenmiyor. Bulut Business Applications (CBA) yetkinlikleri şu anda Etkin uzmanlık durumu için ölçüm **analizinde** de desteklenmiyor.
+ > Tüm ölçümler analizin kapsamında değildir. Şu anda, öğrenme ve Sertifikasyon ile ilişkili ölçümler, Uzmanlıklar raporunda desteklenmez. bulut Business Applications (cba) uzmanlıklar, **etkin** uzmanlık durumu için ölçüm analizinde de desteklenmemektedir.
 
 ### <a name="competency-history"></a>Uzmanlık geçmişi
 
-Bu görünümde, uzmanlık düzeyi ve uzmanlık aşamasıyla şimdiye kadar elde ettiysiniz tüm yetkinliklerin ayrıntılı bir tablosu yer alır.
+Bu görünüm, şimdiye kadar kullandığınız tüm uzmanlardan, uzmanlık düzeyi ve uzmanlık aşamasına sahip olan ayrıntılı bir tablo gösterir.
 
 :::image type="content" source="images/insights/competencies-comp-history.png " alt-text="uzmanlık geçmişi.":::
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-- Daha fazla rapor için [bkz. İş Ortağı Merkezi Analizler.](partner-center-insights.md)
+- daha fazla rapor için bkz. [iş ortağı merkezi Analizler](partner-center-insights.md).
 
 >[!NOTE] 
-> Bu raporu güçlü bir şekilde kullanarak ham verileri panonun Raporları İndir bölümünden Analizler indirebilirsiniz. [Daha Fazla Bilgi](insights-download-reports.md) 
+> ham verileri, Analizler panosundaki raporları indir bölümünden bu raporu güçden indirebilirsiniz. [Daha Fazla Bilgi](insights-download-reports.md) 

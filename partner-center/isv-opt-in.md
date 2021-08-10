@@ -1,46 +1,46 @@
 ---
-title: ISV'lerden markete özel teklifler
+title: ISV 'lerden gelen Market özel teklifleri
 ms.topic: article
 ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-pricing
-description: Bağımsız Yazılım Satıcıları'nın (ISV'ler) belirli teklifleri özel hale nasıl ve yalnızca belirli CSP iş ortakları tarafından kullanılabilir hale nasıl sunduğu hakkında bilgi edinebilirsiniz.
+description: Bağımsız yazılım satıcılarının (ISV 'Ler) belirli teklifleri özel ve yalnızca belirli CSP iş ortakları için kullanılabilir hale getirme hakkında bilgi edinin.
 author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7d7abd8e2eea2d22178194832ff8ec0370ab05eb
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 61e9ad743a5ecaee5068d97ded80b7f3771e42fe226e25e43f7074a2eea30d1c
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114840051"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115683006"
 ---
 # <a name="marketplace-exclusive-offers-from-independent-software-vendors"></a>Bağımsız Yazılım Satıcılarından markete özel teklifler
 
-**Uygun roller:** Genel yönetici | Kullanıcı yönetimi yönetici | Yönetici aracısı | Satış aracısı
+**Uygun roller**: genel yönetici | Kullanıcı Yönetimi Yöneticisi | Yönetici Aracısı | Satış Aracısı
 
-Bağımsız Yazılım Satıcısı (ISV), yalnızca belirli CSP iş ortakları tarafından kullanılabilen özel teklifler sunar.
+Bağımsız bir yazılım satıcısı (ISV), yalnızca belirli CSP iş ortakları tarafından kullanılabilen özel teklifleri yapabilir.
 
-CSP iş ortakları, ticari markette tüm ISV İş Ortağı Merkezi görüntülemeyi tercih ediyor. Özel olarak **işaretlenen** teklifler, ancak yalnızca ISV tarafından seçilen belirli iş ortakları tarafından satın alınabilir. Bir teklif Özel olarak **işaretlanmazsa,** tüm iş ortakları teklifi satın alınabilir.
+CSP iş ortakları, Iş ortağı merkezi ticari Market 'teki tüm ISV tekliflerini görüntüleyebilir. Ancak **özel** olarak işaretlenmiş teklifler, yalnızca ISV tarafından seçilen belirli iş ortakları tarafından satın alınabilir. Bir teklif **özel** olarak işaretlenmediğinde, tüm iş ortakları bunu satın alabilir.
 
-BIR ISV tarafından tanımlanan belirli CSP iş ortakları şunları olabilir:
+Bir ISV tarafından tanımlanan belirli CSP iş ortakları şunları yapabilir:
 
-- Ticari market aracılığıyla bu ISV'den özel İş Ortağı Merkezi satın alma
-- Fiyat listesini dışarı aktarma
+- Iş ortağı merkezi ticari Marketi aracılığıyla bu ISV 'den özel teklifler satın alın
+- Fiyat listesini dışarı aktar
 
-## <a name="how-do-you-gain-access-to-exclusive-offers"></a>Özel tekliflere nasıl erişin?
+## <a name="how-do-you-gain-access-to-exclusive-offers"></a>Özel tekliflere nasıl erişim elde edersiniz?
 
-ISV, Market'te bir teklif yayımlarsa, teklifi kimlerin satın alacalarını belirtmek için fırsata sahip olur.
+Bir ISV Market 'te bir teklif yayımladığında, kimin kimlerin satın aldıklarını belirten bir fırsata sahip olurlar.
 
 Seçenekleri şunlardır:
 
-- Tüm CSP iş ortakları satın alınabilir
-- Hangi iş ortaklarının satın alınalarını belirleme
-- CSP iş ortakları tarafından kullanılamaz
+- Tüm CSP iş ortakları satın alabilir
+- Hangi iş ortaklarının satın kullanabileceğini belirleme
+- CSP iş ortakları için kullanılamaz
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-- Ticari markette ISV deneyimi hakkında daha fazla bilgi edinmek için Bulut Çözümü Sağlayıcıları [makalelerini okuyun.](/azure/marketplace/cloud-solution-providers)
+- Ticari Market 'teki ISV deneyimi hakkında daha fazla bilgi edinmek için, [bulut çözümü sağlayıcılarını](/azure/marketplace/cloud-solution-providers)okuyun.
 
-- Ticari market hakkında daha fazla bilgi için Bkz. Bulut [Çözümü Sağlayıcıları için ticari markete genel bakış.](csp-commercial-marketplace-overview.md)
+- Ticari Market hakkında daha fazla bilgi için, [bulut çözümü sağlayıcıları Için ticari Market 'e genel bakış](csp-commercial-marketplace-overview.md)makalesini okuyun.

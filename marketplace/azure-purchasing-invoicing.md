@@ -6,12 +6,12 @@ ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
 ms.date: 06/22/2021
-ms.openlocfilehash: 42e08be73fb6bd1b26e75f461ede51b1e18b909b
-ms.sourcegitcommit: b53616cd7bfeb68298dee69935a8007827b19d21
+ms.openlocfilehash: 029d68f2d33453f760e353bb0eb7a0f59df82fb887ef49d57c0b6c8f4bbe9d9a
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/01/2021
-ms.locfileid: "115014709"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115689096"
 ---
 # <a name="azure-marketplace-purchasing"></a>Azure Market satın alma
 
@@ -29,7 +29,7 @@ Doğru yazılım uygulamasını buladıktan sonra satın alma işlemlerini tamam
 
 Satın alma işlemi tamamlamadan önce kullanıcının Azure kiracısı için doğru yapılandırmaya sahip olduğundan emin olun. Bu, satın alma sırasında hataları önlemeye yardımcı olur.
 
-Uygulama Azure Market deneyiminde Azure portal satın almak istediğiniz uygulamayı bulun ve Oluştur veya **Ayarla** + abone **ol'ı seçin.** Yeni çözümlerinizi kullanamadan önce bazı bilgileri tamamlamanız istenir.
+Uygulama Azure Market deneyiminde Azure portal satın almak istediğiniz uygulamayı bulun ve Oluştur veya **Ayarla** + abone **ol'a tıklayın.** Yeni çözümlerinizi kullanamadan önce bazı bilgileri tamamlamanız istenir.
 
 > [!CAUTION]
 > Özel Market'e onay, çözümün tedariki için bir işaret değildir.
@@ -50,7 +50,7 @@ Microsoft, azure abonelik yöneticisi olarak faturalama profiliniz aracılığı
 
 - **Ücretsiz + Ücretli** – Kullanıcıların herhangi bir yazılım uygulamasını Azure Market sağlar.
 - **Ücretsiz** – Kullanıcıların yalnızca sanal ağlardan ücretsiz yazılım Azure Market.
-- **Hayır** – Kullanıcıların yazılımdan yazılım dağıtmasını Azure Market.
+- **Hayır** – Kullanıcıların sanal ağlardan herhangi bir yazılım Azure Market.
 
 Bu ayarlar, Azure aboneliğinize erişimi olan tüm kullanıcılar için geçerlidir ve bu sayede azure aboneliğiniz aracılığıyla IT tedarikini denetleme Azure portal.
 
@@ -66,7 +66,7 @@ Azure Maliyet Yönetimi'nin altındaki maliyet analizi aracında Azure Market ü
 
 ## <a name="purchase-validation-checks"></a>Satın alma doğrulama denetimleri
 
-Teklif satın alma Azure Market farklı nedenlerle başarısız olabilir. Satın alma için komut satırı arabirimini (CLI) kullanmak hatalara neden olma olasılığı daha yüksek olacaktır çünkü teklifte kullanılabilir veya görünür olmayan bir teklif Azure Market. Satın almanın başarısız olmasına neden olan denetimler aşağıda ve ardından ve ardından ve bu denetimler yer amektedir:
+Teklif satın alma Azure Market farklı nedenlerle başarısız olabilir. Satın alma için komut satırı arabirimini (CLI) kullanmak hatalara neden olma olasılığı daha yüksek olacaktır çünkü teklifte kullanılabilir veya görünür olmayan bir teklif Azure Market. Satın almanın başarısız olmasıyla ilgili denetimler aşağıda vemektedir:
 
 1. Abonelik bir kuruluşa (EA) Kurumsal Anlaşma ve EA yöneticisi satın almaları devre Azure Market devre dışı bırakılmıştır.
 1. EA yöneticisi yalnızca ücretsiz teklifler için satın almaları etkinleştirmiş ve teklif ücretli bir tekliftir.
@@ -74,7 +74,7 @@ Teklif satın alma Azure Market farklı nedenlerle başarısız olabilir. Satın
 1. Bağımsız Yazılım Satıcısı (ISV), en azından bölgenize göre teklifi satmayı durdurdu.
 1. Kullanmakta olduğu abonelik, teklifin kullanılabilir olduğu bir bölgedeki ödeme hesabına aittir.
 1. Abonelik/ödeme hesabı geçerli bir ödeme aracıyla (geçerli bir kredi kartı gibi) ilişkilendirilmiştir.
-1. Abonelik bir Bulut Çözümü Sağlayıcısı 'ye (CSP) ait ve ISV CSP aracılığıyla satmayı reddetti.
+1. Abonelik bir Bulut Çözümü Sağlayıcısı 'a (CSP) ait ve ISV CSP aracılığıyla satmayı reddetti.
 1. Abonelik için Özel Market etkindir ve teklif izin verilen teklifler listesinde yer almamaktadır.
 1. Teklif, belirli müşteriler için Özel/Önizlemedir ve abonelik izin verilen müşteriler listesinde yer almamaktadır.
 

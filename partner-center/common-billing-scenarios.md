@@ -4,43 +4,43 @@ ms.topic: article
 ms.date: 05/06/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-billing
-description: Yeni abonelikler eklerken, lisans miktarını ayarlarken veya aboneliği iptal edinken faturalamayı keşfedin. Kullanım tabanlı ve lisans tabanlı aboneliklerin farkı hakkında bilgi edinin.
+description: Yeni abonelikler eklediğinizde, lisans miktarını ayarlarken veya bir aboneliği iptal ettiğinizde faturalandırmayı keşfedebilirsiniz. Kullanım tabanlı ve lisans tabanlı aboneliklerin nasıl farklı olduğunu görün.
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8ad05edf9c1d67a5e373fde26bf10a4f6ad50cd6
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: af2ca8403192bc6a339c139eecb2d7120fd026a6a3a7d94033c4298177e808e8
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114840340"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115682156"
 ---
-# <a name="common-billing-scenarios-for-csp-program-partners-working-in-partner-center"></a>İş ortaklarında çalışan CSP programı iş ortakları için yaygın faturalama İş Ortağı Merkezi
+# <a name="common-billing-scenarios-for-csp-program-partners-working-in-partner-center"></a>Iş Ortağı Merkezi 'nde çalışan CSP program iş ortakları için genel faturalandırma senaryoları
 
-**Uygun roller:** Yönetici aracısı | Faturalama yöneticisi | Yardım masası aracısı | Satış aracısı
+**Uygun roller**: yönetici Aracısı | Faturalandırma Yöneticisi | Yardım Masası Aracısı | Satış Aracısı
 
-Bu makalelerde, yeni abonelikler ekledikten, bir aboneliğe lisans sayısını ayarlayacak veya aboneliği iptal ettikten sonra faturanız üzerinde ne görmeyi beklediğiniz açıklayacak. Kullanım [İş Ortağı Merkezi lisans](./billing-basics.md)tabanlı abonelikler gibi diğer faturalama türleri farklı şekilde faturalandırıldı.
+Bu makalelerde, yeni abonelikler ekledikten, bir aboneliğe lisans sayısını ayarladıktan veya bir aboneliği iptal ettikten sonra faturanızda görmeyi beklemeniz gerekenleri açıklanmaktadır. Kullanım tabanlı ve lisans tabanlı abonelikler gibi diğer [Iş ortağı merkezi faturalandırma türleri](./billing-basics.md)farklı şekilde faturalandırılır.
 
 
 ## <a name="change-billing-frequency"></a>Faturalama sıklığını değiştirme
 
-Faturalama sıklığı sipariş düzeyinde değiştirilir ve sıklık değiştirilenin ardından, düzeltilen faturalama dönemi ilgili sipariş içindeki tüm aboneliklere uygulanır. 
+Faturalandırma sıklığı, sipariş düzeyinde değiştirilir ve sıklık değiştirildikten sonra, düzeltilen faturalandırma çevrimi bu sırada tüm aboneliklere uygulanır. 
 
-Bir müşterinin çevrimiçi hizmetinin faturalama sıklığını değiştirmek için:
+Bir müşteri için çevrimiçi bir hizmetin faturalandırma sıklığını değiştirmek için:
 
-1. [İş Ortağı Merkezi oturum açın.](https://partner.microsoft.com/dashboard/home)
-2. Sol menüde Müşteriler'i **seçin.**
-3. Abonelik faturalama sıklığını değiştirmek istediğiniz müşteriyi seçin.
-4. Müşterinin **Abonelikler sayfasında** değiştirmek istediğiniz aboneliği seçin.
-5. Ayrıntılar **sayfasındaki** Faturalama **sıklığı'nın altında Aylık** veya **Yıllık'ı** **seçin.** Faturalama sıklığını değiştirme hakkında önemli bilgilerin yanı sıra değiştirilmesi gereken aboneliklerin listesinin yer alan bir onay sayfası görüntülenir.
-6. Değişikliği **yapmak için** Tamam'ı seçin (veya geri **almak** için İptal'i seçin).
+1. [Iş Ortağı Merkezi panosunda oturum açın](https://partner.microsoft.com/dashboard/home).
+2. Sol taraftaki menüde **müşteriler**' i seçin.
+3. Abonelik Faturalandırma sıklığını değiştirmek istediğiniz müşteriyi seçin.
+4. Müşterinin **abonelikler** sayfasında, değiştirmek istediğiniz aboneliği seçin.
+5. **Ayrıntılar** sayfasında, **faturalama sıklığı** altında **aylık** veya **yıllık**' ı seçin. Faturalama sıklığını değiştirme hakkında önemli bilgilerin yanı sıra, değiştirilecek Aboneliklerin listesini içeren bir onay sayfası görürsünüz.
+6. Değişikliği yapmak için **Tamam ' ı** seçin (veya geri almak Için **iptal edin** ).
 
-## <a name="billing-scenarios"></a>Faturalama senaryoları
+## <a name="billing-scenarios"></a>Faturalandırma senaryoları
 
-| Faturalama türü | Ele alan senaryolar |
+| Faturalandırma türü | Kapsanan senaryolar |
 | --------------- | ----------------- |
-| [Aylık faturalama](common-billing-scenarios-monthly.md) | Yeni abonelikler ekleme, lisans miktarını değiştirme ve abonelikleri askıya alma. |
-| [Yıllık faturalama](common-billing-scenarios-annual.md) | Yeni abonelikler ekleme, faturalama tarihinize kadar lisans ekleme, lisans miktarını değiştirme ve abonelikleri askıya alma ve yeniden etkinleştirme. |
-| [Bir kez faturalama ve yinelenen satın almaları seçme](common-billing-scenarios-onetime-recurring.md) | Abonelik satın alma, daha fazla abonelik ekleme, lisans ekleme ve kaldırma. |
-| [Lisans tabanlı SaaS abonelikleri için faturalama](common-billing-scenarios-saas.md) | Lisans tabanlı hizmet olarak yazılım (SaaS) abonelikleri için ücretsiz denemeler. Özel ölçüm SaaS aboneliklerini satın alma ve iptal etme. |
+| [Aylık faturalandırma](common-billing-scenarios-monthly.md) | Yeni abonelikler ekleme, lisans miktarını değiştirme ve abonelikleri askıya alma. |
+| [Yıllık faturalandırma](common-billing-scenarios-annual.md) | Yeni abonelikler ekleme, faturalandırma tarihinden önce lisans ekleme, lisans miktarını değiştirme ve abonelikleri askıya alma ve yeniden etkinleştirme. |
+| [Tek seferlik faturalama ve yinelenen satın alımları seçme](common-billing-scenarios-onetime-recurring.md) | Abonelikler satın alma, daha fazla abonelik ekleme, lisans ekleme ve kaldırma. |
+| [Lisans tabanlı SaaS abonelikleri için faturalandırma](common-billing-scenarios-saas.md) | Lisans tabanlı yazılım hizmeti (SaaS) abonelikleri için ücretsiz denemeler. Özel Ölçüm SaaS aboneliklerini satın alma ve iptal etme. |

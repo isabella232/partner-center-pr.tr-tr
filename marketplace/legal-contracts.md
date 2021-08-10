@@ -6,12 +6,12 @@ ms.topic: article
 author: Guyshu
 ms.author: gushuchm
 ms.date: 11/20/2020
-ms.openlocfilehash: 728b2119b6b9a80146fbe3313d7fd79c77c5dcc8
-ms.sourcegitcommit: 3a2415ab9833d5c574ad76d462f526a131c24f33
+ms.openlocfilehash: 115bbb43510956805362c13f9958cf343cf2833a617ace9da3ff8d31bb2e0897
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "103412650"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115688647"
 ---
 # <a name="legal-contracts"></a>Yasal sözleşmeler
 

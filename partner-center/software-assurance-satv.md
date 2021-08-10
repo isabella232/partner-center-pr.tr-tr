@@ -9,12 +9,12 @@ author: mowree
 ms.author: mowrim
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: c0c65c962fdc46ce4685ee3bb63bacdec036f1e8
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 39c4a7aadebe03c3e37ce6325acb3640909775fa630c3ac4693af430adb47338
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114843536"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115682581"
 ---
 # <a name="training-vouchers-program-retirement"></a>Eğitim Kuponları Programı'nın emeklilik
 

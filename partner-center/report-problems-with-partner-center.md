@@ -1,107 +1,107 @@
 ---
-title: Iş Ortağı Merkezi 'nde tanılama ve Raporlama sorunlarını toplama
+title: Tanılama ve raporlama sorunlarını İş Ortağı Merkezi
 ms.topic: how-to
 ms.date: 11/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-support
-description: Iş Ortağı Merkezi ile ilgili sorunları nasıl bildirebileceğinizi ve Iş ortağı destek ekibi için tanılama bilgilerini nasıl toplayacağınızı öğrenin.
+description: İş Ortağı Desteği ekibine İş Ortağı Merkezi ve tanılama bilgilerini toplama hakkında bilgi edinebilirsiniz.
 author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3e8f48476a6136889be8bb5c9f7a12ed8c42dc94
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 8539b5744cccd7356873a5fa8568fe271cc372877487afe1febe9290ed1e70ac
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114845967"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115682818"
 ---
-# <a name="collecting-diagnostics-and-reporting-problems-in-partner-center"></a>Iş Ortağı Merkezi 'nde tanılama ve Raporlama sorunlarını toplama
+# <a name="collecting-diagnostics-and-reporting-problems-in-partner-center"></a>Tanılama ve raporlama sorunlarını İş Ortağı Merkezi
 
-**Uygulama hedefi**: Iş Ortağı Merkezi | Microsoft Cloud for US Government için iş ortağı Merkezi
+**Için geçerlidir:** İş Ortağı Merkezi | İş Ortağı Merkezi için Microsoft Cloud for US Government
 
-**Uygun roller**: Iş Ortağı Merkezi ile ilgilenen tüm iş ortakları
+**Uygun roller:** İş ortaklarıyla İş Ortağı Merkezi
 
-Tüm oturum açan Iş Ortağı Merkezi kullanıcıları, bir iş ortağı destek isteği oluşturabilir. Kullanıcılar yalnızca, Iş Ortağı Merkezi 'Nde oturum açtıktan sonra gönderdikleri destek isteklerini görüntüleyebilir.
-Sorunları bulup Iş Ortağı Merkezi portalı hatalarıyla ilgili yardıma ihtiyacınız olursa Iş ortağı merkezi desteği 'ne başvurun. Sorunun daha hızlı düzeltilme özelliğini sağlamak için tanılama gönderin. 
+Kullanıcıların oturum açtığı İş Ortağı Merkezi iş ortağı destek isteği oluşturabilir. Kullanıcılar, yalnızca İş Ortağı Merkezi'da oturum açtıktan sonra gönderilen destek isteklerini İş Ortağı Merkezi.
+Portal İş Ortağı Merkezi ilgili sorunlar bulursanız veya yardım gerekirse İş Ortağı Merkezi başvurun. Sorunun daha hızlı düzeltilecek şekilde tanılama gönderme. 
 
-## <a name="report-a-problem-with-the-partner-center"></a>Iş Ortağı Merkezi ile ilgili sorun bildirme
+## <a name="report-a-problem-with-the-partner-center"></a>Raporla ilgili bir sorun İş Ortağı Merkezi
 
-1. **Iş Ortağı Merkezi** panonuzdan **destek** ' i seçin ve ardından **iş ortağı destek istekleri**' ni seçin.
+1. İş ortağı **İş Ortağı Merkezi** Destek'i **ve** ardından İş ortağı destek **istekleri'i seçin.**
 
-2. **[Yeni istek](https://partner.microsoft.com/dashboard/support/servicerequests/create)** ' ı seçin ve ardından sorununuzu en iyi açıklayan sorun türünü arayın. Sorun türünü seçin ve **çözümleri gözden geçirin**.
+2. Yeni **[istek'i](https://partner.microsoft.com/dashboard/support/servicerequests/create)** seçin ve sorunlarınızı en iyi açıklayan sorun türünü arayın. Sorun türünü seçin ve Çözümleri **gözden geçir'i seçin.**
 
-3. Sorunu çözmenize yardımcı olabilecek adımlar veya ilgili belgeler için **önerilen çözümler** sayfasını gözden geçirin.
+3. Sorunlarınızı **çözmenize yardımcı** olacak adımlar veya ilgili belgeler için Önerilen çözümler sayfasını gözden geçirebilirsiniz.
 
-4. **Önerilen çözümler** sorununuzu çözülemezse **panoya geri dön** seçeneğini belirleyebilirsiniz. Hala yardıma ihtiyacınız varsa devam edebilir ve **Sorun ayrıntılarını sağlayabilirsiniz**.
+4. Önerilen **çözümler sorunlarınızı** çözmüşse Pano'ya **geri dönebilirsiniz.** Hala yardıma ihtiyacınız varsa devam edebilir ve Sorun **ayrıntılarını sebilirsiniz.**
 
-5. **Sorun ayrıntılarını** tamamlayıp **gönderin**. Iş ortağı destek temsilcisi sizinle birlikte olacaktır.
+5. Sorun ayrıntılarını **tamamla ve** **gönder'i seçin.** İş Ortağı Desteği temsilcisi sizi takip eder.
 
-## <a name="schedule-a-support-appointment"></a>Destek randevusu Zamanlama 
+## <a name="schedule-a-support-appointment"></a>Destek randevusu zamanlama 
 
-**Şu anda önizleme aşamasındadır*
+**Şu anda önizlemede*
 
-Randevu zamanlaması, büyük/küçük harfe atanan bir randevuyu zamanlamanıza olanak sağlar.  Önizleme aşamasında, randevular sorun türleri ve destek takımları alt kümesiyle sınırlandırılmıştır.  
+Randevu zamanlaması, servise atanmış olan savunmayla bir randevu zamanlamanıza olanak sağlar.  Randevular önizlemedeyken sorun türlerinin ve destek ekiplerinin bir alt kümesiyle sınırlıdır.  
 
    > [!NOTE]
-   > Bir destek randevusu Zamanlama, durum oluşturulduktan sonra hemen kullanılamaz. Yalnızca isteğiniz bir sahibe atandıktan sonra bir destek randevusu zamanlayabilirsiniz.   
+   > Destek randevusu zamanlaması, olay oluşturmadan hemen sonra kullanılamaz. Destek randevularını yalnızca isteğinize sahip atandıktan sonra zaman alabilirsiniz.   
 
-1. **Iş Ortağı Merkezi** panonuzdan **[destek](https://partner.microsoft.com/dashboard/support/servicerequests)**' i seçin. 
+1. Panodan **destek İş Ortağı Merkezi'yi** **[seçin.](https://partner.microsoft.com/dashboard/support/servicerequests)** 
 
-2. Bilet ayrıntılarını görüntülemek için açık isteğinize tıklayın, **destek randevusu zamanlamadan (Önizleme)** kullanılabilir bir tarih ve saat seçin. Kullanılabilir randevu süreleri, destek bölgesi 'nin takvim kullanılabilirliğini temel alır ve yerel saat diliminizde görüntülenir.
+2. Bilet ayrıntılarını görüntülemek için açık isteğinize tıklayın. Destek randevusu zamanla **(Önizleme)** seçeneğinden kullanılabilir bir tarih ve saat seçin. Kullanılabilir randevu süreleri, destek destekçinin takvim kullanılabilirliğini temel almaktadır ve yerel saat diliminde görüntülenir.
 
-:::image type="content" source="images/support/ticket.png" alt-text="Destek randevusu zamanlayın.":::
+:::image type="content" source="images/support/ticket.png" alt-text="Destek randevusu zamanlaması.":::
 
-3. Randevunuzu bir advole defterine eklemek için **Bu randevuyu zamanlayın** ' ı seçin.
+3. Bir **hukukçıyla randevu almak** için Bu randevuyu zamanla'ya seçin.
 
-:::image type="content" source="images/support/ticket2.png" alt-text="Randevuyu zamanlayın.":::
+:::image type="content" source="images/support/ticket2.png" alt-text="Randevuyu zamanla.":::
 
-4. Randevu kaydedildikten sonra Iş Ortağı Merkezi, Bilet ayrıntıları sayfasında tarih ve saati gösterir.
+4. Randevu rezervasyonu İş Ortağı Merkezi bilet ayrıntıları sayfasında tarih ve saati gösterir.
 
 :::image type="content" source="images/support/ticket3.png" alt-text="Tarih ve saat.":::
 
-5.  Iş Ortağı Merkezi randevularından bir e-posta alacaksınız. Randevuyu takviminize eklemek için. ics dosya ekini açın. Ayrıca, anımsatıcı e-postaları da gönderilebilir. 
+5.  Randevular'dan bir e-İş Ortağı Merkezi alırsınız. Randevuyu takviminize eklemek için .ics dosya ekini açın. Size anımsatıcı e-postaları da gönderebilirsiniz. 
 
-6.  Randevunuzu değiştirmek için Iş Ortağı Merkezi ' nde bilet ayrıntıları sayfasına dönün ve **Bu randevuyu yeniden zamanla** ' yı seçin veya **Bu randevuyu iptal edin**. 
+6.  Randevuyu değiştirmek için, randevuda bilet ayrıntıları sayfasına İş Ortağı Merkezi bu randevuyu **yeniden** zamanla veya Bu randevuyu **iptal et'i seçin.** 
 
    > [!NOTE]
-   > Iş Ortağı Merkezi randevuları posta kutusu izlenmiyor. Yalnızca toplantı davetlerini göndermek için kullanılır.   
+   > İş Ortağı Merkezi Randevular posta kutusu izlanmaz. Yalnızca toplantı davetlerini göndermek için kullanılır.   
    
-Destek randevusu Zamanlama önizleme aşamasındadır:
-- Toplantı onayı ve anımsatıcı e-postaları, randevu süresini yerel saatten farklı bir saat diliminde gösterebilir.  Ancak, ekli. ics dosyası randevuyu doğru yerel saate ekleyerek takvime ekler. 
-- Şu anda toplantı onayı ve anımsatıcı e-postalarının diliyle ilgili bir sınırlama vardır.  Bu e-postalar seçtiğiniz dil yerine Ingilizce olabilir.  Ancak, seçtiğiniz dilde destek almaya devam edersiniz.
+Destek randevusu zamanlama önizlemedeyken:
+- Toplantı onayı ve anımsatıcı e-postaları, randevu saati yerel saat diliminden farklı bir saat diliminde görüntüleniyor olabilir.  Ancak ekli .ics dosyası, randevuyu takvime doğru yerel saatle ekler. 
+- Şu anda toplantı onayı ve anımsatıcı e-postalarının diliyle ilgili bir sınırlama vardır.  Bu e-postalar seçtiğiniz dil yerine İngilizce olabilir.  Ancak, seçtiğiniz dilde yine de destek alırsınız.
 
-## <a name="send-diagnostics"></a>Tanılama gönder
+## <a name="send-diagnostics"></a>Tanılama gönderme
 
-Bir Iş Ortağı Merkezi sayfasında çalışırken bir hata oluşursa, günlük bilgilerini toplamanız istenebilir. Sayfanın üst kısmından sonra gelen bağlantıdan **daha fazla bilgi topla** ' yı seçerek istemci tanılama aracını açın. Bu araç hatanın nedenini saptamak için İş Ortağı Destek takımına gereken bilgileri toplar. 
+Uygulama sayfasındayken bir hata İş Ortağı Merkezi, günlük bilgilerini toplamanız istenebilirsiniz. Sayfanın **üst kısmından** aşağı inen bağlantıdan Daha fazla bilgi topla'yı seçerek İstemci Tanılama aracını açın. Bu araç hatanın nedenini saptamak için İş Ortağı Destek takımına gereken bilgileri toplar. 
 
 >[!NOTE]
->URL 'de **/PCV/** Içeren Iş Ortağı Merkezi sayfalarında, bu bilgileri toplamak için aracı el ile açabilirsiniz.
+>URL İş Ortağı Merkezi **/pcv/** içeren sayfalarda, bu bilgileri toplamak için aracı el ile açabilirsiniz.
 
-1. Sorunu içeren sayfaya gidin.
+1. Sorunun olduğu sayfaya gidin.
 
-2. Istemci Tanılama aracını açmak için **Ctrl + Alt + D** tuşlarına basın.
+2. İstemci **Tanılama aracını açmak için Ctrl+Alt+D** tuşlarına basın.
 
-Tanılama bilgilerini önizleyebilir ve ardından, destek isteğinize ekleyebileceğiniz bir dosyaya kaydedebilirsiniz. Bize bilgi göndermek için:
+Tanılama bilgilerini önizler ve ardından destek isteğinize ekln bir dosyaya kaydedebilirsiniz. Bize şu bilgileri göndermek için:
 
-3. Kaldırmak isteyebileceğiniz kişisel verileri içerebileceğinden, göndermeden önce dosyadaki bilgileri gözden geçirin.
+3. Dosyayı göndermeden önce dosyada bulunan bilgileri gözden geçirebilirsiniz çünkü kaldırmak istediğiniz kişisel veriler olabilir.
 
    > [!NOTE]
-    >Bazı tarayıcılarda, **Önizleme** sayfasının alt kısmındaki **sayfa görünümü** bölümü boş görünebilir. Bu tamam.
+    >Bazı tarayıcılarda Önizleme **sayfasının** en altındaki Sayfa Görünümü **bölümü** boş görünebilir. Bu sorun değil.
 
-4. Dosyayı kaydetmek için ekrandaki yönergeleri izleyin.
+4. Ekrandaki yönergeleri izleyerek dosyayı kaydedin.
 
-5. Dosyayı destek isteğinize ekleyin.
+5. Dosyayı destek isteğinize ekleme.
 
-İş ortağı desteği, en güncel bilgileri alabilmek için bu aracı birkaç kez çalıştırmanızı isteyebilir.
+İş Ortağı Desteği bu aracı birkaç kez çalıştırarak en güncel bilgileri edinebilirsiniz.
 
-## <a name="hours-of-operation"></a>İşlem saatleri
+## <a name="hours-of-operation"></a>Çalışma saatleri
 
 **İş ortağı desteği**
 
-:::image type="content" source="images/support/hoop.png" alt-text="İşlem destek saatleri.":::
+:::image type="content" source="images/support/hoop.png" alt-text="Destek çalışma saatleri.":::
 
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-- [Bir müşteri adına bir hizmet sorunu bildirin](report-problems-on-behalf-of-a-customer.md)
+- [Müşteri adına hizmet sorunu bildirme](report-problems-on-behalf-of-a-customer.md)

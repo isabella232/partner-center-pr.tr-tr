@@ -1,75 +1,75 @@
 ---
-title: Günlük olarak derecelendirilmiş kullanım mutabakat dosyaları
+title: Günlük olarak derecelendirilen kullanım mutabakatı dosyaları
 ms.topic: article
 ms.date: 06/12/2020
-description: Günlük olarak derecelendirilmiş kullanım mutabakat dosyalarını okuma hakkında bilgi İş Ortağı Merkezi. Mutabakat dosyasındaki belirli alanlar için açıklamalar içerir.
+description: Iş Ortağı Merkezi 'nde günlük dereceli kullanım mutabakatı dosyalarını nasıl okuyacağınızı öğrenin. Keşfi dosyasındaki belirli alanların açıklamalarını içerir.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-billing
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9b9c422124227804dcf1ac70286a73155d2e71d3
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 28b61ba66fa887db5b27667318ac8f3dcfbff0a14b73925db5a7be1b77dca266
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114844080"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115689313"
 ---
-# <a name="learn-how-to-read-daily-rated-usage-reconciliation-files-in-partner-center"></a>Günlük olarak değerlendirilen kullanım mutabakat dosyalarını okuma hakkında bilgi İş Ortağı Merkezi
+# <a name="learn-how-to-read-daily-rated-usage-reconciliation-files-in-partner-center"></a>Iş Ortağı Merkezi 'nde günlük dereceli kullanım mutabakatı dosyalarını nasıl okuyacağınızı öğrenin
 
-**Uygulama:** İş Ortağı Merkezi | İş Ortağı Merkezi için Microsoft Cloud for US Government
+**Uygulama hedefi**: Iş Ortağı Merkezi | Microsoft Cloud for US Government için iş ortağı Merkezi
 
-**Uygun roller:** Yönetici aracısı | Faturalama yöneticisi | Satış aracısı | Yardım masası aracısı
+**Uygun roller**: yönetici Aracısı | Faturalandırma Yöneticisi | Satış Aracısı | Yardım Masası Aracısı
 
-Bu makalede, günlük olarak derecelendirilmiş kullanım mutabakat dosyalarının nasıl okunma durumu açıklanmıştır.
+Bu makalede, günlük dereceli kullanım mutabakatı dosyalarının nasıl okunacağı açıklanır.
 
 >[!NOTE]
->Günlük olarak derecelendirilmiş kullanımın api'de görünmesi İş Ortağı Merkezi veya API üzerinden erişilemediklerinden 24 saat sürer.
+>Günlük olarak derecelendirilen kullanımlar, Iş Ortağı Merkezi 'nde veya API aracılığıyla erişilecek 24 saat sürer.
 
-## <a name="fields-in-daily-rated-usage-reconciliation-files"></a>Günlük olarak derecelendirilmiş kullanım mutabakat dosyalarında alanlar
+## <a name="fields-in-daily-rated-usage-reconciliation-files"></a>Günlük olarak derecelendirilen kullanım mutabakatı dosyalarındaki alanlar
 
 | Sütun | Açıklama |
 | ------ | ----------- |
-| PartnerId | GUID biçiminde iş ortağı tanımlayıcısı. |
+| İş ortağı kimliği | GUID biçiminde iş ortağı tanımlayıcısı. |
 | PartnerName | İş ortağının adı. |
 | CustomerId | Müşteri için GUID biçiminde benzersiz Microsoft tanımlayıcısı. |
-| CustomerName | Müşterinin kuruluş adı, İş Ortağı Merkezi. *Bu sütun, faturayı sistem bilgileriyle mu mutabakata varmak için önemlidir.* |
+| CustomerName | Iş Ortağı Merkezi 'nde raporlanan müşterinin kuruluş adı. *Bu sütun, faturayı sistem bilgileriniz ile mutabık kılma açısından önemlidir.* |
 | CustomerDomainName | Müşterinin etki alanı adı. |
 | CustomerCountry | Müşterinin bulunduğu ülke. |
-| MpnId | CSP iş ortağının MPN tanımlayıcısı. |
-| Tier2MpnId | Abonelik için kayıt kurumsal bayinin MPN tanımlayıcısı. |
-| InvoiceNumber | Belirtilen işlemi görünen fatura numarası. |
-| ProductId | Ürünün tanımlayıcısı. |
+| Mpnıd | CSP iş ortağının MPN tanımlayıcısı. |
+| Tier2MpnId | Abonelik için kayıt satıcısının MPN tanımlayıcısı. |
+| Faturanumarası | Belirtilen hareketin göründüğü fatura numarası. |
+| ProductId | Ürün için tanımlayıcı. |
 | SkuId | Belirli bir SKU için tanımlayıcı. |
-| AvailabilityId | Belirli bir SKU'nun kullanılabilirliği için tanımlayıcı. Bu sütunda SKU'nun belirli bir ülkede, para biriminde, sektör segmentinde vb. satın alınıp alınamayabiliyor olduğu gösterir. |
-| SkuName | Belirli bir SKU'nun başlığı. |
+| Kullanılabilirlik kimliği | Belirli bir SKU 'nun kullanılabilirliğine yönelik tanımlayıcı. Bu sütun, SKU 'nun verilen ülke, para birimi, sektör segmenti vb. için kullanılabilir olup olmadığını gösterir. |
+| SkuName | Belirli bir SKU için başlık. |
 | ProductName | Ürünün adı. |
 | PublisherName | Yayımcının adı. |
-| PublisherId | YAYıMCının GUID biçimindeki tanımlayıcısı. |
-| SubscriptionDescription | Fiyat listesinde tanımlandığı gibi müşteri tarafından satın alınan hizmet teklifi adı. (Bu sütun OfferName ile aynı **alandır).** |
-| SubscriptionId | Microsoft faturalama platformunda bir aboneliğin benzersiz tanımlayıcısı. Mutabakat için kullanılamaz. *Bu tanımlayıcı, iş ortağı yönetici **konsolunda Abonelik Kimliği** ile aynı değildir.* |
-| ChargeStartDate | Faturalama döngüsünün başlangıç tarihi (önceki faturalama döngüsünden daha önce ücret ödememiş olan gizli kullanım verilerini sunmak dışında). Saat her zaman günün başlangıcıdır (00:00). |
-| ChargeEndDate | Faturalama döngüsünün bitiş tarihi (önceki faturalama döngüsünden daha önce ücret ödememiş olan gizli kullanım verilerini gösterirken olduğu tarihler hariç). Saat her zaman günün sonu, 23:59'dır. |
-| UsageDate | Hizmet kullanım tarihi. |
+| PublisherId | GUID biçimindeki yayımcının tanımlayıcısı. |
+| Abonelik açıklaması | Fiyat listesinde tanımlandığı şekilde, müşteri tarafından satın alınan hizmet sunumunun adı. (Bu sütun, **Offername** ile özdeş bir alandır). |
+| SubscriptionId | Microsoft faturalandırma platformunda bir abonelik için benzersiz tanımlayıcı. Mutabakat için kullanılmıyor. *Bu tanımlayıcı, iş ortağı yönetim konsolundaki **ABONELIK kimliğiyle** aynı değildir.* |
+| ChargeStartDate | Fatura döngüsünün başlangıç tarihi (önceki fatura döngüsünden daha önce ücretlendirilmeyen kullanım verilerinin tarihlerini sunmadan hariç). Saat her zaman günün başlangıcıdır (00:00). |
+| ChargeEndDate | Fatura döngüsünün bitiş tarihi (önceki fatura döngüsünden daha önce ücretlendirilmeyen kullanım verilerinin tarihlerini sunmadan hariç). Saat daima günün sonu, 23:59. |
+| UsageDate | Hizmet kullanımı tarihi. |
 | MeterType | Ölçüm türü. |
 | MeterCategory | Kullanım için en üst düzey hizmet. |
-| MeterId | Kullanılan ölçümün tanımlayıcısı. |
-| MeterSubCategory | Hızı etkileyebilecek Azure hizmeti türü. |
-| MeterName | Tüketilen ölçüm için ölçü birimi. |
-| MeterRegion | Bu sütun, MeterRegion'ın geçerli ve doldurulmuş olduğu hizmetler için bölge içindeki bir veri merkezinin konumunu tanımlar. |
-| Birim | Kaynak Adı **birimi.** |
-| ResourceLocation | Ölçümün çalıştır bulunduğu veri merkezi. |
-| ConsumedService | Kullanılan Azure platform hizmeti. |
-| adlı yönetilen örnek, | Azure çözümü için ilgili kaynakları tutan bir kapsayıcıyı temsil eder. |
-| ResourceURI | Kullanılan kaynağın URI'si. |
+| MeterId | Kullanılan ölçüm için tanımlayıcı. |
+| MeterSubCategory | Hızı etkileyebilecek Azure hizmetinin türü. |
+| MeterName | Tüketilmekte olan ölçüm için ölçü birimi. |
+| MeterRegion | Bu sütun, MeterRegion 'in uygulanabilir ve doldurulmuş olduğu hizmetler için bölge içindeki bir veri merkezinin konumunu tanımlar. |
+| Birim | Kaynak **adının** birimi. |
+| ResourceLocation | Ölçüm 'in çalıştığı veri merkezi. |
+| ConsumedService | Kullandığınız Azure platform hizmeti. |
+| adlı yönetilen örnek, | Bir Azure çözümü için ilgili kaynakları tutan kapsayıcıyı temsil eder. |
+| ResourceURI | Kullanılan kaynağın URI 'SI. |
 | ChargeType | Ücretin veya düzeltmenin türü.  |
-| UnitPrice | Satın alma zamanında fiyat listesinde yayımlanan lisans başına fiyat. Bu fiyatın mutabakat sırasında faturalama sisteminize depolanmış bilgilerle eş olduğundan emin olun. |
-| Miktar | Lisans sayısı. Bu fiyatın mutabakat sırasında faturalama sisteminize depolanmış bilgilerle eş olduğundan emin olun. |
-| Unittype | Ölçümün ücret ödemesi yapılan birim türü.  |
-| BillingPreTaxTotal | Vergilerden önceki toplam fatura tutarı.<br/> _**BillingPreTaxTotal** = FLOOR(([ @EffectiveUnitPrice ]*[ @Quantity ]*[ @PCToBCExchangeRate ]), 2)_ |
-| BillingCurrency | Müşterinin coğrafi bölgesinde para birimi. |
-| PricingPreTaxTotal | Vergiler eklenmeden önce fiyatlandırma. |
+| UnitPrice | Satın alma sırasında fiyat listesinde yayınlanan lisans başına fiyat. Bu fiyatın, mutabakat sırasında faturalandırma sisteminizde depolanan bilgilerle eşleştiğinden emin olun. |
+| Miktar | Lisans sayısı. Bu fiyatın, mutabakat sırasında faturalandırma sisteminizde depolanan bilgilerle eşleştiğinden emin olun. |
+| UnitType | Ölçüm 'in ücretlendirildiği birim türü.  |
+| BillingPreTaxTotal | Vergi öncesi fatura tutarının toplam sayısı.<br/> _**Billingpretaxtotal** = Floor (([ @EffectiveUnitPrice ]*[ @Quantity ]*[ @PCToBCExchangeRate ]), 2)_ |
+| BillingCurrency | Müşterinin coğrafi bölgesindeki para birimi. |
+| PricingPreTaxTotal | Vergiler dahil olmak üzere fiyatlandırma. |
 | PricingCurrency | Fiyat listesindeki para birimi. |
 | ServiceInfo1 | verilen bir gün için sağlanan ve kullanılan Service Bus bağlantısı sayısı. |
 | ServiceInfo2 | İsteğe bağlı hizmete özgü meta verileri yakalayan eski bir alan. |

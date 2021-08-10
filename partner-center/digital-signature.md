@@ -9,12 +9,12 @@ author: keramp
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c9a910468c9f743cac848cbd9392f3ff64827cec
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 4a691a891ca813cea930daadeabc647c98743493471b169707e82a3baa4f5fb3
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114840663"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115689417"
 ---
 # <a name="view-digitally-signed-invoices"></a>Dijital olarak imzalanan faturaları görüntüleme
 

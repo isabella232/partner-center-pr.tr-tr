@@ -1,6 +1,6 @@
 ---
-title: Atadığınız rolü bulun
-description: Atadığınız rolü, izinlerinizi ve genel yöneticinizle bulmak için Iş Ortağı Merkezi 'ne nereden gidebileceğinizi öğrenin.
+title: Size atanan rolü bulma
+description: Size atanan rolü, İş Ortağı Merkezi ve genel yöneticinizi bulmak için bu uygulamanın hangi yere gideceğinizi öğrenin.
 ms.topic: how-to
 ms.service: partner-dashboard
 ms.subservice: partnercenter-account
@@ -9,49 +9,49 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.date: 10/12/2020
-ms.openlocfilehash: e7e18c967481e0bfb6e6b8466746beb5ed8459b9
-ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
+ms.openlocfilehash: 4749674da24d047b84014194081e00a2bddd1c89e9d515740b4346e0b05898b8
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/04/2021
-ms.locfileid: "115100026"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115683605"
 ---
-# <a name="find-your-role-your-permissions-and-your-global-admin"></a>Rolünüzü, izinlerinizi ve genel yöneticinizle bulun
+# <a name="find-your-role-your-permissions-and-your-global-admin"></a>Rollerinizi, izinlerinizi ve genel yöneticinizi bulun
 
 
-**Uygun roller**: tüm Iş Ortağı Merkezi kullanıcıları
+**Uygun roller:** Tüm İş Ortağı Merkezi kullanıcılar
 
-## <a name="find-the-role-youve-been-assigned"></a>Atadığınız rolü bulun
+## <a name="find-the-role-youve-been-assigned"></a>Size atanan rolü bulma
 
-Genel Yöneticinizde size söylemediyse, aşağıdakileri yaparak Iş Ortağı Merkezi 'nde hangi rolün olduğunu öğrenebilirsiniz:
+Genel yöneticiniz size bunu söylediyseniz, aşağıdaki adımları gerçekleştirerek İş Ortağı Merkezi rolüne sahip olduğunu bulabilirsiniz:
 
-1. Iş Ortağı Merkezi [panosunda](https://partner.microsoft.com/dashboard/home)oturum açın.
+1. Panoda İş Ortağı Merkezi [açın.](https://partner.microsoft.com/dashboard/home)
 
-1. **Hesap ayarları** simgesini seçin ve sonra **profilimi** seçin.
+1. Hesap ayarları **simgesini ve** ardından **Profilim.**
  
-1. **Roller ve izinler** sekmesini seçin. Rollerinizi ve izinlerinizi görürsünüz.
+1. Roller ve **izinler sekmesini** seçin. Rollerinizi ve izinlerinizi görüyorsunuz.
  
 >[!Note]
->Oturum açtığınızda bir program görmüyorsanız, genellikle bu programda çalışmak için doğru izinlere sahip olmadığınız anlamına gelir. Bu nedenle, örneğin, teşvikleri sayfasını oturum açtığınızda görmüyorsanız, teşvikleri izinleriniz yoktur. Genel yöneticiniz size gerekli izinleri verebilir.
+>Oturum asanız bir program görmüyorsanız, bu genellikle bu programda çalışmak için doğru izinlere sahip olmadığınız anlamına gelir. Bu nedenle örneğin, oturum aken Teşvikler sayfasını görmüyorsanız Teşvikler izinlerine sahip olmadığınız bir örnektir. Genel yöneticiniz size gerekli izinleri vetir.
 
-## <a name="find-your-global-admin"></a>Genel yöneticinizle bulun
+## <a name="find-your-global-admin"></a>Genel yöneticinizi bulma
 
-Bazen bir kullanıcının rollerinin değişmesi veya yeni bir kullanıcının belirli bir rol ataması isteyebilir olması gerekebilir.
+Bazen bir kullanıcının rolünün değişmesi veya yeni bir kullanıcının belirli bir rol ataması istemesi olabilir.
 
-Rol değişikliği yapan veya yeni bir kullanıcıya rol atayan bir genel yönetici bulmak için: 
+Rol değişiklikleri yapan veya yeni bir kullanıcıya rol atayan bir genel yönetici bulmak için: 
 
-1. Iş Ortağı Merkezi 'nin sağ üst köşesindeki **Hesap ayarları simgesinden** **Kullanıcı yönetimi**' ni seçin.
+1. Uygulamanın **sağ üst köşesindeki** Hesap ayarları simgesinden kullanıcı **İş Ortağı Merkezi'yi seçin.**
 
-1. Genel yönetici 'de filtrele
+1. Genel yöneticiyi filtreleme
 
-1. Ayrıca, **profilime** gidebilir, **Roller ve izinler** ' i seçebilir ve izinlerinizi yükseltebilmeniz için farklı yöneticilerin bir listesini görebilirsiniz. 
+1. Ayrıca,  **Profilim'a** gidebilir, Roller ve izinler'i seçerek izinlerinizi yükseltmenize yardımcı olacak farklı yöneticilerin listesini de ekleyebilirsiniz. 
 
 
-## <a name="get-a-new-global-admin-assigned-to-your-company"></a>Şirketinize atanan yeni bir genel yönetici alın
+## <a name="get-a-new-global-admin-assigned-to-your-company"></a>Şirketinize yeni bir genel yönetici atama
 
-Genel yöneticiniz şirketten ayrılırsa, başka birinin bu rolü doldurması gerekir. Azure ya da Office 365 ekibine bir bilet gönderebilirsiniz. Bunun nasıl yapılacağı hakkında bilgi için aşağıdaki seçeneklerden birini belirleyin.
+Genel yöneticiniz şirketten ayrılırsa bu rolü başka birinin doldurması gerekir. Azure veya Office 365 ekibine bilet gönderin. Bunun nasıl olduğu hakkında bilgi için aşağıdaki seçeneklerden birini belirleyin.
 
 [Azure için yeni genel yönetici](https://support.microsoft.com/help/4505981/what-to-do-if-the-only-admin-for-your-mpn-program-has-left-the-company)
 
-[Office 365 için yeni genel yönetici](https://admin.microsoft.com/)
+[Office 365 için yeni genel Office 365](https://admin.microsoft.com/)
 

@@ -8,12 +8,12 @@ ms.service: marketplace-customer
 ms.devlang: azurepowershell
 ms.date: 11/24/2020
 ms.custom: devx-track-azurepowershell
-ms.openlocfilehash: d7bd790eab2618822dbc5099ad1ad107794c82d2
-ms.sourcegitcommit: 3a2415ab9833d5c574ad76d462f526a131c24f33
+ms.openlocfilehash: 1aa734e30c73cd1d3c28c4a77af000a1abadaf16676508c3d986bb23b3a2d2d7
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "103412463"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115688548"
 ---
 # <a name="quickstart-manage-a-private-azure-marketplace-using-powershell"></a>Hızlı başlangıç: PowerShell kullanarak özel bir Azure Marketi yönetme
 
@@ -28,7 +28,7 @@ Bu makalede, [az. Market](/powershell/module/az.marketplace) PowerShell modülü
 
 * Azure PowerShell yerel olarak kullanmayı tercih ederseniz:
   * [Az PowerShell modülünü yükler](/powershell/azure/install-az-ps).
-  * [Connect-AzAccount](/powershell/module/az.accounts/connect-azaccount) cmdlet 'Ini kullanarak Azure hesabınıza bağlanın.
+  * [Bağlan-azaccount](/powershell/module/az.accounts/connect-azaccount) cmdlet 'ini kullanarak Azure hesabınıza Bağlan.
 * Azure Cloud Shell kullanmayı seçerseniz:
   * Daha fazla bilgi için bkz. [Azure Cloud Shell Genel Bakış](/azure/cloud-shell/overview) .
 

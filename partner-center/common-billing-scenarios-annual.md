@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9cf6ddd8ed73fcd9a7ee20a180072ad51cc5b7c4
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 2baab834c3d31639f1353a53fb8787da041aec1c1c59776df49bd590fb7452f0
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114843586"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115682377"
 ---
 # <a name="common-annual-billing-scenarios-in-partner-center"></a>İş Ortağı Merkezi'da yaygın yıllık faturalama İş Ortağı Merkezi
 
@@ -70,66 +70,29 @@ Faturalama tarihiniz her ayın 15'indedir. 13 Ocak'ta, aylık 4 ABD doları içi
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 1/13/2018|1/12/2019|Satın almada ücret prorate|48.00|1|48.00
 
-1 Şubat'ta lisans miktarınızı birden ikiye artıracaktır. 15 Şubat lisans tabanlı mutabakat dosyası aşağıdaki fatura satırlarını içerir:
+1 Şubat 'ta, lisans miktarınızdan birini iki olarak artırırsınız. 15 Şubat lisans tabanlı mutabakat dosyası aşağıdaki faturalandırma satırlarını içerir:
 
-|Ücret Başlangıç Tarihi |Ücret Bitiş Tarihi |Ücret Türü |Birim Fiyatı |Miktar |Miktar |
+|Ücret başlangıç tarihi |Ücretlendirme bitiş tarihi |Ücret türü |Birim Fiyatı |Miktar |Miktar |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
-1/13/2018|1/12/2019|Döngü Örneği Hızı|-48.00|1|-48.00
-1/13/2018|1/31/2018|Döngü Örneği Hızı|2.47|1|2.47
-01.02.2018|1/12/2019|Döngü Örneği Hızı|44.98|2|89.96
+1/13/2018|1/12/2019|Bisiklet örneği eşit|-48,00|1|-48,00
+1/13/2018|1/31/2018|Bisiklet örneği eşit|2,47|1|2,47
+01.02.2018|1/12/2019|Bisiklet örneği eşit|44,98|2|89,96
 
-Yıllık fiyat 48,00'dır ve günlük fiyat 0,13'e (48,00/365) eşit olur.
+Yıllık fiyat, 0,13 (48.00/365) günlük fiyatına eşit olan 48,00 ' dir.
 
-Birim fiyat = hizmet dönemindeki gün sayısı x günlük fiyat x lisans sayısı.
+Birim fiyatı = servis süresi x gün cinsinden gün sayısı x Lisans sayısı.
 
-13.01.2018 – 31.01.2018 hizmet döneminde 19 gün vardır.
+1/13/2018 – 1/31/2018 servis döneminde 19 gün vardır.
 
-Bu nedenle birim fiyat = 2,47 (19x0,13x1)
+Bu nedenle, birim fiyatı = 2,47 (19x 0.13 x1)
 
-1/2/2018 – 12.01.2019 hizmet döneminde 346 gün vardır.
+346 gün süreyle hizmet dönemi 2/1/2018 – 1/12/2019.
 
-Bu nedenle birim fiyat = 44,98 (346x0,13x2)
+Bu nedenle, birim fiyatı = 44,98 (346x 0.13 x2)
 
-## <a name="suspend-before-30-days"></a>30 gün önce askıya alma
+## <a name="suspend-before-30-days"></a>30 günden önce askıya al
 
-Faturalama tarihiniz her ayın 15'indedir. 13 Ocak'ta, aylık 4 ABD doları için tek lisansla yeni bir abonelik satın alın ve yıllık faturalamayı seçin. 15 Ocak lisans tabanlı mutabakat dosyası aşağıdaki fatura satırına sahip olur:
-
-|Ücret Başlangıç Tarihi |Ücret Bitiş Tarihi |Ücret Türü |Birim Fiyatı |Miktar |Miktar |
-|       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
-1/13/2018|1/12/2019|Satın almada ücret prorate|48.00|1|48.00
-
-1 Şubat'ta aboneliğinizi askıya alırsınız. 15 Şubat lisans tabanlı mutabakat dosyası aşağıdaki fatura satırına sahip olur:
-
-|Ücret Başlangıç Tarihi |Ücret Bitiş Tarihi |Ücret Türü |Birim Fiyatı |Miktar |Miktar |
-|       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
-1/13/2018|1/12/2019|Ücreti İptal Etme|-48.00|1|-48.00
-
-## <a name="suspend-after-30-days"></a>30 gün sonra askıya alma
-
-Faturalama tarihiniz her ayın 15'indedir. 13 Ocak'ta, aylık 4 ABD doları için tek lisansla yeni bir abonelik satın alın ve yıllık faturalamayı seçin. 15 Ocak lisans tabanlı mutabakat dosyası aşağıdaki fatura satırına sahip olur:
-
-|Ücret Başlangıç Tarihi |Ücret Bitiş Tarihi |Ücret Türü |Birim Fiyatı |Miktar |Miktar |
-|       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
-1/13/2018|1/12/2019|Satın almada ücret prorate|48.00|1|48.00
-
-15 Şubat lisans tabanlı mutabakat dosyasında bu abonelik için herhangi bir faturalama satırı yer almaz.
-1 Mart'ta aboneliğinizi askıya alırsınız. 15 Mart lisans tabanlı mutabakat dosyasında aşağıdaki fatura satırı yer alacağız:
-
-|Ücret Başlangıç Tarihi |Ücret Bitiş Tarihi |Ücret Türü |Birim Fiyatı |Miktar |Miktar |
-|       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
-3/1/2018|1/12/2019|Ücreti İptal Etme|-41.34|1|-41.34
-
-Yıllık fiyat 48,00'dır ve günlük fiyat 0,13'e (48,00/365) eşit olur.
-
-Birim fiyat = hizmet dönemindeki gün sayısı x günlük fiyat x lisans sayısı.
-
-1/3/2018 – 12.01.2019 hizmet döneminde 318 gün vardır.
-
-Bu nedenle birim fiyat = 41,34 (318x0,13x1). Bu bir kredi olduğundan birim fiyatı -41,34'tir.
-
-## <a name="suspend-and-reactivate"></a>Askıya alma ve yeniden etkinleştirme
-
-Faturalama tarihiniz her ayın 15'indedir. 13 Ocak 'ta, $4/ay için bir lisansa sahip yeni bir abonelik satın alıp yıllık faturalandırmayı seçmeniz gerekir. 15 Ocak lisans tabanlı mutabakat dosyası aşağıdaki faturalandırma satırını içerir:
+Fatura faturanızı her ayın 15 ' i vardır. 13 Ocak 'ta, $4/ay için bir lisansa sahip yeni bir abonelik satın alıp yıllık faturalandırmayı seçmeniz gerekir. 15 Ocak lisans tabanlı mutabakat dosyası aşağıdaki faturalandırma satırını içerir:
 
 |Ücret başlangıç tarihi |Ücretlendirme bitiş tarihi |Ücret türü |Birim Fiyatı |Miktar |Miktar |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
@@ -141,11 +104,20 @@ Faturalama tarihiniz her ayın 15'indedir. 13 Ocak 'ta, $4/ay için bir lisansa 
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
 1/13/2018|1/12/2019|Ücreti iptal et|-48,00|1|-48,00
 
-1 Mart 'ta aboneliğinizi yeniden etkinleştirin. 15 Mart lisans tabanlı mutabakat dosyası aşağıdaki faturalandırma satırını içerir:
+## <a name="suspend-after-30-days"></a>30 gün sonra askıya al
+
+Fatura faturanızı her ayın 15 ' i vardır. 13 Ocak 'ta, $4/ay için bir lisansa sahip yeni bir abonelik satın alıp yıllık faturalandırmayı seçmeniz gerekir. 15 Ocak lisans tabanlı mutabakat dosyası aşağıdaki faturalandırma satırını içerir:
 
 |Ücret başlangıç tarihi |Ücretlendirme bitiş tarihi |Ücret türü |Birim Fiyatı |Miktar |Miktar |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
-3/1/2018|1/12/2019|Satın alma sırasında ücretleri eşit oranda artır|41,34|1|41,34
+1/13/2018|1/12/2019|Satın alma sırasında ücretleri eşit oranda artır|48,00|1|48,00
+
+15 Şubat lisans tabanlı mutabakat dosyası bu abonelik için herhangi bir faturalandırma satırı içermez.
+1 Mart 'ta aboneliğinizi askıya alın. 15 Mart lisans tabanlı mutabakat dosyası aşağıdaki faturalandırma satırını içerir:
+
+|Ücret başlangıç tarihi |Ücretlendirme bitiş tarihi |Ücret türü |Birim Fiyatı |Miktar |Miktar |
+|       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
+3/1/2018|1/12/2019|Ücreti iptal et|-41,34|1|-41,34
 
 Yıllık fiyat, 0,13 (48.00/365) günlük fiyatına eşit olan 48,00 ' dir.
 
@@ -153,4 +125,32 @@ Birim fiyatı = servis süresi x gün cinsinden gün sayısı x Lisans sayısı.
 
 318 gün süreyle hizmet dönemi 3/1/2018 – 1/12/2019.
 
-Bu nedenle, birim fiyatı = 41,34 (318x 0.13 x1).
+Bu nedenle, birim fiyatı = 41,34 (318x 0.13 x1). Bu bir kredi olduğundan birim fiyatı-41,34 olur.
+
+## <a name="suspend-and-reactivate"></a>Askıya al ve yeniden etkinleştir
+
+Fatura faturanızı her ayın 15 ' i vardır. 13 Ocak'ta, aylık 4 ABD doları için tek lisansla yeni bir abonelik satın alın ve yıllık faturalamayı seçin. 15 Ocak lisans tabanlı mutabakat dosyası aşağıdaki fatura satırına sahip olur:
+
+|Ücret Başlangıç Tarihi |Ücret Bitiş Tarihi |Ücret Türü |Birim Fiyatı |Miktar |Miktar |
+|       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
+1/13/2018|1/12/2019|Satın almada ücret prorate|48.00|1|48.00
+
+1 Şubat'ta aboneliğinizi askıya alırsınız. 15 Şubat lisans tabanlı mutabakat dosyası aşağıdaki fatura satırına sahip olur:
+
+|Ücret Başlangıç Tarihi |Ücret Bitiş Tarihi |Ücret Türü |Birim Fiyatı |Miktar |Miktar |
+|       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
+1/13/2018|1/12/2019|Ücreti İptal Etme|-48.00|1|-48.00
+
+1 Mart'ta aboneliğinizi yeniden etkinleştirebilirsiniz. 15 Mart lisans tabanlı mutabakat dosyasında aşağıdaki fatura satırı yer alacağız:
+
+|Ücret Başlangıç Tarihi |Ücret Bitiş Tarihi |Ücret Türü |Birim Fiyatı |Miktar |Miktar |
+|       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
+3/1/2018|1/12/2019|Satın almada ücret prorate|41.34|1|41.34
+
+Yıllık fiyat 48,00'dır ve günlük fiyat 0,13'e (48,00/365) eşit olur.
+
+Birim fiyat = hizmet dönemindeki gün sayısı x günlük fiyat x lisans sayısı.
+
+1/3/2018 – 12.01.2019 hizmet döneminde 318 gün vardır.
+
+Bu nedenle birim fiyat = 41,34 (318x0,13x1).

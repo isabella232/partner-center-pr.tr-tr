@@ -1,6 +1,6 @@
 ---
-title: Azure portal bir SaaS teklifi satın alma
-description: Azure portal bir SaaS teklifini bulmayı ve satın almayı öğrenin.
+title: Azure portal'da SaaS teklifi satın alma
+description: Azure portal'da SaaS teklifi bulma ve satın alma hakkında bilgi Azure portal.
 author: mingshen-ms
 ms.author: mingshen
 ms.reviewer: dannyevers
@@ -8,126 +8,126 @@ ms.service: marketplace
 ms.subservice: partnercenter-marketplace-publisher
 ms.topic: how-to
 ms.date: 06/29/2021
-ms.openlocfilehash: a42269dfac07ccc49f72dce7a6e8259ade3d546e
-ms.sourcegitcommit: d133c8b923b90ac5518cb989c0ce4dd69713abf4
+ms.openlocfilehash: 5c5c1565f8e1f2703e82bd75881e9920a1fc71d611d78ef282f771cfb30fcd00
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/22/2021
-ms.locfileid: "114433801"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115688378"
 ---
-# <a name="purchase-a-saas-offer-in-azure-portal"></a>Azure portal bir SaaS teklifi satın alma
+# <a name="purchase-a-saas-offer-in-azure-portal"></a>Azure portal'da SaaS teklifi satın Azure portal
 
-Bu makalede, Azure portal bir hizmet olarak yazılım (SaaS) teklifi aramak, denemek ve satın almak için farklı seçenekler ve gereksinimler açıklanmaktadır.
+Bu makalede, hizmet olarak yazılım (SaaS) teklifini arama, denmeye ve satın almaya ilgili farklı seçenekler ve gereksinimler Azure portal.
 
 ## <a name="create-a-saas-subscription"></a>SaaS aboneliği oluşturma
 
-SaaS aboneliği satın almak için uygun bir Azure aboneliğine erişimi olan bir Azure Kullanıcı hesabına ihtiyacınız vardır. Bu abonelik, faturalandırma için ve satın alınan bulut kaynaklarınızın compartmen'i için kullanılacaktır. Azure abonelikleri hakkında daha fazla bilgi edinmek için bkz. [ek bir Azure aboneliği oluşturma](/azure/cost-management-billing/manage/create-subscription).
+SaaS aboneliği satın almak için uygun bir Azure aboneliğine erişimi olan bir Azure kullanıcı hesabına ihtiyacınız vardır. Bu abonelik hem faturalama hem de satın alınan bulut kaynaklarınızı bölmek için kullanılacaktır. Azure abonelikleri hakkında daha fazla bilgi edinmek için [bkz. Ek Azure aboneliği oluşturma.](/azure/cost-management-billing/manage/create-subscription)
 
-Azure portal **Market** bölümünde istenen SaaS teklifini seçin.
+Aşağıdaki Azure portal Market bölümünde istediğiniz SaaS **teklifini** seçin.
 
-Bir hizmet olarak yazılım aboneliği, belirli bir süre için tek bir bilgisayara yerel yükleme yerine çevrimiçi bir abonelik aracılığıyla bir hizmeti kullanma hakkını sağlar. Abonelik, bir veya daha fazla bulut platformu veya hizmeti kullanmak için bir anlaşmadır. Bu, ücretleri Kullanıcı başına lisans ücreti ya da bulut tabanlı kaynak tüketimine göre tahakkuk eder. Bir kuruluş birden çok SaaS aboneliğine sahip olabilir.
+Hizmet Olarak Yazılım aboneliği, tek tek bilgisayarlara yerel yükleme yerine çevrimiçi abonelik aracılığıyla belirli bir süre boyunca hizmet kullanma hakkı sağlar. Abonelik, kullanıcı başına lisans ücretine veya bulut tabanlı kaynak tüketimine göre tahakkuk eden bir veya daha fazla bulut platformu veya hizmeti kullanma sözleşmesidir. Bir kuruluşun birden çok SaaS aboneliği olabilir.
 
-SaaS abonelikleriyle ilgili kısıtlamalar şunlardır:
+SaaS abonelikleri ile ilgili kısıtlamalar şunlardır:
 
 - Öğrenci aboneliği yok.
-- Visual Studio Enterprise aboneliği yok.
-- Ücretsiz kredi aboneliği yok.
+- Abonelik Visual Studio Enterprise yoktur.
+- Ücretsiz kredi aboneliği yoktur.
 - Ücretli teklifler için bir ödeme aracı gereklidir.
 
-## <a name="saas-offers-discovery-in-azure-portal"></a>SaaS Azure portal ' de bulma sağlar
+## <a name="saas-offers-discovery-in-azure-portal"></a>SaaS, Azure portal'de bulma Azure portal
 
-Azure portal olduğunuzda, aramanızı SaaS tekliflerine odaklanmak üzere daraltmak için birkaç yol vardır.
+Yeni bir Azure portal, aramanızı SaaS tekliflere odaklanmak için daraltmanın birkaç yolu vardır.
 
 ### <a name="narrowing-your-search"></a>Aramanızı daraltma
 
-Giriş sayfasında, **Azure hizmetleri** altında **+ kaynak** veya **Market** oluştur ' u seçin. Ya da platformda herhangi bir yerde **G + N** kısayolunu kullanın.
+Giriş sayfasında, **Azure hizmetleri'nin altında** **+ Kaynak oluştur veya Market'i** **seçin.** Veya platformun herhangi bir **yerinde G + N** kısayolunu kullanın.
 
-- **Teklif türü** filtresini ve sonra **SaaS**'yi seçerek SaaS tekliflerle Sonuçları daraltın.
-- Belirli bir SaaS teklifini bulmak için üst gezinti alanındaki genel arama çubuğunu kullanın.
+- Teklif Türü filtresini ve ardından  SaaS'yi seçerek sonuçları **SaaS tekliflerini daraltarak.**
+- Belirli bir SaaS genel arama bulmak için üst gezinti alanında yer alan gezinti çubuğunu kullanın.
 
-**Market** giriş sayfasının en üstündeki başlık ' i seçerek [özel bir SaaS teklifi](./private-offers.md) bulun. Tüm olanaklar veya planlar tüm coğrafi bölgelerde kullanılamaz ve bazıları yalnızca belirli kiracılar için görünebilir.
+Market giriş [sayfası üst sayfasındaki](./private-offers.md) başlığı seçerek bir Özel SaaS **teklifi** bulun. Tüm teklifler veya planlar tüm coğrafyalarda kullanılamaz ve bazıları yalnızca belirli kiracılar için görünebilir.
 
-Filtrelenmiş görünüm, bir başlığa göre temsil edilen her bir kullanılabilir SaaS teklifini gösterir. Ürün ayrıntıları sayfasını görmek için bir tane seçin. Aşağıdaki bölümleri içerir:
+Filtrelenmiş görünüm, bir başlıkla temsil edilen kullanılabilir saaS tekliflerini gösterir. Ürün ayrıntıları sayfasını görmek için birini seçin. Aşağıdaki bölümleri içerir:
 
-- Genel Bakış – hizmet, pazarlama ve öğrenme malzemeleri hakkındaki ayrıntılar
-- Planlar + fiyatlandırma – her teklif, farklı fatura koşullarına ve fiyatlarına sahip en az bir plan içerir
-- kullanım bilgileri + destek – Publisher kimliği, teklif kimliği ve Plan kimliği içerir
-- Belirli SaaS teklifini derecelendirme ve gözden geçirme
+- Genel bakış – hizmet, pazarlama ve öğrenme malzemeleriyle ilgili ayrıntılar
+- Planlar + Fiyatlandırma: Her teklif, farklı faturalama koşullarına ve fiyatlarına sahip en az bir plan içerir
+- Kullanım Bilgileri + Destek – Publisher kimliği, Teklif Kimliği ve Plan Kimliği'ne dahildir
+- Belirli Bir SaaS teklifinin Derecelendirmesi ve Gözden İncelemesi
 
-## <a name="available-billing-models-plansskus-for-saas-offers"></a>SaaS teklifleri için kullanılabilir faturalandırma modelleri (planlar/SKU 'Lar)
+## <a name="available-billing-models-plansskus-for-saas-offers"></a>SaaS teklifleri için kullanılabilir faturalama modelleri (planlar/SU'lar)
 
-Her SaaS teklifinin bir veya daha fazla planı olacaktır. Her teklifin ilişkili bir fiyatlandırma modeli vardır: sabit oran veya Kullanıcı başına. Her plan fiyatı, sıfır ABD Doları olabilen yinelenen ücrettir (listelenen tüm fiyatlar yalnızca örnek amaçlıdır ve gerçek maliyetlerin yansıtılmaya yönelik değildir). Bu ücret, sabit fiyat veya Kullanıcı başına fiyat ' dır. Kullanılabilir plan türleri:
+Her SaaS teklifinin bir veya daha fazla planı vardır. Her teklifle ilişkilendirilmiş bir fiyatlandırma modeli vardır: düz fiyat veya kullanıcı başına. Her plan fiyatı, sıfır dolar (listelenen tüm fiyatlar yalnızca örnek amaçlıdır ve gerçek maliyetleri yansıtmak için amaçlanmaz) yinelenen bir ücrettir. Bu ücret sabit ücret veya kullanıcı başına fiyattır. Kullanılabilir plan türleri:
 
-- **Aylık planlar** – yinelenen aylık ücret; aylık tekrarda ödenen, sabit veya Kullanıcı başına aylık ücret. Dönem sona erdiğinde, plan otomatik olarak yenilenir.
-- **Yıllık planlar** – yinelenen yıllık ücret; yıllık tekrarda ödenen, sabit veya Kullanıcı başına yıllık ücret. Dönem sona erdiğinde, plan otomatik olarak yenilenir.
-- **Özel** ölçümler: Yinelenen ücretler ile birlikte, sabit bir fiyat planı, fazla kullanım için de sabit fiyata dahil olmayan isteğe bağlı özel ölçülen boyutları da içerebilir. Her boyut faturalandırılabilir bir birimi temsil eder. Bu, ölçülen birim kullanımına göre değişen bir değişken maliyettir: bant genişliği, Bilet veya işlenen e-posta. Aylık olarak bu boyutların tüketimine göre ücretlendirilirsiniz. Fazla kullanım tüketimi yalnızca sabit fiyata dahil edilen tüm ölçülen birimleri kullandığınızda başlar.
-- **Ücretsiz deneme** : bazı durumlarda plan bir ayın deneme süresini içerir, bu da yazılımı ücretsiz olarak kullanabilirsiniz.  Deneme süresi bittikten sonra, planınıza göre ücretlendirilirsiniz. Deneme teklifleri özel ölçümlerle uyumlu değildir.
+- **Aylık planlar –** yinelenen aylık ücret; aylık yinelemede ödenen düz veya kullanıcı başına aylık ücret. Süre sona erdiğinde plan otomatik olarak yenilenir.
+- **Yıllık planlar** – yinelenen yıllık ücret; yıllık yinelemede ödenen düz veya kullanıcı başına yıllık ücret. Süre sona erdiğinde plan otomatik olarak yenilenir.
+- **Özel ölçümler:** Yinelenen ücretlere ek olarak sabit bir ücret planı, düz ücrete dahil edilen fazla kullanım için isteğe bağlı özel tarifeli boyutlar da içerebilir. Her boyut faturalanabilir birimi temsil eder. Bu, bant genişliği, biletler veya işlenen e-posta gibi tarifeli birimlerin kullanımına göre değişen değişken bir maliyettir. Bu boyutların kullanımınıza göre aylık olarak ücretlendirme yapılır. Fazla kullanımın yalnızca sabit ücrete dahil edilen tüm tarifeli birimleri kullandıktan sonra başlatıla olduğunu unutmayın.
+- **Ücretsiz Deneme** – Bazı durumlarda, plan bir aylık deneme süresi içerir ve bu süre boyunca yazılımı ücretsiz olarak kullanabilirsiniz.  Deneme süresi sona erdiktan sonra planınıza göre ücret tahsil edileceksiniz. Deneme teklifleri özel sayaçlarla uyumlu değildir.
 
-Bu fiyatlandırma modelleri hem genel hem de özel planlar için kullanılabilir.
+Bu fiyatlandırma modelleri hem Genel hem de Özel planlarda kullanılabilir.
 
 ## <a name="saas-purchase-experience"></a>SaaS satın alma deneyimi
 
-1. Ürün sayfasında, gereksinimlerinizi karşılayan bir plan seçin ve **+ abone ol** ' u ayarlamaya devam edin
-2. Satın alma sürecinin bir parçası olarak, **temel bilgiler** sekmesine yönlendirilirsiniz ve şunları yapmanız gerekir:
-    1. Faturalandırma için kullanmak istediğiniz *aboneliği* tanımlayın. Kullandığınız Azure aboneliğinin Kendisi için tanımlanmış geçerli bir satın alma yöntemi olmalıdır. Doğru izinlere sahip olmanız veya bu aboneliğin altında doğru izin düzeyine sahip bir kaynak grubunuz olması gerekir. Ayrıca, faturalandırma ülkesi, teklifin satın alma için kullanılabildiği bir ülke olmalıdır. Azure abonelikleri geçerli bir ödeme yöntemi olmadan (örneğin, bir MSDN aboneliği) yalnızca ücretsiz planlar satın almak için kullanılabilir
-    1. SaaS kaynağının ait olacağı bir **kaynak grubu* seçin veya oluşturun.
-    1. Daha sonra kolayca tanımlamak için SaaS aboneliğine bir *ad* yazın. Satın aldıktan sonra adı değiştiremezsiniz.
-    1. **Plan**' ın altında, ürün ayrıntılı sayfasında (PDP) seçtiğiniz planı görürsünüz. PDP 'de etkin bir seçim yaptıysanız, varsayılan planı görürsünüz. **Planı değiştir** bağlantısını seçerek seçiminizi değiştirebilirsiniz. İlgili faturalandırma terimini seçin ve ardından başka bir plan seçin. Yayımcı destekliyorsa, satın alma işleminden sonra planı değiştirebilirsiniz. Ancak, dönemi aylık veya yıllık olarak aylık olarak değiştiremeyeceksiniz.
-    1. Fiyatlandırma modelinin *Kullanıcı başına* olduğu durumlarda *, kullanıcı sayısını belirtmeniz gerekebilir.* Gördüğünüz fiyat, seçtiğiniz abonelik, plan ve terime göre değişecektir.
-3. **Etiketler** sekmesine geç- *Etiketler* , doğrudan bir kaynağa veya kaynak grubuna yerleştirilebilecek Kullanıcı tanımlı anahtar/değer çiftleridir. SaaS kaynağınızı daha sonra üzerinde kolayca bulmak için Etiketler ' i kullanabilirsiniz. Azure Şu anda kaynak ve kaynak grubu başına en fazla 50 etiketi desteklemektedir. Etiketler, oluşturma sırasında veya var olan bir kaynağa eklenen bir kaynağa yerleştirilebilir.
-4. Teklif ve plan ayrıntılarını gözden geçirmek için ve **abone** olmaya devam edin.
-    1. Yayımcının *kullanım koşulları*, *Düzeltme* ve *Gizlilik ilkesini* ve ayrıca Azure Marketi 'ni gözden geçirin
-    1. İletişim bilgilerinizi eklemek isteyip istemediğiniz sorulabilir
-    1. *Temel bilgiler* ve *Etiketler* ayrıntılarını gözden geçirin
-5. Onay sonrasında **abone ol**' u seçin.
+1. Ürün sayfasında, İhtiyaçlarınızı karşılayacak bir plan seçin ve ayarlamaya ve abone **olmaya devam edin**
+2. Satın alma işleminin bir parçası olarak Temel Bilgiler sekmesine yeniden **yönlendirilmesi** gerekir:
+    1. Faturalama *için* hangi Aboneliği kullanmak istediğinizi tanımlayın. Kullanmakta olduğu Azure aboneliği için tanımlanmış geçerli bir satın alma yöntemi olmalıdır. Doğru izin düzeyine sahip olmalı veya bu aboneliğin altında doğru izin düzeyine sahip bir kaynak grubunuz olması gerekir. Ayrıca faturalama ülkesi, teklifin satın alına açık olduğu bir ülke de olabilir. Geçerli bir ödeme yöntemi olmayan Azure abonelikleri (örneğin MSDN aboneliği) yalnızca ücretsiz planlar satın almak için kullanılabilir
+    1. SaaS kaynağının *ait olduğu* bir * Kaynak Grubu seçin veya oluşturun.
+    1. SaaS *aboneliğini* daha sonra kolayca tanımlamak için bir Ad yazın. Satın almadan sonra adı değiştiremezsiniz.
+    1. Plan **altında,** seçtiğiniz planı ürün ayrıntılı sayfasında (PDP) görebilirsiniz. PDP'de etkin bir seçim yaptıysanız varsayılan planı karşınız. Planı değiştir bağlantısını seçerek **seçiminizi değiştirebilirsiniz.** İlgili faturalama dönemi'ne ve ardından başka bir plan seçin. Yayımcı destekliyorsa, satın alma sonrasında planı değiştirebilirsiniz. Ancak, dönemi aylıktan yıllık veya yıllıktan aylık olarak değiştiremezsiniz.
+    1. Fiyatlandırma modelinin kullanıcı başına olduğu *durumlarda* Kullanıcı sayısını belirtmeniz *gerekebilir.* Gördüğünüz fiyat, seçtiğiniz aboneliğe, plana ve terime göre değişir.
+3. Etiketler **sekmesine** geçin - *Etiketler,* doğrudan bir kaynağa veya kaynak grubuna yerleştiril kullanıcılar tarafından tanımlanan anahtar/değer çiftleridir. Daha sonra SaaS kaynağınızı kolayca bulmak için etiketleri kullanabilirsiniz. Azure şu anda kaynak ve kaynak grubu başına en fazla 50 etiketi destekler. Etiketler, oluşturma sırasında bir kaynağa yer değiştirebilir veya var olan bir kaynağa eklenebilir.
+4. Teklifi gözden **geçirmek ve ayrıntıları planlamak** için Gözden Geçir + Abone Ol'a devam edin.
+    1. Yayımcının *Kullanım koşulları,* *Düzeltmeler* ve *Gizlilik ilkesi ile* ilgili daha fazla bilgi için Azure Market
+    1. İletişim ayrıntılarınızı eklemeniz istenebilirsiniz
+    1. Temel *Bilgiler ve Etiketler* ayrıntılarını *gözden* geçirme
+5. Onaydan sonra Abone **ol'a tıklayın.**
 
-## <a name="saas-subscription-and-configuration"></a>SaaS aboneliği ve yapılandırması
+## <a name="saas-subscription-and-configuration"></a>SaaS Aboneliği ve yapılandırması
 
-Abone ol ' u seçtiğinizde, "SaaS aboneliğiniz devam ediyor" iletisini alırsınız. Bu işlem birkaç dakika sürer, bitene kadar pencereyi kapatmayın.
+Abone ol'ı seçerek "SaaS aboneliğiniz devam ediyor" iletisiyle ifade edin. Bu işlem birkaç dakika sürer, tamam olana kadar pencereyi kapatabilirsiniz.
 
-Abonelik tamamlandığında, SaaS aboneliğinizin tamamlandığını ve hesabınızı, satın alımınızın tadını yararlanmaya başlayacak şekilde yapılandırmanız gerektiğini belirten bir ileti. Ayrıca, yeni aboneliği etkinleştirmenizi isteyen bir e-posta alacaksınız. SaaS hesabını yapılandırabilecek kimse değilseniz, bu e-postayı ilgili kişiye iletin.
+Abonelik tamamlandıktan sonra, SaaS aboneliğinizin tamam olduğunu ve satın alma işlemlerinizin keyfini çıkararak hesabı yapılandırmanız gerektiğini iletin. Ayrıca yeni aboneliği etkinleştirmenizi istediğiniz bir e-posta da alırsınız. SaaS hesabını yapılandıracak kişi siz değilsanız, bu e-postayı ilgili kişiye iletin.
 
-İşlemi tamamlayıp SaaS kullanmaya başlamak için aboneliğinizi yapılandırmaya başlamanız gerekir. **Hesabı Şimdi Yapılandır** düğmesini seçerek Publisher 'ın Web sitesine yönlendirilecektir.
+Süreci tamamlamak ve SaaS'ı kullanmaya başlamak için aboneliğinizi yapılandırmaya başlamanız gerekir. Hesabı şimdi yapılandır **düğmesini seçerek** sizi yayımcının web sitesine yönlendirecek.
 
-Ayrıca, üstbilginin sağ üst köşesindeki ' zil ' simgesini seçerek abonelik durumunuzu kontrol edebilirsiniz.
+Üst bilginin sağ üst köşesindeki 'zil' simgesini seçerek de abonelik durumunu kontrol edebilirsiniz.
 
-Yapılandırma işlemini *30 gün* içinde tamamlamazsanız, bu SaaS aboneliği otomatik olarak *silinir*. Faturalama, hesabınız yayımcının Web sitesinde yapılandırıldıktan sonra başlayacaktır.
+Yapılandırma işlemini *30* gün içinde tamamlarsanız, bu SaaS aboneliği otomatik olarak *silinir.* Faturalandırma, hesabınız yayımcının web sitesinde yapılandırıldığında başlar.
 
-İşlem sırasında karşılaşabileceğiniz hata iletileri:
+İşlem sırasında karşı karşıya olabileceğiniz hata iletileri:
 
-- *Seçilen planın plan adı* ücretsiz bir abonelikte satın alınamıyor
-  - Hesabınızı yükseltin, https://aka.ms/UpgradeFreeSub daha fazla ayrıntı için bkz..
+- Seçilen *planın plan adı* ücretsiz abonelikte satın alınamaz
+  - Daha fazla ayrıntı için https://aka.ms/UpgradeFreeSub bkz. hesabı yükseltin.
 
-- Geçerli bir kredi kartı veya Azure aboneliğinizle ilişkili bir ödeme yöntemi bulamadığı için satın alma başarısız oldu.
-  - Farklı bir Azure aboneliği kullanın veya bu abonelik için geçerli kredi kartını veya ödeme yöntemini bir veya daha sonra yeniden deneyin.
+- Geçerli bir kredi kartı veya Azure aboneliğiniz ile ilişkili bir ödeme yöntemi bulamadımız için satın alma işlemi başarısız oldu.
+  - Bu abonelik için farklı bir Azure aboneliği kullanın veya geçerli kredi kartını veya ödeme yöntemini ekleyin/güncelleştirin ve yeniden deneyin.
 
-- *Teklifin yayımcısı tarafından* sunulan teklif *teklifi adı* *SEÇILI planının plan adı* , BT yöneticiniz tarafından ayarlanan kurallar uyarınca satın alma için kullanılamaz.
-  - BT yöneticinize başvurun.
+- Teklifin *yayımcısı tarafından teklif* *teklifi* adı olarak seçilen planın plan *adı,* IT Yöneticiniz tarafından ayarlanmış kurallara göre satın almak için kullanılamaz.
+  - IT Yöneticinize ulaşın.
 
-- *Bir* teklifin yayımcısı tarafından *Seçilen teklif planı tarafından seçilen* *Plan adı* , kiracının BT Yöneticisi tarafından yapılan özel Market ayarları nedeniyle satın alma için kullanılamaz.
-  - BT yöneticinize başvurun
+- Teklifin *yayımcısı tarafından* seçilen teklif  planının plan adı, kiracının IT Yöneticisi tarafından yapılan özel market ayarları nedeniyle satın alma için kullanılamaz. 
+  - IT Yöneticinize ulaşın
 
-- İstenen faturalandırma dönemi boş veya geçersiz olduğundan satın alma başarısız oldu.
-  - Farklı bir plan / faturalama dönemi satın alma denemesi.
+- İstenen faturalama dönemi boş veya geçersiz olduğundan satın alma başarısız oldu.
+  - Farklı bir plan/fatura dönemi satın almayı deneyin.
 
-- Yasal anlaşmada imzalama işleminizi doğrulayamamız nedeniyle satın alma işlemi başarısız oldu.
-  - Yeni -den deneme. Hata devam ederse, farklı Azure aboneliğini kullanarak satın alma denemesi yapmaya veya de destekle iletişime geçin.
+- Oturumunuz, yasal anlaşmada oturum açmanızı doğrulayamadığından başarısız oldu.
+  - Retry. Hata devam ederse, satın almayı farklı Azure aboneliği kullanarak yapmayı deneyin veya desteğe başvurun.
 
-- Publisher *PublisherID* *tarafından teklif offerID* satın alma işlemi başarısız oldu. Bu teklif şu anda satın alma için kullanılamaz.
-  - Daha sonra tekrar deneyin. Bir saat sonra bu hata iletisini almaya devam ediyorsanız lütfen de destekle iletişime geçin.  
+- Yayımcı *publisherID* Ile teklif *OfferId* 'si satın alma başarısız oldu. Bu teklif şu anda satın alma için kullanılabilir değil.
+  - Daha sonra tekrar deneyin. Bu hata iletisini almak için bir saatten sonra lütfen desteğe başvurun.  
 
-- Publisher *PublisherID* *tarafından teklif* *offerID planID'lerinin* satın alma işlemi başarısız oldu. Bu plan şu anda satın alma için kullanılamaz.
-  - Daha sonra tekrar deneyin. Bir saat sonra bu hata iletisini almaya devam ediyorsanız lütfen de destekle iletişime geçin. 
+- Yayımcı *publisherID* Ile teklif *OfferId* planının plan *PlanID* 'si satın alınamadı. Bu plan şu anda satın alma için kullanılabilir değil.
+  - Daha sonra tekrar deneyin. Bu hata iletisini almak için bir saatten sonra lütfen desteğe başvurun. 
 
-- ObjectID *nesne kimliğine* sahip istemci *e-posta* adresinin ResourceGroup kapsamı üzerinde *DeploymentValidationAction eylemi* gerçekleştirme yetkisi *yoktur; DeploymentScope* veya kapsam geçersiz.  
-  - Azure aboneliği/Kaynak Grubu üzerinde doğru izinlere sahip değilsanız bu iletiyi alırsınız.  
-    Erişim kısa süre önce verildi ise lütfen kimlik bilgilerinizi yenileyin.  
-    Kaynakları bir kaynak grubuna dağıtmak için en azından Katkıda Bulunan erişiminizin olması gerekir. Kaynak Grupları altında erişim durumunu **kontrol edin ve** sonra Access Control.  Bu, sizi 'Katkıda Bulunan' olarak atamak istediğiniz 'Sahip'in kim olduğunu gösterir.
+- Nesne kimliği *ObjectID* olan istemci *e-posta adresinin* , kapsam ResourceGroup üzerinde eylem *deploymentvalidationaction* gerçekleştirme yetkilendirmesi yok *; DeploymentScope* veya kapsam geçersiz.  
+  - Azure aboneliğinde/kaynak grubunda doğru izinleriniz yoksa, bu iletiyi alırsınız.  
+    Erişim yakın zamanda verildiyse, lütfen kimlik bilgilerinizi yenileyin.  
+    Kaynakları bir kaynak grubuna dağıtmak için en az katkıda bulunan erişiminizin olması gerekir. **Kaynak grupları** altında erişim durumunuzu denetleyip **Access Control**. ' Sahip ' ne olduğunu, sizi ' katkıda bulunan ' olarak atamayı istemediğinizi gösterir.
 
-- Bu satın alma için kullanılan abonelik Market satın almalarına izin vermez.  
-  - Lütfen farklı bir abonelik kullanın veya yöneticinizden bu abonelik için tanımı değiştirmesini ve yeniden denemesini sorun.
+- Bu satın alma için kullanılan abonelik Market satın alımlara izin vermez.  
+  - Lütfen farklı bir abonelik kullanın veya yöneticinizden bu aboneliğin tanımını değiştirmesini isteyin ve yeniden deneyin.
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-- Markette zaten bir teklif satın aldıysanız [Faturalama'ya gidin](./billing-invoicing.md)
-- Özel planlar seçenekleri hakkında daha fazla [bilgi de öğrenebilirsiniz.](./private-offers.md)
+- Market 'te zaten bir teklif satın aldıysanız [faturalandırma ve faturalama](./billing-invoicing.md) ' ya gidin.
+- Ayrıca, [özel planlar](./private-offers.md) seçenekleri hakkında daha fazla bilgi edinebilirsiniz.

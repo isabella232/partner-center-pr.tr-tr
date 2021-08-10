@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 11/02/2020
-ms.openlocfilehash: 981ddf4511be5e23092dae72bdf6e3d93e850d58
-ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
+ms.openlocfilehash: 36e2b846cd7929632c54c4ee6c274ebdd6ddf5dabc92da25ba41c65eaff1847a
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/04/2021
-ms.locfileid: "115100542"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115688361"
 ---
 # <a name="november-2020-announcements"></a>Kasım 2020 duyuruları
 
@@ -166,11 +166,11 @@ Iş ortağı merkezi müşteri hesabı sayfası aşağıdaki şekilde güncelle�
    > [!NOTE]
    > Verilerin yalnızca alfasayısal karakterleri, özel karakterler veya boşluklar olmadan alfasayısal karakterlere girilmesi gerekir. İş ortaklarının, müşterinin Vergi Numarası veya INN numarası gibi yasal tanımlayıcı durumunu onaylamak için bu ülkelerdeki müşteri ilgili kişileriyle birlikte çalışması gerekir. Ülkeye özgü daha fazla bilgi için aşağıdaki tabloya bakın.  
 
-2. **Ara Ad.** Bu alan tüm müşteriler için isteğe bağlıdır. Müşterinin ara adını veya ilk adını biliyorsanız iş ortağı buraya girsin.
+2. **Ara Ad.** Bu alan tüm müşteriler için isteğe bağlıdır. Müşterinin ara adını veya ilk adını biliyorsanız iş ortağı bu adı buraya girsin.
 
 3. **Telefon Numarası.** Bu alan daha önce isteğe bağlıdır, ancak artık belirli ülkelerdeki müşteriler için gereklidir.  
 
-Ülkeye özgü **Kuruluş INN'i** (Yasal Tanımlayıcı) alan gereksinimleri aşağıda görünür.
+Ülkeye özgü **Kuruluş INN 'i** (Yasal Tanımlayıcı) alan gereksinimleri aşağıda görünür.
 
 | Ülke | A14-Area | ISO ülke kodu | Alan karakteri gereksinimleri | Yerel dilde ülkeye özgü alan adı | İngilizce çeviri veya yorumlar |
 |---------|----------|------------------|------------------------|--------------------|--------------------------------------|
@@ -300,7 +300,7 @@ Microsoft, api'leri çağıran iş ortaklarının belirli bir zaman aralığı i
 
 ### <a name="partner-benefits"></a>İş ortağı avantajları 
 
-İş Ortağı Merkezi yüksek hacimli istekleri işlemek için tasarlanmıştır, ancak birkaç iş ortağı tarafından çok fazla sayıda istek yapılırsa kısıtlama tüm iş ortakları için en iyi performansı ve güvenilirliği korumaya yardımcı olur. En düşük kapalı kalma süresini sağlar. Yüksek istek hacmini azaltarak tüm iş ortakları için tutarlı bir performans elde edilebilir. 
+İş Ortağı Merkezi, yüksek hacimli istekleri işlemek için tasarlanmıştır, ancak birkaç iş ortağı tarafından çok fazla sayıda istek yapılırsa kısıtlama tüm iş ortakları için en iyi performansı ve güvenilirliği korumaya yardımcı olur. En düşük kapalı kalma süresini sağlar. Yüksek istek hacmini azaltarak tüm iş ortakları için tutarlı bir performans elde edilebilir. 
 
 
 ### <a name="apis-to-be-throttled"></a>Kısıtlan API'ler
@@ -343,7 +343,7 @@ ______________
 
 ### <a name="what-happened-next"></a>Bundan sonra ne oldu?
 
-- Tüm iş ortakları parametre isteğini uygulamalarına dahil etti. Microsoft, MCA'yı bu iş ortaklarına iade etti.
+- Tüm iş ortakları, parametre isteğini uygulamalarına dahil etti. Microsoft, MCA'yı bu iş ortaklarına iade etti.
 - İş ortağı daha sonra imzalama isteğini müşteriye yeniden ve MCA'yı Microsoft'a yeniden iletir. 
 - Yineleme, Microsoft'un iş ortaklarına hizmet sağlama becerisini etkiledi.
 - Eylül 2020'de iş ortaklarına birden çok forumda Yammer bir bildirim göndererek iş ortaklarının parametresini düzeltmelerini istiyoruz. Microsoft artık yinelenenleri kabul etmiyor ve 409 hataları alacak.
@@ -383,39 +383,39 @@ Eğitim müşteri doğrulama işlemi için İş Ortağı Merkezi API güncelleş
 
 ### <a name="details"></a>Ayrıntılar
 
-Microsoft güven üzerinde çalışır. CSP programındaki deneyimidir akademik teklifleri için uyumlu, güvenli ve güvenli bir müşteri doğrulama yöntemi sağlamayı taahhüt ediyoruz. Bunun bir parçası olarak, bu mali yılın (FY21 S2) ikinci çeyreğinde Iş Ortağı Merkezi API 'SI ve Kullanıcı arabirimi geliştirmeleri sunuyoruz. Bu geliştirmeler, müşteri doğrulama işlemine netlik ve görünürlük ekleyecek ve daha doğru veri girişi yapabilme olanağıdır ve bu da geliştirilmiş müşteri doğrulama başarısını de sağlar.
+Microsoft güven üzerinde çalışır. CSP programında Akademik tekliflerin işlemlerini yapmak için uyumlu, güvenli ve güvenli bir müşteri doğrulama yöntemi sağlama konusunda kararlıyız. Bunun bir parçası olarak, bu mali yılın ikinci çeyreğinde (FY21 Q2) İş Ortağı Merkezi API ve kullanıcı arabirimi geliştirmeleri tanıtacağız. Bu geliştirmeler müşteri doğrulama sürecine netlik ve görünürlük eklemenin yanı sıra daha doğru veriler girebilme olanağını da artırarak müşteri doğrulama başarısını artırır.
 
-**İş ortağı merkezi geliştirmeleri**
+**İş Ortağı Merkezi geliştirmeleri**
 
-- Yeni GET ve POST nitelikleri API 'Leri, doğru veri girişini destekler ve Microsoft tarafından eğitim müşteri doğrulama sürecini geliştirir.
+- Doğru veri girişini desteklemek ve Microsoft tarafından Eğitim müşterisi doğrulama sürecini geliştirmek için yeni GET ve POST Nitelikler API'leri.
 
-- Doğru veri girişini desteklemek ve Microsoft tarafından eğitim müşteri doğrulama işlemini geliştirmek için Kullanıcı arabirimi geliştirmeleri.
+- Doğru veri girişini desteklemek ve Microsoft'un Eğitim müşteri doğrulama sürecini geliştirmek için kullanıcı arabirimi geliştirmeleri.
 
 **Test etme**
 
-Başarılı müşteri doğrulaması için gereken API 'Leri ve veri girişini daha iyi anlamak için, iş ortakları bu geliştirmeleri 2020 Ekim 'den test edebilir. Tam zamanlamaya göre yakında daha fazla ayrıntı vereceğiz ve nasıl katılacağız. FY21 S2 'in sonundan önce mevcut Iş Ortağı Merkezi API 'Leri kullanımdan kaldırılacak. Bu sırada, yeni Iş Ortağı Merkezi API 'Lerine geçiş yapmanız gerekir.
+Başarılı müşteri doğrulaması için gereken API'leri ve veri girişini daha iyi anlamak için iş ortakları Ekim 2020'den itibaren bu geliştirmeleri testabilecek. Tam zamanlama ve katılım hakkında kısa süre içinde daha fazla ayrıntı sağlanacak. Mevcut İş Ortağı Merkezi API'leri, FY21 Q2 sona ermeden önce kaldırılır. Bu sırada yeni api'lere İş Ortağı Merkezi gerekir.
 
-   - Test, iş ortağı test tarihleri 2 Ekim 2 ile 2 Aralık 2020 arasında. Katılmak isteyen iş ortakları için Iş ortağı merkezi eğitim müşteri test Kılavuzu ' nu nasıl hazırlayacağınız, nasıl kaydolmak ve test aşamasında beklenmek üzere indirmesi gerekir.
+   - Test kullanılabilir İş ortağı test tarihleri 2 Ekim ile 2 Aralık 2020 arasındadır. Katılmak isteyen iş ortaklarının İş Ortağı Merkezi Eğitim müşteri testi kılavuzunu indirmesi gerekir. Bu kılavuzun hazır olması, kaydolması ve test aşamasında neler beklemesi gerektiği.
 
-**Kitaplık ve Museum müşterileri**
+**Library ve Library müşterileri**
 
-Bu geliştirmelere ek olarak, FY21 S2 'de bunu duyurmaktan mutluluk duyuyoruz, kitaplık ve Museum müşterileri için akademik fiyatlı teklifleri etkinleştireceğiz ve bu müşterilere Transact CSP teklifleri sağlayan eğitim müşterilerini genişleteceğiz.
+Bu geliştirmelere ek olarak, FY21 Ç2'de Kitaplık ve Kütüphane müşterileri için Akademik fiyat teklifleri etkinleştirerek CSP tekliflerini işlem olarak sunan Eğitim müşterilerini genişleterek bunu duyurmak istiyoruz.
 
-Microsoft, herhangi bir müşterinin veya önerilen müşterinin durumunu tam eğitim kullanıcısı olarak gözden geçirme hakkını saklı tutar. Tüm ayrıntılar için [akademik nitelikli eğitim Kullanıcı gereksinimlerine](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7) bakın.
+Microsoft, herhangi bir müşterinin veya önerilen müşterinin durumunu nitelikli bir eğitim kullanıcısı olarak gözden geçirme hakkını hakkıyla karşılar. Tüm ayrıntılar için [Akademik Nitelikli Eğitim Kullanıcısı gereksinimlerine](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7) bakın.
 
 ### <a name="next-steps"></a>Sonraki adımlar
 
-- Yeni Iş Ortağı Merkezi kullanıcı arabirimi ve API değişikliklerinin yanı sıra [Iş Ortağı Merkezi eğitimi müşteri doğrulama işlemi geliştirmeleri içerik koleksiyonundaki](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/) test Kılavuzu ' nu gözden geçirin.
+- Yeni kullanıcı arabirimi İş Ortağı Merkezi API değişikliklerini ve İş Ortağı Merkezi Education müşteri doğrulama süreci iyileştirmeleri içerik koleksiyonunda Test [Kılavuzu'İş Ortağı Merkezi gözden geçirme](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/)
 
-- Teste katılmak için kaydolun. (Ayrıntılar için bkz. [Test Kılavuzu](https://partner.microsoft.com/resources/detail/partner-center-edu-testing-guide-pdf) .) 
+- Teste katılmak için kaydolma. (Ayrıntılar için [bkz. Test](https://partner.microsoft.com/resources/detail/partner-center-edu-testing-guide-pdf) Kılavuzu.) 
 
-- Kuruluşunuzun [akademik eğitim Kullanıcı gereksinimlerine uygun](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7)olduğundan emin olun. 
+- Kuruluşta Akademik Nitelikli Eğitim Kullanıcısı [gereksinimleri hakkında bilgi sahibi olduğundan emin olun.](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7) 
 
-- Bu bilgileri kuruluşunuzdaki uygun takımlarla ve bu değişikliklere hazırlanmalarına yardımcı olmak için satıcılarınızla birlikte paylaşabilirsiniz.
+- Bu bilgileri, bu değişikliklere hazırlanmalarına yardımcı olmak için kurumsal bayilerle birlikte, kuruluş içindeki uygun ekiplerle paylaşın.
 
 ______________
 
-## <a name="expanding-commercial-licensing-partner-content-on-the-operations-readiness-gallery"></a><a name="6"></a>Işlem hazırlığı galerisinde ticari lisanslama iş ortağı içeriğini genişletme
+## <a name="expanding-commercial-licensing-partner-content-on-the-operations-readiness-gallery"></a><a name="6"></a>İşlem hazırlığı galerisinde Ticari Lisanslama iş ortağı içeriğini genişletme
 
 ### <a name="categories"></a>Kategoriler
 
@@ -424,23 +424,23 @@ ______________
 
 ### <a name="summary"></a>Özet
 
-5 2020 Kasım 'dan itibaren Iş ortağı University 'den ticari lisanslama iş ortağı içeriği de Işlem hazırlığı galerisinde kullanılabilir olacaktır.
+5 Kasım 2020'den başlayarak Partner University'den Ticari Lisanslama iş ortağı içeriği Operations Readiness Gallery'de de kullanılabilir olacak.
 
-### <a name="impacted-audience"></a>Etkilenen hedef kitle
+### <a name="impacted-audience"></a>Etkilene hedef kitle
 
 Ticari iş ortakları
 
 ### <a name="details"></a>Ayrıntılar
 
-5 Kasım 2020 ' den itibaren, Iş ortağı University 'den ticari lisanslama iş ortağı içeriği de, Işlem hazırlığı galerisinde kullanılabilir olacaktır. Bu, Iş hazırlığı galerisindeki zaten mevcut olan operasyonel ve ticari lisanslama iş ortağı başlangıç içeriğini ortak University 'den ticari lisanslama iş ortağı içeriği olarak birleştirir. Böylece iş ortakları daha sorunsuz bir hazırlık deneyimi sağlar. Aşağıdaki koleksiyonlar, Işlem hazırlığı galerisine eklenmiştir:
+5 Kasım 2020'den başlayarak Partner University'den Ticari Lisanslama iş ortağı içeriği Operations Readiness Gallery'de de kullanılabilir olacak. Bu, Operations Readiness Gallery'de mevcut olan operasyonel ve Ticari Lisanslama iş ortağı başlatma içeriğini Partner University'den gelen kalıcı Ticari Lisanslama iş ortağı içeriğiyle birleştirmektedir. Bu sayede iş ortaklarına daha sorunsuz bir hazırlık deneyimi sağlayacaktır. İşlem Hazırlığı Galerisi'ne aşağıdaki koleksiyonlar eklenmiştir:
 
-- [Microsoft Azure-teklifler ve lisanslama](https://partner.microsoft.com/resources/collection/microsoft-azure-offers-and-licensing#/)
-- [Ticari lisanslama-CSP Spotlight çağrısı](https://partner.microsoft.com/resources/collection/commercial-licensing-csp-spotlight-call#/)
-- [Ticari lisanslama-lisanslama güncelleştirmeleri çağrısı](https://partner.microsoft.com/resources/collection/commercial-licensing-licensing-updates-call#/)
+- [Microsoft Azure - Teklifler ve Lisanslama](https://partner.microsoft.com/resources/collection/microsoft-azure-offers-and-licensing#/)
+- [Ticari Lisanslama - CSP Spotlight Çağrısı](https://partner.microsoft.com/resources/collection/commercial-licensing-csp-spotlight-call#/)
+- [Ticari Lisanslama - Lisans güncelleştirmeleri çağrısı](https://partner.microsoft.com/resources/collection/commercial-licensing-licensing-updates-call#/)
 
 ### <a name="next-steps"></a>Sonraki adımlar
 
-Bu bilgileri kuruluşunuzdaki ilgili tüm kişilerle paylaşabilirsiniz.
+Bu bilgileri, kuruluşta tüm uygun kişiler ile paylaşın.
 
 ________________
 
@@ -453,60 +453,60 @@ ________________
 
 ### <a name="summary"></a>Özet
 
-Bulut Çözümü Sağlayıcısı (CSP) programı aracılığıyla Microsoft Teams için Microsoft Teams Odaları Premium SKU 'su artık kullanılabilir.
+Microsoft Teams Odaları Premium (CSP) Microsoft Teams için Bulut Çözümü Sağlayıcısı SKU artık kullanılabilir.
 
-### <a name="impacted-audience"></a>Etkilenen hedef kitle
+### <a name="impacted-audience"></a>Etkilene hedef kitle
 
-tüm iş ortakları Bulut Çözümü Sağlayıcısı (CSP) programı üzerinden deneyimidir
+Bulut Çözümü Sağlayıcısı (CSP) programı aracılığıyla işlem yapılan tüm iş ortakları
 
 ### <a name="details"></a>Ayrıntılar
 
-Microsoft Teams Odaları için yeni Microsoft Teams Odaları Premium SKU 'su, her ay cihaz başına USD50 üzerinden size CSP satın alma ile sunulmaktadır. Microsoft Teams Odaları Premium sku 'su Microsoft Teams Odaları standart sku 'sunun (daha önce Meeting Room lisansı olarak adlandırılır) bir alternatifidir. bu SKU, standart sunumdaki her şeyi içerir, örneğin Microsoft Teams, çevrimiçi Skype Kurumsal ve ıntune yönetimi için gerekli lisanslar. sunum ayrıca, mevcut yerlerde ortak anahtarlı telefon ağı (PSTN) tümleştirmesi ve ses konferansı için gerekli Telefon Sistemi da sunar. 
+Yeni Microsoft Teams Odaları Premium SKU'Microsoft Teams Odaları artık cihaz başına aylık 50 ABD doları üzerinden CSP satın alan müşterileriniz tarafından kullanılabilir. SKU Microsoft Teams Odaları Premium standart SKU'Microsoft Teams Odaları alternatiftir (eski adı Meeting Room Lisansı). Bu SKU standart teklifte yer alan her şeyi içerir; örneğin, Microsoft Teams, Skype Kurumsal Online ve Intune yönetimi için gerekli lisanslar. Teklif ayrıca, Telefon Sistemi (PSTN) tümleştirmesi için gerekli olan tüm bağlantıları ve uygun olduğu yerde Sesli Konferans'a olanak sağlar. 
 
-premium teklifle, müşteriler, uzmanların müşteri adına toplantı odalarına yönelik yönetimi ve işlemleri işleyeceği, yeni yayınlanan Microsoft Teams Odaları yönetilen hizmetlere erişimi vardır. bu bulut tabanlı bt yönetimi ve izleme hizmeti Microsoft Teams Odaları cihazları ve bunların çevre birimlerini güncel ve güvenli tutar. Ayrıca, daha iyi bir şekilde izlenir ve yönetilir, böylece harika bir yerinde deneyim için iyileştirilmiş bir ortam vardır.
+Premium teklifle, müşteriler yeni yayımlanan Microsoft Teams Odaları Yönetilen Hizmetler'e erişime sahiptir. Uzmanlar, toplantı odalarının yönetim ve işlemlerini müşteri adına üstlenen hizmetlerdir. Bu bulut tabanlı IT yönetim ve izleme hizmeti, Microsoft Teams Odaları ve çevre birimlerini güncel ve güvenli tutar. Ayrıca proaktif olarak izlenir ve yönetilirler ve harika bir oda deneyimi için iyileştirilmiş bir ortamı korurlar.
 
-#### <a name="released-at-launch"></a>Başlatma sırasında yayınlandı
+#### <a name="released-at-launch"></a>Başlatmada yayınlandı
 
-   |****|**Microsoft Teams Odaları Ayda standart USD15 cihaz**|**ayda Premium USD50 cihaz Microsoft Teams Odaları**|
+   |****|**Microsoft Teams Odaları Aylık Standart USD15 cihaz**|**Microsoft Teams Odaları Premium 50 ABD doları cihaz**|
    |-------------------|:------|:------|
    |Skype Kurumsal|Yes| |
    |Microsoft Teams|Yes|Yes|
    |Telefon Sistemi|Yes|Yes|
-   |Ses konferansı|Yes|Yes|
+   |Sesli Konferans|Yes|Yes|
    |Microsoft Intune|Yes|Yes|
-   | |Microsoft Teams Odaları Her ay cihaz başına standart USD15|her ay cihaz başına Microsoft Teams Odaları Premium USD50|
-   |Microsoft Teams Odaları Yönetilen hizmetler| |Yes|
-   |Dünya çapında kullanılabilirlik|Yes|Pazarların Seç bölümünde|
+   | |Microsoft Teams Odaları Cihaz başına aylık Standart USD15|Microsoft Teams Odaları Premium cihaz başına aylık 50 ABD doları|
+   |Microsoft Teams Odaları Yönetilen Hizmetler| |Yes|
+   |Dünya çapında kullanılabilirlik|Yes|Belirli pazarlarda|
 
-#### <a name="microsoft-teams-rooms-managed-services"></a>Microsoft Teams Odaları Yönetilen hizmetler
+#### <a name="microsoft-teams-rooms-managed-services"></a>Microsoft Teams Odaları Yönetilen Hizmetler
 
-- Proaktif Yönetim: ek düzeltme, yapılandırma yönetimi ve daha fazlasını içeren oda sistemlerinizde 24x7x365 yönetimi.
-- Gerçek zamanlı izleme ve kök neden analizi: Microsoft tarafından, gerektiğinde müşteriyle koordine ederek düzenlenmiş olay yönetimi yanıtı ile Izleme ve algılama. Mobil uygulama,-go 'da uyarı almanıza olanak sağlar.
-- yönetilen güncelleştirmeler: uygulama, Windows KB ve bellenim güncelleştirmelerinin yönetimi ve teslimi.
-- Güvenlik tehdit koruması: Microsoft Defender Gelişmiş tehdit koruması aracılığıyla güvenlik tehdidi koruması.
-- Müşteri desteği: otomatik olmayan durumlar için yardımlı olay düzeltme ile adanmış hizmet işlem merkezimiz aracılığıyla 24x7x365 bilet desteği. Ayrıntılı rol tabanlı erişim denetimi.
-- Analizler ve önerileri: oda sağlık, envanter, kullanım, çevrimiçi toplantılar ve olay eğilimleri hakkındaki müşteriler ve raporlar hakkında toplu öngörüler.
+- Proaktif yönetim: Düzeltme eki uygulama, yapılandırma yönetimi ve daha fazlası dahil olmak üzere oda sistemlerinizin 7x24 yönetimi.
+- Gerçek zamanlı izleme ve kök neden analizi: Gerektiğinde müşteriyle koordinasyon içinde Microsoft tarafından yönlendirilen, organize olay yönetimi yanıtıyla izleme ve algılama. Mobil uygulama, hareket hareketle uyarıda kalmamalarına olanak sağlar.
+- Yönetilen güncelleştirmeler: Uygulama yönetimi ve teslimi, Windows KB ve üretici yazılımı güncelleştirmeleri.
+- Güvenlik tehdidi koruması: Güvenlik tehdit koruması Microsoft Defender Gelişmiş Tehdit Koruması.
+- Müşteri desteği: Otomatik olmayan durumlar için yardımlı olay düzeltmesi ile ayrılmış hizmet operasyon merkezimiz aracılığıyla 7x24 bilet desteği. Ayrıntılı rol tabanlı erişim denetimi.
+- Analizler ve öneriler: Müşteriler ve raporlarda oda durumu, envanter, kullanım, çevrimiçi toplantılar ve olay eğilimleriyle ilgili toplu içgörüler.
 
-#### <a name="offer-details"></a>Teklif Ayrıntıları
+#### <a name="offer-details"></a>Teklif ayrıntıları
 
-   |**Teklif adı**|**Teklif Kimliği**|**Malzeme KIMLIĞI**|
+   |**Teklif adı**|**Teklif Kimliği**|**Malzeme Kimliği**|
    |-------------------|:------|:------|
-   |Teams Odaları Premium|5db9aa31-f039-4740-B122-a33514e4c492|6XB-00007|
-   |Teams Odaları Premium (abd ve CAN)|03070f91-cc77-4c2e-B269-4a214b3698ab|6XB-00008|
-   |fakülteler için Teams Odaları Premium|d0c9a9a9-c9b6-41d7-9148-b60115c36c95|6Yı5-00005|
+   |Teams Odaları Premium|5db9aa31-f039-4740-b122-a33514e4c492|6XB-00007|
+   |Teams Odaları Premium (ABD ve CAN)|03070f91-cc77-4c2e-b269-4a214b3698ab|6XB-00008|
+   |Teams Odaları Premium için eğitim|d0c9a9a9-c9b6-41d7-9148-b60115c36c95|6Y5-00005|
 
 ### <a name="next-steps"></a>Sonraki adımlar
 
-- Yeni teklif ve coğrafi kullanılabilirliğini öğrenmek için [sık sorulan soruları (SSS)]()ziyaret edin.
-- Yeni teklif ve onun coğrafi kullanılabilirliği hakkında bilgi sahibi olun. 
-- Microsoft odaları ve ilgili teklifler hakkında daha fazla bilgi [edinin.](https://rooms.microsoft.com/)
-- [Teams iş ortağı kılavuzunu](https://aka.ms/teamscallingmeetingsguide) kullanarak uygulamanızı Teams toplantı odalarından geliştirin ve ortak satış için sunulan bir teklif oluşturun.
-- ürün çözümü ve hizmetleri hakkında daha fazla bilgi edinmek için [Microsoft Teams Odaları sss](https://aka.ms/PartnerMTRFAQ) makalesini inceleyin. 
-- Bu bilgileri kuruluşunuzdaki ilgili tüm kişilerle paylaşmak için, büyük satış ve çapraz satış fırsatlarını anlayın.
+- Yeni teklif ve coğrafi kullanılabilirliği hakkında bilgi sahibi olmak için sık sorulan soruları [(SSS) ziyaret edin.]()
+- Yeni teklif ve coğrafi kullanılabilirliği hakkında bilgi sahibi olma. 
+- Microsoft Odaları ve ilgili teklifler hakkında daha fazla bilgi edinmek için [Microsoft Team Rooms'a bakabilirsiniz.](https://rooms.microsoft.com/)
+- Teams [Toplantı](https://aka.ms/teamscallingmeetingsguide) Odaları ile alıştırmanızı geliştirmek ve ortak satışa Teams teklif oluşturmak için İş Ortağı Kılavuzu'nun kullanın.
+- Ürün çözümü [Microsoft Teams Odaları hakkında daha](https://aka.ms/PartnerMTRFAQ) fazla bilgi edinmek için SSS bölümünü gözden geçirin. 
+- Bu bilgileri, kuruluşta tüm ilgili kişilerle paylaşın ve satış ve çapraz satış fırsatlarını anlıyoruz.
 
 ________________
 
-## <a name="new-microsoft-teams-advanced-communications-skus-for-government-community-cloud-gcc-coming-soon"></a><a name="4"></a>Government Community Cloud (GCC) için yeni Microsoft Teams gelişmiş iletişim sku 'ları yakında geliyor
+## <a name="new-microsoft-teams-advanced-communications-skus-for-government-community-cloud-gcc-coming-soon"></a><a name="4"></a>Government Community Cloud (GCC) için yeni Microsoft Teams Gelişmiş İletişim SKU'ları yakında
 
 ### <a name="categories"></a>Kategoriler
 
@@ -515,93 +515,93 @@ ________________
 
 ### <a name="summary"></a>Özet
 
-GCC Microsoft Teams için yeni gelişmiş iletişim eklentisi SKU 'su, 1 aralık 2020 ' de kullanıma sunulacaktır.
+GCC'de Microsoft Teams gelişmiş iletişim GCC SKU'su 1 Aralık 2020'den itibaren kullanılabilir olacak.
 
-### <a name="impacted-audience"></a>Etkilenen hedef kitle
+### <a name="impacted-audience"></a>Etkilene hedef kitle
 
-tüm iş ortakları Bulut Çözümü Sağlayıcısı (CSP) programı üzerinden deneyimidir
+Bulut Çözümü Sağlayıcısı (CSP) programı aracılığıyla işlem yapılan tüm iş ortakları
 
 ### <a name="details"></a>Ayrıntılar
 
-GCC Microsoft Teams için yeni gelişmiş iletişim eklentisi artık kullanıcı başına ayda USD12 adresinde bulunabilir. eklenti sku 'ları, Microsoft Teams içeren herhangi bir Microsoft 365 paketinin üzerine satın alınabilir. Gelişmiş Iletişimler, BT yönetimi için büyük toplantılar, iletişim ilkeleri, tümleştirmeler ve gelişmiş araçlar için yeni bir özellik kümesi sağlar. 
+Microsoft Teams için yeni Gelişmiş İletişim GCC artık kullanıcı başına aylık 12 ABD doları olarak sunulmaktadır. Eklenti SKUS'ları, Microsoft Teams içeren diğer Microsoft 365 paket üzerinde Microsoft Teams. Gelişmiş İletişim; büyük toplantılar, iletişim ilkeleri, tümleştirmeler ve IT yönetimi için gelişmiş araçlar için yeni bir özellik kümesi sağlar. 
 
-#### <a name="offer-details"></a>Teklif Ayrıntıları
+#### <a name="offer-details"></a>Teklif ayrıntıları
 
-   |**Teklif adı**|**Teklif Kimliği**|**Malzeme KIMLIĞI**|
+   |**Teklif adı**|**Teklif Kimliği**|**Malzeme Kimliği**|
    |-------------------|:------|:------|
-   |GCC için gelişmiş Iletişimler|56fe76f5-f4ba-4fac-9561-d0daf59b01a1|7FB-00003|
+   |GCC için Gelişmiş İletişimler|56fe76f5-f4ba-4fac-9561-d0daf59b01a1|7FB-00003|
 
 #### <a name="frequently-asked-questions"></a>Sık sorulan sorular 
 
-**Gelişmiş Iletişimler nelerdir?** bu yeni Microsoft Teams eklenti, müşterilerin iletişim deneyimlerini daha da geliştirmesini sağlar. abone oldukları Microsoft 365 SKU 'sunun üzerine satın alınabilir.
+**Gelişmiş İletişim nedir?** Bu yeni Microsoft Teams, müşterilerin iletişim deneyimini daha da geliştirmesini sağlar. Abone olunan tüm SKU'Microsoft 365 üzerine satın alınabilir.
 
-**Fiyatı nedir?** Ticari ERP, Kullanıcı başına ayda USD12.
+**Fiyatı nedir?** Ticari ERP, kullanıcı başına aylık 12 ABD dolarıdır.
 
-**Hangi müşteriler eklentiyi satın alabilir?** GCC müşteriler eklentiyi satın alabilir.
+**Eklentiyi hangi müşteriler satın alınabilir?** GCC müşteriler eklentiyi satın almalarını sağlar.
 
-**Nasıl satın alınabilir?** eklenti Kurumsal Anlaşma, Kurumsal Anlaşma aboneliği, eğitim çözümleri için kayıt, CSP veya Web doğrudan aracılığıyla satın alınabilir.
+**Nasıl satın alınabilir?** Eklenti, Kurumsal Anlaşma, Kurumsal Anlaşma Aboneliği, Eğitim Çözümleri için Kayıt, CSP veya Web Direct aracılığıyla satın alınabilir.
 
-**Satılabilir mi?** ABD pazarlarında satılabilir.
+**Nerede satılır?** ABD pazarlarında satılır.
 
-**Önkoşullar nelerdir?** Microsoft Teams içeren tüm Microsoft 365 veya Office 365 suite bu eklentiye sahip olabilir.
+**Önkoşullar nedir?** Bu Microsoft 365 Office 365 içeren herhangi bir Microsoft Teams paketine sahip olabilir.
 
 ### <a name="next-steps"></a>Sonraki adımlar
 
-Bu bilgileri kuruluşunuzdaki ilgili kişilerle paylaşıp, büyük satış ve çapraz satış fırsatlarını anlayın. [Teams iş ortağı kılavuzunun](https://aka.ms/teamscallingmeetingsguide)kaynaklar bölümünü gözden geçirin.
+Bu bilgileri, kuruluşta ilgili kişilerle paylaşın ve satış ve çapraz satış fırsatlarını anlıyoruz. İş Ortağı Kılavuzu'Teams [gözden geçirme.](https://aka.ms/teamscallingmeetingsguide)
 
 ________________
 
-## <a name="dynamics-365-recently-launched-and-upcoming-new-offers-and-products"></a><a name="3"></a>Dynamics 365: son başlatılan ve yaklaşan yeni teklifler ve ürünler
+## <a name="dynamics-365-recently-launched-and-upcoming-new-offers-and-products"></a><a name="3"></a>Dynamics 365: Yakın zamanda başlatılan ve yaklaşan yeni teklifler ve ürünler
 
 ### <a name="categories"></a>Kategoriler
 
 - Tarih: 2020-11-2
 - Teklifler/Pazarlar
 
-### <a name="impacted-audience"></a>Etkilenen hedef kitle
+### <a name="impacted-audience"></a>Etkilene hedef kitle
 
-Doğrudan sağlayıcılar, dolaylı sağlayıcılar ve dolaylı satıcılar
+Doğrudan sağlayıcılar, dolaylı sağlayıcılar ve dolaylı kurumsal bayiler
 
 ### <a name="details"></a>Ayrıntılar
 
 #### <a name="new-offers"></a>Yeni teklifler
 
-365 Microsoft, 1 kasım 2020 ' de Project, ticari müşterilere yönelik dynamics 365 Project hizmet otomasyonu (psa) sunar ve kaldırılır. Bu iletişim, bu başlatma ve yeni bağımsız yazılım satıcısı (ISV) Embedded teklifleriyle çift kullanım hakları eşlemesi ile ilgili ek bilgiler sağlar.
+Microsoft, 1 Kasım 2020'de Dynamics 365 Project Operations tekliflerini yayımlamıştı ve ticari müşteriler için Dynamics 365 Project Service Automation'u (PSA) kaldırmıştı. Bu iletişim, bu başlatmadan ve yeni bağımsız yazılım satıcısı (ISV) ekli tekliflerinden ikili kullanım hakları eşlemesi hakkında ek bilgi sağlar.
 
-#### <a name="project-operations-isv-embed-offers"></a>Project Operations ISV ekleme teklifleri
+#### <a name="project-operations-isv-embed-offers"></a>Project İşlemLER ISV Ekleme teklifleri
 
-Microsoft, 1 kasım 2020 ' de, Bulut Çözümü Sağlayıcısı (CSP) müşterilere yönelik Project işlemlerine yönelik Dynamics 365 için üç ek 36 aylık ısv ekleme teklifi yayımladı. SKU ayrıntıları için [Dynamics CSP Offers-November 2020 Excel belgesinde](https://partner.microsoft.com/resources/detail/dynamics-csp-offers-november-xls) Project işlemler sekmesine bakın.
+1 Kasım 2020'de Microsoft, Project Operations için Dynamics 365'e (CSP) müşterilere yönelik üç ek 36 aylık ISV Ekleme Bulut Çözümü Sağlayıcısı yayınlamıştı. SKU ayrıntıları Project [Dynamics CSP Offers-November 2020](https://partner.microsoft.com/resources/detail/dynamics-csp-offers-november-xls) Excel İşlemler sekmesine bakın.
 
-#### <a name="project-operations-dual-use-rights-mapping"></a>Project İşlemler çift kullanım hakları eşleme
+#### <a name="project-operations-dual-use-rights-mapping"></a>Project İşlemler çift kullanım hakları eşlemesi
 
-aşağıdaki tabloda Project işlemleri teklifleri için Dynamics 365 çift kullanım hakları şirket içi eşleme hakkında bilgi edinebilirsiniz:
+Project Operations teklifleri için Dynamics 365 çift kullanım hakları şirket içi eşlemesi hakkında bilgileri aşağıdaki tabloda bulabilirsiniz:
 
-   |**D365 Işlemleri teklifi**|**D365 şirket içi çift kullanım hakları eşleme**|
+   |**D365 İşlemleri teklifi**|**D365 şirket içi çift kullanım hakları eşlemesi**|
    |-------------------|:------|
-   |D365 Işlemleri teklifi|D365 şirket içi çift kullanım hakları eşleme|
-   |D365 Project işlemler|Dyn365 Project operations SKU 'su (109108477) kullanarak işlemler için D365 (AX Server)|
-   |D365 Project işlemler iliştirme|Dyn365 Project operations SKU 'su (109108477) kullanarak işlemler için D365 (AX Server)|
-   |Project işlemler ile D365 finans|Dyn365 Project operations SKU 'su (109108477) kullanarak işlemler için D365 (AX Server)|
-   |Project işlemlerle D365 finans iliştirme|Dyn365 Project operations SKU 'su (109108477) kullanarak işlemler için D365 (AX Server)|
-   |D365 birleştirilmiş işlemler – Project işlemlerle etkinlik|Dyn365 Project operations SKU 'su (109108477) kullanarak işlemler için D365 (AX Server)|
+   |D365 İşlemleri teklifi|D365 şirket içi çift kullanım hakları eşlemesi|
+   |D365 Project İşlemleri|İşlemler için D365, Dyn365 Project İşlemler SKU'su (109108477)|
+   |D365 Project İşlemleri Ekleme|İşlemler için D365, Dyn365 Project İşlemler SKU'su (109108477)|
+   |Project Operations ile D365 Finance|İşlemler için D365, Dyn365 Project İşlemler SKU'su (109108477)|
+   |Project Operations ile D365 Finans Ekleme|İşlemler için D365, Dyn365 Project İşlemler SKU'su (109108477)|
+   |D365 Birleşik İşlemler – Project İşlemleri Ile Etkinlik|İşlemler için D365, Dyn365 Project İşlemler SKU'su (109108477)|
 
-#### <a name="previously-announced"></a>Önceden duyurulmuş
+#### <a name="previously-announced"></a>Daha önce duyurulmuştu
 
-Microsoft, 1 Kasım 2020 ' de, aşağıdaki yeni ve güncelleştirilmiş Dynamics 365 ve Power platform tekliflerini ve CSP ürünlerini yayımladı:
+1 Kasım 2020'de Microsoft, CSP için aşağıdaki yeni ve güncelleştirilmiş Dynamics 365 Power Platform tekliflerini ve ürünlerini yayımlar:
 
-- Dynamics 365 müşteri sesi USL 
+- Dynamics 365 Customer Voice USL 
 
-teklif kimliği ayrıntıları için [Dynamics CSP Offers-November 2020 Excel belgesinde](https://partner.microsoft.com/resources/detail/dynamics-csp-offers-november-2020-xls) Project işlemler sekmesini gözden geçirin.
+Teklif kimliği Project [Dynamics CSP Offers-November 2020](https://partner.microsoft.com/resources/detail/dynamics-csp-offers-november-2020-xls) Excel İşlemler sekmesini gözden geçirebilirsiniz.
 
-Microsoft Dynamics 365 müşteri ses giriş sayfasında daha fazla kaynak bulabilirsiniz.
+Microsoft Dynamics 365 Customer Voice giriş sayfasında daha fazla kaynak bulabilirsiniz.
 
 ### <a name="next-steps"></a>Sonraki adımlar
 
-Bu bilgileri kuruluşunuzdaki ilgili kişilerle paylaşabilirsiniz.
+Bu bilgileri, kuruluşta ilgili kişilerle paylaşın.
 
 ________________
 
-## <a name="introducing-microsoft-365-business-voice-for-nonprofit-organizations"></a><a name="2"></a>kar amacı gütmeyen kuruluşlar için Microsoft 365 Küçük İşletmeler için Ses tanıtma
+## <a name="introducing-microsoft-365-business-voice-for-nonprofit-organizations"></a><a name="2"></a>Kar amacı Microsoft 365 Küçük İşletmeler için Ses kuruluşlara tanıtım
 
 ### <a name="categories"></a>Kategoriler
 
@@ -610,34 +610,34 @@ ________________
 
 ### <a name="summary"></a>Özet
 
-Microsoft, 1 2020 kasım 'da kar amacı gütmeyen kuruluşlar için Microsoft 365 Küçük İşletmeler için Ses yeni sku 'ları sunmuştur.
+1 Kasım 2020'de Microsoft, kar amacı gütmeyen kuruluşlara Microsoft 365 Küçük İşletmeler için Ses için yeni SKUS'ları tanıttı.
 
-### <a name="impacted-audience"></a>Etkilenen hedef kitle
+### <a name="impacted-audience"></a>Etkilene hedef kitle
 
-Doğrudan sağlayıcılar, dolaylı sağlayıcılar ve dolaylı satıcılar
+Doğrudan sağlayıcılar, dolaylı sağlayıcılar ve dolaylı kurumsal bayiler
 
 ### <a name="details"></a>Ayrıntılar
 
-Microsoft, 1 Kasım 2020 ' de Iş sesi için yeni SKU 'Ları sunmuştur. Tam paket, Kanada, Birleşik Krallık ve Birleşik Devletler kullanılabilir. Plan olmadan iş sesi, diğer tüm pazarlarda kullanılabilir. 
+1 Kasım 2020'de Microsoft, business Voice için yeni SKUS'ları tanıttı. Paketin tamamını Kanada, Birleşik Krallık ve Birleşik Devletler. Arama Planı Olmadan İş Sesi diğer tüm pazarlarda kullanılabilir olacak. 
 
-Microsoft 365 Küçük İşletmeler için Ses, küçük ve orta ölçekli işletmeler için Office 365 yerleşik olarak bulunan bulut tabanlı bir telefon sistemidir. iş sesini bir müşterinin Office 365 aboneliğine eklemek, tek bir uygulamada Microsoft Teams çağrı, sohbet ve toplantılar sayesinde bir hepsi bir arada iletişim ve işbirliği çözümü sunar.
+Microsoft 365 Küçük İşletmeler için Ses, küçük ve orta ölçekli işletmeler için yerleşik olarak bulunan bulut tabanlı bir telefon Office 365. Müşterinin Office 365 aboneliğine İş Sesi eklemek, tek bir uygulamada arama, sohbet ve toplantılarla birlikte hepsi bir bütün olarak iletişim ve işbirliği Microsoft Teams.
 
 Fiyatlandırma ayrıntıları için fiyat listesine bakın.
 
-Microsoft 365 Küçük İşletmeler için Ses, 300 kullanıcıya kadar aşağıdaki aboneliklere eklenebilir:
+Microsoft 365 Küçük İşletmeler için Ses 300 kullanıcıya kadar aşağıdaki aboneliklere eklenebilir:
 
-- Office 365: iş temelleri, iş Premium, A1, E1, A3 ve E3
-- Microsoft 365: Business, A3 ve E3
+- Office 365: business Essentials, Business Premium, A1, E1, A3 ve E3
+- Microsoft 365: İş, A3 ve E3
 
 
 ### <a name="next-steps"></a>Sonraki adımlar
 
-- Kendinize bilgi edinin ve önizleme fiyatı listesindeki bilgileri kuruluşunuzdaki tüm uygun kişilerle paylaşabilirsiniz. 
-- Bulut Çözümü Sağlayıcısı Program güncelleştirme kaynak galerisinde tüm hazırlık malzemelerini gözden geçirin: [küçük ve orta ölçekli işletmeler için Microsoft 365 Küçük İşletmeler için Ses tanıtma](https://partner.microsoft.com/resources/collection/m365-voice-smb#/). 
+- Kendinizi iyileştirin ve önizleme fiyat listesinde yer alan bilgileri, kuruluşta tüm ilgili kişilerle paylaşın. 
+- Bulut Çözümü Sağlayıcısı Program Güncelleştirmeleri kaynak galerisinde tüm hazırlık malzemelerini gözden geçirme: Küçük Microsoft 365 Küçük İşletmeler için Ses orta ölçekli [işletmelere yönelik güncelleştirmeler.](https://partner.microsoft.com/resources/collection/m365-voice-smb#/) 
 
 ________________
 
-## <a name="cloud-solution-provider-csp-promo-for-microsoft-365-business-voice-is-now-available"></a><a name="1"></a>Microsoft 365 Küçük İşletmeler için Ses için Bulut Çözümü Sağlayıcısı (CSP) promosyon artık kullanılabilir
+## <a name="cloud-solution-provider-csp-promo-for-microsoft-365-business-voice-is-now-available"></a><a name="1"></a>Bulut Çözümü Sağlayıcısı için Microsoft 365 Küçük İşletmeler için Ses (CSP) promosyonu artık kullanılabilir
 
 ### <a name="categories"></a>Kategoriler
 
@@ -646,42 +646,42 @@ ________________
 
 ### <a name="summary"></a>Özet
 
-arama planı ve Microsoft 365 Küçük İşletmeler için Ses plan çağrısı olmadan Microsoft 365 Küçük İşletmeler için Ses yeni ve yenileme aboneliklerine yönelik indirim fiyatlandırması mevcuttur.
+Arama Planı ve Arama Planı olmadan Microsoft 365 Küçük İşletmeler için Ses yeni ve yenileme abonelikleri için Microsoft 365 Küçük İşletmeler için Ses indirimli fiyatlandırma.
 
-### <a name="impacted-audience"></a>Etkilenen hedef kitle
+### <a name="impacted-audience"></a>Etkilene hedef kitle
 
-Tüm iş ortakları CSP programı üzerinden deneyimidir
+CSP programı aracılığıyla işlem yapılan tüm iş ortakları
 
 ### <a name="details"></a>Ayrıntılar
 
-1 kasım 2020 ' den itibaren 30 nisan 2021 ' e kadar geçerli ve plan çağrısı yapmadan arama planı ve Microsoft 365 Küçük İşletmeler için Ses Microsoft 365 Küçük İşletmeler için Ses yeni ve yenileme abonelikleri indirimli fiyatlandırmaya tabidir. çağrı planı ile Microsoft 365 Küçük İşletmeler için Ses 12 ay boyunca yüzde 25 oranında indirime tabidir ve Plan çağrılmadan Microsoft 365 Küçük İşletmeler için Ses, 12 ay boyunca yüzde 33 indirimle tabidir. 
+1 Kasım 2020'den 30 Nisan 2021'e kadar geçerli olacak şekilde, Microsoft 365 Küçük İşletmeler için Ses'nin Arama Planı ve Arama Planı olmadan Microsoft 365 Küçük İşletmeler için Ses yenileme abonelikleri indirimli fiyatlandırmaya tabi olur. Microsoft 365 Küçük İşletmeler için Ses planında 12 ay boyunca yüzde 25 indirime, Arama Planı olmayan Microsoft 365 Küçük İşletmeler için Ses ise 12 ay boyunca yüzde 33 indirime tabi tutulacak. 
 
-#### <a name="offer-details"></a>Teklif Ayrıntıları
+#### <a name="offer-details"></a>Teklif ayrıntıları
 
-   |**Teklif adı**|**Teklif Kimliği**|**Malzeme KIMLIĞI**|
+   |**Teklif adı**|**Teklif Kimliği**|**Malzeme Kimliği**|
    |-------------------|:------|:------|
-   |Microsoft 365 Küçük İşletmeler için Ses Benimseme promosyon|e7d1d0fa-b769-45c7-aaea-c3e6f7402691|PZX-00006|
-   |Microsoft 365 Küçük İşletmeler için Ses Benimseme promosyon|ef3ff6bb-a288-4a56-9204-97b37ff9a0b8|PZW-00019|
-   |Microsoft 365 Küçük İşletmeler için Ses (US) benimseme promosyon|4244aed3-90ae-4754-8dc8-37f2e8d84e85|PZW-00020|
-   |Microsoft 365 Küçük İşletmeler için Ses (arama planı olmadan) Benimseme promosyon|b71df433-6fd9-4549-886d-577f7aa06070|PZY-00019|
-   |Microsoft 365 Küçük İşletmeler için Ses (arama planı olmadan) Benimseme promosyon|4ba4d580-4902-42b0-8411-a27358dd5405|PZY-00016|
-   |Microsoft 365 Küçük İşletmeler için Ses (arama planı olmadan) Benimseme promosyon|bbfd896b-e3d4-45ba-9319-14104d400069|PZY-00018|
-   |abd benimseme promosyon için Microsoft 365 Küçük İşletmeler için Ses (Plan çağrısı olmadan)|9b05d0b7-cfb4-42f1-9cc3-f698dba2838e|PZY-00017|
+   |Microsoft 365 Küçük İşletmeler için Ses Benimseme Promosyonu|e7d1d0fa-b769-45c7-aaea-c3e6f7402691|PZX-00006|
+   |Microsoft 365 Küçük İşletmeler için Ses Benimseme Promosyonu|ef3ff6bb-a288-4a56-9204-97b37ff9a0b8|PZW-00019|
+   |Microsoft 365 Küçük İşletmeler için Ses (ABD) Benimseme Promosyonu|4244aed3-90ae-4754-8dc8-37f2e8d84e85|PZW-00020|
+   |Microsoft 365 Küçük İşletmeler için Ses (arama planı olmadan) Benimseme Promosyonu|b71df433-6fd9-4549-886d-577f7aa06070|PZY-00019|
+   |Microsoft 365 Küçük İşletmeler için Ses (arama planı olmadan) Benimseme Promosyonu|4ba4d580-4902-42b0-8411-a27358dd5405|PZY-00016|
+   |Microsoft 365 Küçük İşletmeler için Ses (arama planı olmadan) Benimseme Promosyonu|bbfd896b-e3d4-45ba-9319-14104d400069|PZY-00018|
+   |Microsoft 365 Küçük İşletmeler için Ses Benimseme Promosyonu için Microsoft 365 Küçük İşletmeler için Ses (Plan Çağırmadan)|9b05d0b7-cfb4-42f1-9cc3-f698dba2838e|PZY-00017|
 
-Bu yükseltmeler aşağıdaki müşterileri etkiler:
+Bu promosyonlar aşağıdaki müşterileri etkiler:
 
-- NET yeni müşteri kiracılar
-- CSP, Web Direct veya diğer Microsoft ticari kanallarındaki herhangi bir Iş sesi veya ses konferansı lisansından etkin veya son iptal edilmiş (son 30 gün içinde) abonelik olmayan mevcut müşteri kiracılar
+- Net yeni müşteri kiracıları
+- CSP, Web Direct veya başka bir Microsoft ticari kanalında herhangi bir Business Voice veya Sesli Konferans lisansı üzerinde etkin veya yakın zamanda iptal edilmiş (son 30 gün içinde) aboneliği olmayan mevcut müşteri kiracıları
 
 #### <a name="additional-resources"></a>Ek kaynaklar
 
-- iş sesi hakkında daha fazla bilgi edinmek için [Microsoft 365 Küçük İşletmeler için Ses iş ortağı sayfasını](https://www.microsoft.com/microsoft-365/partners/businessvoice) ziyaret edin. 
-- İlgili [Iş ortağı SSS](https://www.microsoft.com/microsoft-365/partners/resources/faq-business-voice-audio-conferencing-promo)bölümünde bu promosyon hakkında daha fazla bilgi edinin.
+- İş ortağı [Microsoft 365 Küçük İşletmeler için Ses daha fazla](https://www.microsoft.com/microsoft-365/partners/businessvoice) bilgi edinmek için İş ortağı sayfasını ziyaret edin. 
+- Bu yükseltme hakkında daha fazla bilgi için ilgili İş Ortağı [SSS bölümüne bakın.](https://www.microsoft.com/microsoft-365/partners/resources/faq-business-voice-audio-conferencing-promo)
 
 ### <a name="next-steps"></a>Sonraki adımlar
 
-- Bu toplantıyla ilgili bilgi edinmek ve promosyon fırsatlarını çağırmak ve bu bilgileri kuruluşunuzdaki uygun kişilerle paylaşmak.
-- bu promosyonları Microsoft 365 satış slogmalarınızın içine ekleyin.
-- Teams Iş sesi ekleme değeri hakkında müşteriler arasında bir tanıma sürücü. 
+- Bu toplantı ve promosyon fırsatlarını çağırma hakkında bilgi edinin ve bu bilgileri kuruluşta tüm ilgili kişilerle paylaşın.
+- Bu promosyonları satış hareketlerinizi Microsoft 365 dahil etmek.
+- Müşteriler arasında İş Sesi'nin kurumsal müşterilere katma değeri hakkında farkındalığı Teams. 
 
 ________________

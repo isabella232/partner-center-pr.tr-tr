@@ -10,12 +10,12 @@ ms.author: billLi
 ms.localizationpriority: medium
 robots: noindex,nofollow
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f4df62bddba501552eafe2142f4c0656b8eefc7c
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 923f07c51611670023ef58e4ed340d9cee49b804d784e702ae775c06893ba4bd
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114844420"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115690265"
 ---
 # <a name="instructions-for-csp-regional-authorization-tenant-consolidation"></a>CSP bölgesel yetkilendirme kiracı birleştirme yönergeleri
 

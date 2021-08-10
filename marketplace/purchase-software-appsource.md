@@ -1,56 +1,56 @@
 ---
-title: Microsoft AppSource SaaS uygulamaları satın alma
-description: Microsoft AppSource Microsoft iş ortaklarından bir hizmet olarak yazılım (SaaS) uygulaması satın alın.
+title: SaaS uygulamalarını Microsoft AppSource
+description: Microsoft iş ortaklarından hizmet olarak yazılım (SaaS) uygulamaları satın Microsoft AppSource.
 ms.service: marketplace-customer
 ms.topic: how-to
 author: Guyshu
 ms.author: gushuchm
 ms.date: 11/20/2020
-ms.openlocfilehash: e51f4593624a764e14ecae473f96cf0779c2ff10
-ms.sourcegitcommit: cce4d53127fa33e6c2bbf158dda6edd41b82441d
+ms.openlocfilehash: e55e45fe80c67653fec1a6e2b191801061040a3537f9183b2bc8c8824b0c6252
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/25/2021
-ms.locfileid: "112896807"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115688344"
 ---
-# <a name="purchase-saas-apps-on-microsoft-appsource"></a>Microsoft AppSource SaaS uygulamaları satın alma
+# <a name="purchase-saas-apps-on-microsoft-appsource"></a>SaaS uygulamalarını Microsoft AppSource
 
-[Microsoft AppSource](https://appsource.microsoft.com/) , hizmet olarak yazılım (SaaS) uygulamaları ve Dynamics 365, Microsoft 365, Power BI ve güç uygulamaları için eklentiler dahil binlerce iş uygulaması içerir. AppSource ücretsiz uygulamalar, denemeler ve ücretli abonelikler içerir ve [Microsoft 365 Yönetim merkezini](/microsoft-365/admin/admin-overview/about-the-admin-center)kullanarak ücretleri, yükseltmeleri, eski sürümleri ve iptalleri tek bir yerde yönetebilirsiniz. Bu makalede, ödemeli SaaS aboneliklerinin AppSource 'ta nasıl satın alınması açıklanmaktadır.
+[Microsoft AppSource](https://appsource.microsoft.com/) hizmet olarak yazılım (SaaS) uygulamaları ve Dynamics 365, Microsoft 365, Power BI ve Power Apps için eklentiler dahil olmak üzere binlerce iş uygulaması içerir. AppSource ücretsiz uygulamalar, denemeler ve ücretli abonelikler içerir. Ayrıca, aboneliği kullanarak ücretleri, yükseltmeleri, eski sürüme düşürmeleri ve iptalleri tek bir [yerde Microsoft 365 yönetim merkezi.](/microsoft-365/admin/admin-overview/about-the-admin-center) Bu makalede AppSource'ta ücretli SaaS abonelikleri satın alma işlemleri açıklanmıştır.
 
 ## <a name="requirements"></a>Gereksinimler
 
-SaaS uygulamasının satın alınması şunları gerektirir:
+SaaS uygulaması satın almak için aşağıdakiler gerekir:
 
-- İş veya okul hesabı. Bir iş veya okul hesabınız yoksa, satın alma sürecinde "ücretsiz hesap için kaydolun" bağlantısını izleyin.
+- İş veya okul hesabı. İş veya okul hesabınız yoksa, satın alma işlemi sırasında "Ücretsiz hesap için kaydol" bağlantısını izleyin.
 
-- Teklifi satın aldığınız ülkede/bölgede geçerli bir kredi kartı. Desteklenen kredi kartları: Visa, ana kart, Amerikan Express ve bul.
+- Teklifi satın aldığınız ülkede/bölgede geçerli bir kredi kartı. Desteklenen kredi kartları: Visa, Master Card, American Express ve Discover.
 
     > [!Note]
-    > Kredi kartı faturalandırma ülkesi/bölgesi Azure Active Directory örneğinizin konumuna kilitlenebilir.
+    > Kredi kartı faturalama ülkesi/bölgesi, fatura örneğinizin Azure Active Directory kilitlenmiş olabilir.
 
 ## <a name="purchase-the-application"></a>Uygulamayı satın alma
 
-1. [Appsource](https://appsource.microsoft.com/)'ta faturalandırma ülkenizi/bölgenizi seçin.
+1. AppSource'ta faturalama [ülkenizi/bölgenizi seçin.](https://appsource.microsoft.com/)
 1. Satın almak istediğiniz uygulamayı bulun.
-1. **Şimdi al**' ı seçin.
+1. Şimdi **al'ı seçin.**
 1. Planı seçin:
 
-    1. Koltuk sayısını ayarlama
-    1. Faturalandırma terimini ayarlayın.
+    1. Yer sayısını ayarlama
+    1. Faturalama terimini ayarlayın.
 
 1. Fatura adresinizi girin.
-1. Ödeme yönteminizi girin (kredi kartı bilgileri).
-1. **Siparişi yerleştir**' i seçin.
+1. Ödeme yönteminizi (kredi kartı bilgileri) girin.
+1. Siparişi **sırala'yi seçin.**
 
 ## <a name="configure-the-application"></a>Uygulamayı yapılandırma
 
-Siparişiniz alındıktan sonra, onay alınması birkaç saniye sürebilir. Sayfada SaaS aboneliğinizi yapılandırmak için bir bağlantı alacaksınız ve satın almayı onaylayan bir e-posta ve yapılandırmayı tamamlamaya yönelik bağlantı görüntülenir.
+Siparişiniz alındıktan sonra onay almak birkaç saniye sürebilir. Sayfada SaaS aboneliğinizi yapılandırmak için bir bağlantının yanı sıra satın alma işlemini onaylayan bir e-posta ve yapılandırmayı tamamlama bağlantısını alırsınız.
 
-1. **Sipariş onayı** sayfasında **Yapılandır**' ı seçin. Alternatif olarak, onay e-postasında size gönderilen yapılandırma bağlantısını kullanabilirsiniz.
-1. Sağlamayı tamamlayıp yazılım sağlayıcısının Web sitesinde ayarlamayı yapın.
+1. Sipariş Onayı **sayfasında Yapılandır'ı** **seçin.** Alternatif olarak, onay e-postasında size gönderilen Yapılandırma bağlantısını kullanabilirsiniz.
+1. Yazılım sağlayıcısının web sitesinde sağlamayı ve ayarlamayı tamamlama.
 
     > [!Note]
-    > Bu adım zorunludur, ancak istediğiniz zaman tamamlayabilirsiniz.
+    > Bu adım zorunludur, ancak bunu herhangi bir zamanda tamamabilirsiniz.
 
 ## <a name="next-steps"></a>Sonraki adımlar
 

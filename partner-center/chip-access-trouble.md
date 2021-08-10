@@ -9,12 +9,12 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: eec04bb75a1c8b2979a6d543770fd31d21f607c2
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 8808460154d9031c522befb0798fd7dfe6814123b63cc26e9ecb97f678cabbea
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110149069"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115682428"
 ---
 # <a name="troubleshoot-issues-with-accessing-chip"></a>YONGADA erişme sorunlarını giderme
 
@@ -30,7 +30,7 @@ Birincil iletişim veya PPA (birincil program Yöneticisi) ise, kayıt için tü
 ## <a name="troubleshooting-steps-to-assist-with-accessing-chip-if-you-had-prior-access"></a>Önceki erişime sahipseniz YONGAYA erişmede yardım etmek için sorun giderme adımları
 
 1. Tüm tanımlama bilgilerini temizleyin ve özel bir tarayıcıda yonga açın.
-1. Tarayıcınızda **Uyumluluk Görünümü ayarları** ' nı seçin. YONGA Microsoft.com altında zaten listelenmiş olmalıdır, aksi durumda Web sitesini ekleyin.
+1. tarayıcınızda **uyumluluk görünümü Ayarlar** seçin. YONGA Microsoft.com altında zaten listelenmiş olmalıdır, aksi durumda Web sitesini ekleyin.
 
 ## <a name="next-steps"></a>Sonraki adımlar
 

@@ -6,12 +6,12 @@ ms.topic: how-to
 author: Guyshu
 ms.author: gushuchm
 ms.date: 11/18/2020
-ms.openlocfilehash: d8deccc2a48ac29f3c370e9b20d551bf2b95c1ad
-ms.sourcegitcommit: 3a2415ab9833d5c574ad76d462f526a131c24f33
+ms.openlocfilehash: 255afe40e495c79fd605358bce039427b0266a3a6a0ecea776cef8734709097b
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "103412633"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115688717"
 ---
 # <a name="how-to-get-support-for-microsoft-appsource-and-azure-marketplace"></a>Microsoft AppSource ve Azure Marketi için destek alma
 

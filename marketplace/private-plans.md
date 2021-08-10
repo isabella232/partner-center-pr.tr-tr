@@ -6,12 +6,12 @@ ms.topic: article
 author: Guyshu
 ms.author: gushuchm
 ms.date: 06/03/2021
-ms.openlocfilehash: 55d0716b183e9e8905e631447e547396d6f55404
-ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
+ms.openlocfilehash: e8a0f0811364de1c012cea7c54bb7b41833d6ce7127d8737c694a3dbc0666ad7
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/04/2021
-ms.locfileid: "115117861"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115688477"
 ---
 # <a name="private-plans-in-azure-marketplace"></a>Azure Marketi 'nde özel planlar
 

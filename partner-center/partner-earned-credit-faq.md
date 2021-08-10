@@ -9,12 +9,12 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3b66c4cf8b199263c3869a4235c4ee3b16ee369c
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: f903bff3f38fb572f4e7e57cd1c737802505c9657aa32ec19790b67bbb085d35
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114836702"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115682904"
 ---
 # <a name="frequently-asked-questions-for-partner-earned-credit"></a>İş ortağı tarafından kazanılan kredi için sık sorulan sorular
 
@@ -57,7 +57,7 @@ Evet, CSP Indirect Provider Azure aboneliği üzerinde Dolaylı Kurumsal Bayi'ye
 
 ## <a name="what-happens-if-a-customer-removes-a-partners-rbac-admin-access"></a>Müşteri iş ortağının RBAC yönetici erişimini kaldırırsa ne olur?
 
-CSP'de uygun RBAC erişimi olmayan bir iş ortağı, müşterinin Azure faturalama ilişkisini ve Microsoft ile sorumluluklarını korur. Bu, CSP'de önceki Azure teklifini satan bir iş ortağını etkilemese de, CSP'de yeni Azure teklifi için faturalanmış iş ortağı, Azure faturalarında PEC için uygun olmayacaktır. İş ortakları, RBAC kullanarak Dizin/Konuk erişimi aracılığıyla bir kullanıcı hesabı üzerinden veya sanal ağ üzerinden erişim elde etmek yoluyla CSP'de kısmi yönetici Azure Lighthouse. Daha fazla bilgi için [bkz. Müşterinin abonelikleri için yönetici ayrıcalıklarını Azure CSP.](revoke-reinstate-csp.md)
+CSP'de uygun RBAC erişimi olmayan bir iş ortağı, müşterinin Azure faturalama ilişkisini ve Microsoft ile sorumluluklarını korur. Bu, CSP'de önceki Azure teklifini satan bir iş ortağını etkilemese de, CSP'de yeni Azure teklifi için faturalanmış iş ortağı, Azure faturalarında PEC için uygun olmaz. İş ortakları, RBAC kullanarak Dizin/Konuk erişimi aracılığıyla bir kullanıcı hesabı üzerinden veya sanal ağ üzerinden erişim elde etmek yoluyla CSP'de kısmi yönetici Azure Lighthouse. Daha fazla bilgi için [bkz. Müşterinin abonelikleri için yönetici ayrıcalıklarını Azure CSP.](revoke-reinstate-csp.md)
 
 ## <a name="how-do-i-know-if-im-earning-pec"></a>Nasıl yaparım? PEC kazancım olduğunu biliyor musunuz?
 
@@ -68,7 +68,7 @@ bir iş ortağının müşterinin Azure kaynaklarına uygun erişime sahip oldu�
 
 ## <a name="why-dont-i-see-pec-on-the-invoice"></a>Neden faturada PEC göremiyorum?
 
-PEC açıkça faturada çağrılmaz ve PEC'i görüntülemek için ayrı bir satır öğesi yoktur, ancak PEC kazançları faturada ayarlanmış net ücretler tutarına dahil olur. PEC ayrıntılarını nerede görüntüleyebilirsiniz hakkında daha fazla bilgi edinmek için hesaplamayı ve PEC ücretli bölümlerini görüntüleme.
+PEC açıkça faturada çağrılmaz ve PEC'i görüntülemek için ayrı bir satır öğesi yoktur, ancak PEC kazançları faturada ayarlanmış net ücretler tutarına göre dikkate alınarak elde edilecektir. PEC ayrıntılarını nerede görüntüleyebilirsiniz hakkında daha fazla bilgi edinmek için hesaplamayı ve PEC ücretli bölümlerini görüntüleme.
 
 ## <a name="next-steps"></a>Sonraki adımlar
 

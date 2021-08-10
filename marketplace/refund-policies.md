@@ -1,59 +1,59 @@
 ---
-title: Microsoft AppSource ve Azure Market için para iadesi ilkeleri
-description: Microsoft AppSource ve Azure Marketi 'nde satılan ürünlerin para iadesi ilkelerini öğrenin
+title: Para iadesi ilkeleri Microsoft AppSource ve Azure Market
+description: Microsoft AppSource ve Azure Market'da satılan ürünler için para iadesi Azure Market
 ms.service: marketplace-customer
 ms.topic: article
 author: jeweber
 ms.author: jeweber
 ms.date: 06/02/2021
-ms.openlocfilehash: 37be38030ece0b78629fe1ebbb77c41f2cbcb8fb
-ms.sourcegitcommit: 771a7fca2125a9895226a06e9f1f3988dcc561ea
+ms.openlocfilehash: 76aeefe324edba06b71cf41cfb25be805b356cc63de0377ba246b50d05187998
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/04/2021
-ms.locfileid: "111446864"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115688326"
 ---
-# <a name="refund-policies-for-microsoft-appsource-and-azure-marketplace"></a>Microsoft AppSource ve Azure Market için para iadesi ilkeleri
+# <a name="refund-policies-for-microsoft-appsource-and-azure-marketplace"></a>Para iadesi ilkeleri Microsoft AppSource ve Azure Market
 
-Microsoft AppSource veya Azure Marketi 'nde satın alma işlemleri bir para iadesi için uygun olabilir. Bu makale, geri ödeme ilkelerinizi tanıtır.
+Satın alma Microsoft AppSource Azure Market para iadesi için uygun olabilir. Bu makalede para iadesi ilkelerimiz tanıtlanmıştır.
 
-## <a name="software-as-a-service-saas-offers"></a>Hizmet olarak yazılım (SaaS) teklifleri
+## <a name="software-as-a-service-saas-offers"></a>Hizmet Olarak Yazılım (SaaS) teklifleri
 
-Aylık planlar için, aboneliğinizi satın alma işleminden bir gün içinde iptal ederseniz tam para iadesi için uygunsunuz demektir. Yıllık planlar için, aboneliğinizi satın alma işleminden 14 gün içinde iptal ederseniz tam para iadesi için uygun olursunuz. Yukarıdaki süre sonunda abonelikler iptal edildiğinde para iadesi kullanılamaz.
+Aylık planlar için, satın alma işleminin ardından bir gün içinde aboneliğinizi iptal edersiniz ve tam para iadesi alabilirsiniz. Yıllık planlar için, satın alma işleminin üzerinden 14 gün içinde aboneliğinizi iptal edersanız tam para iadesi alabilirsiniz. Yukarıdaki süreler sonrasında iptal edilen abonelikler için para iadeleri kullanılamaz.
 
-Değişken ücretler için para iadesi verilmez. Örneğin, bir SaaS, bir e-posta platformundan gönderilen e-postaların sayısına göre faturalandırılır.
+Değişken ücretler için para iadesi yapılmaz. Örneğin, saas teklifi bir e-posta platformundan gönderilen e-posta sayısına göre faturalar.
 
 ## <a name="office-add-ins"></a>Office eklentileri
 
-Bir Office eklentisi satın alırsanız, aboneliği satın alma veya yenileme işleminden bir gün içinde iptal ederseniz tam para iadesi için uygun olursunuz. Satınalmayı bir günden sonra iptal ederseniz, teklifin kalan kısmına göre kısmi bir para iadesi için uygun olursunuz. Aboneliğinizi değiştirirseniz, abonelik döneminin kalan kısmına göre kısmi bir para iadesi için uygun olabilirsiniz.
+Bir eklenti satın Office, satın alma veya yenilemeden itibaren bir gün içinde aboneliği iptal etmeniz gerekirse tam para iadesi alabilirsiniz. Satın alma işleminin üzerinden bir gün sonra aboneliği iptal edersanız, teklifin kalan kısmı temel alınarak kısmi para iadesi alabilirsiniz. Aboneliğinizi değiştirirsanız, abonelik döneminin kalan kısmı temel alınarak kısmi para iadesi alabilirsiniz.
 
-## <a name="azure-developer-services"></a>Azure Geliştirici Hizmetleri
+## <a name="azure-developer-services"></a>Azure geliştirici hizmetleri
 
-Geliştirici hizmetlerini azaldıysanız, abonelik döneminin kalan kısmına göre kısmi bir para iadesi için uygun olursunuz. Aboneliğinizi iptal ettiğinizde para iadesi kullanılamaz.
+Geliştirici hizmetlerini azaltırsanız, abonelik döneminin kalan kısmı temel alınarak kısmi para iadesi alabilirsiniz. Aboneliğinizi iptal etmenizde para iadeleri kullanılamaz.
 
 ## <a name="azure-managed-applications"></a>Azure tarafından yönetilen uygulamalar
 
-Azure yönetilen uygulamalar kullanılamaz duruma getiriliyor.
+Azure tarafından yönetilen uygulamalar para iadesi alınamaz.
 
-## <a name="azure-reserved-instances"></a>Azure ayrılmış örnekleri
+## <a name="azure-reserved-instances"></a>Azure Ayrılmış Örnekleri
 
-Azure ayrılmış örneği (RI) için para iadesi ilkeleri, [Azure ayırmaları Için self servis alışverişlerinde ve para iadelerinde](/azure/cost-management-billing/reservations/exchange-and-refund-azure-reservations)mevcuttur.
+Azure Ayrılmış Örneği (RI) için para iadesi ilkeleri, Azure Rezervasyonları için [self servis değişimler ve para iadeleri'nde kullanılabilir.](/azure/cost-management-billing/reservations/exchange-and-refund-azure-reservations)
 
 ## <a name="azure-support-plans"></a>Azure desteği planları
 
-Azure destek planınızı aktarır veya değiştirirseniz, kısmi bir para iadesi için uygun olabilirsiniz. İade tutarı, abonelik döneminin kalan kısmına göre belirlenir.
+Azure desteği planınızı aktardı veya değiştirirken kısmi para iadesi alabilirsiniz. Para iadesi tutarı, abonelik döneminin kalan bölümüne göredir.
 
 ## <a name="azure-databricks"></a>Azure Databricks
 
-Bir Azure Databricks varlığını kaldırırsanız, belirttiğiniz kalan dönem birimlerine göre kısmi para iadesi için uygun olursunuz. Azure Databricks hakkında daha fazla bilgi için bkz. [Azure Databricks belgeleri](/azure/databricks).
+Belirli bir Azure Databricks kaldırırsanız, belirttiğiniz kalan dönem birimlerine göre kısmi para iadesi alabilirsiniz. Daha fazla bilgi edinmek Azure Databricks için [bkz. Azure Databricks.](/azure/databricks).
 
 ## <a name="monetary-commitment"></a>Parasal taahhüt
 
-Önceden ücretli bir parasal tüketim taahhüdünü iptal ederseniz taahhüt döneminin kalan kısmına göre kısmi bir para iadesi için uygunsunuz demektir.
+Peşin ödediğiniz parasal tüketim taahhüdlerini iptal edersanız, taahhüt döneminin kalan kısmı temel alınarak kısmi para iadesi alabilirsiniz.
 
 > [!NOTE]
-> Microsoft AppSource veya Azure Marketi 'nde satın alma işlemleri için parasal taahhüt kullanılamaz.
+> Parasal taahhüt, parasal taahhütler veya Microsoft AppSource satın Azure Market.
 
 ## <a name="microsoft-azure-consumption-commitment-macc"></a>Microsoft Azure tüketim taahhüdü (MACC)
 
-Microsoft Azure tüketim taahhüdü (MACC) programı, ayrılmış para iadesi ilkelerine sahip değildir. MACC sözleşmesinin bir parçası olarak satın alınan ürünler, bu makalede açıklanan ilkeleri izler.
+Microsoft Azure tüketim taahhüdü (MACC) programında ayrılmış para iadesi ilkeleri yok. MACC sözleşmesi kapsamında satın alınan ürünler, bu makalede açıklanan ilkeleri takip eder.

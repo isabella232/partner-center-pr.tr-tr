@@ -6,12 +6,12 @@ ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
 ms.date: 11/20/2020
-ms.openlocfilehash: 4b235bd462915fc205813ae86e92f98b4fd49fe4
-ms.sourcegitcommit: 3a2415ab9833d5c574ad76d462f526a131c24f33
+ms.openlocfilehash: 22c53238fd74501f32a56d66f15133cbbe8765cffe67a04c4f66779c15b16c37
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/12/2021
-ms.locfileid: "103412565"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115688327"
 ---
 # <a name="transfer-eligibility-for-a-subscription-between-billing-accounts"></a>Faturalama hesapları arasında bir abonelik için aktarım uygunluğu
 

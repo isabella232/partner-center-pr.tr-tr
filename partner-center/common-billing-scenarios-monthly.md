@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: dad132f9ad749076dc52a45f1ce77f23839e8671
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: f6486f391925b7b283bec6b14c93c51ede095be033a307031b20bc604a2629e5
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114840714"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115682326"
 ---
 # <a name="sample-monthly-billing-scenarios-for-new-subscriptions-changing-license-amounts-or-suspensions"></a>Yeni abonelikler için örnek aylık faturalandırma senaryoları, lisans tutarlarını değiştirme veya getirilmesi
 

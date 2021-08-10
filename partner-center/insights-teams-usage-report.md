@@ -8,12 +8,12 @@ description: İyi bir şekilde neler yaptığına ve müşterileriniz için sat�
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: 390c81496c16afb20ede58420c1201b24349708e
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 4d6dec18310193e2d4b51bc41e6fce3ef11f8354d0dd451d1517923f8ea5845d
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114846171"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115683076"
 ---
 # <a name="teams-usage-report-available-from-the-partner-center-insights-dashboard"></a>Teams panosundan kullanılabilen İş Ortağı Merkezi Analizler raporu
 

@@ -9,12 +9,12 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 02/03/2021
-ms.openlocfilehash: 91490f3c0104b4807e6178f51a7504dc22d70236
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: fac53d4a7770a79acca47e8d34959d40ae27e396185633915414a24b7492b79a
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114842737"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115682394"
 ---
 # <a name="bulk-operations-for-co-sell-opportunities-using-comma-separated-value-csv-files"></a>Ortak satış fırsatları için virgülle ayrılmış değer (CSV) dosyalarının kullanıldığı toplu işlemler
 
@@ -59,8 +59,8 @@ Aşağıdaki bilgiler dışarı aktarma işlevini açıklar:
 |**Sütun adı**|**Zorunlu mu?**|**Açıklama**|**Örnek değer**|
 |-----|:-----|:---------|:---|
 Hatalar|No|Başvurulara yönelik w.r.t oluşturma/güncelleştirme işlemleriyle ilgili hatalar bu sütuna dahil edilir. Birden çok hata varsa bunların hepsi noktalı virgülle ayrılmış olarak listelenir.|Zorunlu alan Çözüm 1 eksik|
-Katılım Kimliği|No|Katılım kimliği Microsoft iş ortağı merkezi referans sistemi tarafından oluşturulur. Yeni referans oluşturma için gerekli değildir. Bir kaydı güncelleştiriyorsanız mevcut katılım kimliğini kullanabilirsiniz.|f7eaae47-0b84-4ac4-b4ea-5b2587d42cee
-Referans kimliği|No|Referans kimliği, Microsoft iş ortağı merkezi referans sistemi tarafından oluşturulur. Yeni referans oluşturma için gerekli değildir. Mevcut bir kaydı güncelleştiriyorsanız referans kimliğiyle doldurun.|ebacdkdc-0b84-4ac4-b4ea-5b2587d42cee
+Katılım Kimliği|No|Etkileşim kimliği, Microsoft İş Ortağı Merkezi tarafından oluşturulur. Yeni referans oluşturma için gerekli değildir. Bir kaydı güncelleştiriyorsanız mevcut katılım kimliğini kullanabilirsiniz.|f7eaae47-0b84-4ac4-b4ea-5b2587d42cee
+Referans kimliği|No|Referans kimliği, Microsoft İş Ortağı Merkezi sistemi tarafından oluşturulur. Yeni referans oluşturma için gerekli değildir. Mevcut bir kaydı güncelleştiriyorsanız referans kimliğiyle doldurun.|ebacdkdc-0b84-4ac4-b4ea-5b2587d42cee
 Anlaşma Adı|Yes|Başvuru için anlaşmanın kolay adı.|Birleşik Krallık spring deal
 Müşteri Adı|Yes|Müşteri şirketinin adı. Microsoft tarafında hızlı eşleştirme için kuruluşun yasal adını kullanın.|Contoso Corporation
 Müşteri Adres Satırı 1|Yes|Müşteri şirketinin 1. satırına adresle. |Tek Contoso Yolu
@@ -86,16 +86,16 @@ CRM KIMLIĞI|No|Varsa, CRM sisteminizde bu özel başvurunun tanımlayıcısı. 
 Pazarlama kampanyası KIMLIĞI|No|Bu alan, bu özel başvurunun sonucu olan pazarlama kampanyasını gösterir. Genellikle ROı hesaplama için kullanılır|BingSummer2020
 Notlar|No|Başvuruya ilişkin güncelleştirmeleri gösteren ayrıntılı notlar|Bu örnek bir notdır
 Microsoft yardımı gerekli mi?|Yes|Bu, Microsoft 'un bu ortak satış isteğini yaparken size yardımcı olmasını isteyip istemediğinizi belirtir|Yes
-Microsoft 'a özgü yardım nedir?|Şekline|Microsoft 'un size yardımcı olabilecek altı farklı yönden biri. Bu yalnızca, "Microsoft Yardım gerekli" sorusu için Evet ' i seçerseniz geçerlidir. " <br/> **Aşağıdaki seçeneklere göre bir sayı girin** <br/><br/> **1**-iş yüküne özgü değer teklifi  <br/> **2**-müşteri teknik mimarisi  <br/> **3**- Kavram kanıtı /Tanıtım  <br/> **4**- Teklifler ve Lisanslama  <br/> **5**- Gönderi - satış müşteri başarısı  <br/> **6**- Genel veya diğer|1|
-Microsoft satış ekibiyle paylaşma|Yes|Bu, satış anlaşmasıyla ilgili ayrıntıları Microsoft satış ekibiyle paylaşmak isteyip istemeyebilirsiniz. Bu yalnızca "Microsoft yardımı gerekiyor mu? sorusu için Hayır'ı seçerseniz geçerlidir. "|Yes
-Microsoft'a notlar|No|Microsoft'tan yardıma ihtiyacınız varsa Microsoft'a özgü notlar|Contoso müşterisi için POC ile ilgili yardım gerekiyor
-Müşteri/İş Ortağı kişisi paylaşma onayı|Yes|Müşterinin iletişim ayrıntılarını ve şirket çalışanlarının anlaşma üzerinde çalışan kişi ayrıntılarını paylaşma onayı. **Bu sütun için Hayır'ı seçerseniz anlaşmalar oluşturulmaz veya güncelleştirilmez.** |Yes
-1\. Çözüm|Yes|Çözüm Kimliği (Gerekli), Anlaşma değerinin girilir olduğu para birimi (İsteğe bağlı). Para birimi kodlarını [burada,](https://en.wikipedia.org/wiki/ISO_4217)SKU fiyatı (İsteğe bağlı) ve SKU Miktarı (İsteğe bağlı) bulabilirsiniz  |SOL-1234-PQRS, USD, 10, 100
-Takım üyesi 1|Yes|İlgili ekip üyesinin ad, Soyadı, mobil numarası ve e-posta kimliği.| Bob, Partner, 999999, Bob.partner@Contoso.com
+Microsoft 'a özgü yardım nedir?|Şekline|Microsoft 'un size yardımcı olabilecek altı farklı yönden biri. Bu yalnızca, "Microsoft Yardım gerekli" sorusu için Evet ' i seçerseniz geçerlidir. " <br/> **Aşağıdaki seçeneklere göre bir sayı girin** <br/><br/> **1**-iş yüküne özgü değer teklifi  <br/> **2**-müşteri teknik mimarisi  <br/> **3**-kavram kanıtı/demo  <br/> **4**-teklifler ve lisanslama  <br/> **5**-satış sonrası müşteri başarısı  <br/> **6**-genel veya diğer|1|
+Microsoft Sales Team ile paylaşma|Yes|Bu, Microsoft satış ekibi ile ilgilenmenin ayrıntılarını paylaşmak isteyip istemediğinizi belirtmek için kullanılır. Bu yalnızca, "Microsoft yardımı gerekli" sorusu için Hayır 'ı seçerseniz geçerlidir. "|Yes
+Microsoft 'a notlar|No|Microsoft 'a yönelik yardıma ihtiyacınız varsa Microsoft 'a özgü notlar|Contoso müşterisi için POC ile ilgili yardım gerekiyor
+Müşteri/Iş ortağı ilgili kişisini paylaşma onayı|Yes|Müşteri iletişim ayrıntılarını ve şirketinizin çalışanlarınızı paylaşma onayı, anlaşma üzerinde çalışan ayrıntıları ile iletişim kurun. **Bu sütun için Hayır ' ı seçerseniz anlaşmalar oluşturulmaz veya güncellenmez.** |Yes
+1\. Çözüm|Yes|Çözüm KIMLIĞI (gerekli), anlaşma değerinin girildiği para birimi (Isteğe bağlı). Döviz cinslerini [buradan](https://en.wikipedia.org/wiki/ISO_4217), SKU 'nun fiyatını (isteğe bağlı) ve SKU 'nun miktarına (isteğe bağlı) ulaşabilirsiniz.  |NUEVO-1234-PQRS, USD, 10, 100
+Takım üyesi 1|Yes|İlgili takım üyesinin adı, soyadı, cep telefonu numarası ve e-posta KIMLIĞI.| Bob, Iş ortağı, 999999, Bob.partner@Contoso.com
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-CRM sistemlerinizin İş Ortağı Merkezi Microsoft ile ortak satış yapmak için bu ortak satış bağlayıcılarını kullanabilirsiniz.
+Bu Iş Ortağı Merkezi ortak satış bağlayıcılarını, CRM sistemlerinizden Microsoft ile birlikte satın almak için kullanabilirsiniz.
 
-- [Dynamics 365 CRM için ortak satış bağlayıcısı – Genel Bakış](connector-dynamics.md)
-- [Salesforce CRM için ortak satış bağlayıcısı - genel bakış](connector-salesforce.md)
+- [Dynamics 365 CRM için ortak satış Bağlayıcısı – genel bakış](connector-dynamics.md)
+- [Salesforce için ortak satış Bağlayıcısı CRM-genel bakış](connector-salesforce.md)

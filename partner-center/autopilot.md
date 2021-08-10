@@ -1,49 +1,49 @@
 ---
-title: Bir cihazın kullanıma hazır deneyimini özelleştirme
+title: Cihazın ilk çalışma deneyimini özelleştirme
 ms.topic: how-to
 ms.date: 04/28/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-customers
-description: müşterinin yeni cihazını teslim etmeden önce, Windows Autopilot profillerini kullanarak cihazın kullanıma hazır deneyimini (OOBE) özelleştirebilir veya önceden yapılandırabilirsiniz.
+description: Müşterinin yeni cihazı teslimmeden önce, Windows Autopilot profillerini kullanarak cihazın hazır deneyimini (OOBE) özelleştirilebilir veya önceden yapılandırabilirsiniz.
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 95a201c53fc2eaf230d08bb4cfdd03a5747b5c05
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 7b022e51c99bffbdca085da317a963a9e051e14bd58211b0592b0da154554f04
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114838487"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115690384"
 ---
 # <a name="use-windows-autopilot-profiles-on-new-devices-to-customize-a-customers-out-of-box-experience"></a>Yeni cihazlarda Windows Otomatik Pilot profillerini kullanarak müşterinin kullanıma hazır deneyimini özelleştirme
 
-**Uygun roller**: yönetici Aracısı | Genel yönetici | Satış Aracısı | Kullanıcı Yönetimi Yöneticisi
+**Uygun roller:** Yönetici aracısı | Genel yönetici | Satış aracısı | Kullanıcı yönetimi yöneticisi
 
-Müşteri cihazlarını yönetiyorsanız, müşterinin kullanıcıları için hazır olmayan deneyimi (OOBE) özelleştirmeniz gerekebilir. cihazları müşterilere teslim etmeden önce Windows Autopilot profilleriyle yeni cihazları önceden yapılandırabilir ve müşterilerin zaten satın almış olduğu cihazlara yeni profiller uygulayabilirsiniz. 
+Müşteri cihazlarını yönetecek olursanız, müşterinin kullanıcıları için ilk deneyimi (OOBE) özelleştirmeniz gerekir. Yeni cihazları müşterilere teslimmeden Windows Autopilot profilleriyle önceden yapılandırabilirsiniz ve müşterilerin önceden satın aldığınız cihazlara yeni profiller uygulayabilirsiniz. 
 
-OEM 'Lerin, cihazın **ürün anahtarı kimliğini (PKıD)** gösteren Autopilot cihaz kutusunun dışında bir sevkiyat etiketi de dahil başlatıldığını unutmayın.  Bu 1 boyutlu, okunabilir bir barkod, cihazların bir listesini kaldırmak zorunda kalmadan ve cihaz KIMLIĞINI alternatif yollarla ayırarak Autopilot için cihazları kaydetmek için bir yol ile aşağı akış ortakları sağlar.
+OEM'ler Autopilot cihaz kutusunun dışında cihazın Ürün Anahtarı Kimliğini **(PKID)** gösteren bir sevkiyat etiketi dahil etmeye başlamıştır.  Bu 1 boyutlu, okunabilir barkod, aşağı akış iş ortaklarına cihazları autopilot'a kaydetmenin ve cihaz kimliğini alternatif yolla toplamaya gerek kalmadan kaydetmelerini sağlar.
 
-Bu makalede, Autopilot profillerinin Iş Ortağı Merkezi 'nde cihazlara nasıl oluşturulacağı ve uygulanacağı açıklanır.
+Bu makalede, autopilot profillerini oluşturma ve bu cihazlarda cihazlara uygulama İş Ortağı Merkezi.
 
-Zaten Autopilot hakkında bilgi sahibi değilseniz, bu makalelerdeki bilgileri gözden geçirin:
+Autopilot hakkında bilgi sahibi değilsanız şu makalelerde yer alan bilgileri gözden geçirebilirsiniz:
 
 - [Windows Autopilot’a genel bakış](/windows/deployment/windows-10-auto-pilot)
-- [Autopilot dağıtım başvurusu Kılavuzu](https://assetsprod.microsoft.com/autopilot-deployment-program-reference-guide-csp.docx)  
+- [Autopilot dağıtım başvuru kılavuzu](https://assetsprod.microsoft.com/autopilot-deployment-program-reference-guide-csp.docx)  
 
 ## <a name="overview"></a>Genel Bakış
 
-iş ortağı merkezi 'nde Windows Autopilot özelliği ile müşteri cihazlarına uygulanacak özel profiller oluşturabilirsiniz. Aşağıdaki profil ayarları, bu makalenin yayımlandığı sırada mevcuttur:
+Windows Autopilot özelliği İş Ortağı Merkezi, müşteri cihazlarına uygulanacak özel profiller oluşturabilirsiniz. Bu makale yayımlanırken aşağıdaki profil ayarları kullanılabilir durumdadır:
 
-- Gizlilik ayarlarını atlayın. Bu isteğe bağlı Autopilot profili ayarı, kuruluşların OOBE işlemi sırasında gizlilik ayarlarını istememesini sağlar.
+- Gizlilik ayarlarını atla. Bu isteğe bağlı Autopilot profil ayarı, kuruluşların OOBE işlemi sırasında gizlilik ayarlarını sormamalarını sağlar.
 
-- Cihazda yerel yönetici hesabı oluşturmayı devre dışı bırakın. Kuruluşlar, işlem tamamlandıktan sonra cihazı ayarlamaya yönelik kullanıcının yönetici erişimine sahip olup olmadığına karar verebilir.
+- Cihazda yerel yönetici hesabı oluşturma özelliğini devre dışı bırakma. Kuruluşlar, işlem tamamlandıktan sonra cihazı ayarlayan kullanıcının yönetici erişimine sahip olup olmadığına karar verir.
 
-- Cihazı iş veya okul için otomatik olarak ayarlayın. Autopilot ile kaydedilen tüm cihazlar otomatik olarak iş veya okul cihazları olarak kabul edilir. bu nedenle, bu soru, OOBE işlemi sırasında istenmez.
+- İş veya okul için cihazı otomatik olarak ayarlama. Autopilot'a kayıtlı tüm cihazlar otomatik olarak iş veya okul cihazları olarak kabul edilir, bu nedenle OOBE işlemi sırasında bu soru sorulmayacak.
 
-- Cortana, OneDrive ve OEM kayıt kurulum sayfalarını atlayın. Autopilot ile kaydedilen tüm cihazlar, kullanıma hazır deneyim (OOBE) işlemi sırasında bu sayfaları otomatik olarak atlar.
+- Cortana, OneDrive ve OEM kayıt kurulum sayfalarını atla. Autopilot'a kayıtlı tüm cihazlar, ilk deneyim (OOBE) işlemi sırasında bu sayfaları otomatik olarak atlar.
 
-- Son Kullanıcı Lisans Sözleşmesi 'Ni (EULA) atlayın. Windows 10 sürüm 1709 ' den başlayarak kuruluşlar, OOBE işlemi sırasında sunulan EULA sayfasını atlamaya karar verebilir. Windows kurulum sırasında eula sayfasını atlamayı göz önünde bulundurmanız gereken önemli bilgiler için bkz. [Windows Autopilot EULA](#windows-autopilot-eula-dismissal) yok.
+- Son Kullanıcı Lisans Sözleşmesi'ne (EULA) atla. 1709 Windows 10 başlayarak, kuruluşlar OOBE işlemi sırasında sunulan EULA sayfasını atlamayı karar kabilirsiniz. Kurulum Windows EULA sayfasını atlama hakkında dikkate alınması gereken önemli bilgiler için aşağıdaki [Autopilot EULA](#windows-autopilot-eula-dismissal) Windows bakın.
 
 Aşağıdaki profil ve cihaz yönetim izinleri ve sınırlamaları geçerlidir:
 
@@ -53,122 +53,122 @@ Aşağıdaki profil ve cihaz yönetim izinleri ve sınırlamaları geçerlidir:
 
 - Müşterinizin Microsoft Store İş'e veya Microsoft Intune Portalına yüklediği cihazları yönetemezsiniz.
 
-## <a name="create-and-manage-autopilot-profiles-in-partner-center"></a>Autopilot profillerini Iş Ortağı Merkezi 'nde oluşturma ve yönetme
+## <a name="create-and-manage-autopilot-profiles-in-partner-center"></a>İş Ortağı Merkezi'da Autopilot profilleri oluşturma ve yönetme
 
-iş ortağı merkezi 'nde, Windows Autopilot dağıtım profilleri oluşturabilir ve bunları cihazlara uygulayabilirsiniz.
+Bu İş Ortağı Merkezi, autopilot Windows profillerini oluşturabilir ve cihazlara uygulayabilirsiniz.
 
 >[!NOTE]
->Yalnızca yönetici aracıları profil oluşturabilir ve uygulayabilir.
+>Profiller yalnızca yönetici aracıları oluşturabilir ve uygulayabilir.
 
-### <a name="create-a-new-autopilot-profile"></a>Yeni bir Autopilot profili oluşturun
+### <a name="create-a-new-autopilot-profile"></a>Yeni bir Autopilot profili oluşturma
 
-1. Iş Ortağı Merkezi menüsünden **müşteriler** ' i seçin ve ardından Autopilot profilini oluşturduğunuz müşteriyi seçin.
+1. İş Ortağı Merkezi  menüsünden Müşteriler'i ve ardından Autopilot profilini oluşturmakta olduğunu müşteriyi seçin.
 
-2. Müşterinin ayrıntı sayfasında **cihazlar**' ı seçin.
+2. Müşterinin ayrıntı sayfasında Cihazlar'ı **seçin.**
 
-3. **Windows Autopilot profilleri** altında **yeni profil ekle**' yi seçin.
+3. **Autopilot Windows altında Yeni profil** **ekle'yi seçin.**
 
-4. Profilin adını ve açıklamasını girip OOBE ayarlarını yapılandırın. Aşağıdakilerden birini seçin:  
+4. Profilin adını ve açıklamasını girin ve ardından OOBE ayarlarını yapılandırabilirsiniz. Aşağıdakilerden birini seçin:  
 
-   - Kurulum 'da gizlilik ayarlarını atla
+   - Kurulumda gizlilik ayarlarını atla
 
-   - Kurulumda yerel yönetici hesabını devre dışı bırak
+   - Kurulumda yerel yönetici hesabını devre dışı bırakma
   
-   - Kurulum 'da sayfaları otomatik olarak atla<br>
-        ( *iş veya okul için kurulumu otomatik olarak seç* ve *Cortana, OneDrive ve OEM kayıt kurulum sayfalarını atla*)
+   - Kurulumda sayfaları otomatik olarak atlama<br>
+        (İş *veya okul için kurulumu otomatik olarak seçme ve* Cortana, OneDrive ve OEM kaydı kurulum sayfalarını *atla'ya dahildir)*
   
-   - Son Kullanıcı Lisans Sözleşmesi 'ni (EULA) atla<br> 
+   - Son kullanıcı lisans sözleşmelerini (EULA) atla<br> 
        >[!IMPORTANT] 
-       >Windows kurulum sırasında eula sayfasını atlamayı göz önünde bulundurmanız gereken önemli bilgiler için bkz. [Windows Autopilot EULA](#windows-autopilot-eula-dismissal) yok.
+       >Kurulum Windows EULA sayfasını atlama hakkında dikkate alınması gereken önemli bilgiler için aşağıdaki [Autopilot EULA](#windows-autopilot-eula-dismissal) Windows bakın.
 
-5. Bittiğinde **Gönder** ' i seçin.
+5. Tamamlandığında **Gönder'i** seçin.
 
-### <a name="apply-an-autopilot-profile-to-customer-devices"></a>Müşteri cihazlarına bir Autopilot profili uygulama
+### <a name="apply-an-autopilot-profile-to-customer-devices"></a>Müşteri cihazlarına Autopilot profili uygulama
 
 >[!NOTE]
->Aşağıdaki yönergelerde, müşterinin cihazlarını Iş Ortağı Merkezi 'ne eklediğiniz ve cihaz listesine erişebileceğiniz varsayılmaktadır. Müşterinin cihazlarını henüz eklemediyseniz, [müşterinin hesabına cihaz ekleme](#add-devices-to-a-customers-account) ' deki yönergeleri izleyin ve ardından aşağıdaki adımları izleyin.
+>Aşağıdaki yönergelerde müşterinin cihazlarını önceden İş Ortağı Merkezi ve cihaz listesine erişebilirsiniz. Müşterinin cihazlarını henüz eklemedıysanız, Müşterinin hesabına cihaz ekleme'de verilen yönergeleri [izleyin](#add-devices-to-a-customers-account) ve ardından aşağıdaki adımları izleyin.
 
-Bir müşteri için Autopilot profili oluşturduktan sonra, bunu müşterinin cihazlarına uygulayabilirsiniz.
+Bir müşteri için Bir Autopilot profili oluşturdukta, bunu müşterinin cihazlarına uygulayabilirsiniz.
 
-1. Iş Ortağı Merkezi menüsünden **müşteriler** ' i seçin ve ardından Autopilot profilini oluşturduğunuz müşteriyi seçin.
+1. İş Ortağı Merkezi  menüsünden Müşteriler'i seçin ve ardından Autopilot profilini oluşturduğunuz müşteriyi seçin.
 
-2. Müşterinin ayrıntı sayfasında **cihazlar**' ı seçin.
+2. Müşterinin ayrıntı sayfasında Cihazlar'ı **seçin.**
 
-3. **Cihazları cihazlara Uygula** altında, profil eklemek istediğiniz cihazları veya cihaz gruplarını seçin ve ardından **profili Uygula**' yı seçin. Yeni uyguladığınız profil **profil** sütununda görünür.
+3. Cihazlara **profil uygula altında,** profil eklemek istediğiniz cihazları veya cihaz gruplarını seçin ve ardından Profili uygula'ya **tıklayın.** Az önce uyguladık profil Profil **sütununda** görünür.
 
-4. Profilin cihaza başarıyla uygulanacağını doğrulamak için aşağıdaki adımları izleyin.
+4. Profilin cihaza başarıyla uygulanacak olduğunu doğrulamak için aşağıdaki adımları izleyin.
 
-    a.  bir cihazı ağa Bağlan ve açın.
+    a.  Bağlan cihazı ağa açın ve açın.
 
-    b.  Uygun OOBE ekranlarının (varsa) göründüğünü doğrulayın.
+    b.  Uygun OOBE ekranlarının (varsa) görüntü olduğunu doğrulayın.
 
-    c.  OOBE işlemi durdurulduğunda, yeni bir kullanıcı için hazırlamak üzere cihazı fabrika varsayılan ayarlarına sıfırlayın.
+    c.  OOBE işlemi durduğunda, cihazı yeni bir kullanıcıya hazırlamak için cihazı fabrika varsayılan ayarlarına sıfırlayın.
 
-### <a name="remove-an-autopilot-profile-from-a-customers-device"></a>Bir Autopilot profilini müşterinin cihazından kaldırma
+### <a name="remove-an-autopilot-profile-from-a-customers-device"></a>Müşterinin cihazından Autopilot profilini kaldırma
 
-1. Iş Ortağı Merkezi menüsünden **müşteriler** ' i seçin ve ardından Autopilot profilini oluşturduğunuz müşteriyi seçin.
+1. İş Ortağı Merkezi  menüsünden Müşteriler'i seçin ve ardından Autopilot profilini oluşturduğunuz müşteriyi seçin.
 
-2. Müşterinin ayrıntı sayfasında **cihazlar**' ı seçin.
+2. Müşterinin ayrıntı sayfasında Cihazlar'ı **seçin.**
 
-3. **Cihazlara profilleri Uygula** altında, profili kaldırmak istediğiniz cihazları seçin ve ardından **Profili Kaldır**' ı seçin.
+3. Cihazlara **profil uygula altında,** profili kaldırmak istediğiniz cihazları seçin ve ardından Profili kaldır'ı **seçin.**
 
    >[!NOTE]
-   >Bir cihazın cihazdan kaldırılması, profili listenizden silmez. Bir profili silmek istiyorsanız, [Autopilot profilini güncelleştirme veya silme](#update-or-delete-an-autopilot-profile)bölümündeki yönergeleri izleyin.
+   >Cihazdan profil kaldırmak, profili listenizden silemez. Bir profili silmek için Bir Autopilot profilini güncelleştirme [veya silme yönergelerini izleyin.](#update-or-delete-an-autopilot-profile)
 
 ### <a name="update-or-delete-an-autopilot-profile"></a>Autopilot profilini güncelleştirme veya silme
 
-Müşteriler cihazları gönderdikten sonra, kullanıma hazır deneyimini değiştirmek isterse, Iş Ortağı Merkezi ' nde profili değiştirebilirsiniz.
+Bir müşteri, cihazları onlara verdikten sonra ilk kez deneyimi değiştirmek istiyorsa, cihazları geri almak için İş Ortağı Merkezi.
 
-Müşterinin cihazı internet 'e bağlandığı zaman, OOBE işlemi sırasında en son profil sürümünü indirir. Ayrıca, bir müşteri bir cihazı fabrika varsayılan ayarlarına geri yüklediğinde, bu cihaz, OOBE işlemi sırasında en son profil sürümünü yeniden indirir.
+Müşterinin cihazı İnternet'e bağlandığında, OOBE işlemi sırasında en son profil sürümünü indirir. Ayrıca, bir müşteri bir cihazı fabrika varsayılan ayarlarına geri yükleyene kadar, cihaz OOBE işlemi sırasında en son profil sürümünü yeniden indirir.
 
-1. Iş Ortağı Merkezi menüsünden **müşteriler** ' i seçin ve ardından bir Autopilot profilini değiştirmenizi isteyen müşteriyi seçin.
+1. İş Ortağı Merkezi  menüsünden Müşteriler'i seçin ve ardından Autopilot profilini değiştirmenizi isteyen müşteriyi seçin.
 
-2. Müşterinin ayrıntı sayfasında **cihazlar**' ı seçin.
+2. Müşterinin ayrıntı sayfasında Cihazlar'ı **seçin.**
 
-3. **Windows Autopilot profilleri** altında, güncelleştirmeniz gereken profili seçin. Gerekli değişiklikleri yapıp **Gönder**' i seçin.
+3. Autopilot **Windows altında** güncelleştirmeniz gereken profili seçin. Gerekli değişiklikleri yapın ve Gönder'i **seçin.**
 
-Bu profili silmek için sayfanın sağ üst köşesinden **Profili Sil** ' i seçin.
+Bu profili silmek için sayfanın **sağ üst** köşesinden Profili sil'i seçin.
 
 ### <a name="add-devices-to-a-customers-account"></a>Müşterinin hesabına cihaz ekleme
 
 >[!NOTE]
->Satış aracıları ve yönetici aracıları, bir müşterinin hesabına cihaz ekleyebilir.
+>Satış temsilcileri ve yönetici temsilcileri, bir müşterinin hesabına cihaz ekleyebilir.
 
-Müşteri cihazlarına özel Autopilot profilleri uygulayabilmeniz için önce müşterinin cihaz listesine erişebiliyor olmanız gerekir.
+Müşteri cihazlarına özel Autopilot profilleri uygulayamadan önce müşterinin cihaz listesine erişebilirsiniz.
 
-OEM adı, seri numarası ve model birleşimini kullanmayı planlıyorsanız, bu sınırlamalara dikkat edin:
+OEM adını, seri numarasını ve model birleşimini kullanmayı planlıyorsanız şu sınırlamalara dikkat edin:
 
-- Bu tanımlama grubu yalnızca daha yeni cihazlar (örneğin, 4k karmaları) için geçerlidir ve 128b karmaları (RS2 ve önceki cihazlar) için desteklenmez.
+- Bu tuple yalnızca daha yeni cihazlarda (örneğin 4k karmalar) çalışır ve 128b karmalar (RS2 ve önceki cihazlar) için desteklanmaz.
 
-- Demet kaydı, büyük/küçük harfe duyarlıdır, bu nedenle dosyadaki verilerin, ***tam*** olarak OEM sağlayıcısı (donanım sağlayıcısı) tarafından sağlandığı şekilde model ve üretici adlarıyla eşleşmesi gerekir.
+- Kayıt, büyük/büyük/büyük harfe duyarlıdır, bu nedenle dosyada yer alan verilerin, OEM sağlayıcısı (donanım sağlayıcısı) tarafından sağlanan model ve üretici adlarına tam olarak eşleşmesi gerekir. 
 
-Iş Ortağı Merkezi 'nde bir müşterinin hesabına cihaz eklemek için aşağıdaki yönergeleri izleyin.
+Aşağıdaki yönergeleri izleyerek cihazları bir müşterinin hesaplarında İş Ortağı Merkezi.
 
-1. Iş Ortağı Merkezi menüsünden **müşteriler** ' i seçin ve ardından cihazlarını yönetmek istediğiniz müşteriyi seçin.
+1. İş Ortağı Merkezi  menüsünden Müşteriler'i seçin ve ardından cihazlarını yönetmek istediğiniz müşteriyi seçin.
 
-2. Müşterinin ayrıntı sayfasında **cihazlar**' ı seçin.
+2. Müşterinin ayrıntı sayfasında Cihazlar'ı **seçin.**
 
-3. **Cihazlara profil Uygula** altında **Cihaz Ekle**' yi seçin.
+3. Cihazlara **profil uygula altında Cihaz ekle'yi** **seçin.**
 
-4. Cihaz listesi için bir ad girin ve ardından, müşteri listesini (.csv dosya biçiminde) Iş Ortağı Merkezi 'ne yüklemek için **Gözden** geçirme ' yi seçin.
+4. Cihaz listesi için bir ad  girin ve ardından Gözat'ı seçerek müşterinin listesini (.csv biçiminde) İş Ortağı Merkezi.
 
     >[!NOTE]
-    >Bu .csv dosyasını cihazınızın satın almanızdan almış olmanız gerekir. bir .csv dosyası almadıysanız, [Windows Autopilot 'e cihaz ekleme](/windows/deployment/windows-autopilot/add-devices#collecting-the-hardware-id-from-existing-devices-using-powershell)bölümündeki adımları izleyerek kendiniz bir tane oluşturabilirsiniz.  
+    >Bu dosyanın cihaz satın .csv almış olması gerekir. Bir .csv dosyası almadıysanız, Autopilot'a cihaz ekleme adımlarını Windows [oluşturabilirsiniz.](/windows/deployment/windows-autopilot/add-devices#collecting-the-hardware-id-from-existing-devices-using-powershell)  
 
-5. .csv dosyasını Upload ve ardından **kaydet**' i seçin.
+5. Upload dosyasını .csv kaydet'i **seçin.**
 
-Bir .csv dosyasını karşıya yüklemeye çalışırken hata iletisi alıyorsanız, dosyanın biçimini denetleyin. Yalnızca donanım karmasını veya OEM adı, seri numarası ve model (bu sütun sırasıyla) veya Windows Ürün Kimliğini kullanabilirsiniz. Cihaz listesi oluşturmak için cihaz **ekleme** ' nin yanındaki bağlantıdan sunulan örnek .csv dosyasını da kullanabilirsiniz.
+Bir .csv dosyasını karşıya yüklemeye çalışırken hata iletisi alıyorsanız, dosyanın biçimini denetleyin. Yalnızca donanım karmasını veya OEM adı, seri numarası ve model (bu sütun sırasıyla) veya Windows Ürün Kimliğini kullanabilirsiniz. Cihaz listesi oluşturmak için cihaz .csv yanındaki bağlantıdan sağlanan örnek dosya **dosyasını** da kullanabilirsiniz.
 
-.csv dosyanız şuna benzemelidir:
+.csv dosyanız şuna benzer şekilde görünüyor:
 
-> **cihaz seri numarası, Windows ürün kimliği, donanım karması, üretici adı, cihaz modeli**
+> **Cihaz Seri Numarası,Windows Kimliği,Donanım Karması,Üretici adı,Cihaz modeli**
 
-> **{serialNumber},,, Microsoft Corporation, Surface Laptop**
+> **{serialNumber},,,Microsoft Corporation,Surface Laptop**
 
 >[!NOTE]
-> "Üretici adı" ve "cihaz modeli" büyük/küçük harfe duyarlıdır.
+> "Üretici adı" ve "Cihaz modeli" büyük/büyük/büyük harfe duyarlıdır.
 
-Üretici adı ve cihaz modeli için hangi değeri koyacağınızı bilmiyorsanız, doğru değerleri toplamak için bunu cihazda çalıştırabilirsiniz:
+Üretici adı ve Cihaz Modeli için hangi değeri koyacaklarını bilmiyorsanız, doğru değerleri toplamak için bunu cihazda çalıştırabilirsiniz:
 
 <pre><code>md c:\\HWID
 
@@ -181,9 +181,9 @@ Install-Script -Name Get-WindowsAutoPilotInfo
 Get-WindowsAutoPilotInfo.ps1 -OutputFile AutoPilotHWID.csv -Partner -Force
 </code></pre>
 
-## <a name="windows-autopilot-eula-dismissal"></a>Windows Autopilot EULA
+## <a name="windows-autopilot-eula-dismissal"></a>Windows Autopilot EULA'yı devreden çıkarma
 
-### <a name="important-information"></a>ÖNEMLI BILGILER
+### <a name="important-information"></a>ÖNEMLİ BILGILER
 
 Windows Autopilot, müşterileriniz için yönetebileceğiniz cihazlarda Windows özelleştirilmiş yüklemeleri yapılandırmanıza olanak tanır. Müşteri bunu yapma yetkisine sahipse, EULA (Son Kullanıcı Lisans Sözleşmesi) kabul ekranı dahil olmak üzere Windows ayarlarken normalde kullanıcılara sunulan bazı ayar ekranlarını gizleyebilirsiniz.
 

@@ -9,12 +9,12 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5163952f7fa90c13001cfdb160558d0ee7462691
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: b837be9624f18ac634b3f05a7e51ebef70cadc716894fd9d2fae916da387ab3a
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114845627"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115690129"
 ---
 # <a name="customer-self-support-through-microsoft-office-365-admin-center-or-through-the-azure-portal"></a>Microsoft Office 365 yönetim merkezi aracılığıyla veya Azure portal aracılığıyla müşterinin kendi kendini destekleme
 

@@ -9,12 +9,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 485fddb8ce689d5e45b19f751f91a80ec321991b
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 1ae575a973d40ad5ef7576a36b02dd2a5fd4d3fe543bcc4de2956d83a9a4303d
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114844012"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115683638"
 ---
 # <a name="grow-your-microsoft-partner-business---learn-how-to-get-leads--set-your-company-apart"></a>Microsoft iş ortağı işletmenizi büyütün-müşteri adaylarını nasıl alabileceğinizi öğrenin & şirketinizi ayrı olarak ayarlayın
 
