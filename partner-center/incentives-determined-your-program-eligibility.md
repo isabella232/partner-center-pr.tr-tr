@@ -8,12 +8,12 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 03/16/2021
-ms.openlocfilehash: 8b9442a99aaf1ed23242eb568859d3113a8262d4
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 82e873cc12c800b2eb96c175364bcda37dc609875aa04db0d157b45087b6f03d
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110152112"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115690825"
 ---
 # <a name="determine-your-incentives-program-eligibility"></a>Teşvikleri programınızın uygunluğunu belirleme
 

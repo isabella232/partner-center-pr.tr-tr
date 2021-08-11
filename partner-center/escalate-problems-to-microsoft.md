@@ -9,12 +9,12 @@ ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/18/2020
-ms.openlocfilehash: 276747cffb3007e5403cb8238b0540fe191e34cb
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: d86dc78deba8f16971d2c52cbbeb80478120c60bb0f35c24c60595cc9082e47b
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114840629"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115690843"
 ---
 # <a name="escalate-problems-to-microsoft-and-learn-which-issues-are-more-suited-to-microsoft-escalation"></a>Sorunları Microsoft'a yükseltme ve Microsoft yükseltme için daha uygun olan sorunları öğrenme  
 
