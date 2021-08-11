@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bd5acdd94272d9c022eb0e3a034325b2dc1d9f12
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 3588ff994882af9c613736ea191aab13b02e00d2fce0e0207d1c64e67a300446
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114845440"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115691965"
 ---
 # <a name="partner-with-microsoft-and-discover-membership-benefits"></a>Microsoft ile iş ortağı ve üyelik avantajlarını keşfet
 

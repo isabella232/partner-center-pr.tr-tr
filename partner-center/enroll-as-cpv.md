@@ -1,6 +1,6 @@
 ---
-title: Satıcı olarak Denetim Masası kaydetme
-description: CSP iş ortağı sistemlerini Denetim Masası API'lerle daha iyi tümleştire İş Ortağı Merkezi bir Satıcı (CPV) İş Ortağı Merkezi öğrenin.
+title: Denetim Masası satıcısı olarak kaydetme
+description: CSP iş ortağı sistemlerini Iş Ortağı Merkezi API 'Leriyle daha iyi tümleştirebilmeniz için Iş Ortağı Merkezi 'nde bir denetim masası satıcısı (CPV) olarak nasıl kaydolacağınızı öğrenin.
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-enroll
@@ -9,38 +9,38 @@ ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 01/15/2021
-ms.openlocfilehash: 6e31dfd73d2563bc6b41227a702690d74b7f306d
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: b8fd3627c2075a3aa63b2ac4bc9e940595e76fbd34a43fc00e8e10189b41aba3
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114845729"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115690877"
 ---
-# <a name="enroll-as-a-control-panel-vendor-to-help-integrate-csp-partner-systems-with-partner-center-apis"></a>CSP iş ortağı sistemlerini Denetim Masası API'lerle tümleştirin ve satıcı olarak İş Ortağı Merkezi olun
+# <a name="enroll-as-a-control-panel-vendor-to-help-integrate-csp-partner-systems-with-partner-center-apis"></a>CSP iş ortağı sistemlerini Iş Ortağı Merkezi API 'Leriyle tümleştirmenize yardımcı olmak için Denetim Masası satıcısı olarak kaydetme
 
 
-**Uygun roller:** Genel yönetici
+**Uygun roller**: genel yönetici
 
-Bir Denetim Masası Satıcısı (CPV), Bulut Çözümü Sağlayıcısı (CSP) iş ortakları tarafından sistemlerini İş Ortağı Merkezi API'lerle tümleştirerek kullanmaları için uygulamalar geliştiren bağımsız bir yazılım satıcısıdır. Bir Denetim Masası satıcı, İş Ortağı Merkezi panosuna veya İş Ortağı Merkezi ERIŞIMI olan bir CSP İş Ortağı Merkezi değildir.
+denetim masası satıcısı (cpv), sistemlerini iş ortağı merkezi apı 'leriyle tümleştirmelerini sağlamak üzere Bulut Çözümü Sağlayıcısı (CSP) iş ortakları tarafından kullanılmak üzere uygulamalar geliştiren bağımsız bir yazılım satıcığıdır. Bir denetim masası satıcısı, Iş Ortağı Merkezi panosuna veya Iş Ortağı Merkezi API 'Lerine doğrudan erişimli bir CSP Iş ortağı değildir.
 
-Microsoft iş ortaklarıyla çalışmak isteyen mevcut Denetim Masası Satıcısı (CPV) veya yeni bir CPV olun, Microsoft artık uygulamalarınızı kaydetmek ve iş ortaklarını desteklemek için İş Ortağı Merkezi'a kaydolmanızı Bulut Çözümü Sağlayıcısı gerektirir. Bir hesap oluşturmak için, CPV iş ortağı var olan bir CSP iş ortağı kiracısını veya mevcut CPV kiracısını kullanabilir ya da ekleme işleminin bir parçası olarak yeni bir kiracı oluşturabilir. CPV iş ortağı mevcut CSP kiracıyı kullanmayı seçerse, ayrı çok kiracılı uygulamalar oluşturmaları ve bunları CPV etkinlikleri için İş Ortağı Merkezi kaydetmeleri gerekir. Bir uygulama hem CSP hem de CPV uygulaması olarak kaydedileyemz. Uygulamanıza kaydolarak İş Ortağı Merkezi uygulamalarınızı kaydettikten sonra, uygulama API'lerine İş Ortağı Merkezi olur.  Korumalı alan hesabına ihtiyacınız varsa Microsoft Desteği isteğiyle Microsoft'a ulaşın. Zaten bir korumalı alan hesabınız varsa, bunu kullanmaya devam edersiniz. Yeni bir korumalı alana ihtiyacınız olmayacak
+microsoft iş ortaklarıyla çalışmak isteyen geçerli bir denetim masası satıcısı (cpv) veya yeni bir cpv olsun, microsoft artık uygulamalarınızı kaydetmek ve Bulut Çözümü Sağlayıcısı iş ortaklarını desteklemek için iş ortağı merkezi 'ne kaydolmanızı gerektirir. Bir hesap oluşturmak için, bir CPV iş ortağı mevcut bir CSP iş ortağı kiracısı veya mevcut bir CPV kiracısı kullanabilir ya da ekleme sürecinin bir parçası olarak yeni bir kiracı oluşturabilir. CPV iş ortağı mevcut CSP kiracısını kullanmayı seçerse, ayrı bir çok kiracılı uygulamalar oluşturmalı ve bunları CPV etkinlikleri için Iş Ortağı Merkezi 'ne kaydetmeleri gerekir. Bir uygulama hem CSP hem de CPV uygulaması olarak kaydedilemez. Iş Ortağı Merkezi 'ne kaydolduktan ve uygulamalarınızı kaydettirdikten sonra, Iş Ortağı Merkezi API 'Lerine erişebilirsiniz.  Bir sandbox hesabına ihtiyacınız varsa Microsoft Desteği isteğiyle Microsoft ile iletişim kurun. Zaten bir korumalı alan hesabınız varsa, bu hesabı kullanmaya devam edin. Yeni bir korumalı alan gerekmez
 
-Microsoft [Denetim Masası Satıcı sözleşmesini gözden geçirme](https://go.microsoft.com/fwlink/?linkid=2055198)
+[Microsoft Denetim Masası satıcı sözleşmesini](https://go.microsoft.com/fwlink/?linkid=2055198) gözden geçirin
 
 
-## <a name="working-in-partner-center"></a>İş Ortağı Merkezi'da çalışma
+## <a name="working-in-partner-center"></a>Iş Ortağı Merkezi 'nde çalışma
 
-İş Ortağı Merkezi CPV deneyimine kaydolarak CPV anlaşmasını kabul edin:
+Iş Ortağı Merkezi CPV deneyimine kaydolduktan ve CPV sözleşmesini kabul etmeniz durumunda şunları yapabilirsiniz:
 
-- Çok kiracılı uygulamaları yönetme (uygulamalarınızı Azure portal, kaydetme ve uygulama kaydını İş Ortağı Merkezi).
+- Çok kiracılı uygulamaları yönetme (Iş Ortağı Merkezi 'nde uygulamaları Azure portal, kaydetmek ve kayıt silmek için uygulama ekleme).
 
     >[!Note] 
-    >CPV'lerin api'ler İş Ortağı Merkezi için yetki almak için uygulamalarını İş Ortağı Merkezi gerekir. Uygulamalar tek başına Azure portal api'ler için CPV uygulamalarını İş Ortağı Merkezi yetkilendirmez. 
+    >Iş Ortağı Merkezi API 'Lerine yetki almak için, CPVs 'in uygulamalarını Iş Ortağı Merkezi 'ne kaydetmesi gerekir. Uygulamaları tek başına Azure portal eklemek, Iş Ortağı Merkezi API 'Leri için CPV uygulamalarına yetki vermez. 
 
-- CPV profilinizi görüntüleme ve yönetme 
+- CPV profilinizi görüntüleyin ve yönetin 
 
-- CPV özelliklerine erişmesi gereken kullanıcılarınızı görüntüleme ve yönetme. CPV'nin sahip olduğu tek rol genel yöneticidir.
+- CPV özelliklerine erişmesi gereken kullanıcılarınızı görüntüleyin ve yönetin. Genel yönetici, bir CPV 'nin sahip olduğu tek roldür.
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
--[Hesap hesabınıza başka kiracılar İş Ortağı Merkezi ekleme](multi-tenant-account.md)
+-[Iş Ortağı Merkezi hesabınıza ek kiracılar ekleyin](multi-tenant-account.md)

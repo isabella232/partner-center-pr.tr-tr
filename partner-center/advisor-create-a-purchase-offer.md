@@ -9,12 +9,12 @@ author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ab85a6cb11a49f48362299c27bd110ec0cf54cb5
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: c53f9be767c1c55adc4ee177f9aa629ec7a638ced8f74d5e4105ad9d7145813e
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114839371"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115685250"
 ---
 # <a name="advisors-create-a-purchase-offer"></a>Danışmanlar: Satın alma teklifi oluşturma
 

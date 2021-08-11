@@ -7,12 +7,12 @@ ms.subservice: partnercenter-payouts
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 02/09/2021
-ms.openlocfilehash: 6a069db0334b13309e39e08bcc7b70f22eaa5c69
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: ef6520ff6ed4439e975dddaeff0b89ea2a912678c3871f1fc14bfb3cbe6bbff2
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114842822"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115691547"
 ---
 # <a name="how-tax-policies-affect-payout-for-azure-marketplace"></a>Azure Marketi için vergi ilkelerinin ödeme nasıl etkilediği
 

@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 05/21/2021
-ms.openlocfilehash: 31689ef78520835fd31d976e340280302972c4ce
-ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
+ms.openlocfilehash: 379d1d1124f46e3dd8f3f9f3ad957bd06e6c390c22d2af4d1fe8a41d544380be
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/04/2021
-ms.locfileid: "115102018"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115684825"
 ---
 # <a name="april-2020-announcements"></a>Nisan 2020 duyuruları
 
@@ -236,7 +236,7 @@ Düzeltmelere erişmek için şu adımları izleyin:
 - 3. Adım: Seçin, "Çözümleri Gözden Geçir" seçeneğine tıklayın
 - 4. Adım: Ihtiyacınız olan düzeltmeye tıklayın
 
-Alternatif olarak, iş ortağı merkezinde oturum açma ve bu [URL'ye gidin.](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?stage=2&topicid=0570a74b-e021-7aa6-9a81-d0fe505b8df5)
+Alternatif olarak, oturum İş Ortağı Merkezi ve bu [URL'ye gidin.](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?stage=2&topicid=0570a74b-e021-7aa6-9a81-d0fe505b8df5)
 
 ### <a name="additional-resources"></a>Ek kaynaklar
 
@@ -479,131 +479,131 @@ Bulut Çözümü Sağlayıcısı (CSP) programında işlem yapılan tüm iş ort
 
 ### <a name="details"></a>Ayrıntılar
 
-Dünyanın her yerlerinden insanlar ve ekipler uzaktan çalışma düzenlemelerini benimser. İş ortakları hızlı bir şekilde müşterilerini desteklemek için ayarlamalar yapmakta ve biz de ayarlamaları yapmak için çalışıyoruz.
+Dünyanın her yerlerinden insanlar ve ekipler uzaktan çalışma düzenlemelerini benimser. İş ortakları, müşterileri desteklemek için hızlı bir şekilde ayarlanıyor ve aynı şekilde ayarlanıyor.
 
-CsP'de, iş ortağının uzak ve akıllı çalışma için artan ihtiyaçlarına yanıtını desteklemek üzere özel olarak oluşturulmuş yeni bir Office 365 E1 Deneme Sürümü'ne duyurmaktan heyecanlanıyoruz. Bu deneme teklifi 1 Nisan 2020'den sonraki bir bildirime kadar kullanılabilir.
+CSP 'de yeni bir Office 365 E1 denemeyi duyurmaktan mutluluk duyuyoruz ve özellikle de, uzak ve akıllı çalışma için gelişen gereksinimlere iş ortağı yanıtını destekleyecek şekilde oluşturulmuştur. Bu deneme teklifi, 1 Nisan 2020 ' den daha fazla bildirimde bulununcaya kadar sunulmaktadır.
 
-CSP Office 365 E1 Deneme Sürümü, geçerli Microsoft Teams CSP Deneme sürümüne ek olarak kullanılabilir (depolama alanı Exchange 2 GB depolama alanına sahiptir). Yeni deneme sürümü, Office 365 E1 işlevine sahip olacak ve 3.000 adede kadar kullanıcı için altı ay boyunca ücretsiz kullanım sağlayacak. CSP aracılığıyla kullanılabilen bu teklif, iş ortaklarının deneme deneyimini başlatmalarına ve yönetmelerini sağlar.
+csp Office 365 E1 deneme sürümü, geçerli Microsoft Teams CSP denemesine (Exchange ve 2 GB depolama alanı olmayan) ek olarak artık kullanılabilir. yeni deneme sürümü Office 365 E1 denemeye eşdeğer işlevlere sahip olacaktır ve en fazla 3.000 kullanıcı için altı aylık ücretsiz kullanım sağlar. CSP aracılığıyla kullanılabilen bu teklif, iş ortaklarının deneme deneyimini başlatmasına ve yönetmesine olanak tanır.
 
 ### <a name="offer-id"></a>Teklif Kimliği
 
-- Görünen ad: Office 365 E1 Deneme Sürümü
-- Deneme teklifi kimliği: c0c1386f-4a95-466b-8974-cefd71414def
+- görünen ad: Office 365 E1 deneme sürümü
+- Deneme teklif KIMLIĞI: c0c1386f-4A95-466b-8974-cefd71414def
 
-Bu teklif, 1 Nisan 2020'den itibaren üretim fiyatı listesinde hemen satın alınarak kullanılabilir yapıldı.
+Bu teklif, 1 Nisan 2020 ' den üretim fiyatı listesinde satın alınması için hemen kullanılabilir hale getirilir.
 
 ### <a name="next-steps"></a>Sonraki adımlar
 
-- [CSP deneme sürümü SSS Office 365 E1 gözden geçirin](https://aka.ms/CSPE1OfferFAQ)
-- [Denemeler ve teklifler Microsoft Teams daha fazla bilgi](https://www.microsoft.com/microsoft-365/partners/resources/teams-offers-and-trials-comparison)
-- [İş ortakları için en son uzak çalışma kılavuzlarını keşfedin](https://aka.ms/partnerremotework)
-- [İş ortakları için ek deneme varlıklarına göz at](https://aka.ms/E1TrialPartnerBOM)
+- [CSP Office 365 E1 deneme hakkında sss 'yi gözden geçirin](https://aka.ms/CSPE1OfferFAQ)
+- [Microsoft Teams denemeleri ve teklifleri hakkında daha fazla bilgi edinin](https://www.microsoft.com/microsoft-365/partners/resources/teams-offers-and-trials-comparison)
+- [İş ortakları için en son uzak iş kılavuzunu keşfet](https://aka.ms/partnerremotework)
+- [İş ortakları için ek deneme varlıklarına göz atın](https://aka.ms/E1TrialPartnerBOM)
 
-Önümüzdeki [İş Ortağı Merkezi](https://partner.microsoft.com/resources/collection/O365E1-trial-now-available-CSP-partners#/) daha fazla rehberlik yayımlay edeceğimiz için iş ortağı kaynaklarını ve iş ortağı kaynaklarını düzenli olarak kontrol edin.
+Önümüzdeki hafta daha fazla rehberlik yayımladığımızda [Iş ortağı merkezini](https://partner.microsoft.com/resources/collection/O365E1-trial-now-available-CSP-partners#/) ve iş ortağı kaynaklarını düzenli olarak denetleyin.
 
 ### <a name="questions"></a>Sorularınız mı var?
 
-Bu teklifler hakkında sorularınız varsa, ilgili topluluklar için Yammer kontrol edin. Diğer sorunlar için Destek'e İş Ortağı Merkezi gönderin.
+bu tekliflerle ilgili sorularınız varsa ilgili Yammer topluluklarınızı kontrol edin. Diğer sorunlar için Iş ortağı merkezi desteği ' ne bir bilet gönderebilirsiniz.
 
 _________________
 
-## <a name="dynamics-365---new-products-released"></a><a id="4"/></a>Dynamics 365 - Yeni ürünler yayınlandı
+## <a name="dynamics-365---new-products-released"></a><a id="4"/></a>Dynamics 365-yayınlanan yeni ürünler
 
 ### <a name="categories"></a>Kategoriler
 
 - Tarih: 2020-04-06
-- Tür: Teklifler/Pazarlar
-- Durum: Artık Kullanılabilir
+- Tür: teklifler/pazarlar
+- Durum: şimdi kullanılabilir
 - [Daha fazla bilgi edinin](https://partner.microsoft.com/resources/collection/partner-security-requirements#/)
 
 ### <a name="summary"></a>Özet
 
-Microsoft, 1 Nisan 2020'de ek Dynamics 365 ürünleri yayımlamıştı. Dynamics 365 için ek yeni teklifler 1 Mayıs 2020'de yayım gelecektir.
-Etkilene hedef kitle
+Microsoft, 1 Nisan 2020 ' de ek Dynamics 365 ürünleri yayımlamıştır. Dynamics 365 için ek yeni teklifler 1 Mayıs 2020 ' de kullanıma sunulacaktır.
+Etkilenen hedef kitle
 
-Bulut Çözümü Sağlayıcısı (CSP) programı aracılığıyla Dynamics 365'i sunan iş ortakları. Aksi belirtilmedikçe, bu güncelleştirmeler dünya genelindeki tüm konumlar ile ilgilidir.
+Bulut Çözümü Sağlayıcısı (CSP) programı aracılığıyla Dynamics 365 sunarak iş ortakları. Bu güncelleştirmeler, aksi belirtilmediği takdirde dünya çapındaki tüm konumlarla ilgilidir.
 
 ### <a name="details"></a>Ayrıntılar
 
-Microsoft, 1 Nisan 2020'de Dynamics Business Central Online ve Dynamics Biz Apps ve Power Platforms için yeni ürünler yayımlamıştır. Dynamics 365 için ek yeni teklifler 1 Mayıs 2020'de yayım gelecektir.
+Microsoft, 1 Nisan 2020 ' de Dynamics Business Central online ve Dynamics biz uygulamaları ve güç platformları için yeni ürünler yayımlamıştır. Dynamics 365 için ek yeni teklifler 1 Mayıs 2020 ' de kullanıma sunulacaktır.
 
-### <a name="dynamics-business-central-online-offers"></a>Dynamics Business Central Online Teklifleri
-1 Nisan 2020'de Dynamics Business Central Online tekliflerine aşağıdaki değişiklikler yapıldı.
+### <a name="dynamics-business-central-online-offers"></a>Dynamics Iş Merkezi çevrimiçi teklifleri
+1 Nisan 2020 ' de, Dynamics Iş Merkezi çevrimiçi tekliflerle ilgili olarak aşağıdaki değişiklikler yapılmıştır.
 
-- CSP'de Business Central için yeni Dynamics Business teklifleri
-- SKUS Pro Müşteri Hizmetleri Pro Güncelleştirme
+- CSP 'de Iş Merkezi için yeni Dynamics Business teklifleri
+- satış Pro ve müşteri hizmetini güncelleştirme Pro sku 'ları ekle
 
-### <a name="dynamics-biz-apps-and-power-platform-products"></a>Dynamics Biz Apps ve Power Platform Ürünleri
+### <a name="dynamics-biz-apps-and-power-platform-products"></a>Dynamics biz uygulamaları ve güç platformu ürünleri
 
-1 Nisan 2020'de Dynamics Biz Apps ve Power Platform değişiklikler yapıldı.
+1 Nisan 2020 ' de, Dynamics biz uygulamalarında ve Power platform ürünlerinde aşağıdaki değişiklikler yapılmıştır.
 
-- Birinci taraf Robotik Süreç Otomasyonu (RPA) teklifleri
+- Birinci taraf robot Işlem Otomasyonu (RPA) teklifleri
 - RPA teklifleri için yeni BOT ürünü
 
-Dynamics CSP Offer Updates-Mar 2020 dosyasındaki belirli değişikliklere buradan [bakın.](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)
+Dynamics CSP teklifi Updates-Mar 2020 dosyasındaki belirli değişikliklere [bakın.](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)
 
-### <a name="robotic-process-automation"></a>Robotik Süreç Otomasyonu
+### <a name="robotic-process-automation"></a>Robot Işlem Otomasyonu
 
-1 Mayıs 2020'de Microsoft, yeni RPA tekliflerinin kullanılabilirliğini Eğitim programlarına genişletecek.
-CSP'de Yetkili Eğitim İş Ortağı Programı'nın değişiklikleri hakkında daha fazla bilgi edinmek için buraya [tıklayın.](https://partner.microsoft.com/resources/collection/csp-aer-partner-qualification-retirement#/) Bu, İş Ortağı Merkezi) üzerinde var olan bir koleksiyonun bağlantısıdır.
+Microsoft, 1 Mayıs 2020 ' de yeni RPA tekliflerinin eğitim programlarına uygunluğunu genişletiyor.
+CSP 'de yetkili eğitim Iş ortağı programındaki değişiklikler hakkında daha fazla bilgi edinmek için [buraya](https://partner.microsoft.com/resources/collection/csp-aer-partner-qualification-retirement#/)tıklayın. Bu, Iş Ortağı Merkezi 'nde var olan bir koleksiyonun bağlantıdır.
 
-Yeni SKU **bilgileri için ilgili indirme bölümünde Updates-May Dynamics CSP Offer Updates-May 2020** [](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/) dosyasını gözden geçirebilirsiniz.
+Yeni SKU bilgileri için ilgili indirme bölümündeki ekli **DYNAMICS CSP teklifi Updates-May 2020 dosyasını** [burada](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/) gözden geçirin.
 
-### <a name="ecommerce-changes"></a>e-ticaret değişiklikleri
+### <a name="ecommerce-changes"></a>Eticaret değişiklikleri
 
-1 Nisan 2020'den itibaren geçerli olan e-ticaret tekliflerini, son fiyat sayfalarında görünen ad ve/veya PFAM değişiklikleri vardır. Değişiklikler aşağıdaki tabloda özetlenmiştir.
+1 Nisan 2020 ' den itibaren geçerli olan eCommerce, son fiyat sayfalarında görünen ad ve/veya PFAD değişiklikleri sunar. Değişiklikler aşağıdaki tabloda özetlenmiştir.
 
-|**Görünen Ad ve/veya PFAM Değişikliği**|**1 Mart 2020**|**1 Nisan 2020**|
+|**Görünen ad ve/veya PFAD değişikliği**|**1 Mart 2020**|**1 Nisan 2020**|
 |-------------------|:------|:-----|
-|Görünen Ad|e-Ticaret Derecelendirmeleri ve İncelemeleri|Ticari Derecelendirme ve İncelemeler|
-|Görünen Ad|e-ticaret Öneriler|Ticari Öneriler|
-|Görüntüleme ve PFAM|Dynamics 365 Commerce Cloud Scale Unit Basic|Dynamics 365 Ticari Ölçek Birimi Temel – Bulut|
-|Görüntüleme ve PFAM|Dynamics 365 Commerce Cloud Scale Unit Standard|Dynamics 365 Ticari Ölçek Birimi Temel - Bulut|
-|Görüntüleme ve PFAM|Dynamics 365 Commerce Cloud Scale Unit Premium|Dynamics 365 Ticari Ölçek Birimi Premium - Bulut|
+|Görünen Ad|Eticaret derecelendirmeleri ve Incelemeleri|Ticari derecelendirmeler ve Incelemeler|
+|Görünen Ad|eticaret Öneriler|ticari Öneriler|
+|Görüntüleme ve PFAI|Dynamics 365 ticari bulut ölçek birimi temel|Dynamics 365 ticaret ölçek birimi temel – bulut|
+|Görüntüleme ve PFAI|Dynamics 365 ticari bulut ölçek birimi standardı|Dynamics 365 ticari ölçek birimi temel-bulut|
+|Görüntüleme ve PFAI|Dynamics 365 ticari bulut ölçek birimi Premium|Dynamics 365 ticari ölçek birimi Premium-bulut|
 
 ### <a name="additional-resources"></a>Ek kaynaklar
 
-- [Dynamics 365 Giriş Sayfası](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)
-- [Karma Gerçeklik Uygulamaları Kılavuzu Giriş Sayfası](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)
-- [Biz Apps Sahtekarlık Giriş Sayfası](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)
-- [FY20 PowerApps ve Flow Lisans güncelleştirmeleri](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)
-- [Microsoft Dynamics 365 Lisanslama](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)
-- [Dynamics 365 ve Power Platforms-Kullanılabilirlik, veri konumu, dil ve yerelleştirme içeriği](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)
-- [FY20 What's New Webinar Series](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)
-- [FY20 Technical Readiness Webinar Series](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)
-- [Robotik Süreç Otomasyonu (RPA)](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)
+- [Dynamics 365 ana sayfası](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)
+- [Karma Gerçeklik uygulamalar Kılavuzu giriş sayfası](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)
+- [Biz uygulama dolandırıcılığı ana sayfası](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)
+- [FY20 powerapps ve Flow lisanslama güncelleştirmeleri](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)
+- [Microsoft Dynamics 365 lisansı](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)
+- [Dynamics 365 ve güç platformları-kullanılabilirlik, veri konumu, dil ve yerelleştirme içeriği](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)
+- [FY20 yenilikler Web semineri serisi](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)
+- [FY20 Teknik Hazırlık Web semineri serisi](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)
+- [Robot Işlem Otomasyonu (RPA)](https://partner.microsoft.com/resources/collection/Microsoft-Dynamics-365-product-releases-for-November-and-December-2019#/)
 
 ### <a name="next-steps"></a>Sonraki adımlar
 
-Bu bilgileri, kuruluşta uygun kişiler ile paylaşın. Lisans güncelleştirmeleri ve değer teklifi hakkında daha fazla bilgi için "Ek kaynaklar" bölümünde ve PartnerSource'ta hazır olma içeriğimizi okuyun.
+Bu bilgileri kuruluşunuzdaki uygun kişilerle paylaşabilirsiniz. Lisanslama güncelleştirmeleri ve değer teklifi hakkında daha fazla bilgi için, "ek kaynaklar" bölümünde ve iş ortağı kaynağında hazır olma içeriğimizi öğrenmeye çalışın.
 
 ### <a name="questions"></a>Sorularınız mı var?
 
-Microsoft ile operasyonlarınızı tamamen ilgili yardım için de destek [ile iletişime geçin.](https://partner.microsoft.com/pcv/servicerequests/create)
+Microsoft ile işlemlerinizin tamamen ilişkili olduğu konusunda yardım için [desteğe başvurun](https://partner.microsoft.com/pcv/servicerequests/create).
 
 _________________
 
-## <a name="now-available---operations-readiness-resources-in-one-place"></a><a id="3"/></a>Kullanılabilir - Operasyon hazırlığı kaynakları tek bir yerde
+## <a name="now-available---operations-readiness-resources-in-one-place"></a><a id="3"/></a>Artık kullanılabilir-Işlem hazırlık kaynakları tek bir yerde
 
 ### <a name="categories"></a>Kategoriler
 
 - Tarih: 2020-04-03
-- Tür: Özellikler
-- Durum: Artık Kullanılabilir
+- Tür: yetenekler
+- Durum: şimdi kullanılabilir
 - [Daha fazla bilgi edinin](https://partner.microsoft.com/resources/collection/readiness-in-one-place#/)
 
-### <a name="impacted-audience"></a>Etkilene hedef kitle
+### <a name="impacted-audience"></a>Etkilenen hedef kitle
 - Tüm CSP iş ortakları
 
 ### <a name="summary"></a>Özet
 
-Operasyon [hazırlığı kaynak](https://partner.microsoft.com/resources#/) konumu artık canlıdır ve iş ortaklarına operasyon hazırlığı kaynakları için tek bir konum sağlayarak tüm Microsoft kanallarında ve programlarında en son güncelleştirmeleri ve önemli operasyonel hazır olma kaynaklarını bulmayı hiç olmadığı kadar kolay hale getirir. CSP Programı Güncelleştirmeleri Kaynak galerisi ve Microsoft Hazır Olma içeriği İşlemler Hazırlığı kaynak konumuna taşındı ve CSP Programı Güncelleştirme Kaynak Galerisi'ne ( ) işaret alan URL İşlem hazırlığı kaynak konumunu işaret etmek için [https://partner.microsoft.com/resources#/](https://partner.microsoft.com/resources#/) güncelleştirildi.
+[Işlem hazırlığı kaynak konumu](https://partner.microsoft.com/resources#/) artık canlı olduğundan, işlemler için tek bir konuma sahip iş ortakları sağlar ve tüm Microsoft kanalları ve programları genelinde en son güncelleştirmeler ve temel işlem hazırlık kaynaklarını bulmayı her zamankinden daha kolay hale getirir. CSP programı güncelleştirme kaynak Galerisi ve Microsoft hazırlık içeriği, Işlem hazırlık kaynağı konumuna taşındı ve CSP program güncelleştirme kaynak galerisine () işaret eden URL, [https://partner.microsoft.com/resources#/](https://partner.microsoft.com/resources#/) Işlem hazırlığı kaynak konumunu işaret etmek üzere güncelleştirildi.
 
-Bu yeni deneyim ve önümüzdeki birkaç hafta içinde gelişmeye devam edecek bazı alanlar hakkında daha fazla bilgi için buradaki güncelleştirilmiş [SSS](https://assetsprod.microsoft.com/mpn/readiness-in-one-place-partner-login-faq.pdf) bölümünü gözden geçirin.
+Bu yeni deneyim hakkında daha fazla bilgi ve önümüzdeki birkaç hafta içinde gelişmeye devam edecek bazı alanlarla ilgili daha fazla ayrıntı için buradaki [GÜNCELLEŞTIRILMIŞ SSS](https://assetsprod.microsoft.com/mpn/readiness-in-one-place-partner-login-faq.pdf) 'yi gözden geçirin.
 
-**Geri bildiriminiz bizim için önemlidir!** Yeni operasyon hazırlığı konumunu kullana olarak, deneyiminizi geliştirmeye devam etmek için sizi geri bildirim bırakmanız için davet ediyoruz. Bu sayfa yararlı oldu **mu? Evet | Her** sayfanın alt kısmında geri bildirim aracı yok.
+**Görüşleriniz bizim için önemlidir!** Yeni Işlem hazırlığı konumunu kullanırken, deneyiminizi iyileştirmeye devam edebilmemiz için sizi geri bildirimde bulunmamaya davet ediyoruz. Bu **sayfa yardımcı oldu mu? ile bunu yapabilirsiniz. Evet |** Her sayfanın en altında yer aldığı geri bildirim aracı yok.
 
-Microsoft, tüm Microsoft programlarında iletişim kurma ve hazırlık malzemeleri sağlama yollarımız için akış sağlar. ' De Microsoft iş ortağı web sitesinde [https://partner.microsoft.com](https://partner.microsoft.com) varlıkları, [CSP program güncelleştirmeleri kaynak Galerisi](https://partner.microsoft.com/resources#/) ve [Microsoft hazırlık sitesi](https://www.microsoftreadiness.com/)' nden birleştiren bir işlem hazırlığı kaynak konumu tanıtıyoruz.
+Microsoft, ilettiğimiz ve tüm Microsoft programlarında hazırlık malzemeleri sağlama yöntemini kolaylaştırmış. ' De Microsoft iş ortağı web sitesinde [https://partner.microsoft.com](https://partner.microsoft.com) varlıkları, [CSP program güncelleştirmeleri kaynak Galerisi](https://partner.microsoft.com/resources#/) ve [Microsoft hazırlık sitesi](https://www.microsoftreadiness.com/)' nden birleştiren bir işlem hazırlığı kaynak konumu tanıtıyoruz.
 
 İşlem hazırlık kaynakları için tek bir konum ile, iş ortaklarının tüm Microsoft kanalları ve programları genelinde en son güncelleştirmeleri, kritik duyuruları ve önemli işlem hazırlık kaynaklarını bulması her zamankinden daha kolay olacaktır. Çoklu oturum açma deneyimi ve gelişmiş arama, filtre ve sıralama özellikleri iş ortakları, işletmelerini kolayca erişebilir, kullanabilir ve Microsoft ile BT için çalışan bir şekilde iş gerçekleştirebilir.
 
@@ -742,45 +742,45 @@ _________________
 ### <a name="impacted-audience"></a>Etkilenen hedef kitle
 Tüm CSP iş ortakları.
 
-**1 Nisan 2020 Güncelleştirmesi** 31 Ocak 2020'den itibaren, Bulut Çözümü Sağlayıcısı (CSP) Programı'nın tüm iş ortaklarının, işlem yapılan tüm CSP kiracıları için sözleşmeyi kabul etmiş olması gerekir. Daha önce sözleşmenin bir sonraki uygulama aşamasının Nisan 2020'de başlayacağını iletmiştik.İş kesintilerini önlemeye yardımcı olmak için bir sonraki uygulama aşamasını Nisan 2020'ye kadar uzatmaya karar verdik. Bulut Çözümü Sağlayıcısı İş Ortaklarımızdan MPA'yı kabul etme sorunlarıyla ilgili geri bildirim aldık. Bu koşulları temel alarak, anlaşmayı kabul etme konusunda sorun yaşıyor olan iş ortaklarını desteklemek için Microsoft kaynaklarının yerinde olmasını sağlamaya çalışıyoruz.
+**1 nisan 2020 güncelleştirmesi** 31 ocak 2020 itibariyle, Bulut Çözümü Sağlayıcısı (CSP) programınızdaki tüm iş ortakları, tüm deneyimidir CSP kiracılarının sözleşmesini kabul etmiş olmalıdır. Daha önce, sözleşmenin sonraki aşamasının 2020 Nisan 'da başlayacağından emin veriyoruz.İş kesintilerini önlemeye yardımcı olmak için, uygulamanın sonraki aşamasını 2020 Nisan 'dan daha fazla genişletmeye karar verdik. Bulut Çözümü Sağlayıcısı iş ortaklarımızdan MPA 'yı kabul etmeyle ilgili sorunlar yaşandıkları hakkında geri bildirim aldık. Bu koşullara bağlı olarak, sözleşmeyi kabul etmede sorun yaşayan iş ortaklarını desteklemek için Microsoft kaynaklarının yerinde olduğundan emin olmaya çalışıyoruz.
 
 ### <a name="summary"></a>Özet
 31 Ocak 2020 itibarıyla Dolaylı Satıcılar dahil olmak üzere Bulut Çözümü Sağlayıcısı programına katılmış olan tüm iş ortaklarının, CSP programında yeni müşteri oluşturma veya var olan müşteriler için yeni sipariş ekleme konusunda sorun yaşamamaları adına Microsoft İş Ortağı Sözleşmesi'ni kabul etmiş olmaları gerekir. Microsoft İş Ortağı Sözleşmesi'nin CSP programındaki tüm iş ortakları tarafından kabul edilmesi zorunludur.
 
-Nisan 2020'den başlayarak:
-- Bu teklifi kabul etmeyen Doğrudan Fatura iş ortakları Microsoft İş Ortağı Sözleşmesi Dolaylı Sağlayıcılar yeni siparişler verilemeyecek ve yalnızca mevcut abonelikleri yönetmekle sınırlı olacaktır.
-- Bu teklifi kabul etmeyen dolaylı Microsoft İş Ortağı Sözleşmesi artık yeni siparişlerde kayıt ortağı olarak hareket etmeye uygun olmayacaktır.
+Nisan 2020 ' den itibaren:
+- Microsoft Iş ortağı sözleşmesi 'Ni kabul edilmeyen doğrudan fatura ortakları ve dolaylı sağlayıcılar, yeni siparişler yerleştirmeyecektir ve yalnızca mevcut abonelikler yönetilüyle sınırlı olacaktır.
+- Microsoft Iş ortağı sözleşmesi 'Ni kabul edilmeyen dolaylı satıcılar artık yeni siparişlerdeki kayıt ortağı olarak hareket etmek için uygun olmayacaktır.
 
-**Henüz tamamlamadıysanız aşağıdaki eylemleri hemen gerçekleştirin.**
+**Daha önce yapmadıysanız, aşağıdaki eylemleri hemen doldurun.**
 
-### <a name="actions-for-direct-bill-partners"></a>Doğrudan fatura iş ortakları için eylemler:
-1. Değerlendirmeyi gözden geçirmeleri için, kuruluşta önemli proje katılımcılarını Microsoft İş Ortağı Sözleşmesi.
+### <a name="actions-for-direct-bill-partners"></a>Doğrudan fatura ortakları için Eylemler:
+1. Microsoft Iş ortağı Sözleşmesi ' ni gözden geçirmek için kuruluşunuzdaki önemli hissedarları bilgilendirin.
 2. Genel Yönetici kimlik bilgilerini kullanarak [İş Ortağı Merkezi'ndeki CSP Genel Bakış sayfasında](https://partner.microsoft.com/pcv/dashboard/overview) Microsoft İş Ortağı Sözleşmesi'ni kabul edin.
 
-Daha fazla bilgi ve kaynaklara buradan CSP Galerisi sayfasından [ulaşabilirsiniz.](https://partner.microsoft.com/resources/collection/new-microsoft-cloud-agreement-csp#/)
+Daha fazla bilgi ve kaynak, CSP Galerisi sayfası aracılığıyla [burada](https://partner.microsoft.com/resources/collection/new-microsoft-cloud-agreement-csp#/)bulunabilir.
 
-### <a name="actions-for-indirect-providers"></a>Dolaylı sağlayıcılar için eylemler
-1. Değerlendirmeyi gözden geçirmeleri için, kuruluşta önemli proje katılımcılarını Microsoft İş Ortağı Sözleşmesi.
+### <a name="actions-for-indirect-providers"></a>Dolaylı sağlayıcılar için Eylemler
+1. Microsoft Iş ortağı Sözleşmesi ' ni gözden geçirmek için kuruluşunuzdaki önemli hissedarları bilgilendirin.
 2. Genel Yönetici kimlik bilgilerini kullanarak [İş Ortağı Merkezi'ndeki CSP Genel Bakış sayfasında](https://partner.microsoft.com/pcv/dashboard/overview) Microsoft İş Ortağı Sözleşmesi'ni kabul edin.
-3. Dolaylı kurumsal [bayinin imzalama durumunu doğrulamak için API'yi kullanın.](/partner-center/develop/verify-indirect-reseller-mpa-status)
-4. Dolaylı kurumsal bayilerinizi aşağıdaki eylemleri tamamlama konusunda yardımcı olur.
+3. [Dolaylı Bayi imza durumunuzu doğrulamak Için API 'yi](/partner-center/develop/verify-indirect-reseller-mpa-status)kullanın.
+4. Aşağıdaki eylemleri tamamlamada dolaylı satıcılarınıza yardımcı olun.
 
-Daha fazla bilgi ve kaynaklara buradan CSP Galerisi sayfasından [ulaşabilirsiniz.](https://partner.microsoft.com/resources/collection/new-microsoft-cloud-agreement-csp#/)
+Daha fazla bilgi ve kaynak, CSP Galerisi sayfası aracılığıyla [burada](https://partner.microsoft.com/resources/collection/new-microsoft-cloud-agreement-csp#/)bulunabilir.
 
-Dolaylı Sağlayıcıların işlem zorlama özelliklerini test etmesinde karşılaşılan teknik sorunların farkındayız. Bu sorunlar Nisan 2020'ye kadar çözülecek.
+İşlem zorlama yeteneklerini test eden dolaylı sağlayıcılar tarafından karşılaşılan teknik sorunlardan haberdar veriyoruz. Bu sorunlar Nisan, 2020 ile çözümlenir.
 
-### <a name="actions-for-indirect-resellers"></a>Dolaylı kurumsal bayiler için eylemler
-1. [Dolaylı İş Ortağı Merkezi](https://partner.microsoft.com/resources/collection/indirect-reseller-onboarding-for-mpa-in-csp#/) kurumsal bayi olarak Microsoft İş Ortağı Sözleşmesi ekleme işleminin bir parçası olarak kabul edin.
-2. Daha önce İş Ortağı Merkezi kurumsal bayi olarak Microsoft İş Ortağı Sözleşmesi Genel Yönetici kimlik bilgilerini kullanarak [İş Ortağı Merkezi](https://partner.microsoft.com/pcv/dashboard/overview) panosu sayfasındaki bilgileri kabul edin.
-Dolaylı kurumsal bayiye özgü bilgiler ve kaynaklar, buradaki kurumsal bayi CSP Galerisi [sayfasından edinebilirsiniz.](https://partner.microsoft.com/resources/collection/indirect-reseller-onboarding-for-mpa-in-csp#/)
+### <a name="actions-for-indirect-resellers"></a>Dolaylı satıcıların eylemleri
+1. Dolaylı bir satıcı olarak [Iş Ortağı Merkezi 'ne](https://partner.microsoft.com/resources/collection/indirect-reseller-onboarding-for-mpa-in-csp#/) dahil edin ve ekleme sürecinin bir parçası olarak Microsoft Iş ortağı sözleşmesi 'ni kabul edin.
+2. Daha önce dolaylı bir satıcı olarak Iş Ortağı Merkezi eklendi, genel yönetici kimlik bilgilerini kullanarak [iş ortağı merkezi Pano](https://partner.microsoft.com/pcv/dashboard/overview) sayfasında Microsoft Iş ortağı sözleşmesi 'ni kabul edin.
+Dolaylı satıcıya özgü bilgilere ve kaynaklara [buradaki](https://partner.microsoft.com/resources/collection/indirect-reseller-onboarding-for-mpa-in-csp#/)satıcı CSP Galerisi sayfası üzerinden ulaşabilirsiniz.
 
 ### <a name="change-log"></a>Değişiklik günlüğü
 
-- 14 Ocak 2020: Özgün duyuru yayımlandı.
-- 24 Ocak 2020: WebInar Series davetleri 27 Ocak 2020'ye kadar güncelleştirildi.
-- 31 Ocak 2020: WebInar Series davetleri Şubat 2020 için güncelleştirildi.
-- 5 Şubat 2020: Microsoft İş Ortağı Sözleşmesi kabul etmek gerekiyor.
-- 4 Mart 2020: WebInar Series davetleri Mart 2020 için güncelleştirildi.
-- 1 Nisan 2020: ** Güncelleştirme** - İş kesintilerini önlemeye yardımcı olmak için, uygulamanın sonraki aşamasını Nisan 2020'ye kadar uzatmaya karar verdik.
+- 14 Ocak 2020: özgün duyuru yayımlandı.
+- 24 Ocak 2020: Web semineri serisi davetleri, w/c 27 için 2020 tarihinde güncelleştirildi.
+- 31 Ocak 2020: Web semineri serisi davetleri, Şubat 2020 ' de güncelleştirildi.
+- 5 Şubat 2020: Microsoft Iş ortağı sözleşmesi kabulü artık gereklidir.
+- 4 Mart 2020: Web semineri serisi davetleri 2020 Mart için güncelleştirildi.
+- 1 Nisan 2020: * * güncelleştirme * *-iş kesintilerini önlemeye yardımcı olmak Için, uygulamanın sonraki aşamasını 2020 Nisan 'dan daha fazla genişletmeye karar verdik.
 
 _________________

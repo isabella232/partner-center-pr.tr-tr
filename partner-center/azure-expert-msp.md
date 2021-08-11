@@ -4,29 +4,29 @@ ms.topic: article
 ms.date: 07/10/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-enroll
-description: Azure Expert Managed Services sağlayıcısı programının diğer iş ortaklarından kullanıma hazır olması ve başvuru altyapısında en iyi önceliğe sahip olması için nasıl uygulanacağını öğrenin.
+description: Referans altyapısında diğer iş ortaklarından Azure Uzman Yönetilen Hizmetler Sağlayıcısı ve en yüksek önceliğe sahip olmak için Azure Uzman Yönetilen Hizmetler Sağlayıcısı programına nasıl başvurabilirsiniz?
 author: mowree
 ms.author: mowrim
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 7246b2c56af25386cc81faf7c2fccdfda8d6905a
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: d19000e9aa006c619bb7c5923155f6b832d9b283c0d8df41b82f8a02aeb3ba6c
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114838419"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115691370"
 ---
 # <a name="azure-expert-managed-services-provider-program"></a>Azure Uzman Yönetilen Hizmetler Sağlayıcısı programı
 
-**Uygun roller**: Hesap Yöneticisi | İş profili Yöneticisi | Genel yönetici | MPN iş ortağı Yöneticisi
+**Uygun roller:** Hesap yöneticisi | İş profili yönetici | Genel yönetici | MPN iş ortağı yöneticisi
 
-Şirketiniz Azure hizmetlerini satıyor ve bu müşterilere yönetirken bir süper yıldız ise, Azure Expert Managed Services sağlayıcı programına uygulama konusuna bakın. Azure Expert MSP iş ortakları, diğer Microsoft iş ortaklarının sunduğu özel bir rozet elde edebilir ve başvuru altyapısında en iyi önceliğe sahip olun. Bunlar ortak satış görevlendirmeleri için önceliklendirilir, yeni uygulamalar geliştirirken destek alırlar ve özel olaylara katılabilirler.
+Azure hizmetlerini müşterilere satmayı ve yönetmeyi çok iyi yapan bir şirketse, azure Azure Uzman Yönetilen Hizmetler Sağlayıcısı göz atabilirsiniz. Azure Uzman MSP iş ortakları, diğer Microsoft iş ortaklarından farklı olan özel bir rozet kazanır ve referans altyapısında en yüksek önceliğe sahip olur. Ortak satış etkileşimleri için öncelikleri vardır, yeni uygulamalar geliştirerek destek alırlar ve özel etkinliklere katılıp katılmalarını sağlarlar.
 
-Azure MSP 'ye uygulama işlemine başlamak için, sol gezinti bölmesinde. **Uzmanlıklar ve programlar** ' ı seçin ve ardından **Azure Expert msp**' yi seçin. [Önkoşullar ve uygulama işlemi](https://partner.microsoft.com/membership/azure-expert-msp)hakkında daha fazla bilgi edinin. 
+Sol gezinti çubuğundan Azure MSP'ye uygulama işlemini başlamak için. Yetkinlikler **ve programlar'ı ve** ardından **Azure Uzman MSP.** Önkoşullar [ve uygulama süreci hakkında daha fazla bilgi.](https://partner.microsoft.com/membership/azure-expert-msp) 
 
-Henüz nitelendirmezseniz, üyelik geliştirmeleri, eğitim ve diğer büyüme fırsatları aracılığıyla Microsoft iş ortaklığınızda yine de derleme yapabilirsiniz.
-[İşletmenizin ve uzmanlığınızı geliştirmek](https://partner.microsoft.com/membership/azure-expert-msp)için uygulayabileceğiniz adımlar hakkında bilgi edinin.
+Henüz uygun değilsanız üyelik geliştirmeleri, eğitim ve diğer büyüme fırsatlarını kullanarak Microsoft iş ortaklığınızı yine de kurasınız.
+İşlerinizi ve uzmanlığınızı geliştirmek için [atılacak adımlar hakkında bilgi edinebilirsiniz.](https://partner.microsoft.com/membership/azure-expert-msp)
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
--[Gelişmiş specialmeler hakkında bilgi edinin](advanced-specializations.md)
+-[Gelişmiş uzmanlıklar hakkında bilgi](advanced-specializations.md)

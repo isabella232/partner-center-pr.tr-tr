@@ -9,12 +9,12 @@ author: vikrambmsft
 ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: 55e502895b63e1c1a7e41f3d316355bedd7f7001
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 775516e5aa9c082dd20f3aa77b078e560885648d7feb6c51295299a0c2d634cb
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114839116"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115685004"
 ---
 # <a name="analyze-your-leads---see-how-well-you-attract-target-customers-and-potential-referrals"></a>Müşteri adaylarınızı analiz edin: Hedef müşterileri ve potansiyel referansları ne kadar iyi çektiğinizi görün
 <!-- 

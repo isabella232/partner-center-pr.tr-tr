@@ -9,12 +9,12 @@ ms.author: vinayks
 ms.custom: SEOAPR.20
 ms.localizationpriority: high
 ms.date: 6/17/2021
-ms.openlocfilehash: c1f74e2977b110befd38c741259e84dd8bc9acb6
-ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
+ms.openlocfilehash: 9632cc6fbf18a02526cb0df4699bbe0ffaee4bb26ded97b3cb8b186ed8cf556b
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/04/2021
-ms.locfileid: "115100060"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115691437"
 ---
 # <a name="create-a-work-account-that-links-your-company-to-your-partner-center-account"></a>Şirketinizi şirket hesabınıza İş Ortağı Merkezi oluşturma
 

@@ -9,12 +9,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.date: 10/12/2020
-ms.openlocfilehash: 71a330356b6c4b3792086f1bc2823e0e067e04ae
-ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
+ms.openlocfilehash: 7aacaa04beb0aaa80ff40b1ba5bb2bb419c464904379e6737e55b387cce3bf3d
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/04/2021
-ms.locfileid: "115101282"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115691098"
 ---
 # <a name="create-user-accounts"></a>Kullanıcı hesapları oluşturma  
 
@@ -30,7 +30,7 @@ ms.locfileid: "115101282"
 
 3. Kullanıcının tam adını ve benzersiz e-posta adresini girin.
 
-4. Aracı türünü ve/veya kullanıcıya atamak istediğiniz yönetici türünü seçin. İş Ortağı Merkezi rol tabanlıdır, bu nedenle kullanıcının görünümünü yalnızca kullanıcının belirli görevleri tamamlaması için gereken özellikleri gösterecek şekilde özelleştirmek için izinler atabilirsiniz.  Kullanıcılar rol ataması yapmak isterse, Kullanıcı yönetimi'ne  gidip genel yöneticiyi filtreleerek genel yöneticilerin iletişim kuracaklarını bulabilirler.
+4. Aracı türünü ve/veya kullanıcıya atamak istediğiniz yönetici türünü seçin. İş Ortağı Merkezi rol tabanlıdır, bu nedenle kullanıcının görünümünü yalnızca kullanıcının belirli görevleri tamamlaması için gereken özellikleri gösterecek şekilde özelleştirmek üzere izinler atabilirsiniz.  Kullanıcılar rol ataması yapmak isterse, Kullanıcı yönetimi'ne  gidip genel yöneticiyi filtreleerek genel yöneticilerin iletişim kuracaklarını bulabilirler.
 
 5. Kullanıcı hesabını oluşturmak için **Ekle**'yi seçin. Sonraki sayfada kullanıcının ayrıntılarını onaylayın.
 

@@ -9,12 +9,12 @@ ms.author: amrava
 ms.custom: SEOAPR.20
 ms.localizationpriority: High
 ms.date: 12/02/2019
-ms.openlocfilehash: 40bf84ed47c946b84f511693d9f8351b3ffa5a95
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: ca7b72e653af37307d3a2985ac57783b050ff408204a14d977ec7a5ec29dab77
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114841666"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115691234"
 ---
 # <a name="begin-using-pay-as-you-go-rates-with-the-azure-plan"></a>Azure planıyla kullansanız öde ücretlerini kullanmaya başlama
 

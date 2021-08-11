@@ -1,73 +1,73 @@
 ---
-title: Teşvikleri Co-op ve taleplere genel bakış
+title: Teşvikler işbirliğine ve taleplere genel bakış
 ms.topic: article
 ms.date: 03/10/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
-description: Doğru belgeler, faturalar, deyimler ve yürütme kanıtı 'nı düzenleyerek teşvikleri için başarılı bir ortak op talebi göndermeyi öğrenin.
+description: Uygun belgeleri, faturaları, deyimleri ve yürütme kanıtını düzenleyerek teşvikleriniz için başarılı bir ortak çalışma talebi gönderme hakkında bilgi alın.
 author: kaushikgMSFT
 ms.author: kaushikg
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 180756cb5c658b5ed16119e03bfe9e1271b68599
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: d82ea8da99dee232c40c2006d2b78a2baf10d1d34fd6bb1cdf7dccd949f397a7
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114840357"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115692611"
 ---
 # <a name="earn-cooperative-marketing-funds"></a>İşbirlikçi pazarlama fonlarını kazanma
 
-**Uygun roller**: teşvikleri admin | Teşvikleri kullanıcısı
+**Uygun roller:** Teşvik yöneticisi | Teşvikler kullanıcısı
 
-Ortak pazarlama (Co-op) fon, Microsoft ürün tanımayı destekleyen etkinlikler için geri ödeme yaparak Microsoft 'un programlarını karşıladığınız fonlardır. teşvikleri programlarına örnek olarak Bulut Çözümü Sağlayıcısı, yönetilen satıcı, barındırma ve yüzey verilebilir.
+İşbirliğine açık pazarlama (ortak çalışma) fonlarını, Microsoft ürün farkındalığını destekleyen etkinlikler için geri ödeme talep eden Microsoft Teşvik Programları aracılığıyla kazanabilirsiniz. Teşvik programlarına örnek olarak Bulut Çözümü Sağlayıcısı, yönetilen kurumsal bayi, barındırma ve Surface yer alır.
 
-Ortak çalışma fonları, marka tanıma ve sürücü satışları işlem hattı büyümesini artıracak pazarlama etkinlikleri yürütmenize imkan tanır. Hazır olma durumunu kolaylaştırmak, Uzmanlıklar geliştirmek veya Microsoft sertifikalarına ulaşmak için, odaklanmış çözüm uygulamalarına ve üstün merkezlerine sahip olan etkinliklere yönelik faaliyetlere ortak op yatırmaya yatırım yapabilirsiniz.
+İşbirliğine yönelik fonlar, marka farkındalığını artıracak ve satış işlem hattı büyümesi sağlayacak pazarlama etkinlikleri yürütmeye olanak sağlar. Hazırlıkları kolaylaştırmak, uzmanlık geliştirmek veya odaklı çözüm uygulamalarını ve Mükemmellik Merkezlerini teşvik eden Microsoft sertifikalarını almak için etkinliklere ortak çalışma fonlarını yatırımlarsiniz.
 
-[Co-op fon kaynakları](https://partner.microsoft.com/asset/collection/co-op-funds-resources#/) sayfasında daha fazla bilgi edinebilirsiniz.
+İşbirliği Fon kaynakları sayfasında [daha fazla bilgi edinebilirsiniz.](https://partner.microsoft.com/asset/collection/co-op-funds-resources#/)
 
 >[!Important]
->ortak op talepleri, çevrimiçi hizmetler danışmanlık (OSA) satışı, çevrimiçi hizmetler kullanımı (OSU)-Microsoft 365 ve OSU-Business uygulama teşvik programları için geçerlidir. Bu programlardan birine yönelik bir talep göndermek için, bkz. [CPOR modelini kullanarak müşteri ile ilişkili Kullanıcı oluşturma](submit-osa-claim.md).
+>Ortak kullanım talepleri Çevrimiçi Hizmetler Danışmanlığı (OSA) Satış, Çevrimiçi Hizmet Kullanımı (OSU)-Microsoft 365 ve OSU-Business Uygulama teşvik programları için geçerli değildir. Bu programlardan biri için bir talep göndermek için [bkz. CPOR modelini kullanarak müşteri arasında bir iş birlilik oluşturma.](submit-osa-claim.md)
 
-## <a name="how-co-op-funds-are-calculated"></a>Ortak işlem fonları nasıl hesaplanır
+## <a name="how-co-op-funds-are-calculated"></a>İşbirliği fonlarının hesaplanması
 
-Microsoft, bölünmüş bir yüzde (%60 indirimi-40% Co-op) kullanarak uygun teşvik kazançlarını hesaplar. Tek tek programınız için mevcut olan ödeme temposunda kullanarak indirim bölümünü alırsınız, Microsoft, bu da, teşvik kazanın ortak op bölümünü tahakkuk edecektir.
+Microsoft, uygun teşvik kazançlarını bölünmüş bir yüzde (örneğin, %60 indirim - %40 ortak çalışma) kullanarak hesaplar. Bireysel programınız için mevcut ödeme temposunu kullanarak indirim bölümünü alırsınız, Microsoft ise teşvik kazançlarının ortak çalışma kısmını tahakkuk eder.
 
-Teşvikleri program kılavuzumuzun ödeme temposunda ve bölünmüş yüzdesi hakkında daha fazla bilgi edinebilirsiniz. Program kılavuzınıza erişmek için [Bu yordamı](incentives-determined-your-program-eligibility.md) kullanın.
+Teşvik programı kılavuzunda ödeme tempos ve yüzdeyi bölme hakkında daha fazla bilgi edinabilirsiniz. Program [kılavuzuna](incentives-determined-your-program-eligibility.md) erişmek için bu yordamı kullanın.
 
 >[!NOTE]
->Ortak işletim geliriniz, ortak işlem getirisi dönemindeki eşiğin altındaysa, ortak op gelirleri Semester 'ın sonunda bir indirimin içine dönüştürülür. Daha fazla ayrıntı veya eşik tutarını belirleme hakkında daha fazla bilgi için bkz. özenli Program Kılavuzu.
+>Ortak operasyon kazançlarınız, ortak operasyon kazanç dönemindeki eşiğin altında olursa, ortak operasyon kazançları dönem sonunda bir indirime dönüştürülür. Diğer ayrıntılar veya eşik miktarını belirlemek için teşvik programı kılavuzuna bakın.
 
-## <a name="when-to-claim-your-funds"></a>Fonlarınızı talep etmek için
+## <a name="when-to-claim-your-funds"></a>Fonlarınızı talep etmek için ne zaman
 
-Ortak çalışma fonları için zaman çizelgesi 2 6 aylık dönemler, H1 ve H2 olarak bölünür. ("H", mali yarı yıl için temsil eder.)
+İşbirliği fonlarının zaman çizelgesi iki altı aylık dönemlere (H1 ve H2) ayrılmıştır. ("H", mali yarı yılın açılımıdır.)
 
-- H1, mali yılın ilk yarısında, 1 Temmuz 31 ' dir.
-- H2, mali yılın ikinci yarısında, 1 Ocak 30 Haziran.
+- H1, 1 Temmuz - 31 Aralık mali yılın ilk yarısıdır.
+- H2, mali yılın ikinci yarısıdır, 1 Ocak - 30 Haziran.
 
-Gelirinizi tahakkuk ettirmek için gereken altı aylık dönem **kazanç döneminizin** olur. Bu kazancı, aşağıdaki altı aylık **kullanım döneminde** bir noktada kullanmanız gerekir. Kullanım süresinin sonuna kadar kazanç kullanmıyorsanız, bunları beğenirsiniz. Talep eden **Dönem** , ister bir program etkinlikleriniz için geri ödeme talebinde bulunmak için gereken altı aylık bir süredir.
+Kazançlarınızı tahakkuk eden altı aylık dönem Kazanç **döneminiz olur.** Bu kazançları, sonraki altı aylık Kullanım dönemi boyunca bir noktada **kullan gerekir.** Kazançlarınızı kullanım döneminin sonuna kadar kullanmayacaksanız, bu kazançları kullanım süresi sona erer. **Talep dönemi,** teşvik programı etkinlikleriniz için geri ödeme talep ediye sahip olduğunu altı aylık dönemdir.
 
-Aşağıdaki tabloda, farklı kazanç, kullanım ve talep eden dönemler gösterilmektedir. Aksi belirtilmediği takdirde, dönemler ilk ayın ilk gününden geçen ayın son gününe kadar genişler.
+Aşağıdaki tabloda farklı kazanç, kullanım ve talep dönemleri gösterilmiştir. Aksi belirtilmedikçe, dönemler ilk ayın ilk gününden son ayın son gününe kadar uzatılacaktır.
 
-|  Kazanç/tahakkuk süreniz  |Mali yarı yıl döneminiz  |  Kullanım süreniz  |  Bu süre  |
+|  Kazanç/tahakkuk döneminiz  |Mali yarı yıllık döneminiz:  |  Kullanım döneminiz şu şekildedir:  |  Talep döneminiz şu şekildedir:  |
 | :-----------: | :-----------: | :-----------: | :-----------: |
-|**Haziran-Aralık 2020**| FY21 H1  |  Oca-Haziran 2021  |  Şub 16 Ağu 15 2021  |
-|**Oca-Haziran 2021** |  FY21 H2  |  Haziran-Aralık 2021  |  Ağu 16 2021-Şub 15 2022  |
-|**Haziran-Aralık 2021**|  FY22 H1  |  Oca-Haziran 2022  |  Şub 16 Ağu 15 2022  |
-|**Oca-Haziran 2022** |  FY22 H2  |  Haziran-Aralık 2022  |  Ağu 16 2022-Şub 15 2023  |
+|**Temmuz - Ara 2020**| FY21 H1  |  Ocak - Haziran 2021  |  16 Şubat - 15 Ağustos 2021  |
+|**Ocak - Haziran 2021** |  FY21 H2  |  Temmuz - Ara 2021  |  16 Ağustos 2021 - 15 Şubat 2022  |
+|**Temmuz - Ara 2021**|  FY22 H1  |  Ocak - Haziran 2022  |  16 Şubat - 15 Ağustos 2022  |
+|**Ocak - Haziran 2022** |  FY22 H2  |  Temmuz - Ara 2022  |  16 Ağustos 2022 - 15 Şubat 2023  |
 
 >[!NOTE]
->Microsoft, orijinal yürütme (PoE) belgeleri sağlamasını isteme hakkını saklı tutar. Etkinlik tarihinden sonra tüm orijinal belgelerinizi 24 ay boyunca saklamanız gerekir.
+>Microsoft, özgün yürütme kanıtı (PoE) belgeleri talep hakkına sahiptir. Tüm özgün belgelerinizi etkinlik tarihinden sonra 24 ay boyunca tutabilirsiniz.
 
-Aşağıdaki kaynaklar, birlikte çalışma taleplerini kullanmaya başlamanıza yardımcı olur.
+Aşağıdaki kaynaklar ortak çalışma talepleri ile çalışmaya başlamanıza yardımcı olur.
 
 | Bunu yapmak için | Bunu okuyun |
 | ------ | ----------- |
-| Talep Gönder |  [Teşvikleri program ortak işlem talebi oluşturma ve yönetme](create-incentives-claims.md)  |
-| Gönderilen talebi yönetme | [Teşvikleri program ortak işlem talebi oluşturma ve yönetme](create-incentives-claims.md)    |
-| Etkinlik talebi için temel gereksinimleri anlama | [Gereksinimler programınızdaki etkinliklerin temel gereksinimleri](core-requirements.md)   |
-| Teşvikleri programınızın ayrıntılarını gözden geçirin | [Partner teşvikleri Co-op kılavuz kitabı](https://assetsprod.microsoft.com/co-op-guidebook.pdf)  |
-| Müşteri ilişkisi oluşturma ve talep gönderme | [CPOR modelini kullanarak bir müşteri ilişkilendirmesi oluşturma](submit-osa-claim.md)   |
+| Talep gönderme |  [Teşvik programı ortak çalışma talebi oluşturma ve yönetme](create-incentives-claims.md)  |
+| Gönderilen talebi yönetme | [Teşvik programı ortak çalışma talebi oluşturma ve yönetme](create-incentives-claims.md)    |
+| Etkinlik talebi için temel gereksinimleri anlama | [Teşvik programınıza yönelik etkinlikler için temel gereksinimler](core-requirements.md)   |
+| Teşvik programı ayrıntılarınızı gözden geçirme | [İş Ortağı Teşvikleri İşbirliği Kılavuzu](https://assetsprod.microsoft.com/co-op-guidebook.pdf)  |
+| Müşteri ilişkilendirmesi oluşturma ve talep gönderme | [CPOR modelini kullanarak müşteri ilişkilendirmesi oluşturma](submit-osa-claim.md)   |
 
 ## <a name="next-steps"></a>Sonraki adımlar
 

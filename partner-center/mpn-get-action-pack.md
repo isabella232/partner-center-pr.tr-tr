@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8124d05f971149cffe0d4c49f7ec68c38ea54156
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: a9868f09ebf3311be72799b729952eca12695d9790f9190ad90a8e660dad3c7b
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114836362"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115692118"
 ---
 # <a name="buy-or-renew-a-microsoft-action-pack-subscription-or-silver-and-gold-competencies"></a>Microsoft Eylem Paketi aboneliği veya Silver ve Gold uzmanlık satın alma veya yenileme
 

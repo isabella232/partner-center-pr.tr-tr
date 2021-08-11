@@ -9,12 +9,12 @@ author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9cd73c6701a57463a3e9d10c40d979942a85feb1
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: b038d231bbb29881a951b2a5b79bc63d3daa012f0a3c42c11d226f10a03cea11
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114839354"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115685233"
 ---
 # <a name="advisors-build-your-client-base-with-office-365-trial-invitations-and-purchase-offers"></a>Danışmanlar: Office 365 deneme davetleri ve satın alma teklifleriyle müşteri tabanınızı oluşturun
 

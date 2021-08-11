@@ -9,12 +9,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 283cc274e150615d8f32da0b3e81ea01e0d86f0a
-ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
+ms.openlocfilehash: a673aad22bd5f9609fcbde656fb45e93ef2f227e92aba59988708769471e09e7
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/04/2021
-ms.locfileid: "115101642"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115685878"
 ---
 # <a name="what-to-do-if-the-only-admin-for-your-mpn-program-has-left-the-company"></a>MPN programınızın tek yöneticisi şirketten ayrıldığında ne yapmalısınız?
 

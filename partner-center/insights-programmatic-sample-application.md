@@ -1,66 +1,66 @@
 ---
-title: Örnek uygulama
+title: Örnek Uygulama
 ms.topic: article
 ms.date: 07/14/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-insights
-description: Ortak Öngörüler verilerine programlı bir şekilde erişmek üzere kendi uygulamanızı derlemek için örnek uygulamayı kullanın.
+description: İş ortağı içgörüleri verilerine program aracılığıyla erişmek üzere kendi uygulamanızı oluşturmak için örnek uygulamayı kullanın.
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: cb2bc8be9ea49c0d75da4d78961865331ed908c9
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: c558852b7c2af7243187a856067d17a2137cfac867149b80e9c852a1d08d780a
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114845049"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115683804"
 ---
-# <a name="sample-application"></a>Örnek uygulama
+# <a name="sample-application"></a>Örnek Uygulama
 
-Örnek uygulamalar C# ve JAVA dillerinde oluşturulur ve [GitHub](https://github.com/partneranalytics) kullanılabilir
+Örnek uygulamalar C# ve JAVA dillerinde oluşturulur [](https://github.com/partneranalytics) ve GitHub
 
-- [C# örnek uygulaması](https://github.com/partneranalytics/ProgrammaticExportSampleAppMPN)
-- [JAVA örnek uygulaması](https://github.com/partneranalytics/ProgrammaticExportSampleAppMPN_Java)
+- [C# Örnek Uygulaması](https://github.com/partneranalytics/ProgrammaticExportSampleAppMPN)
+- [JAVA Örnek Uygulaması](https://github.com/partneranalytics/ProgrammaticExportSampleAppMPN_Java)
 
-Örnek uygulamadan alma ve kendi uygulamanızı dilediğiniz dilde oluşturma seçeneğini belirleyebilirsiniz.
+Örnek uygulamadan ilham alıp istediğiniz dilde kendi uygulamanızı derlemeyi seçebilirsiniz.
 
-Örnek uygulama aşağıdaki hedeflere ulaşır:
+Örnek uygulama aşağıdaki hedeflere ulaşıyor:
 
-- Azure Active Directory (Azure AD) belirteci oluşturur.
+- Bir Azure Active Directory (Azure AD) Belirteci üretir.
 - Kullanılabilir veri kümelerini alır.
 - Kullanıcı tanımlı sorgular oluşturur.
 - Kullanıcı tanımlı ve sistem sorgularını alır.
-- Bir raporu zamanlar.
+- Bir rapor zamanlar.
 
-Örnek uygulama, diğer işlevlere yönelik API 'Leri çağırma yöntemini kapsamaz. Ancak, diğer API 'Leri çağırma işlemi yukarıda özetlenen ile aynı kalır.
+Örnek uygulama, diğer işlevler için API'leri çağırma yöntemini kapsıyor. Ancak, diğer API'leri çağırma işlemi yukarıda özetlenenle aynı kalır.
 
 ## <a name="how-to-run-the-application"></a>Uygulamayı çalıştırma
 
-- Şu komutu kullanarak depoyu yerel sisteme kopyalayın:
+- Bu komutu kullanarak depoyu yerel bir sisteme klonlama:
 
 ```cli
 git clone https://github.com/partneranalytics/ProgrammaticExportSampleAppMPN.git
 ```
 
 > [!Note]
-> daha fazla yönerge için GitHub [deposundaki](https://github.com/partneranalytics/ProgrammaticExportSampleAppMPN_Java)ProgrammaticExportSampleAppMPN/README. md dosyasına bakın.
+> Daha fazla yönergeler için, GitHub deposundaki ProgrammaticExportSampleAppMPN/README.md [dosyasına bakın.](https://github.com/partneranalytics/ProgrammaticExportSampleAppMPN_Java)
 
-- Uygulamayı hızlı bir şekilde çalıştırmak için, **üzerindeappsettings.Development.js** istemci kimliğini ve istemci gizli anahtarını güncelleştirin
+- Uygulamayı hızlı bir şekilde çalıştırmak için, istemci kimliğini ve istemci gizliappsettings.Development.js **güncelleştirin**
 
-:::image type="content" source="images/insights/prog-acc-appsetting-development.png" alt-text="AppSetting geliştirme JSON 'u":::
+:::image type="content" source="images/insights/prog-acc-appsetting-development.png" alt-text="Uygulama sıfırlama geliştirme json'larını":::
 
-Uygulamanın çalıştırılması, yerel bir Web sunucusu başlatır ve bir sayfa ( `https://localhost:44365/ProgrammaticExportSampleApp/sample` ) açılır.
+Uygulamayı çalıştırarak yerel bir web sunucusu başlar ve bir sayfa açılır ( `https://localhost:44365/ProgrammaticExportSampleApp/sample` ).
   
-:::image type="content" source="images/insights/prog-acc-sample-application.png" alt-text="Örnek uygulamanın kullanıcı arabirimini gösteren":::
+:::image type="content" source="images/insights/prog-acc-sample-application.png" alt-text="Örnek uygulamanın kullanıcı arabirimini örnekleme":::
 
-Bu sayfa, yerel makinede çalışan Web sunucusuna API çağrıları yapar, bu da gerçek programlı erişim API 'SI çağrılarını yapar.
+Bu sayfa, yerel makinede çalışan web sunucusuna API çağrıları yapacak ve bu da gerçek programlı erişim API'si çağrılarını yapacaktır.
 
 ## <a name="code-snippets"></a>Kod Parçacıkları
 
-Programlı erişim API 'SI çağrıları yapmak için C# kodunun temel yapısı aşağıdaki gibidir:
+Programlı erişim API'si çağrılarını yapmak için C# kodunun temel yapısı aşağıdaki gibidir:
  
-:::image type="content" source="images/insights/prog-acc-code-snippet.png" alt-text="Kod parçacığını gösteren":::
+:::image type="content" source="images/insights/prog-acc-code-snippet.png" alt-text="Kod parçacığını illustrating":::
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-[Partner Insights Analytics verilerine erişim için API 'Ler](insights-programmatic-analytics-available-api.md)
+[İş ortağı içgörüleri analiz verilerine erişmek için API'ler](insights-programmatic-analytics-available-api.md)

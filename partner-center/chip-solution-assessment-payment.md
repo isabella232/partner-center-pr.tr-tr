@@ -9,12 +9,12 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4184d155ceff22a34e1a85d2909f4e1b17a46daa
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 5443dedfcae17152b51df7aa021d900b2f61892509c85ba3c2ba99cb0b9b3a8d
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110148882"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115692679"
 ---
 # <a name="solution-assessment-payment-status-and-calculation-info"></a>Çözüm Değerlendirmesi ödeme durumu ve hesaplama bilgileri
 
@@ -36,21 +36,21 @@ CHIP'te Çözüm Değerlendirmesi fırsat durumunun ödeme durumunu gözden geç
 7. Ödeme isteğinin durumunu kontrol edin.
 
     - Bekleyen Ödeme gözden geçirmesi: Daha fazla araştırma için Kanal Teşvikleri Ekibine ulaşın – aşağıda listelenen iletişim ayrıntıları.
-    - Ödeme Onaylı: Ödeme, ödeme isteğinin oluşturulmakta olduğu CHIP'te EM Katılım tamlığının onaylanmasından sonraki 35 gün içinde Microsoft tarafından işlenir
+    - Ödeme Onaylandı: Ödeme, ödeme isteğinin oluşturulmakta olduğu CHIP'te EM Katılım tamlığı sertifikasının ardından ay sonundan itibaren 35 gün içinde Microsoft tarafından işlenir
     -  Ödeme Gönderildi: Ödeme sürümü ayrıntılarını görüntülemek için durum köprüsüne tıklayın.
     - Ödeme İptal Edildi: Reddetme nedenini görüntülemek için durum köprüsüne tıklayın. Diğer ayrıntılar için Kanal Teşvikleri Ekibi'ne ulaşın.
 
-## <a name="calculations-for-solutions-assessment"></a>Çözüm değerlendirmesi için hesaplamalar
+## <a name="calculations-for-solutions-assessment"></a>Çözüm Değerlendirmesi için Hesaplamalar
 
-Microsoft bölgesel operasyon merkezleri, tanımlı ücret zamanlamalarını kullanarak, aylık olarak verilen ödemeler ile ilişkili teşvik ücretlerini hesaplar ve işler.
+Microsoft Bölgesel Operasyon Merkezleri, tanımlanan ücret zamanlamalarını kullanarak ilişkili teşvik ücretlerini hesaplar ve işler ve aylık olarak ödeme yapılır.
 
-Fırsatlar, bu ödeme onayı raporunda görünmesi için aşağıdaki özniteliklere sahip olmalıdır:
+Bu ödeme onay raporunda görünmesi için fırsatların aşağıdaki özniteliklerin hepsine sahip olması gerekir:
 
-1. Çözüm değerlendirmesi özendirme onaylanması gerekir.
+1. Çözüm Değerlendirmesi Teşviki'nin onaylanması gerekir.
 
-1. Çözüm değerlendirmesi katılım düzeyi yerel öznitelik oranı düzeyi, bu, bir MSX MSX onaylamaışında katılım için ayarlanır.
+1. Çözüm Değerlendirmesi Katılım Düzeyi yerel öznitelik Hız düzeyi, Teşvik MSX'te onaylandıktan sonra katılım için ayarlanır.
  
-1. "EM Review" onay kutusu, yonga içinde EM tarafından denetlenmeli ve gönderilmelidir.
+1. "EM İncelemesi" onay kutusu, EM tarafından CHIP'te denetlenerek gönder edilmelidir.
 
 ## <a name="next-steps"></a>Sonraki adımlar
 

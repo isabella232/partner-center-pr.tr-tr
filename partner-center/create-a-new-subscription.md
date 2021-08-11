@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
-ms.openlocfilehash: 199e3dc42a0aa46c3e743e9e6fcb0ed585cd0303
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 227b1cb38f255ee32563c29c3e2bced88e7c15935a244e9e2bf0b4763c9eca52
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114838028"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115691132"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>Müşteri aboneliklerini oluşturma, askıya alma veya iptal etme
 
@@ -154,26 +154,26 @@ Lisans tabanlı bir SaaS aboneliğini ISV yayımcısından iptal etmek için aş
 
 ### <a name="choose-whether-to-automatically-renew-a-commercial-marketplace-subscription"></a>Bir ticari Market aboneliğinin otomatik olarak yenilenip yenilenmeyeceğini seçin
 
-Etkin abonelikler varsayılan olarak abonelik süresi sona erdiğinde otomatik olarak yenilenecek şekilde ayarlanır. Ticari [market ürünlerine abonelikler için](csp-commercial-marketplace-overview.md)isteğe bağlı olarak aboneliği otomatik olarak yenilemeyi seçebilirsiniz.
+Etkin abonelikler varsayılan olarak abonelik süresi sona erdiğinde otomatik olarak yenilenecek şekilde ayarlanır. [Ticari Market ürünlerine yönelik abonelikler](csp-commercial-marketplace-overview.md)için, isteğe bağlı olarak, aboneliği otomatik olarak yenilemeyi seçebilirsiniz.
 
-Etkin bir ticari market aboneliğinin otomatik olarak yenilenmesini durdurmak için:
+Etkin bir ticari Market aboneliğini otomatik olarak yenilemeyi durdurmak için:
 
-1. İş Ortağı Merkezi [oturum açın.](https://partner.microsoft.com/dashboard)
+1. Iş Ortağı Merkezi [panosunda](https://partner.microsoft.com/dashboard)oturum açın.
 
-2. Yeni İş Ortağı Merkezi **Müşteriler'i** ve ardından listeden bir müşteri seçin.
+2. Iş Ortağı Merkezi menüsünde **müşteriler**' i seçin ve listeden bir müşteri seçin.
 
 3. **Abonelikler**'i seçin. Bu, müşteri için satın aldığınız lisans tabanlı abonelikleri listeler.
 
-4. Abonelik **sütununda** değiştirmek istediğiniz aboneliği seçin.
+4. **Abonelik** sütununda, değiştirmek istediğiniz aboneliği seçin.
 
-5. Abonelik ayrıntıları sayfasında Durum bölümünü **bulun ve** Otomatik yenile **kutusunun işaretini** kaldırın.
+5. Abonelik Ayrıntıları sayfasında, **durum** bölümünü bulun ve **Otomatik Yenile** kutusunun işaretini kaldırın.
 
 6. **Gönder**’i seçin.
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-- [Müşterileriniz için ticari market ürünleri satın alma](csp-commercial-marketplace-purchase.md)
+- [Müşterileriniz için ticari Market ürünleri satın alın](csp-commercial-marketplace-purchase.md)
 
-- [Müşterileriniz için ticari market ürünlerini yönetme](csp-commercial-marketplace-manage.md)
+- [Müşterileriniz için ticari Market ürünlerini yönetme](csp-commercial-marketplace-manage.md)
 
 - [Ticari markete genel bakış](csp-commercial-marketplace-overview.md)

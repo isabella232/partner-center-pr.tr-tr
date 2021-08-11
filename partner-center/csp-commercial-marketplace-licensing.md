@@ -9,12 +9,12 @@ author: petand123
 ms.author: v-petand
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 73a02a0a6cad28939d21800c726811c8969ce9a2
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 2d8464b93f6f3215043775496baacc8c6abd907bf614db78725814c9bea59229
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114837705"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115690911"
 ---
 # <a name="manage-licensing-in-marketplace-offers"></a>Market tekliflerini lisanslama yönetme
 
@@ -134,16 +134,16 @@ Müşteriyi bu satış anlaşmasına katılmaya davet etmek için aşağıdaki y
     >[!NOTE]
     >Müşteri bu adımı gerçekleştirene kadar ilişki kurulmayacak.
 
-## <a name="activate-manage-and-remove-your-licenses"></a>Lisanslarınızı etkinleştirin, yönetin ve kaldırın
+## <a name="activate-manage-and-remove-your-licenses"></a>Lisanslarınızı etkinleştirme, yönetme ve kaldırma
 
-Müşteriniz sizinle ilişkiyi yetkilendirdikten sonra, teklifinizden planlar eklemeye ve her plana lisans atamaya başlayabilirsiniz.
+Müşteriniz size ilişkinin yetkilerini verdiktan sonra teklifinizin planlarını eklemeye ve her plana lisans atamaya başlayabilirsiniz.
 
-1. Bu anlaşma için Lisansları Yönet penceresinde **+ plan Ekle**' yi seçin.
-2. **Bu çözüm Için planları** ve lisans alanı **sayısını** tamamlayıp **Lisansları Güncelleştir**' i seçin. Lisanslar, müşteriler tarafından yönetilecek ve çalışanlara atanacak admin.microsoft.com adresinde kullanılabilir.
+1. Bu anlaşma için Lisansları yönet penceresinde **+Plan ekle'yi seçin.**
+2. Bu çözüm **için planlar ve Lisans** sayısı alanlarını **doldurun** ve ardından Lisansları **güncelleştir'i seçin.** Lisanslar, müşterilerin admin.microsoft.com atanmalarını sağlamak için şirket içinde kullanılabilir.
 
-    - Mevcut bir planın lisans sayısını değiştirmek için, **Lisans sayısı** alanına yeni sayıyı girin ve ardından **Lisansları Güncelleştir**' i seçin.
+    - Mevcut bir planın lisans sayısını değiştirmek için Lisans sayısı  alanına yeni numarayı girin ve Lisansları **güncelleştir'i seçin.**
 
-    - Bir anlaşma için lisansları devre dışı bırakmak veya kaldırmak için, **Eylemler** alanındaki çöp kutusu simgesini seçin ve ardından **Lisansları Güncelleştir**' i seçin.
+    - Bir anlaşma için lisansları devre dışı bırakmak veya kaldırmak için Eylemler alanında çöp kutusu **simgesini ve** ardından Lisansları **güncelleştir'i seçin.**
 
 ## <a name="next-steps"></a>Sonraki adımlar
 

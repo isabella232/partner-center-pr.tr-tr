@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/18/2021
-ms.openlocfilehash: dd9a93421dd3418ba0f60dcd4bb60459aa5dac03
-ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
+ms.openlocfilehash: 0cc5e5fb4fb13ed2e230a67969fd1165f95576d076f06d7a628c2ef814e5cff3
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/04/2021
-ms.locfileid: "115100626"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115684791"
 ---
 # <a name="december-2020-announcements"></a>Aralık 2020 duyuruları
 
@@ -228,7 +228,7 @@ Microsoft güven üzerinde çalışır. CSP programında müşteri aboneliklerin
 
 Şirket kayıt kimliğinizi eklerken, müşterinin kişisel kimliğini değil, iş verginizi kullanmanız gerektiğini unutmayın.
 
-Aşağıdaki ülkelerde yeni veya mevcut müşterilerle iş yapan iş ortakları, Kasım 2020'de önceki bir sürümle birlikte zaten ek açıklamaya alınmaktadır.
+Aşağıdaki ülkelerde yeni veya mevcut müşterilerle iş yapan iş ortakları, Kasım 2020'de önceki bir sürüme zaten ekli.
 
 - Ermenistan
 - Azerbaycan
@@ -269,7 +269,7 @@ Microsoft ile işlemleriniz için de destek gerekirse bir hizmet [isteği açın
 
 ______________
 
-## <a name="reminder-perpetual-software-in-the-cloud-solution-provider-csp-program-broadly-available-from-january-2021"></a><a name="7"></a>Anımsatıcı: Bulut Çözümü Sağlayıcısı (CSP) programı içinde kalıcı yazılım Ocak 2021'den itibaren geniş bir şekilde kullanılabilir
+## <a name="reminder-perpetual-software-in-the-cloud-solution-provider-csp-program-broadly-available-from-january-2021"></a><a name="7"></a>Anımsatıcı: Bulut Çözümü Sağlayıcısı (CSP) programı içinde kalıcı yazılım Ocak 2021'den itibaren geniş bir kitleye sunulmaktadır
 
 ### <a name="categories"></a>Kategoriler
 
@@ -299,7 +299,7 @@ Aynı tarihte de aşağıdakiler olur:
 
 ### <a name="perpetual-software-in-csp"></a>CSP'de kalıcı yazılım
 
-Yeni ticaret deneyiminde CSP programına kalıcı yazılımların ek olarak, iş ortaklarının birden çok lisans programını yönetmek için harcaması gereken süre ve maliyetler azalır. Bu da satış, operasyonel ve yönetim özelliklerini geliştirmenizi sağlayacaktır. İş ortakları, hibrit bulut ortamları için lisansları ve yönetilen hizmetleri birleştirme esnekliğiyle birlikte çeşitli çözümler ve yönetilen hizmetler sunarak, müşterilerinin buluta geçişlerini daha da hızlandırarak işletmelerini genişletebilirsiniz. Müşteriler de basitleştirilmiş bir yaklaşımdan ve yazılım lisansları satın alma konusunda daha fazla esneklikten yararlanabilir. Bu satın alma işlemini anlamak kolaydır, doğrudan lisanslama varlık yönetimini iyiler ve tahmin edilebilir maliyetlere sahip olur.
+CsP programına kalıcı yazılımların yeni ticaret deneyimine ek olarak, iş ortaklarının birden çok lisans programını yönetmek için harcaması gereken süre ve maliyetler azalır. Bu da satış, operasyonel ve yönetim özelliklerini geliştirmenizi sağlayacaktır. İş ortakları, hibrit bulut ortamları için lisansları ve yönetilen hizmetleri birleştirme esnekliğiyle birlikte çeşitli çözümler ve yönetilen hizmetler sunarak, müşterilerinin buluta geçişlerini daha da hızlandırarak işletmelerini genişletebilirsiniz. Müşteriler de basitleştirilmiş bir yaklaşımdan ve yazılım lisansları satın alma konusunda daha fazla esneklikten yararlanabilir. Bu satın alma işlemini anlamak kolaydır, doğrudan lisanslama varlık yönetimini iyiler ve tahmin edilebilir maliyetlere sahip olur.
 
 ### <a name="next-steps"></a>Sonraki adımlar
 
@@ -397,7 +397,7 @@ Bu teklif için aşağıdaki teklif ayrıntıları Ocak 2021 teklif listesi matr
 
 ### <a name="next-steps"></a>Sonraki Adımlar
 
-- Promosyon teklifi 1 Ocak 2021, resmi CSP iş ortağı Merkezi Lisansı-taban fiyat listesi ve teklif listesi matrisinde kullanılabilir olacaktır.
+- Promosyon teklifi 1 Ocak 2021, resmi CSP Iş Ortağı Merkezi Lisansı-taban fiyat listesi ve teklif listesi matrisinde kullanılabilir olacaktır.
 
 ______________
 
@@ -587,10 +587,10 @@ Microsoft, herhangi bir müşterinin veya önerilen müşterinin durumunu tam e�
 
 _ 31 Ağustos 2020: özgün yayın 
 
-- 25 Eylül 2020: Test penceresi güncelleştirmesi eklendi 
+- 25 Eylül 2020: test penceresi güncelleştirmesi eklendi 
 
-- 4 Ekim 2020: Teste kaydolmayı anımsatacak 
+- 4 Ekim 2020: test için kaydolmak üzere anımsatıcı 
 
-- 10 Kasım 2020: Teste kaydolmayı anımsatacak 
+- 10 Kasım 2020: test için kaydolmak üzere anımsatıcı 
 
 - 3 Aralık 2020: API güncelleştirmeleri canlı

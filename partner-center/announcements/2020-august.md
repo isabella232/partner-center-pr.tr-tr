@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 08/14/2020
-ms.openlocfilehash: baeaf39dd75d3c39bb7cfee393c3f9c409d5ce33
-ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
+ms.openlocfilehash: 01f5a340ca649f21b6f6c337132453d18a8068d26d6e6fc891f3f71545962817
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/04/2021
-ms.locfileid: "115102001"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115684808"
 ---
 # <a name="august-2020-announcements"></a>Ağustos 2020 duyuruları
 
@@ -85,7 +85,7 @@ ________________
 
 ### <a name="impacted-audience"></a>Etkilene hedef kitle
 
-.NET SDK'sını kullanan CSP programına katılan Doğrudan Fatura iş ortakları İş Ortağı Merkezi Sağlayıcıları. 
+.NET SDK'sını kullanan CSP programına katılan Doğrudan Fatura iş ortakları İş Ortağı Merkezi Sağlayıcılar. 
 
 ### <a name="summary"></a>Özet
 

@@ -1,46 +1,46 @@
 ---
-title: CHIP Çözüm Değerlendirmesi Fırsat durumu
+title: YONGA çözümü değerlendirmesi fırsat durumu
 ms.topic: how-to
 ms.date: 11/09/2020
-description: Channel Incentives Platform'da (CHIP) Çözüm Değerlendirmesi fırsat durumunu nasıl bulasınız?
+description: Channel teşvikleri platformunda (yonga) çözüm değerlendirmesi fırsat durumunuzu bulmayı öğrenin.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 620490dfdd63b40957421e6df6432d480584658a
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 64443f28df956c9ecb9b8b1220c66d1ac740f126a6faedf34ce7d5e9a3c4139e
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110148848"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115692662"
 ---
-# <a name="find-your-solution-assessments-opportunity-status-on-chip"></a>CHIP üzerinde Çözüm Değerlendirmeleri Fırsat Durumu'larınızı bulma
+# <a name="find-your-solution-assessments-opportunity-status-on-chip"></a>YONGA üzerinde çözüm değerlendirmesi fırsat durumunuzu bulma
 
-**Uygun roller:** Birincil kişi veya program yöneticisi
+**Uygun roller**: birincil iletişim veya Program Yöneticisi
 
-İş ortakları CHIP'de Çözüm Değerlendirmeleri fırsat durumunu gözden geçirmektedir.
+İş ortakları, YONGADAKI bir çözüm değerlendirmesi fırsat durumunu gözden geçirebilir.
 
-## <a name="determine-the-status-of-your-deal"></a>Anlaşmanın durumunu belirleme
+## <a name="determine-the-status-of-your-deal"></a>İşlem durumunuzu belirleme
 
-Anlaşmanız uygun Satış Aşamasına ulaşmış ve Çözüm Değerlendirme Uzmanı (SAS) tarafından onaylanmıştır. Chip hesabınız için bunu kontrol edin.
+Kurumlarınızın uygun satış aşamasına ulaştığından ve çözüm değerlendirme uzmanı (SAS) tarafından onaylandığından emin olun. Bu yonga hesabınızı kontrol edin.
 
-1. Microsoft Hesabınızla (önceki Canlı Kimlik) CHIP'de oturum açın.
-1. Fırsat **Kimliği alanına** fırsatın kimlik numarasını yazın veya yapıştırın.
+1. Microsoft hesabınızla (önceki Live ID) YONGASıNDA oturum açın.
+1. **Fırsat kimliği** alanında, fırsatın kimlik numarasını yazın veya yapıştırın.
 3. Ara'ya tıklayın.
 
-1. Fırsat **ayrıntılarını görüntülemek** için **POE** sütunu altındaki Görünüm'e tıklayın. Fırsatın durumunu gözden geçirme. Fırsat Gönder durumunda **ise,** ödeme sürecinde ilerlemek için Yürütme Kanıtı (POE) belgelerinin teslimi gerekir.
+1. Fırsat ayrıntılarını görüntülemek için, **Poe** sütununun altında **görüntüle** ' ye tıklayın. Fırsatın durumunu gözden geçirin. Fırsat **gönderme** durumunda ise, ödeme sürecinde Ilerlemek Için yürütme KANıTı (PoE) belgelerinin gönderilmesi gerekir.
  
-1. Tüm POE belgelerinin karşıya yüklenemez olup olduğunu kontrol etmek için Düzenle bağlantısına tıklayın. POE'nin karşıya yüklendiğinde ve EM Onay kutusunun işaretli olduğunu unutmayın.
+1. Tüm POE belgelerinin karşıya yüklenip yüklenmediğinden emin olmak için Düzenle bağlantısına tıklayın. Karşıya yüklenen POE varsa ve EM onay kutusunun işaretli olup olmadığına göz atın.
  
-1. Arama sonuçlarına geri dönüp ilgili anlaşma adına tıklar ve anlaşma ayrıntılarını alın. 
+1. Arama sonuçlarına dönün ve ilgili anlaşma adına tıklayarak anlaşma ayrıntılarını alın. 
 
-1. 4-6. adımlarda bulunan bilgilere dayanarak teşvik kazancı için en düşük gereksinimlerin karşı olup olmadığını belirleme. Herhangi bir gereksinim karşılanmazsa, şunları yapın:
+1. 4 ile 6 arasındaki adımlarda bulunan bilgilere bağlı olarak, özendirme için en düşük gereksinimlerin karşılandığını saptayın. Herhangi bir gereksinim karşılanmazsa, şunları yapın:
  
-     - POE karşıya yüklenmezse CHIP'e yüklemelisiniz.
+     - POE karşıya yüklenmediğinden, bunu YONGAYA yüklemeniz gerekir.
  
-     - CHIP'i açın ve Microsoft Hesabınızla (önceki Canlı Kimlik) oturum açın.
+     - YONGASıNı açın ve Microsoft hesabınızla (önceki Live ID) oturum açın.
  
      - **Çözüm değerlendirmeleri teşvikleri seçin.**
 
@@ -52,7 +52,7 @@ Anlaşmanız uygun Satış Aşamasına ulaşmış ve Çözüm Değerlendirme Uzm
   
      - Yeni POE menüsünde, gerekli POE belgesine gidin ve bunu seçin.
 
-     - Belgeyi karşıya yükle ' ye tıklayın.
+     - Upload belge ' ye tıklayın.
 
      - Gerekli tüm belgeleri karşıya yüklemek için bu işlemi gerektiği kadar yineleyin.
 

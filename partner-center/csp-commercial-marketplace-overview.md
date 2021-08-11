@@ -9,12 +9,12 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a899226e60e575d6c8aee003130b5390af023394
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 047738186f93e143e701794b76f8f8f1979129f94129b6fdc79c4de1196f2625
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114837722"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115690894"
 ---
 # <a name="overview-of-the-commercial-marketplace-in-partner-center"></a>İş Ortağı Merkezi'da ticari markete genel bakış
 

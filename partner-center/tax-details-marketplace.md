@@ -7,12 +7,12 @@ ms.subservice: partnercenter-marketplace-publisher
 author: jasongroce
 ms.author: davjan
 ms.date: 06/29/2021
-ms.openlocfilehash: 6f1d0805fab0488739cc35849c2fd5a64db7b35b
-ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
+ms.openlocfilehash: c534da518ff6663808d5399c268056bb9c33d2fc39fd396bf9154ae0ea83243a
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/04/2021
-ms.locfileid: "115102121"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115691804"
 ---
 # <a name="tax-details-for-commercial-marketplace-publishers"></a>Ticari market yayıncıları için vergi bilgileri
 
@@ -60,11 +60,11 @@ microsoft, microsoft 'un eylemlerin microsoft tarafından yönetilen ülkelerde 
 | Bosna-Hersek   | Gürcistan                           | Martinique            | Uruguay               |
 | Botsvana                 | Cebelitarık                         | Moritanya            | ABD Virjin Adaları     |
 | Bouvet Adası            | Grönland                         | Mauritius             | Özbekistan            |
-| Britanya Virjin Adaları   | Grenada                           | Ma Ote                | Vanuatu               |
+| Britanya Virjin Adaları   | Grenada                           | Ma ote                | Vanuatu               |
 | Brunei                   | Guadeloupe                        | Mikronezya            | Vatikan          |
 | Bulgaristan                 | Guam                              | Moldova               | Venezuela             |
 | Burkina Faso             | Guatemala                         | Moğolistan              | Vietnam               |
-| Burundi                  | Guernsey                          | Karadağ            | Wallis veUçsuzuna     |
+| Burundi                  | Guernsey                          | Karadağ            | Wallis ve Futuna     |
 | Cabo Verde               | Gine                            | Montserrat            | Yemen                 |
 | Kamboçya                 | Gine-Bissau                     | Fas               | Zambiya                |
 | Kamerun                 | Guyana                            | Mozambik            | Zimbabve              |
@@ -77,7 +77,7 @@ microsoft, microsoft 'un eylemlerin microsoft tarafından yönetilen ülkelerde 
 
 ### <a name="microsoft-managed-countries"></a>Microsoft tarafından yönetilen ülkeler
 
-| Ülkeler                | Ülkeler (devam)             | Ülkeler (devam) | Ülkeler (devam)               |
+| Ülkeler                | Ülkeler (devamı)             | Ülkeler (devamı) | Ülkeler (devamı)               |
 |--------------------------|-----------------------------------|-----------------------|-------------------------------------|
 | Ermenistan                  | Finlandiya                           | Lüksemburg            | Singapur                           |
 | Avusturya                  | Fransa                            | Malezya              | Slovakya                            |
@@ -89,73 +89,73 @@ microsoft, microsoft 'un eylemlerin microsoft tarafından yönetilen ülkelerde 
 | Kolombiya                 | Endonezya                         | Polonya                | İsviçre                         |
 | Hırvatistan                  | İrlanda                           | Portekiz              | Tayvan                              |
 | Kıbrıs                   | İtalya                             | Romanya               | Türkiye                              |
-| Çekya                  | Letonya                            | Rusya                | Birleşik Arap Emirlikleri                |
+| Czechia                  | Letonya                            | Rusya                | Birleşik Arap Emirlikleri                |
 | Danimarka                  | Liechtenstein                     | Suudi Arabistan          | Birleşik Krallık                      |
-| Estonya                  | Litvanya                         | Sırbistan                | Birleşik Devletler Riko dahil olmak üzere |
+| Estonya                  | Litvanya                         | Sırbistan                | Porto Riko dahil Birleşik Devletler |
 
 
-### <a name="end-customer-taxation-with-differences-in-marketplace"></a>Market farkları ile son müşteri vergileri
+### <a name="end-customer-taxation-with-differences-in-marketplace"></a>Market 'teki farklılıklar ile son müşteri vergilendirme
 
-|**Ülke**|**Ticari Market (Azure Market & AppSource)**| **Tüketici Marketi (Microsoft Store)**|
+|**Ülke**|**Ticari Market (Azure Marketi & AppSource)**| **Tüketici marketi (Microsoft Store)**|
 |------------------|:-----------------|:---------------|
-|Brezilya|Kurumsal bayi hariç: Publisher (CSP) müşteri satın alma senaryosu Bulut Çözümü Sağlayıcısı yapılan satın almalar için yönetilen kurumsal bayi|Geliştirici tarafından yönetilenler: Kurumsal bayi üzerinde çalışan cihazlar aracılığıyla yapılan satın almalar Windows 10|
-|Meksika|Microsoft tarafından yönetilenler hariç: Kurumsal anlaşma müşteri satın alma senaryosu aracılığıyla yapılan satın almalar için kurumsal bayi|Microsoft tarafından yönetilen|
-|Avustralya|Microsoft tarafından yönetilenler: Publisher Kurumsal anlaşma müşteri satın alma senaryosu aracılığıyla satın almalar için yönetilir|Microsoft tarafından yönetilen|
-Çin|Market etkin değil|Şu dışında etkin kurumsal bayi: Windows phone 7.x çalıştıran ve Windows 8.x çalıştıran kişisel bilgisayarlarda çalışan mobil iletişim cihazları için geliştirici tarafından yönetilen|
-| Bahreyn | Publisher yönetilen | Microsoft tarafından yönetilen                      |
-| Umman | Publisher yönetilen | Microsoft tarafından yönetilen                         |
-| Nijerya | Publisher yönetilen | Microsoft tarafından yönetilen                      |
+|Brezilya|satıcı dışında: Bulut Çözümü Sağlayıcısı (CSP) müşteri satın alma senaryosu aracılığıyla yapılan satın alımlar için Publisher yönetiliyor|Geliştirme haricinde,: Windows 10 çalıştıran cihazlar aracılığıyla yapılan satın alımlar için satıcı|
+|Meksika|Microsoft tarafından yönetilen: kurumsal anlaşma müşteri satın alma senaryosu aracılığıyla satın alımlar için satıcı|Microsoft tarafından yönetilen|
+|Avustralya|Microsoft tarafından yönetilen: kurumsal anlaşma müşteri satın alma senaryosu aracılığıyla satın alımlar için Publisher yönetiliyor|Microsoft tarafından yönetilen|
+Çin|Market etkin değil|satıcının etkin olduğu durum: Windows phone 7. x çalıştıran ve Windows 8. x çalıştıran kişisel bilgisayarlarda bulunan mobil iletişim cihazları için geliştirici yönetiliyor|
+| Bahreyn | Publisher yönetiliyor | Microsoft tarafından yönetilen                      |
+| Umman | Publisher yönetiliyor | Microsoft tarafından yönetilen                         |
+| Nijerya | Publisher yönetiliyor | Microsoft tarafından yönetilen                      |
 
 
-## <a name="tax-considerations-on-payouts"></a>Ödemelerde vergiyle ilgili dikkat edilmesi gerekenler
+## <a name="tax-considerations-on-payouts"></a>Ödemeler ile ilgili vergi konuları
 
-Yayımcılar/Geliştiriciler tarafından yönetilen ülkelerde, Yayımcılar/Geliştiricilere Microsoft ödemesi mağaza ücretine ve geçerli vergilere tabidir. Bu vergiler şunlardan herhangi birini içerebilir: stopaj vergisi ve satış, kullanım, mal ve hizmetler, mağaza ücretine eklenen değer veya benzer vergiler.
+Yayımcılar/geliştiriciler tarafından yönetilen ülkelerde, Microsoft, yayımcıların/geliştiricilerin ağı, mağaza ücretine ve geçerli olan tüm vergilere göre yapılır: Bu, mağaza ücretine göre, katma vergi ve satış, kullanım, mal ve hizmetler, katma değer veya benzer vergiler içerir.
 
-Geçerli Microsoft tarafından yönetilen ülkelerde ve Kurumsal Bayilerde, Yayımcılar/Geliştiricilere Microsoft ödemesi mağaza ücretine ve geçerli vergilere tabidir. Bu vergiler şunlardan herhangi birini içerebilir: Son Müşteri Vergisi, stopaj vergisi ve satış, kullanım, mal ve hizmetler, mağaza ücretine eklenen değer veya benzer vergiler. [Microsoft'un](payout-statement.md) Yayımcılar/Geliştiriciler tarafından kullanılabilir olduğu raporlar, bu vergilerin miktarını tanımlar. 
+Microsoft tarafından yönetilen ilgili ülkelerde ve satıcılardan, Microsoft, yayımcıların/geliştiricilerin Mağazası ücretine ve geçerli olan vergilere göre yapılır: son müşteri vergi, stopaj vergisi ve satış, kullanım, mal ve hizmetler, katma değer veya mağaza ücretine benzer vergiler. Microsoft 'un yayımcılar/geliştiriciler için kullanılabilir hale getiren [raporlar](payout-statement.md) bu vergilerin miktarını belirler. 
 
-Microsoft, Yayımcıların/Geliştiricilerin ürünler/teklifler aracılığıyla son müşterilere satış için kullanılabilir hale gelen ürünleri/teklifleri aşağıdaki ülkelerdeki mağaza ücretlerine Microsoft Market toplar:
+Microsoft, yayımcıların/geliştiricilerin, Microsoft Market (s) üzerinden son müşterilere satışa sunulmasını sağlayan aşağıdaki ülkelerde, mağaza ücretleri üzerinde vergi toplar:
 
-|**Ülke**|**Ticari Market**|**Tüketici Marketi**|
+|**Ülke**|**Ticari Market**|**Tüketici marketi**|
 |----------------|-----------------------------|-----------------------|
-|Avustralya|Hizmet ücreti vergisi|Hizmet ücreti vergisi|
-|Kanada|Hizmet ücreti vergisi|Hizmet ücreti vergisi|
-|Meksika|Yok|Hizmet ücreti vergisi|
-|Yeni Zelanda|Hizmet ücreti vergisi|Hizmet ücreti vergisi|
-|Singapur|Hizmet ücreti vergisi|Hizmet ücreti vergisi|
+|Avustralya|Hizmet ücreti üzerinden vergi|Hizmet ücreti üzerinden vergi|
+|Kanada|Hizmet ücreti üzerinden vergi|Hizmet ücreti üzerinden vergi|
+|Meksika|Yok|Hizmet ücreti üzerinden vergi|
+|Yeni Zelanda|Hizmet ücreti üzerinden vergi|Hizmet ücreti üzerinden vergi|
+|Singapur|Hizmet ücreti üzerinden vergi|Hizmet ücreti üzerinden vergi|
 
 ## <a name="commercial-marketplace-payout-scenarios"></a>Ticari Market ödeme senaryoları
 
-### <a name="end-customer-taxation"></a>Son müşteri vergileme
+### <a name="end-customer-taxation"></a>Son müşteri vergilendirme
 
-- Senaryo 1: Yönetilen Publisher müşteri teklif satın almaktadır
+- senaryo one: Publisher yönetilen bir ülkede müşteri, teklif satın alır
 
-  :::image type="content" source="images/tax/scenario-one.png" alt-text="Yayımcının nasıl ödemesi olduğunu gösteren grafik.":::
+  :::image type="content" source="images/tax/scenario-one.png" alt-text="Yayımcının nasıl ödeme yapıldığını gösteren grafik.":::
 
-- Senaryo iki: Microsoft tarafından yönetilen bir ülkede müşteri teklif satın almaktadır (Publisher ilgisiz)
+- senaryo iki: Microsoft tarafından yönetilen bir ülkede müşteri teklifi satın alır (Publisher ülkeye ilgisiz)
 
-  :::image type="content" source="images/tax/scenario-two.png" alt-text="Microsoft tarafından yönetilen ülkede vergileri gösteren grafik.":::
+  :::image type="content" source="images/tax/scenario-two.png" alt-text="Microsoft tarafından yönetilen ülkede vergilendirme gösteren grafik.":::
 
-- Senaryo üç: Yabancı yayımcı, Microsoft tarafından yönetilen bir ülkede bulunan AB'nin katma değerli vergi (KDV) Kayıtlı Müşterisi'ne sınırlar arası satış yapar
+- Senaryo üç: yabancı Yayımcı, Microsoft tarafından yönetilen bir ülkede bulunan AB-değerli vergi (KDV) kayıtlı müşterisi için çapraz sınır satışı yapar
 
-  :::image type="content" source="images/tax/scenario-three.png" alt-text="EU-KDV'nin vergiyi nasıl etkilediğini gösteren grafik."::: 
+  :::image type="content" source="images/tax/scenario-three.png" alt-text="AB-KDV 'nin vergiyi nasıl etkilediğini gösteren grafik."::: 
 
-- Senaryo dört: Yabancı yayımcı, Microsoft tarafından yönetilen bir ülkede bulunan bir Müşteriye veya İsviçre'deki bir Müşteriye yerel olmayan bir satış yapar
+- Senaryo dört: yabancı Yayımcı, Microsoft tarafından yönetilen bir ülkede ya da Isviçre 'deki bir müşteriye ait yurtiçi olmayan bir satışla bir müşteriye yurtiçi satışı yapar
 
-  :::image type="content" source="images/tax/scenario-four.png" alt-text="KDV'nin nasıl iş olduğunu gösteren grafik.":::
+  :::image type="content" source="images/tax/scenario-four.png" alt-text="KDV 'nin nasıl işlendiğini gösteren grafik.":::
 
-- Senaryo beş: Microsoft tarafından yönetilen bir ülkede müşteri, Mağaza Hizmeti Ücreti üzerinden verginin olduğu bir teklif satın almaktadır
+- Senaryo beş: Microsoft tarafından yönetilen bir ülkede müşteri, mağaza servisi ücreti üzerinden vergi olduğunu bir teklif satın alır
 
-  :::image type="content" source="images/tax/scenario-five.png" alt-text="Mağaza hizmet ücretinin vergiyi nasıl etkilediğini gösteren grafik.":::
+  :::image type="content" source="images/tax/scenario-five.png" alt-text="Mağaza hizmeti ücretinin vergiyi nasıl etkilediğini gösteren grafik.":::
 
 ### <a name="withholding-tax"></a>Stopaj vergisi
 
-- Senaryo bir: Yabancı yayımcı (vergi profilinde geçerli vergi muafiyeti avantajları yoktur) ABD müşterisini satışa sunar. 
+- Senaryo bir: yabancı Yayımcı (vergi profilinde geçerli vergi anlaşmalar avantajları olmadan) bizim müşterimizi bir satış yapar. 
 
-  :::image type="content" source="images/tax/withholding-one.png" alt-text="Vergi stopaj vergisinin vergiyi ödemeden gösteren grafik.":::
+  :::image type="content" source="images/tax/withholding-one.png" alt-text="Vergi anlaşmalar olmadan stopaj vergisini gösteren grafik.":::
 
-- Senaryo iki: Yabancı yayımcı (vergi profilinde vergi indirimi avantajlarına sahip olan ve yüzde sıfır oranına sahip olan) bir satıcı ABD müşterisini satışa sunar. 
+- Senaryo iki: yabancı Yayımcı (vergi profili için geçerli vergi uyumluluk avantajları ile yüzde 0 oranına sahip olan), bir anlaşmalar müşterinize bir satış yapar. 
 
-  :::image type="content" source="images/tax/withholding-two.png" alt-text="Vergi stopajı vergisini gösteren grafik.":::
+  :::image type="content" source="images/tax/withholding-two.png" alt-text="Vergi anlaşmalar ile stopaj vergisini gösteren grafik.":::
 
 ## <a name="next-steps"></a>Sonraki adımlar
 

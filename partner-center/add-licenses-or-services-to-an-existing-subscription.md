@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 123a7dd8bc730ffae06532746cf45849f4ff002f
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: c4c8ce447901847011ec160259cce2614d90e2fe45ff261e728e47c3c6d34a91
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114839405"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115685420"
 ---
 # <a name="add-licenses-or-more-services-to-a-customers-subscription"></a>Müşterinin aboneliğine lisans veya daha fazla hizmet ekleme
 
@@ -41,7 +41,7 @@ Bu koşullar geçerli olursa abonelikler yükseltilebilir:
 
 - Aboneliğin etkin olması (askıya alınmış veya iptal edilmiş değil) olması gerekir.
 
-- Bu müşteri ve hizmet için yönetici ayrıcalıkları temsilciniz olmalıdır. Yönetici ayrıcalıkları için [temsilci talep etmeyi öğrenin.](request-a-relationship-with-a-customer.md)
+- Bu müşteri ve hizmet için yönetici ayrıcalıkları temsilcisine sahip olmanız gerekir. Yönetici ayrıcalıkları için [temsilci talep etmeyi öğrenin.](request-a-relationship-with-a-customer.md)
 
 - Müşterinin ek hizmetleri içeren abonelikleri zaten yoktur.
 
@@ -59,7 +59,7 @@ Faturalamanın etkisi hakkında daha fazla bilgi için Bkz. Yaygın faturalama s
 
 3. Yeni teklifi ve ardından Gönder'i **seçin.**
 
-4. Bazı hizmetler için bazı kullanıcı hesaplarının geçişe yönelik ek çalışmalar olabilir. Öyleyse, İş Ortağı Merkezi etkilenen hesapların ve hizmetlerin listesini sağlar. Yardım için, Office 365'de planlar arasında geçiş yaparken lisansları yeniden atama sorunları [bilgi bankası makalesine Office 365.](/microsoft-365/commerce/subscriptions/switch-to-a-different-plan)
+4. Bazı hizmetler için bazı kullanıcı hesaplarının geçişe yönelik ek çalışmalar olabilir. Bu durumda, İş Ortağı Merkezi etkilenen hesapların ve hizmetlerin listesini sağlar. Yardım için, Office 365'da planlar arasında geçiş yaparken lisansları yeniden atama sorunları [bilgi bankası makalesine Office 365.](/microsoft-365/commerce/subscriptions/switch-to-a-different-plan)
 
 
 ## <a name="next-steps"></a>Sonraki adımlar

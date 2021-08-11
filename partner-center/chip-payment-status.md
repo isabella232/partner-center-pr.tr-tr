@@ -9,12 +9,12 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4bd3ff28dbc0ff159a68827735b81be5ac1eb948
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 680e3e284f8226f3f6ee0faeb89a4ab0fd689861a1d2fe47fefc7f48f3a8365f
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110148899"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115692696"
 ---
 # <a name="check-payment-status-in-the-channel-incentives-platform-chip"></a>Channel teşvikleri platformunda (yonga) ödeme durumunu denetleme
 
@@ -23,15 +23,15 @@ ms.locfileid: "110148899"
 >[!NOTE]
 >YONGA platformu 2021 sonunda kullanımdan kaldırılacaktır.
 
-## <a name="payment-status-for-the-enterprise-and-splar-programs"></a>Kurumsal ve SPLAR programları için ödeme durumu
+## <a name="payment-status-for-the-enterprise-and-splar-programs"></a>Enterprise ve splar programları için ödeme durumu
 
-Işletme ve SPLAR programları için YONGADAKI ödeme durumunuzu denetlemek için lütfen aşağıdaki adımları izleyin:
+Enterprise ve splar programları için yongadaki ödeme durumunuzu denetlemek için lütfen aşağıdaki adımları izleyin:
 
 1. YONGASıNDA oturum açın.
  
-1. Panoyu açmak için yonga giriş ekranındaki **Kurumsal** veya **splar** program bağlantısını seçin. Pano, tüm kazanç ve ödemelerden oluşan Özet ekrandır.
+1. panoyu açmak için yonga giriş ekranındaki **Enterprise** veya **splar** program bağlantısını seçin. Pano, tüm kazanç ve ödemelerden oluşan Özet ekrandır.
  
-1. Kazanç, ödemeler veya hesaplamaların tüm ayrıntılarını indirmek için, **Seç** açılan listesinden **Excel 'e aktar** ' ı seçin.
+1. kazanç, ödemeler veya hesaplamaların tam ayrıntılarını indirmek için, **seç** açılan listesinden **Excel dışa aktar** ' ı seçin.
 
 ## <a name="next-steps"></a>Sonraki adımlar
 

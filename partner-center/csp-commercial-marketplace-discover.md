@@ -9,12 +9,12 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bd1f9d0a881021fc97bbf94eb190acb6e6e69f14
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 0b0e5e56a73a77d20c70468740653e99419dea6dea900b043730ed9a4524d85b
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114837756"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115690962"
 ---
 # <a name="discover-offers-and-pricing-in-partner-center-commercial-marketplace"></a>Ticari markette teklifleri İş Ortağı Merkezi fiyatlandırmayı keşfetme
 
@@ -28,9 +28,9 @@ IsV teklifi, daha önce beklediğiniz gibi görünmüyorsa İş Ortağı Merkezi
 
 - ISV, teklifi yalnızca belirli bir CSP iş ortağı sayısına özel hale etmeye karar verdi. Özel teklifler hakkında daha fazla bilgi için bu yardım konusunun sonraki konu başlığına bakın.
 
-- Teklif türü, kapsayıcılar veya İş Ortağı Merkezi Azure portal (örneğin, kapsayıcılar veya bazı kullanım tabanlı teklifler) aracılığıyla işlem gerçekleştirilebilir olabilir.
+- Teklif türü, kapsayıcılar veya İş Ortağı Merkezi Azure portal (örneğin kapsayıcılar veya bazı kullanım tabanlı teklifler) aracılığıyla işlem gerçekleştirilebilir olabilir.
 
-- İlişkili müşterinizin fatura ülkesi bu ISV teklifi için desteklenmiyor olabilir.
+- bu ISV teklifi için ilişkili müşterinizin fatura ülkesi desteklenmiyor olabilir.
 
 ## <a name="view-marketplace-offers-in-partner-center"></a>Market tekliflerini İş Ortağı Merkezi
 
@@ -86,7 +86,7 @@ CSP programı iş ortağı olarak, belirli ticari market teklifleriyle ilişkili
 
 ISV'ler tekliflerini yalnızca CSP programında belirli iş ortakları tarafından kullanılabilir yapma seçeneğine sahip olabilir. Bu, Özel teklif olarak bilinir. CSP programıyla tüm iş ortakları, Özel olarak işaretlenen teklifler de dahil İş Ortağı Merkezi ticari markette tüm ISV tekliflerini görüntülemeye devam ediyor.
 
-Bir teklif Özel **olarak** işaretlenmemişse, tüm iş ortakları bu teklifi satın alır (seçilen müşterinin fatura ülkesi ISV'nin teklifinin ülke kullanılabilirliğiyle eş olduğu varsayıldı).
+Bir teklif Özel **olarak** işaretlenmemişse, tüm iş ortakları bu teklifi satın alır (seçilen müşterinin fatura ülkesi ISV'nin teklifinin ülke kullanılabilirliğiyle eşlemektedir).
 
 Ancak Özel olarak işaretlenen tüm tekliflere yalnızca ISV tarafından seçilen iş ortakları bu teklifi satın alma seçeneğine sahip olur.
 

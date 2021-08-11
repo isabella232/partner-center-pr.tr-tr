@@ -9,12 +9,12 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4304d57e122adcfbb36cf32a302d316174b26d90
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 8108177d54bafae09c7432530999d6c240a26618caecc3f53207b7135afdf621
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114837773"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115690979"
 ---
 # <a name="contracts-for-csp-partners-doing-business-in-the-commercial-marketplace"></a>Ticari markette iş yapan CSP iş ortakları için sözleşmeler
 
@@ -28,7 +28,7 @@ Bu makale, CSP programı içinde ticari marketten veya marketten müşterileri i
 İş ortakları CSP sözleşmelerini zaten imzalamışsa, ticari market tekliflerini satmak için yeniden oturum açmaları gerek değildir. Geçerli CSP anlaşmaları, geçerli Microsoft İş Ortağı Sözleşmesi (MPA) ve önceki Microsoft Bulut Kurumsal Bayi Sözleşmesi (MCRA) veya Microsoft Bulut Dağıtımcı Sözleşmesi'ne (MCDA) dahildir.
 
 >[!NOTE]
-> Bazı ticari market teklifleri CSP programında iş ortağı, Bağımsız Yazılım Satıcısı (ISV) ve/veya müşteri arasında ek sözleşmeler gerektirir. Müşteriye, bu müşteri tarafından sipariş edilen her ISV teklifiyle ilişkili uygun Müşteri Sözleşmesi'nin isv tarafından sağlansa da sorumluluğu ISV'nin sorumluluğundadır.
+> Bazı ticari market teklifleri CSP programında iş ortağı, Bağımsız Yazılım Satıcısı (ISV) ve/veya müşteri arasında ek sözleşmeler gerektirir. IsV'nin sorumluluğu müşteriye bu müşteri tarafından sipariş edilen her ISV teklifiyle ilişkili uygun Müşteri Sözleşmesi sağlamaktır.
 
 ## <a name="specific-marketplace-contract-areas-and-distinctions-for-csp-partners"></a>CSP iş ortakları için belirli market sözleşme alanları ve ayrımları
 

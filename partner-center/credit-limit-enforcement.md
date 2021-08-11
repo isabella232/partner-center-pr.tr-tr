@@ -1,76 +1,76 @@
 ---
-title: Kredi limiti zorlama
+title: Kredi limiti zorlaması
 ms.topic: how-to
 ms.date: 05/11/2021
-description: Kredi limitini ve nasıl hesaplanmış olduğunu öğrenin. SSS'yi içerir.
+description: Kredi limiti ve nasıl hesaplandığı hakkında bilgi edinin. SSS içerir.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-billing
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 32dc94a4bd85160a02a4be880469f713d98449ba
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: e0b3f29c3aa6a2e14df3bd87e3c395924702093e680929c8f4e433785d17e0cb
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114837977"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115691064"
 ---
-# <a name="credit-limit-enforcement-cle"></a>Kredi limiti zorlama (CLE)
+# <a name="credit-limit-enforcement-cle"></a>Kredi limiti zorlaması (CLE)
 
-**Uygun roller:** Faturalama yöneticisi
+**Uygun roller**: Faturalandırma Yöneticisi
 
-## <a name="your-credit-limit-and-how-it-works"></a>Kredi limiti ve nasıl çalıştığını
+## <a name="your-credit-limit-and-how-it-works"></a>Kredi limiti ve nasıl çalıştığı
 
-Kredi limitiniz, iş ortağı olarak bir iş ortağının belirli bir yıl içinde ürün veya abonelik satın almak için harcayabilirsiniz maksimum İş Ortağı Merkezi. Kredi limitini aşarsanız, yeterli ödeme yapılana kadar yeni satın almalar yapamazsiniz. Mevcut abonelikleriniz kesintisiz olarak devam eder.
+Kredi limiti, iş ortağı merkezi 'nde ürün veya abonelik satın almak için bir iş ortağı olarak kullandığınız maksimum tutardır (ABD Doları cinsinden). Kredi sınırınızı aşarsanız, yeterli ödeme yapılıncaya kadar yeni satın alma işlemleri yapamamaktadır. Mevcut abonelikleriniz kesintisiz olarak devam edecektir.
 
-Kredi limitleri Azure planı, Azure rezervasyonları, Yazılım, Market, Azure 145 P, Office ve Dynamics ürünleri için geçerlidir. Kredi limitleri yenilemeler ve devam eden tüketim için geçerli değildir.
+kredi limitleri azure planı, azure ayırmaları, yazılım, market, Azure 145 P, Office ve Dynamics ürünleriyle sunulan tekliflere uygulanır. Kredi limitleri, yenilemeler ve sürekli tüketim için geçerlidir.
 
-Ekleme döneminiz boyunca kredi limitini kiracı düzeyinde atariz. Bunu tahmini gelir, satın alma gücü ve ödeme geçmişinize göre temel alırız. Ardından kullanılabilir bakiyenizi hesaplamak için aşağıdaki formülü kullanıruz:
+Kredi sınırınızı, ekleme süreniz boyunca kiracı düzeyinde atarsınız. Bu, tahmini gelirinize, prowess ve ödeme geçmişine dayandırıyoruz. Daha sonra, kullanılabilir bakiyenizi hesaplamak için aşağıdaki formülü kullanıyoruz:
 
-**[Kredi Limiti – (Gelen Satın Alma + Ödenmemiş Faturalar + Faturalanmamış Ücretler – Fazla Ödeme)]**
+**[Kredi limiti – (gelen satınalma + bekleyen ücretsiz faturalar + faturalandırılmamış ücretler – fazla kullanım)]**
 
 ## <a name="frequently-asked-questions"></a>Sık Sorulan Sorular
 
-### <a name="is-my-credit-limit-set-at-the-tenant-or-global-level"></a>Kredi limitim kiracıda mı yoksa genel düzeyde mi ayarlanmış?
+### <a name="is-my-credit-limit-set-at-the-tenant-or-global-level"></a>Kredi sınırım kiracı veya küresel düzeyde mi ayarlı?
 
-Kiracı düzeyi. Örneğin ABD, Kanada ve Japonya'dan faaliyette olduğunu varsayalım. Kanada kiracısı kredi sınırına ulaşırsa bu kiracı, kanada'da satın alma girişiminde İş Ortağı Merkezi. Diğer kiracılar etkilenmez. 
+Kiracı düzeyi. Örneğin, ABD, Kanada ve Japonya 'dan çalıştığınızı varsayalım. Kanada kiracısı kredi sınırına ulaşırsa, bu kiracı Iş Ortağı Merkezi 'nde satın almayı denediklerinde bir bildirim alır. Diğer kiracılar etkilenmeyecektir. 
 
-### <a name="if-i-exceed-my-credit-limit-can-i-continue-servicing-existing-customers-and-subscriptions-with-full-access"></a>Kredi limitimi aşarsa, mevcut müşterilere ve aboneliklere tam erişimle hizmet vermeye devam miyim?
+### <a name="if-i-exceed-my-credit-limit-can-i-continue-servicing-existing-customers-and-subscriptions-with-full-access"></a>Kredi sınırınızı aşsam, var olan müşterilere ve aboneliklere tam erişimle hizmet vermeye devam edebilir miyim?
 
-Evet. Müşterilerin mevcut abonelikleri kesintisiz olarak devam eder. Ancak, müşterileriniz için yeni abonelikler satın aamazsınız.
+Evet. Müşterilerinizin mevcut abonelikleriniz kesinti olmadan devam edecektir. Ancak, müşterileriniz için yeni abonelikler satın alamaz.
 
-### <a name="does-cle-apply-to-both-direct-bill-partners-and-indirect-providers"></a>CLE hem doğrudan fatura iş ortakları hem de dolaylı sağlayıcılar için geçerli mi?
+### <a name="does-cle-apply-to-both-direct-bill-partners-and-indirect-providers"></a>Hem doğrudan fatura ortakları hem de dolaylı sağlayıcılar için su geçerlidir mı?
 
 Evet, her ikisi için de geçerlidir.
 
-### <a name="after-i-submit-my-payment-to-reinstate-my-account-when-can-i-purchase-more-subscriptions"></a>Hesabımı yeniden iade etmek için ödememi gönderdikten sonra, ne zaman daha fazla abonelik satın a bilmiyorum? 
+### <a name="after-i-submit-my-payment-to-reinstate-my-account-when-can-i-purchase-more-subscriptions"></a>Ödemem daha sonra hesabım halinde gönderdikten sonra daha fazla abonelik satın alabilir miyim? 
 
-Microsoft'un kredi denetimi işlemine devam etmek için tüm gereksinimleri aldığı varsayıldı ise, ödemenizi 24 saat içinde satın almayı sürdürebilirsiniz.
+Microsoft 'un kredi denetimi sürecine devam etmek için tüm gereksinimleri aldığı varsayılırsa, ödemenizin 24 saat içinde satın alınması devam edebilir.
 
-### <a name="how-can-i-check-my-credit-limit"></a>Kredi limitimi nasıl kontrol miyim?
+### <a name="how-can-i-check-my-credit-limit"></a>Kredi sınırınızı nasıl denetlerim?
 
-Kredi [ucmwrcsp@microsoft.com](mailto:ucmwrcsp@microsoft.com) limitini görmek ve son satın almalar hakkında bilgi almak için ile iletişime geçin.
+[ucmwrcsp@microsoft.com](mailto:ucmwrcsp@microsoft.com)Kredi sınırınızı görmek ve son satın alımlarla ilgili bilgi almak için iletişim kurun.
 
-### <a name="do-invoices-that-are-in-dispute-count-against-the-credit-limit"></a>İtiraz konusu olan faturalar kredi limiti üzerinde sayılır mı?
+### <a name="do-invoices-that-are-in-dispute-count-against-the-credit-limit"></a>İtiraz durumunda olan faturalar kredi limitine karşı yapılsın mı?
 
-Evet. Bununla birlikte, sorunu çözmek için microsoft [ucmwrcsp@microsoft.com](mailto:ucmwrcsp@microsoft.com) ile iletişime geçin.
+Evet. Bununla birlikte, sorunu çözmek için Microsoft ile iletişim kurun [ucmwrcsp@microsoft.com](mailto:ucmwrcsp@microsoft.com) .
 
-### <a name="how-soon-will-i-hear-back-if-i-write-to-ucmwrcspmicrosoftcom"></a>'a yazarsanız ne kadar kısa süre sonra geri ucmwrcsp@microsoft.com dinleyeceğiz?
+### <a name="how-soon-will-i-hear-back-if-i-write-to-ucmwrcspmicrosoftcom"></a>Yazdığımda ne kadar süre sonra geri almam gerekir ucmwrcsp@microsoft.com ?
 
-Yanıtın 24 saatten kısa bir sürede yanıta sahip olması gerekir. 
+24 saatten az bir yanıt almanız gerekir. 
 
-### <a name="what-criteria-does-microsoft-use-for-setting-a-partners-credit-limit"></a>Microsoft, iş ortağının kredi limitini ayarlarken hangi ölçütleri kullanır?
+### <a name="what-criteria-does-microsoft-use-for-setting-a-partners-credit-limit"></a>Microsoft, iş ortağının kredi limitini ayarlamak için hangi kriterleri kullanır?
 
-Kredi limitini tahmin edilen gelir, satın alma gücü ve ödeme geçmişinize göre belirleriz.
+Kredi sınırınızı tahmini gelirinize, satın alma destekine ve ödeme geçmişine göre belirliyoruz.
 
-### <a name="is-the-credit-limit-currently-enforced-on-the-new-commerce-experience"></a>Kredi limiti şu anda Yeni Ticaret Deneyimi'ne mi uygulanıyor?
+### <a name="is-the-credit-limit-currently-enforced-on-the-new-commerce-experience"></a>Kredi limiti Şu anda yeni ticaret deneyiminde zorlansın mı?
 
-Evet. Kredi limitleri, tüm csP programlarına ve ürünlerine İş Ortağı Merkezi.
+Evet. Kredi limitleri, Iş ortağı merkezindeki tüm CSP programları ve ürünleri için geçerlidir.
 
-### <a name="who-will-receive-the-notification-when-my-organization-is-nearing-its-credit-limit"></a>Who kredi limiti aşacaksa bildirim alacak musunuz?
+### <a name="who-will-receive-the-notification-when-my-organization-is-nearing-its-credit-limit"></a>kuruluşum kredi sınırına yaklaştığı zaman Who bildirimi alacak mı?
 
-Bildirimin, kuruluşun Finans Hesabı Borç ilgili kişisi tarafından verilmesi gerekir.
+Kuruluşunuzun finans hesabı borçları ilgili kişisi bildirimi almalıdır.
 
 ## <a name="next-steps"></a>Sonraki adımlar
 

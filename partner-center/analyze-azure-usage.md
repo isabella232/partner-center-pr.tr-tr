@@ -1,6 +1,6 @@
 ---
-title: İşletmenizi büyümesine yardımcı olmak için Azure kullanımını analiz etme
-description: Müşterinizin Azure İş Ortağı Merkezi hakkında veri almak için İş Ortağı Merkezi kullanmayı öğrenin. Veriler satılan, risk altında ve kullanımda olan abonelikleri içerir.
+title: İşletmenizin büyümesine yardımcı olması için Azure kullanımını çözümleyin
+description: Müşterilerinizin Azure aboneliklerinin kullanımı hakkında veri almak için Iş Ortağı Merkezi 'ni nasıl kullanacağınızı öğrenin. Veriler, satılan ve kullanımda olan abonelikleri içerir.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-insights
 author: amitravat
@@ -9,59 +9,59 @@ ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/01/2020
-ms.openlocfilehash: d26fe1c71a574ed58ca227979cda445950873596
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 4dcf777cc4f6e7c7e16276b0275bf62dd927a833b892152c68366558ac42e86a
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114839133"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115685148"
 ---
-# <a name="get-data-about-how-well-your-customers-and-azure-subscriptions-are-doing"></a>Müşterilerin ve Azure aboneliklerin ne kadar iyi olduğu hakkında veri edinin
+# <a name="get-data-about-how-well-your-customers-and-azure-subscriptions-are-doing"></a>Müşterilerinizin ve Azure aboneliklerinizin ne kadar iyi yaptığına ilişkin verileri alın
 
 
 
-**Uygun roller:** Genel yönetici | Kullanıcı yönetimi yönetici | Yönetici aracısı | Satış aracısı
+**Uygun roller**: genel yönetici | Kullanıcı Yönetimi Yöneticisi | Yönetici Aracısı | Satış Aracısı
 
-Veriler iş kararlarını verir. Başarılarınızı ve daha fazla **dikkat gereken** alanları belirlemek için Azure kullanım sayfasındaki ölçümleri kullanın. Yeni iş hedeflerini planlarken bu bilgileri kullanın.
+Veri sürücüleri iş kararları. **Azure kullanımı** sayfasındaki ölçümleri, daha fazla ilgilenilmesi gereken başarıları ve alanlarınızı belirlemek için kullanın. Yeni iş hedeflerini planlarken bu bilgileri kullanın.
 
-Azure kullanımına **almak için panoda** İş Ortağı Merkezi [açın.](https://partner.microsoft.com/dashboard) İş Ortağı Merkezi  menüsünde Analiz'i ve ardından **Azure kullanımı'ı seçin.**
+**Azure kullanımına** ulaşmak Için Iş Ortağı Merkezi [panosunda](https://partner.microsoft.com/dashboard)oturum açın. Iş Ortağı Merkezi menüsünden **analiz** ' ı seçin ve ardından **Azure kullanımı**' nı seçin.
 
 > [!NOTE]
-> Azure kullanım analizi yalnızca iş ortağı programı Bulut Çözümü Sağlayıcısı kullanılabilir.
+> Azure kullanım analizi yalnızca Bulut Çözümü Sağlayıcısı programdaki iş ortakları için kullanılabilir.
 
 Aşağıdaki ölçümleri izliyoruz:
 
 ## <a name="summary"></a>Özet
 
-- **Satılan toplam Azure aboneliği** sayısı: Belirtilen süre içinde satılan abonelik sayısı  
-- **Kullanımı olan müşteriler:** Belirtilen zaman dönemi içinde Azure kullanımı olan müşterilerin sayısı  
-- **Kullanımı olmayan müşteriler:** Belirtilen süre içinde Azure kullanımı olmayan müşterilerin sayısı  
+- **Satılan toplam Azure aboneliği**: belirtilen dönemde satılan abonelik sayısı  
+- **Kullanım olan müşteriler**: belirtilen dönemde Azure kullanımı olan müşteri sayısı  
+- **Kullanım olmayan müşteriler**: belirtilen dönemde Azure kullanımı olmayan müşterilerin sayısı  
 
-## <a name="top-5-customers-in-category"></a>Kategorideki ilk 5 müşteri
+## <a name="top-5-customers-in-category"></a>Kategoride ilk 5 müşteri
 
-- Belirtilen kategori için ilk 5 müşteri  
+- Belirtilen kategori için en iyi 5 müşteri  
 
 ## <a name="azure-subscriptions-at-risk"></a>Risk altında Azure abonelikleri
 
-Bu bölüm, Azure abonelikleri için tahmin edilen veri kaynağı riskini gösterir. Bu bilgiler, iş ortakları tarafından müşterilerle etkileşime ve dalgalanmayı en aza indirmek için kullanılabilir
+Bu bölüm, Azure aboneliklerine yönelik tahmini dalgalanma riskini gösterir. Bu bilgiler, iş ortakları tarafından müşterilerle etkileşim kurmak ve karmaşıklığı en aza indirmek için kullanılabilir
 
-## <a name="subscriptions-without-usage"></a>Kullanımı olmayan abonelikler
+## <a name="subscriptions-without-usage"></a>Kullanım olmadan abonelikler
 
-- Belirtilen süre içinde Azure kullanımı olmayan belirli aboneliklerin listesi  
+- Belirtilen dönemde Azure kullanımı olmayan belirli aboneliklerin listesi  
 
-## <a name="azure-subscription-churn"></a>Azure abonelik verisi
+## <a name="azure-subscription-churn"></a>Azure aboneliği karmaşıklığı
 
-- **Etkin abonelikler:** Tarihe göre etkin abonelik sayısı  
-- **Askıya alınan abonelikler:** Tarihten itibaren yeniden askıya alınan veya askıya alınan aboneliklerin sayısı  
+- **Etkin Abonelikler**: tarihe göre etkin abonelik sayısı  
+- Sağlaması **kaldırılmış abonelikler**: tarihe göre sağlanan veya askıya alınan abonelik sayısı  
 
 ## <a name="customer-count"></a>Müşteri sayısı
 
-- Belirtilen süre içinde yeni müşteriler elde edildi  
+- Belirtilen dönemde yeni müşteriler alındı  
 
-## <a name="azure-subscription-retention"></a>Azure aboneliği saklama
+## <a name="azure-subscription-retention"></a>Azure abonelik bekletme
 
 - Yenilenen aboneliklerin sayısı.
 
  ## <a name="next-steps"></a>Sonraki adımlar
 
-- [Müşteriler için Azure planını satın & ve en son Azure hizmetlerine, sizin için öde fiyatlarıyla erişin](purchase-azure-plan.md)
+- [Kullandıkça Öde tarifesine en son Azure hizmetlerine erişmek & müşteriler için Azure planı satın alın](purchase-azure-plan.md)

@@ -8,12 +8,12 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 09/11/2020
-ms.openlocfilehash: d315ac84f73676f8ef21d3fc5a1cded80fb32e4d
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 5e11205a0fab31c7d70b5809b4c161169a9ba2c7809c8e2ecdc7536ab87a8d81
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114845270"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115690741"
 ---
 # <a name="use-these-resources-to-help-you-create-incentives-plans-and-proofs-of-execution"></a>Teşvikleri planları ve yürütme provalarını oluşturmanıza yardımcı olması için bu kaynakları kullanın
 

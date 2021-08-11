@@ -7,18 +7,18 @@ author: Guyshu
 ms.author: gushuchm
 ms.date: 03/12/2021
 ms.custom: contperf-fy21q3
-ms.openlocfilehash: 26de300413e9b718545489b1ab4a3aa6a0286bf3
-ms.sourcegitcommit: 062ee7d60eb552b25b4dc7cd2493da0a0a267635
+ms.openlocfilehash: 0992dadecdcce4e001df221735e1de3ab437a5f75f7f0138869ccc94be363df5
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 03/16/2021
-ms.locfileid: "103486895"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115685673"
 ---
 # <a name="what-is-microsoft-appsource"></a>Microsoft AppSource nedir?
 
 Microsoft AppSource, sektör lideri yazılım sağlayıcıları tarafından oluşturulan binlerce iş uygulaması ve hizmeti içeren çevrimiçi bir depodur. İşinizi çalıştırmanıza yardımcı olan iş yazılımı ve hizmetlerini bulmak, denemek, Satın almak ve dağıtmak için AppSource 'u kullanabilirsiniz.
 
-AppSource Catalog, hizmet olarak yazılım (SaaS) uygulamaları, Microsoft Azure, Dynamics 365, Microsoft 365, Power BI, Power Apps ve Microsoft iş ortaklarından danışmanlık hizmetleri için oluşturulmuş çözümler içerir. [https://appsource.microsoft.com](https://appsource.microsoft.com)Microsoft 365, Dynamics 365 ve Microsoft Power platform 'daki ürün içi deneyimle veya Içinde AppSource ürün kataloğuna erişin. AppSource 'taki çözümler, bulut çözümü sağlayıcısı programındaki Microsoft satıcılarından da bulunabilir.
+appsource catalog, hizmet olarak yazılım (SaaS) uygulamaları, Microsoft Azure, Dynamics 365, Microsoft 365, Power BI, Power Apps ve Microsoft iş ortaklarından danışmanlık hizmetleri için oluşturulmuş çözümler içerir. [https://appsource.microsoft.com](https://appsource.microsoft.com)Microsoft 365, Dynamics 365 ve Microsoft Power Platform 'daki ürün içi deneyimle veya içinde appsource ürün kataloğuna erişin. appsource 'taki çözümler, Bulut Çözümü Sağlayıcısı programında Microsoft satıcılarından da bulunabilir.
 
 ## <a name="find-what-you-need-on-appsource"></a>AppSource 'ta neleri aradığınızı bulun
 
@@ -28,7 +28,7 @@ AppSource, aradığınızı hızlı bir şekilde bulmanıza yardımcı olmak iç
 
 [Uygulama galerisini](https://appsource.microsoft.com/marketplace/apps)araştırırken, ücretsiz bir deneme veya test sürücüsünün kullanılabilirliğine, fiyatlandırma modeline (ücretsiz veya ücretli) ve müşteri derecelendirmelerine göre sonuçları daraltmak için sayfanın üst kısmındaki filtreleri kullanın.
 
-En soldaki bölme, bir ürün türleri, Kategoriler ve endüstrileri listesine göre sonuçları filtrelemenizi sağlar. AppSource ürün türleri Microsoft 365, Dynamics 365 ve güç platformu gibi ürünleri temel alır. Kategoriler, satış, işbirliği veya pazarlama gibi iş işlevlerini temel alır. Finans Hizmetleri, sağlık hizmetleri ve dağıtım gibi bir sektör listesinden da seçim yapabilirsiniz.
+En soldaki bölme, bir ürün türleri, Kategoriler ve endüstrileri listesine göre sonuçları filtrelemenizi sağlar. appsource ürün türleri Microsoft 365, Dynamics 365 ve güç platformu gibi ürünleri temel alır. Kategoriler, satış, işbirliği veya pazarlama gibi iş işlevlerini temel alır. Finans Hizmetleri, sağlık hizmetleri ve dağıtım gibi bir sektör listesinden da seçim yapabilirsiniz.
 
 ## <a name="microsoft-preferred-solutions"></a>Microsoft tarafından tercih edilen çözümler
 
@@ -49,7 +49,7 @@ Uygulamanın liste sayfasını görmek için *uygulama sonuçlarından* bir uygu
 
 ## <a name="purchasing-requirements"></a>Satın alma gereksinimleri
 
-AppSource 'tan SaaS uygulamaları satın almak için iş veya okul hesabı olarak da adlandırılan bir Azure Active Directory hesabınızın olması gerekir. Kuruluşunuz Office 365 kullanıyorsa, normal e-posta adresiniz da yeterli olacaktır. Bu hesaplardan birine sahip değilseniz, satın alma akışı, ücretsiz olan kaydolmanız için sizi uyarır. Ayrıntılı adımlar için bkz. [Microsoft AppSource SaaS uygulamaları satın alma](purchase-software-appsource.md).
+appsource 'tan SaaS uygulamaları satın almak için iş veya okul hesabı olarak da adlandırılan bir Azure Active Directory hesabınızın olması gerekir. kuruluşunuz Office 365 kullanıyorsa, normal e-posta adresiniz da yeterli olacaktır. Bu hesaplardan birine sahip değilseniz, satın alma akışı, ücretsiz olan kaydolmanız için sizi uyarır. Ayrıntılı adımlar için bkz. [Microsoft AppSource SaaS uygulamaları satın alma](purchase-software-appsource.md).
 
 ## <a name="certification-and-security"></a>Sertifika ve güvenlik
 
@@ -61,7 +61,7 @@ Yazılım satıcısı, Fiyat, Son Kullanıcı Lisans Sözleşmesi ve gizlilik il
 
 ## <a name="discover-saas-and-microsoft-365-integrated-apps"></a>SaaS ve Microsoft 365 tümleşik uygulamaları bulma
 
-İş ortaklarımız bir SaaS uygulaması ile Microsoft 365 ilgili eklentileri arasında bağlantı oluşturabilir. Bu, eklentilerle bağlantılı bir SaaS uygulaması aldığınızda belirli Microsoft 365 hizmetlerinden veya ürünlerden eklentileri indirip kullanmanıza olanak sağlar.
+İş ortaklarımız bir SaaS uygulaması ile Microsoft 365 ilgili eklentileri arasında bağlantı oluşturabilir. bu, eklentilerle bağlantılı bir SaaS uygulaması aldığınızda belirli Microsoft 365 hizmetlerinden veya ürünlerden eklentileri indirip kullanmanıza olanak sağlar.
 
 Bu durumda, arama sonucu, SaaS uygulaması Ürün kartında İlgili eklenti ürün simgeleriyle yalnızca SaaS uygulamasını döndürebilir. SaaS uygulamasının ve tümleşik uygulamanın ürün ayrıntı sayfaları arasında gezinebilirsiniz.
 
@@ -72,7 +72,7 @@ Tek başına eklentileri arıyorsanız, bu eklentileri aşağıdaki yollarla bul
 
 SaaS uygulaması satın alma gerektiriyorsa, bkz. [Microsoft AppSource SaaS teklifleri satın alma](purchase-software-appsource.md).
 
-Microsoft 365 Yönetici kullanıcılar hem SaaS hem de eklentileri tek bir yerde dağıtabilir. Daha fazla bilgi için bkz. [uygulamaları Microsoft 365 test etme ve dağıtma-Microsoft 365 Yöneticisi](/microsoft-365/admin/manage/test-and-deploy-microsoft-365-apps).
+Microsoft 365 Yönetici kullanıcılar hem SaaS hem de eklentileri tek bir yerde dağıtabilir. daha fazla bilgi için bkz. [Test ve dağıtım Microsoft 365 Uygulamaları-Microsoft 365 yöneticisi](/microsoft-365/admin/manage/test-and-deploy-microsoft-365-apps).
 
 ## <a name="find-ratings-and-reviews"></a>Derecelendirmeleri ve incelemeleri bulun
 

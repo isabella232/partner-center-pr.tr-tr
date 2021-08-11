@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2eecc1963c83ea3deb4caf5116b05aaccbf857af
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 63ecf9e2982f968267ff3ffbdd010ede0d7badcaf4821bf5ccf6af8ccc994ea1
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114836361"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115692339"
 ---
 # <a name="differentiate-your-business-by-attaining-microsoft-competencies"></a>Microsoft yetkinliğine ulaşarak işletmenizi ayırt etme
 

@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: c7be8fe9cb420d82616d6bcbd2af8d84052b651c
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 1d64336299b6d84e563e00067c5efb37cb0985d5cd16a8d9ecdd0470798e0dc1
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114839167"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115685131"
 ---
 # <a name="microsoft-customer-agreements-by-region-and-language"></a>Bölgeye ve dile göre Microsoft Müşteri Sözleşmeleri
 

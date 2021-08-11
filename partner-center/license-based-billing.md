@@ -9,12 +9,12 @@ ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/18/2020
-ms.openlocfilehash: 838dc5cbce503f449c2796c8397625266f826059
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 13a5e2df85c6adffb1ebd423b25d654bc8b8f5966b4a757c6b24b4c8d1130594
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114846154"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115692322"
 ---
 # <a name="license-based-billing-in-partner-center"></a>İş Ortağı Merkezi'de lisans tabanlı faturalama
 

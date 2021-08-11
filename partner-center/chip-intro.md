@@ -9,12 +9,12 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ebee6f49a57eb56429f33291768347be505e3b37
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: d17ee6f08f574b13a91d35cc658a480f0c9d5ecff85cc031ce227c4a8dee3c7a
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110148967"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115692747"
 ---
 # <a name="navigate-the-channel-incentives-platform-chip"></a>Channel teşvikleri platformunda (yonga) gezinme
 

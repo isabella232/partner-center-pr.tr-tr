@@ -1,6 +1,6 @@
 ---
-title: İş ortağı öngörülerine yönelik genel sorular programlama erişimi
-description: API aracılığıyla partner Insights verilerine erişme hakkında sık sorulan soruların yanıtlarını alın.
+title: İş ortağı içgörülerine programlı erişim için sık sorulan sorular
+description: API aracılığıyla iş ortağı içgörüleri verilerine erişme hakkında sık sorulan soruların yanıtlarını alın.
 ms.topic: troubleshooting
 ms.service: partner-dashboard
 ms.subservice: partnercenter-insights
@@ -8,44 +8,44 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.date: 07/14/2021
-ms.openlocfilehash: 418af23ae50e1f8d9086b2eb6247ba964e4c1516
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 5edfc720f2f9014d7532935fcfadc64260f721f7af57eda81994c710b6492df9
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114836974"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115692373"
 ---
 # <a name="programmatic-access-of-analytics-data-common-questions"></a>Analiz verilerine program aracılığıyla erişim hakkında sık sorulan sorular
 
-Bu makalede, Iş Ortağı Merkezi 'nde iş ortağı öngörülerine programlı bir şekilde erişme hakkında sıkça sorulan sorular ele alınmaktadır.
+Bu makalede, iş ortağı içgörüleri verilerine program aracılığıyla erişme hakkında sık sorulan sorular İş Ortağı Merkezi.
 
 ## <a name="api-responses"></a>API yanıtları
 
-200 (başarılı) dışında bir API yanıtı alabildiğim farklı senaryolar nelerdir?
+200 'den (Başarılı) başka BIR API yanıtı alalı farklı senaryolar hangileridir?
 
-Bu tablo, API yanıtlarını ve bunları alırsanız ne yapılacağını açıklar.
+Bu tabloda API yanıtları ve bunları alırsanız ne yapmaları gerekir?
 
 |    Hata açıklaması     |    Hata kodu     |    Sorun giderme     |
 |    ----    |    ----    |    ----    |
-|    Yetkisiz     |    401     |    Bu bir kimlik doğrulama istisnadır. Azure Active Directory (AAD) belirtecinin doğruluğunu denetleyin. AAD belirteci 60 dakika için geçerlidir, bu süre sonra AAD belirtecini yeniden oluşturmanız gerekir.     |
-|    Geçersiz tablo adı     |    400     |    Veri kümesinin adı yanlış. "Tüm veri kümelerini al" API 'sini çağırarak veri kümesi adını yeniden denetleyin.     |
-|    Sütun adı yanlış     |    400     |    Sorgudaki sütunun adı yanlış. "Tüm veri kümelerini al" API 'sini çağırarak sütun adını yeniden denetleyin veya veri tanımlarındaki sütun adlarına başvurun    |
-|    Null veya eksik değer     |    400     |    API 'nin istek yükünün bir parçası olarak zorunlu parametreler eksik olabilir.     |
-|    Geçersiz rapor parametreleri     |    400     |    Rapor parametrelerinin doğru olduğundan emin olun. Örneğin, Recurrenceınterval parametresi için 4 ' ten az bir değer vermiş olabilirsiniz.     |
-|    Yinelenme aralığı 4 ile 2160 arasında olmalıdır     |    400     |    Recurrenceınterval istek parametresinin değerinin 4 ile 2160 arasında olduğundan emin olun.     |
-|    Geçersiz QueryId     |    400     |    Oluşturulan QueryId 'yi yeniden denetleyin.     |
-|    Oluşturma için geçersiz rapor parametreleri-raporun başlangıç zamanı, geçerli UTC zamanından en az 4 saat olmalıdır     |    400     |    İstek yükünün parçası olarak başlangıç zamanı parametresi geçmişte olmamalıdır. Raporun başlangıç saati, geçerli UTC zamanından en az 4 saat olmalıdır.     |
-|    İstenen ' String ' değeri bulunamadı     |    400     |    İstek parametrelerini mi yoksa biçimini mi güncelleştirmeyeceğinizi denetleyin `callbackurl` .     |
-|    Verilen filtrelere sahip öğe bulunamadı.     |    404     |    Rapor yürütmeleri API 'sinde kullanılan REPORTID parametresini denetleyin.     |
-|    Belirtilen filtre koşulları için oluşmuş yürütmeler yok. REPORTID veya ExecutionID 'yi iki kez kontrol edin ve raporun zamanlanan yürütme zamanından sonra API 'yi yeniden deneyin     |    404     |    REPORTID 'nin doğru olduğundan emin olun. İstek yükünde belirtilen şekilde raporun zamanlanan yürütme zamanından sonra API 'yi yeniden deneyin.     |
-|    Rapor oluşturulurken iç hatayla karşılaşıldı. Bağıntı KIMLIĞI <>     |    500     |    Alanlar için tarih biçiminin *StartTime*, *Querystarttime* ve *queryendtime* doğru olduğundan emin olun.     |
-|    Hizmet kullanılamıyor    |    500     |    Sürekli olarak bir hizmet (5xx hatası) alırsanız bir destek bileti açın.    |
+|    Yetkisiz     |    401     |    Bu bir kimlik doğrulaması özel durumudur. Azure Active Directory (AAD) belirtecin doğru olup olmadığını denetleyin. AAD belirteci 60 dakika geçerlidir ve bu sürenin ardından AAD belirteci yeniden oluşturma gerekir.     |
+|    Geçersiz tablo adı     |    400     |    Veri kümesi adı yanlış. "Tüm Veri Kümelerini Al" API'sini çağırarak veri kümesi adını yeniden kontrol edin.     |
+|    Yanlış sütun adı     |    400     |    Sorgudaki sütunun adı yanlış. "Tüm Veri Kümelerini Al" API'sini çağırarak sütun adını yeniden işaretleyin veya Veri Tanımları'nın sütun adlarında yer alan sütun adlara bakın    |
+|    Null veya eksik değer     |    400     |    API'nin istek yükünün bir parçası olarak zorunlu parametreler eksik olabilir.     |
+|    Geçersiz rapor parametreleri     |    400     |    Rapor parametrelerinin doğru olduğundan emin olun. Örneğin RecurrenceInterval parametresi için 4'den küçük bir değer veriyor olabilirsiniz.     |
+|    Yinelenme Aralığı 4 ile 2160 arasında olmalıdır     |    400     |    RecurrenceInterval istek parametresinin değerinin 4 ile 2160 arasında olduğundan emin olun.     |
+|    Geçersiz QueryId     |    400     |    Oluşturulan QueryId'i yeniden işaretleyin.     |
+|    Oluşturma için geçersiz rapor parametreleri - Raporun başlangıç saati geçerli UTC saatine en az 4 saat olmalıdır     |    400     |    İstek yükünün bir parçası olarak Başlangıç Zamanı parametresi geçmişte olmaması gerekir. Raporun başlangıç saati, geçerli UTC saati ile en az 4 saat arasında olabilir.     |
+|    İstenen 'string' değeri bulunamadı     |    400     |    İstek parametrelerini mi yoksa biçimini mi `callbackurl` güncelleştirilmiş olduğunu kontrol edin.     |
+|    Verilen filtrelerle öğe bulunamadı.     |    404     |    Get Report Executions API'sinde kullanılan reportID parametresini kontrol edin.     |
+|    Verilen filtre koşulları için herhangi bir yürütme yoktur. reportId veya executionId'yi bir kez daha kontrol edin ve raporun zamanlanmış yürütme zamanından sonra API'yi yeniden deneyin     |    404     |    reportId'nin doğru olduğundan emin olun. İstek yükünde belirtilen raporun zamanlanmış yürütme zamanından sonra API'yi yeniden deneyin.     |
+|    Rapor oluşturulurken iç hatayla karşılaşıldı. Bağıntı kimliği <>     |    500     |    *StartTime,* *QueryStartTime* ve *QueryEndTime* alanlarının tarih biçiminin doğru olduğundan emin olun.     |
+|    Hizmet kullanılamıyor    |    500     |    Sürekli olarak kullanılamıyor (5xx hatası) bir hizmet alırsanız bir destek bileti açın.    |
 |        |        |        |
 
 ## <a name="no-records"></a>Kayıt yok
 
-Raporu güvenli konumdan indirdiğimde API yanıtı 200 ' i alıyorum. Neden kayıt alıyorum?
-Sorgudaki dizenin, sütun üst bilgisi için izin verilen değerlerden birine sahip olup olmadığını denetleyin. Örneğin, bu sorgu sıfır sonuç döndürür:
+Raporu güvenli konumdan indirirken API yanıtı 200'leri alırsınız. Neden hiç kayıt al değilim?
+Sorgudaki dizenin sütun üst bilgisi için izin verilebilir değerlerden biri olup olmadığını kontrol edin. Örneğin, bu sorgu sıfır sonuç verir:
 
 ```sql
 SELECT CustomerTenantId, CustomerTpId, WorkloadName, Month, MonthlyActiveUsers 
@@ -54,4 +54,4 @@ WHERE IsDuplicateRowForPGA = 'False'
 ORDER BY CustomerTenantId DESC
 ```
 
-Bu örnekte, için izin verilen değerler `IsDuplicateRowForPGA` 0 veya 1 ' dir. Çeşitli sütunlarda tüm olası değerler için [veri tanımlarına](insights-data-definitions.md) bakın.
+Bu örnekte, için izin verilebilir değerler `IsDuplicateRowForPGA` 0 veya 1'tir. Çeşitli sütunlar [için tüm olası](insights-data-definitions.md) değerler için Veri Tanımları'ne bakın.
