@@ -9,12 +9,12 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 288e4ebb224d3ff1b0d4050691b733e678ec29a3
-ms.sourcegitcommit: 376a49bcd245d3358a78871128761175a96ec200
+ms.openlocfilehash: c2ae28bd6291af9c4a4445dcc4010b817e533c34b339b137b67ae1a99b5f4e2c
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 06/17/2021
-ms.locfileid: "112276952"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115692796"
 ---
 # <a name="locate-the-desktop-count-and-fee-level-for-an-agreement"></a>Bir sözleşmenin masaüstü cihaz sayısını ve ücret düzeyini bulma
 
@@ -53,7 +53,7 @@ Sözleşmeyi gözden geçirmek [için explore.ms](https://www.explore.ms/) oturu
 |  D | 15,000+   |
 
 >[!NOTE]
->Kurumsal Teşvik düzeyleri, Ticari ve Kamu Sektörü (PS) kayıtlarında masaüstü veya kullanıcı sayısını (hangisi daha yüksekse) temel almaktadır. Doğal olarak ilişkili masaüstü veya kullanıcı sayısına sahip kayıtlarda Microsoft, eşlik eden EA'nın masaüstü sayısına veya kullanıcı sayısına göre bir masaüstü sayısı uygular. <br><br>Eşlik eden EA yoksa Ücret Düzeyi, kaydın fiyatlandırma düzeyine göredir. Anlaşmanın fiyatlandırma düzeyi, [www.explore.ms.](https://www.explore.ms/) <br><br>Mevcut EA/EAS üzerinde birden çok havuz ve/veya fiyatlandırma düzeyi varsa, Microsoft teşvikleri en yüksek atanan fiyatlandırma/havuz düzeyinde, A düzeyi ise en düşük ve D düzeyi en yüksek olarak öder.
+>Enterprise Teşvik düzeyleri, Ticari ve Kamu Sektörü (PS) kayıtlarında masaüstü veya kullanıcı sayısına (hangisi daha yüksekse) göredir. Doğal olarak ilişkili masaüstü veya kullanıcı sayısına sahip kayıtlarda Microsoft, eşlik eden EA'nın masaüstü sayısına veya kullanıcı sayısına göre bir masaüstü sayısı uygular. <br><br>Eşlik eden EA yoksa Ücret Düzeyi, kaydın fiyatlandırma düzeyine göredir. Anlaşmanın fiyatlandırma düzeyi, [www.explore.ms.](https://www.explore.ms/) <br><br>Mevcut EA/EAS üzerinde birden çok havuz ve/veya fiyatlandırma düzeyi varsa, Microsoft teşvikleri en yüksek atanan fiyatlandırma/havuz düzeyinde, A düzeyi ise en düşük ve D düzeyi en yüksek düzeyde öder.
 
 #### <a name="pool-and-pricing-levels"></a>Havuz ve Fiyatlandırma Düzeyleri
 
@@ -61,9 +61,9 @@ Yukarıda açıklanan adımları kullanarak explore.ms numarasını arayarak anl
 
 ## <a name="method-2---chip"></a>Yöntem 2 - CHIP
 
-1. CHIP'de oturum açma ve LSP Teşvikleri'ne seçme.
+1. CHIP'de oturum açma ve LSP Teşvikleri'ne kaydolma.
 
-2. İş Ortağı **Ödeme Özeti sayfasında** görüntülemek istediğiniz raporlama ayı seçin  ve ardından Excel'e Aktar altındaki açılan listeden Hesaplama **Ayrıntıları'ı seçin:**
+2. İş Ortağı **Ödeme Özeti sayfasında** görüntülemek istediğiniz raporlama ayını  seçin ve ardından Dışarı Aktar altındaki Açılan listeden Hesaplama Ayrıntıları'Excel: 
 
 :::image type="content" source="images/chip/chiplocate.png" alt-text="Program ayrıntılarını bulun.":::
 
@@ -73,7 +73,7 @@ Yukarıda açıklanan adımları kullanarak explore.ms numarasını arayarak anl
 
 :::image type="content" source="images/chip/flatfile.png" alt-text="Düz dosya indirme.":::
 
-Artık J sütununda istediğiniz sözleşme numarasını arayabilirsiniz. Atanan masaüstü sayısını R sütununda, atanan masaüstü sayısını ise Agreement_DesktopCount. Katman olarak etiketlenmiş 'AI' sütununda bu sözleşmenin Ücret Düzeyini de onaylayın.
+Artık J sütununda istediğiniz sözleşme numarasını arayabilirsiniz. Atanan masaüstü sayısını R sütununda ve bu sütunda Agreement_DesktopCount. Bu sözleşmenin Ücret Düzeyini Katman olarak etiketlenmiş 'AI' sütununda da onaylayın.
 
 ## <a name="next-steps"></a>Sonraki adımlar
 

@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c67344cb4341320271dd96d40135ad0223baad28
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 12abb38ff636e3d6404a7933b7d8cb54e6faf097c980f116d979e3e352ec9824
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114844454"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115693087"
 ---
 # <a name="view-eligibility-requirements-for-planning-services-engagements"></a>Planlama Hizmetleri görevlendirmelerine yönelik uygunluk gereksinimlerini görüntüleme
 

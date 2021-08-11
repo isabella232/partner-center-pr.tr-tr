@@ -8,12 +8,12 @@ ms.author: kashanum
 ms.topic: article
 ms.localizationpriority: medium
 ms.date: 10/29/2020
-ms.openlocfilehash: bf4e155eb9ca6a7bf8e2a6ad2a5f1f2a5f0b40c2
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 70734119f7823eb447e616384a2ad8a65efcbb51596be3bdc9db665c126cf55e
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114845287"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115693512"
 ---
 # <a name="manage-incentives-co-op-claims"></a>İşbirliği taleplerini yönetme
 

@@ -9,12 +9,12 @@ author: vijvala
 ms.author: vijvala
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8966d744dfb70a7850ef6d3dd68d2051344fe9cd
-ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
+ms.openlocfilehash: 59e3011099755b9342a00574e0c5bb390e2fd7030a38996368c4127d2fca9518
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/04/2021
-ms.locfileid: "115101221"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115694005"
 ---
 # <a name="security-requirements-for-using-partner-center-or-partner-center-apis"></a>Api'leri veya İş Ortağı Merkezi için İş Ortağı Merkezi gereksinimleri
 
@@ -137,4 +137,4 @@ Destek ve örnek kod için aşağıdaki kaynaklara bakın:
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-- [İş ortağı kiracınız için Mandating Multi-Factor Authentication (MFA)](partner-security-requirements-mandating-mfa.md)
+- [İş ortağı kiracınız için Çok Faktörlü Kimlik Doğrulaması'nın (MFA) mandating](partner-security-requirements-mandating-mfa.md)

@@ -1,80 +1,80 @@
 ---
 title: Ödeme deyimleri
-description: Ödeme deyimleri ve özetleri, Ödeme verilerinizi Microsoft İş Ortağı Merkezi'dan görüntüleme ve dışarı aktarma hakkında bilgi İş Ortağı Merkezi
+description: Ödeme deyimleri ve özetler hakkında bilgi edinin ve Microsoft Iş Ortağı Merkezi 'nden ödeme verilerinizi nasıl görüntüleyip dışarı aktarabilirsiniz?
 ms.subservice: partnercenter-marketplace-publisher
 ms.service: marketplace
 ms.topic: article
 author: eunjkim520
 ms.author: eunjkim
 ms.date: 3/22/2021
-ms.openlocfilehash: b905d422b10e0b82225966fa5379283ea0b83a69
-ms.sourcegitcommit: a09a5f893e876de23a8aa5c0d637e50c5be84941
+ms.openlocfilehash: 8ad648d7ff7c5360ae61897ea98a633532ffd4c7de65ffa6b83984996ca24ac6
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/13/2021
-ms.locfileid: "113684024"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115693417"
 ---
 # <a name="payout-statements"></a>Ödeme deyimleri
 
-**Uygun roller:** Hesap yöneticisi | Genel yönetici
+**Uygun roller**: Hesap Yöneticisi | Genel yönetici
 
-Ödeme **deyimi, ticari** market aracılığıyla satılan tekliflerden yapılan ödemelere genel bir bakış sunar. Kazançlarınız için işlem geçmişini gösterir, sonraki ödemenizi tahmin eder ve ödeme eğilimlerini gösterir. ayrıca işlem geçmişini ve ödeme deyimlerini de indirebilirsiniz. Bu makalede, ödeme bildiriminize nasıl erişilip farklı ödeme sayfalarına ve indirmelere erişilme İş Ortağı Merkezi.
+**Ödeme beyanı** , ticari Market aracılığıyla satılan tekliflerden ödemalarınızın genel bir görünümünü sunar. Kazanlarınızın işlem geçmişini gösterir, bir sonraki ödemenizi tahmin eder ve ödeme eğilimlerini gösterir. Ayrıca, işlem geçmişi ve ödeme deyimlerini indirebilirsiniz. Bu makalede, ödeme deyiminize ve Iş Ortağı Merkezi 'nde size erişilebilen farklı ödeme sayfalarına ve indirmelere nasıl erişebileceğiniz açıklanır.
 
 >[!NOTE]
->Yalnızca ilişkili olduğunu MPN kimlikleri ve programları için verileri göreceğiz. Ek veriler görmek için izinler için hesap yöneticinizle birlikte çalışabilirsiniz. 
+>Yalnızca MPN kimlikleri ve sizinle ilişkilendirdiğiniz programlar için verileri görürsünüz. Ek verileri görmek isterseniz, izinler için hesap yöneticinizle birlikte çalışın. 
 
 ## <a name="roles-and-permissions"></a>Roller ve izinler
 
-Ödeme deyimine erişmek için Hesap sahibi veya Finansal katkıda **bulunan rolüne** **sahip olmak** gerekir.
+Bir ödeme bildirimine erişmek için **hesap sahibi** veya **mali katkıda bulunan** rolü atanması gerekir.
 
-| Raporlar/Sayfalar | Hesap sahibi | Yönetici | Geliştirici | İş katkıda bulunanı | Finans katkıda bulunanı | Pazarlamacı |
+| Raporlar/sayfalar | Hesap sahibi | Yönetici | Geliştirici | İş Katılımcısı | Finans Katılımcısı | Pazarlamacısıdır |
 | --- | --- | --- | --- | --- | --- | --- |
-| Edinme raporu (gerçek zamanlıya yakın veriler de dahil) | View ( View) | View ( View) | Erişim yok | Erişim yok | View ( View) | Erişim yok |
-| Geri bildirim raporu/yanıtları | Geri bildirimi görüntüleme ve gönderme | Geri bildirimi görüntüleme ve gönderme | Geri bildirimi görüntüleme ve gönderme | Erişim yok | Erişim yok | Geri bildirimi görüntüleme ve gönderme |
-| Durum raporu (gerçek zamanlıya yakın veriler dahil) | View ( View) | View ( View) | View ( View) | View ( View) | Erişim yok | Erişim yok |
-| Kullanım raporu | View ( View) | View ( View) | View ( View) | View ( View) | Erişim yok | Erişim yok |
-| Ödeme hesabı | Güncelleştirile | Erişim yok | Erişim yok | Erişim yok | Güncelleştirile | Erişim yok |
-| Vergi profili | Güncelleştirile | Erişim yok | Erişim yok | Erişim yok | Güncelleştirile | Erişim yok |
-| Ödeme özeti | View ( View) | Erişim yok | Erişim yok | Erişim yok | View ( View) | Erişim yok |
+| Alım raporu (neredeyse gerçek zamanlı veriler dahil) | Görüntüleyebilir | Görüntüleyebilir | Erişim yok | Erişim yok | Görüntüleyebilir | Erişim yok |
+| Geri bildirim raporu/yanıtları | Geri bildirim görüntüleyebilir ve gönderebilir | Geri bildirim görüntüleyebilir ve gönderebilir | Geri bildirim görüntüleyebilir ve gönderebilir | Erişim yok | Erişim yok | Geri bildirim görüntüleyebilir ve gönderebilir |
+| Sistem durumu raporu (neredeyse gerçek zamanlı veriler dahil) | Görüntüleyebilir | Görüntüleyebilir | Görüntüleyebilir | Görüntüleyebilir | Erişim yok | Erişim yok |
+| Kullanım raporu | Görüntüleyebilir | Görüntüleyebilir | Görüntüleyebilir | Görüntüleyebilir | Erişim yok | Erişim yok |
+| Ödeme hesabı | Güncelleştirebilir | Erişim yok | Erişim yok | Erişim yok | Güncelleştirebilir | Erişim yok |
+| Vergi profili | Güncelleştirebilir | Erişim yok | Erişim yok | Erişim yok | Güncelleştirebilir | Erişim yok |
+| Ödeme özeti | Görüntüleyebilir | Erişim yok | Erişim yok | Erişim yok | Görüntüleyebilir | Erişim yok |
 |
 
-## <a name="access-your-payout-statement"></a>Ödeme deyiminize erişme
+## <a name="access-your-payout-statement"></a>Ödeme deyiminize erişin
 
-Oturum [İş Ortağı Merkezi](https://partner.microsoft.com/dashboard/home) ve ekranın sağ üst köşesindeki ödeme simgesini seçerek bu farklı özetlere erişin:
+[Iş Ortağı Merkezi](https://partner.microsoft.com/dashboard/home) ' nde oturum açın ve bu farklı özetlere erişmek için ekranın sağ üst köşesindeki ödeme simgesini seçin:
 
 - İşlem geçmişi
 - Ödemeler
 - Verileri dışarı aktarma
 
-:::image type="content" source="images/payouts/payout-overview.png" alt-text="İş Ortağı Merkezi portalının sağ üst köşesindeki Ödeme simgesini gösterir.":::
+:::image type="content" source="images/payouts/payout-overview.png" alt-text="Iş Ortağı Merkezi portalının sağ üst köşesindeki ödeme simgesini gösterir.":::
 
-Ayrıca, doğrudan ödeme işlemi [ve ödeme verilerine bağlanmak](/rest/api/partner-center/partner-payouts) ve almak için İş Ortağı Ödeme API'sini de kullanabilirsiniz. Ödeme Hizmeti [API'sini kullanarak ödemeleri yönetme hakkında daha fazla bilgi edinin.](/partner-center/develop/manage-payouts)
+Ayrıca, [Iş ortağı ödeme API](/rest/api/partner-center/partner-payouts) 'sini kullanarak doğrudan ödeme ve ödeme verilerini alabilir ve elde edebilirsiniz. [Ödeme HIZMETLERI API 'sini kullanarak ödemeleri yönetme](/partner-center/develop/manage-payouts)hakkında daha fazla bilgi edinin.
 
 
 ## <a name="transaction-history"></a>İşlem geçmişi
 
-İşlem **geçmişi sayfasında,** son 36 aya göre kazançlarınız, tahmini sonraki ödemeniz ve kazançlarınız ile ödeme eğiliminiz özetini gösterir. İşlem ayrıntılarını bu bölümden de indirebilirsiniz.<br><br>Bu rapor, henüz gönderilmemiş ödemeler de dahil olmak üzere ödeme için uygun olan tüm kazançları gösterir. IsV, İş Ortağı Merkezi'daki tüm banka ve vergi bilgilerini tamamlamış >, 50 ABD doları kazanmış, ISV hesabı etkin olduğunda ve müşteri faturalandırılmış (EA işlemleri için) veya ödeme (EA dışı işlemler için) alınmıştır.
+**İşlem geçmişi** sayfasında, son 36 aya göre kazanç, tahmini bir sonraki ödeme ve kazanç ve ödemeler eğilimi gösterilir. Ayrıca, bu bölümden işlem ayrıntılarını indirebilirsiniz.<br><br>Bu rapor, henüz gönderilmemiş ödemeler dahil olmak üzere, ödeme için uygun olan tüm gelirleri gösterir. Bir ISV, Iş Ortağı Merkezi 'ndeki tüm banka ve vergi bilgilerini tamamladıktan sonra kazanç $50 >, ISV hesabı etkin ve müşterinin faturalandırıldığı (EA işlemleri için) veya ödeme alındığı zaman (EA işlemleri için) ödemiştir.
 
-:::image type="content" source="images/payouts/transaction-overview.png" alt-text="İşlemlere genel bakış.":::
+:::image type="content" source="images/payouts/transaction-overview.png" alt-text="İşleme genel bakış.":::
 
-- **Bu yıl gönderilen kazançlar** : Toplam kazançlar ve ödenen ve gelecek ay içinde ödenecek olan kazançların dökümü.
-- **Tahmini ödeme ayı:** Önümüzdeki aylarda beklenen toplam kazançlar.
-- **Kazançlar ve ödeme eğilimi:** Son 36 aya göre aylık kazanç ve ödeme tutarları.
-- **İndir** – İşlem ayrıntılarını .csv veya .tsv biçiminde indirin.
+- **Bu yıla gönderilen kazançlar** – ödenen ve gelecek ayda ödenen toplam kazanç ve döküm dökümü.
+- **Tahmini ödeme ayı** – yaklaşan aylarda beklenen toplam kazanç.
+- **Kazanç ve ödeme eğilimi** – son 36 aylar için aylık kazanç ve ödeme tutarları.
+- **İndir** – işlem ayrıntılarını .csv veya. tsv biçiminde indirin.
 
-Sayfanın çıkışını son 3, 6, 12 veya 36 ay gösterecek şekilde filtrelemek için sayfanın sağ üst köşesindeki tarih aralığı seçimini kullanın. 36 aya kadar olan özel bir tarih aralığı da seçin. Varsayılan tarih aralığı 12 aydır. Ayrıca Kayıt Kimliği, Program, Ödeme Kimliği, Kazanç türü, Kaldıraç ve Durum'a göre de filtreleyin. Veriler geçerli mali yıl (1 Temmuz - 30 Haziran) ve önceki iki mali yıl için kullanılabilir.
+Son 3, 6, 12 veya 36 ayı göstermek için sayfanın çıktısını filtrelemek üzere sayfanın sağ üst köşesindeki tarih aralığı seçimini kullanın. Ya da 36 aya kadar bir özel tarih aralığı seçin. Varsayılan tarih aralığı 12 aydır. Kayıt KIMLIĞI, program, ödeme KIMLIĞI, kazanç türü, MANI ve duruma göre de filtre uygulayabilirsiniz. Veriler geçerli mali yıl (1 Temmuz 30 Haziran) ve önceki iki mali yıl için kullanılabilir.
 
-:::image type="content" source="images/payouts/search-filter.png" alt-text="Sayfanın sağ üst kısmında arama filtresi.":::
+:::image type="content" source="images/payouts/search-filter.png" alt-text="Sayfanın sağ üst kısmındaki arama filtresi.":::
 
-Kazanç hakkında daha fazla ayrıntı görmek için sayfanın sağ tarafındaki aşağı oku seçin. Bunu yapmak kaldıranı, gelir tutarını, ürünü ve müşteriyi görüntüler. Herhangi bir nedenle bu verilerden herhangi biri kullanılamıyorsa ama bu verilere erişmeye ihtiyacınız varsa dehaya başvurun. Kazanç, bir işlem değil düzeltmenin sonucu ise Product ve Customer alanları görüntülenmez.
+Bir atma hakkında daha fazla ayrıntı görmek için sayfanın sağ tarafındaki aşağı oku seçin. Bunun yapılması manı, gelir tutarını, ürünü ve müşteriyi görüntüler. Herhangi bir nedenden dolayı bu verilerden herhangi biri kullanılamaz, ancak ona erişmeniz gerekiyorsa, desteğe başvurun. Kazanım, bir işlem değil, bir ayarlamanın sonucu ise, ürün ve müşteri alanları gösterilmez.
 
-### <a name="transaction-history-summary"></a>İşlem geçmişi özeti
+### <a name="transaction-history-summary"></a>İşlem geçmişi Özeti
 
-Bu görünümde, satılan ürünün kazanç tarihleri, durumu ve tahmini ödeme ayı gibi kazanç kaynağının da dahil olduğu kazanç ayrıntıları yer ayazılır.
+Bu görünüm, ürün ve tahmini ödeme ayından oluşan ürünün kazanç kaynağı dahil olmak üzere kazanç ayrıntılarını gösterir.
 
 :::image type="content" source="images/payouts/transaction-history.png" alt-text="İşlem geçmişi.":::
 
-- **Kazanılan tarih:** Satın alma tarihi.
+- **Kazanılan tarih** : satın alma tarihi.
 - **Kazanç türü:** Satış, İndirim veya Ortak satış gibi kazanç türü.
 - **Toplam tutar:** Net kazanç tutarı. Ticari markette bu, standart market ücretinin düşüldüğü anlamına gelir.
 - **Durum–** Üç seçenek vardır:
@@ -117,7 +117,7 @@ Tahmini miktar, çeşitli nedenlerle gerçek tutardan farklı olabilir:
 
 ### <a name="transaction-history-download"></a>İşlem geçmişi indirme
 
-Kazanç hakkında daha fazla ayrıntı görmek için sayfanın **üst** kısmından İndir'i seçin. Aşağıdaki tabloda, rapordaki her sütun açık bir şekilde açık bir şekilde ve açıklamadır.
+Kazanç hakkında daha fazla ayrıntı görmek için sayfanın **üst kısmından** İndir'i seçin. Aşağıdaki tabloda, rapordaki her sütun açık bir şekilde açık bir şekilde ve açıklamadır.
 
 >[!NOTE]
 >İşlem geçmişi indirme dışarı aktarma işlemi Ağustos 2020'den itibaren iki yeni alan içerir:
@@ -216,8 +216,8 @@ Aşağıdaki tabloda düzeltmeler için neden kodları ve açıklamaları liste 
 | AR Uyumluluğu | microsoft faturaları iş ortağı tarafından zamanında ödenmemiş olduğunda kazançları azaltan düzeltme. |
 | Ortak çalışma rollover | Ortak kazançları başka bir döneme aktaran veya ortak kazançları indirime dönüştüren düzeltme. |
 | İşlem Ayarlaması | Microsoft sistem hesaplama hatalarını düzelten ayarlama. |
-| İşlem AyarlamaSı Microsoft yanlış hesaplaması | Yanlış hesaplamaları düzelten ayarlama. |
-| İşlem AyarlamaSı Microsoft yanlış kayıt | Kayıtla ilgili yanlış hesaplamalar için ayarlama. |
+| İşlem Ayarlaması Microsoft yanlış hesaplaması | Yanlış hesaplamaları düzelten ayarlama. |
+| İşlem AyarlamaSı Microsoft hatalı kayıt | Kayıtla ilgili yanlış hesaplamalar için ayarlama. |
 | İş ortağı eşlemesi (abonelik) MCI/CSP | Abonelik yanlış hizasını düzelten düzeltme. |
 | İlke Özel Durumu | Program kuralını geçersiz kılmak için ayarlama.  |
 | Önceki dönem kazançları | Geçerli kazanç dönemi dışındaki kazançlar için düzeltme. |
@@ -231,8 +231,8 @@ Aşağıdaki tabloda düzeltmeler için neden kodları ve açıklamaları liste 
 
 :::image type="content" source="images/payouts/payments-overview.png" alt-text="Ödemelere genel bakış ekranı.":::
 
-- **Bu yılın toplam ödemesi:** Tüm programlarınız için abd doları olarak bu yıl size ödenen birleşik toplam.
-- **Sonraki tahmini ödeme:** Abd doları olarak size gelecek tek bir sonraki ödeme (yakında başka ödeme olsa bile).
+- **Bu yılın toplam** ödemesi: Tüm programlarınız için bu yıl ABD doları olarak ödenen birleşik toplam.
+- **Sonraki tahmini ödeme:** Abd doları olarak size gelecek tek bir sonraki ödeme (yakında başka ödeme de olsa) gelir.
 - **Son ödeme:** Tutarı (ABD doları), program adı ve en son ödemenizin programı.
 - **Kaynak ile ödeme** – Son 12 ay içinde program başına yapılan ödeme miktarı (ABD doları).
 
@@ -323,7 +323,7 @@ Aşağıdaki tabloda, geçmiş deyiminde yer alan her sütun açık bir şekilde
 
 | Alan adı | Description |
 | --- | --- |
-| Gelir Kaynağı | Microsoft Store, Windows Phone Store, Windows Store 8 veya reklam gibi işlemlerin nerede Windows gelir kaynağı |
+| Gelir Kaynağı | Microsoft Store, Windows Phone Store, Windows Store 8 veya reklam gibi işlemlerin nerede meydana geldiğine bağlı olarak gelir kaynağınız |
 | Sipariş kimliği | Benzersiz sipariş tanımlayıcısı. Bu kimlik, satın alma işlemlerini para iadeleri veya geri ödeme gibi ilgili satın alma dışı işlemleriyle tanımlamanıza olanak sağlar. Her ikisi de aynı Sipariş Kimliğine sahip olacak. Ayrıca, tek bir satın alma için birden çok ödeme yönteminin kullanılmış olduğu bir bölme ücreti varsa, satın alma işlemlerini bağlamaya olanak sağlar. |
 | İşlem kimliği | Benzersiz işlem tanımlayıcısı. |
 | İşlem Tarihi Saati | İşlemin meydana geldiği tarih ve saat (UTC). |
@@ -332,7 +332,7 @@ Aşağıdaki tabloda, geçmiş deyiminde yer alan her sütun açık bir şekilde
 | Üst Ürün Adı | Üst ürünün adı. İşlem için bir üst ürün yoksa, Üst Ürün Adı = Ürün Adı. |
 | Ürün Adı | Ürünün adı |
 | Ürün Türü | Uygulama, Eklenti veya Oyun gibi ürün türü |
-| Miktar | Revenue Source İş İçin Microsoft Store, Quantity değeri satın alınan lisans sayısını temsil eder. Diğer tüm Gelir Kaynakları için Miktar her zaman 1 olur. İki farklı ödeme yöntemi kullanılırken tek bir işlem iki satır öğeye bölünse bile her satır öğesi 1 Miktarı gösterir. |
+| Miktar | Revenue Source İş İçin Microsoft Store, Quantity değeri satın alınan lisans sayısını temsil eder. Diğer tüm Gelir Kaynakları için Miktar her zaman 1 olur. İki farklı ödeme yöntemi kullanılırken tek bir işlem iki satıra bölünse bile her satır öğesi 1 Miktarı gösterir. |
 | İşlem Türü | Satın alma, para iadesi, geri alma veya geri ödeme gibi işlem türü |
 | Ödeme Yöntemi | İşlem için kullanılan Kart, Mobil Operatör Faturalaması gibi müşteri ödeme aracı PayPal |
 | Ülke /Bölge | İşlemin meydana geldiği ülke/bölge |
@@ -350,7 +350,7 @@ Aşağıdaki tabloda, geçmiş deyiminde yer alan her sütun açık bir şekilde
 | Dönüştürülen Ödeme | FX Oranı kullanılarak Ödeme Para Birimine dönüştürülen ödeme tutarı |
 | Vergi Havale Modeli | Vergileri (satış, kullanım veya KDV/GST vergileri) sorumlu taraf |
 | Uygunluk Tarih Saati | İşlem devam eder tarih ve saat ödeme için uygun hale gelir (UTC). Bir ödeme oluşturulduğunda, işlem ödeme oluşturma tarihinden önce Uygunluk Tarih Saati ile devam eder (yalnızca Ayrılmış **CSV** dosyasına dahil edilir). |
-| Ücretler | Transaction Amount sütununda toplanan tüm ücret ayrıntılarının dökümünü gösterir (yalnızca ayrılmış Azure Market dahil edilir; **Ayrılmış** CSV dosyasına dahil değildir). |
+| Ücretler | Transaction Amount sütununda toplanan tüm ücret ayrıntılarının dökümünü gösterir (yalnızca ayrılmış Azure Market dahil edilir; Ayrılmış CSV dosyasına **dahil** değildir). |
 |||
 
 ## <a name="next-steps"></a>Sonraki adımlar

@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e5d82e43b63c2803b0f494a2f773e32ec135bdfd
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 08be5bb39f58f4697090c2e144ff321331c428e13d165d831e96d9f27a6de403
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114843196"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115693784"
 ---
 # <a name="overview-of-partner-offers-in-the-cloud-solution-provider-program"></a>Bulut Çözümü Sağlayıcısı programında sunulan iş ortağı tekliflerine genel bakış
 
@@ -133,6 +133,6 @@ Aradığınız teklifin katalogda bulunmamasının farklı nedenleri olabilir. B
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-Faturalama işleminin nasıl çalıştığını görmek için bkz. [Faturalama ile ilgili temel bilgiler.](billing-basics.md)
+Faturalandırma sürecinin nasıl çalıştığı hakkında bilgi için bkz. [faturalandırma temelleri](billing-basics.md).
 
-Azure planı kapsamında satın alma hakkında bilgi için [bkz. Azure planını satın alma.](purchase-azure-plan.md)
+Azure planının altında satın alma hakkında bilgi için bkz. [Azure planını satın alma](purchase-azure-plan.md).

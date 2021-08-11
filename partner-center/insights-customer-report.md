@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 327d2ddd97dc4bf226985523184407f32f7883ad
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 22557f993db470537507b09a8a645ed7efe475fe12ce08b310de26d6077643d0
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114843893"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115697616"
 ---
 # <a name="customers-dashboard-reports-from-partner-center-insights"></a>Müşteri pano raporları İş Ortağı Merkezi Analizler
 
@@ -40,7 +40,7 @@ Müşteriler panosu aşağıdaki bölümlere sahip:
 
 ### <a name="customers"></a>Müşteriler
 
-- Şu anda, Office, Azure ve Dynamics gibi tüm bulut ürünlerinde farklı atfı türleri aracılığıyla, Office tüm müşteri sayısıyla ilişkilendirilmektedir. Etkin durumuna sahip en az bir aboneliği varsa müşteri sayılır.  
+- Şu anda, Office, Azure ve Dynamics gibi tüm bulut ürünleri genelinde farklı atfı türleri aracılığıyla, Office tüm müşteri sayısıyla ilişkilendirilmektedir. Etkin durumuna sahip en az bir aboneliği varsa müşteri sayılır.  
 - Seçilen tarih aralığındaki müşterilerin %1'ini reddetme 
 - Micro chart presents month over month trend of customers count over the selected date range
 
@@ -67,7 +67,7 @@ Müşteriler panosu aşağıdaki bölümlere sahip:
 
 ## <a name="geographical-spread-of-your-customers"></a>Müşterilerin coğrafi olarak yayılması
 
-Seçilen tarih aralığında yeni eklenen geçerli müşterilerin, geçerli etkin müşterilerin ve müşterilerin sayısı, müşterinin ülkesi kullanılarak coğrafi olarak eşlenmiştir. Ölçümün altında görüntülenen yüzdeler, söz konusu ölçümün Toplam ülkesi için yüzde katkısını belirtir. Haritanın üzerine gelerek ilgili ülkenin toplam, etkin ve yeni müşterilerini görüntüabilirsiniz. Haritanın konumunu yakınlaştırmak için kılavuzda bir ülke arayabilir ve bu ülkeyi seçin. Haritada Giriş düğmesini seçerek **özgün görünüme** geri dönebilirsiniz. Kılavuzda tüm sütunlar sıralanabilir.  
+Seçilen tarih aralığında yeni eklenen geçerli müşterilerin, geçerli etkin müşterilerin ve müşterilerin sayısı, müşterinin ülkesi kullanılarak coğrafi olarak eşlenmiştir. Ölçümün altında görüntülenen yüzdeler, söz konusu ölçümün Toplam ülkesi için yüzde katkı yüzdesini belirtir. Haritanın üzerine gelerek ilgili ülkenin toplam, etkin ve yeni müşterilerini görüntüabilirsiniz. Haritanın konumunu yakınlaştırmak için kılavuzda bir ülke arayabilir ve bu ülkeyi seçin. Haritada Giriş düğmesini seçerek **özgün görünüme** geri dönebilirsiniz. Kılavuzda tüm sütunlar sıralanabilir.  
 
 :::image type="content" source="images/insights/customer-geography.png" alt-text="Coğrafyaya İş Ortağı Merkezi Analizler Müşteri raporunun ekran görüntüsü, bölgeye göre toplam, eklenen ve yeni müşterilerin dünya haritasını ve listesini gösterir.":::
 

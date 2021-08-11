@@ -9,12 +9,12 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bc9f52cd015e8c1f7b8b91fd72d58f2445a3fce8
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: a2acb85f4306201b2d2ecb8140a5e6b4dec3e5ba57898db04f29640f7467021e
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114844981"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115693818"
 ---
 # <a name="support-from-microsoft"></a>Microsoft 'tan destek
 

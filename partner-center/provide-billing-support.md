@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 40bf13a114eeb2eaaaf8fcae76d52de13d206d9d
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: f2bf96a84b79fd68d6541fe2e611485064f1c0359d1ba10cf0fb7f2b60be53bc
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114845950"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115693121"
 ---
 # <a name="provide-billing-support-for-your-customers-and-help-answer-their-billing-questions"></a>Müşterileriniz için faturalama desteği sağlama ve faturalama sorularını yanıtlamaya yardımcı olun
 
@@ -31,14 +31,14 @@ Müşterilerinizle faturalama ilişkisi size ait ve müşterilerinizle ilgili fa
 
 ## <a name="microsoft-partner-support-guidance"></a>Microsoft iş ortağı desteği kılavuzu
 
-Bulut Çözümü Sağlayıcısı (CSP) modelinde işlem yapılan iş ortakları, müşterilerinin güvenilir danışmanıdır ve müşterileriyle ilgili bir soru veya sorun olduğunda destek de dahil olmak üzere ilişki uzlamı uzmaktadır. Destek temas noktaları aracılığıyla iş ortakları müşteri ve işletmeleri hakkında daha fazla bilgi sahibi olarak değer katacak yeni hizmetler ve çözümler tanımlayabilir.
+Bulut Çözümü Sağlayıcısı (CSP) modelinde işlem yapılan iş ortakları, müşterilerinin güvenilir danışmanıdır ve müşterileriyle ilgili bir soru veya sorun olduğunda destek de dahil olmak üzere ilişki uzmaktadır. Destek temas noktaları aracılığıyla iş ortakları müşteri ve işletmeleri hakkında daha fazla bilgi öğrenerek değer katacak yeni hizmetler ve çözümler tanımlayabilir.
 
 Destek gereksinimini karşılamak için iş ortağı başka bir varlığa yönelik desteği yeniden satarak destek yapısının tamam veya bir kısmını dış kaynak olarak kullanılabilir ve/veya doğrudan destek sağlayacak bir yapıyı yapılandırabilirsiniz.  İş ortağı, müşterilere sağlanan desteğin hepsi veya bir bölümü için ücret tahsil ediyor olabilir. İş ortağı, müşterilerine sağ edecekleri desteği, hizmet saatlerini, iletişim yöntemini ve fiyatlandırmayı (destek için ücretlendirme yapılması halinde) ifade etmeli. 
 
 >[!Note]
 >CSP değil ve müşteri faturalaması hakkında sorularınız varsa, lütfen uygun ürün veya hizmetler için belirli bir portala bakın.
 
-İş ortaklarının müşterilerden gelen destek isteklerini almaları, sorunları iş ortağının yeteneğinden en iyi şekilde tanılamaları ve ardından temel destek sınırları kapsamındaki sorunları çözmeleri gerekir. İş ortağı bir sorunu çözemezse, aşağıdaki destek araçları aracılığıyla sorunları Microsoft'a iletir:
+İş ortaklarının müşterilerden gelen destek isteklerini almaları, sorunları iş ortağının becerilerinden en iyi şekilde tanılamaları ve ardından temel destek sınırları kapsamındaki sorunları çözmeleri gerekir. İş ortağı bir sorunu çözemezse, aşağıdaki destek araçları aracılığıyla sorunları Microsoft'a iletir:
 
 - **CSP** programında tüm iş ortakları için ticari sorun desteği kullanılabilir
 

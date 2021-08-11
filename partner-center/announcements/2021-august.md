@@ -10,20 +10,20 @@ ms.custom:
 - announcement
 - references_regions
 ms.localizationpriority: high
-ms.date: 08/05/2021
-ms.openlocfilehash: 690e4a75b7035c4f16df0eeb4a9985bb29658a11757dcdccc1dd0faa17d1bdef
-ms.sourcegitcommit: 8aa666a297f567435c8bd3eb7e90d29d2b96b601
+ms.date: 08/09/2021
+ms.openlocfilehash: 092fd2af57535ec96d7f261578a047b1b9d05ec02efad4e29cc3c6374d2443d1
+ms.sourcegitcommit: 16e49a6598ab0ac6e94c72287d2621103216b38a
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/08/2021
-ms.locfileid: "116885448"
+ms.lasthandoff: 08/10/2021
+ms.locfileid: "117000284"
 ---
 # <a name="august-2021-announcements"></a>Ağustos 2021 duyuruları
 
 Bu sayfada, Ağustos 2021 için Microsoft Iş Ortağı Merkezi duyuruları sağlanmaktadır.
 
 ________________
-## <a name="view-the-latest-promotions-and-offers"></a><a name="7"></a>En son yükseltmeleri ve teklifleri görüntüleme
+## <a name="view-the-latest-promotions-and-offers"></a><a name="10"></a>En son yükseltmeleri ve teklifleri görüntüleme
 
 ### <a name="summary"></a>Özet
 
@@ -31,7 +31,7 @@ En son genel promosyon hazırlığı Kılavuzu artık yayımlandı.
 
 ### <a name="categories"></a>Kategoriler
 
-- Tarih: 2021-08-06
+- Tarih: 2021-08-10
 - & pazarlar sunar
 
 ### <a name="impacted-audience"></a>Etkilenen hedef kitle
@@ -49,6 +49,102 @@ Işlem hazırlık kaynağı galerisinde en son aylık promosyon kılavuzunu göz
 ### <a name="questions"></a>Sorularınız mı var?
 
 bu tekliflerle ilgili sorular için ilgili Yammer topluluklarınızı kontrol edin.
+
+________________
+## <a name="compliance-monitoring-through-the-partner-accountability-management-pam-team"></a><a name="9"></a>Iş ortağı sorumluluk yönetimi (PAM) ekibi üzerinden uyumluluk izleme
+
+### <a name="summary"></a>Özet
+
+PAM ekibi, uyumluluk izleme programlarımızı geliştirir ve iş ortağı ekosisteminin, ahlak ve güven kültürünün bir kültürünü bakımını sağlar.
+
+### <a name="categories"></a>Kategoriler
+
+- Tarih: 2021-08-09
+- Özellikler
+
+### <a name="impacted-audience"></a>Etkilenen hedef kitle
+
+Dünya çapında Microsoft ile iş ortakları deneyimidir
+
+### <a name="details"></a>Ayrıntılar
+
+İş ortakları olarak, güven oluşturma ve sürdürme konusunda karşılıklı taahhütler, işletmenizin doğru şekilde gerçekleşmesidir. En yüksek kullanım standartları, iş ortaklarının ve müşterilerin bekletilme anahtarıdır ve Microsoft, iş ortaklarımız ve tüm paydaşlarımız için değer sağlamak için gereklidir.
+
+Microsoft, uyumluluk ve güvenin bir kültürünü sağlamak için, PAM ekibi üzerinden neredeyse iki yıl önce uyumluluk izlemeyi kurdu. PAM ekibi, iş ortağı ekosistemimizde bulunan uyumlu olmayan davranışın, her birinin kanalını geliştirmesinin amacı sayesinde, izleme çabalarını ve sürekli olarak sürücüleri sürekli çözümler halinde birleştirir. Microsoft, sözleşmeli yükümlülüklere bağlı olarak uyumluluk infractions için yaptırımlara ve kurs düzeltme girişimlerini uygulayabilir.
+
+İş ortaklarının PAM 'nin nasıl çalıştığını anlamalarına yardımcı olmak için bir [SSS belgesi](https://partner.microsoft.com/resources/detail/partner-accountability-management-faq-pdf) oluşturduğumuz ve önemli alanların çoğunu anladık. [İş ortağı uyumluluğunu anlama (Microsoft.com)](https://partner.microsoft.com/resources/collection/understanding-partner-compliance#/) ve isteğe bağlı eğitime kaydolma hakkında daha fazla bilgi edinebilirsiniz.
+
+Tüm iş ortaklarımız, tedarikçilerimizin ve diğer temsilcilerimize ilişkin bir anımsatıcı olarak, Microsoft temsilcileri için bozulma önleme Ilkenize, Iş ortağı kullanım kodumuzu ve sözleşmelerimizin hüküm ve koşullarına uymanız zorunludur.
+
+### <a name="next-steps"></a>Sonraki adımlar
+
+PAM hakkında SSS hakkında bilgi edinin, isteğe bağlı eğitimi alın ve bu bilgileri kuruluşunuzdaki tüm ilgili takımlarla paylaşabilirsiniz.
+
+### <a name="questions"></a>Sorularınız mı var?
+
+PAM ekibi hakkında sorularınız varsa, Microsoft hesabı ekibine temsilcinizle iletişime geçin.
+
+________________
+## <a name="windows-365-now-available-for-purchase-hybrid-windows-for-a-hybrid-world"></a><a name="8"></a>Windows 365 şu anda satın alınabilir: karma dünya için karma Windows
+
+### <a name="summary"></a>Özet
+
+Microsoft, [Windows 365](https://aka.ms/M365EndpointPartner)ile buluta Windows getiriyor.
+
+### <a name="categories"></a>Kategoriler
+
+- Tarih: 2021-08-09
+- & pazarlar sunar
+
+### <a name="impacted-audience"></a>Etkilenen hedef kitle
+
+Bulut Çözümü Sağlayıcısı (CSP) programı aracılığıyla iş ortakları deneyimidir
+
+### <a name="details"></a>Ayrıntılar
+
+Microsoft [Windows 365](https://aka.ms/M365EndpointPartner) ' nin artık müşterilerin satın alıp sunduğunu duyurmak için heyecanlıdır. Windows 365, Windows 10 veya Windows 11 deneyimini, kişiselleştirilmiş uygulamalarınızı, ayarlarınızı ve Microsoft bulutundaki içeriğinizi herhangi bir cihaza akışını sağlayan yeni bir yol sunan bir bulut hizmetidir.
+
+#### <a name="welcome-to-your-windows-365-cloud-pc"></a>Windows 365 bulut bilgisayarınıza hoş geldiniz:
+
+- **Cihazlar arasında akış:** Windows deneyiminizi cihazlarınızdan birine akıtmak için bulut PC 'nize anında önyükleme yapabilirsiniz.  
+
+- **Her zaman için hazırlanma ve güncelleştirildi:** buluttan akışa alınır ve sizinle yolculukta Windows 365 her zaman ve her yerde, üzerinde çalışmak istediğiniz cihazda her zaman güncellenir. bu, Microsoft bulutu tarafından sunulan basit ve çok yönlü bir Windows deneyimidir.
+
+- **kişisel ve tanıdık:** Windows 365, tüm ayarlarınız ve içeriklerinizi kişiselleştirmeniz ve öğrenildiğinden, bulut bilgisayarınıza geri döndüğünüzde kaldığınız yerden devam edersiniz.
+
+- **ölçeklenebilir ve dayanıklı:** Windows 365, bulutun gücü ve sıfır güvenin ilkeleri kullanılarak tasarım ile güvenlidir. Bilgiler güvenli hale getirilir ve cihazda değil bulutta depolanır.
+
+- **öngörülebilir maliyetler:** Windows 365, kullanıcı başına aylık fiyatlandırmayla bulut bilgisayarlarının tahmin edilebilir olmasını sağlar.
+
+- **satın alma, dağıtma ve yönetme konusunda basit:** Windows 365, diğer çözümlerin aksine, arka planda sanallaştırma kullandığından, satın alma, dağıtım, yönetim ve güncelleştirmeleri basitleştirir.
+
+Windows 365, müşterilerin [windows365.com](https://www.microsoft.com/windows-365?ms.url=w365&rtc=1), Kurumsal Anlaşma veya CSP programı aracılığıyla satın alması için kullanılabilir.
+
+#### <a name="update-on-windows-365-trials"></a>Windows 365 denemelerinden güncelleştirme
+
+önemli talepler nedeniyle Windows 365 denemelerinden kapasiteye ulaştık, bu nedenle yeni denemeleri durakladık. müşteriler, deneme abonelikleri devam ettirmeye devam ederken bir bildirim almak için [kaydolabilirsiniz](https://go.microsoft.com/fwlink/?linkid=2165147) veya [buraya](https://www.microsoft.com/windows-365?ms.url=w365&rtc=1) giderek 365 Windows satın alabilirsiniz.
+
+Bu sırada, hizmeti anlamak isteyen iş ortakları [tıklama tanıtım gösterisini](https://interactive-demo.azureedge.net/)kullanmaya devam edebilir.
+
+### <a name="next-steps"></a>Sonraki adımlar
+
+- Microsoft esire [Windows 365 duyurusunu](https://aka.ms/MSInspireBRK101) izleyin.
+
+- [blog gönderimize](https://www.microsoft.com/microsoft-365/blog/?p=237041?)Windows 365 hakkında daha fazla bilgi edinin.
+
+- Windows 365 ile iş ortağı fırsatı hakkında daha fazla bilgi edinmek için bir [iş ortağı market web seminerine](https://aka.ms/Windows365PartnerWebinar) yönelik 18 ağustos 'tan bize katılın.
+
+- Microsoft iş ortağı web sitesinde, [Operations Resource Gallery](https://partner.microsoft.com/resources/collection/introducing-windows-365-for-a-hybrid-world#/) (gerekli oturum açma) sayfasında bu konuyla ilgili bilgileri gözden geçirin.
+
+### <a name="questions"></a>Sorularınız mı var?
+
+Bu teklifler hakkında daha fazla soru için ilgili [Microsoft iş ortağı topluluklarınızı](https://www.microsoftpartnercommunity.com/)inceleyin.
+
+### <a name="change-log"></a>Değişiklik günlüğü
+
+- 20 temmuz 2021: yeni Windows 365
+- 2 ağustos 2021: Windows 365 artık müşterilerin satın alması için sunulmaktadır
+- 9 ağustos 2021: Windows 365 denemelerinden güncelleştirme
 
 ________________
 ## <a name="upcoming-changes-to-azure-plan-price-lists-for-new-commerce-experience"></a><a name="6"></a>Yeni ticaret deneyimi için Azure planı fiyat listelerine yaklaşan değişiklikler
@@ -77,7 +173,6 @@ Tarihsel olarak, Azure plan ayırmaları fiyat listeleri yanlış eklendi:
 Fiyat listesindeki öğelerin Iş Ortağı Merkezi 'nde satın alınabilecek verilerle eşitlenmiş olduğundan emin olmak için Azure plan Iş ortağı merkezi fiyat listelerinde bazı güncelleştirmeler yapıyoruz. Bu, 2 Eylül 2021 ' den itibaren değinilmesi gerekir. Bu değişiklikler yalnızca yeni Commerce Azure plan ayırmaları fiyat listeleri için geçerlidir.
 
 Eylül ayında, bir RI Iş Ortağı Merkezi 'nde işlem için kullanılabilir hale gelir, bu durumda Fiyat listelerinde mevcut olacaktır. Diğer RIS için iş ortağı, fiyatlandırmayı gözden geçirmek ve satın alma işlemleri yapmak için doğrudan Azure portal gitmelidir.
-
 
 ### <a name="next-steps"></a>Sonraki adımlar
 - İş ortakları, [Iş Ortağı Merkezi](https://partner.microsoft.com/dashboard/sell/pricingandoffers)aracılığıyla kullanılabilir olan RIS 'leri görmek için Azure plan fiyatlandırmasını indirmelidir.
@@ -174,108 +269,56 @@ yeni kullanılabilir Windows 365 teklifleri, iş ortağının, kullanıcıların
 
 İş ortakları satın almadan önce bunu kabul etmelidir.
 
-Kanıtlama, hem Iş Ortağı Merkezi portalının hem de iş ortağı merkezi API 'Lerinin yanı sıra sipariş gönderirken ve sepetleri kullanıma alırken geçerlidir. İş ortakları, [teklif](/partner-center/develop/offer-resources#attestationproperties) veya [SKU](/partner-center/develop/product-resources#attestationproperties) nesnelerinde AttestationProperties ' i denetleyerek hangi tekliflerin kanıtlama gerektirdiğini tespit edebilir. Bu özellikler,station türünü ve satın almalar için uygun olup olamayacaklarını açıklar.
+Kanıtlama, hem Iş Ortağı Merkezi portalının hem de iş ortağı merkezi API 'Lerinin yanı sıra sipariş gönderirken ve sepetleri kullanıma alırken geçerlidir. İş ortakları, [teklif](/partner-center/develop/offer-resources#attestationproperties) veya [SKU](/partner-center/develop/product-resources#attestationproperties) nesnelerinde AttestationProperties ' i denetleyerek hangi tekliflerin kanıtlama gerektirdiğini tespit edebilir. Bu özellikler, kanıtlama türünü açıklayacak ve kanıtlama satın alma işlemleri için zorlanacaktır.
 
-Satın almadan önce şu anda onay gerektiren teklifler aşağıda verilmiştir.
+Aşağıda, şu anda satın almadan önce kanıtlama gerektiren teklifler verilmiştir.
 
  | **Teklif adı** |**Teklif Kimliği** |
 |:------------------------------------------- |:--------------------------------------- |
-| Windows 365 İş 1 vCPU, 2 GB, 64 GB (Windows Hibrit Avantajı ile) | 5f3a7cd2-c76f-4b21-9ddc-f48f09869cf6 |
-| Windows 365 İş 2 vCPU, 4 GB, 128 GB (Windows Hibrit Avantajı ile) | 7612386a-d98d-4110-94b8-554bd612a5ab |
-| Windows 365 İş 2 vCPU, 4 GB, 128 GB (Windows Hibrit Avantajı ile) Deneme Sürümü | ab170880-1254-4534-abb9-fd0bf60cde71 |
-| Windows 365 İş 2 vCPU, 4 GB, 256 GB (Windows Hibrit Avantajı ile) | cc624387-162c-4f31-9d6e-252d39d5324b |
-| Windows 365 İş 2 vCPU, 4 GB, 64 GB (Windows Hibrit Avantajı ile) | f9777f60-19ae-4bd2-b881-6dc674564a2e |
-| Windows 365 İş 2 vCPU, 8 GB, 128 GB (Windows Hibrit Avantajı ile) | 39daa752-18b7-4918-b4eb-cf27cf617ee2 |
-| Windows 365 İş 2 vCPU, 8 GB, 128 GB (Windows Hibrit Avantajı ile) Deneme Sürümü | d5623401-b8e0-429f-86df-29b6efdf4d95 |
-| Windows 365 İş 2 vCPU, 8 GB, 256 GB (Windows Hibrit Avantajı ile) | 8fe4271f-c761-45f8-8261-5ab575195152 |
-| Windows 365 İş 4 vCPU, 16 GB, 128 GB (Windows Hibrit Avantajı ile) | 037cff0f-c231-4cce-a7ef-5324c755ba9a |
-| Windows 365 İş 4 vCPU, 16 GB, 128 GB (Windows Hibrit Avantajı ile) Deneme Sürümü | 46448c4c-8b12-4ea1-9be7-76b35d69bcf5 |
-| Windows 365 İş 4 vCPU, 16 GB, 256 GB (Windows Hibrit Avantajı ile) | 977318cf-57a5-4c3f-a8b6-aa58853dd2e9 |
-| Windows 365 İş 4 vCPU, 16 GB, 512 GB (Windows Hibrit Avantajı ile) | 1a3bdfb8-fb09-4331-8303-2c07e895c6d9 |
-| Windows 365 İş 8 vCPU, 32 GB, 128 GB (Windows Hibrit Avantajı ile) | 1b96db48-9c02-4c95-8c0b-98e4e6aa187c |
-| Windows 365 İş 8 vCPU, 32 GB, 256 GB (Windows Hibrit Avantajı ile) | 3ff72e53-c37f-41d5-b932-793cb39c837b |
-| Windows 365 İş 8 vCPU, 32 GB, 512 GB (Windows Hibrit Avantajı ile) | aca639ae-ae81-4298-a76a-094b6880913b |
+| Windows 365 iş 1 vcpu, 2 gb, 64 gb (Windows hibrit avantajı ile) | 5f3a7cd2-c76f-4b21-9ddc-f48f09869cf6 |
+| Windows 365 iş 2 vcpu, 4 gb, 128 GB (Windows hibrit avantajı ile) | 7612386a-d98d-4110-94b8-554bd612a5ab |
+| Windows 365 iş 2 vcpu, 4 gb, 128 GB (Windows hibrit avantajı ile) deneme sürümü | ab170880-1254-4534-abb9-fd0bf60cde71 |
+| Windows 365 iş 2 vcpu, 4 gb, 256 GB (Windows hibrit avantajı ile) | cc624387-162c-4f31-9d6e-252d39d5324b |
+| Windows 365 iş 2 vcpu, 4 gb, 64 GB (Windows hibrit avantajı ile) | f9777f60-19ae-4bd2-b881-6dc674564a2e |
+| Windows 365 iş 2 vcpu, 8 gb, 128 gb (Windows hibrit avantajı ile) | 39dada752-18b7-4918-b4eb-cf27cf617ee2 |
+| Windows 365 iş 2 vcpu, 8 gb, 128 gb (Windows hibrit avantajı ile) deneme sürümü | d5623401-b8e0-429f-86df-29b6efdf4d95 |
+| Windows 365 iş 2 vcpu, 8 gb, 256 gb (Windows hibrit avantajı ile) | 8fe4271f-c761-45F8-8261-5ab575195152 |
+| Windows 365 iş 4 vcpu, 16 gb, 128 gb (Windows hibrit avantajı ile) | 037cff0f-c231-4cce-a7ef-5324c755ba9a |
+| Windows 365 iş 4 vcpu, 16 gb, 128 gb (Windows hibrit avantajı ile) deneme sürümü | 46448c4c-8b12-4ea1-9be7-76b35d69bcf5 |
+| Windows 365 iş 4 vcpu, 16 gb, 256 gb (Windows hibrit avantajı ile) | 977318cf-57a5-4c3f-a8b6-aa58853dd2e9 |
+| Windows 365 iş 4 vcpu, 16 gb, 512 gb (Windows hibrit avantajı ile) | 1a3bdfb8-fb09-4331-8303-2c07e895c6d9 |
+| Windows 365 iş 8 vcpu, 32 gb, 128 GB (Windows hibrit avantajı ile) | 1b96db48-9c02-4c95-8c0b-98e4e6aa187c |
+| Windows 365 iş 8 vcpu, 32 gb, 256 GB (Windows hibrit avantajı ile) | 3ff72e53-c37f-41d5-b932-793cb39c837b |
+| Windows 365 iş 8 vcpu, 32 gb, 512 GB (Windows hibrit avantajı ile) | aca639ae-ae81-4298-a76a-094b6880913b |
 
 ### <a name="next-steps"></a>Sonraki adımlar
 
-Fiyatlandırma ve teklifler hakkında [daha fazla bilgi için](../pricing-and-offers.md#offer-attestation) nasıl yapılması gerekir? konusunu gözden geçirebilirsiniz.
+[Fiyatlandırmayla](../pricing-and-offers.md#offer-attestation) daha fazla bilgi gözden geçirin ve nasıl yapılır konusuna bakın.
 
 ________________
-## <a name="windows-365-now-available-for-purchase-hybrid-windows-for-a-hybrid-world"></a><a name="2"></a>Windows 365 artık satın alınabilir: Hibrit Windows hibrit dünya için hibrit bulut
+## <a name="view-this-months-product-launches-and-offers"></a><a name="1"></a>Bu aya ait ürünün başlatılan ve tekliflerini görüntüleyin
 
 ### <a name="summary"></a>Özet
 
-Microsoft, Windows [365](https://aka.ms/M365EndpointPartner)ile Windows getiriyor.
+Ağustos 2021 ürünü başlatma takvimi artık yayımlandı.
 
 ### <a name="categories"></a>Kategoriler
 
 - Tarih: 2021-08-01
 - Özellikler
 
-### <a name="impacted-audience"></a>Etkilene hedef kitle  
+### <a name="impacted-audience"></a>Etkilenen hedef kitle
 
-Bulut Çözümü Sağlayıcısı (CSP) programı aracılığıyla işlem yapılan iş ortakları
-
-### <a name="details"></a>Ayrıntılar
-
-Microsoft, müşterilerin satın almaları [için Windows 365'in](https://aka.ms/M365EndpointPartner) kullanılabilir olduğunu duyurmak için heyecanlanıyor. Windows 365, Windows 10 veya Windows 11'de deneyim yaşamanın, kişiselleştirilmiş uygulamalarınızı, ayarlarınızı ve içeriğinizi Microsoft bulutundan herhangi bir cihaza akışa alamanıza yönelik yeni bir yol sunar.
-
-Windows 365 Cloud PC'nize hoş geldiniz:
-
-- **Cihazlar arasında akış:** Anında Cloud PC'nize önyükler ve Windows cihazlarınızı akışla akışını yapabilirsiniz.  
-
-- **Her zaman hazır ve güncelleştirilmiş:** Buluttan akışı yapılan ve birlikte seyahat eden Windows 365, nerede olursanız olun, çalışmak istediğiniz cihazda her zaman hazır ve her zaman güncelleştirilir. Bu, Microsoft bulutu tarafından Windows basit ve çok yönlü bir deneyimdir.
-
-- **Kişisel ve tanıdık:** Windows 365, kişiselleştirilmiş ve tüm ayarlarınız ve içeriğiniz hakkında bilgi sahibidir. Bu nedenle, Bulut bilgisayarınıza geri dönüp tam da bırakılasınız.
-
-- **Ölçeklenebilir ve esnek:** Windows 365, bulutun gücü ve bulut yönetimi ilkeleri kullanılarak Sıfır Güven. Bilgiler güvenlidir ve cihazda değil bulutta depolanır.
-
-- **Tahmin edilebilir maliyetler:** Windows 365, Bulut bilgisayarlarını satın almayı kullanıcı başına aylık fiyatlandırmayla tahmin edilebilir hale gelir.
-
-- **Satın almak, dağıtmak** ve yönetmek basit: Windows 365, diğer çözümlerin aksine arkalarında sanallaştırma kullandığı için tedarik, dağıtım, yönetim ve güncelleştirmeleri basitleştiriyor.
-
-Windows 365, müşterilerin windows365.com, [Kurumsal Anlaşma](https://www.microsoft.com/windows-365?ms.url=w365&rtc=1)veya CSP programı aracılığıyla satın almaları için kullanılabilir.
-
-### <a name="next-steps"></a>Sonraki adımlar
-
-- Microsoft Inspire [Windows 365 duyuruslarını](https://aka.ms/MSInspireBRK101) izleyin.
-- blog gönderimiz aracılığıyla Windows 365 hakkında [daha fazla bilgi edinebilirsiniz.](https://www.microsoft.com/microsoft-365/blog/?p=237041?)
-- 365'e sahip [](https://aka.ms/Windows365PartnerWebinar) iş ortağı fırsatı hakkında daha fazla bilgi edinmek için 18 Ağustos'ta iş ortağı pazara Windows katılın.
-- Microsoft iş ortağı web sitesinin İşlemler kaynak [galerisinde](https://partner.microsoft.com/resources/collection/introducing-windows-365-for-a-hybrid-world#/) (oturum açma gereklidir) bu konu başlığıyla ilgili bilgileri gözden geçirebilirsiniz.
-
-### <a name="questions"></a>Sorularınız mı var?
-
-Bu teklifler hakkında daha fazla soru için ilgili Microsoft iş ortağı [topluluklarınızı kontrol edin.](https://www.microsoftpartnercommunity.com/)
-
-#### <a name="change-log"></a>Değişiklik günlüğü
-
-- 20 Temmuz 2021: Yeni Windows 365
-- 2 Ağustos 2021: Windows 365 artık müşterilerin satın almaları için kullanılabilir
-
-________________
-## <a name="view-this-months-product-launches-and-offers"></a><a name="1"></a>Bu ayın ürün lansmanlarını ve tekliflerini görüntüleme
-
-### <a name="summary"></a>Özet
-
-Ağustos 2021 ürün lansman takvimi yayımlandı.
-
-### <a name="categories"></a>Kategoriler
-
-- Tarih: 2021-08-01
-- Özellikler
-
-### <a name="impacted-audience"></a>Etkilene hedef kitle
-
-Bulut Çözümü Sağlayıcısı (CSP) programı aracılığıyla işlem yapılan tüm iş ortakları
+tüm iş ortakları Bulut Çözümü Sağlayıcısı (CSP) programı üzerinden deneyimidir
 
 ### <a name="details"></a>Ayrıntılar
 
-Ağustos 2021 [ürün lansman takvimi](https://partner.microsoft.com/resources/collection/product-launch-calendar-collection#/) artık İşlemler için hazır olma kaynak galerisinde kullanılabilir. Yaklaşan ürün lansmanlarını ve tekliflerini burada görüntüle.
+Ağustos 2021 [ürünü başlatma takvimi](https://partner.microsoft.com/resources/collection/product-launch-calendar-collection#/) artık işlem hazırlık kaynağı galerisinde kullanılabilir. Yakında çıkacak ürünü görüntüleyin ve burada teklif edin.
 
 ### <a name="next-steps"></a>Sonraki adımlar
 
-Ürün [lansman takvimini](https://partner.microsoft.com/resources/collection/product-launch-calendar-collection#/)gözden geçirin ve bilgileri kuruluşta uygun proje katılımcıları ile paylaşın.  
+[Ürün başlatma takvimini](https://partner.microsoft.com/resources/collection/product-launch-calendar-collection#/)gözden geçirin ve bilgileri kuruluşunuzdaki uygun hissedarlarla paylaşabilirsiniz.  
 
 ### <a name="questions"></a>Sorularınız mı var?
 
-Bu teklifler hakkında daha fazla soru için ilgili topluluklarınızı Yammer kontrol edin.
+bu teklifler hakkında daha fazla soru için ilgili Yammer topluluklarınızı kontrol edin.

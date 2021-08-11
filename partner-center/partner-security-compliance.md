@@ -9,12 +9,12 @@ ms.author: iswillia
 ms.localizationpriority: high
 ms.topic: conceptual
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 15e2792a38f8fc90612282ff30ad57dc320fc96a
-ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
+ms.openlocfilehash: 6fe463ca0b134d2e0c758826b411419f57ca32bfe71ec9663b3da093f5473146
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/04/2021
-ms.locfileid: "115101239"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115696198"
 ---
 # <a name="security-requirements-status-report"></a>Güvenlik gereksinimleri durum raporu
 
