@@ -9,12 +9,12 @@ author: kbangalore
 ms.author: kiranban
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 84448566bb3a5d4ef8655ccfee86e7d39f4a6642
-ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
+ms.openlocfilehash: 18ffd80e1a05ef5e6120828341dd9f4e8ec172dab64ace423b5f5148e6ea999c
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/04/2021
-ms.locfileid: "115100407"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115695773"
 ---
 # <a name="restore-a-suspended-partner-center-account---learn-why-it-happens-and-what-to-do-about-it"></a>Askıya alınmış İş Ortağı Merkezi hesabını geri yükleme - Nedenini ve ne yapabileceğinizi öğrenin
 

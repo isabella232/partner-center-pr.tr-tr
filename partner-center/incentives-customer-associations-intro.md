@@ -8,12 +8,12 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 05/20/2021
-ms.openlocfilehash: b540f3f667095704bddd78873faac94246fbf59a
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 8f1e61231d568e519237c50390dd370def4d8133f7f31ec1178ed68f72c80dea
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114840408"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115695212"
 ---
 # <a name="use-these-resources-to-make-customer-association-claims-for-specific-incentives-programs"></a>Belirli teşvikleri programları için müşteri ilişkisi talepleri oluşturmak üzere bu kaynakları kullanın
 

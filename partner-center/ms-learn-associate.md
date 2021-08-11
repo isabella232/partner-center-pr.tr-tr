@@ -1,88 +1,88 @@
 ---
-title: Microsoft Learn MCP KIMLIĞI 'ni Iş Ortağı Merkezi hesabına bağlama
+title: Microsoft Learn MCP Kimliğini İş Ortağı Merkezi bağlama
 ms.topic: how-to
 ms.date: 08/03/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-membership
-description: Şirketinizin Uzmanlıklar konusunda aldığınız eğitim ve öğrenme yollarını görebilmesi için, MCP KIMLIĞINIZI Iş Ortağı Merkezi hesabınızla ilişkilendirmeyi öğrenin.
+description: McP id'nizi İş Ortağı Merkezi hesabınızla ilişkilendirmeyi öğrenin. Böylece, şirket yetkinliğe yönelik olarak benimserilen eğitim ve öğrenme yollarını görebilir.
 author: kbangalore
 ms.author: kiranban
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a707c1b9c238063704d87b3c5542a11412985267
-ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
+ms.openlocfilehash: c4f97486048425330e62991bae8589f07f042be82dc23c1cc077fba608a1b5a2
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/04/2021
-ms.locfileid: "115101599"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115694277"
 ---
-# <a name="link-or-unlink-a-microsoft-certification-profile-id-mcid-to-a-microsoft-partner-network-mpn-account"></a>Microsoft sertifika profili KIMLIĞINI (MCıD) Microsoft İş Ortağı Ağı (MPN) hesabına bağlama veya bağlantısını kaldırma
+# <a name="link-or-unlink-a-microsoft-certification-profile-id-mcid-to-a-microsoft-partner-network-mpn-account"></a>Microsoft Sertifika profili kimliğini (MCID) bir Microsoft İş Ortağı Ağı (MPN) hesabına bağlama veya bağlantısını geri alma
 
-**Uygun roller**: tüm Iş Ortağı Merkezi kullanıcıları
+**Uygun roller:** Tüm İş Ortağı Merkezi kullanıcılar
 
-Bu makalede, Microsoft sertifika programı 'ndaki etkin sertifikaları tutan müşterilerin Microsoft sertifika profili KIMLIĞINI (MCıD) bir Microsoft İş Ortağı Ağı (MPN) kuruluşla nasıl bağlayabileceğiniz veya bağlantısını nasıl üstleyebileceğiniz açıklanır.
+Bu makalede, Microsoft Sertifika Programı'da etkin sertifikalara sahip olan müşterilerin Microsoft Sertifika profili kimliklerini (MCID) bir Microsoft İş Ortağı Ağı (MPN) kuruluşuyla nasıl bağdan kaldırabilirsiniz?
 
-Sınavları gözden geçirmek için bir MPN Iş ortağı Yöneticisi veya küresel yönetici olmanız ya da ilişkili sınavları [gözden geçirmek](https://partner.microsoft.com/pcv/partnership/competencies) için yetenek raporlarını indirmeniz gerekir. İş ortağı organizasyonu, bağlantılı Mcıd 'Leri kuruluşlarıyla ilişkilendirerek bireyler gereksinimini karşılar. Bir MCıD, aynı anda yalnızca tek bir MPN üyeliğine bağlanabilir.
+Sınavlar için uzmanlık [(oturum](https://partner.microsoft.com/pcv/partnership/competencies) açma gereklidir) durumunu gözden geçirmek veya ilişkili sınavları gözden geçirmek için beceri raporlarını indirmek için MPN İş Ortağı Yöneticisi veya Genel Yönetici olmak gerekir. İş ortağı kuruluş, kuruluşlarıyla ilişkilendirilmiş bağlı MCID'lere sahip kişilerin sahip olmasıyla uzmanlık gereksinimlerini karşılar. MCID aynı anda yalnızca tek bir MPN üyeliğine bağlanabilirsiniz.
 
-## <a name="get-partner-university-access"></a>Iş ortağı Üniversitesi erişimini al
+## <a name="get-partner-university-access"></a>Partner University erişimine sahip olun
 
-Microsoft sertifikalarınızı ilişkilendirmek için iş ortağı kuruluşunuzla ilişkili bir Iş Ortağı Merkezi hesabına (etkin AD) sahip olmanız gerekir. MPN iş ortağı kuruluşlarının üyeleri, iş ortağı merkezi 'Nde oturum açmak için MPN iş ortağı kurumsal iş Kullanıcı adı ve parolasını (iş hesabı) kullanmalıdır.
-Iş ortağı University 'e erişim sağlamak için aşağıdaki yordamı kullanın.
-
-1. [İş Ortağı Merkezi panosunda](https://partner.microsoft.com/dashboard/) oturum açın.
-2. Sağ üst köşedeki **mavi profilimi** seçin
-3. **Learning** alanında **iş ortağı üniversite erişimini al**' ı seçin. İş ortağı Üniversitesi hesabı kimlik bilgilerinizi (iş ortağı merkezi hesabınız değil) girmeniz gerekir. Iş ortağı Üniversitesi hesabınız artık Iş Ortağı Merkezi Kullanıcı hesabınızla ilişkilendirilir. Değerlendirmelerinizin, Iş Ortağı Merkezi kullanıcı becerileri raporuna 72saat içinde yansıtılacaktır.
-4. İlişkilendirmeyi kaldırmak için **erişimi kaldır**' ı seçin.
-
-## <a name="associate-a-microsoft-learning-account"></a>bir Microsoft Learning hesabını ilişkilendir
-
-bir Microsoft Learning hesabını ilişkilendirmek için aşağıdaki yordamı kullanın. 
+Microsoft Sertifikanızı ilişkilendirmek için, iş ortağı İş Ortağı Merkezi ilişkili bir İş Ortağı Merkezi hesabınız (Active AD) olması gerekir. MPN iş ortağı kuruluşlarının üyeleri, iş ortağı kuruluşlarında oturum açmaları için MPN iş ortağı kuruluşlarının iş kullanıcı adını ve parolasını (iş hesabı) İş Ortağı Merkezi.
+Partner University'ye erişmek için aşağıdaki yordamı kullanın.
 
 1. [İş Ortağı Merkezi panosunda](https://partner.microsoft.com/dashboard/) oturum açın.
-2. profil sayfanızda, **microsoft sınavları ve** sertifikalar alanına gidip **microsoft Learning hesabını ilişkilendir**' i seçin.
-3. İstendiğinde, Microsoft sertifika profilinizde (MCKIMLIĞINIZ) oturum açmak için kullandığınız kimlik bilgilerini girin.
+2. Sağ üst **köşedeki** mavi Profilim simgesini seçin
+3. İş **Ortağınız Learning** Partner **University Erişimi Al'ı seçin.** Partner University hesabı kimlik bilgilerinizi (İş Ortağı Merkezi değil) girmeniz gerekir. Partner University hesabınız artık İş Ortağı Merkezi hesabınızla ilişkilendirilecek. Değerlendirmeniz 72 saat içinde İş Ortağı Merkezi Kullanıcı Becerileri raporuna yansıtıldı.
+4. İlişkiyi kaldırmak için Erişimi **kaldır'ı seçin.**
+
+## <a name="associate-a-microsoft-learning-account"></a>Microsoft Learning ilişkilendirme
+
+Bir Microsoft Learning hesabı ilişkilendirmek için aşağıdaki yordamı kullanın. 
+
+1. [İş Ortağı Merkezi panosunda](https://partner.microsoft.com/dashboard/) oturum açın.
+2. Profil sayfanız altında Microsoft sınavları ve sertifikaları alanına inin ve **Microsoft'u** microsoft Learning **seçin.**
+3. İstendiğinde, Microsoft sertifika profilinizde (MCID'niz) oturum atı için kullanabileceğiniz kimlik bilgilerini girin.
 
 >[!NOTE]
->microsoft Learning hesabı kimlik bilgileri iş ortağı üniversitesi hesabı kimlik bilgileriyle aynıysa, **email@address microsoft Learning hesabımı ilişkilendirmek için kullan**' ı seçin.
+>Microsoft Learning kimlik bilgileri Partner University hesabı kimlik bilgileriyle aynı ise, Microsoft Learning hesabımı **email@address ilişkilendirmek için kullan'ı seçin.**
 
-## <a name="download-skills-report-microsoft-certification-list"></a>Becerileri indir raporu (Microsoft sertifika listesi)
-Ayrıntılara ihtiyacınız varsa, skillsreport Iş Ortağı Merkezi 'nden herhangi bir genel yönetici veya MPN Iş ortağı Yöneticisi tarafından erişilebilir ve indirilebilir. [Daha fazla bilgi edinmek](./mpn-skills-report.md#view-skills-report-data)için.
+## <a name="download-skills-report-microsoft-certification-list"></a>Beceri raporunu indirme (Microsoft Sertifikasyon listesi)
+Ayrıntılara ihtiyacınız varsa, beceriler rapora herhangi bir Genel Yönetici veya MPN İş Ortağı Yöneticisi tarafından İş Ortağı Merkezi. Daha [fazla bilgi edinmek için.](./mpn-skills-report.md#view-skills-report-data)
 
 
-## <a name="frequently-asked-questions-about-linking-accounts"></a>Hesapların bağlanması hakkında sık sorulan sorular
+## <a name="frequently-asked-questions-about-linking-accounts"></a>Hesapları bağlama hakkında sık sorulan sorular
 
-### <a name="how-can-a-user-link-their-microsoft-certification-profile-id-mcid-with-the-microsoft-partner-network-mpn-organization-they-work-for"></a>Bir Kullanıcı Microsoft sertifika profili KIMLIĞINI (MCıD), çalıştıkları Microsoft İş Ortağı Ağı (MPN) kuruluşla nasıl bağlayabilirler?
+### <a name="how-can-a-user-link-their-microsoft-certification-profile-id-mcid-with-the-microsoft-partner-network-mpn-organization-they-work-for"></a>Bir kullanıcı Microsoft Sertifika profili kimliğini (MCID) birlikte Microsoft İş Ortağı Ağı (MPN) kuruluşuna nasıl bağlar?
 
-kullanıcılar iş ortağı merkezi 'nde oturum açıp **profilim** 'e gidip **iş ortağı üniversite hesabını al** ' ı veya **Microsoft Learning hesabını ilişkilendirir** ve kimlik bilgilerini girmelidir. bir microsoft Learning hesabıyla ilişkilendirmek için, kullanıcının microsoft sertifika profilinde (mcıd) oturum açmak için kullanılan kullanıcı adını ve parolayı girmesi gerekir. Gizlilik konuları nedeniyle, kullanıcıların hesap bağlama işlemini tamamlaması gerekir.  
+Kullanıcıların oturum açması İş Ortağı Merkezi oturum  Profilim partner **university** hesabı al veya **Microsoft** Learning hesabıyla iş ortağını al'ı seçerek kimlik bilgilerini girmeleri gerekir. Bir Microsoft Learning hesabıyla ilişkilendirmek için kullanıcının Microsoft Sertifika profilinde (MCID) oturum aken kullanılan kullanıcı adını ve parolayı girdisi gerekir. Gizlilikle ilgili dikkat edilmesi gerekenler nedeniyle kullanıcıların hesap bağlama işlemini kendileri tamamlaması gerekir.  
 
-### <a name="how-can-a-user-unlink-their-mcid-from-the-mpn-organization-they-work-for"></a>Bir Kullanıcı, kendi MCıD 'leri için çalıştıkları MPN kuruluştan nasıl bağlantıyı kesebilir?
+### <a name="how-can-a-user-unlink-their-mcid-from-the-mpn-organization-they-work-for"></a>Bir kullanıcı, MCID'sini üzerinde çalışmakta olduğu MPN kuruluşundan nasıl kaldırmış olabilir?
 
-Iş Ortağı Merkezi ' nde oturum açın, **profilimi** Kaldır ' a gidin ve **erişimi kaldır**' ı seçin Gizlilik konuları nedeniyle, kullanıcının hesap bağlama işlemini tamamlaması gerekir.
+Oturum a İş Ortağı Merkezi Profilim'e **gidin ve Erişimi** **kaldır'ı seçin.** Gizlilikle ilgili dikkat edilmesi gerekenler nedeniyle, kullanıcının hesap bağlama işlemini kendi tamamlaması gerekir.
 
-### <a name="the-user-left-company-a-and-now-works-for-company-b-how-can-they-link-their-microsoft-certification-profile-id-mcid-with-company-b"></a>Kullanıcı A şirketi bıraktı ve artık B şirketi için de çalışmaktadır. Microsoft sertifika profili KIMLIĞINI (MCıD) Şirket B ile nasıl bağlayabilirler?
+### <a name="the-user-left-company-a-and-now-works-for-company-b-how-can-they-link-their-microsoft-certification-profile-id-mcid-with-company-b"></a>Kullanıcı Şirket A'dan ayrıldı ve artık Şirket B için çalışıyor. Microsoft Sertifikasyon profili kimliklerini (MCID) B şirketine nasıl bağlar?
 
-Kullanıcı, yukarıdaki yordamı izleyerek MCıD 'sini Şirket B ile bağlantılandırmalıdır. Kullanıcı MCıD 'sini Şirket B 'ye bağladıktan sonra, Şirket A 'dan otomatik olarak bağlantısı kaldırılır.
+Kullanıcının yukarıdaki yordamı kullanarak MCID'sini B şirketiyle bağlaması gerekir. Kullanıcı MCID'sini B şirketiyle bağlantıdan kaldırmış olur.
 
-### <a name="the-user-left-company-a-and-no-longer-has-access-to-partner-center-they-want-to-unlink-their-mcid-from-company-a-and-are-not-planning-to-link-it-with-another-mpn-organization-at-the-moment"></a>Kullanıcı A 'nın bıraktı ve artık Iş Ortağı Merkezi 'ne erişimi yok. Bu kişilerin MCıD 'lerden Şirket A 'dan bağlantısını kaldırmak ve bu sırada başka bir MPN organizasyonu ile bağlamayı planlamalarını istiyoruz.
+### <a name="the-user-left-company-a-and-no-longer-has-access-to-partner-center-they-want-to-unlink-their-mcid-from-company-a-and-are-not-planning-to-link-it-with-another-mpn-organization-at-the-moment"></a>Kullanıcı Şirket A'dan ayrıldı ve artık şirket İş Ortağı Merkezi. Şirket, MCID'lerinin A şirketinden bağlantısını geri almak istiyor ve şu anda başka bir MPN kuruluşuyla bağlantıyı planlamaz.
 
-Kullanıcı hesabının şirketten ayrıldıktan sonra genel yönetici tarafından silinmesi gerekir. Kullanıcının MCıD 'SI, yetenek raporundaki şirkete bağlı olarak görünmeye devam ediyorsa, kullanıcının genel yönetici tarafından rapordan kaldırmasını istemesi gerekir.
+Kullanıcının hesabı, şirketten ayrıldıktan sonra Genel Yönetici tarafından silinmelidir. Kullanıcının MCID'i yine de beceri raporunda şirkete bağlı olarak görünüyorsa, kullanıcı Genel Yöneticinin bunları rapordan kaldırmasını ister.
 
-### <a name="the-admin-provided-sign-in-details-for-a-work-email-account-to-a-user-and-they-have-had-no-response"></a>Yönetici, bir iş e-posta hesabı için oturum açma ayrıntılarını kullanıcıya sağladı ve yanıt vermez.
+### <a name="the-admin-provided-sign-in-details-for-a-work-email-account-to-a-user-and-they-have-had-no-response"></a>Yönetici, bir iş e-posta hesabı için oturum açma ayrıntılarını kullanıcıya sağladı ve hiçbir yanıt yoktu.
 
-Yönetici önce kullanılan e-posta adresini doğrulamalıdır ve ardından hesap bilgilerinin sağlandığı kullanıcıyla iletişim kurmaya melidir.
+Yöneticinin önce kullanılan e-posta adresini doğrulaması ve ardından hesap bilgilerini sağladığı kullanıcıyla iletişim kurması gerekir.
 
-### <a name="a-user-tries-to-associate-their-mcp-learning-account-to-their-profile-in-partner-center-and-receives-a-message-that-their-association-is-limited-for-example-you-have-attempted-to-associate-with-a-partner-organization-however-we-require-a-period-of-30-days-between-associations-your-next-available-date-for-a-subsequent-association-is-xxx"></a>kullanıcı, MCP Learning hesabını iş ortağı merkezi 'ndeki profiliyle ilişkilendirmeyi dener ve ilişkisinin sınırlı olduğunu belirten bir ileti alır. Örneğin, "bir iş ortağı kuruluşla ilişkilendirmeyi denediniz. Bununla birlikte, ilişkilendirmeler arasında 30 günlük bir süre gerekir. Sonraki bir ilişkilendirme için bir sonraki kullanılabilir tarih XXX "
+### <a name="a-user-tries-to-associate-their-mcp-learning-account-to-their-profile-in-partner-center-and-receives-a-message-that-their-association-is-limited-for-example-you-have-attempted-to-associate-with-a-partner-organization-however-we-require-a-period-of-30-days-between-associations-your-next-available-date-for-a-subsequent-association-is-xxx"></a>Bir kullanıcı, İş Ortağı Merkezi hesabıyla MCP Learning hesabını ilişkilendirmeye çalışır ve ilişkilendirmelerinin sınırlı olduğunu ileti alır. Örneğin" İş ortağı kuruluşuyla ilişkilendirmeye çalıştınız. Ancak, ilişkilendirmeler arasında 30 günlük bir süreye ihtiyaç vardır. Sonraki ilişkilendirme için bir sonraki kullanılabilir tarihiniz XXX"
 
-Uygunsuz kullanım açısından korumak için, bir MCP bireyin her yıl izin verilen sınırlı sayıda 3 ilişkiye sahiptir ve ilişkilendirmenin başlangıcında başlayan her bir ilişki arasında 30 günlük seyrek erişimli bir süre vardır. Her Kullanıcı, yeni bir ilişkilendirmeyi ne zaman başlatabilecekleri hakkında bilgi almak için profilindeki tarihi denetleyebilir. Kullanıcının bu tarihten sonra ilişkilendirme sorunları varsa, desteğe başvurmaları gerekir.  
+Kötüye kullanımdan korunmak için mcp kişisi her yıl sınırlı sayıda 3 ilişkilendirmeye izin verilir ve her ilişkilendirme arasında ilişkilendirmenin başlangıcında başlayan 30 günlük bir geri çekilme süresi vardır. Her kullanıcı profilinde tarihi kontrol etmek için yeni bir ilişkilendirmenin ne zaman başlatılana bakabilirsiniz. Kullanıcının bu tarihten sonrayla ilgili sorunları varsa dehayla iletişim kurması gerekir.  
 
 ## <a name="how-to-get-support"></a>Destek alma
 
-SSS bölümünde açıklanmayan MPN iş ortağı kuruluşlarıyla Mcıd 'Leri bağlama veya bağlantısını kaldırma teknik sorunları için Microsoft [desteği](https://partner.microsoft.com/support)ile bir bilet açın.
+SSS'de ele alın olmayan MPN iş ortağı kuruluşlarıyla MCID'leri bağlama veya bağlantılarını kaldıran teknik sorunlar için Microsoft desteğiyle bir bilet [açın.](https://partner.microsoft.com/support)
 
-Microsoft sertifika profili (MCıD) birleştirme işlemiyle ilgili sorular için [sertifika desteğe](https://aka.ms/mcpforum)başvurun.
+Microsoft Sertifikasyon profili (MCID) birleştirme işlemiyle ilgili sorular için Sertifikasyon [Desteği'ne başvurun.](https://aka.ms/mcpforum)
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
 - [Kullanıcı rolleri ve izinleri](./permissions-overview.md)
 - [Yetkinlikler](https://partner.microsoft.com/membership/competencies)
-- [Microsoft Learn Analytics raporu, şirketinizdeki öğreniplerin durumunu gösterir](ms-learn-analytics.md)
+- [Microsoft Learn analiz raporu, şirketiniz için öğrenciler durumunu gösterir](ms-learn-analytics.md)

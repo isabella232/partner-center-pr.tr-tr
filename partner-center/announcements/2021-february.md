@@ -1,6 +1,6 @@
 ---
 title: Şubat 2021 duyuruları
-description: Yeni özellikler, promosyonlar, teklifler, pazarlar veya mevcut tekliflerde yapılan değişiklikler dahil olmak üzere Microsoft İş Ortağı Merkezi için Şubat 2021 duyuruları.
+description: Yeni yetenekler, promosyonlar, teklifler, pazarlar veya mevcut tekliflerle ilgili değişiklikler dahil olmak üzere Microsoft Iş Ortağı Merkezi için Şubat 2021 duyuruları.
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-announcements
@@ -11,143 +11,143 @@ ms.custom:
 - references_regions
 ms.localizationpriority: high
 ms.date: 04/08/2021
-ms.openlocfilehash: c7ae6a138f90f79e85c0ab8132873988524b9890
-ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
+ms.openlocfilehash: a80c150cd9157387e690b3d47a059c57bbb58e3c7e65a79f6410a15ae5cd886e
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/04/2021
-ms.locfileid: "115101582"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115688159"
 ---
 # <a name="february-2021-announcements"></a>Şubat 2021 duyuruları
 
-Bu sayfada, Şubat 2021 İş Ortağı Merkezi Microsoft İş Ortağı Merkezi duyuruları ayrıntılı olarak açıklanmaz.
+Bu sayfada, Şubat 2021 ' de Microsoft Iş Ortağı Merkezi duyuruları ayrıntılı olarak yer alındı.
 
 ________________
-## <a name="reminder-deprecation-of-get-qualification-on-may-4-2021"></a><a name="14"></a>Anımsatıcı: 4 Mayıs 2021'de GET niteliğinin kullanımdan çıkarılması
+## <a name="reminder-deprecation-of-get-qualification-on-may-4-2021"></a><a name="14"></a>Anımsatıcı: 4 Mayıs 2021 ' de GET nitelemesini kullanımdan kaldırma
 
 ### <a name="categories"></a>Kategoriler
 
 - Tarih: 2021-04-09
 - Özellikler
 
-### <a name="impacted-audience"></a>Etkilene hedef kitle
+### <a name="impacted-audience"></a>Etkilenen hedef kitle
 
-İş Ortağı Merkezi API'sini kullanarak Bulut Çözümü Sağlayıcısı programı aracılığıyla Academic, Government Community Cloud Nonprofit ve GCC (GCC) teklifleri satan İş Ortağı Merkezi iş ortakları
+ortaklık, kar amacı ve Government Community Cloud (GCC) satan iş ortakları, iş ortağı merkezi apı 'sini kullanarak Bulut Çözümü Sağlayıcısı programı aracılığıyla sunulur
 
 ### <a name="details"></a>Ayrıntılar
 
-Bu duyuru, Aralık ayında yayımlanan İş Ortağı Merkezi [bir takiptir.](2020-december.md#1) Bu sürümün bir parçası olarak yeni GET ve POST Nitelik API'leri dağıtıldı ve sonuç olarak mevcut GET niteliği 4 Mayıs 2021'e kadar kaldırılacak. Bu süre içinde, eğitim tekliflerini satın almada yeni POST İş Ortağı Merkezi API'lerini ve ön nitelikli Kar Amacı Gütmeyen kuruluş ve GCC tekliflerini satın almak için yeni GET nitelikler API'sini kullanmaya geçiş GCC gerekir.
+Bu duyuru, [Aralık ayında yayınlanan](2020-december.md#1)Iş ortağı merkezi geliştirmeleri için bir izdir. Bu yayının bir parçası olarak, yeni GET ve POST nitelikleri API 'Leri dağıtılır ve sonuç olarak, mevcut GET niteliği 4 Mayıs 2021 ' de kullanımdan kaldırılacaktır. bu süre içinde, satın alma eğitimlerine sunulan yeni POST iş ortağı merkezi apı 'lerini ve yeni GET nitelikleri apı 'sini kullanarak, kar amacı gütmeyen ve GCC teklifleri satın almanız gerekir.
 
 ### <a name="next-steps"></a>Sonraki adımlar
 
-- Başarılı ve zamanında geçiş için yeni API'lere güncelleştirin.
+- Başarılı ve zamanında geçiş için yeni API 'lere güncelleştirin.
 
-- Yeni İŞ ORTAĞı MERKEZI API değişikliklerini ve operasyon hazırlığı kaynaklarında Kılavuz'İş Ortağı Merkezi [gözden geçirebilirsiniz: İş Ortağı Merkezi Eğitim müşteri doğrulama süreci geliştirmeleri.](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/)
+- Işlem hazırlık kaynaklarında yeni Iş Ortağı Merkezi API 'SI değişikliklerini ve kılavuzunu gözden geçirin: [Partner Center eğitim müşteri doğrulama işlemi geliştirmeleri](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/).
 
-- Bu bilgileri, bu değişikliklere hazırlanmalarına yardımcı olmak için kuruluş içindeki uygun ekiplerle ve kurumsal bayilerle paylaşın.
+- Bu bilgileri kuruluşunuzdaki uygun ekiplerle ve bu değişikliklere hazırlanmalarına yardımcı olmak için satıcılarla birlikte paylaşabilirsiniz.
 
 ### <a name="questions"></a>Sorularınız mı var?
 
-Bu bildirimle ilgili tüm sorular için destek için [İş Ortağı Merkezi başvurun.](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals)
+Bu bildirimle ilgili sorularınız için [Iş ortağı merkezi desteği](https://partner.microsoft.com/dashboard/support/referrals/servicerequests?category=referrals)'ne başvurun.
 
 ### <a name="change-log"></a>Değişiklik günlüğü
 
-- Nisan: GET niteliğinin kullanımdan çıkarılması hakkında anımsatıcı 
-- Şubat: GET ve PUT niteliklerinin kullanımdan & güncelleştirildi
-- Ocak: GET ve PUT niteliklerinin kullanımdan & anımsatıcısı
+- Nisan: kullanım dışı bırakma niteliği kullanım dışı bırakma anımsatıcısı 
+- Şubat: GET & PUT nitelikleri 'nin kullanımdan kaldırılması için zaman çizelgeleri güncelleştirildi
+- Ocak: GET & PUT nitelikleri için yaklaşan kullanım dışı bırakın
 
 
 ________________
-## <a name="share-co-sell-deals-at-scale-using-the-partner-center-bulk-operations-capability"></a><a name="13"></a> Toplu işlemler özelliğini kullanarak büyük ölçekte ortak satış İş Ortağı Merkezi satış anlaşmalarını paylaşma
+## <a name="share-co-sell-deals-at-scale-using-the-partner-center-bulk-operations-capability"></a><a name="13"></a> Iş ortağı merkezi toplu işlemler özelliğini kullanarak ortak satış anlaşmaları ölçeğini ölçeklendirerek paylaşma
 
 ### <a name="categories"></a>Kategoriler
 
 - Tarih: 2021-02-25
-- Gelişmiş Güvenlik ve Uyumluluk
+- Gelişmiş güvenlik ve uyumluluk
 
-### <a name="impacted-audience"></a>Etkilene hedef kitle
+### <a name="impacted-audience"></a>Etkilenen hedef kitle
 
-İş ortaklarının ortak satışları İş Ortağı Merkezi
+İş ortakları ortak merkezi 'nde ortak satış
 
 ### <a name="summary"></a>Özet
 
-Ortak satış iş ortakları artık YENI CSV dosyası toplu işlemleri özelliğini kullanarak büyük İş Ortağı Merkezi dışarı ve içeri aktarma fırsatlarına sahip olabilir.
+Ortak satış ortakları artık, yeni Iş Ortağı Merkezi CSV dosyası toplu işlemleri özelliğini kullanarak fırsatları uygun ölçekte dışa aktarabilir ve içeri aktarabilir.
 
 ### <a name="details"></a>Ayrıntılar
 
-Ortak satış iş ortakları artık YENI CSV dosyası toplu işlemleri özelliğini kullanarak büyük İş Ortağı Merkezi dışarı ve içeri aktarma fırsatlarına sahip olabilir. Bu, referans paylaşımı deneyiminizi birlendirir ve İş Ortağı Satışları ve İş Ortağı Satışları Bağlan. Bu, api'lere yapılan yatırımlara da İş Ortağı Merkezi sahiptir.
+Ortak satış ortakları artık, yeni Iş Ortağı Merkezi CSV dosyası toplu işlemleri özelliğini kullanarak fırsatları uygun ölçekte dışa aktarabilir ve içeri aktarabilir. bu, referans paylaşım deneyiminizi birleştirecektir ve iş ortağı satış Bağlan taşırken iş sürekliliği sağlamaktır. Ayrıca, Iş Ortağı Merkezi API 'SI yatırımınızın bir alternatifi de vardır.
 
 Tüm ayrıntılar için sonraki bölümde bahsedilen makaleye bakın. 
 
 ### <a name="next-steps"></a>Sonraki adımlar
 
-Virgülle ayrılmış değer (CSV) dosyalarını kullanarak ortak satış fırsatları için toplu işlemler'i okuyarak toplu işlemler özelliği hakkında [daha fazla bilgi edinebilirsiniz.](../bulk-operations.md)
+Toplu işlemler özelliği hakkında daha fazla bilgi edinmek [için, virgülle ayrılmış değer (CSV) dosyaları kullanarak ortak satış fırsatları Için toplu işlemler](../bulk-operations.md)okuyun.
 
 ### <a name="questions"></a>Sorularınız mı var?
 
-Başka [sorularınız](https://partner.microsoft.com/support/?stage=1) varsa De destekle iletişime geçin.
+Başka sorularınız varsa [desteğe](https://partner.microsoft.com/support/?stage=1) başvurun.
 
 ________________
-## <a name="migrate-your-deals-from-partner-sales-connect-psc-using-the-new-deal-migration-feature"></a><a name="12"></a>Yeni satış anlaşması geçiş özelliğini kullanarak Bağlan satış anlaşmalarınızı (PSC) geçirme
+## <a name="migrate-your-deals-from-partner-sales-connect-psc-using-the-new-deal-migration-feature"></a><a name="12"></a>yeni anlaşma geçiş özelliğini kullanarak iş ortağı Sales Bağlan (PSC) üzerinden anlaşmalar geçirin
 
 ### <a name="categories"></a>Kategoriler
 
 - Tarih: 2021-02-25
 - Özellikler
 
-### <a name="impacted-audience"></a>Etkilene hedef kitle
+### <a name="impacted-audience"></a>Etkilenen hedef kitle
 
-PSC'de anlaşmaları olan iş ortakları
+PSC 'de anlaşmalar olan iş ortakları
 
 ### <a name="summary"></a>Özet
 
-İş Ortağı Satış Anlaşması Bağlan (PSC) anlaşmaları olan iş ortakları, satış anlaşması geçiş özelliğini kullanarak ortak satış anlaşmalarını İş Ortağı Merkezi'nin içindeki yeni ortak satış deneyimine sahip olabilir.
+iş ortağı satış Bağlan (PSC) ile iş ortakları, iş ortağı merkezi 'nin içindeki yeni ortak satış deneyiminden yararlanarak, anlaşma geçiş özelliğini kullanarak ortak satış işlerini geçirebilir.
 
 ### <a name="details"></a>Ayrıntılar
 
-PSC'de anlaşmaları olan iş ortakları artık İş Ortağı Merkezi içindeki yeni ortak satış deneyimiden yararlanmak için daha hızlı hareket ediyor ve ortak satış anlaşmalarını anlaşma geçişi özelliğini kullanarak İş Ortağı Merkezi platformlar arasında çalışmayı ortadan kaldırabiliyor.
+PSC 'de anlaşmalar olan iş ortakları artık Iş Ortağı Merkezi 'nin içindeki yeni ortak satış deneyiminden faydalanmak ve BT geçiş özelliğini kullanarak ortak satış işlerini Iş Ortağı Merkezi 'ne geçirerek iki platformda çalışmayı ortadan kaldırmak için daha hızlı hareket edebilir.
 
 Tüm ayrıntılar için sonraki bölümde bahsedilen makaleye bakın.
 
 ### <a name="next-steps"></a>Sonraki adımlar
 
-İş Ortağı Satışları 'dan **(PSC)** geçiş yapan iş ortakları için [İş Ortağı Merkezi'de (PC)](../psc-to-pc.md)ortak satış kılavuzu'nun PSC anlaşmaları geçiş bölümünü gözden geçirerek satış anlaşması geçiş özelliği hakkında daha fazla bilgi Bağlan edinebilirsiniz.
+iş [ortağı Sales Bağlan (PSC) ' den geçiş için iş ortağı merkezi 'nde (PC) ortak satış yapma kılavuzundaki](../psc-to-pc.md) **PSC anlaşmalar geçiş** bölümünü inceleyerek, anlaşma geçiş özelliği hakkında daha fazla bilgi edinin.
 
 ### <a name="questions"></a>Sorularınız mı var?
 
-Başka [sorularınız](https://partner.microsoft.com/support/?stage=1) varsa De destekle iletişime geçin.
+Başka sorularınız varsa [desteğe](https://partner.microsoft.com/support/?stage=1) başvurun.
 
 ________________
-## <a name="increased-flexibility-with-partner-led-co-sell-deals"></a><a name="11"></a>İş ortağı tarafından ortak satış anlaşmaları ile daha fazla esneklik
+## <a name="increased-flexibility-with-partner-led-co-sell-deals"></a><a name="11"></a>İş ortağı LED ortak satış anlaşmaları ile daha fazla esneklik
 
 ### <a name="categories"></a>Kategoriler
 
 - Tarih: 2021-02-25
 - Özellikler
 
-### <a name="impacted-audience"></a>Etkilene hedef kitle
+### <a name="impacted-audience"></a>Etkilenen hedef kitle
 
-Ortak satışa hazır çözümlere sahip iş ortakları
+Ortak satış özellikli çözümlere sahip iş ortakları
 
 ### <a name="summary"></a>Özet
 
-İş ortakları artık işbirliğine dayalı satış etkinliği yapmak için iş ortağı tarafından ortak satış anlaşması oluşturduktan sonra Microsoft satıcılarını davet ediyor.
+İş ortakları artık iş ortağı olarak çalışan bir ortak satış etkinliği oluşturup işbirliği temelli bir satış etkinliği oluşturmak için Microsoft satıcıları davet edebilir.
 
 ### <a name="details"></a>Ayrıntılar
 
-İş ortakları artık işbirliğine dayalı satış etkinliği yapmak için iş ortağı liderliğinde ortak satış anlaşması oluşturduktan sonra Microsoft satıcılarını davet etme seçeneğine sahip. İş ortağı açıkça Microsoft satıcıdan yardım isteyene kadar satış anlaşmasıyla ilgili ayrıntılar Microsoft satış ekibiyle paylaşılmaz. Bu senaryo, Microsoft satıcı teşviki için de uygundur.
+İş ortakları artık, iş ortağı olarak çalışan ve işbirliği temelli bir satış etkinliği oluşturmak üzere iş ortağı tarafından çalışan bir ortak satış satışı oluşturduktan sonra Microsoft satıcıları davet etme seçeneğine sahiptir İş ortağı Microsoft satıcı yardımını açık bir şekilde alıncaya kadar, Microsoft satış ekibiyle anlaşma ayrıntıları paylaşılmaz. Bu senaryo, Microsoft satıcı teşvik için de uygundur.
 
-İş ortağı tarafından ortak satış anlaşmaları, anlaşma kapatılmadan önce herhangi bir noktada etkin ortak satışa yükseltilebilir.
+İş ortağı LED ortak satış anlaşmaları, anlaşma kapanışından önce herhangi bir noktada etkin ortak satış ile yükseltilecektir.
 
 Tüm ayrıntılar için sonraki bölümde bahsedilen makaleye bakın.
 
 ### <a name="next-steps"></a>Sonraki adımlar
 
-İş Ortağı Merkezi'da ortak [satış fırsatlarını yönetme kılavuzumuza bakın.](../manage-co-sell-opportunities.md)
+[Iş Ortağı Merkezi 'nde ortak satış fırsatlarını yönetme](../manage-co-sell-opportunities.md)kılavuzumuzu görüntüleyerek daha fazla bilgi edinin.
 
 ### <a name="questions"></a>Sorularınız mı var?
 
-Başka [sorularınız](https://partner.microsoft.com/support/?stage=1) varsa De destekle iletişime geçin.
+Başka sorularınız varsa [desteğe](https://partner.microsoft.com/support/?stage=1) başvurun.
 
 ________________
 ## <a name="changes-to-the-cloud-solution-provider-csp-customer-onboarding-requirements"></a><a name="10"></a>Bulut Çözümü Sağlayıcısı (CSP) müşteri ekleme gereksinimlerinde yapılan değişiklikler
@@ -155,23 +155,23 @@ ________________
 ### <a name="categories"></a>Kategoriler
 
 - Tarih: 2021-04-02
-- Gelişmiş Güvenlik ve Uyumluluk
+- Gelişmiş güvenlik ve uyumluluk
 
 ### <a name="summary"></a>Özet
 
-İş ortaklarına ve müşterilerin iş ortaklarına ve iş ortaklarına güvene dayalı olarak işlerini çalıştırmalarına yardımcı olmaya ilişkin taahhüdimizin bir parçası olarak, 25 Mart 2021'den itibaren geçerli olmak için ek müşteri bilgileri talep ediyoruz.
+İş ortakları ve müşterilerin işlerini güvenle çalıştırmasına yardımcı olma çabamız kapsamında, 25 Mart 2021 ' den itibaren geçerli olan ek müşteri bilgileri isteyeceğiz.
 
-### <a name="impacted-audience"></a>Etkilene hedef kitle
+### <a name="impacted-audience"></a>Etkilenen hedef kitle
 
-CsP doğrudan fatura iş ortakları ve sonraki bölümde listelenen ülkelerde yeni veya mevcut müşterileri olan dolaylı sağlayıcılar
+CSP doğrudan fatura ortakları ve sonraki bölümde listelenen ülkelerde yeni veya mevcut müşteriler bulunan dolaylı sağlayıcılar
 
 ### <a name="details"></a>Ayrıntılar
 
-Microsoft güven üzerinde çalışır. CSP programında müşteri aboneliklerini işlemeye yardımcı olmak için uyumlu, güvenli ve güvenli bir müşteri doğrulama yöntemi sağlamayı taahhüt etmek istiyoruz. 25 Mart 2021'de, aşağıdaki ölçütlerin her ikisini de karşıleyen iş ortaklarını etkileyecek İş Ortağı Merkezi API'si ve kullanıcı arabirimi (UI) geliştirmeleri tanıtacağız:
+Microsoft, güvende çalışır. CSP programında deneyimidir müşteri abonelikleri için uyumlu, güvenli ve güvenli bir müşteri doğrulama yöntemi sağlamayı taahhüt ediyoruz. 25 Mart 2021 ' de, aşağıdaki ölçütlerin her ikisini de karşılayan iş ortaklarını etkileyecek Iş Ortağı Merkezi API 'SI ve Kullanıcı arabirimi (UI) geliştirmeleri sunacağız:
 
-1. İş ortağının Microsoft ile doğrudan faturalama ilişkisi vardır (bu da iş ortağının doğrudan fatura iş ortağı veya dolaylı sağlayıcı olduğu anlamına gelir).
+1. İş ortağı Microsoft ile doğrudan faturalandırma ilişkisine sahiptir (Bu, ortağın doğrudan bir fatura ortağı veya dolaylı bir sağlayıcı olduğu anlamına gelir).
 
-2. İş ortağı, aşağıdaki ülkelerdeki yeni veya mevcut müşterilerle iş yapar:
+2. İş ortağı aşağıdaki ülkelerde yeni veya mevcut müşteriler ile iş yapar:
 
     - Tayland
     - Vietnam
@@ -187,11 +187,11 @@ Microsoft güven üzerinde çalışır. CSP programında müşteri aboneliklerin
     - Birleşik Arap Emirlikleri
     - Venezuela
 
-Ölçütlere uyan iş ortaklarının, müşterinin şirket kayıt kimliğini (müşterinin kuruluş INN'si olarak da bilinir) ve bu müşteri için bir sonraki güncelleştirme veya abonelik oluşturma işlemi sırasında telefon numarasını göndermesi gerekir. Ayrıca bu iş ortakları müşteri için isteğe bağlı bir ikinci ad da girebilir.
+Ölçütlere uyan iş ortaklarının bir müşterinin Şirket kayıt KIMLIĞINI (müşterinin kuruluş adı olarak da bilinir) ve telefon numarasını bir sonraki güncelleştirdiklerinde ve bu müşteri için bir abonelik oluştururken göndermesi gerekecektir. Ayrıca bu iş ortakları müşteri için isteğe bağlı bir ikinci ad da girebilir.
 
-Şirket kayıt kimliğinizi eklerken, müşterinin kişisel kimliğini değil, iş verginizi kullanmanız gerektiğini unutmayın.
+Şirket kayıt KIMLIĞINIZI eklediğinizde müşterinin kişisel KIMLIĞINI değil iş vergi KIMLIĞINIZI kullanmanız gerektiğini unutmayın.
 
-Aşağıdaki ülkelerde yeni veya mevcut müşterilerle iş yapan iş ortakları, Kasım 2020'de önceki bir sürüme zaten ekli.
+Aşağıdaki ülkelerde yeni veya mevcut müşteriler ile iş yapan iş ortakları, Kasım 2020 ' de daha önceki bir sürüm ile zaten eklendi.
 
 - Ermenistan
 - Azerbaycan
@@ -205,38 +205,38 @@ Aşağıdaki ülkelerde yeni veya mevcut müşterilerle iş yapan iş ortakları
 - Ukrayna
 - Özbekistan
 
-Dünyanın geri kalanındaki müşterilerle iş ortakları, Mart 2021'in sonunda isteğe bağlı ayrıntılar olarak müşterilerin şirket kayıt kimliğini, telefon numarasını ve ara adını girme olanağına sahip olacak.
+Dünyanın geri kalanında müşterilere sahip iş ortakları, 2021 Mart 'ın sonunda, müşteriler için isteğe bağlı ayrıntılar olarak şirket kayıt KIMLIĞI, telefon numarası ve orta adı girme yeteneğine sahip olacaktır.
 
 ### <a name="next-steps"></a>Sonraki adımlar
 
-- Daha ayrıntılı rehberlik için ayrılmış iş ortağı koleksiyonunda teknik belgeleri [ve sık](https://partner.microsoft.com/resources/collection/additionalfields-csp-customers-selected-geos#/) sorulan soruları gözden geçirme.
-- Api ve web kullanıcı deneyimini İş Ortağı Merkezi değişiklikleri dahil etmek için hazırlanma. API/SDK'lar test için kullanılabilir.
-- Yeni müşteri ekleme veya mevcut müşteri ayrıntılarını değiştirme ile ilgili ek verileri gönderdiğinizden emin olun.
-- Denetim masası satıcısı (CPV) çözümü kullanıyorsanız CPV'nize başvurun.
+- Daha ayrıntılı rehberlik için, adanmış [iş ortağı koleksiyonundaki](https://partner.microsoft.com/resources/collection/additionalfields-csp-customers-selected-geos#/) teknik belgeleri ve sık sorulan soruları gözden geçirin.
+- Iş Ortağı Merkezi API 'sini ve Web kullanıcısı deneyimini kullanarak değişiklikleri dahil etmek için hazırlanın. API/SDK 'lar test için kullanılabilir olacak.
+- Yeni müşterileri eklerken veya mevcut müşteri ayrıntılarını değiştirirken ek verileri gönderdiğinizden emin olun.
+- Bir denetim masası satıcısı (CPV) çözümü kullanıyorsanız, CPV 'nize başvurun.
 
 ### <a name="questions"></a>Sorularınız mı var?
 
-Şirket kayıt kimliğiyle (INN veya TIN olarak da adlandırılan) ilgili sorularınız varsa vergi danışmanınıza veya yerel vergi ofisinize ulaşın. Microsoft, vergi konularıyla ilgili rehberlik sağamaz.
+Şirket kayıt KIMLIĞI (ıNN veya tın olarak da bilinir) ile ilgili sorularınız varsa vergi danışmanınıza veya yerel vergi ofisine başvurun. Microsoft, vergi konusunda önemli yönergeler sağlayamaz.
 
-Microsoft ile işlemleriniz için de destek gerekirse bir hizmet [isteği açın.](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=aa679372-d996-73df-e244-cb28bbbf28e8)
+Microsoft ile işlemlerinizi desteklemek için bir [hizmet isteği](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=aa679372-d996-73df-e244-cb28bbbf28e8)açın.
 
 ### <a name="change-log"></a>Değişiklik günlüğü:
 
-17 Aralık 2020: Özgün yayın
+17 Aralık 2020: özgün yayın
 
-28 Ocak 2021: Cumhuriyetin hiçbir değişikliği yok
+28 Ocak 2021: republication hiçbir değişiklik yok
 
-25 Şubat 2021: Belirli Bir Başlatma Tarihi duyuruldu
+25 Şubat 2021: belirli bir başlatma tarihi duyuruldu
 
-2 Nisan 2021: Güncelleştirmeler aşağıdakileri içerir:
+2 Nisan 2021: güncelleştirmeler şunları içerir:
 
-- Sağlanan Başlatma Tarihi
-- Kuruluş INN'si başlığı Şirket Kayıt Kimliğine güncelleştirildi 
-- Şirket Kayıt Kimliği için açıklama sağlamak için not eklendi
+- Belirtilen başlatma tarihi
+- INN kuruluşu için başlık şirket kayıt KIMLIĞI olarak güncelleştirildi 
+- Şirket kayıt KIMLIĞI için açıklama sağlamak üzere eklendi
 
 
 ________________
-## <a name="now-live-docusign-migration-to-adobe-sign-for-partners-under-microsoft-partner-agreements-mpas"></a><a name="9"></a> Şimdi Canlı: Microsoft İş Ortağı Anlaşmaları (MPAs) kapsamındaki iş ortakları için Adobe Sign'a DocuSign geçişi
+## <a name="now-live-docusign-migration-to-adobe-sign-for-partners-under-microsoft-partner-agreements-mpas"></a><a name="9"></a> Artık canlı: Microsoft Iş ortağı sözleşmeleri (MPAs) altındaki iş ortakları için, Microsoft 'a yönelik DocuSign geçişi
 
 ### <a name="categories"></a>Kategoriler
 
@@ -245,52 +245,52 @@ ________________
 
 ### <a name="summary"></a>Özet
 
-Microsoft, tüm elektronik imza işleme işlemlerini DocuSign'tan Adobe Sign'a devredecek.
+Microsoft, tüm elektronik imza işlemlerini DocuSign 'dan Adobe Sign 'a aktaracaktır.
 
-### <a name="impacted-audience"></a>Etkilene hedef kitle
+### <a name="impacted-audience"></a>Etkilenen hedef kitle
 
-MPA kapsamında mevcut Bulut Çözümü Sağlayıcısı (CSP) iş ortakları.
+MPA 'nın altındaki mevcut doğrudan ve dolaylı Bulut Çözümü Sağlayıcısı (CSP) iş ortakları.
 
 ### <a name="details"></a>Ayrıntılar
 
-Şubat 2021'de Microsoft tüm elektronik imza işlemeyi DocuSign'tan CSP iş ortakları için Adobe Sign'a geçişe başlayacaktır.
+Microsoft, Şubat 2021 ' de, tüm elektronik imza işlemlerini, CSP iş ortakları için DocuSign 'dan Adobe Sign 'a geçirmeyi başlatır.
 
-Sorunsuz bir geçiş beklemelisiniz. Geçişten sonra, elektronik imzanız gerektiğinde adobesign@adobesign.com DocuSign yerine 'den bir e-posta alırsınız. Bu e-posta size, imzalamanız gereken Adobe Sign web sayfasının bağlantısını sağlar. Microsoft iş ortaklarının mevcut anlaşmaları yeniden imzalaması, yalnızca gelecekteki Kanal Sözleşmelerini imzalaması gerekmektedir. Çin, Rusya ve Rusya'daki iş ortaklarının, Her yıl Tekrar İmzala'yı fiziksel veya elektronik olarak yeniden imzalaması gerekir.
+Kesintisiz bir geçiş beklemelisiniz. Geçişten sonra, e-posta ile, e-posta adresi, adobesign@adobesign.com her ne kadar elektronik imzanız gerekir. Bu e-posta size imzalamanız gereken Adobe Sign Web sayfasına yönelik bir bağlantı sağlar. Microsoft iş ortaklarının mevcut sözleşmeleri yeniden imzalayacağı ve yalnızca gelecekteki kanal anlaşmalarının olması gerekmez. Ukrayna, Rusya ve Kazakistan 'teki iş ortakları, her yıl için fiziksel veya elektronik olarak yeniden imzalamanız gerekecektir.
 
-Kaynak galerisinde Adobe Sign imza isteği e-postası örneği [bulabilirsiniz.](https://partner.microsoft.com/resources/detail/adobe-sign-signature-request-email-pdf)
+[Kaynak galerisinde,](https://partner.microsoft.com/resources/detail/adobe-sign-signature-request-email-pdf)bir Adobe imza imza isteği e-postası örneği bulabilirsiniz.
 
-En iyi deneyim için aşağıdaki adımları gerçekleştirin:
+En iyi deneyim için aşağıdakileri yaptığınızdan emin olun:
 
-1. Bu hesaptan gelen e-postaların doğrudan gereksiz e-posta klasörünüze girile adobesign@adobesign.com önlemesi için güvenli gönderenler listenize ekleyin.
-2. Şunları yapmak için IT departmanınız ile birlikte çalışma:
-    - Önceden kurulmuş bir kimlik avı kuralına dahil olmadığını emin olmak için e-posta adresini güvenli adobesign@adobesign.com gönderenler listesine ekleyin.
-    - Tüm gerekli alıcıların Adobe Sign kurumsal lisansınız altında belgeleri imzalayamalarını sağlamak için mevcut güvenlik ilkelerini güncelleştirin.
+1. adobesign@adobesign.comBu hesaptan gelen e-postaları doğrudan Önemsiz e-posta klasörünüze giderek önlemek için Güvenli Gönderenler listenize ekleyin.
+2. BT departmanınızla birlikte çalışarak şunları yapın:
+    - adobesign@adobesign.comÖnceden belirlenmiş herhangi bir kimlik avı kuralına dahil olmamasını sağlamak için Güvenli Gönderenler listesine e-posta adresini ekleyin.
+    - Tüm gerekli alıcıların belgelerinizi Adobe Sign Enterprise lisansınızın altında imzalayabilmelerini sağlamak için mevcut güvenlik ilkelerini güncelleştirin.
 
-Ekleme, işlevsellik ve iş süreciyle ilgili kaynaklara Adobe Sign Migration İş Ortağı [Sayfasından erişebilirsiniz.](https://aka.ms/eSignature/External)
+Ekleme, işlevsellik ve iş süreci sorularıyla ilgili kaynaklar, [Adobe Sign geçiş ortağı sayfasında](https://aka.ms/eSignature/External)bulunabilir.
 
-Adobe Sign, Microsoft'un tercih ettiği Elektronik İmza Çözümüdür (ESS). Adobe Sign'a geçiş, müşterilerimize ve iş ortaklarımıza daha fazla değer sağlayacak güvenli ve verimli bir elektronik imza deneyimi sağlar.
+Adobe Sign, Microsoft 'un tercih ettiği elektronik Imza çözümüdür (ESS). Adobe Sign 'a geçiş, müşterilerimize ve iş ortaklarımıza daha fazla değer sunacak güvenli ve etkili bir elektronik imza deneyimi sağlar.
 
-Belgeleri elektronik olarak imzalama ve elektronik imza temsilcisi seçme hakkında daha fazla bilgi için aşağıdaki öğreticilere bakın:
+Belgelere ve elektronik imza temsilciliğini elektronik olarak imzalama hakkında daha fazla bilgi için aşağıdaki öğreticilere bakın:
 
-- [Belgeyi elektronik olarak imzalama | Adobe Sign öğreticileri](https://helpx.adobe.com/sign/how-to/adobe-for-signers.html?playlist=/ccx/v1/collection/product/sign/segment/designer/explevel/beginner/applaunch/continuinged/collection.ccx.js&ref=helpx.adobe.com)
-- [Belge imzalaması için başka bir kullanıcıya temsilci | Adobe Sign öğreticileri](https://helpx.adobe.com/sign/how-to/use-the-delegator-role.html?playlist=/ccx/v1/collection/product/sign/segment/designer/explevel/beginner/applaunch/orientation/collection.ccx.js&ref=helpx.adobe.com)
+- [Belgeyi elektronik olarak imzala | Adobe Sign öğreticileri](https://helpx.adobe.com/sign/how-to/adobe-for-signers.html?playlist=/ccx/v1/collection/product/sign/segment/designer/explevel/beginner/applaunch/continuinged/collection.ccx.js&ref=helpx.adobe.com)
+- [Başka birini bir belgeyi imzalamak için temsilci seçme | Adobe Sign öğreticileri](https://helpx.adobe.com/sign/how-to/use-the-delegator-role.html?playlist=/ccx/v1/collection/product/sign/segment/designer/explevel/beginner/applaunch/orientation/collection.ccx.js&ref=helpx.adobe.com)
 
 ### <a name="next-steps"></a>Sonraki adımlar
 
-Bu bilgileri, kuruluşta uygun proje katılımcıları ile paylaşın.
+Bu bilgileri, kuruluşunuzdaki uygun paydaşlarla paylaşabilirsiniz.
 
 ### <a name="questions"></a>Sorularınız mı var?
 
-Sorularınız varsa, Çağrı Günlüğü Aracı'nı [(CLT)](https://clt.partners.extranet.microsoft.com/CLT) Bölgesel Operasyon Merkezi veya MS'i Keşfetme'de [yöneticinizle iletişime geçin.](https://www.explore.ms/) Sorgunuza mümkün olan en hızlı şekilde çözüm getireciz için standart CLT işlemini yakından izleyin.
+Sorularınız varsa, [çağrı günlüğü aracı 'nı (CLT)](https://clt.partners.extranet.microsoft.com/CLT) veya [MS 'Yi araştırarak](https://www.explore.ms/)bölgesel işlem merkezinize başvurun. Sorgunuzu mümkün olduğunca çabuk çözebilmemiz için standart CLT sürecini yakından izleyin.
 
 ### <a name="change-log"></a>Değişiklik Günlüğü
 
 - 15 Ocak 2021: özgün yayın 
-- 16 Şubat 2021: Artık canlı, Yeni Kaynak: Adobe Sign Migration İş Ortağı Sayfası 
+- 16 Şubat 2021: artık canlı, yeni kaynak: Adobe Imza geçişi Iş ortağı sayfası 
 
 _____________
 
-## <a name="reminder-introducingapithrottlingtopartners-calling-partner-centerapis"></a><a name="8"></a> Anımsatıcı: Api'leri çağıran iş ortaklarına API İş Ortağı Merkezi tanıtımı
+## <a name="reminder-introducingapithrottlingtopartners-calling-partner-centerapis"></a><a name="8"></a> Anımsatıcı: Iş Ortağı Merkezi API 'Lerini çağıran iş ortaklarına API azaltma ile tanışın
 
 ### <a name="categories"></a>Kategoriler
 
@@ -299,33 +299,33 @@ _____________
 
 ### <a name="summary"></a>Özet
 
-Microsoft, API'leri çağıran iş ortaklarının belirli bir zaman aralığı içinde daha tutarlı bir performans elde İş Ortağı Merkezi uygulayacak.
+Microsoft, Iş Ortağı Merkezi API 'Lerini çağıran iş ortakları için bir zaman dilimi içinde daha tutarlı bir performansa izin vermek üzere API daraltma uygumasını uygulamaya yöneliktir.
 
-### <a name="impacted-audience"></a>Etkilene hedef kitle
+### <a name="impacted-audience"></a>Etkilenen hedef kitle
 
-Bulut Çözümü Sağlayıcısı (CSP) programı aracılığıyla işlem yapılan tüm iş ortakları  
+tüm iş ortakları Bulut Çözümü Sağlayıcısı (CSP) programı üzerinden deneyimidir  
 
 ### <a name="details"></a>Ayrıntılar
 
-Şubat 2021'den itibaren Microsoft, api'leri çağıran iş ortaklarının belirli bir süre içinde daha tutarlı bir performans elde İş Ortağı Merkezi uygulayacak.Azaltma, kaynakların aşırı kullanımına engel olmak için bir zaman aralığı içinde hizmete yapılan istek sayısını sınırlar.Bir azaltma eşiği aşılırsa, İş Ortağı Merkezi istemciden gelen diğer tüm istekleri bir süre için sınırlar.
+Microsoft, Şubat 2021 ' den itibaren Iş Ortağı Merkezi API 'Lerini çağıran iş ortakları için zaman dilimi içinde daha tutarlı bir performansa izin vermek üzere API daraltma uygulamayı uygulamaya yönelik.Azaltma, kaynakların aşırı kullanımını engellemek için bir zaman dilimi içindeki bir hizmete yönelik isteklerin sayısını sınırlar.Bir azaltma eşiği aşıldığında, Iş ortağı merkezi bir süre için o istemciden gelen diğer istekleri sınırlandırır.
 
 **İş ortağı avantajları:**
 
-İş Ortağı Merkezi, yüksek hacimli istekleri işlemek için tasarlanmıştır, ancak birkaç iş ortağı tarafından çok fazla sayıda istek yapılırsa kısıtlama tüm iş ortakları için en iyi performansı ve güvenilirliği korumaya yardımcı olur.  
+İş Ortağı Merkezi, yüksek hacimli istekleri işlemek için tasarlanmıştır, ancak birkaç iş ortağı tarafından çok sayıda istek yapılırsa, kısıtlama tüm iş ortakları için en iyi performansı ve güvenilirliği korumanıza yardımcı olur.  
 
-- Azaltma minimum kapalı kalma süresi sağlar.
-- Azaltma, yüksek hacimli istek sayısını azaltarak tüm iş ortakları için tutarlı bir performans sağlamaya yardımcı olur.
+- Azaltma, en az kapalı kalma süresini sağlar.
+- Azaltma, yüksek hacimli isteklerin sayısını azaltarak tüm iş ortakları için tutarlı bir performans sağlanmasına yardımcı olur.
 
-**Kısıtlan API'ler:**
+**Kısıtlanacak API 'Ler:**
 
 | İşlem | İş Ortağı Merkezi belgeleri |
 | ------ | ------- |
-|{baseURL}/v1/customers/{customer_id}/subscriptions  | [Tüm müşteri aboneliklerini al](/partner-center/develop/get-all-of-a-customer-s-subscriptions) |
-|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}  | [Kimliğe göre bir abonelik alma](/partner-center/develop/get-a-subscription-by-id) |
-|{baseURL}/v1/customers/{customer_id}/orders  | [Tüm müşteri siparişlerini alma](/partner-center/develop/get-all-of-a-customer-s-orders) |
-|{baseURL}/v1/customers/{customer_id}/orders/{order_id}  | [Kimliğe göre bir sipariş alma](/partner-center/develop/get-an-order-by-id) |
-|{baseURL}/v1/customers/{customer_id}/orders/{order_id}/provisioningstatus  | [Abonelik sağlama durumunu alma](/partner-center/develop/get-subscription-provisioning-status) |
-|{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}  | [Siparişleri yönetme ve aboneliği yönetme](/partner-center/develop/manage-orders#manage-a-subscription) |
+|{baseURL}/v1/Customers/{customer_id}/abonelikler  | [Tüm a-a-a-a-](/partner-center/develop/get-all-of-a-customer-s-subscriptions) |
+|{baseURL}/v1/Customers/{customer_id}/Subscriptions/{subscription_id}  | [Kimliğe göre bir abonelik alma](/partner-center/develop/get-a-subscription-by-id) |
+|{baseURL}/v1/Customers/{customer_id}/Orders  | [Tüm müşteri siparişlerini al](/partner-center/develop/get-all-of-a-customer-s-orders) |
+|{baseURL}/v1/Customers/{customer_id}/Orders/{order_id}  | [Kimliğe göre bir sipariş alma](/partner-center/develop/get-an-order-by-id) |
+|{baseURL}/v1/Customers/{customer_id}/Orders/{order_id}/provisioningstatus  | [Abonelik sağlama durumunu alma](/partner-center/develop/get-subscription-provisioning-status) |
+|{baseURL}/v1/Customers/{customer_id}/Subscriptions/{subscription_id}  | [Siparişleri yönetme ve aboneliği yönetme](/partner-center/develop/manage-orders#manage-a-subscription) |
 |{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}/addons  | [Bir abonelik için eklentilerin bir listesini alma](/partner-center/develop/get-a-list-of-add-ons-for-a-subscription) |
 |{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}/azureEntitlements | [Bir abonelik için Azure yetkilendirmelerinin listesini alma](/partner-center/develop/get-a-list-of-azure-entitlements-for-subscription) |
 |{baseURL}/v1/customers/{customer_id}/subscriptions/{subscription_id}/registrationstatus  | [Abonelik kayıt durumunu alma](/partner-center/develop/get-subscription-registration-status) |

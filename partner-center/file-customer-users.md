@@ -9,12 +9,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7d8cbeecf081dc82448625daeedc0ce21b31174e
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 4774b0056ff650c64fc8a2f0bbdaa6b888151aacb3418823cd15cdbe4110bd3e
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114838351"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115687800"
 ---
 # <a name="add-multiple-users-to-a-customer-account-by-creating-a-csv-file"></a>Bir .csv dosyası oluşturarak müşteri hesabına birden .csv ekleme
 

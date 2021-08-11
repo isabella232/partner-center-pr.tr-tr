@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 18ed4e14e5e0e0855dd09e91325ed46610c3acae
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 0efe19164cad5cc31ddac3767b97f26ff01bc4c69e35fe3eb84708b0f86c1b80
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114840102"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115687476"
 ---
 # <a name="download-reports"></a>Raporları indir
 

@@ -1,180 +1,180 @@
 ---
-title: Microsoft İş Ortağı Ağı avantajlarını yönetme
+title: Yönetim Microsoft İş Ortağı Ağı yönetme
 ms.topic: how-to
 ms.date: 10/21/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-benefits
-description: Microsoft İş Ortağı Ağı (MPN) ile birleştirin ve iş ortağı merkezi 'ni kullanarak, işletmenizin büyümesine yardımcı olabilecek üyelik avantajlarını ve tekliflerini yönetin.
+description: İşlerinizi Microsoft İş Ortağı Ağı yardımcı olacak üyelik avantajlarını ve tekliflerini yönetmek için İş Ortağı Merkezi 'i (MPN) kullanın.
 author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: cd57b7b1f5e9d90d37b6e97ba269fe0f37f2a79d
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 1d66ed849ae2d6757d2620489608725e8dac6d38b6573a805a455637022d014e
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114845559"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115695178"
 ---
-# <a name="manage-your-microsoft-partner-network-membership-benefits-and-offers-in-partner-center"></a>Iş Ortağı Merkezi 'nde Microsoft İş Ortağı Ağı üyelik avantajlarınızı ve tekliflerini yönetme
+# <a name="manage-your-microsoft-partner-network-membership-benefits-and-offers-in-partner-center"></a>Microsoft İş Ortağı Ağı üyelik avantajlarınızı ve tekliflerinizi İş Ortağı Merkezi
 
-**Uygun roller**: genel yönetici | Kullanıcı Yönetimi Yöneticisi | Yönetici Aracısı | MPN iş ortağı Yöneticisi
-
->[!IMPORTANT]
->Bu makalede, Iş ortağı merkezi-bu sitede Microsoft İş Ortağı Ağı (MPN) üyelik avantajlarının nasıl kullanılacağına nasıl başlayabileceğiniz açıklanır. Şirket bilgilerinizi Iş ortağı üyeliği merkezinden (PMC) Iş ortağı merkezine taşımaya yönelik bir davet almadıysanız, MPN üyelik avantajlarınızı PMC 'de yönetmeye devam etmelisiniz. Şimdi PMC ['de oturum açın](https://partner.microsoft.com/_login?authType=OpenIdConnect) .
-
-Microsoft İş Ortağı Ağı (MPN) katılırsanız, işletmenizi oluşturmanıza ve büyütmenize yardımcı olabilecek üyelik avantajlarına erişim elde edersiniz. MPN 'nin zaten bir üyesi değilseniz [MPN sitesine](https://partner.microsoft.com/membership)katılabilir.
-
-## <a name="manage-your-membership-benefits-in-the-partner-center"></a>Iş Ortağı Merkezi 'nde üyelik avantajlarınızı yönetin
-
-Üyelik avantajı paketini satın aldıktan sonra, yazılım anahtarları almanız ve lisansları, abonelikleri ve çalışanları kullanmaya başlamak için diğer avantajları atamanız gerekir.
+**Uygun roller:** Genel yönetici | Kullanıcı yönetimi yönetici | Yönetici aracısı | MPN iş ortağı yöneticisi
 
 >[!IMPORTANT]
->Avantajların satın alınması için kuruluşunuzda genel yönetici olmanız gerekmez, ancak çalışanlara avantajlar atamak için genel yönetici olmanız gerekir. Gerekirse, [ **avantajlar** sayfanızdaki](https://partnercenter.microsoft.com/pcv/partnership/benefits) yönergeleri izleyerek genel yönetici olabilirsiniz (oturum açmanız gerekir). Şirketinizin zaten bir genel yöneticisi olabilir, bu nedenle ekibinizle kontrol ettiğinizden emin olun.
+>Bu makalede, bu sitede Microsoft İş Ortağı Ağı (MPN) üyelik avantajlarınızı kullanmaya İş Ortağı Merkezi nasıl başlayacağınız açıklanmıştır. Şirket bilgilerini Partner Membership Center (PMC) İş Ortağı Merkezi için bir davet aldıysanız, PMC'de MPN üyelik avantajlarınızı yönetmeye devam edin. [Şimdi](https://partner.microsoft.com/_login?authType=OpenIdConnect) PMC'de oturum açma.
 
-avantaj paketleri lisanslı yazılım, bulut hizmeti, Visual Studio abonelik ve teknik destek ayırmaları içerir. Avantajlar paketleri, belirli bir pazara karşı kaynaklara, tekliflere ve pazara ilgili programları da içerebilir. [Microsoft iş ortağı ağı](https://partner.microsoft.com/membership/internal-use-software) sitesinde eylem paketi abonelik ayrıntılarını alabilirsiniz.  
+Microsoft İş Ortağı Ağı 'a (MPN) katılarak, işlerinizi derlemenize ve büyümenize yardımcı olacak üyelik avantajlarına erişim elde edersiniz. Henüz MPN üyesi değilseniz MPN sitesinden [katılabilirsiniz.](https://partner.microsoft.com/membership)
 
-Tüm üyelik avantajlarınızı görüntülemek ve yönetmek için, [ **avantajlar** sayfanıza](https://partnercenter.microsoft.com/pcv/partnership/benefits) gidin (oturum açmak gerekir). Alternatif olarak, Iş Ortağı Merkezi [panosunda](https://partner.microsoft.com/dashboard)oturum açabilir, sol taraftaki menüden [**avantajlar seçeneğini**] seçebilir ve ardından görünen tüm avantajlar seçeneklerini belirleyebilirsiniz.  
+## <a name="manage-your-membership-benefits-in-the-partner-center"></a>Aşağıdakiler ile üyelik avantajlarınızı İş Ortağı Merkezi
 
-Çoğu avantajı etkinleştirmek veya ilgili yazılım anahtarlarını indirmek için Iş Ortağı Merkezi, genellikle genel yönetici veya MPN iş ortağı Yöneticisi rolünü atamış bir kişi gerektirir. Avantajları göremiyorsanız veya avantajları etkinleştirediğimde, doğru izinlere sahip olduğunuzdan emin olmak için Iş ortağı merkezi genel yöneticinizle görüşün. [Iş Ortağı Merkezi rolleri hakkında daha fazla bilgi edinin](permissions-overview.md).
+Üyelik avantajı paketini satın aldıktan sonra, yazılım anahtarlarını almalı ve bunları kullanmaya başlamak için çalışanlara lisanslar, abonelikler ve diğer avantajlar atamanız gerekir.
+
+>[!IMPORTANT]
+>Avantajlar satın almak için, kuruluşta genel yönetici olmak zorunda değilseniz de, çalışanlara avantajlar atamak için genel yönetici olmak gerekir. Gerekirse, Avantajlar sayfasındaki yönergeleri izleyerek genel yönetici olursanız [  (oturum](https://partnercenter.microsoft.com/pcv/partnership/benefits) açma gerekir). Şirketinizin zaten bir genel yöneticisi olabilir, bu nedenle takımınızı kontrol edin.
+
+Avantaj paketleri lisanslı yazılım ayırmalarını, bulut hizmetlerini, Visual Studio abonelikleri ve teknik desteği içerir. Avantajlar paketleri ayrıca Pazara Satışa Yönelik belirli kaynakları, teklifleri ve pazarla ilgili programları da içerebilir. Abonelik ayrıntılarını Eylem Paketi siteden [Microsoft İş Ortağı Ağı](https://partner.microsoft.com/membership/internal-use-software) edinebilirsiniz.  
+
+Tüm üyelik avantajlarınızı görüntülemek ve yönetmek için Avantajlar [ **sayfanıza**](https://partnercenter.microsoft.com/pcv/partnership/benefits) gidin (oturum açma gereklidir). Alternatif olarak, panoda oturum [İş Ortağı Merkezi,](https://partner.microsoft.com/dashboard)sol **menüden**[ Avantajlar seçeneği ] öğesini ve ardından görüntülenen tüm avantajları seçebilirsiniz.  
+
+Çoğu avantaj etkinleştirmek veya ilgili yazılım anahtarlarını indirmek İş Ortağı Merkezi genel yönetici veya MPN iş ortağı yöneticisi rolünün atanmış olması gerekir. Herhangi bir avantaj görmüyorsanız veya avantajları etkinleştiremiyorsanız, doğru izinlere sahip İş Ortağı Merkezi için İş Ortağı Merkezi Genel yöneticinize bakın. [Rollerini daha fazla İş Ortağı Merkezi öğrenin.](permissions-overview.md)
 
 ## <a name="manage-software-benefits"></a>Yazılım avantajlarını yönetme
 
-1. Yazılım avantajlarınızın listesini görmek için **yazılım** ' ı seçin.
+1. Yazılım **avantajları** listenizi görmek için Yazılım'ı seçin.
 
-2. Kullanmaya başlamak istediğiniz ürünü bulun ve ardından ürünün ayrıntılarını genişletmek için satırın sağ tarafındaki aşağı oku seçin.
+2. Kullanmaya başlamak istediğiniz ürünü bulun ve ardından satırın sağ üst tarafından aşağı oku seçerek ürünün ayrıntılarını genişletin.
 
 3. Kullanmaya başlamak istediğiniz her yazılım ürünü için:
 
-   a. Ürün lisans anahtarlarını açığa çıkarmak için **anahtarları al** ' ı seçin. Listelenen özel yönergeleri izlediğinizden emin olun.
+   a. Ürün **lisans anahtarlarını ortaya** çıkarmak için Anahtarları al'ı seçin. Listelenen özel yönergeleri takip edin.
 
-   b. Ürünün görüntülenmesini istediğiniz dili seçin.
+   b. Ürünün görüntülenebilir istediğiniz dili seçin.
 
-   c. Yazılımı yüklemeyi planladığınız bilgisayarların işletim sistemi (OS) türünü seçin.
+   c. Yazılımı yüklemek istediğiniz bilgisayarların işletim sistemi (OS) türünü seçin.
 
    d. Yazılım yükleme paketlerini indirmek ve yüklemek için bağlantıları izleyin.
 
 ## <a name="azure-and-cloud-products"></a>Azure ve bulut ürünleri
 
-**Azure & bulut ürünleri** sekmesi, kullanım tabanlı abonelikleri (Azure kredisi) ve size sağlanan lisans tabanlı abonelikleri (Office 365 gibi), her bir ürün için lisans miktarını, bu ürünün size sorumlu olduğu teklif türünü, avantaj türünü (çekirdek veya artımlı mi geldiğini) ve söz konusu avantajın bitiş tarihini gösterir.
+**Azure & Cloud Products** sekmesinde kullanım tabanlı abonelikler (Azure kredisi) ve size sağlanan lisans tabanlı abonelikler (Office 365 gibi), her ürün için lisans miktarı, size avantaj sunan teklif türü, avantaj türü (çekirdek veya artımlı) ve bu avantajın sona erme tarihi görüntülenir.
 
 :::image type="content" source="images/benefits/azuretab.png" alt-text="Azure ve bulut ürünleri sekmesi.":::
 
-### <a name="usage-based-subscriptions---microsoft-azure-credit"></a>kullanım tabanlı abonelikler-Microsoft Azure kredisi
+### <a name="usage-based-subscriptions---microsoft-azure-credit"></a>Kullanım tabanlı abonelikler - Microsoft Azure Kredisi
 
-MPN Iş ortağı – HARITALAR, gümüş ve/veya altın – aylık kredi veya toplu kredi olarak etkin olan teklifin türüne bağlı olarak, alabileceği iki tür kullanım tabanlı abonelik vardır.
+MPN İş Ortağı olarak etkin olan teklifin türüne bağlı olarak iki tür kullanım tabanlı abonelik alabilirsiniz: MAPS, Silver ve/veya Gold ( aylık kredi veya toplu kredi).
 
-Şunları yapabilirsiniz:
+Şunları ile s sağlamayı s s sağlanmasını SSS'ye 2018'den sonra da
 
-- $100/ay (veya yerel para biriminde eşdeğer) Azure aylık kredisi veya/ve
-- $6.000, $12.000 veya/ve $13000/Year (veya bunların her biri yerel para biriminde eşdeğer) Azure toplu kredisi
+- Aylık 100 ABD doları (veya yerel para birimi cinsinden eşdeğeri) Azure aylık kredisi veya/ve
+- 6.000 ABD doları, 12.000 ABD doları veya/ve 13.000 ABD doları/yıl (veya yerel para birimi cinsinden eşdeğeri) Azure toplu kredisi
 
-iş ortağı merkezi 'nde bir Microsoft Azure aboneliğini etkinleştirmek için, şirket içindeki bir kullanıcıya (konuk kullanıcılar dahil), Azure Active Directory oluşturulmuş bir kullanıcı girişi olan erişim atayın.
-Azure aylık kredisinin $100/ay (veya yerel para biriminde eşdeğer) için, bu aboneliğe istediğiniz zaman kullanıcı ekleyebilir veya kaldırabilirsiniz. 
+Microsoft Azure aboneliğini İş Ortağı Merkezi için şirket içindeki bir kullanıcıya (konuk kullanıcılar dahil) erişim atarak kullanıcı girişi Azure Active Directory.
+Aylık 100 ABD doları (veya yerel para birimi cinsinden eşdeğer) Azure kredisi için, istediğiniz zaman kullanıcıları bu abonelikten ekleyebilir veya abonelikten kaldırabilirsiniz. 
 
-Azure toplu (yıllık) kredisi için, Kaldır seçeneği Iş Ortağı Merkezi 'nde kullanılamaz, ancak toplu krediyi kayıt yılınızda başka birine aktarabilirsiniz. Azure toplu (yıllık) kredi aboneliği, diğer lisanslama, ön ödemeli veya kredi tekliflerle birleştirilemez (diğer bir deyişle, Microsoft Kurumsal Anlaşma, bulut çözümü ortağı, Open ile Azure, Azure Pass, Eylem Paketi, vb.).
+Azure Toplu (yıllık) Kredisi için kaldırma seçeneği İş Ortağı Merkezi, ancak toplu krediyi kayıt yılınız boyunca başka birine aktarabilirsiniz. Azure Toplu (yıllık) Kredi aboneliği diğer lisanslama, ön ödemeli veya kredi teklifleri (microsoft Kurumsal Anlaşma, Bulut Çözümü İş Ortağı, Open ile Azure, Azure Pass, Eylem Paketi vb.) ile birleştirilamaz.
 
 ## <a name="license-based-subscriptions"></a>Lisans tabanlı abonelikler
 
-Azure & bulut ürünleri sekmesinin lisans tabanlı abonelikler bölümü, etkinleştirme için bir ürün anahtarı gerektiren Microsoft Office 365, Microsoft Dynamics, Microsoft Intune, Azure AD temel ve Power BI gibi tüm bulut ürünlerini listeler. MPN Iş ortağı olarak etkin olan teklifin türü-HARITALAR, gümüş veya altın, hangi ürünlerin listelendiğini denetler.
+Azure & Cloud Products sekmesinin lisans tabanlı abonelikler bölümünde etkinleştirme için ürün anahtarı gerektiren tüm bulut ürünleri (örneğin, Microsoft Office 365, Microsoft Dynamics, Microsoft Intune, Azure AD temel ve Power BI). MPN İş Ortağı olarak etkin olan teklif türü (MAPS, Silver veya Gold) hangi ürünlerin listelenmiş olduğunu kontrol eder.
 
-Lisans tabanlı abonelikleri etkinleştirmek için, ilgilendiğiniz ürünle birlikte açılan simgeye tıklayın ve anahtarların nasıl kullanılacağına ilişkin yönergeleri okuyun. Yönergeleri okuduktan sonra, anahtarları kullanmak için sizi portala yönlendiren bağlantıyı ve ürününüzün atanan anahtarını seçin.
+Lisans tabanlı abonelikleri etkinleştirmek için, ilgili ürüne uygun olarak açılan liste simgesine tıklayın ve anahtarları kullanma yönergelerini okuyun. Yönergeleri okuduğunda, sizi anahtarları ve ürününüz için atanan anahtarı kullanmak için portala yönlendiren bağlantıyı seçin.
 
 >[!IMPORTANT]
->Anahtar kullanıldıktan sonra, aynı anahtar ikinci kez kullanılamaz, bu nedenle daha fazla lisans (koltuk) eklemeniz veya bitiş tarihini uzatmaya gerek olup olmadığından emin olun. Daha fazla lisans eklemeyi ve bitiş tarihi genişletmeyi seçerseniz, sistem size 12 aydan daha az etkin abonelik sağlar. Doğru kiracı üzerinde anahtarları etkinleştirmek için doğru kimlik bilgileriyle oturum açtığınızdan emin olun.
+>Bir anahtar kullandırıldıktan sonra aynı anahtar ikinci kez kullanılamaz, bu nedenle daha fazla lisans (lisans) eklemeniz veya bitiş tarihini uzatmanız gerekip gerek olmadığı konusunda net bir şekilde bilgi sahibi olun. Daha fazla lisans ekler ve bitiş tarihini uzatmazsanız, sistem size 12 aydan az etkin abonelik sağlar. Anahtarları doğru kiracıda etkinleştirmek için doğru kimlik bilgileriyle oturum açtığınızdan emin olun.
 
-## <a name="manage-visual-studio-subscriptions"></a>Visual Studio aboneliklerini yönetme
+## <a name="manage-visual-studio-subscriptions"></a>Abonelikleri Visual Studio yönetme
 
-1. Visual Studio aboneliklerinizin listesini görmek için **Visual Studio abonelikler** ' i seçin.
+1. Abonelikler **Visual Studio listesini** görmek için abonelikleri Visual Studio seçin.
 
-2. Kullanmaya başlamak istediğiniz aboneliği bulun ve sonra aboneliğin ayrıntılarını genişletmek için satırın sağ tarafındaki aşağı oku seçin.
+2. Kullanmaya başlamak istediğiniz aboneliği bulun ve satırın en sağ üst tarafından aşağı oku seçerek aboneliğin ayrıntılarını genişletin.
 
-3. Visual Studio aboneliğini etkinleştirmek için listeden bir kullanıcı seçin ve ardından **kullanıcı ata**' yı seçin.
+3. Bir abonelik Visual Studio için listeden bir kullanıcı seçin ve ardından Kullanıcı **ata'ya tıklayın.**
 
    > [!IMPORTANT]  
-   > Atamak istediğiniz Kullanıcı listede yoksa, **Hesap ayarlarına** [Yeni Kullanıcı ekleyebilirsiniz](create-user-accounts-and-set-permissions.md) .
+   > Atamak istediğiniz kullanıcı listede yoksa, Hesap ayarları'nın [içinde yeni kullanıcılar](create-user-accounts-and-set-permissions.md) **ekleyebilirsiniz.**
 
-4. Atamak istediğiniz her abonelik için bu işlemi tekrarlayın. kullanıcılar Visual Studio portalında aboneliklerini yönetebilir.
+4. Atamak istediğiniz her abonelik için bu işlemi tekrarlayın. Kullanıcılar aboneliklerini Visual Studio yönetebilir.
 
    >[!Note]
-   >Özgün atamanın zamanından bu yana 90 gün geçtikten sonra Visual Studio abonelik yöneticileri, abonelikleri bir aboneden diğerine yeniden atayabilir. Daha fazla bilgi için [Microsoft Iş ortağı programları kılavuzunu](https://aka.ms/partner-benefits-use-guide)okuyun.
+   >Visual Studio abonelik yöneticileri, özgün atamadan bu yana 90 gün geçmişse abonelikleri bir aboneden diğerine yeniden atlar. Daha fazla bilgi için [Microsoft İş Ortağı Programları Kılavuzu'u okuyun.](https://aka.ms/partner-benefits-use-guide)
 
-## <a name="manage-technical-benefits---microsoft-product-support"></a>Teknik avantajları yönetme-Microsoft ürün desteği
+## <a name="manage-technical-benefits---microsoft-product-support"></a>Teknik Avantajları Yönetme - Microsoft Ürün Desteği
 
-Bu bölümde, Iş Ortağı Merkezi [panosunda](https://partner.microsoft.com/dashboard)teknik destek avantajlarından nasıl etkinleştirileceği ve yönetileceği açıklanmaktadır. 
+Bu bölümde, İş Ortağı Merkezi panosunda teknik destek avantajlarını etkinleştirme ve yönetme açık [bulunmaktadır.](https://partner.microsoft.com/dashboard) 
 
-Iş Ortağı Merkezi 'nde ürün desteği teknik avantajlarınızı görmek için aşağıdakileri yapın:
+Ürün Desteği teknik avantajlarınızı İş Ortağı Merkezi için şunları yapın:
 
-1. Iş Ortağı Merkezi [panosunda](https://partner.microsoft.com/dashboard)oturum açın.
+1. İş Ortağı Merkezi [oturum açın.](https://partner.microsoft.com/dashboard)
 
-2. **Avantajlar**' ı seçin ve ardından sol gezinti menüsünden **Teknik avantajlar** ' ı seçin. Teknik avantajlar sayfasında, organislerinizi etkin altın, gümüş veya Microsoft Eylem Paketi üyelik tekliflerinizin bulunduğu görüntülenir.
+2. **Avantajlar'ı** ve ardından **sol gezinti** menüsünden Teknik avantajlar'ı seçin. Teknik avantajlar sayfasında, kuruluşlarınız etkin Gold, Silver veya Microsoft Eylem Paketi görüntülenir.
 
-3. Etkinleştir düğmesini görüntülemek için **Ayrıntıları görüntüle** ' yi seçin, etkinleştirme tüm kullanıcılar ' ın erişim kimliği ve sözleşme kimliği ' ni görmesini sağlar.
+3. Etkinleştir **düğmesini görüntülemek için** Ayrıntıları görüntüle'yi seçin. Etkinleştirmenin ardından tüm kullanıcılar Erişim Kimliği ve Sözleşme Kimliği'ni görebilir.
 
-   - **Teknik avantajını etkinleştirin.** Ayrıntıları görüntüleyin ve **Etkinleştir**' i seçin. Etkinleştir düğmesi gri ise, hesabınız genel yönetici veya MPN Iş ortağı Yöneticisi güvenlik rolüne sahip değildir. Avantajlarınızı etkinleştirmek üzere bir kullanıcı bulmak için [Kullanıcı yönetimi](https://partner.microsoft.com/dashboard/account/v3/usermanagement#users) ve filtreleme kullanın. 
+   - **Teknik avantajı etkinleştirin.** Ayrıntıları Görüntüle'yi seçin ve **Etkinleştir'i seçin.** Etkinleştir düğmesi gri ise, hesabınız Genel Yönetici veya MPN İş Ortağı Yöneticisi güvenlik rolüne sahip değildir. Avantajlarınızı [etkinleştirmek üzere](https://partner.microsoft.com/dashboard/account/v3/usermanagement#users) bir kullanıcı bulmak için Kullanıcı Yönetimi'nin ve filtrenin kullanın. 
 
-   - **Ürün desteği erişim KIMLIĞINI ve sözleşme KIMLIĞINI görüntüleyin ve paylaşma.** Etkinleştirmeden sonra tüm kullanıcılar **ERIŞIM kimliğini** ve **sözleşme kimliğini** görür. Size veya şirketinizin kullanıcılarına bir hesap için destek isteği gönderdiğinizde bu bilgileri paylaşması ve kullanması gerekir.
+   - **Ürün desteği Erişim Kimliğini ve Sözleşme Kimliğini görüntüleme ve paylaşma.** Etkinleştirmeden sonra tüm kullanıcılar Erişim Kimliği **ve Sözleşme** **Kimliği'ni görebilir.** Siz veya şirket kullanıcılarının bir hesap için ilk destek isteği gönderdiğinizde bu bilgileri paylaşmanız ve kullanmanız gerekir.
 
-4. **Teknik destek (onarım).** İşlevsellik kesildiğinde veya bir şey beklendiği gibi çalışmadığınızda (örneğin, bir hata iletisi aldığınızda) bu tür teknik desteği kullanın. İşte bazı rehberlik:
+4. **Teknik destek (Düzeltme).** İşlevsellik bozuk olduğunda veya bir şey beklendiği gibi çalışmıyorsa (örneğin, bir hata iletisi alırsanız) bu tür teknik destek kullanın. İşte bazı kılavuzlar:
 
-   - İmza bulutu desteği: yalnızca altın/gümüş uzmanlık ortakları Için (Eylem Paketi aboneler için kullanılamaz), **bulut ürünleri** Için **imza ürün desteği** kullanın.
+   - Signature Bulut Desteği: Yalnızca Gold/Silver uzmanlık iş ortakları için (Eylem Paketi için kullanılamaz), Bulut ürünleri için **İmza** Ürün **Desteği'ne başvurun.**
 
-   - Microsoft ürün desteği: hem Eylem Paketi hem de Altın/Gümüş uzmanlık ortakları Için, **Microsoft ürün destek** olaylarını **en son şirket içi ürünler** (yalnızca geçerli ve önceki sürümler) için kullanın.
+   - Microsoft Ürün Desteği: Hem Eylem Paketi hem de Gold/Silver uzmanlık iş ortakları için, son şirket içi ürünler **(yalnızca** güncel ve önceki sürümler) için **Microsoft** Ürün destek olaylarını kullanın.
 
      >[!NOTE]
-     > Şirket içi, Azure (CSP olmayan) ve Dynamics ürünleri için teknik destek istekleri için erişim KIMLIĞI ve sözleşme KIMLIĞI gereklidir. 
+     > Şirket içi, Azure (CSP olmayan) ve Dynamics ürünlerine teknik destek istekleri için Erişim Kimliği ve Sözleşme Kimliği gereklidir. 
 
-**[Şirket içi veya bulut ürünleri için teknik destek hakkında daha fazla bilgi edinin](mpn-benefits-technical-support.md)**
+**[Şirket içi veya Bulut ürünleri için Teknik Destek hakkında daha fazla bilgi](mpn-benefits-technical-support.md)**
 
   
-## <a name="manage-technical-benefits---partner-advisory-hours"></a>Teknik avantajları yönetme-Iş ortağı danışmanlık saatleri
-İş ortağı danışmanlık saatleri, **Teknik satış ve Dağıtım Hizmetleri (TPD)** için kullanılan para birimindedir, yalnızca bir istek göndermek için oturum açın (etkinleştirme veya Kullanıcı Ataması gerekli değildir).
+## <a name="manage-technical-benefits---partner-advisory-hours"></a>Teknik Avantajları Yönetme - İş Ortağı Danışmanlık Saatleri
+İş Ortağı Danışmanlık Saatleri, Teknik Ön Satış ve Dağıtım hizmetleri **(TPD)** için kullanılan para birimidir, yalnızca bir istek göndermek için oturum açma işlemidir (etkinleştirme veya kullanıcı ataması gerekli değildir).
 
-İş ortağı danışmanlık saatlerinizi Iş Ortağı Merkezi 'nde teknik avantajlarınızı görmek için aşağıdakileri yapın:
+İş Ortağı Danışmanlık Saatleri teknik avantajlarınızı görmek İş Ortağı Merkezi şunları yapın:
 
-1. Iş Ortağı Merkezi [panosunda](https://partner.microsoft.com/dashboard)oturum açın.
+1. İş Ortağı Merkezi [oturum açın.](https://partner.microsoft.com/dashboard)
 
-2. Iş ortağı danışmanlık saatlerinizi görmek için **avantajlar** ve **Teknik avantajlar** ' ı seçin
+2. İş **Ortağı Danışmanlık** **saatlerinizi görmek için Avantajlar'ı** ve ardından Teknik Avantajlar'ı seçin
 
-3. Sayfanın sağ alt köşesinde, isteğinizi göndermek için **[Teknik satış öncesi ve dağıtım Isteği gönder](https://partnercenter.microsoft.com/pcv/partnership/benefits/createadvisoryhoursservicerequest)** ' e tıklayın.
+3. İsteğinizi göndermek için sayfanın sağ alt **[kısmında Teknik ön satış ve dağıtım isteği gönder'e](https://partnercenter.microsoft.com/pcv/partnership/benefits/createadvisoryhoursservicerequest)** tıklayın.
      >[!NOTE]
-     > Teknik avantajlar sayfasında *"hiçbir avantajınız yok"* iletisini görüntüleniyorsa, altın, gümüş veya Microsoft eylem paketi tekliflerine sahip olmayan bir iş ortağı hesabı kullanarak oturum açtınız ve bu hizmeti kullanma yetkiniz yok veya oturum açmak için yanlış hesap kullandınız.
+     > Teknik avantajlar sayfasında "Henüz herhangi bir avantaja sahip değil gibi *görünüyor"* iletisi görüntülenirse Gold, Silver veya Microsoft Eylem Paketi teklifleri olmayan bir iş ortağı hesabı kullanarak oturum açasınız ve hizmeti kullanmaya uygun değil veya oturum açma için yanlış hesabı kullandınız.
      > 
-**[Teknik satış ve Dağıtım Hizmetleri (TPD) hakkında daha fazla bilgi edinin](technical-benefits.md)**
+**[Teknik Ön Satışlar ve Dağıtım hizmetleri (TPD) hakkında daha fazla bilgi](technical-benefits.md)**
   
-## <a name="manage-go-to-market-offers"></a>Go-to-market tekliflerini yönetme
+## <a name="manage-go-to-market-offers"></a>Pazara Git tekliflerini yönetme
 
 **Bu görevi gerçekleştirmek için uygun roller:**
 
 - Genel yönetici
-- MPN Iş ortağı Yöneticisi
+- MPN İş Ortağı yöneticisi
 
-1. **Avantajlar** **' ı seçin ve pazara karşı** Microsoft programı ile ilişkili teklifler listesini görüntüleyin.
+1. **Avantajlar'ı** **ve ardından** Pazara Git'i seçerek Microsoft programıyla Pazara Satış programıyla ilişkili tekliflerin listesini görmek için.
 
-   [Pazara hazır Özellikler](mpn-learn-about-go-to-market-benefits.md) , kullanabileceğiniz ek pazarlama kaynakları, teklifler, programlar ve yardım sunar. Kullanılabilir teklif türleri, belirli iş ortağı düzeyinize ve daha önce edindiğiniz tüm uzmanınıza bağlıdır.
+   [Pazara Git özellikleri,](mpn-learn-about-go-to-market-benefits.md) size sunabilirsiniz ek pazarlama kaynakları, teklifler, programlar ve yardım sunar. Kullanılabilir teklif türleri, belirli iş ortağı düzeyinize ve zaten edinmış olduğunuz yetkinliklere bağlıdır.
 
-2. Herhangi bir pazara yönelik teklifi veya programı etkinleştirmek için önce bir şirket pazarlama kişisi atamanız gerekir. Bu iletişim etkin Pazara Git teklifleriniz hakkında takip iletişimleri alır.
+2. Pazara satış tekliflerini veya programlarını etkinleştirmek için önce bir şirket pazarlama ilgili kişisi atamanız gerekir. Bu kişi, etkin go-to-market tekliflerinizin hakkındaki izleme iletişimlerini alacaktır.
 
-3. Pazarlama iletişim bilgilerini eklemek veya güncelleştirmek için Pazara Git sayfasının en üstüne gidin ve **Ekle,** Güncelleştir veya **Değiştir'i** **seçin.** Şimdi aşağıdaki adımları uygulayın:  
+3. Pazarlama iletişim bilgilerinizi eklemek veya güncelleştirmek için, pazara git sayfasının en üstüne gidin ve **Ekle**, **Güncelleştir** veya **Değiştir**' i seçin. Şimdi aşağıdaki adımları uygulayın:  
 
-   a. Listeden bir kullanıcı seçin. Atamak istediğiniz kullanıcı listede yoksa, Hesap ayarları'nın [içinde yeni kullanıcılar](create-user-accounts-and-set-permissions.md) **ekleyebilirsiniz.**
+   a. Listeden bir kullanıcı seçin. Atamak istediğiniz Kullanıcı listede yoksa, **Hesap ayarlarına** [Yeni Kullanıcı ekleyebilirsiniz](create-user-accounts-and-set-permissions.md) .
 
-   b. Kullanıcının, şirket hesabıyla ilişkili e-posta adresinden farklı bir e-posta İş Ortağı Merkezi girin.
+   b. Kullanıcı için şirketinizin Iş Ortağı Merkezi hesabıyla ilişkili e-posta adresinden farklı bir e-posta adresi sağlayın.
 
-      Pazara Git teklifinizi kullanmaya yönelik yönergeleri, belirlenen pazarlama ilgili kişinizin e-posta adresine e-posta ile gönderebilirsiniz.
+      Pazara Alım teklifinizi kullanmaya yönelik yönergeleri, belirlenen pazarlama Kişinizin e-posta adresine e-posta ile göndereceğiz.
 
    c.  Bu pazarlama ilgili kişisi için telefon numarasını ve tercih edilen dilini belirtin. Bu bilgileri girmeyi tamamladığınızda **Kullanıcı ata**’yı seçin.
 
-4. Pazarlama ilgili kişinizi güncelleştirdikten sonra kullanmaya başlamak istediğiniz Pazara Git teklifini bulun ve satırın sağ üst tarafından aşağı oku seçerek teklifin ayrıntılarını genişletin. Listede Avantaj adının altında kullanılabilen her teklif türü **(Silver Core,** **Gold Core** veya **ISV Ortak satışa hazır gibi) görüntülenir.**
+4. Pazarlama kişinizi güncelleştirdikten sonra, kullanmaya başlamak istediğiniz pazara Alım teklifini bulun, ardından teklifin ayrıntılarını genişletmek için satırın sağ tarafındaki aşağı oku seçin. Listede, avantaj adının altında sunulan her bir teklif türü görüntülenir (örneğin, **gümüş çekirdek**, **altın çekirdek** veya **ISV ortak satış için hazır**).
 
-5. Teklifi **etkinleştirmek için** Etkinleştir'i seçin.
+5. Teklifi etkinleştirmek için **Etkinleştir** ' i seçin.
 
    > [!NOTE]
-   >Yönergelere atanan pazarlama ilgili kişisi tarafından e-posta ile göndermek ve Pazara Git teklifini etkinleştirmek birkaç gün sürer. Teklif etkinleştirildikten sonra Pazara Giriş sayfasında değişiklikleri görebilirsiniz. Durum **sütununda** teklifin Etkin olarak değiştir olduğunu **görüyorsunuz.** Expires **sütununda** teklifin süresinin dol olduğu tarihi gösterir. Bu teklifi sona erme tarihine kadar kullanabilirsiniz. Kullanılabilir farklı Pazara [Satış kaynakları, teklifler ve](mpn-learn-about-go-to-market-benefits.md) programlar hakkında daha fazla bilgi edinmek için:  
+   >Atanan pazarlama ekibine yönelik yönergeleri e-posta ile almak ve pazara karşı bir teklifi etkinleştirmek birkaç gün sürebilir. Teklif etkinleştirildikten sonra, pazara git sayfasında değişiklikler görürsünüz. **Durum** sütununda, teklif değişikliğini **etkin** olarak görürsünüz. **Süre sonu** sütununda, teklifin süresinin dolacağı tarihi görürsünüz. Bu teklifi, sona erme tarihine kadar kullanabilirsiniz. [Farklı go-to-market kaynakları, teklifleri ve kullanılabilir programlar](mpn-learn-about-go-to-market-benefits.md) hakkında daha fazla bilgi edinin.  
 
-## <a name="cancel-a-membership-benefit-or-offer"></a>Üyelik avantajını veya teklifini iptal etme
+## <a name="cancel-a-membership-benefit-or-offer"></a>Üyelik avantajı veya teklifini iptal etme
 
-Bir avantajı veya teklifi iptal etmek ve para iadesi almak için, isteği satın alma işleminin ardından 30 gün içinde yapmalı ve yazılım avantajlarını etkinleştirmemelisiniz. Hizmet isteği aracılığıyla iptal isteği.
+Bir avantajı veya teklifi iptal etmek ve bir para iadesi almak için, satın alma işlemini 30 gün içinde yapmanız gerekir ve yazılım avantajlarını etkinleştirmemiş olursunuz. Bir hizmet isteği üzerinden iptali isteyin.
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
@@ -182,4 +182,4 @@ Bir avantajı veya teklifi iptal etmek ve para iadesi almak için, isteği satı
 
 - [Microsoft Eylem Paketi aboneliği satın alma veya yenileme](mpn-get-action-pack.md)
 
-- [MPN Pazara Satış teklifleri ve kaynakları hakkında bilgi edinmek için](mpn-learn-about-go-to-market-benefits.md)
+- [MPN 'den pazara go teklifleri ve kaynakları hakkında bilgi edinin](mpn-learn-about-go-to-market-benefits.md)

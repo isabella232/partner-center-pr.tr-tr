@@ -1,70 +1,70 @@
 ---
-title: Uygulama Geliştirme uzmanlık sınavı muafiyeti
+title: Uygulama geliştirme uzmanlığına ilişkin sınav muafiyeti
 ms.topic: article
 ms.date: 05/01/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-membership
-description: Önceki bir ISV uzmanlığına sahip iş ortakları için, Uygulama Geliştirme uzmanlığı için tek kez sınav gereksinimleri muafiyeti elde etmeyi öğrenin
+description: Önceki bir ISV uzmanlığına sahip iş ortakları için, uygulama geliştirme uzmanlığına yönelik bir kerelik bir sınav gereksinimi muafiyeti kazanalma hakkında bilgi edinin
 author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 71121a7493da8dee18fc65a90a4a70cc32d712c9
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 9f124443aa67bad37a5e9aff0d0bdbbdc0ca8c3015720b960d7b18dd6ce4cbc4
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114838657"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115687953"
 ---
-# <a name="one-time-exam-requirements-exemption-for-the-application-development-competency"></a>Uygulama Geliştirme uzmanlığı için bir kezlik sınav gereksinimleri muafiyeti
+# <a name="one-time-exam-requirements-exemption-for-the-application-development-competency"></a>Uygulama geliştirme uzmanlığına yönelik bir kerelik sınav gereksinimleri muafiyeti
 
-**Uygun roller:** Genel yönetici | MPN iş ortağı yöneticisi
+**Uygun roller**: genel yönetici | MPN iş ortağı Yöneticisi
 
-Artık eski ISV yetkinliğine sahip olduysanız ve aşağıdaki senaryolardan biri sizin için geçerli ise, şirketinize altın veya gümüş Uygulama Geliştirme uzmanlığı için bir kezlik sınav gereksinimleri muafiyeti [sunuyoruz.](https://partner.microsoft.com/membership/application-development-competency) 
+Kullanımdan kalkmış olan ISV uzmanlığına sahipseniz ve aşağıdaki senaryolardan biri sizin için geçerliyse, şirketinizin altın veya gümüş [uygulama geliştirme uzmanlığına](https://partner.microsoft.com/membership/application-development-competency)yönelik bir kerelik bir sınav gereksinimi muafiyeti teklifi sunuyoruz. 
 
 ISV uzmanlığına sahip iş ortakları:
 
-- **ISV yetkinliğinizin** süresi doldu – Tek kullanımlık sınav gereksinimleri muafiyeti, 22 Kasım 2019 İş Ortağı Merkezi tarihinde kullanılabilir. Tekliflerden yararlanmak için 30 gün zamannız var. Şirketle ilgili İş Ortağı Merkezi için oturum açma.
+- **ISV uzmanlarınızın süresi doldu** . bir kerelik sınav gereksinimleri muafiyeti, 22 Kasım 2019 tarihinden Itibaren Iş Ortağı Merkezi 'nde kullanılabilir. Teklifin avantajlarından yararlanmak için 30 gününüz vardır. Şirketinize özgü ayrıntılar için Iş Ortağı Merkezi ' nde oturum açın.
 
-- **Uzmanlık üyeliğiniz kendi** yenileme penceresinde – 22 Kasım 2019'dan İş Ortağı Merkezi sınav gereksinimleri muafiyeti sağlanıyor. Tekliflerden yararlanmak için 30 gün zamannız var. Şirketle ilgili İş Ortağı Merkezi için oturum açma.
+- **Uzmanlık üyeliğiniz yenileme penceresinde bulunur** . bir kerelik sınav gereksinimleri muafiyeti, 22 Kasım 2019 tarihinden Itibaren Iş Ortağı Merkezi 'nde kullanılabilir. Teklifin avantajlarından yararlanmak için 30 gününüz vardır. Şirketinize özgü ayrıntılar için Iş Ortağı Merkezi ' nde oturum açın.
 
-- **Uzmanlık üyeliğinizin yenilenmesi** önümüzdeki aylarda yapılacaktır. Tek kez sınav gereksinimleri muafiyeti, yenilenme zamanı geldiğinde size sağlanacak. Bu süre boyunca teklifi almak için 30 gün sürene sahip oluruz.
+- **Uzmanlığa ait üyeliğiniz, önümüzdeki aylarda yenilemeyle ilgili olarak yapılır** . yenileme süresi ne zaman olacağı zaman, tek seferlik sınav gereksinimleri muafiyeti sizin için de kullanılabilir. Bu sırada, teklifi almak için 30 gününüz olur.
 
-Sertifika IP yolu aracılığıyla elde edildi bir Uygulama Geliştirme uzmanlığına sahip iş ortakları:
+Uygulama geliştirme uzmanlığına sahip iş ortakları, sertifika IP yolu aracılığıyla yapılır:
 
-- **Microsoft ticari market listelemeniz varsa,** tek kullanımlık sınav gereksinimleri muafiyeti, uzmanlık yenilemeniz zamanında kullanılabilir. Bu süre boyunca teklifin avantajını elde etmek için 30 gün sürene sahip oluruz.
+- **Bir Microsoft ticari Market listelemesi varsa**, tek seferlik sınav gereksinimleri muafiyeti, uzmanlığa ilişkin yenileme sırasında kullanılabilir olacaktır. Bu sırada, tekliften yararlanmak için 30 gününüz olur.
 
-- **Microsoft ticari market [](https://azure.microsoft.com/overview/commercial-marketplace/) listelemeniz** yoksa, tek kullanımlık sınav gereksinimleri muafiyeti için şubat 2020'ye kadar çözümlerinizi yayımlayın.
+- **[Microsoft ticari Market](https://azure.microsoft.com/overview/commercial-marketplace/) listelemesi** yoksa, tek seferlik sınav gereksinimleri muafiyeti için uygun olması için çözümünüzü Şubat 2020 ' den yayımlayın.
 
-## <a name="how-to-take-advantage-of-your-offer"></a>Teklifinizin avantajını alma
+## <a name="how-to-take-advantage-of-your-offer"></a>Teklifinizin avantajlarından yararlanın
 
-1. Pano İş Ortağı Merkezi menüsünde Yetkinlikler'i **seçin.**
-2. Kullanılabilir yetkinlikler listesinde Uygulama Geliştirme tamamlandı olarak **işaretlenir.**
+1. Panonuzdaki Iş Ortağı Merkezi menüsünde, **Uzmanlıklar**' ı seçin.
+2. Kullanılabilir Uzmanlıklar listesinde, uygulama geliştirme **tamamlanmış** olarak işaretlenir.
 
-3. Uygulama **Geliştirme'yi seçin.** Size, şirketinizi sınav gereksinimlerini karşılamadan muaf tutar bir geçersiz kılma verildiğini fark edin. 
+3. **Uygulama geliştirmeyi** seçin. Şirketinizi, sınav gereksinimlerini toplantıdan muaf kılan bir geçersiz kılma verildiğine dikkat edin. 
 
-4. Bu tekliflerden yararlanmak için Üyelik **teklifleri'ne gidin.** Uzmanlık satın alma veya yenileme durumunuza bağlı olarak işlemi tamamlamak için uzmanlık ücreti ödemeniz gerekir. 
+4. Bu teklifin avantajlarından yararlanmak için **Üyelik teklifleri**' ne gidin. Uzmanlığa satın alma veya yenileme durumunuza bağlı olarak, süreci tamamlamaya yönelik uzmanlığa ücret ödemenizi sağlayabilirsiniz. 
 
-Bu teklif, İş Ortağı Merkezi.
+Bu teklif Iş Ortağı Merkezi aracılığıyla sağlanır.
 
-Teklifinizi alma konusunda yardıma ihtiyacınız varsa veya bu teklife uygunluğunuz hakkında sorularınız varsa iş ortağı [desteğine başvurun.](https://partner.microsoft.com/Support) 
+Teklifinizin alınması için yardıma ihtiyacınız varsa veya bu teklifin uygunluk bilgileri hakkında sorularınız varsa [iş ortağı desteğine](https://partner.microsoft.com/Support)başvurun. 
 
 ## <a name="frequently-asked-questions"></a>Sık sorulan sorular
 
-**Nasıl yaparım? teklifin uygun olup olmadığını biliyor musunuz?**
+**Nasıl yaparım? şirketimin bu teklif için uygun olup olmadığını öğrensin mi?**
 
-Bu teklife uygun olan iş ortağı şirketlere e-postayla ve İş Ortağı Merkezi ve teklifin nasıl alınarak ilgili bilgilerle birlikte bildirildi. Uygun iş ortakları, artık kaldıran ISV yetkinliğine ve sertifika IP yolu aracılığıyla Uygulama Geliştirme uzmanlığına sahip olan iş ortaklarına dahildir. 
+Bu teklif için uygun iş ortağı şirketleri, teklifin nasıl alınacağı hakkında bilgi içeren e-posta ve Iş Ortağı Merkezi aracılığıyla bilgilendirildi. Uygun iş ortakları, kullanımdan kalkmış ISV uzmanlığına sahip olanları ve sertifika IP yolu aracılığıyla uygulama geliştirme uzmanlığına sahip olanları içerir. 
 
-**Uygulama Geliştirme uzmanlığının avantajları nelerdir?**
+**Uygulama geliştirme uzmanlığına ilişkin avantajlar nelerdir?**
 
-Microsoft iş ortağı web sitesinde Uygulama Geliştirme uzmanlık avantajlarını gözden geçirebilirsiniz. 
+Microsoft iş ortağı web sitesinde uygulama geliştirme uzmanlığına yönelik avantajlardan yararlanabilirsiniz. 
 
-**Bu teklifi elde etmek için yetkinliğimi yenileme zamanı geldiğinde ne olur?** 
+**Bu teklifi aldığımda uzmanlarımı yenilemem gereken süre ne olur?** 
 
-Yakında ISV'lere yönelik planlarımız hakkında daha fazla bilgi paylaşacak ve bu teklifin sonucunda Uygulama Geliştirme uzmanlığına sahip iş ortaklarına rehberlik sunacağız.**  
+ISV için planlarımız hakkında daha fazla bilgi paylaşacağız ve bu teklifin bir sonucu olarak uygulama geliştirme uzmanlığına sahip iş ortakları için rehberlik sağlıyor. * *  
 
-**Şirketimin ISV uzmanlığı yoksa bu teklifi nasıl elde miyim?**
+**Şirketim ISV uzmanlığına sahip değilse bu teklifi nasıl alabilirim?**
 
-Bu teklif yalnızca uygun iş ortaklarının (SERTIFIKA IP yolu aracılığıyla ISV uzmanlığına veya Uygulama Geliştirme uzmanlığına sahip olan iş ortaklarına) kullanılabilir. ISV'lere hizmet vermeye yönelik yakın vadeli ve uzun vadeli kapsamlı çözümleri etkin bir şekilde değerlendireceğiz ve yakında daha fazla ayrıntı paylaşacağız. 
+Bu teklif, yalnızca uygun iş ortakları için kullanılabilir: ISV uzmanlığına veya uygulama geliştirme uzmanlığına sahip olanlar, sertifika IP yolundan yararlanabilir. ISV 'Lere hizmet vermeye yönelik yakın vadeli ve uzun süreli kapsamlı çözümleri etkin bir şekilde düşünüyoruz ve yakında daha fazla ayrıntı paylaşacağız. 
 
 

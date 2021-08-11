@@ -1,6 +1,6 @@
 ---
-title: iş ortağı merkezi Analizler-cloudadscent eğilimini raporları
-description: Iş Ortağı Merkezi 'nde Cloudadscent eğilimini raporları hakkında bilgi edinin. Microsoft ürünlerini satın almak için bir müşterinin eğilimini hakkında bilgiler içerir.
+title: İş Ortağı Merkezi Analizler - CloudAscent Propensity raporları
+description: İş Ortağı Merkezi'daki CloudAscent Propensity raporları hakkında bilgi İş Ortağı Merkezi. Müşterinin Microsoft ürünlerini satın alma eğilimi hakkında bilgi içerir.
 ms.topic: conceptual
 ms.service: partner-dashboard
 ms.subservice: partnercenter-insights
@@ -8,132 +8,132 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.date: 04/27/2021
-ms.openlocfilehash: 4248c3d72512073ba361bf1e0ee276a766b04176
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 9c9c592a5720642c9d2d0c7b5ac8c2a4aa23387d4d6c063ca1e064959a340c1e
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114837110"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115686345"
 ---
-# <a name="cloudascent-propensity-reports-available-from-partner-center-dashboard"></a>Cloudadscent eğilimini raporları Iş Ortağı Merkezi panosundan kullanılabilir
+# <a name="cloudascent-propensity-reports-available-from-partner-center-dashboard"></a>CloudAscent Propensity raporları panodan İş Ortağı Merkezi kullanılabilir
 
-**Uygun roller**: Executive rapor Görüntüleyici | Rapor Görüntüleyicisi
+**Uygun roller:** Yönetici rapor görüntüleyicisi | Rapor görüntüleyicisi
 
-Iş Ortağı Merkezi panosu, Cloudadscent programından indirilebilir eğilimini verileri sağlar. Veriler, müşterilerin Microsoft ürünlerini satın alma olasılığını gösterir.  Bu makalede bu verilerin dökümü, Puanlama kullanımı ve ne anlama geldiğini açıklanmaktadır.
+İş Ortağı Merkezi panosu, CloudAscent programından indirilebilir teklif verileri sağlar. Veriler, müşterilerin Microsoft ürünlerini satın alma olasılığını gösterir.  Bu makalede bu verilerin dökümü, puanlamanın nasıl kullanımı ve ne anlama geldiğini açıklanmıştır.
 
 ## <a name="summary-definitions"></a>Özet tanımları
 
-- **SMC müşterileri**: Bu, eğilimini indirmelerinde bulunan toplam müşteri sayısıdır.  Müşteriler, kayıt ortağı tarafından tanımlanır.
-- **Süresi dolan anlaşmalar**: geçerli mali yıl içinde, süresi dolan sözleşmelerin sayısını sağlıyoruz.
-- **Süresi dolan gelir**: açık süresi dolan anlaşmalarla ilişkili gelir.
+- **SMC Müşterileri**– Bu, teklif indirmelerinde toplam müşteri sayısıdır.  Müşteriler, kaydın iş ortağı tarafından tanımlanır.
+- **Sözleşme süre** sonu– Geçerli mali yıl içinde süresi dolan sözleşme sayısını sağlıyoruz.
+- **Süresi Dolan Geliri Aç:** Açık süresi dolan sözleşmelerle ilişkili gelir.
 
-:::image type="content" source="images/insights/customer-opportunity-1.png" alt-text="Müşteriler fırsatlar Özet Panosu ekran görüntüsü.":::
+:::image type="content" source="images/insights/customer-opportunity-1.png" alt-text="Müşteri Fırsatları Özeti panosunun ekran görüntüsü.":::
 
-## <a name="cloudascent-smb-segmentation"></a>Cloudadtik SMB kesimlemesi
+## <a name="cloudascent-smb-segmentation"></a>CloudAscent SMB segmentasyon
 
-Küçük ve orta ölçekli iş (SMB) segmenti üç farklı alt parçaya bölünür.
+Küçük ve orta ölçekli işletme (SMB) segmenti üç ayrı alt segmente ayrılır.
 
-1. **En Iyi yönetilmeyen** , Microsoft için en çok fırsat olan en büyük SMB müşterilerini içerir. Tipik En Iyi yönetilmeyen müşteriler benzer özellikleri, çok sayıda çalışan, büyük BT bütçeleri ve harcama ve Microsoft için büyük miktarda potansiyel gelir ile yönetilen hesaplara paylaşır.
+1. **En İyi Unmanaged,** Microsoft için en fazla fırsata sahip olan en büyük SMB müşterilerini içerir. Tipik En İyi Yönetilemeyen müşteriler, Çok sayıda çalışan, büyük IT bütçeleri ve harcamaları ve Microsoft için büyük miktarlarda potansiyel gelirle Yönetilen hesaplara benzer özelliklere sahiptir.
 
-   En üst yönetilmeyen olarak iki şekilde tanımlanır:
+   En İyi Unmanaged'ı iki şekilde tanımlamış oluruz:
 
-   - **Üst yönetilmeyen Kullanıcı tabanlı**– 300 veya daha fazla çalışan hesapları içerir. User-Based hesapları, Microsoft 365, Dynamics 365 veya yüzey gibi kullanıcı tabanlı abonelik ürünlerinin ilk kez satın alınması veya genişletilmesi için harika hedeflerdir.
-   - **Üst yönetilmeyen Işlem tabanlı** – Azure, $10.000 ' den büyük olan hesapları içerir. İşlem tabanlı hesaplar var olan Azure 'ı içerir. daha önce Azure satın alma, ancak Azure 'un en fazla $10.000 ' den büyük olması gereken önemli gelecek yıl potansiyeli hesaplar.
+   - **En İyi Unmanaged User Based :** 300 veya daha fazla çalışanı olan hesapları içerir. User-Based hesapları ilk kez satın almak veya Microsoft 365, Dynamics 365 veya Surface gibi kullanıcı tabanlı abonelik ürünlerinin genişletilmesi için harika hedeflerdir.
+   - **En İyi Unmanaged Compute Based:** Azure potansiyeli 10 bin ABD dolarından büyük olan hesapları içerir. İşlem tabanlı hesaplar mevcut Azure'ları içerir. gelecek yıl için önemli bir potansiyele sahip olan hesaplar ve henüz Azure'a satın almamış ancak Azure için 10 bin DOlardan fazla potansiyele sahip olan hesaplar.
 
-2. **Orta ölçekli işletmeler** , 25 ila 300 çalışanı olan mevcut müşterileri ve aday hesap hesaplarını içerir.
+2. **Medium Business,** 25-300 çalışanı olan mevcut müşterileri ve potansiyel müşteri hesaplarını içerir.
 
-3. **Küçük işletmeler** , 10-25 çalışanı olan işletmeler içerir.
+3. **Small Business,** 10-25 çalışanı olan işletmeler içerir.
 
-4. **Çok küçük işletmeler** , 1-9 çalışanı olan işletmeler içerir.
+4. **Çok Küçük İşletmeler,** 1-9 çalışanı olan işletmeler içerir.
 
-:::image type="content" source="images/insights/customer-opportunity-2.png" alt-text="Müşteri, SMC türüne göre.":::
+:::image type="content" source="images/insights/customer-opportunity-2.png" alt-text="SMC türüne göre müşteri.":::
 
-**En Iyi yönetilmeyen** ve **Orta ölçekli iş** alt kesimleri, Microsoft ve Microsoft iş ortakları için yüksek yaşam süresi değeri (LTV) müşterilerini temsil eder. Bu nedenle, bu kesimde büyüme için odaklanabilecek öncü alanlardır. bu iki alt kesimde, yuvayı Microsoft 365, D365/Azure iş kolu (LOB) uygulamaları ile daha iyi bir şekilde almak ve Microsoft için yüksek bir ktv hakkında daha iyi konumlandırılıyoruz.
+**En İyi Unmanaged** **ve Medium Business** alt kesimleri, Microsoft ve Microsoft İş Ortakları için yüksek yaşam süresi değeri (LTV) müşterilerini temsil eder. Bu nedenle, bu segmentte büyümeyi devamtırma odak noktası bunlardır. Bu iki alt abonelikte yuvayı Microsoft 365 ile almak, D365/Azure iş hattı (LOB) uygulamalarıyla daha fazla gelir elde etmek ve Microsoft için yüksek bir LTV gerçekleştirmek için daha iyi konumlara sahip oluruz.
 
-Bugün, 1. fırsat için iki temel alan sunuyoruz. müşterimiz büyüme ekliyor; iki. bulut yuvalarını Microsoft 365 önde edindiğimiz için, Dynamics 365 ve Azure 'da büyük bir fırsattır.
+Bugün iki önemli fırsat alanımız vardır: 1. müşterimiz büyümeye devam ediyor; 2. Bulut yuvalarını en iyi şekilde Microsoft 365 dynamics 365 ve Azure'da büyük bir fırsatımız var.
 
-Aşağıdaki ekran görüntüsünde dört SMB alt bölümü temsil eder. Cloudadtik, tüm üst yönetilmeyen ve orta ölçekli Iş hesaplarının profil oluşturma, Puanlama ve modellemesini önceliklendirmez.
+Aşağıdaki ekran görüntüsü dört SMB Altgegment'larını temsil eder. CloudAscent, tüm En İyi Unmanaged ve Medium Business hesaplarının profil oluşturma, puanlama ve modelleme önceliklerini belirleme.
 
-:::image type="content" source="images/insights/customer-opportunity-3.png" alt-text="SMB alt kesimlerinin ekran görüntüsü.":::
+:::image type="content" source="images/insights/customer-opportunity-3.png" alt-text="SMB alt ayrımlarının ekran görüntüsü.":::
 
-## <a name="cloudascent-machine-learning"></a>Cloudadsent Machine Learning
+## <a name="cloudascent-machine-learning"></a>CloudAscent Machine Learning
 
-SMB, en üst yönetilmeyen ve orta ölçekli Iş segmentlerinde satış ve pazarlama müşteri tahminlerini yönlendirmek için makine öğrenimi teknolojisini kullanır. Sinyaller nasıl toplanır ve eğilimini önerilere nasıl etkinleştirilir?
+SMB, En İyi Unmanaged ve Medium Business segmentleri içinde satış ve pazarlama müşterisi tahminlerini sağlamak için makine öğrenmesi teknolojisini kullanır. Sinyaller nasıl toplanır ve yayma önerilerine nasıl dönüşer?
 
-- **Veri toplama**: web gezginleri şirket etki alanlarını ve blog yayınlarını izleyerek, yayınlar, sosyal akışlar ve teknik Forumlar ' e basarak milyarlarca müşteri sinyalleri tarar ve toplar.  Toplanan sinyallere ek olarak, firmograf bilgileri, D&B, Microsoft Iç aboneliği ve işlem verileri gibi iç ve dış kaynaklardan toplanır.
+- **Veri Toplama:** Web tarayıcıları şirket etki alanlarına ping atarak ve blog gönderilerini, basın yayınlarını, sosyal akışları ve teknik forumları izleerek milyarlarca müşteri sinyalini tarar ve toplar.  Toplanan sinyallere ek olarak D&B, Microsoft İç aboneliği ve işlem verileri gibi hem iç hem de dış kaynaklardan sıkı bilgiler toplanır.
 
-- **Machine Learning**: sinyaller, bulut ürünü ve kümesi tarafından her müşteri için yapılandırılmış veri satış ve pazarlama tahminleri kümesini veren makine öğrenimi modeline dağıtılır.  Her müşteri, Microsoft 'un müşterinin sığdırmasını belirleyen ve müşterinin çevrimiçi davranışını tümleştiren makine öğrenimi algoritmalarının amaç olarak tanımladıkları, benzer bir model ile Microsoft 'un en üst SMB 'sini kullanarak puanlanır. Puanlama, Microsoft Bulut ürünlerini satın almak için müşterinin eğilimini gösteren kümeler halinde birleştirilir.
+- **Machine Learning:** Sinyaller, bulut ürünü ve kümesine göre her müşteri için yapılandırılmış bir Satış ve Pazarlama tahminleri veri kümesi çıkışına sahip makine öğrenmesi modeline beslenir.  Her müşteri, Microsoft'un müşterinin Uygun olup olmadığını belirleyen en iyi SMB modeline benzer bir görünüm kullanılarak puanlandı ve müşterinin çevrimiçi davranışını tümleştiren makine öğrenmesi algoritmaları Amaç olarak tanımlandı. Puanlama, müşterinin Microsoft Bulut Ürünleri satın alma eğilimini göstermek için kümeler ile birleştirilir.
 
-- **iyileştirme**: Machine Learning sistemi işlem verilerini aylık ve abonelik verilerini üç ayda bir tüketerek modelleri iyileştirir.  win/kaybetme verilerini kullanarak, Machine Learning algoritmaları ayarlar ve küme önerilerini MSX bölümünde işlem yapılan fırsatlarla karşılaştırarak modellerin beklendiği gibi çalıştığını doğrular.
+- **İyileştirme:** Machine Learning sistemi, işlem verilerini aylık olarak ve abonelik verilerini üç ayda bir kullanarak modelleri iyiler.  Win/loss verilerini kullanarak Machine Learning, küme önerilerini MSX üzerinde işlem yapılan fırsatlarla karşılaştırarak algoritmaları ayarlar ve modellerin beklendiği gibi çalıştığını doğrular.
 
-:::image type="content" source="images/insights/customer-opportunity-4.png" alt-text="SMB Machine Learning 'in ekran görüntüsü.":::
+:::image type="content" source="images/insights/customer-opportunity-4.png" alt-text="SMB makine öğrenmesi ekran görüntüsü.":::
 
-## <a name="cloudascent-propensity"></a>Cloudadscent eğilimini
+## <a name="cloudascent-propensity"></a>CloudAscent Propensity
 
-Eğilimini önerileri nasıl oluşturulur?
+Yayma önerileri nasıl oluşturulur?
 
-Web gezginleri aracılığıyla toplanan sinyalleri ve çeşitli kaynaklardan gelen verileri kullanarak, firmograf verilerini ve müşterinin sosyal medya sinyallerini birleştirdik.  Puanlama, bu sinyalleri ve verileri, amaç için uyum ve Puanlama modelleri için karşılaştırma modelleriyle kullanır.
+Web gezginleri aracılığıyla toplanan sinyalleri ve çeşitli kaynaklardan sağlanan verileri kullanarak, sıkı grafik verilerini ve müşterinin sosyal medya sinyallerini birleştiriyoruz.  Puanlama, Amaç için uygun ve puanlama modelleri için karşılaştırma modellerinde bu sinyalleri ve verileri kullanır.
 
-1. Müşteri hesabına Sığdır
+1. Müşteri Hesabı Sığdırma
 
-   - Firmografları tanımlayan iç ve dış veri noktaları.
+   - Sıkı grafiği tanımlayan iç ve dış veri noktaları.
 
-   - Kullanım Puanlama, müşterileri karşılaştırmak için en iyi SMB 'ye benzer bir model kullanır ve Microsoft Bulut ürünlere yönelik potansiyel bir uyum olup olmadığını görür.
+   - Uygun puanlama, müşterileri karşılaştırmak ve Microsoft Cloud Products için potansiyel olarak uygun olup olduklarını görmek için en iyi SMB'mize benzer bir model kullanır.
 
-   - Puanlama Sığdır üç ayda bir güncelleştirilir
+   - Fit puanlama üç aylık olarak güncelleştirilir
 
-2. Müşteri hesabı hedefi
+2. Müşteri Hesabı Amacı
 
-   - Sosyal medya ve müşterinin çevrimiçi davranışı ile ilgili sinyaller amaç tanımlar.
+   - Sosyal medya ve müşterinin çevrimiçi davranışıyla ilgili sinyaller Amacı tanımlar.
 
-   - Amaç Puanlama, kümeleri tanımlamak için sığacak kadar yer alır.
+   - Amaç puanlama, kümeleri tanımlamak için uygun olan üst düzeye atlar.
 
-   - Amaç Puanlama aylık olarak güncelleştirilir.
+   - Amaç puanlama aylık olarak güncelleştirilir.
 
-   :::image type="content" source="images/insights/customer-opportunity-5.png" alt-text="Cloudadtik SMB tahmine dayalı modeller.":::
+   :::image type="content" source="images/insights/customer-opportunity-5.png" alt-text="CloudAscent SMB tahmine dayalı modelleri.":::
 
 3. Kümeleme
 
-   Sığdırma ve amaç sinyalleri bir kümeleme puanına birleştirilir. Cloudadtik dört kümeye sahiptir:
+   Fit ve amaç sinyalleri bir kümeleme puanında birleştirilmiştir. CloudAscent dört kümeye sahip:
 
-      - Şimdi davran-satış için hazır müşteriler
-      - Değerlendirme-pazarlama için hazırlık müşterileri
-      - Nurture-Drive tanıma kampanyaları
-      - Eğitime-amacı ve izleyiciyi eğitin
+      - Hemen Harekete Geç - satışa hazır müşteriler
+      - Değerlendirme - pazarlamaya hazır müşteriler
+      - Besleme - farkındalık kampanyalarını artırma
+      - Eğitin - amaç için eğitin ve izleme
 
-   Kümeleme, kullanıcıların belirli müşterileri, segment faktörlerine göre satış ve pazarlama girişimleri için hedeflemesini sağlar, örneğin: ürün, coğrafi, sektör ve dikey.
+   Kümeleme, kullanıcıların segment faktörlerine (örneğin ürün, coğrafi, sektör ve dikey) göre satış ve pazarlama girişimleri için belirli müşterileri hedeflemelerine olanak sağlar.
 
-   Clouduscent çalışma kitaplarındaki **eğilimini model** sekmesi, eğilimini ve tahmini boşluk gelirini paylaşır. Sığdırma ve amaç kümelemesini tanımlamak için aşağıdaki adımlardan ilerliyoruz:
+   CloudAscent Workbooks'daki Yayma modeli sekmesi, eğilimi ve tahmini boşluk gelirini paylaşıyor.  Fit ve Intent kümelelerini tanımlamak için aşağıdaki adımları izleyin:
 
-      1. ML modellerini kullanarak, ilk olarak 100 ölçeğinde müşterinin sığması puanı ve amaç puanı hesaplandık.  tam puanlar, ML modellere göre değişir.  Aşağıdaki örnek puanları:
+      1. ML Modellerini kullanarak önce 100 ölçeğinde Customer Fit Score ve intent Score hesaplarız.  Tam Puanlar, ML göre değişir.  Aşağıdaki Örnek Puanlar:
 
-         |**Sınıflandırma**|**Inızı**|
+         |**Sınıflandırma**|**Puan**|
          |---------|:---------|
-         |Yüksek|75-100|
-         |Orta|55-74|
+         |Yüksek|75 - 100|
+         |Orta|55 - 74|
          |Düşük|30 - 54|
-         |Çok düşük|0 - 29|
+         |Çok Düşük|0 - 29|
 
-      2. Yukarıdaki kuralı kullanarak, şirketlerin hem müşteri hem de amaç sinyallerine göre yüksek, orta, düşük ve çok düşük olmasını sağladık.
+      2. Yukarıdaki kuralı kullanarak, şirketleri hem Müşteri Uyumu hem de Amaç Sinyalleri genelinde Yüksek, Orta, Düşük ve Çok Düşük olarak sınıflandırabilirsiniz.
 
-      3. Eğilimini temsil eden her kesişmeyle, bir 2B matriste müşterinin sığdırmasını ve amaç sinyallerini çiztik. Örneğin, en yüksek eğilimini temsil eden üst düzey + yüksek amaç = a1.
+      3. Her kesişim eğilimi temsil eden bir 2 boyutlu matriste müşteri uyum ve amaç sinyallerini çizeriz. Örneğin, en yüksek eğilimi temsil eden High Fit + High Intent = A1.
 
-      4. Son olarak, bu segmentler grupları kümeler halinde oluşturur.  Örneğin, a1, a2, a3, A4, şimdi davran kümesi.
+      4. Son olarak, bu segmentler kümeler oluşturmak için grup oluşturur.  Örneğin, A1, A2, A3, A4 Şimdi Harekete Geç kümesidir.
 
-         :::image type="content" source="images/insights/customer-opportunity-6.png" alt-text="Cloudadscent modelleri.":::
+         :::image type="content" source="images/insights/customer-opportunity-6.png" alt-text="CloudAscent modelleri.":::
 
-   Bu müşteriler için, şimdi davran 'ın hedeflenmesini ve müşterileri değerlendirmesini öneririz.
+   Bu müşteriler için Şimdi Harekete Geç ve Müşterileri Değerlendir'i hedeflemenizi öneririz.
 
-## <a name="cloudascent-products--models"></a>Clouduscent ürünleri & modelleri
+## <a name="cloudascent-products--models"></a>CloudAscent Products & Modelleri
 
-Aşağıdaki grafik, Clouthscent içindeki her eğilimini modelinin bir görünümünü sağlar:
+Aşağıdaki grafik, CloudAscent içindeki her bir yayma modelinin görünümünü sağlar:
 
-:::image type="content" source="images/insights/customer-opportunity-7.png" alt-text="Cloudadscent eğilimini modeli.":::
+:::image type="content" source="images/insights/customer-opportunity-7.png" alt-text="CloudAscent propensity model.":::
 
-Boşluk modelleri, bir ürünün olmadığı ve/veya net yeni aday müşteriler müşterileri olmayan mevcut Microsoft müşterilerinin tahminlerden oluşur.
+Boşluk modelleri, ürüne sahip değil ve/veya net yeni potansiyel müşterileri olan mevcut Microsoft müşterileri için tahminlerden oluşur.
 
-büyük satış modelleri, Azure ve Microsoft 365 sku 'larında büyük satış potansiyelini tahmin etmek için işlem verilerini kullanır.
+Satış modelleri, Azure'da satış potansiyelini tahmin etmek ve SKUS'ları kullanmak için işlem Microsoft 365 kullanır.
 
-bu müşterilerin hem Azure hem de Microsoft 365 sahip olacağı ve büyük satış modeli, mevcut SKU 'sunun daha fazlasını satın aldıklarından emin olur.
+Bu müşteriler zaten hem Azure hem de Microsoft 365 sahip olacak ve satış modeli, mevcut SKU'larından daha fazla satın alma olasılığı olduğunu gösteriyor.
 
-eos, Win 7, Office 2010, SQL Server ve Windows sunucusu için hizmet sonu (eos) müşterilerini paylaşır. EOS verileri MS Sales 'ten çekilir ve kullanılabilir olduğunda CloudAscent eğilimini modellemesiyle yer alýr. EOS verileri, modern Iş ve Azure satış oynatılırken yaşar.
+EOS; Win 7, Office 2010, SQL Server ve Windows Server için hizmet sonu (EOS) müşterilerini paylaşıyor. EOS verileri MS Sales'den çekilir ve cloudAscent eğilimi modellemesi (varsa) ile birlikte kullanılır. EOS verileri Modern Çalışma ve Azure Satış oyunlarında yer alır.

@@ -9,12 +9,12 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1416c9b12cb6670eb2598f8baa4839996e29f09b
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: d042f1d2f711e59e3a6bbe320d829a8bbdf9b5dfe50a688dfe5a92b80cbc5090
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114841734"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115687919"
 ---
 # <a name="assigning-azure-subscriptions-to-customers-in-partner-center"></a>Azure aboneliklerini müşterilere İş Ortağı Merkezi
 

@@ -8,12 +8,12 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 7daacc29fd48b6404ff5949560c872beef5c9770
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: bc4130ad2d17d22060423b105fa51999be0f35ca2fe2f6470725c3c8dc527724
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114846205"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115687426"
 ---
 # <a name="view-available-earned-claimed-and-remaining-co-op-funds"></a>Kullanılabilir kazanılan, talep edilen ve kalan ortak işlem fonlarını görüntüleyin
 

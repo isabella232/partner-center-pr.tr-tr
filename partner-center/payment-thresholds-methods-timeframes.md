@@ -7,12 +7,12 @@ ms.service: marketplace
 ms.subservice: partnercenter-marketplace-publisher
 ms.topic: conceptual
 ms.date: 02/02/2021
-ms.openlocfilehash: 51b2ca2ce98789b41014597efd695fc61e7cbada
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 43b4cea49d5a716a5ca1e9bf397fcc105e4d6fc23c1924e537c05ac1d2ee1728
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114842091"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115694243"
 ---
 # <a name="payment-thresholds-methods-and-time-frames"></a>Ödeme eşikleri, yöntemleri ve zaman çerçeveleri
 
@@ -82,7 +82,7 @@ Bunlar, her market için yukarıdaki ödeme yöntemlerinin kullanılan ülkeler 
 | Fildişi Sahili (Côte d’Ivoire) | Yes | Yes | Yes | Hayır |
 | Hırvatistan | Yes | Yes | Yes | Hayır |
 | Kıbrıs | Yes | Yes | Yes | Yes |
-| Çekya | Yes | Yes | Yes | Yes |
+| Czechia | Yes | Yes | Yes | Yes |
 | Danimarka | Yes | Yes | Yes | Yes |
 | Dominika | Yes | Yes | Hayır | Yes |
 | Dominik Cumhuriyeti | Yes | Yes | Yes | Yes |
@@ -117,7 +117,7 @@ Bunlar, her market için yukarıdaki ödeme yöntemlerinin kullanılan ülkeler 
 | Ürdün | Yes | Yes | Yes | Yes |
 | Kazakistan | Yes | Yes | Yes | Yes |
 | Kenya | Yes | Yes | Yes | Yes |
-| Kore (Güney) | Yes | Yes | Yes | Hayır |
+| Kore dili (Güney) | Yes | Yes | Yes | Hayır |
 | Kuveyt | Yes | Yes | Yes | Yes |
 | Kırgızistan | Hayır | Hayır | Yes | Hayır |
 | Laos | Yes | Yes | Yes | Hayır |

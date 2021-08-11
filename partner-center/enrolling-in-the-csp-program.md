@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2d265dfb2db76b89f589cc4b9cd1edfd5105c52e
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: b093266070cdd370b556258cb21ffde1231909133b63118c92edc5a93dfb8e29
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114845780"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115695127"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>Bulut Çözümü Sağlayıcısı programına kaydolma
 
@@ -124,8 +124,8 @@ Dolaylı bir Sağlayıcıysanız, doğrudan faturanız veya dolaylı satıcısı
 - Vietnam 
 
 
-Daha fazla bilgi için Kayıt [Kimliği numarası bilgilerini okuyun](reg-number-id.md)
+Daha fazla bilgi için [kayıt kimliği numarası bilgilerini](reg-number-id.md) okuyun
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-[CSP programı Microsoft İş Ortağı Sözleşmesi (MPA) hakkında bilgi edinmek için](microsoft-partner-agreement.md)
+[CSP program iş ortakları için Microsoft Iş ortağı Sözleşmesi (MPA) hakkında bilgi edinin](microsoft-partner-agreement.md)

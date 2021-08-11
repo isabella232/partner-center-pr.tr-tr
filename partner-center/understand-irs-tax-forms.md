@@ -8,12 +8,12 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-payouts
 ms.localizationpriority: medium
 ms.date: 09/30/2020
-ms.openlocfilehash: cc32ed034f14603c92086d03dd9d43ee7c79b66e
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 2c693fb9f4d134f3cc7e4deee0afb5aaf8affc01e20b6d407d93bcddd5f3f67a
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114845882"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115695892"
 ---
 # <a name="understand-irs-tax-forms-issued-by-microsoft"></a>Microsoft tarafından verilen IRS vergi formlarını anlama
 

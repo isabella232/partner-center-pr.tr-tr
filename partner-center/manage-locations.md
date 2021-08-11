@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 66ca3a24a810f61eae9feece5e64440fa531cda5
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: a62c91902f3c82eee9dcc55a340da30433f946cab2da5c07eca9a76d82498cab
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114836991"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115695296"
 ---
 # <a name="manage-your-mpn-account-locations-and-add-delete-a-location"></a>MPN hesap konumlarınızı yönetme ve konum ekleme (silme)
 

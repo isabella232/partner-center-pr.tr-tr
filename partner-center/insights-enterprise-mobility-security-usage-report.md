@@ -1,83 +1,83 @@
 ---
-title: iş ortağı merkezi Analizler Enterprise Mobility + Security kullanım raporu
+title: İş Ortağı Merkezi Analizler Enterprise Mobility + Security raporu
 ms.topic: article
 ms.date: 01/11/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-insights
-description: müşterilerinizin sattığı ve yönettiğiniz Enterprise Mobility + Security aboneliklerin kullanımı ile ilgili olarak neler yapabileceğinizi görün.
+description: İyi bir şekilde neler yaptığına ve müşterileriniz için satıp Enterprise Mobility + Security aboneliklerin kullanımıyla ilgili olarak geliştirebilirsiniz.
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: b78167823a26b16bfa51a7a948afeda027b9898e
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: fdf0da981b121f918370c18bace8a4443f4c4f5050d0c47a214ed353cde54b2e
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114837109"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115686240"
 ---
-# <a name="enterprise-mobility--security-usage-report-available-from-the-partner-center-insights-dashboard"></a>Enterprise Mobility + Security kullanım raporu, iş ortağı merkezi Analizler panosundan kullanılabilir
+# <a name="enterprise-mobility--security-usage-report-available-from-the-partner-center-insights-dashboard"></a>Enterprise Mobility + Security panosundan kullanılabilen İş Ortağı Merkezi Analizler raporu
 
-**Uygun roller**: genel yönetici | Yönetici Aracısı | Rapor Görüntüleyici | Executive rapor Görüntüleyicisi
+**Uygun roller:** Genel yönetici | Yönetici aracısı | Rapor görüntüleyici | Yönetici raporu görüntüleyicisi
 
-Enterprise Mobility + Security kullanım raporu, müşterileriniz için satılan veya yönettiğiniz Enterprise Mobility + Security abonelikleri için kullanım verileri sağlar. Enterprise Mobility + Security kullanım raporundan aşağıdaki bölümleri görüntüleyebilirsiniz.
+Enterprise Mobility + Security raporu, müşterileriniz için sattığınız veya Enterprise Mobility + Security abonelikler için kullanım verileri sağlar. Aşağıdaki bölümleri Enterprise Mobility + Security görüntüebilirsiniz.
 
 - Özet
-- coğrafya tarafından Enterprise Mobility + Security kullanımı
-- SKU tarafından Enterprise Mobility + Security kullanımı
+- Enterprise Mobility + Security göre kullanımı kullanma
+- Enterprise Mobility + Security SKU'ya göre kullanım
 - Abonelik performansı
-- kullanım dağıtımı Enterprise Mobility + Security
+- Enterprise Mobility + Security dağıtımı
 
  > [!NOTE]
- > bu rapor Analizler panosundan kullanılabilir. Bu raporu görüntülemek için Iş Ortağı Merkezi 'nde genel yönetici, hesap yöneticisi, rapor Görüntüleyicisi veya Executive rapor Görüntüleyicisi gibi belirli bir rol atanması gerekir. Daha fazla bilgi için şirketinizin genel Yöneticisi ' ne bakın. Bu rapordaki belirli veri türleri yalnızca, Executive rapor Görüntüleyicisi ayrıcalıklarına sahip kullanıcılar tarafından kullanılabilir.
+ > Bu rapor, Analizler kullanılabilir. Bu raporu görüntülemek için genel yönetici, hesap İş Ortağı Merkezi, Rapor görüntüleyicisi veya Yönetici rapor görüntüleyicisi gibi belirli bir rol atanmış olması gerekir. Daha fazla bilgi için bkz. şirketin Genel yöneticisi. Bu rapora özgü veri türleri yalnızca Yönetici rapor görüntüleyici ayrıcalıklarına sahip kullanıcılar tarafından da kullanılabilir.
 
 ## <a name="summary"></a>Özet
 
-özet bölümü, müşterileriniz için satmış olduğunuz veya yönettiğiniz Enterprise Mobility + Security kullanım abonelikleriyle ilgili temel göstergelerin bir anlık görünümünü sunar. 
+Özet bölümünde, müşterileriniz için sattığınız veya yönetttığınız Enterprise Mobility + Security aboneliklerle ilgili ana göstergelerin anlık görüntüsü yer almaktadır. 
 
-- Yeni Abonelikler: seçili zaman dilimi boyunca satılan veya yönetilen toplam abonelik sayısı.
+- Yeni abonelikler: Seçilen zaman çerçevesinde satılan veya yönetilen toplam abonelik sayısı.
 
-   Mikro grafik, seçtiğiniz tarih aralığı için yeni aboneliğin aylık bir eğilimini gösterir.
+   Mikro grafik, seçtiğiniz tarih aralığı için aylık yeni abonelik eğilimini gösterir.
 
-- Kullanılabilir lisanslar: seçili zaman dilimi boyunca satılan toplam lisans sayısı.
+- Kullanılabilir lisanslar: Seçilen zaman çerçevesinde satılan toplam lisans sayısı.
 
-   Mikro grafik, seçtiğiniz tarih aralığınızdan kullanılabilir koltuk sayısı için aylık bir ay eğilimi gösterir.
+   Mikro grafik, seçtiğiniz tarih aralığındaki kullanılabilir yer sayısına göre aylık bir eğilim gösterir.
 
-- Aylık etkin kullanım: önceki ay boyunca kullanılan lisansların sayısı.
+- Aylık Etkin Kullanım: Önceki ay boyunca kullanılan lisans sayısı.
 
-   Mikro grafik, seçilen zaman dilimi boyunca kullanılan lisansların aylık eğilimini gösterir.
+   Mikro grafik, seçilen zaman dönemi boyunca kullanılan aylık lisans eğilimini gösterir.
 
-:::image type="content" source="images/insights/ems-usage-summary.png" alt-text="EMS Kullanım Özeti.":::
+:::image type="content" source="images/insights/ems-usage-summary.png" alt-text="EMS kullanım özeti.":::
 
-## <a name="enterprise-mobility--security-usage-by-geography"></a>coğrafya tarafından Enterprise Mobility + Security kullanımı
+## <a name="enterprise-mobility--security-usage-by-geography"></a>Enterprise Mobility + Security göre kullanımı kullanma
 
-**coğrafya tarafından Enterprise Mobility + Security kullanımı** , aylık etkin kullanıcıların (mau) ve ücretli kullanılabilir birimlerin (pau) müşteri ülkesine dağılımını gösterir. MAU, önceki ay boyunca kullanılan lisansların sayısına başvurur ve PAU seçili zaman diliminde satılan veya yönetilen ücretli bilgisayar sayısını ifade eder. Haritadaki daha açık renkler daha düşük değerleri temsil ederken, daha koyu renkler daha yüksek değerleri temsil eder. Kılavuzdaki bir ülkeyi arayabilir ve seçebilirsiniz. Daha yakından bir görünüm için de yakınlaştırma yapabilirsiniz.
+Coğrafyaya **Enterprise Mobility + Security** kullanım verileri, müşteri ülkesi tarafından Aylık Etkin Kullanıcıların (MAU) ve Ücretli Kullanılabilir Birimlerin (PAU) dağılımını gösterir. MAU, önceki ay kullanılan lisans sayısını, PAU ise seçilen zaman çerçevesi içinde satılan veya yönetilen ücretli lisans sayısını ifade eder. Harita üzerinde daha açık renkler düşük değerleri, koyu renkler ise daha yüksek değerleri temsil eder. Kılavuzda bir ülke arayabilir ve bu ülkeyi seçin. Daha yakından bakmak için de yakınlaştırın.
 
-**Ülke/bölge tablosu sayısı** , Azure kullanım olaylarının oluşturulduğu toplam ülkeleri/bölgeleri gösterir.
+**Ülke/bölge sayısı tablosu,** Azure kullanım olaylarının oluşturularak toplam ülke/bölge sayısını gösterir.
 
-Haritada konum yakınlaştırmak için kılavuzda bir ülke arayabilir ve seçebilirsiniz. Özgün görünüme dönmek için haritada **giriş** seçeneğini belirleyin.
+Haritanın konumunu yakınlaştırmak için kılavuzda bir ülke arayabilir ve bu ülkeyi seçin. Özgün **görünüme** dönmek için haritada Giriş seçeneğini belirleyin.
 
-:::image type="content" source="images/insights/ems-usage-geography.png" alt-text="Coğrafya tarafından kullanılan EMS kullanımı.":::
+:::image type="content" source="images/insights/ems-usage-geography.png" alt-text="Coğrafyaya göre EMS kullanımı.":::
 
-## <a name="enterprise-mobility--security-usage-by-sku"></a>SKU tarafından Enterprise Mobility + Security kullanımı
+## <a name="enterprise-mobility--security-usage-by-sku"></a>Enterprise Mobility + Security SKU'ya göre kullanım
 
-sku tarafından Enterprise Mobility + Security kullanımı, sku 'lara göre mau ve pau 'ların aylık dökümünü gösterir.
+SKU Enterprise Mobility + Security kullanımı, SKU'lara göre MAU ve PAU'nun aylık dökümünü gösterir.
 
-:::image type="content" source="images/insights/ems-usage-sku.png" alt-text="SKU tarafından EMS kullanımı.":::
+:::image type="content" source="images/insights/ems-usage-sku.png" alt-text="SKU'ya göre EMS kullanımı.":::
 
 ## <a name="subscriptions-performance"></a>Abonelik performansı
 
-Abonelik performansı, MAU ve PAU 'ların müşteri aboneliği başına SKU 'Ları tarafından dökümünü gösterir. Faturalandırılan ilk 100 müşterinin verileri, tabloda gösterilir ve tüm müşterilerin ayrıntılarını görüntülemek için herhangi bir müşteriyi arayabilir veya ham verileri indirebilirsiniz.
+Abonelik performansı, müşteri aboneliği başına SKU'lara göre MAU ve PAU dökümünü içerir. Faturalı gelire göre ilk 100 müşteriye ilişkin veriler tabloda gösterilir ve herhangi bir müşteriyi arayabilir veya tüm müşterilerin ayrıntılarını görüntülemek için ham verileri indirebilirsiniz.
 
-:::image type="content" source="images/insights/ems-usage-subscription.png" alt-text="EMS abonelik performansı.":::
+:::image type="content" source="images/insights/ems-usage-subscription.png" alt-text="EMS aboneliği performansı.":::
 
-## <a name="enterprise-mobility--security-usage-distribution"></a>kullanım dağıtımı Enterprise Mobility + Security
+## <a name="enterprise-mobility--security-usage-distribution"></a>Enterprise Mobility + Security dağıtımı
 
-Enterprise Mobility + Security kullanım dağıtımı, sku 'lara göre pau ve aboneliklerinin dökümünü gösterir.
+Bu Enterprise Mobility + Security dağıtımında SKU'lara göre PAU ve Abonelikler dökümünü gösterir.
 
 :::image type="content" source="images/insights/ems-usage-distribution.png" alt-text="EMS kullanım dağıtımı.":::
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-- daha fazla rapor için bkz. [iş ortağı merkezi Analizler](partner-center-insights.md).
+- Daha fazla rapor için [bkz. İş Ortağı Merkezi Analizler.](partner-center-insights.md)
 
-- ham verileri, Analizler panosundaki raporları indir bölümünden bu raporu güçden indirebilirsiniz. [Daha Fazla Bilgi](insights-download-reports.md) 
+- Bu raporu güçlü bir şekilde kullanarak ham verileri panonun Raporları İndir bölümünden Analizler indirebilirsiniz. [Daha Fazla Bilgi](insights-download-reports.md) 

@@ -8,12 +8,12 @@ ms.subservice: partnercenter-benefits
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: b7fe4ae33160a4f6b8da816d2e18d8695c656de4
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: d3b53d1fefa677b0624c39beb0437156a70302cebf60dacbdea862327022a497
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114839745"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115694634"
 ---
 # <a name="request-a-refund-for-an-mpn-benefit"></a>MPN avantajı için para iadesi isteği
 

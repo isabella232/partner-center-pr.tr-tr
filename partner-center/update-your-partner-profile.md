@@ -9,12 +9,12 @@ ms.topic: how-to
 ms.date: 04/12/2021
 ms.localizationpriority: medium
 ms.custom: contperf-fy21q4
-ms.openlocfilehash: 478bcba56e1763cc8a69b98bede0dc63c7a1cdad
-ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
+ms.openlocfilehash: 81f91b3968fed757d1ce32d479a68e295c515e86829f15aa00832890ec16672c
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/04/2021
-ms.locfileid: "115102035"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115695926"
 ---
 # <a name="verify-or-update-your-company-profile-information"></a>Şirket profili bilgilerini doğrulama veya güncelleştirme 
 

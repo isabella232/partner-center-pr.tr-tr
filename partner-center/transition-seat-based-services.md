@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 810c01c16bd6a2f9c6fa863289e1b788a057b627
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: a3aba021aa1126ff18c9709dac68856e3f6de1822cfb908db3234a0a96a1f24c
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114842430"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115686865"
 ---
 # <a name="move-license-based-customers-from-other-channels--partners-to-the-cloud-solution-provider-csp-program"></a>Lisans tabanlı müşterileri iş ortaklarının & (CSP) programına Bulut Çözümü Sağlayıcısı kanallardan taşıma
 
@@ -32,7 +32,7 @@ Müşteriniz birden çok iş ortağını işe almak, aboneliklerini başka bir i
 
 
    >[!NOTE]
-   >Müşteri, Microsoft 365 (M365) yönetici portalında (örneğin, Microsoft'tan aylık veya yıllık faturalama yoluyla) satın aldı ise kredi için uygun olabilir. Doğrudan Microsoft'tan satın alınan abonelikler için **krediler, M365 faturalama desteği tarafından ele alınarak yapılır.** M365 aboneliğinizi iptal etme hakkında [M365 kılavuzuna bakın.](/microsoft-365/commerce/subscriptions/cancel-your-subscription) Müşteri için yönetim ayrıcalıkları temsilciniz varsa, müşteriniz adına M65 desteğine başvurabilir. Yoksa lütfen müşteriden M365 desteğine doğrudan başvurarak ne kadar krediye uygun olduğunu ve bu kredinin nasıl verildiğini bulmalarını sorun. Yönetici ayrıcalıkları [temsilcisiyle ilgili bilgileri okuyun.](customers-revoke-admin-privileges.md)
+   >Müşteri, Microsoft 365 (M365) yönetici portalı üzerinden (örneğin, Microsoft'tan aylık veya yıllık faturalama yoluyla) satın aldı ise kredi için uygun olabilir. Doğrudan Microsoft'tan satın alınan abonelikler için krediler **M365 faturalama desteği tarafından ele alınarak yapılır.** M365 aboneliğinizi iptal etme hakkında [M365 kılavuzuna bakın.](/microsoft-365/commerce/subscriptions/cancel-your-subscription) Müşteri için yönetim ayrıcalıkları temsilciniz varsa, müşteriniz adına M65 desteğine başvurabilir. Yoksa lütfen müşteriden M365 desteğine doğrudan başvurarak ne kadar krediye uygun olduğunu ve bu kredinin nasıl verildiğini bulmalarını sorun. Yönetici ayrıcalıkları [temsilcisiyle ilgili bilgileri okuyun.](customers-revoke-admin-privileges.md)
 
 
 4. Daha sonra müşteri, kesintisiz olarak sağmış olduğunuz aboneliklerle devam eder.
@@ -42,7 +42,7 @@ Müşterinizin sunduğu tekliflerin aynısını sağlarsanız lisansları yenide
 Kullanımdan kaldırılmış tekliflere sahip müşterileri aktarırsanız veri kaybını önlemek için eşdeğer bir teklif bulmanız gerekir. Müşteriyi farklı bir teklife taşırsanız lisans atamasını güncelleştirmeniz gerekir.
 
 >[!NOTE]
-> CSP iş ortağı olarak, bu müşteriyi size geçiş için müşteri kiracısı ile aynı bölgede yer alasiniz.
+> CSP iş ortağı olarak, bu müşteriyi size geçiş yapmak için müşteri kiracısı ile aynı bölgede yer alasiniz.
 
 ## <a name="next-steps"></a>Sonraki adımlar
 

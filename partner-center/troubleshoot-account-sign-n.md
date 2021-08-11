@@ -1,71 +1,71 @@
 ---
-title: Iş Ortağı Merkezi hesabınızı veya MPN yenileme sorunlarını ayarlamayla ilgili sorunları giderin
+title: İş Ortağı Merkezi veya MPN yenileme sorunlarınızı giderme
 ms.topic: how-to
 ms.date: 08/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-account
-description: Iş Ortağı Merkezi 'ne kaydolmaya çalışırken sorun giderin. Ödeme yöntemleriyle ilgili adres sorunlarını yanıtlar, parolaları öğrenme ve daha fazlasını yapın.
+description: İş Ortağı Merkezi'a kaydolmaya çalışırken ortaya İş Ortağı Merkezi. Ödeme yöntemleriyle ilgili zorlukları, parolaları unutmayı ve daha fazlasını yanıtlar.
 author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 08672379e300eccf18a0a1f0cfc1e41b4b7dbc91
-ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
+ms.openlocfilehash: b84a46f20cb81a54ddf8ae13ed7156ffcf613c06a075dd597e9586e89608bc78
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/04/2021
-ms.locfileid: "115102000"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115696045"
 ---
 # <a name="troubleshoot-account-setup-or-mpn-renewal-issues"></a>Hesap kurulumu veya MPN yenileme sorunlarını giderme
 
-**Uygun roller**: genel yönetici | MPN iş ortağı Yöneticisi
+**Uygun roller:** Genel yönetici | MPN iş ortağı yöneticisi
  
-Iş Ortağı Merkezi hesabınızı ayarlarken ortaya çıkan yaygın sorunları gidermeye yönelik bazı öneriler aşağıda verilmiştir.
+Burada, İş Ortağı Merkezi hesabınız ayarlarken ortaya çıkan yaygın sorunları gidermeye yönelik İş Ortağı Merkezi vardır.
 
-## <a name="what-happens-if-you-are-migrating-from-partner-membership-center-and-you-cant-edit-any-company-information-fields"></a>Iş ortağı üyelik merkezinden geçiş yapıyorsanız ve herhangi bir şirket bilgisi alanını düzenleyemezsiniz ne olur?
+## <a name="what-happens-if-you-are-migrating-from-partner-membership-center-and-you-cant-edit-any-company-information-fields"></a>Şirket dışından Partner Membership Center şirket bilgileri alanlarını düzenleyemeyebilirsiniz
 
-şirketinizin zaten iş ortağı merkezi 'nde (örneğin, bir Bulut Çözümü Sağlayıcısı (CSP) bir hesabı) sahip olduğu durumlarda, salt okunurdur bir ekran gösterilir. Bu ekranda, Iş Ortağı Merkezi 'nde olduğu gibi şirketiniz hakkındaki tüm bilgiler görüntülenir.
+Şirket içinde zaten bir İş Ortağı Merkezi (Bulut Çözümü Sağlayıcısı (CSP) hesabı) olduğu durumlarda, salt okunur bir ekran gösterilir. Bu ekranda, şirketle ilgili tüm bilgiler şirket içinde mevcut İş Ortağı Merkezi.
 
-Bu ekrandaki ayrıntıları değiştiremezsiniz. Bu, tasarım ve bir hata değildir.
+Bu ekranda ayrıntıları değiştiremezsiniz. Bu bir hata değil, tasarıma göredir.
 
-Devam etmek için **kabul et**' i ve sonra **devam**' ı seçin.
-
-
-### <a name="if-the-it-department-has-turned-off-sign-up-for-partner-center"></a>BT departmanı **Iş Ortağı Merkezi 'Ne kaydolma** işlemi kapalıysa
-
-bu iletiyi, viral kullanıcıları devre dışı bırakıldığı veya Azure Active Directory (AD) kiracısında viral kaydolma devre dışı bırakıldığı için görürsünüz. Azure AD hesabınız için genel yönetici, aşağıdaki PowerShell komutunu çalıştırarak gerekli özellikleri etkinleştirebilir:
-
-**Set-MsolCompanySettings-AllowEmailVerifiedUsers $true-Allowadhocabonelikleri $true**
-
-Daha fazla bilgi için [self servis kaydolun](/azure/active-directory/users-groups-roles/directory-self-service-signup)makalesini okuyun.
-
-## <a name="you-forgot-your-password"></a>Parolanızı unuttum
-
-Parolanızı unuttuysanız, oturum açma sayfasında **hesabınıza erişemiyor musunuz?** seçeneğini belirleyin. Bu seçenek, parolanızı sıfırlamanızı veya genel yöneticinizden size yeni kimlik bilgileri atamasını ister.
-
-## <a name="on-the-tell-us-about-your-company-screen-you-receive-a-something-went-wrong-error"></a>"Şirketiniz hakkında bize söyleyin" ekranında, "bir sorun oluştu" hatası alıyorsunuz
-
-Bu hata iletisi genellikle şirket telefon numaranız için yanlışlıkla özel karakter, boşluk veya ülke kodu kullanıyorsanız görüntülenir. Telefon Number alanına girilen değer yalnızca en fazla 10 karakter içerebilir.
+Devam etmek için Kabul **Et'i** ve ardından Devam'ı **seçin.**
 
 
-### <a name="your-credit-card-purchase-is-receiving-an-error-message-stating-that-your-order-was-declined-please-verify-your-information"></a>Kredi kartı satın alma işlemi, "Siparişiniz reddedildi" iletisini bildiren bir hata mesajı alıyor. Lütfen bilgilerinizi doğrulayın "
+### <a name="if-the-it-department-has-turned-off-sign-up-for-partner-center"></a>IT departmanı Kayıt için **kaydolmayı İş Ortağı Merkezi**
+
+Bu iletiyi, virüslü kullanıcılar devre dışı bırakıldıklarında veya Virüslü Kayıt Azure Active Directory (AD) kiracıda devre dışı bırakılmıştır. Azure AD hesabınıza yönelik Genel yönetici, aşağıdaki PowerShell komutunu çalıştırarak gerekli özellikleri etkinleştirebilirsiniz:
+
+**Set-MsolCompanySettings -AllowEmailVerifiedUsers $true -AllowAdHocSubscriptions $true**
+
+Daha fazla bilgi için [self servis kaydolma makalelerini okuyun.](/azure/active-directory/users-groups-roles/directory-self-service-signup)
+
+## <a name="you-forgot-your-password"></a>Parolanızı unuttunız
+
+Parolanızı unuttuysanız oturum açma sayfasında Hesabınıza erişe **miyim? öğesini seçin.** Bu seçenek parolanızı sıfırlamanıza veya Genel yöneticinizden size yeni kimlik bilgileri atamasını istemenize olanak sağlar.
+
+## <a name="on-the-tell-us-about-your-company-screen-you-receive-a-something-went-wrong-error"></a>"Bize şirketinizi söyleyin" ekranında "Bir sorun oluştu" hatası alırsınız
+
+Bu hata iletisi genellikle şirket telefon numaranıza yanlışlıkla özel karakterler, boşluklar veya ülke kodu kullanıyorsanız gösterir. Sayı alanına Telefon değer en fazla 10 karakter içerebilir.
 
 
-Her zaman yasal varlığınızdan değil kredi kartınıza karşılık gelen adresi kullanın. Ayrıca, ZIP kodunun doğru olduğundan ve kullandığınız adrese karşılık geldiğinden emin olun.
+### <a name="your-credit-card-purchase-is-receiving-an-error-message-stating-that-your-order-was-declined-please-verify-your-information"></a>Kredi kartı satın alma sırasında "Siparişiniz reddedildi. Lütfen bilginizi doğrulayın"
 
-## <a name="you-want-to-switch-from-offline-payment-to-online-payment-method"></a>Çevrimdışı ödeme 'den çevrimiçi ödeme yöntemine geçmek istiyorsunuz 
 
-Tercih edilen ödeme yöntemini kullanarak orijinal siparişi ve işlem yeniden Al işlemlerini iptal etmeniz gerekir.
+Yasal varlığınız yerine her zaman kredi kartınıza karşılık gelen adresi kullanın. Ayrıca, posta kodunun doğru olduğundan ve kullanmakta olduğunuz adrese karşılık gelen bir adres olduğundan emin olun.
 
-Bir siparişi iptal etmek için:
+## <a name="you-want-to-switch-from-offline-payment-to-online-payment-method"></a>Çevrimdışı ödemeden çevrimiçi ödeme yöntemine geçmek istiyorsanız 
 
-1. Iş Ortağı Merkezi panosunda **Üyelik teklifleri** sekmesini seçin.
+Özgün siparişi iptal etmeniz ve tercih edilen ödeme yöntemini kullanarak yeniden satın alasanız gerekir.
 
-2. **Siparişi Iptal et** ' i seçin
+Siparişi iptal etmek için:
 
-3. Bir onay penceresi görünür ve ilk siparişi iptal etmek için onaylamanız gerekir.
+1. Yeni İş Ortağı Merkezi Üyelik Teklifleri **sekmesini** seçin.
+
+2. Siparişi **iptal et'i seçin**
+
+3. Bir onay penceresi görüntülenir ve ilk siparişi iptal etmek için onaylamanız gerekir.
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
 - [İş Ortağı Merkezi hesabınızı yönetme](partner-center-account-setup.md)
-- [Faturanızı ve keşfi dosyanızı okuma](read-your-bill.md)
+- [Faturanızı ve mutabakat dosyanızı okuma](read-your-bill.md)

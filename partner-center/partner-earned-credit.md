@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 05/26/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-pricing
-description: İş ortağı tarafından kazanılmış kredinin (PEC) basitleştirilmiş tekdüz Azure fiyatlandırması ve katma değerli yönetilen hizmetler sunarken marjlarda rekabeti ortadan kaldırmaya nasıl yardımcı olduğunu öğrenin.
+description: İş ortağı tarafından kazanılan kredinin (PEC) basitleştirilmiş tekdüz Azure fiyatlandırması ve katma değerli yönetilen hizmetler sunarken marjlarda rekabeti ortadan kaldırmaya nasıl yardımcı olduğunu öğrenin.
 author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f41fa2ccaf99f4ca46e283a4abb0975fb5195eef
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: fdb6941fe0931000cb74ddc10801c3d05d1e041cdf20b37c44e4e94f487008a8
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114841343"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115687052"
 ---
 # <a name="partner-earned-credit---an-overview-of-how-it-works-in-the-new-commerce-experience-in-csp"></a>İş ortağı tarafından kazanılan kredi - CSP'de yeni ticaret deneyiminde nasıl çalıştığını genel bakış
 
@@ -43,7 +43,7 @@ Bu hizmetler, bir iş ortağının hem müşterinin Azure ortamı hakkında çok
 
 Müşteriler bulut bilişim platformlarına geçiş yaptıklarında yalnızca yeni bir teknoloji kümesi değil aynı zamanda dijital emlaklarının yönetimine ve işlemlerine yaklaşmanın da yeni bir yolunu yönetmekle karşı karşıyadır. Bulut daha fazla iş değeri ve çeviklik getirse de, düzgün güvenlik ve maliyet denetimi olmaması da dahil olmak üzere yeni endişeler de getirebilir. 
 
-Müşterileriniz, Azure'da barındırılan işletmelerinden en iyi şekilde elde etmeye yardımcı olmak için size bakar. Yönetilen hizmetlerle müşterilerinize düzenli olarak beyaz eldiven hizmeti sabilirsiniz. Sağlay olabileceğiniz günlük işlemlerden ve desteklerden bazıları şunları içerir:
+Müşterileriniz, Azure'da barındırılan işletmelerinden en iyi şekilde elde etmeye yardımcı olmak için size bakar. Yönetilen hizmetlerle, müşterilerinize düzenli olarak beyaz eldiven hizmeti sabilirsiniz. Sağlay olabileceğiniz günlük işlemlerden ve desteklerden bazıları şunları içerir:
 
 - **Bulut operasyonları ve yönetim hizmetleri:** Müşteriler, günümüzde sahip olduğu yalıtım, güvenlik ilkeleri ve denetim modellerini yeniden sağlarken Azure maliyetlerini azaltmak için Microsoft iş ortaklarına bakar. İş ortaklarının iş yükü uygunluk durumunu, tek kullanımlık dağıtımı ve Azure'ın sürekli operasyonel maliyetlerini belirlemeye yönelik olgun araçlara erişmesini de beklerler. Ayrıca, müşterilerin otomasyon ve düzenleme, güncelleştirmelere düzeltme eki uygulama, yapılandırma yönetimi, yedekleme ve olağanüstü durum kurtarma ve kimlik yönetimi için de dede ihtiyacı vardır. 
 

@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 162de08f0114d24cc72d21387ca004e7901c15a2
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: f773910c3bf32979158401c78753a3c4478a6908d5085c446c168b6382fdf044
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114844739"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115694209"
 ---
 # <a name="sell-software-subscriptions-through-the-cloud-solution-provider-csp-program"></a>Bulut Çözümü Sağlayıcısı (CSP) programı aracılığıyla yazılım abonelikleri satma
 
@@ -85,7 +85,7 @@ Bir müşteri adına yazılım abonelikleri satın almak için:
 
 ## <a name="activate-and-manage-software-subscriptions"></a>Yazılım aboneliklerini etkinleştirme ve yönetme
 
-Yazılımınızı satın aldıktan sonra siz veya müşterileriniz indirmeniz gerekir (İş Ortağı Merkezi kullanan iş ortakları; Microsoft 365 Yönetici Merkezi kullanan müşteriler). Bunu yapmak için aşağıdaki yordamı kullanın. Bağlantı kopyalama ve yazılım indirme ile ilgili riskleri anlamak önemlidir. Daha fazla bilgi için, İş Ortağı Merkezi Ticaret **İşlemleri** Kılavuzu'nda müşteri yazılımı indirmelerini ve lisans anahtarlarını [İş Ortağı Merkezi kullanma.](https://partner.microsoft.com/resources/detail/partner-center-new-commerce-operations-guide-pdf)
+Yazılımınızı satın aldıktan sonra, siz veya müşterileriniz indirmeniz gerekir (İş Ortağı Merkezi kullanan iş ortakları; Microsoft 365 Yönetici Merkezi kullanan müşteriler). Bunu yapmak için aşağıdaki yordamı kullanın. Bağlantı kopyalama ve yazılım indirme ile ilgili riskleri anlamak önemlidir. Daha fazla bilgi için, İş Ortağı Merkezi Ticaret **İşlemleri** Kılavuzu'nda müşteri yazılımı indirmelerini ve lisans anahtarlarını [İş Ortağı Merkezi kullanma.](https://partner.microsoft.com/resources/detail/partner-center-new-commerce-operations-guide-pdf)
 
 >[!NOTE]
 >Anahtarların ve indirmelerin bağlantısını İş Ortağı Merkezi için yönetici aracınız olması gerekir.
@@ -114,7 +114,7 @@ Müşterileriniz CSP sunucusu abonelik lisans anahtarlarını ve indirmelerini M
 Denetim veya uyumluluk amacıyla, Sunucu aboneliği yazılım anahtarlarına erişen veya Sunucu aboneliği yazılımını indiren kullanıcıların listesini denetlemeniz gerekir. Bu bilgilere erişmek için aşağıdaki yordamı kullanın. 
 
 >[!NOTE]
->Bu etkinlik günlüklerini görmek Genel yönetici yöneticisi, Referans yöneticisi veya Pazarlama içeriği yöneticisi olmak gerekir. 
+>Bu etkinlik günlüklerini Genel yönetici yönetici, Hesap yöneticisi, Referans yöneticisi veya Pazarlama içeriği yöneticisi olmak gerekir. 
 
 1. İş Ortağı Merkezi [oturum açın.](https://partner.microsoft.com/dashboard)
 
@@ -129,7 +129,7 @@ Denetim veya uyumluluk amacıyla, Sunucu aboneliği yazılım anahtarlarına eri
 Yazılım satın alma tarihini takip etmek için 30 gün içinde satın alma işlemini iptal edebilirsiniz. Bu ilk 30 günlük süre içinde iptal edersiniz, erken sonlandırma ücreti ödemezsiniz. 30 gün sonra artık satın alma işlemini iptal etmenize gerek yoktur. (Bu iptal kuralına yönelik önemli kısıtlamalar için bkz. Not. Yazılım satın alma işlemini iptal etmenizden sonra ne olduğu hakkında bilgi edinmek için bu adımlardan sonra önemli nota da bakın.) 
 
 >[!NOTE]
->Satın alma işlemini iptal etmek için aşağıdaki adımlar yalnızca belirli bir iptal penceresi içinde iptal için uygun olan yazılımlar için geçerlidir( örneğin, satın alma sonrasındaki ilk 30 gün içinde). Bu adımlar Azure'daki bir SUSE Linux veya RedHat yazılım planı için de geçerli değildir. Şu anda, bir SUSE veya RedHat yazılım planını iptal veya değiştirme işlemi olamaz. SUSE Linux [veya](/azure/virtual-machines/linux/prepay-suse-software-charges) RedHat planlarını kullanma hakkında daha fazla bilgi.
+>Satın alma işlemini iptal etmek için aşağıdaki adımlar yalnızca belirli bir iptal penceresi içinde iptal için uygun olan yazılımlar için geçerlidir( örneğin, satın alma sonrasındaki ilk 30 gün içinde). Bu adımlar, Azure'daki bir SUSE Linux veya RedHat yazılım planı için de geçerli değildir. Şu anda, bir SUSE veya RedHat yazılım planını iptal veya değiştirme işlemi olamaz. SUSE Linux [veya](/azure/virtual-machines/linux/prepay-suse-software-charges) RedHat planlarını kullanma hakkında daha fazla bilgi.
 
 Satın alma işlemini iptal etmek için aşağıdaki adımları izleyin:
 
@@ -156,7 +156,7 @@ Satın alma işlemini iptal etmek için aşağıdaki adımları izleyin:
 
 8. Satın alma **işleminizi** iptal etmek için Gönder'i seçin. Bir müşteri için birden çok siparişi iptal etmek için her biri benzersiz sipariş kimliği numarası olan 4- 6. adımları tekrar gerçekleştirmeniz gerekir.
 
-Bir siparişi iptal etmek için İş Ortağı Merkezi da (Sipariş numarası açılan listesinin altında görünen) başka bilgiler de verilmiştir. Bu bilgiler şunları içerebilir:
+Siparişi iptal etmek için İş Ortağı Merkezi da (Sipariş numarası açılan listesinin altında görünen) başka bilgiler de verilmiştir. Bu bilgiler şunları içerebilir:
 
 - Bu siparişi iptal etmeniz için kaç gün kaldı?
 
@@ -171,37 +171,37 @@ Bir siparişi iptal etmek için İş Ortağı Merkezi da (Sipariş numarası aç
 
 Satın alma işlemini iptal etmenizden sonra:
 
-- tüm ilgili yazılım anahtarları ve indirme bağlantıları iptal edilir. Bu iptal, siz ve müşterinizin bu satın alma işlemiyle ilgili yazılım anahtarlarını ve indirme bağlantılarını artık kullana anlamına gelir. İptal edilen tüm yazılımların kullanımını sona erdirme sorumluluğu size ve müşterinize verildi. Ayrıca iptal edilen yazılımları kaldırmak ve ilgili yazılım indirmelerini ve bağlantılarını kaldırmak sizin sorumluluğundadır.
+- tüm ilgili yazılım anahtarları ve indirme bağlantıları iptal edilir. Bu iptal, siz ve müşterinizin bu satın alma işlemiyle ilgili yazılım anahtarlarını ve indirme bağlantılarını artık kullana anlamına gelir. İptal edilen tüm yazılımların kullanımdan kaldırılamandan siz ve müşteriniz sorumludur. Ayrıca iptal edilen yazılımı kaldırmak ve ilgili yazılım indirmelerini ve bağlantılarını kaldırmak sizin sorumluluğundadır.
 
-- İptal edilen öğe müşterinin yazılım ayrıntıları sayfasında görünmeye devam eder, ancak etkinleştirme anahtarı kullanılamaz.
+- İptal edilen öğe müşterinin Yazılım ayrıntıları sayfasında görünmeye devam eder ancak etkinleştirme anahtarı kullanılamaz.
 
-- İptal edilen siparişin bir kredisi, bir sonraki aylık faturanızda görünür. Kalıcı yazılım %100 kredi alır ve yazılım abonelikleri eşit olarak dağıtılmış bir kredi alır.
+- sonraki aylık faturanıza iptal edilen sipariş için bir kredi görüntülenir. Kalıcı yazılım %100 kredi alır ve yazılım abonelikleri, prokratılmış kredi alır.
 
-### <a name="submit-a-customer-support-request-to-cancel-a-purchase"></a>Satın alma işlemini iptal etmek için bir müşteri destek isteği gönderme
+### <a name="submit-a-customer-support-request-to-cancel-a-purchase"></a>Satın alma işlemini iptal etmek için müşteri desteği isteği gönderme
 
-Iş Ortağı Merkezi aracılığıyla bir yazılım satın alma işlemini iptal etmeyi denediniz, ancak daha fazla bilgi ve müşteri desteği istek formunu doldurmaya söylediyse, bu adımlar size yardımcı olabilir:
+İş Ortağı Merkezi aracılığıyla yazılım satın alma işlemini iptal etmeye çalıştınız ama daha fazla bilgi sağlamanız ve bir müşteri destek isteği formunu doldurmanız söylense, şu adımlar size yardımcı olabilir:
 
-1. Satın alma Işlemini Iptal Et penceresinden **müşteri destek talebi** bağlantısını seçtiğinizde, **iş ortağı merkezi Ile ilgili sorun bildir** sayfasında açılır.
+1. Satın alma işlemini **iptal et penceresinden** müşteri desteği isteği bağlantısını seçerek Sorun bildir **İş Ortağı Merkezi** açılır.
 
-2. **Ayrıntılar** altında, sorun türü listesinde, **müşteriler adına CSP satın al/para iadesi**' ni seçin.
+2. Ayrıntılar **altında,** Sorun türü listesinde, müşteriler adına **CSP Satın Alma/Para İadesi'ne tıklayın.**
 
-3. Etki ve başlık alanlarını girin.
+3. Etki ve Başlık alanlarını doldurun.
 
-4. Açıklama alanında, aşağıdaki bilgileri sağlayın:
+4. Açıklama alanında aşağıdaki bilgileri girin:
 
-    - Müşteri kiracı GUID veya etki alanı adı
-    - Sipariş KIMLIĞI veya abonelik KIMLIĞI
+    - Müşteri kiracı GUID'si veya etki alanı adı
+    - Sipariş Kimliği veya Abonelik Kimliği
     - Para iadesi nedeni
-    - İstenen miktar
+    - İstenen tutar
 
-5. Kişi alanına adınızı, e-posta adresinizi ve telefon numaranızı girin.
+5. Kişi alanına adınız, e-posta adresinizi ve telefon numaranızı girin.
 
-6. Herhangi bir nedenle bir dosya iliştirmeye ihtiyacınız varsa dosya **Ekle**' yi seçin. Bu adım isteğe bağlıdır.
+6. Herhangi bir nedenle dosya eklemeniz gerekirse Dosya **ekle'yi seçin.** Bu adım isteğe bağlıdır.
 
-7. İşiniz bittiğinde **Gönder**' i seçin.
+7. Bitirdikten sonra Gönder'i **seçin.**
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-- [Iş Ortağı Merkezi ile sıralama ve karşılama Kılavuzu](https://partner.microsoft.com/resources/detail/guide-to-ordering-and-fulfillment-through-partner-center-pdf)
-- [Iş Ortağı Merkezi 'ni kullanarak ticari Market ürünlerine müşteri abonelikleri satma](sell-marketplace-products.md)
-- [Iş Ortağı Merkezi 'nde müşterilere Azure abonelikleri atama](assign-azure-subscriptions.md)
+- [İş Ortağı Merkezi aracılığıyla sipariş ve karşılama kılavuzu](https://partner.microsoft.com/resources/detail/guide-to-ordering-and-fulfillment-through-partner-center-pdf)
+- [Müşterilere İş Ortağı Merkezi ticari market ürünlerine satış yapmak için abonelikleri kullanma](sell-marketplace-products.md)
+- [Azure aboneliklerini müşterilere İş Ortağı Merkezi](assign-azure-subscriptions.md)

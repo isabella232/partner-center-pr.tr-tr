@@ -2,70 +2,70 @@
 title: Bölgesel vergiler ve vergi muafiyetleri
 ms.topic: article
 ms.date: 03/05/2021
-description: CSP programı iş ortakları için bölge başına vergi sorumlulukları, CSP satışları için vergi muafiyetleri gönderme ve vergi soruları için destek elde etmeyi öğrenin.
+description: CSP Program ortakları için, bölge başına vergi sorumlulukları, CSP satışları için vergi muafiyetlerini gönderme ve vergi sorularına yönelik destek alma hakkında bilgi edinin.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-billing
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: be90285d3bb531125f552cdce8e3dbfda39301fe
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 5b4352be4f51ba02aed5f7c4d1f94eedca5d26990c69e220728d47c58f640856
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114841122"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115695756"
 ---
-# <a name="read-about-taxes-and-tax-exemption-details-by-region-or-country-for-partners-in-the-csp-program"></a>CSP programında iş ortakları için bölgeye veya ülkeye göre vergiler ve vergi muafiyeti ayrıntıları hakkında bilgi edinebilirsiniz
+# <a name="read-about-taxes-and-tax-exemption-details-by-region-or-country-for-partners-in-the-csp-program"></a>CSP programındaki iş ortakları için bölge veya ülkeye göre vergiler ve vergi muafiyet ayrıntıları hakkında bilgi edinin
 
-**Uygun roller:** Genel yönetici
+**Uygun roller**: genel yönetici
 
-Bulut Çözümü Sağlayıcısı (CSP) programı, ürünlerin iş ortağı tarafından yeniden satışına odaklanan bir satış kanalıdır. Sonuç olarak, Microsoft'un her zaman iş ortağı faturalarında satış vergisini ödemesi gerekmez. Kurallar ülkeye ve/veya bölgeye göre değişiklik gösterir. Vergi muafiyetleri [için ülkeye özgü ve bölgeye özgü ayrıntıları gözden geçirebilirsiniz.](#country-and-region-tax-details)
+Bulut Çözümü Sağlayıcısı (CSP) programı, ürünlerin iş ortağı ile odaklanmış bir satış kanalının bir satıdır. Sonuç olarak, Microsoft, her zaman iş ortağı faturalarındaki satış vergisini ücretlendirmenize gerek yoktur. Kurallar ülkeye ve/veya bölgeye göre farklılık gösterir. [Vergi muafiyetleri için ülkeye özgü ve bölgeye özgü ayrıntıları](#country-and-region-tax-details)gözden geçirebilirsiniz.
 
-Konumunuz ve müşteri [konumlarınızı temel alarak](#file-a-tax-exemption) vergi muafiyetleri dosyası için vergi danışmanıyla birlikte çalışma.
+Vergi [muafiyetlerini](#file-a-tax-exemption) konumunuza ve müşterilerinizin konumlarına göre dosya olarak vermek için vergi danışmanınıza çalışın.
 
 ## <a name="country-and-region-tax-details"></a>Ülke ve bölge vergi ayrıntıları
 
-Vergiyle ilgili belirli bilgiler Kanada ve Birleşik Devletler. Tayvan ve Kore için vergi [makbuzları ayrıntılarına bakın.](#tax-receipts-and-daf)
+Vergi ile ilgili belirli bilgiler Kanada ve Birleşik Devletler için kullanılabilir. Tayvan ve Kore için bkz. [vergi alındıları ayrıntıları](#tax-receipts-and-daf).
 
-Vergileri ücretlandıran başka bir ülkede veya bölgedeysiniz, diğer [bölgelere ilişkin bilgilere bakın.](#other-regions)
+Vergileri ücretlendirdiği başka bir ülke veya bölgedeyse [diğer bölgelere yönelik bilgilere](#other-regions)bakın.
 
 
 ### <a name="canada"></a>Kanada
 
-Çoğu kurumsal bayi, mal ve hizmet vergisi (GST)/uyumlaştırılmış satış vergisi (HST)/Quebec satış vergisi (QST) dışında tutulmmaktadır. Muafiyet için uygun olup olmadığınızı ve Microsoft'a hangi belgeleri sağlamanız gerektiğini belirlemek için vergi danışmanınıza başvurun.
+Satıcıların çoğu, mal ve hizmet vergi (GST)/uyumlanmış satış vergisi (HST)/Quebec satış vergisinden (QST) muaf değildir. Muafiyet için uygun olup olmadığınızı ve Microsoft 'a sağlamanız gereken belgeleri belirlemek için vergi danışmanınıza başvurun.
 
-BC satış vergisi (PST) Muafiyeti için açıklandığı gibi bir vergi muafiyeti kaydedin. BC PST# veya tamamlanmış ve imzalanmış bir Muafiyet *Genel Sertifikası sağlama.*
+Bir BC eyaletinin satış vergisi (PST) muafiyeti için, açıklandığı şekilde bir vergi muafiyeti dosyası yapın. BC PST # veya tamamlanmış ve imzalı bir *Muafiyet sertifikasını genel olarak* sağlayın.
 
 ### <a name="united-states"></a>Birleşik Devletler
 
-Hizmet kapsamındaki tüm Birleşik Devletler Microsoft Kurumsal Bayi Sözleşmesi'nin kabul 30 gün içinde satış vergi muafiyeti belgelerini sağlamaları beklenir. Her durumda yeniden sertifika için farklı muafiyet sertifikaları vardır. Yasal adresinizle ve kayıtlı eyaletlerle ilgili nelerin uygun olduğunu belirlemek için vergi danışmanınız ile birlikte çalışabilirsiniz.
+Birleşik Devletler tüm satıcıların, Microsoft satıcı sözleşmesinin kabul edilmesi için 30 gün içinde satış vergisi muafiyeti belgelerinin sağlanması beklenmektedir. Her durumun, el satımak için farklı muafiyet sertifikaları vardır. Yasal adresiniz ve kayıtlı durumlarınızla ilgili neleri belirlemek için vergi danışmanınızla birlikte çalışın.
 
-Bu, Satışları Kolaylaştırma ve Muafiyet Vergi Sözleşmesi Sertifikasını Kullanma  veya MTC Tekdü Satışları ve Vergi Muafiyeti Sertifikası Kullanma gibi birden çok durumda & muafiyet sertifikalarını *içerebilir.* 
+Bu, *satışa yönelik satış* ve *kullanım vergisi sözleşmesi Sertifikası* ya da *MTC Tekdüzen satış & kullanım vergisi muafiyet sertifikası* gibi birden çok durum genelinde çalışan yeniden Satım muafiyet sertifikalarını içerebilir.
 
 ### <a name="other-regions"></a>Diğer bölgeler
 
-Vergileri ücretlandıran başka bir ülkede veya bölgedeysiniz, sorularınız [için İş Ortağı Merkezi](#support) destek isteğinde bulunin.
+Vergileri ücretlendirdiği başka bir ülkede veya bölgede, sorularınız için [Iş Ortağı Merkezi 'nde destek isteyin](#support) .
 
 ## <a name="tax-receipts-and-daf"></a>Vergi makbuzları ve DAF
 
-Vergi makbuzları (Tayvan veya Kore için) veya DAF için genellikle fatura oluşturmadan sonraki iki hafta dönüş süresi gerekir.
+Vergi alındıları (Tayvan veya Kore için) veya Baf genellikle fatura oluşturulduktan sonra iki haftalık iki haftada bir kez çapraz bir süre gerektirir.
 
-## <a name="file-a-tax-exemption"></a>Vergi muafiyeti kaydedin
+## <a name="file-a-tax-exemption"></a>Vergi muafiyeti dosyası
 
-Vergi muafiyeti doldurmadan önce aşağıdaki noktaları anlamadan emin olun:
+Bir vergi muafiyeti dosyalayarak, aşağıdaki noktaları anladığınızdan emin olun:
 
-- Her CSP kiracısı için bir vergi muafiyeti dosyalamanız gerekir.
+- Her CSP kiracısı için bir vergi muafiyeti dosyası oluşturmanız gerekir.
 
-- Vergi numarası veya Federal İşveren Kimlik Numarası (FEIN) göndermeniz gerekir. Bu numara genellikle vergi sertifikanız üzerinde görünür.
+- Vergi KIMLIK numaranızı veya federal Işveren kimlik numaranızı (FEIN) göndermeniz gerekir. Bu numara genellikle vergi sertifikanıza göre görünür.
 
-- Ülkenize, bölgenize veya eyalete bağlı olarak, satış vergi muafiyetinin yerel Vergi Geliri Departmanına (veya benzer bir departmana) özgü yasal yönergeleri vardır ve uygun şekilde yönetilleri gerekir. Birçok konumda yıllık olarak yenilenen vergi sertifikaları vardır ancak bazı konumlar iki veya daha fazla yılda yenilenebilirsiniz. Sertifikanızı kontrol ederek veya yerel vergi yetkilinize başvurarak bunu ve diğer bilgileri doğrulamanız gerekir.
+- Ülkeniz, bölgeniz veya durumunuza bağlı olarak, satış vergi muafiyeti, vergi gelirinin (veya benzer departmanın) yerel departmanına özgü yasal yönergelere sahiptir ve buna uygun şekilde yönetilmesi gerekir. Birçok konumda yıllık olarak yenilenen paket vergi sertifikaları olsa da, bazı konumlar iki veya daha fazla yılda yenilenebilir. Sertifikanızı denetleyerek veya yerel vergi yetkilinizle iletişim kurarak bu ve diğer bilgileri doğrulamanız gerekir.
 
-Vergi muafiyetini dosyalamaya hazırsanız ilgili bilgileri [](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?stage=2&topicid=92930319-ced6-c18b-d7a6-d62b22d60aa5) Microsoft Desteği bileti açın.
+Vergi muafiyet bilgilerinizi dosyaya hazırlıyoruz, [Microsoft desteği](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?stage=2&topicid=92930319-ced6-c18b-d7a6-d62b22d60aa5) bir bilet açın ve uygun bilgileri sağlayın.
 
 ## <a name="support"></a>Destek
 
-Vergi muafiyetleri ve para iadeleri veya vergiyle ilgili diğer sorular hakkında sorular için, İş Ortağı Merkezi. Microsoft'un size ulaşarak sorunu çözmesi için lütfen iki hafta izin ver.
+Vergi muafiyeti ve para iadesi veya vergi ile ilgili diğer sorular hakkında sorular için Iş Ortağı Merkezi 'nde destek isteyin. Lütfen Microsoft 'un sizinle iletişim kurabilmesi ve sorunu çözmesi için iki haftaya izin verin.
 
 ## <a name="next-steps"></a>Sonraki adımlar
 

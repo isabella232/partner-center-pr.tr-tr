@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8a5f1264dfdb4059d63db6cbf361e6c2f34d8bd2
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 484b6c3adb66d1bbb3358568f32412b43b8aa77d6b8c8887b4c874c2812d233d
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114836634"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115695960"
 ---
 # <a name="manage-unallocated-payments-on-your-partner-center-billing-page"></a>İş Ortağı Merkezi Faturalama sayfasındaki İş Ortağı Merkezi yönetme
 

@@ -8,12 +8,12 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.date: 07/14/2021
-ms.openlocfilehash: 9f82907d24a1693097d8c9cfc42094be067639b1
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: b7778a72f6f314a8150932246034e217ef7789f6cc3cab64211609dd14be046c
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114840017"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115694175"
 ---
 # <a name="list-of-system-queries-for-partner-insights-programmatic-access"></a>İş ortağı öngörüleri programlama erişimi için sistem sorgularının listesi
 

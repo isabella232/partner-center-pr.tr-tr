@@ -1,25 +1,25 @@
 ---
-title: Rapor sorguları API'si - Analizler al
+title: rapor sorguları al API-Analizler verileri
 ms.topic: reference
 ms.date: 07/14/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-insights
-description: Rapor API'sinde kullanmak üzere tüm kullanılabilir sorguları almak için bu API'yi kullanın.
+description: Rapor API 'sinde kullanılmak üzere tüm kullanılabilir sorguları almak için bu API 'yi kullanın.
 author: kshitishsahoo
 ms.author: ksahoo
 ms.localizationpriority: medium
-ms.openlocfilehash: 5f65784ce93350c92e0ffe38849ce505f045e0b0
-ms.sourcegitcommit: ad1af627f5ee6b6e3a70655f90927e932cf4c985
+ms.openlocfilehash: 943eea26a08f1072b6ddcaf8136b7f9f757d52b8c0170f03519b8787c1877bd3
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/29/2021
-ms.locfileid: "114843774"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115695195"
 ---
-# <a name="get-report-queries-api"></a>Rapor sorgularını al API'si
+# <a name="get-report-queries-api"></a>Rapor sorguları al API 'SI
 
-Rapor sorguları al API'si, raporlarda kullanılabilen tüm sorguları alır. Varsayılan olarak tüm sistem ve kullanıcı tanımlı sorguları alır.
+Rapor sorgularını al API 'SI, raporlarda kullanıma sunulan tüm sorguları alır. Tüm sistem ve Kullanıcı tanımlı sorguları varsayılan olarak alır.
 
-**İstek söz dizimi**
+**İstek sözdizimi**
 
 |    Yöntem    |    İstek URI'si    |
 |    ----    |    ----    |
@@ -30,7 +30,7 @@ Rapor sorguları al API'si, raporlarda kullanılabilen tüm sorguları alır. Va
 
 |    Üst bilgi    |    Tür    |    Description    |
 |    ----    |    ----    |    ----    |
-|    Yetkilendirme    |    string    |    Gereklidir. Formda Azure Active Directory (AAD) erişim belirteci`Bearer <token>`    |
+|    Yetkilendirme    |    string    |    Gereklidir. formdaki Azure Active Directory (AAD) erişim belirteci`Bearer <token>`    |
 |    İçerik Türü    |    string    |    `Application/JSON`    |
 |        |        |        |
 
@@ -42,10 +42,10 @@ Hiçbiri
 
 |    Parametre Adı    |    Tür    |    Gerekli    |    Açıklama    |
 |    ----    |    ----    |    ----    |    ----    |
-|    Queryıd     |    dize     |    No    |    Yalnızca bağımsız değişkende verilen kimlikle sorguların ayrıntılarını almak için filtrele     |
-|    queryName     |    dize     |    No    |    Yalnızca bağımsız değişkende verilen adla sorguların ayrıntılarını almak için filtrele     |
-|    IncludeSystemQueries     |    boolean     |    No    |    Yanıta önceden tanımlanmış sistem sorgularını dahil etmek     |
-|    IncludeOnlySystemQueries     |    boolean     |    No    |    Yanıta yalnızca sistem sorgularını dahil etmek     |
+|    QueryId     |    dize     |    No    |    Yalnızca bağımsız değişkende verilen KIMLIĞE sahip sorguların ayrıntılarını almak için filtrele     |
+|    queryName     |    dize     |    No    |    Yalnızca bağımsız değişkende verilen ada sahip sorguların ayrıntılarını almak için filtrele     |
+|    Includesystemqueries     |    boolean     |    No    |    Yanıta önceden tanımlanmış sistem sorgularını dahil et     |
+|    Includeonlysystemqueries     |    boolean     |    No    |    Yanıta yalnızca sistem sorgularını dahil et     |
 |        |        |        |        |
 
 
@@ -59,7 +59,7 @@ Hiçbiri
 
 **Response**
 
-Yanıt yükü aşağıdaki gibi yapılandırılmıştır:
+Yanıt yükü aşağıdaki şekilde yapılandırılır:
 
 Yanıt kodu: 200, 400, 401, 403, 404, 500
 
@@ -86,18 +86,18 @@ Yanıt yükü örneği:
 
 **Sözlük**
 
-Bu tablo yanıtta önemli öğeleri tanımlar:
+Bu tablo, yanıttaki anahtar öğeleri tanımlar:
 
 |    Parametre    |    Açıklama    |
 |    ----    |    ----    |
-|    Queryıd     |    Sorgunun benzersiz UUID'i     |
+|    QueryId     |    Sorgunun benzersiz UUID 'SI     |
 |    Name     |    Sorgu oluşturma sırasında sorguya verilen ad     |
 |    Description     |    Sorgunun oluşturulması sırasında verilen açıklama     |
 |    Sorgu     |    Rapor sorgu dizesi     |
-|    Tür     |    Önceden tanımlanmış sistem sorguları için kullanıcı tarafından oluşturulan sorgular ve sistem için userDefined olarak ayarlayın     |
-|    Kullanıcı     |    Sorguyu oluşturan kullanıcı kimliği     |
+|    Tür     |    Önceden tanımlı sistem sorguları için Kullanıcı tarafından oluşturulan sorgular ve sistem için userDefined olarak ayarla     |
+|    Kullanıcı     |    Sorguyu oluşturan kullanıcı KIMLIĞI     |
 |    CreatedTime     |    Sorgu oluşturma zamanı     |
-|    TotalCount     |    Değer dizisinde veri kümesi sayısı     |
-|    İleti     |    API'nin yürütülmesinden gelen durum iletisi     |
-|    Statuscode     |    Sonuç Kodu. Olası değerler: 200, 400, 401, 403, 500     |
+|    TotalCount     |    Değer dizisindeki veri kümesi sayısı     |
+|    İleti     |    API 'nin yürütülmesindeki durum iletisi     |
+|    Durum     |    Sonuç kodu. Olası değerler 200, 400, 401, 403, 500     |
 |        |        |

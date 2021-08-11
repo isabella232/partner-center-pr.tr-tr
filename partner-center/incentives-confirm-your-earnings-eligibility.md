@@ -8,12 +8,12 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 0d9b83f2e834400e498ad7b419daf7c8bfbde305
-ms.sourcegitcommit: 7063fdddee77ad2d8e627ab3c806f76d173ab652
+ms.openlocfilehash: 0d2885d8439c5b909a1a0fb18f7040b4a89702e9ceaaad1bd3104ef270bf65ea
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 05/19/2021
-ms.locfileid: "110146825"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115686542"
 ---
 # <a name="confirm-your-incentives-earnings-eligibility"></a>Teşvikleri kazanç uygunluğunu onaylayın
 

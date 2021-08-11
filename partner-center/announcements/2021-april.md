@@ -11,12 +11,12 @@ ms.custom:
 - references_regions
 ms.localizationpriority: high
 ms.date: 04/29/2021
-ms.openlocfilehash: 0756a67092cad6fc7750931a5a5f85f61ea7b56b
-ms.sourcegitcommit: 90bf27df911b428b1222f483c32ba6367870e7c5
+ms.openlocfilehash: e5f2b8f3c4041f3c533abd9512b68879222b330c7301a4227aeb04188f9fe068
+ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/04/2021
-ms.locfileid: "115102499"
+ms.lasthandoff: 08/06/2021
+ms.locfileid: "115688190"
 ---
 # <a name="april-2021-announcements"></a>Nisan 2021 duyuruları
 
@@ -163,7 +163,7 @@ CSP ve Açık Lisans iş ortakları
 
 ### <a name="details"></a>Ayrıntılar
 
-2020'de [Microsoft,](https://blogs.partner.microsoft.com/mpn/general-availability-of-perpetual-software-licenses-in-the-cloud-solution-provider-program/) kalıcı yazılım lisanslarının Bulut Çözümü Sağlayıcısı (CSP) programı aracılığıyla iş ortaklarının ve müşterilerin kullanımına açık olacağını duyurdu. İlk kilometre taşı, ticari kalıcı yazılım teklifleri kullanılabilir hale geldiğinde Ocak 2021'de ulaşıldı. Bir sonraki önemli kilometre taşı, kamu sektörü [](https://aka.ms/openlicensepublicsector) tekliflerini kullanılabilir hale geldiğinde Temmuz 2021'de gerçekleşecektir. Ayrıca, [](https://blogs.partner.microsoft.com/mpn/expanding-opportunities-for-partners-in-the-cloud-solution-provider-program/) 1 Ocak 2022'den itibaren geçerli olan açık lisans programı aracılığıyla yeni yazılım lisansı satın Yazılım Güvencesi veya çevrimiçi hizmetler yenilemelerinin yapılamayacak olduğunu da ilettik.
+2020'de [Microsoft,](https://blogs.partner.microsoft.com/mpn/general-availability-of-perpetual-software-licenses-in-the-cloud-solution-provider-program/) kalıcı yazılım lisanslarının Bulut Çözümü Sağlayıcısı (CSP) programı aracılığıyla iş ortaklarının ve müşterilerin kullanımına açık olacağını duyurdu. İlk kilometre taşı, ticari kalıcı yazılım teklifleri kullanılabilir hale geldiğinde Ocak 2021'de ulaşıldı. Bir sonraki önemli kilometre taşı, kamu sektörü [](https://aka.ms/openlicensepublicsector) tekliflerini kullanılabilir hale geldiğinde Temmuz 2021'de gerçekleşecektir. Ayrıca 1 [Ocak](https://blogs.partner.microsoft.com/mpn/expanding-opportunities-for-partners-in-the-cloud-solution-provider-program/) 2022'den itibaren geçerli olacak şekilde, Açık Lisans programı aracılığıyla yeni yazılım lisansı satın Yazılım Güvencesi veya çevrimiçi hizmetler yenilemelerinin yapılamayacak olduğunu da ilettik.
 
 Kalıcı yazılımların yeni ticaret deneyiminde CSP programına geçişi, iş ortaklarının çeşitli çözümler ve yönetilen hizmetler sunmak için fırsatları genişletmesini sağlar. Bu, müşterilerin buluta geçişlerini de hızlandırır.  Hem iş ortaklarımız hem de müşterilerimiz için sorunsuz bir geçiş sağlamaya yardımcı olmak için bu dijital dönüşümü hızlandırmak için bu ayarlamaları ve malzemeleri yaptık:
 
@@ -252,7 +252,7 @@ Her ayın başında, operasyon hazırlığı [](https://partner.microsoft.com/re
 Bu bilgileri kuruluşlarınıza uygun kişilerle paylaşın ve "Bu sayfa yararlı oldu mu?" sayfasından kılavuzun ne kadar yararlı olduğunu bize haber ver düğmesini seçin.
 
 ________________
-## <a name="april-cloud-solution-provider-csp-community-update-and-reminders"></a><a name="5"></a>Nisan Bulut Çözümü Sağlayıcısı (CSP) topluluğu güncelleştirmeleri ve anımsatıcılar
+## <a name="april-cloud-solution-provider-csp-community-update-and-reminders"></a><a name="5"></a>Nisan Bulut Çözümü Sağlayıcısı (CSP) topluluk güncelleştirmeleri ve anımsatıcılar
 
 ### <a name="categories"></a>Kategoriler
 
@@ -299,7 +299,7 @@ Community Yaklaşan değişikliklerle&yardımcı olmak için Q&As çağrısı ya
 
 Topluluk kaynaklarını gözden geçirme ve soru-cevap Community için&.
 
-Soru-Cevap'ı Community en iyi şekilde&için isteğe bağlı topluluk içeriğini gözden geçirin ve aramadan 48 saat önceye kadar sorularınıza yanıt gönderin.
+Community Soru-Cevap'tan en iyi şekilde&emin olmak için isteğe bağlı topluluk içeriğini gözden geçirin ve aramadan 48 saat önceye kadar sorularınız gönderin.
 
 ### <a name="questions"></a>Sorularınız mı var?
 
@@ -476,16 +476,16 @@ Nisan 2021 ürün başlatma takvimi artık yayımlandı.
 
 ### <a name="impacted-audience"></a>Etkilenen hedef kitle
 
-tüm iş ortakları Bulut Çözümü Sağlayıcısı (CSP) programı üzerinden deneyimidir
+Bulut Çözümü Sağlayıcısı (CSP) programı aracılığıyla işlem yapılan tüm iş ortakları
 
 ### <a name="details"></a>Ayrıntılar
 
-Nisan 2021 [ürün başlatma takvimi](https://partner.microsoft.com/resources/collection/product-launch-calendar-collection#/) artık işlem hazırlık kaynağı galerisinde kullanılabilir. Yakında çıkacak ürünü görüntüleyin ve burada teklif edin.
+Nisan 2021 [ürün lansman takvimi](https://partner.microsoft.com/resources/collection/product-launch-calendar-collection#/) artık İşlemler için hazır olma kaynak galerisinde kullanılabilir. Yaklaşan ürün lansmanlarını ve tekliflerini burada görüntüle.
 
 ### <a name="next-steps"></a>Sonraki adımlar
 
-[Ürün başlatma takvimini](https://partner.microsoft.com/resources/collection/product-launch-calendar-collection#/)gözden geçirin ve bilgileri kuruluşunuzdaki uygun hissedarlarla paylaşabilirsiniz.  
+Ürün [lansman takvimini](https://partner.microsoft.com/resources/collection/product-launch-calendar-collection#/)gözden geçirin ve bilgileri kuruluşta uygun proje katılımcıları ile paylaşın.  
 
 ### <a name="questions"></a>Sorularınız mı var?
 
-bu teklifler hakkında daha fazla soru için ilgili Yammer topluluklarınızı kontrol edin.
+Bu teklifler hakkında daha fazla soru için ilgili topluluklarınızı Yammer kontrol edin.
