@@ -9,12 +9,12 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6ba743570ae1d4cb07d45e82a6f0a65c46d5458c5b9a9416deebb3a50292e844
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 3f761fa5727f90f33a36f5352ad2f037cbf8b393
+ms.sourcegitcommit: 815760499700bf2c947550524cbddd091622081f
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115685777"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "121914590"
 ---
 # <a name="how-the-partner-earned-credit-is-calculated-and-paid"></a>İş ortağı kazanılmış kredisinin hesaplanması ve ödenmesi
 
@@ -54,6 +54,8 @@ Uygunluk hakkında daha fazla bilgi için bkz. [iş ortağı kazanılmış kredi
 
 PEC, günlük olarak hesaplanır. Her bir abonelik için uygun şekilde erişim sahibi olduğunuz her gün için ücret ödemiştir. PEC ayrıntıları aylık faturanızda görünmese de, PEC kazancı faturada ayarlanan net ücretler satırına doğru şekilde bölünmüştür. [Günlük kullanım dosyasında](daily-rated-usage-recon-files.md) ve aylık fatura keşfi dosyasında daha fazla PEC ayrıntısı bulabilirsiniz.
 
+:::image type="content" source="images/advanced-specializations/recon-file.png" alt-text="Bir Iş Ortağı Merkezi, sütunları tanımlayan bir dosya mutabakatı." border="false":::
+
 Aşağıdaki tabloda, aylık fatura keşfi dosyasında bulunan PEC öğeleri açıklanmaktadır. Tüm değerler, AI, PricingCurrency sütununda gösterildiği gibi ABD doları cinsindendir.
 
 | Sütun  | Açıklama  |
@@ -69,6 +71,10 @@ PEC erişimini izlemek için:
 
 - [**Azure izleyici uyarıları**](azure-plan-manage.md) kalıcı ayrıcalıklı erişimdeki değişiklikleri izler.
 
+Günlük derecelendirildi kullanım dosyası:
+
+:::image type="content" source="images/advanced-specializations/partner-daily.png" alt-text="Iş ortağı merkezinin günlük olarak derecelendirilmesine yönelik geçerli birim fiyatını vurgulayan ekran görüntüsü." border="false":::
+
 ## <a name="partner-earned-credit-api"></a>İş ortağı kazanılmış kredi API 'SI
 
 PEC API 'SI, Azure API araç takımının bir parçası olarak kullanılabilir. PowerShell ve CLı API 'Leri hakkında bilgi için bkz. [Azure hesabını bir iş ortağı kimliğine bağlama](/azure/cost-management-billing/manage/link-partner-id).
@@ -83,6 +89,9 @@ Maliyet analizini kullanan Azure maliyet yönetimi (ACM), PEC 'in avantajını a
 2. **Maliyet yönetimi**' ni seçin.
 3. **Maliyet analizini** seçin.
 Maliyet analizi görünümü, satın alınan ve Microsoft 'a ödediğiniz fiyatlarla tüketilen tüm hizmetler için faturalandırma hesabınızın maliyetlerini görüntüler.
+
+:::image type="content" source="images/advanced-specializations/partner-cost.png" alt-text="Maliyet yönetimi maliyet analizi sayfasının ekran görüntüsü." border="false":::
+
 4. Özet Grafik açılan listesinde, Partnerearnedtappnda ' ı seçin. 
 
     Bu değer **true** ise, ilişkili maliyet, ortağın kazanılan kredisi avantajına sahiptir.

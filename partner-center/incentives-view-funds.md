@@ -1,19 +1,19 @@
 ---
 title: Kullanılabilir ortak işlem fonlarını görüntüleme
 ms.topic: article
-ms.date: 06/25/2021
+ms.date: 08/10/2021
 description: Kazanılmış, talep edilen ve kalan ortak çalışma kredlerinizi görüntüleme, sona erme tarihlerini görüntüleme ve tutarsız miktarları mutabık kılma hakkında bilgi edinin.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: bc4130ad2d17d22060423b105fa51999be0f35ca2fe2f6470725c3c8dc527724
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 3c629f7de5686a329f421251b251499c81e695e0ba4998e4b4d3a3b7d4cfe944
+ms.sourcegitcommit: dfed8309ec4ba4cbe5af05d0dcd30e4151ed17e6
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115687426"
+ms.lasthandoff: 08/12/2021
+ms.locfileid: "121469754"
 ---
 # <a name="view-available-earned-claimed-and-remaining-co-op-funds"></a>Kullanılabilir kazanılan, talep edilen ve kalan ortak işlem fonlarını görüntüleyin
 
@@ -25,11 +25,15 @@ ms.locfileid: "115687426"
 
 1. Azure AD hesabınızla (Şirket hesabı) [Iş Ortağı Merkezi panosunda](https://partner.microsoft.com/dashboard/) oturum açın ve özensiz rolünüzün uygun e-postasını yapın.
 
-2. **Ortak op yönetimi**' ni seçin ve ardından görmek istediğiniz kullanım süresini seçin. Bu işlem, seçili dönem için **ortak op kazanılan**, **ortak op** ve **kalan ortak op** tutarlarını görüntüler.
+2. Sol taraftaki Gezinti çubuğunda, **Programlar**' ı seçin ve ardından genişletilmiş program listesinden uygun özenk programını seçin.
 
-3. Seçilen dönemin sona erme tarihi, **kalan ortak op** ekranı altında görünür.  
+3. Program sayfasının en üstünde **talepleri görüntüle**' yi seçin.
 
-4. Seçili dönem için gönderilen tüm talepleri görüntülemek için sayfanın en altına gidin.
+4. **Ortak op tarafından istenen** kutucuğun üzerindeki açılan listede, görmek istediğiniz kullanım süresini seçin. Bu işlem, seçili dönem için **ortak op kazanılan**, **ortak op** ve **kalan ortak op** tutarlarını görüntüler.
+
+5. Seçilen dönemin sona erme tarihi, **kalan ortak op** ekranı altında görünür.  
+
+6. Seçili dönem için gönderilen tüm talepleri görüntülemek için sayfanın en altına gidin.
 
 Özette görüntülenen tutarlarda tutarsızlıklar olduğunu düşünüyorsanız, işlem raporunu önceki dönemden indirebilirsiniz. Bu rapor, seçili kullanım dönemi için kazanılan ortak işlem fonlarını belirlemenize yardımcı olur. İşlem raporlarını indirmek veya kalan ortak op tutarının doğru olduğundan emin olmak için gönderilen talepleri doğrulamak için bkz. [işlem geçmişi](./payout-statement.md#transaction-history).
 
