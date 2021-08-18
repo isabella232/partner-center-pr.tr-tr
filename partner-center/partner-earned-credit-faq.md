@@ -1,7 +1,7 @@
 ---
 title: İş ortağı tarafından kazanılan kredi hakkında SSS
 ms.topic: article
-ms.date: 08/11/2021
+ms.date: 08/13/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-pricing
 description: İş ortağı tarafından kazanılan kredi (PEC) ile ilgili sık sorulan soruların yanıtlarını bulun.
@@ -9,18 +9,18 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1732ae992ac24d9691d929606bcbaabd32ef4327
-ms.sourcegitcommit: 03713f713b38f8c7bc299dcb92b7264777d1339c
+ms.openlocfilehash: ae78b13ae17b223e1cb540bea50168d02bcb9a1c
+ms.sourcegitcommit: b2b04afce99412870b451878499e002e17e7b636
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "122019627"
+ms.lasthandoff: 08/16/2021
+ms.locfileid: "122226850"
 ---
 # <a name="frequently-asked-questions-for-partner-earned-credit"></a>İş ortağı tarafından kazanılan kredi için sık sorulan sorular
 
 Uygun roller: Genel yönetici | Kullanıcı yönetimi yönetici | Yönetici aracısı | Faturalama yöneticisi | Satış aracısı
 
-Aşağıda, iş ortağı tarafından kazanılmış krediyle ilgili sık sorulan soruların bir listesi ve ardından ve ardından gelir.
+Aşağıda, iş ortağı tarafından kazanılmış krediyle ilgili sık sorulan soruların bir listesi ve ardından gelir.
 
 ## <a name="how-much-is-pec"></a>PEC ne kadardır?
 
@@ -59,11 +59,13 @@ Evet, CSP Indirect Provider Azure aboneliği üzerinde Dolaylı Kurumsal Bayi'ye
 
 ## <a name="what-happens-if-a-customer-removes-a-partners-rbac-admin-access"></a>Müşteri iş ortağının RBAC yönetici erişimini kaldırırsa ne olur?
 
-CSP'de uygun RBAC erişimi olmayan bir iş ortağı, müşterinin Microsoft ile Azure faturalama ilişkisini ve sorumluluklarını korur. Bu, CSP'de önceki Azure teklifini satan bir iş ortağını etkilemese de, CSP'de yeni Azure teklifi için faturalanmış iş ortağı, Azure faturalarında PEC için uygun olmayacaktır. İş ortakları, RBAC kullanarak Dizin/Konuk erişimi aracılığıyla bir kullanıcı hesabı üzerinden veya sanal ağ üzerinden erişim elde etmek yoluyla CSP'de kısmi yönetici Azure Lighthouse. Daha fazla bilgi için [bkz. Müşterinin abonelikleri için yönetici ayrıcalıklarını Azure CSP.](revoke-reinstate-csp.md)
+CSP'de uygun RBAC erişimi olmayan bir iş ortağı, müşterinin Microsoft ile Azure faturalama ilişkisini ve sorumluluklarını korur. Bu, CSP'de önceki Azure teklifini satan bir iş ortağını etkilemese de, CSP'de yeni Azure teklifi için faturalanmış iş ortağı, Azure faturalarında PEC için uygun olmaz. İş ortakları, RBAC kullanarak Dizin/Konuk erişimi aracılığıyla bir kullanıcı hesabı üzerinden veya sanal ağ üzerinden erişim elde etmek yoluyla CSP'de kısmi yönetici erişimi Azure Lighthouse. Daha fazla bilgi için [bkz. Müşterinin abonelikleri için yönetici ayrıcalıklarını Azure CSP.](revoke-reinstate-csp.md)
+
+:::image type="content" source="images/advanced-specializations/permissions.png" alt-text="Yönetici izinlerini yeniden yönetebilirsiniz Erişim denetimi sayfasının ekran görüntüsü." border="false":::
 
 ## <a name="how-do-i-know-if-im-earning-pec"></a>Nasıl yaparım? PEC kazanarak mı kazançlı olduğunu biliyor musunuz?
 
-bir iş ortağının müşterinin Azure kaynaklarına uygun erişime sahip olduğunu onaylamanın birkaç yolu vardır.
+bir iş ortağının müşterinin Azure kaynaklarına uygun erişime sahip olduğunu onaylaması için çeşitli yollar vardır.
 
 - Günlük kullanım dosyasını gözden geçirme: Bir iş ortağı Yönetilen Hizmetler için İş Ortağı Tarafından Kazanılan Krediyi alıyorsa yönetici erişimine sahip olur. Bu, günlük kullanım dosyasındaki birim fiyatı ve geçerli birim fiyatı gözden geçirerek ve indirim uygulanıyorsa onay ile belirlenebilirsiniz.
 - Azure İzleyici Uyarısı oluşturma: RBAC [](/azure/azure-monitor/platform/alerts-activity-log) erişiminiz CSP aboneliklerinden kaldırıldığı Azure İzleyici bildirim almak için Azure İzleyici kullanarak etkinlik günlüğü uyarıları oluşturabilirsiniz. İş Ortağı Tarafından Kazanılan Krediyi Anlama kılavuzuna ve teknik belgelere bakın.
