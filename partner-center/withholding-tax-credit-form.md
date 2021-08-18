@@ -9,12 +9,12 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bce8917477809a47fe23b3b880a0392771e56225dbd5885a7428a910cb3d32e2
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 2d0c1e05ff0e0b9c807dfc7beb1136cec87b4069
+ms.sourcegitcommit: 8fe3b0f22d548bc6bcc1b87636216cd4d42b3ede
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115681067"
+ms.lasthandoff: 08/17/2021
+ms.locfileid: "122297156"
 ---
 # <a name="receive-credit-on-your-partner-center-account-for-tax-withholding"></a>Vergi stopajı için Iş Ortağı Merkezi hesabınızda kredi alın
 
@@ -27,7 +27,7 @@ bazı ülkelerde Bulut Çözümü Sağlayıcısı (CSP) iş ortakları, vergiler
 İş Ortağı Merkezi 'nde hizmet istekleri (Iş ortağı destek bileti) oluşturarak vergi stopajı istekleri göndermek için kullanılan iş ortakları. Bu işlem, Ocak 2020 ' de değiştirildi. Artık, CSP iş ortakları, destek Istekleri oluşturmak yerine **Faturalandırma sayfasında** vergi stopajı istekleri göndermelidir.
 
 > [!IMPORTANT]
-> İş ortakları, yalnızca **ücretli** faturalar için stopaj vergisi istekleri gönderebilir.
+> İş ortakları, yalnızca kısmen ödenen faturalar için stopaj vergisi istekleri gönderebilir. Tamamen ücretli veya olmayan faturalar için lütfen vergi stopajı sertifikanıza yönelik [desteğe](report-problems-with-partner-center.md) başvurun.
 
 ## <a name="submit-a-tax-withholding-request"></a>Vergi stopajı isteği gönder
 

@@ -1,128 +1,128 @@
 ---
-title: Iş Ortağı Merkezi 'nde MPN hesabı oluşturma
+title: İş Ortağı Merkezi'de MPN hesabı oluşturma
 ms.topic: article
 ms.date: 05/07/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-account
-description: Microsoft İş Ortağı Ağı üyelerin ağ avantajlarını ve uzmanlarını yönetmek için bir Iş Ortağı Merkezi hesabı nasıl oluşturabileceğinizi öğrenin.
-author: ParthP
-ms.author: ParthP
+description: Üyelerin Microsoft İş Ortağı Ağı avantajlarını ve yetkinliklerini yönetmek İş Ortağı Merkezi bir hesap oluşturma hakkında bilgi edinmek.
+author: parthpandyaMSFT
+ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e1dee489e28e9bc5866b75d767e222be15a4f0f3e90e136d3742c9b55d9994a1
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 550d5c3ab6361485ea545a4863323f2f7d8e85ef
+ms.sourcegitcommit: 8fe3b0f22d548bc6bcc1b87636216cd4d42b3ede
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115692254"
+ms.lasthandoff: 08/17/2021
+ms.locfileid: "122297241"
 ---
-# <a name="create-an-mpn-account-in-partner-center-to-manage-network-benefits-and-competencies"></a>Ağ avantajlarını ve Uzmanlıklar yönetmek için Iş Ortağı Merkezi 'nde bir MPN hesabı oluşturun
+# <a name="create-an-mpn-account-in-partner-center-to-manage-network-benefits-and-competencies"></a>Ağ avantajlarını ve yetkinliklerini yönetmek İş Ortağı Merkezi bir MPN hesabı oluşturma
 
-**Uygun roller**: MPN iş ortağı Yöneticisi
+**Uygun roller:** MPN iş ortağı yöneticisi
 
-Microsoft İş Ortağı Ağı (MPN) ile yeni başladıysanız ve MPN KIMLIĞI yoksa kayıt [yönergelerini](https://partner.microsoft.com/dashboard/account/v3/enrollment/introduction/partnership)izleyerek kaydınız başlatabilirsiniz.
+Kayıt (MPN) Microsoft İş Ortağı Ağı ve MPN kimliğiniz yoksa, kayıt yönergelerini izleyerek [kaydınızı başlat yapabilirsiniz.](https://partner.microsoft.com/dashboard/account/v3/enrollment/introduction/partnership)
 
 ## <a name="prerequisites"></a>Önkoşullar 
 
-Iş Ortağı Merkezi 'nde bir hesap oluşturmaya hazır olduğunuzda, aşağıdaki öğelerin elinizin altında olması gerekir.  Başlamadan önce bu öğelerin toplanması birkaç dakika geçmesi gerekebilir:
+Hesap oluşturmak için hazır İş Ortağı Merkezi aşağıdaki öğelere sahip olmak gerekir.  Başlamadan önce bu öğeleri toplamak için birkaç dakika sürebilir:
 
-- şirket iş e-postası veya Office 365 iş hesabı. Çalışanlarınız için iş e-posta adresleri ayarlamanıza olanak sağlamak için şirketiniz bir e-posta etki alanı satın almanız gerekebilir. Daha fazla bilgi için [şirketinizin iş hesabınızı ve Iş ortağı merkezini](azure-active-directory-tenants-and-partner-center.md)okuyun. 
+- Şirket iş e-postası VEYA Office 365 hesabı. Çalışanlarınız için iş e-posta adreslerini ayarlamak için, şirketinizin bir e-posta etki alanı satın almaları gerekir. Daha fazla bilgi [için, şirket iş hesabınız ve İş Ortağı Merkezi.](azure-active-directory-tenants-and-partner-center.md) 
  
-- Şirketinizin yasal iş adı ve adresi.
+- Şirketin yasal iş adı ve adresi.
 
-- Yasal sözleşmeleri imzalama yetkisi. Kayıt işlemi sırasında yapmanız istenecek şekilde, şirketinizin adına yasal sözleşmeleri imzalama yetkiniz olduğundan emin olun.
+- Yasal anlaşmaları imzalama yetkisi. Kayıt işlemi sırasında şirket adına yasal anlaşmaları imzalama yetkinizin olduğundan emin olun.
 
-- Birincil kişiniz olarak davranmak istediğiniz kişinin adı ve şirket e-postası. Şirketinizin güvenliğinin ve gizliliğinin sağlanmasına yardımcı olmak üzere, e-posta adresini doğrulamak ve e-posta adresinin şirketinize ait olduğundan emin olmak için birincil kişinizi e-posta ile göndereceğiz. Birincil iletişim e-posta adresini doğruladıktan sonra, belirtilen bilgileri gözden geçirmemiz için devam edeceğiz. Doğrulama genellikle 3-5 iş günü sürer. 
+- Birincil kişiniz olarak hareket etmek istediğiniz kişinin adı ve şirket e-postası. Şirket güvenliğini ve gizliliğini sağlamaya yardımcı olmak için, e-posta adresini doğrulamak ve e-posta adresinin şirkete ait olduğundan emin olmak için birincil ilgili kişinize e-posta ile gönderilir. Birincil ilgili kişi e-posta adresini doğruladikten sonra, sağlanan bilgileri gözden geçirmemize devam edeceğiz. Doğrulama genellikle 3-5 iş günü sürer. 
 
-- Doğrulama işlemi hakkında bilgi için bkz. [Hesap doğrulama](verification-responses.md).
+- Doğrulama işlemi hakkında bilgi için bkz. [Hesap doğrulaması.](verification-responses.md)
 
 > [!NOTE]
-> Iş ortağı üyeliği merkezinde (PMC) bir hesabınız varsa, bu, Iş Ortağı Merkezi 'ne geçirildi. [Iş ortağı üyeliği merkezi kullanımdan](partner-membership-center-retirement-faq.md)kaldırma hakkında daha fazla bilgi için tıklatın.
+> Partner Membership Center (PMC) hesabında bir hesabınız varsa, hesap İş Ortağı Merkezi. Son emeklilik hakkında daha [fazla bilgi Partner Membership Center tıklayın.](partner-membership-center-retirement-faq.md)
 
 ## <a name="get-started"></a>başlarken
 
-1. [**Başlarken**](https://partner.microsoft.com/dashboard/account/v3/enrollment/introduction/partnership) sayfasında şirketiniz tarafından size verilen iş e-postalarınızı (örneğin,) başlatın you@yourcompanyname.com .
+1. Kullanmaya başlayın [**sayfasında,**](https://partner.microsoft.com/dashboard/account/v3/enrollment/introduction/partnership) örneğin, şirket tarafından size verilen iş e-postanız ile çalışmaya you@yourcompanyname.com başlayabilirsiniz.
 
-    a.  Bu e-postaya devam etmek için bir doğrulama kodu gönderebilmemiz için e-posta adresinin geçerli ve erişilebilir olması gerekir.
+    a.  Devam etmek için bu e-postaya bir doğrulama kodu gönder üzerinden e-posta adresinin geçerli ve erişilebilir olması gerekir.
 
-    b.  E-posta adresi "bilgi", "Yönetici" gibi sözcükleri içermemelidir email@ . Veya " marketing@.. ."; Bu adres biçimleri desteklenmez.
+    b.  E-posta adresi "info", "admin," " ." gibi sözcükler email@ içermez. Veya " marketing@.. ."; bu adres biçimleri desteklenmiyor.
 
-    c.  HARITALAR satın almak veya Uzmanlıklar yönetmek için, [etki alanınızı doğrulayarak](become-global-admin.md) ve yönetici haline getirerek bu hesabı yükseltmeniz gerekir. 
+    c.  MAPS satın almak veya yetkinlikleri yönetmek için etki alanınızı doğrular ve yönetici olursanız [bu](become-global-admin.md) hesabı yükseltmeniz gerekir. 
 
-2. Office 365 iş hesabınızla oturum açabilirsiniz, örneğin, you@contoso.onmicrosoft.com .
+2. İş hesabınızla oturum Office 365, örneğin you@contoso.onmicrosoft.com .
 
    >[!NOTE]
-   > MPN 'ye kaydolmak için mevcut CSP hesabı kimlik bilgilerinizi kullanamazsınız.
+   > MPN'ye kaydolmak için mevcut CSP hesabı kimlik bilgilerinizi kullanasınız.
 
-3. Şirketinizin yasal iş ayrıntılarını sağlayın.
+3. Şirketin yasal iş ayrıntılarını sağlama.
 
-    Şirket Profilinizi arayabilir veya şirket bilgilerini el ile girebilirsiniz. Şirketiniz [Dun & Bradstreet](https://partner.microsoft.com/marketing/usisvshowcase/dunandbrad)ile kayıtlıysa, şirketinizin bilgilerini aramak için DLııD kimliğini kullanın. Şirket ayrıntılarınızı kendiniz sağlamak istiyorsanız, **el ile**' yi seçin.
+    Şirket profilinizi arama veya şirket bilgilerini el ile girebilirsiniz. Şirketiniz Dun & [Bradstreet'e](https://partner.microsoft.com/marketing/usisvshowcase/dunandbrad)kayıtlı ise, şirket bilgilerinizi aray için DUNS Kimliğini kullanın. Şirket ayrıntılarınızı kendiniz sağlamak için El ile'yi **seçin.**
 
-    Şirketiniz **Ermenistan**, **Macaristan**, **Kırgızistan**, **Moldova**, **Özbekistan** veya **Rusya**'da bulunuyorsa ve adresinizi el ile girerseniz adresinizi sizin için doğrulayacağız. Girdiğiniz bir tane doğrulandıktan farklıysa, doğrulanan adresi kullanmanızı öneririz. Bu, adresin öğelerinin, ülkenin posta yetkilisi tarafından tanımlanan, doğru şekilde biçimlendirilen ve sevkedilebilir şekilde standartlaştırılmış olmasını sağlar.  
+    Şirketiniz **Çin,** Kırgızlar **,** **Kırgızlar**, **Arjantin,** **Özbekistan** veya Rusya'da bulunuyorsa ve adresinizi el ile girersiniz, adresinizi sizin için doğrularız.  Girersiniz doğrulanmış olandan farklı ise, doğrulanmış adresi kullanmanızı öneririz. Bu, adresin öğelerinin, ülkenin posta yetkilisi tarafından tanımlanan, doğru biçimlendirilmiş ve gönderilebilir şekilde standart hale getirildiklerinden emin olur.  
 
-    Şirket bilgilerini girdikten sonra, birincil iletişim bilgilerini girin. Birincil iletişim, şirketinizde sizinle iletişim kurabildiğimiz kişi olmalıdır (Bu kişi sizin veya şirketinizdeki başka bir kişi olabilir).
+    Şirket bilgilerini sağladıktan sonra birincil iletişim bilgilerini girin. Birincil kişi, şirketinize uygulamanız hakkında iletişim kuracak kişi (bu kişi siz veya şirketinizin başka bir kişisi olabilir) olabilir.
 
-4. **Şimdi kaydet**' i seçin.
+4. Şimdi **kaydol'u seçin.**
 
     >[!IMPORTANT]
-    >Şirketinizin güvenliğinin ve gizliliğinin sağlanmasına yardımcı olmak üzere, e-posta adresini doğrulamak ve e-posta adresinin şirketinize ait olduğundan emin olmak için birincil kişinizi e-posta ile göndereceğiz. Birincil iletişim e-posta adresini doğruladıktan sonra, verdiğiniz bilgileri gözden geçirmemiz için devam edeceğiz. Doğrulama genellikle 3-5 iş günü sürer. 
+    >Şirket güvenliğini ve gizliliğini sağlamaya yardımcı olmak için, e-posta adresini doğrulamak ve e-posta adresinin şirkete ait olduğundan emin olmak için birincil ilgili kişinize e-posta ile gönderilir. Birincil ilgili kişi e-posta adresini doğruladikten sonra, sağladığınız bilgileri gözden geçirmemize devam edeceğiz. Doğrulama genellikle 3-5 iş günü sürer. 
 
-## <a name="registration-id-numbers-by-country"></a>Ülkeye göre kayıt KIMLIĞI numaraları
+## <a name="registration-id-numbers-by-country"></a>Ülkeye göre kayıt kimliği numaraları
 
-Dolaylı bir Sağlayıcıysanız, doğrudan faturanız veya dolaylı satıcısıysanız ve aşağıdaki ülkelerde yeni veya mevcut müşterilerle iş yapıyorsanız, işletmeniz için kayıt KIMLIĞI numaraları sağlamanız gerekir. İş yapmakta olduğunuz ülke aşağıda listelenmiyorsa kayıt KIMLIĞI isteğe bağlıdır.
+Dolaylı sağlayıcı, Doğrudan fatura ortağı veya Dolaylı kurumsal bayiysiniz ve aşağıdaki ülkelerdeki yeni veya mevcut müşterilerle iş yapıyorsanız işletmeniz için kayıt kimliği numaralarını sağlayabilirsiniz. İş yapmakta olduğunuz ülke aşağıda listelenmiyorsa kayıt kimliği isteğe bağlıdır.
 
-Aşağıdaki tabloda her ülke için toplanan kayıt numaralarının örnekleri verilmiştir. Birden çok kimliği listelenen durumlarda yalnızca bir tane gereklidir.
+Aşağıdaki tabloda her ülke için toplanan kayıt numaralarının örnekleri yer alır. Birden çok kimlik listelenmişse yalnızca bir kimlik gereklidir.
 
 | **Ülke veya bölge** | **Ayrıntılar** | 
 |:--|:--|
-| **Ermenistan** | INN – vergi kimlik numarası<br>KDV numarası: KDV kayıt numarası olarak da bilinir. Bu, KDV için kaydedilen bir vergilendirilebilir kişi (iş) veya vergilendirilebilir olmayan yasal tüzel kişiliyi tanımlayan benzersiz bir sayıdır.<br>Ortak hizmet numarası |
-| **Azerbaycan**  | [Tın](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Azerbaijan-TIN.pdf) – vergi kimlik numarası<br>INN – vergi kimlik numarası |
-| **Belarus**  | UNP: bölge tanımlayıcısı, bölge başına seri ve denetim hanesi içeren dokuz basamaklı bir sayıdır (kuruluşlar için sayısal, bireyler için alfasayısal). |
-|**Brezilya** | [CNPJ](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Brazil-TIN.pdf) – (Cadastro Nacional da peşinatlı Jurídica veya yasal varlıkların Ulusal kayıt defteri). Bu, Brezilya 'da ABD 'de federal gelir Bakanlığı tarafından verilen bir kimlik numarasıdır  |
-| **Çin** | [Tın](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/China-TIN.pdf) – vergi kimlik numarası |
-| **Macaristan**  | [Tın](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Hungary-TIN.pdf) – vergi kimlik numarası |
-| **Hindistan** | Vergi KIMLIĞI<br>[Kaydırma](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/India-TIN.pdf) – (Nation Ile ilgili VARLıK) Pan Hindistan katılımı, Hindistan 'daki çeşitli konumlarda çalışan bir kuruluş olduğu anlamına gelir. |
-| **Irak** | [Tın](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/) – vergi kimlik numarası |
-| **Kazakistan**  | BÖLME – banka kimlik numarası<br>IıN – verenin kimlik numarası |
-| **Kırgızistan**  | INN – vergi kimlik numarası |
-| **Moldova**  | IDNO: yasal varlığa atanan benzersiz eyalet kimlik numarası (olarak da bilinir. Mali kod).<br>IDNP – Doğum kişisel kodu ("Numarul de ıdencertificate") |
-| **Myanmar** | [Tın](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/) – vergi kimlik numarası | 
-| **Polonya**  | [Tın](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Poland-TIN.pdf) – vergi kimlik numarası<br>[Pesel](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Poland-TIN.pdf) : Polonya 'de kullanılan ulusal kimlik numarası (Lehçe Pımszechny Elektroniczny System Ewidencji Ludności, popülasyon kaydı Için evrensel elektronik sistem) |
-| **Rusya**  | [Inn](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Russia-TIN.pdf) – vergi kimlik numarası (Rusça "Kişiselleştirily Nomer Nalogoplatelshika") |
-| **Suudi Arabistan** | [Tın](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Saudi-Arabia-TIN.pdf) – vergi kimlik numarası |
+| **Ermenistan** | INN – Vergi kimlik numarası<br>KDV numarası– KDV Kayıt Numarası olarak da bilinir. Bu, KDV için kayıtlı vergiye bağlı bir kişiyi (işletme) veya vergiye bağlı olmayan bir tüzel kişiyi tanımlayan benzersiz sayıdır.<br>Genel hizmet numarası |
+| **Azerbaycan**  | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Azerbaijan-TIN.pdf) – Vergi Kimlik Numarası<br>INN – Vergi kimlik numarası |
+| **Belarus**  | UNP: Bu, bölge tanımlayıcısı, bölge başına seri ve onay basamakları içeren dokuz basamaklı bir sayıdır (kuruluşlar için sayısal, bireyler için alfasayısal). |
+|**Brezilya** | [CNPJ](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Brazil-TIN.pdf) – (Cadastro Nacional da Pessoa Jurıdica veya Ulusal Yasal Varlıklar Kayıt Defteri). Bu, Brezilya Federal Geliri Dairesi tarafından Brezilya şirketlerine verilen bir kimlik numarasıdır  |
+| **Çin** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/China-TIN.pdf) – Vergi Kimlik Numarası |
+| **Macaristan**  | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Hungary-TIN.pdf) – Vergi Kimlik Numarası |
+| **Hindistan** | Vergi Numarası<br>[PAN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/India-TIN.pdf) – (Ülke Genelinde Varlık) PAN Hindistan Katılımı, Hindistan'da çeşitli konumlarda faaliyet gösteren bir kuruluş olduğu anlamına gelir. |
+| **Irak** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/) – Vergi Kimlik Numarası |
+| **Kazakistan**  | BIN – Banka kimlik numarası<br>IIN – Issuer kimlik numarası |
+| **Kırgızistan**  | INN – Vergi Kimlik Numarası |
+| **Moldova**  | IDNO– Tüzel kişilik için atanan benzersiz durum tanımlama numarası (olarak da bilinir. Mali kod).<br>IDNP – Doğum kişisel kodu ("Numarul de Identificare") |
+| **Myanmar** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/) – Vergi Kimlik Numarası | 
+| **Polonya**  | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Poland-TIN.pdf) – Vergi Kimlik Numarası<br>[PESEL](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Poland-TIN.pdf) – Zh içinde kullanılan ulusal kimlik numarası (Lehçe Powszechny Elektroniczny System Ewidencji Ludnornoci, Popülasyon Kaydı için Evrensel Elektronik Sistem) |
+| **Rusya**  | [INN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Russia-TIN.pdf) – Vergi kimlik numarası (Rusça "Individualiy Nomer Nalogoplatelshika") |
+| **Suudi Arabistan** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Saudi-Arabia-TIN.pdf) – Vergi Kimlik Numarası |
 | **Güney Afrika** | TRN – trafik kayıt numarası |
-| **Güney Sudan** | [Tın](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/) – vergi kimlik numarası |
-| **Tacikistan**  | INN – vergi kimlik numarası<br>EIN – Işveren kimlik numarası<br>KPP – bu, kuruluş kaydının nedenini yansıtan bir koddur. |
-| **Tayland** | [Tın](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/) – vergi kimlik numarası |
-| **Türkiye** | [Tın](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Turkey-TIN.pdf) – vergi kimlik numarası<br>NATANMıŞTıR |
-| **Ukrayna**  | EGRPOU<br>EDRPOU – Yerel KIMLIK |
-| **Birleşik Arap Emirlikleri** | Vergi KIMLIĞI<br>KDV [numarası](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/UAE-TIN.pdf) -KDV kayıt numarası olarak da bilinir. Bu, KDV için kaydedilen bir vergilendirilebilir kişi (iş) veya vergilendirilebilir olmayan yasal tüzel kişiliyi tanımlayan benzersiz bir sayıdır. |
-| **Birleşik Devletler** | [EIN](https://irs.ein-forms-gov.com/?keyword=employer%20identification%20number&source=Google&network=o&device=c&devicemodel=&mobile=&adposition%5d&targetid=kwd-81501461534755:loc-190&msclkid=458d3159f6051392f5286e8e75ed79ce) – işveren kimlik numarası |
-| **Özbekistan**  | INN – vergi kimlik numarası |
-| **Vietnam** | [Tın](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/) – vergi kimlik numarası |
-| **Venezuela** | RIF – bir vergi numarasıdır ("kayıt Identificación mali") |
+| **Güney Sudan** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/) – Vergi Kimlik Numarası |
+| **Tacikistan**  | INN – Vergi Kimlik Numarası<br>EIN – İşveren Kimlik Numarası<br>KPP– Bu, kuruluş kaydının nedenini yansıtan bir koddur. |
+| **Tayland** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/) – Vergi Kimlik Numarası |
+| **Türkiye** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Turkey-TIN.pdf) – Vergi Kimlik Numarası<br>NIN |
+| **Ukrayna**  | EGRPOU<br>EDRPOU – Yerel Kimlik |
+| **Birleşik Arap Emirlikleri** | Vergi Numarası<br>[KDV numarası](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/UAE-TIN.pdf) - KDV Kayıt Numarası olarak da bilinir. Bu, KDV için kayıtlı vergiye bağlı bir kişiyi (işletme) veya vergiye bağlı olmayan bir tüzel kişiyi tanımlayan benzersiz sayıdır. |
+| **Birleşik Devletler** | [EIN](https://irs.ein-forms-gov.com/?keyword=employer%20identification%20number&source=Google&network=o&device=c&devicemodel=&mobile=&adposition%5d&targetid=kwd-81501461534755:loc-190&msclkid=458d3159f6051392f5286e8e75ed79ce) – İşveren Kimlik Numarası |
+| **Özbekistan**  | INN – Vergi Kimlik Numarası |
+| **Vietnam** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/) – Vergi Kimlik Numarası |
+| **Venezuela** | RIF– bir Vergi numarasıdır ("Registro de Identificación Fiscal") |
 
 
 
-## <a name="how-to-view-account-details-or-view-and-download-the-mpn-agreement"></a>Hesap ayrıntılarını görüntüleme veya MPN sözleşmesini görüntüleme ve indirme
+## <a name="how-to-view-account-details-or-view-and-download-the-mpn-agreement"></a>Hesap ayrıntılarını görüntüleme veya MPN anlaşmasını görüntüleme ve indirme
 
-MPN kimlik bilgilerinizle Iş Ortağı Merkezi 'Nde oturum açın. Şirketinizin yasal ayrıntılarını, doğrulama durumunuzu, MPN kimliklerinizi görüntülemek ve gerekirse yeni MPN konumları oluşturmak için [**Iş ortağı profili**](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile) ' ni seçin. 
+MPN İş Ortağı Merkezi kimlik bilgilerinizle oturum açma. Şirketin [**yasal ayrıntılarını,**](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile) doğrulama durumunu, MPN kimliklerinizi görüntülemek ve gerekirse yeni MPN konumları oluşturmak için İş ortağı profili'ne tıklayın. 
 
-Ayrıca, MPN kimlikleri gibi diğer önemli bilgileri görüntüleyebilir, MPN konumlarını yönetebilir ve aşağıdaki ekran görüntüsünde gösterildiği gibi sol menü bağlantılarını kullanarak Microsoft Iş ortağı sözleşmesi 'ni görüntüleyebilirsiniz.
+Ayrıca, aşağıdaki ekran görüntüsünde olduğu gibi sol menü bağlantılarını kullanarak MPN kimlikleri gibi diğer önemli bilgileri ekleyebilirsiniz, MPN konumlarını Microsoft İş Ortağı Sözleşmesi konumlarını ekleyebilirsiniz.
 
 :::image type="content" source="images/mpn-new.png" alt-text="İş ortağı profili.":::
 
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
--  [Hesap kullanıcılarını ekleme ve bunlara izin atama](create-user-accounts-and-set-permissions.md)
+-  [Hesap kullanıcıları ekleme ve bu kullanıcılara izin atama](create-user-accounts-and-set-permissions.md)
 
 -  [Microsoft Eylem Paketi aboneliği satın alma veya yenileme](mpn-get-action-pack.md)
 
--  [Üyelik avantajlarınızı yönetin](manage-your-partner-network-benefits.md)
+-  [Üyelik avantajlarınızı yönetme](manage-your-partner-network-benefits.md)
 
--  [Altın ve gümüş üyelik için uzmanlığa yönelik gereksinimler hakkında bilgi edinin](https://partner.microsoft.com/membership/competencies)
+-  [Gold ve Silver üyeliği için uzmanlık gereksinimleri hakkında bilgi](https://partner.microsoft.com/membership/competencies)
 
 -  [Microsoft’tan müşteri adaylarını almak için iş profili oluşturma](create-a-marketing-profile.md)
 
--  [Microsoft 'tan satış fırsatlarını alın ve yönetin](manage-leads.md)
+-  [Microsoft'tan satış müşteri adaylarını al ve yönet](manage-leads.md)

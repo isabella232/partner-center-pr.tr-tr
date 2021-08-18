@@ -5,16 +5,16 @@ ms.date: 05/10/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-account
 description: Kayıt KIMLIĞI numaralarının ne olduğunu ve ülkeniz için zorunlu olup olmadığını öğrenin.
-author: ParthP
-ms.author: ParthP
+author: parthpandyaMSFT
+ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d07527e0111666bfc80d9b9ea2c547886c4b796eb6b127f64fbbbc9238e3e4a1
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 285a3c880d29f28d7dbe02224fe0bb139bd0cd04
+ms.sourcegitcommit: 8fe3b0f22d548bc6bcc1b87636216cd4d42b3ede
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115696130"
+ms.lasthandoff: 08/17/2021
+ms.locfileid: "122297122"
 ---
 # <a name="registration-id-number-information"></a>Kayıt KIMLIĞI numarası bilgileri
 
