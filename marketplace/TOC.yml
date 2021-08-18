@@ -6,6 +6,8 @@
       href: appsource-overview.md
     - name: Yazılım satın alma
       href: purchase-software-appsource.md
+    - name: Özel planlar
+      href: appsource-private-plans.md
 - name: Azure Market
   items:
     - name: Hakkında
@@ -23,7 +25,11 @@
     - name: Abonelik aktarımı koşullarına uygunluk
       href: transfer-eligibility.md
     - name: Özel Azure Market oluşturma ve yönetme
-      href: create-manage-private-azure-marketplace.md
+      items:
+        - name: Koleksiyonlar görünümü
+          href: create-manage-private-azure-marketplace-new.md
+        - name: Eski
+          href: create-manage-private-azure-marketplace.md
     - name: Özel Azure Market’i yönetme - PowerShell
       href: manage-private-azure-marketplace-powershell.md
     - name: İş ortaklarının çözümleriyle Azure'ın süresini genişletme

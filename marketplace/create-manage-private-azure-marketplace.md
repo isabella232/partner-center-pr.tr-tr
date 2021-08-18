@@ -1,19 +1,22 @@
 ---
 title: Azure portal özel Azure Marketi oluşturun ve yönetin
-description: Azure portal özel Azure Marketi (Önizleme) oluşturma ve yönetme hakkında bilgi edinin. Özel Azure Marketi (Önizleme), yöneticilerin kullanıcıların hangi üçüncü taraf çözümlerini kullanabileceği konusunda yönetmelerini sağlar.
+description: Eski görünümdeki Azure portal özel Azure Marketi (Önizleme) oluşturma ve yönetme hakkında bilgi edinin. Özel Azure Marketi (Önizleme), yöneticilerin kullanıcıların hangi üçüncü taraf çözümlerini kullanabileceği konusunda yönetmelerini sağlar.
 ms.service: marketplace-customer
 ms.topic: how-to
 author: msjogarrig
 ms.author: jogarrig
-ms.date: 02/24/2021
-ms.openlocfilehash: c7238a601653b2c6b066b89403ba43cadddd13ed122355e42cf17b5e640c56a2
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.date: 08/10/2021
+ms.openlocfilehash: da44807519f18d6aa17e41d8e81b9ad774e40d2d
+ms.sourcegitcommit: 815760499700bf2c947550524cbddd091622081f
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115689972"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "121914342"
 ---
 # <a name="create-and-manage-private-azure-marketplace-in-the-azure-portal"></a>Azure portal özel Azure Marketi oluşturun ve yönetin
+
+> [!NOTE]
+> Bu makalede eski özel Azure Marketi ele alınmaktadır. Yeni koleksiyonlar görünümü için bunun yerine bu [Yeni makaleye](create-manage-private-azure-marketplace-new.md) bakın.
 
 Özel Azure Marketi, yöneticilerin kullanıcılarının kullanabileceği üçüncü taraf çözümlerini yönetmelerini sağlar. Bu, kullanıcının yalnızca yönetici tarafından onaylanan ve kuruluşunuzun ilkelerine uygun olan teklifleri dağıtmalarına izin vererek bunu yapar. Özel Azure Marketi sayesinde kullanıcılar, satın alıp dağıtmak üzere çevrimiçi mağazalarla uyumlu teklifler arayabilir.
 
@@ -263,87 +266,87 @@ Kullanıcılar, ve onaylanmamış teklifler arasında filtre uygulayabilir:
 
 Ürün Ayrıntıları sayfası deneyimi küresel Azure Marketi 'ne benzer olsa da, özel Azure Market 'e özgü üç senaryo vardır.
 
-- Kullanıcı onaylı bir plan seçerse Oluştur **düğmesi** etkinleştirilir:
+- Bir Kullanıcı onaylanan bir planı seçtiğinde **Oluştur** düğmesi etkinleştirilir:
 
-   :::image type="content" source="media/private-azure/button-create-enabled-small.png" lightbox="media/private-azure/button-create-enabled.png" alt-text="Bir planın oluşturulanana kadar teklif başlığı gösterir.":::
+   :::image type="content" source="media/private-azure/button-create-enabled-small.png" lightbox="media/private-azure/button-create-enabled.png" alt-text="Bir planın oluşturulabileceği teklif başlığını gösterir.":::
 
-- Ürün ayrıntıları sayfasında bir ürün planı seçimi görünmüyorsa ancak yönetici bir veya daha fazla planı  onayladısa, hangi planların onaylandı ve Oluştur düğmesi etkinse bir başlık not alın:
+- Ürün planı seçimi ürün ayrıntıları sayfasında görünmezse ancak yönetici bir veya daha fazla planı onayladıysa, bir başlık hangi planların onaylandığını ve **Oluştur** düğmesi etkin ' i not edin:
 
-   :::image type="content" source="media/private-azure/button-create-enabled-and-plans-small.png" lightbox="media/private-azure/button-create-enabled-and-plans.png" alt-text="Bir planın oluşturula ve kullanılabilir planların gösteril olduğunu gösteren teklif başlığı gösterir.":::
+   :::image type="content" source="media/private-azure/button-create-enabled-and-plans-small.png" lightbox="media/private-azure/button-create-enabled-and-plans.png" alt-text="Bir planın oluşturulup kullanılabilir planların gösterilmediğini belirten teklif başlığını gösterir.":::
 
-- Kullanıcı onaylı olmayan bir planı seçerken, bir başlık planı onaylanmadı olarak not alar ve Oluştur **düğmesi devre** dışı bırakılır. Kullanıcı yine de planı onaylanan listeye eklemek için istekte olabilir (sonraki bölüme bakın).
+- Kullanıcı onaylanmamış bir plan seçtiğinde, bir başlık planı onaylanmamış olarak not edin ve **Oluştur** düğmesi devre dışıdır. Kullanıcı yine de planı onaylanan listeye ekleme isteğinde bulunabilir (sonraki bölüme bakın).
 
 ## <a name="request-to-add-offers-or-plans"></a>Teklif veya plan ekleme isteği
 
-Özel Teklif'te şu anda onaylanmadı olan bir genel teklif veya plan Azure Market.
+Özel Azure Marketi 'nde Şu anda onaylanmamış olan bir genel teklif veya plan ekleme isteyebilirsiniz.
 
-1. Başlıkta **eklemek için** İstek'i seçerek Erişim isteği **formunu açın.**
+1. **Erişim isteği formunu** açmak için başlıkta **eklenecek isteği** seçin.
 
-   :::image type="content" source="media/private-azure/request-banner-small.png" lightbox="media/private-azure/request-banner.png" alt-text="'Ekleme isteği' bağlantısını içeren başlığı gösterir.":::
+   :::image type="content" source="media/private-azure/request-banner-small.png" lightbox="media/private-azure/request-banner.png" alt-text="' Ekleme Isteği ' bağlantısı olan başlığı gösterir.":::
 
    :::image type="content" source="media/private-azure/access-request-form-small.png" lightbox="media/private-azure/access-request-form.png" alt-text="Teklifler veya planlar için erişim isteği formunu gösterir.":::
 
-1. İsteke hangi planların eklen bir plan olduğunu seçin (Herhangi bir **Plan** Market yöneticisine teklif içindeki bir plan için tercih olmadığını söyler).
+1. İsteğe hangi planların ekleneceğini seçin (**herhangi bir plan** , Market yöneticisine bir teklif içindeki bir plan için bir tercih olmadığını söyler).
 
-1. Bir Gerekçe **ekleyin ve** İsteğinizi **göndermek için** İstek'i seçin.
+1. İsteğinizi göndermek için bir **gerekçe** ve seçme **isteği** ekleyin.
 
-   :::image type="content" source="media/private-azure/access-request-form-filled-small.png" lightbox="media/private-azure/access-request-form-filled.png" alt-text="Örnek girişlere sahip teklifler veya planlar için erişim isteği formunu gösterir.":::
+   :::image type="content" source="media/private-azure/access-request-form-filled-small.png" lightbox="media/private-azure/access-request-form-filled.png" alt-text="Örnek girişleri olan tekliflere veya planlara yönelik erişim isteği formunu gösterir.":::
 
-1. Bekleyen bir isteğin göstergesi Erişim isteği formunda İsteği geri alma **seçeneğiyle birlikte görüntülenir.**
+1. Bekleyen bir istek için gösterge, **istek geri çekme** seçeneğiyle birlikte erişim isteği formunda görünür.
 
-   :::image type="content" source="media/private-azure/approved-pending-plans-small.png" lightbox="media/private-azure/approved-pending-plans.png" alt-text="Geri Çekme İsteği bağlantısıyla onaylı veya bekleyen planların listesini gösterir.":::
+   :::image type="content" source="media/private-azure/approved-pending-plans-small.png" lightbox="media/private-azure/approved-pending-plans.png" alt-text="Geri çekme Isteği bağlantısıyla onaylanan veya bekleyen planların listesini gösterir.":::
 
 > [!NOTE]
-> Gönderilen onay isteği formu, Market yöneticisinin [](#private-azure-marketplace-notification-center) isteği gözden geçirmesi ve eyleme geçirmesi için Bildirim Merkezi'ne gönderilir.
+> Gönderildikten sonra, onay isteği formu Market yöneticisinin isteği gözden geçirmesi ve işlem yapması için [bildirim merkezine](#private-azure-marketplace-notification-center) gönderilir.
 
 > [!CAUTION]
-> Özel Market'e onay, çözümün tedariki için bir işaret değildir.
+> Özel Market 'e onay, bir çözümün temin ini göstermez.
 
-## <a name="frequently-asked-questions-faqs"></a>Sık Sorulan Sorular (SSS)
+## <a name="frequently-asked-questions-faqs"></a>Sık sorulan sorular (SSS)
 
-#### <a name="i-am-already-blocking-marketplace-third-party-application-through-azure-policy-how-is-this-different"></a>Market üçüncü taraf uygulamasını Azure İlkesi. Bu durum nasıl farklıdır?
+#### <a name="i-am-already-blocking-marketplace-third-party-application-through-azure-policy-how-is-this-different"></a>Azure Ilkesi aracılığıyla Market üçüncü taraf uygulamasını zaten engelliyor. Bu farklı midir?
 
-Market'te üçüncü taraf hizmetleri kısıtlamak için şu anda iki yol vardır:
+Market 'te üçüncü taraf hizmetleri kısıtlamak için şu anda iki yol vardır:
 
-1. EA portalı veya Azure portal üçüncü taraf hizmetleri devre dışı bırakarak veya "Yalnızca Ücretsiz veya BYOL SKÜ'ler" ile kısıtla.
+1. EA Portalı veya Azure portal aracılığıyla, üçüncü taraf hizmetleri devre dışı bırakın veya yalnızca "ücretsiz veya KLG SKU 'Ları" ile kısıtlayın.
 
-    :::image type="content" source="media/private-azure/disable-services.png" alt-text="Hizmet hizmet hizmetlerini kısıtlamayı Azure portal.":::
+    :::image type="content" source="media/private-azure/disable-services.png" alt-text="Azure portal hizmetleri nasıl kısıtlayabileceğini gösterir.":::
 
-    :::image type="content" source="media/private-azure/disable-services-other-view.png" alt-text="E A portalında hizmetleri kısıtlamayı gösterir.":::
+    :::image type="content" source="media/private-azure/disable-services-other-view.png" alt-text="E-portalda hizmetleri nasıl kısıtlayabileceğini gösterir.":::
 
-2. Yalnızca belirli VM'lere izin vermek için bir Azure ilkesi oluşturun. Vm'lere ilke uygulama hakkında Windows için bkz. Windows [vm'lere ilke Azure Resource Manager.](/azure/virtual-machines/windows/policy)
+2. Yalnızca belirli VM 'Lere izin vermek için bir Azure ilkesi oluşturun. Windows sanal makinelere ilke zorlama hakkında daha fazla bilgi için, bkz. [Azure Resource Manager ile Windows sanal](/azure/virtual-machines/windows/policy)makinelere ilke uygulama.
 
-Özel Azure Market, belirli teklifleri ve planları kısıtlama ve izin verme konusunda daha fazla esneklik sağlar. Üçüncü taraf hizmetleri dağıtmayı denemeden önce bile son kullanıcıları market galerisinde dağıtım için kullanılabilirlik konusunda bilgi sağlar. Üçüncü taraf hizmetlerin dağıtımına izin vermek için Azure Market/Etkin olarak ayarlayın EA Portal ve Azure portal.
+Özel Azure Marketi, belirli tekliflere ve planlara kısıtlama ve izin verme konusunda daha fazla esneklik sağlar. Son kullanıcılara, üçüncü taraf hizmetleri dağıtmayı denemeden önce Market galerisinde dağıtım için kullanılabilirliği bildirir. Üçüncü taraf hizmetlerin dağıtımına izin vermek için, Azure Marketi ' ni EA portalında açık/etkin olarak ayarlayın ve Azure portal.
 
-- Özel Azure Market, sanal makineyle sınırlı değil iş ortağı çözümleri de sunar.
-- Özel Azure Market, plan düzeyinde ve ayrıca "Geçerli ve gelecek plan" olarak da ayarlandır.
-- Özel Azure Market, son kullanıcıları dağıtılabilir ve dağıtılamayabilirsiniz konusunda bilgilendirebilirsiniz.
+- Özel Azure Marketi, sanal makinelerle sınırlı olmamak üzere iş ortağı çözümlerini açabilir.
+- Özel Azure Marketi, plan düzeyinde bulunabilir ve "geçerli ve gelecekteki plan" i de ayarlayabilir.
+- Özel Azure Marketi, son kullanıcıları, ne yapabilecekleri ve dağıtılamayacağını en baştan haberdar edebilir.
 
-#### <a name="whats-the-difference-between-a-private-offer-and-private-azure-marketplace"></a>Özel Teklif ile Özel Teklif arasındaki fark Azure Market?
+#### <a name="whats-the-difference-between-a-private-offer-and-private-azure-marketplace"></a>Özel bir teklif ve özel Azure Marketi arasındaki fark nedir?
 
-Özel **Teklif,** yayımcıların yalnızca hedeflenen müşterilere görünür planlar oluşturmalarına olanak sağlar. Bu, özelleştirilmiş çözümleri anlaşmalı fiyatlandırma, özel hüküm ve koşullar ve özelleştirilmiş yapılandırmalarla özel olarak paylaşmalarına olanak sağlar. Ayrıntılar için [bkz. Ticari markette özel teklifler.](/azure/marketplace/private-offers)
+**Özel bir teklif** , yayımcıların yalnızca hedeflenen müşterilere görünen planlar oluşturmalarına olanak tanır. Bu, özelleştirilmiş çözümleri, anlaşmalı fiyatlandırma, özel hüküm ve koşullar ve özelleştirilmiş yapılandırmalarda özel olarak paylaşmasına olanak tanır. Ayrıntılar için bkz. [ticari Market 'Teki özel teklifler](/azure/marketplace/private-offers).
 
-**Hizmet Azure Market** özel Azure portal, yöneticilerin kullanıcılarının hangi üçüncü taraf çözümleri dağıtalarını önceden onaylamalarına olanak sağlar. Özel Azure Market, kullanıcılar uyumlu teklifleri bularak, Azure Market ve dağıtarak bu avantajların avantajlarından faydalanmalarını sağlar. Özel Market'te abonelik tabanlı Özel Teklifleri yönetmek için Market yöneticisinin belirli abonelikte en az "okuma" rolüne sahip olması gerekir.
+Azure portal **özel Azure Marketi** , yöneticilerin kullanıcıların dağıtabilecek üçüncü taraf çözümlerini önceden onaylamasını sağlar. Özel bir Azure Marketi sayesinde kullanıcılar, uyumlu teklifleri bularak, satın alarak ve dağıtarak Azure Marketi 'nin avantajlarından faydalanarak yararlanabilir. Özel Market 'teki abonelik tabanlı özel teklifleri yönetmek için Market yöneticisinin, belirli abonelikte en az "okuma" rolüne sahip olması gerekir.
 
-#### <a name="i-added-a-private-offer-to-the-private-azure-marketplace-why-is-it-not-showing-in-the-manage-marketplace-tab"></a>Özel Teklif'e özel teklif Azure Market, marketi yönet sekmesinde neden gösterm yok?
+#### <a name="i-added-a-private-offer-to-the-private-azure-marketplace-why-is-it-not-showing-in-the-manage-marketplace-tab"></a>Özel Azure Marketi 'ne özel bir teklif ekledim, neden Market 'i Yönet sekmesinde gösterilmiyor?
 
-Abonelik tabanlı Özel Teklifler yalnızca Özel Teklif ayarlarında listelenen abonelikler için görünür. Özel Teklifi görüntülemek için genel abonelik filtresinin tüm abonelikleri gösterdiğine emin olur.
+Abonelik tabanlı özel teklifler yalnızca özel teklif ayarlarındaki listelenen abonelikler için görülebilir. Özel teklifi görüntülemek için genel abonelik filtresinin tüm abonelikleri belirttiğinden emin olun.
 
-   :::image type="content" source="media/private-azure/private-marketplace-filter.png" lightbox="media/private-azure/private-marketplace-filter.png" alt-text="Özel market filtresini gösterir.":::
+   :::image type="content" source="media/private-azure/private-marketplace-filter.png" lightbox="media/private-azure/private-marketplace-filter.png" alt-text="Özel Market filtresini gösterir.":::
 
-#### <a name="can-we-include-custom-images-in-private-azure-marketplace"></a>Özel görsellere özel görüntüler Azure Market?
+#### <a name="can-we-include-custom-images-in-private-azure-marketplace"></a>Özel Azure Marketi 'ne özel görüntüler ekleyebilir mi?
 
-Hayır. Özel Azure Market, herhangi bir IT yöneticisinin küresel hizmetlerden üçüncü taraf çözümleri yönetmesi ve Azure Market. Özel görüntüler genel görüntü Azure Market, IT yöneticisi özel görüntülerinizi seçe Azure Market seçamaz. Özel görüntüleri paylaşmak için Paylaşılan Görüntü [Galerisi'ni kullanın.](/azure/virtual-machines/shared-image-galleries)
+Hayır. Özel Azure Marketi, BT yöneticisinin küresel Azure Marketi 'nden üçüncü taraf çözümleri yönetmesine ve seçmesine olanak sağlar. Özel görüntüler küresel Azure Marketi 'nde olmadığından, BT Yöneticisi özel görüntülerinizi seçip seçemez. Özel görüntüleri paylaştırmak istiyorsanız [paylaşılan görüntü Galerisi](/azure/virtual-machines/shared-image-galleries)' ni kullanın.
 
-1. Adım adım kılavuz Paylaşılan Görüntü Galerisi oluşturma (SIG) ([CLI](/azure/virtual-machines/shared-images-cli), [PowerShell](/azure/virtual-machines/shared-images-powershell)).
-2. SIG içinde bir görüntü tanımı oluşturun. Müşterinin işletim sistemi **durumu alanı** için Genelleştirilmiş'i seçmesi gerekir. ([CLI](/azure/virtual-machines/image-version-managed-image-cli#create-an-image-definition), [PowerShell](/azure/virtual-machines/image-version-vm-powershell#create-an-image-definition)).
-3. Yönetilen görüntüyü Paylaşılan Görüntü Galerisi'ne getir ([CLI](/azure/virtual-machines/image-version-managed-image-cli), [PowerShell](/azure/virtual-machines/image-version-managed-image-powershell)).
-4. SIG VM görüntüleri bir abonelikte yer aitir. Diğer aboneliklerin kullanımına sağlamak için bir uygulama kaydı[(CLI](/azure/virtual-machines/linux/share-images-across-tenants), [PowerShell) kullanın.](/azure/virtual-machines/windows/share-images-across-tenants)
+1. Adım adım kılavuz paylaşılan görüntü Galerisi (SıG) ([CLI](/azure/virtual-machines/shared-images-cli), [PowerShell](/azure/virtual-machines/shared-images-powershell)) oluşturma.
+2. Bir SıG içinde bir görüntü tanımı oluşturun. Müşteri, işletim sistemi durumu alanı için **Genelleştirilmiş** ' ı seçmelidir. ([CLI](/azure/virtual-machines/image-version-managed-image-cli#create-an-image-definition), [PowerShell](/azure/virtual-machines/image-version-vm-powershell#create-an-image-definition)).
+3. Yönetilen görüntüyü paylaşılan görüntü galerisine getirin ([CLI](/azure/virtual-machines/image-version-managed-image-cli), [PowerShell](/azure/virtual-machines/image-version-managed-image-powershell)).
+4. SıG VM görüntüleri bir abonelikte yer alır. Başka abonelikler için kullanılabilir hale getirmek için, bir uygulama kaydı ([CLI](/azure/virtual-machines/linux/share-images-across-tenants), [PowerShell](/azure/virtual-machines/windows/share-images-across-tenants)) kullanın.
 
-#### <a name="why-do-i-see-some-offers-approved-by-default-even-though-the-publisher-is-not-microsoft"></a>Yayımcı Microsoft değilken **neden bazı tekliflerin** varsayılan olarak onaylandı olduğunu görüyorum?
+#### <a name="why-do-i-see-some-offers-approved-by-default-even-though-the-publisher-is-not-microsoft"></a>Yayımcı Microsoft olmasa da, neden **Varsayılan olarak onaylanan** bazı teklifleri görüyorum?
 
-Microsoft, Azure'da Linux ve açık kaynak teknolojisini destekler. [Azure'da desteklenen](/azure/virtual-machines/linux/endorsed-distros) Desteklenen Linux dağıtımları ve fiyatı sanal makinelerde tümleştirilmiştir. Azure Linux Aracısı bir Microsoft Azure Market önceden yüklenmiş olduğundan, bir Microsoft teklifi olarak kabul edilir. Microsoft teklifleri varsayılan olarak onaylandıktan sonra, onaylı Linux dağıtımları Özel Dağıtımlar'da Azure Market ve varsayılan olarak onaylanır.
+Microsoft, Azure 'da Linux ve açık kaynaklı teknolojiyi destekler. Desteklenen [Linux dağıtımları](/azure/virtual-machines/linux/endorsed-distros) Azure 'da desteklenir ve fiyat sanal makinelerde tümleşiktir. Azure Linux Aracısı zaten Azure Marketi 'nde önceden yüklenmiş olduğundan, Microsoft teklifi gibi davranılır. Microsoft teklifleri varsayılan olarak onaylandığından, onaylanmış Linux dağıtımları özel Azure Marketi 'nde yönetilemez ve varsayılan olarak onaylanır.
 
 ## <a name="contact-support"></a>Desteğe başvurun
 
-- Daha Azure Market için Microsoft [Q&A'&ziyaret edin.](/answers/products/)
+- Azure Marketi desteği için [Microsoft Q&A](/answers/products/)adresini ziyaret edin.

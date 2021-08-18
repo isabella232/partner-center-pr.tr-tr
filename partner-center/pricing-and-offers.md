@@ -9,12 +9,12 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7db8a3a7cd960532ed99f5c2a5262b0f37a8b4ef011325b8bb0d9685cfefdae0
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 9b290e5db1e9c385b5000e4c18b9810db82b645c
+ms.sourcegitcommit: 815760499700bf2c947550524cbddd091622081f
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115693223"
+ms.lasthandoff: 08/13/2021
+ms.locfileid: "121914455"
 ---
 # <a name="pricing-and-offers-for-office-365-dynamics-crm-enterprise-mobility-suite-azure-and-more"></a>Office 365, Dynamics CRM, Enterprise Mobility Suite, Azure ve daha fazlası için fiyatlandırma ve teklifler
 
@@ -69,142 +69,142 @@ Ancak, Azure kullanım tabanlı fiyatlandırmadan önizleme yoktur. İş ortakla
 |Yazılım||Kullanılamaz|Fiyat listelerini aydan aya kadar el ile karşılaştırın|
 |Rezervasyonlar|Sanal makineler, önceden ücretli|Kullanılamaz|Fiyat listelerini aydan aya kadar el ile karşılaştırın|
 
-Kullanım tabanlı fiyatlar, bir ay boyunca değişebilir. Bu Azure kaynaklarına 'güncel' günlük fiyatlandırmayı almak için iş ortaklarının RateCard API'sini çağırları gerekir. 
+Kullanım tabanlı fiyatlar, bir ay boyunca değişebilir. Bu Azure kaynakları için ' geçerli ' günlük fiyatlandırma almak için iş ortaklarının RateCard API 'sini çağırması gerekir. 
 
 > [!Note] 
-> Abonelik fiyatı değişiklikleri yalnızca yenileme sırasında geçerlidir. İş ortağının aylık ücreti, satın alma fiyatı veya abonelik oluşturulurken belirlenen fiyat üzerinden belirlenir. Yıllık dönem elde edildikten sonra fiyat artar veya azalırsa iş ortağı, yenilemeye (genellikle 12 aylık dönem) kadar değişen fiyat için ücret ödemez.
+> Abonelik fiyat değişiklikleri yalnızca yenileme sırasında uygulanır. Bir iş ortağının aylık ücreti, satın alma fiyatı veya bir abonelik oluşturma sırasında fiyat olarak belirlenir. Yıllık dönem alındıktan sonra bir fiyat artar veya azaldıysanız, iş ortağı, genellikle 12 aylık dönemde yenileme işlemi yapılıncaya kadar, değiştirilen fiyat üzerinden ücretlendirilmez.
 
 ## <a name="pricing-and-special-segments"></a>Fiyatlandırma ve özel segmentler
 
-CSP eğitim, kar amacı gütmeyen ve kamu topluluk bulutu gibi özel pazar segmentlerine bazı hizmetler sunar. Tüm hizmetler her kanalda kullanılamaz. Hiçbir segment varsayılan olarak 'ticari' segment olarak çağırmaz. Tüm lisans tabanlı fiyatlandırmalar, Fiyatlandırma ve Teklifler sayfasındaki lisans tabanlı fiyat listesinde mevcuttur. Azure Kamu fiyatlandırma, etkin CSP kiracısı oturum a Azure Kamu fiyat listesinde mevcuttur. Yazılım abonelikleri ve kalıcı yazılım henüz bu özel segmentleri desteklememektedir.
+CSP, eğitim, kar amacı gütmeyen ve kamu Community bulutu gibi özel pazar segmentlerine bazı hizmetler sunar. Tüm hizmetler her kanalda kullanılabilir değildir. ' Ticari ' segmentine çağrı yaptığımız bir kesim varsayılan değildir. Lisans tabanlı fiyatlandırma, fiyatlandırma ve teklifler sayfasındaki Lisans tabanlı fiyat listesinde kullanılabilir. Azure Kamu fiyatlandırması, Azure Kamu etkin CSP kiracısında oturum açıldığında kullanım tabanlı fiyat listesinde kullanılabilir. Yazılım abonelikleri ve kalıcı yazılım bu özel segmentleri henüz desteklemez.
 
-|**Segment**   |**uygun olması gerekenler**   |**İş ortağı müşteriyi niteler**|**Etkin ürün türleri**|
+|**Segment**   |**şunları nitelemek gerekir**   |**İş ortağı nitelikleri müşterisi**|**Etkin ürün türleri**|
 |-------------------|-----------------------|----------------------------|-----------------------------|
-|Eğitim|Müşteri|Hayır, müşteri yeterliliği Microsoft tarafından gerçekleştirilir |Yalnızca lisans tabanlı|
-|Kar amacı gütme -yen|Müşteri|Hayır, müşteri özel durum dışında İş Ortağı Merkezi|Yalnızca lisans tabanlı|
-|Kamu Topluluk Bulutu (GCC)|İş ortağı ve müşteri|İş GCC etkinleştirildikten sonra iş ortağı GCC oluşturabilir| Yalnızca lisans tabanlı|
-|Azure Kamu|İş Ortağı|Uygun bir şekilde, iş ortağı belirli bir CSP kiracısı içinde Azure Kamu|Azure kaynakları|
+|Eğitim|Müşteri|Hayır, müşteri niteliği Microsoft tarafından gerçekleştirilmeyecektir |Yalnızca lisans tabanlı|
+|Kar dışı|Müşteri|Hayır, müşteri Iş ortağı merkezi dışında nitelendirir|Yalnızca lisans tabanlı|
+|Kamu Topluluk Bulutu (GCC)|İş ortağı ve müşteri|GCC etkinleştirildikten sonra iş ortağı GCC müşteri oluşturabilir| Yalnızca lisans tabanlı|
+|Azure Kamu|İş Ortağı|Nitelikli bir şekilde, iş ortağı Azure Kamu 'ya özgü bir CSP kiracısında çalışır|Azure kaynakları|
 
-Liste fiyatı ile tahmini perakende fiyatları arasındaki fark olan iş ortağı marjları segmentten segmente farklılık gösterebilir. Genellikle, eğitim ve kar amacı gütmeyen csP iş ortakları için daha düşük veya hiç marj yoktur. Tam değerler için lisans tabanlı fiyat listesine bakın. 
+İş ortağı kenar boşlukları, liste fiyatı ve tahmini perakende fiyatlar arasındaki fark, segmentten segmente göre farklılık gösterebilir. Genellikle, eğitim ve kar amacı, CSP iş ortakları için daha düşük veya olmayan bir kenar boşluğuna sahiptir. Tam değerler için lisans tabanlı fiyat listesine bakın. 
 
 ## <a name="add-on-offer-types"></a>Eklenti teklifi türleri
 
-Lisans tabanlı hizmetler, temel teklifler veya eklentiler olarak edinilen hizmetlerdir. Yalnızca temel teklifler, katalog aracılığıyla keşfedilebilir ve İş Ortağı Merkezi olabilir. Temel teklifleri satın aldıktan sonra eklentileri uygulattırın. Lisans tabanlı fiyat listesi İkincil **lisans türü sütunu,** her teklif ve onun türü hakkında bilgiler içerir. Temel **teklifler, fiyat listesi** ikincil lisans türü sütununda özel olmayan değerlere sahiptir ve katalogdan satın alınabilir. Eklentinin ikincil **lisans türü değerleri** katalogda satın alınamaz. Bu eklentileri satın almak için:
+Lisans tabanlı hizmetler, temel teklifler veya eklentiler olarak elde edilebilir. Yalnızca temel teklifler, Iş Ortağı Merkezi Kataloğu aracılığıyla bulunabilir ve satın alınabilir alınırken. Temel teklifleri satın aldıktan sonra Eklentiler uygulamanız gerekir. Lisans tabanlı fiyat listesi **İkincil lisans türü** sütunu her bir teklifle ilgili bilgileri ve türünü içerir. Taban tekliflere, Fiyat listesi ikincil lisans türü sütununda **spesifik olmayan** değerler vardır ve katalogda satın alınabilir. **Eklentinin** ikincil lisans türü değerleri katalogda satın alınamaz. Bu eklentileri satın almak için:
 
-1. Eklenti satın alamadan önce satın almak istediğiniz teklif kimliklerinin listesini görmek için teklif listesi matrisini kullanın.
+1. Bir eklenti satın almadan önce satın alınması gereken teklif kimliklerinin listesini görmek için teklif listesi matrisine başvurun.
 2. Katalogdan temel teklifi satın alma
-3. Müşteri listesinden müşterinize gidin. Az önce satın aldığınız temel teklif için aboneliği seçin. Aboneliği yönet sayfasında, temel teklife uygulanacak kullanılabilir eklentileri görebilirsiniz.
+3. Müşteri listesinden müşterinize gidin. Yeni satın aldığınız temel teklifin aboneliğini seçin. Aboneliği Yönet sayfasında, temel teklifine uygulanabilen kullanılabilir eklentiler görürsünüz.
 
 > [!Note] 
-> Bazı temel **teklifler, Eklenti** **lisanslarının Birim türü değerlerine sahiptir.** Temel teklif için bu, satın alma sonrasında kullanıcı lisansları atamadığınız anlamına gelir. Teklif katalogda satın alınabilirse, kullanıcı **arabiriminde** birim türünden bağımsız olarak bir Temel tekliftir.
+> Bazı temel tekliflerden, **eklenti lisanslarının** **birim türü** değerleri vardır. Temel bir teklif için bu, satın aldıktan sonra kullanıcı lisanslarını atamamanızın anlamına gelir. Teklif katalogda satın alınacaksa, Kullanıcı arabirimindeki birim türünden bağımsız olarak bu bir **temel tekliftir** .
 
 ## <a name="pricing-between-azure-and-non-azure"></a>Azure ile Azure dışı fiyatlandırması
 
-Fiyatlandırma, farklı teklif türleri arasında farklılık gösterir. Lisans tabanlı fiyatlandırma genellikle belirli bir aya göre lisans başına tutardır. Kullanım tabanlı fiyatlandırma, ilgili ölçüm kimliğiyle belirli bir kaynağın kullanımıyla belirlenir. İş ortakları, Azure aboneliğini almaları için ücret ödemez. Ancak iş ortakları, Azure aboneliği altındaki farklı dağıtımlar tarafından tüketilen kaynaklar için ücret tahsil edilecektir. Kullanım tabanlı fiyat listesinde fiyatlandırma, Azure'daki farklı kaynak ölçümü kimlikleri çevresinde düzenlenmiştir.
+Fiyatlandırma, farklı türlerde tekliflerde farklılık gösterir. Lisans tabanlı fiyatlandırma genellikle belirli bir ay için lisans başına miktar olur. Kullanım tabanlı fiyatlandırma, belirli bir kaynağın bir ilişkili ölçüm KIMLIĞIYLE birlikte kullanılmasına göre belirlenir. Azure aboneliğini almak için iş ortakları ücretlendirilmez. Ancak iş ortakları, Azure aboneliği kapsamındaki farklı dağıtımlar tarafından tüketilen kaynaklar için ücretlendirilir. Kullanım tabanlı fiyat listesindeki fiyatlandırma, Azure 'daki farklı kaynak ölçüm kimlikleri etrafında düzenlenmiştir.
 
-Azure rezervasyonları, belirli bir kaynak türü olan Sanal Makineler için terim tabanlı satın almalardır. Azure rezervasyonu satın almak, bir iş ortağının önceden ödeme (bir veya üç yıllık koşullar) ve verilen bir sanal makineyi ayırması için olanak sağlar. Rezervasyonlar iş ortağı paradan tasarruf eder ve sanal makinelerinin süre boyunca her zaman kullanılabilir olmasını sağlar. İş ortağı, istediğiniz rezervasyonu kullanım tabanlı kaynak ölçümü kimliklerine göre hizalar. İş ortağının bir sanal makine satın alma veya yalnızca sanal makineyi kullanım tabanlı bir kaynak olarak dağıtma gibi ölçüm kimlikleri kaynak genelinde tutarlıdır.
+Azure ayırmaları, belirli kaynak türü-sanal makineler için dönem tabanlı satın almalardır. Azure ayırması satın alma, bir ortağın ön ödeme yapmasına (bir veya üç yıllık terim) ve belirli bir sanal makineyi ayırmasını sağlar. Rezervasyonlar iş ortağı paradan tasarruf edin ve sanal makinesinin, dönem süresince her zaman kullanılabilir olmasını sağlar. Bir iş ortağı, istedikleri ayırma kullanımını, kullanım tabanlı kaynak ölçüm kimliklerine göre hizalayabilirsiniz. Ölçüm kimlikleri kaynak genelinde tutarlıdır, iş ortağının bir sanal makine satın alıp dağıtmayacağı ya da sanal makineyi kullanım tabanlı bir kaynak olarak dağıtma.
 
 ## <a name="offers-matrix"></a>Teklif matrisi
 
-Fiyatlandırma ve teklifler sayfasında, satabilirsiniz farklı SKUS'lar ve ürün paketleri hakkında bilgi almak için Bulut Kurumsal Bayi Teklif Matrisi'ne bakın. Teklif matrisi, yerel olarak kullanılabilen teklifleri içerir. Bir öğe fiyat listesinde listelenmiş ancak teklif matrisinde listelenmiyorsa, ürünler henüz sipariş edilebilir durumda değildir. Sipariş için kullanılabilir olduğu anda teklif matrisi güncelleştirilir.
+Fiyatlandırma ve teklifler sayfasında, satmanız için kullanabileceğiniz farklı SKU 'Lar ve ürün paketleri hakkında bilgi edinmek için bulut satıcı teklifi matrisini görüntüleyin. Teklifler matrisi, her yerel ayar için hangi tekliflerin kullanılabilir olduğunu içerir. Bir öğe fiyat listesinde listeleniyorsa, ancak teklif matrisinde listede yoksa, ürünlerin henüz sıralanamayacağı anlamına gelir. Sipariş için kullanılabilir duruma geldiğinde, teklifler matrisi güncellenir.
 
-İş Ortağı Merkezi Software Development Kit'leri (SDK) kullanan CSP iş ortakları için. Microsoft ayrıca Fiyatlandırma ve teklifler sayfasında CSP'de Azure Hizmetlerinin bir listesini yayımlar.
+Iş Ortağı Merkezi Yazılım Geliştirme Setleri (SDK 'lar) kullanan CSP iş ortakları için. Microsoft ayrıca fiyatlandırma ve teklifler sayfasında CSP 'de Azure hizmetlerinin bir listesini yayımlar.
 
-### <a name="offers-matrix-and-price-list-questions"></a>Teklif matrisi ve fiyat listesi soruları
+### <a name="offers-matrix-and-price-list-questions"></a>Matris ve fiyat listesi soruları sunar
 
-Fiyat listesi veya teklif matrisi hakkında sorularınız varsa, hizmet isteğinizi İş Ortağı Merkezi.
+Fiyat listesi veya teklif matrisi hakkında sorularınız varsa, Iş Ortağı Merkezi aracılığıyla bir hizmet isteği gönderebilirsiniz.
 
-## <a name="offer-limits"></a>Teklif sınırları
+## <a name="offer-limits"></a>Teklif limitleri
 
-Bazı lisans tabanlı tekliflerin aynı müşteri için birden çok satın almayı yasaklayan belirli kuralları ve sınırlamaları vardır. Bu kurallar çoğu deneme ve küçük işletme tekliflerinin çoğu için geçerlidir. **Küçük işletme teklifleri,** maksimum lisans sayısı 300'den az olan tekliflerle tanımlanır.
+Lisans tabanlı bazı tekliflerden, aynı müşteri için birden çok satın almayı engelleyen belirli kurallar ve sınırlamalar vardır. Bu kurallar çoğu deneme ve küçük iş tekliflerinin birçoğu için geçerlidir. **Küçük işletme teklifleri** , 300 ' den küçük olan en yüksek lisans sayısına sahip olan teklifler tarafından tanımlanır.
 
-Bu satın alma kısıtlamaları teklif yapılandırmasının bir parçası olarak tanımlanır ve teklif listesi matrisi'ne bakarak bulunabilir. İki veri sütunu, zorlamayı tanımlamak için birlikte çalışır: 1. Teklif Sınırı Kapsamı ve 2. Teklif Sınırı. Kısıtlamalar, satın alma sırasında uygulanır. İş Ortağı Merkezi kataloğu, bir iş ortağının kurallara göre daha fazla teklif satın almasına izin vermez. Kısıtlamaları ihlal etmek için yapılan tüm girişimler hataya neden olur.
+Bu satın alma kısıtlamaları, teklif yapılandırmasının bir parçası olarak tanımlanır ve teklif listesi matrisine bakarak bulunabilir. İki veri sütunu, uygulamayı tanımlamak için birlikte çalışır: 1. Teklif sınırı kapsamı ve 2. Teklif sınırı. Bir satın alma sırasında kısıtlamalar uygulanır. Iş ortağı merkezindeki Katalog, bir ortağın kurallara göre daha fazla teklif satın alınmasına izin vermez. Kısıtlamaları ihlal etmeye yönelik her türlü girişim bir hataya neden olur.
 
-Teklif sınırı kapsamı teklif listesi matrisinde sütun olarak kaydedilir ve Hiçbiri, Yaşam Süresi veya Eşzamanlı değerlerine sahip olabilir. 
+Teklif limiti kapsamı, teklif listesi matrisinde bir sütun olarak kaydedilir ve None, Lifetime veya eş zamanlı değerler içerebilir. 
 
-- Hiçbiri olan **teklifler** kısıtlama olmadan satın alınabilir.
-- **Yaşam** süresi teklifleri yalnızca bir kez satın alınabilir.
-- **Eşzamanlı** teklifler, teklif için Teklif Sınırı değeri tarafından izin **verilen sayıda** satın alınabilir. Çoğu denemenin Teklif Sınırı "1" olan Yaşam Süresi Teklifi Sınırı Kapsamı vardır. Çoğu küçük işletme teklifinin Teklif Sınırı "2" olan Eşzamanlı Teklif Sınırı Kapsamı vardır.
+- **Hiçbiri** olmayan teklifler, kısıtlama olmadan satın alınabilir.
+- **Ömür** teklifleri yalnızca bir kez satın alınabilir.
+- **Eşzamanlı** teklifler, bu teklif Için **teklif sınırı** değeri tarafından izin verilen sayıda kez satın alınabilir. Çoğu denemelerdeki, "1" teklif limiti olan ömür teklifi sınırı kapsamı vardır. En küçük işletme tekliflerinin, "2" teklif limiti olan eşzamanlı bir teklif limiti kapsamı vardır.
 
 > [!IMPORTANT]
-> Teklif iptal edilmiş olsa bile eşzamanlılık sınırları uygulanır. Başka bir satın alma işlemi için ek alan elde etmek amacıyla teklifin tamamen iptal edilmesi ve sonra da yeniden satın alma işleminin iptal edilmesi gerekir.
+> Bir teklif iptal edilse bile eşzamanlılık sınırları zorlanır. Bir teklif tamamen iptal edilip daha sonra başka bir satınalmaya izin veren ek bir alan boşaltmak için sağlanması gerekir.
 
 ### <a name="taxes-and-pricing"></a>Vergiler ve fiyatlandırma
 
-CSP fiyat İş Ortağı Merkezi tüm fiyatlandırmalar vergiler dahildir. Vergiler ve vergi muafiyetleri İş Ortağı Merkezi [belgesinde daha fazla bilgi için.](tax-and-tax-exemptions.md)
+Iş Ortağı Merkezi CSP fiyat listelerindeki tüm fiyatlar vergi dahil değildir. Iş ortağı merkezi belge [vergileri ve vergi muafiyetleri](tax-and-tax-exemptions.md)hakkında daha fazla bilgi için.
 
-## <a name="offer-attestation"></a>Teklif taahiri
+## <a name="offer-attestation"></a>Teklif kanıtlama
 
-Bazı teklifler için satın almadan önce iş ortağının kabul uzlası gerektir. Bu işleme onay adı ve 1 Ağustos 2021'den itibaren, onay gerektiren tek teklif Windows Hibrit Avantajı ile 365 İş Windows teklifidir. İş ortakları, bu teklifleri satın alırken gözden geçirme ekranında "Windows 365 business with Windows Hybrid Benefit kullanan her bir kişinin de birincil iş cihazında geçerli Windows 10/11 Pro kopyasının yüklü olması gerektiğini anlıyoruz." İş ortaklarının satın almadan önce bunu kabul etmek zorunda olması gerekir.
+Bazı teklifler, iş ortağının almadan önce kabul etmesi gerekir. bu işleme kanıtlama adı verilir ve 1 ağustos 2021 itibariyle, kanıtlama gerektiren tek teklifler, Windows hibrit avantajı Windows 365 iş tekliflerdir. iş ortakları, bu teklifleri satın alırken gözden geçirme ekranında metin görür. "Windows 365 iş Windows hibrit avantajını kullanan her kişinin, birincil iş cihazında Windows 10/11 Pro geçerli bir kopyasının olması gerektiğini anladım." İş ortakları satın almadan önce bunu kabul etmelidir.
 
-Onay hem İş Ortağı Merkezi portal hem de sipariş gönderiliyor İş Ortağı Merkezi sepetleri kontrol eden api'ler için geçerlidir. İş ortakları, teklif veya [sku](/partner-center/develop/product-resources#attestationproperties) nesnelerindeki AttestationProperties'ı kontrol ederek hangi tekliflerin [doğrulandır](/partner-center/develop/offer-resources#attestationproperties) gerektirir olduğunu tespit eder. Bu özellikler, kanıtlama türünü açıklayacak ve kanıtlama satın alma işlemleri için zorlandığında (Enforcekanıtlama = true). Gerekirse, iş ortakları AttestationAccepted yalnızca sepet veya sipariş [satırı öğelerinde](/partner-center/develop/cart-resources)true olarak ayarlanır.
+Kanıtlama, hem Iş Ortağı Merkezi portalının hem de iş ortağı merkezi API 'Lerinin yanı sıra sipariş gönderirken ve sepetleri kullanıma alırken geçerlidir. İş ortakları, [teklif](/partner-center/develop/offer-resources#attestationproperties) veya [SKU](/partner-center/develop/product-resources#attestationproperties) nesnelerinde AttestationProperties ' i denetleyerek hangi tekliflerin kanıtlama gerektirdiğini tespit edebilir. Bu özellikler,station türünü ve satın almalar için (enforceAttestation=True) doğrulandıysa bunu açıklar. Gerekirse, iş ortakları sepette veya sipariş [lineitems](/partner-center/develop/cart-resources)üzerinde AttestationAccepted'ı true olarak ayarlamanız gerekir.
 
-Aşağıda, şu anda satın almadan önce kanıtlama gerektiren teklifler verilmiştir.
+Satın almadan önce şu anda onay gerektiren teklifler aşağıda verilmiştir.
 
  | **Teklif adı** |**Teklif Kimliği** |
 |:------------------------------------------- |:--------------------------------------- |
-| Windows 365 iş 1 vcpu, 2 gb, 64 gb (Windows hibrit avantajı ile) | 5f3a7cd2-c76f-4b21-9ddc-f48f09869cf6 |
-| Windows 365 iş 2 vcpu, 4 gb, 128 GB (Windows hibrit avantajı ile) | 7612386a-d98d-4110-94b8-554bd612a5ab |
-| Windows 365 iş 2 vcpu, 4 gb, 128 GB (Windows hibrit avantajı ile) deneme sürümü | ab170880-1254-4534-abb9-fd0bf60cde71 |
-| Windows 365 iş 2 vcpu, 4 gb, 256 GB (Windows hibrit avantajı ile) | cc624387-162c-4f31-9d6e-252d39d5324b |
-| Windows 365 iş 2 vcpu, 4 gb, 64 GB (Windows hibrit avantajı ile) | f9777f60-19ae-4bd2-b881-6dc674564a2e |
-| Windows 365 iş 2 vcpu, 8 gb, 128 gb (Windows hibrit avantajı ile) | 39dada752-18b7-4918-b4eb-cf27cf617ee2 |
-| Windows 365 iş 2 vcpu, 8 gb, 128 gb (Windows hibrit avantajı ile) deneme sürümü | d5623401-b8e0-429f-86df-29b6efdf4d95 |
-| Windows 365 iş 2 vcpu, 8 gb, 256 gb (Windows hibrit avantajı ile) | 8fe4271f-c761-45F8-8261-5ab575195152 |
-| Windows 365 iş 4 vcpu, 16 gb, 128 gb (Windows hibrit avantajı ile) | 037cff0f-c231-4cce-a7ef-5324c755ba9a |
-| Windows 365 iş 4 vcpu, 16 gb, 128 gb (Windows hibrit avantajı ile) deneme sürümü | 46448c4c-8b12-4ea1-9be7-76b35d69bcf5 |
-| Windows 365 iş 4 vcpu, 16 gb, 256 gb (Windows hibrit avantajı ile) | 977318cf-57a5-4c3f-a8b6-aa58853dd2e9 |
-| Windows 365 iş 4 vcpu, 16 gb, 512 gb (Windows hibrit avantajı ile) | 1a3bdfb8-fb09-4331-8303-2c07e895c6d9 |
-| Windows 365 iş 8 vcpu, 32 gb, 128 GB (Windows hibrit avantajı ile) | 1b96db48-9c02-4c95-8c0b-98e4e6aa187c |
-| Windows 365 iş 8 vcpu, 32 gb, 256 GB (Windows hibrit avantajı ile) | 3ff72e53-c37f-41d5-b932-793cb39c837b |
-| Windows 365 iş 8 vcpu, 32 gb, 512 GB (Windows hibrit avantajı ile) | aca639ae-ae81-4298-a76a-094b6880913b |
+| Windows 365 İş 1 vCPU, 2 GB, 64 GB (Windows Hibrit Avantajı ile) | 5f3a7cd2-c76f-4b21-9ddc-f48f09869cf6 |
+| Windows 365 İş 2 vCPU, 4 GB, 128 GB (Windows Hibrit Avantajı ile) | 7612386a-d98d-4110-94b8-554bd612a5ab |
+| Windows 365 İş 2 vCPU, 4 GB, 128 GB (Windows Hibrit Avantajı ile) Deneme Sürümü | ab170880-1254-4534-abb9-fd0bf60cde71 |
+| Windows 365 İş 2 vCPU, 4 GB, 256 GB (Windows Hibrit Avantajı ile) | cc624387-162c-4f31-9d6e-252d39d5324b |
+| Windows 365 İş 2 vCPU, 4 GB, 64 GB (Windows Hibrit Avantajı ile) | f9777f60-19ae-4bd2-b881-6dc674564a2e |
+| Windows 365 İş 2 vCPU, 8 GB, 128 GB (Windows Hibrit Avantajı ile) | 39daa752-18b7-4918-b4eb-cf27cf617ee2 |
+| Windows 365 İş 2 vCPU, 8 GB, 128 GB (Windows Hibrit Avantajı ile) Deneme Sürümü | d5623401-b8e0-429f-86df-29b6efdf4d95 |
+| Windows 365 İş 2 vCPU, 8 GB, 256 GB (Windows Hibrit Avantajı ile) | 8fe4271f-c761-45f8-8261-5ab575195152 |
+| Windows 365 İş 4 vCPU, 16 GB, 128 GB (Windows Hibrit Avantajı ile) | 037cff0f-c231-4cce-a7ef-5324c755ba9a |
+| Windows 365 İş 4 vCPU, 16 GB, 128 GB (Windows Hibrit Avantajı ile) Deneme Sürümü | 46448c4c-8b12-4ea1-9be7-76b35d69bcf5 |
+| Windows 365 İş 4 vCPU, 16 GB, 256 GB (Windows Hibrit Avantajı ile) | 977318cf-57a5-4c3f-a8b6-aa58853dd2e9 |
+| Windows 365 İş 4 vCPU, 16 GB, 512 GB (Windows Hibrit Avantajı ile) | 1a3bdfb8-fb09-4331-8303-2c07e895c6d9 |
+| Windows 365 İş 8 vCPU, 32 GB, 128 GB (Windows Hibrit Avantajı ile) | 1b96db48-9c02-4c95-8c0b-98e4e6aa187c |
+| Windows 365 İş 8 vCPU, 32 GB, 256 GB (Windows Hibrit Avantajı ile) | 3ff72e53-c37f-41d5-b932-793cb39c837b |
+| Windows 365 İş 8 vCPU, 32 GB, 512 GB (Windows Hibrit Avantajı ile) | aca639ae-ae81-4298-a76a-094b6880913b |
 
 ## <a name="multi-year-term-offers"></a>Çok yıllık dönem teklifleri
 
 ### <a name="36-month-offers"></a>36 aylık teklifler
 
-Üç yıllık koşullara sahip yaklaşık 50 Dynamics teklifi vardır. Bunlar, tekliflerin başlığında **(36 Mo)** tanımlanır. Bu teklifler yıllık dönem tekliflerine benzer. Tek fark, dönemi etrafında. Bu teklifler üç yıllık bir terime sahiptir, böylece abonelikler üç yıl sonra otomatik olarak yenilenmez. Aşağıda bu tekliflerin nasıl çalıştığı hakkında bir Özet verilmiştir:
+Üç yıllık dönemlere sahip yaklaşık 50 Dynamics teklifi vardır. Bunlar tekliflerin **başlığında (36 mo)** ile tanımlanır. Bu teklifler yıllık dönem tekliflere benzer. Tek fark, terimiyle ilgilidir. Bu tekliflerin üç yıllık bir süresi vardır, böylece abonelikler bir yıl yerine üç yıl sonra otomatik olarak yenilenir. Aşağıda, bu tekliflerin nasıl iş sunduğuna bir özet verilmiştir:
 
-- Koşullar 36 aylardır; abonelikler üç yıldan sonra otomatik olarak yenilenecek
-- İş ortakları, aboneliğin dönemi boyunca lisans sayısını iptal edebilir veya değiştirebilir
-- Yıllık yenileme, üç yıllık dönem için satın alma zamanının fiyatında olacaktır
-- Faturalandırma sıklığı, hala yıllık veya aylık
+- Koşullar 36 aydır, abonelikler üç yıl sonra otomatik olarak yenilenir
+- İş ortakları abonelik süresi boyunca lisans sayısını iptal edebilir veya değiştirebilir
+- Yıllık yenileme, üç yıllık dönem için satın alma süresi fiyatında olur
+- Faturalama sıklığı hala yıllık veya aylık
 
 ### <a name="72-month-offers"></a>72 aylık teklifler
 
-Microsoft 365 A1 taban teklifinin altı yıllık bir dönemi vardır.  Office 365 A1 eklentiler, bu temel teklifi satın aldıktan sonra kullanılabilir. 
+Microsoft 365 A1 teklifin altı yıllık bir süresi var.  Bu Office 365 A1 satın alma sonrasında ek eklentiler kullanılabilir. 
 
 |**Teklif adı**   |**Teklif Kimliği**   |**Tür**|
 |-------------------|-----------------------|----------------------------|
-|Microsoft 365 A1|778a4dce-0014-4D53-8647-314ef2b091d2|Temel teklif|
-|fakülteler için Office 365 A1 (cihaz için)|0757d14e-7c57-456f-8DAB-47d164f2ff1f|Eklenti|
-|öğrenciler için Office 365 A1 (cihaz için)|bae285a9-d56b-4384-b02f-38adc61a6f12|Eklenti|
+|Microsoft 365 A1|778a4dce-0014-4d53-8647-314ef2b091d2|Temel teklif|
+|Office 365 A1 için Office 365 A1 (Cihaz için)|0757d14e-7c57-456f-8dab-47d164f2ff1f|Eklenti|
+|Office 365 A1 için Office 365 A1 (Cihaz için)|bae285a9-d56b-4384-b02f-38adc61a6f12|Eklenti|
 
-Aşağıda bu tekliflerin nasıl çalıştığı hakkında bir Özet verilmiştir:
+Aşağıda, bu tekliflerin nasıl iş sunduğuna bir özet verilmiştir:
 
-- Dönem, 72 ay veya altı yıl içindir
-- Abonelik yenilenmez ve altı yıl sonra sona erer
-- Teklifin faturalandırma sıklığı yıllık olarak gösterilir, ancak abonelik alındıktan sonra iş ortağının ilk faturasında ön faturalandırılır
-- A1 72-ay teklifleri için abonelikler satın alma işleminden sonra kilitlidir ve iptal edilemez ve ilk satın alma işleminden sonra lisans sayıları aboneliğe eklenemez
-- Bu abonelik iptal edilemez ve reddedilmeyen.
+- Süre 72 ay veya altı yıldır
+- Abonelik yenilenmedi ve altı yıl sonra süresi doldu
+- Teklifte faturalama sıklığı yıllık olarak gösterir, ancak iş ortağı, aboneliği edindikten sonra ilk faturalarında ön faturaya yansıtıldı
+- 72 aylık A1 tekliflerine ait abonelikler satın alma sonrasında kilitlenir ve iptal edilir ve ilk satın alma sonrasında lisans sayıları aboneliğe ek olamaz
+- Bu abonelik iptal edilemez ve para iadesi alınamaz.
 
 ## <a name="estimated-retail-price-erp"></a>Tahmini perakende fiyatı (ERP)
 
-Çoğu fiyat listesi, bir liste fiyatını, ortağın faturalandırılan fiyatını ve tahmini perakende fiyatını içerir. Tahmini perakende fiyatı (ERP), Microsoft 'un önerdiği perakende fiyatı veya MSRP olarak da adlandırılır. Bu iki değer olan ERP ve MSRP, bir müşteri ürünleri doğrudan Microsoft 'tan satın aldıysanız ürünlerin tahmini pazar değerini temsil eder. Her ürün veya hizmet türü için ERP/MSRP ayrıntılarının nerede bulunacağı aşağıda verilmiştir. 
+Çoğu fiyat listesinde liste fiyatı, iş ortağının faturalandırmış olduğu fiyat ve tahmini perakende fiyatı yer alıyor. Tahmini perakende fiyatı (ERP), Microsoft tarafından önerilen perakende fiyatı veya MSRP olarak da ifade edilmektedir. Erp ve MSRP olmak üzere bu iki değer, bir müşterinin ürünleri doğrudan Microsoft'tan satın almaları gerektirse ürünlerin tahmini pazar değerini temsil eder. Her ürün veya hizmet türü için ERP/MSRP ayrıntıları aşağıda verilmiştir. 
 
 
 |**Ürün veya Hizmet**        |**ERP ve MSRP fiyat listesi ayrıntıları**      |
 |:-----------   |:-----------   |
 |Ürün veya Hizmet  |ERP ve MSRP fiyat listesi ayrıntıları  |
 |Lisans tabanlı hizmetler  |Lisans tabanlı fiyat listelerinde ERP olarak listelenir  |
-|Azure kullanım tabanlı hizmetler  |, Paylaşılan hizmetler eşdeğer fiyat listelerinde bulunabilir  |
-|Azure rezervasyonları  |, Paylaşılan hizmetler eşdeğer fiyat listelerinde bulunabilir  |
-|Azure planı kullanımı tabanlı  |Fiyatlar perakende, indirimli olmayan fiyat sayfalarıdır  |
-|Azure plan ayırmaları  |Azure ayırmaları paylaşılan hizmetleri fiyat listelerine başvur  |
-|Yazılım abonelikleri  |Yazılım abonelikleri fiyat listelerinde MSRP olarak listelendi  |
-|Market  |Market fiyat listelerinde MSRP olarak listelendi  |
+|Azure kullanım tabanlı hizmetler  |Paylaşılan Hizmetler eşdeğer fiyat listelerinde bulunabilir  |
+|Azure rezervasyonları  |Paylaşılan Hizmetler eşdeğer fiyat listelerinde bulunabilir  |
+|Azure planı kullanım tabanlı  |Fiyatlar perakendedir, fiyat fiyatlarında indirimsizdir  |
+|Azure planı rezervasyonları  |Azure rezervasyonları paylaşılan hizmetler fiyat listelerine bakın  |
+|Yazılım abonelikleri  |Yazılım abonelikleri fiyat listelerinde MSRP olarak listelenir  |
+|Market  |Market fiyat listelerinde MSRP olarak listelenir  |
 
 Daha fazla kaynak: 
 
 - [Azure planı fiyatlandırması](azure-plan-price-list.md)
-- [Azure fiyatlandırmasına genel bakış](https://azure.microsoft.com/pricing/)
+- [Azure fiyatlandırmaya genel bakış](https://azure.microsoft.com/pricing/)

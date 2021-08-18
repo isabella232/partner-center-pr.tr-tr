@@ -9,12 +9,12 @@ metadata:
   author: JasonWHowell
   ms.author: jasonh
   ms.date: 03/12/2021
-  ms.openlocfilehash: 13c7755a8dcb62ffe5672419bbc64c20818a424967a5e7dec34895c3c4b42b4e
-  ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+  ms.openlocfilehash: f9e92bbc8f1787b94a710d7a089b289bed61e6e3
+  ms.sourcegitcommit: 815760499700bf2c947550524cbddd091622081f
   ms.translationtype: MT
   ms.contentlocale: tr-TR
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "115688684"
+  ms.lasthandoff: 08/13/2021
+  ms.locfileid: "121915012"
 landingContent:
 - title: Microsoft AppSource
   linkLists:
@@ -42,8 +42,8 @@ landingContent:
       url: /azure/partner-solutions/overview
   - linkListType: how-to-guide
     links:
-    - text: Özel Azure Market oluşturma ve yönetme (önizleme)
-      url: create-manage-private-azure-marketplace.md
+    - text: Özel Azure Market oluşturma ve yönetme
+      url: create-manage-private-azure-marketplace-new.md
 - title: Genel senaryolar
   linkLists:
   - linkListType: concept
