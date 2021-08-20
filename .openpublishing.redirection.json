@@ -544,6 +544,11 @@
             "source_path": "partner-center/pci-training-dashboard.md",
             "redirect_url": "/partner-center/insights-training-dashboard",
             "redirect_document_id": "true"
+        },
+        {
+            "source_path": "partner-center/analyze-your-marketing-profile.md",
+            "redirect_url": "/partner-center/referral-leads-insights",
+            "redirect_document_id": "true"
         }
     ]
 }
