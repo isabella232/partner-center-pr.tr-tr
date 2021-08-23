@@ -8,12 +8,12 @@ description: Belgede çeşitli raporlar ve bunların veri tanımları listelenmi
 author: v-sausharma
 ms.author: v-sausharma
 ms.localizationpriority: medium
-ms.openlocfilehash: 8af7b881b76b9a3adeed97b69da70bc3c16ffc4b
-ms.sourcegitcommit: 7c0dc665ca5e908de884003aebdd14889fcce5dc
+ms.openlocfilehash: e2409dcbfd2a9de677ef4ec79bf8749072859325
+ms.sourcegitcommit: a0afd7765a1a04dc603e096510fd9c138238a7cb
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "122514177"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "122681859"
 ---
 # <a name="referral-analytics-export--data-definitions"></a>Referans analizi dışarı aktarma – Veri tanımları
 
@@ -57,9 +57,9 @@ Veri tanımlarıyla birlikte indirebilirsiniz çeşitli raporlar aşağıdaki ta
 |   Anlaşma Yönü  |   Anlaşma yönü: Gelen ve Giden    |
 |   Anlaşma para birimi   |   Anlaşma para birimi    |
 |   Tahmini Satış Değeri    |   İş ortağı tarafından sağlanan tahmini satış değeri    |
-|   Tahmini Anlaşma değeri (USD)  |   İş ortağı tarafından ABD doları olarak sağlanan tahmini satış anlaşması değeri |
-|   Çözüm Kimliği     |   Çözümün kimliği  |
-|   Çözüm Adı   |   Çözümün adı    |
+|   Tahmini Anlaşma değeri (USD)  |   İş ortağı tarafından ABD doları olarak sağlanan tahmini satış değeri |
+|   Çözüm Kimliği     |   Çözüm kimliğinin listesi |
+|   Çözüm Adı   |   Çözüm adlarının listesi  |
 |   MPN Kimliği  |   İş ortağının Microsoft iş ortağı ağ kimliği |
 |   İş Ortağı Adı    |   İş ortağının adı |
 |   Anlaşma kimliği |   Anlaşma kimliği  |
@@ -69,9 +69,9 @@ Veri tanımlarıyla birlikte indirebilirsiniz çeşitli raporlar aşağıdaki ta
 |   Kayıtlı kişi adı   |   Anlaşma kaydı sırasında sağlanan iş ortağı ilgili kişinin adı |
 |   Kayıtlı kişi soyadı    |   Anlaşma kaydı sırasında sağlanan iş ortağı ilgili kişinin soyadı  |
 |   Kayıtlı kişi e-postası    |   Anlaşma kaydı sırasında sağlanan iş ortağı ilgili kişisi e-postası  |
-|   Kayıtlı iletişim telefon numarası |   Telefon kayıt sırasında sağlanan iş ortağı kişisi sayısı. Buna yazılım ve hizmet ücretleri dahildir, ancak donanım maliyetleri dahil değildir   |
+|   Kayıtlı iletişim telefon numarası |   Telefon kayıt sırasında sağlanan iş ortağı kişisi sayısı   |
 |   Sözleşme Para Birimi   |   Anlaşma kaydı sırasında sağlanan sözleşmenin para birimi  |
-|   Sözleşme Değeri  |   Satış anlaşması kaydı sırasında sağlanan toplam sözleşme değeri  |
+|   Sözleşme Değeri  |   Satış anlaşması kaydı sırasında sağlanan toplam sözleşme değeri. Buna yazılım ve hizmet ücretleri dahildir, ancak donanım maliyetleri dahil değildir  |
 |   Sözleşme Değeri (USD)    |   Satış anlaşması kaydı sırasında sağlanan toplam sözleşme değeri (USD)   |
 |   Sözleşme Başlangıç Tarihi |   Anlaşma kaydı sırasında sağlanan sözleşmenin başlangıç tarihi    |
 |   Sözleşme Bitiş Tarihi   |   Anlaşma kaydı sırasında sağlanan sözleşmenin bitiş tarihi  |
