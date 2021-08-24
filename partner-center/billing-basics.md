@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b3d498afef9997f1537cfe15b1fef93471d23ec50b43acd467f0e1c7aafd1434
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: f594b7d39234080e2c3f99c05a2e64fdaa18f0dd
+ms.sourcegitcommit: 38afe7e35e3dce4f35cf7352cc98e3d53e979a62
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115693002"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "122752109"
 ---
 # <a name="billing-overview-for-csp-program-partners-working-in-partner-center"></a>İş Ortağı Merkezi’nde çalışan CSP programı iş ortakları için faturalamaya genel bakış 
 
@@ -47,7 +47,7 @@ Iş ortağı merkezindeki faturalandırma türleri **Lisans tabanlı faturaland�
 
 **Lisans tabanlı ve kullanım tabanlı faturalandırma**: ürün (ler) in bulunduğu ülkenin veya bölgenin para birimi cinsinden faturalandırılırsınız. Ürün (ler) i sattığınız müşterinin konumundan bağımsız olarak faturalandırılırsınız.
 
-**Tek seferlik faturalandırma**: 15 Ocak 2021 tarihinden ıtıbaren, AB/EFTA ve Birleşik Krallık bölgesindeki iş ortakları ve yeni müşteriler ve mevcut CSP müşterileri, kiracıların 11 Mayıs 2020 ' den önce oluşturulduğu ilk kez yeni ticaret teklifleri satın alarak, iş ortağı konumu para birimi için bu Satınalmalar için faturalandırılır. AB/EFTA ve UK bölgesinin dışında bulunan iş ortakları, iş ortağı konumu para birimiyle faturalandırılmaya devam edecektir. [Kerelik ve yineleniyor](azure-plan-billing.md)hakkında daha fazla bilgi edinin. 
+**Tek seferlik faturalandırma**: 2021 Ağustos 'tan itibaren, ürün (ler) i sattığı müşterinin konumundan bağımsız olarak tüm iş ortakları iş ortağı konumu para birimiyle faturalandırılacaktır. [Kerelik ve yineleniyor](azure-plan-billing.md)hakkında daha fazla bilgi edinin. 
 
 ## <a name="invoices"></a>Faturalar
 

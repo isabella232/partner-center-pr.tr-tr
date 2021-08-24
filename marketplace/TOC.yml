@@ -4,7 +4,7 @@
   items:
     - name: Hakkında
       href: appsource-overview.md
-    - name: Yazılım satın alma
+    - name: Satın alma yazılımı
       href: purchase-software-appsource.md
     - name: Özel planlar
       href: appsource-private-plans.md
@@ -14,8 +14,10 @@
       href: azure-marketplace-overview.md
     - name: Satın alma
       href: azure-purchasing-invoicing.md
-    - name: Azure portal'da SaaS Teklifi satın alma
+    - name: Azure portal SaaS teklifi satın alma
       href: purchase-saas-offer-in-azure-portal.md
+    - name: SaaS Abonelik yaşam döngüsü yönetimi
+      href: saas-subscription-lifecycle-management.md
     - name: Ödeme ve faturalama
       href: billing-invoicing.md
     - name: Azure tüketim taahhüdü avantajı
@@ -32,7 +34,7 @@
           href: create-manage-private-azure-marketplace.md
     - name: Özel Azure Market’i yönetme - PowerShell
       href: manage-private-azure-marketplace-powershell.md
-    - name: İş ortaklarının çözümleriyle Azure'ın süresini genişletme
+    - name: Azure 'ı iş ortaklarının çözümleriyle genişletme
       href: /azure/partner-solutions/overview
 - name: Genel kaynaklar
   items:

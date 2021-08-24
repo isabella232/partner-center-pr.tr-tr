@@ -7,13 +7,13 @@ ms.reviewer: dannyevers
 ms.service: marketplace
 ms.subservice: partnercenter-marketplace-publisher
 ms.topic: how-to
-ms.date: 06/29/2021
-ms.openlocfilehash: 2514bea646492e25748b26ec69b3fccb6052daa6
-ms.sourcegitcommit: 815760499700bf2c947550524cbddd091622081f
+ms.date: 08/05/2021
+ms.openlocfilehash: 4f83d5c85f0316ad5c9d9ad75ca6519b5940146f
+ms.sourcegitcommit: 38afe7e35e3dce4f35cf7352cc98e3d53e979a62
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "121914925"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "122752108"
 ---
 # <a name="purchase-a-saas-offer-in-azure-portal"></a>Azure portal bir SaaS teklifi satın alma
 
@@ -108,26 +108,26 @@ Yapılandırma işlemini *30 gün* içinde tamamlamazsanız, bu SaaS aboneliği 
   - BT yöneticinize başvurun
 
 - İstenen faturalandırma dönemi boş veya geçersiz olduğundan satın alma başarısız oldu.
-  - Farklı bir plan / faturalama dönemi satın alma denemesi.
+  - Farklı bir plan/fatura dönemi satın almayı deneyin.
 
-- Yasal anlaşmada imzalama işleminizi doğrulayamamız nedeniyle satın alma işlemi başarısız oldu.
-  - Yeni -den deneme. Hata devam ederse, farklı Azure aboneliğini kullanarak satın alma denemesi yapmaya veya de destekle iletişime geçin.
+- Oturumunuz, yasal anlaşmada oturum açmanızı doğrulayamadığından başarısız oldu.
+  - Retry. Hata devam ederse, satın almayı farklı Azure aboneliği kullanarak yapmayı deneyin veya desteğe başvurun.
 
-- Publisher *PublisherID* *tarafından teklif offerID* satın alma işlemi başarısız oldu. Bu teklif şu anda satın alma için kullanılamaz.
-  - Daha sonra tekrar deneyin. Bir saat sonra bu hata iletisini almaya devam ediyorsanız lütfen de destekle iletişime geçin.  
+- Yayımcı *publisherID* Ile teklif *OfferId* 'si satın alma başarısız oldu. Bu teklif şu anda satın alma için kullanılabilir değil.
+  - Daha sonra tekrar deneyin. Bu hata iletisini almak için bir saatten sonra lütfen desteğe başvurun.  
 
-- Publisher *PublisherID* *tarafından teklif offerID* *planID'lerinin* satın alma işlemi başarısız oldu. Bu plan şu anda satın alma için kullanılamaz.
-  - Daha sonra tekrar deneyin. Bir saat sonra bu hata iletisini almaya devam ediyorsanız lütfen de destekle iletişime geçin. 
+- Yayımcı *publisherID* Ile teklif *OfferId* planının plan *PlanID* 'si satın alınamadı. Bu plan şu anda satın alma için kullanılabilir değil.
+  - Daha sonra tekrar deneyin. Bu hata iletisini almak için bir saatten sonra lütfen desteğe başvurun.
 
-- ObjectID *nesne kimliğine* sahip istemci *e-posta* adresinin ResourceGroup kapsamı üzerinde *DeploymentValidationAction eylemi* gerçekleştirme yetkisi *yoktur; DeploymentScope* veya kapsam geçersiz.  
-  - Azure aboneliği/Kaynak Grubu üzerinde doğru izinlere sahip değilsanız bu iletiyi alırsınız.  
-    Erişim kısa süre önce verildi ise lütfen kimlik bilgilerinizi yenileyin.  
-    Kaynakları bir kaynak grubuna dağıtmak için en azından Katkıda Bulunan erişiminizin olması gerekir. Kaynak Grupları altında erişim durumunu **kontrol edin ve** sonra **Access Control.** Bu, sizi 'Katkıda Bulunan' olarak atamak istediğiniz 'Sahip'in kim olduğunu gösterir.
+- Nesne kimliği *ObjectID* olan istemci *e-posta adresinin* , kapsam ResourceGroup üzerinde eylem *deploymentvalidationaction* gerçekleştirme yetkilendirmesi yok *; DeploymentScope* veya kapsam geçersiz.  
+  - Azure aboneliğinde/kaynak grubunda doğru izinleriniz yoksa, bu iletiyi alırsınız.  
+    Erişim yakın zamanda verildiyse, lütfen kimlik bilgilerinizi yenileyin.  
+    Kaynakları bir kaynak grubuna dağıtmak için en az katkıda bulunan erişiminizin olması gerekir. **Kaynak grupları** altında erişim durumunuzu denetleyip **Access Control**. ' Sahip ' ne olduğunu, sizi ' katkıda bulunan ' olarak atamayı istemediğinizi gösterir.
 
-- Bu satın alma için kullanılan abonelik Market satın almalarına izin vermez.  
-  - Lütfen farklı bir abonelik kullanın veya yöneticinizden bu abonelik için tanımı değiştirmesini ve yeniden denemesini sorun.
+- Bu satın alma için kullanılan abonelik Market satın alımlara izin vermez.  
+  - Lütfen farklı bir abonelik kullanın veya yöneticinizden bu aboneliğin tanımını değiştirmesini isteyin ve yeniden deneyin.
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-- Markette zaten bir teklif satın aldıysanız [Faturalama'ya gidin](./billing-invoicing.md)
-- Özel planlar seçenekleri hakkında daha fazla [bilgi de öğrenebilirsiniz.](./private-plans.md)
+- Market 'te zaten bir teklif satın aldıysanız [faturalandırma ve faturalama](billing-invoicing.md) ' ya gidin.
+- [Özel planlar](private-plans.md) hakkında daha fazla bilgi edinin

@@ -9,20 +9,20 @@ author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 750dd081ea9486173b933e290c7c186f8e0844016c92100d828f1fdc0fa765b5
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 2bd1cf460002f2cdacaaec3581dc4602f3d35b21
+ms.sourcegitcommit: 38afe7e35e3dce4f35cf7352cc98e3d53e979a62
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115680847"
+ms.lasthandoff: 08/23/2021
+ms.locfileid: "122752143"
 ---
 # <a name="price-list-for-the-new-commerce-experience-in-csp-for-azure"></a>Azure için CSP'de yeni ticari deneyim için fiyat listesi
 
 **Uygun roller**: yönetici Aracısı | Faturalandırma Yöneticisi | Genel yönetici | Yardım Masası Aracısı | Satış Aracısı | Kullanıcı Yönetimi Yöneticisi
 
-CSP 'de yeni Azure ticaret deneyimi için gerçek zamanlı fiyatlar, gerçek zamanlı olarak Iş ortağı merkezinde dinamik olarak dağıtılır. Fiyatlar yalnızca USD olarak gösterilir. 28 Ocak 2021 tarihinden itibaren, yeni veya mevcut CSP müşterilerinin bulunduğu AB/EFTA ve Birleşik Krallık bölgesindeki tüm iş ortakları ilk kez yeni ticaret teklifleri satın almakta ve bu kiracılar 11 Mayıs 2020 tarihinden önce oluşturulmuştur ve bu kiracılar iş ortağının konum para birimiyle faturalandırılır. AB/EFTA ve UK bölgesinin dışında bulunan iş ortakları, iş ortağı konumu para birimiyle faturalandırılmaya devam edecektir. Daha fazla bilgi için bkz. [Azure planı-faturalandırma](azure-plan-billing.md).
+CSP 'de yeni Azure ticaret deneyimi için gerçek zamanlı fiyatlar, gerçek zamanlı olarak Iş ortağı merkezinde dinamik olarak dağıtılır. Fiyatlar yalnızca USD olarak gösterilir. 2021 Ağustos 'Tan itibaren, ürün (ler) i sattığı müşterinin konumundan bağımsız olarak tüm iş ortakları iş ortağı konumu para biriminde faturalandırılır. Daha fazla bilgi için bkz. [Azure planı-faturalandırma](azure-plan-billing.md).
 
-CSP 'de Azure için sunulan yeni ticaret deneyiminin bir parçası olarak [Yeni bir Azure teklifi sunuyoruz](./azure-plan-lp.md). Önceki Azure teklifiyle ilgili önemli tarihler (MS-AZR-0145p) için [Teklif belgesine](https://go.microsoft.com/fwlink/p/?linkid=2164140)bakın.
+CSP'de Azure için yeni ticaret deneyimi kapsamında [yeni bir Azure teklifi](./azure-plan-lp.md) sunuyoruz. Önceki Azure teklifinin (MS-AZR-0145p) önemli tarihleri için [teklif belgesine](https://go.microsoft.com/fwlink/p/?linkid=2164140) bakın.
 
 21 Temmuz 2021 *tarihinden önce* kaydolduysanız
 - Önceki Azure teklifini fiyat listesinde görmeye devam edersiniz.
@@ -103,16 +103,16 @@ Bu örnekte 101 birim kullanılırsa ücret 100,80 olur. İlk 100 birim her biri
 
 ## <a name="pricing-api-for-azure-plan"></a>Azure planı için fiyatlandırma API'si
 
-Program aracılığıyla tüketim [ve rezervasyonlar](/partner/develop/pricing) için Azure planı fiyatlandırmasını almak üzere fiyatlandırma API'sini kullanabilirsiniz. Ayrıca döviz kurlarını da alın.
+Program aracılığıyla tüketim [ve rezervasyonlar](/partner/develop/pricing) için Azure planı fiyatlandırmasını almak üzere fiyatlandırma API'sini kullanabilirsiniz. Ayrıca döviz kurlarını da alırsiniz.
 
-Fiyatlandırma API'si, diğer api'lerden farklı İş Ortağı Merkezi uç noktadadır. Fiyatlandırma bilgileri, Azure planı kaynakları için ABD doları olarak ölçüm fiyatlandırması ve Azure planı abonelikleri için uygulanan rezervasyon fiyatlandırması içerir.
+Fiyatlandırma API'si diğer api'lerden farklı bir uç İş Ortağı Merkezi sahiptir. Fiyatlandırma bilgileri, Azure planı kaynakları için ABD doları olarak ölçüm fiyatlandırması ve Azure planı abonelikleri için uygulanan rezervasyon fiyatlandırması içerir.
 
 Azure planı fiyatlandırması yalnızca ABD doları olduğundan bu API iş ortaklarının aylık döviz kurlarını almalarına da olanak sağlar. API'leri kullanarak geçerli aya veya önceki aya yönelik hem fiyatlandırma hem de döviz kurlarını almak için kullanabilirsiniz.
 
 > [!NOTE]
-> Fiyatlandırma API'si, Azure planı fiyatlandırması için özeldir. Azure planı olmayan aboneliklere dağıtılan Rezervasyonlar veya Azure kaynakları için İş Ortağı Merkezi'nin "Fiyatlandırma ve teklifler" sayfasına gönderilen mevcut RateCard API'sini ve fiyat listelerini kullanmaya devam edebilirsiniz. Azure planı fiyatlandırma API'si yazılım, market veya Microsoft 365 veya Dynamics 365 gibi lisans tabanlı fiyatlandırmayı desteklemez.
+> Fiyatlandırma API'si, Azure planı fiyatlandırması için özeldir. Azure planı olmayan aboneliklere dağıtılan Rezervasyonlar veya Azure kaynakları için İş Ortağı Merkezi sayfasında gönderilen mevcut RateCard API'sini ve fiyat listelerini kullanmaya devam edebilirsiniz. Azure planı fiyatlandırma API'si yazılım, market veya Microsoft 365 veya Dynamics 365 gibi lisans tabanlı fiyatlandırmayı desteklemez.
 
-Azure planı fiyatlandırması ve döviz kuru API'leri hakkında daha fazla bilgi için tüm fiyatlandırma [API'si belgelerine bakın.](/partner/develop/pricing)
+Azure planı fiyatlandırması ve döviz kuru API'leri hakkında daha fazla bilgi için fiyatlandırma [API'si belgelerinin tamamını inceleyin.](/partner/develop/pricing)
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
