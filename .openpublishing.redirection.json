@@ -549,6 +549,11 @@
             "source_path": "partner-center/analyze-your-marketing-profile.md",
             "redirect_url": "/partner-center/referral-leads-insights",
             "redirect_document_id": "true"
+        },
+        {
+            "source_path": "partner-center/new-commerce-license-based.md",
+            "redirect_url": "/partner-center/azure-plan-billing",
+            "redirect_document_id": "true"
         }
     ]
 }
