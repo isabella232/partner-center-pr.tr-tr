@@ -1,44 +1,44 @@
 ---
-title: Azure Market 'te özel teklifler
-description: Azure Marketi 'ndeki özel teklifler hakkında bilgi edinin.
+title: Azure Market'de özel planlar
+description: Azure Market'daki özel planlar hakkında bilgi Azure Market.
 ms.service: marketplace-customer
 ms.topic: article
 author: Guyshu
 ms.author: gushuchm
-ms.date: 06/03/2021
-ms.openlocfilehash: e8a0f0811364de1c012cea7c54bb7b41833d6ce7127d8737c694a3dbc0666ad7
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.date: 08/27/2021
+ms.openlocfilehash: d8c55ce8f6a0c5da3bf2f02c899196e8fd6fd2e0
+ms.sourcegitcommit: fe0920740ef9f461b38cc20bac41192552466405
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115688477"
+ms.lasthandoff: 08/27/2021
+ms.locfileid: "123088524"
 ---
-# <a name="private-plans-in-azure-marketplace"></a>Azure Marketi 'nde özel planlar
+# <a name="private-plans-in-azure-marketplace"></a>Azure Market'de özel planlar
 
-Özel planlar, yayımcıların belirli müşterilere özel planlar sağlamalarına göre yapılır. Özel planlar yalnızca satın alınabilecek ve Azure portal doğrudan yüklenebilen ücretli tekliflerle kullanılabilir. Yayımcılar, Portal 'dan yüklenip yüklenemediğine bakılmaksızın danışmanlık hizmetleri için bir eylem çağrısı veya ücretsiz **hizmeti olan herhangi** bir hizmet için özel planlar oluşturamaz.
+Özel planlar, yayımcıların belirli müşterilere özel planlar sağlamalarıdır. Özel planlar yalnızca satın alınarak doğrudan satın alınarak doğrudan yük kullanılabilen ücretli ürünler için Azure portal. Yayımcılar, portaldan yüklenip yüklenememelerinden bağımsız olarak danışmanlık hizmetleri, eylem çağrısı olarak Benimle iletişime geçen herhangi bir hizmet veya ücretsiz hizmet için özel planlar oluşturamaz. 
 
-## <a name="find-private-plans-in-the-azure-portal"></a>Azure portal özel planlar bulun
+## <a name="find-private-plans-in-the-azure-portal"></a>Özel planları Azure portal
 
-Bir iş ortağı özel bir plan yayımladığında, yalnızca Azure portal **Market** bölümündeki uygun kullanıcılar tarafından görülebilir. Bu kullanıcılar, teklif türüne bağlı olarak abonelik KIMLIĞI veya kiracı KIMLIĞI tarafından tanımlanır. Özel planlara uygunsanız, bunları portalda bulmanın iki yolu vardır.
+Bir iş ortağı özel bir plan yayımlasa, yalnızca ilgili planın **Market** bölümünde uygun kullanıcılar Azure portal. Bu kullanıcılar, teklif türüne bağlı olarak abonelik kimliğine veya kiracı kimliğine göre tanımlanır. Özel planlar için uygunsanız, bunları portalda bulmanın iki yolu vardır.
 
 > [!NOTE]
-> Özel planlar Azure portal aranabilir ancak filtrelenebilir değil (kategoriye göre).
+> Özel planlar arama için kullanılabilir ancak bu planlarda filtrelenebilir (kategoriye göre) Azure portal.
 
-Azure portal, **Market** sayfasına gitmek için **+ kaynak oluştur** ' u seçin veya "Market" araması yapın. Özel planlara uygunsanız, sayfanın üst kısmında **özel planlar kullanılabilir başlık olduğunu** görürsünüz. Özel planlar sayfanıza gitmek için **özel teklifleri görüntüle + planlar** ' ı seçin.
+Bu Azure portal + Kaynak **oluştur'a tıklayın veya** Market sayfasına gitmek için "market" **araması** oluşturun. Özel planlar için uygunsanız sayfanın üst  kısmında Özel ürünler var başlığı görüntülenir. Özel **planlar sayfanıza** gitmek için Özel ürünleri görüntüle'yi seçin.
 
-:::image type="content" source="media/private-offers/private-offers-banner.png" alt-text="Özel planlarınız varsa görüntülenen başlık.":::
+:::image type="content" source="media/private-offers/private-products-banner.png" lightbox="media/private-offers/private-products-banner.png" alt-text="Kullanılabilir özel ürünleriz olduğunda gösteren başlık.":::
 
 ## <a name="review-private-plans"></a>Özel planları gözden geçirme
 
-Özel bir plan, bir teklifte çeşitli planların bir parçasıdır. Her teklifin hem genel hem de özel birden çok planı olabilir, ancak özel planlar genel planlardan ayrı bir liste altında gösterilir.
+Özel plan, bir üründe yer alan çeşitli planların bir parçasıdır. Her ürünün hem genel hem de özel olmak için birden çok planı olabilir, ancak özel planlar genel planlardan ayrı bir liste altında gösterilir.
 
-Kullanılabilir özel planları, farklı bir **özel** rozet Ile işaretlenmiş **planlar** sekmesinde görebilirsiniz:
+Kullanılabilir özel planları Planlar sekmesinde, belirgin bir **Özel** rozetle işaretlenmiş **olarak** görebilirsiniz:
 
-:::image type="content" source="media/private-offers/private-badge.png" alt-text="Özel olarak işaretlenen planların bir sayfası.":::
+:::image type="content" source="media/private-offers/private-badge.png" alt-text="Özel olarak işaretlenmiş planların sayfası.":::
 
-Birden fazla aboneliğiniz varsa tüm abonelikleriniz için kullanılabilir olan tüm özel planları görürsünüz. **Oluştur**' u seçtiğinizde, kaynağı yapılandırmaya başlamak için kaynak oluşturma sayfasına yönlendirilir.
+Birden fazla aboneliğiniz varsa tüm abonelikleriniz için kullanılabilen tüm özel planların olduğunu göreceğiz. **Oluştur'ı** seçerek kaynağınızı yapılandırmaya başlamak için kaynak oluşturma sayfasına yönlendirildiniz.
 
-**Oluştur** ve birden çok abonelik varsa, ancak bunların tümü özel plana eklendiyse, varsayılan aboneliğiniz bu özel plana uygun abonelik olmayabilir. Bu durumda, doğru aboneliği seçin.
+**Oluştur'a** tıklayın ve birden çok aboneliğiniz varsa ancak bunların hepsi özel plana eklenmezse, varsayılan aboneliğiniz bu özel plan için uygun abonelikte yer almayabilirsiniz. Bu durumda doğru aboneliği seçin.
 
 :::image type="content" source="media/private-offers/select-correct-subscription.png" alt-text="Daha fazla özel plan olduğunu gösteren bağlantı.":::
 

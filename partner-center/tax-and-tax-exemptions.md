@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5b4352be4f51ba02aed5f7c4d1f94eedca5d26990c69e220728d47c58f640856
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 2b79943185cbd940b164508ee8ac14203ddeccb8
+ms.sourcegitcommit: fe0920740ef9f461b38cc20bac41192552466405
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115695756"
+ms.lasthandoff: 08/27/2021
+ms.locfileid: "123088580"
 ---
 # <a name="read-about-taxes-and-tax-exemption-details-by-region-or-country-for-partners-in-the-csp-program"></a>CSP programındaki iş ortakları için bölge veya ülkeye göre vergiler ve vergi muafiyet ayrıntıları hakkında bilgi edinin
 
@@ -33,13 +33,15 @@ Vergileri ücretlendirdiği başka bir ülke veya bölgedeyse [diğer bölgelere
 
 ### <a name="canada"></a>Kanada
 
-Satıcıların çoğu, mal ve hizmet vergi (GST)/uyumlanmış satış vergisi (HST)/Quebec satış vergisinden (QST) muaf değildir. Muafiyet için uygun olup olmadığınızı ve Microsoft 'a sağlamanız gereken belgeleri belirlemek için vergi danışmanınıza başvurun.
+Satıcıların çoğu, mal ve hizmet vergi (GST)/uyumlanmış satış vergisi (HST)/Quebec satış vergisinden (QST) muaf değildir. Muafiyet için uygun olup olmadığınızı ve Microsoft 'a sağlamanız gereken belgeleri belirlemek için vergi danışmanınıza başvurun. Vergi, Kanada: GST/HST ve PST/QST için iki ayrı satırda görüntülenecektir.
 
 Bir BC eyaletinin satış vergisi (PST) muafiyeti için, açıklandığı şekilde bir vergi muafiyeti dosyası yapın. BC PST # veya tamamlanmış ve imzalı bir *Muafiyet sertifikasını genel olarak* sağlayın.
 
 ### <a name="united-states"></a>Birleşik Devletler
 
 Birleşik Devletler tüm satıcıların, Microsoft satıcı sözleşmesinin kabul edilmesi için 30 gün içinde satış vergisi muafiyeti belgelerinin sağlanması beklenmektedir. Her durumun, el satımak için farklı muafiyet sertifikaları vardır. Yasal adresiniz ve kayıtlı durumlarınızla ilgili neleri belirlemek için vergi danışmanınızla birlikte çalışın.
+
+ABD 'de, Porto Riko, satış ve kullanım vergisi dahil olmak üzere ayrı olarak belirtilmelidir.  Microsoft faturasında geçerli olan 2021, aksi belirtilmediği takdirde vergi ayrı olarak belirtilir.  Ayrıca, Porto Riko vergi, uluslar ve Municipal düzeyinde Ayrıca, vergi ve Municipal vergi olarak belirtilir.
 
 Bu, *satışa yönelik satış* ve *kullanım vergisi sözleşmesi Sertifikası* ya da *MTC Tekdüzen satış & kullanım vergisi muafiyet sertifikası* gibi birden çok durum genelinde çalışan yeniden Satım muafiyet sertifikalarını içerebilir.
 
