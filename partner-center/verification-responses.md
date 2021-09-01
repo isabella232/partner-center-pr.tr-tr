@@ -4,51 +4,50 @@ ms.topic: article
 ms.date: 01/14/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-enroll
-description: Yeni bir İş Ortağı Merkezi programına kaydolmaya çalışırken hesap doğrulama durumunu izleyin. Gerekirse ek bilgileri nasıl temin etmeyi öğrenin.
+description: Yeni bir Iş Ortağı Merkezi programına kaydolmaya çalışırken hesap doğrulamanın durumunu izleyin. Gerekirse ek bilgi sağlamayı öğrenin.
 author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6c119f46d0eb6f37e035037dc554e545770f5f5f21497ef184f7bcc1629915a8
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 64acff2ff7d518e549f4c90ba898496c522550a7
+ms.sourcegitcommit: 7607ab0e3255f7184332e457366a9ddbfe305f35
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115681102"
+ms.lasthandoff: 08/31/2021
+ms.locfileid: "123275990"
 ---
-# <a name="verify-your-account-information-when-you-enroll-in-a-new-partner-center-program"></a>Yeni bir İş Ortağı Merkezi programına kaydolarak hesap İş Ortağı Merkezi doğrulayın
+# <a name="verify-your-account-information-when-you-enroll-in-a-new-partner-center-program"></a>Yeni bir İş Ortağı Merkezi programına kaydolurken hesap bilgilerinizi doğrulama
 
-**Uygun roller:** Genel yönetici | MPN iş ortağı yöneticisi
+**Uygun roller**: genel yönetici | MPN iş ortağı Yöneticisi
 
-İş Ortağı Merkezi'da yeni bir programa kaydolarak, Microsoft kaydınızı (örneğin, şirket adınız, şirket adresiniz ve birincil iletişim ayrıntıları) doğrular. Bu işlem sırasında Microsoft, daha fazla doğrulama belgesi talep etmek için birincil ilgili kişinize e-posta gönderebilir.
+Iş Ortağı Merkezi 'nde yeni bir programa kaydettiğinizde, Microsoft kaydınızı, şirketinizin adı, şirket adresiniz ve birincil iletişim ayrıntıları gibi doğrular. Bu işlem sırasında, Microsoft daha fazla doğrulama belgesi istemek için birincil kişimize e-posta gönderebilir.
 
 >[!NOTE]
->E-postayı alasınız, e-postayı "güvenli" etki alanı Microsoft.com bayrakla işaretlemeyi ve Gereksiz e-posta klasörlerini denetlemeyi kontrol edin.
+>E-postayı aldığınızdan emin olmak için, Microsoft.com 'tan "güvenli" bir etki alanı olarak e-posta bayrağını ve istenmeyen e-posta klasörlerini kontrol ettiğinizden emin olun.
 
-Birincil kişi sizseniz (Genel yönetici veya Hesap yöneticisi), doğrulama durumunu izlemek ve ilerleme durumunu izlemek için İş Ortağı Profilinize gitmenizi öneririz.
+Birincil kişimiz (genel yönetici veya Hesap Yöneticisi) varsa, doğrulama durumunu izlemek ve ilerlemeyi izlemek için Iş ortağı profilinize gitmeniz önerilir.
 
-- Microsoft İş Ortağı Ağı (MPN) programı için Yasal [bilgiler'e gidin.](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile)
-- Bulut Çözümü Sağlayıcısı (CSP) programı için Yasal [bilgiler'e gidin.](https://partner.microsoft.com/pcv/accountsettings/partnerprofile)
+- Microsoft İş Ortağı Ağı (MPN) programı için [yasal bilgiler](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile)' e gidin.
+- Bulut Çözümü Sağlayıcısı (CSP) programı için [yasal bilgiler](https://partner.microsoft.com/pcv/accountsettings/partnerprofile)' e gidin.
 
+## <a name="what-is-verified-and-how-to-respond"></a>Doğrulanan ve yanıt verme
 
-## <a name="what-is-verified-and-how-to-respond"></a>Doğrulananlar ve nasıl yanıt verilenler
-
-| **Doğrulama türü**   | **Doğrulananlar**   | **Öneri**                                                                                        |
+| **Doğrulama türü**   | **Doğrulanan**   | **Bulunmak**                                                                                        |
 |----------------------------|:-----------------------------------|:-----------------------------------------------------------------------------------------------------|
-| E-posta sahipliği            | E-posta sahipliği, birincil iletişim adresinin (birincil e-posta) geçerli olduğunu doğrular. Birincil iletişim e-posta adresi izlenen ve e-posta gönderebilen/alabilen bir iş hesabı olmalıdır. **Şirket etki** alanıyla ilişkilendirilen kişisel bir e-posta adresi veya e-postayla ilişkilendirilen bir kiracı kullanıcı kimlik bilgisi kullanmaktan kaçının. (Örneğin jsmith@testcompany.onmicrosoft.com). | E-posta sahipliği doğrulama e-posta iletisi bir iş günü içinde gönderilmezse, e-postanın yeniden gönderilmelerini isteği gönderebilirsiniz. MPN veya [CSP](https://partner.microsoft.com/pcv/accountsettings/partnerprofile) profil [sayfanıza](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile) gidin ve Doğrulama e-postası **yeniden gönder'i seçin.** E-postayı "güvenli" Microsoft.com olarak işaretlemeyi ve Gereksiz e-posta klasörleri'ne bakabilirsiniz. Daha fazla yardım için [bir destek bileti oluşturun.](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?stage=2&topicid=b818ac05-8091-44a0-f9b4-6bb008a1ef54)|
-|Istihdam |İstihdam doğrulaması, birincil iletişim kişinizin kayıtlı şirketin bir çalışanı olduğunu onaylar. İlgili kişinin, şirkete ait bir e-posta etki alanında etkin bir e-posta adresine ihtiyacı vardır.|İş doğrulama reddedilirse birincil ilgili kişinin (normalde Genel veya Hesap Yöneticiniz) ilgili kişinin e-posta etki alanının işvereninin sahipliği altında olduğunu onaylayan belgeleri sağlaması gerekir. Daha fazla yardım için [bir destek bileti oluşturun.](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?stage=2&topicid=c34a5c81-a111-476d-11a4-81c808c37a6b) |
-| İş   | İş doğrulama, kayıtlı şirketin yasal bir iş varlığı olduğunu ve belirtilen adreste olduğunu onaylar. | Yasal işletme profilinizde şirket adının ve [adresinin yazım](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile) hatası ve kısaltmaları yoksayıp, bu hataların ücretsiz olduğunu onaylayın. Bu kayıtların, resmi şirket iş kaydı kayıtlarınıza tam olarak eşleşmesi gerekir. Uygunsa, bazı dış veri kaynaklarında (dış şirket veritabanları, ör. Dun & Bradstreet (DUNS ID) veya durum kayıt defteri) bulunan eşleşmeyi seçin.<br /><br />Microsoft birincil ilgili kişiden (normalde Genel yöneticiniz veya Hesap yöneticiniz) resmi belgeleri sağlamasını ister. Belgeler bir iş kaydı veya vergi kayıt sertifikası ya da şirketin ana ülkesi, şubat ya da anketlerin tamamlanması için makbuz olabilir. Microsoft, şirketin bu varlık adı altında iş yapma yetkisine sahip olduğunu ve belirtilen adreste olduğunu doğrulamak için bu belgeleri kullanır. Daha fazla yardım için [bir destek bileti oluşturun.](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?stage=2&topicid=52ac28f3-d58f-99d9-9846-3df5a6477c54)|
+| E-posta sahipliği            | E-posta sahipliği, birincil iletişim adresinin (birincil e-posta) geçerli olduğunu doğrular. Birincil iletişim e-posta adresi izlenen ve e-posta gönderebilen/alabilen bir iş hesabı olmalıdır. Şirket etki alanıyla ilişkilendirilmemiş kişisel bir e-posta adresi kullanmaktan **kaçının** veya e-posta ile ilişkilendirilmemiş bir Kiracı Kullanıcı kimlik bilgisi kullanmayın. (Örneğin jsmith@testcompany.onmicrosoft.com). | E-posta sahiplik doğrulaması e-posta iletisini bir iş günü içinde almazsanız, e-postanın yeniden gönderilmesini isteyebilirsiniz. [MPN](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile) veya [CSP](https://partner.microsoft.com/pcv/accountsettings/partnerprofile) için profil sayfanıza gidin ve **doğrulama e-postasını yeniden gönder**' i seçin. Microsoft.com 'den "güvenli" bir etki alanı olarak e-posta bayrağını ve istenmeyen e-posta klasörlerini kontrol ettiğinizden emin olun. Daha fazla yardım için [bir destek bileti oluşturun](https://go.microsoft.com/fwlink/?linkid=2167384).|
+|Süresi |İstihdam doğrulaması birincil kişinizi, kaydolan şirketin bir çalışanı olduğunu onaylar. Kişinin, şirketin sahip olduğu bir e-posta etki alanında etkin bir e-posta adresi olması gerekir.|İş doğrulaması reddedilirse, birincil iletişim (normalde küresel veya hesap yöneticiniz), kişinin e-posta etki alanının işveren 'nın sahipliğinin altında olduğunu onaylayan belgeler sağlamalıdır. Daha fazla yardım için [bir destek bileti oluşturun](https://go.microsoft.com/fwlink/?linkid=2167385). |
+| İş   | İş doğrulaması, kaydolan şirketin yasal bir iş varlığı olduğunu ve belirtilen adreste olduğunu onaylar. | [Yasal iş profilinizde](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile) yer alan şirket adı ve adresinin yazım hatası ya da kısaltmalar olmadığını doğrulayın. Bunlar, resmi şirket iş kaydı kayıtlarınızın tam olarak eşleşmesi gerekir. Uygunsa, dış veri kaynaklarında bulunan eşleşmeyi (örneğin, Dun & Bradstreet (DDROıD) veya durum kayıt defteri) seçin.<br /><br />Microsoft, resmi belgeler sağlamak için birincil iletişim (normal olarak genel veya hesap yöneticiniz) ister. Belgeler, iş kaydı, vergi kaydı sertifikası veya şirketin ana ülke ülkesi, municipsellik veya tamamlanacak soru bilgileri olabilir. Microsoft bu belgeleri şirketin bu ad altında iş yapmaya yetkili olduğunu ve verilen adreste bulunduğunu doğrulamak için kullanır. Daha fazla yardım için [bir destek bileti oluşturun](https://go.microsoft.com/fwlink/?linkid=2167604).|
 
 > [!NOTE]
-> Yasal İş Profilinizi [(adres) nasıl güncelleştirebilirsiniz?](update-your-partner-profile.md)
+> [Yasal Iş profilinizi (adres)](update-your-partner-profile.md)güncelleştirmeyi öğrenin.
 
 ## <a name="after-verification"></a>Doğrulamadan sonra
 
-Doğrulama tamamlandıktan sonra profilinizdeki doğrulama durumu "beklemede" olan "yetkili" olarak değişir ve bu sayfada durum görüntülenen işlem adımları kaybolur. Birincil ilgili kişi birkaç iş günü içinde Microsoft'tan bir e-posta alır. 
+Doğrulama tamamlandıktan sonra, profilinizde doğrulama durumu "bekliyor" iken "yetkilendirilmiş" olarak değişir ve bu sayfada görüntülenen durum ile işlem adımları kaybolur. Birincil iletişim, Microsoft 'tan birkaç iş günü içinde bir e-posta alır.
 
-Profilinizde oturum açma işleminin ardından Bekleyen **eylemler'i görüyorsanız** gerekli değişiklikleri aşağıdaki gibi gerçekleştirin:
+Profilinizde oturum açtıktan sonra, **Bekleyen eylemler** görürseniz, gerekli değişiklikleri aşağıdaki gibi doldurun:
 
-- MPN programı için Yasal bilgiler [sayfasına](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile) gidin.  
-- CSP programı için Yasal bilgiler [sayfasına](https://partner.microsoft.com/pcv/accountsettings/partnerprofile) gidin.
+- MPN programı için [yasal bilgiler](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile) sayfasına gidin.  
+- CSP programı için [yasal bilgiler](https://partner.microsoft.com/pcv/accountsettings/partnerprofile) sayfasına gidin.
 
-Bu adımları tamamlama konusunda yardıma ihtiyacınız varsa İş Ortağı Merkezi destek ekibinin Destek bölümünde bir bilet açarak iş ortağı destek ekibiyle İş Ortağı Merkezi. Bilet açmak için Yardım ve [destek'e gidin.](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=21655de7-7dbb-4927-33a2-f60f45feadf3)
+Iş Ortağı Merkezi 'nde bu adımları tamamlamak için yardıma ihtiyacınız varsa, Iş Ortağı Merkezi 'nin destek bölümündeki bir bileti açarak iş ortağı destek ekibine başvurabilirsiniz. Bir bileti açmak için [Yardım ve destek](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=21655de7-7dbb-4927-33a2-f60f45feadf3)bölümüne gidin.
