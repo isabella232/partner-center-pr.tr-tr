@@ -134,7 +134,7 @@
       displayName: csp
     - name: 'Microsoft Müşteri Sözleşmeleri (bölgeye, dile göre)'
       href: agreements.md
-    - name: Müşterinin kabulünü onaylama Microsoft Müşteri Sözleşmesi
+    - name: Müşterinin müşteri tarafından kabulü onay Microsoft Müşteri Sözleşmesi
       href: confirm-customer-agreement.md
     - name: 'CSP bölgesel pazarlar, para birimleri'
       href: regional-authorization-overview.md
@@ -254,26 +254,26 @@
           href: routing-rules.md
         - name: Ortak satış CRM bağlayıcıları kullanma
           items:
-            - name: Dynamics 365 bağlayıcısı
+            - name: Dynamics 365 için bağlayıcı
               href: connector-dynamics.md
-            - name: Salesforce bağlayıcısı
+            - name: Salesforce için bağlayıcı
               href: connector-salesforce.md
             - name: Bağlayıcılarla ilgili sorunları giderme
               href: connectors-troubleshoot.md
         - name: Ortak satış - PSC'den PC'ye geçiş
           href: psc-to-pc.md
-        - name: IOT PSC'den PC'ye geçiş
+        - name: IOT PSC 'den PC 'ye geçiş
           href: partner-sales-connect-to-partner-center-iot.md
           displayName: mpn
     - name: Anlaşmalarınızı kaydetme
       href: register-deals.md
-    - name: Referans analizi
+    - name: Başvuru Analizi
       items:
-        - name: Müşteri adayı içgörüleri alın
+        - name: Müşteri adayları öngörülerini alın
           href: referral-leads-insights.md
         - name: Referans içgörüleri alma
           href: referral-insights.md
-        - name: Referans analizi veri tanımı
+        - name: Başvuru Analizi veri tanımı
           href: referral-analytics-data-definition.md
 - name: Teşvikler
   items:
@@ -388,7 +388,7 @@
       href: modern-invoice-reconciliation-file.md
     - name: Geçerli birim fiyat hesaplaması
       href: effective-unit-price-calculation.md
-    - name: Kredi limiti zorlama
+    - name: Kredi limiti zorlaması
       href: credit-limit-enforcement.md
     - name: Yaygın fatura senaryoları
       href: common-billing-scenarios.md
@@ -413,6 +413,8 @@
     - name: Market teklifleri faturalaması
       href: csp-commercial-marketplace-billing.md
       displayName: 'invoice, csp'
+    - name: Microsoft'tan SLA iade isteğinde bulunma
+      href: request-credit.md
     - name: Dijital imzaları görüntüleme - İş Ortağı Merkezi Hindistan
       href: digital-signature.md
       displayName: invoice
@@ -438,9 +440,7 @@
         - name: Ödeme hesabınızı ve vergi formlarınızı ayarlama
           href: set-up-your-payout-account.md
           displayName: 'region, regio'
-        - name: Microsoft'tan SLA iade isteğinde bulunma
-          href: request-credit.md
-        - name: Vergi ilkeleri ödemeyi nasıl etkiler?
+        - name: Vergi ilkelerinin ödeme nasıl etkilediği
           href: tax-policies-affect-payout.md
     - name: Müşterileriniz için Azure harcama bütçesi ayarlama
       href: set-an-azure-spending-budget-for-your-customers.md
@@ -728,19 +728,19 @@
                   href: insights-programmatic-analytics-api-get-dataset.md
                 - name: Rapor sorgularını al
                   href: insights-programmatic-analytics-api-get-report-queries.md
-                - name: Rapor sorgularını Sil
+                - name: Rapor sorgularını silme
                   href: insights-programmatic-analytics-api-delete-report-queries.md
                 - name: Rapor sorgularını deneyin
                   href: insights-programmatic-analytics-api-try-report-queries.md
                 - name: Rapor al
                   href: insights-programmatic-analytics-api-get-report.md
-                - name: Raporu Güncelleştir
+                - name: Raporu güncelleştirme
                   href: insights-programmatic-analytics-api-update-report.md
                 - name: Raporu sil
                   href: insights-programmatic-analytics-api-delete-report.md
-                - name: Rapor yürütmelerini Duraklat
+                - name: Rapor yürütmelerini duraklatma
                   href: insights-programmatic-analytics-api-pause-report-executions.md
-                - name: Rapor yürütmelerini sürdürür
+                - name: Rapor yürütmelerini sürdürme
                   href: insights-programmatic-analytics-api-resume-report-executions.md
         - name: İçgörü verilerinin tanımları
           href: insights-data-definitions.md

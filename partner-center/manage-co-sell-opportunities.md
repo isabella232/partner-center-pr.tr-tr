@@ -9,12 +9,12 @@ author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c81dc53a9424a1350bdbd2d4de280d287cba429a
-ms.sourcegitcommit: 9d155ff319ba2b2793bc9945d179ce1cb9c8f7c7
+ms.openlocfilehash: ae6c60bf5f3a4d5f1fad5e6fa86151737e12da6d
+ms.sourcegitcommit: 14a1cc0c679a84f9ee6d2eec814528415195162c
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/19/2021
-ms.locfileid: "122453824"
+ms.lasthandoff: 09/02/2021
+ms.locfileid: "123396224"
 ---
 # <a name="manage-co-sell-opportunities-in-partner-center"></a>Ortak satış fırsatlarını Iş Ortağı Merkezi 'nde yönetme
 
@@ -168,89 +168,89 @@ Aşağıda, Microsoft Iş Ortağı Merkezi başvuruları sistemi tarafından bel
 |Geliştirildi|%40|Bir POC veya resmi bir teklif için gereken diğer yapıtları hazırlamaya yönelik ayrıntılı gereksinimleri anlamak için daha fazla bilgi edinin.|
 |Önerilen|%60|Müşteri için gereksinimlerine göre resmi bir teklif yapma.|
 |Belirlenen|%80|Nihai duruma ulaşmak için teklife dayalı olarak son koşullara göre anlaşılırken, anlaşmayı kazanan veya kaybetme.|
-|Kazanı|%100|Anlaşmayı kazanildi olarak işaretleme.|
+|Kazanı|%100|İşlem Kazanıldı olarak işaretleniyor.|
 
-Bitirdikten sonra, sonucu rapor etmek için anlaşmayı Kazandı veya  Kaybedildi olarak işaretleyerek iki **eylemden** birini gerçekleştirebilirsiniz.
+İşiniz bittiğinde, sonucu raporlamak için anlaşmayı **kazanıldı** veya **kaybedildi** olarak işaretleyen iki eylemden birini gerçekleştirebilirsiniz.
 
-Şirketinizin aynı satış aşamalarını takip ediyor olması gerekmez. Bu İş Ortağı Merkezi satış aşamalarını tanır ve API'yi kullanarak bu değerleri geçirmeniz için şirketinizin aşamalarını otomatik olarak bu standart aşamalara eşler. İş Ortağı Merkezi UX kullanıyorsanız, tabloda gösterildiği gibi yüzdeler satış aşamalarını işaretlemek için kullanılır.
+Şirketiniz aynı satış aşamalarını takip etmek gerekli değildir. Iş Ortağı Merkezi, anlaşma satış aşamalarını tanır ve bu değerleri API kullanarak geçirdiğinizde, şirketinizin aşamalarını bu standart aşamalara otomatik olarak eşler. Iş Ortağı Merkezi UX kullanıyorsanız, tabloda gösterilen yüzdeler, satış aşamalarını işaretlemek için kullanılır.
 
 > [!Note]
-> Belirli uygun çözümler için Kazan'ı seçdikten sonra anlaşmanızı kaydetmek için ek bilgi sağlamanız istenecek. Microsoft, burada sağ bilgilerinizi gözden geçirecek ve inceleme işlemi sırasında ek ayrıntılar sorabilir. Daha fazla bilgi için [bkz. Anlaşmalarınızı kaydetme.](register-deals.md)
+> Kazanıldı ' ı seçtikten sonra, belirli uygun çözümler için, sizden anlaşmayı kaydetmek üzere ek bilgiler sağlamanız istenecektir. Microsoft, burada sağladığınız bilgileri inceleyerek İnceleme işlemi sırasında ek ayrıntılar isteyebilir. Daha fazla bilgi için bkz. [anlaşmaları kaydetme](register-deals.md).
 
 > [!Important]
-> Anlaşma anlaşma kaydı için uygunsa, anlaşma oluşturma ile anlaşmanın kazanıldı olarak işaretlenması arasında 72 saatlik bir boşluk olduğundan emin olun. Anlaşmanın daha önce kazanılıyor olarak kapatılması, anlaşma kayıtlarının reddedilmesine neden olabilir.
+> Anlaşma, anlaşma kaydı için uygun ise, anlaşma oluşturma ve anlaşma arasında 72 saatlik bir boşluk bulunduğundan emin olun. Anlaşmayı daha önce Kazanıldı olarak kapatmak, bu işlem, anlaşma kayıtlarının reddedilmesine neden olabilir.
 
-Bir anlaşma, yalnızca aşağıdaki ölçütlerin hepsini karşılarsa anlaşma kaydı için uygun olur.
+Anlaşma, yalnızca aşağıdaki ölçütlere uyan anlaşma kaydı için uygun olacaktır.
 
 - Anlaşma türü ortak satış anlaşması veya iş ortağı tarafından yönetilen anlaşmadır.
-- Anlaşma değeri 25.000 ABD dolarının üzerinde veya bu değere eşittir. Para birimi dönüştürme işlemi, Varsayılan tarafından yayımlanan aylık döviz kurlarını temel almaktadır.
-- Anlaşma için seçilen müşteri hesabı Microsoft tarafından yönetilir. Bunlar, Microsoft satış ekibinin şirketle mevcut bir ilişkisi olduğu hesaplardır.
-- Anlaşmada teşvike uygun bir çözüm vardır.
-- Anlaşmanın durumu kazanildi.
-- Satış teklifinin türü ortak satış ise Microsoft daveti kabul etmiş veya anlaşmayı kazanıldı olarak işaretledi. Anlaşma ayrıntılarınız altındaki Microsoft kartına bakarak Microsoft durumunu anleyebilirsiniz.
+- Anlaşma değeri, USD 25.000 ' den büyük veya buna eşit. Para birimi dönüştürme işlemi, yeniden çalışanlar tarafından yayınlanan aylık Döviz kurlarını temel alır.
+- Anlaşma için seçilen müşteri hesabı Microsoft tarafından yönetiliyor. Bunlar, Microsoft Sales ekibinin şirket ile mevcut bir ilişkisi olduğu hesaplardır.
+- Ele uygun bir çözüm vardır.
+- Anlaşma durumu kazanıldı ' dır.
+- Anlaşma türü ortak satış ise, Microsoft daveti kabul etmiş veya Kazanıldı olarak işaretlenir. Microsoft 'un durumu ' nu, Microsoft kartına, anlaşma ayrıntılarınızın altına bakarak anlayabilirsiniz.
 
 > [!Important]
-> Anlaşmayı yalnızca anlaşmada şirket adınız ve teşvike uygun çözüm açıkça müşteriyle yapılan sözleşmede belirtildiğinde kaydedin.
+> Yalnızca şirket adınız ve anlaşmada uygun olan çözümünüz müşteriyle anlaşmada açıkça bahsedildiğinde anlaşmayı kaydedin.
 
-Anlaşma anlaşma kaydı için uygunsa, aşağıda gösterildiği gibi anlaşmanın yaşam döngüsüne "Anlaşma kaydı" adlı başka bir kilometre taşı eklenir.
+Anlaşma, anlaşma kaydı için uygun ise, aşağıda gösterildiği gibi "anlaşma kaydı" adlı anlaşma yaşam döngüsüne eklenen başka bir kilometre taşı olacaktır.
 
-:::image type="content" source="images/pscmigration/dealregstages.png" alt-text="Anlaşma kaydının başlatıldığı konum olan anlaşma yaşam döngüsünü gösteren görüntü.":::
+:::image type="content" source="images/pscmigration/dealregstages.png" alt-text="Anlaşma kaydının başlatıldığı konum olan anlaşma yaşam döngüsünü gösteren resim.":::
 
-Anlaşmayı kazanıldı olarak işaretledikten hemen sonra veya anlaşma yaşam döngüsü Şimdi kaydol düğmesiyle daha sonraki bir noktada **kaydetmeyi seçebilirsiniz.**
-Anlaşma kaydedildiktan sonra, aynı yaşam döngüsünden anlaşma doğrulamasının ilerlemesini görüntüebilirsiniz. Şirketinizin herhangi bir eylemi varsa uygun hatalar anlaşma yaşam döngüsü görünümünde gösterilir. Anlaşma doğrulaması tamamlandığında anlaşma kapalı durumuna gider.
+Anlaşmayı Kazanıldı olarak işaretledikten sonra veya daha sonra işlem yaşam döngüsü **Şimdi kaydet** düğmesini kullanarak bir süre sonra kaydetmeyi seçebilirsiniz.
+Anlaşma kaydedildikten sonra, aynı yaşam döngüden anlaşma doğrulamanın ilerlemesini görebilirsiniz. Şirketinizde gerekli bir işlem varsa, işlem yaşam döngüsü görünümünde uygun hatalar gösterilir. Anlaşma doğrulaması tamamlandığında, anlaşma kapalı durumuna geçer.
 
 > [!Important]
-> Hem satış anlaşması gözden geçirmesi hem de son doğrulama durumu yalnızca IP Ortak satış anlaşmaları için geçerlidir.
+> Hem anlaşma incelemesi hem de nihai doğrulama durumu yalnızca IP ortak satış anlaşmaları için geçerlidir.
 
-### <a name="combinations"></a>Kombinasyon -ları
+### <a name="combinations"></a>Bileşim
 
-Aşağıdaki tabloda, anlaşmanın bu aşamasında davet edilenlerin birleşimleri gösterilmiştir.
+Aşağıdaki tabloda, bu anlaşmayı bu aşamada davet edebilen birleşimler gösterilmektedir.
 
-|**Özgün anlaşma türü**|**Who davet olabilir**|**Notlar**|
+|**Özgün anlaşma türü**|**Who davet edilebilir**|**Notlar**|
 |-----|:-----|:-----|
-|Özel|Microsoft ve/veya diğer iş ortakları|Microsoft davet edildiyse anlaşma Ortak satışa yükseltilecek.|
-|Özel|Anlaşmaları görüntülemek için Microsoft satış ekibi|Microsoft satış ekibine anlaşmalara görünürlük verildikten sonra anlaşma İş Ortağı tarafından yönlendirilecek.|
-|İş ortağı liderliğinde|Microsoft ve/veya diğer iş ortakları|Microsoft davet edildiyse anlaşma Ortak satışa yükseltilecek.|
-|Ortak satış|Diğer iş ortakları|Diğer iş ortakları yalnızca şirketiniz anlaşmayı başlattığında davet olabilir. İş ortakları Gelen sekmesinde satış anlaşmasına davet olamaz.|
-|Microsoft olmadan iş ortağına iş ortağı|Microsoft|Anlaşma ortak satış anlaşmasına yükseltilecek.|
-|Microsoft olmadan iş ortağına iş ortağı|Diğer iş ortakları||
+|Özel|Microsoft ve/veya diğer iş ortakları|Microsoft davet edildiyse, anlaşma ortak satış sürümüne yükseltilir.|
+|Özel|Anlaşmaları görüntülemek için Microsoft satış ekibi|Microsoft satış ekibine anlaşmalar için görünürlük verildiğinde, anlaşma Iş ortağı olarak yükseltilir.|
+|İş ortağı-LED|Microsoft ve/veya diğer iş ortakları|Microsoft davet edildiyse, anlaşma ortak satış sürümüne yükseltilir.|
+|Ortak satış|Diğer iş ortakları|Diğer iş ortakları yalnızca şirketiniz anlaşmayı başlatmakla davet edilebilir. İş ortakları, gelen sekmesinde anlaşmalar için davet edilemez.|
+|Microsoft olmadan iş ortağı iş ortağı|Microsoft|Anlaşma, ortak satış için yükseltilecektir.|
+|Microsoft olmadan iş ortağı iş ortağı|Diğer iş ortakları||
 
 ### <a name="closed-stage"></a>Kapalı aşama
 
-Bu, tüm fırsatların son aşamasıdır. Kapalı aşamada kazanılan, kaybedilen, reddeden **ve** süresi dolan tüm **anlaşmaları** görüntüabilirsiniz. Bu aşamada gerçekleştir herhangi bir eylem gerçekleştiresiniz.
+Bu, tüm fırsatların son aşamasıdır. Kapatılan aşamada **kazanıldı, kaybedildi, reddedildi** ve **zaman aşımına uğradığı** tüm anlaşmaları görüntüleyebilirsiniz. Bu aşamada gerçekleştirebileceğiniz hiçbir eylem yok.
 
 ## <a name="frequently-asked-questions"></a>Sık sorulan sorular
 
-**S. Anlaşma, Kazanıldı veya kaybedildi olarak işaretlendikten sonra düzenlenebilir mi?**
+**Ç. Bir anlaşma, kazanıldı veya kaybedildi olarak işaretlendikten sonra düzenlenebilir mi?**
 
-Hayır, anlaşmalar terminal durumuna geçildiğinde değiştirilemez. Süresi dolmuş, reddedilen, kazanıldı ve kaybedilmiş, anlaşma için başka güncelleştirmenin mümkün olduğu terminal durumlarıdır. Anlaşmayı bu terminal durumları içine taşıma konusunda dikkatli olun.
+Hayır, bir Terminal durumuna geçtiğinde anlaşmalar değiştirilemez. Süre dolduğunda, ret, kazanıldı ve kaybedildi, anlaşma için başka bir güncelleştirme yapılabilmeyen Terminal durumlarıdır. Anlaşmayı bu Terminal durumlarının herhangi birine taşırken dikkatli olun.
 
-**S. Who E-posta bildirimi mi İş Ortağı Merkezi?**
+**s. Who iş ortağı merkezi 'nden bir e-posta bildirimi alıyor mu?**
 
-Aşağıdaki iş akışında, yeni iş ortağı gelen referansları için e-İş Ortağı Merkezi referans sisteminden iş ortaklarına nasıl gönderildiği açıklanmıştır.
+Aşağıdaki iş akışı, e-postaların iş ortağı merkezi başvuruları sisteminden iş ortaklarına nasıl gönderileceğini açıklar ve yeni iş ortağı gelen başvurularına yöneliktir.
 
-:::image type="content" source="images/pscmigration/emaillogic.png" alt-text="Yeni gelen referanslar için e-postaların iş ortaklarına gönderilme mantığını gösteren görüntü.":::
+:::image type="content" source="images/referrals/noti-workflow.png" alt-text="Yeni gelen başvurular için, e-postaların iş ortaklarına gönderilme mantığını gösteren resim.":::
 
-**S. Ne tür teşvikler anlaşma kaydı için uygundur?**
+**Ç. Ne tür bir teşvikleri, anlaşma kaydı için uygun?**
 
-Yalnızca IP teşvikleri anlaşma kaydı için uygundur. Bunlar şunlardır:
+Yalnızca IP teşvikleri, anlaşma kaydı için uygundur. Bunlar şunlardır
 
 - Azure IP Ortak Satış
-- Biz apps premium
-- Biz apps standard
+- Biz uygulamalar Premium
+- Biz uygulama standart
 
-## <a name="get-more-co-sell-opportunities"></a>Daha fazla ortak satış fırsatı elde
+## <a name="get-more-co-sell-opportunities"></a>Daha fazla ortak satış fırsatı alın
 
-İşte işletmenize uygun olan daha fazla ortak satış fırsatı elde etmeye yardımcı olacak bazı ipuçları:
+İşletmeniz için uygun olan daha fazla ortak satış fırsatı almanıza yardımcı olacak bazı ipuçları aşağıda verilmiştir:
 
-- **Anlaşmalara hızla yanıt verin.** Gelen isteklere zamanında yanıt verdiyceniz, gelecekteki iş ortağı arama sonuçlarında görünürlüğünizi aşamalı olarak artıracağız. Takımınız amacınıza hızlı bir şekilde yanıt verir.
-- **Kabul edersiniz anlaşmaları ile choosy be choosy**. Kabul etmek ve reddetmek için kullanabileceğiniz anlaşma türlerini takip ediyor ve bu bilgileri kullanarak benzer anlaşmaları bulamıyorum. Uygun olmayan anlaşmaları kabul etmek arama sonuçlarınızı geliştirmez ve elde edilen fırsatların kalitesini etkiler.
-- **Tahmini anlaşma boyutlarını, kapanış tarihlerini ve satış** anlaşmalarının son durumunu (kazanıldı veya kaybedildi) geri raporla. Size kaliteli referanslar sağlamak için bu bilgileri kullan edeceğiz.
+- **Anlaşmaları hızla yanıtlayın**. Gelen isteklere zamanında yanıt verme sırasında, gelecekteki iş ortağı arama sonuçlarındaki görünürlüğünüzü aşamalı olarak artıracağız. Takımınızın sizin amacınızla hızla yanıt verdiğini doğrulayın.
+- **Kabul ettiğiniz anlaşmalar ile bu koşulları benimseme**. Kabul ettiğiniz ve reddettiğimiz ve bu bilgileri size benzer anlaşmalar bulmaya yardımcı olması için kullandığınız anlaşmalar türlerini izliyoruz. İyi bir uyum olmayan anlaşmalar kabul edilmesi, arama sonuçlarınızı iyileştirmez ve aldığınız fırsatların kalitesini etkileyebilir.
+- **Tahmini anlaşma boyutlarını, kapanış tarihlerini ve anlaşmanızın son durumunu** (kazanıldı veya kaybedildi) geri rapor edin. Size kalite başvuruları sağlamaya devam etmek için bu bilgileri kullanacağız.
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
 - [Müşteri adaylarını yönetme](manage-leads.md)
 
-- [Dynamics 365 CRM için ortak satış bağlayıcısı alın](connector-dynamics.md)
+- [Dynamics 365 CRM için ortak satış bağlayıcısını edinme](connector-dynamics.md)
 
-- [Salesforce CRM için ortak satış bağlayıcısı alın](connector-salesforce.md)
+- [Salesforce CRM için ortak satış bağlayıcısını edinme](connector-salesforce.md)
