@@ -1,71 +1,93 @@
 ---
-title: Müşteri aboneliğini yükseltme
+title: Bir müşteri aboneliğini yükseltme
 ms.topic: article
-ms.date: 05/07/2020
+ms.date: 02/18/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-pricing
-description: Müşterinin aboneliğini yükseltmeyi veya değiştirmeyi öğrenin. Daha fazla lisans ekleyin veya daha fazla hizmetle farklı bir sürüme geçin.
+description: Bir müşterinin aboneliğini nasıl yükselteceğinizi veya değiştireceğinizi öğrenin. Daha fazla lisans ekleyin veya daha fazla hizmet ile farklı bir sürüme taşıyın.
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c4c8ce447901847011ec160259cce2614d90e2fe45ff261e728e47c3c6d34a91
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 576845e9e5a5cf999415952a14023fc81c15fa32
+ms.sourcegitcommit: 09d2c10491244775e656b48fce35b5648262ce59
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115685420"
+ms.lasthandoff: 09/03/2021
+ms.locfileid: "123457638"
 ---
 # <a name="add-licenses-or-more-services-to-a-customers-subscription"></a>Müşterinin aboneliğine lisans veya daha fazla hizmet ekleme
 
-**Uygun roller:** Genel yönetici | Kullanıcı yönetimi yönetici | Yönetici aracısı | Satış aracısı | Yardım masası aracısı
+**Uygun roller**: genel yönetici | Kullanıcı Yönetimi Yöneticisi | Yönetici Aracısı | Satış Aracısı | Yardım Masası Aracısı
 
-Müşterinizin geçerli aboneliğinin sağladığından daha fazla lisansa veya ek hizmetlere sahip farklı bir sürüme ihtiyacı varsa aboneliği yükseltebilirsiniz. Daha fazla bilgi için [bkz. Farklı bir İş için Microsoft 365 Uygulamaları planına geçme.](/microsoft-365/commerce/subscriptions/switch-to-a-different-plan)
+Müşterinizin geçerli aboneliğinden daha fazla lisansa ihtiyacı varsa veya ek hizmetlere sahip farklı bir sürüm varsa, aboneliği yükseltebilirsiniz. daha fazla bilgi için bkz. [farklı bir İş için Microsoft 365 Uygulamaları planına geçme](/microsoft-365/commerce/subscriptions/switch-to-a-different-plan).
 
 ## <a name="upgrades-supported-in-the-csp-program"></a>CSP programında desteklenen yükseltmeler <a id="upgradesubscription"></a>
 
-Aşağıdaki yükseltmeler, Bulut Çözümü Sağlayıcısı desteklemektedir:
+Bulut Çözümü Sağlayıcısı programda aşağıdaki yükseltmeler desteklenir:
 
 | Sunduğu | Olası yükseltmeler|
 |---:|:---|
-| İş için Microsoft 365 Uygulamaları   | - Microsoft 365 İş Ekstra İleri <br/>  - Kurumlar için Microsoft 365 Uygulamaları <br/> - Office 365 Kurumsal E3 <br/> - Office 365 Kurumsal E5 <br/> |
-| Microsoft 365 İş Standart    | - Office 365 Kurumsal E3 <br/> - Office 365 Kurumsal E5 <br/> |
-| Microsoft 365 İş Temel | - Microsoft 365 İş Standart İleri <br/> - Office 365 Kurumsal E1 <br/> - Office 365 Kurumsal E3<br/> - Office 365 Kurumsal E5 <br/> |
+| İş için Microsoft 365 Uygulamaları   | -Microsoft 365 İş Ekstra ¹ <br/>  -Kurumlar için Microsoft 365 Uygulamaları <br/> -Office 365 Kurumsal E3 <br/> -Office 365 Kurumsal E5 <br/> |
+| Microsoft 365 İş Standart    | -Office 365 Kurumsal E3 <br/> -Office 365 Kurumsal E5 <br/> |
+| Microsoft 365 İş Temel | -Microsoft 365 İş Standart ¹ <br/> -Office 365 Kurumsal E1 <br/> -Office 365 Kurumsal E3<br/> -Office 365 Kurumsal E5 <br/> |
 
-İşte İş için Microsoft 365 Uygulamaları Hindistan Microsoft 365 İş Temel Hindistan'a yükseltilebilir, Microsoft 365 İş Standart Hindistan'a Microsoft 365 İş Standart.
+¹ İş için Microsoft 365 Uygulamaları hindistan ve Microsoft 365 İş Temel hindistan, Microsoft 365 İş Standart değil Microsoft 365 İş Standart hindistan 'a yükseltilebilir.
 
+## <a name="upgrades-supported-for-new-commerce-subscriptions"></a>Yeni ticaret abonelikleri için desteklenen yükseltmeler<a id="upgradesubscriptionnewcommerce"></a>
+
+> [!Note] 
+> Yeni ticaret değişiklikleri şu anda yalnızca M365/D365 yeni ticaret deneyimi teknik önizlemesinin parçası olan iş ortakları tarafından kullanılabilir.
+
+Bu koşullar geçerliyse abonelikler yükseltilebilir:
+
+- Abonelik etkin olmalıdır (askıda değil veya iptal edilemez).
+
+Faturalandırma üzerindeki etkisi hakkında daha fazla bilgi için bkz. bir aboneliği iptal etme ve [genel faturalandırma senaryolarında](common-billing-scenarios.md)yeni bir abonelik ekleme.
 
 ## <a name="conditions"></a>Koşullar
 
-Bu koşullar geçerli olursa abonelikler yükseltilebilir:
+Bu koşullar geçerliyse abonelikler yükseltilebilir:
 
-- Aboneliğin etkin olması (askıya alınmış veya iptal edilmiş değil) olması gerekir.
+- Abonelik etkin olmalıdır (askıda değil veya iptal edilemez).
 
-- Bu müşteri ve hizmet için yönetici ayrıcalıkları temsilcisine sahip olmanız gerekir. Yönetici ayrıcalıkları için [temsilci talep etmeyi öğrenin.](request-a-relationship-with-a-customer.md)
+- Bu müşteri ve hizmet için yetkilendirilmiş yönetici ayrıcalıklarına sahip olmanız gerekir. [Yönetici temsilcisi ayrıcalıkları isteme](request-a-relationship-with-a-customer.md)hakkında bilgi edinin.
 
-- Müşterinin ek hizmetleri içeren abonelikleri zaten yoktur.
+- Müşterinin ek hizmetleri içeren abonelikleri zaten olamaz.
 
-- Müşteri, yükseltmeye çalıştığın aboneliklere sahip değil.
+- Müşteri, yükseltmeyi denediğiniz aboneliklere zaten sahip olamaz.
 
-Son iki durumda müşterinin bu abonelikleri veya hizmetleri başka bir iş ortağından veya başka bir kanaldan satın almaları mümkündür ve ilk olarak mevcut aboneliklerini iptal etmedikçe bunları sizin satın almaları mümkün olmayacaktır. Daha fazla bilgi için [bkz. çok kanallı](multichannel.md).
+İkinci iki durumda, müşterinin bu abonelikleri veya Hizmetleri başka bir iş ortağından ya da başka bir kanaldan satın almış olabileceği ve bunların önce mevcut olanları iptal etmedikleri takdirde bunları satın almamaları mümkündür. Daha fazla bilgi için bkz. [çok kanallı](multichannel.md).
 
-Faturalamanın etkisi hakkında daha fazla bilgi için Bkz. Yaygın faturalama senaryolarında aboneliği iptal etme [ve yeni abonelik ekleme.](common-billing-scenarios.md)
+Faturalandırma üzerindeki etkisi hakkında daha fazla bilgi için bkz. bir aboneliği iptal etme ve [genel faturalandırma senaryolarında](common-billing-scenarios.md)yeni bir abonelik ekleme.
 
 ## <a name="upgrade-a-subscription"></a>Aboneliği yükseltme
 
-1. Aboneliğin yükseltmeye uygun olup olduğunu görmek için müşterinizi seçin ve abonelik listesini açın.
+1. Bir aboneliğin yükseltmeye uygun olup olmadığını görmek için, müşteriyi seçin ve ardından abonelik listesini açın.
 
-2. Abonelik yükseltilebilirse, abonelik adının hemen ardından bir bilgi simgesi görüntülenir. Bu simgenin üzerine gelin ve Şimdi **yükselt'i seçin.**
+2. Abonelik yükseltilecekse, abonelik adından hemen sonra bir bilgi simgesi görürsünüz. Bu simgenin üzerine gelin ve **Şimdi Yükselt**' i seçin.
 
-3. Yeni teklifi ve ardından Gönder'i **seçin.**
+3. Yeni teklifi seçip **Gönder**' i seçin.
 
-4. Bazı hizmetler için bazı kullanıcı hesaplarının geçişe yönelik ek çalışmalar olabilir. Bu durumda, İş Ortağı Merkezi etkilenen hesapların ve hizmetlerin listesini sağlar. Yardım için, Office 365'da planlar arasında geçiş yaparken lisansları yeniden atama sorunları [bilgi bankası makalesine Office 365.](/microsoft-365/commerce/subscriptions/switch-to-a-different-plan)
+4. Bazı hizmetler için bazı Kullanıcı hesaplarını geçirmeye yönelik ek iş olabilir. Bu durumda Iş Ortağı Merkezi, etkilenen hesapların ve hizmetlerin bir listesini sağlar. Yardım için, [Office 365 planlama yaparken lisansları yeniden atama](/microsoft-365/commerce/subscriptions/switch-to-a-different-plan)konusunda bilgi Bankası makalesi sorunları bölümüne bakın.
 
+## <a name="upgrade-a-new-commerce-subscription"></a>Yeni bir ticari aboneliği yükseltme
+
+> [!Note] 
+> Yeni ticaret değişiklikleri şu anda yalnızca M365/D365 yeni ticaret deneyimi teknik önizlemesinin parçası olan iş ortakları tarafından kullanılabilir.
+
+1. Bir aboneliğin yükseltmeye uygun olup olmadığını görmek için, müşteriyi seçin ve ardından abonelik listesini açın.
+
+2. Abonelik listesinden, yeni ticaret etiketli, yükseltmek istediğiniz aboneliği seçin. Abonelik yükseltilecekse, abonelik adının üzerinde bir bilgilendirici başlık görürsünüz. **Şimdi Yükselt**' i seçin.
+
+3. **Gönder**’i seçin.
+
+4. Müşterinin bu abonelikleri veya Hizmetleri başka bir iş ortağından ya da başka bir kanaldan satın almış olabileceği ve bu olanakların el ile atanması gerekecektir.
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-- [İş planı için farklı Microsoft 365 bir iş planına geçiş](/microsoft-365/commerce/subscriptions/switch-to-a-different-plan)
+- [iş planına farklı bir Microsoft 365 geçin](/microsoft-365/commerce/subscriptions/switch-to-a-different-plan)
 
-- [Yönetici temsilcisi ayrıcalıkları isteği](request-a-relationship-with-a-customer.md)
+- [Yönetici temsilcisi ayrıcalıkları iste](request-a-relationship-with-a-customer.md)
 
-- [Yaygın faturalama senaryoları hakkında bilgi](common-billing-scenarios.md)
+- [Genel faturalandırma senaryoları hakkında bilgi edinin](common-billing-scenarios.md)

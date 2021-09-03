@@ -14,7 +14,7 @@
       displayName: mpn
     - name: Hesap kurulumu sorunlarını giderme
       href: troubleshoot-account-sign-n.md
-    - name: Partner Membership Center emeklilik
+    - name: Partner Membership Center için
       href: partner-membership-center-retirement-faq.md
     - name: Üyelik avantajları
       items:
@@ -83,7 +83,7 @@
         - name: Yetkinlikler hakkında bilgi edinin
           href: learn-about-competencies.md
           displayName: mpn
-        - name: İş Ortağı olarak Learning kaydetme
+        - name: İş Ortağı olarak Learning olun
           href: mpn-benefits-map-competency-learning-option-enroll.md
           displayName: mpn
         - name: Yetkinlikler hakkında SSS
@@ -134,7 +134,7 @@
       displayName: csp
     - name: 'Microsoft Müşteri Sözleşmeleri (bölgeye, dile göre)'
       href: agreements.md
-    - name: Müşterinin müşteri tarafından kabulü onay Microsoft Müşteri Sözleşmesi
+    - name: Müşterinin kabulünü onaylama Microsoft Müşteri Sözleşmesi
       href: confirm-customer-agreement.md
     - name: 'CSP bölgesel pazarlar, para birimleri'
       href: regional-authorization-overview.md
@@ -254,26 +254,26 @@
           href: routing-rules.md
         - name: Ortak satış CRM bağlayıcıları kullanma
           items:
-            - name: Dynamics 365 için bağlayıcı
+            - name: Dynamics 365 bağlayıcısı
               href: connector-dynamics.md
-            - name: Salesforce için bağlayıcı
+            - name: Salesforce bağlayıcısı
               href: connector-salesforce.md
             - name: Bağlayıcılarla ilgili sorunları giderme
               href: connectors-troubleshoot.md
         - name: Ortak satış - PSC'den PC'ye geçiş
           href: psc-to-pc.md
-        - name: IOT PSC 'den PC 'ye geçiş
+        - name: IOT PSC'den PC'ye geçiş
           href: partner-sales-connect-to-partner-center-iot.md
           displayName: mpn
     - name: Anlaşmalarınızı kaydetme
       href: register-deals.md
-    - name: Başvuru Analizi
+    - name: Referans analizi
       items:
-        - name: Müşteri adayları öngörülerini alın
+        - name: Müşteri adayı içgörüleri alın
           href: referral-leads-insights.md
         - name: Referans içgörüleri alma
           href: referral-insights.md
-        - name: Başvuru Analizi veri tanımı
+        - name: Referans analizi veri tanımı
           href: referral-analytics-data-definition.md
 - name: Teşvikler
   items:
@@ -388,7 +388,7 @@
       href: modern-invoice-reconciliation-file.md
     - name: Geçerli birim fiyat hesaplaması
       href: effective-unit-price-calculation.md
-    - name: Kredi limiti zorlaması
+    - name: Kredi limiti zorlama
       href: credit-limit-enforcement.md
     - name: Yaygın fatura senaryoları
       href: common-billing-scenarios.md
@@ -440,7 +440,7 @@
         - name: Ödeme hesabınızı ve vergi formlarınızı ayarlama
           href: set-up-your-payout-account.md
           displayName: 'region, regio'
-        - name: Vergi ilkelerinin ödeme nasıl etkilediği
+        - name: Vergi ilkeleri ödemeyi nasıl etkiler?
           href: tax-policies-affect-payout.md
     - name: Müşterileriniz için Azure harcama bütçesi ayarlama
       href: set-an-azure-spending-budget-for-your-customers.md
@@ -580,6 +580,16 @@
           displayName: csp
         - name: Müşterinin Azure planı aboneliklerini farklı bir iş ortağına aktarma
           href: transfer-azure-subscriptions-under-azure-plan.md
+    - name: Lisans tabanlı hizmetler için yeni ticari deneyimler
+      href: new-commerce-license-based.md
+      displayName: new commerce
+      items:
+        - name: Yeni ticari telco ödemesi
+          href: new-commerce-telco-payg.md
+        - name: Yeni ticari promosyonlar
+          href: new-commerce-promotions.md
+        - name: Yeni ticari eklentiler
+          href: new-commerce-add-ons.md
     - name: Yazılım abonelikleri
       href: csp-software-subscriptions.md
       displayName: 'subscription, cancel'

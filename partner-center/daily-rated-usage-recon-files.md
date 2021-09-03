@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 28b61ba66fa887db5b27667318ac8f3dcfbff0a14b73925db5a7be1b77dca266
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 6d3d414aa33991888fcd8b81864e2adee9a46f46
+ms.sourcegitcommit: 09d2c10491244775e656b48fce35b5648262ce59
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115689313"
+ms.lasthandoff: 09/03/2021
+ms.locfileid: "123457948"
 ---
 # <a name="learn-how-to-read-daily-rated-usage-reconciliation-files-in-partner-center"></a>Iş Ortağı Merkezi 'nde günlük dereceli kullanım mutabakatı dosyalarını nasıl okuyacağınızı öğrenin
 
@@ -71,19 +71,18 @@ Bu makalede, günlük dereceli kullanım mutabakatı dosyalarının nasıl okuna
 | BillingCurrency | Müşterinin coğrafi bölgesindeki para birimi. |
 | PricingPreTaxTotal | Vergiler dahil olmak üzere fiyatlandırma. |
 | PricingCurrency | Fiyat listesindeki para birimi. |
-| ServiceInfo1 | verilen bir gün için sağlanan ve kullanılan Service Bus bağlantısı sayısı. |
-| ServiceInfo2 | İsteğe bağlı hizmete özgü meta verileri yakalayan eski bir alan. |
-| Etiketler | Kullanıcı tarafından belirlenen bir Azure kaynakları mantıksal organizasyonunu temsil eder. |
+| ServiceInfo1 | Sağlanan ve Service Bus gün kullanılan bağlantı sayısı. |
+| ServiceInfo2 | Hizmete özgü isteğe bağlı meta verileri yakalayan eski bir alan. |
+| Etiketler | Kullanıcı tarafından ayarlanmış Azure kaynaklarının mantıksal bir kuruluşuna temsil eder. |
 | AdditionalInfo | Diğer sütunlarda yer almayan ek bilgiler. |
-| Efekt, BirimFiyat | Her türlü iskontolar, kazanılan kredi vb. dahil olmak üzere birim başına ücretlendirilen gerçek değer. |
-| PCToBCExchangeRate | ödeme para birimine fiyatlandırma para birimi için Exchange ücret uygulandı. |
-| PCToBCExchangeRateDate | Faturalandırma para birimine yönelik fiyatlandırma para biriminin belirlendiği tarih. |
-| EntitlementId | Azure abonelik KIMLIĞINI temsil eder. |
-| EntitlementDescription | Azure abonelik KIMLIĞININ adını temsil eder. |
-| PartnerEarnedCreditPercentage | Satır öğesi için Partnerearnedkredisini görüntüler. Kazanılan kredi 0 veya %15 olacaktır |
-| CreditPercentage | Azure tüketim kredisi ' nı görüntüler. Kazanılan kredi 0 veya yüzde 100 olacaktır. |
-| CreditType | Kredi türü. Örneğin, **Azure kredisi uygulandı.** |
+| EffectiveUnitPrice | İndirimler, kazanılan krediler ve diğer dahil olmak üzere birim başına ücret alınan gerçek değer. |
+| PCToBCExchangeRate | Exchange para birimi için faturalama para birimine uygulanan bir fiyat. |
+| PCToBCExchangeRateDate | Faturalama para biriminin fiyatlandırma para biriminin belirlen olduğu tarih. |
+| EntitlementId | Azure Abonelik Kimliğini temsil eder. |
+| EntitlementDescription | Azure Abonelik Kimliğinin adını temsil eder. |
+| PartnerEarnedCreditPercentage | Satır öğesi için PartnerEarnedCredit öğesini görüntüler. Kazanılan kredi yüzde 0 veya 15 olur |
+| CreditPercentage | Azure Tüketim Kredisi'ne göre görüntülenir. Kazanılan kredi yüzde 0 veya 100 olur. |
+| CreditType | Kredinin türü. Örneğin, **Azure Kredisi Uygulandı.** |
+
 >[!NOTE]
->Günlük olarak derecelendirilen kullanımlar, Iş Ortağı Merkezi 'nde veya API aracılığıyla erişilecek 24 saat sürer.
-
-
+>Günlük olarak derecelendirilmiş kullanımın normal olarak 24 saat içinde İş Ortağı Merkezi API üzerinden erişilebilir.
