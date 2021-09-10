@@ -4,23 +4,23 @@ ms.topic: how-to
 ms.date: 09/07/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-customers
-description: Yeni bir müşteri kaydı ekleme hakkında bilgi İş Ortağı Merkezi. Ardından müşteri aboneliklerini satıp faturalamayı yönetebilir veya müşteri desteği sebilirsiniz.
+description: İş Ortağı Merkezi'da yeni müşteri kaydı İş Ortağı Merkezi. Ardından müşteri aboneliklerini satıp faturalamayı yönetebilir veya müşteri desteği sebilirsiniz.
 author: parthp
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
 ms.openlocfilehash: 7995ee8f4da20d80fd260bcb77665e244e448227
 ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: tr-TR
 ms.lasthandoff: 09/09/2021
-ms.locfileid: "124343163"
+ms.locfileid: "123960195"
 ---
 # <a name="how-to-add-a-new-customer-record-in-partner-center"></a>İş Ortağı Merkezi'de yeni müşteri kaydı ekleme
 
 **Uygun roller:** Genel yönetici | Kullanıcı yönetimi yönetici | Yönetici aracısı | Satış aracısı
 
-Bu makalede, İş Ortağı Merkezi'da yeni müşteri ekleme hakkında bilgi İş Ortağı Merkezi. Abonelikleri satmadan, faturalamayı yönetemeden veya müşteriye destek sağlaymadan önce bu adımlar gereklidir.
+Bu makalede, yeni bir müşterinin İş Ortağı Merkezi. Abonelikleri satmadan, faturalamayı yönetemeden veya müşteriye destek sağlaymadan önce bu adımlar gereklidir.
 
 ## <a name="considerations"></a>Dikkat edilmesi gerekenler
 
@@ -28,10 +28,10 @@ Bu makalede, İş Ortağı Merkezi'da yeni müşteri ekleme hakkında bilgi İş
 
 - **Doğru kayıt kimliğini kullanın:** Şirket kayıt kimliğinizi girerken, müşterinin kişisel kimliğini değil, iş verginizi kullanın.
 
-- **Bazı ülkeler için ek bilgi girin:** [Doğrudan](#company-registration-id-and-phone-number-required-for-some-countries) fatura iş ortağı veya dolaylı sağlayıcıysanız bazı ülkeler için şirket kayıt kimliği ve telefon numarası gereklidir
+- **Bazı ülkeler için ek bilgi girin:** [Doğrudan fatura](#company-registration-id-and-phone-number-required-for-some-countries) iş ortağı veya dolaylı sağlayıcıysanız bazı ülkelerde şirket kayıt kimliği ve telefon numarası gereklidir
 - **Onay Microsoft Müşteri Sözleşmesi** onaylayın: Müşteri adına sipariş alamadan önce, müşteri adına sipariş [Microsoft Müşteri Sözleşmesi.](confirm-customer-agreement.md)
-- **Mevcut müşteriler  için farklı** adımlar kullanın: Çok kanallı veya Çok Parçalı [](multichannel.md) bir senaryo [](multipartner.md) aracılığıyla İş Ortağı Merkezi müşteri kayıtlarına sahip olanlar da dahil olmak üzere mevcut müşteriler [için,](request-a-relationship-with-a-customer.md)buradaki adımları takip etmek yerine onlarla bir ilişki isteğinde bulunanlar da dahil olmak üzere.
-- **Ayrıntılı, doğru müşteri bilgilerini girin:** Müşteri doğrulaması kolaylaştırmak için şunların sağ olduğundan emin olun:
+- **Mevcut müşteriler  için farklı** adımlar kullanın: Çok kanallı veya Çok Kanallı [](multichannel.md) bir senaryo [](multipartner.md) aracılığıyla İş Ortağı Merkezi müşteri kayıtlarına sahip olan müşteriler de dahil olmak üzere [mevcut](request-a-relationship-with-a-customer.md)müşteriler için, buradaki adımları takip etmek yerine onlarla bir ilişki isteğinde bulundurabilirsiniz.
+- **Ayrıntılı, doğru müşteri bilgilerini girin:** Müşteri müşteri doğrulaması için şunların sağ olduğundan emin olun:
   - Resmi belgelerde görünen yasal/resmi adı tam olarak girin.
   - Kısaltmalar veya kısa formlar kullanmaktan kaçının.
   - Test adlarını kullanma.
@@ -45,14 +45,14 @@ Bir şirket adı girerken aşağıdakilere izin verilmez:
 - Yalnızca bir karakter kullanma.
 - Yalnızca $^# gibi özel &kullanın (aşağıdaki [tabloya](#table-of-special-characters) bakın).
 - Yalnızca boşlukları ve/veya sekmeleri kullanma.
-- LLC, Inc gibi kısıtlı listeden tek başına kısaltmaları kullanma (aşağıdaki [tabloya](#table-of-abbreviations) bakın).
+- LLC, Inc gibi kısıtlı listeden tek başına kısaltmaları kullanma [(aşağıdaki](#table-of-abbreviations) tabloya bakın).
 - ".com", ".org", ".edu", ".club" gibi internet Top-Level Etki Alanı (TDL) uzantılarına sahip adlar kullanma [(aşağıdaki](#table-of-top-level-domain-extensions) tabloya bakın).
 
 - Aynı karakterin, 999 gibi başka bir karakterle üç veya daha fazla kez tekrarlanan bir karakter kullanma.
 
 - 1 2 3 gibi tek tek karakterlerle karışık boşluklar ve/veya sekmeler kullanma.
 
-Bir müşteri e-posta adresi girerken aşağıdakilere izin verilmez:
+Müşteri e-posta adresi girerken aşağıdakilere izin verilmez:
 
 - E-posta adresi @microsoft.com içermez.
 - Müşteri e-posta adresi, iş ortağıyla aynı etki alanı adını içere değildir. Örneğin ABC adlı bir iş ortağı ile müşteri e-postası oluşturamayabilirsiniz. @abc.com
@@ -83,7 +83,7 @@ Bir müşteri e-posta adresi girerken aşağıdakilere izin verilmez:
 
 6. Abonelikler  sayfasında, müşterinizin satın almak istediği tekliflerini seçin, lisans sayısını girin ve ardından Sonraki: Gözden **Geçir'i seçin.**
 
-7. Gözden Geçir **sayfasında,** girdilerinizi doğruluk için denetleyin ve Gönder'i **seçin.**
+7. Gözden Geçir **sayfasında,** girdilerinizi doğruluk için denetleyin ve gönder'i **seçin.**
 
 8. Müşteri bilgilerini eklemeyi bitirdikten ve gerekli abonelikleri satın aldığınız zaman Bitti'yi **seçin.**
 
@@ -91,7 +91,7 @@ Bir müşteri e-posta adresi girerken aşağıdakilere izin verilmez:
 
 Aşağıdaki ülkelerdeki müşteriler için kayıt ekleyen doğrudan fatura iş ortakları ve dolaylı sağlayıcılar da şirket telefon numarasını ve kayıt kimliğini (kuruluş INN'si olarak da bilinir) girmeli:
 
-Arjantin, Güney Amerika, Brezilya, Brezilya, Güney Kore, Hindistan, Brezilya, Brezilya, Hindistan, Rusya, Afrika, Rusya, Suudi Arabistan, Güney Afrika, Güney Sudan, Tacikistan, Hindistan, Rusya, Afrika, Afrika Birleşik Devletleri, Özbekistan, Vietnam ve Vietnam
+Afrika, Afrika, Brezilya, Brezilya, Hindistan, Güney Afrika, Kırgızlar, Afrika, Vietnam, Myanmar, Arak, Rusya, Suudi Arabistan, Güney Afrika, Güney Sudan, Tajikistan, Arjantin, Rusya, Afrika, Birleşik Birleşik Arab Vezni, Özbekistan, Vietnam ve Vietnam
 
 ## <a name="company-name-and-email-characters-abbreviations-and-extensions"></a>Şirket adı ve e-posta karakterleri, kısaltmalar ve uzantılar
 
@@ -124,35 +124,35 @@ Aşağıdaki tablolarda, yukarıdaki yeni kurallar bölümünde [belirtilen öğ
 | "l.l.p." | "pte ltd" | " l l p" | "wll" |
 | "c. p. a." | "private limited" | "corp" | "lda" |
 | "l. l. p." | "pvt" | "corporation" | "sarl" |
-| "l l c" | "Pvt Ltd" | d | "Kft" |
-| "Corp." | "Zrt" | alınabilir | Ltd |
-| "LLC." | Ooo | az | "Ltd." |
-| "LLP." | "LLP" | LLC | "Sdn Bhd"
+| " l l c" | "pvt ltd" | "inc" | "kft" |
+| "corp." | "zrt" | "incorporated" | "ltd" |
+| "llc." | "ooo" | "sınırlı" | "ltd." |
+| "llp." | "llp" | "llc" | "sdn zamand"
 
 ### <a name="table-of-top-level-domain-extensions"></a>En üst düzey etki alanı uzantıları tablosu
 
-| Leri.  | Leri.  | Leri.  | Leri. |
+| Dahili.  | Dahili.  | Dahili.  | Dahili. |
 | ----- | ----- | ----- | ----- |
-| . AC | . ba | . ca | . de |
-| . ad | . bb | . CC | . dj |
-| . AE | . BD | . CD | . dk |
-| . AF | . | . CF | . DM |
-| . AG | . BF | . CG | . do |
-| . AI | . bg | . ch | . dz |
-| . al | . BH | . CI | . FM |
-| . har | . bi | . CK | . fo |
-| . a | . BJ | . cl | . fr |
-| . Ao | . bl | . cm | . ga |
-| . aq | . BM | . cn | . GB |
-| . ar | . milyar TL | . Co | . GD |
-| as | . Bo | . CR | . ge |
-| . at | . BQ | . cu | . GF |
-| . au | . br | . CV | . gg |
-| . aw | . BS | . FA | . gh |
-| . ax | . BT | . CX | . gi |
-| . az | . bv | . cy | . gl |
-| . EC | . siyah beyaz | . cz | . GM |
-| . Ee | tarafından | . AB | .gn |
+| .ac | .ba | .ca | .de |
+| .ad | .bb | .cc | .dj |
+| .ae | .bd | Cd | .dk |
+| .af | .be | .cf | .dm |
+| .ag | .bf | .cg | .do |
+| Ai | .bg | .ch | .dz |
+| .al | .fare | .ci | .fm |
+| .am | .bi | .ck | .fo |
+| .an | .kanallar | .cl | Fr |
+| .ao | .bl | .cm | .ga |
+| .aq | .bm | .cn | .gb |
+| .ar | .bn | .co | .gd |
+| .as | .bo | .cr | Ge |
+| .at | .bq | .cu | .gf |
+| Au | .br | .cv | .gg |
+| .aw | .bs | .cw | .gh |
+| .ax | .bt | .cx | .gi |
+| .az | .bv | .cy | .gl |
+| .ec | .bw | .cz | .gm |
+| .ee | .by | .eu | .gn |
 | .örn. | .bz | .fi | .gp |
 | .eh | Es | .fj | .gq |
 | .er | .et | .fk | .gr |
@@ -174,36 +174,36 @@ Aşağıdaki tablolarda, yukarıdaki yeni kurallar bölümünde [belirtilen öğ
 | .jp | .ma | .na | Ps |
 | .ke | .mc | .nc | .pt |
 | .kg | .md | .ne | .pw |
-| .yis | .me | .nf | .py |
+| .km | .me | .nf | .py |
 | .ki | .mf | .ng | .qa |
 | .km | .mg | .ni | .re |
-| .kn | .mh | Nl | . ro |
-| . KP | . MK | . Hayır | . RS |
-| . kr | . ml | . NP | . ru |
-| . kW | . dd | . NR | . RW |
-| . KY | . MN | . nu | . sa |
-| . SB | . tf | . VC | .中国 |
-| . SC | . TG | . ve | .中國 |
-| . SD | . TH | . VG | .భారత్ |
-| . o | . TJ | . VI | .ලංකා |
-| . SG | . TK | . vn | .ભારત |
-| . sh | . TL | . vu & lt | .भारतम् |
-| . si | . tm | . WF | .भारत |
-| . SJ | . TN | . ws | .भारोत |
-| . SK | . | .ಭಾರತ | .укр |
-| . SL | . TP | .한국 | .香港 |
-| . SM | . tr | .ଭାରତ | .台湾 |
-| . sn | . tt | .ভাৰত | .台灣 |
-| . bu nedenle | . TV | .ভারত | .мон |
-| . SR | . tw | .சிங்கப்பூர் | . TC |
-| . ss | . TZ | . sz | . TD |
-| . St | . ua | .বাংলা | .uz |
-| . su | . UG | .қаз | . va |
-| . ZF | . uk | .срб | .мкд |
-| . SX | . um | .бг | .ею |
-| . sy | . us | .бел | uy |
-| . TC | .uz | .мкд |  |
+| .kn | .mh | Nl | .ro |
+| .kp | .mk | .no | .rs |
+| .kr | .ml | .np | Ru |
+| .wan | .mm | .nr | .rw |
+| .ky | .mn | .nu | .sa |
+| .sb | .tf | .vc | .中国 |
+| .sc | .tg | .ve | .中國 |
+| .sd | Th | .vg | .భారత్ |
+| .se | .tj | .vi | .ලංකා |
+| .sg | .tk | .vn | .ભારત |
+| .sh | .tl | .vu | .भारतम् |
+| .si | .tm | .wf | .भारत |
+| .sj | .tn | .ws | .भारोत |
+| .sk | .to | .ಭಾರತ | .укр |
+| .sl | .tp | .한국 | .香港 |
+| .sm | .tr | .ଭାରତ | .台湾 |
+| .sn | Tt | .ভাৰত | .台灣 |
+| .so | .tv | .ভারত | .мон |
+| .sr | .tw | .சிங்கப்பூர் | .tc |
+| .ss | .tz | .sz | .td |
+| .st | .ua | .বাংলা | .uz |
+| .su | .ug | .қаз | .va |
+| .sv | .uk | .срб | .мкд |
+| .sx | .um | .бг | .ею |
+| .sy | .us | .бел | Uslu |
+| .tc | .uz | .мкд |  |
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-- Bulut Çözümü Sağlayıcısı programı aracılığıyla müşterilere satım yapabilecekleriniz hakkında daha fazla bilgi için, bkz [. Bulut Çözümü Sağlayıcısı programındaki iş ortağı teklifleri](csp-offers.md)
+- Bulut Çözümü Sağlayıcısı programı aracılığıyla müşterilere ne satabilirsiniz hakkında daha fazla bilgi için bkz. [Bulut Çözümü Sağlayıcısı programı](csp-offers.md)
