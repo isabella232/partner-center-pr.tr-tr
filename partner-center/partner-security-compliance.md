@@ -9,12 +9,12 @@ ms.author: iswillia
 ms.localizationpriority: high
 ms.topic: conceptual
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6fe463ca0b134d2e0c758826b411419f57ca32bfe71ec9663b3da093f5473146
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 15e2792a38f8fc90612282ff30ad57dc320fc96a
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115696198"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123961115"
 ---
 # <a name="security-requirements-status-report"></a>Güvenlik gereksinimleri durum raporu
 
@@ -33,7 +33,7 @@ Güvenlik gereksinimleri durum raporu, iş ortağı MFA uygulamasıyla ilgili ö
 
 ### <a name="mfa-configuration-on-a-partner-tenant"></a>Bir iş ortağı kiracısında MFA yapılandırması
 
-**MFA ile etkinleştirilen kullanıcı hesaplarının ölçüm yüzdesi, burada listelenen seçenekler kullanılarak zorlandı:** iş ortağı kiracınızda MFA 'ya zorlanan etkin kullanıcı hesaplarının yüzdesini gösterir. Uyumluluk elde etmek için bu [MFA seçeneklerinden](/azure/active-directory/fundamentals/concept-fundamentals-mfa-get-started) birini kullanabilirsiniz. Bu veriler, günlük olarak yakalanır ve raporlanır. Örneğin:
+**MFA ile etkinleştirilen kullanıcı hesaplarının ölçüm yüzdesi, burada listelenen seçenekler kullanılarak zorlandı:** iş ortağı kiracınızda MFA 'ya zorlanan etkin kullanıcı hesaplarının yüzdesini gösterir. Uyumluluk elde etmek için bu [MFA seçeneklerinden](/azure/active-directory/fundamentals/concept-fundamentals-mfa-get-started) birini kullanabilirsiniz. Bu veriler, günlük olarak yakalanır ve raporlanır. Örnek:
 
 - Contoso, kiracıda 110 Kullanıcı hesabı olan bir CSP iş ortağıdır, bu kullanıcı hesaplarının 10 ' u devre dışı bırakılır. 
 - 100 Kullanıcı hesabının geri kalanında 90, sunulan [MFA seçenekleri](/azure/active-directory/fundamentals/concept-fundamentals-mfa-get-started)kullanılarak MFA 'ya zorlanır. Bu nedenle, ölçüm %90 gösterir. 
@@ -44,7 +44,7 @@ Güvenlik gereksinimleri durum raporu, iş ortağı MFA uygulamasıyla ilgili ö
 
 #### <a name="dashboard-mfa-verification"></a>Pano MFA doğrulaması
 
-**Iş Ortağı Merkezi portalındaki** ölçüm, Iş Ortağı Merkezi panosu dahilinde etkinliklerle ilgilidir. MFA doğrulamasını tamamlayan kullanıcılar tarafından yapılan işlemlerin yüzdesini ölçer. Örneğin:
+**Iş Ortağı Merkezi portalındaki** ölçüm, Iş Ortağı Merkezi panosu dahilinde etkinliklerle ilgilidir. MFA doğrulamasını tamamlayan kullanıcılar tarafından yapılan işlemlerin yüzdesini ölçer. Örnek:
 
 - Contoso, kemal ve John olmak üzere iki yönetici aracısına sahip bir CSP iş ortağıdır.
 - İlk gün, Gamze doğrulaması olmadan Iş Ortağı Merkezi panosunda oturum açtı ve üç işlem yaptı.
@@ -57,7 +57,7 @@ Iş Ortağı Merkezi panosunda MFA doğrulaması yapmadan hangi kullanıcının 
 
 #### <a name="appuser-mfa-verification"></a>Uygulama + Kullanıcı MFA doğrulaması
 
-**API veya SDK aracılığıyla** ölçüm, Iş Ortağı Merkezi API Istekleri aracılığıyla App + kullanıcı kimlik doğrulaması ile ilgilidir. MFA talebine sahip bir erişim belirteci kullanılarak yapılan API isteklerinin yüzdesini ölçer. Örneğin:
+**API veya SDK aracılığıyla** ölçüm, Iş Ortağı Merkezi API Istekleri aracılığıyla App + kullanıcı kimlik doğrulaması ile ilgilidir. MFA talebine sahip bir erişim belirteci kullanılarak yapılan API isteklerinin yüzdesini ölçer. Örnek:
 
 - Fabrikam bir CSP iş ortağıdır ve App + kullanıcı kimlik doğrulaması ve yalnızca uygulama kimlik doğrulama yöntemlerinin bir karışımını kullanan bir CSP uygulamasına sahiptir.
 - İlk günde uygulama, MFA doğrulaması olmadan uygulama + kullanıcı kimlik doğrulama yöntemi aracılığıyla elde edilen bir erişim belirteciyle desteklenen üç API isteği yaptı.

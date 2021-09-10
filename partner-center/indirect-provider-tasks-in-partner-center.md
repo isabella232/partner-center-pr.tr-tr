@@ -9,12 +9,12 @@ ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
 ms.date: 03/23/2021
-ms.openlocfilehash: d369f558412f89fab92201ec21cae363e87a555e4ab6e31a32a52a33f429cf7e
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: c773d21f5e19bdb9712ed7a5d62061187d83281f
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115692526"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123960194"
 ---
 # <a name="partner-with-indirect-resellers-in-the-cloud-solution-provider-program"></a>Bulut Çözümü Sağlayıcısı programında dolaylı kurumsal bayilerle iş ortaklığı yapma
 
@@ -140,21 +140,21 @@ Yeni bir müşteri hesabıyla bir satıcı ilişkilendirdiğinizde, satıcıya h
 6. Siparişi gönderdikten sonra **onay** sayfası görüntülenir. **Kurulum bilgileri** altında yönetici kullanıcı hesabı adı ve geçici parola görüntülenir. Kullanıcı hesabı adını ve parola bilgilerini kopyalayarak yeni müşteriye gönderebilirsiniz.
 
     > [!IMPORTANT]  
-    > Bu sayfayı kapatarak bu bilgilere yeniden erişileyemsiniz, çünkü kullanıcı hesabı adını ve parolasını not edin.
+    > Bu sayfayı kapattırdikten sonra bu bilgilere yeniden erişileyemleri için kullanıcı hesabı adını ve parolasını not edin.
 
 7. **Bitti** seçeneğini belirleyin. Yeni müşteri, dolaylı kurumsal bayiyle ilişkili müşteri listenizde görünür. Kurumsal bayi artık müşterinin hesap bilgilerine ve aboneliklerine yönetici erişimine sahip olur ve abonelikleri müşteri adına yönetebilir.
 
 ### <a name="add-new-subscriptions-to-customer-accounts"></a>Müşteri hesaplarına yeni abonelikler ekleme
 
-Müşteriler yeni abonelikler satın almak, mevcut abonelikleri yükseltmek veya ek lisans satın almak isterken, bu değişiklikleri Microsoft 365 yapabilirsiniz. Bunu aşağıdaki Azure portal.
+Müşteriler yeni abonelik satın almak, mevcut abonelikleri yükseltmek veya ek lisans satın almak isterken, bu değişiklikleri Microsoft 365 portal aracılığıyla müşterinin hesabında yapabilirsiniz. Bunu aşağıdaki Azure portal.
 
 1. İş Ortağı Merkezi  **menüsünden Müşteriler'i** seçin.
 
-2. Hesabını değiştirmek istediğiniz müşteriyi bulun. Seçimlerinizi daraltmak için listeyi dolaylı kurumsal bayiye göre filtreleebilirsiniz. Aşağı oku ve ardından Abonelik ekle'yi seçerek müşterinin **kaydını genişletin.**
+2. Hesabını değiştirmek istediğiniz müşteriyi bulun. Tercihlerinizi daraltmak için listeyi dolaylı kurumsal bayiye göre filtre alabilirsiniz. Aşağı oku ve ardından Abonelik ekle'yi seçerek müşterinin **kaydını genişletin.**
 
 3. Yeni **abonelik sayfasında** abonelikleri seçin ve müşterinin satın almak istediği lisans sayısını girin.
 
-4. Aboneliği bir kurumsal bayiyle ilişkilendirmek için listeden kurumsal bayinin adını ve ardından Gönder'i **seçin.** Kurumsal bayiyi abonelikle birlikte bağ kurarak, uygunsa teşvik kazanmalarını sağlar.
+4. Aboneliği bir kurumsal bayiyle ilişkilendirmek için listeden kurumsal bayinin adını ve ardından Gönder'i **seçin.** Kurumsal bayinin abonelikle birlikte olması, varsa teşvik kazanmalarına olanak sağlar.
 
 5. Yeni abonelikler müşterinin abonelik listesinde görünür.
 

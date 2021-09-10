@@ -8,12 +8,12 @@ ms.localizationpriority: medium
 ms.date: 12/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-enroll
-ms.openlocfilehash: 1fbf8ba030a6f6dd93314ef64130d75312cf36a70521d75249fd31d09e3b6416
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: af342ef92613adbeb7ac37e0dd5e813949e67e03
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115681119"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123961576"
 ---
 # <a name="value-added-tax-vat-information"></a>Katma değer vergisi (KDV) bilgileri
 
@@ -24,7 +24,7 @@ ms.locfileid: "115681119"
 
 ## <a name="understanding-vat-numbers"></a>KDV numaralarını anlama
 
-KDV numarası, Avrupa Birliği'nde ülkeler veya bölgeler için kullanılan tanımlayıcıdır. Daha fazla bilgi için Avrupa Birliği'nin resmi KDV [Bilgileri Exchange Sistemi (VIES) sitesine bakın.](http://ec.europa.eu/taxation_customs/vies/vieshome.do)
+KDV numarası, Avrupa Birliği'nde ülkeler veya bölgeler için kullanılan tanımlayıcıdır. Daha fazla bilgi için Avrupa Birliği'nin resmi KDV [Bilgileri Exchange System (VIES) sitesine bakın.](http://ec.europa.eu/taxation_customs/vies/vieshome.do)
 
 ## <a name="location-specific-vat-information"></a>Konuma özgü KDV bilgileri
 
@@ -38,15 +38,15 @@ Microsoft krediyi ve yeniden faturayı desteklemez. Herhangi bir abonelikleri sa
 
 ### <a name="south-africa"></a>Güney Afrika
 
-Microsoft artık Güney Afrika'daki iş ortakları tarafından satın alınan dijital içerik ve hizmetlere standart KDV'yi uygular. Kdv'yi faturalarınıza dahil etmek ve bunu kendiniz yönetmek için Microsoft'a KDV No numaranızı göndererek [iş ortağı faturalama profilinizi güncelleştirmeniz gerekir.](organization-tax-info.md)
+Microsoft artık Güney Afrika'daki iş ortakları tarafından satın alınan dijital içerik ve hizmetlere standart KDV'yi uygular. KDV'yi faturalarınıza dahil etmek ve bunu kendiniz yönetmek için Microsoft'a KDV No numaranızı göndererek [iş ortağı faturalama profilinizi güncelleştirmeniz gerekir.](organization-tax-info.md)
 
 ### <a name="turkey"></a>Türkiye
 
-Microsoft artık, Avrupa'daki iş ortakları tarafından satın alınan dijital içerik ve hizmetlere standart KDV'yi uygular. Kdv'yi faturalarınıza dahil etmek ve bunu kendiniz yönetmek için Microsoft'a KDV No numaranızı göndererek [iş ortağı faturalama profilinizi güncelleştirmeniz gerekir.](organization-tax-info.md)
+Microsoft artık, Avrupa'daki iş ortakları tarafından satın alınan dijital içerik ve hizmetlere standart KDV'yi uygular. KDV'yi faturalarınıza dahil etmek ve bunu kendiniz yönetmek için Microsoft'a KDV No numaranızı göndererek [iş ortağı faturalama profilinizi güncelleştirmeniz gerekir.](organization-tax-info.md)
 
 ## <a name="accepted-formats-for-vat-numbers"></a>KDV numaraları için kabul edilen biçimler
 
-Microsoft'un vergi önerileri sağlamay olduğunu ve aşağıdaki tablonun yalnızca rehberlik olarak sağlanmıştır. Bu kılavuzun Microsoft'a KDV numarası sağlamanız için yeterli değilse, son değişiklikleri yerel vergi yetkililerinize kontrol edin.
+Microsoft'un vergi önerileri sağlamay olduğunu ve aşağıdaki tablonun yalnızca rehberlik olarak sağlanmıştır. Bu kılavuzun Microsoft'a KDV numarası sağlamanız için yeterli değilse, son değişiklikler için yerel vergi yetkililerinizi kontrol edin.
 
 |Ülke/bölge | KDV bilgileri |
 |:------------|:----------|

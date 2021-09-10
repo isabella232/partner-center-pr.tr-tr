@@ -8,17 +8,17 @@ ms.author: gushuchm
 ms.date: 08/16/2021
 ms.custom: contperf-fy21q3
 ms.openlocfilehash: 15b85abde224caafb3f2f6842eb4a38f7b767ffe
-ms.sourcegitcommit: b2b04afce99412870b451878499e002e17e7b636
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/16/2021
-ms.locfileid: "122226812"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123937003"
 ---
 # <a name="what-is-microsoft-appsource"></a>Microsoft AppSource nedir?
 
 Microsoft AppSource, endüstri lideri yazılım sağlayıcıları tarafından inşa edilen binlerce iş uygulaması ve hizmeti içeren bir çevrimiçi mağazadır. İşlerinizi çalıştırmanıza yardımcı olan iş yazılımlarını ve hizmetlerini bulmak, denemek, satın almak ve dağıtmak için AppSource'ı kullanabilirsiniz.
 
-AppSource kataloğu hizmet olarak yazılım (SaaS) uygulamaları, Microsoft Azure, Dynamics 365, Microsoft 365, Power BI, Power Apps ve Microsoft iş ortaklarının danışmanlık hizmetleri için yerleşik çözümler içerir. AppSource ürün kataloğuna Microsoft 365, Dynamics 365 ve Microsoft Power Platform'da ürün içinde deneyim [https://appsource.microsoft.com](https://appsource.microsoft.com) aracılığıyla erişin. AppSource'un çözümleri, microsoft kurumsal bayileri tarafından Bulut Çözümü Sağlayıcısı kullanılabilir.
+AppSource kataloğu hizmet olarak yazılım (SaaS) uygulamaları, Microsoft Azure, Dynamics 365, Microsoft 365, Power BI, Power Apps ve Microsoft iş ortaklarının danışmanlık hizmetleri için yerleşik çözümler içerir. AppSource ürün kataloğuna Microsoft 365, Dynamics 365 ve Microsoft Power Platform üzerinden veya üzerinden [https://appsource.microsoft.com](https://appsource.microsoft.com) erişin. AppSource'un çözümleri, microsoft kurumsal bayileri tarafından Bulut Çözümü Sağlayıcısı kullanılabilir.
 
 ## <a name="find-what-you-need-on-appsource"></a>AppSource'ta ihtiyacınız olan her şeyi bulun
 
@@ -78,7 +78,7 @@ Tek başına eklentileri arıyorsanız, bunları aşağıdaki yöntemlerden biri
 
 SaaS uygulaması satın alma gerektiriyorsa [bkz. SaaS tekliflerini Microsoft AppSource.](purchase-software-appsource.md)
 
-Microsoft 365 Yönetici kullanıcılar hem SaaS hem de eklentileri tek bir yerde dağıtabilirsiniz. Daha fazla bilgi edinmek için bkz. [Test ve Microsoft 365 Uygulamaları - Microsoft 365 yöneticisi.](/microsoft-365/admin/manage/test-and-deploy-microsoft-365-apps)
+Microsoft 365 Yönetici saas ve eklentileri tek bir yerde dağıtabilirsiniz. Daha fazla bilgi için, [bkz. Test ve Microsoft 365 Uygulamaları - Microsoft 365 yöneticisi.](/microsoft-365/admin/manage/test-and-deploy-microsoft-365-apps)
 
 ## <a name="find-ratings-and-reviews"></a>Derecelendirmeleri ve incelemeleri bulma
 

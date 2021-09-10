@@ -8,12 +8,12 @@ description: İş ortağı içgörüleri verilerine program aracılığıyla eri
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: c558852b7c2af7243187a856067d17a2137cfac867149b80e9c852a1d08d780a
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: cb2bc8be9ea49c0d75da4d78961865331ed908c9
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115683804"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123960935"
 ---
 # <a name="sample-application"></a>Örnek Uygulama
 
@@ -36,7 +36,7 @@ ms.locfileid: "115683804"
 
 ## <a name="how-to-run-the-application"></a>Uygulamayı çalıştırma
 
-- Bu komutu kullanarak depoyu yerel bir sisteme klonlama:
+- Şu komutu kullanarak depoyu yerel bir sisteme klonlama:
 
 ```cli
 git clone https://github.com/partneranalytics/ProgrammaticExportSampleAppMPN.git
@@ -47,9 +47,9 @@ git clone https://github.com/partneranalytics/ProgrammaticExportSampleAppMPN.git
 
 - Uygulamayı hızlı bir şekilde çalıştırmak için, istemci kimliğini ve istemci gizliappsettings.Development.js **güncelleştirin**
 
-:::image type="content" source="images/insights/prog-acc-appsetting-development.png" alt-text="Uygulama sıfırlama geliştirme json'larını":::
+:::image type="content" source="images/insights/prog-acc-appsetting-development.png" alt-text="Uygulama sıfırlama geliştirme json'larını illustrating":::
 
-Uygulamayı çalıştırarak yerel bir web sunucusu başlar ve bir sayfa açılır ( `https://localhost:44365/ProgrammaticExportSampleApp/sample` ).
+Uygulamayı çalıştırarak yerel bir web sunucusu açılır ve bir sayfa açılır ( `https://localhost:44365/ProgrammaticExportSampleApp/sample` ).
   
 :::image type="content" source="images/insights/prog-acc-sample-application.png" alt-text="Örnek uygulamanın kullanıcı arabirimini örnekleme":::
 

@@ -1,20 +1,20 @@
 ---
-title: MICROSOFT LEARN MCP Kimliğini İş Ortağı Merkezi bağlama
+title: McP Microsoft Learn kimliğini İş Ortağı Merkezi bağlama
 ms.topic: how-to
 ms.date: 08/03/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-membership
-description: McP id'nizi İş Ortağı Merkezi hesabınızla ilişkilendirmeyi öğrenin. Böylece, şirket yetkinliğe yönelik olarak benimsilen eğitim ve öğrenme yollarını görebilir.
+description: McP id'nizi İş Ortağı Merkezi hesabınızla ilişkilendirmeyi öğrenin. Böylece, şirket yetkinliğe yönelik olarak sahip olduğunuz eğitim ve öğrenme yollarını görebilir.
 author: kbangalore
 ms.author: kiranban
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.openlocfilehash: d78009e66f8a12779e96d08a16a2877a6e88fc5d
-ms.sourcegitcommit: 815760499700bf2c947550524cbddd091622081f
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "121915413"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123960464"
 ---
 # <a name="link-or-unlink-a-microsoft-certification-profile-id-mcid-to-a-microsoft-partner-network-mpn-account"></a>Microsoft Sertifika profili kimliğini (MCID) bir Microsoft İş Ortağı Ağı (MPN) hesabına bağlama veya bağlantısını geri alma
 
@@ -43,7 +43,7 @@ Bir Microsoft Learning hesabı ilişkilendirmek için aşağıdaki yordamı kull
 3. İstendiğinde, Microsoft sertifika profilinizde (MCID'niz) oturum atı için kullanabileceğiniz kimlik bilgilerini girin.
 
 >[!NOTE]
->Microsoft Learning kimlik bilgileri Partner University hesabı kimlik bilgileriyle aynı ise Microsoft Learning hesabımı **email@address ilişkilendirmek için kullan'ı seçin.**
+>Microsoft Learning kimlik bilgileri Partner University hesabı kimlik bilgileriyle aynı ise, Microsoft Learning hesabımı **email@address ilişkilendirmek için kullan'ı seçin.**
 
 ## <a name="download-skills-report-microsoft-certification-list"></a>Beceri raporunu indirme (Microsoft Sertifikasyon listesi)
 Ayrıntılara ihtiyacınız varsa, beceriler rapora herhangi bir Genel Yönetici veya MPN İş Ortağı Yöneticisi tarafından İş Ortağı Merkezi. Daha [fazla bilgi edinmek için.](./mpn-skills-report.md#view-skills-report-data)
@@ -51,9 +51,9 @@ Ayrıntılara ihtiyacınız varsa, beceriler rapora herhangi bir Genel Yönetici
 
 ## <a name="frequently-asked-questions-about-linking-accounts"></a>Hesapları bağlama hakkında sık sorulan sorular
 
-### <a name="how-can-a-user-link-their-microsoft-certification-profile-id-mcid-with-the-microsoft-partner-network-mpn-organization-they-work-for"></a>Bir kullanıcı Microsoft Sertifika profili kimliğini (MCID) birlikte Microsoft İş Ortağı Ağı (MPN) kuruluşuna nasıl bağlar?
+### <a name="how-can-a-user-link-their-microsoft-certification-profile-id-mcid-with-the-microsoft-partner-network-mpn-organization-they-work-for"></a>Bir kullanıcı Microsoft Sertifikasyon profili kimliğini (MCID) birlikte Microsoft İş Ortağı Ağı (MPN) kuruluşuna nasıl bağlar?
 
-Kullanıcıların oturum açması İş Ortağı Merkezi oturum **açması ve Profilim** partner **university** hesabını al veya **Microsoft** Learning hesabıyla iş ortağını seçerek kimlik bilgilerini girmeleri gerekir. Bir Microsoft Learning hesabıyla ilişkilendirmek için kullanıcının Microsoft Sertifika profilinde (MCID) oturum aken kullanılan kullanıcı adını ve parolayı girdisi gerekir. Gizlilikle ilgili dikkat edilmesi gerekenler nedeniyle kullanıcıların hesap bağlama işlemini kendileri tamamlaması gerekir.  
+Kullanıcıların İş Ortağı Merkezi oturum açması ve Profilim'e gidip Partner **University** hesabını al veya **Microsoft** Learning hesabını ilişkilendirmesi ve kimlik bilgilerini girmeleri gerekir.  Bir Microsoft Learning hesabıyla ilişkilendirmek için kullanıcının Microsoft Sertifikasyon profilinde (MCID) oturum aken kullanılan kullanıcı adını ve parolayı girdisi gerekir. Gizlilikle ilgili dikkat edilmesi gerekenler nedeniyle kullanıcıların hesap bağlama işlemini kendileri tamamlaması gerekir.  
 
 ### <a name="how-can-a-user-unlink-their-mcid-from-the-mpn-organization-they-work-for"></a>Bir kullanıcı MCID'sini üzerinde çalışmakta olduğu MPN kuruluşundan nasıl kaldırmış olabilir?
 

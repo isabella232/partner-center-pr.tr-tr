@@ -9,12 +9,12 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 29292baed839e6ce51b1656377634abb0172124c7ab2f45cd7bffb0b4563873b
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: c198418331578080faa8371973ab03113ad54c3f
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115681612"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123960515"
 ---
 # <a name="use-partner-contribution-indicators-to-attain-the-cloud-business-applications-competency"></a>Bulut İş Uygulamaları yetkinliğine ulaşmak için İş Ortağı Katkısı Göstergelerini kullanın
 
@@ -194,27 +194,27 @@ Net yeni gelir bir performans [göstergesidir.](partner-contribution-indicators.
 
 - Net yeni gelir, uygun Dynamics 365 ürünleri için tüm satış kanalları genelinde net yeni faturalandır edilen gelir olarak tanımlanır.
 - Net yeni gelir, 12 aylık bir dönemde toplanıyor ve 10 puanlık maksimum kazanç elde ediyor.
-- Net yeni gelir için puanlar, faturalama eksi kredileri olarak hesaplanır ve 12 ay boyunca toplanır.
+- Net yeni gelir için puanlar, faturalama eksi kredileri olarak hesaplanır ve 12 aya kadar toplanır.
 - Net yeni gelir, aşağıdaki uygun ürünlere göre hesaplanır:
   - Customer Engagement'a uygun ürünler şunlardır: Sales, Customer Service, Field Service, Project Service Automation, Marketing, Microsoft Relationship Sales, Plan 1, Talent ve Enterprise Team Member.
-  - Finans ve Operasyonlara uygun ürünler şunlardır: Birleşik Operasyonlar, Finans, Tedarik Zinciri Yönetimi, Perakende, Ticaret, Plan 2, Karma Gerçeklik, Yetenek ve Enterprise Ekip Üyesi.
+  - Finans ve Operasyonlar için uygun ürünler şunlardır: Birleşik Operasyonlar, Finans, Tedarik Zinciri Yönetimi, Perakende, Ticaret, Plan 2, Karma Gerçeklik, Yetenek ve Enterprise Ekip Üyesi.
 
-- Satış kanalları Kurumsal Anlaşma (EA), Bulut Çözümü Sağlayıcısı (CSP) ve Web Direct'i içerir.
+- Satış kanalları arasında Kurumsal Anlaşma (EA), Bulut Çözümü Sağlayıcısı (CSP) ve Web Direct yer almaktadır.
 - Yalnızca Kurumsal Anlaşma gelir: Bu gelir, sözleşmenin ilk yılındaki geliri içerir. İkinci ve üçüncü yılın yinelenen geliri dahil değildir.
 
 ### <a name="definitions-for-pci-metric-2---net-customer-adds"></a>PCI ölçüm tanımı tanımları #2 - Net müşteri ekler
 
 Net müşteri ekler bir performans [göstergesidir.](partner-contribution-indicators.md#pci-scoring-based-on-seven-key-indicators) Bu göstergenin noktaları, Cloud Business Applications uzmanlığı için şu şekilde hesaplanır:
 
-- Net müşteri ekleri, son 12 aylık dönemde toplanıyor ve maksimum 10 puan kazanç elde ediyor. 
+- Net müşteri ekleri, 12 aylık dönemde toplanıyor ve maksimum 10 puan kazanç elde ediyor. 
 
 - Tüm satış kanallarına net müşteriler eklenir. 
 
 - Net müşteri ekleri için puanlar, eklenen müşteriler eksi müşteri kaybedilip 12 ay boyunca toplanarak aylık olarak hesaplanır. 
 
-- Müşteri **eklemesi** şu koşullar altında tanımlanır: Bir müşterinin önceki ay içinde tüm aboneliklerinde ücretli yer yok ancak geçerli ay içinde en az bir ücretli yer vardır.
+- Müşteri **eklemesi** şu koşullar altında tanımlanır: Bir müşterinin önceki ay içinde tüm aboneliklerinde ücretli yer olmadığını ancak geçerli ay içinde en az bir ücretli yer olduğu durumlar.
 
-- Müşteri **kaybedilir** şu koşullar altında tanımlanır: Bir müşterinin önceki bir ay içinde  tüm aboneliklerinde en az bir ücretli yer varsa ve geçerli ay içinde ücretli bir yer yoksa.
+- Müşteri **kaybedilir** şu koşullar altında tanımlanır: Bir müşterinin önceki bir ay içinde  tüm aboneliklerinde en az bir ücretli yer varsa ve geçerli ay içinde hiç ücretli yer yoksa.
 
 - Net müşteri ekleri için maksimum ve kısmi puan kazanılır. Aşağıda belirli bir uzmanlık için maksimum puan kazanma gereksinimleri verilmiştir:
 
@@ -226,21 +226,21 @@ Net müşteri ekler bir performans [göstergesidir.](partner-contribution-indica
   > [!NOTE]
   > Geliştirilen ve gelişen pazarlar hakkında ayrıntılı bilgi için bu Microsoft İş Ortağı Ağı [bakın.](https://assetsprod.microsoft.com/mpn/mpn-developed-and-developing-countries.pdf)
 
-- Satış kanalları Kurumsal Anlaşma (EA), Bulut Çözümü Sağlayıcısı (CSP) ve Web Direct'i içerir.
+- Satış kanalları arasında Kurumsal Anlaşma (EA), Bulut Çözümü Sağlayıcısı (CSP) ve Web Direct yer almaktadır.
 
-- Doğrudan Microsoft ile çalışan birden çok iş ortağı/aynı müşteri  veya  müşteri için: Birden çok iş ortağının farklı abonelikler aracılığıyla aynı müşteriyle ilişkili olduğu veya müşterinin zaten doğrudan Microsoft ile çalıştığı durumlar için müşteri ekleri ve müşteri kayıplarıyla ilgili farklı hesaplamalar vardır. Bu hesaplamalar aşağıda görünür.
+- Doğrudan Microsoft ile çalışan birden çok iş ortağı/aynı müşteri  veya  müşteri için: Birden çok iş ortağının farklı abonelikler aracılığıyla aynı müşteriyle ilişkili olduğu veya müşterinin zaten doğrudan Microsoft ile çalıştığı durumlar için müşteri eklerinin ve müşteri kayıplarının farklı hesaplamaları vardır. Bu hesaplamalar aşağıda görünür.
 
   **Birden çok iş ortağı, aynı müşteri, farklı abonelikler için:**
 
 - Müşteri ilk kez eklenir:
     - Müşteriyle ilişkilendirilmiş tüm iş ortakları, yeni müşteri eklemesi için müşterinin ek ödemesi için kredi alacaklarını alacak.
-    - Eski veya yeni abonelikler aracılığıyla aynı müşteriyle irdeleyen iş ortakları, bu müşteri için yeni müşteri ekleme kredisi almayacak.
+    - Eski veya yeni abonelikler aracılığıyla aynı müşteriyle irdeleyen iş ortakları bu müşteri için yeni müşteri ekleme kredisi almayacak.
 - Müşteri kayboldu: Son 12 ay içinde müşteri eklemesi için kredi alan tüm ilişkili iş ortakları, müşterinin kaybettiği ay içinde bu krediyi kaybeder.
 - Daha önce kaybedilen müşteri geri eklendi: Müşteriyle ilişkili tüm iş ortakları, müşterinin yeniden ekleniyor olduğu ay yeni müşteri eklemesi için kredi alacak.
   
   **Müşteri zaten doğrudan Microsoft ile çalışırken:**
 
-   - Müşteri zaten doğrudan Microsoft ile çalışıyorsa ve yeni müşteri ekleme ölçütlerini karşılamışsa, daha sonra eski veya yeni abonelikler aracılığıyla aynı müşteriyle ilişken iş ortakları bu müşteri için yeni müşteri ekleme kredisi almayacak.
+   - Müşteri zaten doğrudan Microsoft ile çalışıyorsa ve yeni müşteri ekleme ölçütlerini karşılamışsa, daha sonra eski veya yeni abonelikler aracılığıyla aynı müşteriyle irdeleyen iş ortakları bu müşteri için yeni müşteri ekleme kredisi almayacak.
 
 ### <a name="definitions-for-pci-metric-3---functional-consultants"></a>PCI ölçüm tanımı tanımları #3 - İşlev danışmanları
 
@@ -248,7 +248,7 @@ Net müşteri ekler bir performans [göstergesidir.](partner-contribution-indica
 
 - İşlev danışmanı gösterge noktaları, 15 noktanın mümkün olan en yüksek kazanç değerine sahip geçerli ay anlık görüntüsünü temel alıyor.
 
-- İşlev danışmanları, Şu anda etkin olan bir İşlev Danışmanı İş Ortağı sertifikasına sahip olan kişi sayısı (Müşteri Etkileşimi İşlev Danışmanı sertifikası veya Finance and Operations İşlev Danışmanı olarak tanımlanır.
+- İşlev danışmanları, Müşteri Katılımı İşlev Danışmanı sertifikası veya Finance and Operations İşlev Danışmanı sertifikası gibi şu anda etkin olan İşlev Danışmanı İş Ortağı sertifikasına sahip kişi sayısı olarak tanımlanır.
 
 - Customer Engagement İşlev Danışmanı sertifikasyonu için bir kişinin şunları geçmesi gerekir:
   - MB-200 \* veya PL-200<br/>
@@ -263,7 +263,7 @@ Net müşteri ekler bir performans [göstergesidir.](partner-contribution-indica
 > [!NOTE]
 > Yıldız işaretiyle ( ) işaretlenen sınavlar önümüzdeki aylarda kaldır veya \* değiştir değiştirildi. Belirli ayrıntılar için aşağıya bakın:
 >
-> - Tek bir yıldız işaretiyle ( ) işaretlenen sınavlar \* 31 Aralık 2020'de kaldırıldı. 31 Aralık 2020'de kaldırılacak olan sınavlar, kaldırılacaksa 31 Aralık 2021'e kadar yetkinlik elde etme ve yenileme için uygun olmaya devamacaktır.
+> - Tek bir yıldız işaretiyle ( ) işaretlenen sınavlar \* 31 Aralık 2020'de kaldırıldı. 31 Aralık 2020'de kaldırılacak olan sınavlar, 31 Aralık 2021'e kadar (bunlar sona ermeden önce alınmışsa) uzmanlık kazanma ve yenileme için uygun olmaya devam ediyor.
 > - İki yıldız işaretiyle ( ) işaretlenen \* \* sınavlar 31 Ocak 2021'de sona elenir. 31 Ocak 2021'de kaldırılacak olan sınavlar, 31 Ocak 2022'ye kadar (bunlar sona ermeden önce alınmışsa) yetkinliğe sahip olmaya ve yenilemeye uygun olmaya devam ediyor.
 
 ### <a name="definitions-for-pci-metric-4---functional-consultant-growth"></a>PCI ölçüm tanımı tanımları #4 - İşlev danışmanı büyümesi
@@ -280,7 +280,7 @@ Net müşteri ekler bir performans [göstergesidir.](partner-contribution-indica
 
 - Temel anlık görüntü daha sonra bir sonraki Bulut hizmeti Business Applications yenileme tarihine sıfırlanır.
 
-- Noktalara uygun olmak için, temel anlık görüntü alınırken En az **15** İşlev Danışmanı Geliştirme pazar iş ortakları için İş Ortakları ve Pazar iş ortakları geliştirmek için **5'e** sahip olmak gerekir.
+- Puanlara uygun olmak için, temel anlık görüntü alınırken En az **15** İşlev Danışmanı Geliştirme pazar iş ortakları için İş Ortakları ve Pazar iş ortakları geliştirmek için **5'e** sahip olmak gerekir.
 
 - **Kısmi puanlar kazanmayacak.** Temel anlık görüntü üzerinde büyümenin aşağıdaki tabloda belirtilen eşikleri karşılaması veya aşması gerekir. Tabloda puan kazanmak **için gereken** **işlevsel** danışman temeli ile Geliştirilmiş ve Geliştiriliyor sütunu yer alır.
 
@@ -292,9 +292,9 @@ Net müşteri ekler bir performans [göstergesidir.](partner-contribution-indica
 
 **Noktaları elde etmek için iki. seçenek:**
 
-- Geliştirilen pazar iş ortakları, ilk PCI tabanlı Bulut Hizmeti uzmanlık yıl dönümü için 50 veya daha fazla işlevsel Business Applications onaylar. (Gelişen pazar iş ortakları, ilk PCI tabanlı Bulut Hizmeti uzmanlık yıl dönümü için 25 veya daha fazla işlev danışmanını Business Applications onaylar.)
+- Geliştirilmiş pazar iş ortakları, ilk PCI tabanlı Bulut Hizmeti uzmanlık yıl dönümü için 50 veya daha fazla işlevsel Business Applications onaylar. (Gelişen pazar iş ortakları, ilk PCI tabanlı Bulut Hizmeti uzmanlık yıl dönümü için 25 veya daha fazla işlev danışmanını Business Applications onaylar.)
 
-- Bu eşiğe ulaşacak olursanız, bu tarihten itibaren 24 ay boyunca İşlev Danışmanı 15 noktanın tamamını alırsınız. Bu durum etkili bir şekilde, iki bulut İşlev Danışmanı uzmanlık yıldönümleri için Business Applications puan alasınız.
+- Bu eşiğe ulaşacak olursanız, bu tarihten itibaren 24 ay boyunca İşlev Danışmanı 15 noktanın tamamını alırsınız. Bu durum etkili bir şekilde, iki Bulut bulut İşlev Danışmanı uzmanlık yıldönümleri için Business Applications puan alasınız.
 
 ### <a name="definitions-for-pci-metric-5---developers"></a>PCI ölçümü için tanımlar #5-geliştiriciler
 

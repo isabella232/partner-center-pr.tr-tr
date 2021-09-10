@@ -1,25 +1,25 @@
 ---
-title: tüm veri kümelerini al API-Analizler verileri
+title: Tüm veri kümeleri API'sini al - Analizler veri
 ms.topic: reference
 ms.date: 07/14/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-insights
-description: Iş Ortağı Merkezi öngörülerine tüm kullanılabilir veri kümelerinin ayrıntılarını almak için bu API 'yi kullanın.
+description: Bu API'yi kullanarak tüm kullanılabilir veri kümelerinin ayrıntılarını içgörüler İş Ortağı Merkezi alın.
 author: kshitishsahoo
 ms.author: ksahoo
 ms.localizationpriority: medium
-ms.openlocfilehash: 96bbb039c022d3587183b8dbec014bc362255b750ac6670fe3c1906629b7e291
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 8f4e69c8759c16bc38e64a361c8c077989447d3e
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115693342"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123960894"
 ---
-# <a name="get-all-datasets-api"></a>Tüm veri kümeleri API 'sini al
+# <a name="get-all-datasets-api"></a>Tüm veri kümeleri API'sini al
 
-Tüm veri kümelerini al API 'SI kullanılabilir tüm veri kümelerini alır. Veri kümeleri tabloları, sütunları, ölçümleri ve zaman aralıklarını listeler.
+Tüm veri kümelerini al API'si tüm kullanılabilir veri kümelerini alır. Veri kümeleri tabloları, sütunları, ölçümleri ve zaman aralıklarını listelemektedir.
 
-**İstek sözdizimi**
+**İstek söz dizimi**
 
 |    Yöntem    |    İstek URI'si    |
 |    ----    |    ----    |
@@ -30,7 +30,7 @@ Tüm veri kümelerini al API 'SI kullanılabilir tüm veri kümelerini alır. Ve
 
 |    Üst bilgi    |    Tür    |    Description    |
 |    ----    |    ----    |    ----    |
-|    Yetkilendirme    |    string    |    Gereklidir. formdaki Azure Active Directory (AAD) erişim belirteci`Bearer <token>`    |
+|    Yetkilendirme    |    string    |    Gereklidir. Formda Azure Active Directory (AAD) erişim belirteci`Bearer <token>`    |
 |    İçerik Türü    |    string    |    `Application/JSON`    |
 |        |        |        |
 
@@ -42,7 +42,7 @@ Hiçbiri
 
 |    Parametre Adı    |    Tür    |    Gerekli    |    Açıklama    |
 |    ----    |    ----    |    ----    |    ----    |
-|    datasetName    |    dize    |    No    |    Yalnızca bir veri kümesinin ayrıntılarını almak için filtrele    |
+|    Datasetname    |    dize    |    No    |    Yalnızca bir veri kümesine ilişkin ayrıntıları almak için filtrele    |
 |        |        |        |        |
 
 **İstek yükü**
@@ -55,7 +55,7 @@ Hiçbiri
 
 **Response**
 
-Yanıt yükü aşağıdaki şekilde yapılandırılır:
+Yanıt yükü aşağıdaki gibi yapılandırılmıştır:
 
 Yanıt kodu: 200, 400, 401, 403, 404, 500
 
@@ -86,16 +86,16 @@ Yanıt yükü örneği:
 
 **Sözlük**
 
-Bu tablo, yanıttaki anahtar öğeleri tanımlar:
+Bu tablo yanıtta önemli öğeleri tanımlar:
 
 |    Parametre    |    Açıklama    |
 |    ----    |    ----    |
-|    DatasetName     |    Bu dizi nesnesinin tanımladığı veri kümesinin adı     |
-|    SelectableColumns     |    Seçme sütunlarında belirtilenebilir ham sütunlar     |
-|    Kullanılabilirlik Blemetrics     |    Seçme sütunlarında belirtilenebilir toplama/ölçüm sütun adları     |
-|    Availableduteranges     |    Veri kümesi için rapor sorgularında kullanılabilecek tarih aralığı     |
-|    Minimumrecurrenceınterval     |    Yinelenme aralığının en düşük değeri     |
-|    TotalCount     |    Değer dizisindeki veri kümesi sayısı     |
-|    İleti     |    API 'nin yürütülmesindeki durum iletisi     |
-|    Durum     |    Sonuç kodu. Olası değerler 200, 400, 401, 403, 500     |
+|    Datasetname     |    Bu dizi nesnesinin tanımladığı veri kümesi adı     |
+|    SelectableColumns     |    Seçme sütunlarında belirtilebilir ham sütunlar     |
+|    KullanılabilirMetrics     |    Select sütunlarında belirtilebilir toplama/ölçüm sütun adları     |
+|    AvailableDateRanges     |    Veri kümesi için rapor sorgularında kullanılan tarih aralığı     |
+|    minimumRecurrenceInterval     |    Yinelenme Aralığı'nın en düşük değeri     |
+|    TotalCount     |    Değer dizisinde veri kümesi sayısı     |
+|    İleti     |    API'nin yürütülmesinden gelen durum iletisi     |
+|    Statuscode     |    Sonuç Kodu. Olası değerler: 200, 400, 401, 403, 500     |
 |        |        |

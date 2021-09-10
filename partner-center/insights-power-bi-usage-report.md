@@ -8,12 +8,12 @@ description: müşterilerinizin sattığı ve yönettiğiniz Power BI abonelikle
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
-ms.openlocfilehash: d13292270f655221f739d72a1517fee2c20f8cf63929fe26cd423f5f284ab379
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 1f4cb47cf8cd3dbd12a57cab40a5a5d09888f324
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115686019"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123961404"
 ---
 # <a name="power-bi-usage-report-available-from-the-partner-center-insights-dashboard"></a>Power BI kullanım raporu, iş ortağı merkezi Analizler panosundan kullanılabilir
 

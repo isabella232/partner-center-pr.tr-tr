@@ -1,5 +1,5 @@
 ---
-title: İş hesabınıza erişim için bağlantı İş Ortağı Merkezi
+title: İş hesabınıza erişim izni İş Ortağı Merkezi
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-account
@@ -9,12 +9,12 @@ ms.author: vinayks
 ms.custom: SEOAPR.20
 ms.localizationpriority: high
 ms.date: 6/17/2021
-ms.openlocfilehash: 9632cc6fbf18a02526cb0df4699bbe0ffaee4bb26ded97b3cb8b186ed8cf556b
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: c1f74e2977b110befd38c741259e84dd8bc9acb6
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115691437"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123960365"
 ---
 # <a name="create-a-work-account-that-links-your-company-to-your-partner-center-account"></a>Şirketinizi şirket hesabınıza İş Ortağı Merkezi oluşturma
 
@@ -28,22 +28,22 @@ Microsoft, şirket iş hesabını yeni iş hesabınıza bağlamanızı İş Orta
 
 İş hesabınız veya iş e-postanız, şirket tarafından size sağlanan e-posta adresidir. İş hesabı e-postası genellikle `you@yourcompany.com` biçimindedir. Hotmail, Gmail veya Yahoo gibi kişisel e-posta adresleri iş e-postası İş Ortağı Merkezi kullanılamaz.
 
-Birden fazla geçerli iş e-posta adresiniz varsa, bölgesel departman yerine Şirket Merkezi'niz ile ilişkilendirilmiş olan adresi kullanın; örneğin, adresi yerine `contoso.com` e-postanızı `contoso.uk` kullanın.
+Birden fazla geçerli iş e-posta adresiniz varsa, bölgesel departman yerine Şirket Merkezi'niz ile ilişkilendirilmiş olan adresi kullanın; örneğin, adres yerine `contoso.com` e-postanızı `contoso.uk` kullanın.
 
 > [!NOTE]  
-> Var olan bir iş hesabını kullanmadan önce, iş hesabı içinde kaç kullanıcının iş hesabına erişmesi İş Ortağı Merkezi. İş hesabında İş Ortağı Merkezi erişimine ihtiyacı olmayacak kullanıcılarınız varsa, yalnızca erişim iznine ihtiyaç İş Ortağı Merkezi yeni bir hesap İş Ortağı Merkezi göz önünde bulundurabilirsiniz.
+> Var olan bir iş hesabını kullanmadan önce, iş hesabında kaç kullanıcının iş hesabına erişmesi İş Ortağı Merkezi. İş hesabında İş Ortağı Merkezi erişimine ihtiyacı olmayacak kullanıcılarınız varsa, yalnızca erişim iznine ihtiyaç İş Ortağı Merkezi yeni bir hesap İş Ortağı Merkezi göz önünde bulundurabilirsiniz.
 
-## <a name="not-sure-if-your-company-already-has-a-work-account"></a>Şirketinizin zaten bir iş hesabı olup olduğundan emin değil misiniz?
+## <a name="not-sure-if-your-company-already-has-a-work-account"></a>Şirketinizin zaten bir iş hesabı olup olmadığını emin değil misiniz?
 
 Şirketinizin bir iş hesabı olup olmadığını kontrol etmek için aşağıdaki adımları izleyin. Microsoft Azure veya Office 365 aboneliğiniz varsa zaten bir iş hesabınız vardır.
 
 1. [Azure Portal](https://portal.azure.com)’ında oturum açın.
 
-2. Gezinti menüsünden Azure Active Directory'yi seçin ve adlar **Custom Domain seçin.**
+2. Gezinti menüsünden Azure Active Directory'yi seçin ve **Adlar'Custom Domain seçin.**
 
 3. Zaten bir iş hesabınız varsa, etki alanı adınız listelenir.
 
-Şirketinizin zaten bir iş hesabı yoksa kayıt işlemi sırasında bir hesap oluşturabilirsiniz.
+Şirketinizin zaten bir iş hesabı yoksa, kayıt işlemi sırasında bir hesap oluşturabilirsiniz.
 
 Aşağıdaki diyagramda bazı tipik senaryolar için adımlar verilmiştir:
 
@@ -55,13 +55,13 @@ Aşağıdaki diyagramda bazı tipik senaryolar için adımlar verilmiştir:
 
 Azure AD'de etki alanı ekleme hakkında daha fazla bilgi için bkz. [Azure AD'de etki alanı](/azure/active-directory/active-directory-add-domain) ekleme veya ilişkilendirme
 
-## <a name="about-microsoft-azure"></a>Microsoft Azure
+## <a name="about-microsoft-azure"></a>Microsoft Azure hakkında
 
-Microsoft Azure, şirketlerin Microsoft tarafından yönetilen veri merkezlerinin küresel ağı genelinde uygulama oluşturmak, dağıtmak ve yönetmek için kullanabileceği bir genel bulut platformudur. Şirketler, fiziksel makineler yerine sanal işlevler veya hizmetlerle sanal bir IT altyapısı oluşturmak için Azure kullanır.
+Microsoft Azure, şirketlerin Microsoft tarafından yönetilen veri merkezlerinin küresel ağı genelinde uygulama oluşturmak, dağıtmak ve yönetmek için kullanabileceği genel bir bulut platformudur. Şirketler, fiziksel makineler yerine sanal işlevler veya hizmetlerle sanal bir IT altyapısı oluşturmak için Azure kullanır.
 
 Azure aboneliği satın aldığınız zaman, temelde Azure genel bulutında ayrılmış ve güvenli bir alan kiralarsınız. Bu alan, şirketin fiziksel işletmesi için bir ofis binasını kiralamadan çok farklı değildir. Ofis binasının sahibine göre, şirket bir kiracıdır.
 
-Azure iş hesabı, Azure, Microsoft Intune veya Office 365 gibi bir Microsoft bulut hizmetine abone olduktan sonra sizin için oluşturulan, Azure genel bulut'ta şirket için ayrılmış ve yalıtılmış bir sanal Office 365.
+Azure iş hesabı, Azure, Microsoft Intune veya Office 365 gibi bir Microsoft bulut hizmetine abone olduktan sonra sizin için oluşturulmuş, Azure genel bulut'ta şirket için ayrılmış ve yalıtılmış bir sanal Office 365.
 
 İş hesabınız, Azure AD kullanıcılarınızı ve bu kullanıcılarla ilgili bilgileri (parolaları, profil verileri, izinler gibi) barındırıyor. İş hesabı ayrıca bir şirkete ve şirketin güvenliğine ilişkin grupları, uygulamaları ve diğer bilgileri içerir.
 

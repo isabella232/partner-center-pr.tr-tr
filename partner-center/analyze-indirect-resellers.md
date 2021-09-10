@@ -9,19 +9,19 @@ ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/13/2020
-ms.openlocfilehash: 22a4cd826d806ba4f9cc3e83ea27116d5f694373fa26afdb3f403e7497f26e8c
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: a7d04e437a2546c887b40f37a7381605535e8ca9
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115685029"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123960004"
 ---
 # <a name="use-analytics-to-analyze-the-performance-of-your-indirect-resellers"></a>Dolaylı kurumsal bayilerinin performansını analiz etmek için analizi kullanma
 
 **Uygun roller:** Genel yönetici | Kullanıcı yönetimi yöneticisi
 
 
-Veriler iş kararlarını verir. Bayi analizi sayfasındaki  ölçümleri kullanarak başarılarınızı, dolaylı kurumsal bayi başarılarınızı ve daha fazla dikkat gereken alanları tanımlayabilirsiniz. Yeni iş hedeflerini planlarken bu bilgileri kullanın.
+Veriler iş kararlarını verir. Bayi analizi sayfasındaki **ölçümleri** kullanarak başarılarınızı, dolaylı kurumsal bayi başarılarınızı ve daha fazla dikkat gereken alanları tanımlayabilirsiniz. Yeni iş hedeflerini planlarken bu bilgileri kullanın.
 
 > [!NOTE]
 > Dolaylı kurumsal bayi analizi yalnızca Bulut Çözümü Sağlayıcısı programda dolaylı sağlayıcılar için kullanılabilir.

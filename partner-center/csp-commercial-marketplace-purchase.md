@@ -9,12 +9,12 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2dc3f02a84ff325f0aa785f414e263c505599ede2067b0edea5bf789a228a47b
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 2984dbb3a02df91d5a2a284182476bf348a24f47
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115681935"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123960095"
 ---
 # <a name="purchase-commercial-marketplace-products-for-your-customers-in-partner-center"></a>Iş Ortağı Merkezi 'nde müşterileriniz için ticari Market ürünleri satın alma
 

@@ -8,12 +8,12 @@ description: Bir Microsoft iş ortağı olarak, müşterilerinize veya belirli p
 author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
-ms.openlocfilehash: 700e63d82f657d5f6921d870a1aec15fcda580a91bb9018c4e9261e6b2f92bd7
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 1a5da21326ae789e4b6f570c14f9a52e0348bb64
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115693529"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123961125"
 ---
 # <a name="find-a-partner-or-solution-provider-to-answer-questions-about-programs-licensing-or-customer-deals"></a>Programlar, lisanslama veya müşteri anlaşmaları hakkında soruları yanıtlamak için bir iş ortağı veya çözüm sağlayıcısı bulun 
 

@@ -9,21 +9,21 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8539b5744cccd7356873a5fa8568fe271cc372877487afe1febe9290ed1e70ac
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 3e8f48476a6136889be8bb5c9f7a12ed8c42dc94
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115682818"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123960614"
 ---
 # <a name="collecting-diagnostics-and-reporting-problems-in-partner-center"></a>Tanılama ve raporlama sorunlarını İş Ortağı Merkezi
 
-**Için geçerlidir:** İş Ortağı Merkezi | İş Ortağı Merkezi için Microsoft Cloud for US Government
+**Uygulama:** İş Ortağı Merkezi | İş Ortağı Merkezi için Microsoft Cloud for US Government
 
 **Uygun roller:** İş ortaklarıyla İş Ortağı Merkezi
 
-Kullanıcıların oturum açtığı İş Ortağı Merkezi iş ortağı destek isteği oluşturabilir. Kullanıcılar, yalnızca İş Ortağı Merkezi'da oturum açtıktan sonra gönderilen destek isteklerini İş Ortağı Merkezi.
-Portal İş Ortağı Merkezi ilgili sorunlar bulursanız veya yardım gerekirse İş Ortağı Merkezi başvurun. Sorunun daha hızlı düzeltilecek şekilde tanılama gönderme. 
+Kullanıcıların oturum açtığı İş Ortağı Merkezi iş ortağı destek isteği oluşturabilir. Kullanıcılar yalnızca İş Ortağı Merkezi'da oturum açtıktan sonra gönderilen destek isteklerini İş Ortağı Merkezi.
+Portal İş Ortağı Merkezi ilgili sorunlar bulursanız veya yardıma ihtiyacınız varsa İş Ortağı Merkezi başvurun. Sorunun daha hızlı düzeltilecek şekilde tanılama gönderme. 
 
 ## <a name="report-a-problem-with-the-partner-center"></a>Raporla ilgili bir sorun İş Ortağı Merkezi
 
@@ -44,7 +44,7 @@ Portal İş Ortağı Merkezi ilgili sorunlar bulursanız veya yardım gerekirse 
 Randevu zamanlaması, servise atanmış olan savunmayla bir randevu zamanlamanıza olanak sağlar.  Randevular önizlemedeyken sorun türlerinin ve destek ekiplerinin bir alt kümesiyle sınırlıdır.  
 
    > [!NOTE]
-   > Destek randevusu zamanlaması, olay oluşturmadan hemen sonra kullanılamaz. Destek randevularını yalnızca isteğinize sahip atandıktan sonra zaman alabilirsiniz.   
+   > Destek randevusu zamanlaması, olay oluşturma işlemi sonrasında hemen kullanılamaz. Destek randevularını yalnızca isteğinize sahip atandıktan sonra zamanlamayı planlayasınız.   
 
 1. Panodan **destek İş Ortağı Merkezi'yi** **[seçin.](https://partner.microsoft.com/dashboard/support/servicerequests)** 
 
@@ -62,18 +62,18 @@ Randevu zamanlaması, servise atanmış olan savunmayla bir randevu zamanlamanı
 
 5.  Randevular'dan bir e-İş Ortağı Merkezi alırsınız. Randevuyu takviminize eklemek için .ics dosya ekini açın. Size anımsatıcı e-postaları da gönderebilirsiniz. 
 
-6.  Randevuyu değiştirmek için, randevuda bilet ayrıntıları sayfasına İş Ortağı Merkezi bu randevuyu **yeniden** zamanla veya Bu randevuyu **iptal et'i seçin.** 
+6.  Randevuyu değiştirmek için, randevuda bilet ayrıntıları sayfasına geri İş Ortağı Merkezi randevuyu **yeniden** zamanla veya Bu randevuyu iptal **et'i seçin.** 
 
    > [!NOTE]
    > İş Ortağı Merkezi Randevular posta kutusu izlanmaz. Yalnızca toplantı davetlerini göndermek için kullanılır.   
    
 Destek randevusu zamanlama önizlemedeyken:
-- Toplantı onayı ve anımsatıcı e-postaları, randevu saati yerel saat diliminden farklı bir saat diliminde görüntüleniyor olabilir.  Ancak ekli .ics dosyası, randevuyu takvime doğru yerel saatle ekler. 
+- Toplantı onayı ve anımsatıcı e-postaları, randevu zamanını yerel saat diliminden farklı bir saat diliminde görüntüler.  Ancak ekli .ics dosyası, randevuyu takvime doğru yerel saatle ekler. 
 - Şu anda toplantı onayı ve anımsatıcı e-postalarının diliyle ilgili bir sınırlama vardır.  Bu e-postalar seçtiğiniz dil yerine İngilizce olabilir.  Ancak, seçtiğiniz dilde yine de destek alırsınız.
 
 ## <a name="send-diagnostics"></a>Tanılama gönderme
 
-Uygulama sayfasındayken bir hata İş Ortağı Merkezi, günlük bilgilerini toplamanız istenebilirsiniz. Sayfanın **üst kısmından** aşağı inen bağlantıdan Daha fazla bilgi topla'yı seçerek İstemci Tanılama aracını açın. Bu araç hatanın nedenini saptamak için İş Ortağı Destek takımına gereken bilgileri toplar. 
+İş Ortağı Merkezi sayfasındayken bir hata oluşursa, günlük bilgilerini toplamanız istenebilirsiniz. Sayfanın **üst kısmından** aşağı inen bağlantıdan Daha fazla bilgi topla'yı seçerek İstemci Tanılama aracını açın. Bu araç hatanın nedenini saptamak için İş Ortağı Destek takımına gereken bilgileri toplar. 
 
 >[!NOTE]
 >URL İş Ortağı Merkezi **/pcv/** içeren sayfalarda, bu bilgileri toplamak için aracı el ile açabilirsiniz.

@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 03/09/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-referrals
-description: Microsoft'tan satış müşteri adaylarını nasıl elde etmeyi öğrenin. Anahtarlardan biri, müşterilerin sizi daha kolay İş Ortağı Merkezi olanak sağlayan bir iş profili oluşturmaktır.
+description: Microsoft'tan satış müşteri adaylarını nasıl elde etmeyi öğrenin. Anahtarlardan biri, müşterilerin sizi daha kolay İş Ortağı Merkezi bir iş profili oluşturmaktır.
 author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: a9c0d970b4ddbdf22e0443ca9e6a2d06a031d0a9
-ms.sourcegitcommit: 815760499700bf2c947550524cbddd091622081f
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/13/2021
-ms.locfileid: "121914442"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123960324"
 ---
 # <a name="create-a-business-profile-to-get-microsoft-sales-leads-and-help-customers-find-you"></a>Microsoft satış müşteri adaylarını almak ve müşterilerin sizi bulmalarına yardımcı olmak için bir iş profili oluşturma
 
@@ -33,7 +33,7 @@ Microsoft, pazarlama, satış ve hizmet çalışmaları aracılığıyla her yı
 ## <a name="create-a-profile"></a>Profil oluşturma
 
 > [!NOTE]  
-> bir iş profili oluşturamadan önce bir İş Ortağı Merkezi gerekir. Henüz bir hesap hesabınız yoksa, İş Ortağı Merkezi yardım için [İş Ortağı Merkezi hesabı](mpn-create-a-partner-center-account.md) oluşturma'ya bakın.
+> bir iş profili oluşturamadan önce bir İş Ortağı Merkezi gerekir. Henüz bir İş Ortağı Merkezi hesabınız yoksa, oluşturma yardımı için [İş Ortağı Merkezi hesabı](mpn-create-a-partner-center-account.md) oluşturma'ya bakın.
 
 İş yapmak için yetkilendirilen her bölge için profiller oluşturun.
 
@@ -45,7 +45,7 @@ Microsoft, pazarlama, satış ve hizmet çalışmaları aracılığıyla her yı
 
 ### <a name="partner-information"></a>İş ortağı bilgileri
 
-Bir logo ve kısa bir açıklama ve web sitenizin bağlantısını ekleyerek şirketinizi tanıtın. 
+Bir logo ve kısa bir açıklama ek olarak web sitenizin bağlantısını ekleyerek şirketinizi tanıtın. 
 
 Logo, en fazla 300 piksel genişliğine sahip bir GIF, JPG veya PNG dosyası olabilir. Kare veya uzun en boy oranları kullanılması önerilir. Uzun en boy oranları önerilmez.
 
@@ -54,7 +54,7 @@ Açıklamanız en fazla 2500 karakter olabilir. İpuçları bir açıklama için
 -  **Kısa,** ilk veya iki cümlede önemli olanlarla birlikte. Bu, müşterilerin dikkatini çeken başlıktır. İş ortağı bul arama deneyiminde, arama sonuçları önizlemesinde ilk veya iki satırı gösteririz.
 -  **Microsoft'a özgü tekliflerle şirketinizin deneyimlere odaklanın.** Referans arayan müşteriler genellikle Microsoft'a özgü deneyime sahip iş ortaklarını arıyor.
 -  **Madde işaretleri kullanın.** Taramayı kolaylaştırmak için bilgileri madde işaretli listelere kesin.
--  **jargon'undan kaçının.** Tekliflerinizi ne yapacakları için adlandırarak basit, günlük dil kullanın: ele alan iş ihtiyaçları veya müşterilerin başarmalarına yardımcı olacak görev veya hedef.
+-  **jargon'undan kaçının.** Basit, günlük dil kullanarak tekliflerinizi ne yapacaklarına göre adlandırabilirsiniz: ele alan iş ihtiyaçları veya müşterilerin başarmalarına yardımcı olacak görev veya hedef.
 -  **Açıklamayı arama anahtar sözcükleriyle doldurma konusunda endişelenmeyin.** Müşteri arama araçları, açıklama değil İş Ortağı Uzmanlığı bölümünde oluşturulan anahtar sözcükleri aramaktadır.
 -  **Profilinizi güncel tutma.** Her yazılım veya hizmet sürümüyle, profilinizi güncelleştirin ve bunu şirket web sitenize eşit olarak bırakın.
 -  **Bir yan** kuruluş olmadığı veya başka bir şirketle bağlantılı olmadığı ya da bu iş ortağı şirketiyle ortak hareket etmek ve/veya paylaşılan iş fırsatları için birbirini teşvik etmek için geçerli bir sözleşmeniz yoksa, başka bir Microsoft iş ortağı şirketine adıyla bakma.
@@ -97,13 +97,13 @@ Her bölge için en fazla 5 şirket konumu eklemeniz gerekir. Müşteriler yakı
 
 Resmi şirket konumları olan ve doğrulanabilir konumları belirtebilirsiniz. Hizmet vermekte olduğu pazarların merkezinde yer alan konumları seçin ve en iyi temsili, şirketinizin yerine getirme becerisini temsil etmektir.
 
-Konum bilgilerini güncelleştirmeyi bitirdikten sonra  Bu konumu kaydet'i veya Bu konumu kaydet'i seçin ve başka bir konum ekleyin **(yalnızca** bir konum ekliyorsanız bile).
+Konum bilgilerini güncelleştirmeyi bitirdikten sonra  Bu konumu kaydet veya Bu konumu kaydet'i seçin ve başka bir konum ekleyin **(yalnızca** bir konum eklemiş bile olsalar).
 
 Ekley istediğiniz her konum ayrı bir profil sayfası haline gelir. Profil sayfalarını güncelleştiriyorken, bunları her konum için güncelleştirin.
 
 Bir konumun adresini güncelleştirmek için önce konumu **silmeniz** ve yeniden eklemeniz gerekir.
 
-En üst 5 konumda yer aldıysanız ve bunlardan birini değiştirmeniz gerekirse **önce** mevcut bir konumu silin ve yeni konumu ekleyin.
+En üst 5 konumda yer aldıysanız ve bunlardan birini değiştirmeniz gerekirse **önce** Mevcut bir konumu silin ve yeni konumu ekleyin.
 
 ## <a name="review-your-profile"></a>Profilinizi gözden geçirme
 

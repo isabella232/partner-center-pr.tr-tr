@@ -9,12 +9,12 @@ author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 1e09ac0497fafd6e2db2927c372edc22826ad825c713dba7d9c5854d0bfe64d9
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 33ec3befdc4b2bab2f31d25d210679594debbbf1
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115681305"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123960574"
 ---
 # <a name="view-your-incentives-program-details"></a>Teşvik programı ayrıntılarınızı görüntüleme
 
@@ -23,7 +23,7 @@ ms.locfileid: "115681305"
 Bu makalede teşvik **programlarının** genel durumunun yanı sıra her konumdaki her programın durumunu gösteren Teşviklerim genel bakış sayfası açıklanmıştır. Ayrıca farklı kayıt durumlarını da verir.
 
 >[!NOTE]
->İş Ortağı Merkezi'daki teşvikler ve teşvik özellikleri hakkında daha fazla bilgi için bkz. İş Ortağı [Yatırımları ve Teşvikler](https://partner.microsoft.com/membership/partner-incentives) (oturum açma gereklidir).
+>Bu konudaki teşvikler ve teşvik özellikleri hakkında daha fazla İş Ortağı Merkezi için bkz. İş Ortağı Yatırımları ve [Teşvikler](https://partner.microsoft.com/membership/partner-incentives) (oturum açma gerekir).
 
 ## <a name="access-the-incentives-overview-page"></a>Teşviklere genel bakış sayfasına erişme
 
@@ -43,13 +43,13 @@ Aşağıdaki tabloda Durum sütununda gösterilen farklı kayıt durumları **a�
 
 | **Durum**         | **Şu zaman görünür:** |
 |:------------------------------------|:------------------|
-| Eylem gerekiyor  | İş ortağı, teşvik programına kaydolmak için bir davet kabul etmiştir ancak banka veya vergi bilgilerini güncelleştirmesi gerekiyor olabilir. Aşağıdaki **adımlarda veya bağlantılarda** banka veya vergi bilgilerini güncelleştirmek için eylemler gerekli sütununa İş Ortağı Merkezi. |
+| Eylem gerekiyor  | İş ortağı, teşvik programına kaydolmak için bir davet kabul etmiştir, ancak banka veya vergi bilgilerini güncelleştirmesi gerekebilirsiniz. Sonraki adımlar **veya bu** hesaplarda banka veya vergi bilgilerini güncelleştirmek için gereken eylemler sütununa İş Ortağı Merkezi. |
 | Üretilmiyor  | Belirli teşvik programı artık teşvik sisteminde sunulmaktadır. |
 | Kaydedildi  | Tüm vergi ve banka bilgileri doğrulandı. İş ortağı başka bir kayıt eylemine gerek yoktur. |
-| Kaydediliyor  | Kullanıcı Bir Teşvik Yöneticisi değil ve kayıt Eylem gerekli **veya** Kayıt **doğrulama durumları içindedir.**|
-| Etkin değil/ Önemsiz | Teşvik programı şu anda kayıt için açık olabilir veya iş ortağı kayıt veya yeniden kayıt için geçerli uygunluğu karşılamaz. <br><br> Durum Uygun değil **ise,** iş ortağı programın geçerli uygunluk gereksinimlerini karşılamaz; Kayıt **durumunun altındaki Uygunluk gereksinimlerini** gör bağlantısına bak seçeneği, uygunluk gereksinimlerini ve bu gereksinimlerin hangilerinin karşılan olduğunu gösterir. <br><br> Teşvik programında artık **etkin** olmayan sanal kuruluş (VORG) veya İş Ortağı Genel Hesabı (PGA) kayıtları için etkin olmayan bir durum da görüyorsunuz.  |
+| Kaydediliyor  | Kullanıcı Teşvik Yöneticisi değil ve kayıt Eylem gerekli veya **Kayıt** doğrulama **durumları içindedir.**|
+| Etkin değil/ Önemsiz | Teşvik programı şu anda kayıt için açık olabilir veya iş ortağı kayıt veya yeniden kayıt için geçerli uygunluğu karşılamaz. <br><br> Durum Uygun **değil ise,** iş ortağı programın geçerli uygunluk gereksinimlerini karşılamaz; Kayıt **durumunun altındaki Uygunluk gereksinimlerini** gör bağlantısına bak seçeneği, uygunluk gereksinimlerini ve bu gereksinimlerin hangilerinin karşılan olduğunu gösterir. <br><br> Teşvik programında artık **etkin** olmayan sanal kuruluş (VORG) veya İş Ortağı Genel Hesabı (PGA) kayıtları için etkin olmayan bir durum da görebilirsiniz.  |
 | Davet  | İş ortağına yeni bir teşvik programı kayıt daveti gönderildi ama iş ortağı henüz kayıt işlemini başlatamadı. Bitişik Eylemler gerekli **sütunu sonraki** adımları ve ilgili bağlantıları gösterir.  |
-| Kaydı doğrulama  | İş ortağı, yeni veya mevcut bir kayıt için banka ve vergi bilgilerini zaten tamamlamış veya güncellemiştir ve Microsoft'un bu bilgileri doğrulamayı bekler. Doğrulama işlemi sırasında **kaydın doğrulanması** 48 saate kadar görünebilir.  |
+| Kaydı doğrulama  | İş ortağı yeni veya mevcut bir kayıt için banka ve vergi bilgilerini zaten tamamlamış veya güncellemiştir ve Microsoft'un bu bilgileri doğrulamayı bekler. Doğrulama işlemi sırasında **kaydın doğrulanması** 48 saate kadar görünebilir.  |
 
 ## <a name="see-your-payment-information"></a>Ödeme bilgilerine bakın
 

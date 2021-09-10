@@ -9,12 +9,12 @@ author: billLinzbach
 ms.author: billLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d9dd8d050284f51ffe442e868a06ab6fb8565a193de5af347736380b86aa950a
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: f0d4960a10e77481e0b64deeb794446e8daa0022
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115686644"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123960145"
 ---
 # <a name="apply-to-sell-in-microsoft-national-clouds-as-part-of-the-csp-program"></a>CSP programı kapsamında Microsoft ulusal bulutlarını satmak için başvurun
 

@@ -4,115 +4,115 @@ ms.topic: how-to
 ms.date: 07/21/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-pricing
-description: Azure planını kullanarak, tek veya birden çok Azure aboneliği satın almayı, Azure ayırmalarını, kaynakları yapılandırmayı ve abonelikleri görüntülemeyi veya eklemeyi öğrenin.
+description: Azure planını kullanarak tek veya birden çok Azure aboneliği, Azure rezervasyonları satın almayı, kaynakları yapılandırmayı ve abonelikleri görüntülemeyi veya eklemeyi öğrenin.
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: af098c9ef57a9a40badded40cb457f8c8fd4855185ae6f10dfb71e51689994ea
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 1493d22c53915f3a4364981a77c249492b342595
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115693936"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123960024"
 ---
-# <a name="purchase-the-azure-plan-for-customers-and-access-the-latest-azure-services"></a>Müşteriler için Azure planı satın alın ve en son Azure hizmetlerine erişin
+# <a name="purchase-the-azure-plan-for-customers-and-access-the-latest-azure-services"></a>Müşteriler için Azure planını satın alma ve en son Azure hizmetlerine erişme
 
-**Uygulama hedefi**: Iş Ortağı Merkezi 
+**Için geçerlidir:** İş Ortağı Merkezi 
 
-**Uygun roller**: genel yönetici | Kullanıcı Yönetimi Yöneticisi | Satış Aracısı
+**Uygun roller:** Genel yönetici | Kullanıcı yönetimi yönetici | Satış aracısı
 
-Microsoft Müşteri Sözleşmesi kapsamında müşterileriniz için bir Azure planı satın aldığınızda, Kullandıkça Öde tarifesine en son Azure hizmetlerinin tam kataloğuna erişebilirsiniz. Bulut Çözümü Sağlayıcısı (CSP) iş ortakları, artık genel kullanıma sunulduğunda herhangi bir Azure hizmetine erişebiliyor. Bir iş ortağı, bir Azure planı kapsamında birden fazla Azure aboneliğine sahip olabilir. 
+Microsoft Müşteri Sözleşmesi kapsamında müşterileriniz için bir Azure planı satın Microsoft Müşteri Sözleşmesi, en son Azure hizmetlerinin tam kataloğuna, öde fiyatlarıyla erişebilirsiniz. Bulut Çözümü Sağlayıcısı (CSP) iş ortakları artık genel kullanıma hazır hale geldiğinde herhangi bir Azure hizmetine erişecek. Bir iş ortağının bir Azure planı kapsamında birden çok Azure aboneliği olabilir. 
 
 ## <a name="countryregion-availability"></a>Ülke/bölge kullanılabilirliği
 
-Azure için CSP 'deki yeni ticari deneyim Şu anda 137 ülkede kullanılabilir olacak şekilde zamanlandı. Bu [ülkelerin/bölgelerin](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3QN0x)tam listesini görüntüleyin. 
+Azure için CSP'de yeni ticaret deneyiminin şu anda 137 ülkede kullanılabilir olması planlanıyor. Bu [ülkelerin/bölgelerin tam listesine bakın.](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3QN0x) 
 
 ## <a name="how-to-purchase-azure-plan"></a>Azure planı satın alma
 
-Azure planını satın alma işlemi, başka bir abonelik satın almaya benzer. Temel fark, müşterinizin Microsoft Müşteri anlaşmasını imzaladığı konusunda emin olmak için siparişinizi gerçekten yerleştirmeniz gerekir.
+Azure planını satın alma, diğer abonelikleri satın alma ile benzerdir. Önemli fark, siparişinizi gerçekten sıralamadan önce müşterinizin siparişi Microsoft Müşteri Sözleşmesi.
 
-1. **Segment Commercial**' i seçin, ardından "Microsoft Azure" yazın.
-2. **Azure planı** altında, **Sepete Ekle**' yi seçin.
+1. Segment **Ticari'yi** seçin ve ardından "Microsoft Azure" yazın.
+2. **Azure planı altında Sepete** **ekle'yi seçin.**
 
    :::image type="content" source="images/azure/Azurepurchase1.png" alt-text="Satınalma.":::
 
-İş ortağı, müşterinin Microsoft Müşteri Anlaşması koşullarını gözden geçirdiğini ve kabul ettiğini onaylamalıdır. İş ortağının bunu nasıl Yapaacağı hakkında daha fazla bilgi için, [Microsoft Müşteri sözleşmesinin müşteri kabulünü Onayla](./confirm-customer-agreement.md)' yı okuyun. [Kaynak galerisinde](https://partner.microsoft.com/resources/collection/Microsoft-Customer-Agreement-in-the-CSP-program#/)diğer kaynaklar mevcuttur.
+İş ortağının müşterinin koşulları gözden geçirp kabul etmiş olduğunu Microsoft Müşteri Sözleşmesi gerekir. İş ortağının bunu nasıl yapaları hakkında daha fazla bilgi için, İş ortağının müşteri [kabulünü onaylama Microsoft Müşteri Sözleşmesi.](./confirm-customer-agreement.md) Diğer kaynaklar kaynak [galerisinde kullanılabilir.](https://partner.microsoft.com/resources/collection/Microsoft-Customer-Agreement-in-the-CSP-program#/)
 
-Daha sonra, Microsoft Müşteri anlaşmasını doğrudan Microsoft ile imzalamak için dijital olarak veya müşteriyi onaylayın. 
+Ardından, dijital olarak onaylayın veya müşteriyi doğrudan Microsoft ile Microsoft Müşteri Sözleşmesi için davet et. 
 
-### <a name="to-invite-the-customer-to-sign-the-agreement-directly"></a>Müşteriyi anlaşmayı doğrudan imzalamak üzere davet etmek için 
+### <a name="to-invite-the-customer-to-sign-the-agreement-directly"></a>Müşteriyi sözleşmeyi doğrudan imzalamaya davet etmek için 
 
-1. Müşterinin **Hesap** sayfasında, **Microsoft Müşteri Sözleşmesi**' nin yanındaki **Güncelleştir** ' i seçin.
+1. Müşterinin Hesap sayfasında, **öğesinin** yanındaki **Güncelleştir'i** **Microsoft Müşteri Sözleşmesi.**
 
-2. Müşteri şirketindeki, MCuA 'yi kabul eden kişinin bilgilerini doldurun.
+2. Müşterinin şirketinde MCuA'yı kabul eden kişi hakkında bilgileri doldurun.
 
 3. **Kaydet ve devam et**’i seçin.  
 
-CSP 'de Azure için sunulan yeni ticaret deneyiminin bir parçası olarak [Yeni bir Azure teklifi sunuyoruz](./azure-plan-lp.md). Önceki Azure teklifiyle ilgili önemli tarihler (MS-AZR-0145p) için [Teklif belgesine](https://go.microsoft.com/fwlink/p/?linkid=2164140)bakın.
+CSP'de Azure için yeni ticaret deneyimi kapsamında [yeni bir Azure teklifi](./azure-plan-lp.md) sunuyoruz. Önceki Azure teklifinin (MS-AZR-0145p) önemli tarihleri için [teklif belgesine](https://go.microsoft.com/fwlink/p/?linkid=2164140) bakın.
 
-**21 Temmuz 2021 *tarihinden önce* kaydolduysanız**
-- Önceki Azure teklifini, daha önce satın almış olan müşteriler için sepetin sepetine ekleyebileceksiniz.
-- 21 Temmuz 'dan önce kaydolduysanız *ve* 21 Temmuz 'dan sonra kaydolan müşteriler varsa, sepetinize önceki Azure teklifini ekleyemezsiniz.
+**21 *Temmuz* 2021'den önce kaydoldıysanız**
+- Önceki Azure teklifini, daha önce satın alan müşteriler için sepete ekabileceksiniz.
+- 21 Temmuz'dan önce  kaydolduysanız ve 21 Temmuz'dan sonra kaydolan müşterileriniz varsa, sepetinize önceki Azure teklifini ekleyesiniz.
 
-**21 Temmuz 2021 *tarihinde veya bu tarihten sonra* kaydedilen iş ortakları**
-- Önceki Azure teklifini sepetinize ekleyemeyeceksiniz.
+**21 *Temmuz* 2021'de veya sonrasında kaydolan iş ortakları**
+- Sepetinize önceki Azure teklifini ekleyesiniz.
 
-Önceki Azure teklifini eklemeye çalışırsanız, ancak yukarıdaki iş ilkesi nedeniyle uygun olmayan durumlarda aşağıdaki hata ile karşılaşacaktır. 
+Önceki Azure teklifini eklemeye çalışsanız ancak yukarıdaki iş ilkesi nedeniyle uygun değilseniz aşağıdaki hatayla karşılaşabilirsiniz. 
 
-:::image type="content" source="images/add-products.png" alt-text="Ürün ekle ekranını gösteren ekran görüntüsü.":::
+:::image type="content" source="images/add-products.png" alt-text="Ürün ekle ekran görüntüsünü gösteren ekran görüntüsü.":::
 
-Iş Ortağı Merkezi API 'Leri ile yeni Azure planını bulmak için bkz. [Azure planı oluşturma](/partner-center/develop/create-azure-plan#get-the-catalog-item-for-azure-plan).
+Yeni Azure planını api'lerle İş Ortağı Merkezi için [bkz. Azure planı oluşturma.](/partner-center/develop/create-azure-plan#get-the-catalog-item-for-azure-plan)
 
-## <a name="review-and-buy"></a>Gözden geçirin ve satın alın
+## <a name="review-and-buy"></a>Gözden geçirme ve satın alma
 
-Azure planının eklendiğini görebileceğiniz **Ürün Ekle** sayfasına dönün. Satın **Alımızı** gözden geçirmek Için **gözden geçir** ' i seçin, 
+Azure **planının eklenmiştir.** Ürün ekle sayfasına geri dönebilirsiniz. Satın **almanızı gözden** geçirmek için Gözden Geçir'i ve ardından Satın Al'ı **seçin.** 
 
 > [!NOTE]
-> bir müşteri için Azure planı satın aldıktan sonra, söz konusu müşteri için Microsoft Azure (0145p) satın alabilirsiniz. Azure planı aracılığıyla gelecekteki abonelikler oluşturmanız gerekecektir.
+> Bir müşteri için Azure planını satın aldığınız zaman, artık bu müşteri için Microsoft Azure (0145p) satın alınamaz. Gelecekteki abonelikleri Azure planı aracılığıyla oluşturmanız gerekir.
 
-## <a name="purchase-azure-reservations-under-the-azure-plan"></a>Azure planı kapsamında Azure ayırmaları satın alma 
+## <a name="purchase-azure-reservations-under-the-azure-plan"></a>Azure planı kapsamında Azure rezervasyonları satın alma 
   
-ayrıca, iş ortağı merkezi 'nde müşterileriniz adına Azure planı altında Microsoft Azure rezervasyonları satın alabilirsiniz. (Veya isterseniz, müşterilerinize satın aldığınız önceki bir abonelikten [kendi Azure ayırmalarını satın alma izni verebilirsiniz](give-customers-permission.md) .)
+Azure planı kapsamında Microsoft Azure rezervasyonlar satın almak için azure planında müşterileriniz adına İş Ortağı Merkezi. (Veya isterseniz, müşterilerinize, önceden satın aldığınız bir abonelikten kendi [Azure](give-customers-permission.md) rezervasyonlarını satın alma izni veebilirsiniz.)
 
-1. [Panonuzdaki](https://partner.microsoft.com/dashboard/)Iş Ortağı Merkezi menüsünden **müşteriler**' i seçin. Azure ayırmaları satın almak isteyen müşteriyi bulun ve ardından müşterinin satırını genişletmek için aşağı oku seçin.
+1. Pano İş Ortağı Merkezi menüsünden [Müşteriler'i](https://partner.microsoft.com/dashboard/) **seçin.** Azure rezervasyonlarını satın almak isteyen müşteriyi bulun ve ardından aşağı oku seçerek müşterinin satırı genişletin.
 
-2. **Ürün Ekle** ' yi seçin ve ardından **Azure**' u seçin. 
+2. Ürün **ekle'yi** ve ardından **Azure'ı seçin.** 
 
-   - **Segment** listesinden müşterinin pazar segmentini seçin.
-   - **Ürün türü** listesinden **ayırmalar** ' ı seçin.
-   - Müşterinin rezervasyon **türü** listesinden istediği rezervasyon türünü seçin.
+   - Segment listesinden müşterinin pazar **segmentini** seçin.
+   - Ürün **türü** listesinden **Rezervasyonlar'ı** seçin.
+   - Rezervasyon türü listesinden müşterinin istediği rezervasyon **türünü** seçin.
 
-Azure ayırmaları etkin bir Azure planıyla ilişkilendirilmelidir. Müşteri aboneliği listesinden Azure ayırmaları eklemek istediğiniz Azure planını seçin. 
+Azure rezervasyonlarının etkin bir Azure planıyla ilişkilendirilmiş olması gerekir. Müşteri aboneliği listesinden Azure rezervasyonlarını eklemek istediğiniz Azure planını seçin. 
 
 > [!IMPORTANT] 
-> Müşterinin zaten etkin bir Azure planı yoksa, şimdi bir tane eklemek için Azure ' ı seçin. Daha fazla yönerge için bkz. [Azure ayırmaları alma](azure-reservations-buying.md#purchase-azure-reservations).
+> Müşterinin etkin bir Azure planı yoksa Şimdi eklemek için Azure'ı seçin. Daha fazla yönergeler için Azure [rezervasyonları satın alma makalelerini okuyun.](azure-reservations-buying.md#purchase-azure-reservations)
 
 > [!NOTE]
-> Bir ayırmanın kapsamı, şu anda Iş Ortağı Merkezi 'nde yalnızca **paylaşılan** olarak ayarlanabilir. tek abonelik kapsamını seçmek veya paylaşılan sunucudan tek bir aboneliğe güncelleştirmek için aşağıdaki yönergeleri kullanarak **Microsoft Azure yönetim portalı** ' na gidin. 
+> Bir rezervasyonun kapsamı yalnızca Şu anda paylaşılan olarak **İş Ortağı Merkezi.** Tek bir abonelik kapsamı seçmek veya paylaşılan kapsamdan tek abonelik kapsamına güncelleştirmek için aşağıdaki yönergeleri **Microsoft Azure Yönetim portalına** gidin. 
 
-:::image type="content" source="images/azure/addprods1.png" alt-text="Paylaşılan kapsam ayırmaları ayarı.":::
+:::image type="content" source="images/azure/addprods1.png" alt-text="Paylaşılan kapsam rezervasyonları ayarı.":::
 
-Azure portal müşterinin ayırmasını yönetmek için: 
+Müşterinin rezervasyonlarını Azure portal: 
 
-1. **Müşterilerden** yönetmek istediğiniz müşteriyi seçin. 
+1. **Müşteriler'den** yönetmek istediğiniz müşteriyi seçin. 
 
-2. aşağı oku kullanarak müşterinin satırını genişletin ve **Microsoft Azure yönetim portalı**' nı seçin.  
+2. Aşağı oku kullanarak müşterinin satırı genişletin ve Yönetim **portalı'Microsoft Azure seçin.**  
  
-## <a name="view-azure-subscriptions-under-the-azure-plan"></a>Azure planı kapsamındaki Azure aboneliklerini görüntüleme
+## <a name="view-azure-subscriptions-under-the-azure-plan"></a>Azure planı altındaki Azure aboneliklerini görüntüleme
 
-**Abonelikler** sayfasında, kullanım tabanlı bölümünde **Azure planı ' nı genişleterek Ilişkili** Azure aboneliklerini Azure planı altında görebilirsiniz.
+Abonelikler **sayfasındaki** kullanım tabanlı bölümde, **Azure** planı'nın altında ilişkili Azure aboneliklerini görmek için Azure planını genişletin.
 
-:::image type="content" source="images/azure/addprods2.png" alt-text="Azure aboneliklerinin listesini görüntüleyin."::: 
+:::image type="content" source="images/azure/addprods2.png" alt-text="Azure aboneliklerinin listesini görüntüleme."::: 
 
 ## <a name="add-subscriptions-and-configure-resources"></a>Abonelik ekleme ve kaynakları yapılandırma
 
-Azure portal ' de müşteri için abonelik ekleyecek ve kaynakları yapılandıracaksınız. Ayrıca, müşterinizin ortamını iş yükü veya proje ile ayırabileceksiniz. Abonelikleri [Azure açık Thouse](https://azure.microsoft.com/services/azure-lighthouse/) ve Azure Portal aracılığıyla yönetmek mümkündür. 
+Abonelikler ekecek ve bu hizmetlerde müşteriniz için Azure portal. Ayrıca müşterinizin ortamını iş yüküne veya projeye göre ayırabilirsiniz. Abonelikleri Azure Lighthouse ve [Azure portal.](https://azure.microsoft.com/services/azure-lighthouse/) 
 
-Müşterinizin kaynaklarını ve aboneliklerini yönetmek için, (Aobo) ayrıcalıkları için **yönetici** olmanız gerekir. Erişiminizi yönetme hakkında daha fazla bilgi için [Azure planı kapsamındaki abonelikleri ve kaynakları yönetme](azure-plan-manage.md) makalesini okuyun
+Müşterinizin kaynaklarını ve aboneliklerini yönetmek için Adına **Yönetici** (AOBO) ayrıcalıklarına sahip olmanız gerekir. Erişiminizi yönetme hakkında bilgi için Azure [planı altında abonelikleri ve kaynakları yönetme makalesi'ne bakın](azure-plan-manage.md)
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-- [Azure planına müşteri geçişleri](azure-plan-transition.md)
+- [Azure planına müşteri geçişi](azure-plan-transition.md)
 
-- [İş ortağı kazanılmış kredi-genel bakış](partner-earned-credit.md)
+- [İş ortağı tarafından kazanılan kredi - genel bakış](partner-earned-credit.md)

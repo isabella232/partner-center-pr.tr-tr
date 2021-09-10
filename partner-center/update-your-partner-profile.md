@@ -9,12 +9,12 @@ ms.topic: how-to
 ms.date: 04/12/2021
 ms.localizationpriority: medium
 ms.custom: contperf-fy21q4
-ms.openlocfilehash: 81f91b3968fed757d1ce32d479a68e295c515e86829f15aa00832890ec16672c
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 478bcba56e1763cc8a69b98bede0dc63c7a1cdad
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115695926"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123960105"
 ---
 # <a name="verify-or-update-your-company-profile-information"></a>Şirket profili bilgilerini doğrulama veya güncelleştirme 
 
@@ -25,12 +25,12 @@ Genel yönetici olarak İş Ortağı Merkezi ilk kez oturum aken, tüm şirket a
 > [!NOTE]
 > Faturalama adresinizi güncelleştirmek için Genel yönetici siz olun.
 
-İş ortağı profiliniz yasal iş bilgileri, birincil iletişim adı ve e-posta, şirketinizin katıldığı programlar ve uygunsa artık yasal işletmeniz kapsamında birleştirilen diğer şirketlerden oluşur. Yasal iş profilinizde Şirket adı ve adresinin yazım hataları ve kısaltmaları olduğundan ve resmi şirket iş kaydı kayıtlarınıza tam olarak uygun olduğundan emin olun. Tek Şirket Sahibi olarak çalışıyorsanız, yasal adınız olarak şirket adını kullansanız gerekir.
+İş ortağı profiliniz yasal iş bilgilerinden, birincil iletişim adınızdan ve e-postadan, şirketinizin katıldığı programlardan ve uygunsa yasal işletmeniz kapsamında birleştirilen diğer şirketlerden oluşur. Yasal işletme profilinizde Şirket adı ve adresinin yazım hataları ve kısaltmaları olduğundan ve resmi şirket iş kaydı kayıtlarınıza tam olarak uygun olduğundan emin olun. Tek Şirket Sahibi olarak çalışıyorsanız, yasal adınız olarak şirket adını kullansanız gerekir.
 
 
 ## <a name="locate-the-legal-business-profile"></a>Yasal iş profilini bulma
 
-1. Bu İş Ortağı Merkezi, Veri **Ayarlar** simgesini ve ardından Hesap **ayarları'ı seçin.**
+1. Bu İş Ortağı Merkezi, Ayarlar **simgesini** ve ardından Hesap **ayarları'ı seçin.**
  
 1. Kuruluş **profili'ne tıklayın.** 
 
@@ -40,7 +40,7 @@ Yasal işletmeniz kapsamında diğer şirketlerinizi birleştirtiyebilirsiniz, b
 
 ## <a name="update-your-legal-business-profile"></a>Yasal iş profilinizi güncelleştirme 
 
-Yasal şirket adı veya adresinizi şirket İş Ortağı Merkezi.
+Şirket içinde yasal şirket adını veya İş Ortağı Merkezi.
 
 >[!Important]
 >- Daha Microsoft İş Ortağı Ağı (MPN) hesapları için hem Genel yönetici hem de Hesap yöneticisi yasal şirket adını güncelleştirebilirsiniz.
@@ -49,7 +49,7 @@ Yasal şirket adı veya adresinizi şirket İş Ortağı Merkezi.
 
 
 
-1. Bu İş Ortağı Merkezi' **Ayarlar,** Hesap ayarları **'ı ve** ardından Kuruluş **profili'ne tıklayın.**
+1. Bu İş Ortağı Merkezi' **Ayarlar,** Hesap ayarları **'ı ve ardından** Kuruluş **profili'ne tıklayın.**
 
 2. **Yasal'ı** ve ardından güncelleştirmek istediğiniz Yasal iş profilini (İş Ortağı veya Kurumsal Bayi) seçin.
 
@@ -57,13 +57,13 @@ Yasal şirket adı veya adresinizi şirket İş Ortağı Merkezi.
  
 1. **Gönder'i** seçerek yasal kimliğiniz yeniden değerlendirilecek. Yalnızca değiştirmiş olduğunu yeniden değerlendirmiş oluruz.
 
-1. Doğrulama başarısız olursa, sorunu nasıl [çözebilirsiniz?](verification-responses.md)
+1. Doğrulama başarısız olursa, sorununu nasıl [çözebilirsiniz?](verification-responses.md)
 
 >[!Important]
 >CSP iş ortağıysanız, yasal adresinizle ilişkili ülkeyi değiştiremezsiniz. Yasal adres ülkeniz, kiracınıza ve hizmetlerinize ve iş yapmak için kullanılan para birimine bağlı. MPN ülke güncelleştirmeleri hakkında bilgi edinmek için [MPN ülke güncelleştirmeleri makalelerini okuyun.](manage-locations.md#change-country-of-partner-global-account)
 
 
-### <a name="who-can-update-legal-business-name-and-when"></a>Who işletme adını ve ne zaman güncelleştire
+### <a name="who-can-update-legal-business-name-and-when"></a>Who yasal işletme adını ve ne zaman güncelleştire
 
 |**Program**|**Who adını güncelleştirenin**|**Ne zaman (durum) güncelleştirilebilir?**|**İzin verildi**|
 |---------------------|:-------------------------------|:------------|:-----------------|
@@ -73,7 +73,7 @@ MPN|Genel yönetici; Hesap yöneticisi|Yetkili; beklemede; Reddetti| İzin Veril
 
 ## <a name="update-your-mpn-global-business-account"></a>MPN Genel İş Hesabı'nızı güncelleştirme
 
-Partner Membership Center İş Ortağı Merkezi geçiş işleminiz sırasında, yanlış iş hesabı yasal işletme olarak tanımlandıysa, bunu doğru yasal iş hesabıyla değiştirebilirsiniz.
+Partner Membership Center İş Ortağı Merkezi geçiş sırasında, yanlış iş hesabı yasal işletme olarak tanımlandıysa, bunu doğru yasal iş hesabıyla değiştirebilirsiniz.
 
 Bu güncelleştirmeleri yapmak için Genel yönetici veya Hesap yöneticisi olmak gerekir. [MPN Genel konum hesaplarınızı yönetmeyi öğrenin](manage-locations.md)
 
@@ -82,7 +82,7 @@ Bu güncelleştirmeleri yapmak için Genel yönetici veya Hesap yöneticisi olma
 
 CSP hesabınızla ilişkili MPN kimliğini güncelleştirmek için:
 
-1. CSP hesabı kimlik İş Ortağı Merkezi [genel](https://partner.microsoft.com/dashboard/home) yönetici olarak oturum açın ve sonra **Ayarlar.** (MPN ve CSP kimlik bilgileriniz farklı olabilir.)
+1. CSP hesabı İş Ortağı Merkezi [genel](https://partner.microsoft.com/dashboard/home) yönetici olarak panoda oturum açın ve sonra **Ayarlar.** (MPN ve CSP kimlik bilgileriniz farklı olabilir.)
  
 1. Hesap **ayarlarından** **Tanımlayıcılar'ı seçin.**
 

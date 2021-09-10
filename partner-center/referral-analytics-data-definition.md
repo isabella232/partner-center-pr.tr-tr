@@ -1,95 +1,95 @@
 ---
-title: Referans analizi veri tanımları
+title: Başvuru Analizi veri tanımları
 ms.topic: article
 ms.date: 08/10/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-referrals
-description: Belgede çeşitli raporlar ve bunların veri tanımları listelenmiş ve bu raporları referans analizi sayfalarından indirebilirsiniz.
+description: Belge, başvuru Analizi sayfalarından indirebileceğiniz çeşitli raporlar ve veri tanımlarını listeler.
 author: v-sausharma
 ms.author: v-sausharma
 ms.localizationpriority: medium
 ms.openlocfilehash: e2409dcbfd2a9de677ef4ec79bf8749072859325
-ms.sourcegitcommit: a0afd7765a1a04dc603e096510fd9c138238a7cb
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "122681859"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123961484"
 ---
-# <a name="referral-analytics-export--data-definitions"></a>Referans analizi dışarı aktarma – Veri tanımları
+# <a name="referral-analytics-export--data-definitions"></a>Başvuru Analizi dışarı aktarma – veri tanımları
 
-**Uygun roller:** Referans yöneticisi
+**Uygun roller**: başvuru Yöneticisi
 
 ## <a name="introduction"></a>Giriş
 
-Müşteri Adayı ve Ortak satış analizi sayfasındaki Dışarı Aktar düğmesini kullanarak ham veri kümelerini dışarı aktarabilirsiniz.
+Müşteri adayı ve ortak satış analizi sayfasındaki dışarı aktar düğmesini kullanarak ham veri kümelerini dışarı aktarabilirsiniz.
 
-Veri tanımlarıyla birlikte indirebilirsiniz çeşitli raporlar aşağıdaki tablolarda listelenmiştir:
+Veri tanımlarıyla birlikte indirebileceğiniz çeşitli raporlar aşağıdaki tablolarda listelenmiştir:
 
 ## <a name="leads-export"></a>Müşteri adaylarını dışarı aktarma
 
-|   Sütun Adı |   Veri açıklaması    |
+|   Sütun adı |   Veri açıklaması    |
 |----|----|
-|   Referans kimliği |   Referans için benzersiz kimlik  |
-|   Müşteri Ülkesi    |   Müşterinin ülkesi |
+|   Referans kimliği |   Başvuru için benzersiz KIMLIK  |
+|   Müşteri ülkesi    |   Müşterinin ülkesi |
 |   Müşteri Adı   |   Müşterinin adı    |
-|   Referans Oluşturma Tarihi  |   Referans oluşturma tarihi   |
-|   Referans Kaynağı |   Referans kaynağı: Nitelikli, Market  |
-|   Referans Türü   |   Müşteri adayının türü    |
-|   Müşteri adayı yönü  |   Müşteri adayının yönü   |
-|   Müşteri adayı para birimi   |   Müşteri adayının para birimi    |
-|   Müşteri adayı değeri  |   İş ortağı tarafından sağlanan tahmini müşteri adayı değeri    |
-|   Müşteri adayı değeri (USD)    |   İş ortağı tarafından ABD doları olarak sağlanan tahmini müşteri adayı değeri |
-|   Durum      |   Referansların en son durumu   |
-|   Durum Nedeni   |   Açıklamalar veya durum açıklaması    |
+|   Başvuru oluşturma tarihi  |   Başvurunun Oluşturulma tarihi   |
+|   Başvuru kaynağı |   Başvurunun kaynağı: nitelenmiş, Market  |
+|   Başvuru türü   |   Müşteri adayının türü    |
+|   Lider yönü  |   Müşteri adayının yönü   |
+|   Lider para birimi   |   Müşteri adayının para birimi    |
+|   Lider değeri  |   İş ortağı tarafından sunulan tahmini lider değeri    |
+|   Lider değeri (USD)    |   İş ortağı tarafından ABD Doları cinsinden sunulan tahmini lider değeri |
+|   Durum      |   Başvurunun en son durumu   |
+|   Durum Nedeni   |   Durumun açıklamaları veya nedeni    |
 |       |       |
 
 
-## <a name="co-sell-export"></a>Ortak satış dışarı aktarma
+## <a name="co-sell-export"></a>Ortak satış dışa aktarma
 
-|   Sütun Adı |   Veri açıklaması    |
+|   Sütun adı |   Veri açıklaması    |
 |    ----    |    ----    |
-|   Referans kimliği |   Referans için benzersiz kimlik  |
-|   Müşteri Ülkesi    |   Müşterinin ülkesi |
-|   Customer City   |   Müşterinin şehri    |
+|   Referans kimliği |   Başvuru için benzersiz KIMLIK  |
+|   Müşteri ülkesi    |   Müşterinin ülkesi |
+|   Müşteri şehri   |   Müşterinin şehri    |
 |   Müşteri Adı   |   Müşterinin adı    |
-|   Referans Oluşturma Tarihi  |   Referans oluşturma tarihi   |
-|   Anlaşma Türü   |   Satış türü: ortak satış, iş ortağı liderliğinde, özel |
-|   Anlaşma Yönü  |   Anlaşma yönü: Gelen ve Giden    |
+|   Başvuru oluşturma tarihi  |   Başvurunun Oluşturulma tarihi   |
+|   Anlaşma türü   |   Anlaşma türü: ortak satış, iş ortağı LED, özel |
+|   Anlaşma yönü  |   İşlem yönü: gelen ve giden    |
 |   Anlaşma para birimi   |   Anlaşma para birimi    |
-|   Tahmini Satış Değeri    |   İş ortağı tarafından sağlanan tahmini satış değeri    |
-|   Tahmini Anlaşma değeri (USD)  |   İş ortağı tarafından ABD doları olarak sağlanan tahmini satış değeri |
-|   Çözüm Kimliği     |   Çözüm kimliğinin listesi |
-|   Çözüm Adı   |   Çözüm adlarının listesi  |
-|   MPN Kimliği  |   İş ortağının Microsoft iş ortağı ağ kimliği |
-|   İş Ortağı Adı    |   İş ortağının adı |
-|   Anlaşma kimliği |   Anlaşma kimliği  |
-|   Katılım Kimliği   |   Benzersiz katılım kimliği    |
-|   Microsoft MSX Kimliği    |   Anlaşmanın MSX kimliği  |
-|   Microsoft Referans Oluşturma Tarihi    |   Microsoft tarafından referans oluşturma tarihi |
-|   Kayıtlı kişi adı   |   Anlaşma kaydı sırasında sağlanan iş ortağı ilgili kişinin adı |
-|   Kayıtlı kişi soyadı    |   Anlaşma kaydı sırasında sağlanan iş ortağı ilgili kişinin soyadı  |
-|   Kayıtlı kişi e-postası    |   Anlaşma kaydı sırasında sağlanan iş ortağı ilgili kişisi e-postası  |
-|   Kayıtlı iletişim telefon numarası |   Telefon kayıt sırasında sağlanan iş ortağı kişisi sayısı   |
-|   Sözleşme Para Birimi   |   Anlaşma kaydı sırasında sağlanan sözleşmenin para birimi  |
-|   Sözleşme Değeri  |   Satış anlaşması kaydı sırasında sağlanan toplam sözleşme değeri. Buna yazılım ve hizmet ücretleri dahildir, ancak donanım maliyetleri dahil değildir  |
-|   Sözleşme Değeri (USD)    |   Satış anlaşması kaydı sırasında sağlanan toplam sözleşme değeri (USD)   |
-|   Sözleşme Başlangıç Tarihi |   Anlaşma kaydı sırasında sağlanan sözleşmenin başlangıç tarihi    |
-|   Sözleşme Bitiş Tarihi   |   Anlaşma kaydı sırasında sağlanan sözleşmenin bitiş tarihi  |
-|   Sözleşme İmza tarihi  |   Anlaşma kaydı sırasında sağlanan sözleşmenin imza tarihi |
-|   Sözleşme Türü   |   Sözleşmenin türü    |
-|   Kayıtlı anlaşma çözümü kimliği |   Anlaşma kaydı için çözümün kimliği    |
-|   Kayıtlı anlaşma çözümü adı   |   Anlaşma kaydı için çözümün adı  |
-|   Kayıtlı anlaşma çözümü para birimi   |   Anlaşma kaydı sırasında belirtilen çözüm için para birimi |
-|   Kayıtlı anlaşma çözüm değeri  |   Anlaşma kaydı sırasında çözüm değeri belirtildi. Genellikle, bu toplam anlaşma değeri, tekrarsız hiçbir uygulama ücreti azaltır.   |
-|   Kayıtlı anlaşma çözüm değeri (USD)    |   Anlaşma kaydı sırasında belirtilen USD 'de çözüm değeri |
-|   Dağıtıldığı yer |   Çözümün Azure veya diğerleri üzerinde dağıtılıp dağıtılmadığını belirtir    |
-|   Üzerinde birincil dağıtım   |   Çözümün müşteri kiracısında veya Iş ortağı kiracısında dağıtılıp dağıtılmadığını belirtir  |
-|   Anlaşma oluşturma tarihi  |   İşlem kaydının Oluşturulma tarihi  |
-|   Anlaşma gönderilme tarihi     |   Teslim kayıt tarihi gönderildi |
-|   Anlaşma onaylandı/reddedildi tarihi     |   Anlaşma onaylandı/reddedildi tarihi. Bu durum sütunuyla eşleştirilir. |
-|   ABD Federal anlaşma |   ABD federal bir anlaşma olup olmadığını belirtir    |
-|   Market Işlem temelli anlaşma  |   Market 'in işlem temelli bir anlaşma olup olmadığını belirtir    |
-|   Market işlem tarihi    |   Market 'te işlem tamamlandıktan sonra Market işlem tarihi|
-|   Durum      |   Başvurunun en son durumu   |
-|   Durum Nedeni   |   Durumun açıklamaları veya nedeni    |
+|   Tahmini anlaşma değeri    |   İş ortağı tarafından sunulan tahmini anlaşma değeri    |
+|   Tahmini anlaşma değeri (USD)  |   İş ortağı tarafından ABD Doları cinsinden sunulan tahmini anlaşma değeri |
+|   Çözüm Kimliği     |   Çözüm KIMLIĞI listesi |
+|   Çözüm Adı   |   Çözüm adları listesi  |
+|   MPN Kimliği  |   İş ortağının Microsoft iş ortağı ağı KIMLIĞI |
+|   İş ortağı adı    |   Ortağın adı |
+|   Anlaşma kimliği |   Anlaşma KIMLIĞI  |
+|   Katılım KIMLIĞI   |   Benzersiz katılım KIMLIĞI    |
+|   Microsoft MSX KIMLIĞI    |   MSX-anlaşma KIMLIĞI  |
+|   Microsoft başvurusu oluşturma tarihi    |   Microsoft 'a başvuru oluşturma tarihi |
+|   Kayıtlı kişi adı soyadı   |   Anlaşma kaydı sırasında belirtilen iş ortağı kişisinin adı |
+|   Kayıtlı kişi soyadı    |   Anlaşma kaydı sırasında belirtilen iş ortağı kişisinin soyadı  |
+|   Kayıtlı iletişim e-postası    |   Anlaşma kaydı sırasında belirtilen iş ortağı kişisinin e-postası  |
+|   Kayıtlı iletişim telefon numarası |   anlaşma kaydı sırasında belirtilen iş ortağı kişisinin Telefon sayısı   |
+|   Sözleşme para birimi   |   Anlaşma kaydı sırasında belirtilen sözleşmenin para birimi  |
+|   Sözleşme değeri  |   Anlaşma kaydı sırasında belirtilen toplam sözleşme değeri. Bu yazılım ve hizmet ücretlerini içerir ancak donanım maliyetlerini içermez  |
+|   Sözleşme değeri (USD)    |   Anlaşma kaydı sırasında belirtilen ABD Doları cinsinden toplam sözleşme değeri   |
+|   Sözleşme başlangıç tarihi |   Anlaşma kaydı sırasında belirtilen sözleşmenin başlangıç tarihi    |
+|   Sözleşme bitiş tarihi   |   Anlaşma kaydı sırasında belirtilen sözleşmenin bitiş tarihi  |
+|   Sözleşme Imza tarihi  |   Anlaşma kaydı sırasında belirtilen sözleşmenin imza tarihi |
+|   Anlaşma türü   |   Sözleşmenin türü    |
+|   Kayıtlı anlaşma çözüm KIMLIĞI |   Anlaşma kaydı için çözümün KIMLIĞI    |
+|   Kayıtlı anlaşma çözümü adı   |   Anlaşma kaydı çözümünün adı  |
+|   Kayıtlı anlaşma çözümü para birimi   |   Anlaşma kaydı sırasında sağlanan çözüm için para birimi |
+|   Kayıtlı anlaşma çözümü değeri  |   Anlaşma kaydı sırasında sağlanan çözüm değeri. Genel olarak, bu toplam sözleşme değeri yinelenen olmayan uygulama ücretlerinin altındadır.   |
+|   Kayıtlı anlaşma çözümü değeri (USD)    |   Anlaşma kaydı sırasında sağlanan ABD doları değerindeki çözüm değeri |
+|   Dağıtıldı |   Çözümün Azure'da mı yoksa Diğerlerinde mi dağıtıldığından gösterir    |
+|   Birincil Dağıtım   |   Çözümün Müşteri Kiracısına mı yoksa İş Ortağı Kiracısına mı dağıtıldıklarını gösterir  |
+|   Anlaşma Oluşturma Tarihi  |   Anlaşma kaydının oluşturma tarihi  |
+|   Anlaşma Gönderme Tarihi     |   Anlaşma kaydının gönderilme tarihi |
+|   Anlaşma Onaylı/Reddedilen Tarih     |   Onaylandı/reddedilen tarihle ilgili anlaşma. Bu durum sütunuyla eşlenmiş. |
+|   ABD Federal Anlaşması |   Bunun bir ABD federal anlaşması olup olmayacağını gösterir    |
+|   Market Işlem Yapılan Anlaşma mı?  |   Bunun bir Market işlemli anlaşması olup olduğunu gösterir    |
+|   Market işlem tarihi    |   Satış anlaşması markette işlem yapılan market işlem tarihi|
+|   Durum      |   Referansların en son durumu   |
+|   Durum Nedeni   |   Açıklamalar veya durum açıklaması    |
 |       |       |

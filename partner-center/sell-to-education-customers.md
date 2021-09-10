@@ -9,12 +9,12 @@ author: alikhaki
 ms.author: alikhaki
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c0a88830796efa63cc6f9e2c0005b0974df22032dc877830b002527bced3a426
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 2d9924b8d361be4237c613467a1d36db29cf7d9e
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115694354"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123960665"
 ---
 # <a name="how-to-sell-offers-to-education-customers-and-how-to-create-an-education-customer-in-partner-center"></a>Eğitim müşterilerine teklif satma ve Iş Ortağı Merkezi 'nde eğitim müşterisi oluşturma
 

@@ -6,16 +6,16 @@ ms.topic: how-to
 author: Guyshu
 ms.author: gushuchm
 ms.date: 11/20/2020
-ms.openlocfilehash: e55e45fe80c67653fec1a6e2b191801061040a3537f9183b2bc8c8824b0c6252
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: e51f4593624a764e14ecae473f96cf0779c2ff10
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115688344"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123936947"
 ---
 # <a name="purchase-saas-apps-on-microsoft-appsource"></a>SaaS uygulamalarını Microsoft AppSource
 
-[Microsoft AppSource](https://appsource.microsoft.com/) hizmet olarak yazılım (SaaS) uygulamaları ve Dynamics 365, Microsoft 365, Power BI ve Power Apps için eklentiler dahil olmak üzere binlerce iş uygulaması içerir. AppSource ücretsiz uygulamalar, denemeler ve ücretli abonelikler içerir. Ayrıca, aboneliği kullanarak ücretleri, yükseltmeleri, eski sürüme düşürmeleri ve iptalleri tek bir [yerde Microsoft 365 yönetim merkezi.](/microsoft-365/admin/admin-overview/about-the-admin-center) Bu makalede AppSource'ta ücretli SaaS abonelikleri satın alma işlemleri açıklanmıştır.
+[Microsoft AppSource](https://appsource.microsoft.com/) hizmet olarak yazılım (SaaS) uygulamaları ve Dynamics 365, Microsoft 365, Power BI ve Power Apps gibi binlerce iş uygulaması içerir. AppSource ücretsiz uygulamalar, denemeler ve ücretli abonelikler içerir ve Microsoft 365 yönetim merkezi kullanarak ücretleri, yükseltmeleri, eski sürüme düşürmeleri ve [iptalleri tek bir yerde yönetebilirsiniz.](/microsoft-365/admin/admin-overview/about-the-admin-center) Bu makalede AppSource'ta ücretli SaaS abonelikleri satın alma işlemleri açıklanmıştır.
 
 ## <a name="requirements"></a>Gereksinimler
 
@@ -40,7 +40,7 @@ SaaS uygulaması satın almak için aşağıdakiler gerekir:
 
 1. Fatura adresinizi girin.
 1. Ödeme yönteminizi (kredi kartı bilgileri) girin.
-1. Siparişi **sırala'yi seçin.**
+1. Sırayı **sırala'ya seçin.**
 
 ## <a name="configure-the-application"></a>Uygulamayı yapılandırma
 

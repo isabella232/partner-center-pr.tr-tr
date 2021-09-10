@@ -8,12 +8,12 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 09/11/2020
-ms.openlocfilehash: 3ed33f28f68f980d916832ab7cab9e09cc06d16c33c1b62a1bcf9fcde40629a2
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: d99de8ed53ae6ed7fa094f6da7a8947c1bcfccb9
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115683227"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123960554"
 ---
 # <a name="manage-incentives-customer-associations"></a>Teşvik müşteri ilişkilendirmelerini yönetme
 
@@ -32,23 +32,23 @@ CPOR ilişkilendirme talebiniz onaylandı ve teşvikler için uygunsa, kazançla
 ## <a name="cpor-association-claims-timeline"></a>CPOR ilişkilendirme talepleri zaman çizelgesi
 
 - Gönderildi: Microsoft onay sürecini başlatana kadar beş iş günü boyunca gönderildi durumuna gelecektir.
-- Gözden Geçir: Microsoft'un, size sağlanacak yürütme kanıtına göre karar vermesi için beş iş günü var.
-- İş Ortağı Eylemi Gerekli: Gözden geçiren size yorum ve ek bilgi isteği gönderirse, yanıtlamak için beş iş günü vardır. CPOR ilişkilendirme talebiniz hakkında, gözden geçirenin SLA'sına bağlı olarak 10 gün içinde ve ayrıca yürütme kanıtı (PoE) gözden geçirenlerine ek bilgiler sağlamak için gereken süreye göre bir karar vermeleri gerekir.
+- Gözden Geçir:Microsoft'un, size sağlanacak yürütme kanıtına göre karar vermesi için beş iş günü var.
+- İş Ortağı Eylemi Gerekli: Gözden geçiren size yorum ve ek bilgi isteği gönderirse, yanıtlamanız için beş iş günü vardır. CPOR ilişkilendirme talebinize, gözden geçirenin SLA'sına bağlı olarak 10 gün içinde ve yürütme kanıtı (PoE) gözden geçirenlerine ek bilgiler sağlamak için gereken süreye göre bir karar vermeleri gerekir.
 - Onaylandı: CPOR ilişkilendirme talebiniz onaylandı. İlişkiniz onaylandıktan sonra müşteriye ilişkilendirmenizi reddetme fırsatı veren bir bildirim gönderilir. Daha sonra müşterinin geri almak için yedi günü olur. Bu onay süresi geçilene kadar teşvik programlarının uygunluğunu değerlendirmek için talep gönderilir.
 
 ## <a name="view-the-status-of-your-cpor-association-claim"></a>CPOR ilişkilendirme talebinizin durumunu görüntüleme
 
-Müşteri İlişkisi Panosu'nda (oturum açma gereklidir) [](https://partner.microsoft.com/dashboard/incentives/claims/associations) CPOR ilişkilendirme talebinizin durumunu istediğiniz zaman kontrol edebilirsiniz.
+Müşteri İlişkisi Panosu'nda (oturum açma gereklidir) CPOR ilişkilendirme [talebinizin](https://partner.microsoft.com/dashboard/incentives/claims/associations) durumunu istediğiniz zaman kontrol edebilirsiniz.
 
 Durum ve anlamları şu şekildedir:
 
 | Talep durumu | Şu zaman görünür: |
 | ------ | ----------- | 
 |  Düzenleme  | CPOR ilişkilendirme talebiniz oluşturuldu. Yürütme kanıtı belgesini karşıya yükleyene ve talebi onay için gönderinceye kadar bu durumda kalır.   |
-|  Gönderildi  | İş ortağı CPOR ilişkilendirme talebi başarıyla gönderildi ama Microsoft henüz inceleme sürecini başlatamadı.   |
+|  Gönderildi  | İş ortağı CPOR ilişkilendirme talebi başarıyla gönderildi ama Microsoft henüz gözden geçirme sürecini başlatamadı.   |
 |  Gözden geçiriliyor  | Microsoft, PoE belgelerinizi doğrulamaya başladı. Daha fazla ayrıntı için size ulaşabilirsiniz. İnceleme süreci SLA'sı beş iş günü.  |
 |  Reddedildi  | PoE'niz yetersizdi veya PoE gözden geçirme yönergelerine göre beş iş günü içinde yanıt vermediniz ve talep reddedildi.   |
-|  Onaylandı  | Talep onaylandı. Microsoft onayı verildikten sonra müşteri ilişkilendirmenizi reddetme fırsatı verdi. Müşterinin Microsoft onayını geri almak için yedi günü var. Talebiniz onaylandı olarak gösterse de, yalnızca onay süresi tamamlandıktan sonra teşvik değerlendirmesi için gönderilir.   |
+|  Onaylandı  | Talep onaylandı. Microsoft onay verdikten sonra müşteri ilişkilendirmenizi reddetme fırsatı verdi. Müşterinin Microsoft onayını geri almak için yedi günü var. Talebiniz onaylandı olarak gösterse de, yalnızca onay süresi tamamlandıktan sonra teşvik değerlendirmesi için gönderilir.   |
 |  İş ortağı eylemi gerekiyor  | Microsoft, CPOR ilişkilendirme talebi PoE'nizi gözden geçirmiş ve talebiniz olan ürünler/iş yükleri için PoE'niz ile ilgili daha fazla bilgiye ihtiyaçmektedir. İstenen bilgileri sağlamak ve talebinizi yeniden sunmak için beş iş günü vardır, yoksa talep reddedilir. Ek bilgi gerekmesinin olası nedenleri şunlardır:
 
 - Tüm PoE Eksik – Yanlış dosya karşıya yüklendiği veya CPOR ilişkilendirme talebiyle ilgili olmadığı için PoE eksik
@@ -72,14 +72,14 @@ CPOR ilişkilendirme talebiniz reddedilirse, reddetmeye itiraz etmek için 30 g�
 1. [İş Ortağı Merkezi panosunda](https://partner.microsoft.com/dashboard/) oturum açın.
 2. İtiraz etmek istediğiniz talebi açın.
 3. Talep sayfasında İtiraz'ı **seçin.**
-4. Reddin neden yeniden ele alın gerektiğini açıklayan bir iş gerekçesi ve/veya güncelleştirilmiş poE girin.
-5. Bilgileri eklemeyi bitirdiğinizde **İtiraz Et**’i seçin. Gözden geçirenlerimiz beş iş günü içinde sonuçları almak için size ulaşacak.
+4. Reddin neden yeniden ele alın gerektiğini açıklayan bir iş gerekçesi ve/veya güncelleştirilmiş PoE girin.
+5. Bilgileri eklemeyi bitirdiğinizde **İtiraz Et**’i seçin. Gözden geçirenlerimiz beş iş günü içinde sonuçlarla birlikte size ulaşacak.
 
 ## <a name="reasons-a-cpor-association-claim-is-rejected"></a>CPOR ilişkilendirme talebinin reddedilmesi nedenleri
 
 CPOR ilişkilendirme talebinin reddedilmesi için başlıca üç neden vardır.
 
-**İş ortağı isteği:** İş ortakları, ilişkilendirmelerinin reddedilmesi isteğine neden olabilir. Bu gerekçe çoğunlukla iş ortağı yanlış BIR MPN kullanarak yanlışlıkla bir CPOR ilişkilendirme talebi oluşturduğunda, yanlış bir Etkinlik seçtiği (örneğin, Ön satış yerine Revenue Association'ı seçtiysiniz) veya müşteriyle artık çalışmıyorsa kullanılır.
+**İş ortağı isteği:** İş ortakları, ilişkilendirmelerinin reddedilmesi isteğine neden olabilir. Bu gerekçe çoğunlukla iş ortağı yanlış BIR MPN kullanarak yanlışlıkla bir CPOR ilişkilendirme talebi oluşturduğunda, yanlış bir Etkinlik seçtiği (örneğin, Satış öncesi yerine Revenue Association'ı seçtiymişsiniz) veya müşteriyle artık çalışmıyorsa kullanılır.
 
 **Müşteri reddetmesi:** CPOR ilişkilendirme talebi PoE onay işlemini başarıyla tamamlandıktan sonra durumu Onaylandı olarak değişirken müşteriye ilişkilendirmenin onayını reddetme fırsatı sağlanır. Müşteri onayı geri çevirirse ilişkilendirme reddedilir.
 
@@ -109,7 +109,7 @@ CPOR ilişkilendirme talebiniz onaylandıktan sonra müşteriye ilişkilendirmen
 
 ## <a name="how-to-communicate-with-poe-reviewers"></a>PoE gözden geçirenleriyle iletişim kurma
 
-Gözden geçirenler PoE'nizi gözden geçirenler ek bilgilerin gerekli olduğunu tespit ediyor olabilir. Öyleyse, talebinizin Yorumlar bölümü aracılığıyla size ulaşabilirsiniz. Bu yanıtlara Açıklamalar bölümünde de yanıt veabilirsiniz.
+Gözden geçirenler PoE'nizi gözden geçirenler ek bilgilerin gerekli olduğunu tespit ediyor olabilir. Öyleyse, talebinizin Yorumlar bölümü aracılığıyla size ulaşabilirsiniz. Bunları Açıklamalar bölümünde de yanıtabilirsiniz.
 
 ## <a name="view-claim-history"></a>Talep geçmişini görüntüleme
 

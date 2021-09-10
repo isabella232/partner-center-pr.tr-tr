@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 1d552cef5617c4755d5ded8c80be722e6bd81d5d8ea3817500817828b8b42481
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: f5448932c9016f346f18882ad0070108f684e941
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115694600"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123960585"
 ---
 # <a name="invoices-and-taxes-in-the-microsoft-partner-network"></a>Faturalar ve vergiler Microsoft İş Ortağı Ağı
 
@@ -37,9 +37,9 @@ Bu yordamı gerçekleştirmek için Genel yönetici veya MPN İş Ortağı yöne
 1.  Yeni İş Ortağı Merkezi'da öğesini **Ayarlar.**
     - MPN kimliğinizi bulmak için İş Ortağı **Profili'ne tıklayın.**
 
-2.  Yeni bir destek bileti oluşturun. Bu İş Ortağı Merkezi, Hizmet **istekleri'İş Ortağı Merkezi** **ve** ardından Yeni istek'i **seçin.**
+2.  Yeni bir destek bileti oluşturun. Bu İş Ortağı Merkezi, Hizmet **istekleri'İş Ortağı Merkezi** ve ardından Yeni **istek'i** **seçin.**
 
-3.  Formu doldurun. Sorun türü **için Profilim** **yönetileyemedi'yi seçin.** Açıklamaya MPN kimliğinizi girin.
+3.  Formu doldurun. Sorunun **türü için Profilim** **yönetileyemedi'yi seçin.** Açıklamaya MPN kimliğinizi girin.
 
 4.  Bileti gönderdikten sonra, daha fazla bilgi almak için Microsoft size e-posta ile iletir. Yanıtlayınca, vergi muafiyeti sertifikalarınız için uygun destek belgelerini iliştirin.
 

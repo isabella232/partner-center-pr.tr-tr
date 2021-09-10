@@ -4,102 +4,102 @@ ms.topic: how-to
 ms.date: 05/01/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-membership
-description: Teşvik programlarında, CSP işlerde, aboneliklerde ve diğer işlemlerde yeni konum ve konum MPN kimliğinin nasıl kullanılabı hakkında bilgi edinin.
+description: Yeni bir konum ekleme ve bilgisayar, CSP iş, abonelik ve diğer işlemlerde MPN KIMLIĞI 'nin nasıl kullanıldığını öğrenin.
 author: vinayks
 ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a62c91902f3c82eee9dcc55a340da30433f946cab2da5c07eca9a76d82498cab
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 66ca3a24a810f61eae9feece5e64440fa531cda5
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115695296"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123959945"
 ---
-# <a name="manage-your-mpn-account-locations-and-add-delete-a-location"></a>MPN hesap konumlarınızı yönetme ve konum ekleme (silme)
+# <a name="manage-your-mpn-account-locations-and-add-delete-a-location"></a>MPN hesap konumlarını yönetme ve konum ekleme (silme)
 
 
-**Uygun roller:** Genel yönetici | Hesap yöneticisi
+**Uygun roller**: genel yönetici | Hesap Yöneticisi
 
-Konum MPN Kimliği, şirketinizin belirli her konumunu tanımlar. Teşvik programlarına kaydolmak, iş (CSP) ve diğer iş Bulut Çözümü Sağlayıcısı için konum MPN kimliğini kullanırsiniz. Genel MPN Kimliği, destek istekleri gibi işlem dışı etkinlikler için kullanılır.
+MPN KIMLIĞI konumu, şirketinizin her belirli bir konumunu tanımlar. mpn kimlik konumunu,, transact Bulut Çözümü Sağlayıcısı (CSP) işletmeye ve diğer iş işlemlerine teşvik etmek için kullanabilirsiniz. Genel MPN KIMLIĞI, destek istekleri gibi işlem olmayan etkinlikler için kullanılır.
 
-## <a name="the-following-scenario-is-typical"></a>Aşağıdaki senaryo tipiktir:
+## <a name="the-following-scenario-is-typical"></a>Aşağıdaki senaryo tipik bir davranıştır:
 
-Contoso,Birleşik Krallık'ta İş Ortağı genel hesabına (PGA) sahip. PGA, kayıtlı yasal işletmedir ve genel MPN kimliği tüm işlem dışı işletmeleri yönetmek için kullanılır. Contoso ayrıca Birleşik Krallık, Fransa ve ABD'deki başka bir konumdaki yan kuruluş veya bölümlere eşdeğer İş Ortağı konum hesaplarına (PLA) sahiptir. MPN Hesabı yapısında, bu PLA'lar benzersiz konum MPN kimlikleri olarak temsil edildi. PLA'lar CSP veya teşvik programları gibi işlem işletmeleri için kullanılır. Ödemeler belirli konumlara bağlanır. 
+Contoso, UK 'teki ortak genel hesabına (PGA) sahiptir. PGA, kayıtlı yasal işletmektir ve tüm hareketsel olmayan işleri yönetmek için genel MPN KIMLIĞI kullanılır. Contoso Ayrıca, UK, Fransa ve ABD 'de başka bir konumdaki yan kuruluşlar veya bölümler için Iş ortağı konum hesapları (PLA) ile eşdeğerdir. MPN hesap yapısında, bu PLAs 'ler benzersiz konum MPN kimlikleri olarak gösterilir. PLAs 'ler, CSP veya teşvikleri programları gibi işlem işleri için kullanılır. Ödemeler belirli konumlara bağlıdır. 
 
 >[!NOTE]
->CSP kiracısı ile MPN konum kimliği arasında 1-1 ilişkisi vardır.
+>CSP kiracısı ve MPN konum KIMLIĞI arasında bir 1-1 ilişkisi vardır.
 
 :::image type="content" source="images/locations/locations1.png" alt-text="MPN konumlarının yapısı.":::
 
 ## <a name="prerequisites-in-order-to-add-a-new-account-for-a-csp-business"></a>Bir CSP işletmesi için yeni bir hesap ekleme konusunda ön koşullar
 
-Yeni bir CSP iş hesabı eklemek için önkoşulları yerine getirmenize yardımcı olun.
+Yeni bir CSP iş hesabı eklemek için önkoşulları karşıladığından emin olarak başlayın.
 
-1. CSP iş yapmak istediğiniz ülkede bir konum MPN Kimliğine sahipsiniz. Yeni bir MPN konumu oluşturmak için aşağıdaki "MPN konumu ekleme" makalesi'ne bakın.
+1. CSP iş yapmak istediğiniz ülkede MPN KIMLIĞI 'ne sahip olmanız gerekir. Yeni bir MPN konumu oluşturmak için aşağıdaki "MPN konum Ekle" bölümünü okuyun.
   
-1. Yeni bir kayıt CSP Indirect Reseller için Dolaylı [sağlayıcılarla çalışma makalesi](indirect-reseller-tasks-in-partner-center.md#get-started) 
+1. Yeni bir CSP dolaylı satıcı kaydı oluşturmak için, [dolaylı sağlayıcılarla iş](indirect-reseller-tasks-in-partner-center.md#get-started) bölümünü okuyun 
 
 >[!NOTE] 
- >Yeni CSP hesabı için **yeni** kimlik bilgileriyle **oturum** açmayı unutmayın. Mevcut kimlik bilgilerinizi, sizi zaten bir İş Ortağı Merkezi olarak tanıyacak şekilde kullanmayın.
+ >**Yeni** CSP hesabının **Yeni** kimlik bilgileriyle oturum açmayı unutmayın. Mevcut kimlik bilgilerinizi, Iş Ortağı Merkezi zaten bir hesap varmış gibi tanıyacak şekilde kullanmayacaktır.
 
-2. Hesabı Microsoft İş Ortağı Sözleşmesi hesabı etkinleştirin.
+2. Microsoft Iş ortağı sözleşmesi 'Ni kabul edin ve hesabı etkinleştirin.
 
-1. Doğrudan Fatura iş ortağı olarak kaydolmak için, Doğrudan Fatura iş [ortakları için gereksinimler makaleyi okuyun](direct-partner-new-requirements.md)
+1. Doğrudan fatura ortağı olarak kaydolmak istiyorsanız, [doğrudan fatura ortakları Için gereksinimleri](direct-partner-new-requirements.md) okuyun
 
-## <a name="view-and-update-your-mpn-locations"></a>MPN konumlarınızı görüntüleme ve güncelleştirme
+## <a name="view-and-update-your-mpn-locations"></a>MPN konumlarınızı görüntüleyin ve güncelleştirin
 
-1. MPN hesabı İş Ortağı Merkezi [kimlik](https://partner.microsoft.com/dashboard/home) bilgilerinizle panoda oturum açın. (MPN kimlik bilgileriniz CSP kimlik bilgilerinizden farklı olabilir) 
+1. MPN hesabı kimlik bilgilerinizle Iş Ortağı Merkezi [panosunda](https://partner.microsoft.com/dashboard/home) oturum açın. (MPN kimlik bilgileriniz CSP kimlik bilgilerinizle farklı olabilir) 
  
-1. Hesap **Ayarlar,** Kuruluş profili , **Yasal'ı** **seçin.**  
+1. **Ayarlar** simgesinden **hesap ayarları**, **kuruluş profili**, **yasal**' yı seçin. 
 
-1. İş **Ortağı sekmesinde,** PMC'den geçirilen konumları düzeltmenizi isteyen bir başlık hata iletisi olmadığını doğrulayın.  Konumlarınız PMC'de doğru şekilde ayarlanmadıysa ve henüz PC'ye geçiş yapılmadıysa, bu konumları güncelleştirmeniz gerekir.
+1. **Iş ortağı** sekmesinde, GEÇIRILEN konumları PMC 'den düzelmenizi isteyen bir başlık hata iletisi bulunmadığını doğrulayın.  Konumlarınız PMC 'de doğru şekilde ayarlanmamışsa ve henüz BILGISAYARA geçirilmediyse, bu konumları güncelleştirmeniz gerekir.
 
-:::image type="content" source="images/locations/location-two.png" alt-text="Ekran kapsülde konumun nasıl güncelleştiril olduğu gösterilir.":::
+:::image type="content" source="images/locations/location-two.png" alt-text="Screencap, konumun nasıl güncelleştirilmesini gösterir.":::
  
-4.  **PMC konumlarını gözden geçir ekranında** Güncelleştir'i **seçin.**
+4.  **PMC konumlarını gözden geçir** ekranında **Güncelleştir**' i seçin.
 Aşağıdaki alanları güncelleştirin:
 
-- **Ad alanı:** Şirket konumunun adının doğru olduğundan emin olun. Yinelenen bir hata görüntülenirse, örneğin Contoso'dan Contoso, Inc. olarak değiştirmeyi deneyin.
+- **Ad alanı**: Şirket konumunun adının doğru olduğundan emin olun. Yinelenen bir hata görüntüleniyorsa, örneğin contoso-contoso, Inc. arasında değişiklik yapmayı deneyin.
 
-- **Yasal Varlık alanı:** Konumun bağlı olduğu yasal varlığı seçtiğinizden emin olun
+- **Yasal varlık alanı**: konumun bağlı olduğu yasal varlığı seçtiğinizden emin olun
 
-- **1. adres & 2 alanı içerir:** Adresin doğru olduğundan emin olun
+- **Adres satırı 1 & 2 alan**: adresin doğru olduğundan emin olun
 
-- **Şehir & Eyalet/İl alanları:** Şehir ile eyalet/il arasındaki birleşimin doğru olduğundan emin olun. Eyalet/İl seçimi için açılan menenin geçerli olduğu ve diğer ülkelerde bu alanın el ile eklenmesi gereken ülkeler vardır.
+- **Şehir & Eyalet/İl alanları**: City ve eyalet/eyalet arasındaki birleşimin doğru olduğundan emin olun. Eyalet/bölge ' yi seçmek için açılan menünün uygulanacağı ve diğer ülkelerde alanın el ile eklenmesi gereken ülkeler vardır.
 
-- **ZIP/ Posta kodu alanı:** Posta Kodu alanında belirtilen Ülke, Bölge, Şehir veya Adres ile eş olduğundan emin olun.
+- **ZIP/posta kodu alanı**: ZIP kodu alanının belirttiğiniz ülke, bölge, şehir veya adresle aynı olduğundan emin olun.
 
-- **Birincil iletişim bilgileri alanları:** Ad ve soyadı alanlarının doldurul olduğundan ve belirtilen e-posta adresinin kişisel bir adres (örneğin, @outlook.com , vb.) değil iş e-posta adresi @live.com olduğundan emin olun
+- **Birincil iletişim bilgileri alanları**: ilk ve son ad alanlarının doldurulduğundan ve belirtilen e-posta adresinin kişisel bir e-posta adresi (örneğin,, @outlook.com @live.com vb.) olduğundan emin olun.
 
-- **Telefon alanı:** Özel karakter, Telefon veya ülke kodu içermeyebilirsiniz. Sayı alanına girilen Telefon her zaman en fazla 10 karakter içerir.
+- **Telefon numarası alanı**: Telefon numarasının özel karakterler, boşluklar veya ülke kodu içermediğinden emin olun. Telefon Number alanına girilen değer her zaman en fazla 10 karakter içerir.
 
-5. Bir hata iletisi yoksa, Ayarlar , **Kuruluş** profili **,** **Tanımlayıcılar** Ayarlar **'yi seçin.**
+5. bir hata mesajı yoksa **Ayarlar**'den **hesap Ayarlar**, **kuruluş profili**, **tanımlayıcılar**' ı seçin.
 
-6. Bu CSP hesabının ülkesiyle eşleşen "Konum" Türüne sahip MPN Kimliğini bulun ve ilişkilendirmeyi tamamlamak için kullanın.
+6. "Location" türünde, bu CSP hesabının ülkesiyle eşleşen MPN KIMLIĞINI bulun ve ilişkilendirmeyi gerçekleştirmek için onu kullanın.
 
-7. Kullanmak istediğiniz CSP hesabıyla eşleşen konum MPN Kimliğini bulamazsanız, yeni bir konum ekleyebilir ve bu da yeni bir MPN kimliği oluşturabilir. Aşağıdaki **MPN konumu eklemeye** bakın.
+7. Kullanmak istediğiniz CSP hesabıyla eşleşen MPN KIMLIĞI konumunu bulamazsanız yeni bir MPN KIMLIĞI oluşturacak yeni bir konum ekleyebilirsiniz. Aşağıda **BIR MPN konumu ekleme** bölümüne bakın.
 
 ## <a name="add-an-mpn-location"></a>MPN konumu ekleme
 
-1. MpN hesabını kullanarak oturum açın ve İş Ortağı Merkezi. (MPN kimlik bilgileriniz CSP kimlik bilgilerinizden farklı olabilir.) MPN hesabının Genel Yönetici veya Hesap Yöneticisi ayrıcalıkları olmalıdır. 
+1. Iş Ortağı Merkezi 'nde MPN hesabını kullanarak oturum açın. (MPN kimlik bilgileriniz CSP kimlik bilgilerinizle farklı olabilir.) MPN hesabının genel yönetici veya hesap yönetici ayrıcalıklarına sahip olması gerekir. 
 
-1. Uygulama Ayarlar **Hesap ayarları'nın** **ardından Kuruluş profili'ne** **tıklayın.**
+1. **Ayarlar simgesinden** **hesap ayarlarını** seçin ve ardından **kuruluş profili**' ni seçin.
 
-2. **Yasal'ı** seçin ve ardından **İş Ortağı** sekmesinde İş **konumları'nın ardından Konum** **ekle'yi seçin.**
+2. **Yasal** ' ı seçin ve sonra iş **ortağı** sekmesinde **iş konumları '** nı seçin ve **Konum Ekle** ' yi seçin.
 
-3. Şirketinize eklemek istediğiniz konum için iş adı, adres ve iletişim gibi gerekli ayrıntıları girin.
+3. Şirketinize eklemek istediğiniz konum için iş adı, adres ve ilgili kişi dahil olmak üzere gerekli ayrıntıları sağlayın.
  
-1. Konum **ekle'yi seçin.** Bu, CSP işlemleri ve teşvikleri için kullanabileceğiniz yeni konum için yeni bir MPN kimliği oluşturacak.
+1. **Konum Ekle**' yi seçin. Bu, CSP işlemleri ve teşvikleri için kullanabileceğiniz yeni konum için yeni bir MPN KIMLIĞI oluşturur.
 
-:::image type="content" source="images/legal-biz.png" alt-text="Yeni bir yasal işletme ekleyin.":::
+:::image type="content" source="images/legal-biz.png" alt-text="Yeni bir hukuk işi ekleyin.":::
 
 > [!NOTE]
-> Bir konum İş Ortağı Merkezi kaldıramazsiniz. Oturum açma için **doğru MPN** kimliğini kullandıysanız İş Ortağı Merkezi menüsünde MPN'i görünür.
+> Iş Ortağı Merkezi 'ne bir konum eklendikten sonra kaldıramazsınız. Oturum açmak için doğru MPN KIMLIĞINI kullandıysanız, **MPN** 'Yi Iş Ortağı Merkezi 'nin sol menüsünde görürsünüz.
 
-## <a name="add-the-registration-number-id"></a>Kayıt numarası kimliğini ekleme
+## <a name="add-the-registration-number-id"></a>Kayıt numarası KIMLIĞINI ekleyin
 
-Dolaylı sağlayıcı, Doğrudan fatura iş ortağı veya Dolaylı kurumsal bayiysiniz ve aşağıdaki ülkelerde yeni veya mevcut müşterilerle iş yapıyorsanız işletmeniz için kayıt kimliği numaralarını sağlayabilirsiniz. İş yapmakta olduğunuz ülke aşağıda listelenmiyorsa kayıt kimliği isteğe bağlıdır.
+Dolaylı bir Sağlayıcıysanız, doğrudan faturanız veya dolaylı satıcısıysanız ve aşağıdaki ülkelerde yeni veya mevcut müşterilerle iş yapıyorsanız, işletmeniz için kayıt KIMLIĞI numaraları sağlamanız gerekir. İş yapmakta olduğunuz ülke aşağıda listelenmiyorsa kayıt KIMLIĞI isteğe bağlıdır.
 
 - Ermenistan 
 - Azerbaycan 
@@ -127,28 +127,28 @@ Dolaylı sağlayıcı, Doğrudan fatura iş ortağı veya Dolaylı kurumsal bayi
 - Vietnam 
 
 
-Daha fazla bilgi için Kayıt [Kimliği numarası bilgilerini okuyun](reg-number-id.md)
+Daha fazla bilgi için [kayıt kimliği numarası bilgilerini](reg-number-id.md) okuyun
 
 ## <a name="delete-a-location"></a>Konum silme
 
-Bir konumu hesabınızla silmek için İş Ortağı Desteği'ne [başvurabilirsiniz.](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=1af7f3a0-1757-3543-4b6a-c945c3ad187b) Bu eylemin sonuçlarını anladığınızdan emin olun. Silinen konumlar alınamaz ve bu MPN kimliğine bağlı herhangi bir şey artık tanınmaz veya şirket için etkin olmaz.
+Hesabınızdan bir konum silmek için [Iş ortağı desteğine](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=1af7f3a0-1757-3543-4b6a-c945c3ad187b)başvurmanız gerekecektir. Bu eylemin sonuçlarını anladığınızdan emin olun. Silinen konumlar alınamaz ve söz konusu MPN KIMLIğINE bağlı olan herhangi bir şey artık şirketiniz için tanınmayacak veya etkin olmayacak.
 
-## <a name="change-country-of-partner-global-account"></a>İş ortağı genel hesabının ülkesini değiştirme 
+## <a name="change-country-of-partner-global-account"></a>Ortak genel hesap ülkesini değiştirin 
 
-1. MpN hesabını kullanarak oturum açın ve İş Ortağı Merkezi. (MPN kimlik bilgileriniz CSP kimlik bilgilerinizden farklı olabilir.) MPN hesabının Genel Yönetici veya Hesap Yöneticisi ayrıcalıkları olmalıdır. 
+1. Iş Ortağı Merkezi 'nde MPN hesabını kullanarak oturum açın. (MPN kimlik bilgileriniz CSP kimlik bilgilerinizle farklı olabilir.) MPN hesabının genel yönetici veya hesap yönetici ayrıcalıklarına sahip olması gerekir. 
 
-2. İş **Ortağı** sekmesinde İş **konumları'ne gidin** ve konum listesini kontrol edin ve yasal varlığınız olarak istediğiniz konumun listelenmiş olduğundan emin olun. 
+2. Iş **ortakları** sekmesinde **iş konumları** ' na gidin ve yasal varlığınız olarak istediğiniz konumun listelendiğinden emin olmak için konumların listesini kontrol edin. 
  
-1. Konum eklemek için Konum ekle 'ye tıklayın ve iş adı, adres ve şirket için eklemek istediğiniz konumun birincil ilgili kişisi gibi gerekli ayrıntıları girin. 
+1. Konum eklemek için, **Konum Ekle**' ye tıklayın ve kullanıma hazır olarak, şirketinizde eklemek istediğiniz konum için iş adı, adres ve birincil kişi dahil olmak üzere gerekli ayrıntıları sağlayın. 
  
-1. **Ülke/bölge açılan** listesinin **yanındaki Ülkenizi** değiştir'i seçin ve adımları izleyin. 
+1. Ülke **/bölge** açılır listesinin yanındaki **ülkenizi değiştirin** ' i seçin ve adımları izleyin. 
 
-:::image type="content" source="images/lbp.png" alt-text="Yasal iş profili verileri çıkar.":::
+:::image type="content" source="images/lbp.png" alt-text="Yasal iş profili verileri kullanıma hazır.":::
 
 5. **Kaydet**’i seçin.
 
-6. MPN genel hesap ülkesi, yeni yasal ülke olarak değiştirilir.
+6. MPN küresel hesap ülkesi, yeni yasal ülkeyle değiştirilecektir.
   
 ## <a name="next-steps"></a>Sonraki adımlar
 
-- [Doğrulama süreci](verification-responses.md)hakkında bilgi edinin.
+- Doğrulama işlemi hakkında [bilgi edinin.](verification-responses.md)

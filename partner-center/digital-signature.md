@@ -9,16 +9,16 @@ author: keramp
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4a691a891ca813cea930daadeabc647c98743493471b169707e82a3baa4f5fb3
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: c9a910468c9f743cac848cbd9392f3ff64827cec
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115689417"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123961324"
 ---
 # <a name="view-digitally-signed-invoices"></a>Dijital olarak imzalanan faturaları görüntüleme
 
-**Için geçerlidir:** İş Ortağı Merkezi | İş Ortağı Merkezi Hindistan
+**Uygulama:** İş Ortağı Merkezi | İş Ortağı Merkezi Hindistan
 
 **Uygun roller:** Hesap yöneticisi | Faturalama aracısı | Satış aracısı
 
@@ -27,12 +27,12 @@ Hindistan'daki iş ortakları artık Microsoft'un faturaları dijital olarak imz
 ## <a name="how-to-view-and-insure-a-valid-digital-signature"></a>Geçerli bir dijital imzayı görüntüleme ve bu imzayı sigortala
 
 
-1. Siparişi e-postayla İş Ortağı Merkezi, faturanın dijital kopyasını e-postayla alırsınız. Adobe Reader DC'nin içinde açılacak faturayı seçin.
+1. Siparişi İş Ortağı Merkezi oluşturduysanız, e-posta ile faturanın dijital bir kopyasını alırsınız. Adobe Reader DC'nin içinde açılacak faturayı seçin.
 
 
 2. Faturanın üst kısmında İmzalı'nın ve tüm **imzaların geçerli olduğunu görüyor olun.**
  
- :::image type="content" source="images/digitalsig/digital1.png" alt-text="Yeşil onay işareti imzası ve İmzalı ifadesinin ve tüm imzaların geçerli olduğunu gösteren geçerli imza bildirim başlığına sahip örnek fatura.":::
+ :::image type="content" source="images/digitalsig/digital1.png" alt-text="Yeşil onay işareti imzasını ve &quot;İmzalandı&quot; ifadesini gösteren geçerli imza bildirim başlığına sahip örnek fatura ve tüm imzalar geçerli.":::
 
 3. İmzayı seçin. Geçerlilik belirten sertifika görüntülenir.
 

@@ -2,37 +2,37 @@
 title: CHIP’e erişim sorunları
 ms.topic: how-to
 ms.date: 11/09/2020
-description: Channel teşvikleri platform (yonga) aracını kullanmayla ilgili sorunları gidermenize yardımcı olması için bu yönergeleri okuyun.
+description: Channel Incentives Platform (CHIP) aracını kullanmayla ilgili sorunları gidermenize yardımcı olmak için bu yönergeleri okuyun.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8808460154d9031c522befb0798fd7dfe6814123b63cc26e9ecb97f678cabbea
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: eec04bb75a1c8b2979a6d543770fd31d21f607c2
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115682428"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123961195"
 ---
-# <a name="troubleshoot-issues-with-accessing-chip"></a>YONGADA erişme sorunlarını giderme
+# <a name="troubleshoot-issues-with-accessing-chip"></a>CHIP'e erişmeyle ilgili sorunları giderme
 
-**Uygun roller**: birincil iletişim veya Program Yöneticisi
+**Uygun roller:** Birincil kişi veya program yöneticisi
 
 >[!NOTE]
->YONGA platformu 2021 sonunda kullanımdan kaldırılacaktır.
+>CHIP platformu 2021'in sonunda sona erer.
 
-Birincil iletişim veya PPA (birincil program Yöneticisi) değilseniz, erişim için birincil iletişim veya PPA (birincil program Yöneticisi) ile iletişime geçin. Geçerli PPA kullanıyorsanız, şirketinizin kayıtlı olduğundan ve erişiminizin şirket durumuna bağlı olduğundan emin olun.
+Birincil kişi veya PPA (Birincil Program Yöneticisi) değilseniz erişim için birincil ilgili kişinize veya PPA(Birincil Program Yöneticisi) ile iletişime geçin. Geçerli PPA sizsiniz, erişiminiz şirket durumuna bağlı olduğundan, şirketin kayıtlı ve kayıtlı olduğundan emin olun.
 
-Birincil iletişim veya PPA (birincil program Yöneticisi) ise, kayıt için tüm bildirimler geçerli birincil kişiye veya PPA 'ye (birincil program Yöneticisi) gönderiliyorsa YONGAYA erişiminizin olması gerekir. Bu erişim, ilk kayıt döneminden sonraki her dönem için devam eder.
+Birincil kişi veya PPA (Birincil Program Yöneticisi) sizseniz, kayıt için tüm bildirimler geçerli birincil ilgili kişi veya PPA'ya (Birincil Program Yöneticisi) gönderildiği için CHIP'e erişiminizin olması gerekir. Bu erişim, ilk kayıt döneminden sonra her dönem boyunca devam eder.
 
-## <a name="troubleshooting-steps-to-assist-with-accessing-chip-if-you-had-prior-access"></a>Önceki erişime sahipseniz YONGAYA erişmede yardım etmek için sorun giderme adımları
+## <a name="troubleshooting-steps-to-assist-with-accessing-chip-if-you-had-prior-access"></a>Daha önce erişiminiz varsa CHIP'e erişme konusunda yardımcı olacak sorun giderme adımları
 
-1. Tüm tanımlama bilgilerini temizleyin ve özel bir tarayıcıda yonga açın.
-1. tarayıcınızda **uyumluluk görünümü Ayarlar** seçin. YONGA Microsoft.com altında zaten listelenmiş olmalıdır, aksi durumda Web sitesini ekleyin.
+1. Tüm tanımlama bilgilerini temizleyin ve CHIP'i özel bir tarayıcıda açın.
+1. Tarayıcınızda **Uyumluluk Görünümü Ayarlar'yi** seçin. CHIP, web sitesinin Microsoft.com listelenmiş olmalı, aksi takdirde web sitesini ekleyin.
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-- [Channel teşvikleri platformunda (yonga) gezinme](chip-intro.md)
+- [Kanal Teşvikleri Platformunda (CHIP) Gezinme](chip-intro.md)
 - [Destek](report-problems-with-partner-center.md)

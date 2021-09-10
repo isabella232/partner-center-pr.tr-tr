@@ -8,12 +8,12 @@ description: Iş ortağı üyelik Merkezi 'nin (PMC) kullanımdan kaldırılmas�
 author: jasongroce
 ms.author: misherma
 ms.localizationpriority: high
-ms.openlocfilehash: 5569cc46a52a332dfee5278ee2fa8d7461262b9fd49d94b99fd682dc3f913820
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 9f46389ac0c1174690090d571305d6163cabb09e
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115694022"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123960325"
 ---
 # <a name="partner-membership-center-retirement-faq"></a>İş ortağı üyeliği merkezi kullanımdan kaldırma SSS
 **Uygun roller**: genel yönetici | Kullanıcı Yönetimi Yöneticisi

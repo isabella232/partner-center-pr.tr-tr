@@ -9,12 +9,12 @@ ms.author: v-aarzh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 03/24/2021
-ms.openlocfilehash: ed3b888791dad1e875db64b7ccbe20e7b0a8b4bbd71fb7c83cc677ee2d5f2d3a
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: aa8f08b52a16aae56b02b09d5fdf607e92180ca5
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115680107"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123960055"
 ---
 # <a name="how-to-confirm-that-your-customer-has-accepted-the-microsoft-customer-agreement-to-the-csp-program"></a>Müşterinizin, Microsoft Müşteri anlaşmasını CSP programına kabul ettiğini onaylama
 
@@ -179,29 +179,29 @@ Mevcut bir müşteriyi gözden geçirmek ve Microsoft Müşteri anlaşmasını k
 >[!NOTE]
 >Bazı senaryolarda, müşteriler Microsoft Müşteri anlaşmasını doğrudan kabul edemeyebilir. Bu durumlar hakkında daha fazla bilgi edinmek için, aşağıdaki Müşterinizin adına sınamanız gereken Iki senaryoyu okuyun.
 
-## <a name="two-scenarios-where-you-need-to-attest-on-behalf-of-your-customer"></a>Müşterinizin adına test etmeniz gereken iki senaryo
+## <a name="two-scenarios-where-you-need-to-attest-on-behalf-of-your-customer"></a>Müşteriniz adına bunu test etmek için ihtiyacınız olan iki senaryo
 
-müşterilerin, Microsoft müşteri anlaşmasını Microsoft 365 Yönetici merkezi 'nde doğrudan kabul edebilecekleri iki senaryo vardır.
+Müşterilerin Microsoft 365 Yönetici Center'da doğrudan kabul edile Microsoft Müşteri Sözleşmesi iki senaryo vardır.
 
-**Senaryo 1**: mevcut bir müşteri, mevcut bir iş ortağı ilişkisi aracılığıyla aşağıdakilerden birini satın aldı: teklifler, yazılım veya yazılım abonelikleri, ayrılmış örnekler veya Azure planı. Müşteri artık yeni satın alma işlemi gerçekleştirmeye çalışıyor (otomatik yenileme hariç). Bu müşteri URL 'YI tıklattığında, "Microsoft Müşteri anlaşmasını kabul etmek için lütfen Iş ortağınıza ulaşın" iletisini alırlar.  
+**Senaryo 1:** Mevcut bir müşteri, mevcut iş ortağı ilişkisi aracılığıyla aşağıdakilerin herhangi birini satın aldı: teklifler, yazılım veya yazılım abonelikleri, Ayrılmış Örnekler veya Azure planı. Müşteri şimdi yeni satın alma işlemleri yapmaya (otomatik yenileme hariç) başvurur. Müşteri URL'ye tıkladığında "Lütfen İş Ortağınıza ulaşarak url'yi kabul Microsoft Müşteri Sözleşmesi."  
 
-**Çözümlemek için**: müşteri adına test etmeniz gerekir.
+**Sorununu çözmek** için: Müşteri adına bunu doğrulayın.
 
-:::image type="content" source="images/mca/accept-scenario-1.png" alt-text="Microsoft müşteri sözleşmesinin kabul edildiğini onaylamak için iş ortağınıza ulaşmanızı isteyen Microsoft 365 Yönetici Center sayfasının ekran görüntüsü.":::
+:::image type="content" source="images/mca/accept-scenario-1.png" alt-text="İş Microsoft 365 Yönetici onayını onaylamak için iş ortağınıza ulaşmanızı isteyen Microsoft Müşteri Sözleşmesi.":::
 
-**Senaryo 2**: mevcut bir müşteri, aşağıdaki tekliflerden, yazılım ve yazılım aboneliklerinden, ayrılmış örneklerden ve Azure planından herhangi birini satın almış. Müşteri artık yeni bir iş ortağıyla yeni satın alma yapmaya çalışıyor.
+**Senaryo 2:** Mevcut bir müşteri aşağıdaki tekliflerden, yazılım ve yazılım aboneliklerinin, Ayrılmış Örneklerin ve Azure planının herhangi birini satın aldı. Müşteri şimdi yeni bir iş ortağıyla yeni satın alma girişiminde bulundu.
 
-müşteri yeni iş ortağı ilişkisini ve sözleşmeyi kabul etmek için Microsoft 365 Yönetici Center URL 'sini tıkladığında, "Microsoft müşteri sözleşmesi 'ni kabul etmiş olduğunuz için iş ortağınıza ulaşın" iletisini alırlar.  
+Müşteri yeni iş ortağı ilişkisini ve sözleşmeyi kabul etmek için Microsoft 365 Yönetici Center URL'sini tıkladığında "Lütfen İş Ortağınıza ulaşarak bu ilişkiyi kabul ettiğinize emin olmak için Microsoft Müşteri Sözleşmesi."  
 
-**Çözümlemek için**: müşteri adına test etmeniz gerekir.  
+**Sorununu çözmek** için: Müşteri adına bunu doğrulayın.  
 
-## <a name="confirm-that-a-customer-has-accepted-the-agreement"></a>Müşterinin sözleşmeyi kabul ettiğini onaylama
+## <a name="confirm-that-a-customer-has-accepted-the-agreement"></a>Müşterinin sözleşmeyi kabul etmiş olduğunu onaylayın
 
-Daha önce teyit edilmemiş mevcut bir müşteri için yeni bir sipariş oluşturmayı denerseniz, onayı tamamlamaya yönelik bir istem alırsınız. Bunu yapmak için aşağıdaki yordamı kullanın.
+Daha önce onaylamadınız mevcut bir müşteri için yeni bir sipariş oluşturmanız gerekirse, onayı tamamlamanız için bir istem alırsınız. Bunu yapmak için aşağıdaki yordamı kullanın.
 
-1. sözleşmeyi kabul eden kullanıcının **adını**, **soyadını**, **e-posta adresini** ve **Telefon numarasını** (isteğe bağlı) girin.
+1. Sözleşmeyi **kabul eden** kullanıcının **ad,** **Soyadı,** **Telefon** adresi ve kimlik numarasını (isteğe bağlı) girin.
 
-2. **Sözleşme kabul tarihi** altında, uygun tarihi girin. Bunu gelecekteki bir tarihle ayarlayamazsınız.
+2. Sözleşme **kabul tarihi'nin** altında uygun tarihi girin. Bunu gelecekteki bir tarihe ayaramazsiniz.
 
 3. **Kaydet ve devam et**’i seçin. 
 

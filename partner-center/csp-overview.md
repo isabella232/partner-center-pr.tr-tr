@@ -9,12 +9,12 @@ author: billlinzbach
 ms.author: billLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6da4cc633ca08d68fc0392afbb86559ac75624309203eb9ee264e80237c741b2
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 61117b77efdb447abad482654afc7220aa2bcce6
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115693699"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123960135"
 ---
 # <a name="cloud-solution-provider-program"></a>Bulut Çözümü Sağlayıcısı programı 
 

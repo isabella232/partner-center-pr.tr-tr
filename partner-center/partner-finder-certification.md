@@ -8,12 +8,12 @@ description: Iş ortağı Bulucu listelemesi için gereksinimler hakkında bilgi
 author: jasongroce
 ms.author: v-mhanscom
 ms.localizationpriority: medium
-ms.openlocfilehash: 5dfa4729b220611dec840e5505b071a0a8fbc845bef593c2e9fa9d0c0937c866
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 712b26d56886b5265038a385dbf1ce1e68bb5081
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115691897"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123961494"
 ---
 # <a name="partner-finder-listing-certification-policies"></a>Sertifika ilkelerini listeleme iş ortağı Bulucu
 

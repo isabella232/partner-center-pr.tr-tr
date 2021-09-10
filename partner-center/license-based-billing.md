@@ -9,18 +9,18 @@ ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/18/2020
-ms.openlocfilehash: 13a5e2df85c6adffb1ebd423b25d654bc8b8f5966b4a757c6b24b4c8d1130594
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 838dc5cbce503f449c2796c8397625266f826059
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115692322"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123960125"
 ---
-# <a name="license-based-billing-in-partner-center"></a>İş Ortağı Merkezi'de lisans tabanlı faturalama
+# <a name="license-based-billing-in-partner-center"></a>İş Ortağı Merkezi'da lisans tabanlı faturalama
 
 **Uygun roller:** Genel yönetici | Kullanıcı yönetimi yönetici | Faturalama yöneticisi | Yönetici aracısı
 
-Lisans gerektiren bir çevrimiçi hizmetler İş Ortağı Merkezi satın almak veya satın almak İş Ortağı Merkezi lisans *için* faturalandırabilirsiniz. Bu *lisanslar için kullanım* tarafından faturalandırlanmaz. (Kullanım tabanlı faturalama ve diğer faturalama türleri hakkında bilgi için [bkz.](./billing-basics.md)İş Ortağı Merkezi.)
+Lisans gerektiren çevrimiçi hizmetler veya İş Ortağı Merkezi satın almak **için** satın İş Ortağı Merkezi her lisans için faturalandırabilirsiniz.  Bu *lisanslar için kullanım* tarafından faturalandırlanmaz. (Kullanım tabanlı faturalama ve diğer faturalama türleri hakkında bilgi için [bkz.](./billing-basics.md)İş Ortağı Merkezi.)
 
 ## <a name="license-billing-frequency"></a>Lisans faturalama sıklığı
 
@@ -30,7 +30,7 @@ Lisanslar için ayda bir kez (aylık faturalama) veya yılda **bir** kez (yıll�
 
 Lisans tabanlı abonelikler, aboneliğin yıldönümü tarihine göre önceden **fatura edilir.** Yıldönümü tarihi, aboneliği satın aldığınız ayın günü olur.
 
-Örneğin:
+Örnek:
 
 - 15 **Ocak'ta aylık** abonelik satın aldıysanız yıldönümü tarihi her ayın 15'inde olacaktır.
 - 15 **Ocak'ta yıllık** abonelik satın aldıysanız yıl dönümü tarihi her yılın 15 Ocak tarihi olur.
@@ -43,7 +43,7 @@ Tüm lisans tabanlı aboneliklerin satın alma tarihinde başlayan 12 aylık üc
 
 Lisans dönemi boyunca herhangi bir noktada lisansı iptal [edebilirsiniz.](#license-term) Ancak iptal etmek istediğiniz ay, iptal edilen lisans için ne kadar kredi alasınız?
 
-1. ayda bir aboneliği askıya alırsanız %100 kredi alırsınız.
+1. ayda aboneliği askıya alırsanız %100 kredi alırsınız.
 
 Aboneliği 2-12 arası askıya aldıysanız, eşit dağıtılmış olarak alacaklandırılırsınız.
 

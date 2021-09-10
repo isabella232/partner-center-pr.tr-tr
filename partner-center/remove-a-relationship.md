@@ -9,12 +9,12 @@ author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 28f08cf1b15ccc944c8980b4111c583ccda948a35412ff0edb176a2e65f308df
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 355f4917098ae6f6e383bf1a889197a725777311
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115678144"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123960965"
 ---
 # <a name="how-to-remove-a-reseller-relationship-with-a-customer-in-partner-center"></a>İş Ortağı Merkezi'nde müşteriyle kurumsal bayi ilişkisini kaldırma
 

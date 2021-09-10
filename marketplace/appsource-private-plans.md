@@ -7,12 +7,12 @@ author: Guyshu
 ms.author: gushuchm
 ms.date: 06/08/2021
 robots: noindex
-ms.openlocfilehash: 2e55bd233d347cc7c23d60eb832c8fddfcfe524f4fb055e33e2a7a275eddee49
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: a392859c1106c747e0e7c696927ef3b25262e411
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115683875"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123936933"
 ---
 # <a name="private-plans-in-microsoft-appsource"></a>Microsoft AppSource özel planlar
 

@@ -1,17 +1,17 @@
 ---
 title: Para iadesi ilkeleri Microsoft AppSource ve Azure Market
-description: Microsoft AppSource ve Azure Market'da satılan ürünler için para iadesi Azure Market
+description: Microsoft AppSource ve Azure Market'da satılan ürünler için para Microsoft AppSource ilkeleri hakkında Azure Market
 ms.service: marketplace-customer
 ms.topic: article
 author: jeweber
 ms.author: jeweber
 ms.date: 06/02/2021
-ms.openlocfilehash: 76aeefe324edba06b71cf41cfb25be805b356cc63de0377ba246b50d05187998
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 37be38030ece0b78629fe1ebbb77c41f2cbcb8fb
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115688326"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123936989"
 ---
 # <a name="refund-policies-for-microsoft-appsource-and-azure-marketplace"></a>Para iadesi ilkeleri Microsoft AppSource ve Azure Market
 
@@ -21,11 +21,11 @@ Satın alma Microsoft AppSource Azure Market para iadesi için uygun olabilir. B
 
 Aylık planlar için, satın alma işleminin ardından bir gün içinde aboneliğinizi iptal edersiniz ve tam para iadesi alabilirsiniz. Yıllık planlar için, satın alma işleminin üzerinden 14 gün içinde aboneliğinizi iptal edersanız tam para iadesi alabilirsiniz. Yukarıdaki süreler sonrasında iptal edilen abonelikler için para iadeleri kullanılamaz.
 
-Değişken ücretler için para iadesi yapılmaz. Örneğin, saas teklifi bir e-posta platformundan gönderilen e-posta sayısına göre faturalar.
+Değişken ücretler için para iadesi yapılmaz. Örneğin, SaaS teklifi bir e-posta platformundan gönderilen e-posta sayısına göre faturalanacaksa.
 
 ## <a name="office-add-ins"></a>Office eklentileri
 
-Bir eklenti satın Office, satın alma veya yenilemeden itibaren bir gün içinde aboneliği iptal etmeniz gerekirse tam para iadesi alabilirsiniz. Satın alma işleminin üzerinden bir gün sonra aboneliği iptal edersanız, teklifin kalan kısmı temel alınarak kısmi para iadesi alabilirsiniz. Aboneliğinizi değiştirirsanız, abonelik döneminin kalan kısmı temel alınarak kısmi para iadesi alabilirsiniz.
+Bir eklenti satın Office, satın alma veya yenilemeden itibaren bir gün içinde aboneliği iptal etmeniz gerekirse tam para iadesi alabilirsiniz. Satın alma işleminin üzerinden bir gün sonra aboneliği iptal edersanız, teklifin kalan kısmı temel alınarak kısmi para iadesi almaya hak kazanabilirsiniz. Aboneliğinizi değiştirirsanız, abonelik döneminin kalan kısmı temel alınarak kısmi para iadesi alabilirsiniz.
 
 ## <a name="azure-developer-services"></a>Azure geliştirici hizmetleri
 
@@ -45,7 +45,7 @@ Azure desteği planınızı aktardı veya değiştirirken kısmi para iadesi ala
 
 ## <a name="azure-databricks"></a>Azure Databricks
 
-Belirli bir Azure Databricks kaldırırsanız, belirttiğiniz kalan dönem birimlerine göre kısmi para iadesi alabilirsiniz. Daha fazla bilgi edinmek Azure Databricks için [bkz. Azure Databricks.](/azure/databricks).
+Bir varlık Azure Databricks kaldırırsanız, belirttiğiniz kalan dönem birimlerine bağlı olarak kısmi para iadesi alabilirsiniz. Daha fazla bilgi edinmek Azure Databricks için [bkz. Azure Databricks.](/azure/databricks).
 
 ## <a name="monetary-commitment"></a>Parasal taahhüt
 

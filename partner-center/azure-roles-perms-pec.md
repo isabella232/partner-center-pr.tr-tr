@@ -9,12 +9,12 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 373346311924059c9d3a6c54019fe1d3a03a1db71f7602769cfaf6712c345707
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: ca9cd1b09c840531c3652f71afbd9c66f657f877
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115680660"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123959925"
 ---
 # <a name="roles-and-permissions-required-to-earn-partner-earned-credit"></a>İş ortağı kazanılmış kredisi kazanmak için gereken roller ve izinler
 
@@ -92,12 +92,12 @@ HDInsight Küme İşleci | HDInsight küme yapılandırmalarını okuma ve deği
 HDInsight Etki Alanı Hizmetleri Katkıda Bulunanı | HDInsight Güvenlik Paketi için gereken Etki Alanı Hizmetleri ile ilgili işlemleri okuyabilir, Enterprise ve silebilir | Yes | 
 Akıllı Sistemler Hesabı Katkıda Bulunanı | Akıllı Sistemler hesaplarını yönetmenize olanak sağlar, ancak bu hesaplara erişmenizi sağlar. | Yes | 
 Key Vault Katkıda Bulunanı | Anahtar kasalarını yönetmenize olanak sağlar, ancak bu kasalara erişmenizi sağlar. | Yes | 
-Laboratuvar Oluşturucusu | Azure Lab Hesapları altında yönetilen laboratuvarlarınızı oluşturmanıza, yönetmenize ve silmenize olanak sağlar. | Yes | 
+Laboratuvar Oluşturucusu | Azure Lab Hesaplarınız altında yönetilen laboratuvarlarınızı oluşturmanıza, yönetmenize ve silmenize olanak sağlar. | Yes | 
 Log Analytics Katkıda Bulunan | Log Analytics Katkıda Bulunanı tüm izleme verilerini okuyabilir ve izleme ayarlarını düzenleyebilir. İzleme ayarlarını düzenleme, VM uzantısını VM'lere eklemeyi içerir; Azure depolama hesabından günlük toplamayı yapılandırabilecek depolama hesabı anahtarlarını Depolama; Otomasyon hesaplarını oluşturma ve yapılandırma; çözüm ekleme; ve tüm Azure kaynaklarda Azure tanılamasını yapılandırma. | Yes | 
 Log Analytics Okuyucusu | Log Analytics Okuyucusu tüm Azure kaynaklarda Azure tanılama yapılandırmasını görüntüleme de dahil olmak üzere tüm izleme verilerini görüntüleme ve aramanın yanı sıra izleme ayarlarını da görüntülemenizi sağlar. | No | 
 Mantıksal Uygulama Katkıda Bulunanı | Mantıksal uygulamaları yönetmenize olanak sağlar, ancak erişimi değiştirmez. | Yes | 
 Mantıksal Uygulama İşleci | Mantıksal uygulamaları okumanızı, etkinleştirmenizi ve devre dışı bırakmanızı sağlar, ancak bunları düzenlemenizi veya güncelleştirmenizi sağlar. | Yes | 
-Yönetilen Uygulama İşleci Rolü | Yönetilen Uygulama kaynakları üzerinde eylemleri okumanız ve gerçekleştirmenizi sağlar | Yes | 
+Yönetilen Uygulama İşleci Rolü | Yönetilen Uygulama kaynakları üzerinde eylem okuma ve gerçekleştirmenizi sağlar | Yes | 
 Yönetilen Uygulamalar Okuyucusu | Yönetilen bir uygulamada kaynakları okumanıza ve JIT erişimi isteğinde bulundurmanıza olanak sağlar. | No | 
 Yönetilen Kimlik Katkıda Bulunanı | Kullanıcı Tarafından Atanan Kimlik Oluşturma, Okuma, Güncelleştirme ve Silme | Yes | 
 Yönetilen Kimlik İşleci | Kullanıcı Tarafından Atanan Kimliği Okuma ve Atama | Yes | 
@@ -107,7 +107,7 @@ Yönetim Grubu Okuyucusu | Yönetim Grubu Okuyucusu Rolü | No |
 İzleme Ölçümleri Publisher | Ölçümleri Azure kaynaklarına göre yayımlamayı sağlar | Yes | 
 İzleme Okuyucusu | Tüm izleme verilerini (ölçümler, günlükler vb.) okuyabilir. Ayrıca bkz. Kullanmaya başlayın, izinler ve güvenlik özellikleriyle Azure İzleyici. | No | 
 Ağ Katılımcısı | Ağları yönetmenize olanak sağlar, ancak bu ağlara erişmenizi sağlar. | Yes | 
-New Relic APM Hesabı Katkıda Bulunanı | Hesap ve New Relic Application Performance Management yönetmenize olanak sağlar, ancak bu hesaplara erişesiniz. | Yes | 
+New Relic APM Hesap Katkıda Bulunanı | Hesap ve New Relic Application Performance Management yönetmenize olanak sağlar, ancak bu hesaplara erişesiniz. | Yes | 
 Okuyucu ve Veri Erişimi | Her şeyi görüntülemenizi sağlar, ancak depolama hesabını veya kaps bulunan kaynağı silmenizi veya oluşturmanızı sağlar. Ayrıca depolama hesabı anahtarlarına erişim yoluyla bir depolama hesabında yer alan tüm verilere okuma/yazma erişimi de sağlar. | Yes | 
 Redis Cache Katkıda Bulunanı | Redis önbelleklerini yönetmenize olanak sağlar, ancak bu önbelleklere erişmenizi sağlar. | Yes | 
 Kaynak İlkesi Katkıda Bulunanı (Önizleme) | (Önizleme) Kaynak ilkesi oluşturma/değiştirme, destek bileti oluşturma ve kaynakları/hiyerarşiyi okuma haklarına sahip OLAN, EA'dan doldurulmuş kullanıcılar. | Yes | 
@@ -116,9 +116,9 @@ Arama Hizmeti Katkıda Bulunanı | Arama hizmetlerini yönetmenize olanak sağla
 Güvenlik Yöneticisi | Yalnızca Güvenlik Merkezi'nde: Güvenlik ilkelerini görüntüleme, güvenlik durumları görüntüleme, güvenlik ilkelerini düzenleme, uyarıları ve önerileri görüntüleme, uyarıları ve önerileri yok sayma | Yes | 
 Güvenlik Yöneticisi (Eski) | Bu eski bir rol. Bunun yerine güvenlik yöneticisini kullanın | Yes | 
 Güvenlik Okuyucusu | Yalnızca Güvenlik Merkezi'nde: Önerileri ve uyarıları görüntüleme, güvenlik ilkelerini görüntüleme, güvenlik durumları görüntüleme ama değişiklik yapma | No | 
-Site Recovery Katkıda Bulunanı | Kasa oluşturma ve rol Site Recovery dışında bir hizmette yönetime olanak sağlar | Yes | 
-Site Recovery Operatörü | Yük devretme ve yeniden çalışma işlemleri gerçekleştirmenizi sağlar, ancak diğer Site Recovery işlemleri gerçekleştirmemenizi sağlar | Yes | 
-Site Recovery Okuyucusu | Yönetim durumunu görüntülemenizi Site Recovery diğer yönetim işlemlerini gerçekleştirmenizi sağlar | No | 
+Site Recovery Katkıda Bulunanı | Kasa oluşturma ve rol Site Recovery dışında bir hizmeti yönetmenize olanak sağlar | Yes | 
+Site Recovery Operatörü | Yük devretme ve yeniden çalışma gerçekleştirmenizi sağlar, ancak diğer yönetim Site Recovery gerçekleştirmemenizi sağlar | Yes | 
+Site Recovery Okuyucusu | Diğer yönetim işlemlerini Site Recovery durumunu görüntülemenizi sağlar | No | 
 Uzamsal bağlayıcı hesabı Katılımcısı | Hesabınızdaki uzamsal bağlantıları yönetmenizi sağlar, ancak onları silmez | Yes | 
 Uzamsal bağlayıcı hesap sahibi | Hesabınızdaki uzamsal bağlayıcıları, silme dahil olmak üzere yönetmenizi sağlar | Yes | 
 Uzamsal bağlayıcı hesap okuyucu | Hesabınızdaki uzamsal Tutturucuların özelliklerini bulmanıza ve okumanızı sağlar | No | 

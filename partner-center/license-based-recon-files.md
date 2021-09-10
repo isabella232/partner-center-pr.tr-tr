@@ -4,55 +4,55 @@ ms.topic: article
 ms.date: 05/18/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-billing
-description: Bu dosyalarda lisans tabanlı mutabakat dosyalarını okumayı İş Ortağı Merkezi. Bu makalede, lisans tabanlı mutabakat dosyanız içinde yer alan her alanın anlamı açıklanmıştır.
+description: Iş Ortağı Merkezi 'nde lisans tabanlı mutabakatı dosyalarını okumayı öğrenin. Bu makalede lisans tabanlı keşfi dosyanızdaki her alanın anlamı açıklanmaktadır.
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7bb6900ba34c99d497d8273e56e6385aa3bf55690c8729526a5e4c6a1e60ba28
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 7ebbd34e8de8db845b06b8d75bc17e88612e8477
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115694141"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123961025"
 ---
-# <a name="understand-the-fields-in-partner-center-license-based-reconciliation-files"></a>Lisans tabanlı mutabakat İş Ortağı Merkezi alanları anlama
+# <a name="understand-the-fields-in-partner-center-license-based-reconciliation-files"></a>Iş Ortağı Merkezi lisans tabanlı mutabakat dosyalarındaki alanları anlayın
 
-**Için geçerlidir:** İş Ortağı Merkezi | İş Ortağı Merkezi için Microsoft Cloud for US Government
+**Uygulama hedefi**: Iş Ortağı Merkezi | Microsoft Cloud for US Government için iş ortağı Merkezi
 
-**Uygun roller:** Genel yönetici | Kullanıcı yönetimi yönetici | Faturalama yöneticisi | Yönetici aracısı
+**Uygun roller**: genel yönetici | Kullanıcı Yönetimi Yöneticisi | Faturalandırma Yöneticisi | Yönetim Aracısı
 
-Değişikliklerinizi müşterinin siparişlerine göre mu mutabakata varmak için mutabakat **Syndication_Partner_Subscription_Number**  gelen abonelik kimliğiyle karşılaştırma İş Ortağı Merkezi.
+Değişikliklerinizin bir müşterinin siparişlerine karşı mutabakatını sağlamak için, **Syndication_Partner_Subscription_Number** mutabakat dosyasındaki, Iş Ortağı Merkezi 'NDEKI **abonelik kimliğiyle** karşılaştırın.
 
-## <a name="fields-in-license-based-reconciliation-files"></a>Lisans tabanlı mutabakat dosyalarında alanlar
+## <a name="fields-in-license-based-reconciliation-files"></a>Lisans tabanlı mutabakat dosyalarındaki alanlar
 
 | Sütun | Açıklama | Örnek değer |
 | ------ | ----------- | ------------ |
-| PartnerId | Belirli bir faturalama varlığı için GUID biçiminde benzersiz tanımlayıcı. Mutabakat için gerekli değildir. Tüm satırlarda aynı. | *8ddd03642-test-test-test-46b58d356b4e* |
+| İş ortağı kimliği | Belirli bir faturalandırma varlığı için GUID biçimindeki benzersiz tanımlayıcı. Mutabakat için gerekli değildir. Tüm satırlarda aynı. | *8ddd03642-test-test-test-46b58d356b4e* |
 | CustomerId | Müşteri için GUID biçiminde benzersiz Microsoft tanımlayıcısı. | *12ABCD34-001A-BCD2-987C-3210ABCD5678* |
-| CustomerName | Müşterinin kuruluş adı ( İş Ortağı Merkezi. *Faturayı sistem bilgileriyle mutabık kılınan çok önemli bir alandır.* | *Test Müşterisi A* |
-| MpnId | CSP iş ortağının MPN tanımlayıcısı. İş [ortağına göre öğeleştirmeye bakın.](use-the-reconciliation-files.md#itemize-reconciliation-files-by-partner) | *4390934* |
-| ResellerMpnId | Abonelik için kayıt kurumsal bayinin MPN tanımlayıcısı.  |
-| OrderId | Microsoft faturalama platformunda bir siparişin benzersiz tanımlayıcısı. Destekle iletişim kurmak için siparişi belirlemek yararlı olabilir. Mutabakat için kullanılamaz. | *566890604832738111* |
-| SubscriptionId | Microsoft faturalama platformunda bir aboneliğin benzersiz tanımlayıcısı. Destekle iletişim kurmak için aboneliği tanımlamak yararlı olabilir. Mutabakat için kullanılamaz. *Bu değer, İş Ortağı Yönetici **Konsolu'nın Abonelik** Kimliği ile aynı değildir. Bunun yerine **bkz. SyndicationPartnerSubscriptionNumber.*** | *usCBMgAAAAAAIA* |
-| SyndicationPartnerSubscriptionNumber | Abonelikler için benzersiz tanımlayıcı. Bir müşterinin aynı plan için birden çok aboneliği olabilir. Bu sütun mutabakat dosyası analizi için önemlidir. Bu alan, İş Ortağı **Yönetici Konsolu'nu** Abonelik Kimliği ile eşler. | *fb977ab5-test-test-test-24c8d9591708* |
-| OfferId | Benzersiz teklif tanımlayıcısı. Fiyat listesinde tanımlandığı gibi standart teklif tanımlayıcısı. *Bu değer fiyat **listesinden Teklif** Kimliği ile eşleşmez. Bunun **yerine durableOfferID'ye** bakın.* | *FE616D64-E9A8-40EF-843F-152E9BBEF3D1* |
-| DurableOfferId | Fiyat listesinde tanımlandığı gibi benzersiz dayanıklı teklif tanımlayıcısı. *Bu değer fiyat **listesinden Teklif** Kimliği ile eş değerdir.* | *1017D7F3-6D7F-4BFA-BDD8-79BC8F104E0C* |
-| OfferName | Fiyat listesinde tanımlandığı gibi müşteri tarafından satın alınan hizmet teklifi adı. | *Microsoft Office 365 (Plan E3)* |
-| SubscriptionStartDate | UTC olarak abonelik başlangıç tarihi. Saat her zaman günün başlangıcıdır (00:00). Bu alan, siparişin gönderildikten sonra olduğu güne ayarlanır. **SubscriptionEndDate** ile birlikte, müşterinin hala aboneliğin ilk yılında olup olmadığını veya aboneliğin bir sonraki yıl için yenilenmesi olup olmadığını belirlemek için kullanılır. | *2/1/2019 0:00* |
-| SubscriptionEndDate | UTC olarak abonelik bitiş tarihi. Saat her zaman günün başlangıcıdır (00:00). İş *ortağının faturalama  tarihiyle uyumlu olacak şekilde başlangıç* tarihini takip etmek için 12 ay artı x gün veya yenileme *tarihinden 12 ay sonra.* Yenilemede fiyatlar geçerli fiyat listesine güncelleştirilir. Otomatik yenileme öncesinde müşteri iletişimi gerekebilir. | *2/1/2019 0:00* |
-| ChargeStartDate | Ücretlerin başlangıç günü. Saat her zaman günün başlangıcıdır (00:00). Müşteri lisans numaralarını değiştirirken *günlük ücretleri (provoka* ücretleri) hesaplamak için kullanılır. | *2/1/2019 0:00* |
-| ChargeEndDate | Ücretlerin bitiş günü. Saat her zaman günün sonu, 23:59'dır. Müşteri lisans numaralarını değiştirirken *günlük ücretleri (provoka* ücretleri) hesaplamak için kullanılır. | *2/28/2019 23:59* |
-| ChargeType | Ücret [veya ayarlama](recon-file-charge-types.md) türü. | Bkz. [ücret türleri.](recon-file-charge-types.md) |
-| UnitPrice | Satın alma zamanında fiyat listesinde yayımlanan lisans başına fiyat. Bunun mutabakat sırasında faturalama sisteminize depolanmış bilgilerle eş olduğundan emin olun. | *6.82* |
-| Miktar | Lisans sayısı. Bunun mutabakat sırasında faturalama sisteminize depolanmış bilgilerle eş olduğundan emin olun. | *2* |
-| Miktar | Miktar için toplam fiyat. Tutar hesaplaması ile müşterileriniz için bu değeri hesaplama yönteminizin eş olup olamayrını kontrol etmek için kullanılır. | *13.32* |
-| TotalOtherDiscount | Bu ücretlere uygulanan indirim tutarı. Yetkinliğe veya MAPS'e dahil edilen ürün lisansları veya teşvik için uygun yeni abonelikler de bu sütunda indirim tutarı içerir. | *2.32* |
-| Ara toplam | Vergiden önceki toplam. İndirim durumunda alt toplamının beklenen toplamla eş olup olamay olduğunu denetler. | *11* |
-| Vergi | Vergi tutarı ücreti. Marketin vergi kurallarına ve belirli koşullarına göre. | *0* |
-| TotalForCustomer | Vergiden sonra toplam. Faturada vergi ödemesi olup olamaysanız denetler. | *11* |
-| Para Birimi | Para birimi türü. Her faturalama varlığının yalnızca bir para birimi vardır. İlk faturanız ile eş olup olamay olduğunu kontrol edin. Ana faturalama platformu güncelleştirmelerinden sonra yeniden kontrol edin. | *EUR* |
-| DomainName | Müşterinin etki alanı adı. Bu alan, ikinci faturalama döngüsüne kadar boş görünebilir. *Bu alanı müşteri için benzersiz bir tanımlayıcı olarak kullanma. Müşteri/iş ortağı, özel etki alanını veya varsayılan etki alanını Office 365 güncelleştirebilirsiniz.* | *example.onmicrosoft.com* |
-| SubscriptionName | Abonelik takma adı. Takma ad belirtilmezse, İş Ortağı Merkezi **Adını kullanır.** | *PROJECT ONLINE* |
-| SubscriptionDescription | Fiyat listesinde tanımlandığı gibi müşteri tarafından satın alınan hizmet teklifi adı. (Bu, OfferName ile aynı **bir alandır.)** | *PROJECT CLIENT OLMADAN PROJECT ONLINE PREMIUM* |
-| BillingCycleType | Tek kullanımlık faturalama sıklığı.| *Aylık* |
+| CustomerName | Iş Ortağı Merkezi 'nde raporlanan müşterinin kuruluş adı. *Fatura sistem bilgileriniz ile mutabık kılma için çok önemli alan.* | *Test müşterisi A* |
+| Mpnıd | CSP iş ortağının MPN tanımlayıcısı. Bkz. [iş ortağı tarafından nasıl yapılır](use-the-reconciliation-files.md#itemize-reconciliation-files-by-partner). | *4390934* |
+| Resellermpnıd | Abonelik için kayıt satıcısının MPN tanımlayıcısı.  |
+| OrderId | Microsoft faturalandırma platformunda bir sipariş için benzersiz tanımlayıcı. Destek ile iletişim kurulurken sırayı belirlemek yararlı olabilir. Mutabakat için kullanılmıyor. | *566890604832738111* |
+| SubscriptionId | Microsoft faturalandırma platformunda bir abonelik için benzersiz tanımlayıcı. Destek ile iletişim kurulurken aboneliği belirlemek yararlı olabilir. Mutabakat için kullanılmıyor. *Bu değer, Iş ortağı yönetim konsolundaki **ABONELIK kimliğiyle** aynı değildir. Lütfen bunun yerine **SyndicationPartnerSubscriptionNumber** bakın.* | *usCBMgAAAAAAAAIA* |
+| SyndicationPartnerSubscriptionNumber | Abonelikler için benzersiz tanımlayıcı. Müşterinin aynı plan için birden fazla aboneliği olabilir. Bu sütun, mutabakat Dosya Analizi için önemlidir. Bu alan, Iş ortağı yönetim konsolundaki **ABONELIK kimliğiyle** eşlenir. | *fb977ab5-test-test-test-24c8d9591708* |
+| OfferId | Benzersiz teklif tanımlayıcısı. Fiyat listesinde tanımlandığı gibi standart teklif tanımlayıcısı. *Bu değer, Fiyat listesindeki **TEKLIF kimliğiyle** eşleşmez. Bunun yerine **Durableofferıd** bölümüne bakın.* | *FE616D64-E9A8-40EF-843F-152E9BBEF3D1* |
+| Durableofferıd | Fiyat listesinde tanımlandığı şekilde benzersiz dayanıklı teklif tanımlayıcısı. *Bu değer, Fiyat listesindeki **TEKLIF kimliğiyle** eşleşir.* | *1017D7F3-6D7F-4BFA-BDD8-79BC8F104E0C* |
+| OfferName | Fiyat listesinde tanımlandığı şekilde, müşteri tarafından satın alınan hizmet sunumunun adı. | *Microsoft Office 365 (Plan E3)* |
+| SubscriptionStartDate | UTC olarak abonelik başlangıç tarihi. Saat her zaman günün başlangıcıdır (00:00). Bu alan, Sipariş gönderildikten sonraki güne ayarlanır. Şunları öğrenmek için **SubscriptionEndDate** ile kullanılır: müşteri aboneliğin ilk yılında hala içindeyse veya abonelik aşağıdaki yıl için yenilenmişse. | *2/1/2019 0:00* |
+| SubscriptionEndDate | UTC olarak abonelik bitiş tarihi. Saat her zaman günün başlangıcıdır (00:00). *Başlangıç tarihinden sonraki 12 ay artı **x** gün sonra* , iş ortağının faturalandırma tarihi veya *yenileme tarihinden itibaren 12 ay* ile hizalanacaktır. Yenileme sırasında fiyatlar geçerli fiyat listesine güncelleştirilir. Müşteri iletişimi otomatik yenilemeyle önceden gerekli olabilir. | *2/1/2019 0:00* |
+| ChargeStartDate | Ücretlerin başlangıç günü. Saat her zaman günün başlangıcıdır (00:00). Bir müşteri Lisans numaralarını değiştirdiğinde günlük ücretleri (*Pro rampaücreti* ) hesaplamak için kullanılır. | *2/1/2019 0:00* |
+| ChargeEndDate | Ücretlerin bitiş günü. Saat daima günün sonu, 23:59. Bir müşteri Lisans numaralarını değiştirdiğinde günlük ücretleri (*Pro rampaücreti* ) hesaplamak için kullanılır. | *2/28/2019 23:59* |
+| ChargeType | Ücret veya ayarlamanın [türü](recon-file-charge-types.md) . | Bkz. [ücretlendirme türleri](recon-file-charge-types.md). |
+| UnitPrice | Satın alma sırasında fiyat listesinde yayınlanan lisans başına fiyat. Bunun, mutabakat sırasında faturalandırma sisteminizde depolanan bilgilerle eşleştiğinden emin olun. | *6,82* |
+| Miktar | Lisans sayısı. Bunun, mutabakat sırasında faturalandırma sisteminizde depolanan bilgilerle eşleştiğinden emin olun. | *2* |
+| Miktar | Miktar için fiyat toplamı. Tutar hesaplamasının müşterileriniz için bu değeri nasıl hesapladığını denetlemek için kullanılır. | *13,32* |
+| TotalOtherDiscount | Bu ücretlere uygulanan indirim miktarı. Bir uzmanlığa veya MAPS 'e dahil edilen ürün lisansları veya bir teşvik için uygun yeni abonelikler, bu sütunda bir indirim tutarı da içerecektir. | *2,32* |
+| Ara toplam | Vergi öncesi toplam. Bir indirimle, ara toplamın beklenen toplamyla eşleşip eşleşmediğini denetler. | *11* |
+| Vergi | Vergi tutarı ücreti. Pazar vergi kurallarına ve belirli koşullara göre. | *0* |
+| TotalForCustomer | Vergi sonrası toplam. Faturada ücretlendirildiğiniz bir vergi olup olmadığını denetler. | *11* |
+| Para Birimi | Para birimi türü. Her faturalandırma varlığının yalnızca bir para birimi vardır. İlk faturanızdan eşleşip eşleşmediğini denetleyin. Ana faturalandırma platformu güncelleştirmelerinden sonra yeniden kontrol edin. | *EUR* |
+| DomainName | Müşterinin etki alanı adı. Bu alan, ikinci faturalandırma döngüsüne kadar boş görünebilir. *Bu alanı müşteri için benzersiz bir tanımlayıcı olarak kullanmayın. müşteri/iş ortağı, Office 365 portalı aracılığıyla gösterim veya varsayılan etki alanını güncelleştirebilir.* | *example.onmicrosoft.com* |
+| SubscriptionName | Abonelik takma adı. Takma ad belirtilmemişse, Iş Ortağı Merkezi, **Offername** kullanır. | *PROJECT ONLINE* |
+| Abonelik açıklaması | Fiyat listesinde tanımlandığı şekilde, müşteri tarafından satın alınan hizmet sunumunun adı. (Bu, **Offername** ile aynı alandır.) | *PROJECT CLIENT OLMADAN PROJECT ONLINE PREMIUM* |
+| BillingCycleType | Bir kerelik faturalandırma sıklığı.| *Aylık* |

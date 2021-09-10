@@ -8,12 +8,12 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 08/10/2020
-ms.openlocfilehash: 01753312956b57575478ae587ed8286003b5a154a76798665adc5db4a2baeb6c
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 67c09a71b0e5e6774a6306a6af1b0eee6705083e
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115695790"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123960435"
 ---
 # <a name="use-these-resources-to-help-you-get-started-with-incentives"></a>Teşvikleri kullanmaya başlamanıza yardımcı olması için bu kaynakları kullanın
 

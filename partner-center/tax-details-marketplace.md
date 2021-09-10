@@ -7,12 +7,12 @@ ms.subservice: partnercenter-marketplace-publisher
 author: jasongroce
 ms.author: davjan
 ms.date: 06/29/2021
-ms.openlocfilehash: c534da518ff6663808d5399c268056bb9c33d2fc39fd396bf9154ae0ea83243a
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 6f1d0805fab0488739cc35849c2fd5a64db7b35b
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115691804"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123960525"
 ---
 # <a name="tax-details-for-commercial-marketplace-publishers"></a>Ticari market yayıncıları için vergi bilgileri
 
@@ -60,11 +60,11 @@ microsoft, microsoft 'un eylemlerin microsoft tarafından yönetilen ülkelerde 
 | Bosna-Hersek   | Gürcistan                           | Martinique            | Uruguay               |
 | Botsvana                 | Cebelitarık                         | Moritanya            | ABD Virjin Adaları     |
 | Bouvet Adası            | Grönland                         | Mauritius             | Özbekistan            |
-| Britanya Virjin Adaları   | Grenada                           | Ma ote                | Vanuatu               |
+| Britanya Virjin Adaları   | Grenada                           | Ma Ote                | Vanuatu               |
 | Brunei                   | Guadeloupe                        | Mikronezya            | Vatikan          |
 | Bulgaristan                 | Guam                              | Moldova               | Venezuela             |
 | Burkina Faso             | Guatemala                         | Moğolistan              | Vietnam               |
-| Burundi                  | Guernsey                          | Karadağ            | Wallis ve Futuna     |
+| Burundi                  | Guernsey                          | Karadağ            | Wallis veUçsuzuna     |
 | Cabo Verde               | Gine                            | Montserrat            | Yemen                 |
 | Kamboçya                 | Gine-Bissau                     | Fas               | Zambiya                |
 | Kamerun                 | Guyana                            | Mozambik            | Zimbabve              |
@@ -77,7 +77,7 @@ microsoft, microsoft 'un eylemlerin microsoft tarafından yönetilen ülkelerde 
 
 ### <a name="microsoft-managed-countries"></a>Microsoft tarafından yönetilen ülkeler
 
-| Ülkeler                | Ülkeler (devamı)             | Ülkeler (devamı) | Ülkeler (devamı)               |
+| Ülkeler                | Ülkeler (devam)             | Ülkeler (devam) | Ülkeler (devam)               |
 |--------------------------|-----------------------------------|-----------------------|-------------------------------------|
 | Ermenistan                  | Finlandiya                           | Lüksemburg            | Singapur                           |
 | Avusturya                  | Fransa                            | Malezya              | Slovakya                            |

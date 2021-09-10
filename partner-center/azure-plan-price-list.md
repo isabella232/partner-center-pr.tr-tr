@@ -10,11 +10,11 @@ ms.author: brserbus
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 73b47b62ce996156c7e780450bada1bdbec9f4b0
-ms.sourcegitcommit: 09d2c10491244775e656b48fce35b5648262ce59
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/03/2021
-ms.locfileid: "123457621"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123959955"
 ---
 # <a name="price-list-for-the-new-commerce-experience-in-csp-for-azure"></a>Azure için CSP'de yeni ticari deneyim için fiyat listesi
 
@@ -103,9 +103,9 @@ Bu örnekte 101 birim kullanılırsa ücret 100,80 olur. İlk 100 birim her biri
 
 ## <a name="pricing-api-for-azure-plan"></a>Azure planı için fiyatlandırma API'si
 
-Program aracılığıyla tüketim ve [rezervasyonlar](/partner/develop/pricing) için Azure planı fiyatlandırmasını almak üzere fiyatlandırma API'sini kullanabilirsiniz. Ayrıca döviz kurlarını da alırsiniz.
+Program aracılığıyla tüketim ve [rezervasyonlar](/partner/develop/pricing) için Azure planı fiyatlandırmasını almak üzere fiyatlandırma API'sini kullanabilirsiniz. Ayrıca döviz kurlarını da alın.
 
-Fiyatlandırma API'si, diğer api'lerden farklı İş Ortağı Merkezi uç noktadadır. Fiyatlandırma bilgileri, Azure planı kaynakları için ABD doları olarak ölçüm fiyatlandırması ve Azure planı abonelikleri için uygulanan rezervasyon fiyatlandırması içerir.
+Fiyatlandırma API'si diğer api'lerden farklı bir uç İş Ortağı Merkezi sahiptir. Fiyatlandırma bilgileri, Azure planı kaynakları için ABD doları olarak ölçüm fiyatlandırması ve Azure planı abonelikleri için uygulanan rezervasyon fiyatlandırması içerir.
 
 Azure planı fiyatlandırması yalnızca ABD doları olduğundan bu API iş ortaklarının aylık döviz kurlarını almalarına da olanak sağlar. API'leri kullanarak geçerli aya veya önceki aya yönelik hem fiyatlandırma hem de döviz kurlarını almak için kullanabilirsiniz.
 

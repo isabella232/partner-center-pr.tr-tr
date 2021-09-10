@@ -1,50 +1,50 @@
 ---
-title: Azure planı-Kullandıkça Öde tarifelerine göre Azure satın alın
+title: Azure planı - Azure'a ücretsiz ödeme fiyatlarıyla satın alma
 ms.topic: article
 ms.date: 07/10/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-pricing
-description: Müşteriler için Kullandıkça Öde tarifesine Azure hizmetleri satın almak üzere Azure plan ticari deneyimi hakkında bilgi edinin. Yeni güvenlik gereksinimleri de hakkında bilgi edinin.
+description: Azure hizmetlerini müşteriler için öde fiyatlarıyla satın almak için Azure plan ticari deneyimi hakkında bilgi edinin. Yeni güvenlik gereksinimleri hakkında da bilgi edinebilirsiniz.
 author: rbars
 ms.author: rbars
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 53ac08c17b492a0e1b3bc3d3d72ec6ca15628aea3519c8bb6092926974905f2f
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: c7653a885c6ae57194e3bcc519ce6fb645fc457a
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115691217"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123959904"
 ---
-# <a name="introduction-azure-plan-lets-partners-buy-azure-at-pay-as-you-go-rates-for-customers"></a>Giriş: Azure planı, iş ortaklarının müşteriler için Kullandıkça Öde tarifesine Azure satın almasını sağlar
+# <a name="introduction-azure-plan-lets-partners-buy-azure-at-pay-as-you-go-rates-for-customers"></a>Giriş: Azure planı, iş ortaklarının müşteriler için Azure'a ücretsiz olarak satın almalarına olanak sağlar
 
-**Uygulama hedefi**: Iş Ortağı Merkezi
+**Için geçerlidir:** İş Ortağı Merkezi
 
-**Uygun roller**: yönetici Aracısı | Satış Aracısı | Genel yönetici
+**Uygun roller:** Yönetici aracısı | Satış aracısı | Genel yönetici
 
-Microsoft, Azure planı olan Iş Ortağı Merkezi 'nde yeni bir ticari deneyim sunmuştur.  Bu yeni ticaret deneyimiyle, iş ortakları, Microsoft Müşteri anlaşmasındaki müşterilere yönelik Kullandıkça Öde tarifelerine göre Azure hizmetlerine erişim kazanacaktır.
+Microsoft, Azure planı olan İş Ortağı Merkezi yeni bir ticaret deneyimi ortaya verdi.  Bu yeni ticaret deneyimiyle iş ortakları, azure hizmetleri için uygun fiyat kapsamındaki müşteriler için azure Microsoft Müşteri Sözleşmesi.
 
-Bu plan, satın alma deneyimini basitleştirir; bir Azure planında birden çok Azure aboneliğine sahip olabilirsiniz. Artık Azure aboneliği başına ayrı bir sıra göndermeniz gerekmez. Azure için sunulan bu yeni ticaret deneyiminde, CSP iş ortaklarının yayımlanan fiyatlarla Azure 'u sunmasına olanak tanıyan tek bir küresel fiyatlandırma ilkesine göre hizalandık.
+Bu plan satın alma deneyimini basitleştiriyor. Bir Azure planında birden çok Azure aboneliğiniz olabilir. Artık Azure aboneliği başına ayrı bir sipariş göndermeniz gerekmeyecek. Azure için bu yeni ticaret deneyiminde, CSP iş ortaklarının Yayımlanan fiyatlarda Azure'a teklif sunmalarına olanak sağlayan tek bir küresel fiyatlandırma ilkesine uygun hareket ettik.
 
-Mevcut CSP Azure tekliflerinden müşterilerinizi, Iş Ortağı Merkezi 'nin içindeki CSP programındaki yeni ticaret deneyiminde Azure planı kapsamındaki Azure Hizmetleri ' ne geçirin. Bu geçiş yalnızca şunları gerektirir:
+CsP programı içindeki yeni ticaret deneyiminde, mevcut CSP Azure tekliflerinden Azure planı altındaki Azure hizmetlerinize İş Ortağı Merkezi. Bu geçiş için yalnızca aşağıdakiler gerekir:
 
-- İş ortağı ve son müşteri, Iş Ortağı Merkezi aracılığıyla kurulu bir satıcı ilişkisine sahip olmalıdır ve müşterinin Microsoft Müşteri anlaşmasını imzalamış olması gerekir.
+- İş ortağı ve son müşteri, İş Ortağı Merkezi aracılığıyla kurumsal bayi ilişkisine sahip olmalı Microsoft Müşteri Sözleşmesi.
 
 >[!Note]
->1 Şubat 2020 ' den itibaren, mevcut Microsoft Bulut sözleşmesi CSP programından kaldırılır. bu süre içinde, yeni Microsoft müşteri sözleşmesi için müşteri kabulünün iş ortağı onayı (kanıtlama), Microsoft 365, Dynamics 365 ve mevcut Azure gibi diğer tüm teklifler için gereklidir. CSP 'deki iş ortakları, Microsoft Müşteri sözleşmesinin kanıtı olmadan müşteri için yeni bir sipariş oluşturamayacak. Tüm ayrıntılar için [Microsoft Müşteri sözleşmesinin müşteri kabulünü Onayla](confirm-customer-agreement.md)konusunu okuyun.
+>1 Şubat 2020'den itibaren mevcut Microsoft Bulut Anlaşması CSP programından kaldırılacaktır. O zaman, Microsoft 365, Dynamics 365 ve mevcut Azure dahil olmak üzere yeni Microsoft Müşteri Sözleşmesi için iş ortağı onayı (onay) gerekli olacak. CSP'de iş ortakları, iş ortaklarının müşteri için yeni bir siparişte Microsoft Müşteri Sözleşmesi. Tüm ayrıntılar için, müşteri [kabulü onaylayın makalesinde Microsoft Müşteri Sözleşmesi.](confirm-customer-agreement.md)
 
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
 |**Bunu yapmak için**   |**Bunu okuyun**   |
 |------------------|---------------------|
-|Azure planına geçmeyi Başlat|[Azure planına taşıma-kullanmaya başlama](azure-plan-get-started.md)
-|Müşterilerinizin PAYG 'den Azure planına geçişini yapın|[Müşterinizi Azure planına geçirin](azure-plan-transition.md)|
-|Müşterileriniz için Azure planı satın alın|[Azure planı satın alma](purchase-azure-plan.md)|
-|24 X 7 bulut-operasyon yönetimi sağlayan faturalandırma ortakları, bu iş için **yönetilen hizmetler için bir Iş ortağı tarafından kazanılan kredi** için uygun hale gelir.|[Iş ortağı kazanılmış kredi-genel bakış](partner-earned-credit.md) ve [ortağın kazanıldığı kredi nasıl belirlenir-Ayrıntılar](partner-earned-credit-explanation.md)|
-|Azure teklif türlerinin yan yana karşılaştırmasını görün|[Azure tekliflerini karşılaştırma](compare-azure-offers.md)|
-|Azure planı kapsamındaki müşterilerin aboneliklerini ve kaynaklarını yönetme|[Azure planı kapsamındaki abonelikleri ve kaynakları yönetme](azure-plan-manage.md)|
-|Azure plan fiyat listesini okumayı öğrenin   |[Azure planı fiyat listesi açıklanıyor](azure-plan-price-list.md)|
-|Azure planı nerede kullanılabilir?|[Azure planının kullanılabildiği ülkelerin/bölgelerin tam listesi](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3QN0x)
-|Ortağın kazanılmış kredisi nasıl hesaplanacağını görmek için Iş Ortağı Merkezi Pano fiyat listenizde oturum açmanız gerekir|[İş Ortağı Merkezi panosu](https://partner.microsoft.com/dashboard/home)|
-|Azure planı altında faturalandırma|[Azure Faturalandırma](azure-plan-billing.md)|
+|Azure planına taşımaya başlama|[Azure planına taşıma - çalışmaya başlama](azure-plan-get-started.md)
+|Müşterilerinize PAYG'den Azure planına geçiş|[Müşterinizi Azure planına geçirin](azure-plan-transition.md)|
+|Müşterileriniz için Azure planını satın alma|[Azure planı satın alma](purchase-azure-plan.md)|
+|7/24 bulut operasyonları yönetimi sağlayan faturalama iş ortakları, bu iş için yönetilen hizmetler için İş ortağı tarafından kazanılan **kredi** için uygun hale gelir.|[İş ortağı tarafından kazanılan kredi - genel](partner-earned-credit.md) bakış ve İş ortağı tarafından kazanılan kredi nasıl belirlenir ? [ayrıntılar](partner-earned-credit-explanation.md)|
+|Bkz. Azure teklifi türlerinin yan yana karşılaştırması|[Azure tekliflerini karşılaştırma](compare-azure-offers.md)|
+|Azure planı kapsamında müşterilerin aboneliklerini ve kaynaklarını yönetme|[Azure planı kapsamındaki abonelikleri ve kaynakları yönetme](azure-plan-manage.md)|
+|Azure planı fiyat listesini okumayı öğrenin   |[Azure planı fiyat listesi açıklandı](azure-plan-price-list.md)|
+|Azure planı nerede kullanılabilir?|[Azure planının kullanılabilir olduğu ülkelerin/bölgelerin tam listesi](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3QN0x)
+|İş ortağı tarafından kazanılan kredinin nasıl hesaplanmış olduğunu görmek için pano fiyat İş Ortağı Merkezi oturum açmanız gerekir|[İş Ortağı Merkezi panosu](https://partner.microsoft.com/dashboard/home)|
+|Azure planı kapsamında faturalama|[Azure faturalaması](azure-plan-billing.md)|

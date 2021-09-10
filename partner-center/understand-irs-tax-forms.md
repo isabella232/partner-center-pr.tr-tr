@@ -8,12 +8,12 @@ ms.service: partner-dashboard
 ms.subservice: partnercenter-payouts
 ms.localizationpriority: medium
 ms.date: 09/30/2020
-ms.openlocfilehash: 2c693fb9f4d134f3cc7e4deee0afb5aaf8affc01e20b6d407d93bcddd5f3f67a
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: cc32ed034f14603c92086d03dd9d43ee7c79b66e
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115695892"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123961541"
 ---
 # <a name="understand-irs-tax-forms-issued-by-microsoft"></a>Microsoft tarafından verilen IRS vergi formlarını anlama
 
@@ -75,10 +75,10 @@ Vergi formları şu adreslerden size gönderilecektir:
 | **W8 formunu tamamladığımda, ödemem neden ücretlendirildim?** | Vergiler, aşağıdakilerden biri olursa, şu durumlarda stopaj uygulanır:<br/><br/>1. w8 'in vergi treatıon bölümünü doğru bir şekilde tamamlamadınız veya <br/>2. Birleşik Devletler bir vergi treaine sahip olmayan bir ülkede yerleşik olursunuz.<br/><br/>Güncelleştirilmiş bir w8 formu göndermek için herhangi bir zamanda Iş Ortağı Merkezi ' ni ziyaret edebilirsiniz.<br/><br/> **Note:** Tüm gelir vergi stopaja tabi değildir. | 
 | **Geçerli anlaşma bilgileriyle güncelleştirilmiş bir w8 formu gönderdim. Microsoft, kesilen vergiyi iade edebilir mi?** | Vergi stopajdıktan sonra iade edilemez. Bu vergiler için yerel kredi talep edebilir veya ıRS 'den bir para iadesi arayabilir olup olmayacağını tartışmak için vergi danışmanlarınız ile iletişim kurun. | 
 | **1042-S formunda hangi satışlar raporlanır?** | Yalnızca vergi **stopajı olarak sınıflandırılan Birleşik Devletler** alıcılara yapılan satışlar raporlanabilir.  Diğer tüm satışlar raporlanabilir olarak kabul edilemez. | 
-| **Neden aynı zarfta 1042-S formunun üç kopyasını aldım?** | IRS düzenlemeleri, formun üç kopyasının sağlanmalıdır:<br/><br/>- Alıcının kayıtları için bir tane<br/>- Federal vergi iadesini Birleşik Devletler (varsa) için bir dosyalama<br/>- Bir eyalet Birleşik Devletler (varsa) ile dosyalama için |
+| **Neden aynı zarfta 1042-S formunun üç kopyasını aldım?** | IRS düzenlemeleri, formun üç kopyasının sağlanmalıdır:<br/><br/>- Alıcının kayıtları için bir tane<br/>- Federal vergi Birleşik Devletler (varsa) ile dosyalama için bir tane<br/>- Bir eyalet vergi Birleşik Devletler (varsa) ile dosyalama için |
 
 > [!NOTE]
-> **IRS** vergi formlarına ilişkin ek sorularınız veya endişeleriniz varsa, IRS panosunda [Yardım](https://partner.microsoft.com/dashboard/support/) ve destek İş Ortağı Merkezi gidin. Microsoft, belirli vergi koşullarınız ile ilgili soruları yanıtamaz; Bu sorular için lütfen vergi uzmanından öneriler alın.
+> IRS vergi formlarına ilişkin ek sorularınız veya [](https://partner.microsoft.com/dashboard/support/) **endişeleriniz varsa, IRS** panosunda Yardım ve destek İş Ortağı Merkezi gidin. Microsoft, belirli vergi koşullarınız ile ilgili soruları yanıtamaz; Bu sorular için lütfen vergi uzmanından öneriler alın.
 
 ## <a name="next-steps"></a>Sonraki adımlar
 

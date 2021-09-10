@@ -8,12 +8,12 @@ ms.subservice: partnercenter-benefits
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: d3b53d1fefa677b0624c39beb0437156a70302cebf60dacbdea862327022a497
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: b7fe4ae33160a4f6b8da816d2e18d8695c656de4
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115694634"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123961434"
 ---
 # <a name="request-a-refund-for-an-mpn-benefit"></a>MPN avantajı için para iadesi isteği
 
@@ -31,7 +31,7 @@ Satın aldığınız MPN avantajı (Eylem Paketi, Gümüş düzeyi veya Altın d
 Vergi muafiyeti iş ortakları için vergi iadeleri bir yıl boyunca kullanılabilir.
 
 >[!NOTE]
->Bir Silver üyelik teklifiniz varsa ve Altın üyelik teklifine yükseltmek için %25 Altın üyelik indirimi kullandıysanız, Gümüş para iadesi için uygun olmazsınız (30 gün içinde Silver üyeliği için ödeme yaptınız ve avantajları yararlanmadınız bile).
+>Bir Silver üyelik teklifiniz varsa ve Altın üyelik teklifine yükseltmek için %25 Altın üyelik indirimi kullandıysanız, Silver para iadesi için uygun olmazsınız (30 gün içinde Silver üyeliği için ödeme yaptınız ve avantajları yararlanmadınız bile).
 
 ## <a name="next-steps"></a>Sonraki adımlar
 

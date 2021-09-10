@@ -1,26 +1,26 @@
 ---
-title: Azure planı altındaki Azure aboneliğini başka bir CSP iş ortağına aktarma
+title: Azure planı kapsamındaki Azure aboneliğini başka bir CSP iş ortağına aktarma
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-pricing
-description: Müşterinin Azure abonelikleriyle Bulut Çözümü Sağlayıcısı bir Azure planı kapsamındaki iş ortağını değiştirme hakkında bilgi edinin.
+description: Müşterinin Azure abonelikleriyle ilişkili Bulut Çözümü Sağlayıcısı program iş ortağını azure planı kapsamında değiştirme hakkında bilgi edinin.
 ms.custom: SEOMAY.20
 ms.localizationpriority: medium
 author: mckennaville
 ms.author: mcville
 ms.date: 07/21/2021
-ms.openlocfilehash: 3b1f2213537a0a62b60d14b8209ba5c8a71a2a5f702476cefdb7845c7c6e5438
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 14f03a8eb899f7224a38b0f998edd72077b34b3b
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115695524"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123960994"
 ---
 # <a name="transfer-a-customers-azure-subscriptions-to-a-different-csp-under-an-azure-plan"></a>Müşterinin Azure aboneliklerini farklı bir CSP'ye aktarma (Azure planı kapsamında)
 
 **Uygun roller:** Hesap yöneticisi | Satış aracısı | Faturalama aracısı
 
-Bu makalede müşterilerin Azure planı kapsamında azure aboneliklerini Bulut Çözümü Sağlayıcısı (CSP) programından diğerine nasıl değiştireleri açıklanmıştır.
+Bu makalede müşterilerin Azure planı kapsamında azure aboneliklerini Bulut Çözümü Sağlayıcısı (CSP) programından diğerine nasıl değiştir oldukları açıklanmıştır.
 
 Farklı bir iş ortağından müşterinin Azure aboneliklerini değiştirmek için aşağıdaki adımları izleyin. Geçerli iş ortağı, gelecekteki iş ortağı ve müşterinin tamamlanacak adımları var.
 
@@ -42,7 +42,7 @@ Geçiş aracının kullanılamadan önce müşterinin hem geçerli hem de gelece
     - Özel indirimler veya bölgesel kısıtlamalar yoktur.
     - Ürünler abonelik tabanlı değil.
     - Gelecekteki iş ortağı, yayımcının ürünün dağıtımı için izin verme listesine sahip olduğundan emin olmak için yayımcıyla birlikte çalışmalı.
-    - Bu koşullardan herhangi biri karşı koşulların karşı Azure Market iptal edilmesi gerekir. Ardından Azure abonelikleri aktarıldı ve Azure Market yeni iş ortağıyla birlikte satın alınmaktadır.
+    - Bu koşullardan herhangi biri karşılanamasa, Azure Market iptal edilmesi gerekir. Ardından Azure abonelikleri aktarıldı ve Azure Market yeni iş ortağıyla birlikte satın alınmaktadır.
 
 ## <a name="prerequisites"></a>Önkoşullar
 
@@ -57,7 +57,7 @@ Geçiş aracının kullanılamadan önce müşterinin hem geçerli hem de gelece
 
 ## <a name="customer-tasks"></a>Müşteri görevleri
 
-Azure aboneliklerini aktarması için müşterinin geçerli iş ortağıyla iletişime geçerek süreci başlatması gerekir. Gelecekteki iş ortağının müşteri adına aktarım isteği formunu tamamlay oluşturması için müşterinin geçerli iş ortağının şirket adını ve Microsoft kimliğini toplaması gerekir.
+Azure aboneliklerini aktarması için müşterinin geçerli iş ortağıyla iletişim kurarak işlemi başlatması gerekir. Gelecekteki iş ortağının müşteri adına aktarım isteği formunu tamamlaması için müşterinin geçerli iş ortağının şirket adını ve Microsoft kimliğini toplaması gerekir.
 
 Müşterilerin ayrıca geçerli iş ortağından aktarma yapmak istediğiniz abonelikleri tanımlaması gerekir. Office 365, Enterprise Mobility Suite veya Microsoft Dynamics CRM iş Microsoft Dynamics CRM değiştiremezsiniz.
 
@@ -68,7 +68,7 @@ Müşterilerin ayrıca geçerli iş ortağından aktarma yapmak istediğiniz abo
 
 Aboneliğin gelecekteki iş ortağının abonelik aktarımı isteği için İş Ortağı Merkezi aktarım isteği formunu tamamlaması gerekir:
 
-1.  Veri aktarımının sol İş Ortağı Merkezi **Müşteriler'i** seçin ve ardından aktarım isteğini tamamlamak istediğiniz müşteriyi seçin.
+1.  Sol bölmede İş Ortağı Merkezi müşteriler'i seçin ve ardından aktarım isteğini tamamlamak istediğiniz müşteriyi seçin.
 2.  Müşteriye özgü menüde Abonelikler'i **seçin.**
 3.  Aktarım istekleri **sekmesinde Yeni istek** **ekle'yi seçin:**
 
@@ -103,7 +103,7 @@ Geçerli iş ortağının abonelik aktarımını tamamlamak için İş Ortağı 
 
      veya
 
-    - Veri bölmesinin sol İş Ortağı Merkezi Müşteriler'i seçin ve ardından aktarım isteğinin gönder olduğu müşteriyi seçin. 
+    - Sol bölmede **İş Ortağı Merkezi'yi** seçin ve ardından aktarım isteğinin gönder olduğu müşteriyi seçin.
       1. Müşteriye özgü menüde Abonelikler'i **seçin.**
       1. Aktarım **istekleri sekmesinde,** Alınan istekler altında Aktarım isteği kimliğini seçerek **aktarım** **bilgilerini genişletin:**
 
@@ -118,15 +118,15 @@ Geçerli iş ortağının abonelik aktarımını tamamlamak için İş Ortağı 
 
 6. Aktarım **işlemini tamamlamak için Kabul** et ve aktar'ı seçin:
 
-   :::image type="content" source="images/modernazuretransfers/SelectSubs.png" alt-text="Aktarım isteğini gözden geçir ekran görüntüsünü gösteren ekran görüntüsü.":::
+   :::image type="content" source="images/modernazuretransfers/SelectSubs.png" alt-text="Aktarım isteğini gözden geçirme ekran görüntüsünü gösteren ekran görüntüsü.":::
 
-   Önceki Azure teklifi aboneliklerine (MS-AZR-0145p) sahip bir müşteriniz varsa, aynı şekilde devam edin, aktarlanacak abonelikleri seçin ve ardından aktarım işlemini tamamlamak için Kabul et ve **aktar'ı** seçin.
+   Önceki Azure teklifi aboneliklerine (MS-AZR-0145p) sahip bir müşteriniz varsa, aynı şekilde devam edin, aktarlanacak abonelikleri seçin ve ardından aktarım işlemini tamamlamak için Kabul et **ve aktar'ı** seçin.
 
 7. Aktarım kabul onaylarını görüntüleme.
 
    Bu noktada, gelecekteki iş ortağına, müşteriye ve geçerli iş ortağına kabul edilen aktarım isteği hakkında bir e-posta gönderilir.
 
-   Geçiş kabul edildikten sonra, sistem güncelleştirilirken aktarım durumu 15 dakika boyunca "beklemede" olarak kalabilirsiniz. Bu işlem daha uzun sürerse, sistem üç gün boyunca bu işlemi yapmaya devam ediyor olur. Aktarım durumu üç günden uzun süre "beklemede" kalırsa, iş ortağı bir hizmet isteği göndermektedir.
+   Geçiş kabul edildikten sonra, sistem güncelleştirilirken aktarım durumu 15 dakika boyunca "beklemede" olarak kalabilirsiniz. Bu işlem daha uzun sürerse, sistem üç gün boyunca bunu yapmaya devam ediyor olur. Aktarım durumu üç günden uzun süre "beklemede" kalırsa, iş ortağı bir hizmet isteği göndermesi gerekir.
 
    Aktarım tamamlandıktan sonra, istekte yer alan abonelikler gelecekteki iş ortağının Azure planında görünür. Artık geçerli iş ortağıyla listelenmiyor.
 

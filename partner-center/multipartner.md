@@ -9,12 +9,12 @@ author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 6af88c1f61e7c93ef64a22cc4cd82ba22128e79479f55131a1b85ef2d8ea0a98
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: a5d7e17e79ba97edfece5eda990349aa949909cd
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115691931"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123960204"
 ---
 # <a name="multi-partner-support-for-customers-who-want-to-work-with-more-than-one-partner"></a>Birden fazla iş ortağıyla çalışmak isteyen müşteriler için çoklu iş ortağı desteği
 

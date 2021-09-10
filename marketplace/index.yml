@@ -10,11 +10,11 @@ metadata:
   ms.author: jasonh
   ms.date: 03/12/2021
   ms.openlocfilehash: f9e92bbc8f1787b94a710d7a089b289bed61e6e3
-  ms.sourcegitcommit: 815760499700bf2c947550524cbddd091622081f
+  ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
   ms.translationtype: MT
   ms.contentlocale: tr-TR
-  ms.lasthandoff: 08/13/2021
-  ms.locfileid: "121915012"
+  ms.lasthandoff: 09/09/2021
+  ms.locfileid: "123937018"
 landingContent:
 - title: Microsoft AppSource
   linkLists:
@@ -38,7 +38,7 @@ landingContent:
       url: billing-invoicing.md
     - text: Abonelik aktarımı koşullarına uygunluk
       url: transfer-eligibility.md
-    - text: Azure 'ı iş ortaklarının çözümleriyle genişletme
+    - text: İş ortaklarının çözümleriyle Azure'ın süresini genişletme
       url: /azure/partner-solutions/overview
   - linkListType: how-to-guide
     links:

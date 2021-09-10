@@ -1,74 +1,74 @@
 ---
-title: Abonelik öngörüleri için Analizi kullanma
+title: Abonelik içgörüleri için analizi kullanma
 ms.topic: article
 ms.date: 11/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-insights
-description: İşletmenizi ve müşterilerinizin satın aldığınız lisansları nasıl kullandığını daha iyi anlamak için iş ortağı merkezi 'nde analizler kullanmayı öğrenin.
+description: İşletmenizi daha iyi anlamak İş Ortağı Merkezi ve müşterilerimizin satın aldığınız lisansları nasıl kullanabileceğini öğrenmek için İş Ortağı Merkezi'de analiz kullanmayı öğrenin.
 author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3102f4881f0aa86b8418ff09a3e430ccaff754cedb65e168ec0c10d5f2e3bbec
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: e94a57b6e93c86a24458862a3dd4a6ccc0b14885
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115687885"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123961334"
 ---
-# <a name="use-analytics-to-learn-more-about-subscription-revenue"></a>Abonelik geliri hakkında daha fazla bilgi edinmek için analiz kullanın
+# <a name="use-analytics-to-learn-more-about-subscription-revenue"></a>Abonelik geliri hakkında daha fazla bilgi edinmek için analizi kullanma
 
-**Uygun roller**: genel yönetici | MPN iş ortağı Yöneticisi
+**Uygun roller:** Genel yönetici | MPN iş ortağı yöneticisi
 
-CSP işinizi geliştirmenin yollarını planlarken müşterilerinizin Microsoft ürünlerini nasıl kullandığını anlamalısınız. İş Ortağı Merkezi 'nde veri toplamaya yönelik çeşitli seçenekleriniz vardır ve hem işiniz hem de müşterilerinizin satın aldıkları lisansları nasıl kullandığı hakkında veri toplayabilirsiniz. CSP doğrudan modelinde çalışıyorsanız, ek veri toplamak için Power BI için İş Ortağı Merkezi Analiz uygulaması yükleyip kullanabilirsiniz.
+CSP işinizi geliştirmenin yollarını planlarken müşterilerinizin Microsoft ürünlerini nasıl kullandığını anlamalısınız. Bu hizmetlerde veri toplamaya İş Ortağı Merkezi seçenekleriniz vardır ve hem işletmeniz hem de müşterileriniz satın alınan lisansları nasıl ve nasıl kullanıyorsa veri topabilirsiniz. CSP doğrudan modelindeyyebilirsiniz, ayrıca ek veri toplamak için Power BI için İş Ortağı Merkezi Analiz uygulaması ve kullanma fırsatına da sahipsiniz.
 
-## <a name="access-to-the-subscription-analytics"></a>Abonelik analizinden erişim
+## <a name="access-to-the-subscription-analytics"></a>Abonelik Analizine Erişim
 
-1. Iş Ortağı Merkezi [panosunda](https://partner.microsoft.com/dashboard/home)oturum açın.
-1. Iş Ortağı Merkezi menüsünde, **analiz**' i seçin ve ardından **abonelik Analizi**' ni seçin.
+1. İş Ortağı Merkezi [oturum açın.](https://partner.microsoft.com/dashboard/home)
+1. Uygulama menüsündeki CSP'İş Ortağı Merkezi **Analiz'i ve** ardından Abonelik **analizi'ne tıklayın.**
 
-1. Son on iki aylık CSP geliri sayfanın en üstünde görüntülenir
+1. Takip eden on iki aylık CSP geliri sayfanın en üstünde görüntülenir
 
 :::image type="content" source="images/analytics/subscription1.png" alt-text="Abonelik ekranı.":::
 
-## <a name="trailing-twelve-month-ttm-csp-revenue"></a>Sondaki Twelve-Month (TTD) CSP geliri
+## <a name="trailing-twelve-month-ttm-csp-revenue"></a>Sonda Twelve-Month (TTM) CSP Geliri
 
-son 12 aylık CSP gelir bir iş ortağı küresel hesap düzeyinde abd doları cinsinden sondaki Bulut Çözümü Sağlayıcısı program gelirini temsil eder. Veriler, önceki aya kadar son on iki aylık geliri göstermek için her ayın sekizinci ' i üzerinde yenilenir. Örneğin, 9 Eylül 2020 ' de, 5 2020 2019 Eylül ayının 5. ayında, için TTı 'yi görmeniz gerekir. Yazılım abonelikleri hariç tutulur. TTE geliri yalnızca faturaların zaten ödeneceği uygun geliri yansıtır. 
+Sonda 12 aylık CSP geliri, abd doları Bulut Çözümü Sağlayıcısı ortak genel hesap düzeyinde en sonda yer alan program gelirini temsil eder. Veriler, önceki aya kadar takip eden on iki aylık geliri görüntülemek için her ayın sekizincisinde yenilenir. Örneğin, 9 Eylül 2020'de, Eylül 2019 ile Ağustos 2020 arasında sabit bir süre için TTM'ye bakabileceksiniz. Yazılım abonelikleri hariç tutulacak. TTM Geliri yalnızca faturaların zaten ödenmiş olduğu uygun geliri yansıtacak. 
 
-Iş Ortağı Merkezi 'nde görüntülenecek gelir, 12 aylık sabit bir zaman aralığı için hesaplanır ve daha kısa bir zaman dilimine değiştirilemez.
+Belirli bir İş Ortağı Merkezi, 12 aylık sabit bir zaman aralığı için hesaplanır ve daha kısa bir zaman dilimine değiştirilemez.
 
-Gelirin bir dökümünü Iş ortağı konum hesap düzeyinize görmek için:
+Gelirin İş Ortağı Konumu Hesabı düzeyinde dökümünü görmek için:
 
-- ' Karşıdan yükleme ayrıntıları ' bağlantısını seçin ve tüm konumlarınızdaki TTı gelirini görüntüleyen bir. tsv dosyasını indirin.
+- 'Ayrıntıları İndir' bağlantısını seçin ve tüm konumlar genelinde TTM gelirini görüntüleyen bir .tsv dosyası indirin.
 
 >[!NOTE] 
->. Tsv dosyasındaki MPN kimliklerine ait her bir TTK gelir numarasını toplamak, Iş Ortağı Merkezi 'nde görüntülenen genel TTK gelirinden daha büyük olabilir. Bunun nedeni, gelir, indirilen dosyada birden çok iş ortağı attribukatındaki abonelikler için Double olarak sayılır.
+>.tsv dosyasındaki MPN kimlikleri arasında tek tek TTM Geliri numaralarının toplamı, bu dosyada görüntülenen genel TTM gelirinin üzerinde İş Ortağı Merkezi. Bunun nedeni, gelirin indirilen dosyada birden çok iş ortağı atıtı olan abonelikler için çift sayılabilir olmasıdır.
 
 ## <a name="subscription-summary"></a>Abonelik Özeti
 
-Ekranın alt yarısında, aboneliklerin bir özeti görüntülenir. Gerekli abonelik ayrıntılarını görmek için aşağıdaki filtreleri kullanın:  
+Ekranın alt yarısında aboneliklerin özeti görüntülenir. Gerekli abonelik ayrıntılarını görmek için aşağıdaki filtreleri kullanın:  
 
-1. **Süre**: abonelik özetini görmeyi tercih edebilirsiniz 
+1. **Süre:** için abonelik özetini almayı tercih edebilirsiniz 
 
-- 30D – son 30 gün
-- 3Dk – son 3 ay
-- 6Dk – son 6 ay
-- 12D – son 12 ay
+- 30D – Son 30 gün
+- 3M – Son 3 ay
+- 6M – Son 6 ay
+- 12 milyon – Son 12 ay
 
-2. **Ürün türü**:
+2. **Ürün Türü:**
  
 - Office 365
 - Microsoft 365
 - Dynamics 365
 - EMS
 
-Bu filtrelerin uygulanması, bu raporun en üstünde yer alacak olan TTD gelir ölçümünü etkilemez.
+Bu filtrelerin uygulanması, bu raporun üst kısmında yer alan TTM gelir ölçümlerini etkilemez.
 
 
  
 ## <a name="next-steps"></a>Sonraki adımlar
 
-- [Müşterilerinizin satın aldıkları lisansları nasıl kullandığını çözümleyin](increasing-adoption-and-satisfaction.md)  
+- [Müşterilerin satın alınan lisansları nasıl kullanıyor olduğunu analiz etme](increasing-adoption-and-satisfaction.md)  
 - [Müşteri etkinlik günlüklerini görüntüleme](activity-logs.md)
 - [Power BI için İş Ortağı Merkezi Analiz uygulaması](power-bi-app-for-direct-partners.md)
 

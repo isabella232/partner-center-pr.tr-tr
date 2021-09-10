@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 04/02/2021
-ms.openlocfilehash: 28af0cecf14530554a0a17cdc2a45925f3e5d45376483fa1eb680575fdad3854
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: d03bbc6c48f7048dd111a7b83210d11c5c266977
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115688054"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123960295"
 ---
 # <a name="march-2021-announcements"></a>Mart 2021 duyuruları
 
@@ -211,23 +211,23 @@ Fiyat listesi önizlemesi ve fiyat listesi değişiklik günlüklerinde ve ürü
 
 Değişiklik, aşağıdaki ürünler için başlatılır.
 
-- Şirket içi Dynamics
+- Dynamics şirket içi
 - Microsoft 365
 - Microsoft Dynamics 365
 - Windows
 - Sunucu  
 - Araçlar
-- Teams ve Telco
+- Teams ve telco
 
-Operasyon hazırlığı ayrıntılarını gerektiren ürün lansmanları için belirli duyurular göndermeye devam edeceğiz.
+Işlem hazırlığı ayrıntıları gerektiren ürün başlatma için özel duyurular gönderilmeye devam edeceğiz.
 
 ### <a name="next-steps"></a>Sonraki adımlar
 
-Bu konu başlığıyla ilgili kaynakları gözden geçirin ve bu bilgileri kuruluşta uygun proje katılımcıları ile paylaşın.
+Bu konuyla ilgili kaynakları gözden geçirin ve bu bilgileri kuruluşunuzdaki uygun hissedarlarla paylaşabilirsiniz.
 
 ### <a name="questions"></a>Sorularınız mı var?
 
-Bu teklifler hakkında daha fazla soru için ilgili topluluklarınızı Yammer kontrol edin.
+bu teklifler hakkında daha fazla soru için ilgili Yammer topluluklarınızı kontrol edin.
 
 ________________
 ## <a name="changes-to-csp-customer-onboarding-requirements"></a><a name="16"></a>CSP müşteri ekleme gereksinimlerinde yapılan değişiklikler
@@ -239,19 +239,19 @@ ________________
 
 ### <a name="summary"></a>Özet
 
-İş ortaklarına ve müşterilerin iş ortaklarına ve iş ortaklarına güvene dayalı olarak işlerini çalıştırmalarına yardımcı olmaya ilişkin taahhüdimizin bir parçası olarak, 25 Mart 2021'den itibaren geçerli olmak için ek müşteri bilgileri talep ediyoruz.
+İş ortakları ve müşterilerin işlerini güvenle çalıştırmasına yardımcı olma çabamız kapsamında, 25 Mart 2021 ' den itibaren geçerli olan ek müşteri bilgileri isteyeceğiz.
 
-### <a name="impacted-audience"></a>Etkilene hedef kitle
+### <a name="impacted-audience"></a>Etkilenen hedef kitle
 
-Bulut Çözümü Sağlayıcısı (CSP) doğrudan fatura iş ortakları ve sonraki bölümde listelenen ülkelerde yeni veya mevcut müşterileri olan dolaylı sağlayıcılar
+Bulut Çözümü Sağlayıcısı (CSP) doğrudan fatura ortakları ve sonraki bölümde listelenen ülkelerde yeni veya mevcut müşteriler bulunan dolaylı sağlayıcılar
 
 ### <a name="details"></a>Ayrıntılar
 
-Microsoft güven üzerinde çalışır. CSP programında müşteri aboneliklerini işlemeye yardımcı olmak için uyumlu, güvenli ve güvenli bir müşteri doğrulama yöntemi sağlamayı taahhüt etmek istiyoruz. 25 Mart 2021'de, aşağıdaki ölçütlerin her ikisini de karşıleyen iş ortaklarını etkileyecek İş Ortağı Merkezi API'si ve kullanıcı arabirimi (UI) geliştirmeleri tanıtacağız:
+Microsoft, güvende çalışır. CSP programında deneyimidir müşteri abonelikleri için uyumlu, güvenli ve güvenli bir müşteri doğrulama yöntemi sağlamayı taahhüt ediyoruz. 25 Mart 2021 ' de, aşağıdaki ölçütlerin her ikisini de karşılayan iş ortaklarını etkileyecek Iş Ortağı Merkezi API 'SI ve Kullanıcı arabirimi (UI) geliştirmeleri sunacağız:
 
-1. İş ortağının Microsoft ile doğrudan faturalama ilişkisi vardır (bu da iş ortağının doğrudan fatura iş ortağı veya dolaylı sağlayıcı olduğu anlamına gelir).
+1. İş ortağı Microsoft ile doğrudan faturalandırma ilişkisine sahiptir (Bu, ortağın doğrudan bir fatura ortağı veya dolaylı bir sağlayıcı olduğu anlamına gelir).
 
-2. İş ortağı, aşağıdaki ülkelerdeki yeni veya mevcut müşterilerle iş yapar:
+2. İş ortağı aşağıdaki ülkelerde yeni veya mevcut müşteriler ile iş yapar:
 
     - Tayland
     - Vietnam
@@ -267,11 +267,11 @@ Microsoft güven üzerinde çalışır. CSP programında müşteri aboneliklerin
     - Birleşik Arap Emirlikleri
     - Venezuela
 
-Ölçütlere uyan iş ortaklarının, yeni müşteriler eklemesi veya mevcut müşteri ayrıntılarını değiştirmesi  için müşterinin şirket kayıt kimliğini **(müşterinin** kuruluş **INN'si** olarak da bilinir) ve telefon numarasını göndermesi gerekir. Ayrıca bu iş ortakları müşteri için isteğe bağlı bir **ikinci ad** da girebilir.
+Ölçütlere uyan iş ortaklarının, yeni müşterileri eklerken veya mevcut müşteri ayrıntılarını değiştirirken müşterinin **Şirket kayıt kimliği** 'ni (müşterinin **kuruluş** adı olarak da bilinir) ve **telefon numarasını** göndermesi gerekir. Ayrıca bu iş ortakları müşteri için isteğe bağlı bir **ikinci ad** da girebilir.
 
-Şirket kayıt kimliğinizi eklerken, müşterinin kişisel kimliğini değil, iş verginizi kullanmanız gerektiğini unutmayın.
+Şirket kayıt KIMLIĞINIZI eklediğinizde müşterinin kişisel KIMLIĞINI değil iş vergi KIMLIĞINIZI kullanmanız gerektiğini unutmayın.
 
-Aşağıdaki ülkelerde yeni veya mevcut müşterilerle iş yapan iş ortakları, Kasım 2020'de önceki bir sürümle birlikte zaten ek açıklamaya alınmaktadır.
+Aşağıdaki ülkelerde yeni veya mevcut müşteriler ile iş yapan iş ortakları, Kasım 2020 ' de daha önceki bir sürüm ile zaten eklendi.
 
 - Ermenistan
 - Azerbaycan
@@ -285,52 +285,52 @@ Aşağıdaki ülkelerde yeni veya mevcut müşterilerle iş yapan iş ortakları
 - Ukrayna
 - Özbekistan
 
-Dünyanın geri kalanındaki müşterilerle iş ortakları, 25 Mart 2021'de isteğe bağlı ayrıntılar  olarak müşteriler için şirket kayıt **kimliğini,** telefon numarasını ve ara adını girme olanağına sahip olacak.
+Dünyanın geri kalanında müşterilere sahip olan iş ortakları 25 Mart 2021 ' de, müşteriler için isteğe bağlı ayrıntılar olarak **Şirket kayıt kimliği**, **telefon numarası** ve **Orta adı** girme olanağına sahip olur.
 
 ### <a name="next-steps"></a>Sonraki adımlar
 
-- Daha ayrıntılı rehberlik için ayrılmış iş ortağı koleksiyonunda teknik [belgeleri ve sık](https://partner.microsoft.com/resources/collection/additionalfields-csp-customers-selected-geos#/) sorulan soruları gözden geçirme.
+- Daha ayrıntılı rehberlik için, [adanmış iş ortağı koleksiyonundaki](https://partner.microsoft.com/resources/collection/additionalfields-csp-customers-selected-geos#/) teknik belgeleri ve sık sorulan soruları gözden geçirin.
 
-- İş Ortağı Merkezi API'sini ve web kullanıcı deneyimini kullanarak değişiklikleri dahil etmek için hazırlanma. API/SDK'lar test için kullanılabilir.
+- Iş Ortağı Merkezi API 'sini ve Web kullanıcısı deneyimini kullanarak değişiklikleri içerecek şekilde hazırlayın. API/SDK 'lar test için kullanılabilir olacak.
 
-- Yeni müşteri ekleme veya mevcut müşteri ayrıntılarını değiştirme ile ilgili ek verileri gönderdiğinizden emin olun.
+- Yeni müşterileri eklerken veya mevcut müşteri ayrıntılarını değiştirirken ek verileri gönderdiğinizden emin olun.
 
-- Denetim masası satıcısı (CPV) çözümü kullanıyorsanız CPV'nize başvurun.
+- Bir denetim masası satıcısı (CPV) çözümü kullanıyorsanız, CPV 'nize başvurun.
 
 ### <a name="questions"></a>Sorularınız mı var?
 
-Yasal tanımlayıcıyla (INN veya TIN olarak da adlandırılan) ilgili sorularınız varsa vergi danışmanınıza veya yerel vergi ofisinize ulaşın. Microsoft, vergi konularıyla ilgili rehberlik sağamaz.
+Yasal tanımlayıcıyla (ıNN veya tın olarak da bilinir) ilgili sorularınız varsa vergi danışmanınıza veya yerel vergi ofisine başvurun. Microsoft, vergi konusunda önemli yönergeler sağlayamaz.
 
-Microsoft ile işlemleriniz için de destek gerekirse [bir hizmet isteği açın.](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=aa679372-d996-73df-e244-cb28bbbf28e8)
+Microsoft ile işlemlerinde desteğe ihtiyacınız varsa, [bir hizmet isteği açın](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=aa679372-d996-73df-e244-cb28bbbf28e8).
 
 ________________
-## <a name="corrections-made-to-march-1-2021-perpetual-software-price-list"></a><a name="15"></a>1 Mart 2021 kalıcı yazılım fiyat listesinde yapılan düzeltmeler
+## <a name="corrections-made-to-march-1-2021-perpetual-software-price-list"></a><a name="15"></a>1 Mart 2021 ' de yapılan düzeltmeler kalıcı yazılım fiyat listesi
 
 ### <a name="categories"></a>Kategoriler
 
 - Tarih: 2021-03-23
 - Teklifler/Pazarlar
 
-### <a name="impacted-audience"></a>Etkilene hedef kitle
+### <a name="impacted-audience"></a>Etkilenen hedef kitle
 
-Dolaylı sağlayıcılar ve doğrudan fatura iş ortakları, Bulut Çözümü Sağlayıcısı programı 
+Bulut Çözümü Sağlayıcısı programında dolaylı sağlayıcılar ve doğrudan fatura ortakları deneyimidir kalıcı yazılım 
 
 ### <a name="details"></a>Ayrıntılar
 
-1 Mart 2021'de yayınlanan kalıcı yazılımların fiyat listesi, orada yer almamaları gereken pazarları da içerir. Kalıcı yazılım fiyat listesi, düzeltmelerle birlikte 17 Mart 2021'de güncelleştirildi. Bu düzeltmeler yalnızca şular için geçerlidir:
+1 Mart 2021 ' de gönderilen kalıcı yazılım için fiyat listesi, orada olmaması gereken pazarlara dahil değildir. Kalıcı yazılım fiyat listesi, düzeltmeler ile 17 Mart 2021 ' de güncelleştirildi. Bu düzeltmeler yalnızca için geçerlidir:
 
-- Ürün Kimliği: DF77X4D43RKT 
-- Ürün adı: Windows 10 Home için Pro Yükseltmeyi Microsoft 365 gerekir
-- Kaldırılan veya desteklenmeyen pazarlar: AE, AF, AL, AM, AO, BA, BB, BD, VERI, BM, BN, BO, BR, BS, BW, BY, BZ, CI, CL, CM, CO, CR, CW, DO, DZ, EC, EG, ET, FJ, FO, GE, GH, GT, HN, IL, IN, IQ, JM, JO, KE, KG, KN, LB, LB, LK, LY, MA, MC, MD, ME , MN, MO, MU, NA, NG, NI, NP, OM, PA, PE, PH, PK, PR, PY, QA, RS, RU, RW, SG, SN, SV, TH, TJ, TM, TN, TT, TZ, UA, UG, UY, UZ, VE, VN, YE, ZM, ZW
+- Ürün KIMLIĞI: DF77X4D43RKT 
+- ürün adı: Microsoft 365 işletme için Pro yükseltmeye Windows 10 Home
+- Kaldırılan veya desteklenmeyen pazarlar: AE, AF, AL, har, AO, BA, BB, BD, BH, BM, mılyar TL, BO, BR, BS, beyaz,,,, BZ, CI, CL, CM, CO, CR, CW, DO, DZ, EC, EG, ET, FJ, FO, GE, GH, GT, HN, IL, IN, IQ, JM, JO,  MN, MO, MU, NA, NG, Nı, NP, OM, PA, PE, PH, PK, PR, INER, QA, RS, RU, RW, SG, SN, ZF, TH, TJ, TM, TN, TT, TZ, UA, UG, UY, UZ, VE, VN, YS, ZM, ZW
 
-Bu değişiklikler yalnızca yukarıdaki ürün için geçerlidir. Diğer ürünlerin hiçbir düzeltmesi yoktu. 
+Bu değişiklikler yalnızca yukarıdaki ürün için geçerlidir. Diğer ürünlerin bir düzeltme yoktur. 
 
 ### <a name="next-steps-and-resources"></a>Sonraki adımlar ve kaynaklar
 
-- Kalıcı yazılım işlemi yapan iş ortakları en son kalıcı yazılım fiyat listesini indirmeli.
-- İki [harfli kısaltmanın](/azure/marketplace/commercial-marketplace-co-sell-countries) ülkelerle kolay bir eşlemesi için bölge ülke kodlarına bakın.
+- Transact kalıcı yazılım kullanan iş ortakları en son kalıcı yazılım fiyat listesini indirmelidir.
+- Ülkelerinden oluşan iki harfli kısaltmayı kolay bir şekilde eşlemek için [bölge ülke kodlarına](/azure/marketplace/commercial-marketplace-co-sell-countries) başvurun.
 ________________
-## <a name="sdk-release-on-net-standard-v1170"></a><a name="14"></a> .NET Standard(v1.17.0) üzerinde SDK Sürümü
+## <a name="sdk-release-on-net-standard-v1170"></a><a name="14"></a> .NET Standard SDK sürümü (v 1.17.0)
 
 ### <a name="categories"></a>Kategoriler
 
@@ -338,25 +338,25 @@ ________________
 
 - Özellikler
  
-### <a name="impacted-audience"></a>Etkilene hedef kitle
+### <a name="impacted-audience"></a>Etkilenen hedef kitle
 
-.NET SDK'sını kullanan CSP programına katılan Doğrudan Fatura iş ortakları İş Ortağı Merkezi Sağlayıcılar.
+Iş ortağı merkezi .NET SDK 'sını kullanan CSP programına katılan doğrudan fatura ortakları ve dolaylı sağlayıcılar.
 
 ### <a name="details"></a>Ayrıntılar
 
-23 Mart 2020'den başlanacak olan iş ortakları [MicrosoftPartnerCenter.NETSDK (NuGet Gallery | Microsoft.Store.PartnerCenter 1.17.0)](https://www.nuget.org/packages/Microsoft.Store.PartnerCenter/1.17.0)ve güncelleştirilmiş genel İş Ortağı Merkezi SDK'sı [GitHub örnekleri.](https://github.com/Microsoft/Partner-Center-DotNet-Samples) Bu sürüm aşağıdaki yöntemlere yapılan güncelleştirmeleri içerir:
+23 2020 mart itibariyle iş ortakları, [microsoftpartnercenter. netsdk 'nın (NuGet galerisi) sürümünü indirmeye başlayabilir | Microsoft. Store. partnercenter 1.17.0)](https://www.nuget.org/packages/Microsoft.Store.PartnerCenter/1.17.0), güncelleştirilmiş ortak iş ortağı merkezi SDK [GitHub örneklerle](https://github.com/Microsoft/Partner-Center-DotNet-Samples)birlikte. Bu sürüm aşağıdaki yöntemlerin güncelleştirmelerini içerir:
 
-#### <a name="audit-updated-new-operation-types"></a>Denetim Güncelleştirildi: Yeni işlem türleri
+#### <a name="audit-updated-new-operation-types"></a>Denetim güncelleştirildi: yeni işlem türleri
 
-Müşterinin [DAP'ı ne](/partner-center/develop/auditing-resources) zaman onayla ve sonlandırdı olduğunu bilmek için yeni işlem türleri eklendi.
+Müşterinin ne zaman onayladığı ve sonlandırıldığı hakkında bilinmesi için yeni [işlem türleri](/partner-center/develop/auditing-resources) eklendi.
 
 - DapAdminRelationshipApproved
 
-- DapAdminRelationshipTerminated
+- Dapadminrelationshipsonlandırılan
 
-#### <a name="audit-updated-new-resource-and-operation-types"></a>Denetim Güncelleştirildi: Yeni kaynak ve işlem türleri
+#### <a name="audit-updated-new-resource-and-operation-types"></a>Denetim güncelleştirildi: yeni kaynak ve işlem türleri
 
-Müşteri dizini [rolü senaryosunu desteklemek](/partner-center/develop/auditing-resources) için yeni kaynak ve işlem türleri eklendi.
+Müşteri dizin rolü senaryosunu desteklemek için yeni [kaynak ve işlem türleri](/partner-center/develop/auditing-resources) eklendi.
 
 - Yeni kaynak türü "CustomerDirectoryRole"
 
@@ -655,7 +655,7 @@ Aralık 2020 ' de, Microsoft OCP GTM aracından gelen yolculuğumuzu Iş Ortağ�
 
 Geçişin sonraki kilometre taşı, 29 Mart 2021 ' de gerçekleşmeyecektir. Diğer bir deyişle, bazı alanlar salt okunurdur, sınırlı OCP GTM özelliklerine karşılaşmak için başlarsınız. Şu anda OCP GTM'de çözümlerle ortak satışlar sunuyorsanız, özelliklerini yararlanmak ve yayımlama deneyiminizi basitleştirmek için çözümlerinizi ticari markete geçirmenizi teşvik ediyoruz.
 
-Ticari markete taşıma, ortak İş Ortağı Merkezi yayımlama deneyimi için birincil hedef haline gelmektedir. Microsoft ürünleri için aynı kanallar ve ürün içinde deneyimler aracılığıyla çözümlerinizi paylaşılan müşterilerimize bağlayarak işlerinizi büyümeye devam edersiniz. [Ticari market hakkında daha fazla bilgi alın.](https://blogs.partner.microsoft.com/mpn/getting-started-with-the-microsoft-commercial-marketplace/)
+Ticari markete taşıma, ortak İş Ortağı Merkezi yayımlama deneyimi için birincil hedef haline gelmektedir. Çözümlerinizi paylaşılan müşterilerimize Microsoft ürünleri için aynı kanallar ve ürün içinde deneyimler aracılığıyla bağlayarak işlerinizi büyütebilirsiniz. [Ticari market hakkında daha fazla bilgi alın.](https://blogs.partner.microsoft.com/mpn/getting-started-with-the-microsoft-commercial-marketplace/)
 
 ### <a name="next-steps"></a>Sonraki adımlar
 
@@ -691,7 +691,7 @@ Bu özellik, ihtiyaçlarınıza göre raporlama sorguları ve şablonları tanı
 
 ### <a name="next-steps"></a>Sonraki adımlar
 
-Daha fazla bilgi edinmek için [bkz. Kullanmaya başlayın programlı erişimi olan uygulama.](/azure/marketplace/analytics-get-started)
+Daha fazla bilgi edinmek için [bkz. Kullanmaya başlayın erişimi olan bir uygulama.](/azure/marketplace/analytics-get-started)
 
 ### <a name="questions"></a>Sorularınız mı var?
 
@@ -707,7 +707,7 @@ ________________
 
 ### <a name="impacted-audience"></a>Etkilene hedef kitle
 
-Rusya'daki tüm iş ortakları Bulut Çözümü Sağlayıcısı (CSP) programı aracılığıyla işlem yaptı.
+Rusya'daki tüm iş ortakları, Bulut Çözümü Sağlayıcısı (CSP) programı aracılığıyla işlem yaptı.
 
 ### <a name="details"></a>Ayrıntılar
 
@@ -718,7 +718,7 @@ Rusya'daki tüm iş ortakları Bulut Çözümü Sağlayıcısı (CSP) programı 
 Yeni Azure ticaret deneyimini tanıtan ve ek bilgiler sağlayan birçok kaynak vardır. CSP Program Güncelleştirmeleri Kaynak Galerisi'nde en son [SSS,](https://partner.microsoft.com/resources/collection/new-azure-experience-in-csp#/)desteler, video ve daha fazlasını bulabilirsiniz.
 
 ________________
-## <a name="partner-center-software-license-key-and-download-fulfillment"></a><a name="4"></a>İş Ortağı Merkezi lisans anahtarını indirme ve gerçekleştirmeyi indirme
+## <a name="partner-center-software-license-key-and-download-fulfillment"></a><a name="4"></a>İş Ortağı Merkezi lisans anahtarını yükleme ve yerine getirme
 
 ### <a name="categories"></a>Kategoriler
 
@@ -735,7 +735,7 @@ Tüm Bulut Çözümü Sağlayıcısı (CSP) iş ortakları, sürekli ve sunucu a
 
 ### <a name="details"></a>Ayrıntılar
 
-İş ortağı geri bildirimlerine yanıt olarak, kalıcı ve İş Ortağı Merkezi abonelik yazılım siparişleri için yazılım ve lisans anahtarları alma olanağını yeniden hazırlarız. 19 Ocak 2021'de kaldırılmasından önceki durumuna geri yüklenecektir. (Duyuruya [bakın.)](2020-september.md#17)
+İş ortağı geri bildirimlerine yanıt olarak, kalıcı ve İş Ortağı Merkezi abonelik yazılım siparişleri için yazılım ve lisans anahtarları elde etme özelliğini yeniden hazırlarız. 19 Ocak 2021'de kaldırılmasından önceki durumuna geri yüklenecektir. (Duyuruya [bakın.)](2020-september.md#17)
 
 Yazılım lisans anahtarları ve indirme bağlantılarının değerli ve son derece aranılan fikri mülkiyet varlıkları olduğunu unutmayın. Sızdırıldıklarında etkinleştirme sınırları hızla tükenebilir ve olumsuz müşteri ve iş ortağı deneyimine neden olabilir.
 
@@ -748,7 +748,7 @@ Kullanım yönergeleri ve yazılım anahtarı dağıtımıyla ilgili önemli yö
 
 ### <a name="questions"></a>Sorularınız mı var?
 
-Bu bildirimle ilgili başka sorularınız varsa, ilgili topluluklar için Yammer kontrol edin.
+Bu bildirimle ilgili başka sorularınız varsa ilgili topluluklarınızı Yammer edin.
 
 ________________
 ## <a name="migrate-your-deals-from-partner-sales-connect-psc-to-partner-center"></a><a name="3"></a>Anlaşmalarınızı İş Ortağı Satışları Bağlan (PSC) İş Ortağı Merkezi
@@ -768,12 +768,12 @@ PSC'de anlaşmaları olan iş ortakları
 
 ### <a name="details"></a>Ayrıntılar
 
-Ortak büyüme taahhüdü kapsamında **Microsoft** ile ortak satış yapmak, keşfedilecek, uzmanlığınızı sunacak ve olumlu müşteri sonuçları elde etmek için müşteri ayak izinizi genişletecek olan yoldur.  Ortalama satış fiyatı **normalden 3,5** kat daha hızlı olduğu için İş Ortağı Merkezi'de ortak satış deneyiminizi yönetmek doğrudan müşteri, iş ortağı ve Microsoft satıcı kanalları arasında satış ve referans işlem hattınızı tek bir konumda yönetmenizi sağlar.
+Ortak büyüme taahhüdü kapsamında **Microsoft** ile ortak satış yapmak, keşfedilecek, uzmanlığınızı sunacak ve olumlu müşteri sonuçları elde etmek için müşteri ayak izinizi genişletecek olan yoldur.  Normalden **3,5** kat daha hızlı olan ortalama satış anlaşmasıyla İş Ortağı Merkezi'da ortak satış deneyiminizi yönetmek doğrudan müşteri, iş ortağı ve Microsoft satıcı kanalları arasında satış ve referans işlem hattınızı tek bir konumda yönetmenize olanak sağlar.
 
 **PSC,** 31 Mart **2021'den** itibaren salt okunur erişime taşınacak. Bu nedenle, İş Ortağı Merkezi ve bu özellik geliştirmelerine erişmenizi istiyoruz:  
 
-- **Microsoft ile** paylaştığın satış anlaşmalarının, ihtiyacınız olan yardım türüne göre doğru satıcıya yönlendiren daha doğru yönlendirme.
-- **Teşvike uygun çözümler için** ön anlaşma uygunluk doğrulaması ve ISV Bağlan programı ölçütlerini karşılamak, onay sürecini ve son yürütme kanıtı (POE) kanıtını basitleştirir.
+- **Microsoft'la** paylaştığın anlaşmaların, ihtiyacınız olan yardım türüne göre doğru satıcıya yönlendiren daha doğru yönlendirme.
+- **Teşvike uygun çözümler için** ön anlaşma uygunluk doğrulaması ve ISV Bağlan programı ölçütlerini karşılamak, onay sürecini ve yürütme kanıtı (POE) kanıtının sonunu basitleştirir.
 - **Tüm ortak satış** fırsatlarınızı ve satış nitelikli müşteri adaylarınızı tek bir yerde yönetmek için sorunsuz kullanıcı deneyimi.
 
 Ayrıca taşımanıza yardımcı olmak için İş Ortağı Merkezi yeni özellikler ekledik:
@@ -781,7 +781,7 @@ Ayrıca taşımanıza yardımcı olmak için İş Ortağı Merkezi yeni özellik
 - [Ortak satış fırsatları için toplu işlemler](../bulk-operations.md)
 - [Anlaşma geçişi özelliği](../psc-to-pc.md) **(PSC Anlaşmaları geçiş bölümüne** bakın.)
 
-Satış ekipleriniz İş Ortağı Merkezi satış deneyimini kullanarak müşteri adaylarını ve fırsatları beslemeye, satış anlaşmalarını kapatmaya ve müşteri ilişkileri oluşturmaya daha fazla zaman sahip olacak.
+İş Ortağı Merkezi'daki ortak satış deneyimini kullanarak satış ekipleriniz müşteri adaylarını ve fırsatları beslemeye, kapanış anlaşmalarına ve müşteri ilişkileri oluşturmaya daha fazla zaman sahip olacak.
 
 ### <a name="next-steps"></a>Sonraki adımlar
 
@@ -827,39 +827,39 @@ Teklif adının fiyat listesi önizlemeden biraz farklı olduğunu unutmayın.
 
 | Teklif adı | Teklif Kimliği |
 | ------ |----------- |
-| Power BI Premium Kullanıcı başına | 9c810018-9356-4903-95ab-eeb956289290 | 
-| Power BI Premium Fakülte Kullanıcı başına | 3afc44f-f372-4ad5-8657-aadd9574fce0 | 
-| Power BI Premium Öğrenciler için Kullanıcı başına | 657eea87-d0b0-4c89-8c8e-9b04395bd940 | 
-| Power BI Premium Kullanıcı başına (kar amacı olmayan personel fiyatlandırması) | 7a0a856c-059f-45dd-9d26-ae27992e706a | 
-| Power BI Premium Kullanıcı başına Add-On | 244ff87e-5925-44a0-BF31-gizlenir 189719b58 | 
-| Power BI Premium Fakülteler için Kullanıcı başına Add-On | 5dad849bd-b8f7-4340-b4f4-3a9eaeb8987e | 
-| Power BI Premium Öğrenciler için Kullanıcı başına Add-On | cf62d70d-5af5-422a-bda8-97936402ac8e | 
-| Power BI Premium Kullanıcı başına Add-On (kar amacı gütmeyen personel fiyatlandırması) | 31c03289-47AB-4AB0-8df1-03742c127ac6 | 
+| Power BI Premium Kullanıcı Başına | 9c810018-9356-4903-95ab-eeb956289290 | 
+| Power BI Premium Fakülteler için Kullanıcı Başına | 3affc44f-f372-4ad5-8657-aadd9574fce0 | 
+| Power BI Premium Öğrenciler için Kullanıcı Başına | 657eea87-d0b0-4c89-8c8e-9b04395bd940 | 
+| Power BI Premium Kullanıcı Başına (Kar Amacı Gütmeyen Personel Fiyatlandırması) | 7a0a856c-059f-45dd-9d26-ae27992e706a | 
+| Power BI Premium Kullanıcı Başına Add-On | 244ff87e-5925-44a0-bf31-cea189719b58 | 
+| Power BI Premium Fakülteler için Kullanıcı Add-On Başına | 5da849bd-b8f7-4340-b4f4-3a9eaeb8987e | 
+| Power BI Premium Öğrenciler için kullanıcı Add-On başına | cf62d70d-5af5-422a-bda8-97936402ac8e | 
+| Power BI Premium Kullanıcı Başına Add-On (Kar Amacı Gütmeyen Personel Fiyatlandırması) | 31c03289-47ab-4ab0-8df1-03742c127ac6 | 
 
-**Müşteri ses ve pazarlama USL coğrafi ve segment genişletme**
+**Customer Voice and Marketing USL coğrafi ve segment genişletmesi**
 
-Aralık 2020 başlatmaya yönelik bir izleme olarak Dynamics 365 müşteri Voice ve Marketing USL teklifleri, yeni ülkeler ve daha fazla kar ve eğitim SKU 'Ları eklemek üzere değiştirilmiştir.
+Aralık 2020 lansmanını takip etmek için Dynamics 365 Customer Voice and Marketing USL teklifleri yeni ülkeler ve daha fazla kar amacı gütmeyen ve eğitim amaçlı SKUS eklemek için değiştirilmiştir.
 
 | Teklif adı | Teklif Kimliği |
 | ------ |----------- |
-| Dynamics 365 müşteri sesi USL (kar amacı gütmeyen personel fiyatlandırması) | 7a8642a5-481e-4906-a642-b56dbeeb62a0 |
-| Fakülteler için Dynamics 365 müşteri sesi USL | 85162d70-9676-4CF6-A4BC-a0d6672f2657 |
+| Dynamics 365 Customer Voice USL (Kar Amacı Gütmeyen Personel Fiyatlandırması) | 7a8642a5-481e-4906-a642-b56dbeeb62a0 |
+| Fakülteler için Dynamics 365 Customer Voice USL | 85162d70-9676-4cf6-a4bc-a0d6672f2657 |
 
-Bu teklifler hakkında daha fazla bilgi edinmek için aşağıdaki sayfaları ziyaret edin:
+Bu teklifler hakkında daha fazla bilgi için aşağıdaki sayfaları ziyaret edin:
 
-- [Dynamics 365 müşteri hizmeti sesli giriş sayfası](https://dynamics.microsoft.com/customer-voice/overview/)
-- [Dynamics 365 pazarlama ana sayfası](https://dynamics.microsoft.com/customer-voice/overview/)
+- [Dynamics 365 Müşteri Hizmetleri Ses giriş sayfası](https://dynamics.microsoft.com/customer-voice/overview/)
+- [Dynamics 365 Marketing giriş sayfası](https://dynamics.microsoft.com/customer-voice/overview/)
 
 ### <a name="next-steps"></a>Sonraki adımlar
 
-Bu konudaki kaynakları gözden geçirin ve bu bilgileri kuruluşunuzdaki uygun hissedarlarla paylaşabilirsiniz.  
+Bu konu başlığı altında yer alan kaynakları gözden geçirin ve bu bilgileri, kuruluşta uygun proje katılımcıları ile paylaşın.  
 
 ### <a name="questions"></a>Sorularınız mı var?
 
-bu tekliflerle ilgili herhangi bir soru için ilgili Yammer topluluklarınızı kontrol edin. 
+Bu teklifler hakkında sorularınız için ilgili topluluklar için Yammer kontrol edin. 
 
 ________________
-## <a name="microsoft-universal-print-now-available-in-some-suites"></a><a name="1"></a> Microsoft Evrensel Yazdırma artık bazı paketlerde kullanılabilir
+## <a name="microsoft-universal-print-now-available-in-some-suites"></a><a name="1"></a> Microsoft Evrensel Yazdırma artık bazı paketlerin içinde kullanılabilir
 
 ### <a name="categories"></a>Kategoriler
 
@@ -868,35 +868,35 @@ ________________
 
 ### <a name="summary"></a>Özet
 
-Microsoft evrensel yazdırma, 1 mart 2021 ' den bağımsız bir eklenti olarak, select Microsoft 365 paketleri ve tek başına eklenti olarak transact tarafından kullanılabilir.
+Microsoft Evrensel Yazdırma, 1 Mart 2021'den itibaren Microsoft 365 paketleri ve tek başına eklenti olarak işlem yapmak için kullanılabilir.
 
-### <a name="impacted-audience"></a>Etkilenen hedef kitle
+### <a name="impacted-audience"></a>Etkilene hedef kitle
 
-tüm iş ortakları Bulut Çözümü Sağlayıcısı (CSP) programı üzerinden deneyimidir
+Bulut Çözümü Sağlayıcısı (CSP) programı aracılığıyla işlem yapılan tüm iş ortakları
 
 ### <a name="details"></a>Ayrıntılar
 
-[evrensel yazdırma](https://aka.ms/universalprint) , şirket içi yazdırma sunucuları gereksinimini ortadan kaldıran ve Windows cihazların Azure 'a kayıtlı yazıcılara yazdırmasını sağlayan bir Microsoft 365 yazdırma hizmetidir. Bu, 1 Mart 2021 ' den itibaren Transact tarafından kullanılabilir olacaktır.
+[Evrensel Yazdırma,](https://aka.ms/universalprint) şirket Microsoft 365 sunucularına olan ihtiyacı ortadan kaldıran ve Windows cihazların Azure'a kayıtlı yazıcılara yazdırmasını sağlayan bir yazdırma hizmetidir. 1 Mart 2021'den itibaren işlem için kullanılabilir olacak.
 
-Çalışanlar, daha az yazdırma, kolay konum tabanlı yazıcı bulma ve öğrenme eğrisi olmadan sezgisel bir yazdırma deneyiminden yararlanır. Azure Active Directory (Azure AD) 'ye katılmış olan cihazlar, güvenli bir şekilde yazdırmak için mevcut Azure AD kimlik bilgilerini kullanır. Yöneticiler, Azure portal kullanarak yazdırmayı yönetir ve Evrensel Yazdırma için yerel destekle kolayca yazıcılara bağlanabilir. evrensel yazdırma, Evrensel Yazdırma bağlayıcısı yazılım kullanılarak uyumlu olmayan yazıcılarla dağıtılabilir.
+Çalışanlar sürücüsüz yazdırma, kolaylaştırılmış konum tabanlı yazıcı bulma ve öğrenme eğrisi olmayan sezgisel yazdırma deneyiminden faydalanıyor. Azure Active Directory (Azure AD) ile katılan cihazlar, mevcut Azure AD kimlik bilgilerini kullanarak güvenli bir şekilde yazdırılır. Yöneticiler yazdırmayı yönetmek için Azure portal ve yazıcılara yerel destekle kolayca Evrensel Yazdırma. Evrensel Yazdırma yazılım kullanılarak uyumlu olmayan yazıcılarla Evrensel Yazdırma bağlayıcısı dağıtılabilir.
 
-evrensel yazdırma, Windows E3, A3, E5, ve a5 ve Microsoft 365 BP, F3, E3, A3, E5 ve a5 ' e kadar her başlatmada geri doldurulacak.  
+Evrensel Yazdırma, Windows E3, A3, E5 ve A5'e ve Microsoft 365 BP, F3, E3, A3, E5 ve A5'e geri doldurulacak.  
 
-**Teklif Ayrıntıları**
+**Teklif ayrıntıları**
 
 Teklif adının fiyat listesi önizlemeden biraz farklı olduğunu unutmayın.
 
-| Teklif adı | Teklif Kimliği | Malzeme KIMLIĞI |
+| Teklif adı | Teklif Kimliği | Malzeme Kimliği |
 | ------ |----------- |----------- |  
-| Evrensel yazdırma birimi eklentisi (500 iş)-Microsoft 365  | cb131356-45ee-4ae2-8537-873b706c8e75     | 9 Bı-00004   |
-| Fakülteler için Evrensel yazdırma birimi eklentisi (500 işleri)-Microsoft 365   | 477bee81-9872-43d6-91d3-c72390bfcf49   | 9BK-00004   |
-| Evrensel yazdırma birimi eklentisi (500 iş)-Windows    | d3ddc493-5741-4e0d-a02d-07edbb0bb72e   | 9 Bı-00002   |
-| Fakülteler için Evrensel yazdırma birimi eklentisi (500 işleri)-Windows   |  d0862f05-80f5-4fd4-8432-fe72dd893cc7  | 9BK-00002   |
+| Evrensel Yazdırma birim eklenti (500 iş) - Microsoft 365  | cb131356-45ee-4ae2-8537-873b706c8e75     | 9BI-00004   |
+| Evrensel Yazdırma için toplu eklenti (500 iş) - Microsoft 365   | 477 sini81-9872-43d6-91d3-c72390bfcf49   | 9BK-00004   |
+| Evrensel Yazdırma birim eklenti (500 iş) - Windows    | d3ddc493-5741-4e0d-a02d-07edbb0bb72e   | 9BI-00002   |
+| Evrensel Yazdırma için toplu eklenti (500 iş) - Windows   |  d0862f05-80f5-4fd4-8432-fe72dd893cc7  | 9BK-00002   |
 
 ### <a name="next-steps"></a>Sonraki adımlar
 
-Fiyat listesi ve [evrensel yazdırmaya genel bakış hakkında bilgi](/universal-print/fundamentals/universal-print-whatis)edinin. Bu bilgileri kuruluşunuzdaki ilgili tüm kişilerle paylaşabilirsiniz.
+Fiyat listesi ve genel bakış hakkında bilgi [Evrensel Yazdırma edinebilirsiniz.](/universal-print/fundamentals/universal-print-whatis) Bu bilgileri, kuruluşta tüm uygun kişilerle paylaşın.
 
 ### <a name="questions"></a>Sorularınız mı var?
 
-bu tekliflerle ilgili herhangi bir soru için ilgili Yammer topluluklarınızı kontrol edin.
+Bu teklifler hakkında sorularınız için ilgili topluluklar için Yammer kontrol edin.

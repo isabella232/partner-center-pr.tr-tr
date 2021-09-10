@@ -4,52 +4,52 @@ ms.topic: how-to
 ms.date: 08/01/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-customers
-description: Bir müşterinin hesabına birden çok kullanıcı eklemek için, virgülle ayrılmış değer (.csv) dosya biçimini kullanarak Iş Ortağı Merkezi 'ne bir veri dosyası yükleyin.
+description: Müşterinin hesabına birden çok kullanıcı eklemek için, virgülle ayrılmış değer (İş Ortağı Merkezi) dosya biçimini kullanarak bir veri .csv yükleyin.
 author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d609b84b44997f15fdb2c4a185bfdef00ce27adec16b52ade91af3ad78cad83c
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 907d1267164df267acab08675b4b9388fbf14474
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115685318"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123960974"
 ---
-# <a name="upload-a-csv-file-of-users-to-a-customers-account"></a>kullanıcıların bir .csv dosyasını bir müşterinin hesabına Upload
+# <a name="upload-a-csv-file-of-users-to-a-customers-account"></a>Upload .csv bir kullanıcı dosyasını müşterinin hesabına kaydedin
 
 
-**Uygun roller**: genel yönetici
+**Uygun roller:** Genel yönetici
 
-Bir veri dosyasını, virgülle ayrılmış değer dosya biçimine (.csv) Iş Ortağı Merkezi 'ne yükleyerek bir müşterinin hesabına tek seferde birden fazla kullanıcı ekleyin. 
+Virgülle ayrılmış değer dosyası biçimindeki (.csv) bir veri dosyasını aynı anda müşterinin hesabına yük İş Ortağı Merkezi. 
 
-## <a name="create-the-file-of-customer-users-and-upload-to-customer-account"></a>Müşteri kullanıcıları dosyasını oluşturun ve müşteri hesabına yükleyin
+## <a name="create-the-file-of-customer-users-and-upload-to-customer-account"></a>Müşteri kullanıcılarının dosyasını oluşturma ve müşteri hesabına yükleme
 
-1. Yukarıda açıklanan verilerle bir virgülle ayrılmış değer (.csv) veri dosyası oluşturun. Daha sonraki bir adımda bu dosyaya gözatabilmeniz için dosyayı kaydedin. [Bir müşteri hesabına ait birden çok kullanıcıyı içeri aktarmak için .csv dosya alanları](file-customer-users.md)bölümüne bakın. 
+1. Yukarıda açıklanan verilerle bir virgülle .csv veri dosyası oluşturun. Dosyayı daha sonraki bir adımda göz atabilirsiniz. Bkz. [.csv hesabı için birden çok kullanıcı içeri aktaracak dosya için alanlar.](file-customer-users.md) 
 
-2. Iş Ortağı Merkezi [panosunda](https://partner.microsoft.com/dashboard)oturum açın.
+2. İş Ortağı Merkezi [oturum açın.](https://partner.microsoft.com/dashboard)
 
-3. Iş Ortağı Merkezi menüsünde **müşteriler**' i seçin ve listeden bir müşteri seçin.
+3. İş Ortağı Merkezi menüsünden **Müşteriler'i** ve ardından listeden bir müşteri seçin.
 
-4. müşterinin **kullanıcılar ve lisanslar** sekmesini seçin ve ardından **Upload kullanıcılar**' ı seçin.
+4. Müşterinin Kullanıcılar ve **Lisanslar sekmesini ve** ardından Kullanıcılar'ı Upload **seçin.**
 
-5. **kullanıcı bilgisi Upload** altında, **araştır**' ı seçin.
+5. Kullanıcı **Upload altında Gözat'ı** **seçin.**
 
-6. Dosya seçicisinde veri dosyanızı seçin ve sonra **Aç**' ı seçin.
+6. Dosya seçicide veri dosyanızı ve ardından Aç'ı **seçin.**
 
 7. **Doğrula**'yı seçin.
 
-    **Göz önünde**  Hesap oluşturma hatalarının çoğu, eksik bilgiler, hatalı biçimlendirilmiş veya yinelenen e-posta adresleri veya dosyadaki çok fazla kayıt da dahil olmak üzere veri dosyası sorunlarından kaynaklanır.
+    **Not**  Hesap oluşturma hatalarının çoğu eksik bilgiler, yanlış biçimlendirilmiş veya yinelenen e-posta adresleri veya dosyada çok fazla kayıt gibi veri dosyası sorunlarından kaynaklandı.
 
-8. Iş Ortağı Merkezi dosyayı doğruladıktan sonra, yeni kullanıcıların coğrafi **konumunu** seçin.
+8. Dosya İş Ortağı Merkezi sonra yeni kullanıcılar için coğrafi **Konum'ı** seçin.
 9. **Kaydet**’i seçin.
 10. Kullanıcılar için geçici parola bilgilerini indirin.
 
     >[!IMPORTANT]
-    > Daha sonra yapamayabilmeniz için dosyayı geçici parolalarla birlikte indirdiğinizden emin olun. Yeni kullanıcıların yeni hesaplarının geçici parolasını kullanarak yeni hesaplarında oturum açması gerekir.
+    > Bu işlemi daha sonra yapayasınız, şimdi geçici parolalarla dosyayı indirmeyi deneyin. Yeni kullanıcıların yeni hesapları için geçici parolayı kullanarak yeni hesaplarında oturum açmaları gerekir.
 
-11. Yeni kullanıcılara, **Lisans ve hizmetleri kullanabilir**, otomatik olarak izinler atanır. 
+11. Yeni kullanıcılara lisansları ve hizmetleri kullanabilir **izni otomatik olarak atanır.** 
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-- [Iş Ortağı Merkezi 'nde müşterilere kendi ürünlerini veya hizmetlerini satın alma izni verin](give-customers-permission.md)
+- [Müşterilere kendi İş Ortağı Merkezi hizmetlerini satın alma izni verme](give-customers-permission.md)

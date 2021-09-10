@@ -4,32 +4,32 @@ ms.topic: how-to
 ms.date: 06/08/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-customers
-description: Bu İş Ortağı Merkezi müşterinin faturalama bilgilerini güncelleştirme veya şirket ayrıntılarını güncelleştirme hakkında bilgi edinebilirsiniz.
+description: Iş Ortağı Merkezi 'nde müşterinin fatura bilgilerini güncelleştirmeyi veya şirket ayrıntılarının nasıl güncelleştireceğinizi öğrenin.
 author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b0d804878835012a005a47d93e9b50a4b27d584f976257328ad022c3f5ece116
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 8d0bb023bae86a4ff8789bd256273de8f8901a4c
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115695875"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123961552"
 ---
-# <a name="update-customer-account-info-company-details-and-customer-billing-information-in-partner-center"></a>Şirket içinde müşteri hesabı bilgilerini, şirket ayrıntılarını ve müşteri faturalama bilgilerini İş Ortağı Merkezi
+# <a name="update-customer-account-info-company-details-and-customer-billing-information-in-partner-center"></a>Iş Ortağı Merkezi 'nde müşteri hesap bilgilerini, şirket ayrıntılarını ve müşteri faturalandırma bilgilerini güncelleştirme
 
-**Uygun roller:** Genel yönetici | Satış aracısı
+**Uygun roller**: genel yönetici | Satış Aracısı
 
-Bu İş Ortağı Merkezi müşterinin faturalama bilgilerini ve diğer şirket ayrıntılarını güncelleştirebilirsiniz. Ayrıca, bir [müşteriye kendi ürünlerini veya hizmetlerini satın alma iznini de vesnesini kaldırabilir veya silerek.](give-customers-permission.md)
+Iş Ortağı Merkezi 'nde müşterinin fatura bilgilerini ve diğer şirket ayrıntılarını güncelleştirebilirsiniz. Ayrıca, [bir müşterinin kendi ürünlerini veya hizmetlerini satın almasını sağlamak için izin verebilir veya kaldırabilirsiniz](give-customers-permission.md).
 
 ## <a name="update-customer-details"></a>Müşteri ayrıntılarını güncelleştirme
 
-1. Veri **İş Ortağı Merkezi** Müşteriler'i **seçin.** Ardından listeden bir müşteri seçin.
+1. **Iş Ortağı Merkezi** menüsünde **müşteriler**' i seçin. Ardından listeden bir müşteri seçin.
 
-2. Müşteri menüsünden Hesap'ı **ve ardından Güncelleştir'i** **seçin.**
+2. Müşteri menüsünden **Hesap** ' ı ve ardından **Güncelleştir**' i seçin.
 
-3. Değişikliklerinizi tamamladikten sonra Gönder'i **seçin.**
+3. Değişikliklerinizi yaptıktan sonra **Gönder**' i seçin.
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-- [Müşterilere kendi İş Ortağı Merkezi hizmetlerini satın almaları için izin verme](give-customers-permission.md)
+- [Iş Ortağı Merkezi 'nde müşterilere kendi ürünlerini veya hizmetlerini satın alma izni verin](give-customers-permission.md)

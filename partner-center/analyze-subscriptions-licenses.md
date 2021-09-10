@@ -1,6 +1,6 @@
 ---
-title: Abonelikleri ve lisansları çözümleme
-description: Abonelik ve lisans Analizi sayfasındaki ölçümleri kullanarak daha fazla ilgilenilmesi gereken başarıları ve bölgeleri nasıl kullanacağınızı öğrenin.
+title: Abonelikleri ve lisansları analiz etme
+description: Başarılarınızı ve daha fazla dikkat gereken alanları belirlemek için Abonelik ve lisans analizi sayfasındaki ölçümleri nasıl kullanabileceğinizi öğrenin.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-insights
 author: amitravat
@@ -9,81 +9,81 @@ ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
 ms.date: 03/31/2021
-ms.openlocfilehash: 3ab138c1159304542b78faa20da635ce85cd97bdbba84b016b860632c537509e
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 393f0ee6c49cbbdf814a823f732bb4b92d4deb2e
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115684859"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123960005"
 ---
-# <a name="analyze-subscriptions-and-licenses-to-help-you-drive-business-decisions-and-new-goals"></a>İş kararlarını ve yeni hedefleri sağlamanıza yardımcı olması için abonelikleri ve lisansları çözümleyin
+# <a name="analyze-subscriptions-and-licenses-to-help-you-drive-business-decisions-and-new-goals"></a>İş kararları ve yeni hedeflere yol a yardımcı olmak için abonelikleri ve lisansları analiz etme
 
-**Uygun roller**: genel yönetici | Kullanıcı Yönetimi Yöneticisi | Yönetici Aracısı | Satış Aracısı
+**Uygun roller:** Genel yönetici | Kullanıcı yönetimi yönetici | Yönetici aracısı | Satış aracısı
 
-Veri sürücüleri iş kararları. Daha fazla ilgilenilmesi gereken başarıları ve alanlarınızı belirlemek için **abonelik ve lisans Analizi** sayfasındaki ölçümleri kullanın. Yeni iş hedeflerini planlarken bu bilgileri kullanın.
+Veriler iş kararlarını verir. Başarılarınızı ve daha fazla **dikkat gereken alanları belirlemek** için Abonelik ve lisans analizi sayfasındaki ölçümleri kullanın. Yeni iş hedeflerini planlarken bu bilgileri kullanın.
 
-**CSP TTM geliri (USD)**: Bu ölçüm, bu CSP hesabının Ilişkilendirildiği ortak konum hesapları ve Iş ortağı genel hesabı (PGA) için son on iki ay (TTM) IÇIN toplanmış CSP faturalanan GELIRI (USD) temsil eder. Farklı bir PGA içeren başka CSP hesaplarınız varsa, ilgili toplanmış TTı gelirini görüntülemek için bunların her birinde oturum açmanız gerekir.  MPN KIMLIĞI başına TTM gelirinin (USD) dökümünü almak için ayrıntıları indir bağlantısına tıklayın.
+**CSP TTM Geliri (USD):** Bu ölçüm, bu CSP hesabının ilişkili olduğu İş Ortağı Konumu Hesapları ve İş Ortağı Genel Hesabı (PGA) için sonda on iki ay boyunca toplanan CSP faturalandır edilen geliri (USD) temsil eder. Farklı bir PGA'ya sahip başka CSP hesaplarınız varsa, karşılık gelen toplam TTM gelirini görüntülemek için her bir hesapta oturum açmanız gerekir.  MPN kimliği başına TTM gelirinin (USD) dökümünü almak için indirme ayrıntıları bağlantısına tıklayın.
 
 >[!NOTE]
->Ticari olarak yerel para birimi fiyatları (eski ticaret FX), ABD Doları +/-5 ' in içinde ile yönetilir. Eski ticari döviz kuru (FX), Azure tarafından modern ticaret deneyiminde kullanılan faturalandırma FX tariflerinden farklıdır. Modern ticaret faturalandırma FX ücretleri, Microsoft P&L tarifelerinin yanı sıra (Hazine akışından oluşan FX ücretleri) temel alır. Eski ticaret FX ücretleri Microsoft gizli.
+>Ticari cinsinden yerel para birimi fiyatları (Eski Ticaret FX) ABD doları cinsinden +/-%5 oranında yönetilir. Eski Ticaret döviz kuru (FX), Modern Ticaret deneyiminde Azure tarafından kullanılan faturalama FX fiyatlarından farklıdır. Modern Ticaret faturalama FX ücretleri, Microsoft P&L fiyatlarına (Hazine akışından Fx fiyatları) göredir. Eski Ticaret FX fiyatları Microsoft'a özeldir.
 
 
-Raporun geri kalanı aşağıdaki ürünlere göre Özet olabilir:
+Raporun geri kalanı aşağıdaki ürünlere göre özet olabilir:
 
- - **Dynamics 365**: Dynamics 365 verileri  
- - **EMS**: Enterprise Management Services verileri  
- - **Microsoft 365**: Microsoft 365 verileri  
- - **Office 365**: Office 365 verileri  
+ - **Dynamics 365:** Dynamics 365 verileri  
+ - **EMS:** Enterprise Management Services verilerini içerir  
+ - **Microsoft 365:** Microsoft 365 verileri  
+ - **Office 365:** Office 365 verileri  
 
 
-## <a name="types-of-subscription-and-license-metrics-you-can-view"></a>Görüntüleyebilmeniz için abonelik ve lisans ölçümlerinin türleri
+## <a name="types-of-subscription-and-license-metrics-you-can-view"></a>Görüntülebilirsiniz abonelik ve lisans ölçümleri türleri
 
 Aşağıdaki ölçümleri izliyoruz:
 
 **Özet**  
- - **Satılan abonelikler**: belirtilen süre boyunca oluşturulan aboneliklerin sayısı  
+ - **Satılan abonelikler:** Belirtilen süre için oluşturulan aboneliklerin sayısı  
   
- - **Satılan lisanslar**: belirtilen zaman dilimi için satılan lisans sayısı  
+ - **Satılan lisanslar:** Belirtilen süre için satılan lisans sayısı  
   
- - **30 gün içinde yenileme aboneliği**: belirtilen zaman dilimi için durumun etkin olduğu ve **Autorenew** 'nin doğru olduğu abonelik sayısı
+ - **30 gün içinde yenilenen** abonelikler: Belirtilen süre boyunca durumun etkin olduğu ve Otomatik yeniden **yenile özelliğinin** true olduğu aboneliklerin sayısı
  
- - **Etkin Abonelikler**: durumun **etkin** olduğu abonelikler  
+ - **Etkin abonelikler:** Durumun Etkin olduğu **abonelikler**  
  
- - **Askıya alınan abonelikler**: askıya alınan aboneliklerin sayısı, bir tarih filtresi yoktur  
+ - **Askıya alınan** abonelikler: Askıya alınan aboneliklerin sayısı, tarih filtresi yok  
 
 **Ürün dökümü**
   
- - **Abonelik sayısı**: satılan aboneliklere göre sıralanan en iyi 5 ürün  
+ - **Abonelik sayısı:** Satılan aboneliklere göre sıralanmış ilk 5 ürün  
  
- - **Lisans sayısı**: satılan lisanslara göre ilk 5 ürün
+ - **Lisans sayısı:** Satılan sıralanmış lisanslara göre ilk 5 ürün
 
-**Abonelik bekletme**
+**Abonelik Saklama**
 
- - **Yenilenen abonelikler**: son 30 gün içinde yenilenen abonelikler  
+ - **Yenilenen abonelikler:** Son 30 gün içinde yenilenen abonelikler  
 
-**Abonelik karmaşıklığı**  
- - **Yeni abonelikler**: deneme teklifleri hariç olmak üzere, zaman aralığı için yeni aboneliklerin sayısı  
+**Abonelik churn**  
+ - **Yeni abonelikler:** Deneme teklifleri hariç olmak üzere zaman dönemi için yeni abonelik sayısı  
  
- - Sağlaması **kaldırılmış abonelikler**: tarihe göre sağlanan veya askıya alınan abonelik sayısı  
+ - **Askıya alınan abonelikler:** Tarihten itibaren yeniden askıya alınan veya askıya alınan aboneliklerin sayısı  
 
 **Askıya alınan abonelikler** 
  
- - Deneme teklifleri hariç **askıya alınmış** durumuna sahip tüm aboneliklerin listesi  
+ - Deneme teklifleri hariç Askıya Alındı **durumuna sahip** tüm aboneliklerin listesi  
   
-**Etkin Abonelikler**
+**Etkin abonelikler**
 
  - Tüm etkin aboneliklerin listesi  
 
 **Deneme aboneliği dönüştürmeleri**  
 
- - **Deneme dönüştürmesi**: deneme süresi belirtilen süre boyunca dönüştürmeye ödenen tüm **etkin** aboneliklerin sayısı  
+ - **Deneme dönüştürme:** Belirtilen süre **boyunca deneme** sürümüne ücretli dönüştürmenin meydana geldiği tüm Etkin aboneliklerin sayısı  
 
 **30 gün içinde biten deneme abonelikleri**  
 
- - Bitiş tarihi 30 gün içinde olan ve abonelikle ilişkili ücretli başlangıç tarihi olmayan, başlatılan denemelerin listesi  
+ - Bitiş tarihi 30 gün içinde olan ve abonelikle ilişkilendirilmiş ücretli başlangıç tarihi olan, başlatan denemelerin listesi  
 
 
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-- [Dolaylı satıcılarınızın performansını çözümleyin](analyze-indirect-resellers.md)
+- [Dolaylı kurumsal bayilerinin performansını analiz etme](analyze-indirect-resellers.md)

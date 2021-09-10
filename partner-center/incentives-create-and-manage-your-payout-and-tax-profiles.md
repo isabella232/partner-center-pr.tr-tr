@@ -8,12 +8,12 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 35210907bfdb45c491cf08c531543b2ea91a2d214bbab085aa1d367e3168ff2a
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: a6d578c2ad09e1f8bb03f520d659f1a9b1e199a9
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115695382"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123960485"
 ---
 # <a name="create-and-manage-incentives-payout-and-tax-profiles-in-partner-center"></a>Iş Ortağı Merkezi 'nde teşvikleri ödeme ve vergi profilleri oluşturma ve yönetme
 
@@ -143,7 +143,7 @@ Banka profilleri, bir şirket düzeyinde oluşturulur. Bu, bir banka profilinin 
 
 ## <a name="create-your-tax-profile"></a>Vergi profilinizi oluşturma
 
-Microsoft'a, kuruluş için gereken vergi bilgilerini sağlamak üzere aşağıdaki yordamı kullanın. Bu bölümdeki sayfalar dinamiktir ve ülkenize veya bölgenize göre değişiklik gösterir. Doğru vergi bilgilerini tanımlamayla ilgili yardıma ihtiyacınız varsa, ülkenizin uygun kamu kaynaklarına ulaşın.
+Microsoft'a, kuruluş için gereken vergi bilgilerini sağlamak üzere aşağıdaki yordamı kullanın. Bu bölümdeki sayfalar dinamiktir ve ülkenize veya bölgenize göre farklılık gösterir. Doğru vergi bilgilerini tanımlamayla ilgili yardıma ihtiyacınız varsa, ülkenizin uygun kamu kaynaklarına ulaşın.
 
 Amerika'daki iş ortağı şirketler için, W8 veya W9 formlarını tamamlama hakkında bilgi gerekirse aşağıdaki adresler sizi IRS sitesine alır:
 
@@ -158,15 +158,15 @@ Amerika'daki iş ortağı şirketler için, W8 veya W9 formlarını tamamlama ha
 2. Kurulum **sayfasında,** şirket için geçerli olan seçeneği belirleyin.
 
    - Sol tarafta, şirketiniz yalnızca şirket içinde yer Birleşik Devletler veya bu profil bir kişiye yönelikse seçeneğini belirleyin.
-   - Şirket, şirket dışı bir şirketse sağ Birleşik Devletler seçin ve sonra listeden ülkenizi/bölgenizi seçin.
+   - Şirket, şirket dışında yer alıyorsa sağ Birleşik Devletler ve ardından listeden ülkenizi/bölgenizi seçin.
 
 3. **İleri**’yi seçin. 
 
 4. Vergi **durumu sayfasında** gerekli bilgileri girin ve ardından Sonraki'yi **seçin.** Bu sayfada yer alan alanlar ülkeye göre değişiklik gösterir. ayrıntılarınızı. 
 
-5. Ek belgeler **sayfasında,** gerekli alanlar ve Ardından'ı **seçin.** 
+5. Ek belgeler **sayfasında** gerekli alanlar'ı seçin ve Ardından'ı **seçin.** 
 
-6. Ülkeniz **veya** bölgeniz için gerekli tüm belgeleri karşıya yüklemek için Gözat'ı seçin. Belge adı gösterildiğinde, belge adını **Upload.** 
+6. Ülkeniz **veya** bölgeniz için gerekli tüm belgeleri karşıya yüklemek için Gözat'ı seçin. Belge adı gösterildiğinde, **Upload.** 
 
 7. Belgeyi kaldırmanız gerekirse Kaldır'ı **seçin.**
 
@@ -178,7 +178,7 @@ Amerika'daki iş ortağı şirketler için, W8 veya W9 formlarını tamamlama ha
 
 1. Panoda [İş Ortağı Merkezi açın](https://partner.microsoft.com/dashboard/)ve ardından dişli simgesini seçerek Ayarlar **açın.**
 
-1. Hesap **ayarları'ı** seçin, **Ödeme ve vergi bölümünü genişletin** ve sonra Ödeme ve vergi **profili'ne tıklayın.**
+1. Hesap **ayarları'ı** seçin, **Ödeme ve vergi bölümünü genişletin** ve ardından Ödeme ve vergi **profili'ne tıklayın.**
 
 1. Vergi **profili'ne tıklayın.**
 

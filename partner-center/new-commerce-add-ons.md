@@ -10,11 +10,11 @@ ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 539aa939d980f7b40abc44789a08d153a8abdfaa
-ms.sourcegitcommit: 09d2c10491244775e656b48fce35b5648262ce59
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/03/2021
-ms.locfileid: "123458317"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123961444"
 ---
 # <a name="introduction-new-commerce-add-ons"></a>Giriş: Yeni Ticari Eklentiler
 

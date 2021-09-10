@@ -10,11 +10,11 @@ ms.author: rbars
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 7ca839abb193f09d37769e14eedf08ea415e902f
-ms.sourcegitcommit: 09d2c10491244775e656b48fce35b5648262ce59
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/03/2021
-ms.locfileid: "123458316"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123961024"
 ---
 # <a name="new-commerce-experience-for-license-based-services"></a>Lisans tabanlı hizmetler için yeni ticaret deneyimi
 

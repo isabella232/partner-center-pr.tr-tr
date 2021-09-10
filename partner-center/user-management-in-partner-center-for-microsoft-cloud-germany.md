@@ -1,7 +1,7 @@
 ---
-title: Kullanıcı-Lisans Yönetimi
+title: Kullanıcı - lisans yönetimi
 titleSuffix: Microsoft Cloud Germany - Partner Center
-description: Microsoft Bulut Almanya iş ortakları, müşteriler ve lisanslar için Iş Ortağı Merkezi 'nin yanı sıra parola sıfırlamaları hakkında bilgi edinin.
+description: Microsoft Bulut Almanya iş ortakları, İş Ortağı Merkezi lisansları ve parola sıfırlamaları için nasıl ve nerede yöneteceklerini öğrenin.
 ms.topic: article
 ms.date: 06/30/2020
 ms.service: partner-dashboard
@@ -10,47 +10,47 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 014c9936159860b652ec64efafddbc783372c630c3d00eb689f6aabe3d214ea6
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 95a7c56bc8d20d86379637e7ed3e7499b941a079
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115681187"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123960774"
 ---
-# <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-germany"></a>Microsoft Bulut Almanya için Iş Ortağı Merkezi 'nde Kullanıcı ve lisans yönetimi
+# <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-germany"></a>Microsoft Bulut Almanya için İş Ortağı Merkezi ve lisans yönetimi
 
-**Uygulama hedefi**: Microsoft bulut Almanya için Iş Ortağı Merkezi
+**Için geçerlidir:** İş Ortağı Merkezi Için Microsoft Bulut Almanya
 
-**Uygun roller**: genel yönetici | Hesap Yöneticisi
+**Uygun roller:** Genel yönetici | Hesap yöneticisi
 
 > [!IMPORTANT]
-> Müşterilerin ihtiyaçlarına bağlı olarak, Almanya için bulut stratejimiz, genel bulut teklifimiz ile tutarlı olan Almanya 'daki yeni bulut bölgelerinin teslimatını odaklamaktadır. Bu odak noktasıyla, artık şu anda kullanılabilen Microsoft Bulut Almanya'da yeni müşteri kabul etmeyecek veya yeni hizmet dağıtmayacağız. Mevcut müşteriler bugün kullanılabilen geçerli bulut hizmetlerini kullanmaya devam edebilir. Bu hizmetleri gerekli güvenlik güncelleştirmeleriyle koruyacağız.
+> Müşterilerin ihtiyaçlarına göre Almanya için bulut stratejimiz, küresel bulut teklifimizle tutarlı olan yeni bulut bölgelerinin Almanya'da teslimi üzerine odaklanacak. Bu odak noktasıyla, artık şu anda kullanılabilen Microsoft Bulut Almanya'da yeni müşteri kabul etmeyecek veya yeni hizmet dağıtmayacağız. Mevcut müşteriler bugün kullanılabilen geçerli bulut hizmetlerini kullanmaya devam edebilir. Bu hizmetleri gerekli güvenlik güncelleştirmeleriyle koruyacağız.
 >  
-> İleri doğru hareket eden yeni müşteriler kullanılabilir hale geldiğinde mevcut Avrupa bölgelerini veya Almanya 'daki yeni bölgeleri kullanma seçeneğine sahiptir. Daha fazla bilgi için bkz. [Microsoft bulut hizmetlerini Almanya'da yeni veri merkezlerinden sağlıyor](https://news.microsoft.com/europe/2018/08/31/microsoft-to-deliver-cloud-services-from-new-datacentres-in-germany-in-2019-to-meet-evolving-customer-needs/).
+> Daha sonra yeni müşteriler, kullanılabilir olduğunda şu anda kullanılabilir olan Avrupa bölgelerini veya Almanya'daki yeni bölgeleri kullanma seçeneğine sahip olur. Daha fazla bilgi için bkz. [Microsoft bulut hizmetlerini Almanya'da yeni veri merkezlerinden sağlıyor](https://news.microsoft.com/europe/2018/08/31/microsoft-to-deliver-cloud-services-from-new-datacentres-in-germany-in-2019-to-meet-evolving-customer-needs/).
 
-Kişilerin verilerinin toplanması ve kullanımını ve temel uluslararası standartları yöneten Alman yasaları ve yönetmelikleriyle uyum sağlamak için, Microsoft Bulut Almanya için Iş Ortağı Merkezi 'nde aşağıdaki Kullanıcı ve lisans yönetimi özellikleri kullanılamaz. bunun yerine, Microsoft Bulut almanya veya Office 365 yönetim merkezi için Azure portal kullanıcıları ve lisansları ekleyin ve yönetin.
+Kişilerin verilerini toplama ve kullanmanın yanı sıra önemli uluslararası standartları yöneten Almanya yasalarına ve düzenlemelerine uymak için, aşağıdaki kullanıcı ve lisans yönetimi özellikleri Microsoft Bulut Almanya'İş Ortağı Merkezi'da kullanılamaz. Bunun yerine, Microsoft Bulut Almanya'ya veya Azure portal merkezi'ne kullanıcı ve lisansları Office 365 ve yönetin.
 
-Özellik veya yetenek | İçindeki görevleri tamamlanma
+Özellik veya özellik | içinde görevleri tamamlama
 :--- | :---
-İş ortağı Kullanıcı Yönetimi | Microsoft Bulut almanya yönetici portalı için Office 365 yönetim merkezi veya Azure
-Müşteri Kullanıcı Yönetimi | Microsoft Bulut almanya yönetici portalı için Office 365 yönetim merkezi veya Azure
-Kullanıcı parolasını sıfırlama | Microsoft Bulut Almanya için Azure Yönetici portalı
-Lisans yönetimi | Office 365 yönetim merkezi veya Microsoft Bulut almanya Azure Active Directory lisanslama portalı
+İş ortağı kullanıcı yönetimi | Office 365 merkezi veya Microsoft Bulut Almanya için Azure yönetici portalı
+Müşteri kullanıcı yönetimi | Office 365 merkezi veya Microsoft Bulut Almanya için Azure yönetici portalı
+Kullanıcı parolasını sıfırlama | Microsoft Bulut Almanya için Azure yönetici portalı
+Lisans yönetimi | Office 365 merkezi veya Microsoft Bulut Almanya Azure Active Directory Portalı
 
-## <a name="how-to-manage-users-in-the-azure-portal-for-microsoft-cloud-germany"></a>Microsoft Bulut Almanya için Azure portal kullanıcıları yönetme 
+## <a name="how-to-manage-users-in-the-azure-portal-for-microsoft-cloud-germany"></a>Microsoft Bulut Almanya için Azure portal'da kullanıcıları yönetme 
 
-Microsoft Bulut Almanya için Iş Ortağı Merkezi 'nde oturum açtıysanız, yeniden oturum açmak zorunda kalmadan Microsoft Bulut Almanya Azure portal açabilirsiniz. Ancak, Microsoft Bulut Almanya için doğrudan Azure portal oturum açmanız gerekiyorsa, adresine gidin [https://portal.microsoftazure.de](https://portal.microsoftazure.de) . 
+Microsoft Bulut Almanya'İş Ortağı Merkezi oturum açtıysanız, yeniden oturum açmak Azure portal Microsoft Bulut Almanya için oturum açabilirsiniz. Ancak, Microsoft Bulut Almanya için doğrudan Azure portal oturum açmanız gerekirse, [https://portal.microsoftazure.de](https://portal.microsoftazure.de) gidin. 
 
-Microsoft Bulut almanya için Azure portal başarıyla oturum açtıktan sonra, Azure Active Directory (Azure AD) genel bakış sayfasını açın ve ardından bu makalelerdeki yönergeleri izleyin:
+Microsoft Bulut Almanya için Azure portal başarıyla oturum açtıktan sonra, Azure Active Directory (Azure AD) genel bakış sayfanızı açın ve aşağıdaki makalelerde verilen yönergeleri izleyin:
 
 > [!NOTE]  
-> Aşağıdaki bağlantıların seçilmesi sizi farklı bir Web sitesine götürür.
+> Aşağıdaki bağlantıların seçerek farklı bir web sitesine gidin.
 
 -  [Azure Active Directory'ye yeni kullanıcı ekleme](/azure/active-directory/active-directory-users-create-azure-portal)
 
 -  [Azure Active Directory’de kullanıcılara yönetici rolü atama](/azure/active-directory/active-directory-users-assign-role-azure-portal)
 
--  [Azure Active Directory Kullanıcı parolasını sıfırlama](/azure/active-directory/active-directory-users-reset-password-azure-portal)
+-  [Azure Active Directory'de bir kullanıcının parolasını sıfırlama](/azure/active-directory/active-directory-users-reset-password-azure-portal)
 
 ## <a name="next-steps"></a>Sonraki adımlar
 

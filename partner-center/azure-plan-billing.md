@@ -1,5 +1,5 @@
 ---
-title: Azure planı faturalaması - & mutabakat dosyaları
+title: Azure planı faturalaması - fatura & mutabakat dosyaları
 ms.topic: article
 ms.date: 05/19/2021
 ms.service: partner-dashboard
@@ -10,11 +10,11 @@ ms.author: sakhanda
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 5300f32dc7784a4a4c521db70513ba4b9f21a854
-ms.sourcegitcommit: a0afd7765a1a04dc603e096510fd9c138238a7cb
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/23/2021
-ms.locfileid: "122681891"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123959944"
 ---
 # <a name="new-commerce-experience-in-csp---azure-billing"></a>CSP'de yeni ticari deneyim - Azure faturalama 
 
@@ -24,7 +24,7 @@ Bu makalede, Azure planının faturalaması ile ilgili fatura ve mutabakat dosya
 
 ## <a name="summary-of-billing-essentials"></a>Faturalama temellerinin özeti
 
-- **Fatura tarihi:** Fatura ve mutabakat dosyası, 8 İş Ortağı Merkezi (gece yarısı UTC) kadar panoda/API'de kullanılabilir.
+- **Fatura tarihi:** Fatura ve mutabakat dosyası, İş Ortağı Merkezi (gece yarısı UTC) kadar panoda/API'de kullanılabilir.
 
 - **Fatura faturalama dönemi:** Fatura faturalama dönemi takvim ayıyla hizalanır; örneğin, 10/1-10/31, 11/1-11/30.
 
@@ -108,9 +108,9 @@ Fatura ve mutabakat dosyasına erişmek için:
 
 1. Her Azure planı ve ölçüm bileşimi, mutabakat dosyasında en fazla iki faturalama satırına sahip olabilir.
 
-2. Ölçüm, takvim ayı boyunca herhangi bir türde indirim veya krediye (katmanlı indirimler veya yönetilen hizmetler için İş ortağı tarafından kazanılan kredi gibi) uygunsa mutabakat dosyasında yalnızca bir faturalama satırı yer alır. **PriceAdjusmentDescription sütunu indirime** veya kazanılan krediye başvurur.
+2. Ölçüm, takvim ayı boyunca tüm takvim ayı boyunca herhangi bir türde indirim veya krediye (katmanlı indirimler veya yönetilen hizmetler için İş ortağı tarafından kazanılan kredi gibi) uygunsa mutabakat dosyasında yalnızca bir faturalama satırı vardır. **PriceAdjusmentDescription sütunu indirime** veya kazanılan krediye başvurur.
 
-3. İndirim veya iş ortağı tarafından kazanılan kredi için uygun olan belirli bir ölçüm için kaynak yoksa mutabakat dosyasında yalnızca bir faturalama satırı yer alır ve geçerli birim fiyat perakende fiyatı (birim fiyattır) olur.
+3. İndirim veya iş ortağı tarafından kazanılan kredi için uygun olan belirli bir ölçüm için kaynak yoksa, mutabakat dosyasında yalnızca bir faturalama satırı ve geçerli birim fiyat perakende fiyatı (birim fiyat) olur.
 
 4. Ölçüm veya ölçümü yayan herhangi bir kaynak,  ayın bir parçası için yönetilen hizmetler için İş ortağı tarafından kazanılan kredi için uygunsa, mutabakat dosyasında iki faturalama satırı yer alacak. Bir satır ölçümün uygun olduğu günleri, ikinci satır ise ölçümün uygun olduğu günleri temsil edecek.
 
@@ -123,11 +123,11 @@ Fatura ve mutabakat dosyasına erişmek için:
 
 - **Yönetilen hizmetler için iş ortağı tarafından kazanılan** kredi, günlük olarak belirlenir ve uygulanır.
 
-- Her abonelik ölçüm, tüketim yapılan ayın her günü için bir satıra sahip olur.
+- Her abonelik ölçüm, tüketimin olduğu ayın her günü için bir satıra sahip olur.
 
 - Aşağıdaki örnekte:
 
-  - **1-7/3** arasında yönetilen hizmetler için İş ortağı tarafından kazanılan kredi için uygun ölçüm (geçerli birim fiyatın perakende fiyatı, iş ortağı tarafından kazanılan krediden daha az olduğunu unutmayın.
+  - **1-7/3** arasında yönetilen hizmetler için İş ortağı tarafından kazanılan kredi için uygun ölçüm (geçerli birim fiyatın perakende fiyatı, iş ortağı tarafından kazanılan krediden daha düşük olduğunu unutmayın.
 
   - Ölçüm, **7/4** - 7/7 arasında yönetilen hizmetler için İş ortağı tarafından kazanılan kredi için uygun değildi (geçerli birim fiyatın perakende fiyatı olduğunu unutmayın).
 
@@ -155,7 +155,7 @@ Mevcut Azure harcama deneyimi, azure'da yeni Azure planı faturalaması desteği
 
 - Müşteri düzeyinde ayarlanmış bütçe uyarılarını görüntüleme, yönetme ve alma 
 
-- Azure planında toplam tahmini harcamayı görüntüleme (kaynağa ve ölçüm düzeyine göre aşağı doğru)
+- Azure planında toplam tahmini harcamayı görüntüleme (kaynağa ve ölçüm düzeyine göre)
 
 Azure planı aracılığıyla Azure hizmetlerinin faturalama modeli ödeme sonrası tüketim olduğundan, beklenenden daha büyük bir faturayı önlemek için iş ortakları aylık bütçe uygulayabilir ve kullanım yüzdesini izleyebilir. Bütçe bir defada bir müşteriye veya birden çok müşteriye uygulanabilir. 
 
@@ -163,8 +163,8 @@ Azure planı aracılığıyla Azure hizmetlerinin faturalama modeli ödeme sonra
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-- İş ortağı tarafından kazanılan kredinin (PEC) nasıl hesaplanmasına bakın. İş Ortağı Merkezi [oturum açın](https://partner.microsoft.com/dashboard/) ve kullanılabilir fiyat listesini bulun.
+- İş ortağı tarafından kazanılan kredinin (PEC) nasıl hesaplanmasına bakın. Iş Ortağı Merkezi [panosunda](https://partner.microsoft.com/dashboard/) oturum açın ve kullanılabilir fiyat listesini bulun.
 
-- Azure planını [satın alma hakkında bilgi edinin](purchase-azure-plan.md)
+- [Azure planını satın alma](purchase-azure-plan.md) hakkında bilgi edinin
 
-- [CSP'de yeni ticaret deneyimi için fiyat listesine bakın](azure-plan-price-list.md)
+- [CSP 'de yeni ticaret deneyimi için fiyat listesine](azure-plan-price-list.md) bakın

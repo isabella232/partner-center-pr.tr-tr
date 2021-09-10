@@ -9,12 +9,12 @@ ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
 ms.date: 08/06/2020
-ms.openlocfilehash: 0a417d11c462884463184dff18b71f5cefafeb0b3567e33b36bc301c35ac9d8d
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 112296baffe38b81a1a0516e62fa31525d1e3b3d
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115680711"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123959994"
 ---
 # <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-partner-center"></a>iş ortağı merkezi 'nde müşterileriniz adına Microsoft Azure ayırmaları satın alın
 
@@ -94,7 +94,7 @@ Müşterileriniz adına Azure ayırmaları satın almadan önce aşağıdaki ön
 
 ## <a name="purchase-azure-reservations"></a>Azure rezervasyonları satın alma
 
-Aşağıdaki adımları takip edin ve Microsoft Azure müşteri adına rezervasyon satın İş Ortağı Merkezi. (Müşterilerin, onlar için satın aldığınız önceki Bir Azure aboneliğinden kendi Azure rezervasyonlarını satın alamalarını istiyor musunuz? Bkz. [Müşterilere kendi Azure rezervasyonlarını satın alma izni verme.)](give-customers-permission.md)
+Aşağıdaki adımları takip edin ve Microsoft Azure rezervasyonları müşterileriniz adına satın İş Ortağı Merkezi. (Müşterilerin, onlar için satın aldığınız önceki bir Azure aboneliğinden kendi Azure rezervasyonlarını satın alamalarını istiyor musunuz? Bkz. [Müşterilere kendi Azure rezervasyonlarını satın alma izni verme.)](give-customers-permission.md)
 
 1. İş Ortağı Merkezi  menüsünden Müşteriler'i seçin.  
 
@@ -108,7 +108,7 @@ Aşağıdaki adımları takip edin ve Microsoft Azure müşteri adına rezervasy
 
     c. Rezervasyon türü listesinden müşterinin istediği rezervasyon **türünü** seçin.
 
-4. Azure rezervasyonları etkin bir Azure aboneliğiyle ilişkili olması gerekir. Müşteri aboneliği listesinden Azure rezervasyonlarını eklemek istediğiniz müşterinin **aboneliğini** seçin. 
+4. Azure rezervasyonlarının etkin bir Azure aboneliğiyle ilişkilendirilmiş olması gerekir. Müşteri aboneliği listesinden Azure rezervasyonlarını eklemek istediğiniz müşterinin **aboneliğini** seçin. 
 
    >[!IMPORTANT]
    >Müşterinin etkin bir Azure aboneliği yoksa Şimdi eklemek için **Azure'ı** seçin. 
@@ -123,22 +123,22 @@ Aşağıdaki adımları takip edin ve Microsoft Azure müşteri adına rezervasy
 
     - Ayrılmış örnek miktarını doğrulayın veya değiştirme.
 
-    - Rezervasyonun kapsamını seçin. Rezervasyonun kapsamı bir veya birden çok aboneliği (paylaşılan kapsam) kapsıyor olabilir. Rezervasyonun kapsamını tek bir abonelik olarak kapsamına asanız, rezervasyon indirimi yalnızca bu aboneliğe uygulanır. Paylaşılan'ı seçmeniz durumunda rezervasyon indirimi müşterinin faturalama bağlamındaki tüm aboneliklere uygulanır. 
+    - Rezervasyonun kapsamını seçin. Rezervasyonun kapsamı bir aboneliği veya birden çok aboneliği (paylaşılan kapsam) kapsıyor olabilir. Rezervasyonun kapsamını tek bir abonelik olarak kapsamına asanız, rezervasyon indirimi yalnızca bu aboneliğe uygulanır. Paylaşılan'ı seçmeniz durumunda rezervasyon indirimi müşterinin faturalama bağlamındaki tüm aboneliklere uygulanır. 
 
       >[!NOTE] 
       >Rezervasyonun kapsamını tek bir Azure aboneliğiyle sınırlamayı tercih ediyorsanız aboneliğin vCPU kotasını artırmanız gerekir. Aboneliğin vCPU kotasını artırmak için abonelikte bir destek isteği Azure portal. İsteği oluşturmak [için bu konudaki](/azure/azure-supportability/resource-manager-core-quotas-request) yönergeleri izleyin. 
 
       >[!NOTE]   
-      >Müşteriniz Azure planı kapsamında ise **Kapsam,** Paylaşılan olarak **ayarlanır.** 
+      >Müşteriniz Azure planı kapsamında ise **Kapsam, Paylaşılan** olarak **ayarlanır.** 
 
     - Sağlayıcı iş ortağıysanız ürünle ilişkilendirmek istediğiniz kurumsal bayiyi seçin.
     
     - Azure rezervasyonunuz Faturalama planı seçeneğini destekliyorsa açılan menüden faturalama sıklığını aylık olarak seçebilirsiniz. 
-    - Azure rezervasyonunuz Faturalama planı seçeneğini desteklemezse, faturalama sıklığınız varsayılan olarak bir kez faturalama olur. 
+    - Azure rezervasyonunuz Faturalama planı seçeneğini desteklemezse faturalama sıklığınız varsayılan olarak bir kez faturalama olur. 
 
-9. Siparişi **satın almak** için Satın Al'ı seçin. Sipariş numaranız da dahil olmak üzere siparişinizin ayrıntıları Onayla **sayfasında** görüntülenir. Sipariş **geçmişi** sayfanıza gitmek için **Bitti'yi** seçin. 
+9. Siparişi **satın almak** için Satın Al'ı seçin. Sipariş numaranız da dahil olmak üzere siparişinizin ayrıntıları Onayla **sayfasında** görüntülenir. **Bitti'yi** seçerek Sipariş **geçmişi sayfanıza** gidin. 
 
-10. Müşterinin rezervasyonunu Azure portal için Müşteriler sayfasında müşteriyi bulun  ve aşağı oku seçerek müşterinin satırı genişletin. **Microsoft Azure Yönetim Portalı'yi** seçerek müşterinin kaydını Azure portal.
+10. Müşterinin rezervasyonunu Azure portal için Müşteriler sayfasında müşteriyi bulun ve  aşağı oku seçerek müşterinin satırı genişletin. **Microsoft Azure Yönetim Portalı'ı** seçerek müşterinin kaydını Azure portal.
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
@@ -147,5 +147,5 @@ Aşağıdaki adımları takip edin ve Microsoft Azure müşteri adına rezervasy
 |CSP'de Azure rezervasyonları genel bakış  | [Ayrılmış Microsoft Azure Satış](azure-reservations.md) |
 |Azure rezervasyonlarını İş Ortağı Merkezi | [Azure rezervasyonlarını İş Ortağı Merkezi](azure-reservations-manage.md)
 |Doğru VM boyutunu belirleme ve müşteri VM kullanımını doğrulama   |[Maksimum Azure rezervasyon kullanımı için VM boyutlandırması](azure-usage.md)   |
-|İş Ortağı Merkezi API'sini kullanarak Azure rezervasyonları satın alma | [Geliştirici Azure Ayrılmış VM Örnekleri](/partner-center/develop/purchase-azure-reservations) belgelerinde İş Ortağı Merkezi satın alma   |
+|İş Ortağı Merkezi API'sini kullanarak Azure rezervasyonları satın alma | [İş Ortağı Merkezi geliştirici](/partner-center/develop/purchase-azure-reservations) belgelerinde Azure Ayrılmış VM Örnekleri satın alma   |
 |Müşterilere kendi Azure rezervasyonlarını satın alma izni verme  | [Müşterilere kendi Azure rezervasyonlarını satın alma izni verme](give-customers-permission.md)  |

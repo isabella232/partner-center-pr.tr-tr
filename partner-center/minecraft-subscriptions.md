@@ -8,12 +8,12 @@ description: daha sonra Microsoft eğitim mağazasından indirebilen uygun eğit
 author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
-ms.openlocfilehash: 9ece551c2ce29ca24607611252889b5df397447dd49f3f795f6ac42ed2a6b3e1
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 86efabf41d8a1d22b08a7e2ceae5fb47e2bd42c0
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115694107"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123960624"
 ---
 # <a name="sell-minecraft-education-edition-subscriptions-to-education-customers"></a>eğitim müşterilerine Minecraft: Education Edition abonelikleri satma
 

@@ -9,12 +9,12 @@ author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 37e7a4489dd4fce7c44191325f75b0791f2d6c8edee5985566c8108c8cd4c98a
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: e25f7856ab2f577c6d8f553d6a360251c116093a
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115695110"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123960595"
 ---
 # <a name="use-apis-for-automated-service-notifications-for-azure-insights--office-365-service-communications"></a>Azure Analizler & Office 365 hizmet iletişimleri için otomatik hizmet bildirimleri için apı 'leri kullanma
 

@@ -1,31 +1,31 @@
 ---
 title: Bölgeye göre ödeme ayrıntıları - Microsoft ticari market
-description: Ödeme zaman çerçeveleri ve ödeme alabiliyorsanız Microsoft çevrimiçi mağazaları hakkında bilgi alın. Bunlar ülkenize, bölgenize ve ödeme hesabı türüne göre değişiklik gösterebilir.
+description: Ödeme zaman çerçeveleri ve ödeme alabiliyorsanız Microsoft çevrimiçi mağazaları hakkında bilgi alın. Bunlar ülkenize, bölgenize ve ödeme hesabı türüne göre farklılık gösterebilir.
 author: eunjkim520
 ms.author: eunjkim
 ms.service: marketplace
 ms.subservice: partnercenter-marketplace-publisher
 ms.topic: conceptual
 ms.date: 02/02/2021
-ms.openlocfilehash: 43b4cea49d5a716a5ca1e9bf397fcc105e4d6fc23c1924e537c05ac1d2ee1728
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 51b2ca2ce98789b41014597efd695fc61e7cbada
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115694243"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123960484"
 ---
 # <a name="payment-thresholds-methods-and-time-frames"></a>Ödeme eşikleri, yöntemleri ve zaman çerçeveleri
 
-Ödemeleri aktarma tahmini süresi ve ödemeleri gönderebilirsiniz çevrimiçi mağazalar ülkenize/bölgenize ve ödeme hesabı türüne bağlı olarak değişebilir. Bu makalede, her ülkede ve bölgede desteklenen ödeme yöntemleri özetlemektedir.
+Ödemeleri aktarma tahmini süresi ve ödemeleri gönderebilirsiniz çevrimiçi mağazalar, ülkenize/bölgenize ve ödeme hesabı türüne bağlı olarak değişebilir. Bu makalede, her ülkede ve bölgede desteklenen ödeme yöntemleri özetlemektedir.
 
-Herhangi bir ülke ve bölge için ACH/SEPA veya havale kullanarak ödeme biz öderiz. Bazı ülkeler ve bölgeler, PayPal yöntemi olarak da desteklemektedir.
+Herhangi bir ülke ve bölge için ACH/SEPA veya havale kullanarak ödeme biz öderiz. Bazı ülkeler ve bölgeler de PayPal yöntemi olarak desteklemektedir.
 
 > [!NOTE]
 > Bir işlem gerçekleştikten sonra Microsoft'un ticari market için ödemelerde ne zaman sorun olduğu hakkında daha fazla bilgi için bkz. [Ödeme ilkesi ayrıntıları.](payout-policy-details.md)
 
 ## <a name="number-of-days-for-payments-to-reach-payout-account"></a>Ödeme hesabına ulaşacak ödemelerin gün sayısı
 
-Genellikle, ilgili ayın 15. günü kadar, verilen bir ay içinde ödenmesini gerektirecek tüm ödemeleri göndeririz. Ancak ödemenin hesabınıza ulaşması ek zaman alır. Gün sayısı, hesabınız için kullanılan ödeme yöntemine bağlı olarak aşağıda açıklandığı gibi farklılık gösterir.
+Genellikle, ilgili ayın 15. günü kadar, verilen bir ay içinde ödenmesini gerektirecek tüm ödemeleri göndeririz. Ancak ödemenin hesabınıza ulaşması ek zaman alır. Gün sayısı, aşağıda açıklandığı gibi hesabınız için kullanılan ödeme yöntemine bağlı olarak değişir.
 
 | Ödeme yöntemi | Hesaba ulaşmak için yaklaşık gün sayısı |
 | --- | --- |
@@ -35,7 +35,7 @@ Genellikle, ilgili ayın 15. günü kadar, verilen bir ay içinde ödenmesini ge
 | | |
 
 >[!NOTE]
->Döviz kurlarında yaşanan değişiklikler nedeniyle, tam satış tutarı bir para biriminden diğerine biraz farklılık gösterebilir. Exchange fiyatları aylık olarak hesaplanır. İşlemnizin ne zaman gerçekleştiklerine bağlı olarak uygun döviz kuru uygulanır. Döviz kuru ve zorlamakta olduğu tarih oranı, sırasıyla exchangeRate ve exchangeRateDate sütunlarında ödeme raporunuz üzerinde belirtilmiştir.
+>Döviz kurlarında yaşanan değişiklikler nedeniyle, tam satış tutarı bir para biriminden diğerine biraz farklılık gösterebilir. Exchange fiyatları aylık olarak hesaplanır. İşlemnizin ne zaman gerçekleştiklerine bağlı olarak, uygun döviz kuru uygulanır. Döviz kuru ve zorlamakta olduğu tarih oranı, sırasıyla exchangeRate ve exchangeRateDate sütunlarında ödeme raporunuz üzerinde belirtilmiştir.
 
 
 ## <a name="payment-methods-in-countries-and-regions"></a>Ülkelerde ve bölgelerde ödeme yöntemleri
@@ -82,7 +82,7 @@ Bunlar, her market için yukarıdaki ödeme yöntemlerinin kullanılan ülkeler 
 | Fildişi Sahili (Côte d’Ivoire) | Yes | Yes | Yes | Hayır |
 | Hırvatistan | Yes | Yes | Yes | Hayır |
 | Kıbrıs | Yes | Yes | Yes | Yes |
-| Czechia | Yes | Yes | Yes | Yes |
+| Çekya | Yes | Yes | Yes | Yes |
 | Danimarka | Yes | Yes | Yes | Yes |
 | Dominika | Yes | Yes | Hayır | Yes |
 | Dominik Cumhuriyeti | Yes | Yes | Yes | Yes |

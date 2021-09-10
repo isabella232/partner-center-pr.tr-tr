@@ -9,12 +9,12 @@ author: vinayks
 ms.author: vinayks
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a082e661cef28cf246dd742073efbc87487c4cdde694ddeb73958d9618c7a42a
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: d2888a8deffffa3b281ca088696184fdb52376be
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115691183"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123960785"
 ---
 # <a name="verify-your-domain-ownership-to-become-global-admin"></a>Genel yönetici olmak için etki alanının sahibi olduğunuzu doğrulayın 
 

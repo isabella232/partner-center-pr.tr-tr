@@ -9,18 +9,18 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f8bf7c71a8309925e3a94b50b53264164df5bd82db8ae0e6a8a62a339d6eb9a9
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: a2085713f1fef474dd26cb66a30a37f701789859
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115697236"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123961075"
 ---
 # <a name="set-check-or-remove-monthly-azure-spending-budgets-for-customers-in-partner-center"></a>Azure'daki müşteriler için aylık Azure harcama bütçelerini ayarlama, denetleme veya İş Ortağı Merkezi
 
 **Uygun roller:** Yönetici aracısı
 
-[Azure'da müşterileriniz için aylık Bir Azure harcama bütçesi](#set-azure-spending-budget) İş Ortağı Merkezi. Bu, müşterilerinize Azure harcamalarını yönetmeye yardımcı olur. Bu seçenek, müşterinizin Azure harcamalarını ay boyunca bütçeyle karşılaştırmanızı sağlar. Ayrıca, müşterilerin aylık faturalarının beklenenden yüksek olması için Azure harcamaları için bütçelerini düzenlemelerine de yardımcı olur.
+[Azure'da müşterileriniz için aylık Bir Azure harcama bütçesi](#set-azure-spending-budget) İş Ortağı Merkezi. Bu, müşterilerinize Azure harcamalarını yönetmeye yardımcı olur. Bu seçenek, müşterinizin Azure harcamalarını ay boyunca bütçeyle karşılaştırmanızı sağlar. Ayrıca, müşterilerin aylık faturalarının beklenenden yüksek olması için Azure harcamalarını bütçelerine göre düzenlemelerine de yardımcı olur.
 
 > [!NOTE]  
 > Bu özellik korumalı alan veya Üretimde Test (TIP) hesaplarında kullanılamaz.
@@ -37,9 +37,9 @@ Ayrıca, [müşteriler için azure harcama](#remove-azure-spending-budget) büt�
 
 ## <a name="azure-spending-data"></a>Azure harcama verileri
 
-Azure harcama verileri bir *tahmindir ve* *gerçek faturalama tutarları değişiklik gösterebilir.* Verilerin değeri *vergileri, kredileri,* düzeltmeleri veya uygulanabilecek diğer ücretleri yansıtmaz.
+Azure harcama verileri bir *tahmindir ve* *gerçek faturalama tutarları değişiklik gösterebilir.* Verilerin değeri *vergileri, kredileri,* düzeltmeleri veya geçerli olan diğer ücretleri yansıtmaz.
 
-Harcama verileri günde *bir kez yenilenir.* Azure hizmetleri ve kaynakları, azure hizmetlerinde hesap ayarlarını değiştirmedikçe müşterileriniz azure hizmetlerini kullanmaya (ve ücret ödemeye) Azure portal.
+Harcama verileri günde *bir kez yenilenir.* Müşterileriniz, azure hizmet ve kaynaklarını kullanmadıkça (ve ücret ödemeye) devam edebilirsiniz. Bu işlemden sonra da azure Azure portal.
 
 ## <a name="set-azure-spending-budget"></a>Azure harcama bütçesini ayarlama
 
@@ -77,7 +77,7 @@ Müşterinizin *aylık Azure harcama bütçesini* şu şekilde İş Ortağı Mer
 
 2. **CSP'nin** altındaki sol menüde **Azure harcaması'ı seçin.**
 
-3. Azure harcama **sayfasındaki** **Abonelikleri Microsoft Azure** altında, bütçesini kaldırmak istediğiniz müşterileri seçin.
+3. Azure **harcaması** sayfasındaki **Abonelikleri Microsoft Azure** altında, bütçesini kaldırmak istediğiniz müşterileri seçin.
 
 4. Bütçeyi **kaldır'ı seçin.**
 
@@ -101,7 +101,7 @@ Müşterinizin *aylık harcaması bütçe* sınırına yaklaşacaksa e-posta bil
 
 3. **Tercihlerim'i seçin.**
 
-4. Tercih edilen bir e-posta adresi yapılandırmadısanız.
+4. Tercih edilen e-posta adresini yapılandırmadıysanız, bu adresi yapılandırma.
 
 5. Bildirim için tercih edilen dili yapılandırma.
 

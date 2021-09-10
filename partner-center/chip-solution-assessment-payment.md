@@ -2,19 +2,19 @@
 title: Çözüm değerlendirmesi ödeme durumu
 ms.topic: how-to
 ms.date: 11/09/2020
-description: Çözüm Değerlendirmesi fırsatları, hesaplamaları ve ödeme durumları hakkında bilgi bulmak için Channel Incentives Platform'unu (CHIP) kullanın.
+description: Çözüm Değerlendirmesi fırsatları, hesaplamaları ve ödeme durumları hakkında bilgi bulmak için Kanal Teşvikleri Platformu'na (CHIP) bakın.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5443dedfcae17152b51df7aa021d900b2f61892509c85ba3c2ba99cb0b9b3a8d
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 4184d155ceff22a34e1a85d2909f4e1b17a46daa
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115692679"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123961245"
 ---
 # <a name="solution-assessment-payment-status-and-calculation-info"></a>Çözüm Değerlendirmesi ödeme durumu ve hesaplama bilgileri
 

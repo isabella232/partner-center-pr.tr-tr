@@ -1,57 +1,57 @@
 ---
-title: Azure tüketim taahhüdü avantajı - Azure Market
-description: Microsoft Azure tüketim taahhüdü (MACC) hakkında bilgi edinin, kurumda Azure avantajına uygun teklif Azure portal olup olmadığını belirleme.
+title: Azure tüketim taahhüt avantajı-Azure Marketi
+description: Microsoft Azure tüketim taahhüdü (macc) hakkında bilgi edinin, kuruluşunuzun Azure avantajına uygun olan Azure portal tekliflerini nasıl bulacağını nasıl belirleyebileceğinizi öğrenin.
 ms.prod: marketplace-customer
 ms.topic: article
 author: mingshen
 ms.author: mingshen
 ms.date: 6/02/2021
-ms.openlocfilehash: 17e57e2dec962fbbd65b778cdcd078a64b29627e1e20c4dbca0b4c1a26ec2808
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: ea6683c3033b25110784896eea0ac85083b8ed9e
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115686693"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123936921"
 ---
 # <a name="azure-consumption-commitment-benefit"></a>Azure tüketim taahhüdü avantajı
 
-Belirli bir Microsoft ticari market teklifi kümesi, kuruluşta şu sözleşmelerden biri varsa Microsoft Azure tüketim taahhüdüne katkıda bulunabilirsiniz:
+kuruluşunuzun bu anlaşmalardan biri varsa, Microsoft ticari market tekliflerinin seçim kümesi, kuruluşunuzun Microsoft Azure tüketim taahhüdüne katkıda bulunur:
 
-- Microsoft Azure tüketim taahhüdü (MACC)
-- Tüketmek için Azure işlemesi (CtC)
+- Microsoft Azure tüketim taahhüdü (macc)
+- Tüketmek için Azure 'a tamamlama (CtC)
 
-Yüksek kaliteli çözümler alasınız diye bu programa katılan tüm teklifleri doğrularız.
+Yüksek kaliteli çözümler aldığınızdan emin olmak için bu programa katılan tüm teklifleri doğrulamamız gerekir.
 
-Bu avantajdan yararlanmak için, Azure sözleşmeniz ile ilgili Azure Market kullanarak uygun bir teklif satın alın. Azure Ön Ödemesi (eski adı parasal taahhüt) bu avantaj için uygun değildir.
+Bu avantajdan yararlanmak için Azure anlaşmanız ile ilgili bir abonelik kullanarak Azure Marketi 'nde uygun bir teklif satın almanız yeterlidir. Azure ön ödemesi (daha önce parasal taahhüt olarak adlandırılır) bu avantaja uygun değildir.
 
 > [!IMPORTANT]
-> Dışlamalar, bu market avantajından önce imzalanan CtC anlaşmaları için geçerli olabilir. Uygunluk hakkında sorularınız varsa yönetici yöneticinizle Microsoft hesabı geçin.
+> Dışlamalar, bu Market avantajından önce imzalanan CtC anlaşmaları için uygulanabilir. Uygunluk hakkında sorularınız varsa Microsoft hesabı Executive ile iletişime geçin.
 
-## <a name="determine-if-your-organization-has-an-azure-consumption-commitment-maccctc"></a>Kurumda Azure tüketim taahhüdü olup olmadığını belirleme (MACC/CtC)
+## <a name="determine-if-your-organization-has-an-azure-consumption-commitment-maccctc"></a>Kuruluşunuzun bir Azure tüketim taahhüdüne (MACC/CtC) sahip olup olmadığını belirleme
 
-Kuruluşta uygun bir sözleşme olup olmadığını tam olarak emin değilseniz, kuruluşla ilişkilendirilmiş bir [kiracı altında Azure portal](https://ms.portal.azure.com/#blade/Microsoft_Azure_Marketplace/MarketplaceOffersBlade/selectedMenuItemId/home) market deneyiminde oturum açma. Yalnızca filtre seçeneği olarak **Uygun Azure avantajını** seçme seçeneğini görüyorsanız, uygun bir Azure tüketim taahhüdüne sahipsinizdir. Satın Azure Market satın almaların uygun olup, doğrudan kuruluş aracılığıyla satın almaları, kuruluşun Azure tüketim taahhüdüne katkıda Azure Market.
+Kuruluşunuzun uygun bir anlaşması olup olmadığını bilmiyorsanız, kuruluşunuzla ilişkili bir kiracı altında [Azure Portal](https://ms.portal.azure.com/#blade/Microsoft_Azure_Marketplace/MarketplaceOffersBlade/selectedMenuItemId/home) Market deneyiminde oturum açın. **Azure avantajı 'nı yalnızca** bir filtre seçeneği olarak uygun olarak seçme seçeneğini görürseniz, uygun bir Azure tüketim taahhüdüne sahip olursunuz. Azure Marketi satın alımlarının uygun olması, doğrudan Azure Marketi aracılığıyla satın alındığında kuruluşunuzun Azure tüketim taahhüdüne katkıda bulunur.
 
-[![Azure avantajına uygun menü seçeneği.](media/azure-benefit/azure-benefit-eligible.png)](media/azure-benefit/azure-benefit-eligible.png#lightbox)
+[![Azure avantaj uygun menü seçeneği.](media/azure-benefit/azure-benefit-eligible.png)](media/azure-benefit/azure-benefit-eligible.png#lightbox)
 
-## <a name="determine-which-offers-are-eligible-for-azure-consumption-commitments-maccctc"></a>Azure tüketim taahhütleri için hangi tekliflerin uygun olduğunu belirleme (MACC/CtC)
+## <a name="determine-which-offers-are-eligible-for-azure-consumption-commitments-maccctc"></a>Hangi tekliflerin Azure tüketim taahhüdlerine uygun olduğunu belirleme (MACC/CtC)
 
-1. Kuruluş içinde Market deneyiminde oturum [Azure portal](https://ms.portal.azure.com/#blade/Microsoft_Azure_Marketplace/MarketplaceOffersBlade/selectedMenuItemId/home) kiracı altında oturum açma.
-2. Azure **avantajına uygun filtreyi** (yukarıdaki görüntü) kullanarak, kuruluşun Azure tüketim taahhüdüne katkıda bulunabilecek teklifleri keşfedin.
+1. [Azure Portal](https://ms.portal.azure.com/#blade/Microsoft_Azure_Marketplace/MarketplaceOffersBlade/selectedMenuItemId/home) içindeki Market deneyiminde, kuruluşunuzla ilişkili bir kiracı altında oturum açın.
+2. Kuruluşunuzun Azure tüketim taahhüdüne katkıda bulunmak için uygun olan teklifleri öğrenmek için, **Azure avantajı uygun** filtresini (Yukarıdaki görüntü) uygulayın.
 
    > [!NOTE]
-   > Bu filtreye sahip değilsanız, kuruluş uygun bir taahhüdüne sahip değildir. Bunun yanlış olduğunu Microsoft hesabı lütfen yönetici yöneticinizle iletişime geçin.
+   > Bu filtre yoksa, kuruluşunuzun uygun bir taahhüt yoktur. Bunun yanlış olduğunu düşünüyorsanız lütfen Microsoft hesabı Executive ile iletişime geçin.
  
-3. Tekliflere Azure avantajı  ek olarak, bu teklifle ilişkili yazılım/IP maliyetlerinin, kuruma faturalandırmış tüm Azure hizmetlerinin üzerinde, kuruluşun Azure tüketim taahhüdüne katkıda bulunabilecek olduğunu belirtmek için uygun azure avantajı ek olarak onaylandır.
+3. Teklifler, bu teklifle ilişkili yazılım/IP maliyetlerinin, kuruluşunuzda faturalandırılan tüm Azure hizmetleri üzerinde kuruluşunuzun Azure tüketim taahhüdüne katkıda bulunduğunu göstermek için **uygun olan Azure avantajına** sahip olacaktır.
 
-    :::image type="content" source="media/azure-benefit/azure-benefit-eligible-badge.png" alt-text="Azure avantajına uygun rozet.":::
+    :::image type="content" source="media/azure-benefit/azure-benefit-eligible-badge.png" alt-text="Azure avantajı uygun rozet.":::
 
    > [!NOTE]
-   > Microsoft Azure dağıtım aracılığıyla kuruluşa faturalandır Azure Market hizmetleri, doğal olarak kuruluş taahhüdünün katkısını sağlar. "Azure avantajına uygun" tekliflere eklenen avantaj, üçüncü taraf satıcı tarafından geçirilen yazılım/IP maliyetlerinin de faturanıza %100 oranında katkıda Azure Market olmasıdır.
+   > Azure marketi dağıtımı aracılığıyla kuruluşunuza faturalandırılan Microsoft Azure hizmetleri, doğal olarak kuruluşunuzun taahhüdüne katkıda bulunur. "Azure avantajı uygun" tekliflerine eklenen avantaj, üçüncü taraf satıcı tarafından geçirilen yazılım/IP maliyetlerinin de Azure Market faturanızda %100 ' de katkıda bulunur.
 
-4. Teklifi doğrudan satın alma/oluşturma Azure Market. Microsoft, yazılım/IP maliyetleri de dahil olmak üzere her fatura döneminde, kuruluşun Azure tüketim taahhüdüne uygun teklif satın almalarının %100'ünün katkısını sağlar.
+4. Teklifi doğrudan Azure Marketi aracılığıyla satın alın/oluşturun. Microsoft, yazılım/IP maliyetleri dahil olmak üzere her fatura döneminde kuruluşunuzun Azure tüketim taahhüdüne doğru satın alma teklifinin %100 ' üne katkıda bulunur.
 
 > [!IMPORTANT]
-> Satın alma işleminin taahhüd Azure Market için, satın alma işleminin kuruluş Azure tüketim taahhüdüyle ilgili bir kayıtla birlikte doğrudan abonelik aracılığıyla satın alınarak teklifler satın alınacaktır. Bulut Çözümü Sağlayıcısı (CSP) aracılığıyla satın alınan teklifler, başka bir kurumsal bayi kanalı veya market dışından taahhüdüze katkıda bulunan teklifler değildir.
+> Teklifler, satın alma taahhüdüne katkıda bulunmak için kuruluşunuzun Azure tüketim taahhüdü ile ilgili bir kayıt ile doğrudan Azure Marketi aracılığıyla satın alınmalıdır. Bulut Çözümü Sağlayıcısı (CSP) aracılığıyla satın alınan teklifler, diğer tüm satıcı kanalları veya market 'in dışında, taahhütünün katkılarına dahil değildir.
 
 ## <a name="next-steps"></a>Sonraki adımlar
 

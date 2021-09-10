@@ -8,14 +8,14 @@ description: Bu API'yi kullanarak herhangi bir duraklatılmış raporun içgör�
 author: kshitishsahoo
 ms.author: ksahoo
 ms.localizationpriority: medium
-ms.openlocfilehash: 8c429913e269b88a42216ca99c4a4afbc545eb599b6dcfeb1d5fb79af5fdd50c
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 1019e9e6f679084ca0a388d685b5239ecc2e09e2
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115697049"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123960915"
 ---
-# <a name="resume-report-executions-api"></a>Rapor yürütme API'sini sürdürme
+# <a name="resume-report-executions-api"></a>Rapor yürütme api'sini sürdürme
 
 Yürütme sırasında, bu API duraklatılmış bir raporun zamanlanmış yürütmesini sürdürür.
 
@@ -98,7 +98,7 @@ Bu tablo yanıtta önemli öğeleri tanımlar:
 |    ReportId     |    Sürdürülen raporun evrensel olarak benzersiz tanımlayıcısı (UUID)     |
 |    Raporadı     |    Oluşturma sırasında rapora verilen ad     |
 |    Description     |    Rapor oluşturma sırasında verilen açıklama     |
-|    Queryıd     |    Sorgu kimliği raporun oluşturulma zamanında geçirildi     |
+|    Queryıd     |    Sorgu kimliği raporun oluşturularak geçirildi     |
 |    Sorgu     |    Bu rapor için yürütülecek sorgu metni     |
 |    Kullanıcı     |    Raporu oluşturmak için kullanılan kullanıcı kimliği     |
 |    CreatedTime     |    Raporun oluşturulma zamanı. Saat biçimi yyyy-MM-ddTHH:mm:ssZ'dir     |
@@ -107,7 +107,7 @@ Bu tablo yanıtta önemli öğeleri tanımlar:
 |    StartTime     |    Rapor yürütmenin başlayacağı zaman. Saat biçimi yyyy-MM-ddTHH:mm:ssZ'dir     |
 |    ReportStatus     |    Rapor yürütme durumu. Olası değerler Duraklatılmış, Etkin ve Devre Dışı'dır.     |
 |    RecurrenceInterval     |    Rapor oluşturma sırasında sağlanan yinelenme aralığı     |
-|    RecurrenceCount     |    Rapor oluşturma sırasında sağlanan yinelenme sayısı     |
+|    RecurrenceCount     |    Rapor oluşturma sırasında sağlanan yineleme sayısı     |
 |    CallbackUrl     |    İstekte sağlanan geri çağırma URL'si     |
 |    CallbackMethod    |    İstekte sağlanan geri çağırma yöntemi    |
 |    Biçimlendir     |    Rapor dosyalarının biçimi     |

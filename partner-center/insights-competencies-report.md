@@ -9,12 +9,12 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 18b2d83b71b258d5c3d59f9a87b8b519d868b5c2a410dd6f18cde643b7531f98
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 0d5eab0684c52c94c0709f09f254031dd80d8a28
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115683734"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123960225"
 ---
 # <a name="competencies-report-available-from-the-partner-center-insights-dashboard"></a>yetenek raporları iş ortağı merkezi Analizler panosu 'nda mevcuttur
 

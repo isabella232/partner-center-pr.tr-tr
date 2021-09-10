@@ -1,51 +1,51 @@
 ---
-title: Azure Marketi 'nde yasal sözleşmeler
-description: Azure Marketi 'nde yasal sözleşmeler hakkında bilgi edinin.
+title: Azure Market'daki yasal anlaşmalar
+description: Azure Market'daki yasal anlaşmalar hakkında bilgi Azure Market.
 ms.service: marketplace-customer
 ms.topic: article
 author: Guyshu
 ms.author: gushuchm
 ms.date: 11/20/2020
-ms.openlocfilehash: 115bbb43510956805362c13f9958cf343cf2833a617ace9da3ff8d31bb2e0897
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 728b2119b6b9a80146fbe3313d7fd79c77c5dcc8
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115688647"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123936934"
 ---
 # <a name="legal-contracts"></a>Yasal sözleşmeler
 
-Bu makalede, Azure Marketi 'ndeki hüküm ve koşullara yönelik yasal hüküm ve müşteri onayı türleri açıklanmaktadır.
+Bu makalede, yasal hüküm türleri ve müşteri onayları ile ilgili hüküm ve koşullar Azure Market.
 
-## <a name="types-of-legal-terms"></a>Yasal terim türleri
+## <a name="types-of-legal-terms"></a>Yasal hüküm türleri
 
-Azure Marketi 'ndeki yayımcılar, teklifleri için yasal koşullar sunmak üzere üç seçeneğe sahiptir:
+Azure Market'daki yayımcıların teklifleriyle ilgili yasal koşulları sunmak için üç seçeneği vardır:
 
-- Standart Microsoft yasal sözleşme: Bu, müşterinin her mağaza satın alımsını doğrulaması ve anlaşması gerektirmeyen yayımcı ve müşteri için zaman kazandırır.
-- Değişiklik içeren standart Microsoft Sözleşmesi: Bu, belirli bir müşteri için genel değişiklik veya değişiklik (özel teklifler söz konusu olduğunda) için genel değişiklik veya değişiklik olabilir.
-- Yayımcı tarafından özel yasal sözleşme.
+- Standart Microsoft yasal anlaşması: Bu, hem yayımcı hem de müşteri için zaman kazandırır çünkü müşterinin her mağaza satın alımını doğrulaması ve anlaşmasına gerek yok.
+- Düzeltmelerle standart Microsoft sözleşmesi: Bunlar belirli bir müşteriye yönelik genel değişiklikler veya düzeltmeler (özel teklifler söz konusu olabilir) olabilir.
+- Yayımcı tarafından yapılan özel yasal sözleşme.
 
-Yasal sözleşmelere erişmek için, Microsoft AppSource veya Azure Marketi ' nde ürün sayfasındaki **yasal anlaşma** bağlantısını seçin. Bu bağlantı genellikle teklif için kullanım koşullarının tüm ayrıntılarını da içerir.
+Yasal sözleşmelere erişmek için ürün **sayfasındaki** Yasal Anlaşma bağlantısını seçin veya Microsoft AppSource Azure Market. Bu bağlantı genellikle teklif için kullanım koşullarının tüm ayrıntılarını da içerir.
 
-:::image type="content" source="media/legal-contracts/license-agreement-link-ms.png" alt-text="Bir örnek teklifinde lisans sözleşmesi bağlantısını gösterir.":::
+:::image type="content" source="media/legal-contracts/license-agreement-link-ms.png" alt-text="Örnek teklifte Lisans Sözleşmesi bağlantısını gösterir.":::
 
-## <a name="consenting-to-terms-and-conditions"></a>Hüküm ve koşullara uyum
+## <a name="consenting-to-terms-and-conditions"></a>Hüküm ve koşulları kabul etmek
 
-Müşterilerin, üçüncü taraf bir görüntü veya hizmetle bir kaynak oluştururken yasal hüküm ve koşulları kabul etmesi istenir. Aşağıdaki örneklerde bu sözleşmelerin nasıl görünebilen gösterilmektedir.
+Üçüncü taraf bir görüntü veya hizmetle kaynak oluştururken müşterilerden yasal hüküm ve koşulları kabulleri istenir. Aşağıdaki örneklerde, bu anlaşmaların nasıl görüne görüne göstere göstere göstere göstere.
 
 ### <a name="saas-example-terms"></a>SaaS örnek terimleri
 
-Azure Marketi 'nde bir SaaS teklifine abone olduğunuzda yasal koşulları kabul etmiş olursunuz.
+SaaS teklifine abone olurken yasal koşulları kabul Azure Market.
 
-:::image type="content" source="media/legal-contracts/sample-offer-screen.png" alt-text="Örnek hüküm ve Koşullar sayfasını gösterir.":::
+:::image type="content" source="media/legal-contracts/sample-offer-screen.png" alt-text="Örnek Hüküm ve Koşullar sayfasını gösterir.":::
 
-### <a name="virtual-machine-example-terms"></a>Sanal makine örnek koşulları
+### <a name="virtual-machine-example-terms"></a>Sanal makine örnek terimleri
 
-Üçüncü taraf bir görüntünün hüküm ve koşulları, **gözden geçir ve abone ol**' u seçtiğinizde listelenir.
+Bir üçüncü taraf görüntünün hüküm ve koşulları, Gözden geçir ve abone ol seçeneğini **belirlerken listelenir.**
 
-:::image type="content" source="media/legal-contracts/terms-text.png" alt-text="Örnek hüküm ve koşullar metin bloğunu gösterir.":::
+:::image type="content" source="media/legal-contracts/terms-text.png" alt-text="Örnek hüküm ve koşullar metin bloğu gösterir.":::
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-- [Microsoft ticari Market Koşulları](https://azure.microsoft.com/support/legal/marketplace-terms/)
+- [Microsoft Ticari Market Koşulları](https://azure.microsoft.com/support/legal/marketplace-terms/)
 - [Azure Market nedir?](azure-marketplace-overview.md) 

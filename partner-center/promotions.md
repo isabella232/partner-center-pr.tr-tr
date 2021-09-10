@@ -1,64 +1,64 @@
 ---
-title: Müşterileri çekmek için promosyonlar kullanın
+title: Müşterileri çekmek için promosyonları kullanma
 ms.topic: article
 ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-pricing
-description: Bulut Çözümü Sağlayıcısı programdaki Microsoft iş ortaklarının, yükseltme fiyatlandırmasıyla abonelikleri nasıl satın alabileceğine ve müşterilerine tasarruf etme konusunda nasıl tasarruf alabileceğinizi öğrenin.
+description: Bulut Çözümü Sağlayıcısı programı kapsamındaki Microsoft iş ortaklarının, promosyon fiyatlandırması ile abonelik satın alıp müşterilerine nasıl tasarruf sağlaylarını keşfedebilirsiniz.
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 23068edcb633bc1a0c8359c8ad122455e573126b4ad9c54b10d105f9156b002c
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 335c0806d9504263dcfa506721b4217cf8b78db6
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115693971"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123960645"
 ---
-# <a name="use-promotions-to-attract-new-customers-and-pass-the-savings-on-to-them"></a>Yeni müşterileri çekmek ve tasarruf etmek için promosyonlar kullanın
+# <a name="use-promotions-to-attract-new-customers-and-pass-the-savings-on-to-them"></a>Yeni müşterileri çekmek ve tasarrufları onlara sunmak için promosyonları kullanma
 
 
 
-**Uygun roller**: yönetici Aracısı | MPN iş ortağı Yöneticisi | Faturalandırma Yöneticisi | Satış Aracısı
+**Uygun roller:** Yönetici aracısı | MPN iş ortağı yönetici | Faturalama yöneticisi | Satış aracısı
 
 
-Microsoft, lisans tabanlı Aboneliklerde yapılan yükseltmeleri sunarak müşterilere tasarruf etmenizi ve işinizi büyütmenize olanak tanır. 
+Microsoft bazen lisans tabanlı abonelikler üzerinde promosyonlar sunar ve bu da müşterilere tasarrufları geçmenize ve işlerinizi büyütebilirsiniz. 
 
-Microsoft, Bulut Çözümü Sağlayıcısı (CSP) programında uygun olan tüm iş ortakları ve yalnızca belirli bir coğrafi bölgedeki iş ortakları için kullanılabilir olan iki tür promosyon sunmaktadır.
+Microsoft iki tür promosyon sunar: Bulut Çözümü Sağlayıcısı (CSP) programında tüm uygun iş ortaklarının kullanımına açık olanlar ve yalnızca belirli bir coğrafi bölgedeki iş ortaklarının kullanımına açık olanlar.
 
-Promosyon fiyatındaki yeni abonelikler satın aldığınızda, promosyon fiyatlandırması otomatik olarak net fiyata uygulanır. Ayrıca, promosyon fiyatlandırmasıyla satın alınan bir aboneliğe eklediğiniz tüm lisanslar, promosyon fiyatına eklenir. 
+Promosyon fiyatlandırması, yeni abonelikleri promosyon fiyatıyla satın aldığınız zaman net fiyatınıza otomatik olarak uygulanır. Ayrıca, promosyon fiyatlandırması ile satın alınan aboneliğe ekley istediğiniz tüm lisanslar, promosyon fiyatı üzerinden eklenir. 
 
-Promosyonlarla ilgili bu önemli gerçekleri gözden geçirmek için bir dakikanızı ayırın:
+Promosyonlar hakkında şu önemli olguları gözden geçirelim:
 
-- Aboneliğin promosyon fiyatı yalnızca abonelik süresince geçerlidir. Promosyon fiyatlandırmasıyla satın aldığınız bir aboneliğin süresi dolarsa, yenileme aboneliğinin fiyatı Fiyat listesindeki fiyata geri döner. Bu, otomatik yenileme için ayarlanan tüm aboneliklerin, uygun fiyata göre yenileneceği anlamına gelir. Fiyat listesini **fiyatlandırma ve teklifler** sayfasında bulabilirsiniz.
+- Aboneliğin yükseltme fiyatı yalnızca aboneliğin süresince geçerlidir. Promosyon fiyatlandırması ile satın aldığınız aboneliğin süresi dolduğunda yenileme aboneliğinin fiyatı fiyat listesinde yer alan fiyata döner. Bu, otomatik yenileme için ayarlanmış tüm aboneliklerin uygun fiyatla yenilenesi anlamına gelir. Fiyat listesini Fiyatlandırma ve teklifler **sayfasında** bulabilirsiniz.
 
-- Bir abonelik birden çok promosyon için uygun ise, en yüksek yüzdeden yükseltme otomatik olarak uygulanır.
+- Bir abonelik birden çok promosyon için uygunsa, en yüksek kapalı yüzdeye sahip yükseltme otomatik olarak uygulanır.
 
-- Promosyon fiyatlı aboneliklerin iptalleri, düzenli olarak fiyatlandırmalı aboneliklerle aynı işlem ve ilkeyi izler.
+- Promosyonla fiyatla fiyatlandı aboneliklerin iptalleri, düzenli olarak fiyat yapılan abonelikler ile aynı süreci ve ilkeyi takip eder.
 
 ## <a name="see-available-promotions"></a>Kullanılabilir promosyonlara bakın
 
-**Promosyonlar** sayfanızda hangi promosyonlara (varsa) uygun olduğunuzu görebilirsiniz. Geçerli promosyonların bir listesini, aboneliğin indirim, promosyon türü ve başlangıç ve bitiş tarihleriyle birlikte görmek için **Iş Ortağı Merkezi** menüsünden **promosyonlar** ' i seçin. Hiçbir promosyon kullanılamıyorsa, bunu belirten bir ileti görürsünüz. 
+**Promosyonlar** sayfanızda hangi promosyonlara (varsa) uygun olduğunuzu görebilirsiniz. Geçerli **promosyonların** listesini **ve İş Ortağı Merkezi** indirimi, promosyon türünü ve aboneliğin başlangıç ve bitiş tarihlerini görmek için İş Ortağı Merkezi menüsünden Promosyonlar'ı seçin. Hiçbir promosyon kullanılamıyorsa, bunu belirten bir ileti görürsünüz. 
 
 > [!NOTE]  
 > Satın alma sırasında da promosyonları görebilirsiniz. Bir aboneliği seçtiğinizde **Gözden Geçirme** sayfasında promosyon fiyatlandırması görüntülenir.
 
 ## <a name="purchase-subscriptions-at-promotion-prices"></a>Abonelikleri promosyon fiyatlarıyla satın alma
 
-1. **Iş Ortağı Merkezi** menüsünde **müşteriler** ' i seçin ve ardından aboneliği satın alan müşteriyi seçin. 
+1. Abonelik **İş Ortağı Merkezi** **Müşteriler'i** ve ardından aboneliği satın alan müşteriyi seçin. 
 
-2. **Abonelik Ekle**' yi seçin.
+2. Abonelik **ekle'yi seçin.**
 
-3. **Yeni abonelik** sayfasında, yükseltmenin uygulandığı aboneliği seçin.
+3. Yeni **abonelik sayfasında,** yükseltmenin geçerli olduğu aboneliği seçin.
 
 4. Müşterinin ihtiyacı olan lisans sayısını girin. 
 
-5. Siparişi gözden geçirin. **İndirim** sütununa uygulanacak promosyon fiyatlandırmasını görürsünüz.  
+5. Siparişi gözden geçirme. İndirim sütununda uygulanacak olan promosyon fiyatlandırması **görüntülenir.**  
 
-6. Satın almak için **Gönder** ' i seçin. Müşteriniz, sonraki faturanızda promosyon fiyatını görür.  
+6. Satın almak **için Gönder'i** seçin. Müşteriniz bir sonraki faturada promosyon fiyatını görebilir.  
 
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-- [Özel izleyiciler satma](sell-to-education-customers.md)
+- [Özelleştirilmiş hedef kitlelere satış](sell-to-education-customers.md)

@@ -9,18 +9,18 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 417451fb485304fe07a50e69cffbc4e32ba0aa8545072030d823ba75b66c67ee
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: acf7e19d98b6d3a9c48277f0b3276b26816572e8
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115692628"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123961235"
 ---
 # <a name="eligibility-requirements-for-the-solution-assessment-incentives-program"></a>Solution Assessment Incentives Programı için uygunluk gereksinimleri
 
 **Uygun roller:** Birincil kişi veya program yöneticisi
 
-FY20'de Çözüm Değerlendirmesi Teşvik Programı'nın etkin ve kayıtlı durumu olan iş ortakları, etkin bir MPN üyeliğine ve etkin bir Silver veya Gold MPN uzmanlığına sahipse FY21'de teşvikler için uygun olmaya devam edecektir. İş ortağı nitelikleri, her yıl uygunluk için gözden geçirildi. Kurulmuş iş ortakları geçerli yılda uygunluk ve katılım gereksinimlerini karşılamıyorsa, bir sonraki yıllık gözden geçirmede kaldırılacaktır. Tüm yeni iş ortakları, kendi alanında yerel Çözüm Değerlendirme Uzmanı (SAS) aracılığıyla eklemeye devam ediyor. SAS, iş ortağı şirketin beceri ve uzmanlığıyla eşleşen eşleştirmeye ve SAS tarafından desteklenen yan kuruluşların iş ihtiyaçlarına göre, ekleme için iş ortaklarını belirleyecek.
+FY20'de Çözüm Değerlendirme Teşvik Programı'nın etkin ve kayıtlı durumuna sahip iş ortakları, etkin bir MPN üyeliğine ve etkin bir Silver veya Gold MPN uzmanlığına sahipse FY21'de teşvikler için uygun olmaya devam edecektir. İş ortağı nitelikleri, her yıl uygunluk için gözden geçirildi. Kurulmuş iş ortakları geçerli yılda uygunluk ve katılım gereksinimlerini karşılamıyorsa, bu iş ortakları bir sonraki yıllık gözden geçirmede kaldırılacaktır. Tüm yeni iş ortakları, kendi alanında yerel Çözüm Değerlendirme Uzmanı (SAS) aracılığıyla yer almaktadır. SAS, iş ortağı şirketin beceri ve uzmanlığıyla eşleşen eşleştirmeye ve SAS tarafından desteklenen yan kuruluşların iş ihtiyaçlarına göre, ekleme için iş ortaklarını belirleyecek.
 
 Ekleme işlemini başlatmadan önce iş ortaklarının, şirketlerinin kendi yerelliklerinde değerlendirmeleri desteklemek için sahip olduğu özellikleri SAS ile tartışmaları gerekir.
 
@@ -32,7 +32,7 @@ Ekleme işlemini başlatmadan önce iş ortaklarının, şirketlerinin kendi yer
 |-----------------------|------------------|
 |Etkin Microsoft İş Ortağı Ağı (MPN) üyeliği|Çözüm Değerlendirmesi Teşvik Programı'nın uygunluğu için etkin MPN üyeliği gerekir|
 |Bir gümüş veya altın uzmanlık|Etkin veya Etkin ön onaylı olabilir|
-|Azure Uzman MSP/Gelişmiş özelleştirme iş ortağı|15 Nisan 2021'den itibaren, Veri & Altyapı Geçişi, Uygulama Modernleştirme, Azure Foundations, Azure Express ve Azure Maliyet İyileştirme dahil olmak üzere Azure Çözüm Değerlendirmeleri için Azure Uzman MSP/Gelişmiş Uzmanlık sertifikası gerekir.|
+|Azure Uzman MSP/Gelişmiş özelleştirme iş ortağı|15 Nisan 2021'den itibaren, Veri & Altyapısı Geçişi, Uygulama Modernleştirme, Azure Foundations, Azure Express ve Azure Maliyet İyileştirme dahil olmak üzere Azure Çözüm Değerlendirmeleri için Azure Uzman MSP/Gelişmiş Uzmanlık sertifikası gerekir.|
 
 |**Katılım gereksinimi**|**Ölçütler**|
 |-------------------------|-------------------------------------|

@@ -3,67 +3,67 @@ metadata:
   title: Solution Assessment Incentives Hakkında SSS
   ms.topic: how-to
   ms.date: 11/09/2020
-  description: Channel Incentives Platform'da (CHIP) Çözüm Değerlendirmesi hakkında sık sorulan soruların yanıtlarını öğrenin.
+  description: Channel teşvikleri platformunda (yonga) çözüm değerlendirmesi hakkında sık sorulan soruların yanıtlarını öğrenin.
   ms.service: partner-dashboard
   ms.subservice: partnercenter-incentives
   author: Karthic83
   ms.author: kashanum
   ms.localizationpriority: medium
   ms.custom: SEOMAY.20
-  ms.openlocfilehash: 81b8a8981233179e03733047552049dc0afd0627ee5bca3e74702e9b2df54bec
-  ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+  ms.openlocfilehash: 60586dbabfc289d2ebc355e5d7bacf5bb11fcfe5
+  ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
   ms.translationtype: MT
   ms.contentlocale: tr-TR
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "115682427"
-title: Kanal Teşvikleri Platformu (CHIP) için Çözüm Değerlendirmesi teşvikleri hakkında SSS
+  ms.lasthandoff: 09/09/2021
+  ms.locfileid: "123961204"
+title: Channel teşvikleri platformu (yonga) için çözüm değerlendirmesi teşvikleri SSS
 summary: >
-  **Uygun roller:** Birincil kişi veya program yöneticisi
+  **Uygun roller**: birincil iletişim veya Program Yöneticisi
 
 
-  Aşağıda sık sorulan soruların yanıtlarını bulabilirsiniz.
+  Aşağıdaki sık sorulan soruların yanıtlarını bulun.
 sections:
 - name: Yoksayıldı
   questions:
   - question: >
-      Çözüm Değerlendirmesi Teşvik programı için uygunluk gereksinimleri nelerdir?
-    answer: "FY20'de Çözüm Değerlendirmesi Teşvik Programı'nın etkin ve kayıtlı durumuna sahip iş ortakları, etkin bir MPN üyeliğine ve etkin bir Silver veya Altın MPN Uzmanlığına sahipse FY21'de teşvikler için uygun olmaya devam edecektir. İş ortağı nitelikleri, her yıl uygunluk için gözden geçiri.  Kurulan iş ortakları geçerli yılda uygunluk ve katılım gereksinimlerini karşılamıyorsa, bu iş ortakları bir sonraki yıllık gözden geçirmede kaldırılacaktır.  Tüm yeni iş ortakları, kendi alanında yerel Çözüm Değerlendirme Uzmanı (SAS) aracılığıyla eklemeye devam ediyor.  SAS, iş ortağı şirketin beceri ve uzmanlığıyla eşleşen eşleştirmeye ve SAS tarafından desteklenen yan kuruluşların iş ihtiyaçlarına göre, ekleme için iş ortaklarını belirleyecek.\nEkleme işlemini başlatmadan önce iş ortaklarının, şirketlerinin kendi yerelliklerinde değerlendirmeleri desteklemek için sahip olduğu özellikleri SAS ile tartışmaları gerekir. \n\nŞu anda teşvik programına kayıtlı olan iş ortaklarının Çözüm Değerlendirmesi Teşvik eklemeye uygun olması için aşağıdaki FY21 teşvik ölçütlerini karşılaması gerekir. Ayrıntılar için Çözüm [Değerlendirmesi uygunluğu makalesini okuyun.](chip-solutions-assessment-eligible.md)\n"
+      Çözüm değerlendirmesi teşvik programı için uygunluk gereksinimleri nelerdir?
+    answer: "Etkin ve kayıtlı durumundaki iş ortakları, FY20 içindeki çözüm değerlendirme teşvik programı, etkin bir MPN üyeliği ve etkin gümüş ya da altın MPN uzmanlığına sahip olmaları durumunda FY21 teşvikleri için uygun olmaya devam edecektir. İş ortağı nitelikleri, yıllık uygunluk açısından incelenmeyecektir.  Belirlenen iş ortakları geçerli yılda uygunluk ve katılım gereksinimlerini gerçekleştirmediği takdirde, bu, bir sonraki yıllık incelemede kaldırılacaktır.  Tüm yeni iş ortakları, kendi alanındaki yerel çözüm değerlendirmesi uzmanı (SAS) üzerinden eklendi.  SAS, iş ortağı şirketteki yeteneklerin ve uzmanlığın eşleşmesini ve SAS tarafından desteklenen yan kuruluşların iş ihtiyaçlarını temel alarak eklendi iş ortaklarını belirler.\nEkleme işlemine başlamadan önce, iş ortaklarının, şirketlerinin, yerelleştirmelerinde değerlendirmelerin desteklenmesi için sahip oldukları yetenekler ile tartışılabilmeleri gerekir. \n\nŞu anda, bu iş ortaklarının çözüm değerlendirmesi teşvik etmek için uygun olması için aşağıdaki FY21 maları ölçütlerini karşılaması gerekir. Ayrıntılar için [çözüm değerlendirmesi uygunluk](chip-solutions-assessment-eligible.md)konusunu okuyun.\n"
   - question: >
-      Nasıl yaparım? Değerlendirmeleri Teşvik programına kaydolabilecek misiniz?
+      Çözüm değerlendirme programmasına Nasıl yaparım? kayıt yapılsın mı?
     answer: >
-      Süreci başlatmak için yerel Çözüm Değerlendirme Uzmanınıza (SAS) ulaşın.
+      İşlemi başlatmak için yerel çözüm değerlendirme uzmanlarınız (SAS) ile iletişim kurun.
   - question: >
-      Nasıl yaparım? ve vergi bilgilerimi nasıl gönderebilirsiniz?
+      Nasıl yaparım? bankamı ve vergi ayrıntılarımı gönder?
     answer: >
-      Banka [ve vergi profillerinizi](chip-intro.md) gönderme hakkında adım adım yönergeler için CHIP'de gezinme makalesini okuyun.
+      Banka ve vergi profillerinizi nasıl göndereceğiniz hakkında adım adım yönergeler için [yongadaki](chip-intro.md) adımları okuyun.
   - question: >
-      Anlaşma durumum CHIP'te onaylandı. Neden henüz ödenmedi?
+      Kendi anlaşma durumum YONGASıNDA onaylandı. Neden henüz ödenmedi?
     answer: >
-      Fırsatın ödeme için gönderilmeden önce anlaşma durumuna ek olarak POE durumunun da CHIP'te onaylanması gerekir. POE'nin CHIP'te POE Doğrulama Ekibi tarafından karşıya yük olduğundan ve onaylandıktan emin olmak için chip'te fırsatınızı gözden geçirin. POE durumunu görüntülemek için CHIP'de oturum açma  ve **Gerekenler...** menüsünü seçerek erişebilirsiniz. Fırsat kimliğini **girin ve** Ara'ya **basın.** Arama sonuçlarında POE'nin altındaki "Düzenle" köprüsüne tıklayın. Sonuçta elde edilen sayfada POE durumunu görmek için 'Gözden Geçir' bölümüne gidin. Ayrıca POE Ekibinin POE hakkında ek bilgi isteğinde bulundurarak "Açıklamalar" alanını da gözden geçirebilirsiniz.
+      Anlaşma durumuna ek olarak, bir fırsat ödeme için gönderilmeden önce de POE durumunun YONGASıNDA onaylanması gerekir. POE 'in yonga içindeki POE doğrulama ekibi tarafından yüklendiğinden ve onaylandığından emin olmak için lütfen YONGADAKI fırsatınızı gözden geçirin. POE durumunu görüntülemek için YONGADA oturum açın ve gerekli olan **Ara anlaşmalar** ' **ı seçin..** . menüsünü seçerek erişebilirsiniz. **Fırsat kimliği** ' ni girip **Ara**' yı seçin. Arama sonuçlarında, POE altında ' Düzenle ' köprüsünü seçin. Elde edilen sayfada, POE durumunu görmek için ' gözden geçir ' bölümüne gidin. Ayrıca, POE ekibinin POE hakkında ek bilgiler istediği durumlarda ' Comments ' alanını gözden geçirin.
   - question: >
-      Fırsatım için neden Kilometre Taşı 1 için herhangi bir ödeme a değilim?
+      Neden fırsat için kilometre taşı 1 için ödeme almıyorum?
     answer: >
-      15 Ağustos 2020'den başlayarak Kilometre Taşı 1, onaylanan teşvik düzeyinin %0'sinde, Kilometre Taşı 2 ise onaylanan teşvik düzeyinin %100'sinde ödenmektedir. 15 Ağustos 2020'den önceki tüm açık CHIP kayıtlı katılımları, FY20 rehberliği kapsamında ödenmeye devam edecektir. Kilometre taşı [sürecindeki değişikliklerle](https://assetsprod.microsoft.com/solution-assessment-incentive-program-faq.pdf) ilgili rehberlik için İş Ortağı SSS bölümünü gözden geçirin.
+      15 Ağustos 2020 ' den itibaren, kilometre taşı 1, onaylanan risk düzeyinin %0 ' ından ve bu aşama 2 ' nin %100 ' de onaylanan risk düzeyinin% ' inden ödenmekte 15 Ağustos 2020 ' den önce tüm açık yonga kayıtlı görevlendirmeleri, FY20 Kılavuzu altında ödenmeye devam edecektir. Kilometre taşı işlemindeki değişiklikler hakkında rehberlik için [Iş ortağı SSS](https://assetsprod.microsoft.com/solution-assessment-incentive-program-faq.pdf) ' ye göz atın.
   - question: >
-      Bir fırsata veya bana gelen ödemeye nasıl itiraz ededim?
+      Aldığım bir fırsatı veya ödemeyi nasıl planlarım?
     answer: >
-      Lütfen SAS'nize ulaşarak bu istekle ilgili rehberlik s ulaşabilirsiniz.
+      Lütfen bu istekle ilgili rehberlik sağlayabilen sa 'lara ulaşın.
   - question: >
-      BU fırsat CHIP'te kapatılmıştır ve bu da POE'nin karşıya yüklenmesini önler. Fırsatın ödemesi için ne yapabilirim?
+      Fırsat, POE 'in karşıya yüklenmesini önleyecek YONGADA kapatılmış. Fırsatın ödemesini almak için ne yapabilirim?
     answer: >
-      Bir fırsat kapatılana kadar teşvikler için uygun olmaz. Daha fazla rehberlik için SAS'nize ulaşabilirsiniz.
+      Fırsat kapatıldıktan sonra, teşvikleri için artık uygun değildir. Daha fazla rehberlik için SAS 'nize ulaşın.
   - question: >
-      Nasıl yaparım? CHIP'e yeni bir yönetici/kullanıcı eklemek istiyor musunuz?
+      YONGAYA yeni bir yönetim/Kullanıcı mi eklemek Nasıl yaparım??
     answer: >
-      Birincil İş Ortağı İlgili Kişisi (Yönetici), şirket içinde diğer tüm kullanıcıları CHIP'e kaydolmaya davet etme sorumluluğuna sahip. Ayrıca, şirketten ayrılmakta olan tüm kullanıcıların devre dışı bırakılması da dahil olmak üzere kullanıcı erişiminden de sorumludur. Channel [Incentives Platform Kılavuzu'na bakın.](chip-intro.md)
+      Birincil Iş ortağı kişisinin (yönetici), şirketteki diğer tüm kullanıcıları YONGADA kaydettirmek üzere davet etme sorumluluğu vardır. Şirketten ayrılmaları gereken kullanıcıların devre dışı bırakılması da dahil olmak üzere Kullanıcı erişiminden de sorumludur. Lütfen [Channel teşvikleri platform kılavuzunu](chip-intro.md)okuyun.
   - question: >
-      Birincil Yönetici şirketten ayrıldı. CHIP'te birincil yöneticimi nasıl değiştirebiliriz?
+      Birincil yönetici şirketimizin bıraktı. YONGADAKI birincil yöneticimi nasıl değiştirebilirim?
     answer: >
-      CHIP'te Birincil Yönetici MPN'de Birincil İş Ortağı Kişisi olmalı. MPN'nin yeni ilgili kişi ile güncelleştirilmiş olduğundan emin olun ve CHIP'te değişiklik isteğinde bulunulması için bölgesel destek takımınıza başvurun.
+      YONGADAKI birincil yönetici, MPN 'deki birincil Iş ortağı kişisi olmalıdır. Lütfen MPN 'nin yeni kişiyle güncelleştirildiğinden emin olun ve YONGADAKI değişikliği istemek için bölgesel destek ekibinize başvurun.
 
 
-      Panodan İş Ortağı Merkezi **menüden Destek'i** seçin. Kategoriniz **olarak** Teşvikler'i seçin veya "Konulara Gözat" alanında program adınız için arama yazın.
+      Iş Ortağı Merkezi panosunda, sol taraftaki menüden **destek** ' i seçin. Kategori olarak **teşvikleri** ' u seçin veya "konularda araştırma" alanında program adınızı arayın.
 
 
-      Konuya özgü kullanılabilir yardımı görüntüledikten sonra, hala yardıma ihtiyacınız varsa, hemen Önerilen Belgeler - Destek bileti oluştur seçeneğinden **bir bilet oluşturabilirsiniz.**
-additionalContent: "\n## <a name=\"next-steps\"></a>Sonraki adımlar\n\n- [CHIP'te gezinme](chip-intro.md)"
+      İlgili konuya özgü yardımı görüntüledikten sonra, hala yardıma ihtiyacınız varsa, önerilen belgelerden bir bilet oluşturabilirsiniz – **bir destek bileti oluşturabilirsiniz** .
+additionalContent: "\n## <a name=\"next-steps\"></a>Sonraki adımlar\n\n- [YONGAYA git](chip-intro.md)"

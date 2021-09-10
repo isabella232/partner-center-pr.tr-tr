@@ -1,66 +1,66 @@
 ---
-title: Analizler Eğitim panosu
+title: Analizler Eğitim Panosu
 ms.topic: article
 ms.date: 06/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-insights
-description: Iş ortağı merkezi eğitim panosunu gezin. eğitim, iş ortağı merkezi Analizler (pcı) alanında bulunan raporlardan biridir.
+description: Eğitim İş Ortağı Merkezi'i keşfedin. Eğitim, İş Ortağı Merkezi Analizler (PCI) alanında bulunan raporlardan birisidir.
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 19a11126f1d1830210f6bb92007a3eecfa4468796fea3a7730a3729e5ce7bc24
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 8749bdc1c2249f97d5db288f953eded1c4c06b02
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115695855"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123960255"
 ---
-# <a name="trainings-dashboard"></a>Çekim panosu
+# <a name="trainings-dashboard"></a>Eğitimler panosu
 
-**Uygun roller**: Executive rapor Görüntüleyici | Rapor Görüntüleyicisi
+**Uygun roller:** Yönetici rapor görüntüleyicisi | Rapor görüntüleyicisi
 
-Seyahat panosu, şirket çalışanları şirketiniz tarafından gerçekleştirilen sertifikalar, değerlendirmeler ve Examinations hakkında öngörüler sağlar. Seyahat Panosu aşağıdaki bölümleri içerir:
+Eğitimler panosu, şirket çalışanları şirketi tarafından alınan sertifikalar, değerlendirmeler ve incelemeler hakkında içgörüler sağlar. Eğitimler panosu aşağıdaki bölümleri içerir:
 
 - Özet
-- Sertifikalarına, değerlendirmelere ve sınavlarına göre eğitim performansı
+- Eğitim Performansı sertifikalara, değerlendirmelere, sınavlara göre bölündü
 - Sertifikalar, değerlendirmeler, sınavlar gibi kimlik bilgilerine göre bireyler
 - Etkinlik ayrıntıları
 
 >[!NOTE] 
->bu rapor, iş ortağı merkezi 'nde Analizler hub 'ında bulunur. Bu raporu görüntülemek için, rapor Görüntüleyicisi veya Executive rapor Görüntüleyicisi rolü atanmalıdır. Bu raporun birkaç bölümü yalnızca Executive rapor Izleyicileri olan kullanıcılar için görünür olacaktır. Analizler raporları için erişim denetimi hakkında daha fazla bilgi için lütfen bkz. [pcı rolleri](insights-roles.md).
+>Bu rapor, Analizler merkezi altında İş Ortağı Merkezi. Bu raporu görüntülemek için Size Rapor görüntüleyicisi veya Yönetici rapor görüntüleyicisi rolü atanmış olması gerekir. Bu raporun birkaç bölümü yalnızca Yönetici Rapor Görüntüleyicisi olan kullanıcılar tarafından görülebilir. Raporlarda erişim denetimi hakkında daha fazla bilgi Analizler bkz. [PCI rolleri.](insights-roles.md)
 
 ## <a name="summary"></a>Özet
 
-Özet bölümü, taşmalarınız ile ilgili çeşitli performans göstergelerinin bir sayısal anlık görüntü görünümünü sunar. Çeşitli performans göstergeleri, sertifikalı bireyler, sertifikalardır, sınav kimlik bilgileri, sınav kimlik bilgileri, değerlendirme kimlik bilgileri ve değerlendirme kimlik bilgileri olan bireyler. Bu bölümdeki veriler, üç ay (3K), altı ay (6Dk) ve 12 ay (1Y) veya özel bir veri aralığı (özel) olabilen seçili tarih aralığına göre yenilenir. 
+Özet bölümü, eğitimlerinize ilişkin çeşitli performans göstergelerinin sayısal bir anlık görüntü görünümünü sunar. Çeşitli performans göstergeleri Sertifikalı Bireyler, Sertifikalar, Sınav Kimlik Bilgilerine Sahip Bireyler, Sınav Kimlik Bilgileri, Değerlendirme Kimlik Bilgilerine sahip Bireyler ve Değerlendirme Kimlik Bilgileridir. Bu bölümdeki veriler seçilen tarih aralığına göre yenilenir. Bu aralık üç ay (3 milyon), altı ay (6 milyon) ve 12 ay (1Y) veya özel veri aralığı (Özel) olabilir. 
 
 :::image type="content" source="images/insights/training-dashboard-summary.png" alt-text="Özet.":::
 
-- **Sertifikalarla olan bireyler**: şirketinizde sertifikaları olan ayrı kişilerin sayısını temsil eder.
-- Sertifika **sayısı**: şirketinizdeki bireyler tarafından alınan toplam sertifika sayısını temsil eder.
-- **Değerlendirmelere sahip bireyler**: şirketinizde değerlendirme kimlik bilgilerine sahip benzersiz kişilerin sayısını temsil eder. 
-- **Değerlendirme sayısı**: şirketinizdeki bireyler tarafından alınan toplam değerlendirme sayısını temsil eder.
-- **Examinations Içeren bireyler**: şirketinizdeki kimlik bilgilerini inceleme ile ayrı kişilerin sayısını temsil eder. 
-- **İnceleme sayısı**: şirketinizdeki bireyler tarafından alınan toplam Examinations sayısını temsil eder.
+- **Sertifikalara sahip kişiler:** Şirketiniz içinde sertifikalara sahip olan ayrı bireylerin sayısını temsil eder.
+- **Sertifikasyon sayısı:** Şirketiniz içinde yer alan kişilerin ettiği toplam sertifika sayısını temsil eder.
+- **Değerlendirmeleri olan bireyler:** şirketinizin değerlendirme kimlik bilgilerine sahip olan ayrı bireylerin sayısını temsil eder. 
+- **Değerlendirme sayısı:** şirketinizin bireyleri tarafından yapılan toplam değerlendirme sayısını temsil eder.
+- **Sınavları olan bireyler:** şirketiniz içinde sınav kimlik bilgilerine sahip olan ayrı bireylerin sayısını temsil eder. 
+- **Sınav sayısı:** Şirketinizin bireyleri tarafından yapılan toplam sınav sayısını temsil eder.
 
 ## <a name="training-performance"></a>Eğitim performansı
 
-Eğitim performansı, şirket içi kişilerin ay sayısını ve şirketinizde tamamlanan kişileri gösterir. Bu, seçili tarih aralığı için bir grafik biçiminde sertifikalar, değerlendirmeler ve Sınavlar tarafından bölünür. X ekseni, seçili tarih aralığı için ayları temsil eder. Y ekseni, seçilen eğitim türü için farklı bireyler ve gerçekleştirilen seyahat sayısını temsil eder. Dökümü eğitim türüne göre görüntülemek için grafiğin üzerindeki ilgili sekmeleri seçin. Grafik verileri, seçilen tarih aralığı için. tsv biçimindeki indirme simgesiyle indirilebilir.
+Eğitim performansı, aylık kişi sayısını ve şirketinizin bireyler tarafından tamamlanan eğitimlerini sunar. Seçilen tarih aralığı için grafik şeklinde sertifikalara, değerlendirmelere ve sınavlara göre ayrılır. X ekseni, seçilen tarih aralığı için ayları temsil eder. Y ekseni, seçilen eğitim türü için ayrı kişi sayısını ve alınan eğitim sayısını temsil eder. Dökümü eğitim türüne göre görüntülemek için grafiğin üzerindeki ilgili sekmeleri seçin. Grafik verileri, seçilen tarih aralığı için .tsv biçimindeki indirme simgesi aracılığıyla indirilebilir.
 
-:::image type="content" source="images/insights/training-dashboard-training-performance.png" alt-text="Eğitim performansı.":::
+:::image type="content" source="images/insights/training-dashboard-training-performance.png" alt-text="Eğitim Performansı.":::
 
-## <a name="individuals-performance"></a>Bireysel kişilerin performansı
+## <a name="individuals-performance"></a>Kişilerin performansı
 
-Kişilerin performans bölümü, şirketinizdeki bireyler tarafından seçilen tarih aralığı için alınan eğitimin ayrıntılarını sunar. Bölümün sol bölmesinde bir bireyin adı arayın ve seçin. Seçili bireyin için eğitim ayrıntıları bölümün sağ bölmesinde görüntülenir.
+Kişiler'in performans bölümünde, seçilen tarih aralığı için şirketiniz içinde yer alan kişiler tarafından alınan eğitimin ayrıntıları yer almaktadır. Bölümün sol panelinde bir kişinin adını arama ve seçme. Seçilen kişiye ilişkin eğitim ayrıntıları, bölümün sağ panelinde görüntülenir.
 
-:::image type="content" source="images/insights/training-dashboard-individual-performance.png" alt-text="Bireysel performans.":::
+:::image type="content" source="images/insights/training-dashboard-individual-performance.png" alt-text="Bireysel Performans.":::
 
 >[!NOTE] 
-> Bireyler performans bölümü yalnızca Executive rapor izleyicileri olan kullanıcılar tarafından kullanılabilir. 
+> Bireysel performans bölümü yalnızca yönetici rapor görüntüleyicisi olan kullanıcılar tarafından kullanılabilir. 
 
 ## <a name="next-steps"></a>Sonraki Adımlar
 
-[iş ortağı merkezi Analizler raporları](partner-center-insights.md)
+[İş Ortağı Merkezi Analizler'daki raporlar](partner-center-insights.md)
 
 >[!NOTE] 
-> ham verileri, Analizler panosundaki raporları indir bölümünden bu raporu güçden indirebilirsiniz. [Daha Fazla Bilgi](insights-download-reports.md)
+> Bu raporu güçlü bir şekilde kullanarak ham verileri panonun Raporları İndir bölümünden Analizler indirebilirsiniz. [Daha Fazla Bilgi](insights-download-reports.md)

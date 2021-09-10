@@ -2,24 +2,24 @@
 title: Salesforce CRM için ortak satış bağlayıcısı İş Ortağı Merkezi
 ms.topic: how-to
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-referrals
 description: Şirket içinde referanslarınızı Salesforce CRM İş Ortağı Merkezi ile eşitler. Bundan sonra satış satıcıları CRM sistemlerinizin içinde Microsoft ile ortak satışlar da kullanabilir.
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.date: 06/28/2021
-ms.openlocfilehash: 726e9071347e1590885b4bf82676f7767311f945
-ms.sourcegitcommit: c4601069340445135b551fa96bee6d9923d8aa97
+ms.openlocfilehash: 4a98bd2e98aa1533806205179812af6507b2a2af
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 07/01/2021
-ms.locfileid: "113173681"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123960334"
 ---
 # <a name="co-sell-connector-for-salesforce-crm---overview"></a>Salesforce CRM için ortak satış bağlayıcısı - genel bakış
 
 **Uygun roller:** Referans yöneticisi | CRM'de sistem yöneticisi veya sistem özelleştiricisi
 
-İş Ortağı Merkezi ortak satış bağlayıcısı, satış satıcılarının CRM sistemlerinizin içinde Microsoft ile ortak satışlar oluşturmalarını sağlar. Ortak satış anlaşmalarını yönetmek için bu İş Ortağı Merkezi için eğitilmaları gerek olmayacaktır. Ortak satış bağlayıcılarını kullanarak, bir Microsoft satıcısıyla etkileşime geçen, Microsoft satıcısından referanslar almak, referansları kabul etmek/reddetmek, satış anlaşması değeri ve kapanış tarihi gibi satış verilerini değiştirmek için yeni bir Ortak satış referansı oluşturabilirsiniz.  Bu Ortak satış anlaşmaları hakkında Microsoft satıcılarından güncelleştirmeleri de edinirsiniz. Tüm referanslarınızı iş yerine kendi tercihli CRM'de çalışırken İş Ortağı Merkezi.
+İş Ortağı Merkezi ortak satış bağlayıcısı, satış satıcılarının CRM sistemlerinizin içinde Microsoft ile ortak satışlar oluşturmalarını sağlar. Ortak satış anlaşmalarını yönetmek için İş Ortağı Merkezi kullanmak üzere eğitilmaları gerek olmayacaktır. Ortak satış bağlayıcılarını kullanarak, bir Microsoft satıcısıyla etkileşime geçen, Microsoft satıcısından referanslar almak, referansları kabul etmek/reddetmek, satış anlaşması değeri ve kapanış tarihi gibi satış verilerini değiştirmek için yeni bir Ortak satış referansı oluşturabilirsiniz.  Bu Ortak satış anlaşmaları hakkında Microsoft satıcılarından güncelleştirmeleri de edinirsiniz. Tüm referanslarınızı iş yerine kendi tercihli CRM'de çalışırken İş Ortağı Merkezi.
 
 Çözüm, Microsoft Power Automate Çözümü'İş Ortağı Merkezi kullanır.
 
@@ -32,11 +32,11 @@ ms.locfileid: "113173681"
 |İş Ortağı Merkezi hesabı|Kiracıyla ilişkilendirilmiş MPN İş Ortağı Merkezi Ortak satış çözümünüzle ilişkili MPN Kimliği ile aynı olması gerekir. Bağlayıcıları dağıtmadan önce ortak satış referanslarınızı İş Ortağı Merkezi portalında gördüğünüzü doğrulayın.|[Hesabınızı yönetme](create-user-accounts-and-set-permissions.md)|
 |İş Ortağı Merkezi rollerini atama|Bağlayıcıları yükecek ve kullanacak olan çalışanın Referans yöneticisi olması gerekir|[Kullanıcı rollerini ve izinlerini atama](create-user-accounts-and-set-permissions.md)|
 |Salesforce CRM|CRM kullanıcı rolü Sistem yöneticisi veya Sistem özelleştiricisi|[Salesforce CRM'de rol atama](https://help.salesforce.com/articleView?id=assigning_users_to_roles.htm&type=5)|
-|Power Automate Flow Hesabı|Test, hazırlama ve üretim için veritabanıyla yeni bir üretim ortamı oluşturun. Veritabanına sahip mevcut bir üretim ortamınız varsa bu ortam yeniden kullanılabilir. Bağlayıcı çözümünü yükacak kullanıcının bu ortama erişim için bir Power Automate lisansına sahip olması gerekir. Yükleme başarısız olursa ilerleme durumunu izleyebilir ve Power Automate [daha](https://flow.microsoft.com/) fazla bilgi edinebilirsiniz. Çözümler **altında Geçmişi gör'i** **seçin.**|[Ortam oluşturma veya yönetme](/power-platform/admin/create-environment#create-an-environment-with-a-database)|
+|Power Automate Flow Hesabı|Test, hazırlama ve üretim için veritabanıyla yeni bir üretim ortamı oluşturun. Veritabanına sahip mevcut bir üretim ortamınız varsa bu ortam yeniden kullanılabilir. Bağlayıcı çözümünü yükleyen kullanıcının bu ortama Power Automate bir lisansa sahip olması gerekir. Yükleme başarısız olursa ilerleme durumunu izleyebilir ve Power Automate [daha](https://flow.microsoft.com/) fazla bilgi edinebilirsiniz. Çözümler **altında Geçmişi gör'i** **seçin.**|[Ortam oluşturma veya yönetme](/power-platform/admin/create-environment#create-an-environment-with-a-database)|
 
 ## <a name="installation-of-salesforce-package-for-microsoft-custom-fields"></a>Microsoft Özel Alanları için Salesforce Paketini Yükleme
 
-İş Ortağı Merkezi ve Salesforce CRM'de referansları eşitlemek için Power Automate çözümün Microsoft'a özgü referans alanlarını net bir şekilde tanımlaması gerekir. Bu karar, iş ortağı satıcı ekiplerine ortak satış için Microsoft ile paylaşmak istediğiniz referansları verme olanağı sağlar.
+İş Ortağı Merkezi ve Salesforce CRM'de referansları eşitlemek için Power Automate çözümünün Microsoft'a özgü referans alanlarını net bir şekilde tanımlaması gerekir. Bu karar, iş ortağı satıcı ekiplerine ortak satış için Microsoft ile paylaşmak istediğiniz referansları verme olanağı sağlar.
 
 1. Salesforce'ta **Notlar'ı** etkinleştirin ve fırsatlarla ilgili listeye ekleyin. [Başvuru](https://help.salesforce.com/articleView?err=1&id=notes_admin_setup.htm&type=5)
 
@@ -49,15 +49,15 @@ ms.locfileid: "113173681"
     >[!NOTE]
     >Korumalı alanı yüklüyorsanız URL'nin ilk bölümünü ile değiştirmeniz `http://test.salesforce.com` gerekir.
 
-1. Salesforce'ta Microsoft Solutions'u **Fırsatla ilgili listesine** ekleyin. Eklendiktan sonra, İngiliz **anahtarı simgesini** seçin ve özellikleri güncelleştirin
+1. Salesforce'ta Microsoft Solutions'u **Fırsatla ilgili listesine** ekleyin. Eklendiktan sonra, İngiliz anahtarı **simgesini** seçin ve özellikleri güncelleştirin
 
 ## <a name="best-practice-test-before-you-go-live"></a>En İyi Yöntem: Canlı yayına başlamadan önce test
 
-Üretim ortamında Power Automate çözümü yüklemeden, yapılandırmadan ve özelleştirmeden önce, çözümü hazırlama CRM örneğinde test etmek için emin olun.
+Üretim ortamında bir çözüm yüklemeden, Power Automate ve özelleştirmeden önce, çözümü hazırlama CRM örneğinde test etmek için emin olun.
 
 - Hazırlama Power Automate/CRM örneğine Microsoft Power Automate çözümünü yükleyin.
 
-- Çözümün bir kopyasını kopyalayın, yapılandırmanızı çalıştırın ve Power Automate ortamında akış özelleştirmelerini çalıştırın.
+- Çözümün bir kopyasını kopyalayın, yapılandırmanızı çalıştırın ve Power Automate akış özelleştirmelerini hazırlama ortamında çalıştırın.
 
 - Çözümü hazırlama/CRM örneğinde test edin.
 
@@ -85,9 +85,9 @@ ms.locfileid: "113173681"
 
 1. Ardından Çözümlerinizi yönetme sayfasına **yönlendirildiniz.**  Sayfanın alt İş Ortağı Merkezi ok düğmelerini kullanarak "İş Ortağı Merkezi Referanslar" sayfasına gidin. **Zamanlanan yükleme,** Referanslar çözümünün İş Ortağı Merkezi görüntü gerekir. Yükleme 10-15 dakika sürer.
 
-1. Yükleme tamamlandıktan sonra çalışma alanına geri Power Automate sol [gezinti](https://flow.microsoft.com) **alanında Çözümler'i** seçin. **Salesforce İş Ortağı Merkezi Referans Eşitlemesi'nin çözümler** listesinde kullanılabilir olduğunu fark edin.
+1. Yükleme tamamlandıktan sonra çalışma alanına geri Power Automate [sol](https://flow.microsoft.com) gezinti **alanında Çözümler'i** seçin. **Salesforce İş Ortağı Merkezi Referans Eşitlemesi'nin çözümler** listesinde kullanılabilir olduğunu fark edin.
 
-1. **Salesforce İş Ortağı Merkezi Referans Eşitleme'yi seçin.** Aşağıdaki Power Automate akışlar ve varlıklar kullanılabilir:
+1. **Salesforce İş Ortağı Merkezi Referans Eşitleme'yi seçin.** Aşağıdaki Power Automate ve varlıklar kullanılabilir:
 
    :::image type="content" source="images/cosellconnectors/partner-center-referrals-synchronization.png" alt-text="Salesforce akışları.":::
 
@@ -125,7 +125,7 @@ ms.locfileid: "113173681"
 
 ### <a name="edit-the-connections"></a>Bağlantıları düzenleme
 
-1. Çözümler sayfasına geri **dönüp** Varsayılan **Çözüm'i seçin.** Tüm **'e tıklayarak Bağlantı Başvurusu (önizleme)** **öğesini seçin.**
+1. Çözümler sayfasına **geri dönüp** Varsayılan **Çözüm'i seçin.** Tüm **'e tıklayarak Bağlantı Başvurusu (önizleme)** **öğesini seçin.**
 
    :::image type="content" source="images/connection-reference-video.gif" alt-text="Bağlantıları düzenlemeyi gösteren ekran görüntüsü.":::
 
@@ -245,60 +245,60 @@ Aşağıdaki özel alanlar CRM bölümünün bir parçası olmalıdır:
 
 - **Microsoft Yardımı**: başvuru için Microsoft 'un gerekli yardımı. Ortak satış başvurusu oluşturmak için, Microsoft 'tan gereken uygun yardımı seçin. Ortak satış başvurusu oluşturmak için bir müşteri kişisinin fırsatla ilişkilendirilmesi gerekir. Ortak satış olmayan bir başvuru oluşturmak için bu alanı seçmeyin. Ortak satış olmayan bir başvuru, uygun yardım-gerekli seçeneği belirlenerek her zaman ortak satış başvuruya dönüştürülebilir.
 
-- **Microsoft Iş ortağı merkezi başvuru görünürlüğü**: Iş Ortağı Merkezi başvurusu için görünürlük ' i seçin. Bunu Microsoft satış satıcılarının kullanımına açık hale dönüştürerek ortak satış olmayan bir referans ortak satışa dönüştürülmüş olabilir. Microsoft yardımı gerektiğinde referans, Varsayılan olarak Microsoft satıcılarının kullanımına açıktır. Bu alan görünür olarak işaretlendikten sonra geri döndürülmeyebilir.
+- **Microsoft Iş ortağı merkezi başvuru görünürlüğü**: Iş Ortağı Merkezi başvurusu için görünürlük ' i seçin. Ortak satış olmayan bir başvuru, Microsoft satıcıları için görünür hale getirerek ortak satış olarak dönüştürülebilir. Microsoft Yardım gerektiğinde, başvuru varsayılan olarak Microsoft satıcılarıyla görülebilir. Bu alan görünür olarak işaretlendikten sonra geri döndürülemez.
 
-- **Microsoft CRM:** Ortak satış referansı oluşturulduğunda ve Microsoft tarafından kabul edilirken, bu alan Microsoft'un CRM tanımlayıcısıyla doldurulur.
+- **Microsoft CRM tanımlayıcı**: microsoft tarafından bir ortak satış başvurusu oluşturulup kabul edildiğinde, bu alan microsoft 'un CRM tanımlayıcısı ile doldurulur.
 
-- **Microsoft İş Ortağı Merkezi Çözümleri:** Ortak satışa hazır çözümleri veya Microsoft çözümlerini fırsatla ilişkilendirmek için özel bir nesne. Fırsattan bir veya daha fazla çözüm eklenebilir veya kaldırılabilir. Microsoft ile paylaşmadan önce fırsata en az bir ortak satışa hazır veya Microsoft çözümü eklemek zorunludur. Bu nesneyi fırsatla ilişkilendirmek için **CRM'de Fırsat** formunu güncelleştirin.
+- **Microsoft Iş ortağı merkezi çözümleri**: ortak satış için hazırlanma çözümlerini veya Microsoft çözümlerini fırsatla ilişkilendirmek için özel bir nesne. Fırsatta bir veya daha fazla çözüm eklenebilir veya kaldırılabilir. Microsoft ile paylaşmadan önce fırsata en az bir ortak satış veya Microsoft çözümü eklemek zorunludur. Bu nesneyi fırsatla ilişkilendirmek için CRM 'de **fırsat** formunu güncelleştirin.
 
-- **Denetim:** Referanslarla eşitleme için salt okunur bir denetim İş Ortağı Merkezi izi
+- **Denetim**: Iş Ortağı Merkezi başvurularına eşitleme için salt okunurdur bir denetim izi
 
-### <a name="scenarios"></a>Senaryo
+### <a name="scenarios"></a>LARLA
 
-1. Referans CRM'de oluşturulduğunda veya güncelleştirildiğinde ve referansta eşit İş Ortağı Merkezi:
+1. CRM 'de başvuru oluşturulduğunda veya güncelleştirilirken ve Iş Ortağı Merkezi 'nde eşitlendiğinde başvuru eşitlemesi:
 
-   1. CRM'nin Fırsat bölümünde görünürlüğü olan kullanıcıyla Salesforce CRM **ortamında** oturum açma.
+   1. CRM 'nin **fırsat** bölümünde görünürlük olan KULLANıCıYLA Salesforce CRM ortamınızda oturum açın.
 
-   1. Salesforce CRM ortamında **yeni İş Ortağı Merkezi** microsoft İş Ortağı Merkezi bölümünün **mevcut** olduğundan emin olmak.
+   1. Salesforce CRM ortamında **Yeni bir fırsat** oluşturduğunuzda **Microsoft iş ortağı merkezi** 'nin mevcut olduğundan emin olun.
 
-   1. İş Ortağı Merkezi ile başarıyla eşitlenen fırsatlar Salesforce CRM'✔ simgesiyle tanımlanır.
+   1. Iş Ortağı Merkezi ile başarıyla eşitlenen fırsatlar, Salesforce CRM 'de ✔ simgesiyle tanımlanır.
       :::image type="content" source="images/salesforce/salesforce-environment.png" alt-text="Salesforce ortamının ekran görüntüsü.":::
 
-   1. Bu fırsatı Microsoft İş Ortağı Merkezi eşitlemek için, kart görünümünde aşağıdaki alanları ayar
+   1. Bu fırsatı Microsoft Iş Ortağı Merkezi ile eşleştirmek için, kart görünümünde aşağıdaki alanları ayarlamış olduğunuzdan emin olun:
 
-      - **Microsoft nasıl yardımcı olabilir?**: Ortak satış referansı oluşturmak için uygun yardım seçeneğini belirleyin.
+      - **Microsoft nasıl yardım edebilir?**: ortak satış başvurusu oluşturmak için uygun bir yardım seçeneği belirleyin.
 
-        :::image type="content" source="images/salesforce/salesforce-help-option.png" alt-text="Kart görünümünde uygun alanların nasıl alınacaklarını gösteren ekran görüntüsü.":::
+        :::image type="content" source="images/salesforce/salesforce-help-option.png" alt-text="Kart görünümünde uygun alanların nasıl alınacağını gösteren ekran görüntüsü.":::
 
-      - **İş Ortağı Merkezi** ile eşitleme: Evet
-      - **Müşteriyle** iletişim: Ortak satış referansı oluşturmak için fırsata bir müşteri ilgili kişisi ekleyin.
-      - **Microsoft Çözümleri:** Referansı Microsoft ile paylaşmak için fırsata geçerli bir ortak satışa hazır veya Microsoft çözümü ekleyin.
+      - **Iş Ortağı Merkezi Ile Eşitle**: Evet
+      - **Müşteri iletişim**: ortak satış başvurusu oluşturmak için, fırsata bir müşteri kişisi ekleyin.
+      - **Microsoft çözümleri**: bir başvuruyu Microsoft ile paylaşmak için, fırsata geçerli bir ortak satış veya Microsoft çözümü ekleyin.
 
-   1. Fırsat ile eşitle seçeneğini Evet **İş Ortağı Merkezi,** 10 dakika bekledikten sonra hesap hesabınızla İş Ortağı Merkezi olun.  Referanslar Salesforce CRM ile eşitlenir ve Referans Bağlantısı doldurulur. Bir hata varsa Denetim alanı hata bilgileriyle doldurulur.
+   1. **Iş Ortağı Merkezi ile fırsat eşitlemesi** seçeneğini **Evet** olarak ayarladıktan sonra, 10 dakika bekleyin, iş ortağı Merkezi hesabınızda oturum açın. Başvurularınız Salesforce CRM ile eşitlenecek ve başvuru bağlantısı doldurulacak. Bir hata oluşursa, denetim alanı hata bilgileriyle doldurulur.
 
-   1. Benzer şekilde,  İş Ortağı Merkezi ile eşitle seçeneği **Evet** olarak ayarlanırsa, Salesforce CRM'de fırsatı güncelleştirerseniz, değişiklikler İş Ortağı Merkezi eşitlenir.
+   1. Benzer şekilde, **Iş Ortağı Merkezi Ile Eşitle** seçeneği **Evet** olarak AYARLANDıĞıNDA, fırsatı Salesforce CRM 'de güncelleştirirseniz değişiklikler iş ortağı merkezi hesabınızla eşitlenir.
 
-2. Referans Microsoft İş Ortağı Merkezi'de oluşturulduğunda veya güncelleştirildiğinde ve Salesforce CRM ortamında eşitlenirken Referans Eşitleme:
+2. Microsoft Iş Ortağı Merkezi 'nde başvuru oluşturulduğunda veya güncelleştirilirken ve Salesforce CRM ortamında eşitlendiğinde başvuru eşitlemesi:
 
-    1. Panonuza İş Ortağı Merkezi [açın.](https://partner.microsoft.com/dashboard/home)
+    1. Iş Ortağı Merkezi [panonuzda](https://partner.microsoft.com/dashboard/home)oturum açın.
 
-    1. Sol **menüden** Referanslar'ı seçin.
+    1. Sol taraftaki menüden **referanslar** ' ı seçin.
 
-    1. "Yeni anlaşma" seçeneğine tıklayarak İş Ortağı Merkezi ortak satış referansı oluşturun.
+    1. "Yeni anlaşma" seçeneğine tıklayarak Iş Ortağı Merkezi 'nden yeni bir ortak satış başvurusu oluşturun.
 
-    1. Salesforce CRM ortamında oturum açma.
+    1. Salesforce CRM ortamınızda oturum açın.
 
-    1. Açık **Fırsatlar'a gidin.** Microsoft İş Ortağı Merkezi salesforce CRM'de oluşturulan referans eşitlenir.
+    1. **Açık fırsatlara** gidin. Microsoft Iş Ortağı Merkezi 'nde oluşturulan başvuru artık Salesforce CRM 'de eşitlendi.
 
-    1. Eşitlenmiş bir referansı seçerek kart görünümü ayrıntıları doldurulur.
+    1. Eşitlenmiş bir başvuruyu seçtiğinizde, kart Görünümü ayrıntıları doldurulur.
 
        :::image type="content" source="images/salesforce/salesforce-casino.png" alt-text="Salesforce fırsat sayfasının ekran görüntüsü.":::
 
 >[!NOTE]
->**Dağıtımla ilgili yardıma mı ihtiyacınız var?**
->Ortak satış referans bağlayıcısı dağıtımıyla ilgili yardım için bir İş Ortağı Teknik Danışmanı ile etkileşime geçin. Başarılı bir uygulama için dağıtım yardımı ve en iyi yöntemler sağlar.
+>**Dağıtım ile ilgili yardıma mı ihtiyacınız var?**
+>Ortak satış referans bağlayıcı dağıtımınız hakkında yardım almak için Iş ortağı teknik danışmanına sahip olabilirsiniz. Dağıtım yardımı ve başarılı bir uygulama için en iyi uygulamalar sağlayabilir.
 >
->Daha fazla bilgi için, [bkz. How to Submit a technical presales and deployment services request](technical-benefits.md)
+>Daha fazla bilgi için bkz. [Teknik satış öncesi ve Dağıtım Hizmetleri Isteği gönderme](technical-benefits.md)
 
 ## <a name="next-steps"></a>Sonraki adımlar
 

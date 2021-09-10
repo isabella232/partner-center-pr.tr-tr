@@ -9,21 +9,21 @@ author: shthota77
 ms.author: shthota
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8ab68cbae952b8eab24dd989386007cd0c2fcc559cd48eb37256b80ce1146acf
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 5c063788b11dfb2507ff88a1774a94f21f6ebca5
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115678592"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123960245"
 ---
 # <a name="overview-dashboard-reports-available-in-partner-center-insights"></a>Genel bakış pano raporları İş Ortağı Merkezi Analizler
  
-**Uygun roller:** Genel yönetici | Yönetici aracısı | Rapor görüntüleyici | Yönetici raporu görüntüleyicisi
+**Uygun roller:** Genel yönetici | Yönetici aracısı | Rapor görüntüleyicisi | Yönetici raporu görüntüleyicisi
 
-Genel Analizler panosu Müşteriler, Abonelikler, Azure Tüketim Geliri ve Lisanslar gibi Ana Performans Göstergelerinin (KIP) anlık görüntüsünü sağlar. Genel Bakış raporunda aşağıdaki grafikleri görselleştirebilirsiniz.
+Analizler Genel Bakış panosu Müşteriler, Abonelikler, Azure Tüketim Geliri ve Lisanslar gibi Ana Performans Göstergelerinin (KIP) anlık görüntüsünü sağlar. Genel Bakış raporunda aşağıdaki grafikleri görselleştirebilirsiniz.
 
 - Özet  
-- Müşterileriniz, aboneliklerinizi ve lisanslarınızı coğrafi olarak yayma  
+- Müşterileriniz, abonelikleri ve lisanslarınızı coğrafi olarak yayma  
 - Müşterilerin büyüme eğilimi 
 - Aboneliklerin büyüme eğilimi 
 - Azure tarafından tüketilen gelir artışı eğilimi 
@@ -78,17 +78,17 @@ Müşteriler **alanı** şunları içerir:
  
 - Seçilen zaman dönemi içinde müşteri aboneliklerinize dağıtılan tüm Bulut ürünü lisanslarının sayısı. 
 - Seçilen tarih aralığı boyunca bu lisanslardaki büyüme veya düşüş yüzdesi. 
-- Mikro grafik, seçilen tarih aralığına göre atanan bu lisans sayısına göre aylık eğilimini gösterir.
+- Mikro grafik, seçilen tarih aralığındaki bu atanan lisans sayısına göre aylık eğilimini gösterir.
 
-## <a name="geographical-spread-of-your-customers-subscriptions-and-licenses"></a>Müşterileriniz, aboneliklerinizi ve lisanslarınızı coğrafi olarak yayma
+## <a name="geographical-spread-of-your-customers-subscriptions-and-licenses"></a>Müşterileriniz, abonelikleri ve lisanslarınızı coğrafi olarak yayma
 
-Bu görünüm, toplam müşterilerin, aboneliklerin ve lisansların müşteri ülkelerinin coğrafi dağılımıdır. Bu içgörüleri haritada görüntülemek için farklı sekmeleri seçin. Haritanın konumunu yakınlaştırmak için kılavuzda bir ülke arayabilir ve bu ülkeyi seçin. Haritada Giriş düğmesine basarak özgün görünüme geri dönebilirsiniz. Her sekmeye (örneğin, Müşteriler, Abonelikler) tıklarken her ülke için ölçümün değeri ve ülke için Toplam değeri görüntülenir.  
+Bu görünüm, toplam müşterilerin, aboneliklerin ve lisansların müşteri ülkelerinin coğrafi dağılımıdır. Bu içgörüleri haritada görüntülemek için farklı sekmeleri seçin. Haritanın konumunu yakınlaştırmak için kılavuzda bir ülke arayabilir ve bu ülkeyi seçin. Haritada Giriş düğmesine basarak özgün görünüme geri dönebilirsiniz. Her sekmeye (örneğin Müşteriler, Abonelikler) tıklarken her ülke için ölçümün değeri ve ülke için Toplam değeri görüntülenir.  
 
 :::image type="content" source="images/insights/geosummary.png" alt-text="Coğrafi özet.":::
 
 ## <a name="customers-growth-trend"></a>Müşterilerin büyüme eğilimi
 
-Seçilen tarih aralığı için toplam müşteri sayılarının aylık eğilimi. X ekseni seçilen tarih aralığının aylarını, Y ekseni ise söz konusu ay için toplam müşteri sayısını temsil eder. 
+Seçilen tarih aralığı için toplam müşteri sayılarının aylık eğilimi. X ekseni seçilen tarih aralığının aylarını, Y ekseni ise o aya göre toplam müşteri sayısını temsil eder. 
 
 :::image type="content" source="images/insights/customer-growth.png" alt-text="müşteri büyüme eğilimi.":::
 

@@ -8,12 +8,12 @@ description: Iş Ortağı Merkezi öngörülerine tüm kullanılabilir rapor KIM
 author: kshitishsahoo
 ms.author: ksahoo
 ms.localizationpriority: medium
-ms.openlocfilehash: 9c6930d8be430f6a9219e7b3d11b2e64ed2af5253b81581581ad6254a2a1d8d3
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: dc0e3925aeb07adc0e2b38af2913c63d3183941e
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115697151"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123960895"
 ---
 # <a name="get-report-api"></a>Rapor API 'SI al
 

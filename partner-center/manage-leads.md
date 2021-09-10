@@ -4,91 +4,91 @@ ms.topic: article
 ms.date: 06/02/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-referrals
-description: Iş ortağı merkezini kullanarak başvuruları yanıtlayın ve yeni, mevcut ve arşivlenmiş müşteri adaylarını ve başvuruları yönetin. Daha sonra da daha fazla başvuru almayı öğrenin.
+description: Referanslara İş Ortağı Merkezi ve yeni, mevcut ve arşivlenmiş müşteri adaylarını ve referansları yönetmek için kaynak kaynaklarınızı kullanın. Gelecekte daha fazla referans elde etmeyi de öğrenin.
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f388d5d31576c92f1f0fdef4749fe653c18654a48be701b0d356458b8fe7a661
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 3ed41fa499872147ac86f5d30770ad52b6bf0cfb
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115694889"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123960314"
 ---
 # <a name="manage-different-leads-like-customer-inquiries-marketing-qualified-leads-and-sales-qualified-leads"></a>Müşteri sorguları, pazarlama için nitelikli müşteri adayları ve satış için nitelikli müşteri adayları gibi farklı müşteri adaylarını yönetme
 
-**Uygun roller**: MPN iş ortağı Yöneticisi | Başvuru Yöneticisi
+**Uygun roller:** MPN iş ortağı yöneticisi | Referans yöneticisi
 
-Microsoft, her yıl iş ortaklarına milyonlarca müşteri adayı gönderir. Microsoft 'tan müşteri adaylarını alma ve işinizi oluşturma fırsatınız vardır. Bu bölüm, Microsoft çözüm sağlayıcısı sayfasından aldığınız müşteri adaylarını yönetmeyi ve bunları üzerinde işlem yapılacağını anlamanıza yardımcı olur.
+Microsoft, iş ortaklarına yılda milyonlarca müşteri adayı gönderiyor. Microsoft'tan müşteri adayları alma ve işlerinizi oluşturma fırsatınız var. Bu bölüm, Microsoft çözüm sağlayıcısı sayfasından gelen müşteri adaylarını yönetmeyi ve bunlar üzerinde harekete geçebilirsiniz.
 
-Müşteri adaylarını almak için önkoşul, şirketiniz için [bir iş profili oluşturmaktır](create-a-marketing-profile.md) . Şirketiniz için oluşturduğunuz iş profili, [Microsoft çözüm sağlayıcısı](https://www.microsoft.com/solution-providers/home) Web sayfasında yer alan müşteri, diğer iş ortakları ve Microsoft satıcılarına yönelik olarak görünür olmanıza yardımcı olur. İş profili bilgileriniz, şirketinizin uzmanlığa yönelik veriler ve ek onaylama bilgileri gibi şirketinizin üyelik bilgileriyle birlikte çalışarak, iş ortağının çalışması için arama yaparken müşterilere yönelik zengin bir profil sağlar. Microsoft çözüm sağlayıcısı sayfasındaki profil listesinden kaynaklanan tüm istekler, sol gezinti bölmesindeki **referanslar** sekmesinde bulunan **müşteri adayları** bölümünde bulunur.
+Müşteri adaylarını almak için önkul, [şirketiniz için bir iş](create-a-marketing-profile.md) profili oluşturmaktır. Microsoft çözüm sağlayıcısı web sayfasında, şirket için oluştur ettiğiniz iş profili olası müşterilere, diğer iş ortaklarına ve Microsoft satıcılarına [görünmenize yardımcı](https://www.microsoft.com/solution-providers/home) olur. İş profili bilgileri, microsoft'un yetkinlik verileri ve ek onayları gibi şirket üyelik bilgileriyle bir araya geldiğinde, müşteriler birlikte çalışmak için bir iş ortağı arayabilecekleri zaman müşteriler için zengin bir profil sağlar. Microsoft çözüm sağlayıcısı sayfasındaki profil listesiyle ilgili tüm istekler, sol gezinti  bölmesindeki Referanslar sekmesinin altındaki Müşteri Adayları bölümünde mevcuttur. 
 
-## <a name="types-of-leads"></a>Müşteri adayları türleri
+## <a name="types-of-leads"></a>Müşteri Adayı Türleri
 
-**Müşteri sorguları** – bunlar doğrudan müşterilerden kaynaklanan müşteri adaylardır. Şirket Profilinizi aradı ve buldu ve ihtiyacı ve iletişim ayrıntılarını belirten formu doldurdu.
+**Müşteri sorguları** : Bunlar doğrudan müşterilerden kaynaklanan müşteri adaylarıdır. Bir şirket, şirket profilinizi arayarak buldu ve ihtiyacı ve iletişim ayrıntılarını belirten formu doldurdu.
 
-**Pazarlama niteliği** : Bunlar, şirketinizin çeşitli pazarlama kanallarından biri aracılığıyla müşteri isteği almış olduğu Microsoft çalışanları tarafından şirketinize gönderilen müşteri adaylarıdır.
+**Pazarlama uygun** – Bunlar, çeşitli pazarlama kanallarından biri aracılığıyla müşteri isteğini alan Microsoft çalışanları tarafından şirketinize gönderilen müşteri adaylarıdır.
 
-**Satış niteliği** : Bunlar, müşterinin gereksinimlerini toplayan ve müşterilerin bir müşteri sorununu çözmek için doğru ortağı bulmasına yardımcı olan Microsoft satıcıları tarafından size gönderilen müşteri adaylardır. Bu müşteri adayları, Microsoft satış temsilcisinin, anlaşma kapanışına kadar iş ortağı ve müşteri ile etkin bir şekilde çalıştığı ortak satış fırsatlarıyla aynı değildir.
+**Uygun satış** – Bunlar, bir müşteriden gereksinimleri topan ve müşteri sorununu çözmek için doğru iş ortağını bulmalarına yardımcı olan Microsoft satıcılarının size gönderdiği müşteri adaylarıdır. Bu müşteri adayları, bir Microsoft satış temsilcisinin anlaşma kapatana kadar iş ortağı ve müşteriyle etkin bir şekilde birlikte bulunduğu Ortak satış fırsatlarıyla aynı değildir.
 
-## <a name="navigating-the-leads-section"></a>Müşteri adayları bölümünde gezinme
+## <a name="navigating-the-leads-section"></a>Müşteri Adayları bölümünde gezinme
 
 Müşteri adayları bölümünde üç üst düzey sekme vardır. 
 
-**Market müşteri adayları** : Bunlar, müşteri sorguları olan Microsoft çözüm sağlayıcısı sayfa aramalarından kaynaklanan tüm adaylardır.
+**Market müşteri adayları** – Bunlar, müşteri sorguları olan Microsoft çözüm sağlayıcısı sayfa aramalarından kaynaklanan tüm müşteri adaylarıdır.
 
-**Nitelikli müşteri adayları** : Bu, pazarlama niteliği ve satış niteliği türünde tüm müşteri adaylardır.
+**Nitelikli müşteri adayları** – Bunların hepsi Marketing nitelikli ve Satış nitelikli türünde müşteri adaylarıdır.
 
-**Sık Kullanılanlar** : market müşteri adayları veya nitelikli müşteri adayları sekmesinde sık kullanılanlar olarak işaretlenen tüm müşteri adayları, bu sekmede gösterilir. Liste görünümündeki müşteri adayının kalp simgesine tıklayarak herhangi bir müşteri adayını sık kullanılan olarak işaretleyebilirsiniz. Yalnızca aynı simgeye tıklayarak bu müşteri adayını sık kullanılanlardan kaldırabilirsiniz.
+**Sık** Kullanılanlar – Market müşteri adayları veya Nitelikli müşteri adayları sekmesinde sık kullanılan olarak işaretlenmiş tüm müşteri adayları bu sekmede gösterilir. Liste görünümünde müşteri adayının kalp simgesine tıklayarak müşteri adaylarını sık kullanılanlara ekleyebilirsiniz. Aynı simgeye yeniden tıklayarak müşteri adaylarını sık kullanılanlardan kaldırabilirsiniz.
 
-## <a name="responding-to-a-lead"></a>Bir müşteri adayına yanıt verme
+## <a name="responding-to-a-lead"></a>Müşteri adayına yanıt verme
 
-Her bir müşteri adayı kendi yaşam döngüsü boyunca gider. Bu bölüm, her aşamada gerçekleştirebileceğiniz farklı aşamaları ve eylemleri tanımlar.
+Her müşteri adayı kendi yaşam döngüsü boyunca hareket eder. Bu bölüm, farklı aşamaları ve her aşamada gerçekleştirebilirsiniz eylemleri tanımlar.
 
-### <a name="received-stage"></a>Aşama alındı
+### <a name="received-stage"></a>Alınan aşama
 
-Bu aşamada, doğrudan müşteriden veya bir Microsoft çalışanından yeni bir müşteri adayı aldınız. Ayrıntıları gözden geçirin ve iş ihtiyaçları hakkında daha fazla bilgi edinmek istiyorsanız müşteriyle iletişim kurun.
+Bu aşamada, doğrudan müşteriden veya bir Microsoft çalışandan yeni bir müşteri adayı almış oluruz. Ayrıntıları gözden geçirebilirsiniz ve iş ihtiyaçları hakkında daha fazla bilgi edinmek için müşteriyle iletişime geçebilirsiniz.
 
-Bu aşamada iki eylem gerçekleştirebilirsiniz-başvuruyu kabul edin veya reddedin:
+Bu aşamada, referansı kabul etme veya reddetme olmak için iki eylem gerçekleştirin:
 
-- **Kabul et**: anlaşma, tahmini anlaşma değeri ve tahmini satın alma süresi çerçevesi için bir ad girin. Ayrıca, müşterinin **aradıklarıyla** ilgili daha fazla bilgi için Notlar alanına bilgi sağlamanız gerekir. İsteğe bağlı olarak, CRM KIMLIĞINIZI buraya girebilirsiniz (yalnızca başvurağınız için), pazarlama kampanyası KIMLIĞI, ilgili müşteri adayıyla sonuçlanmış ve şirketinizden ek kişiler ekleyebilirler. İşiniz bittiğinde **İleri**' yi seçin. Başvuruyu bir **sonraki aşamaya** taşıyacağız, bu da ihtiyaçları karşılamak üzere müşteriyle birlikte etkin bir şekilde katılım planladığınız anlamına gelir. Gelecekte de benzer anlaşmalar bulmanıza yardımcı olması için bu bilgileri kullanacağız. 
+- **Kabul** et: Anlaşma için bir ad, tahmini satış anlaşması değeri ve tahmini satın alma zaman dilimi girin. Ayrıca müşterinin ne aray yaptığını **daha** fazla açıklamak için Notlar alanına bilgi de sağlayabilirsiniz. İsteğe bağlı olarak CRM kimliğinizi buraya girebilirsiniz (yalnızca başvuru için), ilgili müşteri adayıyla sonuçlanan pazarlama kampanyası kimliği ve şirketten ek kişiler ekleme. Bitirdikten sonra, Sonraki'yi **seçin.** Referansı bir sonraki aşamaya **taşıycaz.** Bu, müşteriyle ihtiyaçlarına göre etkin bir şekilde etkileşime geçebilirsiniz. Gelecekte benzer anlaşmaları bulanlara yardımcı olmak için de bu bilgileri kullanacağız. 
 
-- **Reddet**: anlaşmayı reddettiğinizi ve dahil etmek istediğiniz tüm notları ekleyin ve ardından anlaşmayı **Kapat** ' ı seçin. Bu dosyayı **reddedildi** olarak arşivleyecektir ve müşteriye farklı bir iş ortağı seçmesini bilgilendireceğiz.
+- **Reddetme:** Teklifi reddetme nedenini seçin ve eklemek istediğiniz notları ekleyin ve ardından Satışları **kapat'ı** seçin. Bunu Reddedildi olarak **arşivleyecek ve** müşteriye farklı bir iş ortağı seçmesi için bildirecek.
 
-- Ayrılan süre (14 gün) içinde yanıt vermezseniz, bunu **süresi dolduğunda** arşivleyip Microsoft 'un veya bu fırsatı gönderen iş ortağının bilgilendireceğiz.
+- Bu süre içinde (şu anda 14 gün) yanıt vermiyorsanız, bu  süre doldu olarak arşivlenir ve Microsoft'a veya size bu fırsatı size yollayan iş ortağına bildirim gönderilir.
 
 > [!TIP]
-> Müşterinin, ilgili iş ortaklarının bunlarla doğrudan iletişim kurma seçeneği vardır. Bu durumda, sayfanın en üstünde Flam simgesiyle bir uyarı görürsünüz. Anlaşmayı kazanmanız olasılığınızı artırmak için, müşteriyi olabildiğince çabuk iletişim kurmak için kesinlikle iletişime geçmeniz önerilir. 72 saat sonra, başvuru etkin olmaya devam eder, ancak simge ve ileti değişir. Başvuruyu izlemek istiyorsanız müşteriyle iletişim kurmaya devam etmelisiniz.
+> Bir müşteri, ilgili iş ortaklarının doğrudan onlarla iletişim kurması için açıkça istekte bulundurma seçeneğine sahip olur. Böyle bir durumda, sayfanın üst kısmında simgesiyle bir uyarı görebilirsiniz. Anlaşmayı kazanma şansınızı artırmak için mümkün olan en kısa sürede müşteriye ulaşmanız önemle tavsiye edilir. 72 saat sonra referans etkin olmaya devam eder, ancak simge ve ileti değişir. Referansı almakla ilgileniyorsanız yine de müşteriyle iletişim kurmanız gerekir.
 
-### <a name="accepted-stage"></a>Kabul edilen aşama
+### <a name="accepted-stage"></a>Kabul Edilen Aşama
 
-Anlaşmayı kapatmaya çalışırken, kabul edilen bir başvuru için sağladığınız bilgilerden herhangi birini değiştirmek istiyorsanız, **Düzenle**' yi seçin. Ardından, anlaşma adı, tahmini satın alma tarihi, tahmini değer, notlar, CRM KIMLIĞI ve/veya pazarlama kampanya KIMLIĞINI güncelleştirebilirsiniz.  Ayrıca, çalışma üzerinde çalışan ek kişilerin adını, telefon numarasını ve e-posta adreslerini sağlamak için **çalışanlarınıza Ekle** ' yi de seçebilirsiniz.
+Anlaşmayı kapatmak için çalışırken, kabul edilen referans için sağladığınız bilgilerden herhangi birini değiştirmek için Düzenle'yi **seçin.** Ardından satış anlaşması adını, tahmini satın alma tarihini, tahmini değeri, notları, CRM kimliğini ve/veya pazarlama kampanyası kimliğini güncelleştirebilirsiniz.  Anlaşma üzerinde çalışan **diğer kişilerin adını,** telefon numarasını ve e-posta adreslerini sağlamak için Çalışanlarınızı ekleyin'i de seçin.
 
-İşiniz bittiğinde, bu iki eylemden birini alabilir; bu işlem, sonucu raporlamak için işlemi **kazanıldı** veya **kaybedildi** olarak işaretler.
+Bitirdikten sonra iki eylemden birini gerçekleştirebilirsiniz. Bu eylem,  sonucu  uygun şekilde arşivlememiz için anlaşma kazanildi veya Kaybedildi olarak işaretlenir.
 
-### <a name="archived-stage"></a>Arşivlenen aşama
+### <a name="archived-stage"></a>Arşivlenmiş Aşama
 
-Bu, tüm fırsatların son olarak ulaşabileceği bir Terminal aşamasıdır. Bu aşamada **kazanıldı, kaybedildi, reddedildi** ve **zaman aşımına uğradı** gibi tüm müşteri adaylarını görüntüleyebilirsiniz. Bu aşamada gerçekleştirebileceğiniz hiçbir eylem yok.
+Bu, tüm fırsatların son olarak ulaştığı bir terminal aşamasıdır. Bu aşamada, kazanıldı, kaybedildi, reddedildi ve süresi **dolmuş** olan tüm müşteri **adaylarını** görüntüabilirsiniz. Bu aşamada gerçekleştir herhangi bir eylem gerçekleştiresiniz.
 
 ## <a name="getting-more-leads"></a>Daha fazla müşteri adayı alma
 
-Daha uygun başvurular almanıza yardımcı olabilecek bazı ipuçları aşağıda verilmiştir:
+Daha uygun referanslar alamanıza yardımcı olacak bazı ipuçları:
 
-- **[İş profilinizde](create-a-marketing-profile.md)benzersiz uzmanlığınızı ve iş modelinizi temsil eden anahtar sözcükleri ve tercihleri seçin**. İlgilendiğiniz başvuruları üreten anahtar sözcükleri kaldırın. Belirli boyuttaki işletmelerle ilgilenmiyorsanız, bu tercihi güncelleştirin.
+- **İş profilinizde benzersiz uzmanlığınızı ve iş modelinizi temsil eden anahtar sözcükleri ve [tercihleri seçin.](create-a-marketing-profile.md)** İlgilenmiyorsanız referanslar oluşturan anahtar sözcükleri kaldırın. Belirli boyuttaki işletmelerle ilgilenmekle ilgileniyorsanız bu tercihi güncelleştirin.
 
-- **Her konum için [iş profilinizde](create-a-marketing-profile.md) kişi bilgilerinizi gözden geçirin**. Takımınızın gelen uyarıları aldığından emin olun.
+- **Her konum için iş [profilinizde iletişim bilgilerini](create-a-marketing-profile.md) gözden geçirme.** Takımınıza gelen uyarıların geldiğinden emin olun.
 
-- **Başvurularına hızla yanıt verin**. Gelen isteklere zamanında yanıt gönderdiğinizde, gelecekteki müşteri arama sonuçlarında görünürlüğünüzü arttıracağız. Takımınızın sizin amacınızla hızla yanıt verdiğini doğrulayın.
+- **Referanslara hızla yanıt verin.** Gelen isteklere zamanında yanıt verdiyken, gelecekteki müşteri arama sonuçlarında görünürlüğü artırmamız gerekir. Takımınıza amacınız ile hızlı bir şekilde yanıt vermenizi sağlar.
 
-- **Kabul ettiğiniz anlaşmalar ile bu koşulları benimseme**. Kabul ettiğiniz ve reddettiğimiz ve bu bilgileri size benzer anlaşmalar bulmaya yardımcı olması için kullandığınız anlaşmalar türlerini izliyoruz. İyi bir uyum olmayan anlaşmalar kabul edilmesi, arama sonuçlarınızı iyileştirmez ve aldığınız müşteri adaylarının kalitesini etkileyebilir.
+- **Kabul edersiniz anlaşmaları ile choosy be choosy**. Kabul etmek ve reddetmek için kullanabileceğiniz anlaşma türlerini takip ediyor ve bu bilgileri kullanarak benzer anlaşmaları bulamıyorum. Uygun olmayan anlaşmaları kabul etmek arama sonuçlarınızı geliştirmez ve elde edilen müşteri adaylarının kalitesini etkiler.
 
-- **Tahmini anlaşma boyutlarını, kapanış tarihlerini ve anlaşmanızın son durumunu (kazanıldı veya kaybedildi) geri rapor edin**. Size kalite başvuruları sağlamaya devam etmek için bu bilgileri kullanacağız.
+- **Tahmini anlaşma boyutlarını, kapanış tarihlerini ve satış** anlaşmalarının son durumunu (kazandı veya kaybedildi) geri raporla. Size kaliteli referanslar sağlamak için bu bilgileri kullan edeceğiz.
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
 - [Ortak satış fırsatlarını yönetme](manage-co-sell-opportunities.md)
 
-- [Dynamics 365 CRM için ortak satış bağlayıcısını edinme](connector-dynamics.md)
+- [Dynamics 365 CRM için ortak satış bağlayıcısı alın](connector-dynamics.md)
 
-- [Salesforce CRM için ortak satış bağlayıcısını edinme](connector-salesforce.md)
+- [Salesforce CRM için ortak satış bağlayıcısı alın](connector-salesforce.md)

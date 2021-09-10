@@ -9,16 +9,16 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8e41210f6eedbea36e72d5d4408fd102e7f7d3289f3f1a7c0ee635fe226aa427
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: fe37a7cdc6ac8e60b9cc5672f4b53813e1f194f8
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115688905"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123961015"
 ---
 # <a name="understand-the-different-charge-types-in-partner-center-reconciliation-files"></a>Mutabakat dosyalarında farklı ücret İş Ortağı Merkezi anlama
 
-**Için geçerlidir:** İş Ortağı Merkezi | İş Ortağı Merkezi için Microsoft Cloud for US Government
+**Uygulama:** İş Ortağı Merkezi | İş Ortağı Merkezi için Microsoft Cloud for US Government
 
 **Uygun roller:** Yönetici aracısı | Faturalama yöneticisi | Genel yönetici
 
@@ -27,11 +27,11 @@ Bu makalede, mutabakat dosyanız üzerinde yer alan fatura bölümü ve ilişkil
 Hem [kullanım tabanlı mutabakat dosyaları hem](usage-based-recon-files.md) de lisans tabanlı mutabakat [dosyaları](license-based-recon-files.md) yalnızca kullanımla ilgili işlemleri ve ücretleri (tüketilen birimler ve ilgili ücretler) gösterir.
 
 > [!NOTE]
-> Düzeltmeler olarak faturada görünen tekli krediler, **indirimler** veya para iadeleri mutabakat dosyasında gösterilmez.
+> Düzeltmeler olarak faturada görünen tekli krediler, indirimler veya para iadeleri mutabakat dosyasında gösterilmez. 
 
 ## <a name="map-charge-types-to-invoice-charges"></a>Ücret türlerini fatura ücretleriyle eşleme
 
-Fatura ve mutabakat dosyanız arasındaki ücret tutarlarına çapraz başvuru yapmak için, fatura ve mutabakat Microsoft Excel. Mutabakat dosyanız üzerinde ücret türlerine göre filtreleerek fatura ücretlerini mutabakat dosyasındaki bir ücret dökümleri kümesiyle eşler.
+Fatura ve mutabakat dosyanız arasındaki ücret tutarlarına çapraz başvuru yapmak için, fatura dosyasındaki filtre Microsoft Excel. Mutabakat dosyanız üzerinde ücret türlerine göre filtreleerek fatura ücretlerini mutabakat dosyasındaki bir ücret dökümleri kümesiyle eşler.
 
 ## <a name="license-based-charges"></a>Lisans tabanlı ücretler
 
@@ -47,7 +47,7 @@ Bu lisans tabanlı ücretleri faturanıza eşlemek için, lisans **tabanlı** do
 | İptal edilirken ücretlerin prorate işlemi | İptalin ardından hizmetin kullanılmayan kısmı için prorated para iadesi. |
 | Geçerli tekliften dönüştürülürken ücretlerin prorate (prorate) | Geçerli aylık abonelikten yıllık aboneliğe dönüştürüldikten sonra prorated ücretler. |
 | Yeni bir teklife dönüştüren ücretlerin prorate (prorate) | Aylık abonelik yeni bir yıllık aboneliğe dönüştürüldikten sonra prorated ücretler. |
-| Satın almada ücret prorate | Aylık veya yıllık faturalama kullanırken aboneliğin ücret türü. |
+| Satın almada ücretleri prorate | Aylık veya yıllık faturalama kullanırken aboneliğin ücret türü. |
 | Yenilemede prorate ücreti | Abonelik yenilemesi sırasında prorated ücretler. |
 | Ücreti yenileme | Aboneliği yenileme ücreti |
 | Etkinleştiren ücretler için prorate (prorate) | Etkinleştirmeden faturalama döneminin sonuna kadar protratılmış ücretler. |
@@ -72,7 +72,7 @@ Bu kullanım ücretlerini faturanıza eşlemek için kullanım tabanlı dosyadan
 
 | Ücret açıklaması (mutabakat dosyasında ChargeType sütunu) | Ücret açıklaması |
 | ------------------------------------------------------------- | ------------------ |
-| İptal edilirken kullanım ücretini değerlendirme | Geçerli faturalama dönemi boyunca ödenmemiş kullanım için iptalten sonra kullanım ücretine erişin. |
+| İptal edilirken kullanım ücretini değerlendirme | Geçerli faturalama dönemi boyunca ödenmemiş kullanım iptali sırasında kullanım ücretine erişin. |
 | Geçerli döngü için kullanım ücretini değerlendirme | Geçerli faturalama dönemi için kullanım ücretine erişin. |
 
 ### <a name="credits"></a>Krediler

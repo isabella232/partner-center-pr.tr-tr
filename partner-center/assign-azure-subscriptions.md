@@ -4,17 +4,17 @@ ms.topic: how-to
 ms.date: 05/13/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-customers
-description: İş Ortağı Merkezi'da müşterilerinize Azure abonelikleri atamayı ve müşterilerin kendi aboneliklerini yönetmesini nasıl etkinleştirebilirsiniz?
+description: İş Ortağı Merkezi'da müşterilerinize Azure abonelikleri atamayı ve müşterilerin kendi aboneliklerini yönetmesini nasıl etkinleştireceklerini öğrenin.
 author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d042f1d2f711e59e3a6bbe320d829a8bbdf9b5dfe50a688dfe5a92b80cbc5090
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 1416c9b12cb6670eb2598f8baa4839996e29f09b
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115687919"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123960755"
 ---
 # <a name="assigning-azure-subscriptions-to-customers-in-partner-center"></a>Azure aboneliklerini müşterilere İş Ortağı Merkezi
 
@@ -26,7 +26,7 @@ ms.locfileid: "115687919"
 
 2. Müşterinin kaydını genişletmek için satırın sonundaki aşağı oku seçin ve sonra da **Microsoft Azure Yönetim Portalı.** Müşterinin Azure portal yönetebilirsiniz. [](https://portal.azure.com/)
 
-3. Veri Azure portal Abonelikler'i **seçin.**
+3. Abonelikler Azure portal'yi **seçin.**
 
 4. Atamak istediğiniz aboneliği seçin ve sonra da **Access Control.**
 
@@ -38,10 +38,10 @@ ms.locfileid: "115687919"
 
 Müşteri için bir Microsoft Azure aboneliği oluşturdukta, aboneliği yönetmelerini etkinleştirebilirsiniz. Bunu yapmak için müşterinin Microsoft Azure Management portalında oturum açabilirsiniz. 
 
-1. Müşterinin listesini açmak Azure portal müşteri listeniz içinde müşterinin listesini genişletin veya müşterinin adını seçin ve ardından seçeneğini **Microsoft Azure Yönetim Portalı.**
+1. Müşterinin listesini açmak Azure portal müşteri listeniz içinde müşterinin listesini genişletin veya müşterinin adını seçin ve ardından **Microsoft Azure Yönetim Portalı.**
 
    > [!NOTE]  
-   > Oturum açmanız istenirse Azure portal yönetici ayrıcalıklarınız devredilene sahip olmaz. Müşteriyi **sizi kayıt ortağı** olarak tanımlamaya davet etmek için İlişki isteğide bulundur'a seçin. Müşteri daveti kabul ettikten sonra size otomatik olarak temsilcili yönetim ayrıcalıkları verildi.
+   > Oturum açmanız istenirse Azure portal yönetici ayrıcalıklarınız yok olabilir. Müşteriyi **sizi Kayıt ortağı** olarak tanımlamaya davet etmek için İlişki isteğide bulundur'a seçin. Müşteri daveti kabul ettikten sonra size otomatik olarak temsilcili yönetim ayrıcalıkları verir.
 
 2. Hizmet Azure portal müşterinin abonelikler listesini açın ve müşterinin Azure aboneliğini seçin.
 

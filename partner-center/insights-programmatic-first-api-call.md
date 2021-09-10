@@ -8,12 +8,12 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.date: 07/14/2021
-ms.openlocfilehash: 76fb1b113a44e195114d67d79f192b3c2dce1071b7502f01af20387f69d62a8f
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 9aac83645051f3e8f32945ae908ba1fe47c08d13
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115697474"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123960944"
 ---
 # <a name="make-your-first-api-call-to-access-partner-insights-analytics-data"></a>İş ortağı içgörüleri analiz verilerine erişmek için ilk API çağrınızı yapma
 
@@ -23,7 +23,7 @@ ms.locfileid: "115697474"
 
 Yöntemlerden herhangi birini çağırmadan önce bir Azure Active Directory (AAD) erişim belirteci elde edin. Api'de her yöntemin Yetkilendirme üst bilgisinde Azure AD erişim belirteci geçmeniz gerekir. Erişim belirteci edindikten sonra, süresi dolmadan önce kullanmak için 60 dakika süreniz vardır. Belirteci süresi dolsa da belirteci yeniler ve API'ye yapılan diğer çağrılar için kullanmaya devam edersiniz.
 
-Belirteç oluşturmak için aşağıdaki örnek isteğine bakın. Belirteci oluşturmak için gereken üç değer , `clientId` `clientSecret` ve `tenantId` değerleridir. Kaynak parametresi şu şekilde ayar olmalıdır: `https://api.partnercenter.microsoft.com`
+Belirteç oluşturmak için aşağıdaki örnek isteğine bakın. Belirteci oluşturmak için gereken üç değer , `clientId` ve `clientSecret` `tenantId` değerleridir. Kaynak parametresi şu şekilde ayar olmalıdır: `https://api.partnercenter.microsoft.com`
 
 #### <a name="request-example"></a>İstek örneği
 
@@ -328,7 +328,7 @@ curl
 }
 ```
 
-Başarılı bir `reportId` yürütmede, raporun indirilmlerini zamanlaması için kullanılacak bir oluşturulur.
+Başarılı bir `reportId` yürütmede, raporun indirilerini zamanlaması için kullanılacak bir oluşturulur.
 
 ### <a name="step-5-execute-report-executions-api"></a>5. Adım: Rapor Yürütme API'sini Yürütme
 

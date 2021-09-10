@@ -8,12 +8,12 @@ description: Ortak satış bağlayıcıları kullanma hakkında sık sorulan sor
 author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
-ms.openlocfilehash: af5f54f1bc4b03fcea0d5aed62f8541c5202166793ab189e355bb2e560fd9f00
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 5143d8e779332fd7df1ebeb3b5175658a0190f4b
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115679971"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123960265"
 ---
 # <a name="troubleshoot-co-sell-referrals-connectors"></a>Ortak satış başvuruları bağlayıcıları sorunlarını giderme
 
@@ -161,41 +161,41 @@ Aşağıdaki adımları uygulayın:
 
 Deneyebileceğiniz seçeneklerden bazıları aşağıda verilmiştir:
 
-- Referans yöneticisi rollerine sahip kullanıcı adı veya parolanın İş Ortağı Merkezi olup olmadığını kontrol edin.
+- Iş Ortağı Merkezi kullanıcısı için başvuru yöneticisi rollerine sahip kullanıcı adının veya parolanın dolup dolmadığını denetleyin.
 
-- Eşitlenmemiş fırsata gidebilir, küçük bir güncelleştirme gerçekleştirip referansın eşitlenmiş olup olmadığını gözlemlersiniz.
+- Eşitlenmemiş fırsata gidebilir, küçük bir güncelleştirme yapabilir ve başvurunun eşitlenip eşitlenmediğini gözlemleyebilirsiniz.
 
-- Akışlar çalıştırdı ve başarısız oldu, ardından akışı seçin ve başarısız olan çalıştırmayı yeniden gönderin.
+- Akışlar çalıştırılmışsa ve başarısız olursa, akışı seçip başarısız olan çalıştırmayı yeniden gönderebilirsiniz.
 
-5. Erişim reddedildi hatalarına neden olduğunda ne yapacaksınız?
+5. Erişim reddedildi hatalarını aldığınızda ne yapmalısınız?
 
 Uygun rollerin mevcut olduğundan emin olun
 
-- Satış satıcısı için referans İş Ortağı Merkezi rolü 
+- Iş Ortağı Merkezi satıcı için başvuru Yöneticisi rolü 
  
-- CRM örneğiniz üzerinde Sistem Yöneticisi veya Sistem Özelleştirici rolü
+- CRM örneğiniz üzerinde sistem yöneticisi veya sistem özelleştirici rolü
 
-- Akış hesabı kullanıcı Power Automate en az bir kez https://flow.microsoft.com oturum açtığından emin olun
+- Power Automate flow hesabı kullanıcısının https://flow.microsoft.com önceden en az bir kez oturum açtığına sahip olduğundan emin olun
 
-6. Ortak satış fırsatı **oluştururken Müşteri** hesabı ülke kodunun eksik olduğunu görüyorsanız ne yapacaksınız?
+6. Ortak satış fırsatı oluştururken **müşteri hesabı ülke kodunun** eksik olduğunu görürseniz, ne yapmanız gerekir?
 
-ISO iki harfli ülke kodunu CRM'de Müşteri hesabına eklemeniz gerekir.
+ISO 'nın iki harfli ülke kodunu CRM 'de müşteri hesabına eklemeniz gerekir.
 
-7. Ortak satış fırsatı oluştururken Çözüm Kimliği'nin **gerekli olduğu hatasını** görüyorsanız ne yapacaksınız?
+7. Ortak satış fırsatı oluştururken **Çözüm Kimliği 'nin gerekli** olduğu hatayı görürseniz ne yapmanız gerekir?
 
-Ortak satış referansı oluşturmak için Microsoft ortak satışa hazır bir çözüme ihtiyacınız vardır. 
+Ortak satış başvurusu oluşturmak için, Microsoft ortak satış için kullanabileceğiniz bir çözüme ihtiyacınız vardır. 
 
-8. Akış hatası olmasına rağmen CRM ile eşitlen İş Ortağı Merkezi ortak satış fırsatlarını gördüğünüzde ne yapacaksınız?
+8. Iş akışı hatası olmasa dahi, Iş Ortağı Merkezi 'nde oluşturulmuş ortak satış fırsatlarını gördüğünüzde ne yapmalısınız?
 
 Şunları yapın:
 
-- İş Ortağı Merkezi'da yeni bir ortak satış anlaşması oluşturduktan sonra Dynamics 365 İş Ortağı Merkezi çağrılıp çağrılmay(birden çok kez çağrılabilir) olup olamıyoruz.
+- Iş Ortağı Merkezi 'nde yeni bir ortak satış sorunu oluşturduktan sonra, Dynamics 365 Flow Iş Ortağı Merkezi 'nin çağrılacağını (birden çok kez çağrılabilir) denetleyin.
 
-- Akış çağrılırsa, çağrılan tüm akışları kontrol edin ve CRM'yi güncelleştiren akış çalıştırmayı tanımlama. Bu eylemleri gerçekleştirin ve CRM'yi güncelleştirdi veya bir sorunla karşılaştı.
+- Akış çağrılırsa, tüm çağrılan Akışlar ' ı işaretleyin ve bu, CRM 'yi güncelleştiren akış çalıştırmasını belirler. Eylemleri izleyebilir ve CRM 'yi güncelleştirip güncelleştirmediğinizi veya bir sorunla karşılaştıysanız emin olabilirsiniz.
 
-- CRM **ID ile** doldurulduğundan İş Ortağı Merkezi için Yeni anlaşma'ya bakın.
+- CRM KIMLIĞIYLE doldurulup doldurulmadığını görmek için Iş Ortağı Merkezi 'nde **yeni anlaşmayı** denetleyin.
 
-- Anlaşmanın yanlışlıkla Kazanildi veya Kaybedildi olarak kapatılamay **olduğundan** emin İş Ortağı Merkezi. 
+- Iş Ortağı Merkezi 'nde, anlaşmayı **kazanıldı** veya **kaybedildi** olarak kapanmadığından emin olun.
 
 ## <a name="next-steps"></a>Sonraki adımlar
 

@@ -9,12 +9,12 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 14b3ba0b96379e8dcf563a537a982f2df2ec9ed7e2232c6d36dd0c3ff7be2345
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: aa33b53a1eebe73122ed989074450cbf5888304f
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115692101"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123960564"
 ---
 # <a name="explore-your-go-to-market-with-microsoft-offers"></a>Microsoft teklifleriyle Pazara Çıkışınızı keşfetme
 

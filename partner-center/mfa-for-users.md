@@ -4,42 +4,42 @@ ms.topic: how-to
 ms.date: 12/15/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-account
-description: MFA ile çalışanlarınızın kurulumunu öğrenin
+description: MFA ile çalışanlarınızı ayarlamayı öğrenin
 author: vijvala
 ms.author: vijvala
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0090bc37c2243fc471b23304b111ea7a748c8fe8da1bfc14a227af542593be70
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 4ff0aa89224c13eddcc6b935c8494188298aeb12
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115688989"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123961424"
 ---
 # <a name="set-up-your-users-with-multi-factor-authentication"></a>Kullanıcılarınız için çok faktörlü kimlik doğrulaması ayarlama
 
-**Uygun roller**: genel yönetici
+**Uygun roller:** Genel yönetici
 
-Büyük gizlilik korumaları ve güvenlik, en iyi önceliklerimiz arasındadır. En iyi savunması önleme olduğunu ve yalnızca zayıf bağlantımız kadar güçlü olduğunu biliyoruz. Bu nedenle, ekosistemimizde herkesin işlem yapması ve uygun güvenlik korumalarının yerinde olduğundan emin olunması gerekir. Tüm ortakların kendi iş ortağı kiracılarında kullanıcıları için Multi-Factor Authentication 'ı (MFA) etkinleştirmesine kesinlikle önerilir. 
+Daha fazla gizlilik koruması ve güvenlik, en önemli önceliklerimiz arasında yer almaktadır. En iyi savunmanın önleme olduğunu ve en zayıf bağlantımız kadar güçlü olduğunu biliyoruz. İşte bu nedenle ekosistemimiz içinde herkesin harekete geçsin ve uygun güvenlik korumalarının hazır olduğundan emin oisun. Tüm iş ortaklarının, iş ortağı kiracılarında kullanıcıları için çok faktörlü kimlik doğrulamasını (MFA) etkinleştirmesini kesinlikle öneririz. 
 
-## <a name="add-multi-factor-authentication-for-your-users"></a>Kullanıcılarınız için Multi-Factor Authentication ekleme
+## <a name="add-multi-factor-authentication-for-your-users"></a>Kullanıcılarınız için çok faktörlü kimlik doğrulaması ekleme
 
-Bu görevi gerçekleştirmek için şirketiniz için genel yönetici olmanız gerekir.
+Bu görevi tamamlamak için şirketinizin genel yöneticisi olmak gerekir.
 
-Azure AD kiracınıza eklerken kullanıcılarınız için MFA 'yı etkinleştirmek en kolay yoldur.
+Kullanıcılarınız için MFA'yi Azure AD kiracınıza eklerken etkinleştirmek en kolay yöntemdir.
 
-1. [Azure Portal](https://portal.azure.com) oturum açın ve ardından **Kullanıcı yönetimi**' ne gidin.
-1. **Multi-Factor Authentication**'ı seçin.
-1. Etkinleştirmek istediğiniz kullanıcıyı seçin ve ardından **Etkinleştir**' i seçin.
+1. Oturum Azure portal [ve](https://portal.azure.com) ardından Kullanıcı **yönetimi'ne gidin.**
+1. Çok **faktörlü kimlik doğrulaması'ı seçin.**
+1. Etkinleştirmek istediğiniz kullanıcıyı seçin ve ardından **Etkinleştir'i seçin.**
 
-Bu, bu kullanıcı için MFA 'yı etkinleştirir. Etkin, kullanıcıdan ilk kez oturum açtıklarında MFA doğrulamasını ayarlaması istenecektir. Bundan sonra oturum açma sırasında, bunlara e-posta veya kısa mesaj yoluyla (ayarlandıkları bağlı olarak) bir kod vermesi istenir.  
+Bu, bu kullanıcı için MFA'ya olanak sağlar. Etkin, kullanıcının ilk kez oturum a açması için MFA doğrulamasını ayarlaması istenecek anlamına gelir. Bundan sonra, oturum açmalarında, e-posta veya kısa mesaj yoluyla (ayarlanacaklarına bağlı olarak) onlara gönderilen bir kod sağlamaları istenecek.  
 
-:::image type="content" source="images/multi-factor-authentication/security-verification.png" alt-text="Nasıl doğrulanalınacağını belirtin.":::
+:::image type="content" source="images/multi-factor-authentication/security-verification.png" alt-text="Doğrulamayı belirtin.":::
 
 >[!NOTE]
->Kullanıcılarınıza, yukarıdaki gibi aynı adımları kullanarak ve **Uygula**' yı seçerek MFA 'Yı kullanmaya **zorlayabilirsiniz** . Daha fazla bilgi edinmek için, [oturum açma olaylarını güvenli hale getirmek üzere Kullanıcı başına Azure Multi-Factor Authentication etkinleştirme](/azure/active-directory/authentication/howto-mfa-userstates)makalesini okuyun. 
+>Yukarıdaki **adımların** aynısını kullanarak ve Zorla'ya seçerek kullanıcılarınızı MFA kullanmaya **zorabilirsiniz.** Daha fazla bilgi edinmek için oturum [açma olaylarının güvenliğini sağlamak için kullanıcı başına Azure Multi-Factor Authentication'a etkinleştirme makalelerini okuyun.](/azure/active-directory/authentication/howto-mfa-userstates) 
 
-Tüm kullanıcılar **devre dışı bırakıldı**. kullanıcıları kullanıcı başına Azure Active Directory Multi-Factor Authentication kaydettiğinizde, durumları **etkin** olarak değişir. Etkin kullanıcılar oturum açıp kayıt işlemini tamamladıktan sonra, durumu **Zorlanmış** olarak değişir. 
+Tüm kullanıcılar Devre Dışı olarak **başlar.** Multi-Factor Authentication için kullanıcıları kullanıcı başına Azure Active Directory, durumları Etkin olarak **değişir.** Etkinleştirildiğinde kullanıcılar oturum atayarak kayıt işlemini tamamlar ve durumları Zorlanan **olarak değişir.** 
 
 ## <a name="next-steps"></a>Sonraki adımlar
 

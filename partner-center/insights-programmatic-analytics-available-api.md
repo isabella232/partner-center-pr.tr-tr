@@ -8,12 +8,12 @@ description: İş ortağı içgörüleri verilerine erişmek için API listesi.
 author: kshitishsahoo
 ms.author: ksahoo
 ms.localizationpriority: medium
-ms.openlocfilehash: 19c3094300e0d6c6f774117156cb6e26d80a0f22190c9736b12dd264178d6d7c
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: cbd9f7fd08dfc4cfd247a0ed07a2c12845c5514c
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115692424"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123960864"
 ---
 # <a name="available-apis-for-partner-insights-analytics"></a>İş ortağı içgörüleri analizi için kullanılabilir API'ler
 

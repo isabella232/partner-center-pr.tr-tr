@@ -1,6 +1,6 @@
 ---
 title: Özel sorgu belirtimi
-description: Analiz tablolarından veri ayıklamak için özel sorgular oluşturma hakkında bilgi edinin.
+description: Analiz tablolarından veri ayıklamak için özel sorgular oluşturmayı öğrenin.
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-insights
@@ -8,22 +8,22 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.date: 07/14/2021
-ms.openlocfilehash: 8749e9c65a232514028e0842a020267d0df7fcadcd9f36ac9dd9ba165377f401
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 636d2eba7d259ae5e4525100b8d26e25ff031f48
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115696929"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123960845"
 ---
 # <a name="custom-query-specification"></a>Özel sorgu belirtimi
 
-İş ortakları, analiz tablolarından veri ayıklamak üzere özel sorguları kolayca formüle etmek için bu sorgu belirtimlerini kullanabilir. Sorgular yalnızca belirli bir ölçütle eşan istenen sütunları ve ölçümleri seçmek için kullanılabilir. Dil belirtimlerinin merkezinde özel bir sorgunun yazıldığı veri kümesi tanımı yer amektedir.
+İş ortakları bu sorgu belirtimini, analiz tablolarından veri ayıklama için özel sorguları kolayca formülleştirmek için kullanabilir. Sorgular yalnızca istenen sütunları ve belirli bir ölçütle eşleşen ölçümleri seçmek için kullanılabilir. Dil belirtiminin kalmasıyla, özel bir sorgunun yazılabileceği veri kümesi tanımıdır.
 
 ## <a name="datasets"></a>Veri kümeleri
 
-Bazı sorguların tablo ve sütun içeren bir veritabanında çalıştırıla aynı şekilde, sütunları ve ölçümleri olan Veri Kümeleri üzerinde de özel bir sorgu çalışır. Sorguyu formüle etmek için kullanılabilen veri kümelerinin tam listesi, veri kümeleri API'si kullanılarak elde edilir.
+Tablo ve sütun içeren bir veritabanında bazı sorguların çalıştırıldığı şekilde, özel bir sorgu sütunları ve ölçümleri olan veri kümelerinde çalışır. Sorgu oluşturmak için kullanılabilir veri kümelerinin tam listesi, veri kümeleri API 'SI kullanılarak elde edilebilir.
 
-Bu, JSON olarak gösterilen bir veri kümesi örneğidir:
+Bu bir JSON olarak gösterilen veri kümesi örneğidir:
 
 ```json
 { 
@@ -61,64 +61,64 @@ Bu, JSON olarak gösterilen bir veri kümesi örneğidir:
     },
 ```
 
-## <a name="parts-of-a-dataset"></a>Veri kümesi bölümleri
+## <a name="parts-of-a-dataset"></a>Veri kümesinin parçaları
 
-- Veri kümesi adı, veritabanı tablo adı gibi bir addır. Örneğin, OfficeUsage. Veri kümesi, CustomerTenantId gibi seçilecek sütunların listesini içerir.
-- Bir veri kümesinde, veritabanındaki toplama işlevlerine benzer ölçümler de vardır. Örneğin, TotalMonthlyActiveUsers.
-- Verilerin dışarı aktarılamayacak sabit zaman aralıkları vardır.
+- Veri kümesi adı, veritabanı tablosu adı gibidir. Örneğin, Officekullanımı. Bir veri kümesinde, Customertenantıd gibi seçilebilirler bir sütun listesi bulunur.
+- Bir veri kümesinde ayrıca bir veritabanında toplama işlevleri gibi ölçümler de vardır. Örneğin, TotalMonthlyActiveUsers.
+- Verilerin verilebileceği sabit zaman yaymalar vardır.
 
-## <a name="formulating-a-query-on-a-dataset"></a>Veri kümesi üzerinde sorguyu formüle etmek
+## <a name="formulating-a-query-on-a-dataset"></a>Bir veri kümesindeki sorguyu formülleyici
 
-Bunlar, çeşitli veri türlerini ayıklamayı göstermek için bazı örnek sorgulardır.
+Bunlar çeşitli veri türlerinin nasıl ayıklanacağını gösteren bazı örnek sorgulardır.
 
 |Sorgu|    Description    |
 |----|    ----    |
-|**SELECT** CustomerTenantId, PaidAvailableUnits **FROM** <br>OfficeUsage **TIMESPAN** LAST_MONTH|    Bu sorgu, son 1 ay içinde her CusotmerTenantID ve buna karşılık gelen PaidAvailableUnits'i alır.    |
-|**SELECT** CustomerTenantId, PaidAvailableUnits **FROM** <br>OfficeUsage **ORDER** BY PaidAvailableUnits **LIMIT** 10|    Bu sorgu, ücretli kullanılabilir birim sayısını azaltarak ilk 10 müşteri kiracısına sahip olur.     |
-|**SELECT** CustomerTenantId, PaidAvailableUnits, MonthlyActiveUsers **FROM** OfficeUsage **WHERE** MonthlyActiveUsers > 100000 ORDER BYMonthlyActiveUsers **TIMESPAN** LAST_6_MONTHS  |    Bu sorgu, 100.000'den büyük AylıkActiveUsers'a sahip tüm Müşterilerin PaidAvailableUnits ve MonthlyActiveUsers'larını alır.     |
-|**SELECT** CustomerTenantId, Month, MonthlyActiveUsers **FROM** <br>OfficeUsage **WHERE** CustomerTpId IN ('2a31c234-1f4e-4c60-909e-76d234f93161', '80780748-3f9a-11eb-b378-0242ac130002') |    Bu sorgu CustomerTenantId ve her ay için aylık etkin kullanıcıları iki CustomerTpId değeriyle elde eder: '2a31c234-1f4e-4c60-909e-76d234f93161' ve '80780748-3f9a-11eb-b378-0242ac130002'.     |
+|**Seç** Customertenantıd, Paidadvailableunits  <br>Officekullanım zaman **aralığı** LAST_MONTH|    Bu sorgu, son 1 ayda her Cusotmertenantıd ve karşılık gelen Paidavvailableunits 'ı alır.    |
+|**Seç** Customertenantıd, Paidadvailableunits  <br>Paidadvailableunits tarafından Officekullanım **sırası** **sınırı** 10|    Bu sorgu, ilk 10 müşteri kiracıyı, ücretli kullanılabilir birim sayısı azalan sırada alacak.     |
+|**Seç** Customertenantıd, Paidadvailableunits, monthlyactiveusers **kullanıcıları** ,  Monthlyactiveusers kullanıcı zaman aralığı **tarafından 100000 sıra** > LAST_6_MONTHS  |    Bu sorgu, MonthlyActiveUsers 'ın 100.000 'den büyük olduğu tüm müşterilerin Paidadvailableunits ve MonthlyActiveUsers 'ı alır.     |
+|**Seç** Customertenantıd, month, MonthlyActiveUsers  <br>' 2a31c234-1f4e-4c60-909e-76d234f93161 ', ' 80780748-3f9a-11eb-b378-0242ac130002 ' IÇINDE customertpıd 'nin **bulunduğu** officeusage |    Bu sorgu, her ay için Customertenantıd ve aylık etkin kullanıcıları iki Customertpıd değeriyle alacak: ' 2a31c234-1f4e-4c60-909e-76d234f93161 ' ve ' 80780748-3f9a-11eb-b378-0242ac130002 '.     |
 |        |        |
 
 ## <a name="query-specification"></a>Sorgu belirtimi
 
-Bu bölüm sorgu tanımını ve yapısını açıklar.
+Bu bölümde sorgu tanımı ve yapısı açıklanmaktadır.
 
-## <a name="grammar-reference"></a>Dil bilgisi başvurusu
+## <a name="grammar-reference"></a>Dilbilgisi başvurusu
 
-Bu tablo, sorgularda kullanılan sembolleri açıklar.
+Bu tablo sorgularda kullanılan sembolleri açıklar.
 
 |    Sorgu    |    Description    |
 |    ----    |    ----    |
 |    `?`    |    İsteğe Bağlı    |
 |    `*`    |    Sıfır veya daha fazla    |
 |    `+`    |    Bir veya daha fazla    |
-|    `\|`    |    Veya / Listelerden biri    |
+|    `\|`    |    Veya listelerden biri    |
 |        |        |
 
 ## <a name="query-definition"></a>Sorgu tanımı
 
-Sorgu deyimi şu yan tümcelerine sahiptir: SelectClause, FromClause, WhereClause, OrderClause, LimitClause ve TimeSpan.
+Sorgu deyimi şu yan tümceleri içerir: SelectClause, FromClause, WhereClause, OrderClause, LimitClause ve TimeSpan.
 
-- **Öğesini seçin:**`SELECT ColumOrMetricName (, ColumOrMetricName)*`
-    - **ColumOrMetricName:** Veri Kümesi içinde tanımlanan sütunlar ve ölçümler
-- **FromClause:**`FROM DatasetName`
-    - **DatasetName**: Veri Kümesi içinde tanımlanan veri kümesi adı
-- **WhereClause:**`WHERE FilterCondition (AND FilterCondition)`
-    - **FilterCondition:** ColumOrMetricName İşleci Değeri
-        - **İşleci:**`=` | `>` | `<` | `>=` | `<=` | `!=` | `LIKE` | `NOT LIKE` | `IN` | `NOT IN`
-        - **Değer:** Sayı | StringLiteral | MultiNumberList | MultiStringList
-            - **Sayı:**`-? [0-9]+ (. [0-9] [0-9]*)?`
-            - **StringLiteral:**`' [a-zA-Z0-9_]*'`
-            - **MultiNumberList:**`(Number (,Number)*)`
-            - **MultiStringList:**`(StringLiteral (,StringLiteral)*)`
-- **OrderClause:**`ORDER BY OrderCondition (,OrderCondition)`
-    - **OrderCondition:**`ColumOrMetricName (ASC | DESC)*`
-- **LimitClause:**`LIMIT [0-9]+`
-- **TimeSpan:**`TIMESPAN ( TODAY | YESTERDAY | LAST_7_DAYS | LAST_14_DAYS |LAST_30_DAYS | LAST_90_DAYS | LAST_180_DAYS | LAST_365_DAYS |LAST_MONTH | LAST_3_MONTHS | LAST_6_MONTHS | LAST_1_YEAR | LIFETIME)`
+- **Selectclause**: `SELECT ColumOrMetricName (, ColumOrMetricName)*`
+    - **ColumOrMetricName**: veri kümesi içinde tanımlanan sütunlar ve ölçümler
+- **FromClause**: `FROM DatasetName`
+    - **DataSetName**: veri kümesi içinde tanımlanan veri kümesi adı
+- **WhereClause**: `WHERE FilterCondition (AND FilterCondition)`
+    - **FilterCondition**: ColumOrMetricName işleç değeri
+        - **İşleç**:  `=` | `>` | `<` | `>=` | `<=` | `!=` | `LIKE` | `NOT LIKE` | `IN` | `NOT IN`
+        - **Değer**: sayı | StringLiteral | MultiNumberList | MultiStringList
+            - **Sayı**: `-? [0-9]+ (. [0-9] [0-9]*)?`
+            - **Stringliteral**:  `' [a-zA-Z0-9_]*'`
+            - **MultiNumberList**: `(Number (,Number)*)`
+            - **Multistringlist**: `(StringLiteral (,StringLiteral)*)`
+- **Orderclause**: `ORDER BY OrderCondition (,OrderCondition)`
+    - **Ordercondition**: `ColumOrMetricName (ASC | DESC)*`
+- **Limitclause**: `LIMIT [0-9]+`
+- **TimeSpan**: `TIMESPAN ( TODAY | YESTERDAY | LAST_7_DAYS | LAST_14_DAYS |LAST_30_DAYS | LAST_90_DAYS | LAST_180_DAYS | LAST_365_DAYS |LAST_MONTH | LAST_3_MONTHS | LAST_6_MONTHS | LAST_1_YEAR | LIFETIME)`
 
-## <a name="query-structure"></a>Sorgu Yapısı
+## <a name="query-structure"></a>Sorgu yapısı
 
-Rapor sorgusu birden çok parçadan oluşur:
+Rapor sorgusu birden çok bölümden oluşur:
 - `SELECT`
 - `FROM`
 - `WHERE`
@@ -130,9 +130,9 @@ Her bölüm aşağıda açıklanmıştır.
 
 ### `SELECT`
 
-Sorgunun bu bölümü dışarı aktaracak sütunları belirtir. Seçilebilir sütunlar, bir veri kümesinde *selectableColumns* ve *availableMetrics* bölümlerinde listelenen alanlardır.
+Sorgunun bu bölümü, verilecek sütunları belirtir. Seçilebilir sütunlar, bir veri kümesinin *Selectablecolumns* ve *kullanılabilirlik* bölümlerinde listelenen alanlardır.
 
-İsteğe bağlı olarak, `DISTINCT` anahtar sözcük sonra `SELECT` belirtilebilir. `DISTINCT`belirtilirse, dışarı aktaran son satırlar her zaman seçili sütunların ayrı değerlerini içerir. Ölçümler, seçilen sütunların her ayrı birleşimi için hesaplanır; bu nedenle, bir ölçüm sütunu seçili sütun listesine ekli olduğunda `DISTINCT` anahtar sözcük gerekli değildir.
+İsteğe bağlı olarak, `DISTINCT` anahtar sözcük daha sonra belirtilebilir `SELECT` . `DISTINCT`Belirtilmişse, son içe aktarılmış satırlar her zaman Seçili sütunların ayrı değerlerini içerecektir. Ölçümler Seçili sütunların her farklı birleşimi için hesaplanacak, bu nedenle `DISTINCT` sütun Seç listesine bir ölçüm sütunu dahil edildiğinde anahtar sözcüğü gerekli değildir.
 
 **Örnek:**
 
@@ -143,7 +143,7 @@ SELECT DISTINCT CustomerTenantId
 
 ### `FROM`
 
-Sorgunun bu bölümü, verilerin dışarı aktar yapılması gereken veri kümesine işaret etmek için kullanılır. Burada verilen veri kümesi adının, veri kümeleri API'si tarafından döndürülen geçerli bir veri kümesi adı olması gerekir.
+Sorgunun bu bölümü, verilerin verilmesi gereken veri kümesini gösterir. Burada verilen veri kümesi adının, veri kümeleri API 'SI tarafından döndürülen geçerli bir veri kümesi adı olması gerekir.
 
 **Örnek:**
 
@@ -152,7 +152,7 @@ Sorgunun bu bölümü, verilerin dışarı aktar yapılması gereken veri kümes
 
 ### `WHERE`
 
-Sorgunun bu bölümü, veri kümesi üzerinde filtre koşullarını belirtmek için kullanılır. Yalnızca bu yan tümcesinde listelenen tüm koşullarla eşleşen satırlar dışarı aktarıldı son dosyasında yer atılır. Filtre koşulu *selectableColumns ve availableMetrics içinde listelenen sütunlardan* *herhangi biri üzerinde olabilir.* Filtre koşulunda belirtilen değerler, yalnızca işleç veya olduğunda sayı listesi veya dize listesi `IN` `NOT IN` olabilir. Değerler her zaman değişmez değer dizesi olarak verilmiştir ve yerel sütun türlerine dönüştürülür. And işlemiyle birden çok filtre koşullarının ayrılması gerekir.
+Sorgunun bu bölümü, veri kümesindeki Filtre koşullarını belirtmek için kullanılır. Yalnızca bu yan tümce içinde listelenen tüm koşullara uyan satırlar, son verilen dosyada mevcut olacaktır. Filtre koşulu *Selectablecolumns* ve *kullanılabilirliği Blemetrics*' da listelenen sütunlardan herhangi birinde olabilir. Filtre koşulunda belirtilen değerler, yalnızca işleci veya olduğunda bir dize listesi veya dizeler listesi olabilir `IN` `NOT IN` . Değerler her zaman sabit bir dize olarak verilebilir ve bunlar yerel sütun türlerine dönüştürülecektir. Birden çok filtre koşullarının bir ve işlemiyle ayrılması gerekir.
 
 **Örnek:**
 
@@ -164,7 +164,7 @@ Sorgunun bu bölümü, veri kümesi üzerinde filtre koşullarını belirtmek i�
 
 ### `ORDER BY`
 
-Sorgunun bu bölümü, dışarı aktaran satırlar için sıralama ölçütlerini belirtir. Sıralamanın tanımlandığı sütunların *selectableColumns* ve *availableMetrics veri kümesinden* olması gerekir. Belirtilen bir sıralama yönü yoksa, sütunda varsayılan olarak DESC kullanılır. Sıralama, ölçütleri virgülle ayırarak birden çok sütunda tanımlanabilir.
+Sorgunun bu kısmı, aktarılmış satırlar için sıralama ölçütlerini belirtir. Sıralamanın tanımlanbileceği sütunların, veri kümesinin *Selectablecolumns* ve *kullanılabilirlik Blemetrics* öğesinden olması gerekir. Sıralama yönü belirtilmemişse, sütunda varsayılan değer DESC olarak ayarlanır. Sıralama, ölçütü virgülle ayırarak birden çok sütunda tanımlanabilir.
 
 **Örnek:**
 
@@ -173,17 +173,17 @@ Sorgunun bu bölümü, dışarı aktaran satırlar için sıralama ölçütlerin
 
 ### `LIMIT`
 
-Sorgunun bu bölümü, dışarı aktaracak satır sayısını belirtir. Belirttiğiniz sayanın sıfır olmayan pozitif bir tamsayı olması gerekir.
+Sorgunun bu bölümü, verilecek satır sayısını belirtir. Belirttiğiniz sayının pozitif sıfır dışında bir tamsayı olması gerekir.
 
 ### `TIMESPAN`
 
-Sorgunun bu bölümü, verilerin dışarı aktarnma süresini belirtir. Olası değerler, veri kümesi *tanımında availableDateRanges* alanından olması gerekir.
+Sorgunun bu bölümü, verilerin verilmesi gereken süreyi belirtir. Olası değerler veri kümesi tanımındaki *Availabledateranges* alanından olmalıdır.
 
-### <a name="case-sensitivity-in-query-specification"></a>Sorgu belirtimsinde büyük/küçük harf duyarlılığı
+### <a name="case-sensitivity-in-query-specification"></a>Sorgu belirtiminde büyük/küçük harf duyarlılığı
 
-Belirtim büyük/büyük/büyük harfe duyarlı değildir. Önceden tanımlanmış anahtar sözcükler, sütun adları ve değerler büyük veya küçük harf kullanılarak belirtilebilir.
+Belirtim tamamen büyük/küçük harfe duyarlıdır. Önceden tanımlanmış anahtar sözcükler, sütun adları ve değerler büyük veya küçük harf kullanılarak belirtilebilir.
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
 - [Sistem sorgularının listesi](insights-programmatic-system-queries.md)
-- [Örnek sorguların listesi](insights-programmatic-sample-queries.md)
+- [Örnek sorgu listesi](insights-programmatic-sample-queries.md)

@@ -1,46 +1,46 @@
 ---
-title: Teşvikleri Co-op taleplerini yönetme
+title: İşbirliği taleplerini yönetme
 ms.topic: how-to
 ms.date: 10/29/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
-description: Iş Ortağı Merkezi 'nden teşvikleri Co-op taleplerini başlatmayı öğrenin. Talepinizin oluşturulmasına geçmiş tüm etkinlikleri görebilirsiniz.
+description: İş Ortağı Merkezi'den teşviklerin ortak çalışma taleplerini başlatmayı İş Ortağı Merkezi. Talep binanıza giden tüm etkinlikleri Geçmiş'te görebilirsiniz.
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.custom: seodec18
-ms.openlocfilehash: f94242bce381b9906f00671dd4ca41ca68c29fd28c80396e2e17d0130807ab71
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 185d1593808bc417fa15646955a0cce683242570
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115679860"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123960535"
 ---
-# <a name="create-and-manage-an-incentives-co-op-claim"></a>Teşvikleri Co-op talebi oluşturma ve yönetme
+# <a name="create-and-manage-an-incentives-co-op-claim"></a>Teşvik ortak çalışma talebi oluşturma ve yönetme
 
-**Uygun roller**: genel yönetici | Teşvikleri Yöneticisi | Teşvikleri kullanıcısı
+**Uygun roller:** Genel yönetici | Teşvikler yönetici | Teşvikler kullanıcısı
 
-Iş Ortağı Merkezi içinden bir teşvikleri talebi başlatabilirsiniz.
+Bir teşvik talebi başlatmak için İş Ortağı Merkezi.
 
 1. [İş Ortağı Merkezi panosunda](https://partner.microsoft.com/dashboard/) oturum açın.
 
-2. **Teşvikleri** sekmesini seçin ve ardından **ortak işlem yönetimi**' ni seçin.
+2. Teşvikler **sekmesini ve** ardından Ortak çalışma **yönetimi'ne tıklayın.**
 
-3. İşlemde zaten bir talep varsa, talebe Genel Bakış sayfasında mevcut taleplerin ve fonların onaylanan, talep edilen ve toplam durumuyla ilgili bilgiler gösterilir.
+3. Zaten devam eden bir talebiniz varsa, Taleplere genel bakış sayfasında mevcut taleplerin durumuyla ilgili bilgiler ve onaylanan, talep ve toplamlar görüntülenir.
 
-4. Yeni bir talep oluşturmak için **Talep Oluştur**' u seçin.
+4. Yeni talep oluşturmak için Talep **oluştur'a seçin.**
 
-5. Başlangıç formunu doldurduktan ve **Talep Oluştur**' u seçtiğinizde, fatura, CSR 'nin, prova belgelerinin ve ölçümlerin ekleneceği talep ayrıntısı sayfasına yönlendirilirsiniz. Gerekirse daha fazla bilgi de ekleyebilirsiniz.
+5. İlk formu dolduran ve Talep Oluştur'un seçili olduğu Talep ayrıntı sayfasına gidin; burada faturalar, CSR'ler, kanıt belgeleri ve ölçümler ekleyebilirsiniz. Gerekirse daha fazla bilgi de ekleyebilirsiniz.
 
 Talep ayrıntıları sayfasında, kuruluşunuzdaki diğer kişilerin de forma belge yüklemelerini isteyebilirsiniz. Karşıya yüklediğiniz her belge için açıklama ekleyebilirsiniz. 
 
-### <a name="manage-your-claims"></a>Taleplerinizi yönetin
+### <a name="manage-your-claims"></a>Taleplerinizi yönetme
 
-Talepinizin oluşturulmasına **Geçmiş** tüm etkinlikleri görebilirsiniz. Bir iş arkadaşına her şeyi destekleyen bir belge veya yorum eklediğinde, eylem **geçmişe** kaydedilir. Talebi gönderdikten sonra durum **düzenlenmektedir**. Talebin durumu, onay sürecinde gezindiğinde değişir. Bazen bir talebin incelenmesi sırasında, yürütme (PoE) belgelerinde belirli bir öğe hakkında geri bildirim alabilirsiniz. Ek bilgiler için geri bildirim ve istekler talep geçmişinde de görüntülenir.
+Talebinizin yapıtlarına giden tüm etkinlikleri Geçmiş'te **görüyorsunuz.** bir iş arkadaşınız bir şey hakkında destek belgesi veya açıklama ekley her ekley on the action is stored in **History**. Talebi gönderinceye kadar durum düzenleme **olur.** Talebinizin durumu onay sürecinde ilerlerken değişir. Bazen bir talebi gözden geçirme sırasında yürütme kanıtı (PoE) belgelerinize belirli bir öğe hakkında geri bildirim gönderebilirsiniz. Geri bildirim ve ek bilgi istekleri de talep geçmişinde görünür.
 
-Gözden geçiren ek bilgi isteyemediği takdirde, bu isteği gönderdikten sonra talep düzenleyemezsiniz.
+Gözden geçiren ek bilgi isteği göndermediği sürece talebinizi gönderdikten sonra düzenleyemezsiniz.
 
-Daha fazla bilgi için bkz. [partner teşvikleri Co-op kılavuz kitabı](https://assetsprod.microsoft.com/co-op-guidebook.pdf).
+Daha fazla bilgi için bkz. [İş Ortağı Teşvikleri İşbirliği Kılavuzu.](https://assetsprod.microsoft.com/co-op-guidebook.pdf)
 
 ## <a name="next-steps"></a>Sonraki adımlar
 

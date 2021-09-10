@@ -1,31 +1,31 @@
 ---
-title: Kazanç uygunluğunu Onayla
+title: Kazanç uygunluğunu onaylama
 ms.topic: how-to
 ms.date: 09/11/2020
-description: Kazanç oluşturmaya uygun olduğunuzdan emin olun ve teşvikleri programı üzerinden ödeme yapın. Iş Ortağı Merkezi 'nde kazanç ve gelir kurallarınızı denetleyin.
+description: Kazançlar oluşturma ve teşvik programında ödeme almaya uygun olduğundan emin olun. Kazançlar için uygunluk ve gelir kurallarınızı İş Ortağı Merkezi.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 0d2885d8439c5b909a1a0fb18f7040b4a89702e9ceaaad1bd3104ef270bf65ea
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 0d9b83f2e834400e498ad7b419daf7c8bfbde305
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115686542"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123960474"
 ---
-# <a name="confirm-your-incentives-earnings-eligibility"></a>Teşvikleri kazanç uygunluğunu onaylayın
+# <a name="confirm-your-incentives-earnings-eligibility"></a>Teşvik kazançlarınızı uygunluğunu onaylayın
 
-**Uygun roller**: teşvikleri admin | Genel yönetici
+**Uygun roller:** Teşvik yöneticisi | Genel yönetici
 
-Teşvikleri programında çalışmanız için ödeme yapabilmeniz için önce tüm gerekli uygunluk gereksinimlerini tamamlamalısınız.
+Teşvik programındaki çalışmalarınız için ödeme aldan önce tüm gerekli uygunluk gereksinimlerini tamamlamanız gerekir.
 
 ## <a name="how-do-i-check-my-earning-eligibility-and-revenue-rules"></a>Kazanç uygunluğu ve gelir kurallarımı nasıl denetleyebilirim?
 
-1. [Iş ortağı teşvikleri](https://partner.microsoft.com/membership/partner-incentives)oturum açın.
-2. İlgilendiğiniz programın belgelerine erişmek için aşağı kaydırın ve ilgili programın belge bağlantısını seçin.
-3. Belgede, bölümler **Iş ortağı uygunluk** ve **uygun gelir kuralları** bölümüne bakın.
+1. İş ortağı [teşvikleri'ne oturum açma.](https://partner.microsoft.com/membership/partner-incentives)
+2. ekranı aşağı kaydırarak ilgilendiğiniz programın belgelerine erişin ve ilgili programın belge bağlantısını seçin.
+3. Belgede İş ortağı uygunluğu ve **Uygun gelir kuralları** **bölümlerine bakın.**
 
 ## <a name="next-steps"></a>Sonraki adımlar
 

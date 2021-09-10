@@ -1,123 +1,123 @@
 ---
-title: iş ortağı merkezi Analizler satıcıları performans panosu
+title: İş Ortağı Merkezi Analizler Kurumsal Bayi Performansı panosu
 ms.topic: article
 ms.date: 09/01/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-insights
-description: iş ortağı merkezi 'ndeki satıcı performans panosu Analizler, bir Bulut Çözümü Sağlayıcısı (CSP) dolaylı sağlayıcının çeşitli dolaylı satıcıların performansına genel bakış sağlar.
+description: İş Ortağı Merkezi Analizler'daki kurumsal İş Ortağı Merkezi Analizler panosu, bir Bulut Çözümü Sağlayıcısı (CSP) Indirect Provider'ın dolaylı kurumsal bayilerinin performansına genel bir bakış sağlar.
 author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: c319cff5d67dbf477dc15d1eaf4e048141cb193b54be30187f385bee1532200f
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 796af99cc405a72bebcd467b242dafb83ac756e5
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115683304"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123960814"
 ---
-# <a name="reseller-performance-dashboard-in-partner-center-insights"></a>iş ortağı merkezi 'nde satıcı performans panosu Analizler
+# <a name="reseller-performance-dashboard-in-partner-center-insights"></a>İş Ortağı Merkezi Analizler'de Bayi Performansı panosu
 
-**Uygun roller**: genel yönetici | Yönetici Aracısı | Rapor Görüntüleyici | Executive rapor Görüntüleyicisi
+**Uygun roller:** Genel yönetici | Yönetici aracısı | Rapor görüntüleyici | Yönetici raporu görüntüleyicisi
 
-iş ortağı merkezi 'ndeki satıcı performans panosu Analizler, bir Bulut Çözümü Sağlayıcısı (CSP) dolaylı sağlayıcının çeşitli dolaylı satıcıların performansına genel bakış sağlar. Pano, etkin olan satıcılar, ne kadar gelir ürettikleri ve hangi ürünlerin gelir sunmakta olduğunu sunar. Dolaylı sağlayıcılar, satıcının performans panosundaki satıcıya ait bilgileri ada göre arayabilir ve ayrıntılarını arayabilir.
+İş Ortağı Merkezi Analizler'daki kurumsal İş Ortağı Merkezi Analizler panosu, bir Bulut Çözümü Sağlayıcısı (CSP) Dolaylı Sağlayıcısının dolaylı kurumsal bayilerinin performansına genel bir bakış sağlar. Pano etkin olan kurumsal bayiler, ne kadar gelir elde edildileri ve geliri sağlayan ürünlerle ilgili veriler sağlar. Dolaylı Sağlayıcılar, adına göre belirli bir kurumsal bayiyi arayabilir ve kurumsal bayi performans panosunda kurumsal bayinin ayrıntılarını arayabilir.
 
-Satıcı performansı panosundan aşağıdaki bölümleri görüntüleyebilirsiniz.
+Bayi Performansı panosundan aşağıdaki bölümleri görüntüleyebilirsiniz.
 
 - Özet
-- Satıcıların coğrafi yayılmasının
-- Satıcıları ekleme/churns 
-- Satıcıların gelir eğilimi 
-- Ürünlere göre satıcı performansı
-- İş ortağı konumlarına göre etkin satıcılar
+- Kurumsal bayilerin coğrafi yayılması
+- Kurumsal bayiler ekleme/veri churns 
+- Kurumsal bayi gelir eğilimi 
+- Ürünlere göre bayi performansı
+- İş ortağı konumlara göre etkin kurumsal bayiler
 - Gelir coğrafi dağıtım eğilimi
-- Müşteri kesimine göre satıcı performansı
-- Satıcı Microsoft Iş ortağı Sözleşmesi (MPA) imzalama durumu
+- Müşteri kesimine göre kurumsal bayi performansı
+- Kurumsal Microsoft İş Ortağı Sözleşmesi (MPA) imzalama durumu
 
  > [!NOTE]
- > bu rapor Analizler panosundan kullanılabilir. Bu raporu görüntülemek için Iş Ortağı Merkezi 'nde genel yönetici, hesap yöneticisi, rapor Görüntüleyicisi veya Executive rapor Görüntüleyicisi gibi belirli bir rol atanması gerekir. Daha fazla bilgi için şirketinizin genel Yöneticisi ' ne bakın. Bu rapordaki belirli veri türleri yalnızca, Executive rapor Görüntüleyicisi ayrıcalıklarına sahip kullanıcılar tarafından kullanılabilir.
+ > Bu rapor, Analizler kullanılabilir. Bu raporu görüntülemek için genel yönetici, hesap İş Ortağı Merkezi, Rapor görüntüleyicisi veya Yönetici rapor görüntüleyicisi gibi belirli bir rol atanmış olması gerekir. Daha fazla bilgi için bkz. şirketin Genel yöneticisi. Bu rapora özgü veri türleri yalnızca Yönetici rapor görüntüleyici ayrıcalıklarına sahip kullanıcılar tarafından da kullanılabilir.
 
 ## <a name="summary"></a>Özet
 
-Özet bölümü, CSP dolaylı sağlayıcısıyla ilişkili ana performans göstergelerinin (KPI) anlık görüntü görünümünü sunar.
+Özet bölümünde, verilerle ilgili ana performans göstergelerinin (KIP' ler) anlık görüntü CSP Indirect Provider.
 
-- Etkin Satıcılar: Bu ay içinde en az bir etkin aboneliği olan satıcıların sayısı.
+- Etkin kurumsal bayiler: O ay boyunca en az bir etkin aboneliğe sahip olan kurumsal bayilerin sayısı.
 
-Mikro grafik, seçilen tarih aralığı boyunca etkin olan farklı satıcıların ay içinde eğilimini gösterir.
+Mikro grafik, seçili tarih aralığında etkin olan farklı kurumsal bayilerin aylara göre eğilimini gösterir.
 
-- Deneyimidir satıcıları: söz konusu ay boyunca en az bir abonelik satan satıcıların sayısı. 
+- Kurumsal bayileri işlemden geçen: Bu ay boyunca en az bir abonelik satılan kurumsal bayi sayısı. 
 
-Mikro grafik, seçilen tarih aralığı için kaydedilen satıcıların aylık eğilimini gösterir.
+Mikro grafik, seçilen tarih aralığına kayıtlı bayilerin aylara göre eğilimini gösterir.
 
-- Yeni satıcılar: söz konusu ay boyunca dolaylı sağlayıcıyla deneyimidir başlatılan satıcıların sayısı. 
+- Yeni kurumsal bayiler: Bu ay içinde Dolaylı Sağlayıcı ile işlem yapmaya başlayan kurumsal bayilerin sayısı. 
 
-Mikro grafik, seçilen tarih aralığında yeni satıcıların toplam sayısının ay içinde eğilimini gösterir.
+Micro grafiği, seçilen tarih aralığındaki toplam yeni kurumsal bayi sayısına göre aylara göre eğilim gösterir.
 
-- Faturalandırılan gelir ABD Doları: söz konusu ay içindeki satıcıların satıcıları tarafından yönetilen ABD Doları cinsinden gelir. 
+- Faturalandırılacak gelir USD: Söz konusu ay boyunca bayiler tarafından yönlendirilecek OLAN ABD doları gelir. 
 
-Mikro grafik, seçilen tarih aralığı boyunca aylık gelir eğilimini gösterir.
+Micro grafiği, seçilen tarih aralığında aylık gelir eğilimini gösterir.
 
-- Ürünlere göre faturalandırılan faturalandırılan faturalandırılan faturalandırılan faturalanan gelirin aylık olarak dökümünü, satılan ürünlere göre bölünmüş 
+- Ürünlere göre faturalandırılmış gelir bölümü, ABD doları olarak faturalandırılmış gelirin satılan ürünlere göre bölünmüş aylık dökümünü sağlar. 
 
-:::image type="content" source="images/insights/resellers-performance-summary.png" alt-text="satıcıların performans özeti.":::
+:::image type="content" source="images/insights/resellers-performance-summary.png" alt-text="kurumsal bayi performans özeti.":::
 
-## <a name="geographical-spread-of-resellers"></a>Satıcıların coğrafi yayılmasının
+## <a name="geographical-spread-of-resellers"></a>Kurumsal bayilerin coğrafi yayılması
 
-Coğrafya görünümü için * * satıcıları, satıcıların coğrafi dağılımını sağlar. Bu pencere öğesini kullanarak, iş ortakları toplam **satıcıları**, **Yeni satıcıları** ve **Faturalandırılan geliri (USD)**, çeşitli coğrafi yalara göre bölünmüş şekilde görüntüleyebilir.
+**Coğrafyaya göre kurumsal bayiler görünümü, Kurumsal Bayilerin coğrafi dağıtımını sağlar. bu pencere öğesi kullanılarak iş ortakları, çeşitli **coğrafyalara** göre ayrılmış toplam Kurumsal **Bayiler,** Yeni bayiler ve Faturalandırmış Gelir **(USD)** öğelerini görüntülemenizi sağlar.
 
-Haritada konum yakınlaştırmak için kılavuzda bir ülke arayabilir ve seçebilirsiniz. Özgün görünüme dönmek için haritanın **giriş** seçeneğine basın. **Fatura gelirini (USD)** ülkeye göre görüntülemek için haritada üzerine gelin. Kılavuzda faturalandırılan alan geliri (USD) sıralanabilir.
+Haritanın konumunu yakınlaştırmak için kılavuzda bir ülke arayabilir ve bu ülkeyi seçin. Özgün **görünüme** dönmek için haritada Giriş seçeneğine basın. Ülkeye göre Faturalandırilen **Geliri (USD) görüntülemek için haritanın** üzerine gelin. Kılavuzda Faturalanmış Gelir (USD) alanı sıralanabilir.
 
-:::image type="content" source="images/insights/resellers-performance-by-geo.png" alt-text="Coğrafi olarak satıcılar.":::
+:::image type="content" source="images/insights/resellers-performance-by-geo.png" alt-text="Coğrafyaya göre bayiler.":::
 
-## <a name="resellers-addchurns"></a>Satıcıları ekleme/churns
+## <a name="resellers-addchurns"></a>Kurumsal bayiler ekleme/veri churns
 
-Bu görünüm, **yeni satıcıların**, ayrılmış **satıcıların** ve **mevcut satıcıların** sayısının ayda bir ay sağlar. 
+Bu görünüm, Yeni kurumsal bayi sayısı, **Churned** **Resellers** ve Mevcut Kurumsal Bayi sayısının aylara **bölünmesini sağlar.** 
 
-- Yeni satıcılar: Seçili tarih aralığı sırasında dolaylı sağlayıcıya yeni kaydedilen satıcıların sayısı.
-- Uyumsuz Satıcılar: son altı ay boyunca geçerli ay dışında bir işlem olmayan satıcıların sayısı.
-- Mevcut Satıcılar: önceki ay deneyimidir olan satıcıların sayısı.
+- Yeni kurumsal bayiler: Seçilen tarih aralığında Dolaylı Sağlayıcıya yeni kaydolan kurumsal bayilerin sayısı.
+- Farklı bayiler: Geçerli ay hariç son altı ay boyunca işlem yapan kurumsal bayilerin sayısı.
+- Mevcut kurumsal bayiler: Önceki ay işlem yapan kurumsal bayilerin sayısı.
 
-:::image type="content" source="images/insights/resellers-performance-add-churn.png" alt-text="Satıcıların Add/churns 'i.":::
+:::image type="content" source="images/insights/resellers-performance-add-churn.png" alt-text="Kurumsal bayiler ekleme/alma/":::
 
-## <a name="resellers-revenue-trend"></a>Satıcıların gelir eğilimi 
+## <a name="resellers-revenue-trend"></a>Kurumsal bayi gelir eğilimi 
 
-bu görünüm, Office 365, Dynamics 365, Enterprise Mobility ve Security (EMS), Microsoft Power BI ve Azure gibi ürünlere göre bölünen faturalanan gelirin (USD) aylık eğilimini sağlar. Genel ölçümler, her ay çeşitli ürünler genelinde toplanır. İş ortağı, belirli bir bayi adına göre arama yapabilir ve söz konusu satıcıya ait verileri arayabilir. Kılavuzda faturalandırılan alan geliri (USD) sıralanabilir.
+Bu görünüm; Office 365, Dynamics 365, Enterprise Mobility and Security (EMS), Microsoft Power BI ve Azure gibi ürünlere göre bölünmüş aylık faturalı gelir eğilimini sağlar. Genel ölçümler her ay için çeşitli ürünler genelinde toplanır. İş ortağı, adına göre belirli bir kurumsal bayiyi arayabilir ve bu kurumsal bayiye yönelik verileri arayabilir. Kılavuzda Faturalanmış Gelir (USD) alanı sıralanabilir.
 
-:::image type="content" source="images/insights/resellers-performance-revenue-trend.png" alt-text="Satıcıların gelir eğilimi.":::
+:::image type="content" source="images/insights/resellers-performance-revenue-trend.png" alt-text="Kurumsal bayi gelir eğilimi.":::
 
-## <a name="reseller-performance-by-products"></a>Ürünlere göre satıcı performansı
+## <a name="reseller-performance-by-products"></a>Ürünlere göre bayi performansı
 
-Bu görünüm, aylık olarak aylık olarak çeşitli ürünlere göre faturalandırılan gelir, abonelik sayısı ve lisans sayısı gibi bir temel ölçüm sağlar. Sağdaki pasta grafik, çeşitli ürünlere göre ölçümlerin genel olarak bölündüğü anlamına gelir. böylece iş ortağı, satıcının satmakta olduğu çeşitli ürünler tarafından daha hızlı bir bakış için daha hızlı bir Özet alır.
+Bu görünüm, aylık olarak Faturalandırılacak Gelir, abonelik sayısı ve çeşitli ürünlere göre lisans sayısı gibi temel ölçümlerin bölünmesi sağlar. Sağ bölmede yer alan pasta grafiği, ölçümlerin çeşitli ürünlere göre genel olarak ayrıldığını gösterir. Böylece iş ortağı, kurumsal bayinin satışını yapan çeşitli ürünlere göre ayırmaya hızlı bir bakış elde ediyor.
 
-:::image type="content" source="images/insights/resellers-performance-product.png" alt-text="Ürünlere göre satıcı performansı.":::
+:::image type="content" source="images/insights/resellers-performance-product.png" alt-text="Ürünlere göre bayi performansı.":::
 
-## <a name="active-resellers-by-partner-locations"></a>İş ortağı konumlarına göre etkin satıcılar
+## <a name="active-resellers-by-partner-locations"></a>İş ortağı konumlara göre etkin kurumsal bayiler
 
-Bu görünüm, iş ortağı coğrafi yönleriyle etkin satıcıların bir bölünmesini sağlar. En üstteki beş coğrafi grafik, göstergede gösterilir ve kalan, ' diğerleri ' olarak kategorize edilir.
+Bu görünüm, etkin kurumsal bayilerin iş ortağı coğrafyalara göre bölünmelerini sağlar. İlk beş coğrafya, göstergede gösterilir ve kalanlar 'Diğer' kategorisine ayrılmıştır.
 
-:::image type="content" source="images/insights/resellers-performance-location.png" alt-text="İş ortağı konumlarına göre etkin satıcılar.":::
+:::image type="content" source="images/insights/resellers-performance-location.png" alt-text="İş ortağı konumlara göre etkin kurumsal bayiler.":::
 
 ## <a name="revenue-geo-distribution-trend"></a>Gelir coğrafi dağıtım eğilimi
 
-Bu görünüm, faturalanan gelirin (USD) en üstteki beş coğrafi bir şekilde bölünmesi için aylık bir ay sağlar.  Gelirin geri kalanı ' diğerleri ' olarak kategorilere ayrılır.
+Bu görünüm, faturalandırılacak gelirin (USD) ilk beş coğrafyaya göre aylara göre eğilimini sağlar.  Gelirin geri kalanı 'Diğer' kategorisine ayrılmıştır.
 
 :::image type="content" source="images/insights/resellers-performance-revenue-geo-trend.png" alt-text="Gelir coğrafi dağıtım eğilimi.":::
 
-## <a name="reseller-performance-by-customer-segment"></a>Müşteri kesimine göre satıcı performansı
+## <a name="reseller-performance-by-customer-segment"></a>Müşteri kesimine göre kurumsal bayi performansı
 
-Bu görünüm, bir ortağın aylık gelir ABD Doları, abonelik ve lisans sayısı ile çeşitli müşteri segmentlerine göre bölünmüş bir şekilde anlaşılmasını sağlar. İlk beş müşteri kesimi grafikte gösterilir ve kalan süre ' diğerleri ' olarak kategorize edilir.
+Bu görünüm, bir iş ortağının çeşitli müşteri segmentlerine göre bölünmüş aylık gelir abd doları eğilimini, abonelik ve lisans sayısını anlayabilir. Grafikte ilk beş müşteri segmenti gösterilir ve kalan segmentler 'Diğer' kategorisine ayrılmıştır.
 
-:::image type="content" source="images/insights/resellers-performance-customer-segment.png" alt-text="Müşteri kesimine göre satıcı performansı.":::
+:::image type="content" source="images/insights/resellers-performance-customer-segment.png" alt-text="Müşteri kesimine göre bayi performansı.":::
 
-## <a name="reseller-mpa-signing-status"></a>Bayi MPA imzalama durumu
+## <a name="reseller-mpa-signing-status"></a>Kurumsal Bayi MPA imzalama durumu
 
-Bu görünüm, satıcılar için MPA imzalama durumu ve Microsoft İş Ortağı Ağı (MPN) ile iş ortağı merkezi geçiş durumu gibi ek meta verileri sağlar.
+Bu görünüm, kurumsal bayiler için MPA imzalama durumunun yanı sıra Microsoft İş Ortağı Ağı (MPN) yoklama durumu ve Geçiş durumu için Partner Membership Center (PMC) İş Ortağı Merkezi sağlar.
 
-:::image type="content" source="images/insights/resellers-performance-mpa-status.png" alt-text="Satıcı MPA imzalama durumu.":::
+:::image type="content" source="images/insights/resellers-performance-mpa-status.png" alt-text="Kurumsal Bayi MPA imzalama durumu.":::
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-- daha fazla rapor için bkz. [iş ortağı merkezi Analizler](partner-center-insights.md).
+- Daha fazla rapor için [bkz. İş Ortağı Merkezi Analizler.](partner-center-insights.md)
 
 >[!NOTE] 
-> ham verileri, Analizler panosundaki raporları indir bölümünden bu raporu güçden indirebilirsiniz. [Daha Fazla Bilgi](insights-download-reports.md) 
+> Bu raporu güçlü bir şekilde kullanarak ham verileri panonun Raporları İndir bölümünden Analizler indirebilirsiniz. [Daha Fazla Bilgi](insights-download-reports.md) 

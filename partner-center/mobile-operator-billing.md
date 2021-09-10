@@ -9,12 +9,12 @@ ms.author: hickeys
 author: hickeys
 keywords: Windows 10, UWP, mobil işleçler, mobil faturalama, mobil operatör faturalama
 ms.localizationpriority: medium
-ms.openlocfilehash: 5a0d0a60e7bcbde65b1119fcfad66cfdf53f8229cae4f7b017158b2ad5cf1245
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: b14d92038570756de594f013c4eb2c2e4615c64e
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115682887"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123961445"
 ---
 # <a name="mobile-operator-billing"></a>Cep telefonu operatörü faturalaması
 

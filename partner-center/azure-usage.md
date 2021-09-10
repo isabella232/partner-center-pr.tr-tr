@@ -9,12 +9,12 @@ ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
 ms.date: 08/06/2020
-ms.openlocfilehash: f6392bf0e2d5feb37db38b2c185c07b4cb2cc1e01f7ab29fa1991d8e9357d276
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: dc9b9100e01191c24c03c76e9a9ff5a6ffe335d1
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115680638"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123959985"
 ---
 # <a name="microsoft-azure-vm-sizing-for-maximum-reservation-usage"></a>Maksimum ayırma kullanımı için Microsoft Azure VM boyutlandırması
 

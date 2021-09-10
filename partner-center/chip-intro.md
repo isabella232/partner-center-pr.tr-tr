@@ -1,41 +1,41 @@
 ---
-title: Channel teşvikleri platformunu (yonga) kullanma
+title: Channel Incentives Platform'unu (CHIP) kullanma
 ms.topic: how-to
 ms.date: 11/09/2020
-description: Teşvikleri çalışmanız için kanal teşvikleri platformunu (yonga) nasıl kullanacağınızı öğrenin. Bu platform 2021 sonunda kullanımdan kaldırılacaktır.
+description: Teşviklerin çalışması için Channel Incentives Platform'unu (CHIP) kullanmayı öğrenin. Bu platformun 2021 sonunda kaldır olacağını unutmayın.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d17ee6f08f574b13a91d35cc658a480f0c9d5ecff85cc031ce227c4a8dee3c7a
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: ebee6f49a57eb56429f33291768347be505e3b37
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115692747"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123961194"
 ---
-# <a name="navigate-the-channel-incentives-platform-chip"></a>Channel teşvikleri platformunda (yonga) gezinme
+# <a name="navigate-the-channel-incentives-platform-chip"></a>Kanal Teşvikleri Platformu'na (CHIP) gidin
 
-**Uygun roller**: yonga Yöneticisi
+**Uygun roller:** CHIP yöneticisi
 
 >[!NOTE]
->YONGA platformu 2021 sonunda kullanımdan kaldırılacaktır.
+>CHIP platformu 2021'in sonunda sona erer.
 
-## <a name="sign-into-the-chip-dashboard"></a>YONGA panosunda oturum açın
+## <a name="sign-into-the-chip-dashboard"></a>CHIP panosunda oturum açın
 
-Channel teşvikleri platformu (yonga), belirli Microsoft kanal teşvikleri programları için teşvikleri verilerine erişim sağlar ve Microsoft ürünlerini satmaya yönelik güncelleştirilmiş kazanç ayrıntılarını gösterir.
+Channel Incentives Platform (CHIP), belirli Microsoft Channel Incentives programları için teşvik verilerine erişim sağlar ve Microsoft ürünlerinin satışı için güncelleştirilmiş kazanç ayrıntılarını gösterir.
 
-YONGADA kaydolmak için, şirketinizin birincil ilgili kişisi, benzersiz bir davet kodu (UıC) içeren bir davet alacaktır. İlk kez YONGASıNA erişmek için kodu kullanmanız gerekir.
+CHIP'e kaydolmak için, şirketinizin birincil ilgili kişisi Benzersiz Davet Kodu (UIC) içeren bir davet alır. CHIP'e ilk kez erişmek için bu kodu kullan gerekir.
 
 
-Oturum açabilir ve aşağıdaki gibi gezinebilirsiniz:
+Oturum açma ve gezinmeyi aşağıdaki gibi yapabilirsiniz:
 
-1. YONGA açın ve oturum açma sayfasında Microsoft KIMLIĞI (önceki Live ID) ve parolanızı girip oturum aç ' a tıklayın.
+1. CHIP'i açın, Oturum açma sayfasında Microsoft kimliği (önceki Live ID) ve parolanızı girin ve ardından oturum aç'a tıklayın.
  
 1. Erişmek istediğiniz programı seçin.
-Buradan, seçtiğiniz program için **performans** ve **kazanç** görüntüleyebilirsiniz. 
+Buradan, seçtiğiniz program için **Performans** **ve** Kazançlarınızı görüntüabilirsiniz. 
 
 ## <a name="next-steps"></a>Sonraki adımlar
 

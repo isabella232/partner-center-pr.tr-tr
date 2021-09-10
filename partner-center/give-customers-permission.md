@@ -9,12 +9,12 @@ author: amitravat
 ms.author: amrava
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 94e9cf040da3e369547503d691208f97181c698039ef7373639798b98a930a6b
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 23ca72fada539b5036dfd6cf0ac04a5c18b5d96d
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115693597"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123959975"
 ---
 # <a name="give-customers-permission-in-partner-center-to-buy-their-own-products-or-services"></a>Iş Ortağı Merkezi 'nde müşterilere kendi ürünlerini veya hizmetlerini satın alma izni verin
 
@@ -147,7 +147,7 @@ Azure ayırmalarının bu yönlerini yönetme hakkında daha fazla bilgi edinmek
 
 **Müşteri, paylaşılan kapsamda bir rezervasyon satın aldıktan sonra ne olur?** Müşteriler önceki bir CSP aboneliğine göre rezervasyon satın alan ve bu rezervasyona paylaşılan bir kapsam atasa, CSP tarafından müşteriye verilen indirimler, CSP iş ortağının o müşteri için satın alan tüm abonelikler için eşleşen kullanım için geçerli olur.
 
-**Müşterilerin yapmış olduğu bir satın alma işlemini değiştirmek, iptal etmek veya yenilemek ya da rezervasyonun ilk kapsamını değiştirmek istemeleri durumunda ne yapmaları gerekir?** Müşterilerin bir rezervasyonun ilk kapsamını değiştirmelerine yardımcı olmak için iş ortağına sorması gerekir. Ayrıca rezervasyonu değiştirme, iptal etme veya yenileme için bir iş ortağının yardımı da gerekir. CsP iş ortağı tarafından satın alınan abonelikleri temel alan rezervasyonlarla bu görevleri kendileri gerçekleştirebilirler.
+**Müşterilerin, yapmış olduğu bir satın alma işlemini değiştirmek, iptal etmek veya yenilemek ya da rezervasyonun ilk kapsamını değiştirmek istemeleri durumunda ne yapmaları gerekir?** Müşterilerin bir rezervasyonun ilk kapsamını değiştirmelerine yardımcı olmak için iş ortağına sorması gerekir. Ayrıca rezervasyonu değiştirme, iptal etme veya yenileme için bir iş ortağının yardımı da gerekir. CsP iş ortağı tarafından satın alınan abonelikleri temel alan rezervasyonlarla bu görevleri kendileri gerçekleştirebilirler.
 
 ## <a name="next-steps"></a>Sonraki adımlar
 

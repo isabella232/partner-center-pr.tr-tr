@@ -8,12 +8,12 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: c46f34a0b4b1873c3cca9b64f42848b2051bf6338ccb121b48f8979729f12703
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 387be6313a1e775963c86714a6c5c825a2ca8169
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115694923"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123961335"
 ---
 # <a name="generate-a-marketing-plan-for-your-incentives-program"></a>Teşvik programınız için bir pazarlama planı oluşturma
 
@@ -36,7 +36,7 @@ Belirli bir programınıza ilişkin planlar hakkında daha Teşvikler programı 
 
 2. Sol gezintideki **Teşvikler**’in altında **Program**’ı seçin ve sonra da programınızı seçin. 
 
-3. Program **sayfasında planınız** için uygun pazarı bulun ve Plan oluştur'a **tıklayın.** 
+3. Program **sayfasında** planınız için uygun pazarı bulun ve Plan oluştur'a **tıklayın.** 
 
 4. Yeni **plan sayfasında** gerekli alanları doldurun. **Para** birimi, planın yansıtması istediğiniz değerdir. **Gözden geçiren** e-postası, hesap yöneticinizin Microsoft e-posta adresi olabilir. MPN kimliği, fon, program ve süre başına tek bir plan oluşturulabileceğini unutmayın. **Kaydet**’i seçin.
 
@@ -84,7 +84,7 @@ Microsoft size kazançlarınız ve planınızın sınırları temelinde her ay �
 
 Örneğin, planınız 10.000 ABD doları için onaylandı ve Nisan ayında 5.000 ABD doları kazandınız, 15 Mayıs'ta 5.000 ABD doları alırsınız.
 
-Aynı planda Nisan ayında 15.000 ABD doları kazanırsanız 15 Mayıs'ta 10.000 ABD doları alırsınız çünkü planınız için sınır 10.000 ABD dolarıdır. Daha fazla ödeme almak için sonraki ay için planınızın sınırını artırmanız gerekir.
+Aynı planda Nisan ayında 15.000 ABD doları kazanırsanız 15 Mayıs'ta 10.000 ABD doları alırsınız çünkü plan için sınır 10.000 ABD dolarıdır. Daha fazla ödeme almak için sonraki ay için planınızın sınırını artırmanız gerekir.
 
 ## <a name="next-steps"></a>Sonraki adımlar
 

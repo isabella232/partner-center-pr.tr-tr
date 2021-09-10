@@ -1,52 +1,52 @@
 ---
 title: Bölgesel PSTN hizmeti vergileri ve ücretleri
-description: Voice Office 365 işlem yapan bir Microsoft 365 iş ortağı olarak PSTN hizmetleri için bölgesel vergiler, ücretler veya mevzuat gereksinimlerine tabi olabilirsiniz.
+description: sesli ürünler Microsoft 365 bir Office 365 iş ortağı olarak, PSTN hizmetleri için bölgesel vergiler, ücretler veya yasal gereksinimlere tabi olabilirsiniz.
 ms.topic: article
 ms.date: 09/10/2020
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 228534aff70db5c60116d408550361477da7302b784c78ea746cd2ae017c70a0
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: 85eefb49cf62c4bcfa5533683abd8ddb0e854463
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115691676"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123961516"
 ---
-# <a name="regional-taxes-regulations-for-public-switched-telephone-network-ptsn-services"></a>Bölgesel vergiler, Kamu Anahtarlı Telefon Ağı (PTSN) hizmetleriyle ilgili düzenlemeler
+# <a name="regional-taxes-regulations-for-public-switched-telephone-network-ptsn-services"></a>Bölgesel vergiler, ortak anahtarlı telefon ağı (PTSN) Hizmetleri için yönetmelikler
 
-**Uygun roller:** Genel yönetici | Kullanıcı yöneticisi | Yönetici aracısı
+**Uygun roller**: genel yönetici | Kullanıcı Yöneticisi | Yönetim Aracısı
 
-Bazı yargı alanlarındaki Kamu Anahtarlı Telefon Ağı (PSTN) hizmetleri, iş ortağı siparişlerini ve faturalamayı etkileyebilecek özel vergi ve mevzuat gereksinimlerine tabi olabilir. Bu Birleşik Devletler, Sesli Konferans, Arama Planları ve İletişim Kredileri de dahil olmak üzere Porto Riko, PSTN hizmetleri özel vergi ve mevzuat gereksinimlerine tabi olur. Microsoft, Birleşik Devletler ve Porto Riko'da PSTN hizmetlerini vergiler dahil olarak fiyatlarına sunar.  Benzersiz PSTN vergileri ve düzenlemeleri, Voice Office 365 işlem Microsoft 365 iş ortaklarını etkiler.  Bir iş ortağı bir Microsoft PSTN Hizmetinin fiyatını işaretlerse PSTN vergilerini ve ücretlerini hesaplamak ve geri almaktan sorumlu olabilir.
+Bazı dairelerde ortak anahtarlı telefon ağı (PSTN) Hizmetleri, iş ortağı siparişi ve faturalamayı etkileyebilecek özel vergi ve mevzuata gereksinimlere tabi olabilir. Birleşik Devletler, Porto Riko da dahil olmak üzere, ses konferansı, çağrı planlarını ve Iletişim kredilerini içeren PSTN Hizmetleri, özel vergi ve yasal gereksinimlere tabidir. Birleşik Devletler ve Porto Riko 'da, Microsoft, PSTN hizmetlerini vergi dahil olarak ücretlidir.  benzersiz PSTN vergileri ve yönetmelikleri, Office 365 iş ortakları Microsoft 365 ses ürünlerini etkiler.  Bir iş ortağı bir Microsoft PSTN hizmetinin fiyatını işaretlerse, PSTN vergileri ve ücretleri hesaplanmaktan ve yeniden dağıtmanıza yardımcı olabilirler.
 
-## <a name="partner-recommendations"></a>İş ortağı Öneriler
+## <a name="partner-recommendations"></a>iş ortağı Öneriler
 
-PSTN hizmetlerinin düzenlemesi, vergileri ve ücretleri ve diğer olası zararlarla ilgili olarak, kuruluş sorumluluğunu anlamak için vergi ve yasal sorumlular ile iletişim kurma.
+Uygun bir şekilde, PSTN Hizmetleri mevzuata, vergiler ve ücretler ve diğer olası Borçlar hakkında kuruluşunuzun sorumluluğunu anlamak için vergi ve yasal Konseyi kullanım bilgilerinizi izleyin.
 
-## <a name="invoice-presentation-and-partner-reconciliation-file"></a>Fatura Sunusu ve İş Ortağı Mutabakat Dosyası
+## <a name="invoice-presentation-and-partner-reconciliation-file"></a>Fatura sunumu ve Iş ortağı mutabakatı dosyası
 
-Bulut Çözümü Sağlayıcısı PSTN ve Microsoft 365 Voice hizmetlerini içeren Birleşik Devletler, Porto Skype Kurumsal Riko ve Kanada'daki Microsoft 365 (CSP) faturaları ve CSP mutabakat dosyaları PSTN ve PSTN olmayan bileşenler için ayrı satır öğeleri sağlar.
+Bulut Çözümü Sağlayıcısı (CSP) Birleşik Devletler, porto riko ve kanada 'daki Skype Kurumsal pstn ve Microsoft 365 Voice services dahil olmak üzere) faturalar ve CSP mutabakatı dosyaları, pstn ve pstn olmayan bileşenlere yönelik ayrı satır öğeleri sağlar.
 
-Ayrıca CSP faturaları aşağıdaki dipnotları görüntüler:
+Ayrıca, CSP faturalarında aşağıdaki dipnot görüntülenir:
 
-* Görüntülenen fiyat Sesli Konferans ve Arama Planı Hizmetleri için bir ücrettir.  Geçerli tüm işlem vergileri, yalnızca ilgili vergiler içinde yapılan satışlar dışında gösterilen tutarın Birleşik Devletler.  ABD'de görüntülenen fiyat vergi dahildir çünkü Arama Planı ve Sesli Konferans Hizmetleri için bir ücret ve ücret ödememiz gereken vergiler ve ücretler için bir ücret içerir.  Sesli Konferans ve Arama Planı Hizmetleri, bunları sağlama yetkisine sahip Microsoft Bağlı Kuruluş tarafından hizmet sunar.  Ayrıntılar için bkz. [Microsoft Toplu Lisanslama](https://go.microsoft.com/fwlink/?LinkId=690247).
+* Gösterilecek Fiyat, sesli konferans ve çağrı planı Hizmetleri için ücretlendirilir.  Geçerli işlem vergileri, yalnızca Birleşik Devletler içinde yapılan satışlar dışında gösterilen tutardan ücretlendirilir.  ABD 'de, arama planı ve ses konferansı Hizmetleri için bir ücret ve ücretlendiriyoruz vergiler ve ücretler için ücret dahil olmak üzere, görüntülenen fiyata vergi dahildir.  Ses konferansı ve arama planı Hizmetleri, bunları sağlama yetkisine sahip Microsoft bağlı kuruluşlarına göre hizmet verir.  Ayrıntılar için bkz. [Microsoft Toplu Lisanslama](https://go.microsoft.com/fwlink/?LinkId=690247).
 
-## <a name="reconciliation-file-example"></a>Mutabakat Dosyası Örneği
+## <a name="reconciliation-file-example"></a>Karşılaştırma dosyası örneği
 
-Office 365 Kurumsal E5, mutabakat dosyasında aynı adlara ve aynı kimliklere sahip iki satır öğesi olarak sunar, ancak her satır öğesinin benzersiz bir birim fiyatı vardır (örneğin: 28,40 ABD doları ve 2,00 ABD doları). Bu, vergileri Skype Kurumsal için Office 365 PSTN Konferans bileşenini birbirinden ayırıyor.
+Office 365 Kurumsal E5, aynı adlara ve özdeş kimliklere sahip iki satırlık öğe olarak mutabakat dosyası gösterir, ancak her satır öğesi benzersiz bir birim fiyatına sahiptir (örnek: $28,40 ve $2,00). bu, Office 365 teklifinin Skype Kurumsal PSTN konferans bileşenini ayırır, böylece vergileri doğru bir şekilde uygulayabilirsiniz.
 
-**İş Ortağı Mutabakatı #1 (sütun seçme):**
+**İş ortağı mutabakatı örnek #1 (sütun Seç):**
 
 |**Durable_offer_ID**|**Offer_Name**|**Subscription_Start_Date**|**Subscription_End_Date**|**Charge_Start_Date**|**Charge_End_Date**|**Charge_Type**|**Unit_Price**|
 |:----:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
-|a044b16a-1861-4308-8086-a3a3b506fac2   |Office 365 Kurumsal E5   |8/10/2019 0:00   |8/11/2019 0:00   |8/11/2019 0:00|9/10/2019 0:00   |Döngü ücreti   |28.40   |
-|a044b16a-1861-4308-8086-a3a3b506fac2   |Office 365 Kurumsal E5   |8/10/2019 0:00   |8/11/2019 0:00   |8/11/2019 0:00   |9/10/2019 0:00   |Döngü ücreti   |2,00   |
+|a044b16a-1861-4308-8086-a3a3b506fac2   |Office 365 Kurumsal E5   |8/10/2019 0:00   |8/11/2019 0:00   |8/11/2019 0:00|9/10/2019 0:00   |Bisiklet ücreti   |28.40   |
+|a044b16a-1861-4308-8086-a3a3b506fac2   |Office 365 Kurumsal E5   |8/10/2019 0:00   |8/11/2019 0:00   |8/11/2019 0:00   |9/10/2019 0:00   |Bisiklet ücreti   |2,00   |
 
-**İş Ortağı Mutabakatı örnek #2**
+**İş ortağı mutabakatı örnek #2**
 
-Microsoft 365 Küçük İşletmeler için Ses kanada'da bulunan ve CSP Faturasında birleştirilmiş ek PSTN vergilanabilir bileşenleri vardır (Office 365 E5'ye benzer şekilde, biri PSTN bileşenleri için, diğeri PSTN olmayan bileşenler için olmak Office 365 E5 gibi) iki satır öğe sunulmuştur.  Microsoft 365 Küçük İşletmeler için Ses IÇIN CSP Mutabakat dosyası tüm PSTN vergilenebilir bileşenlerini ayrı ayrı görüntüler (tek pstN bileşenleri .CSV veya API aracında birleştirilemez).  Mutabakat dosyasında bulunan müşteriler için sipariş ayrıntılarının ve faturalanmış tutarların toplamı CSP Faturası ile eşlaşacak.
+kanada 'da kullanılabilir Microsoft 365 Küçük İşletmeler için Ses, CSP faturasında birleştirilmiş ek PSTN vergilendirilebilir bileşenlere sahiptir (Office 365 E5 benzer şekilde, bir tane, pstn bileşenleri için, diğeri ise pstn olmayan bileşenler için olmak üzere iki satırlık öğe sunulur).  Microsoft 365 Küçük İşletmeler için Ses CSP mutabakatı dosyasında tüm pstn vergilendirilebilir bileşenleri ayrı ayrı görüntülenir (bireysel pstn bileşenleri, .CSV veya apı aracında birleştirilmeyecektir).  Mutabakat dosyasında bulunan müşterilere ait sipariş ayrıntılarının ve faturalandırılan tutarların toplamı, CSP faturasıyla eşleşmeyecektir.
 
 ## <a name="additional-resources"></a>Ek Kaynaklar
-Diğer ayrıntılar için İş Ortakları Microsoft 365 [sitesini ziyaret](https://www.microsoft.com/microsoft-365/partners/) edin.
+daha fazla ayrıntı için [iş ortakları sitesini Microsoft 365](https://www.microsoft.com/microsoft-365/partners/) ziyaret edin.
 

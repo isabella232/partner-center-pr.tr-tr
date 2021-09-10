@@ -9,12 +9,12 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 9cb2f105d59ac2d54d93b3a02142b9af976a88f91bdde5b2d15bde8ed41aec2c
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: e037d616fff8416fc15e59b4c58639f647c16841
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115692610"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123961205"
 ---
 # <a name="add-users-to-your-channel-incentives-platform-chip-account"></a>Kanal teşvikleri platformu (yonga) hesabınıza kullanıcı ekleme
 

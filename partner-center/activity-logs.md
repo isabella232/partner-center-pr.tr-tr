@@ -9,12 +9,12 @@ author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8d8deb72da4bd0bbf3fe9d026a49c9eaf6c438661c237b4075dfc87f531da137
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: e21db0b6d054c62cec0378a3b93201dea072128f
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115685522"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123959995"
 ---
 # <a name="view-or-export-customer-activity-logs-for-more-insight-into-customer-transactions"></a>Müşteri işlemleriyle ilgili daha fazla içgörü için müşteri etkinlik günlüklerini görüntüleme veya dışarı aktarma
 
@@ -39,7 +39,7 @@ Etkinlik günlükleri, müşteri hesapları ve ürün işlemleriyle ilgili iş o
 4. Günlüğün veri sütunları aşağıdakileri içerir:
    - **Tarih-Saat**- eylemin tarihi ve saati;
    - **Etkilenen müşteri**— müşterinin şirket adı;
-   - **Eylem—** müşteri tarafından yapılan "referans oluşturuldu" gibi eylem;
+   - **Eylem—** müşteri tarafından yapılan "referans oluşturma" gibi eylem;
    - **İş ortağı** kullanıcısı —etkinlikle ilişkili iş ortağı.
 
 5. Müşterinin **abonelik verilerini** bir .csv dosyasına kopyalamak için Günlüğü dışarı aktar'ı seçin ve bilgisayarınızda varsayılan indirme klasörüne indirin.

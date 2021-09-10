@@ -10,12 +10,12 @@ metadata:
   ms.author: vinayks
   ms.localizationpriority: medium
   ms.custom: SEOMAY.20
-  ms.openlocfilehash: aefa07b13e88f6d3cef2d3d484823ddaced6d7973ea4adf84caddbb3a02ee57d
-  ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+  ms.openlocfilehash: 1eac4c58981ee5097ab429480e33072a39b9c20c
+  ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
   ms.translationtype: MT
   ms.contentlocale: tr-TR
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "115696817"
+  ms.lasthandoff: 09/09/2021
+  ms.locfileid: "123960655"
 title: Dolaylı sağlayıcılar dolaylı satıcıların Microsoft Iş ortağı sözleşmesi 'Ni (MPA) kabul etmesine nasıl yardımcı olabilir
 summary: "**Uygun roller**: genel yönetici | Yönetici Aracısı | Satış Aracısı\n\nAşağıdaki sorular ve yanıtlar, dolaylı satıcıların yanı sıra MPA 'nın nasıl ve neden kabul edeceğini anlamalarına yönelik olası sorunları ve çözümleri ele alın. \n\nBulut Çözümü Sağlayıcısı programdaki dolaylı sağlayıcılar, doğrudan fatura ortakları ve dolaylı satıcılar bu bilgileri faydalı bulur.\n"
 sections:
@@ -95,80 +95,80 @@ sections:
       CSP dolaylı satıcısıysanız, aynı bölgedeki dolaylı bir sağlayıcı ile iş ortağınız olması gerekir ve yalnızca aynı bölgedeki müşterilere satış yapabilirsiniz.
   - question: >
       MPN kimliğimi neden kiracıma ilişkilendiremiyorum?
-    answer: "MPN KIMLIĞINIZI kiracınız ile ilişkilendiremediyseniz ve bir hata görürseniz, MPN KIMLIĞI ve kiracının aynı ülkede olmadığı anlamına gelir. İlişkinin çalışması için, her ikisinin de aynı ülkede olması gerekir. Bu gereksinim, Microsoft teşvikleri 'in ülke ve MPN KIMLIK düzeyi başına ödenme zorunluluyordu. Örneğin, Fransa 'da CSP hesabınız varsa, ücretli teşvikleri almak için Fransa 'da da MPN konumuna (MPN KIMLIĞI) ihtiyacınız vardır. Birleşik Krallık 'ta MPN KIMLIĞI , aynı CSP bölgesinde olsalar da çalışmayacak. \n\nBu sorunu çözmek için CSP ülkesine sahip aynı ülkede bir MPN konumu oluşturun. [MPN konumlarını yönetme](manage-locations.md)hakkında daha fazla bilgi edinin.\n"
+    answer: "MPN KIMLIĞINIZI kiracınız ile ilişkilendiremediyseniz ve bir hata görürseniz, MPN KIMLIĞI ve kiracının aynı ülkede olmadığı anlamına gelir. İlişkinin çalışması için, her ikisinin de aynı ülkede olması gerekir. Bu gereksinim, Microsoft teşvikleri 'in ülke ve MPN KIMLIK düzeyi başına ödenme zorunluluyordu. Örneğin, Fransa 'da CSP hesabınız varsa, ücretli teşvikleri almak için Fransa 'da da MPN konumuna (MPN KIMLIĞI) ihtiyacınız vardır. Birleşik Krallık 'ta MPN KIMLIĞI aynı CSP bölgesinde olsalar da çalışmayacak. \n\nBu sorunu çözmek için CSP ülkesiyle aynı ülkede bir MPN konumu oluşturun. MPN konumlarını yönetme [hakkında daha fazla bilgi.](manage-locations.md)\n"
   - question: >
-      Fransa 'da bir CSP dolaylı satıcı hesabıdır. Almanya 'daki dolaylı sağlayıcıyla iş ortakları yapabilir miyim?
+      Fransa'da CSP Indirect Reseller hesabım var. Almanya'da Dolaylı Sağlayıcı ile iş ortağı olabilir miyim?
     answer: >
-      Evet. CSP dolaylı satıcı hesabınız CSP bölgesinde etkin olduktan sonra, tüm bölgede iş yapmak için aynı hesap kullanılabilir. [CSP bölgesi](regional-authorization-overview.md)hakkında daha fazla bilgi edinin.
+      Evet. Hesap CSP Indirect Reseller CSP bölgesinde etkin olduktan sonra aynı hesap tüm bölgede iş yapmak için kullanılabilir. CSP bölgesi hakkında [daha fazla bilgi.](regional-authorization-overview.md)
   - question: >
-      ABD 'de dolaylı bir satıcıyım. Birleşik Krallık 'ta dolaylı bir sağlayıcıyla iş ortağı yapabilir miyim?
+      ABD'de Dolaylı Kurumsal Bayiyim. Birleşik Krallık'ta Dolaylı sağlayıcıyla iş ortağı olabilir miyim?
     answer: >
-      Hayır. CSP, bölgesel bir programdır. Hem dolaylı satıcı hem de dolaylı sağlayıcının CSP hesabı iş için aynı CSP bölgesinde olmalıdır. Bu sorunu çözmek için Avrupa bölgesinde yeni bir CSP hesabı oluşturmanız ve CSP hesabı ülkesinden aynı ülkede bir MPN konumu oluşturmanız ve ardından dolaylı Sağlayıcıınızdan ilişki isteğini kabul etmeniz gerekir. Örneğin, Fransa 'da bir CSP dolaylı satıcı hesabı oluşturabilir, Fransa 'da bir MPN konumu oluşturabilir ve ardından Fransa veya CSP Avrupa bölgesindeki diğer ülkelerin herhangi biri olan dolaylı sağlayıcıdan gelen daveti kabul etmiş olursunuz.
+      Hayır. CSP bölgesel bir programdır. İş yapmak için hem Dolaylı Kurumsal Bayinin hem de Dolaylı sağlayıcının CSP hesabının aynı CSP bölgesinde olması gerekir. Bu sorunu çözmek için Avrupa bölgesinde yeni bir CSP hesabı oluşturmanız, CSP hesap ülkesiyle aynı ülkede bir MPN konumu oluşturmanız ve dolaylı Sağlayıcınızdan gelen ilişki isteğini kabul etmek gerekir. Örneğin, Fransa'da bir CSP Indirect Reseller hesabı oluşturabilir, Fransa'da bir MPN konumu oluşturabilir ve ardından Fransa'da veya CSP Avrupa bölgesinde diğer ülkelerden herhangi biri olan Dolaylı Sağlayıcı'dan daveti kabul edersiniz.
   - question: >
-      Iş Ortağı Merkezi 'nde birden fazla MPN ve CSP hesabına sahip olabilir miyim?
+      Bir hesapta birden fazla MPN ve CSP Hesabı İş Ortağı Merkezi?
     answer: >
-      Şirketinizin gerçekleştirdiği CSP bölgelerine bağlı olarak yalnızca bir MPN hesabına (oturum açma) ve bir veya daha fazla CSP hesabına (oturum açma) sahip olabilirsiniz. Örneğin, MPN hesabınızı ABD 'de (HQ) ABD 'de (Türkiye), Birleşik Krallık (yan kuruluş) ve Avustralya (yan kuruluş) konumlarına sahip olabilirsiniz.
+      Şirketinizin yaptığı işletmenin CSP bölgelerine bağlı olarak yalnızca bir MPN hesabınız (oturum açma) ve bir veya daha fazla CSP hesabınız (oturum açma) olabilir. Örneğin, MPN hesabınız ABD'de (HQ) ABD(Yan Kuruluş), ABD(Yan Kuruluş) ve Avustralya (Yan Kuruluş) konumlarını bulundurabilirsiniz.
 
-      abd 'de mpn hesabınızla aynı oturum açma kimlik bilgilerine sahip bir CSP hesabınız (Office 365 iş hesabı) olabilir. Birleşik Krallık 'ta ikinci CSP hesabınız olabilir Avrupa bölgesinde CSP işletmelerini yönetmek için farklı oturum açma kimlik bilgilerine sahiptir ve Avustralya 'daki üçüncü bir oturum açma kimlik bilgileri, Avustralya 'daki CSP iş kimlik bilgilerine sahiptir.
+      ABD'de MPN hesabınızla aynı oturum açma kimlik bilgilerine sahip bir CSP hesabınız (Office 365 hesabı) olabilir. ABD'de ikinci bir CSP hesabınız olabilir. Avrupa bölgesinde CSP işletmelerini yönetmek için farklı oturum açma kimlik bilgilerine ve Avustralya'da üçüncüye sahip olan ve Avustralya'daki CSP işletmelerini yönetmek için diğer ikisinde farklı oturum açma kimlik bilgilerine sahip olan üçüncü kimlik bilgileri.
 
 
-      Bu üç CSP hesabının tümü iş yapmak için MPN KIMLIĞI konum hesaplarıyla ilişkilendirilmelidir ve bu yan kuruluşlar içinde teşvikleri kazanırmalıdır. MPN Uzmanlıklar ve avantajları yalnızca MPN hesabı tarafından yönetilebilir.
+      İş yapmak ve bu yan kuruluşlarda teşvik kazanmak için üç CSP hesabının da MPN kimliği konum hesaplarıyla ilişkilendirilmeleri gerekir. MPN yetkinlikleri ve avantajları yalnızca MPN hesabı tarafından yönetilebilir.
   - question: >
-      ABD 'de bir CSP dolaylı satıcısı kullanıyorum ve işletmeyi Avrupa 'ya genişletmek istiyorsunuz. Iş Ortağı Merkezi 'nde ne yapmam gerekir?
+      ABD'de CSP Indirect Reseller sahibiyim ve işletmemi Avrupa'ya genişletmek istiyorum. İş Ortağı Merkezi'da ne İş Ortağı Merkezi?
     answer: >
-      Ülkede iş yapmak istediğiniz bir MPN konumuna ihtiyacınız olacak ve aynı ülkede CSP dolaylı satıcı programına kaydolistemeniz gerekir. Yeni [MPN konumları ve CSP](manage-locations.md#prerequisites-in-order-to-add-a-new-account-for-a-csp-business)kayıtları oluşturma hakkında daha fazla bilgi edinin.
-- name: MPN hesabınızı PMC 'den Iş Ortağı Merkezi 'ne geçirme sorusu
+      İş yapmak istediğiniz ülkede bir MPN konumu gerekir ve aynı ülkede CSP Indirect Reseller programına kaydolmanız gerekir. Yeni MPN konumları [ve CSP kayıtları oluşturma hakkında daha fazla bilgi.](manage-locations.md#prerequisites-in-order-to-add-a-new-account-for-a-csp-business)
+- name: MPN hesabını PMC'den İş Ortağı Merkezi'a İş Ortağı Merkezi
   questions:
-  - question: "MPN hesabımı Iş ortağı üyeliği merkezinden Iş Ortağı Merkezi 'ne geçirmek istiyorum. Bunu nasıl yapabilirim? MPN yöneticimin kim olarak olduğunu bilmiyorum. Nasıl geçiş yapabilirim? \n"
+  - question: "MPN hesabımı Partner Membership Center'den İş Ortağı Merkezi. Bunu nasıl yapabilirim? PMC'de MPN Yöneticim kimdi bilmiyorum. Nasıl geçiş miyim? \n"
     answer: >
-      [MPN 'YI PMC 'den PC 'ye geçirme](https://assetsprod.microsoft.com/mpn/migrate-pmc-pc-mpa-guide.pptx)hakkında adım adım kılavuzu indirin.
+      [MPN'nin PMC'den PC'ye nasıl geçirilir? ile ilgili adım adım kılavuzu indirin.](https://assetsprod.microsoft.com/mpn/migrate-pmc-pc-mpa-guide.pptx)
 
 
-      MPN hesabınızı geçirdikten sonra, MPA 'nın nasıl imzalanmasıyla ilgili daha fazla bilgi edinin, [Microsoft-Partner-sözleşmesi](microsoft-partner-agreement.md#download-the-step-by-step-guide-thats-right-for-where-you-are-in-the-mpa-signing-process)' ni okuyun.
+      MPN hesabınızla birlikte MPA'yı imzalama hakkında daha fazla bilgi edinmek için [microsoft-partner-agreement makalelerini okuyun.](microsoft-partner-agreement.md#download-the-step-by-step-guide-thats-right-for-where-you-are-in-the-mpa-signing-process)
 
 
-      Sorunlar söz konusu olduğunda, Iş Ortağı Merkezi içinden bir [destek bileti](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=2da4e1c7-3b4b-5672-6227-56bc75a936b4) yükseltin.
+      Sorun durumunda, bir destek [biletini İş Ortağı Merkezi.](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=2da4e1c7-3b4b-5672-6227-56bc75a936b4)
   - question: >
-      Nasıl yaparım? MPN KIMLIĞI Iş Ortağı Merkezi 'ne geçirildiyse kontrol edilsin mi?
-    answer: "MPN hesabınızda herhangi bir rolle oturum açın (MPN ve CSP oturum açma kimlik bilgileri farklı olabilir). \n\n**Hesap ayarlarından** **iş ortağı** sekmesi altında **geçerli profil** sayfası ' nı seçin. Program bilgileri altında \"MPN program durumu\" görürseniz, MPN KIMLIĞINIZ Iş Ortağı Merkezi ' nde bulunur. \"Iş ortağı\" sekmesinde \"MPN program durumu\" yi görmüyorsanız, CSP hesabınızla oturum açtınız veya MPN hesabınız hala Iş Ortağı Merkezi 'nde değil. MPN hesabınızı yine de PMC 'den PC 'ye geçirmeniz gerekebilir.\n\n\n:::image type=\"content\" source=\"images/legal-info-mpn.png\" alt-text=\"MPN program bilgisinin nerede olduğunu öğrenin.\":::\n"
-- name: MPN ve CSP hesabı doğrulama hakkında sorular
+      Nasıl yaparım? MPN kimliğimin geçişli olup İş Ortağı Merkezi?
+    answer: "HERHANGI bir rolle MPN hesabınızla oturum açın (MPN ve CSP oturum açma kimlik bilgileri farklı olabilir). \n\nHesap **ayarları'dan** İş ortağı **sekmesinin altındaki** Yasal profil **sayfasını** seçin. Program Bilgileri'nin altında \"MPN Program durumu\" ifadesini görüyorsanız, MPN kimliğiniz İş Ortağı Merkezi. \"İş Ortağı\" sekmesinde \"MPN Programı durumu\" ifadesini görmüyorsanız CSP hesabınızla oturum açın veya MPN hesabınız henüz oturum İş Ortağı Merkezi. MPN hesabını PMC'den PC'ye geçirmeniz yine de gerekir.\n\n\n:::image type=\"content\" source=\"images/legal-info-mpn.png\" alt-text=\"MPN program bilgilerini nerede görebiliriz?\":::\n"
+- name: MPN ve CSP hesap doğrulaması hakkında sorular
   questions:
   - question: >
-      MPN programına ve CSP dolaylı satıcı programı olarak kaydoldum, ancak yasal iş profili doğrulama durumunuz reddedildi durumunda. Ne yapmalıyım?
-    answer: "**Güncelleştirme**' ye tıklayarak yasal profil bilgilerini güncelleştirmeniz gerekir. Devam etmeden önce aşağıdaki makaleleri okuyun:\n\n- [Hesap bilgilerinizi doğrulama](verification-responses.md#what-is-verified-and-how-to-respond)\n\n- [Kuruluş profilinizi doğrulama](update-your-partner-profile.md)\n\nSorunu kendi kendinize düzeltemedi, CSP hesabınızla oturum açarak Iş Ortağı Merkezi içinden bir destek bileti yükseltin:\n\n- İş doğrulama sorunları için bir [destek isteği](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=52ac28f3-d58f-99d9-9846-3df5a6477c54)oluşturun.  \n- İş doğrulama sorunları için bir [destek isteği](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=c34a5c81-a111-476d-11a4-81c808c37a6b)oluşturun.\n\n:::image type=\"content\" source=\"images/rejected-faq-mpa.png\" alt-text=\"reddedilecek.\":::\n"
+      MPN programına ve CSP dolaylı kurumsal bayi programı olarak kaydoldum ama yasal iş profili doğrulama durumum Reddedildi durumunda. Ne yapmalıyım?
+    answer: "Güncelleştir'e tıklayarak yasal profil bilgilerini güncelleştirmeniz **gerekir.** Devam etmeden önce aşağıdaki makaleleri okuyun:\n\n- [Hesap bilgilerinizi doğrulama](verification-responses.md#what-is-verified-and-how-to-respond)\n\n- [Kuruluş profilinizi doğrulama](update-your-partner-profile.md)\n\nSorunu kendi başına çöze biliyorsanız CSP hesabınızla oturum İş Ortağı Merkezi bir destek bileti açın ve:\n\n- İş doğrulama sorunları için bir destek [isteği oluşturun.](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=52ac28f3-d58f-99d9-9846-3df5a6477c54)  \n- İstihdam doğrulama sorunları için bir destek [isteği oluşturun.](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=c34a5c81-a111-476d-11a4-81c808c37a6b)\n\n:::image type=\"content\" source=\"images/rejected-faq-mpa.png\" alt-text=\"Reddetti.\":::\n"
   - question: >
-      MPN program/CSP dolaylı satıcı programına kaydoldum, ancak yasal iş profili doğrulama durumunuz bekleme durumunda takılmış gibi görünüyor. Ne yapmalıyım?
+      MPN programına / CSP Indirect Reseller programıma kaydolum ama yasal iş profili doğrulama durumum Beklemede durumunda takılıyor gibi görünüyor. Ne yapmalıyım?
     answer: >
-      CSP dolaylı satıcı yasal iş profiliniz, beş iş günden daha uzun bir süre sonra **bekleme** durumu durumunda ise, iş ortağı Merkezi [desteği](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=345795c0-26bd-dd95-d291-b78ed4a8edce)' ne tıklayarak iş ortağı Merkezi içinden bir destek bileti yükseltin.
+      CSP dolaylı kurumsal bayi yasal  iş profiliniz beş iş günü sonra Beklemede nitelik durumunda ise, Destek'e tıklayarak İş Ortağı Merkezi içinde bir [destek bileti İş Ortağı Merkezi oluşturun.](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=345795c0-26bd-dd95-d291-b78ed4a8edce)
 
 
       :::image type="content" source="images/pending.png" alt-text="Durum beklemede.":::
-- name: Iş Ortağı Merkezi 'nde çalışma hakkında sorular
+- name: İş Ortağı Merkezi'da çalışma hakkında sorular
   questions:
   - question: >
-      Iş Ortağı Merkezi yöneticisinin MPA 'yı kabul edebilen kim olduğunu bilmiyorum.
+      MPA'yı kabul İş Ortağı Merkezi yöneticinin kim olduğunu bilmiyorum.
     answer: >
-      Şirketinizdeki genel yönetici MPA 'yı kabul etmelidir. Şirketinizdeki kimin genel yönetici rolüne atandığını öğrenmek için **Kullanıcı yönetimi** ' ne gidin. Arama kutusuna genel yönetici yazın. Genel yönetici rolü atanan kişilerin adları alınacaktır. Bu kişilerin hiçbiri MPA 'yı kabul edebilir. Şirketinizde genel yönetici yoksa, [şirketinizin genel yönetici ihtiyacı varsa ne yapılacağını](no-mpn-admin.md)okuyun.
+      Şirketinizin genel yöneticisinin MPA'yı kabul etmiş olması gerekir. Şirketinize genel yönetici rolünün atandığı kişi hakkında bilgi için Kullanıcı **yönetimi'ne gidin.** Ara kutusuna genel yönetici yazın. Genel yönetici rolüne atanan kişilerin adları çekilir. Bu kişilerden herhangi biri MPA'yı kabul eder. Şirketinizin genel yöneticisi yoksa, şirketin genel yöneticiye ihtiyacı [varsa yapılması gerekenler makalesi'ni okuyun.](no-mpn-admin.md)
 
 
-      :::image type="content" source="images/user-management-clean.png" alt-text="Genel yönetici nasıl bulunur.":::
+      :::image type="content" source="images/user-management-clean.png" alt-text="Genel yönetici bulma.":::
   - question: >
-      Satıcım, Iş Ortağı Merkezi ' nde MPA 'yı kabul etme seçeneği görmediği söyler. Bunları en iyi şekilde nasıl destekleyebilirim?
-    answer: "Satıcı Iş Ortağı Merkezi 'Nde oturum açabilir ancak MPA 'yı kabul etme seçeneğini göremez:\n\n1. Sol taraftaki CSP sekmesinin altındaki \"genel bakış\" sayfasını görür mı? \n\n:::image type=\"content\" source=\"images/csp.png\" alt-text=\"CSP 'nin konumunu Iş Ortağı Merkezi menüsünde bulabilirsiniz.\":::\n\nIş Ortağı Merkezi menüsünde CSP altında \"genel bakış\" i görmüyorsanız, CSP programına henüz kaydolmayan anlamına gelir. Satıcının, [CSP programındaki dolaylı sağlayıcılarla](indirect-reseller-tasks-in-partner-center.md)açıklandığı gıbı, CSP dolaylı satıcısı olarak kayıt işlemini başlatması gerekir. Kayıt tamamlandıktan sonra MPA 'yı kabul edebilecektir.\n\n2. genel bakış ' a göz atarak,   ->    ->  **yasal**  ->  **iş ortağı** veya **satıcı** sekmesine Ayarlar Ayarlar hesaba gitmesini isteyin ve Program bilgilerine aşağı doğru kaydırın. Dolaylı satıcı durumunun yanında hangi durum görüntülenir?\n\n\nDurum başka bir şeydir ancak **etkin** Ise, yasal iş profili doğrulamasının devam ettiği veya reddedildiği anlamına gelir. Aynı sayfada, satıcının doğrulama durumunu denetlemesi ve **daha fazla bilgi edinmek için** tıklayın. Bu, satıcının doğrulamaya devam etmek için gerekli belgeleri sağlamasına olanak sağlar.\n\n:::image type=\"content\" source=\"images/active-status.png\" alt-text=\"Durum etkin.\":::\n\nSatıcınızla yasal iş profili denetimini geçirmeyle destek gerekiyorsa, bu seçenekleri belirleyerek bir bilet açmasını isteyin:\n\n- Iş Ortağı Merkezi menüsünde **destek** ' i seçin ve ardından **genel** > hesap doğrulama > ' ı seçin ve ardından yardım almak istediğiniz adımı seçin.\n"
+      Kurumsal bayim, İş Ortağı Merkezi MPA'yı kabul etme seçeneğinin olmadığını söylüyor. Bunları en iyi nasıl destekley miyim?
+    answer: "Kurumsal bayi oturum İş Ortağı Merkezi ancak MPA'yı kabul etme seçeneğini görmüyorsa:\n\n1. Sol tarafta CSP sekmesinin altında \"Genel Bakış\" sayfasını görüyorlar mı? \n\n:::image type=\"content\" source=\"images/csp.png\" alt-text=\"Bu menüde CSP'nin İş Ortağı Merkezi.\":::\n\nİş Ortağı Merkezi menüsünde CSP altında \"Genel Bakış\" seçeneğini görmüyorsa, henüz CSP programına kaydolmamış demektir. Satıcının CSP programında dolaylı sağlayıcılarla çalışma CSP Indirect Reseller olarak kaydolma işlemini [başlatması gerekir.](indirect-reseller-tasks-in-partner-center.md) Kayıt tamamlandıktan sonra MPA'yı kabul eder.\n\n2. Genel Bakış'i görüyorsa, Ayarlar Hesabı **veya Yasal** Ayarlar Veya Kurumsal Bayi sekmesine gidip Program Bilgileri'ne  ->    ->    ->   gitmelerini sorun.  Dolaylı Kurumsal Bayi Durumu'nın yanında hangi durumu görüyorlar?\n\n\nDurum Etkin dışında herhangi bir **şeyse,** Yasal İş Profili doğrulaması devam ediyor veya reddedildi demektir. Aynı sayfada kurumsal bayinin Doğrulama durumunu denetlemesi  ve düzeltmesi için Daha Fazla Bilgi'ye tıklaması gerekir. Bu, kurumsal bayinin doğrulamaya devam etmek için gerekli belgeleri sağlamalarını sağlar.\n\n:::image type=\"content\" source=\"images/active-status.png\" alt-text=\"Durum etkin.\":::\n\nKurumsal bayinizin Yasal iş profili onayını geçirme desteğine ihtiyacı varsa, şu seçenekleri seçerek bir bilet açmalarını sorun:\n\n- İş Ortağı Merkezi  menüsünde Destek'i seçin, ardından **Genel** > Hesabı doğrulama >'ı seçin ve ardından yardıma ihtiyacınız olan adımı seçin.\n"
   - question: >
-      Nasıl yaparım?, Iş Ortağı Merkezi 'nde MPA 'yı kabul etmek için doğru rolündür mi?
-    answer: "Yalnızca genel Yöneticiler MPA 'yı kabul edebilir. Iş Ortağı Merkezi 'nde rolünüzün ne olduğunu öğrenmek için:\n\n1. Iş Ortağı Merkezi 'nde CSP dolaylı satıcı hesabınızda oturum açın ve önce CSP dolaylı satıcı hesabına kaydolduğunu doğrulayın. \n\n2. **Kullanıcı yönetimi** ' ne gidin ve oturum açan hesaba \"genel yönetici\" rolü atandığını denetleyin. Değilse, MPA 'yı kabul etmek için kullanılamaz. Kullanıcı yönetimi sayfasındaki arama kutusunda Genel yönetici ' yi arayın ve MPA 'yı kabul etmek için bunlarla iletişim kurun.\n\n:::image type=\"content\" source=\"images/user-management-clean.png\" alt-text=\"Iş Ortağı Merkezi ' nde rolünüzü belirler.\":::\n"
+      Nasıl yaparım? MPA'yı kabul etmek için doğru İş Ortağı Merkezi mıyım?
+    answer: "MPA'yı yalnızca Genel Yöneticiler kabul eder. Bu rolde rollerinizi İş Ortağı Merkezi için:\n\n1. CSP Indirect Reseller İş Ortağı Merkezi oturum açın ve ilk olarak bir hesapta CSP Indirect Reseller doğrulayın. \n\n2. Kullanıcı **yönetimi'ne** gidin ve oturum açın hesabına \"Genel Yönetici\" rolünün atanp atanmadığı kontrol edin. Değilse, MPA'yı kabul etmek için kullanılamaz. Kullanıcı yönetimi sayfasındaki arama kutusunda genel yöneticiyi bulun ve MPA'yı kabul etmek için onlarla iletişime geçin.\n\n:::image type=\"content\" source=\"images/user-management-clean.png\" alt-text=\"Bu rolde rol İş Ortağı Merkezi.\":::\n"
   - question: >
-      Nasıl yaparım? şirketimin MPA 'yı kabul etmiş olup olmadığını denetleyin.
-    answer: "CSP dolaylı satıcı hesabıyla Iş Ortağı Merkezi ' nde oturum açın.\nCSP 'de bir yönetici aracısıdır veya satış aracısıdır, Microsoft Iş ortağı sözleşmesinin görünür olduğunu doğrulamak için anlaşma sayfasına gidebilirsiniz. \n\n:::image type=\"content\" source=\"images/agreement-new.png\" alt-text=\"Hesap ayarlarında anlaşmaları bulun.\":::\n\n\nGenel yöneticsahipseniz, CSP 'ye Genel Bakış sayfasına gidin. Yeşil başlık görürseniz, bu CSP bölgesindeki dolaylı sağlayıcıyla her şey Transact 'a ayarlanır. Aksi takdirde, MPA 'yı kabul etmek ve CSP hesabınızı etkinleştirmek için **kabul et ve devam et** düğmesini görürsünüz.\n\n:::image type=\"content\" source=\"images/banner-boxed.png\" alt-text=\"Yeşil başlık.\":::\n"
+      Nasıl yaparım? şirketimin MPA'yı kabul etmiş olup olduğunu kontrol etmek mi?
+    answer: "Hesap İş Ortağı Merkezi oturum CSP Indirect Reseller açın.\nCSP'de Yönetici aracısı veya Satış aracısıysanız, sözleşmenin görünür olduğunu doğrulamak için Sözleşme Microsoft İş Ortağı Sözleşmesi gidebilirsiniz. \n\n:::image type=\"content\" source=\"images/agreement-new.png\" alt-text=\"Hesap ayarları'nın anlaşmalarını bulun.\":::\n\n\nGenel yöneticiyseniz CSP Genel Bakış sayfasına gidin. Yeşil başlığı görüyorsanız, o CSP bölgesinde Dolaylı Sağlayıcı ile işlem yapmak için hazır olursanız. Yoksa, MPA'yı kabul **etmek ve** CSP hesabını etkinleştirmek için Kabul Et ve Devam Et düğmesini görüyorsunuz.\n\n:::image type=\"content\" source=\"images/banner-boxed.png\" alt-text=\"Yeşil başlık.\":::\n"
   - question: >
-      MPA 'yı kabul etmek istiyorum, ancak herhangi bir yer görmüyorum (koşulları kabul etmek için düğme).
+      MPA'yı kabul etmek istiyorum ama bunun için herhangi bir yer (koşulları kabul etmek için düğme) göremiyorum.
     answer: >
-      CSP dolaylı satıcı hesabı kimlik bilgilerinizle Iş Ortağı Merkezi ' nde oturum açın. CSP 'ye Genel Bakış sayfasına gidin.  **Kabul et ve devam et** düğmesini GÖRMÜYORSANıZ ve MPa 'nın kabul edildiğini söyleyen yeşil bir başlık yoksa, MPA 'yı kabul etmek için doğru role sahip olmadığınız anlamına gelir. MPA 'yı kabul etmek için genel yöneticinizle iletişim kurmanız gerekir.
+      Hesap İş Ortağı Merkezi kimlik bilgilerinizle CSP Indirect Reseller oturum açın. CSP Genel Bakış sayfasına gidin.  Kabul et ve devam  et düğmesini görmüyorsanız ve MPA'nın kabul olduğunu söyleyen yeşil bir başlık yoksa, MPA'yı kabul etmek için doğru role sahip olmadığınız anlamına gelir. MPA'yı kabul etmek için Genel yöneticinizle iletişim kurmanız gerekir.
 
 
       :::image type="content" source="images/agreement-two.png" alt-text="Anlaşmaları bulun.":::
 
 
       :::image type="content" source="images/user-management-filter.png" alt-text="{alternatif-metin}":::
-additionalContent: "\n## <a name=\"next-steps\"></a>Sonraki adımlar\n\n- [Bulut Çözümü Sağlayıcısı programda dolaylı sağlayıcılarla iş Bulut Çözümü Sağlayıcısı öğrenin](indirect-reseller-tasks-in-partner-center.md)"
+additionalContent: "\n## <a name=\"next-steps\"></a>Sonraki adımlar\n\n- [Bulut Çözümü Sağlayıcısı programında dolaylı sağlayıcılarla iş ortağı hakkında bilgi edinin](indirect-reseller-tasks-in-partner-center.md)"

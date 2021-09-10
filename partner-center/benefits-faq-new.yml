@@ -1,162 +1,162 @@
 ### YamlMime:FAQ
 metadata:
-  title: Microsoft İş Ortağı Ağı avantajları hakkında SSS
+  title: Microsoft İş Ortağı Ağı avantajları SSS
   ms.topic: article
   ms.date: 02/04/2021
-  description: Diğer avantajlarla ilgili ilkeler hakkında Microsoft İş Ortağı Ağı sorular.
+  description: Microsoft İş Ortağı Ağı avantajlarla ilgili ilkeler hakkında bilgi elde edin.
   ms.service: partner-dashboard
   ms.subservice: partnercenter-benefits
   author: keramp88
   ms.author: keramp
   ms.localizationpriority: medium
   ms.custom: 
-  ms.openlocfilehash: 9e045665ed49b661047ab14d442bdf6b9da34d02d911fee0152ef857b8c24b54
-  ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+  ms.openlocfilehash: d4cc278a77fda7e09a13b67fe305e87b581ec3bf
+  ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
   ms.translationtype: MT
   ms.contentlocale: tr-TR
-  ms.lasthandoff: 08/06/2021
-  ms.locfileid: "115682462"
-title: Microsoft İş Ortağı Ağı avantajları hakkında SSS
+  ms.lasthandoff: 09/09/2021
+  ms.locfileid: "123961184"
+title: Microsoft İş Ortağı Ağı avantajları SSS
 summary: >
-  **Uygun roller:** MPN iş ortağı yöneticisi
+  **Uygun roller**: MPN iş ortağı Yöneticisi
 
 
-  Aşağıdaki makalede, Microsoft İş Ortağı Ağı (MPN) iş ortaklarının MPN üyelik avantajları, yetkinlikleri ve ürün lisansları hakkında sahip olduğu bazı temel sorular yanıtlanmıştır.
+  Aşağıdaki makalede Microsoft İş Ortağı Ağı (MPN) iş ortaklarının bazı önemli sorulardan biri, MPN üyelik avantajları, Uzmanlıklar ve ürün lisansları hakkında bilgi verir.
 sections:
-- name: COVID-19'a yanıt verme
+- name: COVıD 'e yanıt verme-19
   questions:
   - question: >
-      Uzmanlık yıl dönümü tarihimiz geliyor ve COVID-19 ile ilgili etki nedeniyle uzmanlık gereksinimlerini karşılayamamaktadır. Ne yapabiliriz?
+      Uzmanlığımızın yıldönümü tarihi yakında geliyor ve COVıD-19 ile ilgili etkileri nedeniyle uzmanlığa yönelik gereksinimleri karşılayamadı. Ne yapmalıyım?
     answer: >
-      Uzmanlık yıl dönümü tarihiniz 1 Ocak ile 30 Haziran 2021 arasında ise, mevcut yetkinliklerinizi (Cloud Business Applications uzmanlığı hariç) 2022'de bir sonraki yıldönümü tarihinize kadar genişletiyoruz. Sınav veya performans gereksinimlerini karşılamanız gerekli değildir, ancak yine de uzmanlık ücreti ödersiniz. Daha fazla bilgi için lütfen blog [gönderimize bakın.](https://blogs.partner.microsoft.com/mpn/responding-to-covid-19-microsoft-partner-network/)
+      uzmanlık tarihiniz 1 ocak ve 30 haziran 2021 arasındaysa, mevcut uzmanlığa veya uzmanlarınızı (bulut Business Applications uzmanlıklar hariç), 2022 ' de bir sonraki yıl dönümü tarihine kadar uzatıyoruz. Sınavların veya performans gereksinimlerinin karşılamanız gerekmez, ancak yine de uzmanlığa ücret ödeyecektir. Daha fazla bilgi için lütfen [blog gönderimize](https://blogs.partner.microsoft.com/mpn/responding-to-covid-19-microsoft-partner-network/)bakın.
 - name: Üyelik
   questions:
   - question: >
-      Yetkinlikleri yenileme işlemi ve zamanlaması nedir?
+      Uzmanlıklar yenilenme işlemi ve zamanlaması nedir?
     answer: >
-      Şirketiniz, şirket içinde yetkinliği İş Ortağı Merkezi.Uzmanlık performansı gereksinimlerini karşılamanız, her yıl gerekli sınavları ve becerileri doğrulamanız ve uzmanlık durumunu ve ilişkili avantajlara erişimi korumak için yenileme penceresinde yıllık ücreti ödemeniz gerekir.
+      Şirketiniz, Iş Ortağı Merkezi 'nde bir uzmanlığa göre yenilenebilir.Uzmanlığa yönelik performans gereksinimlerini karşılamanız, her yıl gereken sınavları ve becerileri doğrulamanız ve uzmanlık durumunu ve ilgili avantajlara erişim sağlamak için yenileme penceresindeki yıllık ücreti ödemeniz gerekir.
 
 
-      Yetkinliğinizi yenilemeden önce, şirketinizin Genel yöneticisinin veya Hesap yöneticisinin iş bilgilerini gözden geçirmesi ve güncelleştirmesi gerekir. Şirket profiline, durumu görmek İş Ortağı Merkezi ve güncelleştirilmiş olması gereken bilgileri gözden geçirmek için şirket profiline erişebilir.Bilginizi doğrulamak için ek belgeler gerekebilir.  
+      Uzmanlarınızı yenilemeden önce, şirketinizin genel yönetici veya hesap yöneticisinin iş bilgilerini gözden geçirmesi ve güncelleştirmesi gerekir. Durumu görmek için Iş Ortağı Merkezi 'nde şirket profiline erişebilirler ve hangi bilgilerin güncelleştirilmesi gerektiğini gözden geçirebilir.Bilgilerinizin doğrulanması için ek belgeler gerekebilir.  
 
 
-      Yenileme pencereniz, satın alma tarihinizin yıl dönümünde artı bir gün başlar. Örneğin, Microsoft Eylem Paketi'i 1 Eylül 2020'de satın yaptıysanız, 30 günlük yenileme döneminiz 2 Eylül 2021'de başlar. Şirketinizin Genel yöneticisi ve MPN yönetici rolleri, yıldönümü tarihinize ve 30 gün sonraya kadar olan yenileme iletişimini alır. Yenileme penceresi sırasında ilişkili avantajlara erişmeye devam edersiniz.
+      Yenileme pencereniz, satın alma tarihinin ve bir günün yıldönümü üzerinden başlar. Örneğin, Microsoft Eylem Paketi 1 Eylül 2020 ' de satın aldıysanız 30 günlük yenileme süreniz 2 Eylül 2021 tarihinde başlar. Şirketinizdeki genel yönetici ve MPN yönetici rolleri, yenileme iletişimini önde gelen Tarih ve 30 gün sonrasına alır. Yenileme penceresi sırasında ilgili avantajlara erişim sahibi olmaya devam edersiniz.
 
 
-      Daha fazla bilgi için lütfen [MPN Teklifini Yenile'ye bakın.](renew-mpn-offers.md)
+      Daha fazla bilgi için lütfen [MPN teklifini Yenile](renew-mpn-offers.md)'yi ziyaret edin.
   - question: >
-      Microsoft hesabımı ne zaman yeni Eylem Paketi?
+      Microsoft Eylem Paketi ne zaman yenileyebiliriz?
     answer: >
-      Şirket, yenileme pencereniz sırasında Eylem Paketi microsoft İş Ortağı Merkezi'nizi yeniler.
+      Şirketiniz, yenileme pencereniz sırasında Iş ortağı merkezindeki Microsoft Eylem Paketi 'yi yenileyebilir.
 
 
-      Şirket yöneticinizi yenilemeden Eylem Paketi, şirketinizin Genel yöneticisinin veya Hesap yöneticisinin şirket iş bilgilerini gözden geçirmesi ve güncelleştirmesi gerekir. Durumunu görmek ve hangi bilgilerin güncelleştirilmiş olması gerektiğini anlamak İş Ortağı Merkezi şirket profiline erişebilir.Bilginizi doğrulamak için ek belgeler gerekebilir.  
+      Eylem Paketi yenilemeden önce, şirketinizin genel yönetici veya hesap yöneticisinin şirketinizin iş bilgilerini gözden geçirmesi ve güncelleştirmesi gerekir. Durumunuzu görmek ve hangi bilgilerin güncelleştirilmesi gerektiğini anlamak için Iş Ortağı Merkezi ' nde şirketinizin profiline erişebilirler.Bilgilerinizin doğrulanması için ek belgeler gerekebilir.  
 
 
-      Yenileme pencereniz, satın alma tarihinizin yıl dönümünde artı bir gün başlar. Örneğin, Microsoft Eylem Paketi'i 1 Eylül 2020'de satın aldığınız 30 günlük yenileme döneminiz 2 Eylül 2021'de başlar. Yenileme penceresi sırasında ilişkili avantajlara erişmeye devam edersiniz.
+      Yenileme pencereniz, satın alma tarihinin ve bir günün yıldönümü üzerinden başlar. Örneğin, Microsoft Eylem Paketi 1 Eylül 2020 ' de satın aldıysanız, 30 günlük yenileme süreniz 2 Eylül 2021 tarihinde başlar. yenileme penceresi sırasında ilgili avantajlara erişime sahip olmaya devam edersiniz.
 
 
-      Daha fazla bilgi için lütfen [MPN Teklifini Yenile'ye bakın](renew-mpn-offers.md)
+      Daha fazla bilgi için lütfen [MPN teklifini Yenile](renew-mpn-offers.md) 'yi ziyaret edin
   - question: >
-      Microsoft Eylem Paketi ile Learning Eylem Paketi?
+      Microsoft Eylem Paketi ve Learning Eylem Paketi arasındaki fark nedir?
     answer: >
-      Microsoft Eylem Paketi, iş ortaklarının Microsoft teknolojilerini tanımanıza ve çözüm/hizmetinizi oluşturmanıza yardımcı olacak bir kaynak portföyüdür. Yetkinliğe sahip olup Eylem Paketi bir Microsoft hesabı satın alın.
+      Microsoft Eylem Paketi, Microsoft teknolojileriyle tanışmanız ve çözümünüzü/hizmetinizi oluşturmanız gibi iş ortaklarına yardımcı olacak bir kaynak portföydür. Bir uzmanlığa sahip olup olmadığına bakılmaksızın bir Microsoft Eylem Paketi satın alabilirsiniz.
 
 
-      Bu Learning Eylem Paketi, İş Ortağı Programı'Learning düzeyidir. Bu Learning, teknoloji eğitimi sunan ve/veya öğrenme uygulaması olan işletmeler için kaynaklar sağlar. Bu [Learning Eylem Paketi,](https://partner.microsoft.com/asset/collection/learning-option-enrollment#/) iş ortaklarının çeşitli Microsoft ürün hatlarında uzman olmalarına yardımcı olmak için Courseware, Market ve avantajlara indirimler sunar. Lütfen Microsoft [Eylem Paketi](https://assetsprod.microsoft.com/microsoft-action-pack-license-table.pdf) için lisans tablosuna ve Learning Eylem Paketi.
+      Learning Eylem Paketi, Learning iş ortağı programı için giriş düzeyidir. Learning program, teknoloji eğitimi sunan ve/veya bir öğrenme uygulaması olan işletmeler için kaynak sağlar. [Learning Eylem Paketi](https://partner.microsoft.com/asset/collection/learning-option-enrollment#/) , iş ortaklarının çeşitli Microsoft ürün hatları genelinde uzmanlar olmasına yardımcı olmak için kurs, market ve avantajlara yönelik indirimler sunmaktadır. lütfen Microsoft Eylem Paketi için [lisanslama tablosuna](https://assetsprod.microsoft.com/microsoft-action-pack-license-table.pdf) ve Learning Eylem Paketi bakın.
   - question: >
-      30 günlük yenileme süresi Eylem Paketi yetkinliğimize veya avantajlarımıza ne olur?
+      30 günlük yenileme döneminde uzmanlığa veya Eylem Paketi avantajlarımıza ne olur?
     answer: >
-      MPN Sözleşmesi'ne göre üyeliğiniz etkin olduğu sürece program avantajlarına erişmeye devam edersiniz. Üyeliğin süresi dolsa avantajlara erişim kaybedilir.
+      MPN sözleşmesi uyarınca, üyeliğiniz etkin olduğu sürece program avantajlarına erişmeye devam edersiniz. Üyeliğin süresi dolduktan sonra avantajlara erişim kaybedilir.
 
 
-      Daha fazla bilgi için lütfen [MPN Teklifini Yenile'ye bakın](renew-mpn-offers.md)
+      Daha fazla bilgi için lütfen [MPN teklifini Yenile](renew-mpn-offers.md) 'yi ziyaret edin
 - name: Ürün lisansları
   questions:
   - question: >
-      Ürün lisansları ile ilgili Microsoft İş Ortağı Ağı için geçerli teklifler nedir?
+      Ürün lisanlarındaki Microsoft İş Ortağı Ağı iş ortakları için geçerli teklifler nelerdir?
     answer: >
-      Ürün lisansları (iç kullanım lisansları veya iç kullanım hakları olarak da adlandırılır) bir uzmanlık elde etmek veya microsoft lisansı satın almak için iş ortaklarının avantajlarına Eylem Paketi. Ürün lisanslarının geçerli tekliflerinin bir listesini Microsoft İş Ortağı Ağı [Kılavuzu'dan alın.](https://aka.ms/partner-benefits-use-guide)
+      Ürün lisansları (iç kullanım lisansları veya iç kullanım hakları olarak da bilinir), uzmanlığa sahip olan iş ortakları veya Microsoft Eylem Paketi satın alma avantajlarına dahildir. [Microsoft iş ortağı ağı programları kılavuzlarından](https://aka.ms/partner-benefits-use-guide)geçerli ürün lisansı tekliflerinin bir listesini alın.
   - question: >
-      Birden çok aboneliğin kilidini açmak için tek bir belirteç kullanılabilir mi?
+      Birden çok aboneliğin kilidini açmaya yönelik tek bir belirteç kullanılabilir mi?
     answer: >
-      Hayır, birden çok aboneliğin kilidini açmak için belirteçleri bölemeyeceksiniz. Belirteçler, sağlanan biçimde kullanılmalıdır. Örneğin, 25 kişilik belirteç 5 farklı 5 kişilik belirteçlere bölünemeyecektir.
+      Hayır, birden çok aboneliğin kilidini açmak için belirteçleri bölemezsiniz. Belirteçlerin, belirtilen biçimde kullanılması gerekir. Örneğin, 25 koltuk belirteç 5 farklı 5-koltuk belirtecine bölünemiyor.
 
 
-      Daha fazla bilgi için lütfen Microsoft İş Ortağı Programları  [Kılavuzu'aka.ms/partner-benefits-use-guide](https://aka.ms/partner-benefits-use-guide)
+      Daha fazla bilgi için lütfen Microsoft Iş ortağı programları Kılavuzu [aka.MS/partner-Benefits-Use-Guide](https://aka.ms/partner-benefits-use-guide) inceleyin.
   - question: >
-      Bulut hizmetleri için belirteci yanlış bir kiracıda etkinleştirdikten veya genişletilen yer yerine yer eklediy miyiz?
+      Bulut hizmetleri için belirtecimizi yanlış bir kiracıda etkinleştirdik veya genişletme yerine bir bilgisayar adına sunduğumuz, değiştirme belirtecini alabilir mi?
     answer: >
-      Yanlış kiracıda bulut hizmeti etkinleştirmeleri için ve mevcut aboneliklere yanlışlıkla eklenen lisanslar için değiştirme belirteçleri, özgün belirteci etkinleştirdikten sonra 30 gün içinde yalnızca bir kez verilenler olabilir.
+      Bulut hizmeti etkinleştirmeleri için yanlış kiracıya yönelik değiştirme belirteçleri ve mevcut aboneliklerde yanlışlıkla eklenen bilgisayar bilgisayarları, özgün belirtecin etkinleştirilmesinden sonraki 30 gün içinde yalnızca bir kerelik olarak verilebilir.
 
 
-      Daha fazla bilgi için lütfen Microsoft İş Ortağı Programları [Kılavuzu'aka.ms/partner-benefits-use-guide](https://aka.ms/partner-benefits-use-guide)
+      Daha fazla bilgi için lütfen Microsoft Iş ortağı programları Kılavuzu [aka.MS/partner-Benefits-Use-Guide](https://aka.ms/partner-benefits-use-guide) inceleyin.
   - question: >
-      Şirket içi yazılım ürün lisansları için yükleme için bir ürün anahtarına sahip olmak gerekiyor mu?
+      Şirket içi yazılım ürün lisansları için, yükleme için bir ürün anahtarı olması gerekiyor mu?
     answer: >
-      Her ürün için ürün anahtarı gerekmez. Ürün etkinleştirme, Windows ve istemci işletim sistemleri ve tüm istemci Microsoft Office için gereklidir.
+      Her ürün için ürün anahtarı gerekmez. Windows sunucu ve istemci işletim sistemleri ve tüm Microsoft Office istemci uygulamaları için ürün etkinleştirme gereklidir.
 
 
-      Daha fazla bilgi için lütfen Microsoft İş Ortağı Programları  [Kılavuzu'aka.ms/partner-benefits-use-guide](https://aka.ms/partner-benefits-use-guide)
+      Daha fazla bilgi için lütfen Microsoft Iş ortağı programları Kılavuzu [aka.MS/partner-Benefits-Use-Guide](https://aka.ms/partner-benefits-use-guide) inceleyin.
   - question: >
-      Tüm yüklemeleri ve etkinleştirmeleri kullandıysanız daha fazla ürün anahtarı elde eder miyiz?
+      Tüm yüklemeleri ve etkinleştirmeleri tüketireceğiz daha fazla ürün anahtarı elde edebilir miyim?
     answer: >
-      Verilen bazı ürün anahtarları Birden Çok Etkinleştirme Anahtarıdır (MAK). Bu ürünlerin sınırlı sayıda yüklemesi, etkinleştirmesi veya lisansları vardır. Tüm yüklemeler ve etkinleştirmeler tüketildiğinde ürün anahtarı çalışmayı durdurur. Bu ürün anahtarları için ek etkinleştirmeler verilmez.
+      Verilen bazı ürün anahtarları birden çok etkinleştirme anahtarlarıdır (MAK). Bu ürünlerin sınırlı sayıda yüklemesi, etkinleştirmeleri veya lisansı vardır. Tüm yüklemeler ve etkinleştirmeler tüketilmişse, ürün anahtarı çalışmayı durdurur. Bu ürün anahtarlarına yönelik ek etkinleştirmeler verilmeyecektir.
 
 
-      Daha fazla bilgi için lütfen Microsoft İş Ortağı Programları  [Kılavuzu'aka.ms/partner-benefits-use-guide](https://aka.ms/partner-benefits-use-guide)
+      Daha fazla bilgi için lütfen Microsoft Iş ortağı programları Kılavuzu [aka.MS/partner-Benefits-Use-Guide](https://aka.ms/partner-benefits-use-guide) ziyaret edin
   - question: >
-      Yetkinliğimizi yenilemeye karar vermemiz veya Microsoft Eylem Paketi, hala şirket içi yazılım ürünü lisanslarını kullanabilir miyiz?
+      Uzmanlığımızı veya Microsoft Eylem Paketi yenilememeye karar verdiğimiz durumlarda şirket içi yazılım Ürün lisanslarını kullanmaya devam edebilir miyim?
     answer: >
-      Hayır. Yetkinlik elde etme kapsamındaki şirket içi yazılım ürün lisansları ve Microsoft Eylem Paketi kalıcı değildir. Bu lisansları yalnızca üyeliğiniz sırasında kullanma yetkisine sahipsiniz ve bu lisanslara sahipsiniz. Yetkinliğinizi yenilemeyi veya yetkinliğinizi yenilemeyi tercih ediyorsanız, Ticari Lisanslama yoluyla lisans hakları elde Microsoft İş Ortağı Ağı şirket içi yazılımları kaldırmanız Eylem Paketi.
+      Hayır. Uzmanlığa ve Microsoft Eylem Paketi dahil olan şirket içi yazılım ürün lisansları kalıcı değildir. İşbu lisansa sahipsiniz ve bu lisansları yalnızca üyeliğiniz sırasında kullanma hakkına sahipsiniz. Uzmanlarınızı veya Eylem Paketi yenilemezseniz, ticari lisans aracılığıyla lisans hakları edinmeniz veya Microsoft İş Ortağı Ağı aracılığıyla elde edilen tüm şirket içi yazılımları kaldırmanız gerekecektir.
 
 
-      Daha fazla bilgi için lütfen Microsoft İş Ortağı Programları [Kılavuzu'aka.ms/partner-benefits-use-guide](https://aka.ms/partner-benefits-use-guide)
+      Daha fazla bilgi için lütfen Microsoft Iş ortağı programları Kılavuzu [aka.MS/partner-Benefits-Use-Guide](https://aka.ms/partner-benefits-use-guide) ziyaret edin
   - question: >
-      Microsoft Eylem Paketi aboneliği Visual Studio Enterprise mı?
+      Microsoft Eylem Paketi abonelik Visual Studio Enterprise içeriyor mu?
     answer: >
-      Hayır, Microsoft Eylem Paketi yalnızca Visual Studio Professional abonelikleri içerir.
+      hayır, Microsoft Eylem Paketi yalnızca Visual Studio Professional abonelikleri içerir.
 
 
-      Daha fazla bilgi için lütfen Microsoft İş Ortağı Programları [Kılavuzu'aka.ms/partner-benefits-use-guide](https://aka.ms/partner-benefits-use-guide)
+      Daha fazla bilgi için lütfen Microsoft Iş ortağı programları Kılavuzu [aka.MS/partner-Benefits-Use-Guide](https://aka.ms/partner-benefits-use-guide) ziyaret edin
   - question: >
-      Uzmanlık elde etme veya Microsoft Visual Studio dahil olan abonelikleri paylaşabilir Eylem Paketi?
+      uzmanlığa veya Microsoft Eylem Paketi dahil olan Visual Studio aboneliklerini paylaşabilir mi?
     answer: >
-      Hayır, Visual Studio abonelikler kullanıcı başına lisanslandı ve geçerli olması için atanacak ve etkinleştirilmelidir. Oturum açma kimlik bilgilerinin paylaşımı yasaktır.
+      hayır, Visual Studio aboneliklerin kullanıcı başına lisanslanabileceği ve geçerli olması ve etkinleştirilmesi gerekir. Paylaşım oturum açma kimlik bilgileri yasaktır.
 
 
-      Daha fazla bilgi için lütfen Microsoft İş Ortağı Programları [Kılavuzu'aka.ms/partner-benefits-use-guide](https://aka.ms/partner-benefits-use-guide)
+      Daha fazla bilgi için lütfen Microsoft Iş ortağı programları Kılavuzu [aka.MS/partner-Benefits-Use-Guide](https://aka.ms/partner-benefits-use-guide) ziyaret edin
   - question: >
-      Şirketimizin kaç ürün lisansı olduğunu nasıl biliyoruz?
+      Şirketimizin kaç tane ürün lisansı olduğunu nasıl anlarım?
     answer: >
-      Ürün lisanslarını ve yetkinlik kazanmanıza veya bu lisanslara dahil olan diğer avantajları Eylem Paketi ve İş Ortağı Merkezi. İş ortağı ağı [avantajlarınızı yönetme hakkında daha fazla bilgi.](manage-your-partner-network-benefits.md)
+      Ürün lisanslarını ve diğer avantajları, uzmanlığa veya Iş Ortağı Merkezi 'nde Eylem Paketi dahil olmak üzere görüntüleyebilir ve yönetebilirsiniz. [İş ortağı ağınızın avantajlarınızı yönetin](manage-your-partner-network-benefits.md)bölümünde daha fazla bilgi edinin.
   - question: >
-      Şirketimiz yetkinlik veya lisans elde etme yoluyla bize kullanılabilir ürün lisanslarını nasıl Eylem Paketi?
+      Şirketimizin, uzmanlığa veya Eylem Paketi göre bize sunulan ürün lisanslarını nasıl kullanabilir?
     answer: >
-      Yenilikçi çözümler oluşturmalarına ve Microsoft ürün ve teknolojileri hakkında bilgi sahibi olmalarına yardımcı olmak için Microsoft İş Ortağı Ağı fazla yetkinliğe sahip olan veya bir Microsoft Eylem Paketi satın alan iş ortaklarına ürün lisansları sunuyoruz. Uzmanlık elde etme ve lisanslarına dahil olan ürün lisansları Eylem Paketi kullanım koşulları, Microsoft İş Ortağı Ağı [Programlar Kılavuzu'Microsoft İş Ortağı Ağı açıklanmıştır.](https://aka.ms/partner-benefits-use-guide)
+      İş ortakları için bir veya daha fazla Uzmanlıklar içeren Microsoft İş Ortağı Ağı veya Microsoft Eylem Paketi satın alıp Microsoft ürünlerini ve teknolojileri hakkında bilgi sahibi olmaya yönelik ürün lisansları ekledik. Uzmanlığa ve Eylem Paketi dahil olan ürün lisansları için kullanım koşulları [Microsoft iş ortağı ağı programlar kılavuzunda](https://aka.ms/partner-benefits-use-guide)açıklanmaktadır.
   - question: >
-      Şirketimizin yetkinlik veya lisans elde etme yoluyla bize kullanılabilir ürün lisanslarını nasıl kullanabileceğine ilişkin sınırlamalar Eylem Paketi?
+      Şirketitim veya Eylem Paketi konusunda bize ait Ürün lisanslarını nasıl kullanabileceği hakkında sınırlamalar var mı?
     answer: >
-      Evet, bazı sınırlamalar vardır. Ürün lisans kullanım koşulları, Microsoft lisans programları aracılığıyla alınan ticari lisanslardan farklıdır. Daha fazla bilgi için [ürün lisanslama kullanım koşulları makalelerini okuyun.](https://www.microsoft.com/licensing) Ürün lisansları yazılım güvencesine sahip değildir ve ürün lisanslarında bazı kısıtlamalar vardır. Ürün lisansları için kullanım koşullarını Program Kılavuzu'Microsoft İş Ortağı Ağı [gözden geçirsiniz.](https://aka.ms/partner-benefits-use-guide)
+      Evet, sınırlamalar var. Ürün Lisansı kullanım koşulları, Microsoft lisanslama programları aracılığıyla elde edilen ticari lisanslardan farklıdır. Daha fazla bilgi için [ürün lisanslama kullanım koşulları](https://www.microsoft.com/licensing)makalesini okuyun. Ürün lisansları yazılım güvencesi içermez ve ürün lisanslarında bazı kısıtlamalar vardır. [Microsoft iş ortağı ağı programları kılavuzundaki](https://aka.ms/partner-benefits-use-guide)ürün lisansları için kullanım koşullarını inceleyebilirsiniz.
   - question: >
-      Şirketimizin kapsamına alınsın diye, şirket içinde listelenenlere İş Ortağı Merkezi ürün lisanslarını nasıl ekleyebiliriz?
+      Şirketimizin kapsanmasını sağlamak için Iş Ortağı Merkezi 'nde listelenenlere nasıl daha fazla ürün lisansı ekleyebilirim?
     answer: >
-      Yetkinlik elde etme kapsamındaki ürün lisansları ve Eylem Paketi, Microsoft lisans programları aracılığıyla edinilen ticari lisanslardan farklı kullanım koşullarına sahip olur. Microsoft Lisanslama'da, şirketinizin lisanslama ihtiyaçlarını karşılamak için seçeneklerinizi [gözden geçirmenizi öneririz.](https://www.microsoft.com/licensing)
+      Eylem Paketi uzmanlığın yanı sıra ürün lisansları, Microsoft lisanslama programları aracılığıyla elde edilen ticari lisanslardan farklı kullanım koşullarına sahiptir. Şirketinizin lisanslama ihtiyaçlarını [Microsoft lisanslama](https://www.microsoft.com/licensing)'de toplantıya yönelik seçeneklerinizi gözden geçirmeyi öneririz.
   - question: >
-      Kısa süre önce yetkinliğe sahip bir şirketle Microsoft İş Ortağı Ağı başka bir şirketle birleştirildi/edinildi. Veri kaynağında hesap birleştirme özelliğini kullanırken tüm geçerli ürün lisanslarımızı İş Ortağı Merkezi?
+      Kısa süre önce bir uzmanlığa sahip Microsoft İş Ortağı Ağı başka bir şirket ile birleştirildik. Iş Ortağı Merkezi 'nde hesap birleştirme özelliğini kullanırken tüm geçerli ürün lisanslarımızı tutuyoruz.
     answer: >
-      Uzmanlık elde etme ve Eylem Paketi satın alma işlemleri, İş İş Ortağı Merkezi genel hesabı üzerinden başarıyla tamamlanır. Hesap birleştirme özelliğini bir sonraki yenilemeye İş Ortağı Merkezi her hesabın mevcut avantajları olduğu gibi kalır. Yenilemeden sonra, uzmanlık elde etme ve Eylem Paketi iş ortağı şirketinin İş ortağı genel hesabı için uygulanır.
+      Uzmanlık ve Eylem Paketi satın alma, iş ortağı genel hesabı aracılığıyla Iş Ortağı Merkezi 'nde tamamlanır. Iş Ortağı Merkezi 'nde hesap birleştirme özelliğini kullandığınızda, her hesabın mevcut avantajları bir sonraki yenilemeye kadar olduğu gibi kalır. Yenilemeden sonra, uzmanlığa ve Eylem Paketi dahil edilen avantajlar iş ortağı şirketin Iş ortağı küresel hesabına uygulanır.
 
 
-      -   Microsoft Eylem Paketi: İş ortağı şirket, İş ortağı Eylem Paketi hesabı başına bir tane satın alınabilir.
+      -   Microsoft Eylem Paketi: iş ortağı şirketi, Iş ortağı küresel hesabına göre bir Eylem Paketi satın alabilir.
 
 
-      -   Uzmanlık: İş ortağı şirket, en yüksek başarılarıyla ilişkili bir çekirdek avantaj paketine ek olarak iş ortağının İş ortağı genel hesabında uygun olduğu yetkinlike özgü avantajlara sahip olur.
+      -   Uzmanlığa: iş ortağı şirketi, en yüksek düzey avantajları ile ilişkili temel avantajların bir paketini alacak ve iş ortağının Iş ortağı küresel hesabına uygun olduğu avantajlara özgü avantajlardan yararlanacaktır.
 
 
-      Özelliğin nasıl çalıştığını [ve şirket](merge-accounts.md) ihtiyaçlarına uygun olup olduğuna nasıl karar verilecek hakkında daha fazla bilgi edinmek için hesap birleştirme bilgilerini gözden geçirebilirsiniz.
+      Özelliğin nasıl çalıştığı ve şirketinizin ihtiyaçlarına uygun olup olmadığına karar verme hakkında daha fazla bilgi edinmek için [Hesap birleştirme](merge-accounts.md) hakkındaki bilgileri gözden geçirin.
   - question: >
-      Şirket içinde ürün lisansları hakkında sorular İş Ortağı Merkezi. Bu konuda nereden yardım alalarız?
+      Şirket içinde ürün lisansları hakkında sorularımız İş Ortağı Merkezi. Bu konuda nereden yardım alalarız?
     answer: >
-      Yardım alamayacak kaynakların [bağlantıları İş Ortağı Merkezi](https://partner.microsoft.com/support) veya gerekirse iş ortağı destek ekibimize bir bilet açmak için bu bağlantının Destek bölümüne gidebilirsiniz.
+      Yardım alamayacak [kaynaklara](https://partner.microsoft.com/support) yönelik bağlantılar İş Ortağı Merkezi veya gerekirse iş ortağı destek ekibimize bir bilet açmak için destek bölümünün Destek bölümüne gidebilirsiniz.
 additionalContent: "\n## <a name=\"next-steps\"></a>Sonraki adımlar\n   - [Microsoft İş Ortağı Ağı avantajlarınızı keşfedin](mpn-find-benefits.md)\n   - [MPN teklifini yenileme](renew-mpn-offers.md)"

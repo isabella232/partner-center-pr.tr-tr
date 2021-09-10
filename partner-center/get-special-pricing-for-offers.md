@@ -10,17 +10,17 @@ ms.author: alikhaki
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: d5d6004299ebd8e5d94a51837e486b66a88b4aa1
-ms.sourcegitcommit: fe0920740ef9f461b38cc20bac41192552466405
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/27/2021
-ms.locfileid: "123088546"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123960635"
 ---
 # <a name="sell-to-specialized-industries-like-education-non-profit-and-government-users"></a>Eğitim, kar amacı gütmeyen kuruluş ve kamu kullanıcıları gibi özelleştirilmiş sektörlere satış yapma
 
 **Uygun roller:** Genel yönetici | Yönetici aracısı | Satış aracısı
 
-Microsoft eğitim müşterileri, kar amacı gütmeyen müşteriler, küçük işletmeler ve kamu varlıkları gibi belirli müşteri grupları için özel ve azaltılmış fiyatlandırma sağlar. Özel fiyatlandırma sunmadan önce hem sizin hem de müşterinizin nitelikli olması gerekir. Bu özel fiyat teklifleri şu **anda** Microsoft 365, Dynamics, Intune vb. gibi lisans tabanlı hizmetler ve kalıcı yazılımlar için kullanılabilir. Yazılım abonelikleri veya Azure hizmetleri için kullanılamaz.
+Microsoft eğitim müşterileri, kar amacı gütmeyen müşteriler, küçük işletmeler ve kamu varlıkları gibi belirli müşteri grupları için özel ve azaltılmış fiyatlandırma sağlar. Özel fiyatlandırma sunmadan önce hem sizin hem de müşterinizin nitelikli olması gerekir. Bu özel fiyat teklifleri **şu** anda Microsoft 365, Dynamics, Intune vb. gibi lisans tabanlı hizmetler ve kalıcı yazılımlar için kullanılabilir. Yazılım abonelikleri veya Azure hizmetleri için kullanılamaz.
 
 ## <a name="requirements-to-sell-to-specialized-industries"></a>Özelleştirilmiş sektörlere satış gereksinimleri
 
@@ -28,7 +28,7 @@ Microsoft eğitim müşterileri, kar amacı gütmeyen müşteriler, küçük iş
 |----------------------------|:---------------------------------|:------------------------------------------|
 |Eğitim   |Hiçbiri   | Nitelikli Eğitim [Kullanıcısı Olması Gerekir](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7)   |
 | ABD Federal Kamu - [Office Government Community Cloud (GCC) Yüksek ve DoD ortamları](/office365/servicedescriptions/office-365-platform-service-description/office-365-us-government/gcc-high-and-dod)    |Bir Azure Kamu için Microsoft US Government Bulut Doğrulama [formunu kullanarak kaydolabilirsiniz.](https://azuregov.microsoft.com/csp) Lisans tabanlı aboneliklerin satışı yalnızca davet üzerine kullanılabilir.|   Nitelikli BIR ABD [Federal Kamu varlığı olması gerekir](https://azure.microsoft.com/global-infrastructure/government/how-to-buy/) |
-| ABD Federal Kamu - GCC Orta ortam | Doğrudan CSP İş Ortağı Kuruluşu hakkında bilgi bize' formunu doldurarak ABD kamu müşterileriyle çalışma [uygunlarına sahip olması gerekir.](https://www.microsoft.com/microsoft-365/government/eligibility-validation?ReqType=CSPPartner&rtc=1) Adım adım yönergeler için [CSP abonelikleri için Office 365 Kamu GCC müşterilere](/partner-center/csp-gcc-overview) satış ve satış yönergelerini ziyaret edin | Bir Nitelikli ABD [Kamu varlığı olması gerekir.](https://www.microsoft.com/microsoft-365/government/eligibility-validation?rtc=1) Adım adım yönergeler için [CSP abonelikleri için Office 365 Kamu GCC müşterilere](/partner-center/csp-gcc-overview) satış ve satış yönergelerini ziyaret edin  |
+| ABD Federal Kamu - GCC Orta ortam | Doğrudan CSP İş Ortağı Kuruluşu hakkında bilgi bize' formunu doldurarak ABD kamu müşterileri ile çalışma [uygunlarına sahip olması gerekir.](https://www.microsoft.com/microsoft-365/government/eligibility-validation?ReqType=CSPPartner&rtc=1) Adım adım yönergeler için [CSP abonelikleri için Office 365 Kamu GCC müşterilere](/partner-center/csp-gcc-overview) satış ve satış yönergelerini ziyaret edin | Bir Nitelikli ABD [Kamu varlığı olması gerekir.](https://www.microsoft.com/microsoft-365/government/eligibility-validation?rtc=1) Adım adım yönergeler için [CSP abonelikleri için Office 365 Kamu GCC müşterilere](/partner-center/csp-gcc-overview) satış ve satış yönergelerini ziyaret edin  |
 | Diğer tüm kamu varlıkları | Yok. İş ortaklarının "kurumsal" teklifleri kullanarak sağlamaları gerekir. | Hiçbiri
 Kar Amacı Gütmeyen  |Hiçbiri|Uygun olması için [Microsoft kar amacı gütmeyen program](https://nonprofit.microsoft.com/#/register) aracılığıyla kaydolabilirsiniz.   |
 
@@ -36,7 +36,7 @@ Kar Amacı Gütmeyen  |Hiçbiri|Uygun olması için [Microsoft kar amacı gütme
 
 Aşağıdaki adımlar yalnızca dolaylı sağlayıcılar ve doğrudan fatura iş ortakları için geçerlidir. Dolaylı kurumsal bayilerin, nitelikli kullanıcılara özel fiyatlandırma teklifleri sunmak için dolaylı bir sağlayıcıyla bağlantı kurarak bu tekliflere sahip olması gerekir.
 
-1. Hesap İş Ortağı Merkezi [penceresinde,](https://partner.microsoft.com/dashboard)pencerenin sağ üst köşesindeki dişli simgesini seçerek Hesap **ayarları'ı açın.**
+1. Pano [İş Ortağı Merkezi,](https://partner.microsoft.com/dashboard)hesap ayarlarını açmak için pencerenin sağ üst köşesindeki dişli **simgesini seçin.**
 
 2. Yasal **profilinizde,** Program bilgileri **bölümünde** Kurumsal Bayi **niteliklerini bulun.**
 
@@ -59,8 +59,8 @@ Siz ve müşteriniz özel bir teklif programı için uygun olduktan sonra, abone
 İş ortakları müşterilere yalnızca belirli ölçütlere uyan özel teklifleri satabilir.
 
 - Eğitim teklifleri yalnızca Müşteri bir Eğitim kurumu olarak yetkilendirilmişse satın alınabilir. Eğitim müşterisi yalnızca Eğitim ve Ticari teklifleri alsa da Kar amacı gütmeyen veya Kamu topluluk bulutu (GCC).
-- İş ortakları yalnızca GCC müşteriler için GCC satın alınabilir. Müşterinin bir abonelik GCC iş ortakları ticari, eğitim veya kar amacı gütmeyen abonelik satın alamayacak.
-- İş ortakları yalnızca kar amacı gütmeyen müşteriler için ticari veya kar amacı gütmeyen abonelikler satın alınabilir. İş ortakları kar amacı GCC veya eğitim abonelikleri satın aamaz.
+- İş ortakları yalnızca GCC müşteriler için GCC satın alabilirsiniz. Müşterinin bir abonelik GCC iş ortakları ticari, eğitim veya kar amacı gütmeyen abonelik satın alamayacak.
+- İş ortakları yalnızca kar amacı gütmeyen müşteriler için ticari veya kar amacı gütmeyen abonelikler satın alınabilir. İş ortakları kar amacı GCC müşteriler için eğitim abonelikleri satın aamaz.
 - Eyalete Ait Varlıklar Uygunluk [ölçütlerini karşılamalı.](https://www.microsoft.com/legal/compliance/anticorruption/criteria)
 
 Müşterilere özel teklifler satışı için satın alma kuralları:

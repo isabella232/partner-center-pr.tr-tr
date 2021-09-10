@@ -9,12 +9,12 @@ author: brentserbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 031c3be7dbfd6b64b05ef10e1f56813a59c5559b72e7005812cabe74e2a9f3f0
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: afad7126b8b97035f014c3cc706a0c3a0febbc76
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115690299"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123961294"
 ---
 # <a name="sell-office-365-government-gcc-for-csp-subscriptions-to-qualified-customers"></a>uygun müşterilere CSP abonelikleri için Office 365 Kamu GCC satma
 

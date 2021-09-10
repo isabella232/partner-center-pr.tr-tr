@@ -9,12 +9,12 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: ec4c5eb54d47e8cbaf4e6d11eb16a24859e44c4653ef243bcedc8dbc648bba3e
-ms.sourcegitcommit: 121f1b9cbd88faeba60dc9b475f9c0647cdc933c
+ms.openlocfilehash: d451218722b599569c7757c05e93af2c052a1eb8
+ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 08/06/2021
-ms.locfileid: "115685199"
+ms.lasthandoff: 09/09/2021
+ms.locfileid: "123961185"
 ---
 # <a name="advisors-create-and-send-a-trial-invitation-for-clients-to-try-office-365"></a>Danışmanları: Office 365 denemek için istemciler için deneme davetiyesi oluşturun ve gönderin
 
