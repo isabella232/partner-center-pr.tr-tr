@@ -1,6 +1,6 @@
 ---
 title: Eylül 2021 duyuruları
-description: Yeni özellikler, promosyonlar, teklifler, pazarlar veya mevcut tekliflerdeki değişiklikler dahil olmak üzere Microsoft İş Ortağı Merkezi Eylül 2021 duyuruları.
+description: Yeni yetenekler, promosyonlar, teklifler, pazarlar veya mevcut tekliflerle ilgili değişiklikler dahil olmak üzere Microsoft Iş Ortağı Merkezi için Eylül 2021 duyuruları.
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-announcements
@@ -13,17 +13,17 @@ ms.localizationpriority: high
 ms.date: 09/06/2021
 ms.openlocfilehash: 87b7aabae1420f8fc72957c5fdab0e2563ccc91e
 ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
-ms.translationtype: MT
+ms.translationtype: HT
 ms.contentlocale: tr-TR
 ms.lasthandoff: 09/09/2021
-ms.locfileid: "124343131"
+ms.locfileid: "123960945"
 ---
 # <a name="september-2021-announcements"></a>Eylül 2021 duyuruları
 
-Bu sayfa, Eylül 2021 için Microsoft İş Ortağı Merkezi duyurularını sağlar.
+Bu sayfada, Eylül 2021 için Microsoft Iş Ortağı Merkezi duyuruları sağlanmaktadır.
 
 _____________
-## <a name="new-validation-rules-for-company-name-and-email-address-on-september-22"></a><a name="8"></a>22 Eylül'de şirket adı ve e-posta adresi için yeni doğrulama kuralları
+## <a name="new-validation-rules-for-company-name-and-email-address-on-september-22"></a><a name="8"></a>22 Eylül tarihinde Şirket adı ve e-posta adresi için yeni doğrulama kuralları
 
 ### <a name="categories"></a>Kategoriler
 
@@ -32,60 +32,60 @@ _____________
 
 ### <a name="summary"></a>Özet
 
-İş ortaklarının ve müşterilerin işletmelerini güvene göre çalıştırmalarına yardımcı olmak için müşterinin şirket adı ve e-posta adresi için doğrulama kurallarını güncelleştiriyoruz. Bu, hem yeni hem de mevcut müşteri ayrıntıları için geçerlidir. Gerekli API değişikliği yoktur.
+İş ortakları ve müşterilerin işletmelerini temel alarak işlerini çalıştırmasına yardımcı olmak için bir müşterinin Şirket adı ve e-posta adresi için doğrulama kurallarını güncelleştiriyoruz. Bu, hem yeni hem de mevcut müşteri ayrıntıları için geçerlidir. Gerekli bir API değişikliği yok.
 
-### <a name="impacted-audience"></a>Etkilene hedef kitle
+### <a name="impacted-audience"></a>Etkilenen hedef kitle
 
-CSP doğrudan fatura iş ortakları ve dolaylı sağlayıcılar
+CSP doğrudan fatura ortakları ve dolaylı sağlayıcılar
 
 ### <a name="details"></a>Ayrıntılar
 
-Microsoft güven üzerinde çalışır. Müşteri şirket adı ve e-posta adresi bilgilerini doğrulamaya ilişkin uyumlu, güvenli ve güvenli bir yöntem sağlamayı taahhüt etmek istiyoruz. 22 Eylül 2021'den itibaren e-posta ve şirket adı doğrulamalarını güncelleştireceksiniz. Daha fazla bilgi için [bkz. Yeni müşteri kaydı ekleme.](../add-a-new-customer.md)
+Microsoft, güvende çalışır. Müşteri şirket adı ve e-posta adresi bilgilerini doğrulamaya yönelik uyumlu, güvenli ve güvenli bir yöntem sağlamayı taahhüt ediyoruz. 22 Eylül 2021 itibariyle e-posta ve şirket adı doğrulamaları güncelleştirilecektir. Daha fazla bilgi için bkz. [yeni müşteri kaydı ekleme](../add-a-new-customer.md).
 
 ________________
-## <a name="readiness-dual-mode-attestation-and-additional-reseller-declaration"></a><a name="7"></a>Hazır olma: çift modlu uygunluk ve ek kurumsal bayi bildirimi
+## <a name="readiness-dual-mode-attestation-and-additional-reseller-declaration"></a><a name="7"></a>Hazırlık: çift modlu kanıtlama ve ek satıcı bildirimi
 
 ### <a name="summary"></a>Özet
 
-İş ortaklarının ve müşterilerin işletmelerini güvene dayalı olarak çalıştırmalarına yardımcı olmak için, iş ortaklarının işlem başına aynı kiracı kimliğini kullanırken doğrudan veya dolaylı iş ortakları olarak davranacaklarını doğrulamaları gerekir.
+İş ortakları ve müşterilerin işlerini güvenle çalıştırmasına yardımcı olmak için iş ortaklarının, işlem başına aynı kiracı KIMLIĞINI kullanırken doğrudan veya dolaylı iş ortakları olarak davrandıklarından emin olmak istiyoruz.
 
-Ayrıca, EU/EFTA ülkelerde işlem yapmakta olan tüm iş ortaklarından, işlem kapsamındaki ek kurumsal bayileri (en fazla 5 adede kadar) bildirerek talepte bulunabilirsiniz.
+Ayrıca, AB/EFTA ülkelerinde yer alan tüm iş ortaklarının tüm ek satıcıları (en fazla 5 ' e kadar) bildirmek için de istekte bulunuyoruz.
 
 ### <a name="categories"></a>Kategoriler
 
 - Tarih: 2021-09-07
-- Aralık ayında yapılan WW fırlatma için pilot hazırlığı
+- Aralık ayında bir dünya çapında pilot başlatma hazırlığı
 
-### <a name="impacted-audience"></a>Etkilene hedef kitle
+### <a name="impacted-audience"></a>Etkilenen hedef kitle
 
-CSP doğrudan fatura iş ortakları ve hem doğrudan hem de dolaylı iş ortakları olan dolaylı sağlayıcılar
+CSP doğrudan fatura ortakları ve hem doğrudan hem de dolaylı iş ortakları olan dolaylı sağlayıcılar
 
-AB/EFTA ülkelerinin dolaylı iş ortakları
+AB/EFTA ülkelerinde dolaylı iş ortakları deneyimidir
 
 ### <a name="details"></a>Ayrıntılar
 
-Microsoft güven üzerinde çalışır. CSP programında müşteri aboneliklerini işlemesi için uyumlu, güvenli ve güvenli bir yöntem sağlamayı taahhüt etmek istiyoruz.
+Microsoft, güvende çalışır. CSP programında deneyimidir müşteri abonelikleri için uyumlu, güvenli ve güvenli bir yöntem sağlamayı taahhüt ediyoruz.
 
-7 Eylül 2021'den itibaren, iş ortaklarının Yeni onay gereksinimlerine ve Sepet Oluşturma, Sepeti Güncelleştirme ve Sipariş Oluşturma API'leri içinde oluşan ek kurumsal bayi (yalnızca EU/EFTA) değişikliklerine karşı test etme fırsatına sahip olması için bir pilot proje açeceğiz. Bu değişikliklerin bu API'ler için mevcut deneyimleri bozacak olduğunu unutmayın. Bu nedenle, iş ortaklarının Aralık ayındaki tam lansmandan önce pilota katılma fırsatına sahip olduğu önemle tavsiye edilir.
+7 Eylül 2021 itibariyle, yeni kanıtlama gereksinimlerine karşı test etme ve oluşturma sepeti, güncelleştirme sepeti ve sipariş API 'Leri oluşturma ile ilgili ek satıcılar (yalnızca AB/EFTA) için bir pilot iş ortağı açacağız. Lütfen bu değişiklikler bu API 'Lerin mevcut deneyimlerini bozacaktır. Bu nedenle, iş ortaklarının Aralık ayında tam başlatma öncesinde pilot 'a katılma fırsatına katılması önemle tavsiye edilir.
 
-Aşağıdaki API'ler etkilenecektir ve ayrıntılar paylaşılır ve buna göre güncelleştirilir:
+Aşağıdaki API 'leri etkilenecektir ve Ayrıntılar uygun şekilde paylaşıldığından ve güncelleştirilecektir:
 
-- [Müşteri siparişi oluşturma - İş Ortağı Merkezi geliştirici](/partner-center/develop/create-an-order)
-- [Sepet oluşturma - İş Ortağı Merkezi geliştiricisi](/partner-center/develop/create-a-cart)
-- [Sepeti güncelleştirme - İş Ortağı Merkezi uygulama geliştiricisi](/partner-center/develop/update-a-cart)
+- [Bir müşteri sipariş-Iş Ortağı Merkezi uygulama geliştiricisi oluşturma](/partner-center/develop/create-an-order)
+- [Sepet-Iş Ortağı Merkezi uygulama geliştiricisi oluşturma](/partner-center/develop/create-a-cart)
+- [Sepet-Iş Ortağı Merkezi uygulama geliştiricisini güncelleştirme](/partner-center/develop/update-a-cart)
 
-Ek kurumsal bayiler, aşağıdaki EU/EFTA ülkeleri üzerinde işlem yapılan iş ortaklarını etkiler:
+Ek satıcılar aşağıdaki AB/EFTA ülkelerinde iş ortakları deneyimidir etkiler:
 
-| AB / EFTA Ülkeleri | | |
+| AB/EFTA Ülkeleri | | |
 | ----- |----- | ----- |
 | Andorra | Yunanistan | Norveç |
 | Avusturya | Grönland | Polonya |
 | Belçika | Guernsey | Portekiz |
-| Bouvet Adası | See (City'nin kapsa olduğu Yer) | Romanya |
+| Bouvet Adası | Papalık (Vatikan şehri) | Romanya |
 | Bulgaristan | Macaristan | San Marino |
 | Hırvatistan | İzlanda | Slovakya |
 | Kıbrıs | İrlanda | Slovenya |
-| Çekya | Man Adası | İspanya |
+| Czechia | Man Adası | İspanya |
 | Danimarka | İtalya | Svalbard ve Jan Mayen |
 | Estonya | Jersey | İsveç |
 | Faroe Adaları | Letonya | İsviçre |
@@ -96,10 +96,10 @@ Ek kurumsal bayiler, aşağıdaki EU/EFTA ülkeleri üzerinde işlem yapılan i�
 | Monako | San Marino | Hollanda |
 | Slovakya | Birleşik Krallık: TBD |
 
-Pilota katılmak için lütfen konu uzmanınıza (AliSinki) ulaşarak iş ortağı kiracı kimliğini girin ve uçuşa eklensin.
+Pilot 'a katılmak için lütfen konu uzmanınıza (Ali Haki) ulaşın ve iş ortağı kiracı KIMLIĞINI, uçuşlara eklenebilecek şekilde sağlayın.
 
 ________________
-## <a name="perpetual-software-and-software-subscriptions-price-lists-republished-to-fix-price-increases-in-russia"></a><a name="6"></a>Kalıcı yazılım ve yazılım abonelikleri fiyat listeleri, Rusya'daki fiyat artışlarını düzeltmek için yeniden yayımlandı
+## <a name="perpetual-software-and-software-subscriptions-price-lists-republished-to-fix-price-increases-in-russia"></a><a name="6"></a>Rusya 'daki fiyat artışmasını onarmak için kalıcı yazılım ve yazılım abonelikleri fiyat listeleri yeniden yayımlandı
 
 ### <a name="categories"></a>Kategoriler
 
@@ -108,15 +108,15 @@ ________________
 
 ### <a name="summary"></a>Özet
 
-1 Eylül 2021'de yayımlanan kalıcı yazılım ve yazılım abonelikleri fiyat listeleri, Rusya'da bir fiyatlandırma sorunu düzeltmek için 3 Eylül'de yeniden yayımlandı.
+1 Eylül 2021 ' de yayımlanan kalıcı yazılım ve yazılım abonelikleri fiyat listeleri, Rusya 'daki bir fiyatlandırma sorununu düzeltmek için 3 Eylül tarihinde yeniden yayımlandı.
 
-### <a name="impacted-audience"></a>Etkilene hedef kitle
+### <a name="impacted-audience"></a>Etkilenen hedef kitle
 
-Dolaylı sağlayıcılar ve doğrudan fatura iş ortakları, Rusya'daki Bulut Çözümü Sağlayıcısı kalıcı yazılım ve yazılım aboneliklerini işlemektedir.
+Bulut Çözümü Sağlayıcısı programdaki dolaylı sağlayıcılar ve doğrudan fatura ortakları deneyimidir kalıcı yazılım ve yazılım abonelikleri.
 
 ### <a name="details"></a>Ayrıntılar
 
-1 Eylül'de yayımlanan kalıcı yazılım ve yazılım abonelikleri fiyat listelerinde tüm ürünler için yanlış %15,2 fiyat artışı vardı.
+1 Eylül'de yayımlanan kalıcı yazılım ve yazılım abonelikleri fiyat listeleri, tüm ürünler için yanlış %15,2 fiyat artışına sahipti.
 
 %15,2'ye yakın fiyat artışı Eylül'de **değil, 1 Ekim 2021'de** yürürlüğe girecektir. Fiyat listeleri doğru fiyatlandırma bilgileriyle yeniden yayımlanmamıştır.
 
@@ -156,7 +156,7 @@ Etkilene teklif şunları içerir:
 
 ### <a name="next-steps"></a>Sonraki adımlar
 
-ABD doları olarak lisanslı hizmetlere işlem yapan iş ortakları, düzeltilen fiyatı görmek için en son fiyat listesini indirmeli.
+ABD doları olarak lisanslı hizmetlere işlem yapan iş ortaklarının düzeltilen fiyatı görmek için en son fiyat listesini indirmesi gerekir.
 
 ________________
 ## <a name="announcing-intune-per-device-for-enterprise-for-csp-partners"></a><a name="4"></a>CSP iş ortakları için cihaz başına Enterprise Intune'un açıklanma
@@ -182,7 +182,7 @@ Microsoft Intune, hem fiziksel hem de sanal uç noktaları yönetmek ve güvenli
 
 - Exchange Foundation
 - Microsoft Intune
-- Azure Active Directory için eğitim.
+- Azure Active Directory eğitim için.
 
 Microsoft iş ortaklarımızdan gelen geri bildirimlere dayanarak Enterprise için Intune, cihaz başına satışa (cihaz + Windows + Intune) cihazın ömrünü kapsayan beş yıllık bir teklif olarak dahil edilecek şekilde oluşturulmuştur. Bu yeni teklif CSP'lere anlaşma yapılarını basitleştirme ve müşterilerine daha rekabetçi bir anlaşma sunması için yardımcı olacaktır.
 
@@ -217,21 +217,21 @@ CSP doğrudan fatura iş ortakları ve dolaylı sağlayıcıları ve dolaylı sa
 
 ### <a name="details"></a>Ayrıntılar
 
-19 Ağustos 2021'de [Microsoft,](https://partner.microsoft.com/resources/detail/new-commerce-for-csp-seat-based-offers-pdf) Ekim 2021'de gelecek geniş harekete göre Microsoft 365, Dynamics 365, Power Platform ve Windows 365 için yeni ticari deneyime sahip olduğunu duyurdu. Bu duyurunun bir sonraki adımları için, kuruma bu dönüşüme hazırlanmada yardımcı olmak için aşağıdaki önemli güncelleştirmeler vardır:
+19 Ağustos 2021'de [Microsoft,](https://partner.microsoft.com/resources/detail/new-commerce-for-csp-seat-based-offers-pdf) Ekim 2021'de yeni Microsoft 365, Dynamics 365, Power Platform ve Windows 365 kişilik geniş harekete dayalı teklifler için ticari deneyimi duyurdu. Bu duyurunun bir sonraki adımları için, kuruma bu dönüşüme hazırlanmanıza yardımcı olmak için aşağıdaki önemli güncelleştirmeler vardır:
 
-- Tümleşik korumalı alan testi için yer tabanlı tekliflerin lansmanları
+- Tümleşik korumalı alan testi için yer tabanlı tekliflerin başlatılması
 - Eylül ayında gelecek CSP Q&çağrıları için anımsatıcı
-- Microsoft Ticari Teşvik programı
+- Microsoft Commerce Incentive programı
 
 #### <a name="launch-of-seat-based-offers-for-integrated-sandbox-testing"></a>Tümleşik korumalı alan testi için yer tabanlı tekliflerin başlatılması
 
 Microsoft, 1 Eylül 2021'den itibaren CSP programı için [](https://partner.microsoft.com/resources/detail/new-commerce-for-csp-seat-based-offers-pdf) yeni ticari deneyimde tümleşik korumalı alan testi için yer tabanlı teklifleri etkinleştirdi. [](/partner-center/develop/test-and-debug)
 
-CSP'de Microsoft 365 dynamics 365, Power Platform ve Windows 365 tekliflerinin yeni ticaret deneyimine ek olarak, yeni ticaret yolculuğumuza önemli bir kilometre taşı daha eksildi. Microsoft, iş ortaklarının CSP gelirlerini artırarak müşterilere daha fazla seçenek sağlamalarını sağlayan yeni iş fırsatlarına, ürün yeniliklerine, daha iyi araçlara ve erişime yatırımlar sunmaktadır. Ticari platformumuz gelişiyor ve iş ortaklarının ve müşterilerin dijital dönüşümde başarılı olması için sipariş ve abonelik yönetimi işlemlerinin akışını gerçekleştiriyoruz.
+CSP'de Microsoft 365 Dynamics 365, Power Platform ve Windows 365 tekliflerinin yeni ticaret deneyimine ek olarak, yeni ticaret yolculuğumuza önemli bir kilometre taşı daha eksildi. Microsoft, iş ortaklarının CSP gelirlerini artırarak müşterilere daha fazla seçenek sağlamalarını sağlayan yeni iş fırsatlarına, ürün yeniliklerine, daha iyi araçlara ve erişime yatırımlar sunmaktadır. Ticari platformumuz gelişiyor ve iş ortaklarının ve müşterilerin dijital dönüşümde başarılı olması için sipariş ve abonelik yönetimi süreçlerimizi geliştiriyoruz.
 
 Korumalı alan test ortamına katılan iş ortakları, bu teklifler için önceden planlama, operasyonelleştirme ve teknik tümleştirmeye olanak sağlayan, yer tabanlı teklifler için yeni ticari deneyime erkenden görünürlük sağlayacaktır.
 
-Korumalı alan ortamına katılma, kuruma şunları sağlar:
+Korumalı alan ortamına katılarak, kuruluş şunların için olanak sağlar:
 
 - Üretim ortamına dağıtmadan önce test ortamında API tümleştirmesi gerçekleştirme
 - Lansmandan önce yeni ticaret deneyimini faaliyete geçirmek için yeterli zaman elde edin 
