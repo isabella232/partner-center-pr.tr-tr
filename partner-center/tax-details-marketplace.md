@@ -1,49 +1,49 @@
 ---
-title: Microsoft ticari Market için vergi ayrıntıları
-description: Fiyat seçimine, ödeme etkilerine ve ülkelere/dağıtım Bölgelerinizle ilgili vergi sorumluluğuna ilişkin vergi konuları hakkında bilgi edinin.
+title: Microsoft ticari market için vergi ayrıntıları
+description: Ülke/dağıtım bölgeniz için fiyat seçimi, ödeme etkileri ve vergi sorumluluğu ile ilgili dikkat edilmesi gerekenler hakkında bilgi alın.
 ms.topic: conceptual
-ms.service: marketplace
-ms.subservice: partnercenter-marketplace-publisher
+ms.service: partner-dashboard
+ms.subservice: partnercenter-payouts
 author: jasongroce
 ms.author: davjan
 ms.date: 06/29/2021
-ms.openlocfilehash: 6f1d0805fab0488739cc35849c2fd5a64db7b35b
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.openlocfilehash: 78264234d1eefa50e3af67a35b884f884304e0b5
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960525"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126248420"
 ---
 # <a name="tax-details-for-commercial-marketplace-publishers"></a>Ticari market yayıncıları için vergi bilgileri
 
-**Uygun roller**: genel yönetici
+**Uygun roller:** Genel yönetici
 
-bu sayfa, [Microsoft Azure market Publisher sözleşmesi](/legal/marketplace/msft-publisher-agreement) ve [uygulama geliştirici anlaşmasıyla](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4o4bH)ilgili olarak Publisher/developer ürünlerinin son müşteri satın alımları ile bağlantılı olarak ticari market yayımcıları (yayımcılar) ve tüketici marketi geliştiricileri (geliştiriciler) için vergi sorumlulukları ve vergi değerlendirmeleri belirler.  aşağıdaki bilgiler, Microsoft Publisher sözleşmesinin ve uygulama geliştirici anlaşmasındaki hüküm ve koşulların yanı sıra yerine geçecek şekilde düşünülmemiştir.  Aksi belirtilmediği takdirde, aşağıdaki bilgiler hem ticari Market yayımcılarına hem de ürünlerini/tekliflerini Microsoft marketler aracılığıyla satışa sunabilen tüketici marketi geliştiricileri için geçerlidir. 
+Bu sayfada ticari market yayımcıları (Yayımcılar) ve Tüketici Marketi Geliştiricileri (Geliştiriciler) için vergi sorumlulukları ve vergi konuları sırasıyla Microsoft Azure Market Publisher Sözleşmesi ve Uygulama Geliştiricisi Sözleşmesi uyarınca [Publisher/Developer](/legal/marketplace/msft-publisher-agreement) ürünleri satın almaları ile bağlantılı olarak belirlenmektedir. [](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4o4bH)  Aşağıdaki bilgiler, Microsoft Publisher Sözleşmesi'nin ve sözleşmenin hüküm ve koşullarının yerine Uygulama Geliştiricisi Sözleşmesi.  Aksi belirtilmedikçe, aşağıdaki bilgiler hem Ticari Market Yayımcıları hem de Tüketici Marketi Geliştiricileri için geçerlidir ve bu geliştiriciler ürünlerini/tekliflerini Microsoft Marketleri üzerinden satışa sunar. 
 
-## <a name="end-customer-taxation"></a>Son müşteri vergilendirme
+## <a name="end-customer-taxation"></a>End Customer Taxation
 
-Microsoft 'un ve yayımcılarının satışları, kullanımı, malları ve Hizmetleri, katma değer veya benzer vergiler, varsa son müşteri satışları (**son müşteri vergilendirme**), yayımcıların/geliştiricilerin, Microsoft Market (s) üzerinden son müşterilere satış için satışa sunulmasını sağlayan ülkeye bağlıdır. Aşağıdaki tabloda, Microsoft Market (s) ile uygun satışları olan ülkelerde son müşteri vergilendirme durumları ve sorumluluğu ayarlanır.  Aşağıdaki bilgiler değişebilir ve yayımcılar/geliştiriciler bu sayfayı güncel, doğru bilgiler için gözden geçirmekten sorumludur.
+Microsoft'un ve Yayımcıların/Geliştiricilerin satış, kullanım, mal ve hizmetler, katma değer veya benzer vergiler gibi sorumluluklarının her biri, son müşteri satışları (End **Customer Taxation)** yayımcıların/Geliştiricilerin ürünleri/teklifleri son müşterilere satış için Microsoft Market'ler aracılığıyla satışa sunduğu ülkeye bağlıdır. Aşağıdaki tabloda, müşteriler aracılığıyla satışa uygun olan ülkelerdeKimlik Müşteri Vergileri ile ilgili koşullar ve Microsoft Market yer almaktadır.  Aşağıdaki bilgiler değişebilir ve geçerli, doğru bilgiler için bu sayfayı gözden geçirmek Yayımcılar/Geliştiricilerden sorumludur.
 
-**Publisher/Developer-managed ülkelerinde**, Microsoft, Publisher/Developer. bir aracı ya da temsilciniz (geçerli olduğu gibi) görevi görür. Yayımcılar/geliştiriciler, yayımcıların/geliştiricilerin, kayıt, vergi hesaplama, vergi tahsilatı, vergi havalesi, müşterilerin iş durumunun doğrulanması ve müşterilere vergi faturaları sağlama dahil, son müşteri vergilendirme ve yönetimi için gereken tüm uyumluluğun belirlenmesi için tek sorumluluğu olduğunu kabul ediyor ve kabul ediyor. yayımcılar/geliştiriciler, Publisher/geliştirici tarafından yönetilen bir ülkede satışa karşı, Microsoft şu anda, yayımcılar/geliştiricilerin müşterilere vergi faturaları sağlaması için gereken işlem ayrıntılarını sağlayamayabilir. 
+**Publisher/Geliştirici tarafından yönetilen** ülkelerde, Microsoft bir aracı veya temsilci (uygulanabilir) olarak görev Publisher/Geliştirici olarak hareket ediyor. Yayımcılar/Geliştiriciler, Yayımcıların/Geliştiricilerin kayıt, vergi hesaplama, vergi toplama, vergi ödemesi, müşterilerin iş durumunu doğrulama ve müşterilere vergi faturaları sağlama dahil olmak üzere tüm uyumlulukları belirleme ve yönetme ve yönetme sorumluluğunun tek sorumluluğu olduğunu kabul eder ve kabul eder. Yayımcılar/Geliştiriciler, Publisher/Developer Managed Country'de yapılan herhangi bir satışla ilgili olarak Microsoft'un şu anda Yayımcılar/Geliştiriciler için müşterilere vergi faturaları sağlamaları için gereken işlem ayrıntılarını sağlayamayabileceklerini kabul eder. 
 
-microsoft **tarafından yönetilen ülkelerde**, microsoft Publisher/Developer. bir aracı olarak davranır Microsoft, belirli vergileri hesaplama, toplama ve/veya yeniden ayırma dahil olmak üzere, son müşteri vergilendirme yönetiminin sorumluluğunu üstlenir. Ticari Market için bu, vergi kayıt numaraları veya muafiyet sertifikaları elde ederek son müşterilerin iş durumunun doğrulanmasını de içerebilir. Microsoft, yerel bağlı kuruluşları ya da yerel olarak kaydedilen uzak bağlı kuruluşları kullanarak son müşteri Vergilenmasını yönetir. Microsoft 'un kayıt numarası altında Microsoft faturaları. Microsoft, Microsoft 'un vergi dönüşinden son müşterilerden toplanan tüm vergileri içerir.
+**Microsoft tarafından yönetilen ülkelerde,** Microsoft, Microsoft Publisher/Developer aracısı olarak hareket ediyor. Microsoft, belirli vergileri hesaplama, toplama ve/veya geri ödeme de dahil olmak üzere Son Müşteri Vergisini yönetme sorumluluğunu üstlenen bir hizmettir. Ticari Market için bu, vergi kayıt numaralarını veya muafiyet sertifikalarını edinerek son müşterilerin iş durumunu doğrulamayı da içerebilir. Microsoft, Son Müşteri Vergisini yerel bağlı kuruluşlar veya yerel olarak kayıtlı uzak bağlı kuruluşlar aracılığıyla yönetir. Microsoft'un kayıt numarası altındaki Microsoft faturaları. Microsoft, Microsoft'un vergi iadesiyle ilgili olarak son müşterilerden toplanan tüm vergileri içerir.
 
-microsoft, microsoft 'un eylemlerin microsoft tarafından yönetilen ülkelerde Publisher/geliştirici yükümlülüklerinden tamamen karşılamasına hiçbir garanti vermez.  Microsoft tarafından yönetilen tüm ülkeler için, Microsoft tarafından yönetilen vergi havalelerinin, yayımcıların '/geliştiricilerin ' uyumluluk gereksinimlerini yeterince adreslenmediğini belirlememek üzere yayımcılar/geliştiricilerin kendi vergi danışmanlarıyla birlikte çalışmalarını önemle önerir. Bu, yayımcıların/geliştiricilerin ürünlerini/tekliflerini satmakta olduğu Microsoft tarafından yönetilen tüm ülkelerde özellikle önemlidir.  microsoft, microsoft tarafından yönetilen ülkelerde Publisher/developer aracı olarak davranır.
+Microsoft, Microsoft'un eylemlerinin Microsoft tarafından yönetilen ülkelerdeki Publisher/Geliştirici yükümlülüklerini tamamen karşılay bir garanti etmez.  Microsoft tarafından yönetilen tüm ülkelerde Microsoft, Yayımcıların/Geliştiricilerin, Microsoft tarafından yönetilen vergi havalesini Yayımcıların/Geliştiricilerin uyumluluk gereksinimlerini yeterince karşılar mı olduğunu tespit etmek için kendi vergi danışmanlarıyla birlikte çalışmalarını önemle tavsiye ediyor. Bu durum, Yayımcıların/Geliştiricilerin ürünlerini/tekliflerini satışa sunduğu Microsoft tarafından yönetilen tüm ülkeler için özellikle kritik öneme sahip.  Microsoft, Microsoft tarafından yönetilen ülkelerde Publisher/Geliştirici temsilcisi olarak hareket ediyor.
 
-**satıcı ülkelerinde**, Microsoft, son müşterilere Microsoft Market (s) üzerinden satış için sunulan Publisher/geliştirici ürünleri/teklifleri sağlamak Publisher/developer 'ın aracısı yerine bir satıcı olarak davranır.  Yayımcılar/geliştiriciler satış, kullanım, mal ve hizmetlerden, değer eklenen veya benzer vergiler (varsa, ürünlerin/tekliflerin satışında) ve Microsoft 'un son müşterilere sunduğu tüm son müşteri vergilerinden sorumludur.
+Kurumsal **Bayi ülkelerde** Microsoft, Publisher/Developer'ın aracısı yerine kurumsal bayi olarak hareket eder ve Publisher/Developer ürünlerini/tekliflerini Microsoft Market'ler aracılığıyla son müşterilere satışa sunar.  Yayımcılar/Geliştiriciler, Microsoft'a ürün/teklif satışıyla ilgili satış, kullanım, mal ve hizmetler, katma değer veya benzer vergilerden sorumludur ve son müşterilere yeniden satışla ilgili tüm Son Müşteri Vergilerinden Microsoft sorumludur.
 
 
-### <a name="publisherdeveloper-managed-countries"></a>Publisher/Developer-managed ülkeleri: 
+### <a name="publisherdeveloper-managed-countries"></a>Publisher/Geliştirici tarafından yönetilen ülkeler: 
 
-| Ülkeler                | Ülkeler (devamı)             | Ülkeler (devamı) | Ülkeler (devamı) |
+| Ülkeler                | Ülkeler (devam)             | Ülkeler (devam) | Ülkeler (devam) |
 |--------------------------|-----------------------------------|-----------------------|-----------------------|
 | Afganistan              | Kongo Cumhuriyeti                             | Jamaika               | Niue                  |
 | Arnavutluk                  | Kongo (KDC)                       | Japonya                 | Norfolk Adası        |
 | Cezayir                  | Cook Adaları                      | Jersey                | Kuzey Makedonya       |
 | Amerikan Samoası           | Kosta Rika                        | Ürdün                | Pakistan              |
-| Andorra                  | Fildişi d'Ivore                      | Kazakistan            | Filistin Yönetimi |
+| Andorra                  | Cote d'Ivore                      | Kazakistan            | Filistin Yönetimi |
 | Angola                   | Curacao                           | Kenya                 | Panama                |
-| Anguilla                 | Dübouti                           | Kiribati              | Paraguay              |
+| Anguilla                 | Efbouti                           | Kiribati              | Paraguay              |
 | Antarktika               | Dominika                          | Kuveyt                | Peru                  |
 | Arjantin                | Dominik Cumhuriyeti                | Kırgızistan            | Filipinler           |
 | Antigua & Barbuda        | Ekvador                           | Laos                  | Saint Kitts ve Nevis |
@@ -60,11 +60,11 @@ microsoft, microsoft 'un eylemlerin microsoft tarafından yönetilen ülkelerde 
 | Bosna-Hersek   | Gürcistan                           | Martinique            | Uruguay               |
 | Botsvana                 | Cebelitarık                         | Moritanya            | ABD Virjin Adaları     |
 | Bouvet Adası            | Grönland                         | Mauritius             | Özbekistan            |
-| Britanya Virjin Adaları   | Grenada                           | Ma Ote                | Vanuatu               |
+| Britanya Virjin Adaları   | Grenada                           | Ma ote                | Vanuatu               |
 | Brunei                   | Guadeloupe                        | Mikronezya            | Vatikan          |
 | Bulgaristan                 | Guam                              | Moldova               | Venezuela             |
 | Burkina Faso             | Guatemala                         | Moğolistan              | Vietnam               |
-| Burundi                  | Guernsey                          | Karadağ            | Wallis veUçsuzuna     |
+| Burundi                  | Guernsey                          | Karadağ            | Wallis ve Futuna     |
 | Cabo Verde               | Gine                            | Montserrat            | Yemen                 |
 | Kamboçya                 | Gine-Bissau                     | Fas               | Zambiya                |
 | Kamerun                 | Guyana                            | Mozambik            | Zimbabve              |
@@ -77,7 +77,7 @@ microsoft, microsoft 'un eylemlerin microsoft tarafından yönetilen ülkelerde 
 
 ### <a name="microsoft-managed-countries"></a>Microsoft tarafından yönetilen ülkeler
 
-| Ülkeler                | Ülkeler (devam)             | Ülkeler (devam) | Ülkeler (devam)               |
+| Ülkeler                | Ülkeler (devamı)             | Ülkeler (devamı) | Ülkeler (devamı)               |
 |--------------------------|-----------------------------------|-----------------------|-------------------------------------|
 | Ermenistan                  | Finlandiya                           | Lüksemburg            | Singapur                           |
 | Avusturya                  | Fransa                            | Malezya              | Slovakya                            |

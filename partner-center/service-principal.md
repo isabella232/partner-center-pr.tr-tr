@@ -4,43 +4,43 @@ ms.topic: how-to
 ms.date: 06/03/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-enroll
-description: Azure AD kiracınıza hizmet sorumlusu ekleme hakkında bilgi edinin. Bunun yapılması, Iş Ortağı Merkezi 'ne bir Azure AD uygulaması (hizmet sorumlusu) ekleme anlamına gelir.
+description: Azure AD kiracınıza hizmet sorumlusu ekleme hakkında bilgi edinin. Bunun için azure ad uygulaması (hizmet sorumlusu) İş Ortağı Merkezi.
 author: dhirajgandhi
 ms.author: dhgandhi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
 ms.openlocfilehash: a7851d270ad51a5a06ebc7d7725a2ae5c803419b
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123961529"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126248580"
 ---
-# <a name="add-an-azure-ad-application-service-principal-in-partner-center"></a>Iş Ortağı Merkezi 'ne bir Azure AD uygulaması (hizmet sorumlusu) ekleme
+# <a name="add-an-azure-ad-application-service-principal-in-partner-center"></a>Azure AD uygulaması (hizmet sorumlusu) İş Ortağı Merkezi
 
-**Uygun roller**: genel yönetici
+**Uygun roller:** Genel yönetici
 
-iş ortağı merkezi 'ndeki ticari market programında artık iş ortağı merkezi hesabınıza bir kullanıcı olarak Microsoft Azure Active Directory (Azure AD) uygulaması (hizmet sorumlusu) ekleyebileceksiniz. (Bunu daha önce Bulut İş Ortağı Portalı (CPP) hesabınızda yapabileceksiniz. Artık Iş Ortağı Merkezi 'ne geçirdiniz, CPP hesabı salt okunurdur.)
+İş Ortağı Merkezi'daki Ticari Market programında artık Microsoft Azure Active Directory (Azure AD) uygulamasını (hizmet sorumlusu) kullanıcı olarak İş Ortağı Merkezi. (Daha önce Bulut İş Ortağı Portalı (CPP) hesabınızla bunu yapasınız. İş Ortağı Merkezi'ye geçiş İş Ortağı Merkezi CPP hesabı salt okunur olur.)
  
 >[!Note] 
->Hizmet sorumlusu, Azure AD uygulaması ile eşanlamlıdır.
+>Hizmet sorumlusu, Azure AD uygulamasıyla eş anlamlıdır.
 
 ## <a name="add-an-azure-ad-application-service-principal"></a>Azure AD uygulaması ekleme (hizmet sorumlusu)
 
-1. iş ortağı merkezi panosundan **Ayarlar** ' yi seçin ve ardından **geliştirici ayarları**' nı seçin.
+1. Uygulama panosundan İş Ortağı Merkezi'yi **ve Ayarlar'yi** seçin.
 
-2. **Kullanıcıları** seçin ve ardından **Azure AD uygulamaları Ekle**' yi seçin.
+2. **Kullanıcılar'ı** ve ardından **Azure AD Uygulamaları Ekle'yi seçin.**
 
-3. Mevcut bir Azure AD uygulaması seçin veya yeni bir tane oluşturun.
+3. Mevcut bir Azure AD uygulamasını seçin veya yeni bir uygulama oluşturun.
 
-4. Yeni bir Azure AD uygulaması oluşturursanız, aşağıdaki bilgileri ekleyin:  
+4. Yeni bir Azure AD uygulaması sanız aşağıdaki bilgileri dahil edin:  
 
-   - **Yanıt URL 'si**: KULLANıCıLARıN Azure AD uygulamanızı kullanmak için oturum açabilecekleri URL.
+   - **Yanıt** URL'si: Kullanıcıların Azure AD uygulamalarınızı kullanmak için oturum açmasını istediğiniz URL.
 
-   - **Uygulama kimliği URI 'si**: Azure AD 'ye yönelik çoklu oturum açma isteği gönderdiğinde sunulan Azure AD uygulaması için mantıksal tanımlayıcı.
+   - **Uygulama Kimliği URI'si:** Azure AD'ye çoklu oturum açma isteği gönderdiği zaman sunulan Azure AD uygulaması için mantıksal tanımlayıcı.
 
-   - **Güvenlik rolleri**: roller **Yöneticisi** (cpp ' deki ' Owner ' rolüyle aynı) ve **Geliştirici** (cpp ' de ' katkıda bulunan ' rolüyle aynı), iş ortağı merkezi 'nde ticari Market programına uygulanır ve bu Azure AD uygulamasıyla ilişkilendirilebilir.  
+   - **Güvenlik rolleri:** Rol **Yöneticisi** (CPP'de 'Sahip' rolüyle aynı) ve **Geliştirici** (CPP'de 'Katkıda Bulunan' rolüyle aynı) İş Ortağı Merkezi'daki Ticari Market programı için geçerlidir ve bu Azure AD Uygulaması ile ilişkilendirilebilir.  
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-- [Iş Ortağı Merkezi 'nde ticari Market 'e genel bakış](csp-commercial-marketplace-overview.md)
+- [İş Ortağı Merkezi'da ticari markete genel bakış](csp-commercial-marketplace-overview.md)

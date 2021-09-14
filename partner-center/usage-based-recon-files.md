@@ -10,11 +10,11 @@ ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 3048bad7912f101e1c332e54eff981473f0f31d7
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123961044"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126248404"
 ---
 # <a name="understand-usage-based-reconciliation-files-and-their-specific-fields-in-partner-center"></a>Iş Ortağı Merkezi 'nde kullanım tabanlı karşılaştırma dosyalarını ve belirli alanlarını anlayın
 
@@ -57,7 +57,7 @@ Aşağıdaki alanlar hangi hizmetlerin kullanıldığını ve oranını açıkla
 | PostTaxTotal | Vergiden sonra toplam, vergi geçerli olduğunda. | *0,93 ABD doları* |
 | Para Birimi | Para birimi türü. Her faturalama varlığının yalnızca bir para birimi vardır. İlk faturanız ve ardından ana faturalama platformu güncelleştirmelerinden sonra bu faturanın eş olup olamayrını kontrol edin. | *EUR* |
 | PretaxEffectiveRate | Birim başına ön fiyat. **PretaxCharges değeri** **overageQuantity değerine bölünerek** en yakın sente yuvarlanır. | *0,08 ABD doları* |
-| PostTaxEffectiveRate | Birim başına vergi sonrası fiyat. **PostTaxTotal değerine** eşit olarak **OverageQuantity değerine** bölünerek en yakın sente yuvarlanır. Veya **PretaxEffectiveRate** ile birim tutarı başına vergi oranına ek olarak en yakın sente yuvarlanmış olabilir. | *0,08 ABD doları* |
+| PostTaxEffectiveRate | Birim başına vergi sonrası fiyat. **PostTaxTotal değerine** eşit olarak **OverageQuantity değerine** bölünerek en yakın sente yuvarlanır. Veya **PretaxEffectiveRate** ile birim tutarı başına vergi oranına ek olarak en yakın sente yuvarlanmış olur. | *0,08 ABD doları* |
 | ChargeType | Ücret [veya ayarlama](recon-file-charge-types.md) türü. | Bkz. [ücret türleri.](recon-file-charge-types.md) |
 | CustomerId | Müşteri için GUID biçiminde benzersiz Microsoft tanımlayıcısı. | *ORDDC52E52FDEF405786F0642DD0108BE4* |
 | DomainName | Müşterinin etki alanı adı. Bu alan, ikinci faturalama döngüsüne kadar boş görünebilir. | *example.onmicrosoft.com* |
@@ -66,10 +66,10 @@ Aşağıdaki alanlar hangi hizmetlerin kullanıldığını ve oranını açıkla
 | CustomerBillableAccount | Microsoft faturalama platformunda benzersiz hesap tanımlayıcısı. | *1280018095* |
 | UsageDate | Hizmet dağıtım tarihi. | *2/1/2019 0:00* |
 | MeteredRegion | Bölge içindeki bir veri merkezinin konumunu tanımlar (bu değerin geçerli olduğu ve doldurul olduğu hizmetler için). | *Doğu Asya*, *Güney Doğu Asya*, *Kuzey Avrupa,* *Batı Avrupa,* *Orta Kuzey ABD*, *Orta Güney ABD* |
-| MeteredService | **ServiceName** sütununda özel olarak tanımlanmayan tek tek Azure hizmet kullanımını tanımlar. Örneğin, veri aktarımları ServiceName *Microsoft Azure - Tüm Hizmetler* olarak **raporlandı.** | *AccessControl*, *CDN*, *Compute*, *Database*, *ServiceBus*, *Depolama* |
+| MeteredService | **ServiceName** sütununda özel olarak tanımlanmayan tek tek Azure hizmet kullanımını tanımlar. Örneğin, veri aktarımları ServiceName *Microsoft Azure - Tüm Hizmetler* olarak **raporlandı.** | *AccessControl*, *CDN,* *İşlem,* *Veritabanı,* *ServiceBus*, *Depolama* |
 | MeteredServiceType | Azure hizmet **kullanımına ek açıklama sağlayan MeteredService** alanı için alt başlık. | *DIŞ* |
 | Project | Hizmet örneği için müşteri tanımlı ad. | *ORDDC52E52FDEF405786F0642DD0108BE4* |
-| ServiceInfo | Azure Service Bus sağlanan ve kullanılan bağlantıların sayısı. | *1.00000 Bağlantı / 30* gün (30 günlük bir ayda tek tek sağlanan bir bağlantınız varsa), *25 Bağlantı / 30 Gün – Kullanılır: 1.000000* (25 paket Service Bus bağlantınız varsa ve bu gün boyunca 1 kullandıysanız) |
+| ServiceInfo | Azure Service Bus sağlanan ve kullanılan bağlantıların sayısı. | *1.00000 Bağlantı / 30* gün (30 günlük bir ay boyunca tek tek sağlanan bir bağlantınız varsa), *25 Bağlantı / 30 Gün – Kullanılır: 1.000000* (25 paket Service Bus bağlantınız varsa ve bu gün boyunca 1 kullandıysanız) |
 
 ## <a name="next-steps"></a>Sonraki adımlar
 

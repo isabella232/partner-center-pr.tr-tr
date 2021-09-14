@@ -10,11 +10,11 @@ ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 08/06/2020
 ms.openlocfilehash: 10a9789d10d03a1a6ddd0aa2cd5ccc0e320b9c07
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123959965"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126248329"
 ---
 # <a name="sell-microsoft-azure-reservations-to-customers-using-partner-center-the-azure-portal-or-apis"></a>iş ortağı merkezi, Azure portal veya apı 'leri kullanarak müşterilere Microsoft Azure ayırmaları satma
 

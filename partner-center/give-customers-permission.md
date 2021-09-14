@@ -10,11 +10,11 @@ ms.author: amrava
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 23ca72fada539b5036dfd6cf0ac04a5c18b5d96d
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123959975"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126248643"
 ---
 # <a name="give-customers-permission-in-partner-center-to-buy-their-own-products-or-services"></a>Iş Ortağı Merkezi 'nde müşterilere kendi ürünlerini veya hizmetlerini satın alma izni verin
 
@@ -145,14 +145,14 @@ Azure ayırmalarının bu yönlerini yönetme hakkında daha fazla bilgi edinmek
 
 **Müşteriler bir ayırma kullanımını nasıl iyileştirebilirler.** Bazı müşteriler, bir ayırma kullanımını iyileştirmek veya satın alma sırasında rezervasyonun ilk kapsamını atamak hakkında daha fazla bilgi edinmeye yarar sağlayabilir. Daha fazla bilgi için müşterilerin [Azure kaynakları için ayırmaları yönetme](/azure/cost-management-billing/reservations/manage-reserved-vm-instance)bilgilerini okumasını isteyin.
 
-**Müşteri, paylaşılan kapsamda bir rezervasyon satın aldıktan sonra ne olur?** Müşteriler önceki bir CSP aboneliğine göre rezervasyon satın alan ve bu rezervasyona paylaşılan bir kapsam atasa, CSP tarafından müşteriye verilen indirimler, CSP iş ortağının o müşteri için satın alan tüm abonelikler için eşleşen kullanım için geçerli olur.
+**Bir müşteri, paylaşılan bir kapsama sahip bir rezervasyon satın aldığında ne olur?** Müşteriler önceki bir CSP aboneliğine göre bir ayırma satın alıp bu ayırmaya bir paylaşılan kapsam atadıktan sonra, müşterinin CSP tarafından verilen tüm indirimler, CSP iş ortağı tarafından satın alınan tüm abonelikler için eşleşen kullanım için geçerlidir.
 
-**Müşterilerin, yapmış olduğu bir satın alma işlemini değiştirmek, iptal etmek veya yenilemek ya da rezervasyonun ilk kapsamını değiştirmek istemeleri durumunda ne yapmaları gerekir?** Müşterilerin bir rezervasyonun ilk kapsamını değiştirmelerine yardımcı olmak için iş ortağına sorması gerekir. Ayrıca rezervasyonu değiştirme, iptal etme veya yenileme için bir iş ortağının yardımı da gerekir. CsP iş ortağı tarafından satın alınan abonelikleri temel alan rezervasyonlarla bu görevleri kendileri gerçekleştirebilirler.
+**Müşteriler, yapmış oldukları bir satın alma, iptal etme veya yenileme ya da bir ayırmanın başlangıç kapsamını değiştirme amacıyla ne yapması gerekir?** Müşterilerin, bir ayırmanın ilk kapsamını değiştirmesine yardımcı olması için iş ortağlarına sormaları gerekir. Ayrıca, bir ayırmayı Exchange, iptal etme veya yenileme için bir iş ortağının yardımına de ihtiyacı vardır. Bu görevleri, kendilerine bir CSP iş ortağı tarafından satın alınan abonelikler temelinde rezervasyon ile gerçekleştiremez.
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-- [Müşterileriniz adına Azure rezervasyonları satın alma](azure-reservations-buying.md)
+- [Müşterileriniz adına Azure ayırmaları satın alın](azure-reservations-buying.md)
 
-- [İş Ortağı Merkezi - Microsoft rezervasyonları satma](azure-reservations.md)
+- [İş Ortağı Merkezi-Microsoft ayırmaları satma](azure-reservations.md)
 
-- [Müşterileriniz adına Azure rezervasyonlarını yönetme](azure-reservations-manage.md)
+- [Azure rezervasyonlarını müşterileriniz adına yönetme](azure-reservations-manage.md)

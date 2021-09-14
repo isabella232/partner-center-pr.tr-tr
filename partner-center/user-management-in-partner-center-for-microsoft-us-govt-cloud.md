@@ -1,7 +1,7 @@
 ---
 title: Kullanıcı ve lisans yönetimi
 titleSuffix: Microsoft Cloud for US Government - Partner Center
-description: Microsoft Cloud for US Government iş ortakları, İş Ortağı Merkezi lisanslar ve parola sıfırlamaları için nasıl ve nereden yöneteceklerini öğrenin.
+description: İş ortakları, müşteriler ve İş Ortağı Merkezi ve Microsoft Cloud for US Government parola sıfırlamaları için nasıl ve nerede yöneteceklerini öğrenin.
 ms.topic: article
 ms.date: 03/15/2019
 ms.service: partner-dashboard
@@ -11,11 +11,11 @@ ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 982095303b748639f4f0bdc893acfa0fad1e9453
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960664"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126248400"
 ---
 # <a name="user-and-license-management-in-partner-center-for-microsoft-cloud-for-us-government"></a>İş Ortağı Merkezi için Microsoft Cloud for US Government
 
@@ -25,9 +25,9 @@ ms.locfileid: "123960664"
 
 ## <a name="how-to-manage-users-in-the-azure-portal-for-microsoft-cloud-for-us-government"></a>Azure portal Microsoft Cloud for US Government
 
-Microsoft Cloud for US Government için İş Ortağı Merkezi oturum Azure portal oturum Microsoft Cloud for US Government yeniden oturum açmak zorunda kalmadan oturum açsanız iyi olur. Ancak, Microsoft Cloud for US Government için doğrudan Azure portal oturum açmanız gerekirse () gidin ve Microsoft Cloud for US Government için Azure AD kiracınız için genel yönetici kimlik https://portal.azure.us/) bilgilerini kullanarak oturum Microsoft Cloud for US Government.
+İş Ortağı Merkezi için Microsoft Cloud for US Government oturum açtıysanız, Azure portal için Microsoft Cloud for US Government yeniden oturum açmak zorunda kalmadan oturum açtırsınız. Ancak, Azure portal için doğrudan Microsoft Cloud for US Government Microsoft Cloud for US Government için Azure AD kiracınız için genel yönetici kimlik bilgilerini kullanarak https://portal.azure.us/) oturum Microsoft Cloud for US Government.
 
-Azure portal için Microsoft Cloud for US Government oturum açtıktan sonra Azure Active Directory (Azure AD) genel bakış sayfanızı açın ve aşağıdaki makalelerde verilen yönergeleri izleyin:
+Azure portal için Azure portal oturum açtıktan sonra Microsoft Cloud for US Government Azure Active Directory (Azure AD) genel bakış sayfanızı açın ve aşağıdaki makalelerde verilen yönergeleri izleyin:
 
 > [!NOTE]  
 > Aşağıdaki bağlantıların seçerek farklı bir web sitesine gidin. 

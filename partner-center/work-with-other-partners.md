@@ -10,11 +10,11 @@ ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 93ebd29529812535d2847485d2c9fe751fa5a9f8
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123961004"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126248392"
 ---
 # <a name="different-ways-you-can-work-with-other-partners-in-partner-center"></a>İş Ortağı Merkezi 'nde diğer iş ortaklarıyla çalışabilmeniz için farklı yollar
 

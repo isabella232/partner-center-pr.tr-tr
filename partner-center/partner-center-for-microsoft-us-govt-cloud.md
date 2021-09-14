@@ -10,11 +10,11 @@ ms.author: vinayks
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: b4edaddb76d72620324c0e26c971bbeb339beeff
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960644"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126248691"
 ---
 # <a name="partner-center-for-microsoft-cloud-for-us-government-supports-partner-offers-to-government-agencies"></a>İş Ortağı Merkezi için Microsoft Cloud for US Government kamu kurumlarına iş ortağı tekliflerini destekler
 
@@ -24,11 +24,11 @@ ms.locfileid: "123960644"
 
 ## <a name="microsoft-cloud-for-us-government-meeting-data-protection-requirements"></a>Microsoft Cloud for US Government: Veri koruma gereksinimlerini karşılama
 
-ABD yönetimi için tasarlanmış olan Microsoft Cloud for US Government federal, eyalet, yerel veya tribal varlıkların Microsoft'un bulut bilişim hizmetleri arasında seçime olanak sağlar. Microsoft, kamu sektörü müşterilerinin belirli ihtiyaçlarını en iyi şekilde karşılamak için veri merkezlerine önemli yatırımlar yapmış ve ABD federal ve eyalet ilkeleri, zorunluları ve gereksinimleriyle veri koruma uyumluluğunu karşılamaya ayrılmıştır. İş Ortağı Merkezi için Microsoft Cloud for US Government, iş ortaklarının microsoft bulut hizmetlerini bu müşterilere yeniden satışlarına olanak sağlar.
+ABD kamu için tasarlanmış olan Microsoft Cloud for US Government, ABD federal, eyalet, yerel veya tribal varlıkların Microsoft'un bulut bilişim hizmetlerinden seçime olanak sağlar. Microsoft, kamu sektörü müşterilerinin belirli ihtiyaçlarını en iyi şekilde karşılamak için veri merkezlerine önemli yatırımlar yapmış ve ABD federal ve eyalet ilkeleri, zorunluları ve gereksinimleriyle veri koruma uyumluluğunu karşılamaya ayrılmıştır. İş Ortağı Merkezi için Microsoft Cloud for US Government, iş ortaklarının Bu müşterilere Microsoft bulut hizmetlerini yeniden satışa alamalarına olanak sağlar.
 
-İş Ortağı Merkezi'de kullanılabilen özelliklerden bazılarının henüz İş Ortağı Merkezi için Microsoft Cloud for US Government.
+İş Ortağı Merkezi'da bulunan bazı İş Ortağı Merkezi henüz Microsoft Cloud for US Government.
 
-Microsoft Cloud for US Government, kamu güvenliği Microsoft Azure [](https://azure.microsoft.com/overview/clouds/government/) gizlilik ve uyumluluk gereksinimlerinin veri koruma gereksinimlerini karşılamaya uygun ayrı bir örnek sunar. 
+Microsoft Cloud for US Government, kamu [güvenliği Microsoft Azure](https://azure.microsoft.com/overview/clouds/government/) gizlilik ve uyumluluk gereksinimlerinin veri koruma gereksinimlerini karşılayacak ayrı bir örnek sunar. 
 
 Daha fazla bilgi için [bkz. Microsoft Cloud for US Government sayfası.](https://download.microsoft.com/download/C/9/C/C9CA3002-DFC4-4ADA-841F-DF42AEC042FB/Microsoft_Azure_Government_Datasheet_EN_US.PDF)
 

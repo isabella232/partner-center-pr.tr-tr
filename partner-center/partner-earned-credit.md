@@ -10,11 +10,11 @@ ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.openlocfilehash: f41fa2ccaf99f4ca46e283a4abb0975fb5195eef
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123959935"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126248458"
 ---
 # <a name="partner-earned-credit---an-overview-of-how-it-works-in-the-new-commerce-experience-in-csp"></a>İş ortağı kazanılmış kredi-CSP 'de yeni ticaret deneyiminde nasıl çalıştığına ilişkin genel bakış
 

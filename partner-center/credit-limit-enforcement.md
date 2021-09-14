@@ -10,11 +10,11 @@ ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 32dc94a4bd85160a02a4be880469f713d98449ba
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123961244"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126248518"
 ---
 # <a name="credit-limit-enforcement-cle"></a>Kredi limiti zorlama (CLE)
 
@@ -22,7 +22,7 @@ ms.locfileid: "123961244"
 
 ## <a name="your-credit-limit-and-how-it-works"></a>Kredi limiti ve nasıl çalıştığını
 
-Kredi limitiniz, bir iş ortağı olarak iş ortağı olarak belirli bir abonelikte ürün veya abonelik satın almak için harcayabilirsiniz maksimum İş Ortağı Merkezi. Kredi limitini aşarsanız, yeterli ödeme yapılana kadar yeni satın almalar yapamazsiniz. Mevcut abonelikleriniz kesintisiz olarak devam eder.
+Kredi limitiniz, bir iş ortağı olarak iş ortağınız tarafından bir veya daha fazla ürün veya abonelik satın almak için harcanacak maksimum İş Ortağı Merkezi. Kredi limitini aşarsanız, yeterli ödeme yapılana kadar yeni satın almalar yapamazsiniz. Mevcut abonelikleriniz kesintisiz olarak devam eder.
 
 Kredi limitleri Azure planı, Azure rezervasyonları, Yazılım, Market, Azure 145 P, Office ve Dynamics ürünleri için geçerlidir. Kredi limitleri yenilemeler ve devam eden tüketim için geçerli değildir.
 
@@ -66,7 +66,7 @@ Kredi limitini tahmin edilen gelir, satın alma gücü ve ödeme geçmişinize g
 
 ### <a name="is-the-credit-limit-currently-enforced-on-the-new-commerce-experience"></a>Kredi limiti şu anda Yeni Ticaret Deneyimi'ne mi uygulanıyor?
 
-Evet. Kredi limitleri, tüm csP programlarına ve ürünlerine İş Ortağı Merkezi.
+Evet. Kredi limitleri, tüm CSP programlarına ve ürünlerine İş Ortağı Merkezi.
 
 ### <a name="who-will-receive-the-notification-when-my-organization-is-nearing-its-credit-limit"></a>Who kredi limiti aşacaksa bildirim alacak musunuz?
 

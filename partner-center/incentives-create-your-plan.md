@@ -9,11 +9,11 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.openlocfilehash: 387be6313a1e775963c86714a6c5c825a2ca8169
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123961335"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126248498"
 ---
 # <a name="generate-a-marketing-plan-for-your-incentives-program"></a>Teşvik programınız için bir pazarlama planı oluşturma
 
@@ -28,7 +28,7 @@ Teşvikler sayfasında Plan Yönetimi'yi **seçerek** **ve** ardından istediği
 >[!NOTE]
 >Teşvikler sayfasında Plan Yönetimi'nin görmeyebilirsiniz. Bunun nedeni İş Ortağı Merkezi panonun dinamik olması ve yalnızca belirli rol ve etkinlikleriniz için uygun olan öğeleri görüntülemesidir. Teşvikler sayfasında Plan Yönetimi'nin olmadığınız, büyük olasılıkla planları olan bir programa kayıtlı olmadığınız anlamına gelir. Yardım için Teşvikler yöneticinize başvurun.
 
-Belirli bir programınıza ilişkin planlar hakkında daha Teşvikler programı için program kılavuzuna bakın.
+Belirli bir programınıza ilişkin planlar hakkında daha fazla Teşvikler programı program kılavuzuna bakın.
 
 ## <a name="how-to-submit-a-plan"></a>Planı gönderme
 
@@ -36,7 +36,7 @@ Belirli bir programınıza ilişkin planlar hakkında daha Teşvikler programı 
 
 2. Sol gezintideki **Teşvikler**’in altında **Program**’ı seçin ve sonra da programınızı seçin. 
 
-3. Program **sayfasında** planınız için uygun pazarı bulun ve Plan oluştur'a **tıklayın.** 
+3. Program **sayfasında planınız** için uygun pazarı bulun ve Plan oluştur'a **tıklayın.** 
 
 4. Yeni **plan sayfasında** gerekli alanları doldurun. **Para** birimi, planın yansıtması istediğiniz değerdir. **Gözden geçiren** e-postası, hesap yöneticinizin Microsoft e-posta adresi olabilir. MPN kimliği, fon, program ve süre başına tek bir plan oluşturulabileceğini unutmayın. **Kaydet**’i seçin.
 
@@ -84,7 +84,7 @@ Microsoft size kazançlarınız ve planınızın sınırları temelinde her ay �
 
 Örneğin, planınız 10.000 ABD doları için onaylandı ve Nisan ayında 5.000 ABD doları kazandınız, 15 Mayıs'ta 5.000 ABD doları alırsınız.
 
-Aynı planda Nisan ayında 15.000 ABD doları kazanırsanız 15 Mayıs'ta 10.000 ABD doları alırsınız çünkü plan için sınır 10.000 ABD dolarıdır. Daha fazla ödeme almak için sonraki ay için planınızın sınırını artırmanız gerekir.
+Aynı planda Nisan ayında 15.000 ABD doları kazanırsanız 15 Mayıs'ta 10.000 ABD doları alırsınız çünkü planınız için sınır 10.000 ABD dolarıdır. Daha fazla ödeme almak için sonraki ay için planınızın sınırını artırmanız gerekir.
 
 ## <a name="next-steps"></a>Sonraki adımlar
 

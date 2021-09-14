@@ -10,17 +10,17 @@ ms.author: kaushikg
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
 ms.openlocfilehash: 180756cb5c658b5ed16119e03bfe9e1271b68599
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960475"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126248531"
 ---
 # <a name="earn-cooperative-marketing-funds"></a>İşbirlikçi pazarlama fonlarını kazanma
 
 **Uygun roller:** Teşvik yöneticisi | Teşvikler kullanıcısı
 
-İşbirliğine yönelik pazarlama (ortak çalışma) fonlarını, Microsoft ürün farkındalığını destekleyen etkinlikler için geri ödeme talep eden Microsoft Teşvik Programları aracılığıyla kazanabilirsiniz. Teşvik programlarına örnek olarak Bulut Çözümü Sağlayıcısı, yönetilen kurumsal bayi, barındırma ve Surface yer alır.
+İşbirliğine açık pazarlama (ortak çalışma) fonlarını, Microsoft ürün farkındalığını destekleyen etkinlikler için geri ödeme talep eden Microsoft Teşvik Programları aracılığıyla kazanabilirsiniz. Teşvik programlarına örnek olarak Bulut Çözümü Sağlayıcısı, yönetilen kurumsal bayi, barındırma ve Surface yer alır.
 
 İşbirliğine yönelik fonlar, marka farkındalığını artıracak ve satış işlem hattı büyümesi sağlayacak pazarlama etkinlikleri yürütmeye olanak sağlar. Hazırlıkları kolaylaştırmak, uzmanlık geliştirmek veya odaklı çözüm uygulamalarını ve Mükemmellik Merkezlerini teşvik eden Microsoft sertifikalarını almak için etkinliklere ortak çalışma fonlarını yatırımlarsiniz.
 
@@ -45,16 +45,16 @@ Teşvik programı kılavuzunda ödeme tempos ve yüzdeyi bölme hakkında daha f
 - H1, 1 Temmuz - 31 Aralık mali yılın ilk yarısıdır.
 - H2, mali yılın ikinci yarısıdır, 1 Ocak - 30 Haziran.
 
-Kazançlarınızı tahakkuk eden altı aylık dönem Kazanç **döneminiz olur.** Bu kazançları, sonraki altı aylık Kullanım döneminde bir noktada **kullanabilirsiniz.** Kazançlarınızı kullanım döneminin sonuna kadar kullanmayacaksanız, bu kazançları kullanım süresi sona erer. Talep **dönemi,** teşvik programı etkinlikleriniz için geri ödeme talepte bulundurabilirsiniz altı aylık dönemdir.
+Kazançlarınızı tahakkuk eden altı aylık dönem Kazanç **döneminiz olur.** Bu kazançları, sonraki altı aylık Kullanım dönemi boyunca bir noktada **kullan gerekir.** Kazançlarınızı kullanım döneminin sonuna kadar kullanmayacaksanız, bu kazançları kullanım süresi sona erer. **Talep dönemi,** teşvik programı etkinlikleriniz için geri ödeme talep ediye sahip olduğunu altı aylık dönemdir.
 
-Aşağıdaki tabloda farklı kazanç, kullanım ve talep dönemleri gösterilmiştir. Aksi belirtilmedikçe dönemler ilk ayın ilk gününden son ayın son gününe kadar uzatılacaktır.
+Aşağıdaki tabloda farklı kazanç, kullanım ve talep dönemleri gösterilmiştir. Aksi belirtilmedikçe, dönemler ilk ayın ilk gününden son ayın son gününe kadar uzatılacaktır.
 
 |  Kazanç/tahakkuk döneminiz  |Mali yarı yıllık döneminiz:  |  Kullanım döneminiz şu şekildedir:  |  Talep döneminiz şu şekildedir:  |
 | :-----------: | :-----------: | :-----------: | :-----------: |
 |**Temmuz - Ara 2020**| FY21 H1  |  Ocak - Haziran 2021  |  16 Şubat - 15 Ağustos 2021  |
-|**Ocak - Haziran 2021** |  FY21 H2  |  Temmuz - Ara 2021  |  16 Ağu 2021 - 15 Şubat 2022  |
+|**Ocak - Haziran 2021** |  FY21 H2  |  Temmuz - Ara 2021  |  16 Ağustos 2021 - 15 Şubat 2022  |
 |**Temmuz - Ara 2021**|  FY22 H1  |  Ocak - Haziran 2022  |  16 Şubat - 15 Ağustos 2022  |
-|**Ocak - Haziran 2022** |  FY22 H2  |  Temmuz - Ara 2022  |  16 Ağu 2022 - 15 Şubat 2023  |
+|**Ocak - Haziran 2022** |  FY22 H2  |  Temmuz - Ara 2022  |  16 Ağustos 2022 - 15 Şubat 2023  |
 
 >[!NOTE]
 >Microsoft, özgün yürütme kanıtı (PoE) belgeleri talep hakkına sahiptir. Tüm özgün belgelerinizi etkinlik tarihinden sonra 24 ay boyunca tutabilirsiniz.

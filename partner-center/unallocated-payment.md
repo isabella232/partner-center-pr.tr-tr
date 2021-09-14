@@ -4,17 +4,17 @@ ms.topic: how-to
 ms.date: 06/08/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-billing
-description: İş Ortağı Merkezi Faturalama sayfasında, konumlanmamış ödemelerin ne İş Ortağı Merkezi öğrenin. Ayrıca bunları faturalarınıza nasıl uygulayacaklarını da öğrenin.
+description: İş Ortağı Merkezi Faturalama sayfasında bu ayki ödemelerin ne olduğunu öğrenin. Ayrıca bunları faturalarınıza nasıl uygulayacaklarını da öğrenin.
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 8a5f1264dfdb4059d63db6cbf361e6c2f34d8bd2
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123961540"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126248630"
 ---
 # <a name="manage-unallocated-payments-on-your-partner-center-billing-page"></a>İş Ortağı Merkezi Faturalama sayfasındaki İş Ortağı Merkezi yönetme
 
@@ -36,4 +36,4 @@ Siz bunları bir faturaya atayana kadar, taşınmamış ödemeler taşınmamış
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-- [Ticari market ürün ve abonelikleri için faturalama İş Ortağı Merkezi](csp-commercial-marketplace-billing.md)
+- [Ticari market ürünleri ve abonelikleri için faturalama İş Ortağı Merkezi](csp-commercial-marketplace-billing.md)

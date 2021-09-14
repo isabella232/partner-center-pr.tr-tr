@@ -10,11 +10,11 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
 ms.openlocfilehash: 55e502895b63e1c1a7e41f3d316355bedd7f7001
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960685"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126249114"
 ---
 # <a name="analyze-your-leads---see-how-well-you-attract-target-customers-and-potential-referrals"></a>Müşteri adaylarınızı analiz edin: Hedef müşterileri ve potansiyel referansları ne kadar iyi çektiğinizi görün
 <!-- 

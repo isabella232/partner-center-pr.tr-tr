@@ -10,11 +10,11 @@ ms.author: vavargh
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
 ms.openlocfilehash: db730436e88118c24aa966c1023ffeeadd20548a
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960544"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126248590"
 ---
 # <a name="locate-important-ids-for-a-user"></a>Bir kullanıcı için önemli kimlikleri bulma
 
@@ -22,7 +22,7 @@ ms.locfileid: "123960544"
 
 Bu makalede, bir kullanıcıya Azure portal [bilgileri](https://portal.azure.com/) bulmak için Azure portal nasıl kullanabileceğiniz açıklanmıştır:
 
-- Kullanıcının Microsoft Azure Active Directory kuruluşuna veya şirketin kiracı kimliğine (Azure AD) göre
+- Kullanıcının Microsoft Azure Active Directory (Azure AD) kiracı kimliği
 
 - Azure AD kiracısı ile ilişkili kuruluşun veya şirketin birincil etki alanı adı
 
@@ -33,19 +33,19 @@ Bu makalede, bir kullanıcıya Azure portal [bilgileri](https://portal.azure.com
 Azure AD kiracı kimliğini veya etki alanı içindeki birincil etki alanı adını bulmak için bu Azure portal. (Kiracı kimliğini program aracılığıyla bulmak için bkz. [PowerShell](/azure/active-directory/fundamentals/active-directory-how-to-find-tenant#find-tenant-id-with-powershell)veya CLI ile kiracı kimliğini bulma.)
 
 > [!NOTE]
-> Kiracı kimliği, farklı uygulamalarda veya kaynaklarda farklı adlar olarak çağrıl olabilir. Örneğin, kiracı kimliğine dizin kimliği, Azure Active Directory (Azure AD) kiracısı, Microsoft kimliği veya belirli raporlar için, hatta kiracı tarafından yönlendirilen olarak *başvurul olabilir.*
+> Kiracı kimliği, farklı uygulamalarda veya kaynaklarda farklı adlar olarak çağrıl olabilir. Örneğin, kiracı kimliğine dizin kimliği, Azure Active Directory (Azure AD) kiracısı, Microsoft kimliği veya belirli raporlar için, hatta kiracı tarafından yönlendirilen adı *olabilir.*
 
 1. [Azure Portal](https://portal.azure.com/)’ında oturum açın.
 
 2. Menüden **Azure Active Directory'yi** seçin.
 
-   :::image type="content" source="images/id/1-find-id-azure-portal-home-screen.png" alt-text="Menüde Azure portal seçerek Azure Active Directory seçeneğini gösterir.":::
+   :::image type="content" source="images/id/1-find-id-azure-portal-home-screen.png" alt-text="Menüden Azure portal seçerek Azure Active Directory seçeneğini gösterir.":::
 
 3. Bir Azure Active Directory **Genel Bakış** sayfası görüntülenir. Azure AD kiracı kimliğini veya birincil etki alanı adını bulmak için Kiracı Kimliği **alanını ve** Birincil etki **alanı alanını** bulun. Bu alanlar Kiracı bilgileri bölümünde görünür.
 
    :::image type="content" source="images/id/2-find-id-azure-portal-azure-ad-overview-tenant-id-partial-screen.png" alt-text="Kiracı kimliği ve birincil etki alanı adı olmak için vurgulanmış iki alanla Genel Bakış sayfasını gösterir.":::
 
-4. Kiracı kimliğini kiracı Azure portal birkaç şekilde bulabilirsiniz. Menüden **Azure Active Directory'yi** seçin. Ardından, menüde **Yönet bölümünü** bulun ve Özellikler'i **seçin.**
+4. Kiracı kimliğini kiracı Azure portal birkaç şekilde bulabilirsiniz. Menüden **Azure Active Directory'yi** seçin. Ardından menüde Yönet **bölümünü** bulun ve Özellikler'i **seçin.**
 
    Özellikler sayfasında kullanıcının ilişkili Kiracı Kimliği de görüntülenir.
 
@@ -53,7 +53,7 @@ Azure AD kiracı kimliğini veya etki alanı içindeki birincil etki alanı adı
 
 ## <a name="find-the-user-object-id"></a>Kullanıcı nesnesi kimliğini bulma
 
-Yalnızca etki alanı adını ve kiracı kimliğini bulmak her zaman yeterli olabilir. Ayrıca, bir kullanıcıya atanan belirli nesne kimliğini de bulmanız gerekir. Kullanıcının nesne kimliğini aşağıdaki adımlarda bulmak için aşağıdaki adımları Azure portal:
+Yalnızca etki alanı adını ve kiracı kimliğini bulmak her zaman yeterli olabilir. Ayrıca, bir kullanıcıya atanan belirli nesne kimliğini de bulmanız gerekir. Kullanıcının nesne kimliğini aşağıdaki adımlarda bulmak için Azure portal:
 
 1. [Azure Portal](https://portal.azure.com/)’ında oturum açın.
 
@@ -61,7 +61,7 @@ Yalnızca etki alanı adını ve kiracı kimliğini bulmak her zaman yeterli ola
 
 3. Menüde **Yönet bölümünü** bulun ve Kullanıcılar'ı **seçin.**
 
-      :::image type="content" source="images/id/4-find-id-azure-portal-aad-manage-users-option.png" alt-text="Kullanıcılar Azure Active Directory vurgulanmış Bir Menüyü gösterir.":::
+      :::image type="content" source="images/id/4-find-id-azure-portal-aad-manage-users-option.png" alt-text="Kullanıcılar Azure Active Directory vurgulanmış bir menü görüntülenir.":::
 
 4. Kullanıcılar sayfasında, arama kutusuna kullanıcının adını yazın.
 

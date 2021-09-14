@@ -10,11 +10,11 @@ ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 71121a7493da8dee18fc65a90a4a70cc32d712c9
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123961155"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126248358"
 ---
 # <a name="one-time-exam-requirements-exemption-for-the-application-development-competency"></a>Uygulama Geliştirme uzmanlığı için bir kezlik sınav gereksinimleri muafiyeti
 
@@ -24,9 +24,9 @@ Artık eski ISV yetkinliğine sahip olduysanız ve aşağıdaki senaryolardan bi
 
 ISV uzmanlığına sahip iş ortakları:
 
-- **ISV yetkinliğinizin** süresi doldu – Tek kullanımlık sınav gereksinimleri muafiyeti, 22 Kasım 2019 İş Ortağı Merkezi tarihinde kullanılabilir. Tekliflerden yararlanmak için 30 gün zamannız var. Şirketle ilgili İş Ortağı Merkezi için oturum açma.
+- **ISV yetkinliğinizin** süresi doldu – Tek kullanımlık sınav gereksinimleri muafiyeti 22 Kasım 2019 İş Ortağı Merkezi tarihinde kullanılabilir. Tekliflerden yararlanmak için 30 gün zamannız var. Şirketle ilgili İş Ortağı Merkezi için oturum açma.
 
-- **Uzmanlık üyeliğiniz kendi** yenileme penceresinde – 22 Kasım 2019'dan İş Ortağı Merkezi sınav gereksinimleri muafiyeti sağlanıyor. Tekliflerden yararlanmak için 30 gün zamannız var. Şirketle ilgili İş Ortağı Merkezi için oturum açma.
+- **Uzmanlık üyeliğiniz kendi** yenileme penceresinde – 22 Kasım 2019'dan başlayarak İş Ortağı Merkezi sınav gereksinimleri muafiyeti kullanılabilir. Tekliflerden yararlanmak için 30 gün zamannız var. Şirketle ilgili İş Ortağı Merkezi için oturum açma.
 
 - **Uzmanlık üyeliğinizin yenilenmesi** önümüzdeki aylarda yapılacaktır. Tek kez sınav gereksinimleri muafiyeti, yenilenme zamanı geldiğinde size sağlanacak. Bu süre boyunca teklifi almak için 30 gün sürene sahip oluruz.
 
@@ -61,7 +61,7 @@ Microsoft iş ortağı web sitesinde Uygulama Geliştirme uzmanlık avantajları
 
 **Bu teklifi elde etmek için yetkinliğimi yenileme zamanı geldiğinde ne olur?** 
 
-Yakında ISV'lere yönelik planlarımız hakkında daha fazla bilgi paylaşacak ve bu teklifin sonucu olarak Uygulama Geliştirme uzmanlığına sahip iş ortaklarına rehberlik sunacağız.**  
+Yakında ISV'lere yönelik planlarımız hakkında daha fazla bilgi paylaşacak ve bu teklifin sonucunda Uygulama Geliştirme uzmanlığına sahip iş ortaklarına rehberlik sunacağız.**  
 
 **Şirketimin ISV uzmanlığı yoksa bu teklifi nasıl elde miyim?**
 

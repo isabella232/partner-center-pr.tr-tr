@@ -10,11 +10,11 @@ ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/18/2021
 ms.openlocfilehash: 29d340b1151a122792749c7cb400d647f42af33a
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960294"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126248628"
 ---
 # <a name="december-2020-announcements"></a>Aralık 2020 duyuruları
 
@@ -167,7 +167,7 @@ Sorularınız için [Ticari Arama GTM ekibine](mailto:CommercialSearchGTM@micros
 
 ____________
 
-## <a name="government-academic-and-non-profit-continuing-the-open-license-program-changes-and-evolution-of-csp"></a><a name="9"></a>Kamu, akademik ve kar amacı gütmeyen: Açık Lisans programı değişikliklerinin ve CSP'nin evrimini devam ettiren
+## <a name="government-academic-and-non-profit-continuing-the-open-license-program-changes-and-evolution-of-csp"></a><a name="9"></a>Kamu, akademik ve kar amacı gütmeyen: Açık Lisans programını devam ettiren değişiklikler ve CSP'nin gelişimi
 
 ### <a name="categories"></a>Kategoriler
 
@@ -180,7 +180,7 @@ Tüm CSP iş ortakları
 
 ### <a name="details"></a>Ayrıntılar
 
-Bugün, bulut için [](https://blogs.partner.microsoft.com/mpn/expanding-opportunities-for-partners-in-the-cloud-solution-provider-program/)öncelik belirlemeye devam etti olarak, Açık Lisans programı aracılığıyla satın alan kamu sektörü (kamu, eğitim ve kar amacı gütmeyen) müşteriler için gelecekteki değişikliklere ve Bulut Çözümü Sağlayıcısı programıyla ilgili değişikliklere ilişkin bildirim sağlıyoruz.
+Bugün, bulut için [](https://blogs.partner.microsoft.com/mpn/expanding-opportunities-for-partners-in-the-cloud-solution-provider-program/)öncelik belirlemeye devam etti olarak, Açık Lisans programı aracılığıyla satın alan kamu sektörü (kamu, eğitim ve kar amacı gütmeyen kuruluş) müşterileri için gelecekteki değişiklikleri ve Bulut Çözümü Sağlayıcısı programıyla ilgili değişiklikleri duyururuz.
 
 ### <a name="next-steps"></a>Sonraki adımlar
 
@@ -224,7 +224,7 @@ Microsoft güven üzerinde çalışır. CSP programında müşteri aboneliklerin
     - Birleşik Arap Emirlikleri
     - Venezuela
 
-Ölçütlere uyan iş ortaklarının, bir sonraki müşteri için bir abonelik güncelleştirmesi veya oluşturması için müşterinin şirket kayıt kimliğini (müşterinin kuruluş INN'si olarak da bilinir) ve telefon numarasını göndermesi gerekir. Ayrıca bu iş ortakları müşteri için isteğe bağlı bir ikinci ad da girebilir.
+Ölçütlere uyan iş ortaklarının, müşterinin şirket kayıt kimliğini (müşterinin kuruluş INN'si olarak da bilinir) ve bu müşteri için bir sonraki güncelleştirme veya abonelik oluşturma işlemi sırasında telefon numarasını göndermesi gerekir. Ayrıca bu iş ortakları müşteri için isteğe bağlı bir ikinci ad da girebilir.
 
 Şirket kayıt kimliğinizi eklerken, müşterinin kişisel kimliğini değil, iş verginizi kullanmanız gerektiğini unutmayın.
 
@@ -253,7 +253,7 @@ Dünyanın geri kalanındaki müşterilerle iş ortakları, Mart 2021'in sonunda
 
 ### <a name="questions"></a>Sorularınız mı var?
 
-Şirket kayıt kimliğiyle (INN veya TIN olarak da adlandırılan) ilgili sorularınız varsa vergi danışmanınıza veya yerel vergi ofisinize ulaşın. Microsoft, vergiler konusunda rehberlik sağamaz.
+Şirket kayıt kimliğiyle (INN veya TIN olarak da adlandırılan) ilgili sorularınız varsa vergi danışmanınıza veya yerel vergi ofisinize ulaşın. Microsoft, vergi konularıyla ilgili rehberlik sağamaz.
 
 Microsoft ile işlemleriniz için de destek gerekirse bir hizmet [isteği açın.](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=aa679372-d996-73df-e244-cb28bbbf28e8)
 
@@ -269,7 +269,7 @@ Microsoft ile işlemleriniz için de destek gerekirse bir hizmet [isteği açın
 
 ______________
 
-## <a name="reminder-perpetual-software-in-the-cloud-solution-provider-csp-program-broadly-available-from-january-2021"></a><a name="7"></a>Anımsatıcı: Bulut Çözümü Sağlayıcısı (CSP) programı içinde kalıcı yazılım Ocak 2021'den itibaren geniş bir şekilde kullanılabilir
+## <a name="reminder-perpetual-software-in-the-cloud-solution-provider-csp-program-broadly-available-from-january-2021"></a><a name="7"></a>Anımsatıcı: Bulut Çözümü Sağlayıcısı (CSP) programı içinde kalıcı yazılım Ocak 2021'den itibaren geniş bir kitleye sunulmaktadır
 
 ### <a name="categories"></a>Kategoriler
 
@@ -287,15 +287,15 @@ Tüm CSP iş ortakları
 ### <a name="details"></a>Ayrıntılar
 
 >[!NOTE]
->İş ortağı geri bildirimi nedeniyle, kalıcı ve İş Ortağı Merkezi abonelik yazılım siparişleri için yazılım ve lisans anahtarları elde etmek üzere yeni bir uygulama gerçekleştirme özelliğini yeniden hazırlarız. 19 Ocak 2021'de kaldırılmasından önceki durumuna geri yüklenecektir. Daha fazla bilgi için Bkz. [Mart 2021 duyurusu.](./2021-march.md#4)
+>İş ortağı geri bildirimi nedeniyle, kalıcı ve İş Ortağı Merkezi abonelik yazılım siparişleri için yazılım ve lisans anahtarları alma olanağını yeniden kullanmaya devam ediyoruz. 19 Ocak 2021'de kaldırılmasından önceki durumuna geri yüklenecektir. Daha fazla bilgi için Bkz. [Mart 2021 duyurusu.](./2021-march.md#4)
 
-**19 Ocak 2021'den** itibaren CSP programına kayıtlı tüm iş ortaklarının CSP aracılığıyla şirket içi dağıtım için ticari kalıcı yazılım lisansları satabileceklerini anımsatacağız. Bu, müşterilere dijital dönüşümlerinin bir parçası olarak gereken lisans esnekliğini sağlar.
+**19 Ocak 2021'den** itibaren CSP programına kayıtlı tüm iş ortaklarının CSP aracılığıyla şirket içi dağıtım için ticari kalıcı yazılım lisansları satabileceklerini anımsatmayı amaçlıyız. Bu, müşterilere dijital dönüşümlerinin bir parçası olarak gereken lisans esnekliğini sağlar.
 
 Aynı tarihte de aşağıdakiler olur:
 
-- CSP kalıcı yazılım fiyat listesi, İş Ortağı Merkezi. Bunu, ek ürünler ve **coğrafyalar** [içeren > Fiyatlandırma &](https://partnercenter.microsoft.com/pcv/sales) Teklifleri sayfasının Yazılım bölümünde bulabilirsiniz. Ayrıntıların tamamını [burada](https://partner.microsoft.com/resources/detail/software-in-csp-new-products-geos-pdf) görüntüleyebilirsiniz.
+- CSP kalıcı yazılım fiyat listesi, İş Ortağı Merkezi. Bunu, ek ürünler **ve coğrafyalar** [içeren > Fiyatlandırma &](https://partnercenter.microsoft.com/pcv/sales) Teklifler sayfasının Yazılım bölümünde bulabilirsiniz. Ayrıntıların tamamını [burada](https://partner.microsoft.com/resources/detail/software-in-csp-new-products-geos-pdf) görüntüleyebilirsiniz.
 
-- Yazılım İş Ortağı Merkezi lisans anahtarı gerçekleştirme özelliği kullanımdan kaldır - duyuruya bakın [ve](./2020-september.md#17) iş ortakları, müşterileri bu amaçla özel olarak Microsoft 365 Yönetici Merkezi'nde kullanmaya işaret eder. Bu, müşteriler için en güvenli ve verimli deneyimi sağlar. Microsoft 365 Yönetici Center yazılımı hakkında daha fazla bilgi edinmek için genel [bakışı,](https://support.microsoft.com/office/admin-center-overview-fa715fa8-6eda-456d-b177-d1c156edd1b3) [ortak](/microsoft-365/admin/admin-overview/about-the-admin-center?preserve-view=true&view=o365-worldwide)görevleri ve lisans anahtarı gerçekleştirme özelliklerini [gözden geçirebilirsiniz.](https://partner.microsoft.com/resources/detail/microsoft-365-admin-center-software-key-download-pdf)
+- Yazılım İş Ortağı Merkezi lisans anahtarı gerçekleştirme özelliği kullanımdan kaldır - duyuruya bakın [ve](./2020-september.md#17) iş ortakları, müşterileri bu amaçla özel olarak Microsoft 365 Yönetici Merkezi'nde kullanmaya işaret eder. Bu, müşteriler için en güvenli ve verimli deneyimi sağlar. Microsoft 365 Yönetici Center yazılımı hakkında daha fazla bilgi edinmek için genel [bakış,](https://support.microsoft.com/office/admin-center-overview-fa715fa8-6eda-456d-b177-d1c156edd1b3)ortak [görevler](/microsoft-365/admin/admin-overview/about-the-admin-center?preserve-view=true&view=o365-worldwide)ve lisans anahtarı gerçekleştirme özelliklerini [gözden geçirebilirsiniz.](https://partner.microsoft.com/resources/detail/microsoft-365-admin-center-software-key-download-pdf)
 
 ### <a name="perpetual-software-in-csp"></a>CSP'de kalıcı yazılım
 
@@ -468,7 +468,7 @@ Aralık lisans tabanlı fiyat listeleri, Fiyat listelerinde olmaması gereken a�
    |Dynamics 365 İnsan Kaynakları Uygun Dynamics 365 Temel Teklifine Ekleme (Kar Amacı Gütmeyen Kuruluşlar Fiyatlandırması)|8bf0b826-e05b-45aa-9cd1-9a9f742f7731|
    |Dynamics 365 İnsan Kaynakları Uygun Dynamics 365 Temel Teklifine Ekleme (Kar Amacı Gütmeyen Fiyatlandırması) (Nitelikli Teklif)|f906435d-9dc9-42ba-bea6-2a2b08ca60db|
    |Dynamics 365 İnsan Kaynakları Korumalı Alanı (Kar Amacı Gütmeyen Kuruluşlar Fiyatlandırması)|079ec5ba-d726-4384-95af-62d135c210d2|
-   |Dynamics 365 İnsan Kaynakları Self-Service (Kar Amacı Gütmeyen Fiyatlandırma)|931acecc-34c3-4f83-913e-c7fdbfd7e2a1|
+   |Dynamics 365 İnsan Kaynakları Self-Service (Kar Amacı Gütmeyen Kuruluşlar Fiyatlandırması)|931acecc-34c3-4f83-913e-c7fdbfd7e2a1|
    |Dynamics 365 İşlemleri – Sipariş Satırları (Kar Amacı Gütmeyen Fiyatlandırma)|7dd6b78a-3d53-47f8-8a64-bd84609a9a70|
    
 #### <a name="incorrect-offers-in-the-offer-list-matrix"></a>Teklif listesi matrisinde yanlış teklifler
@@ -486,7 +486,7 @@ Bu teklif teklif listesi matrisinde yer aldı ancak Aralık fiyat listesine dahi
 
    |**Teklif adı**|**Teklif Kimliği**|
    |-------------------|:------|
-   |Power Apps planı başına uygulama sayısı|5e1087b6-246b-4503-b88a-b60bdf0b3840|
+   |Power Apps planı başına bir uygulama|5e1087b6-246b-4503-b88a-b60bdf0b3840|
 
 ### <a name="next-steps"></a>Sonraki adımlar
 
@@ -498,7 +498,7 @@ Sürüm notlarını, diğer sorunlar ortaya çıkarılma sık sık bu duyuruya e
 
 ______________
 
-## <a name="an-update-of-the-us-microsoft-365-business-voice-with-calling-plan-offer-is-coming-soon"></a><a name="2"></a>Arama Planı teklifinin ABD Microsoft 365 Küçük İşletmeler için Ses güncelleştirmesi yakında geliyor
+## <a name="an-update-of-the-us-microsoft-365-business-voice-with-calling-plan-offer-is-coming-soon"></a><a name="2"></a>Arama Planı teklifinin ABD Microsoft 365 Küçük İşletmeler için Ses yakında güncelleştirilecek
 
 ### <a name="categories"></a>Kategoriler
 
@@ -515,7 +515,7 @@ Bulut Çözümü Sağlayıcısı (CSP) programı aracılığıyla işlem yapıla
 
 ### <a name="details"></a>Ayrıntılar
 
-Microsoft, ABD'de mevcut Business Voice ile Arama planı teklifini telco ürünleri için iç gereksinimleri desteklemek için yeni bir teklifle değiştirecek. Yeni teklif aynı özellik kümesine ve fiyatlandırmaya sahip olacak. Teklif değişiklikleri Microsoft'un içindedir ve CSP iş ortaklarının Arama Planı ile İş Sesi teklifini pazarla, satarak veya desteklemesini etkilemez. Değişiklik yalnızca bu teklif için geçerlidir.
+Microsoft, ABD'de mevcut Business Voice ile Arama planı teklifini telco ürünleri için iç gereksinimleri desteklemek için yeni bir teklifle değiştirecek. Yeni teklif aynı özellik kümesine ve fiyatlandırmaya sahip olacak. Teklif değişiklikleri Microsoft'un içindedir ve CSP iş ortaklarının Arama Planı ile business Voice teklifini pazarla, satarak veya desteklemesini etkilemez. Değişiklik yalnızca bu teklif için geçerlidir.
 
 Yeni satışlar için, 1 Ocak 2021'den başlayarak yeni teklifi kullanamaya başlayacaktır. Eski teklif, fiyat listesinde yeni teklifle değiştirilir.
 
@@ -553,25 +553,25 @@ Bulut Çözümü Sağlayıcısı programı aracılığıyla Akademik teklif sat�
 
 ### <a name="summary"></a>Özet 
 
-Microsoft güven üzerinde çalışır. Akademik tekliflerin bu programda işlemesi için uyumlu, güvenli ve güvenli bir müşteri doğrulama yöntemi Bulut Çözümü Sağlayıcısı taahhütte bulunduk. Bu taahhüdün bir parçası olarak, müşteri inceleme sürecine netlik ve görünürlük eklemenin yanı sıra daha doğru veriler girebilme olanağını da ek olarak müşteri inceleme başarısını artıracak İş Ortağı Merkezi API'si ve kullanıcı arabirimi iyileştirmeleri sağlıyoruz. 
+Microsoft güven üzerinde çalışır. Bu programda Akademik tekliflerin işlemesi için uyumlu, güvenli ve güvenli bir müşteri doğrulama yöntemi sağlamak Bulut Çözümü Sağlayıcısı taahhütte bulunduk. Bu taahhüdün bir parçası olarak, müşteri inceleme sürecine netlik ve görünürlük eklemenin yanı sıra daha doğru veriler girebilme olanağını da ek olarak müşteri inceleme başarısını artıracak İş Ortağı Merkezi API'si ve kullanıcı arabirimi iyileştirmeleri sağlıyoruz. 
 
 **İş Ortağı Merkezi geliştirmeleri** 
 
-- Doğru veri girişini desteklemek ve Microsoft'un Eğitim müşteri doğrulama sürecini geliştirmek için yeni GET ve POST NitelikLER API'leri. 
+- Doğru veri girişini desteklemek ve Microsoft tarafından Eğitim müşterisi doğrulama sürecini geliştirmek için yeni GET ve POST Nitelikler API'leri. 
 
 - Doğru veri girişini desteklemek ve Microsoft'un Eğitim müşteri doğrulama sürecini geliştirmek için kullanıcı arabirimi geliştirmeleri. 
 
 **Mevcut GET ve PUT Nitelik API'leri kullanımdan kalk** 
 
-Mevcut GET ve PUT Nitelik API'leri Şubat **2021'in sonundan önce sona erer.** Eğitim tekliflerini satın almak için yeni GET ve POST İş Ortağı Merkezi API'lere geçiş yapmak gerekir.  
+Mevcut GET ve PUT Nitelik API'leri Şubat **2021'in sonundan önce sona erer.** Bu sırada Eğitim tekliflerini satın almak için yeni GET ve POST İş Ortağı Merkezi API'lere geçiş yaptıyabilirsiniz.  
 
 **Test etme** 
 
-Başarılı müşteri doğrulaması için gereken API'leri ve veri girişini daha iyi anlamak için iş ortakları bu geliştirmeleri test ediyor olabilir. Teste katılmak isteyen iş ortaklarının [İş Ortağı Merkezi Eğitim](https://partner.microsoft.com/resources/detail/partner-center-edu-testing-guide-pdf) müşteri testi kılavuzunu indirmesi ve hazırlama, kaydolma ve test aşamasında neler beklemesi gerektiği hakkında bilgi için yönergeleri indirmesi gerekir.
+Başarılı müşteri doğrulaması için gereken API'leri ve veri girişini daha iyi anlamak için iş ortakları bu geliştirmeleri test ediyor olabilir. Teste katılmak isteyen iş ortaklarının [İş Ortağı Merkezi Eğitim](https://partner.microsoft.com/resources/detail/partner-center-edu-testing-guide-pdf) müşteri testi kılavuzunu indirmesi ve hazırlama, kaydolma ve test aşamasında neler beklemesi gerektiği hakkında bilgi edinebilirsiniz.
 
 **Library ve Library müşterileri** 
 
-Yukarıdaki iyileştirmelere ek olarak, Kitaplık ve Kitaplık müşterileri için Akademik olarak fiyatlandırarak CSP tekliflerini işlemde bulundurarak Eğitim müşterilerini genişleteceklerini duyurmak istiyoruz. 
+Yukarıdaki iyileştirmelere ek olarak, Kitaplık ve Kitaplık müşterileri için Akademik fiyatlarda teklifleri etkinleştirip CSP tekliflerini birlikte işlemde bulundurarak Eğitim müşterilerini genişleteceklerini duyurmak istiyoruz. 
 
 Microsoft, herhangi bir müşterinin veya önerilen müşterinin durumunu nitelikli eğitim kullanıcısı olarak gözden geçirme hakkını hakkıyla karşılar. Tüm ayrıntılar [için bkz. Akademik Nitelikli Eğitim](https://www.microsoftvolumelicensing.com/DocumentSearch.aspx?Mode=3&DocumentTypeId=7) Kullanıcı Gereksinimleri. 
 

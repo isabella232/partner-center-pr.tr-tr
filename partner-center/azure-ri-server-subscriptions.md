@@ -4,19 +4,19 @@ ms.topic: article
 ms.date: 11/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-pricing
-description: Müşteriler için Azure Bulut Çözümü Sağlayıcısı ve Sunucu aboneliklerini edinme, sağlama ve yönetme fırsatlarını öğrenin.
+description: Müşteriler için Bulut Çözümü Sağlayıcısı Azure rezervasyonlarını ve Sunucu aboneliklerini edinme, sağlama ve yönetme fırsatlarını öğrenin.
 author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 752b7b9eee2da69dec597f56d1ddc2968aa7c29a
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123961265"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126248321"
 ---
-# <a name="acquire-provision--manage-azure-reserved-vm-instances-ri--server-subscriptions-for-customers"></a>Müşteriler için Azure ayrılmış vm & (RI) + sunucu aboneliklerini edinme, sağlama ve yönetme
+# <a name="acquire-provision--manage-azure-reserved-vm-instances-ri--server-subscriptions-for-customers"></a>Müşteriler için Azure ayrılmış vm & (RI) + sunucu aboneliklerini edinme, sağlama, yönetme
 
 
 **Uygun roller:** Yönetici aracısı | Genel yönetici | Yardım masası aracısı | Satış aracısı | Kullanıcı yönetimi yöneticisi
@@ -24,26 +24,26 @@ ms.locfileid: "123961265"
 
 ## <a name="what-are-azure-reservations"></a>Azure Ayırmaları nedir?
 
-Azure Rezervasyonları bir yıllık veya üç yıllık sanal makine, SQL Veritabanı işlem kapasitesi, Azure Cosmos DB aktarım hızı veya diğer Azure kaynakları için ön ödemeyle tasarruf etmeye yardımcı olur. Önceden ödeme yapmak, kullanmakta olduğu kaynaklarda indirim elde etmek için kullanılabilir. Rezervasyonlar, sanal makinenizi, SQL veritabanı işlem, Azure Cosmos DB ve diğer kaynak maliyetlerinizi, kullanım başına öde fiyatlarına kıyasla %72'ye varan oranda düşürebilirsiniz. Rezervasyonlar bir faturalandırma indirimi sağlar ve kaynaklarınızın çalışma zamanı durumunu etkilemez. Daha fazla bilgi için [bkz. Azure Rezervasyonları nedir?](/azure/billing/billing-save-compute-costs-reservations)
+Azure Rezervasyonları bir yıllık veya üç yıllık sanal makine, SQL Veritabanı işlem kapasitesi, Azure Cosmos DB aktarım hızı veya diğer Azure kaynakları için ön ödemeyle tasarruf etmeye yardımcı olur. Önceden ödeme yapmak, kullanmakta olduğu kaynaklarda indirime sahip olur. Rezervasyonlar, sanal makinenizi, SQL veritabanı işlem, Azure Cosmos DB ve diğer kaynak maliyetlerini, kullanım başına öde fiyatlarına kıyasla %72'ye varan oranda düşürebilirsiniz. Rezervasyonlar bir faturalandırma indirimi sağlar ve kaynaklarınızın çalışma zamanı durumunu etkilemez. Daha fazla bilgi için [bkz. Azure Rezervasyonları nedir?](/azure/billing/billing-save-compute-costs-reservations)
 
 ## <a name="why-should-customers-buy-a-reservation"></a>Müşteriler neden rezervasyon satın alsın?
 
-Müşterilerin sanal makineleri, Azure Cosmos DB veya SQL veritabanları varsa, rezervasyon satın almak onlara en uygun maliyetli seçeneği sunar. Örneğin, bir müşteri sürekli olarak rezervasyon olmadan bir hizmetin dört örneğini çalıştırırsa, bu müşteriler, öde öde fiyatlarıyla ücret öder. Bu kaynaklar için rezervasyon satın almaları durumunda hemen rezervasyon indirimi elde edilir. Kaynaklar artık kullandıkça öde tarifelerine göre ücretlendirilmez.
+Müşterilerin sanal makineleri, Azure Cosmos DB veya SQL uzun süre çalıştıran veritabanları varsa, rezervasyon satın almak onlara en uygun maliyetli seçeneği sunar. Örneğin, bir müşteri sürekli olarak rezervasyon olmadan bir hizmetin dört örneğini çalıştırırsa, bu müşteriler, öde öde fiyatlarıyla ücret öder. Bu kaynaklar için rezervasyon satın almaları durumunda hemen rezervasyon indirimi elde edilir. Kaynaklar artık kullandıkça öde tarifelerine göre ücretlendirilmez.
 
 ### <a name="compelling-new-azure-offer-in-csp"></a>CSP'de Cazip Yeni Azure teklifi
 
-Microsoft, Azure Rezervasyonları ve Sunucu Aboneliklerini CSP programına getirerek, iş ortaklarının yüksek oranda tahmin edilebilir, kalıcı bulut iş yüklerini desteklemek için daha uygun maliyetli çözümlere yönelik hızlı büyüyen müşteri talebini karşılamak için daha iyi bir seçenektir. CSP programı, iş ortaklarının Microsoft İş Ortağı Merkezi ve Azure portal aracılığıyla ticari müşteriler adına Azure Rezervasyonları ve Sunucu Abonelikleri satın Azure portal.
+Microsoft, Azure Rezervasyonları ve Sunucu Aboneliklerini CSP programına getirerek, iş ortaklarının yüksek oranda tahmin edilebilir, kalıcı bulut iş yüklerini desteklemek için daha uygun maliyetli çözümlere yönelik hızlı büyüyen müşteri talebini karşılamak için daha iyi bir seçenektir. CSP programı, iş ortaklarının Microsoft İş Ortağı Merkezi ve azure hizmetleri aracılığıyla ticari müşteriler adına Azure Rezervasyonları ve Sunucu Abonelikleri Azure portal.
 Hatta CSP programımızda iş ortaklarına Azure rezervasyonlarının nasıl satın alınarak satın alınlarına yardımcı olabiliriz. CSP iş ortakları bir müşteri adına [Azure](azure-reservations-buying.md) rezervasyonları satın alabilir veya müşterinin iş ortağının kendileri için satın aldıklarından önceki bir Azure aboneliğinden kendi rezervasyonlarını satın almalarına olanak sağlar. [](give-customers-permission.md)
 
 Azure Rezervasyonları müşterilere geliştirme ve test etme, uygulamaları çalıştırma ve veri merkezini genişletme gibi çok çeşitli bilgi işlem çözümleri için sanallaştırma esnekliği sağlar.
 
-Örneğin [Azure Ayrılmış VM Örnekleri](https://azure.microsoft.com/pricing/reserved-vm-instances/) müşteriler artık yalnızca 1 veya 3 yıllık bir süre için sanal makineyi satın alarak veya "yeniden satın alarak" azure VM fiyatlandırması yerine %72'ye varan tasarruflar kullanabilir. Windows Azure Hibrit Avantajı ile birlikte Yazılım Güvencesi sunucu müşterileri, %80'e varan tasarruflar ve öde fiyatlandırması ile karşı karşıyadır.
+Örneğin [Azure Ayrılmış VM Örnekleri](https://azure.microsoft.com/pricing/reserved-vm-instances/) müşteriler artık yalnızca 1 veya 3 yıllık bir süre için sanal makineyi satın alarak veya "satın alarak" azure VM fiyatlandırması yerine %72'ye varan tasarruflar kullanabilir. Windows Azure Hibrit Avantajı ile birlikte Yazılım Güvencesi sunucu müşterileri, %80'e varan tasarruflar ve öde fiyatlandırması ile karşı karşıyadır.
 
 Cazip fiyatlandırma ve eşleşmeyen dağıtım esnekliğinin eşleşmeyen bir birleşimiyle, müşteriler Azure Rezervasyonları'ı seçtikleri zaman en iyi genel değeri elde eder.
 
 - [Bkz.](/azure/cost-management-billing/reservations/prepare-buy-reservation#purchase-reservations) Azure Portal'da Rezervasyon satın alma.
 
-- Yazılım abonelikleri ve Linux ISV **yıllık abonelikleri** için Microsoft Azure [](https://partner.microsoft.com/dashboard/sell/pricingandoffers) Fiyatlandırma ve Teklifler sayfasındaki Ayrılmış Örnekler kategorisinin İş Ortağı Merkezi Azure **RI CSP** Ticari Fiyat Listesi'ne bakın.
+- Yazılım abonelikleri ve Linux ISV **yıllık abonelikleri** için Microsoft Azure [](https://partner.microsoft.com/dashboard/sell/pricingandoffers) Fiyatlandırma ve Teklifler sayfasındaki Ayrılmış Örnekler İş Ortağı Merkezi kategorisinin altındaki Azure **RI CSP** Ticari Fiyat Listesi'ne bakın.
 
 
  
@@ -114,7 +114,7 @@ Ticari Lisans [hazırlığı web seminerlerini ve isteğe bağlı olayları](htt
 
 ## <a name="azure-hybrid-benefit"></a>Azure Hibrit Avantajı
 
-Bu [Azure Hibrit Avantajı,](https://azure.microsoft.com/pricing/hybrid-benefit) Yazılım Güvencesi lisansına sahip olan müşteriler için fiyatlandırma avantajıdır. Bu avantaj, Azure'a Windows Sunucusu'na ve/veya SQL Server lisans yatırımlarının değerini en üst düzeye çıkarmanıza yardımcı olur. Uygun müşteriler Azure Sanal Makinelerde (hizmet olarak altyapı veya IaaS Azure Hibrit Avantajı) %40'a varan tasarruflar ve Azure SQL Veritabanı (hizmet olarak platform veya PaaS) ile Azure Sanal Makinelerde (IaaS SQL Server) %55'e varan tasarruflar kullanabilir ve bu da Azure Ayrılmış Örnekleri ile birleştirildiklarında %80'e kadar artar.
+Bu [Azure Hibrit Avantajı,](https://azure.microsoft.com/pricing/hybrid-benefit) Yazılım Güvencesi lisansına sahip olan müşteriler için fiyatlandırma avantajıdır. Bu avantaj, Azure'a Windows Server'a ve/veya SQL Server lisans yatırımlarının değerini en üst düzeye çıkarmanıza yardımcı olur. Uygun müşteriler Azure Sanal Makinelerde (hizmet olarak altyapı veya IaaS) %40'a varan tasarruflar ve Azure SQL Veritabanı 'da (hizmet olarak platform veya PaaS) ve Azure Hibrit Avantajı ile Azure Sanal Makinelerde (IaaS) SQL Server'da %55'e varan tasarruflar kullanabilir. Bu da Azure Ayrılmış Örnekleri ile birleştirildiklarında %80'e kadar artar.
 
 ## <a name="next-steps"></a>Sonraki adımlar
 

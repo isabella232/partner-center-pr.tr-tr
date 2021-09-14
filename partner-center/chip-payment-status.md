@@ -2,7 +2,7 @@
 title: CHIP’te ödeme durumunu denetleme
 ms.topic: how-to
 ms.date: 11/09/2020
-description: Ödeme durumunu kontrol etmek için Channel Incentives Platform'unu (CHIP) kullanmayı öğrenin. CHIP'in 2021 sonunda kaldır olacağını unutmayın.
+description: Ödeme durumunu denetlemek için Channel teşvikleri platformunun (yonga) nasıl kullanılacağını öğrenin. YONGASıNıN 2021 sonunda devre dışı olacağını unutmayın.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
@@ -10,29 +10,29 @@ ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 4bd3ff28dbc0ff159a68827735b81be5ac1eb948
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123961214"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126248620"
 ---
-# <a name="check-payment-status-in-the-channel-incentives-platform-chip"></a>Channel Incentives Platform'da (CHIP) ödeme durumunu denetleme
+# <a name="check-payment-status-in-the-channel-incentives-platform-chip"></a>Channel teşvikleri platformunda (yonga) ödeme durumunu denetleme
 
-**Uygun roller:** CHIP yöneticisi
+**Uygun roller**: yonga Yöneticisi
 
 >[!NOTE]
->CHIP platformu 2021'in sonunda sona erer.
+>YONGA platformu 2021 sonunda kullanımdan kaldırılacaktır.
 
-## <a name="payment-status-for-the-enterprise-and-splar-programs"></a>Enterprise ve SPLAR programları için ödeme durumu
+## <a name="payment-status-for-the-enterprise-and-splar-programs"></a>Enterprise ve splar programları için ödeme durumu
 
-CHIP'te ödeme durumunu kontrol etmek için, Enterprise ve SPLAR Programları için lütfen aşağıdaki adımları izleyin:
+Enterprise ve splar programları için yongadaki ödeme durumunuzu denetlemek için lütfen aşağıdaki adımları izleyin:
 
-1. CHIP'de oturum açma.
+1. YONGASıNDA oturum açın.
  
-1. Panoyu **açmak Enterprise** CHIP giriş ekranındaki Enterprise veya **SPLAR** programı bağlantısını seçin. Pano, tüm kazançlarınız ve ödemelerinizi özet ekranıdır.
+1. panoyu açmak için yonga giriş ekranındaki **Enterprise** veya **splar** program bağlantısını seçin. Pano, tüm kazanç ve ödemelerden oluşan Özet ekrandır.
  
-1. Kazançlar, ödemeler veya hesaplamaların tüm ayrıntılarını indirmek için Seç açılan **listesinden Excel'ye** **aktar'ı** seçin.
+1. kazanç, ödemeler veya hesaplamaların tam ayrıntılarını indirmek için, **seç** açılan listesinden **Excel dışa aktar** ' ı seçin.
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-- [Çözüm Değerlendirmesi Uygunluğu](chip-solution-assessment.md) 
+- [Çözüm değerlendirmesi uygunluk](chip-solution-assessment.md) 

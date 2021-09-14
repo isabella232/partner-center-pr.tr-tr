@@ -1,6 +1,6 @@
 ---
 title: Yeni Azure İş Ortağı Paylaşılan Hizmetleri
-description: Kendi Azure İş Ortağı Paylaşılan Hizmetleri Azure abonelikleri satın almak ve Azure'a satın almak, izlemek ve yönetmek için tekdüdüz bir yönteme sahip olmak için azure aboneliklerini kullanın.
+description: Kendi Azure İş Ortağı Paylaşılan Hizmetleri Azure abonelikleri satın almak ve Azure'ın satın alma, izleme ve yönetmeye uygun bir yöntemine sahip olmak için azure aboneliklerini kullanma.
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-pricing
@@ -10,11 +10,11 @@ ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 11/11/2020
 ms.openlocfilehash: 35c5d378f66071f3c97abdf74eec27e78a8ac778
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960745"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126249049"
 ---
 # <a name="add-azure-partner-shared-services-so-partners-can-buy-azure-subscriptions-for-their-own-use"></a>İş Azure İş Ortağı Paylaşılan Hizmetleri kendi kullanımları için Azure abonelikleri satın allarına yardımcı olacak yeni abonelikler ekleme
 
@@ -32,23 +32,23 @@ Azure İş Ortağı Paylaşılan Hizmetleri (APSS), iş ortaklarının kendi kul
 
    :::image type="content" source="images/sharedservices3.png" alt-text="Paylaşılan hizmetler oluşturun.":::
 
-3. Bu, paylaşılan kaynaklar ve iç iş yükü için Azure CSP paylaşılan hizmetler kiracısı oluşturur ve Paylaşılan Hizmetler aboneliğini satın alan bir kiracı oluşturur.
+3. Bu, paylaşılan kaynaklar ve iç iş yükü için kullanılacak Azure CSP Paylaşılan Hizmetler aboneliğini satın alan bir paylaşılan hizmetler kiracısı oluşturur.
 
    :::image type="content" source="images/sharedservices5.png" alt-text="Kiracıyı oluşturun ve aboneliği satın alın.":::
 
 ## <a name="about-the-azure--internalshared-services-offer"></a>Azure Dahili/Paylaşılan Hizmetler hakkında
 
-- Azure Dahili/Paylaşılan Hizmetler aboneliği, iş ortaklarının azure'ın kendi kullanımı için elde etmek üzere İş Ortağı Merkezi CSP'de erişilen yeni bir Azure teklifi t t t'dır.
+- Azure Dahili/Paylaşılan Hizmetler aboneliği, iş ortaklarının Kendi Azure kullanımı için edinilen İş Ortağı Merkezi CSP'de yeni bir Azure teklifi t t t'dır.
 
 - Azure İş Ortağı Paylaşılan Hizmetleri abonelikler uygundur ve RU satın almak için kullanılabilir.
 
 - Azure Dahili/Paylaşılan Hizmetler teklifi yalnızca paylaşılan hizmetler kiracısına uygulanabilir.
 
-- Azure Dahili/Paylaşılan Hizmetler için birincil kullanım, Azure'ın kendi geliştirme amaçlarınız doğrultusunda kullana biliyor olmaktır. Bu teklifi sunmak için kullanılan paylaşılan kiracı, Office 365 veya Dynamics lisansları gibi diğer hizmetler için kullanılamaz.
+- Azure Dahili/Paylaşılan Hizmetler için birincil kullanım, Azure'ın kendi geliştirme amaçlarınız için kullana biliyor olmaktır. Bu teklifi sunmak için kullanılan paylaşılan kiracı, Office 365 veya Dynamics lisansları gibi diğer hizmetler için kullanılamaz.
 
-- Aboneliği diğer abonelikler gibi iptal edebilirsiniz. Paylaşılan hizmetler **ayarları Tümünü görüntüle**  >    >  **ayarlarına gidin.** Azure Dahili/Paylaşılan Hizmetler aboneliğini seçin ve iptal edin.
+- Aboneliği diğer abonelikler gibi iptal edebilirsiniz. Paylaşılan hizmetler   >  **ayarlarına Tümünü görüntüle**  >  **ayarlar'a gidin.** Azure Dahili/Paylaşılan Hizmetler aboneliğini seçin ve iptal edin.
 
-## <a name="accessing-azure-partner-shared-services-consumption-details"></a>Tüketim Azure İş Ortağı Paylaşılan Hizmetleri erişme
+## <a name="accessing-azure-partner-shared-services-consumption-details"></a>Azure İş Ortağı Paylaşılan Hizmetleri ayrıntılarına erişme
 
 CSP faturanız ve mutabakat dosyanız üzerinde Azure tüketimini bulabilirsiniz. Faturaya bir satır Microsoft Azure parçası olarak dahil edilir. Ayrıntılı tüketim bilgileri, bu teklif için oluşturulan kiracıda günlüğe kaydedilen mutabakat dosyasında kullanılabilir.
 

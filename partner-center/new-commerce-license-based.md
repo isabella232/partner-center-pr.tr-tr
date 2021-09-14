@@ -1,68 +1,68 @@
 ---
-title: Yeni ticaret lisansı tabanlı genel bakış
+title: Yeni ticari lisans tabanlı genel bakış
 ms.topic: article
 ms.date: 08/31/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-csp
-description: Lisans tabanlı çevrimiçi hizmetler satın alma hakkında yeni ticari deneyimler hakkında bilgi edinin.
+description: Lisans tabanlı yazılım satın almak için yeni ticari deneyimler hakkında çevrimiçi hizmetler.
 author: rbars
 ms.author: rbars
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 7ca839abb193f09d37769e14eedf08ea415e902f
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123961024"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126248702"
 ---
-# <a name="new-commerce-experience-for-license-based-services"></a>Lisans tabanlı hizmetler için yeni ticaret deneyimi
+# <a name="new-commerce-experience-for-license-based-services"></a>Lisans tabanlı hizmetler için yeni ticari deneyim
 
 **Uygun roller**
 
-- Yönetim Aracısı
-- Satış Aracısı
+- Yönetici aracısı
+- Satış aracısı
 - Genel yönetici
 
-Microsoft, lisans tabanlı hizmetler için Iş Ortağı Merkezi 'nde yeni bir ticari deneyim sunmuştur. yeni ticaret deneyimi, Microsoft 365, Dynamics 365, Windows ıntune ve yıllar için iş ortağı merkezi 'nde bulunan diğer hizmetler gibi ürünleri satın alırken ve yönetirken iş ortakları daha fazla esneklik ve yetenekler sunar.
+Microsoft, lisans tabanlı hizmetler için İş Ortağı Merkezi yeni bir ticari deneyime sahiptir. Yeni ticaret deneyimi, iş ortaklarına Microsoft 365, Dynamics 365, Windows Intune ve İş Ortağı Merkezi'da yıllardır mevcut olan diğer hizmetler gibi ürünleri satın alma ve yönetme konusunda daha fazla esneklik ve özellik sunmaktadır.
 
-İş ortakları, lisans matrahına sahip Hizmetleri istedikleri şekilde satın almaya devam eder, ancak katalogda bu teklifler için *Yeni ticaret* göstergeleri görür.
+İş ortakları, isterse geleneksel yolla lisans tabanı hizmetleri satın almalarına devam  eder, ancak katalogda bu teklifler için yeni ticari göstergeler'i görebilir.
 
 ## <a name="new-capabilities"></a>Yeni özellikler
 
-Yüksek düzeyde yeni yetenekler şunlardır:
+Üst düzeyde yeni özellikler şunlardır:
 
-**Hizmetlerinizin yönetiminde daha fazla esneklik**
+**Hizmetlerinizi yönetmek için daha fazla esneklik**
 
 - Kurumsal SKU yükseltmeleri için yeni destek
-- Abonelik yenilemeleri denetleme özelliği
-- Yeni SKU 'Lara geçiş yaparken kısmi lisans yükseltme yeteneği
-- Şartlar sonunda geçerli olan Aboneliklerde yapılan değişiklikleri zamanlayabilme
+- Abonelik yenilemelerini denetleme olanağı
+- Yeni SKUS'lara geçilen kısmi yerlerin yükseltebilme özelliği
+- Koşulların sonunda etkili olan aboneliklerde değişiklik zamanlama olanağı
 
 **Yeni fiyatlandırma ve eklenti seçenekleri**
 
-- API 'Ler aracılığıyla hizmetler program aracılığıyla için fiyatlandırma alma özelliği
-- Satın alımlarını artık temel teklif işlemlerine bağımlı olmamasını sağlayarak eklenti hizmetlerini edinmeye yönelik daha fazla esneklik
-- İş ortaklarının işleri için daha fazla esneklik sağlayan yeni aylık dönem seçenekleri
+- API'ler aracılığıyla program aracılığıyla hizmetler için fiyatlandırma elde etme olanağı
+- Satın alma işlemlerinin artık temel teklif işlemlerine bağımlı kalmadan ek hizmetler elde etmek için daha fazla esneklik
+- İş ortaklarına işletmeleri için daha fazla esneklik sağlayan yeni aylık dönem seçenekleri
 
-**Basitleştirilmiş faturalandırma deneyimleri**
+**Basitleştirilmiş faturalama deneyimleri**
 
-- İş ortağının para birimini kullanarak faturalandırma ve faturalandırma konsolidasyonu
-- İş ortağı kiracılar arasında değişebilen, orta aylık tarihler yerine aylara göre tutarlı faturalandırma tarihleri
+- İş ortağının para birimini kullanarak faturalama ve faturalamayı birleştirme
+- İş ortağı kiracıları arasında farklılık gösterebiliyor olan ayın ortası tarihleri yerine aylara göre tutarlı faturalama tarihleri
 
-## <a name="what-isnt-changing"></a>Değiştirilmiyor
+## <a name="what-isnt-changing"></a>Değişmeenler
 
-İş ortaklarının iş ortağı merkezi 'nde iş ortaklarının birçok yönü, yeni ticaret deneyimleri ile değiştirilmemelidir. Örneğin, ortak görevler ve iş akışları değiştirilmeyecektir:
+İş ortaklarının yeni ticari deneyimlerle İş Ortağı Merkezi birçok yönü değişmemektedir. Örneğin, ortak görevler ve iş akışları değişmez:
 
-- Müşteriler oluşturma
-- Yeni müşterilerle ilişki isteme
-- Yazılım abonelikleri, kalıcı yazılım, Azure hizmetleri ve Market teklifleri için satın alma ve yönetme senaryoları değişmeden kalır
+- Müşteri oluşturma
+- Yeni müşterilerle ilişki isteği
+- Yazılım abonelikleri, kalıcı yazılım, Azure hizmetleri ve market teklifleri için satın alma ve yönetme senaryoları değişmeden kalır
 
-İş ortakları artık bir seçeneğe sahiptir: geleneksel lisans tabanlı Hizmetleri satın almaya devam edebilir veya yeni ticaret deneyimi aracılığıyla satın alabilirler. Yeni Ticaret Hizmetleri ile Transact 'ya karar veren iş ortaklarının, yeni ticaret lisansı tabanlı hizmetlerin nasıl çalıştığı hakkında bilgi sahibi olması gerekir. Bu bölümdeki makalelerde, yeni ticaret teklifleri ve abonelikleri kullanılarak nasıl iş yapılacağı açıklanmaktadır.
+İş ortaklarının artık bir seçeneği vardır: geleneksel lisans tabanlı hizmetleri satın almalarına veya yeni ticari deneyim aracılığıyla satın almalarına devam eder. Yeni ticari hizmetlerle işlem yapmak isteyen iş ortaklarının, yeni ticari lisans tabanlı hizmetlerin nasıl işle ilgili bilgi sahibi olması gerekir. Bu bölümdeki makalelerde, yeni ticari teklifler ve abonelikler kullanılarak iş yapma işlemleri açıklandı.
 
-Bu geleneksel senaryolar yeni ticaret deneyimini destekleyecek şekilde değişiyor.
+Bu geleneksel senaryolar, yeni ticaret deneyimini destekleyecek şekilde değişmektedir.
 
-- Yeni teklifler için fiyatlandırma alma
+- Yeni tekliflerin fiyatlandırması alma
 - Yeni teklifleri keşfetme
 - Yeni teklifleri satın alma
 - Abonelikleri yönetme

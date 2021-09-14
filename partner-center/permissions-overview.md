@@ -10,13 +10,13 @@ ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20, contperf-fy21q1
 ms.openlocfilehash: 7638a35b5aa583cd3a7c3b40833123402df7cb70
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960354"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126248679"
 ---
-# <a name="assign-users-roles-and-permissions-for-a-companys-users-needing-to-work-in-partner-center"></a>Bir şirketin şirket içinde çalışması gereken kullanıcıları için kullanıcı rollerini ve izinlerini İş Ortağı Merkezi
+# <a name="assign-users-roles-and-permissions-for-a-companys-users-needing-to-work-in-partner-center"></a>Şirket içinde çalışması gereken kullanıcıların rollerini ve izinlerini İş Ortağı Merkezi
 
 **Uygun roller:** Genel yönetici | Kullanıcı yönetimi yönetici | MPN iş ortağı yöneticisi
 
@@ -24,14 +24,14 @@ Yasal ad ve adres, destek ayrıntıları, dosya vergi muafiyetleri, banka bilgil
 
 ## <a name="set-up-your-employees-to-work-in-partner-center"></a>Çalışanlarınızı şirket içinde çalışacak şekilde İş Ortağı Merkezi
 
-Kullanıcılarının sahip olduğu erişim türlerini, İş Ortağı Merkezi ve izinlere göre belirlersiniz. Roller, işletmenizin dahil olduğu programlarla ilgilidir. Örneğin, işletmeniz bir Bulut Çözümü Sağlayıcısı (CSP) işletmesi ise, genel yönetici gibi standart Azure Active Directory (Azure AD) kiracı yönetimi rollerine sahip olmakla birlikte CSP programına özgü rollere de ihtiyacınız vardır. Her programın belirli rolleri vardır.
+Kullanıcılarının sahip olduğu erişim türlerini İş Ortağı Merkezi izinlere göre belirlersiniz. Roller, işletmenizin dahil olduğu programlarla ilgilidir. Örneğin, işletmeniz bir Bulut Çözümü Sağlayıcısı (CSP) işletmesi ise, genel yönetici gibi standart Azure Active Directory (Azure AD) kiracı yönetimi rollerine sahip olmakla birlikte CSP programına özgü rollere de ihtiyacınız vardır. Her programın belirli rolleri vardır.
 
 >[!Note]
 > Azure AD kiracı rolleri genel yönetici, kullanıcı yöneticisi ve CSP rollerini içerir. Azure AD dışı roller, kiracıyı yönetmeyen rollerdir ve MPN (Microsoft İş Ortağı Ağı) iş ortağı yöneticisi, iş profili yöneticisi, referans yöneticisi, teşvik yöneticisi ve teşvik kullanıcısını içerir. 
 
-### <a name="manage-commercial-transactions-in-partner-center-azure-ad-and-csp-roles"></a>Ticari işlemleri İş Ortağı Merkezi (Azure AD ve CSP rolleri)
+### <a name="manage-commercial-transactions-in-partner-center-azure-ad-and-csp-roles"></a>İş Ortağı Merkezi (Azure AD ve CSP rolleri) içinde ticari işlemleri yönetme
 
-|**Role**|**Neler yapabiliriz?**|**Daha fazla bilgi edinin**|
+|**Role**|**Neler yapmaları gerekenler**|**Daha fazla bilgi edinin**|
 |----------------------------------|---|:---------------------------------|
 |Genel yönetici|* Tüm Microsoft hesabı/hizmetlere tam ayrıcalıklarla erişebilir|[İş Ortağı Merkezi hesabınızı yönetme](partner-center-account-setup.md)
 |      |* İş için destek biletleri İş Ortağı Merkezi
@@ -71,9 +71,9 @@ Kullanıcılarının sahip olduğu erişim türlerini, İş Ortağı Merkezi ve 
 ||* Katma değerli kurumsal bayi kaydetme
 ||* İş için destek biletleri İş Ortağı Merkezi
 ||* İş ortağı destek biletlerini görüntüle|
-|Yardım masası aracısı| * Müşteri arama ve görüntüleme|[Sorunları Microsoft'a yükseltme ve Microsoft yükseltme için daha uygun olan sorunları öğrenme](escalate-problems-to-microsoft.md)
+|Yardım masası aracısı| * Müşteri arama ve görüntüleme|[Sorunları Microsoft'a yükseltme ve Hangi sorunların Microsoft'un yükseltmeye daha uygun olduğunu öğrenme](escalate-problems-to-microsoft.md)
 ||* Müşteri ayrıntılarını düzenleme
-||* Faturalama veya abonelik yönetimiyle ilgili müşteri sorunlarını çözme yardımı
+||* Faturalama veya abonelik yönetimiyle ilgili müşteri sorunlarını çözmeye yardımcı olun
 ||* Müşteriler adına destek isteği 
 ||* Müşteriler adına abonelikleri ve faturalama sorunlarını yönetme
 ||* İş için destek biletleri İş Ortağı Merkezi
@@ -85,7 +85,7 @@ CPV'ler, csp iş ortakları tarafından kendi sistemlerini farklı API'lerle tü
 
 |**Role**   |**Yapabilecekleriniz**|**Daha fazla bilgi edinin**|
 |------------------------------|:----------------------------|----|
-|Genel yönetici| Denetim Masası Vendor (CPV) profilinizi görüntüleme ve yönetme|[CSP iş ortağı sistemlerini Denetim Masası API'lerle tümleştirin ve satıcı olarak İş Ortağı Merkezi olun](enroll-as-cpv.md)
+|Genel yönetici| Denetim Masası Vendor (CPV) profilinizi görüntüleme ve yönetme|[CSP iş ortağı sistemlerini Denetim Masası API'lerle tümleştirip tümleştirebilirsiniz İş Ortağı Merkezi olarak kaydolma](enroll-as-cpv.md)
 ||CPV özelliklerine erişmesi gereken kullanıcılarınızı görüntüleme ve yönetme|
 
 ### <a name="guest-user-must-be-added-to-the-azure-ad-tenant"></a>Konuk kullanıcı (Azure AD kiracısına eklenmiştir)
@@ -104,7 +104,7 @@ Bu roller Azure AD rolleri değildir. Bu roller kiracı yerine şirket işletmel
 |**Role** | **Yapabilecekleriniz**|**Daha fazla bilgi edinin**|
 |----------------------------|:----------------------------|-----|
 |MPN iş ortağı yöneticisi|* İş ortağı hizmeti isteklerini görüntüleme, oluşturma ve yönetme|[Microsoft Eylem Paketi aboneliği veya Silver ve Gold uzmanlık satın alma veya yenileme](mpn-get-action-pack.md)
-||* Yasal, şirket, işletme ve MPN profillerini görüntüleme
+||* Yasal, şirket, iş ve MPN profillerini görüntüleme
 ||* Kullanıcı ayrıntılarını ve beceri verilerini görüntüleme
 ||* Yetkinlikleri görüntüleme
 ||* Avantajları görüntüleme ve yönetme
@@ -127,8 +127,8 @@ Bu roller Azure AD rolleri değildir. Bu roller kiracı yerine şirket işletmel
 
 |**Role** | **Yapabilecekleriniz**|**Daha fazla bilgi edinin**
 |------------------------------|:-------------------------|---|
-|Referans yöneticisi|İş Ortağı Merkezi'da Referanslar sekmesinde her şeyi oluşturma ve yönetme|[Ortak satış fırsatlarını yönetme](manage-co-sell-opportunities.md)
-||    Tüm ortak satış fırsatlarını ve müşteri adaylarını görüntüleme ve düzenleme
+|Referans yöneticisi|Verilerde Referanslar sekmesinde her şeyi oluşturma ve İş Ortağı Merkezi|[Ortak satış fırsatlarını yönetme](manage-co-sell-opportunities.md)
+||    Tüm ortak satış fırsatlarını ve müşteri adaylarını görüntüleyemez ve düzenleyebilir
 ||    Anlaşma için ekip üyeleri atay olabilir
 ||    İş profillerini görüntüleme ve düzenleme
 ||    Kazandı olarak işaretlenen ve anlaşma kaydı için uygun olan fırsatlar için anlaşmaları görüntüleme ve kaydetme
@@ -140,14 +140,14 @@ Bu roller Azure AD rolleri değildir. Bu roller kiracı yerine şirket işletmel
 |İş profili yöneticisi|İş profilleri oluşturma ve yönetme | [İş profillerini yönetme](create-a-marketing-profile.md)
 ||    Destek biletleri oluşturabilir ve görüntüleme
 
-Yeni referans kullanıcı rolünün yanı sıra anlaşmaların konum kapsamını da tanıtıyoruz. Aşağıdaki tabloda konuma göre deals-access açıklanmıştır.
+Yeni referans kullanıcı rolünün yanı sıra anlaşmaların konum kapsamını da tanıtıyoruz. Aşağıdaki tabloda konuma bağlı olarak deals-access açıklanmıştır.
 
 |**Kapsam** | **Yapabilecekleriniz** |
 |------------------------------|:-------------------------|
 |Tüm şirket | Hem yöneticiler hem de kullanıcılar, şirketlerinde herhangi bir konum için anlaşma oluşturma erişimine sahiptir|
 || Referans yöneticisinin tüm anlaşmaları görüntüleme ve düzenleme erişimi vardır |
 || Referans kullanıcıları, yalnızca ekibin bir parçası olan tüm anlaşmaları görüntüleme ve düzenleme erişimine sahiptir |
-|Bir veya daha fazla konum | Hem yöneticiler hem de kullanıcılar, şirketlerinde atanan konum için anlaşma oluşturma erişimine sahiptir|
+|Bir veya daha fazla konum | Hem yöneticiler hem de kullanıcılar, şirketlerinde atanan konum için anlaşmalar oluşturma erişimine sahiptir|
 || Referans yöneticisi, atanan konumlara ait tüm anlaşmaları görüntüleme ve düzenleme erişimine sahiptir|
 || Referans kullanıcıları, takımın parçası olan atanan konumlara ait tüm anlaşmaları görüntüleme ve düzenleme erişimine sahiptir|
 

@@ -1,6 +1,6 @@
 ---
 title: Mart 2021 duyuruları
-description: Yeni yetenekler, promosyonlar, teklifler, pazarlar veya mevcut tekliflerle ilgili değişiklikler dahil olmak üzere Microsoft Iş Ortağı Merkezi için Mart 2021 duyuruları.
+description: Microsoft İş Ortağı Merkezi, promosyonlar, teklifler, pazarlar veya mevcut tekliflerde yapılan değişiklikler dahil olmak üzere Mart 2021 duyuruları.
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-announcements
@@ -10,17 +10,17 @@ ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 04/02/2021
 ms.openlocfilehash: d03bbc6c48f7048dd111a7b83210d11c5c266977
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960295"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126248368"
 ---
 # <a name="march-2021-announcements"></a>Mart 2021 duyuruları
 
-Bu sayfada Mart 2021 için Microsoft Iş Ortağı Merkezi duyuruları sağlanmaktadır.
+Bu sayfa, Mart 2021 için Microsoft İş Ortağı Merkezi duyurularını sağlar.
 
-## <a name="readiness-changes-to-the-cloud-solution-provider-csp-customer-address-validation-api-going-live-in-june-testing-capability-now-available"></a><a name="19"></a>hazırlık: Bulut Çözümü Sağlayıcısı (CSP) müşteri adresi doğrulama apı 'sindeki değişiklikler haziran ayında etkin olacak. test özelliği artık kullanılabilir
+## <a name="readiness-changes-to-the-cloud-solution-provider-csp-customer-address-validation-api-going-live-in-june-testing-capability-now-available"></a><a name="19"></a>Hazır olma: Bulut Çözümü Sağlayıcısı (CSP) müşteri adresi doğrulama API'sinde yapılan değişiklikler Haziran ayında yayınlanacak; test özelliği artık kullanılabilir
 
 ### <a name="categories"></a>Kategoriler
 
@@ -29,34 +29,34 @@ Bu sayfada Mart 2021 için Microsoft Iş Ortağı Merkezi duyuruları sağlanmak
 
 ### <a name="summary"></a>Özet
 
-İş ortakları ve müşterilerin işletmelerini temel alarak işlerini çalıştırmasına yardımcı olmak için iş ortaklarını, dünyanın her yerindeki tüm ülkeler için doğrulama adresi API 'sine test etmek üzere davet edeceğiz.
+İş ortaklarının ve müşterilerin işletmelerini güvene dayalı olarak çalıştırmalarına yardımcı olmak için, iş ortaklarını dünya genelindeki tüm ülkeler için Adresi Doğrula API'lerinde yapılan değişiklikleri test etmeye davet ediyoruz.
 
-### <a name="impacted-audience"></a>Etkilenen hedef kitle
+### <a name="impacted-audience"></a>Etkilene hedef kitle
 
-CSP doğrudan fatura ortakları ve yeni yeni veya mevcut müşterileri güncelleştiren dolaylı sağlayıcılar adres ayrıntıları.
+CsP doğrudan fatura iş ortakları ve var olan müşterilerin adres ayrıntılarını yeni veya güncelleştiren dolaylı sağlayıcılar.
 
 ### <a name="details"></a>Ayrıntılar
 
-Microsoft, güvende çalışır. CSP programındaki deneyimidir müşteri abonelikleri için uyumlu, güvenli ve güvenli bir müşteri adresi doğrulama yöntemi sağlamayı taahhüt ediyoruz. 31 Mart 2021 itibariyle, Haziran 2021 ' deki değişikliklerle çalışmaya başlamadan önce iş ortaklarını test etmek üzere davet ettiğimiz doğrulama adresi API 'sine yönelik değişiklikler sunuyoruz.
+Microsoft güven üzerinde çalışır. CSP programında müşteri aboneliklerinin işlemesi için uyumlu, güvenli ve güvenli bir müşteri adresi doğrulama yöntemi sağlamayı taahhüt etmek istiyoruz. 31 Mart 2021'den baş olarak, Haziran 2021'de yapılan değişikliklerle canlı yayına devam etmek için iş ortaklarını test etmek için davet edilen Adresi Doğrula API'sinde değişikliklere yer verdik.
 
-Değişiklikler yalnızca adresi doğrula API 'sini etkiler. Müşteri oluşturma ve faturalandırma profilini güncelleştirme API 'Leri etkilenmemektedir.
+Değişiklikler yalnızca Adresi Doğrula API'sini etkiler. Müşteri Oluşturma ve Faturalama Profili API'lerini güncelleştirme işlemi etkilenmez.
 
-Yanıt aşağıdaki durum iletilerinden birini döndürür:
+Yanıt aşağıdaki durum iletilerinden birini geri dönecektir:
 
-| Durum     | Açıklama |    Döndürülen önerilen adreslerin sayısı |
+| Durum     | Açıklama |    Döndürülen önerilen adres sayısı |
 |-------|---------------|-------------------|
-|Doğrulanan sevk özellikli | Adres doğrulanır ve sevk edilebilir. | Tek |
-|Doğrulanamayan | Adres doğrulandı. | Tek |
-|Etkileşim gerekli | Önerilen adres önemli ölçüde değiştirildi ve kullanıcı onayı gerekiyor. | Tek |
-|Cadde kısmi | Adreste verilen cadde kısmi ve daha fazla bilgi gerekiyor. | Birden çok — en fazla üç |
-|Şirket içi kısmi | Verilen şirket içi (bina numarası, paket numarası ve diğerleri) kısmi ve daha fazla bilgi gerekiyor. | Birden çok — en fazla üç |
-|Birden çok | Adreste kısmi olan birden çok alan vardır (büyük olasılıkla cadde kısmi ve şirket içi kısmı da dahil). | Birden çok — en fazla üç |
+|Doğrulanmış gönderilebilir | Adres doğrulanır ve adresine gönderebilirsiniz. | Tek |
+|Doğrulandı | Adres doğrulandı. | Tek |
+|Etkileşim gerekiyor | Önerilen adres önemli ölçüde değiştirildi ve kullanıcı onayı gerekiyor. | Tek |
+|Sokak kısmii | Adreste verilen sokak kısmidir ve daha fazla bilgiye ihtiyaç vardır. | Çoklu— en fazla üç |
+|Kısmi şirket içi | Verilen şirket (bina numarası, paket numarası ve diğerleri) kısmidir ve daha fazla bilgiye ihtiyaç vardır. | Çoklu— en fazla üç |
+|Birden çok | Adreste kısmi olan birden çok alan vardır (kısmi sokak ve kısmi şirket de dahil olmak üzere). | Çoklu— en fazla üç |
 |Hiçbiri | Adres yanlış. | Hiçbiri |
-|Doğrulanmamış | Adres, doğrulama işlemi aracılığıyla gönderilemedi. | Hiçbiri |
+|Doğrulanmamış | Adres doğrulama işlemi aracılığıyla gönderileemedi. | Hiçbiri |
 
-ABD Post kodları, 4 basamaklı bir ve daha fazla tire döndürür. Örneğin, 12345-6789.
+ABD posta kodları ek 4 rakam + kısa çizgi (örneğin, 12345-6789) dönüşecek.
 
-Adres doğrulama API 'SI aracılığıyla doğrulama için bir adres gönderildikten sonra, aşağıdaki yanıt şeması döndürülür:
+Adresi Doğrulama API'si aracılığıyla doğrulama için bir adres gönderildikten sonra aşağıdaki yanıt şeması döndürülür:
 
 ```csharp
 
@@ -99,7 +99,7 @@ public class AddressValidationResponse
    public string ValidationMessage { get; set; }
    ```
 
-Bu örnek yanıta göz atın. ABD için, posta kodu için yalnızca beş basamak girerseniz, yanıt posta kodu satırı için dört basamaklı ek bir sonek döndürdüğüne göz önünde koyun.
+Bu örnek yanıta göz at. Posta kodu için yalnızca beş basamak girersiniz, ABD için yanıt posta kodu satırı için dört basamaklı ek bir sonek daha dönecektir.
 
 ```csharp
 
@@ -124,22 +124,22 @@ Bu örnek yanıta göz atın. ABD için, posta kodu için yalnızca beş basamak
 
 ### <a name="next-steps"></a>Sonraki adımlar
 
-- Güncelleştirme için hazırlamaya başlayabilmeniz için, korumalı alan kiracı KIMLIĞINIZI, test uçuşna dahil edilecek konu uzmanı (Ali Haki) ile paylaşabilirsiniz.
+- Güncelleştirmeye hazırlanmaya başlayabilirsiniz. Korumalı alan kiracı kimliğini test uçuşuna dahil edilecek konu uzmanı (AliSinki) ile paylaşın.
 
-- Bir denetim masası satıcısı (CPV) çözümü kullanıyorsanız, CPV 'nize başvurun.
+- Denetim masası satıcısı (CPV) çözümü kullanıyorsanız CPV'nize başvurun.
 
 ### <a name="questions"></a>Sorularınız mı var?
 
-Microsoft ile işlemlere yönelik desteğe ihtiyacınız varsa, iş ortağı destek Yammer grubunuza ulaşın.
+Microsoft ile olan işlemleriniz için de destek gerekirse, iş ortağı destek grubuyla Yammer olun.
 
 ### <a name="change-log"></a>Değişiklik günlüğü:
 
-- 31 Mart 2020: özgün yayın
+- 31 Mart 2020: Özgün yayın
 
-- 30 Nisan 2021: örnek yanıt ve ZIP kodu ayrıntıları için güncelleştirmeler
+- 30 Nisan 2021: Örnek yanıt ve Posta kodu ayrıntıları için güncelleştirmeler
 
 ________________
-## <a name="new-exchange-admin-center-eac-experience"></a><a name="18"></a>yeni Exchange yönetim merkezi (eac) deneyimi
+## <a name="new-exchange-admin-center-eac-experience"></a><a name="18"></a>Yeni Exchange yönetim merkezi (EAC) deneyimi
 
 ### <a name="categories"></a>Kategoriler
 
@@ -148,68 +148,68 @@ ________________
 
 ### <a name="summary"></a>Özet
 
-27 nisan 2021 ' den itibaren, Exchange yönetim merkezi (eac), kullanıcılar için günlük verimliliği iyileştirecek yeni bir deneyim kullanıma sunacaktır.
+27 Nisan 2021'den başlayarak Exchange yönetim merkezi (EAC) kullanıcılar için günlük verimliliği geliştirecek yeni bir deneyim sunuyor.
 
-### <a name="impacted-audience"></a>Etkilenen hedef kitle
+### <a name="impacted-audience"></a>Etkilene hedef kitle
 
-iş ortağı merkezi üzerinden Exchange erişen yönetici temsilcileri
+Exchange üzerinden İş Ortağı Merkezi
 
 ### <a name="details"></a>Ayrıntılar
 
-27 nisan 2021 ' den itibaren, iş ortağı merkezi üzerinden Exchange ' a giderek çalışan iş ortakları yeni eac 'ya yönlendirilir.
+27 Nisan 2021'den başlayarak, Exchange aracılığıyla İş Ortağı Merkezi iş ortakları yeni EAC'ye yeniden yönlendirecek.
 
-Bu yeni deneyim Şu anda önizleme olarak sunulmaktadır ve Yöneticiler, klasik EAC içinde sağ üst köşedeki geçişi seçerek bu deneyimi etkinleştirebilir. Ayrıca, tüm sayfalarda görüntülenen "Şimdi deneyin" başlığını seçerek yeni duyak 'e gidebilir.
+Bu yeni deneyim şu anda önizleme olarak sunulmaktadır ve yöneticiler klasik EAC'nin sağ üst köşesindeki iki durumlu düğmeyi seçerek bu deneyimi etkinleştir kullanılabilir. Ayrıca tüm sayfalarda görüntülenen "Şimdi deneyin" başlığı seçerek yeni EAC'ye de gidebilirsiniz.
 
-Yeni EAC 'nin avantajları şunlardır:
+Yeni EAC'nin avantajları şunlardır:
 
-- Posta akışı ile ilgili sorunlar için Öngörüler, raporlar ve uyarı mekanizmaları eklendi. 
+- Posta akışıyla ilgili sorunlar için içgörüler, raporlar ve uyarı mekanizmaları eklendi. 
 
 - Üretkenliği artırmak için kişiselleştirilmiş panolar.
 
-Yeni deneyimin içinde gezinmenize yardımcı olmak için, yeni EAC deneyiminde **eğitim & Kılavuzu** bölümünde videolar bulunur. Bu, size yeni portalı en iyi şekilde nasıl kullanabileceğinizi gösteren bir genel bakış sunar.
+Yeni deneyimde gezinmenize yardımcı olmak için, videolar yeni EAC **deneyiminin Eğitim** & Kılavuzu bölümünde mevcuttur. Bunlar, yeni portalı en iyi şekilde nasıl kullanabileceğiniz hakkında genel bir bakış sağlar.
 
 >[!NOTE]
->Bu değişiklik ile klasik EAC deneyimi kullanım dışı olmayacaktır. Herhangi bir değişiklik uygulanmadan önce iyi bir bildirim alırsınız.
+>Bu değişiklikle, klasik EAC deneyimi kullanım dışı olmayacaktır. Herhangi bir değişiklik uygulanmadan önce size önceden bildirilecek.
 
 ### <a name="next-steps"></a>Sonraki adımlar
 
-- Yeni deneyimin ekran görüntülerini görüntüleyebileceğiniz [Bu konuyla ilgili kaynaklara](https://partner.microsoft.com/resources/collection/new-exchange-admin-center-experience#/)göz atın.
+- Yeni [deneyimin ekran görüntülerini](https://partner.microsoft.com/resources/collection/new-exchange-admin-center-experience#/)görüntüyebilirsiniz. Bu konu başlığıyla ilgili kaynaklara göz atabilirsiniz.
 
-- Bu bilgileri, kuruluşunuzdaki uygun paydaşlarla paylaşabilirsiniz. 
+- Bu bilgileri, kuruluşta uygun proje katılımcıları ile paylaşın. 
 
 ### <a name="questions"></a>Sorularınız mı var?
 
-bu değişiklikler hakkında herhangi bir soru için ilgili Yammer topluluklarınızı kontrol edin.
+Bu değişikliklerle ilgili sorularınız için ilgili topluluklarınızı Yammer edin.
 
 ________________
-## <a name="microsoft-operations-introducing-the-product-launch-calendar"></a><a name="17"></a>Microsoft Işlemleri: ürün başlatma takvimini tanıtma
+## <a name="microsoft-operations-introducing-the-product-launch-calendar"></a><a name="17"></a>Microsoft İşlemleri: Ürün lansman takvimini tanıtma
 
 ### <a name="categories"></a>Kategoriler
 
 - Tarih: 2021-03-25
-- Teklifler | Modern çalışma alanı
+- Teklif | Modern Çalışma Alanı
 
 ### <a name="summary"></a>Özet
 
-İş ortağı geri bildirimlerine yanıt olarak, Microsoft Işlemleri ürün başlatma ile ilgili iletişimleri kolaylaştıracaktır.
+İş ortağı geri bildirimlerine yanıt olarak Microsoft İşlemleri, ürün lansmanları için iletişimi kolaylaştıracak.
 
-### <a name="impacted-audience"></a>Etkilenen hedef kitle
+### <a name="impacted-audience"></a>Etkilene hedef kitle
 
 Bulut Çözümü Sağlayıcısı (CSP) iş ortakları
 
 ### <a name="details"></a>Ayrıntılar
 
-Microsoft, iş ortağı deneyimlerini sürekli olarak geliştirmeye kararlıdır. Microsoft 'tan çok fazla iletişim aldığınızı ve ürün başlatma için tekrarlanan Duyurular dahil ettiğimiz hakkında geri bildirimde bulunduk.
+Microsoft, iş ortağı deneyimlerini sürekli geliştirmeye kararlıdır. Microsoft'tan çok fazla iletişim aldığını ve ürün lansmanları için yinelenen duyurular da dahil olmak üzere geri bildirim aldık.
 
-Microsoft, geri bildiriminiz doğrultusunda, yeni ve mevcut tekliflerle ilgili ürün için hazırlık deneyimini kolaylaştırmıştır.
+Geri bildiriminize yanıt olarak Microsoft, yeni ve mevcut teklifler için ürün lansmanlarına hazır olma deneyimini kolaylaştırdı.
 
-Artık, Işlem hazırlık kaynağı galerisinde yayınlanan ürünün tek bir aylık görünümünü sunuyoruz. Bu aylık [ürün başlatma takvimi görünümü](https://partner.microsoft.com/resources/collection/product-launch-calendar-collection#/) , işlem hazırlık kaynağı galerisindeki ve Iş Ortağı Merkezi bildirilerinde tek tek ürün başlatma iletişimlerinin yerini alır.
+Şimdi operasyon hazırlığı kaynak galerisinde yayımlanan ürün lansmanlarının tek bir aylık görünümünü sağlarız. Bu aylık [ürün lansman takvim görünümü,](https://partner.microsoft.com/resources/collection/product-launch-calendar-collection#/) operasyon hazırlığı kaynak galerisinde ve uygulama duyurularında ürün İş Ortağı Merkezi değiştirir.
 
-Bu [ürün başlatma takvimine](https://partner.microsoft.com/resources/collection/product-launch-calendar-collection#/) [topluluk koleksiyonları](https://partner.microsoft.com/resources/collection/product-launch-calendar-collection#/), [Takvim görünümleri](https://partner.microsoft.com/resources/assets#/?type=collection&search=Calendar&sort=updated)ve [CSP bültenleri](https://partner.microsoft.com/resources/collection/csp-monthly-update#/)' nden de erişebilirsiniz. Her ayın ürün başlatma takvimini, Işlem hazırlık kaynağı galerisinde bir duyuru ile yayımladığımızda sizi bilgilendireceğiz.
+Bu ürün lansman [takvimine topluluk](https://partner.microsoft.com/resources/collection/product-launch-calendar-collection#/) [koleksiyonlarından,](https://partner.microsoft.com/resources/collection/product-launch-calendar-collection#/)takvim görünümlerinden [ve](https://partner.microsoft.com/resources/assets#/?type=collection&search=Calendar&sort=updated) [CSP bültenlerinden de erişebilirsiniz.](https://partner.microsoft.com/resources/collection/csp-monthly-update#/) Her ayın ürün lansman takvimini, İşlemler için hazır olma kaynak galerisinde bir duyuru ile yayımlayacaz.
 
-Fiyat listesi önizlemesi ve fiyat listesi değişiklik günlüklerinde ve ürün bloglarında, lisanslama kılavuzlarında ve ürün pazarlama sayfalarında yeni ve mevcut tekliflerle ilgili bilgiler bulabilirsiniz.
+Yeni ve mevcut tekliflere ilişkin bilgileri fiyat listesi önizlemesi ve fiyat listesi değişiklik günlüklerinin yanı sıra ürün bloglarında, lisanslama kılavuzlarında ve ürün pazarlama sayfalarında bulabilirsiniz.
 
-Değişiklik, aşağıdaki ürünler için başlatılır.
+Bu değişiklik, aşağıdaki ürünler için lansmanlar için geçerli olacaktır:
 
 - Dynamics şirket içi
 - Microsoft 365
@@ -501,66 +501,66 @@ bu tekliflerle ilgili herhangi bir soru için ilgili Yammer topluluklarınızı 
 
 Microsoft 365 F3 ingiliz sterlini (gbp) ve Euro (EUR) için 2021 mart fiyatlandırması yanlış düzeltildi.
 
-### <a name="impacted-audience"></a>Etkilenen hedef kitle
+### <a name="impacted-audience"></a>Etkilene hedef kitle
 
-iş ortakları gbp 'de Microsoft 365 F3, Bulut Çözümü Sağlayıcısı (CSP) programı aracılığıyla 1 mart 2021 ' de 17 mart arasında bir şekilde satın alırken.
+İş ortakları Microsoft 365 F3 (CSP) programı aracılığıyla 1 Mart ile 17 Mart 2021 Bulut Çözümü Sağlayıcısı GBP veya EUR olarak satın almaları.
 
 ### <a name="details"></a>Ayrıntılar
 
-Microsoft, Microsoft 365 F3 için yanlış fiyatlandırmayı çözümledi. Yanlış fiyatlar GBP ve EUR için ve yalnızca 1 Mart, 17 Mart 2021 arasında satın alınan tekliflere yöneliktir. Etkilenen teklifler ve para birimleri aşağıda listelenmiştir. 
+Microsoft, Microsoft 365 F3 için yanlış fiyatlandırmayı Microsoft 365 F3. Yanlış fiyatlar GBP ve EUR için ve yalnızca 1 Mart ile 17 Mart 2021 arasında satın alınan teklifler içindi. Etkilenmiş teklifler ve para birimleri aşağıda listelenmiştir. 
 
-| Teklif adı | Para Birimi | Teklif Kimliği | Malzeme KIMLIĞI |
+| Teklif adı | Para Birimi | Teklif Kimliği | Malzeme Kimliği |
 | ------ |----------- |----------- |----------- |
-| Microsoft 365 F3 (hayır) | GBP | 57b722c2-c435-4bfb-9bc8-80509213a13a | AAD-11626 |
-| Microsoft 365 F3 (ticari) | EUR| 3451a3b0-8cdav-44a7-bad7-c30be81c4aaa | AAA-89898 |
+| Microsoft 365 F3 (Yer) | GBP | 57b722c2-c435-4bfb-9bc8-80509213a13a | AAD-11626 |
+| Microsoft 365 F3 (Ticari) | EUR| 3451a3b0-8cda-44a7-bad7-c30be81c4aaa | AAA-89898 |
  
-Mart ve Nisan Preview lisansı-temel fiyat listeleri, 16 Mart 5PM Pasifik standart saati ile güncelleştirildi.
+Mart ve Nisan önizleme lisans tabanı fiyat listeleri 16 Mart 17:00 Pasifik standart saatiyle güncelleştirildi.
 
 ### <a name="next-steps"></a>Sonraki adımlar
 
-- İş ortakları, her ikisi de Mart ve Nisan önizlemesi olmak üzere geçerli lisans tabanlı fiyat listelerini, varsa bu fiyat düzeltmelerini yeniden indirmelidir.  
-- Microsoft, etkilenen işlemleri düzeltme ile ilgili sonraki adımlar hakkında bilgi almak için, önümüzdeki haftalarda, gelecek haftalarda bulunan iş ortakları ile iletişim kuracaktır.
+- İş ortaklarının geçerli lisans tabanlı fiyat listelerini (Mart ve Nisan önizlemesi) yeniden yüklemesi ve varsa bu fiyat düzeltmelerini de yüklemesi gerekir.  
+- Microsoft, etkilenen işlemlerin düzeltilmesiyle ilgili sonraki adımları bildirmek için önümüzdeki haftalarda e-posta yoluyla etkilenen iş ortaklarıyla iletişim kuracak.
 
 ### <a name="questions"></a>Sorularınız mı var?
 
-diğer sorular için lütfen ilgili CSP Yammer topluluklarınızı denetleyin.
+Daha fazla soru için lütfen ilgili CSP Yammer kontrol edin.
 
 ________________
 
-## <a name="update-a-legal-company-name-through-partner-center"></a><a name="10"></a> Iş Ortağı Merkezi aracılığıyla yasal şirket adını güncelleştirme
+## <a name="update-a-legal-company-name-through-partner-center"></a><a name="10"></a> Yasal şirket adını şirket İş Ortağı Merkezi
 
 ### <a name="categories"></a>Kategoriler
 
 - Tarih: 2021-03-16
-- Sürücü verimliliği & ölçeği
+- Sürücü Verimliliği & Ölçeklendirme
 
 ### <a name="summary"></a>Özet
 
-2021 mart 'tan başlayarak, Microsoft İş Ortağı Ağı (mpn) iş ortakları ve Bulut Çözümü Sağlayıcısı (CSP) dolaylı satıcıları, iş ortağı merkezi aracılığıyla yasal şirket adlarını güncelleştirebilir.
+Mart 2021'den başlayarak Microsoft İş Ortağı Ağı (MPN) iş ortakları ve Bulut Çözümü Sağlayıcısı (CSP) dolaylı kurumsal bayileri, yasal şirket adını İş Ortağı Merkezi.
 
-### <a name="impacted-audience"></a>Etkilenen hedef kitle
+### <a name="impacted-audience"></a>Etkilene hedef kitle
 
-MPN iş ortakları ve CSP dolaylı satıcıları (CSP doğrudan fatura ortakları için geçerli değildir)
+MPN iş ortakları ve CSP dolaylı kurumsal bayileri (CSP doğrudan fatura iş ortakları için geçerli değildir)
 
 ### <a name="details"></a>Ayrıntılar
 
-2021 Mart 'tan itibaren, MPN iş ortakları ve CSP dolaylı satıcıları, Iş Ortağı Merkezi aracılığıyla uyumlu ve kendi kendine bir şekilde yasal şirket adını güncelleştirebilir. Bu yeni özellik sayesinde, iş ortaklarının şirket adlarını güncelleştirmek için Iş ortağı merkezi destek bileti göndermesi artık gerekmez. Bu işlem, bu etkinlikleri gerçekleştirirken iş ortakları için önemli miktarda zaman kazandırır. 
+Mart 2021'den başlayarak MPN iş ortakları ve CSP dolaylı kurumsal bayileri, yasal şirket İş Ortağı Merkezi uyumlu, self servis bir şekilde güncelleştirebilmektedir. Bu yeni özellik sayesinde iş ortaklarının şirket adını güncelleştirmek için İş Ortağı Merkezi destek bileti göndermesi gerekmeyecek. Bu, bu etkinlikleri gerçekleştirecek iş ortakları için önemli miktarda zaman tasarrufu sağlar. 
 
-Daha fazla bilgi için bkz. [yasal iş profilinizi güncelleştirme](../update-your-partner-profile.md#update-your-legal-business-profile).
+Daha fazla bilgi edinmek için [bkz. Yasal iş profilinizi güncelleştirme.](../update-your-partner-profile.md#update-your-legal-business-profile)
 
 >[!NOTE]
->Yasal iş profilinizde bulunan şirket adının yazım hatası ve kısaltmalarının olmadığından ve resmi şirket iş kaydı kayıtlarınızda tam olarak eşleştiğinden emin olun. Kuruluş profilinizi güncelleştirme hakkında daha fazla bilgi için bkz. [kuruluş profilinizi doğrulama](../update-your-partner-profile.md#update-your-legal-business-profile).
+>Yasal iş profilinizde şirket adının yazım hataları ve kısaltmaları olduğundan ve resmi şirket iş kaydı kayıtlarınıza tam olarak uygun olduğundan emin olun. Kuruluş profilinizi güncelleştirme hakkında daha fazla bilgi için bkz. [Kuruluş profilinizi doğrulama.](../update-your-partner-profile.md#update-your-legal-business-profile)
 
 ### <a name="next-steps"></a>Sonraki adımlar
 
-Uygun ekibin süreçlerini gözden geçirebilmesi ve güncelleştirebilmesi için bu bilgileri kuruluşunuz dahilinde paylaşabilirsiniz.
+Uygun ekibin işlemlerini gözden geçire incelemesi ve güncelleştirmesi için bu bilgileri kuruluş içinde paylaşın.
 
 ### <a name="questions"></a>Sorularınız mı var?
 
-diğer sorular için lütfen ilgili CSP Yammer topluluklarınızı denetleyin.
+Daha fazla soru için lütfen ilgili CSP Yammer kontrol edin.
 
 ________________
-## <a name="update-to-cloud-solution-provider-csp-program-evolution-and-open-license-program-changes"></a><a name="9"></a>Bulut Çözümü Sağlayıcısı (CSP) program evrimini güncelleştirme ve lisans programı değişikliklerini açma
+## <a name="update-to-cloud-solution-provider-csp-program-evolution-and-open-license-program-changes"></a><a name="9"></a>Bulut Çözümü Sağlayıcısı (CSP) programı evrimi ve Açık Lisans programı değişikliklerine güncelleştirme
 
 ### <a name="categories"></a>Kategoriler
 
@@ -569,36 +569,36 @@ ________________
 
 ### <a name="summary"></a>Özet
 
-yeni ticari ve kamu sektörü kalıcı yazılım teklifleri, açık lisanslama programındaki değişikliklerle birlikte Bulut Çözümü Sağlayıcısı (CSP) programına da geliyor.
+Açık Lisanslama programında yapılan değişikliklerle birlikte Bulut Çözümü Sağlayıcısı (CSP) programına yeni ticari ve kamu sektörü kalıcı yazılım teklifleri geliyor.
 
-### <a name="impacted-audience"></a>Etkilenen hedef kitle
+### <a name="impacted-audience"></a>Etkilene hedef kitle
 
-Açık lisans programı ile satılan ticari dağıtımcılar ve yönetilen satıcılar ve tüm CSP iş ortakları deneyimidir kalıcı yazılım
+Açık Lisans programı aracılığıyla satış yapan ticari dağıtımcılar ve yönetilen kurumsal bayilerin yanı sıra kalıcı yazılım işlem yapan tüm CSP iş ortakları
 
 ### <a name="details"></a>Ayrıntılar
 
-Microsoft, Eylül 2020 ' de, iş ortakları için şirket içi yazılımın kullanılabilirliği de dahil olmak üzere, CSP programındaki iş ortaklarına yönelik fırsatları genişletmek için dijital dönüşümde yolculukta bir dizi adım [duyurmuştur](https://blogs.partner.microsoft.com/mpn/expanding-opportunities-for-partners-in-the-cloud-solution-provider-program/) . Bu değişiklikler, iş ortaklarının, CSP 'deki yazılım lisanslarını kullanarak işlerini büyütmesine ve bunların erişimini genişletmesine imkan tanır. Ayrıca, müşterilerin buluta geçişini güçlendirin ve iş ortaklarına müşteri hibrit bulut ortamları için gereken esnekliği sunar.
+[Eylül](https://blogs.partner.microsoft.com/mpn/expanding-opportunities-for-partners-in-the-cloud-solution-provider-program/) 2020'de Microsoft, iş ortakları için şirket içi yazılımların kullanılabilirliği de dahil olmak üzere CSP programında iş ortaklarının fırsatlarını genişletmek için dijital dönüşüm yolculuğumuza bir dizi adımı duyurdu. Bu değişiklikler, iş ortaklarının CSP'de yazılım lisanslarından yararlanarak işletmelerini büyüterek ve günümüzün buluta ilk dünyasında başarıya ulaşacak şekilde konumlandırmalarına olanak sağlar. Ayrıca müşterilerin buluta geçişlerini güçlendirerek iş ortaklarına müşteri hibrit bulut ortamları için gereken esnekliği sunar.
 
-Bu dijital dönüşüme devam eden aşağıdaki değişiklikleri duyuruyoruz:
+Bu dijital dönüşümün devamında aşağıdaki değişiklikleri açıklarız:
 
-- 1 Temmuz 2021: açık lisans programı fiyat listesine yeni SKU 'Lar, ürünler veya promosyonlar eklenmeyecektir.
+- 1 Temmuz 2021: Açık Lisans programı fiyat listesine yeni SKU' lar, ürünler veya promosyonlar eklenmez.
 
-- 7 temmuz 2021: CSP kalıcı yazılım fiyat listesine iki ticari teklif, Orijinal Windows Edinme ve Visual Studio Professional ve kamu sektörü teklifleri (kamu, eğitim ve kar amacı – bkz. [duyuru](./2020-december.md#9)) eklenecek.  Fiyat listesi, Iş Ortağı Merkezi 'nde [satış > fiyatlandırma & teklifleri](https://partnercenter.microsoft.com/pcv/sales) sayfasının yazılımlar bölümünde bulunabilir ve bu tarihte yeniden yayımlanmak üzere olur.
+- 7 Temmuz 2021: CSP kalıcı yazılım fiyat listesine Orijinal Windows Edinme Visual Studio Professional ve kamu sektörü teklifleri (kamu, eğitim ve kar amacı gütmeyen kuruluş – duyuruya [bakın)](./2020-december.md#9)olmak için iki ticari teklif eklenecektir.  Fiyat listesi, İş Ortağı Merkezi'daki [Satış > Fiyatlandırma & Teklifleri](https://partnercenter.microsoft.com/pcv/sales) sayfasının Yazılım bölümünde bulunabilir ve bu tarihte yeniden yayımlanmaz.
 
-CSP program evrimi ve açık lisans programı değişiklikleriyle ilgili tüm ayrıntılar için lütfen aşağıdaki **sonraki adımlara** bakın.
+CSP programı evrimi ve Açık Lisans programı değişiklikleriyle ilgili tüm ayrıntılar için lütfen aşağıdaki **Sonraki Adımlar'a** bakın.
 
 ### <a name="next-steps"></a>Sonraki Adımlar:
 
-- CSP program evrimi: Bulut Çözümü Sağlayıcısı Program hazırlık malzemelerinden [kalıcı yazılımı](https://partner.microsoft.com/resources/collection/software-in-csp#/) gözden geçirin. Rolünüzün doğru bilgilerini hızlı bir şekilde bulmak için bu [hazırlık haritasını](https://partner.microsoft.com/resources/detail/software-in-csp-readiness-map-pdf) kullanın.
+- CSP Programı evrimi: Program [hazırlığı malzemelerini Bulut Çözümü Sağlayıcısı Kalıcı](https://partner.microsoft.com/resources/collection/software-in-csp#/) yazılımı gözden geçirme. Rolünüz [için doğru bilgileri](https://partner.microsoft.com/resources/detail/software-in-csp-readiness-map-pdf) hızla bulmak üzere bu hazır olma haritasını kullanın.
 
-- Lisans programı değişikliklerini aç: [CSP program evrimini gözden geçirin ve açık lisans programı değişiklikleri](https://partner.microsoft.com/resources/collection/csp-open-evolution-to-a-better-experience#/) hazırlık malzemelerini inceleyin. Rolünüzün doğru bilgilerini hızlı bir şekilde bulmak için bu [hazırlık haritasını](https://partner.microsoft.com/resources/detail/csp-open-evolution-to-a-better-experience-readiness-map-pdf) kullanın.
+- Açık Lisans programı değişiklikleri: CSP programı [evrimini ve Açık Lisans programı değişikliklerinin hazırlık malzemelerini](https://partner.microsoft.com/resources/collection/csp-open-evolution-to-a-better-experience#/) gözden geçirme. Rolünüz [için doğru bilgileri](https://partner.microsoft.com/resources/detail/csp-open-evolution-to-a-better-experience-readiness-map-pdf) hızla bulmak üzere bu hazır olma haritasını kullanın.
 
 ### <a name="questions"></a>Sorular
 
-diğer sorular için lütfen ilgili CSP Yammer topluluklarınızı denetleyin.
+Daha fazla soru için lütfen ilgili CSP Yammer kontrol edin.
 
 _______________
-## <a name="update-to-a-previous-announcement-premium-assessments-an-add-on-to-compliance-manager"></a><a name="8"></a>önceki bir duyuruya güncelleştirme: uyumluluk yöneticisi 'ndeki bir eklenti olan Premium değerlendirmeleri
+## <a name="update-to-a-previous-announcement-premium-assessments-an-add-on-to-compliance-manager"></a><a name="8"></a>Önceki bir duyuruya güncelleştirin: Premium Değerlendirmeleri, Uyumluluk Yöneticisi'ne bir eklenti
 
 ### <a name="categories"></a>Kategoriler
 
@@ -607,34 +607,34 @@ _______________
 
 ### <a name="summary"></a>Özet
 
-Deneme teklifleri fiyat listesinde listelenmemelidir ve kaldırılacak.
+Deneme teklifleri fiyat listesinde listelenmiyor olmalı ve kaldırılacaktır.
 
-### <a name="impacted-audience"></a>Etkilenen hedef kitle
+### <a name="impacted-audience"></a>Etkilene hedef kitle
 
-iş ortakları deneyimidir aracılığıyla Bulut Çözümü Sağlayıcısı
+İş ortakları Bulut Çözümü Sağlayıcısı
 
 ### <a name="details"></a>Ayrıntılar
 
-Deneme teklifleri fiyat listesine dahil edilmemelidir. Bunlar 1 Mayıs 2021 fiyat listesinden kaldırılacak.
+Deneme teklifleri fiyat listesine dahil etmene gerek yok. Bunlar 1 Mayıs 2021 fiyat listesinden kaldırılacaktır.
 
-Özgün duyuru [burada](./2021-february.md#4)bulunur.
+İlk duyuru [buradadır.](./2021-february.md#4)
 
 ### <a name="additional-resources"></a>Ek kaynaklar
 
-- [Microsoft 365 E5 güvenlik ve uyumluluk](https://www.microsoft.com/licensing/product-licensing/microsoft-365-enterprise?activetab=m365-enterprise:primaryr5)
+- [Microsoft 365 E5 ve uyumluluk](https://www.microsoft.com/licensing/product-licensing/microsoft-365-enterprise?activetab=m365-enterprise:primaryr5)
 
-- [Microsoft uyumluluk yöneticisi-Microsoft 365 uyumluluğu 'nda değerlendirme oluşturma ve yönetme](/microsoft-365/compliance/compliance-manager-assessments)
+- [Microsoft Uyumluluk Yöneticisi'nde değerlendirmeleri oluşturma ve yönetme - Microsoft 365 Uyumluluğu](/microsoft-365/compliance/compliance-manager-assessments)
 
 ### <a name="next-steps"></a>Sonraki adımlar
 
-Bu konuyla ilgili kaynakları gözden geçirin ve bu bilgileri kuruluşunuzdaki uygun hissedarlarla paylaşabilirsiniz.
+Bu konu başlığıyla ilgili kaynakları gözden geçirme ve bu bilgileri kuruluşta uygun proje katılımcıları ile paylaşma.
 
 ### <a name="questions"></a>Sorularınız mı var?
 
-bu tekliflerle ilgili sorular için ilgili Yammer topluluklarınızı kontrol edin.
+Bu teklifler hakkında sorularınız için ilgili toplulukları Yammer kontrol edin.
 
 ________________
-## <a name="migrate-your-solutions-from-one-commercial-partner-ocp-go-to-market-gtm-to-the-microsoft-commercial-marketplace"></a><a name="7"></a> Çözümlerinizi bir ticari Iş ortağından (OCP) Microsoft ticari Market 'e (GTM) taşıma
+## <a name="migrate-your-solutions-from-one-commercial-partner-ocp-go-to-market-gtm-to-the-microsoft-commercial-marketplace"></a><a name="7"></a> Çözümlerinizi Bir Ticari İş Ortağından (OCP) pazara satışa (GTM) Microsoft ticari markete geçirme
 
 ### <a name="categories"></a>Kategoriler
 
@@ -643,19 +643,19 @@ ________________
 
 ### <a name="summary"></a>Özet
 
-29 Mart 2021 ' den itibaren, sınırlı bir ticari Iş ortağı (OCP) go-to market (GTM) özelliği ile karşılaşırsınız. Çözümlerinizi Iş Ortağı Merkezi ' nde ticari Market 'e geçirmenizi öneririz.
+29 Mart 2021'den itibaren sınırlı Bir Ticari İş Ortağı (OCP) pazara satış (GTM) özellikleriyle deneyim edineceksiniz. Çözümlerinizi İş Ortağı Merkezi'de ticari markete geçirmenizi İş Ortağı Merkezi.
 
-### <a name="impacted-audience"></a>Etkilenen hedef kitle
+### <a name="impacted-audience"></a>Etkilene hedef kitle
 
-OCP GTM 'de çözümlerle ortak satış kurumları
+Kuruluşlar OCP GTM'de çözümlerle ortak satışlar
 
 ### <a name="details"></a>Ayrıntılar
 
-Aralık 2020 ' de, Microsoft OCP GTM aracından gelen yolculuğumuzu Iş Ortağı Merkezi 'nde Microsoft Commercial Market 'e başladık. Bu geçiş ticari Market 'in yeteneklerini genişleterek, çözümlerinizi milyonlarca müşteriye göre sergilemenize, diğer Microsoft ve iş ortağı satıcılarıyla fırsatları daha da paylaşabilir ve yenilikçi çözümleri ortaklaşa satabilirsiniz.
+Aralık 2020'de, Microsoft OCP GTM aracından microsoft'ta Microsoft ticari marketi ile İş Ortağı Merkezi. Bu geçiş, çözümlerinizi milyonlarca müşteriyle gösterip diğer Microsoft ve iş ortağı satıcılarla çift yönlü olarak fırsat paylaşıp yenilikçi çözümler satarak ticari marketin özelliklerini genişletir.
 
-Geçişin sonraki kilometre taşı, 29 Mart 2021 ' de gerçekleşmeyecektir. Diğer bir deyişle, bazı alanlar salt okunurdur, sınırlı OCP GTM özelliklerine karşılaşmak için başlarsınız. Şu anda OCP GTM'de çözümlerle ortak satışlar sunuyorsanız, özelliklerini yararlanmak ve yayımlama deneyiminizi basitleştirmek için çözümlerinizi ticari markete geçirmenizi teşvik ediyoruz.
+Geçişte bir sonraki kilometre taşı 29 Mart 2021'de gerçekleşecek. İşte bu zaman sınırlı OCP GTM özellikleriyle, bazı alanlar salt okunur hale geldi. Şu anda OCP GTM'de çözümlerle ortak satışlar sunuyorsanız, özelliklerini yararlanmak ve yayımlama deneyiminizi basitleştirmek için çözümlerinizi ticari markete geçirmenizi teşvik ediyoruz.
 
-Ticari markete taşıma, ortak İş Ortağı Merkezi yayımlama deneyimi için birincil hedef haline gelmektedir. Çözümlerinizi paylaşılan müşterilerimize Microsoft ürünleri için aynı kanallar ve ürün içinde deneyimler aracılığıyla bağlayarak işlerinizi büyütebilirsiniz. [Ticari market hakkında daha fazla bilgi alın.](https://blogs.partner.microsoft.com/mpn/getting-started-with-the-microsoft-commercial-marketplace/)
+Ticari markete taşıma, ortak İş Ortağı Merkezi yayımlama deneyimi için birincil hedef haline gelmektedir. Microsoft ürünleri için aynı kanallar ve ürün içinde deneyimler aracılığıyla çözümlerinizi paylaşılan müşterilerimize bağlayarak işlerinizi büyümeye devam edersiniz. [Ticari market hakkında daha fazla bilgi alın.](https://blogs.partner.microsoft.com/mpn/getting-started-with-the-microsoft-commercial-marketplace/)
 
 ### <a name="next-steps"></a>Sonraki adımlar
 
@@ -707,7 +707,7 @@ ________________
 
 ### <a name="impacted-audience"></a>Etkilene hedef kitle
 
-Rusya'daki tüm iş ortakları, Bulut Çözümü Sağlayıcısı (CSP) programı aracılığıyla işlem yaptı.
+Rusya'daki tüm iş ortakları Bulut Çözümü Sağlayıcısı (CSP) programı aracılığıyla işlem yaptı.
 
 ### <a name="details"></a>Ayrıntılar
 
@@ -718,7 +718,7 @@ Rusya'daki tüm iş ortakları, Bulut Çözümü Sağlayıcısı (CSP) programı
 Yeni Azure ticaret deneyimini tanıtan ve ek bilgiler sağlayan birçok kaynak vardır. CSP Program Güncelleştirmeleri Kaynak Galerisi'nde en son [SSS,](https://partner.microsoft.com/resources/collection/new-azure-experience-in-csp#/)desteler, video ve daha fazlasını bulabilirsiniz.
 
 ________________
-## <a name="partner-center-software-license-key-and-download-fulfillment"></a><a name="4"></a>İş Ortağı Merkezi lisans anahtarını yükleme ve yerine getirme
+## <a name="partner-center-software-license-key-and-download-fulfillment"></a><a name="4"></a>İş Ortağı Merkezi lisans anahtarını yükleme ve gerçekleştirmeyi indirme
 
 ### <a name="categories"></a>Kategoriler
 
@@ -731,11 +731,11 @@ Yazılım İş Ortağı Merkezi ve lisans anahtarı yerine getirme özelliği ye
 
 ### <a name="impacted-audience"></a>Etkilene hedef kitle
 
-Tüm Bulut Çözümü Sağlayıcısı (CSP) iş ortakları, sürekli ve sunucu aboneliği yazılım siparişlerini İş Ortağı Merkezi
+Tüm Bulut Çözümü Sağlayıcısı (CSP) iş ortakları, yazılım aracılığıyla kalıcı ve sunucu aboneliği yazılım siparişlerini İş Ortağı Merkezi
 
 ### <a name="details"></a>Ayrıntılar
 
-İş ortağı geri bildirimlerine yanıt olarak, kalıcı ve İş Ortağı Merkezi abonelik yazılım siparişleri için yazılım ve lisans anahtarları elde etme özelliğini yeniden hazırlarız. 19 Ocak 2021'de kaldırılmasından önceki durumuna geri yüklenecektir. (Duyuruya [bakın.)](2020-september.md#17)
+İş ortağı geri bildirimlerine yanıt olarak, kalıcı ve İş Ortağı Merkezi abonelik yazılım siparişleri için yazılım ve lisans anahtarları elde etmek üzere yeni bir uygulama gerçekleştirme özelliğini yeniden hazırlarız. 19 Ocak 2021'de kaldırılmasından önceki durumuna geri yüklenecektir. (Duyuruya [bakın.)](2020-september.md#17)
 
 Yazılım lisans anahtarları ve indirme bağlantılarının değerli ve son derece aranılan fikri mülkiyet varlıkları olduğunu unutmayın. Sızdırıldıklarında etkinleştirme sınırları hızla tükenebilir ve olumsuz müşteri ve iş ortağı deneyimine neden olabilir.
 
@@ -772,8 +772,8 @@ Ortak büyüme taahhüdü kapsamında **Microsoft** ile ortak satış yapmak, ke
 
 **PSC,** 31 Mart **2021'den** itibaren salt okunur erişime taşınacak. Bu nedenle, İş Ortağı Merkezi ve bu özellik geliştirmelerine erişmenizi istiyoruz:  
 
-- **Microsoft'la** paylaştığın anlaşmaların, ihtiyacınız olan yardım türüne göre doğru satıcıya yönlendiren daha doğru yönlendirme.
-- **Teşvike uygun çözümler için** ön anlaşma uygunluk doğrulaması ve ISV Bağlan programı ölçütlerini karşılamak, onay sürecini ve yürütme kanıtı (POE) kanıtının sonunu basitleştirir.
+- **Microsoft ile** paylaştığın satış anlaşmalarının, ihtiyacınız olan yardım türüne göre doğru satıcıya yönlendiren daha doğru yönlendirme.
+- **Teşvike uygun çözümler için** ön anlaşma uygunluk doğrulaması ve ISV Bağlan programı ölçütlerini karşılamak, onay sürecini ve son yürütme kanıtı (POE) kanıtını basitleştirir.
 - **Tüm ortak satış** fırsatlarınızı ve satış nitelikli müşteri adaylarınızı tek bir yerde yönetmek için sorunsuz kullanıcı deneyimi.
 
 Ayrıca taşımanıza yardımcı olmak için İş Ortağı Merkezi yeni özellikler ekledik:
@@ -781,7 +781,7 @@ Ayrıca taşımanıza yardımcı olmak için İş Ortağı Merkezi yeni özellik
 - [Ortak satış fırsatları için toplu işlemler](../bulk-operations.md)
 - [Anlaşma geçişi özelliği](../psc-to-pc.md) **(PSC Anlaşmaları geçiş bölümüne** bakın.)
 
-İş Ortağı Merkezi'daki ortak satış deneyimini kullanarak satış ekipleriniz müşteri adaylarını ve fırsatları beslemeye, kapanış anlaşmalarına ve müşteri ilişkileri oluşturmaya daha fazla zaman sahip olacak.
+İş Ortağı Merkezi'daki ortak satış deneyimini kullanarak satış ekipleriniz müşteri adaylarını ve fırsatları beslemeye, satış anlaşmalarını kapatmaya ve müşteri ilişkileri oluşturmaya daha fazla zaman sahip olacak.
 
 ### <a name="next-steps"></a>Sonraki adımlar
 
@@ -818,7 +818,7 @@ Microsoft, 1 Nisan 2021'de aşağıdaki yeni ürünleri ve teklifleri başlataca
 
 Microsoft, kullanıcı başına ilk kullanıcı başına Power BI Premium tanıtacak. Power BI Premium şu anda yalnızca bir kapasite yapısında satılıyor. Power BI Premium Kullanıcı Başına kurumsal iş zekası (BI) ve analiz özelliklerine erişim sağlar. Esnek bireysel lisanslama, küçük ve orta ölçekli işletmelere hitap ediyor.
 
-Bu teklif [Power BI daha fazla bilgi](/power-platform-release-plan/2020wave2/power-bi/planned-features) edinmek için yayın ayrıntılarını gözden geçirebilirsiniz.
+Bu teklif [Power BI daha fazla bilgi](/power-platform-release-plan/2020wave2/power-bi/planned-features) edinmek için yayın ayrıntılarını gözden geçirme.
 
 
 **Teklif ayrıntıları**
@@ -832,8 +832,8 @@ Teklif adının fiyat listesi önizlemeden biraz farklı olduğunu unutmayın.
 | Power BI Premium Öğrenciler için Kullanıcı Başına | 657eea87-d0b0-4c89-8c8e-9b04395bd940 | 
 | Power BI Premium Kullanıcı Başına (Kar Amacı Gütmeyen Personel Fiyatlandırması) | 7a0a856c-059f-45dd-9d26-ae27992e706a | 
 | Power BI Premium Kullanıcı Başına Add-On | 244ff87e-5925-44a0-bf31-cea189719b58 | 
-| Power BI Premium Fakülteler için Kullanıcı Add-On Başına | 5da849bd-b8f7-4340-b4f4-3a9eaeb8987e | 
-| Power BI Premium Öğrenciler için kullanıcı Add-On başına | cf62d70d-5af5-422a-bda8-97936402ac8e | 
+| Power BI Premium Fakülteler Add-On Kullanıcı Başına | 5da849bd-b8f7-4340-b4f4-3a9eaeb8987e | 
+| Power BI Premium Öğrenciler için Kullanıcı Add-On Başına | cf62d70d-5af5-422a-bda8-97936402ac8e | 
 | Power BI Premium Kullanıcı Başına Add-On (Kar Amacı Gütmeyen Personel Fiyatlandırması) | 31c03289-47ab-4ab0-8df1-03742c127ac6 | 
 
 **Customer Voice and Marketing USL coğrafi ve segment genişletmesi**
@@ -856,7 +856,7 @@ Bu konu başlığı altında yer alan kaynakları gözden geçirin ve bu bilgile
 
 ### <a name="questions"></a>Sorularınız mı var?
 
-Bu teklifler hakkında sorularınız için ilgili topluluklar için Yammer kontrol edin. 
+Bu teklifler hakkında sorularınız varsa ilgili topluluklar için Yammer kontrol edin. 
 
 ________________
 ## <a name="microsoft-universal-print-now-available-in-some-suites"></a><a name="1"></a> Microsoft Evrensel Yazdırma artık bazı paketlerin içinde kullanılabilir
@@ -878,7 +878,7 @@ Bulut Çözümü Sağlayıcısı (CSP) programı aracılığıyla işlem yapıla
 
 [Evrensel Yazdırma,](https://aka.ms/universalprint) şirket Microsoft 365 sunucularına olan ihtiyacı ortadan kaldıran ve Windows cihazların Azure'a kayıtlı yazıcılara yazdırmasını sağlayan bir yazdırma hizmetidir. 1 Mart 2021'den itibaren işlem için kullanılabilir olacak.
 
-Çalışanlar sürücüsüz yazdırma, kolaylaştırılmış konum tabanlı yazıcı bulma ve öğrenme eğrisi olmayan sezgisel yazdırma deneyiminden faydalanıyor. Azure Active Directory (Azure AD) ile katılan cihazlar, mevcut Azure AD kimlik bilgilerini kullanarak güvenli bir şekilde yazdırılır. Yöneticiler yazdırmayı yönetmek için Azure portal ve yazıcılara yerel destekle kolayca Evrensel Yazdırma. Evrensel Yazdırma yazılım kullanılarak uyumlu olmayan yazıcılarla Evrensel Yazdırma bağlayıcısı dağıtılabilir.
+Çalışanlar sürücüsüz yazdırma, kolaylaştırılmış konum tabanlı yazıcı bulma ve öğrenme eğrisi olmayan sezgisel yazdırma deneyiminden faydalanıyor. Azure Active Directory 'a (Azure AD) katılan cihazlar, mevcut Azure AD kimlik bilgilerini kullanarak güvenli bir şekilde yazdırılır. Yöneticiler yazdırmayı yönetmek için Azure portal kullanır ve yazıcılara yerel destekle kolayca Evrensel Yazdırma. Evrensel Yazdırma yazılım kullanılarak uyumlu olmayan yazıcılarla Evrensel Yazdırma bağlayıcısı.
 
 Evrensel Yazdırma, Windows E3, A3, E5 ve A5'e ve Microsoft 365 BP, F3, E3, A3, E5 ve A5'e geri doldurulacak.  
 
@@ -895,8 +895,8 @@ Teklif adının fiyat listesi önizlemeden biraz farklı olduğunu unutmayın.
 
 ### <a name="next-steps"></a>Sonraki adımlar
 
-Fiyat listesi ve genel bakış hakkında bilgi [Evrensel Yazdırma edinebilirsiniz.](/universal-print/fundamentals/universal-print-whatis) Bu bilgileri, kuruluşta tüm uygun kişilerle paylaşın.
+Fiyat listesi ve genel bakış hakkında [bilgi Evrensel Yazdırma edin.](/universal-print/fundamentals/universal-print-whatis) Bu bilgileri, kuruluşta tüm uygun kişilerle paylaşın.
 
 ### <a name="questions"></a>Sorularınız mı var?
 
-Bu teklifler hakkında sorularınız için ilgili topluluklar için Yammer kontrol edin.
+Bu teklifler hakkında sorularınız varsa ilgili topluluklar için Yammer kontrol edin.

@@ -9,11 +9,11 @@ author: shganesh-dev
 ms.author: shganesh
 ms.localizationpriority: medium
 ms.openlocfilehash: 882b912a01301506bf163087f71bf70d0ed1aa41
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123961385"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126248489"
 ---
 # <a name="office-365-usage-report-available-from-the-partner-center-insights-dashboard"></a>Office 365 kullanım raporu, iş ortağı merkezi Analizler panosundan kullanılabilir
 

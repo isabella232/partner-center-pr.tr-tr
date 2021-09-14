@@ -10,11 +10,11 @@ ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.openlocfilehash: f6c710675f659d25d42a1e858cee0d76952f1cf6
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960674"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126249082"
 ---
 # <a name="renew-your-mpn-offers-for-competencies-and-advanced-specializations-during-the-renewal-window"></a>MPN tekliflerinizi, yenileme penceresi sırasında Uzmanlıklar ve Gelişmiş Uzmanlıklar için yenileyin
 

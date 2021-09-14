@@ -9,11 +9,11 @@ author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
 ms.openlocfilehash: 5b80cc15ade94a9003ec1b21293d86c3b5ac8ace
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960185"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126249074"
 ---
 # <a name="how-to-request-a-reseller-relationship-from-a-customer-in-partner-center"></a>İş Ortağı Merkezi'nde müşteriden kurumsal bayi ilişkisi isteğinde bulunma
 

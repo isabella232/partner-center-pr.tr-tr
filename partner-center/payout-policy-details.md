@@ -1,18 +1,18 @@
 ---
 title: Ödeme zamanlamaları ve süreçleri
 description: Azure Marketi ve diğer işlemler için ödeme zamanlamaları ve çıkış işlemleri gibi ödemeler ve işlemler hakkında bilgi edinin.
-ms.service: marketplace
-ms.subservice: partnercenter-marketplace-publisher
+ms.service: partner-dashboard
+ms.subservice: partnercenter-payouts
 ms.topic: conceptual
 author: eunjkim520
 ms.author: eunjkim
 ms.date: 05/25/2021
-ms.openlocfilehash: 417421ad51c30d067ce3eb2189534a391b2951a2
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.openlocfilehash: d30dbc3db4727aac815c37406d36f416b4563f10
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960524"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126248686"
 ---
 # <a name="payout-schedules-and-processes"></a>Ödeme zamanlamaları ve süreçleri
 
@@ -79,26 +79,26 @@ Aşağıdaki zamanlama bir örnektir:
 | Müşteri ilk geç ödeme e-postasını alır | 12/6/2020 | Hiçbiri |
 | Müşteri, artan aciliyet e-postalarını alır | 12/7/2020 – 1/31/2021 | Hiçbiri |
 | Publisher, yazma işlemi için büyük olasılıkla | 1/7/2021 | - |
-| Müşteri sonlandırma bildirimi alır | 2/1/2021 | Hiçbiri |
-| Toplama işlemi sona erer / fonlar yazılır | 2/15/2021 | Fonlar yazılıp yayımcıya gönderilen e-posta bildirimi. |
-| Ödeme düşüldüğü | 01.03.2021 | Publisher ödeme hesap hesaplarında negatif İş Ortağı Merkezi göreceğiz |
-| Ödemeye yardım | 3/15/2021 | Gelecekteki ödemeler, ödeme İş Ortağı Merkezi gösterilir. Publisher bakiye artık negatif olana kadar ödeme almaz.  |
+| Müşteri sonlandırma bildirimini alır | 2/1/2021 | Hiçbiri |
+| Toplama işleminin bitişi/fonları yazılır | 2/15/2021 | Fonların yazıldığı yayımcıya gönderilen e-posta bildirimi. |
+| Ödeme kesinti | 01.03.2021 | Publisher, iş ortağı merkezi ödeme deyimindeki negatif işlem görür |
+| Ödeme stopaj uygulanan | 3/15/2021 | Gelecekteki ödemeler, Iş Ortağı Merkezi ödeme bildiriminde gösterilir. Publisher, bakiye artık negatif olmayacak şekilde ödeme almaz.  |
 |||
 
-\* Ödeme tarihi Pasifik Standart Saati'ne (PST) göredir.
+\* Ödeme tarihi, Pasifik Standart Saati (PST) olarak belirlenir.
 
-## <a name="number-of-days-for-payments-to-reach-a-payout-account"></a>Ödeme hesabına ulaşacak ödemelerin gün sayısı
+## <a name="number-of-days-for-payments-to-reach-a-payout-account"></a>Ödemelerin bir ödeme hesabına ulaşması için geçen gün sayısı
 
-Normalde belirli bir ay içinde ödenmesi gereken tüm ödemeleri o ayın 15. gününde göndeririz, ancak ödemenin hesabınıza ulaşması başka bir zaman alır. Gün sayısı, aşağıda açıklandığı gibi hesabınız için kullanılan ödeme yöntemine bağlıdır.
+Genellikle söz konusu ayın 15. gününde belirli bir ay boyunca herhangi bir ödeme gönderiyoruz, ancak ödemenin hesabınıza ulaşması için başka bir zaman alır. Gün sayısı, aşağıda açıklandığı gibi, hesabınız için kullandığımız ödeme yöntemine bağlıdır.
 
 > [!NOTE]
-> Aşağıda gösterilen günlerin yaklaşık bir günü vardır; herhangi bir ödemenin hesabınıza ulaşarak daha fazla veya daha kısa sürede ulaşabilirsiniz.
+> Aşağıda gösterilen günler yaklaşık değerlerdir; herhangi bir ödemenin hesabınıza ulaşması daha fazla veya daha az zaman alabilir.
 
-| Ödeme yöntemi     | Ödeme hesabına ulaşacak gün sayısı     |
+| Ödeme yöntemi     | Ödeme hesabına ulaşma gün sayısı     |
 |--------------------|--------------------------------------------|
 | PayPal             | 1 iş günü                             |
 | ACH/SEPA           | 2-3 iş günü                          |
-| Havale      | 7-10 iş günü                         |
+| Tel aktarım      | 7-10 iş günü                         |
 |
 
 ## <a name="next-steps"></a>Sonraki adımlar

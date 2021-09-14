@@ -1,140 +1,140 @@
 ---
-title: Teşvikleri çekirdek gereksinimleri
+title: Teşviklerin temel gereksinimleri
 ms.topic: article
 ms.date: 09/11/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
-description: Talep oluşturmayı, Pazar geliştirmesini anlama ve teşvikleri programınızdaki etkinlikler için iş ortağı hazırlığını en üst düzeye çıkarmayı öğrenin.
+description: Talep oluşturma, pazar geliştirmeyi anlama ve teşvik programınız kapsamındaki etkinlikler için iş ortağı hazır olma süresini en üst düzeye çıkarma hakkında bilgi edinmek.
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: high
 ms.custom: SEOJULY.20
 ms.openlocfilehash: a980d35104f2fe7aad0117f3515a61ecf217a2b9
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960465"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126248525"
 ---
-# <a name="core-requirements-for-the-activities-in-your-incentive-program"></a>Gereksinimler programınızdaki etkinliklerin temel gereksinimleri
+# <a name="core-requirements-for-the-activities-in-your-incentive-program"></a>Teşvik programınız kapsamındaki etkinlikler için temel gereksinimler
 
-**Uygun roller**: teşvikleri admin | Teşvikleri kullanıcısı
+**Uygun roller:** Teşvik yöneticisi | Teşvikler kullanıcısı
 
-Teşvikleri talebi gönderdiğiniz her etkinlik türü çekirdek gereksinimlere sahiptir. Bu gereksinimleri, yürütme belgelerinin kanıtı üzerinde karşıladığınızı göstermek için gerekir. Bazı etkinlikler Ayrıca belirli iletişim türleri ve ölçümleri de gerektirir.
+Teşvik talebi gönderdiğiniz her etkinlik türünün temel gereksinimleri vardır. Yürütme kanıtı belgelerde bu gereksinimleri karşıladnızı göstermeniz gerekiyor. Bazı etkinlikler ayrıca belirli iletişim türlerini ve ölçümlerini de gerektirir.
 
-Aşağıdaki tablolarda, kabul edilen etkinliklerin her biri için temel gereksinimler ana hatlarıyla verilmiştir. 
+Aşağıdaki tablolar, kabul edilen etkinliklerin her biri için temel gereksinimleri özetler. 
 
 ## <a name="demand-generation"></a>Talep oluşturma
 
-### <a name="print-advertising"></a>Reklam Yazdır
+### <a name="print-advertising"></a>Yazdırma reklamını
 
 | Kategori | Yürütme kanıtı    |
 | ------ | ----------- |
 | Temel gereksinimler    | Şirket markası ve iletişim bilgileri<br><br>Microsoft içeriği |
-| İletişim gereksinimleri | Programa özgü temel gereksinimleri gösteren son iletişim parçasının (reklam temelinde) kopyası |
-| Ölçümler     | Tahmini müşteri (veya iş ortağı) ulaşma |
-|Uygun masraflar    | Üçüncü taraf medya yerleşimi<br><br>Yazdırılmış malzeme<br><br>Kurumlar ücretleri dahil olmak üzere ücret Kurumu pazarlama ve yaratıcı hizmetler  |
+| İletişim gereksinimleri | Programa özgü temel gereksinimleri gösteren son iletişim parçasının (reklama dayalı) kopyası |
+| Ölçümler     | Tahmini müşteri (veya iş ortağı) ile iletişime geç |
+|Uygun giderler    | Üçüncü taraf medya yerleşimi<br><br>Yazdırılan malzeme<br><br>Ücret-ajans pazarlama ve yaratıcı hizmetler (ajans ücretleri dahil)  |
 
 ### <a name="digital-advertising"></a>Dijital reklam
 
 | Kategori | Yürütme kanıtı    |
 | ------ | ----------- |
 | Temel gereksinimler | NA |
-| İletişim gereksinimleri | Dijital tanıtımdan oluşan ekran görüntüsü<br><br>AND<br><br>Programa özgü temel gereksinimleri gösteren giriş sayfasının URL 'SI |
-| Ölçümler     | Sonuçların Özeti (tıklama raporu gibi) |
-|Uygun masraflar    | Üçüncü taraf medya yerleşimi<br><br>Ücret-acenteu: kurumlar ücretleri dahil olmak üzere pazarlama ve yaratıcı hizmetler |
+| İletişim gereksinimleri | Dijital tanıtım ekran görüntüsü<br><br>AND<br><br>Programa özgü temel gereksinimleri gösteren giriş sayfasının URL'si |
+| Ölçümler     | Sonuçların özeti (tıklama raporu gibi) |
+|Uygun giderler    | Üçüncü taraf medya yerleşimi<br><br>Ücret - ajans: Pazarlama ve yaratıcı hizmetler, ayrıca ajans ücretleri |
 
 ### <a name="direct-mail-email-and-short-message-service-sms"></a>Doğrudan posta, e-posta ve kısa mesaj hizmeti (SMS)
 
 | Kategori | Yürütme kanıtı    |
 | ------ | ----------- |
 | Temel gereksinimler    | NA |
-| İletişim gereksinimleri | 1) programa özgü çekirdek gereksinimlerini gösteren son iletişim parçasının kopyası<br><br>2) dağıtım kanıtı, postıntadan işaretlenmiş sevkıyat zarfı veya diğer posta kanıtı (doğrudan posta), üst bilgi veya diğer e-posta (e-posta) veya telefon mesajı fotoğrafı (SMS) gösteren son e-posta içerebilir |
-| Ölçümler     | Tahmini müşteri (veya iş ortağı) ulaşma |
-|Uygun masraflar    | Veritabanı alımı<br><br>Yazdırılmış malzeme<br><br>Posta<br><br>Ücret-acenteu: kurumlar ücretleri dahil olmak üzere pazarlama ve yaratıcı hizmetler |
+| İletişim gereksinimleri | 1) Programa özgü temel gereksinimleri gösteren son iletişim parçasının kopyası<br><br>2) Dağıtım kanıtı, işaretli gönderim zarfını veya diğer posta kanıtını (doğrudan posta), tarihi geçmiş üst bilgi veya diğer e-posta kanıtını (e-posta) veya telefon iletisinin (SMS) fotoğrafını gösteren son e-postayı içerebilir |
+| Ölçümler     | Tahmini müşteri (veya iş ortağı) ile iletişime geç |
+|Uygun giderler    | Veritabanı alımı<br><br>Yazdırılan malzeme<br><br>Posta<br><br>Ücret - ajans: Pazarlama ve yaratıcı hizmetler, ayrıca ajans ücretleri |
 
-### <a name="partner-website-and-search-engine"></a>İş ortağı web sitesi ve arama altyapısı
-
-| Kategori | Yürütme kanıtı    |
-| ------ | ----------- |
-| Temel gereksinimler    | NA |
-| İletişim gereksinimleri | URL 'yi gösteren site sayfaları ve/veya ekran görüntüleri<br><br>SEO projesi için iş Özeti veya hizmet sözleşmesi (yalnızca SEO etkinliği) |
-| Ölçümler     | Sonuçların Özeti (tıklama raporu gibi) |
-|Uygun masraflar    | Ücret-acenteu: kurumlar ücretleri dahil olmak üzere pazarlama hizmetleri<br><br>Programlama/geliştirme: programlama ve geliştirme ücretleri<br><br>Ücret-SEO: Iyileştirme ve bakım ücretleri  |
-
-### <a name="microsoft-syndicated-content"></a>Microsoft tarafından dağıtılmış içerik
+### <a name="partner-website-and-search-engine"></a>İş ortağı web sitesi ve arama motoru
 
 | Kategori | Yürütme kanıtı    |
 | ------ | ----------- |
 | Temel gereksinimler    | NA |
-| İletişim gereksinimleri | URL 'yi gösteren Site sayfalarının URL 'SI ve/veya ekran görüntüleri |
-| Ölçümler     | Sonuçların Özeti (tıklama raporu gibi) |
-|Uygun masraflar    | En fazla USD18, kullanım dönemi başına 750 GB: acenteleri dahil olmak üzere ücret ücretleri pazarlama hizmetleri<br><br>Programlama ve geliştirme ücretleri<br><br>Medya yerleştirme  |
+| İletişim gereksinimleri | URL'yi gösteren site sayfasının URL'si ve/veya ekran görüntüleri<br><br>SEO projesi için iş veya hizmet sözleşmesi bildirimi (yalnızca SEO etkinliği) |
+| Ölçümler     | Sonuçların özeti (tıklama raporu gibi) |
+|Uygun giderler    | Ücret - ajans: Pazarlama hizmetleri, ajans ücretleri de dahil<br><br>Programlama/geliştirme: Programlama ve geliştirme ücretleri<br><br>Ücret - SEO: İyileştirme ve bakım ücretleri  |
+
+### <a name="microsoft-syndicated-content"></a>Microsoft'un genel içeriği
+
+| Kategori | Yürütme kanıtı    |
+| ------ | ----------- |
+| Temel gereksinimler    | NA |
+| İletişim gereksinimleri | URL'yi gösteren site sayfalarının URL'si ve/veya ekran görüntüleri |
+| Ölçümler     | Sonuçların özeti (tıklama raporu gibi) |
+|Uygun giderler    | Kullanım dönemi başına 18.750 ABD Doları'na kadar olan gerçek maliyetler: ücret - ajans ücretleri dahil olmak üzere pazarlama hizmetleri<br><br>Programlama ve geliştirme ücretleri<br><br>Medya yerleşimi  |
 
 ### <a name="multi-touch-digital-campaign"></a>Çok dokunmalı dijital kampanya
 
 | Kategori | Yürütme kanıtı    |
 | ------ | ----------- |
 | Temel gereksinimler    |NA |
-| İletişim gereksinimleri | Geçerli etkinlik sayfasında ayrıntılı olarak tüm yürütme kanıtı gereklidir<br><br>Dijital reklam<br><br>Doğrudan e-posta<br><br>İş ortağı web sitesi ve arama altyapısı Iyileştirmesi<br><br>Satış  |
+| İletişim gereksinimleri | Geçerli etkinlik sayfasında ayrıntılı olarak yer alan tüm Yürütme Kanıtı gereklidir<br><br>Dijital Reklam<br><br>Doğrudan E-posta<br><br>İş Ortağı Web Sitesi ve Arama Motoru İyileştirmesi<br><br>Telemarketing  |
 | Ölçümler     | NA |
-|Uygun masraflar    | Üçüncü taraf medya yerleşimi<br><br>Ücret-acenteu: kurumlar ücretleri dahil olmak üzere pazarlama ve yaratıcı hizmetler<br><br>Veritabanı alımı<br><br>Programlama/geliştirme: programlama ve geliştirme ücretleri<br><br>Ücret-SEO: Iyileştirme ve bakım ücretleri<br><br>Ücret-üçüncü taraf çağrı merkezi ücretleri |
+|Uygun giderler    | Üçüncü taraf medya yerleşimi<br><br>Ücret - ajans: Pazarlama ve yaratıcı hizmetler, ayrıca ajans ücretleri<br><br>Veritabanı alımı<br><br>Programlama/geliştirme: Programlama ve geliştirme ücretleri<br><br>Ücret - SEO: İyileştirme ve bakım ücretleri<br><br>Ücret - Üçüncü taraf çağrı merkezi ücretleri |
 
 ## <a name="market-development"></a>Pazar geliştirme
 
-### <a name="telemarketing-and-expositions"></a>Telemarketing ve expositions
+### <a name="telemarketing-and-expositions"></a>Telefonla pazarlama ve Expositions
 
 | Kategori | Yürütme kanıtı    |
 | ------ | ----------- |
-| Temel gereksinimler    | Şirket adı/marka bilgileri, telesales betiği olan Microsoft içeriğine ekli olması gerekir |
+| Temel gereksinimler    | Şirket adı/marka bilgileri Telesales betiğine, Microsoft içeriğine eklenmelidir |
 | İletişim gereksinimleri | Betiğin kopyası |
-| Ölçümler     | Sonuçların özeti (çağrı sayısı ve başarılı kişi sayısı) |
-|Uygun giderler    | Ücret - ajans: Pazarlama hizmetleri, ajans ücretleri de dahil<br><br>Ücret - Üçüncü taraf çağrı merkezi: ücretler<br><br>Veritabanı alımı  |
+| Ölçümler     | Sonuçların Özeti (çağrı sayısı ve başarılı kişilerin sayısı) |
+|Uygun masraflar    | Ücret-acenteu: kurumlar ücretleri dahil olmak üzere pazarlama hizmetleri<br><br>Ücret-üçüncü taraf çağrı merkezi: ücretler<br><br>Veritabanı alımı  |
 
-### <a name="customer-seminars-and-boot-camps"></a>Müşteri seminerleri ve boot camps
+### <a name="customer-seminars-and-boot-camps"></a>Müşteri seminerleri ve önyükleme kaları
 
 | Kategori | Yürütme kanıtı    |
 | ------ | ----------- |
-| Temel gereksinimler    | Şirket markası ve iletişim bilgileri<br><br>Microsoft içeriği  |
-| İletişim gereksinimleri | Olay daveti ve davet/program<br><br>Olay fotoğrafları<br><br>Olay daveti ve toplantı temel gereksinimleri karşılamıyorsa sunu malzemeleri |
+| Temel gereksinimler    | Şirket marka adı ve iletişim bilgileri<br><br>Microsoft içeriği  |
+| İletişim gereksinimleri | Olay daveti ve gündem/program<br><br>Olay fotoğrafları<br><br>Olay daveti ve ajandası temel gereksinimleri karşılamıyorsa sunum malzemeleri |
 | Ölçümler     | Kayıtlı konukların sayısı |
-|Uygun giderler    | Tabela / görüntüleme/yazdırılan malzemeler<br><br>Hediye<br><br>Ücret - ajans: Pazarlama hizmetleri, ajans ücretleri de dahil<br><br>Ücret – kayıt<br><br>Ücret - dış konuşmacı<br><br>Ücret - üçüncü bir taraf tarafından sahip olunan ve yönetilen Surface cihazları da dahil olmak üzere tesis ve ekipman kiralama<br><br>Yemek (içecek hariç) |
+|Uygun masraflar    | İmza/görüntü/yazdırılmış malzemeler<br><br>Hediyelerimizden<br><br>Ücret-acenteu: kurumlar ücretleri dahil olmak üzere pazarlama hizmetleri<br><br>Ücret – kayıt<br><br>Ücret-dış konuşmacı<br><br>Üçüncü tarafa ait ve yönetilen Surface cihazları dahil olmak üzere ücret tesis ve ekipman Kiralama<br><br>Kalama (alkol hariç) |
 
-### <a name="tradeshows-and-exhibitions"></a>Ticari gösteriler ve gösteriler
+### <a name="tradeshows-and-exhibitions"></a>Tradeshows ve Sergi
 
 | Kategori | Yürütme kanıtı    |
 | ------ | ----------- |
-| Temel gereksinimler    | Şirket markası ve iletişim bilgileri<br><br>Microsoft içeriği  |
-| İletişim gereksinimleri | Olay daveti ve davet/program<br><br>Etkinlik katılımını gösteren fotoğraf (örneğin, stand fotoğrafı, sunum fotoğrafı vb.) |
-| Ölçümler     | Tahmini katılımcı veya stand ziyaretçisi sayısı  |
-|Uygun giderler    | Tabela / görüntüleme/yazdırılan malzemeler<br><br>Hediye<br><br>Ücret - ajans: Pazarlama hizmetleri, ajans ücretleri de dahil<br><br>Ücret – kayıt<br><br>Ücret - dış konuşmacı<br><br>Ücret - üçüncü bir taraf tarafından sahip olunan ve yönetilen Surface cihazları da dahil olmak üzere tesis ve ekipman kiralama<br><br>Yemek (içecek hariç) |
+| Temel gereksinimler    | Şirket marka adı ve iletişim bilgileri<br><br>Microsoft içeriği  |
+| İletişim gereksinimleri | Olay daveti ve gündem/program<br><br>Olay katılımını gösteren fotoğraf (örneğin, stand fotoğrafı, sunum fotoğrafı vb.) |
+| Ölçümler     | Tahmini katılımcı veya stand ziyaretçi sayısı  |
+|Uygun masraflar    | İmza/görüntü/yazdırılmış malzemeler<br><br>Hediyelerimizden<br><br>Ücret-acenteu: kurumlar ücretleri dahil olmak üzere pazarlama hizmetleri<br><br>Ücret – kayıt<br><br>Ücret-dış konuşmacı<br><br>Üçüncü tarafa ait ve yönetilen Surface cihazları dahil olmak üzere ücret tesis ve ekipman Kiralama<br><br>Kalama (alkol hariç) |
 
 ### <a name="customer-offers"></a>Müşteri teklifleri
 
 | Kategori | Yürütme kanıtı    |
 | ------ | ----------- |
 | Temel gereksinimler    | Microsoft içeriği |
-| İletişim gereksinimleri | Hüküm ve koşullarla teklifi gösterme. Kullanım dönemi başına kazanılan ortak çalışma fonlarının toplam %25'ine kadar olan gerçek maliyetler. Surface iş ortakları, uygun etkinlik harcamaları için kullanım dönemi başına kazanılan ortak çalışma fonlarının %100'lerine kadar talepte olabilir. |
-| Ölçümler     | Sonuçların özeti |
-|Uygun giderler    | Tabela / görüntüleme/yazdırılan malzemeler<br><br>Hediye<br><br>Ücret - ajans: Pazarlama hizmetleri, ajans ücretleri de dahil |
+| İletişim gereksinimleri | Hüküm ve koşullara sahip teklifi görüntüleyin. Kullanım dönemi başına en fazla %25 toplam kazanılan ortak op fonına kadar gerçek maliyetler. Surface iş ortakları, uygun etkinlik giderleri için kullanım süresi başına kazanılan ortak op fonlarının %100 ' ına kadar talep edebilir. |
+| Ölçümler     | Sonuçların Özeti |
+|Uygun masraflar    | İmza/görüntü/yazdırılmış malzemeler<br><br>Hediyelerimizden<br><br>Ücret-acenteu: kurumlar ücretleri dahil olmak üzere pazarlama hizmetleri |
 
-### <a name="internal-incentives-and-spiffs"></a>İç teşvikler ve SPIFF'ler
-
-| Kategori | Yürütme kanıtı    |
-| ------ | ----------- |
-| Temel gereksinimler    | Şirket markası ve iletişim bilgileri – şirket/marka adı iletişim malzemelerine dahil edilirse dahili yarışma kuralları yeterli olacaktır<br><br>Microsoft içeriği |
-| İletişim gereksinimleri   | Hüküm ve koşullarla teklifi gösterme. Kullanım dönemi başına kazanılan ortak çalışma fonlarının toplam %25'ine kadar olan gerçek maliyetler. Surface iş ortakları, uygun etkinlik harcamaları için kullanım dönemi başına kazanılan ortak çalışma fonlarının %100'lerine kadar talepte olabilir. |
-| Ölçümler     | Sonuçların özeti |
-|Uygun giderler    | Kullanım dönemi başına kazanılan ortak çalışma fonlarının %25'ine kadar olan gerçek maliyetler: Signage, display, printed materials<br><br>Hediye<br><br>Ücret - ajans: Pazarlama hizmetleri, ajans ücretleri de dahil<br><br>Surface iş ortakları, uygun etkinlik harcamaları için kullanım dönemi başına kazanılan ortak çalışma fonlarının %100'lerine kadar talepte olabilir |
-
-### <a name="on-site-champ"></a>Yerinde Şampiyon
+### <a name="internal-incentives-and-spiffs"></a>İç teşvikleri ve SPIFFs
 
 | Kategori | Yürütme kanıtı    |
 | ------ | ----------- |
-| Temel gereksinimler    | Hizmetler Microsoft ürünlerine %100 odaklandı | 
-| İletişim gereksinimleri | Teslim edilebilirlik örneği (Yerinde Şampiyon formunda açıklananlara göre) |
+| Temel gereksinimler    | Şirket marka adı ve iletişim bilgileri – Şirket/marka adı iletişim malzemesine dahil olursa iç yarışma kuralları yeterli olacaktır<br><br>Microsoft içeriği |
+| İletişim gereksinimleri   | Hüküm ve koşullara sahip teklifi görüntüleyin. Kullanım dönemi başına en fazla %25 toplam kazanılan ortak op fonına kadar gerçek maliyetler. Surface iş ortakları, uygun etkinlik giderleri için kullanım süresi başına kazanılan ortak op fonlarının %100 ' ına kadar talep edebilir. |
+| Ölçümler     | Sonuçların Özeti |
+|Uygun masraflar    | %25 oranında toplam kazanılan ortak işlem fonuna kadar gerçek maliyetler: tabela, görüntü, yazdırılmış malzemeler<br><br>Hediyelerimizden<br><br>Ücret-acenteu: kurumlar ücretleri dahil olmak üzere pazarlama hizmetleri<br><br>Surface iş ortakları, uygun etkinlik giderleri için kullanım süresi başına kazanılan ortak op fonlarının %100 ' ına kadar talep edebilir |
+
+### <a name="on-site-champ"></a>Yerinde Champ
+
+| Kategori | Yürütme kanıtı    |
+| ------ | ----------- |
+| Temel gereksinimler    | Hizmetler Microsoft ürünlerinde %100 odaklı | 
+| İletişim gereksinimleri | Teslim edilebilirler örneği (yerinde Champ formunda açıklananlar temel alınarak) |
 | Ölçümler     | NA |
-|Uygun giderler    | Surface için %100'e kadar olan gerçek maliyetler ve kullanım dönemi başına kazanılan ortak çalışma fonlarının diğer tüm programları için %50'ye varan ücretler: Ücretler - hizmetler: Site Şampiyonları tarafından sağlanan hizmetler |
+|Uygun masraflar    | %100 ' e varan ve kullanım dönemi başına kazanılan ortak op fonlarının tüm diğer programları için %50 ' a kadar gerçek maliyetler |
 
 ### <a name="proof-of-concept"></a>Kavram kanıtı
 

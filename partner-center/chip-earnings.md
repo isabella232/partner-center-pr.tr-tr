@@ -2,7 +2,7 @@
 title: CHIP’te kazançları görüntüleme
 ms.topic: how-to
 ms.date: 11/09/2020
-description: Channel Incentives Platform (CHIP) aracında teşvikler bildiriminizi ve kazançlarınızı görüntülemeyi öğrenin.
+description: Channel teşvikleri platform (yonga) aracında teşvikleri deyiminizi ve gelirlerinizi görüntülemeyi öğrenin.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
@@ -10,35 +10,35 @@ ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: a8703d9a8c482ac3fba5497780b2f5163bf86061
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123961234"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126248295"
 ---
-# <a name="view-earnings-using-the-chip-tool"></a>CHIP aracını kullanarak kazançları görüntüleme
+# <a name="view-earnings-using-the-chip-tool"></a>YONGA aracını kullanarak kazançları görüntüleme
 
-**Uygun roller:** Birincil kişi veya program yöneticisi
+**Uygun roller**: birincil iletişim veya Program Yöneticisi
 
-Teşvikler bildiriminize Channel Incentives Platform aracı (CHIP) aracılığıyla erişebilirsiniz.
+Teşvikleri deyiminize Channel teşvikleri platform Tool (yonga) aracılığıyla erişebilirsiniz.
 
-## <a name="view-earnings"></a>Kazançları görüntüleme
+## <a name="view-earnings"></a>Kazançları görüntüle
 
-1. Kimlik (önceki Canlı Kimlik) Microsoft hesabı CHIP'de oturum açma.
+1. Microsoft hesabı (önceki Live ID) kullanarak YONGADA oturum açın.
 
-2. İlgilenin teşvik programını seçin.
+2. İlgilendiğiniz teşvikleri programını seçin.
 
-3. Program **Özeti altında dönemi** veya ayı seçin. 
-1. Açılan listeden Hesaplama Ayrıntıları'ı seçin.
-1.  **Bildiriminizi** açmak için bildirim çubuğunda Aç'a tıklayın.
+3. **Program Özeti** altında period veya month ' ı seçin. 
+1. Açılan listeden hesaplama ayrıntıları ' nı seçin.
+1.  Deyiminizi açmak için bildirim çubuğunda **Aç** ' a tıklayın.
 
 ### <a name="explanation-of-details-tabs"></a>Ayrıntılar sekmelerinin açıklaması
 
 |**Sekme**|**Tanım**|
 |-------------|--------------------------|
-|DetailReport-Flatfile|Seçilen zaman dönemi için teşvik programına ilişkin müşteri adı, sözleşme ve kaldıraç ayrıntıları gibi ayrıntıları içerir|
-|DeltaReport-pivot|Yalnızca son yayımlanan deyimden güncelleştirmeler Enterprise güncelleştirmeler|
-|DetailReport-pivot|Para birimi ve ödeme tutarı dahil olmak üzere ödeme ayrıntılarının özeti|
+|DetailReport-Flatfile|Müşteri adı, sözleşme, Manya ayrıntıları dahil olmak üzere seçili zaman aralığı için teşvikleri programına ilişkin ayrıntıları içerir|
+|DeltaReport-Pivot|yalnızca Enterprise için son yayımlanan deyimlerden güncelleştirmeler|
+|DetailReport-Pivot|Para birimi ve ödeme tutarı dahil olmak üzere ödeme ayrıntılarının Özeti|
 |Başarı ayrıntıları|Yalnızca SPLAR için taban çizgisi değeri, başarı ve büyüme yüzdesi|
 
 ## <a name="next-steps"></a>Sonraki adımlar

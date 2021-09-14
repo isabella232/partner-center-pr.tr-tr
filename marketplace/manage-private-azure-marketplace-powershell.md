@@ -1,6 +1,6 @@
 ---
-title: 'Hızlı Başlangıç: PowerShell kullanarak Azure Market Özel Ağ Yönetme'
-description: Bu hızlı başlangıçta, özel bir Azure Market'daki teklifleri Azure PowerShell.
+title: 'Hızlı başlangıç: PowerShell kullanarak özel bir Azure Marketi yönetme'
+description: Bu hızlı başlangıçta, Azure PowerShell kullanarak özel bir Azure Marketi 'nde tekliflerin nasıl yönetileceği gösterilmektedir.
 author: keferna
 ms.author: keferna
 ms.topic: quickstart
@@ -9,45 +9,45 @@ ms.devlang: azurepowershell
 ms.date: 11/24/2020
 ms.custom: devx-track-azurepowershell
 ms.openlocfilehash: d7bd790eab2618822dbc5099ad1ad107794c82d2
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123937004"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126248432"
 ---
-# <a name="quickstart-manage-a-private-azure-marketplace-using-powershell"></a>Hızlı Başlangıç: PowerShell kullanarak Azure Market Özel Ağ Yönetme
+# <a name="quickstart-manage-a-private-azure-marketplace-using-powershell"></a>Hızlı başlangıç: PowerShell kullanarak özel bir Azure Marketi yönetme
 
-Bu makalede, [Az.Marketplace](/powershell/module/az.marketplace) PowerShell modülünü kullanarak özel Azure Market tekliflerini nasıl yönettniz açıklanmıştır.
+Bu makalede, [az. Market](/powershell/module/az.marketplace) PowerShell modülünü kullanarak özel bir Azure Marketi 'nde teklifleri nasıl yönetebileceğinizi açıklanmaktadır.
 
 > [!IMPORTANT]
-> Özel Azure Market şu anda genel önizlemede. Bu önizleme sürümü bir hizmet düzeyi sözleşmesi olmadan sağlanır. Üretim iş yüklerinde kullanılması önerilmez. Bazı özellikler desteklenmiyor veya kısıtlı özelliklere sahip olabilir. Daha fazla bilgi için bkz. [Microsoft Azure Önizlemeleri için Ek Kullanım Koşulları](https://azure.microsoft.com/support/legal/preview-supplemental-terms/).
+> Özel Azure Marketi Şu anda genel önizleme aşamasındadır. Bu önizleme sürümü bir hizmet düzeyi sözleşmesi olmadan sağlanır. Üretim iş yüklerinde kullanılması önerilmez. Bazı özellikler desteklenmeyebilir veya kısıtlı özelliklere sahip olabilir. Daha fazla bilgi için bkz. [Microsoft Azure Önizlemeleri için Ek Kullanım Koşulları](https://azure.microsoft.com/support/legal/preview-supplemental-terms/).
 
 ## <a name="requirements"></a>Gereksinimler
 
 * Azure aboneliğiniz yoksa başlamadan önce [ücretsiz](https://azure.microsoft.com/free/) bir hesap oluşturun.
 
-* Yerel olarak kullanmak Azure PowerShell:
-  * [Az PowerShell modülünü yükleyin.](/powershell/azure/install-az-ps)
-  * [Bağlan-AzAccount](/powershell/module/az.accounts/connect-azaccount) cmdlet'ini kullanarak Azure Bağlan oturum açın.
-* Şu bilgileri kullanmayı Azure Cloud Shell:
-  * Daha [fazla bilgi için Azure Cloud Shell](/azure/cloud-shell/overview) Genel Bakış'a bakın.
+* Azure PowerShell yerel olarak kullanmayı tercih ederseniz:
+  * [Az PowerShell modülünü yükler](/powershell/azure/install-az-ps).
+  * [Bağlan-azaccount](/powershell/module/az.accounts/connect-azaccount) cmdlet 'ini kullanarak Azure hesabınıza Bağlan.
+* Azure Cloud Shell kullanmayı seçerseniz:
+  * Daha fazla bilgi için bkz. [Azure Cloud Shell Genel Bakış](/azure/cloud-shell/overview) .
 
   > [!IMPORTANT]
-  > **Az.Marketplace** PowerShell modülü önizlemedeyken, cmdlet'ini kullanarak modülü ayrı `Install-Module` olarak yüklemeniz gerekir. Bu PowerShell modülü genel kullanıma sunulduktan sonra, gelecekteki Az PowerShell modülü sürümlerinin bir parçası haline gelecek ve Azure Cloud Shell içinden varsayılan olarak sağlanacaktır.
+  > **Az. Market** PowerShell modülü önizlemedeyken, cmdlet 'ini kullanarak ayrı olarak yüklemelisiniz `Install-Module` . Bu PowerShell modülü genel kullanıma sunulduktan sonra, gelecekteki Az PowerShell modülü sürümlerinin bir parçası haline gelecek ve Azure Cloud Shell içinden varsayılan olarak sağlanacaktır.
 
   ```azurepowershell-interactive
   Install-Module -Name Az.Marketplace
   ```
 
-* Birden çok Azure aboneliğiniz varsa, kaynakların faturalandırilmesi gereken uygun aboneliği seçin. [Set-AzContext cmdlet'ini kullanarak belirli bir](/powershell/module/az.accounts/set-azcontext) aboneliği seçin.
+* Birden çok Azure aboneliğiniz varsa, kaynakların faturalandırılması gereken uygun aboneliği seçin. [Set-AzContext](/powershell/module/az.accounts/set-azcontext) cmdlet 'ini kullanarak belirli bir abonelik seçin.
 
   ```azurepowershell-interactive
   Set-AzContext -SubscriptionId 00000000-0000-0000-0000-000000000000
   ```
 
-## <a name="list-private-stores"></a>Özel depoları listele
+## <a name="list-private-stores"></a>Özel depoları Listele
 
-Özel mağazaların listesini almak için [Get-AzMarketplacePrivateStore](/powershell/module/az.marketplace/get-azmarketplaceprivatestore) cmdlet'ini kullanın. Aşağıdaki örnek, kiracı kapsamında oluşturulan özel depoları listeler.
+Özel mağazaların listesini almak için [Get-AzMarketplacePrivateStore](/powershell/module/az.marketplace/get-azmarketplaceprivatestore) cmdlet 'ini kullanırsınız. Aşağıdaki örnek, kiracı kapsamı altında oluşturulan özel depoları listeler.
 
 ```azurepowershell-interactive
 Get-AzMarketplacePrivateStore
@@ -62,9 +62,9 @@ Name           : 00000000-0000-0000-0000-000000000000
 Type           : Microsoft.Marketplace/privateStores
 ```
 
-## <a name="add-an-offer-to-a-private-marketplace"></a>Özel markete teklif ekleme
+## <a name="add-an-offer-to-a-private-marketplace"></a>Özel Market 'e teklif ekleme
 
-Özel bir mağazaya teklif eklemek için [Set-AzMarketplacePrivateStoreOffer](/powershell/module/az.marketplace/set-azmarketplaceprivatestoreoffer) cmdlet'ini kullanın. Aşağıdaki örnek, kiracı kapsamında oluşturulan özel bir mağaza için belirtilen teklifi özel markete ekler.
+Özel bir depoya teklif eklemek için [set-Azmarketplaceprivatestoreteklifin](/powershell/module/az.marketplace/set-azmarketplaceprivatestoreoffer) cmdlet 'ini kullanırsınız. Aşağıdaki örnek, belirtilen teklifi kiracı kapsamı altında oluşturulan özel bir mağazaya özel bir market 'e ekler.
 
 ```azurepowershell-interactive
 $Params = @{
@@ -99,7 +99,7 @@ Type                      : Microsoft.Marketplace/privateStores/offers
 
 ## <a name="get-private-store-offers"></a>Özel mağaza tekliflerini al
 
-Bir veya daha fazla özel mağaza teklifi almak için [Get-AzMarketplacePrivateStoreOffer](/powershell/module/az.marketplace/get-azmarketplaceprivatestoreoffer) cmdlet'ini kullanın. Aşağıdaki örnek, kiracı kapsamında eklenen belirtilen özel depoyla ilişkili teklifleri alır.
+Bir veya daha fazla özel mağaza teklifi almak için [Get-Azmarketplaceprivatestoreteklifin](/powershell/module/az.marketplace/get-azmarketplaceprivatestoreoffer) cmdlet 'ini kullanırsınız. Aşağıdaki örnek, kiracı kapsamı altına eklenen belirtilen özel depo ile ilişkili teklifleri alır.
 
 ```azurepowershell-interactive
 Get-AzMarketplacePrivateStoreOffer -PrivateStoreId 00000000-0000-0000-0000-000000000000
@@ -138,7 +138,7 @@ Type                      : Microsoft.Marketplace/privateStores/offers
 
 ## <a name="remove-an-offer"></a>Teklifi kaldırma
 
-Bir teklifi özel mağazadan kaldırmak için [Remove-AzMarketplacePrivateStoreOffer](/powershell/module/az.marketplace/remove-azmarketplaceprivatestoreoffer) cmdlet'ini kullanın. Aşağıdaki örnek, kiracı kapsamında oluşturulmuş özel bir mağazadan bir teklifi kaldırır.
+Özel bir mağazadan bir teklifi kaldırmak için [Remove-Azmarketplaceprivatestoreteklifin](/powershell/module/az.marketplace/remove-azmarketplaceprivatestoreoffer) cmdlet 'ini kullanırsınız. Aşağıdaki örnek, kiracı kapsamında oluşturulan özel bir mağazadan bir teklifi kaldırır.
 
 ```azurepowershell-interactive
 Remove-AzMarketplacePrivateStoreOffer -privateStoreId 00000000-0000-0000-0000-000000000000 -offerId publisherid.offerid
@@ -146,4 +146,4 @@ Remove-AzMarketplacePrivateStoreOffer -privateStoreId 00000000-0000-0000-0000-00
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-[Özel uygulama oluşturma ve Azure Market.](create-manage-private-azure-marketplace.md)
+[Özel Azure Marketi oluşturun ve yönetin](create-manage-private-azure-marketplace.md).

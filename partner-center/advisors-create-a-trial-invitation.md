@@ -4,54 +4,54 @@ ms.topic: article
 ms.date: 05/13/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-pricing
-description: İş ortaklarının, Office 365 denemek üzere istemcileri için deneme davetleri oluşturup nasıl gönderebileceğine ve gönderebileceğine öğrenin. İş ortaklarının yetkili bir abonelik Danışmanı olması çok daha fazla.
+description: İş ortaklarının istemcileri için deneme davetleri oluşturma ve gönderme hakkında bilgi Office 365. İş ortakları çok yetkili bir abonelik danışmanıdır.
 author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
 ms.openlocfilehash: d451218722b599569c7757c05e93af2c052a1eb8
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123961185"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126248660"
 ---
-# <a name="advisors-create-and-send-a-trial-invitation-for-clients-to-try-office-365"></a>Danışmanları: Office 365 denemek için istemciler için deneme davetiyesi oluşturun ve gönderin
+# <a name="advisors-create-and-send-a-trial-invitation-for-clients-to-try-office-365"></a>Danışmanlar: İstemcilerin denemesi için deneme daveti oluşturun ve Office 365
 
 
-**Uygun roller**: danışman
+**Uygun roller:** Danışman
 
 > [!NOTE]
-> Bu özellik yalnızca abonelik danışmanları yetkilendirilmiş Microsoft Iş ortakları tarafından kullanılabilir.
+> Bu özellik yalnızca yetkili abonelik danışmanları olan Microsoft İş Ortakları tarafından kullanılabilir.
 
-Office 365 deneyebilmeleri için, istemcilerinize deneme davetleri oluşturup gönderebilirsiniz. Deneme daveti oluşturduğunuzda **deneme daveti oluşturma** Sihirbazı sizin için özel bir URL oluşturur. URL, sizi Abonelik danışmanı olarak tanımlayan katıştırılmış bir kod içerir. Bu URL 'YI bir veya daha fazla istemci için kullanabilirsiniz. URL 'YI bir e-posta ile istemcisine gönderin veya diğer belgelerde URL 'YI kullanın. Abonelik, belirli bir teklifine bağlı olarak bir veya daha fazla hizmet içerebilir. Bir davet tek seferde yalnızca bir deneme aboneliği için gönderilebilir.
+Deneme denemelerini yapmak için istemcilerinize deneme davetleri oluşturabilir ve Office 365. Deneme daveti oluştururken, Deneme **daveti oluşturma sihirbazı** sizin için özel bir URL oluşturur. URL'de sizi abonelik danışmanı olarak tanımlayan ekli bir kod vardır. Bu URL'yi bir veya daha fazla istemci için kullanabilirsiniz. URL'yi e-postayla istemcinize gönderin veya DIĞER belgelerde kullanın. Abonelik, belirli bir teklife bağlı olarak bir veya daha fazla hizmet içerebilir. Aynı anda yalnızca bir deneme aboneliği için davet gönderebilirsiniz.
 
-Temsilcili yönetim sunmaya sertifikalıyorsanız, deneme davetine, hesabı istemciniz adına yönetmenizi sağlayan bir seçenek ekleyebilirsiniz. Bu, istemcinizin Office 365 denemesini kolaylaştırır.
+Temsilci ile yönetim sunma sertifikasına sahipseniz, deneme davetine, hesabı istemciniz adına yönetmenizi sağlayan bir seçenek ebilirsiniz. Bu, istemcinizin daha kolay bir şekilde denemesini Office 365.
 
-## <a name="to-create-a-trial-invitation"></a>Deneme davetiyesi oluşturmak için
+## <a name="to-create-a-trial-invitation"></a>Deneme daveti oluşturmak için
 
-1. **Denemeler ve satın alma teklifleri** için  >  **davetiye oluştur**' a gidin.
+1. Denemeler **ve satın alma teklifleri Davet**  >  **oluştur'a gidin.**
 
-2. **Deneme daveti oluştur** sayfasında, dahil etmek istediğiniz deneme davetiyesi seçeneklerini belirleyin:
+2. Deneme **daveti oluştur** sayfasında, eklemek istediğiniz deneme daveti seçeneklerini belirleyin:
 
-    - **Iş ortağı ofisi**: Şirketinizde birden çok ofis varsa, bu deneme daveti ile ilişkilendirmek istediğiniz ofisi seçin.
+    - **İş ortağı** ofisi: Şirketinizin birden çok ofisi varsa, bu deneme daveti ile ilişkilendirmek istediğiniz ofisi seçin.
 
-        İş ortağı ofis konumları eklemek için bkz. [konum ekleme](manage-locations.md). Yeni ofis konumları, Iş ortağı ofisi listesinde görünen 24 saate kadar sürebilir.
+        İş ortağı ofisi konumları eklemek için [bkz. Konum ekleme.](manage-locations.md) Yeni ofis konumları oluşturulduktan 24 saat sonra İş ortağı ofis listesinde görünmesini gerektirir.
 
-    - **Kullanım konumu**: istemcinizin Hizmetleri kullanacağı konumu seçin.
-    - **Deneme abonelikleri**: seçebileceğiniz deneme abonelikleri listesi, istemci ülke veya bölgesinin kullanım konumu tarafından belirlenir.
-    - **Temsil edilen yönetim**: Bu seçenek yalnızca, temsilcili yönetim sunmaya yetkili olan iş ortakları tarafından kullanılabilir. İstemcinizin Temsilcili yönetimini sunmak istiyorsanız bu seçeneği belirleyin. Bunu yaparsanız, istemciniz, temsilci ile yönetimi kabul etmeksizin veya kabul etmeden deneme davetini kabul edebilir. Temsilci olarak yönetim hakkında daha fazla bilgi için bkz. [sunulan temsilci yönetimi](customers-revoke-admin-privileges.md).
+    - **Kullanım konumu:** İstemcinizin hizmetleri kullanabileceği konumu seçin.
+    - **Deneme abonelikleri:** Seçebilirsiniz deneme aboneliklerinin listesi, istemcinizin ülke veya bölge kullanım konumu tarafından belirlenir.
+    - **Temsilcili yönetim:** Bu seçenek yalnızca temsilci ile yönetim sun sertifikalı iş ortakları tarafından kullanılabilir. İstemcinize temsilci ile yönetim sunmak için bu seçeneği belirleyin. Bunu yaptıysanız, istemciniz deneme davetini temsilcili yönetimi kabul eder veya kabul etmeden kabul eder. Temsilcili yönetim hakkında daha fazla bilgi için [bkz. Temsilci ile yönetim teklifi.](customers-revoke-admin-privileges.md)
 
 3. **İleri**’yi seçin.
 
-4. **Deneme davetiniz** sayfasında, deneme davetiyesi BILGILERINI ve URL 'yi kopyalayın ve ardından özelleştirilmiş bir deneme davetiyesi oluşturmak için bir e-posta, belge veya Web sayfasına yapıştırın.
+4. Deneme **daveti sayfanız** sayfasında, deneme daveti bilgilerini ve URL'sini kopyalayın ve özelleştirilmiş deneme daveti oluşturmak için bir e-postaya, belgeye veya web sayfasına yapıştırın.
 
     > [!NOTE]
-    > Deneme davetiyesi **Özet kimliğini** bir yere getirin. Teklifi izlemek için bu KIMLIĞI kullanın.
+    > Deneme daveti özet kimliğini **not unutmayın.** Teklifi izlemek için bu kimliği kullanın.
 
-5. Şirket logonuzu, giriş, kapatma açıklamalarını veya diğer bilgileri ekleyerek iletinizi kişiselleştirin.
+5. Şirket logonuzu, giriş, kapanış açıklamalarını veya diğer bilgileri dahil edinerek iletinizi kişiselleştirin.
 
-6. Deneme davetini istemciniz ile gönderin.
+6. Deneme davetini istemcinize gönderin.
 
 ## <a name="next-steps"></a>Sonraki adımlar
 

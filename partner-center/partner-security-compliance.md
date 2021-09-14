@@ -10,11 +10,11 @@ ms.localizationpriority: high
 ms.topic: conceptual
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 15e2792a38f8fc90612282ff30ad57dc320fc96a
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123961115"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126248462"
 ---
 # <a name="security-requirements-status-report"></a>Güvenlik gereksinimleri durum raporu
 

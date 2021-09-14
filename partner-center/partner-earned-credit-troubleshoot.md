@@ -10,11 +10,11 @@ ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 7ce31bd688c32da956f466d63beede3f0fc9f9ef
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123961495"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126248461"
 ---
 # <a name="troubleshooting-partner-earned-credit"></a>İş ortağı tarafından kazanılan kredi sorunlarını giderme
 
@@ -36,11 +36,11 @@ Erişim veya eksik bilgiler gibi PEC ile ilgili sorunları varsa aşağıdaki ö
 
 6. Abonelik/kaynak grubu/kaynak için geçerli bir Adına Yönet (AOBO) veya Role-Based Access Control (RBAC) rolüne sahip olduğunu onaylayın.
 
-7. Müşterinin RBAC rollerinizi kaldırıp kaldıra olmadığını belirleme. Öyleyse, müşterinin abonelikleri için yönetici ayrıcalıklarını yeniden Azure CSP bakın
+7. Müşterinin RBAC rollerinizi kaldırıp kaldıra olmadığını belirleme. Öyleyse, bkz. Müşterinin abonelikleri için yönetici ayrıcalıklarını Azure CSP durumuna alma
 
 8. Gün boyunca yönetici erişimine sahip olduğunu onaylayın.
 
-9. Günlük kullanım dosyanız içinde doğru sütunları gözden geçirerek onaylayın.
+9. Günlük kullanım dosyanıza doğru sütunları gözden geçirerek onaylayın.
 
 ## <a name="next-steps"></a>Sonraki adımlar
 

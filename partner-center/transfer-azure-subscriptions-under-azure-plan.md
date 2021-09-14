@@ -10,17 +10,17 @@ author: mckennaville
 ms.author: mcville
 ms.date: 07/21/2021
 ms.openlocfilehash: 14f03a8eb899f7224a38b0f998edd72077b34b3b
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960994"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126248298"
 ---
 # <a name="transfer-a-customers-azure-subscriptions-to-a-different-csp-under-an-azure-plan"></a>Müşterinin Azure aboneliklerini farklı bir CSP'ye aktarma (Azure planı kapsamında)
 
 **Uygun roller:** Hesap yöneticisi | Satış aracısı | Faturalama aracısı
 
-Bu makalede müşterilerin Azure planı kapsamında azure aboneliklerini Bulut Çözümü Sağlayıcısı (CSP) programından diğerine nasıl değiştir oldukları açıklanmıştır.
+Bu makalede, müşterilerin Azure planı kapsamında azure aboneliklerini Bulut Çözümü Sağlayıcısı (CSP) programından diğerine nasıl değiştireleri açıklanmıştır.
 
 Farklı bir iş ortağından müşterinin Azure aboneliklerini değiştirmek için aşağıdaki adımları izleyin. Geçerli iş ortağı, gelecekteki iş ortağı ve müşterinin tamamlanacak adımları var.
 
@@ -42,7 +42,7 @@ Geçiş aracının kullanılamadan önce müşterinin hem geçerli hem de gelece
     - Özel indirimler veya bölgesel kısıtlamalar yoktur.
     - Ürünler abonelik tabanlı değil.
     - Gelecekteki iş ortağı, yayımcının ürünün dağıtımı için izin verme listesine sahip olduğundan emin olmak için yayımcıyla birlikte çalışmalı.
-    - Bu koşullardan herhangi biri karşılanamasa, Azure Market iptal edilmesi gerekir. Ardından Azure abonelikleri aktarıldı ve Azure Market yeni iş ortağıyla birlikte satın alınmaktadır.
+    - Bu koşullardan herhangi biri karşı koşulların karşı Azure Market iptal edilmesi gerekir. Ardından Azure abonelikleri aktarıldı ve Azure Market yeni iş ortağıyla birlikte satın alınmaktadır.
 
 ## <a name="prerequisites"></a>Önkoşullar
 
@@ -57,7 +57,7 @@ Geçiş aracının kullanılamadan önce müşterinin hem geçerli hem de gelece
 
 ## <a name="customer-tasks"></a>Müşteri görevleri
 
-Azure aboneliklerini aktarması için müşterinin geçerli iş ortağıyla iletişim kurarak işlemi başlatması gerekir. Gelecekteki iş ortağının müşteri adına aktarım isteği formunu tamamlaması için müşterinin geçerli iş ortağının şirket adını ve Microsoft kimliğini toplaması gerekir.
+Azure aboneliklerini aktarması için müşterinin geçerli iş ortağıyla iletişime geçerek süreci başlatması gerekir. Gelecekteki iş ortağının müşteri adına aktarım isteği formunu tamamlaması için müşterinin geçerli iş ortağının şirket adını ve Microsoft kimliğini toplaması gerekir.
 
 Müşterilerin ayrıca geçerli iş ortağından aktarma yapmak istediğiniz abonelikleri tanımlaması gerekir. Office 365, Enterprise Mobility Suite veya Microsoft Dynamics CRM iş Microsoft Dynamics CRM değiştiremezsiniz.
 
@@ -66,9 +66,9 @@ Müşterilerin ayrıca geçerli iş ortağından aktarma yapmak istediğiniz abo
 
 ## <a name="future-partner-tasks"></a>Gelecekteki iş ortağı görevleri 
 
-Aboneliğin gelecekteki iş ortağının abonelik aktarımı isteği için İş Ortağı Merkezi aktarım isteği formunu tamamlaması gerekir:
+Aboneliğin gelecekteki iş ortağının, abonelik aktarımı isteği için İş Ortağı Merkezi bir aktarım isteği formunu tamamlaması gerekir:
 
-1.  Sol bölmede İş Ortağı Merkezi müşteriler'i seçin ve ardından aktarım isteğini tamamlamak istediğiniz müşteriyi seçin.
+1.  Veri aktarımının sol İş Ortağı Merkezi **Müşteriler'i** seçin ve ardından aktarım isteğini tamamlamak istediğiniz müşteriyi seçin.
 2.  Müşteriye özgü menüde Abonelikler'i **seçin.**
 3.  Aktarım istekleri **sekmesinde Yeni istek** **ekle'yi seçin:**
 
@@ -103,7 +103,7 @@ Geçerli iş ortağının abonelik aktarımını tamamlamak için İş Ortağı 
 
      veya
 
-    - Sol bölmede **İş Ortağı Merkezi'yi** seçin ve ardından aktarım isteğinin gönder olduğu müşteriyi seçin.
+    - Veri bölmesinin sol İş Ortağı Merkezi Müşteriler'i seçin ve ardından aktarım isteğinin gönder olduğu müşteriyi seçin. 
       1. Müşteriye özgü menüde Abonelikler'i **seçin.**
       1. Aktarım **istekleri sekmesinde,** Alınan istekler altında Aktarım isteği kimliğini seçerek **aktarım** **bilgilerini genişletin:**
 
@@ -118,7 +118,7 @@ Geçerli iş ortağının abonelik aktarımını tamamlamak için İş Ortağı 
 
 6. Aktarım **işlemini tamamlamak için Kabul** et ve aktar'ı seçin:
 
-   :::image type="content" source="images/modernazuretransfers/SelectSubs.png" alt-text="Aktarım isteğini gözden geçirme ekran görüntüsünü gösteren ekran görüntüsü.":::
+   :::image type="content" source="images/modernazuretransfers/SelectSubs.png" alt-text="Aktarım isteğini gözden geçir ekran görüntüsünü gösteren ekran görüntüsü.":::
 
    Önceki Azure teklifi aboneliklerine (MS-AZR-0145p) sahip bir müşteriniz varsa, aynı şekilde devam edin, aktarlanacak abonelikleri seçin ve ardından aktarım işlemini tamamlamak için Kabul et **ve aktar'ı** seçin.
 
@@ -139,7 +139,7 @@ Azure RBAC aracılığıyla atanan mevcut kullanıcılara, gruplara veya hizmet 
 
 Yeni bir iş ortağı olarak, abonelik aktarımı sonrasında müşterinizin kaynaklarına RBAC erişimine sahip olmayacaksınız. Müşterinizin önceki iş ortağı RBAC erişimini korur. Aboneliklerle ilgili kimlerin içgörüleri olduğunu ve gerekli değişiklikleri nasıl yapacaklarını anlamak için müşteriyle birlikte çalışabilirsiniz.
 
-Müşterinizin önceki iş ortağı için Azure RBAC erişimini kaldırması ve sizin için erişim eklemesi gerekir. Erişim sağlama hakkında daha fazla bilgi için [bkz. Azure rol tabanlı erişim denetimi (Azure RBAC)?](/azure/role-based-access-control/overview). Erişimi kaldırma hakkında daha fazla bilgi için [bkz. Rol ataması kaldırma.](/azure/role-based-access-control/role-assignments-portal#remove-a-role-assignment)
+Müşterinizin önceki iş ortağı için Azure RBAC erişimini kaldırması ve sizin için erişim eklemesi gerekir. Erişim sağlama hakkında daha fazla bilgi için [bkz. Azure rol tabanlı erişim denetimi (Azure RBAC) nedir?](/azure/role-based-access-control/overview). Erişimi kaldırma hakkında daha fazla bilgi için [bkz. Rol ataması kaldırma.](/azure/role-based-access-control/role-assignments-portal#remove-a-role-assignment)
 
 Ayrıca aboneliklerinize Otomatik Olarak [Yönetici Adına (AOBO) erişim](https://channel9.msdn.com/Series/cspdev/Module-11-Admin-On-Behalf-Of-AOBO) elde edersiniz. AOBO, müşterinizin Azure aboneliklerini yönetebilirsiniz. Azure ayrıcalıkları hakkında daha fazla bilgi için bkz. [Müşterinin hizmetini veya aboneliğini yönetme izinleri alma](./customers-revoke-admin-privileges.md).
 

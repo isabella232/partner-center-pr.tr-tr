@@ -10,11 +10,11 @@ ms.author: dhgandhi
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 0a3af74158b36442118d41662744fc921277963c
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123959974"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126249057"
 ---
 # <a name="reinstate-admin-privileges-for-a-customers-azure-csp-subscriptions"></a>Müşterinin Azure CSP abonelikleri için yeniden devreye sokma yönetici ayrıcalıkları  
 

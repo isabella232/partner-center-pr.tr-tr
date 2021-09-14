@@ -10,13 +10,13 @@ ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 9568a014de926682dd89dd9d06d1c6ca5b98ac71
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960065"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126248557"
 ---
-# <a name="common-billing-scenarios-for-license-based-saas-transactions-in-partner-center"></a>İş Ortağı Merkezi'de lisans tabanlı SaaS işlemleri için yaygın faturalama İş Ortağı Merkezi
+# <a name="common-billing-scenarios-for-license-based-saas-transactions-in-partner-center"></a>Hizmetlerde lisans tabanlı SaaS işlemleri için yaygın faturalama İş Ortağı Merkezi
 
 **Uygun roller:** Yönetici aracısı | Faturalama yöneticisi | Yardım masası aracısı | Satış aracısı
 
@@ -66,7 +66,7 @@ Mutabakat dosyası aşağıdaki ücretleri içerir:
 
 ## <a name="purchase-and-cancel-a-customer-meter-saas-subscription-on-same-date"></a>Aynı tarihte müşteri ölçüm SaaS aboneliği satın alma ve iptal etme
 
-Bu senaryoda, aynı tarihte satın aldığınız ve iptal edilen bir müşteri ölçüm SaaS Azure portal faturalaması açıklandı.
+Bu senaryoda, aynı tarihe kadar satın aldığınız ve iptal edilen bir müşteri ölçüm SaaS Azure portal faturalaması açıklandı.
 
 Bu senaryoda, özel bir ölçüm SaaS aboneliği satın Azure portal. Ardından aboneliği aynı tarihte iptal ettiniz.
 

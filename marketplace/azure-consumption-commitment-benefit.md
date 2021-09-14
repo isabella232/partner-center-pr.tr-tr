@@ -7,11 +7,11 @@ author: mingshen
 ms.author: mingshen
 ms.date: 6/02/2021
 ms.openlocfilehash: ea6683c3033b25110784896eea0ac85083b8ed9e
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123936921"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126248443"
 ---
 # <a name="azure-consumption-commitment-benefit"></a>Azure tüketim taahhüdü avantajı
 

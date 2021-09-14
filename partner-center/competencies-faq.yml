@@ -3,18 +3,18 @@ metadata:
   title: Yetkinlikler - sık sorulan sorular
   ms.topic: article
   ms.date: 11/23/2020
-  description: MPN gold veya silver yetkinlikleri, avantajın süre sonu, yenileme veya Azure, bulut, Visual Studio, teknik, destek avantajları lisanslarını etkinleştirme hakkında yanıtlar.
+  description: MPN gold veya silver yetkinlikleri, avantajın süre sonu, yenilemesi veya Azure, bulut, Visual Studio, teknik, destek avantajları lisanslarını etkinleştirme hakkında yanıtlar.
   ms.service: partner-dashboard
   ms.subservice: partnercenter-membership
   author: keramp88
   ms.author: keramp
   ms.localizationpriority: medium
   ms.openlocfilehash: 16ab5449892b56c5fd5045b6606b6a94073a1a42
-  ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+  ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
   ms.translationtype: MT
   ms.contentlocale: tr-TR
-  ms.lasthandoff: 09/09/2021
-  ms.locfileid: "123960395"
+  ms.lasthandoff: 09/13/2021
+  ms.locfileid: "126248673"
 title: Yetkinlikler - sık sorulan sorular
 summary: >
   **Uygun roller:** MPN iş ortağı yöneticisi
@@ -36,11 +36,11 @@ sections:
   - question: >
       Üyeliğimi ne zaman yenilerim?
     answer: >
-      Mevcut üyelik, yenileme pencerenizin başlamasının ardından herhangi bir gün yenilenebilirsiniz. Yenileme pencereniz, satın alma tarihinizin yıl dönümünde ve bir gün sonra başlar. Örneğin, Microsoft Eylem Paketi 1 Eylül 2018'de satın aldıysanız yenileme pencereniz 2 Eylül 2019'da başlar.
+      Mevcut üyelik, yenileme pencerenizin başlamasının ardından herhangi bir gün yenilenebilirsiniz. Yenileme pencereniz, satın alma tarihinizin yıl dönümünde artı bir gün başlar. Örneğin, Microsoft Eylem Paketi 1 Eylül 2018'de satın aldıysanız yenileme pencereniz 2 Eylül 2019'da başlar.
   - question: >
       Kuruluşum kullanıcıları tarafından yapılan sınavları ve sertifikaları nasıl doğrularim?
     answer: >
-      Bir yetkinliğe ulaşma işlemi sırasında, genel yönetici veya MPN iş ortağı yöneticisi hangi kullanıcıların bir sınav, sertifikasyon veya değerlendirmeyi tamamlamış olduğunu analiz eder. Yönetici ayrıca bir uzmanlığın gereksinimlerine göre ilerlemeyi de kontrol ediyor olabilir.
+      Bir yetkinliğe ulaşma işlemi sırasında genel yönetici veya MPN iş ortağı yöneticisi, hangi kullanıcıların bir sınav, sertifikasyon veya değerlendirmeyi tamamlamış olduğunu analiz eder. Yönetici ayrıca uzmanlığın gereksinimlerine göre ilerlemeyi de kontrol ediyor olabilir.
 
 
       Bunu aşağıdaki gibi İş Ortağı Merkezi yapabilirsiniz:
@@ -55,16 +55,16 @@ sections:
       1. Yetkinlikler sayfasının üst kısmında Beceri raporu indir **seçeneğini bulun ve** seçin.
 
 
-      Ayrıca, kuruluş becerileriyle ilgili diğer raporlar da İş Ortağı Merkezi Analizler [alanında](partner-center-insights.md) İş Ortağı Merkezi. Bu raporları görüntülemek için, Rapor Görüntüleyicisi'nin veya Analizler Rapor Görüntüleyicisi'nin rolüne **sahip** bir yönetici **rolü atamanız gerekir.** MPN iş ortağı yöneticinizden bu rollerden biri için size erişim izni vermelerini istemeniz gerekir.
+      Ayrıca, kuruluş becerileriyle ilgili diğer raporlar da İş Ortağı Merkezi Analizler [alanında](partner-center-insights.md) İş Ortağı Merkezi. Bu raporları görüntülemek için, Rapor Görüntüleyicisi'nin veya Analizler Rapor  Görüntüleyicisi'nin özel bir **rolüne sahip** olması gerekir. MPN iş ortağı yöneticinizden bu rollerden biri için size erişim izni vermelerini istemeniz gerekir.
 
 
-      Rapor Analizler aşağıdaki gibi görüntülenebilir:
+      Rapor Analizler aşağıdaki gibi görüntüebilirsiniz:
 
 
       1. İş Ortağı Merkezi [oturum açın.](https://partner.microsoft.com/dashboard)
 
 
-      1. Analizler  menüsünden İş Ortağı Merkezi'yi ve ardından Kuruluş **becerileri'i seçin.** Daha küçük bir menü görüntülenir.
+      1. Analizler  menüsünden İş Ortağı Merkezi'yi ve ardından Kuruluş **becerileri'yi seçin.** Daha küçük bir menü görüntülenir.
 
 
       1. Menüden **Eğitim** **veya Microsoft Learn'yi** seçin.
@@ -78,7 +78,7 @@ sections:
       Partner University hesabı, İş Ortağı Merkezi hesabıyla ilişkilendirilecek. Kullanıcının değerlendirmeleri 72 saat içinde İş Ortağı Merkezi Kullanıcı Becerileri **Raporu'nun içinde görünür.**
 
 
-      Bu raporda yalnızca İş Ortağı Merkezi ve programlarla ilgili beceriler görüntülenir. (Bazı eski beceriler, 12 ay veya daha uzun bir süre boyunca da görünebilir.
+      Bu raporda yalnızca İş Ortağı Merkezi ve İş Ortağı Merkezi ilgili beceriler görüntülenir. (Bazı eski beceriler, 12 ay veya daha uzun bir süre için de görünebilir.
 
 
       Belirli yetkinliklerin gereksinimlerini kontrol edin. Bunu kontrol etmek  için, İş Ortağı Merkezi panosunda veya [](https://partner.microsoft.com/dashboard) Microsoft İş Ortağı Ağı [seçeneğini kullanın.](https://partner.microsoft.com/membership/competencies)
@@ -88,7 +88,7 @@ sections:
 
       > Bir sınav, değerlendirme veya sertifikasyon özellikle belirli bir yetkinliğe sahip bir gereksinim olarak bahsediliyorsa, bu yetkinliğe uygun olarak dikkate alınmaz.
   - question: >
-      Altın veya gümüş uzmanlık elde edin veya Microsoft Eylem Paketi Aboneliği (MAPS) satın alma yetkim olduğunda sahip olduğum yazılım avantajları (lisans kullanım hakları gibi) nelerdir?
+      Altın veya gümüş uzmanlık elde etme veya Microsoft Eylem Paketi Aboneliği (MAPS) satın alma yetkim olduğunda sahip olduğum yazılım avantajları (lisans kullanım hakları gibi) nelerdir?
     answer: >
       Aşağıdaki kaynaklara bakın:
 
@@ -98,18 +98,18 @@ sections:
 
       - Microsoft [Eylem Paketi](https://assetsprod.microsoft.com/microsoft-action-pack-license-table.pdf) Subscription iş ortakları için lisans tablosu indirin.
   - question: >
-      Nasıl yaparım? Microsoft sertifika profili kimliğimi (MCP kimliği veya MCID) Microsoft İş Ortağı Merkezi mi?
+      Nasıl yaparım? Microsoft Sertifika Profili Kimliği 'ne (MCP Kimliği veya MCID) Microsoft İş Ortağı Merkezi?
     answer: >
-      Bkz. [Microsoft Learn hesabı ile İş Ortağı Merkezi ilişkilendirme.](ms-learn-associate.md)
+      Bkz. [Microsoft Learn hesabınızla İş Ortağı Merkezi ilişkilendirme.](ms-learn-associate.md)
   - question: >
       Uzmanlıklar KIP'leri raporu altında yansıtıldı performans verilerini neden göremiyorum?
     answer: >
-      İş Ortağı Merkezi panosunda veya Microsoft İş Ortağı Ağı yetkinlikleri sayfasında [](https://partner.microsoft.com/dashboard) istenen [yetkinlik kapsamındaki gereksinimleri kontrol edin.](https://partner.microsoft.com/membership/competencies) Bunu yapmak, her bir yetkinliğe (İş ortağı ilişkilendirme türü, Teklif türü, TTM gibi) ulaşma gereksinimlerini anlamanıza yardımcı olur.
+      İş Ortağı Merkezi panosunda veya Microsoft İş Ortağı Ağı yetkinlikleri sayfasında [](https://partner.microsoft.com/dashboard) istenen [yetkinliğe göre gereksinimleri kontrol edin.](https://partner.microsoft.com/membership/competencies) Bunu yapmak, her bir yetkinliğe (İş ortağı ilişkilendirme türü, Teklif türü, TTM gibi) ulaşma gereksinimlerini anlamanıza yardımcı olur.
 
 
       > [!NOTE]
 
-      > İş ortağı ilişkilendirme türü belirli bir yetkinliğe yönelik bir gereksinim olarak özellikle bahsediliyorsa, performans hedeflerine ulaşacak şekilde tanınmaz.
+      > İş ortağı ilişkilendirme türü özellikle belirli bir uzmanlık gereksinimi olarak bahsediliyorsa, performans hedeflerine ulaşacak şekilde tanınmaz.
 
       >
 

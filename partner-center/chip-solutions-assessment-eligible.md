@@ -2,7 +2,7 @@
 title: Çözüm Değerlendirmesine uygunluk
 ms.topic: how-to
 ms.date: 11/09/2020
-description: Solution Assessment Incentives Program'a katılım için uygunluk gereksinimlerini denetlemeyi öğrenin.
+description: Çözüm değerlendirmesi teşvikleri programına katılım için gereksinimlerin uygunluğunu nasıl denetleyeceğinizi öğrenin.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
@@ -10,43 +10,43 @@ ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: acf7e19d98b6d3a9c48277f0b3276b26816572e8
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123961235"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126248604"
 ---
-# <a name="eligibility-requirements-for-the-solution-assessment-incentives-program"></a>Solution Assessment Incentives Programı için uygunluk gereksinimleri
+# <a name="eligibility-requirements-for-the-solution-assessment-incentives-program"></a>Çözüm değerlendirmesi teşvikleri programı için uygunluk gereksinimleri
 
-**Uygun roller:** Birincil kişi veya program yöneticisi
+**Uygun roller**: birincil iletişim veya Program Yöneticisi
 
-FY20'de Çözüm Değerlendirme Teşvik Programı'nın etkin ve kayıtlı durumuna sahip iş ortakları, etkin bir MPN üyeliğine ve etkin bir Silver veya Gold MPN uzmanlığına sahipse FY21'de teşvikler için uygun olmaya devam edecektir. İş ortağı nitelikleri, her yıl uygunluk için gözden geçirildi. Kurulmuş iş ortakları geçerli yılda uygunluk ve katılım gereksinimlerini karşılamıyorsa, bu iş ortakları bir sonraki yıllık gözden geçirmede kaldırılacaktır. Tüm yeni iş ortakları, kendi alanında yerel Çözüm Değerlendirme Uzmanı (SAS) aracılığıyla yer almaktadır. SAS, iş ortağı şirketin beceri ve uzmanlığıyla eşleşen eşleştirmeye ve SAS tarafından desteklenen yan kuruluşların iş ihtiyaçlarına göre, ekleme için iş ortaklarını belirleyecek.
+Etkin ve kayıtlı durumundaki iş ortakları, FY20 içindeki çözüm değerlendirme teşvik programı, etkin bir MPN üyeliği ve etkin gümüş ya da altın MPN uzmanlığına sahip olmaları durumunda FY21 teşvikleri için uygun olmaya devam edecektir. İş ortağı nitelikleri, yıllık uygunluk için gözden geçirilir. Belirlenen iş ortakları geçerli yılda uygunluk ve katılım gereksinimlerini gerçekleştirmediği takdirde, bu, bir sonraki yıllık incelemede kaldırılacaktır. Tüm yeni iş ortakları, kendi alanındaki yerel çözüm değerlendirmesi uzmanı (SAS) üzerinden eklendi. SAS, iş ortağı şirketteki yeteneklerin ve uzmanlığın eşleşmesini ve SAS tarafından desteklenen yan kuruluşların iş ihtiyaçlarını temel alarak eklendi iş ortaklarını belirler.
 
-Ekleme işlemini başlatmadan önce iş ortaklarının, şirketlerinin kendi yerelliklerinde değerlendirmeleri desteklemek için sahip olduğu özellikleri SAS ile tartışmaları gerekir.
+Ekleme işlemine başlamadan önce, iş ortaklarının, şirketlerinin, yerelleştirmelerinde değerlendirmelerin desteklenmesi için sahip oldukları yetenekler ile tartışılabilmeleri gerekir.
 
-Şu anda bir teşvik programına kayıtlı olan iş ortaklarının, Çözüm Değerlendirmesi Teşvik ekleme için uygun olması için FY21 teşvik ölçütlerini karşılaması gerekir.
+Şu anda bir bir bir bir bir bir teşvik programına kaydolmayan iş ortakları, çözüm değerlendirmesi teşvik etmek için uygun olması için FY21 maları ölçütlerini karşılamalıdır.
 
 ## <a name="requirements"></a>Gereksinimler
 
 |**Uygunluk gereksinimleri**|**Ölçütler**|
 |-----------------------|------------------|
-|Etkin Microsoft İş Ortağı Ağı (MPN) üyeliği|Çözüm Değerlendirmesi Teşvik Programı'nın uygunluğu için etkin MPN üyeliği gerekir|
-|Bir gümüş veya altın uzmanlık|Etkin veya Etkin ön onaylı olabilir|
-|Azure Uzman MSP/Gelişmiş özelleştirme iş ortağı|15 Nisan 2021'den itibaren, Veri & Altyapısı Geçişi, Uygulama Modernleştirme, Azure Foundations, Azure Express ve Azure Maliyet İyileştirme dahil olmak üzere Azure Çözüm Değerlendirmeleri için Azure Uzman MSP/Gelişmiş Uzmanlık sertifikası gerekir.|
+|Etkin Microsoft İş Ortağı Ağı (MPN) üyeliği|Çözüm değerlendirmesi teşvik programındaki uygunluk, etkin MPN üyeliğini gerektirir|
+|Bir gümüş veya altın uzmanlık|Etkin veya etkin bir önceden onaylanmış olabilir|
+|Azure uzman MSP/gelişmiş özelleştirme iş ortağı|15 Nisan 2021 ' den itibaren veri & altyapı geçişi, uygulama modernleştirme, Azure temelleri, Azure Express ve Azure maliyet Iyileştirmesi dahil olmak üzere Azure çözüm değerlendirmeleri, Azure uzman MSP/gelişmiş özel sertifika gerektirir.|
 
 |**Katılım gereksinimi**|**Ölçütler**|
 |-------------------------|-------------------------------------|
-|Teşvik etkinliği|İş ortaklarının sonraki mali yılda Çözüm Değerlendirmesi teşvikleri kazanmak için uygun olmaya devam etmek için geçerli mali yılda Çözüm Değerlendirmesi Teşvik programına etkin bir şekilde katılmaları gerekir. Bu, en az bir onaylı Çözüm Değerlendirmesi teşvik anlaşmasına eşit olur.|
+|Teşvik etkinliği|İş ortakları, aşağıdaki mali yılda çözüm değerlendirmesi teşvikleri kazanmaya uygun olmaya devam etmek için geçerli mali yılda çözüm değerlendirmesi teşvik programına etkin bir şekilde katılmalıdır. Bu, en az bir onaylanan çözüm değerlendirmesi ile ilgilenir.|
 
-## <a name="work-with-solution-assessment-specialist"></a>Çözüm Değerlendirmesi uzmanıyla çalışma
+## <a name="work-with-solution-assessment-specialist"></a>Çözüm değerlendirmesi uzmaniyle çalışma
 
-Bir iş ortağının Çözüm Değerlendirmesi Teşvik Programı'na katılım uygunluğu doğrulandıktan sonra, aylık ekleme sürecine katılmak için Çözüm Değerlendirme Uzmanından (SAS) bir davet alır.
+İş ortağının çözüm değerlendirmesi teşvik programı 'na katılım uygunluğu doğrulandıktan sonra, aylık ekleme sürecine katılmak için çözüm değerlendirmesi uzmanlarından (SAS) bir davetiye alırlar.
 
-Solution Assessment Incentives Programı ile ilgili ek ayrıntılar veya bilgiler için lütfen Çözüm Değerlendirme Uzmanınıza (SAS) ulaşın.
+Çözüm değerlendirmesi teşvikleri programıyla ilgili ek ayrıntılar veya bilgiler için lütfen çözüm değerlendirmesi uzmanınızla (SAS) iletişime geçin.
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-- [Çözüm Değerlendirmeleri Fırsat Durumu](chip-solution-assessment.md)
+- [Çözüm değerlendirmesi fırsat durumu](chip-solution-assessment.md)
 - [Destek](report-problems-with-partner-center.md)
 
 

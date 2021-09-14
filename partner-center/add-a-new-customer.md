@@ -4,19 +4,19 @@ ms.topic: how-to
 ms.date: 09/07/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-customers
-description: İş Ortağı Merkezi'da yeni müşteri kaydı İş Ortağı Merkezi. Ardından müşteri aboneliklerini satıp faturalamayı yönetebilir veya müşteri desteği sebilirsiniz.
+description: Yeni bir müşteri kaydı ekleme hakkında bilgi İş Ortağı Merkezi. Ardından müşteri aboneliklerini satıp faturalamayı yönetebilir veya müşteri desteği sebilirsiniz.
 author: parthp
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
 ms.openlocfilehash: 7995ee8f4da20d80fd260bcb77665e244e448227
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
-ms.translationtype: HT
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960195"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126248395"
 ---
-# <a name="how-to-add-a-new-customer-record-in-partner-center"></a>İş Ortağı Merkezi'de yeni müşteri kaydı ekleme
+# <a name="how-to-add-a-new-customer-record-in-partner-center"></a>İş Ortağı Merkezi'da yeni müşteri kaydı ekleme
 
 **Uygun roller:** Genel yönetici | Kullanıcı yönetimi yönetici | Yönetici aracısı | Satış aracısı
 
@@ -30,8 +30,8 @@ Bu makalede, yeni bir müşterinin İş Ortağı Merkezi. Abonelikleri satmadan,
 
 - **Bazı ülkeler için ek bilgi girin:** [Doğrudan fatura](#company-registration-id-and-phone-number-required-for-some-countries) iş ortağı veya dolaylı sağlayıcıysanız bazı ülkelerde şirket kayıt kimliği ve telefon numarası gereklidir
 - **Onay Microsoft Müşteri Sözleşmesi** onaylayın: Müşteri adına sipariş alamadan önce, müşteri adına sipariş [Microsoft Müşteri Sözleşmesi.](confirm-customer-agreement.md)
-- **Mevcut müşteriler  için farklı** adımlar kullanın: Çok kanallı veya Çok Kanallı [](multichannel.md) bir senaryo [](multipartner.md) aracılığıyla İş Ortağı Merkezi müşteri kayıtlarına sahip olan müşteriler de dahil olmak üzere [mevcut](request-a-relationship-with-a-customer.md)müşteriler için, buradaki adımları takip etmek yerine onlarla bir ilişki isteğinde bulundurabilirsiniz.
-- **Ayrıntılı, doğru müşteri bilgilerini girin:** Müşteri müşteri doğrulaması için şunların sağ olduğundan emin olun:
+- **Mevcut müşteriler  için farklı** adımlar kullanın: Çok kanallı veya Çok Kanallı [](multichannel.md) bir senaryo [](multipartner.md) aracılığıyla İş Ortağı Merkezi müşteri kayıtlarına sahip olan müşteriler de dahil olmak üzere [mevcut](request-a-relationship-with-a-customer.md)müşteriler için, buradaki adımları takip etmek yerine onlarla bir ilişki talep edin.
+- **Ayrıntılı ve doğru müşteri bilgilerini girin:** Müşteri doğrulaması kolaylaştırmak için:
   - Resmi belgelerde görünen yasal/resmi adı tam olarak girin.
   - Kısaltmalar veya kısa formlar kullanmaktan kaçının.
   - Test adlarını kullanma.
@@ -46,7 +46,7 @@ Bir şirket adı girerken aşağıdakilere izin verilmez:
 - Yalnızca $^# gibi özel &kullanın (aşağıdaki [tabloya](#table-of-special-characters) bakın).
 - Yalnızca boşlukları ve/veya sekmeleri kullanma.
 - LLC, Inc gibi kısıtlı listeden tek başına kısaltmaları kullanma [(aşağıdaki](#table-of-abbreviations) tabloya bakın).
-- ".com", ".org", ".edu", ".club" gibi internet Top-Level Etki Alanı (TDL) uzantılarına sahip adlar kullanma [(aşağıdaki](#table-of-top-level-domain-extensions) tabloya bakın).
+- ".com", ".org", ".edu", ".club" gibi internet Top-Level Etki Alanı (TDL) uzantılarıyla adları kullanma [(aşağıdaki](#table-of-top-level-domain-extensions) tabloya bakın).
 
 - Aynı karakterin, 999 gibi başka bir karakterle üç veya daha fazla kez tekrarlanan bir karakter kullanma.
 
@@ -83,7 +83,7 @@ Müşteri e-posta adresi girerken aşağıdakilere izin verilmez:
 
 6. Abonelikler  sayfasında, müşterinizin satın almak istediği tekliflerini seçin, lisans sayısını girin ve ardından Sonraki: Gözden **Geçir'i seçin.**
 
-7. Gözden Geçir **sayfasında,** girdilerinizi doğruluk için denetleyin ve gönder'i **seçin.**
+7. Gözden Geçir **sayfasında,** girdilerinizi doğruluk için denetleyin ve Gönder'i **seçin.**
 
 8. Müşteri bilgilerini eklemeyi bitirdikten ve gerekli abonelikleri satın aldığınız zaman Bitti'yi **seçin.**
 
@@ -91,7 +91,7 @@ Müşteri e-posta adresi girerken aşağıdakilere izin verilmez:
 
 Aşağıdaki ülkelerdeki müşteriler için kayıt ekleyen doğrudan fatura iş ortakları ve dolaylı sağlayıcılar da şirket telefon numarasını ve kayıt kimliğini (kuruluş INN'si olarak da bilinir) girmeli:
 
-Afrika, Afrika, Brezilya, Brezilya, Hindistan, Güney Afrika, Kırgızlar, Afrika, Vietnam, Myanmar, Arak, Rusya, Suudi Arabistan, Güney Afrika, Güney Sudan, Tajikistan, Arjantin, Rusya, Afrika, Birleşik Birleşik Arab Vezni, Özbekistan, Vietnam ve Vietnam
+Arjantin, Güney Amerika, Brezilya, Brezilya, Güney Kore, Hindistan, Brezilya, Brezilya, Hindistan, Rusya, Afrika, Rusya, Suudi Arabistan, Güney Afrika, Güney Sudan, Tacikistan, Hindistan, Rusya, Afrika, Afrika Birleşik Devletleri, Özbekistan, Vietnam ve Vietnam
 
 ## <a name="company-name-and-email-characters-abbreviations-and-extensions"></a>Şirket adı ve e-posta karakterleri, kısaltmalar ve uzantılar
 
@@ -134,7 +134,7 @@ Aşağıdaki tablolarda, yukarıdaki yeni kurallar bölümünde [belirtilen öğ
 | Dahili.  | Dahili.  | Dahili.  | Dahili. |
 | ----- | ----- | ----- | ----- |
 | .ac | .ba | .ca | .de |
-| .ad | .bb | .cc | .dj |
+| .ad | .bb | .cc | .değnek |
 | .ae | .bd | Cd | .dk |
 | .af | .be | .cf | .dm |
 | .ag | .bf | .cg | .do |
@@ -174,7 +174,7 @@ Aşağıdaki tablolarda, yukarıdaki yeni kurallar bölümünde [belirtilen öğ
 | .jp | .ma | .na | Ps |
 | .ke | .mc | .nc | .pt |
 | .kg | .md | .ne | .pw |
-| .km | .me | .nf | .py |
+| .yis | .me | .nf | .py |
 | .ki | .mf | .ng | .qa |
 | .km | .mg | .ni | .re |
 | .kn | .mh | Nl | .ro |

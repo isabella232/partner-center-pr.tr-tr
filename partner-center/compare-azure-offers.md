@@ -10,11 +10,11 @@ ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.openlocfilehash: d4b59dc0f492dbca2afd603c6b7800e782ab3a12
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123961064"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126248677"
 ---
 # <a name="compare-differences-between-azure-offers-in-the-csp-program"></a>CSP programında Azure teklifleri arasındaki farkları karşılaştırma
 
@@ -34,8 +34,8 @@ Aşağıdaki tabloda, yeni Microsoft ticaret deneyiminin bir parçası olan CSP 
 |Otomatik Yenileme|Yes|Yes|Hayır| Hayır|Yes|
 |Çoklu Para Birimi|Müşteri konumunu/para birimini temel alan fatura|Müşteri konumunu/para birimini temel alan fatura|Müşteri konumunu/para birimini temel alan fatura|Müşteri konumunu/para birimini temel alan fatura|İş ortağı konumu para birimine göre| 
 |Mutabakat & fatura|Her müşteri konumu para birimi için ayrı fatura ve Mutabakat dosyası.  Ayrıca günlük olarak derecelendirilmiş kullanım dosyaları da (hem fatura hem de faturalanmamış bölümler için) sağlanıyor |Her müşteri konumu para birimi için ayrı fatura ve Mutabakat dosyası|Her müşteri konumu para birimi için ayrı fatura ve Mutabakat dosyası|Her müşteri konumu para birimi için ayrı fatura ve Mutabakat dosyası|Tek bir fatura ve Mutabakat dosyasındaki tüm siparişler|
-|Teklif Matrisi & Listesi|Aylık yayımlanan ve ABD doları olarak fiyatlandı*|Market teklifleri ve fiyatlandırması, başlangıçtan itibaren gerçek zamanlı CSV dosya biçimine aktarabilirsiniz.|Tüm fiyatlandırma ve teklif ayrıntılarının dahil olduğu ayrı, tek dosya. Ayrı teklif matrisi dosyası yoktur||Tüm fiyatlandırma ve teklif ayrıntılarının dahil olduğu ayrı, tek dosya. Ayrı bir Teklif Matrisi yoktur.| 
-|Değişimleri & döndürür|Geçerli değildir. Azure planının satın alma eylemlerinde ticari işlem yoktur|Bir aylık ve 12 aylık lisans tabanlı tekliflerin yanı sıra kullanım tabanlı teklifler arasında değişiklik gösterir.|Sipariş tarihini takip etmek için 5 gün içinde %100 kredi alır. Sipariş tarihini 5 gün sonra döndürürse, pro-rated kredisi ve pro-rated kredinin %12'si erken sonlandırma ücreti alır; Müşteri başına yıllık 50.000 ABD doları (veya eşdeğer yerel para birimi) sınırı|Sipariş tarihini takip etmek için 60 gün içinde %100 kredi lisans anahtarları devre dışı bırakılır. Kısmi dönüşler kabul edilmeyecektir.|   30 günlük askıya almalar/iptaller %100 kredi alır; 30 gündeki askıya almalar/iptaller için prot olarak derecelendirilmiş bir kredi alırsınız.|
+|Teklif Matrisi & Listesi|Aylık yayımlanan ve ABD doları olarak fiyatlandı*|Market teklifleri ve fiyatlandırması, başlangıçtan itibaren gerçek zamanlı CSV dosya biçimine aktarabilirsiniz.|Tüm fiyatlandırma ve teklif ayrıntılarının dahil olduğu ayrı, tek dosya. Ayrı bir Teklif Matrisi dosyası yoktur||Tüm fiyatlandırma ve teklif ayrıntılarının dahil olduğu ayrı, tek dosya. Ayrı bir Teklif Matrisi yoktur.| 
+|Değişimleri & döndürür|Geçerli değildir. Azure planının satın alma eylemlerinde ticari işlem yoktur|Bir aylık ve 12 aylık lisans tabanlı tekliflerin yanı sıra kullanım tabanlı teklifler arasında değişiklik gösterir.|Sipariş tarihini takip etmek için 5 gün içinde %100 kredi alır. Sipariş tarihini 5 gün sonra döndürürse, pro-rated kredisi ve pro-rated kredinin %12'si erken sonlandırma ücreti alır; Müşteri başına yıllık 50.000 ABD doları (veya yerel para birimi eşdeğeri) sınırı|Sipariş tarihini takip etmek için 60 gün içinde %100 kredi lisans anahtarları devre dışı bırakılır. Kısmi dönüşler kabul edilmeyecektir.|   30 günlük askıya almalar/iptaller %100 kredi alır; 30 günlük askıya almalar/iptaller için prot derecelendirmeli bir kredi alırsınız.|
 |Coğrafi Kullanılabilirlik|139 ülke - Bu ülkelerin tam listesi burada mevcuttur.|Yeni Ticaret Teklifleri Ülke Kullanılabilirliği ve Müşteri Para Birimi Matrisi, bu tekliflerin iş ortağı tarafından CSP'de kullanılabilir yapmak için uygun olduğu kapsamı gösterir.|Tüm ayrıntılar için bkz. Yeni Ticaret Teklifleri Ülke Kullanılabilirliği ve Müşteri Para Birimi Matrisi. Aynı çıkış zamanlaması tüm yeni ticari teklifler için geçerlidir.|Tüm ayrıntılar için bkz. Yeni Ticaret Teklifleri Ülke Kullanılabilirliği ve Müşteri Para Birimi Matrisi.  Aynı çıkış zamanlaması tüm yeni ticari teklifler için geçerlidir.|247 ülke|
 |Destek gereksinimleri|Standart CSP destek gereksinimleri.|Teklif yayımlama şirketi teknik desteklerden sorumludur.  CSP İş Ortağı satış öncesi etkinliklerden, işlemden ve faturalama desteğinden sorumludur.|Standart CSP destek gereksinimleri.|Standart CSP destek gereksinimleri.|Standart CSP destek gereksinimleri.|
 

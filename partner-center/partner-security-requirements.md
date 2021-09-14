@@ -10,11 +10,11 @@ ms.author: vijvala
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 8966d744dfb70a7850ef6d3dd68d2051344fe9cd
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123961124"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126248683"
 ---
 # <a name="security-requirements-for-using-partner-center-or-partner-center-apis"></a>Iş ortağı merkezi veya Iş Ortağı Merkezi API 'Lerini kullanmaya yönelik güvenlik gereksinimleri
 
@@ -137,4 +137,4 @@ Destek ve örnek kod için aşağıdaki kaynaklara bakın:
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-- [İş ortağı kiracınız için Çok Faktörlü Kimlik Doğrulaması'nın (MFA) mandating](partner-security-requirements-mandating-mfa.md)
+- [İş ortağı kiracınız için Mandating Multi-Factor Authentication (MFA)](partner-security-requirements-mandating-mfa.md)

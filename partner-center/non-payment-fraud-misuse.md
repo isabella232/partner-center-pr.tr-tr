@@ -1,6 +1,6 @@
 ---
 title: Ödeme yapılmaması, sahtekarlık veya suistimal durumlarını yönetme
-description: Iş Ortağı Merkezi 'nde bu riskleri yönetmek ve azaltmak için çevrimiçi işlemlere ve en iyi yöntemlere dahil olan çeşitli riskler hakkında bilgi edinin.
+description: Çevrimiçi işlemlerde yer alan çeşitli riskler ve bu riskleri çevrimiçi işlemlerde yönetmek ve azaltmak için en iyi İş Ortağı Merkezi.
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-payouts
@@ -10,86 +10,86 @@ ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 07/14/2020
 ms.openlocfilehash: f74a1c091a4c5cd838f8856152c1498f3ecd9d2b
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123961045"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126248701"
 ---
 # <a name="managing-non-payment-fraud-or-misuse-in-partner-center"></a>Ödeme alınamaması, dolandırıcılık veya kötüye kullanım durumlarını İş Ortağı Merkezi’nde yönetme
 
-**Uygulama hedefi**: Iş Ortağı Merkezi | Microsoft Cloud for US Government için iş ortağı Merkezi
+**Için geçerlidir:** İş Ortağı Merkezi | İş Ortağı Merkezi için Microsoft Cloud for US Government
 
-**Uygun roller**: genel yönetici | Kullanıcı Yönetimi Yöneticisi | Yönetici Aracısı | Faturalama yöneticisi
+**Uygun roller:** Genel yönetici | Kullanıcı yönetimi yönetici | Yönetici aracısı | Faturalama yöneticisi
 
-Müşterileriniz ve/veya müşterilerin satın alınan hizmetlerin ödemesinden sorumlu satın alma işlemleri için mali olarak sorumlusunuz. Bu nedenle, *sahte önleme ve algılama riski azaltma denetimlerini yerleştirmenizi öneririz*.
+Müşterileriniz ve/veya müşterilerin satın alınan hizmetlere yönelik ödemesi olmayan sahte satın almalardan mali olarak sorumlu oluruz. Bu *nedenle, sahtekarlık önleme ve algılama risk azaltma denetimlerini yerine koymayı kesinlikle öneririz.*
 
-Sahte etkinlik veya kötüye kullanımı önlemek için, olası riskleri anlamak ve pozlandırmayı azaltabileceğiniz ilke ve uygulamalar geliştirmek önemlidir.
+Sahte etkinlikleri veya kötüye kullanımı önlemek ve/veya ele almak için, olası riskleri anlamak ve maruz kalma sürenizi azaltan ilkeler ve uygulamalar geliştirmek önemlidir.
 
-## <a name="enforcement-of-microsoft-acceptable-use-policy"></a>Microsoft kabul edilebilir kullanım Ilkesi zorlaması
+## <a name="enforcement-of-microsoft-acceptable-use-policy"></a>Microsoft Kabul Edilebilir Kullanım İlkesini Zorlama
 
-Microsoft, kabul edilen kullanım Ilkesini ihlal ettiğimiz ya da şüpheli olduğunu düşündüğünüz iş ortağı veya müşteri etkinliğini algılarsa, zorlama adımları ele alınacaktır. Müşteri hemen askıya alınabilir. Microsoft tarafından yapılan istekleriniz için zorlama eylemleri hakkında bilgilendirilirsiniz.
+Microsoft, Kabul Edilebilir Kullanım İlkesini ihlal ettiğini onayla veya şüpheli iş ortağı veya müşteri etkinliğini algılarsa, uygulama adımlarını atacağız. Müşteri hemen askıya alınabilir. Zorlama eylemleri size bildirilecek veya Microsoft tarafından isteklerinize göre güncelleştirilmiş olur.
 
-## <a name="abuse-of-service-risks"></a>Hizmet riskleri kötüye kullanımı
+## <a name="abuse-of-service-risks"></a>Hizmet risklerinin kötüye kullanımı
 
-**Hizmet riskleri kötüye kullanımı,** bulut hizmetlerini Microsoft 'un kabul edilebilir kullanım ilkesi ihlaline neden olan müşteriler anlamına gelir.
+**Hizmet risklerinin** kötüye kullanımı, bulut hizmetlerini Microsoft'un Kabul Edilebilir Kullanım İlkesini ihlal eden müşterilerin anlamına gelir.
 
 ### <a name="examples-of-abuse-of-service"></a>Hizmetin kötüye kullanımı örnekleri
 
-Bu Microsoft 'un kabul edilebilir kullanım ilkesi ihlalleri örnekleri şunlar olabilir:
+Microsoft'un kabul edilebilir kullanım ilkesi ihlallerine örnek olarak şunlar yerleştirilebilir:
 
-- Yığın posta
-- Bilgisayar korsanlığı
+- Spam
+- Hack
 - Dağıtılmış hizmet reddi (DDoS) saldırıları
-- Bitpara madenciliği
+- Bitcoin madenciliği
 - Kötü amaçlı yazılım dağıtımı
-- Korsan aboneliklerin el satımı
+- Abonelikleri yeniden satın ala
 
-## <a name="theft-of-service-risks"></a>Hizmet riskleri hırsızlığı
+## <a name="theft-of-service-risks"></a>Hizmet hırsızlığı riskleri
 
-**Hizmet riskleri hırsızlığı** , tüketilen hizmetler için ödeme yapma amacı olmayan müşteriler anlamına gelir. Bu hırsızlık, çalınmış ödeme araçları 'nı kullanarak, yanlış faturalandırma bilgileri sağlar ve/veya bekleyen bakiyelerde varsayılan değerleri içerir.
+**Hizmet risklerinin çalınma,** tüketilen hizmetler için ödemeye yönelik bir amacının olmadığını ifade eder. Bu hırsızlık, çalınan ödeme araçları kullanmayı, yanlış faturalama bilgileri sağlamayı ve/veya ödenmemiş bakiyeleri varsayılan olarak kullanmayı da içeriyor olabilir.
 
 ### <a name="examples-of-service-theft"></a>Hizmet hırsızlığı örnekleri
 
-Bu çevrimiçi işlem risklerine örnek olarak şunlar verilebilir:
+Bu çevrimiçi işlem risklerinin örnekleri şunlar olabilir:
 
-- Kişide olmayan işlemler ("kredi kartı yok" işlemleri)
-- Yanlış temsil edilen kimlikler
+- Kişi tarafından meydana gelen işlemler ("kredi kartı yok" işlemleri)
+- Yanlış tanıtmış kimlikler
 - İlk ödeme alınmadan önce sağlanan ve kullanılan hizmetler
-- Çevrimiçi sahtekarlık için gelişen pazarlar ve/veya yüksek riskli bölgeler
-- Hesap oluşturmayı otomatikleştirin ve hatalı aktör yaparak satın alabilirsiniz
+- Çevrimiçi sahtekarlık için gelişmekte olan pazarlar ve/veya yüksek riskli bölgeler
+- Hatalı aktörler tarafından hesap oluşturma ve satın alma işlemini otomatikleştirme
 
 ## <a name="managing-online-risk"></a>Çevrimiçi riski yönetme
 
-Müşteri ilişkilerinizin yaşam döngülerinde çevrimiçi işlem risklerinin pozlamasını azaltmak üzere ilke ve uygulamalar geliştirmenize yardımcı olması için aşağıdaki önerileri kullanabilirsiniz.
+Müşteri ilişkilerinizin yaşam döngüsünde çevrimiçi işlem risklerine maruz kalma risklerinizi azaltmaya yönelik ilkeler ve uygulamalar geliştirmenize yardımcı olmak için aşağıdaki önerileri kullanabilirsiniz.
 
-### <a name="onboarding-new-customers"></a>Yeni müşterileri ekleme
+### <a name="onboarding-new-customers"></a>Yeni müşteriler ekleme
 
-Yeni müşterileri ekleme sırasında çevrimiçi riskleri azaltmaya yönelik öneriler şunlardır:
+Yeni müşteriler eklemeye yönelik çevrimiçi riskleri azaltmaya yönelik öneriler şunlardır:
 
-- Mümkün olduğunda müşterilerle kişisel ilişkiler oluşturun (örneğin, müşterilere telefonla iletişim kurun).
-- Daha iyi Yöntemler (kredi ofisleri veya iş ticari rapor kuruluşlarını kullanma gibi) sayesinde müşterilerin kimlik bilgilerini ve arka planını doğrulayın.
-- Robot hesap oluşturma ve satın alma işlemlerini en aza indirmek için kaydolma sırasında Multi-Factor Authentication (SMS doğrulaması gibi) kullanın.
-- Hizmetleri (dijital kimlik hizmetleri gibi) kullanarak kimlikleri yönetin ve izleyin.
-- Yoğun kredi kartı sahtekarlık algılama sistemleriyle müşterinin mali gücünü değerlendirin.
-- Açık koleksiyonlar ilkesi oluşturun. Koleksiyonlar işleminizi ayrıntılandırın ve aboneliklerde erişim ne zaman ödemesiz olarak etkilenecektir. (Ödeme dışı [bir müşterinin aboneliğini](create-a-new-subscription.md#suspend-a-subscription) devre dışı bırakabilir veya askıya alabilirsiniz.)
+- Mümkün olduğunda müşterilerle kişisel ilişkiler kurma (örneğin, müşterilerle telefonla iletişim kurma).
+- Daha iyi yöntemlerle (kredi bürosu veya iş ticari rapor kurumları kullanma gibi) müşterilerin kimlik bilgilerini ve arka planını doğrulayın.
+- Robotik hesap oluşturma ve satın alma risklerini en aza indirmek için kaydolma sırasında çok faktörlü kimlik doğrulamasını (SMS doğrulaması gibi) kullanın.
+- Hizmetleri (dijital kimlik hizmetleri gibi) kullanarak kimlikleri yönetme ve izleme.
+- Sıkı kredi kartı sahtekarlığı algılama sistemleri aracılığıyla müşterinin finansal gücünü değerlendirin.
+- Net bir koleksiyon ilkesi kurma. Koleksiyon işlemlerinizi ve aboneliklere erişimin ödemeden ne zaman etkilenecelerini ayrıntılı olarak açıklanmaktadır. (Müşterinin aboneliklerine erişimi devre [dışı bırakarak veya ödemesi olmayan abonelikleri askıya](create-a-new-subscription.md#suspend-a-subscription) alabilirsiniz.)
 
 ### <a name="managing-customer-accounts"></a>Müşteri hesaplarını yönetme
 
-Müşteri hesaplarını yönetme önerileri satın alma sonrası şunları içerir:
+Satın alma sonrası müşteri hesaplarını yönetmeye yönelik öneriler şunlardır:
 
-- Microsoft bildirimlerini hızlıca alma, gözden geçirme, işlem yapması ve yanıt vermeye yönelik bir işlem uygulayın.
-- Ayarlar uygun izleme eşiklerini yaparken, bulut kullanımı iş ihtiyaçlarını anlamak için müşterilerle birlikte çalışın. (Örneğin, Iş Ortağı Merkezi 'nde [aylık bir Azure harcama bütçesi ayarlayabilirsiniz](set-an-azure-spending-budget-for-your-customers.md) . Bu anlama, ay içinde müşteri kullanımını izlemenizi ve müşteriler bütçesine yakın olduğunda bildirim gönderilmesini sağlar.)
-- Dolandırıcılığın erken algılanmasına yardımcı olmak için [Müşteri etkinlik günlüklerini](activity-logs.md) düzenli olarak izleyin.
-- Şüpheli etkinlikler algılandığında hızlı bir işlem yapın.
-- Müşterilerin, risk azaltma denetimlerini uygulamadan aboneliğe tam yönetim erişimi vermekten kaçının.
+- Microsoft bildirimlerini hızlı bir şekilde almak, gözden geçirmek, üzerinde işlem yapmak ve yanıtlamak için bir süreç uygulama.
+- Bulut kullanımı iş müşterilerimizin ihtiyaçlarını anlamak için müşterilerle birlikte çalışırken, uygun izleme eşiklerini ayarlar. (Örneğin, azure [harcama bütçesi için aylık bir bütçe İş Ortağı Merkezi.](set-an-azure-spending-budget-for-your-customers.md) Bu anlayış, ay boyunca müşteri kullanımını izlemenizi ve müşteriler bütçelerine yaklaşacakları zaman bilgi alamanizi sağlar.)
+- Sahtekarlığı [erken tespit etmeye](activity-logs.md) yardımcı olmak için müşteri etkinlik günlüklerini düzenli olarak izleme.
+- Şüpheli etkinlikler algılandığında hızlı işlem gerçekleştirin.
+- Önce risk azaltma denetimleri uygulamadan müşterilere aboneliklere tam yönetim erişimi vermekten kaçının.
 
-### <a name="managing-customer-billing"></a>Müşteri faturalandırmasını yönetme
+### <a name="managing-customer-billing"></a>Müşteri faturalamayı yönetme
 
-Müşteri faturalandırma sonrası satın alma için öneriler şunları içerir:
+Satın alma sonrası müşteri faturalamalarını yönetmeye yönelik öneriler şunlardır:
 
-- İlk işlem ve faturalandırma öncesinde ön ödeme isteği.
-- Yüksek riskli ödeme gereçleri (ön ödemeli kartlar veya depolanan değer kartları gibi) kabul etmeyin.
-- Müşteri ödemelerini ve yaşlandırma hesaplarının alacakları izleyin. Geç ödemeler veya ödeme yapılmadığı için standartlaştırılmış hatırlatarak süreçlerini zorlayacağı.
+- İlk işlemlerden ve faturalamadan önce ön ödeme isteği.
+- Yüksek riskli ödeme araçları (önceden ücretli kartlar veya depolanmış değer kartları gibi) kabul etme.
+- Müşteri ödemelerini ve eskitme hesaplarını izleme. Geç ödeme veya ödeme olmayan işlemler için standartlaştırılmış imtiyaz işlemlerini agresif bir şekilde zorlar.
 
-Çevrimiçi riski azaltmaya yönelik daha ayrıntılı stratejiler için [çevrimiçi işlem risk yönetimi kılavuzuna bakın.](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Bhtt)
+Çevrimiçi riski azaltmaya ilişkin daha ayrıntılı stratejiler için çevrimiçi işlem [riski yönetimi kılavuzuna bakın.](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE4Bhtt)

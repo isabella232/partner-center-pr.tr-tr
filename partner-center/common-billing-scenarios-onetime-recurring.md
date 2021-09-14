@@ -10,11 +10,11 @@ ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 44594df78ba99a3762549b916265de9faa667e7b
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960074"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126248558"
 ---
 # <a name="partner-center-billing-scenarios-for-one-time-and-select-recurring-purchases"></a>Bir kerelik iş ortağı merkezi faturalama senaryoları ve yinelenen satın alımları seçin
 

@@ -4,39 +4,39 @@ ms.topic: article
 ms.date: 11/29/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-customers
-description: müşteri, farklı hizmetlerde özelleştirecek Bulut Çözümü Sağlayıcısı programda birden çok iş ortağı ile çalışmak isteyebilir.
+description: Müşteri, farklı hizmetlerde uzmanlaşmak için Bulut Çözümü Sağlayıcısı iş ortağıyla çalışmak istiyor olabilir.
 author: dineshvu
 ms.author: dineshvu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: a5d7e17e79ba97edfece5eda990349aa949909cd
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960204"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126248705"
 ---
 # <a name="multi-partner-support-for-customers-who-want-to-work-with-more-than-one-partner"></a>Birden fazla iş ortağıyla çalışmak isteyen müşteriler için çoklu iş ortağı desteği
 
-**Uygulama hedefi**: Iş Ortağı Merkezi | Microsoft Cloud for US Government için iş ortağı Merkezi
+**Için geçerlidir:** İş Ortağı Merkezi | İş Ortağı Merkezi için Microsoft Cloud for US Government
 
-**Uygun roller**: genel yönetici | Kullanıcı Yönetimi Yöneticisi | Satış Aracısı
+**Uygun roller:** Genel yönetici | Kullanıcı yönetimi yönetici | Satış aracısı
 
-Iş ortağı merkezinin çoklu iş ortağı özelliği, bir müşteri birden fazla iş ortağıyla çalışmak istediğinde senaryoları destekler. örneğin, bir müşteri Office 365 uzmanlığı için bir iş ortağı sağlamak isteyebilir, ancak Microsoft Azure uzmanlaşmış farklı bir iş ortağı işe alabilir.
+Müşterinin İş Ortağı Merkezi iş ortağı özelliği, bir müşterinin birden fazla iş ortağıyla çalışmak istediği senaryoları destekler. Örneğin müşteri, iş ortağı uzmanlığı için bir iş ortağını işe almak Office 365 iş ortağı konusunda uzman olan farklı bir iş ortağını Microsoft Azure.
 
-Azure CSP kiracısı, farklı bir CSP ortağından ek bir Azure aboneliği içerebilir.
+Bir Azure CSP kiracı, farklı bir CSP iş ortağından ek bir Azure aboneliği içerebilir.
 
-Ortak merkezindeki çoklu iş ortağı özelliğini kullanmak için, size temsilcisi olarak size yönetici ayrıcalıkları vermesini isteyin. Zaten bir iş ortağıyla çalışan bir müşteriyle ilişki kurma hakkında bilgi için bkz. [müşteri ile Ilişki isteme](request-a-relationship-with-a-customer.md) .
+Çok iş ortağı özelliğini hizmette kullanmak İş Ortağı Merkezi, size temsilcili yönetim ayrıcalıkları vermeleri için müşteriyi davet etme. Zaten [bir iş ortağıyla çalışan bir](request-a-relationship-with-a-customer.md) müşteriyle nasıl ilişki kurulacak hakkında bilgi için bkz. Müşteriyle ilişki isteği.
 
-Çoklu iş ortağı işlevselliği şunları desteklemez:
+Çok iş ortağı işlevselliği şunları yapar:
 
-- Müşterinin mevcut aboneliklerinden herhangi birini değiştirme
+- Müşterinin mevcut aboneliklerini değiştirme
 
-- Müşterinin mevcut aboneliklerine veya hesap sahipliğine geçiş
+- Müşterinin mevcut aboneliklerini veya hesap sahipliğini geçiş
 
-- Mevcut aboneliklerinden herhangi biri için hüküm veya müşterinin yükümlülüklerinizi değiştirin
+- Mevcut aboneliklerinin herhangi biri için koşulları veya müşterinin yükümlülüklerini değiştirme
 
-- Abonelik için kayıt ortağını değiştirme
+- Aboneliğin kayıt ortağını değiştirme
 
 > [!IMPORTANT]  
-> CSP programındaki bir iş ortağı, şu anda CSP programındaki başka bir ortağa çevrimiçi hizmetler yeniden satıtamaz. Bu kısıtlama yalnızca CSP işlemleri yürütmek için kullanılan kiracı için geçerlidir. Şirket kullanımı için CSP olmayan bir kiracı kullanan CSP iş ortakları, başka bir CSP ortağından çevrimiçi hizmetler satın alabilir. Microsoft, tüm programların ilkelerini ve yeteneklerini sürekli olarak inceler. Özellik sürümleri veya ilke değişiklikleri hakkındaki tüm haberler, [Iş Ortağı Merkezi duyuruları](announcements/index.md)dahil olmak üzere olağan iletişim kanalları aracılığıyla duyurulacaktır.
+> CSP programında bir iş ortağı şu anda CSP çevrimiçi hizmetler başka bir iş ortağına yeniden satışa açamaz. Bu kısıtlama yalnızca CSP işlemlerini yürütmek için kullanılan kiracı için geçerlidir. Kurumsal kullanımları için CSP olmayan bir kiracı kullanan CSP iş ortakları, başka çevrimiçi hizmetler CSP iş ortağından lisans satın alınabilir. Microsoft, tüm programların ilkelerini ve özelliklerini sürekli gözden almaktadır. Özellik yayınları veya ilke değişiklikleriyle ilgili tüm haberler, yayın duyuruları da dahil olmak üzere normal [İş Ortağı Merkezi duyurular.](announcements/index.md)

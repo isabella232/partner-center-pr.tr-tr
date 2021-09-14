@@ -10,11 +10,11 @@ ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 967e5e3278e63f9797b28d4c8a856e087755c1e4
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123961114"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126248715"
 ---
 # <a name="create-a-partner-logo-certified-letter-or-award-logo"></a>İş ortağı logosu, sertifikalı harf veya ödül logosu oluşturma
 
@@ -24,13 +24,13 @@ Gümüş veya altın renkli uzmanlığınızı göstermek için, İş Ortağı M
 
 ## <a name="what-is-available-in-logo-builder"></a>Logo Builder'da neler bulunur?
 
-Logo Builder'da şirketiniz tarafından kullanılabilen logolar, şirket (MPN) Microsoft İş Ortağı Ağı uyumlu olur. Bu görünümde logolar İş Ortağı Merkezi Harfler **ve** **Ödülleri** veya **bazı** bileşimler görebilir.
+Logo Builder'da şirketiniz tarafından kullanılabilen logolar, şirket (MPN) Microsoft İş Ortağı Ağı uyumlu olur. Bu görünümde logolar İş Ortağı Merkezi Harfler **ve** Ödülleri **veya** **bazı** bileşimler görebilir.
 
 :::image type="content" source="images/logo-builder.png" alt-text="tam logo oluşturucunun ekran kapsülleri.":::
 
 Logo Builder'da, erişiminize bağlı olarak oluştur şunları içerir:
 
-- Şirketinizin sahip olduğu yetkinlikleri ve gelişmiş uzmanlıkları doğrular onaylı harf
+- Yetkinlikleri ve gelişmiş uzmanlıkları doğrular ve bu sertifikalar, şirketinizin elde etti
 
 - Gold uzmanlık logosuyla iş ortağı
 
@@ -53,17 +53,17 @@ Farklı iş konumları için farklı logolar oluşturduysanız, hangi iş konumu
 
 Daha önce oluşturulan ve kaydedilen logolar En son kaydedilen **kitaplığında** kullanılabilir.
 
-Daha önce logo oluşturduysanız kitaplığın tamamını **görüntülemek Tümünü görüntüle'yi** seçin.
+Logoları daha önce oluşturduysanız kitaplığın **tamamını Tümünü görüntüle** için Logolar'ı seçin.
 
 1. İş hesabınızla İş Ortağı Merkezi [panoda](https://partner.microsoft.com/dashboard) oturum açın.
-1. İlkeler İş Ortağı Merkezi'nin **altında Logo Oluşturucu'nu** **seçin.**
+1. Yeni İş Ortağı Merkezi Avantajlar'ın **altında Logo** **Oluşturucu'nu seçin.**
 
    :::image type="content" source="images/logo-one.png" alt-text="logo oluşturucuyu gösteren menü ekranı.":::
 1. Logonuzu **oluşturma** altında, **Logolar** kutusunda artı işaretini seçin.
 
    :::image type="content" source="images/logo-two.png" alt-text="yeni logo oluşturma ekranı.":::
-1. Dil **ve şablon seçin** açılan menüsünde kullanmak istediğiniz dili seçin. Kullanılabilir şablonlar açılan men altında görünür.
-1. Kullanmak **istediğiniz** şablon için oluştur'a seçin. Şablon, oluşturmakta olacağınız logo türünü temel alan bir şablondur; örneğin altın uzmanlıklı mpN iş ortağı için bir logo.
+1. Bir **dil ve şablon seçin** açılan menüsünde kullanmak istediğiniz dili seçin. Kullanılabilir şablonlar açılan men altında görünür.
+1. Kullanmak **istediğiniz** şablon için Oluştur'a seçin. Şablon, oluşturmakta olacağınız logo türünü temel alan bir şablondur; örneğin altın uzmanlıklı mpN iş ortağı için bir logo.
 1. Ardından aşağıdaki adımları kullanarak logonuzu özelleştirin:
     1. Kullanılabilir **yetkinlikler'de** logo için yetkinlikleri seçin. Değerleri seçerken, yetkinliklerin veya programların görünme sıralarını değiştirmek için değerlerin yanındaki yukarı ve aşağı simgelerini kullanabilirsiniz.
     1. Logo **adı alanına** logo için bir ad girin.
@@ -72,9 +72,9 @@ Daha önce logo oluşturduysanız kitaplığın tamamını **görüntülemek Tü
 ## <a name="create-a-certified-letter-using-logo-builder"></a>Logo Builder'ı kullanarak sertifikalı bir harf oluşturma
 
 1. İş hesabınızla İş Ortağı Merkezi [panoda](https://partner.microsoft.com/dashboard) oturum açın.
-1. İlkeler İş Ortağı Merkezi'nin **altında Logo Oluşturucu'nu** **seçin.**
+1. Yeni İş Ortağı Merkezi Avantajlar'ın **altında Logo** **Oluşturucu'nu seçin.**
 1. Logonuzu **oluşturma altında,** **Harfler kutusunda** artı işaretini seçin.
-1. Dil **ve şablon seçin** açılan menüsünde kullanmak istediğiniz dili seçin. Kullanılabilir şablonlar açılan men altında görünür.
+1. Bir **dil ve şablon seçin** açılan menüsünde kullanmak istediğiniz dili seçin. Kullanılabilir şablonlar açılan men altında görünür.
 1. Kullanmak **istediğiniz** şablon için Oluştur'a seçin.
 1. Ardından aşağıdaki adımları kullanarak harfinizi özelleştirin:
     1. **Seçenek'te** iş ortağı iş konumlarınızı harfte görünmesini isteyip istemeyebilirsiniz.
@@ -86,12 +86,12 @@ Daha önce logo oluşturduysanız kitaplığın tamamını **görüntülemek Tü
 ## <a name="create-an-award-logo-using-logo-builder"></a>Logo Oluşturucusu'nu kullanarak ödül logosu oluşturma
 
 1. İş hesabınızla İş Ortağı Merkezi [panoda](https://partner.microsoft.com/dashboard) oturum açın.
-1. İlkeler İş Ortağı Merkezi'nin **altında Logo Oluşturucu'nu** **seçin.**
+1. Yeni İş Ortağı Merkezi Avantajlar'ın **altında Logo** **Oluşturucu'nu seçin.**
 1. Logonuzu **oluşturma** altında, **Ödül** kutusunda artı işaretini seçin.
-1. Ödül **yılı seçin & şablon** açılan menüsünde, ödül yılı seçin. Kullanılabilir şablonlar açılan men altında görünür.
+1. Ödül **yılı seçin & şablon** açılan menüsünden ödül yılı seçin. Kullanılabilir şablonlar açılan men altında görünür.
 1. Kullanmak **istediğiniz** şablon için Oluştur'a seçin.
 1. Ardından aşağıdaki adımları kullanarak ödül logonuzu özelleştirin:
-    1. Kullanılabilir **ödüllerde** logoda istediğiniz ödülü seçin.
+    1. Kullanılabilir **ödülleri'nde** logoda istediğiniz ödülü seçin.
     1. Ödül **adı alanına** logonuzu bir ad girin.
     1. Ödül logonuzu özelleştirmeyi bitirip Kaydet veya Kaydet'i **seçerek** **& indirin.**
 

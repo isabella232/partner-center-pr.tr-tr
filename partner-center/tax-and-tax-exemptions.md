@@ -10,11 +10,11 @@ ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 2b79943185cbd940b164508ee8ac14203ddeccb8
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960045"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126248421"
 ---
 # <a name="read-about-taxes-and-tax-exemption-details-by-region-or-country-for-partners-in-the-csp-program"></a>CSP programında iş ortakları için bölgeye veya ülkeye göre vergiler ve vergi muafiyeti ayrıntıları hakkında bilgi edinebilirsiniz
 
@@ -39,7 +39,7 @@ BC satış vergisi (PST) Muafiyeti için açıklandığı gibi bir vergi muafiye
 
 ### <a name="united-states"></a>Birleşik Devletler
 
-Microsoft Kurumsal Bayi Birleşik Devletler tüm kurumsal bayilerin Microsoft Kurumsal Bayi Sözleşmesi'nin kabul edildiklerinde 30 gün içinde satış vergisi muafiyeti belgeleri sağlamaları beklenir. Her durumda yeniden sertifika için farklı muafiyet sertifikaları vardır. Yasal adresiniz ve kayıtlı eyaletler için nelerin uygun olduğunu belirlemek için vergi danışmanıyla birlikte çalışabilirsiniz.
+Microsoft Kurumsal Bayi Birleşik Devletler tüm kurumsal bayilerin Microsoft Kurumsal Bayi Sözleşmesi'nin kabul edildiklerinde 30 gün içinde satış vergi muafiyeti belgeleri sağlamaları beklenir. Her durumda yeniden sertifika için farklı muafiyet sertifikaları vardır. Yasal adresinizle ve kayıtlı eyaletlerle ilgili nelerin uygun olduğunu belirlemek için vergi danışmanınız ile birlikte çalışabilirsiniz.
 
 Abd'de, Porto Riko dahil olmak üzere satış ve kullanım vergisi ayrı belirtilmelidir.  Ağustos 2021'den itibaren geçerli olacak şekilde, Microsoft faturalarında aksi belirtilmedikçe vergi ayrı olarak belirtilecektir.  Ayrıca, Porto Riko vergisi, commonwealth ve en iyi düzeyinde Commonwealth Tax ve Tax olarak ayrı ayrı belirtilecektir.
 
@@ -47,7 +47,7 @@ Bu, Satışları Kolaylaştırma ve Vergi Sözleşmesi Muafiyet Sertifikasını 
 
 ### <a name="other-regions"></a>Diğer bölgeler
 
-Vergileri ücretlandıran başka bir ülkede veya bölgedey isanız, sorularınız [için İş Ortağı Merkezi](#support) için destek isteğinde bulunin.
+Vergileri ücretlandıracak başka bir ülkede veya bölgedeysiniz, sorularınız [için İş Ortağı Merkezi](#support) destek isteğinde bulunin.
 
 ## <a name="tax-receipts-and-daf"></a>Vergi makbuzları ve DAF
 
@@ -61,7 +61,7 @@ Vergi muafiyeti doldurmadan önce aşağıdaki noktaları anlamadan emin olun:
 
 - Vergi numarası veya Federal İşveren Kimlik Numarası (FEIN) göndermeniz gerekir. Bu numara genellikle vergi sertifikanız üzerinde görünür.
 
-- Ülkenize, bölgenize veya eyalete bağlı olarak, satış vergi muafiyetinin yerel Vergi Geliri Departmanına (veya benzer departmana) özgü yasal yönergeleri vardır ve uygun şekilde yönetilleri gerekir. Birçok konumda yıllık olarak yenilenen vergi sertifikaları vardır ancak bazı konumlar iki veya daha fazla yılda yenilenebilirsiniz. Sertifikanızı kontrol ederek veya yerel vergi yetkilinize başvurarak bunu ve diğer bilgileri doğrulamanız gerekir.
+- Ülkenize, bölgenize veya eyalete bağlı olarak satış vergi muafiyeti, yerel Vergi Geliri Dairesi'ne (veya benzer departmana) özgü yasal yönergelere sahip olur ve uygun şekilde yönetilsin. Birçok konumda yıllık olarak yenilenen vergi sertifikaları vardır ancak bazı konumlar iki veya daha fazla yılda yenilenebilirsiniz. Sertifikanızı kontrol ederek veya yerel vergi yetkilinize başvurarak bunu ve diğer bilgileri doğrulamanız gerekir.
 
 Vergi muafiyeti için bir bilet açmaya hazırsanız ilgili bilgileri [Microsoft Desteği](https://partner.microsoft.com/dashboard/support/csp/servicerequests/create?stage=2&topicid=92930319-ced6-c18b-d7a6-d62b22d60aa5) bileti açın.
 

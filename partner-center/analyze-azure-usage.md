@@ -10,11 +10,11 @@ ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/01/2020
 ms.openlocfilehash: d26fe1c71a574ed58ca227979cda445950873596
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123961225"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126248656"
 ---
 # <a name="get-data-about-how-well-your-customers-and-azure-subscriptions-are-doing"></a>Müşterilerin ve Azure aboneliklerin ne kadar iyi olduğu hakkında veri edinin
 
@@ -24,7 +24,7 @@ ms.locfileid: "123961225"
 
 Veriler iş kararlarını verir. Başarılarınızı ve daha fazla **dikkat gereken** alanları belirlemek için Azure kullanım sayfasındaki ölçümleri kullanın. Yeni iş hedeflerini planlarken bu bilgileri kullanın.
 
-Azure kullanımına **almak için panoda** İş Ortağı Merkezi [açın.](https://partner.microsoft.com/dashboard) Uygulama **menüsünden** Analiz'İş Ortağı Merkezi ve ardından **Azure kullanımı'ı seçin.**
+Azure kullanımına almak **için panoda** İş Ortağı Merkezi [açın.](https://partner.microsoft.com/dashboard) İş Ortağı Merkezi  Menüsünden Analiz'i ve ardından **Azure kullanımı'ı seçin.**
 
 > [!NOTE]
 > Azure kullanım analizi yalnızca iş ortağı programı Bulut Çözümü Sağlayıcısı kullanılabilir.

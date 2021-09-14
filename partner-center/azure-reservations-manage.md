@@ -1,6 +1,6 @@
 ---
-title: Müşteriler için Azure rezervasyonlarını yönetme
-description: Rezervasyonu iptal etme, rezervasyon değiştirme veya para iadesi isteği gibi bir müşteri için Azure rezervasyonlarını yönetmeyi öğrenin.
+title: Müşteriler için Azure ayırmalarını yönetme
+description: Bir ayırmayı iptal etme, ayırmayı değiştirme veya para iadesi isteme dahil olmak üzere bir müşterinin Azure ayırmalarını yönetmeyi öğrenin.
 ms.topic: how-to
 ms.service: partner-dashboard
 ms.subservice: partnercenter-customers
@@ -10,92 +10,92 @@ ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 08/06/2020
 ms.openlocfilehash: 627c6f8d09a904e7d988c4229ec10eeac38dc2e9
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123959984"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126248331"
 ---
-# <a name="manage-cancel-exchange-or-refund-microsoft-azure-reservations-for-customers"></a>Müşteriler için rezervasyonları yönetme, iptal etme, değiştirme Microsoft Azure para iadesi alma
+# <a name="manage-cancel-exchange-or-refund-microsoft-azure-reservations-for-customers"></a>müşteriler için ayırmaları yönetin, iptal edin, exchange veya para iadesi Microsoft Azure
 
-**Uygun roller:** Yönetici aracısı | Genel yönetici | Yardım masası aracısı | Satış aracısı | Kullanıcı yönetimi yöneticisi
+**Uygun roller**: yönetici Aracısı | Genel yönetici | Yardım Masası Aracısı | Satış Aracısı | Kullanıcı Yönetimi Yöneticisi
 
-Bu makalede, rezervasyonu iptal etme, rezervasyon değiştirme veya para iadesi isteği dahil olmak üzere bir müşteri için Azure rezervasyonlarını yönetme işlemi açıklanmıştır.
+Bu makalede, bir rezervasyon iptal edilmesi, bir rezervasyon alışverişi veya bir para iadesi istemek dahil olmak üzere bir müşterinin Azure ayırmalarını nasıl yöneteceğiniz açıklanmaktadır.
 
 > [!NOTE]
-> Bu makale yalnızca Bulut Çözümü Sağlayıcısı (CSP) programı iş ortakları için geçerlidir. Diğer abonelik türlerini (kullansanız öde, bireysel, Microsoft Müşteri Sözleşmesi veya Kurumsal Anlaşma abonelikler gibi) kullanan müşterilerin bu Azure rezervasyonları belgelerini [okuması gerekir.](/azure/cost-management-billing/reservations)
+> bu makale yalnızca Bulut Çözümü Sağlayıcısı (CSP) programındaki iş ortakları için geçerlidir. diğer abonelik türleri (örneğin, kullandıkça öde, bireysel, Microsoft müşteri sözleşmesi veya Kurumsal Anlaşma abonelikleri) kullanan müşteriler [bu Azure ayırmaları belgelerini](/azure/cost-management-billing/reservations)okumalı olmalıdır.
 
-Satın alma sonrasında müşterinizin Azure rezervasyonlarını yönetmek için, İş Ortağı Merkezi'de yönetmek istediğiniz müşteriyi ve rezervasyonu seçer ve ardından Azure portal.
+Müşterilerinizin Azure ayırmaları satın alma sonrası 'yı yönetmek için, Iş Ortağı Merkezi 'nde yönetmek istediğiniz müşteriyi ve rezervasyonu seçip Azure portal rezervasyon üzerinde değişiklikler yapmanız gerekir.
 
-1. Çalışmaya başlama **için,** İş Ortağı Merkezi menüsünden Müşteriler'i seçin ve ardından rezervasyonlarını yönetmek istediğiniz müşteriyi seçin. 
+1. Başlamak için Iş Ortağı Merkezi menüsünden **müşteriler** ' i seçin ve ardından rezervasyonlarını yönetmek istediğiniz müşteriyi seçin. 
 
-2. Müşterinin ayrıntı sayfası menüsünde Azure **rezervasyonları'ı ve** ardından yönetmek istediğiniz rezervasyonu seçin.  
+2. Müşterinin ayrıntı sayfası menüsünde **Azure ayırmaları** ' ni seçin ve ardından yönetmek istediğiniz belirli ayırmayı seçin.  
 
-3. **Eylemler'in** **altında Yönet'i** seçerek müşterinin rezervasyon kaydına gidin ve Azure portal. Rezervasyon ayrıntıları sayfasında, görevleri tamamlamak için aşağıdaki adımları izleyin.  
+3. **Eylemler**' in altında, Azure Portal müşterinin rezervasyon kaydına gitmek için **Yönet** ' i seçin. Ayırma ayrıntısı sayfasında, görevleri gerçekleştirmek için aşağıdaki adımları izleyin.  
 
     | **Seç**   | **Kime**    |
     |:-----------------------------|:-----------------|
-    | **Genel Bakış**   | Son kullanma tarihi, kapsam ve kullanım verileri de dahil olmak üzere müşterinin rezervasyon ayrıntılarını görüntüleme. **NOT** Para **İadesi'ne** seçerek provok olarak derecelendirilmiş bir para iadesi için destek isteği oluşturun. Rezervasyon **Exchange** kullanılmayan kısmını değiştirmek için bir destek isteği oluşturmak için Exchange'yi seçin.  
-    | **Access Control (IAM)**   | Müşterinin rezervasyon bilgilerine erişimi yönetme.|
-    | **Yapılandırma**   | Rezervasyonun kapsamını ve/veya rezervasyonun ilişkili olduğu Azure aboneliğini değiştirme.    |
-    | **Özellikler**   | Rezervasyonun özelliklerini görüntülayıp panoya rezervasyon kimliği ile rezervasyon siparişi kimliğini kopyalayın. **NOT** Müşteri adına destek isteğide bulunduktan sonra destek sizden rezervasyon kimliğini ve rezervasyon sipariş kimliğini sorabilir.    |
-    | **Yeni destek isteği**    | Microsoft Desteği.   |
+    | **Genel Bakış**   | Sona erme tarihi, kapsamı ve kullanım verileri dahil olmak üzere müşterinin rezervasyonunun ayrıntılarını görüntüleyin. **Göz önünde** Profesyonel olarak derecelendirilmiş bir para iadesi için destek isteği oluşturmak üzere **para iadesi** ' ni seçin. ayırma döneminizin kullanılmayan kısmını değiştirmek için bir destek isteği oluşturmak üzere **Exchange** ' yi seçin.  
+    | **Access Control (ıAM)**   | Müşterinin rezervasyon bilgilerine erişimi yönetin.|
+    | **Yapılandırma**   | Rezervasyonun kapsamını ve/veya ayırmanın ilişkilendirildiği Azure aboneliğini değiştirin.    |
+    | **Özellikler**   | Rezervasyonun özelliklerini görüntüleyin ve rezervasyon KIMLIĞI ve rezervasyon siparişi KIMLIĞINI panoya kopyalayın. **Göz önünde** Destek, bir müşteri adına destek istediğinizde rezervasyon KIMLIĞI ve rezervasyon siparişi KIMLIĞINI isteyebilir.    |
+    | **Yeni destek isteği**    | Microsoft Desteği yardım isteyin.   |
  
-## <a name="cancel-or-exchange-a-reservation"></a>Rezervasyonu iptal etme veya değiştirme
+## <a name="cancel-or-exchange-a-reservation"></a>Bir ayırmayı iptal etme veya değiştirme
 
-Müşterinin herhangi bir noktada iş ihtiyaçları değişirse, rezervasyonu iptal etmek ve bir para iadesi almak ya da yeni rezervasyonun fiyatında kullanılacak rezervasyonun prorat edilen para iadesi tutarını değiştirmek istiyor olabilir.
+Müşterinin iş gereksinimlerinin herhangi bir noktasında değişmesi durumunda, bir ayırmayı iptal etmek ve bir geri ödeme veya Exchange 'in eşit olarak dağıtılmış para iadesi tutarını yeni bir ayırma fiyatına doğru bir şekilde kullanmak isteyebilirler.
 
-Bu senaryoların her ikisinde de Microsoft, elde edilen finansal işlemleri müşterilerinizle yöneterek size para iadesi sağlar. Microsoft faturalama, iptaller veya para iadeleri hakkında doğrudan müşterilerle iletişim kurmaz.
+Bu senaryoların her ikisinde de, Microsoft bu miktarı, daha sonra müşterilere göre elde edilen mali işlemleri yönetebilmeniz için tutarında bir para iadesi. Microsoft, doğrudan faturalandırma, iptaller veya para iadesi hakkında müşterilerle iletişim kurmaz.
 
-### <a name="how-cancellations-work"></a>İptaller nasıl çalışır?
+### <a name="how-cancellations-work"></a>İptallerin çalışması
 
-Müşteriler, herhangi bir zamanda rezervasyonu iptal etmek için istekte olabilir (yıllık 50.000 ABD doları olan para iadesi tutarı). Rezervasyonun iptal edilmesi, müşterinin bir Azure rezervasyonun kalan aylarının miktarını erken sonlandırma ücreti karşılığında iade etmelerine olanak sağlar. Kalan dengeli bakiye (erken sonlandırma ücreti eksi) hesabınıza para iadesiyle iade edilir, böylece müşterinin hesabına para iadesi alabilirsiniz. 
+Müşteriler herhangi bir zamanda rezervasyon iptal etme isteğinde bulunabilir (para iadesi miktarı yıl başına $50.000). Bir ayırmanın iptal edilmesi, müşterinin erken sonlandırma ücreti için bir Azure rezervasyonunun kalan ayların miktarını döndürmesini sağlar. Kalan eşit oranda dağıtılmış Bakiye, eksi erken sonlandırma ücreti, müşterinin hesabını iade edebilmeniz için hesabınıza iade edilir. 
 
 İptal ayrıntıları ve ücretleri için aşağıya bakın.
 
 
-|**İptal tarihi**<br> (gün)   |**Kullanım**    |**Kredi**  |**Erken sonlandırma**<br> Ücreti    |**Para iadesi sınırı** | 
+|**İptal tarihi**<br> miş   |**Kullanım**    |**Kredi**  |**Erken sonlandırma**<br> masraf    |**Para iadesi üst sınırı** | 
 |:----------------------------------|:------------|:-----------|:--------------------------------|:--------------|
-|5 veya daha az                         | No          | %100       | No                              | 50.000 USD   |
-|5 veya daha az                         | Yes         | Pro derecelendirilmiş  | No                              | 50.000 USD   |
-|5'in üzerinde                        | No          | Pro derecelendirilmiş  | %12                             | 50.000 USD   |
-|5'in üzerinde                        | Yes         | Pro derecelendirilmiş  | %12                             | 50.000 USD   |
+|5 veya daha az                         | No          | %100       | No                              | $50.000 ABD DOLARı   |
+|5 veya daha az                         | Yes         | Pro dereceli  | No                              | $50.000 ABD DOLARı   |
+|5 ' ten fazla                        | No          | Pro dereceli  | %12                             | $50.000 ABD DOLARı   |
+|5 ' ten fazla                        | Yes         | Pro dereceli  | %12                             | $50.000 ABD DOLARı   |
 
-### <a name="how-exchanges-work"></a>Değişimler nasıl çalışır? 
+### <a name="how-exchanges-work"></a>Alışverişlerde nasıl çalışır? 
 
-Müşteri, ilk satın aldığı rezervasyondan farklı bir rezervasyon satın almak istiyorsa değişim isteği alabilir. Rezervasyonun alışverişini yapmak rezervasyonu iptal etmek için cazip bir alternatif olabilir çünkü müşterinin yeni rezervasyonun fiyatı için prorated para iadesi tutarını kullanmalarına olanak sağlar. 
+Bir müşteri, sizin için ilk satın alındıklarından farklı bir ayırma satın almak isterse bir Exchange isteğinde bulunabilir. Bir ayırmayı değiştirmek, müşterinin, eşit olarak dağıtılan para iadesi miktarını yeni ayırma fiyatına doğru kullanmasına izin verdiğinden bir ayırmayı iptal etme konusunda etkileyici bir alternatif olabilir. 
 
-Prorated para iadesi tutarı hesabınıza iade edilir, böylece müşteriye bir değişim teklifi sunabilirsiniz.
+Müşteriye bir Exchange sunabilmeniz için eşit olarak dağıtılmış para iadesi miktarı hesabınıza alacaklandırılır.
 
-## <a name="request-a-refund-or-exchange-on-behalf-of-a-customer"></a>Müşteri adına para iadesi veya değişim isteği
+## <a name="request-a-refund-or-exchange-on-behalf-of-a-customer"></a>Müşteri adına bir para iadesi veya değişim isteme
 
-Müşterileriniz adına para iadesi veya değişim isteğinde bulunarak destek isteğinde bulunarak İş Ortağı Merkezi'de müşteriyi ve rezervasyonu seçerek destek isteğini Azure portal. 
+Müşterileriniz adına bir para iadesi veya Exchange için destek talebi sağlamak üzere, Iş Ortağı Merkezi 'nde müşteriyi ve rezervasyonu seçin ve ardından Azure portal Destek isteğini oluşturun. 
 
 >[!NOTE]
->Microsoft Desteği aracıları sizden rezervasyon kimliğini ve rezervasyon sipariş kimliğini sağlamayı sorabilir. Bu bilgileri, rezervasyonun Özellikler **sayfasındaki** Azure portal.
+>Microsoft Desteği aracılar, rezervasyon KIMLIĞI ve rezervasyon siparişi KIMLIĞINI sağlamanızı isteyebilir. Bu bilgileri, Azure portal rezervasyon 'nin **Özellikler** sayfasında bulabilirsiniz.
 
-1. Çalışmaya başlama için, **İş Ortağı Merkezi** menüsünden Müşteriler'i seçin ve para iadesi almak isteyen müşteriyi seçin. 
+1. Başlamak için Iş Ortağı Merkezi menüsünden **müşteriler** ' i seçin ve ardından para iadesi isteyen müşteriyi seçin. 
 
-2. Müşterinin ayrıntı sayfasında Azure rezervasyonları'nın **ardından** müşterinin para iadesi istediği rezervasyonu seçin.  
+2. Müşterinin ayrıntı sayfasında, **Azure ayırmaları** ' i seçin ve müşterinin iade etmek istediği belirli bir ayırmayı seçin.  
 
-3. Eylemler **altında** Para **İadesi'ne** geçerek müşterinin rezervasyon kaydına gidin ve Azure portal isteği başlatın.  
+3. **Eylemler**' in altında, Azure Portal müşterinin rezervasyon kaydına gidip bir destek talebi başlatmak Için **para iadesi** ' ni seçin.  
 
-4. Yeni **destek isteği sayfasında,** para iadesi isteği için aşağıdaki adımları izleyin. Her **adımdan** sonra Sonraki'yi seçin. 
+4. **Yeni destek isteği** sayfasında, bir para iadesi istemek için aşağıdaki adımları izleyin. Her adımdan sonra **İleri ' yi** seçin. 
 
-   |**Adım**                    |**Seçim**    |
+   |**Adım**                    |**Seçenek**    |
    |:---------------------------|:-----------------|
-   |**1 Temel Bilgiler**                |Sorun türü: Faturalama.  |
-   |**2 Sorun**               |Sorun türü: Rezervasyon yönetimi. Kategori: Değişimler ve para iadeleri. |
-   |**3 İletişim bilgileri**   |Tercihlerinizi seçin ve gerekli bilgileri girin. 
+   |**1 temel bilgiler**                |Sorun türü: Faturalandırma.  |
+   |**2 sorun**               |Sorun türü: ayırma yönetimi. Kategori: alışverişlerde ve para iadesi. |
+   |**3 iletişim bilgileri**   |Tercihlerinizi seçin ve gerekli bilgileri girin. 
 
-5. Bittiğinde **Oluştur'a** seçin.
+5. İşiniz bittiğinde **Oluştur** ' u seçin.
 
-## <a name="azure-reservations-resources"></a>Azure rezervasyon kaynakları
+## <a name="azure-reservations-resources"></a>Azure ayırmaları kaynakları
 
 |**Hakkında bilgi için**   |**Bunu okuyun**    |
 |:-----------------------------|:-----------------|
-|CSP'de Azure rezervasyonları genel bakış  | [Ayrılmış Microsoft Azure Satış](azure-reservations.md) |
-|İş Ortağı Merkezi'de müşterileriniz için Azure rezervasyonları satın İş Ortağı Merkezi   | [Azure rezervasyonları satın alma](azure-reservations-buying.md) |
-|Doğru VM boyutunu belirleme ve müşteri VM kullanımını doğrulama   | [Maksimum Azure rezervasyon kullanımı için VM boyutlandırması](azure-usage.md)   |
-|İş Ortağı Merkezi API'sini kullanarak Azure rezervasyonları satın alma | [İş Ortağı Merkezi](/partner-center/develop/purchase-azure-reservations) geliştirici belgelerinde Azure Ayrılmış VM Örnekleri satın alma   |
-|Müşterilere, satın aldığınız abonelikten kendi Azure rezervasyonlarını satın alma izni verme. | [Müşterilere kendi Azure rezervasyonlarını satın alma izni verme](give-customers-permission.md)   |
+|CSP 'de Azure ayırmaları genel bakış  | [ayrılmış Microsoft Azure örnekleri satma](azure-reservations.md) |
+|Iş Ortağı Merkezi 'nde müşterileriniz için Azure ayırmaları satın alma   | [Azure ayırmaları satın alma](azure-reservations-buying.md) |
+|Doğru VM boyutunu belirleme ve müşteri VM kullanımını doğrulama   | [Maksimum Azure ayırma kullanımı için VM boyutu](azure-usage.md)   |
+|Iş Ortağı Merkezi API 'sini kullanarak Azure ayırmaları satın alma | [Azure ayrılmış VM örneklerini](/partner-center/develop/purchase-azure-reservations) Iş Ortağı Merkezi geliştirici belgelerinde satın alma   |
+|Müşterilere satın almış olduğunuz bir abonelikten kendi Azure ayırmalarını satın alma izni verme. | [Müşterilere kendi Azure ayırmalarını satın alma izni verin](give-customers-permission.md)   |

@@ -10,11 +10,11 @@ ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
 ms.openlocfilehash: 5276f5bcc201633865fd8f226d52630919530982
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960114"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126248520"
 ---
 # <a name="create-suspend-or-cancel-customer-subscriptions"></a>Müşteri aboneliklerini oluşturma, askıya alma veya iptal etme
 
@@ -166,7 +166,7 @@ Lisans tabanlı bir SaaS aboneliğini ISV yayımcısından iptal etmek için aş
 
 Yeni ticari teklifler için, taahhüt dönemi öncesinde aboneliği istediğiniz zaman iptal edebilirsiniz. Aboneliği iptal edersiniz, müşteri hizmete erişimi hemen kaybeder. erişim iptal edildikten sonra geri yüklenebilir. Abonelik satın alındikten sonra aşağıdaki iptal seçenekleri bir iş ortağı tarafından kullanılabilir: 
 
-- Aboneliğin başlangıç tarihi üzerinden 24 saat içinde: Tam para iadesi için aboneliğin tamamını ilk 24 saat içinde iptal edebilirsiniz.  
+- Aboneliğin başlangıç tarihi üzerinden 24 saat içinde: Tam para iadesi için ilk 24 saat içinde aboneliğin tamamını iptal edebilirsiniz.  
 - Aboneliğin başlangıç tarihi olan 30 gün içinde: Aboneliğin tamamını ilk 30 gün içinde iptal edebilirsiniz. Aboneliğini kaç gün kullandığınıza göre tam tutar eksi pro-rated tutarı iade edilir.
 - 30 günlük aboneliğin başlangıç tarihi: Aboneliği iptal etmenize izin ve sonra.
 
@@ -187,25 +187,25 @@ Aboneliği duraklatmak için şu İş Ortağı Merkezi:
 
 3. Açılır pencereyi okuyun ve Tamam'ı **seçin**
 
-4. Abonelik artık duraklatılmış durumda olur ve iş ortağı abonelik için faturalandırılır
+4. Abonelik artık duraklatılmış durumda olur ve iş ortağı abonelik için faturalandırılamaya devam eder
 
 Duraklatma, kullanıcı arabirimi İş Ortağı Merkezi API'ler aracılığıyla kurtarılabilir bir durum olur ve bu durum müşterinin aboneliğin hizmetlerine erişimini hemen geri yükleyebilir. 
 
 >[!IMPORTANT] 
-> Aboneliği duraklatma, tüm otomatik yenileme ayarlarını devre dışıdır ve mevcut olan ve düzeltilememiş değişiklikleri kaldırır. Bir alt simgeyi puasing yalnızca müşterinin hizmet erişimini etkiler, iş ortağı faturalama duraklatılmış durumdayken devam eder.
+> Aboneliği duraklatma, tüm otomatik yenileme ayarlarını devre dışı çevirir ve mevcut mevcut değişiklikleri kaldırır. Bir alt simgeyi puasing yalnızca müşterinin hizmet erişimini etkiler, iş ortağı faturalama duraklatılmış durumdayken devam eder.
 
 ### <a name="choose-whether-to-automatically-renew-a-commercial-marketplace-subscription-or-a-new-commerce-subscription"></a>Ticari market aboneliğini veya yeni bir ticari aboneliği otomatik olarak yenilemeyi seçin
 
 > [!Note] 
 > Yeni Ticaret değişiklikleri şu anda yalnızca Microsoft 365/Dynamics 365 yeni ticaret deneyimi teknik önizlemesinde yer alan iş ortakları tarafından kullanılabilir.
 
-Etkin abonelikler varsayılan olarak abonelik süresi sona erdiğinde otomatik olarak yenilenecek şekilde ayarlanır. Ticari [market ürünlerine veya yeni](csp-commercial-marketplace-overview.md)ticari aboneliklere abonelikler için isteğe bağlı olarak aboneliği otomatik olarak yenilemeyi seçebilirsiniz.
+Etkin abonelikler varsayılan olarak abonelik süresi sona erdiğinde otomatik olarak yenilenecek şekilde ayarlanır. Ticari [market ürünlerine veya yeni](csp-commercial-marketplace-overview.md)ticari aboneliklere yönelik abonelikler için isteğe bağlı olarak aboneliği otomatik olarak yenilemeyi seçebilirsiniz.
 
 Etkin bir ticari market aboneliğinin veya yeni ticari aboneliklerin otomatik olarak yenilenmesini durdurmak için:
 
 1. İş Ortağı Merkezi [oturum açın.](https://partner.microsoft.com/dashboard)
 
-2. İş Ortağı Merkezi menüsünden **Müşteriler'i** ve ardından listeden bir müşteri seçin.
+2. Yeni İş Ortağı Merkezi **Müşteriler'i** ve ardından listeden bir müşteri seçin.
 
 3. **Abonelikler**'i seçin. Bu, müşteri için satın aldığınız lisans tabanlı abonelikleri listeler.
 
@@ -247,7 +247,7 @@ Yenileme sırasında yapılacak yeni bir değişiklik zamanlaması için
 
 4. Yenilemeleri **Yönet'i seçin.**
 
-5. SKU, miktar, terim veya faturalama sıklığı için farklı bir Değere değiştir'i seçin:
+5. SKU, miktar, terim veya faturalama sıklığı için farklı bir Değerde değişiklik seçin:
 
    - **Geçerli,** aboneliğin geçerli değeridir 
 

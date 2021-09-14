@@ -1,68 +1,68 @@
 ---
-title: İş ortağı içgörüleri verilerine erişmek için API listesi
+title: İş ortağı öngörüleri verilerine erişmek için API listesi
 ms.topic: reference
 ms.date: 07/14/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-insights
-description: İş ortağı içgörüleri verilerine erişmek için API listesi.
+description: İş ortağı öngörüleri verilerine erişmek için API listesi.
 author: kshitishsahoo
 ms.author: ksahoo
 ms.localizationpriority: medium
 ms.openlocfilehash: cbd9f7fd08dfc4cfd247a0ed07a2c12845c5514c
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960864"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126248477"
 ---
-# <a name="available-apis-for-partner-insights-analytics"></a>İş ortağı içgörüleri analizi için kullanılabilir API'ler
+# <a name="available-apis-for-partner-insights-analytics"></a>Partner Insights Analytics için kullanılabilir API 'Ler
 
-Aşağıda iş ortağı içgörüleri analizine ve ilişkili işlevlerine yönelik API'ler listesi ve ardından yer alın.
+Ortak Öngörüler analizine ve bunlarla ilişkili işlevlere yönelik API 'lerin listesi aşağıda verilmiştir.
 
-## <a name="dataset-pull-apis"></a>Veri kümesi çekme API'leri
+## <a name="dataset-pull-apis"></a>Veri kümesi çekme API 'Leri
 
-***Tablo 1: Veri kümesi çekme API'leri***
+***Tablo 1: veri kümesi çekme API 'Leri***
 
 | **API** | **İşlev** |
 | --- | --- |
-| [Tüm veri kümelerini al](insights-programmatic-analytics-api-get-dataset.md) | Kullanılabilir tüm veri kümelerini alır. Veri kümeleri tabloları, sütunları, ölçümleri ve zaman aralıklarını listelemektedir. |
+| [Tüm veri kümelerini al](insights-programmatic-analytics-api-get-dataset.md) | Tüm kullanılabilir veri kümelerini alır. Veri kümeleri tabloları, sütunları, ölçümleri ve zaman aralıklarını listeler. |
 |||
 
-## <a name="query-management-apis"></a>Sorgu yönetimi API'leri
+## <a name="query-management-apis"></a>Sorgu yönetimi API 'Leri
 
-***Tablo 2: Sorgu yönetimi API'leri***
+***Tablo 2: sorgu yönetimi API 'Leri***
 
 | **API** | **İşlev** |
 | --- | --- |
-| [Rapor Sorgusu Oluşturma](insights-programmatic-access-paradigm.md#create-report-query-api) | Sütunların ve ölçümlerin dışarı aktarması gereken veri kümelerini tanımlayan özel sorgular oluşturur. |
-| [GET Report Query](insights-programmatic-analytics-api-get-report-queries.md) | Raporlarda kullanılabilen tüm sorguları alır. Varsayılan olarak tüm sistem ve kullanıcı tanımlı sorguları alır. |
-| [DELETE Report Query](insights-programmatic-analytics-api-delete-report-queries.md) | Kullanıcı tanımlı sorguları siler. |
+| [Rapor sorgusu oluştur](insights-programmatic-access-paradigm.md#create-report-query-api) | Sütunların ve ölçümlerin verilmesi gereken veri kümesini tanımlayan özel sorgular oluşturur. |
+| [Rapor sorgusu al](insights-programmatic-analytics-api-get-report-queries.md) | Raporlarda kullanıma sunulan tüm sorguları alır. Tüm sistem ve Kullanıcı tanımlı sorguları varsayılan olarak alır. |
+| [Rapor sorgusunu SIL](insights-programmatic-analytics-api-delete-report-queries.md) | Kullanıcı tanımlı sorguları siler. |
 |||
 
-## <a name="report-management-apis"></a>Rapor yönetimi API'leri
+## <a name="report-management-apis"></a>Rapor yönetimi API 'Leri
 
-***Tablo 3: Rapor yönetimi API'leri***
+***Tablo 3: rapor yönetim API 'Leri***
 
 | **API** | **İşlev** |
 | --- | --- |
-| [Rapor Oluşturma](insights-programmatic-access-paradigm.md#create-report-api) | Düzenli aralıklarla yürütülecek bir sorgu zamanlar. |
-| [TRY Report Query](insights-programmatic-analytics-api-try-report-queries.md) | Bir Rapor sorgusu deyimi yürütür. Bir iş ortağının verilerin beklendiği gibi olup olduğunu doğrulamak için kullanabileceği yalnızca 10 kayıt döndürür. |
-| [Rapor Al](insights-programmatic-analytics-api-get-report.md) | Zamanlanmış olan tüm raporları al. |
-| [Raporu Güncelleştirme](insights-programmatic-analytics-api-update-report.md) | Rapor parametresini değiştirme. |
-| [Raporu Sil](insights-programmatic-analytics-api-delete-report.md) | Tüm raporu ve rapor yürütme kayıtlarını siler. |
-| [Rapor Yürütmelerini Duraklatma](insights-programmatic-analytics-api-pause-report-executions.md) | Raporların zamanlanmış yürütülmesini duraklatıyor. |
-| [Rapor Yürütmelerini Sürdürme](insights-programmatic-analytics-api-resume-report-executions.md) | Duraklatılmış bir raporun zamanlanmış yürütülmesini sürdürür. |
+| [Rapor Oluştur](insights-programmatic-access-paradigm.md#create-report-api) | Düzenli aralıklarla yürütülecek bir sorgu zamanlar. |
+| [Rapor sorgusunu dene](insights-programmatic-analytics-api-try-report-queries.md) | Bir rapor sorgu ekstresi yürütür. Yalnızca bir ortağın, verilerin beklendiğini doğrulamak için kullanabileceği 10 kayıt döndürür. |
+| [Rapor Al](insights-programmatic-analytics-api-get-report.md) | Zamanlanan tüm raporları alın. |
+| [Raporu Güncelleştir](insights-programmatic-analytics-api-update-report.md) | Rapor parametresini değiştirme. |
+| [Raporu Sil](insights-programmatic-analytics-api-delete-report.md) | Tüm rapor ve rapor yürütme kayıtlarını siler. |
+| [Rapor yürütmelerini Duraklat](insights-programmatic-analytics-api-pause-report-executions.md) | Raporların zamanlanan yürütmesini duraklatır. |
+| [Rapor yürütmelerini sürdürür](insights-programmatic-analytics-api-resume-report-executions.md) | Duraklatılmış bir raporun zamanlanan yürütmesini sürdürür. |
 |||
 
-## <a name="report-execution-pull-apis"></a>Rapor yürütme çekme API'leri
+## <a name="report-execution-pull-apis"></a>Rapor yürütme çekme API 'Leri
 
-***Tablo 4: Rapor yürütme çekme API'leri***
+***Tablo 4: rapor yürütme çekme API 'Leri***
 
 | **API** | **İşlev** |
 | --- | --- |
-| [Rapor Yürütmelerini Al](insights-programmatic-access-paradigm.md#get-report-execution-api) | Verilen bir rapor için olan tüm yürütmeleri al. |
+| [Rapor yürütmelerini al](insights-programmatic-access-paradigm.md#get-report-execution-api) | Belirli bir rapor için gerçekleşen tüm yürütmeleri alın. |
 |||
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-- API'leri [Swagger API URL'si aracılığıyla denemeniz gerekir.](https://api.partnercenter.microsoft.com/insights/v1/mpn/swagger/index.html)
+- [Swagger API URL 'si](https://api.partnercenter.microsoft.com/insights/v1/mpn/swagger/index.html)aracılığıyla API 'leri deneyebilirsiniz.

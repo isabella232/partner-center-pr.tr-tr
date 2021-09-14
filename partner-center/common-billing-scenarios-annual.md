@@ -1,74 +1,74 @@
 ---
-title: Yıllık faturalama - yaygın senaryolar
+title: Yıllık faturalandırma-ortak senaryolar
 ms.topic: article
 ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-billing
-description: 'İş Ortağı Merkezi faturalama: Yeni abonelikler eklerken, faturalama tarihi öncesinde lisans eklerken, lisans miktarını değiştirirken veya abonelikleri askıya alır/yeniden etkinleştirebilirsiniz.'
+description: İş Ortağı Merkezi yıllık faturalandırma-yeni abonelikler eklediğinizde, faturalandırma tarihinden önce lisans eklediğinizde, lisans miktarını değiştirmeden veya abonelikleri askıya alabilir/yeniden etkinleştirmelisiniz.
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 9cf6ddd8ed73fcd9a7ee20a180072ad51cc5b7c4
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960035"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126248561"
 ---
-# <a name="common-annual-billing-scenarios-in-partner-center"></a>İş Ortağı Merkezi'da yaygın yıllık faturalama İş Ortağı Merkezi
+# <a name="common-annual-billing-scenarios-in-partner-center"></a>Iş Ortağı Merkezi 'nde genel yıllık faturalandırma senaryoları
 
-**Uygun roller:** Yönetici aracısı | Faturalama yöneticisi | Yardım masası aracısı | Satış aracısı
+**Uygun roller**: yönetici Aracısı | Faturalandırma Yöneticisi | Yardım Masası Aracısı | Satış Aracısı
 
-Bu örnek [yaygın faturalama senaryoları,](common-billing-scenarios.md) yıllık faturalamayı faturalarda İş Ortağı Merkezi.
+Bu örnek [genel faturalandırma senaryoları](common-billing-scenarios.md) , Iş Ortağı Merkezi 'nde yıllık faturalandırma kullanıyorsanız geçerlidir.
 
 ## <a name="new-annual-subscription"></a>Yeni yıllık abonelik
 
-Faturalama tarihiniz her ayın 15'indedir. 13 Ocak'ta, aylık 4 ABD doları için tek lisansla yeni bir abonelik satın alın ve yıllık faturalamayı seçin. 15 Ocak lisans tabanlı mutabakat dosyası aşağıdaki fatura satırına sahip olur:
+Fatura faturanızı her ayın 15 ' i vardır. 13 Ocak 'ta, $4/ay için bir lisansa sahip yeni bir abonelik satın alıp yıllık faturalandırmayı seçmeniz gerekir. 15 Ocak lisans tabanlı mutabakat dosyası aşağıdaki faturalandırma satırını içerir:
 
-|Ücret Başlangıç Tarihi |Ücret Bitiş Tarihi |Ücret Türü |Birim Fiyatı |Miktar |Miktar |
+|Ücret başlangıç tarihi |Ücretlendirme bitiş tarihi |Ücret türü |Birim Fiyatı |Miktar |Miktar |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
-1/13/2018|1/12/2019|Satın almada ücret prorate|48.00|1|48.00
+1/13/2018|1/12/2019|Satın alma sırasında ücretleri eşit oranda artır|48,00|1|48,00
 
-## <a name="add-license-after-subscription-anniversary-date-but-before-billing-date"></a>Abonelik yıl dönümü tarihten sonra ancak faturalama tarihi öncesinde lisans ekleme
+## <a name="add-license-after-subscription-anniversary-date-but-before-billing-date"></a>Abonelik Yıldönümü tarihinden sonra, fatura tarihinden önce lisans Ekle
 
-11/2/2/17 tarihinde 211,20 ABD doları yıllık bir lisansa sahip yeni bir abonelik satın asınız. Abonelik yıl dönümü her ayın 11.'i olarak ayarlanır. Microsoft faturalama sistemi aşağıdaki faturalama satırlarını oluşturur:
+2/11/17 tarihinde $211.20/Year için bir lisansa sahip yeni bir abonelik satın alırsınız. Aboneliğiniz yıl dönümü her ayın 11 günü olarak ayarlanmıştır. Microsoft faturalandırma sistemi aşağıdaki faturalandırma satırlarını oluşturur:
 
-- 11/2/17 – 10/2/18 dönemi için 211,20 ABD doları ücret.
+- $211,20:2/11/17 – 2/10/18 için ücret.
 
-12.02.17'de ikinci bir lisans satın alın. Faturalama tarihiniz 14.02.17'ye kadardır. Fatura ve mutabakat dosyası oluşturulur. Mutabakat dosyası aşağıdaki faturalama satırlarını içerir:
+2/12/17 tarihinde ikinci bir lisans satın alırsınız. Faturalama tarihi 2/14/17 ' dir. Bir fatura ve mutabakat dosyası oluşturulur. Mutabakat dosyası aşağıdaki faturalandırma satırlarını içerir:
 
-|Ücret Başlangıç Tarihi  |Ücret Bitiş Tarihi  |Ücret Türü  |Birim Fiyatı |Miktar | Miktar |
+|Ücret başlangıç tarihi  |Ücretlendirme bitiş tarihi  |Ücret türü  |Birim Fiyatı |Miktar | Miktar |
 |      :---:   |      :---:   |      :---:   |      :---:   |:---:   |:---:   |
-|2/11/2017 |2/10/2018 |Satın AlmaDa Ücretlerin Oranı |211.20 |1 | 211.20 |
+|2/11/2017 |2/10/2018 |Satın alma sırasında ücretleri eşit oranda artır |211,20 |1 | 211,20 |
 
-11/3/17 abonelik yıl dönümünde, Microsoft faturalama sistemi 12.02.17.2017 tarihinde lisans artışı için aşağıdaki faturalama satırlarını oluşturur:
+Aboneliğinizde yıldönümü 3/11/17, Microsoft faturalandırma sistemi, 2/12/17 tarihinde lisans artışı için aşağıdaki fatura satırlarını oluşturur:
 
-- 11/2/2/17 – 10/2/18 dönemi için 211,20 ABD doları kredi.
-- 11.02.17. dönem – 11.2.17. dönem için lisans başına 0,58 ABD doları ücret.
-- 12/2/17 – 10.03.2017 dönemi için iki lisans için lisans başına 15,62 ABD doları ücret.
-- 11.03.2017 – 10.02.2018 dönemi için iki lisans için lisans başına 195,00 ABD doları ücret.
+- $211,20 – 2/11/17 dönemi için kredi: 2/10/18.
+- $0,58 – 2/11/17 2/11/17 için bir lisansın lisans başına eşit olarak dağıtılmış ücreti.
+- 2/12/17 – 3/10/2017 için iki lisans için lisans başına $15,62 eşit oranda dağıtılmış ücret.
+- 3/11/2017 – 2/10/2018 için iki lisans için lisans başına $195,00 eşit oranda dağıtılmış ücret.
 
-11/2/17 tarihinde bir abonelik satın alın. 12.02.17'de bir lisans eklersiniz. Faturalama tarihiniz 14.02.17'ye kadardır. Aboneliğiniz 11.02.18'de yenilenecektir.
+2/11/17 tarihinde bir abonelik satın alırsınız. 2/12/17 ' de bir lisans eklersiniz. Faturalama tarihi 2/14/17 ' dir. 2/11/18 tarihinde aboneliğiniz yenilenir.
 
-Sonraki faturalama tarihiniz 14.03.17'tir ve bir fatura ve mutabakat dosyası oluşturulur. Mutabakat dosyası aşağıdaki faturalama satırlarını içerir:
+Bir sonraki faturalama tarihi 3/14/17, bir fatura ve mutabakat dosyası oluşturulur. Mutabakat dosyası aşağıdaki faturalandırma satırlarını içerir:
 
-|Ücret Başlangıç Tarihi  |Ücret Bitiş Tarihi  |Ücret Türü  |Birim Fiyatı |Miktar | Miktar |
+|Ücret başlangıç tarihi  |Ücretlendirme bitiş tarihi  |Ücret türü  |Birim Fiyatı |Miktar | Miktar |
 |      :---:   |      :---:   |      :---:   |      :---:   |:---:   |:---:   |
-|2/11/2017 |2/10/2018 |Döngü Örneği Hızı |-211.20 |1 |-211.20 |
-|2/11/2017 |2/11/2017 |Döngü Örneği Hızı |0.58 |1 |0.58 |
-|2/12/2017 |3/10/2017 |Döngü Örneği Hızı |15.62 |2 |31.25 |
-|3/11/2017 |2/10/2018 |Döngü Örneği Hızı |195.00 |2 |390.00 |
+|2/11/2017 |2/10/2018 |Bisiklet örneği eşit |-211,20 |1 |-211,20 |
+|2/11/2017 |2/11/2017 |Bisiklet örneği eşit |0,58 |1 |0,58 |
+|2/12/2017 |3/10/2017 |Bisiklet örneği eşit |15,62 |2 |31,25 |
+|3/11/2017 |2/10/2018 |Bisiklet örneği eşit |195,00 |2 |390,00 |
 
-11/2/18 tarihinde abonelik 12 aylık bir süre daha yenilenecektir.
+2/11/18 tarihinde abonelik başka bir 12 aylık dönem için yenilenir.
 
 ## <a name="change-license-quantity"></a>Lisans miktarını değiştir
 
-Faturalama tarihiniz her ayın 15'indedir. 13 Ocak'ta, aylık 4 ABD doları için tek lisansla yeni bir abonelik satın alın ve yıllık faturalamayı seçin. 15 Ocak lisans tabanlı mutabakat dosyası aşağıdaki fatura satırına sahip olur:
+Fatura faturanızı her ayın 15 ' i vardır. 13 Ocak 'ta, $4/ay için bir lisansa sahip yeni bir abonelik satın alıp yıllık faturalandırmayı seçmeniz gerekir. 15 Ocak lisans tabanlı mutabakat dosyası aşağıdaki faturalandırma satırını içerir:
 
-|Ücret Başlangıç Tarihi |Ücret Bitiş Tarihi |Ücret Türü |Birim Fiyatı |Miktar |Miktar |
+|Ücret başlangıç tarihi |Ücretlendirme bitiş tarihi |Ücret türü |Birim Fiyatı |Miktar |Miktar |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
-1/13/2018|1/12/2019|Satın almada ücret prorate|48.00|1|48.00
+1/13/2018|1/12/2019|Satın alma sırasında ücretleri eşit oranda artır|48,00|1|48,00
 
 1 Şubat'ta lisans miktarınızı birden ikiye artıracaktır. 15 Şubat lisans tabanlı mutabakat dosyası aşağıdaki fatura satırlarını içerir:
 
@@ -129,28 +129,28 @@ Bu nedenle birim fiyat = 41,34 (318x0,13x1). Bu bir kredi olduğundan birim fiya
 
 ## <a name="suspend-and-reactivate"></a>Askıya alma ve yeniden etkinleştirme
 
-Faturalama tarihiniz her ayın 15'indedir. 13 Ocak 'ta, $4/ay için bir lisansa sahip yeni bir abonelik satın alıp yıllık faturalandırmayı seçmeniz gerekir. 15 Ocak lisans tabanlı mutabakat dosyası aşağıdaki faturalandırma satırını içerir:
+Faturalama tarihiniz her ayın 15'indedir. 13 Ocak'ta, aylık 4 ABD doları için tek lisansla yeni bir abonelik satın alın ve yıllık faturalamayı seçin. 15 Ocak lisans tabanlı mutabakat dosyası aşağıdaki fatura satırına sahip olur:
 
-|Ücret başlangıç tarihi |Ücretlendirme bitiş tarihi |Ücret türü |Birim Fiyatı |Miktar |Miktar |
+|Ücret Başlangıç Tarihi |Ücret Bitiş Tarihi |Ücret Türü |Birim Fiyatı |Miktar |Miktar |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
-1/13/2018|1/12/2019|Satın alma sırasında ücretleri eşit oranda artır|48,00|1|48,00
+1/13/2018|1/12/2019|Satın almada ücretleri prorate|48.00|1|48.00
 
-1 Şubat 'ta aboneliğinizi askıya alırsınız. 15 Şubat lisans tabanlı mutabakat dosyası aşağıdaki faturalandırma satırını içerir:
+1 Şubat'ta aboneliğinizi askıya alırsınız. 15 Şubat lisans tabanlı mutabakat dosyası aşağıdaki fatura satırına sahip olur:
 
-|Ücret başlangıç tarihi |Ücretlendirme bitiş tarihi |Ücret türü |Birim Fiyatı |Miktar |Miktar |
+|Ücret Başlangıç Tarihi |Ücret Bitiş Tarihi |Ücret Türü |Birim Fiyatı |Miktar |Miktar |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
-1/13/2018|1/12/2019|Ücreti iptal et|-48,00|1|-48,00
+1/13/2018|1/12/2019|Ücreti İptal Etme|-48.00|1|-48.00
 
-1 Mart 'ta aboneliğinizi yeniden etkinleştirin. 15 Mart lisans tabanlı mutabakat dosyası aşağıdaki faturalandırma satırını içerir:
+1 Mart'ta aboneliğinizi yeniden etkinleştirebilirsiniz. 15 Mart lisans tabanlı mutabakat dosyasında aşağıdaki fatura satırı yer alacağız:
 
-|Ücret başlangıç tarihi |Ücretlendirme bitiş tarihi |Ücret türü |Birim Fiyatı |Miktar |Miktar |
+|Ücret Başlangıç Tarihi |Ücret Bitiş Tarihi |Ücret Türü |Birim Fiyatı |Miktar |Miktar |
 |       :---:      |    :---:       | :---:      |:---:      |:---:    |:---:  |
-3/1/2018|1/12/2019|Satın alma sırasında ücretleri eşit oranda artır|41,34|1|41,34
+3/1/2018|1/12/2019|Satın almada ücretleri prorate|41.34|1|41.34
 
-Yıllık fiyat, 0,13 (48.00/365) günlük fiyatına eşit olan 48,00 ' dir.
+Yıllık fiyat 48,00'dır ve günlük fiyatı 0,13'e (48,00/365) eşit olur.
 
-Birim fiyatı = servis süresi x gün cinsinden gün sayısı x Lisans sayısı.
+Birim fiyat = hizmet dönemindeki gün sayısı x günlük fiyat x lisans sayısı.
 
-318 gün süreyle hizmet dönemi 3/1/2018 – 1/12/2019.
+1/3/2018 – 12.01.2019 hizmet döneminde 318 gün vardır.
 
-Bu nedenle, birim fiyatı = 41,34 (318x 0.13 x1).
+Bu nedenle birim fiyat = 41,34 (318x0,13x1).

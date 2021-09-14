@@ -9,11 +9,11 @@ author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
 ms.openlocfilehash: 1a5da21326ae789e4b6f570c14f9a52e0348bb64
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123961125"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126248596"
 ---
 # <a name="find-a-partner-or-solution-provider-to-answer-questions-about-programs-licensing-or-customer-deals"></a>Programlar, lisanslama veya müşteri anlaşmaları hakkında soruları yanıtlamak için bir iş ortağı veya çözüm sağlayıcısı bulun 
 

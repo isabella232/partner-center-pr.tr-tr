@@ -10,17 +10,17 @@ ms.author: v-petand
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 73a02a0a6cad28939d21800c726811c8969ce9a2
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123961254"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126248509"
 ---
 # <a name="manage-licensing-in-marketplace-offers"></a>Market tekliflerini lisanslama yönetme
 
 **Uygun roller:** Genel yönetici | Hesap yöneticisi
 
-Bu makalede teklif ayarlama, İş Ortağı Merkezi'de kullanılabilir hale Microsoft AppSource ve ardından bu teklifin lisanslarını yönetme işlemi açıklanmıştır.  
+Bu makalede teklif ayarlama, İş Ortağı Merkezi'da kullanılabilir hale Microsoft AppSource ve ardından bu teklifin lisanslarını yönetme işlemi açıklanmıştır.  
 
 >[!IMPORTANT]
 >Bu makaledeki özellikler şu anda Genel Önizleme'dedir.
@@ -41,14 +41,14 @@ Bu işleme başlamadan önce ticari marketin temellerini tanımanız gerekir. A�
 
 Aşağıdaki yordamlarda teklif kimliği girmeniz istenir. Şimdi uygun bir Teklif Kimliği bulmak için aşağıdaki noktaları göz atarak biraz zaman atabilirsiniz:
 
-- Bu kimlik, market teklifinin web adresi ve varsa Azure Resource Manager müşteriler tarafından görülebilir.
+- Bu kimlik, market teklifinin web adresine ve varsa Azure Resource Manager müşteriler tarafından görülebilir.
 - Teklif Kimliği, teklif kimliğiyle Publisher 40 karakterden kısa olmalıdır.
 - Yalnızca küçük harfleri ve rakamları kullanın. Teklif Kimliği kısa çizgi ve alt çizgi içerebilir ancak boşluk içermez. Örneğin, Publisher kimliğiniz ise `testpublisherid` ve `test-offer-1` girersiniz, teklif web adresi `https://appsource.microsoft.com/product/dynamics-365/testpublisherid.test-offer-1` olur.
 - Oluştur'ı seçdikten sonra bu kimlik **değiştirilemez.**
 
 ### <a name="determine-your-offer-alias"></a>Teklif diğer adını belirleme
 
-Teklif diğer adı, teklifte teklif için kullanılan addır İş Ortağı Merkezi. Ayrıca aşağıdaki yönergelere uygun bir Teklif diğer adı da gerekir:
+Teklif diğer adı, teklifte teklif için kullanılan İş Ortağı Merkezi. Ayrıca aşağıdaki yönergelere uygun bir Teklif diğer adı da gerekir:
 
 - Bu ad markette kullanılmamaktadır ve müşterilere gösterilen teklif adı ile diğer değerlerden farklıdır.
 - Oluştur'ı seçdikten sonra bu ad değiştirilemez.
@@ -75,11 +75,11 @@ Lisanslama sürecinin ilk adımı ticari market teklifinizi oluşturmaktır.
 Bu adımlarda teklifiniz için etkinleştirmek istediğiniz planı veya planları tanımlayabilirsiniz.
 
 1. Sol gezinti menüsünde Plan'a genel **bakış'ı ve** ardından Yeni plan **oluştur'ı seçin.**
-2. Bir Plan **Kimliği ve** Plan adı **girin ve** Oluştur'a **seçin.**
+2. Bir Plan **Kimliği ve** Plan adı **girin ve** oluştur'a **basın.**
 3. Plan **listeleme sayfasında** Plan açıklamanızı **girin.**
 4. Açıklamayı kaydetmek ve daha sonra tamamlamak için Taslağı **kaydet'i seçin.**
 
-5. Bitirdikten sonra Gözden geçir ve **yayımla'yı seçin.** Plan bilgileri artık teklif listesi appsource.microsoft.com (planlar bölümü) altında görüntülenir.
+5. Bitirdikten sonra Gözden geçir ve **yayımla'yı seçin.** Plan bilgileri artık teklif listesi (planlar appsource.microsoft.com bölümünde görüntülenir.
 
 6. Bu teklif için tüm planları oluşturduktan sonra, her planın Hizmet Kimliğini kopyalamanız gerekir. Plan **listeleme sayfasının** üst kısmında Plan'a genel bakış'ı seçin. Her planın Hizmet Kimliğini güvenli bir konuma kopyalayın.
 
@@ -89,14 +89,14 @@ Sonraki adım, az önce kopyalanan her plan için Hizmet kimliklerini ekleyerek 
 
 ## <a name="upload-your-package-and-publish-your-offer"></a>Upload paketinizi yayımlama ve teklifinizi yayımlama
 
-1. Sol gezinti bölmesinde Ticari **Market'i ve ardından** Teknik yapılandırma'ı **seçin.**
+1. Sol gezinti bölmesinde Ticari **Market'i ve ardından** Teknik **yapılandırma'ı seçin.**
 2. Temel **Lisans Modeli'nin altında** Kullanıcı'ya **seçin.**
 3. **CRM Paketi'nin** altına paket konumunun URL'sini girin.
 4. Gerekli diğer bilgileri girmek için sol gezinti bölmesindeki diğer sekmeleri kullanın. Bitirerek Gözden geçir ve **yayımla'yı seçin.**
 
 Teklifi yayımladikten sonra, bilginizi gözden geçirdikten ve doğrulayana kadar devam ederiz. Bu işlemle ilgili herhangi bir sorun varsa size bildiracağız. Tüm sorunlar çözümlendi mi, teklifinizin AppSource'ta kullanılabilir olduğunu size bildirecek. Bu noktada canlı hale siniz.
 
-## <a name="make-your-offer-live-in-partner-center"></a>Teklifinizi İş Ortağı Merkezi'da canlı hale İş Ortağı Merkezi
+## <a name="make-your-offer-live-in-partner-center"></a>Teklifinizi İş Ortağı Merkezi'de canlı hale İş Ortağı Merkezi
 
 Aşağıdaki yordamda teklifinizi AppSource'ta canlı hale uygulama işlemi açıklanmıştır. Bu işlem hakkında daha fazla bilgi edinmek için [bkz. Listeleme seçeneklerine giriş.](/azure/marketplace/determine-your-listing-type)
 
@@ -114,9 +114,9 @@ Teklif 4-6 saat içinde canlı olarak yayınlanacak.
 
     - **Ücretsiz yükleme seçeneğine sahip lisans** özellikli teklifler için: Teklifiniz için lisans  denetimi gerekli yoksa, yönetici kullanıcılar Benimle İletişime Geçin'e ek olarak Şimdi Al düğmesini **de görebilir.** Ücretsiz yükleme seçeneğinizi denemek isteyen kullanıcıların Şimdi Al'a tıklaması gerekir. Bu seçenek, teklifi Yönetim Merkezi'Power Platform yüklemelerini sağlar. Kullanıcılar, soruları **varsa veya** ücretli plana yükseltmek isterse Benimle İletişime Geçin'i kullanmaya devam ediyor.
 
-## <a name="register-isv-connect-deal-in-deal-registration"></a>Anlaşma Kaydı'Bağlan ANLAŞMASı'nın ISV kaydı
+## <a name="register-isv-connect-deal-in-deal-registration"></a>Anlaşma Kaydı'Bağlan isv kaydı
 
-Bir müşteriye lisans atamadan önce, her satışın bir müşteriye İş Ortağı Merkezi. Bunu yapmak için [bkz. Anlaşmalarınızı kaydetme.](register-deals.md)
+Bir müşteriye lisans ataymadan önce her satışın bir müşteriye İş Ortağı Merkezi. Bunu yapmak için [bkz. Anlaşmalarınızı kaydetme.](register-deals.md)
 
 ## <a name="invite-the-customer"></a>Müşteriyi davet etme
 
@@ -125,9 +125,9 @@ Müşteriyi bu satış anlaşmasına katılmaya davet etmek için aşağıdaki y
 1. [İş Ortağı Merkezi panosunda](https://partner.microsoft.com/dashboard/) oturum açın.
 2. Sol gezinti menüsünde Ticari **Market/Genel Bakış'ı seçin.**
 3. Sol gezinti menüsünde Referanslar'ı **ve ardından** Anlaşma **Kaydı'ı seçin.**
-4. Gönderilen **anlaşmalar için** filtre uygulama, **Devam Ediyor sekmesini** ve ardından istediğiniz anlaşmayı seçin.
+4. Gönderilen **anlaşmalar için** filtrele, **Devam Ediyor sekmesini** ve ardından istediğiniz anlaşmayı seçin.
 5. Bu anlaşmanın genel bakış sayfasında Lisansları **yönet'i seçin.**
-6. Lisansları **yönet penceresinde** Müşteri ayrıntıları açılan **listesinden** müşteriyi seçin. Müşteri ilişkisi henüz yoksa onay için +Yeni müşteri **davet et'i seçin.**
+6. Lisansları **yönet penceresinde** Müşteri ayrıntıları açılan **listesinden müşteriyi** seçin. Müşteri ilişkisi henüz yoksa onay için +Yeni müşteri **davet et'i seçin.**
 7. Görüntülenen bağlantıyı kopyalayın.
 8. Bu bağlantıyı müşterinizin faturalama yöneticisine veya genel yöneticisine e-posta ile gönderin ve bu bağlantıyı kullanarak admin.microsoft.com ilişkileri kabul etmelerini ve yetkilendirmelerini snın.
 

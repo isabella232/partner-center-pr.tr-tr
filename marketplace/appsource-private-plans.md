@@ -8,11 +8,11 @@ ms.author: gushuchm
 ms.date: 06/08/2021
 robots: noindex
 ms.openlocfilehash: a392859c1106c747e0e7c696927ef3b25262e411
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123936933"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126248450"
 ---
 # <a name="private-plans-in-microsoft-appsource"></a>Microsoft AppSource özel planlar
 

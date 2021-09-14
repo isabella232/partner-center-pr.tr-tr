@@ -1,5 +1,5 @@
 ---
-title: Azure planı faturalaması - fatura & mutabakat dosyaları
+title: Azure planı faturalaması - & mutabakat dosyaları
 ms.topic: article
 ms.date: 05/19/2021
 ms.service: partner-dashboard
@@ -10,11 +10,11 @@ ms.author: sakhanda
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 5300f32dc7784a4a4c521db70513ba4b9f21a854
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123959944"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126248340"
 ---
 # <a name="new-commerce-experience-in-csp---azure-billing"></a>CSP'de yeni ticari deneyim - Azure faturalama 
 
@@ -24,11 +24,11 @@ Bu makalede, Azure planının faturalaması ile ilgili fatura ve mutabakat dosya
 
 ## <a name="summary-of-billing-essentials"></a>Faturalama temellerinin özeti
 
-- **Fatura tarihi:** Fatura ve mutabakat dosyası, İş Ortağı Merkezi (gece yarısı UTC) kadar panoda/API'de kullanılabilir.
+- **Fatura tarihi:** Fatura ve mutabakat dosyası, 8 İş Ortağı Merkezi (gece yarısı UTC) kadar panoda/API'de kullanılabilir.
 
 - **Fatura faturalama dönemi:** Fatura faturalama dönemi takvim ayıyla hizalanır; örneğin, 10/1-10/31, 11/1-11/30.
 
-- **Ücret hizmeti dönemleri:** Ücretler takvim ayıyla uyumlu olur. Örneğin, faturalandırmış iş ortağı azure hizmetlerini 10/15 tarihinde bir Azure planı aracılığıyla eklerse ve müşteri Azure hizmetlerinin tüketimini 10/15'te başlarsa, faturalandırmış iş ortağı 10/15 - 10/31 hizmet dönemi için müşteri tüketimi için 11/8'de fatura/mutabakat alır. 12/8 tarihinde oluşturulacak sonraki ayın faturası, 11/1- 11/31 hizmet dönemi için tüm ücretleri içerir.
+- **Ücret hizmeti dönemleri:** Ücretler takvim ayıyla aynı olur. Örneğin, faturalandırmış iş ortağı azure hizmetlerini 10/15 tarihinde bir Azure planı aracılığıyla eklerse ve müşteri Azure hizmetlerinin tüketimini 10/15'te başlarsa, faturalandırmış iş ortağı 10/15 - 10/31 hizmet dönemi için müşteri tüketimi için 11/8'de fatura/mutabakat alır. 12/8 tarihinde oluşturulacak sonraki ayın faturası, 11/1- 11/31 hizmet dönemi için tüm ücretleri içerir.
 
 - **Fatura ödeme dönemi:** Net 60 gün.
 
@@ -98,7 +98,7 @@ Fatura ve mutabakat dosyasına erişmek için:
 
 3. Faturalama dönemi, 10/1-10/31 gibi bir takvim ayı kapsar.
 
-4. Ücretler net ayarlamalardır (tutar net olarak "Yönetilen hizmetler için iş ortağı tarafından kazanılmış kredidir").
+4. Ücretler net ayarlamalardır ("Yönetilen hizmetler için iş ortağı tarafından kazanılan kredi" tutarıdır).
 
 5. Ek faturalama ayrıntıları için fatura mutabakat dosyasını ve günlük olarak derecelendirilmiş kullanım dosyasını gözden geçirme.
 
@@ -123,7 +123,7 @@ Fatura ve mutabakat dosyasına erişmek için:
 
 - **Yönetilen hizmetler için iş ortağı tarafından kazanılan** kredi, günlük olarak belirlenir ve uygulanır.
 
-- Her abonelik ölçüm, tüketimin olduğu ayın her günü için bir satıra sahip olur.
+- Her abonelik ölçüm, tüketim yapılan ayın her günü için bir satıra sahip olur.
 
 - Aşağıdaki örnekte:
 
@@ -137,9 +137,9 @@ Fatura ve mutabakat dosyasına erişmek için:
 
 ## <a name="invoice-in-partner-location-currency"></a>İş ortağı konumu para birimi cinsinden fatura
 
-Azure planı aracılığıyla azure hizmetleri ABD doları olarak fiyatlandırılıyor ve iş ortağı ülkenin atanan para biriminde faturalandırılıyor. Faturalama para birimi USD olmayan bir değerse, kullanılan Döviz kuru (FX) fiyatı faturanın son sayfasında gösterilir. FX fiyatları aylık olarak belirlenir ve aşağıdaki faturaya uygulanır. Ülke para birimlerinin tam listesi için lütfen yeni ticaret tekliflerinin ülke kullanılabilirliği ve iş ortağı [para birimi matrisini görüntülemeyi unutmayın.](https://go.microsoft.com/fwlink/?linkid=2112354)
+Azure planı aracılığıyla azure hizmetleri ABD doları olarak fiyatlandırılıyor ve iş ortağı ülkenin atanan para biriminde faturalandırılıyor. Faturalama para birimi USD olmayan bir değerse, kullanılan Döviz kuru (FX) faturanın son sayfasında gösterilir. FX fiyatları aylık olarak belirlenir ve aşağıdaki faturaya uygulanır. Ülke para birimlerinin tam listesi için lütfen yeni ticari teklifler ülke kullanılabilirliği ve iş ortağı [para birimi matrisini görüntüebilirsiniz.](https://go.microsoft.com/fwlink/?linkid=2112354)
 
-Microsoft, her takvim ayı için satın alınan veya tüketilen Azure hizmetlerinin toplam ücretlerine varmak için temel USD fiyatlarına önceden belirlenen bir döviz kuru uygular. Aylık döviz kuru, Thomson Tümcesi (genellikle) tarafından önceki ay sonundan iki gün önce GMT saat 16:00'da yayımlanan orta fiyattır. 
+Microsoft, her takvim ayı için satın alınan veya tüketilen Azure hizmetlerinin toplam ücretlerine varmak için temel USD fiyatlarına önceden belirlenen bir döviz kuru uygular. Aylık döviz kuru, Thomson Tümcesi (genellikle) tarafından önceki ay sonundan iki iş günü önce gmt'de saat 16:00'da yayımlanan orta fiyattır. 
 
 **Örneğin,** Microsoft'un Aralık döviz kuru, verili bir para birimi için 29 Kasım'da veya yaklaşık olarak Thomson Mid-rate olur. Bu oran, 1 Aralık ile 31 Aralık arasında bu para birimiyle yapılan tüm satın almalara uygulanır. 
 
@@ -163,8 +163,8 @@ Azure planı aracılığıyla Azure hizmetlerinin faturalama modeli ödeme sonra
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-- İş ortağı tarafından kazanılan kredinin (PEC) nasıl hesaplanmasına bakın. Iş Ortağı Merkezi [panosunda](https://partner.microsoft.com/dashboard/) oturum açın ve kullanılabilir fiyat listesini bulun.
+- İş ortağı tarafından kazanılan kredinin (PEC) nasıl hesaplanmasına bakın. Panoda oturum İş Ortağı Merkezi [ve](https://partner.microsoft.com/dashboard/) kullanılabilir fiyat listesini bulun.
 
-- [Azure planını satın alma](purchase-azure-plan.md) hakkında bilgi edinin
+- Azure planını [satın alma hakkında bilgi edinin](purchase-azure-plan.md)
 
-- [CSP 'de yeni ticaret deneyimi için fiyat listesine](azure-plan-price-list.md) bakın
+- [CSP'de yeni ticaret deneyimi için fiyat listesine bakın](azure-plan-price-list.md)

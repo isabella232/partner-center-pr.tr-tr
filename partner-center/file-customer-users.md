@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 08/01/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-customers
-description: Bir müşteri hesabına birden çok kullanıcı eklemek için, uygun alanlara sahip bir virgülle .csv değer (.csv) dosyası oluşturun.
+description: Bir müşteri hesabına birden çok kullanıcı eklemek için uygun alanlara sahip virgülle ayrılmış bir .csv (.csv) dosyası oluşturun.
 author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 7d8cbeecf081dc82448625daeedc0ce21b31174e
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960954"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126248598"
 ---
 # <a name="add-multiple-users-to-a-customer-account-by-creating-a-csv-file"></a>Bir .csv dosyası oluşturarak müşteri hesabına birden .csv ekleme
 
@@ -40,7 +40,7 @@ Veri dosyasına aşağıdaki verileri girin:
 | Soyadı  | Kullanıcının soyadı (isteğe bağlı alan)  | 50 karakterlik sınır  |
 | Görünen ad    | Ad, İş Ortağı Merkezi (gerekli alan)                            | 50 karakterlik sınır                         |
 | E-posta   | Müşterinin müşteri şirketinde iş e-posta adresi (gerekli alan)           | Her kullanıcının benzersiz bir e-posta adresi olmalıdır |
-| Durum güncelleştirmesi   | Yeni kullanıcı kaydının başarıyla oluşturulıp oluşturulmadı | \*\*Boş bırakın\*\*                        |
+| Durum güncelleştirmesi   | Yeni kullanıcı kaydının başarıyla oluşturulıp oluşturula olmadığını belirtmek için kullanılır | \*\*Boş bırakın\*\*                        |
 
 ## <a name="next-steps"></a>Sonraki adımlar
 

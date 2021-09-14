@@ -10,11 +10,11 @@ ms.author: amrava
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
 ms.openlocfilehash: ce0eaa6a4ec04dc514b241b7f90bf32dd3106e41
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123959915"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126248334"
 ---
 # <a name="manage-subscriptions-and-resources-under-the-azure-plan"></a>Azure planı kapsamındaki abonelikleri ve kaynakları yönetme
 

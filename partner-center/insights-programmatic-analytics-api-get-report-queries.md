@@ -9,11 +9,11 @@ author: kshitishsahoo
 ms.author: ksahoo
 ms.localizationpriority: medium
 ms.openlocfilehash: 5f65784ce93350c92e0ffe38849ce505f045e0b0
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960905"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126248480"
 ---
 # <a name="get-report-queries-api"></a>Rapor sorgularını al API'si
 
@@ -92,7 +92,7 @@ Bu tablo yanıtta önemli öğeleri tanımlar:
 |    ----    |    ----    |
 |    Queryıd     |    Sorgunun benzersiz UUID'i     |
 |    Name     |    Sorgu oluşturma sırasında sorguya verilen ad     |
-|    Description     |    Sorgu oluşturma sırasında verilen açıklama     |
+|    Description     |    Sorgunun oluşturulması sırasında verilen açıklama     |
 |    Sorgu     |    Rapor sorgu dizesi     |
 |    Tür     |    Önceden tanımlanmış sistem sorguları için kullanıcı tarafından oluşturulan sorgular ve sistem için userDefined olarak ayarlayın     |
 |    Kullanıcı     |    Sorguyu oluşturan kullanıcı kimliği     |

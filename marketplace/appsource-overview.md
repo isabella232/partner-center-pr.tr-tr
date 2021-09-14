@@ -1,6 +1,6 @@
 ---
 title: Microsoft AppSource genel bakış
-description: Çevrimiçi mağaza hakkında Microsoft AppSource ve yazılım ve çözümlerin kapsamlı kataloğunu nasıl bulayabilirsiniz?
+description: Çevrimiçi Microsoft AppSource hakkında bilgi alın ve yazılım ve çözümlerin kapsamlı kataloğunu nasıl bulasınız?
 ms.service: marketplace-customer
 ms.topic: conceptual
 author: Guyshu
@@ -8,17 +8,17 @@ ms.author: gushuchm
 ms.date: 08/16/2021
 ms.custom: contperf-fy21q3
 ms.openlocfilehash: 15b85abde224caafb3f2f6842eb4a38f7b767ffe
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123937003"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126248451"
 ---
 # <a name="what-is-microsoft-appsource"></a>Microsoft AppSource nedir?
 
 Microsoft AppSource, endüstri lideri yazılım sağlayıcıları tarafından inşa edilen binlerce iş uygulaması ve hizmeti içeren bir çevrimiçi mağazadır. İşlerinizi çalıştırmanıza yardımcı olan iş yazılımlarını ve hizmetlerini bulmak, denemek, satın almak ve dağıtmak için AppSource'ı kullanabilirsiniz.
 
-AppSource kataloğu hizmet olarak yazılım (SaaS) uygulamaları, Microsoft Azure, Dynamics 365, Microsoft 365, Power BI, Power Apps ve Microsoft iş ortaklarının danışmanlık hizmetleri için yerleşik çözümler içerir. AppSource ürün kataloğuna Microsoft 365, Dynamics 365 ve Microsoft Power Platform üzerinden veya üzerinden [https://appsource.microsoft.com](https://appsource.microsoft.com) erişin. AppSource'un çözümleri, microsoft kurumsal bayileri tarafından Bulut Çözümü Sağlayıcısı kullanılabilir.
+AppSource kataloğu hizmet olarak yazılım (SaaS) uygulamaları, Microsoft Azure, Dynamics 365, Microsoft 365, Power BI, Power Apps ve Microsoft iş ortaklarının danışmanlık hizmetleri için yerleşik çözümler içerir. AppSource ürün kataloğuna [https://appsource.microsoft.com](https://appsource.microsoft.com) Microsoft 365, Dynamics 365 ve Microsoft Power Platform. AppSource'un çözümleri, microsoft kurumsal bayileri tarafından Bulut Çözümü Sağlayıcısı kullanılabilir.
 
 ## <a name="find-what-you-need-on-appsource"></a>AppSource'ta ihtiyacınız olan her şeyi bulun
 
@@ -30,7 +30,7 @@ Giriş sayfası üst kısmında yer alan üç sekme, sonuçları AppSource tekli
 
 - **Uygulamalar** çok çeşitli sektörlere, kategorilere ve iş gereksinimlerine uyarlanmış tüm uygulamaları gösterir.
 - **Danışmanlık hizmetleri,** Microsoft çözümleriniz için değerlendirmeler, brifingler, uygulamalar, kavram kanıtı ve atölyeler sağlayan önceden paket hizmetler gösterir.
-- **İş** ortakları, microsoft tabanlı hizmetlerle, kuruluşlarının dijital dönüşüme ve iş hedeflerine daha hızlı ulaşmalarına yardımcı olmak için güvenilen Microsoft iş ortaklarının profillerini gösterir.
+- **İş** ortakları, microsoft tabanlı hizmetlerle, kuruluşta dijital dönüşüme ve iş hedeflerine daha hızlı ulaşmanıza yardımcı olacak güvenilir Microsoft iş ortaklarının profillerini gösterir.
 
 Uygulama galerisini [keşfederken,](https://appsource.microsoft.com/marketplace/apps)sonuçları ücretsiz deneme veya test sürüşlerinin kullanılabilirliği, fiyatlandırma modeli (ücretsiz veya ücretli) ve müşteri derecelendirmelerine göre daraltmak için sayfanın üst kısmında bulunan filtreleri kullanın.
 
@@ -50,7 +50,7 @@ Uygulamanın listeleme *sayfasını görmek için* uygulama sonuçlarından bir 
 
 - **Hemen Alın:** Çözümü hemen satın alın.
 - **Test Sürüşi:** Özel bir tanıtım keşfedin. Test sürüşleri üretim verilerinizi veya ortamınızı kullanmaz ancak çözümün iş ihtiyaçlarına uygun olup olmadığını belirlemenize olanak sağlar.
-- **Ücretsiz Deneme:** Gerçek verileri, kullanıcıları veya her ikisini de kullanarak üretimde bir çözümü değerlendirmek için ücretsiz deneme sürümü başlatabilirsiniz.
+- **Ücretsiz Deneme:** Gerçek verileri, kullanıcıları veya her ikisini kullanarak üretimde bir çözümü değerlendirmek için ücretsiz deneme sürümü başlatabilirsiniz.
 - **Benimle İletişim** Kurun: Çözümü doğrudan onlardan satın almak için yayımcıdan size ulaşarak iletişim kurmalarını sorun.
 
 ## <a name="purchasing-requirements"></a>Satın alma gereksinimleri
@@ -59,11 +59,11 @@ AppSource'tan SaaS uygulamaları satın almak için iş Azure Active Directory o
 
 ## <a name="certification-and-security"></a>Sertifikasyon ve güvenlik
 
-AppSource'ta kullanılabilen her ürün belirli ölçütlere göre sertifikalandırılmıştır. Yine de her ürünü, kuruluşun benzersiz gereksinimlerini karşılaması için dikkatle gözden geçirmenizi teşvik ediyoruz. Her teklif türü için gözden geçirilen sertifikasyon ilkeleri hakkında bilgi edinmek için bkz. [Ticari market sertifikasyon ilkeleri.](/legal/marketplace/certification-policies) Microsoft 365, yayımcılar için [ek](/microsoft-365-app-certification/docs/enterprise-app-certification-guide) [bir sertifikasyon ve onay](/microsoft-365-app-certification/docs/enterprise-app-attestation-guide) sürecine sahiptir.
+AppSource'ta kullanılabilen her ürün belirli ölçütlere göre sertifikalandırılmıştır. Yine de her ürünü, kuruluşun benzersiz gereksinimlerini karşılaması için dikkatle gözden geçirmenizi teşvik ediyoruz. Her teklif türü için gözden geçirilen sertifikasyon ilkeleri hakkında bilgi edinmek için bkz. [Ticari market sertifikasyon ilkeleri.](/legal/marketplace/certification-policies) Microsoft 365, yayımcılar [için ek](/microsoft-365-app-certification/docs/enterprise-app-certification-guide) bir sertifikasyon [ve onay](/microsoft-365-app-certification/docs/enterprise-app-attestation-guide) sürecine sahiptir.
 
 ## <a name="terms-and-conditions"></a>hüküm ve koşullar
 
-Yazılım satıcısı fiyat, son kullanıcı lisans sözleşmesi ve gizlilik ilkelerini tanımlar. AppSource'ta her teklif, yayımcının lisans sözleşmesine ve gizlilik ilkesine bağlantılar içerir. Bu anlaşmaları görüntüleme ve kabul, satın alma akışının bir parçası. Ayrıntılar için bkz. [Yasal sözleşmeler.](legal-contracts.md)
+Yazılım satıcısı fiyat, son kullanıcı lisans sözleşmesi ve gizlilik ilkelerini tanımlar. AppSource'ta her teklif, yayımcının lisans sözleşmesine ve gizlilik ilkesine bağlantılar içerir. Bu anlaşmaları görüntüleme ve kabul ederek satın alma akışının bir parçası olur. Ayrıntılar için bkz. [Yasal sözleşmeler.](legal-contracts.md)
 
 ## <a name="discover-saas-and-microsoft-365-integrated-apps"></a>SaaS'ı ve Microsoft 365 uygulamaları keşfetme
 
@@ -78,7 +78,7 @@ Tek başına eklentileri arıyorsanız, bunları aşağıdaki yöntemlerden biri
 
 SaaS uygulaması satın alma gerektiriyorsa [bkz. SaaS tekliflerini Microsoft AppSource.](purchase-software-appsource.md)
 
-Microsoft 365 Yönetici saas ve eklentileri tek bir yerde dağıtabilirsiniz. Daha fazla bilgi için, [bkz. Test ve Microsoft 365 Uygulamaları - Microsoft 365 yöneticisi.](/microsoft-365/admin/manage/test-and-deploy-microsoft-365-apps)
+Microsoft 365 Yönetici kullanıcılar hem SaaS'yi hem de eklentileri tek bir yerde dağıtabilirsiniz. Daha fazla bilgi edinmek için bkz. [Test ve Microsoft 365 Uygulamaları - Microsoft 365 yöneticisi.](/microsoft-365/admin/manage/test-and-deploy-microsoft-365-apps)
 
 ## <a name="find-ratings-and-reviews"></a>Derecelendirmeleri ve incelemeleri bulma
 

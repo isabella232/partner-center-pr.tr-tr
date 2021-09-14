@@ -10,11 +10,11 @@ metadata:
   ms.author: jasongroce
   ms.date: 02/01/2021
   ms.openlocfilehash: efc7956295944a40a9574c7678da8ef20cd04fd9
-  ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+  ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
   ms.translationtype: MT
   ms.contentlocale: tr-TR
-  ms.lasthandoff: 09/09/2021
-  ms.locfileid: "123961135"
+  ms.lasthandoff: 09/13/2021
+  ms.locfileid: "126249667"
 landingContent:
 - title: İş Ortağı Merkezi'ni kullanmaya başlama
   linkLists:
@@ -50,7 +50,7 @@ landingContent:
   linkLists:
   - linkListType: concept
     links:
-    - text: Kabul Microsoft İş Ortağı Sözleşmesi
+    - text: Microsoft Iş ortağı sözleşmesi 'Ni kabul edin
       url: microsoft-partner-agreement.md
     - text: İş Ortağı Merkezi güvenlik gereksinimleri
       url: partner-security-requirements.md
@@ -60,9 +60,9 @@ landingContent:
       url: azure-plan-lp.md
     - text: Microsoft’tan destek alma
       url: support-from-microsoft.md
-    - text: Microsoft 365 Lighthouse hakkında bilgi Microsoft 365 Lighthouse
+    - text: Microsoft 365 Lighthouse hakkında bilgi edinin
       url: /microsoft-365/lighthouse/m365-lighthouse-overview
-    - text: Azure Lighthouse hakkında bilgi Azure Lighthouse
+    - text: Azure ışıklı kullanımı hakkında bilgi edinin
       url: /azure/lighthouse/overview
   - linkListType: how-to-guide
     links:

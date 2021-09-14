@@ -4,17 +4,17 @@ ms.topic: how-to
 ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-pricing
-description: CSP iş ortaklarının Market'İş Ortağı Merkezi SaaS tekliflerini veya Bağımsız Yazılım Satıcılarının (ISV) fiyatlandırmalarını görüntülemek veya aramak için nasıl kullanabileceğini öğrenin.
+description: CSP iş ortaklarının Market'İş Ortağı Merkezi SaaS tekliflerini veya bağımsız yazılım satıcılarının (ISV) fiyatlandırmalarını görüntülemek veya aramak için nasıl kullanabileceğini öğrenin.
 author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: bd1f9d0a881021fc97bbf94eb190acb6e6e69f14
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960094"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126248510"
 ---
 # <a name="discover-offers-and-pricing-in-partner-center-commercial-marketplace"></a>Ticari markette teklifleri İş Ortağı Merkezi fiyatlandırmayı keşfetme
 
@@ -22,13 +22,13 @@ ms.locfileid: "123960094"
 
 Bağımsız Yazılım Satıcıları (ISV' ler) ticari markette bir teklif yayımlamayı seçtiklerinde, teklifin CSP programında kullanılabilir olup olmayacaklarına da karar verir. Teklifi CSP programı aracılığıyla satmayı seçerse CSP iş ortakları teklifi Market alanında İş Ortağı Merkezi görmektedir.
 
-IsV teklifi, daha önce beklediğiniz gibi görünmüyorsa İş Ortağı Merkezi olabilir:
+IsV teklifi, aşağıdakiler için İş Ortağı Merkezi olabilir:
 
-- ISV, teklifi CSP programı aracılığıyla satmama kararı aldı. Örneğin, bazı ISV ürünleri ticari marketin diğer alanlarında [(Microsoft AppSource](https://appsource.microsoft.com/) ve [Azure Market](https://azuremarketplace.microsoft.com/)gibi) kullanılabilir durumda yapılmış olabilir, ancak İş Ortağı Merkezi markette CSP programı iş ortakları için görüne görünebilir.
+- ISV, teklifi CSP programı aracılığıyla satmama kararı aldı. Örneğin, bazı ISV ürünleri ticari marketin diğer alanlarında [(Microsoft AppSource](https://appsource.microsoft.com/) ve [Azure Market](https://azuremarketplace.microsoft.com/)gibi) kullanılabilir durumda yapılmış olabilir, ancak İş Ortağı Merkezi markette CSP programında iş ortakları için görüne görünebilir.
 
-- ISV, teklifi yalnızca belirli sayıda CSP iş ortağına özel hale etmeye karar verdi. Özel teklifler hakkında daha fazla bilgi için bu yardım konusunun sonraki konu başlığına bakın.
+- ISV, teklifi yalnızca belirli bir CSP iş ortağı sayısına özel hale etmeye karar verdi. Özel teklifler hakkında daha fazla bilgi için bu yardım konusunun sonraki konu başlığına bakın.
 
-- Teklif türü, kapsayıcılar veya İş Ortağı Merkezi Azure portal (örneğin, kapsayıcılar veya bazı kullanım tabanlı teklifler) aracılığıyla işlem gerçekleştirilebilir olabilir.
+- Teklif türü, kapsayıcılar veya İş Ortağı Merkezi Azure portal (örneğin kapsayıcılar veya bazı kullanım tabanlı teklifler) aracılığıyla işlem gerçekleştirilebilir olabilir.
 
 - bu ISV teklifi için ilişkili müşterinizin fatura ülkesi desteklenmiyor olabilir.
 
@@ -36,11 +36,11 @@ IsV teklifi, daha önce beklediğiniz gibi görünmüyorsa İş Ortağı Merkezi
 
 CSP programında kullanılabilir ticari market tekliflerini görüntülemek için:
 
-1. Panoda İş Ortağı Merkezi [açın](https://partner.microsoft.com/dashboard)ve ardından sol gezinti **menüsünden CSP'yi** seçin.
+1. Panoda İş Ortağı Merkezi [açın](https://partner.microsoft.com/dashboard)ve ardından sol **gezinti menüsünden CSP'yi** seçin.
 
 2. **Satış'ı** ve ardından Market'i **seçin.** Varsayılan olarak, tüm türlerin ve kategorilerin ürünlerini görüntülersiniz.
 
-3. Türe veya kategoriye göre bir filtre seçin. Arama'da belirli **anahtar** sözcükleri, teklif adlarını veya ISV yayımcılarının adlarını bulabilirsiniz.
+3. Türe veya kategoriye göre bir filtre seçin. Arama'ya kullanarak **belirli** anahtar sözcükleri, teklif adlarını veya ISV yayımcılarının adlarını bulabilirsiniz.
 
 4. Listeden belirli bir ürün teklifi seçin. Bu sizi teklif hakkında daha fazla bilgi edinmek için bir ürüne Genel Bakış sekmesine alır. Bu sekmede yer alan bilgiler şunlar olabilir: 
 
@@ -68,11 +68,11 @@ CSP programı iş ortakları uygun tekliflerin listesini almak için API'leri de
 
 Teklifle ilişkili en son fiyatlandırma ayrıntıları için şu adımları izleyin:
 
-1. Panoda İş Ortağı Merkezi [açın](https://partner.microsoft.com/dashboard)ve ardından sol gezinti **menüsünden CSP'yi** seçin.
+1. Panoda İş Ortağı Merkezi [açın](https://partner.microsoft.com/dashboard)ve ardından sol **gezinti menüsünden CSP'yi** seçin.
 
 2. **Satış'ı** ve ardından Fiyatlandırma **ve teklifler'i seçin.**
 
-3. Sayfayı aşağı kaydırarak **Market bölümüne** gidin, bir konum seçin ve Market **fiyatlandırması'ı indirin.** Bu, ISV yayımcılarının sunduğu SaaS, lisans tabanlı teklifler ve tarifeli teklifler için en son fiyatlandırma verilerini içeren bir elektronik tablo oluşturulur. Bazı Azure uygulama fiyatlandırması da burada görünebilir. Bu bilgiler günlük olarak güncelleştirilir, bu nedenle seçtiğiniz sıklıkta geçerli fiyatları kontrol edin.
+3. Sayfayı aşağı kaydırarak **Market** bölümüne gidin, bir konum seçin ve Market **fiyatlandırması'ı indirin.** Bu, ISV yayımcılarının sunduğu SaaS, lisans tabanlı teklifler ve tarifeli teklifler için en son fiyatlandırma verilerini içeren bir elektronik tablo oluşturulur. Bazı Azure uygulama fiyatlandırması da burada görünebilir. Bu bilgiler günlük olarak güncelleştirilir, bu nedenle seçtiğiniz sıklıkta geçerli fiyatları kontrol edin.
 
 4. IsV ürünü ücretsiz deneme süresine sahipse elektronik tabloda bu ürün için iki satır görüntülenir:
 
@@ -84,9 +84,9 @@ CSP programı iş ortağı olarak, belirli ticari market teklifleriyle ilişkili
 
 ## <a name="learn-about-marketplace-exclusive-offers"></a>Markete özel teklifler hakkında bilgi alın
 
-ISV'ler tekliflerini yalnızca CSP programında belirli iş ortakları tarafından kullanılabilir yapma seçeneğine sahip olabilir. Bu, Özel teklif olarak bilinir. CSP programıyla tüm iş ortakları, Özel olarak işaretlenen teklifler de dahil İş Ortağı Merkezi ticari markette tüm ISV tekliflerini görüntülemeye devam ediyor.
+ISV'ler tekliflerini yalnızca CSP programında belirli iş ortakları tarafından kullanılabilir yapma seçeneğine sahip olabilir. Bu, Özel teklif olarak bilinir. CSP programıyla ilgili tüm iş ortakları, Özel olarak işaretlenen teklifler de dahil olmak İş Ortağı Merkezi ticari markette tüm ISV tekliflerini görüntülemeye devam ediyor.
 
-Bir teklif Özel **olarak** işaretlenmemişse, tüm iş ortakları bu teklifi satın alır (seçilen müşterinin fatura ülkesi ISV'nin teklifinin ülke kullanılabilirliğiyle eş olduğu varsayıldı).
+Bir teklif Özel **olarak** işaretlenmemişse, tüm iş ortakları bu teklifi satın alır (seçilen müşterinin fatura ülkesi ISV'nin teklifinin ülke kullanılabilirliğiyle eşlemektedir).
 
 Ancak Özel olarak işaretlenen tüm tekliflere yalnızca ISV tarafından seçilen iş ortakları bu teklifi satın alma seçeneğine sahip olur.
 

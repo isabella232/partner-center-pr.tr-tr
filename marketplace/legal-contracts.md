@@ -1,5 +1,5 @@
 ---
-title: Azure Market'daki yasal anlaşmalar
+title: Azure Market'da yasal sözleşmeler
 description: Azure Market'daki yasal anlaşmalar hakkında bilgi Azure Market.
 ms.service: marketplace-customer
 ms.topic: article
@@ -7,11 +7,11 @@ author: Guyshu
 ms.author: gushuchm
 ms.date: 11/20/2020
 ms.openlocfilehash: 728b2119b6b9a80146fbe3313d7fd79c77c5dcc8
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123936934"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126248433"
 ---
 # <a name="legal-contracts"></a>Yasal sözleşmeler
 
@@ -31,13 +31,13 @@ Yasal sözleşmelere erişmek için ürün **sayfasındaki** Yasal Anlaşma bağ
 
 ## <a name="consenting-to-terms-and-conditions"></a>Hüküm ve koşulları kabul etmek
 
-Üçüncü taraf bir görüntü veya hizmetle kaynak oluştururken müşterilerden yasal hüküm ve koşulları kabulleri istenir. Aşağıdaki örneklerde, bu anlaşmaların nasıl görüne görüne göstere göstere göstere göstere.
+Üçüncü taraf bir görüntü veya hizmetle kaynak oluştururken müşterilerden yasal hüküm ve koşulları kabulleri istenir. Aşağıdaki örneklerde, bu anlaşmaların nasıl görüne göster göstere göstere göstere.
 
 ### <a name="saas-example-terms"></a>SaaS örnek terimleri
 
 SaaS teklifine abone olurken yasal koşulları kabul Azure Market.
 
-:::image type="content" source="media/legal-contracts/sample-offer-screen.png" alt-text="Örnek Hüküm ve Koşullar sayfasını gösterir.":::
+:::image type="content" source="media/legal-contracts/sample-offer-screen.png" alt-text="Örnek hüküm ve koşullar sayfasını gösterir.":::
 
 ### <a name="virtual-machine-example-terms"></a>Sanal makine örnek terimleri
 

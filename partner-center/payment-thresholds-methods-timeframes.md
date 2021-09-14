@@ -1,33 +1,33 @@
 ---
-title: Bölgeye göre ödeme ayrıntıları - Microsoft ticari market
-description: Ödeme zaman çerçeveleri ve ödeme alabiliyorsanız Microsoft çevrimiçi mağazaları hakkında bilgi alın. Bunlar ülkenize, bölgenize ve ödeme hesabı türüne göre farklılık gösterebilir.
+title: Bölgeye göre ödeme ayrıntıları-Microsoft ticari Market
+description: Ödeme zaman kareleri ve Microsoft çevrimiçi mağazalarıyla ilgili olarak ödemeleri nereden alabileceğinizi öğrenin. Bunlar ülkeniz, bölgeniz ve ödeme hesabı türüne göre farklılık gösterebilir.
 author: eunjkim520
 ms.author: eunjkim
-ms.service: marketplace
-ms.subservice: partnercenter-marketplace-publisher
+ms.service: partner-dashboard
+ms.subservice: partnercenter-payouts
 ms.topic: conceptual
 ms.date: 02/02/2021
-ms.openlocfilehash: 51b2ca2ce98789b41014597efd695fc61e7cbada
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.openlocfilehash: e0b9479e8d595a90205d789e447e426ea159ffff
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960484"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126248682"
 ---
 # <a name="payment-thresholds-methods-and-time-frames"></a>Ödeme eşikleri, yöntemleri ve zaman çerçeveleri
 
-Ödemeleri aktarma tahmini süresi ve ödemeleri gönderebilirsiniz çevrimiçi mağazalar, ülkenize/bölgenize ve ödeme hesabı türüne bağlı olarak değişebilir. Bu makalede, her ülkede ve bölgede desteklenen ödeme yöntemleri özetlemektedir.
+Ödemelerin aktarılacağı tahmini süre ve ödemeleri alacağınız çevrimiçi mağazalar, ülke/bölge ve ödeme hesap türüne bağlı olarak değişebilir. Bu makalede, her ülkede ve bölgede desteklenen ödeme yöntemleri özetlenmektedir.
 
-Herhangi bir ülke ve bölge için ACH/SEPA veya havale kullanarak ödeme biz öderiz. Bazı ülkeler ve bölgeler de PayPal yöntemi olarak desteklemektedir.
+Belirli bir ülke ve bölge için ACH/SEPA veya tel aktarım kullanarak ödeme yaptık. bazı ülkeler ve bölgeler, ödeme yöntemi olarak PayPal da destekler.
 
 > [!NOTE]
-> Bir işlem gerçekleştikten sonra Microsoft'un ticari market için ödemelerde ne zaman sorun olduğu hakkında daha fazla bilgi için bkz. [Ödeme ilkesi ayrıntıları.](payout-policy-details.md)
+> Bir işlem gerçekleştirildikten sonra Microsoft 'un ticari Market 'e ne zaman ödeme verdiği hakkında daha fazla bilgi için, bkz. [ödeme ilkesi ayrıntıları](payout-policy-details.md).
 
-## <a name="number-of-days-for-payments-to-reach-payout-account"></a>Ödeme hesabına ulaşacak ödemelerin gün sayısı
+## <a name="number-of-days-for-payments-to-reach-payout-account"></a>Ödemelerin ödeme hesabına ulaşması için geçen gün sayısı
 
-Genellikle, ilgili ayın 15. günü kadar, verilen bir ay içinde ödenmesini gerektirecek tüm ödemeleri göndeririz. Ancak ödemenin hesabınıza ulaşması ek zaman alır. Gün sayısı, aşağıda açıklandığı gibi hesabınız için kullanılan ödeme yöntemine bağlı olarak değişir.
+Genellikle belirli bir ayda, söz konusu ayın 15. gününe kadar ödenmesi gereken tüm ödemeleri göndereceğiz. Ancak, ödemenin hesabınıza ulaşması ek bir zaman alır. Gün sayısı, aşağıda açıklandığı gibi, hesabınız için kullandığımız ödeme yöntemine göre farklılık gösterir.
 
-| Ödeme yöntemi | Hesaba ulaşmak için yaklaşık gün sayısı |
+| Ödeme yöntemi | Hesaba ulaşmak için yaklaşık gün |
 | --- | --- |
 | PayPal | 1 iş günü |
 | ACH/SEPA | 2-3 iş günü |
@@ -35,14 +35,14 @@ Genellikle, ilgili ayın 15. günü kadar, verilen bir ay içinde ödenmesini ge
 | | |
 
 >[!NOTE]
->Döviz kurlarında yaşanan değişiklikler nedeniyle, tam satış tutarı bir para biriminden diğerine biraz farklılık gösterebilir. Exchange fiyatları aylık olarak hesaplanır. İşlemnizin ne zaman gerçekleştiklerine bağlı olarak, uygun döviz kuru uygulanır. Döviz kuru ve zorlamakta olduğu tarih oranı, sırasıyla exchangeRate ve exchangeRateDate sütunlarında ödeme raporunuz üzerinde belirtilmiştir.
+>Yabancı döviz kurlarındaki değişiklikler nedeniyle, tam satış miktarı bir para biriminden diğerine biraz farklılık gösterebilir. Exchange oranlar aylık olarak hesaplanır. İşlem gerçekleşirken, uygun döviz kuru uygulanır. Döviz Kuru ve bu BT 'nin zorda olduğu tarih oranı, exchangeRate ve exchangeRateDate sütunlarında bulunan ödeme raporunuzda belirtilir.
 
 
 ## <a name="payment-methods-in-countries-and-regions"></a>Ülkelerde ve bölgelerde ödeme yöntemleri
 
-Bunlar, her market için yukarıdaki ödeme yöntemlerinin kullanılan ülkeler ve bölgelerdir. Tüm durumlarda ödeme eşiği 50 ABD dolarıdır.
+Bunlar, yukarıdaki ödeme yöntemlerinin her Market için kullanıldığı ülke ve bölgelerdir. Her durumda ödeme eşiği $50 ABD doları olur.
 
-| Ülke/Bölge | Azure Market | Mağaza, Reklam, Mixer ve Minecraft | Office | PayPal Ödeme  |
+| Ülke/Bölge | Azure Market | mağaza, reklam, Mixer ve Minecraft | Office | PayPal Toplamları  |
 | --- | --- | --- | --- | --- |
 | Afganistan | Yes | Yes | Hayır | Hayır |
 | Arnavutluk | Yes | Yes | Yes | Yes |

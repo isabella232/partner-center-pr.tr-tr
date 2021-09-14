@@ -10,11 +10,11 @@ ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 620490dfdd63b40957421e6df6432d480584658a
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123961224"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126248535"
 ---
 # <a name="find-your-solution-assessments-opportunity-status-on-chip"></a>CHIP üzerinde Çözüm Değerlendirmeleri Fırsat Durumu'larınızı bulma
 
@@ -42,9 +42,9 @@ Anlaşmanız uygun Satış Aşamasına ulaşmış ve Çözüm Değerlendirme Uzm
  
      - CHIP'i açın ve Microsoft Hesabınızla (önceki Canlı Kimlik) oturum açın.
  
-     - Çözüm **Değerlendirmeleri Teşvikleri'ne seçin.**
+     - Çözüm **Değerlendirmeleri Teşvikleri'ne bakın.**
 
-     - altında...  bölümünde Anlaşmaları **Ara'ya tıklayın.**
+     - altında...  bölümünde Arama **Anlaşmaları'nın üzerine tıklayın.**
 
      - Fırsat kutusuna Fırsat Kimliğinizi **yazın ve** Ara'ya **tıklayın.**
 
@@ -52,7 +52,7 @@ Anlaşmanız uygun Satış Aşamasına ulaşmış ve Çözüm Değerlendirme Uzm
   
      - Yeni POE menüsünde gerekli POE belgesine göz atarak belgeyi seçin.
 
-     - Belgeyi Upload'ye tıklayın.
+     - Belgeyi Upload tıklayın.
 
      - Tüm gerekli belgeleri karşıya yüklemek için bu işlemi gereken kadar tekrarlayın.
 

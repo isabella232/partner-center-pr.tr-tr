@@ -1,37 +1,37 @@
 ---
-title: Aktarım uygunluğu – Bir aboneliği faturalama hesapları arasında aktarma yönergeleri, Azure Market
-description: Bir aboneliği fatura hesabı arasında aktarmadan önce ticari denetimlere yönelik yönergeler Azure portal.
+title: Aktarım uygunluğu – bir aboneliği faturalandırma hesapları, Azure Marketi arasında aktarmaya yönelik yönergeler
+description: Azure portal faturalandırma hesapları arasında abonelik aktarmadan önce ticari denetimleri için yönergeler.
 ms.service: marketplace-customer
 ms.topic: conceptual
 author: Guyshu
 ms.author: gushuchm
 ms.date: 11/20/2020
 ms.openlocfilehash: 4b235bd462915fc205813ae86e92f98b4fd49fe4
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123936975"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126248625"
 ---
-# <a name="transfer-eligibility-for-a-subscription-between-billing-accounts"></a>Faturalama hesapları arasında abonelik için uygunluğu aktarma
+# <a name="transfer-eligibility-for-a-subscription-between-billing-accounts"></a>Faturalama hesapları arasında bir abonelik için aktarım uygunluğu
 
-Aboneliği [bir ödeme hesabından](/azure/cost-management-billing/understand/subscription-transfer) diğerine, aboneliğin faturalama bölümünde Azure portal. Aktarımdan önce abonelikte üçüncü taraf ürünler taranır. Aktarıma yalnızca tüm ürünler *aktarım için* temizlenmiştir (aşağıdaki ölçütlere bakın) [izin](#criteria-for-transfer-approval-or-denial) verilir. Sistem, sonraki adımları belirlemenize yardımcı olmak için temizlenemedi uygulamalar için ilgili hata iletileri oluşturacak.
+Azure portal Faturalandırma bölümünde bir faturalandırma hesabından diğerine [abonelik aktarabilirsiniz](/azure/cost-management-billing/understand/subscription-transfer) . Bir aktarımdan önce abonelik, üçüncü taraf ürünleri için taranır. Aktarıma yalnızca *Tüm* ürünler aktarım için silinirse izin verilir (aşağıdaki [ölçütlere](#criteria-for-transfer-approval-or-denial) bakın). Sistem, sonraki adımları belirlemenize yardımcı olmak için temizlendirilemez uygulamalar için ilgili hata iletileri oluşturur.
 
 > [!NOTE]
-> SaaS kaynakları aboneliğe değil kiracıya ekli olduğundan bu makale SaaS teklifleri için geçerli değildir. SaaS kaynakları bir ödeme hesabından diğerine aktarılabilir, ancak bu, kaynak başına ve Azure desteği isteği olarak yapılır.
+> SaaS kaynakları bir aboneliğe değil bir kiracıya eklendiğinden, bu makale SaaS teklifleri için geçerlidir. SaaS kaynakları bir faturalandırma hesabından diğerine aktarılabilir, ancak bu, kaynak başına ve destek talebi olarak Azure desteği tarafından yapılır.
 
-## <a name="criteria-for-transfer-approval-or-denial"></a>Onay veya reddetme aktarımı ölçütleri
+## <a name="criteria-for-transfer-approval-or-denial"></a>Aktarım onayı veya reddetme ölçütü
 
-Üçüncü taraf uygulamalardan herhangi biri aşağıdaki ölçütlerden herhangi birini karşılarsa aboneliği aktaramazsınız:
+Üçüncü taraf uygulamalarından herhangi biri aşağıdaki ölçütlerden herhangi birini karşılıyorsa aboneliği aktaramazsınız:
 
-- Hedef hesap ticaridir ve uygulama iş ortakları aracılığıyla satılmayı kabul etmektir.
-- Uygulama seçili iş ortaklarını kabul ediyor ve hedef hesap izin verme listesinde değil.
-- Teklif, geçmişte seçili abonelikler için bir önizleme teklifi veya özel bir teklifdi ve abonelik artık izin verme listesinde yer almadı.
-- Yeni ödeme hesabı, teklifin satıldığı bölgeden farklı bir bölgededir VE teklif bu bölgede satılmamaktadır.
+- Hedef hesap ticari ve uygulama iş ortakları aracılığıyla satılacak şekilde kabul edilir.
+- Uygulama, seçilen iş ortakları için kabul ediyor ve hedef hesap izin verilenler listesinde değil.
+- Teklif, geçmişte seçili abonelikler için bir önizleme teklifiydi veya özel bir teklifdi ve abonelik artık izin verilenler listesinde değil.
+- Yeni faturalandırma hesabı, teklifin satışında farklı olan ve teklifin bu bölgede satılmama yeri dışında bir bölgedir.
 
-Siz kaynağı abonelikten kaldırana kadar engellenen aktarım devam ediyor ve ardından aktarımı yeniden denemeniz gerekiyor.
+Engellenen bir aktarım, kaynağı abonelikten kaldırana kadar etkin kalır, sonra aktarmayı yeniden deneyebilirsiniz.
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-[Microsoft AppSource ve Azure Market](get-support.md)
+[Microsoft AppSource ve Azure Marketi için destek alın](get-support.md)
 

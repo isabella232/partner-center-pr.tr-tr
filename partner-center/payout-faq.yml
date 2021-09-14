@@ -1,19 +1,19 @@
 ### YamlMime:FAQ
 metadata:
   title: Ödeme ve vergi profilleri hakkında SSS
-  description: Ödeme ve vergi ayrıntılarıyla ilgili sık sorulan soruların yanıtlarını İş Ortağı Merkezi. Kazançlarınızı neden beklenenden farklı olduğuyla ilgili yanıtlar içerir.
-  ms.service: marketplace
-  ms.subservice: partnercenter-marketplace-publisher
+  description: Ödeme ve vergi ayrıntılarıyla ilgili sık sorulan soruların yanıtlarını İş Ortağı Merkezi. Kazançlarınız neden beklenenden farklı olduğuyla ilgili yanıtlar içerir.
+  ms.service: partner-dashboard
+  ms.subservice: partnercenter-payouts
   ms.topic: article
   author: eunjkim520
   ms.author: eunjkim
   ms.date: 05/06/2021
-  ms.openlocfilehash: 350c726467c3ba4342159a56b8ccfe77610c6b63
-  ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+  ms.openlocfilehash: a402387b5e99cfb5f1b0ed7ca1c2af9f63b94b99
+  ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
   ms.translationtype: MT
   ms.contentlocale: tr-TR
-  ms.lasthandoff: 09/09/2021
-  ms.locfileid: "123960455"
+  ms.lasthandoff: 09/13/2021
+  ms.locfileid: "126248680"
 title: Ödeme ve vergiler hakkında sık sorulan sorular
 summary: >
   **Uygun roller:** Hesap yöneticisi | Genel yönetici | Teşvikler yöneticisi
@@ -31,7 +31,7 @@ sections:
 
       Program kurallarınız değişirse veya profilinizin yönlerinin süresi dolsa veya süresi dolduğunda da bilgileri güncelleştirmeniz gerekir. Bu durumda Genel Bakış sayfanız Eylem gerekiyor – Bankayı **ve/veya vergi profilini güncelleştir durumunu gösterir.**
   - question: >
-      Nasıl yaparım? ödeme ve vergi ayrıntılarını bulma, ayarlama veya güncelleştirme
+      Nasıl yaparım? ve vergi ayrıntılarını bulma, ayarlama veya güncelleştirme
     answer: >
       Ödeme ve vergi ayrıntılarını güncelleştirme hakkında ayrıntılı bilgi için İş Ortağı Merkezi bkz. Ödeme [hesabı ve vergi formlarınızı ayarlama.](set-up-your-payout-account.md)
   - question: >
@@ -45,7 +45,7 @@ sections:
   - question: >
       Kuruluşum birden çok programa katıyor. Ödeme ve vergi profilimi birden çok kez sağlamam gerekiyor mu?
     answer: >
-      Bu, kuruluşun ihtiyaçlarına bağlıdır. Ödeme profilleri kuruluş düzeyinde oluşturulur ve bu sayede bir kuruluş içindeki birden çok MPN kimliği ve programı arasında aynı banka profilinin atanabilir. Çoğu durumda, mevcut bir profili yeniden kullanabilir veya yeni bir profil oluşturabilirsiniz.
+      Bu, kuruluş ihtiyaçlarına bağlıdır. Ödeme profilleri kuruluş düzeyinde oluşturulur ve bu sayede bir kuruluş içindeki birden çok MPN kimliği ve programı arasında aynı banka profilinin atanabilir. Çoğu durumda, mevcut bir profili yeniden kullanabilir veya yeni bir profil oluşturabilirsiniz.
 
 
       Öte yandan özel durumlar olabilir çünkü banka profilinizi farklı ülkelere veya bölgelere uygularken yerel banka ve vergi kuralları geçerli olur.
@@ -61,12 +61,12 @@ sections:
     answer: >
       Bu bilgileri düzenleme izinlerine sahip olan teşvik yöneticisi rolünün yalnızca uygun çalışanlara verilmesi şirketin sorumluluğundadır.
   - question: >
-      Vergi profilimin süresi doldu. Nasıl yaparım? mi düzeltebilirim?
+      Vergi profilimin süresi doldu. Nasıl yaparım? düzeltmeniz gerekiyor mu?
     answer: >
       Bir vergi profilinin süresi dolduğunda veya dolmak üzere ise, Microsoft'a sağladığın vergi formunun güncelleştirilmiş olması gerekir. Vergi profilinizi güncelleştirmek için aşağıdaki adımları kullanın:
 
 
-      1. Panoda İş Ortağı Merkezi [açın](https://partner.microsoft.com/dashboard/home)ve ardından dişli simgesini seçerek Ayarlar **açın.**
+      1. İş Ortağı Merkezi [panosunda oturum](https://partner.microsoft.com/dashboard/home)açın ve ardından dişli simgesini seçerek **Ayarlar** açın.
 
       2. Hesap **ayarları'ı** seçin, **Ödeme ve vergi bölümünü** genişletin ve sonra Ödeme ve vergi **profili'ne** tıklayın.
 
@@ -89,7 +89,7 @@ sections:
       - Ödeme [döngüsünün zaman çerçevesini kontrol edin](payment-thresholds-methods-timeframes.md) ve kazançların ödeme deyiminde ne zaman görünmesi gerektiğini an edin.
   - question: >
       Kazanç miktarım neden beklenenden farklı?
-    answer: "- Sipariş müşteriniz tarafından kısmen ödenmişse, kazanç tutarınız ücreti ve uygun vergiyi düşdükten sonra kısmen ödenen tutarı temel aacaktır.\n- Ülkeye göre vergi ödeme sorumluluğunu denetleme. Verginin Microsoft'tan sorumlu olduğu ülkelerde Microsoft, yayımcı kazançlarından vergi toplar ve bu vergiyi düşebilir. Hesap özetinde gösterilen işlem tutarı, vergi sonrası tutardır. [Vergi ayrıntıları](tax-details-marketplace.md) konusuna bakın.\n- Tekliflerin mağaza hizmeti ücreti %3'tedir ve kazanç oranı %97'dir. \n\n**Daha fazla** okuma: [Ticari Market Publisher Sözleşmesi,](/legal/marketplace/msft-publisher-agreement)Ödeme ilkesi [ayrıntıları,](payout-policy-details.md)Ödeme eşiği, yöntem [ve zaman çerçevesi,](payment-thresholds-methods-timeframes.md)Ödeme alma, Vergi [ayrıntıları,](tax-details-marketplace.md) [Ödeme deyimleri](payout-statement.md) [](marketplace-get-paid.md)\n"
+    answer: "- Sipariş müşteriniz tarafından kısmen ödenmişse kazanç tutarınız, ücreti ve uygun vergiyi düşdükten sonra kısmen ödenen tutarı temel aacaktır.\n- Ülkeye göre vergi ödeme sorumluluğunu denetleme. Verginin Microsoft'tan sorumlu olduğu ülkelerde Microsoft, yayımcı kazançlarından vergi toplar ve bu vergiyi düşebilir. Hesap özetinde gösterilen işlem tutarı, vergi sonrası tutardır. [Vergi ayrıntıları](tax-details-marketplace.md) konusuna bakın.\n- Tekliflerin mağaza hizmeti ücreti %3'tedir ve kazanç oranı %97'dir. \n\n**Daha fazla** okuma: [Ticari Market Publisher Sözleşmesi,](/legal/marketplace/msft-publisher-agreement)Ödeme ilkesi [ayrıntıları,](payout-policy-details.md)Ödeme eşiği, yöntem ve [zaman çerçevesi,](payment-thresholds-methods-timeframes.md)Ödeme alma, Vergi [ayrıntıları,](tax-details-marketplace.md) [Ödeme deyimleri](payout-statement.md) [](marketplace-get-paid.md)\n"
 - name: Kazanç mutabakatı
   questions:
   - question: >
@@ -123,9 +123,9 @@ sections:
 
       - Ödeme için en düşük eşiğe ulaşamamış olabilirsiniz. Ödeme almak için kazançların en az 50 ABD Doları olması gerekir.
   - question: >
-      Nasıl yaparım? ödeme alacak şekilde ayarlay musunuz?
+      Nasıl yaparım? ödeme almıy olarak ayarlay musunuz?
     answer: >
-      Ödemeleri Ödeme [Profili'ne göre tutabilirsiniz.](https://partner.microsoft.com/dashboard/commercial-marketplace/overview) Bunu yapmak için **Tut'u seçin.** Siz tutmayı serbest bırakana kadar Microsoft ödemenizi tutar.
+      Ödemeleri Ödeme [Profili'ne göre tutabilirsiniz.](https://partner.microsoft.com/dashboard/commercial-marketplace/overview) Bunu yapmak için **Tut'u seçin;** siz tutmayı serbest bırakana kadar Microsoft ödemenizi tutar.
   - question: >
       Neden satın alma para biriminden farklı bir para biriminde ödeme alıyorum?
     answer: >
@@ -133,10 +133,10 @@ sections:
   - question: >
       Düzeltmeleri nasıl mutabık kılabilirim?
     answer: >
-      Ödeme düzeltmeleri, sistem sorunları gibi telafi ayarlamalarını yapmaya yönelik düzeltmelerdir. Ödeme deyiminde ReasonCode düzeltmenin nedenini belirtir. Bunlar, tek tek işlemlerle doğrudan uzlaştırmaya hedefli değil.
+      Ödeme düzeltmeleri, sistem sorunları gibi telafi ayarlamalarını yapmaya yönelik düzeltmelerdir. Ödeme deyiminde ReasonCode düzeltmenin nedenini belirtir. Bunlar, tek tek işlemlerle doğrudan mu mutabakata varmak için değil.
 
 
-      **Daha fazla** bilgi: [Ticari Market Publisher Sözleşmesi,](/legal/marketplace/msft-publisher-agreement)Ödeme ilkesi [ayrıntıları,](payout-policy-details.md) [Vergi ayrıntıları,](tax-details-marketplace.md) [Ödeme eşiği, yöntem ve zaman çerçevesi](payment-thresholds-methods-timeframes.md)
+      **Daha fazla bilgi:** [Ticari Market Publisher Sözleşmesi,](/legal/marketplace/msft-publisher-agreement) [Ödeme ilkesi ayrıntıları,](payout-policy-details.md) [Vergi ayrıntıları,](tax-details-marketplace.md) [Ödeme eşiği, yöntem ve zaman dilimi](payment-thresholds-methods-timeframes.md)
 - name: Vergiler
   questions:
   - question: >
@@ -185,7 +185,7 @@ sections:
     answer: >
       **Ödeme** sayfasına ve sonra da **Ödeme Listesi** bölümüne gidin. Hizmet Ücreti Vergisi olan ödeme için Hizmet Ücreti vergi formunun bağlantısı görüntülenir.
   - question: >
-      Nasıl yaparım? vergi formunu PDF'de mi indirebilirsiniz?
+      Nasıl yaparım? vergi stopaj formunu PDF'de mi indirebilirsiniz?
     answer: >
       **Ödeme** sayfasına ve sonra da **Ödeme Listesi** bölümüne gidin. Ödemenin yanında stopaj vergisi formunun bağlantısı görüntülenir. Stopaj vergisi formu, ticari market ödemesi için değil yalnızca seçili teşvik programlarına uygulanır.
   - question: >
@@ -198,7 +198,7 @@ sections:
 - name: Geçmiş deyimleri
   questions:
   - question: >
-      Nasıl yaparım? bilgileri görüntüleyebilirsiniz?
+      Nasıl yaparım? bilgileri nasıl görüntülebilirsiniz?
     answer: >
       Geçmiş hesap özetinde Ekim 2019 itibarıyla ödeme verilerinin anlık görüntüsü gösterilir. Ne yazık ki buradaki ödeme bilgileri yenilenmez. En son bilgileri almak için en son veriler için bir destek bileti gönderin.
 
@@ -213,7 +213,7 @@ sections:
 - name: Ticari market ödeme ilkeleri
   questions:
   - question: >
-      Nasıl yaparım? Mağaza Hizmeti Ücreti ve ödeme oranını nasıl bulabilirsiniz?
+      Nasıl yaparım? Mağaza Hizmeti Ücretini ve ödeme oranını bulamıyor musunuz?
     answer: >
       - Mağaza Hizmet Ücreti %3'tir.
 

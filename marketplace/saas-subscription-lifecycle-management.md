@@ -1,6 +1,6 @@
 ---
-title: Hizmet olarak yazılım (SaaS) abonelik yaşam döngüsü yönetimi
-description: Azure Marketi 'nde hizmet olarak yazılım (SaaS) abonelik yaşam döngüsü yönetimi.
+title: Hizmet Olarak Yazılım (SaaS) aboneliği yaşam döngüsü yönetimi
+description: Hizmet Olarak Yazılım (SaaS) aboneliği yaşam döngüsü yönetimi Azure Market.
 ms.service: marketplace
 ms.subservice: partnercenter-marketplace-publisher
 ms.topic: conceptual
@@ -8,122 +8,122 @@ ms.date: 08/20/2021
 ms.author: yonits
 author: yonits
 ms.openlocfilehash: fed2b2f7b951a7dc6ee16fb126f3f5f774df18c9
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123936990"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126248629"
 ---
-# <a name="saas-subscription-lifecycle-management"></a>SaaS Abonelik yaşam döngüsü yönetimi
+# <a name="saas-subscription-lifecycle-management"></a>SaaS aboneliği yaşam döngüsü yönetimi
 
-Bu makalede, SaaS kaynağını bulma, SaaS ve SaaS klasik arasındaki farklar ve Azure portal SaaS kaynak yönetimi konuları ele alınmaktadır.
+Bu makalede SaaS kaynağını bulma, SaaS ile SaaS Klasik arasındaki farklar ve hizmet hizmetlerinde SaaS kaynak yönetimi Azure portal.
 
 ## <a name="find-a-saas-resource"></a>SaaS kaynağı bulma
 
-Azure Marketi 'nden bir SaaS teklifi satın aldığınızda, Azure portal bir hizmet olarak yazılım (SaaS) aboneliği oluşturur (Ayrıntılar için bkz. [Azure Portal bir SaaS teklifi satın alma](purchase-saas-offer-in-azure-portal.md)). Portalda bir SaaS kaynağı bulmak için:
+Azure Market'dan bir SaaS teklifi satın aldığınız zaman, Azure portal'de hizmet olarak yazılım (SaaS) aboneliği oluşturur (ayrıntılar için [bkz.](purchase-saas-offer-in-azure-portal.md)Azure portal). Portalda bir SaaS kaynağı bulmak için:
 
-- **Genel arama penceresi** (üst) – SaaS aboneliğinizi adına göre arayın.
-- **SaaS** : tüm SaaS aboneliklerinizi listeler. İki tür SaaS listesi vardır; aşağıdaki bölüme bakın.
-- **Abonelikler** – kiracınızın bir parçası olarak erişiminiz olan tüm Azure aboneliklerini listeler. Belirli bir aboneliği bulmak için filtre veya arama penceresini kullanın.
-- **Tüm kaynaklar** – erişiminiz olan tüm abonelikler altında oluşturulan tüm kaynakları listeler. Belirli bir aboneliği bulmak için filtreyi kullanın (türü > SaaS) veya listede arama yapın.
+- **Genel Arama penceresi** (üst) – SaaS aboneliğinizi adıyla arama.
+- **SaaS:** Tüm SaaS aboneliklerinizi listeler. İki tür SaaS listesi vardır; aşağıdaki bölüme bakın.
+- **Abonelikler:** Kiracınız kapsamında erişiminiz olan tüm Azure aboneliklerini listeler. Belirli bir aboneliği bulmak için filtre veya arama penceresini kullanın.
+- **Tüm kaynaklar** – Erişiminiz olan tüm abonelikler altında oluşturulan tüm kaynakları listeler. Belirli bir aboneliği bulmak için filtresini kullanın (SaaS > yazın) veya listede arama.
 
-## <a name="differences-between-saas-and-saas-classic-lists-of-resources-in-the-azure-portal"></a>Azure portal SaaS ve SaaS klasik kaynak listeleri arasındaki farklar
+## <a name="differences-between-saas-and-saas-classic-lists-of-resources-in-the-azure-portal"></a>SaaS ile SaaS Klasik kaynak listeleri arasındaki farklar Azure portal
 
-Bu iki tür arasındaki fark, SaaS Classic 'in, kiracınızda oluşturulan ve bir kaynak grubu altında olmayan SaaS aboneliklerini bulmanıza olanak sağlar.
-2021 Şubat 'tan önce Azure portal bir SaaS aboneliği satın aldıysanız, kiracınızda oluşturulmuştur ve SaaS klasik altında bulabilirsiniz. Microsoft AppSource ' de yapılan tüm satın almalar bu listede yer alır.
+Bu iki tür arasındaki fark, SaaS Klasik'in bir kaynak grubu altında değil, kiracınız altında oluşturulan SaaS aboneliklerini bulmanızı sağlar.
+Şubat 2021'den önce Azure portal saas aboneliği satın aldıysanız, bu abonelik kiracınız altında oluşturulmuş ve SaaS Klasik altında bulabilirsiniz. Bu listede Microsoft AppSource satın almalar vardır.
 
-2021 Şubat 'tan önce Azure portal bir SaaS aboneliği satın aldıysanız ve bunu kiracının altındaki bir kaynak grubuna taşımak istiyorsanız (önerilir), **SaaS Classic** bölümünde SaaS aboneliğine gidin ve **kaynak grubuna Taşı**' yı seçin. Abonelikleri yalnızca **bekleyen** veya **etkin** durumda taşıyabilirsiniz. Bir kez taşındıktan sonra SaaS aboneliği, **SaaS klasik** değil **SaaS** görünümünde görüntülenir. Bir SaaS aboneliğini AppSource 'ta satın alınmış bir kaynak grubuna taşıyamazsınız.
+Azure portal'de Şubat 2021'den önce bir SaaS aboneliği satın aldıysanız ve bunu Kiracının altından bir Kaynak grubuna taşımak (önerilir), SaaS Klasik bölümündeki **SaaS** aboneliğine gidin ve Kaynak Grubuna Taşı'ya **tıklayın.** Abonelikleri yalnızca Beklemede veya **Etkin durumda** **taşıyabilirsiniz.** Taşındıktan sonra SaaS aboneliği artık **SaaS** Klasik görünümünde **değil, SaaS görünümünde görünür.** AppSource'ta satın alınan bir SaaS aboneliğini bir kaynak grubuna taşıyabilirsiniz.
 
 Bu taşıma aşağıdaki avantajları sunar:
 
-- Azure aboneliğindeki ve kaynak gruplarındaki (tam RBAC denetimi) devralınan ilke ve izinlerle SaaS kaynağınızın erişimi ve denetimi geliştirildi
-- SaaS yaşam döngüsü, aktarım ve silme işlemleri gibi eylemler için Azure aboneliğinin yaşam döngüsüne bağlıdır
-- Küresel arama kullanılarak SaaS kaynaklarıyla daha kolay bulunabilirliği
-- Azure maliyet yönetimi kullanımı – SaaS kaynaklarında harcama Izleme
-- Abonelik düzeyi kaynakların etkinlik günlüğünde kaynaklar olayları vardır
+- Azure aboneliğinden ve Kaynak gruplarından devralınan ilkeler ve izinlerle SaaS kaynağınıza erişim ve denetimi iyileştirildi (tam RBAC denetimi)
+- SaaS'nin yaşam döngüsü, aktarımlar ve silmeler gibi eylemler için Azure aboneliğinin yaşam döngüsüne bağlanır
+- SaaS kaynakları ile daha kolay bulunabilirlik, genel arama
+- Azure Maliyet Yönetimi kullanımı – SaaS kaynaklarına yapılan harcamaları izleme
+- Abonelik düzeyindeki kaynaklarda Etkinlik günlüğünde kaynak olayları var
 
 ## <a name="manage-your-saas-service"></a>SaaS hizmetinizi yönetme
 
 SaaS aboneliklerinizi yönetmenin birden çok yolu vardır
 
-* Azure portal satın alınan SaaS abonelikleri için bunları orada yönetin.
-* appsource 'ta satın alınan SaaS abonelikleri için, onları Azure portal ve [Microsoft 365 Yönetici merkezi](https://admin.microsoft.com/Adminportal/Home?#/subscriptions)' nde yönetin; Microsoft 365 Yönetici merkezini kullanma hakkında ayrıntılı bilgi için bkz. [kuruluşunuz için üçüncü taraf uygulama aboneliklerini yönetme](/microsoft-365/commerce/manage-saas-apps?view=o365-worldwide&preserve-view=true).
-* Bazı yayımcılar, SaaS aboneliklerini doğrudan platformlarından yönetmenizi sağlar. Azure portal SaaS aboneliği sayfasındaki bir bağlantıyı kullanarak yayımcının sitesini ziyaret edin.
+* Hizmette satın alınan SaaS abonelikleri Azure portal burada yönetin.
+* AppSource'ta satın alınan SaaS abonelikleri için bunları Azure portal ve [Microsoft 365 Yönetici Merkezi'nde yönetin;](https://admin.microsoft.com/Adminportal/Home?#/subscriptions) Microsoft 365 Yönetici Center'ı kullanma hakkında ayrıntılı bilgi için bkz. Üçüncü [taraf uygulama aboneliklerini yönetme.](/microsoft-365/commerce/manage-saas-apps?view=o365-worldwide&preserve-view=true)
+* Bazı yayımcılar SaaS aboneliklerini doğrudan platformlarında yönetmenizi sağlar. Uygulamanın SaaS aboneliği sayfasındaki bağlantıyı kullanarak yayımcının sitesini Azure portal.
 
-Satın alımınızın ardından gerçekleştirebileceğiniz birkaç eylem vardır; Bazıları, sahip veya katkıda bulunan izinleri gerektirecektir:
+Satın alımınız sonrasında gerçekleştir eylemler gerçekleştirin; Bazılarında Sahip veya Katkıda Bulunan izinleri gerekir:
 
 ### <a name="change-plans"></a>Değişiklik planları
 
-Abone olduğunuz bir plana yaptığınız değişiklikler hemen yürürlüğe girer. Faturalandırma, geçerli planın fatura dönemi uyarınca eşit olarak dağıtılır. Planların değiştirilmesi için **sahip** veya **katkıda bulunan** izinleri gerekir.
+Abone olduğunuz bir planda yaptığınız değişiklikler hemen etkili olur. Faturalama, geçerli planın faturalama dönemine göre provok olarak iki nizamlı olarak hazırlar. Planları değiştirmek için **Sahip veya Katkıda** Bulunan **izinleri** gerekir.
 
 > [!NOTE]
-> Seçtiğiniz değişiklikler kendi Hizmetleri içinde uygun değilse, yayımcı değişikliği onaylamayı reddedebilir. Bu durumda, değişiklik başarısız olur.
+> Yayımcı, kendi hizmetlerinde uygun olmayan değişiklikleri seçerse değişikliği onaylamayı reddedebilir. Bu durumda değişiklik başarısız olur.
 
-**Değişiklik planı** çalışmayabilir bazı durumlar vardır:
+Değişiklik planının **çalışmay olabileceği bazı** durumlar vardır:
 
-- Aboneliğiniz, **okuma** izinleriyle kiracı düzeyi altındaysa planı değiştiremezsiniz. Bu durumda, abonelik üzerinde **sahip** rolüne sahip olan kişiden izin isteyin.
-- Azure aboneliğiyle ilişkili bir ödeme aracı (PI) yoksa ücretsiz planınızı ücretli bir plana değiştiremezsiniz. Ancak, farklı bir Azure aboneliği seçip ücretli bir plan seçebilir veya seçili Azure aboneliğine bir PI ekleyebilirsiniz.
-- Seçtiğiniz planın geçerli kullanıcı sayısını içermeyen bir minimum/maksimum Kullanıcı sınırlaması varsa, satın aldığınız orijinal plana dahil olan ve aynı sayıda kullanıcı içeren farklı bir plan seçin veya yayımcıya başvurun.
-- Yayımcı isteği yerine getiremiyorsa, doğrudan bunlarla iletişim kurun.
+- Aboneliğiniz Okuma izinlerine sahip Kiracı **düzeyinde** ise planı değiştiremezsiniz. Bu durumda, abonelikte Sahip rolüne sahip **olan kişiden** izin isteğinde bulundurabilirsiniz.
+- Azure Aboneliği ile ilişkili ödeme aracı (PI) yoksa ücretsiz planınızı ücretli planla değiştiremezsiniz. Ancak, farklı bir Azure Aboneliği seçebilir ve ardından ücretli bir plan seçebilir veya seçili Azure Aboneliğine pi eklersiniz.
+- Seçtiğiniz planda geçerli kullanıcı sayısına dahil olmayan en düşük/en yüksek kullanıcı sınırlaması varsa, satın aldığınız özgün plana dahil edilen kullanıcı sayısına sahip farklı bir plan seçin veya yayımcıyla iletişime geçin.
+- Yayımcı isteği yerine getirene kadar doğrudan iletişim kurun.
 
 ### <a name="change-number-of-users"></a>Kullanıcı sayısını değiştirme
 
-Bilgisayar tabanlı planlar için, satın alma işlemi sırasında tanımladığınız kullanıcı sayısını ekleyebilir veya azaltabilirsiniz. Abone olduğunuz kullanıcıların sayısını değiştirmek hemen yürürlüğe girer ve faturalandırma geçerli planın fatura dönemi uyarınca eşit olarak dağıtılır. Yayımlamadaki değişiklikler yalnızca Yayımcı tarafından tanımlanan en düşük ve en fazla koltuk aralığında mümkündür. Bazı durumlarda, bilgisayarları değiştirmeden önce bir planı değiştirmeniz gerekecektir ve tam tersi de geçerlidir.
+Lisans tabanlı planlar için, satın alma işlemi sırasında tanımlandığı kullanıcı sayısını ekleyebilir veya azaltabilirsiniz. Abone olduğunuz kullanıcı sayısını değiştirmek hemen geçerli olur ve faturalama geçerli planın faturalama dönemine göre provokasyona tabi olur. Yayımcı tarafından tanımlandığı gibi, yalnızca en düşük ve en yüksek yer aralığı içinde yer alan yer değişiklikleri mümkündür. Bazı durumlarda, yer değiştirmeden önce bir planı değiştirmelisiniz ve bunun tersi de geçerlidir.
 
-- Aboneliğiniz, okuma izinleriyle kiracı düzeyi altındaysa, kullanıcı sayısını değiştiremezsiniz. Bunun yerine, abonelik üzerinde sahip rolüne sahip olan kişiden katkıda bulunan izinleri Isteyin.
-- Yayımcı isteği yerine getiremiyorsa, doğrudan bunlarla iletişim kurun.
+- Aboneliğiniz Okuma izinlerine sahip Kiracı düzeyinde ise kullanıcı sayısını değiştiremezsiniz. Bunun yerine, abonelikte Sahip rolüne sahip olan kişiden Katkıda Bulunan izinleri isteğinde bulunabilirsiniz.
+- Yayımcı isteği yerine getirene kadar doğrudan iletişim kurun.
 
 > [!NOTE]
-> Yayımcı, hizmeti içinde mümkün değilse değişikliği onaylamayı reddedebilir. Bu durumda, değişiklik başarısız olur.
+> Yayımcı, kendi hizmetlerinde uygulanabilir durumda olmayan değişikliği onaylamayı reddedebilir. Bu durumda değişiklik başarısız olur.
 
-### <a name="edit-recurring-billing"></a>Yinelenen faturalandırmayı Düzenle
+### <a name="edit-recurring-billing"></a>Yinelenen faturalamayı düzenleme
 
-Yinelenen faturalandırma, SaaS aboneliğinizin yenilenmesini yönetmenizi sağlar. Yinelenen faturalandırma devre dışı bırakıldığında, SaaS aboneliği ve hizmeti yenileme tarihinde sona erecek. Yenileme seçeneğini yalnızca abonelik etkin olduğunda değiştirebilirsiniz. Sonlandırılmış bir ve/veya iptal edilen SaaS aboneliği yeniden etkinleştirilemez; Yeni bir SaaS aboneliğinin yerinde oluşturulması gerekir.
+Yinelenen faturalama, SaaS aboneliğinizin yenileme işlemlerini yönetmenize olanak sağlar. Yinelenen faturalama kapalı olduğunda SaaS aboneliği ve hizmeti yenileme tarihine göre sonlandırılır. Yenileme seçeneğini yalnızca abonelik etkinken değiştirebilirsiniz. Sonlandırılan ve/veya iptal edilen Bir SaaS aboneliği yeniden etkinleştirilmemektedir; Yeni bir SaaS aboneliğinin yerinde oluşturulmuş olması gerekir.
 
-### <a name="view-billing"></a>Faturalandırmayı görüntüle
+### <a name="view-billing"></a>Faturalamayı görüntüleme
 
-Azure aboneliğiniz ve bu abonelik kullanılarak satın alınan Azure Market ürünleri için faturaları görüntüleyin. Portalda satın alınan SaaS için **faturalandırma** bölümündeki SaaS aboneliği sayfasında faturalandırma sayfasına bakın ve bu, sizi **Maliyet yönetimine** yönlendirmenizi sağlar.
+Azure aboneliğinizin faturalarını ve bu Azure Market satın alınan ürünleri görüntüleme. Portalda satın alınan SaaS için, Sizi Maliyet Yönetimi'ne yönlendirecek Olan Faturalama bölümündeki SaaS aboneliği sayfasındaki faturalama **sayfasına bakın.** 
 
-Maliyet yönetimi, fatura dökümlerinizi anlamanıza, Faturalandırma hesabınızı ve aboneliklerinizi yönetmenize, Azure harcamalarınızı izlemenize/denetlemenize ve kaynak kullanımını iyileştirmenize yardımcı olur. Maliyetleri analiz etmenizi, bütçelerin oluşturulmasını ve yönetilmesini ve daha fazlasını yapmanızı sağlar. Örneğin, özel ölçüm kullanımınızı izlemenize (2021 Şubat 'tan sonra oluşturulan SaaS abonelikleri için veya bir kaynak grubuna taşındıktan) olanak tanır. Maliyet yönetimi hakkında daha fazla bilgi için bkz. [Azure maliyet yönetimi + faturalandırma belgeleri](/azure/cost-management-billing/).
+Maliyet Yönetimi fatura dökümünü anlamanıza, ödeme hesabınızla aboneliklerinizi yönetmenize, Azure harcamalarınızı izlemenize/denetlemenize ve kaynak kullanımını iyileştirmenize yardımcı olur. Maliyetleri analiz etmenize, bütçeler oluşturmanıza ve yönetmenize ve daha fazlasını sağlar. Örneğin, özel ölçüm kullanımınızı (Şubat 2021'den sonra oluşturulan veya bir kaynak grubuna taşınan SaaS abonelikleri için) izlemenizi sağlar. Maliyet yönetimi hakkında daha fazla bilgi için [Azure Maliyet Yönetimi + Faturalama edinin.](/azure/cost-management-billing/)
 
-Satın alımınızın Microsoft AppSource aracılığıyla yapılması durumunda faturanız **& ödemeler** bölümünde Microsoft Yönetim Merkezi 'nde yer alabilir.
+Satın aldığınız faturalar Microsoft AppSource Microsoft Yönetim Merkezi'nde Faturalar ve ödemeler altında **& görüntüebilirsiniz.**
 
 ### <a name="cancel-subscription"></a>Aboneliği iptal etme
 
-İptal etme, bu SaaS aboneliğinin bir parçası olarak satın aldığınız yazılıma erişiminizi kaldırır. Para iadesi, geri ödeme ilkesine göre işlenir; Ayrıntılar için bkz. [Microsoft AppSource ve Azure Market Için para iadesi ilkeleri](refund-policies.md).
+İptal etme işlemi, bu SaaS aboneliğinin bir parçası olarak satın aldığınız yazılıma erişiminizi kaldırır. Para iadeleri para iadesi ilkesine göre işlenir; Ayrıntılar için bkz. [Para iadesi ilkeleri Microsoft AppSource ve Azure Market.](refund-policies.md)
 
-Aboneliğiniz, **okuma** izinleriyle kiracı düzeyi altındaysa, aboneliği iptal edemezsiniz. Bunun yerine, **sahip** izinlerine sahip kişiyle iletişim kurun.
+Aboneliğiniz Okuma izinlerine sahip Kiracı **düzeyinde ise** aboneliği iptal etmenize izin vezin. Bunun yerine Sahip izinlerine sahip olan **kişiye** ulaşın.
 
-14 günden daha uzun bir süre boyunca 24 saat veya yıllık veya çok yıllık bir abonelik için aylık bir SaaS aboneliğiniz varsa, aboneliğin geçerli dönemi (bkz. iptal ilkesi) için para iadesi kullanılacaktır. SaaS hesabı yapılandırıldıktan sonra tüketimi temel alan faturalandırma, para iadesi için de uygun değildir.
+Aylık SaaS aboneliğiniz 24 saati veya 14 gün boyunca bir yıllık veya çok yıllık aboneliğiniz varsa, aboneliğin geçerli dönemi için para iadesi kullanılmaz (bkz. iptal ilkesi). SaaS hesabı yapılandırıldığında tüketime göre faturalandırma da para iadesi için uygun değildir.
 
 ### <a name="delete-subscription"></a>Aboneliği silme
 
-Bu eylem, SaaS abonelikleri listenizden SaaS kaynağını kaldırmanın eklenmesiyle birlikte iptal etme gibidir. Bir aboneliği sildikten sonra, Azure portal buna erişmeniz mümkün olmayacaktır.
+Bu eylem iptal etmek gibi bir işlemdir ve SaaS kaynağını SaaS abonelikleri listesinden kaldırmayı da içerir. Bir aboneliği sildikten sonra abonelikten bu aboneliğe Azure portal.
 
-Aboneliğiniz, **okuma** izinleriyle kiracı düzeyi altındaysa, bir aboneliği silemezsiniz. Bunun yerine, **sahip** izinlerine sahip kişiyle iletişim kurun.
+Aboneliğiniz Okuma izinlerine sahip Kiracı **düzeyinde ise** aboneliği silemezsiniz. Bunun yerine Sahip izinlerine sahip olan **kişiye** ulaşın.
 
 ### <a name="change-azure-subscription-andor-resource-group"></a>Azure aboneliğini ve/veya kaynak grubunu değiştirme
 
-Azure portal satın alınan bir teklifle ilişkili bir aboneliği/kaynak grubunu değiştirmek için:
+Teklifte satın alınan bir teklifle ilişkili bir aboneliği/kaynak grubunu Azure portal:
 
-1. **SaaS** bölümüne gidin.
-2. Değiştirilecek aboneliği seçin.
-3. **Faturalandırma** bölümünde **faturalandırılan aboneliği Değiştir**' i seçin.
-4. SaaS kaynağını taşımak için istenen abonelik/kaynak grubunu seçin veya yeni bir kaynak grubu oluşturun.
-5. İşlemi gerçekleştirmek için en altta **Değiştir** ' i seçin.
+1. **SaaS bölümüne** gidin.
+2. Değiştir istediğiniz aboneliği seçin.
+3. **Faturalama'nın** altında **Faturalı aboneliği değiştir'i seçin.**
+4. SaaS kaynağını taşımak için istediğiniz aboneliği/kaynak grubunu seçin veya yeni bir kaynak grubu oluşturun.
+5. İşlem **tamamlamak** için alttaki Değiştir'i seçin.
 
-Değişiklik çalışmamayabilir bazı durumlar vardır:
+Değişikliğin çalışmay olabileceği bazı durumlar vardır:
 
-- SaaS aboneliğiniz abone durumunda değilse, SaaS bölümünde veya **SaaS** abonelik sayfanızda abonelik durumunu kontrol edin.
-- SaaS aboneliği bir kiracı düzeyi kaynağı ise:
-    - Hedef Azure aboneliğinde *sahip/katkıda bulunan* izinlerinizin olması gerekir.
-- SaaS aboneliği bir abonelik düzeyi kaynağı ise:
-    - Hedef Azure aboneliğine yönelik *okuma* veya *sahip/katkıda bulunan* izinlerinizin olması gerekir.
-    - Hedef kaynak grubu için *sahip/katkıda bulunan Izinlerine sahip* olmanız gerekir.
-    - Hedef kaynak grubunda aynı ada sahip bir SaaS aboneliği zaten varsa, farklı bir hedef kaynak grubu seçin.
-- Hedef Azure aboneliği ve kaynak aboneliği, satın alma sırasında gerçekleştirilen tüm denetimleri üstlenecek. Satın alma denetimleri hakkında daha fazla bilgi edinmek için **Azure Portal SaaS teklifi satın alma** konusunun [SaaS aboneliği ve yapılandırması](purchase-saas-offer-in-azure-portal.md#saas-subscription-and-configuration) bölümüne bakın.
+- SaaS Aboneliğiniz Abone olunan durumda değilse SaaS bölümünde veya **SaaS** aboneliği sayfasında abonelik durumunu kontrol edin.
+- SaaS aboneliği kiracı düzeyinde bir kaynaksa:
+    - Hedef Azure *aboneliğinde Sahip/Katkıda* Bulunan izinlerine sahipsiniz.
+- SaaS aboneliği abonelik düzeyinde bir kaynaksa:
+    - Hedef Azure *Aboneliği için* Okuma *veya Sahip/Katkıda* Bulunan izinlerine ihtiyacınız vardır.
+    - Hedef kaynak *grubu için Sahip/Katkıda* Bulunan izinlerine ihtiyacınız vardır.
+    - Hedef kaynak grubunda aynı adla bir SaaS aboneliği zaten varsa, farklı bir hedef kaynak grubu seçin.
+- Hedef Azure aboneliği ve kaynak aboneliği, satın alma sırasında gerçekleştirilen tüm denetimlerden geçiriliyor. Satın alma denetimleri hakkında daha fazla bilgi edinmek için, Azure portal'de SaaS teklifi satın alma bölümündeki [SaaS](purchase-saas-offer-in-azure-portal.md#saas-subscription-and-configuration) **Aboneliği ve yapılandırma bölümüne bakın.**
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-- Markette zaten bir teklif satın aldıysanız [Faturalama'ya gidin](billing-invoicing.md)
-- Özel plan seçenekleri hakkında [daha fazla bilgi](private-offers.md)
+- Market 'te zaten bir teklif satın aldıysanız [faturalandırma ve faturalama](billing-invoicing.md) ' ya gidin.
+- [Özel plan](private-offers.md) seçenekleri hakkında daha fazla bilgi edinin

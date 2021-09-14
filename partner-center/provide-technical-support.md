@@ -4,64 +4,64 @@ ms.topic: article
 ms.date: 06/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-support
-description: program iş ortaklarının müşterilerini sunabileceği Bulut Çözümü Sağlayıcısı teknik destek türleri hakkında bilgi edinin.
+description: Program iş ortaklarının müşterilerine sun Bulut Çözümü Sağlayıcısı teknik destek türleri hakkında bilgi öğrenin.
 author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: d8e4781ffa64269056c684d9ab10a29ff97dacde
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960835"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126248552"
 ---
-# <a name="provide-technical-support-to-help-customers-configure-manage-and-use-their-subscriptions"></a>Müşterilerin aboneliklerini yapılandırmasına, yönetmesine ve kullanmasına yardımcı olmak için teknik destek sağlama
+# <a name="provide-technical-support-to-help-customers-configure-manage-and-use-their-subscriptions"></a>Müşterilerin aboneliklerini yapılandırmalarına, yönetmelerine ve kullanmalarına yardımcı olmak için teknik destek sağlama
 
 
-**Uygun roller**: genel yönetici | Kullanıcı Yönetimi Yöneticisi | Yardım Masası Aracısı | Yönetim Aracısı
+**Uygun roller:** Genel yönetici | Kullanıcı yönetimi yönetici | Yardım masası aracısı | Yönetici aracısı
 
-Bulut Çözümü Sağlayıcısı (CSP) iş ortağı olarak, müşterilerinizin ortamlarına size erişmenizi sağlayan yönetici ayrıcalıklarına sahip olursunuz. Bu ayrıcalıklar, müşterilerinizin aboneliklerini doğrudan destekleme, yapılandırma ve yönetme olanağı sağlar.
+Bir Bulut Çözümü Sağlayıcısı (CSP) iş ortağı olarak, müşterinizin ortamlarına erişmenizi sağlamak için Yönetici Ayrıcalıkları Temsilcisine sahipsiniz. Bu ayrıcalıklar, müşterilerimizin aboneliklerini doğrudan desteklemenizi, yapılandırmanızı ve yönetmenizi sağlar.
 
-Iş Ortağı Merkezi 'nde şunları yapabilirsiniz:
+Bu İş Ortağı Merkezi şunları da s:
 
-- Müşteri hizmeti sistem durumunu görüntüle
-- Müşteri hizmeti olaylarını görüntüleme
+- Müşteri hizmetleri durumunu görüntüleme
+- Müşteri hizmetleri olaylarını görüntüleme
 
 ## <a name="perform-admin-tasks-for-your-customers"></a>Müşterileriniz için yönetici görevlerini gerçekleştirme
 
-1. **Iş Ortağı Merkezi** menüsünde **müşteriler**' i seçin. Listeden müşteriyi seçin.
-2. Müşteri menüsünde, **hizmet yönetimi**' ni seçin.
-3. **Hizmetleri Yönet** bölümünde, hizmetin yönetim portalını açmak için üzerinde çalışmanız gereken hizmeti seçin.
-4. Müşterinin hesabında, hizmetler çalışmıyor veya düşürülmüş bir deneyim gibi bir sorun buldıysanız, hizmet durumunu denetleyerek başlatın. Bkz. [hizmet durumunu denetleme](check-service-health.md).
-5. Devam eden bir sorunu Microsoft 'a iletmek için bir hizmet isteği dosyası. Bkz. [müşteri adına sorun bildirme](report-problems-on-behalf-of-a-customer.md).
+1. Veri **İş Ortağı Merkezi** Müşteriler'i **seçin.** Listeden müşterinizi seçin.
+2. Müşteri menüsünde Hizmet **yönetimi'ne tıklayın.**
+3. Hizmetleri **yönet bölümünde,** hizmetin yönetim portalını açmak için üzerinde çalışmanız gereken hizmeti seçin.
+4. Hizmetlerin çalışmama durumu veya düzeyi düşürülmüş deneyim gibi bir müşterinin hesabıyla ilgili bir sorun bulursanız, başlangıç olarak hizmet durumunu kontrol edin. Bkz. [Hizmet durumunu denetleme.](check-service-health.md)
+5. Devam eden bir sorunu Microsoft'a iletirken bir hizmet isteği kaydedin. Bkz. [Sorunları müşteri adına bildirme.](report-problems-on-behalf-of-a-customer.md)
 
-## <a name="microsoft-partner-support-guidance"></a>Microsoft iş ortağı destek Kılavuzu
+## <a name="microsoft-partner-support-guidance"></a>Microsoft iş ortağı desteği kılavuzu
 
-CSP modelindeki iş ortakları, müşterilerine güvenilir bir danışman ve müşterilerinin bir soru ya da sorun olduğu durumlarda destek de dahil olmak üzere uçtan uca aittir. Destek dokunma noktaları iş ortakları sayesinde, müşteri ve işleri hakkında daha fazla bilgi edinmek için, bir değer olan yeni hizmetleri ve çözümleri tespit edebilirsiniz.
+CSP modelinde işlem yapılan iş ortakları, müşterilerinin güvenilir danışmanıdır ve müşterileriyle ilgili bir soru veya sorun olduğunda destek de dahil olmak üzere ilişki uzmaktadır. Destek temas noktaları aracılığıyla iş ortakları müşteri ve işletmeleri hakkında daha fazla bilgi öğrenerek değer katacak yeni hizmetler ve çözümler tanımlayabilir.
 
-Destek gereksinimini karşılamak için iş ortağı başka bir varlıktan destek verebilir, destek yapısının tümünün veya bir parçası olarak dış kaynaklı olabilir ve/veya doğrudan destek sağlamak için bir yapı ayarlayabilir.  İş ortağı, müşterilere sunulan desteğin tümü veya bir parçası için ücret ödemeyebilir. İş ortağı, müşterilerine sundukları desteği, hizmet saatleri ve iletişim yöntemini ve fiyatlandırmayı (destek için ücretlendirme varsa) ifade etmelidir. 
+Destek gereksinimini karşılamak için iş ortağı başka bir varlığa yönelik desteği yeniden satarak destek yapısının tamam veya bir kısmını dış kaynak olarak kullanılabilir ve/veya doğrudan destek sağlayacak bir yapıyı yapılandırabilirsiniz.  İş ortağı, müşterilere sağlanan desteğin hepsi veya bir bölümü için ücret tahsil ediyor olabilir. İş ortağı, müşterilerine sağ edecekleri desteği, hizmet saatlerini, iletişim yöntemini ve fiyatlandırmayı (destek için ücretlendirme yapılması halinde) ifade etmeli. 
 
-İş ortakları, müşterilerden gelen destek isteklerini almalıdır, ortağın en iyisiyle ilgili sorunları tanımalıdır ve ardından taban çizgisi destek sınırları kapsamındaki sorunları çözer. İş ortağı bir sorunu çözümleyemezse, aşağıdaki destek aracılarına göre sorunları Microsoft 'a gönderebilir:
+İş ortaklarının müşterilerden gelen destek isteklerini almaları, sorunları iş ortağının becerilerinden en iyi şekilde tanılaması ve ardından temel destek sınırları kapsamındaki sorunları çözmesi gerekir. İş ortağı bir sorunu çözemezse, aşağıdaki destek araçları aracılığıyla sorunları Microsoft'a iletir:
 
-- **Ticari** sorun desteği CSP programındaki tüm iş ortakları tarafından kullanılabilir
+- **CSP** programında tüm iş ortakları için ticari sorun desteği kullanılabilir
 
-- **Teknik** sorun desteği şu şekilde edinilebilir:
+- **Teknik** sorun desteği şu şekilde kullanılabilir:
 
-  - Iş ortakları için Premier Destek (ücret tabanlı)
-  - Iş ortakları için gelişmiş destek (ücret tabanlı)
-  - İmza bulutu desteği (altın/gümüş uzmanlığına dahildir)
+  - Premier Destek (ücret tabanlı)
+  - İş Ortakları için Gelişmiş Destek (ücret tabanlı)
+  - Signature Bulut Desteği (Gold/Silver uzmanlığına dahildir)
 
-### <a name="providing-billing-subscription-management-and-technical-support"></a>Faturalandırma, abonelik yönetimi ve teknik destek sağlama 
+### <a name="providing-billing-subscription-management-and-technical-support"></a>Faturalama, abonelik yönetimi ve teknik destek sağlama 
 
-Her çevrimiçi hizmet, müşterilere faturalandırma, abonelik yönetimi ve teknik destek sağlamaya yönelik belirli ve ayrıntılı gereksinimlere sahiptir. Daha fazla bilgi için bkz.
+Her çevrimiçi hizmetin müşterilere faturalama, abonelik yönetimi ve teknik destek sağlamak için belirli ve ayrıntılı gereksinimleri vardır. Daha fazla bilgi için bkz.
 
 - [CSP aracılığıyla satılan Dynamics 365 abonelikleri](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5262#M30)
 
 - [CSP aracılığıyla satılan Azure abonelikleri](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5263#M31)
 
-- [CSP aracılığıyla satılan Office 365 abonelikler](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5264#M32)
+- [Office 365 CSP aracılığıyla satılan abonelikler](https://www.microsoftpartnercommunity.com/t5/CSP/Microsoft-Partner-Support-Guidance/m-p/5264#M32)
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-- [Ne zaman ve nasıl yapılacağı gibi bir müşteri adına bir hizmet sorunu bildirin](report-problems-on-behalf-of-a-customer.md)
+- [Müşteri adına bir hizmet sorunu bildirme - bunun ne zaman ve nasıl olduğu da dahil](report-problems-on-behalf-of-a-customer.md)

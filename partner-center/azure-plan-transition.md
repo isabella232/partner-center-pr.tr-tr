@@ -10,11 +10,11 @@ ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.date: 06/16/2020
 ms.openlocfilehash: eb9d88935bdc339c01ac47153c3d4a23047dc406
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960014"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126248337"
 ---
 # <a name="transition-customers-to-azure-plan-from-existing-csp-azure-offers"></a>Mevcut CSP Azure tekliflerden müşterilerin Azure planına geçiş yapın
 
