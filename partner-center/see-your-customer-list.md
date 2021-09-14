@@ -10,15 +10,15 @@ ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: df0f72deb14eac6d75f8579f7099ab3c6b6a2905
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960555"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126248301"
 ---
 # <a name="manage-your-customer-list---search-update-or-export-customers-in-partner-center"></a>Müşteri listenizi yönetme - müşteriler için arama, güncelleştirme veya dışarı İş Ortağı Merkezi
 
-**Uygulama:** İş Ortağı Merkezi | İş Ortağı Merkezi için Microsoft Cloud for US Government
+**Için geçerlidir:** İş Ortağı Merkezi | İş Ortağı Merkezi için Microsoft Cloud for US Government
 
 **Uygun roller:** Yönetici aracısı | Genel yönetici
 
@@ -30,14 +30,14 @@ Etkinlik günlükleri ayrıca müşteriler için işlemler ve yönetim eylemleri
 
 1. Veri **İş Ortağı Merkezi** Müşteriler'i **seçin.**
 2. Müşteri aramak için arama kutusuna müşteri adını veya etki alanı adını girin.
-3. Microsoft kimliğini **ve** ilişkili abonelikleri ile hizmetleri hızlı bağlantılarını görmek için müşteri satırı sonundaki aşağı oku seçin.
+3. Microsoft **kimliklerini ve** ilişkili abonelikleri ve hizmetleri hızlı bağlantılarını görmek için müşteri satırı sonundaki aşağı oku seçin.
 
 ## <a name="update-a-customers-company-name"></a>Müşterinin şirket adını güncelleştirme
 
 Veri **İş Ortağı Merkezi** Müşteriler'i **seçin.**
 2. Müşteri aramak için arama kutusuna müşteri adını veya etki alanı adını girin.
-3. Microsoft kimliğini **ve** ilişkili abonelikleri ile hizmetleri hızlı bağlantılarını görmek için müşteri satırı sonundaki aşağı oku seçin.
-4. Müşterinin Fatura bilgileri **altında** şirket adını güncelleştirin. Yeni değeri kaydetmeniz, müşteri listesine yansıtacak. Bu yalnızca Fatura şirketi adını ve müşteri listesi değerini değiştirir. Bu durum başka bir yere yansıtmayacak.
+3. Microsoft **kimliklerini ve** ilişkili abonelikleri ve hizmetleri hızlı bağlantılarını görmek için müşteri satırı sonundaki aşağı oku seçin.
+4. Müşterinin Fatura bilgileri **altında** şirket adını güncelleştirin. Yeni değeri kaydetmeniz, müşteri listesine yansıtacak. Bu, yalnızca Fatura şirketi adını ve müşteri listesi değerini değiştirir. Bu durum başka bir yere yansıtmayacak.
 
 ## <a name="export-your-customer-list"></a>Müşteri listenizi dışarı aktarma
 
@@ -51,7 +51,7 @@ Veri **İş Ortağı Merkezi** Müşteriler'i **seçin.**
    - **Birincil etki alanı adı;**
    - **İlişki—** İş Ortağının listelenen her müşteriyle iş ilişkisi.
 
-    Varsayılan olarak, İş Ortağı Merkezi bakılmaksızın tüm müşteri listesini dışarı aktarabilirsiniz. Ayrıca, şirket adına veya etki alanına göre müşteri listesinde arama ve bu veri alt kümesini dışarı aktarabilirsiniz.
+    Varsayılan olarak, İş Ortağı Merkezi ne olursa olsun tüm müşteri listesini dışarı aktarabilirsiniz. Ayrıca, şirket adına veya etki alanına göre müşteri listesinde arama ve bu veri alt kümesini dışarı aktarabilirsiniz.
 
 3. Dolaylı sağlayıcıysanız, müşteri listenizi dolaylı kurumsal bayiye göre filtre alabilirsiniz. Listeden **Dolaylı kurumsal bayiye göre** filtrele'yi ve ardından bir kurumsal bayi seçin.
 

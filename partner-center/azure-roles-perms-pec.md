@@ -1,124 +1,124 @@
 ---
-title: Roller, iş ortağı kazanılmış kredi için izinler
+title: Roller, iş ortağı tarafından kazanılan kredi izinleri
 ms.topic: article
 ms.date: 05/04/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-pricing
-description: İş ortaklarının iş ortağı kazanılmış kredilerin (PEC) kazanılabilecek roller ve izinler hakkında bilgi edinin. Bu rollerin iş ortağı merkezi 'nde çalışması farklıdır.
+description: İş ortaklarının iş ortağı tarafından kazanılan krediler (PEC) kazanabilecekleri roller ve izinler hakkında bilgi edinmek. Bunlar, iş rollerinden farklı İş Ortağı Merkezi.
 author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: ca9cd1b09c840531c3652f71afbd9c66f657f877
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123959925"
+ms.lasthandoff: 09/13/2021
+ms.locfileid: "126248320"
 ---
-# <a name="roles-and-permissions-required-to-earn-partner-earned-credit"></a>İş ortağı kazanılmış kredisi kazanmak için gereken roller ve izinler
+# <a name="roles-and-permissions-required-to-earn-partner-earned-credit"></a>İş ortağı tarafından kazanılan krediyi kazanmak için gereken roller ve izinler
 
-Aşağıdaki roller, bir ortağın iş ortağı tarafından kazanılan krediler için uygun olup olmadığını tespit eden izin düzeylerine eşlenir.
+Aşağıdaki roller, bir iş ortağının iş ortağı tarafından kazanılan krediler için uygun olup olmadığını belirleyen izin düzeyleriyle eşler.
 
 >[!Important]
->Bu roller ve izinler, bir kullanıcının iş ortağı merkezi 'nde çalışması gereken roller ve izinlerle aynı değildir.
+>Bu roller ve izinler, bir kullanıcının bir kullanıcıyla birlikte çalışması gereken roller ve izinler ile İş Ortağı Merkezi.
 
 |**Role**   |**Açıklama**   |**PEC uygun**   |
 |-----------------|:------------------|:--------------|
-|Sahip  |Kaynaklara erişim dahil her şeyi yönetirsiniz.|Yes|
-|Katılımcı |Kaynaklara erişim verme dışında her şeyi yönetirsiniz.|Yes|
-|Okuyucu|Her şeyi görüntüleyebilir, ancak herhangi bir değişiklik yapamazsınız|No|
-|ACRDelete|ACR silme|Yes|
-|Acrimageimzalayan|ACR görüntü imzalayan|Yes|
-|ACRPull|ACR çekme|Yes|
-|AcrPush|ACR gönderimi|Yes|
-|Acrquaranınereader|ACR karantina veri okuyucusu|No|
-|AcrQuarantineWriter| ACR karantina veri yazıcısı|Yes|
-|API Management hizmet Katılımcısı|Hizmeti ve API 'Leri yönetebilir|Yes|
-|Hizmet Işletmeni rolü API Management|Hizmeti yönetebilir, ancak API 'Leri yönetemez|Yes|
-|API Management hizmeti okuyucu rolü|Hizmet ve API 'lere salt okuma erişimi|No|
-|Application Insights bileşeni katılımcısı|Application Insights bileşenlerini yönetir|Yes|
-|Application Insights Snapshot Debugger|Application Insights Snapshot Debugger ile toplanan hata ayıklama anlık görüntülerini görüntülemek ve indirmek için kullanıcıya izin verir. Bu izinlerin sahip veya katkıda bulunan rollerine dahil edilmediğini unutmayın.|Yes|
-Automation Iş Işleci | Otomasyon Runbook 'Larını kullanarak Iş oluşturun ve yönetin. | Yes | 
-Otomasyon Operatörü | Automation Işleçleri, işleri başlatabilir, durdurabilir, askıya alabilir ve sürdürebilir | Yes | 
-Otomasyon Runbook Işleci | Runbook 'un Işlerini oluşturabilmek için Runbook özelliklerini okuyun. | Yes | 
-Avere Katılımcısı | , Bir avere vFXT kümesi oluşturabilir ve yönetebilir. | Yes | 
-Avere Işleci | Kümeyi yönetmek için avere vFXT kümesi tarafından kullanılır | Yes | 
-Azure Event Hubs veri sahibi | Azure Event Hubs kaynaklarına tam erişim sağlar. | Yes | 
-Azure Event Hubs veri alıcısı | Azure Event Hubs kaynaklarına erişim izni verir. | Yes | 
-Azure Event Hubs veri gönderici | Azure Event Hubs kaynaklarına erişim gönderilmesine izin verir. | Yes | 
-Azure Kubernetes hizmet kümesi yönetici rolü | Küme Yöneticisi kimlik bilgisi eylemini listeleyin. | Yes | 
-Azure Kubernetes hizmet kümesi Kullanıcı rolü | Küme kullanıcı kimlik bilgilerini Listele eylemi. | Yes | 
-Azure Haritalar veri okuyucu (önizleme) | Azure haritalar hesabından ilgili harita okuma verilerine erişim izni verir. | No | 
-Azure Service Bus veri sahibi | Azure Service Bus kaynaklarına tam erişim sağlar. | Yes | 
-Azure Service Bus veri alıcısı | Azure Service Bus kaynaklarına erişim izni verir. | Yes | 
-Azure Service Bus veri gönderici | Azure Service Bus kaynaklarına erişim izni verir. | Yes | 
-Kayıt sahibini Azure Stack | Azure Stack kayıtlarını yönetmenizi sağlar. | Yes | 
-Yedek Katılımcısı | Yedekleme hizmetini yönetmenizi sağlar, ancak kasaların oluşturamaz ve başkalarına erişim izni verebilir | Yes | 
-Yedekleme Operatörü | Yedekleme kaldırma, kasa oluşturma ve başkalarına erişim verme dışında yedekleme hizmetlerini yönetmenizi sağlar | Yes | 
-Yedekleme okuyucusu | Yedekleme hizmetlerini görüntüleyebilir, ancak değişiklik yapamaz | No | 
-Faturalama Okuyucusu | Faturalandırma verilerine okuma erişimi sağlar | No | 
-BizTalk Katılımcısı | BizTalk hizmetlerini yönetmenizi sağlar ancak onlara erişim izni vermez. | Yes | 
-Blok zinciri üye düğümü erişimi (Önizleme) | Blok zinciri üye düğümlerine erişim sağlar | Yes | 
-Blueprint Katılımcısı | Şema tanımlarını yönetebilir, ancak atamazsınız. | Yes | 
-Blueprint Işleci | Varolan yayımlanmış şemaları atayabilir, ancak yeni şemaları oluşturamaz. Not: Bu yalnızca atama Kullanıcı tarafından atanan yönetilen bir kimlikle yapıldığında geçerlidir. | Yes | 
-CDN Uç nokta Katılımcısı | CDN uç noktalarını yönetebilir, ancak diğer kullanıcılara erişim izni veremez. | Yes | 
-CDN Uç nokta okuyucusu | CDN uç noktalarını görüntüleyebilir, ancak değişiklik yapamaz. | No | 
-CDN Profil Katılımcısı | CDN profillerini ve uç noktalarını yönetebilir, ancak diğer kullanıcılara erişim izni veremez. | Yes | 
-CDN Profil okuyucu | CDN profillerini ve uç noktalarını görüntüleyebilir, ancak değişiklik yapamaz. | No | 
-Klasik Ağ Katılımcısı | Klasik ağları yönetmenize izin verir, ancak bunlara erişemez. | Yes | 
-klasik Depolama hesabı katılımcısı | Klasik depolama hesaplarını yönetmenize izin verir, ancak bunlara erişimi kalmaz. | Yes | 
-klasik Depolama hesap anahtarı operatörü hizmet rolü | klasik Depolama hesap anahtarı işleçleri klasik Depolama hesaplarında anahtarları listeleme ve yeniden oluşturma izni verilir | Yes | 
-Klasik sanal makine Katılımcısı | Klasik sanal makineleri yönetmenizi sağlar ancak bunlara yönelik erişimi, bağlı oldukları sanal ağ veya depolama hesabı için değil. | Yes | 
-Bilişsel hizmetler Katılımcısı | Bilişsel hizmetler için anahtar oluşturma, okuma, güncelleştirme, silme ve yönetme olanağı sağlar. | Yes | 
-Bilişsel hizmetler veri okuyucu (Önizleme) | Bilişsel hizmetler verilerini okumanızı sağlar. | No | 
-Bilişsel hizmetler kullanıcısı | Bilişsel hizmetler 'in anahtarlarını okuyup listelemenizi sağlar. | No | 
-Cosmos DB hesabı okuyucu rolü | Azure Cosmos DB hesabı verilerini okuyabilir. Azure Cosmos DB hesaplarını yönetmek için DocumentDB hesabı katılımcısı konusuna bakın. | No | 
-Cosmos DB Işleci | Azure Cosmos DB hesaplarını yönetmenizi sağlar ancak içerdikleri verilere erişemez. Hesap anahtarlarına ve bağlantı dizelerine erişimi engeller. | Yes | 
-CosmosBackupOperator | bir Cosmos DB veritabanı veya bir hesabın kapsayıcısı için geri yükleme isteği gönderebilir | Yes | 
-Maliyet Yönetimi Katkıda Bulunanı | Maliyetleri görüntüleyebilir ve maliyet yapılandırmasını yönetebilir (örn. bütçeler, dışarı aktarmalar) | Yes | 
-Maliyet yönetimi okuyucusu | Maliyet verilerini ve yapılandırmayı görüntüleyebilir (örneğin, bütçeler, dışarı aktarmalar) | No | 
-Katkıda bulunan Data Box | , Diğer kullanıcılara erişim izni hariç Data Box hizmeti altındaki her şeyi yönetmenizi sağlar. | Yes | 
-Data Box okuyucu | Sipariş oluşturma veya düzenleme sırası ayrıntıları ve başkalarına erişim verme dışında Data Box hizmetini yönetmenizi sağlar. | No | 
-Katkıda bulunan Data Factory | Veri fabrikalarının yanı sıra bunların içindeki alt kaynakları oluşturun ve yönetin. | Yes | 
-Data Lake Analytics geliştirici | Kendi işlerinizi göndermenize, izlemenize ve yönetmenize izin verir, ancak Data Lake Analytics Hesapları oluşturamaz veya silemezsiniz. | Yes | 
-Veri Takiger | Analiz verilerini temizedebilir | Yes | 
-DevTest Labs kullanıcısı | Azure DevTest Labs sanal makinelerinizi bağlamanıza, başlatmanıza, yeniden başlatmanıza ve kapatımanıza olanak sağlar. | Yes | 
-DNS bölgesi Katılımcısı | Azure DNS, DNS bölgelerini ve kayıt kümelerini yönetmenizi sağlar, ancak bunlara kimlerin erişebileceğini denetlemenize izin vermez. | Yes | 
-DocumentDB hesabı Katılımcısı | , Azure Cosmos DB hesaplarını yönetebilir. Azure Cosmos DB daha önce DocumentDB olarak bilinirdi. | Yes | 
-EventGrid EventSubscription Katılımcısı | EventGrid olay aboneliği işlemlerini yönetmenizi sağlar. | Yes | 
-EventGrid EventSubscription Reader | EventGrid olay aboneliklerini okumana olanak sağlar. | No | 
-HDInsight Küme İşleci | HDInsight küme yapılandırmalarını okuma ve değiştirmenizi sağlar. | Yes | 
-HDInsight Etki Alanı Hizmetleri Katkıda Bulunanı | HDInsight Güvenlik Paketi için gereken Etki Alanı Hizmetleri ile ilgili işlemleri okuyabilir, Enterprise ve silebilir | Yes | 
-Akıllı Sistemler Hesabı Katkıda Bulunanı | Akıllı Sistemler hesaplarını yönetmenize olanak sağlar, ancak bu hesaplara erişmenizi sağlar. | Yes | 
-Key Vault Katkıda Bulunanı | Anahtar kasalarını yönetmenize olanak sağlar, ancak bu kasalara erişmenizi sağlar. | Yes | 
-Laboratuvar Oluşturucusu | Azure Lab Hesaplarınız altında yönetilen laboratuvarlarınızı oluşturmanıza, yönetmenize ve silmenize olanak sağlar. | Yes | 
-Log Analytics Katkıda Bulunan | Log Analytics Katkıda Bulunanı tüm izleme verilerini okuyabilir ve izleme ayarlarını düzenleyebilir. İzleme ayarlarını düzenleme, VM uzantısını VM'lere eklemeyi içerir; Azure depolama hesabından günlük toplamayı yapılandırabilecek depolama hesabı anahtarlarını Depolama; Otomasyon hesaplarını oluşturma ve yapılandırma; çözüm ekleme; ve tüm Azure kaynaklarda Azure tanılamasını yapılandırma. | Yes | 
-Log Analytics Okuyucusu | Log Analytics Okuyucusu tüm Azure kaynaklarda Azure tanılama yapılandırmasını görüntüleme de dahil olmak üzere tüm izleme verilerini görüntüleme ve aramanın yanı sıra izleme ayarlarını da görüntülemenizi sağlar. | No | 
-Mantıksal Uygulama Katkıda Bulunanı | Mantıksal uygulamaları yönetmenize olanak sağlar, ancak erişimi değiştirmez. | Yes | 
-Mantıksal Uygulama İşleci | Mantıksal uygulamaları okumanızı, etkinleştirmenizi ve devre dışı bırakmanızı sağlar, ancak bunları düzenlemenizi veya güncelleştirmenizi sağlar. | Yes | 
-Yönetilen Uygulama İşleci Rolü | Yönetilen Uygulama kaynakları üzerinde eylem okuma ve gerçekleştirmenizi sağlar | Yes | 
-Yönetilen Uygulamalar Okuyucusu | Yönetilen bir uygulamada kaynakları okumanıza ve JIT erişimi isteğinde bulundurmanıza olanak sağlar. | No | 
-Yönetilen Kimlik Katkıda Bulunanı | Kullanıcı Tarafından Atanan Kimlik Oluşturma, Okuma, Güncelleştirme ve Silme | Yes | 
-Yönetilen Kimlik İşleci | Kullanıcı Tarafından Atanan Kimliği Okuma ve Atama | Yes | 
-Yönetim Grubu Katkıda Bulunanı | Yönetim Grubu Katkıda Bulunanı Rolü | Yes | 
-Yönetim Grubu Okuyucusu | Yönetim Grubu Okuyucusu Rolü | No | 
-İzleme Katkıda Bulunanı | Tüm izleme verilerini okuyabilir ve izleme ayarlarını düzenleyebilir. Ayrıca bkz. Kullanmaya başlayın, izinler ve güvenlik özellikleriyle Azure İzleyici. | Yes | 
-İzleme Ölçümleri Publisher | Ölçümleri Azure kaynaklarına göre yayımlamayı sağlar | Yes | 
-İzleme Okuyucusu | Tüm izleme verilerini (ölçümler, günlükler vb.) okuyabilir. Ayrıca bkz. Kullanmaya başlayın, izinler ve güvenlik özellikleriyle Azure İzleyici. | No | 
-Ağ Katılımcısı | Ağları yönetmenize olanak sağlar, ancak bu ağlara erişmenizi sağlar. | Yes | 
-New Relic APM Hesap Katkıda Bulunanı | Hesap ve New Relic Application Performance Management yönetmenize olanak sağlar, ancak bu hesaplara erişesiniz. | Yes | 
-Okuyucu ve Veri Erişimi | Her şeyi görüntülemenizi sağlar, ancak depolama hesabını veya kaps bulunan kaynağı silmenizi veya oluşturmanızı sağlar. Ayrıca depolama hesabı anahtarlarına erişim yoluyla bir depolama hesabında yer alan tüm verilere okuma/yazma erişimi de sağlar. | Yes | 
-Redis Cache Katkıda Bulunanı | Redis önbelleklerini yönetmenize olanak sağlar, ancak bu önbelleklere erişmenizi sağlar. | Yes | 
-Kaynak İlkesi Katkıda Bulunanı (Önizleme) | (Önizleme) Kaynak ilkesi oluşturma/değiştirme, destek bileti oluşturma ve kaynakları/hiyerarşiyi okuma haklarına sahip OLAN, EA'dan doldurulmuş kullanıcılar. | Yes | 
-Scheduler İş Koleksiyonları Katkıda Bulunanı | Scheduler iş koleksiyonlarını yönetmenize olanak sağlar, ancak bu koleksiyonlara erişmenizi sağlar. | Yes | 
-Arama Hizmeti Katkıda Bulunanı | Arama hizmetlerini yönetmenize olanak sağlar, ancak bu hizmetlere erişmenizi sağlar. | Yes | 
-Güvenlik Yöneticisi | Yalnızca Güvenlik Merkezi'nde: Güvenlik ilkelerini görüntüleme, güvenlik durumları görüntüleme, güvenlik ilkelerini düzenleme, uyarıları ve önerileri görüntüleme, uyarıları ve önerileri yok sayma | Yes | 
-Güvenlik Yöneticisi (Eski) | Bu eski bir rol. Bunun yerine güvenlik yöneticisini kullanın | Yes | 
-Güvenlik Okuyucusu | Yalnızca Güvenlik Merkezi'nde: Önerileri ve uyarıları görüntüleme, güvenlik ilkelerini görüntüleme, güvenlik durumları görüntüleme ama değişiklik yapma | No | 
-Site Recovery Katkıda Bulunanı | Kasa oluşturma ve rol Site Recovery dışında bir hizmeti yönetmenize olanak sağlar | Yes | 
-Site Recovery Operatörü | Yük devretme ve yeniden çalışma gerçekleştirmenizi sağlar, ancak diğer yönetim Site Recovery gerçekleştirmemenizi sağlar | Yes | 
-Site Recovery Okuyucusu | Diğer yönetim işlemlerini Site Recovery durumunu görüntülemenizi sağlar | No | 
+|Sahip  |Kaynaklara erişim de dahil olmak üzere her şeyi siz yönetirsiniz.|Yes|
+|Katılımcı |Kaynaklara erişim izni vermek dışında her şeyi siz yönetirsiniz.|Yes|
+|Okuyucu|Her şeyi görüntülemeniz ama herhangi bir değişiklik yapmama|No|
+|ACRDelete|acr delete|Yes|
+|ACRImageSigner|acr image signer|Yes|
+|ACRPull|acr pull|Yes|
+|AcrPush|acr push|Yes|
+|AcrQuarantineReader|acr karantina veri okuyucusu|No|
+|AcrQuarantineWriter| acr karantina veri yazıcısı|Yes|
+|API Management Hizmeti Katkıda Bulunanı|Hizmeti ve API'leri yönetebilir|Yes|
+|API Management Hizmet Operatörü Rolü|Hizmeti yönetebilir ancak API'leri yönetemz|Yes|
+|API Management Hizmet Okuyucusu Rolü|Hizmet ve API'lere salt okunur erişim|No|
+|Uygulama Analizler Bileşeni Katkıda Bulunanı|Uygulama yönetimi Analizler yönetir|Yes|
+|Uygulama Analizler Snapshot Debugger|Kullanıcıya Application Analizler Snapshot Debugger ile toplanan hata ayıklama anlık görüntülerini görüntüleme ve indirme izni Analizler Snapshot Debugger. Bu izinlerin Sahip veya Katkıda Bulunan rollerine dahil olmadığını unutmayın.|Yes|
+Otomasyon İşLeci | Otomasyon Runbook'larını kullanarak İşleri Oluşturma ve Yönetme. | Yes | 
+Otomasyon Operatörü | Otomasyon Operatörleri işleri başlatarak, durdurarak, askıya alabilir ve sürdürebilecek | Yes | 
+Otomasyon Runbook İşleci | Runbook'un İşlerini oluşturabilecek runbook özelliklerini okuyun. | Yes | 
+Avere Katkıda Bulunanı | Bir küme oluşturabilir ve Avere vFXT yönetebilir. | Yes | 
+Avere İşleci | Kümeyi Avere vFXT için küme tarafından kullanılır | Yes | 
+Azure Event Hubs Sahibi | Tüm kaynaklara tam Azure Event Hubs sağlar. | Yes | 
+Azure Event Hubs Veri Alıcısı | Kaynaklara erişim izni Azure Event Hubs sağlar. | Yes | 
+Azure Event Hubs Veri Göndereni | Bu kaynaklara erişim Azure Event Hubs sağlar. | Yes | 
+Azure Kubernetes Service Küme Yöneticisi Rolü | Küme yöneticisi kimlik bilgisi eylemlerini listele. | Yes | 
+Azure Kubernetes Service Kümesi Kullanıcı Rolü | Küme kullanıcı kimlik bilgisi eylemlerini listele. | Yes | 
+Azure Haritalar Veri Okuyucusu (Önizleme) | Azure Haritalar hesabından eşlemeyle ilgili verileri okuma erişimi sağlar. | No | 
+Azure Service Bus Veri Sahibi | Azure sanal ağ kaynaklarına tam Service Bus sağlar. | Yes | 
+Azure Service Bus Veri Alıcısı | Azure sanal ağ kaynaklarına erişim Service Bus sağlar. | Yes | 
+Azure Service Bus Veri Göndereni | Azure sanal ağ kaynaklarına Service Bus sağlar. | Yes | 
+Azure Stack Kayıt Sahibi | Kayıtlarınızı yönetmenize Azure Stack sağlar. | Yes | 
+Yedekleme Katkıda Bulunanı | Yedekleme hizmetini yönetmenize olanak sağlar, ancak kasa oluşturamanıza ve başkalarına erişim veresiniz | Yes | 
+Yedekleme Operatörü | Yedeklemenin kaldırılması, kasa oluşturma ve başkalarına erişim verme dışında yedekleme hizmetlerini yönetmenize olanak sağlar | Yes | 
+Yedekleme Okuyucusu | Yedekleme hizmetlerini görüntüleme, ancak değişiklik yapma | No | 
+Faturalama Okuyucusu | Faturalama verilerine okuma erişimine izin verir | No | 
+BizTalk Katılımcısı | BizTalk hizmetlerini yönetmenize olanak sağlar, ancak bu hizmetlere erişmenizi sağlar. | Yes | 
+Blok Zinciri Üyesi Düğüm Erişimi (Önizleme) | Blok Zinciri Üyesi düğümlerine erişime izin verir | Yes | 
+Şema Katkıda Bulunanı | Şema tanımlarını yönetebilir, ancak bunları atayamaz. | Yes | 
+Şema İşleci | Mevcut yayımlanmış şemaları atayamaz, ancak yeni şemalar oluşturamaz. NOT: Bu yalnızca atama kullanıcı tarafından atanan yönetilen kimlikle yapılırsa çalışır. | Yes | 
+CDN Uç Nokta Katkıda Bulunanı | Uç CDN yönetebilir, ancak diğer kullanıcılara erişim izni vere değildir. | Yes | 
+CDN Uç Nokta Okuyucusu | Uç CDN görünümünde değişiklik yapabilirsiniz. | No | 
+CDN Profil Katkıda Bulunanı | Kullanıcı CDN uç noktalarını yönetebilir, ancak diğer kullanıcılara erişim izni vere değildir. | Yes | 
+CDN Profil Okuyucusu | Profiller CDN uç noktalarını görüntüleme, ancak değişiklik yapmama. | No | 
+Klasik Ağ Katılımcısı | Klasik ağları yönetmenize izin verir, ancak bu ağlara erişebilirsiniz. | Yes | 
+Klasik Depolama Hesabı Katkıda Bulunanı | Klasik depolama hesaplarını yönetmenize olanak sağlar, ancak bu hesaplara erişmenizi sağlar. | Yes | 
+Klasik Depolama Hesap Anahtarı İşleci Hizmet Rolü | Klasik Depolama Hesap Anahtarı İşleçleri Klasik Hesaplarda anahtarları listeleye ve yeniden Depolama izin verilir | Yes | 
+Klasik Sanal Makine Katılımcısı | Klasik sanal makineleri yönetmenize olanak sağlar, ancak bu sanal makinelere erişmenizi değil, bunların bağlı olduğu sanal ağı veya depolama hesabını yönetmenizi sağlar. | Yes | 
+Bilişsel Hizmetler Katkıda Bulunanı | Bilişsel Hizmetler anahtarları oluşturmanızı, okumanızı, güncelleştirmenizi, silmenizi ve yönetmenizi sağlar. | Yes | 
+Bilişsel Hizmetler Veri Okuyucusu (Önizleme) | Bilişsel Hizmetler verilerini okumana olanak sağlar. | No | 
+Bilişsel Hizmetler Kullanıcısı | Bilişsel Hizmetler'in anahtarlarını okuma ve listelemenizi sağlar. | No | 
+Cosmos DB Hesabı Okuyucusu Rolü | Azure veritabanı Cosmos verilerini okuyabilir. Azure veritabanı hesaplarını yönetmek için bkz. DocumentDB Cosmos Katkıda Bulunanı. | No | 
+Cosmos DB İşleci | Azure veritabanı Cosmos yönetmenize olanak sağlar, ancak bu hesaplarda verilere erişmenizi sağlar. Hesap anahtarlarına ve bağlantı dizelerine erişimi önler. | Yes | 
+CosmosBackupOperator | Bir hesap için Cosmos DB veritabanı veya kapsayıcı için geri yükleme isteği gönderebilirsiniz | Yes | 
+Maliyet Yönetimi Katkıda Bulunanı | Maliyetleri görüntüleme ve maliyet yapılandırmasını yönetme (bütçeler, dışarı aktarmalar gibi) | Yes | 
+Maliyet Yönetimi Okuyucusu | Maliyet verilerini ve yapılandırmasını (bütçeler, dışarı aktarmalar gibi) görüntüleme | No | 
+Data Box Katkıda Bulunanı | Diğer kullanıcılara erişim vermek Data Box hizmet kapsamındaki her şeyi yönetmenize olanak sağlar. | Yes | 
+Data Box Okuyucu | Sipariş veya sipariş Data Box ve başkalarına erişim verme dışında, hizmet hizmet yönetiminizi yönetmenize olanak sağlar. | No | 
+Data Factory Katkıda Bulunanı | Veri fabrikalarının yanı sıra alt kaynakları da oluşturun ve yönetin. | Yes | 
+Data Lake Analytics Geliştirici | Kendi işlerinizi göndermenize, izlemenize ve yönetmenize olanak sağlar, ancak hesap oluşturmanızı veya Data Lake Analytics sağlar. | Yes | 
+Veri Temizleme | Analiz verilerini temizlebilirsiniz | Yes | 
+DevTest Labs Kullanıcısı | Sanal makinelerinizi sanal makinenize bağlamanıza, başlatmanıza, yeniden başlatmanıza ve kapatmanıza olanak Azure DevTest Labs. | Yes | 
+DNS Bölgesi Katkıda Bulunanı | Dns bölgelerini ve kayıt kümelerini Azure DNS ancak erişime sahip olanları denetlemenizi sağlar. | Yes | 
+DocumentDB Hesabı Katkıda Bulunanı | Azure veritabanı Cosmos yönetebilir. Azure Cosmos DB eski adı DocumentDB'dir. | Yes | 
+EventGrid EventSubscription Katkıda Bulunanı | EventGrid olay aboneliği işlemlerini yönetmenize olanak sağlar. | Yes | 
+EventGrid EventSubscription okuyucusu | EventGrid olay aboneliklerini okumanızı sağlar. | No | 
+HDInsight küme operatörü | HDInsight küme yapılandırmasını okuyup değiştirmenize izin verir. | Yes | 
+HDInsight etki alanı Hizmetleri Katılımcısı | hdınsight için gereken etki alanı hizmetleri ile ilgili işlemleri okuyabilir, oluşturabilir, değiştirebilir ve silebilir Kurumsal Güvenlik Paketi | Yes | 
+Intelligent Systems hesabı Katılımcısı | Akıllı sistem hesaplarını yönetmenizi sağlar ancak onlara yönelik erişimleri vermez. | Yes | 
+Katkıda bulunan Key Vault | Anahtar kasalarını yönetmenize izin verir, ancak bunlara erişim sağlamaz. | Yes | 
+Laboratuvar Oluşturucu | Azure Laboratuvar hesaplarınız kapsamında yönetilen Laboratuvarlarınızı oluşturmanıza, yönetmenize ve silmenize olanak sağlar. | Yes | 
+Log Analytics Katkıda Bulunan | Log Analytics katkı, tüm izleme verilerini okuyabilir ve izleme ayarlarını düzenleyebilir. İzleme ayarlarını düzenlediğinizde VM 'lere VM uzantısının eklenmesi dahildir; Azure Depolama günlüklerin toplanmasını yapılandırabilmek için depolama hesabı anahtarlarını okuma; Otomasyon hesapları oluşturma ve yapılandırma; çözümler ekleme; ve Azure tanılama 'yı tüm Azure kaynaklarında yapılandırma. | Yes | 
+Log Analytics Okuyucusu | Log Analytics okuyucu tüm izleme verilerini görüntüleyip arayabilir ve tüm Azure kaynaklarında Azure tanılama 'nın yapılandırılmasını görüntüleme dahil olmak üzere izleme ayarlarını görüntüleyebilir. | No | 
+Mantıksal uygulama Katılımcısı | Mantıksal uygulamaları yönetmenize izin verir, ancak bunlara erişimi değiştirmeyin. | Yes | 
+Logic App Işleci | Logic Apps 'i okumanızı, etkinleştirmenizi ve devre dışı bırakmanızı sağlar, ancak bunları düzenleyemez veya güncelleştiremez. | Yes | 
+Yönetilen uygulama Işletmeni rolü | Yönetilen uygulama kaynakları üzerinde işlemleri okuyup gerçekleştirmenize olanak tanır | Yes | 
+Yönetilen uygulamalar okuyucusu | Yönetilen bir uygulamadaki kaynakları okumanızı ve JıT erişimi isteğinizi yapmanızı sağlar. | No | 
+Yönetilen kimlik Katılımcısı | Kullanıcı tarafından atanan kimlik oluşturma, okuma, güncelleştirme ve silme | Yes | 
+Yönetilen kimlik Işleci | Kullanıcı tarafından atanan kimliği okuma ve atama | Yes | 
+Yönetim grubu Katılımcısı | Yönetim grubu katılımcısı rolü | Yes | 
+Yönetim grubu okuyucusu | Yönetim grubu okuyucusu rolü | No | 
+Katkıda bulunan izleniyor | Tüm izleme verilerini okuyabilir ve izleme ayarlarını düzenleyebilir. Ayrıca bkz. Azure Izleyici ile roller, izinler ve güvenlik ile çalışmaya başlama. | Yes | 
+Ölçümleri izleme Publisher | Azure kaynaklarında ölçüm yayımlamaya izin vermez | Yes | 
+İzleme okuyucusu | Tüm izleme verilerini okuyabilir (ölçümler, Günlükler vb.). Ayrıca bkz. Azure Izleyici ile roller, izinler ve güvenlik ile çalışmaya başlama. | No | 
+Ağ Katılımcısı | Ağları yönetmenizi sağlar ancak onlara yönelik erişimleri vermez. | Yes | 
+Yeni relik APM hesabı Katılımcısı | New Relic Application Performance Management hesaplarını ve uygulamaları yönetmenize izin verir, ancak bunlara erişimi kalmaz. | Yes | 
+Okuyucu ve veri erişimi | Her şeyi görüntülemenize izin verir, ancak bir depolama hesabını veya kapsanan kaynağı silmenize veya oluşturmanıza izin vermez. Ayrıca depolama hesabı anahtarlarına erişim aracılığıyla bir depolama hesabında bulunan tüm verilere okuma/yazma erişimi de sağlar. | Yes | 
+Katkıda bulunan Redis Cache | Redsıs önbellekler yönetmenize izin verir, ancak bunlara erişimi olmaz. | Yes | 
+Kaynak Ilkesi katılımcısı (Önizleme) | Önizle Kaynak ilkesi oluşturma/değiştirme, destek bileti oluşturma ve kaynakları/hiyerarşiyi okuma haklarıyla EA 'dan Kullanıcı geri alma. | Yes | 
+Zamanlayıcı Iş koleksiyonları Katılımcısı | Zamanlayıcı iş koleksiyonlarını yönetmenizi sağlar, ancak bunlara erişimi kalmaz. | Yes | 
+Katkıda bulunan Arama Hizmeti | Arama hizmetlerini yönetmenize izin verir, ancak bunlara erişim izni vermez. | Yes | 
+Güvenlik Yöneticisi | Yalnızca güvenlik merkezi 'nde: güvenlik ilkelerini görüntüleyebilir, güvenlik durumlarını görüntüleyebilir, güvenlik ilkelerini düzenleyebilir, uyarıları ve önerileri görüntüleyebilir, uyarıları ve önerileri kapatabilir | Yes | 
+Güvenlik Yöneticisi (eski) | Bu eski bir roldür. Lütfen bunun yerine Güvenlik Yöneticisi 'ni kullanın | Yes | 
+Güvenlik okuyucusu | Yalnızca güvenlik merkezi 'nde: önerileri ve uyarıları görüntüleyebilir, güvenlik ilkelerini görüntüleyebilir, güvenlik durumlarını görüntüleyebilir, ancak değişiklik yapamaz | No | 
+Site Recovery Katkıda Bulunanı | Kasa oluşturma ve rol atama dışında Site Recovery hizmetini yönetmenizi sağlar | Yes | 
+Site Recovery Operatörü | Yük devretme ve yeniden çalışma ve diğer Site Recovery yönetim işlemlerini gerçekleştirmenize izin verir | Yes | 
+Site Recovery Okuyucusu | Site Recovery durumunu görüntülemenize izin verir, ancak diğer yönetim işlemlerini gerçekleştirmenize izin vermez | No | 
 Uzamsal bağlayıcı hesabı Katılımcısı | Hesabınızdaki uzamsal bağlantıları yönetmenizi sağlar, ancak onları silmez | Yes | 
 Uzamsal bağlayıcı hesap sahibi | Hesabınızdaki uzamsal bağlayıcıları, silme dahil olmak üzere yönetmenizi sağlar | Yes | 
 Uzamsal bağlayıcı hesap okuyucu | Hesabınızdaki uzamsal Tutturucuların özelliklerini bulmanıza ve okumanızı sağlar | No | 

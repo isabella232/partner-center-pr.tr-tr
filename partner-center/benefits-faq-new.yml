@@ -11,11 +11,11 @@ metadata:
   ms.localizationpriority: medium
   ms.custom: 
   ms.openlocfilehash: d4cc278a77fda7e09a13b67fe305e87b581ec3bf
-  ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+  ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
   ms.translationtype: MT
   ms.contentlocale: tr-TR
-  ms.lasthandoff: 09/09/2021
-  ms.locfileid: "123961184"
+  ms.lasthandoff: 09/13/2021
+  ms.locfileid: "126248314"
 title: Microsoft İş Ortağı Ağı avantajları SSS
 summary: >
   **Uygun roller**: MPN iş ortağı Yöneticisi
@@ -156,7 +156,7 @@ sections:
 
       Özelliğin nasıl çalıştığı ve şirketinizin ihtiyaçlarına uygun olup olmadığına karar verme hakkında daha fazla bilgi edinmek için [Hesap birleştirme](merge-accounts.md) hakkındaki bilgileri gözden geçirin.
   - question: >
-      Şirket içinde ürün lisansları hakkında sorularımız İş Ortağı Merkezi. Bu konuda nereden yardım alalarız?
+      Şirket içinde ürün lisansları hakkında sorular İş Ortağı Merkezi. Bu konuda nereden yardım alalarız?
     answer: >
-      Yardım alamayacak [kaynaklara](https://partner.microsoft.com/support) yönelik bağlantılar İş Ortağı Merkezi veya gerekirse iş ortağı destek ekibimize bir bilet açmak için destek bölümünün Destek bölümüne gidebilirsiniz.
+      Yardım alamayacak [kaynaklara](https://partner.microsoft.com/support) yönelik bağlantılar İş Ortağı Merkezi veya gerekirse iş ortağı destek ekibimize bir bilet açmak için bu bağlantının Destek bölümüne gidebilirsiniz.
 additionalContent: "\n## <a name=\"next-steps\"></a>Sonraki adımlar\n   - [Microsoft İş Ortağı Ağı avantajlarınızı keşfedin](mpn-find-benefits.md)\n   - [MPN teklifini yenileme](renew-mpn-offers.md)"
