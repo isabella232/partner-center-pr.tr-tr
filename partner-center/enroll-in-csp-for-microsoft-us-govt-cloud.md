@@ -10,12 +10,12 @@ ms.author: mowrim
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
 ms.date: 10/05/2020
-ms.openlocfilehash: 2cdcf88d765ab37200e0e62bdbff2bbc8d26027d
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.openlocfilehash: 78aab2c29a9c01b615112f08aba2f724c1d54812
+ms.sourcegitcommit: 847ad384d44a5a673791cb2950af02225d8174c9
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960155"
+ms.lasthandoff: 09/15/2021
+ms.locfileid: "127828258"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program-for-microsoft-cloud-for-us-government"></a>Microsoft Cloud for US Government için Bulut Çözümü Sağlayıcısı programına kaydolma
 
@@ -44,7 +44,7 @@ bir iş ortağı merkezi hesabı oluşturmak ve Microsoft Cloud for US Governmen
 
 ### <a name="step-1---create-a-partner-center-account-for-microsoft-cloud-for-us-government"></a>1. adım-Microsoft Cloud for US Government için bir Iş Ortağı Merkezi hesabı oluşturma
 
-1. Kayıt işlemini [buradan](https://partnercenter.microsoft.com/register/resellerusgjoinnow)başlatın.
+1. [Microsoft Cloud for US Government! Için Iş Ortağı Merkezi 'Ne hoş geldiniz](https://partnercenter.microsoft.com/register/resellerusgjoinnow)'de kayıt işlemini başlatın.
 
 2. Microsoft Cloud for US Government için kuruluşunuzun Azure AD kiracısının genel yönetici kimlik bilgileriyle oturum açın. Kuruluşunuzda bu portal için bir hesap yoksa, [Microsoft kamu bulutu doğrulama formunu](https://azuregov.microsoft.com/csp)tamamlayarak bir tane isteyebilirsiniz.
 
@@ -59,7 +59,7 @@ bir iş ortağı merkezi hesabı oluşturmak ve Microsoft Cloud for US Governmen
 
 ### <a name="step-3---sign-the-reseller-agreement-for-microsoft-cloud-for-us-government"></a>3. adım-Microsoft Cloud for US Government için satıcı sözleşmesini Imzalama
 
-1. uygulama onay e-postasında belirtilen bağlantıyı kullanarak Microsoft Cloud for US Government için iş ortağı merkezi 'nde oturum açın.
+1. uygulama onay e-postasında bağlantıyı kullanarak Microsoft Cloud for US Government için iş ortağı merkezi 'nde oturum açın.
 
 2. **Sözleşme** sayfasında, koşulları okuyun ve kabul ediyorsanız kabul et ' i seçin ve satıcı sözleşmesinin Microsoft Cloud for US Government için dijital olarak **imzalandevam edin** . Hesabınızı oluşturmak birkaç saat sürebilir. Microsoft Cloud for US Government için iş ortağı merkezi oturumunuzu kapatıp daha sonra tekrar oturum açabilirsiniz.
 
@@ -72,7 +72,7 @@ Microsoft Cloud for US Government, kamu uyumluluğu, güvenlik ve gizlilik stand
 
 1. üzerinde Microsoft Azure yönetici portalında oturum açın [https://portal.azure.us/](https://portal.azure.us/) .
 
-2. Yönetim Aracısı rolünü kuruluşunuzdaki uygun kullanıcılara atayın. Bunu yapmak için, bu kullanıcıları yerleşik **Adminagent** grubuna eklemeniz gerekir. bunun nasıl yapılacağı hakkında bilgi için, bkz. [Azure Active Directory grup üyelerini yönetme](/azure/active-directory/active-directory-groups-members-azure-portal) .
+2. Yönetim Aracısı rolünü kuruluşunuzdaki uygun kullanıcılara atayın. Bunu yapmak için, bu kullanıcıları yerleşik **Adminagent** grubuna eklemeniz gerekir. daha fazla bilgi için bkz. [Azure Active Directory grup üyelerini yönetme](/azure/active-directory/active-directory-groups-members-azure-portal) .
 
 ## <a name="connect-with-us"></a>Bize bağlanın
 

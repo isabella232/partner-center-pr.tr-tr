@@ -2,51 +2,54 @@
 title: Kullanılabilir ortak işlem fonlarını görüntüleme
 ms.topic: article
 ms.date: 08/10/2021
-description: Kazanılmış, talep edilen ve kalan ortak çalışma kredlerinizi görüntüleme, sona erme tarihlerini görüntüleme ve tutarsız miktarları mutabık kılma hakkında bilgi edinin.
+description: Kazanılan, talep edilen ve kalan ortak çalışma fonlarınızı görüntülemeyi, sona erme tarihlerini görüntülemeyi ve tutarsız tutarları muhtıra yapmayı öğrenin.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 951018812e8dbf8af4c47e6a6573c2c62e6be1dc
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.openlocfilehash: 6f70a4a30346c6ef82e36c414559da6e79a373e0
+ms.sourcegitcommit: 847ad384d44a5a673791cb2950af02225d8174c9
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123961394"
+ms.lasthandoff: 09/15/2021
+ms.locfileid: "127828377"
 ---
-# <a name="view-available-earned-claimed-and-remaining-co-op-funds"></a>Kullanılabilir kazanılan, talep edilen ve kalan ortak işlem fonlarını görüntüleyin
+# <a name="view-available-earned-claimed-and-remaining-co-op-funds"></a>Elde edilen, talep edilen ve kalan ortak çalışma fonlarını görüntüleme
 
-**Uygun roller**: teşvikleri admin | Teşvikleri kullanıcısı
+**Uygun roller:** Teşvik yöneticisi | Teşvikler kullanıcısı
 
-[Iş Ortağı Merkezi panosunda](https://partner.microsoft.com/dashboard/) (oturum açma gerekir) özenizlerinizi izleyebilir, izleyebilir ve mutabık hale getirebilirsiniz. Bu fonları görüntülemek için aşağıdaki yordamı kullanın.
+Teşvik işbirliği fonlarınızı İş Ortağı Merkezi panosunda [izleyebilir,](https://partner.microsoft.com/dashboard/) izleyebilir ve muuzlaştırabilirsiniz (oturum açma gereklidir). Bu fonlarını görüntülemek için aşağıdaki yordamı kullanın.
 
-## <a name="view-your-funds"></a>Fonlarınızı görüntüleyin
+## <a name="view-your-funds"></a>Fonlarınızı görüntüleme
 
-1. Azure AD hesabınızla (Şirket hesabı) [Iş Ortağı Merkezi panosunda](https://partner.microsoft.com/dashboard/) oturum açın ve özensiz rolünüzün uygun e-postasını yapın.
+1. Azure AD [İş Ortağı Merkezi (şirket](https://partner.microsoft.com/dashboard/) hesabı) veya teşvik rolünüz için uygun e-posta ile panoda oturum açın.
 
-2. Sol taraftaki Gezinti çubuğunda, **Programlar**' ı seçin ve ardından genişletilmiş program listesinden uygun özenk programını seçin.
+2. Sol gezinti çubuğunda Programlar'ı **ve** ardından genişletilmiş program listesinden uygun teşvik programını seçin.
 
-3. Program sayfasının en üstünde **talepleri görüntüle**' yi seçin.
+3. Program sayfasının üst kısmında Talepleri **görüntüle'yi seçin.**
 
-4. **Ortak op tarafından istenen** kutucuğun üzerindeki açılan listede, görmek istediğiniz kullanım süresini seçin. Bu işlem, seçili dönem için **ortak op kazanılan**, **ortak op** ve **kalan ortak op** tutarlarını görüntüler.
+4. Ortak çalışma talebi **kutucuğunun üzerindeki** açılan listeden, görmek istediğiniz kullanım dönemini seçin. Bu, Seçilen dönem **için Ortak çalışma kazanılmış,** Ortak çalışma talep **edilen** ve Kalan **ortak çalışma** miktarlarını görüntüler.
 
-5. Seçilen dönemin sona erme tarihi, **kalan ortak op** ekranı altında görünür.  
+5. Yeni talep gönderimi için son tarih, Kalan ortak **çalışma ekranı altında** görünür.  
 
-6. Seçili dönem için gönderilen tüm talepleri görüntülemek için sayfanın en altına gidin.
+6. Seçilen dönem için gönderilen tüm talepleri görüntülemek için sayfanın en altına kaydırın.
 
-Özette görüntülenen tutarlarda tutarsızlıklar olduğunu düşünüyorsanız, işlem raporunu önceki dönemden indirebilirsiniz. Bu rapor, seçili kullanım dönemi için kazanılan ortak işlem fonlarını belirlemenize yardımcı olur. İşlem raporlarını indirmek veya kalan ortak op tutarının doğru olduğundan emin olmak için gönderilen talepleri doğrulamak için bkz. [işlem geçmişi](./payout-statement.md#transaction-history).
+Özette görüntülenen tutarlarda tutarsızlıklar olduğunu inanıyorsanız, önceki dönemden işlem raporunu indirebilirsiniz. Bu rapor, seçilen kullanım dönemi için kazanılan ortak çalışma fonlarının miktarını belirlemenize yardımcı olur. İşlem raporlarını indirmek veya kalan ortak çalışma miktarının doğru olduğundan emin olmak için gönderilen talepleri doğrulamak için bkz. [İşlem geçmişi.](./payout-statement.md#transaction-history)
 
-## <a name="view-estimated-earnings-during-the-current-period"></a>Geçerli dönemde tahmini kazancı görüntüleme
-Geçerli kazanç dönemi için ortak işlem gelirleri, geçerli kazanç dönemi için arama döneminin başlamasından sonra ortak op yönetimi görünümünde görünmez. Geçerli kazanç dönemi için tahmini ortak op kazanmanıza bakmak için aşağıdaki yordamı kullanın:
+## <a name="view-estimated-earnings-during-the-current-period"></a>Geçerli dönem boyunca tahmini kazançları görüntüleme
+Geçerli kazanç dönemi için ortak çalışma kazançları, geçerli kazanç dönemi için talep döneminin başlangıcına kadar Ortak Çalışma Yönetimi görünümünde görünmez. Geçerli kazanç dönemine göre tahmini ortak iş kazançlarınızı görmek için aşağıdaki yordamı kullanın:
 
-### <a name="view-your-estimated-co-op-earnings-for-the-current-earning-period"></a>Geçerli kazanç dönemi için tahmini ortak op kazançlarını görüntüleyin
+### <a name="view-your-estimated-co-op-earnings-for-the-current-earning-period"></a>Geçerli kazanç dönemi için tahmini ortak iş kazançlarınızı görüntüleme
 
-1. **İşlem geçmişi** sayfanızda, geçerli kazanç dönemi için tarihleri seçin.
-2. Uygulama **türü** filtresi altında **ortak op**' ı seçin. Kazanç bilgileriniz görüntülenecektir.
-3. Bu verileri indirmek için **İndir** ' i seçin.
+1. İşlem **geçmişi sayfasında** geçerli kazanç döneminin tarihlerini seçin.
+2. Kazanç türü **filtresinin** altında Birlikte **çalışma'ya seçin.** Kazançlarınız görüntülenir.
+3. Bu **verileri indirmek** için İndir'i seçin.
 
-Miktarları mutabık kılma konusunda hala sorun yaşıyorsanız veya bazı ortak işlem fonları görünür değilse, bir destek bileti açabilirsiniz. Bunu yapmak için, sayfanın sağ üst köşesindeki soru işareti simgesini seçin ve ardından **teşvikleri**' ı seçin.
+### <a name="co-op-threshold"></a>İşbirliği eşiği
+Bir iş ortağının ortak kazançları, ortak operasyon kazanç dönemindeki eşik değerinin altında olursa, fon kullanma uygun olmaz ve fırsat sonunda ortak operasyon kazançlarını indirim olarak alır. Eşik değeri için program kılavuzuna bakın. 
+
+Tutarlarda mutabakat sağlarken sorun devam ediyorsanız veya bazı işbirliği fonlarını görünmüyorsa bir destek bileti açtırın. Bunu yapmak için sayfanın sağ üst köşesindeki soru işareti simgesini ve ardından Teşvikler'i **seçin.**
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
