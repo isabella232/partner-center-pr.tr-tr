@@ -8,12 +8,12 @@ author: vikramb
 ms.author: vikramb
 ms.localizationpriority: medium
 ms.date: 09/08/2021
-ms.openlocfilehash: a01fb06b346c3c24613d79872c67dbc9b7650e0a
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.openlocfilehash: 96106dd84d4889c9165daf41385d1092361101c4
+ms.sourcegitcommit: 90c87bd5e63a8af932ece5696267ea715fea6a01
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126248456"
+ms.lasthandoff: 09/16/2021
+ms.locfileid: "127900449"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>iş ortağı satışları Bağlan (PSC) ile geçiş için iş ortağı merkezi 'nde (PC) ortak satış ile ilgili kılavuz
 
@@ -103,7 +103,7 @@ Kullanıcı geçiş tablosu aşağıdaki ayrıntılara sahiptir:
 - PSC iş ortağı hesabı-çalışanın PSC içinde ilişkilendirildiği hesap
 - PSC Kullanıcı rolü-PSC içinde öğesine atanan üç rolden biridir.
 - BILGISAYAR MPN konumu-kullanıcıya ilgili Iş Ortağı Merkezi (PC) rolleri verilecek konum. PSC iş ortağı hesabı MPN, izin atamak üzere Iş Ortağı Merkezi 'nde eşdeğer MPN konumunu bulmak için kullanılır. Kuruluşun tamamı, vOrg MPN KIMLIĞINI gösterir.
-- BILGISAYAR Kullanıcı rolü-çalışanlar, PSC Kullanıcı rollerine göre rollere atanır. PSC 'deki yöneticiye, Iş Ortağı Merkezi 'nde referanslar yönetici rolleri atanır. Satıcı, Iş Ortağı Merkezi 'nde başvuru Kullanıcı rolüne atanır. Iş Ortağı Merkezi rolleri ve bu rollerin bulunduğu kullanıcıların Iş [Ortağı Merkezi 'nde](permissions-overview.md#manage-referrals) neler yapabileceğini öğrenin
+- BILGISAYAR Kullanıcı rolü-çalışanlar, PSC Kullanıcı rollerine göre rollere atanır. PSC 'deki yöneticiye, Iş Ortağı Merkezi 'nde referanslar yönetici rolleri atanır. Satıcı, Iş Ortağı Merkezi 'nde başvuru Kullanıcı rolüne atanır. İş Ortağı Merkezi rolleri ve bu rollere sahip olan kullanıcılar, iş ortağı [Merkezi 'nde çalışması gereken bir şirketin kullanıcılarına Kullanıcı rolleri ve Izinleri atama](permissions-overview.md#manage-referrals)konusunun Iş Ortağı Merkezi 'Nde Iş Ortağı Merkezi 'nde neler yapabileceğini öğrenin.
 - bilgisayar AAD kiracısı-kullanıcıların iş ortağı merkezi 'nde atandığı Microsoft Azure Active Directory (Azure AD) kiracısı
 - Durum-geçiş durumunun üç olası durumu vardır
     - **Geçirilmedi** -kullanıcıya hiçbir Iş ortağı merkezi başvuru rolü atanmamış
