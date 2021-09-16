@@ -14,7 +14,7 @@ ms.sourcegitcommit: 847ad384d44a5a673791cb2950af02225d8174c9
 ms.translationtype: MT
 ms.contentlocale: tr-TR
 ms.lasthandoff: 09/16/2021
-ms.locfileid: "127877011"
+ms.locfileid: "127886278"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>Bulut Çözümü Sağlayıcısı programına kaydolma
 
@@ -73,9 +73,9 @@ Doğrudan fatura iş ortağı olarak, müşteriniz ve Microsoft ile uç uza bir 
 
 |**Gereksinim**|  **Açıklama**  |
 |--------------------------------|--------------------------------------------------------------|
-|**MPN Kimliği**   |Satış yapmak istediğiniz Microsoft İş Ortağı Ağı mpN kimliği ve mpn kimliği için etkin üyelik.    |
+|**MPN Kimliği**   |Satış yapmak istediğiniz Microsoft İş Ortağı Ağı mpN kimliği ve mpn kimliği için etkin bir üyelik.    |
 |**Onay anahtarı**   |Kuruluş adına yasal anlaşmaları kabul etme ve imzalama yetkisi.|
-|**Destek**   |Müşterilerinize ilk bulut ürünü desteği düzeyini sağlama olanağı. <br>Gereksinimlerinize bağlı olarak, İş Ortakları için Gelişmiş Destek (ASfP) veya Premier Destek (PSfP) için Microsoft destek planı. [Destek planlarını karşılaştırın.](https://partner.microsoft.com/support/partnersupport)<br> ÖNEMLİ: Destek planı satın almadan önce kredi denetimi geçmelisiniz. Kredi denetiminizi tamamlasanız size e-posta iletiriz. |
+|**Destek**   |Müşterilerinize ilk bulut ürünü desteği düzeyini sağlama olanağı. <br>Gereksinimlerinize bağlı olarak, İş Ortakları için Gelişmiş Destek (ASfP) veya İş Premier Destek (PSfP) için Gelişmiş Destek planı. [Destek planlarını karşılaştırın.](https://partner.microsoft.com/support/partnersupport)<br> ÖNEMLİ: Destek planı satın almadan önce kredi denetimi geçmelisiniz. Kredi denetiminizi tamamlasanız size e-posta iletiriz. |
 |**Gelir gereksinimi**|Dolaylı kurumsal bayi olarak son 12 ay boyunca Bulut Çözümü Sağlayıcısı program yıllık geliri için en az 300.000 ABD doları karşılaması gerekir. İş ortakları, son 12 aylık gelirlerini gözden geçirerek İş Ortağı Merkezi.<br/>12 aylık geliri 300.000 ABD dolarını bulan satışlar Microsoft tarafından gözden geçirilecek ve doğrulanacak ve ek bilgi sağlamanız istenebilirsiniz. 300.000 ABD doları gelir gereksinimi bulut geliri temel alarak hesaplanır ve CSP'de kalıcı yazılımları dışlar.|
 |**Alacaklı hesaplar** |Müşteri faturalama ve sağlamayı yönetmek için kurumsal altyapı.|
 |**Öneri**|             |
@@ -97,7 +97,7 @@ Doğrudan fatura iş Bulut Çözümü Sağlayıcısı dolaylı kurumsal bayiye g
 
 ## <a name="csp-regional-markets-and-currencies"></a>CSP bölgesel pazarları ve para birimleri
 
-Pazarınızı belirleyen şirketinizin konumudur. Pazarınız, CSP tekliflerini satabileceğiniz bölgeleri ve/veya ülkeleri kapsar. Bkz. [Bulut Çözümü Sağlayıcısı konumları ve para birimleri için](regional-authorization-overview.md) bölgesel pazarları ve para birimlerini programla.
+Pazarınızı belirleyen şirketinizin konumudur. Pazarınız, CSP tekliflerini satabileceğiniz bölgeleri ve/veya ülkeleri kapsar. Pazar Bulut Çözümü Sağlayıcısı para birimleri için bölgesel [pazarlar ve](regional-authorization-overview.md) para birimleri hakkında bilgi için bkz. program bölgesel pazarları ve para birimleri.
 CSP işletmesi [için yeni bir konum eklemek için Önkoşullar'a okuduğundan emin olun.](manage-locations.md)
 
 ## <a name="provide-partner-registration-id-number-for-specific-countries"></a>Belirli ülkeler için iş ortağı kayıt kimliği numarası sağlama
