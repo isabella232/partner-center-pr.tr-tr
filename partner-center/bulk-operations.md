@@ -1,6 +1,6 @@
 ---
-title: başvurularda Excel/csv dosyaları aracılığıyla ortak satış fırsatlarını toplu dışa aktarma ve içeri aktarma
-description: iş ortağı merkezi 'nde Excel (CSV) dosyalarını kullanarak ortak satış fırsatlarını indirme, oluşturma veya güncelleştirme hakkında bilgi edinin
+title: Referanslar'da csv dosyalarını kullanarak ortak satış fırsatlarını toplu Excel ve içeri aktarma
+description: Excel (CSV) dosyalarını kullanarak ortak satış fırsatlarını indirmeyi, oluşturmayı veya güncelleştirmeyi İş Ortağı Merkezi
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-referrals
@@ -9,79 +9,79 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 09/08/2021
-ms.openlocfilehash: eb0f85eab9340d08a1f121c27f9a1956f5b71635
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.openlocfilehash: 3b67050046925a549584b17e051847c4bf297c9b
+ms.sourcegitcommit: 847ad384d44a5a673791cb2950af02225d8174c9
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126248299"
+ms.lasthandoff: 09/16/2021
+ms.locfileid: "127876773"
 ---
-# <a name="bulk-operations-for-co-sell-opportunities-using-comma-separated-value-csv-files"></a>Virgülle ayrılmış değer (CSV) dosyaları kullanan ortak satış fırsatları için toplu işlemler
+# <a name="bulk-operations-for-co-sell-opportunities-using-comma-separated-value-csv-files"></a>Virgülle ayrılmış değer (CSV) dosyalarını kullanarak ortak satış fırsatları için toplu işlemler
 
-**Uygun roller**: başvuru Yöneticisi | Başvuru kullanıcısı
+**Uygun roller:** Referans yöneticisi | Referans kullanıcısı
 
-İş Ortağı Merkezi'ndeki toplu işlemler şirketinizin ortak satış fırsatı verilerini dışarı ve içeri aktarmasına yardımcı olur. **Ortak satış fırsatları** sayfasına gidin ve sayfa başlığının sağ üst kısmındaki **içeri aktar** ve **dışarı aktar** bağlantılarını bulun. Hem **Referans yöneticisi** hem de **Referans Kullanıcısı** izinleri olan kullanıcılar bu işlevselliği kullanabilir.
+İş Ortağı Merkezi'ndeki toplu işlemler şirketinizin ortak satış fırsatı verilerini dışarı ve içeri aktarmasına yardımcı olur. Sayfa başlığı **başlığının sağ üst**  kısmında  içeri ve dışarı aktarma bağlantılarını bulmak için ortak satış fırsatları sayfasına gidin. Hem **Referans yöneticisi** hem de **Referans Kullanıcısı** izinleri olan kullanıcılar bu işlevselliği kullanabilir.
 
 > [!IMPORTANT]
-> Toplu içeri aktarma aracılığıyla gerçekleştirilen oluşturma/güncelleştirme eylemleri geri alınamaz. Çok fazla sayıda kaydı değiştirir veya oluştururken dikkatli olun. Satış anlaşması oluşturulduktan sonra alanların yalnızca bir alt kümesi değiştirilebilir. **Satış anlaşması Reddedildi/Süresi Doldu/Kazanıldı/Kaybedildi gibi bir son duruma ulaştığında hiçbir eyleme izin verilmez.**
+> Toplu içeri aktarma aracılığıyla yapılan oluşturma/güncelleştirme eylemleri geri alınamaz. Çok fazla sayıda kaydı değiştirir veya oluştururken dikkatli olun. Satış anlaşması oluşturulduktan sonra alanların yalnızca bir alt kümesi değiştirilebilir. **Satış anlaşması Reddedildi/Süresi Doldu/Kazanıldı/Kaybedildi gibi bir son duruma ulaştığında hiçbir eyleme izin verilmez.**
 
 ## <a name="export-co-sell-opportunities"></a>Ortak satış fırsatlarını dışarı aktarma
 
-Aşağıdaki bilgiler dışa aktarma işlevini açıklar:
+Aşağıdaki bilgiler dışarı aktarma işlevini açıklar:
 
-- **Dışarı aktar** düğmesine tıklayarak **en fazla 5000 kaydı** dışarı aktarabilirsiniz.
-- İndirilen anlaşmalar erişim düzeylerinizi temel alır. Başvuru yöneticileri ve başvuru kullanıcıları, kapsamlarına bağlı olarak farklı sonuçlar alabilir ve ekipteki ekip üyeleri olarak dahil edebilir. [Başvurular izinleri](permissions-overview.md#manage-referrals)hakkında daha fazla bilgi edinin.
-- Dışa aktarma işlevi, ortak satış fırsatları sayfasında geçerli sekmeyi ve uygulanan filtreleri hesaba göre alır.
-- Uygulanan filtreleri temel alan tüm verileri içeren bir CSV dosyası oluşturulacaktır.
-- Kayıtların indirilmesi bir dakika kadar sürebilir.
-- İndirme eyleminin tamamlanmasını beklemeniz gerekmez. Iş Ortağı Merkezi 'nde diğer sayfalara gitseniz bile, dışa aktarma işlevi tamamlandıktan hemen sonra dosya indirilir.
-- İndirilen dosyayı, işlem ayrıntılarını değiştirmek ve kayıtları güncelleştirmek üzere karşıya yüklemek için yeniden kullanabilirsiniz.
+- Dışarı aktar düğmesine **tıklayarak en fazla 5000** kaydı dışarı **aktarabilirsiniz.**
+- İndirilen anlaşmalar, erişim düzeylerinize göre olacaktır. Referans yöneticileri ve Referans kullanıcıları, anlaşmalara takım üyeleri olarak dahil edildiklerine ve kapsamına göre farklı sonuçlar elde ediyor olabilir. Referans izinleri hakkında [daha fazla bilgi.](permissions-overview.md#manage-referrals)
+- Dışarı aktarma işlevi, ortak satış fırsatları sayfasındaki geçerli sekmeyi ve uygulanmış filtreleri hesaba katmayı alır.
+- Uygulanan filtreleri temel alan tüm verilerin bulunduğu bir CSV dosyası oluşturulur.
+- Kayıtları indirmek bir dakika kadar zaman alır.
+- İndirme eyleminin tamamlandıktan sonra tamamlanır. Uygulama içinde diğer sayfalara İş Ortağı Merkezi bile, dışarı aktarma işlevi tamamlandıktan hemen sonra dosya indirilir.
+- Anlaşma ayrıntılarını değiştirmek ve tüm kayıtları güncelleştirmek için karşıya yüklemek üzere indirilen dosyayı yeniden kullanabilirsiniz.
 
 ## <a name="import-co-sell-opportunities"></a>Ortak satış fırsatlarını içeri aktarma
 
-- İçeri aktarma işlevini kullanarak **en fazla 1000 kayıt** oluşturabilir veya güncelleyebilirsiniz.
-- Şablonu, Iş ortağı merkezindeki Içeri aktarma sayfasından indirerek sıfırdan oluşturabilirsiniz.
-- Ayrıca, var olan kayıtları indirmek ve güncelleştirmek için dışarı aktarma işlevini de kullanabilirsiniz.
-- Dosyada 1000 'den fazla kayıt varsa, işlem işlenemiyor.
-- Dosya işlendikten sonra, oluşturulan, güncellenen ve işlenmemiş başvuruların sayısına sahip bir Özet, son işlem dosyası kartında gösterilir.
-- İşlenen kayıtların ayrıntılarını indirebilir, hataları giderebilir ve önceki çalıştırmada başarısız olan kayıtları oluşturmak veya güncelleştirmek için aynı dosyayı karşıya yükleyebilirsiniz. **Önceki çalıştırmada başarısız olan düzeltilen kayıtları karşıya yüklemeden önce dosyadaki tüm başarılı kayıtları kaldırın.**
-- Daha fazla çözüm eklemek için, çözüm 1 ' in yanına ek sütunlar ekleyin ve sütun adını çözüm X olarak kullanın; burada X, anlaşma içindeki çözümün numarasını temsil eder. Örneğin, çözüm 2, çözüm 3.
-- Bir başa 50 çözüm ekleyebilirsiniz.
-- Daha fazla takım üyesi eklemek için, takım üyesi 1 ' in yanına ek sütunlar ekleyin ve sütun adını takım üyesi X olarak kullanın; burada X, anlaşma içindeki takım üyesinin numarasını temsil eder. Örneğin, takım üyesi 2, takım üyesi 3.
-- Bir anlaşma için en fazla 50 takım üyesi ekleyebilirsiniz.
+- İçeri aktarma işlevini kullanarak en **fazla 1000 kayıt** oluşturabilir veya güncelleştirin.
+- Şablonu, uygulama sayfasındaki İçeri Aktar sayfasından indirerek sıfırdan İş Ortağı Merkezi.
+- Var olan kayıtları indirmek ve güncelleştirmek için Dışarı Aktarma işlevini de kullanabilirsiniz.
+- Dosyada 1000'den fazla kayıt varsa işlenemez.
+- Dosya işlendikten sonra, oluşturulan, güncelleştirilen ve işlenmemiş olan referansların sayısının bir özeti son işlem dosyası kartında gösterilir.
+- İşlenen kayıtların ayrıntılarını indirebilir, hataları düzeltebilir ve önceki çalıştırmada başarısız olan kayıtları oluşturmak veya güncelleştirmek için aynı dosyayı karşıya yükleyebilirsiniz. **Önceki çalıştırmada başarısız olan düzeltilmiş kayıtları karşıya yüklemeden önce dosyadan tüm başarılı kayıtları kaldırın.**
+- Daha fazla çözüm eklemek için çözüm 1'in yanına ek sütunlar ekleyin ve sütun adını Çözüm X olarak kullanın. Burada X, anlaşmadaki çözüm sayısını temsil eder. Örneğin, Çözüm 2, Çözüm 3.
+- Bir anlaşma için en fazla 50 çözüm ekleme.
+- Daha fazla takım üyesi eklemek için, Takım üyesi 1'in yanına ek sütunlar ekleyin ve sütun adını Takım üyesi X olarak kullanın; burada X, anlaşmadaki takım üyesinin sayısını temsil eder. Örneğin, Takım üyesi 2, Takım üyesi 3.
+- Anlaşma için en fazla 50 ekip üyesi ekleme.
 
 > [!NOTE]
-> İşlemin tamamlanmasını beklemeniz gerekmez. İşlenen son dosyanın ayrıntıları, işlem tamamlandıktan sonra indirilecektir. **1000 kayıtla dosya yüklüyorsanız, bu işlem 10 dakikaya kadar sürebilir.**
+> İşlemenin tamamlandıktan sonra tamamlanır. İşlem tamamlandıktan sonra son işlenen dosyanın ayrıntıları indirilebilir. **1000 kaydı olan dosyaları karşıya yüklerken bu süre 10 dakika kadar sürebilir.**
 
 > [!IMPORTANT]
-> Tüm yönergeleri dikkatle okuyun ve Iş Ortağı Merkezi 'nde CSV dosyalarını kullanarak anlaşmalar oluşturmadan veya güncelleştirmeden önce aşağıdaki tablodaki her bir sütunun biçimini denetleyin.
+> Tüm yönergeleri dikkatle okuyun ve aşağıdaki tabloda yer alan her sütunun biçimini, aşağıdaki tabloda yer alan CSV dosyalarını kullanarak satış anlaşmalarını oluşturmadan veya güncelleştirmeden İş Ortağı Merkezi.
 
-|**Sütun adı**|**Zorunlu mu?**|**Açıklama**|**Örnek değer (ler)**|
+|**Sütun adı**|**Zorunlu mu?**|**Açıklama**|**Örnek değer**|
 |-----|:-----|:---------|:---|
-Hatalar|No|Başvurular için oluşturma/güncelleştirme işlemleriyle ilgili varsa hatalar bu sütuna dahil edilir. Birden çok hata varsa, bunların hepsi noktalı virgülle ayrılmış olarak listelenir.|Zorunlu alan çözümü 1 eksik|
-Katılım KIMLIĞI|No|Katılım KIMLIĞI, Microsoft Iş Ortağı Merkezi başvuruları sistemi tarafından oluşturulur. Yeni başvuru oluşturma için gerekli değildir. Bir kaydı güncelleştiriyorsanız, var olan katılım KIMLIĞINI kullanabilirsiniz.|f7eaae47-0b84-4ac4-b4ea-5b2587d42cee
-Referans kimliği|No|Başvuru KIMLIĞI, Microsoft Iş Ortağı Merkezi başvuruları sistemi tarafından oluşturulur. Yeni başvuru oluşturma için gerekli değildir. Mevcut bir kaydı güncelleştiriyorsanız, bunu referans KIMLIĞIYLE doldurabilirsiniz.|ebacdkdc-0b84-4ac4-B4EA-5b2587d42cee
-Anlaşma adı|Yes|Başvurunuz için anlaşma için kolay ad.|UK yay
+Hatalar|No|Başvurulara yönelik w.r.t oluşturma/güncelleştirme işlemleriyle ilgili hatalar bu sütuna dahil edilir. Birden çok hata varsa bunların hepsi noktalı virgülle ayrılmış olarak listelenir.|Zorunlu alan Çözüm 1 eksik|
+Katılım Kimliği|No|Etkileşim kimliği, Microsoft İş Ortağı Merkezi sistem tarafından oluşturulur. Yeni referans oluşturma için gerekli değildir. Bir kaydı güncelleştiriyorsanız mevcut katılım kimliğini kullanabilirsiniz.|f7eaae47-0b84-4ac4-b4ea-5b2587d42cee
+Referans kimliği|No|Referans kimliği, Microsoft'un İş Ortağı Merkezi sistemi tarafından oluşturulur. Yeni referans oluşturma için gerekli değildir. Mevcut bir kaydı güncelleştiriyorsanız referans kimliğiyle doldurun.|ebacdkdc-0b84-4ac4-b4ea-5b2587d42cee
+Anlaşma Adı|Yes|Başvuru için anlaşmanın kolay adı.|Birleşik Krallık spring deal
 Müşteri Adı|Yes|Müşteri şirketinin adı. Microsoft tarafında hızlı eşleştirme için kuruluşun yasal adını kullanın.|Contoso Corporation
-Müşteri adresi satırı 1|Yes|Müşteri şirketinin Adres satırı 1. |Tek contoso yöntemi
-Müşteri adresi satırı 2|No|Müşteri şirketinin Adres satırı 2.|NE 148 Caddesi
-Müşteri şehri|Yes|Müşteri kuruluşunun bulunduğu şehir.|Redmond
-Müşteri durumu|No|Müşteri kuruluşunun bulunduğu eyalet.|Washington
-Müşteri posta kodu|No|Müşteri kuruluşunun bulunduğu bölgenin posta kodu.|98052
-Müşteri ülkesi|Yes|Müşteri kuruluşunun bulunduğu ülke/bölge. [Burada]( https://en.wikipedia.org/wiki/List_of_ISO_3166_country_codes)bahsedilen iki harfli ülke kodlarını kullanın.|ABD
-Müşteri D-U-N-S KIMLIĞI|No|Müşteri kuruluşunun DÇALıŞTıRAL KIMLIĞINI getirmeye çalışın. Bu, daha hızlı satıcı atamasına yardımcı olan Microsoft tarafında müşteri kuruluşunun daha hızlı eşleştirmesine yardımcı olur. BU web sitesinden ÜCRETSİZ OLARAK DUNS ID [edinebilirsiniz.](https://www.dnb.com/duns-number/lookup.html)|81466849
+Müşteri Adres Satırı 1|Yes|Müşteri şirketinin 1. satırına adresle. |Tek Contoso Yolu
+Müşteri Adres Satırı 2|No|Müşteri şirketinin 2. adres satırı.|NE 148 sokağı
+Customer City|Yes|Müşteri kuruluşlarının bulunduğu şehir.|Redmond
+Müşteri Durumu|No|Müşteri kuruluşlarının bulunduğu yeri ifade.|Washington
+Müşteri Posta Kodu|No|Müşteri kuruluşlarının bulunduğu bölgenin Posta Kodu.|98052
+Müşteri Ülkesi|Yes|Müşteri kuruluşlarının bulunduğu Ülke/Bölge. Ülke kodları listesinde *iki harfli Alfa-2* [kodunu kullanın.](https://en.wikipedia.org/wiki/List_of_ISO_3166_country_codes)|ABD
+Müşteri D-U-N-S Kimliği|No|Müşteri kuruluşlarının DUNS kimliğini getirmeye çalışma. Bu, Microsoft tarafında müşteri kuruluşlarının daha hızlı eşleşmesi için yardımcı olur ve bu da satıcı atamalarının daha hızlı tamamlansa da yardımcı olur. [D-U-N-S](https://www.dnb.com/duns-number/lookup.html)Numarası Arama sayfasından DUNS ID ÜCRETSİZ elde edebilirsiniz.|81466849
 Müşteri Kişisi Adı|-Sına bağ -lıdır|Ad yalnızca Microsoft yardıma ihtiyacınız varsa zorunludur. Bu anlaşma üzerinde çalışan müşteri kuruluşundan birincil ilgili kişinin adı.|John
 Müşteri Kişisi Soyadı|-Sına bağ -lıdır|Soyadı yalnızca Microsoft yardıma ihtiyacınız varsa zorunludur. Bu anlaşma üzerinde çalışan müşteri kuruluşundan birincil ilgili kişinin soyadı.|Müşteri
 Müşteri İletişim Telefon numarası|-Sına bağ -lıdır|Telefon numarası yalnızca Microsoft yardıma ihtiyacınız varsa zorunludur. Telefon satış anlaşması üzerinde çalışan müşteri kuruluşundan birincil ilgili kişinin numarasını girin.|9999999999
 Müşteri İletişim e-posta Adresi|-Sına bağ -lıdır|E-posta adresi yalnızca Microsoft yardıma ihtiyacınız varsa zorunludur. Bu anlaşma üzerinde çalışan müşteri kuruluşundan birincil ilgili kişinin e-posta adresi.|john.customer@contoso.com
-İş Ortağı Referans Durumu|Yes|Şirketin bakış açısından anlaşma durumunu gösterir. Referans oluşturma veya değiştirme denemesi yapmak için gereklidir. Yeni **bir** satış anlaşması oluşturmak için Yeni'leri kullanın. Kabul edilen değerler burada [belgelenmiştir.](/partner/develop/referral-resources#referralstatus)|Etkin
-İş Ortağı Referansı Alt İstatistikleri|Yes|Anlaşmanın tam durumunu gösterir. Yeni **bir satış** anlaşması oluşturmak için Kabul Edildi'i kullanın. Mevcut bir referansı değiştirirken de gereklidir. Kabul edilen değerler burada [belgelenmiştir.](/partner/develop/referral-resources#referralsubstatus)|Kabul edildi
+İş Ortağı Referans Durumu|Yes|Şirketin bakış açısından anlaşma durumunu gösterir. Bir referans oluşturmak veya değiştirmek için çalışıyorsanız gereklidir. Yeni **bir** satış anlaşması oluşturmak için Yeni'leri kullanın. Kullanabileceğiniz değerler Referans [kaynakları'nda listelenir.](/partner/develop/referral-resources#referralstatus)|Etkin
+İş Ortağı Referansı Alt İstatistikleri|Yes|Anlaşmanın tam durumunu gösterir. Yeni bir satış anlaşması oluşturmak için **Accepted** kullanın. Mevcut bir referansı değiştirirken de gereklidir. Kullanabileceğiniz değerler Referans [kaynakları'nda listelenir.](/partner/develop/referral-resources#referralsubstatus)|Kabul edildi
 Microsoft Referans Durumu|-Sına bağ -lıdır|Yardım almak için Microsoft'a gönderdiğiniz ortak satış isteğinin durumunu gösterir. Bu salt okunur bir alandır. Veriler içeri aktarılırken bu alanda yapılan tüm değişiklik yoksayılır.| Beklemede
 Reddedildi/Neden kaybedildi|-Sına bağ -lıdır| Bu bilgileri yalnızca alanınıza ilişkin alt durumu Reddedildi veya Kayıp olarak değiştirerek sağlamanız gerekir. Aksi takdirde bu sütunu yoksayabilirsiniz. <br/> **Aşağıdaki seçeneklere göre bir sayı girin** <br/><br/> **1**- Project bütçe yeterli değil  <br/> **2**- Müşteri yanıt vermedi  <br/> **3**- Müşteri başka bir satıcı seçti  <br/> **4** - Müşteri gereksinimi karşılanmaz  <br/> **5** - Müşteri değil <br/> **6**- Önerilen zaman çizgisi çok kısa <br/> **7** - Kötüye kullanım, istenmeyen posta veya kimlik avı olarak bildirme <br/> **8** - Diğer |6|
-Satış Aşaması|No|Bu, referans için ayrıntılı satış aşamalarını gösteren alandır. Satış aşamaları hakkında daha fazla bilgi için buraya [tıklayın](./manage-co-sell-opportunities.md)|40
+Satış Aşaması|No|Bu, referans için ayrıntılı satış aşamalarını gösteren alandır. Satış aşamaları hakkında daha fazla bilgi için [şu makaleyi okuyun:](./manage-co-sell-opportunities.md) İş Ortağı Merkezi|40
 Tahmini Satış Değeri|Yes|Müşteriyle yapılan ilk konuşmaları temel alan satış anlaşması değeri. Anlaşma kazanildi veya kaybedildi terminal durumlarından biri olana kadar bu **değiştirilebilir.** |12563
-Para Birimi|Yes|Anlaşma değerinin girilir olduğu para birimi. Para birimi kodlarını burada [bulabilirsiniz.](https://en.wikipedia.org/wiki/ISO_4217)|USD
-Tahmini Kapatma Tarihi|Yes|AA/D/YYYY biçiminde müşteriyle yapılan ilk konuşmaları temel alarak satış anlaşması tahmini kapanış tarihi. <br/> **Tarih UTC saat diliminde olmalıdır. Kullanıcı arabiriminde görüntülenen İş Ortağı Merkezi tarihler yerelleştirilmiş saat dilimlerini temel almaktadır. UTC saat diliminde tarihi temin edilen referansa bakıyorsanız kullanıcı arabiriminde +/- bir gün fark İş Ortağı Merkezi olabilir.**|1/30/2020
+Para Birimi|Yes|Anlaşma değerinin girilir olduğu para birimi. Para birimi kodlarını [ISO 4217 Wikipedia sayfasında bulabilirsiniz.](https://en.wikipedia.org/wiki/ISO_4217)|USD
+Tahmini Kapatma Tarihi|Yes|AA/D/YYYY biçiminde müşteriyle yapılan ilk konuşmaları temel alarak satış anlaşması tahmini kapanış tarihi. <br/> **Tarih UTC saat diliminde olmalıdır. Kullanıcı arabiriminde görüntülenen İş Ortağı Merkezi tarihler yerelleştirilmiş saat dilimlerini temel almaktadır. UTC saat diliminde tarihi temin edilen referansa bakıyorsanız kullanıcı arabiriminde +/- İş Ortağı Merkezi bir günlük fark olabilir.**|1/30/2020
 CRM Kimliği|No|Varsa CRM sisteminize bu referansı tanımlayıcı. Bu, serbest biçimli bir metin girişi alanıdır.|34234324-sdfsdf-345345-sfd
 Pazarlama Kampanyası Kimliği|No|Bu alan, pazarlama kampanyasının bu referansla sonuçlanmasına neden olduğunu gösterir. Genellikle yatırım getiri hesaplaması için kullanılır|BingSummer2020
 Notlar|No|Referansla ilgili güncelleştirmeleri gösteren ayrıntılı notlar|Bu örnek bir not

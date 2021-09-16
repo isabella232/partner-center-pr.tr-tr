@@ -4,7 +4,7 @@ ms.topic: article
 ms.date: 05/05/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-enroll
-description: CSP için iş ortaklarını ve müşterileri doğrulamak için doğrudan fatura iş ortaklarının (doğrudan kurumsal bayiler, dolaylı sağlayıcılar) Office 365 Kamu GCC adımları öğrenin.
+description: CSP için Office 365 Kamu GCC iş ortakları ve müşterileri doğrulamak üzere doğrudan fatura ortakları (doğrudan satıcılar, dolaylı sağlayıcılar) için adımları öğrenin.
 author: BillLinzbach
 ms.author: billLi
 ms.localizationpriority: medium
@@ -13,52 +13,52 @@ ms.openlocfilehash: 0c28e7af93f227ba432ef6d78b84b3150de43d9e
 ms.sourcegitcommit: 847ad384d44a5a673791cb2950af02225d8174c9
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/15/2021
-ms.locfileid: "127828288"
+ms.lasthandoff: 09/16/2021
+ms.locfileid: "127876722"
 ---
-# <a name="office-365-government-gcc-for-csp-partner-and-customer-eligibility-criteria"></a>Office 365 Kamu GCC CSP İş Ortağı ve Müşteri uygunluk ölçütlerine göre daha fazla bilgi
+# <a name="office-365-government-gcc-for-csp-partner-and-customer-eligibility-criteria"></a>CSP iş ortağı ve müşteri uygunluk ölçütlerine yönelik Office 365 Kamu GCC
 
-**Uygun roller:** Genel yönetici | Yönetici aracısı | Satış aracısı
+**Uygun roller**: genel yönetici | Yönetici Aracısı | Satış Aracısı
 
 >[!NOTE]
->Doğrulama işlemi ve aşağıda özetlenen ölçütler doğrudan fatura iş ortaklarına özeldir. Doğrudan fatura iş ortakları, doğrudan kurumsal bayileri ve dolaylı sağlayıcıları içerir.  Dolaylı Kurumsal Bayiy misiniz lütfen Dolaylı Sağlayıcınızla birlikte çalışabilirsiniz.
+>Aşağıda özetlenen doğrulama işlemi ve ölçütler doğrudan fatura iş ortaklarına özgüdür. Doğrudan fatura ortakları doğrudan satıcılar ve dolaylı sağlayıcılar içerir.  Dolaylı bir satıcıysanız, lütfen dolaylı sağlayıcınızla çalışın.
 
-Şirketinizin (veya müşterinizin şirketi) CSP için Office 365 Kamu GCC sağlamakla ilgileniyorsanız aşağıdaki gereksinimleri gözden geçirebilirsiniz.
+Office 365 Kamu GCC CSP için şirketinizin (veya müşterinizin şirketinin) onaylanmasından ilgileniyorsanız, aşağıdaki gereksinimleri gözden geçirin.
 
-ABD federal, eyalet, yerel veya tribal kamu varlıklarına hizmet veren bir iş ortağınız varsa onaylanabileceksiniz. Kuruluş uygunluğunun doğrulanması için, Bize Doğrudan CSP İş Ortağı Kuruluşu hakkında bilgi [*verin kısa formunu doldurun.*](https://products.office.com/government/eligibility-validation?ReqType=CSPPartner)
+ABD Federal, eyalet, yerel veya kaş kamu varlıklarına hizmet veren bir iş ortağıysanız onaylandınız. Kuruluşunuzun uygunluğu doğrulandıktan sonra, kısa formu doldurun ve [*doğrudan CSP Iş ortağı kuruluşunuzu bize bildirin*](https://products.office.com/government/eligibility-validation?ReqType=CSPPartner).
 
-Müşteriniz, kamu denetimli verileri ele alan bir kuruluşsa ya da ABD federal, eyalet, yerel veya genel bir kamu kuruluşu ise onaylanabilecektir. Müşterilerimizin kuruluşlarının uygunluğunu doğrulamalarını sağlamak için, Bize Doğrudan CSP İş Ortağı Kuruluşu hakkında bilgi verin kısa [*formunu doldurun.*](https://products.office.com/government/eligibility-validation?ReqType=CSPCustomer)
+Müşterimiz, devlet denetimli verileri veya ABD Federal, eyalet, yerel veya kaş kamu tüzel kişiliği olan verileri işleyen bir kuruluşlarsa onaylanır. Müşterilerinizin kuruluşların uygunluğunu doğrulaması için, kısa formu doldurun ve [*doğrudan CSP Iş ortağı kuruluşunuzu bize bildirin*](https://products.office.com/government/eligibility-validation?ReqType=CSPCustomer).
 
-- CSP'ye [kaydolmak](https://partnercenter.microsoft.com/partner/cloud-solution-provider) için Bulut Çözümü Sağlayıcısı önkul olduğu için, bu, Office 365 Kamu GCC kayıtlı olması gerekir.
-- [*CSP Office 365 Kamu GCC ve Müşteri*](https://go.microsoft.com/fwlink/?linkid=2007323) Doğrulama Adım Adım Kılavuzu, CSP'ye genel bir Office 365 Kamu GCC doğrulama süreci kılavuzu.
-- Daha [fazla doğrulama sorusu veya endişesi için RSC](mailto:usgcce@microsoft.com) Destek Yükseltmeleri'ne başvurun.
+- ıntune, CSP için Office 365 Kamu GCC onaylanmakta olan bir önkoşul olduğundan, kuruluşunuzun Bulut Çözümü Sağlayıcısı programa [kayıtlı](https://partnercenter.microsoft.com/partner/cloud-solution-provider) olması gerekir.
+- [*Office 365 Kamu GCC csp iş ortağı ve müşteri doğrulaması adım adım kılavuzu*](https://go.microsoft.com/fwlink/?linkid=2007323) , csp için Office 365 Kamu GCC yönelik bir doğrulama süreci kılavuzudur.
+- Daha fazla doğrulama sorusu veya kaygıları için [RSC destek yürüyen](mailto:usgcce@microsoft.com) iletişim kurun.
 
-Office 365 Kamu GCC CSP iş ortakları ve müşterileri için uygunluğun doğrulanması için aşağıda belirtilen belirli ölçütlerin karşılanması gerekir.
+CSP iş ortakları için Office 365 Kamu GCC ve müşteriler, aşağıda özetlenen belirli ölçütlere göre uygunluk için onaylanır.
 
-**İş Ortağı Ölçütleri**
+**İş ortağı ölçütleri**
 
 1. Doğrudan veya dolaylı sözleşmeler aracılığıyla ABD kamu müşterilerine hizmet veya çözüm sağlar
-2. ABD kamu müşterilerine GSA veya diğer sözleşme araçları aracılığıyla hizmet sunar
+2. ABD kamu müşterilerine GSA veya diğer sözleşme araçlar aracılığıyla hizmet verir
 
 **Müşteri Ölçütleri**
 
-1. ABD kamu varlığı, kendi kamu kapasitesindedir. Örnek:
+1. Kamu kapasitesinde ABD devlet kurumu. Örnek:
 
-    - Federal kurum (örneğin, bürosu, kurum, departman veya ABD yönetiminin diğer varlığı)
-    - Durum/yerel varlık
-    - Tribal varlığı
-    - Bölgesel veya eyaletler arası kamu varlıkları (ancak uluslararası varlık yok)
-    - Federal Fona Bağlı Araştırma ve Geliştirme Merkezleri (FERDCs)
+    - Federal kurum (örneğin, kuruluş, kuruluş, departman veya ABD devlet 'nın diğer tüzel kişiliği)
+    - Eyalet/yerel varlık
+    - Üç aylık varlık
+    - Bölgesel veya yandan devlet kamu varlıkları (uluslararası varlık yoktur)
+    - Federe açıdan komik araştırma ve geliştirme merkezleri (Ferdc)
 
-2. Yasal düzenlemelere tabi veriler ile ticari özel varlık. Kabul edilen kamu veri türleri şunlardır:
-    - Uluslararası Hava Trafiği (ITAR)
-    - Denetlenen Sınıflandırılmamış Bilgiler (CUI)
-    - Savunma Bakanlığı (DoD) Sınıflandırılmamış Kontrollü Bilgi (UCNI)
-    - Enerji Bakanlığı (DoE) UCNI
-    - Ceza Adalet Bakanlığı Bilgileri (CJI)
-    - Savunma Bakanlığı Etki Düzeyi Verileri
-    - Veri gerektiren diğer veri Azure Kamu vb.).
+2. Düzenlemelere tabi olan verilerle ticari özel varlık. Kabul edilen kamu veri türleri şunlardır:
+    - Kollu Uluslararası trafik (ıTAR)
+    - Denetlenen sınıflandırılmamış bilgiler (CUı)
+    - Savunma Bakanlığı (DoD) sınıflandırılmamış kontrollü Nuclear bilgileri (UCNı)
+    - Enerji Bakanlığı (tikan) UCNı
+    - Cezai Yace bilgileri (CJI)
+    - Savunma etki düzeyi veri departmanı
+    - Azure Kamu gerektiren diğer veri türleri vb.).
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-- [CSP Office 365 Kamu GCC uygun müşterilere satış](csp-gcc-overview.md)
+- [uygun müşterilere CSP abonelikleri için Office 365 Kamu GCC satma](csp-gcc-overview.md)

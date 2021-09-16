@@ -1,20 +1,20 @@
 ---
 title: Yeni ticari lisans tabanlı genel bakış
 ms.topic: article
-ms.date: 08/31/2021
+ms.date: 09/03/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
+ms.subservice: partnercenter-pricing
 description: Lisans tabanlı yazılım satın almak için yeni ticari deneyimler hakkında çevrimiçi hizmetler.
 author: rbars
 ms.author: rbars
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7ca839abb193f09d37769e14eedf08ea415e902f
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.openlocfilehash: 6e5c16d6d6c507296d22ebd945d70ebac039938a
+ms.sourcegitcommit: 847ad384d44a5a673791cb2950af02225d8174c9
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126248702"
+ms.lasthandoff: 09/16/2021
+ms.locfileid: "127876824"
 ---
 # <a name="new-commerce-experience-for-license-based-services"></a>Lisans tabanlı hizmetler için yeni ticari deneyim
 

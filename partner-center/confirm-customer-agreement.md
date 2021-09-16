@@ -14,22 +14,22 @@ ms.sourcegitcommit: 986573bc4382b803bf4d641df6dd1e37c3af1955
 ms.translationtype: MT
 ms.contentlocale: tr-TR
 ms.lasthandoff: 09/16/2021
-ms.locfileid: "127862417"
+ms.locfileid: "127872314"
 ---
 # <a name="how-to-confirm-that-your-customer-has-accepted-the-microsoft-customer-agreement-to-the-csp-program"></a>Müşterinizin CSP programına yapılan Microsoft Müşteri Sözleşmesi onaylayın
 
 **Uygun roller:** Yönetici aracısı | Satış aracısı
 
 
-Müşterilerin, müşteri adaylarını kabul etmeleri için iki Microsoft Müşteri Sözleşmesi.
+Müşterilerin, müşteri kabul etme seçenekleri iki Microsoft Müşteri Sözleşmesi.
 
-**1.** Seçenek: İş ortağı müşteri kabulü için iş ortağı onaylama - İş ortağı API/SDK'İş Ortağı Merkezi kullanarak veya İş Ortağı Merkezi onaylayabilir.
+**1.** Seçenek: İş ortağı müşteri kabulü için iş ortağı, API/SDK'İş Ortağı Merkezi veya İş Ortağı Merkezi onaylayabilir.
 
 **2.** Seçenek: Müşteri doğrudan kabulü - İş ortağı, Müşteri Merkezi'nde anlaşmayı gözden geçirmek ve kabul etmek için bir URL Microsoft 365 Yönetici davet eder.
 
 ## <a name="access-microsoft-customer-agreement-template"></a>Erişim Microsoft Müşteri Sözleşmesi şablonu
 
-uygulamanın en [son sürümünü el ile Microsoft Müşteri Sözleşmesi.](https://aka.ms/customeragreement) Bu Microsoft Müşteri Sözleşmesi ülkeye özgü bir veridir. Uygulama şablonu Microsoft Müşteri Sözleşmesi, müşterinin konumunu temel alarak doğru ülkeyi seçin.
+uygulamanın en [son sürümünü el ile Microsoft Müşteri Sözleşmesi.](https://aka.ms/customeragreement) Bu Microsoft Müşteri Sözleşmesi ülkeye özgü bir veridir. Uygulama şablonu Microsoft Müşteri Sözleşmesi, müşterinin konumunu temel alarak doğru ülkeyi seçmeyi emin olun.
 
 ## <a name="option-1-confirm-customer-acceptance-in-partner-center"></a>1. Seçenek: Müşteri kabulünü İş Ortağı Merkezi
 
@@ -37,13 +37,13 @@ Doğrudan fatura iş ortakları yeni ve mevcut müşteriler için Microsoft Mü�
 
 ### <a name="confirm-customer-acceptance-for-new-customers"></a>Yeni müşteriler için müşteri kabulünü onaylama
 
-İş Ortağı Merkezi'da yeni bir müşteri kiracısı oluşturdukta, müşterinin kiracıyı kabul Microsoft Müşteri Sözleşmesi. Bu adımları gerçekleştirmek için Yönetici aracısı veya Satış aracısı olmak gerekir.
+İş Ortağı Merkezi'de yeni bir müşteri kiracısı oluşturduklarında, müşterinin kiracıyı kabul etme onay Microsoft Müşteri Sözleşmesi. Bu adımları gerçekleştirmek için Yönetici aracısı veya Satış aracısı olmak gerekir.
 
 1. **Müşteriler'i** ve ardından Yeni **müşteri'yi seçin.**
 
 2. Hesap **bilgileri'nin** altında, şirket ve birincil ilgili kişisi için bilgileri girin.
 
-3. **Microsoft sözleşmesi'nin** altında, müşterinin müşteri tarafından kabul edilen hesabı kabul etmiş olduğunu Microsoft Müşteri Sözleşmesi.
+3. **Microsoft sözleşmesi'nin** altında, müşterinin müşteri tarafından kabul edilmeyi kabul etmiş olduğunu Microsoft Müşteri Sözleşmesi.
 
 4. Sözleşme **kabul tarihi'nin** altında uygun tarihi girin. Bunu gelecekteki bir tarihe ayaramazsiniz.
 
@@ -81,7 +81,7 @@ Mevcut bir müşterinin mevcut müşteri tarafından kabul edile Microsoft Müş
 
 ## <a name="confirm-customer-acceptance-using-partner-center-apisdk"></a>API/SDK kullanarak İş Ortağı Merkezi onaylayın
 
-Api/SDK'İş Ortağı Merkezi api'sini kullanarak müşteri tarafından kabul Microsoft Müşteri Sözleşmesi. API/SDK hakkında ayrıntılı bilgi için bkz:
+Api/SDK İş Ortağı Merkezi müşteri kabulünü onaylamak için api/SDK Microsoft Müşteri Sözleşmesi. API/SDK hakkında ayrıntılı bilgi için bkz:
 
 - [Microsoft Müşteri Sözleşmesi için anlaşma meta verilerini alma](/partner-center/develop/get-customer-agreement-metadata)
 
@@ -93,7 +93,7 @@ Api/SDK'İş Ortağı Merkezi api'sini kullanarak müşteri tarafından kabul Mi
 
 ## <a name="option-2-customer-acceptance-in-microsoft-365-admin-center"></a>2. Seçenek: Microsoft 365 Yönetici Center'da müşteri kabulü
 
-İş ortakları, Microsoft 365 Yönetici Center'da anlaşmayı gözden geçirmek ve kabul etmek için URL aracılığıyla yeni ve mevcut Microsoft 365 Yönetici davet eder. Sonraki birkaç bölümde şunların nasıl olduğu gösterildi:
+İş ortakları, Microsoft 365 Yönetici Center'da anlaşmayı gözden geçirmek ve kabul etmek için URL aracılığıyla yeni ve mevcut müşterileri Microsoft 365 Yönetici davet eder. Sonraki birkaç bölümde şunların nasıl olduğu gösterildi:
 
 - Yeni bir müşteri oluşturun ve müşteriyi sözleşmeyi gözden geçirmesi ve kabul etmeye davet etme.
 
@@ -102,11 +102,11 @@ Api/SDK'İş Ortağı Merkezi api'sini kullanarak müşteri tarafından kabul Mi
 - Mevcut bir müşteriyi sözleşmeyi gözden geçirmesi ve kabul etmeleri için davet etme.
 
 >[!NOTE]
-> Müşterinin doğrudan İş Ortağı Merkezi durumunu almak için [API/SDK'yı](/partner-center/develop/get-direct-sign-status-of-customer-agreement) Microsoft Müşteri Sözleşmesi.  
+> Bir müşterinin İş Ortağı Merkezi kabul durumunu almak için [API/SDK'yı](/partner-center/develop/get-direct-sign-status-of-customer-agreement) Microsoft Müşteri Sözleşmesi.  
 
 ## <a name="create-a-new-customer-and-invite-the-customer-to-review-and-accept-the-agreement"></a>Yeni bir müşteri oluşturun ve müşteriyi sözleşmeyi gözden geçirmesi ve kabul etmeye davet etme
 
-İş Ortağı Merkezi Center'da yeni bir müşteri oluşturmak İş Ortağı Merkezi müşteriyi gözden geçirmek ve kabul etmek Microsoft Müşteri Sözleşmesi için Microsoft 365 Yönetici kullanın.
+İş Ortağı Merkezi Center'da yeni bir müşteri oluşturmak ve Microsoft Müşteri Sözleşmesi kabul etmek üzere davet etmek için aşağıdaki Microsoft 365 Yönetici kullanın.
 
 1. İş Ortağı Merkezi'nin Müşteriler sekmesinde Müşteri **ekle'yi seçin.** 
 
@@ -137,11 +137,11 @@ Api/SDK'İş Ortağı Merkezi api'sini kullanarak müşteri tarafından kabul Mi
 
 ## <a name="invite-a-new-customer-to-review-and-accept-the-reseller-relationship-and-microsoft-customer-agreement"></a>Kurumsal bayi ilişkisini ve kurumsal bayi ilişkisini gözden geçirmek ve kabul etmek için yeni bir müşteri Microsoft Müşteri Sözleşmesi 
 
-Yeni bir müşteriyi kurumsal bayi ilişkisini ve kurumsal bayi ilişkisini gözden geçirmesi ve kabul etmeye davet etmek için aşağıdaki Microsoft Müşteri Sözleşmesi. 
+Yeni bir müşteriyi kurumsal bayi ilişkisini ve kurumsal bayi ilişkisini gözden geçirmesi ve kabul etmeye davet etmek için aşağıdaki adımları Microsoft Müşteri Sözleşmesi. 
 
 1. İş Ortağı Merkezi'nin Müşteriler sekmesinden Bayi **ilişkisi isteği bağlantısı'ı** seçin.  
 
-2. Metin ve müşteriyi Microsoft 365 Yönetici Center'a yönlendiren parametreli BIR URL dahil olmak üzere otomatik bir e-Microsoft 365 Yönetici oluşturulur.
+2. Metni ve müşteriyi Microsoft 365 Yönetici Center'a yönlendiren parametreli BIR URL dahil olmak üzere otomatik bir e-posta şablonu oluşturulur.
 
 3. Otomatik olarak oluşturulan e-posta şablonunu özelleştirilebilir ve ardından Panoya kopyala veya **E-postada** **aç'ı seçin.**
 
@@ -164,7 +164,7 @@ Yeni bir müşteriyi kurumsal bayi ilişkisini ve kurumsal bayi ilişkisini göz
 
 Mevcut bir müşteriyi değerlendirmeye ve kabul etmeye davet etmek için aşağıdaki adımları Microsoft Müşteri Sözleşmesi. 
 
-1. Müşterinizi ekli URL'ye davet ederek müşteri e-posta adresini Microsoft Müşteri Sözleşmesi.
+1. Ekli URL ile müşteri e-postası oluşturun ve müşterinizi bu e-posta adresini Microsoft Müşteri Sözleşmesi.
 
 2. Müşteriniz daveti e-postayla alır ve [URL'ye tıklar.](https://admin.microsoft.com/AdminPortal/Home?ref=/BillingAccounts/agreement) 
 
@@ -177,7 +177,7 @@ Mevcut bir müşteriyi değerlendirmeye ve kabul etmeye davet etmek için aşağ
    :::image type="content" source="images/mca/customeraccept.png" alt-text="Müşteri.":::
 
 >[!NOTE]
->Bazı senaryolarda, müşteriler doğrudan bu teklifi kabul Microsoft Müşteri Sözleşmesi. Bu durumlar hakkında daha fazla bilgi edinmek için aşağıdaki İki senaryoyu okuyun: Müşteriniz adına test etmek için gereken iki senaryo.
+>Bazı senaryolarda, müşteriler doğrudan bu senaryoyu kabul Microsoft Müşteri Sözleşmesi. Bu durumlar hakkında daha fazla bilgi edinmek için aşağıdaki İki senaryoyu okuyun: Müşteriniz adına test etmek için gereken iki senaryo.
 
 ## <a name="two-scenarios-where-you-need-to-attest-on-behalf-of-your-customer"></a>Müşterinizin adına test etmeniz gereken iki senaryo
 

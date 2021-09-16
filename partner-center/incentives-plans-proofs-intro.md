@@ -1,6 +1,6 @@
 ---
-title: Planlara ve yürütme kanıtlarına genel bakış
-description: Teşviklerin ortak çalışma talep planı ve ayrıntılı yürütme kanıtı (PoE) dahil olmak üzere teşvikler için gereken önemli belgeler hakkında bilgi edinmek.
+title: Yürütmenin planlarına ve provalarından genel bakış
+description: Bir teşvikleri Co-op talep planı ve ayrıntılı yürütme (PoE) kanıtı da dahil olmak üzere teşvikleri için gereken anahtar belgeler hakkında bilgi edinin.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 ms.topic: conceptual
@@ -9,44 +9,44 @@ ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 09/11/2020
 ms.openlocfilehash: bda06ce5f929d784f95ed9a9c248c29f6209356e
-ms.sourcegitcommit: 986573bc4382b803bf4d641df6dd1e37c3af1955
+ms.sourcegitcommit: 847ad384d44a5a673791cb2950af02225d8174c9
 ms.translationtype: MT
 ms.contentlocale: tr-TR
 ms.lasthandoff: 09/16/2021
-ms.locfileid: "127862349"
+ms.locfileid: "127876977"
 ---
-# <a name="use-these-resources-to-help-you-create-incentives-plans-and-proofs-of-execution"></a>Teşvik planları ve yürütme kanıtlarını oluşturmanıza yardımcı olmak için bu kaynakları kullanın
+# <a name="use-these-resources-to-help-you-create-incentives-plans-and-proofs-of-execution"></a>Teşvikleri planları ve yürütme provalarını oluşturmanıza yardımcı olması için bu kaynakları kullanın
 
-**Uygun roller:** Teşvik yöneticisi | Teşvikler kullanıcısı
+**Uygun roller**: teşvikleri admin | Teşvikleri kullanıcısı
 
-Bu makalede başarılı olmak ve belirli bir teşvik programında çalışmanız için ödeme almak için gereken bazı önemli belgeler açıklanmıştır. Bu belgeler şunlardır:
+Bu makalede, başarılı olmanız ve belirli bir teşvikleri programında çalışmanız için ödeme yapmanız gereken önemli belgelerden bazıları açıklanmaktadır. Bu belgeler şunları içerir:
 
-- Teşvik planı
+- Bir teşvikleri planı
 - Ayrıntılı yürütme kanıtı (PoE)
 
-Kaydolduyuz teşvik programının türüne bağlı olarak, planınız ve yürütme kanıtınız (PoE) teşviklerle başarınıza yardımcı olur.
+Kaydettiğiniz teşvikleri programının türüne bağlı olarak, planınız ve yürütmeleri (PoE), teşvikleri ile başarılı bir şekilde çalışmaz.
 
-## <a name="what-is-an-incentives-plan"></a>Teşvik planı nedir?
+## <a name="what-is-an-incentives-plan"></a>Teşvikleri planı nedir?
 
-Teşvik planı, programını başarılı bir hale hazırlamak için gereken pazarlama kampanyalarını, etkinlikleri ve diğer ayrıntıları açıklar. Bu planı oluşturdukta onay için Microsoft'a göndersiniz. Planınızı oluşturma hakkında [daha fazla bilgi.](incentives-create-your-plan.md)
+Bir teşvikleri planı, programınızı bir başarı haline getirmek için gereken pazarlama kampanyalarını, etkinlikleri ve diğer ayrıntıları açıklar. Bu planı oluşturduktan sonra, onay için Microsoft 'a gönderebilirsiniz. [Planınızı oluşturma](incentives-create-your-plan.md)hakkında daha fazla bilgi edinin.
 
-## <a name="what-is-a-proof-of-execution-poe"></a>Yürütme kanıtı (PoE) nedir?
+## <a name="what-is-a-proof-of-execution-poe"></a>Yürütmenin (PoE) kanıtı nedir?
 
-Teşvik çalışmalarınız için ödemenizi aldıktan sonra Microsoft'a ayrıntılı yürütme kanıtı (PoE) göndermeniz gerekir. PoE'niz ilgili kampanya, teşvik etkinliğinin meydana geldiği tarih ve talep edilecek tutarla ilgili ayrıntıları içerebilir. 
+Teşvikleri çalışmanız için ödeme yaptıktan sonra, Microsoft 'a ayrıntılı bir yürütme (PoE) kanıtı göndermeniz gerekir. PoE, ilgili kampanya hakkındaki ayrıntıları, teşvikleri etkinliğinin gerçekleştiği tarihi ve istenen miktarı içerebilir. 
 
-Yürütme kanıtlarını [hazırlama hakkında daha fazla bilgi.](incentives-prepare-your-proof-of-execution.md)
+[Yürütmenin provalarını hazırlama](incentives-prepare-your-proof-of-execution.md)hakkında daha fazla bilgi edinin.
 
-## <a name="incentives-document-resources"></a>Teşvikler belge kaynakları
+## <a name="incentives-document-resources"></a>Teşvikleri belge kaynakları
 
-Aşağıdaki kaynaklar bu önemli teşvik belgelerini düzenleme, oluşturma ve düzenleme hakkında bilgi sağlar. Ayrıca, Microsoft talebinizi onaylarsa veya herhangi bir talep reddedilirse ne yapacakları da açıklanmaz.
+Aşağıdaki kaynaklar, bu Key teşvikleri belgelerinin nasıl düzenlendiğini, oluşturulacağını ve düzenleneceğini açıklamaktadır. Ayrıca, Microsoft, taleplerinizi onayladığında veya herhangi bir talep reddedildiğinde ne yapılacağını de anlatmaktadır.
 
 |  **Bunu yapmak için**  |  **Bunu okuyun**  |
 |--------------|-----------|
-| Teşvikler ortak çalışma talep planı oluşturma hakkında bilgi | [Planınızı oluşturma](incentives-create-your-plan.md)  |
-Yürütme kanıtı oluşturma hakkında bilgi | [Yürütme kanıtınızı sağlama](incentives-prepare-your-proof-of-execution.md)  |
+| Teşvikleri Co-op talep planı oluşturma hakkında bilgi edinin | [Planınızı oluşturma](incentives-create-your-plan.md)  |
+Yürütme kanıtı oluşturma hakkında bilgi edinin | [Yürütme kanıtınızı sağlama](incentives-prepare-your-proof-of-execution.md)  |
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-- Kendi [planınızı oluşturma hakkında bilgi](incentives-create-your-plan.md)
-- Teşvikler ortak [iş talep süreci hakkında daha fazla bilgi](claims-overview.md)
-- [CPOR modelini kullanan teşvik müşteri ilişkilendirmeleri hakkında bilgi](submit-osa-claim.md)
+- [Kendi planınızı oluşturmayı](incentives-create-your-plan.md) öğrenin
+- [Teşvikleri Co-op talep işlemi](claims-overview.md) hakkında daha fazla bilgi edinin
+- [CPOR modelini kullanarak teşvikleri müşteri ilişkilendirmeleri](submit-osa-claim.md) hakkında bilgi edinin

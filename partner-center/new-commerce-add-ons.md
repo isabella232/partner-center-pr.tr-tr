@@ -13,8 +13,8 @@ ms.openlocfilehash: 01644e5d2dd2fe2057d223b62f1f4e9d6f9cd101
 ms.sourcegitcommit: 847ad384d44a5a673791cb2950af02225d8174c9
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/15/2021
-ms.locfileid: "127828292"
+ms.lasthandoff: 09/16/2021
+ms.locfileid: "127876960"
 ---
 # <a name="introduction-new-commerce-add-ons"></a>Giriş: Yeni ticari eklentiler
 
