@@ -10,11 +10,11 @@ ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 498148f661a728979073ea43e3c186f2f0bb5ae6
-ms.sourcegitcommit: 847ad384d44a5a673791cb2950af02225d8174c9
+ms.sourcegitcommit: 986573bc4382b803bf4d641df6dd1e37c3af1955
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/15/2021
-ms.locfileid: "127828326"
+ms.lasthandoff: 09/16/2021
+ms.locfileid: "127862366"
 ---
 # <a name="enroll-in-the-cloud-solution-provider-program"></a>Bulut Çözümü Sağlayıcısı programına kaydolma
 
@@ -133,4 +133,4 @@ Daha fazla bilgi için Kayıt [Kimliği numarası bilgilerini okuyun](reg-number
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-[CSP programı Microsoft İş Ortağı Sözleşmesi (MPA) hakkında bilgi edinmek için](microsoft-partner-agreement.md)
+[CSP program Microsoft İş Ortağı Sözleşmesi (MPA) hakkında bilgi edinmek için](microsoft-partner-agreement.md)

@@ -12,11 +12,11 @@ ms.custom:
 ms.localizationpriority: high
 ms.date: 09/13/2021
 ms.openlocfilehash: f34234bebb8353315029eaab76aa52cb30df6e6a
-ms.sourcegitcommit: 847ad384d44a5a673791cb2950af02225d8174c9
+ms.sourcegitcommit: 986573bc4382b803bf4d641df6dd1e37c3af1955
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/15/2021
-ms.locfileid: "127828241"
+ms.lasthandoff: 09/16/2021
+ms.locfileid: "127862332"
 ---
 # <a name="september-2021-announcements"></a>Eylül 2021 duyuruları
 
@@ -52,7 +52,7 @@ Bu yeni raporlama özelliği hakkında daha fazla [](https://partner.microsoft.c
 #### <a name="key-considerations"></a>Dikkat edilmesi gereken temel konular
 
 - Müşteri için DAP erişimini kapatmak, müşteri kiracısı özelliklerini yönetmek için iş ortağının yönetici ayrıcalığını kapatacak.  
-- İş ortaklarının işlemden geçiş yapmak, müşterileri adına siparişler yapmaya devam eder.
+- İş ortaklarının işlem yapmak için müşterileri adına siparişler almalarına devam etmek.
 - İş ortağı aracıları artık müşterileri için Microsoft'a destek bileti yükseltemeyecek.  
 - DAP'ı kapatma, abonelikte geçerli rol tabanlı erişim denetimi rollerini etkilemez ve iş ortağı tarafından kazanılan kredileri etkilemez.
 
@@ -88,11 +88,11 @@ Bu ayın kaynakları aşağıdaki konuları ele alıyor:
 - [İş ortakları için lisans desteğine giriş](https://partner.microsoft.com/resources/detail/introduction-to-licensing-support-for-partners-pdf)
 - [İş ortakları için Ürün Koşulları sitesine kılavuz](https://partner.microsoft.com/resources/detail/product-terms-site-guide-for-partners-pdf)
 - [Destek raporunu bildirme](https://partner.microsoft.com/resources/detail/how-to-report-a-support-scam-pdf)
-- [Enterprise için Microsoft 365 Uygulamaları program özniteliği değişikliği](https://partner.microsoft.com/resources/detail/program-attribute-change-for-microsoft-365-apps-for-enterprise-pdf)
+- [Microsoft 365 Uygulamaları için program özniteliği değişikliği Enterprise](https://partner.microsoft.com/resources/detail/program-attribute-change-for-microsoft-365-apps-for-enterprise-pdf)
 
 #### <a name="csp-community-qa-reminder"></a>CSP Community Q&anımsatıcısı
 
-Aylık CSP topluluğu Q&A oturumu, daha fazla bilgi edinmek ve programı etkileyen değişiklikler hakkında sorular sorma fırsatı sağlar. Bu ayın çağrısı önceki bölümde listelenen konulara ve daha birçok konuya odaklanacak.
+Aylık CSP topluluğu&oturumu, daha fazla bilgi edinmek ve programı etkileyen değişiklikler hakkında sorular sorma fırsatı sağlar. Bu ayın çağrısı önceki bölümde listelenen konulara ve daha birçok konuya odaklanacak.
 
 [çağrısına katılmak için buraya kaydolmanız gerekir.](https://globalpbocomm.eventbuilder.com/GlobalCSP)
 
@@ -115,13 +115,13 @@ Topluluk kaynaklarını gözden geçirme ve Soru-Cevap topluluk&kaydolma.
 
 ### <a name="questions"></a>Sorularınız mı var?
 
-Aylık CSP topluluğu Q&A çağrısı, CSP programında operasyonel değişiklikle ilgili sorular getirmek için en iyi yerdir. Aramadan [48](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbRzrhg6eBq-tPjJzqc4xPoxdUQU1WQklGNDZBNVJaRkMxUDVJVUxHSkNXWS4u) saat önceye kadar bir soru gönderesiniz. Başlatmayla ilgili tüm sorular çağrısında ve/veya çağrıdan sonra yayımlanan&A belgesinde yanıtlanır. Geçen ayın topluluk koleksiyonunu ziyaret edecek [ve](https://partner.microsoft.com/resources/collection/august-2021-csp-partner-community-content#/) Ağustos&yayımlanan Q&A belgesini gözden geçirebilirsiniz.
+Aylık CSP topluluğu Q&A çağrısı, CSP programında operasyonel değişiklikle ilgili sorular getirmek için en iyi yerdir. Aramadan [48](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbRzrhg6eBq-tPjJzqc4xPoxdUQU1WQklGNDZBNVJaRkMxUDVJVUxHSkNXWS4u) saat önceye kadar bir soru gönderesiniz. Başlatmayla ilgili tüm sorular çağrıda ve/veya çağrıdan sonra yayımlanan&A belgesinde yanıtlanır. Geçen ayın topluluk koleksiyonunu ziyaret edecek [ve](https://partner.microsoft.com/resources/collection/august-2021-csp-partner-community-content#/) Ağustos etkinliği&yayımlanan Q&A belgesini gözden geçirebilirsiniz.
 
-Başka bir CSP konusuyla ilgili sorularınız mı var? destek [sayfasını İş Ortağı Merkezi ziyaret edin.](https://partner.microsoft.com/support/?stage=1)
+Başka bir CSP konusuyla ilgili sorularınız mı var? İş Ortağı Merkezi [sayfasını ziyaret edin.](https://partner.microsoft.com/support/?stage=1)
 
 _____________
 
-## <a name="september-co-sell-with-microsoft-qa-community-call-reminder"></a><a name="9"></a> Microsoft Q ve A topluluk&eylül ortak satış anımsatıcısı
+## <a name="september-co-sell-with-microsoft-qa-community-call-reminder"></a><a name="9"></a> Eylül ayında Microsoft Q ve A topluluk&ortak satış anımsatıcısı
 
 ### <a name="categories"></a>Kategoriler
 
@@ -130,7 +130,7 @@ _____________
 
 ### <a name="summary"></a>Özet
 
-[Ticari markette](https://globalpbocomm.eventbuilder.com/GlobalCoSell) yapılan en son lansmanları ve geliştirmeleri ve bu oturumda referans modüllerini vurgulayan Eylül topluluk oturumuna İş Ortağı Merkezi.
+[Ticari markette](https://globalpbocomm.eventbuilder.com/GlobalCoSell) yapılan en son lansmanları ve geliştirmeleri ve bu modüllerde referans modüllerini vurgulayan Eylül topluluk oturumuna İş Ortağı Merkezi.
 
 ### <a name="impacted-audience"></a>Etkilene hedef kitle
 
@@ -139,7 +139,7 @@ Bu oturum, aşağıdaki İş Ortağı Merkezi belirli kullanıcı rollerine ayr�
 - Teklif yayımlama yönetimi için ticari market modülü.
 - Müşteri adayları ve ortak satış fırsat paylaşımı yönetimi için referanslar modülü.
 
-Diğer tüm İş Ortağı Merkezi kullanıcılar İşlem hazırlığı kaynak galerisinde isteğe bağlı [olarak içeriğe erişebilirsiniz.](https://partner.microsoft.com/resources/cloud-solution-provider-program)
+Diğer tüm İş Ortağı Merkezi kullanıcılar İşlem hazırlığı kaynak galerisinde isteğe [bağlı olarak içeriğe erişebilirsiniz.](https://partner.microsoft.com/resources/cloud-solution-provider-program)
 
 ### <a name="details"></a>Ayrıntılar
 
@@ -160,8 +160,8 @@ Bu ayın önemli makaleleri şunlardır:
 #### <a name="refresh"></a>Yenile
 
 - [İş Ortağı Merkezi'de ortak satış deneyimi](/azure/marketplace/co-sell-configure#enter-your-contacts)
-- [İş Ortağı Merkezi'de referans yönetimi](https://partner.microsoft.com/resources/detail/referral-management-in-partner-center-pptx)
-- [Toplu işlem özelliğini kullanarak büyük ölçekte ortak satış İş Ortağı Merkezi satış anlaşmalarını paylaşma](./2021-february.md#13)
+- [İş Ortağı Merkezi'da referans yönetimi](https://partner.microsoft.com/resources/detail/referral-management-in-partner-center-pptx)
+- [Toplu işlemler özelliğini kullanarak ortak satış anlaşmalarını İş Ortağı Merkezi ölçekte paylaşma](./2021-february.md#13)
 - [İş ortağı tarafından ortak satış anlaşmaları ile daha fazla esneklik](./2021-february.md#11)
 - [İş Ortağı Merkezi'Analizler Referans İş Ortağı Merkezi](../referral-insights.md)
 
@@ -171,7 +171,7 @@ Topluluk kaynaklarını [gözden geçirme](https://partner.microsoft.com/resourc
 
 ### <a name="questions"></a>Sorularınız mı var?
 
-Soru-&topluluk çağrısı, operasyonel değişikliklerle ilgili sorular getirmek için en iyi yerdir. Çağrıdan [48](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbRzrhg6eBq-tPjJzqc4xPoxdUQU1WQklGNDZBNVJaRkMxUDVJVUxHSkNXWS4u) saat önceye kadar bir soru gönderesiniz. Başlatmayla ilgili tüm sorular çağrısında ve/veya çağrıdan sonra yayımlanan&A belgesinde yanıtlanır.  
+Soru-&topluluk çağrısı, operasyonel değişikliklerle ilgili sorular getirmek için en iyi yerdir. Çağrıdan [48](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbRzrhg6eBq-tPjJzqc4xPoxdUQU1WQklGNDZBNVJaRkMxUDVJVUxHSkNXWS4u) saat önceye kadar bir soru gönderesiniz. Başlatmayla ilgili tüm sorular çağrıda ve/veya çağrıdan sonra yayımlanan&A belgesinde yanıtlanır.  
 
 Diğer konularla ilgili sorularınız varsa destek [sayfasından İş Ortağı Merkezi ziyaret edin.](https://partner.microsoft.com/support/?stage=1)
 

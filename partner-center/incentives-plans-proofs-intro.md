@@ -8,12 +8,12 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 09/11/2020
-ms.openlocfilehash: d315ac84f73676f8ef21d3fc5a1cded80fb32e4d
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.openlocfilehash: bda06ce5f929d784f95ed9a9c248c29f6209356e
+ms.sourcegitcommit: 986573bc4382b803bf4d641df6dd1e37c3af1955
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123961355"
+ms.lasthandoff: 09/16/2021
+ms.locfileid: "127862349"
 ---
 # <a name="use-these-resources-to-help-you-create-incentives-plans-and-proofs-of-execution"></a>Teşvik planları ve yürütme kanıtlarını oluşturmanıza yardımcı olmak için bu kaynakları kullanın
 
@@ -21,18 +21,18 @@ ms.locfileid: "123961355"
 
 Bu makalede başarılı olmak ve belirli bir teşvik programında çalışmanız için ödeme almak için gereken bazı önemli belgeler açıklanmıştır. Bu belgeler şunlardır:
 
-- Teşvikler ortak iş talep planı
+- Teşvik planı
 - Ayrıntılı yürütme kanıtı (PoE)
 
-Kaydolduyuz teşvik programının türüne bağlı olarak, teşvikler ortak çalışma talep planınız ve yürütme kanıtınız (PoE) teşviklerle başarınıza yardımcı olur.
+Kaydolduyuz teşvik programının türüne bağlı olarak, planınız ve yürütme kanıtınız (PoE) teşviklerle başarınıza yardımcı olur.
 
-## <a name="what-is-an-incentives-co-op-claims-plan"></a>Teşvikler ortak iş talep planı nedir?
+## <a name="what-is-an-incentives-plan"></a>Teşvik planı nedir?
 
-Teşvikler ortak çalışma talep planı, programlarınızı başarılı hale hazırlamak için gereken pazarlama kampanyalarını, etkinlikleri ve diğer ayrıntıları açıklar. Bu planı oluşturdukta onay için Microsoft'a göndersiniz. Planınızı oluşturma hakkında [daha fazla bilgi.](incentives-create-your-plan.md)
+Teşvik planı, programını başarılı bir hale hazırlamak için gereken pazarlama kampanyalarını, etkinlikleri ve diğer ayrıntıları açıklar. Bu planı oluşturdukta onay için Microsoft'a göndersiniz. Planınızı oluşturma hakkında [daha fazla bilgi.](incentives-create-your-plan.md)
 
 ## <a name="what-is-a-proof-of-execution-poe"></a>Yürütme kanıtı (PoE) nedir?
 
-Teşvik çalışmalarınız için ödemenizi aldıktan sonra, Microsoft'a ayrıntılı yürütme kanıtı (PoE) göndermeniz gerekir. PoE'niz ilgili kampanya, teşvik etkinliğinin meydana geldiği tarih ve talep edilecek tutarla ilgili ayrıntıları içerebilir. 
+Teşvik çalışmalarınız için ödemenizi aldıktan sonra Microsoft'a ayrıntılı yürütme kanıtı (PoE) göndermeniz gerekir. PoE'niz ilgili kampanya, teşvik etkinliğinin meydana geldiği tarih ve talep edilecek tutarla ilgili ayrıntıları içerebilir. 
 
 Yürütme kanıtlarını [hazırlama hakkında daha fazla bilgi.](incentives-prepare-your-proof-of-execution.md)
 
