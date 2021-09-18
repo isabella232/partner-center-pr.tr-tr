@@ -11,12 +11,12 @@ ms.custom:
 - references_regions
 ms.localizationpriority: high
 ms.date: 08/30/2021
-ms.openlocfilehash: 78c8a559e589a71566db7fa9f20e0c5647854d8c
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.openlocfilehash: aa9ab9d33b3e067027b91039108c3eee5fea13e5
+ms.sourcegitcommit: 8d5c2463fc0f0c03972a6f89d01605421288daea
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126248384"
+ms.lasthandoff: 09/18/2021
+ms.locfileid: "127932860"
 ---
 # <a name="august-2021-announcements"></a>Ağustos 2021 duyuruları
 
@@ -40,7 +40,7 @@ Toplu Lisanslama programında iş ortakları
 
 ### <a name="details"></a>Ayrıntılar
 
-1 Eylül 2021'Microsoft 365 için Gizlilik Yönetimi'nin başlatılması geciktirildi. Fiyat listesi önizlemesi ile paylaşılan SKUS'lar şu anda sipariş için kullanılamaz.
+1 Eylül 2021 Microsoft 365 için Gizlilik Yönetimi'nin başlatılması geciktirildi. Fiyat listesi önizlemesi ile paylaşılan SKUS'lar şu anda sipariş için kullanılamaz.
 
 Fiyat listesi önizlemesine dahil edilen, etkilene SKUS'lar:
 
@@ -61,10 +61,10 @@ Bu konu başlığıyla ilgili kaynakları gözden geçirme ve kuruluşta uygun p
 
 ### <a name="questions"></a>Sorularınız mı var?
 
-Bu teklifler hakkında daha fazla soru için ilgili topluluklar için Yammer kontrol edin.
+Bu teklifler hakkında daha fazla soru için ilgili topluluklarınızı Yammer kontrol edin.
 
 ________________
-## <a name="announcing-windows-server-2022-general-availability-in-october"></a><a name="19"></a>Ekim'de Windows Server 2022 genel kullanılabilirliği hakkında bilgi
+## <a name="announcing-windows-server-2022-general-availability-in-october"></a><a name="19"></a>Ekim ayında Windows Server 2022 genel kullanılabilirliği hakkında bilgi
 
 ### <a name="summary"></a>Özet
 
@@ -85,7 +85,7 @@ Windows Bir sonraki Long-Term Bakım Kanalı (LTSC) sürümü olan Server 2022, 
 
 Windows Server 2022 gelişmiş çok katmanlı güvenlik, Azure ile hibrit özellikler ve esnek bir uygulama platformu sunar. Bu genel kullanılabilirlik kapsamında, Windows Server 2022'de iş yüklerini çalıştıracak sistemlerin güvenliğini sağlamak için Windows Server'a güvenli çekirdek özellikleri getiriyoruz. Güvenli çekirdek sunucu, üretici yazılımı güvenlik açıklarından ve gelişmiş kötü amaçlı yazılımlardan Windows Defender System Guard ve sanallaştırma tabanlı güvenlik gibi teknolojileri temel almaktadır. Yeni sürüm ayrıca güvenli bağlantı da sağlayarak daha hızlı ve daha güvenli şifrelenmiş HTTPS bağlantıları ve endüstri standardı SMB AES 256 şifrelemesi gibi yeni özellikler sunar.
 
-Windows Server 2022, önemli ölçüde geliştirilmiş sanal makine yönetimi, gelişmiş bir olay görüntüleyici ve Windows Yönetim Merkezi'nde daha birçok yeni özellik ile karma sunucu yönetimini iyiler. Ayrıca, bu sürüm daha hızlı indirme için küçük Windows, basitleştirilmiş ağ ilkesi uygulaması ve .NET uygulamaları için kapsayıcılama araçları gibi kapsayıcıya yönelik önemli geliştirmeler içerir.
+Windows Server 2022, önemli ölçüde iyileştirilmiş sanal makine yönetimi, gelişmiş bir olay görüntüleyici ve Windows Yönetim Merkezi'nde daha birçok yeni özellik ile karma sunucu yönetimini iyiler. Ayrıca, bu sürüm daha hızlı indirme için küçük Windows, basitleştirilmiş ağ ilkesi uygulaması ve .NET uygulamaları için kapsayıcılama araçları gibi kapsayıcıya yönelik önemli geliştirmeler içerir.
 
 ### <a name="additional-resources"></a>Ek kaynaklar
 
@@ -138,7 +138,7 @@ CSP doğrudan fatura iş ortakları ve dolaylı sağlayıcıları, dolaylı sağ
 
 1 Eylül 2021'den itibaren geçerli olacak [](/partner-center/develop/test-and-debug) şekilde, Microsoft CSP programı için yeni ticari deneyimde tümleşik korumalı alan testi için yer tabanlı teklifleri etkinleştirecek. [](https://partner.microsoft.com/resources/detail/new-commerce-for-csp-seat-based-offers.pdf)
 
-CSP'Microsoft 365 Dynamics 365, Power Platform ve Windows 365 tekliflerinin yeni ticaret deneyimine ek olarak, yeni ticaret yolculuğumuza önemli bir kilometre taşı daha eksildi. Microsoft, iş ortaklarının CSP gelirlerini artırarak müşterilere daha fazla seçenek sağlamalarını sağlayan yeni iş fırsatlarına, ürün yeniliklerine, daha iyi araçlara ve erişime yatırımlar sunmaktadır. Ticari platformumuz gelişiyor ve iş ortaklarının ve müşterilerin dijital dönüşümde başarılı olması için sipariş ve abonelik yönetimi süreçlerimizi geliştiriyoruz.
+CSP'de Microsoft 365, Dynamics 365, Power Platform ve Windows 365 tekliflerinin yeni ticaret deneyimine ek olarak, yeni ticaret yolculuğumuza önemli bir kilometre taşı daha eksildi. Microsoft, iş ortaklarının CSP gelirlerini artırarak müşterilere daha fazla seçenek sağlamalarını sağlayan yeni iş fırsatlarına, ürün yeniliklerine, daha iyi araçlara ve erişime yatırımlar sunmaktadır. Ticari platformumuz gelişiyor ve iş ortaklarının ve müşterilerin dijital dönüşümde başarılı olması için sipariş ve abonelik yönetimi süreçlerimizi geliştiriyoruz.
 
 Sandbox test ortamında yer alan iş ortakları, bu tekliflere yönelik gelişmiş planlama, işlem yapma ve teknik tümleştirmeye izin veren, bilgisayar tabanlı tekliflere yönelik yeni ticaret deneyiminden erken görünürlüğe sahip olacaktır.
 
@@ -389,7 +389,7 @@ Windows 365, haziran 2021 ' de duyuruldu ve bir ürün olarak başlatıldığın
 
 (* Internet erişimi gerekli, ücretler uygulanabilir. desteklenen cihazların listesi için [Windows 365 sss](https://aka.ms/Windows365/Partner002) bölümüne bakın.)
 
-*Windows 365 ' de kurumsal satın alma 2021 hareketi için yeni ticari deneyime sahip olacak (daha fazla bilgi edinmek için [Windows 365 L100 destesi için lisanslamayı](https://partner.microsoft.com/resources/detail/windows-365-licensing-l100-deck-pdf) gözden geçirin ve adım [eylül 'de, 2021 CSP](https://aka.ms/licensingwindows365) 'de, ek ayrıntılar).* CSP 'deki yeni ticari deneyim, müşterilerin bu yeni ürüne uzun vadeli taahhütte karşılaşmasına ve kullanıcı başına fiyatlandırmayla aylık kullanıcı sayısını ayarlamasına olanak sağlayacak Windows 365 yalnızca yeni aylık dönem teklifi aracılığıyla sunacaktır. son olarak, yeni Windows 365 özellikleri ve gelecekteki geliştirmeler, CSP 'de yalnızca yeni ticaret kapsamını sunacak şekilde kullanıma sunulacaktır.
+*365 2021 eylül 'de kurumsal satın alma hareketi için yeni ticaret deneyiminde Windows (daha fazla bilgi edinmek için [Windows 365 L100 destesi için lisanslama](https://partner.microsoft.com/resources/detail/windows-365-licensing-l100-deck-pdf) ' i gözden geçirin ve lisanslama sırasında, [lisanslandırma](https://aka.ms/licensingwindows365) sırasında gönderilecek ek ayrıntılar) ve CSP 'yi 2021 ekim ayında bulabilirsiniz.* CSP 'deki yeni ticari deneyim, müşterilerin bu yeni ürüne uzun vadeli taahhütte karşılaşmasına ve kullanıcı başına fiyatlandırmayla aylık kullanıcı sayısını ayarlamasına olanak sağlayacak Windows 365 yalnızca yeni aylık dönem teklifi aracılığıyla sunacaktır. son olarak, yeni Windows 365 özellikleri ve gelecekteki geliştirmeler, CSP 'de yalnızca yeni ticaret kapsamını sunacak şekilde kullanıma sunulacaktır.
 
 #### <a name="transitioning-to-the-new-commerce-experience"></a>Yeni ticari deneyime geçiş
 
@@ -424,144 +424,144 @@ Bu konuyla ilgili kaynakları gözden geçirin ve kuruluşunuzdaki uygun hisseda
 
 Bu teklifler hakkında daha fazla soru için, ilgili Microsoft Iş ortağı Community denetleyin.
 
-## <a name="update-to-our-commercial-pricing-for-microsoft-365"></a><a name="13"></a>Microsoft 365 için ticari fiyatlandırmamız güncelleştirin
+## <a name="update-to-our-commercial-pricing-for-microsoft-365"></a><a name="13"></a>Microsoft 365 için ticari fiyatlandırmamıza güncelleştirin
 
 ### <a name="summary"></a>Özet
 
-Microsoft, 19 ağustos 2021 ' de, 1 mart 2022 ' de geçerli olacak Microsoft 365 için ticari fiyatlandırmamız için bir güncelleştirme duyurmuştur.
+19 Ağustos 2021'de Microsoft, 1 Mart 2022'de Microsoft 365 için ticari fiyatlandırmamızda bir güncelleştirme olduğunu duyurdu.
 
 ### <a name="categories"></a>Kategoriler
 
 - Tarih: 2021-08-19
 - Özellikler
 
-### <a name="impacted-audience"></a>Etkilenen hedef kitle
+### <a name="impacted-audience"></a>Etkilene hedef kitle
 
 Bulut Çözümü Sağlayıcısı iş ortakları
 
 ### <a name="details"></a>Ayrıntılar
 
-19 ağustos 2021 ' de, Office 365 2011 ' de piyasaya sürülmesinden bu yana [Microsoft 365 için ticari fiyatlandırmamız için bir güncelleştirme duyurduk](https://aka.ms/M365PriceUpdate). Bu değişiklik, 1 Mart 2022 ' den itibaren müşterilere yaklaşık altı aylık öncelikli bildirim sağlamak için geçerli olacaktır. Şunları içerir:
+19 Ağustos 2021 Perşembe [günü, Microsoft 365](https://aka.ms/M365PriceUpdate)için ticari fiyatlandırmamızda bir güncelleştirme duyurusmuştuk. Office 365'den bu yana ilk önemli güncelleştirme Haziran 2011'de yayınlandı. Bu değişiklik 1 Mart 2022'de yürürlüğe girecek ve müşterilere altı ay önceden bildirim sağlamayı sağlar. Şunları içerir:
 
-- **Enterprise:** Microsoft 365 E3 $32 (kullanıcı başına $36 ' e), Office 365 E5 ($35-$38), Office365 E3 ($20) ve Office 365 E1 ($23 $8)
-- **küçük orta ölçekli işletme (SMB):** Microsoft 365 İş Temel (kullanıcı başına $5-$6) ve iş Premium ($20 $22)
+- **Enterprise:** Microsoft 365 E3 (kullanıcı başına 32 ABD dolarını 36 ABD doları), Office 365 E5 (35 ABD dolarını 38 ABD doları), Office365 E3 'ü (20 ABD dolarını 23 ABD doları) ve Office 365 E1 'ı (8 ABD dolarını 10 ABD doları)
+- **Küçük Orta Ölçekli İşletme (SMB):** Microsoft 365 İş Temel (kullanıcı başına 5 ABD doları ile 6 ABD doları) ve İş Premium (20 ABD dolarını 22 ABD doları)
 
-ABD kamu bulut müşterilerinin fiyatlandırmasına yapılan değişiklikler, mevcut gereksinimlerle birkaç yıl içinde aşamalı olarak çalışır. Eğitim veya tüketici ürünleri için şu anda bir fiyat değişikliği yoktur.
+ABD kamu bulut müşterileri için fiyatlandırma değişiklikleri, mevcut gereksinimlere uygun olarak birkaç yıl içinde aşamalı olacak. Şu anda eğitim veya tüketici ürünleri için fiyat değişikliği yoktur.
 
-**Bu fiyat güncelleştirme, son 10 yıl içinde müşterilerin değişen ihtiyaçlarını karşılamak için teslim ettiğimiz ürün yeniliği üzerinde oluşturulur.** İlk sürümden itibaren 25 yeni uygulama ve 1.400 ' den fazla özellik ekledik. bu, Microsoft Teams, toplantılar, sohbetler, çağrılar, işbirliği ve iş süreçlerini otomatikleştirebilme olanağı sunan tek çözüm olarak giriş içerir. belgeler ve e-postalar, Office mesajlaşma şifrelemesi ve saldırı yüzeyi azaltma özellikleri için veri kaybı önleme (DLP) gibi yetenekler ekledik. Görevleri otomatikleştirmeye yardımcı olan yeni AI destekli yetenekler ekledik, ihtiyaç duyduğumuz bilgileri bulduk ve herkes için daha erişilebilir olan yollarla iletişim kurmamıza yardımcı olur.
+**Bu fiyat güncelleştirmesi, müşterilerin değişen ihtiyaçlarını karşılamak için son 10 yılda teslim edilen ürün yenilikleri üzerine inşa edilir.** İlk sürümden bu yana 25 yeni uygulama ve 1.400'den fazla özellik ekledik. Buna toplantılar, sohbetler Microsoft Teams çağrılar, işbirliği ve iş işlemlerini otomatikleştirme olanağı ile tek çözüm olarak Microsoft Teams'nin tanıtı da dahildir. Belgeler ve e-postalar için veri kaybı önleme (DLP), mesajlaşma şifrelemesi Office saldırı yüzeyi azaltma özellikleri gibi özellikler ekledik. Ayrıca görevleri otomatikleştirmeye, ihtiyacımız olan bilgileri bulmaya ve herkes için daha erişilebilir bir şekilde iletişim kurmamıza yardımcı olan yeni, AI tarafından desteklenen özellikler ekledik.
 
-ayrıca, ücretli kurumsal, iş, önde gelen ve kamu paketlerimiz genelinde **sınırsız arama uzantısının yanı sıra** kullanıcıların neredeyse tüm cihazlardan Teams bir toplantı aramasını ve katılımlarını bir şekilde birleştirmelerini sağlar. Bu değişiklik şunları etkiler:
+**Ayrıca ücretli kuruluş,** iş, ön hat ve kamu paketlerimiz genelinde sınırsız sayıda aramanın uzantısını duyurduk. Bu da kullanıcıların hemen hemen her cihazdan bir Teams toplantılarına katılmasını mümkün hale geldi. Değişiklik şunları etkiler:
 
 - **Enterprise:** Microsoft 365 E3, Office 365 E3 ve Office 365 E1
-- **kamu (GCC, GCCH ve DOD):** Microsoft 365 E3, Office 365 E3, Office 365 E1, Microsoft 365 F3 ve Microsoft 365 F1
-- **frontline:** Microsoft 365 F3, Microsoft 365 F1 ve Office 365 F3
+- **Kamu (GCC, GCCH ve DOD):** Microsoft 365 E3, Office 365 E3, Office 365 E1, Microsoft 365 F3 ve Microsoft 365 F1
+- **Ön satır:** Microsoft 365 F3, Microsoft 365 F1 ve Office 365 F3
 - **SMB:** Microsoft 365 İş Ekstra, Microsoft 365 İş Standart ve Microsoft 365 İş Temel
 
-şu anda Microsoft 365 E5 ve Office 365 E5 dahil olmak üzere, tüm Teams deneyiminin önemli bir parçası olarak içeri arama 'yı görmeniz gerekir. Bu değişiklik Mart 2022 ' de geçerli olacaktır.
+Şu anda Microsoft 365 E5 Office 365 E5 ile birlikte, tam erişim deneyiminin önemli bir parçası olarak arama Teams görüyoruz. Bu değişiklik Mart 2022'de geçerli olacak.
 
-Bu değişiklik nedeniyle fiyatlarımızı daha net bir şekilde artırıyoruz. STB 'lerde dışarıdan arama özelliklerini genişletmek, müşterilerimizin değişen ihtiyaçlarını desteklemek için düzenli olarak yeni bir değer sunma konusunda en son örnektir.
+Net bir şekilde ifade etmek için bu değişiklik nedeniyle fiyatlarımızı artırmamız gerekmeyecek. Arama özelliklerini SKUS'lar arasında genişletmek, müşterilerimizin değişen ihtiyaçlarını desteklemek için düzenli olarak yeni değer teslim etmek için en son örnektir.
 
-Bu, dünyanın dört bir yanında gördüğdiğimiz ekonomik kurtarma işaretlerine ve son birkaç yılda pazardaki diğer satıcılardan gördüğdiğimiz fiyat artışlarına göre fiyatlandırımızın güncelleştirilmesi için doğru bir zaman olduğuna inandık. Bizim için güçlü bir değer teklifi ve müşterilerimize sürekli olarak yeni değer sunma için kanıtlanmış bir izleme kaydı sunuyoruz.
+Dünya üzerinde yaşanan ekonomik kurtarma işaretlerini ve son birkaç yıldır pazarda diğer satıcılar tarafından görülen fiyat artışlarını temel alarak fiyatlandırmamızı güncelleştirmek için doğru zaman olduğuna inanıyoruz. Güçlü bir değer teklifimiz ve müşterilerimize tutarlı bir şekilde yeni değer sunma konusunda kanıtlanmış bir kaydımız var.
 
-İş ortaklarımız için bu değişiklikler fırsat sağlar. E5 'in en iyi değeri temsil ettiğinden daha ekonomik bir şekilde saydam olmasını istiyoruz. yeni fiyatlandırma, Microsoft 365 E3 'den E5 'e kadar olan adımı azaltır. Paralel olarak, sesli konferans özelliklerine yapılan değişiklikler satıcı birleştirme için büyük/küçük harfe daha fazla destek için tasarlanmıştır.
+İş ortaklarımız bu değişiklikler size fırsat sağlar. E5'in en iyi değeri temsil ettiğini daha ekonomik bir şekilde saydam hale almak istiyorum. Yeni fiyatlandırma, E5'e Microsoft 365 E3 düşürecek. Paralel olarak, Sesli Konferans özelliklerinde yapılan değişiklikler satıcı birleştirmesi için durumu daha da desteklemeye yöneliktir.
 
 ### <a name="next-steps"></a>Sonraki adımlar
 
-- Blog gönderisini okuyun: [Microsoft 365 Için yeni fiyatlandırma](https://aka.ms/M365PriceUpdate)
-- müşterilerinizin Microsoft 365 fiyat listesine yapılan ilk madde güncellemeden haberdar olduğundan ve gelecekteki harcamaları planlarken bunları hesaba katdıklarından emin olun. müşterilerin, Microsoft 365 E5 veya Microsoft çözümlerini birleştirmek için doğru bir zaman olduğunu değerlendirmesine yardımcı olun.
-- Vadesi geçen on yıl ve altı aylık bildirimin üzerine eklenen değeri vurgulamak için [müşteriye yönelik destesi](https://cloudpartners.transform.microsoft.com/download?assetname=assets/M365-price-update-partner-deck.pptx&download=1) kullanın.
-- Müşteri sorularını yanıtlamak için [SSS](https://cloudpartners.transform.microsoft.com/download?assetname=assets/M365-price-update-partner-FAQ.docx&download=1) 'yi kullanın.
+- Blog gönderisi: [Yeni Microsoft 365 fiyatlandırması](https://aka.ms/M365PriceUpdate)
+- Müşterileriniz, fiyat listesine yapılan ilk önemli güncelleştirmenin farkında olduğundan ve gelecekteki harcamaları planlayan Microsoft 365 bunları hesaba dahil olduğundan emin olun. Müşterilerin microsoft çözümlerine geri adım atarak veya Microsoft çözümlerini birleştirmeye Microsoft 365 E5 doğru zaman olup olmadığını değerlendirmesine yardımcı olur.
+- Son on [yılda ve altı](https://cloudpartners.transform.microsoft.com/download?assetname=assets/M365-price-update-partner-deck.pptx&download=1) ay boyunca eklenen değeri vurgulamak için müşteriye yönelik desteyi kullanın.
+- Müşteri sorularını [yanıtlamak](https://cloudpartners.transform.microsoft.com/download?assetname=assets/M365-price-update-partner-FAQ.docx&download=1) için SSS'yi kullanın.
 
-Yaklaşan bu değişiklikler hakkında daha fazla bilgi için, [Microsoft 365 için ticari fiyatlandırmamız güncelleştirme](https://partner.microsoft.com/resources/collection/update-to-our-commercial-pricing#/)sırasında işlem hazırlığı galerisini ziyaret edin.
+Bu yaklaşan değişiklikler hakkında daha fazla bilgi için, güncelleştirme için ticari fiyatlandırmamızı güncelleştirme makalesi'nin Operations Readiness [galerisini Microsoft 365.](https://partner.microsoft.com/resources/collection/update-to-our-commercial-pricing#/)
 
 ### <a name="questions"></a>Sorularınız mı var?
 
-Sorularınız varsa, [CLT.partners.extranet.Microsoft.com/CLT](https://clt.partners.extranet.microsoft.com/CLT) adresinde veya [Explore.MS](https://www.explore.ms/)aracılığıyla çağrı günlüğü aracı 'nı (CLT) kullanarak bölgesel işlemler merkezinize başvurun. Sorgunuzu mümkün olduğunca çabuk çözebilmemiz için standart CLT sürecini yakından izleyin.
+Sorularınız varsa, clt.partners.extranet.microsoft.com/CLT veya Bölgesel Operasyon Merkezi Günlük Kaydı Aracı'nı (CLT) [kullanarak explore.ms.](https://clt.partners.extranet.microsoft.com/CLT) [](https://www.explore.ms/) Sorgunuza mümkün olan en hızlı şekilde çözüm getireciz için standart CLT işlemini yakından izleyin.
 
 ________________
-## <a name="august-cloud-solution-provider-csp-community-update-and-reminders"></a><a name="12"></a>ağustos Bulut Çözümü Sağlayıcısı (CSP) topluluk güncelleştirmesi ve anımsatıcıları
+## <a name="august-cloud-solution-provider-csp-community-update-and-reminders"></a><a name="12"></a>Ağustos Bulut Çözümü Sağlayıcısı (CSP) topluluk güncelleştirmeleri ve anımsatıcılar
 
 ### <a name="summary"></a>Özet
 
-[CSP aylık güncelleştirme Bülteni](https://partner.microsoft.com/resources/detail/csp-monthly-update-august-2021-global) , size temel program güncelleştirmeleri sağlayan ek [CSP topluluk kaynaklarıyla](https://partner.microsoft.com/resources/collection/august-2021-csp-partner-community-content#/) birlikte kullanıma sunulmuştur.
+CSP [aylık güncelleştirme bülteni,](https://partner.microsoft.com/resources/detail/csp-monthly-update-august-2021-global) temel program güncelleştirmelerini sağlayan [ek CSP](https://partner.microsoft.com/resources/collection/august-2021-csp-partner-community-content#/) topluluk kaynaklarıyla birlikte kullanılabilir.
 
 ### <a name="categories"></a>Kategoriler
 
 - Tarih: 2021-08-16
 - Özellikler
 
-### <a name="impacted-audience"></a>Etkilenen hedef kitle
+### <a name="impacted-audience"></a>Etkilene hedef kitle
 
-CSP doğrudan fatura ortakları ve dolaylı sağlayıcılar
+CSP doğrudan fatura iş ortakları ve dolaylı sağlayıcılar
 
 ### <a name="details"></a>Ayrıntılar
 
-Bu ayın önemli konuları şunlardır:
+Bu ayki önemli konular şunlardır:
 
-- [CSP programında Azure teklifi kullanılabilirliğine yapılan değişiklikler](https://partner.microsoft.com/resources/detail/changes-to-azure-offer-availability-in-csp-pdf)
-- [Microsoft ticaret teşvik programı ve Iş ortağı merkezi geliştirmeleri](https://partner.microsoft.com/resources/detail/enhancements-to-microsoft-commerce-incentive-program-and-partner-center-pdf)
-- [iş ortağı merkezi Analizler analytics verilerine programlı erişim](https://partner.microsoft.com/resources/detail/programmatic-access-to-partner-center-insights-analytics-data-pdf)
-- [Iş Ortağı Merkezi API 'Lerini çağıran iş ortaklarına API azaltma ile tanışın](https://partner.microsoft.com/resources/detail/introducing-api-throttling-to-partners-calling-partner-center-apis-pdf)
+- [CSP programında Azure teklifi kullanılabilirliği değişiklikleri](https://partner.microsoft.com/resources/detail/changes-to-azure-offer-availability-in-csp-pdf)
+- [Microsoft Ticaret Teşvik programı ve geliştirmeleri İş Ortağı Merkezi](https://partner.microsoft.com/resources/detail/enhancements-to-microsoft-commerce-incentive-program-and-partner-center-pdf)
+- [İş Ortağı Merkezi Analizler analiz verilerine programlı erişim](https://partner.microsoft.com/resources/detail/programmatic-access-to-partner-center-insights-analytics-data-pdf)
+- [Api'leri çağıran iş ortaklarına API İş Ortağı Merkezi tanıtımı](https://partner.microsoft.com/resources/detail/introducing-api-throttling-to-partners-calling-partner-center-apis-pdf)
 - [Genel Bakış: Gelişmiş abonelikler geçiş aracı](https://partner.microsoft.com/resources/detail/overview-enhanced-subscriptions-transition-tool-pdf)
-- [Windows 365 ile tanışın: karma dünya için karma Windows](https://partner.microsoft.com/resources/detail/introducing-windows-365-hybrid-windows-for-a-hybrid-world-pdf)
+- [365 Windows ye tanıtma: Hibrit Windows karma dünya için hibrit bulut](https://partner.microsoft.com/resources/detail/introducing-windows-365-hybrid-windows-for-a-hybrid-world-pdf)
 
-#### <a name="csp-community-qa-reminder"></a>CSP Community Q&bir anımsatıcı
+#### <a name="csp-community-qa-reminder"></a>CSP Community Q&anımsatıcı
 
-Aylık CSP topluluk Q&bir oturum, daha fazla bilgi edinmek ve programı etkileyen değişiklikler hakkında sorular sormak için size bir fırsat sağlar. Bu ayın çağrısı, önceki bölümde ve daha birçok konuda listelenen konulara odaklanacaktır.
+Aylık CSP topluluğu&oturumu, daha fazla bilgi edinmek ve programı etkileyen değişiklikler hakkında sorular sorma fırsatı sağlar. Bu ayın çağrısı önceki bölümde listelenen konulara ve daha birçok konuya odaklanacak.
 
-[Çağrıya katmak için buraya kaydolun.](https://globalpbocomm.eventbuilder.com/GlobalCSP)
+[Çağrıya katılmak için buraya kaydolmanız gerekir.](https://globalpbocomm.eventbuilder.com/GlobalCSP)
 
-#### <a name="always-availablelaunch-content-on-demand"></a>Her zaman kullanılabilir — içeriği isteğe bağlı olarak başlatın
+#### <a name="always-availablelaunch-content-on-demand"></a>Her zaman kullanılabilir—İçeriği isteğe bağlı olarak başlatma
 
-Aylık [CSP topluluk koleksiyonu](https://partner.microsoft.com/resources/collection/august-2021-csp-partner-community-content#/)içinde şunları bulabilirsiniz:
+Aylık [CSP topluluk koleksiyonu içinde](https://partner.microsoft.com/resources/collection/august-2021-csp-partner-community-content#/)şunları bulabilirsiniz:
 
-- En son CSP bildirilerini, güncelleştirmeleri, olayları ve anımsatıcıları kolay okunabilir bir belgede toplayan, indirilebilir [CSP aylık güncelleştirme Bülteni](https://partner.microsoft.com/resources/detail/csp-monthly-update-august-2021-global) .
-- Programın etkilediği yaklaşan değişikliklerin zaman çizelgesi görünümünü sağlayan [CSP duyurusu takvimi](https://partner.microsoft.com/resources/detail/csp-announcement-calendar-august-2021-pdf) .
-- Yaklaşan ürünün başlatıldığı ve tekliflerinin görüntüleneceği **Yeni** [ürün başlatma takvimi](https://partner.microsoft.com/resources/detail/product-launch-calendar-august-pdf) .
-- İş ortakları ve müşteriler tarafından sunulan son ve yaklaşan promosyonları kapsayan **Yeni** [genel promosyon hazırlığı Kılavuzu](https://partner.microsoft.com/resources/collection/global-promo-readiness-guide-collection#/) .
-- CSP, anahtar işletimsel değişiklikler üzerinde kullanımı kolay içerik ile [güncelleştirme kaynaklarını başlatın](https://partner.microsoft.com/resources/collection/csp-launch-topics-collection#/) .
-- Önemli CSP ile ilgili [Yenileiciler ve anımsatıcıları](https://partner.microsoft.com/resources/detail/csp-august-2021-refreshers-and-reminders-pdf) , ilgi ve sorguları alma konuları.
+- Son [CSP duyurularını,](https://partner.microsoft.com/resources/detail/csp-monthly-update-august-2021-global) güncelleştirmelerini, olaylarını ve anımsatıcıları kolay okunur bir belgede toplanmış indirilebilir CSP Aylık Güncelleştirme bülteni.
+- Programı etkileyen yaklaşan değişikliklerin zaman çizelgesi görünümünü sağlayan [CSP](https://partner.microsoft.com/resources/detail/csp-announcement-calendar-august-2021-pdf) Duyuru Takvimi.
+- Yaklaşan **ürün** [lansmanlarını](https://partner.microsoft.com/resources/detail/product-launch-calendar-august-pdf) ve tekliflerini görüntüyebilirsiniz yeni ürün lansman takvimi.
+- İş **ortakları** [ve müşteriler için kullanılabilir olan](https://partner.microsoft.com/resources/collection/global-promo-readiness-guide-collection#/) son ve yaklaşan promosyonları harmanlamanın yeni Küresel Promosyon Hazırlığı Kılavuzu.
+- [CSP, önemli işlem değişikliklerinde](https://partner.microsoft.com/resources/collection/csp-launch-topics-collection#/) kullanımı kolay içerikle güncelleştirme kaynaklarını başlatacak.
+- [İlgi ve sorgu alan önemli](https://partner.microsoft.com/resources/detail/csp-august-2021-refreshers-and-reminders-pdf) CSP konularına ilişkin yenilemeler ve anımsatıcılar.
 
-Lisanslama hazırlığı mi gerekiyor? [Aylık CSP servisleri web seminerleri](https://commercial_licensing.eventbuilder.com/YearToDate_ALL) , tüm iş ortakları için kullanılabilen en son CSP lisanslama bilgilerini kapsar.
+Lisans hazırlığı mı gerekiyor? Aylık [CSP spotlight web seminerleri,](https://commercial_licensing.eventbuilder.com/YearToDate_ALL) tüm iş ortakları için kullanılabilen en son CSP lisans bilgilerini içerir.
 
 ### <a name="next-steps"></a>Sonraki adımlar
 
-topluluk kaynaklarını gözden geçirin ve soru-cevap Community çağrısı A&kaydolun.
+Topluluk kaynaklarını gözden geçirme ve Soru-Cevap Community için&.
 
 ### <a name="questions"></a>Sorularınız mı var?
 
-Aylık CSP topluluk Q&bir çağrı, CSP programındaki işletimsel değişiklik hakkında sorular getirmek için en iyi yerdir. Çağrıdan önce 48 saate kadar [bir soru gönderebilirsiniz](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbRzrhg6eBq-tPjJzqc4xPoxdUQU1WQklGNDZBNVJaRkMxUDVJVUxHSkNXWS4u) . Başlatma ile ilgili tüm sorulara çağrı ve/veya çağrıdan sonra yayımlanan bir belge&. Son ayın [topluluk koleksiyonunu](https://partner.microsoft.com/resources/collection/july-2021-csp-partner-community-content#/) ziyaret edebilir ve Haziran olayından sonra yayımlanan [bir belgeyi soru&](https://partner.microsoft.com/resources/detail/fy21-june-csp-community-questions-and-answers-pdf) gözden geçirebilirsiniz.
+Aylık CSP topluluğu Q&A çağrısı, CSP programında operasyonel değişiklikle ilgili sorular getirmek için en iyi yerdir. Aramadan [48](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbRzrhg6eBq-tPjJzqc4xPoxdUQU1WQklGNDZBNVJaRkMxUDVJVUxHSkNXWS4u) saat önceye kadar bir soru gönderesiniz. Başlatmayla ilgili tüm sorular çağrıda ve/veya çağrıdan sonra yayımlanan&A belgesinde yanıtlanır. Geçen ayın topluluk koleksiyonunu ziyaret edin [ve](https://partner.microsoft.com/resources/collection/july-2021-csp-partner-community-content#/) Haziran [etkinliği&yayımlanan Q](https://partner.microsoft.com/resources/detail/fy21-june-csp-community-questions-and-answers-pdf)&A belgesini gözden geçirebilirsiniz.
 
-Diğer CSP konuları hakkında sorularınız mı var? [Iş ortağı merkezi desteği](https://partner.microsoft.com/support/?stage=1) sayfasını ziyaret edin.
+Başka bir CSP konusuyla ilgili sorularınız mı var? İş Ortağı Merkezi [Sayfasını ziyaret](https://partner.microsoft.com/support/?stage=1) edin.
 
 ________________
-## <a name="get-genuine-windows-agreement-ggwa-offers-in-the-cloud-solution-provider-program-temporarily-unavailable"></a><a name="11"></a>Orijinal Windows Edinme Bulut Çözümü Sağlayıcısı programda geçici olarak kullanılamayan sözleşme (ggwa) teklifleri
+## <a name="get-genuine-windows-agreement-ggwa-offers-in-the-cloud-solution-provider-program-temporarily-unavailable"></a><a name="11"></a>Orijinal Windows Edinme Bulut Çözümü Sağlayıcısı programda sözleşme (GGWA) teklifleri geçici olarak kullanılamıyor
 
 ### <a name="summary"></a>Özet
 
-CSP programı aracılığıyla işlem temelli GGWA teklifleri geçici olarak kullanılamaz. Daha fazla bildirimde bulunuluncaya kadar, iş ortakları açık lisans programı aracılığıyla Transact GGWA 'ya devam etmelidir.
+CSP programı aracılığıyla işlem yapılan GGWA teklifleri geçici olarak kullanılamıyor. Bir sonraki bildirime kadar iş ortaklarının Açık Lisans programı aracılığıyla GGWA'yı işlem yapmaya devamları gerekir.
 
 ### <a name="categories"></a>Kategoriler
 
 - Tarih: 2021-08-16
-- Işletmenizi büyütün
+- İşletmenizi Büyüt
 
-### <a name="impacted-audience"></a>Etkilenen hedef kitle
+### <a name="impacted-audience"></a>Etkilene Hedef Kitle
 
-Tüm iş ortakları CSP aracılığıyla deneyimidir GGWA teklifleri
+CSP aracılığıyla GGWA tekliflerini işlemden alan tüm iş ortakları
 
 ### <a name="details"></a>Ayrıntılar
 
-csp 'de işlenen Orijinal Windows Edinme sözleşmesi (ggwa) için yazılım anahtarları kullanılamaz, bu nedenle hemen etkili, Microsoft bu teklifleri csp programından geçici olarak kaldırıyor. GGWA teklifleri, 1 Eylül 2021 tarihine kadar CSP fiyat listesinde görünür, ancak Katalog/Iş Ortağı Merkezi 'nde sıralanamaz.
+CSP'de Orijinal Windows Edinme Sözleşme (GGWA) tekliflerini yazılım anahtarları kullanılamaz, bu nedenle hemen geçerli olur, Microsoft bu teklifleri CSP programından geçici olarak kaldırmaktadır. GGWA teklifleri 1 Eylül 2021'e kadar CSP fiyat listesinde görünür, ancak katalogda/fiyat listesinde İş Ortağı Merkezi.
 
-Çözüm yaptığımız sırada iş ortakları, açık lisans programı aracılığıyla Transact GGWA teklifleri için önerilir. Daha fazla uyarı, bir düzelme uygulandıktan sonra 31 Aralık 2021 ' den önce beklenen şekilde sunulacaktır.
+Bu sorunu çözmek için çalışıyoruz ancak iş ortaklarının Açık Lisans programı aracılığıyla GGWA tekliflerini işlemden çözmeleri önerilir. 31 Aralık 2021'den önce beklenen bir düzeltme uygulandıktan sonra ek bildirim sağlanacaktır.
 
 >[!NOTE]
 >GGWA teklifi, müşterinin yanlış lisanslama durumunu çözmelerine yardımcı olmak için kullanılır. GGWA SKU'ları yalnızca bir Microsoft uyumluluk denetimine göre sıra edilebilir. Daha fazla bilgi için bkz. [Microsoft Ürün Koşulları.](https://www.microsoft.com/licensing/terms/welcome/welcomepage)
 
 ### <a name="next-steps"></a>Sonraki adımlar
 
-CSP'de GGWA tekliflerini işlemden aşan iş ortakları için, para iadesi için satın alma tarihini takip eden 30 gün içinde bu lisansları iade edin. Bu görevi, buradaki İş Ortağı Merkezi içinde [tamamlarsınız.](../csp-software-subscriptions.md#cancel-a-purchase) İş ortakları, 30 gün sonra yapılan satın alma iadeleri için **CSP**, **Transact** ve Manage , Return veya refund yazılımlarını seçerek İş Ortağı Merkezi'de bir **bilet açabilir.**
+CSP'de GGWA tekliflerini işlemden aşan iş ortakları için, para iadesi için satın alma tarihini takip eden 30 gün içinde bu lisansları iade edin. Bu görevi, İş Ortağı Merkezi (CSP) programı aracılığıyla yazılım abonelikleri satış Bulut Çözümü Sağlayıcısı [sayfasından tamamabilirsiniz.](../csp-software-subscriptions.md#cancel-a-purchase) İş ortakları, 30 gün sonra yapılan satın alma iadeleri için **CSP**, **Transact** ve Manage , Return veya refund yazılımlarını seçerek İş Ortağı Merkezi'de **bir bilet açabilir.**
 
 Lütfen sonraki bir bildirime kadar tüm yeni veya değiştirme GGWA siparişlerini Açık Lisans programı aracılığıyla işlemden geçebilirsiniz.
 
@@ -589,7 +589,7 @@ Bulut Çözümü Sağlayıcısı programı aracılığıyla işlem Bulut Çözü
 
 ### <a name="details"></a>Ayrıntılar
 
-Tüm güncel ve yaklaşan promosyonların birleştirilmiş bir görünümü olan en son Global Promosyon Hazırlığı Kılavuzu artık İşlem hazırlığı kaynak galerisinde kullanılabilir. Burada etkin ve yaklaşan promosyonlara ve tekliflere [bakın.](https://partner.microsoft.com/resources/collection/global-promo-readiness-guide-collection#/)
+Tüm güncel ve yaklaşan promosyonların birleştirilmiş bir görünümü olan en son Global Promosyon Hazırlığı Kılavuzu artık İşlem hazırlığı kaynak galerisinde kullanılabilir. Küresel Promosyon Hazırlığı Kılavuzu koleksiyonunda etkin ve yaklaşan [promosyonlara ve tekliflere bakın.](https://partner.microsoft.com/resources/collection/global-promo-readiness-guide-collection#/)
 
 ### <a name="next-steps"></a>Sonraki adımlar
 
@@ -597,7 +597,7 @@ Tüm güncel ve yaklaşan promosyonların birleştirilmiş bir görünümü olan
 
 ### <a name="questions"></a>Sorularınız mı var?
 
-Bu teklifler hakkında sorularınız için ilgili toplulukları Yammer kontrol edin.
+Bu teklifler hakkında sorularınız için ilgili topluluklar için Yammer kontrol edin.
 
 ________________
 ## <a name="compliance-monitoring-through-the-partner-accountability-management-pam-team"></a><a name="9"></a>İş Ortağı Sorumluluk Yönetimi (PAM) ekibi aracılığıyla uyumluluk izleme
@@ -621,7 +621,7 @@ Dünya çapında Microsoft ile işlem yapılan iş ortakları
 
 Uyumluluk ve güven kültürünü teşvik etmek ve sürdürmek için, Microsoft neredeyse iki yıl önce PAM ekibi aracılığıyla uyumluluk izlemesi kurdu. PAM ekibi, izleme çalışmalarını birleştirerek kanalı herkes için geliştirmeyi hedefleerek iş ortağı ekosistemimizde belirlenen ve uygun olmayan davranışlar için zamanında çözüm sağlar. Sözleşme yükümlülüklerimize bağlı olarak Microsoft, uyumluluk ihlalleri için cezalar ve kurs düzeltme girişimlerine neden olabilir.
 
-İş ortaklarının PAM'nin [nasıl işlemektedir](https://partner.microsoft.com/resources/detail/partner-accountability-management-faq-pdf) ve çoğu soruyla ilgili önemli netlik alanlarını anlarına yardımcı olmak için bir SSS belgesi oluşturduk. İş ortağı uyumluluğunu anlama [(microsoft.com) ve](https://partner.microsoft.com/resources/collection/understanding-partner-compliance#/) isteğe bağlı eğitime kaydolma hakkında daha fazla bilgi bulabilirsiniz.
+İş ortaklarının PAM'nin [nasıl işlemektedir](https://partner.microsoft.com/resources/detail/partner-accountability-management-faq-pdf) ve çoğu soruyla ilgili önemli netlik alanlarını anlarına yardımcı olmak için bir SSS belgesi oluşturduk. daha fazla bilgi için İş ortağı [uyumluluğunu anlama (microsoft.com) ve](https://partner.microsoft.com/resources/collection/understanding-partner-compliance#/) isteğe bağlı eğitime kaydolebilirsiniz.
 
 Dünya genelindeki tüm iş ortaklarımıza, tedarikçilerimize ve diğer temsilcilerimize bir anımsatıcı olarak, Microsoft Temsilcileri için Bozulma önleme İlkesimize, İş Ortağı Kullanım Kurallarımıza ve sözleşmelerimizin hüküm ve koşullarına uymak zorunludur.
 
@@ -634,7 +634,7 @@ PAM SSS hakkında bilgi edinin, isteğe bağlı eğitimi alın ve bu bilgileri k
 PAM ekibi hakkında sorularınız varsa, pam ekibinde temsilcinize Microsoft hesabı.
 
 ________________
-## <a name="windows-365-now-available-for-purchase-hybrid-windows-for-a-hybrid-world"></a><a name="8"></a>Windows 365 artık satın alınabilir: Hibrit Windows hibrit bulut
+## <a name="windows-365-now-available-for-purchase-hybrid-windows-for-a-hybrid-world"></a><a name="8"></a>Windows 365 artık satın alınabilir: Hibrit Windows hibrit dünya için hibrit bulut
 
 ### <a name="summary"></a>Özet
 
@@ -651,35 +651,35 @@ Bulut Çözümü Sağlayıcısı (CSP) programı aracılığıyla işlem yapıla
 
 ### <a name="details"></a>Ayrıntılar
 
-Microsoft, müşterilerin satın almaları [için Windows 365'in](https://aka.ms/M365EndpointPartner) kullanılabilir olduğunu duyurmak için heyecanlanıyor. Windows 365, Windows 10 veya Windows 11'de deneyim yaşamanın, kişiselleştirilmiş uygulamalarınızı, ayarlarınızı ve içeriğinizi Microsoft bulutundan herhangi bir cihaza akışa alamanıza yönelik yeni bir yol sunar.
+Microsoft, müşterilerin satın almaları [için Windows 365'in](https://aka.ms/M365EndpointPartner) artık kullanılabilir olduğunu duyurmak için heyecanlanıyor. Windows 365, Windows 10 veya Windows 11'de deneyim yaşamanın, kişiselleştirilmiş uygulamalarınızı, ayarlarınızı ve içeriğinizi Microsoft bulutundan herhangi bir cihaza akışa alamanıza yönelik yeni bir yol sunar.
 
 #### <a name="welcome-to-your-windows-365-cloud-pc"></a>Windows 365 Cloud PC'nize hoş geldiniz:
 
-- **Cihazlar arasında akış:** Bulut bilgisayarınıza anında önyükler ve cihaz Windows akışı yapabilirsiniz.  
+- **Cihazlar arasında akış:** Cloud PC'nize anında önyükler ve Windows cihazlarınızı akışla akışını yapabilirsiniz.  
 
 - **Her zaman hazır ve güncelleştirilmiş:** Buluttan akışı yapılan ve birlikte seyahat eden Windows 365, nerede olursanız olun, çalışmak istediğiniz cihazda her zaman hazırdır ve her zaman güncelleştirilir. Bu, Microsoft bulutu tarafından Windows ve çok yönlü bir deneyimdir.
 
-- **Kişisel ve tanıdık:** Windows 365, kişiselleştirilmiş ve tüm ayarlarınız ve içeriğiniz hakkında bilgi sahibidir. Bu nedenle, Bulut bilgisayarınıza geri dönebilirsiniz; bu nedenle, 365'i tam olarak bıraktığınız yerdedir.
+- **Kişisel ve tanıdık:** Windows 365, kişiselleştirilmişdir ve tüm ayarlarınız ve içeriğiniz hakkında bilgi sahibidir. Bu nedenle, Bulut bilgisayarınıza geri dönüp tam da bırakılasınız.
 
-- **Ölçeklenebilir ve esnek:** Windows 365, bulutun gücü ve bulut yönetimi ilkeleri kullanılarak tasarım Sıfır Güven. Bilgiler güvenlidir ve cihazda değil bulutta depolanır.
+- **Ölçeklenebilir ve esnek:** Windows 365, bulutun gücü ve bulut yönetimi ilkeleri kullanılarak Sıfır Güven. Bilgiler güvenlidir ve cihazda değil bulutta depolanır.
 
-- **Tahmin edilebilir maliyetler:** Windows 365, bulut bilgisayarlarını kullanıcı başına aylık fiyatlandırmayla öngörülebilir hale gelir.
+- **Tahmin edilebilir maliyetler:** Windows 365, Bulut bilgisayarlarını satın almayı kullanıcı başına aylık fiyatlandırmayla tahmin edilebilir hale gelir.
 
-- **Satın alma, dağıtma** ve yönetme basit: Windows 365, diğer çözümlerin aksine arkalarında sanallaştırma kullandığı için tedarik, dağıtım, yönetim ve güncelleştirmeleri basitleştiriyor.
+- **Satın alma,** dağıtma ve yönetme basit: Windows 365, diğer çözümlerden farklı olarak arkalarında sanallaştırmayı kullandığı için tedarik, dağıtım, yönetim ve güncelleştirmeleri basitleştiriyor.
 
 Windows 365, müşterilerin windows365.com, [Kurumsal Anlaşma](https://www.microsoft.com/windows-365?ms.url=w365&rtc=1)veya CSP programı aracılığıyla satın almaları için kullanılabilir.
 
 #### <a name="update-on-windows-365-trials"></a>Windows 365 denemelerinde güncelleştirme
 
-Yoğun talep nedeniyle 365 deneme Windows kapasiteye ulaştık, bu nedenle yeni denemeleri duraklatıyoruz. Müşteriler, [deneme abonelikleri](https://go.microsoft.com/fwlink/?linkid=2165147) devam ettirilene kadar bildirim almak için kaydolarak veya bugün burada Windows 365 satın [alabilir.](https://www.microsoft.com/windows-365?ms.url=w365&rtc=1)
+Yoğun talep nedeniyle 365 denemeden Windows kapasiteye ulaştık, bu nedenle yeni denemeleri duraklatıyoruz. Müşteriler, [deneme abonelikleri](https://go.microsoft.com/fwlink/?linkid=2165147) devam edinken bildirim almak için kaydolabilir veya Windows 365 Cloud PC'nize hoş geldiniz sayfasından [365](https://www.microsoft.com/windows-365?ms.url=w365&rtc=1)Windows satın alabilir.
 
 Bu arada, hizmeti anlamak arayan iş ortakları tıklama [tanıtımını kullanmaya devam eder.](https://interactive-demo.azureedge.net/)
 
 ### <a name="next-steps"></a>Sonraki adımlar
 
-- Microsoft Inspire [Windows 365 duyurularını](https://aka.ms/MSInspireBRK101) izleyin.
+- Microsoft Inspire [Windows 365 duyuruslarını](https://aka.ms/MSInspireBRK101) izleyin.
 
-- blog gönderimiz aracılığıyla Windows 365 hakkında daha [fazla bilgi edinebilirsiniz.](https://www.microsoft.com/microsoft-365/blog/?p=237041?)
+- blog gönderimiz aracılığıyla Windows 365 hakkında [daha fazla bilgi edinebilirsiniz.](https://www.microsoft.com/microsoft-365/blog/?p=237041?)
 
 - 365'i kullanarak [](https://aka.ms/Windows365PartnerWebinar) iş ortağı fırsatı hakkında daha fazla bilgi edinmek için 18 Ağustos'ta iş ortağı pazara Windows katılın.
 
@@ -700,7 +700,7 @@ ________________
 
 ### <a name="summary"></a>Özet
 
-Azure planında bazı güncelleştirmeler İş Ortağı Merkezi fiyat listelerinde, fiyat listesinde yer alan öğelerin aynı anda satın alınabilir öğelerle eşit olduğundan emin İş Ortağı Merkezi.
+Azure planında bazı güncelleştirmeler İş Ortağı Merkezi fiyat listelerinde, fiyat listesinin ürün listesinde satın alınabilir öğelerle eşit olduğundan emin olmak İş Ortağı Merkezi.
 
 ### <a name="categories"></a>Kategoriler
 
@@ -713,13 +713,13 @@ Dolaylı sağlayıcılar ve doğrudan fatura iş ortakları, yeni ticari deneyim
 
 ### <a name="details"></a>Ayrıntılar
 
-İş ortakları, azure planı rezervasyon fiyat listelerinden satın alınarak satın alına İş Ortağı Merkezi Rezervasyon Örnekleri (RU) ile Azure planı rezervasyonları fiyat listelerinde BULUNAN RU'lar arasında farklar gözlemleye sahip olabilir.
+İş ortakları, azure planı rezervasyon fiyat listelerinde, İş Ortağı Merkezi satın almak için kullanılabilen Rezervasyon Örnekleri (RU) ile RU'lar arasında farklar gözlemlemektedir.
 Geçmişte Azure planı rezervasyonları fiyat listeleri hatalı bir şekilde dahil edildi:
 
-1. Yalnızca Azure portal'da kullanılabilir Azure portal
+1. Yalnızca Azure portal'de kullanılabilir Azure portal
 2. Rezervasyonlar değil Azure ürünleri
  
-Azure planında bazı güncelleştirmeler İş Ortağı Merkezi fiyat listelerinde, fiyat listesinde yer alan öğelerin aynı anda satın alınabilir öğelerle eşit olduğundan emin İş Ortağı Merkezi. Bu, 2 Eylül 2021'den başlayarak ele alındır. Bu değişiklikler yalnızca yeni Commerce Azure plan ayırmaları fiyat listeleri için geçerlidir.
+Azure planında bazı güncelleştirmeler İş Ortağı Merkezi fiyat listelerinde, fiyat listesinin ürün listesinde satın alınabilir öğelerle eşit olduğundan emin olmak İş Ortağı Merkezi. Bu, 2 Eylül 2021'den başlayarak ele alındır. Bu değişiklikler yalnızca yeni Commerce Azure plan ayırmaları fiyat listeleri için geçerlidir.
 
 Eylül ayında, bir RI Iş Ortağı Merkezi 'nde işlem için kullanılabilir hale gelir, bu durumda Fiyat listelerinde mevcut olacaktır. Diğer RIS için iş ortağı, fiyatlandırmayı gözden geçirmek ve satın alma işlemleri yapmak için doğrudan Azure portal gitmelidir.
 
@@ -755,7 +755,7 @@ ________________
 
 ### <a name="summary"></a>Özet
 
-iş ortakları artık bir apı aracılığıyla iş ortağı Analizler analiz verilerine erişebilir.
+İş ortakları artık API aracılığıyla İş Ortağı Merkezi İçgörüleri analiz verilerine erişebilir.
 
 ### <a name="categories"></a>Kategoriler
 

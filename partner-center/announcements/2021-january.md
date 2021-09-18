@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 07/02/2021
-ms.openlocfilehash: 2920de80d9097fac04cbc344fce82a262a099b7d
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.openlocfilehash: ffe6aef9ff3e658c68bf7027d4ce92b87008d534
+ms.sourcegitcommit: 8d5c2463fc0f0c03972a6f89d01605421288daea
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126248375"
+ms.lasthandoff: 09/18/2021
+ms.locfileid: "127932826"
 ---
 # <a name="january-2021-announcements"></a>Ocak 2021 duyuruları
 
@@ -191,7 +191,7 @@ Dolaylı kurumsal Microsoft İş Ortağı Sözleşmesi (MPA) uygulama devam etme
 
 **Dolaylı kurumsal bayiler:** MPA'yı kabul etmiyorsanız, [MPA hakkında SSS'yi](../mpa-indirect-provider-faq.yml) gözden geçirerek [](../microsoft-partner-agreement.md) MPA'yı kabul etmek için burada bulunan adım adım yönergeleri izleyin.
 
-**Dolaylı sağlayıcılar:** Dolaylı kurumsal bayileri ile etkileşime geçin ve burada bulunan [MPA SSS](../mpa-indirect-provider-faq.yml) ve adım adım kılavuzlarını kullanarak bunları [desteklenin.](../microsoft-partner-agreement.md)
+**Dolaylı sağlayıcılar:** Dolaylı kurumsal bayileri ile etkileşime geçin ve CSP programı iş ortakları için Microsoft İş Ortağı Sözleşmesi (MPA) hakkında bilgi edinmek için [MPA SSS](../mpa-indirect-provider-faq.yml) ve adım adım kılavuzlarını kullanarak bunları [desteklenin.](../microsoft-partner-agreement.md)
 
 ### <a name="questions"></a>Sorularınız mı var?
 
@@ -222,8 +222,8 @@ Yeni işlem türleri aşağıda verilmiştir:
 ### <a name="next-steps"></a>Sonraki adımlar
 
 - DAP müşteri tarafından onaylandıktan ve müşteri tarafından sonlandırılan olayları izlemek için yeni işlem türlerinden faydalanın.  
-- [İş Ortağı Merkezi etkinliğinin kaydını al - İş Ortağı Merkezi uygulama geliştirici | Microsoft Docs](/partner-center/develop/get-a-record-of-partner-center-activity-by-user)
-- [Kaynakları denetleme - İş Ortağı Merkezi geliştirici | Microsoft Docs](/partner-center/develop/auditing-resources)
+- [Etkinlik kaydını İş Ortağı Merkezi - İş Ortağı Merkezi geliştirici | Microsoft Docs](/partner-center/develop/get-a-record-of-partner-center-activity-by-user)
+- [Kaynakları denetleme - İş Ortağı Merkezi geliştirici kaynakları | Microsoft Docs](/partner-center/develop/auditing-resources)
 
 ### <a name="questions"></a>Sorularınız mı var?
 
@@ -252,16 +252,16 @@ Bulut Çözümü Sağlayıcısı programı kapsamında Azure için yeni ticaret 
 Yeni ticaret deneyimi aşağıdaki avantajları sunar:
 
 - Azure planı ile Azure satın alma sürecini kolaylaştırır.
-- Kanallar arasında daha iyi fiyatlandırma hizalaması oluşturur. Müşteri ve iş ortağı geri bildirimlerine dayanarak, Bulut Çözümü Sağlayıcısı programı kapsamındaki yeni Azure deneyimi, müşterilere ve iş ortaklarına küresel ölçekte tutarlı fiyatlandırma sağlayan tek bir fiyat listesi kullanır.
-- Size uygun idareyi, müşteri deneyimini ve ilkeleri bir arada kullanarak bunları yeni Azure deneyimine taşımaya yönelik araçları sağlayarak müşteri edinme engellerini azaltır Bulut Çözümü Sağlayıcısı.
+- Kanallar arasında daha iyi fiyatlandırma hizalaması oluşturur. Müşteri ve iş ortağı geri bildirimlerine dayanarak, Bulut Çözümü Sağlayıcısı programı kapsamındaki yeni Azure deneyimi, müşterilere ve iş ortaklarına küresel ölçekte tutarlı fiyatlandırma sağlayarak tek bir fiyat listesi kullanır.
+- Size uygun idareyi, müşteri deneyimini ve ilkeleri bir arada kullanarak bunları yeni Azure deneyimine taşımaya yönelik araçları sağlayarak müşteri edinme engellerini Bulut Çözümü Sağlayıcısı azaltır.
 - İş ortaklarının müşteri yönetimi ve yönetim gibi özelliklerden yararlanarak müşterilerini daha Azure Lighthouse Azure Maliyet Yönetimi. 
 - Veritabanına erişimi Azure Market.
 
-Azure'ın yeni ticaret deneyimini genişleterek, azure'ın müşterilerin gelişen iş ihtiyaçlarına uyum sağlanmış bir şekilde azure'ın yönetimi esnekliğini artırmaya ve Bulut Çözümü Sağlayıcısı programıyla yeni Azure teklifine müşterinizi alma konusunda kolaylaştırmaya yardımcı olan geçiş Bulut Çözümü Sağlayıcısı etkinleştirildi. Bulut Çözümü Sağlayıcısı programında müşteri Azure aboneliklerinin geçişini desteklemek için mevcut araçlara genel Bulut Çözümü Sağlayıcısı bakın.
+Azure için yeni ticaret deneyimini genişleterek, azure'ın müşterilerin gelişen iş ihtiyaçlarına uyum sağlanmış bir şekilde yönetme esnekliğini artırmaya ve Bulut Çözümü Sağlayıcısı programıyla yeni Azure teklifine müşterinizi alma konusunda kolaylaştırmaya yardımcı olan geçiş araçlarını etkinleştirmiş olduk. Bulut Çözümü Sağlayıcısı programında müşteri Azure aboneliklerinin geçişini desteklemek için mevcut araçlara genel Bulut Çözümü Sağlayıcısı bakın.
 
 #### <a name="new-azure-in-cloud-solution-provider-program-offer-azure-plan"></a>Bulut Çözümü Sağlayıcısı programı teklifinde yeni Azure (Azure planı)
 
-Yeni ticari deneyim sayesinde iş ortakları, azure planı aracılığıyla azure hizmetleriyle ilgili olarak hizmet kapsamındaki müşterilere Microsoft Müşteri Sözleşmesi üzerinden erişim elde eder. Bu plan, bir Azure planında birden çok Azure aboneliğinin oluşturulmasını sağlayarak satın alma deneyimini basitleştiriyor. Artık azure aboneliği başına ayrı bir sipariş göndermeniz İş Ortağı Merkezi.
+Yeni ticaret deneyimiyle iş ortakları, azure planı aracılığıyla azure hizmet planı kapsamındaki müşteriler için Azure Microsoft Müşteri Sözleşmesi üzerinden erişim elde eder. Bu plan, bir Azure planında birden çok Azure aboneliğinin oluşturulmasını sağlayarak satın alma deneyimini basitleştiriyor. Artık azure aboneliği başına ayrı bir sipariş göndermeniz İş Ortağı Merkezi.
 
 #### <a name="changes-to-the-previous-azure-offer-availability-in-the-cloud-solution-provider-program"></a>Bulut Çözümü Sağlayıcısı programında önceki Azure teklifi kullanılabilirliği değişiklikleri
 
@@ -275,9 +275,9 @@ Bulut Çözümü Sağlayıcısı programı (Azure planı) kapsamındaki yeni Azu
 
 **1. Aşama – 21 Temmuz 2021'den itibaren**
 
-1. aşamada, tüm yeni Azure Bulut Çözümü Sağlayıcısı programı işleri yeni Azure planı teklifine gelecektir. Aşağıdaki yönergeler geçerlidir:
+1. aşamada, tüm yeni Azure Bulut Çözümü Sağlayıcısı programı işleri yeni Azure planı teklifinde olacak. Aşağıdaki yönergeler geçerlidir:
 
-- Bulut Çözümü Sağlayıcısı programında iş ortakları ve müşteriler arasındaki tüm mevcut kurumsal bayi ilişkileri için, müşteri önceki Azure teklifini zaten satın aldı ise iş ortağı işlem yapmaya devam eder ve müşteri bu iş ortağından önceki Azure teklifini satın almaya devam eder.
+- Bulut Çözümü Sağlayıcısı programı kapsamındaki iş ortakları ve müşteriler arasındaki tüm mevcut kurumsal bayi ilişkileri için, müşteri önceki Azure teklifini zaten satın aldı ise iş ortağı işlem yapmaya devam eder ve müşteri bu iş ortağından önceki Azure teklifini satın almaya devam eder.
 - Önceki Azure teklifi artık CSP'de işlem yapılan net-new iş ortakları tarafından kullanılamaz
 - Önceki Azure teklifi artık CSP'de bir iş ortağı aracılığıyla satın alan net-yeni müşteriler tarafından kullanılamaz
 - Tüm yeni kurumsal bayi ilişkileri veya yeni müşteri alımları için iş ortakları yalnızca yeni Azure teklifini (Azure planı) işlemden kullanabilir
@@ -305,7 +305,7 @@ Yeni ticaret deneyimiyle iş ortakları, iş ortağı tarafından kazanılan kre
 - [İş ortağı tarafından kazanılan kredi - genel bakış - İş Ortağı Merkezi | Microsoft Docs](../partner-earned-credit.md?branch=main)
 - [Yönetilen hizmetler için iş ortağı tarafından kazanılan kredi - İş Ortağı Merkezi | Microsoft Docs](../partner-earned-credit-explanation.md?branch=main)
 - [İş ortağı tarafından kazanılan kredi için roller, izinler - İş Ortağı Merkezi | Microsoft Docs](../azure-roles-perms-pec.md)
-- [İş ortağı tarafından kazanılmış krediyle ilgili isteğe bağlı eğitim CSP'de Azure modülü (eventbuilder.com)](https://commercial_licensing.eventbuilder.com/NewcommerceinCSPforAzuretrainingmodules)
+- [İş ortağı tarafından kazanılan krediyle ilgili isteğe bağlı eğitim modülü CSP'de Azure (eventbuilder.com)](https://commercial_licensing.eventbuilder.com/NewcommerceinCSPforAzuretrainingmodules)
 
 #### <a name="the-new-commerce-experience"></a>Yeni ticaret deneyimi
 
@@ -332,7 +332,7 @@ Tüm CSP iş ortakları
 >[!NOTE]
 >İş ortağı geri bildirimi nedeniyle, kalıcı ve İş Ortağı Merkezi abonelik yazılım siparişleri için yazılım ve lisans anahtarları alma olanağını yeniden kullanmaya devam ediyoruz. 19 Ocak 2021'de kaldırılmasından önceki durumuna geri yüklenecektir. Daha fazla bilgi için Bkz. [Mart 2021 duyurusu.](./2021-march.md#4)
 
-Bugün [](https://blogs.partner.microsoft.com/mpn/general-availability-of-perpetual-software-licenses-in-the-cloud-solution-provider-program/) duyurulmuştuk, ticari kalıcı yazılım lisanslarının artık tüm CSP iş ortaklarının satışını genel olarak kullanılabilir olduğunu bildirmek için heyecanla duyururuz. CsP İş Ortağı Merkezi fiyat listesi yeniden yayımlanmamıştır ve artık ek ürünler ve coğrafyalar içerir.
+Bugün [](https://blogs.partner.microsoft.com/mpn/general-availability-of-perpetual-software-licenses-in-the-cloud-solution-provider-program/) duyurulmuştuk, ticari kalıcı yazılım lisanslarının artık tüm CSP iş ortaklarının satışını genel olarak kullanılabilir olduğunu bildirmek için heyecanla duyururuz. CsP İş Ortağı Merkezi kalıcı yazılım fiyatı listesi yeniden yayımlanmamıştır ve artık ek ürünler ve coğrafyalar içerir.
 
 Ayrıca, bugünden itibaren İş Ortağı Merkezi ve lisans anahtarı yerine getirme özelliğinin kaldır gerektiğini ve bu amaçla ileriki iş ortaklarının müşterileri Microsoft 365 Yönetici Merkezi'ne yönlendirmesi gerektiğini unutmayın. Diğer ayrıntılar ve sonraki adımlar için aşağıya bakın.
 
@@ -370,7 +370,7 @@ Bulut Çözümü Sağlayıcısı (CSP) programı aracılığıyla işlem yapıla
 
 ### <a name="details"></a>Ayrıntılar
 
-Şubat 2021'den itibaren Microsoft, API'leri çağıran iş ortaklarının belirli bir süre içinde daha tutarlı bir performans elde İş Ortağı Merkezi uygulayacak.Azaltma, kaynakların aşırı kullanımına engel olmak için bir zaman aralığı içinde hizmete yapılan istek sayısını sınırlar.Bir azaltma eşiği aşılırsa, İş Ortağı Merkezi istemciden gelen diğer tüm istekleri bir süre için sınırlar.
+Şubat 2021'den itibaren Microsoft, api'leri çağıran iş ortaklarının belirli bir süre içinde daha tutarlı bir performans elde İş Ortağı Merkezi uygulayacak.Azaltma, kaynakların aşırı kullanımına engel olmak için bir zaman aralığı içinde hizmete yapılan istek sayısını sınırlar.Bir azaltma eşiği aşılırsa, İş Ortağı Merkezi istemciden gelen diğer tüm istekleri bir süre için sınırlar.
   
 **İş ortağı avantajları:**
 
@@ -413,7 +413,7 @@ _____________
 
 ### <a name="summary"></a>Özet
 
-Birkaç Microsoft 365, Ocak ayında fiyat listesi önizlemesine dahil edilecek ve 1 Şubat 2021'den itibaren kullanılabilir olacak.
+Birkaç Microsoft 365 ocak ayında fiyat listesi önizlemesine dahil edilecek ve 1 Şubat 2021'den itibaren kullanılabilir olacak.
 
 ### <a name="impacted-audience"></a>Etkilene hedef kitle
 
@@ -423,11 +423,11 @@ Bulut Çözümü Sağlayıcısı (CSP) programı aracılığıyla işlem yapıla
 
 #### <a name="microsoft-365-g5-compliance-component-skus-for-government"></a>[Microsoft 365 Kamu için G5 uyumluluk bileşeni SKU'ları](/office365/servicedescriptions/microsoft-365-service-descriptions/microsoft-365-tenantlevel-services-licensing-guidance/microsoft-365-security-compliance-licensing-guidance)
 
-1 Şubat 2021'den başlayarak Government Community Cloud (GCC) ve GCC High müşterileri için üç yeni bileşen teklifi başlatacak. Bu SKUS'lar şu anda Ticari'de kullanılabilen Microsoft 365 E5 Information Protection and Governance, M365 E5 Insider Risk Management ve Microsoft 365 E5 eDiscovery & Audit ile eşdeğerdir. 
+1 Şubat 2021'den başlayarak Government Community Cloud (GCC) ve GCC High müşterileri için üç yeni bileşen teklifi başlatacak. Bu SSU'lar şu anda Ticari'de kullanılabilen Microsoft 365 E5 Information Protection ve İdare, M365 E5 Insider Risk Management ve Microsoft 365 E5 eDiscovery & Audit ile eşdeğerdir. 
 
    |**Teklif adı**|**Teklif Kimliği**|**Malzeme Kimliği**|
    |-------------------|:------|:------|
-   |Microsoft 365 E5 Information Protection için GCC|9e5397ab-f309-4d90-97f3-6fb5d53074d6|8QL-00002|
+   |Microsoft 365 E5 Information Protection İdare ve GCC|9e5397ab-f309-4d90-97f3-6fb5d53074d6|8QL-00002|
    |Microsoft 365 E5 için eKıştırma ve Denetim GCC|5c9ef884-6307-47e7-a914-f5092feae51e|8RI-00002|
    |Microsoft 365 E5 GCC için Insider Risk Management|11ccfdb3-80cb-4c80-8146-c9775045df17|8RF-00002|
    |Microsoft 365 E5 Information Protection için Information Protection ve DLP (eklenti) GCC|911d3177-53a9-42ec-a0e9-3b73fce527f0|8QY-00002|
@@ -581,7 +581,7 @@ bu teklifler, abd, porto riko ve kanada 'daki ticari, öğrenci, fakülte, Gover
 ### <a name="next-steps"></a>Sonraki adımlar
 
 - Bu bilgileri, kuruluşta ilgili kişilerle paylaşın ve satış ve çapraz satış fırsatlarını anlıyoruz. 
-- İş Ortağı Kılavuzu'Teams [gözden geçirme.](https://aka.ms/teamscallingmeetingsguide)
+- İş Ortağı Kılavuzu'Teams [bölümünü gözden geçirme.](https://aka.ms/teamscallingmeetingsguide)
 
 _____________ 
 
@@ -635,7 +635,7 @@ Bu, Aralık 2020'de yayımlanan API geliştirmelerini takip eder. Aralık 2020'd
 ### <a name="next-steps"></a>Sonraki adımlar
 
 - Henüz bunu yapmadıysanız başarılı ve zamanında geçiş için yeni API'lere güncelleştirin.
-- Yeni API İş Ortağı Merkezi ve İşlem hazırlığı kaynaklarında Kılavuz: İş Ortağı Merkezi Eğitim müşteri [doğrulama süreci iyileştirmelerini gözden geçirebilirsiniz.](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/)
+- Yeni API İş Ortağı Merkezi gözden geçirme ve İşlem hazırlığı kaynaklarında [Kılavuz: İş Ortağı Merkezi Eğitim müşteri doğrulama süreci geliştirmeleri.](https://partner.microsoft.com/resources/collection/partner-center-edu-validation-enhancements#/)
 - Bu bilgileri, bu değişikliklere hazırlanmalarına yardımcı olmak için kuruluşta uygun ekiplerle ve kurumsal bayilerle paylaşın.
 
 _____________
@@ -653,7 +653,7 @@ Yeni Dynamics 365 teklifi değişiklikleri Şubat 2021'de başlayacaktır.
 
 ### <a name="impacted-audience"></a>Etkilene hedef kitle
 
-Bulut Çözümü Sağlayıcısı (CSP) doğrudan fatura iş ortağı, dolaylı sağlayıcı ve dolaylı kurumsal bayi teşvik programlarına katılan iş ortakları
+Bulut Çözümü Sağlayıcısı (CSP) doğrudan fatura ortağı, dolaylı sağlayıcı ve dolaylı kurumsal bayi teşvik programlarına katılan iş ortakları
 
 ### <a name="details"></a>Ayrıntılar
 
@@ -667,18 +667,18 @@ Microsoft, Şubat 2021'de başlayacak olan yeni Dynamics 365 teklifi değişikli
 
 1 Şubat 2021'de Microsoft, mevcut teklifi 1 Şubat 2021'de satışa sunacak olan 2 K'lık Anket Yanıtları ile değiştirmek için 1-K yanıt yetkilendirmesi ile yeni bir "Ek Yanıt" teklifi oluşturacak.
 
-SKU ayrıntıları için [Dynamics CSP Offers-February 2021](https://partner.microsoft.com/resources/detail/dynamics-csp-offers-february-2021-xls) Excel "Customer Voice Addl Resp" sekmesine bakın. Daha fazla [bilgi için Microsoft Dynamics 365 Müşteri Sesli Giriş](https://dynamics.microsoft.com/customer-voice/overview/) Sayfasını görüntüleme.
+SKU ayrıntıları için [Dynamics CSP Offers-February 2021 Excel](https://partner.microsoft.com/resources/detail/dynamics-csp-offers-february-2021-xls) "Customer Voice Addl Resp" sekmesine bakın. Daha fazla [bilgi için Microsoft Dynamics 365 Müşteri Sesli Giriş](https://dynamics.microsoft.com/customer-voice/overview/) Sayfasını görüntüleme.
 
 **Dynamics 365 Müşteri Analizler Yaşam Sonu**
 
 1 Şubat 2021'de, aşağıdaki ürünler yaşam sonuna kadar değişecektir:
 
-- Dynamics 365 Customer Service Analizler ("Ek Durumlar dahil")
+- Dynamics 365 Müşteri Hizmetleri Analizler ("Ek Durumlar dahil")
 - Müşteri Hizmetleri için Dynamics 365 Sanal Aracısı
 
 "Müşteri Hizmetleri Analizler" tek başına deneyimi, müşterilerin müşteri hizmetleri deneyimlerine derinden eklenmiş aynı özellikleri bularak "Dynamics 365 Müşteri Hizmetleri"ne taşınıyor.  
 
-SKU ayrıntıları için Dynamics CSP Analizler [Offers-February 2021 Excel" sekmesindeki](https://partner.microsoft.com/resources/detail/dynamics-csp-offers-february-2021-xls) "Customer Service Excel" sekmesine bakın. Daha fazla [bilgi için Microsoft Dynamics Müşteri Hizmetleri Giriş](https://dynamics.microsoft.com/customer-service/overview/) Sayfasını ziyaret edin.
+SKU ayrıntıları için Dynamics CSP Analizler [Offers-February 2021 Excel" sekmesine](https://partner.microsoft.com/resources/detail/dynamics-csp-offers-february-2021-xls) bakın. Daha fazla [bilgi için Microsoft Dynamics Müşteri Hizmetleri Giriş](https://dynamics.microsoft.com/customer-service/overview/) Sayfasını ziyaret edin.
 
 **Dynamics 365 Cloud AX geçişi teklifi kimlikleri**
 
@@ -702,6 +702,6 @@ Bu konu başlığıyla ilgili kaynakları gözden geçirme ve bunları kuruluşt
 
 ### <a name="questions"></a>Sorularınız mı var?
 
-Bu teklifler hakkında daha fazla soru için ilgili topluluklar için Yammer kontrol edin.
+Bu teklifler hakkında daha fazla soru için ilgili topluluklarınızı Yammer kontrol edin.
 
 ________________

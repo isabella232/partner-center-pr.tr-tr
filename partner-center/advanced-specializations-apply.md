@@ -1,7 +1,7 @@
 ---
 title: Gelişmiş specialmeler için Uygula
 ms.topic: how-to
-ms.date: 08/27/2021
+ms.date: 09/16/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-membership
 description: İş profilinizi Microsoft iş ortağı dizininde güçlendirin. Iş Ortağı Merkezi 'ni kullanarak Gelişmiş Uzmanlıklar için uygulama ve kazanma hakkında bilgi edinin.
@@ -9,12 +9,12 @@ author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 378181838841a6763130394a35c3d5a3804fa72b
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.openlocfilehash: 5667fad7bde179cd728abb911b65621bcc9505a7
+ms.sourcegitcommit: 8d5c2463fc0f0c03972a6f89d01605421288daea
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126248425"
+ms.lasthandoff: 09/18/2021
+ms.locfileid: "127932877"
 ---
 # <a name="use-partner-center-to-apply-for-advanced-specializations-and-check-their-status"></a>Ortak Uzmanlıkları uygulamak ve durumlarını denetlemek için Iş Ortağı Merkezi 'ni kullanın
 
@@ -149,7 +149,7 @@ Ardından, Iş Ortağı Merkezi 'nde müşteri başvuruları sağlamak için şu
 **Gelişmiş özelleştirme için Azure Tüketim Geliri filtreleri**
 
 - Microsoft Azure'a Veri Ambarı Geçişi
-    - Azure Synapse Analytics ACR: Hizmet Grubu 3 = SQL DW
+    - Azure Synapse Analytics ACR: Hizmet Düzeyi 2 = Azure Synapse Analytics
 - Microsoft Azure'da Kubernetes
     - Azure Kubernetes Service (AKS) ACR: Service Influencer = AKS , AKS-Engine
     - Azure RedHat OpenShift ACR: Hizmet Grubu 3 = ARO, Hizmet Düzeyi 2 = "Bilinmiyor" dışında hepsi
@@ -164,10 +164,10 @@ Ardından, Iş Ortağı Merkezi 'nde müşteri başvuruları sağlamak için şu
         - Hizmet Düzeyi 2 = "Bilinmiyor" dışında hepsi
 
 - Microsoft Azure'da analiz
-    - Azure Synapse Analytics ACR: Hizmet Grubu 3 = SQL DW
+    - Azure Synapse Analytics ACR: Hizmet Düzeyi 2 = Azure Synapse Analytics
     - Data Lake ACR: Hizmet Grubu 3 = Azure Data Lake
-    - Databricks ACR: Hizmet Grubu3 = Databricks, Databricks VM
-    - Azure Data Factory ACR: Hizmet Grubu3 = Data Factory  
+    - Databricks ACR: Hizmet Grubu3 = Databricks
+    - Azure Data Factory ACR: Hizmet Düzeyi 2 = Azure Data Factory, Azure Data Factory v2
 - Microsoft Azure Stack HCI ile Hibrit Bulut Altyapısı
     - Azure Stack HCI ACR: Hizmet Düzeyi 2 = Azure Stack HCI
 - Microsoft Azure VMware Çözümü
@@ -191,7 +191,7 @@ Ardından, Iş Ortağı Merkezi 'nde müşteri başvuruları sağlamak için şu
     - Linux Sanal Makineleri (VM)ACR:
         - 1. Seçenek:
             - ACR Ayarlama Türü= Yok, Hizmet Düzeyi 2 = Sanal Makineler, İşlem işletim sistemi= Linux, İşlem işletim sistemi özniteliği = Windows olmayan , UNKNOWN , Windows
-            - Hizmet Düzeyi 4= Cloud Services MS Series, Virtual Machines MS Series, Virtual Machines MS Series Windows, Virtual Machines MSv2 Series, Virtual Machines MSv2 Series Windows, MS Series Dedicated Host, MSv2 Series Dedicated Host dışındaki tüm hizmetler
+            - Hizmet Düzeyi 4= Cloud Services MS Series, Virtual Machines MS Series, Virtual Machines MS Series Windows, Virtual Machines MSv2 Series, Virtual Machines MSv2 Series Windows, MS Series Dedicated Host, MSv2 Series Dedicated Host
         - 2. Seçenek: Yalnızca Hizmet Düzeyi 4'te filtre gerektirir; İşlem OS/İşlem OS Öznitelikleri gibi diğer alanlar gerekli değildir
             - Hizmet Düzeyi 4 = Red Hat Enterprise Linux, HA ile Red Hat Enterprise Linux, SUSE Linux Enterprise Server Basic, HPC Önceliği için SUSE Linux Enterprise Server, HPC Standard için SUSE Linux Enterprise Server, SUSE Linux Enterprise Server Priority, SUSE Linux Enterprise Server Standard
     - MariaDB ACR için Azure Veritabanı (DB): Hizmet Düzeyi 1 = Veritabanları ve Hizmet Düzeyi 2 = MariaDB için Azure Veritabanı
@@ -201,10 +201,10 @@ Ardından, Iş Ortağı Merkezi 'nde müşteri başvuruları sağlamak için şu
 - Tehdit Koruması
     - Azure Sentinel ACR: Hizmet Düzeyi 4 = Sentinel
 - Bulut Güvenliği
-    - Karma Ortam XDR ve Ağ Güvenliği ACR: SQL için Hizmet Düzeyi 4 = Azure Defender, kapsayıcı kayıt defterleri için Azure Defender, Kubernetes için Azure Defender, Azure Defender Depolama, Application Gateway WAF v2, WAF Application Gateway, Azure Active Directory B2C, Azure Active Directory Domain Services, Azure Active Directory for External Identities, Azure Bastion, Azure DDOS Protection, Azure Güvenlik Duvarı, Azure Güvenlik Duvarı Yöneticisi, Azure Front Door Service, IoT için Azure Defender, Azure Ayrılmış HSM, Key Vault, Network Watcher, Azure Defender for App Service, Azure Defender for servers, Sentinel
+    - Karma Ortam XDR ve Ağ Güvenliği ACR: SQL için Hizmet Düzeyi 4 = Azure Defender, kapsayıcı kayıt defterleri için Azure Defender, Kubernetes için Azure Defender, Azure Defender Depolama, Application Gateway WAF v2, WAF Application Gateway, Azure Active Directory B2C, Azure Active Directory Domain Services, Azure Active Directory for External Identities, Azure Bastion, Azure DDOS Protection, Azure Güvenlik Duvarı, Azure Güvenlik Duvarı Yöneticisi, Azure Front Door Service, IoT için Azure Defender, Azure Ayrılmış HSM, Key Vault, Network Watcher, Azure Defender App Service için Azure Defender, Sentinel
     
 - Microsoft Azure’da SAP
-    - SAP İş Yükleri ACR: Hizmet Düzeyi 4 = Cloud Services MS Serisi, Sanal Makineler MS Serisi, Sanal Makineler MS Serisi Windows, Sanal Makineler MSv2 Serisi, Sanal Makineler MSv2 Serisi Windows, MS Series Dedicated Host, MSv2 Series Dedicated Host, Azure üzerinde SAP HANA Büyük Örnekleri,SAP Cloud Platform Alert Notification, SAP Cloud Platform Extension Factory - Kyma Runtime,SAP Cloud Platform Integration Suite - Ek İletiler, SAP Cloud Platform Integration Suite - Standard Sürümü, SAP Cloud Platform Transport Management, SAP Edge Services, SAP Embrace API Management,SAP Embrace Application Logging, SAP Embrace Application Runtime, SAP Embrace Bandwidth, SAP Embrace Business Application Studio, SAP Embrace Business Rules, SAP Embrace Cloud Integration, SAP Embrace Credential Store, SAP Embrace Custom Domain  SAP Embrace Data Intelligence, SAP Embrace Enterprise Mesajlaşma, SAP Embrace Extension Factory, sunucusuz çalışma zamanı, SAP Embrace Hana Cloud, SAP Embrace Identity Authentication, SAP Embrace Job Scheduler, SAP Embrace MACC, SAP Embrace Mobile Services,SAP Embrace Object Store Service, SAP Embrace Open Connectors, SAP Embrace Portal, SAP Embrace Process Visibility, SAP Embrace Web Analytics, SAP Embrace workflow, SAP HANA Service, SAP Web IDE, BareMetal Infrastructure, Virtual Machines MdSv2 Series, Virtual Machines MdSv2 Series Windows
+    - SAP İş Yükleri ACR: Hizmet Düzeyi 4 = Cloud Services MS Serisi, Sanal Makineler MS Serisi, Sanal Makineler MS Serisi Windows, Sanal Makineler MSv2 Serisi, Sanal Makineler MSv2 Serisi Windows, MS Series Dedicated Host, MSv2 Series Dedicated Host, Azure üzerinde SAP HANA Büyük Örnekleri,SAP Cloud Platform Alert Notification, SAP Cloud Platform Extension Factory - Kyma Runtime,SAP Cloud Platform Integration Suite - Ek İletiler, SAP Cloud Platform Integration Suite - Standard Sürümü, SAP Cloud Platform Transport Management, SAP Edge Hizmetleri, SAP Embrace API Management,SAP Embrace Application Logging, SAP Embrace Application Runtime, SAP Embrace Bant Genişliği, SAP Embrace Business Application Studio, SAP Embrace Business Rules, SAP Embrace Cloud Integration, SAP Embrace Credential Store, SAP Embrace Custom Domain  SAP Embrace Data Intelligence, SAP Embrace Enterprise Mesajlaşma, SAP Embrace Extension Factory, sunucusuz çalışma zamanı, SAP Embrace Hana Cloud, SAP Embrace Identity Authentication, SAP Embrace Job Scheduler, SAP Embrace MACC, SAP Embrace Mobile Services,SAP Embrace Object Store Service, SAP Embrace Open Connectors, SAP Embrace Portal, SAP Embrace Process Visibility, SAP Embrace Web Analytics, SAP Embrace workflow, SAP HANA Service, SAP Web IDE, BareMetal Infrastructure, Virtual Machines MdSv2 Series, Virtual Machines MdSv2 Series Windows
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
