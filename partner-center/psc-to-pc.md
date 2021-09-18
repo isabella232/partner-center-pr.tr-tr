@@ -9,11 +9,11 @@ ms.author: vikramb
 ms.localizationpriority: medium
 ms.date: 09/08/2021
 ms.openlocfilehash: 96106dd84d4889c9165daf41385d1092361101c4
-ms.sourcegitcommit: 90c87bd5e63a8af932ece5696267ea715fea6a01
+ms.sourcegitcommit: 5abf065c8852a858a0aa7185176d3e117f2be7e5
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/16/2021
-ms.locfileid: "127900449"
+ms.lasthandoff: 09/18/2021
+ms.locfileid: "127958893"
 ---
 # <a name="guide-to-co-selling-in-partner-center-pc-for-partners-migrating-from-partner-sales-connect-psc"></a>iş ortağı satışları Bağlan (PSC) ile geçiş için iş ortağı merkezi 'nde (PC) ortak satış ile ilgili kılavuz
 
