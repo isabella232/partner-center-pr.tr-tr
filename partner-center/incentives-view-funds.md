@@ -9,17 +9,17 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.openlocfilehash: 6f70a4a30346c6ef82e36c414559da6e79a373e0
-ms.sourcegitcommit: 986573bc4382b803bf4d641df6dd1e37c3af1955
+ms.sourcegitcommit: 847ad384d44a5a673791cb2950af02225d8174c9
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/16/2021
-ms.locfileid: "127898371"
+ms.lasthandoff: 09/17/2021
+ms.locfileid: "127906359"
 ---
 # <a name="view-available-earned-claimed-and-remaining-co-op-funds"></a>Elde edilen, talep edilen ve kalan ortak çalışma fonlarını görüntüleme
 
 **Uygun roller:** Teşvik yöneticisi | Teşvikler kullanıcısı
 
-Teşvik işbirliği fonlarınızı İş Ortağı Merkezi panosunda [izleyebilir,](https://partner.microsoft.com/dashboard/) izleyebilir ve muuzlaştırabilirsiniz (oturum açma gereklidir). Bu fonlarını görüntülemek için aşağıdaki yordamı kullanın.
+Bu panoda teşvik işbirliği fonlarınızı izleyebilir, izleyebilir ve [uzlaştırabilirsiniz (oturum](https://partner.microsoft.com/dashboard/) İş Ortağı Merkezi gerekir). Bu fonlarını görüntülemek için aşağıdaki yordamı kullanın.
 
 ## <a name="view-your-funds"></a>Fonlarınızı görüntüleme
 

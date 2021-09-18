@@ -10,11 +10,11 @@ ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
 ms.openlocfilehash: f5745a74e4368b42c4ce7b1b828ced8f79e49581
-ms.sourcegitcommit: 90c87bd5e63a8af932ece5696267ea715fea6a01
+ms.sourcegitcommit: 986573bc4382b803bf4d641df6dd1e37c3af1955
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/16/2021
-ms.locfileid: "127900432"
+ms.lasthandoff: 09/18/2021
+ms.locfileid: "127918602"
 ---
 # <a name="how-and-when-to-request-a-credit-from-microsoft"></a>Microsoft'tan kredi isteği nasıl ve ne zaman gönderilir?
 
@@ -119,7 +119,7 @@ Bir talebin işlenmesi için müşteri adı, kiracı tanımlayıcısı, iş orta
 
 ### <a name="outage-incident-identifier"></a>Kesinti olayı tanımlayıcısı
 
-Kesinti olayı tanımlayıcısını hizmet durumu sayfasındaki Hizmet Durumu sayfasında Microsoft 365 yönetim merkezi. Kesinti Olayı Kimliği, etkilenen hizmeti belirten iki harfli bir kısaltmadan önce gelen bir sayıdır (örneğin, bir kesinti için EX25194 Exchange Online).
+Kesinti olayı tanımlayıcısını hizmet durumu sayfasındaki Hizmet Durumu sayfasında Microsoft 365 yönetim merkezi. Kesinti Olay Kimliği, etkilenen hizmeti belirten iki harfli kısaltmadan önce gelen bir sayıdır (örneğin, bir kesinti için EX25194 Exchange Online).
 
 Aşağıdaki tabloda Common Service kısaltmaları açıkmektedir:
 
