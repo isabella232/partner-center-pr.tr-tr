@@ -9,12 +9,12 @@ author: mowree
 ms.author: mowrim
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: c0c65c962fdc46ce4685ee3bb63bacdec036f1e8
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.openlocfilehash: e9313a7d7f6554a544eeb81a023db3a3a3eeff22
+ms.sourcegitcommit: 731a5e2725a72ecdae40189a3f52ab6b4a4c8058
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126248426"
+ms.lasthandoff: 09/19/2021
+ms.locfileid: "127966199"
 ---
 # <a name="training-vouchers-program-retirement"></a>Eğitim fişleri program emekli
 
@@ -27,7 +27,7 @@ Yazılım Güvencesi Eğitim fişleri (SATVs), Yazılım Güvencesi avantajları
 - 1 Ocak 2022: iş ortaklarının eğitim fişleri kullanmaya yönelik son gün. İş ortağı, ödeme isteği işlemini tamamlamaya çalıştıktan sonra 60 gün sonra olur.  
 
 >[!NOTE]
->Fiş yaşam döngüsünde hiçbir değişiklik yoktur. Bir fiş oluşturulduktan/atandıktan sonra, fiş kullanım süresi dolmadan önce 180 gün içinde fiş rezervasyonu, eğitim oturumları ve fiş satın alma işlemi yapılmalıdır.  Eğitim fişi kullanımdan kaldırılması hakkında daha fazla bilgi için [burada](https://partner.microsoft.com/resources/collection/software-assurance-benefit-changes#/) bulunan SSS (oturum açma gerekir) bölümüne bakın.  Eğitim avantajı ürün kataloğunda SATV uygun eğitim kurslarının tam listesine bakın. Lütfen tüm soruları bölgesel Iş ortağı destek ekibinize yönlendirin: [EMEA Iş ortağı desteği](mailto:savoucher@msdirectservices.com); [Genel Iş ortağı desteği](https://partner.microsoft.com/dashboard/support/servicerequests).
+>Fiş yaşam döngüsünde hiçbir değişiklik yoktur. Bir fiş oluşturulduktan/atandıktan sonra, fiş kullanım süresi dolmadan önce 180 gün içinde fiş rezervasyonu, eğitim oturumları ve fiş satın alma işlemi yapılmalıdır.  Eğitim fişi kullanımdan kaldırma hakkında daha fazla bilgi için bkz. SSS bulunan [yazılım güvencesi avantajı değişiklikleri](https://partner.microsoft.com/resources/collection/software-assurance-benefit-changes#/) (oturum açma gerekir).  Eğitim avantajı ürün kataloğunda SATV uygun eğitim kurslarının tam listesine bakın. Lütfen tüm soruları bölgesel Iş ortağı destek ekibinize yönlendirin: [EMEA Iş ortağı desteği](mailto:savoucher@msdirectservices.com); [Genel Iş ortağı desteği](https://partner.microsoft.com/dashboard/support/servicerequests).
 
 
 
