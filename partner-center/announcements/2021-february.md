@@ -12,11 +12,11 @@ ms.custom:
 ms.localizationpriority: high
 ms.date: 04/08/2021
 ms.openlocfilehash: 4e4c27c9c2382098705b65ece808e4c74a82731f
-ms.sourcegitcommit: 8d5c2463fc0f0c03972a6f89d01605421288daea
+ms.sourcegitcommit: 731a5e2725a72ecdae40189a3f52ab6b4a4c8058
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/18/2021
-ms.locfileid: "127932809"
+ms.lasthandoff: 09/19/2021
+ms.locfileid: "127960834"
 ---
 # <a name="february-2021-announcements"></a>Şubat 2021 duyuruları
 
@@ -333,7 +333,7 @@ Microsoft, Şubat 2021 ' den itibaren Iş Ortağı Merkezi API 'Lerini çağıra
 |{baseURL}/v1/productUpgrades/{upgrade-id}/status  | [Ürün yükseltme durumunu alma](/partner-center/develop/get-product-upgrade-status) |
 |{baseURL}/v1/customers/{customer-id}/subscriptions/{subscription-id}/conversions   | [Deneme dönüştürme tekliflerinin bir listesini alma](/partner-center/develop/get-a-list-of-trial-conversion-offers) |
 
-İş ortaklarının daha fazla verimlilik ve azaltmayı önlemek için etkinlik günlüğü API'sini kullanmayı göz önünde bulundurmalarını kesinlikle öneririz.Bu özellik hakkında daha fazla bilgi için, [API'leri çağıran](/partner-center/develop/api-throttling-guidance)iş ortaklarına yönelik API azaltma kılavuzu İş Ortağı Merkezi bakın.  
+İş ortaklarının daha fazla verimlilik ve azaltmayı önlemek için etkinlik günlüğü API'sini kullanmayı göz önünde bulundurmalarını kesinlikle öneririz.Bu özellik hakkında daha fazla bilgi için API'leri çağıran iş ortaklarına yönelik API azaltma [kılavuzunda yer alan ayrıntılara İş Ortağı Merkezi bakın.](/partner-center/develop/api-throttling-guidance)  
 
 ### <a name="next-steps"></a>Sonraki adımlar
 
