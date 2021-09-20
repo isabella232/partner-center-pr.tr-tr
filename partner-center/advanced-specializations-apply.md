@@ -10,11 +10,11 @@ ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 5667fad7bde179cd728abb911b65621bcc9505a7
-ms.sourcegitcommit: 8d5c2463fc0f0c03972a6f89d01605421288daea
+ms.sourcegitcommit: 731a5e2725a72ecdae40189a3f52ab6b4a4c8058
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/18/2021
-ms.locfileid: "127932877"
+ms.lasthandoff: 09/20/2021
+ms.locfileid: "128007242"
 ---
 # <a name="use-partner-center-to-apply-for-advanced-specializations-and-check-their-status"></a>Ortak Uzmanlıkları uygulamak ve durumlarını denetlemek için Iş Ortağı Merkezi 'ni kullanın
 
@@ -193,7 +193,7 @@ Ardından, Iş Ortağı Merkezi 'nde müşteri başvuruları sağlamak için şu
             - ACR Ayarlama Türü= Yok, Hizmet Düzeyi 2 = Sanal Makineler, İşlem işletim sistemi= Linux, İşlem işletim sistemi özniteliği = Windows olmayan , UNKNOWN , Windows
             - Hizmet Düzeyi 4= Cloud Services MS Series, Virtual Machines MS Series, Virtual Machines MS Series Windows, Virtual Machines MSv2 Series, Virtual Machines MSv2 Series Windows, MS Series Dedicated Host, MSv2 Series Dedicated Host
         - 2. Seçenek: Yalnızca Hizmet Düzeyi 4'te filtre gerektirir; İşlem OS/İşlem OS Öznitelikleri gibi diğer alanlar gerekli değildir
-            - Hizmet Düzeyi 4 = Red Hat Enterprise Linux, HA ile Red Hat Enterprise Linux, SUSE Linux Enterprise Server Basic, HPC Önceliği için SUSE Linux Enterprise Server, HPC Standard için SUSE Linux Enterprise Server, SUSE Linux Enterprise Server Priority, SUSE Linux Enterprise Server Standard
+            - Hizmet Düzeyi 4 = Red Hat Enterprise Linux, HA ile Red Hat Enterprise Linux, SUSE Linux Enterprise Server Basic, HPC Önceliği için SUSE Linux Enterprise Server, HPC Standard için SUSE Linux Enterprise Server, SUSE Linux Enterprise Server Priority, SUSE Linux Enterprise Sunucu Standardı
     - MariaDB ACR için Azure Veritabanı (DB): Hizmet Düzeyi 1 = Veritabanları ve Hizmet Düzeyi 2 = MariaDB için Azure Veritabanı
     - MySql ACR için Azure DB: Hizmet Düzeyi 1 = Veritabanları ve Hizmet Düzeyi 2 = MySQL için Azure Veritabanı ve Azure üzerinde MySQL Veritabanı
     - Postgre için Azure DB SQL ACR: Hizmet Düzeyi 1 = Veritabanları ve Hizmet Düzeyi 2 = PostgreSQL
@@ -201,10 +201,10 @@ Ardından, Iş Ortağı Merkezi 'nde müşteri başvuruları sağlamak için şu
 - Tehdit Koruması
     - Azure Sentinel ACR: Hizmet Düzeyi 4 = Sentinel
 - Bulut Güvenliği
-    - Karma Ortam XDR ve Ağ Güvenliği ACR: SQL için Hizmet Düzeyi 4 = Azure Defender, kapsayıcı kayıt defterleri için Azure Defender, Kubernetes için Azure Defender, Azure Defender Depolama, Application Gateway WAF v2, WAF Application Gateway, Azure Active Directory B2C, Azure Active Directory Domain Services, Azure Active Directory for External Identities, Azure Bastion, Azure DDOS Protection, Azure Güvenlik Duvarı, Azure Güvenlik Duvarı Yöneticisi, Azure Front Door Service, IoT için Azure Defender, Azure Ayrılmış HSM, Key Vault, Network Watcher, Azure Defender App Service için Azure Defender, Sentinel
+    - Karma Ortam XDR ve Ağ Güvenliği ACR: SQL için Hizmet Düzeyi 4 = Azure Defender, kapsayıcı kayıt defterleri için Azure Defender, Kubernetes için Azure Defender Depolama Azure Defender, Application Gateway WAF v2, WAF Application Gateway, Azure Active Directory B2C, Azure Active Directory Domain Services, Azure Active Directory Kimlikler, Azure Bastion, Azure DDOS Koruması, Azure Güvenlik Duvarı, Azure Güvenlik Duvarı Yöneticisi, Azure Front Door Service, IoT için Azure Defender, Azure Ayrılmış HSM, Key Vault, Ağ Azure Defender, App Service için Azure Defender, Sentinel
     
 - Microsoft Azure’da SAP
-    - SAP İş Yükleri ACR: Hizmet Düzeyi 4 = Cloud Services MS Serisi, Sanal Makineler MS Serisi, Sanal Makineler MS Serisi Windows, Sanal Makineler MSv2 Serisi, Sanal Makineler MSv2 Serisi Windows, MS Series Dedicated Host, MSv2 Series Dedicated Host, Azure üzerinde SAP HANA Büyük Örnekleri,SAP Cloud Platform Alert Notification, SAP Cloud Platform Extension Factory - Kyma Runtime,SAP Cloud Platform Integration Suite - Ek İletiler, SAP Cloud Platform Integration Suite - Standard Sürümü, SAP Cloud Platform Transport Management, SAP Edge Hizmetleri, SAP Embrace API Management,SAP Embrace Application Logging, SAP Embrace Application Runtime, SAP Embrace Bant Genişliği, SAP Embrace Business Application Studio, SAP Embrace Business Rules, SAP Embrace Cloud Integration, SAP Embrace Credential Store, SAP Embrace Custom Domain  SAP Embrace Data Intelligence, SAP Embrace Enterprise Mesajlaşma, SAP Embrace Extension Factory, sunucusuz çalışma zamanı, SAP Embrace Hana Cloud, SAP Embrace Identity Authentication, SAP Embrace Job Scheduler, SAP Embrace MACC, SAP Embrace Mobile Services,SAP Embrace Object Store Service, SAP Embrace Open Connectors, SAP Embrace Portal, SAP Embrace Process Visibility, SAP Embrace Web Analytics, SAP Embrace workflow, SAP HANA Service, SAP Web IDE, BareMetal Infrastructure, Virtual Machines MdSv2 Series, Virtual Machines MdSv2 Series Windows
+    - SAP workloads ACR: Service Level 4 = Cloud Services MS Series, Virtual Machines MS Series, Virtual Machines MS Series Windows, Virtual Machines MSv2 Series, Virtual Machines MSv2 Series Windows, MS Series Dedicated Host, MSv2 Series Dedicated Host, Azure üzerinde SAP HANA Büyük Örnekleri,SAP Cloud Platform Alert Notification, SAP Cloud Platform Extension Factory - Kyma Runtime,SAP Cloud Platform Integration Suite - Ek İletiler,  SAP Cloud Platform Integration Suite - Standard Sürümü, SAP Cloud Platform Transport Management, SAP Edge Services, SAP Embrace API Management,SAP Embrace Application Logging, SAP Embrace Application Runtime, SAP Embrace Bant Genişliği, SAP Embrace Business Application Studio, SAP Embrace Business Rules, SAP Embrace Cloud Integration, SAP Embrace Credential Store, SAP Embrace Custom Domain, SAP Embrace Data Intelligence, SAP Embrace Enterprise Mesajlaşma, SAP Embrace Extension Factory, sunucusuz çalışma zamanı, SAP Embrace Hana Cloud, SAP Embrace Identity Authentication, SAP Embrace Job Scheduler, SAP Embrace MACC, SAP Embrace Mobile Services,SAP Embrace Object Store Service, SAP Embrace Open Connectors, SAP Embrace Portal, SAP Embrace Process Visibility, SAP Embrace Web Analytics, SAP Embrace workflow, SAP HANA Service, SAP Web IDE,  BareMetal Infrastructure, Virtual Machines MdSv2 Series, Virtual Machines MdSv2 Series Windows
 
 ## <a name="next-steps"></a>Sonraki adımlar
 

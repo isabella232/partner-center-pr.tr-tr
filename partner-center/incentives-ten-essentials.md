@@ -9,11 +9,11 @@ ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 09/15/2020
 ms.openlocfilehash: ed1959e9b264b3f324fb0f2f528971163160f431
-ms.sourcegitcommit: 90c87bd5e63a8af932ece5696267ea715fea6a01
+ms.sourcegitcommit: 731a5e2725a72ecdae40189a3f52ab6b4a4c8058
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/19/2021
-ms.locfileid: "127962535"
+ms.lasthandoff: 09/20/2021
+ms.locfileid: "128007234"
 ---
 # <a name="the-10-essentials-for-working-with-incentives"></a>Teşviklerle çalışmak için 10 temel bilgi
 
