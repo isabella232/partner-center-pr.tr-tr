@@ -9,11 +9,11 @@ ms.author: parthp
 ms.custom: seodec18
 ms.date: 06/12/2020
 ms.openlocfilehash: 4b913754dd73f99e8aa363d257a9ac658d190b6a
-ms.sourcegitcommit: 90c87bd5e63a8af932ece5696267ea715fea6a01
+ms.sourcegitcommit: 731a5e2725a72ecdae40189a3f52ab6b4a4c8058
 ms.translationtype: MT
 ms.contentlocale: tr-TR
 ms.lasthandoff: 09/19/2021
-ms.locfileid: "127962552"
+ms.locfileid: "127987598"
 ---
 # <a name="merge-your-partner-account-with-another-partner-account"></a>İş ortağı hesabınızı başka bir iş ortağı hesabıyla birleştirme
 
@@ -43,7 +43,7 @@ Etkin Microsoft iş ortakları olan ve şirket içinde hesapları İş Ortağı 
 
 :::image type="content" source="images/merge-accounts/account-merge.png" alt-text="Hesap birleştirme.":::
 
-## <a name="what-to-expect-if-you-have-been-invited-to-merge-your-partner-center-account-with-another-partner-center-account"></a>Başka bir İş Ortağı Merkezi hesabıyla İş Ortağı Merkezi için davet edildiyebilirsiniz
+## <a name="what-to-expect-if-you-have-been-invited-to-merge-your-partner-center-account-with-another-partner-center-account"></a>İş Ortağı Merkezi başka bir İş Ortağı Merkezi hesabınızla birleştirmeye davet edildiyebilirsiniz
 
 Hesapları birleştirme davetini kabul etmeye karar veriyorsanız: · MPN kimlikleri ve konumları, sizi davet eden iş ortağı hesabının PGA'sı ile birleştirilir.
 
@@ -84,7 +84,7 @@ Hesapları birleştirme davetini kabul etmeye karar veriyorsanız: · MPN kimlik
 >[!Note]
 >Hesap birleştirme işlemini gerçekleştirmek için, şirketinizin **Hesap yöneticisi** olmak gerekir.
 
-1. Panodan **Ayarlar'İş Ortağı Merkezi** seçin. 
+1. Panodan **Ayarlar** seçin İş Ortağı Merkezi seçin. 
 
 2. Hesap **birleştirme'yi seçin.**
 
@@ -113,7 +113,7 @@ Hesapları birleştirme davetini kabul etmeye karar veriyorsanız: · MPN kimlik
 5.  Contoso aynı sayfada birleştirmenin ayrıntılarını gözden alır ve hesap birleştirme işlemine devam etmek için onay sağlar.
 6.  Birleşmeden sonra şirket hesabı şu şekilde görüntülenir:
 
-    a.  Genel MPN kimliği 1111111 ve 2222222, 3333333, 4444444 ve 5555555 alt konum MPN kimlikleri ile Contoso 5555555
+    a.  Genel MPN Kimliği 1111111 ve 2222222, 3333333, 4444444 ve 5555555 alt konum MPN kimlikleri ile Contoso 5555555
     
     b.  Aynı hesap hesabına erişimi olan iki Azure AD kiracısı ( @contoso.com + ) İş Ortağı Merkezi @fabrikam.com olur
     
