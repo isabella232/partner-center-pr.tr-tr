@@ -9,12 +9,12 @@ ms.author: brserbus
 ms.custom: announcement
 ms.localizationpriority: high
 ms.date: 06/18/2021
-ms.openlocfilehash: 29d340b1151a122792749c7cb400d647f42af33a
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.openlocfilehash: f60cef1922a433eefbb563147447a18251b05bc8
+ms.sourcegitcommit: 731a5e2725a72ecdae40189a3f52ab6b4a4c8058
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126248628"
+ms.lasthandoff: 09/20/2021
+ms.locfileid: "128031230"
 ---
 # <a name="december-2020-announcements"></a>Aralık 2020 duyuruları
 
@@ -180,7 +180,7 @@ Tüm CSP iş ortakları
 
 ### <a name="details"></a>Ayrıntılar
 
-Bugün, bulut için [](https://blogs.partner.microsoft.com/mpn/expanding-opportunities-for-partners-in-the-cloud-solution-provider-program/)öncelik belirlemeye devam etti olarak, Açık Lisans programı aracılığıyla satın alan kamu sektörü (kamu, eğitim ve kar amacı gütmeyen kuruluş) müşterileri için gelecekteki değişiklikleri ve Bulut Çözümü Sağlayıcısı programıyla ilgili değişiklikleri duyururuz.
+Bugün, bulut için [](https://blogs.partner.microsoft.com/mpn/expanding-opportunities-for-partners-in-the-cloud-solution-provider-program/)öncelik belirlemeye devam ettigimiz için, Açık Lisans programı aracılığıyla satın alan kamu sektörü (kamu, eğitim ve kar amacı gütmeyen kuruluş) müşterilerine gelecekteki değişiklikleri ve Bulut Çözümü Sağlayıcısı programıyla ilgili değişiklikleri duyururuz.
 
 ### <a name="next-steps"></a>Sonraki adımlar
 
@@ -293,9 +293,9 @@ Tüm CSP iş ortakları
 
 Aynı tarihte de aşağıdakiler olur:
 
-- CSP kalıcı yazılım fiyat listesi, İş Ortağı Merkezi. Bunu, ek ürünler **ve coğrafyalar** [içeren > Fiyatlandırma &](https://partnercenter.microsoft.com/pcv/sales) Teklifler sayfasının Yazılım bölümünde bulabilirsiniz. Ayrıntıların tamamını [burada](https://partner.microsoft.com/resources/detail/software-in-csp-new-products-geos-pdf) görüntüleyebilirsiniz.
+- CSP kalıcı yazılım fiyat listesi, İş Ortağı Merkezi. Bunu, ek ürünler **ve coğrafyalar** [içeren > Fiyatlandırma &](https://partnercenter.microsoft.com/pcv/sales) Teklifleri sayfasının Yazılım bölümünde bulabilirsiniz. İşlem Hazırlığı kaynak [galerisinde tüm ayrıntılara bakın.](https://partner.microsoft.com/resources/detail/software-in-csp-new-products-geos-pdf)
 
-- Yazılım İş Ortağı Merkezi lisans anahtarı gerçekleştirme özelliği kullanımdan kaldır - duyuruya bakın [ve](./2020-september.md#17) iş ortakları, müşterileri bu amaçla özel olarak Microsoft 365 Yönetici Merkezi'nde kullanmaya işaret eder. Bu, müşteriler için en güvenli ve verimli deneyimi sağlar. Microsoft 365 Yönetici Center yazılımı hakkında daha fazla bilgi edinmek için genel [bakış,](https://support.microsoft.com/office/admin-center-overview-fa715fa8-6eda-456d-b177-d1c156edd1b3)ortak [görevler](/microsoft-365/admin/admin-overview/about-the-admin-center?preserve-view=true&view=o365-worldwide)ve lisans anahtarı gerçekleştirme özelliklerini [gözden geçirebilirsiniz.](https://partner.microsoft.com/resources/detail/microsoft-365-admin-center-software-key-download-pdf)
+- Yazılım İş Ortağı Merkezi lisans anahtarı gerçekleştirme özelliği kullanımdan kaldır - duyuruya bakın [ve](./2020-september.md#17) iş ortakları, müşterileri bu amaçla özel olarak Microsoft 365 Yönetici Merkezi'nde kullanmaya işaret eder. Bu, müşteriler için en güvenli ve verimli deneyimi sağlar. Microsoft 365 Yönetici Center yazılımı hakkında daha fazla bilgi edinmek için genel [bakışı,](https://support.microsoft.com/office/admin-center-overview-fa715fa8-6eda-456d-b177-d1c156edd1b3) [ortak](/microsoft-365/admin/admin-overview/about-the-admin-center?preserve-view=true&view=o365-worldwide)görevleri ve lisans anahtarı gerçekleştirme özelliklerini [gözden geçirebilirsiniz.](https://partner.microsoft.com/resources/detail/microsoft-365-admin-center-software-key-download-pdf)
 
 ### <a name="perpetual-software-in-csp"></a>CSP'de kalıcı yazılım
 
@@ -498,7 +498,7 @@ Sürüm notlarını, diğer sorunlar ortaya çıkarılma sık sık bu duyuruya e
 
 ______________
 
-## <a name="an-update-of-the-us-microsoft-365-business-voice-with-calling-plan-offer-is-coming-soon"></a><a name="2"></a>Arama Planı teklifinin ABD Microsoft 365 Küçük İşletmeler için Ses yakında güncelleştirilecek
+## <a name="an-update-of-the-us-microsoft-365-business-voice-with-calling-plan-offer-is-coming-soon"></a><a name="2"></a>Arama Planı teklifinin ABD Microsoft 365 Küçük İşletmeler için Ses güncelleştirmesi yakında geliyor
 
 ### <a name="categories"></a>Kategoriler
 
@@ -507,7 +507,7 @@ ______________
 
 ### <a name="summary"></a>Özet 
 
-1 Ocak 2021'de Microsoft, ABD iş ortaklarını ve müşterilerini Arama Planı teklifiyle Microsoft 365 Küçük İşletmeler için Ses yeni bir Microsoft 365 Küçük İşletmeler için Ses hizmetine geçişe başlayacaktır. İş ortağı eylemi gerekmez.
+1 Ocak 2021'de Microsoft, ABD iş ortaklarını ve müşterilerini Arama Planı teklifiyle Microsoft 365 Küçük İşletmeler için Ses yeni bir çözüme geçişe başlayacaktır. İş ortağı eylemi gerekmez.
 
 ### <a name="impacted-audience"></a>Etkilene Hedef Kitle 
 
@@ -540,7 +540,7 @@ Fiyat listesini tanıma ve bu bilgileri kuruluşta tüm ilgili kişilerle payla�
 
 ______________
 
-## <a name="now-live-partner-center-api-updates-and-user-interface-enhancements-for-the-education-customer-validation-process"></a><a name="1"></a>Canlı: İş Ortağı Merkezi müşteri doğrulama işlemi için API güncelleştirmelerini ve kullanıcı arabirimi geliştirmelerini kullanma
+## <a name="now-live-partner-center-api-updates-and-user-interface-enhancements-for-the-education-customer-validation-process"></a><a name="1"></a>Canlı: İş Ortağı Merkezi müşteri doğrulama süreci için API güncelleştirmelerini ve kullanıcı arabirimi geliştirmelerini kullanma
 
 ### <a name="categories"></a>Kategoriler
 
@@ -553,7 +553,7 @@ Bulut Çözümü Sağlayıcısı programı aracılığıyla Akademik teklif sat�
 
 ### <a name="summary"></a>Özet 
 
-Microsoft güven üzerinde çalışır. Bu programda Akademik tekliflerin işlemesi için uyumlu, güvenli ve güvenli bir müşteri doğrulama yöntemi sağlamak Bulut Çözümü Sağlayıcısı taahhütte bulunduk. Bu taahhüdün bir parçası olarak, müşteri inceleme sürecine netlik ve görünürlük eklemenin yanı sıra daha doğru veriler girebilme olanağını da ek olarak müşteri inceleme başarısını artıracak İş Ortağı Merkezi API'si ve kullanıcı arabirimi iyileştirmeleri sağlıyoruz. 
+Microsoft güven üzerinde çalışır. Bu programda Akademik tekliflerin işlemesi için uyumlu, güvenli ve güvenli bir müşteri doğrulama yöntemi sağlamak Bulut Çözümü Sağlayıcısı taahhütte bulunduk. Bu taahhüdün bir parçası olarak, müşteri inceleme sürecine netlik ve görünürlük katacak İş Ortağı Merkezi API'si ve kullanıcı arabirimi geliştirmelerinin yanı sıra daha doğru veriler girebilme olanağı sağlıyoruz. Bu da müşteri inceleme başarısının geliştirilmesini sağlar. 
 
 **İş Ortağı Merkezi geliştirmeleri** 
 
@@ -563,11 +563,11 @@ Microsoft güven üzerinde çalışır. Bu programda Akademik tekliflerin işlem
 
 **Mevcut GET ve PUT Nitelik API'leri kullanımdan kalk** 
 
-Mevcut GET ve PUT Nitelik API'leri Şubat **2021'in sonundan önce sona erer.** Bu sırada Eğitim tekliflerini satın almak için yeni GET ve POST İş Ortağı Merkezi API'lere geçiş yaptıyabilirsiniz.  
+Mevcut GET ve PUT Nitelik API'leri Şubat **2021'in sonundan önce sona erer.** Eğitim tekliflerini satın almak için yeni GET ve POST İş Ortağı Merkezi API'lere geçiş yapmak gerekir.  
 
 **Test etme** 
 
-Başarılı müşteri doğrulaması için gereken API'leri ve veri girişini daha iyi anlamak için iş ortakları bu geliştirmeleri test ediyor olabilir. Teste katılmak isteyen iş ortaklarının [İş Ortağı Merkezi Eğitim](https://partner.microsoft.com/resources/detail/partner-center-edu-testing-guide-pdf) müşteri testi kılavuzunu indirmesi ve hazırlama, kaydolma ve test aşamasında neler beklemesi gerektiği hakkında bilgi edinebilirsiniz.
+Başarılı müşteri doğrulaması için gereken API'leri ve veri girişini daha iyi anlamak için iş ortakları bu geliştirmeleri test ediyor olabilir. Teste katılmak isteyen iş ortaklarının [hazırlama,](https://partner.microsoft.com/resources/detail/partner-center-edu-testing-guide-pdf) kaydolma ve test aşamasında neler beklen gerektiği hakkında bilgi için İş Ortağı Merkezi Education müşteri testi kılavuzunu indirmesi gerekir.
 
 **Library ve Library müşterileri** 
 
