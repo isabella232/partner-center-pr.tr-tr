@@ -9,11 +9,11 @@ ms.author: shganesh
 ms.localizationpriority: medium
 ms.date: 07/14/2021
 ms.openlocfilehash: 304607b5d79b0ad8a07c3efe690ccb7feef83331
-ms.sourcegitcommit: ab5eda007f87f22fa3375b8e05adfccd6ebc285e
+ms.sourcegitcommit: 23ba623b50b06c866703fd876f1b40f3a49ce504
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/21/2021
-ms.locfileid: "128058952"
+ms.lasthandoff: 09/22/2021
+ms.locfileid: "128074623"
 ---
 # <a name="programmatic-access-paradigm"></a>Programlı erişim paradigması
 
@@ -83,7 +83,7 @@ Bu tablo, istek yükünde öğelerin temel tanımlarını sağlar.
 
 |Parametre|    Gerekli     |    Açıklama     |    İzin Verilen Değerler     |
 |-----|    -----    |    -----    |    -----    |
-|Ad |    Yes     |    Sorgunun kolay adı     |    string     |
+|Name |    Yes     |    Sorgunun kolay adı     |    string     |
 |    Açıklama     |    Hayır     |    Sorgunun döndürdüğü açıklama     |    string     |
 |    Sorgu     |    Yes     |    Rapor sorgu dizesi     |    Veri türü: dize <br> İş gereksinimini temel alan [özel sorgu](insights-programmatic-custom-query.md) |
 |        |        |        |        |
@@ -127,7 +127,7 @@ Bu tablo, istek yükünde öğelerin temel tanımlarını sağlar.
 |    Parametre     |    Açıklama     |
 |    ----    |    ----    |
 |    QueryId     |    Oluşturduğunuz sorgunun evrensel benzersiz tanımlayıcısı (UUID)     |
-|    Ad     |    İstek yükünde sorguya kolay ad verildi     |
+|    Name     |    İstek yükünde sorguya kolay ad verildi     |
 |    Description     |    Sorgunun oluşturulması sırasında verilen açıklama     |
 |    Sorgu     |    Sorgu oluşturma sırasında rapor sorgusu giriş olarak geçildi     |
 |    Tür     |    Ayarla `userDefined`     |
@@ -315,18 +315,18 @@ Yanıttaki öğelerin temel tanımları aşağıda verilmiştir:
 |    ----    |    ----    |    ----    |    ----    |
 |    Yürütme    |    No    |    string    |    Yalnızca bu bağımsız değişkende verilen ExecutionID 'ye sahip raporların ayrıntılarını almak için filtreleyin. Birden çok ExecutionID, noktalı virgül ";" ile ayrılarak belirtilebilir.    |
 |    executionStatus    |    No    |    Dize/Enum    |    Yalnızca bu bağımsız değişkende verilen executionStatus raporlarının ayrıntılarını almak için filtreleyin. <br> Geçerli değerler şunlardır: `Pending` , `Running` , `Paused` , ve `Completed` . <br> `Completed` varsayılan değerdir. <br> Birden çok durum noktalı virgül ";" ile ayrılarak belirtilebilir.    |
-|    getLatestExecution    |    No    |    boolean    |    API, en son yürütmenin ayrıntılarını döndürür. Varsayılan olarak, bu parametre true olarak ayarlanır.<br> Bu parametrenin değerini false olarak geçirmeye seçerseniz, API son 90 gün yürütme örneğini döndürür.    |
+|    getLatestExecution    |    No    |    boolean    |    API en son yürütmenin ayrıntılarını dönecektir. Varsayılan olarak, bu parametre true olarak ayarlanır.<br> Bu parametrenin değerini false olarak geçmeyi seçerseniz, API son 90 günlük yürütme örneklerini döndürür.    |
 |        |        |        |        |
 
-### <a name="sample-request-payload"></a>Örnek Istek yükü
+### <a name="sample-request-payload"></a>Örnek İstek Yükü
 
 Hiçbiri
 
 ### <a name="sample-response"></a>Örnek Yanıt
 
-Yanıt yükü aşağıdaki şekilde yapılandırılır:
+Yanıt yükü aşağıdaki gibi yapılandırılmıştır:
 
-Yanıt kodları: 200, 400, 401, 403, 404, 500
+Yanıt Kodları: 200, 400, 401, 403, 404, 500
 
 Yanıt yükü örneği:
 
@@ -356,31 +356,31 @@ Yanıt yükü örneği:
 }
 ```
 
-Rapor yürütme tamamlandıktan sonra, yürütme durumu `Completed` gösterilir. İçindeki URL 'YI seçerek raporu indirebilirsiniz `reportAccessSecureLink` .
+Rapor yürütme tamamlandıktan sonra yürütme `Completed` durumu gösterilir. içinde URL'yi seçerek raporu `reportAccessSecureLink` indirebilirsiniz.
 
 ### <a name="glossary"></a>Sözlük
 
-Yanıttaki öğelerin anahtar tanımları.
+Yanıtta öğelerin anahtar tanımları.
 
 |    Parametre    |    Açıklama    |
 |    ----    |    ----    |
-|    Yürütme    |    Yürütme örneğinin evrensel benzersiz tanımlayıcısı (UUID)    |
-|    REPORTID    |    Yürütme örneğiyle ilişkili rapor KIMLIĞI    |
-|    Recurrenceınterval    |    Rapor oluşturma sırasında belirtilen yinelenme aralığı    |
-|    RecurrenceCount    |    Rapor oluşturma sırasında belirtilen yinelenme sayısı    |
-|    CallbackUrl    |    Yürütme örneğiyle ilişkili geri çağırma URL 'SI    |
+|    Executionıd    |    Yürütme örneğinin evrensel olarak benzersiz tanımlayıcısı (UUID)    |
+|    ReportId    |    Yürütme örneğiyle ilişkili rapor kimliği    |
+|    RecurrenceInterval    |    Rapor oluşturma sırasında sağlanan yinelenme aralığı    |
+|    RecurrenceCount    |    Rapor oluşturma sırasında sağlanan yinelenme sayısı    |
+|    CallbackUrl    |    Yürütme örneğiyle ilişkili geri çağırma URL'si    |
 |    CallbackMethod    |    Yürütme örneğiyle ilişkili geri çağırma yöntemi    |
 |    Biçimlendir    |    Yürütmenin sonunda oluşturulan dosyanın biçimi    |
-|    ExecutionStatus    |    Rapor yürütme örneğinin durumu. <br> Geçerli değerler şunlardır: `Pending` , `Running` , `Paused` , ve `Completed`    |
-|    ReportAccessSecureLink    |Rapora güvenli erişilebilen bağlantı        |
-|    Reportexpiryıtime    |    Rapor bağlantısının süresinin dolmasına geçen UTC saati: yyyy-MM-ddTHH: mm: ssZ    |
-|    ReportGeneratedTime    |    Raporun şu biçimde oluşturulduğu UTC saati: yyyy-MM-ddTHH: mm: ssZ    |
-|    TotalCount    |    Değer dizisindeki veri kümesi sayısı    |
-|    Durum    |    Sonuç Kodu <br> Olası değerler 200, 400, 401, 403, 404 ve 500    |
-|    message    |    API 'nin yürütülmesindeki durum iletisi    |
+|    ExecutionStatus    |    Rapor yürütme örneğinin durumu. <br> Geçerli değerler: `Pending` , `Running` , `Paused` ve `Completed`    |
+|    ReportAccessSecureLink    |Rapora güvenli bir şekilde erişilebilen bağlantı        |
+|    ReportExpiryTime    |    Utc Saati: Rapor bağlantısının süresi şu biçimde dolacak: yyyy-MM-ddTHH:mm:ssZ    |
+|    ReportGeneratedTime    |    Raporun şu biçimde üret alındığı UTC Saati: yyyy-MM-ddTHH:mm:ssZ    |
+|    TotalCount    |    Değer dizisinde veri kümesi sayısı    |
+|    Statuscode    |    Sonuç Kodu <br> Olası değerler: 200, 400, 401, 403, 404 ve 500    |
+|    message    |    API'nin yürütülmesinden gelen durum iletisi    |
 |        |        |
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-- [Swagger API URL 'si](https://api.partnercenter.microsoft.com/insights/v1/mpn/swagger/index.html) aracılığıyla API 'leri deneyin
-- [İlk API çağrısını yapın] (insights-programmatic-first-api-call.md
+- [Swagger API URL'si aracılığıyla API'leri deneyin](https://api.partnercenter.microsoft.com/insights/v1/mpn/swagger/index.html)
+- [İlk API çağrınızı yapma] (insights-programmatic-first-api-call.md
