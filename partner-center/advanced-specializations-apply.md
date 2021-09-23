@@ -10,25 +10,25 @@ ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 5667fad7bde179cd728abb911b65621bcc9505a7
-ms.sourcegitcommit: 731a5e2725a72ecdae40189a3f52ab6b4a4c8058
+ms.sourcegitcommit: eeb81ccb888239a0e8fbe4711de3ce07f3b00358
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/20/2021
-ms.locfileid: "128031264"
+ms.lasthandoff: 09/23/2021
+ms.locfileid: "128312267"
 ---
 # <a name="use-partner-center-to-apply-for-advanced-specializations-and-check-their-status"></a>Gelişmiş İş Ortağı Merkezi uygulamak ve durumlarını kontrol etmek için İş Ortağı Merkezi'i kullanın
 
 **Uygun roller:** Genel yönetici | Hesap yöneticisi
 
-Bu makalede, gelişmiş bir uzmanlık için İş Ortağı Merkezi, ilerlemenizi denetleme ve gerekli adımları ve doğrulamaları tamamlamak için İş Ortağı Merkezi panosunun nasıl kullanımı açıklanmıştır. [](advanced-specializations.md) Denetim veya müşteri başvuruları gerektiren İş Ortağı Merkezi uzmanlıkları elde etmek için İş Ortağı Merkezi kullanımına yönelik örnekler de göreceğiz.
+Bu makalede gelişmiş bir uzmanlık için İş Ortağı Merkezi, ilerlemenizi kontrol etmek [ve](advanced-specializations.md)gerekli adımları ve doğrulamaları tamamlamak için İş Ortağı Merkezi panosunun nasıl kullanımı açıklanmıştır. Ayrıca denetim veya müşteri başvuruları İş Ortağı Merkezi gelişmiş uzmanlıkları elde etmek için İş Ortağı Merkezi kullanımına yönelik örnekler de göreceğiz.
 
 Gelişmiş uzmanlıkların avantajları ve gereksinimleri hakkında daha fazla bilgi edinmek için bkz. [Microsoft İş Ortağı Ağı özelleştirmeleri.](https://partner.microsoft.com/membership/advanced-specialization)
 
 ## <a name="use-partner-center-to-apply-for-advanced-specializations-or-check-their-status"></a>Gelişmiş İş Ortağı Merkezi uygulamak veya durumlarını kontrol etmek için İş Ortağı Merkezi'i kullanın
 
-Gelişmiş uzmanlık için öncelikle ilgili alanda Gold uzmanlığı gibi belirli önkoşulları karşılamanız gerekir. [](https://partner.microsoft.com/membership/competencies) Daha sonra bu gelişmiş İş Ortağı Merkezi için temel adımları, gereksinimleri ve Microsoft doğrulamalarını tamamlamak üzere uygulamanız gerekir.
+Gelişmiş uzmanlık için öncelikle ilgili alanda Gold uzmanlığı gibi belirli önkoşulları karşılamanız gerekir. [](https://partner.microsoft.com/membership/competencies) Daha sonra, bu gelişmiş İş Ortağı Merkezi için temel adımları, gereksinimleri ve Microsoft doğrulamalarını tamamlamak üzere uygulamanız gerekir.
 
-Sürecin büyük bir İş Ortağı Merkezi. Ancak, bu alana yalnızca belirli İş Ortağı Merkezi [rolüne](permissions-overview.md) sahip kullanıcılar İş Ortağı Merkezi erişebilirsiniz.
+Sürecin büyük bir İş Ortağı Merkezi. Ancak bu alana yalnızca belirli [](permissions-overview.md) bir İş Ortağı Merkezi rolüne sahip kullanıcılar İş Ortağı Merkezi erişebilirsiniz.
 
 Bu alana erişmek için, size, kuruluşun Microsoft iş  ortağı hesabı için **MPN** Hesap Yöneticisi veya Genel Yönetici rolü ver gerekir.
 
@@ -36,7 +36,7 @@ Bu alana erişmek için, size, kuruluşun Microsoft iş  ortağı hesabı için 
 
 1. İş Ortağı Merkezi [panosunda](https://partner.microsoft.com/dashboard/home) oturum açın.
 
-2. İş Ortağı Merkezi menüsünün **MPN** bölümünü ve ardından **Adv. Uzmanlıklar'ı seçin.** Menü genişletildi ve kullanılabilir tüm gelişmiş özelleştirmeler görüntülenir.
+2. İş Ortağı Merkezi **menüsünün MPN** bölümünü ve ardından **Adv. Uzmanlıklar'ı seçin.** Menü genişletildi ve kullanılabilir tüm gelişmiş özelleştirmeler görüntülenir.
 
 3. Ayrıntıları görüntülemek için gelişmiş özelleştirmenin adını seçin. Belirli gereksinimleri ve adımları, geçerli durumunuz ve diğer adımlara veya kaynaklara yönelik bağlantıların olduğunu göreceğiz.
 
@@ -46,7 +46,7 @@ Bu alana erişmek için, size, kuruluşun Microsoft iş  ortağı hesabı için 
 
    Etkin durum, İş profilinizde otomatik olarak gelişmiş özelleştirme **etiketine olanak sağlar.** Bu profil daha sonra bir çözüm sağlayıcısı bulmaya çalışan [tüm müşteriler tarafından görülebilir.](https://www.microsoft.com/solution-providers/home)
 
-## <a name="use-partner-center-to-schedule-an-audit-or-include-customer-references-for-advanced-specializations"></a>Gelişmiş İş Ortağı Merkezi için denetim zamanlaması yapmak veya müşteri başvurularını dahil etmek için İş Ortağı Merkezi'i kullanın
+## <a name="use-partner-center-to-schedule-an-audit-or-include-customer-references-for-advanced-specializations"></a>Bir İş Ortağı Merkezi zamanlaması yapmak veya gelişmiş uzmanlıklar için müşteri başvurularını dahil etmek için İş Ortağı Merkezi'i kullanın
 
 Genel olarak, her gelişmiş uzmanlık, bu gelişmiş uzmanlık için benzersiz olan diğer özel önkoşullarla uyumlu altın uzmanlık kazanmanızı gerektirir. Bazı gelişmiş uzmanlıklar için şunları da yapmak gerekir:
 
@@ -68,7 +68,7 @@ Her iki görev de aynı İş Ortağı Merkezi.
 - Microsoft Azure Stack HCI ile Hibrit Bulut Altyapısı
 - Microsoft Azure Arc ile Karma İşlemler ve Yönetim
 - Microsoft Azure VMware Çözümü
-- DevOps üzerinde GitHub ile Microsoft Azure
+- DevOps GitHub ile Microsoft Azure
 - Microsoft Azure'de Ağ Hizmetleri
 - Microsoft Azure’da SAP
 
@@ -88,7 +88,7 @@ Denetim veya müşteri başvurusu gerektirmeyen gelişmiş uzmanlıklar şunlard
 - Düşük KodLu Uygulama Geliştirme
 - Küçük ve Orta Ölçekli İş Yönetimi
 
-Aşağıdaki bölümlerde, bir denetimin nasıl zamanlandırılları veya veri kaynaklarında müşteri başvuruları İş Ortağı Merkezi.
+Aşağıdaki bölümlerde, bir denetimin nasıl zamanlanıştırılay olduğu veya veri kaynaklarında müşteri başvuruları İş Ortağı Merkezi.
 
 ## <a name="schedule-an-audit-with-a-third-party-auditor"></a>Üçüncü taraf denetçi ile denetim zamanlama
 
@@ -98,7 +98,7 @@ Ardından, aşağıdaki adımları takip edin ve aşağıdaki adımları İş Or
 
 1. İş Ortağı Merkezi [panosunda](https://partner.microsoft.com/dashboard/home) oturum açın.
 
-2. İş Ortağı Merkezi menüsünün **MPN** bölümünü ve ardından **Adv. Uzmanlıklar'ı seçin.** Menü genişletildi ve kullanılabilir tüm gelişmiş özelleştirmeler görüntülenir.
+2. İş Ortağı Merkezi **menüsünün MPN** bölümünü ve ardından **Adv. Uzmanlıklar'ı seçin.** Menü genişletildi ve kullanılabilir tüm gelişmiş özelleştirmeler görüntülenir.
 
 3. Bir denetim zamanlamanız gereken gelişmiş özelleştirmenin adını seçin. Örneğin, Web Uygulamalarını Modernleştirme'yi **seçerek öğesini Microsoft Azure.** Daha sonra bu gelişmiş uzmanlık için önkoşullar sayfası görüntülenir.
 
@@ -117,9 +117,9 @@ Ardından, aşağıdaki adımları takip edin ve aşağıdaki adımlarda müşte
 
 1. İş Ortağı Merkezi [panosunda](https://partner.microsoft.com/dashboard/home) oturum açın.
 
-2. İş Ortağı Merkezi menüsünün **MPN** bölümünü ve ardından **Adv. Uzmanlıklar'ı seçin.** Menü genişletildi ve kullanılabilir tüm gelişmiş özelleştirmeler görüntülenir.
+2. İş Ortağı Merkezi **menüsünün MPN** bölümünü ve ardından **Adv. Uzmanlıklar'ı seçin.** Menü genişletildi ve kullanılabilir tüm gelişmiş özelleştirmeler görüntülenir.
 
-3. Müşteri başvurularını sağlamanız gereken gelişmiş özelleştirmenin adını seçin. Örneğin, Microsoft Teams için Toplantılar ve **Toplantı Odaları'Microsoft Teams.**
+3. Müşteri başvurularını sağlamanız gereken gelişmiş özelleştirmenin adını seçin. Örneğin, Microsoft Teams için Toplantılar **ve Toplantı Odaları'Microsoft Teams.**
 
    Daha sonra bu gelişmiş uzmanlık için önkoşullar sayfası görüntülenir. Altın uzmanlık, sertifikalar ve performans gereksinimine ek olarak, bu gelişmiş uzmanlık da dağıtma ve yönetme becerinizi gösteren üç müşteri başvurusu sağlamanızı gerektirir.
 
@@ -139,77 +139,77 @@ Ardından, aşağıdaki adımları takip edin ve aşağıdaki adımlarda müşte
 | Hizmet Düzeyi 1 | Azure Hizmetlerinin pakette olduğu en üst düzey (bkz. https://azure.microsoft.com/services/) . |
 | Hizmet Düzeyi 2 | İkinci En Üst Düzey Azure Hizmetleri tabanlı (örneğin: https://azure.microsoft.com/pricing/) |
 | Hizmet Düzeyi 3 | Üçüncü En Üst Düzey Azure Hizmetleri tabanlı (örneğin: https://azure.microsoft.com/pricing/details/virtual-machines/linux/) |
-| Hizmet Düzeyi 4 | Dördüncü En Üst Düzey Azure Hizmetleri tabanlı (örneğin: https://azure.microsoft.com/pricing/details/virtual-machines/linux/) |
-| Hizmet Grubu 2 | Azure hizmetlerini bir hizmet kategorisine göre gruplama |
-| Hizmet Grubu 3 | Azure hizmetlerini bir hizmet alt kategorisine göre gruplama |
-| Hizmet Etkileyici | Belirli bir tüketim etkinliğiyle eşlenen Azure hizmetlerini gruplama |
-| İşlem işletim sistemi | İşlem İşletim Sistemi |
-| İşlem Çekirdeği Yazılımı | İşlem Çekirdeği Yazılımı |
+| Hizmet Düzeyi 4 | Dördüncü en yüksek düzey Azure Hizmetleri tabanlı (örn.: https://azure.microsoft.com/pricing/details/virtual-machines/linux/) |
+| Hizmet grubu 2 | Azure hizmetlerini bir hizmet kategorisine göre gruplandırma |
+| Hizmet grubu 3 | Azure hizmetlerini bir hizmet alt kategorisine göre gruplandırma |
+| Hizmet etkileyen | Belirli bir tüketim etkinliğiyle eşlenen Azure hizmetlerinin gruplandırılması |
+| İşlem işletim sistemi | İşlem Işletim sistemi |
+| İşlem çekirdek yazılımı | İşlem çekirdek yazılımı |
 
-**Gelişmiş özelleştirme için Azure Tüketim Geliri filtreleri**
+**Gelişmiş özelleşmeye yönelik Azure tüketim geliri filtreleri**
 
 - Microsoft Azure'a Veri Ambarı Geçişi
-    - Azure Synapse Analytics ACR: Hizmet Düzeyi 2 = Azure Synapse Analytics
+    - Azure SYNAPSE Analytics ACR: hizmet düzeyi 2 = Azure SYNAPSE Analytics
 - Microsoft Azure'da Kubernetes
-    - Azure Kubernetes Service (AKS) ACR: Service Influencer = AKS , AKS-Engine
-    - Azure RedHat OpenShift ACR: Hizmet Grubu 3 = ARO, Hizmet Düzeyi 2 = "Bilinmiyor" dışında hepsi
-- Microsoft Windows Sanal masaüstü
-    - Windows Sanal Masaüstü ACR: Hizmet EtkiLeyici = NATIVE WVD
+    - Azure Kubernetes hizmeti (AKS) ACR: Service RG encer = AKS, AKS-Engine
+    - Azure RedHat OpenShift ACR: hizmet grubu 3 = ARO, hizmet düzeyi 2 = hepsi "bilinmiyor" hariç
+- Microsoft Windows sanal masaüstü
+    - Windows Sanal Masaüstü ACR: Service RG encer = NATIVE WVD
 - Microsoft Azure'a Web Uygulamaları Modernleştirmesi
-    - Azure App Service ACR: Hizmet Düzeyi 1 = İşlem ve Hizmet Düzeyi 2 = Azure App Service
-    - Azure Spring Cloud ACR:
-        - ACR Ayarlama Türü = Yok
-        - Hizmet Grubu 2 = Uygulama Geliştirme
-        - Hizmet Grubu 3 = Spring Cloud 
-        - Hizmet Düzeyi 2 = "Bilinmiyor" dışında hepsi
+    - Azure App Service ACR: hizmet düzeyi 1 = Işlem ve hizmet düzeyi 2 = Azure App Service
+    - Azure yay bulutu ACR:
+        - ACR ayarlama türü = yok
+        - Hizmet grubu 2 = uygulama geliştirme
+        - Hizmet grubu 3 = yay bulutu 
+        - Hizmet düzeyi 2 = tümü "bilinmiyor" hariç
 
-- Microsoft Azure'da analiz
-    - Azure Synapse Analytics ACR: Hizmet Düzeyi 2 = Azure Synapse Analytics
-    - Data Lake ACR: Hizmet Grubu 3 = Azure Data Lake
-    - Databricks ACR: Hizmet Grubu3 = Databricks
-    - Azure Data Factory ACR: Hizmet Düzeyi 2 = Azure Data Factory, Azure Data Factory v2
-- Microsoft Azure Stack HCI ile Hibrit Bulut Altyapısı
-    - Azure Stack HCI ACR: Hizmet Düzeyi 2 = Azure Stack HCI
-- Microsoft Azure VMware Çözümü
-    - Azure VMware Çözümleri (AVS) ACR: Hizmet Düzeyi 4 = Azure VMware Çözümü, CloudSimple Azure VMware Çözümü, Azure VMware Çözümü, Virtustream, Özelleştirilmiş İşlem Azure VMware Çözümü
-- Microsoft Azure Arc ile Karma İşlemler ve Yönetim 
-    - Arc özellikli sunucu ACR: Hizmet Düzeyi 4 = Azure İlkesi
-    - Arc özellikli Kubernetes ACR: Hizmet Düzeyi 4 = Azure Arc
-- Microsoft Azure'Machine Learning ve Microsoft Azure
-    - AI ACR: Hizmet Grubu 2 = AI
+- Microsoft Azure Analytics
+    - Azure SYNAPSE Analytics ACR: hizmet düzeyi 2 = Azure SYNAPSE Analytics
+    - Data Lake ACR: hizmet grubu 3 = Azure Data Lake
+    - Databricks ACR: Service Grup3 = Databricks
+    - Azure Data Factory ACR: hizmet düzeyi 2 = Azure Data Factory, Azure Data Factory v2
+- Microsoft Azure Stack cı ile karma bulut altyapısı
+    - Azure Stack CI ACR: hizmet düzeyi 2 = Azure Stack HCı
+- Microsoft Azure VMware çözümü
+    - Azure VMware çözümleri (AVS) ACR: hizmet düzeyi 4 = Azure VMware çözümü, CloudSimple 'a göre Azure VMware çözümü, Virtustream, özel Işlem Azure VMware çözümü
+- Microsoft Azure Arc ile karma işlemler ve yönetim 
+    - Arc etkin sunucu ACR: hizmet düzeyi 4 = Azure Ilkesi
+    - Arc etkin Kubernetes ACR: hizmet düzeyi 4 = Azure Arc
+- Microsoft Azure içindeki aı ve Machine Learning
+    - AI ACR: hizmet grubu 2 = AI
 
 
 - Microsoft Azure'a Windows Server ve SQL Server Geçişi
-    - Windows ACR: 
-        - ACR Ayarlama Türü = Yok, İşlem Çekirdeği SW = Çekirdek,
-        - İşlem OS = WINDOWS THEN compute OS Özniteliği = WINDOWS, UNKNOWN veya Compute OS = LINUX THEN Compute OS Attribute = WINDOWS-AHUB
-        - Hizmet Düzeyi 2= Cloud Services, Container Instances, Container Registry, Özelleştirilmiş İşlem, Sanal Makineler, Sanal Makine Lisansları
-    - SQL Veritabanı (DB) ACR: Hizmet Grubu 3 = SQLDB
-    - SQL Yönetilen Örnek (MI) ACR: Hizmet Grubu 3 = SQL DB MI
-    - SQL VM ACR: Hizmet Grubu 3 = IaaS'SQL, IaaS VM SQL de çalışma
-- Linux ve Open-Source Veritabanı'Microsoft Azure
-    - Linux Sanal Makineleri (VM)ACR:
+    - Windows ACR 
+        - ACR ayarlama türü = N/A, Işlem çekirdeği SW = çekirdek,
+        - İşlem OS = WINDOWS daha sonra Işlem IŞLETIM sistemi özniteliği = WINDOWS, BILINMEYEN veya Işlem OS = LINUX Işlem işletim sistemi özniteliği = WINDOWS-AHUB
+        - Hizmet düzeyi 2 = Cloud Services, Container Instances, Container Registry, özel Işlem, sanal makineler, sanal makine lisansları
+    - SQL Veritabanı (DB) acr: hizmet grubu 3 = sqldb
+    - SQL yönetilen örnek (mı) acr: hizmet grubu 3 = SQL DB MI?
+    - SQL VM acr: hizmet grubu 3 = ıaas üzerinde SQL ıaas VM 'de SQL
+- Linux ve Open-Source veritabanı geçişi Microsoft Azure
+    - Linux Sanal Makineleri (VM) ACR:
         - 1. Seçenek:
-            - ACR Ayarlama Türü= Yok, Hizmet Düzeyi 2 = Sanal Makineler, İşlem işletim sistemi= Linux, İşlem işletim sistemi özniteliği = Windows olmayan , UNKNOWN , Windows
-            - Hizmet Düzeyi 4= Cloud Services MS Series, Virtual Machines MS Series, Virtual Machines MS Series Windows, Virtual Machines MSv2 Series, Virtual Machines MSv2 Series Windows, MS Series Dedicated Host, MSv2 Series Dedicated Host
-        - 2. Seçenek: Yalnızca Hizmet Düzeyi 4'te filtre gerektirir; İşlem OS/İşlem OS Öznitelikleri gibi diğer alanlar gerekli değildir
-            - Hizmet Düzeyi 4 = Red Hat Enterprise Linux, HA ile Red Hat Enterprise Linux, SUSE Linux Enterprise Server Basic, HPC Önceliği için SUSE Linux Enterprise Server, HPC Standard için SUSE Linux Enterprise Server, SUSE Linux Enterprise Server Priority, SUSE Linux Enterprise Sunucu Standardı
-    - MariaDB ACR için Azure Veritabanı (DB): Hizmet Düzeyi 1 = Veritabanları ve Hizmet Düzeyi 2 = MariaDB için Azure Veritabanı
-    - MySql ACR için Azure DB: Hizmet Düzeyi 1 = Veritabanları ve Hizmet Düzeyi 2 = MySQL için Azure Veritabanı ve Azure üzerinde MySQL Veritabanı
-    - Postgre için Azure DB SQL ACR: Hizmet Düzeyi 1 = Veritabanları ve Hizmet Düzeyi 2 = PostgreSQL
-    - Azure COSMOS DB ACR: Hizmet Düzeyi 1 = Veritabanları ve Hizmet Düzeyi 2 = CosmosDB
+            - acr ayarlama türü = N/A, hizmet düzeyi 2 = sanal makineler, işlem os = Linux, işlem os özniteliği = Windows olmayan, bilinmiyor, Windows
+            - hizmet düzeyi 4 = tümü Cloud Services ms serisi, sanal makineler ms serisi, sanal makineler ms serisi Windows, sanal makineler MSv2 serisi, sanal makineler MSv2 serisi Windows, MS serisi adanmış ana bilgisayar, MSv2 serisi adanmış ana bilgisayar
+        - Seçenek 2: yalnızca hizmet düzeyi 4 ' te filtre gerektir, Işlem OS/Işlem işletim sistemi öznitelikleri gibi diğer alanlar gerekli değildir
+            - hizmet düzeyi 4 = Red Hat Enterprise Linux, Red Hat Enterprise Linux HA, SUSE Linux Enterprise Server Basic, SUSE Linux Enterprise Server for HPC Priority, SUSE Linux Enterprise Server for HPC Standard, SUSE Linux Enterprise Server Priority, SUSE Linux Enterprise Sunucu standardı
+    - MariaDB ACR için Azure veritabanı (DB): hizmet düzeyi 1 = veritabanları ve hizmet düzeyi 2 = MariaDB için Azure veritabanı
+    - MySql için Azure DB ACR: hizmet düzeyi 1 = veritabanları ve hizmet düzeyi 2 = Azure 'da MySQL için Azure veritabanı ve MySQL veritabanı
+    - postgre için Azure DB SQL acr: hizmet düzeyi 1 = veritabanları ve hizmet düzeyi 2 = postgresql
+    - Azure COSMOS DB ACR: hizmet düzeyi 1 = veritabanları ve hizmet düzeyi 2 = CosmosDB
 - Tehdit Koruması
-    - Azure Sentinel ACR: Hizmet Düzeyi 4 = Sentinel
+    - Azure Sentinel ACR: hizmet düzeyi 4 = Sentinel
 - Bulut Güvenliği
-    - Karma Ortam XDR ve Ağ Güvenliği ACR: SQL için Hizmet Düzeyi 4 = Azure Defender, kapsayıcı kayıt defterleri için Azure Defender, Kubernetes için Azure Defender Depolama Azure Defender, Application Gateway WAF v2, WAF Application Gateway, Azure Active Directory B2C, Azure Active Directory Domain Services, Azure Active Directory Kimlikler, Azure Bastion, Azure DDOS Koruması, Azure Güvenlik Duvarı, Azure Güvenlik Duvarı Yöneticisi, Azure Front Door Service, IoT için Azure Defender, Azure Ayrılmış HSM, Key Vault, Ağ Azure Defender, App Service için Azure Defender, Sentinel
+    - karma ortam XDR ve ağ güvenliği acr: hizmet düzeyi 4 = SQL için azure defender, kapsayıcı kayıt defterleri için azure defender, kubernetes için azure defender, Depolama için azure defender, Application Gateway waf v2, waf Application Gateway, Azure Active Directory B2C, Azure Active Directory etki alanı hizmetleri, dış kimlikler, azure savunma, azure ddos koruması, azure güvenlik duvarı, azure güvenlik duvarı yöneticisi, azure ön kapı hizmeti, ıot için azure defender, azure adanmış HSM, Key Vault, ağ izleyicisi, for App Service azure defender, sunucular için azure defender, Sentinel için Azure Active Directory
     
 - Microsoft Azure’da SAP
-    - SAP workloads ACR: Service Level 4 = Cloud Services MS Series, Virtual Machines MS Series, Virtual Machines MS Series Windows, Virtual Machines MSv2 Series, Virtual Machines MSv2 Series Windows, MS Series Dedicated Host, MSv2 Series Dedicated Host, Azure üzerinde SAP HANA Büyük Örnekleri,SAP Cloud Platform Alert Notification, SAP Cloud Platform Extension Factory - Kyma Runtime,SAP Cloud Platform Integration Suite - Ek İletiler,  SAP Cloud Platform Integration Suite - Standard Sürümü, SAP Cloud Platform Transport Management, SAP Edge Services, SAP Embrace API Management,SAP Embrace Application Logging, SAP Embrace Application Runtime, SAP Embrace Bant Genişliği, SAP Embrace Business Application Studio, SAP Embrace Business Rules, SAP Embrace Cloud Integration, SAP Embrace Credential Store, SAP Embrace Custom Domain, SAP Embrace Data Intelligence, SAP Embrace Enterprise Mesajlaşma, SAP Embrace Extension Factory, sunucusuz çalışma zamanı, SAP Embrace Hana Cloud, SAP Embrace Identity Authentication, SAP Embrace Job Scheduler, SAP Embrace MACC, SAP Embrace Mobile Services,SAP Embrace Object Store Service, SAP Embrace Open Connectors, SAP Embrace Portal, SAP Embrace Process Visibility, SAP Embrace Web Analytics, SAP Embrace workflow, SAP HANA Service, SAP Web IDE,  BareMetal Infrastructure, Virtual Machines MdSv2 Series, Virtual Machines MdSv2 Series Windows
+    - SAP iş yükleri acr: hizmet düzeyi 4 = Cloud Services ms serisi, sanal makineler ms serisi, sanal makineler ms serisi Windows, sanal makineler MSv2 serisi, sanal makineler MSv2 serisi Windows, MS serisi adanmış ana bilgisayar, MSv2 serisi adanmış konak, Azure üzerinde SAP HANA Büyük Örnekleri, sap cloud platform uyarı bildirimi, sap cloud platform tümleştirme paketi-ek iletiler,  sap cloud platform tümleştirme paketi-Standard Sürümü, sap cloud platform aktarım yönetimi, sap Edge hizmetleri, sap emayracın API Management, sap emayracın uygulama günlüğü, sap ıayracın uygulama çalışma zamanı, sap emayraca ayrılan bant genişliği, sap emayraç iş uygulaması Studio, sap emayraç iş kuralları, sap emayracını bulut tümleştirmesi, sap emayraç kimlik bilgileri, sap emayracın, sap emayracın Enterprise sunucusuz çalışma zamanı, sap emayraç Hana bulutu, sap emayraç kimlik doğrulaması, sap emayraç iş planlayıcısı, sap emayraç macc, sap emayraç Mobile Services, sap emayracın, sap emayracın açık bağlayıcıları, sap emayraç portalı, sap emayracın, SAP HANA Service, sap web ıde,  BareMetal altyapısı, sanal makineler MdSv2 serisi, sanal makineler MdSv2 serisi Windows
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-- Gelişmiş [uzmanlıklar, avantajları ve benzersiz gereksinimleri hakkında daha fazla bilgi edinebilirsiniz.](https://partner.microsoft.com/membership/advanced-specialization)
+- [Gelişmiş Uzmanlıklar, avantajları ve benzersiz gereksinimler](https://partner.microsoft.com/membership/advanced-specialization)hakkında daha fazla bilgi edinin.
 
-- Microsoft Silver [veya Gold üyelik yetkinliklerini elde etme hakkında bilgi.](learn-about-competencies.md)
+- [Microsoft gümüş veya altın üyelik Uzmanlıklar](learn-about-competencies.md)hakkında bilgi edinin.
 
-- Microsoft İş Ortağı Ağı [hakkında daha fazla bilgi.](https://partner.microsoft.com/membership/competencies)
+- [Microsoft iş ortağı ağı yetkinlikleri](https://partner.microsoft.com/membership/competencies)hakkında daha fazla bilgi edinin.

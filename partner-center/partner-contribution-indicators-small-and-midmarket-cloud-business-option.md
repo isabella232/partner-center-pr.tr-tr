@@ -10,11 +10,11 @@ ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: f1477ac6f5675c820564606c7ce5f0b7a5871305
-ms.sourcegitcommit: 986573bc4382b803bf4d641df6dd1e37c3af1955
+ms.sourcegitcommit: eeb81ccb888239a0e8fbe4711de3ce07f3b00358
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/18/2021
-ms.locfileid: "127921450"
+ms.lasthandoff: 09/23/2021
+ms.locfileid: "128312149"
 ---
 # <a name="use-partner-contribution-indicators-to-attain-the-small-and-midmarket-cloud-solutions-competency"></a>Küçük ve Orta Ölçekli Piyasa Bulut Çözümleri yetkinliğine ulaşmak için İş Ortağı Katkısı Göstergelerini kullanın
 
@@ -41,14 +41,14 @@ Bu makale aşağıdakiler hakkında bilgi içerir:
 
 PCI ile iş ortakları, başarılı dağıtımlar ve kullanımı artırma gibi müşteri başarısının temel ölçüleri için kredi alır. Bu ekipler, teknik özelliklerine yatırım yapmaya ve bunların ölçeğini ölçeklendirmeye devam ettiği için ödüllendirilir.
 
-Bir iş ortağı ana göstergelerde belirli etki düzeylerine ulaşıyorsa(örneğin, iş ortağı Cloud Business Applications SMB seçeneği aracılığıyla Küçük ve Orta Ölçekli Bulut Çözümleri yetkinliğine sahip olabilir.
+Bir iş ortağı ana göstergelerde belirli etki düzeylerine ulaşıyorsa( örneğin, iş ortağı Cloud Business Applications SMB seçeneği aracılığıyla Küçük ve Orta Ölçekli Pazar Bulut Çözümleri yetkinliğine sahip olabilir (veya bu yetkinliği koruyabilirsiniz).
 
 > [!NOTE]
 > Yetkinlik elde etmenin avantajları hakkında daha fazla bilgi edinmek için [bkz. Microsoft iş ortağı yetkinlikleri.](https://partner.microsoft.com/membership/competencies)
 
 ## <a name="pci-scoring-based-on-six-key-indicators"></a>Altı ana göstergeye göre PCI puanlama
 
-PCI, iş ortağının teknik özelliklerine, müşteri başarısını artırabilme özelliklerine ve satış performansına gelişmiş bir görünüm sağlar. İş ortaklarının Cloud Business Applications SMB seçeneğiyle Silver veya Gold Small ve Midmarket Cloud Solutions uzmanlığını elde etmelerini sağlamak için PCI, altı ana göstergede şirketin önceki yıl performansını ölçür:
+PCI, iş ortağının teknik özelliklerine, müşteri başarısını artırabilme özelliklerine ve satış performansına gelişmiş bir görünüm sağlar. İş ortaklarının Cloud Business Applications SMB seçeneğiyle Silver veya Gold Small ve Midmarket Cloud Solutions uzmanlığını elde etmelerini sağlamak için PCI, altı ana göstergede şirketinizin önceki yıl performansını ölçür:
 
 *Performans göstergeleri:*
 
@@ -58,7 +58,7 @@ PCI, iş ortağının teknik özelliklerine, müşteri başarısını artırabil
 
 *Yetenek göstergeleri:*
 
-3. **İşlev danışmanları:** Dynamics 365 için şu anda etkin İşlev Danışmanı İş Ortağı sertifikasına sahip kişi sayısı. (Bu ölçümle ilgili ayrıntılar için [bkz. İşlev danışmanlarının tanımları.)](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#definitions-for-pci-metric-3---functional-consultants)
+3. **İşlev danışmanları:** Dynamics 365 için şu anda etkin olan İşlev Danışmanı İş Ortağı sertifikasına sahip kişi sayısı. (Bu ölçümle ilgili ayrıntılar için [bkz. İşlev danışmanlarının tanımları.)](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#definitions-for-pci-metric-3---functional-consultants)
 
 4. **Geliştiriciler:** Dynamics 365 için şu anda etkin bir Geliştirici İş Ortağı sertifikasına sahip olan kişi sayısı. (Bu ölçümle ilgili ayrıntılar için [bkz. Geliştiriciler için tanımlar.)](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#definitions-for-pci-metric-4---developers)
 

@@ -9,12 +9,12 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3583614b1bf89a3c9297f123f12355b8a2ad7d1e
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.openlocfilehash: 56884a5a6cbfbade881154275129c63dcd3456d8
+ms.sourcegitcommit: eeb81ccb888239a0e8fbe4711de3ce07f3b00358
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126248470"
+ms.lasthandoff: 09/23/2021
+ms.locfileid: "128312125"
 ---
 # <a name="how-the-partner-earned-credit-is-calculated-and-paid"></a>İş ortağı kazanılmış kredisinin hesaplanması ve ödenmesi
 
@@ -27,7 +27,7 @@ Varsayılan olarak, bir CSP iş ortağı olarak, müşterinizin aboneliğine ger
 Aylık fatura miktarı, iş ortağının kazanılan kredisinin bir ağı olur. , Aylık keşfi dosyanızda PEC ayrıntılarını görebilirsiniz. Müşterinin deneyimidir iş ortağı için erişim sağlayabildiği ek yollar için aşağıdaki makalelere bakın:
 
 - [Azure planı kapsamındaki abonelikleri ve kaynakları yönetme](azure-plan-manage.md)
-- [Azure CSP abonelikleri için yönetici ayrıcalıklarını yeniden devreye sokma](/revoke-reinstate-csp.md)
+- [Azure CSP abonelikleri için yönetici ayrıcalıklarını yeniden devreye sokma](revoke-reinstate-csp.md)
 
 ## <a name="eligibility"></a>Önceliği
 

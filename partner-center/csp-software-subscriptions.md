@@ -4,36 +4,36 @@ ms.topic: how-to
 ms.date: 03/08/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-pricing
-description: CSP programı iş ortaklarının Azure ayrılmış örneklerini ve İş Ortağı Merkezi için Sunucu aboneliklerini satın almak, yönetmek, satmak ve iptal etmek için bu hizmetleri nasıl kullanabileceğini öğrenin.
+description: CSP programındaki iş ortaklarının, müşteriler için Azure ayrılmış örnekleri ve sunucu abonelikleri satın almak, yönetmek, satmak ve iptal etmek için Iş Ortağı Merkezi 'ni nasıl kullanabileceği hakkında bilgi edinin.
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 162de08f0114d24cc72d21387ca004e7901c15a2
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.openlocfilehash: 3123313525fb245db2abbe3175cd820b53c41898
+ms.sourcegitcommit: eeb81ccb888239a0e8fbe4711de3ce07f3b00358
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960795"
+ms.lasthandoff: 09/23/2021
+ms.locfileid: "128312196"
 ---
 # <a name="sell-software-subscriptions-through-the-cloud-solution-provider-csp-program"></a>Bulut Çözümü Sağlayıcısı (CSP) programı aracılığıyla yazılım abonelikleri satma
 
-**Uygun roller:** Yönetici aracısı | Genel yönetici
+**Uygun roller**: yönetici Aracısı | Genel yönetici
 
-Azure rezervasyonları ve Sunucu abonelikleri (Windows Server ve SQL Server abonelikleri) ile CSP programı iş ortakları, yüksek oranda tahmin edilebilir ve kalıcı bulut iş yüklerini desteklemek için daha uygun maliyetli çözümlere yönelik hızlı büyüyen müşteri talebini daha iyi karşılar. 
+Azure ayırmaları ve sunucu abonelikleri (Windows server ve SQL Server abonelikleri) sayesinde, CSP programındaki iş ortakları, yüksek düzeyde öngörülebilir ve kalıcı bulut iş yüklerini desteklemeye yönelik daha uygun maliyetli çözümler için hızlı büyümekte olan müşteri taleplerini daha iyi ele alabilir. 
 
-Artık İş Ortağı Merkezi ve Azure portal aracılığıyla ticari müşteriler adına Azure rezervasyonlarını ve Sunucu aboneliklerini Azure Hibrit Avantajı.
+Artık Azure ayırmaları ve sunucu aboneliklerini, Iş ortağı merkezi ve Azure portal aracılığıyla ticari müşteriler adına alabilir, sağlayabilir ve yönetebilir Azure Hibrit Avantajı.
 
-Bu Azure Hibrit Avantajı, Windows Server lisanslarından daha fazla değer elde ediyor ve sanal makinelerde yüzde 40'a varan tasarruflar elde ediyor. Avantajı, Yazılım Güvencesi kapsamındaki Windows Server Datacenter ve Standard sürüm lisansları ile Yazılım Güvencesi. Sürüme bağlı olarak, Azure'da Windows Server sanal makinelerini çalıştırmak ve daha düşük bir taban işlem ücreti ödemek için lisanslarınızı dönüştürebilirsiniz veya yeniden kullanabilirsiniz (örneğin Linux sanal makine ücretleri).
+Azure Hibrit Avantajı, Windows sunucusu lisanslarınızdan daha fazla değer almanıza ve sanal makinelerde yüzde 40 ' a varan tasarruf etmenize yardımcı olur. yazılım güvencesi kapsamındaki Windows Server veri merkezi ve standart sürüm lisanslarıyla avantajını kullanabilirsiniz. sürüme bağlı olarak, Azure 'da Windows Server sanal makinelerini çalıştırmak için lisanslarınızı dönüştürebilir veya yeniden kullanabilir ve daha düşük bir temel işlem ücreti (örneğin, Linux sanal makine ücretleri) ödeyebilirsiniz.
 
-## <a name="azure-reservations-unavailable-markets"></a>Azure rezervasyonları kullanılamayan pazarlar
+## <a name="azure-reservations-unavailable-markets"></a>Azure ayırmaları kullanılamayan pazarlar
 
 >[!IMPORTANT]
->Azure **rezervasyonları aşağıdaki** pazarlarda kullanılamaz:  
+>Azure ayırmaları **aşağıdaki pazarlarda kullanılamaz:**  
 >  
 > **Kullanılamayan pazarlar (alfabetik sırada)**
 >
-> |A'dan Gi'ye   | Gr to Pal  | Pap'dan Z'ye |
+> |A-GI   | Gr-PAL  | PAP-Z |
 > |--------------------------------|-----------------------------------|------------------------------------------|
 > | Aland Adaları     | Grönland     | Papua Yeni Gine     |
 > | Amerikan Samoası     | Grenada     | Pitcairn Adaları     |
@@ -46,7 +46,7 @@ Bu Azure Hibrit Avantajı, Windows Server lisanslarından daha fazla değer elde
 > | Benin     | Haiti       | Saint Vincent ve Grenadinler     |
 > | Butan     | Heard Adası ve McDonald Adaları       | Samoa     |
 > | Bonaire     | Man Adası     | San Marino     |
-> | Bouvet Adası     | Jan Mayen     | Séo Tomé ve Préncipe   |
+> | Bouvet Adası     | Jan Mayen     | Sao Tome ve Principe   |
 > | Britanya Hint Okyanusu Toprakları       | Jersey     | Seyşeller   |
 > | Britanya Virjin Adaları     | Kiribati       | Sierra Leone   |
 > | Burkina Faso     | Kosova     | Sint Eustatius     |
@@ -55,7 +55,7 @@ Bu Azure Hibrit Avantajı, Windows Server lisanslarından daha fazla değer elde
 > | Orta Afrika Cumhuriyeti     | Liberya     | Somali     |
 > | Çad     | Madagaskar     | Güney Georgia ve Güney Sandwich Adaları     |
 > | Çin     | Malavi     | Güney Sudan     |
-> | Christmas Adası     | Maldivler     | St Helena, Ascension, Tristan da Cunha     |
+> | Christmas Adası     | Maldivler     | Saint Helena, Ascension ve Tristan da Cunha     |
 > | Cocos (Keeling) Adaları     | Mali     | Surinam     |
 > | Komorlar     | Marshall Adaları     | Svalbard     |
 > | Kongo Cumhuriyeti     | Martinique     | Svaziland     |
@@ -104,6 +104,17 @@ yazılımınızı satın aldıktan sonra siz veya müşterilerinizin bu uygulama
 
 >[!NOTE]
 >yalnızca müşterilerin ürün anahtarlarını ve indirme bilgilerini Microsoft 365 Yönetici merkezi 'nde (genel yönetici rolü gerekli) görmesini sağlamak için erişimi vardır. İş ortaklarının bu bilgileri görmek için Iş ortağı merkezini kullanması gerekir.
+
+> [!NOTE]
+> CSP satınalmaları çoklu etkinleştirme anahtarı (MAK) aracılığıyla etkinleştirilir. istek üzerine bile Anahtar Yönetim Merkezi (KMS) anahtarlara izin verilmez. 
+
+## <a name="move-a-customers-on-premises-license-from-vl-to-csp-with-no-downtime"></a>Bir müşterinin Şirket içi lisansını VL 'den CSP 'ye kapalı kalma süresi olmadan taşıyın
+
+CSP 'de KMS anahtarlar kullanılamasa bile, müşterinizin şirket içi lisanslarını VL 'den CSP 'ye taşımaya devam edebilir ve satın alma kanalı anahtarı nedeniyle kapalı kalma süresini önleyebilirsiniz. KMS lisansları istemcilere dağıtır ve cihaz bu etkinleştirmeyi yenilemeyi denemeden önce, genellikle 180 gün boyunca etkin kalır. Bu, cihazın zaten etkinleştirildiği ve herhangi bir sorunla karşılaşmadan önce çalışacağı bir süre çalışacağı anlamına gelir. 
+
+Müşteri bu süre içinde, el ile veya betikleştirilmiş bir şekilde (kullanarak) yeni MAK dağıttığında `slmgr.vbs` kapalı kalma süresi olmaz. Müşteri bu süre içinde yeni MAK dağıtmazsa ve lisansı daha sonra yenilemeyi denediğinde cihaz, yeniden etkinleştirilinceye kadar bazı işlevsellikleri sınırlı hale gelebilir veya engellenebilir. 
+
+daha fazla bilgi için [Windows 10 (Windows 10) Windows dağıtımı çalıştıran istemcileri etkinleştir](/windows/deployment/volume-activation/activate-windows-10-clients-vamt#key-management-service-activation-renewal)' e gidin. Bu dağıtım türü ile ilgili yardım için, [Teknik satış ve Dağıtım Hizmetleri](/partner-center/technical-benefits#submit-a-technical-presales-and-deployment-services-request) isteği gönderebilirsiniz.
 
 ## <a name="server-subscription-download-and-license-keys-available-through-microsoft-365-admin-center-for-customers"></a>sunucu aboneliği indirme ve lisans anahtarları, müşteriler için Microsoft 365 Yönetici merkezi aracılığıyla kullanılabilir 
 
@@ -160,26 +171,26 @@ Bir siparişi iptal etmeye çalıştığınızda, Iş ortağı merkezi de size d
 
 - Bu belirli bir sırayı iptal etmeniz için kaç gün kaldı
 
-- İptal etme penceresini zaten geçirseniz ve artık sırayı iptal edemeyeceğinizi
+- İptal penceresini zaten geçmiş olup olmadığı ve artık siparişi iptal edip etmeyememe
 
-- İptal isteğiniz hakkında daha fazla bilgiye ihtiyacımız varsa, **müşteri destek talebi** formu için bir bağlantı vermiş olabilirsiniz.
+- İptal isteğiniz hakkında daha fazla bilgiye ihtiyacımız olursa size bir müşteri destek isteği formu **bağlantısı verilmiştir.**
 
 >[!IMPORTANT]
->Bir siparişi iptal ettikten sonra, iptalinizi onaylayan bir ileti görüntülenir. Ancak, Iş Ortağı Merkezi panosunda iptal etmeden önce 15 dakikaya varan bir gecikme olabilir. 
+>Siparişi iptal etmenizden sonra iptal işleminizi onaylayan bir ileti görüntülenir. Ancak iptalin panoda görünür olması 15 dakikayı İş Ortağı Merkezi. 
 
 ### <a name="post-cancellation-details"></a>İptal sonrası ayrıntıları
 
-Bir satın alma işlemini iptal ettikten sonra:
+Satın alma işlemini iptal etmenizden sonra:
 
-- Tüm ilgili yazılım anahtarları ve indirme bağlantıları iptal edilecek. Bu iptal, sizin ve müşterinizin artık yazılım anahtarlarını kullanmayacağı ve bu satın alma ile ilgili bağlantıları indirebileceği anlamına gelir. Siz ve müşteriniz, iptal edilen tüm yazılımların kullanımını sürdürmekten sorumludur. Ayrıca, iptal edilen yazılımı kaldırmak ve ilgili yazılım indirmelerinin ve bağlantılarının kaldırılması da sizin sorumluluğunuzdadır.
+- tüm ilgili yazılım anahtarları ve indirme bağlantıları iptal edilir. Bu iptal, siz ve müşterinizin bu satın alma işlemiyle ilgili yazılım anahtarlarını ve indirme bağlantılarını artık kullana anlamına gelir. İptal edilen tüm yazılımların kullanımdan kaldırılamandan siz ve müşteriniz sorumludur. Ayrıca iptal edilen yazılımı kaldırmak ve ilgili yazılım indirmelerini ve bağlantılarını kaldırmak sizin sorumluluğundadır.
 
 - İptal edilen öğe müşterinin Yazılım ayrıntıları sayfasında görünmeye devam eder ancak etkinleştirme anahtarı kullanılamaz.
 
-- İptal edilen sipariş için bir kredi sonraki aylık faturanıza görünür. Kalıcı yazılım %100 kredi alır ve yazılım abonelikleri, prokratılmış kredi alır.
+- sonraki aylık faturanıza iptal edilen sipariş için bir kredi görüntülenir. Kalıcı yazılım %100 kredi alır ve yazılım abonelikleri, prokratılmış kredi alır.
 
 ### <a name="submit-a-customer-support-request-to-cancel-a-purchase"></a>Satın alma işlemini iptal etmek için müşteri desteği isteği gönderme
 
-Bir yazılım satın alma işlemini İş Ortağı Merkezi ancak daha fazla bilgi sağlamanız ve bir müşteri destek isteği formunu doldurmanız söylense, bu adımlar size yardımcı olabilir:
+İş Ortağı Merkezi aracılığıyla yazılım satın alma işlemini iptal etmeye çalıştıysanız ancak daha fazla bilgi sağlamanız ve bir müşteri destek isteği formunu doldurmanız söylense, bu adımlar size yardımcı olabilir:
 
 1. Satın alma işlemini **iptal et penceresinden** müşteri desteği isteği bağlantısını seçerek Sorun bildir **İş Ortağı Merkezi** açılır.
 

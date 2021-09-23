@@ -10,11 +10,11 @@ ms.author: mowrim
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
 ms.openlocfilehash: e9313a7d7f6554a544eeb81a023db3a3a3eeff22
-ms.sourcegitcommit: ab5eda007f87f22fa3375b8e05adfccd6ebc285e
+ms.sourcegitcommit: eeb81ccb888239a0e8fbe4711de3ce07f3b00358
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/21/2021
-ms.locfileid: "128058935"
+ms.lasthandoff: 09/23/2021
+ms.locfileid: "128309794"
 ---
 # <a name="training-vouchers-program-retirement"></a>Eğitim Kuponları Programı'nın emeklilik
 
