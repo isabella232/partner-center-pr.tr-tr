@@ -9,18 +9,18 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 4e55e3069dc7e086ecac10d11e92e70942d63b78
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.openlocfilehash: f58f120d376b98f9fa054f0bec87f324874ce0bb
+ms.sourcegitcommit: fceaca54b0ec695cf214209c09b4516e1b40866a
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960904"
+ms.lasthandoff: 09/23/2021
+ms.locfileid: "128322093"
 ---
 # <a name="sell-on-premises-software-through-the-cloud-solution-provider-csp-program"></a>Bulut Çözümü Sağlayıcısı (CSP) programı aracılığıyla şirket içi yazılım satma
 
 **Uygun roller**: yönetici Aracısı | Genel yönetici
 
-CSP 'de şirket içi yazılım, bulut odaklı bir programda şirket içi yazılım sunarak buluta sorunsuz bir şekilde geçiş desteği sağlar.Bu yeni teklif, tüm Microsoft ürünlerini Transact için tek bir platform sağladıklarında, değer katan iş ortağını her satın alma senaryosuna getirmeye yardımcı olur. Bir CSP olarak, artık açık, EA ve kullanımda olan diğer programların yanı sıra Iş Ortağı Merkezi aracılığıyla şirket içi yazılım satıtabilirsiniz.  
+CSP 'de şirket içi yazılım, bulut odaklı bir programda şirket içi yazılım sunarak buluta sorunsuz bir şekilde geçiş desteği sağlar. Bu yeni teklif, tüm Microsoft ürünlerini Transact için tek bir platform sağladıklarında, değer katan iş ortağını her satın alma senaryosuna getirmeye yardımcı olur. Bir CSP olarak, artık açık, EA ve kullanımda olan diğer programların yanı sıra Iş Ortağı Merkezi aracılığıyla şirket içi yazılım satıtabilirsiniz.  
  
 Şirket içi yazılım lisanslama seçenekleriyle en iyi genel müşteri değerini sağlarken, iş modelini mümkün olduğunca iş ortağı kolay olarak da yaptık. CSP 'de şirket içi yazılımların doğrudan lisanslanması, maliyet öngörülebilirlik ve sizin için kolaylaştırılmış bir satış süreci anlamına gelir. Bu yeni iş modeli, müşterileriniz için şirket içi yazılımları kolayca temin etmek, yönetmek ve fiyatlamanızı sağlar. böylece, BT yönetimi 'nin değerli çözümlerinin genişletilmiş bir portföyüyle işletmenize odaklanırsınız.
 
@@ -52,6 +52,17 @@ yazılımınızı satın aldıktan sonra siz veya müşterilerinizin bu uygulama
 
 > [!NOTE]
 > yalnızca müşterilerin ürün anahtarlarını ve indirme bilgilerini Microsoft 365 Yönetici merkezi 'nde (genel yönetici rolü gerekli) görmesini sağlamak için erişimi vardır. İş ortaklarının bu bilgileri görmek için Iş ortağı merkezini kullanması gerekir.
+
+> [!NOTE]
+> CSP satınalmaları çoklu etkinleştirme anahtarı (MAK) aracılığıyla etkinleştirilir. istek üzerine bile Anahtar Yönetim Merkezi (KMS) anahtarlara izin verilmez. 
+
+## <a name="move-a-customers-on-premises-license-from-vl-to-csp-with-no-downtime"></a>Bir müşterinin Şirket içi lisansını VL 'den CSP 'ye kapalı kalma süresi olmadan taşıyın
+
+CSP 'de KMS anahtarlar kullanılamasa bile, müşterinizin şirket içi lisanslarını VL 'den CSP 'ye taşımaya devam edebilir ve satın alma kanalı anahtarı nedeniyle kapalı kalma süresini önleyebilirsiniz. KMS lisansları istemcilere dağıtır ve cihaz bu etkinleştirmeyi yenilemeyi denemeden önce, genellikle 180 gün boyunca etkin kalır. Bu, cihazın zaten etkinleştirildiği ve herhangi bir sorunla karşılaşmadan önce çalışacağı bir süre çalışacağı anlamına gelir. 
+
+Müşteri bu süre içinde, el ile veya betikleştirilmiş bir şekilde (kullanarak) yeni MAK dağıttığında `slmgr.vbs` kapalı kalma süresi olmaz. Müşteri bu süre içinde yeni MAK dağıtmazsa ve lisansı daha sonra yenilemeyi denediğinde cihaz, yeniden etkinleştirilinceye kadar bazı işlevsellikleri sınırlı hale gelebilir veya engellenebilir. 
+
+daha fazla bilgi için [Windows 10 (Windows 10) Windows dağıtımı çalıştıran istemcileri etkinleştir](/windows/deployment/volume-activation/activate-windows-10-clients-vamt#key-management-service-activation-renewal)' e gidin. Bu dağıtım türü ile ilgili yardım için, [Teknik satış ve Dağıtım Hizmetleri](/partner-center/technical-benefits#submit-a-technical-presales-and-deployment-services-request) isteği gönderebilirsiniz.
 
 ## <a name="cancel-a-purchase"></a>Satın almayı iptal et
 

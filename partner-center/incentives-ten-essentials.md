@@ -1,6 +1,6 @@
 ---
-title: Teşviklerle çalışmak için 10 temel bilgi
-description: Teşvik programı deneyiminizi geliştirmek ve daha erken ödeme almak için bu 10 öneriyi izleyin.
+title: Teşvikleri ile çalışmak için 10 temel bileşenler
+description: Bu 10 önerilerle karşılaşmanız ve bu adımları izleyerek daha fazla ödemeler elde edin.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 ms.topic: conceptual
@@ -9,59 +9,59 @@ ms.author: kashanum
 ms.localizationpriority: medium
 ms.date: 09/15/2020
 ms.openlocfilehash: ed1959e9b264b3f324fb0f2f528971163160f431
-ms.sourcegitcommit: 731a5e2725a72ecdae40189a3f52ab6b4a4c8058
+ms.sourcegitcommit: fceaca54b0ec695cf214209c09b4516e1b40866a
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/20/2021
-ms.locfileid: "128007234"
+ms.lasthandoff: 09/23/2021
+ms.locfileid: "128322430"
 ---
-# <a name="the-10-essentials-for-working-with-incentives"></a>Teşviklerle çalışmak için 10 temel bilgi
+# <a name="the-10-essentials-for-working-with-incentives"></a>Teşvikleri ile çalışmak için 10 temel bileşenler
 
-**Uygun roller:** Teşvik yöneticisi | Teşvikler kullanıcısı
+**Uygun roller**: teşvikleri admin | Teşvikleri kullanıcısı
 
-Microsoft Teşvikler programı, iş ortaklarını Microsoft ürün ve hizmetleriyle müşterilerle etkileşimli çalışmalarına yardımcı olan güçlü bir araçtır. Programı ne kadar iyi anlarsınız, başarı olasılığınız o kadar iyi olur.
+Microsoft teşvikleri programı, Microsoft ürün ve hizmetleriyle müşterilere ilgi çekici iş ortakları sağlayan güçlü bir araçtır. Programı ne kadar çok anladıysanız, başarılı olma şansınız artar.
 
-Teşvik programına başlamadan önce aşağıda listelenen 10 **temel** bilgiden faydalanmanız önerilir. Teşvik deneyiminizin iyi bir deneyim olduğundan emin olur ve teşvik ödemeleri gecikmelerini önlemeye yardımcı olur.
+Teşvikleri programını kullanmaya **başlamadan önce** aşağıda listelenen 10 temel bileşenleri yapmanızı öneririz. Teşvikleri deneyiminizin iyi bir durumda olduğundan emin olmaya yardımcı olur ve bu deneyiminizdeki gecikmeleri önlemeye yardımcı olur.
 
-## <a name="1-join-the-microsoft-partner-network"></a>1. Microsoft İş Ortağı Ağı
+## <a name="1-join-the-microsoft-partner-network"></a>1. Microsoft İş Ortağı Ağı birleştirin
 
-Henüz bir Microsoft iş ortağı değilsanız teşviklerden ve diğer avantajlardan yararlanmak için MPN'ye katılmanız gerekir. Daha fazla bilgi için [bkz. Microsoft İş Ortağı Ağı.](https://partner.microsoft.com/membership)
+Henüz bir Microsoft iş ortağıysanız, teşvikleri ve diğer avantajlardan yararlanmak için MPN 'ye katılmanız gerekir. Daha fazla bilgi için bkz. [üyelik Microsoft iş ortağı ağı](https://partner.microsoft.com/membership).
 
-## <a name="2-read-your-incentives-program-guide"></a>2. Teşvikler makalenizi Program Rehberi
+## <a name="2-read-your-incentives-program-guide"></a>2. teşvikleri program kılavuzumuzu okuyun
 
-Her teşvik programının kendi ayrıntılı program kılavuzu vardır. Bu kılavuzda uygunluk ve kayıt gereksinimlerini, kazanç fırsatlarını ve programınıza özgü diğer bilgileri bulabilirsiniz. Program kılavuzuna erişmek için bu [yordamı izleyin.](incentives-determined-your-program-eligibility.md#determining-your-program-eligibility)
+Her bir teşvik programının kendi ayrıntılı program kılavuzu vardır. Bu kılavuzda, uygunluk ve kayıt gereksinimlerini, fırsatları kazantan ve diğer bilgileri programınıza özel olarak bulacaksınız. Program kılavuzınıza erişmek için [Bu yordamı](incentives-determined-your-program-eligibility.md#determining-your-program-eligibility)izleyin.
 
-## <a name="3-set-up-your-tax-and-banking-profile"></a>3. Vergi ve bankacılık profilinizi ayarlama
+## <a name="3-set-up-your-tax-and-banking-profile"></a>3. vergi ve bankacılık profilinizi ayarlama
 
-Teşvik sürecindeki neredeyse tüm ödeme gecikmeleri veya diğer kesintiler, yanlış veya eksik bir vergi ve bankacılık profilinin sonucu olur. Teşvik programınıza başlamadan önce profilinizin iyi durumda olduğundan emin olun. Daha fazla bilgi edinmek için [bkz.](incentives-create-and-manage-your-payout-and-tax-profiles.md)İş Ortağı Merkezi.
+Neredeyse tüm ödeme gecikmeleri veya teşvikleri işlemindeki diğer kesintiler, yanlış veya tamamlanmamış bir vergi ve bankacılık profilinin sonucudur. Teşvikleri programınızı çalıştırmadan önce profilinizin iyi bir şekilde olduğundan emin olun. Daha fazla bilgi edinmek için bkz. [Iş Ortağı Merkezi 'Nde ödeme ve vergi profilleri](incentives-create-and-manage-your-payout-and-tax-profiles.md).
 
-## <a name="4-learn-about-roles-and-permissions"></a>4. Roller ve izinler hakkında bilgi
+## <a name="4-learn-about-roles-and-permissions"></a>4. roller ve izinler hakkında bilgi edinin
 
-Teşvik programına dahil olan roller ve izinler hakkında sağlam bir anlayışa sahip olmak önemlidir. Bunu yaptıktan sonra, şirketinize hangi rollerin atanacak olduğuna karar ve ardından. Daha fazla bilgi edinmek için [bkz. Hangi kullanıcı rolleri kullanılabilir?](incentives-faq.yml#what-user-roles-are-available-)
+Teşvikleri programına dahil olan roller ve izinlerin katı bir şekilde anlaşılması önemlidir. Bunu yaptıktan sonra, şirketinizdeki kişilere hangi rollerin atanacağına karar verebilirsiniz. Daha fazla bilgi edinmek için bkz. [hangi kullanıcı rolleri kullanılabilir?](incentives-faq.yml#what-user-roles-are-available-)
 
-## <a name="5-review-the-incentives-faq"></a>5. Teşvikler hakkında SSS bölümünü gözden geçirin
+## <a name="5-review-the-incentives-faq"></a>5. teşvikleri SSS 'sini inceleyin
 
-Sık sorulan teşvik sorularının yanıtlarını, bunları düşünmeden önce bile elde etmek için. İş [ortaklarıyla doğrudan iletişim kurarak Teşvikler](incentives-faq.yml) hakkında sık sorulan Microsoft Desteği bilgileri kullanarak güncelleştireceğiz.
+Yaygın teşvikleri soruların yanıtlarını bile göz önüne almanız gerekir. Microsoft Desteği bilgileri kullanarak ve doğrudan ortaklarla iletişim kurmak için [sık sorulan soruları teşvikleri hakkında](incentives-faq.yml) güncelleştiririz.
 
-## <a name="6-confirm-your-program-eligibility"></a>6. Program uygunluğunızı onaylayın
+## <a name="6-confirm-your-program-eligibility"></a>6. programınızın uygunluğunu onaylayın
 
-Bu genellikle Microsoft'a gerekli tüm şirket profili belgelerini sağladığından ve gerekli tüm yetkinlikleri elde edinenlerden emin olundur. Bkz. [Program uygunluğunu onaylama.](incentives-determined-your-program-eligibility.md)
+Bu, genellikle Microsoft 'un gerekli tüm şirket profili belgelerini ve gerekli Uzmanlıklar elde ettiğinizden emin olmanızı içerir. Bkz. [programınızın uygunluğunu onaylayın](incentives-determined-your-program-eligibility.md).
 
-## <a name="7-confirm-your-earnings-eligibility"></a>7. Kazanç uygunluğunu onaylayın
+## <a name="7-confirm-your-earnings-eligibility"></a>7. kazanç uygunluğunu onaylayın
 
-Önceki görev gibi bu da genellikle Microsoft'a ihtiyacımız olan tüm bilgileri sağladığından emin olmaktır. Bkz. [Kazanç uygunluğunu onaylama.](incentives-confirm-your-earnings-eligibility.md)
+Önceki görevde olduğu gibi, bu genellikle Microsoft 'un ihtiyaç duyduğumuz tüm bilgileri sağladığınızdan emin olmanızı içerir. Bkz. [kazanç uygunluğunu onaylayın](incentives-confirm-your-earnings-eligibility.md).
 
-## <a name="8-gather-the-necessary-enrollment-information"></a>8. Gerekli kayıt bilgilerini toplayın
+## <a name="8-gather-the-necessary-enrollment-information"></a>8. gerekli kayıt bilgilerini toplayın
 
-Teşvik programına kaydolmak için, şirketiniz hakkında belirli miktarda bilgi gerekir. Başlamadan önce bunların bir arada olduğundan emin olun. Daha fazla bilgi edinmek için pdf [dosyasındaki Teşvik İş Ortağı Merkezi](https://assetsprod.microsoft.com/partner-center-incentives-enrollment.pdf) indirin ve okuyun.
+Teşvikleri programına kaydolma, şirketiniz hakkında belirli bir miktarda bilgi gerektirir. Başlamadan önce tüm bunların birlikte bulunduğundan emin olun. Daha fazla bilgi edinmek için [Iş Ortağı Merkezi PDF dosyasında teşvik kaydını](https://assetsprod.microsoft.com/partner-center-incentives-enrollment.pdf) indirip okuyun.
 
-## <a name="9-learn-how-other-partners-do-it"></a>9. Diğer iş ortaklarının bunu nasıl yapacaklarını öğrenin
+## <a name="9-learn-how-other-partners-do-it"></a>9. diğer iş ortaklarının bunu nasıl yaptığı hakkında bilgi edinin
 
-Başarılı Microsoft iş ortaklarının beş özniteliği gibi, Microsoft teşvikleri ve İş Ortağı Merkezi genel olarak birçok iyi [makale mevcuttur.](https://www.microsoft.com/en-us/us-partner-blog/2019/08/29/the-five-attributes-of-successful-microsoft-partners/)
+Microsoft teşvikleri ve Iş Ortağı Merkezi 'nin genel olarak, [başarılı Microsoft iş ortaklarının beş özniteliği](https://www.microsoft.com/en-us/us-partner-blog/2019/08/29/the-five-attributes-of-successful-microsoft-partners/)gibi birçok iyi makale mevcuttur.
 
-## <a name="10-read-the-partner-center-online-help"></a>10. Çevrimiçi İş Ortağı Merkezi okuma
+## <a name="10-read-the-partner-center-online-help"></a>10. Iş Ortağı Merkezi çevrimiçi yardımını okuyun
 
-Yukarıda listelenen tüm görevleri gerçekleştirmeye ilişkin ayrıntılı yordamlar bulabilirsiniz. Teşvikler bölümünün tamamını yaklaşık bir saat içinde okuyabilirsiniz ve çoğu makale yalnızca bir veya iki dakika sürer. Yardımı okumaya başlamak için [bkz. Başlarken.](incentives-get-started-intro.md)
+Yukarıda listelenen tüm görevleri gerçekleştirmek için ayrıntılı yordamlar bulacaksınız. Tüm teşvikleri bölümünü bir saat boyunca okuyabilir ve çoğu makale yalnızca bir dakika veya iki zaman alabilir. Yardımı okumaya başlamak için bkz. [Başlarken](incentives-get-started-intro.md).
 
 ## <a name="next-steps"></a>Sonraki adımlar
 

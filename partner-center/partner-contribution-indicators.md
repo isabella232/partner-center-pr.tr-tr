@@ -10,11 +10,11 @@ ms.author: shganesh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 513fe0a81c9b29c9cc3a0d70026634e5d7915899
-ms.sourcegitcommit: 731a5e2725a72ecdae40189a3f52ab6b4a4c8058
+ms.sourcegitcommit: fceaca54b0ec695cf214209c09b4516e1b40866a
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/20/2021
-ms.locfileid: "128007261"
+ms.lasthandoff: 09/23/2021
+ms.locfileid: "128322144"
 ---
 # <a name="use-partner-contribution-indicators-to-attain-the-cloud-business-applications-competency"></a>Bulut İş Uygulamaları yetkinliğine ulaşmak için İş Ortağı Katkısı Göstergelerini kullanın
 
@@ -296,99 +296,99 @@ Bir iş ortağı, bu ölçüm için kullanılabilir olan tüm veya olmayan nokta
 
 - Bu eşiğe ulaşırsanız, bu tarihten itibaren 24 ay boyunca Işlevsel danışman büyüme için 15 ' in tamamını alırsınız. bu işlem, iki bulut Business Applications uzmanlık yıldönümlerine yönelik işlevsel danışman büyüme için maksimum noktaları alacağınız anlamına gelir.
 
-### <a name="definitions-for-pci-metric-5---developers"></a>PCI ölçümü için tanımlar #5-geliştiriciler
+### <a name="definitions-for-pci-metric-5---developers"></a>PCI ölçüm tanımı tanımları #5 - Geliştiriciler
 
-Geliştiriciler bir [yetenek göstergesidir](partner-contribution-indicators.md#pci-scoring-based-on-seven-key-indicators). bu göstergenin noktaları, bulut Business Applications uzmanlığına şu şekilde hesaplanır:
+Geliştiriciler bir [yetenek göstergesidir.](partner-contribution-indicators.md#pci-scoring-based-on-seven-key-indicators) Bu göstergenin noktaları, Cloud Business Applications uzmanlığı için şu şekilde hesaplanır:
 
-- Geliştiriciler, şu anda etkin olan bir geliştiricinin sertifikayı tutan kişilerin sayısı olarak tanımlanır.
+- Geliştiriciler, şu anda etkin bir Geliştirici İş Ortağı sertifikasına sahip kişilerin sayısı olarak tanımlanır.
 
-- Geliştirici göstergesinin noktaları, en fazla 5 noktası bulunan geçerli ay anlık görüntüsüne dayalıdır.
+- Geliştiriciler göstergesinin noktaları geçerli ay anlık görüntüsünü temel alarak en fazla 5 nokta kullanılabilir.
 
-- Müşteri katılımı geliştiricileri, başarılı olduğunda kredi alır:
+- Customer Engagement Geliştiricileri şunların başarılı olduğu zaman kredi elde ediyor:
   - PL-400<br/>**veya**
-  - MB-200 \* **ve** aşağıdaki sınavlarından biri:
+  - MB-200 \* **ve** aşağıdaki sınavlardan biri:
     - MB-400 \* veya MB2-716\*\*
 
-- Finans ve Operations geliştiricileri, bu Işlemleri başarılı olduğunda kredi alır:
+- Finans ve Operasyon Geliştiricileri şu geçişler için kredi elde ediyor:
   - MB-300<br/>
-  **ve** aşağıdaki sınavlarından biri:
+  **ve** aşağıdaki sınavlardan biri:
   - MB-500 veya MB-894\*\*
 
 > [!NOTE]
-> Yıldız işareti () ile işaretlenen \* sınavlar, önümüzdeki aylarda kullanımdan veya değiştirilmekte. Belirli Ayrıntılar için aşağıya bakın:
+> Yıldız işaretiyle ( ) işaretlenen sınavlar önümüzdeki aylarda kaldır veya \* değiştir değiştirildi. Belirli ayrıntılar için aşağıya bakın:
 >
-> - Tek bir yıldız işareti () ile işaretlenen sınavlar \* 31 aralık 2020 tarihinde kullanımdan kaldırıldı. 31 Aralık 2020 ' de kullanımdan kaldırılan sınavlar, kullanımdan kalkmadan önce çekilse de 31 Aralık 2021 tarihine kadar uygun olmaya ve yenilemeye uygun olmaya devam edecektir.
-> - İki yıldız işareti () ile işaretlenen \* \* sınavlar 31 Ocak 2021 tarihinde devre dışı bırakılıyor. 31 Ocak 2021 ' de yapılan sınavlar, kullanımdan kalkmadan önce çekilse de 31 Ocak 2022 tarihine kadar uygun olmaya ve yenilemeye uygun olmaya devam edecektir.
+> - Tek bir yıldız işaretiyle ( ) işaretlenen sınavlar \* 31 Aralık 2020'de kaldırıldı. 31 Aralık 2020'de kaldırılacak olan sınavlar, 31 Aralık 2021'e kadar (bunlar sona ermeden önce alınmışsa) uzmanlık kazanma ve yenileme için uygun olmaya devam ediyor.
+> - İki yıldız işaretiyle ( ) işaretlenen \* \* sınavlar 31 Ocak 2021'de sona elenir. 31 Ocak 2021'de kaldırılacak olan sınavlar, 31 Ocak 2022'ye kadar (bunlar sona ermeden önce alınmışsa) yetkinliğe sahip olmaya ve yenilemeye uygun olmaya devam ediyor.
 
-### <a name="definitions-for-pci-metric-6---new-large-deployments"></a>PCI ölçümü için tanımlar #6-yeni büyük dağıtımlar
+### <a name="definitions-for-pci-metric-6---new-large-deployments"></a>PCI ölçüm tanımı tanımları #6 - Yeni büyük dağıtımlar
 
-Yeni büyük dağıtımlar bir [müşteri başarısı göstergesidir](partner-contribution-indicators.md#pci-scoring-based-on-seven-key-indicators). bu göstergenin noktaları, bulut Business Applications uzmanlığına şu şekilde hesaplanır:
+Yeni büyük dağıtımlar, müşteri [başarısının göstergesidir.](partner-contribution-indicators.md#pci-scoring-based-on-seven-key-indicators) Bu göstergenin noktaları, Cloud Business Applications uzmanlığı için şu şekilde hesaplanır:
 
-- Yeni büyük dağıtımlar, en fazla 20 noktası bulunan 12 aylık bir dönemde toplanır.
+- Yeni büyük dağıtımlar, en fazla 20 nokta kullanılabilir olacak şekilde, sonda 12 aylık bir süre boyunca toplanıyor.
 
-- Yeni büyük dağıtımlar, müşteri katılımı ile finans ve Işlemler ve *geliştirilmiş* pazarlarda çalışan iş ortakları ve pazarların *geliştirilmesi* için farklı şekilde tanımlanır:
+- Yeni büyük dağıtımlar Customer Engagement ve Finance and Operations ile geliştirilmiş pazarlarda faaliyet gösteren iş ortakları ve *gelişmekte olan* pazarlar için farklı *şekilde* tanımlanır:
 
-  - Müşteri katılımı için yeni büyük dağıtımlar, en az **250** aylık etkin kullanıcıyla (geliştirilmiş Pazar ortakları için) veya **150** aylık etkin kullanıcılarla (Pazar ortakları geliştirmek için) ücretli abonelikler içeren üretim örneği sayısı olarak tanımlanmıştır.
+  - Customer Engagement için yeni büyük dağıtımlar, en az **250** aylık etkin kullanıcıya (Geliştirilmiş pazar iş ortakları için) veya **150** aylık etkin kullanıcıya (Geliştirme pazar iş ortakları için) sahip ücretli aboneliklere sahip bir kiracı altındaki üretim örneği sayısı olarak tanımlanır.
 
-  - Finans ve Işlemler için yeni büyük dağıtımlar, en az **100** aylık etkin kullanıcıyla (geliştirilmiş Pazar ortakları için) veya **50** aylık etkin kullanıcılarla (Pazar ortakları geliştirmek için) ücretli abonelikler içeren üretim örneği sayısı olarak tanımlanmıştır.
+  - Finance and Operations için yeni büyük dağıtımlar, en az **100** aylık etkin kullanıcıya (Geliştirilmiş pazar iş ortakları için) veya **50** aylık etkin kullanıcıya sahip ücretli aboneliklere sahip bir kiracı kapsamındaki üretim örneği sayısı olarak tanımlanır (Pazar iş ortakları geliştirmek için).
   
-  (Geliştirilmiş ve gelişen pazarlar hakkında ayrıntılar için, bu [Microsoft iş ortağı ağı tanımlarına](https://assetsprod.microsoft.com/mpn/mpn-developed-and-developing-countries.pdf)bakın.)
+  (Geliştirilen ve gelişen pazarlar hakkında ayrıntılı bilgi için bu Microsoft İş Ortağı Ağı [bakın.)](https://assetsprod.microsoft.com/mpn/mpn-developed-and-developing-countries.pdf)
 
-- Abonelik şu şekilde olursa aylık etkin kullanıcı eşiğine geçilen bir abonelik:
+- Abonelik şu durumda aylık etkin kullanıcı eşiğini aşacak şekilde kabul edilir:
 
-  - 12 ay önce belirtilen eşiğin altında **ve**
+  - Belirtilen eşiğin altında 12 ay önce **ve**
 
-  - Sonraki 11 ay içinde en az bir kez eşik değeri geçti.
+  - Sonraki 11 ay boyunca bu eşiği en az bir kez aştık.
 
-- Aylık etkin kullanıcılar, abonelik düzeyinde sayılır.
+- Aylık etkin kullanıcılar abonelik düzeyinde sayılır.
 
 - Aylık etkin kullanıcılar her ayın sonunda hesaplanır.
 
-- İş ortakları, abonelik düzeyindeki kiracılar ile ilişkilendirilir. Abonelikler aşağıda, uygun müşteri katılım ürünleriyle veya finans ve operasyon ürünleriyle eşlenir:
-  - müşteri katılım uygun ürünleri şunları içerir: Sales, müşteri servisi, alan hizmeti, Project hizmet otomasyonu, pazarlama, Microsoft ilişki satışları, Plan 1, taödünme ve Enterprise takım üyesi.
-  - finans ve işlemler için uygun ürünler şunlardır: birleştirilmiş işlemler, finans, tedarik zinciri yönetimi, perakende, ticaret, Plan 2, karma gerçeklik, taödünme ve Enterprise takım üyesi.
+- İş ortakları, abonelik düzeyinde kiracılarla ilişkilendirilmektedir. Abonelikler aşağıdaki, uygun Customer Engagement ürünlerine veya Finance and Operations ürünlerine eşlenmiş:
+  - Customer Engagement'a uygun ürünler şunlardır: Sales, Customer Service, Field Service, Project Service Automation, Marketing, Microsoft Relationship Sales, Plan 1, Talent ve Enterprise Team Member.
+  - Finans ve Operasyonlara uygun ürünler şunlardır: Birleşik Operasyonlar, Finans, Tedarik Zinciri Yönetimi, Perakende, Ticaret, Plan 2, Karma Gerçeklik, Yetenek ve Enterprise Ekip Üyesi.
 
-### <a name="definitions-for-pci-metric-7---monthly-active-user-growth"></a>#7-aylık etkin kullanıcı büyümesi PCI ölçümü için tanımlar
+### <a name="definitions-for-pci-metric-7---monthly-active-user-growth"></a>PCI ölçüm tanımı tanımları #7 - Aylık etkin kullanıcı büyümesi
 
-Aylık etkin kullanıcı büyümesi bir [müşteri başarısı göstergesidir](partner-contribution-indicators.md#pci-scoring-based-on-seven-key-indicators). bu göstergenin noktaları, bulut Business Applications uzmanlığına şu şekilde hesaplanır:
+Aylık etkin kullanıcı büyümesi, müşteri [başarısının göstergesidir.](partner-contribution-indicators.md#pci-scoring-based-on-seven-key-indicators) Bu göstergenin noktaları, Cloud Business Applications uzmanlığı için şu şekilde hesaplanır:
 
 - Aylık etkin kullanıcı büyümesi, son 12 ay içinde tüm müşteri tabanı genelinde aylık etkin kullanıcıların büyümesi olarak tanımlanır.
 
-- Aylık etkin kullanıcılar abonelik düzeyinde sayılır ve bir iş ortağıyla eşleştirilmiş tüm ücretli abonelikler arasında toplanır.
+- Aylık etkin kullanıcılar abonelik düzeyinde sayılır ve bir iş ortağıyla eşlenen tüm ücretli abonelikler genelinde topilir.
 
-- Aylık etkin kullanıcı büyüme göstergesi, geçerli ayı 12 aydan önce gelen bir taban çizgisine göre karşılaştırır. en fazla 25 noktası mevcuttur.
+- Aylık etkin kullanıcı büyüme göstergesi, geçerli ayı 12 ay önceki taban çizgisiyle karşılaştırıldığında gösterir. En fazla 25 nokta kullanılabilir.
 
 - Aylık etkin kullanıcılar her ayın sonunda hesaplanır.
 
-- Aylık etkin kullanıcı büyümesi, müşteri katılımı ile finans ve operasyon yol yolları için ve *geliştirilmiş* pazarlarda çalışan iş ortakları ve pazarların *geliştirilmesi* için farklı şekilde tanımlanır:
+- Aylık etkin kullanıcı büyümesi Customer Engagement ve Finance and Operations yolları ile geliştirilmiş  pazarlarda faaliyet gösteren iş ortakları ve gelişen pazarlar için farklı *şekilde* tanımlanır:
 
-  - Müşteri katılımlarının noktalara uygun olması için, geliştirilmiş Pazar ortakları en az **250** aylık etkin kullanıcı temeline sahip olmalıdır ve Pazar ortaklarının geliştirilmesi, tüm müşteri tabanında 12 ayda bir temel **150** aylık etkin kullanıcı olmalıdır.
+  - Customer Engagement'ın puanlara uygun olması için, Geliştirilmiş pazar iş ortaklarının en az **250** aylık etkin kullanıcı temeli olması ve Pazar iş ortaklarının 12 ay önce tüm müşteri tabanı genelinde **150** aylık etkin kullanıcı temeli olması gerekir.
 
-  - Finans ve Işlemlerin noktalara uygun olması için, geliştirilmiş Pazar ortakları en az **100** aylık etkin kullanıcı temeline sahip olmalıdır ve Pazar ortaklarının geliştirilmesi, tüm müşteri tabanında 12 ay önce aylık **50** aylık etkin kullanıcı olmalıdır.
+  - Finans ve Operasyonlar'ın puanlara uygun olması için, Geliştirilmiş pazar iş ortaklarının en az **100** aylık etkin kullanıcı temeli olması ve Pazar iş ortaklarının 12 ay önce müşteri tabanının tamamına **50** aylık etkin kullanıcı taban çizgisine sahip olması gerekir.
   
-  (Geliştirilmiş ve gelişen pazarlar hakkında ayrıntılar için, bu [Microsoft iş ortağı ağı tanımlarına](https://assetsprod.microsoft.com/mpn/mpn-developed-and-developing-countries.pdf)bakın.
+  (Geliştirilen ve gelişen pazarlar hakkında ayrıntılı bilgi için bu Microsoft İş Ortağı Ağı [bakın.](https://assetsprod.microsoft.com/mpn/mpn-developed-and-developing-countries.pdf)
 
-- İş ortakları, abonelik düzeyinde ilişkilendirilir. Abonelikler, müşteri katılım ürünlerini nitelemek veya finans ve operasyon ürünlerini nitelemek için eşlenir.
+- İş ortakları abonelik düzeyinde ilişkilendirildi. Abonelikler, uygun Müşteri Katılımı ürünlerine veya uygun Finans ve Operasyon ürünlerine eşlenmiş.
 
-## <a name="how-to-access-partner-contribution-indicators"></a>Iş ortağı katkı göstergelerine erişme
+## <a name="how-to-access-partner-contribution-indicators"></a>İş Ortağı Katkı Göstergelerine erişme
 
-Bu bölümde iş ortağı merkezi panosundan Iş ortağı katkı göstergeleriyle nasıl erişebileceğiniz ve ilişkili grafiklerin nasıl okunacağı açıklanmaktadır.
+Bu bölümde, iş ortağı panosundan İş Ortağı Katkı Göstergelerine İş Ortağı Merkezi ve ilişkili grafiklerin nasıl okunacakları açık almaktadır.
 
-Iş ortağı katkı göstergeleri grafiklerini ve ilerleme durumunu görüntülemek için aşağıdaki adımları izleyin:
+İş Ortağı Katkı Göstergeleri grafiklerinizi ve ilerlemenizi görüntülemek için şu adımları izleyin:
 
 1. İş Ortağı Merkezi [panosunda](https://partner.microsoft.com/dashboard) oturum açın.
 
-2. Gezinti menüsünden **CSP** ' yi seçin ve ardından **Iş ortağı katkı göstergeleri**' ni seçin. 
+2. Gezinti **menüsünden CSP'yi** ve ardından İş Ortağı Katkısı **Göstergeleri'ni seçin.** 
 
-   Ortak katkı göstergeleri panosunu ilişkili grafiklerle görmeniz gerekir.
+   İlişkili grafiklere sahip İş Ortağı Katkısı Göstergeleri panosuna bakabilirsiniz.
 
    :::image type="content" source="images/insights/howto.png" alt-text="Grafiği okuma.":::
 
    > [!NOTE]
-   > Bu seçenekleri görmüyorsanız, menüden **MPN** seçimini, ardından **Iş ortağı katkı göstergelerini** seçin. Bu seçenekleri hala bulamıyorsanız, Iş Ortağı Merkezi 'nde atanmış uygun kullanıcı rolüne sahip olmayabilirsiniz. Yardım için Iş ortağı merkezi genel yöneticinizle veya MPN iş ortağı yöneticinizle iletişime geçin.
+   > Bu seçenekleri görmüyorsanız menüden **MPN'yi** ve ardından İş Ortağı Katkı **Göstergeleri'yi seçmeyi deneyin.** Bu seçenekleri hala bulamıyorsanız, bu seçenekte uygun kullanıcı rolünüz İş Ortağı Merkezi. Yardım için İş Ortağı Merkezi genel yöneticinize veya MPN iş ortağı yöneticinize ulaşın.
 
-Bu alanı kullanma hakkında daha fazla bilgi için bu makalenin sonunda bulunan kaynak ve videoların toplanması bölümüne bakın.
+Bu alanı kullanma hakkında daha fazla bilgi için bu makalenin sonunda bulunan kaynak ve video koleksiyonuna bakın.
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-altın veya gümüş bulut Business Applications uzmanlığına erişme hakkında daha fazla pcı [eğitim videoları ve bilgilendirici kaynakları](https://partner.microsoft.com/asset/collection/pci-learn#/) görüntüleyin.
+Gold veya Silver Cloud Business Applications uzmanlığını [elde etme](https://partner.microsoft.com/asset/collection/pci-learn#/) hakkında daha fazla PCI eğitim videosu ve bilgi kaynağı görüntüleme.
