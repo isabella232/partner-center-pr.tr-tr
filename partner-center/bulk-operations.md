@@ -10,11 +10,11 @@ ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 09/08/2021
 ms.openlocfilehash: a87b44bb2730faf87bfaaf25b5e051b0ce4f6f30
-ms.sourcegitcommit: fceaca54b0ec695cf214209c09b4516e1b40866a
+ms.sourcegitcommit: fb9ca808f6362e81d65a6ba5770dc8820834a0ed
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/23/2021
-ms.locfileid: "128326427"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "128360194"
 ---
 # <a name="bulk-operations-for-co-sell-opportunities-using-comma-separated-value-csv-files"></a>Virgülle ayrılmış değer (CSV) dosyaları kullanan ortak satış fırsatları için toplu işlemler
 
@@ -119,7 +119,7 @@ Reddedildi/Neden kaybedildi|-Sına bağ -lıdır| Bu bilgileri yalnızca alanın
 Satış Aşaması|No|Bu, referans için ayrıntılı satış aşamalarını gösteren alandır. Satış aşamaları hakkında daha fazla bilgi için [şu makaleyi okuyun:](./manage-co-sell-opportunities.md) İş Ortağı Merkezi|40
 Tahmini Satış Değeri|Yes|Müşteriyle yapılan ilk konuşmaları temel alan satış anlaşması değeri. Anlaşma kazanildi veya kaybedildi terminal durumlarından biri olana kadar bu **değiştirilebilir.** |12563
 Para Birimi|Yes|Anlaşma değerinin girilir olduğu para birimi. Para birimi kodlarını [ISO 4217 Wikipedia sayfasında bulabilirsiniz.](https://en.wikipedia.org/wiki/ISO_4217)|USD
-Tahmini Kapatma Tarihi|Yes|AA/D/YYYY biçiminde müşteriyle yapılan ilk konuşmaları temel alarak satış anlaşması tahmini kapanış tarihi. <br/> **Tarih UTC saat diliminde olmalıdır. Kullanıcı arabiriminde görüntülenen İş Ortağı Merkezi tarihler yerelleştirilmiş saat dilimlerini temel almaktadır. UTC saat diliminde tarihi temin edilen referansa bakıyorsanız kullanıcı arabiriminde +/- bir gün fark İş Ortağı Merkezi olabilir.**|1/30/2020
+Tahmini Kapatma Tarihi|Yes|AA/D/YYYY biçiminde müşteriyle yapılan ilk konuşmaları temel alarak satış anlaşması tahmini kapanış tarihi. <br/> **Tarih UTC saat diliminde olmalıdır. Kullanıcı arabiriminde görüntülenen İş Ortağı Merkezi tarihler yerelleştirilmiş saat dilimlerini temel almaktadır. UTC saat diliminde tarihi temin edilen referansa bakıyorsanız kullanıcı arabiriminde +/- İş Ortağı Merkezi bir günlük fark olabilir.**|1/30/2020
 CRM Kimliği|No|Varsa CRM sisteminize bu referansı tanımlayıcı. Bu, serbest biçimli bir metin girişi alanıdır.|34234324-sdfsdf-345345-sfd
 Pazarlama Kampanyası Kimliği|No|Bu alan, pazarlama kampanyasının bu referansla sonuçlanmasına neden olduğunu gösterir. Genellikle yatırım getiri hesaplaması için kullanılır|BingSummer2020
 Notlar|No|Referansla ilgili güncelleştirmeleri gösteren ayrıntılı notlar|Bu örnek bir not
@@ -129,20 +129,20 @@ Microsoft satış ekibiyle paylaşma|Yes|Bu, satış anlaşmasıyla ilgili ayrı
 Microsoft'a notlar|No|Microsoft'tan yardıma ihtiyacınız varsa Microsoft'a özgü notlar|Contoso müşterisi için POC ile ilgili yardım gerekiyor
 Müşteri/İş Ortağı kişisi paylaşma onayı|Yes|Müşterinin iletişim ayrıntılarını ve şirket çalışanlarının anlaşma üzerinde çalışan kişi ayrıntılarını paylaşma onayı. **Bu sütun için Hayır'ı seçerseniz anlaşmalar oluşturulmaz veya güncelleştirilmez.** |Yes
 CLA Numarası|-Sına bağ -lıdır|IOT anlaşması oluşturulurken veya güncelleştirilken CLA numarası gerekli değildir. Tasarım kazanma aşamasına geçilende gerekli hale gelir.
-Cihaz Kategorisi|No|Tüm IoT cihaz kategorilerinin listesi. Aşağıdaki seçeneklerden bir kategori seçin <br>Bilgisayar/Tüketici Oyun Cihazı <br> ATM <br> Otomotiv & Taşımacılık Sistemleri <br> Azure Sphere Panosu<br> Azure Sphere Bileşeni <br> Azure Sphere Koruyucu<br> Azure Sphere Modülü <br> Bina Otomasyonu<br> Gaming Oyun Cihazı <br> İletişim Cihazları<br> Tüketici İnternet Cihazı <br> Tüketici Yıpranabilir<br> Dijital Resim Çerçevesi <br> Dijital Tabela <br> Ağ geçidi <br> HHT/Mobil<br> Endüstriyel Otomasyon Cihazı<br> Sektör Tableti (POS Olmayan) <br> Bilgi noktası<br> Media Player<br> Medya Cihazı <br> Mobil POS <br> Gezinti Cihazı<br> Ağ Projektörü<br> Diğer<br> Diğer Bankacılık Cihazı<br> Diğer Tüketici Elektronik Cihazı<br> Diğer Cihaz<br> Diğer Enterprise Cihazı<br>  Diğer Algılayıcı/Düğüm <br> Satış Noktası Cihazı<br> Cihazı Yazdırma <br> Güvenlik/İzleme <br>  Sunucu<br> Set-Top Box<br> Akıllı TV <br> Test ve Ölçüm Cihazı<br> İnce İstemci Cihazı <br/>
-Silikon Türü|No|Aşağıdaki listeden bir seçenek seçerek Yonga kümesi modeli bilgilerini girin <br> AMD - A10 <br> AMD-A4 <br> AMD-A6 <br> AMD-A8 <br> AMD-E2 <br> AMD-FX 7500 <br> AMD-FX 7600P <br> AMD-FX 9370 <br> AMD-FX 9590 <br> AMD-G serisi <br> AMD-diğerleri <br> AMD-R serisi <br> AMD-FX modellerinin geri kalanı <br> Intel-Atom <br> Intel-Celeron-N1900 <br> Intel-Celeron-N2807 <br> Intel-Celeron-N2930 <br> Intel-Celeron-N3060 <br> Intel-Celeron-N3160 <br> Intel-Core i3 <br> Intel-Core i5 <br> Intel-Core i7 <br> Intel-Core d <br> Intel-diğerleri <br> Intel-Pentium <br> Intel-Celeron 'nin geri kalanı <br> Intel-XEON <br> MediaTek MT3620 <br> NXP 8ULP-CS <br> Diğer <br/>
-Azure Sertifikalı cihaz|No|Bu, cihaz için Azure uyumluluk sertifikası 'nın elde edildiğini belirtir
-Hizmetleri Ekle|No|Bu, Azure hizmetlerinin dağıtımda IoT çözümüyle birlikte paketlenebilir olduğunu belirtir
-Microsoft MSX KIMLIĞI|No|Yalnızca ortak satış fırsatları için kullanılabilen Microsoft MSX sisteminde bir işlem KIMLIĞI
-Geçirilen PSC anlaşma KIMLIĞI|No|PSC anlaşma KIMLIĞI, yalnızca PSC 'den BILGISAYARA geçirilen bir anlaşma için kullanılabilir
-MPN Kimliği|No|MPN ortak satış fırsatlarının oluşturulduğu kuruluşun KIMLIĞI
-1\. Çözüm|Yes|Çözüm KIMLIĞI (gerekli), anlaşma değerinin girildiği para birimi (isteğe bağlı). [Para birimi kodlarını](https://en.wikipedia.org/wiki/ISO_4217), SKU 'nun fiyatını (isteğe bağlı) ve SKU 'nun miktarını bulabilirsiniz (isteğe bağlı)  |NUEVO-1234-PQRS, USD, 10, 100
-Takım üyesi 1|Yes|İlgili takım üyesinin adı, soyadı, cep telefonu numarası ve e-posta KIMLIĞI.| Bob, Iş ortağı, 999999, Bob.partner@Contoso.com
-Microsoft takım üyesi 1|No|Ortak satış fırsatı üzerinde çalışan ilgili Microsoft ekibi üyesinin adı, soyadı, cep telefonu numarası ve e-posta KIMLIĞI.| Sam, satıcı, 999999, Sam.seller@Microsoft.com
+Cihaz Kategorisi|No|Tüm IoT cihaz kategorilerinin listesi. Aşağıdaki seçeneklerden bir kategori seçin <br>Bilgisayar/Tüketici Oyun Cihazı <br> ATM <br> Otomotiv & Taşımacılık Sistemleri <br> Azure Sphere Panosu<br> Azure Sphere Bileşeni <br> Azure Sphere Koruyucu<br> Azure Sphere Modülü <br> Bina Otomasyonu<br> Gaming Oyun Cihazı <br> İletişim Cihazları<br> Tüketici İnternet Cihazı <br> Tüketici Yıpranabilir<br> Dijital Resim Çerçevesi <br> Dijital Tabela <br> Ağ geçidi <br> HHT/Mobil<br> Endüstriyel Otomasyon Cihazı<br> Sektör Tableti (POS Olmayan) <br> Bilgi noktası<br> Media Player<br> Medya Cihazı <br> Mobil POS <br> Gezinti Cihazı<br> Ağ Projektörü<br> Diğer<br> Diğer Bankacılık Cihazı<br> Diğer Tüketici Elektronik Cihazı<br> Diğer Cihaz<br> Diğer Enterprise Cihaz<br>  Diğer Algılayıcı/Düğüm <br> Satış Noktası Cihazı<br> Cihazı Yazdırma <br> Güvenlik/İzleme <br>  Sunucu<br> Set-Top Box<br> Akıllı TV <br> Test ve Ölçüm Cihazı<br> İnce İstemci Cihazı <br/>
+Silikon Türü|No|Aşağıdaki listeden bir seçenek seçerek Yonga kümesi modeli bilgilerini girin <br> AMD - A10 <br> AMD - A4 <br> AMD - A6 <br> AMD - A8 <br> AMD - E2 <br> AMD - FX 7500 <br> AMD - FX 7600P <br> AMD - FX 9370 <br> AMD - FX 9590 <br> AMD - G Serisi <br> AMD - Diğerleri <br> AMD - R Serisi <br> AMD - FX Modellerinin Geri Kalanı <br> Intel - Atom <br> Intel - Celeron - N1900 <br> Intel - Celeron - N2807 <br> Intel - Celeron - N2930 <br> Intel - Celeron - N3060 <br> Intel - Celeron - N3160 <br> Intel - Core i3 <br> Intel - Core i5 <br> Intel - Core i7 <br> Intel - Core M <br> Intel - Diğerleri <br> Intel - Pentium <br> Intel - Celeron'un geri kalanı <br> Intel - XEON <br> MediaTek MT3620 <br> NXP 8ULP-CS <br> Diğer <br/>
+Azure Sertifikalı Cihaz|No|Bu, cihaz için Azure uyumluluk sertifikasının sağlanmıştır
+Hizmet Ekleme|No|Bu, Azure hizmetlerinin dağıtım sırasında IoT çözümüyle paketlen mi olacağını belirtmektir
+Microsoft MSX Kimliği|No|Microsoft MSX sisteminde yalnızca ortak satış fırsatları için kullanılabilen bir satış anlaşması kimliği
+Geçirilen PSC Anlaşma Kimliği|No|PSC anlaşma kimliği, yalnızca PSC'den PC'ye geçirilen bir anlaşma için kullanılabilir
+MPN Kimliği|No|Ortak satış fırsatlarının oluşturulacak olduğu kuruluşun MPN kimliği
+1\. Çözüm|Yes|Çözüm Kimliği (gerekli), Anlaşma değerinin girilir olduğu para birimi (isteğe bağlı). Para birimi [kodlarını,](https://en.wikipedia.org/wiki/ISO_4217)SKU'nun fiyatını (isteğe bağlı) ve SKU miktarı (isteğe bağlı) bulabilirsiniz  |SOL-1234-PQRS, USD, 10, 100
+Takım üyesi 1|Yes|İlgili ekip üyesinin ad, Soyadı, mobil numarası ve e-posta kimliği.| Bob, Partner, 999999, Bob.partner@Contoso.com
+Microsoft ekip üyesi 1|No|Ortak satış fırsatı üzerinde çalışan ilgili Microsoft ekip üyesinin ad, Soyadı, mobil numarası ve e-posta kimliği.| Sam, Seller, 999999, Sam.seller@Microsoft.com
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-Bu Iş Ortağı Merkezi ortak satış bağlayıcılarını, CRM sistemlerinizden Microsoft ile birlikte satın almak için kullanabilirsiniz.
+CRM sistemlerinizin İş Ortağı Merkezi Microsoft ile ortak satış yapmak için bu ortak satış bağlayıcılarını kullanabilirsiniz.
 
-- [Dynamics 365 CRM için ortak satış Bağlayıcısı – genel bakış](connector-dynamics.md)
-- [Salesforce için ortak satış Bağlayıcısı CRM-genel bakış](connector-salesforce.md)
+- [Dynamics 365 CRM için ortak satış bağlayıcısı – Genel Bakış](connector-dynamics.md)
+- [Salesforce CRM için ortak satış bağlayıcısı - genel bakış](connector-salesforce.md)

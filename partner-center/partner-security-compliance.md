@@ -14,7 +14,7 @@ ms.sourcegitcommit: fceaca54b0ec695cf214209c09b4516e1b40866a
 ms.translationtype: MT
 ms.contentlocale: tr-TR
 ms.lasthandoff: 09/24/2021
-ms.locfileid: "128366059"
+ms.locfileid: "128359406"
 ---
 # <a name="security-requirements-status-report"></a>Güvenlik gereksinimleri durum raporu
 
@@ -29,7 +29,7 @@ bu rapora İş Ortağı Merkezi [için](https://partner.microsoft.com/dashboard)
 
 ## <a name="security-status-metrics"></a>Güvenlik durumu ölçümleri
 
-Güvenlik gereksinimleri durum raporu, iş ortağı MFA uygulamasıyla ilgili içgörüler sunar ve iş ortağı kiracıları üzerinde MFA yapılandırmasına ve İş Ortağı Merkezi etkinliklerine yönelik ölçümler sağlar. Aşağıdaki bölümlerde bu ölçümler daha ayrıntılı olarak açıklanmaktadır.
+Güvenlik gereksinimleri durum raporu, iş ortağı MFA uygulamasıyla ilgili içgörüler sunar ve iş ortağı kiracıları üzerinde MFA yapılandırması ve İş Ortağı Merkezi etkinliklerine yönelik ölçümler sağlar. Aşağıdaki bölümlerde bu ölçümler daha ayrıntılı olarak açıklanmaktadır.
 
 ### <a name="mfa-configuration-on-a-partner-tenant"></a>İş ortağı kiracısı üzerinde MFA yapılandırması
 
@@ -53,7 +53,7 @@ Burada listelenen seçenekler kullanılarak MFA ile zorunlu kılınan etkin kull
 - Kalan dört gün içinde herhangi bir aracı tarafından hiçbir işlem yoktu.
 - Yedi günlük pencerede yapılan 10 işlemden ikisi kullanıcı tarafından MFA doğrulaması ile yapıldı. Bu nedenle ölçüm %20 gösteriyor.
 
-**MFA doğrulamasına sahip** olmadan hangi kullanıcının MFA doğrulamasına gerek kalmadan İş Ortağı Merkezi oturum açtığını ve raporlama penceresi sırasında son ziyaret zamanını anlamak için MFA olmadan portal isteklerini kullanın.
+**MFA doğrulamasına sahip** olmadan hangi kullanıcının MFA doğrulamasına sahip olmadan İş Ortağı Merkezi ve raporlama penceresi sırasında son ziyaret zamanını anlamak için MFA olmadan portal isteklerini kullanın.
 
 #### <a name="appuser-mfa-verification"></a>Uygulama+Kullanıcı MFA doğrulaması
 
@@ -106,7 +106,7 @@ Geçerli uygulamanın yalnızca belirli koşullar altında MFA'nın zorunlu olup
 
 ### <a name="identify-which-users-have-signed-in-to-partner-center-without-mfa"></a>MFA olmadan hangi kullanıcıların İş Ortağı Merkezi olduğunu belirleme
 
-Hangi kullanıcıların MFA doğrulaması olmadan oturum açmakta olduğunu İş Ortağı Merkezi ve bunları geçerli MFA uygulamanıza göre doğrulamak yararlı olabilir. Kullanıcının MFA [doğrulamasını tamamlamış olup](/azure/active-directory/reports-monitoring/concept-sign-ins) olmadığını bulmak için Azure AD oturum açma raporunu kullanabilirsiniz. Azure AD oturum açma raporu şu anda yalnızca Azure AD Premium veya herhangi bir O365 SKU's Azure AD Premium (emS gibi) abone olan iş ortakları tarafından kullanılabilir.
+Hangi kullanıcıların MFA doğrulaması olmadan İş Ortağı Merkezi olduğunu belirlemek ve bunları geçerli MFA uygulamanıza göre doğrulamak yararlı olabilir. Kullanıcının MFA [doğrulamasını tamamlamış olup](/azure/active-directory/reports-monitoring/concept-sign-ins) olmadığını bulmak için Azure AD oturum açma raporunu kullanabilirsiniz. Azure AD oturum açma raporu şu anda yalnızca Azure AD Premium veya herhangi bir O365 SKU's Azure AD Premium (emS gibi) abone olan iş ortakları tarafından kullanılabilir.
 
 ## <a name="next-steps"></a>Sonraki adımlar
 

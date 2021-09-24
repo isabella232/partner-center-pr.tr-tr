@@ -1,6 +1,6 @@
 ---
 title: Eylül 2021 duyuruları
-description: Microsoft İş Ortağı Merkezi, promosyonlar, teklifler, pazarlar veya mevcut tekliflerde yapılan değişiklikler dahil olmak üzere Eylül 2021 duyuruları.
+description: Yeni yetenekler, promosyonlar, teklifler, pazarlar veya mevcut tekliflerle ilgili değişiklikler dahil olmak üzere Microsoft Iş Ortağı Merkezi için Eylül 2021 duyuruları.
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-announcements
@@ -11,20 +11,20 @@ ms.custom:
 - references_regions
 ms.localizationpriority: high
 ms.date: 09/20/2021
-ms.openlocfilehash: 51706ec685519ea297e851cb4f2b862b96db3da1
-ms.sourcegitcommit: fceaca54b0ec695cf214209c09b4516e1b40866a
+ms.openlocfilehash: 92e49bed070eedb74b6663b5d4161dbfef7e0420
+ms.sourcegitcommit: fb9ca808f6362e81d65a6ba5770dc8820834a0ed
 ms.translationtype: MT
 ms.contentlocale: tr-TR
 ms.lasthandoff: 09/24/2021
-ms.locfileid: "128373430"
+ms.locfileid: "128360279"
 ---
 # <a name="september-2021-announcements"></a>Eylül 2021 duyuruları
 
-Bu sayfada Eylül 2021 için Microsoft İş Ortağı Merkezi duyuruları ve vermektedir.
+Bu sayfada, Eylül 2021 için Microsoft Iş Ortağı Merkezi duyuruları sağlanmaktadır.
 
 ________________
 
-## <a name="product-keys-available-for-business-central-for-dual-use-rights"></a><a name="13"></a> Business Central'da çift kullanım hakları için kullanılabilen ürün anahtarları
+## <a name="product-keys-available-for-business-central-for-dual-use-rights"></a><a name="13"></a> Ürün anahtarları, Çift kullanım hakları için Iş Merkezi 'nde kullanılabilir
 
 ### <a name="categories"></a>Kategoriler
 
@@ -33,236 +33,236 @@ ________________
 
 ### <a name="summary"></a>Özet
 
-23 Eylül 2021'den başlayarak, Business Central'ın şirket içi sürümü için çift kullanım hakları için ürün anahtarları müşterilere Microsoft 365 yönetim merkezi.
+23 eylül 2021 ' ten itibaren, çift kullanım hakları için iş merkezi 'nin şirket içi sürümü için ürün anahtarları Microsoft 365 yönetim merkezi aracılığıyla müşteriler tarafından kullanılabilir.
 
-### <a name="impacted-audience"></a>Etkilene hedef kitle
+### <a name="impacted-audience"></a>Etkilenen hedef kitle
 
 CSP iş ortakları
 
 ### <a name="details"></a>Ayrıntılar
 
-23 Eylül 2021'den başlayarak, business Central'ın çift kullanım hakları avantajı için şirket içi sürümü için ürün anahtarları artık İş Ortağı Kaynağı İş Merkezi'nde (PSBC) kullanılamaz. Müşteriler, kuruluşlarının ürün anahtarlarına kendi kendine hizmet vermek için Microsoft 365 yönetim merkezi.
+23 Eylül 2021 ' ten itibaren, Çift kullanım hakları için Iş Merkezi 'nin şirket içi sürümüne yönelik ürün anahtarları artık iş ortağı kaynağı Iş merkezinde (PSBC) kullanılamaz. müşteriler, Microsoft 365 yönetim merkezi aracılığıyla kuruluşun ürün anahtarlarını self servis sunabilir.
 
-Sipariş sürecinde veya ülke kodu değişikliği gerçekleştirme sürecinde değişiklik yoktur.
+Sıralama işleminde veya ülke kodu değişikliği karşılama işleminde değişiklik yapılmaz.
 
 ### <a name="next-steps"></a>Sonraki adımlar
 
-- Bu konu başlığıyla ilgili kaynakları gözden geçirme ve kuruluşta uygun proje katılımcıları ile paylaşma.  
-- Kuruluş ve müşteri kuruluşlarının bu değişiklik hakkında bilgi sahibi olduğundan emin olmak.
-- Ürün anahtarlarını indirme hakkında bilginiz yoksa Kalıcı yazılım ve ürün lisans anahtarlarını [indirme'ye bakabilirsiniz.](/microsoft-365/admin/setup/download-software-licenses-csp?view=o365-worldwide)
-- [Dynamics 365 Business Central](https://partner.microsoft.com/resources/collection/dynamics-365-business-central-dual-use-rights-resources#/)İkili Kullanım Hakları Kaynakları koleksiyonunda güncelleştirilmiş Dynamics çift kullanım hakları lisansını karşılama işlemini gözden geçirme.
+- Bu konuyla ilgili kaynakları gözden geçirin ve kuruluşunuzdaki uygun hissedarlarla paylaşabilirsiniz.  
+- Kuruluşunuzun ve müşteri kurumlarınızın bu değişikliği öğrendiğinden emin olun.
+- Ürün anahtarlarının nasıl indirileceği hakkında bilgi sahibi değilseniz, [kalıcı yazılım ve ürün lisans anahtarlarını indirin](/microsoft-365/admin/setup/download-software-licenses-csp?view=o365-worldwide)' ı gözden geçirin.
+- [Dynamics 365 Iş Merkezi çift kullanım hakları kaynakları koleksiyonundaki](https://partner.microsoft.com/resources/collection/dynamics-365-business-central-dual-use-rights-resources#/)güncelleştirilmiş [Dynamics ikili kullanım hakları Lisans işlemini](https://partner.microsoft.com/resources/detail/dual-use-right-license-fulfilment-pdf) gözden geçirin.
 
 ### <a name="questions"></a>Sorularınız mı var?
 
-Bu teklifler hakkında sorularınız için ilgili topluluklar için Yammer kontrol edin.
+bu tekliflerle ilgili herhangi bir soru için ilgili Yammer topluluklarınızı kontrol edin.
 
 ________________
 
-## <a name="reminder-introducing-api-throttling-to-partners-calling-partner-center-apis"></a><a name="12"></a>Anımsatıcı: Api'leri çağıran iş ortaklarına API İş Ortağı Merkezi tanıtımı
+## <a name="reminder-introducing-api-throttling-to-partners-calling-partner-center-apis"></a><a name="12"></a>Anımsatıcı: Iş Ortağı Merkezi API 'Lerini çağıran iş ortaklarına API azaltma ile tanışın
 
 ### <a name="summary"></a>Özet
 
-Ekim 2021'den başlayarak Microsoft, API'leri çağıran iş ortaklarına API İş Ortağı Merkezi uygulayacak.
+Microsoft, 2021 Ekim 'den başlayarak Iş Ortağı Merkezi API 'Lerini çağıran iş ortaklarına API daraltma uygular.
 
 ### <a name="categories"></a>Kategoriler
 
 - Tarih: 2021-09-21
 - Özellikler
 
-### <a name="impacted-audience"></a>Etkilene hedef kitle
+### <a name="impacted-audience"></a>Etkilenen hedef kitle
 
-Bulut Çözümü Sağlayıcısı programı aracılığıyla işlem Bulut Çözümü Sağlayıcısı iş ortakları  
+Bulut Çözümü Sağlayıcısı programı aracılığıyla iş ortakları deneyimidir  
 
 ### <a name="details"></a>Ayrıntılar
 
-Ekim 2021'den başlayarak Microsoft, api'leri çağıran iş ortakları için bir zaman aralığı içinde daha tutarlı bir performans için API İş Ortağı Merkezi uygulayacak.Kaynakların fazla kullanımına engel olmak için azaltma, bir hizmete yönelik istek sayısını bir zaman aralığı içinde sınırlar.Bir azaltma eşiği aşılırsa, İş Ortağı Merkezi istemciden gelen diğer tüm istekleri bir süre için sınırlar.
+Microsoft, 2021 Ekim 'den itibaren Iş Ortağı Merkezi API 'Lerini çağıran iş ortakları için zaman dilimi içinde daha tutarlı bir performans için API daraltma uygulamayı uygulamaya yöneliktir.Kaynakların aşırı kullanımını engellemek için, azaltma, bir zaman aralığında bir hizmete yönelik istek sayısını sınırlar.Bir azaltma eşiği aşıldığında, Iş ortağı merkezi bir süre için o istemciden gelen diğer istekleri sınırlandırır.
   
 #### <a name="partner-benefits"></a>İş ortağı avantajları
 
-Bu İş Ortağı Merkezi yüksek hacimli istekleri işleyecek şekilde tasarlansa da, çok fazla sayıda istek oluşursa kısıtlama tüm iş ortakları için en iyi performansı ve güvenilirliği korumaya yardımcı olur.
+Iş Ortağı Merkezi, yüksek hacimli istekleri işleyecek şekilde tasarlandığından, çok sayıda istek oluşursa, azaltma işlemi tüm iş ortakları için en iyi performansı ve güvenilirliği korumanıza yardımcı olur.
 
 Avantajları şunlardır:
 
-- Azaltma minimum kapalı kalma süresi sağlar.
-- Yüksek hacimli istekleri azaltarak tüm iş ortakları için tutarlı bir performans elde edilebilir.  
+- Azaltma, en az kapalı kalma süresini sağlar.
+- Yüksek hacimli istekleri azaltarak tüm iş ortakları için tutarlı bir performans sağlayabilirsiniz.  
 
-#### <a name="apis-to-be-throttled"></a>Kısıtlan API'ler
+#### <a name="apis-to-be-throttled"></a>Kısıtlanacak API 'Ler
 
 | İşlem | İş Ortağı Merkezi belgeleri |
 | ----------- | ---------------------- |
-| v1/customers/{customer_id}/users/{user_id}/lisansları alın | [Bir kullanıcıya atanan lisansları alma](/partner-center/develop/check-which-licenses-are-assigned-to-a-user) |
-| Get /v1/customers/{customer_id}/subscribedskus | [Kullanılabilir lisansların bir listesini alma](/partner-center/develop/get-a-list-of-available-licenses) |
-| /v1/customers/{customer_id}/yetkilendirmeleri alın | [Yetkilendirme koleksiyonu alma](/partner-center/develop/get-a-collection-of-entitlements) |
-| Get /v1/customers/{customer_id}/artifacts/{artifact_type}<br>/groups/{group_id}/lineItems/{lineitem_id}<br>/resource/{resource_id} | [Yetkilendirme koleksiyonu alma](/partner-center/develop/get-a-collection-of-entitlements#retrieve-reservation-details-from-an-entitlement-by-using-sdk-v19) |
-| Get /v1/customers/{customer_id}/users/{use<br>r_id}/directoryroles | [Müşteri için kullanıcı rolleri alma](/partner-center/develop/get-user-roles-for-a-customer) |
+| V1/Customers/{customer_id}/Users/{user_id}/lisansları alın | [Bir kullanıcıya atanan lisansları alma](/partner-center/develop/check-which-licenses-are-assigned-to-a-user) |
+| /V1/Customers/{customer_id}/subscribedskus al | [Kullanılabilir lisansların bir listesini alma](/partner-center/develop/get-a-list-of-available-licenses) |
+| /V1/Customers/{customer_id}/yetkilendirmelerini al | [Yetkilendirme koleksiyonu alma](/partner-center/develop/get-a-collection-of-entitlements) |
+| /V1/Customers/{customer_id}/Artifacts/{artifact_type} al<br>/Groups/{group_id}/LineItem/{lineitem_id}<br>/Resource/{resource_id} | [Yetkilendirme koleksiyonu alma](/partner-center/develop/get-a-collection-of-entitlements#retrieve-reservation-details-from-an-entitlement-by-using-sdk-v19) |
+| /V1/Customers/{customer_id}/Users/{use komutunu alın<br>r_id}/directoryroles | [Müşteri için kullanıcı rolleri alma](/partner-center/develop/get-user-roles-for-a-customer) |
 
-Daha fazla verimlilik ve azaltmayı önlemek için etkinlik günlüğü API'sini kullanmayı göz önünde bulundurabilirsiniz. Bu özellik hakkında daha fazla bilgi için buradaki ayrıntılara [bakın.](/partner-center/develop/api-throttling-guidance)  
+Daha verimlilik sağlamak ve azaltmayı önlemek için etkinlik günlüğü API 'sini kullanmayı düşünmenizi öneririz. Bu özellik hakkında daha fazla bilgi için [buradaki](/partner-center/develop/api-throttling-guidance)ayrıntılara bakın.  
 
 ### <a name="next-steps"></a>Sonraki adımlar
 
-Bu [konu için](/partner-center/develop/api-throttling-guidance) kaynakları gözden geçirin ve gerekli adımları uygulayın.
+Bu konunun [kaynaklarını](/partner-center/develop/api-throttling-guidance) gözden geçirin ve gerekli adımları uygulayın.
 
 ### <a name="change-log"></a>Değişiklik günlüğü
 
-- 21 Eylül: Yaklaşan değişiklikler için anımsatıcı
-- 19 Temmuz: Özgün Duyuru
+- 21 Eylül: yaklaşan değişiklikler için anımsatıcı
+- 19 Temmuz: özgün duyuru
 
 ________________
 
-## <a name="coming-soon-delegated-administrative-privileges-monitoring-and-self-service-removal"></a><a name="11"></a> Çok yakında: Yönetici ayrıcalıkları için temsilci izleme ve self servis kaldırma
+## <a name="coming-soon-delegated-administrative-privileges-monitoring-and-self-service-removal"></a><a name="11"></a> Yakında: yönetici ayrıcalıkları izleme ve self servis kaldırma temsilcisi
 
 ### <a name="categories"></a>Kategoriler
 
-- Tarih: 2021-14-10
+- Tarih: 2021-09-14
 - Özellikler
 
 ### <a name="summary"></a>Özet
 
-Microsoft, iş ortaklarının kullanılmayan DAP bağlantılarını kapatması için etkin temsilcili yönetim ayrıcalıkları (DAP) bağlantılarını görüntülemek için yeni raporlama araçları başlatıyor.
+Microsoft, etkin temsil edilen yönetim ayrıcalıkları (DAP) bağlantılarını görüntüleyen ve iş ortaklarının kullanılmayan DAP bağlantılarını kapamaları için yeni raporlama araçları başlatıyor.
 
-### <a name="impacted-audience"></a>Etkilene hedef kitle
+### <a name="impacted-audience"></a>Etkilenen hedef kitle
 
-Doğrudan fatura iş ortakları, dolaylı sağlayıcılar ve dolaylı kurumsal bayiler Bulut Çözümü Sağlayıcısı işlem
+Bulut Çözümü Sağlayıcısı programı aracılığıyla doğrudan fatura ortakları, dolaylı sağlayıcılar ve dolaylı satıcılar deneyimidir
 
 ### <a name="details"></a>Ayrıntılar
 
-İş ortakları, müşterilerinin hizmetlerini yönetmek ve desteklemek için temsilcili yönetim ayrıcalıklarını (DAP) kullanabilir.
+İş ortakları, müşterilerinin hizmetlerini yönetmek ve desteklemek için yetkilendirilmiş yönetim ayrıcalıkları (DAP) kullanabilir.
 
-Microsoft, iş ortağı ve müşteri ekosistemi içinde güvenliği artırmak için, kullanım dışıyken DAP'ı kapatmayı öneriyor.
+İş ortağı ve müşteri ekosistemi içindeki güvenliği artırmak için, Microsoft, kullanımda olmadığında DAP 'i kapatmayı öneriyor.
 
-Microsoft, Ekim 2018'in sonundan itibaren iş ortaklarının yönetim aracılarının müşterileriyle DAP bağlantılarını denetlemesini sağlamak için yeni raporlama araçlarını başlatacak. Bu raporlama, iş ortağı aracılarının DAP aracılığıyla tüm kiracılar genelinde müşteri kiracısına nasıl erişeceklerini yakalar. İş ortakları daha sonra kullanımda olmayan DAP bağlantılarını gözden geçirip kaldırabilir.
+Microsoft yeni raporlama araçları 'nı başlatarak iş ortaklarının yönetim aracılarının müşterileri ile DAP bağlantılarını denetleyebilir. Bu raporlama, iş ortağı aracılarının tüm kiracılar genelinde müşteri kiracılarına DAP aracılığıyla nasıl eriştiğini yakalar. İş ortakları daha sonra kullanımda olmayan DAP bağlantılarını gözden geçirebilir ve kaldırabilir.
 
-Bu yeni raporlama özelliği hakkında daha fazla [](https://partner.microsoft.com/resources/detail/dap-monitoring-and-self-serve-removal-pdf) bilgi edinmek için, raporda bulunan çeşitli filtreleri ve alanları belgeletan bir kılavuz oluşturduk.
+Bu yeni raporlama özelliği hakkında daha fazla bilgi edinmek için, raporda bulunan çeşitli filtre ve alanları belgeleyen bir [kılavuz](https://partner.microsoft.com/resources/detail/dap-monitoring-and-self-serve-removal-pdf) oluşturduk.
 
 #### <a name="key-considerations"></a>Dikkat edilmesi gereken temel konular
 
-- Müşteri için DAP erişimini kapatmak, müşteri kiracısı özelliklerini yönetmek için iş ortağının yönetici ayrıcalığını kapatacak.  
-- İş ortaklarının işlemden geçiş yapmak, müşterileri adına siparişler yapmaya devam eder.
-- İş ortağı aracıları artık müşterileri için Microsoft'a destek bileti yükseltemeyecek.  
-- DAP'ı kapatma, abonelikte geçerli rol tabanlı erişim denetimi rollerini etkilemez ve iş ortağı tarafından kazanılan kredileri etkilemez.
+- Bir müşteri için DAP erişiminin kapatılması, müşterinin kiracısındaki özellikleri yönetmek üzere ortağın yönetici ayrıcalığını devre dışı bırakır.  
+- Deneyimidir iş ortakları, müşteri adına sipariş yerleştirmeyi devam edebilir.
+- İş ortağı aracıları artık müşterileri için Microsoft 'a destek bileti oluşturmaz.  
+- DAP 'in kapatılması, bir abonelikte geçerli rol tabanlı erişim denetimi rollerini etkilemez ve iş ortağının kazanılma kredilerini etkilemez.
 
 ### <a name="next-steps"></a>Sonraki adımlar
 
-Bu konu [başlığıyla](https://partner.microsoft.com/resources/collection/delegated-administrative-privileges-dap#/) ilgili kaynakları gözden geçirme ve kuruluşta uygun proje katılımcıları ile paylaşma.
+Bu konuyla ilgili [kaynakları](https://partner.microsoft.com/resources/collection/delegated-administrative-privileges-dap#/) gözden geçirin ve kuruluşunuzdaki uygun hissedarlarla paylaşabilirsiniz.
 
-## <a name="september-cloud-solution-provider-community-update-and-reminders"></a><a name="10"></a>Eylül Bulut Çözümü Sağlayıcısı topluluk güncelleştirmeleri ve anımsatıcılar
+## <a name="september-cloud-solution-provider-community-update-and-reminders"></a><a name="10"></a>eylül Bulut Çözümü Sağlayıcısı topluluk güncelleştirmesi ve anımsatıcıları
 
 ### <a name="categories"></a>Kategoriler
 
 - Tarih: 2021-9-10
-- Community | Yetenek -lerini
+- Community | Yetenek
 
 ### <a name="summary"></a>Özet
 
-Aylık [Bulut Çözümü Sağlayıcısı (CSP)](https://partner.microsoft.com/resources/detail/csp-monthly-update-september-2021-global) güncelleştirme bülteninin yanı sıra temel program güncelleştirmelerini sağlayan [ek CSP](https://partner.microsoft.com/resources/collection/september-2021-csp-partner-community-content#/) topluluk kaynakları da mevcuttur.
+[Bulut Çözümü Sağlayıcısı (CSP) aylık güncelleştirme bülteni](https://partner.microsoft.com/resources/detail/csp-monthly-update-september-2021-global) artık size temel program güncelleştirmeleri sağlayan ek [CSP topluluk kaynaklarıyla](https://partner.microsoft.com/resources/collection/september-2021-csp-partner-community-content#/) birlikte kullanılabilir.
 
-### <a name="impacted-audience"></a>Etkilene hedef kitle
+### <a name="impacted-audience"></a>Etkilenen hedef kitle
 
-CSP doğrudan fatura iş ortakları ve dolaylı sağlayıcılar
+CSP doğrudan fatura ortakları ve dolaylı sağlayıcılar
 
 ### <a name="details"></a>Ayrıntılar
 
-Bu ayın kaynakları aşağıdaki konuları ele alıyor:
+Bu ayın kaynakları aşağıdaki konuları kapsar:
 
-#### <a name="launches"></a>Başlattı
+#### <a name="launches"></a>Yapılandırma
 
-- [CSP'de yeni ticaret deneyiminde Microsoft Dynamics 365, Microsoft 365, Microsoft Power Platform ve Windows 365](https://partner.microsoft.com/resources/detail/d365-m365-power-platform-w365-in-the-new-commerce-experience-in-csp-pdf)
+- [CSP 'de yeni ticaret deneyiminde microsoft Dynamics 365, Microsoft 365, microsoft Power Platform ve Windows 365](https://partner.microsoft.com/resources/detail/d365-m365-power-platform-w365-in-the-new-commerce-experience-in-csp-pdf)
 
-#### <a name="clinics"></a>Klinik
+#### <a name="clinics"></a>Klinikler
 
 - [İş ortakları için lisans desteğine giriş](https://partner.microsoft.com/resources/detail/introduction-to-licensing-support-for-partners-pdf)
-- [İş ortakları için Ürün Koşulları sitesine kılavuz](https://partner.microsoft.com/resources/detail/product-terms-site-guide-for-partners-pdf)
-- [Destek dolandırıcılığını bildirme](https://partner.microsoft.com/resources/detail/how-to-report-a-support-scam-pdf)
-- [Enterprise için Microsoft 365 Uygulamaları Program öznitelik değişikliği](https://partner.microsoft.com/resources/detail/program-attribute-change-for-microsoft-365-apps-for-enterprise-pdf)
+- [İş ortakları için ürün koşulları sitesi Kılavuzu](https://partner.microsoft.com/resources/detail/product-terms-site-guide-for-partners-pdf)
+- [Destek raporunu bildirme](https://partner.microsoft.com/resources/detail/how-to-report-a-support-scam-pdf)
+- [Enterprise için Microsoft 365 Uygulamaları özniteliği değişikliği](https://partner.microsoft.com/resources/detail/program-attribute-change-for-microsoft-365-apps-for-enterprise-pdf)
 
-#### <a name="csp-community-qa-reminder"></a>CSP Community Q&bir anımsatıcı
+#### <a name="csp-community-qa-reminder"></a>CSP Community Q&anımsatıcı
 
-Aylık CSP topluluk Q&bir oturum, daha fazla bilgi edinmek ve programı etkileyen değişiklikler hakkında sorular sormak için size bir fırsat sağlar. Bu ayın çağrısı, önceki bölümde ve daha birçok konuda listelenen konulara odaklanacaktır.
+Aylık CSP topluluğu&Oturum, daha fazla bilgi edinmek ve programı etkileyen değişiklikler hakkında sorular sormak için size bir fırsat sağlar. Bu ayın çağrısı önceki bölümde listelenen konulara ve daha birçok konuya odaklanacak.
 
-[Çağrıya katmak için buraya kaydolun](https://globalpbocomm.eventbuilder.com/GlobalCSP).
+[çağrısına katılmak için buraya kaydolmanız gerekir.](https://globalpbocomm.eventbuilder.com/GlobalCSP)
 
-#### <a name="always-availablelaunch-content-on-demand"></a>Her zaman kullanılabilir — içeriği isteğe bağlı olarak başlatın
+#### <a name="always-availablelaunch-content-on-demand"></a>Her zaman kullanılabilir—İçeriği isteğe bağlı olarak başlatma
 
-Aylık [CSP topluluk koleksiyonu](https://partner.microsoft.com/resources/collection/september-2021-csp-partner-community-content#/)içinde şunları bulabilirsiniz:
+Aylık [CSP topluluk koleksiyonu içinde](https://partner.microsoft.com/resources/collection/september-2021-csp-partner-community-content#/)şunları bulabilirsiniz:
 
-- En son CSP bildirilerini, güncelleştirmeleri, olayları ve anımsatıcıları kolay okunabilir bir belgede toplayan, indirilebilir [CSP aylık güncelleştirme Bülteni](https://partner.microsoft.com/resources/detail/csp-monthly-update-september-2021-global) .
-- Programın etkilediği yaklaşan değişikliklerin zaman çizelgesi görünümünü sağlayan [CSP duyurusu takvimi](https://partner.microsoft.com/resources/detail/csp-announcement-calendar-september-2021-pdf) .
-- Yaklaşan ürünün başlatıldığı ve tekliflerinin görüntüleneceği **Yeni** [ürün başlatma takvimi](https://partner.microsoft.com/resources/detail/product-launch-calendar-september-pdf) .
-- İş ortakları ve müşteriler tarafından sunulan son ve yaklaşan promosyonları kapsayan [genel promosyon hazırlığı Kılavuzu](https://partner.microsoft.com/resources/collection/global-promo-readiness-guide-collection#/) .
-- CSP, anahtar işletimsel değişiklikler üzerinde kullanımı kolay içerik ile [güncelleştirme kaynaklarını başlatın](https://partner.microsoft.com/resources/collection/csp-launch-topics-collection#/) .
-- Önemli CSP ile ilgili [Yenileiciler ve anımsatıcıları](https://partner.microsoft.com/resources/detail/csp-september-2021-refreshers-and-reminders-pdf) , ilgi ve sorguları alma konuları.
+- Son [CSP duyurularını,](https://partner.microsoft.com/resources/detail/csp-monthly-update-september-2021-global) güncelleştirmelerini, olaylarını ve anımsatıcıları kolay okunur bir belgede toplanmış indirilebilir CSP Aylık Güncelleştirme bülteni.
+- Programı etkileyen yaklaşan değişikliklerin zaman çizelgesi görünümünü sağlayan [CSP](https://partner.microsoft.com/resources/detail/csp-announcement-calendar-september-2021-pdf) Duyuru Takvimi.
+- Yaklaşan **ürün** [lansmanlarını](https://partner.microsoft.com/resources/detail/product-launch-calendar-september-pdf) ve tekliflerini görüntüyebilirsiniz yeni ürün lansman takvimi.
+- İş [ortakları ve müşteriler için kullanılabilir](https://partner.microsoft.com/resources/collection/global-promo-readiness-guide-collection#/) olan son ve yaklaşan promosyonları harmanlar Küresel Promosyon Hazırlığı Kılavuzu.
+- [CSP, önemli işlem değişikliklerinde](https://partner.microsoft.com/resources/collection/csp-launch-topics-collection#/) kullanımı kolay içerikle güncelleştirme kaynaklarını başlatacak.
+- [İlgi ve sorgu alan önemli](https://partner.microsoft.com/resources/detail/csp-september-2021-refreshers-and-reminders-pdf) CSP konularına ilişkin yenilemeler ve anımsatıcılar.
 
-Lisanslama hazırlığı mi gerekiyor? [Aylık CSP servisleri web seminerleri](https://commercial_licensing.eventbuilder.com/YearToDate_ALL) , tüm iş ortakları için kullanılabilen en son CSP lisanslama bilgilerini kapsar.
+Lisans hazırlığı mı gerekiyor? Aylık [CSP spotlight web seminerleri,](https://commercial_licensing.eventbuilder.com/YearToDate_ALL) tüm iş ortakları için kullanılabilen en son CSP lisans bilgilerini içerir.
 
 ### <a name="next-steps"></a>Sonraki adımlar
 
-Topluluk kaynaklarını gözden geçirin ve soru-cevap&bir topluluk çağrısı için kaydolun.
+Topluluk kaynaklarını gözden geçirme ve Soru-Cevap topluluk&kaydolma.
 
 ### <a name="questions"></a>Sorularınız mı var?
 
-Aylık CSP topluluk Q&bir çağrı, CSP programındaki işletimsel değişiklik hakkında sorular getirmek için en iyi yerdir. Çağrıdan önce 48 saate kadar [bir soru gönderebilirsiniz](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbRzrhg6eBq-tPjJzqc4xPoxdUQU1WQklGNDZBNVJaRkMxUDVJVUxHSkNXWS4u) . Başlatma ile ilgili tüm sorulara çağrı ve/veya çağrıdan sonra yayımlanan bir belge&. Son ayın [topluluk koleksiyonunu](https://partner.microsoft.com/resources/collection/august-2021-csp-partner-community-content#/) ziyaret edebilir ve Ağustos olayından sonra yayımlanan bir belgeyi soru&gözden geçirebilirsiniz.
+Aylık CSP topluluğu Q&A çağrısı, CSP programında operasyonel değişiklikle ilgili sorular getirmek için en iyi yerdir. Aramadan [48](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbRzrhg6eBq-tPjJzqc4xPoxdUQU1WQklGNDZBNVJaRkMxUDVJVUxHSkNXWS4u) saat önceye kadar bir soru gönderesiniz. Başlatmayla ilgili tüm sorular çağrısında ve/veya çağrıdan sonra yayımlanan&A belgesinde yanıtlanır. Geçen ayın topluluk koleksiyonunu ziyaret [edecek ve](https://partner.microsoft.com/resources/collection/august-2021-csp-partner-community-content#/) Ağustos&yayımlanan Q&belgesini gözden geçirebilirsiniz.
 
-Diğer CSP konuları hakkında sorularınız mı var? [Iş ortağı merkezi desteği sayfasını](https://partner.microsoft.com/support/?stage=1)ziyaret edin.
+Başka bir CSP konusuyla ilgili sorularınız mı var? İş Ortağı Merkezi [sayfasını ziyaret edin.](https://partner.microsoft.com/support/?stage=1)
 
 _____________
 
-## <a name="september-co-sell-with-microsoft-qa-community-call-reminder"></a><a name="9"></a> Eylül ortak satışı Microsoft Q&topluluk çağrısı anımsatıcısı
+## <a name="september-co-sell-with-microsoft-qa-community-call-reminder"></a><a name="9"></a> Microsoft Q ve A topluluk&anımsatıcı ile Eylül ayında ortak satış
 
 ### <a name="categories"></a>Kategoriler
 
 - Tarih: 2021-09-09
-- Community | Davetlere ve anımsatıcıları
+- Community | Davetler ve anımsatıcılar
 
 ### <a name="summary"></a>Özet
 
-Eylül Community oturumu için [Şimdi kaydolun](https://globalpbocomm.eventbuilder.com/GlobalCoSell) . Bu, Iş Ortağı Merkezi 'nde ticari Market ve başvuru modülleriyle ilgili en son başlatma ve geliştirmeleri vurgular.
+[Ticari markette](https://globalpbocomm.eventbuilder.com/GlobalCoSell) yapılan en son lansmanları ve geliştirmeleri ve bu modüllerde referans modüllerini vurgulayan Eylül topluluk oturumuna İş Ortağı Merkezi.
 
-### <a name="impacted-audience"></a>Etkilenen hedef kitle
+### <a name="impacted-audience"></a>Etkilene hedef kitle
 
-Bu oturum, aşağıdakileri yöneten Iş ortağı merkezine özgü kullanıcı rollerine ayrılmıştır:
+Bu oturum, aşağıdaki İş Ortağı Merkezi belirli kullanıcı rollerine ayrılmıştır:
 
-- Teklif yayımlama yönetimi için ticari Market modülü.
-- Müşteri adayları ve ortak satış fırsatı paylaşım yönetimi için başvurular modülü.
+- Teklif yayımlama yönetimi için ticari market modülü.
+- Müşteri adayları ve ortak satış fırsat paylaşımı yönetimi için referanslar modülü.
 
-Diğer tüm Iş Ortağı Merkezi kullanıcıları, [Işlem hazırlık kaynağı galerisinde](https://partner.microsoft.com/resources/cloud-solution-provider-program)isteğe bağlı olarak içeriğe erişebilir.
+Diğer tüm İş Ortağı Merkezi kullanıcılar, İşlem hazırlığı kaynak galerisinde isteğe [bağlı olarak içeriğe erişebilirsiniz.](https://partner.microsoft.com/resources/cloud-solution-provider-program)
 
 ### <a name="details"></a>Ayrıntılar
 
-Bu aya ilişkin önemli makaleler şunlardır:
+Bu ayın önemli makaleleri şunlardır:
 
 #### <a name="commercial-marketplace"></a>Ticari market
 
-- [Çözüm Bulucu artık AppSource ile tümleştirildi](https://appsource.microsoft.com/blogs/now-live-on-microsoft-appsource-tap-into-the-unrivaled-microsoft-partner-ecosystem-to-accelerate-your-digital-transformation)
-- [ticari market 'te teklif yayımlamak için gereken kılavuzluk ve izinler (PowerPoint sunusunu indirir)](https://assetsprod.microsoft.com/mpn/guidance-and-permissions-needed-to-publish-an-offer-and-co-sell-with-ms.pptm)
+- [Çözüm bulici artık AppSource ile tümleştirildi](https://appsource.microsoft.com/blogs/now-live-on-microsoft-appsource-tap-into-the-unrivaled-microsoft-partner-ecosystem-to-accelerate-your-digital-transformation)
+- [Ticari markette teklif yayımlamak için gereken rehberlik ve izinler (PowerPoint indirmeleri)](https://assetsprod.microsoft.com/mpn/guidance-and-permissions-needed-to-publish-an-offer-and-co-sell-with-ms.pptm)
 
-#### <a name="referral"></a>Başvuruyu
+#### <a name="referral"></a>Tavsiye
 
-- [Ticari Market teklifi için ortak satışı yapılandırma](/azure/marketplace/co-sell-configure)
-- [Gelen fırsatları yönlendirme kuralları oluşturma ve yönetme: Iş Ortağı Merkezi](../routing-rules.md)
-- [Ortak satış fırsatlarını yönetin: Iş Ortağı Merkezi](../manage-co-sell-opportunities.md#accepted-stage)
-- [anlaşma kayıt verileri artık başvuru Analizler dışarı aktarma için kullanılabilir](./2021-july.md#17)
+- [Ticari market teklifi için ortak satış yapılandırma](/azure/marketplace/co-sell-configure)
+- [Gelen fırsatları yönlendirme kurallarını oluşturma ve yönetme: İş Ortağı Merkezi](../routing-rules.md)
+- [Ortak satış fırsatlarını yönetme: İş Ortağı Merkezi](../manage-co-sell-opportunities.md#accepted-stage)
+- [Satış anlaşması kayıt verileri artık Referans Veri Kaynağı'Analizler](./2021-july.md#17)
 
 #### <a name="refresh"></a>Yenile
 
-- [Iş Ortağı Merkezi 'nde ortak satış deneyimi](/azure/marketplace/co-sell-configure#enter-your-contacts)
-- [Iş Ortağı Merkezi 'nde başvuru yönetimi](https://partner.microsoft.com/resources/detail/referral-management-in-partner-center-pptx)
-- [Iş ortağı merkezi toplu işlemler özelliğini kullanarak ortak satış anlaşmaları ölçeğini ölçeklendirerek paylaşma](./2021-february.md#13)
-- [İş ortağı LED ortak satış anlaşmaları ile daha fazla esneklik](./2021-february.md#11)
-- [iş ortağı merkezi 'nde başvuru Analizler al](../referral-insights.md)
+- [İş Ortağı Merkezi'da ortak satış deneyimi](/azure/marketplace/co-sell-configure#enter-your-contacts)
+- [İş Ortağı Merkezi'de referans yönetimi](https://partner.microsoft.com/resources/detail/referral-management-in-partner-center-pptx)
+- [Toplu işlem özelliğini kullanarak ortak satış anlaşmalarını İş Ortağı Merkezi paylaşın](./2021-february.md#13)
+- [İş ortağı tarafından ortak satış anlaşmaları ile daha fazla esneklik](./2021-february.md#11)
+- [İş Ortağı Merkezi'Analizler Referans İş Ortağı Merkezi](../referral-insights.md)
 
 ### <a name="next-steps"></a>Sonraki adımlar
 
-[Topluluk kaynaklarını](https://partner.microsoft.com/resources/collection/september-2021-co-sell-partner-community-content#/)gözden geçirin ve soru&topluluk çağrısı için kaydolun.
+Topluluk kaynaklarını [gözden geçirme](https://partner.microsoft.com/resources/collection/september-2021-co-sell-partner-community-content#/)ve Soru-Cevap topluluk&kaydolma.
 
 ### <a name="questions"></a>Sorularınız mı var?
 
-Soru&topluluk çağrısı, işletimsel değişiklikler hakkında sorular getirmek için en iyi yerdir. Çağrıdan önce 48 saate kadar [bir soru gönderebilirsiniz](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbRzrhg6eBq-tPjJzqc4xPoxdUQU1WQklGNDZBNVJaRkMxUDVJVUxHSkNXWS4u) . Başlatma ile ilgili tüm sorulara çağrı ve/veya çağrıdan sonra yayımlanan bir belge&.  
+Soru-&topluluk çağrısı, operasyonel değişikliklerle ilgili sorular getirmek için en iyi yerdir. Çağrıdan [48](https://forms.office.com/Pages/ResponsePage.aspx?id=v4j5cvGGr0GRqy180BHbRzrhg6eBq-tPjJzqc4xPoxdUQU1WQklGNDZBNVJaRkMxUDVJVUxHSkNXWS4u) saat önceye kadar bir soru gönderesiniz. Başlatmayla ilgili tüm sorular çağrısında ve/veya çağrıdan sonra yayımlanan&A belgesinde yanıtlanır.  
 
-Diğer konularda sorularınız varsa, [Iş ortağı merkezi desteği sayfasını](https://partner.microsoft.com/support/?stage=1)ziyaret edin.
+Diğer konularla ilgili sorularınız varsa destek [sayfasından İş Ortağı Merkezi ziyaret edin.](https://partner.microsoft.com/support/?stage=1)
 
 _____________
 
-## <a name="new-validation-rules-for-company-name-and-email-address-on-september-22"></a><a name="8"></a>22 Eylül tarihinde Şirket adı ve e-posta adresi için yeni doğrulama kuralları
+## <a name="new-validation-rules-for-company-name-and-email-address-on-september-22"></a><a name="8"></a>22 Eylül'de şirket adı ve e-posta adresi için yeni doğrulama kuralları
 
 ### <a name="categories"></a>Kategoriler
 
@@ -271,96 +271,96 @@ _____________
 
 ### <a name="summary"></a>Özet
 
-İş ortakları ve müşterilerin işletmelerini temel alarak işlerini çalıştırmasına yardımcı olmak için bir müşterinin Şirket adı ve e-posta adresi için doğrulama kurallarını güncelleştiriyoruz. Bu, hem yeni hem de mevcut müşteri ayrıntıları için geçerlidir. Gerekli bir API değişikliği yok.
+İş ortaklarının ve müşterilerin işletmelerini güvene göre çalıştırmalarına yardımcı olmak için müşterinin şirket adı ve e-posta adresi için doğrulama kurallarını güncelleştiriyoruz. Bu, hem yeni hem de mevcut müşteri ayrıntıları için geçerlidir. Gerekli API değişikliği yoktur.
 
-### <a name="impacted-audience"></a>Etkilenen hedef kitle
+### <a name="impacted-audience"></a>Etkilene hedef kitle
 
-CSP doğrudan fatura ortakları ve dolaylı sağlayıcılar
+CSP doğrudan fatura iş ortakları ve dolaylı sağlayıcılar
 
 ### <a name="details"></a>Ayrıntılar
 
-Microsoft, güvende çalışır. Müşteri şirket adı ve e-posta adresi bilgilerini doğrulamaya yönelik uyumlu, güvenli ve güvenli bir yöntem sağlamayı taahhüt ediyoruz. 22 Eylül 2021 itibariyle e-posta ve şirket adı doğrulamaları güncelleştirilecektir. Daha fazla bilgi için bkz. [yeni müşteri kaydı ekleme](../add-a-new-customer.md).
+Microsoft güven üzerinde çalışır. Müşteri şirket adı ve e-posta adresi bilgilerini doğrulamaya ilişkin uyumlu, güvenli ve güvenli bir yöntem sağlamayı taahhüt etmek istiyoruz. 22 Eylül 2021'den itibaren e-posta ve şirket adı doğrulamalarını güncelleştireceksiniz. Daha fazla bilgi için [bkz. Yeni müşteri kaydı ekleme.](../add-a-new-customer.md)
 
 #### <a name="new-rules-for-company-name-and-email-address"></a>Şirket adı ve e-posta adresi için yeni kurallar
 
-Eylül 22 2021 itibariyle aşağıdaki yeni doğrulama kuralları uygulanacaktır.
+22 Eylül 2021'den itibaren aşağıdaki yeni doğrulama kuralları geçerli olacaktır.
 
-Şirket adı girerken aşağıdakilere izin verilmez:
+Bir şirket adı girerken aşağıdakilere izin verilmez:
 
-- Yalnızca bir karakter kullanılıyor.
-- Yalnızca &$ ^ # (bkz. [tablo](../add-a-new-customer.md#table-of-special-characters)) gibi özel karakterler kullanma.
-- Yalnızca boşluklar ve/veya sekmeler kullanılıyor.
-- Her tek başına kısaltmaların, LLC, Inc, vb. gibi kısıtlanmış listeden kullanılması (bkz. [tablo](../add-a-new-customer.md#table-of-abbreviations)).
-- ". Com", ". org", ". edu", ". sinek" vb. gibi Internet Top-Level etki alanı (TDL) uzantılarına sahip adlar kullanma (bkz. [tablo](../add-a-new-customer.md#table-of-top-level-domain-extensions)).
-- Üç veya daha fazla kez, 999 gibi başka karakterler olmadan yinelenen karakteri kullanma.
-- Boşluk ve/veya sekmeleri 1 2 3 gibi tek karakterlerle karışık olarak kullanma.
+- Yalnızca bir karakter kullanma.
+- Yalnızca $^# gibi özel &kullanma (tabloya [bakın).](../add-a-new-customer.md#table-of-special-characters)
+- Yalnızca boşlukları ve/veya sekmeleri kullanma.
+- LLC, Inc vb. gibi kısıtlı listeden bağımsız kısaltmaları kullanma (tabloya [bakın).](../add-a-new-customer.md#table-of-abbreviations)
+- ".com", ".org", ".edu", ".club" gibi internet Top-Level Etki Alanı (TDL) uzantılarıyla adları kullanma (tabloya [bakın).](../add-a-new-customer.md#table-of-top-level-domain-extensions)
+- Aynı karakterin, 999 gibi başka bir karakterle üç veya daha fazla kez tekrarlanan bir karakter kullanma.
+- 1 2 3 gibi tek tek karakterlerle karışık boşluklar ve/veya sekmeler kullanma.
 
 Müşteri e-posta adresi girerken aşağıdakilere izin verilmez:
-- E-posta adresi içeremez @microsoft.com .
-- Müşteri e-posta adresi, iş ortağıyla aynı etki alanı adını içeremez. Örneğin, ABC adlı bir iş ortağı ile bir müşteri e-postası oluşturamaz @abc.com .
+- E-posta adresi @microsoft.com içermez.
+- Müşteri e-posta adresi, iş ortağıyla aynı etki alanı adını içere değildir. Örneğin ABC adlı bir iş ortağı ile müşteri e-postası oluşturamayabilirsiniz. @abc.com
 
-EAP Web semineri sırasında daha fazla ayrıntı bulabilirsiniz:
-- Anda [https://www.yammer.com/cloudpartnercommunity/#/files/1094484746240](https://www.yammer.com/cloudpartnercommunity/#/files/1094484746240)
+EAP web sayfası sırasında daha fazla ayrıntı bulunabilir:
+- Güverte: [https://www.yammer.com/cloudpartnercommunity/#/files/1094484746240](https://www.yammer.com/cloudpartnercommunity/#/files/1094484746240)
 
-- Yapılmıyor [https://www.yammer.com/cloudpartnercommunity/#/files/1094484361216](https://www.yammer.com/cloudpartnercommunity/#/files/1094484361216)
+- Kayıt: [https://www.yammer.com/cloudpartnercommunity/#/files/1094484361216](https://www.yammer.com/cloudpartnercommunity/#/files/1094484361216)
  
-#### <a name="partner-and-customer-impact"></a>İş ortağı ve müşteri etkisi
+#### <a name="partner-and-customer-impact"></a>İş Ortağı ve Müşteri Etkisi
 
-İş ortakları, Eylül 22nd ' deki Yukarıdaki kurallara uymadığı takdirde müşterileri oluşturamazlar.
+İş ortakları, 22 Eylül'den itibaren yukarıdaki kurallara uymadıkça müşteri oluşturabilecektir.
 
 _____________
 
-## <a name="readiness-dual-mode-attestation-and-additional-reseller-declaration"></a><a name="7"></a>Hazırlık: çift modlu kanıtlama ve ek satıcı bildirimi
+## <a name="readiness-dual-mode-attestation-and-additional-reseller-declaration"></a><a name="7"></a>Hazır olma: Çift modlu uygunluk ve ek kurumsal bayi bildirimi
 
 ### <a name="summary"></a>Özet
 
-İş ortakları ve müşterilerin işlerini güvenle çalıştırmasına yardımcı olmak için iş ortaklarının, işlem başına aynı kiracı KIMLIĞINI kullanırken doğrudan veya dolaylı iş ortakları olarak davrandıklarından emin olmak istiyoruz.
+İş ortaklarının ve müşterilerin işletmelerini güvene dayalı olarak çalıştırmalarına yardımcı olmak için, iş ortaklarının işlem başına aynı kiracı kimliğini kullanırken doğrudan veya dolaylı iş ortakları olarak davranacaklarını doğrulamaları gerekir.
 
-Ayrıca, AB/EFTA ülkelerinde yer alan tüm iş ortaklarının tüm ek satıcıları (en fazla 5 ' e kadar) bildirmek için de istekte bulunuyoruz.
+Ayrıca, EU/EFTA ülkelerde işlem yapmakta olan tüm iş ortaklarından, işlemde yer alan ek kurumsal bayileri (en fazla 5 adede kadar) bildirerek talepte bulunabilirsiniz.
 
 ### <a name="categories"></a>Kategoriler
 
 - Tarih: 2021-09-07
-- Aralık ayında bir dünya çapında pilot başlatma hazırlığı
+- Aralık ayında yapılan WW fırlatma için pilot hazırlığı
 
-### <a name="impacted-audience"></a>Etkilene hedef kitle
+### <a name="impacted-audience"></a>Etkilenen hedef kitle
 
 Hem doğrudan hem de dolaylı iş ortakları olan CSP dolaylı sağlayıcıları
 
-AB/EFTA ülkelerinin dolaylı iş ortakları
+AB/EFTA ülkelerinde dolaylı iş ortakları deneyimidir
 
 ### <a name="details"></a>Ayrıntılar
 
-Microsoft güven üzerinde çalışır. CSP programında müşteri aboneliklerini işlemeye yardımcı olmak için uyumlu, güvenli ve güvenli bir yöntem sağlamayı taahhüt etmek istiyoruz.
+Microsoft, güvende çalışır. CSP programında deneyimidir müşteri abonelikleri için uyumlu, güvenli ve güvenli bir yöntem sağlamayı taahhüt ediyoruz.
 
-7 Eylül 2021'den itibaren, iş ortaklarının Yeni onay gereksinimlerine ve Sepet Oluşturma, Sepeti Güncelleştirme ve Sipariş Oluşturma API'leri içinde oluşan ek kurumsal bayi (yalnızca EU/EFTA) değişikliklerine karşı test etme fırsatına sahip olması için bir pilot proje açeceğiz. Bu değişikliklerin bu API'ler için mevcut deneyimleri bozacak olduğunu lütfen unutmayın. Bu nedenle, iş ortaklarının Aralık ayındaki tam lansmandan önce pilota katılma fırsatına sahip olduğu önemle tavsiye edilir.
+7 Eylül 2021 itibariyle, yeni kanıtlama gereksinimlerine karşı test etme ve oluşturma sepeti, güncelleştirme sepeti ve sipariş API 'Leri oluşturma ile ilgili ek satıcılar (yalnızca AB/EFTA) için bir pilot iş ortağı açacağız. Lütfen bu değişiklikler bu API 'Lerin mevcut deneyimlerini bozacaktır. Bu nedenle, iş ortaklarının Aralık ayında tam başlatma öncesinde pilot 'a katılma fırsatına katılması önemle tavsiye edilir.
 
-#### <a name="partner-and-customer-impact"></a>İş Ortağı ve Müşteri Etkisi
+#### <a name="partner-and-customer-impact"></a>İş ortağı ve müşteri etkisi
 
-- YENI DEĞIŞIKLIK: Dolaylı iş ortakları, doğrudan veya dolaylı iş ortakları olarak davranacaklarını onaylayana kadar satın almaları tamamlayabilecektir
-- EU/EFTA iş ortakları, işlemle ilgili ek kurumsal bayileri bildire ve dahil temliklerine uymazsa AB yönetmelikleri ile uyumlu olmaz
-- EAP web sayfası sırasında daha fazla ayrıntı bulunabilir: 
-- Güverte: [https://www.yammer.com/cloudpartnercommunity/#/files/1094484746240](https://www.yammer.com/cloudpartnercommunity/#/files/1094484746240)
-- Kayıt: [https://www.yammer.com/cloudpartnercommunity/#/files/1094484361216](https://www.yammer.com/cloudpartnercommunity/#/files/1094484361216)
+- Son DEĞIŞIKLIK: dolaylı iş ortakları, doğrudan veya dolaylı iş ortakları olarak davrandıkları, satın alma işlemlerini gerçekleştirmeden dolduramayacak
+- AB/EFTA iş ortakları, işlem içinde yer alan ek satıcıları bildirmiyorsa ve içermiyorsa AB yönetmelikleriyle uyumlu olmayacaktır
+- EAP Web semineri sırasında daha fazla ayrıntı bulabilirsiniz: 
+- Anda [https://www.yammer.com/cloudpartnercommunity/#/files/1094484746240](https://www.yammer.com/cloudpartnercommunity/#/files/1094484746240)
+- Yapılmıyor [https://www.yammer.com/cloudpartnercommunity/#/files/1094484361216](https://www.yammer.com/cloudpartnercommunity/#/files/1094484361216)
 
-Aşağıdaki API'ler etkilenecektir ve ayrıntılar paylaşılır ve buna göre güncelleştirilir:
+Aşağıdaki API 'leri etkilenecektir ve Ayrıntılar uygun şekilde paylaşıldığından ve güncelleştirilecektir:
 
-- [Müşteri siparişi oluşturma - İş Ortağı Merkezi geliştirici](/partner-center/develop/create-an-order)
-- [Sepet oluşturma - İş Ortağı Merkezi uygulama geliştiricisi](/partner-center/develop/create-a-cart)
-- [Sepeti güncelleştirme - İş Ortağı Merkezi geliştiricisi](/partner-center/develop/update-a-cart)
+- [Bir müşteri sipariş-Iş Ortağı Merkezi uygulama geliştiricisi oluşturma](/partner-center/develop/create-an-order)
+- [Sepet-Iş Ortağı Merkezi uygulama geliştiricisi oluşturma](/partner-center/develop/create-a-cart)
+- [Sepet-Iş Ortağı Merkezi uygulama geliştiricisini güncelleştirme](/partner-center/develop/update-a-cart)
 
-Ek kurumsal bayiler, aşağıdaki AB/EFTA ülkeleri üzerinde işlem yapılan iş ortaklarını etkiler:
+Ek satıcılar aşağıdaki AB/EFTA ülkelerinde iş ortakları deneyimidir etkiler:
 
-| AB / EFTA Ülkeleri | &nbsp; | &nbsp; |
+| AB/EFTA Ülkeleri | &nbsp; | &nbsp; |
 | --- | --- | --- |
-| Andorra<br>Avusturya<br>Belçika<br>Bouvet Adası<br>Bulgaristan<br>Hırvatistan<br>Kıbrıs<br>Çekya<br>Danimarka<br>Estonya<br>Faroe Adaları<br>Finlandiya<br>Fransa<br>Almanya<br>Cebelitarık | Yunanistan<br>Grönland<br>Guernsey<br>See (City'nin kapsa olduğu Yer)<br>Macaristan<br>İzlanda<br>İrlanda<br>Man Adası<br>İtalya<br>Jersey<br>Letonya<br>Liechtenstein<br>Litvanya<br>Lüksemburg<br>Malta | Monako<br>Hollanda<br>Norveç<br>Polonya<br>Portekiz<br>Romanya<br>San Marino<br>Slovakya<br>Slovenya<br>İspanya<br>Svalbard ve Jan Mayen<br>İsveç<br>İsviçre<br>Birleşik Krallık: TBD |
+| Andorra<br>Avusturya<br>Belçika<br>Bouvet Adası<br>Bulgaristan<br>Hırvatistan<br>Kıbrıs<br>Czechia<br>Danimarka<br>Estonya<br>Faroe Adaları<br>Finlandiya<br>Fransa<br>Almanya<br>Cebelitarık | Yunanistan<br>Grönland<br>Guernsey<br>Papalık (Vatikan şehri)<br>Macaristan<br>İzlanda<br>İrlanda<br>Man Adası<br>İtalya<br>Jersey<br>Letonya<br>Liechtenstein<br>Litvanya<br>Lüksemburg<br>Malta | Monako<br>Hollanda<br>Norveç<br>Polonya<br>Portekiz<br>Romanya<br>San Marino<br>Slovakya<br>Slovenya<br>İspanya<br>Svalbard ve Jan Mayen<br>İsveç<br>İsviçre<br>Birleşik Krallık: TBD |
 |
 
-Pilota katılmak için lütfen konu uzmanınıza (AliSinki) ulaşarak iş ortağı kiracı kimliğini girin ve uçuşa eklensin.
+Pilot 'a katılmak için lütfen konu uzmanınıza (Ali Haki) ulaşın ve iş ortağı kiracı KIMLIĞINI, uçuşlara eklenebilecek şekilde sağlayın.
 
 _____________
 
-## <a name="perpetual-software-and-software-subscriptions-price-lists-republished-to-fix-price-increases-in-russia"></a><a name="6"></a>Kalıcı yazılım ve yazılım abonelikleri fiyat listeleri, Rusya'daki fiyat artışlarını düzeltmek için yeniden yayımlandı
+## <a name="perpetual-software-and-software-subscriptions-price-lists-republished-to-fix-price-increases-in-russia"></a><a name="6"></a>Rusya 'daki fiyat artışmasını onarmak için kalıcı yazılım ve yazılım abonelikleri fiyat listeleri yeniden yayımlandı
 
 ### <a name="categories"></a>Kategoriler
 
@@ -369,59 +369,59 @@ _____________
 
 ### <a name="summary"></a>Özet
 
-1 Eylül 2021'de yayımlanan kalıcı yazılım ve yazılım abonelikleri fiyat listeleri, Rusya'da bir fiyatlandırma sorunu düzeltmek için 3 Eylül'de yeniden yayımlandı.
+1 Eylül 2021 ' de yayımlanan kalıcı yazılım ve yazılım abonelikleri fiyat listeleri, Rusya 'daki bir fiyatlandırma sorununu düzeltmek için 3 Eylül tarihinde yeniden yayımlandı.
 
-### <a name="impacted-audience"></a>Etkilene hedef kitle
+### <a name="impacted-audience"></a>Etkilenen hedef kitle
 
-Dolaylı sağlayıcılar ve doğrudan fatura iş ortakları, Rusya'daki Bulut Çözümü Sağlayıcısı kalıcı yazılım ve yazılım aboneliklerini işlemektedir.
+Bulut Çözümü Sağlayıcısı programdaki dolaylı sağlayıcılar ve doğrudan fatura ortakları deneyimidir kalıcı yazılım ve yazılım abonelikleri.
 
 ### <a name="details"></a>Ayrıntılar
 
-1 Eylül'de yayımlanan kalıcı yazılım ve yazılım abonelikleri fiyat listeleri, tüm ürünler için yanlış %15,2 fiyat artışına sahipti.
+1 Eylül 'de yayımlanan kalıcı yazılım ve yazılım abonelikleri fiyat listeleri, tüm ürünler için% 15,2 oranında bir fiyat artışı içeriyordu.
 
-%15,2'ye yakın fiyat artışı Eylül'de **değil, 1 Ekim 2021'de** yürürlüğe girecektir. Fiyat listeleri doğru fiyatlandırma bilgileriyle yeniden yayımlanmamıştır.
+% 15,2 ' nin fiyat artışı, Eylül ayında değil, **1 ekim 2021**' de yürürlüğe girer. Fiyat listeleri, doğru fiyatlandırma bilgileri ile yeniden yayımlandı.
 
-1 Eylül ile 3 Eylül arasında ürün satın alan iş ortakları, en son fiyat listelerinde yansıtilen düzeltilmiş fiyatlar üzerinden ücret tahsil edilecektir.
+1 Eylül ile 3 Eylül arasında ürün satın alan iş ortakları, en son fiyat listelerine yansıtılan düzeltilen fiyatlar üzerinden ücretlendirilir.
 
 ### <a name="next-steps"></a>Sonraki adımlar
 
-- Rusya'da kalıcı yazılım ve yazılım abonelikleri yapan iş ortaklarının düzeltilen fiyatları görmek için en son fiyat listesini indirmesi gerekir.
-- Ekim ayında gelecek fiyat artışları hakkında ayrıntılı bilgi için Microsoft'un Rusya'daki ticari müşteriler için [lisanslama programını ayarlaması makalesine bakın.](https://news.microsoft.com/ru-ru/licensing-changes-at-microsoft-russia-2021/)
+- Rusya 'daki kalıcı yazılım ve yazılım aboneliklerine sahip iş ortakları, düzeltilen fiyatları görmek için en son fiyat listesini indirmelidir.
+- Ekim ayının fiyat artışlarına ilişkin ayrıntıları bulmak için bkz. [Microsoft, Rusya 'daki ticari müşteriler için lisanslama programını ayarlama](https://news.microsoft.com/ru-ru/licensing-changes-at-microsoft-russia-2021/)makalesine bakın.
 
 _____________
 
-## <a name="corrections-to-september-license-based-services-price-list-and-october-preview-for-microsoft-365-business-basic-usd"></a><a name="5"></a>Eylül lisans tabanlı hizmetler fiyat listesinde ve Ekim önizlemesinde düzeltmeler Microsoft 365 İş Temel (USD)
+## <a name="corrections-to-september-license-based-services-price-list-and-october-preview-for-microsoft-365-business-basic-usd"></a><a name="5"></a>eylül lisans tabanlı hizmetler fiyat listesi ve Microsoft 365 İş Temel ekim önizlemesi için düzeltmeler (USD)
 
 ### <a name="summary"></a>Özet
 
-Eylül fiyat listesi ve Ekim önizlemesinde, ABD doları olarak fiyat için Microsoft 365 İş Temel liste fiyatı vardı.
+eylül fiyat listesi ve ekim önizlemesi, USD 'de Microsoft 365 İş Temel için yanlış bir liste fiyatına sahipti.
 
 ### <a name="categories"></a>Kategoriler
 
 - Tarih: 2021-09-02
 - Teklifler/Pazarlar
 
-### <a name="impacted-audience"></a>Etkilene hedef kitle
+### <a name="impacted-audience"></a>Etkilenen hedef kitle
 
-Dolaylı sağlayıcılar ve doğrudan fatura iş ortakları, lisans tabanlı hizmetleri Bulut Çözümü Sağlayıcısı program.
+dolaylı sağlayıcılar ve doğrudan fatura ortakları Bulut Çözümü Sağlayıcısı programdaki lisans tabanlı hizmetleri deneyimidir.
 
 ### <a name="details"></a>Ayrıntılar
 
-1 Eylül 2021'de yayınlanan lisans tabanlı hizmetler için Eylül fiyat listesi ve Ekim önizlemesi, 1 Eylül 2021'de Microsoft 365 İş Temel. Düzeltilmiş fiyat listeleri 2 Eylül 2021'de yayımlandı. Bu yalnızca USD'i etkiler.
+1 eylül 2021 ' de gönderilen lisans tabanlı hizmetlere yönelik eylül fiyatı listesi ve ekim önizlemesi, Microsoft 365 İş Temel için yanlış bir liste fiyatına sahipti. Düzeltilen fiyat listeleri 2 Eylül 2021 ' de yayımlanmıştır. Bu yalnızca USD 'yi etkiler.
 
-Etkilene teklif şunları içerir:
+Etkilenen teklif şunları içerir:
 
-- Teklif Adı: Microsoft 365 İş Temel
-- Teklif Kimliği: bd938f12-058f-4927-bba3-ae36b1d2501c
-- Önceki: Liste Fiyatı = 2
-- Sonra: Liste Fiyatı = 4
+- teklif adı: Microsoft 365 İş Temel
+- Teklif KIMLIĞI: bd938f12-058F-4927-bba3-ae36b1d2501c
+- Önce: List Price = 2
+- Sonra: List Price = 4
 
 ### <a name="next-steps"></a>Sonraki adımlar
 
-ABD doları olarak lisanslı hizmetlere işlem yapan iş ortakları, düzeltilen fiyatı görmek için en son fiyat listesini indirmeli.
+ABD Doları içindeki lisanslı Hizmetleri Transact iş ortakları, düzeltilen fiyatı görmek için en son fiyat listesini indirmelidir.
 
 ________________
-## <a name="nigeria-and-thailand-are-now-microsoft-managed-countries"></a><a name="4-5"></a>Avrupa ve Afrika artık Microsoft tarafından yönetilen ülkelerdir
+## <a name="nigeria-and-thailand-are-now-microsoft-managed-countries"></a><a name="4-5"></a>Nijerya ve Tayland artık Microsoft tarafından yönetilen ülkelerle
 
 ### <a name="categories"></a>Kategoriler
 
@@ -430,22 +430,22 @@ ________________
 
 ### <a name="summary"></a>Özet
 
-Artık Avrupa ve Afrika, Microsoft tarafından yönetilen ülkelerdir.
+Nijerya ve Tayland artık Microsoft tarafından yönetilen ülkelerle.
 
-### <a name="impacted-audience"></a>Etkilene hedef kitle
+### <a name="impacted-audience"></a>Etkilenen hedef kitle
 
-İş ortakları, Afrika ve Afrika'da işlemde bulunmaktadır.
+Nijerya ve Tayland 'daki iş ortakları deneyimidir.
 
 ### <a name="details"></a>Ayrıntılar
 
-Ticari [market yayımcıları için vergi ayrıntılarına bakın.](../tax-details-marketplace.md)
+[Ticari Market yayımcıları Için vergi ayrıntılarına](../tax-details-marketplace.md)bakın.
 
 ### <a name="questions"></a>Sorular
 
-Bu teklifler hakkında daha fazla soru için lütfen ilgili toplulukları Yammer kontrol edin.
+bu teklifler hakkında daha fazla soru için lütfen ilgili Yammer topluluklarınızı kontrol edin.
 
 ________________
-## <a name="announcing-intune-per-device-for-enterprise-for-csp-partners"></a><a name="4"></a>CSP iş ortakları için cihaz başına Enterprise Intune'un açıklanma
+## <a name="announcing-intune-per-device-for-enterprise-for-csp-partners"></a><a name="4"></a>CSP iş ortakları için Enterprise ıntune cihaz başına duyurusu
 
 ### <a name="categories"></a>Kategoriler
 
@@ -454,109 +454,109 @@ ________________
 
 ### <a name="summary"></a>Özet
 
-1 Eylül'den itibaren yeni bir Cihaz başına Intune teklifi sunuyoruz.
+1 Eylül itibariyle sunulan yeni bir Intune cihaz başına teklif duyuruyoruz.
 
-### <a name="impacted-audience"></a>Etkilene hedef kitle
+### <a name="impacted-audience"></a>Etkilenen hedef kitle
 
-Bulut Çözümü Sağlayıcısı (CSP) programında işlem yapılan iş ortakları.
+Bulut Çözümü Sağlayıcısı (CSP) programında iş ortakları deneyimidir.
 
 ### <a name="details"></a>Ayrıntılar
 
-Microsoft Intune, hem fiziksel hem de sanal uç noktaları yönetmek ve güvenliğini sağlamak için kullanılan en kapsamlı birleşik uç nokta yönetim platformudur. Enterprise kuruluşlarının kimliği doğrulanmış bir kullanıcıya atanmış cihazları yönetmeye (örneğin, birden çok kimliği doğrulanmış kullanıcı tarafından kullanılmadığı) yardımcı olmak için yeni bir Intune cihaz başına teklifi sunuyoruz.
+Microsoft Intune, kuruluşunuzda hem fiziksel hem de sanal uç noktaların yönetilmesi ve güvenliğini sağlamak için en kapsamlı birleşik uç nokta yönetimi platformudur. Enterprise kuruluşların, kimliği doğrulanmış bir kullanıcıya atanan cihazları (yani birden çok kimliği doğrulanmış kullanıcı tarafından kullanılmayan) yönetmesine yardımcı olmak için yeni bir ıntune cihaz başına teklif duyuruyoruz.
 
-1 Eylül 2021'de kullanılabilen bu teklif, cihaz başına Intune'dan faydalanırken cihaz Azure Active Directory (Azure AD) ekler. Tamamen işlevsel ve hazır bir deneyimdir ve aşağıdaki hizmet planlarını içerir:
+1 Eylül 2021 ' de kullanılabilir olan bu teklif, Azure Active Directory (Azure AD) eklenirken cihaz başına Intune 'dan yararlanır. Bu, tamamen işlevsel bir deneyimdir ve aşağıdaki hizmet planlarını içerir:
 
-- Exchange Foundation
+- Exchange Kuruluşu
 - Microsoft Intune
-- Azure Active Directory için eğitim.
+- eğitim için Azure Active Directory.
 
-Microsoft iş ortaklarımızdan gelen geri bildirimlere dayanarak, cihaz başına Enterprise için Intune, cihaz başına satışa (cihaz + Windows + Intune) cihazın ömrünü kapsayan beş yıllık bir teklif olarak dahil edilecek şekilde oluşturulmuştur. Bu yeni teklif CSP'lere anlaşma yapılarını basitleştirme ve müşterilerine daha rekabetçi bir anlaşma sunması için yardımcı olacaktır.
+Microsoft iş ortaklarımızın geri bildirimlerine bağlı olarak, cihazın ömrünü kapsayacak beş yıllık bir teklif olarak cihaz başına bir satışa (cihaz + Windows + ıntune) dahil edilecek Enterprise için ıntune cihaz başına, oluşturulmuştur. Bu yeni teklif, CSP 'Lerin anlaşma yapılarını basitleştirmesine yardımcı olur ve müşterilerine daha rekabet sağlayan bir işlem sağlar.
 
-Yeni Cihaz başına Intune teklifiyle ilgili dikkat gerekenler:
+Yeni Intune cihaz başına teklifi hakkında notuna yönelik öğeler:
 
-- Bu bir SaaS Enterprise teklifidir ve Small & Medium Business (SMB) müşterileri için tasarlanmamaktadır.
-- Yalnızca CSP'ler için kullanılabilir ve Toplu Lisanslama veya Web Direct'te kullanılamaz.
-- Beş yıllık abonelik için maliyet 150 ABD dolarıdır (USD/ERP).
-- Teklif Kimliği: 5170ccfb-e95b-49a4-b7f3-31f631a356ba
-- Tek bir kimliği doğrulanmış kullanıcıya atanmış Windows cihazlar için hazır şekilde çalışır.
-- Teklif, Cihaz Tabanlı Koşullu Erişim'i içermez.  
+- bu bir SaaS Enterprise tekliftir ve küçük & orta ölçekli işletme (SMB) müşterileri için tasarlanmamıştır.
+- Yalnızca CSP 'Ler için kullanılabilir ve toplu lisanslama veya Web doğrudan için kullanılabilir değildir.
+- Beş yıllık bir abonelik için maliyet $150 (USD/ERP).
+- Teklif KIMLIĞI: 5170ccfb-e95b-49a4-b7f3-31f631a356ba
+- tek kimliği doğrulanmış bir kullanıcıya atanan Windows cihazların kullanıma hazır olarak çalışır.
+- Teklif, cihaz tabanlı koşullu erişim içermez.  
 
 ### <a name="questions"></a>Sorular
 
-Bu teklifler hakkında daha fazla soru için lütfen ilgili toplulukları Yammer kontrol edin.
+bu teklifler hakkında daha fazla soru için lütfen ilgili Yammer topluluklarınızı kontrol edin.
 
 _____________
 
-## <a name="key-updates-for-the-new-commerce-experience-for-cloud-solution-provider-csp-seat-based-offers"></a><a name="3"></a>Bulut Çözümü Sağlayıcısı (CSP) tabanlı tekliflere yeni ticaret deneyimi için önemli güncelleştirmeler
+## <a name="key-updates-for-the-new-commerce-experience-for-cloud-solution-provider-csp-seat-based-offers"></a><a name="3"></a>Bulut Çözümü Sağlayıcısı (CSP) için yeni ticari deneyim, bilgisayar tabanlı tekliflere yönelik temel güncelleştirmeler
 
 ### <a name="summary"></a>Özet
 
-19 Ağustos 2021'den itibaren açıklanmasıyla birlikte, Microsoft'un CSP seat tabanlı tekliflere ilişkin yeni ticaret deneyimine ilişkin önemli güncelleştirmeleri vardır.
+Microsoft, 19 Ağustos 2021 ' e varan bir adım olarak, CSP bilgisayar tabanlı tekliflere yönelik yeni ticari deneyim için önemli güncelleştirmeler içerir.
 
 ### <a name="categories"></a>Kategoriler
 
 - Tarih: 2021-09-01
 - Özellikler
 
-### <a name="impacted-audience"></a>Etkilene hedef kitle
+### <a name="impacted-audience"></a>Etkilenen hedef kitle
 
-CSP doğrudan fatura iş ortakları ve dolaylı sağlayıcıları ve dolaylı sağlayıcıları aracılığıyla kurumsal bayiler
+CSP doğrudan fatura ortakları ve dolaylı sağlayıcılar ve dolaylı sağlayıcılar aracılığıyla satıcılar
 
 ### <a name="details"></a>Ayrıntılar
 
-19 Ağustos 2021'de [Microsoft,](https://partner.microsoft.com/resources/detail/new-commerce-for-csp-seat-based-offers-pdf) Ekim 2021'de yapılacak olan yeni Microsoft 365, Dynamics 365, Power Platform ve Windows 365 kişilik yer tabanlı teklifler için ticari deneyimi duyurdu. Bu duyurunun bir sonraki adımları için, kuruma bu dönüşüme hazırlanmanıza yardımcı olmak için aşağıdaki önemli güncelleştirmeler vardır:
+[Microsoft,](https://partner.microsoft.com/resources/detail/new-commerce-for-csp-seat-based-offers-pdf) 19 ağustos 2021 ' de Microsoft 365, Dynamics 365, güç platformu ve Windows 365 için yeni ticaret deneyimi elde etdiğinin yanı sıra 2021 ekim 'e göre Bu duyuruya bir izleme olarak, kuruluşunuzun bu dönüştürmeye hazırlanmasına yardımcı olmak için aşağıdaki önemli güncelleştirmeleri sunuyoruz:
 
-- Tümleşik korumalı alan testi için yer tabanlı tekliflerin lansmanları
-- Eylül ayında gelecek CSP Q&çağrıları için anımsatıcı
-- Microsoft Ticari Teşvik programı
+- Tümleşik korumalı alan testi için bilgisayar tabanlı teklifleri başlatma
+- Önümüzdeki CSP Q&Eylül ayının anımsatıcıları
+- Microsoft ticaret teşvik programı
 
-#### <a name="launch-of-seat-based-offers-for-integrated-sandbox-testing"></a>Tümleşik korumalı alan testi için yer tabanlı tekliflerin başlatılması
+#### <a name="launch-of-seat-based-offers-for-integrated-sandbox-testing"></a>Tümleşik korumalı alan testleri için bilgisayar tabanlı tekliflerin başlatılması
 
-Microsoft, 1 Eylül 2021'den itibaren CSP programı için [](https://partner.microsoft.com/resources/detail/new-commerce-for-csp-seat-based-offers-pdf) yeni ticari deneyimde tümleşik korumalı alan testi için yer tabanlı teklifleri etkinleştirdi. [](/partner-center/develop/test-and-debug)
+1 Eylül 2021 ' de geçerli olan Microsoft, CSP programı için [Yeni ticaret deneyiminde](https://partner.microsoft.com/resources/detail/new-commerce-for-csp-seat-based-offers-pdf) [Tümleşik korumalı alan](/partner-center/develop/test-and-debug) testi için bilgisayar tabanlı teklifleri etkinleştirdi.
 
-CSP'Microsoft 365 Dynamics 365, Power Platform ve Windows 365 tekliflerinin yeni ticaret deneyimine ek olarak, yeni ticaret yolculuğumuza önemli bir kilometre taşı daha eksildi. Microsoft, iş ortaklarının CSP gelirlerini artırarak müşterilere daha fazla seçenek sağlamalarını sağlayan yeni iş fırsatlarına, ürün yeniliklerine, daha iyi araçlara ve erişime yatırımlar sunmaktadır. Ticari platformumuz gelişiyor ve iş ortaklarının ve müşterilerin dijital dönüşümde başarılı olması için sipariş ve abonelik yönetimi süreçlerimizi geliştiriyoruz.
+CSP 'de Microsoft 365, Dynamics 365, güç platformu ve Windows 365 tekliflerinin eklenmesi, yeni ticaret yolculuğumuza yönelik başka bir büyük kilometre taşdır. Microsoft, ürün yenilikleri, daha iyi araçlar ve iş ortaklarının CSP gelirini büyütmesini ve müşterilere daha fazla seçenek sağlamasını sağlayan yeni iş fırsatlarına erişim sağlar. İş ortaklarının ve müşterilerin dijital dönüşümle başarılı olmasını sağlamak için ticari platformumuzu geliştirdik ve sıralamayı ve abonelik yönetim süreçlerini kolaylaştırıyoruz.
 
-Korumalı alan test ortamına katılan iş ortakları, bu teklifler için önceden planlama, operasyonelleştirme ve teknik tümleştirmeye olanak sağlayan, yer tabanlı teklifler için yeni ticari deneyime erkenden görünürlük sağlayacaktır.
+Sandbox test ortamında yer alan iş ortakları, bu tekliflere yönelik daha fazla planlama, işlem yapma ve teknik tümleştirme sağlayan, bilgisayar tabanlı tekliflere yönelik yeni ticaret deneyiminden erken görünürlük sahibi olacaktır.
 
-Korumalı alan ortamına katılma, kuruma şunları sağlar:
+Korumalı alan ortamına katılmak, kuruluşunuzun şunları yapmasını sağlar:
 
-- Üretim ortamına dağıtmadan önce test ortamında API tümleştirmesi gerçekleştirme
-- Lansmandan önce yeni ticaret deneyimini faaliyete geçirmek için yeterli zaman elde edin
+- Üretimde dağıtım yapmadan önce bir test ortamında API Tümleştirmesi gerçekleştirme
+- Başlamadan önce yeni ticaret deneyimini gerçekleştirmek için yeterli zaman vardır
 
-Tabloda tümleşik korumalı alan test ortamında bulunan temel özelliklerin bir özeti yer alır:
+Tablo, tümleşik korumalı alan test ortamında kullanılabilen temel özelliklerin bir özetini sağlar:
 
-| İş ortağı/müşteri yönetici ayrıcalıkları için temsilci ayarlama | Kısmi alt yükseltme–tam özellik |
+| İş ortağı/müşteri tarafından atanan yönetici ayrıcalıkları ayarı | Kısmi alt yükseltme – tam Özellik |
 | ----------- | ---------------|
 | 1 katmanlı, 2 katmanlı modeller | Destek aracılığıyla kısmi abonelik yükseltmesi |
-| Geçerli ve yeni deneyimi yan yana bulma | Yenilemede zamanlanmış değişiklikler  |
-| Modern'i keşfetme ve satın alma (ürünleri seçme) | Askıya alma/sürdürme (destek yoluyla) |
-| Aboneliği yönetme (otomatik yenileme iki durumlu düğme, yer ekleme, hareket iptal etme) | Ücretsiz denemeler (yalnızca MAC sunum) |
+| Geçerli ve yeni deneyimin yan yana keşfi | Yenileme sırasında zamanlanan değişiklikler  |
+| Modern bulma ve satın alma (ürünleri seçme) | Askıya al/özgeçmişi (Destek aracılığıyla) |
+| Aboneliği Yönet (otomatik yenileme geçiş, bilgisayar ekleme, hareketi iptal etme) | Ücretsiz Denemeler (yalnızca MAC presentment) |
 | Bağımsız eklentiler  | İş ortağı para birimi |
-| Faturalama planları | Fiyat saydamlığı  |
-| Abonelik yaşam döngüsü yönetimi (yetkisiz kullanım süresi) | Birden çok yıllık teklifler için yıllık faturalama planları  |
-| Sahiplik kısıtlamaları | Askıya alma/sürdürme (self servis aracılığıyla)  |
-| Fatura/mutabakat dosyaları | Tam miktar SKU geçişleri için otomatik olarak yeniden yer ataması |
-| Orta vadeli tam miktar SKU yükseltmeleri | Ücretsiz deneme (tam sunum ile) |
-| İptal ilkesi zorlaması: 30 gün sonra 30 günlük iptali engelle (genel kullanılabilirlik süresi 72 saat olarak değişir) |  |
+| Faturalandırma planları | Fiyat saydamlığı  |
+| Abonelik yaşam döngüsü yönetimi (yetkisiz kullanım süresi) | Multi-Year teklifleri için yıllık faturalandırma planları  |
+| Sahiplik kısıtlamaları | Askıya al/özgeçmişi (kendi kendine servis aracılığıyla)  |
+| Fatura/keşfi dosyaları | Tam miktar SKU geçişleri için otomatik yeniden atama |
+| Orta dönem tam miktar SKU yükseltmeleri | Ücretsiz deneme (tam presentment ile) |
+| İptal İlkesi zorlaması: 30 günlük blok 30 gün sonra iptal (genel kullanıma yönelik olarak 72 saat olarak değişir) |  |
 |
 
-#### <a name="reminder-for-upcoming-csp-qa-calls-in-september"></a>Eylül ayında gelecek CSP Q&çağrıları için anımsatıcı
+#### <a name="reminder-for-upcoming-csp-qa-calls-in-september"></a>Önümüzdeki CSP Q&Eylül ayının anımsatıcıları
 
-Microsoft 365, Dynamics 365, Power Platform ve Windows 365 için yeni ticaret deneyimi hakkında bilgi edinmek ve ekim 2021'de gelecek geniş harekete ilişkin 365 kişilik yer tabanlı teklifler hakkında bilgi edinmek ve sorular sormak için 15 Eylül ve 16 Eylül'de gelecek [CSP Q&A](https://globalpbocomm.eventbuilder.com/GlobalCSP) Community Çağrılarına kaydolun. CSP Community Soru&A çağrıları, CSP doğrudan fatura ve dolaylı iş ortaklarına CSP başlatmaları ve yaklaşan değişikliklerle ilgili sorular konusunda yardımcı olmak için ayrılmıştır. Size kolaylık olması için topluluk koleksiyonları iş [](https://partner.microsoft.com/resources/assets/#/?prog=CSP%7CCSP-Direct%7CCSP-Indirect-Partner&type=collection&search=community%20collection%202021&sort=updated) ortağı hazırlığı galerisinde daha önce sağlanır ve burada Soru-Cevap çağrısında ele alınacak malzemeleri&edinebilirsiniz.
+yakında sunulan [CSP Q Community&](https://globalpbocomm.eventbuilder.com/GlobalCSP) için kaydolun ve Microsoft 365, Dynamics 365, güç platformu ve Windows 365 ' 2021 de yeni ticaret deneyimi hakkında bilgi edinmek ve adım adım ' de yer alan hareket için. csp Community Q&bir çağrı csp doğrudan fatura ve dolaylı iş ortakları csp tarafından başlatılan ve yaklaşan değişikliklerle ilgili soruları içeren bir çağrı için ayrılmıştır. Size kolaylık olması için, topluluk koleksiyonları [iş ortağı hazırlık galerisinde](https://partner.microsoft.com/resources/assets/#/?prog=CSP%7CCSP-Direct%7CCSP-Indirect-Partner&type=collection&search=community%20collection%202021&sort=updated) kullanıma sunulmuştur. bu noktada, soru&bir çağrıda ele alınacaktır.
 
-CSP TemelLeri çağrılarına katılmak ve/veya geçmiş kayıtları bulmak için [CSP temelleri kaydına bakın.](https://globalpbocomm.eventbuilder.com/CSPFundamentals)
+CSP temel çağrılarının geçmiş kayıtlarını bulmak ve/veya daha fazla bilgi almak istiyorsanız, [CSP temelleri kaydına](https://globalpbocomm.eventbuilder.com/CSPFundamentals)bakın.
 
-#### <a name="microsoft-commerce-incentive-program"></a>Microsoft Ticari Teşvik programı
+#### <a name="microsoft-commerce-incentive-program"></a>Microsoft ticaret teşvik programı
 
-1 Eylül 2021'de Microsoft, iş ortağı teşvik programının ekim ayında kullanılabilir olması evrimi kapsamındaki sonraki adımlarla ilgili iş ortaklarını bilgilendirdi. Bu iletişimin iki temel bileşeni, FY22 teşvikleri kılavuzları ve bu kılavuzda geliştirilen gelişmiş teşvikler deneyimi hakkında bilgi İş Ortağı Merkezi.
+Microsoft, 1 Eylül 2021 ' de, iş ortağı teşvik programının gelişiminde Ekim ayında kullanılabilmesi için bir sonraki adım iş ortakları olduğunu bildirdi. Bu iletişimin iki birincil bileşeni, FY22 teşvikleri kılavuzlar ve Iş Ortağı Merkezi 'nde geliştirilen Gelişmiş teşvikleri deneyimiyle ilgili bilgiler olacaktır.
 
-- **Geliştirilmiş iş ortağı deneyimi**  İş ortaklarının kullanılabilirliği için Ekim 2018'in başlarında microsoft, iş ortaklarının satın alma hareketlerinde ve müşteri yaşam döngüsünün aşamalarında teşvik kazanmaları için merkezi bir hedef olacak İş Ortağı Merkezi'daki tek bir katılım ve etkinlik platformuna yatırım yapmakta.
+- **Geliştirilmiş iş ortağı deneyimi**  Microsoft, iş ortakları için kullanıma hazır kullanım için hedefleyerek iş ortağı merkezi 'nde tek bir katılım ve etkinlik platformunda müşteri yaşam döngüsünün satın alınması ve aşamaları boyunca teşvikleri kazanmak için merkezi bir hedef sağlar.
 
-- **Teşviklere yeni yaklaşım**  Yeni teşvik ve yatırım teklifleri, yeni Microsoft Commerce Incentives eklenecektir. Microsoft, iş ortağı deneyimini basitleştirme çabası kapsamında teşvik programı kılavuzlarını şirket içinde barındırılan tek bir belgede İş Ortağı Merkezi.
+- **Teşvikleri Için yeni yaklaşım**  Yeni teşvik ve yatırım teklifleri, Microsoft Commerce teşvikleri programına eklenmeye devam edecektir. İş ortağı deneyimini basitleştirecek çabayla birlikte, Microsoft, teşvik programı kılavuzlarını Iş Ortağı Merkezi 'nde barındırılan tek bir belge halinde birleştirecek.
 
 ### <a name="next-steps"></a>Sonraki adımlar
 
-#### <a name="launch-of-seat-based-offers-for-integrated-sandbox-testing"></a>Tümleşik korumalı alan testi için yer tabanlı tekliflerin başlatılması
+#### <a name="launch-of-seat-based-offers-for-integrated-sandbox-testing"></a>Tümleşik korumalı alan testleri için bilgisayar tabanlı tekliflerin başlatılması
 
 - Kuruluşunuz tümleşik bir korumalı alan ortamı sağladıysa hiçbir işlem yapmanız gerekmez. Kuruluşunuzda tümleşik bir korumalı alan ortamı yoksa, bir tane oluşturmak için aşağıdaki [adımları](/partner-center/develop/indirect-provider-sandbox-capabilities) izleyin.
 - özellikler, iş kuralları ve yayın için adım adım yönergeler hakkında daha fazla bilgi edinmek için yeni ticaret deneyiminde Microsoft 365, Dynamics 365, güç platformu ve Windows 365 [CSP işletim kılavuzunu](https://partner.microsoft.com/resources/detail/operating-guide-new-commerce-experience-for-csp-seat-based-offers-pdf) gözden geçirin. Düzenli aralıklarla güncelleştirilecektir, işletim kılavuzunu düzenli olarak denetleyin.
