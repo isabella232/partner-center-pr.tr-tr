@@ -5,3 +5,10 @@
     - name: Duyurular
       tocHref: /partner-center/announcements/
       topicHref: /partner-center/announcements/
+- name: İş Ortağı Merkezi Belgeleri
+  tocHref: /partner-center/
+  topicHref: /partner-center/index
+  items:
+    - name: Market teklifleri
+      tocHref: /azure/marketplace/
+      topicHref: /azure/marketplace/

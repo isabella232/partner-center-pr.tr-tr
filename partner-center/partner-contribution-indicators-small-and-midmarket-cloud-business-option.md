@@ -14,7 +14,7 @@ ms.sourcegitcommit: fb9ca808f6362e81d65a6ba5770dc8820834a0ed
 ms.translationtype: MT
 ms.contentlocale: tr-TR
 ms.lasthandoff: 09/24/2021
-ms.locfileid: "128370232"
+ms.locfileid: "128422409"
 ---
 # <a name="use-partner-contribution-indicators-to-attain-the-small-and-midmarket-cloud-solutions-competency"></a>Küçük ve Orta Ölçekli Piyasa Bulut Çözümleri yetkinliğine ulaşmak için İş Ortağı Katkısı Göstergelerini kullanın
 
@@ -261,10 +261,10 @@ Yeni dağıtımlar bir [müşteri başarısı göstergesidir](partner-contributi
 - Aylık etkin kullanıcılar her ayın sonunda hesaplanır.
 
 - İş ortakları, abonelik düzeyindeki kiracılar ile ilişkilendirilir. Abonelikler aşağıdaki uygun ürünlerle eşlenmiş:
-  - Dynamics 365 Customer Engagement'a uygun ürünler şunlardır: Satış, Pazarlama, Müşteri Hizmetleri, Saha Hizmeti, Project sunucusu, Plan 1, Otomasyon, Pazarlama, Microsoft İlişki Satışları
+  - Dynamics 365 Customer Engagement uygun ürünler şunlardır: Satış, Pazarlama, Müşteri Hizmetleri, Saha Hizmeti, Project sunucusu, Plan 1, Otomasyon, Pazarlama, Microsoft İlişki Satışları
   - Finans ve Operasyona uygun ürünler şunlardır: Business Central, Capacity and Depolama, Finance and Operations (Sahtekarlık koruması, operasyonlar, perakende, İk, plan 2), karma gerçeklik, Ekip Üyesi
 
-### <a name="definitions-for-pci-metric-6---monthly-active-user-growth"></a>PCI ölçüm hesabı tanımları #6 - Aylık etkin kullanıcı büyümesi
+### <a name="definitions-for-pci-metric-6---monthly-active-user-growth"></a>PCI ölçüm tanımı tanımları #6 - Aylık etkin kullanıcı büyümesi
 
 Aylık etkin kullanıcı büyümesi, müşteri [başarısının göstergesidir.](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#pci-scoring-based-on-six-key-indicators) Bu göstergenin noktaları, bu uzmanlık için aşağıdaki gibi hesaplanır:
 
