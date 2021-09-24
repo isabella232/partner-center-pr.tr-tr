@@ -1,5 +1,5 @@
 ---
-title: IOT İş Ortakları için Bağlan Satış Temsilcisinden (PSC) geçiş
+title: IOT İş Ortakları Bağlan İş Ortağı SatışLarı'dan (PSC) geçiş
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-referrals
@@ -10,23 +10,23 @@ ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 07/07/2021
 ms.openlocfilehash: 2b05046118c83c0d398272da68054a8a0c9c48e4
-ms.sourcegitcommit: 23ba623b50b06c866703fd876f1b40f3a49ce504
+ms.sourcegitcommit: fceaca54b0ec695cf214209c09b4516e1b40866a
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/22/2021
-ms.locfileid: "128074640"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "128359474"
 ---
 # <a name="guide-to-create-and-manage-iot-deals-in-partner-center-pc-for-iot-partners-migrating-from-partner-sales-connect-psc"></a>İş Ortağı Satış anlaşmasından (PSC) geçen IOT iş ortakları için İş Ortağı Merkezi (PC) içinde IOT anlaşmaları oluşturma ve yönetme Bağlan kılavuzu
 
 **Uygun roller:** Hesap yöneticisi | Referans yöneticisi | İş Ortağı Bağlan (PSC) satıcısı | İş Ortağı Bağlan (PSC) yönetici | İş Ortağı Bağlan (PSC) anlaşma yöneticisi
 
-Bu makalede, iş ortağı satış anlaşmalarını oluşturma ve yönetmeye devam etmek için İş Ortağı Satışları Bağlan'den (PSC) İş Ortağı Merkezi'ye (PC) İş Ortağı Merkezi.
+Bu makale, iş ortağı satış anlaşmaları oluşturma ve yönetmeye devam etmek için İş Ortağı Satışları Bağlan'den (PSC) İş Ortağı Merkezi'ye (PC) İş Ortağı Merkezi.
 
 >[!Note]
 > Bu kılavuz yalnızca **anlaşmalarını PSC'de yöneten IOT** iş ortakları için geçerlidir.
 
 >[!Important]
-> 15 Ağustos 2021'den itibaren, şirketiniz PSC'de anlaşma oluşturabilecek veya anlaşmaları düzenleyemez. **PSC'de toplu dışarı aktarma özelliğini kullanarak mevcut anlaşma verilerini indirmeye devam edersiniz. Açık anlaşmaları [PSC'den bu](partner-sales-connect-to-partner-center-iot.md#psc-deals-migration) tarihten sonra İş Ortağı Merkezi da geçirsiniz.**
+> 15 Ağustos 2021'den itibaren, şirketiniz PSC'de anlaşma oluşturabilecek veya anlaşmaları düzenleyemez. **PSC'de toplu dışarı aktarma özelliğini kullanarak mevcut anlaşma verilerini indirmeye devam edersiniz. Ayrıca bu [tarihten sonra açık anlaşmaları](partner-sales-connect-to-partner-center-iot.md#psc-deals-migration) PSC'den İş Ortağı Merkezi geçiş de silirsiniz.**
 
 Bildiğiniz gibi, **şirketiniz 30 Ağustos 2021'den sonra PSC'ye erişimi kaybeder.** Ancak anlaşma oluşturma ve yönetme gibi tüm İş Ortağı Merkezi yine de bulabilirsiniz.
 
@@ -36,16 +36,16 @@ Ancak farklar da vardır. Aşağıdaki kılavuz, geçiş sürecinizin daha sorun
 
 ### <a name="if-you-are-a-psc-admin"></a>PSC yöneticisiyseniz
 
-- İş Ortağı Merkezi.'de oturum a açması için bir [iş e-postası gerekir.](https://partner.microsoft.com/)
+- İş Ortağı Merkezi'da oturum a açması için bir iş [e-postası gerekir.](https://partner.microsoft.com/)
 - Hesap yöneticisinin yardımıyla İş Ortağı Merkezi [ayarlayın.](permissions-overview.md)
 - Bu belgeyi okuyarak IOT anlaşmalarını İş Ortağı Merkezi yönetmeyi öğrenin.
 - Tüm PSC kullanıcılarınız (İş Ortağı Merkezi, Satış yöneticisi ve Satıcı rolleri) için hesaplarda kullanıcı hesapları ayarlayın ve referans yöneticisi veya referans kullanıcı [rolleri atfı gerçekleştirin.](permissions-overview.md)
 
 ### <a name="if-you-are-a-psc-deal-manager-or-seller"></a>PSC satış yöneticisi veya satıcıysanız
 
-- İş Ortağı Merkezi panosunda oturum a İş Ortağı Merkezi [gerekir.](https://partner.microsoft.com/dashboard)
+- Panoda oturum alasınız için bir iş e-İş Ortağı Merkezi [gerekir.](https://partner.microsoft.com/dashboard)
 - PSC'de iş dışı bir hesap kullanıyorsanız veya iş e-postanız iş ortağı şirketten farklı bir şirkete yönelikse, hesap ayarlama yardımı için PSC yöneticinize ulaşın.
-- PSC'de oturum a İş Ortağı Merkezi hesap ne olursa olsun, hesap ayarlama işleminin tamam olup İş Ortağı Merkezi PSC yöneticinize sorun.
+- PSC'de oturum a İş Ortağı Merkezi hesap ne olursa olsun, hesap ayarlama işleminin tamamlandıktan sonra PSC yöneticinize sorun.
 - İş Ortağı Merkezi ve Referanslar bölümüne erişiminizin olduğunu doğrulayın.
 - İş akışlarını ve iş akışlarında yapılan değişiklikleri anlamak için bu İş Ortağı Merkezi.
 
@@ -54,7 +54,7 @@ Ancak farklar da vardır. Aşağıdaki kılavuz, geçiş sürecinizin daha sorun
 Sol İş Ortağı Merkezi menüsünden Referanslar **seçeneğini** belirleyin. Ortak satış fırsatları sayfasına erişebilirsiniz.
 
   >[!Note]
-  > Referanslar sayfalarına erişmek İş Ortağı Merkezi kimlik bilgilerinizi yenilemek için oturum açma ve oturum açma işlemlerinizi yeniden imzalamanız gerekir.
+  > Referanslar sayfalarına erişim İş Ortağı Merkezi kimlik bilgilerinizi yenilemek için oturum açma ve oturum açma işlemlerinizi yeniden gerçekleştirebilirsiniz.
 
 İş Ortağı Merkezi menüsünde veya Referanslarla ilgili sayfalarda Referanslar seçeneğini görmüyorsanız, şirketin hesap yöneticisine [](permissions-overview.md) başvurarak Referanslar seçeneğine ve  ilgili alana erişmenizi istemelerini sorun. 
 
@@ -73,7 +73,7 @@ Sol İş Ortağı Merkezi menüsünden Referanslar **seçeneğini** belirleyin. 
 >[!Important]
 >- Rolünüz yalnızca PSC'de kullanıcıları yönetmeyi içeriyorsa, şirketinizin hesap [](permissions-overview.md#manage-mpn-membership-and-your-company) yöneticisinin size şirket ilkesine göre İş Ortağı Merkezi yönetici rolünü atamasını sorun.
 >- Rolünüz iot anlaşmalarını yönetmeyi de içerirse, referans yöneticisine veya referans kullanıcı rolüne uygun [şekilde atanmalarını](permissions-overview.md#manage-referrals) iste.
-> - PSC yöneticileri arasında bir değişiklik yönetimi adayı da göstermeniz iyi bir fikirdir. Bunu yapmak, tüm PSC yöneticilerinin hesap yöneticilerine tek tek İş Ortağı Merkezi engel olur. Bunun yerine değişiklik yönetimi müşteri adayı, hesap yöneticisiyle İş Ortağı Merkezi kişi olabilir.
+> - PSC yöneticileri arasında bir değişiklik yönetimi adayı da göstermeniz iyi bir fikirdir. Bunu yapmak, tüm PSC yöneticilerinin hesap yöneticilerine tek tek İş Ortağı Merkezi engel olur. Bunun yerine, değişiklik yönetimi müşteri adayı daha sonra hesap yöneticisiyle İş Ortağı Merkezi kişi olabilir.
 
 ## <a name="user-migration"></a>Kullanıcı geçişi
 
@@ -92,8 +92,8 @@ Kullanıcı geçiş tablosunda aşağıdaki ayrıntılar yer alır:
 - PSC iş ortağı hesabı - Çalışanın PSC'de ilişkili olduğu hesap
 - PSC kullanıcı rolü - PSC'de atanan üç rolden biri.
 - PC MPN konumu - Kullanıcıya ilgili rol (PC) İş Ortağı Merkezi verilecek konum. PSC iş ortağı hesabı MPN'i, izin atamak için İş Ortağı Merkezi MPN konumunu bulmak için kullanılır. Kuruluşun tamamı vOrg MPN kimliğini ifade ediyor.
-- BILGISAYAR kullanıcı rolü - Çalışanlara PSC kullanıcı rollerine göre roller atanır. PSC'de yöneticiye, yönetici rolünde Referans yöneticisi İş Ortağı Merkezi. Satıcıya kaynaklarda referans kullanıcı rolü İş Ortağı Merkezi. Şirket rollerini İş Ortağı Merkezi ve bu rollere sahip kullanıcıların neler yapaları hakkında daha fazla bilgi edinmek için Şu konuda daha fazla bilgi [İş Ortağı Merkezi.](permissions-overview.md#manage-referrals)
-- PC AAD Kiracısı - Microsoft Azure Active Directory 'de kullanıcıların atandığı kiracı (Azure AD) İş Ortağı Merkezi
+- BILGISAYAR kullanıcı rolü - Çalışanlara PSC kullanıcı rollerine göre roller atanır. PSC'de yöneticiye, yönetici rolünde Referans yöneticisi İş Ortağı Merkezi. Satışcıya kaynaklarda referans kullanıcı rolü İş Ortağı Merkezi. Şirket rollerini İş Ortağı Merkezi ve bu rollere sahip kullanıcıların neler yapaları hakkında daha fazla bilgi edinmek için Şirket'te çalışmak zorunda olan kullanıcıların rollerini ve [izinlerini İş Ortağı Merkezi.](permissions-overview.md#manage-referrals)
+- PC AAD Kiracısı - Microsoft Azure Active Directory 'de kullanıcıların atandığı İş Ortağı Merkezi
 - Durum - Geçişin durumu için üç olası durum vardır
     - **Geçirilmez** - Kullanıcıya herhangi bir İş Ortağı Merkezi referans rolü atanmamış
     - **Geçirildi** - Kullanıcı tabloda gösterildiği gibi ilgili rol atanmış şekilde başarıyla geçirildi
@@ -115,7 +115,7 @@ Bazen geçiş başarısız olabilir ve hatalara neden olabilir. Geçişin hataya
       Genel yönetici, Azure AD kiracınız içinde yeni bir kullanıcı hesabı oluşturabilir veya diğer etki alanı hesabı kullanıcılarına konuk kullanıcı erişimi atayabilirsiniz. Tüm PSC anlaşma yöneticileri ve kullanıcıları için hesaplar ayarlanmaz, İş Ortağı Merkezi'da oturum açmaları, sol gezinti menüsünden Referanslar'ı seçmeleri ve Referanslar sayfasını görene kadar onayları gerekir. 
 
 3. Kullanıcının zaten bu rolde atanmış bir referans İş Ortağı Merkezi.
-    - Kullanıcının mevcut rolünü doğrularsanız. Uygulamanın sağ üst köşesinde, İş Ortağı Merkezi **(dişli simgesi) Ayarlar'yi** ve ardından Hesap **ayarları'ı seçin.** İkinci bir sol gezinti menüsü gördüğünüzde Kullanıcı **yönetimi'ni seçin** ve kullanıcı için arama yapabilirsiniz.
+    - Kullanıcının mevcut rolünü doğrularsanız. Uygulamanın sağ üst köşesinde **İş Ortağı Merkezi'Ayarlar** simgesini ve ardından Hesap **ayarları'ı seçin.** İkinci bir sol gezinti menüsü gördüğünüzde Kullanıcı **yönetimi'ni seçin** ve kullanıcı için arama yapabilirsiniz.
 
 ## <a name="psc-deals-migration"></a>PSC Anlaşmaları geçişi
 
@@ -125,11 +125,11 @@ Anlaşma geçişini başlatmadan önce bu bölümü okuyun.
 
 **Geçiş için uygun**
 
-Yalnızca bazı anlaşmalar PSC'den İş Ortağı Merkezi. Bu geçiş sihirbazı, iş ortaklarının anlaşmalarını anlaşmaları İş Ortağı Merkezi müşterileri ile etkin bir şekilde çalışarak anlaşmaları kapatmalarına yardımcı olmak için oluşturulur. **Yalnızca geçerli iş ortağı hesabı ayrıntılarıyla (geçerli MPN Kimliği) 1 Ocak 2020'den itibaren oluşturulan açık durumdaki anlaşmalar geçiş için uygundur.**
+PSC'den İş Ortağı Merkezi'a geçiş için yalnızca bazı İş Ortağı Merkezi. Bu geçiş sihirbazı, iş ortaklarının anlaşmalarını anlaşmaları İş Ortağı Merkezi müşterileri ile etkin bir şekilde çalışarak anlaşmaları kapatmalarına yardımcı olmak için oluşturulur. **Yalnızca geçerli iş ortağı hesabı ayrıntılarıyla (geçerli MPN Kimliği) 1 Ocak 2020'den itibaren oluşturulan açık durumdaki anlaşmalar geçiş için uygundur.**
 
 ## <a name="pre-requisites-for-deal-migration"></a>Anlaşma geçişi için önkullar
 
-İş Ortağı Merkezi'den anlaşma geçişini başlatmadan önce, başarılı bir geçiş için PSC'de anlaşmaları ayarlamak için aşağıdaki yönergeleri izleyin.
+İş Ortağı Merkezi'dan anlaşma geçişini başlatmadan önce, başarılı bir geçiş için PSC'de anlaşmaları ayarlamak için aşağıdaki yönergeleri izleyin.
 
 - Şirketinizin açık anlaşmalar üzerinde çalışan tüm satış ekibi üyeleri bu geçiş hakkında bilgi sahibidir.
 - Satış ekibi üyeleri, anlaşma yönetimi için İş Ortağı Merkezi üzere eğitildi.
@@ -144,7 +144,7 @@ Yalnızca bazı anlaşmalar PSC'den İş Ortağı Merkezi. Bu geçiş sihirbazı
 PsC'de toplu indirme ve karşıya yükleme özelliklerini kullanarak tüm uygun anlaşmaların anlaşmada eksik olan tüm ayrıntılarını indirebilirsiniz.
 
 >[!Note]
-> Yukarıdaki önkullar karşılanmazsa bile anlaşma geçişi başarılı olur. Ancak, yukarıdaki belirtilen gerekli alanlardan herhangi biri kullanılabilir durumda değilse İş Ortağı Merkezi değiştiremezsiniz. Ardından, üzerinde çalışmaya başlamak için anlaşmalarda eksik olan tüm İş Ortağı Merkezi bilgileri girmeniz gerekir. **PsC'de uygun anlaşmaları, İş Ortağı Merkezi'a İş Ortağı Merkezi.**
+> Yukarıdaki önkullar karşılanmazsa bile anlaşma geçişi başarılı olur. Ancak, yukarıdaki belirtilen gerekli alanlardan herhangi biri kullanılabilir durumda değilse İş Ortağı Merkezi değiştiremezsiniz. Ardından, üzerinde çalışmaya başlamak için anlaşmalarda eksik olan tüm İş Ortağı Merkezi bilgileri girmeniz gerekir. **PsC'de uygun anlaşmaları, iş anlaşmalarına başlamadan önce temizlemeniz İş Ortağı Merkezi.**
 
 Geçiş anlaşması İş Ortağı Merkezi tek tıklama deneyimi olarak yerleşiktir. Tek gereken, şirket uygun anlaşmaları geçirmek için hazır olduğunda **"Anlaşmaları geçir"** düğmesine tıklamaktır. **PSC'den geçirmek istediğiniz anlaşmaları seçesiniz. Geçişe herhangi bir anlaşma İş Ortağı Merkezi, geçişe başlamadan önce bunları PSC'de kapalı durumuna taşımanız gerekir.**
 
@@ -173,7 +173,7 @@ Tüm anlaşmalar başarıyla geçirildiktan sonra , **"Anlaşmaları geçir"** d
 ## <a name="next-steps"></a>Sonraki adımlar
 
 IOT anlaşmaları oluşturma ve yönetme hakkında bilgi İş Ortağı Merkezi.
-Bu önemli bir adımdır ve bu adım, IOT anlaşma yönetimi için hazırlık İş Ortağı Merkezi. Anlaşmaları etkili bir şekilde oluştur İş Ortağı Merkezi yönetebilirsiniz. Bu belgeyi tamamen okuyarak başlayabilirsiniz.
+Bu önemli bir adımdır ve bu adım, IOT anlaşma yönetimi için hazırlık İş Ortağı Merkezi. Anlaşmaları etkili bir şekilde oluşturmak ve yönetmek İş Ortağı Merkezi iş akışlarını ve iş akışlarını anlama. Bu belgeyi tamamen okuyarak başlayabilirsiniz.
 
 ## <a name="differences-between-psc-and-pc-workflows"></a>PSC ile PC iş akışları arasındaki farklar
 
@@ -193,7 +193,7 @@ Aşağıdaki bölümlerde geçişle ilgili sık sorulan sorular yanıtlanmaktad�
 
 Atanmış rolleri almak için "Erişim yok" sayfasında listelenen yöneticilerinize başvurabilirsiniz. Referanslar bölümünde [okuma ve](permissions-overview.md#manage-referrals) yazma izni için referans yöneticisi rolüne ihtiyacınız olacak. Yalnızca iş profillerini yönetiyorsanız, iş profili yöneticisi rolünüz İş Ortağı Merkezi.
 
-:::image type="content" source="images/pscmigration/noaccess.png" alt-text="Veri erişim yok deneyimini gösteren İş Ortağı Merkezi.":::
+:::image type="content" source="images/pscmigration/noaccess.png" alt-text="İş Ortağı Merkezi'da erişim yok deneyimini gösteren görüntü.":::
 
 ### <a name="2---who-can-grant-me-access-to-the-referrals-section-in-partner-center"></a>2 - Who bölümündeki Referanslar bölümüne erişim izni İş Ortağı Merkezi?
 

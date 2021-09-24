@@ -1,66 +1,66 @@
 ---
-title: Cep telefonu operatörü faturalaması - Microsoft Store
-description: Bu Microsoft Store, bu özelliği destekleyen cep telefonu operatörleri için ödeme yöntemi olarak Mobil Operatör Faturalaması sunar.
+title: Mobil operatör faturalama-Microsoft Store
+description: Microsoft Store, bu özelliği destekleyen mobil operatörler için bir ödeme yöntemi olarak mobil operatör faturalandırmasını sunmaktadır.
 ms.date: 04/01/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-payouts
 ms.topic: article
 ms.author: hickeys
 author: hickeys
-keywords: windows 10, uwp, mobil operatörler, mobil faturalama, mobil operatör faturalaması
+keywords: Windows 10, UWP, mobil işleçler, mobil faturalama, mobil operatör faturalama
 ms.localizationpriority: medium
 ms.openlocfilehash: 7fab4915273fa611d0bb0b9115926ce84521a509
-ms.sourcegitcommit: 5abf065c8852a858a0aa7185176d3e117f2be7e5
+ms.sourcegitcommit: fceaca54b0ec695cf214209c09b4516e1b40866a
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/18/2021
-ms.locfileid: "127958843"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "128359491"
 ---
 # <a name="mobile-operator-billing"></a>Cep telefonu operatörü faturalaması
 
-**Uygun roller:** Genel yönetici
+**Uygun roller**: genel yönetici
 
 > [!NOTE]
-> Ödeme hesaplarını yapılandırma, eksik ödeme, ödemeleri askıya alma veya başka bir şey gibi ödemelerle ilgili destek arıyorsanız geliştirici desteğine [Windows başvurun.](https://developer.microsoft.com/windows/support)
+> ödeme hesaplarını yapılandırma, ödemeler eksik ödeme, ödemeler alma veya başka bir şey yapma dahil olmak üzere ödeme işlemlerine yönelik destek arıyorsanız [Windows geliştirici desteğiyle](https://developer.microsoft.com/windows/support)görüşün.
 
-Bu Microsoft Store, Windows 10, Windows 10 Mobile çalıştıran telefonlar ve konsolları çalıştıran cihazlar için bir Xbox One yöntemi olarak mobil Xbox One sunar. Müşterinin cep telefonu operatörü bu özelliği destekliyorsa, müşteri ödeme yöntemi olarak cep telefonu operatörü faturalaması ekleyebilir ve mobil hesabını kullanarak Mağaza satın almaları yapmak için bunu kullanabilir.
+Microsoft Store, mobil operatör faturalandırmasını, Windows 10 çalıştıran cihazlar, Windows 10 Mobile çalıştıran telefonlar ve Xbox One konsolları için ödeme yöntemi olarak sunar. Müşterinin mobil işletmeni bu özelliği destekliyorsa, müşteri mobil operatör faturalandırmasını bir ödeme yöntemi olarak ekleyebilir ve mağaza satın alımlarını mobil hesabını kullanarak oluşturabilir.
 
 > [!TIP]
-> Müşterinin cep telefonu operatörü cep telefonu operatörü faturalaması sunuyorsa ama müşteri cihazında bu seçeneği bulamıyorsa şu adımları gözden [geçirebilirsiniz.](https://support.microsoft.com/instantanswers/b25d6dd6-fb8b-3710-1e13-4d30eb01b51f)
+> Müşterinin mobil işletmeni mobil operatör faturalandırmasını sunuyorsa, ancak müşteri bu seçeneği cihazında bulamazsa, bu [adımları](https://support.microsoft.com/instantanswers/b25d6dd6-fb8b-3710-1e13-4d30eb01b51f)gözden geçirin.
 
-Bu ödeme yönteminin kullanılabilirliğini genişletmek için cep telefonu operatörleriyle düzenli olarak çalışıyoruz. Cep telefonu operatörüne aşağıda listelenmiş olarak görmenizi önermek için bu cep telefonu operatörüyle iletişime geçin ve bu ödeme yöntemini eklemelerini talep edin.
+Bu ödeme yönteminin kullanılabilirliğini genişletmek için mobil işleçlerle düzenli olarak çalışıyoruz. Aşağıda listelenmediğiniz bir mobil operatör önermek isterseniz, bu mobil operatör ile iletişim kurun ve bu ödeme yöntemini eklemesini isteyin.
 
-## <a name="operators-that-support-mobile-operator-billing"></a>Cep telefonu operatörü faturalamayı destekleyen işleçler
+## <a name="operators-that-support-mobile-operator-billing"></a>Mobil operatör faturalandırmasını destekleyen operatörler
 
-Aşağıdaki cep telefonu operatörleri şu anda cep telefonu operatörü faturalamayı desteklemektedir.
+Aşağıdaki mobil işleçler Şu anda mobil operatör faturalandırmasını desteklemektedir.
 
 | Ülke/bölge       | Mobil işleçler                                        |
 |----------------------|---------------------------------------------------------|
 | Avustralya            | Optus                                                   |
-| Avusturya              | A1 Telekom, Sonachison 3G Almanya, T-Mobile / tele.ring  |
-| Belçika              | Base, Proximus                                          |
+| Avusturya              | A1 Telekok, Hutchison 3G Avusturya, T-Mobile/tele. ring  |
+| Belçika              | Temel, Proximus                                          |
 | Kanada               | Telus                                                   |
-| Çekya              | T-Mobile, Vodafone, O2                                  |
-| Danimarka              | 3, TDC / YouSee, Telenor, Telia                         |
+| Czechia              | T-Mobile, Vodadfone, O2                                  |
+| Danimarka              | 3, TDC/YouSee, Telenor, Telia                         |
 | Finlandiya              | DNA, Elisa                                              |
 | Fransa               | Orange                                                  |
-| Almanya              | O2, Telekom Deutschland, Vodafone                       |
+| Almanya              | O2, TelekomDeutschland, Vodada                       |
 | Macaristan              | Telenor                                                 |
-| İtalya                | Vodafon, Wind, Vodafone                                     |
-| Güney Kore                | SK Telecom                                              |
-| Malezya             | Digi                                                    |
-| Hollanda          | KPN / Telelo, Vodafone                                 |
-| Norveç               | Telenor / Daha fazla konuşma, Telia / OneCall                     |
-| Polonya               | Orange, Play, T-Mobile                                  |
+| İtalya                | Tre, Rüzgar, Vodadfone                                     |
+| Güney Kore                | SK telekomünikasyon                                              |
+| Malezya             | Çalıştırıldığı                                                    |
+| Hollanda          | KPN/Telfort, Vodadfone                                 |
+| Norveç               | Telenor/konuş, Telia/OneCall                     |
+| Polonya               | Turuncu, oyun, T-mobil                                  |
 | Suudi Arabistan         | STC                                                     |
-| Singapur            | M1 Limited, StarHub                                     |
-| Slovakya             | Slovakça Telekom                                          |
-| Güney Afrika         | Vodacom                                                 |
+| Singapur            | M1 sınırlı, StarHub                                     |
+| Slovakya             | Slovak Telekod                                          |
+| Güney Afrika         | Vodadcom                                                 |
 | İspanya                | Orange                                                  |
 | İsveç               | 3, Telenor                                              |
-| İsviçre          | İsviçre, İsviçre                                       |
-| Tayvan               | FarEasYırı                                              |
-| Türkiye               | Tek hücre                                                |
-| Birleşik Arap Emirlikleri | Etalat                                                |
+| İsviçre          | Güneş, Swisscom                                       |
+| Tayvan               | FarEasTone                                              |
+| Türkiye               | Turk hücresi                                                |
+| Birleşik Arap Emirlikleri | Etisalat                                                |
 | Birleşik Devletler        | Sprint, Verizon                                         |
-| Birleşik Krallık       | Üç Birleşik Krallık, EE, O2, Vodafone                                 |
+| Birleşik Krallık       | üç UK, EE, O2, vodavfone                                 |

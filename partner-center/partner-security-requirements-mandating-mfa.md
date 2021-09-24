@@ -10,15 +10,15 @@ ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
 ms.openlocfilehash: 9778e58aed008eb710fbf2037062bdaa48deb2ad
-ms.sourcegitcommit: eeb81ccb888239a0e8fbe4711de3ce07f3b00358
+ms.sourcegitcommit: fceaca54b0ec695cf214209c09b4516e1b40866a
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/23/2021
-ms.locfileid: "128316389"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "128359457"
 ---
 # <a name="mandating-multi-factor-authentication-mfa-for-your-partner-tenant"></a>İş ortağı kiracınız için çok faktörlü kimlik doğrulamasını (MFA) mandating
 
-**Uygun roller:** Yönetici aracısı | Satış aracısı | Yardım masası aracısı | Faturalama yöneticisi | Genel yönetici
+**Uygun roller:** Yönetici aracısı | Satış aracısı | Yardım masası aracı | Faturalama yöneticisi | Genel yönetici
 
 Bu makalede, çok faktörlü kimlik doğrulamasını (MFA) iş birliğinde yönlendirmeye yönelik ayrıntılı örnekler ve İş Ortağı Merkezi. Bu özelliğin amacı, iş ortaklarının kimlik bilgilerinin tehlikeye atarak müşteri kaynaklarına erişiminin güvenliğini sağlamalarına yardımcı olmaktır. İş ortaklarının, konuk kullanıcılar da dahil olmak üzere iş ortağı kiracılarında tüm kullanıcı hesapları için MFA'nın uygulanması gerekir. Kullanıcıların aşağıdaki alanlar için MFA doğrulamayı tamamlamaları zorunlu tutulacak:
 
@@ -67,7 +67,7 @@ Doğrulamanın panoda nasıl çalıştığını İş Ortağı Merkezi aşağıda
 
 1. Trent, CSP Wingtip için çalışır. Wingtip, kimlik federasyonu aracılığıyla Azure AD ile tümleştirilmiş üçüncü taraf MFA kullanarak Wingtip iş ortağı kiracısı altındaki tüm kullanıcıları için MFA'ya sahip oldu.
 
-2. Trent yeni bir tarayıcı oturumu başlatır ve İş Ortağı Merkezi panosuna genel bakış sayfasına (MFA korumalı değildir) gidin. İş Ortağı Merkezi için Trent'i Azure AD'ye yeniden yönlendirin.
+2. Trent yeni bir tarayıcı oturumu başlatır ve İş Ortağı Merkezi panoya genel bakış sayfasına (MFA korumalı değildir) gidin. İş Ortağı Merkezi için Trent'i Azure AD'ye yeniden yönlendirin.
 
 3. Wingtip kimlik federasyonu kurulumuna sahip olduğu için Azure AD, Oturum açma ve MFA doğrulamasını tamamlamak için Trent'i federasyon kimlik sağlayıcısına yeniden yönlendirmektedir. Başarılı oturum açma ve MFA doğrulamasının ardından, Trent Azure AD'ye geri ve ardından panoya İş Ortağı Merkezi sayfasına yeniden yönlendirildi.
 
@@ -94,12 +94,12 @@ Doğrulamanın panoda nasıl çalıştığını İş Ortağı Merkezi aşağıda
 
 İş Ortağı Merkezi API'si hem Yalnızca uygulama kimlik doğrulamasını hem de App+User kimlik doğrulamasını destekler. 
 
-Uygulama+Kullanıcı kimlik doğrulaması kullanılırken, İş Ortağı Merkezi MFA doğrulaması gerektirir. Daha açık olarak, bir iş ortağı uygulaması İş Ortağı Merkezi API isteği göndermek istiyorsa, isteğin Yetkilendirme üst bilgisinde bir erişim belirteci içermesi gerekir. 
+Uygulama+Kullanıcı kimlik doğrulaması kullanılırken, İş Ortağı Merkezi MFA doğrulaması gerekir. Daha açık olarak, bir iş ortağı uygulama İş Ortağı Merkezi API isteği göndermek istiyorsa, isteğin Yetkilendirme üst bilgisinde bir erişim belirteci içermesi gerekir. 
 
 > [!NOTE]
->Güvenli Uygulama Modeli [çerçevesi,](/partner-center/develop/enable-secure-app-model) İş Ortağı Merkezi API'leri çağrılırken Microsoft Azure MFA mimarisi aracılığıyla CSP iş ortaklarının ve CPU'İş Ortağı Merkezi ölçeklenebilir bir çerçevedir. Kiracınız üzerinde MFA'ya etkinleştirmeden önce bu çerçeveyi uygulamanız gerekir. 
+>Güvenli Uygulama Modeli [çerçevesi,](/partner-center/develop/enable-secure-app-model) Microsoft Azure API'leri çağıran MFA mimarisi aracılığıyla CSP iş ortaklarının ve CPU'İş Ortağı Merkezi ölçeklenebilir bir çerçevedir. Kiracınız üzerinde MFA'ya etkinleştirmeden önce bu çerçeveyi uygulamanız gerekir. 
 
-Bu İş Ortağı Merkezi App+User kimlik doğrulaması kullanılarak alınan erişim belirteci ile bir API isteği aldığında, İş Ortağı Merkezi API'si Kimlik Doğrulama Yöntemi Başvurusu *(AMR)* talepte *MFA* değerinin varlığını kontrol eder. Bir erişim belirtecin beklenen kimlik doğrulama yöntemi başvurusu (AMR) değerini içerdiğini doğrulamak için bir JWT kod çözücüsü kullanabilirsiniz:
+İş Ortağı Merkezi+Kullanıcı kimlik doğrulaması kullanılarak alınan erişim belirteci ile bir API isteği aldığında, İş Ortağı Merkezi API'si Kimlik Doğrulama Yöntemi Başvurusu *(AMR)* talepte *MFA* değerinin varlığını kontrol eder. Bir erişim belirtecin beklenen kimlik doğrulama yöntemi başvurusu (AMR) değerini içerdiğini doğrulamak için bir JWT kod çözücüsü kullanabilirsiniz:
 
 ``` csharp
 {
@@ -139,7 +139,7 @@ WWW-Authenticate: Bearer error="invalid_token"
 Date: Thu, 14 Feb 2019 21:54:58 GMT
 ```
 
-Kimlik App-Only, kimlik doğrulamasını destekleyen API'App-Only MFA gerektirmeden sürekli olarak çalışmaya devam ediyor olur.
+Kimlik App-Only, kimlik doğrulamasını destekleyen API'App-Only MFA gerektirmeden sürekli olarak çalışmaya devam ediyor.
 
 ## <a name="partner-delegated-administration"></a>İş Ortağı Temsilci Yönetimi
 

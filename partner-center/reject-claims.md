@@ -9,11 +9,11 @@ ms.topic: article
 ms.localizationpriority: medium
 ms.date: 10/29/2020
 ms.openlocfilehash: 7f1d21aa673ef3921f92fb0b0eb50e05a1868cce
-ms.sourcegitcommit: eeb81ccb888239a0e8fbe4711de3ce07f3b00358
+ms.sourcegitcommit: fb9ca808f6362e81d65a6ba5770dc8820834a0ed
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/23/2021
-ms.locfileid: "128312440"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "128367136"
 ---
 # <a name="rejected-co-op-claims"></a>Reddedilen ortak op talepleri
 **Uygun roller**: teşvikleri admin | Teşvikleri kullanıcısı

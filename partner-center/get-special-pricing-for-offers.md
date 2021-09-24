@@ -13,8 +13,8 @@ ms.openlocfilehash: ac0004b2197aca7c161216726361c946ebe86775
 ms.sourcegitcommit: fceaca54b0ec695cf214209c09b4516e1b40866a
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/23/2021
-ms.locfileid: "128322481"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "128366110"
 ---
 # <a name="sell-to-specialized-industries-like-education-non-profit-and-government-users"></a>Eğitim, kar amacı gütmeyen kuruluş ve kamu kullanıcıları gibi özelleştirilmiş sektörlere satış yapma
 
@@ -59,7 +59,7 @@ Siz ve müşteriniz özel bir teklif programı için uygun olduktan sonra, abone
 İş ortakları müşterilere yalnızca belirli ölçütlere uyan özel teklifleri satabilir.
 
 - Eğitim teklifleri yalnızca Müşteri bir Eğitim kurumu olarak yetkilendirilmişse satın alınabilir. Eğitim müşterisi yalnızca Eğitim ve Ticari teklifleri alsa da Kar amacı gütmeyen veya Kamu topluluk bulutu (GCC).
-- İş ortakları yalnızca GCC müşteriler için GCC satın alınabilir. Müşteri bir GCC aboneliğine sahip olduktan sonra iş ortakları ticari, eğitim veya kar amacı gütmeyen abonelik satın alamayacak.
+- İş ortakları yalnızca GCC müşteriler için GCC satın alınabilir. Müşterinin bir abonelik GCC iş ortakları ticari, eğitim veya kar amacı gütmeyen abonelik satın alamayacak.
 - İş ortakları yalnızca kar amacı gütmeyen müşteriler için ticari veya kar amacı gütmeyen abonelikler satın alınabilir. İş ortakları kar amacı GCC müşteriler için eğitim abonelikleri satın aamaz.
 - Eyalete Ait Varlıklar Uygunluk [ölçütlerini karşılamalı.](https://www.microsoft.com/legal/compliance/anticorruption/criteria)
 

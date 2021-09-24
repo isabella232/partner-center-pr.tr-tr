@@ -10,11 +10,11 @@ ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
 ms.openlocfilehash: 0521c7fde81663b9eb7cd89344ee2432e8a1ea31
-ms.sourcegitcommit: fceaca54b0ec695cf214209c09b4516e1b40866a
+ms.sourcegitcommit: fb9ca808f6362e81d65a6ba5770dc8820834a0ed
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/23/2021
-ms.locfileid: "128322429"
+ms.lasthandoff: 09/24/2021
+ms.locfileid: "128369382"
 ---
 # <a name="how-and-when-to-request-a-credit-from-microsoft"></a>Microsoft 'tan kredi isteme
 
@@ -136,4 +136,4 @@ Takip tablosu yaygın hizmet kısaltmalarını açıklar:
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-- [Müşterinizin adına sorunları bildirin](report-problems-on-behalf-of-a-customer.md)
+- [Sorunları müşteriniz adına bildirme](report-problems-on-behalf-of-a-customer.md)

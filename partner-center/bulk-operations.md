@@ -14,7 +14,7 @@ ms.sourcegitcommit: fceaca54b0ec695cf214209c09b4516e1b40866a
 ms.translationtype: MT
 ms.contentlocale: tr-TR
 ms.lasthandoff: 09/23/2021
-ms.locfileid: "128322428"
+ms.locfileid: "128326427"
 ---
 # <a name="bulk-operations-for-co-sell-opportunities-using-comma-separated-value-csv-files"></a>Virgülle ayrılmış değer (CSV) dosyaları kullanan ortak satış fırsatları için toplu işlemler
 
@@ -101,24 +101,24 @@ Katılım KIMLIĞI|Yes|Katılım KIMLIĞI, Microsoft Iş Ortağı Merkezi başvu
 Referans kimliği|Yes|Başvuru KIMLIĞI, Microsoft Iş Ortağı Merkezi başvuruları sistemi tarafından oluşturulur. Yeni başvuru oluşturma için gerekli değildir. Mevcut bir kaydı güncelleştiriyorsanız, bunu referans KIMLIĞIYLE doldurabilirsiniz.|ebacdkdc-0b84-4ac4-B4EA-5b2587d42cee
 Anlaşma adı|Yes|Başvurunuz için anlaşma için kolay ad.|UK yay
 Müşteri Adı|Yes|Müşteri şirketinin adı. Microsoft tarafında hızlı eşleştirme için kuruluşun yasal adını kullanın.|Contoso Corporation
-Müşteri adresi satırı 1|Yes|Müşteri şirketinin Adres satırı 1. |Tek contoso yöntemi
-Müşteri adresi satırı 2|No|Müşteri şirketinin Adres satırı 2.|NE 148 Caddesi
-Müşteri şehri|Yes|Müşteri kuruluşunun bulunduğu şehir.|Redmond
-Müşteri durumu|No|Müşteri kuruluşunun bulunduğu eyalet.|Washington
-Müşteri posta kodu|No|Müşteri kuruluşunun bulunduğu bölgenin posta kodu.|98052
-Müşteri ülkesi|Yes|Müşteri kuruluşunun bulunduğu ülke/bölge. Bu [Ülke kodları listesinde](https://en.wikipedia.org/wiki/List_of_ISO_3166_country_codes), Iki harfli *Alfa-2 kodunu* kullanın.|ABD
-Müşteri D-U-N-S KIMLIĞI|No|Müşteri kuruluşunun DÇALıŞTıRAL KIMLIĞINI getirmeye çalışın. Bu, daha hızlı satıcı atamasına yardımcı olan Microsoft tarafında müşteri kuruluşunun daha hızlı eşleştirmesine yardımcı olur. [D-U-N-S numara arama SAYFASıNDAN](https://www.dnb.com/duns-number/lookup.html)DELLER kimliğini ücretsiz olarak edinebilirsiniz.|81466849
-Müşterinin kişi adı soyadı|Şekline|İlk adı yalnızca Microsoft Yardım 'a ihtiyacınız varsa zorunludur. Müşteri kuruluşundan bu anlaşma üzerinde çalışan birincil kişinin adı.|John
-Müşterinin kişi adı soyadı|Şekline|Soyadı yalnızca Microsoft Yardım gerekirse zorunludur. Bu anlaşma üzerinde çalışan müşteri kuruluşundan birincil kişinin soyadı.|Müşteri
-müşteri iletişim Telefon numarası|Şekline|Telefon numarası yalnızca Microsoft yardım gerekirse zorunludur. bu işlem sırasında çalışan müşteri kuruluşundaki birincil ilgili kişinin Telefon numarası.|9999999999
-Müşteri Iletişim e-posta adresi|Şekline|E-posta adresi yalnızca Microsoft Yardım 'a ihtiyacınız varsa zorunludur. Bu anlaşma üzerinde çalışan müşteri kuruluşundan birincil kişinin e-posta adresi.|john.customer@contoso.com
-İş ortağı başvuru durumu|Yes|Şirketinizin perspektifinden ilgili durumunu gösterir. Bir başvuruyu oluşturmaya veya değiştirmeye çalışıyorsanız gereklidir. Yeni bir anlaşma oluşturmaya çalışıyorsanız **Yeni** ' ye kullanın. Kullanabileceğiniz değerler [başvuru kaynaklarında](/partner/develop/referral-resources#referralstatus)listelenmiştir.|Etkin
-İş ortağı başvurusu alt durumu|Yes|İşlem durumunun tam durumunu gösterir. Yeni bir anlaşma oluşturmaya çalışıyorsanız **kabul edildi** ' i kullanın. Mevcut bir başvuruyu değiştiriyorsanız de gereklidir. Kullanabileceğiniz değerler [başvuru kaynaklarında](/partner/develop/referral-resources#referralsubstatus)listelenmiştir.|Kabul edildi
-Microsoft başvuru durumu|Şekline|Microsoft arama yardımı 'na gönderdiğiniz ortak satış isteğinin durumunu gösterir. Bu salt okunurdur. Verilerin içeri aktarılması sırasında bu alanda yapılan herhangi bir değişiklik yok sayılır.| Beklemede
-Reddedilen/kayıp nedeni|Şekline| Bu bilgileri yalnızca, alanın alt durumunu reddedilmiş veya kayıp olarak değiştiriyorsanız sağlamanız gerekir. Bu sütunu, aksi takdirde yoksayabilirsiniz. <br/> **Aşağıdaki seçeneklere göre bir sayı girin** <br/><br/> **1**-Project bütçe yeterli değil  <br/> **2**-müşteri yanıt vermedi  <br/> **3**-müşteri başka bir satıcı seçti  <br/> **4** -müşteri gereksinimi karşılanmadı  <br/> **5** -müşteri değil <br/> **6**-önerilen zaman satırı çok kısa <br/> **7** -kötüye kullanma, istenmeyen posta veya kimlik avı olarak raporla <br/> **8** -diğerleri |6|
-Satış Aşaması|No|Bu, başvurunun ayrıntılı satış aşamasını belirten alandır. Satış aşamaları hakkında daha fazla bilgi edinmek için [Iş Ortağı Merkezi 'nde ortak satış fırsatlarını yönetin](./manage-co-sell-opportunities.md)|40
-Tahmini anlaşma değeri|Yes|Müşteriyle ilk konuşmaları temel alan işlem değeri. Bu, bu durum, işlem, **kazanılan** veya kaybolan Terminal durumlarından birine ulaştığında değiştirilebilir **.**|12563
-Para Birimi|Yes|Anlaşma değerinin girildiği para birimi. Para birimi kodlarını [ıso 4217 vican sayfasında](https://en.wikipedia.org/wiki/ISO_4217)bulabilirsiniz.|USD
+Müşteri Adres Satırı 1|Yes|Müşteri şirketinin 1. satırına adresle. |Tek Contoso Yolu
+Müşteri Adres Satırı 2|No|Müşteri şirketinin 2. adres satırı.|NE 148 sokağı
+Customer City|Yes|Müşteri kuruluşlarının bulunduğu şehir.|Redmond
+Müşteri Durumu|No|Müşteri kuruluşlarının bulunduğu yeri ifade.|Washington
+Müşteri Posta Kodu|No|Müşteri kuruluşlarının bulunduğu bölgenin Posta Kodu.|98052
+Müşteri Ülkesi|Yes|Müşteri kuruluşlarının bulunduğu Ülke/Bölge. Ülke kodları listesinde *iki harfli Alfa-2* [kodunu kullanın.](https://en.wikipedia.org/wiki/List_of_ISO_3166_country_codes)|ABD
+Müşteri D-U-N-S Kimliği|No|Müşteri kuruluşlarının DUNS kimliğini getirmeye çalışma. Bu, Microsoft tarafında müşteri kuruluşlarının daha hızlı eşleşmesi için yardımcı olur ve bu da satıcı atamalarının daha hızlı tamamlansa da yardımcı olur. [D-U-N-S](https://www.dnb.com/duns-number/lookup.html)Numarası Arama sayfasından DUNS ID ÜCRETSİZ elde edebilirsiniz.|81466849
+Müşteri Kişisi Adı|-Sına bağ -lıdır|Ad yalnızca Microsoft yardıma ihtiyacınız varsa zorunludur. Bu anlaşma üzerinde çalışan müşteri kuruluşundan birincil ilgili kişinin adı.|John
+Müşteri Kişisi Soyadı|-Sına bağ -lıdır|Soyadı yalnızca Microsoft yardıma ihtiyacınız varsa zorunludur. Bu anlaşma üzerinde çalışan müşteri kuruluşundan birincil ilgili kişinin soyadı.|Müşteri
+Müşteri İletişim Telefon numarası|-Sına bağ -lıdır|Telefon numarası yalnızca Microsoft yardıma ihtiyacınız varsa zorunludur. Telefon satış anlaşması üzerinde çalışan müşteri kuruluşundan birincil ilgili kişinin numarasını girin.|9999999999
+Müşteri İletişim e-posta Adresi|-Sına bağ -lıdır|E-posta adresi yalnızca Microsoft yardıma ihtiyacınız varsa zorunludur. Bu anlaşma üzerinde çalışan müşteri kuruluşundan birincil ilgili kişinin e-posta adresi.|john.customer@contoso.com
+İş Ortağı Referans Durumu|Yes|Şirketin bakış açısından anlaşma durumunu gösterir. Bir referans oluşturmak veya değiştirmek için çalışıyorsanız gereklidir. Yeni **bir** satış anlaşması oluşturmak için Yeni'leri kullanın. Kullanabileceğiniz değerler Referans [kaynakları'nda listelenir.](/partner/develop/referral-resources#referralstatus)|Etkin
+İş Ortağı Referansı Alt İstatistikleri|Yes|Anlaşmanın tam durumunu gösterir. Yeni bir satış anlaşması oluşturmak için **Accepted** kullanın. Mevcut bir referansı değiştirirken de gereklidir. Kullanabileceğiniz değerler Referans [kaynakları'nda listelenir.](/partner/develop/referral-resources#referralsubstatus)|Kabul edildi
+Microsoft Referans Durumu|-Sına bağ -lıdır|Yardım almak için Microsoft'a gönderdiğiniz ortak satış isteğinin durumunu gösterir. Bu salt okunur bir alandır. Veriler içeri aktarılırken bu alanda yapılan tüm değişiklik yoksayılır.| Beklemede
+Reddedildi/Neden kaybedildi|-Sına bağ -lıdır| Bu bilgileri yalnızca alanınıza ilişkin alt durumu Reddedildi veya Kayıp olarak değiştirerek sağlamanız gerekir. Aksi takdirde bu sütunu yoksayabilirsiniz. <br/> **Aşağıdaki seçeneklere göre bir sayı girin** <br/><br/> **1**- Project bütçe yeterli değil  <br/> **2**- Müşteri yanıt vermedi  <br/> **3**- Müşteri başka bir satıcı seçti  <br/> **4** - Müşteri gereksinimi karşılanmaz  <br/> **5** - Müşteri değil <br/> **6**- Önerilen zaman çizgisi çok kısa <br/> **7** - Kötüye kullanım, istenmeyen posta veya kimlik avı olarak bildirme <br/> **8** - Diğer |6|
+Satış Aşaması|No|Bu, referans için ayrıntılı satış aşamalarını gösteren alandır. Satış aşamaları hakkında daha fazla bilgi için [şu makaleyi okuyun:](./manage-co-sell-opportunities.md) İş Ortağı Merkezi|40
+Tahmini Satış Değeri|Yes|Müşteriyle yapılan ilk konuşmaları temel alan satış anlaşması değeri. Anlaşma kazanildi veya kaybedildi terminal durumlarından biri olana kadar bu **değiştirilebilir.** |12563
+Para Birimi|Yes|Anlaşma değerinin girilir olduğu para birimi. Para birimi kodlarını [ISO 4217 Wikipedia sayfasında bulabilirsiniz.](https://en.wikipedia.org/wiki/ISO_4217)|USD
 Tahmini Kapatma Tarihi|Yes|AA/D/YYYY biçiminde müşteriyle yapılan ilk konuşmaları temel alarak satış anlaşması tahmini kapanış tarihi. <br/> **Tarih UTC saat diliminde olmalıdır. Kullanıcı arabiriminde görüntülenen İş Ortağı Merkezi tarihler yerelleştirilmiş saat dilimlerini temel almaktadır. UTC saat diliminde tarihi temin edilen referansa bakıyorsanız kullanıcı arabiriminde +/- bir gün fark İş Ortağı Merkezi olabilir.**|1/30/2020
 CRM Kimliği|No|Varsa CRM sisteminize bu referansı tanımlayıcı. Bu, serbest biçimli bir metin girişi alanıdır.|34234324-sdfsdf-345345-sfd
 Pazarlama Kampanyası Kimliği|No|Bu alan, pazarlama kampanyasının bu referansla sonuçlanmasına neden olduğunu gösterir. Genellikle yatırım getiri hesaplaması için kullanılır|BingSummer2020
