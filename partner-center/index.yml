@@ -1,100 +1,206 @@
-### YamlMime:Landing
-title: İş Ortağı Merkezi Belgeleri
-summary: Microsoft İş Ortağı Ağı (MPN), Bulut Çözümü Sağlayıcısı (CSP) programı ve daha fazlasıyla işinizi İş Ortağı Merkezi'nde büyütün.
+### YamlMime:Hub
+title: İş Ortağı Merkezi belgeleri
+summary: 'Microsoft İş Ortağı Ağı (MPN), Bulut Çözümü Sağlayıcısı (CSP) programı ve daha fazlasıyla işinizi İş Ortağı Merkezi''nde büyütün.'
 metadata:
   title: İş Ortağı Merkezi belgeleri
-  description: Microsoft İş Ortağı Ağı (MPN), Bulut Çözümü Sağlayıcısı (CSP) programı ve daha fazlasıyla işinizi İş Ortağı Merkezi'nde büyütün.
-  ms.service: partner-dashboard
-  ms.topic: landing-page
-  author: JasonGroce
+  description: 'İş Ortağı Merkezi , Microsoft İş Ortağı Ağı (MPN), Bulut Çözümü Sağlayıcısı (CSP) programı, Ticari Market programı ve daha fazlası aracılığıyla işlerinizi büyüttükleriniziz yerdir.'
+  services: service
   ms.author: jasongroce
-  ms.date: 02/01/2021
-  ms.openlocfilehash: efc7956295944a40a9574c7678da8ef20cd04fd9
-  ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
-  ms.translationtype: MT
-  ms.contentlocale: tr-TR
-  ms.lasthandoff: 09/13/2021
-  ms.locfileid: "126249667"
-landingContent:
-- title: İş Ortağı Merkezi'ni kullanmaya başlama
-  linkLists:
-  - linkListType: get-started
-    links:
-    - text: İş Ortağı Merkezi nedir?
+  ms.date: 09/01/2021
+highlightedContent:
+  items:
+    - title: İş Ortağı Merkezi
+      itemType: get-started
       url: overview.md
-    - text: İş Ortağı Merkezi duyuruları
-      url: announcements/index.md
-    - text: Microsoft ile iş ortaklığı yapma
-      url: mpn-overview.md
-    - text: İş Ortağı Merkezi hesabı oluşturma
+    - title: Microsoft İş Ortağı Ağı
+      itemType: get-started
       url: mpn-create-a-partner-center-account.md
-    - text: MPN üyelik avantajlarınızı ve tekliflerinizi yönetme
-      url: manage-your-partner-network-benefits.md
-- title: İşlerinizi büyütme
-  linkLists:
-  - linkListType: concept
-    links:
-    - text: Müşterilerinizle bağlantı kurma
-      url: connect-with-your-customers.md
-    - text: Bulut Çözümü Sağlayıcısı (CSP) programı
-      url: csp-overview.md
-    - text: Müşteri referansları alma
-      url: manage-leads.md
-    - text: Teşvikler programları
-      url: incentives-get-started-intro.md
-    - text: Ortak satış fırsatlarını yönetme
-      url: manage-co-sell-opportunities.md
-    - text: Gelişmiş uzmanlaşma kazanma
-      url: advanced-specializations.md
-- title: Temel kavramlar ve görevler
-  linkLists:
-  - linkListType: concept
-    links:
-    - text: Microsoft Iş ortağı sözleşmesi 'Ni kabul edin
-      url: microsoft-partner-agreement.md
-    - text: İş Ortağı Merkezi güvenlik gereksinimleri
-      url: partner-security-requirements.md
-    - text: İş profili oluşturma
-      url: create-a-marketing-profile.md
-    - text: Azure planına giriş
-      url: azure-plan-lp.md
-    - text: Microsoft’tan destek alma
-      url: support-from-microsoft.md
-    - text: Microsoft 365 Lighthouse hakkında bilgi edinin
-      url: /microsoft-365/lighthouse/m365-lighthouse-overview
-    - text: Azure ışıklı kullanımı hakkında bilgi edinin
-      url: /azure/lighthouse/overview
-  - linkListType: how-to-guide
-    links:
-    - text: MPN hesap konumlarınızı yönetme
-      url: manage-locations.md
-    - text: MPN tekliflerinizi yenileme
-      url: renew-mpn-offers.md
-    - text: MPN avantajlarınızı bulma
-      url: mpn-find-benefits.md
-    - text: Rolünüzü bulma
-      url: find-your-role.md
-- title: Hesaplar ve faturalandırma
-  linkLists:
-  - linkListType: how-to-guide
-    links:
-    - text: İş Ortağı Merkezi hesabınızı yönetme
-      url: partner-center-account-setup.md
-    - text: Kullanıcılara rol ve izin atama
-      url: permissions-overview.md
-    - text: Fatura temel bilgileri
-      url: billing-basics.md
-    - text: Ödeme hesabınızı ve vergi formlarınızı ayarlama
-      url: set-up-your-payout-account.md
-    - text: Faturanızı anlama
-      url: read-your-bill.md
-- title: Ticari markette (ISV'ler) satış yapma
-  linkLists:
-  - linkListType: concept
-    links:
-    - text: Ticari market belgeleri
-      url: /azure/marketplace
-    - text: Microsoft ticari market nedir?
-      url: /azure/marketplace/overview
-    - text: Yayımlama seçeneklerinizi belirleme
-      url: /azure/marketplace/determine-your-listing-type
+    - title: Bulut Çözümü Sağlayıcısı
+      itemType: get-started
+      url: enrolling-in-the-csp-program.md
+    - title: Ticari Market
+      itemType: get-started
+      url: /azure/marketplace/
+conceptualContent:
+  items:
+    - title: Kaydetme
+      links:
+        - url: mpn-create-a-partner-center-account.md
+          itemType: overview
+          text: Microsoft İş Ortağı Ağı
+        - url: csp-overview.md
+          itemType: how-to-guide
+          text: Bulut Çözümü Sağlayıcısı (CSP) gereksinimleri
+        - url: enrolling-in-the-csp-program.md
+          itemType: how-to-guide
+          text: Dolaylı veya doğrudan CSP
+      footerLink:
+        url: enrolling-in-the-csp-program.md
+        text: Daha fazla göster
+    - title: Üyelik
+      links:
+        - url: mpn-overview.md
+          itemType: overview
+          text: Genel Bakış
+        - url: mpn-create-a-partner-center-account.md
+          itemType: how-to-guide
+          text: MPN hesabı oluşturma
+        - url: mpn-get-action-pack.md
+          itemType: get-started
+          text: Teklif Eylem Paketi satın alma
+      footerLink:
+        url: mpn-benefits-map-competency-learning-option-enroll.md
+        text: Daha fazla göster
+    - title: Avantajlar
+      links:
+        - url: manage-your-partner-network-benefits.md
+          itemType: overview
+          text: Genel Bakış
+        - url: benefits-faq.yml
+          itemType: concept
+          text: Avantajlar hakkında SSS'ler
+        - url: mpn-find-benefits.md
+          itemType: how-to-guide
+          text: Avantajları bulma
+      footerLink:
+        url: renew-mpn-offers.md
+        text: Daha fazla göster
+    - title: Referanslar
+      links:
+        - url: referrals.md
+          itemType: overview
+          text: Genel Bakış
+        - url: grow-your-business.md
+          itemType: how-to-guide
+          text: Müşteri adaylarını al
+        - url: manage-leads.md
+          itemType: how-to-guide
+          text: Müşteri adaylarını yönetme
+      footerLink:
+        url: register-deals.md
+        text: Daha fazla göster
+    - title: Müşteriler
+      links:
+        - url: connect-with-your-customers.md
+          itemType: overview
+          text: Genel Bakış
+        - url: find-a-partner.md
+          itemType: how-to-guide
+          text: İş ortağı veya çözüm sağlayıcısı bulma
+        - url: see-your-customer-list.md
+          itemType: how-to-guide
+          text: Müşteri listenizi görüntüleme
+      footerLink:
+        url: request-a-relationship-with-a-customer.md
+        text: Daha fazla göster
+    - title: Faturalandırma
+      links:
+        - url: billing.md
+          itemType: overview
+          text: Genel Bakış
+        - url: read-your-bill.md
+          itemType: concept
+          text: Faturanızı anlama
+        - url: use-the-reconciliation-files.md
+          itemType: tutorial
+          text: Mutabakat dosyalarını kullanma
+      footerLink:
+        url: billing.md
+        text: Daha fazla göster
+    - title: Fiyatlandırma
+      links:
+        - url: pricing-and-offers.md
+          itemType: overview
+          text: Genel Bakış
+        - url: partner-earned-credit.md
+          itemType: concept
+          text: İş ortağı tarafından kazanılan kredi
+        - url: promotions.md
+          itemType: how-to-guide
+          text: Promosyonları kullanma
+      footerLink:
+        url: csp-commercial-marketplace-overview.md
+        text: Daha fazla göster
+    - title: Teşvikler
+      links:
+        - url: incentives-get-started-intro.md
+          itemType: overview
+          text: Genel Bakış
+        - url: incentives-enroll.md
+          itemType: get-started
+          text: Teşviklere kaydolma
+        - url: chip-intro.md
+          itemType: concept
+          text: CHIP nedir?
+      footerLink:
+        url: incentives-determined-your-program-eligibility.md
+        text: Daha fazla göster
+    - title: Market teklifleri
+      links:
+        - url: /azure/marketplace/overview
+          itemType: concept
+          text: Ticari markete genel bakış
+        - url: /azure/marketplace/publisher-guide-by-offer-type
+          itemType: how-to-guide
+          text: Teklif yayımlama kılavuzu
+        - url: /azure/marketplace/policies-terms
+          itemType: concept
+          text: İlkeler ve koşullar
+      footerLink:
+        url: /azure/marketplace/determine-your-listing-type
+        text: Daha fazla göster
+    - title: Ödemeler
+      links:
+        - url: non-payment-fraud-misuse.md
+          itemType: overview
+          text: Genel Bakış
+        - url: payment-thresholds-methods-timeframes.md
+          itemType: concept
+          text: Ödeme eşikleri
+        - url: understand-irs-tax-forms.md
+          itemType: concept
+          text: Vergi formlarını anlama
+      footerLink:
+        url: mobile-operator-billing.md
+        text: Daha fazla göster
+    - title: Insights
+      links:
+        - url: partner-center-insights.md
+          itemType: get-started
+          text: Genel Bakış
+        - url: insights-overview-report.md
+          itemType: concept
+          text: Kullanılabilir raporlar
+        - url: insights-roles.md
+          itemType: concept
+          text: Raporlara erişim verme
+      footerLink:
+        url: insights-known-issues.md
+        text: Daha fazla göster
+    - title: Hesaplar
+      links:
+        - url: partner-center-account-setup.md
+          itemType: overview
+          text: Genel Bakış
+        - url: manage-locations.md
+          itemType: how-to-guide
+          text: Konumları yönetme
+        - url: create-user-accounts-and-set-permissions.md
+          itemType: how-to-guide
+          text: Kullanıcı hesapları oluşturma
+      footerLink:
+        url: find-your-role.md
+        text: Daha fazla göster
+additionalContent:
+  sections:
+    - title: Daha fazla bilgi
+      items:
+        - title: İş Ortağı Merkezi duyuruları
+          summary: En son haberleri İş Ortağı Merkezi.
+          url: ./announcements/index.md
+        - title: Microsoft AppSource
+          summary: Daha fazla bilgi Microsoft AppSource.
+          url: /marketplace/appsource-overview
+        - title: Azure Market
+          summary: Aşağıdakiler hakkında daha fazla Azure Market.
+          url: /marketplace/azure-marketplace-overview

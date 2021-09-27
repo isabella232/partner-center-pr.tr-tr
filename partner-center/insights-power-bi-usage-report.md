@@ -5,15 +5,15 @@ ms.date: 01/11/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-insights
 description: İyi bir şekilde neler yaptığına ve müşterileriniz için satıp Power BI aboneliklerin kullanımıyla ilgili olarak geliştirebilirsiniz.
-author: shganesh-dev
-ms.author: shganesh
+author: kshitishsahoo
+ms.author: ksahoo
 ms.localizationpriority: medium
-ms.openlocfilehash: 1f4cb47cf8cd3dbd12a57cab40a5a5d09888f324
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.openlocfilehash: 6930d2b67c7f527c8d768a1fa6ba3c5ef6103bf4
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126248487"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129075898"
 ---
 # <a name="power-bi-usage-report-available-from-the-partner-center-insights-dashboard"></a>Power BI panosundan kullanılabilen İş Ortağı Merkezi Analizler raporu
 
@@ -22,7 +22,7 @@ ms.locfileid: "126248487"
 Bu Power BI raporu, müşterileriniz için sattığınız veya Power BI Microsoft Power BI abonelikleri için kullanım verileri sağlar. Aşağıdaki bölümleri Power BI görüntüebilirsiniz.
 
 - Özet
-- Power BI göre kullanımı kullanma
+- Power BI göre kullanımları kullanma
 - Power BI SKU'ya göre kullanım
 - Abonelik performansı
 - Power BI dağıtımı
@@ -52,9 +52,9 @@ Bu Power BI raporu, müşterileriniz için sattığınız veya Power BI Microsof
 
 :::image type="content" source="images/insights/pbi-usage-summary.png" alt-text="Power BI özeti.":::
 
-## <a name="power-bi-usage-by-geography"></a>Power BI göre kullanımı kullanma
+## <a name="power-bi-usage-by-geography"></a>Power BI göre kullanımları kullanma
 
-Coğrafyaya **Power BI kullanım alanı,** kullanılabilir durumdaki yerlerin ve etkin yerlerin müşteri ülkelerinin dağılımını gösterir. Harita üzerinde daha açık renkler düşük değerleri, koyu renkler ise daha yüksek değerleri temsil eder. Yakınlaştırmak için kılavuzda bir ülke arayabilir ve bu ülkeyi seçin.
+Coğrafi **Power BI kullanım alanı,** kullanılabilir durumdaki ve etkin yerlerin müşteri ülkelerinin dağılımını gösterir. Harita üzerinde daha açık renkler düşük değerleri, koyu renkler ise daha yüksek değerleri temsil eder. Yakınlaştırmak için kılavuzda bir ülke arayabilir ve bu ülkeyi seçin.
 
 **Ülke/bölge sayısı tablosu,** Azure kullanım olaylarının oluşturularak toplam ülke/bölge sayısını gösterir.
 
@@ -66,7 +66,7 @@ Haritanın konumunu yakınlaştırmak için kılavuzda bir ülke arayabilir ve b
 
 SKU Power BI kullanım alanı, SKU'lara göre aylık kullanılabilir yer, etkin yer ve atanmış yer sayısı eğilimini gösterir.
 
-:::image type="content" source="images/insights/pbi-usage-sku.png" alt-text="Power BI SKU'ya göre kullanma.":::
+:::image type="content" source="images/insights/pbi-usage-sku.png" alt-text="Power BI SKU'ya göre kullanım.":::
 
 ## <a name="subscriptions-performance"></a>Abonelik performansı
 
@@ -76,7 +76,7 @@ Abonelik performansı, müşteri aboneliği başına aylık etkin kullanım eği
 
 ## <a name="power-bi-usage-distribution"></a>Power BI dağıtımı
 
-Kullanım Power BI dağıtımında, SKUS'lara göre kullanılabilir yerlerin, etkin yerlerin ve atanan yerlerin dökümü yer almaktadır.
+Kullanım Power BI dağılımında, SKI'lara göre kullanılabilir yerlerin, etkin yerlerin ve atanan yerlerin dökümü yer almaktadır.
 
 :::image type="content" source="images/insights/pbi-usage-distribution.png" alt-text="Power BI dağıtımı.":::
 
@@ -84,4 +84,4 @@ Kullanım Power BI dağıtımında, SKUS'lara göre kullanılabilir yerlerin, et
 
 - Daha fazla rapor için [bkz. İş Ortağı Merkezi Analizler.](partner-center-insights.md)
 
-- Bu raporu güçlü bir şekilde kullanarak ham verileri panonun Raporları İndir bölümünden Analizler indirebilirsiniz. [Daha Fazla Bilgi](insights-download-reports.md) 
+- Bu raporu gücü olan ham verileri panonun Raporları İndir bölümünden Analizler indirebilirsiniz. [Daha Fazla Bilgi](insights-download-reports.md) 

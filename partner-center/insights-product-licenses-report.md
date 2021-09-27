@@ -1,87 +1,87 @@
 ---
-title: İş Ortağı Merkezi Analizler - ürün lisansları
+title: iş ortağı merkezi Analizler-ürün lisansları
 ms.topic: article
 ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-insights
-description: Bu ürün lisans raporunu kontrol edin ve müşterileriniz için satıp yönettiniz lisanslı bulut ürünleriyle geliştirmeyi öğrenin.
-author: shthota77
-ms.author: shthota
+description: Bu ürün lisans raporunu denetleyin ve müşterileriniz için satmanız veya yönetmeniz için lisanslanan lisanslı bulut ürünleriyle nasıl geliştireceğinizi öğrenin.
+author: kshitishsahoo
+ms.author: ksahoo
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5287e056e2ac2e8a0238ac7f86cca0fe58b92238
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.openlocfilehash: c51a97b9f4484c64dd112527e350ad65f070c862
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960244"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129075868"
 ---
-# <a name="product-licenses-report-in-the-partner-center-insights-dashboard"></a>İş Ortağı Merkezi Analizler panosunda Ürün Lisansları raporu
+# <a name="product-licenses-report-in-the-partner-center-insights-dashboard"></a>iş ortağı merkezi Analizler panosundaki ürün lisansları raporu
 
-**Uygun roller:** Genel yönetici | Yönetici aracısı | Rapor görüntüleyicisi | Yönetici raporu görüntüleyicisi
+**Uygun roller**: genel yönetici | Yönetici Aracısı | Rapor Görüntüleyici | Executive rapor Görüntüleyicisi
 
-Ürün Lisansları raporu, Office 365, Dynamics, Microsoft 365, Microsoft Power BI gibi lisans tabanlı bulut ürünleri için lisans analizi sunar. Burada sunulan analizler, sattığınız veya müşterileriniz için yönettiğiniz lisansların kullanımıyla ilişkilendirilmektedir. Ürün Lisansları raporundan aşağıdaki bölümleri görüntüebilirsiniz.
+ürün lisansları raporu Office 365, Dynamics, Microsoft 365, Microsoft Power BI ve diğerleri gibi lisans tabanlı bulut ürünleri için lisans analizi sunar. Burada sunulan analiz, satmış olduğunuz veya müşterileriniz için yönettiğiniz lisansların kullanımıyla ilişkilendirilir. Ürün lisansları raporundan aşağıdaki bölümleri görüntüleyebilirsiniz.
 
 - Özet
-- Lisansların coğrafi yayılması
-- Lisans ekler
-- İş ortağı konumlara, satış kanalına, STU'lara, iş ortağı ekleme türüne, segmente göre lisans dağıtımı
+- Lisansların coğrafi yayılmasının
+- Lisans eklemeleri
+- İş ortağı konumlarına, Satış kanalına, SKU 'Lara, iş ortağı iliştirme türüne, segmente göre lisans dağıtımı
 
  > [!NOTE]
- > Bu rapor, Analizler kullanılabilir. Bu raporu görüntülemek için Genel yönetici, Hesap yöneticisi, Rapor görüntüleyicisi İş Ortağı Merkezi Yönetici rapor görüntüleyicisi gibi belirli bir rol atanmış olması gerekir. Daha fazla bilgi için bkz. şirketin Genel yöneticisi. Bu rapora özgü veri türleri yalnızca Yönetici raporu yanıt ayrıcalıklarına sahip kullanıcılar tarafından da kullanılabilir.
+ > bu rapor Analizler panosundan kullanılabilir. Bu raporu görüntülemek için Iş Ortağı Merkezi 'nde genel yönetici, hesap yöneticisi, rapor Görüntüleyicisi veya Executive rapor Görüntüleyicisi gibi belirli bir rol atanması gerekir. Daha fazla bilgi için şirketinizin genel Yöneticisi ' ne bakın. Bu rapordaki belirli veri türleri yalnızca, Executive 'e daha az ayrıcalığa sahip olan kullanıcılar için de kullanılabilir.
 
 ## <a name="summary"></a>Özet
 
-Özet bölümü, satılan, dağıtılan ve kullanılan bulut ürünü lisansları ile ilişkili ana performans göstergelerinin (KIP) anlık görüntüsünü sağlar. Bu, müşterilerinize satılan lisanslara göre etkin kullanımı izlemenize yardımcı olur.
+Özet bölümü, satılan, dağıtılan ve kullanılan bulut Ürün lisanslarıyla ilişkili ana performans göstergelerinin (KPI) anlık görüntü görünümünü sağlar. Bu, müşterilerinize satılan lisanslarda etkin kullanımı izlemenize yardımcı olur.
 
-:::image type="content" source="images/insights/licenses-report-summary.png" alt-text="lisans raporu özeti.":::
+:::image type="content" source="images/insights/licenses-report-summary.png" alt-text="Lisans raporu Özeti.":::
 
 Özetin her bölümü hakkında daha fazla bilgi için aşağıya bakın:
 
-- Lisans: 
-  - Office 365, Dynamics, Microsoft 365, Microsoft Power BI ve diğerleri gibi lisans tabanlı bulut ürünleri için sizin tarafından satılan veya yönetilen tüm lisansların geçerli sayısı.
-  - Bu lisansların seçilen tarih aralığındaki büyüme veya düşüş yüzdesi.
-  - Lisans eğilimi mikro grafiği: Mikro grafik, seçilen tarih aralığındaki aylık lisans sayısı eğilimini gösterir
+- Lisanslarının
+  - Office 365, Dynamics, Microsoft 365, Microsoft Power BI ve diğerleri gibi lisans tabanlı bulut ürünleri için sizin tarafınızdan satılan veya yönetilen tüm lisansların geçerli sayısı.
+  - Bu lisansların seçili tarih aralığında büyüme veya reddetme yüzdesi.
+  - Lisans eğilimi mikro grafik: mikro grafik, seçilen tarih aralığı boyunca lisans sayımlarının ay içinde eğilimini gösterir
 
 - Dağıtılan lisanslar:
-  - Müşterinizin atanmış tüm lisanslarının geçerli sayısı.
-  - Seçilen süre boyunca bu lisansların büyüme veya düşüş yüzdesi.
-  - Lisans sayısı mikro grafiği: Mikro grafik, seçilen tarih aralığındaki atanan lisans sayılarının aylara göre eğilimini gösterir.
+  - Müşterinizin tüm atanmış lisanslarının geçerli sayısı.
+  - Seçilen dönemde bu lisansların büyüme veya reddetme yüzdesi.
+  - Lisans sayısı mikro grafik: mikro grafik, seçilen tarih aralığı boyunca atanan lisans sayımlarının ay içinde, aylık eğilimini gösterir.
 
-- Etkin lisanslar: 
-  - Seçilen tarih aralığı boyunca son 30 gün içinde etkin kullanımı olan tüm müşteri lisanslarının geçerli sayısı.
-  - Seçilen tarih aralığında bu lisansların büyüme veya düşüş yüzdesi.
-  - Mikro grafik, seçilen tarih aralığındaki aylık lisans sayısı eğilimini gösterir.
+- Etkin lisanslar:
+  - Seçilen tarih aralığında son 30 gün boyunca etkin kullanımı olan tüm müşteri lisanslarının geçerli sayısı.
+  - Seçilen tarih aralığı sırasında bu lisansların büyüme veya reddetme yüzdesi.
+  - Mikro grafik, seçilen tarih aralığı boyunca lisans sayımlarının ay içinde eğilimini gösterir.
 
-## <a name="geographical-spread-of-licenses"></a>Lisansların coğrafi yayılması
+## <a name="geographical-spread-of-licenses"></a>Lisansların coğrafi yayılmasının
 
-Lisanslar **coğrafi yayılım** görünümü, geçerli lisansların ve etkin lisansların müşteri pazarlarına göre coğrafi dağılımını gösterir. (Geçerli **lisans** sayısı ayrıca atanmamış lisansları da içerir.)
+**Lisanslar coğrafi yayma** görünümü, geçerli lisansların ve etkin lisansların müşteri pazarlarına göre coğrafi dağılımını gösterir. ( **Geçerli** lisans sayısı ayrıca atanmamış lisanslar da içerir.)
 
-**Ülke/bölge sayısı,** geçerli ve etkin müşteri lisanslarının bulunduğu toplam ülke/bölge sayısını sunar.
+**Ülke/bölge sayısı** , geçerli ve etkin müşteri lisanslarına sahip olduğunuz toplam ülkeleri/bölgeleri gösterir.
 
-Haritanın konumunu yakınlaştırmak için kılavuzda bir ülke arayabilir ve bu ülkeyi seçin. Varsayılan **görünüme** dönmek için haritada Giriş seçeneğine basın. Geçerli lisansları ve müşteri ülkeye göre etkin lisansları görüntülemek için haritanın üzerine gelin. Kılavuzda her iki alan da sıralanabilir.
+Haritada konum yakınlaştırmak için kılavuzda bir ülke arayabilir ve seçebilirsiniz. Varsayılan görünüme dönmek için haritanın **giriş** seçeneğine basın. Müşteri ülkesine göre geçerli lisansları ve etkin lisansları görüntülemek için haritaya gelin. Kılavuzdaki her iki alan de sıralanabilir.
 
-:::image type="content" source="images/insights/licenses-report-geo-spread.png" alt-text="lisans coğrafi yayılması.":::
+:::image type="content" source="images/insights/licenses-report-geo-spread.png" alt-text="Lisans coğrafi yayılmasının.":::
 
-## <a name="license-adds"></a>Lisans ekler
+## <a name="license-adds"></a>Lisans eklemeleri
 
-Bu görünüm, seçilen tarih aralığı boyunca eklenen lisansların eğilimini gösterir. 
+Bu görünümde, seçilen tarih aralığında eklenen lisansların eğilimi gösterilmektedir. 
 
-Ürüne ve hizmete/iş yüküne göre eğilimi sunmak için ekranın üst kısmında bir Ürün ve **SKUS** açılan listesinden bir hizmet/iş yükü seçin.
+Bu eğilimi ürün ve hizmet/iş yüküne göre sunmak için, ekranın en üstündeki bir ürünü ve **SKU 'lar** açılan listesinden bir hizmet/iş yükünü seçin.
 
-X ekseni seçilen tarih aralığının aylarını temsil eder. Y ekseni, eklenen lisans sayısını temsil eder. Belirli bir dönemi yakınlaştırmak için grafiğin üst kısmında yer alan kaydırıcıyı kullanın.
+X ekseni, seçilen tarih aralığının ayları temsil eder. Y ekseni eklenen lisansların sayısını temsil eder. Belirli bir dönemi yakınlaştırmak için grafiğin üstündeki kaydırıcıyı kullanın.
 
-:::image type="content" source="images/insights/licenses-report-license-adds.png" alt-text="lisans ekler.":::
+:::image type="content" source="images/insights/licenses-report-license-adds.png" alt-text="Lisans eklemeleri.":::
 
 ## <a name="license-distribution"></a>Lisans dağıtımı
 
-Bu görünüm, ürüne ve müşteri ülkenize/bölgenize göre müşteri lisanslarının dökümünü gösterir. Ürüne göre lisans pasta **grafiğinde bir** ürün seçerek, bitişik grafikte müşteri bölgeye göre lisans dökümü görüntülenir.
+Bu görünüm, ürün ve müşteri ülkesi/bölgesi ile müşteri lisanslarınızın dökümünü gösterir. Ürün pasta grafiği **tarafından lisansdaki** bir ürünü seçtiğinizde, bitişik grafik size müşteri bölgesine göre bir lisans dökümü gösterir.
 
 :::image type="content" source="images/insights/licenses-report-license-distribution.png" alt-text="lisans dağıtımı.":::
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-Daha fazla rapor için [bkz. İş Ortağı Merkezi Analizler.](partner-center-insights.md)
+daha fazla rapor için bkz. [iş ortağı merkezi Analizler](partner-center-insights.md).
 
 >[!NOTE] 
-> Bu raporu güçlü bir şekilde kullanarak ham verileri panonun Raporları İndir bölümünden Analizler indirebilirsiniz. [Daha Fazla Bilgi](insights-download-reports.md)
+> ham verileri, Analizler panosundaki raporları indir bölümünden bu raporu güçden indirebilirsiniz. [Daha Fazla Bilgi](insights-download-reports.md)
