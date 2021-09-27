@@ -5,16 +5,16 @@ ms.date: 10/14/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-insights
 description: iş ortağı merkezi birleşik raporlama panosundan ve iş ortağı merkezi Analizler raporlarında veri indirme ve dışa aktarma hakkında bilgi edinin.
-author: shthota77
-ms.author: shthota
+author: kshitishsahoo
+ms.author: ksahoo
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 18ed4e14e5e0e0855dd09e91325ed46610c3acae
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.openlocfilehash: 0451322dae1d08f07a6698b43733dc354e160604
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126248492"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129071463"
 ---
 # <a name="download-reports"></a>Raporları indir
 

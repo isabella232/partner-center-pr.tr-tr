@@ -3,18 +3,18 @@ title: Müşterinin hizmet durumunu denetleme
 ms.topic: how-to
 ms.date: 05/05/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-support
+ms.subservice: partnercenter-customers
 description: Iş Ortağı Merkezi 'ni kullanarak bir hizmetle ilgili sorun yaşayan bir müşterinin hizmet durumunu nasıl denetleyeceğinizi öğrenin.
 author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d8d9bc05d2fe5ca87c5fa9f13371305a48fb6a52
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.openlocfilehash: 861ccf8105326950b43905ea20b5941d776718bc
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126248300"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129074034"
 ---
 # <a name="check-service-health-for-a-customer-reporting-a-potential-service-problem-or-outage"></a>Olası bir hizmet sorunu veya kesintisi bildiren bir müşterinin hizmet durumunu denetleme
 

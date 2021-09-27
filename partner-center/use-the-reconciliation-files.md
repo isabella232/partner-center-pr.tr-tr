@@ -1,121 +1,145 @@
 ---
 title: Mutabakat dosyalarınızı kullanma
 ms.topic: article
-ms.date: 03/26/2021
-description: Hesap hesaplarında mutabakat İş Ortağı Merkezi ve verilen faturalama dönemi için ücretlerin ayrıntılı, satır öğesi görünümlerini yorumlamayı öğrenin.
+ms.date: 09/27/2021
+description: Iş Ortağı Merkezi 'nde mutabakat dosyaları ve belirli bir faturalandırma döngüsünün ücretlendirdiği ayrıntılı, satır öğesi görünümlerinin nasıl yorumlanacağı hakkında bilgi edinin.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-billing
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e5fae4c9b9b40c8a71b56c46d0d1be629f832842
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.openlocfilehash: 1dcfcc7b555b3cdfb44549a78f1134672e0ea914
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126248402"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129072800"
 ---
-# <a name="learn-how-to-read-the-line-items-in-your-partner-center-reconciliation-files"></a>Veri mutabakat dosyalarınıza satır öğelerini İş Ortağı Merkezi öğrenin
+# <a name="learn-how-to-read-the-line-items-in-your-partner-center-reconciliation-files"></a>Iş Ortağı Merkezi mutabakatı dosyalarınızda satır öğelerini okumayı öğrenin
 
-**Uygun roller:** Faturalama yöneticisi | Genel yönetici
+**Uygun roller**: Faturalandırma Yöneticisi | Genel yönetici
 
-Bir faturalama döngüsünde her bir İş Ortağı Merkezi ayrıntılı ve satır öğesi görünümü için mutabakat dosyalarınızı bir hesaptan indirebilirsiniz. Satır öğesi ayrıntıları, her müşterinin aboneliklerinin ücretlerini ve ayrıntılı olayları (bir aboneliğe lisansların orta dönem eklemesi gibi) içerir.
+Bir fatura döngüsündeki her bir ücret için ayrıntılı, satır öğesi görünümü için Iş Ortağı Merkezi ' nden mutabakat dosyalarınızı indirebilirsiniz. Satır öğesi ayrıntıları, her bir müşterinin aboneliğine ilişkin ücretleri ve ayrıntılı olayları (bir aboneliğe yönelik bir abonelik için orta dönem ekleme gibi) içerir.
 
-Faturanızı okuma hakkında bilgi **için bkz.** [Faturanızı okuma.](read-your-bill.md)
+**Faturanızı** okuma hakkında daha fazla bilgi için bkz. [faturanızı okuyun](read-your-bill.md).
 
 ## <a name="understand-reconciliation-file-fields"></a>Mutabakat dosyası alanlarını anlama
 
 - [Lisans tabanlı mutabakat dosyası alanları](license-based-recon-files.md)
 - [Kullanım tabanlı mutabakat dosyası alanları](usage-based-recon-files.md)
 - [Günlük fiyatlandırılan kullanım mutabakat dosyası alanları](daily-rated-usage-recon-files.md)
-- [Tek sefer satın alma CSP mutabakat dosyası alanları](modern-invoice-reconciliation-file.md)
+- [Bir kerelik satın alma CSP 'si mutabakatı dosya alanları](modern-invoice-reconciliation-file.md)
 
-## <a name="understand-charge-types-in-reconciliation-files"></a>Mutabakat dosyalarında ücret türlerini anlama
+## <a name="understand-charge-types-in-reconciliation-files"></a>Mutabakat dosyalarındaki ücretlendirme türlerini anlama
 
-Mutabakat dosyalarında **(ChargeType** sütunu) ücretlerin türlerini anlamak için [bkz. Mutabakat dosyası ücret türleri.](recon-file-charge-types.md)
+Mutabakat dosyalarındaki ( **Chargetype** sütunu) ücret türlerini anlamak için bkz. [mutabakatı dosya ücreti türleri](recon-file-charge-types.md).
 
-## <a name="fix-formatting-issues"></a>Biçimlendirme sorunlarını düzeltme
+## <a name="fix-formatting-issues"></a>Biçimlendirme sorunlarını giderme
 
-Bazen bir mutabakat dosyası biçimlendirme sorunları içerebilir. Örneğin, en-US yerel yereli kullanılmazsa bu sorun oluşabilir.
+Bazen bir mutabakat dosyasında biçimlendirme sorunları bulunabilir. Örneğin, en-US yerel ayarı kullanılmazsa bu sorun oluşabilir.
 
-Mutabakat dosyalarınıza ilişkin biçimlendirme sorunlarını düzeltmek için şu adımları izleyin:
+Mutabakat dosyalarınızda biçimlendirme sorunlarını gidermek için aşağıdaki adımları izleyin:
 
-1. Mutabakat dosyasını açın (.csv biçiminde) Microsoft Excel.
+1. Microsoft Excel ' de mutabakat dosyasını (.csv biçiminde) açın.
 2. Dosyadaki ilk sütunu seçin.
-3. Metni **Sütunlara Dönüştürme Sihirbazı'nı açın.** Şeritte Veri'yi **ve ardından** Metinden **Sütunlar'a'ı seçin.**
-4. Sihirbazda Sınırlandırılmış **dosya türü'ne tıklayın.** Ardından, **Sonraki'yi seçin.**
-5. **Sınırlayıcılar alanında Virgül'i** **seçin.** (Sekme **zaten** seçiliyse, bu seçeneği seçili bırakın.) Ardından, **Sonraki'yi seçin.**
-6. Sütun veri biçimi alanında **Tarih:MDY'yi seçin.**  Ardından, **Sonraki'yi seçin.**
-7. Sütun veri **biçimi alanında tüm** tutar sütunları için **Metin'i** seçin. Ardından **Son**'u seçin.
+3. **Metni sütunlara dönüştürme Sihirbazı**' nı açın. Şeritte, **veriler**' i seçin ve **sütunlar**' ı seçin.
+4. Sihirbazda, **ayrılmış dosya türü**' nü seçin. Ardından **İleri**' yi seçin.
+5. **Sınırlayıcılar** alanında **virgül**' yi seçin. ( **Sekmesi** zaten seçildiyse, bu seçeneği seçili bırakabilirsiniz.) Ardından **İleri**' yi seçin.
+6. **Sütun veri biçimi** alanında **Tarih: mdy**' yi seçin. Ardından **İleri**' yi seçin.
+7. **Sütun veri biçimi** alanında, tüm miktar sütunları için **metin** ' i seçin. Ardından **Son**'u seçin.
 
-## <a name="download-reconciliation-files-programmatically"></a>Mutabakat dosyalarını program aracılığıyla indirme
+## <a name="download-reconciliation-files-programmatically"></a>Karşılaştırma dosyalarını programlı olarak indir
 
-Mutabakat dosyaları çok büyük olabilir ve bazen indirmek zordur. Mutabakat dosyalarını program aracılığıyla indirmek için bkz. [Fatura satırı öğelerini al.](/partner-center/develop/get-invoiceline-items)
+Mutabakat dosyaları çok büyük olabilir ve bazen indirmek zordur. Karşılaştırma dosyalarını program aracılığıyla indirmek için bkz. [fatura satırı öğelerini Al](/partner-center/develop/get-invoiceline-items).
 
-## <a name="if-your-file-exceeds-the-row-limit-in-excel"></a>Dosyanız dosyanın satır sınırını aşarsa Excel
+## <a name="if-your-file-exceeds-the-row-limit-in-excel"></a>Dosyanız Excel satır sınırını aşarsa
 
-Bir mutabakat dosyasını indire ancak dosyayı Microsoft Excel açamıyorsanız, dosyanın izin verecekleri satırlardan daha fazla satır Excel gelir. Bu durumda, dosyayı açmak için aşağıdaki yordamlardan birini kullanabilirsiniz.
+bir mutabakat dosyası indirebiliyor ancak Microsoft Excel içinde açmadıysanız, dosyanın izin vermeyeceği kadar fazla Excel satır içerdiği anlamına gelir. Bu durumda, dosyayı açmak için aşağıdaki yordamlardan birini kullanabilirsiniz.
 
-### <a name="open-a-recon-file-in-power-bi"></a>Bir mutabakat dosyasını Power BI
+### <a name="open-a-recon-file-in-power-bi"></a>Power BI bir keşfi dosyası açın
 
-1. Mutabakat dosyasını normalde olduğu gibi indirin.
-2. Microsoft Power BI'nin bir örneğini indirin, yükleyin ve açın.
-3. Giriş Power BI **Veri** al'ı **seçin.**
-4. Ortak veri kaynakları listesinde **Metin/CSV'yi seçin.** 
-5. İstendiğinde, mutabakat dosyanızı açın.
+1. Mutabakat dosyasını normalde yaptığınız gibi indirin.
+2. Microsoft Power BI bir örneğini indirin, yükleyin ve açın.
+3. Power BI **giriş** sekmesinde **veri al**' ı seçin.
+4. **Ortak veri kaynakları** listesinde **metin/CSV**' yi seçin.
+5. İstendiğinde, keşfi dosyanızı açın.
 
-### <a name="open-a-recon-file-in-an-excel-pivot-table"></a>Özet tabloda mutabakat Excel açma
+### <a name="open-a-recon-file-in-an-excel-pivot-table"></a>Excel pivot tablosunda bir keşfi dosyası açın
 
-1. Mutabakat dosyasını normalde olduğu gibi indirin.
-2. Dosyada yeni bir Microsoft Excel.
-3. Veri sekmesinde **Veri al'ı** **seçin,** **Dosyadan'ı ve** ardından **Metin/CSV'yi seçin.**
-4. İstendiğinde, mutabakat dosyanızı açın. Verileriniz görüntülenir.
-5. Yükle açılan **menüsünde,** Üzerine **yükle'yi ve ardından** Tamam'ı **seçin.**
-6. Verilerinizi İçeri **Aktar iletişim** kutusunda **PivotTable Raporu'nı seçerek** dosyanızı açın.
+1. Mutabakat dosyasını normalde yaptığınız gibi indirin.
+2. Microsoft Excel yeni bir dosya açın.
+3. **Veri** sekmesinde **veri al**' ı seçin, dosyadan ' **ı SEÇIN ve** ardından **metin/CSV**' yi seçin.
+4. İstendiğinde, keşfi dosyanızı açın. Verileriniz görüntülenecektir.
+5. **Yük** açılır menüsünde, **Yükle**' yi seçin ve ardından **Tamam**' ı seçin.
+6. **Verileri Içeri aktar** iletişim kutusunda Dosyanızı açmak Için **PivotTable raporu** ' nu seçin.
 
-## <a name="negative-amount-displayed"></a>Negatif tutar görüntülenir
+## <a name="negative-amount-displayed"></a>Negatif miktar görüntülendi
 
-Mutabakat dosyanız negatif bir miktar görebilir. Bu sorun büyük olasılıkla aşağıdakilerden biri nedeniyle oluşur:
+Mutabakat dosyanızda negatif bir miktar görebilirsiniz. Bu sorun büyük olasılıkla aşağıdakilerden biri nedeniyle oluşur:
 
-- Kısa süre önce lisanslarınızı iptal etti veya azalttınız
-- Hizmet lisans sözleşmesi (SLA) veya Azure tüketimi için kredi aldınız
+- Son zamanlarda lisans numaranızı iptal etmiş veya azalttı
+- Bir hizmet Lisans Sözleşmesi (SLA) ya da Azure tüketimi için kredi aldınız
 
 Bu işlem hakkında daha fazla bilgi edinmek için mutabakat dosyanızda işlemin ödeme türü özniteliğini gözden geçirin.
 
-## <a name="map-taxes-or-vat"></a>Vergileri veya KDV'yi eşleme
+## <a name="map-taxes-or-vat"></a>Vergiler veya KDV 'yi eşleştirin
 
-Vergileri veya katma değerli vergileri (KDV) faturanıza eşlemek için:
+Vergiler veya katma değer vergi (KDV) faturanızı eşlemek için:
 
-- Lisans **tabanlı** dosyadan Vergi sütununu toplama.
-- Kullanım tabanlı **dosyadan TaxAmount** sütununu toplama.
+- Lisans tabanlı dosyadaki **vergi** sütununu toplayın.
+- Kullanım tabanlı dosyadaki **TaxAmount** sütununu toplayın.
 
-## <a name="itemize-reconciliation-files-by-partner"></a>Mutabakat dosyalarını iş ortağına göre öğeleştirme
+## <a name="itemize-reconciliation-files-by-partner"></a>İş ortağına göre mutabakat dosyalarını dök
 
-Dolaylı modelde **iş ortakları,** bu ek alanları hem lisans tabanlı hem de kullanım tabanlı mutabakat dosyalarında kullanarak dosyaları kurumsal bayiye göre öğe hale kullanabilir.
+**Dolaylı modeldeki** iş ortakları, bu ek alanları hem lisans tabanlı hem de kullanım tabanlı mutabakat dosyalarında kullanarak dosyaları satıcıya göre silebilirsiniz.
 
-| MPN Kimliği | Description |
+| MPN Kimliği | Açıklama |
 | ------ | ----------- |
-| MPN Kimliği | İş Microsoft İş Ortağı Ağı (CSP) iş ortağının Bulut Çözümü Sağlayıcısı (MPN) tanımlayıcısını (doğrudan veya dolaylı). |
-| [Kurumsal Bayi MPN Kimliği](#reseller-mpn-id) | aboneliği [için kayıt kurumsal bayinin MPN tanımlayıcısı.](#reseller-mpn-id) Bu alan, belirli bir abonelik için listelenen kurumsal bayi kimliğine karşılık İş Ortağı Merkezi. Yalnızca dolaylı modelde iş ortakları için mutabakat dosyalarında görünür. |
+| MPN Kimliği | Bulut Çözümü Sağlayıcısı (CSP) ortağının (doğrudan veya dolaylı) Microsoft İş Ortağı Ağı (mpn) tanımlayıcısı. |
+| [Satıcı MPN KIMLIĞI](#reseller-mpn-id) | [Abonelik için kayıt satıcısının MPN tanımlayıcısı](#reseller-mpn-id). Bu alan, Iş Ortağı Merkezi 'nde belirli bir abonelik için listelenen satıcı KIMLIĞINE karşılık gelir. Yalnızca dolaylı modeldeki iş ortakları için mutabakat dosyaları üzerinde görüntülenir. |
 
-### <a name="reseller-mpn-id"></a>Kurumsal Bayi MPN Kimliği
+### <a name="reseller-mpn-id"></a>Satıcı MPN KIMLIĞI
 
-CsP iş ortağı aboneliği doğrudan müşteriye satsa **MPN** kimliği iki kez listelenir ve **hem MPN Kimliği** hem de **Kurumsal Bayi MPN Kimliği olarak listelenir.**
+Bir CSP iş ortağı aboneliği doğrudan müşteriye satmışsa **MPN kimliği** , hem **MPN kimliği** hem de **satıcı MPN kimliği** olarak iki kez listelenir.
 
-CSP iş ortağının **MPN** kimliğine sahip bir kurumsal bayisi varsa, bu değer bunun yerine iş **ortağının MPN kimliğine** ayarlanır.
+Bir CSP iş ortağının **MPN kimliği** olmayan bir satıcısı varsa, bu değer bunun yerine ortağın **MPN kimliğine** ayarlanır.
 
-CSP iş ortağı kurumsal bayi **MPN kimliğini** kaldırırsa bu değer *-1 olarak ayarlanır.*
+CSP iş ortağı bir **satıcı MPN kimliğini** kaldırdığında bu değer *-1* olarak ayarlanır.
 
-Kurumsal Bayi MPN Kimliğini **görüntülemek veya güncelleştirmek için:**
+**Satıcı MPN kimliğini** görüntülemek veya güncelleştirmek için:
 
-1. İş Ortağı Merkezi'nde oturum açın.
-2. Yeni İş Ortağı Merkezi Müşteriler'i **seçin.**
+> [!NOTE]
+> Iş Ortağı Merkezi önizleme arabirimi, mantıksal olarak gruplanmış çalışma alanları aracılığıyla daha verimli ve üretken bir kullanıcı deneyimi sağlar. Çalışma alanları arabirimi ve nasıl kullanılacağı hakkında daha fazla bilgi edinmek için bkz. [Iş ortağı merkezini alma](get-around-partner-center.md#turn-workspaces-on-and-off).
+
+#### <a name="workspaces-view"></a>[Çalışma alanları görünümü](#tab/workspaces-view)
+
+1. [İş Ortağı Merkezi panosunda](https://partner.microsoft.com/dashboard) oturum açın.
+
+2. **Müşteriler** kutucuğunu seçin ve ardından listeden müşteriyi seçin.
+
+3. Müşteri menüsünde **abonelikler**' i seçin.
+
+4. Listeden aboneliği seçin.
+
+5. Satıcıdan (MPN KIMLIĞI) değiştirmek için **Güncelleştir** ' i seçin.
+
+#### <a name="current-view"></a>[Geçerli görünüm](#tab/current-view)
+
+1. [İş Ortağı Merkezi panosunda](https://partner.microsoft.com/dashboard) oturum açın.
+
+2. Iş Ortağı Merkezi menüsünde **müşteriler**' i seçin.
+
 3. Listeden müşteriyi seçin.
-4. Müşteri menüsünde Abonelikler'i **seçin.**
+
+4. Müşteri menüsünde **abonelikler**' i seçin.
+
 5. Listeden aboneliği seçin.
-6. Kurumsal **Bayiyi** **(MPN KIMLIĞI) değiştirmek için güncelleştir'i seçin.**
+
+6. Satıcıdan (MPN KIMLIĞI) değiştirmek için **Güncelleştir** ' i seçin.
+
+* * *
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-- [Mutabakat dosyası için faturanızı & okuma](read-your-bill.md) 
+- [Faturanız & keşfi dosyanızı okuma](read-your-bill.md)

@@ -3,98 +3,98 @@ title: Microsoft lisanslama kaynakları
 ms.topic: article
 ms.date: 02/25/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-benefits
-description: Bir Microsoft iş ortağı olarak, farklı Microsoft lisanslama programları kullanma hakkında sorularınız olabilir. Bu makalede yardımcı olabilecek kaynaklar sunulmaktadır.
+ms.subservice: partnercenter-customers
+description: Microsoft iş ortağı olarak, farklı Microsoft lisanslama programlarını kullanma hakkında sorularınız olabilir. Bu makalede yardımcı olacak kaynaklar yer alanmıştır.
 author: varsha-sarah
 ms.author: vavargh
 ms.localizationpriority: medium
-ms.openlocfilehash: 3d6d6cdcb105b59d18b423ef6f006c7c7d741d56
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.openlocfilehash: 5ba9d209d915d7709a7e0465e847c58ceda90c9d
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123961264"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129075551"
 ---
 # <a name="guide-to-licensing-resources-for-microsoft-partners"></a>Microsoft iş ortakları için lisanslama kaynakları kılavuzu 
 
-**Uygun roller**: yardım Aracısı
+**Uygun roller:** Yardım aracısı
 
-Bu makale, iş ortağı lisanslama sorularını yanıtlamaya yardımcı olabilecek kaynakları paylaşır.
+Bu makalede iş ortağı lisanslama sorularını yanıtlamanıza yardımcı olacak kaynaklar paylaştırabilirsiniz.
 
-Bir Microsoft iş ortağı olarak, bir veya daha fazla lisanslama programında, kanallarda veya anlaşmayla ilgili olabilirsiniz. iş ortağı merkezi panosunda çalışıyorsanız, bu, Bulut Çözümü Sağlayıcısı (CSP) program veya Microsoft İş Ortağı Ağı (mpn) programı gibi programları içerebilir. diğer lisans programları Kurumsal Anlaşma (EA) lisanslarını, toplu lisanslama (VL), OEM lisans programı, yazılım güvencesi eğitimi veya fişler programını ya da açık lisanslama programını içerir.
+Microsoft iş ortağı olarak bir veya daha fazla lisans programı, kanal veya sözleşmeye dahil olabilirsiniz. İş Ortağı Merkezi panosunda çalışıyorsanız, bu Bulut Çözümü Sağlayıcısı (CSP) programı veya Microsoft İş Ortağı Ağı (MPN) programı gibi programları içerebilir. Diğer lisans programları Kurumsal Anlaşma lisansları, Toplu Lisanslama (VL), OEM lisans programı, Yazılım Güvencesi eğitim veya kupon programı veya Açık Lisanslama programıdır.
 
-Her programın kendisiyle ilişkili belirli sözleşmeleri ve koşulları vardır. Benzer şekilde, kullandığınız belirli ürünlerin kullanımıyla ilişkili ek, ürüne özel lisans sözleşmeleri de olabilir.
+Her programla ilişkilendirilmiş belirli sözleşmeler ve koşullar vardır. Benzer şekilde, kullanmakta olduğu belirli ürünlerin kullanımıyla ilişkili ek, ürüne özgü lisans sözleşmelerine sahip olabilir.
 
-Bu programların nasıl çalıştığı hakkında sorularınız varsa, bu kaynaklar yardımcı olabilir.
+Bu programların çalışmasıyla ilgili sorularınız varsa bu kaynaklar yardımcı olabilir.
 
 > [!NOTE]
-> Daha ayrıntılı Lisanslama soruları veya bir müşteri teklifiyle ilgili yardıma ihtiyacınız varsa, lisanslama programınızın atanmış dolaylı sağlayıcısına (CSP programı için) veya program dağıtıcısından başlayın. Bunlar genellikle belirli lisans soruları için en iyi, ilk iletişim noktanız veya müşteri teklifleri, SKU satın alımları veya Önkoşullar oluşturma hakkında sorular için geçerlidir. Sizin için bu role hizmet veren bir iş ortağınız yoksa, bir [iş ortağı bulmak](find-a-partner.md) için bkz. bir iş ortağı bulun.
+> Daha ayrıntılı lisanslama soruları veya müşteri teklifiyle ilgili yardıma ihtiyacınız varsa lisanslama programınıza atanan dolaylı sağlayıcı (CSP programı için) veya program dağıtımcınız ile çalışmaya başlayabilirsiniz. Bunlar genellikle belirli lisans soruları veya müşteri teklifleri, SKU satın almaları veya önkoşullar oluşturmayla ilgili sorular için en iyi, ilk iletişim noktalarınızdır. Bu role hizmet eden bir iş ortağınız yoksa, bulmak için [bkz. İş](find-a-partner.md) ortağı bulma.
 >
-> Ayrıca, lisans uzmanlarının dahili takımlarından yararlanmak için Microsoft kişilerinize ulaşabilirsiniz. Belirli Microsoft kişileriniz yoksa, [Iş ortağı desteği](https://partner.microsoft.com/support/v2/?stage=1) ' ne gidin ve destek sayfasının **sorunlar** alanına **lisanslama** yazın. 
+> Ayrıca, lisans uzmanlarının iç ekibini kullanarak Microsoft ilgili kişilerine de ulaşabilirsiniz. Belirli Microsoft kişiniz yoksa İş Ortağı Desteği'ne [gidin](https://partner.microsoft.com/support/v2/?stage=1) ve Destek **sayfasının** Sorunlar alanına **lisanslama** yazın. 
 
 ## <a name="general-resources-about-licensing-and-license-training"></a>Lisanslama ve lisans eğitimi hakkında genel kaynaklar
 
-Aşağıdaki kaynaklardan belirli lisanslama programları hakkında daha fazla bilgi edinebilirsiniz.
+Aşağıdaki kaynaklardan belirli lisans programları hakkında daha fazla bilgi edinebilirsiniz.
 
 >[!NOTE]
-> Burada gösterilen tüm kaynaklara erişebilmek için bazı programlara kaydolmuş olmanız gerekebilir. [MPN programına](https://partner.microsoft.com/membership) veya [CSP programına](https://partner.microsoft.com/membership/cloud-solution-provider)kaydolma hakkında daha fazla bilgi edinin.
+> Burada gösterilen tüm kaynaklara erişmek için belirli programlara kaydolmanız gerekir. [MPN](https://partner.microsoft.com/membership) programına veya CSP programına kaydolma hakkında daha [fazla bilgi.](https://partner.microsoft.com/membership/cloud-solution-provider)
 
 |Bunu yapmak için  | Bunu okuyun  |
 |:------------------|:--------------- |
-|CSP program lisanslarını diğer lisans modelleriyle karşılaştırın *(üst düzey genel bakış)* | [CSP kayıt sayfasına](https://partner.microsoft.com/licensing/)gidin. Bölümü görene kadar aşağı kaydırın, CSP 'yi *diğer lisans modelleriyle karşılaştırın*.  |
-|Microsoft bulut hizmetleri ve şirket içi yazılım *(ayrıntılı görünüm)* için farklı iş ortağı lisans sözleşmelerini karşılaştırın  | [Microsoft lisanslama anlaşmaları](https://partner.microsoft.com/licensing/licensing-agreements)  |
-|Toplu Lisanslama (VL) ve belirli çözümler için lisanslama hakkında daha fazla bilgi edinin  | [Microsoft lisanslama-ürünler ve çözümler](https://www.microsoft.com/licensing/default) |
-|Toplu lisanslama eğitimi ve VL fiyatlandırma, teklif, anlaşma, ürün etkinleştirme ve diğer araçlarla ilgili yardımcı olabilecek kaynaklar hakkında bilgi edinin  | [Eğitim ve kaynakları Microsoft İş Ortağı Ağı](https://partner.microsoft.com/licensing/training-and-resources) |
-|Lisanslama için **hazırlanıyor** lisanslama eğitim modüllerini keşfet  | [Lisanslamayı hazırlanın](https://www.getlicensingready.com/)  |
-|Büyük kuruluşlarda Microsoft lisanslama çözümlerini tasarlamanıza ve sağlamanıza yardımcı olan lisanslama sınavına *(sınavın 31 ocak 2021 ' de 11:59 PM orta saati ile devre dışı bırakılması)* hakkında bilgi edinin  | [Sınava 70-705](/learn/certifications/exams/70-705) |
+|CSP programı lisanslarını diğer lisanslama modelleri ile karşılaştırma *(üst düzey genel bakış)* | [CSP kayıt sayfasına gidin.](https://partner.microsoft.com/licensing/) CSP'yi diğer lisanslama *modellerini karşılaştırma bölümünü görene kadar aşağı kaydırın.*  |
+|Microsoft bulut hizmetleri ve şirket içi yazılımlar için farklı iş ortağı lisans sözleşmelerini karşılaştırma *(ayrıntılı görünüm)*  | [Microsoft lisanslama anlaşmaları](https://partner.microsoft.com/licensing/licensing-agreements)  |
+|Toplu Lisanslama (VL) ve belirli çözümler için lisanslama hakkında daha fazla bilgi edinin  | [Microsoft lisanslama - ürünler ve çözümler](https://www.microsoft.com/licensing/default) |
+|VL fiyatlandırması, teklifleri, sözleşmeler, ürün etkinleştirme ve diğer araçlarla ilgili yardımcı olacak Toplu Lisanslama eğitimi ve kaynakları hakkında bilgi edinin  | [Microsoft İş Ortağı Ağı ve kaynakları kullanın](https://partner.microsoft.com/licensing/training-and-resources) |
+|Lisans **almaya hazır lisanslama** eğitim modüllerini keşfedin  | [Lisanslama Için Hazır Olun](https://www.getlicensingready.com/)  |
+|Büyük kuruluşlara Microsoft lisanslama çözümleri tasarlamanıza ve sağlamanıza yardımcı olan lisanslama sınavı hakkında bilgi edinin *(sınav 31 Ocak 2021 tarihinde saat 11:59'da* Merkezi Saat'te kaldıracaktır)  | [Sınav 70-705](/learn/certifications/exams/70-705) |
 
-## <a name="program-specific-and-product-specific-licensing-terms-and-agreements"></a>Programa özgü ve ürüne özel Lisanslama Koşulları ve anlaşmaları
+## <a name="program-specific-and-product-specific-licensing-terms-and-agreements"></a>Programa özgü ve ürüne özgü lisanslama koşulları ve anlaşmaları
 
-Bu diğer kaynakların yararlı olduğunu görebilirsiniz. Bu kaynaklardan bazılarına erişmek için önce [MPN programına](https://partner.microsoft.com/membership)kaydolmuş olmanız gerekebilir.
+Bu diğer kaynakları yararlı bulabilirsiniz. Bu kaynakların bazılarına erişmek için öncelikle MPN programına [kaydolmanız gerekir.](https://partner.microsoft.com/membership)
 
 |Bunu yapmak için  | Bunu okuyun  |
 |:------------------|:--------------- |
-|Microsoft Toplu Lisanslama programında ürünler veya hizmetler için Microsoft ürün koşullarının güncel sürümünü gözden geçirin veya indirin. | [Ürününüzü veya hizmetinizi arayın](https://www.microsoft.com/licensing/terms/) veya [burada arama](http://www.microsoftvolumelicensing.com/) yapın  |
-|Yazılım Güvencesi programı ve ilişkili lisans hakkında daha fazla bilgi için ödeme ve fişlerin nasıl çalıştığı hakkında daha fazla bilgi edinin.  | [Yazılım güvencesi genel bakış](https://www.microsoft.com/Licensing/licensing-programs/software-assurance-default.aspx) veya [yazılım güvencesi avantajları ve gereksinimleri](software-assurance-lp.md) |
-|MPN iç kullanım hakları veya avantajları hakkındaki ayrıntıları gözden geçirin.  | [Microsoft İş Ortağı Ağı Programları Kılavuzu](https://assets.microsoft.com/MPN-MAPS-Product-Usage-Guide.pdf)  |
-|Yükleme öncesi setleri veya eğitim gibi OEM iş ortağı malzemeleri bulun.  | [Microsoft cihaz Iş Ortağı Merkezi](https://devicepartner.microsoft.com/)  |
-|OEM müşterileri veya perakende müşterileri için kullanım sorularını yanıtlayın (Tam Paketli Ürün veya FPP müşterileri olarak da bilinir). Bu, yazılımlarını Microsoft veya bir bilgisayar üreticisi tarafından lisanslanan müşterilere yöneliktir. *(Bu terimler toplu lisanslama programındaki müşterilere uygulanmaz.)*  | [Perakende (FPP) kullanım koşulları](https://www.microsoft.com/useterms)  |
+|Microsoft Toplu Lisanslama programındaki ürünler veya hizmetler için Microsoft Ürün Koşulları'nın geçerli sürümünü gözden geçirin veya indirin. | [Ürün veya hizmetinizi arama veya](https://www.microsoft.com/licensing/terms/) [burada arama](http://www.microsoftvolumelicensing.com/)  |
+|Ödeme ve kuponların Yazılım Güvencesi lisans ve ilişkili lisans hakkında daha fazla bilgi alın.  | [Yazılım güvencesine genel](https://www.microsoft.com/Licensing/licensing-programs/software-assurance-default.aspx) bakış [Yazılım Güvencesi avantajları ve gereksinimleri](software-assurance-lp.md) |
+|MPN iç kullanım hakları veya avantajlarıyla ilgili ayrıntıları gözden geçirme.  | [Microsoft İş Ortağı Ağı Programları Kılavuzu](https://assets.microsoft.com/MPN-MAPS-Product-Usage-Guide.pdf)  |
+|Yükleme öncesi setler veya eğitim gibi OEM iş ortağı malzemelerini bulun.  | [Microsoft Device İş Ortağı Merkezi](https://devicepartner.microsoft.com/)  |
+|OEM müşterileri veya perakende müşterileri (Tam Paketlenmiş Ürün veya FPP müşterileri olarak da bilinir) için kullanım sorularını yanıtla. Bu, yazılımı Microsoft veya bir bilgisayar üreticisi tarafından lisansına sahip olan müşterilere yöneliktir. *(Bu koşullar Toplu Lisanslama programı müşterileri için geçerli değildir.)*  | [Perakende (FPP) Kullanım Koşulları](https://www.microsoft.com/useterms)  |
 
-## <a name="resources-associated-with-license-fulfillment-or-financing-options"></a>Lisans karşılama veya finans seçenekleriyle ilişkili kaynaklar
+## <a name="resources-associated-with-license-fulfillment-or-financing-options"></a>Lisans karşılama veya kabul seçenekleriyle ilişkili kaynaklar
 
-Lisans alma, ödeme veya finansman hakkında belirli sorularınız varsa, ilk iletişim noktanız dolaylı sağlayıcısıdır (CSP programı için) veya program dağıtıcısıdır. Aşağıdaki kaynakların yararlı olduğunu da görebilirsiniz.
-
-|Bunu yapmak için  | Bkz.  |
-|:------------------|:--------------- |
-|Toplu Lisanslama programında yükleme medyası hakkındaki soruları karşılama hakkında yanıtlayın. | [Lisanslama karşılama sayfası](https://www.microsoft.com/licensing/existing-customer/fulfillment.aspx)  |
-|aşağıdaki kayıt programları için çevrimiçi hizmetler hakkındaki soruları karşılama: Kurumsal Anlaşma (EA), sunucu ve bulut kaydı (SCE) ve açık değer aboneliği (ovs).  | [Microsoft Toplu Lisanslama merkezi eğitimi ve kaynakları](https://www.microsoft.com/Licensing/existing-customer/vlsc-training-and-resources.aspx)  |
-|Microsoft ürün ve hizmet sözleşmesi (MPSA) ile ilişkili çevrimiçi hizmetler hakkındaki soruları yanıtlayın.  | [Microsoft Business Center eğitimi ve kaynakları](https://www.microsoft.com/licensing/existing-customer/business-center-training-and-resources.aspx#tab=2) ya da [MPSA lisanslaması genel bakış](https://www.microsoft.com/licensing/mpsa/default)  |  
-|Bulut Çözümü Sağlayıcısı (CSP) programıyla ilişkili çevrimiçi hizmetler ilgili soruları karşılama cevabı.  | [Müşterilere CSP abonelikleri satma](customer-subscriptions.md)  |
-|Microsoft ödeme ve finans seçenekleriyle ilgili soruları yanıtlayın.  | [Microsoft Finans programı hakkında SSS](https://download.microsoft.com/download/3/9/0/390DF0B3-8B15-4E65-AF5E-71A7280E7682/Microsoft-Financing-Program-FAQ-Customer_en-US.pdf)  |
-
-## <a name="more-resources-to-help-with-price-lists-customer-deals-license-activation-or-credits"></a>Fiyat listeleri, müşteri anlaşmaları, lisans etkinleştirme ya da kredilerle yardımcı olacak daha fazla kaynak
-
-Dolaylı sağlayıcınız (CSP programı için) veya program dağıtıcılarınız lisanslama ya da müşteri anlaşmaları yaparken belirli sorularınızın çoğunun cevaplanmasına yardımcı olabilir. Aşağıdaki kaynaklar da size yardımcı olabilir.
+Lisanslama gerçekleştirme, ödeme veya ödeme hakkında belirli sorularınız varsa, ilk iletişim noktanız dolaylı sağlayıcınız (CSP programı için) veya program dağıtımcınızdır. Aşağıdaki kaynakları da yararlı bulabilirsiniz.
 
 |Bunu yapmak için  | Bkz.  |
 |:------------------|:--------------- |
-|İş ortağı veya Dağıtıcı bulun | [Yardımcı olabilecek bir iş ortağı bulun](find-a-partner.md)  |
-|Iş Ortağı Merkezi panosundan CSP program fiyatlandırmasını ve tekliflerini görüntüleme *(Bu panoyu görmek IÇIN CSP programına kaydolmalıdır)*  |[CSP fiyatlandırması ve genel bakış](pricing-and-offers.md) veya [CSP belgelerini ve kaynaklarını](csp-documents-and-learning-resources.md) sunar |
-|Müşteri ile ilgili yardım için pazarlama malzemelerini araştırma  | [MPN iş ortağı hazırlık malzemeleri](https://partner.microsoft.com/asset#/?type=marketing-campaigns&area=mrkt)  |
-|Müşteri satışı veya çevrimiçi servis talebi için Microsoft Teknik satış ve dağıtım hizmetlerinden yardım alın  | [Teknik satış ve dağıtım hizmetlerine genel bakış](https://partner.microsoft.com/training/technical-presales-deployment-services) veya [desteğe genel bakış](https://support.microsoft.com/help/3121537/using-technical-presales-and-deployment-services)  |
-|açık lisanslama Microsoft Azure nasıl etkinleştireceğinizi öğrenin   | [Açık programlar için çevrimiçi hizmet etkinleştirme SSS](/licensing/online-service-activation-faq)  |
-|Bir kesinti nedeniyle etkilenen müşteriler için Microsoft 'tan bir SLA Kredisi Hesaplama ve isteme  | [Kesinti için SLA Kredisi isteme](request-credit.md)   |
-|Microsoft iş ortağı topluluğu 'ndan yardım alın  | [Microsoft iş ortağı topluluk Forumu](https://www.microsoftpartnercommunity.com)  |
+|Toplu Lisanslama programında yükleme medyası hakkında karşılama sorularını yanıtla. | [Lisanslama gerçekleştirme sayfası](https://www.microsoft.com/licensing/existing-customer/fulfillment.aspx)  |
+|Şu kayıt programları çevrimiçi hizmetler ilgili karşılama sorularını yanıtla: Kurumsal Anlaşma (EA), Sunucu ve Bulut Kaydı (SCE) ve Açık Değer Aboneliği (OVS).  | [Microsoft Toplu Lisanslama Merkezi eğitim ve kaynakları](https://www.microsoft.com/Licensing/existing-customer/vlsc-training-and-resources.aspx)  |
+|Microsoft Ürün ve Çevrimiçi hizmetler Sözleşmesi (MPSA) ile ilişkili hizmetlerle ilgili karşılama sorularını yanıtla.  | [Microsoft Business Center eğitim ve kaynakları veya](https://www.microsoft.com/licensing/existing-customer/business-center-training-and-resources.aspx#tab=2) [MPSA lisanslarına genel bakış](https://www.microsoft.com/licensing/mpsa/default)  |  
+|çevrimiçi hizmetler (CSP) programıyla ilişkili Bulut Çözümü Sağlayıcısı gerçekleştirme sorularını yanıtla.  | [CSP aboneliklerini müşterilere satma](customer-subscriptions.md)  |
+|Microsoft ödeme ve kabul seçenekleriyle ilgili soruları yanıtla.  | [Microsoft Faq programı hakkında SSS](https://download.microsoft.com/download/3/9/0/390DF0B3-8B15-4E65-AF5E-71A7280E7682/Microsoft-Financing-Program-FAQ-Customer_en-US.pdf)  |
 
-## <a name="help-from-microsoft-support"></a>Microsoft Desteği yardım
+## <a name="more-resources-to-help-with-price-lists-customer-deals-license-activation-or-credits"></a>Fiyat listeleri, müşteri anlaşmaları, lisans etkinleştirme veya kredilerle ilgili yardım almak için daha fazla kaynak
 
-Bir Microsoft iş ortağı olarak, başarınızda yer alan diğer iş ortaklarından yardım isteyebilirsiniz. Ayrıca, Microsoft Desteği yardım isteyebilirsiniz. Destek uzmanları, iş ortağı programı sorunları, ön satış yardımı, Microsoft ürünleriyle ilgili sorunlar, faturalandırma soruları ve diğer konularda size yardımcı olmak için kullanılabilir.
+Dolaylı sağlayıcınız (CSP programı için) veya program dağıtımcınız lisanslama veya müşteri anlaşmaları yapma ile ilgili birçok sorunuzu yanıtlamanıza yardımcı olabilir. Aşağıdaki kaynaklar da size yardımcı olabilir.
 
-Destek seçeneklerinizi görüntülemek veya bir destek bileti başlatmak için [Microsoft Iş ortağı desteği](https://partner.microsoft.com/support/?stage=1) ' ne gidin.
+|Bunu yapmak için  | Bkz.  |
+|:------------------|:--------------- |
+|İş ortağı veya dağıtımcı bulma | [Yardımcı olacak bir iş ortağı bulma](find-a-partner.md)  |
+|İş Ortağı Merkezi panosundan CSP programı fiyatlandırma ve tekliflerini görüntüleme (bu panoyu *görmek için CSP programına kayıtlı olması gerekir)*  |[CSP fiyatlandırması ve tekliflere genel bakış](pricing-and-offers.md) [veya CSP belgeleri ve kaynakları](csp-documents-and-learning-resources.md) |
+|Müşteri anlaşmaları ile ilgili yardım için pazarlama malzemelerini keşfetme  | [MPN iş ortağı hazırlığı malzemeleri](https://partner.microsoft.com/asset#/?type=marketing-campaigns&area=mrkt)  |
+|Bir müşteri anlaşması veya çevrimiçi olay için Microsoft Teknik Satış Öncesi ve Dağıtım Hizmetleri'nden yardım alın  | [Teknik Satış Öncesi ve Dağıtım Hizmetleri'ne genel bakış](https://partner.microsoft.com/training/technical-presales-deployment-services) veya [Desteğe genel bakış](https://support.microsoft.com/help/3121537/using-technical-presales-and-deployment-services)  |
+|Open Licensing'te Microsoft Azure etkinleştirmeyi öğrenin   | [Açık programlar için Çevrimiçi Hizmet Etkinleştirme hakkında SSS](/licensing/online-service-activation-faq)  |
+|Kesintiden etkilene müşteriler için Microsoft'tan SLA kredisi hesaplama ve istekte bulundurma  | [Kesinti için SLA kredisi isteği](request-credit.md)   |
+|Microsoft iş ortağı topluluğundan yardım al  | [Microsoft iş ortağı topluluk forumu](https://www.microsoftpartnercommunity.com)  |
+
+## <a name="help-from-microsoft-support"></a>Microsoft Desteği'dan yardım
+
+Bir Microsoft iş ortağı olarak, başarınıza dahil olan diğer iş ortaklarından yardım istemeniz gerekir. Bu konudan yardım da Microsoft Desteği. İş ortağı programı sorunları, satış öncesi yardım, Microsoft ürünleriyle ilgili sorunlar, faturalama soruları ve daha fazlası için destek uzmanları kullanılabilir.
+
+Destek [seçeneklerinizi görüntülemek veya](https://partner.microsoft.com/support/?stage=1) bir destek bileti başlatmak için Microsoft İş Ortağı desteğine gidin.
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-- [Daha fazla destek kaynağı görüntüleyin](https://partner.microsoft.com/support/?stage=1)
+- [Daha fazla destek kaynağı görüntüleme](https://partner.microsoft.com/support/?stage=1)
 - [İş ortağı bulun](find-a-partner.md)
-- [MPN programını öğrenin veya kaydolun](https://partner.microsoft.com/membership)
-- [CSP programı hakkında bilgi edinin veya kaydolun](https://partner.microsoft.com/membership/cloud-solution-provider)
+- [MPN programı hakkında bilgi edinmek veya programa kaydolmak](https://partner.microsoft.com/membership)
+- [CSP programı hakkında bilgi veya kaydolma](https://partner.microsoft.com/membership/cloud-solution-provider)

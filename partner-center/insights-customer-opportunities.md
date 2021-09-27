@@ -4,16 +4,16 @@ description: Iş Ortağı Merkezi 'nde Cloudadscent eğilimini raporları hakkı
 ms.topic: conceptual
 ms.service: partner-dashboard
 ms.subservice: partnercenter-insights
-author: shganesh-dev
-ms.author: shganesh
+author: kshitishsahoo
+ms.author: ksahoo
 ms.localizationpriority: medium
 ms.date: 04/27/2021
-ms.openlocfilehash: 4248c3d72512073ba361bf1e0ee276a766b04176
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.openlocfilehash: 14e0ceb931a5eb58dcbab480617e093ebc36df43
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960805"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129070867"
 ---
 # <a name="cloudascent-propensity-reports-available-from-partner-center-dashboard"></a>Cloudadscent eğilimini raporları Iş Ortağı Merkezi panosundan kullanılabilir
 

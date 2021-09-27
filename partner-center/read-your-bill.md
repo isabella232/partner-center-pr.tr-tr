@@ -1,7 +1,7 @@
 ---
-title: Faturanız & keşfi dosyanızı okuma
+title: Faturanızı ve mutabakat dosyanızı anlayın
 ms.topic: article
-ms.date: 06/05/2020
+ms.date: 09/27/2021
 description: Faturanızda & mutabakat dosyaları hakkında bilgi edinin. Faturanızda, bu aylık dönem için program, ürün ve müşteriler genelinde Iş Ortağı Merkezi ücretleri gösterilmektedir.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-billing
@@ -9,34 +9,51 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 839f6f76e7efde4f0ad51375ceb5801f925c2510
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.openlocfilehash: 2004734a250a23be3037342ecc01f5e6bf7b51b0
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123961054"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129070189"
 ---
 # <a name="understand-your-bill-and-reconciliation-file---learn-how-to-find-them-in-partner-center"></a>Faturanızı ve mutabakat dosyanızı anlayın-bunları Iş Ortağı Merkezi 'nde nasıl bulacağınızı öğrenin
 
-
 **Uygun roller**: genel yönetici | Faturalandırma Yöneticisi | Yönetim Aracısı
 
+Faturanızda program, tüm ürünler ve tüm müşteriler genelinde tüm Iş Ortağı Merkezi ücretlerinden oluşan bir Özet vardır.
 
-**Faturanızda** **tüm iş ortağı merkezi ücretlerinizin** (program, tüm ürünler ve tüm müşteriler) bir özeti yer alınmaktadır. 
+## <a name="find-your-bill-and-reconciliation-file"></a>Faturanızı ve mutabakat dosyanızı bulun
 
-## <a name="find-your-bill-and-reconciliation-file"></a>Faturanızı ve mutabakat dosyanızı bulun 
+Faturanızı, Iş Ortağı Merkezi ' nde panonun faturalama sayfasında bulabilirsiniz. Bu sayfada faturalandırma geçmişinizi, harcama eğilimlerini ve mutabakatı dosyalarını da bulabilirsiniz.
 
-Faturanızı, Iş Ortağı Merkezi ' nde panonun faturalama sayfasında bulabilirsiniz. Bu sayfada faturalandırma geçmişinizi, harcama eğilimlerini ve mutabakatı dosyalarını da bulabilirsiniz. 
+> [!NOTE]
+> Iş Ortağı Merkezi önizleme arabirimi, mantıksal olarak gruplanmış çalışma alanları aracılığıyla daha verimli ve üretken bir kullanıcı deneyimi sağlar. Çalışma alanları arabirimi ve nasıl kullanılacağı hakkında daha fazla bilgi edinmek için bkz. [Iş ortağı merkezini alma](get-around-partner-center.md#turn-workspaces-on-and-off).
 
-1. Iş Ortağı Merkezi [panosunda](https://partner.microsoft.com/dashboard/home)oturum açın. 
+#### <a name="workspaces-view"></a>[Çalışma alanları görünümü](#tab/workspaces-view)
 
-2. Sol taraftaki menüde **faturalandırma**' i seçin. 
+1. [İş Ortağı Merkezi panosunda](https://partner.microsoft.com/dashboard/home) oturum açın.
 
-3. Faturalama durumu sayfasında daha ayrıntılı bilgi görüntülemek için bir fatura veya mutabakat dosyası seçin. 
+2. **Faturalandırma** kutucuğunu seçin.
 
-En son faturanızda bir bağlantıyı, son fatura tarihinden itibaren hesap bakiyesi altında sayfanın en üstünde bulabilirsiniz. 
+3. Daha ayrıntılı bilgi görüntülemek için bir fatura veya mutabakat dosyası seçin.
 
-Önceki faturaları faturalandırma geçmişi bölümünde bulabilirsiniz. Uygun yılı seçin ve ardından uygun fatura döneminin yanındaki aşağı açılan oku seçin. Bu dönemin faturasını indirmek için faturalar ' ın yanındaki bağlantıyı (.pdf) seçin. 
+En son faturanızda bir bağlantıyı, son fatura tarihinden itibaren hesap bakiyesi altında sayfanın en üstünde bulabilirsiniz.
+
+Önceki faturaları faturalandırma geçmişi bölümünde bulabilirsiniz. Uygun yılı seçin ve ardından uygun fatura döneminin yanındaki aşağı açılan oku seçin. Bu dönemin faturasını indirmek için faturalar ' ın yanındaki bağlantıyı (.pdf) seçin.
+
+#### <a name="current-view"></a>[Geçerli görünüm](#tab/current-view)
+
+1. [İş Ortağı Merkezi panosunda](https://partner.microsoft.com/dashboard/home) oturum açın.
+
+2. Sol taraftaki menüde **faturalandırma**' i seçin.
+
+3. Faturalama durumu sayfasında daha ayrıntılı bilgi görüntülemek için bir fatura veya mutabakat dosyası seçin.
+
+En son faturanızda bir bağlantıyı, son fatura tarihinden itibaren hesap bakiyesi altında sayfanın en üstünde bulabilirsiniz.
+
+Önceki faturaları faturalandırma geçmişi bölümünde bulabilirsiniz. Uygun yılı seçin ve ardından uygun fatura döneminin yanındaki aşağı açılan oku seçin. Bu dönemin faturasını indirmek için faturalar ' ın yanındaki bağlantıyı (.pdf) seçin.
+
+* * *
 
 ## <a name="invoice-types"></a>Fatura türleri
 
@@ -61,7 +78,6 @@ Microsoft, lisans tabanlı ücretler (Office 365 gibi) ve kullanım tabanlı üc
 - İş ortağı, EUR 'deki Azure planına yönelik ücretleri kapsayan bir fatura PDF ve tek bir mutabakat dosyası alır. 
 
 - İş ortağı başka bir fatura PDF 'si ve bir mutabakat dosyası alırlar (veya iş ortağı faturalandırma para birimi) 145p teklifi ücretini kapsayan bir 
-
 
 ## <a name="understanding-invoice-pdf"></a>Fatura PDF 'sini anlama 
 

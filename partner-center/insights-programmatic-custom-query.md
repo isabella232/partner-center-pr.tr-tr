@@ -4,16 +4,16 @@ description: Analiz tablolarından veri ayıklamak için özel sorgular oluştur
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-insights
-author: shganesh-dev
-ms.author: shganesh
+author: kshitishsahoo
+ms.author: ksahoo
 ms.localizationpriority: medium
 ms.date: 07/14/2021
-ms.openlocfilehash: 636d2eba7d259ae5e4525100b8d26e25ff031f48
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.openlocfilehash: 2bf688e5068c1a88d0c5d1b6e7da7c94f8a4e7e8
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960845"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129073416"
 ---
 # <a name="custom-query-specification"></a>Özel sorgu belirtimi
 
@@ -71,7 +71,7 @@ Bu bir JSON olarak gösterilen veri kümesi örneğidir:
 
 Bunlar çeşitli veri türlerinin nasıl ayıklanacağını gösteren bazı örnek sorgulardır.
 
-|Sorgu|    Description    |
+|Sorgu|    Açıklama    |
 |----|    ----    |
 |**Seç** Customertenantıd, Paidadvailableunits  <br>Officekullanım zaman **aralığı** LAST_MONTH|    Bu sorgu, son 1 ayda her Cusotmertenantıd ve karşılık gelen Paidavvailableunits 'ı alır.    |
 |**Seç** Customertenantıd, Paidadvailableunits  <br>Paidadvailableunits tarafından Officekullanım **sırası** **sınırı** 10|    Bu sorgu, ilk 10 müşteri kiracıyı, ücretli kullanılabilir birim sayısı azalan sırada alacak.     |
@@ -87,7 +87,7 @@ Bu bölümde sorgu tanımı ve yapısı açıklanmaktadır.
 
 Bu tablo sorgularda kullanılan sembolleri açıklar.
 
-|    Sorgu    |    Description    |
+|    Sorgu    |    Açıklama    |
 |    ----    |    ----    |
 |    `?`    |    İsteğe Bağlı    |
 |    `*`    |    Sıfır veya daha fazla    |

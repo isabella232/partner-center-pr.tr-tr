@@ -3,18 +3,18 @@ title: Microsoft İş Ortağı Ağı avantajları
 ms.topic: article
 ms.date: 10/15/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-membership
+ms.subservice: partnercenter-benefits
 description: Microsoft Microsoft İş Ortağı Ağı, yetkinlikler veya program seçenekleri Eylem Paketi gibi Microsoft İş Ortağı Ağı (MPN) avantajları hakkında bilgi edinmek ve çözümlerinizi satmayı öğrenin.
-author: ArpithaKanuganti
-ms.author: v-arkanu
+author: keramp88
+ms.author: keramp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: bd5acdd94272d9c022eb0e3a034325b2dc1d9f12
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.openlocfilehash: b4ccbf542dc4977cc8440c0912fdfbe53b8e1401
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960394"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129071794"
 ---
 # <a name="partner-with-microsoft-and-discover-membership-benefits"></a>Microsoft ile iş ortağı olun ve üyelik avantajlarını keşfedin
 
@@ -26,7 +26,7 @@ Bir Microsoft iş ortağı programına katılarak, sizi müşterilerinize yardı
 
 ## <a name="join-the-microsoft-partner-network"></a>Microsoft İş Ortağı Ağı
 
-Kullanıcı ekleme Microsoft İş Ortağı Ağı MPN web [ **sitesinin**](https://partner.microsoft.com/membership) Üyelik sayfasına gidin ve Şimdi kaydol veya **Katıl'ı** **seçin.**
+Kayıt sayfasına Microsoft İş Ortağı Ağı MPN web [ **sitesinin**](https://partner.microsoft.com/membership) Üyelik sayfasına gidin ve Şimdi kaydol **veya** **Katıl'ı seçin.**
 
 ## <a name="action-pack"></a>Eylem Paketi
 
@@ -34,18 +34,18 @@ Eylem Paketi, Microsoft uygulamalarına bulut ve mobil bir dünyada başlamak, o
 
 Daha fazla bilgi edinmek için aşağıdaki kaynakları gözden Eylem Paketi:
 
-- [Microsoft Eylem Paketi ile bulut işlerinizi ileri Eylem Paketi](https://partner.microsoft.com/membership/action-pack)
+- [Microsoft Eylem Paketi ile bulut işlerinizi Eylem Paketi](https://partner.microsoft.com/membership/action-pack)
 
 - [Get the Eylem Paketi](mpn-get-action-pack.md)
   
     >[!IMPORTANT]
-    >Eylem Paketi aboneliğinizi İş Ortağı Merkezi. Şirket henüz İş Ortağı Merkezi'Partner Membership Center taşınmadı İş Ortağı Merkezi [](./partner-membership-center-retirement-faq.md)  
+    >Eylem Paketi aboneliğinizi İş Ortağı Merkezi. Şirket henüz şirket dışından İş Ortağı Merkezi Partner Membership Center için hazırlanma [makalesi İş Ortağı Merkezi](./partner-membership-center-retirement-faq.md)  
 
 - [MPN tekliflerinizi yenileme](renew-mpn-offers.md)
 
 ## <a name="competencies"></a>Yetkinlikler
 
-Özelleştirilmiş bir iş alanında kaliteli çözümler sunma konusundaki kanıtlanmış uzmanlığınızı gösterme. Microsoft yetkinlikleri, mevcut müşterilerin ihtiyaçlarını karşılayacak ve olası müşterilerin farkını karşılayacak şekilde tasarlanmıştır. Microsoft iş ortaklarının elit katmanına katılın ve iş ortaklarınızı öne çıkarın.
+Özelleştirilmiş bir iş alanında kaliteli çözümler sunma konusundaki kanıtlanmış uzmanlığınızı gösterme. Microsoft yetkinlikleri, mevcut müşterilerimizin ihtiyaçlarını karşılayacak ve olası müşterilerin farkını karşılayacak şekilde tasarlanmıştır. Microsoft iş ortaklarının elit katmanına katılın ve iş ortaklarınızı öne çıkarın.
 
 Yetkinlikler hakkında daha fazla bilgi edinmek için aşağıdaki kaynakları gözden geçirme:
 
@@ -53,7 +53,7 @@ Yetkinlikler hakkında daha fazla bilgi edinmek için aşağıdaki kaynakları g
 
 ## <a name="microsoft-partner-network-benefits-and-requirements"></a>Microsoft İş Ortağı Ağı avantajları ve gereksinimleri
 
-Microsoft İş Ortağı Ağı'a katılarak özelliklerinizi güçlendirirken, müşterilere daha iyi hizmet ederken ve tam iş potansiyelinize ulaşmak için bağlantılar kurarak zamandan ve paradan tasarruf etmeye yardımcı olan bir dizi temel avantaj elde edersiniz. 
+Bu hizmete Microsoft İş Ortağı Ağı özelliklerinizi güçlendirirken, müşterilere daha iyi hizmet ederken ve tam iş potansiyelinize ulaşmak için bağlantılar kurmanıza yardımcı olacak bir dizi temel avantaj elde edersiniz. 
 
 Ağ avantajları ve gereksinimleri hakkında daha fazla bilgi edinmek için aşağıdaki kaynakları gözden geçirme:
 
@@ -63,5 +63,5 @@ Ağ avantajları ve gereksinimleri hakkında daha fazla bilgi edinmek için aşa
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-- [Microsoft iş ortağı işlerinizi büyüt](grow-your-business.md)
+- [Microsoft iş ortağı iş ortağınızı büyüt](grow-your-business.md)
 - [MPN web sitesi.](https://partner.microsoft.com/commercial)

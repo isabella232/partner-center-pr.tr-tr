@@ -7,13 +7,13 @@ ms.subservice: partnercenter-account
 author: parthpandyaMSFT
 ms.author: parthp
 ms.custom: seodec18
-ms.date: 06/12/2020
-ms.openlocfilehash: 4b913754dd73f99e8aa363d257a9ac658d190b6a
-ms.sourcegitcommit: fceaca54b0ec695cf214209c09b4516e1b40866a
+ms.date: 09/27/2021
+ms.openlocfilehash: 090deddc8cdb06fe1b5f884b3efa9031fd93364b
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/23/2021
-ms.locfileid: "128322008"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129071846"
 ---
 # <a name="merge-your-partner-account-with-another-partner-account"></a>İş ortağı hesabınızı başka bir iş ortağı hesabıyla birleştirme
 
@@ -81,16 +81,18 @@ Hesapları birleştirme davetini kabul etme kararı verirseniz: · MPN KIMLIĞIN
 
 ## <a name="invite-a-company-to-merge-their-partner-center-account-with-your-partner-center-account"></a>İş Ortağı Merkezi hesabınızla Iş Ortağı Merkezi hesabını birleştirmek için bir şirket davet edin
 
->[!Note]
->Hesap birleşmesi gerçekleştirmek için şirketiniz için **Hesap Yöneticisi** olmanız gerekir.
+> [!NOTE]
+> Hesap birleşmesi gerçekleştirmek için şirketiniz için **Hesap Yöneticisi** olmanız gerekir.
 
-1. iş ortağı merkezi panosundan **Ayarlar** seçin. 
+1. [İş Ortağı Merkezi panosunda](https://partner.microsoft.com/dashboard) oturum açın.
+ 
+2. Ayarlar dişli simgesini seçin, sonra **hesap ayarları**' nı seçin.
 
-2. **Hesap birleştirmeyi** seçin.
+3. **Hesap birleştirmeyi** seçin.
 
-3. Sizinle birleştirmek üzere davet etmek istediğiniz hesabın **Iş ortağı profilinde** bulunan MPN kimliğini ekleyin. Iş ortağı küresel MPN KIMLIĞINI kullanmanız gerekir. MPN KIMLIĞI konumunu kullanamazsınız.
+4. Sizinle birleştirmek üzere davet etmek istediğiniz hesabın **Iş ortağı profilinde** bulunan MPN kimliğini ekleyin. Iş ortağı küresel MPN KIMLIĞINI kullanmanız gerekir. MPN KIMLIĞI konumunu kullanamazsınız.
 
-4. **Birleştir**' i seçtiğinizde, iş ortağı şirketine bir davetiye gönderilir. İsteğinizi kabul ettiğinde, Iş Ortağı Merkezi 'nde hesap birleştirmeyi başlatabilirsiniz. Şirket, hesapları birleştirme isteğinizi reddettiğinde, isteği reddettikleri nedenleri açıklayabilirler. Tüm hesap birleştirmelerinde, **birleştirme geçmişi** altında kullanabileceğiniz bir liste vardır.
+5. **Birleştir**' i seçtiğinizde, iş ortağı şirketine bir davetiye gönderilir. İsteğinizi kabul ettiğinde, Iş Ortağı Merkezi 'nde hesap birleştirmeyi başlatabilirsiniz. Şirket, hesapları birleştirme isteğinizi reddettiğinde, isteği reddettikleri nedenleri açıklayabilirler. Tüm hesap birleştirmelerinde, **birleştirme geçmişi** altında kullanabileceğiniz bir liste vardır.
  
 ### <a name="example-of-two-companies-merging-accounts"></a>Hesapları birleştiren iki şirket örneği
 

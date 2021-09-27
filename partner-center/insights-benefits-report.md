@@ -5,20 +5,20 @@ ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-insights
 description: İşletmenizi geliştirmeye, verimliliği artırmaya ve takımınıza yardımcı olmak için size verilen Microsoft İş Ortağı avantajlarının türlerini görme.
-author: shthota77
-ms.author: shthota
+author: kshitishsahoo
+ms.author: ksahoo
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 457a5197ea9bcfaf2d9c936b7483b33688b1cb41
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.openlocfilehash: 759d5d5f1d258325a00bbc53833059de61707c77
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960234"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129074450"
 ---
 # <a name="benefits-report-available-from-the-partner-center-insights-dashboard"></a>İş Ortağı Merkezi Analizler panosundan İş Ortağı Merkezi Analizler raporu
 
-**Uygun roller:** Genel yönetici | Yönetici aracısı | Rapor görüntüleyicisi | Yönetici raporu görüntüleyicisi
+**Uygun roller:** Genel yönetici | Yönetici aracısı | Rapor görüntüleyici | Yönetici raporu görüntüleyicisi
 
 Microsoft İş Ortağı olarak, takımınızı becerilerini geliştirmenize, verimliliği artırmanıza ve işlerinizi geliştirmenize yardımcı olmak için en son teknolojiyi ve yenilikleri kullanan birçok avantaja erişin. Avantajlar paketleri şunlardır: lisanslı yazılım ayırmaları, bulut hizmetleri, Visual Studio abonelikleri ve destek. Bu paketler belirli Pazara Satış kaynaklarını, teklifleri ve programları da içerebilir. Avantajlar raporu, eriştiğiniz avantajların eğilimlerini ve bunların seçili tarih aralığındaki kullanımını gösterir.
 
@@ -34,11 +34,11 @@ Avantajlar raporunda aşağıdaki grafikleri görselleştirebilirsiniz:
 - Pazara satış
 
  > [!NOTE]
- > Bu rapor, Analizler kullanılabilir. Bu raporu görüntülemek için Genel Yönetici, Hesap Yöneticisi, Rapor Görüntüleyicisi İş Ortağı Merkezi Yönetici Rapor Görüntüleyicisi gibi belirli bir rol atanmış olması gerekir. Daha fazla bilgi için, bkz. şirketinizin Genel Yöneticisi. Bu rapora özgü veri türleri yalnızca Yönetici Rapor Görüntüleyicisi ayrıcalıklarına sahip kullanıcılar tarafından da kullanılabilir.
+ > Bu rapor, Analizler kullanılabilir. Bu raporu görüntülemek için Genel Yönetici, Hesap Yöneticisi, Rapor Görüntüleyicisi İş Ortağı Merkezi Yönetici Rapor Görüntüleyicisi gibi belirli bir rol atanmış olması gerekir. Daha fazla bilgi için, bkz. Şirketinizin Genel Yöneticisi. Bu rapora özgü veri türleri yalnızca Yönetici Rapor Görüntüleyicisi ayrıcalıklarına sahip kullanıcılar tarafından da kullanılabilir.
 
 ## <a name="summary"></a>Özet
 
-Özet bölümünde lisanslı yazılım, bulut hizmetleri (Azure dışı), Visual Studio abonelikler, teknik destek ve belirli Pazara Satış hizmetleri veya teklifleri açısından verilen avantajlar açıklanmaktadır.
+Özet bölümünde lisanslı yazılımlar, bulut hizmetleri (Azure dışı), Visual Studio abonelikleri, teknik destek ve belirli Pazara Satış hizmetleri veya teklifleri açısından verilen avantajlar yer alır.
 
 Örnek: Microsoft İş Ortağı Ağı (MPN) üyelik iş ortakları, şirket içi ürünler ve bulut ürünleri için teknik destek almaya uygundur. Silver uzmanlığına sahip olan iş ortaklarına, şirket içi ürünler için 15 olay için teknik destek verildi. Bu destek gerektiğinde tüketir. 
 
@@ -69,7 +69,7 @@ Size avantaj olarak verilen belirli bir abonelikle ilgili eğilimi Visual Studio
 
 Bu grafik, seçilen tarih aralığında verilen destek avantajlarının aylık eğilimini gösterir.
 
-Size verilen belirli bir destek avantajının eğilimini görüntülemek için grafiğin üst kısmından bir sekme seçin. Çizgi grafik, seçilen destek avantajı için atanan genel destek saatlerini temsil eder.
+Size verilen belirli bir destek avantajının eğilimini görüntülemek için grafiğin üst kısmından bir sekme seçin. Çizgi grafik, seçilen destek avantajı için atanan toplam destek saatlerini temsil eder.
 
 :::image type="content" source="images/insights/benefits-technical-benefits.png" alt-text="teknik avantajlar.":::
 
@@ -77,7 +77,7 @@ Size verilen belirli bir destek avantajının eğilimini görüntülemek için g
 
 Bu grafik, seçilen tarih aralığında ve seçili bir Pazara Git teklifi veya hizmet kategorisi için ayrılan tekliflere göre etkinleştirilen Pazara Çıkış tekliflerinin veya hizmetlerinin aylık eğilimini gösterir.
 
-Grafiğinizin üst kısmında yer alan açılan listeden bir Pazara Satış teklifi veya hizmet kategorisi seçerek, şirket için verilen seçili Pazara Satış hizmetlerinin eğilimini görüntüleyin. Grafikte yer alan sütunlar, etkinleştirilen Pazara Satış tekliflerini veya hizmetleri temsil ediyor. Çizgi grafik, genel Pazara Satış tekliflerini veya şirketinize verilen hizmetleri temsil eder.
+Grafiğinizin üst kısmında yer alan açılan listeden bir Pazara Satış teklifi veya hizmet kategorisi seçerek, şirketinize verilen seçili Pazara Satış hizmetlerinin eğilimini görüntüleyin. Grafikte yer alan sütunlar, etkinleştirilen Pazara Satış tekliflerini veya hizmetleri temsil ediyor. Çizgi grafik, genel Pazara Satış tekliflerini veya şirketinize verilen hizmetleri temsil eder.
 
 :::image type="content" source="images/insights/benefits-go-to-market.png" alt-text="Pazara Git teklifleri.":::
 

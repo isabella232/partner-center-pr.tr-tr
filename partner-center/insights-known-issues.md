@@ -1,55 +1,55 @@
 ---
-title: İş Ortağı Merkezi Analizler bilinen sorunlar
+title: iş ortağı merkezi Analizler bilinen sorunlar
 ms.topic: article
 ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-insights
-description: İş Ortağı Merkezi Analizler (PCI) raporlarıyla ilişkili bilinen sorunlar hakkında bilgi edinebilirsiniz. Bilgiler bilinen işleme sorunlarını veya raporlama sınırlamalarını içerebilir.
-author: shthota77
-ms.author: shthota
+description: iş ortağı merkezi Analizler (pcı) raporlarıyla ilişkili tüm bilinen sorunlar hakkında bilgi edinin. Bilgiler, bilinen işleme sorunları veya Raporlama sınırlamaları içerebilir.
+author: kshitishsahoo
+ms.author: ksahoo
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 3d40c0c8bab2b7f49797feb3685920210198a6d3
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.openlocfilehash: 434dafb42a21a8ed555b6b873e9b83bc8ab5e2d6
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123961384"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129074662"
 ---
-# <a name="partner-insights--frequently-asked-questions"></a>İş Analizler - Sık Sorulan Sorular
+# <a name="partner-insights--frequently-asked-questions"></a>iş ortağı Analizler – sık sorulan sorular
 
-**Uygun roller:** Rapor görüntüleyici | Yönetici raporu görüntüleyicisi
+**Uygun roller**: rapor Görüntüleyici | Executive rapor Görüntüleyicisi
 
-Bu makale, raporlarla ilişkili raporları görüntüleme veya işlemeyle ilgili bilinen Analizler.
+bu makalede, Analizler ilişkili raporları görüntülemek veya işlemek için bilinen sorunlar ele alınmaktadır.
 
-S) **Hesap hesabımda Analizler hub'İş Ortağı Merkezi göremiyorum. Ne yapabilirim?**
+s) **iş ortağı merkezi hesabmda Analizler merkezini görmüyorum. Ne yapmam gerekir?**
 
-Y) Kuruluş için Microsoft İş Ortağı Ağı (MPN) hesabında oturum açtığınızdan emin olun. Analizler (CSP) Bulut Çözümü Sağlayıcısı erişesiniz. Ayrıca Genel yöneticiniz tarafından Rapor görüntüleyicisi veya Yönetici rapor görüntüleyicisi rolü erişimi sağlanmıştır.  Roller hakkında daha fazla bilgi için bu [makaleye bakın.](./insights-roles.md)
+A) kuruluşunuzun Microsoft İş Ortağı Ağı (MPN) hesabında oturum açtığınızdan emin olun. Analizler panosuna Bulut Çözümü Sağlayıcısı (CSP) hesabınızdan erişemezsiniz. Ayrıca, genel yöneticiniz tarafından rapor Görüntüleyicisi veya Executive rapor Görüntüleyicisi rolü erişimi sağladığınızdan emin olun.  Roller hakkında daha fazla bilgi için [Bu makaleye](./insights-roles.md)bakın.
 
-S) **Raporlarımda Faturalı Gelir veya Azure Tüketim Geliri (ACR) verilerini göremiyorum. Bu neden?**
+S) **Raporlarım faturalanan geliri veya Azure tüketilen gelir (ACR) verilerini göremiyorum. Neden?**
 
-A) Faturalandırılacak Gelir ve ACR verileri yalnızca Yönetici rapor görüntüleyicisi olan kullanıcılar tarafından kullanılabilir.  Roller hakkında daha fazla bilgi için bu [makaleye bakın.](./insights-roles.md)
+A) faturalandırılan gelir ve ACR verileri yalnızca Executive rapor izleyicileri olan kullanıcılar tarafından kullanılabilir.  Roller hakkında daha fazla bilgi için [Bu makaleye](./insights-roles.md)bakın.
 
-S) **Raporlarımda Faturalı Gelir veya Azure Tüketim Geliri (ACR) verilerini göremiyorum. Bu neden?**
+S) **Raporlarım faturalanan geliri veya Azure tüketilen gelir (ACR) verilerini göremiyorum. Neden?**
 
-A) Faturalandırılacak Gelir ve ACR verileri yalnızca Yönetici rapor görüntüleyicisi olan kullanıcılar tarafından kullanılabilir. Roller hakkında daha fazla bilgi için bu [makaleye bakın.](./insights-roles.md)
+A) faturalandırılan gelir ve ACR verileri yalnızca Executive rapor izleyicileri olan kullanıcılar tarafından kullanılabilir. Roller hakkında daha fazla bilgi için [Bu makaleye](./insights-roles.md)bakın.
 
-S) **Müşterim için bildirilen ülke yanlış görünüyor. Bu neden?**
+S) **müşterimin bildirdiği ülke yanlış gibi görünüyor. Neden?**
 
-Y) Müşteri ülkesi, o müşterinin Genel üst kuruluştan türetilen ülkedir. Bu ülke, işlemde bulundurmış olabileceğiniz müşterinin ülkesiyle farklı olabilir. Bu nedenle, müşterinin rapor ettiği ülke beklediğinizden farklı olabilir.
+A) müşteri ülkesi, bu müşterinin küresel ana kuruluşunun ülkesinden türetilir. Bu ülke, işlem yapmış olabileceğiniz müşterinin ülkesinden farklı olabilir. Bu nedenle müşterinin bildirdiği ülke, beklediğiniz kadar farklı olabilir.
 
-S) **Raporlarda birkaç müşteri adı karartıldı. Beklenen bir şey mi?**
+S) **raporlarda birkaç müşteri adı olduğunu görüyorum. Beklensin mi?**
 
-A) Uyumluluk nedenleriyle belirli abonelikler için müşteri adları karartıldı. Ancak, müşterinin Üst Üst Kimliği (TPID) kullanılabilir ve bu müşteri adlarını buradan kullanabilirsiniz.
+A) uyumluluk nedenlerinden dolayı belirli abonelikler için müşteri adları kararsallardır. Bununla birlikte, müşterinin en üst üst KIMLIĞI (TPıD) kullanılabilir ve bu, müşteri adlarını buradan aramak için kullanabilirsiniz.
 
-S) **Raporların tipik gecikme süresi nedir?**
+S) **raporların tipik gecikme süresi nedir?**
 
-A) Abonelikler ve Müşteriler verileri günlük olarak yenilenir ve veriler bir haftalık gecikme süresiyle rapor edilir. Azure kullanım verileri bir haftalık gecikme süresiyle raporlandı. Office 365, Teams, Dynamics 365, Enterprise Mobility and Security (EMS) ve Power BI kullanım verileri bir aylık gecikme süresiyle raporlanıyor.
+A) abonelikler ve müşteriler verileri her gün yenilenir ve veriler bir haftalık gecikme süresiyle bildirilir. Azure kullanım verileri bir haftalık gecikme süresiyle bildirilir. Office 365, Teams, Dynamics 365, Enterprise taşınabilirlik ve güvenlik (EMS) ve Power BI kullanım verileri bir aylık gecikme süresiyle raporlanır.
 
-S) **Raporlar, Internet Explorer işlenmiyor mu?**
+S) **Raporlar Internet Explorer 'da Işlenmiyor. bu beklenen bir midir?**
 
-A) Raporlar, raporlarla ilgili işleme Internet Explorer. Bu tarayıcılar, Microsoft Edge tarayıcılarla iyi çalışır.
+A) raporlarda, Internet Explorer ile işleme sorunları vardır. Microsoft Edge ve diğer tarayıcılarla iyi çalışır.
 
 **Sonraki adımlar**
 
-- hakkında daha fazla bilgi [İş Ortağı Merkezi Analizler.](partner-center-insights.md)
+- [iş ortağı merkezi Analizler](partner-center-insights.md)hakkında daha fazla bilgi edinin.

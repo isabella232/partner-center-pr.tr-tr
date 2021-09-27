@@ -1,20 +1,20 @@
 ---
 title: Microsoft Eylem Paketi tekliflerini satın alma veya yenileme
 ms.topic: how-to
-ms.date: 12/15/2020
+ms.date: 09/27/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-benefits
+ms.subservice: partnercenter-membership
 description: Microsoft Eylem Paketi aboneliğini satın almayı ve Eylem Paketi avantajları kullanmaya nasıl başlayacağınızı öğrenin. Ayrıca bkz. yenilemeyi, iptal etmeyi, faturanızı görüntülemeyi ve daha fazlasını öğrenin.
 author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8124d05f971149cffe0d4c49f7ec68c38ea54156
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.openlocfilehash: 0cd6eeda7052ac2e4df123d42d13e0d1a200536f
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960594"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129073376"
 ---
 # <a name="buy-or-renew-a-microsoft-action-pack-subscription-or-silver-and-gold-competencies"></a>Microsoft Eylem Paketi aboneliği veya Silver ve Gold uzmanlık satın alma veya yenileme
 
@@ -22,7 +22,7 @@ ms.locfileid: "123960594"
 **Uygun roller**: genel yönetici | Kullanıcı Yönetimi Yöneticisi | MPN iş ortağı Yöneticisi | Yönetim Aracısı
 
 
-Iş Ortağı Merkezi [panosundan](https://partner.microsoft.com/dashboard), Microsoft iş ortağı ağı (MPN)) üyeleri, Microsoft eylem paketi aboneliği ve gümüş ve altın uzmanlık olanakları dahil olmak üzere kazanç teklifleri satın alabilir veya yenileyebilir.
+Iş Ortağı Merkezi [panosundan](https://partner.microsoft.com/dashboard), Microsoft iş ortağı ağı (MPN) üyeleri, Microsoft eylem paketi aboneliği ve gümüş ve altın uzmanlık olanakları dahil olmak üzere kazanç teklifleri satın alabilir veya yenileyebilir.
 
 ## <a name="buy-microsoft-action-pack-for-the-first-time"></a>Microsoft Eylem Paketi ilk kez satın alın
 

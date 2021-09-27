@@ -4,75 +4,69 @@ ms.topic: overview
 ms.date: 12/01/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-enroll
-description: İş ortağı merkezini Microsoft ve müşterilerinizle Transact Business 'a kullanın
+description: Microsoft İş Ortağı Merkezi müşterilerinizle iş yapmak için İş Ortağı Merkezi'i kullanma
 author: jasongroce
 ms.author: jasongroce
 ms.localizationpriority: high
-ms.openlocfilehash: d60adb307e57fb63e0257954f3f0cc578f9c25d1
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.openlocfilehash: 372fe1c213e7c947392302eb4cbf46c74fe96799
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123961144"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129073146"
 ---
 # <a name="what-is-partner-center"></a>İş Ortağı Merkezi nedir?
 
-**Uygun roller**: Iş Ortağı Merkezi ile ilgilenen tüm iş ortakları
+**Uygun roller:** İş ortaklarıyla İş Ortağı Merkezi
 
-İş [Ortağı Merkezi](https://partner.microsoft.com/dashboard/home) , Microsoft Iş ortaklarının Microsoft ve müşterileri ile ilişkilerini yönetmesini kolaylaştırmak için çeşitli iş süreçlerini kolaylaştırmaktadır. İş Ortağı Merkezi, işlerinizi yapmak için ihtiyacınız olan araçlara erişmenizi sağlar. Iş Ortağı Merkezi 'ni şu şekilde kullanın:
+[İş Ortağı Merkezi,](https://partner.microsoft.com/dashboard/home) Microsoft iş ortaklarının Microsoft ve müşterileri ile ilişkilerini yönetmesini kolaylaştırmak için çeşitli iş süreçlerini kolaylaştırır. İş Ortağı Merkezi, işi yapmak için ihtiyacınız olan araçlara erişmeyi sağlar. Aşağıdaki İş Ortağı Merkezi kullanın:
 
-- Microsoft hesabı ve kullanıcılarınızı yönetme
-- Müşterilerle etkileşim kurun
-- Diğer iş ortaklarıyla ilişkiler oluşturun
+- Kullanıcılarınızı Microsoft hesabı yönetme
+- Müşterilerle etkileşim kurma
+- Diğer iş ortaklarıyla ilişki oluşturma
 - Teşvik programlarına kaydolma
-- Microsoft İş Ortağı Ağı üyeliğinizi yönetin
+- Microsoft İş Ortağı Ağı'da üyeliğinizi yönetme
 - Müşteri aboneliklerini yönetme
-- Faturalı ve ücretli
+- Fatura ve ödeme
 - Desteğe başvurun
-- Bağımsız yazılım satıcısı (ISV) iş ortaklarımız tarafından oluşturulan ve sunulan binlerce müşteriye yönelik transactable hizmet ve uygulamanın kataloğu olan [Microsoft ticari Market](/azure/marketplace)'teki teklifleri yayımlayın veya keşfedebilirsiniz.
-
-:::image type="content" source="images/home.png" alt-text="İş Ortağı Merkezi 'ne genel bakış.":::
+- [Microsoft](/azure/marketplace)ticari marketi tekliflerini yayımlayın veya keşfedin. Bağımsız yazılım satıcısı (ISV) iş ortaklarımız tarafından yerleşik ve teslim edilen, müşterilere yönelik işlem yapılabilecek binlerce hizmet ve uygulamanın kataloğu.
 
 ## <a name="manage-your-account"></a>Hesabınızı yönetme
 
-Bulut Çözümü Sağlayıcısı programda bir iş ortağı veya uygulamalarınızı satmakta olan bir geliştirici ortağı olun, iş ortağı merkezi hesabınızı bir hesap ayarları konumundan yönetirsiniz: iş ortağı merkezi [panosu](https://partner.microsoft.com/dashboard/home). Buradan, yasal bilgiler, vergi ayrıntıları, kiracılar, iş konumları, kullanıcılar ve izinler ve şirketinizin kaydedildiği belirli programlar değiştirebilirsiniz.
+Bulut Çözümü Sağlayıcısı programında iş ortağı veya uygulamalarınızı satan bir geliştirici iş ortağı olun, İş Ortağı Merkezi hesabınız tek bir hesap ayarları konumdan yönetirsiniz: İş Ortağı Merkezi [panosu.](https://partner.microsoft.com/dashboard/home) Buradan yasal bilgileri, vergi ayrıntılarını, kiracıları, iş konumlarını, kullanıcıları ve izinleri ve şirketinizin kayıtlı olduğu belirli programları değiştirebilirsiniz.
 
-Iş Ortağı Merkezi 'nde görebileceğiniz ve yönetebileceğiniz özellikler, rolünüze ve izinlerinize bağlıdır. [Roller ve izinler](permissions-overview.md)bölümünde daha fazla bilgi edinin.
-
-:::image type="content" source="images/accountsettings/account-settings-new.png" alt-text="Ayarlar menü.":::
+Bu dosyalarda neleri görebilir ve İş Ortağı Merkezi rolünüz ve izinlere bağlıdır. Roller ve izinler [hakkında daha fazla bilgi.](permissions-overview.md)
 
 ## <a name="membership-programs"></a>Üyelik programları
 
-Iş Ortağı Merkezi 'nde, uzmanlıklarla ilgili yetenekler geliştirme ve gelişmiş Uzmanlıkları atma gibi beceriler geliştirmek için Microsoft yazılım ve araçları sağlayan bir Microsoft Eylem Paketi satın alabilirsiniz. Bu programlara dahil edilen avantajlar, çözümler oluşturmanıza ve pazara gidemenize yardımcı olur; Bunları Iş Ortağı Merkezi 'nde gözden geçirin ve yönetin. [Microsoft iş ortağı ağı üyelik programlarını karşılaştırın](https://partner.microsoft.com/membership/compare-offers).
+Bu İş Ortağı Merkezi uzmanlık kazanma ve gelişmiş uzmanlıklar Eylem Paketi becerileri geliştirme gibi uzmanlık geliştirme araçları sağlayan bir Microsoft Eylem Paketi satın alınabilirsiniz. Bu programlara dahil edilen avantajlar, çözüm oluşturmanıza ve pazara gitmelerine yardımcı olur; bunları gözden geçirin ve İş Ortağı Merkezi. [İlke Microsoft İş Ortağı Ağı programlarını karşılaştırın.](https://partner.microsoft.com/membership/compare-offers)
 
 ## <a name="connect-with-customers"></a>Müşterilerle bağlantı kurma
 
-Şirketinizin uzmanlık alanını göstermek için iş profilinizi oluşturun. Teknik ve çözüm alanı uzmanlığınızı vurgulayın, becerilerinizin kapsamını ve derinliğini gösterin ve yeni pazar fırsatlarıyla sonuçlanın. Iş Ortağı Merkezi sayesinde, iş ortakları pazarlama kaynaklarına erişimi, pazara ulaşma süresini hızlandırmaya, müşteri adaylarını oluşturmaya ve bulut işletmelerine yönelik Büyümenize yardımcı olur. Microsoft AppSource ve Azure Marketi 'ni içeren ticari Market ürün kataloğu, bilgi ve ürün içi satın alma deneyimleri sunmanızı sağlar. Çözümleriniz, dünyanın dört bir yanındaki işletmeler, kuruluşlar ve kamu kurumları ile bağlantı kurarak, kendi Microsoft çözümlerimizle ilgili çevrimiçi mağazalarımıza göre listelenmiştir. Referanslar hakkında daha fazla bilgi edinmek için [müşteri sorguları, pazarlama-nitelikli müşteri adayları ve satış nitelikli müşteri adayları gibi farklı müşteri adaylarını yönetin](manage-leads.md)makalesini okuyun. İş profiliniz hakkında daha fazla bilgi edinmek için [iş profili oluşturma](create-a-marketing-profile.md)makalesini okuyun.
+Şirketinizin uzmanlık alanlarını görüntülemek için iş profilinizi oluşturun. Teknik ve çözüm alanı uzmanlığınızı vurgulayın, becerilerinizi ve derinliğinizi sergilenin ve yeni pazar fırsatlarına liderlik edin. İş İş Ortağı Merkezi, pazarlama kaynaklarına erişimi artırarak pazarlama sürecini hızlandırmalarına, müşteri adayları oluşturmalarına ve bulut işletmelerini büyüterek onlara yardımcı olur. Ürün ve hizmetleri içeren ticari market Microsoft AppSource Azure Market, bilgi ve ürün içinde satın alma deneyimleri sunabilirsiniz. Çözümleriniz kendi Microsoft çözümlerimizin yanı sıra çevrimiçi mağazamızda listelenmiştir ve sizi dünyanın her yanındaki işletmelerle, kuruluşlarla ve kamu kurumlarıyla bağlar. Referanslar hakkında daha fazla bilgi edinmek için müşteri sorguları, pazarlama nitelikli müşteri adayları ve satışa uygun müşteri adayları gibi farklı [müşteri adaylarını yönetme makalelerini okuyun.](manage-leads.md) İş profiliniz hakkında daha fazla bilgi edinmek için İş [profili oluşturma makalelerini okuyun.](create-a-marketing-profile.md)
 
 ## <a name="co-sell-with-microsoft-and-other-partners"></a>Microsoft ve diğer iş ortaklarıyla ortak satış
 
-Ortak satış, iş ortaklarının Microsoft ve diğer iş ortaklarıyla birlikte ortaklaşa, daha iyi bir şekilde satış ve olumlu müşteri sonuçları ile birlikte birleştiribilecekleri bir yoldur. Ortak satış, dünya çapındaki yeni müşterilere ulaşmak için Microsoft Global Marka, satış ekipleri, talep oluşturma yeteneklerini ve ticari Market 'i kullanmanıza imkan sağlar. Hem diğer iş ortaklarıyla hem de bizimle Satım. [Ortak satış fırsatlarını yönetme](manage-co-sell-opportunities.md)hakkında daha fazla bilgi edinin.
+Ortak satış, iş ortaklarının işbirliğine dayalı, birlikte daha iyi satış yapmak ve olumlu müşteri sonuçları elde etmek için Microsoft ve diğer iş ortaklarıyla birlikte satış yapmak için yoldur. Ortak satış, dünya genelinde yeni müşterilere ulaşmak için Microsoft küresel markasını, satış ekiplerini, talep oluşturma özelliklerini ve ticari marketi kullanmana olanak sağlar. Hem diğer iş ortaklarıyla hem de bizimle satış. Ortak satış [fırsatlarını yönetme hakkında daha fazla bilgi için:](manage-co-sell-opportunities.md).
 
-## <a name="manage-customer-software-needs"></a>Müşteri yazılımı ihtiyaçlarını yönetme
+## <a name="manage-customer-software-needs"></a>Müşteri yazılım ihtiyaçlarını yönetme
 
-Güvenilen iş ortağı olarak, müşterilerin Microsoft yazılım ve hizmetlerini satın almayı seçme şeklinden bağımsız olarak, müşteri yaşam döngüsünün tüm aşamalarında kritik bir rol oynamanız gerekir. Müşteriniz size yönetici ayrıcalıkları veriyorsa, abonelikleri dağıtabilir ve yönetebilir, performansı koruyabilir, kullanıcılarını ayarlayabilir ve hatta bunlara yönelik destek bileti oluşturabilirsiniz. İş Ortağı Merkezi, sorunları daha iyi çözmenize ve müşteri ihtiyaçlarını karşılamanıza yardımcı olmak için Microsoft destek 'e hızlı ve kolay erişim sağlar. [Müşteri desteği sunumu](customer-support.md)hakkında daha fazla bilgi edinin.
+Güvenilir iş ortağı olarak, müşterilerin Microsoft yazılım ve hizmetlerini nasıl satın almak seçtiklerinde bakılmaksızın müşteri yaşam döngüsünün tüm aşamalarında kritik bir rol oynarsınız. Müşteriniz size yönetici ayrıcalıkları sağlarsa abonelikleri dağıtabilir ve yönetebilir, performansı koruyabilecek, kullanıcılarını ayarabilecek ve hatta onlar için destek bileti oluşturabileceksiniz. İş Ortağı Merkezi, zorlukları daha iyi çözmenizi ve müşteri ihtiyaçlarını karşılamanıza yardımcı olmak için isteğe bağlı Microsoft desteğine hızlı ve kolay erişim sağlar. Müşteri desteği sunan hakkında [daha fazla bilgi.](customer-support.md)
 
-## <a name="maintain-a-secure-environment"></a>Güvenli bir ortam koruma
+## <a name="maintain-a-secure-environment"></a>Güvenli bir ortam sağlama
 
-iş ortağı merkezi hesabınızın ana öğesi olarak Azure Active Directory ile takımınızın, verilerin güvenliğini sağlamak için [multi-factor authentication](partner-security-requirements-mandating-mfa.md) kullandığından emin olun. Gizlilik korumaları ve güvenlik, en iyi önceliklerimiz arasındadır.
+Azure Active Directory ana öğe olarak İş Ortağı Merkezi, takımınız verilerin güvenliğini sağlamak için [çok faktörlü kimlik](partner-security-requirements-mandating-mfa.md) doğrulaması kullandığından emin olun. Gizlilik korumaları ve güvenliği en önemli önceliklerimiz arasında yer almaktadır.
 
 ## <a name="data-and-analytics"></a>Veri ve analiz
 
-Iş Ortağı Merkezi panosundan birçok farklı veri raporu türüne erişin:
+Panodan birkaç farklı veri İş Ortağı Merkezi erişin:
 
-- İş ortağı katkı göstergeleri (PCI) müşteri başarısı için yedi anahtar ölçülerde iş ortağı etkisini gösterir
-- iş ortağı Analizler veri raporları, satışlarınızın nerede yüksek olduğunu belirler, aboneliklerinin hangi müşterilere dağıtıldığını veya destek ihtiyacı olduğunu bulmanıza yardımcı olur ve ürünlerin ne kadar iyi satıldığını gösterir.
-
-:::image type="content" source="images/insights/licenses-report-license-adds.png" alt-text="Lisanslarınızın nerede olduğunu saptayın.":::
+- İş Ortağı Katkı Göstergeleri (PCI), müşteri başarısının yedi temel ölçü üzerindeki iş ortağı etkisini gösterir
+- İş Analizler veri raporları, satışlarının yüksek olduğu yeri tespit eder, aboneliklerini dağıtan veya dede ihtiyacı olan müşterileri bulan ve ürünlerinizin ne kadar iyi sattığını göstermenize yardımcı olur.
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-- [Microsoft İş Ortağı Ağı birleştirin ve bir Iş Ortağı Merkezi hesabı oluşturun](mpn-create-a-partner-center-account.md)
+- [İş Ortağı Merkezi](get-around-partner-center.md#turn-workspaces-on-and-off)
+- [Oturum Microsoft İş Ortağı Ağı ve bir İş Ortağı Merkezi hesabı oluşturun](mpn-create-a-partner-center-account.md)
 - [İş profilinizi oluşturma](create-a-marketing-profile.md)
-- [CSP 'ye kaydolmayı keşfet](csp-overview.md)
-- [Ticari Market hakkında daha fazla bilgi edinin](csp-commercial-marketplace-overview.md)
+- [CSP'ye kaydetmeyi keşfetme](csp-overview.md)

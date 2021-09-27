@@ -3,18 +3,18 @@ title: Müşterilere teknik destek verme
 ms.topic: article
 ms.date: 06/05/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-support
-description: Program iş ortaklarının müşterilerine sun Bulut Çözümü Sağlayıcısı teknik destek türleri hakkında bilgi öğrenin.
+ms.subservice: partnercenter-customers
+description: Program iş ortaklarının müşterilerine sun Bulut Çözümü Sağlayıcısı teknik destek türleri hakkında bilgi edinmek.
 author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: d8e4781ffa64269056c684d9ab10a29ff97dacde
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.openlocfilehash: e8ba4249cfa3becf1bca4c1da79424ba081a89fd
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126248552"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129072808"
 ---
 # <a name="provide-technical-support-to-help-customers-configure-manage-and-use-their-subscriptions"></a>Müşterilerin aboneliklerini yapılandırmalarına, yönetmelerine ve kullanmalarına yardımcı olmak için teknik destek sağlama
 
@@ -48,7 +48,7 @@ Destek gereksinimini karşılamak için iş ortağı başka bir varlığa yönel
 
 - **Teknik** sorun desteği şu şekilde kullanılabilir:
 
-  - Premier Destek (ücret tabanlı)
+  - Premier Destek (ücrete dayalı)
   - İş Ortakları için Gelişmiş Destek (ücret tabanlı)
   - Signature Bulut Desteği (Gold/Silver uzmanlığına dahildir)
 

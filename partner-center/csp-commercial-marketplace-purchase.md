@@ -1,61 +1,84 @@
 ---
-title: Ticari market tekliflerini satın alma
+title: Ticari Market tekliflerini satın alma
 ms.topic: how-to
-ms.date: 05/05/2020
+ms.date: 09/27/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-pricing
-description: CSP programı iş ortaklarının, Bağımsız Yazılım Satıcılarından (ISV) saaS tekliflerini müşteri satın almak için İş Ortağı Merkezi marketi nasıl kullanabileceğini öğrenin.
+description: CSP program iş ortaklarının, bağımsız yazılım satıcıları (ISV) tarafından sunulan SaaS tekliflerinin müşteri satın alımları oluşturmak için Iş Ortağı Merkezi marketi ' ni nasıl kullanabileceğinizi öğrenin.
 author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2984dbb3a02df91d5a2a284182476bf348a24f47
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.openlocfilehash: d06f64280ee89df241e150b2ad9c44adb7f7aa2f
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126248618"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129072274"
 ---
-# <a name="purchase-commercial-marketplace-products-for-your-customers-in-partner-center"></a>İş Ortağı Merkezi'de müşterileriniz için ticari market İş Ortağı Merkezi
+# <a name="purchase-commercial-marketplace-products-for-your-customers-in-partner-center"></a>Iş Ortağı Merkezi 'nde müşterileriniz için ticari Market ürünleri satın alma
 
 
-**Uygun roller:** Genel yönetici | Yönetici aracısı
+**Uygun roller**: genel yönetici | Yönetim Aracısı
 
-Bulut Çözümü Sağlayıcısı (CSP) programında iş ortağı olarak, ticari marketi kullanarak müşterileriniz için Bağımsız Yazılım Satıcıları (ISV) tarafından sunulan belirli Hizmet Olarak Yazılım (SaaS) ürünlerine abonelik satın alabilirsiniz.
+Bulut Çözümü Sağlayıcısı (CSP) programında bir iş ortağı olarak, müşterilerinizin bağımsız yazılım satıcıları (ısv) tarafından sunulan belirli bir hizmet olarak yazılım (SaaS) ürününe yönelik abonelikler satın almak için ticari market ' i kullanabilirsiniz.
 
-Müşterilerinize ISV SaaS abonelikleri sunarak işlerinizi ayırt etmeye yardımcı olabilir. Ayrıca müşterilere, belirli iş ihtiyaçlarını ele alan yazılım paketlerine de erişim veabilirsiniz. Aynı Microsoft ürünlerinin lisanslarını ve aboneliklerini yönetirken ISV yayımcılarından bu market SaaS ürünleri için lisansları ve abonelikleri yönetirsiniz.
+Müşterilerinize ISV SaaS abonelikleri sunarak işletmenizin ayırt edilmesine yardımcı olabilirsiniz. Müşterilere belirli iş ihtiyaçlarını karşılayan yazılım paketleri erişimi de verebilirsiniz. Microsoft ürünlerine yönelik lisansları ve abonelikleri yönetirken, bu Market SaaS ürünlerinin lisanslarını ve aboneliklerini ISV yayımcılarından yönetirsiniz.
 
-Lisans tabanlı SaaS **abonelikleri veya** kullanım tabanlı **abonelikler satın** alabilirsiniz. Lisans tabanlı ve kullanım tabanlı faturalama arasındaki fark hakkında daha fazla bilgi edinmek için bkz. [Faturalamanın temelleri.](billing-basics.md)
+**Lisans tabanlı** SaaS abonelikleri ya da **Kullanım tabanlı** abonelikler satın alabilirsiniz. Lisans tabanlı ve kullanım tabanlı faturalandırma arasındaki fark hakkında daha fazla bilgi edinmek için bkz. [faturalandırma temelleri](billing-basics.md).
 
-## <a name="purchase-license-based-and-metered-saas-subscriptions-in-partner-center"></a>İş Ortağı Merkezi'de lisans tabanlı ve tarifeli SaaS abonelikleri satın İş Ortağı Merkezi
+## <a name="purchase-license-based-and-metered-saas-subscriptions-in-partner-center"></a>Iş Ortağı Merkezi 'nde lisans tabanlı ve tarifeli SaaS abonelikleri satın alma
 
-ISV yayımcıları tarafından sunulan lisans tabanlı veya tarifeli SaaS ürünleri için abonelikleri, Microsoft ürünleri için abonelik satın almak için aynı işlemi kullanarak satın alabilirsiniz.
+ISV yayımcıları tarafından sunulan lisans tabanlı veya ölçülen SaaS ürünlerinin aboneliklerini, Microsoft ürünlerine yönelik abonelikler satın almak için kullandığınız süreci kullanarak satın alabilirsiniz.
 
-Lisans tabanlı veya tarifeli SaaS aboneliği satın almak İş Ortağı Merkezi bkz. Müşteri aboneliklerini [oluşturma, askıya alma veya iptal etme.](create-a-new-subscription.md#create-a-new-subscription)
+Iş Ortağı Merkezi 'ne lisans tabanlı veya tarifeli bir SaaS aboneliği satın almak için bkz. [Müşteri abonelikleri oluşturma, askıya alma veya iptal etme](create-a-new-subscription.md#create-a-new-subscription).
 
-Müşterileriniz için ticari [İş Ortağı Merkezi api'leri](/partner-center/develop/) de kullanabilirsiniz. (Api'leri İş Ortağı Merkezi daha fazla bilgi için [bkz. Ticari market ürünleri için abonelik oluşturma.)](/partner-center/develop/create-subscription-azure-marketplace-products)
+Müşterileriniz için ticari Market abonelikleri oluşturmak üzere [Iş Ortağı Merkezi API 'lerini](/partner-center/develop/) de kullanabilirsiniz. (Iş Ortağı Merkezi API 'Leri kullanma hakkında daha fazla bilgi için bkz. [ticari Market ürünleri için abonelik oluşturma](/partner-center/develop/create-subscription-azure-marketplace-products).)
 
->[!IMPORTANT]
-> CSP programında iş ortağı olarak,  lisans tabanlı veya tarifeli **SaaS** abonelikleri, iş ortağınız içindeki ISV yayımcılarından İş Ortağı Merkezi. Bu, ISV **yayımcının** sizin için sunduğu lisans tabanlı veya tarifeli **SaaS** tekliflerini, erişiminiz olan özel teklifler de dahil olmak üzere satın almak anlamına gelir. [](csp-commercial-marketplace-discover.md#learn-about-marketplace-exclusive-offers) ISV'lerden (Azure uygulamaları, Kapsayıcılar veya VM'ler içeren kullanım tabanlı teklifler gibi) diğer ticari market tekliflerini satın almak veya yönetmek için [Azure portal.](https://portal.azure.com/)
+> [!IMPORTANT]
+> CSP programındaki bir iş ortağı olarak, Iş Ortağı Merkezi 'nde ISV yayımcılarından **Lisans tabanlı** veya **ölçülen** SaaS abonelikleri satın alabilirsiniz. Bu, tüm **Lisans tabanlı** veya **tarifeli** SaaS tekliflerini, erişiminiz olan [özel TEKLIFLER](csp-commercial-marketplace-discover.md#learn-about-marketplace-exclusive-offers) de dahil olmak üzere ISV yayımcısı kullanımınıza sunabileceğiniz anlamına gelir. ISV 'lerden diğer, ticari Market tekliflerini satın almak veya yönetmek için (Azure uygulamaları, kapsayıcılar veya VM 'Leri içeren Kullanım tabanlı teklifler gibi) [Azure Portal](https://portal.azure.com/)gitmeniz gerekir.
 
-## <a name="purchase-usage-based-subscriptions-in-the-azure-portal"></a>Azure portal'de kullanım tabanlı abonelikler satın Azure portal
+## <a name="purchase-usage-based-subscriptions-in-the-azure-portal"></a>Azure portal kullanım tabanlı abonelikler satın alın
 
-Üçüncü taraf ISV yayımcılarından alınan lisans tabanlı SaaS aboneliklerinden farklı olarak, kullanım tabanlı abonelikler önce bir müşterinin Azure aboneliğine sahip olduğunu gerektirir. Ticari market faturalaması, kullanım tabanlı kaynaklar müşterinin Azure aboneliğinin altında yer alır. Müşteriniz Bir Azure aboneliğine sahip olduktan sonra CSP programı iş ortağı bu adımları takip eder ve bunlar için ticari market aboneliği satın alır:
+Üçüncü taraf ISV yayımcılarından lisans tabanlı SaaS aboneliklerinin aksine, önce kullanım tabanlı abonelikler için bir müşterinin bir Azure aboneliğine sahip olması gerekir. Ticari Market için faturalandırma, kullanım tabanlı kaynaklar müşterinin Azure aboneliği kapsamında yer alıyorsa. Müşterinizin bir Azure aboneliğine sahip olması durumunda, CSP programındaki bir iş ortağı için ticari bir market aboneliği satın almak üzere bu adımları takip edebilir:
 
-1. Panoda oturum İş Ortağı Merkezi [ve](https://partner.microsoft.com/dashboard) **ardından** sol menüden Müşteriler'i seçin.
+> [!NOTE]
+> Iş Ortağı Merkezi önizleme arabirimi, mantıksal olarak gruplanmış çalışma alanları aracılığıyla daha verimli ve üretken bir kullanıcı deneyimi sağlar. Çalışma alanları arabirimi ve nasıl kullanılacağı hakkında daha fazla bilgi edinmek için bkz. [Iş ortağı merkezini alma](get-around-partner-center.md#turn-workspaces-on-and-off).
 
-2. Belirli bir müşteriyi ve ardından Abonelikler'i **seçin.**  
+#### <a name="workspaces-view"></a>[Çalışma alanları görünümü](#tab/workspaces-view)
 
-3. Kullanım tabanlı **abonelikler altında Tüm** **kaynaklar'ı seçin.** Bu sizi Azure Yönetim portalına alır.
+1. Iş Ortağı Merkezi [panosunda](https://partner.microsoft.com/dashboard)oturum açın ve **müşteriler** kutucuğunu seçin.
 
-4. Azure Yönetim portalında, sol **menüden** Kaynak oluştur'a tıklayın.
+2. Belirli müşteriyi seçip **abonelikler**' i seçin.  
 
-5. Aşağıdakiler **listesinin** en üstünde Yer alan Hepsini Azure Market seçin.
+3. **Kullanım tabanlı abonelikler** altında **tüm kaynaklar**' ı seçin. Bu sizi Azure yönetim portalı 'na götürür.
 
-6. Listenizi daraltmak için Market listesinin en üstünde yer alan filtreleri kullanın. Örneğin, yalnızca **Microsoft'tan** veya  bir ISV yayımcısı tarafından Publisher için microsoft veya İş Ortağı'nın açılır listesinden Microsoft'u veya İş Ortağı'ı seçebilirsiniz. 
+4. Azure Yönetim Portalı ' nda, sol taraftaki menüden **kaynak oluştur** ' u seçin.
 
-7. Belirli bir teklifi ve ardından **Oluştur'ı seçin.**
+5. Azure Marketi listesinin en üstünde bulunan **Tümünü göster** ' i seçin.
+
+6. Listenizi daraltmak için Market listesinin en üstünde bulunan filtreleri kullanın. örneğin, yalnızca microsoft 'tan veya bir ısv yayımcısından gelen teklifleri görüntülemek için **Publisher** açılır listesinden **microsoft** veya **Partner** ' ı seçebilirsiniz.
+
+7. Belirli bir teklif seçin ve ardından **Oluştur**' u seçin.
+
+#### <a name="current-view"></a>[Geçerli görünüm](#tab/current-view)
+
+1. Iş Ortağı Merkezi [panosunda](https://partner.microsoft.com/dashboard)oturum açın ve ardından sol taraftaki menüden **müşteriler** ' i seçin.
+
+2. Belirli müşteriyi seçip **abonelikler**' i seçin.  
+
+3. **Kullanım tabanlı abonelikler** altında **tüm kaynaklar**' ı seçin. Bu sizi Azure yönetim portalı 'na götürür.
+
+4. Azure Yönetim Portalı ' nda, sol taraftaki menüden **kaynak oluştur** ' u seçin.
+
+5. Azure Marketi listesinin en üstünde bulunan **Tümünü göster** ' i seçin.
+
+6. Listenizi daraltmak için Market listesinin en üstünde bulunan filtreleri kullanın. örneğin, yalnızca microsoft 'tan veya bir ısv yayımcısından gelen teklifleri görüntülemek için **Publisher** açılır listesinden **microsoft** veya **Partner** ' ı seçebilirsiniz.
+
+7. Belirli bir teklif seçin ve ardından **Oluştur**' u seçin.
+
+* * *
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-- [Ticari market tekliflerini yönetme](csp-commercial-marketplace-purchase.md)
+- [Ticari Market tekliflerini yönetme](csp-commercial-marketplace-purchase.md)

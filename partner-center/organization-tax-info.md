@@ -1,33 +1,37 @@
 ---
-title: İş vergileri için KDV No ekleme
+title: İş vergileri için KDV KIMLIĞI ekleyin
 ms.topic: article
-ms.date: 12/04/2020
+ms.date: 09/27/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-billing
-description: İş Ortağı Merkezi'nden satın alınan ürünler için uygulanan vergiler, işletme adresinize göre belirlenir. Bazı ülkelerdeki işletmeler KDV numarasını veya yerel eşdeğerini sağlanıyor olabilir.
+description: İş Ortağı Merkezi'nden satın alınan ürünler için uygulanan vergiler, işletme adresinize göre belirlenir. Bazı ülkelerde bulunan işletmeler, KDV numarasını veya yerel eşdeğerini sağlayabilir.
 author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: d0ff46b09d2d9008302825daeb07b5ffa05a5650
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.openlocfilehash: 8fee7d9d3e9fec8c0889fb5f52e770381d05def4
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126248700"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129073592"
 ---
-# <a name="add-a-vat-id-to-your-billing-profile"></a>Faturalama profilinize KDV No ekleme
+# <a name="add-a-vat-id-to-your-billing-profile"></a>Faturalandırma profilinize bir KDV KIMLIĞI ekleyin
 
-**Uygun roller:** Genel yönetici | Kullanıcı yönetimi yönetici | Faturalama yöneticisi | Yönetici aracısı | Satış aracısı
+**Uygun roller**: genel yönetici | Kullanıcı Yönetimi Yöneticisi | Faturalandırma Yöneticisi | Yönetici Aracısı | Satış Aracısı
 
-Faturalama profilinizi KDV No'larınızı içerecek şekilde güncelleştirmek için aşağıdaki yordamı kullanabilirsiniz. (Ülkeniz veya bölgeniz için bunun mümkün olmadığını unutmayın.)
+Fatura Profilinizi KDV KIMLIĞINIZI içerecek şekilde güncelleştirmek için aşağıdaki yordamı kullanabilirsiniz. (Ülkenizde veya bölgenizde bunun mümkün olmaması gerekebileceğini unutmayın.)
 
-## <a name="update-your-billing-profile-with-your-vat-id"></a>Faturalama profilinizi KDV No ile güncelleştirme
+## <a name="update-your-billing-profile-with-your-vat-id"></a>Fatura Profilinizi KDV KIMLIĞINIZLE güncelleştirin
 
 1. [İş Ortağı Merkezi panosunda](https://partner.microsoft.com/dashboard/) oturum açın.
-2. **Ayarlar** menüsünde (dişli simgesi) **Hesap Ayarları**'nı seçin.
-3. **Hesap ayarları** sayfasındaki menüde **İş ortağı ödeme profili**'ni seçin.
+
+2. Ayarlar dişli simgesini seçin, sonra **hesap Ayarlar**.
+
+3. Sayfa menüsünde **Iş ortağı Faturalandırma profili** ' ni seçin.
+
 4. **Finansal veriler** bölümünde **Güncelleştir**'i seçin.
+
 5. **Şirket Vergi Kimlik Numarası** olarak KDV No numaranızı belirtin.
 
 ## <a name="next-steps"></a>Sonraki adımlar

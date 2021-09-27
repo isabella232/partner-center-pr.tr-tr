@@ -9,12 +9,12 @@ author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a8703d9a8c482ac3fba5497780b2f5163bf86061
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.openlocfilehash: 717c59a2985fa36ba553a631dca155c1f0263905
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126248295"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129074055"
 ---
 # <a name="view-earnings-using-the-chip-tool"></a>YONGA aracını kullanarak kazançları görüntüleme
 
@@ -29,8 +29,10 @@ Teşvikleri deyiminize Channel teşvikleri platform Tool (yonga) aracılığıyl
 2. İlgilendiğiniz teşvikleri programını seçin.
 
 3. **Program Özeti** altında period veya month ' ı seçin. 
-1. Açılan listeden hesaplama ayrıntıları ' nı seçin.
-1.  Deyiminizi açmak için bildirim çubuğunda **Aç** ' a tıklayın.
+
+4. Açılan listeden hesaplama ayrıntıları ' nı seçin.
+
+5.  Deyiminizi açmak için bildirim çubuğunda **Aç** ' a tıklayın.
 
 ### <a name="explanation-of-details-tabs"></a>Ayrıntılar sekmelerinin açıklaması
 

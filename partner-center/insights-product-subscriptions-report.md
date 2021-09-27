@@ -5,16 +5,16 @@ ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-insights
 description: Müşterilerinizin sattığı ve yönettiğiniz bulut abonelikleriyle ilgili olarak neleri iyileştirebileceğinizi görün.
-author: shthota77
-ms.author: shthota
+author: kshitishsahoo
+ms.author: ksahoo
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: eefb4f4ee6657acf583ad0b5d4149e662c320184
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.openlocfilehash: c1a2745cce461541c59eadac06d38c559af4b580
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126248481"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129071146"
 ---
 # <a name="product-subscriptions-report-available-from-the-partner-center-insights-dashboard"></a>ürün abonelikleri raporu iş ortağı merkezi Analizler panosu 'nda kullanılabilir
 

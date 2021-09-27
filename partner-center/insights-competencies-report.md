@@ -5,16 +5,16 @@ ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-insights
 description: Microsoft çözümlerini sunabilmenize yardımcı olmak için Microsoft uzmanlığına, uzmanlığa ve tekliflere ilişkin neler yapabileceğinizi görün.
-author: shthota77
-ms.author: shthota
+author: kshitishsahoo
+ms.author: ksahoo
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0d5eab0684c52c94c0709f09f254031dd80d8a28
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.openlocfilehash: 670e307237bd2c5d6be3b64b67b0f76df5ca79a4
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960225"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129075425"
 ---
 # <a name="competencies-report-available-from-the-partner-center-insights-dashboard"></a>yetenek raporları iş ortağı merkezi Analizler panosu 'nda mevcuttur
 

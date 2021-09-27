@@ -4,16 +4,16 @@ description: API aracılığıyla iş ortağı içgörüleri verilerine erişme 
 ms.topic: troubleshooting
 ms.service: partner-dashboard
 ms.subservice: partnercenter-insights
-author: shganesh-dev
-ms.author: shganesh
+author: kshitishsahoo
+ms.author: ksahoo
 ms.localizationpriority: medium
 ms.date: 07/14/2021
-ms.openlocfilehash: 418af23ae50e1f8d9086b2eb6247ba964e4c1516
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.openlocfilehash: ccbd74d9da684dd47926a318de1f41975171141b
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123961395"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129073212"
 ---
 # <a name="programmatic-access-of-analytics-data-common-questions"></a>Analiz verilerine program aracılığıyla erişim hakkında sık sorulan sorular
 
@@ -21,9 +21,9 @@ Bu makalede, iş ortağı içgörüleri verilerine program aracılığıyla eri�
 
 ## <a name="api-responses"></a>API yanıtları
 
-200 (Başarılı) dışında hangi senaryolarda API yanıtı aliyorum?
+200 'den (Başarılı) başka BIR API yanıtı alalı farklı senaryolar hangileridir?
 
-Bu tablo API yanıtlarını ve bunları alırsanız ne yapacaklarını açıklar.
+Bu tabloda API yanıtları ve bunları alırsanız ne yapmaları gerekir?
 
 |    Hata açıklaması     |    Hata kodu     |    Sorun giderme     |
 |    ----    |    ----    |    ----    |
@@ -39,7 +39,7 @@ Bu tablo API yanıtlarını ve bunları alırsanız ne yapacaklarını açıklar
 |    Verilen filtrelerle öğe bulunamadı.     |    404     |    Get Report Executions API'sinde kullanılan reportID parametresini kontrol edin.     |
 |    Verilen filtre koşulları için herhangi bir yürütme yoktur. reportId veya executionId'yi bir kez daha kontrol edin ve raporun zamanlanmış yürütme zamanından sonra API'yi yeniden deneyin     |    404     |    reportId'nin doğru olduğundan emin olun. İSTEK yükünde belirtilen raporun zamanlanmış yürütme zamanından sonra API'yi yeniden deneyin.     |
 |    Rapor oluşturulurken iç hatayla karşılaşıldı. Bağıntı kimliği <>     |    500     |    *StartTime,* *QueryStartTime* ve *QueryEndTime* alanlarının tarih biçiminin doğru olduğundan emin olun.     |
-|    Hizmet kullanılamıyor    |    500     |    Sürekli olarak kullanılamayan bir hizmet alırsanız (5xx hatası) bir destek bileti açın.    |
+|    Hizmet kullanılamıyor    |    500     |    Sürekli olarak kullanılamıyor (5xx hatası) bir hizmet alırsanız bir destek bileti açın.    |
 |        |        |        |
 
 ## <a name="no-records"></a>Kayıt yok

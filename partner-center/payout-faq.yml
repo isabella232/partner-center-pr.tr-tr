@@ -7,13 +7,13 @@ metadata:
   ms.topic: article
   author: eunjkim520
   ms.author: eunjkim
-  ms.date: 05/06/2021
-  ms.openlocfilehash: a402387b5e99cfb5f1b0ed7ca1c2af9f63b94b99
-  ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+  ms.date: 09/27/2021
+  ms.openlocfilehash: fc4a12e2ab4686f9bef60aad789098e737c4cf04
+  ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
   ms.translationtype: MT
   ms.contentlocale: tr-TR
-  ms.lasthandoff: 09/13/2021
-  ms.locfileid: "126248680"
+  ms.lasthandoff: 09/27/2021
+  ms.locfileid: "129073069"
 title: Ödeme ve vergiler hakkında sık sorulan sorular
 summary: >
   **Uygun roller:** Hesap yöneticisi | Genel yönetici | Teşvikler yöneticisi
@@ -33,7 +33,7 @@ sections:
   - question: >
       Nasıl yaparım? ve vergi ayrıntılarını bulma, ayarlama veya güncelleştirme
     answer: >
-      Ödeme ve vergi ayrıntılarını güncelleştirme hakkında ayrıntılı bilgi için İş Ortağı Merkezi bkz. Ödeme [hesabı ve vergi formlarınızı ayarlama.](set-up-your-payout-account.md)
+      Ödeme ve vergi ayrıntılarını güncelleştirme hakkında ayrıntılı bilgi İş Ortağı Merkezi bkz. Ödeme hesabı [ve vergi formlarınızı ayarlama.](set-up-your-payout-account.md)
   - question: >
       Ödeme ve vergi profilimi atamaya gittiğimde kayıtlarımı neden göremiyorum?
     answer: >
@@ -66,7 +66,7 @@ sections:
       Bir vergi profilinin süresi dolduğunda veya dolmak üzere ise, Microsoft'a sağladığın vergi formunun güncelleştirilmiş olması gerekir. Vergi profilinizi güncelleştirmek için aşağıdaki adımları kullanın:
 
 
-      1. İş Ortağı Merkezi [panosunda oturum](https://partner.microsoft.com/dashboard/home)açın ve ardından dişli simgesini seçerek **Ayarlar** açın.
+      1. Panoda oturum İş Ortağı Merkezi [ve](https://partner.microsoft.com/dashboard/home)ardından dişli simgesini Ayarlar seçin.
 
       2. Hesap **ayarları'ı** seçin, **Ödeme ve vergi bölümünü** genişletin ve sonra Ödeme ve vergi **profili'ne** tıklayın.
 
@@ -89,7 +89,7 @@ sections:
       - Ödeme [döngüsünün zaman çerçevesini kontrol edin](payment-thresholds-methods-timeframes.md) ve kazançların ödeme deyiminde ne zaman görünmesi gerektiğini an edin.
   - question: >
       Kazanç miktarım neden beklenenden farklı?
-    answer: "- Sipariş müşteriniz tarafından kısmen ödenmişse kazanç tutarınız, ücreti ve uygun vergiyi düşdükten sonra kısmen ödenen tutarı temel aacaktır.\n- Ülkeye göre vergi ödeme sorumluluğunu denetleme. Verginin Microsoft'tan sorumlu olduğu ülkelerde Microsoft, yayımcı kazançlarından vergi toplar ve bu vergiyi düşebilir. Hesap özetinde gösterilen işlem tutarı, vergi sonrası tutardır. [Vergi ayrıntıları](tax-details-marketplace.md) konusuna bakın.\n- Tekliflerin mağaza hizmeti ücreti %3'tedir ve kazanç oranı %97'dir. \n\n**Daha fazla** okuma: [Ticari Market Publisher Sözleşmesi,](/legal/marketplace/msft-publisher-agreement)Ödeme ilkesi [ayrıntıları,](payout-policy-details.md)Ödeme eşiği, yöntem ve [zaman çerçevesi,](payment-thresholds-methods-timeframes.md)Ödeme alma, Vergi [ayrıntıları,](tax-details-marketplace.md) [Ödeme deyimleri](payout-statement.md) [](marketplace-get-paid.md)\n"
+    answer: "- Sipariş müşteriniz tarafından kısmen ödenmişse kazanç tutarınız, ücreti ve uygun vergiyi düşdükten sonra kısmen ödenen tutarı temel aacaktır.\n- Ülkeye göre vergi ödeme sorumluluğunu denetleme. Verginin Microsoft'tan sorumlu olduğu ülkelerde Microsoft, yayımcı kazançlarından vergi toplar ve bu vergiyi düşebilir. Hesap özetinde gösterilen işlem tutarı, vergi sonrası tutardır. [Vergi ayrıntıları](tax-details-marketplace.md) konusuna bakın.\n- Tekliflerin mağaza hizmeti ücreti %3'tedir ve kazanç oranı %97'dir. \n\n**Daha fazla** bilgi: [Ticari Market Publisher Sözleşmesi,](/legal/marketplace/msft-publisher-agreement)Ödeme ilkesi [ayrıntıları,](payout-policy-details.md)Ödeme eşiği, yöntem [ve zaman çerçevesi,](payment-thresholds-methods-timeframes.md)Ödeme alma, Vergi [ayrıntıları,](tax-details-marketplace.md) [Ödeme deyimleri](payout-statement.md) [](marketplace-get-paid.md)\n"
 - name: Kazanç mutabakatı
   questions:
   - question: >
@@ -123,7 +123,7 @@ sections:
 
       - Ödeme için en düşük eşiğe ulaşamamış olabilirsiniz. Ödeme almak için kazançların en az 50 ABD Doları olması gerekir.
   - question: >
-      Nasıl yaparım? ödeme almıy olarak ayarlay musunuz?
+      Nasıl yaparım? ödeme almay olarak mı ayarlayabilirsiniz?
     answer: >
       Ödemeleri Ödeme [Profili'ne göre tutabilirsiniz.](https://partner.microsoft.com/dashboard/commercial-marketplace/overview) Bunu yapmak için **Tut'u seçin;** siz tutmayı serbest bırakana kadar Microsoft ödemenizi tutar.
   - question: >
@@ -136,7 +136,7 @@ sections:
       Ödeme düzeltmeleri, sistem sorunları gibi telafi ayarlamalarını yapmaya yönelik düzeltmelerdir. Ödeme deyiminde ReasonCode düzeltmenin nedenini belirtir. Bunlar, tek tek işlemlerle doğrudan mu mutabakata varmak için değil.
 
 
-      **Daha fazla bilgi:** [Ticari Market Publisher Sözleşmesi,](/legal/marketplace/msft-publisher-agreement) [Ödeme ilkesi ayrıntıları,](payout-policy-details.md) [Vergi ayrıntıları,](tax-details-marketplace.md) [Ödeme eşiği, yöntem ve zaman dilimi](payment-thresholds-methods-timeframes.md)
+      **Daha fazla bilgi:** [Ticari Market Publisher Sözleşmesi,](/legal/marketplace/msft-publisher-agreement) [Ödeme ilkesi ayrıntıları,](payout-policy-details.md) [Vergi ayrıntıları,](tax-details-marketplace.md) [Ödeme eşiği, yöntem ve zaman çerçevesi](payment-thresholds-methods-timeframes.md)
 - name: Vergiler
   questions:
   - question: >
@@ -157,73 +157,73 @@ sections:
       Stopaj vergisi W-9 formu dolduran ABD'li yayımcılara uygulanır. Stopaj vergisi aylık ödeme temelinde hesaplanır.
 
 
-      **Daha fazla bilgi:** [Ticari Market Publisher Sözleşmesi,](/legal/marketplace/msft-publisher-agreement) [Ödeme ilkesi ayrıntıları](payout-policy-details.md)
-- name: Ödeme deyimi erişimi
+      **daha fazla okuma**: [ticari market Publisher sözleşmesi](/legal/marketplace/msft-publisher-agreement), [ödeme ilkesi ayrıntıları](payout-policy-details.md)
+- name: Ödeme bildirimine erişim
   questions:
   - question: >
       Ödeme hesap özetine nasıl erişebilirim?
-    answer: "1. Rollerinizi kontrol edin. Ödeme hesap özetine erişmek için *finansal katkıda bulunan* veya *hesap sahibi* rolüne sahip olmalısınız.\n2. Ödeme deyiminizi görüntülemek için sağ üst **gezinti bölmesinde** Ödeme simgesini seçin. İşlem **Geçmişi, Ödeme ve** **İndirme** arasında **seçim seçin.**\n\n**Daha fazla bilgi:** [Ödeme rolleri ve izinleri,](payout-statement.md#roles-and-permissions)Ödeme [deyimleri](payout-statement.md) \n"
+    answer: "1. Rollerinizi kontrol edin. Ödeme hesap özetine erişmek için *finansal katkıda bulunan* veya *hesap sahibi* rolüne sahip olmalısınız.\n2. Ödeme ekstrenizi görüntülemek için panodan **ödemeler** kutucuğunu seçin. **Işlem geçmişi**, **ödeme** ve **indirme** arasında seçim yapın.\n\n**Daha fazla okuma**: [ödeme rolleri ve izinleri](payout-statement.md#roles-and-permissions), [ödeme deyimleri](payout-statement.md) \n"
 - name: Ödeme beyanı raporu
   questions:
   - question: >
       İşlem indirmesindeki alanlar ne anlama geliyor?
     answer: >
-      Özniteliklerin [ve anlamlarının](payout-statement.md) ayrıntılı listesi için bkz. Ödeme deyimleri.
+      Özniteliklerin ayrıntılı listesi ve anlamları için bkz. [Payout deyimleri](payout-statement.md) .
   - question: >
       Kazanç durumu nedir?
     answer: >
-      Kazançlarınız işlenmemiş, işlenmiş veya gönderilmiş olarak gösterir.
+      Bu, bedellerinizi işlenmemiş, işlenmiş veya gönderildi olarak gösterir.
 
 
-      - **İşlenmemiş –** kazançlar vade tarihine kadar bir escrow dönemindedir.
+      - **İşlenmemiş** – kazanç, vade tarihine kadar bir emanet döneminde.
 
-      - **İşlendi:** Kazançlar olgunlaştı ve aylık ödemeye hazırlanır. Ödemeler her ayın 15'inde serbest bırakılacaktır.
+      - **İşlendi** – kazanç, aylık bir ödemeye hazırlanır ve bu işlem için hazır. Ödemeler her ayın 15 ' i oranında serbest bırakılır.
 
-      - **Sent:** Ödeme, ödeme profilinize göre başarıyla bankanıza yayınlandı.
+      - **Gönderildi** – ödeme, ödeme profilinize göre bankanızla başarıyla serbest bırakıldı.
   - question: >
       Hizmet Ücreti Vergi formlarını nasıl indirebilirim?
     answer: >
       **Ödeme** sayfasına ve sonra da **Ödeme Listesi** bölümüne gidin. Hizmet Ücreti Vergisi olan ödeme için Hizmet Ücreti vergi formunun bağlantısı görüntülenir.
   - question: >
-      Nasıl yaparım? vergi stopaj formunu PDF'de mi indirebilirsiniz?
+      Bir stopaj vergisi formunu PDF 'ye Nasıl yaparım? indirmek mi?
     answer: >
-      **Ödeme** sayfasına ve sonra da **Ödeme Listesi** bölümüne gidin. Ödemenin yanında stopaj vergisi formunun bağlantısı görüntülenir. Stopaj vergisi formu, ticari market ödemesi için değil yalnızca seçili teşvik programlarına uygulanır.
+      **Ödeme** sayfasına ve sonra da **Ödeme Listesi** bölümüne gidin. Ödemenin yanında stopaj vergisi formunun bağlantısı görüntülenir. Bir stopaj vergisi formu yalnızca seçili teşvik programları için geçerlidir, ticari bir market ödeyine uygulanmaz.
   - question: >
       Yıl sonu vergi formlarını nerede bulabilirim?
     answer: >
       Yıl sonu vergi formlarınızı görüntülemek için [Profil sayfasına](https://partner.microsoft.com/dashboard/payee/profiles/partner/manage) gidin.
 
 
-      **Daha fazla bilgi:** [Ödeme deyimleri,](payout-statement.md) [İşlem geçmişi indirme](payout-statement.md#transaction-history-download)
+      **Daha fazla okuma**: [ödeme deyimleri](payout-statement.md), [işlem geçmişi indirmesi](payout-statement.md#transaction-history-download)
 - name: Geçmiş deyimleri
   questions:
   - question: >
-      Nasıl yaparım? bilgileri nasıl görüntülebilirsiniz?
+      Nasıl yaparım? geçmiş bilgileri görüntülensin mi?
     answer: >
-      Geçmiş hesap özetinde Ekim 2019 itibarıyla ödeme verilerinin anlık görüntüsü gösterilir. Ne yazık ki buradaki ödeme bilgileri yenilenmez. En son bilgileri almak için en son veriler için bir destek bileti gönderin.
+      Geçmiş hesap özetinde Ekim 2019 itibarıyla ödeme verilerinin anlık görüntüsü gösterilir. Ne yazık ki buradaki ödeme bilgileri yenilenmez. En son bilgileri almak için en son veriler için bir destek bileti gönderebilirsiniz.
 
 
-      **Daha fazla bilgi:** [Ödeme deyimleri,](payout-statement.md) [İşlem geçmişi indirme](payout-statement.md#transaction-history-download)
-- name: Ödeme dışarı aktarma API'si
+      **Daha fazla okuma**: [ödeme deyimleri](payout-statement.md), [işlem geçmişi indirmesi](payout-statement.md#transaction-history-download)
+- name: Ödeme dışarı aktarma API 'SI
   questions:
   - question: >
       Ödeme verilerini nasıl indirebilirim?
     answer: >
-      İş Ortağı [Ödeme API'sini kullanın.](https://apidocs.microsoft.com/services/partnerpayouts)
-- name: Ticari market ödeme ilkeleri
+      [Iş ortağı ödeme API](https://apidocs.microsoft.com/services/partnerpayouts)'sini kullanın.
+- name: Ticari Market ödeme ilkeleri
   questions:
   - question: >
-      Nasıl yaparım? Mağaza Hizmeti Ücretini ve ödeme oranını bulamıyor musunuz?
+      Geçerli mağaza hizmeti ücretini ve ödeme oranını bulmak Nasıl yaparım?.
     answer: >
-      - Mağaza Hizmet Ücreti %3'tir.
+      - Mağaza hizmeti ücreti %3 ' tir.
 
-      - Ödeme hesap deyiminde Kazanç Oranı, belirli bir işlem için gerçek ödeme oranını belirtir.
+      - Ödeme deyiminizde, kazanç oranı belirli bir işlem için gerçek ödeme oranını belirtir.
   - question: >
       Kazançlar hesap özetimde görüntülendikten sonra Microsoft'tan ne zaman ödeme almayı bekleyebilirim?
     answer: >
-      - Kazancınız işlenmedi durumuna geldikten sonra, kazançlarınızın ödemesinin işleneceği ay için vade tarihini denetleyebilirsiniz. Ödemeniz hazır olduktan sonra kazanç durumunuz "işlendi" olarak değişir.  Microsoft vade ayının 15'inde ödemeleri serbest bırakır.
+      - Kazancınız işlenmedi durumuna geldikten sonra, kazançlarınızın ödemesinin işleneceği ay için vade tarihini denetleyebilirsiniz. Ödemenizin hazırlandığına göre kazanç durumunuz "işlendi" olarak değişir.  Microsoft vade ayının 15'inde ödemeleri serbest bırakır.
 
-      - Kredi kartıyla ödenen siparişlerde Microsoft, kazanç elde edinceye kadar ödemeleri 30 gün tutar.
+      - Kredi kartıyla ödenen siparişlerde, Microsoft, kazanana kadar 30 gün boyunca tutar.
 
-       **Daha fazla bilgi:** [Ticari Market Publisher Sözleşmesi,](/legal/marketplace/msft-publisher-agreement) [Ödeme ilkesi ayrıntıları,](payout-policy-details.md) [Vergi ayrıntıları,](tax-details-marketplace.md) [Ödeme eşiği, yöntem ve zaman dilimi](payment-thresholds-methods-timeframes.md)
+       **daha fazla okuma**: [ticari market Publisher sözleşmesi](/legal/marketplace/msft-publisher-agreement), [ödeme ilkesi ayrıntıları](payout-policy-details.md), [vergi ayrıntıları](tax-details-marketplace.md), [ödeme eşiği, yöntemi ve zaman çerçevesi](payment-thresholds-methods-timeframes.md)
 additionalContent: "\n## <a name=\"next-steps\"></a>Sonraki adımlar\n\n- [Ödeme alma](marketplace-get-paid.md)\n- [Ödeme hesabınızı ve vergi formlarınızı ayarlama](set-up-your-payout-account.md)"

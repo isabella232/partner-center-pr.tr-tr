@@ -4,16 +4,16 @@ description: Programlı analiz için API çağrı deseninin üst düzey akışı
 ms.topic: article
 ms.service: partner-dashboard
 ms.subservice: partnercenter-insights
-author: shganesh-dev
-ms.author: shganesh
+author: kshitishsahoo
+ms.author: ksahoo
 ms.localizationpriority: medium
 ms.date: 07/14/2021
-ms.openlocfilehash: 674cc6f800edc540920d80bedd031fae959b973b
-ms.sourcegitcommit: fceaca54b0ec695cf214209c09b4516e1b40866a
+ms.openlocfilehash: 3c7e6fa814bce13ff7f584727a17b59027a78abf
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "128366141"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129074622"
 ---
 # <a name="programmatic-access-paradigm"></a>Programlı erişim paradigması
 
@@ -53,7 +53,7 @@ Aşağıdaki örnekte, geçen aya göre gelire göre ilk 10 müşteriyi almak i�
 
 ### <a name="request-header"></a>İstek üst bilgisi
 
-|    Üst bilgi     |    Tür     |    Description     |
+|    Üst bilgi     |    Tür     |    Açıklama     |
 |-------|-----|------|
 |    Yetkilendirme     |    string |Gereklidir. Azure Active Directory (Azure AD) erişim belirteci. Biçimi şu  `Bearer <token>` şekildedir: .|
 |    İçerik Türü     |string |`Application/JSON` |
@@ -128,7 +128,7 @@ Bu tablo, istek yükünde öğelerin anahtar tanımlarını sağlar.
 |    ----    |    ----    |
 |    Queryıd     |    Oluşturduğunuz sorgunun evrensel olarak benzersiz tanımlayıcısı (UUID)     |
 |    Name     |    İstek yükünde sorguya kolay ad verilir     |
-|    Description     |    Sorgunun oluşturulması sırasında verilen açıklama     |
+|    Açıklama     |    Sorgunun oluşturulması sırasında verilen açıklama     |
 |    Sorgu     |    Sorgu oluşturma sırasında giriş olarak geçirilen rapor sorgusu     |
 |    Tür     |    Olarak ayarlayın `userDefined`     |
 |    Kullanıcı     |    Sorguyu oluşturmak için kullanılan kullanıcı kimliği     |
@@ -165,7 +165,7 @@ True olduğunda iki ek alan geçirilebilir `ExecuteNow` `QueryStartTime` ve `Que
 
 ### <a name="request-header"></a>İstek üst bilgisi
 
-|    Üst bilgi     |    Tür     |    Description     |
+|    Üst bilgi     |    Tür     |    Açıklama     |
 |-------|-----|------|
 |    Yetkilendirme     |    string |Gereklidir. Azure Active Directory (Azure AD) erişim belirteci. Biçim  `Bearer <token>` .|
 |    İçerik Türü     |string |`Application/JSON` |
@@ -207,21 +207,21 @@ Hiçbiri
 |    Açıklama     |    Hayır     |    Oluşturulan raporun açıklaması     |    string     |
 |    QueryId     |    Yes     |    Rapor sorgu KIMLIĞI     |    string     |
 |    StartTime     |    Yes     |    Rapor oluşturmanın başlayacağı UTC zaman damgası. <br> Biçim şu şekilde olmalıdır: yyyy-MM-ddTHH: mm: ssZ       |    string     |
-|    ExecuteNow     |    No     |    Bu parametre, yalnızca bir kez yürütülecek bir rapor oluşturmak için kullanılmalıdır. `StartTime`, `RecurrenceInterval` , ve `RecurrenceCount` true olarak ayarlanırsa yok sayılır. Rapor, anında zaman uyumsuz bir biçimde yürütülür     |    doğru/yanlış     |
-|    QueryStartTime     |    No     |    İsteğe bağlı olarak, verileri ayıklayan sorgunun başlangıç saatini belirtir. Bu parametre yalnızca, true olarak ayarlanmış tek seferlik yürütme raporları için geçerlidir `ExecuteNow` . Sorguda verilen bu parametre geçersiz kılmaları ayarlanıyor `TIMESPAN` . Biçim yyyy-MM-ddTHH: mm: ssZ olmalıdır     |    Dize olarak zaman damgası     |
-|    QueryEndTime     |    No     |    İsteğe bağlı olarak, verileri ayıklayan sorgunun bitiş saatini belirtir. Bu parametre yalnızca, true olarak ayarlanmış bir kerelik yürütme raporu için geçerlidir `ExecuteNow` . Sorguda verilen bu parametre geçersiz kılmaları ayarlanıyor `TIMESPAN` . Biçim yyyy-MM-ddTHH: mm: ssZ olmalıdır     |    Dize olarak zaman damgası     |
+|    ExecuteNow     |    Hayır     |    Bu parametre, yalnızca bir kez yürütülecek bir rapor oluşturmak için kullanılmalıdır. `StartTime`, `RecurrenceInterval` , ve `RecurrenceCount` true olarak ayarlanırsa yok sayılır. Rapor, anında zaman uyumsuz bir biçimde yürütülür     |    doğru/yanlış     |
+|    QueryStartTime     |    Hayır     |    İsteğe bağlı olarak, verileri ayıklayan sorgunun başlangıç saatini belirtir. Bu parametre yalnızca, true olarak ayarlanmış tek seferlik yürütme raporları için geçerlidir `ExecuteNow` . Sorguda verilen bu parametre geçersiz kılmaları ayarlanıyor `TIMESPAN` . Biçim yyyy-MM-ddTHH: mm: ssZ olmalıdır     |    Dize olarak zaman damgası     |
+|    QueryEndTime     |    Hayır     |    İsteğe bağlı olarak, verileri ayıklayan sorgunun bitiş saatini belirtir. Bu parametre yalnızca, true olarak ayarlanmış bir kerelik yürütme raporu için geçerlidir `ExecuteNow` . Sorguda verilen bu parametre geçersiz kılmaları ayarlanıyor `TIMESPAN` . Biçim yyyy-MM-ddTHH: mm: ssZ olmalıdır     |    Dize olarak zaman damgası     |
 |    Recurrenceınterval     |    Yes     |    Raporun oluşturulması gereken saat sıklığı. <br> En küçük değer 4, en büyük değer 2160 ' dir.      |    tamsayı     |
-|    RecurrenceCount     |    No     |    Oluşturulacak rapor sayısı.     |    tamsayı     |
-|    Biçimlendir     |    No     |    İçe aktarılmış dosyanın dosya biçimi. <br> Varsayılan CSV 'dir.    |    "CSV"/"TSV"     |
-|    CallbackUrl     |    No     |    İsteğe bağlı olarak, geri arama hedefi olarak yapılandırılabilen, genel olarak erişilebilen URL     |    Dize (http URL 'SI)     |
-|    CallbackMethod     |    No     |    Geri arama için kullanılacak yöntem     |    AL/POSTALA     |
+|    RecurrenceCount     |    Hayır     |    Oluşturulacak rapor sayısı.     |    tamsayı     |
+|    Biçimlendir     |    Hayır     |    İçe aktarılmış dosyanın dosya biçimi. <br> Varsayılan CSV 'dir.    |    "CSV"/"TSV"     |
+|    CallbackUrl     |    Hayır     |    İsteğe bağlı olarak, geri arama hedefi olarak yapılandırılabilen, genel olarak erişilebilen URL     |    Dize (http URL 'SI)     |
+|    CallbackMethod     |    Hayır     |    Geri arama için kullanılacak yöntem     |    AL/POSTALA     |
 |        |        |        |        |
 
 ### <a name="sample-response"></a>Örnek yanıt
 
-Yanıt yükü aşağıdaki şekilde yapılandırılır:
+Yanıt yükü aşağıdaki gibi yapılandırılmıştır:
 
-Yanıt kodları: 200, 400, 401, 403, 404, 500
+Yanıt Kodları: 200, 400, 401, 403, 404, 500
 
 Yanıt yükü örneği:
 
@@ -257,39 +257,39 @@ Yanıt yükü örneği:
 
 ### <a name="glossary"></a>Sözlük
 
-Yanıttaki öğelerin temel tanımları aşağıda verilmiştir:
+Yanıtta yer alan öğelerin anahtar tanımları aşağıda açıklanmıştır:
 
 |    Parametre     |    Açıklama     |
 |    ----    |    ----    |
-|    REPORTID     |    Oluşturduğunuz raporun evrensel benzersiz tanımlayıcısı (UUID)     |
-|    ReportName     |    İstek yükünde rapora verilen ad     |
-|    Description     |    Raporun oluşturulması sırasında verilen açıklama     |
-|    QueryId     |    Raporu oluşturduğunuz sırada geçirilen sorgu KIMLIĞI     |
+|    ReportId     |    Oluşturduğunuz raporun evrensel olarak benzersiz tanımlayıcısı (UUID)     |
+|    Raporadı     |    İstek yükünde rapora verilen ad     |
+|    Açıklama     |    Rapor oluşturma sırasında verilen açıklama     |
+|    Queryıd     |    Raporu oluşturduğunuz sırada geçirilen sorgu kimliği     |
 |    Sorgu     |    Bu rapor için yürütülecek sorgu metni     |
-|    Kullanıcı     |    Raporu oluşturmak için kullanılan Kullanıcı KIMLIĞI     |
-|    CreatedTime     |    Raporun şu biçimde oluşturulduğu UTC saati: yyyy-MM-ddTHH: mm: ssZ     |
-|    ModifiedTime     |    Raporun bu biçimde en son değiştirildiği UTC saati: yyyy-MM-ddTHH: mm: ssZ     |
-|    ExecuteNow     |    `ExecuteNow` raporun oluşturulduğu sırada ayarlanan bayrak     |
-|    StartTime     |    Rapor yürütmenin bu biçimde başlayacağı UTC saati: yyyy-MM-ddTHH: mm: ssZ     |
-|    ReportStatus     |    Rapor yürütmenin durumu. Olası değerler şunlardır `Paused` , `Active` ve `Inactive`     |
-|    Recurrenceınterval     |    Rapor oluşturma sırasında belirtilen yinelenme aralığı     |
-|    RecurrenceCount     |    Rapor oluşturma sırasında yinelenme sayısı belirtildi.      |
-|    CallbackUrl     |    İstekte belirtilen geri çağırma URL 'SI     |
-|    CallbackMethod     |    İstekte belirtilen geri çağırma yöntemi     |
-|    Biçimlendir     |    Rapor dosyalarının biçimi. Olası değerler veya ' `CSV` dir `TSV` .     |
-|    TotalCount     |    Değer dizisindeki kayıt sayısı     |
-|    Durum     |    Sonuç Kodu     |
-|    message     |    Olası değerler 200, 400, 401, 403, 500 ' dir. API 'nin yürütülmesindeki durum iletisi     |
+|    Kullanıcı     |    Raporu oluşturmak için kullanılan kullanıcı kimliği     |
+|    CreatedTime     |    UTC Raporun şu biçimde oluşturulma zamanı: yyyy-MM-ddTHH:mm:ssZ     |
+|    ModifiedTime     |    UTC Raporun son değiştirilma zamanı: yyyy-MM-ddTHH:mm:ssZ     |
+|    ExecuteNow     |    `ExecuteNow` raporun oluşturulma zamanında ayarlanmış bayrağı     |
+|    StartTime     |    UTC Saati Rapor yürütme şu biçimde başlar: yyyy-MM-ddTHH:mm:ssZ     |
+|    ReportStatus     |    Rapor yürütme durumu. Olası değerler `Paused` , `Active` ve değerleridir `Inactive`     |
+|    RecurrenceInterval     |    Rapor oluşturma sırasında sağlanan yinelenme aralığı     |
+|    RecurrenceCount     |    Rapor oluşturma sırasında sağlanan yineleme sayısı.      |
+|    CallbackUrl     |    İstekte sağlanan geri çağırma URL'si     |
+|    CallbackMethod     |    İstekte sağlanan geri çağırma yöntemi     |
+|    Biçimlendir     |    Rapor dosyalarının biçimi. Olası değerler veya `CSV` `TSV` değerleridir.     |
+|    TotalCount     |    Değer dizisinde kayıt sayısı     |
+|    Statuscode     |    Sonuç Kodu     |
+|    message     |    Olası değerler: 200, 400, 401, 403, 500. API'nin yürütülmesinden gelen durum iletisi     |
 |        |        |
 
-## <a name="get-report-execution-api"></a>Rapor yürütme API 'sini al
+## <a name="get-report-execution-api"></a>Rapor yürütme API'sini al
 
-[Rapor oluşturma API](#create-report-api)'Sinden alınan REPORTID kullanarak rapor yürütmenin durumunu sorgulamak için bu yöntemi kullanabilirsiniz. Rapor indirmeye hazırsanız, yöntemi rapor indirme bağlantısını döndürür. Aksi takdirde, yöntemi durumu döndürür. Belirli bir rapor için gerçekleşen tüm yürütmeleri almak için bu API 'yi de kullanabilirsiniz.  
+Rapor Oluşturma API'sinde alınan ReportId'yi kullanarak rapor yürütme durumunu sorgulamak için [bu yöntemi kullanabilirsiniz.](#create-report-api) Yöntem, rapor indirme için hazırsa rapor indirme bağlantısını döndürür. Aksi takdirde yöntem durumu döndürür. Ayrıca, bu API'yi kullanarak bir rapor için olan tüm yürütmeleri elde edin.  
 
 >[!IMPORTANT]
->Bu API, ve için ayarlanmış varsayılan sorgu parametrelerine sahiptir `executionStatus=Completed` `getLatestExecution=true` . Bu nedenle, raporun ilk başarılı yürütülmesi için önce API çağrılması 404 döndürür. Bekleyen yürütmeler, ayarıyla elde edilebilir `executionStatus=Pending` .
+>Bu API' de ve için varsayılan sorgu parametreleri `executionStatus=Completed` `getLatestExecution=true` ayarlanmıştır. Bu nedenle, raporun ilk başarılı yürütülmesi öncesinde API'nin çağrılsı 404'ü sonuç olarak gösterir. Bekleyen yürütmeler ayarıyla elde `executionStatus=Pending` edilir.
 
-### <a name="request-syntax"></a>İstek sözdizimi
+### <a name="request-syntax"></a>İstek söz dizimi
 
 |    Yöntem     |    İstek URI'si     |
 |----- | -----|
@@ -297,25 +297,25 @@ Yanıttaki öğelerin temel tanımları aşağıda verilmiştir:
 
 ### <a name="request-header"></a>İstek üst bilgisi
 
-|    Üst bilgi     |    Tür     |    Description     |
+|    Üst bilgi     |    Tür     |    Açıklama     |
 |-------|-----|------|
-|    Yetkilendirme     |    string |Gereklidir. Azure Active Directory (Azure AD) erişim belirteci. Biçim  `Bearer <token>` .|
+|    Yetkilendirme     |    string |Gereklidir. Azure Active Directory (Azure AD) erişim belirteci. Biçimi şu  `Bearer <token>` şekildedir: .|
 |    İçerik Türü     |string |`Application/JSON` |
 
 ### <a name="path-parameter"></a>Yol parametresi
 
-|    Parametre Adı    |    Gerekli    |    Tür    |    Description    |
+|    Parametre Adı    |    Gerekli    |    Tür    |    Açıklama    |
 |    ----    |    ----    |    ----    |    ----    |
-|    reportId    |    Yes    |    string    |    Yalnızca bu bağımsız değişkende verilen REPORTID 'ye sahip raporların yürütme ayrıntılarını almak için filtreleyin. Birden çok Inceleme, noktalı virgül ";" ile ayrılarak belirtilebilir.    |
+|    reportId    |    Yes    |    string    |    Yalnızca bu bağımsız değişkende verilen reportId değerine sahip raporların yürütme ayrıntılarını almak için filtreyi seçin. Birden çok reportId, noktalı virgül ";" ile ayrılarak belirtilebilir.    |
 |        |        |        |        |
 
 ### <a name="query-parameter"></a>Sorgu parametresi
 
-|    Parametre Adı    |    Gerekli    |    Tür    |    Description    |
+|    Parametre Adı    |    Gerekli    |    Tür    |    Açıklama    |
 |    ----    |    ----    |    ----    |    ----    |
-|    Yürütme    |    No    |    string    |    Yalnızca bu bağımsız değişkende verilen ExecutionID 'ye sahip raporların ayrıntılarını almak için filtreleyin. Birden çok ExecutionID, noktalı virgül ";" ile ayrılarak belirtilebilir.    |
-|    executionStatus    |    No    |    Dize/Enum    |    Yalnızca bu bağımsız değişkende verilen executionStatus raporlarının ayrıntılarını almak için filtreleyin. <br> Geçerli değerler şunlardır: `Pending` , `Running` , `Paused` , ve `Completed` . <br> `Completed` varsayılan değerdir. <br> Birden çok durum noktalı virgül ";" ile ayrılarak belirtilebilir.    |
-|    getLatestExecution    |    No    |    boolean    |    API, en son yürütmenin ayrıntılarını döndürür. Varsayılan olarak, bu parametre true olarak ayarlanır.<br> Bu parametrenin değerini false olarak geçirmeye seçerseniz, API son 90 gün yürütme örneğini döndürür.    |
+|    Executionıd    |    Hayır    |    string    |    Yalnızca bu bağımsız değişkende verilen executionId değerine sahip raporların ayrıntılarını almak için filtreyi seçin. Birden çok executionId, noktalı virgül ";" ile ayrılarak belirtilebilir.    |
+|    executionStatus    |    Hayır    |    Dize/enum    |    Yalnızca bu bağımsız değişkende verilen executionStatus değerine sahip raporların ayrıntılarını almak için filtrele. <br> Geçerli değerler: `Pending` , , ve `Running` `Paused` `Completed` . <br> `Completed` varsayılan değerdir. <br> Birden çok durum, noktalı virgül ";" ile ayrılarak belirtilebilir.    |
+|    getLatestExecution    |    Hayır    |    boolean    |    API, en son yürütmenin ayrıntılarını döndürür. Varsayılan olarak, bu parametre true olarak ayarlanır.<br> Bu parametrenin değerini false olarak geçirmeye seçerseniz, API son 90 gün yürütme örneğini döndürür.    |
 |        |        |        |        |
 
 ### <a name="sample-request-payload"></a>Örnek Istek yükü

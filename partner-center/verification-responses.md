@@ -9,12 +9,12 @@ author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 64acff2ff7d518e549f4c90ba898496c522550a7
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.openlocfilehash: 228cdec948e7b28d4bc48105782be2401a78a57d
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126248394"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129071515"
 ---
 # <a name="verify-your-account-information-when-you-enroll-in-a-new-partner-center-program"></a>Yeni bir İş Ortağı Merkezi programına kaydolurken hesap bilgilerinizi doğrulama
 
@@ -50,4 +50,4 @@ Profilinizde oturum açtıktan sonra, **Bekleyen eylemler** görürseniz, gerekl
 - MPN programı için [yasal bilgiler](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile) sayfasına gidin.  
 - CSP programı için [yasal bilgiler](https://partner.microsoft.com/pcv/accountsettings/partnerprofile) sayfasına gidin.
 
-Iş Ortağı Merkezi 'nde bu adımları tamamlamak için yardıma ihtiyacınız varsa, Iş Ortağı Merkezi 'nin destek bölümündeki bir bileti açarak iş ortağı destek ekibine başvurabilirsiniz. Bir bileti açmak için [Yardım ve destek](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=21655de7-7dbb-4927-33a2-f60f45feadf3)bölümüne gidin.
+Iş Ortağı Merkezi 'nde bu adımları tamamlamak için yardıma ihtiyacınız varsa, Iş Ortağı Merkezi 'nin destek bölümündeki bir bileti açarak iş ortağı destek ekibine başvurabilirsiniz. Bir bileti açmak için [Yardım + Destek](https://partner.microsoft.com/dashboard/support/servicerequests/create?stage=2&topicid=21655de7-7dbb-4927-33a2-f60f45feadf3)bölümüne gidin.

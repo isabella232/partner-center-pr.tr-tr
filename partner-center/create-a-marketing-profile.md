@@ -4,17 +4,17 @@ ms.topic: article
 ms.date: 03/09/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-referrals
-description: Microsoft'tan satış müşteri adaylarını nasıl elde etmeyi öğrenin. Anahtarlardan biri, müşterilerin sizi daha kolay İş Ortağı Merkezi bir iş profili oluşturmaktır.
+description: Microsoft'tan satış müşteri adaylarını nasıl elde etmeyi öğrenin. Önemli noktalardan biri, müşterilerin sizi daha kolay İş Ortağı Merkezi bir iş profili oluşturmaktır.
 author: rajap-ms
 ms.author: rajap
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a9c0d970b4ddbdf22e0443ca9e6a2d06a031d0a9
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.openlocfilehash: 3a6793834d67293e29a1b6d7e2f21b4b4eaa0ae6
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126248521"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129073932"
 ---
 # <a name="create-a-business-profile-to-get-microsoft-sales-leads-and-help-customers-find-you"></a>Microsoft satış müşteri adaylarını almak ve müşterilerin sizi bulmalarına yardımcı olmak için bir iş profili oluşturma
 
@@ -33,11 +33,11 @@ Microsoft, pazarlama, satış ve hizmet çalışmaları aracılığıyla her yı
 ## <a name="create-a-profile"></a>Profil oluşturma
 
 > [!NOTE]  
-> bir iş profili oluşturamadan önce bir İş Ortağı Merkezi gerekir. Henüz bir hesap hesabınız yoksa, İş Ortağı Merkezi yardım için [bkz. İş Ortağı Merkezi](mpn-create-a-partner-center-account.md) hesabı oluşturma.
+> bir iş profili oluşturamadan önce bir İş Ortağı Merkezi gerekir. Henüz bir İş Ortağı Merkezi hesabınız yoksa, oluşturma yardımı için [İş Ortağı Merkezi hesabı](mpn-create-a-partner-center-account.md) oluşturma'ya bakın.
 
 İş yapmak için yetkilendirilen her bölge için profiller oluşturun.
 
-1. İş profili **İş Ortağı Merkezi'yi** seçin **ve** sonra da İş profili &gt;  &gt; oluştur'> **[ülke/bölge seçin.](https://partner.microsoft.com/referrals/businessprofiles/)**
+1. İş profili İş Ortağı Merkezi [ekranına](https://partner.microsoft.com/referrals/businessprofiles/) gidin.
 
 2. İş **profili oluştur sayfasında** bir bölge seçin ve profil bilgilerini girin.
    > [!NOTE]  

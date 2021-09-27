@@ -4,25 +4,25 @@ ms.topic: article
 ms.date: 01/11/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-insights
-description: İyi bir şekilde neler yaptığına ve müşterileriniz için satıp Enterprise Mobility + Security aboneliklerin kullanımıyla ilgili olarak geliştirebilirsiniz.
-author: shganesh-dev
-ms.author: shganesh
+description: İyi bir şekilde neler yaptığına ve müşterileriniz için satış veya yönetim Enterprise Mobility + Security aboneliklerin kullanımıyla ilgili olarak geliştirebilirsiniz.
+author: kshitishsahoo
+ms.author: ksahoo
 ms.localizationpriority: medium
-ms.openlocfilehash: b78167823a26b16bfa51a7a948afeda027b9898e
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.openlocfilehash: afce31926ecfaa7d10a770c6a087fe553939ad7d
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126248490"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129070858"
 ---
 # <a name="enterprise-mobility--security-usage-report-available-from-the-partner-center-insights-dashboard"></a>Enterprise Mobility + Security panosundan kullanılabilen İş Ortağı Merkezi Analizler raporu
 
-**Uygun roller:** Genel yönetici | Yönetici aracısı | Rapor görüntüleyicisi | Yönetici raporu görüntüleyicisi
+**Uygun roller:** Genel yönetici | Yönetici aracısı | Rapor görüntüleyici | Yönetici raporu görüntüleyicisi
 
-Enterprise Mobility + Security raporu, müşterileriniz için sattığınız veya Enterprise Mobility + Security aboneliklere yönelik kullanım verilerini sağlar. Aşağıdaki bölümleri Enterprise Mobility + Security görüntüebilirsiniz.
+Enterprise Mobility + Security raporu, müşterileriniz için sattığınız veya Enterprise Mobility + Security abonelikler için kullanım verileri sağlar. Aşağıdaki bölümleri kullanım raporu Enterprise Mobility + Security görüntüebilirsiniz.
 
 - Özet
-- Enterprise Mobility + Security göre kullanımları kullanma
+- Enterprise Mobility + Security göre kullanımı kullanma
 - Enterprise Mobility + Security SKU'ya göre kullanım
 - Abonelik performansı
 - Enterprise Mobility + Security dağıtımı
@@ -48,9 +48,9 @@ Enterprise Mobility + Security raporu, müşterileriniz için sattığınız vey
 
 :::image type="content" source="images/insights/ems-usage-summary.png" alt-text="EMS kullanım özeti.":::
 
-## <a name="enterprise-mobility--security-usage-by-geography"></a>Enterprise Mobility + Security göre kullanımları kullanma
+## <a name="enterprise-mobility--security-usage-by-geography"></a>Enterprise Mobility + Security göre kullanımı kullanma
 
-Coğrafyaya **Enterprise Mobility + Security** kullanım verileri, müşteri ülkesi tarafından Aylık Etkin Kullanıcıların (MAU) ve Ücretli Kullanılabilir Birimlerin (PAU) dağılımını gösterir. MAU, önceki ay kullanılan lisans sayısını, PAU ise seçilen zaman çerçevesi içinde satılan veya yönetilen ücretli lisans sayısını ifade eder. Harita üzerinde daha açık renkler düşük değerleri, koyu renkler ise daha yüksek değerleri temsil eder. Kılavuzda bir ülke arayabilir ve bu ülkeyi seçin. Daha yakından bakmak için de yakınlaştırın.
+Coğrafyaya **Enterprise Mobility + Security** kullanım verileri, müşteri ülkeye göre Aylık Etkin Kullanıcıların (MAU) ve Ücretli Kullanılabilir Birimlerin (PAU) dağılımını gösterir. MAU, önceki ay kullanılan lisans sayısını, PAU ise seçilen zaman çerçevesi içinde satılan veya yönetilen ücretli lisans sayısını ifade eder. Harita üzerinde daha açık renkler düşük değerleri, koyu renkler ise daha yüksek değerleri temsil eder. Kılavuzda bir ülke arayabilir ve bu ülkeyi seçin. Daha yakından bakmak için de yakınlaştırın.
 
 **Ülke/bölge sayısı tablosu,** Azure kullanım olaylarının oluşturularak toplam ülke/bölge sayısını gösterir.
 
@@ -60,7 +60,7 @@ Haritanın konumunu yakınlaştırmak için kılavuzda bir ülke arayabilir ve b
 
 ## <a name="enterprise-mobility--security-usage-by-sku"></a>Enterprise Mobility + Security SKU'ya göre kullanım
 
-SKU Enterprise Mobility + Security kullanımı, SKU'lara göre MAU ve PAU'nun aylık dökümünü gösterir.
+SKU Enterprise Mobility + Security kullanımı, MAU ve PAU'nun SKU'lara göre aylık dökümünü gösterir.
 
 :::image type="content" source="images/insights/ems-usage-sku.png" alt-text="SKU'ya göre EMS kullanımı.":::
 

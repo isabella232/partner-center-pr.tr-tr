@@ -6,13 +6,13 @@ ms.service: partner-dashboard
 ms.topic: article
 author: eunjkim520
 ms.author: eunjkim
-ms.date: 3/22/2021
-ms.openlocfilehash: d95927db27d7dfd05b8f29a6536658c3210f9b05
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.date: 09/27/2021
+ms.openlocfilehash: 6cc683609181ce58768a266ca6a323bbdd9e3486
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126248669"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129074968"
 ---
 # <a name="payout-statements"></a>Ödeme deyimleri
 
@@ -20,8 +20,8 @@ ms.locfileid: "126248669"
 
 **Ödeme beyanı** , ticari Market aracılığıyla satılan tekliflerden ödemalarınızın genel bir görünümünü sunar. Kazanlarınızın işlem geçmişini gösterir, bir sonraki ödemenizi tahmin eder ve ödeme eğilimlerini gösterir. Ayrıca, işlem geçmişi ve ödeme deyimlerini indirebilirsiniz. Bu makalede, ödeme deyiminize ve Iş Ortağı Merkezi 'nde size erişilebilen farklı ödeme sayfalarına ve indirmelere nasıl erişebileceğiniz açıklanır.
 
->[!NOTE]
->Yalnızca MPN kimlikleri ve sizinle ilişkilendirdiğiniz programlar için verileri görürsünüz. Ek verileri görmek isterseniz, izinler için hesap yöneticinizle birlikte çalışın. 
+> [!NOTE]
+> Yalnızca MPN kimlikleri ve sizinle ilişkilendirdiğiniz programlar için verileri görürsünüz. Ek verileri görmek isterseniz, izinler için hesap yöneticinizle birlikte çalışın. 
 
 ## <a name="roles-and-permissions"></a>Roller ve izinler
 
@@ -40,22 +40,35 @@ Bir ödeme bildirimine erişmek için **hesap sahibi** veya **mali katkıda bulu
 
 ## <a name="access-your-payout-statement"></a>Ödeme deyiminize erişin
 
+#### <a name="workspaces-view"></a>[Çalışma alanları görünümü](#tab/workspaces-view)
+
+1. [Iş Ortağı Merkezi panosunda](https://partner.microsoft.com/dashboard) oturum açın ve **ödemeler** kutucuğunu seçin.
+
+2. Kullanılabilir özetlerin birini seçin:
+
+    - Ödemelere genel bakış
+    - İşlem geçmişi
+    - Verileri dışarı aktarma
+
+    :::image type="content" source="./images/payouts/payout-overview-workspaces.png" alt-text="Ödemeler çalışma alanına genel bakış gösteren ekran görüntüsü.":::
+
+#### <a name="current-view"></a>[Geçerli görünüm](#tab/current-view)
+
 [Iş Ortağı Merkezi](https://partner.microsoft.com/dashboard/home) ' nde oturum açın ve bu farklı özetlere erişmek için ekranın sağ üst köşesindeki ödeme simgesini seçin:
 
 - İşlem geçmişi
 - Ödemeler
 - Verileri dışarı aktarma
 
-:::image type="content" source="images/payouts/payout-overview.png" alt-text="Iş Ortağı Merkezi portalının sağ üst köşesindeki ödeme simgesini gösterir.":::
+:::image type="content" source="images/payouts/payout-overview.png" alt-text="Iş Ortağı Merkezi portalının sağ üst köşesinde bulunan ödeme simgesini gösteren ekran görüntüsü.":::
+
+* * *
 
 Ayrıca, [Iş ortağı ödeme API](/rest/api/partner-center/partner-payouts) 'sini kullanarak doğrudan ödeme ve ödeme verilerini alabilir ve elde edebilirsiniz. [Ödeme HIZMETLERI API 'sini kullanarak ödemeleri yönetme](/partner-center/develop/manage-payouts)hakkında daha fazla bilgi edinin.
-
 
 ## <a name="transaction-history"></a>İşlem geçmişi
 
 **İşlem geçmişi** sayfasında, son 36 aya göre kazanç, tahmini bir sonraki ödeme ve kazanç ve ödemeler eğilimi gösterilir. Ayrıca, bu bölümden işlem ayrıntılarını indirebilirsiniz.<br><br>Bu rapor, henüz gönderilmemiş ödemeler dahil olmak üzere, ödeme için uygun olan tüm gelirleri gösterir. Bir ISV, Iş Ortağı Merkezi 'ndeki tüm banka ve vergi bilgilerini tamamladıktan sonra kazanç $50 >, ISV hesabı etkin ve müşterinin faturalandırıldığı (EA işlemleri için) veya ödeme alındığı zaman (EA işlemleri için) ödemiştir.
-
-:::image type="content" source="images/payouts/transaction-overview.png" alt-text="İşleme genel bakış.":::
 
 - **Bu yıla gönderilen kazançlar** – ödenen ve gelecek ayda ödenen toplam kazanç ve döküm dökümü.
 - **Tahmini ödeme ayı** – yaklaşan aylarda beklenen toplam kazanç.
@@ -64,17 +77,15 @@ Ayrıca, [Iş ortağı ödeme API](/rest/api/partner-center/partner-payouts) 'si
 
 Son 3, 6, 12 veya 36 ayı göstermek için sayfanın çıktısını filtrelemek üzere sayfanın sağ üst köşesindeki tarih aralığı seçimini kullanın. Ya da 36 aya kadar bir özel tarih aralığı seçin. Varsayılan tarih aralığı 12 aydır. Kayıt KIMLIĞI, program, ödeme KIMLIĞI, kazanç türü, MANI ve duruma göre de filtre uygulayabilirsiniz. Veriler geçerli mali yıl (1 Temmuz 30 Haziran) ve önceki iki mali yıl için kullanılabilir.
 
-:::image type="content" source="images/payouts/search-filter.png" alt-text="Sayfanın sağ üst kısmındaki arama filtresi.":::
+Bir atma hakkında daha fazla ayrıntı görmek için sayfanın sağ tarafındaki aşağı oku seçin. Bunun yapılması manı, gelir tutarını, ürünü ve müşteriyi görüntüler. Herhangi bir nedenle bu verilerden herhangi biri kullanılamıyorsa ama bu verilere erişmeye ihtiyacınız varsa dehaya başvurun. Kazanç, bir işlem değil düzeltmenin sonucu ise Product ve Customer alanları görüntülenmez.
 
-Bir atma hakkında daha fazla ayrıntı görmek için sayfanın sağ tarafındaki aşağı oku seçin. Bunun yapılması manı, gelir tutarını, ürünü ve müşteriyi görüntüler. Herhangi bir nedenden dolayı bu verilerden herhangi biri kullanılamaz, ancak ona erişmeniz gerekiyorsa, desteğe başvurun. Kazanım, bir işlem değil, bir ayarlamanın sonucu ise, ürün ve müşteri alanları gösterilmez.
+### <a name="transaction-history-summary"></a>İşlem geçmişi özeti
 
-### <a name="transaction-history-summary"></a>İşlem geçmişi Özeti
-
-Bu görünüm, ürün ve tahmini ödeme ayından oluşan ürünün kazanç kaynağı dahil olmak üzere kazanç ayrıntılarını gösterir.
+Bu görünümde satılan üründen elde edilen kazançların kaynağı da dahil olmak üzere kazanç ayrıntıları, durum ve tahmini ödeme ayı yer aya ilişkin bilgiler yer amektedir.
 
 :::image type="content" source="images/payouts/transaction-history.png" alt-text="İşlem geçmişi.":::
 
-- **Kazanılan tarih** : satın alma tarihi.
+- **Kazanılan tarih:** Satın alma tarihi.
 - **Kazanç türü:** Satış, İndirim veya Ortak satış gibi kazanç türü.
 - **Toplam tutar:** Net kazanç tutarı. Ticari markette bu, standart market ücretinin düşüldüğü anlamına gelir.
 - **Durum–** Üç seçenek vardır:
@@ -117,13 +128,7 @@ Tahmini miktar, çeşitli nedenlerle gerçek tutardan farklı olabilir:
 
 ### <a name="transaction-history-download"></a>İşlem geçmişi indirme
 
-Kazanç hakkında daha fazla ayrıntı görmek için sayfanın **üst kısmından** İndir'i seçin. Aşağıdaki tabloda, rapordaki her sütun açık bir şekilde açık bir şekilde açık bir şekilde ve açıklamadır.
-
->[!NOTE]
->İşlem geçmişi indirme dışarı aktarma işlemi Ağustos 2020'den itibaren iki yeni alan içerir:
->
->- **lastPaymentCurrency**  Oturum açmış olan iş ortağının erişimi olan tüm MPN'lerde en son ödemenin alın aldığı para birimi. Ödeme alınmayacaksa son ödeme para birimi ABD doları olur.
->- **earningAmountInLastPaymentCurrency**  Son ödeme para birimi cinsinden kazanç tutarı.
+Kazanç hakkında daha fazla ayrıntı görmek için İndir'i **seçin.** Aşağıdaki tabloda, rapordaki her sütun açık bir şekilde açık bir şekilde açık bir şekilde ve açıklamadır.
 
 | Sütun adı | Description | Teşvik programları/marketler için uygulanabilirlik |
 | --- | --- | --- |
@@ -181,70 +186,68 @@ Kazanç hakkında daha fazla ayrıntı görmek için sayfanın **üst kısmında
 | miktar | Programa göre değişir. İşlem programları için faturalandır edilen miktarı gösterir | Tümü |
 | reasonCode |  |  |
 | resellerCountry |  |  |
-| resellerId | Kurumsal bayi tanımlayıcısı | Teşvikler - yalnızca bazı programlar |
-| resellerName | Satıcı adı |  |
-| SkuId | Yayımlama sırasında tanımlandığı gibi SKU Kimliği. Bir teklifte çok sayıda SKU olabilir, ancak SKU yalnızca tek bir teklifle ilişkilendirilir. Teşvikler - yalnızca bazı programlar |  |
-| storeFee | Uygulamayı veya eklentiyi Mağaza'da kullanılabilir yapma ücreti olarak Microsoft tarafından eldeki tutar | Pazaryerleri |
-| subscriptionEndDate | Abonelik bitiş tarihi | Teşvikler - yalnızca bazı programlar |
-| subscriptionId | Müşteriyle ilişkili abonelik tanımlayıcısı | Teşvikler - yalnızca bazı programlar |
-| subscriptionStartDate | Abonelik başlangıç tarihi | Teşvikler - yalnızca bazı programlar |
-| taxCity |  |  |
+| resellerId | Kurumsal bayi tanımlayıcısı | Teşvikleri-yalnızca bazı programlar |
+| Reselleradı | Satıcı adı |  |
+| SkuId | Yayımlama sırasında tanımlanan SKU KIMLIĞI. Bir teklifin birçok SKU 'su olabilir, ancak bir SKU yalnızca tek bir teklifle ilişkilendirilebilir. Teşvikleri-yalnızca bazı programlar |  |
+| storeFee | Uygulama veya eklentiyi mağazada kullanılabilir hale getirmek için Microsoft tarafından bir ücret olarak tutulan miktar | marketlerinden |
+| subscriptionEndDate | Abonelik bitiş tarihi | Teşvikleri-yalnızca bazı programlar |
+| subscriptionId | Müşteriyle ilişkili abonelik tanımlayıcısı | Teşvikleri-yalnızca bazı programlar |
+| subscriptionStartDate | Abonelik başlangıç tarihi | Teşvikleri-yalnızca bazı programlar |
+| Vergilencity |  |  |
 | taxCountry |  |  |
-| taxRemitModel | Vergileri (satış, kullanım veya KDV/GST vergileri) sorumlu taraf | Pazaryerleri |
-| taxRemitted | Atlanmış vergi tutarı (satış, kullanım veya KDV/GST vergileri) | Pazaryerleri |
+| Taxhavalemodeli | Vergi vergisinden sorumlu olan parti (satış, kullanım veya KDV/GST vergileri) | marketlerinden |
+| Vergilenhavale edilmiş | Havale edilen vergi miktarı (satış, kullanım veya KDV/GST vergileri) | marketlerinden |
 | taxState | Müşterinin durumu |  |
-| taxZipCode | Müşterinin posta kodu |  |
-| tpan | Üçüncü taraf reklam ağına işaret | yalnızca marketplaces Ads |
-| transactionAmount | Kazanç oluşturulana göre özgün işlem para birimi cinsinden işlem tutarı | Tümü |
-| transactionAmountUSD | ABD doları olarak işlem tutarı | Tümü |
-| transactionCountryCode | İşlem gerçekleşti ülke/bölge kodu |  |
-| transactionCurrency | Özgün müşteri işlemlerinin meydana geldiği para birimi (bu iş ortağı konumu para birimi değildir) | Tümü |
-| transactionDate | İşlem tarihi. Birçok işlemi tek bir kazanç için katkıda bulunan programlar için yararlıdır | Tümü |
-| transactionExchangeRate | Exchange abd doları tutarını göstermek için kullanılan fiyat tarihi | Tümü |
-| Transactionıd | İşlem için benzersiz tanımlayıcı | Tümü |
-| transactionPaymentMethod | İşlem için kullanılan Kart, Mobil Operatör Faturalaması veya Mobil Operatör Faturalaması gibi müşteri PayPal | Pazaryerleri |
-| Transactiontype | Satın alma, para iadesi, geri alma veya geri ödeme gibi işlem türü | Pazaryerleri |
-| iş yükü | İş Yükü | Teşvikler - yalnızca bazı programlar |
+| taxZipCode | Müşterinin ZIP/posta kodu |  |
+| tpan | Üçüncü taraf ad ağını belirtir | Pazar yalnızca reklamları yerleştir |
+| Işlem miktarı | Orijinal işlem para biriminde, kazanıştan oluşan işleme göre işlem miktarı | Tümü |
+| transactionAmountUSD | USD cinsinden işlem miktarı | Tümü |
+| transactionCountryCode | İşlemin gerçekleştiği ülke/bölge kodu |  |
+| Işlem para birimi | Orijinal müşteri işleminin gerçekleştiği para birimi (Bu iş ortağı konum para birimi değil) | Tümü |
+| transactionDate | İşlemin tarihi. Birçok işlemin tek bir işleme katkıda bulunduğu programlar için yararlıdır | Tümü |
+| transactionExchangeRate | karşılık gelen işlem USD tutarını göstermek için kullanılan Exchange hız tarihi | Tümü |
+| TransactionId | İşlem için benzersiz tanımlayıcı | Tümü |
+| transactionPaymentMethod | İşlem için kullanılan, kart, mobil taşıyıcı faturalandırma veya PayPal gibi müşteri ödeme gereci | marketlerinden |
+| Işlem türü | Satın alma, iadesi, ters çevirme veya geri ödeme gibi işlem türü | marketlerinden |
+| iş yükü | İş Yükü | Teşvikleri-yalnızca bazı programlar |
 |
 
 ### <a name="transaction-adjustment-codes"></a>İşlem ayarlama kodları
 
-Aşağıdaki tabloda düzeltmeler için neden kodları ve açıklamaları liste almaktadır.
+Aşağıdaki tabloda, ayarlamalar ve açıklamaları için neden kodları listelenmektedir.
 
-|**Neden kodu**   |**Açıklama**   |
+| Neden kodu   | Açıklama   |
 |------------------|:-------------------------------------|
-| AR Uyumluluğu | microsoft faturaları iş ortağı tarafından zamanında ödenmemiş olduğunda kazançları azaltan düzeltme. |
-| Ortak çalışma rollover | Ortak kazançları başka bir döneme aktaran veya ortak kazançları indirime dönüştüren düzeltme. |
-| İşlem Ayarlaması | Microsoft sistem hesaplama hatalarını düzelten ayarlama. |
-| İşlem AyarlamaSı Microsoft yanlış hesaplaması | Yanlış hesaplamaları düzelten ayarlama. |
-| İşlem AyarlamaSı Microsoft hatalı kayıt | Kayıtla ilgili yanlış hesaplamalar için ayarlama. |
-| İş ortağı eşlemesi (abonelik) MCI/CSP | Abonelik yanlış hizasını düzelten düzeltme. |
-| İlke Özel Durumu | Program kuralını geçersiz kılmak için ayarlama.  |
-| Önceki dönem kazançları | Geçerli kazanç dönemi dışındaki kazançlar için düzeltme. |
+| AR uyumluluğu | Microsoft faturalarının iş ortağı tarafından zamanında ödenmeyen kazançlarını azaltan ayarlama. |
+| Ortak işlem geçişi | Ortak op kazançlarını başka bir döneme aktaran veya ortak op kazançlarını indirimin olarak dönüştüren ayarlama. |
+| Ops ayarlaması | Microsoft Sistem hesaplama hatalarını düzelten ayarlama. |
+| Ops ayarlaması Microsoft yanlış hesaplama | Hatalı hesaplamaları düzelten ayarlama. |
+| Ops ayarlaması Microsoft Hatalı kayıt | Kayıt ile ilgili hatalı hesaplamalar için ayarlama. |
+| İş ortağı eşlemesi (abonelik) MCI/CSP | Aboneliğin hizalaması hatalı düzeltme. |
+| İlke özel durumu | Bir program kuralını geçersiz kılan ayarlama.  |
+| Önceki dönem gelirleri | Geçerli kazanç döneminin dışındaki kazançlar için ayarlama. |
 
 ## <a name="payments"></a>Ödemeler
 
-Ödemeler **sayfasında,** Microsoft ile kazandığınız paraların ayrıntıları yer almaktadır. Ayrıca ne zaman ve ne kadar ödenmiş olacağını gösterir.
+**Ödemeler** sayfası, Microsoft ile kazandığınızı ayrıntılarıyla ayrıntılardır. Ayrıca ne zaman ve ne kadar ücret ödeeceğini gösterir.
 
->[!Note]
-> Ödemeye uygun olmak için gelirlerinizi 50 [ABD doları olan ödeme](payment-thresholds-methods-timeframes.md) eşiğine ulaşmanız gerekir. Daha fazla bilgi için [bkz. Microsoft Publisher Sözleşmesi.](/legal/marketplace/msft-publisher-agreement)
+> [!NOTE]
+> Ödemenizin uygun olması için, devam eden $50 [ödeme eşiğine](payment-thresholds-methods-timeframes.md) ulaşmalıdır. daha fazla bilgi için [Microsoft Publisher sözleşmesine](/legal/marketplace/msft-publisher-agreement)bakın.
 
-:::image type="content" source="images/payouts/payments-overview.png" alt-text="Ödemelere genel bakış ekranı.":::
-
-- **Bu yılın toplam** ödemesi: Tüm programlarınız için bu yıl ABD doları olarak size ödenen birleşik toplam.
-- **Sonraki tahmini ödeme:** Abd doları olarak size gelecek tek bir sonraki ödeme (yakında başka ödeme de olsa) gelir.
-- **Son ödeme:** Tutarı (ABD doları), program adı ve en son ödemenizin programı.
-- **Kaynak tarafından ödeme** – Son 12 ay içinde program başına yapılan ödeme miktarı (ABD doları).
+- **Toplam ödenen bu yıl** – tüm programlarınız için ABD Doları cinsinden bu yıla kadar ödenen toplam miktar.
+- **Sonraki tahmini ödeme** : ABD Doları cinsinden size gelen tek bir sonraki ödeme (çok yakında geliyor olsa bile).
+- **Son ödeme** : miktar (ABD Doları cinsinden), program adı ve en son ödemenizin programı.
+- **Kaynağa göre ödeme** – son 12 aya göre, her program için ödeme miktarı (ABD Doları cinsinden).
 
 ### <a name="payments-list"></a>Ödemeler listesi
 
-Ödeme **Listesi tablosu,** ücretli ve bekleyen ödemeleri gösterir. Hizmet ücreti vergi bilgilerini PDF biçiminde indirebilir ve verilen ödemenin kazanç ayrıntılarını görüntüebilirsiniz.
+**Ödemeler tablosunun listesi** ücretli ve bekleyen ödemeleri gösterir. Hizmet ücreti vergi bilgilerini PDF biçiminde indirebilir ve belirli bir ödemenin kazanç ayrıntılarını görüntüleyebilirsiniz.
 
-:::image type="content" source="images/payouts/list-of-payments.png" alt-text="İşlem geçmişini dışarı aktarma.":::
+:::image type="content" source="images/payouts/list-of-payments.png" alt-text="İşlem geçmişini dışarı aktarın.":::
 
-- **Paid:** Başarıyla gönderilen tüm ödemeler. Açılan menüden yıl'ı seçecek ve bu yıl yayımlanan ödemeleri filtrele.
-- **Beklemede:** Yaklaşan ödemeler.
-- **Hizmet ücreti vergisi (PDF formu)** – Hizmet ücreti vergisine tabi ödemeler için kullanılabilir. Hizmet ücreti vergileri, **diğer vergilerle** gösterilir.
+- **Ücretli** – tüm ödemeler başarıyla gönderildi. Bu yıl içinde Yayınlanan ödemeleri filtrelemek için açılan menüdeki yılı seçin.
+- **Bekleyen** – yaklaşan ödemeler.
+- **Servis ücreti vergisi (PDF formu)** – ödemeler tabi for Service ücret vergisine göre kullanılabilir. Hizmet ücreti vergileri, **diğer vergilerle** gösterilir.
 - **Görüntüle** : işlem geçmişine, ödemeye dahil edilen kazanç listesini kullanarak yeniden yönlendirir.
 
 Neden eksik veya beklenmeyen kazanç olduğunu anlamak için bkz. [ticari Market ödemelerinin genel soruları](payout-faq.yml#why-are-my-earnings-missing-).
@@ -255,18 +258,18 @@ Aşağıdaki tabloda farklı kazanç durumları açıklanmaktadır.
 
 | Kazanç durumu | Nedeni | İş ortağı eylemi gerekli mi? |
 | --- | --- | --- |
-| İşlenmemiş | Kazanç ödeme için uygun. Teşvikleri programı program kılavuzunda tanımlanan bir soğutma dönemi için bu durumda kalır. | No |
-| İlerideki | Ödeme siparişi, ödeme işlenmeden önce bekleyen dahili incelemeler için üretildi. | No |
+| İşlenmemiş | Kazanç ödeme için uygun. Teşvikleri programı program kılavuzunda tanımlanan bir soğutma dönemi için bu durumda kalır. | Hayır |
+| İlerideki | Ödeme siparişi, ödeme işlenmeden önce bekleyen dahili incelemeler için üretildi. | Hayır |
 | Bekleyen vergi faturası | Vergi faturanızda eksik veya geçersiz. | Ödeme yapabilmeniz için vergi faturanızı güncelleştirmeniz gerekir |
 | İnceleme sırasında reddedildi | Ödeme, gözden geçirme sırasında reddedildi. | Ayrıntılar için Microsoft destek 'e başvurun |
 | Başarısız | Ödeme, bir Microsoft Sistem hatası nedeniyle başarısız oldu. | Ayrıntılar için Microsoft destek 'e başvurun |
-| Sürüyor | Ödeme devam ediyor. | No |
-| Yanlış ödeme | Ödeme kurtarma devam ediyor. | No |
-| Gönderilen | Ödeme, bankanızla gönderilmiştir. | No |
-| Yeniden işleme | Ödeme bir Microsoft sistem hatasıyla karşılaştı ve yeniden işleniyor. | No |
-| Reversed | Ödeme, bankanızla ters çevrildi ve bir sonraki ödeme aşamasında yeniden gönderilecek. | No |
+| Sürüyor | Ödeme devam ediyor. | Hayır |
+| Yanlış ödeme | Ödeme kurtarma devam ediyor. | Hayır |
+| Gönderilen | Ödeme, bankanızla gönderilmiştir. | Hayır |
+| Yeniden işleme | Ödeme bir Microsoft sistem hatasıyla karşılaştı ve yeniden işleniyor. | Hayır |
+| Reversed | Ödeme, bankanızla ters çevrildi ve bir sonraki ödeme aşamasında yeniden gönderilecek. | Hayır |
 | Vergi faturası reddedildi | Vergi faturanızda gözden geçirme sırasında reddedildi. Tüm bekleyen ödemeler, vergi faturası incelemesi tamamlanana kadar beklemeye alınacaktır. | Ayrıntılar için Microsoft destek 'e başvurun |
-| Gözden geçirme kapsamında vergi faturası | Vergi faturanızda İnceleme uygulanıyor. Vergi faturası onaylandıktan sonra ödeme serbest bırakılır. | No |
+| Gözden geçirme kapsamında vergi faturası | Vergi faturanızda İnceleme uygulanıyor. Vergi faturası onaylandıktan sonra ödeme serbest bırakılır. | Hayır |
 | Reddedildi | Ödeme, bankanızla reddedildi. | Ayrıntılar için bankanızla görüşün. |
 |
 
@@ -309,52 +312,51 @@ Filtreniz **veri kullanılabilir** hatasıyla sonuçlanabilir. Bu, varsayılan z
 **Dışarı aktarma verisi** Özeti Ayrıca geçmiş deyimlerine erişim sağlar.
 
 > [!NOTE]
-> Geçmiş bir ifade bir anlık görüntüdür ve yenilenmez. Lütfen [desteğe](https://partner.microsoft.com/support/v2/?stage=1) başvurun ve gerekirse en son verileri isteyin.
+> Geçmiş deyimi bir anlık görüntüdir ve yenilenmez. Lütfen [destekle iletişime](https://partner.microsoft.com/support/v2/?stage=1) geçin ve gerekirse en son verileri talep edin.
 
 :::image type="content" source="images/payouts/pc-export-statements.png" alt-text="Geçmiş deyimlerini dışarı aktarın.":::
 
-- 1 Temmuz 2019 tarihinden önceki işlem geçmişi ayrı olarak işlenir ve sonraki geçmiş raporlarından farklı alanlar kullanır.
-- Eski işlem geçmişi, "ayrılmış" adlı, modern geçmişteki "kazanç" sütununa karşılık gelen ve "ödeme gönderildi" durumuna eşit olan tüm kazançları hariç saklayan bir sütun içerir.
-- 3K, 6k veya 12D gibi filtreler geçmiş deyimler bölümüne uygulanmaz.
+- 1 Temmuz 2019'dan önceki işlem geçmişi ayrı olarak işlendi ve sonraki geçmiş raporlarından farklı alanlar kullanıyor.
+- Eski işlem geçmişinde, modern tarihteki "Kazançlar" sütununa karşılık gelen "Ayrılmış" adlı bir sütun vardır ancak durumu "Payment Sent" ile eşit olan tüm kazançları dışlar.
+- 3M, 6M veya 12M gibi filtreler Geçmiş deyimleri bölümüne uygulanmayacak.
 
-### <a name="historical-statement-downloads"></a>Geçmiş ekstresi İndirmeleri
+### <a name="historical-statement-downloads"></a>Geçmiş deyim indirmeleri
 
-Aşağıdaki tabloda bir geçmiş deyimindeki her bir sütun açıklanmaktadır.
+Aşağıdaki tabloda, geçmiş deyiminde yer alan her sütun açık bir şekilde açık bir şekilde ele alır.
 
-| Alan adı | Description |
+| Alan adı | Açıklama |
 | --- | --- |
-| Gelir kaynağı | Microsoft Store, Windows Phone deposu, Windows deposu 8 veya reklam gibi işlemin gerçekleştiği yere göre gelirinin kaynağı |
-| Sipariş kimliği | Benzersiz sipariş tanımlayıcısı. Bu KIMLIK, satın alma veya geri ödeme gibi satın alma işlemleri olmayan işlemlerle Satınalma işlemlerini tanımlamanızı sağlar. Her ikisinin de aynı sıra KIMLIĞI olur. Ayrıca, tek bir satın alma işlemi için birden çok ödeme yönteminin kullanıldığı bir bölünmüş ücret varsa, satın alma işlemlerini bağlayabilmeniz sağlanır. |
+| Gelir Kaynağı | Microsoft Store, Windows Phone Store, Windows Store 8 veya reklam gibi işlemlerin nerede Windows gelir kaynağı |
+| Sipariş kimliği | Benzersiz sipariş tanımlayıcısı. Bu kimlik, satın alma işlemlerini para iadeleri veya geri ödeme gibi ilgili satın alma dışı işlemleriyle tanımlamanıza olanak sağlar. Her ikisi de aynı Sipariş Kimliğine sahip olacak. Ayrıca, tek bir satın alma için birden çok ödeme yönteminin kullanılmış olduğu bir bölme ücreti varsa, satın alma işlemlerini bağlamanız olanaklı olur. |
 | İşlem kimliği | Benzersiz işlem tanımlayıcısı. |
-| İşlem tarihi saati | İşlemin gerçekleştiği tarih ve saat (UTC). |
-| Üst ürün KIMLIĞI | Benzersiz üst ürün tanımlayıcısı. İşlem için bir üst ürün yoksa, üst ürün KIMLIĞI = ürün KIMLIĞI. |
+| İşlem Tarihi Saati | İşlemin meydana geldiği tarih ve saat (UTC). |
+| Üst Ürün Kimliği | Benzersiz üst ürün tanımlayıcısı. İşlem için bir üst ürün yoksa Üst Ürün Kimliği = Ürün Kimliği. |
 | Ürün Kimliği | Benzersiz ürün tanımlayıcısı. |
-| Ana ürün adı | Ana ürünün adı. İşlem için bir üst ürün yoksa, üst ürün adı = ürün adı. |
+| Üst Ürün Adı | Üst ürünün adı. İşlem için bir üst ürün yoksa, Üst Ürün Adı = Ürün Adı. |
 | Ürün Adı | Ürünün adı |
-| Ürün Türü | Uygulama, eklenti veya oyun gibi ürün türü |
-| Miktar | gelir kaynağı İş İçin Microsoft Store, miktar satın alınan lisansların sayısını temsil eder. Diğer tüm gelir kaynakları için miktar her zaman 1 olur. İki farklı ödeme yöntemi kullanıldığından, tek bir işlem iki satır öğesine bölündüğünde bile, her satır öğesi 1 miktarını gösterir. |
-| İşlem Türü | Satın alma, iadesi, ters çevirme veya geri ödeme gibi işlem türü |
-| Ödeme yöntemi | İşlem için kullanılan, kart, mobil taşıyıcı faturalandırma veya PayPal gibi müşteri ödeme gereci |
-| Ülke/bölge | İşlemin gerçekleştiği ülke/bölge |
-| Yerel sağlayıcı/satıcı | Yerel sağlayıcı/kayıt satıcı |
-| İşlem para birimi | İşlemin para birimi |
-| İşlem miktarı | İşlem miktarı |
-| Havale edilen vergi | Havale edilen vergi miktarı (satış, kullanım veya KDV/GST vergileri) |
-| NET alındılar | Daha az vergi havale edilen işlem miktarı |
-| Mağaza ücreti | Uygulamanın veya eklentinin depoda kullanılabilmesini sağlama ücreti olarak Microsoft tarafından korunan net alındıları yüzdesi |
-| Uygulama devam eder | NET alındılar mağaza ücreti eksi |
-| Stopaj uygulanan vergiler | Stopaj uygulanan gelir vergisi miktarı ( **ayrılmış** CSV dosyasına dahil) |
-| Payment | Uygulama, geçerli gelir Vergi stopajını (Işlem para birimi cinsinden gösterilen tutar) daha az sürer. **Ayrılmış** CSV dosyasına dahil değildir. |
-| FX oranı | Işlem para birimini ödeme para birimine dönüştürmek için kullanılan yabancı değişim oranı |
-| Ödeme Para Birimi | Ödemenizin yapıldığı para birimi |
-| Dönüştürülen ödeme | FX Rate kullanılarak ödeme para birimine dönüştürülen ödeme tutarı |
-| Vergi havale modeli | Vergi vergisinden sorumlu olan parti (satış, kullanım veya KDV/GST vergileri) |
-| Uygunluk tarihi saati | İşlemin devam eden ödeme için uygun hale geldiği tarih ve saat (UTC). Bir ödeme oluşturulduğunda, bu işlem, ödeme oluşturma tarihinden (yalnızca **ayrılmış** CSV dosyasına dahil) önce uygunluk tarihi ile devam eder. |
-| Ücretler | Işlem tutarı sütununda toplanan tüm ücret ayrıntılarının dökümünü gösterir (yalnızca Azure Marketi 'ne dahildir; **ayrılmış** CSV dosyasına dahil değildir). |
-|||
+| Ürün Türü | Uygulama, Eklenti veya Oyun gibi ürün türü |
+| Miktar | Revenue Source İş İçin Microsoft Store, Quantity değeri satın alınan lisans sayısını temsil eder. Diğer tüm Gelir Kaynakları için Miktar her zaman 1 olur. İki farklı ödeme yöntemi kullanılırken tek bir işlem iki satır öğeye bölünse bile her satır öğesi 1 Miktarı gösterir. |
+| İşlem Türü | Satın alma, para iadesi, geri alma veya geri ödeme gibi işlem türü |
+| Ödeme Yöntemi | İşlem için kullanılan Kart, Mobil Operatör Faturalaması gibi müşteri ödeme aracı PayPal |
+| Ülke /Bölge | İşlemin meydana geldiği ülke/bölge |
+| Yerel Sağlayıcı /Satıcı | Yerel sağlayıcı/kayıt satıcısı |
+| İşlem Para Birimi | İşlem para birimi |
+| İşlem Tutarı | İşlem tutarı |
+| Vergi Atlandı | Atlanmış vergi tutarı (satış, kullanım veya KDV/GST vergileri) |
+| Net Makbuzlar | İşlem tutarı daha az vergi atlandı |
+| Mağaza Ücreti | Uygulamayı veya eklentiyi Mağaza'da kullanılabilir yapma ücreti olarak Microsoft tarafından elde edilen Net Makbuzların yüzdesi |
+| Uygulama Devam Ediyor | Net makbuzlar eksi Mağaza Ücreti |
+| Vergiler Için Yardım | Elde edilen gelir vergisi tutarı (Ayrılmış CSV dosyasına **dahildir)** |
+| Payment | Uygulama Devam Eder, geçerli gelir vergisi stopajı (İşlem Para Birimi cinsinden gösterilen tutar) daha azdır. Ayrılmış CSV **dosyasına** dahil değildir. |
+| FX Oranı | İşlem Para Birimini Ödeme Para Birimine dönüştürmek için kullanılan döviz kuru |
+| Ödeme Para Birimi | Ödemenizin yapıldı olduğu para birimi |
+| Dönüştürülen Ödeme | FX Oranı kullanılarak Ödeme Para Birimine dönüştürülen ödeme tutarı |
+| Vergi Havale Modeli | Vergileri (satış, kullanım veya KDV/GST vergileri) sorumlu taraf |
+| Uygunluk Tarih Saati | İşlem devam eder tarih ve saat ödeme için uygun hale gelir (UTC). Bir ödeme oluşturulduğunda, işlem ödeme oluşturma tarihinden önce Uygunluk Tarih Saati ile devam eder (yalnızca Ayrılmış **CSV** dosyasına dahil edilir). |
+| Ücretler | Transaction Amount sütununda toplanan tüm ücret ayrıntılarının dökümünü gösterir (yalnızca ayrılmış Azure Market dahil edilir; **Ayrılmış** CSV dosyasına dahil değildir). |
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
 - [İş Ortağı Ödemesi API'si](https://apidocs.microsoft.com/services/partnerpayouts)
 - [Ödeme ilkesi ayrıntıları](payout-policy-details.md)
-- Faturalandırma desteği için ticari Market [Yayımcı desteği](https://partner.microsoft.com/support/v2/?stage=1)'ne başvurun.
+- Faturalama desteği için ticari market yayımcısı [desteğine başvurun.](https://partner.microsoft.com/support/v2/?stage=1)

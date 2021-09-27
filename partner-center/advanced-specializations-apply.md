@@ -1,145 +1,199 @@
 ---
-title: Gelişmiş uzmanlıklar için başvurma
+title: Gelişmiş specialmeler için Uygula
 ms.topic: how-to
-ms.date: 09/16/2021
+ms.date: 09/27/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-membership
-description: Microsoft iş ortağı dizininde iş profilinizi güçlendirin. Gelişmiş uzmanlıklar için İş Ortağı Merkezi ve kazanmak için bu özellikleri kullanmayı öğrenin.
+description: İş profilinizi Microsoft iş ortağı dizininde güçlendirin. Iş Ortağı Merkezi 'ni kullanarak Gelişmiş Uzmanlıklar için uygulama ve kazanma hakkında bilgi edinin.
 author: ArpithaKanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 5667fad7bde179cd728abb911b65621bcc9505a7
-ms.sourcegitcommit: fceaca54b0ec695cf214209c09b4516e1b40866a
+ms.openlocfilehash: a558ff40727d13045a74343fa9146443b88bc69c
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/23/2021
-ms.locfileid: "128322110"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129070576"
 ---
-# <a name="use-partner-center-to-apply-for-advanced-specializations-and-check-their-status"></a>Gelişmiş İş Ortağı Merkezi uygulamak ve durumlarını kontrol etmek için İş Ortağı Merkezi'i kullanın
+# <a name="use-partner-center-to-apply-for-advanced-specializations-and-check-their-status"></a>Ortak Uzmanlıkları uygulamak ve durumlarını denetlemek için Iş Ortağı Merkezi 'ni kullanın
 
-**Uygun roller:** Genel yönetici | Hesap yöneticisi
+**Uygun roller**: genel yönetici | Hesap Yöneticisi
 
-Bu makalede gelişmiş bir uzmanlık için İş Ortağı Merkezi, ilerlemenizi kontrol etmek [ve](advanced-specializations.md)gerekli adımları ve doğrulamaları tamamlamak için İş Ortağı Merkezi panosunun nasıl kullanımı açıklanmıştır. Ayrıca denetim veya müşteri başvuruları İş Ortağı Merkezi gelişmiş uzmanlıkları elde etmek için bu özellikleri kullanma örnekleri de göreceğiz.
+Bu makalede, Iş Ortağı Merkezi panosunun [Gelişmiş bir özelleştirme](advanced-specializations.md)için nasıl kullanılacağı, ilerleme durumunu kontrol etme ve gerekli adımları ve doğrulamaları tamamlaması açıklanmaktadır. Ayrıca, bir denetim veya müşteri başvuruları gerektiren belirli Gelişmiş uzmanlık sağlamak için Iş Ortağı Merkezi 'ni kullanma örnekleri de göreceksiniz.
 
-Gelişmiş uzmanlıkların avantajları ve gereksinimleri hakkında daha fazla bilgi edinmek için bkz. [Microsoft İş Ortağı Ağı özelleştirmeleri.](https://partner.microsoft.com/membership/advanced-specialization)
+Gelişmiş uzmanların ve bunlara özgü gereksinimlerin avantajları hakkında daha fazla bilgi edinmek için bkz. [Gelişmiş uzmanlık Microsoft iş ortağı ağı](https://partner.microsoft.com/membership/advanced-specialization).
 
-## <a name="use-partner-center-to-apply-for-advanced-specializations-or-check-their-status"></a>Gelişmiş İş Ortağı Merkezi uygulamak veya durumlarını kontrol etmek için İş Ortağı Merkezi'i kullanın
+## <a name="use-partner-center-to-apply-for-advanced-specializations-or-check-their-status"></a>Ortak Uzmanlıkları uygulamak veya durumlarını denetlemek için Iş Ortağı Merkezi 'ni kullanın
 
-Gelişmiş uzmanlık için öncelikle ilgili alanda Gold uzmanlığı gibi belirli önkoşulları karşılamanız gerekir. [](https://partner.microsoft.com/membership/competencies) Daha sonra, bu gelişmiş İş Ortağı Merkezi için temel adımları, gereksinimleri ve Microsoft doğrulamalarını tamamlamak üzere uygulamanız gerekir.
+Gelişmiş bir özelleştirmeye hak kazanmak için öncelikle ilgili bir alanda altın [uzmanlık](https://partner.microsoft.com/membership/competencies) gibi bazı önkoşulları karşılamanız gerekir. Daha sonra bu gelişmiş özelleşme için Iş Ortağı Merkezi 'ne uygulamanız ve temel adımları, gereksinimleri ve Microsoft doğrulamaları gerçekleştirmeniz gerekir.
 
-Sürecin büyük bir İş Ortağı Merkezi. Ancak bu alana yalnızca belirli bir İş Ortağı Merkezi [rolüne](permissions-overview.md) sahip kullanıcılar İş Ortağı Merkezi erişebilirsiniz.
+İşlemin büyük bölümü Iş Ortağı Merkezi panosu içinden kullanılabilir. Ancak, yalnızca belirli bir Iş Ortağı Merkezi [rolüne](permissions-overview.md) sahip kullanıcılar bu Iş Ortağı Merkezi alanına erişebilir.
 
-Bu alana erişmek için, size, kuruluşun Microsoft iş  ortağı hesabı için **MPN** Hesap Yöneticisi veya Genel Yönetici rolü ver gerekir.
+Bu alana erişmek için, kuruluşunuzun Microsoft iş ortağı hesabı için **MPN Hesap Yöneticisi** veya **genel yönetici** rolüne sahip olmanız gerekir.
 
-### <a name="follow-these-steps-to-access-this-area"></a>Bu alana erişmek için şu adımları izleyin:
+### <a name="to-access-this-area"></a>Bu alana erişmek için
+
+> [!NOTE]
+> Iş Ortağı Merkezi önizleme arabirimi, mantıksal olarak gruplanmış çalışma alanları aracılığıyla daha verimli ve üretken bir kullanıcı deneyimi sağlar. Çalışma alanları arabirimi ve nasıl kullanılacağı hakkında daha fazla bilgi edinmek için bkz. [Iş ortağı merkezini alma](get-around-partner-center.md#turn-workspaces-on-and-off).
+
+#### <a name="workspaces-view"></a>[Çalışma alanları görünümü](#tab/workspaces-view)
+
+1. [Iş Ortağı Merkezi panosunda](https://partner.microsoft.com/dashboard/home) oturum açın ve **Üyelik** kutucuğunu seçin.
+
+2. **Gelişmiş specialmeler** ' i seçin ve ardından ilgilendiğiniz alanı seçin: Azure, modern Iş, güvenlik veya iş uygulamaları.
+
+3. Ayrıntıları görüntülemek için gelişmiş özelleşmenin adını seçin. Belirli gereksinimler ve adımlar, geçerli durumunuz ve diğer adımların veya kaynakların bağlantılarını görürsünüz.
+
+   Geçerli durumunuzu herhangi bir Gelişmiş özelleşmeye göre görmek için Iş Ortağı Merkezi 'nin bu alanına dönebilirsiniz.
+
+4. Gelişmiş bir özelleşmenin tüm gereksinimlerini tamamladıktan sonra, belirli bir Gelişmiş özelleştirme için durumlarınızın **etkin** olarak değişip değişmediğini görmek üzere Iş Ortağı Merkezi 'nin bu alanını yeniden denetleyin.
+
+   Etkin durum otomatik olarak **iş profilinizde** gelişmiş bir özelleştirme etiketi sunar. Bu profil, [bir çözüm sağlayıcısı bulmaya](https://www.microsoft.com/solution-providers/home)çalışan tüm müşteriler tarafından görülebilir.
+
+#### <a name="current-view"></a>[Geçerli görünüm](#tab/current-view)
 
 1. İş Ortağı Merkezi [panosunda](https://partner.microsoft.com/dashboard/home) oturum açın.
 
-2. **Özelleştirmeler menüsünün MPN** İş Ortağı Merkezi ve ardından **Adv. Uzmanlıklar'ı seçin.** Menü genişletildi ve kullanılabilir tüm gelişmiş özelleştirmeler görüntülenir.
+2. Iş Ortağı Merkezi menüsündeki **MPN** bölümünü ve ardından **adv. specialmelerini** seçin. Menü, size sunulan tüm gelişmiş uzmanlık özelliklerini gösterecek şekilde genişler.
 
-3. Ayrıntıları görüntülemek için gelişmiş özelleştirmenin adını seçin. Belirli gereksinimleri ve adımları, geçerli durumunuz ve diğer adımlara veya kaynaklara yönelik bağlantıların olduğunu göreceğiz.
+3. Ayrıntıları görüntülemek için gelişmiş özelleşmenin adını seçin. Belirli gereksinimler ve adımlar, geçerli durumunuz ve diğer adımların veya kaynakların bağlantılarını görürsünüz.
 
-   Herhangi bir gelişmiş uzmanlık elde etme İş Ortağı Merkezi durumunu görmek için bu bölgeye geri dönabilirsiniz.
+   Geçerli durumunuzu herhangi bir Gelişmiş özelleşmeye göre görmek için Iş Ortağı Merkezi 'nin bu alanına dönebilirsiniz.
 
-4. Gelişmiş uzmanlık için tüm gereksinimleri tamamlandıktan sonra, belirli bir gelişmiş İş Ortağı Merkezi için durumunuz  Etkin olarak değiştirildi mi görmek için bu alanı yeniden kontrol edin.
+4. Gelişmiş bir özelleşmenin tüm gereksinimlerini tamamladıktan sonra, belirli bir Gelişmiş özelleştirme için durumlarınızın **etkin** olarak değişip değişmediğini görmek üzere Iş Ortağı Merkezi 'nin bu alanını yeniden denetleyin.
 
-   Etkin durum, İş profilinizde otomatik olarak gelişmiş özelleştirme **etiketine olanak sağlar.** Bu profil daha sonra bir çözüm sağlayıcısı bulmaya çalışan [tüm müşteriler tarafından görülebilir.](https://www.microsoft.com/solution-providers/home)
+   Etkin durum otomatik olarak **iş profilinizde** gelişmiş bir özelleştirme etiketi sunar. Bu profil, [bir çözüm sağlayıcısı bulmaya](https://www.microsoft.com/solution-providers/home)çalışan tüm müşteriler tarafından görülebilir.
 
-## <a name="use-partner-center-to-schedule-an-audit-or-include-customer-references-for-advanced-specializations"></a>Gelişmiş İş Ortağı Merkezi için denetim zamanlaması veya müşteri başvurularını dahil etmek için İş Ortağı Merkezi'i kullanın
+* * *
 
-Genel olarak, her gelişmiş uzmanlık, bu gelişmiş uzmanlık için benzersiz olan diğer özel önkoşullarla uyumlu altın uzmanlık kazanmanızı gerektirir. Bazı gelişmiş uzmanlıklar için şunları da yapmak gerekir:
+## <a name="use-partner-center-to-schedule-an-audit-or-include-customer-references-for-advanced-specializations"></a>Iş Ortağı Merkezi 'ni kullanarak Gelişmiş Uzmanlıklar için bir denetim veya dahil müşteri başvurularını ekleyin
 
-- Üçüncü taraf denetçi ile denetim zamanlama
-- Müşteri başvurularını sağlama
+Genel olarak, her Gelişmiş özelleştirme, bu gelişmiş özelleşmeye özgü olan diğer özel önkoşullara göre hizalı bir altın uzmanlık kazanmanız gerekir. Bazı Gelişmiş Uzmanlıklar için şunlar da gerekebilir:
 
-Her iki görev de aynı İş Ortağı Merkezi.
+- Üçüncü taraf bir denetçi ile denetim zamanlama
+- Müşteri başvuruları sağla
 
-Üçüncü taraf denetçi ile denetim gerektiren gelişmiş uzmanlıklar şunlardır:
+Her iki görev da Iş Ortağı Merkezi 'nde gerçekleştirilebilir.
 
-- Microsoft Azure'da analiz
+Üçüncü taraf bir denetçi ile denetim gerektiren Gelişmiş Uzmanlıklar şunlardır:
+
+- Microsoft Azure Analytics
 - Microsoft Azure'a Veri Ambarı Geçişi
 - Microsoft Azure'da Kubernetes
 - Microsoft Azure'a Linux ve Açık Kaynak Veritabanı Geçişi
 - Microsoft Windows Sanal Masaüstü
 - Microsoft Azure'a Web Uygulamaları Modernleştirmesi
 - Microsoft Azure'a Windows Server ve SQL Server Geçişi
-- Microsoft Azure'Machine Learning ve Microsoft Azure
-- Microsoft Azure Stack HCI ile Hibrit Bulut Altyapısı
-- Microsoft Azure Arc ile Karma İşlemler ve Yönetim
-- Microsoft Azure VMware Çözümü
-- DevOps GitHub ile Microsoft Azure
-- Microsoft Azure'de Ağ Hizmetleri
+- Microsoft Azure içindeki aı ve Machine Learning
+- Microsoft Azure Stack cı ile karma bulut altyapısı
+- Microsoft Azure Arc ile karma işlemler ve yönetim
+- Microsoft Azure VMware çözümü
+- Microsoft Azure GitHub ile DevOps
+- Microsoft Azure ağ hizmetleri
 - Microsoft Azure’da SAP
 
-Müşteri başvuruları gerektiren gelişmiş uzmanlıklar şunlardır:
+Müşteri başvuruları gerektiren gelişmiş uzmanlık şunları içerir:
 
 - Benimseme ve Değişiklik Yönetimi
 - Microsoft Teams çağrısı
-- Toplantılara ve toplantı odalarına Microsoft Teams
+- Microsoft Teams için toplantılar ve toplantı odaları
 - Ekip Çalışması Dağıtımı
 - Kimlik ve Erişim Yönetimi
 - Tehdit Koruması
-- Information Protection ve İdare
+- Information Protection ve Idare
 - Bulut Güvenliği
 
-Denetim veya müşteri başvurusu gerektirmeyen gelişmiş uzmanlıklar şunlardır:
+Denetim veya müşteri başvurusu gerektirmeyen gelişmiş specialmeler şunlardır:
 
-- Düşük KodLu Uygulama Geliştirme
-- Küçük ve Orta Ölçekli İş Yönetimi
+- Düşük kod uygulama geliştirme
+- Küçük ve orta ölçekli Işletme Yönetimi
 
-Aşağıdaki bölümlerde, bir denetimin nasıl zamanlandır nasıl zamanlanışları ve nasıl müşteri başvurularını sağlandıracakları İş Ortağı Merkezi.
+Aşağıdaki bölümlerde, bir denetimin nasıl planlandığı veya Iş Ortağı Merkezi 'nde müşteri başvurularının sağlanması açıklanır.
 
-## <a name="schedule-an-audit-with-a-third-party-auditor"></a>Üçüncü taraf denetçi ile denetim zamanlama
+## <a name="schedule-an-audit-with-a-third-party-auditor"></a>Üçüncü taraf bir denetçi ile denetim zamanlama
 
-Kendi önkoşullarının yanı sıra, bazı gelişmiş uzmanlıklar da zamanlanmış bir denetimden *geçmenizi gerektirir.* Denetim gerektiren gelişmiş uzmanlıkların önceki listesine bakın.
+Kendi önkoşullarının yanı sıra, bazı Gelişmiş Uzmanlıklar de *Zamanlanmış bir denetim* geçirmeniz gerekir. Denetim gerektiren gelişmiş uzmanlık listesi hakkında daha fazla bilgi için bkz..
 
-Ardından, aşağıdaki adımları takip edin ve aşağıdaki adımları İş Ortağı Merkezi:
+Ardından, Iş Ortağı Merkezi 'nde bir denetim zamanlamak için aşağıdaki adımları izleyin:
 
-1. İş Ortağı Merkezi [panosunda](https://partner.microsoft.com/dashboard/home) oturum açın.
+#### <a name="workspaces-view"></a>[Çalışma alanları görünümü](#tab/workspaces-view)
 
-2. **Özelleştirmeler menüsünün MPN** İş Ortağı Merkezi ve ardından **Adv. Uzmanlıklar'ı seçin.** Menü genişletildi ve kullanılabilir tüm gelişmiş özelleştirmeler görüntülenir.
+1. [Iş Ortağı Merkezi panosunda](https://partner.microsoft.com/dashboard/home) oturum açın ve **Üyelik** kutucuğunu seçin.
 
-3. Bir denetim zamanlamanız gereken gelişmiş özelleştirmenin adını seçin. Örneğin, Web Uygulamalarını Modernleştirme'yi **seçerek öğesini Microsoft Azure.** Daha sonra bu gelişmiş uzmanlık için önkoşullar sayfası görüntülenir.
+2. **Gelişmiş specialmeler** ' i seçin ve ardından ilgilendiğiniz alanı seçin: Azure, modern Iş, güvenlik veya iş uygulamaları.
 
-   :::image type="content" source="images/advanced-specializations/as-1.png" alt-text="Belirli bir gelişmiş uzmanlık kazanma gereksinimlerini gösteren örnek önkoşullar sayfası.":::
+3. Bir denetim zamanlamanız gereken gelişmiş özelleşmenin adını seçin. Örneğin, **Microsoft Azure Için Web uygulamalarının modernleştirilmesini** seçtiğinizi varsayalım. Daha sonra bu gelişmiş özelleştirme için Önkoşullar sayfası görüntülenir.
 
-4. Bu gelişmiş uzmanlık için tüm önkoşulları karşılarken bu sayfadan **Denetim zamanlama** düğmesini seçebilirsiniz.
+   :::image type="content" source="images/advanced-specializations/as-1.png" alt-text="Belirli bir Gelişmiş özelleştirmeyi kazanmak için gereksinimleri gösteren örnek ön koşullar sayfası.":::
 
-   - Bu sayfada gösterilen tüm önkoşulları karşılayana kadar durumunuz Başlamadı **olarak kalır.** Denetim **zamanlama düğmesi** de devre dışı kalır. 
-   - Denetimle birlikte tüm önkoşullar karşı sonra durumunuz Etkin olarak **değişir.**
+4. Bu gelişmiş özelleşmeye yönelik tüm önkoşulları karşıladıktan sonra, bu sayfadan **Denetim zamanlama** düğmesini seçebileceksiniz.
 
-## <a name="provide-customer-references-in-partner-center"></a>Verilerde müşteri başvurularını İş Ortağı Merkezi
+   - Bu sayfada gösterilen tüm önkoşulları karşılaana kadar durumunuz **başlatılmamış** olur. **Zamanlama denetimi** düğmesi de devre dışı kalır. 
+   - Tüm Önkoşullar denetim ile birlikte karşılandıktan sonra durumunuz **etkin** olarak değişir.
 
-Kendi önkoşullarının yanı sıra, bazı gelişmiş uzmanlıklar da müşteri *başvurularını sağlamanızı gerektirir.* Müşteri başvuruları gerektiren gelişmiş uzmanlıkların önceki listesine bakın.
+#### <a name="current-view"></a>[Geçerli görünüm](#tab/current-view)
 
-Ardından, aşağıdaki adımları takip edin ve aşağıdaki adımlarda müşteri İş Ortağı Merkezi:
+1. [Iş Ortağı Merkezi panosunda](https://partner.microsoft.com/dashboard/home) oturum açın ve menüden **MPN** ' yi seçin ve ardından Gelişmiş tüm özelleştirilmiş uzmanlık özelliklerini göstermek için **adv. Special,** .
 
-1. İş Ortağı Merkezi [panosunda](https://partner.microsoft.com/dashboard/home) oturum açın.
+2. Bir denetim zamanlamanız gereken gelişmiş özelleşmenin adını seçin. Örneğin, **Microsoft Azure Için Web uygulamalarının modernleştirilmesini** seçtiğinizi varsayalım. Daha sonra bu gelişmiş özelleştirme için Önkoşullar sayfası görüntülenir.
 
-2. **Özelleştirmeler menüsünün MPN** İş Ortağı Merkezi ve ardından **Adv. Uzmanlıklar'ı seçin.** Menü genişletildi ve kullanılabilir tüm gelişmiş özelleştirmeler görüntülenir.
+   :::image type="content" source="images/advanced-specializations/as-1.png" alt-text="Belirli bir Gelişmiş özelleştirmeyi kazanmak için gereksinimleri gösteren örnek ön koşullar sayfası.":::
 
-3. Müşteri başvurularını sağlamanız gereken gelişmiş özelleştirmenin adını seçin. Örneğin, Microsoft Teams için Toplantılar **ve Toplantı Odaları'Microsoft Teams.**
+3. Bu gelişmiş özelleşmeye yönelik tüm önkoşulları karşıladıktan sonra, bu sayfadan **Denetim zamanlama** düğmesini seçebileceksiniz.
 
-   Daha sonra bu gelişmiş uzmanlık için önkoşullar sayfası görüntülenir. Altın uzmanlık, sertifikalar ve performans gereksinimine ek olarak, bu gelişmiş uzmanlık da dağıtma ve yönetme becerinizi gösteren üç müşteri başvurusu sağlamanızı gerektirir.
+   - Bu sayfada gösterilen tüm önkoşulları karşılaana kadar durumunuz **başlatılmamış** olur. **Zamanlama denetimi** düğmesi de devre dışı kalır. 
+   - Tüm Önkoşullar denetim ile birlikte karşılandıktan sonra durumunuz **etkin** olarak değişir.
 
-   :::image type="content" source="images/advanced-specializations/as-2.png" alt-text="Müşteri başvuruları gerektiren örnek gelişmiş uzmanlık önkoşulları sayfası.":::
+* * *
 
-4. Bu sayfada gösterilen tüm önkoşulları karşılar ve müşteri başvurularını sağlayana kadar durumunuz Başlamadı **olarak kalır.** Tüm önkoşullar karşı ardından durumunuz Etkin olarak **değişir.**
+## <a name="provide-customer-references-in-partner-center"></a>Iş Ortağı Merkezi 'nde müşteri başvuruları sağlama
 
-## <a name="how-azure-consumption-revenue-acr-is-calculated-for-each-advanced-specialization"></a>Her gelişmiş uzmanlık için Azure Tüketim Geliri (ACR) nasıl hesaplanır:
+Kendi önkoşullarının yanı sıra, bazı Gelişmiş Uzmanlıklar de *müşteri başvuruları* sağlamanız gerekir. Müşteri başvuruları gerektiren önceki gelişmiş uzmanlık listesine bakın.
 
-- İş ortağı-müşteri ilişkilendirmeleri [dahil:](https://support.microsoft.com/topic/link-a-partner-id-for-azure-performance-pal-or-dpor-a8eed43b-82a8-f017-3b1a-f9c8aa385d32) Bir müşteriyle Dijital Kayıt İş Ortağı ilişkilendirmesi veya bir müşteri için CSP doğrudan fatura iş ortağı veya CSP dolaylı kurumsal bayi ya da bir müşteriyle İş Ortağı Yönetici Bağlantısı [(PAL)](/azure/cost-management-billing/manage/link-partner-id) ilişkilendirmesi.
-- Deneme, Avantajlar programları, Destek ve Dahili Teklif türlerine sahip aboneliklerden gelen ACR, gelişmiş uzmanlık için sayılmaz.
+Ardından, Iş Ortağı Merkezi 'nde müşteri başvuruları sağlamak için şu adımları izleyin:
 
-**Azure Tüketim geliri alanları**
+#### <a name="workspaces-view"></a>[Çalışma alanları görünümü](#tab/workspaces-view)
 
-| Alan Adı | Alan Açıklaması |
+1. [Iş Ortağı Merkezi panosunda](https://partner.microsoft.com/dashboard/home) oturum açın ve **Üyelik** kutucuğunu seçin.
+
+2. **Gelişmiş specialmeler** ' i seçin ve ardından ilgilendiğiniz alanı seçin: Azure, modern Iş, güvenlik veya iş uygulamaları.
+
+3. Müşteri başvuruları sağlamanızı gerektiren gelişmiş özelleşmenin adını seçin. Örneğin, **Microsoft Teams Için toplantılar ve toplantı odaları**' nı seçerseniz:
+
+   Bu gelişmiş özelleşme için Önkoşullar sayfası görüntülenir. Bu gelişmiş özelleşmenin yanı sıra, Gold uzmanlığına, sertifikalarına ve bir performans gereksinimine ek olarak, dağıtma ve yönetme yeteneğinizi gösteren üç müşteri başvurusu sağlamanız gerekir.
+
+4. Bu sayfada gösterilen tüm önkoşulları karşılayana ve müşteri başvuruları sağlayacağından, durumunuz **başlatılmayacak**. Tüm önkoşullar karşılandıktan sonra durumunuz **etkin** olarak değişir.
+
+#### <a name="current-view"></a>[Geçerli görünüm](#tab/current-view)
+
+1. [İş Ortağı Merkezi panosunda](https://partner.microsoft.com/dashboard/home) oturum açın.
+
+2. Iş Ortağı Merkezi menüsündeki **MPN** bölümünü ve ardından **adv. specialmelerini** seçin. Menü, size sunulan tüm gelişmiş uzmanlık özelliklerini gösterecek şekilde genişler.
+
+3. Müşteri başvuruları sağlamanızı gerektiren gelişmiş özelleşmenin adını seçin. Örneğin, **Microsoft Teams Için toplantıları ve toplantı odalarını** seçtiğinizi varsayalım.
+
+   Daha sonra bu gelişmiş özelleştirme için Önkoşullar sayfası görüntülenir. Bu gelişmiş özelleştirme, altın uzmanlık, sertifika ve performans gereksinimine ek olarak, dağıtma ve yönetme yeteneğinizi gösteren üç müşteri başvurusu sağlamanızı da gerektirir.
+
+   :::image type="content" source="images/advanced-specializations/as-2.png" alt-text="Müşteri başvuruları gerektiren örnek gelişmiş specialmeler önkoşulları sayfası.":::
+
+4. Bu sayfada gösterilen tüm önkoşulları karşılayana ve müşteri başvuruları sağlayacağından, durumunuz **başlatılmayacak**. Tüm önkoşullar karşılandıktan sonra durumunuz **etkin** olarak değişir.
+
+* * *
+
+## <a name="how-azure-consumption-revenue-acr-is-calculated-for-each-advanced-specialization"></a>Azure tüketim gelirinin (ACR) her Gelişmiş özelleştirme için nasıl hesaplandığı
+
+- İş ortaklarının müşteri ilişkilendirmeleri: bir müşteriyle [kayıt Ilişkisinin dijital Iş ortağı](https://support.microsoft.com/topic/link-a-partner-id-for-azure-performance-pal-or-dpor-a8eed43b-82a8-f017-3b1a-f9c8aa385d32) veya bir müşteri veya [Iş ortağı yönetıcı bağlantısı (PAL)](/azure/cost-management-billing/manage/link-partner-id) için CSP dolaylı satıcısı veya bir müşteriyle ilgili CSP dolaylı satıcısı.
+- Teklif türlerine sahip aboneliklerden ACR deneme sürümü, avantajlar programları, destek ve dahili, gelişmiş özelleşme doğru sayılmaz.
+
+### <a name="azure-consumption-revenue-fields"></a>Azure tüketim gelir alanları
+
+| Alan Adı | Alan açıklaması |
 |-------------|----------------------|
-| Hizmet Düzeyi 1 | Azure Hizmetlerinin pakette olduğu en üst düzey (bkz. https://azure.microsoft.com/services/) . |
-| Hizmet Düzeyi 2 | İkinci En Üst Düzey Azure Hizmetleri tabanlı (örneğin: https://azure.microsoft.com/pricing/) |
-| Hizmet Düzeyi 3 | Üçüncü En Üst Düzey Azure Hizmetleri tabanlı (örneğin: https://azure.microsoft.com/pricing/details/virtual-machines/linux/) |
-| Hizmet Düzeyi 4 | Dördüncü en yüksek düzey Azure Hizmetleri tabanlı (örn.: https://azure.microsoft.com/pricing/details/virtual-machines/linux/) |
+| Hizmet düzeyi 1 | Azure hizmetlerinin paketlenmiş en yüksek düzey (bkz https://azure.microsoft.com/services/) .:. |
+| Hizmet düzeyi 2 | İkinci en yüksek düzey Azure Hizmetleri tabanlı (örn.: https://azure.microsoft.com/pricing/) |
+| Hizmet düzeyi 3 | Üçüncü en yüksek düzey Azure Hizmetleri tabanlı (örn.: https://azure.microsoft.com/pricing/details/virtual-machines/linux/) |
+| Hizmet düzeyi 4 | Dördüncü en yüksek düzey Azure Hizmetleri tabanlı (örn.: https://azure.microsoft.com/pricing/details/virtual-machines/linux/) |
 | Hizmet grubu 2 | Azure hizmetlerini bir hizmet kategorisine göre gruplandırma |
 | Hizmet grubu 3 | Azure hizmetlerini bir hizmet alt kategorisine göre gruplandırma |
 | Hizmet etkileyen | Belirli bir tüketim etkinliğiyle eşlenen Azure hizmetlerinin gruplandırılması |
@@ -212,4 +266,4 @@ Ardından, aşağıdaki adımları takip edin ve aşağıdaki adımlarda müşte
 
 - [Microsoft gümüş veya altın üyelik Uzmanlıklar](learn-about-competencies.md)hakkında bilgi edinin.
 
-- [Microsoft iş ortağı ağı yetkinlikleri](https://partner.microsoft.com/membership/competencies)hakkında daha fazla bilgi edinin.
+- Microsoft İş Ortağı Ağı [hakkında daha fazla bilgi.](https://partner.microsoft.com/membership/competencies)

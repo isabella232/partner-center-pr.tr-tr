@@ -1,39 +1,56 @@
 ---
 title: Ayrılmamış ödemeleri yönetme
 ms.topic: how-to
-ms.date: 06/08/2020
+ms.date: 09/27/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-billing
-description: İş Ortağı Merkezi Faturalama sayfasında bu ayki ödemelerin ne olduğunu öğrenin. Ayrıca bunları faturalarınıza nasıl uygulayacaklarını da öğrenin.
+description: Bunları Iş ortağı merkezi faturalama sayfasında gördüğünüz ayrılmamış ödemeleri öğrenin. Bunları faturanız de nasıl uygulayacağınızı öğrenin.
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8a5f1264dfdb4059d63db6cbf361e6c2f34d8bd2
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.openlocfilehash: db271f6fb0ecad7a50ae43e28b29c33931bca0c9
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126248630"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129071253"
 ---
-# <a name="manage-unallocated-payments-on-your-partner-center-billing-page"></a>İş Ortağı Merkezi Faturalama sayfasındaki İş Ortağı Merkezi yönetme
+# <a name="manage-unallocated-payments-on-your-partner-center-billing-page"></a>Iş ortağı merkezi faturalama sayfanızda ayrılmamış ödemeleri yönetme
 
-**Uygun roller:** Faturalama yöneticisi | Hesap yöneticisi
+**Uygun roller**: Faturalandırma Yöneticisi | Hesap Yöneticisi
 
-Bazen Faturalama sayfanıza taşınmamış bir ödeme görebilirsiniz. Taşınmamış ödeme, Microsoft'a yapmış ve belirli bir faturaya uygulanmamış olan bir ödemedir.
+Bazen faturalandırma sayfanızda ayrılmamış bir ödeme görebilirsiniz. Ayrılmamış ödeme, Microsoft 'a yaptığınız ve belirli bir faturaya uygulanmadığınız bir ödemenizi sağlar.
 
-## <a name="to-view-your-unallocated-payments"></a>Taşınmamış ödemelerinizi görüntülemek için
+## <a name="to-view-your-unallocated-payments"></a>Ayrılmamış ödemeleri görüntülemek için
 
-1. [İş Ortağı Merkezi oturum açın.](https://partner.microsoft.com/dashboard/home)
+> [!NOTE]
+> Iş Ortağı Merkezi önizleme arabirimi, mantıksal olarak gruplanmış çalışma alanları aracılığıyla daha verimli ve üretken bir kullanıcı deneyimi sağlar. Çalışma alanları arabirimi ve nasıl kullanılacağı hakkında daha fazla bilgi edinmek için bkz. [Iş ortağı merkezini alma](get-around-partner-center.md#turn-workspaces-on-and-off).
 
-2. Sol menüde Faturalama'ya **tıklayın.**
+#### <a name="workspaces-view"></a>[Çalışma alanları görünümü](#tab/workspaces-view)
 
-3. Faturalama sayfasında, **Taşınmamış ödeme bölümünü** bulun. 
+1. [Iş Ortağı Merkezi panosunda](https://partner.microsoft.com/dashboard/home) oturum açın ve **faturalandırma** kutucuğunu seçin.
 
-Bu tutarı belirli bir faturaya uygulamak için e-posta gönderin ve bposcapp@microsoft.com bu ödemenin uygulanacak faturayı bize söyleyin. Ödeme yapıyorsanız, tüm bilgileri dahil edin. Faturalama sayfanız 5-6 gün içinde güncelleştirilir. 
+2. Faturalama sayfasında, **ayrılmamış ödeme** bölümüne bakın.
 
-Siz bunları bir faturaya atayana kadar, taşınmamış ödemeler taşınmamış olarak kalır. 
+Bu miktarı belirli bir faturaya uygulamak için e-posta gönderin `bposcapp@microsoft.com` ve bu ödemenin hangi faturada uygulanacağını bize bildirin. Ödeme yapıyorsanız, yaptığınız tüm bilgileri eklediğinizden emin olun. Faturalandırma sayfanız 5-6 gün içinde güncelleştirilecektir.
+
+Ayrılmamış ödemeler, bir faturaya atanana kadar ayrılmamış şekilde kalır.
+
+#### <a name="current-view"></a>[Geçerli görünüm](#tab/current-view)
+
+1. [İş Ortağı Merkezi panosunda](https://partner.microsoft.com/dashboard/home) oturum açın.
+
+2. Sol taraftaki menüde **faturalandırma**' i seçin.
+
+3. Faturalama sayfasında, **ayrılmamış ödeme** bölümünü bulun.
+
+Bu miktarı belirli bir faturaya uygulamak için e-posta gönderin bposcapp@microsoft.com ve bu ödemenin hangi faturada uygulanacağını bize bildirin. Ödeme yapıyorsanız, yaptığınız tüm bilgileri eklediğinizden emin olun. Faturalandırma sayfanız 5-6 gün içinde güncelleştirilecektir.
+
+Ayrılmamış ödemeler, bir faturaya atanana kadar ayrılmamış şekilde kalır.
+
+* * *
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-- [Ticari market ürünleri ve abonelikleri için faturalama İş Ortağı Merkezi](csp-commercial-marketplace-billing.md)
+- [Iş Ortağı Merkezi 'nde ticari Market ürünleri ve abonelikleri için faturalandırma](csp-commercial-marketplace-billing.md)

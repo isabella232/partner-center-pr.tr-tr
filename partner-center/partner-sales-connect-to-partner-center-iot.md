@@ -8,13 +8,13 @@ author: vikramb
 ms.author: vikramb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.date: 07/07/2021
-ms.openlocfilehash: 2b05046118c83c0d398272da68054a8a0c9c48e4
-ms.sourcegitcommit: fb9ca808f6362e81d65a6ba5770dc8820834a0ed
+ms.date: 09/27/2021
+ms.openlocfilehash: 1e32ed101c733ced14ac02f7e58b924d78313358
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "128360211"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129075790"
 ---
 # <a name="guide-to-create-and-manage-iot-deals-in-partner-center-pc-for-iot-partners-migrating-from-partner-sales-connect-psc"></a>iş ortağı Sales Bağlan (PSC) geçiş iş ortakları için iş ortağı merkezi 'nde (PC) ıot anlaşmaları oluşturma ve yönetme kılavuzu
 
@@ -22,10 +22,10 @@ ms.locfileid: "128360211"
 
 bu makale, iş ortağı merkezi 'nde anlaşmalar oluşturmaya ve yönetmeye devam edebilmeleri için ortak satış Bağlan (PSC) tarafından iş ortağı merkezi 'ne (PC) geçiş yapmak üzere ıot iş ortakları için rehberlik sağlar.
 
->[!Note]
+> [!NOTE]
 > Bu kılavuz yalnızca PSC 'de anlaşmalar yöneten **IoT iş ortakları için geçerlidir** .
 
->[!Important]
+> [!IMPORTANT]
 > 15 Ağustos 'Tan itibaren 2021, şirketinizin PSC 'de anlaşmalar oluşturamayacak veya düzenleyemeyecek. **Aynı zamanda PSC içindeki toplu dışa aktarma özelliğini kullanarak mevcut anlaşmalar verilerini indirebilirsiniz. Ayrıca, bu tarihten sonra PSC 'den Iş Ortağı Merkezi 'ne [Açık anlaşmalar geçirebilirsiniz](partner-sales-connect-to-partner-center-iot.md#psc-deals-migration) .**
 
 Bildiğiniz gibi şirketiniz, **30 ağustos 2021 ' den sonra PSC 'ye erişimi kaybedecektir**. Ancak, Iş Ortağı Merkezi 'nde yapmak istediğiniz her şeyi (örneğin, anlaşmalar oluşturma ve yönetme) de bulabilirsiniz.
@@ -53,33 +53,33 @@ Ancak farklılıklar olacaktır. Aşağıdaki kılavuz, Iş Ortağı Merkezi 'ne
 
 Iş ortağı merkezi sol gezinti menüsünde, **Başvurular** seçeneğini belirleyin. Ortak satış fırsatları sayfasına erişebildiğinizden emin olun.
 
-  >[!Note]
+  > [!NOTE]
   > Iş Ortağı Merkezi oturumunuzu kapatıp başvuru sayfalarına erişim için kimlik bilgilerinizi yenilemek üzere yeniden oturum açmanız gerekebilir.
 
 Iş Ortağı Merkezi menüsünde veya başvurularda ilişkili sayfalarda **Başvurular** seçeneğini görmüyorsanız, şirketinizin [hesap yöneticisine](permissions-overview.md) başvurarak, **Başvurular** seçeneğine ve ilgili alana erişim vermesini isteyin.
 
 Şirketinizin hesap yöneticisini bulmak için:
 
-1. Iş Ortağı Merkezi panosunun sağ üst tarafındaki dişli simgesinden **Hesap ayarları** ' nı seçin.
+1. iş ortağı merkezi panosunda Ayarlar dişli simgesini ve ardından **hesap ayarlarını** seçin.
 
-1. İkinci düzey, sol gezinti menüsünden **Kullanıcı yönetimi** ' ni seçin.
+2. İkinci düzey, sol gezinti menüsünden **Kullanıcı yönetimi** ' ni seçin.
 
-1. Kullanıcı listesinin en üstünde, **filtre** açılan menüsünü seçin. **Hesap Yöneticisi** seçeneğini değiştirin.
+3. Kullanıcı listesinin en üstünde, **filtre** açılan menüsünü seçin. **Hesap Yöneticisi** seçeneğini değiştirin.
 
    Bu sayfada, tüm hesap yöneticileri ilgili e-posta adresleriyle görüntülenir. Bunlardan birine e-posta gönderin ve iş hesabınız için başvuru Yöneticisi rolünü atamasını isteyin.
 
   :::image type="content" source="images/pscmigration/account-admin.gif" alt-text="İş ortağı ayarları Kullanıcı Yönetimi sayfasında hesap yöneticileri 'ni gösteren resim.":::
 
->[!Important]
->- Rolünüz yalnızca PSC 'deki kullanıcıları yönetmeyi içeriyorsa, şirketinizin hesap yöneticisinden şirketinizin ilkesi uyarınca Iş Ortağı Merkezi ' nde [Hesap Yöneticisi](permissions-overview.md#manage-mpn-membership-and-your-company) rolünü atamasını isteyin.
->- Rolünüz IoT anlaşmalar yönetimini de içeriyorsa, uygun şekilde [başvuru Yöneticisi veya başvurular Kullanıcı](permissions-overview.md#manage-referrals) rolü atanmasını isteyin.
+> [!IMPORTANT]
+> - Rolünüz yalnızca PSC 'deki kullanıcıları yönetmeyi içeriyorsa, şirketinizin hesap yöneticisinden şirketinizin ilkesi uyarınca Iş Ortağı Merkezi ' nde [Hesap Yöneticisi](permissions-overview.md#manage-mpn-membership-and-your-company) rolünü atamasını isteyin.
+> - Rolünüz IoT anlaşmalar yönetimini de içeriyorsa, uygun şekilde [başvuru Yöneticisi veya başvurular Kullanıcı](permissions-overview.md#manage-referrals) rolü atanmasını isteyin.
 > - Aynı zamanda PSC yöneticileri arasında bir değişiklik yönetimi liderine aday bir fikir elde etmek iyi bir fikirdir. Bunun yapılması, tüm PSC yöneticilerinin Iş ortağı merkezi hesap yöneticilerine ayrı olarak ulaşmasını önler. Bunun yerine, değişiklik Yönetimi lideri daha sonra Iş ortağı merkezi hesap yöneticisi ile çalışan birincil kişidir.
 
 ## <a name="user-migration"></a>Kullanıcı geçişi
 
 Iş Ortağı Merkezi 'nde hesabınızı ayarladıktan sonra, iş ortağı merkezi rollerini şirketinizin çalışanlarına otomatik olarak atamak için ortak satış fırsatları sayfasında Kullanıcı Geçiş Sihirbazı 'nı kullanın.
 
->[!Note]
+> [!NOTE]
 > Kullanıcı geçişi yalnızca, şirketinizin [hesap yöneticileri](permissions-overview.md#manage-mpn-membership-and-your-company) tarafından gerçekleştirilebilir. Hesap Yöneticisi rolüne sahip değilseniz, Kullanıcı geçiş sihirbazının yardımıyla Kullanıcı hesaplarını ayarlamaya yardımcı olabilecek bir hesap yöneticisi bulun.
 
 :::image type="content" source="images/pscmigration/user-migration.gif" alt-text="Kullanıcı Geçiş Sihirbazı 'nı gösteren resim.":::
@@ -106,12 +106,12 @@ Bazen geçiş başarısız olabilir ve hatalara neden olabilir. Bir geçişin ha
 2. PSC kullanıcısı, Iş Ortağı Merkezi 'nde kullandığınız bir etki alanından farklı bir hesap kullanıyor olabilir.
 
    1 ve 2 senaryolarıyla ilgili hataları gidermek için kullanıcıdan Azure AD kiracınıza bağlı iş hesabını kullanarak iş ortağı merkezi 'Nde oturum açmasını isteyin. [Genel yöneticiniz](permissions-overview.md#manage-commercial-transactions-in-partner-center-azure-ad-and-csp-roles) yardımcı olabilir.
-   
+
    Genel yöneticinize ulaşmak için: 
-   1. Iş Ortağı Merkezi [panosunda](https://partner.microsoft.com/dashboard) oturum açın ve sağ üst köşedeki dişli simgesinden **Hesap ayarları** ' nı seçin.
+   1. [iş ortağı merkezi panosunda](https://partner.microsoft.com/dashboard) oturum açın ve Ayarlar dişli simgesini, sonra **hesap ayarlarını** seçin.
    2. İkinci düzey, sol gezinti çubuğundan **Kullanıcı yönetimi** ' ni seçin.
    3. Kullanıcı listesinin en üstünde, **filtre** açılan menüsünü seçin ve seçeneğini **genel yönetici** olarak değiştirin. Daha sonra sayfa, tüm genel yöneticileri ilgili e-posta adresleriyle birlikte görüntüler. İş hesabınız için bir başvuru Yöneticisi rolü atamasını isteyin.
-   
+
       Genel yönetici, Azure AD kiracınızda yeni bir kullanıcı hesabı oluşturabilir ya da diğer etki alanı hesabı kullanıcılarına Konuk Kullanıcı erişimi atayabilir. Tüm PSC anlaşma yöneticileri ve kullanıcıları için hesaplar kurulduktan sonra, Iş Ortağı Merkezi 'nde oturum açması, sol gezinti menüsünden **başvuruları** seçmeniz ve başvurular sayfasını görebilecekleri onaylanır.
 
 3. Kullanıcının Iş Ortağı Merkezi 'ne atanmış bir başvuru rolü zaten var.
@@ -136,97 +136,99 @@ Iş Ortağı Merkezi 'nden anlaşma geçişini başlatmadan önce, başarılı b
 - Bu anlaşmalar, aşağıda açıklandığı gibi gerekli tüm bilgilere sahiptir.
     - Ad ve adres dahil müşteri Şirket ayrıntıları
     - En az bir çözüm
-    - Tüm ayrıntıları içeren en az bir takım üyesi-ad, soyadı, e-posta KIMLIĞI ve telefon numarası
+    - Ad, soyadı, e-posta kimliği ve telefon numarası gibi tüm ayrıntıları içeren en az bir ekip üyesi
     - Anlaşma değeri
-    - Tahmini anlaşma kapanış tarihi
+    - Tahmini satış kapanış tarihi
     - İş ortağı notları
 
-Tüm uygun anlaşmalar için anlaşmayla ilgili tüm eksik ayrıntıları eklemek üzere PSC 'deki toplu indirme ve karşıya yükleme yeteneklerini kullanabilirsiniz.
+PsC'de toplu indirme ve karşıya yükleme özelliklerini kullanarak tüm uygun anlaşmaların anlaşmada eksik olan tüm ayrıntılarını indirebilirsiniz.
 
->[!Note]
-> Yukarıdaki ön koşullar karşılanmadığında bile dağıtım geçişi başarılı olur. Ancak, Iş Ortağı Merkezi 'nde yukarıda bahsedilen gerekli alanlardan herhangi biri kullanılabilir değilse, anlaşma durumunu değiştiremezsiniz. Daha sonra, Iş ortağı merkezindeki anlaşmalar üzerinde çalışmaya başlamak için gerekli tüm bilgileri girmeniz gerekir. **Iş Ortağı Merkezi 'ne geçirmeden önce PSC 'deki uygun anlaşmaları temizlemeniz önemle tavsiye edilir.**
+> [!NOTE]
+> Yukarıdaki önkullar karşılanmazsa bile anlaşma geçişi başarılı olur. Ancak, yukarıdaki belirtilen gerekli alanlardan herhangi biri kullanılabilir durumda yoksa İş Ortağı Merkezi değiştiremezsiniz. Ardından, üzerinde çalışmaya başlamak için anlaşmalarda eksik olan tüm İş Ortağı Merkezi bilgileri girmeniz gerekir. **PsC'de uygun anlaşmaları, İş Ortağı Merkezi'a İş Ortağı Merkezi.**
 
-Iş Ortağı Merkezi ' nde anlaşma geçişi tek tıklamayla deneyim olarak oluşturulmuştur. Tüm yapmanız gereken, şirketiniz uygun anlaşmaları geçirmeye hazırsa **"anlaşmaları geçir"** düğmesine tıklayın. **PSC 'den geçiş yapmak istediğiniz anlaşmaları seçemezsiniz. Iş Ortağı Merkezi 'ne herhangi bir anlaşmayla geçiş yapmak istemiyorsanız, Geçişe başlamadan önce onları PSC 'de Kapalı durumuna taşıyın.**
+Geçiş anlaşması İş Ortağı Merkezi tek tıklama deneyimi olarak yerleşiktir. Tek gereken, şirket uygun anlaşmaları geçirmek için hazır olduğunda **"Anlaşmaları geçir"** düğmesine tıklamaktır. **PSC'den geçirmek istediğiniz anlaşmaları seçesiniz. Geçişe herhangi bir anlaşma İş Ortağı Merkezi, geçişe başlamadan önce bunları PSC'de kapalı durumuna taşımanız gerekir.**
 
->[!Note]
-> Geçişi başlattıktan sonra, **yapılan anlaşmalar için 24 saate kadar sürebilir**.
+> [!NOTE]
+> Geçişin başlatılana kadar tüm anlaşmaların geçişi 24 saate kadar sürebilir.
 
-Geçiş tamamlandıktan sonra, başlık iletisinin durumu geçiş raporuna yönelik bir bağlantıyla tamamlandı olarak değiştirilir. PSC 'den Iş Ortağı Merkezi 'ne geçirilen anlaşmalar hakkındaki ayrıntıları görüntülemek için raporu indirin.
+Geçiş tamamlandıktan sonra başlık iletisi, geçiş raporunun bağlantısıyla tamamlanacak şekilde değişir. PSC'den İş Ortağı Merkezi'a geçirilen anlaşmaların ayrıntılarını görüntülemek için raporu İş Ortağı Merkezi.
 
 Rapor aşağıdaki ayrıntıları içerir.
 
-- **Iş Ortağı Merkezi KATıLıM kimliği** -bir görevlendirmede tüm anlaşmalar Için Iş ortağı merkezindeki benzersiz tanımlayıcı. İş ortağı için iki adet anlaşmalar vardır ve bir iş ortağı merkezi 'nde ortak satış katılımında Microsoft için bir görevlendirme vardır.
-- **Iş ortağı merkezi başvuru kimliği** -iş ortağına ait olan Işlem Için Iş Ortağı Merkezi 'nde benzersiz tanımlayıcı.
-- **Anlaşma adı** -PSC 'de ele verilen tanımlayıcı.
-- **PSC anlaşma kimliği** -anlaşma için PSC içindeki benzersiz tanımlayıcı.
-- **Hatalar** -belirli bir anlaşmayı geçirirken herhangi bir hata olup olmadığını gösterir.
+- **İş Ortağı Merkezi kimliği** - Bir etkileşimde İş Ortağı Merkezi anlaşmaların benzersiz tanımlayıcısı. İki satış anlaşması vardır: biri iş ortağı, biri de Microsoft için ortak satış anlaşmasında İş Ortağı Merkezi.
+- **İş Ortağı Merkezi kimliği** - İş ortağına ait İş Ortağı Merkezi için geçerli olan benzersiz tanımlayıcı.
+- **Anlaşma adı** - PSC'de anlaşmaya verilen tanımlayıcı.
+- **PSC anlaşma kimliği** - Anlaşma için PSC'deki benzersiz tanımlayıcı.
+- **Hatalar** - belirli bir anlaşmadan başka bir anlaşmayı alırken herhangi bir hata olup olamay olduğunu belirtmek için.
 
-Başarılı bir şekilde geçirilmiş tüm anlaşmalar PSC içinde görünür olmayacaktır. İş Ortağı Merkezi 'nde geçirilmiş anlaşmalar üzerinde çalışmaya devam edebilirsiniz.
+Başarıyla geçirilen tüm anlaşmalar PSC'de görünmez. Geçiş yapılan anlaşmalar üzerinde çalışmaya devam İş Ortağı Merkezi.
 
-PSC 'den geçirilen anlaşmalar, ortak satış fırsatları sayfasının giden sekmesinde kullanılabilir. Tüm anlaşmalar Iş ortağı tarafından ele alınır. Bunlar Microsoft satıcıları tarafından görülebilir.
+PSC'den geçirilen anlaşmalar Ortak satış fırsatları sayfasının Giden sekmesinde kullanılabilir. Tüm anlaşmalar İş ortağı tarafından yapılan anlaşmalar olarak oluşturulur. Bunlar Microsoft satıcılarının kullanımına açık.
 
->[!Important]
-> Bazı anlaşmalar geçirilmemiş olması nedeniyle herhangi bir hata oluşursa, **"anlaşmaları geçir" düğmesine tıklayarak anlaşma geçişini yeniden başlatabilirsiniz**. Yalnızca bazı uygun anlaşmalar varsa etkinleştirilecek. Bu Ayrıca, anlaşma geçişi başlatıldıktan sonra bazı yeni anlaşmalar için PSC 'de oluşturulan geçiş aşamasındaysanız de yararlı olacaktır.
+> [!NOTE]
+> Bazı anlaşmaların geçirilenemleri nedeniyle herhangi bir hata varsa, "Anlaşmaları geçir" düğmesine tıklayarak anlaşma **geçişini yeniden başlatabilirsiniz.** Yalnızca henüz geçirilemeyen bazı uygun anlaşmalar varsa etkinleştirilir. Bu, anlaşma geçişi başladıktan sonra PSC'de bazı yeni anlaşmaların oluşturulacak olduğu geçiş aşamasında da yararlı olacaktır.
 
-Tüm anlaşmalar başarıyla geçirildikten sonra, " **anlaşmaları geçir** " düğmesi **devre dışı** olarak **"geçirilecek anlaşmalar yok** " adlı başlık görüntülenir.
+Tüm anlaşmalar başarıyla geçirildiktan sonra , **"Anlaşmaları geçir"** düğmesinin devre dışı bırakıldığında "Geçirılacak anlaşma **yok"** ifadesini gösteren bir başlık **vardır.**
+
+> [!IMPORTANT]
+> Bundan sonra, IoT anlaşmaları oluşturma ve yönetme hakkında daha fazla bilgi İş Ortağı Merkezi. Bu, sizi IoT anlaşma yönetimine hazırlayacak önemli bir adımdır. Anlaşmaları etkili bir şekilde oluştur İş Ortağı Merkezi yönetebilirsiniz. Bu belgeyi tamamen okuyarak başlayabilirsiniz.
+
+## <a name="differences-between-psc-and-pc-workflows"></a>PSC ile PC iş akışları arasındaki farklar
+
+|**Senaryo**|**İş Ortağı Satış Bağlan**|**İş Ortağı Merkezi**|
+|-----|:-----|:-----|
+|Kullanıcı rolleri|PSC'de yönetici, satış anlaşması yöneticisi ve satıcı rolleri vardır.|İş Ortağı Merkezi, [konum kapsamına göre hem](permissions-overview.md#manage-referrals) okuma hem de yazma izni veren referans yöneticisi ve referans kullanıcı rollerine sahiptir.|
+|Microsoft satıcı ayrıntıları|Anlaşma oluşturulur oluşturulmaz görünür.|Satış anlaşması türü iş ortağı tarafından yönlendirildiklarından Microsoft Satıcı ayrıntıları iş ortaklarının kullanımına açık değildir.
+|Çözümler|Anlaşmaya herhangi bir sayıda çözüm eklenebilir.|İş ortağı anlaşmaya en fazla 50 çözüm ekleyebilir.
+|Anlaşma ataması|Anlaşmaları yalnızca atanan satıcı görüntülemeli ve üzerinde eylemde davranabilir.|Bir anlaşmanın takıma eklenen referans kullanıcıları anlaşmayı görüntüp buna göre hareket ediyor olabilir. Anlaşmanın oluşturulacak MPN konumu için referans yöneticileri, anlaşmayı görüntüp üzerinde eylem gerçekleştirebilirsiniz.|
+|Müşteri kuruluşu|Serbest biçimli metin girişi.|Yalnızca birkaç karakter [yazarak](manage-co-sell-opportunities.md#select-your-customer) [müşteri kuruluşunda D&B](https://www.dnb.com/) veritabanında arama edebilirsiniz. Yasal ad ve adres, seçime göre otomatik olarak doldurulur.|
+
+## <a name="moving-from-psc-to-pc---faq"></a>PSC'den PC'ye Taşıma - SSS
+
+Aşağıdaki bölümlerde geçişle ilgili sık sorulan sorular yanıtlanmaktadır.
+
+### <a name="what-should-i-do-if-i-dont-have-access-to-partner-center"></a>Erişim iznim yoksa ne İş Ortağı Merkezi?
+
+Atanmış rolleri almak için "Erişim yok" sayfasında listelenen yöneticilerinize başvurabilirsiniz. Referanslar bölümünde [okuma ve](permissions-overview.md#manage-referrals) yazma izni için referans yöneticisi rolüne ihtiyacınız olacak. Yalnızca iş profillerini yönetiyorsanız, iş profili yöneticisi rolünüz İş Ortağı Merkezi.
+
+:::image type="content" source="images/pscmigration/noaccess.png" alt-text="İş Ortağı Merkezi'da erişim yok deneyimini gösteren görüntü.":::
+
+### <a name="who-can-grant-me-access-to-the-referrals-section-in-partner-center"></a>Who bölümündeki Referanslar bölümüne erişim izni İş Ortağı Merkezi?
+
+Hesap [yöneticiniz Referanslar](permissions-overview.md#manage-mpn-membership-and-your-company) sekmesine erişmenizi sağlar. Hesap yöneticinizi bulmak için **panonun** sağ üst köşesindeki dişli simgesinden Hesap ayarları'İş Ortağı Merkezi [seçin.](https://partner.microsoft.com/dashboard) Ardından, ikinci **düzey,** sol gezinti çubuğundan Kullanıcı yönetimi'ni seçin. Kullanıcı listesinin üst kısmında Filtre  açılan menüsünü seçin ve seçeneğini hesap yöneticisi **olarak belirleyin.** Sayfada ilgili e-posta adresleriyle birlikte tüm hesap yöneticileri görüntülenir. İş hesabınız için referans yöneticisi rolünü atamasını istemek için bunlardan birini sorun.
+
+### <a name="the-new-deal-button-is-greyed-out-for-our-account-what-should-i-do-to-start-creating-deals"></a>Hesabımız için yeni anlaşma düğmesi gri renkte. Anlaşma oluşturmaya başlamak için ne yapabilirim?
+
+Bu yalnızca hesabınızla ilişkili MPN Kimliği IOT anlaşmaları oluşturmak için etkinleştirilmediyse gerçekleşir. Eğitim oturumları sırasında sağlanan e-postada IOT iş ekibine başvurun veya IOT anlaşmaları için MPN id'nizi etkinleştirecek bir destek bileti oluşturun."
+
+### <a name="can-i-assign-deals-to-a-specific-person-from-our-organization-like-psc"></a>PSC gibi kuruluştan belirli bir kişiye satış anlaşması atay musunuz?
+
+Takım üyelerini belirli bir satış anlaşmasına at attayarak. Diğer referans yöneticilerinin bu anlaşmaları görüntülemesini veya bu anlaşmalara göre hareket etmelerini engellemez.
+
+### <a name="is-there-a-view-of-all-the-deals-assigned-to-me"></a>Bana atanan tüm anlaşmaların bir görünümü var mı?
+
+Kullanıcı düzeyinde bir sekme olan sık kullanılanlar özelliğini kullanabilirsiniz. Anlaşmalara hızlı erişim elde etmek için size sık kullanılanlar olarak atanan tüm anlaşmaları işaretlebilirsiniz.
+
+### <a name="is-there-a-read-only-view-for-the-deals"></a>Anlaşmalar için salt okunur bir görünüm var mı?
+
+Hayır, referanslar bölümünde anlaşmaların salt okunur bir görünümü yoktur.
+
+### <a name="is-adding-a-customer-organization-mandatory"></a>Müşteri kuruluşu eklemek zorunlu mu?
+
+Evet, müşteri [kuruluşuna ekleme](./manage-co-sell-opportunities.md#select-your-customer) zorunludur İş Ortağı Merkezi. İlk olarak müşterinin bulunduğu konumu arayarak başlayalım. Sahip olduğunuz ayrıntılara göre; Tam bina adı dahil olmak üzere belirli ayrıntıları ekleyebilir veya yalnızca şehir ayrıntılarını veabilirsiniz. Kuruluş araması, herhangi bir adres ayrıntısı girmek zorunda olmadığınız adla eşleşen tüm yasal varlıkları getirir. Tüm ayrıntılar seçilen kuruluşa göre otomatik olarak doldurulur.
+
+### <a name="are-customer-contact-details-mandatory"></a>Müşteri iletişim bilgileri zorunlu mu?
+
+Evet, müşteri iletişim ayrıntıları IOT anlaşmaları oluşturmak için zorunludur.
+
+### <a name="how-many-solutions-can-i-add-to-a-deal"></a>Bir anlaşmaya kaç çözüm ekleyebilirim?
+
+Bir satış anlaşmasına en fazla 50 çözüm (PSC'de 'ürünler' ile benzer) eklersiniz. Çözümler için hem miktar hem de tahmini kapanış tarihi zorunludur ve çözümlerin tahmini kapanış tarihi anlaşma ayrıntıları bölümündeki tahmini kapanış tarihinden daha erken olmalıdır.
+
+### <a name="where-can-i-find-the-opportunity-id"></a>Fırsat kimliğini nerede bulamıyorum?
+
+PSC'deki fırsat kimliği, İş Ortağı Merkezi. Herhangi bir anlaşmayı a açmak için anlaşma adının yanında Referans Kimliğini bulabilirsiniz.
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-Iş Ortağı Merkezi 'nde ıOT anlaşmaları oluşturmayı ve yönetmeyi öğrenin.
-Bu önemli bir adımdır ve Iş Ortağı Merkezi 'nde ıOT anlaşma yönetimi için hazırlanmanıza yardımcı olur. Anlaşmaları etkin bir şekilde oluşturup yönetebilmeniz için iş akışlarını ve iş ortağı merkezindeki değişiklikleri anlayın. Bu belgeyi tamamen okuyarak başlayın.
-
-## <a name="differences-between-psc-and-pc-workflows"></a>PSC ve PC iş akışları arasındaki farklılıklar
-
-|**Senaryo**|**iş ortağı satışları Bağlan**|**İş Ortağı Merkezi**|
-|-----|:-----|:-----|
-|Kullanıcı rolleri|PSC 'in yönetici, anlaşma Yöneticisi ve satıcı rolleri vardır.|İş Ortağı Merkezi, [Referans Yöneticisi ve](permissions-overview.md#manage-referrals) konum kapsamına bağlı olarak hem okuma hem de yazma izni veren kullanıcı rollerini içerir.|
-|Microsoft satıcı ayrıntıları|Bir anlaşma oluşturulduktan hemen sonra görünür.|Anlaşma türü iş ortağı olarak olduğu için Microsoft satıcı ayrıntıları iş ortakları tarafından görülemez.
-|Çözümler|Anlaşma için herhangi bir sayıda çözüm eklenebilir.|İş ortağı, en fazla 50 çözümü ele ekleyebilir.
-|Anlaşma ataması|Yalnızca atanan satıcı, anlaşmaları görüntüleyebilir ve üzerinde işlem yapabilir.|Bir anlaşmayı takım bölümüne eklenen başvuru kullanıcıları, anlaşmayı görüntüleyebilir ve üzerinde işlem yapabilir. Çalışma 'nin oluşturulduğu MPN konumu için başvuru yöneticileri, anlaşmayı görüntüleyebilir ve üzerinde işlem yapabilir.|
-|Müşteri kuruluşu|Serbest form metin girişi.|Yalnızca birkaç karakter yazarak [Müşteri kuruluşunda](manage-co-sell-opportunities.md#select-your-customer) [D&B veritabanına](https://www.dnb.com/) göre arama yapabilirsiniz. Yasal ad ve adres seçime göre otomatik olarak doldurulur.|
-
-## <a name="moving-from-psc-to-pc---faq"></a>PSC 'den PC 'ye geçme-SSS
-
-Aşağıdaki bölümlerde geçişle ilgili sık sorulan sorular yanıtlanacaktır.
-
-### <a name="1---what-should-i-do-if-i-dont-have-access-to-partner-center"></a>1-Iş Ortağı Merkezi 'ne erişimi yoksa ne yapmam gerekir?
-
-Atanan rolleri almak için, "erişim yok" sayfasında listelenen yöneticilerinize başvurabilirsiniz. Başvurular bölümünde okuma ve yazma izni için [başvuru Yöneticisi](permissions-overview.md#manage-referrals) rolüne ihtiyacınız olacak. Yalnızca iş profillerini yönetiyorsanız iş profili yönetici rolüne iş ortağı Merkezi ' nde ihtiyacınız olacaktır.
-
-:::image type="content" source="images/pscmigration/noaccess.png" alt-text="Iş Ortağı Merkezi 'nde erişim deneyimi olmadığını gösteren resim.":::
-
-### <a name="2---who-can-grant-me-access-to-the-referrals-section-in-partner-center"></a>2-Who iş ortağı merkezi 'ndeki referanslar bölümüne erişim izni verebilir mi?
-
-[Hesap yöneticiniz](permissions-overview.md#manage-mpn-membership-and-your-company) , başvurular sekmesine erişim izni verebilir. Hesap yöneticinize ulaşmak için, Iş Ortağı Merkezi [panosunun](https://partner.microsoft.com/dashboard)sağ üst tarafındaki dişli simgesinden **Hesap ayarları** ' nı seçin. Ardından, ikinci düzey, sol gezinti çubuğundan **Kullanıcı yönetimi** ' ni seçin. Kullanıcı listesinin en üstünde, **filtre** açılan menüsünü seçin ve **Hesap Yöneticisi** seçeneğini belirleyin. Bu sayfada, tüm hesap yöneticileri ilgili e-posta adresleriyle görüntülenir. İş hesabınız için bir başvuru Yöneticisi rolü atamasını isteyin.
-
-### <a name="3---the-new-deal-button-is-greyed-out-for-our-account-what-should-i-do-to-start-creating-deals"></a>3-hesabım için + yeni anlaşma düğmesi gri değildir. Anlaşmalar oluşturmaya başlamak için ne yapmam gerekir?
-
-Bu yalnızca hesabınızla ilişkilendirilen MPN KIMLIĞI, ıOT anlaşmaları oluşturmak için etkinleştirilmemişse gerçekleşir. Eğitim oturumlarında sağlanan e-postadaki ıOT iş ekibine başvurun veya MPN KIMLIĞINIZI ıOT anlaşmaları için etkin bir şekilde sağlamak üzere bir destek bileti oluşturun. "
-
-### <a name="4---can-i-assign-deals-to-a-specific-person-from-our-organization-like-psc"></a>4-belirli bir kişiye, PSC gibi kuruluşumuza yönelik anlaşmalar atayabilir miyim?
-
-Takım üyelerini belirli bir anlaşmayı atayabilirsiniz. Diğer başvuru yöneticilerinin bu anlaşmaları görüntülemesini veya bu anlaşmalar üzerinde hareket etmalarını engellemez.
-
-### <a name="5---is-there-a-view-of-all-the-deals-assigned-to-me"></a>5-bana atanan tüm anlaşmalar için bir görünüm var mı?
-
-Kullanıcı düzeyi sekmesi olan Sık Kullanılanlar özelliğini kullanabilirsiniz. Bu anlaşmalar için hızlı bir erişim sağlamak üzere size atanan tüm anlaşmaları sık kullanılanlar olarak işaretleyebilirsiniz.
-
-### <a name="6---is-there-a-read-only-view-for-the-deals"></a>6-anlaşmalar için salt okunurdur bir görünüm var mı?
-
-Hayır, başvurular bölümünde anlaşmalar için salt okuma görünümü yoktur.
-
-### <a name="7---is-adding-a-customer-organization-mandatory"></a>7-bir müşteri kuruluşu zorunlu mi ekliyor?
-
-Evet, [Müşteri kuruluşu](./manage-co-sell-opportunities.md#select-your-customer) eklemek Iş Ortağı Merkezi 'nde zorunludur. İlk olarak, müşterinin konumun bulunduğu konumu arayarak başlayın. Sahip olduğunuz ayrıntılara göre; tam yapı adı da dahil olmak üzere belirli ayrıntıları ekleyebilir veya yalnızca şehir ayrıntıları verebilirsiniz. Kuruluş araması, girdiğiniz adla eşleşen tüm yasal varlıkları getirecek, böylece herhangi bir adres ayrıntısı girmenize gerek kalmaz. Tüm ayrıntılar, seçilen kuruluşa göre otomatik olarak doldurulur.
-
-### <a name="8---are-customer-contact-details-mandatory"></a>8-müşteri iletişim ayrıntıları zorunludur mi?
-
-Evet, müşteri iletişim ayrıntıları ıOT anlaşmaları oluşturmak için zorunludur.
-
-### <a name="9---how-many-solutions-can-i-add-to-a-deal"></a>9-bir dağıtmaya kaç çözüm ekleyebilirim?
-
-En fazla 50 çözüm ekleyebilirsiniz (PSC 'de ' Ürünler ' öğesine benzer), bir anlaşma. Çözümler için hem miktar hem de tahmini kapanış tarihi zorunludur ve çözüm ayrıntıları bölümünde tahmini kapanış tarihi, tahmini kapanış tarihinden önce olmalıdır.
-
-### <a name="10---where-can-i-find-the-opportunity-id"></a>10-fırsat KIMLIĞINI nerede bulabilirim?
-
-PSC 'deki fırsat KIMLIĞI, Iş Ortağı Merkezi 'ndeki referans KIMLIĞIYLE aynıdır. Herhangi bir anlaşmayı açtığınızda anlaşma adının yanına başvuru KIMLIĞINI bulabilirsiniz.
+- [Referanslarla işletmenizi büyütün](./grow-your-business.md)

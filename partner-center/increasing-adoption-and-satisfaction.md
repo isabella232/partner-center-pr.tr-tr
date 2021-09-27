@@ -1,91 +1,124 @@
 ---
 title: Benimsemeyi ve memnuniyeti artırma
 ms.topic: how-to
-ms.date: 11/03/2020
+ms.date: 09/27/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-customers
-description: Iş Ortağı Merkezi 'nde ölçümleri nasıl kullanacağınızı öğrenin. Ölçümler, işletmenizin büyüdüğünü, müşterilerin lisanslarını nasıl kullandığını ve yatırımın nerede odaklandığını gösterebilir.
+description: İş Ortağı Merkezi'da ölçümlerin nasıl İş Ortağı Merkezi. Ölçümler, işletmenizin büyüp büyümey olduğunu, müşterilerin lisanslarını nasıl kullanabileceğini ve yatırıma nereye odaklanması gerekenleri gösterebilir.
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0e04334490f77add4f95627d3d4c5d5762a79c86
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.openlocfilehash: e6cf260df6f1b5d3ae814678c47f13b2b4015b62
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960984"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129074792"
 ---
-# <a name="use-metrics-in-partner-center-to-increase-adoption-and-satisfaction"></a>Benimseme ve memnuniyet düzeyini artırmak için Iş Ortağı Merkezi 'nde ölçümleri kullanın
+# <a name="use-metrics-in-partner-center-to-increase-adoption-and-satisfaction"></a>Benimsemeyi ve memnuniyeti İş Ortağı Merkezi için ölçümler kullanın
 
-**Uygun roller**: genel yönetici | Kullanıcı Yönetimi Yöneticisi | Yönetici Aracısı | Satış Aracısı
+**Uygun roller:** Genel yönetici | Kullanıcı yönetimi yönetici | Yönetici aracısı | Satış aracısı
 
-İş ortaklarımız, işletmenizin büyüdüğünü ve yatırımın nerede odaklanıp odaklanmadığını ölçmek için birçok ölçüm kullanır. İş Ortağı Merkezi, müşterilerinizin satın aldıkları lisansları ve bunları nasıl kullandığını öğrenmek için veri sağlamaya yardımcı olabilir. bu bilgiler, SharePoint ile birlikte sayılan Office ürünleri (OneDrive İş dahil) için kullanılabilir.
+İş ortaklarımız, işletmelerinin büyüyip büyüme olmadığını ve yatırıma nereye odaklanacaklarını ölçmek için birçok ölçüm kullanıyor. İş Ortağı Merkezi, müşterilerin satın alınan lisansları kullanmaları ve kullanmaları hakkında veri sağlayarak yardımcı olabilir. Bu bilgiler, Office ürünler (OneDrive İş dahil olmak üzere) SharePoint.
 
-Bulut Çözümü Sağlayıcısı programı aracılığıyla tüm müşterileriniz için verileri görebilirsiniz. Bazı müşteriler diğer iş ortaklarından veya doğrudan Microsoft 'tan lisans satın alabilir. Bu durumlar için tüm iş ortakları genelinde toplam lisans görürsünüz. Yalnızca kendi lisanslarınızı görmek için, bunun yerine müşterinin aboneliklerine gidin.
+Bulut Çözümü Sağlayıcısı programı aracılığıyla tüm müşterilerinize Bulut Çözümü Sağlayıcısı. Bazı müşteriler, diğer iş ortaklarından veya doğrudan Microsoft'tan lisans satın alabilir. Bu gibi durumlarda tüm iş ortaklarının toplam lisanslarını göreceğiz. Yalnızca kendi lisanslarınızı görmek için müşterinin abonelikleri'ne gidin.
 
 > [!NOTE]  
-> şu anda yalnızca Office 365 ve Dynamics 365 için verileri gösteririz. Gelecekte ek ürünler için veri etkinleştirilecektir.
+> Şu anda yalnızca Office 365 ve Dynamics 365 için veri gösteriyoruz. Gelecekte ek ürünler için verileri etkinleştireceğiz.
 
-## <a name="find-license-and-user-data"></a>Lisans ve Kullanıcı verilerini bulma
+## <a name="find-license-and-user-data"></a>Lisans ve kullanıcı verilerini bulma
 
-Tek bir müşteri veya portföyünüzün lisans ve Kullanıcı verilerini bulabilirsiniz.
+Tek bir müşteri için veya portföy genelinde lisans ve kullanıcı verilerini bulabilirsiniz.
 
-### <a name="find-license-and-user-data-for-a-single-customer"></a>Tek bir müşteri için lisans ve Kullanıcı verilerini bulma
+### <a name="find-license-and-user-data-for-a-single-customer"></a>Tek bir müşteri için lisans ve kullanıcı verilerini bulma
 
-1. Iş Ortağı Merkezi [panosunda](https://partner.microsoft.com/dashboard)oturum açın.
+> [!NOTE]
+> İş Ortağı Merkezi önizleme arabirimi, mantıksal olarak gruplu çalışma alanları aracılığıyla daha verimli ve üretken bir kullanıcı deneyimi sağlar. Çalışma alanları arabirimi ve nasıl açabilirsiniz hakkında daha fazla bilgi edinmek için [bkz. İş Ortağı Merkezi.](get-around-partner-center.md#turn-workspaces-on-and-off)
 
-2. **Iş Ortağı Merkezi** 'nden **müşterileri** seçin
+#### <a name="workspaces-view"></a>[Çalışma alanları görünümü](#tab/workspaces-view)
+
+1. İş Ortağı Merkezi [panosunda](https://partner.microsoft.com/dashboard) oturum açın.
+
+2. Müşteriler **kutucuğunu** seçin.
 
 3. Bir müşteri seçin.
 
-4. **Müşteri öngörülerini** seçin.
+4. Müşteri **içgörüleri'ne seçin.**
 
-### <a name="find-license-and-user-data-across-your-portfolio"></a>Portföyünüzde lisans ve Kullanıcı verileri bulma
+#### <a name="current-view"></a>[Geçerli görünüm](#tab/current-view)
 
-1. Iş Ortağı Merkezi [panosunda](https://partner.microsoft.com/dashboard)oturum açın.
+1. [İş Ortağı Merkezi panosunda](https://partner.microsoft.com/dashboard) oturum açın.
 
-2. **Çözümle**' yi seçin ve menüdeki analiz seçeneklerinden herhangi birini seçin.
+2. **Müşteriler**’i seçin.
 
-3. Dağıtım ve kullanım verilerini tüm müşteri kümesi genelinde indirmek için **dışarı aktar** (aşağı ok) seçeneğini belirleyin.
+3. Bir müşteri seçin.
 
-Terminoloji:
+4. Müşteri **içgörüleri'ne seçin.**
 
-- **Yetkilendirmeleri** = kullanıcının kullanımına hak kazandığı bir lisans (sahtekarlık veya ödeme için askıya alınmaz, farklı bir lisansa yükseltilmemiştir, Kullanıcı tarafından iptal edilmez veya başka bir sorun yoktur).
+* * *
 
-- **Etkin** = abone olunan Kullanıcı son 28 takvim günlerinde bir görev için yetkilendirme kullandıysanız.
+### <a name="find-license-and-user-data-across-your-portfolio"></a>Portföy genelinde lisans ve kullanıcı verilerini bulma
 
-- **Dağıtım%** = atanan lisanslar/satılan lisanslar
+Ayrıca lisansınız ve kullanıcı verileriniz hakkında içgörüler edinebilirsiniz.
 
-- **Kullanım%** = etkin kullanıcılar/Toplam Kullanıcı sayısı
+> [!NOTE]
+> İş Ortağı Merkezi önizleme arabirimi, mantıksal olarak gruplu çalışma alanları aracılığıyla daha verimli ve üretken bir kullanıcı deneyimi sağlar. Çalışma alanları arabirimi ve nasıl açabilirsiniz hakkında daha fazla bilgi edinmek için [bkz. İş Ortağı Merkezi.](get-around-partner-center.md#turn-workspaces-on-and-off)
 
-   Bazen%% kullanım veya %100 ' den büyük olabilir. Bu sorun çeşitli nedenlerden kaynaklanabilir:
+#### <a name="workspaces-view"></a>[Çalışma alanları görünümü](#tab/workspaces-view)
 
-  - Müşterinin çalışan cirosu varsa ve lisans yeni bir kullanıcıya aktarıldıysa.
+1. İş Ortağı Merkezi [oturum açın.](https://partner.microsoft.com/dashboard)
 
-  - Müşterinin bir SKU için iki aboneliği varsa, ancak biri yetkisiz kullanım süresi, devre dışı veya önceden sağlanmış olduğunda, her iki abonelikteki yetkilendirmeler, 28 günlük süre içinde etkin kullanımı kaydedebilir ancak toplamda yalnızca bir tane sayılır.
+2. Analizler **kutucuğunu** seçin ve menüden analiz seçeneklerinden birini belirleyin.
 
-  - Müşterinin bir deneme aboneliği varsa, etkinlik sayılır ancak abonelik toplam yetkilendirmeler doğrultusunda sayılmaz.
+3. Dağıtım ve kullanım verilerini müşteri kümenizin tamamına indirmek için dışarı **aktarma** (aşağı ok) seçeneğini belirleyin.
 
-  - bazı müşteriler lisanslarına hak kazandıklarından fazla Yammer kullanıyorsa, verileri önemli ölçüde eğebilir.
+#### <a name="current-view"></a>[Geçerli görünüm](#tab/current-view)
+
+1. İş Ortağı Merkezi [oturum açın.](https://partner.microsoft.com/dashboard)
+
+2. **Çözümle'yi** seçin ve menüden analiz seçeneklerinden birini belirleyin.
+
+3. Dağıtım ve kullanım verilerini müşteri kümenizin tamamına indirmek için dışarı **aktarma** (aşağı ok) seçeneğini belirleyin.
+
+* * *
+
+### <a name="terminology"></a>Terminoloji
+
+- **Yetkilendirme** = kullanıcının kullanma yetkisine sahip olduğu bir lisans (sahtekarlık veya ödeme olmayan için askıya alınmamıştır, farklı bir lisansa yükseltilmemiştir, kullanıcı tarafından iptal edilmiş veya başka bir sorundur).
+
+- **Etkin** = abone olan kullanıcı son 28 takvim günü içinde bir görev için yetkilendirmeyi kullandı.
+
+- **Dağıtım %** = atanan lisanslar/satılan lisanslar
+
+- **Kullanım %** = etkin kullanıcılar/toplam kullanıcı sayısı
+
+   Bazen kullanım % şişirilmiş veya %100'den büyük olabilir. Bu sorun çeşitli nedenlerle oluşabilir:
+
+  - Müşterinin çalışanda iş devretmesi varsa ve lisans yeni bir kullanıcıya aktarıldı ise.
+
+  - Müşterinin bir SKU için iki aboneliği varsa ama biri Yetkisiz Kullanım Süresinde, Devre Dışı veya Sağlandı ise, her iki abonelikte de yetkilendirmeler 28 günlük süre boyunca etkin kullanımı kaydedese de toplamda yalnızca bir abonelik sayılır.
+
+  - Müşterinin deneme aboneliği varsa etkinlik sayılır, ancak abonelik toplam yetkilendirmelere dahil değildir.
+
+  - Bazı müşteriler lisanslarından Yammer çok daha fazla veri kullanıyorsa, verileri önemli ölçüde çarpıtabilir.
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-Birçok yardım ve nasıl yapılır sorusunu tercih ediyorsanız, hesabınızdaki benimseme numaraları düşüktür veya satış fırsatlarını arıyorsanız, eğitim kursları sunmayı düşünmek isteyebilirsiniz. Müşterilerinize satın almış oldukları bulut çözümü yazılımını daha iyi nasıl kullanacağınızı öğreterek, verimlilik ve memnuniyet artışına bir artış ve destek gereksinimlerinde azalma daha yüksektir.
+Birçok Yardım ve Nasıl uzla sorusuyla sahaya geliyorsanız, hesabınızla ilgili benimseme numaraları düşükse veya satış fırsatlarını arıyorsanız eğitim kursları sunmayı düşünebilirsiniz. Müşterilerinize satın almaları gereken bulut çözümü yazılımını nasıl daha iyi kullanabileceğini öğreterek üretkenlik ve memnuniyette bir artış ve destek ihtiyaçlarında düşüş görme olasılığınız artar.
 
-### <a name="considering-how-to-improve-customer-adoption-and-usage---a-couple-scenarios"></a>Müşteri benimseme ve kullanımının nasıl geliştirileceğine göz önünde bulundurarak, birkaç senaryo
+### <a name="considering-how-to-improve-customer-adoption-and-usage---a-couple-scenarios"></a>Müşteri benimseme ve kullanımını geliştirmeyi göz önünde bulundurarak birkaç senaryo
 
-**Sorun**: Kullanıcı benimseme oranı düşük, çok sayıda lisans kullanılmıyor.
+**Sorun:** Kullanıcı benimseme oranı düşüktür ve birçok lisans kullanılmaz.
 
-**Göz önüne almanız gerekenler**: müşteriler, yazılımın sağlayabilecekleri değeri anlamayabilir. Bunlar, zaten yapmakta oldukları görevleri basitleştirmek veya yeni üretkenlik türlerini etkinleştirmek üzere kendi günlerinden planlama yardımcı olur.
+**Dikkate neleri** göz önünde bulundurabilirsiniz: Müşteriler yazılımın sağd olabileceği değeri anlamayabilirsiniz. Yaptıkları görevleri basitleştirmek veya yeni üretkenlik türlerine olanak sağlamak için bunları günlerine dahil etmenin yollarını hayal etmek için yardıma ihtiyaçları var.
 
-**Deneyebileceğiniz şeyler**: örnek olay incelemeleri, Kullanıcı referansları belirli senaryolar, öğretici Bloglar veya videolar hakkında bilgi sağlar.
+**Denemeler:** Örnek olay incelemeleri, belirli senaryolar, öğretici blogları veya videolar hakkında kullanıcı referansları.
 
-**Sorun**: yardım ve nasıl yapılır soruları için yüksek hacimli destek çağrıları vardır.
+**Sorun:** Yardım ve nasıl çözülen sorular için çok fazla destek çağrısı vardır.
 
-**Göz önüne almanız gerekenler**: müşteriler yazılım için, ürün sürümüne veya onların görevine göre yeni olabilir.
+**Dikkate alınanlar:** Müşteriler yazılımda, ürün sürümünde veya görevlerinde yeni olabilir.
 
-**Deneyebileceğiniz şeyler**: müşterilerin genel uzmanlığını artırmak ve ayrıca müşterilere sunulan bazı self servis seçenekleri de yükseltmek için eğitim sunumu (kişi veya çevrimiçi) sunan iki stratejiyi kullanabilirsiniz.
+**Neleri denemeniz** gerekir: Müşterilerin genel uzmanlığını artırmak için eğitim (kişisel veya çevrimiçi) sunan ikili bir stratejiyi kullanabilir ve aynı zamanda müşterilerin kullanabileceği bazı self servis seçeneklerini tanıtabilirsiniz.
 
-Destek sitenizi, destek iletişim bilgilerinizin yanı sıra [müşterinin kendi kendine destek](customer-self-support.md) bölümünde açıklanan self servis seçeneklerini de içerecek şekilde yeniden tasarlayabilmeniz gerekebilir.
-
+Destek sitenizi, destek iletişim bilgilerine ek olarak Müşteri [](customer-self-support.md) kendi kendine destek makalesinde açıklanan self servis seçeneklerini de içerecek şekilde yeniden tasarlamak iyi olabilir.

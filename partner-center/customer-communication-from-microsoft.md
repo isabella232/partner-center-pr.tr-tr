@@ -3,18 +3,18 @@ title: Microsoft'tan müşteri iletişimi
 ms.topic: article
 ms.date: 07/10/2020
 ms.service: partner-dashboard
-ms.subservice: partnercenter-support
+ms.subservice: partnercenter-customers
 description: Microsoft 'un, Bulut Çözümü Sağlayıcısı programındaki müşteriler ve iş ortakları arasında müşteri iletişimlerinin nasıl gerçekleşmesini beklediğini öğrenin.
 author: Kim-Davis
 ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 3ffca850cda093918930cb93abb5fb2372bfb45f
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.openlocfilehash: 81c37c50f06e252a07ebcd68fe8f8e3253e60a65
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123961305"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129073800"
 ---
 # <a name="guidelines-for-successful-customer-communication-with-microsoft"></a>Microsoft ile başarılı müşteri iletişimine yönelik yönergeler
 

@@ -1,19 +1,19 @@
 ---
 title: Teşvik kaydı
 ms.topic: how-to
-ms.date: 04/15/2021
+ms.date: 09/27/2021
 description: Teşvik programına kaydolma ve kullanıcı yönetimi için gerekli rolleri atama. Bu makalede kayıt işlemi açıklanmıştır.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
-ms.openlocfilehash: f3be1b1d267321a4229ba3ea56aa950e14538289
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.openlocfilehash: c9a7dbae07ece38668a0b59b31c6e3e70e2280df
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960514"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129074902"
 ---
 # <a name="enrollment-and-user-management-in-the-incentives-program"></a>Teşvik programında kayıt ve kullanıcı yönetimi
 
@@ -39,7 +39,7 @@ Bir İş Ortağı Merkezi programına kaydolmak için Genel yönetici veya Hesap
 
 Kuruluş teşviklere uygun olduktan sonra Microsoft, kayıt işleminin başlaması için uygun MPNLocationID'nin Teşvik yöneticisine bir davet gönderir. Bu e-posta **Microsoft** İş Ortağı Merkezi gönderilir ve konu İş Ortağı Teşvik Kayıt **Daveti'ne sahip olur.** Daveti açın ve **Başlarken.**
 
-Ayrıca giriş sayfasında bir davet İş Ortağı Merkezi görebilirsiniz. Bu iletiyi bir kez daha seçerek yeniden göresiniz. Ancak Teşvik Yöneticisi, İş Ortağı Merkezi panosunda oturum açın ve sol gezinti  çubuğunda Teşvikler'in altında Genel **Bakış'ı** seçerek işlemi tamamlar. [](https://partner.microsoft.com/dashboard/) **Kaydol'u** seçin ve ardından program için ödeme ve vergi profilini tamamlar.
+Ayrıca giriş sayfasında bir davet İş Ortağı Merkezi görebilirsiniz. Bu iletiyi bir kez daha seçmeniz mümkün olmayacaktır. Ancak Teşvik Yöneticisi, İş Ortağı Merkezi panosunda oturum [İş Ortağı Merkezi](https://partner.microsoft.com/dashboard/) kutucuğunu seçerek **işlemi tamamlar.** **Kaydol'u** seçin ve ardından program için ödeme ve vergi profilini tamamlar.
 
 Bir MPN konumu için zaten varsayılan bir banka profili kurulumunuz varsa ve bir teşvik programında aynı  MPN konumu için kaydolmaya çalışıyorsanız, Kaydol'u ve daveti kabul edin'i seçerek varsayılan banka profilini karşılar. Ayrıca, bu MPN konumu için oluşturduysanız tüm kullanılabilir vergi profilleri gösterilir. Microsoft gerekli tüm banka ve vergi profili ayrıntılarına sahipse,  kaydı tamamlamak için Gönder'i seçmeniz istenir. Bkz. [Varsayılan banka profilini ayarlama.](incentives-create-and-manage-your-payout-and-tax-profiles.md#set-up-a-default-bank-profile)
 
@@ -53,7 +53,7 @@ Kayıt işlemi hakkında daha fazla bilgi için Teşvik kayıt [kılavuzunu](htt
 
 ## <a name="expiration-and-renewal"></a>Süre sonu ve yenileme
 
-Teşvik kaydı, mali yılın sonunda sona erer. Ancak etkin bir sözleşmeye sahip uygun bir iş ortağı olarak kalarak teşvik kaydınızı bir sonraki mali yıla iletecek. Teşvik programı için gereken ödeme ve vergi bilgileri, teşvik programının kurallarına uygun olarak tamamlandıktan sonra herhangi bir işlem yapmak zorunda değildir.
+Teşvik kaydı, mali yılın sonunda sona erer. Ancak etkin bir sözleşmeye sahip uygun bir iş ortağı olarak kalarak teşvik kaydınızı bir sonraki mali yıla iletecek. Teşvik programı için gereken ödeme ve vergi bilgileri teşvik programının kurallarına uygun olarak tamamlandı sürece herhangi bir işlem yapmak zorunda değildir.
 
 ## <a name="next-steps"></a>Sonraki adımlar
 

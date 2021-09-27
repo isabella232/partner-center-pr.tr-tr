@@ -5,16 +5,16 @@ ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-insights
 description: iş ortağı merkezi Analizler raporlarını görmek için gereken belirli roller hakkında bilgi edinin. Bunlar, Executive rapor Görüntüleyicisi ve rapor görüntüleyicisinin rollerini içerir.
-author: shganesh-dev
-ms.author: shganesh
+author: kshitishsahoo
+ms.author: ksahoo
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 91bb81fce340a945d9b6e43277d06156a03f1db1
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.openlocfilehash: 110fc149e422222d67c975749c1370ff8658d64a
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960184"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129074582"
 ---
 # <a name="role-based-access-control-to-the-partner-center-insights-dashboard"></a>iş ortağı merkezi Analizler panoya rol tabanlı erişim denetimi
 

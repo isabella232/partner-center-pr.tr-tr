@@ -5,16 +5,16 @@ ms.date: 06/16/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-insights
 description: İşletmenizi geliştirmenin yollarını bulun. Belirli müşteri eğilimlerini coğrafya, ürüne ve diğer özniteliklere göre görün.
-author: shthota77
-ms.author: shthota
+author: kshitishsahoo
+ms.author: ksahoo
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 327d2ddd97dc4bf226985523184407f32f7883ad
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.openlocfilehash: 1b4efb558293313933b9c89d1f44b51058ed9926
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126248495"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129074753"
 ---
 # <a name="customers-dashboard-reports-from-partner-center-insights"></a>iş ortağı merkezi Analizler müşteriler pano raporları
 

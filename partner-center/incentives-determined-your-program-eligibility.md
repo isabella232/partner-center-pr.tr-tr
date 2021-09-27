@@ -1,23 +1,23 @@
 ---
-title: Teşvikleri Program uygunluğu
-description: Teşvikleri programı için uygunluk gereksinimlerini karşıladığınızdan emin olun. Bu işlem, program kılavuzumuza uygunluk denetimini içerir.
+title: Teşvikler programı uygunluk
+description: Teşvik programı için uygunluk gereksinimlerini karşıla hazır olduğundan emin olun. Bu işlem, program kılavuzunda uygunluk denetimi içerir.
 ms.topic: how-to
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.date: 03/16/2021
-ms.openlocfilehash: 8b9442a99aaf1ed23242eb568859d3113a8262d4
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.date: 09/27/2021
+ms.openlocfilehash: b1ad332f14543d3b29b74d4b174012233a51544b
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960505"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129070469"
 ---
-# <a name="determine-your-incentives-program-eligibility"></a>Teşvikleri programınızın uygunluğunu belirleme
+# <a name="determine-your-incentives-program-eligibility"></a>Teşvik programı uygunluğunu belirleme
 
-**Uygun roller**: genel yönetici | Teşvikleri Yöneticisi
+**Uygun roller:** Genel yönetici | Teşvikler yöneticisi
 
 Her Teşvik programının uygunlukla ilgili bazı gereksinimleri vardır. Bu program uygunluğu gereksinimleri tüm uygun sözleşmeleri imzaladığınızdan, yetkinlikleri kazandığınızdan, Teşvik programınızın başarısı için gelir tahmini ve diğer gerekli önkoşulları karşıladığınızdan emin olmak amacıyla tasarlanmıştır.
 
@@ -25,7 +25,26 @@ Her Teşvik programının uygunlukla ilgili bazı gereksinimleri vardır. Bu pro
 
 Programınıza ilişkin belirli uygunluk gereksinimlerini program kılavuzunda bulabilirsiniz. 
 
-### <a name="to-see-your-program-guide"></a>Program kılavuzumuzu görmek için
+### <a name="to-see-your-program-guide"></a>Program kılavuzunızı görmek için
+
+> [!NOTE]
+> İş Ortağı Merkezi önizleme arabirimi, mantıksal olarak gruplu çalışma alanları aracılığıyla daha verimli ve üretken bir kullanıcı deneyimi sağlar. Çalışma alanları arabirimi ve bu arabirimi açma hakkında daha fazla bilgi edinmek için [bkz. İş Ortağı Merkezi.](get-around-partner-center.md#turn-workspaces-on-and-off)
+
+#### <a name="workspaces-view"></a>[Çalışma alanları görünümü](#tab/workspaces-view)
+
+1. [İş Ortağı Merkezi panosunda](https://partner.microsoft.com/dashboard/) oturum açın.
+
+2. Teşvikler **kutucuğunu** seçin.
+
+3. İstediğiniz programı seçin.
+
+4. Durum alanında **Uygunluk** **gereksinimleri'ne seçin.**
+
+   :::image type="content" source="images/incentives/eligibility.png" alt-text="Teşvik gereksinimlerine örnek olarak ekran görüntüsü.":::
+
+5. Uygunluğu karşılamak için denetlenmeyen tüm alanları tamamlama. Her teşvik programının kendi gereksinimleri vardır.
+
+#### <a name="current-view"></a>[Geçerli görünüm](#tab/current-view)
 
 1. [İş Ortağı Merkezi panosunda](https://partner.microsoft.com/dashboard/) oturum açın.
 
@@ -33,12 +52,14 @@ Programınıza ilişkin belirli uygunluk gereksinimlerini program kılavuzunda b
 
 3. İstediğiniz programı seçin.
 
-4. **Durum** alanında **uygunluk gereksinimleri**' ni seçin.
+4. Durum alanında **Uygunluk** **gereksinimleri'ne seçin.**
 
-   :::image type="content" source="images/incentives/eligibility.png" alt-text="Ekran görüntüsü teşvikleri gereksinimlerine bir örnektir.":::
+   :::image type="content" source="images/incentives/eligibility.png" alt-text="Teşvik gereksinimlerine örnek olarak ekran görüntüsü.":::
 
-5. Uygunluğu karşılamak için işaretlenmeyen tüm alanı doldurun. Her teşvikleri programı kendi gereksinim kümesine sahiptir.
+5. Uygunluğu karşılamak için denetlenmeyen tüm alanları tamamlama. Her teşvik programının kendi gereksinimleri vardır.
+
+* * *
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-- [Teşvikleri programları için ödeme ve vergi profilleri](incentives-create-and-manage-your-payout-and-tax-profiles.md)
+- [Teşvik programları için ödeme ve vergi profilleri](incentives-create-and-manage-your-payout-and-tax-profiles.md)

@@ -1,36 +1,39 @@
 ---
 title: Yeni müşteri kaydı ekleme
 ms.topic: how-to
-ms.date: 09/07/2021
+ms.date: 09/27/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-customers
-description: Yeni bir müşteri kaydı ekleme hakkında bilgi İş Ortağı Merkezi. Ardından müşteri aboneliklerini satıp faturalamayı yönetebilir veya müşteri desteği sebilirsiniz.
+description: İş Ortağı Merkezi'da yeni müşteri kaydı İş Ortağı Merkezi. Ardından müşteri aboneliklerini satıp faturalamayı yönetebilir veya müşteri desteği sebilirsiniz.
 author: parthp
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 7995ee8f4da20d80fd260bcb77665e244e448227
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.openlocfilehash: 99057daa14fc279fde2a676a315d3cc8930f88aa
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126248395"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129072423"
 ---
 # <a name="how-to-add-a-new-customer-record-in-partner-center"></a>İş Ortağı Merkezi'da yeni müşteri kaydı ekleme
 
 **Uygun roller:** Genel yönetici | Kullanıcı yönetimi yönetici | Yönetici aracısı | Satış aracısı
 
-Bu makalede, yeni bir müşterinin İş Ortağı Merkezi. Abonelikleri satmadan, faturalamayı yönetemeden veya müşteriye destek sağlaymadan önce bu adımlar gereklidir.
+Bu makalede, İş Ortağı Merkezi'da yeni müşteri ekleme hakkında bilgi İş Ortağı Merkezi. Abonelikleri satmadan, faturalamayı yönetemeden veya müşteriye destek sağlaymadan önce bu adımlar gereklidir.
 
 ## <a name="considerations"></a>Dikkat edilmesi gerekenler
 
-**Yeni bir müşteri kaydı eklerken İş Ortağı Merkezi:**
+Yeni bir müşteri kaydı eklerken İş Ortağı Merkezi:
 
 - **Doğru kayıt kimliğini kullanın:** Şirket kayıt kimliğinizi girerken, müşterinin kişisel kimliğini değil, iş verginizi kullanın.
 
 - **Bazı ülkeler için ek bilgi girin:** [Doğrudan fatura](#company-registration-id-and-phone-number-required-for-some-countries) iş ortağı veya dolaylı sağlayıcıysanız bazı ülkelerde şirket kayıt kimliği ve telefon numarası gereklidir
+
 - **Onay Microsoft Müşteri Sözleşmesi** onaylayın: Müşteri adına sipariş alamadan önce, müşteri adına sipariş [Microsoft Müşteri Sözleşmesi.](confirm-customer-agreement.md)
-- **Mevcut müşteriler  için farklı** adımlar kullanın: Çok kanallı veya Çok Kanallı [](multichannel.md) bir senaryo [](multipartner.md) aracılığıyla İş Ortağı Merkezi müşteri kayıtlarına sahip olan müşteriler de dahil olmak üzere [mevcut](request-a-relationship-with-a-customer.md)müşteriler için, buradaki adımları takip etmek yerine onlarla bir ilişki talep edin.
+
+- **Mevcut müşteriler  için farklı** adımlar kullanın: Çok kanallı veya Çok Kanallı [](multichannel.md) bir senaryo [](multipartner.md) aracılığıyla İş Ortağı Merkezi müşteri kayıtlarına sahip olan müşteriler de dahil olmak üzere [mevcut](request-a-relationship-with-a-customer.md)müşteriler için, buradaki adımları takip etmek yerine onlarla bir ilişki isteğinde bulunanlar da dahil olmak üzere.
+
 - **Ayrıntılı ve doğru müşteri bilgilerini girin:** Müşteri doğrulaması kolaylaştırmak için:
   - Resmi belgelerde görünen yasal/resmi adı tam olarak girin.
   - Kısaltmalar veya kısa formlar kullanmaktan kaçının.
@@ -59,7 +62,41 @@ Müşteri e-posta adresi girerken aşağıdakilere izin verilmez:
 
 ## <a name="to-add-a-new-customer-in-partner-center"></a>İş Ortağı Merkezi'nde yeni müşteri eklemek için
 
-1. Yeni İş Ortağı Merkezi Müşteriler'i **ve** ardından Müşteri **ekle'yi seçin.**
+#### <a name="workspaces-view"></a>[Çalışma alanları görünümü](#tab/workspaces-view)
+
+1. Panoda oturum [İş Ortağı Merkezi,](https://partner.microsoft.com/dashboard)Müşteriler **kutucuğunu** ve ardından Müşteri **ekle'yi seçin.**
+
+2. Müşteriniz bir eğitim kurumu ise eğitim [müşterisi oluşturma hakkında bilgi için bkz.](sell-to-education-customers.md).
+
+3. Hesap **bilgileri sayfasında** müşterinin ayrıntılarını ve birincil iletişim bilgilerini girin.
+   >[!IMPORTANT]
+   >İş ortaklarının aşağıdakilere onayları gerekir:
+   >
+   >Kurumsal bayi seçmeden kuruluşum dolaylı iş ortağı ve Doğrudan İş Ortağı olarak hareket ediyor olduğunu onayluyorum
+   >
+   >Bu sipariş kapsamında satın alınan ürünleri üst kuruluşuma bağlı olan diğer iş ortaklarına yeniden satışa almamamı onayluyorum
+
+   >[!NOTE]
+   >EU/EFTA yasaları, bu ülkelerde işlem yapan iş ortaklarının bir işlem içinde ilişkili ek kurumsal bayileri beyan etmek zorunda olduğunu bildirmektedir. Aşağıdaki kurallar geçerli olur:
+   >- Herhangi bir ek kurumsal bayiden önce bir ilk kurumsal bayi seçilmelidir
+   >- Ek kurumsal bayiler herhangi bir ek teşvik, teklif vb. haklara sahip olmayacaktır.
+   >- Girilen ek satıcı, uygun olduğunda doğru MPN kimliğinin girilmiş olduğundan ve kurumsal bayinin MPA'yı imzalamış olduğundan emin olmak için doğrulanır.
+   >- İşlem kapsamında en fazla 5 ek kurumsal bayi girilebilir
+
+4. Dolaylı sağlayıcıysanız, listeden bu müşterinin abonelikleriyle ilişkilendirmek istediğiniz dolaylı kurumsal bayiyi seçin.
+
+5. Gözden **Geçir'i seçin.**
+
+6. **Gönder**’i seçin.
+
+7. Abonelik eklemek için Ürün **Ekle'yi seçin.**
+
+8. Müşteri bilgilerini eklemeyi bitirdikten ve gerekli abonelikleri satın aldığınız zaman Bitti'yi **seçin.**
+
+#### <a name="current-view"></a>[Geçerli görünüm](#tab/current-view)
+
+1. İş Ortağı Merkezi [panosunda oturum açın,](https://partner.microsoft.com/dashboard)Müşteriler'i **ve** ardından Müşteri **ekle'yi seçin.**
+
 2. Müşteriniz bir eğitim kurumu ise eğitim [müşterisi oluşturma hakkında bilgi için bkz.](sell-to-education-customers.md).
 
 3. Hesap **bilgileri sayfasında** müşterinin ayrıntılarını ve birincil iletişim bilgilerini girin.
@@ -86,6 +123,8 @@ Müşteri e-posta adresi girerken aşağıdakilere izin verilmez:
 7. Gözden Geçir **sayfasında,** girdilerinizi doğruluk için denetleyin ve Gönder'i **seçin.**
 
 8. Müşteri bilgilerini eklemeyi bitirdikten ve gerekli abonelikleri satın aldığınız zaman Bitti'yi **seçin.**
+
+* * *
 
 ## <a name="company-registration-id-and-phone-number-required-for-some-countries"></a>Bazı ülkeler için gereken şirket kayıt kimliği ve telefon numarası
 
@@ -120,90 +159,90 @@ Aşağıdaki tablolarda, yukarıdaki yeni kurallar bölümünde [belirtilen öğ
 | Abbr. | Abbr. | Abbr. | Abbr. |
 | ----- | ----- | ----- | ----- |
 |" c p a" | "pty" | "l. l. c." | "gmbh" |
-| "c.p.a." | "pty ltd" | "l.l.c." | "olarak" |
-| "l.l.p." | "pte ltd" | " l l p" | "wll" |
-| "c. p. a." | "private limited" | "corp" | "lda" |
-| "l. l. p." | "pvt" | "corporation" | "sarl" |
-| " l l c" | "pvt ltd" | "inc" | "kft" |
-| "corp." | "zrt" | "incorporated" | "ltd" |
-| "llc." | "ooo" | "sınırlı" | "ltd." |
-| "llp." | "llp" | "llc" | "sdn zamand"
+| "c.p.a." | "Pty Ltd" | "l.l.c." | PLC |
+| "l.l.p." | "Pte Ltd" | "l l p" | WLL |
+| ,. p. a. " | "özel sınırlı" | Corp | "lda" |
+| girişindeki. l. p. " | Pvt | kuruluş | "SARL" |
+| "l l c" | "Pvt Ltd" | d | "Kft" |
+| "Corp." | "Zrt" | alınabilir | Ltd |
+| "LLC." | Ooo | az | "Ltd." |
+| "LLP." | "LLP" | LLC | "Sdn Bhd"
 
 ### <a name="table-of-top-level-domain-extensions"></a>En üst düzey etki alanı uzantıları tablosu
 
-| Dahili.  | Dahili.  | Dahili.  | Dahili. |
+| Leri.  | Leri.  | Leri.  | Leri. |
 | ----- | ----- | ----- | ----- |
-| .ac | .ba | .ca | .de |
-| .ad | .bb | .cc | .değnek |
-| .ae | .bd | Cd | .dk |
-| .af | .be | .cf | .dm |
-| .ag | .bf | .cg | .do |
-| Ai | .bg | .ch | .dz |
-| .al | .fare | .ci | .fm |
-| .am | .bi | .ck | .fo |
-| .an | .kanallar | .cl | Fr |
-| .ao | .bl | .cm | .ga |
-| .aq | .bm | .cn | .gb |
-| .ar | .bn | .co | .gd |
-| .as | .bo | .cr | Ge |
-| .at | .bq | .cu | .gf |
-| Au | .br | .cv | .gg |
-| .aw | .bs | .cw | .gh |
-| .ax | .bt | .cx | .gi |
-| .az | .bv | .cy | .gl |
-| .ec | .bw | .cz | .gm |
-| .ee | .by | .eu | .gn |
-| .örn. | .bz | .fi | .gp |
-| .eh | Es | .fj | .gq |
-| .er | .et | .fk | .gr |
-| .gs | .gw | .hm | .ht |
-| .gt | .skop | .hn | .hu |
-| .gu | .hk | Hr | .id |
-| .ie | .kz | .mo | .nz |
-| .il | .la | .mp | .om |
-| .im | .lb | .mq | .pa |
-| .in | .lc | .mr | .pe |
-| .io | .li | .ms | .pf |
-| .iq | .lk | .mt | .pg |
-| .ir | .lr | .mu | .ph |
-| .is | .ls | .mv | .pk |
-| .it | .lt | .mw | .pl |
-| .je | .lu | .mx | .pm |
-| .jm | .lv | .my | .pn |
-| .jo | .ly | .mz | .pr |
-| .jp | .ma | .na | Ps |
-| .ke | .mc | .nc | .pt |
-| .kg | .md | .ne | .pw |
-| .yis | .me | .nf | .py |
-| .ki | .mf | .ng | .qa |
-| .km | .mg | .ni | .re |
-| .kn | .mh | Nl | .ro |
-| .kp | .mk | .no | .rs |
-| .kr | .ml | .np | Ru |
-| .wan | .mm | .nr | .rw |
-| .ky | .mn | .nu | .sa |
-| .sb | .tf | .vc | .中国 |
-| .sc | .tg | .ve | .中國 |
-| .sd | Th | .vg | .భారత్ |
-| .se | .tj | .vi | .ලංකා |
-| .sg | .tk | .vn | .ભારત |
-| .sh | .tl | .vu | .भारतम् |
-| .si | .tm | .wf | .भारत |
-| .sj | .tn | .ws | .भारोत |
-| .sk | .to | .ಭಾರತ | .укр |
-| .sl | .tp | .한국 | .香港 |
-| .sm | .tr | .ଭାରତ | .台湾 |
-| .sn | Tt | .ভাৰত | .台灣 |
-| .so | .tv | .ভারত | .мон |
-| .sr | .tw | .சிங்கப்பூர் | .tc |
-| .ss | .tz | .sz | .td |
-| .st | .ua | .বাংলা | .uz |
-| .su | .ug | .қаз | .va |
-| .sv | .uk | .срб | .мкд |
-| .sx | .um | .бг | .ею |
-| .sy | .us | .бел | Uslu |
-| .tc | .uz | .мкд |  |
+| . AC | . ba | . ca | . de |
+| . ad | . bb | . CC | . dj |
+| . AE | . BD | . CD | . dk |
+| . AF | . | . CF | . DM |
+| . AG | . BF | . CG | . do |
+| . AI | . bg | . ch | . dz |
+| . al | . BH | . CI | . FM |
+| . har | . bi | . CK | . fo |
+| . a | . BJ | . cl | . fr |
+| . Ao | . bl | . cm | . ga |
+| . aq | . BM | . cn | . GB |
+| . ar | . milyar TL | . Co | . GD |
+| as | . Bo | . CR | . ge |
+| . at | . BQ | . cu | . GF |
+| . au | . br | . CV | . gg |
+| . aw | . BS | . FA | . gh |
+| . ax | . BT | . CX | . gi |
+| . az | . bv | . cy | . gl |
+| . EC | . siyah beyaz | . cz | . GM |
+| . Ee | tarafından | . AB | . Gn |
+| . örn. | . bz | . FI | . GP |
+| . Eh | . es | . FJ | . GQ |
+| . er | . et | . FK | . gr |
+| . gs | . GW | . hm | . ht |
+| . gt | . gy | . hn | . hu |
+| . Gu | . HK | . hr | . ID |
+| . ie | . kz | . Mo | . nz |
+| . Il | . La | . MP | . om |
+| . ım | . lb | . mq | . PA |
+| . | . LC | . Mr | . PE |
+| . IO | . li | . MS | . PF |
+| . IQ | . lk | . mt | . pg |
+| . ir | . LR | . mu | . pH |
+| . | . ls | . MV | . pk |
+| . BT | . lt | . MW | . pl |
+| . je | . lu | . MX | . PM |
+| . JM | . lv | . My | . PN |
+| . Jo | . ly | . MZ | . PR |
+| . jp | . ma | . na | . PS |
+| . ke | . mc | . NC | . pt |
+| . KG | . MD | . ne | . pw |
+| . kh | . ben | . NF | .py |
+| . ki | . MF | . NG | . qa |
+| . km | . mg | . ni | . Re |
+| . kn | . MH | . nl | . ro |
+| . KP | . MK | . Hayır | . RS |
+| . kr | . ml | . NP | . ru |
+| . kW | . dd | . NR | . RW |
+| . KY | . MN | . nu | . sa |
+| . SB | . tf | . VC | .中国 |
+| . SC | . TG | . ve | .中國 |
+| . SD | . TH | . VG | .భారత్ |
+| . o | . TJ | . VI | .ලංකා |
+| . SG | . TK | . vn | .ભારત |
+| . sh | . TL | . vu & lt | .भारतम् |
+| . si | . tm | . WF | .भारत |
+| . SJ | . TN | . ws | .भारोत |
+| . SK | . | .ಭಾರತ | .укр |
+| . SL | . TP | .한국 | .香港 |
+| . SM | . tr | .ଭାରତ | .台湾 |
+| . sn | . tt | .ভাৰত | .台灣 |
+| . bu nedenle | . TV | .ভারত | .мон |
+| . SR | . tw | .சிங்கப்பூர் | . TC |
+| . ss | . TZ | . sz | . TD |
+| . St | . ua | .বাংলা | .uz |
+| . su | . UG | .қаз | . va |
+| . ZF | . uk | .срб | .мкд |
+| . SX | . um | .бг | .ею |
+| . sy | . us | .бел | uy |
+| . TC | .uz | .мкд |  |
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-- Bulut Çözümü Sağlayıcısı programı aracılığıyla müşterilere ne satabilirsiniz hakkında daha fazla bilgi için bkz. [Bulut Çözümü Sağlayıcısı programı](csp-offers.md)
+- Bulut Çözümü Sağlayıcısı programı aracılığıyla müşterilere satım yapabilecekleriniz hakkında daha fazla bilgi için, bkz. [Bulut Çözümü Sağlayıcısı programındaki iş ortağı teklifleri](csp-offers.md).

@@ -4,16 +4,16 @@ description: İş ortağı öngörüleri analiz verilerine programlı bir şekil
 ms.topic: reference
 ms.service: partner-dashboard
 ms.subservice: partnercenter-insights
-author: shganesh-dev
-ms.author: shganesh
+author: kshitishsahoo
+ms.author: ksahoo
 ms.localizationpriority: medium
 ms.date: 07/14/2021
-ms.openlocfilehash: 36da8a59548142bf09daf42dbc936fba15d46d1e
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.openlocfilehash: 18e50ec8108f5998b57630960026d039ab68803a
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960855"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129075331"
 ---
 # <a name="sample-queries-for-partner-center-insights-report"></a>Iş Ortağı Merkezi Öngörüler için örnek sorgular raporu
 

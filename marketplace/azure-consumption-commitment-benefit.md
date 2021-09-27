@@ -6,12 +6,12 @@ ms.topic: article
 author: mingshen
 ms.author: mingshen
 ms.date: 6/02/2021
-ms.openlocfilehash: ea6683c3033b25110784896eea0ac85083b8ed9e
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.openlocfilehash: f0a5c90929e6ad304ace95b7d50e29418b873704
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126248443"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129075534"
 ---
 # <a name="azure-consumption-commitment-benefit"></a>Azure tüketim taahhüdü avantajı
 
@@ -40,7 +40,7 @@ Kuruluşunuzun uygun bir anlaşması olup olmadığını bilmiyorsanız, kurulu�
 
    > [!NOTE]
    > Bu filtre yoksa, kuruluşunuzun uygun bir taahhüt yoktur. Bunun yanlış olduğunu düşünüyorsanız lütfen Microsoft hesabı Executive ile iletişime geçin.
- 
+
 3. Teklifler, bu teklifle ilişkili yazılım/IP maliyetlerinin, kuruluşunuzda faturalandırılan tüm Azure hizmetleri üzerinde kuruluşunuzun Azure tüketim taahhüdüne katkıda bulunduğunu göstermek için **uygun olan Azure avantajına** sahip olacaktır.
 
     :::image type="content" source="media/azure-benefit/azure-benefit-eligible-badge.png" alt-text="Azure avantajı uygun rozet.":::

@@ -3,18 +3,18 @@ title: Iş Ortağı Merkezi 'nde MPN hesabı oluşturma
 ms.topic: article
 ms.date: 05/07/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-account
+ms.subservice: partnercenter-enroll
 description: Microsoft İş Ortağı Ağı üyelerin ağ avantajlarını ve uzmanlarını yönetmek için bir Iş Ortağı Merkezi hesabı nasıl oluşturabileceğinizi öğrenin.
 author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0410e8fe4239915c445125951076ff170cef3a91
-ms.sourcegitcommit: fceaca54b0ec695cf214209c09b4516e1b40866a
+ms.openlocfilehash: c354ab373b57c513f6255bcbeec8f6cb9bc5bf24
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "128366161"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129071458"
 ---
 # <a name="create-an-mpn-account-in-partner-center-to-manage-network-benefits-and-competencies"></a>Ağ avantajlarını ve Uzmanlıklar yönetmek için Iş Ortağı Merkezi 'nde bir MPN hesabı oluşturun
 
@@ -92,37 +92,37 @@ Aşağıdaki tabloda her ülke için toplanan kayıt numaralarının örnekleri 
 | **Suudi Arabistan** | [Tın](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Saudi-Arabia-TIN.pdf) – vergi kimlik numarası |
 | **Güney Afrika** | TRN – trafik kayıt numarası |
 | **Güney Sudan** | [Tın](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/) – vergi kimlik numarası |
-| **Tacikistan**  | INN – vergi kimlik numarası<br>EIN – Işveren kimlik numarası<br>KPP – bu, kuruluş kaydının nedenini yansıtan bir koddur. |
-| **Tayland** | [Tın](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/) – vergi kimlik numarası |
-| **Türkiye** | [Tın](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Turkey-TIN.pdf) – vergi kimlik numarası<br>NATANMıŞTıR |
-| **Ukrayna**  | EGRPOU<br>EDRPOU – Yerel KIMLIK |
-| **Birleşik Arap Emirlikleri** | Vergi KIMLIĞI<br>KDV [numarası](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/UAE-TIN.pdf) -KDV kayıt numarası olarak da bilinir. Bu, KDV için kaydedilen bir vergilendirilebilir kişi (iş) veya vergilendirilebilir olmayan yasal tüzel kişiliyi tanımlayan benzersiz bir sayıdır. |
-| **Birleşik Devletler** | [EIN](https://www.irs.gov/taxtopics/tc755) – işveren kimlik numarası |
-| **Özbekistan**  | INN – vergi kimlik numarası |
-| **Vietnam** | [Tın](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/) – vergi kimlik numarası |
-| **Venezuela** | RIF – bir vergi numarasıdır ("kayıt Identificación mali") |
+| **Tacikistan**  | INN – vergi kimlik numarası<br>EIN – İşveren Kimlik Numarası<br>KPP– Bu, kuruluş kaydının nedenini yansıtan bir koddur. |
+| **Tayland** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/) – Vergi Kimlik Numarası |
+| **Türkiye** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/Turkey-TIN.pdf) – Vergi Kimlik Numarası<br>NIN |
+| **Ukrayna**  | EGRPOU<br>EDRPOU – Yerel Kimlik |
+| **Birleşik Arap Emirlikleri** | Vergi Numarası<br>[KDV numarası](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/UAE-TIN.pdf) - KDV Kayıt Numarası olarak da bilinir. Bu, KDV için kayıtlı vergiye bağlı bir kişiyi (işletme) veya vergiye bağlı olmayan bir tüzel kişiyi tanımlayan benzersiz sayıdır. |
+| **Birleşik Devletler** | [EIN](https://www.irs.gov/taxtopics/tc755) – İşveren Kimlik Numarası |
+| **Özbekistan**  | INN – Vergi Kimlik Numarası |
+| **Vietnam** | [TIN](http://www.oecd.org/tax/automatic-exchange/crs-implementation-and-assistance/tax-identification-numbers/) – Vergi Kimlik Numarası |
+| **Venezuela** | RIF– bir Vergi numarasıdır ("Registro de Identificación Fiscal") |
 
 
 
-## <a name="how-to-view-account-details-or-view-and-download-the-mpn-agreement"></a>Hesap ayrıntılarını görüntüleme veya MPN sözleşmesini görüntüleme ve indirme
+## <a name="how-to-view-account-details-or-view-and-download-the-mpn-agreement"></a>Hesap ayrıntılarını görüntüleme veya MPN anlaşmasını görüntüleme ve indirme
 
-MPN kimlik bilgilerinizle Iş Ortağı Merkezi 'Nde oturum açın. Şirketinizin yasal ayrıntılarını, doğrulama durumunuzu, MPN kimliklerinizi görüntülemek ve gerekirse yeni MPN konumları oluşturmak için [**Iş ortağı profili**](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile) ' ni seçin. 
+MPN kimlik İş Ortağı Merkezi oturum açma. Şirketin [**yasal ayrıntılarını,**](https://partner.microsoft.com/pcv/accountsettings/connectedpartnerprofile) doğrulama durumunu, MPN kimliklerinizi görüntülemek ve gerekirse yeni MPN konumları oluşturmak için İş ortağı profili'ne tıklayın. 
 
-Ayrıca, MPN kimlikleri gibi diğer önemli bilgileri görüntüleyebilir, MPN konumlarını yönetebilir ve aşağıdaki ekran görüntüsünde gösterildiği gibi sol menü bağlantılarını kullanarak Microsoft Iş ortağı sözleşmesi 'ni görüntüleyebilirsiniz.
+Ayrıca, aşağıdaki ekran görüntüsünde olduğu gibi sol menü bağlantılarını kullanarak MPN kimlikleri gibi diğer önemli bilgileri ekleyebilirsiniz, MPN konumlarını yönetebilir Microsoft İş Ortağı Sözleşmesi konumlarını ekleyebilirsiniz.
 
 :::image type="content" source="images/mpn-new.png" alt-text="İş ortağı profili.":::
 
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
--  [Hesap kullanıcılarını ekleme ve bunlara izin atama](create-user-accounts-and-set-permissions.md)
+-  [Hesap kullanıcıları ekleme ve bu kullanıcılara izin atama](create-user-accounts-and-set-permissions.md)
 
 -  [Microsoft Eylem Paketi aboneliği satın alma veya yenileme](mpn-get-action-pack.md)
 
--  [Üyelik avantajlarınızı yönetin](manage-your-partner-network-benefits.md)
+-  [Üyelik avantajlarınızı yönetme](manage-your-partner-network-benefits.md)
 
--  [Altın ve gümüş üyelik için uzmanlığa yönelik gereksinimler hakkında bilgi edinin](https://partner.microsoft.com/membership/competencies)
+-  [Gold ve Silver üyeliği için uzmanlık gereksinimleri hakkında bilgi](https://partner.microsoft.com/membership/competencies)
 
 -  [Microsoft’tan müşteri adaylarını almak için iş profili oluşturma](create-a-marketing-profile.md)
 
--  [Microsoft 'tan satış fırsatlarını alın ve yönetin](manage-leads.md)
+-  [Microsoft'tan satış müşteri adaylarını al ve yönet](manage-leads.md)

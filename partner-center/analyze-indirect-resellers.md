@@ -3,18 +3,18 @@ title: Dolaylı satıcıların performansını çözümleme
 description: Dolaylı satıcılarınızın, hem başarıları hem de daha fazla ilgilenilmesi gerekebilecek alanlarında nasıl çalıştığını öğrenmek için analiz kullanın.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-insights
-author: shganesh
-ms.author: shganesh
+author: kshitishsahoo
+ms.author: ksahoo
 ms.topic: article
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 05/13/2020
-ms.openlocfilehash: a7d04e437a2546c887b40f37a7381605535e8ca9
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.openlocfilehash: d6d5b7472509e57a266bdefffc730c0a7e17d491
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126248650"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129070526"
 ---
 # <a name="use-analytics-to-analyze-the-performance-of-your-indirect-resellers"></a>Dolaylı satıcılarınızın performansını çözümlemek için Analizi kullanın
 

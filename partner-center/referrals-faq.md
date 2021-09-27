@@ -1,19 +1,19 @@
 ---
 title: Iş Ortağı Merkezi başvuruları hakkında sık sorulan sorular
 ms.topic: article
-ms.date: 09/07/2021
+ms.date: 09/27/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-referrals
 description: Iş Ortağı Merkezi başvuruları hakkında sık sorulan sorular
 author: vikramb
 ms.author: vikramb
 ms.localizationpriority: medium
-ms.openlocfilehash: 417fe4c3804a2ebcbcc7ac280ffd62e26a624a14
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.openlocfilehash: 2fa7ed91e4ff2dd1dbab3fc89e4acdcbc61c9141
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126248292"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129070769"
 ---
 # <a name="frequently-asked-questions-on-referrals"></a>Başvurular hakkında sık sorulan sorular
 

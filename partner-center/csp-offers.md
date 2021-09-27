@@ -1,131 +1,170 @@
 ---
 title: CSP programında iş ortağı teklifleri
 ms.topic: article
-ms.date: 02/18/2021
+ms.date: 09/27/2021
 ms.service: partner-dashboard
-ms.subservice: partnercenter-csp
-description: Bir CSP program ortağı olarak, Microsoft bulut hizmetleri 'nin büyüyen Kataloğu hakkında bilgi edinin ve müşterilere satış olanağı sunmanıza olanak sağlar.
+ms.subservice: partnercenter-pricing
+description: CSP programı iş ortağı olarak, müşterilere satabilirsiniz Microsoft bulut hizmetleri ve tekliflerinin giderek büyüyen kataloğu hakkında bilgi edinebilirsiniz.
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 748aeb10538e794e6e47c495c8337e3fb43daf15
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.openlocfilehash: 4add716fe5fa5e5d9e3f9c027791c01bb61d9335
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960104"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129072238"
 ---
 # <a name="overview-of-partner-offers-in-the-cloud-solution-provider-program"></a>Bulut Çözümü Sağlayıcısı programında sunulan iş ortağı tekliflerine genel bakış
 
-**Uygun roller**: yönetici Aracısı | Genel yönetici | Satış Aracısı
+**Uygun roller:** Yönetici aracısı | Genel yönetici | Satış aracısı
 
-Bulut Çözümü Sağlayıcısı programındaki (CSP) Microsoft iş ortakları, sunulan tekliflerin sunduğu bir katalog kataloğuna sahiptir. [Microsoft bulut hizmetlerinin](https://partner.microsoft.com/cloud-solution-provider/products-and-services)tam aralığını ve sık değişen çeşitli diğer teklifleri satın alabilirsiniz. Geçerli aya yönelik CSP tekliflerini görmek için Iş Ortağı Merkezi ' nde oturum açın ve ardından [**fiyatlandırma ve teklifler**](https://partnercenter.microsoft.com/pcv/sales) sayfasına gidin.  
+Bulut Çözümü Sağlayıcısı programı (CSP) bünyesindeki Microsoft iş ortaklarının, giderek büyüyen bir teklif kataloğu vardır. Microsoft bulut hizmetlerinin ve sık sık [değişen](https://partner.microsoft.com/cloud-solution-provider/products-and-services)diğer çeşitli tekliflerin tamamını satabilirsiniz. Geçerli aya göre CSP tekliflerini görmek için, İş Ortağı Merkezi [oturum açın](https://partner.microsoft.com/dashboard) ve Fiyatlandırma **kutucuğunu** seçin.  
 
-Bulut Çözümü Sağlayıcısı programa henüz kaydolmadınız mı? kaydetme hakkında daha fazla ayrıntı için [Bulut Çözümü Sağlayıcısı](https://partner.microsoft.com/cloud-solution-provider) ziyaret edin. 
+Henüz Bulut Çözümü Sağlayıcısı mı? Kayıt [Bulut Çözümü Sağlayıcısı](https://partner.microsoft.com/cloud-solution-provider) hakkında daha fazla bilgi için aşağıdaki web sitesini ziyaret edin.
 
->[!NOTE]
->31 Ocak 2020 itibariyle tüm müşterilerin Microsoft Müşteri anlaşmasını imzalamasıyla aynı olması gerekir. Bu, mevcut müşterilerinizi ve yenilerini içerir. Daha fazla bilgi edinmek için [Microsoft Müşteri sözleşmesinin müşteri kabulünü Onayla](confirm-customer-agreement.md) makalesini okuyun
+> [!NOTE]
+> 31 Ocak 2020'den itibaren tüm müşterilerin Microsoft Müşteri Sözleşmesi. Buna mevcut müşterileriniz ve yeni müşterileriniz dahildir. Daha fazla bilgi edinmek için Müşteri [kabulünü onaylama makalesi Microsoft Müşteri Sözleşmesi](confirm-customer-agreement.md)
 
 ## <a name="what-you-can-sell-through-csp"></a>CSP aracılığıyla satabilecekleriniz
 
-Şu anda, CSP müşterileriniz için aşağıdaki ürün ve hizmet türlerini satın alabilirsiniz:
+Şu anda CSP müşterilerinize aşağıdaki ürün ve hizmet türlerini satabilirsiniz:
 
 ### <a name="azure-reservations"></a>Azure rezervasyonları
 
-   Müşteriler, 1 veya 3 yıllık bir dönem için Azure sanal makinelerinde önceden alan ayırabilirsiniz.
+Müşteriler, Azure sanal makinelerde 1 veya 3 yıllık bir süre için önceden alan yedekler.
 
-   daha fazla bilgi için bkz. [Microsoft Azure ayrılmış VM örnekleri satma](azure-reservations.md).
+Daha fazla bilgi için [bkz. Microsoft Azure Vm Örneklerini Satma.](azure-reservations.md)
 
 ### <a name="software"></a>Yazılım
 
-   müşteriler, 1 veya 3 yıllık bir dönem için Windows sunucuya ve SQL Server Azure ayrılmış VM örneklerinde çalışacak şekilde yazılım abonelikleri satın alabilir.
+Müşteriler Yazılım abonelikleri satın alabilir (Azure ayrılmış VM Windows SQL Server çalıştırmak için 1 veya 3 yıllık bir süre boyunca Windows Server ve SQL Server hizmetine) satın alabilir.
 
-   Daha fazla bilgi için bkz. [CSP aracılığıyla yazılım abonelikleri satma](csp-software-subscriptions.md).  
+Daha fazla bilgi için [bkz. CSP aracılığıyla yazılım abonelikleri satma.](csp-software-subscriptions.md)  
 
 ### <a name="online-services"></a>Çevrimiçi hizmetler
 
-*Çevrimiçi hizmetler* , *abonelikler* olarak satın alınır. Birden çok ürün türünü tek bir yerde sıralanmasını kolaylaştırmak için "Abonelik Ekle" görev akışını "Ürün Ekle" görev akışına tümleştirdik.
+*Çevrimiçi hizmetler,* şu anda abonelik olarak adlandırılan yeni *addır.* Tek bir yerde birden çok ürün türü sipariş etmenizi kolaylaştırmak için "abonelik ekle" görev akışını "ürün ekle" görev akışıyla tümleştirildik.
 
-Daha fazla bilgi için bkz. [Müşteri abonelikleri](customer-subscriptions.md).
-   
-> [!NOTE] 
-> Yeni ticaret değişiklikleri şu anda yalnızca M365/D365 yeni ticaret deneyimi teknik önizlemesinin parçası olan iş ortakları tarafından kullanılabilir.
+Daha fazla bilgi için [bkz. Müşteri abonelikleri.](customer-subscriptions.md)
 
-Yeni ticari deneyim teklifleri, *geleneksel* çevrimiçi hizmet aboneliklerinden çeşitli yollarla farklılık gösterir. Bu yeni ticaret deneyimleri hakkında daha fazla bilgi için [Yeni ticaret deneyimlerini genel bakış](new-commerce-license-based.md)makalesini okuyun.
+### <a name="software-as-a-service-saas-and-other-azure-marketplace-products"></a>Hizmet Olarak Yazılım (SaaS) ve diğer [Azure Market](https://azuremarketplace.microsoft.com/marketplace) ürünleri
 
-### <a name="software-as-a-service-saas-and-other-azure-marketplace-products"></a>Hizmet olarak yazılım (SaaS) ve diğer [Azure Market](https://azuremarketplace.microsoft.com/marketplace) ürünleri
+Bağımsız Yazılım Satıcılarından (ISV) SaaS ürünlerine abonelik satabilirsiniz. Çevrimiçi hizmetlerde yalnızca SaaS **tekliflerini görmek için,** iş ortağı olarak ayarlamak **Publisher** **kullanın.** Bu, ilgili müşteri için satın alınacak tüm SaaS tekliflerini gösterir.
 
-   Bağımsız yazılım satıcıları (ISV) ile SaaS ürünlerine abonelik satabilirsiniz. **çevrimiçi hizmetlerde** yalnızca SaaS tekliflerini görmek için, **Publisher** **iş ortağına** ayarlamak için filtreleri kullanın. Bu, söz konusu müşteri için satın alınabilecek tüm SaaS tekliflerini gösterir.
+Bu ürünlerle ilgili bilgileri Market **sayfasında** da bulabilirsiniz.
 
-   **Market** sayfasında bu ürünlerle ilgili bilgileri de bulabilirsiniz.
+> [!NOTE]
+> Bu sayfa ayrıca, üründen satın almaları gereken diğer ürün türleri hakkında bilgi Azure portal, İş Ortağı Merkezi.
 
->[!NOTE] 
->Bu sayfada Ayrıca Iş ortağı merkezi değil Azure portal satın alınması gereken diğer ürün türleri hakkında bilgiler de yer alır.
+Daha fazla bilgi için [bkz. CSP ticari markete genel bakış](CSP-commercial-marketplace-overview.md)
 
-Daha fazla bilgi için bkz [. CSP ticari Market 'e genel bakış](CSP-commercial-marketplace-overview.md)
+## <a name="add-products-page-details"></a>Ürün sayfası ayrıntılarını ekleme
 
-## <a name="add-products-page-details"></a>Ürün Ekle sayfa ayrıntıları
+Aşağıdaki liste, Ürün ekle sayfasındaki yeni alanların **her birini** tanımlar.
 
-Aşağıdaki liste, **Ürün Ekle** sayfasındaki yeni alanların her birini tanımlar.
+**Ürün ekle** - Bu sayfa müşterilerinize satabilirsiniz tüm ürün türlerini içerir
 
-**Ürün Ekle** -Bu sayfa, müşterilerinize satış yapmanız için kullanabileceğiniz tüm ürün türlerini içerir
+**Ürün kategorileri**  -  **Azure, Çevrimiçi hizmetler, Yazılım** Yalnızca bu ürünleri görüntülemek için ilgilendiğimiz ürün türünü seçin
 
-**Ürün kategorileri**  -  **Azure, çevrimiçi hizmetler, yazılım** Yalnızca bu ürünleri göstermek için ilgilendiğiniz ürün türünü seçin
+**Segment** - Satış yapmak istediğiniz genel iş türünü (ticari veya kamu gibi) tanımlar
 
-**Segment** -satış yapmak istediğiniz genel iş türünü (örneğin, ticari veya kamu) tanımlar
+**Publisher** - Microsoft veya üçüncü taraf yayımcılar tarafından oluşturulan uygulamalar gibi görmek istediğiniz ürün türlerini seçin
 
-**Publisher** -hangi ürün türlerini görmek istediğinizi seçin-Microsoft tarafından veya üçüncü taraf yayımcılar tarafından oluşturulan uygulamalar
+**Faturalama türü** - Ürünün lisans sayısı veya kullanım için faturalandır mı olduğunu tanımlar
 
-**Faturalandırma türü** -ürünün lisans sayısı veya kullanım için faturalandırıldığını belirler
+**Kategori** - Ürünün desteklediği işletme türünü ve deneme sürümü olup olmadığını tanımlar
 
-**Kategori** -ürünün desteklediği iş türünü ve bir deneme sürümü olup olmayacağını tanımlar
-
-Ürün ve SKU listeleri arasında geçiş yapmak için **SKU 'Yu görüntüleyin, ürünü görüntüleyin** -seçin. **Ürünler** sayfası her bir ürünü ayrı ayrı listeler; **SKU** listesi ürün grupları.
+**SKU'ları görüntüleme, ürünü görüntüleme** - Ürün ve SKU listeleri arasında geçiş yapmak için seçin. Ürünler **sayfası** her ürünü ayrı ayrı listeler; **SKU,** ürün gruplarını listeler.
 
 ## <a name="buy-csp-offers"></a>CSP teklifleri satın alma
 
-Ürün ve Hizmetleri CSP müşterileriniz adına satın almak için, müşterinin istediği öğeleri seçin, bir sipariş oluşturan ve ardından siparişi inceleyip siparişi teslim edin. Genel işlem aşağıda açıklanmıştır. (Belirli bir ürün türünün siparişleri hakkında daha fazla bilgi için yukarıdaki bağlantılara bakın.)
+> [!NOTE]
+> İş Ortağı Merkezi önizleme arabirimi, mantıksal olarak gruplu çalışma alanları aracılığıyla daha verimli ve üretken bir kullanıcı deneyimi sağlar. Çalışma alanları arabirimi ve bu arabirimi açma hakkında daha fazla bilgi edinmek için [bkz. İş Ortağı Merkezi.](get-around-partner-center.md#turn-workspaces-on-and-off)
 
->[!NOTE]
->CSP teklifinin hem kiracı ülkenizde hem de müşterinizin kiracı ülkesindeki kullanılabilir olması gerekir. örneğin, kiracınız slovakya 'de bulunuyorsa ve müşterinin kiracısı almanya 'daysa, bu teklif şu anda slovakya 'de kullanılamadığından, bu müşteriye Dynamics 365 iş merkezi Premium satmanız mümkün olmayacaktır.
+#### <a name="workspaces-view"></a>[Çalışma alanları görünümü](#tab/workspaces-view/)
 
-1. Iş Ortağı Merkezi menüsünden **müşteriler** ' i seçin ve sonra satın almak isteyen müşteriyi bulun. 
+CSP müşterileriniz adına ürün ve hizmet satın almak için müşterinin istediği öğeleri seçer, bunları sepetinize ekler, bir sipariş oluşturur ve ardından siparişi gözden geçirip gönderin. Genel işlem aşağıda açıklanmıştır. (Belirli bir ürün türüne ilişkin siparişler hakkında daha fazla bilgi için yukarıdaki bağlantılara bakın.)
 
-2. Müşterinin kaydını genişletmek için müşterinin satırının sonundaki aşağı oku seçin ve ardından **Ürün Ekle**' yi seçin. Bu aşamadan sonra siparişi oluşturuyorsunuz. Sipariş farklı türlerde çeşitli öğeler içerebilir ama hepsinin aynı müşteri için olması gerekir.
+> [!NOTE]
+> CSP teklifinin hem kiracı ülkede hem de müşterinizin kiracı ülkede kullanılabilir olması gerekir. Örneğin, kiracınız Almanya'da bulunuyorsa ve müşterinin kiracısı Almanya'da bulunuyorsa, dynamics 365 Business Central Premium'i bu müşteriye satamıyoruz çünkü bu teklif şu anda Teklif'te mevcut değildir.
 
-3. **Ürün Ekle** sayfasında **Azure**, **çevrimiçi hizmetler** veya **yazılımlar**' ı seçin.
+1. İş Ortağı Merkezi panosundan Müşteriler **kutucuğunu** seçin ve ardından satın almak istediğiniz müşteriyi bulun.
 
-4. Aradığınız ürünleri daha kolay bulmak için kullanılabilir filtreler üzerinde ince ayar yapın. Kullanılabilir öğeleri tam listesini görmek için, uygulanabilir filtreleri **herhangi** birine ayarlayın.
+2. Müşterinin kaydını genişletmek için müşterinin satırın sonundaki aşağı oku seçin ve ardından Ürün **ekle'yi seçin.** Bu aşamadan sonra siparişi oluşturuyorsunuz. Sipariş farklı türlerde çeşitli öğeler içerebilir ama hepsinin aynı müşteri için olması gerekir.
 
-5. Müşterinin istediği ürünü seçin, istenen miktarı girin ve ardından **Sepete Ekle**' yi seçin.
+3. Ürün **ekle sayfasında** **Azure,** Çevrimiçi hizmetler veya **Yazılım'ı** **seçin.**
 
-6. Tüm gerekli öğeleri sepetinize ekleyinceye kadar 4. ve 5. adımları tekrarlayın. Siparişinizin doğru olduğunu doğrulamak için **gözden geçir** ' i seçin.  
+4. Aradığınız ürünleri daha kolay bulmak için kullanılabilir filtrelerde ince ayar yapabilirsiniz. Kullanılabilir olanların tam listesini görmek için geçerli filtreleri herhangi bir olarak **ayarlayın.**
 
-7. **Siparişlerinizi gözden geçirin** sayfasında, ürünleri ve miktarı doğrulayın veya değiştirin ve ardından siparişi satın almak Için **satın al** ' ı seçin.
+5. Müşterinin istediği ürünü seçin, istediğiniz miktarı girin ve sepete **ekle'yi seçin.**
 
-8. Sipariş numaranız dahil olmak üzere siparişinizin ayrıntıları sonraki sayfada görüntülenir. **Sipariş geçmişi** sayfanıza gitmek için **bitti** ' yi seçin.
+6. Sepetinize gerekli tüm öğeleri ekleyene kadar 4. ve 5. adımları tekrarlayın. Siparişinizin **doğru** olduğunu doğrulamak için Gözden geçir'i seçin.  
 
-### <a name="customer-order-history"></a>Müşteri sipariş geçmişi
+7. Siparişlerinizi **gözden geçirme sayfasında** ürünleri ve miktarı doğrulayın veya değiştirerek siparişi satın almak için **Satın** Al'ı seçin.
 
-Müşterinin sıra geçmişini görüntülemek için:
+8. Sipariş numaranız da dahil olmak üzere siparişinizin ayrıntıları sonraki sayfada görüntülenir. Sipariş **geçmişi** sayfanıza gitmek için **Bitti'yi** seçin.
+
+Müşterinin sipariş geçmişini görüntülemek için:
 
 1. İş Ortağı Merkezi [panosunda](https://partner.microsoft.com/dashboard/home) oturum açın.
-2. Sol taraftaki menüde **müşteriler**' i seçin.
-3. **Müşteriler** sayfasında, sipariş geçmişini görüntülemek istediğiniz müşteriyi bulun. Müşterinin kaydını genişletmek için aşağı oku seçin.
-4. Müşterinin sıra geçmişini görüntülemek için **siparişleri görüntüle** ' yi seçin.
- 
+
+2. Müşteriler **kutucuğunu** seçin.
+
+3. Müşteriler **sayfasında,** sipariş geçmişini görüntülemek istediğiniz müşteriyi bulun. Müşterinin kaydını genişletmek için aşağı oku seçin.
+
+4. Müşterinin **sipariş geçmişini** görüntülemek için Siparişleri görüntüle'yi seçin.
+
+#### <a name="current-view"></a>[Geçerli görünüm](#tab/current-view/)
+
+CSP müşterileriniz adına ürün ve hizmet satın almak için müşterinin istediği öğeleri seçer, bunları sepetinize ekler, bir sipariş oluşturur ve ardından siparişi gözden geçirip gönderin. Genel işlem aşağıda açıklanmıştır. (Belirli bir ürün türüne ilişkin siparişler hakkında daha fazla bilgi için yukarıdaki bağlantılara bakın.)
+
+> [!NOTE]
+> CSP teklifinin hem kiracı ülkede hem de müşterinizin kiracı ülkede kullanılabilir olması gerekir. Örneğin, kiracınız Almanya'da bulunuyorsa ve müşterinin kiracısı Almanya'da bulunuyorsa, dynamics 365 Business Central Premium'i bu müşteriye satamıyoruz çünkü bu teklif şu anda Teklif'te mevcut değildir.
+
+1. Panodan İş Ortağı Merkezi **Müşteriler'i** seçin ve ardından satın almak istediğiniz müşteriyi bulun.
+
+2. Müşterinin kaydını genişletmek için müşterinin satırın sonundaki aşağı oku seçin ve ardından Ürün **ekle'yi seçin.** Bu aşamadan sonra siparişi oluşturuyorsunuz. Sipariş farklı türlerde çeşitli öğeler içerebilir ama hepsinin aynı müşteri için olması gerekir.
+
+3. Ürün **ekle sayfasında** **Azure,** Çevrimiçi hizmetler veya **Yazılım'ı** **seçin.**
+
+4. Aradığınız ürünleri daha kolay bulmak için kullanılabilir filtrelerde ince ayar yapabilirsiniz. Kullanılabilir olanların tam listesini görmek için geçerli filtreleri herhangi bir olarak **ayarlayın.**
+
+5. Müşterinin istediği ürünü seçin, istediğiniz miktarı girin ve sepete **ekle'yi seçin.**
+
+6. Sepetinize gerekli tüm öğeleri ekleyene kadar 4. ve 5. adımları tekrarlayın. Siparişinizin **doğru** olduğunu doğrulamak için Gözden geçir'i seçin.  
+
+7. Siparişlerinizi **gözden geçirme sayfasında** ürünleri ve miktarı doğrulayın veya değiştirerek siparişi satın almak için **Satın** Al'ı seçin.
+
+8. Sipariş numaranız da dahil olmak üzere siparişinizin ayrıntıları sonraki sayfada görüntülenir. Sipariş **geçmişi** sayfanıza gitmek için **Bitti'yi** seçin.
+
+Müşterinin sipariş geçmişini görüntülemek için:
+
+1. İş Ortağı Merkezi [panosunda](https://partner.microsoft.com/dashboard/home) oturum açın.
+
+2. Sol menüde Müşteriler'i **seçin.**
+
+3. Müşteriler **sayfasında,** sipariş geçmişini görüntülemek istediğiniz müşteriyi bulun. Müşterinin kaydını genişletmek için aşağı oku seçin.
+
+4. Müşterinin **sipariş geçmişini** görüntülemek için Siparişleri görüntüle'yi seçin.
+
+* * *
+
 ## <a name="rules-for-special-segments"></a>Özel segmentler için kurallar
 
-Lisans tabanlı bazı teklifler yalnızca belirli koşullar altında satın alınabilir. özel segment, eğitim, kar olmayan veya Government Community Cloud (GCC) tekliflerini içerir. Bu satın alma koşulları hakkındaki ayrıntılar, [özel segmentler için satın alma kuralları konusunda](get-special-pricing-for-offers.md#purchase-rules-for-special-segments)bulunabilir.
+Bazı lisans tabanlı teklifler yalnızca belirli koşullar altında satın alınabilir. Özel segment teklifleri Eğitim, Kar Amacı Gütmeyen veya Government Community Cloud (GCC) teklifleridir. Bu satın alma koşullarıyla ilgili ayrıntılar, özel [segmentler için satın alma kuralları konusunda bulunabilir.](get-special-pricing-for-offers.md#purchase-rules-for-special-segments)
 
-## <a name="troubleshooting-catalog-purchases"></a>Katalog satın alma sorunlarını giderme
+## <a name="troubleshoot-catalog-purchases"></a>Katalog satın alma sorunlarını giderme
 
 Aradığınız teklifin katalogda bulunmamasının farklı nedenleri olabilir. Aşağıda, bekleeceğiniz teklifi bulamadıysanız denetlenecek noktalar verilmiştir.
 
 - **Müşterinizin gerekli nitelikleri karşıladığından emin olun**. Birçok teklifin müşterilere satılabilmesi için özel niteliklerin sağlanması gerekir. bu özel segmentler arasında eğitim, kar amacı ve Government Community Cloud (GCC) bulunur. Sorun girişi yapmadan önce müşterinin niteliklerinin uygun olarak ayarlandığından emin olun. Müşteriyi müşteri listesinden seçerek ve hesabı görüntüleyerek bunu kontrol edebilirsiniz. Hesap uygunsa Özel Nitelik durumu belirtilmiş olur. Eğitim sürümünü gerekli niteliklere sahip olmayan bir müşteriye satmaya çalışıyorsanız ilgili teklifleri katalogda göremezsiniz. Müşterilerinizi nitelendirme hakkında daha fazla bilgi için bkz. [özel segmentler belgeleri](get-special-pricing-for-offers.md).
+
 - **Eklenti mi yoksa Temel teklif mi satın almaya çalıştığınızı belirleyin**. Microsoft 365 ve Dynamics 365 gibi lisans tabanlı hizmetlerden birçoğu, temel tekliflerde ve eklentilerde bulunan katalog satın alımlarınızı etkinleştirir. Katalogdan yalnızca temel teklifler satın alınabilir. Eklentileri satın almak için, ilk olarak katalogda temel teklifi satın aldığınızdan emin olun ve müşteri listesinden müşteriyi seçin ve ardından temel teklif için aboneliği seçin. Eklentiler, abonelik yönetimi sayfasından temel teklife uygulanabilir. 
+
 - **Ürünlerin pazarınızda kullanılabileceğinden emin olun**. Birçok ürün ve hizmet yalnızca belirli ülkelerde satılmak üzere yapılandırılmıştır. Desteklenen ülkelerin listesini ürünlere özgü fiyat listesi dosyalarında bulabilirsiniz. Ülkelerde desteklenen lisans tabanlı hizmetler, fiyatlandırma ve teklifler sayfasının Teklif Listesi Tablosu bölümünde yer alır.
+
 - **Tekliflerin fiyat listesinde mevcut olduğundan emin olun**. Kullanılabilir teklif listesi aydan aya değişebilir. Katalogda bir teklif bulamazsanız, **satışın > fiyatlandırma ve teklifler** sayfasındaki geçerli fiyat listelerinde mevcut olduğunu doğrulayın.
 
 ### <a name="recommended-documents-related-to-purchasing-items-in-the-partner-center"></a>Iş Ortağı Merkezi 'nde öğe satın alma ile ilgili önerilen belgeler
@@ -138,6 +177,6 @@ Aradığınız teklifin katalogda bulunmamasının farklı nedenleri olabilir. A
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-Faturalama işleminin nasıl çalıştığını görmek için bkz. [Faturalama ile ilgili temel bilgiler.](billing-basics.md)
+- Faturalandırma sürecinin nasıl çalıştığı hakkında bilgi için bkz. [faturalandırma temelleri](billing-basics.md).
 
-Azure planı kapsamında satın alma hakkında bilgi için [bkz. Azure planını satın alma.](purchase-azure-plan.md)
+- Azure planının altında satın alma hakkında bilgi için bkz. [Azure planını satın alma](purchase-azure-plan.md).

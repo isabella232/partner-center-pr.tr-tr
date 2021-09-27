@@ -1,85 +1,81 @@
 ---
-title: Yeni ticari promosyonlar
+title: Yeni ticaret promosyonları
 ms.topic: article
 ms.date: 09/24/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-pricing
-description: Promosyonları keşfetmeye ve satın almaya yönelik yeni ticari deneyimler hakkında bilgi edinin.
+description: Promosyon ve satın alma promosyonları için yeni ticari deneyimler hakkında bilgi edinin.
 author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8abd34ff7cc47edf59be6532dcc7e9c7e0dd1533
-ms.sourcegitcommit: dd900161830c59bcf3c5d700d524436ee05cd987
+ms.openlocfilehash: b5b4e3ec2ef4c37b742102d287e5eddd93690fdb
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "128714156"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129075169"
 ---
-# <a name="introduction-new-commerce-promotions"></a>Giriş: Yeni ticari promosyonlar
+# <a name="introduction-new-commerce-promotions"></a>Giriş: yeni ticaret promosyonları
 
 **Uygun roller**
 
-- Yönetici aracısı
-- Satış aracısı
+- Yönetim Aracısı
+- Satış Aracısı
 - Genel yönetici
 
 > [!Note] 
-> Yeni ticaret deneyimi değişiklikleri şu anda yalnızca Microsoft 365/Dynamics 365 yeni ticaret deneyimi teknik önizlemesinde yer alan iş ortakları tarafından kullanılabilir.
+> yeni ticari deneyim değişiklikleri şu anda yalnızca Microsoft 365/dynamics 365 yeni ticaret deneyimi technical preview 'ın parçası olan iş ortakları tarafından kullanılabilir.
 
-Microsoft, yeni ticarette promosyonları destekleyecektir. Bu promosyonların indirim miktarları ve süreleri değişiklik gösterir. 
+Microsoft, yeni ticaret 'daki yükseltmeleri destekleyecektir. Bu promosyonlar, farklı indirim miktarları ve sürelerine sahip olacaktır. 
 
-## <a name="discovering-promotions"></a>Promosyonları bulma ##
+## <a name="discovering-promotions"></a>Promosyonlar bulunuyor ##
 
-İş ortakları, promosyonlar biriktirme listesi ziyaret ederek veya getPromotions API'sini çağırarak promosyonları keşfeder. Promosyonlar biriktirme listesi, iş ortaklarının bilmek zorunda olduğu kullanılabilir promosyonların Bir Microsoft listesidir. Liste editoryal olarak korunur ve aylık olarak güncelleştirilir. 
-
-
-## <a name="operationalize-promotions"></a>Yükseltmeleri faaliyete geçirmek ##
-
-İş ortakları, getPromotions API'sini kullanarak yükseltmeleri faaliyete geçirebilirsiniz. Bu API, belirli bir pazar (müşterinin ülkesi) ve segmenti için mevcut olan tüm promosyonları döndürür. API, iş ortağının farklı ülkelerdeki müşteriler için hangi promosyonların kullanılabilir olduğunu an etmesinde yardımcı olmak için promosyonların ve önemli bilgilerin listesini döndürür. 
+İş ortakları, yükseltmeler biriktirme listesini ziyaret ederek veya Getpromosyonlar API 'sini çağırarak yükseltmeleri bulabilir. Promosyonlar biriktirme listesi, iş ortaklarının hakkında bilgi sahibi olması gereken mevcut promosyonlar için Microsoft listesidir. Liste, aylık olarak korunur ve güncelleştirilir. 
 
 
-getPromotions API'si, verilen bir yükseltme için aşağıdaki verileri içerir:
+## <a name="operationalize-promotions"></a>İşlem yükseltmeleri ##
 
-- Yükseltme süresi
+İş ortakları, Getpromosyonlar API 'sini uygulayarak yükseltmeleri gerçekleştirebilir. Bu API, belirli bir Pazar (müşterinin ülkesi) ve segmenti için mevcut olan tüm yükseltmeleri döndürür. API, iş ortağının farklı ülkelerdeki müşteriler için hangi promosyonların kullanılabildiğini anlamalarına yardımcı olmak için promosyon ve önemli bilgilerin listesini döndürür. 
+
+
+Getpromosyonlar API 'SI, belirli bir yükseltme için aşağıdaki verileri içerir:
+
+- Promosyon süresi
 - Promosyon için yüzde indirimi
-- Promosyon için kullanılabilen ürünler ve SU'lar
+- Promosyon için sunulan ürünler ve SKU 'Lar
 
-Promosyonlar, iş ortağı, promosyon için kullanılabilir olan ürün SKU'larını satın alan iş ortağı merkezi tarafından uygulanır. İş ortağı promosyonları, ürün SKU ayrıntılarında iş ortağı merkezi kataloğu kullanıcı arabiriminde kullanılabilir. Yükseltme hakkında daha fazla bilgi almak için "Yükseltme ayrıntılarını görüntüle"ye tıklarlar. Promosyon ayrıntılarını görüntüleme özelliğine katalog sayfasından SKU ayrıntılarını, satın alma göndermeden önceki inceleme sayfasından, sipariş gönderildikten sonra gelen onaydan ve sipariş geçmişi sayfasından erişilebilir. 
+Promosyonlar, iş ortağı tarafından promosyon Ürün SKU 'SU satın aldığında, iş ortağı Merkezi tarafından uygulanır. İş ortağı yükseltmeleri, Ürün SKU 'sunda iş ortağı merkezi kataloğu Kullanıcı arabiriminde bulunabilir. Yükseltme hakkında daha fazla bilgi almak için "promosyon ayrıntılarını görüntüleme" seçeneğine tıklamaları gerekebilir. Yükseltme ayrıntılarını görüntüleyebilme, Katalog sayfasından, satın alma işlemi gönderilmeden önce gözden geçirme sayfasından, Sipariş gönderildikten sonra yapılan onay sayfasından ve sipariş geçmişi sayfasından erişilebilir. 
 
-## <a name="verify-eligibility"></a>Uygunluğu doğrulama ##
+## <a name="verify-eligibility"></a>Uygunluğu doğrula ##
 
-İş ortakları, ürünü satın almadan önce iş ortağı merkezinde bulunan inceleme sayfasındaki bilgileri görerek müşterinin satın almalarının promosyon için uygun olup olmadığını sıntlar. İş ortakları ayrıca müşteri kiracı kimliğini ve yükseltme kimliğini geçerek verifyPromotionEligibility API'sini çağırabilirsiniz. Müşteri uygunsa çağrı true döndürür. Müşteri uygun değilse API, yükseltmenin geçerli olması için karşılanmayacak koşulları döndürür. 
+İş ortakları, ürünü satın almadan önce iş ortağı Merkezi ' nde İnceleme sayfasındaki bilgileri görerek bir promosyon için uygun olup olmadığını görüntüleyebilir. İş ortakları Ayrıca, Verifypromotionuygunluk API 'sini çağırıp müşteri kiracı KIMLIĞINI ve yükseltme KIMLIĞINI geçirerek. Müşteri uygun olduğunda çağrı true değerini döndürür. Müşteri uygun değilse, API, yükseltmenin geçerli olması için karşılanmayan koşulları döndürür. 
 
-İş ortakları uygunluk doğrulamayı çağırarak sonuçları geri alabiliyor. Uygunluk hataları, bir müşterinin ürün SKU'suyla kaç kez promosyon uygulanabiliyorsa, seat sayılarına, uyumsuz terimlere veya sınırlara bağlı olabilir.
+İş ortakları, doğrulama uygunluğunu çağırıp sonuçları geri alabilir. Uygunluk hataları, bir yükseltmenin bir müşterinin Ürün SKU 'suna kaç kez uygulanabileceğini, uyumsuz koşulları veya kullanıcı sayısını temel alabilir.
 
 >[!IMPORTANT]
-> İş ortaklarının bir işlem göndermeden önce yükseltmeleri doğrulamaları gerekir. İş İş Ortağı Merkezi gözden  geçirme sayfasında, iş ortakları bir yükseltme görmüyorsa, işlemde uygulanmaz, iş ortağı promosyon olmayan fiyatı alır. İş ortakları, bir işlem göndermeden önce yükseltmenin mevcut olup olduğunu görmek için sepet satır öğesi API'sine de bakabilirsiniz. İş ortakları, müşteri ürün sku bileşiminin yükseltmeye uygun olduğunu ve uygun olmadığını doğrulamak için işlemleri göndermeden önce doğrulama yükseltmeleri API'sini çağırarak uygun olmayan nedenleri tespit edilebilir.
+> İş ortaklarının, bir işlem göndermeden önce yükseltmeleri doğrulaması gerekir. İş Ortağı Merkezi *İnceleme sayfasında* , iş ortakları bir yükseltme görmediğinden, bu işlem işleme uygulanmaz, iş ortağı yükseltme olmayan fiyatı alır. İş ortakları Ayrıca, bir işlemi göndermeden önce yükseltmenin mevcut olup olmadığını görmek için sepet çizgisi öğe API 'sine de bakabilirler. İş ortakları, Müşteri Ürün SKU bileşiminin yükseltme için uygun olduğunu ve bu nedenle ineligibility nedenlerini doğrulamak üzere işlemleri göndermeden önce doğrulama yükseltmeleri API 'sini çağırabilir.
 
-Müşterinin promosyon için uygun olup olmadığının üç nedeni vardır. Bu önemsiz türler, müşterinin uygun olmayan durumlarda yükseltmeyi doğrulama API'sinde döndürülür.
+Müşterilerin bir promosyon için uygun olmayabilir olmasının üç nedeni vardır. Bu sınırsız türler, müşterinin uygun olmadığı durumlarda yükseltmeyi doğrula API 'sinde döndürülür.
 
-### <a name="seat-count"></a>Yer Sayısı ###
+### <a name="seat-count"></a>Koltuk sayısı ###
 
-Birçok promosyonda en fazla 2400 kişilik bir yer olabilir. Bu gibi durumlarda, promosyon dışı fiyatlardan 2400'den fazla içeren bir işlem göndermektedir. Bu sınırlara sahip bir yükseltme aboneliğine yer eklerken de bu yer sayısı uygulanır. İş ortakları, yükseltme etkinleştirilmiş aboneliği sınırların ötesinde artırmaya çalışırsa bir hata alır. Promosyonlara yönelik lisans sınırları iş ortakları arasında uygulanır. Bu nedenle, bir iş ortağı, promosyon lisans sayısı sınırıyla 2300 lisanslık bir promosyon satın aldı ise, 200 lisans satın alan ikinci bir iş ortağı, promosyon dışı fiyattan abonelik fiyatını elde ediyor olabilir. Promosyona uygun olan ürün sku'su, iş ortağının işlemde olduğu ürün sku düzeyinde zorunlu tutularak bir iş ortağı hem 2400 hem Microsoft 365 E3 de farklı bir ürün SKU'su için 2400 kişilik promosyon Microsoft 365 E5. İş ortakları, müşterinin [sağlanan bir](/partner-center/develop/get-a-list-of-available-licenses) SKU için kaç lisansa sahip olduğunu görmek için abone olunanSKU API'sini çağırabilirsiniz.
+Birçok promosyon bir koltuk 2400 bilgisayar sayısının en fazla belirtii olabilir. Bu durumlarda 2400 'den fazla bir işlem, yükseltme dışı fiyatlarla gönderilir. Bu izin sayıları, bu limitlere sahip bir promosyon aboneliğine koltuk eklenirken de zorlanır. İş ortakları, bir yükseltme etkin aboneliğini limitlerin ötesinde artırmayı denediğinde bir hata alır. Promosyonların bilgisayar sınırları, iş ortakları arasında zorlanır, böylece bir iş ortağı bir promosyon bilgisayar sayısı sınırı ile 2300 koltuk yükseltmesi satın alıyorsa, 200 bilgisayar satın alan ikinci bir iş ortağı, yükseltme dışı fiyata abonelik fiyatını alır. promosyon, ürün sku 'su düzeyinde zorlanır iş ortağı deneyimidir, bu nedenle bir iş ortağı 2400 bilgisayar Microsoft 365 E3 ve ayrıca farklı bir ürün sku 'su Microsoft 365 E5 için promosyon fiyatlandırması alabilir. İş ortakları, bir müşterinin belirli bir sağlanan SKU için kaç lisansa sahip olduğunu görmek için [SUBSCRIBEDSKUS API](/partner-center/develop/get-a-list-of-available-licenses) 'sini çağırabilir.
 
 ### <a name="term"></a>Süre ###
 
-Terim kısıtlamaları, belirli bir promosyonla hangi ürün SKU koşullarının uyumlu olduğunu tanımlar. Birçok promosyonda, terime göre tanımlanan farklı indirimler vardır. bir iş ortağı bir işlem gönderse ve süre yükseltmeyle uyumlu yoksa, işlem beklediğiniz promosyon olmayan fiyatta olur. Terimlere örnek olarak *yıllık veya* *aylık terimler verilmiştir.*
+Terim kısıtlamaları hangi Ürün SKU koşullarının belirli bir yükseltmeye hizalanacağını tanımlar. Birçok promosyon, terime göre tanımlanan farklı indirimlere sahiptir. Bir iş ortağı bir işlem gönderse ve terim yükseltme ile hizalanmaz, işlem, bekledikleri yükseltme dışı fiyattan olur. Terim örnekleri *yıllık* veya *aylık* olarak verilebilir.
 
 ### <a name="first-purchase"></a>İlk Satın Alım ###
 
-Bazı yükseltmeler yalnızca bir kez satın alınarak zorlar. İş ortağı, *FirstPurchase* *hata* türüyle uygunluk doğrulama API'sini kullanarak false uygunluğunu görebilir. İş ortağı verilen ürün SKU'larını satın almaya devam edebilirsiniz ancak abonelik promosyon fiyatı üzerindendir. Bu kısıtlama iş ortağı başına değil müşteri başına bir kısıtlamadır. Müşteri bu kuralla promosyona sahip olduktan sonra, ikinci bir iş ortağı tarafından uygulanan yükseltmenin ikinci bir örneğini aamaz.
+Bazı yükseltmeler yalnızca bir kez alınmış olarak zorlanır. Bir iş ortağı, uygunluğu doğrula API 'sini *Ilk satın alma* hata türüyle bir *yanlış* uygunluk durumu görür. İş ortağı, belirtilen Ürün SKU 'sunu satın almaya devam edebilir, ancak abonelik yükseltme dışı fiyattan olacaktır. Bu kısıtlama, iş ortağı başına değil, müşteri başına değildir. Müşterinin bu kurala sahip bir promosyonu olduktan sonra, ikinci bir iş ortağı tarafından uygulanan yükseltmenin ikinci bir örneğini alamaz.
 
 ## <a name="promotions-and-renewals"></a>Promosyonlar ve yenilemeler ##
 
-Uygulandığı promosyon indirimleri, satın alma süresine yöneliktir. Yenileme tarihi yükseltme süresi tarih aralığında ise, uygulanan promosyonlara sahip abonelikler promosyon fiyatını korur. Yükseltme süresi tarih aralığı dışındaki yenilemeler, promosyon olmayan fiyatla (fiyat listesinden) yenilenecektir. İş ortakları abonelik ayrıntıları sayfasındaki fiyat noktalarına ve getSubscription veri yenileme yönergelerine göre yenileme durumunu izleyebilir.
+Uygulanan promosyon iskontoları, satın alma dönemi için geçerlidir. Yenileme tarihi, promosyon süresi Tarih aralığalıyorsa, uygulanan promosyonlara sahip abonelikler promosyon fiyatını korur. Promosyon süresi Tarih aralığının dışında yapılan yenilemeler, yükseltme dışı fiyata (fiyat listesinden) göre yenilenecek. İş ortakları, abonelik ayrıntıları sayfasındaki fiyat noktalarına ve getSubscription veri yenileme yönergelerine göre yenileme durumunu izleyebilir.
 
-## <a name="promotions-and-upgrades"></a>Yükseltmeler ve yükseltmeler ##
-Bir abonelikten başka bir SKU'ya yükselten iş ortakları, yükseltme fiyatını geride bırakır. Bu eylem, yükseltme başka bir SKU'ya yükseltilen SKU için yapılandırıldığında oluşur. Promosyonu olan bir SKU'ya yükselten iş ortakları, yükseltme fiyatını otomatik olarak elde etmez. Taşımak istediğiniz SKU için yükseltme fiyatına ihtiyaçları veya bunu istemeleri, yeni SKU'nun yeni bir abonelik olarak el ile satın alınarak satın almaları gerekir. Şu anda promosyonlar yalnızca yeni abonelik satın alma ve yenileme işlemlerine uygulanır.
+## <a name="promotions-and-upgrades"></a>Promosyonlar ve yükseltmeler ##
+Bir abonelikten başka bir SKU 'ya yükseltme yapan iş ortakları, promosyon fiyatını geride bırakır. Bu eylem, yükseltmenin başka bir SKU 'ya yükseltildiklerinde terk ettikleri SKU için yapılandırılmış olması nedeniyle oluşur. Bir promosyonu olabilecek bir SKU 'ya yükseltme yapan iş ortakları, promosyon fiyatını otomatik olarak alamaz. Taşımak istedikleri SKU 'nun promosyon fiyatına ihtiyaç duyduklarında veya bu fiyatlara izin vermek istiyorsanız yeni bir abonelik olarak yeni SKU 'YU el ile satın alması gerekir. Şu anda yükseltmeler yalnızca yeni abonelik satın alımları ve yenilemeler için geçerlidir.
 
-## <a name="promotions-and-migrations"></a>Yükseltmeler ve geçişler ##
-İş ortakları, müşteri aboneliklerini geleneksel Microsoft 365/Dynamics 365'den aboneliklerinin yeni ticari sürümlerine geçirebilirsiniz. Geçişler hem kullanıcı arabiriminden hem de İş Ortağı Merkezi API'leri çağırmadan kullanılabilir. Geleneksel bir abonelikten yeni ticarete geçişe sahip olan iş ortakları, geçiş sırasında, taşımaları gereken ürün sku'su promosyon tanımıyla uyumlu olduğu sürece promosyona sahip olur. İş ortakları, hedef ürün SKU'slarının geçişten önce yükseltme fiyatını uygulayacaklarından emin olmak için uygunluk doğrulama API'sini çağırması gerekir.
-
-
-
-
+## <a name="promotions-and-migrations"></a>Promosyonlar ve geçişler ##
+iş ortakları, müşterilerinin aboneliklerini geleneksel Microsoft 365/dynamics 365 ' dan yeni ticaret sürümlerine geçirebilirler. Geçişler, hem Iş Ortağı Merkezi kullanıcı arabiriminden hem de geçiş API 'Leri çağrılmadan kullanılabilir. Geleneksel bir abonelikten yeni ticarete geçiş yapan iş ortakları, geçirdikleri Ürün SKU 'su, yükseltme tanımıyla hizalanmakta olduğu sürece promosyonu alır. İş ortakları, hedef Ürün SKU 'sunun geçişten önce promosyon fiyatını uygulayabilmesi için uygunluğu doğrula API 'sini çağırmalıdır.

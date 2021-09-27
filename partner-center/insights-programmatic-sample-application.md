@@ -5,15 +5,15 @@ ms.date: 07/14/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-insights
 description: İş ortağı içgörüleri verilerine program aracılığıyla erişmek üzere kendi uygulamanızı oluşturmak için örnek uygulamayı kullanın.
-author: shganesh-dev
-ms.author: shganesh
+author: kshitishsahoo
+ms.author: ksahoo
 ms.localizationpriority: medium
-ms.openlocfilehash: cb2bc8be9ea49c0d75da4d78961865331ed908c9
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.openlocfilehash: e763fd5182489d68e788e88e0f8f1522dac6aba4
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960935"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129075358"
 ---
 # <a name="sample-application"></a>Örnek Uygulama
 
@@ -36,7 +36,7 @@ ms.locfileid: "123960935"
 
 ## <a name="how-to-run-the-application"></a>Uygulamayı çalıştırma
 
-- Şu komutu kullanarak depoyu yerel bir sisteme klonlama:
+- Bu komutu kullanarak depoyu yerel bir sisteme klonlama:
 
 ```cli
 git clone https://github.com/partneranalytics/ProgrammaticExportSampleAppMPN.git
@@ -45,9 +45,9 @@ git clone https://github.com/partneranalytics/ProgrammaticExportSampleAppMPN.git
 > [!Note]
 > Daha fazla yönergeler için, GitHub deposundaki ProgrammaticExportSampleAppMPN/README.md [dosyasına bakın.](https://github.com/partneranalytics/ProgrammaticExportSampleAppMPN_Java)
 
-- Uygulamayı hızlı bir şekilde çalıştırmak için, istemci kimliğini ve istemci gizliappsettings.Development.js **güncelleştirin**
+- Uygulamayı hızlı bir şekilde çalıştırmak için appsettings içinde istemci kimliğini ve istemci gizli **kimliğini güncelleştirin. Development.json**
 
-:::image type="content" source="images/insights/prog-acc-appsetting-development.png" alt-text="Uygulama sıfırlama geliştirme json'larını illustrating":::
+:::image type="content" source="images/insights/prog-acc-appsetting-development.png" alt-text="Uygulama sıfırlama geliştirme json'larını":::
 
 Uygulamayı çalıştırarak yerel bir web sunucusu açılır ve bir sayfa açılır ( `https://localhost:44365/ProgrammaticExportSampleApp/sample` ).
   

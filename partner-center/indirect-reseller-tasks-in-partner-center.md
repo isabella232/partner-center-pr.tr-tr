@@ -8,13 +8,13 @@ ms.custom: contperf-fy21q2
 ms.localizationpriority: high
 author: vinayks
 ms.author: vinayks
-ms.date: 08/13/2021
-ms.openlocfilehash: fefafae2f1dd81e314a4d37a2170fe527355f75e
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.date: 09/27/2021
+ms.openlocfilehash: ed1fa0ffda69264353efc4283f3c4c07999c3294
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960404"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129073758"
 ---
 # <a name="learn-how-to-partner-with-indirect-providers-in-the-cloud-solution-provider-program"></a>Bulut Çözümü Sağlayıcısı programında dolaylı sağlayıcılarla iş ortağı hakkında bilgi edinin
 
@@ -61,21 +61,19 @@ CSP programında dolaylı bir satıcı olarak satış için gerekenler hakkında
 
 ### <a name="get-started"></a>başlarken
 
-1. Kayıt işlemini hemen kapatmak için, kaydolmak üzere [**hoş geldiniz sayfasına**](https://partnercenter.microsoft.com/pcv/register/joinnow/enrollmentwelcome/valueaddedreseller) gidin.
+1. Kayıt işlemini hemen kapatmak için, kaydolmak üzere [**hoş geldiniz sayfasına**](https://partner.microsoft.com/pcv/register/joinnow/enrollmentwelcome/valueaddedreseller) gidin.
 
 2. Kaydolmak için gereken bilgilere sahip olduğunuzdan emin olmak için **hoş geldiniz sayfasını** gözden geçirin ve ardından **İleri**' yi seçin.
 
-3. iş hesabınızı kullanarak oturum açın. Office 365, Microsoft Azure veya Microsoft Dynamics CRM için genel yönetici olarak oturum açmak için kullandığınız kullanıcı adı ve parola. Bir iş hesabınız yoksa, şimdi bir tane ayarlamak için **Oluştur** ' u seçin. İş hesabınızı oluşturduktan sonra, yeni hesabınız için genel yönetici kimlik bilgilerini kullanarak oturum açın.
+3. Office 365, Microsoft Azure veya Microsoft Dynamics CRM için genel yönetici olarak oturum açmak için kullandığınız kullanıcı adını ve parolayı kullanarak oturum açın. Bir iş hesabınız yoksa, şimdi bir tane ayarlamak için **Oluştur** ' u seçin. İş hesabınızı oluşturduktan sonra, yeni hesabınız için genel yönetici kimlik bilgilerini kullanarak oturum açın.
 
 4. MPN KIMLIĞINIZI CSP hesabınızla ilişkilendirin. CSP hesabınız ve ilişkili MPN KIMLIĞI aynı ülkede bulunmalıdır ve MPN KIMLIĞINIZ Iş Ortağı Merkezi 'nde olmalıdır.
 
     1. MPN hesabı kimlik bilgilerinizle [Iş Ortağı Merkezi panosunda](https://partner.microsoft.com/dashboard/) oturum açın. (MPN kimlik bilgileriniz CSP kimlik bilgilerinizle farklı olabilir).
 
-    2. **Ayarlar**, **hesap Ayarlar**, **kuruluş profili** ve sonra **tanımlayıcılar**' ı seçin.
+    2. Ayarlar dişli simgesini, ardından **hesap Ayarlar**, sonra **kuruluş profilini** ve sonra **tanımlayıcıları** seçin.
 
     3. Bu CSP hesabının ülkesiyle eşleşen **tür konumuyla** MPN kimliğini bulun. Bulamıyorsanız, yeni bir MPN KIMLIĞI oluşturacak yeni bir konum ekleyebilirsiniz. Daha fazla bilgi için bkz. [konumları yönetme](manage-locations.md). Bu adımı şimdilik erteleyebilirsiniz. Ancak, CSP hesabınızla MPN KIMLIĞINIZI ilişkilendirene kadar Microsoft Iş ortağı sözleşmesi 'Ni (MPA) veya CSP 'deki Transact ' ı imzalamanız mümkün olmayacaktır.
-
-    MPN programına kaydolmadığınız takdirde [bugün kaydolun](mpn-overview.md) ve ardından CSP kaydına devam edin.
 
 5. Şirketinizin yasal iş profilini, birincil iletişim bilgilerini ve müşteri destek bilgilerini sağlayın veya güncelleştirin.
 
@@ -98,7 +96,7 @@ CSP programında dolaylı bir satıcı olarak satış için gerekenler hakkında
 
 8. Iş Ortağı Merkezi hesabınız kullanıma hazırsa, Yönetim Aracısı grubuna eklendiğinizi doğrulayın. Diğer kullanıcıları ekleme dahil olmak üzere hesabınızı ayarlamayı tamamlaması için yönetici Aracısı izinlerinizin olması gerekir. İzinlerinizi görüntülemek veya güncelleştirmek için şu adımları izleyin:
 
-   1. iş ortağı merkezi panosundan **Ayarlar** simgesini seçin ve ardından **hesap ayarları** altında **kullanıcı yönetimi**' ni seçin.
+   1. iş ortağı merkezi panosundan Ayarlar dişli simgesini, sonra **hesap ayarlarını** ve ardından **kullanıcı yönetimi**' ni seçin.
 
    2. Kullanıcı listesinden adınızı seçin. Daha sonra seçili değilse **yönetici Aracısı** ' nı seçin. **Güncelleştir**’i seçin.
 
@@ -123,18 +121,18 @@ Dolaylı bir sağlayıcı Iş Ortağı Merkezi 'nde sizinle bağlantı kurmak is
 
 5. Siz ve sağlayıcı paylaşımının müşteriler listesini görmek için **müşterileri görüntüle** ' yi seçin.
 
-6. Aynı anda hem siz hem de dolaylı sağlayıcınız ile satıcı ilişkilerini yetkilendirmesini istemek için yeni **müşterileri davet et** ' i seçin. Davet etmek için müşterinin e-posta adresine sahip olduğunuzdan emin olun.  
+6. Yeni **bir müşteriden hem** sizin hem de dolaylı sağlayıcınızla aynı anda kurumsal bayi ilişkilerini yetkilendirmelerini istemek için Yeni müşterileri davet et'i seçin. Daveti onlara e-posta ile gönderebilirsiniz.  
 
    > [!IMPORTANT]  
-   > Dolaylı sağlayıcılarınızın, kendi adına sipariş göndermek için müşterilerinizle birlikte satıcı ilişkisine sahip olması gerekir.
+   > Dolaylı sağlayıcınızın, kendi adına sipariş göndermesi için müşterilerinizle bir kurumsal bayi ilişkisi olması gerekir.
 
-## <a name="your-csp-country-and-the-csp-regions-where-you-do-business"></a>CSP ülkeniz ve iş yaptığınız CSP bölgeleri
+## <a name="your-csp-country-and-the-csp-regions-where-you-do-business"></a>İş yapmak için csp ülkeniz ve CSP bölgeleriniz
 
-CSP dolaylı satıcısı olarak yasal iş konumunuz, iş yapabileceğiniz dolaylı sağlayıcıları ve CSP iş yapabileceğiniz bölgeleri belirler. [CSP tekliflerini oluşturabileceğiniz Bulut Çözümü Sağlayıcısı program bölgesel pazarları ve para birimlerini](regional-authorization-overview.md)okuyarak daha fazla bilgi edinin.
+CSP dolaylı kurumsal bayisi olarak yasal işletme konumunuz, hem birlikte çalışabilirsiniz dolaylı sağlayıcıları hem de CSP işlerinizi hangi bölgelerde yapalarınızı belirler. [CSP tekliflerini satarak Bulut Çözümü Sağlayıcısı program bölgesel pazarları ve para birimleri hakkında bilgi edinerek daha fazla bilgi edinin.](regional-authorization-overview.md)
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-- [Dolaylı sağlayıcılar, satıcıların Microsoft Iş ortağı sözleşmesi 'Ni benimsemesine nasıl yardımcı olabilir-SSS](mpa-indirect-provider-faq.yml)
+- [Dolaylı sağlayıcıların kurumsal bayilerinin kurumsal bayileri benimsemelerine nasıl Microsoft İş Ortağı Sözleşmesi - SSS](mpa-indirect-provider-faq.yml)
 
 - [Microsoft İş Ortağı Sözleşmesi](microsoft-partner-agreement.md)
 
@@ -146,6 +144,6 @@ CSP dolaylı satıcısı olarak yasal iş konumunuz, iş yapabileceğiniz dolayl
 
 - [İş profili oluşturma](create-a-marketing-profile.md)
 
-- [Doğrulama süreci hakkında bilgi edinin](verification-responses.md)
+- [Doğrulama işlemi hakkında bilgi edinin](verification-responses.md)
 
-- [Bkz. doğrudan fatura ortağı gereksinimleri](direct-partner-new-requirements.md)
+- [Bkz. Doğrudan fatura iş ortağı gereksinimleri](direct-partner-new-requirements.md)

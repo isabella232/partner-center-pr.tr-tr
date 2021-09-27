@@ -1,79 +1,79 @@
 ---
-title: İş Ortağı Merkezi Analizler Azure kullanım raporunu kullanma
+title: iş ortağı merkezi Analizler Azure kullanım raporu
 ms.topic: article
 ms.date: 05/19/2020
 ms.service: partner-dashboard
 ms.subservice: partnercenter-insights
-description: İyi bir şekilde neler yaptığına ve müşterileriniz için satış veya yönetim için azure aboneliklerini kullanımınızı geliştirebilirsiniz.
-author: shthota77
-ms.author: shthota
+description: Müşterilerinizin sattığı ve yönettiğiniz Azure aboneliklerinin kullanımını iyileştirebileceğinizi görün.
+author: kshitishsahoo
+ms.author: ksahoo
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 75f326fab8ebc59628dadc43b048dfefe48c22cb
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.openlocfilehash: 56e58ba6ace5a7c64ec4ddfd1e76d33deace87fc
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960224"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129070245"
 ---
-# <a name="azure-usage-report-available-from-the-partner-center-insights-dashboard"></a>Azure Kullanım raporu, İş Ortağı Merkezi Analizler panosundan kullanılabilir
+# <a name="azure-usage-report-available-from-the-partner-center-insights-dashboard"></a>Azure kullanım raporu iş ortağı merkezi Analizler panosu 'nda kullanılabilir
 
-**Uygun roller:** Genel yönetici | Yönetici aracısı | Rapor görüntüleyicisi | Yönetici raporu görüntüleyicisi
+**Uygun roller**: genel yönetici | Yönetici Aracısı | Rapor Görüntüleyici | Executive rapor Görüntüleyicisi
 
-Azure Kullanım raporu, müşterinizin Azure abonelikleri ile ilgili ölçümleri sunar. Bu rapor, ölçüm kategorilerine göre Azure tüketim gelirini ve kullanımını içerir. Aşağıdaki bölümleri Azure Kullanım raporundan görüntüebilirsiniz.
+Azure kullanım raporu, müşterilerinizin Azure abonelikleri ile ilgili ölçümleri gösterir. Bu rapor, Azure tüketim gelirini ve ölçüm kategorilerine göre kullanımı içerir. Azure kullanım raporundan aşağıdaki bölümleri görüntüleyebilirsiniz.
 
 - Özet
-- Coğrafyaya göre Azure kullanımı
+- Coğrafya tarafından Azure kullanımı
 - Azure kullanımı
 
  > [!NOTE]
- > Bu rapor, Analizler kullanılabilir. Bu raporu görüntülemek için Genel Yönetici, Hesap Yöneticisi, Rapor Görüntüleyicisi İş Ortağı Merkezi Yönetici Rapor Görüntüleyicisi gibi belirli bir rol atanmış olması gerekir. Daha fazla bilgi için, bkz. Şirketinizin Genel Yöneticisi. Bu rapora özgü veri türleri yalnızca Yönetici Rapor Görüntüleyicisi ayrıcalıklarına sahip kullanıcılar tarafından da kullanılabilir.
+ > bu rapor Analizler panosundan kullanılabilir. Bu raporu görüntülemek için Iş Ortağı Merkezi 'nde genel yönetici, hesap yöneticisi, rapor Görüntüleyicisi veya Executive rapor Görüntüleyicisi gibi belirli bir rol atanması gerekir. Daha fazla bilgi için şirketinizin genel Yöneticisi ' ne bakın. bu rapordaki belirli veri türleri yalnızca, Executive rapor Görüntüleyicisi ayrıcalıklarına sahip kullanıcılar tarafından kullanılabilir.
 
 ## <a name="summary"></a>Özet
 
-Özet bölümü, müşterileriniz için sizin tarafından satılan veya yönetilen Azure abonelikleri ile ilgili ana performans göstergelerinin (KIP) anlık görüntü görünümünü sunar.  
+Özet bölümü, müşterileriniz için sizin tarafınızdan satılan veya yönetilen Azure abonelikleriyle ilgili ana performans göstergelerinin (KPI) bir anlık görüntü görünümünü sunar.  
 
-- Azure Abonelikleri: Sizin sattığınız veya sizin tarafından yönetilen Azure müşteri aboneliklerinin geçerli sayısı.
+- Azure abonelikleri: sizin tarafınızdan satılan veya yönetilen Azure müşteri aboneliklerinin güncel sayısı.
 Seçilen tarih aralığı boyunca bu Azure aboneliklerinin büyüme veya reddetme yüzdesi.
 
-Mikro grafik, seçtiğiniz tarih aralığı için aylık Azure abonelik sayısı eğilimini gösterir.
-- Etkin Azure Abonelikleri: Son 30 gün içinde etkin kullanımı olan ve sizin tarafından satılan veya yönetilen Azure aboneliklerinin geçerli sayısı.
-Bu aboneliklerin seçilen tarih aralığındaki büyüme veya düşüş yüzdesi.
+Mikro grafik, seçtiğiniz tarih aralığı için Azure abonelik sayısı ' nın ayda bir eğilimini gösterir.
+- Etkin Azure abonelikleri: son 30 gün içinde etkin kullanımı olan, sizin tarafınızdan satılan veya yönetilen Azure aboneliklerinin güncel sayısı.
+Seçilen tarih aralığı sırasında bu aboneliklerin artış veya reddetme yüzdesi.
 
-Mikro grafik, seçtiğiniz tarih aralığı boyunca Azure etkin abonelik sayısına göre aylık bir eğilim gösterir.
+Mikro grafik, seçtiğiniz tarih aralığınızdan Azure etkin abonelik sayısı için aylık bir ay eğilimi gösterir.
 
-- Azure Tüketim Geliri (ACR): Azure Tüketim Geliri tarih aralığı üzerinden size öznitelik olarak atfedilen toplam değer (US$).
-Seçilen tarih aralığındaki öznitelikli ACR US$ artış veya düşüş yüzdesi. 
+- Azure tüketilen gelir (ACR): Seçili tarih aralığında size atanan Azure tüketilen toplam gelir (US $).
+Seçilen tarih aralığı boyunca, öznitelikli ACR US $ artış veya reddetme yüzdesi. 
 
-Mikro grafik, seçili zaman dönemi boyunca size atfedilen aylık ACR US$ eğilimini gösterir
+Mikro grafik, bir ACR US $ 'ın seçtiğiniz süre içinde size öznitelikli aylık bir eğilimini sunar
 
 
 > [!NOTE]
- > Azure Tüketim Geliri (ACR) yalnızca Yönetici Rapor Görüntüleyicisi Rolü atanmış kullanıcılar tarafından görülebilir.
+ > Azure tüketilen gelir (ACR) yalnızca, Executive rapor Görüntüleyicisi rolü atanmış kullanıcılar tarafından görülebilir.
 
-:::image type="content" source="images/insights/azure-usage-summary.png" alt-text="Azure kullanım özeti.":::
+:::image type="content" source="images/insights/azure-usage-summary.png" alt-text="Azure Kullanım Özeti.":::
 
-## <a name="azure-usage-by-geography"></a>Coğrafyaya göre Azure kullanımı
+## <a name="azure-usage-by-geography"></a>Coğrafya tarafından Azure kullanımı
 
-Coğrafyaya göre Azure kullanımı **görünümü,** tüm veya seçili Azure hizmet düzeyi/ölçüm kategorileri için Azure tüketim gelirinin (ACR US$) coğrafi dağılımını veya kullanım saatlerini gösterir. Haritada daha açık renkler düşük değerleri, koyu renkler ise daha yüksek değerleri temsil eder. Yakınlaştırmak için kılavuzda bir ülke arayabilir ve bu ülkeyi seçin 
+**Coğrafya görünümü tarafından Azure kullanımı** , Azure tüketim gelirinin (ACR US $) coğrafi dağılımını veya tüm veya seçili Azure hizmet düzeyi/ölçüm kategorilerinin kullanım saatlerini gösterir. Haritadaki daha açık renkler daha düşük değerleri temsil ederken, daha koyu renkler daha yüksek değerleri temsil eder. Yakınlaştırmak için kılavuzda bir ülke arayabilir ve seçebilirsiniz 
 
-**Ülke/bölge sayısı tablosu,** Azure kullanım olaylarının oluşturularak toplam ülke/bölge sayısını gösterir.
+**Ülke/bölge tablosu sayısı** , Azure kullanım olaylarının oluşturulduğu toplam ülkeleri/bölgeleri gösterir.
 
-Haritanın konumunu yakınlaştırmak için kılavuzda bir ülke arayabilir ve bu ülkeyi seçin. Özgün **görünüme** dönmek için haritada Giriş seçeneğini belirleyin.
+Haritada konum yakınlaştırmak için kılavuzda bir ülke arayabilir ve seçebilirsiniz. Özgün görünüme dönmek için haritada **giriş** seçeneğini belirleyin.
 
-:::image type="content" source="images/insights/azure-usage-by-geography.png" alt-text="Coğrafyaya göre Azure kullanımı.":::
+:::image type="content" source="images/insights/azure-usage-by-geography.png" alt-text="Coğrafya tarafından Azure kullanımı.":::
 
 ## <a name="azure-utilization"></a>Azure kullanımı
 
-Bu görünümde, seçilen Azure hizmet düzeyi/ölçüm kategorilerine göre aylık Azure tüketim geliri veya kullanım saati eğilimleri görüntülenir. 
+Bu görünüm, seçilen Azure hizmet düzeyi/ölçüm kategorilerine göre aylık Azure tüketim gelirini veya kullanım saatleri eğilimlerini gösterir. 
 
-Çubuk grafik, aylık gelir/kullanım saati eğilimini gösterir. Çizgi grafik, seçilen Azure hizmet düzeyi/ölçüm kategorileri için önceki aya göre büyüme eğilimini gösterir.
+Çubuk grafik, aylık gelir/kullanım saati eğilimini gösterir. Çizgi grafik, seçili Azure hizmet düzeyi/ölçüm kategorileri için önceki aya kıyasla büyüme eğilimi gösterir.
 
-:::image type="content" source="images/insights/azure-usage-utilization.png" alt-text="Azure kullanımı.":::
+:::image type="content" source="images/insights/azure-usage-utilization.png" alt-text="Azure kullanım kullanımı.":::
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-- Daha fazla rapor için [bkz. İş Ortağı Merkezi Analizler.](partner-center-insights.md)
+- daha fazla rapor için bkz. [iş ortağı merkezi Analizler](partner-center-insights.md).
 
 >[!NOTE] 
-> Bu raporu güçlü bir şekilde kullanarak ham verileri panonun Raporları İndir bölümünden Analizler indirebilirsiniz. [Daha Fazla Bilgi](insights-download-reports.md) 
+> ham verileri, Analizler panosundaki raporları indir bölümünden bu raporu güçden indirebilirsiniz. [Daha Fazla Bilgi](insights-download-reports.md) 

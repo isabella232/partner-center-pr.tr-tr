@@ -1,7 +1,7 @@
 ---
 title: Market tekliflerini lisanslama yönetme
 ms.topic: how-to
-ms.date: 04/29/2021
+ms.date: 09/27/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-pricing
 description: ISV ticari market tekliflerinizi lisanslama ayarlamayı ve yönetmeyi öğrenin.
@@ -9,12 +9,12 @@ author: petand123
 ms.author: v-petand
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 73a02a0a6cad28939d21800c726811c8969ce9a2
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.openlocfilehash: 0043a9d6f39b4c6858a6e69f73c6c7503b17508e
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126248509"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129073858"
 ---
 # <a name="manage-licensing-in-marketplace-offers"></a>Market tekliflerini lisanslama yönetme
 
@@ -55,7 +55,26 @@ Teklif diğer adı, teklifte teklif için kullanılan İş Ortağı Merkezi. Ayr
 
 ## <a name="create-your-offer"></a>Teklifinizi oluşturma
 
-Lisanslama sürecinin ilk adımı ticari market teklifinizi oluşturmaktır. 
+Lisanslama sürecinin ilk adımı ticari market teklifinizi oluşturmaktır.
+
+> [!NOTE]
+> İş Ortağı Merkezi önizleme arabirimi, mantıksal olarak gruplu çalışma alanları aracılığıyla daha verimli ve üretken bir kullanıcı deneyimi sağlar. Çalışma alanları arabirimi ve bu arabirimi açma hakkında daha fazla bilgi edinmek için [bkz. İş Ortağı Merkezi.](get-around-partner-center.md#turn-workspaces-on-and-off)
+
+#### <a name="workspaces-view"></a>[Çalışma alanları görünümü](#tab/workspaces-view)
+
+1. İş Ortağı Merkezi [oturum açın](https://partner.microsoft.com/dashboard/)ve Market Teklifleri **kutucuğunu** seçin.
+2. Genel Bakış sayfasının üst kısmında Yeni **teklif'i** seçin ve ardından **Dynamics 365 for Customer Engagement & PowerApps'i seçin.**
+3. Daha önce **oluşturduğunuz Teklif** Kimliği ve **Teklif diğer** adını girin.
+4. Teklifi **oluşturmak ve** devam etmek için Oluştur'a seçin.
+5. Lisanslama seçeneklerinizi belirleyin.
+
+    - Teklifiniz için lisans yönetimini etkinleştirmek için Microsoft aracılığıyla **uygulama lisans yönetimini etkinleştir'i seçin.** Bu tek seferlik bir ayardır ve teklifiniz yayımlandıktan sonra bunu değiştiremezsiniz.
+
+    - Ayrıca, müşterilerin uygulama temel işlevselliğini lisans olmadan çalıştırmasını ve lisans satın alan premium özellikleri çalıştırmasını da sebilirsiniz. Bunu yapmak için Lisans **atanmasa bile müşterilerin uygulamamı yüklemesine izin ver'i seçin.**
+
+    - Teklifinizin lisans yönetiminin etkinleştirilmesi istemiyorsanız Şimdi al **(Ücretsiz)** **,** Ücretsiz deneme veya Bana ulaşın'ı **seçin.**
+
+#### <a name="current-view"></a>[Geçerli görünüm](#tab/current-view)
 
 1. [İş Ortağı Merkezi panosunda](https://partner.microsoft.com/dashboard/) oturum açın.
 2. Sol gezinti menüsünde Ticari **Market/Genel Bakış'ı seçin.**
@@ -70,16 +89,18 @@ Lisanslama sürecinin ilk adımı ticari market teklifinizi oluşturmaktır.
 
     - Teklifinizin lisans yönetiminin etkinleştirilmesi istemiyorsanız Şimdi al **(Ücretsiz)** **,** Ücretsiz deneme veya Bana ulaşın'ı **seçin.**
 
+* * *
+
 ## <a name="create-your-plan"></a>Planınızı oluşturma
 
 Bu adımlarda teklifiniz için etkinleştirmek istediğiniz planı veya planları tanımlayabilirsiniz.
 
-1. Sol gezinti menüsünde Plan'a genel **bakış'ı ve** ardından Yeni plan **oluştur'ı seçin.**
+1. Belirli bir tekliften Plan'a **genel bakış'ı ve** ardından Yeni plan **oluştur'ı seçin.**
 2. Bir Plan **Kimliği ve** Plan adı **girin ve** oluştur'a **basın.**
 3. Plan **listeleme sayfasında** Plan açıklamanızı **girin.**
 4. Açıklamayı kaydetmek ve daha sonra tamamlamak için Taslağı **kaydet'i seçin.**
 
-5. Bitirdikten sonra Gözden geçir ve **yayımla'yı seçin.** Plan bilgileri artık teklif listesi (planlar appsource.microsoft.com bölümünde görüntülenir.
+5. Bitirdikten sonra Gözden geçir ve **yayımla'yı seçin.** Plan bilgileri artık teklif listesi appsource.microsoft.com (planlar bölümü) altında görüntülenir.
 
 6. Bu teklif için tüm planları oluşturduktan sonra, her planın Hizmet Kimliğini kopyalamanız gerekir. Plan **listeleme sayfasının** üst kısmında Plan'a genel bakış'ı seçin. Her planın Hizmet Kimliğini güvenli bir konuma kopyalayın.
 
@@ -89,38 +110,53 @@ Sonraki adım, az önce kopyalanan her plan için Hizmet kimliklerini ekleyerek 
 
 ## <a name="upload-your-package-and-publish-your-offer"></a>Upload paketinizi yayımlama ve teklifinizi yayımlama
 
-1. Sol gezinti bölmesinde Ticari **Market'i ve ardından** Teknik **yapılandırma'ı seçin.**
+1. Belirli bir tekliften Teknik **yapılandırma'ya seçin.**
 2. Temel **Lisans Modeli'nin altında** Kullanıcı'ya **seçin.**
 3. **CRM Paketi'nin** altına paket konumunun URL'sini girin.
 4. Gerekli diğer bilgileri girmek için sol gezinti bölmesindeki diğer sekmeleri kullanın. Bitirerek Gözden geçir ve **yayımla'yı seçin.**
 
 Teklifi yayımladikten sonra, bilginizi gözden geçirdikten ve doğrulayana kadar devam ederiz. Bu işlemle ilgili herhangi bir sorun varsa size bildiracağız. Tüm sorunlar çözümlendi mi, teklifinizin AppSource'ta kullanılabilir olduğunu size bildirecek. Bu noktada canlı hale siniz.
 
-## <a name="make-your-offer-live-in-partner-center"></a>Teklifinizi İş Ortağı Merkezi'de canlı hale İş Ortağı Merkezi
+## <a name="make-your-offer-live-in-partner-center"></a>Teklifinizi canlı İş Ortağı Merkezi
 
 Aşağıdaki yordamda teklifinizi AppSource'ta canlı hale uygulama işlemi açıklanmıştır. Bu işlem hakkında daha fazla bilgi edinmek için [bkz. Listeleme seçeneklerine giriş.](/azure/marketplace/determine-your-listing-type)
 
->[!NOTE]
->Teklifinizi yayımlamanız 4-6 saat sürer.
+> [!NOTE]
+> Teklifinizi yayımlamanız 4-6 saat sürer.
 
-1. [İş Ortağı Merkezi panosunda](https://partner.microsoft.com/dashboard/) oturum açın.
-2. Sol gezinti menüsünde Ticari **Market/Genel Bakış'ı seçin.**
-3. Genel **Bakış** sayfasında, istediğiniz teklifi bulun. Yayımlanacak olan tekliflerin Durumu Önizleme **olur.** Teklifi seçin.
-4. Teklife **genel bakış sayfasında** Canlı yayına **git'i seçin.**
-Teklif 4-6 saat içinde canlı olarak yayınlanacak.
-5. Teklif listenizi AppSource'ta görmek için Teklife genel bakış sayfasının en altındaki **AppSource** **bağlantısını** seçin.
+1. Belirli bir tekliften Canlı yayına **git'i seçin.**
+2. Teklif listenizi AppSource'ta görmek için Teklife genel bakış sayfasının en altındaki **AppSource** **bağlantısını** seçin.
 
     - **Lisans özellikli teklifler için:** Teklifiniz bir lisans denetimi gerektiriyorsa, kullanıcılar yalnızca Benimle İletişime Geç'e tıklayarak müşteri adayı girebilirsiniz, böylece onlarla iletişim kurabilirsiniz.
 
     - **Ücretsiz yükleme seçeneğine sahip lisans** özellikli teklifler için: Teklifiniz için lisans  denetimi gerekli yoksa, yönetici kullanıcılar Benimle İletişime Geçin'e ek olarak Şimdi Al düğmesini **de görebilir.** Ücretsiz yükleme seçeneğinizi denemek isteyen kullanıcıların Şimdi Al'a tıklaması gerekir. Bu seçenek, teklifi Yönetim Merkezi'Power Platform yüklemelerini sağlar. Kullanıcılar, soruları **varsa veya** ücretli plana yükseltmek isterse Benimle İletişime Geçin'i kullanmaya devam ediyor.
 
-## <a name="register-isv-connect-deal-in-deal-registration"></a>Anlaşma Kaydı'Bağlan isv kaydı
+## <a name="register-isv-connect-deal-in-deal-registration"></a>Anlaşma Kaydı'Bağlan ISV kaydı
 
 Bir müşteriye lisans ataymadan önce her satışın bir müşteriye İş Ortağı Merkezi. Bunu yapmak için [bkz. Anlaşmalarınızı kaydetme.](register-deals.md)
 
 ## <a name="invite-the-customer"></a>Müşteriyi davet etme
 
 Müşteriyi bu satış anlaşmasına katılmaya davet etmek için aşağıdaki yordamı kullanın.  
+
+> [!NOTE]
+> İş Ortağı Merkezi önizleme arabirimi, mantıksal olarak gruplu çalışma alanları aracılığıyla daha verimli ve üretken bir kullanıcı deneyimi sağlar. Çalışma alanları arabirimi ve bu arabirimi açma hakkında daha fazla bilgi edinmek için [bkz. İş Ortağı Merkezi.](get-around-partner-center.md#turn-workspaces-on-and-off)
+
+#### <a name="workspaces-view"></a>[Çalışma alanları görünümü](#tab/workspaces-view)
+
+1. [İş Ortağı Merkezi panosunda](https://partner.microsoft.com/dashboard/) oturum açın.
+2. Referanslar **kutucuğunu** seçin.
+3. Anlaşma **Kaydı'ı seçin.**
+4. Gönderilen **anlaşmalar için** filtrele, **Devam Ediyor sekmesini** ve ardından istediğiniz anlaşmayı seçin.
+5. Bu anlaşmanın genel bakış sayfasında Lisansları **yönet'i seçin.**
+6. Lisansları **yönet penceresinde** Müşteri ayrıntıları açılan **listesinden müşteriyi** seçin. Müşteri ilişkisi henüz yoksa onay için +Yeni müşteri **davet et'i seçin.**
+7. Görüntülenen bağlantıyı kopyalayın.
+8. Bu bağlantıyı müşterinizin faturalama yöneticisine veya genel yöneticisine e-posta ile gönderin ve bu bağlantıyı kullanarak admin.microsoft.com ilişkiniz kabul edilsin ve yetkilendirsin.
+
+    > [!NOTE]
+    > Müşteri bu adımı gerçekleştirene kadar ilişki kurulmayacak.
+
+#### <a name="current-view"></a>[Geçerli görünüm](#tab/current-view)
 
 1. [İş Ortağı Merkezi panosunda](https://partner.microsoft.com/dashboard/) oturum açın.
 2. Sol gezinti menüsünde Ticari **Market/Genel Bakış'ı seçin.**
@@ -129,21 +165,23 @@ Müşteriyi bu satış anlaşmasına katılmaya davet etmek için aşağıdaki y
 5. Bu anlaşmanın genel bakış sayfasında Lisansları **yönet'i seçin.**
 6. Lisansları **yönet penceresinde** Müşteri ayrıntıları açılan **listesinden müşteriyi** seçin. Müşteri ilişkisi henüz yoksa onay için +Yeni müşteri **davet et'i seçin.**
 7. Görüntülenen bağlantıyı kopyalayın.
-8. Bu bağlantıyı müşterinizin faturalama yöneticisine veya genel yöneticisine e-posta ile gönderin ve bu bağlantıyı kullanarak admin.microsoft.com ilişkileri kabul etmelerini ve yetkilendirmelerini snın.
+8. Bu bağlantıyı müşterinizin faturalama yöneticisine veya genel yöneticisine e-posta ile gönderin ve bu bağlantıyı kullanarak admin.microsoft.com ilişkiniz kabul edilsin ve yetkilendirsin.
 
-    >[!NOTE]
-    >Müşteri bu adımı gerçekleştirene kadar ilişki kurulmayacak.
+    > [!NOTE]
+    > Müşteri bu adımı gerçekleştirene kadar ilişki kurulmayacak.
 
-## <a name="activate-manage-and-remove-your-licenses"></a>Lisanslarınızı etkinleştirin, yönetin ve kaldırın
+* * *
 
-Müşteriniz sizinle ilişkiyi yetkilendirdikten sonra, teklifinizden planlar eklemeye ve her plana lisans atamaya başlayabilirsiniz.
+## <a name="activate-manage-and-remove-your-licenses"></a>Lisanslarınızı etkinleştirme, yönetme ve kaldırma
 
-1. Bu anlaşma için Lisansları Yönet penceresinde **+ plan Ekle**' yi seçin.
-2. **Bu çözüm Için planları** ve lisans alanı **sayısını** tamamlayıp **Lisansları Güncelleştir**' i seçin. Lisanslar, müşteriler tarafından yönetilecek ve çalışanlara atanacak admin.microsoft.com adresinde kullanılabilir.
+Müşteriniz size ilişkinin yetkilerini verdiktan sonra teklifinizin planlarını eklemeye ve her plana lisans atamaya başlayabilirsiniz.
 
-    - Mevcut bir planın lisans sayısını değiştirmek için, **Lisans sayısı** alanına yeni sayıyı girin ve ardından **Lisansları Güncelleştir**' i seçin.
+1. Bu anlaşma için Lisansları yönet penceresinde **+Plan ekle'yi seçin.**
+2. Bu çözüm **için planlar ve Lisans** sayısı alanlarını **doldurun** ve ardından Lisansları **güncelleştir'i seçin.** Lisanslar, müşterilerin admin.microsoft.com ataması için şirket içinde kullanılabilir.
 
-    - Bir anlaşma için lisansları devre dışı bırakmak veya kaldırmak için, **Eylemler** alanındaki çöp kutusu simgesini seçin ve ardından **Lisansları Güncelleştir**' i seçin.
+    - Mevcut bir planın lisans sayısını değiştirmek için Lisans sayısı  alanına yeni numarayı girin ve Lisansları **güncelleştir'i seçin.**
+
+    - Bir anlaşma için lisansları devre dışı bırakmak veya kaldırmak için Eylemler alanında çöp kutusu **simgesini ve** ardından Lisansları **güncelleştir'i seçin.**
 
 ## <a name="next-steps"></a>Sonraki adımlar
 

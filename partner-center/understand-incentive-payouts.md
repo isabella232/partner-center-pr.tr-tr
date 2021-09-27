@@ -1,7 +1,7 @@
 ---
 title: Özenlerinizi ve program ayrıntılarınızı görüntüleyin
 ms.topic: article
-ms.date: 11/01/2020
+ms.date: 09/27/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-incentives
 description: Teşvikleri program durumunu görüntülemek ve yönetmek için bu sayfaları kullanın
@@ -9,12 +9,12 @@ author: mseamons
 ms.author: mseamons
 ms.localizationpriority: medium
 ms.custom: SEOJULY.20
-ms.openlocfilehash: 33ec3befdc4b2bab2f31d25d210679594debbbf1
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.openlocfilehash: c2079e4a0f079f2e7aeab6cb59212390eb9b174a
+ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126248418"
+ms.lasthandoff: 09/27/2021
+ms.locfileid: "129071201"
 ---
 # <a name="view-your-incentives-program-details"></a>Teşvikleri programınızın ayrıntılarını görüntüleme
 
@@ -22,20 +22,43 @@ ms.locfileid: "126248418"
 
 Bu makalede, ister her konumdaki her bir programın durumu hem de özenklarınızın genel durumunu gösteren **teşvikleri genel bakış** sayfası açıklanmaktadır. Ayrıca, farklı kayıt durumları da sağlar.
 
->[!NOTE]
->Iş Ortağı Merkezi 'ndeki teşvikleri ve teşvik özellikleri hakkında daha fazla bilgi için bkz. [partner yatırımlar ve teşvikleri](https://partner.microsoft.com/membership/partner-incentives) (oturum açma gereklidir).
+> [!NOTE]
+> Iş Ortağı Merkezi 'ndeki teşvikleri ve teşvik özellikleri hakkında daha fazla bilgi için bkz. [partner yatırımlar ve teşvikleri](https://partner.microsoft.com/membership/partner-incentives) (oturum açma gereklidir).
 
 ## <a name="access-the-incentives-overview-page"></a>Teşvikleri genel bakış sayfasına erişin
 
-1. [İş Ortağı Merkezi panosunda](https://partner.microsoft.com/dashboard) oturum açın.
-1. Menüden **teşvikleri** ve ardından **genel bakış** ' ı seçin.
-1. Kazanç ve ödeme özetini sayfanın en üstünde, ek ayrıntıları ise aşağıdaki tabloda bulabilirsiniz. Ayrıca, eşlik eden tabloyu sıralayabilir, gruplandırabilir ve genişletebilirsiniz:
+> [!NOTE]
+> Iş Ortağı Merkezi önizleme arabirimi, mantıksal olarak gruplanmış çalışma alanları aracılığıyla daha verimli ve üretken bir kullanıcı deneyimi sağlar. Çalışma alanları arabirimi ve nasıl kullanılacağı hakkında daha fazla bilgi edinmek için bkz. [Iş ortağı merkezini alma](get-around-partner-center.md#turn-workspaces-on-and-off).
+
+#### <a name="workspaces-view"></a>[Çalışma alanları görünümü](#tab/workspaces-view)
+
+1. [Iş Ortağı Merkezi panosunda](https://partner.microsoft.com/dashboard) oturum açın ve **teşvikleri** kutucuğunu seçin.
+
+2. Kazanç ve ödeme özetini sayfanın en üstünde, ek ayrıntıları ise aşağıdaki tabloda bulabilirsiniz. Ayrıca, eşlik eden tabloyu sıralayabilir, gruplandırabilir ve genişletebilirsiniz:
 
    - Sütuna göre sıralamak için sütun adını seçin.
    - Programa göre gruplandırma yapmak için, tablonun üzerindeki **program olarak** sekmesini seçin.
    - Konuma göre gruplandırmak için tablonun üzerindeki **konuma göre** sekmesini seçin.
    - Belirli bir grup içindeki kayıtlar hakkında daha fazla ayrıntı görüntülemek için, belirli bir satırın sonundaki köşeli ayraç sembolünü seçin. Bu köşeli çift ayraç görünümü genişletilir.
-1. Bir programa kaydolmak için gerçekleştirmeniz gereken ek eylemler varsa ilgili bilgiler **Durum** sütununda görüntülenir. Bu durumda köşeli çift ayraç simgesine tıklayarak gerçekleştirmeniz gereken adımlar hakkında bilgi edinebilirsiniz.
+
+3. Bir programa kaydolmak için gerçekleştirmeniz gereken ek eylemler varsa ilgili bilgiler **Durum** sütununda görüntülenir. Bu durumda köşeli çift ayraç simgesine tıklayarak gerçekleştirmeniz gereken adımlar hakkında bilgi edinebilirsiniz.
+
+#### <a name="current-view"></a>[Geçerli görünüm](#tab/current-view)
+
+1. [İş Ortağı Merkezi panosunda](https://partner.microsoft.com/dashboard) oturum açın.
+
+2. Menüden **teşvikleri** ve ardından **genel bakış** ' ı seçin.
+
+3. Kazanç ve ödeme özetini sayfanın en üstünde, ek ayrıntıları ise aşağıdaki tabloda bulabilirsiniz. Ayrıca, eşlik eden tabloyu sıralayabilir, gruplandırabilir ve genişletebilirsiniz:
+
+   - Sütuna göre sıralamak için sütun adını seçin.
+   - Programa göre gruplandırma yapmak için, tablonun üzerindeki **program olarak** sekmesini seçin.
+   - Konuma göre gruplandırmak için tablonun üzerindeki **konuma göre** sekmesini seçin.
+   - Belirli bir grup içindeki kayıtlar hakkında daha fazla ayrıntı görüntülemek için, belirli bir satırın sonundaki köşeli ayraç sembolünü seçin. Bu köşeli çift ayraç görünümü genişletilir.
+
+4. Bir programa kaydolmak için gerçekleştirmeniz gereken ek eylemler varsa ilgili bilgiler **Durum** sütununda görüntülenir. Bu durumda köşeli çift ayraç simgesine tıklayarak gerçekleştirmeniz gereken adımlar hakkında bilgi edinebilirsiniz.
+
+* * *
 
 ## <a name="enrollment-status"></a>Kayıt durumu
 
@@ -53,7 +76,7 @@ Aşağıdaki tabloda, **durum** sütununda gösterilen farklı kayıt durumları
 
 ## <a name="see-your-payment-information"></a>Ödeme bilgilerinizi görüntüleyin
 
-Bu farklı özetlere erişmek için ekranın sağ üst köşesindeki ödeme simgesini seçin:
+Bu farklı özetlere erişmek için Iş Ortağı Merkezi panosunda **ödemeler** kutucuğunu seçin:
 
 - İşlem geçmişi
 - Ödemeler
