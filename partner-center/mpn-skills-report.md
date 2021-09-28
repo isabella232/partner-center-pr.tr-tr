@@ -9,12 +9,12 @@ author: keramp88
 ms.author: keramp
 ms.localizationpriority: high
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 2f97e9f41efb3309c8a83bf5f70cad50a3aa057c
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: 1ecb9d5ecd1a9a34423141009111b22fb1c659ac
+ms.sourcegitcommit: e1da62b36420d78bf44e3962358d0af65ebc3402
 ms.translationtype: MT
 ms.contentlocale: tr-TR
 ms.lasthandoff: 09/27/2021
-ms.locfileid: "129074543"
+ms.locfileid: "129089972"
 ---
 # <a name="using-the-skills-report"></a>Beceri raporunu kullanma
 
@@ -56,7 +56,7 @@ Beceri raporunu görüntüleymeden ve bir yetkinliğe ulaşmak için şirketiniz
 Veri kaynağından beceri raporu verilerini görüntülemek için bu İş Ortağı Merkezi.
 
 > [!NOTE]
-> İş Ortağı Merkezi önizleme arabirimi, mantıksal olarak gruplu çalışma alanları aracılığıyla daha verimli ve üretken bir kullanıcı deneyimi sağlar. Çalışma alanları arabirimi ve nasıl açabilirsiniz hakkında daha fazla bilgi edinmek için [bkz. İş Ortağı Merkezi.](get-around-partner-center.md#turn-workspaces-on-and-off)
+> Çalışma alanları arabirimi hakkında daha fazla bilgi edinmek için [bkz. İş Ortağı Merkezi.](get-around-partner-center.md#turn-workspaces-on-and-off)
 
 #### <a name="workspaces-view"></a>[Çalışma alanları görünümü](#tab/workspaces-view)
 
@@ -129,34 +129,34 @@ Kullanıcının yinelenen hesapları varsa, gerekli beceriler iki veya daha fazl
 
 Beceri raporunu indirmeye çalışsanız şu iletiyi indirebilirsiniz: *"Beceri verilerine sahip kullanıcı bulunamadı. Kullanıcıların kendi hesaplarını mı yoksa Partner University Learning profillerini mi ilişkilendirilmiş olduğunu kontrol edin".*
 
-Bu ileti, hesabınız Iş Ortağı Merkezi 'nde doğrudan oluşturulduysa veya şirketinizin kullanıcıları Iş Ortağı Merkezi 'ne geçirilmeden önce, bir veya daha fazla MPS 'den bir veya daha fazla 
-kullanıcılarınızın Learning veya iş ortağı üniversitesi hesaplarıyla ilişkili mcps 'lerin iş ortağı merkezi 'ndeki kullanıcı hesaplarıyla zaten ilişkili olup olmadığını [denetleyin](ms-learn-associate.md) .
+Hesabınız doğrudan İş Ortağı Merkezi oluşturulduktan sonra veya pmC'den şirket kullanıcılarının hiçbiri, İş Ortağı Merkezi'a geçirmeden önce PMC'de MCP'lerini ilişkili İş Ortağı Merkezi. 
+[Kullanıcılarınızı](ms-learn-associate.md) veya Partner University hesaplarıyla ilişkilendirilmiş MCP'leri Learning hesaplarında zaten kendi kullanıcı hesaplarıyla ilişkilendirilmiş olup İş Ortağı Merkezi.
 
-### <a name="a-user-has-associated-their-skills-in-partner-center-but-i-dont-see-it-in-the-skills-report"></a>Bir Kullanıcı Iş Ortağı Merkezi 'nde yeteneklerini ilişkilendirdi, ancak beceriler raporunda görmüyorum
+### <a name="a-user-has-associated-their-skills-in-partner-center-but-i-dont-see-it-in-the-skills-report"></a>Kullanıcı kendi becerilerini İş Ortağı Merkezi ancak beceriler raporunda göremiyorum
 
-Bir kullanıcı becerileri tamamlamışsa ancak yetenekler raporunda gösteriliyorlarsa şunları onaylayın:
+Bir kullanıcı becerileri tamamlamış ancak beceriler raporunda görünmüyorsa şunları onaylayın:
 
-- Kullanıcı Iş Ortağı Merkezi 'nde yeteneklerini zaten ilişkilendirdi
+- Kullanıcı zaten kendi becerilerini İş Ortağı Merkezi
 
-- Kullanıcının becerileri, belirli bir uzmanlığa ait gereksinimlerin (Iş Ortağı Merkezi panosunda veya Microsoft İş Ortağı Ağı Uzmanlıklar sayfasında gösterildiği gibi) bir parçasıdır.
+- Kullanıcının becerileri, belirli bir uzmanlığın gereksinimlerinin bir parçası (İş Ortağı Merkezi panosunda veya Microsoft İş Ortağı Ağı Yetkinlikleri sayfasında gösterildiği gibi).
 
-- 72 saat geçtikten sonra, Kullanıcı, yeteneklerini bir 72 saat sonra tamamladığından, yetenek verileri hala Kullanıcı kullanımını yansıtmazsa, MPN hesap yöneticisi veya MPN iş ortağı yöneticisinin [Microsoft Iş ortağı desteğiyle](https://partner.microsoft.com/support)iletişim kurabilmesi gerekir. Microsoft Iş ortağı desteği 'ne başvurmadan önce, aşağıdaki bilgileri toplayıp göndermek için hazırlıklı olun:
+- Kullanıcı becerilerini tamamlandıktan bu yana 72 saat geçti 72 saat sonra, beceri verileri hala kullanıcı becerilerinin tamamlanmasını yansıtmazsa MPN hesap yöneticisi veya MPN iş ortağı yöneticisi Microsoft İş Ortağı Desteği'ne [başvurarak](https://partner.microsoft.com/support). Microsoft İş Ortağı Desteği ile iletişim kurmadan önce aşağıdaki bilgileri toplamaya ve göndermeye hazır olun:
 
-- **İçe aktarılmış Kullanıcı raporunun** (veya raporun ekran görüntüsünde) bir kopyası. Bu rapora erişmek için Iş Ortağı Merkezi ' nde oturum açın, ardından **Kullanıcı yönetimi**' ni ve ardından Kullanıcı **raporunu dışarı aktar**' ı seçin. rapor, iş ortağı University 'e kimlerin erişebileceğini veya Microsoft Learning hesabını kimin ilişkilendirildiğini gösterir.
+- Kullanıcıların dışarı **aktarmış olduğu raporun bir kopyası** (veya raporun ekran görüntüsü). Bu rapora erişmek için, İş Ortağı Merkezi'da oturum İş Ortağı Merkezi'ı **ve** ardından Kullanıcıların raporunu **dışarı aktar'ı seçin.** Rapor, Partner University'ye kimlerin erişimi olduğunu veya Microsoft Learning gösterir.
 
-- Bu makalenin önceki kısımlarında açıklandığı gibi en son yetenekler raporunun indirilen bir sürümü.
+- Bu makalenin başlarında açıklandığı gibi, en son beceriler raporunun indirilen bir sürümü.
 
-- Kullanıcının tamamlanan ilgili Microsoft sınavları, sertifikaları veya eğitim ve değerlendirmelere yönelik kanıt. Aşağıdaki kanıt örneklerine bakın.
+- Kullanıcının ilgili Microsoft sınavlarını, sertifikalarını veya eğitim ve değerlendirmelerini tamamlamış olduğunu kanıtlayan. Aşağıdaki kanıt örneklerine bakın.
 
    > [!NOTE]
-   > şu anda, iş ortağı merkezi yalnızca iki kaynaktan gelen sertifikayı, Microsoft Learning ve iş ortağı üniversitesi 'ni tanır. Diğer kaynaklardan alınan diğer tüm sertifikalar (OpenedX gibi) göz önünde bulundurulmaz.
+   > Şu anda İş Ortağı Merkezi, Microsoft Learning ve Partner University olmak Learning sertifikasyonu kabul ediyor. Diğer kaynaklardan (OpenedX gibi) alınan diğer sertifikalar dikkate alınmaz.
 
-   **Kanıt örneği #1 – Microsoft sertifika resmi dökümü**
+   **Kanıt örneği #1 – Microsoft Sertifikası Resmi Transkript**
 
-   :::image type="content" source="images/competencies/mpn-skills-report-4.png" alt-text="Microsoft sertifika resmi dökümü örneği." border="true":::
+   :::image type="content" source="images/competencies/mpn-skills-report-4.png" alt-text="Microsoft Sertifika Resmi Transkripti örneği." border="true":::
 
-   **Kanıt örneği #2 – Microsoft çevrimiçi eğitim kursu tamamlama** :::image type="content" source="images/competencies/mpn-skills-report-5.png" alt-text="örnek sertifikası Microsoft Online eğitim kursu tamamlandı." border="true":::
+   **Kanıt örneği #2 – Microsoft Online Eğitim Kursu Tamamlama** Başlıklı Microsoft Online Eğitim Kursu Tamamlama Örneği :::image type="content" source="images/competencies/mpn-skills-report-5.png" alt-text="sertifikası." border="true":::
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-- [Microsoft Learn MCP KIMLIĞI 'ni Iş Ortağı Merkezi hesabına bağlama](ms-learn-analytics.md)
+- [MICROSOFT LEARN MCP Kimliğini İş Ortağı Merkezi bağlama](ms-learn-analytics.md)

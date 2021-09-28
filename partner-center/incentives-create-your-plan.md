@@ -8,12 +8,12 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 747c8d091231a1d77365257b89f68184bf1914d7
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: 2558bd56a0ae31197d899becbae5cefd8947b5f6
+ms.sourcegitcommit: e1da62b36420d78bf44e3962358d0af65ebc3402
 ms.translationtype: MT
 ms.contentlocale: tr-TR
 ms.lasthandoff: 09/27/2021
-ms.locfileid: "129070506"
+ms.locfileid: "129088900"
 ---
 # <a name="generate-a-marketing-plan-for-your-incentives-program"></a>Teşvik programınız için bir pazarlama planı oluşturma
 
@@ -33,7 +33,7 @@ Belirli bir programınıza ilişkin planlar hakkında daha Teşvikler programı 
 ## <a name="how-to-submit-a-plan"></a>Planı gönderme
 
 > [!NOTE]
-> İş Ortağı Merkezi önizleme arabirimi, mantıksal olarak gruplu çalışma alanları aracılığıyla daha verimli ve üretken bir kullanıcı deneyimi sağlar. Çalışma alanları arabirimi ve bu arabirimi açma hakkında daha fazla bilgi edinmek için [bkz. İş Ortağı Merkezi.](get-around-partner-center.md#turn-workspaces-on-and-off)
+> Çalışma alanları arabirimi hakkında daha fazla bilgi edinmek için [bkz. İş Ortağı Merkezi.](get-around-partner-center.md#turn-workspaces-on-and-off)
 
 #### <a name="workspaces-view"></a>[Çalışma alanları görünümü](#tab/workspaces-view)
 
@@ -86,7 +86,7 @@ Planınız artık gönderilmiştir. Microsoft onaylandığında veya daha fazla 
 ## <a name="view-the-status-of-your-plan"></a>Plan durumunu görüntüleme
 
 > [!NOTE]
-> İş Ortağı Merkezi önizleme arabirimi, mantıksal olarak gruplu çalışma alanları aracılığıyla daha verimli ve üretken bir kullanıcı deneyimi sağlar. Çalışma alanları arabirimi ve bu arabirimi açma hakkında daha fazla bilgi edinmek için [bkz. İş Ortağı Merkezi.](get-around-partner-center.md#turn-workspaces-on-and-off)
+> Çalışma alanları arabirimi hakkında daha fazla bilgi edinmek için [bkz. İş Ortağı Merkezi.](get-around-partner-center.md#turn-workspaces-on-and-off)
 
 #### <a name="workspaces-view"></a>[Çalışma alanları görünümü](#tab/workspaces-view)
 

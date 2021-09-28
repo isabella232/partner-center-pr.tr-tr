@@ -2,19 +2,19 @@
 title: Geçerli birim fiyat hesaplaması
 ms.topic: how-to
 ms.date: 09/27/2021
-description: Geçerli birim fiyatı ve nasıl hesaplanmış olduğu hakkında bilgi edinmek. Bu makale ayrıca bir örnek hesaplama içerir.
+description: Geçerli birim fiyatı ve nasıl hesaplanmış olduğu hakkında bilgi edinmek. Bu makalede ayrıca bir örnek hesaplama da yer alanmıştır.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-billing
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 252ec080dcc7e521e1db74eb5bdd668d8cd081e7
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: 07085375f6b33bd3aef43bab647410d8e1c1e6cc
+ms.sourcegitcommit: e1da62b36420d78bf44e3962358d0af65ebc3402
 ms.translationtype: MT
 ms.contentlocale: tr-TR
 ms.lasthandoff: 09/27/2021
-ms.locfileid: "129071511"
+ms.locfileid: "129089921"
 ---
 # <a name="effective-unit-price-calculation-for-azure-plan-consumption"></a>Azure planı tüketimi için geçerli birim fiyat hesaplaması
 
@@ -37,7 +37,7 @@ Faturalama dönemi boyunca tüketimi günlük olarak izlenmiz nedeniyle geçerli
 Ölçümde katmanlı fiyatlandırma kullanıp kullanmay olmadığını bilmiyorsanız, bunu bulmak için aşağıdaki yordamı kullanın.
 
 > [!NOTE]
-> İş Ortağı Merkezi önizleme arabirimi, mantıksal olarak gruplu çalışma alanları aracılığıyla daha verimli ve üretken bir kullanıcı deneyimi sağlar. Çalışma alanları arabirimi ve nasıl açabilirsiniz hakkında daha fazla bilgi edinmek için [bkz. İş Ortağı Merkezi.](get-around-partner-center.md#turn-workspaces-on-and-off)
+> Çalışma alanları arabirimi hakkında daha fazla bilgi edinmek için [bkz. İş Ortağı Merkezi.](get-around-partner-center.md#turn-workspaces-on-and-off)
 
 #### <a name="workspaces-view"></a>[Çalışma alanları görünümü](#tab/workspaces-view)
 
@@ -51,7 +51,7 @@ Faturalama dönemi boyunca tüketimi günlük olarak izlenmiz nedeniyle geçerli
 
 1. [İş Ortağı Merkezi panosunda](https://partner.microsoft.com/dashboard/) oturum açın.
 
-2. **Satış'ı** seçin, **Fiyatlandırma ve teklifler'i ve** ardından Azure planı **fiyatlandırması'ı seçin.**
+2. **Satış'ı** seçin, Fiyatlandırma **ve teklifler'i ve** ardından Azure **planı fiyatlandırması'ı seçin.**
 
 3. Ölçüm kimliğiniz ile ilgili bilgileri bulun ve fiyatlandırma verilerinizi indirin.
 

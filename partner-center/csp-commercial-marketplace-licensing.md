@@ -9,12 +9,12 @@ author: petand123
 ms.author: v-petand
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0043a9d6f39b4c6858a6e69f73c6c7503b17508e
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: 80d8def7f72243106aa0cc1645276e4512b004ef
+ms.sourcegitcommit: e1da62b36420d78bf44e3962358d0af65ebc3402
 ms.translationtype: MT
 ms.contentlocale: tr-TR
 ms.lasthandoff: 09/27/2021
-ms.locfileid: "129073858"
+ms.locfileid: "129089853"
 ---
 # <a name="manage-licensing-in-marketplace-offers"></a>Market tekliflerini lisanslama yönetme
 
@@ -58,7 +58,7 @@ Teklif diğer adı, teklifte teklif için kullanılan İş Ortağı Merkezi. Ayr
 Lisanslama sürecinin ilk adımı ticari market teklifinizi oluşturmaktır.
 
 > [!NOTE]
-> İş Ortağı Merkezi önizleme arabirimi, mantıksal olarak gruplu çalışma alanları aracılığıyla daha verimli ve üretken bir kullanıcı deneyimi sağlar. Çalışma alanları arabirimi ve bu arabirimi açma hakkında daha fazla bilgi edinmek için [bkz. İş Ortağı Merkezi.](get-around-partner-center.md#turn-workspaces-on-and-off)
+> Çalışma alanları arabirimi hakkında daha fazla bilgi edinmek için [bkz. İş Ortağı Merkezi.](get-around-partner-center.md#turn-workspaces-on-and-off)
 
 #### <a name="workspaces-view"></a>[Çalışma alanları görünümü](#tab/workspaces-view)
 
@@ -131,16 +131,16 @@ Aşağıdaki yordamda teklifinizi AppSource'ta canlı hale uygulama işlemi aç�
 
     - **Ücretsiz yükleme seçeneğine sahip lisans** özellikli teklifler için: Teklifiniz için lisans  denetimi gerekli yoksa, yönetici kullanıcılar Benimle İletişime Geçin'e ek olarak Şimdi Al düğmesini **de görebilir.** Ücretsiz yükleme seçeneğinizi denemek isteyen kullanıcıların Şimdi Al'a tıklaması gerekir. Bu seçenek, teklifi Yönetim Merkezi'Power Platform yüklemelerini sağlar. Kullanıcılar, soruları **varsa veya** ücretli plana yükseltmek isterse Benimle İletişime Geçin'i kullanmaya devam ediyor.
 
-## <a name="register-isv-connect-deal-in-deal-registration"></a>Anlaşma Kaydı'Bağlan ISV kaydı
+## <a name="register-isv-connect-deal-in-deal-registration"></a>Anlaşma Kaydı'Bağlan ISV'leri kaydetme
 
-Bir müşteriye lisans ataymadan önce her satışın bir müşteriye İş Ortağı Merkezi. Bunu yapmak için [bkz. Anlaşmalarınızı kaydetme.](register-deals.md)
+Bir müşteriye lisans atamadan önce her satışın İş Ortağı Merkezi. Bunu yapmak için [bkz. Anlaşmalarınızı kaydetme.](register-deals.md)
 
 ## <a name="invite-the-customer"></a>Müşteriyi davet etme
 
 Müşteriyi bu satış anlaşmasına katılmaya davet etmek için aşağıdaki yordamı kullanın.  
 
 > [!NOTE]
-> İş Ortağı Merkezi önizleme arabirimi, mantıksal olarak gruplu çalışma alanları aracılığıyla daha verimli ve üretken bir kullanıcı deneyimi sağlar. Çalışma alanları arabirimi ve bu arabirimi açma hakkında daha fazla bilgi edinmek için [bkz. İş Ortağı Merkezi.](get-around-partner-center.md#turn-workspaces-on-and-off)
+> Çalışma alanları arabirimi hakkında daha fazla bilgi edinmek için [bkz. İş Ortağı Merkezi.](get-around-partner-center.md#turn-workspaces-on-and-off)
 
 #### <a name="workspaces-view"></a>[Çalışma alanları görünümü](#tab/workspaces-view)
 
@@ -148,10 +148,10 @@ Müşteriyi bu satış anlaşmasına katılmaya davet etmek için aşağıdaki y
 2. Referanslar **kutucuğunu** seçin.
 3. Anlaşma **Kaydı'ı seçin.**
 4. Gönderilen **anlaşmalar için** filtrele, **Devam Ediyor sekmesini** ve ardından istediğiniz anlaşmayı seçin.
-5. Bu anlaşmanın genel bakış sayfasında Lisansları **yönet'i seçin.**
+5. Bu anlaşmayı genel bakış sayfasında Lisansları **yönet'i seçin.**
 6. Lisansları **yönet penceresinde** Müşteri ayrıntıları açılan **listesinden müşteriyi** seçin. Müşteri ilişkisi henüz yoksa onay için +Yeni müşteri **davet et'i seçin.**
 7. Görüntülenen bağlantıyı kopyalayın.
-8. Bu bağlantıyı müşterinizin faturalama yöneticisine veya genel yöneticisine e-posta ile gönderin ve bu bağlantıyı kullanarak admin.microsoft.com ilişkiniz kabul edilsin ve yetkilendirsin.
+8. Bu bağlantıyı müşterinizin faturalama yöneticisine veya genel yöneticisine e-posta ile gönderin ve bu bağlantıyı kullanarak admin.microsoft.com ilişkileri kabul etmelerini ve yetkilendirmelerini snın.
 
     > [!NOTE]
     > Müşteri bu adımı gerçekleştirene kadar ilişki kurulmayacak.
@@ -162,10 +162,10 @@ Müşteriyi bu satış anlaşmasına katılmaya davet etmek için aşağıdaki y
 2. Sol gezinti menüsünde Ticari **Market/Genel Bakış'ı seçin.**
 3. Sol gezinti menüsünde Referanslar'ı **ve ardından** Anlaşma **Kaydı'ı seçin.**
 4. Gönderilen **anlaşmalar için** filtrele, **Devam Ediyor sekmesini** ve ardından istediğiniz anlaşmayı seçin.
-5. Bu anlaşmanın genel bakış sayfasında Lisansları **yönet'i seçin.**
+5. Bu anlaşmayı genel bakış sayfasında Lisansları **yönet'i seçin.**
 6. Lisansları **yönet penceresinde** Müşteri ayrıntıları açılan **listesinden müşteriyi** seçin. Müşteri ilişkisi henüz yoksa onay için +Yeni müşteri **davet et'i seçin.**
 7. Görüntülenen bağlantıyı kopyalayın.
-8. Bu bağlantıyı müşterinizin faturalama yöneticisine veya genel yöneticisine e-posta ile gönderin ve bu bağlantıyı kullanarak admin.microsoft.com ilişkiniz kabul edilsin ve yetkilendirsin.
+8. Bu bağlantıyı müşterinizin faturalama yöneticisine veya genel yöneticisine e-posta ile gönderin ve bu bağlantıyı kullanarak admin.microsoft.com ilişkileri kabul etmelerini ve yetkilendirmelerini snın.
 
     > [!NOTE]
     > Müşteri bu adımı gerçekleştirene kadar ilişki kurulmayacak.
@@ -177,7 +177,7 @@ Müşteriyi bu satış anlaşmasına katılmaya davet etmek için aşağıdaki y
 Müşteriniz size ilişkinin yetkilerini verdiktan sonra teklifinizin planlarını eklemeye ve her plana lisans atamaya başlayabilirsiniz.
 
 1. Bu anlaşma için Lisansları yönet penceresinde **+Plan ekle'yi seçin.**
-2. Bu çözüm **için planlar ve Lisans** sayısı alanlarını **doldurun** ve ardından Lisansları **güncelleştir'i seçin.** Lisanslar, müşterilerin admin.microsoft.com ataması için şirket içinde kullanılabilir.
+2. Bu çözüm **için planlar ve Lisans** sayısı alanlarını **doldurun** ve ardından Lisansları **güncelleştir'i seçin.** Lisanslar, müşterilerin admin.microsoft.com atanmalarını sağlamak için şirket içinde kullanılabilir.
 
     - Mevcut bir planın lisans sayısını değiştirmek için Lisans sayısı  alanına yeni numarayı girin ve Lisansları **güncelleştir'i seçin.**
 

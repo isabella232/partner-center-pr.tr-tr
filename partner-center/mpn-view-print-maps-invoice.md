@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: eb740c7362be9cadbe70a8be6ee0176e7aa562fc
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: ab9929434763d420f0cbdbc1105b61bbea4b4a0c
+ms.sourcegitcommit: e1da62b36420d78bf44e3962358d0af65ebc3402
 ms.translationtype: MT
 ms.contentlocale: tr-TR
 ms.lasthandoff: 09/27/2021
-ms.locfileid: "129071807"
+ms.locfileid: "129088867"
 ---
 # <a name="invoices-and-taxes-in-the-microsoft-partner-network"></a>Faturalar ve vergiler Microsoft İş Ortağı Ağı
 
@@ -24,10 +24,10 @@ ms.locfileid: "129071807"
 
 Aşağıdaki adımları kullanarak faturanın son faturasını görüntülemek veya indirmek için aşağıdaki adımları kullanın ve bu faturanın son faturasını Microsoft İş Ortağı Ağı. Faturalar genellikle ödeme tamamlandıktan 10 gün sonra kullanılabilir. Ek bilgi için Bölgesel Hizmet Merkezinize ulaşın.  
 
-Bu yordamı gerçekleştirmek için Genel yönetici veya MPN İş Ortağı yöneticisi olmak gerekir.
+Bu yordamı gerçekleştirmek için Genel yönetici MPN İş Ortağı yöneticisi veya mpn iş ortağı yöneticisi olmak gerekir.
 
 > [!NOTE]
-> İş Ortağı Merkezi önizleme arabirimi, mantıksal olarak gruplu çalışma alanları aracılığıyla daha verimli ve üretken bir kullanıcı deneyimi sağlar. Çalışma alanları arabirimi ve bu arabirimi açma hakkında daha fazla bilgi edinmek için [bkz. İş Ortağı Merkezi.](get-around-partner-center.md#turn-workspaces-on-and-off)
+> Çalışma alanları arabirimi hakkında daha fazla bilgi edinmek için [bkz. İş Ortağı Merkezi.](get-around-partner-center.md#turn-workspaces-on-and-off)
 
 #### <a name="workspaces-view"></a>[Çalışma alanları görünümü](#tab/workspaces-view)
 
@@ -50,21 +50,21 @@ Bu yordamı gerçekleştirmek için Genel yönetici veya MPN İş Ortağı yöne
 ## <a name="file-a-tax-exemption"></a>Vergi muafiyeti kaydedin
 
 > [!NOTE]
-> İş Ortağı Merkezi önizleme arabirimi, mantıksal olarak gruplu çalışma alanları aracılığıyla daha verimli ve üretken bir kullanıcı deneyimi sağlar. Çalışma alanları arabirimi ve bu arabirimi açma hakkında daha fazla bilgi edinmek için [bkz. İş Ortağı Merkezi.](get-around-partner-center.md#turn-workspaces-on-and-off)
+> Çalışma alanları arabirimi hakkında daha fazla bilgi edinmek için [bkz. İş Ortağı Merkezi.](get-around-partner-center.md#turn-workspaces-on-and-off)
 
 #### <a name="workspaces-view"></a>[Çalışma alanları görünümü](#tab/workspaces-view)
 
-1. Panodan [İş Ortağı Merkezi](https://partner.microsoft.com/dashboard/home)yardım + destek **kutucuğunu ve** ardından Yeni **istek'i seçin.**
+1. Panodan [İş Ortağı Merkezi yardım](https://partner.microsoft.com/dashboard/home)+ destek **kutucuğunu ve** ardından Yeni **istek'i seçin.**
 
-2. Formu doldurun. Sorun türü **için Profilim** **yönetileyemedi'yi seçin.** Açıklamaya MPN kimliğinizi girin.
+2. Formu doldurun. Sorunun **türü için Profilim** **yönetileyemedi'yi seçin.** Açıklamaya MPN kimliğinizi girin.
 
 3. Bileti gönderdikten sonra, daha fazla bilgi almak için Microsoft size e-posta ile iletir. Yanıtlayınca, vergi muafiyeti sertifikalarınız için uygun destek belgelerini iliştirin.
 
 #### <a name="current-view"></a>[Geçerli görünüm](#tab/current-view)
 
-1. Bu İş Ortağı Merkezi gezinti **menüsünden** Destek'i seçin, ardından İş Ortağı Merkezi **istekleri'ni** ve ardından Yeni **istek'i seçin.**
+1. Bu İş Ortağı Merkezi gezinti **menüsünden** Destek'i seçin, sonra İş Ortağı Merkezi **istekleri'ni** ve ardından Yeni **istek'i seçin.**
 
-2. Formu doldurun. Sorun türü **için Profilim** **yönetileyemedi'yi seçin.** Açıklamaya MPN kimliğinizi girin.
+2. Formu doldurun. Sorunun **türü için Profilim** **yönetileyemedi'yi seçin.** Açıklamaya MPN kimliğinizi girin.
 
 3. Bileti gönderdikten sonra, daha fazla bilgi almak için Microsoft size e-posta ile iletir. Yanıtlayınca, vergi muafiyeti sertifikalarınız için uygun destek belgelerini iliştirin.
 
@@ -73,11 +73,11 @@ Bu yordamı gerçekleştirmek için Genel yönetici veya MPN İş Ortağı yöne
 ## <a name="send-microsoft-your-vat-id-number"></a>Microsoft'a KDV No numarasını gönderin
 
 > [!NOTE]
-> İş Ortağı Merkezi önizleme arabirimi, mantıksal olarak gruplu çalışma alanları aracılığıyla daha verimli ve üretken bir kullanıcı deneyimi sağlar. Çalışma alanları arabirimi ve bu arabirimi açma hakkında daha fazla bilgi edinmek için [bkz. İş Ortağı Merkezi.](get-around-partner-center.md#turn-workspaces-on-and-off)
+> Çalışma alanları arabirimi hakkında daha fazla bilgi edinmek için [bkz. İş Ortağı Merkezi.](get-around-partner-center.md#turn-workspaces-on-and-off)
 
 #### <a name="workspaces-view"></a>[Çalışma alanları görünümü](#tab/workspaces-view)
 
-1. Panodan İş Ortağı Merkezi [kutucuğunu](https://partner.microsoft.com/dashboard/home)ve  ardından Üyelik teklifleri'i **ve** ardından Kullanılabilir'i **seçin.**
+1. İş Ortağı Merkezi [panosundan Üyelik](https://partner.microsoft.com/dashboard/home)kutucuğunu ve ardından Üyelik teklifleri'i **ve** ardından Kullanılabilir'i **seçin.** 
 
 2. KDV **No'larınızı ekle'yi seçin.**
 

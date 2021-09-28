@@ -1,112 +1,112 @@
 ---
-title: Faturanızı ve mutabakat dosyanızı anlayın
+title: Fatura ve mutabakat dosyanızı anlama
 ms.topic: article
 ms.date: 09/27/2021
-description: Faturanızda & mutabakat dosyaları hakkında bilgi edinin. Faturanızda, bu aylık dönem için program, ürün ve müşteriler genelinde Iş Ortağı Merkezi ücretleri gösterilmektedir.
+description: Mutabakat dosyalarınız hakkında & bilgi alın. Faturanız, İş Ortağı Merkezi, ürünler ve müşteriler genelinde bu aylık dönem için geçerli olan ücretleri gösterir.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-billing
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 2004734a250a23be3037342ecc01f5e6bf7b51b0
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: df1e7f4aa34c44f0fcb030cda3df1d6f9cb241f9
+ms.sourcegitcommit: e1da62b36420d78bf44e3962358d0af65ebc3402
 ms.translationtype: MT
 ms.contentlocale: tr-TR
 ms.lasthandoff: 09/27/2021
-ms.locfileid: "129070189"
+ms.locfileid: "129089530"
 ---
-# <a name="understand-your-bill-and-reconciliation-file---learn-how-to-find-them-in-partner-center"></a>Faturanızı ve mutabakat dosyanızı anlayın-bunları Iş Ortağı Merkezi 'nde nasıl bulacağınızı öğrenin
+# <a name="understand-your-bill-and-reconciliation-file---learn-how-to-find-them-in-partner-center"></a>Faturanızı ve mutabakat dosyanızı anlama - bunları nasıl bu İş Ortağı Merkezi
 
-**Uygun roller**: genel yönetici | Faturalandırma Yöneticisi | Yönetim Aracısı
+**Uygun roller:** Genel yönetici | Faturalama yöneticisi | Yönetici aracısı
 
-Faturanızda program, tüm ürünler ve tüm müşteriler genelinde tüm Iş Ortağı Merkezi ücretlerinden oluşan bir Özet vardır.
+Faturanız program, tüm ürünler ve İş Ortağı Merkezi tüm fatura ücretlerinizin özetidir.
 
-## <a name="find-your-bill-and-reconciliation-file"></a>Faturanızı ve mutabakat dosyanızı bulun
+## <a name="find-your-bill-and-reconciliation-file"></a>Fatura ve mutabakat dosyanızı bulma
 
-Faturanızı, Iş Ortağı Merkezi ' nde panonun faturalama sayfasında bulabilirsiniz. Bu sayfada faturalandırma geçmişinizi, harcama eğilimlerini ve mutabakatı dosyalarını da bulabilirsiniz.
+Faturanızı panonun Faturalama sayfasında bulabilirsiniz İş Ortağı Merkezi. Bu sayfada faturalama geçmişinizi, harcama eğilimlerinizi ve mutabakat dosyalarınızı da bulabilirsiniz.
 
 > [!NOTE]
-> Iş Ortağı Merkezi önizleme arabirimi, mantıksal olarak gruplanmış çalışma alanları aracılığıyla daha verimli ve üretken bir kullanıcı deneyimi sağlar. Çalışma alanları arabirimi ve nasıl kullanılacağı hakkında daha fazla bilgi edinmek için bkz. [Iş ortağı merkezini alma](get-around-partner-center.md#turn-workspaces-on-and-off).
+> Çalışma alanları arabirimi hakkında daha fazla bilgi edinmek için [bkz. İş Ortağı Merkezi.](get-around-partner-center.md#turn-workspaces-on-and-off)
 
 #### <a name="workspaces-view"></a>[Çalışma alanları görünümü](#tab/workspaces-view)
 
 1. [İş Ortağı Merkezi panosunda](https://partner.microsoft.com/dashboard/home) oturum açın.
 
-2. **Faturalandırma** kutucuğunu seçin.
+2. Faturalama **kutucuğunu** seçin.
 
 3. Daha ayrıntılı bilgi görüntülemek için bir fatura veya mutabakat dosyası seçin.
 
-En son faturanızda bir bağlantıyı, son fatura tarihinden itibaren hesap bakiyesi altında sayfanın en üstünde bulabilirsiniz.
+Sayfanın en üstünde son fatura tarihine kadar hesap bakiyesi'nin altında en son faturanıza bir bağlantı bulabilirsiniz.
 
-Önceki faturaları faturalandırma geçmişi bölümünde bulabilirsiniz. Uygun yılı seçin ve ardından uygun fatura döneminin yanındaki aşağı açılan oku seçin. Bu dönemin faturasını indirmek için faturalar ' ın yanındaki bağlantıyı (.pdf) seçin.
+Önceki faturaları Faturalama geçmişi bölümünde bulabilirsiniz. Uygun yılı seçin ve ardından uygun Faturalama döneminin yanındaki açılan oku seçin. Dönemin faturasını indirmek için Faturalar (.pdf) öğesinin yanındaki bağlantıyı seçin.
 
 #### <a name="current-view"></a>[Geçerli görünüm](#tab/current-view)
 
 1. [İş Ortağı Merkezi panosunda](https://partner.microsoft.com/dashboard/home) oturum açın.
 
-2. Sol taraftaki menüde **faturalandırma**' i seçin.
+2. Sol menüde Faturalama'ya **tıklayın.**
 
 3. Faturalama durumu sayfasında daha ayrıntılı bilgi görüntülemek için bir fatura veya mutabakat dosyası seçin.
 
-En son faturanızda bir bağlantıyı, son fatura tarihinden itibaren hesap bakiyesi altında sayfanın en üstünde bulabilirsiniz.
+Sayfanın en üstünde son fatura tarihine kadar hesap bakiyesi'nin altında en son faturanıza bir bağlantı bulabilirsiniz.
 
-Önceki faturaları faturalandırma geçmişi bölümünde bulabilirsiniz. Uygun yılı seçin ve ardından uygun fatura döneminin yanındaki aşağı açılan oku seçin. Bu dönemin faturasını indirmek için faturalar ' ın yanındaki bağlantıyı (.pdf) seçin.
+Önceki faturaları Faturalama geçmişi bölümünde bulabilirsiniz. Uygun yılı seçin ve ardından uygun Faturalama döneminin yanındaki açılan oku seçin. Dönemin faturasını indirmek için Faturalar (.pdf) öğesinin yanındaki bağlantıyı seçin.
 
 * * *
 
 ## <a name="invoice-types"></a>Fatura türleri
 
-Microsoft, lisans tabanlı ücretler (Office 365 gibi) ve kullanım tabanlı ücretler (azure gibi) için bir fatura ve tek seferlik ücretler (azure rı, market veya azure planı gibi) için ayrı bir fatura yayımlayacak.
+Microsoft tüm lisans tabanlı ücretler (Office 365 gibi) ve kullanım tabanlı ücretler (Azure gibi) için bir fatura ve tek kullanımlık ücretler (Azure RI, Market veya Azure planı gibi) için ayrı bir fatura sunar.
 
 Örneğin,  
 
-**senaryo 1 [tek para birimi]**: iş ortağının 145p teklifi ve Office 365 lisansları için satın alma işlemleri vardır.  
+**Senaryo 1 [Tek Para Birimi]**: İş ortağının 145P teklifi için satın almaları ve Office 365 lisansları vardır,  
 
-- iş ortağı, hem Office 365 hem de Azure (145p) ile ilgili ücretleri kapsayan bir fatura PDF 'si ve iki mutabakat dosyası alır.  
+- İş ortağı hem Azure hem de Azure (145p) için bir fatura PDF Office 365 iki mutabakat dosyası alır.  
 
-**Senaryo 2 [tek para birimi]**: iş ortağı, 145p satın alımlarıyla bırlıkte Azure RI, Market ve/veya Azure planına yönelik satın alımları içerir
+**Senaryo 2 [Tek Para Birimi]**: İş ortağının 145p satın alma ile birlikte Azure RI, Market ve/veya Azure planı için satın almaları vardır.
 
-- İş ortağı bir fatura PDF 'si ve Azure ücretlerini kapsayan tek bir mutabakat dosyası alır (145p). 
+- İş ortağı, Azure ücretlerini kapsayan bir fatura PDF dosyası ve bir mutabakat dosyası (145p) alır. 
 
-- İş ortağı, Azure ayrılmış örneği (RI), Market, Azure planına ait ücretleri kapsayan başka bir fatura PDF ve bir mutabakat dosyası alır. 
+- İş ortağı, Azure ayrılmış örneği (RI), Market ve Azure planı ücretlerini kapsayan başka bir fatura PDF dosyası ve bir mutabakat dosyası alır. 
 
-**Senaryo 3 [çoklu para birimi]**: Iş ortağı DKK 'de Azure RI ve EUR 'deki 145p satın alımlarıyla birlikte satın alma işlemleri içerir.
+**Senaryo 3 [Çok** Para Birimi] : İş ortağının DKK'de Azure RI için satın almaları ve EUR cinsinden Azure planı ile EUR cinsinden 145p satın almaları vardır.
 
-- İş ortağı, DKK içindeki Azure RI ücretlerini kapsayan bir fatura PDF ve tek bir mutabakat dosyası alır. 
+- İş ortağı, DKK'daki Azure RI ücretlerini kapsayan bir fatura PDF'i ve bir mutabakat dosyası alır. 
 
-- İş ortağı, EUR 'deki Azure planına yönelik ücretleri kapsayan bir fatura PDF ve tek bir mutabakat dosyası alır. 
+- İş ortağı, EUR olarak Azure planı ücretlerini kapsayan bir fatura PDF dosyası ve bir mutabakat dosyası alır. 
 
-- İş ortağı başka bir fatura PDF 'si ve bir mutabakat dosyası alırlar (veya iş ortağı faturalandırma para birimi) 145p teklifi ücretini kapsayan bir 
+- İş ortağı, 145p teklife (veya iş ortağı faturalama para birimine) yönelik ücretlerini kapsayan başka bir fatura PDF dosyası ve bir mutabakat dosyası alır. 
 
-## <a name="understanding-invoice-pdf"></a>Fatura PDF 'sini anlama 
+## <a name="understanding-invoice-pdf"></a>Fatura PDF'lerini anlama 
 
-**kullanım ve lisans tabanlı ücretler için faturalar**: Office 365 ve Azure gibi hizmetlerin ücretlerine yönelik faturalar, seçtiğiniz faturalandırma tarihinin iki (2) günü içinde (UTC]) kullanılabilir.  
+**Kullanım faturaları ve lisans** tabanlı ücretler: Office 365 ve Azure gibi hizmetlerin ücretlerine göre faturalar, seçtiğiniz faturalama tarihini [UTC] takip etmeden iki (2) gün içinde kullanılabilir.  
 
-**Kerelik ve tekrarlayan ücretler için faturalar**: Azure RI, Azure planı, Market gibi hizmetler için ücretlerle ilgili faturaların her ayın sekizinci ' inden daha sonra yer alacak.  
+**Tek kullanımlı ve** yinelenen ücretler için faturalar: Azure RI, Azure planı, Market gibi hizmetlerin ücretlerine göre faturalar her ayın sekizden sonra kullanılamaz.  
 
-Aşağıda, fatura PDF belgesinde önemli alanlardan bazıları verilmiştir:
+Fatura PDF belgesinde yer alan önemli alanlardan bazıları aşağıda verilmiştir:
 
-**Fatura numarası**: ilgili fatura dönemi için oluşturulan fatura belgesi için benzersiz tanımlayıcı. 
+**Fatura numarası:** İlgili faturalama dönemi için oluşturulan fatura belgesi için benzersiz tanımlayıcı. 
 
-**Fatura dönemi**: Bu, kullanımlarının ve lisans tabanlı hizmetlerin bulunduğu dönemdir. 
+**Faturalama dönemi:** Bu süre, kullanım ve lisans tabanlı hizmetlere sahip olduğunuz dönemdir. 
 
-**Fatura tarihi**: faturalandırınızın her ay oluşturulduğu faturalandırma tarihi veya yıldönümü tarihi. 
+**Fatura tarihi:** Faturanın her ay oluşturulacak faturalama tarihi veya yıl dönümü tarihi. 
 
-**Ödeme bitiş tarihi**: ödemenizin alınması gereken tarih. 
+**Ödeme son tarihi:** Ödemenizin alın aldığı tarih. 
 
-**Ücretler**: ilgili fatura dönemi için faturalandırma para biriminiz ödenmesi gereken miktar. 
+**Ücretler:** İlgili faturalama dönemi için faturalama para biriminize bağlı olan tutar. 
 
-**Jenerik**: kredi (hizmet düzeyi SÖZLEŞMESI (SLA) gibi) veya Aboneliklerde yapılan değişikliklere yönelik ayarlamalar (örneğin, lisans artışları veya azalmaları). 
+**Krediler:** Krediler (hizmet düzeyi sözleşmesi (SLA) gibi) veya aboneliklerde yapılan değişikliklere (örneğin, lisans artışları veya düşüşleri) yönelik düzeltmeler. 
 
-**Ödeme yönergeleri**: bölgenize göre faturanızı nasıl ödeymeyle ilgili açıklama. Ödeme yaparken her zaman fatura numaranızı eklediğinizden emin olun. 
+**Ödeme yönergeleri:** Bölgenize göre faturanızı ödemenin açıklaması. Ödeme yaparken her zaman fatura numaranızı dahil etmek için emin olun. 
 
-Fatura dosyanızdaki tüm alanların ayrıntılı bir açıklaması için (tek seferlik ücretler için alanlar dahil), bkz. [fatura dosyası alanları](invoice-file.md). 
+Fatura dosyanız (tek defalık ücretlere ilişkin alanlar dahil) tüm alanların ayrıntılı açıklaması için [bkz. Fatura dosyası alanları.](invoice-file.md) 
 
-## <a name="understand-reconciliation-files"></a>Karşılaştırma dosyalarını anlama
+## <a name="understand-reconciliation-files"></a>Mutabakat dosyalarını anlama
 
- Ücretlerinizin detaya gitme/ayrıntılı ayrıntılarını sağlayan mutabakat dosyaları, fatura PDF 'siyle birlikte indirilebilir. Mutabakat dosyaları müşteri tanımlayıcıları ve müşteri faturaları oluşturmak için kullanabileceğiniz abonelik tanımlayıcılarını içerir. Karşılaştırma dosyaları hakkında daha fazla bilgi için bkz. [karşılaştırma dosyalarını kullanma](use-the-reconciliation-files.md). 
+ Ücretlerinizin detaya gitme/öğe ayrıntılarını sağlayan mutabakat dosyaları, Fatura PDF'sine ek olarak indirilebilir. Mutabakat dosyaları müşteri tanımlayıcılarını ve müşteri faturalarını oluşturmak için kullanabileceğiniz abonelik tanımlayıcılarını içerir. Mutabakat dosyaları hakkında daha fazla bilgi için [bkz. Mutabakat dosyalarını kullanma.](use-the-reconciliation-files.md) 
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-- [Karşılaştırma dosyalarını kullanma](use-the-reconciliation-files.md)
+- [Mutabakat dosyalarını kullanma](use-the-reconciliation-files.md)

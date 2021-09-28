@@ -4,53 +4,53 @@ ms.topic: how-to
 ms.date: 09/27/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-billing
-description: Bunları Iş ortağı merkezi faturalama sayfasında gördüğünüz ayrılmamış ödemeleri öğrenin. Bunları faturanız de nasıl uygulayacağınızı öğrenin.
+description: İş Ortağı Merkezi Faturalama sayfasında, konumlanmamış ödemeleri gördüğünüzde İş Ortağı Merkezi öğrenin. Ayrıca bunları faturalarınıza nasıl uygulayacaklarını da öğrenin.
 author: sodeb
 ms.author: sodeb
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: db271f6fb0ecad7a50ae43e28b29c33931bca0c9
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: 60082ab97940c350f4b1cddbb49f3cc1128dfe49
+ms.sourcegitcommit: e1da62b36420d78bf44e3962358d0af65ebc3402
 ms.translationtype: MT
 ms.contentlocale: tr-TR
 ms.lasthandoff: 09/27/2021
-ms.locfileid: "129071253"
+ms.locfileid: "129088509"
 ---
-# <a name="manage-unallocated-payments-on-your-partner-center-billing-page"></a>Iş ortağı merkezi faturalama sayfanızda ayrılmamış ödemeleri yönetme
+# <a name="manage-unallocated-payments-on-your-partner-center-billing-page"></a>İş Ortağı Merkezi Faturalama sayfasındaki İş Ortağı Merkezi yönetme
 
-**Uygun roller**: Faturalandırma Yöneticisi | Hesap Yöneticisi
+**Uygun roller:** Faturalama yöneticisi | Hesap yöneticisi
 
-Bazen faturalandırma sayfanızda ayrılmamış bir ödeme görebilirsiniz. Ayrılmamış ödeme, Microsoft 'a yaptığınız ve belirli bir faturaya uygulanmadığınız bir ödemenizi sağlar.
+Bazen Faturalama sayfanıza taşınmamış bir ödeme görebilirsiniz. Taşınmamış ödeme, Microsoft'a yapmış ve belirli bir faturaya uygulanmamış olan bir ödemedir.
 
-## <a name="to-view-your-unallocated-payments"></a>Ayrılmamış ödemeleri görüntülemek için
+## <a name="to-view-your-unallocated-payments"></a>Taşınmamış ödemelerinizi görüntülemek için
 
 > [!NOTE]
-> Iş Ortağı Merkezi önizleme arabirimi, mantıksal olarak gruplanmış çalışma alanları aracılığıyla daha verimli ve üretken bir kullanıcı deneyimi sağlar. Çalışma alanları arabirimi ve nasıl kullanılacağı hakkında daha fazla bilgi edinmek için bkz. [Iş ortağı merkezini alma](get-around-partner-center.md#turn-workspaces-on-and-off).
+> Çalışma alanları arabirimi hakkında daha fazla bilgi edinmek için [bkz. İş Ortağı Merkezi.](get-around-partner-center.md#turn-workspaces-on-and-off)
 
 #### <a name="workspaces-view"></a>[Çalışma alanları görünümü](#tab/workspaces-view)
 
-1. [Iş Ortağı Merkezi panosunda](https://partner.microsoft.com/dashboard/home) oturum açın ve **faturalandırma** kutucuğunu seçin.
+1. Panoda oturum [İş Ortağı Merkezi ve](https://partner.microsoft.com/dashboard/home) Faturalama **kutucuğunu** seçin.
 
-2. Faturalama sayfasında, **ayrılmamış ödeme** bölümüne bakın.
+2. Faturalama sayfasında, **Taşınmamış ödeme bölümüne** bakın.
 
-Bu miktarı belirli bir faturaya uygulamak için e-posta gönderin `bposcapp@microsoft.com` ve bu ödemenin hangi faturada uygulanacağını bize bildirin. Ödeme yapıyorsanız, yaptığınız tüm bilgileri eklediğinizden emin olun. Faturalandırma sayfanız 5-6 gün içinde güncelleştirilecektir.
+Bu tutarı belirli bir faturaya uygulamak için e-posta gönderin ve `bposcapp@microsoft.com` bu ödemenin uygulanacak faturayı bize söyleyin. Ödeme yapıyorsanız, tüm bilgileri dahil edin. Faturalama sayfanız 5-6 gün içinde güncelleştirilir.
 
-Ayrılmamış ödemeler, bir faturaya atanana kadar ayrılmamış şekilde kalır.
+Siz bunları bir faturaya atayana kadar, taşınmamış ödemeler taşınmamış olarak kalır.
 
 #### <a name="current-view"></a>[Geçerli görünüm](#tab/current-view)
 
 1. [İş Ortağı Merkezi panosunda](https://partner.microsoft.com/dashboard/home) oturum açın.
 
-2. Sol taraftaki menüde **faturalandırma**' i seçin.
+2. Sol menüde Faturalama'ya **tıklayın.**
 
-3. Faturalama sayfasında, **ayrılmamış ödeme** bölümünü bulun.
+3. Faturalama sayfasında, **Taşınmamış ödeme bölümünü** bulun.
 
-Bu miktarı belirli bir faturaya uygulamak için e-posta gönderin bposcapp@microsoft.com ve bu ödemenin hangi faturada uygulanacağını bize bildirin. Ödeme yapıyorsanız, yaptığınız tüm bilgileri eklediğinizden emin olun. Faturalandırma sayfanız 5-6 gün içinde güncelleştirilecektir.
+Bu tutarı belirli bir faturaya uygulamak için e-posta gönderin ve bposcapp@microsoft.com bu ödemenin uygulanacak faturayı bize söyleyin. Ödeme yapıyorsanız, tüm bilgileri dahil edin. Faturalama sayfanız 5-6 gün içinde güncelleştirilir.
 
-Ayrılmamış ödemeler, bir faturaya atanana kadar ayrılmamış şekilde kalır.
+Siz bunları bir faturaya atayana kadar, taşınmamış ödemeler taşınmamış olarak kalır.
 
 * * *
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-- [Iş Ortağı Merkezi 'nde ticari Market ürünleri ve abonelikleri için faturalandırma](csp-commercial-marketplace-billing.md)
+- [Ticari market ürün ve abonelikleri için faturalama İş Ortağı Merkezi](csp-commercial-marketplace-billing.md)

@@ -8,12 +8,12 @@ ms.author: kashanum
 ms.topic: article
 ms.localizationpriority: medium
 ms.date: 09/27/2021
-ms.openlocfilehash: 256183d80eea3ead7f94a8f798be75ae345db4e3
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: 2e271d303f51548da1f63120275f5eb7532352c0
+ms.sourcegitcommit: e1da62b36420d78bf44e3962358d0af65ebc3402
 ms.translationtype: MT
 ms.contentlocale: tr-TR
 ms.lasthandoff: 09/27/2021
-ms.locfileid: "129075492"
+ms.locfileid: "129088442"
 ---
 # <a name="manage-incentives-co-op-claims"></a>Teşvikleri Co-op taleplerini yönetme
 
@@ -58,7 +58,7 @@ Ortak çalışma talebinizle birlikte sağladığınız malzemelerin yetersiz ol
 ### <a name="dispute-a-rejected-co-op-claim"></a>Reddedilen bir ortak çalışma talebine itiraz etme
 
 > [!NOTE]
-> Iş Ortağı Merkezi önizleme arabirimi, mantıksal olarak gruplanmış çalışma alanları aracılığıyla daha verimli ve üretken bir kullanıcı deneyimi sağlar. Çalışma alanları arabirimi ve nasıl kullanılacağı hakkında daha fazla bilgi edinmek için bkz. [Iş ortağı merkezini alma](get-around-partner-center.md#turn-workspaces-on-and-off).
+> Çalışma alanları arabirimi hakkında daha fazla bilgi edinmek için bkz. [Iş ortağı merkezini alma](get-around-partner-center.md#turn-workspaces-on-and-off).
 
 #### <a name="workspaces-view"></a>[Çalışma alanları görünümü](#tab/workspaces-view)
 

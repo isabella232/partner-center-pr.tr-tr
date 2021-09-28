@@ -9,12 +9,12 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e979af820ba1dae2c7bca3f4fb7a05e5a0b56998
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: 0b89271c42a420c2aafa19fbdb5bc8d3a274a2c6
+ms.sourcegitcommit: e1da62b36420d78bf44e3962358d0af65ebc3402
 ms.translationtype: MT
 ms.contentlocale: tr-TR
 ms.lasthandoff: 09/27/2021
-ms.locfileid: "129072290"
+ms.locfileid: "129089122"
 ---
 # <a name="manage-commercial-marketplace-products-and-offers-for-your-customers"></a>Müşterileriniz için ticari Market ürünlerini ve tekliflerini yönetin
 
@@ -27,7 +27,7 @@ Bulut Çözümü Sağlayıcısı (CSP) programındaki iş ortakları, ticari mar
 Üçüncü taraf bir ISV yayımcısından bir abonelik satın aldıktan sonra, bunu aşağıdaki gibi gözden geçirebilir veya düzenleyebilirsiniz:
 
 > [!NOTE]
-> Iş Ortağı Merkezi önizleme arabirimi, mantıksal olarak gruplanmış çalışma alanları aracılığıyla daha verimli ve üretken bir kullanıcı deneyimi sağlar. Çalışma alanları arabirimi ve nasıl kullanılacağı hakkında daha fazla bilgi edinmek için bkz. [Iş ortağı merkezini alma](get-around-partner-center.md#turn-workspaces-on-and-off).
+> Çalışma alanları arabirimi hakkında daha fazla bilgi edinmek için bkz. [Iş ortağı merkezini alma](get-around-partner-center.md#turn-workspaces-on-and-off).
 
 #### <a name="workspaces-view"></a>[Çalışma alanları görünümü](#tab/workspaces-view)
 
@@ -123,7 +123,7 @@ Uygulanan iptal dönemleri hakkında daha fazla bilgi için, nasıl iptal edilec
 SaaS ticari Market teklifleri için bir müşteri aboneliğine yönelik kullanıcı lisansları ekleyebilir veya kaldırabilirsiniz.
 
 > [!NOTE]
-> Iş Ortağı Merkezi önizleme arabirimi, mantıksal olarak gruplanmış çalışma alanları aracılığıyla daha verimli ve üretken bir kullanıcı deneyimi sağlar. Çalışma alanları arabirimi ve nasıl kullanılacağı hakkında daha fazla bilgi edinmek için bkz. [Iş ortağı merkezini alma](get-around-partner-center.md#turn-workspaces-on-and-off).
+> Çalışma alanları arabirimi hakkında daha fazla bilgi edinmek için bkz. [Iş ortağı merkezini alma](get-around-partner-center.md#turn-workspaces-on-and-off).
 
 #### <a name="workspaces-view"></a>[Çalışma alanları görünümü](#tab/workspaces-view)
 

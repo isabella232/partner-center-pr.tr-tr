@@ -2,19 +2,19 @@
 title: Windows 10 Home'i Windows 10 Education
 ms.topic: article
 ms.date: 09/27/2021
-description: Bulut Çözümü Sağlayıcısı (CSP) iş ortaklarının eğitim müşterilerinden bazılarının eğitim müşterilerini Windows 10 Home'ye nasıl Windows 10 Education
+description: Bulut Çözümü Sağlayıcısı (CSP) iş ortaklarının Bazı Eğitim müşterilerini Windows 10 Home'den Windows 10 Education
 ms.service: partner-dashboard
 ms.subservice: partnercenter-pricing
 author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 61f03da43d9319bc0f645e83c8665fe745ebdb50
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: 986930c65409a94eccc8851432576dd2cf0a5e7f
+ms.sourcegitcommit: e1da62b36420d78bf44e3962358d0af65ebc3402
 ms.translationtype: MT
 ms.contentlocale: tr-TR
 ms.lasthandoff: 09/27/2021
-ms.locfileid: "129072781"
+ms.locfileid: "129089836"
 ---
 # <a name="upgrade-education-customers-from-windows-10-home-to-windows-10-education"></a>Eğitim müşterilerini Windows 10 Home'ye Windows 10 Education
 
@@ -22,13 +22,13 @@ ms.locfileid: "129072781"
 
 ## <a name="overview"></a>Genel Bakış
 
-1 Ağustos 2021'den itibaren, Microsoft 365 A1, Microsoft 365 A3, Microsoft 365 A5 veya Windows 10 Enterprise A3 veya A5 abonelikleri satın alan Bulut Hizmeti Sağlayıcıları (CSP), Eğitim müşterilerinin hem sınıf hem de uzaktan öğrenme için tasarlanmış Windows 10 Home'den Windows 10 Education'a yükseltmelerine yardımcı olabilir.
+1 Ağustos 2021'den itibaren, Microsoft 365 A1, Microsoft 365 A3, Microsoft 365 A5 veya Windows 10 Enterprise A3 veya A5 abonelikleri satın alan Bulut Hizmeti Sağlayıcıları (CSP), Eğitim müşterilerinin hem sınıf hem de uzaktan öğrenme için tasarlanan Windows 10 Home'den Windows 10 Education'a yükseltmelerine yardımcı olabilir.
 
 Windows 10 Home, eğitim müşterileri için Microsoft Bulut Anlaşması (CSP programı aracılığıyla) lisansına sahip olan uygun bir işletim sistemidir. Şimdiye kadar yalnızca Toplu Lisanslama (VL) eğitim programlarında kullanılabilen bu uygunluk, yönetici portalı desteği Microsoft 365 etkinleştirilmiştir. 
 
 ## <a name="how-the-upgrade-process-works"></a>Yükseltme işlemi nasıl çalışır?
 
-CSP iş ortakları, kendi adına bir destek isteği göndererek müşterilerinin yükseltmelerine yardımcı olabilir. Microsoft Desteği müşterinin uygun olduğundan emin olmak için isteği gözden geçirecek; İstek onaylandıktan sonra destek, iş Windows 10 Pro Education için gerekli anahtarı sağlar ve bunu müşteriye de sağlar.
+CSP iş ortakları, kendi adına bir destek isteği göndererek müşterilerinin yükseltmelerine yardımcı olabilir. Microsoft Desteği müşterinin uygun olduğundan emin olmak için isteği gözden geçirecek; İstek onaylandıktan sonra destek, Windows 10 Pro Education iş ortağına anahtar sağlar ve bu anahtarı müşteriye vetir.
 
 Müşteri anahtarı yükledikten sonra cihaz Azure Active Directory (AAD) aracılığıyla kiracı etki alanına katılırsa, cihaz otomatik olarak Windows 10 Education (abonelik) olarak yükseltilir.
 
@@ -39,7 +39,7 @@ Müşteri anahtarı yükledikten sonra cihaz Azure Active Directory (AAD) aracı
 ### <a name="partners--how-to-get-the-keys"></a>İş ortakları : anahtarları nasıl elde edersiniz?
 
 > [!NOTE]
-> İş Ortağı Merkezi önizleme arabirimi, mantıksal olarak gruplu çalışma alanları aracılığıyla daha verimli ve üretken bir kullanıcı deneyimi sağlar. Çalışma alanları arabirimi ve nasıl açabilirsiniz hakkında daha fazla bilgi edinmek için [bkz. İş Ortağı Merkezi.](get-around-partner-center.md#turn-workspaces-on-and-off)
+> Çalışma alanları arabirimi hakkında daha fazla bilgi edinmek için [bkz. İş Ortağı Merkezi.](get-around-partner-center.md#turn-workspaces-on-and-off)
 
 #### <a name="workspaces-view"></a>[Çalışma alanları görünümü](#tab/workspaces-view)
 
@@ -86,7 +86,7 @@ Müşteri anahtarı yükledikten sonra cihaz Azure Active Directory (AAD) aracı
 7. Aşağıdaki ayrıntıları aşağıdaki ayrıntılara Destek isteği:
 
     - **Başlık:** Windows 10 Home anahtarını Windows 10 Education yükseltmeniz gerekir.
-    - **Açıklama:** Yükseltmeyi etkinleştirmek için [insert number] anahtarları Windows 10 Education. (İstenen anahtar sayısının Microsoft 365 A1/A3/A5 veya Windows 10 Enterprise A3/A5 abonelik lisanslardan büyük olması gerektiğini unutmayın.) Müşterinin abonelik kimliği [Microsoft 365 A1/A3/A5 veya Windows 10 Enterprise A3/A5 aboneliği için müşterinin abonelik kimliği GUID'sini girin].
+    - **Açıklama:** Yükseltmeyi etkinleştirmek için [insert number] anahtarları Windows 10 Education. (İstenen anahtar sayısının Microsoft 365 A1/A3/A5 veya Windows 10 Enterprise A3/A5 abonelik lisanslardan büyük olması gerektiğini unutmayın.) Müşterinin abonelik kimliği [Microsoft 365 A1/A3/A5 veya Windows 10 Enterprise A3/A5 aboneliği için müşterinin abonelik kimliği GUID'sini ekleme].
     - **İletişim numarası:** Bu önceden doldurulmuş olur; onaylamak veya güncelleştirmek için gözden geçirme.
     - **E-posta:** Bu önceden doldurulmuş olur ve Microsoft portalı yöneticisi olarak (yalnızca genel yönetici veya faturalama yöneticisi) olarak kullanmak istediğiniz e-posta olması gerekir.
     - **Tercih edilen iletişim yöntemi:** Geri **Telefon** veya **Geri arama zamanla'ya seçin.**
@@ -118,7 +118,7 @@ Hayır, Eğitim Çözümleri (EES), Eğitim Çözümleri için Açık Değer Abo
 **Müşterimin başlangıçta istenenden daha fazla anahtara ihtiyacı var. Bunları nasıl elde ediyorum?**
 Müşterinizin mobil cihazları için anahtarlar için ek bir destek isteği Windows 10 Home gönderebilirsiniz. Birden çok istekte toplam miktar, Microsoft 365 A1/A3/A5 veya Windows 10 Enterprise A3/A5 aboneliklerinin toplam etkin lisanslarından büyük olmayacaktır.
 
-### <a name="my-customer-is-about-to-buy-more-windows-10-home-devices-can-they-get-more-upgrades"></a>Müşterim daha fazla cihaz satın almak Windows 10 Home. Daha fazla yükseltme elde musunuz?
+### <a name="my-customer-is-about-to-buy-more-windows-10-home-devices-can-they-get-more-upgrades"></a>Müşterim daha fazla cihaz satın Windows 10 Home. Daha fazla yükseltme elde musunuz?
 Eğitim müşterileri, Windows 10 Education programımız aracılığıyla düşük maliyetli Shape the Future cihazları [değerlendirmeli](https://www.microsoft.com/education/products/windows/shapethefuture.aspx) ve bu cihazları yükseltme Windows 10 Home ortadan kaldırmalı. Daha fazla cihaz satın Windows 10 Home, iş ortaklarının Microsoft yönetim portalı üzerinden yeni bir destek isteği göndermesi gerekir.
 
 **Destek ile ne zaman iletişime geçebilirsiniz ve yükseltme anahtarını ne zaman alasınız?**

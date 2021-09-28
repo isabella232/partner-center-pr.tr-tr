@@ -9,12 +9,12 @@ author: sroy
 ms.author: sroy
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 986022da183b4d7a2e31b700b1dcfca34de64f98
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: 9d9c33d2f30b4a1c3be96336686ff8ac88baf4f9
+ms.sourcegitcommit: e1da62b36420d78bf44e3962358d0af65ebc3402
 ms.translationtype: MT
 ms.contentlocale: tr-TR
 ms.lasthandoff: 09/27/2021
-ms.locfileid: "129070839"
+ms.locfileid: "129088578"
 ---
 # <a name="manage-co-sell-opportunities-in-partner-center"></a>İş ortak satış fırsatlarını İş Ortağı Merkezi
 
@@ -42,7 +42,7 @@ Ortak satış fırsatı, bir müşteri sorununun çözülmesine yardımcı olmak
 ## <a name="access-the-co-sell-section"></a>Ortak satış bölümüne erişme
 
 > [!NOTE]
-> İş Ortağı Merkezi önizleme arabirimi, mantıksal olarak gruplu çalışma alanları aracılığıyla daha verimli ve üretken bir kullanıcı deneyimi sağlar. Çalışma alanları arabirimi ve bu arabirimi açma hakkında daha fazla bilgi edinmek için [bkz. İş Ortağı Merkezi.](get-around-partner-center.md#turn-workspaces-on-and-off)
+> Çalışma alanları arabirimi hakkında daha fazla bilgi edinmek için [bkz. İş Ortağı Merkezi.](get-around-partner-center.md#turn-workspaces-on-and-off)
 
 #### <a name="workspaces-view"></a>[Çalışma alanları görünümü](#tab/workspaces-view/)
 
@@ -110,7 +110,7 @@ Geçerli anlaşmanın ayrıntılarını girin. Aşağıda tanımlanan alanlar, m
 
 ### <a name="add-team-members"></a>Takım üyeleri ekleme
 
-Anlaşma ayrıntılarını ekledikten sonra, bu anlaşma üzerinde çalışacak çalışanları ekleyin. Çalışanın adı, telefon numarası ve e-posta adresini girmeniz gerekir. Bu ayrıntılar zorunludur ve bir anlaşma oluşturmanız için girilen tüm ayrıntılarla en az bir kişiniz olması gerekir. Bu ayrıntılar, bir anlaşma oluşturulduktan sonra bile değiştirilebilir. Önceki anlaşmadaki son kişiler, bu uygulamaları hızla uygulamanıza eklemeniz için sağ tarafta gösterilir. P2P anlaşmaları için, takım hem şirketinizden hem de şirketten Daveti gönderen çalışanlara sahip olabilir.
+Anlaşma ayrıntılarını ekledikten sonra, bu anlaşma üzerinde çalışacak çalışanları ekleyin. Çalışanın adını, telefon numarasını ve e-posta adresini girmeniz gerekir. Bu ayrıntılar zorunludur ve bir anlaşma oluşturmanız için girilen tüm ayrıntılarla en az bir kişiniz olması gerekir. Bu ayrıntılar, bir anlaşma oluşturulduktan sonra bile değiştirilebilir. Önceki anlaşmadaki son kişiler, bu uygulamaları hızla uygulamanıza eklemeniz için sağ tarafta gösterilir. P2P anlaşmaları için, takım hem şirketinizden hem de şirketten Daveti gönderen çalışanlara sahip olabilir.
 
 ### <a name="add-solutions"></a>Çözüm (ler) Ekle
 

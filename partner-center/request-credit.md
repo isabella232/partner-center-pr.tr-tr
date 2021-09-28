@@ -1,26 +1,26 @@
 ---
-title: Microsoft 'tan kredi isteme
+title: Microsoft'tan kredi isteği
 ms.topic: article
 ms.date: 09/27/2021
-description: Microsoft 'tan kredi istemek için avantajları, kısıtlamaları ve yordamları öğrenin.
+description: Microsoft'tan kredi isteğine yönelik avantajları, kısıtlamaları ve yordamları öğrenin.
 ms.service: partner-dashboard
 ms.subservice: partnercenter-billing
 author: parthpandyaMSFT
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: fd77aa8e6dbd9536d1e8aed528ddb37f2749f99f
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: 5271f70bee15582689670007a22d858760c104d9
+ms.sourcegitcommit: e1da62b36420d78bf44e3962358d0af65ebc3402
 ms.translationtype: MT
 ms.contentlocale: tr-TR
 ms.lasthandoff: 09/27/2021
-ms.locfileid: "129071110"
+ms.locfileid: "129090176"
 ---
-# <a name="how-and-when-to-request-a-credit-from-microsoft"></a>Microsoft 'tan kredi isteme
+# <a name="how-and-when-to-request-a-credit-from-microsoft"></a>Microsoft'tan kredi isteği nasıl ve ne zaman gönderilir?
 
-**Uygun roller**: yönetici Aracısı | Genel yönetici
+**Uygun roller:** Yönetici aracısı | Genel yönetici
 
-bu makalede, Bulut Çözümü Sağlayıcısı (CSP) doğrudan ve dolaylı sağlayıcıların nasıl kredi isteyebileceği açıklanmaktadır:
+Bu makalede, doğrudan Bulut Çözümü Sağlayıcısı dolaylı sağlayıcıların nasıl kredi isteğinda Bulut Çözümü Sağlayıcısı açıklanmıştır:
 
 - [Yanlışlıkla satın almalar](#accidental-purchase-credit)
 
@@ -30,47 +30,47 @@ bu makalede, Bulut Çözümü Sağlayıcısı (CSP) doğrudan ve dolaylı sağla
 
 - Teknik sorunlar
 
-- Microsoft 'tan yanlış bilgiler
+- Microsoft'tan yanlış bilgiler
 
 ## <a name="considerations"></a>Dikkat edilmesi gerekenler
 
-Kredi istekleri yalnızca CSP doğrudan ve dolaylı sağlayıcılar tarafından kabul edilir. Talepler dolaylı satıcılardan kabul edilmez.
+Kredi istekleri yalnızca CSP doğrudan ve dolaylı sağlayıcılardan kabul edilir. Dolaylı kurumsal bayilerden gelen istekler kabul edilmez.
 
-[Microsoft Azure bir müşteri için hizmet isteği oluşturmak](./report-problems-on-behalf-of-a-customer.md) ayrı bir işlemdir.
+[Bir müşteri için hizmet isteği oluşturmak Microsoft Azure](./report-problems-on-behalf-of-a-customer.md) ayrı bir işlemdir.
 
-## <a name="requesting-a-credit"></a>Kredi isteme
+## <a name="requesting-a-credit"></a>Kredi isteği
 
-**Kredi Istemek için**:
+**Kredi isteği için:**
 
 #### <a name="workspaces-view"></a>[Çalışma alanları görünümü](#tab/workspaces-view)
 
-1. [Kredi veya Iade formu isteğini](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3eWCb)indirin ve doldurun. (Önceki bağlantıyı seçtiğinizde formu doğrudan bilgisayarınıza indirdiğini unutmayın.)
+1. İade veya Para [İadesi İsteği Formunu indirip doldurun.](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3eWCb) (Yukarıdaki bağlantının seçerek formu doğrudan bilgisayarınıza indirdiğine dikkat edin.)
 
-2. [Iş Ortağı Merkezi panosunda](https://partner.microsoft.com/dashboard)oturum açın, soru işareti simgesini (?) seçin ve ardından **Yardım + Destek**' i seçin.
+2. Panoda oturum [İş Ortağı Merkezi,](https://partner.microsoft.com/dashboard)soru işareti simgesini (?), ardından Yardım **+ destek'i seçin.**
 
-3. **Yeni istek**' ı seçin.
+3. Yeni **istek'i seçin.**
 
-4. **Konu başlıkları** ' nı seçin **ve kategori** = CSP, **Konu** = faturalandırma ve faturalama ve **alt konu** = kredi istekleri ve para iadesi ' ni seçin.
+4. Konulara **Gözat'ı** **seçin ve Kategori** = CSP, **Konu** = Faturalama ve Alt Konu **=** Kredi istekleri ve para iadeleri'ne tıklayın.
 
-5. **Önerilen çözümler** sayfasında, **daha fazla yardıma ihtiyacınız var mı?** **Evet**' i seçin.
+5. Önerilen çözümler **sayfasında, Daha** fazla yardıma **ihtiyacınız var mı? altında Evet'i** **seçin.**
 
-6. **Ayrıntılar** sayfasında, **Sorun ayrıntıları** bölümünü doldurun. **Ayrıntılar** metin kutusunda, kredi veya iade **formu** **için istekte** açıklanan gerekli bilgileri girdiğinizden emin olun.
+6. Ayrıntılar **sayfasında** Sorun ayrıntıları **bölümünü** tamamlar. Ayrıntılar **metin** kutusuna İade veya Para İadesi İsteği Formu'nda açıklanan **gerekli bilgileri** **girmeyin.**
 
 7. **Gönder**’i seçin.
 
 #### <a name="current-view"></a>[Geçerli görünüm](#tab/current-view)
 
-1. [*Kredi veya Iade formu isteğini*](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3eWCb)indirin ve doldurun. (Önceki bağlantıyı seçtiğinizde formu doğrudan bilgisayarınıza indirdiğini unutmayın.)
+1. İade veya Para [*İadesi İsteği Formunu indirip doldurun.*](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3eWCb) (Yukarıdaki bağlantının seçerek formu doğrudan bilgisayarınıza indirdiğine dikkat edin.)
 
-2. [Iş Ortağı Merkezi panosunda](https://partner.microsoft.com/dashboard) oturum açın ve **hizmet istekleri**' ni seçin.
+2. İş Ortağı Merkezi [panosunda oturum açın](https://partner.microsoft.com/dashboard) ve Hizmet **istekleri'ne seçin.**
 
-3. **Yeni istek**' ı seçin.
+3. Yeni **istek'i seçin.**
 
-4. **Konu başlıkları** ' nı seçin **ve kategori** = CSP, **Konu** = faturalandırma ve faturalama ve **alt konu** = kredi istekleri ve para iadesi ' ni seçin.
+4. Konulara **Gözat'ı** **seçin ve Kategori** = CSP, **Konu** = Faturalama ve Alt Konu **=** Kredi istekleri ve para iadeleri'ne tıklayın.
 
-5. **Önerilen çözümler** sayfasında, **daha fazla yardıma ihtiyacınız var mı?** **Evet**' i seçin.
+5. Önerilen çözümler **sayfasında, Daha** fazla yardıma **ihtiyacınız var mı? altında Evet'i** **seçin.**
 
-6. **Ayrıntılar** sayfasında, **Sorun ayrıntıları** bölümünü doldurun. **Ayrıntılar** metin kutusunda, **kredi** veya **para iadesi isteği formunda** açıklanan gerekli bilgileri girin.
+6. Ayrıntılar **sayfasında** Sorun ayrıntıları **bölümünü** tamamlar. Ayrıntılar **metin** kutusuna İade veya Para İadesi İsteği Formunda **açıklanan** gerekli **bilgileri girin.**
 
 7. **Gönder**’i seçin.
 
@@ -78,87 +78,87 @@ Kredi istekleri yalnızca CSP doğrudan ve dolaylı sağlayıcılar tarafından 
 
 ## <a name="types-of-credits"></a>Kredi türleri
 
-Bu bölümde, isteyebilmeniz için bazı krediler açıklanmaktadır.
+Bu bölümde, isteğiniz olan bazı krediler açıkmektedir.
 
 ### <a name="accidental-purchase-credit"></a>Yanlışlıkla satın alma kredisi
 
 > [!NOTE]
-> Iş Ortağı Merkezi önizleme arabirimi, mantıksal olarak gruplanmış çalışma alanları aracılığıyla daha verimli ve üretken bir kullanıcı deneyimi sağlar. Çalışma alanları arabirimi ve nasıl kullanılacağı hakkında daha fazla bilgi edinmek için bkz. [Iş ortağı merkezini alma](get-around-partner-center.md#turn-workspaces-on-and-off).
+> Çalışma alanları arabirimi hakkında daha fazla bilgi edinmek için [bkz. İş Ortağı Merkezi.](get-around-partner-center.md#turn-workspaces-on-and-off)
 
 #### <a name="workspaces-view"></a>[Çalışma alanları görünümü](#tab/workspaces-view)
 
 1. [İş Ortağı Merkezi panosunda](https://partner.microsoft.com/dashboard) oturum açın.
 
-2. Soru işareti simgesini (?) ve ardından **Yardım + Destek**' i seçin, sonra da **yeni istek**' ı seçin.
+2. Soru işareti simgesini (?), Yardım **+ Destek'i ve** ardından Yeni **istek'i seçin.**
 
-3. **Isteği Başlat** sayfasında, **CSP-müşteriler, siparişler ve abonelikler** bölümünü bulun. Bu bölümde, **bir sorun türü seçin**' i seçin ve ardından **Müşteri Hizmetleri kredi istekleri**' ni seçin.
+3. İsteği **başlat sayfasında** **CSP - müşteriler, siparişler ve abonelikler bölümünü bulun.** Bu bölümde Sorun türü **seçin'i ve ardından** Müşteri hizmetleri **kredi istekleri'ne tıklayın.**
 
-4. **Önerilen çözümler** sayfasında, **daha fazla yardıma mı ihtiyacınız var?** altında **Evet**' i seçin.
+4. Önerilen **çözümler sayfasında, Daha** fazla yardıma **ihtiyacınız var mı?** altında Evet'i **seçin.**
 
-5. **Ayrıntılar** sayfasında, **Sorun ayrıntıları** bölümünü doldurun. **Ayrıntılar** metin kutusunda, daha önce topladığınız gerekli bilgileri girdiğinizden emin olun.
+5. Ayrıntılar **sayfasında** Sorun ayrıntıları **bölümünü** doldurun. Ayrıntılar **metin** kutusuna daha önce toplanmış olan gerekli bilgileri girmeyin.
 
-6. SLA kredi isteğiniz içinde göndermek için **Gönder** ' i seçin.
+6. SLA **kredi** isteğinizi göndermek için Gönder'i seçin.
 
 #### <a name="current-view"></a>[Geçerli görünüm](#tab/current-view)
 
 1. [İş Ortağı Merkezi panosunda](https://partner.microsoft.com/dashboard) oturum açın.
 
-2. Sol taraftaki menüde **hizmet istekleri**' ni seçin ve **iş ortağı destek istekleri**' ni seçin.
+2. Sol menüde Hizmet istekleri'ne ve ardından **İş ortağı** destek **istekleri'ne tıklayın.**
 
-3. **Iş ortağı isteği** sayfasında, **yeni istek**' ı seçin.
+3. İş ortağı **isteği sayfasında Yeni** **istek'i seçin.**
 
-4. **Isteği Başlat** sayfasında, **CSP-müşteriler, siparişler ve abonelikler** bölümünü bulun. Bu bölümde, **bir sorun türü seçin**' i seçin ve ardından **Müşteri Hizmetleri kredi istekleri**' ni seçin.
+4. İsteği **başlat sayfasında** **CSP - müşteriler, siparişler ve abonelikler bölümünü bulun.** Bu bölümde Sorun türü **seçin'i ve ardından** Müşteri hizmetleri **kredi istekleri'ne tıklayın.**
 
-5. **Önerilen çözümler** sayfasında, **daha fazla yardıma mı ihtiyacınız var?** altında **Evet**' i seçin.
+5. Önerilen **çözümler sayfasında, Daha** fazla yardıma **ihtiyacınız var mı?** altında Evet'i **seçin.**
 
-6. **Ayrıntılar** sayfasında, **Sorun ayrıntıları** bölümünü doldurun. **Ayrıntılar** metin kutusunda, daha önce topladığınız gerekli bilgileri girdiğinizden emin olun.
+6. Ayrıntılar **sayfasında** Sorun ayrıntıları **bölümünü** doldurun. Ayrıntılar **metin** kutusuna daha önce toplanmış olan gerekli bilgileri girmeyin.
 
-7. SLA kredi isteğiniz içinde göndermek için **Gönder** ' i seçin.
-eski Microsoft 365 veya Microsoft Dynamics 365 tekliflere yönelik kredi istekleri için (örneğin, lisans sayısının yanlışlıkla artması veya yanlış ürün satın alındığı zaman):
+7. SLA **kredi** isteğinizi göndermek için Gönder'i seçin.
+Microsoft 365 veya Microsoft Dynamics 365'in eski tekliflerine yönelik kredi istekleri için (örneğin, lisans sayısı yanlışlıkla artırılmış veya yanlış ürün satın alınmıştır):
 
-- 30 günlük satın alma süresi içindeki aboneliklerin iptallerini, bir hizmet isteği oluşturmaya gerek olmadan %100 oranında iade etmeniz gerekir. Kredi, abonelik askıya alındıktan sonra verilen fatura/mutabakat dosyasında görünür.
+- Satın almadan sonra 30 gün içindeki abonelik iptalleri, hizmet isteği oluşturmadan %100 para iadesi alır. Kredi, abonelik askıya alındıktan sonra verilen fatura/mutabakat dosyasında görünür.
 
-- Aboneliği 2 ile 12 ay içinde askıya alırsanız, eşit olarak dağıtılan bir şekilde alacaklandırılır. Aboneliğin başından tam para iadesi almak için, aşağıdakiler dışında **90** gün içinde satın alınması gerekir:
+- Bir aboneliği 2-12 ay içinde askıya alırsanız, provokasyona göre krediniz olur. Aboneliğin başından tam para iadesi almak için aşağıdakiler dışında **90** gün içinde bir istek gönderebilirsiniz:
 
-  - Microsoft Power BI Premium P1: %100 iadesi için bir isteğin **yedi gün** içinde gönderilmesi gerekir. Yedi gün sonra, sabit maliyetler krediden düşülür.
+  - Microsoft Power BI Premium P1:%100 para iadesi **için** yedi gün içinde bir isteğin teslimi gerekir. Yedi gün sonra sabit maliyetler krediden düşülebilir.
 
-  - Microsoft 365 A1: tam kredi yalnızca istek **30** **gün** içinde gönderildiğinde ve aboneliğe hiçbir kullanıcı atanmamışsa sağlanır. Satın alma işleminden sonraki 30 gün sonra para iadesi verilmez.
+  - Microsoft 365 A1: Tam kredi, yalnızca istek satın almadan **sonra 30**  gün içinde gönderildi ve aboneliğe kullanıcı atanmamışsa sağlanır. Satın almadan 30 gün sonra para iadesi yapılmaz.
 
 * * *
 
-### <a name="duplicate-orders-credit"></a>Yinelenen sipariş kredisi
+### <a name="duplicate-orders-credit"></a>Yinelenen Siparişler kredisi
 
-Yinelenen lisanslara yönelik kredi istekleri için (örneğin, bir müşterinin başka bir kiracıya veya başka bir CSP ortağına geçtikten sonra yinelenen lisansları olduğunda):
+Yinelenen lisanslara yönelik kredi istekleri için (örneğin, bir müşterinin başka bir kiracıya veya başka bir CSP iş ortağına, başka bir kiracıya( veya başka bir CSP iş ortağına) yinelenen lisansları olduğunda):
 
-- Kredi istekleri, **Yeni** abonelik satın alımınızın **120** gün içinde gönderilmesi gerekir.
+- Kredi isteklerinin yeni abonelik satın alımının **üzerinden 120** **gün içinde gönderebilirsiniz.**
 
-- İş ortakları veya kiracılar arasında geçiş yapan müşteriler, sözleşmeleri üzerinde sunulan tüm teklifleri kaybeder.
+- İş ortakları veya kiracılar arasında gönüllü olarak geçiş yapan müşteriler, sözleşmeleriyle ilgili tüm teklifleri kaybeder.
 
-- Önceki promosyonlar artık mevcut değilse, bu yükseltmeler uygulanmaz.
+- Önceki promosyonlar artık kullanılamıyorsa, bu promosyonlar geçerli olmaz.
 
-- Yeni teklifler geçerli fiyata satın alınır.
+- Yeni teklifler geçerli fiyatla satın alınarak satın alındı.
 
 ### <a name="service-outages-service-level-agreement-issues"></a>Hizmet kesintileri (hizmet düzeyi sözleşmesi sorunları)
 
-Hizmet kesintilerine yönelik kredi istekleri için:
+Hizmet kesintileri için kredi istekleri için:
 
-- Microsoft 'tan alınan SLA kredileri, hangi hizmet (ler) in etkilendiğini temel alır. örneğin, müşterinizin bir Office 365 paketi varsa ancak yalnızca bir SharePoint kesintisi yaşanıyorsa, SLA kredisi yalnızca SharePoint için onaylanır ve müşterinin tüm planı değildir
-- Krediler, etkilenen hizmete ve kesinti süresine göre eşit olarak dağıtılır. SLA kredilerine uygun olan senaryoların türlerini görmek için bkz. çevrimiçi [Hizmetler BIRLEŞTIRILMIŞ SLA belgesi](https://www.microsoft.com/licensing/docs/view/Service-Level-Agreements-SLA-for-Online-Services). bu bilgiler, Bulut Çözümü Sağlayıcısı (CSP) programı aracılığıyla satılan hizmetler için geçerlidir.
-- Kredi isteklerinin, olayın gerçekleştiği aya göre takvim ayının sonuna kadar gönderilmesi gerekir. Örneğin, olay 15 Şubat 'da oluştuysa, talebi ve tüm gerekli bilgileri 31 Mart 'a göre almamız gerekir. (Daha fazla ayrıntı *kredi veya Iade formu Için istekte* bulunur).
+- Microsoft'un SLA kredileri, hangi hizmetlerden etkilenlerine bağlı olarak belirlenir. Örneğin, müşterinizin bir Office 365 paketi varsa ancak yalnızca SharePoint kesintisi yaşanıyorsa, SLA kredisi yalnızca SharePoint için onaylanır ve müşterinin planının tamamı için onaylanmaz
+- Krediler, etkilenen hizmete ve kesinti süresine göre provokasyona göre yapılır. SLA kredileri için uygun senaryo türlerini görmek için Çevrimiçi Hizmetler Birleştirilmiş [SLA belgesine bakın.](https://www.microsoft.com/licensing/docs/view/Service-Level-Agreements-SLA-for-Online-Services) Bu bilgiler, Bulut Çözümü Sağlayıcısı (CSP) programı aracılığıyla satılan hizmetler için de geçerlidir.
+- Kredi istekleri, olayın meydana geldiği aydan sonraki takvim ayı sonuna kadar gönder gerekir. Örneğin, olay 15 Şubat'ta oluştu ise talebi ve tüm gerekli bilgileri 31 Mart'a kadar alacağız. (Daha fazla ayrıntı İade veya *Para İadesi İsteği Formundadır).*
 
-- Müşterinin kesinti tarafından etkilendiğini ve bir SLA Kredisi istediğinin kanıtını sağlamanız gerekir. Müşteri kiracı KIMLIĞI ve kesinti KIMLIĞI (hizmet durumu panosundan) sağlanmalıdır. Kanıt olarak gönderilen müşteri e-postası, etkilenen kiracının etki alanından gelmelidir. (Kişisel adresten e-posta kabul edilemez).
+- Müşterinin kesintiden etki olduğuna ve SLA kredisi isteğine dair kanıt sağlamanız gerekir. Müşteri kiracı kimliği ve kesinti kimliği (Hizmet Durumu Panosundan) sağlanmalıdır. Kanıt olarak gönderilen müşteri e-postası, etkilenen kiracının etki alanında olmalıdır. (Kişisel bir adresten gelen e-posta kabul edilemez).
 
 > [!NOTE]
-> Danışmanlık olayları genellikle SLA kredileri için uygun değildir. Hizmet durumu panosuna gönderilen bir olay, *bir kiracının etkilenip etkilenmeyeceğini* ve Microsoft 'un yayımlama sırasında sahip olduğu en iyi bilgileri temsil ettiğini gösterir. Sağlık sayfası verileri bir hizmetin genel kullanılabilirliğini temsil eder. Tek tek hizmet etkisi, risk azaltma ve çözüm farklılık gösterebilir. Daha fazla ayrıntı için son olay sonrası ve olay sonrası Incelemesini gözden geçirebilirsiniz. hizmet durumu hakkında daha fazla bilgi için bkz. [Microsoft 365 hizmeti sistem durumunu denetleme](/microsoft-365/enterprise/view-service-health).
+> Danışmanlık olayları genellikle SLA kredileri için uygun değildir. Hizmet Durumu Panosu'na gönderilen bir  olay, kiracının etki altında olduğunu gösterir ve yayımlama zamanında Microsoft'un sahip olduğu en iyi bilgileri temsil eder. Sistem durumu sayfası verileri bir hizmetin genel kullanılabilirliğini temsil eder. Tek tek hizmet etkisi, azaltma ve çözüm farklılık gösterebilir. Diğer ayrıntılar için son Olay Gönderisini ve Olay Sonrası Gözden Geçirmeyi gözden geçirebilirsiniz. Hizmet durumu hakkında daha fazla bilgi için [bkz. Hizmet durumunu Microsoft 365 denetleme.](/microsoft-365/enterprise/view-service-health)
 
 ### <a name="required-information"></a>Gerekli bilgiler
 
-Müşteri adı, kiracı tanımlayıcısı, iş ortağı bilet numarası ve bilet oluşturma tarih/saat damgası, bir talebin işlenmesine yetecek kadar yeterli değildir.
+Bir talebin işlenmesi için müşteri adı, kiracı tanımlayıcısı, iş ortağı bilet numarası ve bilet oluşturma tarihi/saat damgası yeterli değildir.
 
-Microsoft 'a [BIR SLA Kredisi isteği göndermeden](https://www.microsoft.com/licensing/docs/view/Service-Level-Agreements-SLA-for-Online-Services) önce, destek biletine dahil etmek için aşağıdaki tüm bilgileri toplamanız gerekir:
+[Microsoft'a bir SLA kredi isteği](https://www.microsoft.com/licensing/docs/view/Service-Level-Agreements-SLA-for-Online-Services) göndermeden önce, destek biletinize eklemek için aşağıdaki tüm bilgileri toplamanız gerekir:
 
-- Müşteri kiracının GUID 'SI
-- [Kesinti olayı tanımlayıcısı](#outage-incident-identifier)
+- Müşteri kiracısı GUID'si
+- Kesinti [olayı tanımlayıcısı](#outage-incident-identifier)
 - Müşterinin kesintiden etki olduğuna ve SLA kredisi isteğine sahip olduğuna dair kanıt.
 - Etkilene abonelikler CSP aracılığıyla mı satın alındı? (Evet veya hayır)
 

@@ -1,90 +1,90 @@
 ---
-title: Microsoft teklifleri ile go-to-market hakkında bilgi edinin
+title: Microsoft teklifleri ile Pazara Satış hakkında bilgi edinmek için
 ms.topic: article
 ms.date: 09/27/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-benefits
-description: Microsoft teklifleri ile nasıl pazara gideceğinizi, pazara ulaşma süresini hızlandırmaya, müşteri adayları oluşturmaya ve işletmenizi genişletmenize nasıl yardımcı olabileceğini öğrenin.
+description: Microsoft teklifleriyle Pazara Git'in pazara satış sürecini hızlandırmaya, müşteri adayları oluşturmaya ve işletmenizi genişletmeye nasıl yardımcı olduğunu öğrenin.
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0acf5fefa9232286d51bfc4152c78f0f42c0aad0
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: ab098f836f1c778654df2b80e7ee6b779998f9c9
+ms.sourcegitcommit: e1da62b36420d78bf44e3962358d0af65ebc3402
 ms.translationtype: MT
 ms.contentlocale: tr-TR
 ms.lasthandoff: 09/27/2021
-ms.locfileid: "129075228"
+ms.locfileid: "129088816"
 ---
 # <a name="explore-your-go-to-market-with-microsoft-offers"></a>Microsoft teklifleriyle Pazara Çıkışınızı keşfetme
 
-**Uygun roller**: genel yönetici | MPN iş ortağı Yöneticisi
+**Uygun roller:** Genel yönetici | MPN iş ortağı yöneticisi
 
-Microsoft İş Ortağı Ağı üye olduğunuzda, işletmenizi oluşturmanıza ve büyütmenize yardımcı olabilecek üyelik avantajlarına erişim elde edersiniz. Microsoft kaynakları, teklifleri ve programları ile pazara karşı, Microsoft İş Ortağı Ağı üye olarak aldığınız [birçok avantaj](https://partner.microsoft.com/manage-your-partner-network-benefits) arasında yer alır.
+Tek bir üye Microsoft İş Ortağı Ağı, işlerinizi derlemenize ve büyümenize yardımcı olacak üyelik avantajlarına erişim elde edersiniz. Microsoft kaynakları, teklifleri ve programları ile Pazara Git, bir üye olarak sahip [olduğunuz](https://partner.microsoft.com/manage-your-partner-network-benefits) birçok avantajdan Microsoft İş Ortağı Ağı vardır.
 
-Pazara karşı Pazarlama teklifleri, pazara sunma, müşteri adayları oluşturma ve işinizi genişletme sürecinizi hızlandırmanıza yardımcı olabilecek özel satış ve pazarlama kaynaklarına erişmenizi sağlar.
-
-> [!NOTE]
-> Zaten Microsoft İş Ortağı Ağı bir üyesiyseniz [Microsoft iş ortağı ağı sitesine](https://partner.microsoft.com/membership)katın.
-
-## <a name="go-to-market-resources-offers-and-programs-available-by-membership-level"></a>Üyelik düzeyine göre sunulan go-to-market kaynakları, teklifleri ve programları
-
-Pazara sunma tekliflerinizi, belirli MPN üyeliğinizi, uzmanlarınızı ve elde ettiğiniz tüm [uzmanlara](learn-about-competencies.md) göre farklılık gösterir.
-
-Tüm MPN üyeleri, bazı standart GTM kaynaklarına erişebilir. Bunlar, hazırlanın-go pazarlama varlıklarına, satış etkinleştirme platformuna ve isteğe bağlı dijital pazarlama erişimine sahiptir. Ayrıca, ortak satış Için hazır bir teklifle gümüş veya altın uzmanlık ve/veya ISV iş ortakları elde eden iş ortakları tarafından sunulan iş ortakları için de daha fazla pazara açık teklifler ve programlar da mevcuttur.
+Pazara Giriş teklifleri, pazara giriş sürenizi hızlandırmanıza, müşteri adayları oluşturmanıza ve işlerinizi genişletmenize yardımcı olan özel satış ve pazarlama kaynaklarına erişmenizi sağlar.
 
 > [!NOTE]
-> Go-to-market kaynakları, teklifler ve programlar eklemeler ve değişikliklere tabidir. Ortak satış için hazır bir teklifle, farklı uzmanlık düzeylerine ve/veya ISV iş ortaklarına ulaşmak isteyen iş ortakları için en son pazara açık kaynaklar ve teklifler hakkında bilgi edinmek için Microsoft İş Ortağı Ağı [pazara git sayfasına](https://partner.microsoft.com/membership/go-to-market) gidin.
+> Henüz bir Microsoft İş Ortağı Ağı üyesi değilseniz, Microsoft İş Ortağı Ağı [sitesine katılın.](https://partner.microsoft.com/membership)
 
-**Gümüş** uzmanlık seviyeleri ve/veya bir ortak satış teşvik teklıfı olan ISV iş ortakları ile sunulan ek pazara açık teklifler teklifleri:
+## <a name="go-to-market-resources-offers-and-programs-available-by-membership-level"></a>Üyelik düzeyine göre kullanılabilen Pazara Git kaynakları, teklifleri ve programları
 
-- Tüm MPN standart go-to-market kaynakları
-- İş profili iyileştirmesi ve başvuru yönetimi
-- Microsoft ile pazara sunma
+Pazara Git teklifleriniz, mpN üyelik düzeyinize, uzmanlığınıza ve elde etmekte olduğunuz [yetkinliklere](learn-about-competencies.md) göre farklılık gösterir.
 
-Ortak satış ile uygun teklif sunan **altın** uzmanlık düzeyi ve/veya ISV iş ortakları olan iş ortakları için sunulan ek pazara açık teklifler:
-
-- Tüm MPN standart go-to-market kaynakları
-- Tüm gümüş/ISV ortak satış özellikli go-to-market teklifleri
-- İş ortağı pazara git araç kutusu 
-
-## <a name="view-go-to-market-membership-offers-in-partner-center"></a>Iş Ortağı Merkezi 'nde pazara karşı pazara üyelik tekliflerini görüntüleme
-
-Pazara sunma tekliflerinizi görüntülemek için:
+Tüm MPN üyeleri belirli standart GTM kaynaklarına erişime sahip olur. Bunlar arasında kullanıma hazır pazarlama varlıklarına, satış etkinleştirme platformuna ve isteğe bağlı dijital pazarlamaya erişim yer alıyor. Ayrıca Silver veya Gold uzmanlıklarına sahip iş ortaklarının ve/veya ortak satışa hazır teklife sahip ISV iş ortaklarının da sunduğu daha fazla Pazara Satış teklifi ve programı vardır.
 
 > [!NOTE]
-> Iş Ortağı Merkezi önizleme arabirimi, mantıksal olarak gruplanmış çalışma alanları aracılığıyla daha verimli ve üretken bir kullanıcı deneyimi sağlar. Çalışma alanları arabirimi ve nasıl kullanılacağı hakkında daha fazla bilgi edinmek için bkz. [Iş ortağı merkezini alma](get-around-partner-center.md#turn-workspaces-on-and-off).
+> Pazara Git kaynakları, teklifleri ve programları eklemelere ve değişikliklere tabi olur. Farklı uzmanlık düzeylerine [](https://partner.microsoft.com/membership/go-to-market) Microsoft İş Ortağı Ağı iş ortakları ve/veya ortak satışa hazır teklife sahip ISV iş ortakları için kullanılabilen en son Pazara Satışa Git kaynakları ve teklifleri hakkında bilgi edinmek için Microsoft İş Ortağı Ağı Pazara Git sayfasına gidin.
+
+Silver uzmanlık düzeylerine sahip olanlar  ve/veya ortak satış teşviki uygun teklifine sahip bir ISV iş ortakları tarafından kullanılabilen ek Pazara Git teklifleri:
+
+- Tüm MPN standart Pazara Satış kaynakları
+- İş profili iyileştirme ve referans yönetimi
+- Microsoft ile pazarla
+
+**Gold** uzmanlık düzeyine sahip iş ortaklarının ve/veya ortak satış teşviki uygun teklifine sahip ISV iş ortakları tarafından kullanılabilen ek Pazara Satış teklifleri:
+
+- Tüm MPN standart Pazara Satış kaynakları
+- Tüm Silver/ISV ortak satışa hazır Pazara Satış teklifleri
+- İş Ortağı Pazara Satış Araç Kutusu 
+
+## <a name="view-go-to-market-membership-offers-in-partner-center"></a>Market'te Pazara Satış üyelik tekliflerini İş Ortağı Merkezi
+
+Pazara Git tekliflerinizi görüntülemek için:
+
+> [!NOTE]
+> Çalışma alanları arabirimi hakkında daha fazla bilgi edinmek için [bkz. İş Ortağı Merkezi.](get-around-partner-center.md#turn-workspaces-on-and-off)
 
 #### <a name="workspaces-view"></a>[Çalışma alanları görünümü](#tab/workspaces-view)
 
-1. Iş Ortağı Merkezi [panosunda](https://partner.microsoft.com/dashboard)oturum açın.
+1. İş Ortağı Merkezi [oturum açın.](https://partner.microsoft.com/dashboard)
 
-2. **Avantajlar** kutucuğunu seçin ve ardından **pazara geçin**.
+2. Avantajlar **kutucuğunu** ve ardından **Pazara git'i seçin.**
 
-Zaten etkin olan veya etkinleştirilmeye uygun olan Go-to-market tekliflerinin bir listesini görürsünüz.
+Zaten etkin olan veya etkinleştirilen Pazara Git tekliflerinin listesini görüntülenir.
 
 #### <a name="current-view"></a>[Geçerli görünüm](#tab/current-view)
 
-1. Iş Ortağı Merkezi [panosunda](https://partner.microsoft.com/dashboard)oturum açın.
+1. İş Ortağı Merkezi [oturum açın.](https://partner.microsoft.com/dashboard)
 
-2. Sol taraftaki menüden **MPN**' yi seçin. Ardından, aşağıdaki adımlardan birini yapın:
+2. Sol menüden **MPN'yi seçin.** Ardından aşağıdaki adımlardan birini uygulayın:
 
-   - **Genel bakış**'ı seçin. **Hızlı bağlantılar** bölümüne ilerleyin ve sonra **pazara git** sekmesini seçin.
+   - **Genel bakış**'ı seçin. Hızlı Bağlantılar **bölümüne gidin** ve pazara git **sekmesini** seçin.
 
      veya
 
-   - **Avantajlar** ' ı ve **pazara** karşı ' yı seçin.
+   - **Avantajlar'ı** ve **ardından Pazara Git'i seçin.**
 
-Zaten etkin olan veya etkinleştirilmeye uygun olan Go-to-market tekliflerinin bir listesini görürsünüz.
+Zaten etkin olan veya etkinleştirilen Pazara Git tekliflerinin listesini görüntülenir.
 
 * * *
 
-## <a name="manage-or-activate-go-to-market-offers-in-partner-center"></a>Iş Ortağı Merkezi 'nde go-to-market tekliflerini yönetme veya etkinleştirme
+## <a name="manage-or-activate-go-to-market-offers-in-partner-center"></a>Market'te Pazara Satış tekliflerini yönetme veya İş Ortağı Merkezi
 
-Pazara sunma tekliflerinizi etkinleştirmek veya yönetmek için bkz. [Go-to-market tekliflerinizi yönetme](manage-your-partner-network-benefits.md#manage-go-to-market-offers). Etkinleştirme sürecinin bir parçası, seçtiğiniz pazara karşı e-posta ve iletişim için iletişim olarak bir pazarlama sorumlusu atamanız gerekir.
+Pazara Satış tekliflerinizi etkinleştirmek veya yönetmek için bkz. Pazara Satış [tekliflerinizi yönetme.](manage-your-partner-network-benefits.md#manage-go-to-market-offers) Etkinleştirme işleminin bir parçası olarak, etkinleştirilen Pazara Git teklifleri ile ilgili takip e-postaları ve iletişimleri için bir pazarlama kişisi atamanız gerekir.
 
 > [!IMPORTANT]
-> Belirli bir pazara karşı pazarlama tekliflerini etkinleştirmek ve ilgili bir pazarlama kişisi atamak için genel yönetici veya MPN iş ortağı yöneticisi olmanız gerekir. Gerekirse, [ **avantajlar** sayfanızdaki](https://partnercenter.microsoft.com/pcv/partnership/benefits) yönergeleri izleyerek genel yönetici olabilirsiniz (oturum açmanız gerekir). Şirketinizin zaten bir genel yöneticisi olabilir, bu nedenle ekibinizle kontrol ettiğinizden emin olun.
+> Belirli Pazara Satış tekliflerini etkinleştirmek ve ilgili pazarlama ilgili kişisi atamak için genel yönetici veya MPN iş ortağı yöneticisi olmak gerekir. Gerekirse, Avantajlar sayfasındaki yönergeleri izleyerek (oturum açma gereklidir) [  genel](https://partnercenter.microsoft.com/pcv/partnership/benefits) yönetici olursanız. Şirketinizin zaten bir genel yöneticisi olabilir, bu nedenle takımınıza mutlaka kontrol edin.
 
 ## <a name="next-steps"></a>Sonraki adımlar
 

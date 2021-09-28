@@ -9,12 +9,12 @@ author: sodeb
 ms.author: sodeb
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a57ed239e331c43cbfeaf1d1c860972824e0f848
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: eb9fff7ddbf828cbf15ad447c66ed18dfcb0643b
+ms.sourcegitcommit: e1da62b36420d78bf44e3962358d0af65ebc3402
 ms.translationtype: MT
 ms.contentlocale: tr-TR
 ms.lasthandoff: 09/27/2021
-ms.locfileid: "129072445"
+ms.locfileid: "129089205"
 ---
 # <a name="billing-overview-for-csp-program-partners-working-in-partner-center"></a>İş Ortağı Merkezi’nde çalışan CSP programı iş ortakları için faturalamaya genel bakış 
 
@@ -25,7 +25,7 @@ Bu makale, Iş Ortağı Merkezi 'ndeki CSP iş ortakları için temel faturaland
 ## <a name="find-your-bill"></a>Faturanızı bulun
 
 > [!NOTE]
-> Iş Ortağı Merkezi önizleme arabirimi, mantıksal olarak gruplanmış çalışma alanları aracılığıyla daha verimli ve üretken bir kullanıcı deneyimi sağlar. Çalışma alanları arabirimi ve nasıl kullanılacağı hakkında daha fazla bilgi edinmek için bkz. [Iş ortağı merkezini alma](get-around-partner-center.md#turn-workspaces-on-and-off).
+> Çalışma alanları arabirimi hakkında daha fazla bilgi edinmek için bkz. [Iş ortağı merkezini alma](get-around-partner-center.md#turn-workspaces-on-and-off).
 
 #### <a name="workspaces-view"></a>[Çalışma alanları görünümü](#tab/workspaces-view)
 

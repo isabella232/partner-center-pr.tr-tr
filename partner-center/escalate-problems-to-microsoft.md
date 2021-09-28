@@ -9,12 +9,12 @@ ms.author: kimnich
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
 ms.date: 09/27/2021
-ms.openlocfilehash: c62a53f3af908fa1fd77f0c252404602cffbae9a
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: 0b6eaaae15d85e99a5c65ce5cd3b5fb5b7727332
+ms.sourcegitcommit: e1da62b36420d78bf44e3962358d0af65ebc3402
 ms.translationtype: MT
 ms.contentlocale: tr-TR
 ms.lasthandoff: 09/27/2021
-ms.locfileid: "129071495"
+ms.locfileid: "129089938"
 ---
 # <a name="escalate-problems-to-microsoft-and-learn-which-issues-are-more-suited-to-microsoft-escalation"></a>Sorunları Microsoft'a yükseltme ve Hangi sorunların Microsoft'un yükseltmeye daha uygun olduğunu öğrenme  
 
@@ -39,7 +39,7 @@ Ancak, düzeltmek için Microsoft'a teslim etmek zorunda olacak çeşitli sorun 
 ## <a name="submit-a-support-request"></a>Destek isteği gönderme
 
 > [!NOTE]
-> İş Ortağı Merkezi önizleme arabirimi, mantıksal olarak gruplu çalışma alanları aracılığıyla daha verimli ve üretken bir kullanıcı deneyimi sağlar. Çalışma alanları arabirimi ve bu arabirimi açma hakkında daha fazla bilgi edinmek için [bkz. İş Ortağı Merkezi.](get-around-partner-center.md#turn-workspaces-on-and-off)
+> Çalışma alanları arabirimi hakkında daha fazla bilgi edinmek için [bkz. İş Ortağı Merkezi.](get-around-partner-center.md#turn-workspaces-on-and-off)
 
 #### <a name="workspaces-view"></a>[Çalışma alanları görünümü](#tab/workspaces-view)
 

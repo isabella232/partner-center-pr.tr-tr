@@ -9,12 +9,12 @@ author: arpithakanuganti
 ms.author: v-arkanu
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e7aa4afd3bbdc33e3fd44c564c79ebf66dddffef
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: f12f50a163e27bad1cbc7e1da43cbb446a1468ac
+ms.sourcegitcommit: e1da62b36420d78bf44e3962358d0af65ebc3402
 ms.translationtype: MT
 ms.contentlocale: tr-TR
 ms.lasthandoff: 09/27/2021
-ms.locfileid: "129075602"
+ms.locfileid: "129088476"
 ---
 # <a name="software-assurance-planning-services-retirement"></a>Yazılım Güvencesi Planlama Hizmetleri kullanımdan kaldırma
 
@@ -60,7 +60,7 @@ Bu makalede, her adımın nasıl tamamlanacağı açıklanmaktadır.
 Şirketinizin belirli bir planlama hizmetleri katılımını kaydetme uygunluğunu doğrulamaya yardımcı olmak için:
 
 > [!NOTE]
-> Iş Ortağı Merkezi önizleme arabirimi, mantıksal olarak gruplanmış çalışma alanları aracılığıyla daha verimli ve üretken bir kullanıcı deneyimi sağlar. Çalışma alanları arabirimi ve nasıl kullanılacağı hakkında daha fazla bilgi edinmek için bkz. [Iş ortağı merkezini alma](get-around-partner-center.md#turn-workspaces-on-and-off).
+> Çalışma alanları arabirimi hakkında daha fazla bilgi edinmek için bkz. [Iş ortağı merkezini alma](get-around-partner-center.md#turn-workspaces-on-and-off).
 
 #### <a name="workspaces-view"></a>[Çalışma alanları görünümü](#tab/workspaces-view)
 

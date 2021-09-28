@@ -1,120 +1,120 @@
 ---
-title: İş ortağı katkı göstergeleri - SMMCS
+title: İş ortağı katkı göstergeleri-SMMCS
 ms.topic: article
 ms.date: 09/27/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-insights
-description: Small ve Midmarket Cloud Solutions uzmanlığını elde etmek için önce iş ortaklarının karşılaması gereken İş Ortağı Katkı Göstergeleri (PCI) hakkında bilgi edinebilirsiniz.
+description: Iş ortağı katkı göstergeleri (PCI) iş ortaklarının, küçük ve orta ölçekli Pazar bulut çözümlerini uzmanlığına ulaşmak için karşılaması gerektiğini öğrenin.
 author: kshitishsahoo
 ms.author: ksahoo
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ad938d03dca9008168fda6a7c5eebed9a0aa3f07
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: 5e07298d406b586ad7f3747b1804b37c0cc2ac28
+ms.sourcegitcommit: e1da62b36420d78bf44e3962358d0af65ebc3402
 ms.translationtype: MT
 ms.contentlocale: tr-TR
 ms.lasthandoff: 09/27/2021
-ms.locfileid: "129075823"
+ms.locfileid: "129089479"
 ---
 # <a name="use-partner-contribution-indicators-to-attain-the-small-and-midmarket-cloud-solutions-competency"></a>Küçük ve Orta Ölçekli Piyasa Bulut Çözümleri yetkinliğine ulaşmak için İş Ortağı Katkısı Göstergelerini kullanın
 
-**Uygun roller:** Genel yönetici | MPN iş ortağı yönetici | Hesap yöneticisi
+**Uygun roller**: genel yönetici | MPN iş ortağı Yöneticisi | Hesap Yöneticisi
 
-Bu makalede, bir iş ortağının Cloud Business Applications SMB seçeneği aracılığıyla Silver veya Gold Small ve Midmarket Cloud Solutions uzmanlığı elde etme veya elde tutma yönünde ilerlemesini değerlendirmek için kullanılan altı önemli İş Ortağı Katkı Göstergesi (PCI) açıklanmıştır.
+bu makalede, bir iş ortağının bir gümüş veya altın küçük ve orta pazar bulut çözümlerini bulut Business Applications SMB seçeneği aracılığıyla dengelemeye veya saklamaya yönelik ilerleme durumunu değerlendirmek için kullanılan altı temel iş ortağı katkı göstergeleri (pcı) açıklanmaktadır.
 
 > [!NOTE]
-> İş ortaklarının Silver veya Gold Cloud Business Applications uzmanlığını elde etmek için farklı bir İş Ortağı Katkısı Göstergesi ölçümlerini nasıl Business Applications öğrenin. Daha fazla bilgi için [bkz. Bulut Hizmeti uzmanlığı için İş Business Applications Göstergelerini kullanma.](partner-contribution-indicators.md) Ayrıca, kullanılabilir [farklı yetkinlikler](https://partner.microsoft.com/membership/competencies) ve bunların gereksinimleri hakkında daha fazla bilgi edinebilirsiniz.
+> iş ortaklarının gümüş veya altın bulut Business Applications uzmanlığına ulaşmak için farklı bir iş ortağı katkısı göstergesi ölçümleri kullandığını öğrenin. daha fazla bilgi için bkz. [bulut Business Applications uzmanlığına yönelik iş ortağı katkısı göstergelerini kullanma](partner-contribution-indicators.md). Ayrıca, kullanılabilir farklı Uzmanlıklar ve gereksinimleri hakkında [daha fazla](https://partner.microsoft.com/membership/competencies) bilgi edinebilirsiniz.
 
-Bu makale aşağıdakiler hakkında bilgi içerir:
+Bu makale aşağıdakiler hakkında bilgiler içerir:
 
-- [Her PCI göstergesi nasıl puanlandı?](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#pci-scoring-based-on-six-key-indicators)
+- [Her PCI göstergesinin puanlanması](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#pci-scoring-based-on-six-key-indicators)
 
-- [Her PCI göstergesi için eşikler](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#thresholds-for-each-pci-metric-for-this-competency)
+- [Her PCI göstergesinin eşikleri](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#thresholds-for-each-pci-metric-for-this-competency)
 
 - [Her PCI göstergesinin ayrıntılı tanımları](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#detailed-pci-metrics-definitions-for-this-competency)
 
-- [Verinin bu alanına İş Ortağı Merkezi](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#how-to-access-partner-contribution-indicators)
+- [Iş Ortağı Merkezi 'nin bu alanına erişme](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#how-to-access-partner-contribution-indicators)
 
-## <a name="overview-of-partner-contribution-indicators-for-this-competency"></a>Bu uzmanlık için İş Ortağı Katkı Göstergelerine genel bakış
+## <a name="overview-of-partner-contribution-indicators-for-this-competency"></a>Bu uzmanlığa yönelik Iş ortağı katkı göstergelerine genel bakış
 
-İş Ortağı Katkı Göstergeleri, bir iş ortağının başarılı müşteri sonuçları elde etme ve bu sayede Cloud Business Applications SMB seçeneği aracılığıyla Küçük ve Orta Ölçekli Pazar Bulut Çözümleri uzmanlığını elde etme veya koruma konusunda pazarda daha fazla fark elde etme konusunda bütünsel bir ölçü sağlar.
+iş ortağı katkı göstergeleri, bir iş ortağının başarılı müşteri sonuçlarını sunma konusunda bir bütünsel ölçümü sağlar ve bu nedenle, bir iş ortağı küçük ve orta pazar bulut çözümlerini bulut Business Applications SMB seçeneği aracılığıyla uzmanlığa karşı korur veya koruursa pazara daha fazla farklılık gösterir.
 
-PCI ile iş ortakları, başarılı dağıtımlar ve kullanımı artırma gibi müşteri başarısının temel ölçüleri için kredi alır. Bu ekipler, teknik özelliklerine yatırım yapmaya ve bunların ölçeğini ölçeklendirmeye devam ettiği için ödüllendirilir.
+PCI ile iş ortakları, başarılı dağıtımlar ve kullanımı artırma gibi müşteri başarısı için önemli ölçümler için kredi alır. Bu kişiler, yatırım ve teknik yeteneklerini ölçeklendirmeye devam etmek için yeniden çarpılar.
 
-Bir iş ortağı ana göstergelerde belirli etki düzeylerine ulaşıyorsa( örneğin, iş ortağı Cloud Business Applications SMB seçeneği aracılığıyla Küçük ve Orta Ölçekli Pazar Bulut Çözümleri yetkinliğine sahip olabilir (veya bu yetkinliği koruyabilirsiniz).
+bir iş ortağı, anahtar göstergelerinde belirli düzeyde etki elde edildiğinde, iş ortağı küçük ve orta pazar bulut çözümlerini bulut Business Applications SMB seçeneği aracılığıyla kullanabilir (veya koruyabilir).
 
 > [!NOTE]
-> Yetkinlik elde etmenin avantajları hakkında daha fazla bilgi edinmek için [bkz. Microsoft iş ortağı yetkinlikleri.](https://partner.microsoft.com/membership/competencies)
+> Uzmanlıklar kullanmanın avantajları hakkında daha fazla bilgi edinmek için bkz. [Microsoft iş ortağı Uzmanlıklar](https://partner.microsoft.com/membership/competencies).
 
-## <a name="pci-scoring-based-on-six-key-indicators"></a>Altı ana göstergeye göre PCI puanlama
+## <a name="pci-scoring-based-on-six-key-indicators"></a>Altı tuşlu gösterge temelinde PCI Puanlama
 
-PCI, iş ortağının teknik özelliklerine, müşteri başarısını artırabilme özelliklerine ve satış performansına gelişmiş bir görünüm sağlar. İş ortaklarının Cloud Business Applications SMB seçeneğiyle Silver veya Gold Small ve Midmarket Cloud Solutions uzmanlığını elde etmelerini sağlamak için PCI, altı ana göstergede şirketin önceki yıl performansını ölçür:
+PCI, ortağın teknik özelliklerine, müşteri başarısını ve bunların satış performansına yönelik gelişmiş bir görünüm sağlar. ortakların, bulut Business Applications SMB seçeneği aracılığıyla gümüş veya altın küçük ve orta pazar bulut çözümlerini uzmanlığına sağlamasına yardımcı olmak için, şirketinizin altı ana göstergelerden önceki yıllık performansını ölçer:
 
 ### <a name="performance-indicators"></a>Performans göstergeleri
 
-- **Net yeni gelir:** Belirli Microsoft ürünleri için tüm satış kanalları genelinde net yeni gelir. (Bu ölçümle ilgili ayrıntılar için [bkz. Net yeni gelir tanımları.)](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#definitions-for-pci-metric-1---net-new-revenue)
+- **Net yeni gelir**: belirli Microsoft ürünlerine yönelik tüm satış kanallarında net yeni gelir. (Bu ölçüm hakkında daha fazla bilgi için bkz. [net yeni gelir Için tanımlar](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#definitions-for-pci-metric-1---net-new-revenue).)
 
-- **Net müşteri ekler:** Tüm satış kanallarında belirli Microsoft ürünleri için edinilen net müşteriler. (Bu ölçümle ilgili ayrıntılar için bkz. [Net müşteri için tanımlar ekler.)](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#definitions-for-pci-metric-2---net-customer-adds)
+- **Net müşteri eklemeleri**: tüm satış kanallarında belirli Microsoft ürünleri için alınmış net müşteriler. (Bu ölçüm hakkında daha fazla bilgi için bkz. [net Customer eklemeleri Için tanımlar](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#definitions-for-pci-metric-2---net-customer-adds).)
 
 ### <a name="capability-indicators"></a>Yetenek göstergeleri
 
-- **İşlev danışmanları:** Dynamics 365 için şu anda etkin olan İşlev Danışmanı İş Ortağı sertifikasına sahip kişi sayısı. (Bu ölçümle ilgili ayrıntılar için [bkz. İşlev danışmanlarının tanımları.)](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#definitions-for-pci-metric-3---functional-consultants)
+- **İşlevsel danışmanları**: Şu anda etkin bir işlevsel danışman sertifikayı tutan kişilerin sayısı Dynamics 365 Için sertifika ilişkilendirin. (Bu ölçüm hakkında daha fazla bilgi için bkz. [işlev danışmanları Için tanımlar](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#definitions-for-pci-metric-3---functional-consultants).)
 
-- **Geliştiriciler:** Dynamics 365 için şu anda etkin bir Geliştirici İş Ortağı sertifikasına sahip olan kişi sayısı. (Bu ölçümle ilgili ayrıntılar için [bkz. Geliştiriciler için tanımlar.)](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#definitions-for-pci-metric-4---developers)
+- **Geliştiriciler**: Şu anda etkin olan bir geliştiriciyi tutan kişilerin sayısı, Dynamics 365 Için sertifikayı ilişkilendirir. (Bu ölçüm hakkında daha fazla bilgi için bkz. [geliştiriciler Için tanımlar](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#definitions-for-pci-metric-4---developers).)
 
 ### <a name="customer-success-indicators"></a>Müşteri başarı göstergeleri
 
-- **Yeni dağıtımlar:** Son 12 ay içinde belirli bir kullanım eşiğini geçen üretim kiracılarının sayısı. (Bu ölçümle ilgili ayrıntılar için [bkz. Yeni dağıtımların tanımları.)](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#definitions-for-pci-metric-5---new-deployments)
+- **Yeni dağıtımlar**: son 12 ay boyunca belirli bir kullanım eşiğini aşan üretim kiracılarının sayısı. (Bu ölçüm hakkında daha fazla bilgi için bkz. [Yeni dağıtımlar Için tanımlar](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#definitions-for-pci-metric-5---new-deployments).)
 
-- **Aylık etkin kullanıcı büyümesi:** Son 12 ay içinde tüm müşterileriniz genelinde aylık etkin kullanıcılarda büyüme. (Bu ölçümle ilgili ayrıntılar için [bkz. Aylık etkin kullanıcı büyümesi tanımları.)](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#definitions-for-pci-metric-6---monthly-active-user-growth)
+- **Aylık etkin kullanıcı büyümesi**: son 12 ay içinde tüm müşterileriniz genelinde aylık etkin kullanıcılar için büyüme. (Bu ölçüm hakkında daha fazla bilgi için bkz. [aylık etkin kullanıcı büyümesi Için tanımlar](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#definitions-for-pci-metric-6---monthly-active-user-growth).)
 
-### <a name="how-pci-score-impacts-competency-eligibility"></a>PCI puanı uzmanlık uygunluğunu nasıl etkiler?
-Elde edilen her gösterge için puanlar sağlanır ve tek bir PCI puanı elde edilir. En fazla 100 nokta mümkündür. 
+### <a name="how-pci-score-impacts-competency-eligibility"></a>PCI puanı, uzmanlığa uygunluğu etkiler
+Her elde edilen gösterge için, tek bir PCI puanı ile sonuçlanan noktalara izin verilir. 100 en büyük noktaya sahip olabilir. 
 
-PCI puanınız uzmanlık uygunluğunu aşağıdaki gibi belirler:
+Aşağıdaki gibi, PCI puanınız uzmanlığa uygunluğu belirler:
 
 |PCI puanınız  | Siz  |
 |:----------------------|:-----------------|
-|1-59 nokta  | **gümüş veya** altın uzmanlık için uygun değildir |
-|60-79 nokta  | gümüş uzmanlık gereksinimlerini karşılama  |
-|80-100 nokta  | altın uzmanlık gereksinimlerini karşılama
+|1-59 noktaları  | gümüş veya altın bir uzmanlık için uygun **değildir** |
+|60-79 noktaları  | gümüş bir uzmanlığa yönelik gereksinimleri karşılayın  |
+|80-100 noktaları  | Altın uzmanlık gereksinimlerini karşılayın
 
-Aşağıdaki görüntüde hızlı ve görsel bir başvuru yer atır.
-:::image type="content" source="images/pcinew1.png" alt-text="Silver veya Gold uzmanlığı elde etmek için PCI puanlarını gösterir." border="false":::
+Aşağıdaki görüntüde hızlı ve görsel bir başvuru sunulmaktadır.
+:::image type="content" source="images/pcinew1.png" alt-text="Gümüş veya altın uzmanlık düzeyine ulaşmak için PCI puanlarını gösterir." border="false":::
 
-### <a name="maximum-pci-indicator-scores-for-this-competency"></a>Bu uzmanlık için maksimum PCI gösterge puanı
+### <a name="maximum-pci-indicator-scores-for-this-competency"></a>Bu uzmanlığa yönelik maksimum PCI göstergesi puanları
 
-Her gösterge, toplama eklenen bir puan getirir. Cloud Business Applications SMB seçeneğiyle Silver veya Gold Small ve Midmarket Cloud Solutions yetkinliğine ulaşmak için her gösterge için kazanabilecek en yüksek puanları burada Business Applications edinebilirsiniz:
+Her gösterge toplam 'a eklenen bir puan getirir. her gösterge için kazanılabilecek en fazla puan, bulut Business Applications SMB seçeneğinde gümüş veya altın küçük ve orta pazar bulut çözümlerini uzmanlığına ulaşmak için şunlardır:
 
-|Bu gösterge için | Bu uzmanlık için en yüksek puanınız:  |
+|Bu gösterge için | Bu uzmanlığa yönelik en büyük puanınız  |
 |:------------|:--------------:|
-|Performans - Net yeni gelir  | 10 nokta  |
-|Performans - Net müşteri ekler  | 10 nokta  |
-|Yetenek - İşlev danışmanları  | 30 nokta  |
-|Yetenek - Geliştiriciler  | 5 nokta |
-|Müşteri başarısı - yeni dağıtımlar  | 20 nokta  |
-|Müşteri başarısı - Aylık etkin kullanıcı büyümesi  | 25 nokta |
+|Performans-net yeni gelir  | 10 noktası  |
+|Performans-net müşteri eklemeleri  | 10 noktası  |
+|Yetenek Işlevli danışmanları  | 30 punto  |
+|Yetenek-geliştiriciler  | 5 işaret |
+|Müşteri başarısı-Yeni dağıtımlar  | 20 punto  |
+|Müşteri başarısı-aylık etkin kullanıcı büyümesi  | 25 punto |
 
-## <a name="thresholds-for-each-pci-metric-for-this-competency"></a>Bu uzmanlık için her PCI ölçümü için eşikler
+## <a name="thresholds-for-each-pci-metric-for-this-competency"></a>Bu uzmanlığa yönelik her PCI ölçümü için eşikler
 
-Her PCI ölçümü, Cloud Business Applications SMB seçeneği aracılığıyla Silver veya Gold Small ve Midmarket Cloud Solutions yetkinliğine ulaşmak için şirketinize maksimum puan kazandıran Microsoft tarafından ayarlanmış eşiklere sahiptir.
+her bir pcı ölçümü, Microsoft tarafından şirket en yüksek noktalarına sahip olan ve bulut Business Applications SMB seçeneği aracılığıyla gümüş veya altın küçük ve orta pazar bulut çözümlerini uzmanlık altına almak için Microsoft tarafından ayarlanan eşiklere sahiptir.
 
-Her ölçüm genelindeki noktalar, ayrı bir PCI puanı elde etmek için uzundur. Bu puan aylık olarak güncelleştirilir.
+Her ölçüm içindeki noktaların ayrı bir PCI puanı elde etmek için kullanılır. Bu puan aylık olarak güncelleştirilir.
 
-İş ortakları, aşağıda belirtilen eşikleri karşılar veya aşarsa, belirtilen ölçüm için maksimum puanı elde edebilirsiniz. Tüm ölçümler için kısmi puan kazanılır.
+İş ortakları, aşağıda belirtilen eşikleri karşılıyorsa veya aşarsa, belirli bir ölçüm için en yüksek puan kazanılayabilir. Kısmi noktaları tüm ölçümler için kazanılmalıdır.
 
-Örneğin Net Yeni Gelir'de 15.000 ABD doları olan bir pazar ortağı, en fazla 10 noktanın yarısını (15.000 ABD doları/30.000 ABD doları) kazanır.
+Örneğin, net yeni gelir $15.000 olan bir pazar ortağı, en fazla 10 noktasının yarısını ($ 15000/$ 30000) kazanacaktır.
 
-Aşağıdaki tabloda, Cloud Business Applications SMB seçeneği aracılığıyla Silver veya Gold Small ve Midmarket Cloud Solutions yetkinliğine ulaşma yönünde maksimum puan elde etmek için ulaşabilirsiniz belirli İş Ortağı Katkı Göstergesi eşikleri açıkmaktadır.
+aşağıdaki tabloda, bulut Business Applications SMB seçeneğinde gümüş veya altın küçük ve orta pazar bulut çözümleri uzmanlığına ulaşmak üzere en fazla puan kazanmak için kullanabileceğiniz belirli iş ortağı katkı göstergesi eşikleri açıklanmaktadır.
 
-| PCI Ölçümü | Performans göstergesi: Net yeni gelir | Performans göstergesi: Net müşteri ekler | Yetenek göstergesi: İşlev danışmanları | Yetenek göstergesi: Geliştiriciler | Müşteri başarı göstergesi: Yeni dağıtımlar | Müşteri başarı göstergesi: Aylık etkin kullanıcı büyümesi |
+| PCI ölçümü | Performans göstergesi: net yeni gelir | Performans göstergesi: net müşteri eklemeleri | Yetenek göstergesi: Işlevsel danışmanları | Yetenek göstergesi: geliştiriciler | Müşteri başarı göstergesi: Yeni dağıtımlar | Müşteri başarı göstergesi: aylık etkin kullanıcı büyümesi |
 |---|:---:|:---:|:------:|:---:|:---:|:----:|
-| **Maksimum nokta sayısı** | 10 nokta | 10 nokta | 30 nokta | 5 nokta | 20 nokta | 25 nokta |
-| **Ölçütler**       | 30.000 ABD doları  | 10  | 5    | 2  | 10  | %35 |
+| **En fazla işaret** | 10 noktası | 10 noktası | 30 punto | 5 işaret | 20 punto | 25 punto |
+| **Ölçütler**       | $30.000  | 10  | 5    | 2  | 10  | %35 |
 
-## <a name="prerequisites-to-receive-pci-credit-for-a-customer"></a>Müşteri için PCI kredisi alma önkoşulları
+## <a name="prerequisites-to-receive-pci-credit-for-a-customer"></a>Bir müşteri için PCI kredisi alma önkoşulları
 
-Belirli İş Ortağı Katkı Göstergeleri yalnızca belirli bir iş ortağı-müşteri ilişkilendirmeniz varsa belirli bir müşteri için kredi alasınız. Bu önkoşullardan etkilene göstergeler veya PCI ölçümleri:
+Belirli Iş ortağı katkı göstergeleri yalnızca, belirli bir müşteri için, bunlarla ilgili belirli bir iş ortağınız varsa kredi almanızı sağlar. Bu önkoşulların etkilediği göstergeler veya PCI ölçümleri şunlardır:
 
 - NET yeni gelir
 - NET müşteri eklemeleri
@@ -260,63 +260,63 @@ Yeni dağıtımlar bir [müşteri başarısı göstergesidir](partner-contributi
 
 - Aylık etkin kullanıcılar her ayın sonunda hesaplanır.
 
-- İş ortakları, abonelik düzeyindeki kiracılar ile ilişkilendirilir. Abonelikler aşağıdaki uygun ürünlerle eşlenmiş:
-  - Dynamics 365 Customer Engagement uygun ürünler şunlardır: Satış, Pazarlama, Müşteri Hizmetleri, Saha Hizmeti, Project sunucusu, Plan 1, Otomasyon, Pazarlama, Microsoft İlişki Satışları
-  - Finans ve Operasyona uygun ürünler şunlardır: Business Central, Capacity and Depolama, Finance and Operations (Sahtekarlık koruması, operasyonlar, perakende, İk, plan 2), karma gerçeklik, Ekip Üyesi
+- İş ortakları, abonelik düzeyindeki kiracılar ile ilişkilendirilir. Abonelikler aşağıdaki, uygun ürünlerle eşlenir:
+  - Dynamics 365 müşteri katılımı uygun ürünler şunlardır: Sales, Marketing, müşteri servisi, alan hizmeti, Project server, Plan 1, otomasyon, pazarlama, Microsoft ilişki satışları
+  - finans ve operasyon uygun ürünler şunlardır: iş merkezi, kapasite ve Depolama, finans ve işlemler (sahtekarlık koruması, işlemler, perakende, HR, plan 2), karma gerçeklik, takım üyesi
 
-### <a name="definitions-for-pci-metric-6---monthly-active-user-growth"></a>PCI ölçüm tanımı tanımları #6 - Aylık etkin kullanıcı büyümesi
+### <a name="definitions-for-pci-metric-6---monthly-active-user-growth"></a>#6-aylık etkin kullanıcı büyümesi PCI ölçümü için tanımlar
 
-Aylık etkin kullanıcı büyümesi, müşteri [başarısının göstergesidir.](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#pci-scoring-based-on-six-key-indicators) Bu göstergenin noktaları, bu uzmanlık için aşağıdaki gibi hesaplanır:
+Aylık etkin kullanıcı büyümesi bir [müşteri başarısı göstergesidir](partner-contribution-indicators-small-and-midmarket-cloud-business-option.md#pci-scoring-based-on-six-key-indicators). Bu göstergenin noktaları, bu uzmanlığa göre şu şekilde hesaplanır:
 
 - Aylık etkin kullanıcı büyümesi, son 12 ay içinde tüm müşteri tabanı genelinde aylık etkin kullanıcıların büyümesi olarak tanımlanır.
 
-- Aylık etkin kullanıcılar abonelik düzeyinde sayılır ve bir iş ortağıyla eşlenen tüm ücretli abonelikler genelinde topilir.
+- Aylık etkin kullanıcılar abonelik düzeyinde sayılır ve bir iş ortağıyla eşleştirilmiş tüm ücretli abonelikler arasında toplanır.
 
-- Aylık etkin kullanıcı büyüme göstergesi, geçerli ayı 12 ay önceki taban çizgisiyle karşılaştırıldığında gösterir. Cloud Business Applications SMB seçeneği aracılığıyla Gold veya Silver Small ve Midmarket Cloud Solutions yetkinliğine ulaşmak için en fazla 25 nokta kullanılabilir.
+- Aylık etkin kullanıcı büyüme göstergesi, geçerli ayı 12 aydan önce gelen bir taban çizgisine göre karşılaştırır. en fazla 25 izin, altın veya gümüş küçük ve orta pazar bulut çözümlerinin uzmanlığına, bulut Business Applications SMB seçeneği aracılığıyla uygun şekilde uygulanabilir.
 
 - Aylık etkin kullanıcılar her ayın sonunda hesaplanır.
 
-- Puanlara uygun olmak için iş ortaklarının müşteri tabanının tamamına 12 ay önce en az **50** aylık etkin kullanıcı taban çizgisine sahip olması gerekir.
+- Noktalara uygun olması için iş ortaklarının, tüm müşteri tabanında 12 ay önce en az **50** aylık etkin kullanıcının bir taban çizgisine sahip olması gerekir.
 
-- İş ortakları abonelik düzeyinde ilişkilendirildi. Abonelikler uygun ürünlerle eşlenmiş.
+- İş ortakları, abonelik düzeyinde ilişkilendirilir. Abonelikler, uygun ürünlerle eşleştirilir.
 
-## <a name="how-to-access-partner-contribution-indicators"></a>İş Ortağı Katkı Göstergelerine erişme
+## <a name="how-to-access-partner-contribution-indicators"></a>Iş ortağı katkı göstergelerine erişme
 
-Bu bölümde, İş Ortağı Katkısı Göstergelerinin ayrıntılarına ve iş ortağı ilerleme durumuna nasıl erişilen açık bir şekilde açık bir şekilde anlatabilirsiniz.
+Bu bölümde, Iş ortağı katkı göstergelerinin ayrıntılarına ve iş ortağının ilerlemesini nasıl erişebileceğiniz açıklanır.
 
-### <a name="access-partner-contribution-indicators"></a>İş Ortağı Katkı Göstergelerine Erişme
+### <a name="access-partner-contribution-indicators"></a>Erişim ortağı katkı göstergeleri
 
-İş Ortağı Katkısı Göstergeleri tabloyu görüntülemek için şu adımları izleyin:
+Iş ortağı katkı göstergeleri tablonuzu görüntülemek için aşağıdaki adımları izleyin:
 
 > [!NOTE]
-> İş Ortağı Merkezi önizleme arabirimi, mantıksal olarak gruplu çalışma alanları aracılığıyla daha verimli ve üretken bir kullanıcı deneyimi sağlar. Çalışma alanları arabirimi ve bu arabirimi açma hakkında daha fazla bilgi edinmek için [bkz. İş Ortağı Merkezi.](get-around-partner-center.md#turn-workspaces-on-and-off)
+> Çalışma alanları arabirimi hakkında daha fazla bilgi edinmek için bkz. [Iş ortağı merkezini alma](get-around-partner-center.md#turn-workspaces-on-and-off).
 
 #### <a name="workspaces-view"></a>[Çalışma alanları görünümü](#tab/workspaces-view)
 
 1. İş Ortağı Merkezi [panosunda](https://partner.microsoft.com/dashboard) oturum açın.
 
-2. Market **kutucuğunu** ve ardından **Yetkinlikler'i seçin.**
+2. **Market** kutucuğunu seçin ve ardından **Uzmanlıklar**' ı seçin.
 
-3. Small ve **Midmarket Cloud Solutions uzmanlığını** ve ardından **Cloud Business Applications SMB seçeneğini belirleyin.**
+3. **küçük ve orta ölçekli pazar çözümleri** uzmanlığına ve ardından **bulut Business Applications SMB seçeneğini** belirleyin.
 
-4. Özet bölümünde ilerlemenizi, başarılarınızı ve ilgili puanlarınızı o tarihe kadar görüntüebilirsiniz.
+4. Özet bölümü altında ilerleme durumunu, başarıları ve ilgili puanı güncel olarak görüntüleyin.
 
-   :::image type="content" source="images/partner-contribution-indicators-small-and-midmarket-view-progress.png" alt-text="İş Ortağı Katkısı Göstergeleri tablosu nasıl okunur.":::
+   :::image type="content" source="images/partner-contribution-indicators-small-and-midmarket-view-progress.png" alt-text="Iş ortağı katkı göstergeleri tablosunu okuma.":::
 
 #### <a name="current-view"></a>[Geçerli görünüm](#tab/current-view)
 
 1. İş Ortağı Merkezi [panosunda](https://partner.microsoft.com/dashboard) oturum açın.
 
-2. Gezinti **menüsünden MPN'yi** ve ardından Yetkinlikler'i **seçin.**
+2. Gezinti menüsünden **MPN** ' yi seçin ve ardından **Uzmanlıklar**' ı seçin.
 
-3. Small ve **Midmarket Cloud Solutions uzmanlığını** ve ardından **Cloud Business Applications SMB seçeneğini belirleyin.**
+3. **küçük ve orta ölçekli pazar çözümleri** uzmanlığına ve ardından **bulut Business Applications SMB seçeneğini** belirleyin.
 
-4. Özet bölümünde ilerlemenizi, başarılarınızı ve ilgili puanlarınızı o tarihe kadar görüntüebilirsiniz.
+4. Özet bölümü altında ilerleme durumunu, başarıları ve ilgili puanı güncel olarak görüntüleyin.
 
-   :::image type="content" source="images/partner-contribution-indicators-small-and-midmarket-view-progress.png" alt-text="İş Ortağı Katkısı Göstergeleri tablosu nasıl okunur.":::
+   :::image type="content" source="images/partner-contribution-indicators-small-and-midmarket-view-progress.png" alt-text="Iş ortağı katkı göstergeleri tablosunu okuma.":::
 
 * * *
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-Cloud [Business Applications](https://partner.microsoft.com/training/assets/collection/cloud-business-applications-smb-option-for-smmcs-competency-attainment#/) SMB seçeneğiyle Gold veya Silver Small ve Midmarket Cloud Solutions uzmanlığını elde etme hakkında daha fazla bilgi edinmek için bu bilgi Business Applications bakın.
+daha fazla bilgi edinmek için bu [bilgilendirici kaynakları](https://partner.microsoft.com/training/assets/collection/cloud-business-applications-smb-option-for-smmcs-competency-attainment#/) , bulut Business Applications SMB seçeneğinde altın veya gümüş küçük ve orta pazar bulut çözümlerini uzmanlığına sunma hakkında daha fazla bilgi edinin.
