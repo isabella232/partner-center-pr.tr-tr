@@ -9,22 +9,24 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 56895336a40e8e09c5b2798bad5e502baad3067a
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: c3d0b40cb9421d3eb731e62395a5813fc31b760c
+ms.sourcegitcommit: 1e616b52d55eff41d67a081ba3f4a8370a49e027
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/27/2021
-ms.locfileid: "129071078"
+ms.lasthandoff: 09/29/2021
+ms.locfileid: "129191536"
 ---
 # <a name="pricing-and-offers-for-office-365-dynamics-crm-enterprise-mobility-suite-azure-and-more"></a>Office 365, Dynamics CRM, Enterprise Mobility Suite, Azure ve daha fazlası için fiyatlandırma ve teklifler
 
 **Uygun roller**: genel yönetici | Kullanıcı Yönetimi Yöneticisi | Yönetici Aracısı | MPN iş ortağı Yöneticisi | Satış Aracısı | Faturalama yöneticisi
 
-en son Bulut Çözümü Sağlayıcısı (CSP) programlarını ve tekliflerini görmek için, iş ortağı portalı panosundan **satış > fiyatları ve teklifleri**' ne gidin. Kullanılabilir farklı ürün türleri için ayrı fiyat listeleri bulacaksınız. **Fiyatlandırma ve teklifler** sayfasında aşağıdaki fiyat listeleri mevcuttur:
+en son Bulut Çözümü Sağlayıcısı (CSP) programlarını ve tekliflerini görmek için, iş ortağı merkezi panosundan **fiyatlandırma ve tekliflere** gidin. Kullanılabilir farklı ürün türleri için ayrı fiyat listeleri bulacaksınız. Aşağıdaki fiyat listeleri mevcuttur:
 
 - **lisans tabanlı hizmetler** Office 365, Enterprise Mobility ve Security E3 ve Dynamics 365 için fiyatlandırma bilgilerini içerir. Lisans tabanlı fiyatlandırma bölümü, geçerli ve önizleme fiyatlandırmasını ve teklif listesi matrisini içerir. Fiyat listeleri, tüm desteklenen para birimlerindeki teklifler için liste fiyatını ve tahmini perakende fiyatlarını (ERP) içerir. Teklif listesi matrisi, Pazar kullanılabilirliği ve tekliflerle ilgili diğer önemli bilgileri içerir. Bu dosyalar her ayın ilk gününde güncelleştirilir.
+
    > [!NOTE]
    > Liste ve ERP fiyatları, aylık faturalandırma sıklığıyla aynıdır. Yıllık faturalandırma sıklığı için aylık fiyatı 12 ile çarpın.
+
 - **kullanım tabanlı hizmetler** Microsoft Azure ve Visual Studio için fiyatlandırma bilgilerini içerir. Ayrıca, [CSP Fiyatlandırma Hesaplayıcı ' da Azure hizmetlerini](https://azure.microsoft.com/pricing/calculator/)kullanabilirsiniz. Kullanım tabanlı indirme, her türlü desteklenen para birimi için CSP fiyat listelerini ve ERP 'de paylaşılan hizmetler fiyatlandırma dosyalarını içerir. Bu dosyalar her ayın ilk gününde güncelleştirilir.
 - **Microsoft Azure ayrılmış örnekler** , Azure ayrılmış örnekleri için desteklenen tüm para birimlerine yönelik fiyatlandırma bilgilerini içerir. Fiyatlandırma indirmesi, ERP 'de paylaşılan hizmetler fiyatlandırmasını de içerir. Bu dosyalar her ayın ilk gününde güncelleştirilir.
 - **Yazılım abonelikleri** , desteklenen tüm para birimlerine yönelik terim tabanlı yazılım abonelikleri için fiyatlandırma içerir. Fiyat dosyası, liste fiyatı ve üretici tarafından önerilen perakende fiyatı (MSRP) içeren tüm desteklenen para birimlerini içerir. Bu dosyalar her ayın ilk gününde güncelleştirilir.
@@ -32,7 +34,7 @@ en son Bulut Çözümü Sağlayıcısı (CSP) programlarını ve tekliflerini g�
 - **Yabancı Exchange ücretleri** , USD ve iş ortakları yerel para birimi arasında ücretlendirilen faturalandırmayı hesaplamak için kullanılır. Ücretler her ayın ilk gününde güncelleştirilir ve verilen ay için doğru, ücretleri kullanılabilir hale getirir. Bu dosyalar her ayın ilk gününde güncelleştirilir.
 - **Market** , Microsoft 'un ticari Market 'ten bağımsız yazılım SATıCıSı (ISV) çözümleri için fiyatlandırma içerir. Fiyatlar, Pazar başına alınır. Bu dosyalardaki veriler her gün yenilenir.
 
-> [!Note] 
+> [!NOTE]
 > Yalnızca Transact özelliğine sahip CSP iş ortakları fiyat listelerini görüntüleyebilir ve indirebilir. Dolaylı satıcıların fiyatlandırma hakkındaki ayrıntıları istemesi için [CSP sağlayıcısıyla iletişim kurabilmesi]( https://partner.microsoft.com/cloud-solution-provider/find-a-provider) gerekir
 
 ## <a name="price-list-preview-and-change-frequency"></a>Fiyat listesi önizleme ve değiştirme sıklığı 
@@ -85,7 +87,7 @@ CSP, eğitim, kar amacı gütmeyen ve kamu Community bulutu gibi özel pazar seg
 |Kamu Topluluk Bulutu (GCC)|İş ortağı ve müşteri|GCC etkinleştirildikten sonra iş ortağı GCC müşteri oluşturabilir| Yalnızca lisans tabanlı|
 |Azure Kamu|İş Ortağı|Nitelikli bir şekilde, iş ortağı Azure Kamu 'ya özgü bir CSP kiracısında çalışır|Azure kaynakları|
 
-İş ortağı kenar boşlukları, liste fiyatı ve tahmini perakende fiyatlar arasındaki fark, segmentten segmente göre farklılık gösterebilir. Genellikle, eğitim ve kar amacı, CSP iş ortakları için daha düşük veya olmayan bir kenar boşluğuna sahiptir. Tam değerler için lisans tabanlı fiyat listesine bakın. 
+İş ortağı kenar boşlukları, liste fiyatı ve tahmini perakende fiyatlar arasındaki fark, segmentten segmente göre farklılık gösterebilir. Genellikle, eğitim ve kar amacı, CSP iş ortakları için daha düşük veya olmayan bir kenar boşluğuna sahiptir. Tam değerler için lisans tabanlı fiyat listesine bakın.
 
 ## <a name="add-on-offer-types"></a>Eklenti teklifi türleri
 
@@ -112,7 +114,7 @@ Iş Ortağı Merkezi Yazılım Geliştirme Setleri (SDK 'lar) kullanan CSP iş o
 
 ### <a name="offers-matrix-and-price-list-questions"></a>Matris ve fiyat listesi soruları sunar
 
-Fiyat listesi veya teklif matrisi hakkında sorularınız varsa, Iş Ortağı Merkezi **Yardım + Destek** çalışma alanından bir hizmet isteği gönderebilirsiniz.
+Fiyat listesi veya teklif matrisi hakkında sorularınız varsa, Iş Ortağı Merkezi aracılığıyla bir hizmet isteği gönderebilirsiniz.
 
 ## <a name="offer-limits"></a>Teklif limitleri
 
@@ -137,161 +139,163 @@ Iş Ortağı Merkezi CSP fiyat listelerindeki tüm fiyatlar vergi dahil değildi
 
 Bazı teklifler, iş ortağının almadan önce kabul etmesi gerekir. bu işleme kanıtlama adı verilir ve 1 ağustos 2021 itibariyle, kanıtlama gerektiren tek teklifler, Windows hibrit avantajı Windows 365 iş tekliflerdir. iş ortakları, bu teklifleri satın alırken gözden geçirme ekranında metin görür. "Windows 365 iş Windows hibrit avantajını kullanan her kişinin, birincil iş cihazında Windows 10/11 Pro geçerli bir kopyasının olması gerektiğini anladım." İş ortakları satın almadan önce bunu kabul etmelidir.
 
-Kanıtlama, hem Iş Ortağı Merkezi portalının hem de iş ortağı merkezi API 'Lerinin yanı sıra sipariş gönderirken ve sepetleri kullanıma alırken geçerlidir. İş ortakları, [teklif](/partner-center/develop/offer-resources#attestationproperties) veya [SKU](/partner-center/develop/product-resources#attestationproperties) nesnelerinde AttestationProperties ' i denetleyerek hangi tekliflerin kanıtlama gerektirdiğini tespit edebilir. Bu özellikler,station türünü ve satın almalar için (enforceAttestation=True) doğrulandıysa bunu açıklar. Gerekirse, iş ortakları sepette veya sipariş [lineitems](/partner-center/develop/cart-resources)üzerinde AttestationAccepted'ı true olarak ayarlamanız gerekir.
+Kanıtlama, hem Iş Ortağı Merkezi portalının hem de iş ortağı merkezi API 'Lerinin yanı sıra sipariş gönderirken ve sepetleri kullanıma alırken geçerlidir. İş ortakları, veya nesnelerini denetleyerek hangi tekliflerin kanıtlama gerektirdiğini tespit edebilir `AttestationProperties` `[offer](/partner-center/develop/offer-resources#attestationproperties)` `[sku](/partner-center/develop/product-resources#attestationproperties)` .
 
-Satın almadan önce şu anda onay gerektiren teklifler aşağıda verilmiştir.
+Bu özellikler, kanıtlama türünü açıklayacak ve kanıtlama satın alma işlemleri için zorlandığında (Enforcekanıtlama = true). Gerekirse, iş ortakları yalnızca `AttestationAccepted` sepette veya siparişte **doğru** olarak ayarlanır `[lineitems](/partner-center/develop/cart-resources)` .
+
+Aşağıdaki teklifler, satın almadan önce Şu anda kanıtlama gerektirir.
 
  | **Teklif adı** |**Teklif Kimliği** |
 |:------------------------------------------- |:--------------------------------------- |
-| Windows 365 İş 1 vCPU, 2 GB, 64 GB (Windows Hibrit Avantajı ile) | 5f3a7cd2-c76f-4b21-9ddc-f48f09869cf6 |
-| Windows 365 İş 2 vCPU, 4 GB, 128 GB (Windows Hibrit Avantajı ile) | 7612386a-d98d-4110-94b8-554bd612a5ab |
-| Windows 365 İş 2 vCPU, 4 GB, 128 GB (Windows Hibrit Avantajı ile) Deneme Sürümü | ab170880-1254-4534-abb9-fd0bf60cde71 |
-| Windows 365 İş 2 vCPU, 4 GB, 256 GB (Windows Hibrit Avantajı ile) | cc624387-162c-4f31-9d6e-252d39d5324b |
-| Windows 365 İş 2 vCPU, 4 GB, 64 GB (Windows Hibrit Avantajı ile) | f9777f60-19ae-4bd2-b881-6dc674564a2e |
-| Windows 365 İş 2 vCPU, 8 GB, 128 GB (Windows Hibrit Avantajı ile) | 39daa752-18b7-4918-b4eb-cf27cf617ee2 |
-| Windows 365 İş 2 vCPU, 8 GB, 128 GB (Windows Hibrit Avantajı ile) Deneme Sürümü | d5623401-b8e0-429f-86df-29b6efdf4d95 |
-| Windows 365 İş 2 vCPU, 8 GB, 256 GB (Windows Hibrit Avantajı ile) | 8fe4271f-c761-45f8-8261-5ab575195152 |
-| Windows 365 İş 4 vCPU, 16 GB, 128 GB (Windows Hibrit Avantajı ile) | 037cff0f-c231-4cce-a7ef-5324c755ba9a |
-| Windows 365 İş 4 vCPU, 16 GB, 128 GB (Windows Hibrit Avantajı ile) Deneme Sürümü | 46448c4c-8b12-4ea1-9be7-76b35d69bcf5 |
-| Windows 365 İş 4 vCPU, 16 GB, 256 GB (Windows Hibrit Avantajı ile) | 977318cf-57a5-4c3f-a8b6-aa58853dd2e9 |
-| Windows 365 İş 4 vCPU, 16 GB, 512 GB (Windows Hibrit Avantajı ile) | 1a3bdfb8-fb09-4331-8303-2c07e895c6d9 |
-| Windows 365 İş 8 vCPU, 32 GB, 128 GB (Windows Hibrit Avantajı ile) | 1b96db48-9c02-4c95-8c0b-98e4e6aa187c |
-| Windows 365 İş 8 vCPU, 32 GB, 256 GB (Windows Hibrit Avantajı ile) | 3ff72e53-c37f-41d5-b932-793cb39c837b |
-| Windows 365 İş 8 vCPU, 32 GB, 512 GB (Windows Hibrit Avantajı ile) | aca639ae-ae81-4298-a76a-094b6880913b |
+| Windows 365 iş 1 vcpu, 2 gb, 64 gb (Windows hibrit avantajı ile) | 5f3a7cd2-c76f-4b21-9ddc-f48f09869cf6 |
+| Windows 365 iş 2 vcpu, 4 gb, 128 GB (Windows hibrit avantajı ile) | 7612386a-d98d-4110-94b8-554bd612a5ab |
+| Windows 365 iş 2 vcpu, 4 gb, 128 GB (Windows hibrit avantajı ile) deneme sürümü | ab170880-1254-4534-abb9-fd0bf60cde71 |
+| Windows 365 iş 2 vcpu, 4 gb, 256 GB (Windows hibrit avantajı ile) | cc624387-162c-4f31-9d6e-252d39d5324b |
+| Windows 365 iş 2 vcpu, 4 gb, 64 GB (Windows hibrit avantajı ile) | f9777f60-19ae-4bd2-b881-6dc674564a2e |
+| Windows 365 iş 2 vcpu, 8 gb, 128 gb (Windows hibrit avantajı ile) | 39dada752-18b7-4918-b4eb-cf27cf617ee2 |
+| Windows 365 iş 2 vcpu, 8 gb, 128 gb (Windows hibrit avantajı ile) deneme sürümü | d5623401-b8e0-429f-86df-29b6efdf4d95 |
+| Windows 365 iş 2 vcpu, 8 gb, 256 gb (Windows hibrit avantajı ile) | 8fe4271f-c761-45F8-8261-5ab575195152 |
+| Windows 365 iş 4 vcpu, 16 gb, 128 gb (Windows hibrit avantajı ile) | 037cff0f-c231-4cce-a7ef-5324c755ba9a |
+| Windows 365 iş 4 vcpu, 16 gb, 128 gb (Windows hibrit avantajı ile) deneme sürümü | 46448c4c-8b12-4ea1-9be7-76b35d69bcf5 |
+| Windows 365 iş 4 vcpu, 16 gb, 256 gb (Windows hibrit avantajı ile) | 977318cf-57a5-4c3f-a8b6-aa58853dd2e9 |
+| Windows 365 iş 4 vcpu, 16 gb, 512 gb (Windows hibrit avantajı ile) | 1a3bdfb8-fb09-4331-8303-2c07e895c6d9 |
+| Windows 365 iş 8 vcpu, 32 gb, 128 GB (Windows hibrit avantajı ile) | 1b96db48-9c02-4c95-8c0b-98e4e6aa187c |
+| Windows 365 iş 8 vcpu, 32 gb, 256 GB (Windows hibrit avantajı ile) | 3ff72e53-c37f-41d5-b932-793cb39c837b |
+| Windows 365 iş 8 vcpu, 32 gb, 512 GB (Windows hibrit avantajı ile) | aca639ae-ae81-4298-a76a-094b6880913b |
 
 ## <a name="multi-year-term-offers"></a>Çok yıllık dönem teklifleri
 
 ### <a name="36-month-offers"></a>36 aylık teklifler
 
-Üç yıllık dönemlere sahip yaklaşık 50 Dynamics teklifi vardır. Bunlar tekliflerin **başlığında (36 mo)** ile tanımlanır. Bu teklifler yıllık dönem tekliflere benzer. Tek fark, terimiyle ilgilidir. Bu tekliflerin üç yıllık bir süresi vardır, böylece abonelikler bir yıl yerine üç yıl sonra otomatik olarak yenilenir. Aşağıda, bu tekliflerin nasıl iş sunduğuna bir özet verilmiştir:
+Üç yıllık koşullara sahip yaklaşık 50 Dynamics teklifi vardır. Bunlar, tekliflerin başlığında **(36 Mo)** tanımlanır. Bu teklifler yıllık dönem tekliflerine benzer. Tek fark, dönemi etrafında. Bu teklifler üç yıllık bir terime sahiptir, böylece abonelikler üç yıl sonra otomatik olarak yenilenmez. Aşağıda bu tekliflerin nasıl çalıştığı hakkında bir Özet verilmiştir:
 
-- Koşullar 36 aydır, abonelikler üç yıl sonra otomatik olarak yenilenir
-- İş ortakları abonelik süresi boyunca lisans sayısını iptal edebilir veya değiştirebilir
-- Yıllık yenileme, üç yıllık dönem için satın alma süresi fiyatında olur
-- Faturalama sıklığı hala yıllık veya aylık
+- Koşullar 36 aylardır; abonelikler üç yıldan sonra otomatik olarak yenilenecek
+- İş ortakları, aboneliğin dönemi boyunca lisans sayısını iptal edebilir veya değiştirebilir
+- Yıllık yenileme, üç yıllık dönem için satın alma zamanının fiyatında olacaktır
+- Faturalandırma sıklığı, hala yıllık veya aylık
 
 ### <a name="72-month-offers"></a>72 aylık teklifler
 
-Microsoft 365 A1 teklifin altı yıllık bir süresi var.  Bu Office 365 A1 satın alma sonrasında aşağıdaki ek eklentiler kullanılabilir. 
+Microsoft 365 A1 taban teklifinin altı yıllık bir dönemi vardır.  Office 365 A1 eklentiler, bu temel teklifi satın aldıktan sonra kullanılabilir. 
 
 |**Teklif adı**   |**Teklif Kimliği**   |**Tür**|
 |-------------------|-----------------------|----------------------------|
-|Microsoft 365 A1|778a4dce-0014-4d53-8647-314ef2b091d2|Temel teklif|
-|Office 365 A1 için Office 365 A1 (Cihaz için)|0757d14e-7c57-456f-8dab-47d164f2ff1f|Eklenti|
-|Office 365 A1 için Office 365 A1 (Cihaz için)|bae285a9-d56b-4384-b02f-38adc61a6f12|Eklenti|
+|Microsoft 365 A1|778a4dce-0014-4D53-8647-314ef2b091d2|Temel teklif|
+|fakülteler için Office 365 A1 (cihaz için)|0757d14e-7c57-456f-8DAB-47d164f2ff1f|Eklenti|
+|öğrenciler için Office 365 A1 (cihaz için)|bae285a9-d56b-4384-b02f-38adc61a6f12|Eklenti|
 
-Aşağıda, bu tekliflerin nasıl iş sunduğuna bir özet verilmiştir:
+Aşağıda bu tekliflerin nasıl çalıştığı hakkında bir Özet verilmiştir:
 
-- Süre 72 ay veya altı yıldır
-- Abonelik yenilenmedi ve altı yıl sonra süresi doldu
-- Teklifte faturalama sıklığı yıllık olarak gösterir, ancak iş ortağı, abonelik alındıktan sonra ilk faturada ön faturaya yansıtıldı
-- 72 aylık A1 tekliflerine ait abonelikler satın alma sonrasında kilitlenir ve iptal edilir ve ilk satın alma sonrasında lisans sayıları aboneliğe ek olamaz
-- Bu abonelik iptal edilemez ve para iadesi alınamaz.
+- Dönem, 72 ay veya altı yıl içindir
+- Abonelik yenilenmez ve altı yıl sonra sona erer
+- Teklifin faturalandırma sıklığı yıllık olarak gösterilir, ancak abonelik alındıktan sonra iş ortağının ilk faturasında ön faturalandırılır
+- A1 72-ay teklifleri için abonelikler satın alma işleminden sonra kilitlidir ve iptal edilemez ve ilk satın alma işleminden sonra lisans sayıları aboneliğe eklenemez
+- Bu abonelik iptal edilemez ve reddedilmeyen.
 
 ## <a name="estimated-retail-price-erp"></a>Tahmini perakende fiyatı (ERP)
 
-Çoğu fiyat listesinde liste fiyatı, iş ortağının faturalandırmış olduğu fiyat ve tahmini perakende fiyatı yer alıyor. Tahmini perakende fiyatı (ERP), Microsoft tarafından önerilen perakende fiyatı veya MSRP olarak da ifade edilmektedir. Erp ve MSRP olmak üzere bu iki değer, bir müşterinin ürünleri doğrudan Microsoft'tan satın almaları gerektirse ürünlerin tahmini pazar değerini temsil eder. Her ürün veya hizmet türü için ERP/MSRP ayrıntıları aşağıda verilmiştir. 
+Çoğu fiyat listesi, bir liste fiyatını, ortağın faturalandırılan fiyatını ve tahmini perakende fiyatını içerir. Tahmini perakende fiyatı (ERP), Microsoft 'un önerdiği perakende fiyatı veya MSRP olarak da adlandırılır. Bu iki değer olan ERP ve MSRP, bir müşteri ürünleri doğrudan Microsoft 'tan satın aldıysanız ürünlerin tahmini pazar değerini temsil eder. Her ürün veya hizmet türü için ERP/MSRP ayrıntılarının nerede bulunacağı aşağıda verilmiştir. 
 
 
 |**Ürün veya Hizmet**        |**ERP ve MSRP fiyat listesi ayrıntıları**      |
 |:-----------   |:-----------   |
 |Ürün veya Hizmet  |ERP ve MSRP fiyat listesi ayrıntıları  |
 |Lisans tabanlı hizmetler  |Lisans tabanlı fiyat listelerinde ERP olarak listelenir  |
-|Azure kullanım tabanlı hizmetler  |Paylaşılan Hizmetler eşdeğer fiyat listelerinde bulunabilir  |
-|Azure rezervasyonları  |Paylaşılan Hizmetler eşdeğer fiyat listelerinde bulunabilir  |
-|Azure planı kullanım tabanlı  |Fiyatlar perakendedir, fiyat fiyatlarında indirimsizdir  |
-|Azure planı rezervasyonları  |Azure rezervasyonları paylaşılan hizmetler fiyat listelerine bakın  |
-|Yazılım abonelikleri  |Yazılım abonelikleri fiyat listelerinde MSRP olarak listelenir  |
-|Market  |Market fiyat listelerinde MSRP olarak listelenir  |
+|Azure kullanım tabanlı hizmetler  |, Paylaşılan hizmetler eşdeğer fiyat listelerinde bulunabilir  |
+|Azure rezervasyonları  |, Paylaşılan hizmetler eşdeğer fiyat listelerinde bulunabilir  |
+|Azure planı kullanımı tabanlı  |Fiyatlar perakende, indirimli olmayan fiyat sayfalarıdır  |
+|Azure plan ayırmaları  |Azure ayırmaları paylaşılan hizmetleri fiyat listelerine başvur  |
+|Yazılım abonelikleri  |Yazılım abonelikleri fiyat listelerinde MSRP olarak listelendi  |
+|Market  |Market fiyat listelerinde MSRP olarak listelendi  |
 
-## <a name="new-commerce-license-based-pricing"></a>Yeni ticari lisans tabanlı fiyatlandırma
+## <a name="new-commerce-license-based-pricing"></a>Yeni ticaret lisansı tabanlı fiyatlandırma
 
 > [!NOTE]
-> Yeni ticari değişiklikler şu anda yalnızca M365/D365 yeni ticari deneyim teknik önizlemesinde yer alan iş ortakları tarafından kullanılabilir.
+> Yeni ticaret değişiklikleri şu anda yalnızca M365/D365 yeni ticaret deneyimi teknik önizlemesinin parçası olan iş ortakları tarafından kullanılabilir.
 
-Fiyatlandırma verileri iş ortaklarının hem İş Ortağı Merkezi [hem de](https://partner.microsoft.com/dashboard/home) fiyatlandırma sayfası API'si aracılığıyla kullanılabilir. Veri kaynağında en son verileri görmek İş Ortağı Merkezi Için Bkz. **Satış > Fiyatlandırma ve Teklifler.** Yeni ticaret teklifi fiyat listesi ve teklif matrisi Yeni Ticaret ile **etiketlenmiş olur.**
+Fiyatlandırma verileri hem Iş Ortağı Merkezi [panosundan](https://partner.microsoft.com/dashboard/home) hem de fiyatlandırma sayfası API 'si aracılığıyla iş ortakları tarafından kullanılabilir. Iş Ortağı Merkezi 'nde en son verileri görmek için, **satış > fiyatlandırma ve teklifleri**' ne gidin. Yeni ticaret teklifi fiyat listesi ve teklif matrisi **Yeni ticaret** ile etiketlenecek.
 
-Fiyat listeleri fiyatlandırma (maliyeti) hakkında temel bilgileri içerir. Teklif matrisi, ürünler (nasıl satın alınacak) hakkında satın alma bilgilerini içerir. Bu indirme dosyalarına dahil edilen bilgilerin büyük bir İş Ortağı Merkezi API'leri (katalog API'leri ve fiyat listesi API'leri) aracılığıyla da erişilebilir.
+Fiyat listeleri, fiyatlandırma (ne kadar BT maliyeti) hakkındaki temel bilgileri içerir. Teklif matrisi, ürünlerle ilgili satın alma bilgilerini içerir (nasıl satın alınır). Bu indirme dosyalarına dahil edilen bilgilerin büyük bölümü ayrıca çeşitli Iş Ortağı Merkezi API 'Leri (katalog API 'leri ve fiyat listesi API 'Leri) aracılığıyla da erişilebilir.
 
-Fiyat listeleri için iş ortağının istenen fiyatlandırma için pazarı seçmesi gerekir. Teklif listesi matrisi, pazara yönelik olarak tasarlanmıştır.
+Fiyat listeleri, talep ettikleri fiyatlandırma için iş ortağının pazara seçmesini gerektirir. Teklif listesi matrisi pazardan bağımsızdır.
 
-Fiyat listesi ve teklif listesi matris dosyaları geçerli ay için varsayılan değer. Fiyat listesi dosyaları günlük olarak değişebilir. Önceki ayın fiyat listesini almak için, ayı seçin ve ardından istediğiniz pazar için fiyatlandırma dosyasını indirin.
+Fiyat listesi ve teklif listesi matris dosyaları varsayılan olarak geçerli aydır. Fiyat listesi dosyaları günlük olarak değişebilir. Önceki ayın fiyat listesini almak için Ay'ı seçin ve ardından istenen pazara uygun fiyatlandırma dosyasını indirin.
 
-### <a name="new-commerce-price-list"></a>Yeni ticaret fiyat listesi
+### <a name="new-commerce-price-list"></a>Yeni ticari fiyat listesi
 
-Pazarı seçin ve ardından fiyat listesi dosyasını dışa aktarın. Dosya sıkıştırılmış, virgülle ayrılmış bir metin dosyasıdır.
+Pazarı seçin ve fiyat listesi dosyasını dışarı aktarın. Dosya sıkıştırılmış, virgülle ayrılmış bir metin dosyasıdır.
 
 | **Alan**                           | **Örnek**                     | **Açıklama**                      |
 |:------------------------------------|:--------------------------------|:-------------------------------------|
 | ProductTitle                        | Microsoft 365 İş Temel    | Ürünün başlığı                 |
-| ProductId                           | CFQ7TTC0LH18                    | Ürünün KIMLIĞI                    |
-| SkuId                               | 1                               | SKU KIMLIĞI                        |
-| SkuTitle                            | Microsoft 365 İş Temel    | SKU 'nun başlığı                     |
-| Publisher                           | Microsoft Corporation           | Teklifi yayımlayan Şirket         |
-| SkuDescription                      | Profesyonel e-posta, bulut dosya depolama ve... gerektiren işletmeler için en iyisi | Teklifin açıklaması |
+| ProductId                           | CFQ7TTC0LH18                    | Ürünün kimliği                    |
+| SkuId                               | 1                               | SKU kimliği                        |
+| SkuTitle                            | Microsoft 365 İş Temel    | SKU'nun başlığı                     |
+| Publisher                           | Microsoft Corporation           | Teklifi yayıman şirket         |
+| SkuDescription                      | Profesyonel e-posta, bulut dosya depolama alanı ve... | Teklifin açıklaması |
 | UnitOfMeasure                       |                                 | Şu anda yalnızca Azure tüketimi için |
-| TermDuration                        | P1Y/P1M                         | Dönem uzunluğu                   |
-| BillingPlan                         | Yıllık/aylık                  | Faturalandırma ne sıklıkta yapılır?            |
-| Pazara                              | ABD                              | Öğe için Pazar                  |
+| TermDuration                        | P1Y/P1M                         | Terimin uzunluğu                   |
+| BillingPlan                         | Yıllık/Aylık                  | Faturalama ne sıklıkta gerçekleşir?            |
+| Pazar                              | ABD                              | Öğe için pazar                  |
 | Para Birimi                            | USD                             | Öğe için para birimi                |
-| UnitPrice                           | 48                              | Birim başına fiyat (Lisans)             |
-| PricingTierRangeMin                 | |Katmanlı fiyatlandırma destekleniyorsa, fiyat noktası için minimum Aralık |
-| PricingTierRangeMax                 | |Katmanlı fiyatlandırma destekleniyorsa, fiyat noktası için maksimum Aralık |
-| Efektbaşlangıçtarihi                  | 2/1/2019 0:00                   | Öğenin fiyat noktası için başlangıç tarihi |
+| UnitPrice                           | 48                              | Birim başına fiyat (lisans)             |
+| PricingTierRangeMin                 | |Katmanlı fiyatlandırma desteklense, fiyat noktası için minimum aralık |
+| PricingTierRangeMax                 | |Katmanlı fiyatlandırma desteklense, fiyat noktası için maksimum aralık |
+| EffectiveStartDate                  | 2/1/2019 0:00                   | Öğenin fiyat noktası için başlangıç tarihi |
 | EffectiveEndDate                    | 11/30/9999 23:59                | Öğenin fiyat noktasının bitiş tarihi  |
-| Etiketler                                | Lisan Denemeye                   | Çeşitli Etiketler                   |
-| ERP fiyatı                           | 60                              | Tahmini perakende fiyatı               |
+| Etiketler                                | Lisans; Deneme                   | Çeşitli etiketler                   |
+| ERP Fiyatı                           | 60                              | Tahmini perakende fiyatı               |
 
-#### <a name="new-commerce-price-list-details"></a>Yeni ticaret fiyat listesi ayrıntıları 
+#### <a name="new-commerce-price-list-details"></a>Yeni ticari fiyat listesi ayrıntıları 
 
-Yeni ticaret fiyatlandırma dosyasındaki öğelerin yapısı geleneksel ofis fiyat listesinden farklıdır. 
+Yeni ticari fiyatlandırma dosyasındaki öğelerin yapısı, geleneksel ofis fiyatı listesinden farklıdır. 
 
-|**Kategori**|**Geleneksel lisans tabanlı**|**Yeni ticaret lisansı tabanlı**|
+|**Kategori**|**Geleneksel lisans tabanlı**|**Yeni ticari lisans tabanlı**|
 |:-----------   |:-----------   |:-----------   |
-|Teklif Kimliği|Bu, satın alınacak öğeyi tanımlayan bir GUID 'dir|ProductID/SKUID/kullanılabilirliği/kullanılabilirlik kimliği. Kullanılabilirlik KIMLIĞI yalnızca GetAvailablities API 'sinde döndürülür. Iş Ortağı Merkezi kullanıcı arabiriminden satın alırken, otomatik olarak eklenir.|
-|Ayarlarsanız|Tüm para birimleri için tüm tekliflerin dahil edilen sekmeleri|Her fiyat listesi yalnızca şu anda seçili olan pazar için para birimini içerir.|
+|Teklif Kimliği|Bu, satın alınan öğeyi tanımlayan bir GUID'tir|ProductID/SKUID/AvailabilityID. Kullanılabilirlik Kimliği yalnızca GetAvailablities API'sinde döndürülür. Kullanıcı arabirimi aracılığıyla İş Ortağı Merkezi otomatik olarak dahil edilir.|
+|Para|Tüm para birimleri için tüm tekliflerin sekmeleri dahil edildi|Her fiyat listesi yalnızca seçili pazar için para birimini içerir.|
 
-### <a name="new-commerce-offer-matrix"></a>Yeni ticaret teklifi matrisi
+### <a name="new-commerce-offer-matrix"></a>Yeni ticari teklif matrisi
 
-Teklif matrisi, Ürün SKU 'Larının satın alma bilgilerini ve kurallarını içerir. Pazara agtik.
+Teklif matrisi, ürün SKUS'ları için satın alma bilgilerini ve kuralları içerir. Pazardan bağımsızdır.
 
 | **Alan**                     | **Örnek**       | **Açıklama**                 |
 |:------------------------------|:------------------|:--------------------------------|
 | ProductTitle                  | Microsoft 365 İş Temel | Ürünün başlığı |
-| ProductId                     | CFQ7TTC0LH18       | Ürünün KIMLIĞI               |
-| SkuId                         | 1                  | SKU KIMLIĞI                   |
-| SkuTitle                      | Microsoft 365 İş Temel | SKU 'nun başlığı      |
-| Provisionıngıd                | 3b555118-dad6a-4418-894f-7df1e2096870 | Sağlanan ürünü tanımlayan sistem KIMLIĞI |
+| ProductId                     | CFQ7TTC0LH18       | Ürünün kimliği               |
+| SkuId                         | 1                  | SKU kimliği                   |
+| SkuTitle                      | Microsoft 365 İş Temel | SKU'nun başlığı      |
+| ProvisioningId                | 3b555118-da6a-4418-894f-7df1e2096870 | Sağlanan ürünü tanımlayan Sistem Kimliği |
 | ProvisioningString            | O365_BUSINESS_ESSENTIALS    |Sağlanan ürün için kolay anahtar adı |
-| Minlisansları                   | 1                  | Satın alınabilecek lisans sayısı alt sınırı |
-| Maxlisansları                   | 300                | Satın alınabilecek maksimum lisans sayısı |
-| AssetOwnershipLimit           | 2 | Verilen AssetOwnershipLimitType için varlık limiti |
-| AssetOwnershipLimitType       | ConcurrentCount    | AssetLimit türü. Ömür veya eşzamanlı olabilir |
-| Productskupyeniden eşitleme       |                    | Eklentinin desteklediği SKU 'Ların listesi |
-| ProductSkuConversion          | CFQ7TTC0LDPB/0001, CFQ7TTC0LF8Q/0001 | Dönüştürebileceğiniz SKU 'ların listesi |
-| Açıklama                   | Profesyonel olması gereken işletmeler için en iyisi... | SKU 'nun açıklaması |
-| Allowedülkeleriyle              |AB AE; AF; AG AI AL; HAR; AO...                     | Desteklenen pazarlar listesi |
+| MinLicenses                   | 1                  | Satın alın asgari lisans sayısı |
+| MaxLicenses                   | 300                | Satın alın en fazla lisans sayısı |
+| AssetOwnershipLimit           | 2 | Verilen AssetOwnershipLimitType için varlık sınırı |
+| AssetOwnershipLimitType       | ConcurrentCount    | AssetLimit türü. Yaşam süresi veya eş zamanlı olabilir |
+| ProductSkuPreRequisites       |                    | Eklentinin desteklediği SKUS'ların listesi |
+| ProductSkuConversion          | CFQ7TTC0LDPB/0001,CFQ7TTC0LF8Q/0001 | Dönüştürebilirsiniz SKUS listesi |
+| Description                   | Profesyonel ihtiyaçlara sahip işletmeler için en iyi... | SKU açıklaması |
+| AllowedCountries              |AD; AE;AF; AG; AI; AL;AM; AO...                     | Desteklenen pazarların listesi |
 
 ### <a name="price-list-preview"></a>Fiyat listesi önizlemesi
 
-Yeni ticaret, gelecekteki fiyatlandırmayı destekler. İş ortakları gelecek ay için gelecekteki fiyatlandırmayı dışa aktarabilir ve görüntüleyebilir. Geleneksel lisans tabanlı fiyat listeleri, yeni teklifler, silinen teklifler, değiştirilen ve değiştirilmemiş için dahil edilen bayrakları içerir. Yeni ticaret fiyatlandırma dosyaları, iş ortaklarının bu değişiklikleri izlemelerine ve bu değişiklikleri izleyerek, bu değişiklikleri takip ederek etkin, StartDate ve Efektbaşlangıç tarihleriyle
+Yeni ticaret, gelecekteki fiyatlandırmayı destekler. İş ortakları gelecek ay için gelecekteki fiyatlandırmayı dışarı aktararak görüntülemeye devam ediyor. Geleneksel lisans tabanlı fiyat listeleri yeni teklifler, silinen teklifler, değiştirilen ve değiştirilmemiş bayraklar içerir. Yeni ticari fiyatlandırma dosyaları, iş ortaklarının EffectiveStartDate ve EffectiveEndDates'den yararlanarak bu değişiklikleri izlemelerini sağlar.
 
-Yeni teklifler, gelecekteki fiyat dosyasında olduklarında tanımlanacaktır, ancak geçerli fiyat dosyasında değildir.
+Yeni teklifler, gelecekteki fiyat dosyasında olduğunda ancak geçerli fiyat dosyasında değilken tanımlanır.
 
-| **Türü Değiştir**             | **Değişiklik türünü belirleme**      |
+| **Türü değiştirme**             | **Değişiklik türünü tanımlama**      |
 |:----------------------------|:-------------------------------------|
-| Yeni                           | Gelecekteki fiyatdaki satır öğeleri geçerli aylık fiyatlandırmada değil |
-| Değiştir                         | Gelecekteki fiyatlandırmanın farklı olduğu, güncel ve gelecekteki her ikisi de satır, güncelleştirilmiş Efekttivestarttarihlere göre tanımlanır |
-| /Delete                     | Kullanılabilirliği sona erdirmek belirten bir EffectiveEndDate ile gelecekte satır öğesi |
-| Değiştirilmediği                   | Gelecekteki fiyatlandırma dosyasında değil |
+| Yeni                           | Geçerli aylık fiyatlandırmada yer almayacak olan gelecekteki fiyatlandırmadaki satır öğeleri |
+| Değiştir                         | Gelecekteki fiyatlandırmanın farklı olduğu hem geçerli hem de gelecekteki satır öğeleri, güncelleştirilmiş EffectiveStartDates tarafından tanımlanır |
+| Silme                     | Gelecekte bir EffectiveEndDate ile kullanılabilirlik sonu not alan satır öğesi |
+| Değişme -den                   | Gelecekteki fiyatlandırma dosyasında yok |
 
-### <a name="european-regional-prices"></a>Avrupa Bölgesel fiyatları
+### <a name="european-regional-prices"></a>Avrupa bölgesel fiyatları
 
-Eklendi olduklarında atanan [bölgelerde](regional-authorization-overview.md) iş ortakları Transact. Bu bölge birden fazla para birimini desteklediğinden Avrupa Bölgesi benzersizdir. İş ortakları, müşterinin pazarını temel alarak fiyatlandırma isteği ister, ancak para birimi müşteri pazarından farklı olabilir. Bu durumlarda, bir iş ortağı fiyatlandırma bilgilerini talep ettikleri müşteri pazarında desteklenen tüm para birimlerinde fiyatlandırma alır.  Tüm Avrupa market fiyat listeleri, Avrupa bölgesindeki tüm desteklenen para birimlerine fiyatlandırma dahil edilir. Fiyatlandırma, müşterilerin pazarına veya ülkesine dayanır, ancak belirli bir AB ülkesine ait fiyat listesi tüm AB para birimlerine fiyatlandırma dahil edilir.
+İş [ortakları, ekleme](regional-authorization-overview.md) yapıldıklarında atanan bölgelerde işlemde eder. Bu bölge birden fazla para birimini desteklediğinden Avrupa bölgesi benzersizdir. İş ortakları, müşterinin pazarına göre fiyatlandırma isteğinde bulundurmaktadır ancak bu, müşterinin pazar para biriminden farklı olan para birimiyle faturalandırılamamaktadır. Bu gibi durumlarda iş ortağı, fiyatlandırma bilgilerini talepte bulunarak müşteri pazarı için desteklenen tüm para birimlerinde fiyatlandırma elde ediyor olur.  Tüm Avrupa pazar fiyat listeleri, Avrupa bölgesinde desteklenen tüm para birimlerinde fiyatlandırmayı içerir. Fiyatlandırma, müşteri pazarlarına veya ülkelerine göredir, ancak bazı AB ülkelerinin fiyat listesi tüm AB para birimlerinde fiyatlandırmayı içerecektir.
 
-### <a name="pricing-and-offer-matrix-apis"></a>Fiyatlandırma ve teklif Matrisi API 'Leri
+### <a name="pricing-and-offer-matrix-apis"></a>Fiyatlandırma ve teklif matrisi API'leri
 
-Fiyatlandırma ve teklif Matrisi API 'Leri, Azure planını destekleyecek şekilde yayınlanan mevcut fiyat listesi API altyapısını oluşturur. Bu API artık lisans tabanlı yeni ticaret fiyatlandırmasını destekleyecek şekilde genişletildi. [Fiyat listesi ve teklif Matrisi API 'leri](/partner/develop/get-a-price-sheet) yalnızca güncelleştirilmiş yeni ticari lisans tabanlı çevrimiçi hizmetler için fiyatlandırmayı destekler. Yalnızca Iş Ortağı Merkezi fiyatlandırma ve teklifler sayfasından yüklenebilecek geleneksel Office lisans tabanlı Hizmetleri desteklemez.
+Fiyatlandırma ve teklif matrisi API'leri, Azure planını desteklemek için yayımlanan mevcut fiyat listesi API'si altyapısını oluşturur. Bu API artık lisans tabanlı yeni ticari fiyatlandırmayı destekleyecek şekilde genişletilmiştir. Fiyat [listesi ve teklif matrisi API'leri,](/partner/develop/get-a-price-sheet) yalnızca güncelleştirilmiş yeni ticari lisans tabanlı çevrimiçi hizmetler destekler. Yalnızca fiyatlandırma ve teklifler sayfasından indir kullanılabilen geleneksel office lisans İş Ortağı Merkezi hizmetlerini desteklemez.
 
 ## <a name="next-steps"></a>Sonraki adımlar
 

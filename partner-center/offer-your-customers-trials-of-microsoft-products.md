@@ -1,20 +1,20 @@
 ---
 title: Microsoft ürünleriyle müşterilerin deneme sürümlerini sunun
 ms.topic: article
-ms.date: 02/23/2021
+ms.date: 08/22/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-pricing
-description: Müşterilerin Microsoft abonelik ürünlerini 30 gün boyunca denemesini sağlayın. Diğer pek çok çevrimiçi hizmetler gibi, katalogdaki bu ücretsiz denemelerle kaydolun.
+description: Müşterilerin Microsoft abonelik ürünlerini denemesini sağlayın. Diğer pek çok çevrimiçi hizmetler gibi, katalogdaki bu ücretsiz denemelerle kaydolun.
 author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 625fd493b026faac924ff8a7a5af8dccb59ab7b3
-ms.sourcegitcommit: 1161d5bcb345e368348c535a7211f0d353c5a471
+ms.openlocfilehash: 48f4c81f217e68836dd755d1d4342d240276ea79
+ms.sourcegitcommit: 1e616b52d55eff41d67a081ba3f4a8370a49e027
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/09/2021
-ms.locfileid: "123960144"
+ms.lasthandoff: 09/29/2021
+ms.locfileid: "129191532"
 ---
 # <a name="give-customers-free-trials-of-microsoft-products"></a>Müşterilere Microsoft ürünlerinin ücretsiz deneme sürümlerini sunun
 
@@ -83,8 +83,8 @@ Tüm denemeler, ücretli aboneliklere dönüştürülemez. İş ortakları, sona
 |----------------------------|:---------------------------------|:------------------------------------------|
 |Microsoft Teams Ticari bulut (Kullanıcı tarafından başlatılan) denemesi   |Microsoft 365 İş Temel, Microsoft 365 İş Standart, Microsoft 365 İş Ekstra   | F3 (eski adıyla F1), Enterprise için Office 365 (E1, E3 ve E5), Microsoft 365 F1/f3, Microsoft 365 Kurumsal (E3)   |
 
->[!NOTE]
->Yukarıdaki teklifler benzer işlevlerle benzer hizmet planlarına sahiptir, ancak teklifler arasında bazı farklılıklar olabilir.
+> [!NOTE]
+> Yukarıdaki teklifler benzer işlevlerle benzer hizmet planlarına sahiptir, ancak teklifler arasında bazı farklılıklar olabilir.
 
 ### <a name="expiring-offers"></a>Süresi dolan teklifler
 
@@ -94,7 +94,7 @@ Deneme süresi dolduktan sonra, bu deneme sürümünde oturum açmayı deneyen b
 
 ## <a name="converting-new-commerce-trials-to-paid-subscriptions"></a>Yeni ticaret denemeleri ücretli aboneliklere dönüştürülüyor
 
-> [!Note] 
+> [!NOTE]
 > Yeni ticaret değişiklikleri şu anda yalnızca M365/D365 yeni ticaret deneyimi teknik önizlemesinin parçası olan iş ortakları tarafından kullanılabilir.
 
 Otuz gün sonra ücretsiz deneme süreniz ücretli bir aboneliğe otomatik olarak yenilenecek. Aşağıdaki adımları izleyerek deneme sürümünüzü otomatik yenilemeyle önce dönüştürebilirsiniz. 
@@ -106,7 +106,7 @@ Denemeyi ücretli aboneliğe kendiniz dönüştürebilirsiniz. Bunu Iş Ortağı
 
 ### <a name="convert-new-commerce-trials-using-partner-center"></a>Iş Ortağı Merkezi 'ni kullanarak yeni ticaret denemeleri dönüştürme
 
-> [!Note] 
+> [!NOTE]
 > Yeni ticaret değişiklikleri şu anda yalnızca M365/D365 yeni ticaret deneyimi teknik önizlemesinin parçası olan iş ortakları tarafından kullanılabilir.
 
 Iş Ortağı Merkezi 'ni kullanarak yeni ticari denemeleri ücretli aboneliklere dönüştürebilirsiniz:
@@ -114,7 +114,7 @@ Iş Ortağı Merkezi 'ni kullanarak yeni ticari denemeleri ücretli aboneliklere
 1. Müşterinin abonelik sayfasına gidin ve ücretsiz denemeyi seçin.
 2. **Denemeyi ücretli aboneliğe Dönüştür**' ü seçin.
 3. Ücretli eşdeğerini seçip **Gönder**' i seçin.
-4. Ücretli abonelik için faturalandırma, dönüştürme tarihinde başlar ve abonelik, dönüştürme tarihinden itibaren iki ayda bir otomatik olarak yenilenir. 
+4. Ücretli abonelik için faturalandırma, dönüştürme tarihinde başlar ve abonelik, dönüştürme tarihinden itibaren iki ayda bir otomatik olarak yenilenir.
 
 ## <a name="billing"></a>Faturalandırma
 

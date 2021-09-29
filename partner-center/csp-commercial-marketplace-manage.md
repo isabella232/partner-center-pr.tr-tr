@@ -9,12 +9,12 @@ author: rbars
 ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 0b89271c42a420c2aafa19fbdb5bc8d3a274a2c6
-ms.sourcegitcommit: e1da62b36420d78bf44e3962358d0af65ebc3402
+ms.openlocfilehash: ac95ec7297d06705084801120cf3f024a7680b66
+ms.sourcegitcommit: 1e616b52d55eff41d67a081ba3f4a8370a49e027
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/27/2021
-ms.locfileid: "129089122"
+ms.lasthandoff: 09/29/2021
+ms.locfileid: "129191446"
 ---
 # <a name="manage-commercial-marketplace-products-and-offers-for-your-customers"></a>Müşterileriniz için ticari Market ürünlerini ve tekliflerini yönetin
 
@@ -112,11 +112,7 @@ Yayımcı size kişiselleştirilmiş bir bağlantı ve belirli satın alma bilgi
 
 Ticari Market 'teki bir ISV yayımcısı tarafından sunulan lisans tabanlı bir SaaS ürününe abone olduğunuzda, aboneliği belirlenen iptal döneminde iptal etme seçeneğiniz vardır. Bu iptal süresi, aylık veya yıllık aboneliğiniz olmasına bağlı olarak değişir. Ayrıca, aboneliğin otomatik olarak yenilenmesi gerekip gerekmediğini de belirleyebilirsiniz.
 
-Uygulanan iptal dönemleri hakkında daha fazla bilgi için, nasıl iptal edileceği veya bir aboneliğin otomatik olarak yenileneceği hakkında daha fazla bilgi için bkz.:
-
-- [Aboneliği iptal et](create-a-new-subscription.md#cancel-a-subscription)
-
-- [Ticari Market aboneliğini otomatik yenileme](create-a-new-subscription.md#choose-whether-to-automatically-renew-a-commercial-marketplace-subscription)
+Uygulanan iptal dönemleri hakkında daha fazla bilgi için, [aboneliği iptal etme](create-a-new-subscription.md#cancel-a-subscription)veya otomatik yenileme
 
 ## <a name="add-or-remove-licenses-for-a-saas-subscription"></a>SaaS aboneliği için lisans ekleme veya kaldırma
 

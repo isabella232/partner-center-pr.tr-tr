@@ -1,7 +1,7 @@
 ---
 title: Yeni ticaret promosyonları
 ms.topic: article
-ms.date: 09/24/2021
+ms.date: 09/28/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-pricing
 description: Promosyon ve satın alma promosyonları için yeni ticari deneyimler hakkında bilgi edinin.
@@ -9,12 +9,12 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: b5b4e3ec2ef4c37b742102d287e5eddd93690fdb
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: 723e56fc73a83abfb8f2c65ca529bdecab832c9c
+ms.sourcegitcommit: 1e616b52d55eff41d67a081ba3f4a8370a49e027
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/27/2021
-ms.locfileid: "129075169"
+ms.lasthandoff: 09/29/2021
+ms.locfileid: "129191417"
 ---
 # <a name="introduction-new-commerce-promotions"></a>Giriş: yeni ticaret promosyonları
 
@@ -36,7 +36,7 @@ Microsoft, yeni ticaret 'daki yükseltmeleri destekleyecektir. Bu promosyonlar, 
 
 ## <a name="operationalize-promotions"></a>İşlem yükseltmeleri ##
 
-İş ortakları, Getpromosyonlar API 'sini uygulayarak yükseltmeleri gerçekleştirebilir. Bu API, belirli bir Pazar (müşterinin ülkesi) ve segmenti için mevcut olan tüm yükseltmeleri döndürür. API, iş ortağının farklı ülkelerdeki müşteriler için hangi promosyonların kullanılabildiğini anlamalarına yardımcı olmak için promosyon ve önemli bilgilerin listesini döndürür. 
+İş ortakları, [Getpromosyonlar API](/partner-center/develop/get-promotions)'sini uygulayarak yükseltmeleri gerçekleştirebilir. Bu API, belirli bir Pazar (müşterinin ülkesi) ve segmenti için mevcut olan tüm yükseltmeleri döndürür. API, iş ortağının farklı ülkelerdeki müşteriler için hangi promosyonların kullanılabildiğini anlamalarına yardımcı olmak için promosyon ve önemli bilgilerin listesini döndürür. 
 
 
 Getpromosyonlar API 'SI, belirli bir yükseltme için aşağıdaki verileri içerir:
@@ -49,9 +49,16 @@ Promosyonlar, iş ortağı tarafından promosyon Ürün SKU 'SU satın aldığı
 
 ## <a name="verify-eligibility"></a>Uygunluğu doğrula ##
 
-İş ortakları, ürünü satın almadan önce iş ortağı Merkezi ' nde İnceleme sayfasındaki bilgileri görerek bir promosyon için uygun olup olmadığını görüntüleyebilir. İş ortakları Ayrıca, Verifypromotionuygunluk API 'sini çağırıp müşteri kiracı KIMLIĞINI ve yükseltme KIMLIĞINI geçirerek. Müşteri uygun olduğunda çağrı true değerini döndürür. Müşteri uygun değilse, API, yükseltmenin geçerli olması için karşılanmayan koşulları döndürür. 
+İş ortakları, ürünü satın almadan önce iş ortağı Merkezi ' nde İnceleme sayfasındaki bilgileri görerek bir promosyon için uygun olup olmadığını görüntüleyebilir. İş ortakları Ayrıca, [Verifypromotionuygunluk API](/partner-center/develop/verify-promotion-eligibility)'sini çağırıp MÜŞTERI Kiracı kimliğini ve yükseltme kimliğini geçirerek. Müşteri uygun olduğunda çağrı true değerini döndürür. Müşteri uygun değilse, API, yükseltmenin geçerli olması için karşılanmayan koşulları döndürür. 
 
 İş ortakları, doğrulama uygunluğunu çağırıp sonuçları geri alabilir. Uygunluk hataları, bir yükseltmenin bir müşterinin Ürün SKU 'suna kaç kez uygulanabileceğini, uyumsuz koşulları veya kullanıcı sayısını temel alabilir.
+
+Yeni ticaret yükseltmeleri API 'Leri için önemli konular:
+
+- [Getpromosyonlar API 'SI](/partner-center/develop/get-promotions)
+- [Getpromotionsbyıd API 'SI](/partner-centerpartner-center/develop/get-promotion-by-id)
+- [Verifypromtioneligılıklara](/partner-center/develop/verify-promotion-eligibility)
+- [Promosyon kaynakları](/partner-center/develop/promotion-resources)
 
 >[!IMPORTANT]
 > İş ortaklarının, bir işlem göndermeden önce yükseltmeleri doğrulaması gerekir. İş Ortağı Merkezi *İnceleme sayfasında* , iş ortakları bir yükseltme görmediğinden, bu işlem işleme uygulanmaz, iş ortağı yükseltme olmayan fiyatı alır. İş ortakları Ayrıca, bir işlemi göndermeden önce yükseltmenin mevcut olup olmadığını görmek için sepet çizgisi öğe API 'sine de bakabilirler. İş ortakları, Müşteri Ürün SKU bileşiminin yükseltme için uygun olduğunu ve bu nedenle ineligibility nedenlerini doğrulamak üzere işlemleri göndermeden önce doğrulama yükseltmeleri API 'sini çağırabilir.

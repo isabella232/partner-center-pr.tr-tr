@@ -9,12 +9,12 @@ author: parthp
 ms.author: parthp
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
-ms.openlocfilehash: 99057daa14fc279fde2a676a315d3cc8930f88aa
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: 0d3b7787cf0f41a04f0a662450040802d74e9ef7
+ms.sourcegitcommit: 1e616b52d55eff41d67a081ba3f4a8370a49e027
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/27/2021
-ms.locfileid: "129072423"
+ms.lasthandoff: 09/29/2021
+ms.locfileid: "129191451"
 ---
 # <a name="how-to-add-a-new-customer-record-in-partner-center"></a>İş Ortağı Merkezi'da yeni müşteri kaydı ekleme
 
@@ -61,6 +61,9 @@ Müşteri e-posta adresi girerken aşağıdakilere izin verilmez:
 - Müşteri e-posta adresi, iş ortağıyla aynı etki alanı adını içere değildir. Örneğin ABC adlı bir iş ortağı ile müşteri e-postası oluşturamayabilirsiniz. @abc.com
 
 ## <a name="to-add-a-new-customer-in-partner-center"></a>İş Ortağı Merkezi'nde yeni müşteri eklemek için
+
+> [!NOTE]
+> Çalışma alanları arabirimi hakkında daha fazla bilgi edinmek için [bkz. İş Ortağı Merkezi.](get-around-partner-center.md#turn-workspaces-on-and-off)
 
 #### <a name="workspaces-view"></a>[Çalışma alanları görünümü](#tab/workspaces-view)
 
@@ -130,7 +133,7 @@ Müşteri e-posta adresi girerken aşağıdakilere izin verilmez:
 
 Aşağıdaki ülkelerdeki müşteriler için kayıt ekleyen doğrudan fatura iş ortakları ve dolaylı sağlayıcılar da şirket telefon numarasını ve kayıt kimliğini (kuruluş INN'si olarak da bilinir) girmeli:
 
-Arjantin, Güney Amerika, Brezilya, Brezilya, Güney Kore, Hindistan, Brezilya, Brezilya, Hindistan, Rusya, Afrika, Rusya, Suudi Arabistan, Güney Afrika, Güney Sudan, Tacikistan, Hindistan, Rusya, Afrika, Afrika Birleşik Devletleri, Özbekistan, Vietnam ve Vietnam
+Afrika, Afrika, Brezilya, Brezilya, Hindistan, Güney Afrika, Kırgızlar, Afrika, Vietnam, Myanmar, Arak, Rusya, Suudi Arabistan, Güney Afrika, Güney Sudan, Tajikistan, Arjantin, Rusya, Afrika, Birleşik Birleşik Arab Vezni, Özbekistan, Vietnam ve Vietnam
 
 ## <a name="company-name-and-email-characters-abbreviations-and-extensions"></a>Şirket adı ve e-posta karakterleri, kısaltmalar ve uzantılar
 
@@ -159,34 +162,34 @@ Aşağıdaki tablolarda, yukarıdaki yeni kurallar bölümünde [belirtilen öğ
 | Abbr. | Abbr. | Abbr. | Abbr. |
 | ----- | ----- | ----- | ----- |
 |" c p a" | "pty" | "l. l. c." | "gmbh" |
-| "c.p.a." | "Pty Ltd" | "l.l.c." | PLC |
-| "l.l.p." | "Pte Ltd" | "l l p" | WLL |
-| ,. p. a. " | "özel sınırlı" | Corp | "lda" |
-| girişindeki. l. p. " | Pvt | kuruluş | "SARL" |
-| "l l c" | "Pvt Ltd" | d | "Kft" |
-| "Corp." | "Zrt" | alınabilir | Ltd |
-| "LLC." | Ooo | az | "Ltd." |
-| "LLP." | "LLP" | LLC | "Sdn Bhd"
+| "c.p.a." | "pty ltd" | "l.l.c." | "olarak" |
+| "l.l.p." | "pte ltd" | " l l p" | "wll" |
+| "c. p. a." | "private limited" | "corp" | "lda" |
+| "l. l. p." | "pvt" | "corporation" | "sarl" |
+| " l l c" | "pvt ltd" | "inc" | "kft" |
+| "corp." | "zrt" | "incorporated" | "ltd" |
+| "llc." | "ooo" | "sınırlı" | "ltd." |
+| "llp." | "llp" | "llc" | "sdn zamand"
 
 ### <a name="table-of-top-level-domain-extensions"></a>En üst düzey etki alanı uzantıları tablosu
 
-| Leri.  | Leri.  | Leri.  | Leri. |
+| Dahili.  | Dahili.  | Dahili.  | Dahili. |
 | ----- | ----- | ----- | ----- |
-| . AC | . ba | . ca | . de |
-| . ad | . bb | . CC | . dj |
-| . AE | . BD | . CD | . dk |
-| . AF | . | . CF | . DM |
-| . AG | . BF | . CG | . do |
-| . AI | . bg | . ch | . dz |
-| . al | . BH | . CI | . FM |
-| . har | . bi | . CK | . fo |
-| . a | . BJ | . cl | . fr |
-| . Ao | . bl | . cm | . ga |
-| . aq | . BM | . cn | . GB |
-| . ar | . milyar TL | . Co | . GD |
-| as | . Bo | . CR | . ge |
-| . at | . BQ | . cu | . GF |
-| . au | . br | . CV | . gg |
+| .ac | .ba | .ca | .de |
+| .ad | .bb | .cc | .dj |
+| .ae | .bd | Cd | .dk |
+| .af | .be | .cf | .dm |
+| .ag | .bf | .cg | .do |
+| Ai | .bg | .ch | .dz |
+| .al | .fare | .ci | .fm |
+| .am | .bi | .ck | .fo |
+| .an | .kanallar | .cl | Fr |
+| .ao | .bl | .cm | .ga |
+| .aq | .bm | .cn | .gb |
+| .ar | .bn | .co | .gd |
+| .as | .bo | .cr | Ge |
+| .at | .bq | .cu | .gf |
+| Au | .br | .cv | . gg |
 | . aw | . BS | . FA | . gh |
 | . ax | . BT | . CX | . gi |
 | . az | . bv | . cy | . gl |
@@ -211,32 +214,32 @@ Aşağıdaki tablolarda, yukarıdaki yeni kurallar bölümünde [belirtilen öğ
 | . JM | . lv | . My | . PN |
 | . Jo | . ly | . MZ | . PR |
 | . jp | . ma | . na | . PS |
-| . ke | . mc | . NC | . pt |
-| . KG | . MD | . ne | . pw |
-| . kh | . ben | . NF | .py |
-| . ki | . MF | . NG | . qa |
-| . km | . mg | . ni | . Re |
-| . kn | . MH | . nl | . ro |
-| . KP | . MK | . Hayır | . RS |
-| . kr | . ml | . NP | . ru |
-| . kW | . dd | . NR | . RW |
-| . KY | . MN | . nu | . sa |
-| . SB | . tf | . VC | .中国 |
-| . SC | . TG | . ve | .中國 |
-| . SD | . TH | . VG | .భారత్ |
-| . o | . TJ | . VI | .ලංකා |
-| . SG | . TK | . vn | .ભારત |
-| . sh | . TL | . vu & lt | .भारतम् |
-| . si | . tm | . WF | .भारत |
-| . SJ | . TN | . ws | .भारोत |
-| . SK | . | .ಭಾರತ | .укр |
-| . SL | . TP | .한국 | .香港 |
-| . SM | . tr | .ଭାରତ | .台湾 |
-| . sn | . tt | .ভাৰত | .台灣 |
-| . bu nedenle | . TV | .ভারত | .мон |
-| . SR | . tw | .சிங்கப்பூர் | . TC |
-| . ss | . TZ | . sz | . TD |
-| . St | . ua | .বাংলা | .uz |
+| . ke | . mc | . NC | .pt |
+| .kg | .md | .ne | .pw |
+| .km | .me | .nf | .py |
+| .ki | .mf | .ng | .qa |
+| .km | .mg | .ni | .re |
+| .kn | .mh | Nl | .ro |
+| .kp | .mk | .no | .rs |
+| .kr | .ml | .np | Ru |
+| .wan | .mm | .nr | .rw |
+| .ky | .mn | .nu | .sa |
+| .sb | .tf | .vc | .中国 |
+| .sc | .tg | .ve | .中國 |
+| .sd | Th | .vg | .భారత్ |
+| .se | .tj | .vi | .ලංකා |
+| .sg | .tk | .vn | .ભારત |
+| .sh | .tl | .vu | .भारतम् |
+| .si | .tm | .wf | .भारत |
+| .sj | .tn | .ws | .भारोत |
+| .sk | .to | .ಭಾರತ | .укр |
+| .sl | .tp | .한국 | .香港 |
+| .sm | .tr | .ଭାରତ | .台湾 |
+| .sn | Tt | .ভাৰত | .台灣 |
+| .so | .tv | .ভারত | .мон |
+| .sr | .tw | .சிங்கப்பூர் | .tc |
+| .ss | .tz | .sz | .td |
+| .st | .ua | .বাংলা | .uz |
 | . su | . UG | .қаз | . va |
 | . ZF | . uk | .срб | .мкд |
 | . SX | . um | .бг | .ею |
