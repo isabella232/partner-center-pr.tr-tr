@@ -1,5 +1,5 @@
 ---
-title: Ödeme hesabı & vergi formları ayarlama-Microsoft ticari Market
+title: Ticari Market ödeme ve vergi profillerini ayarlama
 description: Ticari Market 'teki teklif satışlarından para almak için, ödeme hesabınızı ayarlamayı ve gerekli vergi formlarını doldurmayı öğrenin.
 ms.topic: conceptual
 ms.service: partner-dashboard
@@ -7,14 +7,14 @@ ms.subservice: partnercenter-payouts
 author: mingshen-ms
 ms.author: mingshen
 ms.date: 09/27/2021
-ms.openlocfilehash: e2647e035f8939f5ed8700c83aaed6641084f277
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: f53a066b2a625e6d96d720a13771e4461798fdf3
+ms.sourcegitcommit: 4bdf04eaca11a1065a4146fc3269ee4a8a7a6828
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/27/2021
-ms.locfileid: "129071067"
+ms.lasthandoff: 09/28/2021
+ms.locfileid: "129156929"
 ---
-# <a name="set-up-your-payout-account-and-tax-forms"></a>Ödeme hesabınızı ve vergi formlarınızı ayarlama
+# <a name="set-up-commercial-marketplace-payout-and-tax-profiles"></a>Ticari Market ödeme ve vergi profillerini ayarlama
 
 **Uygun roller**: Hesap Yöneticisi | Genel yönetici
 
@@ -142,66 +142,66 @@ Değişiklik yapmanız veya yanlış bilgileri düzeltmeniz gerekiyorsa, mevcut 
 
 ödeme yöntemi olarak PayPal kullanmayla ilgili yaygın sorular:
 
-- **ödemeleri almak için hangi PayPal ayarları gerekir?** PayPal hesabınızın echeck ödemelerini engellemediğinden emin olun. bu ayar PayPal ödeme alma tercihleri sayfasında yönetilir. daha fazla bilgi için [PayPal hesap kurulumu sayfasına](https://go.microsoft.com/fwlink/?linkid=2162542) bakın.
+- **ödemeleri almak için hangi PayPal ayarları gerekir?** PayPal hesabınızın echeck ödemelerini engellemediğinden emin olun. bu ayar PayPal ödeme alma tercihleri sayfasında yönetilir. Daha [PayPal için bkz. hesap](https://go.microsoft.com/fwlink/?linkid=2162542) kurulum sayfası.
 
-- **Ülkeniz/bölgem destekleniyor mu?** PayPal desteklenen bir ödeme yöntemi olduğunu öğrenmek için [ödeme eşikleri, yöntemler ve zaman çerçevelerine](payment-thresholds-methods-timeframes.md) bakın.
+- **Ülkem/bölgem desteklandı mı?** Desteklenen [ödeme yönteminin nerede olduğunu bulmak için](payment-thresholds-methods-timeframes.md) bkz. Ödeme eşikleri, PayPal ve zaman çerçeveleri.
 
-- **PayPal hesabımın iş ortağı merkezi hesabından aynı ülkede/bölgede kayıtlı olması mı gerekiyor?** Hayır. bir PayPal hesabını ayarlarken, varsayılan yapılandırmayı kabul edebilirsiniz. Bazı para birimlerindeki ödemeyi bloke etmezseniz, başka ülkelerde/bölgelerde ve para birimleriyle ilgili herhangi bir sorununuz olması gerekmez. bu ayar PayPal ödeme alma tercihleri sayfasında yönetilir.
+- **Hesap PayPal hesabım ile aynı ülkede/bölgede kayıtlı olması İş Ortağı Merkezi var mı?** Hayır. Bir hesap PayPal, varsayılan yapılandırmayı kabul edersiniz. Bazı para birimlerinde ödemenizi engellemedikçe diğer ülkeler/bölgeler ve para birimleriyle ilgili bir sorun olmaması gerekir. Bu ayar, PayPal'nin Ödeme Alma Tercihleri sayfasında yönetilir.
 
-- **PayPal ödemelerini el ile kabul etmem gerekir mi?** Hayır. PayPal hesapları, kullanıcıların ödemeleri el ile kabul etmelerini gerektirmek için varsayılan olarak ayarlanır, bu da ödemeyi 30 gün içinde kabul etmezseniz, döndürülür. bu ayarı, PayPal daha Ayarlar sayfasında "bana sor" öğesini kapatarak değiştirebilirsiniz.
+- **El ile ödeme kabul PayPal gerekiyor mu?** Hayır. PayPal hesapları varsayılan olarak kullanıcıların ödemeleri el ile kabul etmelerini gerektirecek şekilde ayarlanır. Bu da 30 gün içinde ödemeyi kabul etmezsanız iade edilir. Bu ayarı, Sayfanın Diğer sayfasındaki "Bana Sor" PayPal kapatarak Ayarlar değiştirebilirsiniz.
 
-- **PayPal hangi para birimleri desteklenir?** geçerli liste için [PayPal destek sayfasına](https://developer.paypal.com/docs/classic/api/currency-codes/#paypal) bakın
+- **Hangi para birimlerini PayPal destekler?** Geçerli [PayPal için aşağıdaki destek](https://developer.paypal.com/docs/classic/api/currency-codes/#paypal) sayfasına bakın
 
 ### <a name="specific-requirements-for-certain-countriesregions"></a>Belirli ülkeler/bölgeler için belirli gereksinimler
 
-Bazı ülkelerde ve bölgelerde, ödeme hesapları için ek gereksinimler izlenmelidir. Pakistan, Rusya veya Ukrayna 'nin yerleşik bir sürümü varsa, aşağıdaki gereksinimleri göz önünde bulabilirsiniz.
+Bazı ülkelerde ve bölgelerde ödeme hesapları için ek gereksinimlere uygun olması gerekir. Rusya, Rusya veya Rusya'da yerleşik olarak bulunuyorsanız aşağıdaki gereksinimleri not edin.
 
 #### <a name="pakistan"></a>Pakistan
 
-Form-R, bir Pakistan bankacılık mevzuatı gereksinimidir. Abroad 'tan fonların alınması amacını ve nedenini belirtmek için kullanılır. Bu nedenle, Microsoft 'tan aylık bir ödeme için uygun olduğunuzda, ödeme hesabınıza yayınlanmadan önce bankanızla bir form göndermeniz gerekir. Form-R ' n i n bir kopyasının nasıl alınacağını açıklayan yönergeler için yerel banka dalınızla iletişim kurun.
+Form-R, Bir Banka bankacılık düzenleme gereksinimidir. Bütçeden fon alma amacını ve nedenini belirtmek için kullanılır. Bu nedenle, Microsoft'un aylık ödemesi için uygunsanız ödemenin hesabınıza yayımlanabilecek olması için önce bankanıza bir Form-R göndermeniz gerekir. Form-R'nin bir kopyasını alma yönergeleri için yerel banka şubenize başvurun.
 
-Bir ödemeye uygun olduğunuz her ay bankanızla bir form göndermeniz gerekir. Örneğin, yılın her gününde bir ödeme almayı düşünüyorsanız, bir form (her ay bir kez) göndermeniz gerekir.
+Ödemeye uygun olduğunuz her ay bankanıza bir Form-R göndermeniz gerekir. Örneğin, yılın her ayında bir ödeme almak bekliyorsanız, Form-R'yi 12 kez (her ay bir kez) göndermeniz gerekir.
 
-Ödeme bankanızla gönderildikten sonra, bir form-R göndermeniz için 30 gününüz vardır. 30 gün içinde gönderilmezse fonlar Microsoft 'a döndürülür.
+Ödeme bankanıza gönderildikten sonra Bir Form-R göndermek için 30 gün süreniz olur. 30 gün içinde gönderilmezse, fonLar Microsoft'a döndürülür.
 
 #### <a name="russia"></a>Rusya
 
-Rusya 'da yaşayan bir yayımınız varsa, bankanızla fonlara para yatırmadan önce bankanızla belge sağlamanız gerekebilir. Ücretli olmaya uygun olduğunuzda, size bir e-posta iletisinde aşağıdaki belgeleri sunuyoruz:
+Rusya'da yaşayan bir yayımcıysanız, bankanız hesabınıza fonlar ödemeden önce bankanıza belge sağlamanız gerekir. Ödemeye uygunsanız, size bir e-posta iletisinde aşağıdaki belgeleri sağlarız:
 
-- Kabul sertifikası (AC) – hesabınıza aktarılmakta olan ödeme miktarını içerir.
-- [Microsoft Azure market Publisher sözleşmesi](/legal/marketplace/msft-publisher-agreement) – sayaç imzalı olması gereken yayımcı sözleşmesinin imzalı bir kopyasıdır.
+- Kabul Sertifikası (AC): Hesabınıza aktarılan ödeme miktarını içerir.
+- [Microsoft Azure Market Publisher Sözleşmesi:](/legal/marketplace/msft-publisher-agreement) Karşı imzalayan olması gereken yayımcı anlaşmasının imzalı bir kopyası.
 
-Ödeyinizin başarılı olduğundan emin olmak için aşağıdakileri yaptığınızdan emin olun:
+Ödemenizin başarılı olduğundan emin olmak için şunların doğru olduğundan emin olun:
 
-- Iş Ortağı Merkezi 'nde ödeme hesabınız için girilen **hesap sahibi adı** , Banka hesabınızla ilişkili tam aynı ad olmalıdır. Örneğin, banka hesabınızın adı bir orta ad içeriyorsa, **Hesap sahibinin adına** bir orta ad ekleyin.
-- Ödemeler doğrudan Microsoft 'tan ruble (RUB) para birimi cinsinden banka hesabınıza aktarılır.
-- Iş Ortağı Merkezi 'nde Latin karakterlerle girilen banka bilgileri Kiril karaktere çevrilir.
-- Ödemeler banka kartına değil bir banka hesabına yapılmalıdır.
+- Ödeme **hesabınız için İş Ortağı Merkezi** hesap sahibi adı, banka hesabınızla ilişkili tam olarak aynı adda olması gerekir. Örneğin, banka hesabı adınız bir ara ad içeriyorsa, Hesap sahibinin adına bir **orta ad ekleyin.**
+- Ödemeler doğrudan Microsoft'tan Banka hesabınıza Transfer (BANK) para birimiyle aktarılır.
+- Latin karakterlerde İş Ortağı Merkezi banka bilgileri Kiril karakterlerine çevrilir.
+- Ödemelerin bir banka kartına değil, bir banka hesabına yapılmış olması gerekir.
 
 #### <a name="ukraine"></a>Ukrayna
 
-Ukrayna içinde yaşayan bir yayımınız varsa, bankanızla fonlara para yatırmadan önce bankanızla belge sağlamanız gerekebilir. Ücretli olmaya uygun olduğunuzda, size bir e-posta iletisinde aşağıdaki belgeleri sunuyoruz:
+Avrupa'da yaşayan bir yayımcıysanız, bankanız hesabınıza fonlar ödemeden önce bankanıza belge sağlamanız gerekir. Ödemeye uygunsanız, size bir e-posta iletisinde aşağıdaki belgeleri sağlarız:
 
-- Kabul sertifikası (AC) – hesabınıza aktarılmakta olan ödeme miktarını içerir.
-- [Microsoft Azure market Publisher sözleşmesi](/legal/marketplace/msft-publisher-agreement) – sayaç imzalı olması gereken yayımcı sözleşmesinin imzalı bir kopyasıdır.
-- Düzeltme Sözleşmesi (AA) – Bu belge, bankanızla, ödeme fonlarınızı belirlemenize yardımcı olmak için kullanılabilir.
+- Kabul Sertifikası (AC): Hesabınıza aktarılan ödeme miktarını içerir.
+- [Microsoft Azure Market Publisher Sözleşmesi:](/legal/marketplace/msft-publisher-agreement) Karşı imzalayan olması gereken yayımcı anlaşmasının imzalı bir kopyası.
+- Değişiklik Anlaşması (AA) – Bu belge bankanız tarafından ödeme fonlarınızı tanımlamanıza yardımcı olmak için kullanılabilir.
 
-Microsoft, ilk ödeme denendiğinde üç belgeyi de sağlar. Sonraki ödemelerde, yalnızca AC belgesini alacaksınız. ADA ve AA belgelerini, bankanınızdan gelecek ödemeleri almak için ihtiyaç duymanız durumunda saklayın.
+microsoft, ilk ödemeniz denenen üç belgeyi de sağlar. Sonraki ödemelerde yalnızca AC belgesini alırsınız. Bankanız tarafından gelecekte ödeme almaları gerektirecek ada ve AA belgelerini koruma.
 
-### <a name="create-a-paypal-payment-profile"></a>PayPal ödeme profili oluşturma
+### <a name="create-a-paypal-payment-profile"></a>Bir PayPal profili oluşturma
 
-Ödemeler almak için bir banka hesabı kullanmayı seçtiyseniz, banka hesabınızı yapılandırmak için aşağıdaki işlemi tamamlayabilirsiniz.
+Ödeme almak için bir banka hesabı kullanmayı seçilirse, banka hesabını yapılandırmak için aşağıdaki işlemi tamamlarsınız.
 
-1. *PayPal* sayfasında, PayPal hesabınız hakkında gerekli bilgileri sağlayın.
-2. PayPal hesabınızın ayrıntılarını sağlayın.
+1. PayPal *sayfasında,* hesap hesabınızla ilgili gerekli PayPal ekleyin.
+2. Hesap PayPal bilgilerini sağlama.
 
     > [!NOTE]
-    > Hesap bilgilerinizi sağlamak için kullandığınız alanlar yalnızca alfasayısal karakterleri kabul eder.
+    > Hesap bilgilerinizi sağlamak için kullanabileceğiniz alanlar yalnızca alfasayısal karakterleri kabul eder.
 
-3. Lehdar ayrıntılar sağlayın.
-4. *Profil atama* sayfasına geri döndüğünüzde, ödemlarınızı yayınlıyoruz, kullanmak istediğiniz para birimini seçin.
-5. Birden fazla program için aynı profili kullanabilmeniz için, katılmış olduğunuz her bir program için bir ödeme profili seçmeniz gerekir.
-6. Değişikliklerinizi kaydetmek için Gönder ' i seçin.
+3. Yararlanan ayrıntıları sağlama.
+4. Profil *ataması sayfasına* geri dönüp ödemelerinizi sağlarken kullanmamızı istediğiniz para birimini seçin.
+5. Katıldığınız her program için bir ödeme profili seçmeniz gerekir, ancak birden çok program için aynı profili kullanabilirsiniz.
+6. Değişikliklerinizi kaydetmek için Gönder'i seçin.
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
