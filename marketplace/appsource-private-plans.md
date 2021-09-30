@@ -5,14 +5,13 @@ ms.service: marketplace-customer
 ms.topic: how-to
 author: Guyshu
 ms.author: gushuchm
-ms.date: 06/08/2021
-robots: noindex
-ms.openlocfilehash: a392859c1106c747e0e7c696927ef3b25262e411
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.date: 09/27/2021
+ms.openlocfilehash: 5d241997082f112663fafb1b1ccdb13adde29a71
+ms.sourcegitcommit: a59e1abb470f4847e8f8337ffa4ba705514a0424
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126248450"
+ms.lasthandoff: 09/29/2021
+ms.locfileid: "129249686"
 ---
 # <a name="private-plans-in-microsoft-appsource"></a>Microsoft AppSource özel planlar
 

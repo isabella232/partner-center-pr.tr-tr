@@ -1,7 +1,7 @@
 ---
 title: Yeni ticaret promosyonları
 ms.topic: article
-ms.date: 09/28/2021
+ms.date: 09/29/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-pricing
 description: Promosyon ve satın alma promosyonları için yeni ticari deneyimler hakkında bilgi edinin.
@@ -9,12 +9,12 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 723e56fc73a83abfb8f2c65ca529bdecab832c9c
-ms.sourcegitcommit: 1e616b52d55eff41d67a081ba3f4a8370a49e027
+ms.openlocfilehash: 45411827f200f205dc20b9a9c2d60519d4aba4eb
+ms.sourcegitcommit: a59e1abb470f4847e8f8337ffa4ba705514a0424
 ms.translationtype: MT
 ms.contentlocale: tr-TR
 ms.lasthandoff: 09/29/2021
-ms.locfileid: "129191417"
+ms.locfileid: "129249319"
 ---
 # <a name="introduction-new-commerce-promotions"></a>Giriş: yeni ticaret promosyonları
 
@@ -56,7 +56,7 @@ Promosyonlar, iş ortağı tarafından promosyon Ürün SKU 'SU satın aldığı
 Yeni ticaret yükseltmeleri API 'Leri için önemli konular:
 
 - [Getpromosyonlar API 'SI](/partner-center/develop/get-promotions)
-- [Getpromotionsbyıd API 'SI](/partner-centerpartner-center/develop/get-promotion-by-id)
+- [Getpromotionsbyıd API 'SI](/partner-center/develop/get-promotion-by-id)
 - [Verifypromtioneligılıklara](/partner-center/develop/verify-promotion-eligibility)
 - [Promosyon kaynakları](/partner-center/develop/promotion-resources)
 
@@ -68,6 +68,8 @@ Müşterilerin bir promosyon için uygun olmayabilir olmasının üç nedeni var
 ### <a name="seat-count"></a>Koltuk sayısı ###
 
 Birçok promosyon bir koltuk 2400 bilgisayar sayısının en fazla belirtii olabilir. Bu durumlarda 2400 'den fazla bir işlem, yükseltme dışı fiyatlarla gönderilir. Bu izin sayıları, bu limitlere sahip bir promosyon aboneliğine koltuk eklenirken de zorlanır. İş ortakları, bir yükseltme etkin aboneliğini limitlerin ötesinde artırmayı denediğinde bir hata alır. Promosyonların bilgisayar sınırları, iş ortakları arasında zorlanır, böylece bir iş ortağı bir promosyon bilgisayar sayısı sınırı ile 2300 koltuk yükseltmesi satın alıyorsa, 200 bilgisayar satın alan ikinci bir iş ortağı, yükseltme dışı fiyata abonelik fiyatını alır. promosyon, ürün sku 'su düzeyinde zorlanır iş ortağı deneyimidir, bu nedenle bir iş ortağı 2400 bilgisayar Microsoft 365 E3 ve ayrıca farklı bir ürün sku 'su Microsoft 365 E5 için promosyon fiyatlandırması alabilir. İş ortakları, bir müşterinin belirli bir sağlanan SKU için kaç lisansa sahip olduğunu görmek için [SUBSCRIBEDSKUS API](/partner-center/develop/get-a-list-of-available-licenses) 'sini çağırabilir.
+
+Bir iş ortağı 2400 ' ten daha fazla lisans istiyorsa ve bu yükseltmeyi istiyorsa, iş ortağı yalnızca yükseltme fiyatı ve yükseltme dışı fiyata ikinci bir abonelik 2400 için bir abonelik satın alabilir.
 
 ### <a name="term"></a>Süre ###
 
@@ -86,3 +88,6 @@ Bir abonelikten başka bir SKU 'ya yükseltme yapan iş ortakları, promosyon fi
 
 ## <a name="promotions-and-migrations"></a>Promosyonlar ve geçişler ##
 iş ortakları, müşterilerinin aboneliklerini geleneksel Microsoft 365/dynamics 365 ' dan yeni ticaret sürümlerine geçirebilirler. Geçişler, hem Iş Ortağı Merkezi kullanıcı arabiriminden hem de geçiş API 'Leri çağrılmadan kullanılabilir. Geleneksel bir abonelikten yeni ticarete geçiş yapan iş ortakları, geçirdikleri Ürün SKU 'su, yükseltme tanımıyla hizalanmakta olduğu sürece promosyonu alır. İş ortakları, hedef Ürün SKU 'sunun geçişten önce promosyon fiyatını uygulayabilmesi için uygunluğu doğrula API 'sini çağırmalıdır.
+
+## <a name="cross-channel-considerations"></a>Çapraz kanal konuları ##
+Bulut Çözümü Sağlayıcısı (CSP) yükseltme sınırları ve kısıtlamaları, kurumsal anlaşma (EA) gibi kanallar arasında zorlanmaz. Bir CSP iş ortağı, müşteri EA 'dan 3.000 ' ye sahip olsa bile 2.400-promosyon kısıtlamasına sahip bir promosyon elde edebilir.  

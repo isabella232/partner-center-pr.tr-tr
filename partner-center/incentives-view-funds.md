@@ -8,12 +8,12 @@ ms.subservice: partnercenter-incentives
 author: Karthic83
 ms.author: kashanum
 ms.localizationpriority: medium
-ms.openlocfilehash: 90e074bc2b6d1485cdd868fdf66b4f509ca4d5a4
-ms.sourcegitcommit: e1da62b36420d78bf44e3962358d0af65ebc3402
+ms.openlocfilehash: cc5cd9192f8712f94e70b9881903f8bb43581a70
+ms.sourcegitcommit: a59e1abb470f4847e8f8337ffa4ba705514a0424
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/27/2021
-ms.locfileid: "129090142"
+ms.lasthandoff: 09/29/2021
+ms.locfileid: "129249603"
 ---
 # <a name="view-available-earned-claimed-and-remaining-co-op-funds"></a>Elde edilen, talep edilen ve kalan ortak çalışma fonlarını görüntüleme
 
@@ -28,7 +28,7 @@ Teşvik işbirliği fonlarınızı panoda izleyebilir, izleyebilir ve muuzlaşt�
 
 #### <a name="workspaces-view"></a>[Çalışma alanları görünümü](#tab/workspaces-view)
 
-1. İş Ortağı Merkezi [panosunda oturum](https://partner.microsoft.com/dashboard/) açın ve Teşvikler **kutucuğunu** seçin.
+1. İş Ortağı Merkezi [panosunda oturum](https://partner.microsoft.com/dashboard/) açın ve **Teşvikler kutucuğunu** seçin.
 
 2. **Program'ı** ve ardından genişletilmiş program listesinden uygun teşvik programını seçin.
 
@@ -63,14 +63,14 @@ Teşvik işbirliği fonlarınızı panoda izleyebilir, izleyebilir ve muuzlaşt�
 ## <a name="view-estimated-earnings-during-the-current-period"></a>Geçerli dönem boyunca tahmini kazançları görüntüleme
 Geçerli kazanç dönemi için ortak çalışma kazançları, geçerli kazanç dönemi için talep döneminin başlangıcına kadar Ortak Çalışma Yönetimi görünümünde görünmez. Geçerli kazanç dönemine göre tahmini ortak iş kazançlarınızı görmek için aşağıdaki yordamı kullanın:
 
-### <a name="view-your-estimated-co-op-earnings-for-the-current-earning-period"></a>Geçerli kazanç dönemi için tahmini ortak kazançlarınızı görüntüleme
+### <a name="view-your-estimated-co-op-earnings-for-the-current-earning-period"></a>Geçerli kazanç dönemi için tahmini ortak iş kazançlarınızı görüntüleme
 
 1. İşlem **geçmişi sayfasında** geçerli kazanç döneminin tarihlerini seçin.
 2. Kazanç türü **filtresinin** altında Birlikte **çalışma'ya seçin.** Kazançlarınız görüntülenir.
 3. Bu **verileri indirmek** için İndir'i seçin.
 
 ### <a name="co-op-threshold"></a>İşbirliği eşiği
-Bir iş ortağının ortak kazançları, ortak operasyon kazanç dönemindeki eşik değerinin altında olursa, fon kullanma uygun olmaz ve fırsat sonunda ortak operasyon kazançlarını indirim olarak alır. Eşik değeri için program kılavuzuna bakın. 
+Bir iş ortağının ortak kazançları, ortak operasyon kazanç dönemindeki eşik değerinin altında olursa, fon kullanma uygun olmaz ve fırsat sonunda ortak operasyon kazançlarını indirim olarak alır. Programa göre [eşik değerleri için](claims-threshold.md) ortak operasyon eşiğine bakın. 
 
 Tutarlarda mutabakat sağlarken sorun devam ediyorsanız veya bazı işbirliği fonlarını görünmüyorsa bir destek bileti açtırın. Bunu yapmak için sayfanın sağ üst köşesindeki soru işareti simgesini ve ardından Teşvikler'i **seçin.**
 

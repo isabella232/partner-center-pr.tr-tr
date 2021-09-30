@@ -1,164 +1,160 @@
 ---
-title: Doğrudan fatura ortağını dolaylı satıcıya geçir
+title: Doğrudan fatura iş ortağını dolaylı kurumsal bayiye değiştirme
 ms.topic: how-to
 ms.date: 07/21/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-enroll
-description: bir Bulut Çözümü Sağlayıcısı (CSP) program ortağının doğrudan fatura ortağından dolaylı satıcıya geçiş yapmak için iş ortağı merkezini nasıl kullanabileceği hakkında bilgi edinin.
+description: Bulut Çözümü Sağlayıcısı (CSP) program iş ortağının doğrudan fatura iş İş Ortağı Merkezi dolaylı kurumsal bayiye geçiş yapmak için İş Ortağı Merkezi nasıl kullanabileceğini öğrenin.
 author: aarzh-AaronZhang
 ms.author: v-aarzh
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 7de99f6471e6d7d96df311584592ed5b12223a8c
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: 872a6127e7fe350291b937c916c746406f96eac6
+ms.sourcegitcommit: a59e1abb470f4847e8f8337ffa4ba705514a0424
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/27/2021
-ms.locfileid: "129073730"
+ms.lasthandoff: 09/29/2021
+ms.locfileid: "129249489"
 ---
 # <a name="transition-from-cloud-solution-provider-csp-direct-bill-partner-to-csp-indirect-reseller"></a>Bulut Çözümü Sağlayıcısı (CSP) doğrudan faturalanan iş ortağından CSP dolaylı kurumsal bayiye geçiş
 
-**Uygun roller**: genel yönetici
+**Uygun roller:** Genel yönetici
 
 > [!NOTE]
-> Bu makale, dolaylı satıcılara geçişe karar veren doğrudan fatura ortakları için tasarlanmıştır. Ancak dolaylı bir satıcı olarak kaydolmak üzere açık bir karar vermemiş olsanız bile, doğrudan [Fatura özellikleri kısıtlandıktan](restricted-direct-bill-capabilities.md)sonra CSP doğrudan fatura ortağı programı için yeni [gereksinimleri](direct-partner-new-requirements.md) karşılamayan doğrudan fatura iş ortakları Microsoft tarafından bilgilendirilir.
-<br>2021 Ocak itibariyle yeni bir gelir gereksinimi eklenecektir. Doğrudan fatura ortağı olarak kaydedilen iş ortaklarının, önceki 12 aya göre ortak küresel hesap düzeyinde CSP program gelirinde en az ABD Doları $300K ' a kadar işlem yapması gerekir.
+> Bu makale, dolaylı kurumsal bayilere geçiş yapmaya karar veren doğrudan fatura iş ortaklarına yöneliktir. Ancak, henüz dolaylı kurumsal bayi olarak kaydolma konusunda açık bir karar vermemiş bile [](direct-partner-new-requirements.md) olsa, CSP doğrudan fatura iş ortağı programı için yeni gereksinimleri karşılamamış doğrudan fatura iş ortakları, doğrudan fatura özellikleri kısıtlansa Microsoft tarafından [bilgi alır.](restricted-direct-bill-capabilities.md)
+<br>Ocak 2021'den itibaren yeni bir gelir gereksinimi eklenecektir. Doğrudan fatura iş ortağı olarak kayıtlı iş ortaklarının son 12 ay içinde İş Ortağı Genel Hesabı düzeyinde en az 300.000 ABD doları CSP programı geliri işlemden geçmiş olması gerekir.
 
-Mevcut doğrudan fatura kiracınızı kullanarak dolaylı satıcı programına kayıt yapabileceksiniz.
+Mevcut doğrudan fatura kiracınızı kullanarak dolaylı kurumsal bayi programına kaydolabileceksiniz.
 
 ## <a name="get-started"></a>başlarken
 
-1. Ortak Merkezi ve Microsoft İş Ortağı Ağı (MPN) KIMLIĞI içindeki iş ortağı profilinizin güncel olduğundan emin olun.
+1. İş Ortağı Merkezi (MPN) Microsoft İş Ortağı Ağı iş ortağı profillerinizi güncel olduğundan emin olun.
 
-2. Dolaylı satıcıya geçiş yaptığınız doğrudan fatura kiracının genel yöneticisi olarak Iş Ortağı Merkezi ' nde oturum açın.
+2. Dolaylı kurumsal [bayiye İş Ortağı Merkezi doğrudan](https://partner.microsoft.com/dashboard) fatura kiracısının genel yöneticisi olarak İş Ortağı Merkezi panoda oturum açın.
 
-   :::image type="content" source="images/direct/direct1.png" alt-text="Bakýþ.":::
+3. Kayıt formuyla ilgili iş ortağı ayrıntılarınızı gözden geçirme.
 
-3. Kayıt formunda iş ortağı ayrıntılarınızı gözden geçirin.
+   :::image type="content" source="images/direct/direct2a.png" alt-text="Kayıt düğmesini gösteren ekran görüntüsü.":::
 
-   :::image type="content" source="images/direct/direct2a.png" alt-text="Şimdi kaydolun.":::
-
-4. **Şimdi kaydet**' i seçin. dolaylı satıcı işletmeniz, doğrudan işletmeniz için kullandığınız Microsoft Azure Active Directory (Azure AD) kiracısını kullanacaktır.
+4. Şimdi **kaydol'u seçin.** Dolaylı kurumsal bayi işletmeniz, doğrudan işletmeniz Microsoft Azure Active Directory azure AD) kiracısı ile aynı kiracıyı kullanır.
 
     > [!NOTE]
-    > Başlangıçta bu yeni geçiş özelliği, Aralık ayında Tarih/yıl olan iş ortakları tarafından kullanılabilir. Eylül ve Aralık arasında bir yıldönümü tarihi yoksa, bu özelliği şu anda görmezsiniz. Aralık 2018 ' den sonra yıldönümü tarihleri olan iş ortakları, özellik iş ortakları için etkinleştirildikten sonra bilgilendirilir.
+    > Başlangıçta bu yeni geçiş özelliği Eylül ile Aralık yıl dönümü tarihleri arasında iş ortakları tarafından kullanılabilir olacak. Eylül ve Aralık arasında bir yıldönümü tarihi yoksa bu özelliği şu anda göresiniz. Yıldönümü tarihleri Aralık 2018'den sonra olan iş ortakları, özellik iş ortakları için etkinleştirildikten sonra daha sonra size bildirilecek.
 
-5. Kaydınız onaylandığında Iş Ortağı Merkezi ' nde tekrar oturum açın.
+5. Kaydınız onaylandıktan sonra yeniden oturum İş Ortağı Merkezi olun.
 
     > [!NOTE]
-    > Onay genellikle anında, en fazla beş iş günü sürebilir. Onaylandığında, kayıt formunda birincil iletişim altında belirttiğiniz e-posta adresine bir bildirim alırsınız. kayıt durumunuzu **Ayarlar**  >  **hesap Ayarlar**  >  **iş ortağı profili** > Program bilgileri altında da denetleyebilirsiniz.
+    > Onay genellikle anında tamamlasa da beş iş günü kadar zaman alır. Onaylandıktan sonra, kayıt formunda birincil kişi altında belirttiğiniz e-posta adresine bir bildirim alırsınız. Ayrıca, hesap ve İş Ortağı Profili **Ayarlar**  >  **Program Ayarlar**  >  **altında** > durumunu da kontrol edin.
 
-6. **Genel bakış** sayfanızda, dolaylı satıcı sözleşmesini görürsünüz. **Kabul et ve devam et '** i seçin. Bu eylem, dolaylı satıcı yeteneklerini sunar.
+6. Genel **Bakış sayfasında** dolaylı kurumsal bayi sözleşmesi görüntülenir. Kabul et **ve devam et'i seçin.** Bu eylem dolaylı kurumsal bayi özelliklerini sağlar.
 
-Dolaylı satıcı sözleşmesini kabul ettiğinizde, Iş ortağı profilinizin sizi hem doğrudan fatura hem **de** dolaylı satıcı olarak tanımladığına dikkat edin.
-
-:::image type="content" source="images/direct/direct3.png" alt-text="Dolaylı satıcı sözleşmesi.":::
+Dolaylı kurumsal bayi sözleşmenizi kabul ettiyken, İş  ortağı profilinizin sizi hem doğrudan fatura hem de dolaylı kurumsal bayi olarak tanımlarını fark edersiniz.
 
 > [!IMPORTANT]
-> Yeni yeteneği kullanarak dolaylı bir satıcı olarak kaydolduktan sonra doğrudan bir yalnızca fatura kiracıya geri dönme seçeneği yoktur. Lütfen dolaylı bir satıcı olarak kaydolmadan önce iş gereksinimlerinizi tam olarak değerlendirdiğinizden emin olun.
+> Yeni özelliği kullanarak dolaylı kurumsal bayi olarak kaydolacaksanız, doğrudan yalnızca fatura kiracısına geri alma seçeneği yoktur. Dolaylı kurumsal bayi olarak kaydolmadan önce iş ihtiyaçlarını tam olarak değerlendirin.
 
-## <a name="while-you-transition-from-direct-to-indirect-reseller"></a>Doğrudan dolaylı satıcıya geçiş yaparken
+## <a name="while-you-transition-from-direct-to-indirect-reseller"></a>Doğrudan kurumsal bayiden dolaylı kurumsal bayiye geçiş yaparken
 
-Bu aşamada, faturalandırma süreci dahil olmak üzere doğrudan müşterilerinizin abonelik ihtiyaçlarını yönetmeye devam edersiniz. Ayrıca, dolaylı sağlayıcıınızdan müşterileri kabul etmeye ve dolaylı bir satıcı olarak çalışmaya başlayabilirsiniz.
+Bu aşamada, faturalama işlemi dahil olmak üzere doğrudan müşterilerin abonelik ihtiyaçlarını yönetmeye devam edersiniz. Dolaylı sağlayıcınızdan müşteri kabul etmeye ve dolaylı kurumsal bayi olarak çalışmaya da başlayabilirsiniz.
 
-:::image type="content" source="images/direct/direct4.png" alt-text="Hem doğrudan faturanız hem de dolaylı satıcı olursunuz.":::
+:::image type="content" source="images/direct/direct4.png" alt-text="Hem doğrudan fatura hem de dolaylı kurumsal bayisiniz.":::
 
 ## <a name="find-an-indirect-provider"></a>Dolaylı sağlayıcı bulma
 
-Kaydolduktan sonra, sol gezinti ortamınızda dolaylı sağlayıcılara bir bağlantı görüntülenir. Dolaylı bir satıcı olarak, bir dolaylı sağlayıcıyla bir ilişki kurarsınız ve bu da faturanızı, müşterileriniz için satın alma ürünlerinizi ve destek altyapısını işleyebilir.
+Kayıttan sonra, sol gezinti gezintisinde Dolaylı sağlayıcılara bir bağlantı görünür. Dolaylı kurumsal bayi olarak, faturanızı işleyen, müşterileriniz için ürün satın alan ve altyapıyı destekleyen dolaylı bir sağlayıcıyla ilişki kurabilirsiniz.
 
-Farklı dolaylı sağlayıcılar farklı destek ve hizmetler sunmaktadır. bu nedenle, gereksinimlerinizi en iyi şekilde karşılayan Hizmetleri öğrenmek için bölgenizdeki sağlayıcıları değerlendirmelisiniz. Genellikle, çoğu sağlayıcı şunları olur:
+Farklı dolaylı sağlayıcılar farklı destek ve hizmetler sunar, bu nedenle alanınıza gelen sağlayıcıları değerlendirerek hangilerinin ihtiyaçlarına en uygun olduğunu belirlemeniz gerekir. Genellikle çoğu sağlayıcı şunları sağlar:
 
-- Size teknik eğitim ve yardım sağlama
-- Ürün ve hizmetlerinizi pazarlamanıza yardımcı olun
-- Finans ve kredi koşullarınızı yönetin
+- Teknik eğitim ve yardım sağlama
+- Ürün ve hizmetlerinizi pazara sunarken size yardımcı olur
+- Ödeme koşullarınızı ve kredi koşullarınızı yönetme
 
-Resmi [Microsoft dolaylı sağlayıcıları](https://partnercenter.microsoft.com/partner/find-a-provider)listesinde arama yapın.
+Resmi Microsoft dolaylı sağlayıcıları [listesinde arama.](https://partnercenter.microsoft.com/partner/find-a-provider)
 
-Daha fazla bilgi edinin, [dolaylı sağlayıcılarla Iş ortağı](indirect-reseller-tasks-in-partner-center.md) okuyun
+Daha fazla bilgi edinmek için dolaylı  [sağlayıcılarla iş ortağı makalelerini okuyun](indirect-reseller-tasks-in-partner-center.md)
 
-## <a name="accept-a-partnership-invitation-from-your-indirect-provider"></a>Dolaylı sağlayıcınızdan bir ortaklık daveti kabul edin
+## <a name="accept-a-partnership-invitation-from-your-indirect-provider"></a>Dolaylı sağlayıcınızdan bir iş ortaklığı daveti kabul etme
 
-İş ortağına dolaylı bir sağlayıcı bulduğunuzda, Iş Ortağı Merkezi 'nde dolaylı sağlayıcıyla bir ortaklık kurun.
+İş ortağı olacak dolaylı bir sağlayıcı bulan, iş ortağı olarak dolaylı sağlayıcıyla bir İş Ortağı Merkezi.
 
-Seçtiğiniz dolaylı sağlayıcı sizi Iş ortağı merkezindeki davetine götürebileceğiniz bir ortaklık daveti e-postası adresine gönderir. Genel yöneticinizin Iş Ortağı Merkezi 'nde oturum açtığından ve davet bağlantısını izlediğinden emin olun. Daveti kabul ettiğinizde, sağlayıcının adı dolaylı sağlayıcı listenizde görünür.
+Seçen dolaylı sağlayıcı sizi e-postayla bir iş ortaklığı daveti bağlantısıyla gönderir ve bu bağlantı sizi e-posta İş Ortağı Merkezi. Genel yöneticinizin oturum alelade oturum İş Ortağı Merkezi ve davet bağlantısını takip edin. Daveti kabul edersiniz, sağlayıcının adı dolaylı sağlayıcı listesinde görünür.
 
-## <a name="acquire-new-customers-as-indirect-reseller"></a>Yeni müşterileri dolaylı satıcı olarak edinin
+## <a name="acquire-new-customers-as-indirect-reseller"></a>Dolaylı kurumsal bayi olarak yeni müşteriler edinme
 
-Hem siz hem de dolaylı sağlayıcınız müşterilerle satıcı ilişkilerine sahip olmalıdır. Bu satıcı ilişkileri, müşterinin aboneliklerini ve hizmetlerini kendi adına yönetmenize olanak sağlar. Mevcut bir Azure AD kiracısına sahip yeni bir müşteri edinmek için, müşteriyi hem sizinle hem de sağlayıcınızda aynı anda bir satıcı ilişkisi kurmaya davet edebilirsiniz.
+Hem sizin hem de dolaylı sağlayıcınızın müşterilerle kurumsal bayi ilişkilerine sahip olmak gerekir. Bu kurumsal bayi ilişkileri, müşterinin aboneliklerini ve hizmetlerini kendi adına yönetmenize olanak sağlar. Mevcut bir Azure AD kiracısına sahip yeni bir müşteri almak için, müşteriyi hem siz hem de sağlayıcınızla aynı anda kurumsal bayi ilişkisi kurması için davet edin.
 
-Dolaylı bir satıcı daveti oluşturmak için:
+Dolaylı kurumsal bayi daveti oluşturmak için:
 
-1. Iş ortağı merkezi sol gezininizden **dolaylı sağlayıcılar** ' ı seçin.
+1. Sol **gezinti gezinti çubuğundan** Dolaylı İş Ortağı Merkezi'yi seçin.
 
-2. Aynı anda hem sizin hem de dolaylı sağlayıcı ile satıcı ilişkisi kurmak üzere bir müşteriyi davet etmek için **yeni müşterileri davet et** ' i seçin. Sağlayıcının müşteri ile bir satıcı ilişkisi olması gerekir, bu nedenle müşteri yeni abonelikler satın almak istediğinde veya mevcut aboneliklerde yeni lisanslar eklemek istediğinde müşterinin adına sipariş gönderebilirler.
+2. Yeni **müşterileri davet et'i** seçerek bir müşteriyi hem siz hem de dolaylı sağlayıcıyla aynı anda kurumsal bayi ilişkisi kurması için davet edin. Müşteri yeni abonelikler satın almak veya mevcut aboneliklere yeni lisanslar eklemek isterse müşterinin adına sipariş gönderesin diye sağlayıcının müşteriyle kurumsal bayi ilişkisi olması gerekir.
 
-3. Sonraki sayfada taslak e-posta iletisini gözden geçirin. Taslak iletisini e-postada açabilir veya iletiyi panonuza kopyalayabilir ve bir e-postaya yapıştırabilirsiniz.
+3. Sonraki sayfada taslak e-posta iletisini gözden geçirin. Taslak iletiyi e-postayla açabilir veya panoya kopyalayıp bir e-postaya yapıştırabilirsiniz.
 
-4. E-postadaki metni düzenleyerek, ihtiyacınız olanları söyleyin, ancak müşteriyi doğrudan hesabınıza ve sağlayıcınızın hesabınıza bağlamak için kişiselleştirildiğinden emin olun. Ardından **Bitti**'yi seçin.
+4. E-postada yer alan metni düzenleyemezsiniz ancak bağlantıyı dahil edin çünkü müşteriyi doğrudan hem hesabınıza hem de sağlayıcınızın hesabına bağlamaya yönelik kişiselleştirilmiş bir bağlantıdır. Ardından **Bitti**'yi seçin.
 
-5. Müşteri sizi ve sağlayıcınızı kendi kayıt satıcıları olarak doğruladıktan sonra, kendi adına aboneliklerini, lisanslarını ve kullanıcılarını yönetmek için yönetici izinlerine sahip olacaksınız ve dolaylı sağlayıcınız kendi adına sipariş gönderebilecektir.
+5. Müşteri sizi ve sağlayıcınızı kendi kayıt kurumsal bayileri olarak yetkilendikten sonra aboneliklerini, lisanslarını ve kullanıcılarını kendi adına yönetmek için yönetici izinlerine sahip olursunuz ve dolaylı sağlayıcınız kendi adına siparişler gönderebilirsiniz.
 6. Müşterinin hesabını, hizmetlerini, kullanıcılarını ve lisanslarını yönetmek için, adının yanındaki aşağı oku seçerek müşterinin kaydını genişletin.
 
-Doğrudan fatura iş ortaklarının aksine, dolaylı satıcılar Iş Ortağı Merkezi 'nde yeni müşterileri için Azure AD kiracılar oluşturamaz. Sağlayıcınız kiracıyı oluşturacak ve size bu müşterinin dolaylı satıcısı olarak belirtmeyecektir. Bu, müşterinin Iş Ortağı Merkezi 'nde müşteri listenizde görünmesini sağlar.
+Doğrudan fatura iş ortaklarından farklı olarak dolaylı kurumsal bayiler, azure'daki yeni müşterileri için Azure AD kiracıları İş Ortağı Merkezi. Sağlayıcınız kiracıyı oluşturacak ve sizi bu müşterinin dolaylı kurumsal bayisi olarak belirtecek. Bu, müşterinin İş Ortağı Merkezi'de müşteri listeniz içinde İş Ortağı Merkezi.
 
 >[!Note]
->Dolaylı satıcı olarak aldığınız müşteriler için satın alma işlemleri oluşturmak üzere doğrudan fatura özelliğini kullanamazsınız.
+>Dolaylı kurumsal bayi olarak edinilen müşteriler için satın almalar oluşturmak üzere doğrudan fatura özelliğinizi kullanamayacaksiniz.
 
-## <a name="managing-your-direct-bill-customers-and-your-indirect-reseller-customers"></a>Doğrudan Bill müşterilerini ve dolaylı satıcı müşterilerinizi yönetme
+## <a name="managing-your-direct-bill-customers-and-your-indirect-reseller-customers"></a>Doğrudan fatura müşterilerinizi ve dolaylı kurumsal bayi müşterilerinizi yönetme
 
-Doğrudan fatura müşterilerinizi ve dolaylı satıcı müşterilerinizi farklı şekilde yönetirsiniz.
+Doğrudan fatura müşterilerinizi ve dolaylı kurumsal bayi müşterilerinizi farklı yönetirsiniz.
 
-### <a name="direct-bill-customers-things-you-wont-do-as-an-indirect-reseller"></a>Doğrudan fatura müşterileri (dolaylı satıcı olarak yapamayabilmeniz gerekir)
+### <a name="direct-bill-customers-things-you-wont-do-as-an-indirect-reseller"></a>Doğrudan fatura müşterileri (dolaylı kurumsal bayi olarak yapmayabilirsiniz)
 
 - Ürünler için sipariş oluşturma
 - Azure ayırmalarını yönetme
-- Sıra geçmişini yönetme
-- Satın alma yazılımı
-- Doğrudan fatura müşterileri
+- Sipariş geçmişini yönetme
+- Yazılım satın alma
+- Müşterileri doğrudan faturala
 
-### <a name="indirect-reseller-customers"></a>Dolaylı satıcı müşterileri
+### <a name="indirect-reseller-customers"></a>Dolaylı kurumsal bayi müşterileri
 
-- Dolaylı sağlayıcınız, müşterileriniz için ürünleri sipariş eden
+- Dolaylı sağlayıcınız müşterileriniz için ürünler sipariş eder
 - Müşterilerin lisanslarını ve kullanıcılarını yönetme
-- Abonelik yenilemeler işleme
+- Abonelik yenilemelerini işleme
 
-### <a name="to-identify-customers-that-you-acquired-as-a-direct-bill-partner"></a>Doğrudan bir fatura ortağı olarak edindiğiniz müşterileri belirlemek için
+### <a name="to-identify-customers-that-you-acquired-as-a-direct-bill-partner"></a>Doğrudan fatura iş ortağı olarak edinilen müşterileri belirlemek için
 
 1. **Müşteriler**’i seçin.
 
 2. Ayrıntılarını görüntülemek için bir müşteri seçin.
 
-3. Bu müşteri doğrudan fatura ortağı olarak elde ediyorsanız, ürün **ekleme** veya **görüntüleme** seçeneklerini görürsünüz ve aboneliklerini görürsünüz.
+3. Bu müşteri, doğrudan fatura iş ortağı olarak edinilen müşteri  ise  ürün ekleme veya görüntüleme seçeneklerini ve aboneliklerini görme seçenekleriyle karşınıza olur.
 
-4. Müşterinin sizinle dolaylı bir satıcı ilişkisi varsa, bu seçenekler kullanılamaz.
+4. Müşterinin sizin ile dolaylı kurumsal bayi ilişkisi varsa bu seçenekler kullanılamaz.
 
-## <a name="move-your-direct-bill-customers-to-your-indirect-provider"></a>Doğrudan fatura müşterilerinizi dolaylı sağlayıcınıza taşıyın
+## <a name="move-your-direct-bill-customers-to-your-indirect-provider"></a>Doğrudan fatura müşterilerinizi dolaylı sağlayıcınıza taşıma
 
-Dolaylı sağlayıcınız, mevcut doğrudan fatura müşterileriniz için bir satıcı ilişkisine sahip olana kadar sipariş veya mevcut abonelik aktarımları gönderemez. Dolaylı sağlayıcınız ile var olan doğrudan faturanız arasındaki satıcı ilişkilerini oluşturmak için aşağıdaki yöntemlerden birini kullanabilirsiniz:
+Dolaylı sağlayıcınız, mevcut doğrudan fatura müşterilerinizle bir kurumsal bayi ilişkisine sahip olana kadar siparişleri veya mevcut abonelik aktarımlarını gönderemiyor. Dolaylı sağlayıcınızla mevcut doğrudan fatura müşteriniz arasında kurumsal bayi ilişkisi kurmak için aşağıdaki yöntemlerden birini kullanabilirsiniz:
 
-- [Satıcı ilişki uzantısı](#reseller-relationship-extension)
+- [Kurumsal bayi ilişkisi uzantısı](#reseller-relationship-extension)
 
-- [Müşteriye dolaylı bir satıcı davetiyesi gönderin](#send-an-indirect-reseller-invitation-to-the-customer)
+- [Müşteriye dolaylı kurumsal bayi daveti gönderme](#send-an-indirect-reseller-invitation-to-the-customer)
 
-[Doğrudan dolaylı geçiş belgesinde](https://partner.microsoft.com/resources/collection/Direct-Bill-transition-to-Indirect-reseller#/) adım adım işleme yönelik ayrıntılı bir genel bakış bulabilirsiniz.
+Doğrudan dolaylı geçiş belgesinde adım adım işleme ayrıntılı [bir genel bakış bulabilirsiniz](https://partner.microsoft.com/resources/collection/Direct-Bill-transition-to-Indirect-reseller#/)
 
-### <a name="reseller-relationship-extension"></a>Satıcı ilişki uzantısı
+### <a name="reseller-relationship-extension"></a>Kurumsal bayi ilişkisi uzantısı
 
-Kurumsal ilişki uzantısı özelliğini kullanarak, mevcut doğrudan fatura müşterileriniz ve dolaylı sağlayıcınız arasında Iş Ortağı Merkezi panosunu kullanarak satıcı ilişkisi kurabilirsiniz. Özelliği kullanmadan önce, aşağıdakilere göz önüne alın:
+Kurumsal bayi ilişkisi uzantısı özelliğini kullanarak mevcut doğrudan fatura müşterilerinizle dolaylı sağlayıcınız arasında kurumsal bayi ilişkisi kurmak için İş Ortağı Merkezi Panosu'İş Ortağı Merkezi kullanabilirsiniz. Özelliği kullanmadan önce şunları unutmayın:
 
-- Bu özellik yalnızca dolaylı satıcı olan dolaylı satıcı [kaydını](#get-started)tamamlamış olan doğrudan fatura ortakları tarafından kullanılabilir.
+- Bu özellik yalnızca dolaylı kurumsal bayiliğe geçiş yapan doğrudan fatura iş ortaklarının dolaylı kurumsal bayi kaydı [tamamlamış olması için kullanılabilir.](#get-started)
 
-- Bu özelliği yalnızca var olan doğrudan fatura müşterilerine uygulayabilirsiniz. Bu, [dolaylı satıcı müşterileri](#acquire-new-customers-as-indirect-reseller)için geçerli değildir.
+- Bu özelliği yalnızca mevcut doğrudan fatura müşterilerine uygulayabilirsiniz. Dolaylı kurumsal bayi müşterileri [için geçerli değildir.](#acquire-new-customers-as-indirect-reseller)
 
-- Yalnızca [dolaylı sağlayıcıınızdan bir iş ortağı davetini kabul](#accept-a-partnership-invitation-from-your-indirect-provider)ettiğiniz bir dolaylı sağlayıcıyı seçebilirsiniz.
+- Yalnızca dolaylı sağlayıcınızdan iş ortağı davetini [kabul etmiş bir dolaylı sağlayıcıyı seçin.](#accept-a-partnership-invitation-from-your-indirect-provider)
 
-- Bu müşteri için sahip olduğunuz fatura-bilgi bilgilerinin bir kopyası dolaylı sağlayıcı tarafından kullanılabilir hale getirilir. Iş Ortağı Merkezi panosunda bu müşterinin hesap sayfasına erişerek fatura bilgilerine erişebilirsiniz.
+- Bu müşteri için sahip olunan fatura bilgileri, dolaylı sağlayıcı tarafından kullanılabilir olacak. Fatura bilgilerine erişmek için bu müşterinin Hesap sayfasına İş Ortağı Merkezi Panosu'İş Ortağı Merkezi erişebilirsiniz.
 
     > [!NOTE]
-    > Satıcı ilişki uzantısı özelliğini kullanarak, bu müşteri için sahip olduğunuz fatura bilgilerini dolaylı sağlayıcıyla paylaşmayı kabul etmiş olursunuz.
+    > Kurumsal bayi ilişkisi uzantısı özelliğini kullanarak, bu müşteri için sahip olduğunuz fatura bilgilerini dolaylı sağlayıcıyla paylaşmayı kabul edersiniz.
 
-- Dolaylı sağlayıcınız, müşteri kiracısına [atanan yönetim ayrıcalıkları](customers-revoke-admin-privileges.md) ile birlikte sağlanmaz. Dolaylı sağlayıcınız Temsilcili yönetim ayrıcalıkları gerektiriyorsa, bunun yerine müşteriye dolaylı bir satıcı daveti göndermeniz gerekir.
+- Dolaylı sağlayıcınıza müşteri kiracısına [yönetici temsilcisi ayrıcalıkları](customers-revoke-admin-privileges.md) sağlanmaz. Dolaylı sağlayıcınız Temsilcili yönetim ayrıcalıkları gerektiriyorsa, bunun yerine müşteriye dolaylı bir satıcı daveti göndermeniz gerekir.
 
 - satıcı ilişkisi kurulduktan sonra, dolaylı sağlayıcı, [Microsoft 365 Yönetici Center](https://admin.microsoft.com/AdminPortal/Home#/partners) ve [İş İçin Microsoft Store](/microsoft-store/work-with-partner-microsoft-store-business)' deki iş ortağı ilişkileri sayfasında, müşterinin bir CSP iş ortağı olarak görünür.
 
@@ -270,8 +266,6 @@ Geçiş ortağı olarak bir aktarım isteği oluşturmak için:
 
 6. **Abonelik aktarımı** altında **abonelik aktarımı iste**' yi seçin.
 
-    :::image type="content" source="images/direct/direct8.png" alt-text="Abonelik aktarımı iste.":::
-
 7. Aktarım isteği iletişim kutusunda, aktarılacak bir veya daha fazla abonelik seçin.
 
     :::image type="content" source="images/direct/direct9.png" alt-text="Aktarım Isteği oluştur.":::
@@ -279,8 +273,6 @@ Geçiş ortağı olarak bir aktarım isteği oluşturmak için:
 8. **Oluştur**’u seçin.
 
 9. **Abonelik aktarımı** altında, etkin bir abonelik aktarım isteği görüntülenir.
-
-    :::image type="content" source="images/direct/direct10.png" alt-text="İstek listesini aktar.":::
 
 10. Dolaylı sağlayıcınızı, bunlara bir abonelik aktarım isteği oluşturduğunu bildirin.
 
@@ -298,13 +290,9 @@ Bir aktarım isteğini dolaylı sağlayıcı olarak gözden geçirmek ve kabul e
 
 5. **Abonelikler** sayfasında, **abonelik aktarımı**' nı arayın.
 
-    :::image type="content" source="images/direct/direct11.png" alt-text="Aktarım isteğini görüntüleyin.":::
-
 6. **Abonelik aktarımı** altında, gözden geçirilecek aktarım isteğini seçin.
 
-7. Uygun şekilde **kabul et** (veya **Reddet**) seçeneğini belirleyin.
-
-    :::image type="content" source="images/direct/direct12.png" alt-text="Aktarım isteğini kabul edin.":::
+7. Uygun şekilde **kabul et** veya **Reddet** ' i seçin.
 
 8. Aktarım isteğinin tamamlanmasını bekleyin.
 
@@ -330,9 +318,9 @@ Geçiş ortağı aşağıdakileri yapması gerekir:
 
 6. Aboneliğin artık **abonelikler** sayfasında etkin olarak görünmediğini doğrulayın:
 
-   1. Bu bir Azure aboneliğse (MS-AZR-0145P), artık listelenmez.
+   - Bu bir Azure aboneliğse (MS-AZR-0145P), artık listelenmez.
 
-   2. bu bir lisans tabanlı abonelik (Office 365, Dynamics, ıntune) ise, durumu **askıya alındı** olarak listelenir.
+   - bu bir lisans tabanlı abonelik (Office 365, Dynamics, ıntune) ise, durumu **askıya alındı** olarak listelenir.
 
    :::image type="content" source="images/direct/direct13.png" alt-text="Abonelik askıya alındı.":::
 
