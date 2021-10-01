@@ -8,18 +8,18 @@ ms.subservice: partnercenter-incentives
 ms.topic: how-to
 ms.date: 09/29/2021
 ms.custom: template-how-to
-ms.openlocfilehash: fb90ede68fa44ac30836f1cf7e95c8dc418bbf39
-ms.sourcegitcommit: a59e1abb470f4847e8f8337ffa4ba705514a0424
+ms.openlocfilehash: 3bdfc02ed17ad2046a0622b536e3e98d7ee5d70b
+ms.sourcegitcommit: 6d29e7e6d700ee5638ba10ee12f75e37f993dae9
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/29/2021
-ms.locfileid: "129293430"
+ms.lasthandoff: 10/01/2021
+ms.locfileid: "129365111"
 ---
 # <a name="mci-engagements-overview-and-eligibility"></a>MCI görevlendirmelere genel bakış ve uygunluk
 
 **Uygun roller**: teşvikleri admin | Teşvikleri kullanıcısı
 
-Bu makalede, her bir katılım için müşterilerinizi yönetmek, uygunluk durumlarını denetlemek, atölyeler ayarlamak ve bu atölyeler için ödeme almak üzere bir talep göndermek üzere Microsoft ticaret teşvik (MCI) programı içindeki **görevlendirmeler** bölümünü nasıl kullanabileceğiniz açıklanmaktadır.
+Bu makalede, her bir görevlendirmede müşterilerinizi yönetmek ve uygunluk durumlarını denetlemek için Microsoft ticaret teşvik (MCI) programının içindeki **görevlendirmeler** bölümünü nasıl kullanabileceğiniz açıklanır.
 
 ## <a name="access-the-engagements-section"></a>Görevlendirmeler bölümüne erişin
 1. [İş Ortağı Merkezi panosunda](https://partner.microsoft.com/dashboard) oturum açın.
@@ -46,12 +46,12 @@ Her bir görevlendirmenin **Özet** sayfası, iş ortağı nitelik ölçütleri,
 
 
 ## <a name="next-steps"></a>Sonraki adımlar
-[MCI görevlendirmeler müşterileri sayfası](/mci-engagements-customers)
+[MCI görevlendirmeler müşterileri sayfası](/partner-center/mci-engagements-customers)
 
-[Bir Workshop talebi gönder](/mci-engagements-workshop)
+[Bir Workshop talebi gönder](/partner-center/mci-engagements-workshop)
 
-[Teşvikleri kullanmaya başlamanıza yardımcı olması için bu kaynakları kullanın](/incentives-get-started-intro)
+[Teşvikleri kullanmaya başlamanıza yardımcı olması için bu kaynakları kullanın](/partner-center/incentives-get-started-intro)
 
-[Teşvikleri programınızın uygunluğunu belirleme](/incentives-determined-your-program-eligibility)
+[Teşvikleri programınızın uygunluğunu belirleme](/partner-center/incentives-determined-your-program-eligibility)
 
 [Teşvikleri programında kayıt ve Kullanıcı Yönetimi](/incentives-enroll)
