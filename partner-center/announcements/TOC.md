@@ -1,4 +1,5 @@
 # [İş Ortağı Merkezi duyuruları](index.md)
+# [Ekim 2021](2021-october.md)
 # [Eylül 2021](2021-september.md)
 # [Ağustos 2021](2021-august.md)
 # [2021 Temmuz](2021-july.md)
