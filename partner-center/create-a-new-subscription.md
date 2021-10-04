@@ -9,14 +9,14 @@ author: BillLinzbach
 ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
-ms.openlocfilehash: e3696ea77d6b073e625e64425cf7764194acfd15
-ms.sourcegitcommit: 1e616b52d55eff41d67a081ba3f4a8370a49e027
+ms.openlocfilehash: 680845d173ad69c46dc78c767fb53476750ad24f
+ms.sourcegitcommit: 8eaef380caa66ae3c8e2674535e06c3676fa35f2
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/29/2021
-ms.locfileid: "129191503"
+ms.lasthandoff: 10/04/2021
+ms.locfileid: "129415561"
 ---
-# <a name="create-suspend-or-cancel-customer-subscriptions"></a>Müşteri aboneliklerini oluşturma, askıya alma veya iptal etme
+# <a name="manage-customer-subscriptions"></a>Müşteri aboneliklerini yönetme
 
 **Uygulama hedefi**: Iş Ortağı Merkezi | Microsoft Cloud for US Government için iş ortağı Merkezi
 
@@ -194,25 +194,18 @@ Lisans tabanlı bir SaaS aboneliğini ISV yayımcısından iptal etmek için aş
 > [!NOTE]
 > Ayrıca API 'Leri kullanarak bir Azure Marketi aboneliğini iptal etmeyi seçebilirsiniz. Bunu yapmak için bkz. [Azure Marketi aboneliğini Iptal etme](/partner-center/develop/cancel-an-azure-marketplace-subscription).
 
-### <a name="cancel-a-new-commerce-subscription"></a>Yeni bir ticari aboneliği iptal et
+## <a name="suspend-or-cancel-a-new-commerce-subscription"></a>Yeni bir ticari aboneliği askıya alma veya iptal etme
 
-> [!Note] 
-> yeni ticaret değişiklikleri şu anda yalnızca Microsoft 365/dynamics 365 yeni ticaret deneyimi technical preview 'ın parçası olan iş ortakları tarafından kullanılabilir.
-
-Yeni ticaret teklifleri için, dönem taahhüt döneminden önce aboneliği dilediğiniz zaman iptal edebilirsiniz. Bir aboneliği iptal ettiğinizde, müşteri hizmete hemen erişimi kaybeder. Erişim, iptalden sonra geri yüklenemez. Abonelik satın alındıktan sonra aşağıdaki iptal seçenekleri bir iş ortağı için kullanılabilir: 
-
-- Abonelik başlangıç tarihinden sonra 24 saat içinde: tam para iadesi için ilk 24 saat içindeki tüm aboneliği iptal edebilirsiniz.  
-- Abonelik başlangıç tarihinden itibaren 30 gün içinde: tüm aboneliği ilk 30 gün içinde iptal edebilirsiniz. Aboneliği kullandığınız günler için tüm tutardan, eşit oranda eşit miktarda ödenirsiniz.
-- Abonelik başlangıç tarihinden 30 gün sonra: aboneliği iptal edemezsiniz.
-
-### <a name="pause-and-resume-a-new-commerce-subscription"></a>Yeni bir ticari aboneliği duraklatma ve devam ettirme
+### <a name="suspend-a-new-commerce-subscription"></a>Yeni bir ticari aboneliği askıya al
 
 > [!NOTE]
 > yeni ticaret değişiklikleri şu anda yalnızca Microsoft 365/dynamics 365 yeni ticaret deneyimi technical preview 'ın parçası olan iş ortakları tarafından kullanılabilir.
 
 Müşteri ödemesiz "hatırlatarak senaryosu" olarak da adlandırılır. iş ortakları, müşterinin aboneliğin Hizmetlerine erişimini hemen engellemek için aboneliğini duraklatabilir ve sürdürebilir.
 
-Müşterinin aboneliklerinin duraklatılması, abonelikleri sürdürülene kadar oturum açma ve hizmetlerini kullanma imkanlarını devre dışı bırakacaktır.
+İş ortakları bir aboneliği iptal etmeden duraklatabilir ve devam edebilir. Ancak, iş ortağı faturalandırma askıya alma sırasında devam eder. 
+
+Müşterinin aboneliklerinin duraklatılması, abonelikleri sürdürülene kadar oturum açma ve hizmetlerini kullanma imkanlarını devre dışı bırakacaktır. Abonelik 90 gün içinde yeniden etkinleştirilmediği takdirde abonelikle ilgili tüm veriler silinir.
 
 Iş Ortağı Merkezi 'ni kullanarak bir aboneliği duraklatabilirsiniz:
 
@@ -224,12 +217,25 @@ Iş Ortağı Merkezi 'ni kullanarak bir aboneliği duraklatabilirsiniz:
 
 4. Abonelik artık duraklatılmış durumda olacak ve iş ortağı abonelik için faturalandırılmaya devam edecek.
 
-Duraklatma, Iş Ortağı Merkezi kullanıcı arabirimi veya API 'SI aracılığıyla geri alınabilir, bu da bir müşterinin bir aboneliğin Hizmetlerine erişimini anında geri yükler.
+Duraklatma, Iş Ortağı Merkezi kullanıcı arabirimi veya API 'Ler aracılığıyla bir müşterinin bir aboneliğin Hizmetlerine erişimini anında geri yükler.
 
 > [!IMPORTANT]
 > Bir aboneliğin duraklatılması, otomatik yenileme ayarlarını devre dışı bırakır ve var olan zamanlanmış değişiklikleri kaldırır. Bir aboneliğin duraklatılması yalnızca müşterinin hizmet erişimini etkiler ve duraklama durumunda iş ortağı faturalandırmaya devam eder.
 
-### <a name="choose-whether-to-automatically-renew-a-commercial-marketplace-subscription-or-a-new-commerce-subscription"></a>Bir ticari Market aboneliğinin veya yeni bir ticaret aboneliğinin otomatik olarak yenilenip yenilenmeyeceğini seçin
+### <a name="cancel-a-new-commerce-subscription"></a>Yeni bir ticari aboneliği iptal et
+
+> [!Note] 
+> yeni ticaret değişiklikleri şu anda yalnızca Microsoft 365/dynamics 365 yeni ticaret deneyimi technical preview 'ın parçası olan iş ortakları tarafından kullanılabilir.
+
+Yeni ticaret teklifleri için, iş ortakları, her dönem için ilk **72 saat** içinde eşit olarak dağıtılmış bir geri ödeme ile aboneliğini iptal edebilir **(günde eşit olarak hesaplanır)**.  
+
+72 saat sonra, iptal artık kullanılamaz ve müşteri için ödeme ve abonelik (herhangi bir faturalandırma planına uygulanabilir) olsa bile, iş ortağı tam dönem için faturalandırılır.
+
+İptal işlemi tamamlandığında, müşteri hizmete erişimi hemen kaybedecektir ve hizmet geri yüklenemez. Aboneliğin durumu kurtarılamaz olacaktır.  
+
+Lisanslar orta dönemde eklenirse, ek lisansların her azalmasıyla aynı 72 saat ilkesi uygulanır. Eklenen lisansların azaltılması, **destek istekleri** aracılığıyla yapılmalıdır.
+
+## <a name="subscription-renewals"></a>Abonelik yenilemeleri
 
 > [!NOTE]
 > yeni ticaret değişiklikleri şu anda yalnızca Microsoft 365/dynamics 365 yeni ticaret deneyimi technical preview 'ın parçası olan iş ortakları tarafından kullanılabilir.
@@ -237,8 +243,6 @@ Duraklatma, Iş Ortağı Merkezi kullanıcı arabirimi veya API 'SI aracılığ�
 Etkin abonelikler varsayılan olarak abonelik süresi sona erdiğinde otomatik olarak yenilenecek şekilde ayarlanır. [Ticari Market ürünlerine](csp-commercial-marketplace-overview.md)veya yeni ticaret aboneliklerine yönelik abonelikler için, isteğe bağlı olarak, aboneliği otomatik olarak yenilemeyi seçebilirsiniz.
 
 Etkin bir ticari Market aboneliğini veya yeni ticari abonelikleri otomatik olarak yenilemeyi durdurmak için:
-
-Etkin bir ticari Market aboneliğini otomatik olarak yenilemeyi durdurmak için:
 
 1. Iş Ortağı Merkezi [panosunda](https://partner.microsoft.com/dashboard)oturum açın.
 
@@ -259,12 +263,11 @@ Etkin bir ticari Market aboneliğini otomatik olarak yenilemeyi durdurmak için:
 
 Aboneliklerde yapılan bazı değişiklikler yalnızca bir terimin sonunda gerçekleşebilir. Bu değişiklikler, terimin sonunda kolayca uygulanabilmeleri için zamanlanabilir. Zamanlanması gereken değişikliklere örnek olarak şunlar verilebilir:
 
-- SKU indirgenme des
-- Bilgisayar indirimleri
-- Farklı terimlerle yapılan değişiklikler
+- Lisans indirimleri
+- Fatura terimiyle yapılan değişiklikler
 - Faturalandırma sıklığında yapılan değişiklikler
 
-Yükseltme veya bilgisayar artışı gibi diğer değişiklikler, dönem sırasında uygulanabilir.
+Yükseltmeler veya lisans artışları gibi diğer değişiklikler, dönem sırasında uygulanabilir.
 
 Zaman çizelgesi, abonelik bir sonraki dönem için yenilendiğinde yenileme sırasında meydana gelir.
 
@@ -272,7 +275,7 @@ Zamanlanan değişiklikler için önkoşulların önkoşulları:
 
 - Abonelik etkin 
 - Otomatik yenileme açık
-- SKU, zamanlanmış yükseltmelere yönelik yükseltmeye uygun olmalıdır
+- SKU 'nun yükseltme için uygun olması gerekir
 
 Yenileme sırasında yeni bir değişikliği zamanlamak için:
 
@@ -297,32 +300,65 @@ Yenileme sırasında yeni bir değişikliği zamanlamak için:
 İş ortakları, var olan zamanlanmış değişikliği görüntülemek, güncelleştirmek veya kaldırmak için **yenilemeler yönetme** erişimi sağlayabilir.
 
 > [!NOTE]
-> - Denemeler, varsayılan olarak dönem sonunda ücretli SKU 'ya dönüştürülecek şekilde zamanlanır. 
-> - Zamanlanan SKU yükseltmeleri/indirgenme des için Kullanıcı Lisans yeniden atama el ile yapılmalıdır.
-> - Abonelik için aşağıdaki orta dönem güncelleştirmeleri yapılırsa kaydedilen zamanlanan değişiklikler silinir.
+> - Varsayılan olarak, denemeler deneme süresinin sonunda ücretli eşdeğer SKU 'ya dönüştürülür.
+> - Zamanlanan SKU yükseltmeleri için, lisans miktarı değişmezse Kullanıcı Lisans yeniden ataması otomatik olarak yapılır, aksi takdirde el ile yapılmalıdır.
+> - Abonelikte orta dönem güncelleştirmeler yapılırsa, kaydedilen zamanlanan değişiklikler silinir.
 
-### <a name="partial-upgrades-in-new-commerce-subscriptions"></a>Yeni ticaret aboneliklerinde kısmi yükseltmeler
+Kaydedilen zamanlanan değişiklikler aşağıdaki orta dönemli değişiklikler yapıldığında silinir:  
+
+- Otomatik yenileme kapalı 
+- Miktar değiştirildi 
+- Abonelik iptal edildi 
+- SKU yükseltildi 
+- Deneme sürümü dönüştürülecek 
+
+## <a name="upgrades-in-new-commerce-subscriptions"></a>Yeni ticari aboneliklerde yükseltmeler
+
+Yeni ticaret için yükseltme, ücretli bir abonelikten başka bir ücretli aboneliğe yükseltme anlamına gelir. Yeni ticari ücretli-ücretli yükseltmeler, müşterinin mevcut SKU'dan ek hizmetlerle anında yükseltmesine olanak sağlar. 
+
+İş ortakları, lisans sayılarını yapılandırarak hangi aboneliğe yükseltmek istemediklerini seçerek. İş ortakları yeni **bir** abonelik veya yükseltme **için** uygunsa Mevcut abonelik'i seçin. 
+
+Yükseltmeler iki tür olabilir: **Tam Yükseltme ve** Kısmi **Yükseltme.**
 
 > [!NOTE]
-> yeni ticaret değişiklikleri şu anda yalnızca Microsoft 365/dynamics 365 yeni ticaret deneyimi technical preview 'ın parçası olan iş ortakları tarafından kullanılabilir.
+> - Yükseltmeler bir süre sonunda gerçekleşecek şekilde zamanlanmış veya ara dönem başlatılmış olabilir.
+> - Ara dönem yükseltmesi başlatılacak, mevcut zamanlanmış yükseltmeler kaldırılacaktır.
+> - Yükseltmeler yalnızca Etkin durumdaki aboneliklerden **başlatabilirsiniz.**
 
-Kısmi yükseltmeler, bir iş ortağının bir SKU 'dan diğerine bazı lisanslar belirlemesini sağlar. Geleneksel lisans tabanlı aboneliklerdeki önceki yükseltme işlevselliği yalnızca yükseltilecek tüm lisansların etkinleştirilmesini sağlar. Yeni ticaret, bir ortağın bazı lisansları kolay bir şekilde taşımasına olanak sağlar. Bu, iş ortağının yükseltmeleri yönetme konusunda daha fazla denetime sahip olmasını sağlar ve bu sayede bazı kullanıcıları, bunları taşımadan yeni bir SKU 'ya taşımasına olanak tanır.
+### <a name="full-upgrades"></a>Tam yükseltmeler
 
-Kısmi yükseltmeler, bir dönem sonunda gerçekleşecek şekilde zamanlanabilir veya orta dönemde başlatılabilir.
+Tam yükseltme, yerinde yükseltmedir ve bu da tüm veya daha fazla lisansın yükseltiliyor olduğu anlamına gelir. Bu durumda abonelik kimliği aynı kalır ve lisanslar otomatik olarak atanır. Ancak, müşterinin hedef SKU'nun başka bir iş ortağından veya kanaldan önceden satın alma durumunda el ile atama gerekir. El ile atama gerekiyorsa, iş ortağı lisansların el ile İş Ortağı Merkezi olduğunu belirten bir uyarı iletisiyle karşılar. 
+
+### <a name="partial-upgrades"></a>Kısmi yükseltmeler
+
+Kısmi yükseltmeler, bir iş ortağının bir SKU'dan diğerine bazı lisanslar atamasını sağlar. Geleneksel lisans tabanlı aboneliklerde önceki yükseltme işlevi yalnızca tüm lisansların yükseltilmesine olanak sağladı. Yeni ticaret, bir iş ortağının bazı lisansları uygun şekilde taşımasını sağlar. Bu, iş ortağına yükseltmeleri yönetme üzerinde daha fazla denetim sağlar ve bazı kullanıcıların hepsini taşımadan yeni bir SKU'ya taşımalarına olanak sağlar.
 
 Kısmi yükseltme ayrıntıları:
 
-- Yükseltme lisansı sayısı farklıysa, ilk abonelikte kısmi olarak tanımlanır.
-- Orta ölçekli bir yükseltmeyi başlatmak, var olan zamanlanmış yükseltmeleri kaldırır.
-- Yükseltmeler yalnızca **etkin** durumdaki aboneliklerden başlatılabilir.
-- Yükseltme sırasında oluşturulan yeni bir abonelik, yükseltmenin kaynaklandığı abonelikle aynı dönem bitiş tarihlerine sahip olacaktır.
+- Yükseltme lisansı sayısı ilk aboneliğin sayısından küçükse kısmi olarak tanımlanır.
+- Kısmen yükseltme sırasında oluşturulan yeni bir abonelik, yükseltmenin kaynaklandığı abonelikle aynı dönem bitiş tarihlerine sahip olur.
 
-İş ortakları, sürümüne yükseltmek istedikleri lisans sayısını ve abonelikleri yapılandırırken, yükseltmek istedikleri aboneliğe erişebilir. İş ortakları **Yeni** bir abonelik seçebilir veya mevcut bir aboneliği seçebilir.
+## <a name="increasing-and-reducing-licenses-in-new-commerce-subscriptions"></a>Yeni ticari aboneliklerde lisansları artırma ve azaltma
+
+Bir abonelikte lisans sayısı herhangi bir **zamanda** artırılabilir ve faturalama ayarlamaları bir sonraki fatura ve mutabakat dosyasına yansıtılabilir. 
+
+Bir abonelikte lisans sayısı **azaltabilirsiniz:**
+- yalnızca abonelik siparişinin ilk düzenlenme veya yenilenmesiyle ilgili ilk 72 **saat içinde.** 
+- 72 saat içinde müşteri desteği aracılığıyla, ara **sınavda eklenen lisanslar için**
+
+Abonelik dönemi boyunca ilk 72 saat içinde (ilk satın alma veya yenilemeden sonra) lisans sayısı azalması, İş Ortağı Merkezi veya API aracılığıyla self servis aracılığıyla yapabilirsiniz.
+
+Ara sınava eklenen lisanslar için lisans sayısını azaltma, yalnızca ilk 72 saat içinde müşteri desteği aracılığıyla yapılabilir.
+
+Her iki lisans azaltma örneğinde de aboneliğini (proration günlük hesaplanmış) gün sayısı için tam tutar eksi derecelendirilmiş tutar   iade **edilir.** 
+
+Abonelik **siparişinin konan** veya ek lisansların eklenmesinden bu yana 72 saati  geçen lisans sayısı, yenilemede bir sonraki iptal penceresine kadar azaltılememektedir.
+
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-- [Müşterileriniz için ticari Market ürünleri satın alın](csp-commercial-marketplace-purchase.md)
+- [Müşterileriniz için ticari market ürünleri satın alma](csp-commercial-marketplace-purchase.md)
 
-- [Müşterileriniz için ticari Market ürünlerini yönetme](csp-commercial-marketplace-manage.md)
+- [Müşterileriniz için ticari market ürünlerini yönetme](csp-commercial-marketplace-manage.md)
 
 - [Ticari markete genel bakış](csp-commercial-marketplace-overview.md)

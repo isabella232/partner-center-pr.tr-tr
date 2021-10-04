@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 48f4c81f217e68836dd755d1d4342d240276ea79
-ms.sourcegitcommit: 1e616b52d55eff41d67a081ba3f4a8370a49e027
+ms.openlocfilehash: f6ac84a832a0c1b0d00d03e10d1bab3f524ed1df
+ms.sourcegitcommit: 8eaef380caa66ae3c8e2674535e06c3676fa35f2
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/29/2021
-ms.locfileid: "129191532"
+ms.lasthandoff: 10/04/2021
+ms.locfileid: "129415749"
 ---
 # <a name="give-customers-free-trials-of-microsoft-products"></a>Müşterilere Microsoft ürünlerinin ücretsiz deneme sürümlerini sunun
 
@@ -97,9 +97,16 @@ Deneme süresi dolduktan sonra, bu deneme sürümünde oturum açmayı deneyen b
 > [!NOTE]
 > Yeni ticaret değişiklikleri şu anda yalnızca M365/D365 yeni ticaret deneyimi teknik önizlemesinin parçası olan iş ortakları tarafından kullanılabilir.
 
-Otuz gün sonra ücretsiz deneme süreniz ücretli bir aboneliğe otomatik olarak yenilenecek. Aşağıdaki adımları izleyerek deneme sürümünüzü otomatik yenilemeyle önce dönüştürebilirsiniz. 
+Otuz gün sonra ücretsiz deneme süreniz, ücretli abonelik ile otomatik olarak yenilenecek. Deneme sürümünden yeni bir ücretli aboneliğe dönüştürme yaparken, en az 25 bilgisayar, yeni ücretli aboneliğe dönüştürülmek zorunda olur. İş ortakları dönüştürmeye 25 ' ten fazla bilgisayar ekleyebilir, ancak lisans sayısının azalmasına izin verilmez.
 
-Denemeyi ücretli aboneliğe kendiniz dönüştürebilirsiniz. Bunu Iş Ortağı Merkezi 'ni veya Iş Ortağı Merkezi API 'Leri aracılığıyla yapabilirsiniz. 
+İş ortakları, denemeleri mevcut ücretli aboneliklere de dönüştürebilir. Bu senaryoda, mevcut aboneliğin deneme dönüştürmesi için uygun bir abonelik olması gerekir. Bu durumda, deneme sürümü var olan aboneliğe eklenir ve son tarih, var olan ücretli abonelik için aynı kalacaktır.
+
+> [!NOTE]
+> Mevcut ücretli SKU 'nun bitiş tarihi, deneme sürümünden mevcut bir ücretli aboneliğe dönüştürme yapmak için aynı gün veya deneme sürümünün bitiş tarihinden sonra gerçekleşmelidir. 
+
+Bir denemeyi yeni bir ücretli aboneliğe dönüştürürken, iş ortakları aynı ücretli SKU 'ya dönüştürmeyi veya daha yüksek bir SKU 'ya yükseltmeyi seçebilir. Deneme sürenizi deneme süresi sonundan önce ücretli aboneliğe dönüştürmek isterseniz, bunu Iş Ortağı Merkezi API 'Leri aracılığıyla veya aşağıdaki adımları izleyerek Iş Ortağı Merkezi aracılığıyla yapabilirsiniz.
+
+
 
 > [!NOTE]
 > Bulut Çözümü Sağlayıcısı (CSP) programı için müşteri ücretsiz denemeleri başka bir program kiracısına dönüştürülemez (EA, Open veya mosp gibi).
@@ -113,8 +120,13 @@ Iş Ortağı Merkezi 'ni kullanarak yeni ticari denemeleri ücretli aboneliklere
 
 1. Müşterinin abonelik sayfasına gidin ve ücretsiz denemeyi seçin.
 2. **Denemeyi ücretli aboneliğe Dönüştür**' ü seçin.
-3. Ücretli eşdeğerini seçip **Gönder**' i seçin.
+3. Ücretli eşdeğerini seçin ve ardından **Gönder**' i seçin.
 4. Ücretli abonelik için faturalandırma, dönüştürme tarihinde başlar ve abonelik, dönüştürme tarihinden itibaren iki ayda bir otomatik olarak yenilenir.
+
+Deneme dönüştürmelerinde iş ortağı tarafından yönetilmesi gerekir; iş ortaklarının deneme süresinin ne zaman sona ermediğini bilmesini sağlamak için Iş Ortağı Merkezi 'nde abonelik tabanlı uyarı yok.
+
+> [!NOTE] 
+> Yeni bir aboneliğe dönüştürme sırasında, dönem süresi varsayılan olarak 1 yıl ve faturalandırma döngüsünün varsayılan değeri aylık bir plana göre yapılır. 
 
 ## <a name="billing"></a>Faturalandırma
 
@@ -122,7 +134,7 @@ Yıllık faturalandırma ve ücretsiz denemeler, bağımsız bulutlarda ve genel
 
 ## <a name="billing-for-free-trials"></a>Ücretsiz deneme için faturalandırma
 
-Ücretsiz denemeler, aylık ve yıllık olarak faturalandırılan abonelikler için kullanılabilir. Denemeyi ücretli bir aboneliğe dönüştürdüğünüzde faturalandırma sıklığını seçebilirsiniz.
+Ücretsiz denemeler, aylık ve yıllık olarak faturalandırılan abonelikler için kullanılabilir. Denemeyi ücretli bir aboneliğe dönüştürdüğünüzde faturalandırma sıklığını seçebilirsiniz. Varsayılan dönüştürme ayarları 1 yıllık bir dönem ve aylık faturalandırma döngüsüne ayarlanır.
 
 Abonelik başlangıç tarihi, dönüştürme tarihini temel alır. Ücretsiz deneme yıllık faturalandırmayla ücretli bir teklifine dönüştürülürse, abonelik yenileme tarihi dönüştürme tarihinden itibaren 12 ay olur. Ücretsiz deneme, aylık faturalandırma ile ücretli bir teklifine dönüştürülürse, abonelik yenileme tarihi, dönüştürme tarihinden sonraki fatura tarihinden itibaren on iki ay olacaktır.
 
@@ -132,8 +144,8 @@ Faturanızda veya lisans tabanlı mutabakat dosyanızda listelenen ücretsiz den
 
 ### <a name="incentives"></a>Teşvikler
 
-Ücretsiz denemelerin teşvikler üzerinde bir etkisi olmaz.
+Ücretsiz denemelerdeki teşvikleri üzerinde bir etkisi yoktur.
 
 ## <a name="support"></a>Destek
 
-Ücretsiz denemeler için, ücretsiz denemeler aracılığıyla bir hizmet İş Ortağı Merkezi.
+Ücretsiz denemelerdeki destek için Iş Ortağı Merkezi aracılığıyla bir hizmet isteği gönderebilirsiniz.
