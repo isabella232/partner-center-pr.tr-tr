@@ -1,61 +1,64 @@
 ---
-title: MPN avantajları - Yazılım
+title: MPN avantajları-yazılım
 ms.topic: article
 ms.date: 03/05/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-benefits
-description: Şirket içi yazılım ürünleri hakkında daha fazla bilgi Microsoft İş Ortağı Ağı (MPN) avantajları
+description: Microsoft İş Ortağı Ağı (MPN) avantajları olarak sunulan şirket Içi yazılım ürünleri hakkında bilgi edinin
 author: keramp88
 ms.author: keramp
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 8180f8cae9228f6ed6bb8c1a5953fe1314eb6fc5
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: 584f3bad4fa6fcbe661973a344459a6c0a2ec6c3
+ms.sourcegitcommit: cf8c78e0c8831371432007d5ab05f934f15a77b5
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/27/2021
-ms.locfileid: "129073613"
+ms.lasthandoff: 10/05/2021
+ms.locfileid: "129525259"
 ---
-# <a name="mpn-benefits---software"></a>MPN Avantajları - Yazılım
+# <a name="mpn-benefits---software"></a>MPN avantajları-yazılım
 
-**Uygun roller:** Genel yönetici | MPN iş ortağı yöneticisi
+**Uygun roller**: genel yönetici | MPN iş ortağı Yöneticisi
 
 ## <a name="overview"></a>Genel Bakış
 
-Bu makalede, şirket içindeki iş ortaklarının şirket içi yazılım avantajları açık İş Ortağı Merkezi. Etkin kayıt teklifinizin bir parçası olarak sahip olduğunuz tüm yazılım ürünlerini görmek için İş Ortağı Merkezi [oturum açabilirsiniz.](https://partner.microsoft.com/dashboard/mpn/membership/benefits/software)
+Bu makalede, Iş Ortağı Merkezi içinden iş ortakları için kullanılabilen şirket Içi yazılım avantajları açıklanmaktadır. Etkin kayıt teklifinizin bir parçası olarak sahip olduğunuz tüm yazılım ürünlerini görmek için [Iş Ortağı Merkezi avantajları](https://partner.microsoft.com/dashboard/mpn/membership/benefits/software)' nda oturum açın.
 
 ## <a name="manage-software-products-and-product-keys"></a>Yazılım ürünlerini ve ürün anahtarlarını yönetme
 
-İlgili yazılım ürününü seçin ve ürün adıyla aynı satırda açılan liste simgesine tıklayarak her ürün için belirli yönergeleri bulun.
+İlgilendiğiniz yazılım ürününü seçin ve ürün adına sahip olan açılan simgeye tıklayarak her ürün için belirli yönergeleri bulun.
 
-Bir ürün yükleme için bir ürün anahtarı gerektiriyorsa, yükleme işlemi sırasında bir ürün anahtarı girmeniz istenir. İndirmek istediğiniz yazılım sürümünü seçtiğiniz İş Ortağı Merkezi aynı bölmeden edinebilirsiniz.
+Bir ürün yükleme için bir ürün anahtarı gerektiriyorsa, yükleme işlemi sırasında bir ürün anahtarı girmeniz istenir. Iş Ortağı Merkezi ' nde, indirmek istediğiniz yazılımın sürümünü seçtiğiniz bölmeden erişebilirsiniz.
 
-Windows Server ve **istemci işletim** sistemleri ve tüm istemci **uygulamaları** için ürün **Microsoft Office gereklidir.** Tüm ürünler için ürün etkinleştirmesi gerekli değildir.
+**Windows sunucu** ve istemci **işletim sistemleri** ve **tüm Microsoft Office istemci uygulamaları** için ürün etkinleştirme gereklidir. Ürünlerin tümü ürün etkinleştirmesi gerektirmez.
 
-:::image type="content" source="images/benefits/mpn-software-benefits-1.png" alt-text="MPN üzerinde kullanılabilen yazılım ürünü avantajları." border="false":::
+:::image type="content" source="images/benefits/mpn-software-benefits-1.png" alt-text="MPN 'de kullanabileceğiniz yazılım ürün avantajları." border="false":::
 
-## <a name="how-activations-are-counted"></a>Etkinleştirmelerin sayma yöntemi
+## <a name="how-activations-are-counted"></a>Etkinleştirmeler nasıl sayılır?
 
-Ürün anahtarına göre sayan etkinleştirme sayısı aşağıdaki senaryoları temel almaktadır
+Bir ürün anahtarına karşı sayılan etkinleştirme sayısı, aşağıdaki senaryolara dayanır
 
-- Yazılım yeni bir makineye yüklendiyse anahtara göre ürün etkinleştirme sayısı bir artırılır.
+- Yazılım yeni bir makineye yüklenirse, anahtara göre ürün etkinleştirme sayısı bir artırılır.
 
-- Yazılım önemli bir donanım değişikliğiyle aynı makineye yüklenirse, ürün etkinleştirmesi ürün anahtarına göre sayılmaz.
+- Yazılım, önemli donanım değişikliği olmadan aynı makineye yüklenirse, ürün etkinleştirme ürün anahtarına karşı sayılmaz.
 
-- Yazılım önemli donanım değişiklikleriyle aynı makineye yüklendiyse, ürün etkinleştirmesi ürün anahtarına göre sayılır.
+- Yazılım, önemli donanım değişiklikleriyle aynı makineye yüklenirse, ürün etkinleştirme ürün anahtarına göre sayılır.
 
 ## <a name="troubleshooting-scenarios"></a>Sorun giderme senaryoları
 
-- **CA'lar (Windows Sunucu İstemci Erişimi Lisansı) avantajları için "Daha fazla ayrıntı yok" iletisi görüntüleniyor**
+- **CALs (Windows Server istemci erişim lisansı) avantajları için "daha fazla ayrıntı yok" iletisi gösteriliyor**
 
-    CA'lar indirilebilir bir ürün değildir. CA'ların etkinleştirilmesi Sunucu ürününün kendisinde yönetilir.
+    Cal 'Ler indirilebilir bir ürün değildir. Cal 'lerin etkinleştirilmesi sunucu ürününün kendisi üzerinde yönetilir.
 
-- **Yazılımı etkinleştirmeye çalışırken bir ürün anahtarı için kullanılabilir en yüksek etkinleştirme sayısına ulaştığınızı ifade etmek için bir ileti alırsınız.**
+- **Yazılımı etkinleştirmeye çalışırken bir ürün anahtarı için kullanılabilir en yüksek etkinleştirme sayısına ulaştığınızı belirten bir ileti alırsınız.**
 
-    MPN üyelik avantajları aracılığıyla ürün başına belirli sayıda etkinleştirme sağlanır. Etkinleştirme sayısı üst sınırını karşıladı veya aştıysanız, sağlanan ürün anahtarını kullanarak daha fazla lisans etkinleştiremeyeceksiniz.
+    MPN üyelik avantajlarına göre ürün başına belirli sayıda etkinleştirme sunulur. En fazla etkinleştirme sayısını karşıladıysanız veya aştıysanız, belirtilen ürün anahtarını kullanarak daha fazla lisans etkinleştiremeyecektir.
+
+ > [!Note]
+ > iş ortağı merkezi 'nde ıur lisansları aracılığıyla elde edilen Office Professional Plus 2019 için lisans anahtarları, macos 'a yüklendiğinde çalışmaz.
 
  ## <a name="next-steps"></a>Sonraki adımlar
 
-- [Avantajlarınızı Microsoft İş Ortağı Ağı tekliflerinizi yönetme](manage-your-partner-network-benefits.md)
+- [Microsoft İş Ortağı Ağı avantajlarınızı ve tekliflerinizi yönetin](manage-your-partner-network-benefits.md)
 
-- [Ürüne özgü teknik destek almak için teknik destek olaylarını kullanma](mpn-benefits-technical-support.md)
+- [Ürüne özgü teknik destek almak için teknik destek olaylarını kullanın](mpn-benefits-technical-support.md)
