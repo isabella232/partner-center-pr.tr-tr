@@ -1,57 +1,63 @@
 ---
-title: Yeni ticari telco pay (siz git)
+title: Yeni ticaret telekomünikasyon Kullandıkça öde
 ms.topic: article
 ms.date: 09/03/2021
 ms.service: partner-dashboard
 ms.subservice: partnercenter-pricing
-description: Fazlalıklar için ödemeye olanak sağlayan teklif satın almak için yeni ticari deneyimler hakkında bilgi edinin.
+description: Kullandıkça Öde fazla kullanımı sağlayan satın alma teklifleri için yeni ticari deneyimler hakkında bilgi edinin.
 author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: e6ca40f44b97a9b60b48ccedbed7a3df7baad465
-ms.sourcegitcommit: d731813da1d31519dc2dc583d17899e5cf4ec1b2
+ms.openlocfilehash: 8265cb3ce77183c4919e9b8e4e028bb66e8cd2f7
+ms.sourcegitcommit: 462d6026287b85c9feea602af5bcdf924f3e6976
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/27/2021
-ms.locfileid: "129070228"
+ms.lasthandoff: 10/05/2021
+ms.locfileid: "129452507"
 ---
-# <a name="introduction-new-commerce-overage-for-telco-pay-as-you-go"></a>Giriş: Telco pay-as-you-go için yeni ticari fazla veri
+# <a name="introduction-new-commerce-overage-for-telco-pay-as-you-go"></a>Giriş: telekomünikasyon Kullandıkça Öde için yeni ticaret fazla kullanım
 
 **Uygun roller**
 
-- Yönetici aracısı
-- Satış aracısı
+- Yönetim Aracısı
+- Satış Aracısı
 - Genel yönetici
 
 > [!NOTE]
-> Yeni ticaret deneyimi değişiklikleri şu anda yalnızca Microsoft 365/Dynamics 365 yeni ticaret deneyimi teknik önizlemesinde yer alan iş ortakları tarafından kullanılabilir.
+> yeni ticari deneyim değişiklikleri şu anda yalnızca Microsoft 365/dynamics 365 yeni ticaret deneyimi technical preview 'ın parçası olan iş ortakları tarafından kullanılabilir.
 
-Lisans tabanlı bazı ürünler ayrılmış arama planlarına sahip hizmetleri içerir. Bu arama planları genellikle aylık dakikalar için lisans başına ayırma ile birlikte gelir ve genellikle lisans başına 120 olur. 
+Lisans tabanlı bazı ürünler, genellikle lisans başına 120, her ay dakika boyunca lisans başına bir ayırma dahil olmak üzere, ayrılmış çağrı planlarına sahip hizmetleri içerir. 
 
-Geleneksel lisans tabanlı iş ortağı senaryolarında hizmet kullanımını aylık sınırların ötesinde etkinleştirmenin bir yolu yoktu. İletişim kredileri satın almak için 120 dakikadan fazla dakika veya doğrudan Microsoft'tan iletişim *kredileri* satın almak zorunda olan müşteriler.  Bu iletişim kredileri daha önce İş Ortağı Merkezi.
+Geleneksel lisans tabanlı iş ortağı senaryolarında, hizmet kullanımını aylık limitlerin ötesinde etkinleştirmenin bir yolu yoktur. Müşterilerin iletişim kredilerini *veya doğrudan Microsoft 'tan iletişim kredisi* satın alması için 120 dakikadan uzun süre ihtiyaç duyan müşteriler.  Bu iletişim kredileri Iş Ortağı Merkezi 'nde sunulmadı.
 
-## <a name="using-new-commerce-telco-pay-as-you-go"></a>Yeni ticari telco pay'ı kullansanız da kullanma
+## <a name="using-new-commerce-telco-pay-as-you-go"></a>Yeni ticari telekomünikasyon Kullandıkça Öde 'yi kullanma
 
-Bu sınırlama yeni ticarette ele alınarak iş ortağının izin veren hizmetler için fazlalık özelliklerini etkinleştirmesine olanak sağlar. İş ortakları fazlalık özellikleri içeren teklifler satın alınabilir. Bu teklifler, *IncludeOverage* olan fiyat listesi etiketleri sütununda tanımlanır. Katalog SKU'su ayrıca SKU'nun fazla kullanılabilirlik özelliğini desteklediğini belirlemek için bir özellik içerir. İş ortakları yalnızca teklifleri satın alır ve sistem, maliyetle ilgili bir ücret ödemeden fazlalık abonelik yapılandırır ve yalnızca müşterinin kullanıcıları satın alınan teklifle birlikte ayrılan aylık arama dakikalarını karşılasa faturalama tahakkuk eder. 
+Bu sınırlama, iş ortağının izin verilen hizmetlere yönelik fazla kullanım yeteneklerini etkinleştirmesine imkan tanıyan yeni ticaret 'ta giderilmiştir. İş ortakları fazla kullanım özellikleri içeren teklifler satın alabilir. Bu teklifler, *ıncludeoverage* için fiyat listesi etiketleri sütununda tanımlanmıştır. Katalog SKU 'SU, fazla kullanım kapasitesini desteklemek için de bir özelliği içerir. İş ortakları yalnızca teklifleri satın alabilir ve sistem ücret ödemeden bir fazla kullanım aboneliği yapılandırır ve yalnızca müşterinin kullanıcıları, satın alınan teklifle birlikte gelen ayrılan aylık arama dakikalarına göre, yalnızca faturalandırılır. 
 
-İş ortakları, maliyet yönetimi özelliklerini ve özelliklerini kullanarak Azure portal fazla kullanım kullanımını takip ediyor olabilir. İş ortakları ayrıca, herhangi bir zamanda fazlalıkları devre dışı bırakmak veya devre dışı bırakmak isteyen iş ortakları, fazlalıkları Hiçbiri olarak ayarlama seçeneğine de sahip olur. 
+İş ortakları, hangi Ürün SKU 'larının dahil fazla kullanım özellikleri olduğunu tanımlayabilir 
 
-İş ortakları, iş ortağı merkezi kataloğu ürün S SU'larını görüntüerek hangi ürünlerin fazla kullanılabilirlik özelliklerine sahip olduğunu tanımlayabilir. 
+- İş Ortağı Merkezi kataloğu Ürün SKU 'Larını görüntüleme
+- Yeni ticaret fiyat listesini Etiketler sütununda **ıncludesoiçecek** ile filtreleme
 
-Fazlalık ile ürün satın alan iş ortakları, Abonelikleri Yönet sayfasında *FazlaLıkLarı* Yönet sayfasına erişerek fazlalıkları etkinleştirir. Bu, iş ortağının fazla kullanımı etkinleştirmesi ve fazla kullanımın akışa alınarak istenen tüketim aboneliğini ataması için olanak sağlar. İş ortağı, herhangi bir zamanda tüketim aboneliğini Yok olarak ataarak fazla kullanımı *kapatabilirsiniz.* 
+Fazla kullanım ile ürün satın alma iş ortakları, abonelikleri Yönet sayfasındaki **fazla kullanımı yönetme** sayfasına erişerek etkinleştirin. Fazla kullanım arabirimi yönetimi, iş ortağının fazla kullanım ücretlerinin hangi Azure aboneliğine akaceğini etkinleştirmesine ve atamasına olanak sağlar. Herhangi bir zamanda iş ortağı, tüketim aboneliğini *none* olarak atayarak fazla kullanımı kapatabilir. 
 
-İş ortakları fazlalık atar veya abonelikler listesinde *Fazla kullanılabilirlik* yönetimi özelliği tarafından devre dışı ekleyebilirsiniz. Bu, yalnızca iş ortağının fazla kullanılabilirlik sağlayan abonelikleri varsa erişilebilir. Aylık fazla çalışma ücretleri atanan aboneliğe tahakkukır ve iş ortakları mutabakat dosyasında tanımlanır. İş ortakları, azure maliyet yönetimi özelliklerini ziyaret ederek fazla kullanım Azure portal. 
+İş ortakları fazla kullanım veya abonelik listesindeki *fazla kullanımı Yönet* özelliğini tarafından devre dışı bırakır. Bu, yalnızca ortağın fazla kullanım sağlayan abonelikler içeriyorsa erişilebilir olacaktır. Aylık fazla kullanım ücretleri atanan aboneliğe tahakkuk eder ve iş ortakları mutabakatı dosyasında tanımlanır. İş ortakları, Azure portal Azure maliyet yönetimi özelliklerini ziyaret ederek fazla kullanım kullanımını izleyebilir. 
 
-## <a name="important-details-about-overage"></a>Fazlalık hakkında önemli ayrıntılar
+İş ortakları, Azure portal giderek ve maliyet yönetimi özelliklerini ve özelliklerini kullanarak fazla kullanım kullanımını izleyebilir. 
 
-Fazla kesintiye olanak sağlayan bir ürün SKU'su satın almak, iş ortağının müşterisinde fazla veri akışının otomatik olarak ayarlanmış olmasını sağlar. Buna ücretsiz bir Azure planı, ilişkili bir varsayılan Azure aboneliği ve özellikle fazla kullanım tüketimine yönelik bir abonelik oluşturma dahildir. İş ortakları Fazla kullanılabilirlik yönetimi'nin altında fazla verinin tahakkuk etmek istediğiniz aboneliği görebilir ve atayabilirsiniz.
+## <a name="important-details-about-overage"></a>Fazla kullanım hakkında önemli ayrıntılar
 
-Fazla çalışma ataması, kuralda *ilki tarafından* belirlenir. bir iş ortağı yeni müşteri için arama planları ile E5 satın aldı ise bu iş ortağının tüketim aboneliğine fazla kullanımı atanır. İkinci bir iş ortağı, arama planlarına sahip başka bir E5 kopyası satın aldı ise sistem ilk iş ortağının satın alma ve ataması ile ilgili bir karara varacaktır. İş ortakları, *abonelikler sayfasından* her zaman fazlalıkları yöneterek Yok'a fazla çalışma ataarak devre dışı bırakarak veya devre dışı bırakarak devre dışı *bırakabilirsiniz.*
+- Fazla kullanım özellikleri içeren lisans tabanlı bir Ürün SKU 'SU satın almak yalnızca lisans tabanlı ürünü satın alır. İş ortaklarının, abonelik yönetim sayfasına gidip **fazla kullanımı Yönet** ' e tıklayarak fazla kullanım süresini açmak için satın alma işleminden sonra başka bir adım sürmeleri gerekir
+- Lisans tabanlı satın alma işleminden sonra yalnızca deneyimidir iş ortağı için yönetim aracıları fazla kullanım sağlayabilir. 
+- Fazla kullanım kullanımı, fazla kullanım tüketimi için ücretsiz bir Azure planı ve ilişkili bir varsayılan Azure aboneliği **aboneliği 1** oluşturur. Azure planı zaten mevcutsa, fazla kullanım etkinleştirilmesi, mevcut Azure planı altında yeni aboneliği oluşturur. İş ortakları, **fazla kullanım süresini yönetme** alanındaki diğer aboneliklere her zaman fazla kullanım sağlayabilir veya yeniden atayabilir. Henüz Azure planına (eski Azure) sahip olmayan müşterilerin, fazla kullanım sağlamak için Azure planına geçiş yapması gerekir.
 
-Fazlalık ayarları müşteri başına hizmet başınadır. Müşteri farklı iş ortaklarından aynı fazla kullanılabilirliğe sahipse aynı anda yalnızca bir fazla çalışma aboneliği atanabilir. Fazla kesintinin bir iş ortağından diğerine değişmesi gerekirse, ilgili üç taraf da ilk olarak bunu kabul eder. Mevcut iş ortağının fazlalık özelliğini  Hiçbiri olarak ayarlaması, diğer iş ortağının aboneliğine fazlalık ayarlaması için kabul etti.
+Fazla kullanım ataması, *ilk* kural tarafından belirlenir. Bir iş ortağı, yeni bir müşteri için çağrı planlarına sahip E5 satın alıyorsa, bu iş ortağı tüketim aboneliğine atanmış fazla kullanım yaşına sahip olur. İkinci bir iş ortağı, çağrı planlarına sahip bir E5 kopyasını satın alıyorsa, sistem ilk ortağın satın alma ve atamaya göre yapılır. İş ortakları, fazla kullanım süresini devre dışı bırakmak veya devre dışı *bırakmak için abonelikler* sayfasından her zaman *fazla kullanım yönetimi* sağlayabilir.
 
-Telco pay as you go özellikleri için API desteği şunları içerir:
+Fazla kullanım ayarları, müşteri başına hizmet başına. Tek seferde yalnızca bir fazla kullanım aboneliği atanabilir. Fazla kullanım 'nin bir iş ortağından diğerine değiştirilmesi gerekiyorsa, söz konusu üç taraf öncelikle kabul etmelidir. Var olan ortağın kabul ettikleri zaman, diğer ortağın aboneliklerinde fazla kullanım izni olarak ayarlanmalarına olanak tanımak için fazla kullanım *yok* olarak ayarlanabilir.
 
-- İş ortağının bir SKU'nun fazla kullanılabilirlik özelliğine sahip olup olmadığını belirlemeye yardımcı olmak için SKU özellikleri
-- Mevcut aboneliğe fazla kullanımı atamak veya fazla kullanımı  Yok olarak ayarlamak için yeni bir API
+## <a name="telco-pay-as-you-go-apis"></a>Telco Kullandıkça Öde API 'Leri
+
+- [SKU özellikleri](/partner-center/develop/product-resources#sku) , ortağın bir SKU 'nun fazla kullanım belirlemesine izin verip kullanmadığını belirlemesine yardımcı olmak Için bir *Tüketimptiontype* özelliği içerir
+- Müşteriniz için halen fazla kullanım olduğunu anlamak için [fazla kullanım kazanın](/partner-center/develop/get-subscription-overage)
+- Müşterinin fazla kullanım süresini bir Azure aboneliğine güncelleştirmek veya *none* olarak ayarlamak için [fazla kullanımı Güncelleştir](/partner-center/develop/update-subscription-overage)

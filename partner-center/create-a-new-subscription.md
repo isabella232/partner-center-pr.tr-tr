@@ -9,12 +9,12 @@ author: BillLinzbach
 ms.author: BillLi
 ms.custom: SEOAPR.20
 ms.localizationpriority: medium
-ms.openlocfilehash: 680845d173ad69c46dc78c767fb53476750ad24f
-ms.sourcegitcommit: 8eaef380caa66ae3c8e2674535e06c3676fa35f2
+ms.openlocfilehash: 1a2e13bf45b10bebe6ab0492ac059dc1d6a6c0ca
+ms.sourcegitcommit: 462d6026287b85c9feea602af5bcdf924f3e6976
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/04/2021
-ms.locfileid: "129415561"
+ms.lasthandoff: 10/05/2021
+ms.locfileid: "129452422"
 ---
 # <a name="manage-customer-subscriptions"></a>Müşteri aboneliklerini yönetme
 
@@ -310,55 +310,82 @@ Kaydedilen zamanlanan değişiklikler aşağıdaki orta dönemli değişiklikler
 - Miktar değiştirildi 
 - Abonelik iptal edildi 
 - SKU yükseltildi 
-- Deneme sürümü dönüştürülecek 
+- Deneme dönüştürüldü 
 
-## <a name="upgrades-in-new-commerce-subscriptions"></a>Yeni ticari aboneliklerde yükseltmeler
+## <a name="upgrades-in-new-commerce-subscriptions"></a>Yeni ticaret aboneliklerinde yükseltmeler
 
-Yeni ticaret için yükseltme, ücretli bir abonelikten başka bir ücretli aboneliğe yükseltme anlamına gelir. Yeni ticari ücretli-ücretli yükseltmeler, müşterinin mevcut SKU'dan ek hizmetlerle anında yükseltmesine olanak sağlar. 
+Yeni Ticaret için, yükseltme, ücretli bir abonelikten başka ücretli aboneliğe kadar bir ücretden gelmektedir. Yeni ticari ödemeli yükseltmeler, müşterinin geçerli SKU 'sundan, eklenen hizmetlere kadar anında yükseltmelerini sağlar. 
 
-İş ortakları, lisans sayılarını yapılandırarak hangi aboneliğe yükseltmek istemediklerini seçerek. İş ortakları yeni **bir** abonelik veya yükseltme **için** uygunsa Mevcut abonelik'i seçin. 
+İş ortakları, lisans sayılarını yapılandırırken hangi aboneliğin yükseltmek istediğinizi seçebilir. İş ortakları, yükseltme için uygun olması halinde **Yeni** bir abonelik seçebilir veya **mevcut** bir aboneliği seçebilir. 
 
-Yükseltmeler iki tür olabilir: **Tam Yükseltme ve** Kısmi **Yükseltme.**
+Yükseltmeler iki türden oluşabilir: **tam yükseltme** ve **kısmi yükseltme**.
 
 > [!NOTE]
-> - Yükseltmeler bir süre sonunda gerçekleşecek şekilde zamanlanmış veya ara dönem başlatılmış olabilir.
-> - Ara dönem yükseltmesi başlatılacak, mevcut zamanlanmış yükseltmeler kaldırılacaktır.
-> - Yükseltmeler yalnızca Etkin durumdaki aboneliklerden **başlatabilirsiniz.**
+> - Yükseltmeler, bir dönem sonunda gerçekleşecek şekilde zamanlanabilir veya orta ölçekli bir dönem için kullanılabilir.
+> - Orta ölçekli bir yükseltmeyi başlatmak, var olan zamanlanmış yükseltmeleri kaldırır.
+> - Yükseltmeler yalnızca **etkin** durumdaki aboneliklerden başlatılabilir.
 
 ### <a name="full-upgrades"></a>Tam yükseltmeler
 
-Tam yükseltme, yerinde yükseltmedir ve bu da tüm veya daha fazla lisansın yükseltiliyor olduğu anlamına gelir. Bu durumda abonelik kimliği aynı kalır ve lisanslar otomatik olarak atanır. Ancak, müşterinin hedef SKU'nun başka bir iş ortağından veya kanaldan önceden satın alma durumunda el ile atama gerekir. El ile atama gerekiyorsa, iş ortağı lisansların el ile İş Ortağı Merkezi olduğunu belirten bir uyarı iletisiyle karşılar. 
+Tam yükseltme, tüm veya daha fazla lisansın yükseltilmekte olduğu anlamına gelen yerinde bir yükseltmeye sahiptir. Bu durumda, abonelik KIMLIĞI aynı kalır ve lisanslar otomatik olarak atanır. Ancak, müşterinin zaten başka bir iş ortağından veya kanaldan daha eski olan hedef SKU 'yu satın almış olması durumunda el ile atama gerekecektir. El ile atama gerekliyse, iş ortağı merkezi 'nde lisansların el ile atanması gerektiğini belirten bir uyarı iletisi görür. 
 
 ### <a name="partial-upgrades"></a>Kısmi yükseltmeler
 
-Kısmi yükseltmeler, bir iş ortağının bir SKU'dan diğerine bazı lisanslar atamasını sağlar. Geleneksel lisans tabanlı aboneliklerde önceki yükseltme işlevi yalnızca tüm lisansların yükseltilmesine olanak sağladı. Yeni ticaret, bir iş ortağının bazı lisansları uygun şekilde taşımasını sağlar. Bu, iş ortağına yükseltmeleri yönetme üzerinde daha fazla denetim sağlar ve bazı kullanıcıların hepsini taşımadan yeni bir SKU'ya taşımalarına olanak sağlar.
+Kısmi yükseltmeler, bir iş ortağının bir SKU 'dan diğerine bazı lisanslar belirlemesini sağlar. Geleneksel lisans tabanlı aboneliklerdeki önceki yükseltme işlevselliği yalnızca yükseltilecek tüm lisansların etkinleştirilmesini sağlar. Yeni ticaret, bir ortağın bazı lisansları kolay bir şekilde taşımasına olanak sağlar. Bu, iş ortağının yükseltmeleri yönetme konusunda daha fazla denetime sahip olmasını sağlar ve bu sayede bazı kullanıcıları, bunları taşımadan yeni bir SKU 'ya taşımasına olanak tanır.
 
 Kısmi yükseltme ayrıntıları:
 
-- Yükseltme lisansı sayısı ilk aboneliğin sayısından küçükse kısmi olarak tanımlanır.
-- Kısmen yükseltme sırasında oluşturulan yeni bir abonelik, yükseltmenin kaynaklandığı abonelikle aynı dönem bitiş tarihlerine sahip olur.
+- Yükseltme lisansı sayısı ilk aboneliğin boyutundan küçükse kısmi olarak tanımlanır.
+- Kısmen yükseltirken, yükseltmenin kaynaklandığı abonelikle aynı dönem bitiş tarihlerine sahip olacağı yeni bir abonelik oluşturulur.
 
-## <a name="increasing-and-reducing-licenses-in-new-commerce-subscriptions"></a>Yeni ticari aboneliklerde lisansları artırma ve azaltma
+## <a name="increasing-and-reducing-licenses-in-new-commerce-subscriptions"></a>Yeni ticaret aboneliklerindeki lisansları artırma ve azaltma
 
-Bir abonelikte lisans sayısı herhangi bir **zamanda** artırılabilir ve faturalama ayarlamaları bir sonraki fatura ve mutabakat dosyasına yansıtılabilir. 
+Bir abonelikteki lisans sayısı, faturalama ayarlamaları bir sonraki faturaya ve mutabakat dosyasına yansımış olacak şekilde herhangi bir zamanda **artırılabilir** . 
 
-Bir abonelikte lisans sayısı **azaltabilirsiniz:**
-- yalnızca abonelik siparişinin ilk düzenlenme veya yenilenmesiyle ilgili ilk 72 **saat içinde.** 
-- 72 saat içinde müşteri desteği aracılığıyla, ara **sınavda eklenen lisanslar için**
+Bir abonelikteki lisans sayısı **azaltılabilir**:
+- Yalnızca abonelik siparişi **ilk kez yerleştirildiğinde veya yenilendiğinde** ilk 72 saat içinde. 
+- **Orta terime eklenen** lisanslar için 72 saat içinde müşteri desteği aracılığıyla
 
-Abonelik dönemi boyunca ilk 72 saat içinde (ilk satın alma veya yenilemeden sonra) lisans sayısı azalması, İş Ortağı Merkezi veya API aracılığıyla self servis aracılığıyla yapabilirsiniz.
+Bir abonelik döneminin ilk 72 saati içinde (ilk satın alma veya yenileme sonrasında) bir lisans sayısı azalması, Iş Ortağı Merkezi 'nde veya API aracılığıyla self servis aracılığıyla yapılabilir.
 
-Ara sınava eklenen lisanslar için lisans sayısını azaltma, yalnızca ilk 72 saat içinde müşteri desteği aracılığıyla yapılabilir.
+Orta dönemde eklenen lisanslar için lisans sayısı azalması, yalnızca ilk 72 saat içinde müşteri desteği aracılığıyla yapılabilir.
 
-Her iki lisans azaltma örneğinde de aboneliğini (proration günlük hesaplanmış) gün sayısı için tam tutar eksi derecelendirilmiş tutar   iade **edilir.** 
+Lisans azaltma her iki durumda da,    aboneliği kullandığınız günler için eşit miktarda (günde bir **hesaplanan gün)** toplam miktarı iade edersiniz. 
 
-Abonelik **siparişinin konan** veya ek lisansların eklenmesinden bu yana 72 saati  geçen lisans sayısı, yenilemede bir sonraki iptal penceresine kadar azaltılememektedir.
+Abonelik siparişi yerleştirildiğinden veya ek lisanslar eklendikten sonra **72 saatten fazla** süre geçtikten sonra, yenileme sırasında bir sonraki iptal penceresine kadar lisans sayısı **azaltılamıyor** .
 
+## <a name="switching-billing-plans"></a>Faturalandırma planlarını değiştirme
+
+İş ortağının faturalandırma planını ve faturalandırma terimini birlikte değiştirme esnekliği vardır. Ayrıca, faturalandırma terimini tamamen sıfırlamadan yalnızca faturalandırma planının orta dönem olarak değiştirilmesi seçeneği de vardır.
+
+### <a name="just-changing-billing-frequency-scheduled-change"></a>Yalnızca faturalandırma sıklığını değiştirme (zamanlanan değişiklik)
+
+İş ortakları yalnızca birkaç adımda Iş Ortağı Merkezi aracılığıyla yalnızca faturalandırma planını değiştirebilir ve bu da bir sonraki fatura döngüsünün yürürlüğe girer:
+
+1. Müşterinin abonelik sayfasına gidin ve değiştirmek istediğiniz aboneliği seçin.
+
+2. **Faturalandırma sıklığını Yönet** bağlantısını seçin.
+
+3. Geçerli faturalandırma sıklığını ve sıklığı değiştirme seçeneklerini içeren bir açılan menüyü görüntüleyen bir yan panel açılır.
+
+4. Yeni bir değer seçildikten sonra yeni faturalandırma değişiklikleri bir **sonraki fatura döngüsüne** (anında değişiklik değil) uygulanır.
+
+### <a name="changing-billing-frequency-along-with-billing-term-and-other-fields-immediate-change"></a>Faturalama sıklığının yanı sıra fatura şartı ve diğer alanları değiştirme (anında değişiklik)
+
+İş ortağı, faturalama sıklığını ve aynı zamanda Iş Ortağı Merkezi aracılığıyla diğer alanları ve bir değişikliği tetikleyecek şekilde değiştirebilir:
+
+1. Müşterinin abonelik sayfasına gidin ve değiştirmek istediğiniz aboneliği seçin.
+
+2. Süre içinde, açılan menüdeki bir seçeneği belirleyerek dönem süresini değiştirin. Bu, fatura sıklığını değiştirmek için başka bir açılan menü açar.
+
+3. Açılan listeden farklı bir faturalandırma sıklığı seçin.
+
+4. Değişiklikleri yaptıktan ve Gönder ' i tıklatmanızdan sonra yeni faturalandırma değişiklikleri **hemen** gerçekleşir.
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-- [Müşterileriniz için ticari market ürünleri satın alma](csp-commercial-marketplace-purchase.md)
+- [Müşterileriniz için ticari Market ürünleri satın alın](csp-commercial-marketplace-purchase.md)
 
-- [Müşterileriniz için ticari market ürünlerini yönetme](csp-commercial-marketplace-manage.md)
+- [Müşterileriniz için ticari Market ürünlerini yönetme](csp-commercial-marketplace-manage.md)
 
 - [Ticari markete genel bakış](csp-commercial-marketplace-overview.md)
