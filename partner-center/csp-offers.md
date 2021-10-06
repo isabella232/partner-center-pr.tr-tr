@@ -9,20 +9,20 @@ author: BillLinzbach
 ms.author: BillLi
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: f6d60d62756e2d3655d1db69d86602cde45555b4
-ms.sourcegitcommit: 1e616b52d55eff41d67a081ba3f4a8370a49e027
+ms.openlocfilehash: 634668bbdd0cf5d145242ea61b208480d109f259
+ms.sourcegitcommit: b78e85a0bc62e3536b067417cb3db7899cda4f97
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/29/2021
-ms.locfileid: "129191468"
+ms.lasthandoff: 10/06/2021
+ms.locfileid: "129565092"
 ---
 # <a name="overview-of-partner-offers-in-the-cloud-solution-provider-program"></a>Bulut Çözümü Sağlayıcısı programında sunulan iş ortağı tekliflerine genel bakış
 
 **Uygun roller:** Yönetici aracısı | Genel yönetici | Satış aracısı
 
-Bulut Çözümü Sağlayıcısı programı (CSP) bünyesindeki Microsoft iş ortaklarının, giderek büyüyen bir teklif kataloğu vardır. Microsoft bulut hizmetlerinin ve sık sık [değişen](https://partner.microsoft.com/cloud-solution-provider/products-and-services)diğer çeşitli tekliflerin tamamını satabilirsiniz. Geçerli aya göre CSP tekliflerini görmek için İş Ortağı Merkezi'da oturum İş Ortağı Merkezi [**Fiyatlandırma ve teklifler sayfasına**](https://partnercenter.microsoft.com/pcv/sales) gidin.  
+Bulut Çözümü Sağlayıcısı programı (CSP) bünyesindeki Microsoft iş ortaklarının, giderek büyüyen bir teklif kataloğu vardır. Microsoft bulut hizmetlerinin ve sık sık [değişen](https://partner.microsoft.com/cloud-solution-provider/products-and-services)diğer çeşitli tekliflerin tamamını satabilirsiniz. Geçerli aya göre CSP tekliflerini görmek için İş Ortağı Merkezi'da oturum İş Ortağı Merkezi [**fiyatlandırma ve teklifler sayfasına**](https://partnercenter.microsoft.com/pcv/sales) gidin.  
 
-Henüz Bulut Çözümü Sağlayıcısı Bulut Çözümü Sağlayıcısı? Nasıl [Bulut Çözümü Sağlayıcısı](https://partner.microsoft.com/cloud-solution-provider) hakkında daha fazla bilgi için aşağıdaki web sitesini ziyaret edin.
+Henüz Bulut Çözümü Sağlayıcısı? Kayıt [Bulut Çözümü Sağlayıcısı](https://partner.microsoft.com/cloud-solution-provider) hakkında daha fazla bilgi için aşağıdaki web sitesini ziyaret edin.
 
 > [!NOTE]
 > 31 Ocak 2020'den itibaren tüm müşterilerin Microsoft Müşteri Sözleşmesi. Buna mevcut müşterileriniz ve yeni müşterileriniz dahildir. Daha fazla bilgi edinmek için Müşteri [kabulünü onaylama makalesi Microsoft Müşteri Sözleşmesi](confirm-customer-agreement.md)
@@ -39,20 +39,20 @@ Henüz Bulut Çözümü Sağlayıcısı Bulut Çözümü Sağlayıcısı? Nasıl
 
 ### <a name="software"></a>Yazılım
 
-   Müşteriler Yazılım abonelikleri satın alabilir (Azure ayrılmış VM Windows SQL Server çalıştırmak için 1 veya 3 yıllık bir süre boyunca Windows Server ve SQL Server hizmetine) satın alabilir.
+   Müşteriler yazılım abonelikleri satın alabilir (Windows Server'SQL Server azure ayrılmış SANAL makine örneklerde çalıştırmak için 1 veya 3 yıllık bir süre boyunca SQL Server için).
 
    Daha fazla bilgi için [bkz. CSP aracılığıyla yazılım abonelikleri satma.](csp-software-subscriptions.md)  
 
 ### <a name="online-services"></a>Çevrimiçi hizmetler
 
-*Çevrimiçi hizmetler* abonelik olarak satın *alınarak satın alın.* Tek bir yerde birden çok ürün türü sipariş etmenizi kolaylaştırmak için "abonelik ekle" görev akışını "ürün ekle" görev akışıyla tümleştirildik.
+*Çevrimiçi hizmetler* abonelik olarak satın *alınarak elde edildi.* Tek bir yerde birden çok ürün türü sipariş etmenizi kolaylaştırmak için "abonelik ekle" görev akışını "ürün ekle" görev akışıyla tümleştirildik.
 
 Daha fazla bilgi için bkz. [Müşteri abonelikleri.](customer-subscriptions.md)
 
 > [!NOTE]
 > Yeni Ticaret değişiklikleri şu anda yalnızca M365/D365 yeni ticari deneyim teknik önizlemesi kapsamında olan iş ortakları tarafından kullanılabilir.
 
-Yeni ticari deneyim teklifleri, geleneksel çevrimiçi *hizmet aboneliklerinden* farklı olabilir. Bu yeni ticaret deneyimleri hakkında daha fazla bilgi için yeni ticari [deneyimlere genel bakış makalelerini okuyun.](new-commerce-license-based.md)
+Yeni ticari deneyim teklifleri, geleneksel çevrimiçi *hizmet* aboneliklerinden farklı olabilir. Bu yeni ticaret deneyimleri hakkında daha fazla bilgi için yeni ticari [deneyimlere genel bakış makalelerini okuyun.](new-commerce-license-based.md)
 
 ### <a name="software-as-a-service-saas-and-other-azure-marketplace-products"></a>Hizmet Olarak Yazılım (SaaS) ve diğer [Azure Market](https://azuremarketplace.microsoft.com/marketplace) ürünleri
 
@@ -61,11 +61,11 @@ Yeni ticari deneyim teklifleri, geleneksel çevrimiçi *hizmet aboneliklerinden*
    Bu ürünlerle ilgili bilgileri Market **sayfasında** da bulabilirsiniz.
 
 > [!NOTE]
-> Bu sayfa ayrıca üründen satın almaları gereken diğer ürün türleri hakkında bilgi Azure portal, İş Ortağı Merkezi.
+> Bu sayfa ayrıca, üründen satın almaları gereken diğer ürün türleri hakkında bilgi Azure portal, İş Ortağı Merkezi.
 
 Daha fazla bilgi için [bkz. CSP ticari markete genel bakış](CSP-commercial-marketplace-overview.md)
 
-## <a name="add-products-page-details"></a>Ürün sayfası ayrıntılarını ekleme
+## <a name="add-products-page-details"></a>Ürün ekleme sayfası ayrıntıları
 
 Aşağıdaki liste, Ürün ekle sayfasındaki yeni alanların **her birini** tanımlar.
 
@@ -93,15 +93,15 @@ Aşağıdaki liste, Ürün ekle sayfasındaki yeni alanların **her birini** tan
 CSP müşterileriniz adına ürün ve hizmet satın almak için müşterinin istediği öğeleri seçer, bunları sepetinize ekler, bir sipariş oluşturur ve ardından siparişi gözden geçirip gönderin. Genel işlem aşağıda açıklanmıştır. (Belirli bir ürün türüne ilişkin siparişler hakkında daha fazla bilgi için yukarıdaki bağlantılara bakın.)
 
 > [!NOTE]
-> CSP teklifinin hem kiracı ülkede hem de müşterinizin kiracı ülkede kullanılabilir olması gerekir. Örneğin, kiracınız Almanya'da bulunuyorsa ve müşterinin kiracısı Almanya'da bulunuyorsa, dynamics 365 Business Central Premium'i bu müşteriye satamıyoruz çünkü bu teklif şu anda Teklif'te mevcut değildir.
+> CSP teklifinin hem kiracı ülkede hem de müşterinizin kiracı ülkede kullanılabilir olması gerekir. Örneğin, kiracınız Almanya'da yer alıyorsa ve müşterinin kiracısı Almanya'da bulunuyorsa, bu teklif şu anda HizmetTele'de mevcut olduğundan dynamics 365 Business Central Premium'i bu müşteriye satamıyoruz.
 
-1. İş Ortağı Merkezi panosundan Müşteriler **kutucuğunu** seçin ve ardından satın almak istediğiniz müşteriyi bulun.
+1. İş Ortağı Merkezi panosundan Müşteriler kutucuğunu  seçin ve ardından satın almak istediğiniz müşteriyi bulun.
 
 2. Müşterinin kaydını genişletmek için müşterinin satırın sonundaki aşağı oku seçin ve ardından Ürün **ekle'yi seçin.** Bu aşamadan sonra siparişi oluşturuyorsunuz. Sipariş farklı türlerde çeşitli öğeler içerebilir ama hepsinin aynı müşteri için olması gerekir.
 
 3. Ürün **ekle sayfasında** **Azure,** Çevrimiçi hizmetler veya **Yazılım'ı** **seçin.**
 
-4. Aradığınız ürünleri daha kolay bulmak için kullanılabilir filtrelerde ince ayar yapabilirsiniz. Kullanılabilir olanların tam listesini görmek için geçerli filtreleri herhangi bir olarak **ayarlayın.**
+4. Aradığınız ürünleri daha kolay bulmak için kullanılabilir filtrelere ince ayar yapabilirsiniz. Kullanılabilir olanların tam listesini görmek için, uygulanabilir filtreleri herhangi bir olarak **ayarlayın.**
 
 5. Müşterinin istediği ürünü seçin, istediğiniz miktarı girin ve sepete **ekle'yi seçin.**
 
@@ -126,15 +126,15 @@ Müşterinin sipariş geçmişini görüntülemek için:
 CSP müşterileriniz adına ürün ve hizmet satın almak için müşterinin istediği öğeleri seçer, bunları sepetinize ekler, bir sipariş oluşturur ve ardından siparişi gözden geçirip gönderin. Genel işlem aşağıda açıklanmıştır. (Belirli bir ürün türüne ilişkin siparişler hakkında daha fazla bilgi için yukarıdaki bağlantılara bakın.)
 
 > [!NOTE]
-> CSP teklifinin hem kiracı ülkede hem de müşterinizin kiracı ülkede kullanılabilir olması gerekir. Örneğin, kiracınız Almanya'da bulunuyorsa ve müşterinin kiracısı Almanya'da bulunuyorsa, dynamics 365 Business Central Premium'i bu müşteriye satamıyoruz çünkü bu teklif şu anda Teklif'te mevcut değildir.
+> CSP teklifinin hem kiracı ülkede hem de müşterinizin kiracı ülkede kullanılabilir olması gerekir. Örneğin, kiracınız Almanya'da yer alıyorsa ve müşterinin kiracısı Almanya'da bulunuyorsa, bu teklif şu anda HizmetTele'de mevcut olduğundan dynamics 365 Business Central Premium'i bu müşteriye satamıyoruz.
 
-1. Panodan İş Ortağı Merkezi **Müşteriler'i** seçin ve ardından satın almak istediğiniz müşteriyi bulun.
+1. İş Ortağı Merkezi panosundan **Müşteriler'i** seçin ve ardından satın almak istediğiniz müşteriyi bulun.
 
 2. Müşterinin kaydını genişletmek için müşterinin satırın sonundaki aşağı oku seçin ve ardından Ürün **ekle'yi seçin.** Bu aşamadan sonra siparişi oluşturuyorsunuz. Sipariş farklı türlerde çeşitli öğeler içerebilir ama hepsinin aynı müşteri için olması gerekir.
 
 3. Ürün **ekle sayfasında** **Azure,** Çevrimiçi hizmetler veya **Yazılım'ı** **seçin.**
 
-4. Aradığınız ürünleri daha kolay bulmak için kullanılabilir filtrelerde ince ayar yapabilirsiniz. Kullanılabilir olanların tam listesini görmek için geçerli filtreleri herhangi bir olarak **ayarlayın.**
+4. Aradığınız ürünleri daha kolay bulmak için kullanılabilir filtrelere ince ayar yapabilirsiniz. Kullanılabilir olanların tam listesini görmek için, uygulanabilir filtreleri herhangi bir olarak **ayarlayın.**
 
 5. Müşterinin istediği ürünü seçin, istediğiniz miktarı girin ve sepete **ekle'yi seçin.**
 
@@ -155,21 +155,21 @@ Müşterinin sipariş geçmişini görüntülemek için:
 4. Müşterinin **sipariş geçmişini** görüntülemek için Siparişleri görüntüle'yi seçin.
 
 * * *
- 
+
 ## <a name="rules-for-special-segments"></a>Özel segmentler için kurallar
 
 Bazı lisans tabanlı teklifler yalnızca belirli koşullar altında satın alınabilir. Özel segment teklifleri Eğitim, Kar Amacı Gütmeyen veya Government Community Cloud (GCC) teklifleridir. Bu satın alma koşullarıyla ilgili ayrıntılar, özel [segmentler için satın alma kuralları konusunda bulunabilir.](get-special-pricing-for-offers.md#purchase-rules-for-special-segments)
 
 ## <a name="troubleshooting-catalog-purchases"></a>Katalog satın alma sorunlarını giderme
 
-Aradığınız teklifin katalogda bulunmamasının farklı nedenleri olabilir. Beklediğiniz teklifi bulup bulamamayabilirsiniz.
+Aradığınız teklifin katalogda bulunmamasının farklı nedenleri olabilir. Aşağıda, bekleeceğiniz teklifi bulamadıysanız denetlenecek noktalar verilmiştir.
 
-- **Müşterinizin gerekli nitelikleri karşıladığından emin olun**. Birçok teklifin müşterilere satılabilmesi için özel niteliklerin sağlanması gerekir. Bu özel segmentler Eğitim, Kar Amacı Gütmeyen ve Government Community Cloud (GCC). Sorun girişi yapmadan önce müşterinin niteliklerinin uygun olarak ayarlandığından emin olun. Müşteri listesinden müşteriyi seçerek ve hesabı görüntüerek bunu kontrol edin. Hesap uygunsa Özel Nitelik durumu belirtilmiş olur. Eğitim sürümünü gerekli niteliklere sahip olmayan bir müşteriye satmaya çalışıyorsanız ilgili teklifleri katalogda göremezsiniz. Müşterinizin uygun olduğu hakkında daha fazla bilgi için özel [segmentler belgelerine bakın.](get-special-pricing-for-offers.md)
-- **Eklenti mi yoksa Temel teklif mi satın almaya çalıştığınızı belirleyin**. Microsoft 365 ve Dynamics 365 gibi lisans tabanlı hizmetlerin çoğu, Hem Temel tekliflerin hem de Eklentilerin katalog satın alımına olanak sağlar. Katalogdan yalnızca temel teklifler satın alınabilir. Eklentiler satın almak için önce katalogda Temel teklifi satın aldığınızdan emin olur, ardından müşteri listesinden müşteriyi ve ardından temel teklifin aboneliğini seçersiniz. Eklentiler, abonelik yönetimi sayfasından temel teklife uygulanabilir. 
+- **Müşterinizin gerekli nitelikleri karşıladığından emin olun**. Birçok teklifin müşterilere satılabilmesi için özel niteliklerin sağlanması gerekir. bu özel segmentler arasında eğitim, kar amacı ve Government Community Cloud (GCC) bulunur. Sorun girişi yapmadan önce müşterinin niteliklerinin uygun olarak ayarlandığından emin olun. Müşteriyi müşteri listesinden seçerek ve hesabı görüntüleyerek bunu kontrol edebilirsiniz. Hesap uygunsa Özel Nitelik durumu belirtilmiş olur. Eğitim sürümünü gerekli niteliklere sahip olmayan bir müşteriye satmaya çalışıyorsanız ilgili teklifleri katalogda göremezsiniz. Müşterilerinizi nitelendirme hakkında daha fazla bilgi için bkz. [özel segmentler belgeleri](get-special-pricing-for-offers.md).
+- **Eklenti mi yoksa Temel teklif mi satın almaya çalıştığınızı belirleyin**. Microsoft 365 ve Dynamics 365 gibi lisans tabanlı hizmetlerden birçoğu, temel tekliflerde ve eklentilerde bulunan katalog satın alımlarınızı etkinleştirir. Katalogdan yalnızca temel teklifler satın alınabilir. Eklentileri satın almak için, ilk olarak katalogda temel teklifi satın aldığınızdan emin olun ve müşteri listesinden müşteriyi seçin ve ardından temel teklif için aboneliği seçin. Eklentiler, abonelik yönetimi sayfasından temel teklife uygulanabilir. 
 - **Ürünlerin pazarınızda kullanılabileceğinden emin olun**. Birçok ürün ve hizmet yalnızca belirli ülkelerde satılmak üzere yapılandırılmıştır. Desteklenen ülkelerin listesini ürünlere özgü fiyat listesi dosyalarında bulabilirsiniz. Ülkelerde desteklenen lisans tabanlı hizmetler, fiyatlandırma ve teklifler sayfasının Teklif Listesi Tablosu bölümünde yer alır.
-- **Tekliflerin fiyat listesinde mevcut olduğundan emin olun**. Kullanılabilir teklif listesi aydan aya değişebilir. Katalogda teklif bulamıyorsanız, Satış Teklifi Fiyatlandırması ve Teklifleri sayfasındaki geçerli **fiyat listelerinde > doğrulayın.**
+- **Tekliflerin fiyat listesinde mevcut olduğundan emin olun**. Kullanılabilir teklif listesi aydan aya değişebilir. Katalogda bir teklif bulamazsanız, **Fiyat listeleri** sayfasındaki geçerli fiyat listelerinde kullanılabilir olduğunu doğrulayın.
 
-### <a name="recommended-documents-related-to-purchasing-items-in-the-partner-center"></a>Hizmet belgesinde satın alma öğeleriyle ilgili İş Ortağı Merkezi
+### <a name="recommended-documents-related-to-purchasing-items-in-partner-center"></a>Iş Ortağı Merkezi 'nde öğe satın alma ile ilgili önerilen belgeler
 
 - [İş Ortağı Merkezi'ndeki fiyatlar ve teklifler](pricing-and-offers.md)
 - [Bulut Çözümü Sağlayıcısı programında sunulan iş ortağı tekliflerine genel bakış](csp-offers.md)
@@ -179,6 +179,6 @@ Aradığınız teklifin katalogda bulunmamasının farklı nedenleri olabilir. B
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-Faturalama işleminin nasıl çalıştığını görmek için bkz. [Faturalama ile ilgili temel bilgiler.](billing-basics.md)
+Faturalandırma sürecinin nasıl çalıştığı hakkında bilgi için bkz. [faturalandırma temelleri](billing-basics.md).
 
-Azure planı kapsamında satın alma hakkında bilgi için bkz. [Azure planını satın alma.](purchase-azure-plan.md)
+Azure planının altında satın alma hakkında bilgi için bkz. [Azure planını satın alma](purchase-azure-plan.md).

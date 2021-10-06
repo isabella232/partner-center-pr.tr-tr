@@ -1,6 +1,6 @@
 ---
 title: Müşteriler Microsoft Azure rezervasyonları satın alma
-description: Bu hizmetlerde müşterileriniz adına Azure rezervasyonları satın almayı veya satın İş Ortağı Merkezi. Ayrıca Azure rezervasyonlarının kullanılamay olduğu pazarları listeler.
+description: Azure rezervasyonlarını müşteriler adına satın almayı veya satın almayı öğrenin İş Ortağı Merkezi. Ayrıca Azure rezervasyonlarının kullanılamay olduğu pazarları listeler.
 ms.topic: how-to
 ms.service: partner-dashboard
 ms.subservice: partnercenter-pricing
@@ -9,12 +9,12 @@ ms.author: rbars
 ms.localizationpriority: medium
 ms.custom: SEOAPR.20
 ms.date: 08/06/2020
-ms.openlocfilehash: 112296baffe38b81a1a0516e62fa31525d1e3b3d
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.openlocfilehash: 61ddb91e296436817e45ae0a2c3d9fe12b326f18
+ms.sourcegitcommit: b78e85a0bc62e3536b067417cb3db7899cda4f97
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126248336"
+ms.lasthandoff: 10/06/2021
+ms.locfileid: "129565300"
 ---
 # <a name="buy-microsoft-azure-reservations-on-behalf-of-your-customers-in-partner-center"></a>Microsoft Azure müşterileriniz adına rezervasyon satın İş Ortağı Merkezi
 
@@ -27,7 +27,7 @@ Bu makalede, azure'da müşterileriniz adına Azure rezervasyonları satın alma
 
 ## <a name="before-you-begin"></a>Başlamadan önce
 
-Müşterileriniz adına Azure rezervasyonları satın almadan önce aşağıdaki önemli bilgileri gözden geçirebilirsiniz. (Müşterilerin, onlar için satın aldığınız önceki Bir Azure aboneliğinden kendi Azure rezervasyonlarını satın alamalarını istiyor musunuz? Bkz. [Müşterilere kendi Azure rezervasyonlarını satın alma izni verme.)](give-customers-permission.md#give-customers-permission-to-buy-their-own-azure-reservations)
+Müşterileriniz adına Azure rezervasyonları satın almadan önce aşağıdaki önemli bilgileri gözden geçirebilirsiniz. (Müşterilerin, onlar için satın aldığınız önceki bir Azure aboneliğinden kendi Azure rezervasyonlarını satın alamalarını istiyor musunuz? Bkz. [Müşterilere kendi Azure rezervasyonlarını satın alma izni verme.)](give-customers-permission.md#give-customers-permission-to-buy-their-own-azure-reservations)
 
 - Müşteriniz yeni aboneliği imzalarsa Microsoft Müşteri Sözleşmesi (bkz. Microsoft Müşteri Sözleşmesi [onaylayın),](confirm-customer-agreement.md)Azure planı kapsamında Azure rezervasyonları satın alasanız gerekir. Daha fazla bilgi için Azure [planı satın alma makalelerini okuyun.](purchase-azure-plan.md)
 
@@ -37,7 +37,7 @@ Müşterileriniz adına Azure rezervasyonları satın almadan önce aşağıdaki
 
 - Konumunuz Brezilya değilse Microsoft'un sizin için ticari fiyatlandırması vergileri dahil değildir. Konumunuz Brezilya ise, uygun vergiler sizin için ticari fiyattır
 
-- Satış ve yardım masası temsilcilerinin Azure aboneliğini müşteri adına satın al Azure portal ve dosya desteği isteklerinde (değişimler ve para iadeleri de dahil) yönetecekleri açık erişime ihtiyacı vardır  
+- Satış ve yardım masası temsilcilerinin Azure aboneliğini müşteri adına satın al Azure portal ve dosya destek isteklerinde (değişimler ve para iadeleri dahil) yönetecekleri açık erişime sahip ihtiyaçları vardır  
 
 - Dolaylı sağlayıcıysanız ve Azure portal aracılığıyla Azure rezervasyonları satın alıyorsanız, Kayıt İş Ortağı (dolaylı kurumsal bayi) Azure CSP aboneliğinden devralınmış olur.
 
@@ -125,11 +125,11 @@ iş ortağı merkezi 'nde müşterileriniz adına Microsoft Azure ayırmaları s
 
     - Rezervasyonun kapsamını seçin. Ayırma kapsamı bir aboneliği veya birden çok aboneliği (paylaşılan kapsamı) kapsayabilir. Ayırmayı tek bir aboneliğe göre kapsamınızda, rezervasyon iskontosu yalnızca bu aboneliğe uygulanır. Paylaşılan ' i seçerseniz, rezervasyon indirimi müşterinin faturalandırma bağlamındaki tüm aboneliklere uygulanır. 
 
-      >[!NOTE] 
-      >Ayırmanın kapsamını tek bir Azure aboneliğiyle sınırlandırmayı tercih ediyorsanız, aboneliğin vCPU kotasını artırmanız gerekebilir. Aboneliğin vCPU kotasını artırmak için Azure portal bir destek isteği oluşturmanız gerekir. İsteği oluşturmak için [Bu konudaki](/azure/azure-supportability/resource-manager-core-quotas-request) yönergeleri izleyin. 
+      > [!NOTE] 
+      > Ayırmanın kapsamını tek bir Azure aboneliğiyle sınırlandırmayı tercih ediyorsanız, aboneliğin vCPU kotasını artırmanız gerekebilir. Aboneliğin vCPU kotasını artırmak için Azure portal bir destek isteği oluşturmanız gerekir. İsteği oluşturmak için [Bu konudaki](/azure/azure-supportability/resource-manager-core-quotas-request) yönergeleri izleyin. 
 
-      >[!NOTE]   
-      >Müşteriniz Azure planının altındaysa, **kapsam** **paylaşılan** olarak ayarlanır. 
+      > [!NOTE]   
+      > Müşteriniz Azure planının altındaysa, **kapsam** satın alma sırasında **paylaşılan** olarak ayarlanır. Bu daha sonra değiştirilebilir.
 
     - Sağlayıcı iş ortağıysanız, ürünle ilişkilendirmek istediğiniz Bayi ' ı seçin.
     

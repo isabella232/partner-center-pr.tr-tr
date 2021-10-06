@@ -271,7 +271,7 @@
         - name: Abonelikleri yeni ticarete geçir
           href: migrate-subscriptions-to-new-commerce.md
         - name: CSP programı aracılığıyla şirket içi yazılım satma
-          href: csp-on-premise-software.md
+          href: csp-on-premises-software.md
         - name: Microsoft'tan müşteri iletişimi
           href: customer-communication-from-microsoft.md
         - name: Teknik destek sağlama
@@ -403,7 +403,7 @@
           href: csp-commercial-marketplace-contracting.md
     - name: Azure rezervasyonları
       items:
-        - name: Azure rezervasyonlarını satma
+        - name: Azure ayırmaları satma
           href: azure-reservations.md
         - name: Maksimum rezervasyon kullanımı için VM boyutlandırma
           href: azure-usage.md
@@ -425,7 +425,7 @@
       href: advisors-no-csp.md
     - name: CSP teklifleri
       items:
-        - name: CSP'de iş ortağı tekliflerini satma
+        - name: CSP 'de iş ortağı teklifleri satma
           href: csp-offers.md
         - name: Kullanılabilir Azure hizmetleri
           href: azure-plan-available.md
@@ -433,7 +433,7 @@
           items:
             - name: Azure planına genel bakış
               href: azure-plan-lp.md
-            - name: Kullanmaya başlayın planıyla ilgili bilgi
+            - name: Azure planına başlayın
               href: azure-plan-get-started.md
             - name: Azure planı satın alma
               href: purchase-azure-plan.md
@@ -447,25 +447,25 @@
               href: partner-earned-credit-explanation.md
             - name: İş ortağı kazanılmış kredisi için roller ve izinler
               href: azure-roles-perms-pec.md
-            - name: İş ortağı tarafından kazanılan kredi hakkında SSS
+            - name: İş ortağı kazanılmış kredisi hakkında SSS
               href: partner-earned-credit-faq.md
-            - name: İş ortağı tarafından kazanılan kredi sorunlarını giderme
+            - name: İş ortağı kazanılmış kredisi sorunlarını giderme
               href: partner-earned-credit-troubleshoot.md
             - name: Azure için CSP'de yeni ticari deneyim için fiyat listesi
               href: azure-plan-price-list.md
             - name: Azure planı kapsamındaki abonelikleri ve kaynakları yönetme
               href: azure-plan-manage.md
-            - name: Müşterinin Azure planı aboneliklerini farklı bir iş ortağına aktarma
+            - name: Müşterinin Azure planı aboneliklerini farklı bir ortağa aktarma
               href: transfer-azure-subscriptions-under-azure-plan.md
         - name: Lisans tabanlı hizmetler için yeni ticari deneyimler
           href: new-commerce-license-based.md
           displayName: new commerce
           items:
-            - name: Yeni ticari telco ödemesi
+            - name: Yeni ticari telekomünikasyon PAYG
               href: new-commerce-telco-payg.md
-            - name: Yeni ticari promosyonlar
+            - name: Yeni ticaret promosyonları
               href: new-commerce-promotions.md
-            - name: Yeni ticari eklentiler
+            - name: Yeni ticaret eklentileri
               href: new-commerce-add-ons.md
         - name: CSP için Office 365 Kamu GCC satışı
           href: csp-gcc-overview.md
@@ -473,7 +473,7 @@
           href: csp-software-subscriptions.md
         - name: Çevrimiçi hizmetler abonelikleri
           items:
-            - name: Müşterilerinize abonelikleri satma
+            - name: Müşterilerinize abonelik satma
               href: customer-subscriptions.md
             - name: Yeni müşterileri çekmek için promosyonları kullanma
               href: promotions.md
@@ -519,19 +519,19 @@
           href: incentives-enroll.md
         - name: Program uygunluğunu kontrol etme
           href: incentives-determined-your-program-eligibility.md
-        - name: Teşvik ödemesini ve vergi profillerini anlama
+        - name: Teşvikleri ödeme ve vergi profillerini anlama
           href: incentives-create-and-manage-your-payout-and-tax-profiles.md
         - name: Kazançların uygunluğunu kontrol etme
           href: incentives-confirm-your-earnings-eligibility.md
         - name: Programları ve ödemeleri görüntüleme
           href: understand-incentive-payouts.md
-    - name: MCI etkileşimleri
+    - name: MCI görevlendirmeler
       items:
-        - name: MCI etkileşimlere genel bakış ve uygunluk
+        - name: MCI görevlendirmelere genel bakış ve uygunluk
           href: mci-engagements.md
-        - name: MCI etkileşimleri için müşteriler sayfası
+        - name: MCI görevlendirmelere yönelik müşteriler sayfası
           href: mci-engagements-customers.md
-        - name: MCI katılımları atölye talebi gönderme
+        - name: MCI görevlendirmeler Workshop talebi gönder
           href: mci-engagements-workshop.md
     - name: Planlar ve yürütme kanıtları
       items:
@@ -548,7 +548,7 @@
         - name: Kullanılabilir ortak işlem fonlarını görüntüleme
           href: incentives-view-funds.md
           displayName: incentives
-        - name: İşbirliği kazanç eşiği
+        - name: Ortak işlem eşiği
           href: claims-threshold.md
           displayName: incentives
         - name: Ortak kullanım taleplerini yönetme
@@ -583,7 +583,7 @@
           href: chip-payment-status.md
         - name: Bir sözleşmenin masaüstü cihaz sayısını ve ücret düzeyini bulma
           href: chip-locate-agreement.md
-        - name: Çözüm Değerlendirmesi
+        - name: Çözüm değerlendirmesi
           href: chip-solution-assessment.md
         - name: Çözüm Değerlendirmesine uygunluk
           href: chip-solutions-assessment-eligible.md
@@ -593,7 +593,7 @@
           href: chip-faq.yml
         - name: CHIP’e erişim sorunları
           href: chip-access-trouble.md
-    - name: Ödeme ve kazanç sorunlarını giderme
+    - name: Ödemeler ve kazanç sorunlarını giderme
       href: incentives-payment-issues.md
     - name: Power BI için Analiz uygulaması
       items:
@@ -607,11 +607,11 @@
   href: /azure/marketplace
 - name: Ödemeler
   items:
-    - name: Ödeme genel bakış
+    - name: Ödemelere genel bakış
       href: non-payment-fraud-misuse.md
     - name: Cep telefonu operatörü faturalaması
       href: mobile-operator-billing.md
-    - name: Market tekliflerini ödeten öğrenin
+    - name: Market teklifleri aracılığıyla ödeme alma
       href: marketplace-get-paid.md
     - name: 'Ödeme eşikleri, yöntemleri ve zaman çerçeveleri'
       href: payment-thresholds-methods-timeframes.md
@@ -621,17 +621,17 @@
       href: payout-policy-details.md
     - name: Ödeme deyimleri
       href: payout-statement.md
-    - name: Gelir Özeti
+    - name: Gelir özeti
       href: revenue-summary.md
-    - name: Ödeme verileri dışarı aktarma sayfası
+    - name: Ödemelerin verileri dışarı aktarma sayfası
       href: payouts-enhanced-exports.md
-    - name: Ticari Market ödeme ve vergi profillerini ayarlama
+    - name: Ticari market ödeme ve vergi profillerini ayarlama
       href: set-up-your-payout-account.md
     - name: Ticari market yayıncıları için vergi bilgileri
       href: tax-details-marketplace.md
     - name: Vergileri anlama
       items:
-        - name: Vergi ilkelerinin ödeme nasıl etkilediği
+        - name: Vergi ilkeleri ödemeyi nasıl etkiler?
           href: tax-policies-affect-payout.md
         - name: Microsoft tarafından verilen IRS vergi formlarını anlama
           href: understand-irs-tax-forms.md
@@ -639,13 +639,13 @@
   items:
     - name: Analizler genel bakış
       href: insights-overview.md
-    - name: Üyelik öngörüleri
+    - name: Üyelik içgörüleri
       items:
-        - name: Üyelik öngörülerine genel bakış
+        - name: Üyelik içgörüleri'ne genel bakış
           href: partner-center-insights.md
         - name: Üyelik rol tabanlı erişim
           href: insights-roles.md
-        - name: Üyelik Raporu ayrıntıları
+        - name: Üyelik raporu ayrıntıları
           items:
             - name: Genel Bakış
               href: insights-overview-report.md
@@ -679,7 +679,7 @@
               href: insights-customer-opportunities.md
             - name: Ürün lisansları
               href: insights-product-licenses-report.md
-        - name: Üyelik öngörüleri hakkında SSS
+        - name: Üyelik içgörüleri hakkında SSS
           href: insights-known-issues.md
         - name: Raporları indir
           href: insights-download-reports.md
@@ -691,33 +691,33 @@
               href: partner-contribution-indicators.md
             - name: Küçük ve Orta Ölçekli Kuruluşlarda Bulut Çözümleri yeterliliği için
               href: partner-contribution-indicators-small-and-midmarket-cloud-business-option.md
-    - name: Başvuru öngörüleri
+    - name: Referans içgörüleri
       href: referral-insights.md
-    - name: Bulut Çözümü Sağlayıcısı öngörüler
+    - name: Bulut Çözümü Sağlayıcısı içgörüleri
       items:
         - name: Abonelik verilerine ve analizlerine erişme
           href: data-analysis-lp.md
         - name: Müşteri Azure kullanımı
           href: analyze-azure-usage.md
-        - name: Başvuru Analizi
+        - name: Referans analizi
           items:
-            - name: Müşteri adayları öngörülerini alın
+            - name: Müşteri adayı içgörüleri alın
               href: referral-leads-insights.md
-            - name: Başvuru Analizi veri tanımı
+            - name: Referans analizi veri tanımı
               href: referral-analytics-data-definition.md
         - name: Dolaylı kurumsal bayi performansı
           href: analyze-indirect-resellers.md
         - name: Abonelikler ve lisanslar
           href: analyze-subscriptions-licenses.md
-    - name: Öngörüler için programlı erişim
+    - name: Öngörülere programlı erişim
       items:
         - name: başlarken
           href: insights-programmatic-get-started.md
-        - name: Programlı erişim önkoşulları
+        - name: Programlı erişim için önkoşullar
           href: insights-programmatic-prerequisites.md
         - name: Programlı erişim paradigması
           href: insights-programmatic-access-paradigm.md
-        - name: İlk programlı API çağrısını yapın
+        - name: İlk programlı API çağrınızı yapma
           href: insights-programmatic-first-api-call.md
         - name: Sistem sorgularının listesi
           href: insights-programmatic-system-queries.md
@@ -737,25 +737,25 @@
               href: insights-programmatic-analytics-api-get-dataset.md
             - name: Rapor sorgularını al
               href: insights-programmatic-analytics-api-get-report-queries.md
-            - name: Rapor sorgularını Sil
+            - name: Rapor sorgularını silme
               href: insights-programmatic-analytics-api-delete-report-queries.md
             - name: Rapor sorgularını deneyin
               href: insights-programmatic-analytics-api-try-report-queries.md
             - name: Rapor al
               href: insights-programmatic-analytics-api-get-report.md
-            - name: Raporu Güncelleştir
+            - name: Raporu güncelleştirme
               href: insights-programmatic-analytics-api-update-report.md
             - name: Raporu sil
               href: insights-programmatic-analytics-api-delete-report.md
-            - name: Rapor yürütmelerini Duraklat
+            - name: Rapor yürütmelerini duraklatma
               href: insights-programmatic-analytics-api-pause-report-executions.md
-            - name: Rapor yürütmelerini sürdürür
+            - name: Rapor yürütmelerini sürdürme
               href: insights-programmatic-analytics-api-resume-report-executions.md
 - name: Yardım + destek
   items:
-    - name: Yardım ve desteğe genel bakış
+    - name: Yardım + de destek genel bakış
       href: support-from-microsoft.md
     - name: İş Ortağı Merkezi'nde raporlama sorunları
       href: report-problems-with-partner-center.md
-    - name: Otomatik hizmet bildirimleri al
+    - name: Otomatik hizmet bildirimlerini al
       href: get-automated-service-notifications-with-our-apis.md

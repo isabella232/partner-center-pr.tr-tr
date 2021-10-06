@@ -11,12 +11,12 @@ ms.custom:
 - references_regions
 ms.localizationpriority: high
 ms.date: 10/05/2021
-ms.openlocfilehash: 3a5f9ee11ffab9869e2641f27594c255e44f4d16
-ms.sourcegitcommit: cf8c78e0c8831371432007d5ab05f934f15a77b5
+ms.openlocfilehash: 9cbe685abf6610b42c05d2f9229f93478c50ca69
+ms.sourcegitcommit: b78e85a0bc62e3536b067417cb3db7899cda4f97
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/05/2021
-ms.locfileid: "129525220"
+ms.lasthandoff: 10/06/2021
+ms.locfileid: "129565127"
 ---
 # <a name="october-2021-announcements"></a>Ekim 2021 duyuruları
 
@@ -74,7 +74,7 @@ Bulut Çözümü Sağlayıcısı programına katılan doğrudan fatura ortaklar�
 
 ### <a name="details"></a>Ayrıntılar
 
-Çevrimiçi hizmetler ve yazılım kanalı yetkilendirmesi 'nin bu alt bölümüne uygun olarak, bu bölümün altında "değişikliklere ilişkin değişiklikler" başlıklı, Microsoft Iş ortağı sözleşmenizde Microsoft Iş ortağı anlaşmanızda, Microsoft 'un çevrimiçi hizmetler ve yazılım kanalı yetkilendirme kılavuzunun güncellendiğine yönelik olduğunu bildirmek üzere bu bölüm altında yer alan "değişiklikler" başlığı altında Burada bulunan değişiklikleri gösteren bir Redline ile [güncelleştirilmiş](https://partner.microsoft.com/resources/detail/update-guide-online-services-software-channel-authorization-download-pdf) kılavuzun Önizlemesi [sunulmaktadır.](https://partner.microsoft.com/resources/detail/update-guide-online-services-software-channel-authorization-download-pdf) Güncelleştirme, bu bildirimin tarihinden itibaren 30 gün geçerli olacaktır. Sizin tarafınızdan alınması gereken başka bir işlem yok.
+Çevrimiçi hizmetler ve yazılım kanalı yetkilendirmesi 'nin bu alt bölümüne uygun olarak, bu bölümün altında "değişikliklere ilişkin değişiklikler" başlıklı, Microsoft Iş ortağı sözleşmenizde Microsoft Iş ortağı anlaşmanızda, Microsoft 'un çevrimiçi hizmetler ve yazılım kanalı yetkilendirme kılavuzunun güncellendiğine yönelik olduğunu bildirmek üzere bu bölüm altında yer alan "değişiklikler" başlığı altında Burada bulunan değişiklikleri gösteren bir Redline ile [güncelleştirilmiş](https://partner.microsoft.com/resources/detail/update-guide-online-services-software-channel-authorization-download-pdf) kılavuzun Önizlemesi [sunulmaktadır.](https://partner.microsoft.com/resources/detail/update-guide-online-services-software-channel-authorization-redline-download-pdf) Güncelleştirme, bu bildirimin tarihinden itibaren 30 gün geçerli olacaktır. Sizin tarafınızdan alınması gereken başka bir işlem yok.
 
 ### <a name="next-steps"></a>Sonraki adımlar
 
