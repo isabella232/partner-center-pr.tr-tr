@@ -305,7 +305,7 @@
     - name: Lisanslama kaynakları
       href: support-resources-licensing.md
     - name: Azure CSP abonelikleri için yönetici ayrıcalıklarını yeniden devreye sokma
-      href: revoke-reinstate-csp.md
+      href: reinstate-csp.md
     - name: Azure aboneliklerini aktarma
       href: switch-azure-subscriptions-to-a-different-partner.md
     - name: Lisans tabanlı hizmet müşterilerini CSP programına taşıma

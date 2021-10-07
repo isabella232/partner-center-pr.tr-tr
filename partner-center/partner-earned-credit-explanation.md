@@ -9,12 +9,12 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: 56884a5a6cbfbade881154275129c63dcd3456d8
-ms.sourcegitcommit: fb9ca808f6362e81d65a6ba5770dc8820834a0ed
+ms.openlocfilehash: e4ce75e246139ab2384d478ca02b281848fb7521
+ms.sourcegitcommit: 76a7dac540d129ae15cd4c251a4ff43d768370da
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/24/2021
-ms.locfileid: "128422443"
+ms.lasthandoff: 10/06/2021
+ms.locfileid: "129593336"
 ---
 # <a name="how-the-partner-earned-credit-is-calculated-and-paid"></a>İş ortağı kazanılmış kredisinin hesaplanması ve ödenmesi
 
@@ -27,7 +27,7 @@ Varsayılan olarak, bir CSP iş ortağı olarak, müşterinizin aboneliğine ger
 Aylık fatura miktarı, iş ortağının kazanılan kredisinin bir ağı olur. , Aylık keşfi dosyanızda PEC ayrıntılarını görebilirsiniz. Müşterinin deneyimidir iş ortağı için erişim sağlayabildiği ek yollar için aşağıdaki makalelere bakın:
 
 - [Azure planı kapsamındaki abonelikleri ve kaynakları yönetme](azure-plan-manage.md)
-- [Azure CSP abonelikleri için yönetici ayrıcalıklarını yeniden devreye sokma](revoke-reinstate-csp.md)
+- [Azure CSP abonelikleri için yönetici ayrıcalıklarını yeniden devreye sokma](reinstate-csp.md)
 
 ## <a name="eligibility"></a>Önceliği
 
@@ -35,7 +35,7 @@ Ortağın kazanılmış kredisi (PEC) almak için aşağıdaki gereksinimler ge�
 
 - Etkin bir MPN sözleşmenize ve geçerli rol tabanlı [erişim denetimi](azure-roles-perms-pec.md) [(RBAC)](/azure/role-based-access-control/overview) rolüne sahip olmanız gerekir.
 - Müşterinin Azure aboneliğinde, Azure Kaynak grubunda veya Azure kaynağında veya geçerli bir [RBAC rolünde](azure-roles-perms-pec.md) [adına yönetici (Aobo)](https://channel9.msdn.com/Series/cspdev/Module-11-Admin-On-Behalf-Of-AOBO) ayrıcalıklarına sahip olmanız gerekir.
-- Dolaylı sağlayıcılar ve dolaylı satıcılarında, dolaylı sağlayıcı veya dolaylı satıcı veya her ikisinin de AOBO ayrıcalıklarına veya uygun bir RBAC rolüne sahip olması durumunda, bir dolaylı sağlayıcı PEC 'e uygundur. Daha fazla bilgi için bkz. [Azure CSP abonelikleri için yeniden devreye sokma yönetici ayrıcalıkları](revoke-reinstate-csp.md).
+- Dolaylı sağlayıcılar ve dolaylı satıcılarında, dolaylı sağlayıcı veya dolaylı satıcı veya her ikisinin de AOBO ayrıcalıklarına veya uygun bir RBAC rolüne sahip olması durumunda, bir dolaylı sağlayıcı PEC 'e uygundur. Daha fazla bilgi için bkz. [Azure CSP abonelikleri için yeniden devreye sokma yönetici ayrıcalıkları](reinstate-csp.md).
 - İş ortağı MPN KIMLIĞI, Satınalmacı MPN KIMLIĞI veya kayıt Iş ortağı (POR) MPN KIMLIĞI ile aynı v-org 'a ait olmalıdır. Daha fazla bilgi için bkz. [İş ortağı kimliğinizi, temsilci atanan kaynaklardaki etkinizi izleyecek şekilde bağlama](/azure/lighthouse/how-to/partner-earned-credit).
 - PEC, Azure Kaynak düzeyinde, kaynak grubunda veya abonelikte kazanıldır. Bir iş ortağı, abonelik veya kaynak grubu düzeyinde geçerli erişime sahipse, daha yüksek varlığa kaydolan her kaynak PEC 'e kazanacaktır.
 - PEC, aşağıdaki hizmetler için geçerli değildir:
@@ -113,7 +113,7 @@ PEC kazancı, faturada ayarlanan net ücretler satırına bölünmüştür. Aşa
 - [CSP 'de Azure için yeni ticari deneyim fiyat listesi](azure-plan-price-list.md)
 - [Azure planı kapsamındaki abonelikleri ve kaynakları yönetme](azure-plan-manage.md)
 - [CSP'de yeni ticari deneyim - Azure faturalama](azure-plan-billing.md)
-- [Azure CSP abonelikleri için yönetici ayrıcalıklarını yeniden devreye sokma](revoke-reinstate-csp.md)
+- [Azure CSP abonelikleri için yönetici ayrıcalıklarını yeniden devreye sokma](reinstate-csp.md)
 - [İş ortağı kazanılmış kredi-genel bakış](partner-earned-credit.md)
 - [Roller, iş ortağı kazanılmış kredi için izinler](azure-roles-perms-pec.md)
 - [Iş ortağı kazanılmış krediyi anlama (kılavuz)](https://partner.microsoft.com/resources/detail/understanding-partner-earned-credit-pdf) (oturum açma gerekir)

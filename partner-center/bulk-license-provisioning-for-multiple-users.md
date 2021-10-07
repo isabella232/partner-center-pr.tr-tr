@@ -9,12 +9,12 @@ author: amitravat
 ms.author: amrava
 ms.localizationpriority: medium
 ms.custom: SEOJUNE.20
-ms.openlocfilehash: 256e93499a3a9b2786d8d1a309077b645aecd81c
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.openlocfilehash: d31e8c6825a1caa4e0bb5bf8fb78c3619d802dc3
+ms.sourcegitcommit: 76a7dac540d129ae15cd4c251a4ff43d768370da
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126248311"
+ms.lasthandoff: 10/06/2021
+ms.locfileid: "129592780"
 ---
 # <a name="assign-or-revoke-licenses-at-the-same-time-to-multiple-users-in-a-customer-account"></a>Bir müşteri hesabında birden çok kullanıcıya aynı anda lisans atama veya iptal etme
 
@@ -22,7 +22,7 @@ ms.locfileid: "126248311"
 
 Bir kullanıcıya veya birden çok kullanıcıya aynı anda bir müşteri hesabıyla lisans ve hizmet atayabilirsiniz ve kullanıcılara lisans atamalarını iptal etme.
 
-Bu İş Ortağı Merkezi tüm müşteriye ait lisans yetkilendirmelerini izler ve gösterir.
+Bu İş Ortağı Merkezi, müşteriye ait tüm lisans yetkilendirmelerini izler ve gösterir.
 
 ## <a name="assign-licenses-to-multiple-users"></a>Birden çok kullanıcıya lisans atama
 
@@ -32,7 +32,7 @@ Bu İş Ortağı Merkezi tüm müşteriye ait lisans yetkilendirmelerini izler v
 
 3. Listeden iki veya daha fazla kullanıcı için onay kutusunu seçin. (Geçerli sayfada tüm kullanıcıları seçmek için Kullanıcılar sütunlarının üst kısmında yer alan onay **kutusunu** işaretleyin.)
 
-    İlk, Önceki , Sonraki ve Son araçlarını kullanarak birden **çok** **sayfada kullanıcıları** **bulabilir** **ve seçebilirsiniz.**
+    İlk, Önceki , Sonraki ve Son araçlarını kullanarak birden **çok** **sayfada** kullanıcıları **bulabilir** **ve seçebilirsiniz.**
 
 4. Seçili **Kullanıcılar bağlantısını** seçin. Görüntülenen listede seçili kullanıcılar gösterilir.
 
@@ -44,11 +44,11 @@ Bu İş Ortağı Merkezi tüm müşteriye ait lisans yetkilendirmelerini izler v
 
        - Seçili tüm kullanıcılar zaten bir lisansa sahip olduğunda ürünün onay kutusu doldurulur.
 
-       - Seçili kullanıcılardan bazılarının bir ürün lisansı varsa, ürünün onay kutusu kısmen doldurulur.
+       - Seçilen kullanıcılardan bazılarının bir ürün lisansı varsa, ürünün onay kutusu kısmen doldurulur.
 
        - Seçili kullanıcıların hiçbiri ürün lisansına sahip değilse onay kutusu temizdir.
 
-    - Seçilen her kullanıcı sayfanın üst kısmında bulunan küçük bir kutuda görünür. Kullanıcılar sıralanmış sırada görünür.
+    - Seçilen her kullanıcı sayfanın üst kısmında küçük bir kutuda görünür. Kullanıcılar sıralanmış sırada görünür.
 
     - Zaten lisansı olan seçili **kullanıcıları gösteren** bir araç ipucu listesini görüntülemek için Atanan sütunundaki herhangi bir bağlantıyı seçin.
 
@@ -56,7 +56,7 @@ Bu İş Ortağı Merkezi tüm müşteriye ait lisans yetkilendirmelerini izler v
 
 6. Lisans **ata ve iptal etme** altında yeni kullanıcıların ürün lisanslarını seçin. 
 
-   Örneğin, seçili kullanıcıların hiçbiri lisansa sahip Office 365 Kurumsal ve bunları eklemek istemiyorsanız onay kutusunu işaretleyin. Seçilen her ürün için yeterli lisansa ihtiyacınız vardır.
+   Örneğin, seçili kullanıcıların hiçbirinin lisansları Office 365 Kurumsal ve bunları eklemek istemiyorsanız onay kutusunu işaretleyin. Seçilen her ürün için yeterli lisansa ihtiyacınız vardır.
 
 7. Her ürünün onay kutusunu seçerek kullanıcılar için birden fazla ürün seçin.
     -   Kullanıcıların **ihtiyacı olan hizmet** planlarını görüntülemek ve seçmek için Herhangi bir ürün için hizmet planlarını görüntüle'yi seçin.
@@ -64,7 +64,7 @@ Bu İş Ortağı Merkezi tüm müşteriye ait lisans yetkilendirmelerini izler v
 8. **Kaydet**’i seçin. Bu İş Ortağı Merkezi, kullanıcıları **ve yeni lisanslarını** listeleen Lisanslar güncelleştirilmiş onay sayfasını açar.
 
 >[!NOTE]
->Bazı Microsoft ürünleri belirli konumlarda kullanılamıyor olabilir. Diğer ürünler diğer ürünlere veya hizmetlere bağımlıdır veya aynı kullanıcıya birlikte atanabilir. Kaydetmeden sonra, onay sayfası başarılı lisans atamalarından gelen tüm kullanıcıların sonuçlarını ve lisans ataması hatalarını listeler.
+>Bazı Microsoft ürünleri belirli konumlarda kullanılamıyor olabilir. Diğer ürünler diğer ürünlere veya hizmetlere bağımlıdır veya aynı kullanıcıya birlikte atanabilir. Kaydetmeden sonra, onay sayfasında başarılı lisans ataması sonuçları ve lisans ataması hataları görüntülenir.
 
 ## <a name="revoke-users-license-assignments"></a>Kullanıcıların lisans atamalarını iptal etme
 
@@ -90,4 +90,4 @@ Bu İş Ortağı Merkezi tüm müşteriye ait lisans yetkilendirmelerini izler v
 
 - [Bir kullanıcıya lisans atama](assign-licenses-to-users.md)
 
-- [Müşterinin abonelikleri için yönetici ayrıcalıklarını yeniden Azure CSP olun](revoke-reinstate-csp.md)
+- [Müşterinin abonelikleri için yönetici ayrıcalıklarını yeniden Azure CSP olun](reinstate-csp.md)

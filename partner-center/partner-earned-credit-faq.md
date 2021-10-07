@@ -9,22 +9,22 @@ author: adamyeh
 ms.author: adamyeh
 ms.localizationpriority: high
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ae78b13ae17b223e1cb540bea50168d02bcb9a1c
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.openlocfilehash: 7e09a4f82704a7336ea7a30241219f9e19d2ef5c
+ms.sourcegitcommit: 76a7dac540d129ae15cd4c251a4ff43d768370da
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126248469"
+ms.lasthandoff: 10/06/2021
+ms.locfileid: "129593285"
 ---
 # <a name="frequently-asked-questions-for-partner-earned-credit"></a>İş ortağı tarafından kazanılan kredi için sık sorulan sorular
 
 Uygun roller: Genel yönetici | Kullanıcı yönetimi yönetici | Yönetici aracısı | Faturalama yöneticisi | Satış aracısı
 
-Aşağıda, iş ortağı tarafından kazanılmış krediyle ilgili sık sorulan soruların bir listesi ve ardından gelir.
+Aşağıda, iş ortağı tarafından kazanılmış krediyle ilgili sık sorulan soruların bir listesi ve ardından ve ardından gelir.
 
 ## <a name="how-much-is-pec"></a>PEC ne kadardır?
 
-İş ortaklarının PEC için kazandığı miktar farklılık gösterir (bkz. [Hesaplama).](partner-earned-credit-explanation.md#calculation) Fiyat, fiyat listesi sayfasındaki İş Ortağı Merkezi.
+İş ortaklarının PEC için kazandığı miktar farklılık gösterir (bkz. [Hesaplama).](partner-earned-credit-explanation.md#calculation) Fiyat, fiyat listesi sayfasındaki fiyat listesi sayfasında İş Ortağı Merkezi.
 
 ## <a name="what-azure-services-are-eligible-for-pec"></a>Hangi Azure hizmetleri PEC için uygun?
 
@@ -44,7 +44,7 @@ PEC ayrıntıları doğrudan iş ortakları tarafından API, [günlük keşif](p
 
 ## <a name="how-can-i-reconcile-my-pec-information-across-the-two-recon-files"></a>İki mutabakat dosyası arasında PEC bilgilerimi nasıl mu mutabakata varabilirsiniz?
 
-Faturalama'nın altında bulunan İş Ortağı Merkezi iki mutabakat dosyası bulunur.
+Faturalama'nın altındaki İş Ortağı Merkezi iki mutabakat dosyası bulunur.
 
 - Günlük puanlanan kullanım mutabakatı-son etkinlik (.csv)
 - Mutabakat-son etkinlik (.csv)
@@ -59,7 +59,7 @@ Evet, CSP Indirect Provider Azure aboneliği üzerinde Dolaylı Kurumsal Bayi'ye
 
 ## <a name="what-happens-if-a-customer-removes-a-partners-rbac-admin-access"></a>Müşteri iş ortağının RBAC yönetici erişimini kaldırırsa ne olur?
 
-CSP'de uygun RBAC erişimi olmayan bir iş ortağı, müşterinin Azure faturalama ilişkisini ve Microsoft ile sorumluluklarını korur. Bu, CSP'de önceki Azure teklifini satan bir iş ortağını etkilemese de, CSP'de yeni Azure teklifi için faturalanmış iş ortağı, Azure faturalarında PEC için uygun olmaz. İş ortakları, RBAC kullanarak Dizin/Konuk erişimi aracılığıyla bir kullanıcı hesabı üzerinden veya sanal ağ üzerinden erişim elde etmek yoluyla CSP'de kısmi yönetici erişimi Azure Lighthouse. Daha fazla bilgi için [bkz. Müşterinin abonelikleri için yönetici ayrıcalıklarını Azure CSP.](revoke-reinstate-csp.md)
+CSP'de uygun RBAC erişimi olmayan bir iş ortağı, müşterinin Microsoft ile Azure faturalama ilişkisini ve sorumluluklarını korur. Bu, CSP'de önceki Azure teklifini satan bir iş ortağını etkilemese de, CSP'de yeni Azure teklifi için faturalanmış iş ortağı, Azure faturalarında PEC için uygun olmaz. İş ortakları, RBAC kullanarak Dizin/Konuk erişimi aracılığıyla bir kullanıcı hesabı üzerinden veya sanal ağ üzerinden erişim elde etmek yoluyla CSP'de kısmi yönetici erişimi Azure Lighthouse. Daha fazla bilgi için [bkz. Müşterinin abonelikleri için yönetici ayrıcalıklarını Azure CSP.](reinstate-csp.md)
 
 :::image type="content" source="images/advanced-specializations/permissions.png" alt-text="Yönetici izinlerini yeniden yönetebilirsiniz Erişim denetimi sayfasının ekran görüntüsü." border="false":::
 
@@ -68,18 +68,18 @@ CSP'de uygun RBAC erişimi olmayan bir iş ortağı, müşterinin Azure faturala
 bir iş ortağının müşterinin Azure kaynaklarına uygun erişime sahip olduğunu onaylaması için çeşitli yollar vardır.
 
 - Günlük kullanım dosyasını gözden geçirme: Bir iş ortağı Yönetilen Hizmetler için İş Ortağı Tarafından Kazanılan Krediyi alıyorsa yönetici erişimine sahip olur. Bu, günlük kullanım dosyasındaki birim fiyatı ve geçerli birim fiyatı gözden geçirerek ve indirim uygulanıyorsa onay ile belirlenebilirsiniz.
-- Özel Azure İzleyici oluşturma: RBAC [](/azure/azure-monitor/platform/alerts-activity-log) erişiminiz CSP aboneliklerinden kaldırıldığı zaman bildirim almak için Azure İzleyici kullanarak etkinlik günlüğü uyarıları oluşturabilirsiniz. İş Ortağı Tarafından Kazanılan Krediyi Anlama kılavuzuna ve teknik belgelere bakın.
+- Azure İzleyici Uyarısı oluşturma: RBAC [](/azure/azure-monitor/platform/alerts-activity-log) erişiminiz CSP aboneliklerinden kaldırıldığı Azure İzleyici bildirim almak için Azure İzleyici kullanarak etkinlik günlüğü uyarıları oluşturabilirsiniz. İş Ortağı Tarafından Kazanılan Krediyi Anlama kılavuzuna ve teknik belgelere bakın.
 
 ## <a name="why-dont-i-see-pec-on-the-invoice"></a>Neden faturada PEC göremiyorum?
 
-PEC açıkça faturada çağrılmaz ve PEC'i görüntülemek için ayrı bir satır öğesi yoktur, ancak PEC kazançları faturada ayarlanmış net ücretler tutarına göre dikkate alınarak elde edilecektir. PEC ayrıntılarını nerede görüntüleyebilirsiniz hakkında daha fazla bilgi edinmek için hesaplamayı ve PEC ücretli bölümlerini görüntüleme.
+PEC açıkça faturada çağrılmaz ve PEC'i görüntülemek için ayrı bir satır öğesi yoktur, ancak PEC kazançları faturada ayarlanmış net ücretler tutarına dahil olur. PEC ayrıntılarını nerede görüntüleyebilirsiniz hakkında daha fazla bilgi edinmek için hesaplamayı ve PEC ücretli bölümlerini görüntüleme.
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
 - [Yeni ticari deneyim için fiyat listesi CSP'de Azure](azure-plan-price-list.md)
 - [Azure planı kapsamındaki abonelikleri ve kaynakları yönetme](azure-plan-manage.md)
 - [CSP'de yeni ticari deneyim - Azure faturalama](azure-plan-billing.md)
-- [Azure CSP abonelikleri için yönetici ayrıcalıklarını yeniden devreye sokma](revoke-reinstate-csp.md)
+- [Azure CSP abonelikleri için yönetici ayrıcalıklarını yeniden devreye sokma](reinstate-csp.md)
 - [İş ortağı tarafından kazanılan kredi - genel bakış](partner-earned-credit.md)
 - [Roller, iş ortağı tarafından kazanılan kredi izinleri](azure-roles-perms-pec.md)
 - [İş Ortağı Tarafından Kazanılan Krediyi Anlama (kılavuz)](https://partner.microsoft.com/resources/detail/understanding-partner-earned-credit-pdf) (oturum açma gereklidir)

@@ -9,12 +9,12 @@ author: amitravat
 ms.author: amrava
 ms.localizationpriority: High
 ms.custom: SEOMAY.20
-ms.openlocfilehash: ce0eaa6a4ec04dc514b241b7f90bf32dd3106e41
-ms.sourcegitcommit: 37eac16c4339cb97831eb2a86d156c45bdf6a531
+ms.openlocfilehash: 014e6e41f0243784dc3e5cac9668b717f6abf90c
+ms.sourcegitcommit: 76a7dac540d129ae15cd4c251a4ff43d768370da
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 09/13/2021
-ms.locfileid: "126248334"
+ms.lasthandoff: 10/06/2021
+ms.locfileid: "129593319"
 ---
 # <a name="manage-subscriptions-and-resources-under-the-azure-plan"></a>Azure planı kapsamındaki abonelikleri ve kaynakları yönetme
 
@@ -81,7 +81,7 @@ PEC kazanmak için uygun rolleri görmek için, [iş ortağı tarafından kazan�
 
 ## <a name="next-steps"></a>Sonraki adımlar
 
-- [Azure CSP abonelikleri için yönetici ayrıcalıklarını iptal etme ve yeniden verme](revoke-reinstate-csp.md)
+- [Azure CSP abonelikleri için yönetici ayrıcalıklarını daha önce belirten](reinstate-csp.md)
 
 - [İş ortağı kazanılmış kredi-genel bakış](partner-earned-credit.md)
 
