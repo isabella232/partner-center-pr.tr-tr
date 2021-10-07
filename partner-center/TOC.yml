@@ -140,7 +140,7 @@
           href: learn-about-competencies.md
         - name: Uygulama Geliştirme yetkinlik istisnası
           href: app-dev-isv.md
-        - name: İş Ortağı olarak Learning olun
+        - name: İş Ortağı olarak Learning kaydetme
           href: mpn-benefits-map-competency-learning-option-enroll.md
         - name: Yetkinlikler hakkında SSS
           href: competencies-faq.yml
@@ -212,19 +212,21 @@
           href: routing-rules.md
         - name: Ortak satış CRM bağlayıcıları kullanma
           items:
-            - name: Dynamics 365 için bağlayıcı
+            - name: Dynamics 365 bağlayıcısı
               href: connector-dynamics.md
-            - name: Salesforce için bağlayıcı
+            - name: Salesforce bağlayıcısı
               href: connector-salesforce.md
             - name: Bağlayıcılarla ilgili sorunları giderme
               href: connectors-troubleshoot.md
         - name: Ortak satış - PSC'den PC'ye geçiş
           href: psc-to-pc.md
-        - name: IOT PSC 'den PC 'ye geçiş
+        - name: IOT PSC'den PC'ye geçiş
           href: partner-sales-connect-to-partner-center-iot.md
     - name: Anlaşmalarınızı kaydetme
       href: register-deals.md
-    - name: Başvurularda SSS
+    - name: Çözüm değerlendirmelerini yönetme
+      href: solution-assessments.md
+    - name: Referanslar hakkında SSS
       href: referrals-faq.md
 - name: Müşteriler
   items:
@@ -264,11 +266,11 @@
           href: bulk-license-provisioning-for-multiple-users.md
         - name: Hizmet durumunu kontrol etme
           href: check-service-health.md
-        - name: Microsoft Müşteri sözleşmesinin müşteri kabulünü onaylama
+        - name: Müşterinin müşterinin kabulünü onaylama Microsoft Müşteri Sözleşmesi
           href: confirm-customer-agreement.md
         - name: Müşteri aboneliklerini yönetme
           href: create-a-new-subscription.md
-        - name: Abonelikleri yeni ticarete geçir
+        - name: Abonelikleri yeni ticarete geçirme
           href: migrate-subscriptions-to-new-commerce.md
         - name: CSP programı aracılığıyla şirket içi yazılım satma
           href: csp-on-premises-software.md
@@ -298,9 +300,9 @@
           href: report-problems-on-behalf-of-a-customer.md
         - name: Bir müşteriyle kurumsal bayi ilişkisi isteme
           href: request-a-relationship-with-a-customer.md
-    - name: Microsoft Müşteri anlaşmaları
+    - name: Microsoft Müşteri Anlaşmaları
       href: agreements.md
-    - name: İş ortağı Bulucu listeleme sertifikası
+    - name: İş Ortağı Bulıcı listeleme sertifikası
       href: partner-finder-certification.md
     - name: Lisanslama kaynakları
       href: support-resources-licensing.md
@@ -330,7 +332,7 @@
           href: recon-file-charge-types.md
         - name: Kullanım tabanlı mutabakat dosyaları
           href: usage-based-recon-files.md
-        - name: Günlük olarak derecelendirilen kullanım mutabakatı dosyaları
+        - name: Günlük olarak derecelendirilmiş kullanım mutabakat dosyaları
           href: daily-rated-usage-recon-files.md
         - name: Lisansa dayalı mutabakat dosyaları
           href: license-based-recon-files.md
@@ -338,7 +340,7 @@
           href: modern-invoice-reconciliation-file.md
         - name: Geçerli birim fiyat hesaplaması
           href: effective-unit-price-calculation.md
-        - name: Kredi limiti zorlaması
+        - name: Kredi limiti zorlama
           href: credit-limit-enforcement.md
         - name: CSP'de yeni ticari deneyim - Azure faturalama
           href: azure-plan-billing.md
@@ -369,7 +371,7 @@
       href: digital-signature.md
     - name: Vergi ve vergi muafiyetleri
       items:
-        - name: Ülke veya bölgeye göre vergi muafiyetleri
+        - name: Ülkeye veya bölgeye göre vergi muafiyetleri
           href: tax-and-tax-exemptions.md
         - name: Şirket KDV bilgileri
           href: organization-tax-info.md
@@ -383,7 +385,7 @@
   items:
     - name: Fiyatlandırmaya genel bakış
       href: pricing-and-offers.md
-    - name: Ticari Market fiyatlandırması
+    - name: Ticari market fiyatlandırması
       items:
         - name: Ticari markete genel bakış
           href: csp-commercial-marketplace-overview.md
@@ -391,8 +393,10 @@
           href: csp-commercial-marketplace-discover.md
         - name: Market tekliflerini satın alma
           href: csp-commercial-marketplace-purchase.md
-        - name: Market teklifte lisanslamayı yönetme
+        - name: Market tekliflerini lisanslama yönetme
           href: csp-commercial-marketplace-licensing.md
+        - name: Market kenar boşlukları
+          href: csp-commercial-marketplace-margins.md
         - name: Bağımsız Yazılım Satıcılarından markete özel teklifler
           href: isv-opt-in.md
         - name: Market tekliflerini yönetme
@@ -607,11 +611,11 @@
   href: /azure/marketplace
 - name: Ödemeler
   items:
-    - name: Ödemelere genel bakış
+    - name: Ödeme genel bakış
       href: non-payment-fraud-misuse.md
     - name: Cep telefonu operatörü faturalaması
       href: mobile-operator-billing.md
-    - name: Market teklifleri aracılığıyla ödeme alma
+    - name: Market tekliflerini ödeten öğrenin
       href: marketplace-get-paid.md
     - name: 'Ödeme eşikleri, yöntemleri ve zaman çerçeveleri'
       href: payment-thresholds-methods-timeframes.md
@@ -621,17 +625,17 @@
       href: payout-policy-details.md
     - name: Ödeme deyimleri
       href: payout-statement.md
-    - name: Gelir özeti
+    - name: Gelir Özeti
       href: revenue-summary.md
-    - name: Ödemelerin verileri dışarı aktarma sayfası
+    - name: Ödeme verileri dışarı aktarma sayfası
       href: payouts-enhanced-exports.md
-    - name: Ticari market ödeme ve vergi profillerini ayarlama
+    - name: Ticari Market ödeme ve vergi profillerini ayarlama
       href: set-up-your-payout-account.md
     - name: Ticari market yayıncıları için vergi bilgileri
       href: tax-details-marketplace.md
     - name: Vergileri anlama
       items:
-        - name: Vergi ilkeleri ödemeyi nasıl etkiler?
+        - name: Vergi ilkelerinin ödeme nasıl etkilediği
           href: tax-policies-affect-payout.md
         - name: Microsoft tarafından verilen IRS vergi formlarını anlama
           href: understand-irs-tax-forms.md
@@ -639,13 +643,13 @@
   items:
     - name: Analizler genel bakış
       href: insights-overview.md
-    - name: Üyelik içgörüleri
+    - name: Üyelik öngörüleri
       items:
-        - name: Üyelik içgörüleri'ne genel bakış
+        - name: Üyelik öngörülerine genel bakış
           href: partner-center-insights.md
         - name: Üyelik rol tabanlı erişim
           href: insights-roles.md
-        - name: Üyelik raporu ayrıntıları
+        - name: Üyelik Raporu ayrıntıları
           items:
             - name: Genel Bakış
               href: insights-overview-report.md
@@ -679,7 +683,7 @@
               href: insights-customer-opportunities.md
             - name: Ürün lisansları
               href: insights-product-licenses-report.md
-        - name: Üyelik içgörüleri hakkında SSS
+        - name: Üyelik öngörüleri hakkında SSS
           href: insights-known-issues.md
         - name: Raporları indir
           href: insights-download-reports.md
@@ -691,33 +695,33 @@
               href: partner-contribution-indicators.md
             - name: Küçük ve Orta Ölçekli Kuruluşlarda Bulut Çözümleri yeterliliği için
               href: partner-contribution-indicators-small-and-midmarket-cloud-business-option.md
-    - name: Referans içgörüleri
+    - name: Başvuru öngörüleri
       href: referral-insights.md
-    - name: Bulut Çözümü Sağlayıcısı içgörüleri
+    - name: Bulut Çözümü Sağlayıcısı öngörüler
       items:
         - name: Abonelik verilerine ve analizlerine erişme
           href: data-analysis-lp.md
         - name: Müşteri Azure kullanımı
           href: analyze-azure-usage.md
-        - name: Referans analizi
+        - name: Başvuru Analizi
           items:
-            - name: Müşteri adayı içgörüleri alın
+            - name: Müşteri adayları öngörülerini alın
               href: referral-leads-insights.md
-            - name: Referans analizi veri tanımı
+            - name: Başvuru Analizi veri tanımı
               href: referral-analytics-data-definition.md
         - name: Dolaylı kurumsal bayi performansı
           href: analyze-indirect-resellers.md
         - name: Abonelikler ve lisanslar
           href: analyze-subscriptions-licenses.md
-    - name: Öngörülere programlı erişim
+    - name: Öngörüler için programlı erişim
       items:
         - name: başlarken
           href: insights-programmatic-get-started.md
-        - name: Programlı erişim için önkoşullar
+        - name: Programlı erişim önkoşulları
           href: insights-programmatic-prerequisites.md
         - name: Programlı erişim paradigması
           href: insights-programmatic-access-paradigm.md
-        - name: İlk programlı API çağrınızı yapma
+        - name: İlk programlı API çağrısını yapın
           href: insights-programmatic-first-api-call.md
         - name: Sistem sorgularının listesi
           href: insights-programmatic-system-queries.md
@@ -737,25 +741,25 @@
               href: insights-programmatic-analytics-api-get-dataset.md
             - name: Rapor sorgularını al
               href: insights-programmatic-analytics-api-get-report-queries.md
-            - name: Rapor sorgularını silme
+            - name: Rapor sorgularını Sil
               href: insights-programmatic-analytics-api-delete-report-queries.md
             - name: Rapor sorgularını deneyin
               href: insights-programmatic-analytics-api-try-report-queries.md
             - name: Rapor al
               href: insights-programmatic-analytics-api-get-report.md
-            - name: Raporu güncelleştirme
+            - name: Raporu Güncelleştir
               href: insights-programmatic-analytics-api-update-report.md
             - name: Raporu sil
               href: insights-programmatic-analytics-api-delete-report.md
-            - name: Rapor yürütmelerini duraklatma
+            - name: Rapor yürütmelerini Duraklat
               href: insights-programmatic-analytics-api-pause-report-executions.md
-            - name: Rapor yürütmelerini sürdürme
+            - name: Rapor yürütmelerini sürdürür
               href: insights-programmatic-analytics-api-resume-report-executions.md
 - name: Yardım + destek
   items:
-    - name: Yardım + de destek genel bakış
+    - name: Yardım ve desteğe genel bakış
       href: support-from-microsoft.md
     - name: İş Ortağı Merkezi'nde raporlama sorunları
       href: report-problems-with-partner-center.md
-    - name: Otomatik hizmet bildirimlerini al
+    - name: Otomatik hizmet bildirimleri al
       href: get-automated-service-notifications-with-our-apis.md
