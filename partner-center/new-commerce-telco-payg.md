@@ -9,12 +9,12 @@ author: BrentSerbus
 ms.author: brserbus
 ms.localizationpriority: medium
 ms.custom: SEOMAY.20
-ms.openlocfilehash: a6abf0a837758819fba8c3a584ba68216657a2b9
-ms.sourcegitcommit: 76a7dac540d129ae15cd4c251a4ff43d768370da
+ms.openlocfilehash: 44e999987021ca450da1eb24cbd310a3e35b0873
+ms.sourcegitcommit: cf73ea8967a285cc14b281e7b938962c02b18e67
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/06/2021
-ms.locfileid: "129593251"
+ms.lasthandoff: 10/08/2021
+ms.locfileid: "129689709"
 ---
 # <a name="introduction-new-commerce-overage-for-telco-pay-as-you-go"></a>Giriş: Telco pay-as-you-go için yeni ticari fazla veri
 
@@ -45,9 +45,15 @@ Fazla kullanılabilirlik özelliğine sahip ürünler satın alan iş ortakları
 > [!NOTE]
 > Fazla kullanım yönetimi için bir Azure planı oluşturma gerekir. Varsayılan olarak iş ortakları kendi korumalı alan hesaplarını kullanarak Azure planları sağlayamaz. Bunu kendi korumalı alan hesaplarıyla yapması gereken iş ortaklarının erişim için başvurması gerekir. Daha fazla kaynak, Azure planı korumalı [alan belgelerinde bulunabilir.](/partner-center/develop/test-and-debug#azure-plan)
 
-İş ortakları fazlalık atar veya abonelikler listesinde *Fazla kullanılabilirlik* yönetimi özelliği tarafından devre dışı ekleyebilirsiniz. Bu, yalnızca iş ortağının fazla kullanılabilirlik sağlayan abonelikleri varsa erişilebilir. Aylık fazla çalışma ücretleri atanan aboneliğe tahakkukır ve iş ortakları mutabakat dosyasında tanımlanır. İş ortakları, azure maliyet yönetimi özelliklerini siteden ziyaret ederek fazla kullanım Azure portal. 
+İş ortakları fazlalık atar veya abonelikler listesinde *Fazla kullanılabilirlik* yönetimi özelliği tarafından devre dışı ekleyebilirsiniz. Bu, yalnızca iş ortağının fazla kullanılabilirlik sağlayan abonelikleri varsa erişilebilir. Aylık fazla çalışma ücretleri atanan aboneliğe tahakkukır ve iş ortakları mutabakat dosyasında tanımlanır. İş ortakları, azure maliyet yönetimi özelliklerini kullanarak fazla kullanım Azure portal. 
 
 İş ortakları, maliyet yönetimi özelliklerini ve özelliklerini kullanarak Azure portal fazla kullanım kullanımını takip ediyor olabilir. 
+
+## <a name="pricing-and-margins"></a>Fiyatlandırma ve marjlar
+
+Müşteri sahip olduğu plan için ayrılan arama dakikası miktarını kullandığında, telco kullanabiliyorsa aylık kullanım temel alarak faturalandır. İş ortakları, bu ücretlerin fiyatlandırmalarını Microsoft Teams Telefon [sitesinden indirebilir.](https://www.microsoft.com/microsoft-teams/voice-calling) İş ortakları çeşitli **arama planlarının** ücretlerini indirmek ve görüntülemek için bu sayfada aramak istediğiniz Fiyatları görüntüle sayfasına gidebilir. 
+
+CsP hedef kitlesi için fiyatlandırma ve arama planı fazla kullanımı ücretleri belirli değildir veya azaltılamaz, kanaldan bağımsızdır. Fazlalık ücretleri için CSP indirimleri veya marjları yoktur. 
 
 ## <a name="important-details-about-overage"></a>Fazlalık hakkında önemli ayrıntılar
 

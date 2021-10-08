@@ -10,17 +10,69 @@ ms.custom:
 - announcement
 - references_regions
 ms.localizationpriority: high
-ms.date: 10/05/2021
-ms.openlocfilehash: 9cbe685abf6610b42c05d2f9229f93478c50ca69
-ms.sourcegitcommit: b78e85a0bc62e3536b067417cb3db7899cda4f97
+ms.date: 10/07/2021
+ms.openlocfilehash: 2cebf7af9b8cc9e843870a69a4403844673d7611
+ms.sourcegitcommit: cf73ea8967a285cc14b281e7b938962c02b18e67
 ms.translationtype: MT
 ms.contentlocale: tr-TR
-ms.lasthandoff: 10/06/2021
-ms.locfileid: "129565127"
+ms.lasthandoff: 10/08/2021
+ms.locfileid: "129689675"
 ---
 # <a name="october-2021-announcements"></a>Ekim 2021 duyuruları
 
 Bu sayfada, 2021 Ekim için Microsoft Iş Ortağı Merkezi duyuruları sağlanmaktadır.
+
+________________
+## <a name="marketplace-price-list-updates-for-cloud-solution-provider-csp-partners"></a><a name="5"></a>Bulut Çözümü Sağlayıcısı (CSP) iş ortakları için market fiyat listesi güncelleştirmeleri
+
+### <a name="categories"></a>Kategoriler
+
+- Tarih: 2021-10-08
+- Özellikler
+
+### <a name="impacted-audience"></a>Etkilenen hedef kitle
+
+Ticari market fiyat listesini kullanan CSP iş ortakları
+
+### <a name="summary"></a>Özet
+
+Market fiyat listesi 15 Kasım 2021 ' de güncelleştirilir.
+
+### <a name="details"></a>Ayrıntılar
+
+Yeni ticaret deneyiminde Iş ortağı merkezi fiyat listeleri arasında tutarlılık sağlamak için market fiyat listesi güncelleştiriyoruz.
+
+15 Kasım 2021 ' den market fiyat listesi yeni sütunlar ve güncelleştirilmiş üst bilgiler içerir. Bu duyuru yalnızca tanıma amaçlıdır. İş ortaklarının bu değişikliği desteklemesi için sistemlerinde değişiklikler yapması gerekebilir. 5 Kasım 2021 ' de yapılan iş ortaklarıyla ilgili daha fazla ayrıntıyı dijital Işlem Merkezi (DOC) aracılığıyla paylaşacağız.
+
+Erken bir önizleme almak için, yakında bekleneceğiniz değişiklikler aşağıda verilmiştir:
+
+| Geçerli sütun adı | Gelecek sütun adı (15 Kasım Itibariyle)|
+|-----------|--------------|
+Ürün | Ürün başlığı |
+| Tür | Yeni bir sütun ("Etiketler") altına taşınacak |
+| Subtype | Yeni bir sütun ("Etiketler") altına taşınacak |
+| Description | SKU açıklaması |
+| Faturalandırma sıklığı | Dönem süresi — P1Y veya P1M |
+| Satın alma birimi | Ölçü birimi |
+| Bölgeler | Pazara |
+| Süre | Faturalandırma planı — yıllık veya aylık |
+| Fiyat listesi | Birim fiyat |
+| Üretici tarafından önerilen perakende fiyatı (MSRP) | Tahmini perakende fiyatı (ERP) |
+|  | Fiyatlandırma Katmanı aralığı alt sınırı |
+|  | Fiyatlandırma Katmanı aralığı üst sınırı |
+|  | Geçerli başlangıç tarihi |
+|  | Geçerlilik bitiş tarihi |
+|  | Ölçüm kimlikleri |
+|  | Ölçüm türü |
+|  | Etiketler — Azure, hizmet olarak yazılım (SaaS) veya üçüncü taraf |
+
+### <a name="next-steps"></a>Sonraki adımlar
+
+Bu güncelleştirmeyi kuruluşunuzdaki uygun kişilerle paylaşabilirsiniz.
+
+### <a name="questions"></a>Sorularınız mı var?
+
+Sorularınız varsa, [Iş ortağı merkezi desteği sayfasını](https://partner.microsoft.com/support/?stage=1)ziyaret edin.
 
 ________________
 ## <a name="coming-soon-new-commerce-experience-for-csp-seat-based-offers-technical-release"></a><a name="4"></a>Yakında: CSP 'ye dayalı yeni ticari deneyim teknik yayını sunuyor
@@ -89,68 +141,68 @@ Yazılım Güvencesi (SA) ve çevrimiçi hizmetler Yenilemesiz ya da yazılım l
 ### <a name="categories"></a>Kategoriler
 
 - Tarih: 2021-10-04
-- Işletmenizi büyütün
+- İşletmenizi Büyüt
 
-### <a name="impacted-audience"></a>Etkilenen hedef kitle
+### <a name="impacted-audience"></a>Etkilene hedef kitle
 
-Açık lisans programı aracılığıyla iş ortakları deneyimidir teklifleri
+Açık Lisans programı aracılığıyla teklifleri işlemden geçen iş ortakları
 
 ### <a name="details"></a>Ayrıntılar
 
-Teknoloji, dünyanın her yerindeki iş yaptığımız şekilde dönüştürülüyor. Sektörünmiz, kuruluşların karma bir iş gücünü desteklemesi için ihtiyaç duyduğu esneklik, özellik ve ölçeklenebilirliği sağlayan bir bulut aboneliği iş modeline ağırlıklı sahiptir. Microsoft, iş ortaklarının ve müşterilerin başarılı ve dijital dönüşümden büyümesine yardımcı olmaya kararlıdır.
+Teknoloji, dünya çapında iş yapma yollarını dönüştürmektedir. Sektörlerimiz ağırlıklı olarak kuruluşların hibrit iş gücünü desteklemek için ihtiyaçlarında olduğu esneklik, özellikler ve ölçeklenebilirlik sağlayan bir bulut aboneliği iş modeline geçiş yaptı. Microsoft, iş ortaklarının ve müşterilerin dijital dönüşümle başarılı olması ve büyümesine yardımcı olmak için kararlıdır.
 
-Kendi dijital dönüşüm yolculuğuna devam ediyoruz ve şu konularla önceliklendirmemiz gerekir:
+Kendi dijital dönüşüm yolculuğumuza devam ediyoruz ve şu hedeflere öncelikli yatırımlar gerçekleştireceğiz:
 
 - Ticari deneyim platformumuz
 - Microsoft İş Ortağı Ağı
-- Lisanslama ve teşvikleri programlarınızı gelişen
+- Lisanslama ve teşvik programlarımızı geliştirerek
 
-iş ortaklarının müşterilerinin buluta taşınmasını, yeni tekliflerinden yararlanmasını ve bulutta Bulut Çözümü Sağlayıcısı (CSP) programı ile bulut teknolojisi pazarında büyük harfle yararlanmasını kolaylaştırıyoruz.
+İş ortaklarının, müşterilerin buluta taşınmalarına, yeni tekliflerden yararlanmalarına ve çekirdekte Bulut Çözümü Sağlayıcısı (CSP) programıyla bulut teknolojisi pazarının büyümesine yatırım yapmalarına yardımcı olmak için kolaylaştıracağız.
 
-**31 Aralık 2021, son gün için Transact Open lisans programı teklifleri.** Yazılım Güvencesi (SA) ve çevrimiçi hizmetler Yenilemesiz ya da yazılım lisansı ve çevrimiçi hizmetler yeni satın alma işlemleri, bundan sonra açık lisans programı aracılığıyla yapılabilir. Microsoft, 1 Temmuz 2021 ' de açık lisans programında yeni teklifleri başlatmayı durdurdu. CSP 'deki yazılım daha iyi iş ortağı ekonomisi sunmaktadır. Bu nedenle, iş ortaklarının CSP programında deneyimidir kalıcı yazılım başlatması önerilir. Açık lisansın CSP 'ye geçirilmesine yönelik en son bilgiler ve isteğe bağlı web seminerleri dahil olmak üzere [Operasyon Hazırlığı galerisinde](https://partner.microsoft.com/resources/collection/csp-open-evolution-to-a-better-experience#/)yardımcı varlıkları gözden geçirin.
+**31 Aralık 2021, Açık Lisans programı tekliflerini işlem için son gün.** Daha sonra Yazılım Güvencesi (SA) ve çevrimiçi hizmetler yenilemesi veya çevrimiçi hizmetler lisans ve lisans satın alma işlemleri Açık Lisans programı aracılığıyla yapılabınır. Microsoft, 1 Temmuz 2021'de Open License programında yeni tekliflerin lansmanını durdurdu. CSP'de yazılım daha iyi iş ortağı ekonomisi sunar. Bu nedenle iş ortaklarının CSP programında kalıcı yazılımları hemen işlem yapmaya başlamalarını teşvik etmek istiyoruz. İş ortaklarının gerektiğinde müşterileri eklemesine ve geçirmesine yardımcı olmak için Açık Lisanstan CSP'ye geçişle ilgili en son bilgilerin yanı sıra isteğe bağlı webinar oturumları da dahil olmak üzere Operations [Readiness](https://partner.microsoft.com/resources/collection/csp-open-evolution-to-a-better-experience#/)galerisinde yararlı varlıkları gözden geçirme.
 
 ### <a name="next-steps"></a>Sonraki adımlar
 
-Henüz CSP programına eklendi olmayan iş ortakları için, **31 aralık 2021 ' nin, müşterileriniz için Transact Open lisans programı tekliflerine son gün** olduğunu unutmayın. Gece yarısı itibariyle, 1 Ocak 2022 ' deki yerel saat, CSP 'de kalıcı yazılım tekliflerini Transact için CSP programına katılmalıdır ve eklendi. Gelir akışlarınızı korumak için, daha sonra açık lisans programı müşterilerinizi daha önce daha önce geçiş yapmanız ve yeni satın alımlarını ve yenilemelerini CSP 'deki tekliflere, açık değere veya açık değer aboneliğine taşımanız gerekir.
+CSP programına henüz eklememiş iş ortakları için **31 Aralık 2021'in** müşterileriniz için Açık Lisans programı tekliflerini işlem için son gün olduğunu unutmayın. 1 Ocak 2022'de yerel saatle gece yarısından itibaren, iş ortaklarının CSP'de kalıcı yazılım tekliflerini işlem yapmak için CSP programına katılmış ve bu programa katılmış olması gerekir. Gelir akışlarınızı korumak için Open License programı müşterilerini daha sonra değil daha erken taşımanız ve yeni satın alma ve yenilemelerini CSP, Açık Değer veya Açık Değer Aboneliği tekliflerine taşımanız gerekir.
 
-ayrıca iş ortaklarının 3 ve 4 ' te (CSP 'de dolaylı satıcılar için iş ortağı merkezi ekleme ve genel bakış) ve 10 kasım 11 ' de (açık değer iş ortağı işlemleri konuları) oluşan dört farklı oturum kümesiyle oluşan dört farklı Office saat oturumunun birine katılması önerilir.
+İş ortaklarının ayrıca 3 ve 4 Kasım'da (CSP'de Dolaylı Kurumsal Bayiler için Ekleme ve Genel Bakış) 3 ve İş Ortağı Merkezi 11 Kasım'da (Açık Değerli İş Ortağı İşlemleri Konuları) oluşan dört Ops tarafından barındırılan Office Saat oturumundan birini birleştirmesi de teşvik edilecektir.
 
-- İş ortakları bu oturumlara şu ziyaret ederek önceki şekilde kaydedebilir: [Açık kullanımdan kaldırma-CSP/açık değere geçiş: Iş ortağı Işlemleri konuları](https://globalpbocomm.eventbuilder.com/OpenMigrationToCSPOV)
+- İş ortakları daha önce olduğu gibi aynı sitede şu oturumlara kaydolarak şunları ziyaret edebilirsiniz: Açık Emeklilik [- CSP'ye Geçiş/Açık Değer: İş](https://globalpbocomm.eventbuilder.com/OpenMigrationToCSPOV) Ortağı İşlemleri Ile ilgili Dikkat Edilmesi Gerekenler
 
-Bu güncelleştirmeyi, gereken şekilde dahili ekiplerle paylaşabilirsiniz.
+Bu güncelleştirmeyi gerektiğinde iç ekipleriniz ile paylaşın.
 
 ### <a name="questions"></a>Sorularınız mı var?
 
-Işlem hazırlığı galerisinde yardımcı varlıkları gözden geçirin:
+Operations Readiness galerisinde yararlı varlıkları gözden geçirme:
 
-- [CSP program evrimi ve açık lisans programı değişiklikleri](https://partner.microsoft.com/resources/collection/csp-open-evolution-to-a-better-experience#/) (örneğin, [hazırlık Haritası](https://partner.microsoft.com/resources/detail/csp-open-evolution-to-a-better-experience-readiness-map-pdf))
-- [CSP programındaki kalıcı yazılım](https://partner.microsoft.com/resources/collection/software-in-csp#/) (örneğin, [hazırlık Haritası](https://partner.microsoft.com/resources/detail/software-in-csp-readiness-map-pdf))
+- [CSP programı evrimi ve Açık Lisans programı değişiklikleri](https://partner.microsoft.com/resources/collection/csp-open-evolution-to-a-better-experience#/) (örneğin, Hazır olma [haritası)](https://partner.microsoft.com/resources/detail/csp-open-evolution-to-a-better-experience-readiness-map-pdf)
+- [CSP programında kalıcı yazılım](https://partner.microsoft.com/resources/collection/software-in-csp#/) (örneğin, [Hazır olma haritası)](https://partner.microsoft.com/resources/detail/software-in-csp-readiness-map-pdf)
 
-bu tekliflerle ilgili sorular için, ilgili Microsoft iş ortağı Bağlan topluluklarınızı inceleyin.
+Bu teklifler hakkında sorularınız için ilgili Microsoft İş Ortağı ve Bağlan kontrol edin.
 
 ________________
-## <a name="view-this-months-product-launches-and-offers"></a><a name="1"></a>Bu aya ait ürünün başlatılan ve tekliflerini görüntüleyin
+## <a name="view-this-months-product-launches-and-offers"></a><a name="1"></a>Bu ayın ürün lansmanlarını ve tekliflerini görüntüleme
 
 ### <a name="categories"></a>Kategoriler
 
 - Tarih: 2021-10-01
 - Özellikler
 
-### <a name="impacted-audience"></a>Etkilenen hedef kitle
+### <a name="impacted-audience"></a>Etkilene hedef kitle
 
-tüm iş ortakları Bulut Çözümü Sağlayıcısı (CSP) programı üzerinden deneyimidir
+Bulut Çözümü Sağlayıcısı (CSP) programı aracılığıyla işlem yapılan tüm iş ortakları
 
 ### <a name="summary"></a>Özet
 
-Ekim ürünü başlatma takvimi artık yayımlandı.
+Ekim ürün lansman takvimi yayımlandı.
 
 ### <a name="details"></a>Ayrıntılar
 
-2021 Ekim [ürün başlatma takvimi](https://partner.microsoft.com/resources/collection/product-launch-calendar-collection#/) artık işlem hazırlık kaynağı galerisinde kullanılabilir. Yakında çıkacak ürünü görüntüleyin ve burada teklif edin.
+Ekim 2021 [ürün lansman takvimi](https://partner.microsoft.com/resources/collection/product-launch-calendar-collection#/) artık İşlemler için hazır olma kaynak galerisinde kullanılabilir. Yaklaşan ürün lansmanlarını ve tekliflerini burada görüntüle.
 
 ### <a name="next-steps"></a>Sonraki adımlar
 
-[Ürün başlatma takvimini](https://partner.microsoft.com/resources/collection/product-launch-calendar-collection#/)gözden geçirin ve bilgileri kuruluşunuzdaki uygun hissedarlarla paylaşabilirsiniz.
+Ürün [lansman takvimini](https://partner.microsoft.com/resources/collection/product-launch-calendar-collection#/)gözden geçirin ve bilgileri kuruluşta uygun proje katılımcıları ile paylaşın.
 
 ## <a name="questions"></a>Sorularınız mı var?
-bu teklifler hakkında daha fazla soru için ilgili Yammer topluluklarınızı kontrol edin.
+Bu teklifler hakkında daha fazla soru için ilgili topluluklar için Yammer kontrol edin.
